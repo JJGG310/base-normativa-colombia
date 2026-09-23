@@ -7,7 +7,7 @@ ramas: [territorial, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_1421_1993.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — SANTAFE DE BOGOTA, DISTRITO CAPITAL
@@ -368,9 +368,12 @@ También tendrán derecho durante el período para el cual fueron elegidos, a un
 
 Cuando ocurran faltas absolutas, quienes llenen las vacantes correspondientes tendrán derecho a los beneficios a que se refiere este artículo, desde el momento de su posesión y hasta que concluya el período respectivo. 
 
-El pago de los honorarios y de las primas de los seguros aquí previstos estará a cargo del presupuesto de la Corporación. 
+El pago de los honorarios y de las primas de los seguros aquí previstos estará a cargo del presupuesto de la Corporación.
 
-ARTÍCULO 34-A. LICENCIA DE MATERNIDAD PARA CONCEJALAS Y EDILESAS. <Artículo adicionado por el artículo 1 de la Ley 2148 de 2021. El nuevo texto es el siguiente:> La concejala o edilesa en estado de embarazo, o adoptante de un menor de edad, tendrá derecho al reconocimiento de la licencia de maternidad remunerada, como falta temporal permitida, por el tiempo y en las condiciones establecidas en el Código Sustantivo del Trabajo, las normas que lo modifique, adicione o derogue. La remuneración pagada durante la licencia corresponderá al valor de los honorarios correspondientes a las sesiones que se realicen durante su licencia de maternidad, los cuales serán pagados, por el seguro de salud al que esta se encuentre afiliada tal como establece la norma.
+## art:34a — LICENCIA DE MATERNIDAD PARA CONCEJALAS Y EDILESAS
+ubicacion: TITULO II. EL CONCEJO > CAPITULO III. CONCEJALES
+
+La concejala o edilesa en estado de embarazo, o adoptante de un menor de edad, tendrá derecho al reconocimiento de la licencia de maternidad remunerada, como falta temporal permitida, por el tiempo y en las condiciones establecidas en el Código Sustantivo del Trabajo, las normas que lo modifique, adicione o derogue. La remuneración pagada durante la licencia corresponderá al valor de los honorarios correspondientes a las sesiones que se realicen durante su licencia de maternidad, los cuales serán pagados, por el seguro de salud al que esta se encuentre afiliada tal como establece la norma.
 
 La concejala o la edilesa que entre a gozar de la licencia de maternidad, será reemplazada temporalmente mientras dure la licencia, por los candidatos no elegidos que según el orden de inscripción o votación obtenida, le sigan en forma sucesiva y descendente en la misma lista electoral.
 
@@ -494,19 +497,7 @@ El Presidente de la República destituirá al alcalde mayor:
 
 2. Cuando así lo haya solicitado el Procurador General de la Nación, y 
 
-3. En los demás casos previstos por la Constitución y la ley. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+3. En los demás casos previstos por la Constitución y la ley.
 
 ## art:45 — ABANDONO DEL CARGO
 ubicacion: TITULO III. ALCALDIA MAYOR
@@ -561,11 +552,17 @@ ubicacion: TITULO IV. ORGANIZACION GUBERNAMENTAL Y ADMINISTRATIVA
 
 El alcalde mayor, los secretarios de despacho y los jefes de departamento administrativo, y en cada caso particular el alcalde y el secretario o jefe de departamento correspondiente, constituyen el gobierno distrital. 
 
-Como jefe de la administración distrital el alcalde mayor ejerce sus atribuciones por medio de los organismos o entidades que conforme al presente decreto sean creados por el Concejo. 
+Como jefe de la administración distrital el alcalde mayor ejerce sus atribuciones por medio de los organismos o entidades que conforme al presente decreto sean creados por el Concejo.
 
-ARTÍCULO 53A. CONSEJO DISTRITAL DE GOBIERNO PARA ASUNTOS LOCALES. <Artículo adicionado por el artículo 3 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Créese el Consejo Distrital de Gobierno para Asuntos Locales como una instancia de atención de asuntos concernientes únicamente a las localidades. El Consejo se reunirá por lo menos dos veces al año y, en él tendrán asiento el Alcalde Mayor de Bogotá, los secretarios de despacho y los alcaldes locales, más los demás funcionarios que el Alcalde Mayor de Bogotá invite. 
+## art:53a — CONSEJO DISTRITAL DE GOBIERNO PARA ASUNTOS LOCALES
+ubicacion: TITULO IV. ORGANIZACION GUBERNAMENTAL Y ADMINISTRATIVA
 
-ARTÍCULO 53B. GABINETE LOCAL. <Artículo adicionado por el artículo 4 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Serán parte del gabinete local los alcaldes locales y los delegados de cada sector administrativo. 
+Créese el Consejo Distrital de Gobierno para Asuntos Locales como una instancia de atención de asuntos concernientes únicamente a las localidades. El Consejo se reunirá por lo menos dos veces al año y, en él tendrán asiento el Alcalde Mayor de Bogotá, los secretarios de despacho y los alcaldes locales, más los demás funcionarios que el Alcalde Mayor de Bogotá invite.
+
+## art:53b — GABINETE LOCAL
+ubicacion: TITULO IV. ORGANIZACION GUBERNAMENTAL Y ADMINISTRATIVA
+
+Serán parte del gabinete local los alcaldes locales y los delegados de cada sector administrativo. 
 
 Los sectores administrativos que componen la administración distrital deberán tener al menos un delegado con capacidad de decisión para cada localidad como un enlace directo de los asuntos de su competencia en las alcaldías locales. Sus reglas de funcionamiento serán determinadas mediante Decreto Distrital. 
 
@@ -690,12 +687,12 @@ El Concejo Distrital determinará, según la población de las localidades, el n
 
 Cada localidad elige su respectiva junta administradora. Con tal fin, la Registraduría Distrital del Estado Civil hará coincidir la división electoral interna del Distrito Capital con su división territorial en localidades. 
 
-En las votaciones que se realicen para la elección de juntas administradoras sólo podrán participar los ciudadanos que hagan parte del censo electoral que para cada localidad establezcan las autoridades competentes
+En las votaciones que se realicen para la elección de juntas administradoras sólo podrán participar los ciudadanos que hagan parte del censo electoral que para cada localidad establezcan las autoridades competentes.
 
 ## art:65 — REQUISITOS PARA LOS CARGOS DE EDIL Y ALCALDE LOCAL
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
 
-<Artículo modificado por el artículo 7 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Para ser elegido edil o nombrado alcalde local se requiere ser ciudadano en ejercicio y haber residido o desempeñado alguna actividad profesional, industrial, comercial o laboral en la respectiva localidad por lo menos durante los dos años anteriores a la fecha de la elección o del nombramiento. 
+Para ser elegido edil o nombrado alcalde local se requiere ser ciudadano en ejercicio y haber residido o desempeñado alguna actividad profesional, industrial, comercial o laboral en la respectiva localidad por lo menos durante los dos años anteriores a la fecha de la elección o del nombramiento. 
 
 Para ocupar el cargo de alcalde local, se deberá contar con los requisitos máximos descritos en el numeral 13.2.1.1 del artículo 13 del Decreto Ley 785 de 2005.
 
@@ -769,9 +766,12 @@ Los cuestionarios para las sesiones de seguimiento a la gestión e inversión lo
 
 17. Presentar anualmente una rendición de cuentas sobre la asistencia de sus corporados, iniciativas presentadas, votaciones, debates, gestión de intereses particulares, proyectos, partidas e inversiones públicas que hayan gestionado, así como cargos públicos para los cuales hayan presentado candidatos. 
 
-18. Ejercer las demás funciones que les asignen la Constitución, la ley y los decretos del alcalde mayor. 
+18. Ejercer las demás funciones que les asignen la Constitución, la ley y los decretos del alcalde mayor.
 
-ARTÍCULO 69A. APOYO TÉCNICO Y ADMINISTRATIVO A LAS JUNTAS ADMINISTRADORAS LOCALES. <Artículo adicionado por el artículo 9 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Con el fin de promover la gestión de las Juntas Administradoras Locales, la Alcaldía Mayor de Bogotá, reglamentará las condiciones en las que las JAL podrán acceder a mesas de apoyo técnico por localidad, para ejecutar labores jurídicas, administrativas y de secretaria, con cargo al Fondo de Desarrollo Local correspondiente.
+## art:69a — APOYO TÉCNICO Y ADMINISTRATIVO A LAS JUNTAS ADMINISTRADORAS LOCALES
+ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
+
+Con el fin de promover la gestión de las Juntas Administradoras Locales, la Alcaldía Mayor de Bogotá, reglamentará las condiciones en las que las JAL podrán acceder a mesas de apoyo técnico por localidad, para ejecutar labores jurídicas, administrativas y de secretaria, con cargo al Fondo de Desarrollo Local correspondiente.
 
 ## art:70 — PROHIBICIONES
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
@@ -886,9 +886,7 @@ El alcalde mayor podrá remover en cualquier tiempo los alcaldes locales. En tal
 
 Quienes integren las ternas deberán reunir los requisitos y calidades exigidas para el desempeño del cargo. 
 
-No podrán ser designados alcaldes locales quienes estén comprendidos en cualquiera de las inhabilidades señaladas para los ediles. Los alcaldes locales tienen el carácter de funcionarios de la administración distrital y estarán sometidos al régimen dispuesto para ellos. 
-
-ARTÍCULO NUEVO. <Artículo adicionado por el artículo 17 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Los acaldes locales serán designados bajo criterios de meritocracia y paridad de género. En todo caso el 50% de quienes resulten designados, deberán ser mujeres. Sus reglas de funcionamiento serán establecidas mediante Decreto Distrital.
+No podrán ser designados alcaldes locales quienes estén comprendidos en cualquiera de las inhabilidades señaladas para los ediles. Los alcaldes locales tienen el carácter de funcionarios de la administración distrital y estarán sometidos al régimen dispuesto para ellos.
 
 ## art:85 — REEMPLAZOS
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO IV. ALCALDES LOCALES
@@ -954,17 +952,7 @@ ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO V. FONDOS DE DESAR
 ## art:88 — PATRIMONIO
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO V. FONDOS DE DESARROLLO LOCAL
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo NULO - Efectos jurídicos prorrogados>
 
 ## art:89 — PARTICIPACION EN EL PRESUPUESTO DISTRITAL
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO V. FONDOS DE DESARROLLO LOCAL
@@ -1021,7 +1009,7 @@ ubicacion: TITULO VI. PERSONERIA
 ## art:97 — A
 ubicacion: TITULO VI. PERSONERIA
 
-ELECCIÓN, INHABILIDADES. <Ver Notas del Editor><Artículo modificado por el artículo 1 de la Ley 1031 de 2006. El nuevo texto es el siguiente:> El Personero Distrital será elegido por el Concejo durante el primer mes de sesiones ordinarias, para un período institucional de cuatro (4) años, que se iniciará el primero de marzo y concluirá el último día de febrero. Podrá ser reelegido, por una sola vez, para el período siguiente.
+ELECCIÓN, INHABILIDADES. <Artículo modificado por el artículo 1 de la Ley 1031 de 2006. El nuevo texto es el siguiente:> El Personero Distrital será elegido por el Concejo durante el primer mes de sesiones ordinarias, para un período institucional de cuatro (4) años, que se iniciará el primero de marzo y concluirá el último día de febrero. Podrá ser reelegido, por una sola vez, para el período siguiente.
 
 No podrá ser elegido personero quien sea o haya sido en el último año miembro del Concejo, ni quien haya ocupado durante el mismo lapso cargo público en la administración central o descentralizada del Distrito. Estarán igualmente inhabilitados quienes hayan sido condenados en cualquier época por sentencia judicial a pena privativa de la libertad, excepto por delitos políticos o culposos, excluidos del ejercicio de una profesión o sancionados por faltas a la ética profesional.
 
@@ -1307,7 +1295,7 @@ En ningún caso, el veedor podrá reformar o revocar los actos que expidan o hay
 
 Las autoridades correspondientes deberán prestar la colaboración necesaria para asegurar el normal cumplimiento de las funciones de la veeduría. Si no lo hicieren, incurrirán en causal de mala conducta. 
 
-<Aparte tachado NULO> Corresponde al veedor nombrar y separar libremente los funcionarios de su dependencia.
+<Aparte tachado NULO> Corresponde al veedor nombrar y separar [TACHADO: libremente] los funcionarios de su dependencia.
 
 ## art:122 — PRELACION DE LAS DECISIONES DE OTRAS AUTORIDADES
 ubicacion: TITULO VII. CONTROL FISCAL, CONTROL INTERNO Y VEEDURIA > CAPITULO III. VEEDURIA
@@ -1328,14 +1316,14 @@ ubicacion: TITULO VII. CONTROL FISCAL, CONTROL INTERNO Y VEEDURIA > CAPITULO III
 
 Para ser nombrado veedor se requiere ser colombiano de nacimiento ciudadano en ejercicio, tener más de treinta (30) años de edad y, además, haber desempeñado alguno de los cargos de Magistrado de Tribunal Superior o Administrativo o haber ejercido con buen crédito por cinco (5) años a lo menos, una profesión con título universitario. El veedor será nombrado por el alcalde mayor para período igual al suyo o lo que falte de éste, según el caso. 
 
-<Inciso 2o. NULO> A los funcionarios de la veeduría se les aplica el mismo régimen de inhabilidades e incompatibilidades previsto para el personero distrital.
+<Inciso 2o. NULO> [TACHADO: A los funcionarios de la veeduría se les aplica el mismo régimen de inhabilidades e incompatibilidades previsto para el personero distrital].
 
 ## art:125 — EMPLEADOS Y TRABAJADORES
 ubicacion: TITULO VIII. SERVIDORES PUBLICOS
 
 Los servidores públicos vinculados a la administración tienen el carácter de empleados públicos; sin embargo, los trabajadores de la construcción y el sostenimiento de obras públicas son trabajadores oficiales. 
 
-<Aparte tachado NULO> Los servidores de los establecimientos públicos y de los entes universitarios autónomos también son empleados públicos. En sus estatutos se precisarán las actividades que deben ser desempeñadas por trabajadores oficiales, de acuerdo con el anterior inciso. 
+<Aparte tachado NULO> Los servidores de los establecimientos públicos [TACHADO: y de los entes universitarios autónomos] también son empleados públicos. En sus estatutos se precisarán las actividades que deben ser desempeñadas por trabajadores oficiales, de acuerdo con el anterior inciso. 
 
 Las personas que presten sus servicios en las empresas industriales y comerciales son empleados públicos o trabajadores oficiales. En los estatutos de dichas entidades se precisarán cuáles servidores tienen una u otra calidad. 
 
@@ -1406,19 +1394,7 @@ La comisión de faltas leves dará lugar a la aplicación de la sanción contemp
 ## art:132 — PLAZO DE LA INVESTIGACION
 ubicacion: TITULO VIII. SERVIDORES PUBLICOS
 
-La investigación disciplinaria deberá adelantarse dentro de un plazo de treinta (30) días hábiles prorrogable por otros treinta (30) más, por la autoridad nominadora, dejando constancia escrita de las razones que tuvo para ello. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La investigación disciplinaria deberá adelantarse dentro de un plazo de treinta (30) días hábiles prorrogable por otros treinta (30) más, por la autoridad nominadora, dejando constancia escrita de las razones que tuvo para ello.
 
 ## art:133 — PROCEDIMIENTO
 ubicacion: TITULO VIII. SERVIDORES PUBLICOS
@@ -1531,9 +1507,12 @@ Si en razón de las disposiciones del presupuesto que se apruebe para el Distrit
 
 Corresponde al secretario de hacienda autorizar previamente los aportes o transferencias de la administración central que se propongan en los presupuestos de las entidades descentralizadas. 
 
-Las utilidades de las empresas industriales y comerciales del Distrito son propiedad del mismo. El Consejo de Política Económica y Fiscal en cada vigencia determinará la cuantía de las utilidades que entrará a hacer parte de los recursos de capital del presupuesto distrital. 
+Las utilidades de las empresas industriales y comerciales del Distrito son propiedad del mismo. El Consejo de Política Económica y Fiscal en cada vigencia determinará la cuantía de las utilidades que entrará a hacer parte de los recursos de capital del presupuesto distrital.
 
-ARTÍCULO 143A. VIGENCIAS FUTURAS ORDINARIAS. <Artículo adicionado por el artículo 14 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> El Confis Distrital podrá autorizar la asunción de obligaciones que afectan presupuestos de vigencias futuras de funcionamiento o inversión cuando su ejecución se inicie con el presupuesto de la vigencia en curso y el objeto del compromiso se lleve a cabo en cada una de ellas siempre y cuando se cumpla que: 
+## art:143a — VIGENCIAS FUTURAS ORDINARIAS
+ubicacion: TITULO IX. REGIMEN PRESUPUESTAL
+
+El Confis Distrital podrá autorizar la asunción de obligaciones que afectan presupuestos de vigencias futuras de funcionamiento o inversión cuando su ejecución se inicie con el presupuesto de la vigencia en curso y el objeto del compromiso se lleve a cabo en cada una de ellas siempre y cuando se cumpla que: 
 
 a) El monto máximo de vigencias futuras, el plazo y las condiciones de las mismas consulte las metas plurianuales del Marco Fiscal de Mediano Plazo de que trata esta ley; 
 
@@ -1545,9 +1524,12 @@ d) Cuando se trate de proyectos de inversión con cofinanciación de la nación,
 
 La autorización por parte del Confis para comprometer presupuesto con cargo a vigencias futuras no podrá superar el respectivo periodo de gobierno. Se exceptúan los proyectos de gastos de inversión en aquellos casos en que el Consejo de Gobierno previamente los declare de importancia estratégica. El Gobierno Distrital reglamentará la materia. 
 
-La Secretaría Distrital de Hacienda - Dirección Distrital de Presupuesto incluir en los proyectos de presupuesto, las asignaciones necesarias para dar cumplimiento a lo dispuesto en este artículo. 
+La Secretaría Distrital de Hacienda - Dirección Distrital de Presupuesto incluir en los proyectos de presupuesto, las asignaciones necesarias para dar cumplimiento a lo dispuesto en este artículo.
 
-ARTÍCULO 143C. RECURSOS ADICIONALES DE LA NACIÓN, FINANCIACIÓN DEL RÉGIMEN SUBSIDIADO. <Artículo adicionado por el artículo 15 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Los recursos adicionales a los previstos en el presupuesto aprobado de cada vigencia por concepto de Transferencias, Cofinanciación y demás aportes de la Nación y Rentas de destinación específica que financian el Régimen Subsidiado se incorporarán al Presupuesto Distrital mediante decreto distrital. La Secretaría Distrital de Hacienda, informará de estas operaciones a la Comisión de Presupuesto del Concejo Distrital dentro de los treinta (30) días siguientes a la incorporación de dichos recursos
+## art:143c — RECURSOS ADICIONALES DE LA NACIÓN, FINANCIACIÓN DEL RÉGIMEN SUBSIDIADO
+ubicacion: TITULO IX. REGIMEN PRESUPUESTAL
+
+Los recursos adicionales a los previstos en el presupuesto aprobado de cada vigencia por concepto de Transferencias, Cofinanciación y demás aportes de la Nación y Rentas de destinación específica que financian el Régimen Subsidiado se incorporarán al Presupuesto Distrital mediante decreto distrital. La Secretaría Distrital de Hacienda, informará de estas operaciones a la Comisión de Presupuesto del Concejo Distrital dentro de los treinta (30) días siguientes a la incorporación de dichos recursos.
 
 ## art:179a — Artículo adicionado por el artículo 16 de la Ley 2116 de 2021. El nuevo texto es el siguiente:
 ubicacion: TITULO IX. REGIMEN PRESUPUESTAL
@@ -1668,13 +1650,13 @@ ubicacion: TITULO XI. REGIMEN FISCAL
 
 A partir del año gravable de 1994, introdúcense las siguientes modificaciones al impuesto predial unificado en el Distrito Capital: 
 
-1. <Ver Notas del Editor> La base gravable será el valor que mediante el auto avalúo establezca el contribuyente y el cual no podrá ser inferior al avalúo catastral o auto avalúo del año inmediatamente anterior, según el caso, incrementado en la variación porcentual del índice nacional de precios al consumidor en el año calendario inmediatamente anterior certificado por el Departamento Administrativo Nacional de Estadística (DANE). Cuando el predio tenga un incremento menor o un decremento, el contribuyente solicitará autorización para declarar el menor valor.
+1. La base gravable será el valor que mediante el auto avalúo establezca el contribuyente y el cual no podrá ser inferior al avalúo catastral o auto avalúo del año inmediatamente anterior, según el caso, incrementado en la variación porcentual del índice nacional de precios al consumidor en el año calendario inmediatamente anterior certificado por el Departamento Administrativo Nacional de Estadística (DANE). Cuando el predio tenga un incremento menor o un decremento, el contribuyente solicitará autorización para declarar el menor valor.
 
 2. El contribuyente liquidará el impuesto con base en el auto avalúo y las tarifas vigentes. Lo hará en el formulario que para el efecto adopte la administración tributaria distrital. Si el impuesto resultante fuere superior al doble del monto establecido el año anterior por el mismo concepto, únicamente se liquidará como incremento del tributo una suma igual al ciento por ciento (100%) del predial del año anterior. La limitación aquí prevista no se aplicará cuando existan mutaciones en el inmueble ni cuando se trate de terrenos urbanizables no urbanizados o urbanizados no edificados. 
 
 3. <Numeral NULO> 
 
-4. <Ver Notas del Editor> Responderán solidariamente por el pago del impuesto, el propietario y poseedor del predio. 
+4. Responderán solidariamente por el pago del impuesto, el propietario y poseedor del predio. 
 
 5. La administración distrital podrá establecer bases presuntas mínimas para los auto avalúos de conformidad con los parámetros técnicos sobre precios por metro cuadrado de construcción o terreno según estrato, y 
 
@@ -1719,7 +1701,7 @@ ubicacion: TITULO XI. REGIMEN FISCAL
 
 Las exenciones y tratamientos preferenciales contemplados en las leyes a favor de la Nación y de sus establecimientos públicos, respecto de los tributos distritales, quedan vigentes hasta el 31 de diciembre de 1994. 
 
-<Ver Notas de Vigencia> Continuarán vigentes, incluso a partir de dicha fecha, las exenciones y tratamientos preferenciales aplicables a las siguientes entidades nacionales: universidades públicas, colegios, museos, hospitales pertenecientes a los organismos y entidades nacionales y el Instituto de Cancerología, Igualmente continuarán vigentes las exenciones y tratamientos preferenciales aplicables a los aeropuertos, las instalaciones militares y de policía, los inmuebles utilizados por la Rama Judicial y los predios del Inurbe destinados a la construcción de vivienda de interés social. 
+ Continuarán vigentes, incluso a partir de dicha fecha, las exenciones y tratamientos preferenciales aplicables a las siguientes entidades nacionales: universidades públicas, colegios, museos, hospitales pertenecientes a los organismos y entidades nacionales y el Instituto de Cancerología, Igualmente continuarán vigentes las exenciones y tratamientos preferenciales aplicables a los aeropuertos, las instalaciones militares y de policía, los inmuebles utilizados por la Rama Judicial y los predios del Inurbe destinados a la construcción de vivienda de interés social. 
 
 La administración distrital podrá conciliar con la Nación el pago de las deudas pendientes a favor suyo y a cargo de ésta, mediante la compensación con otras obligaciones.
 
@@ -1854,18 +1836,6 @@ Los cargos de libre nombramiento y remoción en dichas revisarías fiscales cons
 
 - Consejo de Estado Sala de Consulta y Servicio Civil, Concepto No. 1816 de 3 de mayo de 2007 (autorizada publicación mediante Of. de 20/06/2007), C.P. Dr. Flavio Augusto Rodríguez Arce
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:178 — CAPACIDAD DE ENDEUDAMIENTO
 ubicacion: TITULO XIII. DISPOSICIONES VARIAS Y TRANSITORIAS
 
@@ -1904,15 +1874,3 @@ RUDOLF HOMMES RODRIGUEZ.
 El Director del Departamento Nacional de Planeación, 
 
 ARMANDO MONTENEGRO TRUJILLO.
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.

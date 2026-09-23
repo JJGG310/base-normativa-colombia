@@ -7,7 +7,7 @@ ramas: [migratorio, internacional-publico, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74000
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Relaciones Exteriores
@@ -20,41 +20,33 @@ TÍTULO 2.
 
 ÓRGANOS SECTORIALES DE ASESORÍA Y COORDINACIÓN
 
-ARTÍCULO
+## art:1.1.2.1 — 
 
-## art:1.1.2.1 — Comisión intersectorial para el retorno
+1.1.2.1. Comisión intersectorial para el retorno.
 
-ARTÍCULO
+## art:1.1.2.2 — 
 
-## art:1.1.2.2 — Comisión nacional para asuntos Antárticos
+1.1.2.2. Comisión nacional para asuntos Antárticos.
 
-ARTÍCULO
+## art:1.1.2.3 — 
 
-## art:1.1.2.3 — Comisión nacional permanente de la organización del Tratado de Cooperación Amazónica
-
-ARTÍCULO
+1.1.2.3. Comisión nacional permanente de la organización del Tratado de Cooperación Amazónica.
 
 ## art:1.1.2.4 — 2.4
 
 Comisión asesora para la determinación de la condición de refugiado (CONARE)
 
-ARTÍCULO
-
 ## art:1.1.2.5 — 2.5
 
 Autoridad Nacional para la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y su Destrucción, ANPROAQ.
-
-ARTÍCULO
 
 ## art:1.1.2.6 — 2.6
 
 Comité de Coordinación Nacional para la Prevención, Combate y Erradicación del Tráfico Ilícito de Armas Pequeñas y Ligeras en todos sus aspectos.
 
-ARTÍCULO
+## art:1.1.2.7 — 
 
-## art:1.1.2.7 — Comité de Asistencia a Connacionales en el Exterior
-
-ARTÍCULO
+1.1.2.7. Comité de Asistencia a Connacionales en el Exterior.
 
 ## art:1.1.2.8 — Comité evaluador de casos ¿ Fondo Especial para las Migraciones
 
@@ -66,15 +58,11 @@ TÍTULO 1.
 
 ENTIDADES ADSCRITAS AL MINISTERIO DE RELACIONES EXTERIORES
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Unidad Administrativa Especial Migración Colombia
 
 El objetivo de Migración Colombia, es ejercer las funciones de autoridad de vigilancia y control migratorio y de extranjería del Estado colombiano, dentro del marco de la soberanía nacional y de conformidad con las leyes y la política que en la materia defina el Gobierno Nacional.
 
 (Decreto 4062 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Fondo Rotatorio del Ministerio de Relaciones Exteriores
 
@@ -94,13 +82,9 @@ TÍTULO 1.
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad vigente expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para la cumplida ejecución de las leyes.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de aplicación
 
@@ -117,8 +101,6 @@ ASUNTOS CONSULARES
 CAPÍTULO 1.
 
 MISIONES DIPLOMÁTICAS
-
-ARTÍCULO
 
 ## art:2.2.1.1.1 — Concurrencias de las Misiones Diplomáticas
 
@@ -264,8 +246,6 @@ SECCIÓN 1.
 
 AMÉRICA
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1 — República Bolivariana de Venezuela
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República Bolivariana de Venezuela.
@@ -304,8 +284,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2 — República Federativa de Brasil
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República Federativa de Brasil.
@@ -328,8 +306,6 @@ PARÁGRAFO TRANSITORIO: En tanto se culmine la apertura del Consulado en Río de
 
 (Decreto 1945 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3 — REPÚBLICA DEL ECUADOR
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República del Ecuador.
@@ -348,8 +324,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4 — República de Panamá
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Panamá.
@@ -366,8 +340,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.5 — República del Perú
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República del Perú.
@@ -380,8 +352,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.6 — Jamaica
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en Jamaica.
@@ -392,8 +362,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en Jamaica.
 
 (Decreto 1945 de 2012, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.7 — REPÚBLICA DE COSTA RICA
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Costa Rica.
@@ -402,8 +370,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.8 — REPÚBLICA DE CUBA
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Cuba.
@@ -411,8 +377,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 - La Habana. República de Cuba.
 
 (Decreto 1945 de 2012, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.9 — República de El Salvador
 
@@ -424,8 +388,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.10 — República de Guatemala
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República de Guatemala.
@@ -436,8 +398,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.11 — REPÚBLICA DE HONDURAS
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Honduras.
@@ -446,8 +406,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.12 — REPÚBLICA DE NICARAGUA
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Nicaragua.
@@ -455,8 +413,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 - Managua. República de Nicaragua.
 
 (Decreto 1945 de 2012, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.13 — República de Trinidad y Tobago
 
@@ -478,8 +434,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.15 — Canadá
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en Canadá.
@@ -497,8 +451,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en Canad
 (Modificado por el Art. 10 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.16 — ESTADOS UNIDOS DE AMÉRICA
 
@@ -534,8 +486,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en Estad
 
 (Decreto 1945 de 2012, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.17 — Estados Unidos Mexicanos
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en los Estados Unidos Mexicanos
@@ -558,8 +508,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en los E
 
 (Decreto 1945 de 2012, art. 18; Modificado por el Decreto 1181 de 2018, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.18 — ESTADO PLURINACIONAL DE BOLIVIA
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Estado Plurinacional de Bolivia.
@@ -567,8 +515,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Es
 - La Paz. Estado Plurinacional de Bolivia.
 
 (Decreto 1945 de 2012, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.19 — República Argentina
 
@@ -584,8 +530,6 @@ PARÁGRAFO TRANSITORIO . El Consulado de Colombia en Buenos Aires tendrá circun
 
 (Decreto 1945 de 2012, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.20 — República de Chile
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Chile.
@@ -598,8 +542,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.21 — REPÚBLICA DEL PARAGUAY
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República del Paraguay.
@@ -607,8 +549,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 - Asunción. República del Paraguay.
 
 (Decreto 1945 de 2012, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.22 — República Oriental del Uruguay
 
@@ -632,8 +572,6 @@ SECCIÓN 2.
 
 África y Medio Oriente
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Emiratos Árabes Unidos
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en los Emiratos Árabes Unidos.
@@ -644,8 +582,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en los Emirat
 
 (Decreto 1945 de 2012, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.2 — Estado de Israel
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Estado de Israel.
@@ -653,8 +589,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Es
 - Tel Aviv. Estado de Israel, territorios administrados por la Autoridad Palestina.
 
 (Decreto 1945 de 2012, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.3 — República Árabe de Egipto
 
@@ -666,8 +600,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4 — Reino de Marruecos
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en el Reino de Marruecos.
@@ -677,8 +609,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en el Reino d
 (Modificado por el Art. 18 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.5 — República Argelina Democrática y Popular
 
@@ -690,8 +620,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.6 — República Libanesa
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República Libanesa.
@@ -701,8 +629,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 (Modificado por el Art. 20 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.7 — República de Kenia
 
@@ -714,8 +640,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.8 — República de Ghana
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Ghana.
@@ -725,8 +649,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 (Modificado por el Art. 22 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.9 — República de Sudáfrica
 
@@ -742,8 +664,6 @@ SECCIÓN 3.
 
 Asia y Oceanía
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1 — Mancomunidad de Australia
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Mancomunidad de Australia.
@@ -756,8 +676,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Ma
 
 (Decreto 1945 de 2012, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2 — Nueva Zelandia
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en Nueva Zelandia.
@@ -767,8 +685,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en Nueva Zela
 (Modificado por el Art. 25 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.3 — Japón
 
@@ -780,8 +696,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en Japón.
 
 (Decreto 1945 de 2012, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.4 — Malasia
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en Malasia.
@@ -791,8 +705,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en Malasia.
 (Modificado por el Art. 27 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.5 — República de Corea
 
@@ -804,8 +716,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Modificado por el Art. 28 del Decreto 2348 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.6 — República de Indonesia
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República de Indonesia.
@@ -816,8 +726,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.7 — República de la India
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República de la India.
@@ -827,8 +735,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 (Modificado por el Art. 30 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.8 — República Popular China
 
@@ -846,8 +752,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
  (Decreto 1945 de 2012, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.9 — Reino de Tailandia
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en el Reino de Tailandia.
@@ -855,8 +759,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en el Reino d
 - Bangkok. Reino de Tailandia, Reino de Camboya, República de la Unión de Myanmar y República Popular Lao.
 
 (Adicionado por el Art. 32 del Decreto 2348 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.10 — República de Singapur
 
@@ -866,8 +768,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Adicionado por el Art. 33 del Decreto 2348 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.11 — República Socialista de Vietnam
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República Socialista de Vietnam.
@@ -875,8 +775,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 - Hanói. República Socialista de Vietnam.
 
 (Adicionado por el Art. 34 del Decreto 2348 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.12 — REPÚBLICA DE FILIPINAS
 
@@ -890,8 +788,6 @@ SECCIÓN 4.
 
 Europa
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.1 — Confederación Suiza
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Confederación Suiza.
@@ -899,8 +795,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Co
 - Berna. Confederación Suiza, Principado de Liechtenstein.
 
 (Decreto 1945 de 2012, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2 — Federación Rusa
 
@@ -912,8 +806,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Federac
 
 (Decreto 1945 de 2012, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.3 — Reino de Bélgica
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Reino de Bélgica.
@@ -921,8 +813,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Re
 - Bruselas. Reino de Bélgica, Gran Ducado de Luxemburgo.
 
 (Decreto 1945 de 2012, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.4 — Reino de España
 
@@ -946,8 +836,6 @@ Fíjense la circunscripción para las Oficinas Consulares acreditadas en el Rein
 
 (Decreto 1945 de 2012, art. 44)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.5 — REINO DE LOS PAÍSES BAJOS
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Reino de los Países Bajos.
@@ -960,8 +848,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Re
 
 (Decreto 1945 de 2012, art. 45)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.6 — REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE
 
 Fíjase la circunscripción para las Oficinas Consulares acreditadas en el Reino de Gran Bretaña e Irlanda del Norte
@@ -969,8 +855,6 @@ Fíjase la circunscripción para las Oficinas Consulares acreditadas en el Reino
 - Londres. Reino de Gran Bretaña e Irlanda del Norte, Islas del Canal, Isla de Man, Gibraltar.
 
 (Decreto 1945 de 2012, art. 46; Modificado por el Decreto 1181 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.7 — REINO DE NORUEGA
 
@@ -981,8 +865,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en el Re
 (Modificado por el Art. 2 del Decreto 1181 de 2018)
 
 (Decreto 1945 de 2012, art. 47)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.8 — REINO DE SUECIA
 
@@ -996,8 +878,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en el Reino d
 
 (Decreto 1945 de 2012, art. 48)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.9 — República de Austria
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República de Austria.
@@ -1009,8 +889,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 (Modificado por el Art. 38 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 49)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.10 — REPÚBLICA DE ITALIA
 
@@ -1024,8 +902,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Modificado por el Art. 39 del Decreto 2348 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.11 — REPÚBLICA DE TÜRKIYE
 
 Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la República de Türkiye.
@@ -1037,8 +913,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 (Modificado por el Art. 1 del Decreto 1406 de 2024)
 
 (Decreto 1945 de 2012, art. 51)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.12 — República Federal de Alemania
 
@@ -1054,8 +928,6 @@ Fíjense las circunscripciones para las Oficinas Consulares acreditadas en la Re
 
 (Decreto 1945 de 2012, art. 52)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.13 — República Francesa
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República Francesa.
@@ -1065,8 +937,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 (Modificado por el Art. 42 del Decreto 2348 de 2015)
 
 (Decreto 1945 de 2012, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.14 — República de Polonia
 
@@ -1078,8 +948,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 54)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.15 — República Portuguesa
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República Portuguesa.
@@ -1090,8 +958,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 
 (Decreto 1945 de 2012, art. 55)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.16 — República de Finlandia
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en la República de Finlandia.
@@ -1099,8 +965,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en la Repúbl
 - Helsinki. República de Finlandia.
 
 (Adicionado por el Art. 45 del Decreto 2348 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.17 — .17
 
@@ -1116,8 +980,6 @@ ESTADOS UNIDOS MEXICANOS: Fíjense las circunscripciones para las Oficinas Consu
 
 (Adicionado por el Art. 46 del Decreto 2348 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.18 — HUNGRÍA
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en Hungría.
@@ -1126,8 +988,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en Hungría.
 
 (Adicionado por el Art. 6 del Decreto 1181 de 2018)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.19 — IRLANDA
 
 Fíjense las circunscripciones para la Oficina Consular acreditada en República de Irlanda.
@@ -1135,8 +995,6 @@ Fíjense las circunscripciones para la Oficina Consular acreditada en República
 - Dublín: Fíjense las circunscripciones para la Oficina Consular en todo el territorio de Irlanda.
 
 (Adicionado por el Art. 7 del Decreto 1181 de 2018)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.20 — Reino de Dinamarca
 
@@ -1150,15 +1008,11 @@ CAPÍTULO 3.
 
 SERVICIO CONSULAR HONORARIO
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Ámbito normativo
 
 El funcionamiento de las Oficinas Consulares Honorarias y las actuaciones de los Cónsules Honorarios se regirán por la Convención de Viena sobre Relaciones Consulares de 1963, aprobada mediante la Ley 17 de 1971.
 
 (Decreto 952 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2 — Criterios para la creación de oficinas consulares honorarias
 
@@ -1166,15 +1020,11 @@ La creación de las Oficinas Consulares Honorarias, así como el nombramiento de
 
 (Decreto 952 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3 — Competencia para el estudio y evaluación
 
 Corresponde al Ministerio de Relaciones Exteriores, Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano, el estudio y evaluación para la creación de Oficinas Consulares Honorarias y su circunscripción, así como de las personas que serán designadas como Cónsules Honorarios.
 
 (Decreto 952 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4 — Control de las oficinas consulares honorarias
 
@@ -1183,8 +1033,6 @@ Las Misiones Diplomáticas y Oficinas Consulares de carrera vigilarán de manera
 (Modificado por el Art. 1 del Decreto 1743 de 2015)
 
 (Decreto 952 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5 — Dependencia de las oficinas consulares honorarias
 
@@ -1198,15 +1046,11 @@ SECCIÓN 1.
 
 DE LAS OFICINAS CONSULARES HONORARIAS
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.1 — Definición
 
 Entiéndase como Oficina Consular Honoraria aquella dirigida por quien el Estado Colombiano designe formalmente como Cónsul Honorario, destinada al cumplimiento de las funciones consulares indicadas en éste capítulo.
 
 (Decreto 952 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.2 — Funciones
 
@@ -1226,8 +1070,6 @@ d) Proteger en el Estado receptor los intereses de Colombia y de sus nacionales,
 
 (Decreto 952 de 2014, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.3 — Apertura
 
 La propuesta de apertura de una Oficina Consular Honoraria estará a cargo exclusivamente de la Misión Diplomática acreditada o concurrente en el país donde funcionará la Oficina Consular Honoraria; a falta de ésta, de la Oficina Consular de carrera que tenga la circunscripción.
@@ -1242,8 +1084,6 @@ La propuesta deberá ser elevada a la Dirección de Asuntos Migratorios, Consula
 
 (Decreto 952 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.4 — Exequátur
 
 Una vez aceptada la propuesta, la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano autorizará a la Misión Diplomática Colombiana en el país que corresponda, solicitar al Gobierno receptor la respectiva autorización para la apertura de la Oficina Consular Honoraria, informando la sede, la clase, la circunscripción que tendrá, y el nombre de la persona que se va a designar como cónsul honorario, de acuerdo con lo dispuesto en el artículo 4 de la Convención de Viena de 1963 sobre Relaciones Consulares.
@@ -1251,8 +1091,6 @@ Una vez aceptada la propuesta, la Dirección de Asuntos Migratorios, Consulares 
 (Modificado por el Art. 5 del Decreto 1743 de 2015)
 
 (Decreto 952 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.5 — Preparación del decreto de creación de la oficina consular honoraria
 
@@ -1262,23 +1100,17 @@ La Misión Diplomática o en su defecto, la Oficina Consular de carrera de la cu
 
 (Decreto 952 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.6 — Locales
 
 Las Oficinas Consulares Honorarias, de ser necesario, podrán instalarse en locales donde simultáneamente se desarrollen actividades distintas a la función consular, siempre que se habilite en ellos un área decorosa e independiente para dicha función, y que las normas sobre privilegios e inmunidades del Estado receptor así lo permitan; igualmente deberán contar con un espacio físico donde se puedan mantener sus archivos ordenados y actualizados. El local en donde funcione la Oficina Consular Honoraria deberá encontrarse debidamente adecuado para la atención al público.
 
 (Decreto 952 de 2014, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.7 — Inviolabilidad de archivos y documentos
 
 Los archivos y documentos consulares son inviolables y de propiedad del Estado colombiano. Su manejo y seguridad se sujetarán a las disposiciones específicas de la Convención de Viena de 1963 sobre Relaciones Consulares y estarán sujetos a la misma reserva establecida por las normas colombianas para los archivos de la Cancillería.
 
 (Decreto 952 de 2014, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.8 — Obligación de uso y exhibición de la bandera y escudo nacionales
 
@@ -1288,15 +1120,11 @@ Las Oficinas Consulares Honorarias deberán obligatoriamente usar y exhibir la b
 
 (Decreto 952 de 2014, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.9 — Personal privado
 
 En caso de que el Cónsul Honorario requiera contratar personal para prestar servicios en la Oficina Consular Honoraria, dicho personal no tendrá ninguna relación laboral ni de subordinación o dependencia con el Ministerio de Relaciones, siendo los pagos y demás obligaciones a las que dicho personal tenga derecho, responsabilidad exclusiva del cónsul honorario.
 
 (Decreto 952 de 2014, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.10 — Horario de atención de la oficina
 
@@ -1310,8 +1138,6 @@ SECCIÓN 2.
 
 DE LOS CÓNSULES HONORARIOS
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.1 — Definición
 
 Cónsul Honorario es la persona designada por el Gobierno Colombiano para ejercer funciones consulares en el exterior, restringidas en cuanto a su naturaleza, extensión y amplitud, a los parámetros permitidos por el Derecho Internacional y a las normas colombianas sobre la materia. Las funciones consulares honorarias podrán ser ejercidas por ciudadanos colombianos o extranjeros con disposición para actuar a favor de los intereses del Estado Colombiano y de sus nacionales. La escogencia del Cónsul Honorario deberá recaer sobre personas que mantengan vínculos con Colombia o la comunidad colombiana, y que acrediten poseer las condiciones económicas y de idoneidad adecuadas para desempeñar honrosamente las funciones descritas en el presente Capitulo.
@@ -1321,8 +1147,6 @@ Los Cónsules Honorarios podrán tener las categorías de Cónsul General, Cóns
 PARÁGRAFO . Los cónsules honorarios no tendrán ninguna relación laboral con la Cancillería ni podrán recibir remuneración de ningún tipo por sus servicios como tales.
 
 (Decreto 952 de 2014, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.2 — Requisitos
 
@@ -1348,8 +1172,6 @@ g. No tener antecedentes penales.
 
 (Decreto 952 de 2014, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.3 — Entrevista
 
 El candidato deberá ser entrevistado por el Embajador de la respectiva misión, quien emitirá, un concepto por escrito recomendando, si es del caso, su designación.
@@ -1357,8 +1179,6 @@ El candidato deberá ser entrevistado por el Embajador de la respectiva misión,
 (Modificado por el Art. 10 del Decreto 1743 de 2015)
 
 (Decreto 952 de 2014, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.4 — Nombramiento
 
@@ -1383,8 +1203,6 @@ h. Concepto de la entrevista sostenida previamente con el Embajador acreditado o
 (Modificado por el Art. 11 del Decreto 1743 de 2015)
 
 (Decreto 952 de 2014, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.5 — Deberes de los cónsules honorarios
 
@@ -1430,8 +1248,6 @@ p) Mantener los archivos de la Oficina Consular Honorario en estricto orden.
 
 (Decreto 952 de 2014, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.6 — Funciones de los cónsules honorarios
 
 Son funciones de los cónsules honorarios:
@@ -1464,8 +1280,6 @@ l. Actualizar el registro consular de los Connacionales residentes en su circuns
 
 (Decreto 952 de 2014, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.7 — Funciones administrativas de los cónsules honorarios
 
 Son funciones de índole administrativa:
@@ -1478,8 +1292,6 @@ b) Establecer un horario de atención al público, de acuerdo con la costumbre d
 
 (Decreto 952 de 2014, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.8 — Informes semestrales
 
 Los Cónsules Honorarios deberán presentar a la Embajada u Oficina Consular de carrera que corresponda, y a la Dirección de Asuntos Migratorios, Consulares y de Atención al Ciudadano, un informe semestral de las actividades desarrolladas en su circunscripción, relativo a los deberes y funciones a su cargo. La Dirección de Asuntos Migratorios, Consulares y de Atención al Ciudadano efectuará un estudio de los informes semestrales rendidos por los Cónsules Honorarios. En caso de que la evaluación no se considere satisfactoria, la Dirección informará sobre el particular al despacho del Ministro de Relaciones Exteriores, quien decidirá sobre la permanencia del cónsul en su cargo.
@@ -1488,15 +1300,11 @@ Los Cónsules Honorarios deberán presentar a la Embajada u Oficina Consular de 
 
 (Decreto 952 de 2014, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.9 — Facilidades, privilegios e inmunidades
 
 Los privilegios e inmunidades del Cónsul Honorario y de la Oficina Consular Honoraria se regirán por lo que establece el Capítulo 3 de la Convención de Viena de 1963 sobre Relaciones Consulares y lo estipulado en las leyes y reglamentos vigentes sobre la materia en el Estado receptor. Los Cónsules Honorarios no pueden reclamar otros ni mayores privilegios de los que les otorgan dichas normas.
 
 (Decreto 952 de 2014, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.10 — Franquicias aduaneras
 
@@ -1505,8 +1313,6 @@ Las franquicias aduaneras a favor de las Oficinas Consulares Honorarias, compren
 (Modificado por el Art. 15 del Decreto 1743 de 2015)
 
 (Decreto 952 de 2014, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.11 — Faltas temporales
 
@@ -1519,8 +1325,6 @@ Cuando los Cónsules Honorarios no puedan ejercer sus funciones de manera tempor
 SECCIÓN 3.
 
 DE LA CESACIÓN DE FUNCIONES
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.1 — Cesación de funciones
 
@@ -1544,8 +1348,6 @@ PARÁGRAFO. Cuando se configure la cesación de funciones, la Misión Diplomáti
 
 (Decreto 952 de 2014, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.2 — Renuncia
 
 El Cónsul Honorario que presentare su renuncia, deberá hacerlo por escrito dirigido al Ministro de Relaciones Exteriores, por conducto de la Misión Diplomática correspondiente, quien la remitirá a la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano para el trámite correspondiente.
@@ -1555,8 +1357,6 @@ Una vez se acepte la renuncia, se comunicará al interesado por intermedio de la
 (Modificado por el Art. 17 del Decreto 1743 de 2015)
 
 (Decreto 952 de 2014, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.3 — Remoción
 
@@ -1576,8 +1376,6 @@ La Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano revisar
 
 (Decreto 952 de 2014, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.4 — Efectos de la cesación de funciones
 
 La cesación de funciones del Cónsul Honorario no implica necesariamente la extinción de la Oficina Consular Honoraria. En este sentido, la Dirección de Asuntos Migratorios, Consulares y de Servicio al Ciudadano estudiará la conveniencia de continuar con la Oficina Consular Honoraria, para lo cual solicitará la asistencia de la Misión Diplomática u Oficina Consular de Carrera que corresponda, para determinar si de acuerdo con los criterios establecidos en el artículo 2.2.1.3.2 de este decreto procede la continuación de la respectiva Oficina. Para lo anterior, deberá tenerse en cuenta la existencia de candidatos que se encuentren en disposición para asumir el cargo del Cónsul Honorario, y cumplan con los requerimientos de que trata este capítulo.
@@ -1590,8 +1388,6 @@ CAPÍTULO 4.
 
 PASAPORTES
 
-ARTÍCULO
-
 ## art:2.2.1.4.1 — Definición de pasaporte
 
 El pasaporte es el documento que identifica a los colombianos en el exterior. Todo colombiano que viaje fuera del país deberá estar provisto de un pasaporte válido, sin perjuicio de lo dispuesto en los tratados e instrumentos internacionales vigentes. El pasaporte será expedido únicamente por el Ministerio de Relaciones Exteriores directamente o a través de convenios suscritos para tal efecto.
@@ -1599,8 +1395,6 @@ El pasaporte es el documento que identifica a los colombianos en el exterior. To
 PARÁGRAFO. Ningún ciudadano podrá ser titular de más de un pasaporte colombiano vigente. Las autoridades expedidoras y/o migratorias de Colombia deberán anular aquellos pasaportes que no correspondan al último vigente. Se exceptúan los pasaportes diplomáticos, oficiales, de emergencia y exentos.
 
 (Modificado por el Art. 19 del Decreto 1743 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.1.4.2 — Definición del pasaporte con zona de lectura mecánica
 
@@ -1610,15 +1404,11 @@ En la parte inferior de la hoja de datos llevan la zona de lectura mecánica que
 
 (Modificado por el Art. 19 del Decreto 1743 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3 — Definición del pasaporte electrónico
 
 Los pasaportes electrónicos son pasaportes de lectura mecánica que contienen una microplaqueta (sic) de circuito integrado sin contacto, dentro de la cual se almacenan además de los datos descritos en el artículo anterior, medidas biométricas del titular del pasaporte y un objeto de seguridad para proteger los datos allí incluidos y que se ajustan a las especificaciones que para ello ha establecido la OACI.
 
 (Adicionado por el Art. 19 del Decreto 1743 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.1.4.4 — De la reglamentación de los pasaportes
 
@@ -1632,23 +1422,17 @@ SECCIÓN 1.
 
 CLASES
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.1 — Pasaporte ordinario con zona de lectura mecánica
 
 Esta libreta la expide el Ministerio de Relaciones Exteriores a los colombianos en el territorio nacional y en las misiones diplomáticas y consulados de Colombia en el exterior. La libreta consta de treinta y dos (32) páginas y su vigencia será de diez (10) años.
 
 (Decreto 1514 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.2 — Pasaporte ejecutivo con zona de lectura mecánica
 
 Esta libreta la expide el Ministerio de Relaciones Exteriores a los colombianos en el territorio nacional y en las misiones diplomáticas y consulados de Colombia en el exterior. La libreta consta de cuarenta y ocho (48) páginas y su vigencia será de diez (10) años.
 
 (Decreto 1514 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.4.1.3 — Pasaporte fronterizo con zona de lectura mecánica
 
@@ -1658,8 +1442,6 @@ PARÁGRAFO . Este pasaporte solo es válido para entrar y salir de Colombia desd
 
 (Decreto 1514 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.4 — Pasaporte diplomático con zona de lectura mecánica
 
 Esta libreta la expide el Ministerio de Relaciones Exteriores, a través de la Dirección de Asuntos Migratorios Consulares y Servicio al Ciudadano, la oficina que haga sus veces o la sustituya. Consta de treinta y dos (32) páginas, su expedición y vigencia se regirá por lo dispuesto en el Capítulo 5 de este título.
@@ -1668,8 +1450,6 @@ PARÁGRAFO . En los casos en que se expide pasaporte diplomático para los embaj
 
 (Decreto 1514 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.5 — Pasaporte oficial con zona de lectura mecánica
 
 Esta libreta la expide el Ministerio de Relaciones Exteriores, a través de la Dirección de Asuntos Migratorios Consulares y Servicio al Ciudadano, la oficina que haga sus veces o la sustituya. Consta de veintiocho (28) páginas, su expedición y vigencia se regirá por lo dispuesto en el Capítulo 5 de este título.
@@ -1677,8 +1457,6 @@ Esta libreta la expide el Ministerio de Relaciones Exteriores, a través de la D
 PARÁGRAFO . Los ciudadanos que reciban un pasaporte oficial en virtud de una comisión oficial de acuerdo a lo establecido en el Capítulo 5 de este título y que sean titulares de pasaporte ordinario o ejecutivo vigente, no tendrán que cancelarlo.
 
 (Decreto 1514 de 2012, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.4.1.6 — Documento de viaje con zona de lectura mecánica
 
@@ -1698,8 +1476,6 @@ PARÁGRAFO 2. La solicitud del Documento de Viaje deberá ser presentada directa
 
 (Decreto 1514 de 2012, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.7 — Pasaporte de emergencia con zona de lectura mecánica
 
 Esta libreta la expide el Ministerio de Relaciones Exteriores a los colombianos en el territorio nacional y en las misiones diplomáticas y consulados de Colombia en el exterior para casos excepcionales, cuando el solicitante requiera el documento de viaje de manera inmediata. La libreta consta de ocho (8) páginas y la vigencia será de siete (7) meses. Esta libreta podrá ser solicitada de manera simultánea al pasaporte ordinario o ejecutivo con zona de lectura mecánica.
@@ -1707,8 +1483,6 @@ Esta libreta la expide el Ministerio de Relaciones Exteriores a los colombianos 
 PARÁGRAFO . Los ciudadanos que reciban un pasaporte de emergencia y que sean titulares de pasaporte ordinario, ejecutivo, oficial o diplomático vigente, podrán conservar este documento sin que el mismo sea cancelado.
 
 (Decreto 1514 de 2012, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.4.1.8 — Pasaporte exento con zona de lectura mecánica
 
@@ -1732,8 +1506,6 @@ PARÁGRAFO . En caso de que el solicitante no posea documento de identificación
 
 (Decreto 1514 de 2012, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.9 — Libreta de tripulante terrestre
 
 Este documento sustituye al pasaporte. Su definición, expedición, requisitos, trámite y vigencia se regirá por lo establecido en las Decisiones de la Comisión del Acuerdo de Cartagena sobre transporte internacional de personas y mercancías por carretera.
@@ -1743,8 +1515,6 @@ Este documento sustituye al pasaporte. Su definición, expedición, requisitos, 
 SECCIÓN 2.
 
 REQUISITOS PARA LA EXPEDICIÓN DE LOS DOCUMENTOS DE VIAJE A MAYORES DE EDAD
-
-ARTÍCULO
 
 ## art:2.2.1.4.2.1 — De los requisitos para la expedición de documentos de viaje a mayores de edad
 
@@ -1771,8 +1541,6 @@ c. Verificar en el Sistema de Control y Expedición de Pasaportes (SICEP), a tra
 SECCIÓN 3.
 
 REQUISITOS PARA LA EXPEDICIÓN DE LOS DOCUMENTOS DE VIAJE A MENORES DE EDAD
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.1 — De los requisitos para la expedición de los documentos de viaje a menores de edad
 
@@ -1820,8 +1588,6 @@ PARÁGRAFO 4. Cuando el menor de edad es adoptado por padres extranjeros, para r
 
 (Decreto 1514 de 2012, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.2 — Del número de identificación de los menores
 
 El número de identificación de los menores para la elaboración del pasaporte, deberá ser el NIP de once (11) dígitos o el NUIP de diez (10) dígitos, así:
@@ -1837,8 +1603,6 @@ Para los registrados antes del 1 de febrero del 2000:
 PARÁGRAFO . En el exterior, para la elaboración de los pasaportes de los menores de edad hasta los 7 años, el cónsul o quien tramite el pasaporte deberá seleccionar la opción RC para el número de identificación y para los mayores de 7 años deberá seleccionar la opción TI (estas opciones se encuentran en el Sistema de Control y Expedición de pasaporte-SICEP).
 
 Decreto 1514 de 2012, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.3 — De la expedición
 
@@ -1864,8 +1628,6 @@ i. En Colombia, por cumplir siete (7) años y obtener la Tarjeta de Identidad.
 
 (Decreto 1514 de 2012, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.4 — De la cancelación
 
 En el momento de la formalización de la solicitud de documento de viaje, se cancelará la libreta de pasaporte anterior aun cuando esta sea convencional, dado que el Sistema de Control y Expedición de Pasaportes realiza dicha cancelación. Lo indicado en el presente artículo se realizará sin perjuicio de las excepciones señaladas en el parágrafo del artículo 2.2.1.4.1 del presente decreto.
@@ -1874,15 +1636,11 @@ La cancelación de un pasaporte no afecta las visas y sellos migratorios estampa
 
 (Decreto 1514 de 2012, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.5 — De las inconsistencias
 
 No se expedirá pasaporte cuando exista inconsistencia en los documentos presentados; en este caso, el funcionario expedidor deberá remitirlos a la autoridad competente para adelantar el respectivo trámite.
 
 (Decreto 1514 de 2012, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.6 — De las pérdidas
 
@@ -1890,15 +1648,11 @@ El pasaporte reportado como perdido será cancelado en Sistema de Control y Expe
 
 (Decreto 1514 de 2012, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.7 — De los impedimentos
 
 Cuando el Ministerio de Relaciones Exteriores reciba orden de autoridad competente que impida la expedición de un pasaporte, el funcionario autorizado deberá abstenerse de tramitarlo o proceder a su cancelación si éste ya hubiese sido expedido.
 
 (Decreto 1514 de 2012, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.8 — Falta de derecho del titular
 
@@ -1906,15 +1660,11 @@ Si un nacional o extranjero es portador de un pasaporte colombiano sin tener der
 
 (Decreto 1514 de 2012, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.9 — De las modificaciones
 
 No existirán modificaciones, ni rectificaciones, ni anotaciones en los documentos de viaje. En caso de presentarse alguna modificación o rectificación en la identidad de las personas, deberá tramitarse un nuevo documento de viaje.
 
 (Decreto 1514 de 2012, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.10 — Del número
 
@@ -1922,15 +1672,11 @@ El número del pasaporte será el mismo alfanumérico asignado a la libreta.
 
 (Decreto 1514 de 2012, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.11 — De la fecha de expedición
 
 La fecha de expedición del pasaporte será la misma de su elaboración.
 
 (Decreto 1514 de 2012, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.12 — De la vigencia del pasaporte convencional
 
@@ -1938,21 +1684,15 @@ A partir del 24 de noviembre de 2015, todos los documentos de viaje colombianos,
 
 (Decreto 1514 de 2012, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.14 — Doble nacionalidad
 
 Los colombianos con doble nacionalidad deben ingresar, permanecer y salir del territorio nacional con pasaporte colombiano de acuerdo con lo establecido en la Ley 43 de 1993.
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.15 — Acuerdos y convenios interadministrativos
 
 El Ministerio de Relaciones Exteriores podrá celebrar acuerdos o convenios interadministrativos con las gobernaciones de conformidad con lo previsto en el artículo 303 de la Constitución Política, tendientes a colaborar con la prestación del servicio de expedición de los documentos de viaje.
 
 (Decreto 1514 de 2012, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.16 — Del plazo máximo
 
@@ -1964,8 +1704,6 @@ PARÁGRAFO . Las disposiciones del presente artículo operan para todos los pasa
 
 (Decreto 1514 de 2012, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.17 — De las entregas
 
 A partir del primero (1) de agosto de 2012, las solicitudes de pasaportes se iniciarán con la toma de la huella digital, la cual será verificada durante la realización de todo el trámite hasta la entrega del documento. Por lo anterior, no será posible reclamar el documento de viaje producto del trámite realizado haciendo uso de poder especial otorgado a un tercero. En el caso de los menores de edad la huella digital para la realización del trámite y su respectiva reclamación será la de uno de los padres, representante legal o apoderado con quien el menor efectuó el trámite de su solicitud según el caso.
@@ -1976,15 +1714,11 @@ CAPÍTULO 5.
 
 PASAPORTES DIPLOMÁTICOS Y OFICIALES
 
-ARTÍCULO
-
 ## art:2.2.1.5.1 — Competencia
 
 Corresponde exclusivamente a la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano del Ministerio de Relaciones Exteriores, expedir los pasaportes diplomáticos y oficiales a los colombianos que cumplan los requisitos para portarlos.
 
 (Decreto 2877 de 2001, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2 — De la reglamentación de los pasaportes Diplomáticos y Oficiales
 
@@ -1995,8 +1729,6 @@ El Ministerio de Relaciones Exteriores, reglamentará los requisitos, trámites 
 SECCIÓN 1.
 
 PASAPORTE DIPLOMÁTICO.
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.1 — Titulares respecto del cargo
 
@@ -2102,8 +1834,6 @@ VII. Los Colombianos designados para ocupar cargos directivos en organizaciones 
 
 (Decreto 2877 de 2001, art. 2; adicionado por los Decretos 1667 de 2004, art. 2 y 4047 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.2 — Titulares respecto de sus calidades
 
 Tendrán derecho a la expedición d pasaporte diplomático, los colombianos que tengan las siguientes calidades:
@@ -2142,8 +1872,6 @@ Ex Veedor del Tesoro.
 
 (Decreto 2877 de 2001, art.3)
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.3 — Pasaporte diplomático al cónyuge o compañero(a) permanente
 
 Se expedirá pasaporte diplomático al cónyuge o compañero(a) permanente que resida con quien tiene derecho a la expedición del pasaporte diplomático conforme al presente capítulo, excepto en los casos contemplados en los numerales IV y VI del artículo 2.2.1.5.1.1 de este decreto.
@@ -2152,15 +1880,11 @@ PARÁGRAFO . Igualmente, y siempre y cuando sea necesario, se expedirá pasaport
 
 (Decreto 2877 de 2001, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.4 — Pasaporte diplomático para hijos hasta los 18 años de edad
 
 En el caso contemplado en los numerales II y III del artículo 2.2.1.5.1.1 de este decreto, se expedirá pasaporte diplomático a los hijos que conforman su familia, hasta los 18 años de edad.
 
 (Decreto 2877 de 2001, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.5 — Pasaporte diplomático para hijos hasta los 25 años de edad
 
@@ -2171,8 +1895,6 @@ En los casos contemplados en los numerales V y VII, del artículo 2.2.1.5.1.1 de
 SECCIÓN 2.
 
 PASAPORTE OFICIAL.
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.1 — Pasaporte oficial
 
@@ -2204,8 +1926,6 @@ V. Los colombianos designados para ocupar cargos administrativos en el exterior.
 
 (Decreto 2877 de 2001, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.2 — Derecho a la expedición de pasaporte oficial
 
 Tendrán derecho a la expedición de pasaporte oficial, los colombianos que tengan las siguientes calidades:
@@ -2220,8 +1940,6 @@ Ex Presidentes del Congreso de la República titulares
 
 (Decreto 2877 de 2001, art. 8; adicionado por los Decretos 1667 de 2004, art. 2 y 135 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.3 — Expedición pasaporte oficial al cónyuge o compañero(a) permanente
 
 Se expedirá pasaporte oficial al cónyuge o compañero(a) permanente que resida con quien tiene el derecho a la expedición del pasaporte oficial conforme a este capítulo, excepto en los casos contemplados en los numerales II y III del artículo 2.2.1.5.2.1 de este decreto.
@@ -2229,8 +1947,6 @@ Se expedirá pasaporte oficial al cónyuge o compañero(a) permanente que resida
 PARÁGRAFO . En los casos que sean necesarios, se expedirá pasaporte oficial al cónyuge extranjero, dejando constancia que su expedición no significa reconocimiento de la nacionalidad colombiana ni constituye prueba de la misma.
 
 (Decreto 2877 de 2001, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.4 — Expedición de pasaporte oficial para hijos que conforman su familia, hasta los 25 años de edad
 
@@ -2241,8 +1957,6 @@ En el caso contemplado en el numeral V del artículo 2.2.1.5.2.1 de este capítu
 SECCIÓN 3
 
 DISPOSICIONES GENERALES
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.1 — Acreditación de requisitos
 
@@ -2258,23 +1972,17 @@ PARÁGRAFO . Se exceptúan de lo anterior el Presidente de la República, Vicepr
 
 (Decreto 2877 de 2001, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.2 — Vigencia
 
 Sin perjuicio de lo dispuesto en el artículo 2.2.1.5.3.4 de la presente disposición, la vigencia de los pasaportes diplomáticos y oficiales será igual al tiempo de duración de la misión, del ejercicio del cargo, o mientras se tenga la calidad que permitió la expedición de los mismos.
 
 (Decreto 2877 de 2001, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.3 — Renovación
 
 Los pasaportes diplomáticos y oficiales se renovarán siempre y cuando se cumplan las condiciones establecidas en el presente Decreto. En el exterior podrán ser renovados por los Jefes de las Misiones Diplomáticas, previa autorización de la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano del Ministerio de Relaciones Exteriores.
 
 (Decreto 2877 de 2001, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.4 — Cancelación
 
@@ -2288,8 +1996,6 @@ CAPÍTULO 6.
 
 PROTECCIÓN Y PROMOCIÓN DE NACIONALES EN EL EXTERIOR
 
-ARTÍCULO
-
 ## art:2.2.1.6.1 — Protección y asistencia de los colombianos en el exterior
 
 El Ministerio de Relaciones Exteriores en coordinación con las Misiones Diplomáticas y Oficinas Consulares de Colombia acreditadas en el exterior, adelantará programas especiales de protección y asistencia de los colombianos en el exterior, en aquellas materias de que trata el artículo 3 de la Ley 76 de 1993; e igualmente promoverá con las comunidades residentes en el exterior, la preservación y afirmación de los valores históricos, culturales y sociales de nuestra nacionalidad.
@@ -2297,8 +2003,6 @@ El Ministerio de Relaciones Exteriores en coordinación con las Misiones Diplom�
 (Modificado por el Art. 21 del Decreto 1743 de 2015)
 
 (Decreto 333 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.2 — Contratación de asesores
 
@@ -2308,8 +2012,6 @@ Los Consulados podrán optar por la contratación de asesoría jurídica y de as
 
 (Decreto 333 de 1995, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3 — El Comité para la Asistencia a Connacionales en el Exterior
 
 El Comité de Asistencia a Connacionales en el Exterior, está regulado mediante resolución ministerial y será el encargado de evaluar y recomendar al Ministro de Relaciones Exteriores, la asignación, cuantía y destino de las partidas que se deban otorgar para el desarrollo de la protección de los derechos fundamentales de los colombianos en el exterior y la atención de los casos que por su naturaleza ameriten la asistencia del Estado.
@@ -2317,8 +2019,6 @@ El Comité de Asistencia a Connacionales en el Exterior, está regulado mediante
 (Modificado por el Art. 23 del Decreto 1743 de 2015)
 
 (Decreto 333 de 1995, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4 — Estudio de proyección y ejecución de los programas especiales de promoción de las comunidades colombianas en el exterior
 
@@ -2328,15 +2028,11 @@ El Ministerio de Relaciones Exteriores, a través de la Secretaría General y la
 
 (Decreto 333 de 1995, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.6.5 — Asociación de los colombianos residentes en el exterior
 
 En desarrollo de lo previsto en el artículo 2.2.1.6.4 y siempre y cuando lo considere útil y oportuno, el Ministerio de Relaciones Exteriores estimulará el encuentro y, de ser posible, la asociación de los colombianos residentes en el exterior con fines culturales, artísticos, deportivos o de capacitación.
 
 (Decreto 333 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.6.6 — Actividades de protección y promoción
 
@@ -2344,15 +2040,11 @@ Las actividades de protección y promoción de que trata el presente capítulo, 
 
 (Decreto 333 de 1995, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.6.7 — Exaltación de compatriotas residentes en el exterior
 
 El Gobierno Nacional a través del Ministerio de Relaciones Exteriores exaltará las ejecutorias de aquellos compatriotas residentes en el exterior que se consagren a la promoción y desarrollo de las comunidades colombianas o a la afirmación y consolidación de los valores históricos, culturales o sociales de Colombia.
 
 (Decreto 333 de 1995, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.6.8 — Gastos que demanden los programas especiales
 
@@ -2364,8 +2056,6 @@ CAPÍTULO 7.
 
 RETORNO DE NACIONALES EN EL EXTERIOR
 
-ARTÍCULO
-
 ## art:2.2.1.7.1 — Verificación de los requisitos de los beneficiarios de la ley
 
 El Ministerio de Relaciones Exteriores, a través de su página web, pondrá en marcha el Registro Único de Retornados (en adelante "Registro") con el fin de recopilar la información de los colombianos que residen en el extranjero y que por voluntad propia deseen retornar al país. A través del Registro se verificarán los requisitos establecidos en el artículo 2 de la Ley 1565 de 2012 o las normas que la sustituyan, modifiquen o adicionen.
@@ -2373,8 +2063,6 @@ El Ministerio de Relaciones Exteriores, a través de su página web, pondrá en 
 (Modificado por el Art. 25 del Decreto 1743 de 2015)
 
 (Decreto 1000 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.7.2 — Información del registro único de retornados
 
@@ -2404,15 +2092,11 @@ PARÁGRAFO 3. El Registro incluirá la autorización del solicitante para que el
 
 (Decreto 1000 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.7.3 — Comisión intersectorial para el retorno
 
 Créase la Comisión Intersectorial para el Retorno (en adelante "La Comisión"), que tendrá por objeto coordinar las acciones para brindar atención integral a la población migrante colombiana en situación de retorno.
 
 (Decreto 1000 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.4 — Conformación de la comisión intersectorial para el retorno
 
@@ -2454,8 +2138,6 @@ La Comisión estará conformada de la siguiente forma:
 
 PARÁGRAFO . El Ministerio de Relaciones Exteriores coordinará las acciones de acompañamiento al retorno y actuará como Secretaría Técnica.
 
-ARTÍCULO
-
 ## art:2.2.1.7.5 — Funciones de la comisión intersectorial para el retorno
 
 La Comisión tendrá las siguientes funciones:
@@ -2484,8 +2166,6 @@ PARÁGRAFO . La Comisión podrá conformar Sub Comisiones, integradas por las en
 
 (Decreto 1000 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.7.6 — Funciones de la secretaría técnica
 
 Son funciones de la Secretaría Técnica las siguientes:
@@ -2512,23 +2192,17 @@ PARÁGRAFO . Para la aprobación de que trata el numeral 3o del presente artícu
 
 (Decreto 1000 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7 — Invitados a la comisión
 
 La Comisión o la Secretaría Técnica podrán invitar a aquellas entidades o personas que consideren pertinentes para la realización de aportes tendientes al cumplimiento de las funciones de la Comisión o de la Secretaría Técnica.
 
 (Decreto 1000 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.7.8 — Quórum
 
 Para las sesiones de la Comisión se deberá contar con un quórum deliberatorio de la mitad más uno de los miembros de que trata el artículo 2.2.1.7.4 del presente decreto. Para la toma de decisiones se requerirá el voto favorable de la mitad más uno de los asistentes a la sesión de la Comisión.
 
 (Decreto 1000 de 2013, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.7.9 — Reuniones
 
@@ -2540,8 +2214,6 @@ PARÁGRAFO . La Comisión podrá realizar sesiones virtuales en los términos de
 
 (Decreto 1288 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.7.10 — Programas de Apoyo al Retorno
 
 El Ministerio de Relaciones Exteriores, a través de la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano coordinará con las entidades competentes el diseño de programas y planes de apoyo y acompañamiento que permitan dar cumplimiento al artículo 4 de la Ley 1565 de 2012.
@@ -2551,8 +2223,6 @@ Con el propósito de cumplir con lo indicado en el presente artículo, el Gobier
 Los programas y planes de apoyo y acompañamiento para el retorno serán formulados en coordinación con las entidades competentes en cada uno de los temas, y se implementarán con cargo a los recursos y programas de los que estas dispongan.
 
 (Decreto 1000 de 2013, art. 10; Modificado por el Decreto 1288 de 2018, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.11 — Desarrollo de los programas de apoyo
 
@@ -2572,8 +2242,6 @@ Para el diseño de los programas de apoyo de los que trata el artículo 2.2.1.7.
 
 (Decreto 1000 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.7.12 — .12
 
 Centros de Referenciación y Oportunidades para el Retorno
@@ -2586,8 +2254,6 @@ PARÁGRAFO . Lo dispuesto en el presente artículo estará sujeto a la disponibi
 
 (Decreto 1000 de 2013, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.7.13 — Difusión
 
 Además de la difusión a través de las Oficinas Consulares de la República, se utilizarán los medios electrónicos disponibles del Ministerio de Relaciones Exteriores y el Programa Colombia Nos Une a través de su portal web.
@@ -2596,8 +2262,6 @@ Además de la difusión a través de las Oficinas Consulares de la República, s
 
 (Decreto 1000 de 2013, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.7.14 — Obligatoriedad
 
 En atención a la complejidad para la aplicación de los mandatos de la Ley 1565 de 2012 o las normas que la sustituyan, modifiquen o adicionen, todas las entidades que por su competencia intervengan en la fijación de incentivos para el retorno de los colombianos residentes en el extranjero, están obligadas, en el marco de sus funciones, a participar de manera activa en el desarrollo y ejecución de lo dispuesto en el capítulo 7 del Decreto 1067 de 2015 o demás normas que lo modifiquen o adiciones.
@@ -2605,8 +2269,6 @@ En atención a la complejidad para la aplicación de los mandatos de la Ley 1565
 (Modificado por el Art. 29 del Decreto 1743 de 2015)
 
 (Decreto 1000 de 2013, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.7.15 — Disposiciones generales
 
@@ -2628,8 +2290,6 @@ CAPÍTULO 8.
 
 REQUISITOS ESPECIALES PARA EL RETORNO DE NACIONALES EN EL EXTERIOR
 
-ARTÍCULO
-
 ## art:2.2.1.8.1 — Periodos de permanencia en el exterior
 
 Para la acreditación sobre la permanencia del connacional en el extranjero para acogerse a los beneficios de la Ley 1565 de 2012 o las normas que la sustituyan, modifiquen o adicionen, de por lo menos tres (3) años, se entenderá que cada ingreso del colombiano al territorio nacional, no será tenido en cuenta como tiempo de permanencia en el exterior, para lo cual sólo sumarán los días en los cuales efectivamente ha permanecido fuera de Colombia.
@@ -2637,8 +2297,6 @@ Para la acreditación sobre la permanencia del connacional en el extranjero para
 (Modificado por el Art. 31 del Decreto 1743 de 2015)
 
 (Decreto 2064 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.8.2 — Verificación de permanencia en el exterior en ausencia de movimientos migratorios
 
@@ -2650,15 +2308,11 @@ PARÁGRAFO . Aquellos casos en los cuales el connacional proveniente de la Repú
 
 (Decreto 1288 de 2018, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.8.3 — Residentes en el territorio nacional
 
 Para los efectos de aplicación de lo señalado en el punto 4 del artículo 2.2.1.7.15. delpresente Decreto, el interesado deberá manifestar bajo gravedad de juramento en la solicitud de retorno, que no tiene más de doce (12) meses desarrollando en el país alguna de las actividades previstas en el artículo 80 del Código Civil Colombiano sobre la presunción de permanencia, ni ha tenido residencia en territorio nacional de conformidad a lo regulado en el Capítulo II Título 1 del Código Civil Colombiano.
 
 (Decreto 2064 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.8.4 — 8.4
 
@@ -2670,8 +2324,6 @@ PARÁGRAFO. De acuerdo al artículo 2.2.1.7.11. del presente Decreto, toda solic
 
 (Decreto 2064 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.8.5 — Acreditación de los beneficiarios de la ley 1565 de 2012 ó las normas que la sustituyan, modifiquen o adicionen
 
 Una vez la Comisión lntersectorial para el Retorno haya evaluado y aprobado las solicitudes que realicen los colombianos que retornan al país, la Secretaría Técnica expedirá, a través del Registro Único de Retornados, un certificado que acreditará al ciudadano como beneficiario de la Ley 1565 de 2012 ó las normas que la sustituyan, modifiquen o adicionen.
@@ -2679,8 +2331,6 @@ Una vez la Comisión lntersectorial para el Retorno haya evaluado y aprobado las
 (Modificado por el Art. 33 del Decreto 1743 de 2015)
 
 (Decreto 2064 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.8.6 — Certificado beneficiarios de la ley 1565 de 2012 ó las normas que la sustituyan, modifiquen o adicionen
 
@@ -2702,8 +2352,6 @@ f. Número del acta de la reunión Comisión lntersectorial para el Retorno en l
 
 (Decreto 2064 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.8.7 — Verificación de información de condenas vigentes en el exterior
 
 El Ministerio de Relaciones Exteriores consultará la información sobre las condenas vigentes en el exterior, de las que trata el parágrafo 1o del artículo 2o de la Ley 1565 de 2012, con las autoridades competentes de los países donde ha residido el solicitante, a través de las Oficinas Consulares de Colombia acreditadas en el exterior.
@@ -2718,8 +2366,6 @@ SECCIÓN 1.
 
 OBJETO DEL FONDO ESPECIAL PARA LAS MIGRACIONES.
 
-ARTÍCULO
-
 ## art:2.2.1.9.1.1 — El Fondo Especial para las Migraciones
 
 El Fondo Especial para las Migraciones brindará soporte y apoyo económico al Ministerio de Relaciones Exteriores en los casos especiales de vulnerabilidad y por razones humanitarias, cuando se requiera asistencia y protección inmediata a nuestros connacionales en el exterior.
@@ -2729,8 +2375,6 @@ El Fondo Especial para las Migraciones brindará soporte y apoyo económico al M
 SECCIÓN 2.
 
 DEFINICIONES.
-
-ARTÍCULO
 
 ## art:2.2.1.9.2.1 — Definiciones
 
@@ -2757,8 +2401,6 @@ Catástrofes provocadas por el hombre o situaciones excepcionales en el Estado r
 SECCIÓN 3.
 
 COMITÉ EVALUADOR DE CASOS.
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.1 — Comité Evaluador de casos
 
@@ -2788,8 +2430,6 @@ PARÁGRAFO 3. El Director de Asuntos Migratorios, Consulares y Servicio al Ciuda
 
 (Decreto 4976 de 2011, art. 3; modificado por el Decreto 2063 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.2 — Casos evaluados
 
 Una vez evaluados los casos por el Comité, se tomará la decisión que autorice el monto requerido para la asistencia y/o repatriación de los connacionales de conformidad con lo establecido en el artículo 2.2.1.9.3.4 del presente Decreto, y se suscribirá la respectiva acta.
@@ -2803,8 +2443,6 @@ PARÁGRAFO 3. Para el eficaz cumplimiento de las funciones del Comité y la ejec
 (Parágrafos 1,2 y 3, Modificados por el Art. 37 del Decreto 1743 de 2021)
 
 (Decreto 4976 de 2011, art. 4; sustituido por el Decreto 2063 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.3 — Secretaría técnica del comité evaluador de casos
 
@@ -2827,8 +2465,6 @@ La Secretaría Técnica del Comité Evaluador de Casos estará a cargo del Coord
 SECCIÓN 4.
 
 CASOS DE ATENCIÓN POR EL FONDO.
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.4 — Casos de atención por el fondo
 
@@ -2858,8 +2494,6 @@ PARÁGRAFO. Mediante resolución ministerial se reglamentarán las condiciones n
 
 (Decreto 4976 de 2011, art. 6; modificado por el Decreto 2063 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.5 — Reuniones
 
 El Comité se reunirá cada vez que lo requiera el Secretario Técnico, de acuerdo con los casos que deban ser evaluados.
@@ -2872,15 +2506,11 @@ CAPÍTULO 10.
 
 REGISTRO CONSULAR
 
-ARTÍCULO
-
 ## art:2.2.1.10.1 — Tarjeta de Registro Consular
 
 Créase la Tarjeta de Registro Consular como el documento mediante el cual se hace constar que un nacional colombiano se registró en el Consulado de Colombia correspondiente a la circunscripción donde reside.
 
 (Decreto 642 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.2 — Expedición
 
@@ -2890,8 +2520,6 @@ La expedición de la Tarjeta de Registro Consular estará a cargo de las Oficina
 
 (Decreto 642 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.10.3 — Registro
 
 Todo colombiano tendrá derecho a ser registrado por las Oficinas Consulares autorizadas por el Ministerio de Relaciones Exteriores con circunscripción en el lugar de domicilio, sin importar su condición migratoria.
@@ -2899,8 +2527,6 @@ Todo colombiano tendrá derecho a ser registrado por las Oficinas Consulares aut
 (Modificado por el Art. 41 del Decreto 1743 de 2015)
 
 (Decreto 642 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.10.4 — Información
 
@@ -2926,8 +2552,6 @@ La información plasmada en la Tarjeta de Registro Consular deberá ir en idioma
 
 (Decreto 642 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.10.5 — Expedición o renovación
 
 Para la expedición o renovación de la Tarjeta de Registro Consular, el solicitante deberá presentarse personalmente en la Oficina Consular autorizada, acreditando los siguientes requisitos:
@@ -2946,23 +2570,17 @@ PARÁGRAFO . Si el solicitante presenta contraseña de trámite de cédula de ci
 
 (Decreto 642 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.10.6 — Vigencia
 
 La Tarjeta de Registro Consular tendrá una vigencia de cinco (5) años, tiempo en el cual se podrá renovar siempre que cumplan los requisitos previstos en el artículo 2.2.1.10.5 del presente decreto.
 
 (Decreto 642 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.10.7 — Modificaciones o rectificaciones
 
 No existirán modificaciones, ni rectificaciones, ni anotaciones en las Tarjetas de Registro Consular. En caso de presentarse alguna modificación o rectificación deberá tramitarse una nueva Tarjeta de Registro Consular.
 
 (Decreto 642 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.10.8 — Alianzas estratégicas
 
@@ -2972,15 +2590,11 @@ Corresponderá a las Oficinas Consulares de Colombia en el exterior, realizar al
 
 (Decreto 642 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.10.9 — Confidencialidad
 
 Los datos e información registrada por los colombianos en el exterior para la expedición de la Tarjeta de Registro Consular son de carácter confidencial, por ningún motivo podrán ser utilizados para fines distintos a los autorizados por el Ministerio de Relaciones Exteriores o por el titular de la misma de conformidad con las disposiciones legales.
 
 (Decreto 642 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.10.10 — Aplicación
 
@@ -2994,15 +2608,11 @@ DISPOSICIONES MIGRATORIAS
 
 (Título, modificado por el Art. 46 del Decreto 1743 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1 — Disposiciones migratorias
 
 Establézcanse las disposiciones generales sobre migración para la República de Colombia.
 
 (Decreto 834 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2 — Competencia
 
@@ -3012,15 +2622,11 @@ Es competencia discrecional del Gobierno Nacional, fundado en el principio de so
 
 (Decreto 834 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.11.3 — Control
 
 La Unidad Administrativa Especial Migración Colombia ejercerá la vigilancia y control migratorio de nacionales y extranjeros en el territorio nacional.
 
 (Decreto 834 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4 — Definiciones
 
@@ -3046,8 +2652,6 @@ Permanencia. Es el tiempo durante el cual el extranjero podrá estar en el terri
 
 (Decreto 834 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.11.5 — Clasificación
 
 Establézcase la siguiente clasificación de las visas:
@@ -3061,8 +2665,6 @@ Establézcase la siguiente clasificación de las visas:
 (Derogado por el Art. 45 del Decreto 1743 de 2015)
 
 (Decreto 834 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.11.6 — Visa de Negocios NE
 
@@ -3081,8 +2683,6 @@ PARÁGRAFO . Al amparo de la Visa de Negocios el extranjero no podrá fijar su d
 (Derogado por el Art. 45 del Decreto 1743 de 2015)
 
 (Decreto 834 de 2013, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7 — Visa temporal TP
 
@@ -3140,8 +2740,6 @@ PARÁGRAFO . La vigencia de la Visa Temporal TP terminará si el extranjero se a
 
 (Decreto 834 de 2013, art. 7; modificador por el Decreto 941 de 2014, art. 9 y el Decreto 2477 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.8 — Visa de Residente RE
 
 La Visa de Residente se otorgará al extranjero que desee ingresar al país con el ánimo de establecerse en él. El Ministerio de Relaciones Exteriores podrá expedir esta visa al extranjero que desee permanecer en el territorio nacional en los siguientes casos:
@@ -3179,8 +2777,6 @@ En el presente caso la vigencia de la visa RE será de cinco (5) años. La perma
 (Derogado por el Art. 45 del Decreto 1743 de 2015)
 
 (Decreto 834 de 2013, art. 8; modificador por el Decreto 941 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.11.9 — De los beneficiarios
 
@@ -3226,8 +2822,6 @@ SECCIÓN 1.
 
 VISAS
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.1 — Definición de la visa
 
 Es la autorización concedida por el Ministerio de Relaciones Exteriores a un extranjero para que ingrese y permanezca en el territorio nacional.
@@ -3236,23 +2830,17 @@ Otorgada una visa, el Ministerio de Relaciones Exteriores expedirá por una vez,
 
 (Modificado por el Art. 47 del Decreto 1743 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.2 — Vigencia de la visa
 
 Es el periodo de tiempo que tiene el titular de una visa para hacer uso de la misma. El tiempo de vigencia será el que se determine para cada clase o tipo de visa.
 
 (Modificado por el Art. 47 del Decreto 1743 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.3 — Periodo de validez
 
 Corresponde al tiempo en que será válido el documento electrónico o aquel que se imprime en etiqueta oficial. En ningún caso, el período de validez del documento será mayor al de la vigencia de la visa.
 
 (Modificado por el Art. 47 del Decreto 1743 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.1.11.1.4 — Reglamentación de Visas
 
@@ -3267,8 +2855,6 @@ SECCIÓN 2.
 CONTROL, VIGILANCIA Y VERIFICACIÓN MIGRATORIA.
 
 PERMISO DE INGRESO Y PERMANENCIA.
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.1 — Del Ingreso
 
@@ -3290,8 +2876,6 @@ PARÁGRAFO : La autorización en referencia no exime al extranjero de la obligac
 
 (Decreto 834 de 2013, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.3 — Doble nacionalidad
 
 De conformidad con el artículo 22 de la Ley 43 de 1993, el nacional colombiano que goce de doble nacionalidad, deberá ingresar, permanecer y salir del territorio nacional haciendo uso del pasaporte o documento de identidad colombiano válido y vigente.
@@ -3303,8 +2887,6 @@ PARÁGRAFO 2. Los extranjeros que gocen de varias nacionalidades, diferentes tod
 (Modificado por el Art. 49 del Decreto 1743 de 2015)
 
 (Decreto 834 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.4 — Ingreso irregular
 
@@ -3337,8 +2919,6 @@ La administración del Registro de ciudadanos venezolanos y la expedición del (
 (Modificado por el Art. 1 del Decreto 1325 de 2016)
 
 (Decreto 834 de 2013, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.6 — Permiso de ingreso y permanencia
 
@@ -3390,8 +2970,6 @@ PARÁGRAFO . El extranjero que desee ingresar al territorio nacional, será titu
 
 (Decreto 834 de 2013, art. 21; modificado por el Decreto 132 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.7 — Permiso temporal de permanencia
 
 La Unidad Administrativa Especial Migración Colombia podrá otorgar Permiso Temporal de Permanencia (PTP) en los siguientes casos:
@@ -3412,8 +2990,6 @@ La Unidad Administrativa Especial Migración Colombia podrá otorgar Permiso Tem
 
 (Decreto 834 de 2013, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.8 — Del tiempo de permanencia
 
 La Unidad Administrativa Especial Migración Colombia, en cumplimiento de sus funciones, llevará el registro en número de días de permanencia de cada extranjero titular de permisos PIP y PTP que ingrese al país con el fin de que no se puedan exceder ciento ochenta (180) días calendario continuos o discontinuos dentro del mismo año calendario.
@@ -3421,8 +2997,6 @@ La Unidad Administrativa Especial Migración Colombia, en cumplimiento de sus fu
 (Derogado por el Art. 3 del Decreto 1325 de 2016)
 
 (Decreto 834 de 2013, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.9 — Del número de permisos
 
@@ -3433,8 +3007,6 @@ La Unidad Administrativa Especial Migración Colombia podrá otorgar los permiso
 (Derogado por el Art. 3 del Decreto 1325 de 2016)
 
 (Decreto 834 de 2013, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.10 — Del cambio en los permisos
 
@@ -3454,8 +3026,6 @@ PARÁGRAFO . Cuando se solicite un cambio de los indicados en el presente artíc
 
 (Decreto 834 de 2013, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.11 — Cancelación de los permisos
 
 Los permisos se cancelan en los siguientes casos:
@@ -3471,8 +3041,6 @@ PARÁGRAFO . Una vez notificada la cancelación del permiso el extranjero deber�
 (Derogado por el Art. 3 del Decreto 1325 de 2016)
 
 (Decreto 834 de 2013, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.12 — Permanencia Irregular
 
@@ -3606,15 +3174,11 @@ SECCIÓN 3.
 
 INADMISIÓN O RECHAZO.
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.1 — La inadmisión o rechazo
 
 La inadmisión y rechazo es la decisión administrativa por la cual la autoridad migratoria, al efectuar el control de inmigración o de personas en tránsito, le niega el ingreso a un extranjero por cualquiera de las causales señaladas en el artículo siguiente del presente decreto, ordenando su inmediato retornó al país de embarque, de origen o a un tercer país que lo admita. Contra esta decisión no procede ningún recurso. La autoridad migratoria notificará y pondrá a disposición de la respectiva empresa de transporte al extranjero inadmitido, la cual procederá de forma inmediata por sus propios medios o a través de una empresa distinta que preste el mismo servicio a transportar al extranjero inadmitido.
 
 (Decreto 834 de 2013, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.11.3.2 — Causales de inadmisión o Rechazo
 
@@ -3666,8 +3230,6 @@ SECCIÓN 4.
 
 REGISTRO Y DOCUMENTACIÓN.
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.1 — Registro
 
 Tanto los titulares como los beneficiarios de visa, cuya vigencia sea superior a tres (3) meses, deberán inscribirse en el Registro de Extranjeros de la Unidad Administrativa Especial Migración Colombia dentro del plazo de quince (15) días calendario siguientes, contados a partir de su ingreso al país o de la fecha de expedición de la visa, si ésta se obtuvo dentro del territorio nacional, con excepción de los que se establezcan para tal fin por parte del Ministerio de Relaciones Exteriores.
@@ -3676,15 +3238,11 @@ Tanto los titulares como los beneficiarios de visa, cuya vigencia sea superior a
 
 (Decreto 834 de 2013, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.2 — Archivo biográfico
 
 La Unidad Administrativa Especial Migración Colombia, llevará de cada extranjero que se deba documentar en el territorio nacional, un archivo que contendrá los datos biográficos, reseña decadactilar y la información que determine como autoridad migratoria.
 
 (Decreto 834 de 2013, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.3 — Reserva
 
@@ -3711,8 +3269,6 @@ No obstante, la anterior información que se lleva en la Unidad Administrativa E
 PARÁGRAFO . Para efectos de la entrega de la información de que trata el presente artículo, los funcionarios que la solicitan, señalados en los numerales 1 y 2, deberán contar con las autorizaciones que establezcan los Códigos y las demás disposiciones pertinentes en cada caso. Igualmente les corresponde a todos quienes acceden a la información asegurar la reserva de los documentos y datos que lleguen a conocer en desarrollo de lo prescrito en el presente artículo.
 
 (Decreto 834 de 2013, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.4 — CÉDULA DE EXTRANJERÍA
 
@@ -3746,8 +3302,6 @@ PARÁGRAFO 2. Los. plazos para reclamar la Cédula de Extranjería para los titu
 
 (Modificado por el Art. 54 del Decreto 1473 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.5 — Vigencia de la cédula de extranjería
 
 La Unidad Administrativa Especial Migración Colombia expedirá la Cédula de Extranjería por un término igual al de la vigencia de la visa del titular.
@@ -3762,15 +3316,11 @@ PARÁGRAFO 2. Los extranjeros a quienes a partir de la fecha se les expida Visa 
 
 (Decreto 834 de 2013, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.6 — Características de la cédula de extranjería
 
 Las características de la Cédula de Extranjería serán establecidas por la Unidad Administrativa Especial Migración Colombia mediante acto administrativo.
 
 (Decreto 834 de 2013, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.7 — DOCUMENTO DE IDENTIDAD
 
@@ -3792,15 +3342,11 @@ PARÁGRAFO 3: El Ministerio de Relaciones Exteriores y la Unidad Administrativa 
 
 (Decreto 834 de 2013, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.8 — Modificación de la residencia o domicilio
 
 El extranjero que deba registrarse según lo establecido en el presente decreto, comunicará a la Unidad Administrativa Especial Migración Colombia sobre cualquier cambio de residencia o domicilio dentro de los quince (15) días calendario siguiente a la ocurrencia del hecho.
 
 (Decreto 834 de 2013, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.9 — SALVOCONDUCTO (SC)
 
@@ -3836,8 +3382,6 @@ Parágrafo. El extranjero al que se le expida un salvoconducto (SC-1) para salid
 
 (Modifica Art 2 del decreto 89 de 2025)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.10 — Obligatoriedad de comunicación
 
 Las autoridades Judiciales o Administrativas, comunicarán a la Unidad Administrativa Especial Migración Colombia y al Ministerio de Relaciones Exteriores, la iniciación de procesos contra extranjeros, los cambios de radicación y el fallo correspondiente. Así mismo, el Ministerio de Justicia y del Derecho y la Fiscalía General de la Nación comunicarán a la Unidad Administrativa Especial Migración Colombia, la expedición de resoluciones y órdenes de captura con fines de extradición.
@@ -3851,8 +3395,6 @@ La Superintendencia de Notariado y Registro y la Registraduría Nacional del Est
 SECCIÓN 5.
 
 VERIFICACIÓN MIGRATORIA.
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.1 — De las actividades que generen beneficio
 
@@ -3868,15 +3410,11 @@ PARÁGRAFO TRANSITORIO . Hasta tanto se establezca la comunicación de bases de 
 
 (Decreto 834 de 2013, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.1.11.5.2 — De las actividades académicas
 
 Los establecimientos educativos deberán exigir a los estudiantes extranjeros de cursos regulares la visa que los faculte para realizar sus estudios antes de la iniciación de clases e informar por escrito o por los medios electrónicos establecidos para tal fin a la Unidad Administrativa Especial Migración Colombia, de la matrícula de estudiantes extranjeros y de la terminación definitiva de sus estudios dentro de los treinta (30) días calendario siguientes a la ocurrencia de los mismos.
 
 (Decreto 834 de 2013, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.3 — De las Actividades Religiosas
 
@@ -3886,15 +3424,11 @@ Toda entidad, federación, confederación, asociación, comunidad, congregación
 
 (Decreto 834 de 2013, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.1.11.5.4 — De los espectáculos artísticos, culturales o deportivos
 
 Los contratantes o empresarios de espectáculos artísticos, culturales o deportivos, deberán informar por escrito o por los medios electrónicos establecidos para tal fin a la Unidad Administrativa Especial Migración Colombia del ingreso del extranjero, dentro de los cinco (5) días calendario anterior a la ocurrencia del espectáculo o acto público cultural o deportivo.
 
 (Decreto 834 de 2013, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.5 — De los cooperantes y voluntarios
 
@@ -3903,8 +3437,6 @@ Toda entidad sin ánimo de lucro, Organización No Gubernamental ONG, Organizaci
 (Modificado por el Art. 60 del Decreto 1743 de 2015)
 
 (Decreto 834 de 2013, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.6 — Del ejercicio o los cambios de actividad, ocupación u oficio
 
@@ -3917,8 +3449,6 @@ Los titulares de las visas que se establezcan para tal fin por parte del Ministe
 El Ministerio de Relaciones Exteriores podrá efectuar el cambio en el ejercicio de otra profesión, oficio, actividad u ocupación, previo cumplimiento de las condiciones establecidas para el efecto de acuerdo con lo indicado en el presente decreto.
 
 (Decreto 834 de 2013, art. 45)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.7 — De la responsabilidad del contratante
 
@@ -3934,8 +3464,6 @@ En todo caso, la obligación descrita en el presente artículo, cesará cuando e
 
 (Decreto 834 de 2013, art. 46)
 
-ARTÍCULO
-
 ## art:2.2.1.11.5.8 — De los servicios de hospedaje
 
 En hoteles, pensiones, hostales, residencias, apartahoteles y demás establecimientos que presten el servicio de hospedaje y en campamentos en cualquier modalidad, están autorizados para solicitar la presentación del documento de identificación a los extranjeros para efectos de su registro o de la prestación del servicio y llevarán un registro diario de extranjeros con numeración continua del ingreso y salida de los usuarios de estos servicios, en el cual consten los siguientes datos: nombres y apellidos completos, nacionalidad y documento de identidad, fecha de nacimiento, género, profesión, lugar de procedencia, de destino y fechas de llegada y de salida. Estos establecimientos reportarán diariamente a la Unidad Administrativa Especial Migración Colombia, las novedades sobre el ingreso y salida definitivos de extranjeros por el medio establecido para tal fin, sin perjuicio de la revisión que puedan efectuar en cualquier momento las autoridades de migración.
@@ -3948,8 +3476,6 @@ PARÁGRAFO . Para los efectos de remisión de la información la persona natural
 
 (Decreto 834 de 2013, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.1.11.5.9 — De los servicios de salud
 
 Los servicios de urgencias y hospitalización en las instituciones prestadoras de servicios de salud, llevarán un registro de los extranjeros que ingresen como pacientes, en el cual consten los siguientes datos: Nombres, apellidos completos, nacionalidad, documento de identidad, dirección de ubicación en el país. Estas instituciones enviarán diariamente o en su defecto cada vez que se presenten los casos a la Unidad Administrativa Especial Migración Colombia, el registro de extranjeros por el medio establecido para tal fin, sin perjuicio de la revisión que puedan efectuar en cualquier momento las autoridades de migración.
@@ -3958,15 +3484,11 @@ Los servicios de urgencias y hospitalización en las instituciones prestadoras d
 
 (Decreto 834 de 2013, art. 48)
 
-ARTÍCULO
-
 ## art:2.2.1.11.5.10 — De los requerimientos
 
 Todo extranjero deberá presentarse personalmente ante las autoridades migratorias al ser requerido mediante escrito por el Director de la Unidad Administrativa Especial Migración Colombia, o por sus delegados, en los términos señalados en la correspondiente citación.
 
 (Decreto 834 de 2013, art. 49)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.11 — De los medios de transporte internacional o nacional
 
@@ -3983,8 +3505,6 @@ Las empresas de transporte aéreo, marítimo, fluvial o terrestre en cualquier m
 (Inciso 4, adicionado por el Art. 64 del Decreto 1743 de 2015)
 
 (Decreto 834 de 2013, art. 50)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.12 — De los deberes de las empresas de transporte internacional
 
@@ -4009,8 +3529,6 @@ Las empresas de transporte internacional, sus agencias o representantes deberán
 SECCIÓN 6.
 
 SALIDAS.
-
-ARTÍCULO
 
 ## art:2.2.1.11.6.1 — De las salidas
 
@@ -4124,15 +3642,11 @@ SECCIÓN 7.
 
 DISPOSICIONES FINALES.
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.1 — De la digitalización
 
 Los documentos relacionados con una solicitud de visa serán digitalizados por parte del Ministerio de Relaciones Exteriores, quien tendrá un expediente magnético. La información y los documentos relacionados con la solicitud de una visa, tienen carácter reservado y sólo se podrán dar a conocer o expedir copias de la imagen almacenada, al interesado, su apoderado, o la autoridad competente, previa autorización escrita otorgada por la Secretaría General de este Ministerio.
 
 (Decreto 834 de 2013, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.2 — Del traspaso de visa
 
@@ -4142,15 +3656,11 @@ El extranjero podrá solicitar ante el Ministerio de Relaciones Exteriores, el t
 
 (Decreto 834 de 2013, art. 54)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.3 — De las limitaciones
 
 El extranjero que hubiere obtenido visa deberá observar las limitaciones impuestas por la legislación nacional para establecerse en determinadas zonas del territorio nacional y ejercer actividades.
 
 (Decreto 834 de 2013, art. 55)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.4 — Del valor de los estudios, las visas y traspasos
 
@@ -4158,15 +3668,11 @@ El Ministerio de Relaciones Exteriores, señalará el valor de los derechos que 
 
 (Decreto 834 de 2013, art. 56)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.5 — Del valor de las actuaciones migratorias
 
 La Unidad Administrativa Especial Migración Colombia establecerá el valor de los derechos que se causen por concepto de sus actuaciones y procedimientos en general.
 
 (Decreto 834 de 2013, art. 57)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.6 — Del control migratorio
 
@@ -4174,15 +3680,11 @@ En ejercicio del control migratorio y sin perjuicio de lo establecido en otras d
 
 (Decreto 834 de 2013, art. 58)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.7 — De la vigencia de las visas y los permisos
 
 Las visas y permisos que a la entrada en vigencia de este Decreto aún se encuentren vigentes, mantendrán su validez. En los demás aspectos se regularán por las disposiciones del presente capítulo.
 
 (Decreto 834 de 2013, art. 59)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.8 — De los medios electrónicos
 
@@ -4190,15 +3692,11 @@ El Ministerio de Relaciones Exteriores podrá contemplar el mecanismo de solicit
 
 (Decreto 834 de 2013, art. 60)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.9 — Asentamiento de extranjeros
 
 La Unidad Administrativa Especial Migración Colombia podrá realizar brigadas especiales para identificar los principales asentamientos de extranjeros en el país, en diversas ciudades del país, cuando lo estime conveniente.
 
 (Decreto 834 de 2013, art. 61)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.10 — De la regularización
 
@@ -4206,23 +3704,17 @@ El Gobierno Nacional, por razones de conveniencia, podrá en cualquier momento o
 
 (Decreto 834 de 2013, art. 62)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.11 — Definición de buques de cruceros
 
 Para los efectos del presente capítulo son buques de cruceros, aquellos de travesía internacional, cuyos pasajeros alojados a bordo participan en un programa de grupo, que tienen previstas escalas turísticas temporales en uno o más puertos diferentes.
 
 (Decreto 834 de 2013, art. 63)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.12 — De las medidas de seguridad
 
 La Unidad Administrativa Especial Migración Colombia, en colaboración con las demás autoridades de policía, adoptarán las medidas de seguridad que sean necesarias para garantizar la salida del puerto respectivo de los pasajeros conforme al permiso otorgado.
 
 (Decreto 834 de 2013, art. 64)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.13 — De los casos no previstos y las embarcaciones militares
 
@@ -4232,15 +3724,11 @@ PARÁGRAFO . La autoridad competente informará de manera oportuna a la Unidad A
 
 (Decreto 834 de 2013, art. 65)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.14 — Lugares habilitados
 
 Los lugares habilitados al tránsito de personas podrán ser cerrados en forma temporal, cuando el Gobierno Nacional así lo disponga.
 
 (Decreto 834 de 2013, art. 66)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.15 — De la colaboración
 
@@ -4248,15 +3736,11 @@ El Director de la Unidad Administrativa Especial Migración Colombia, podrá aut
 
 (Decreto 834 de 2013, art. 67)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.16 — De las deudas de difícil recaudo
 
 Una vez en firme la sanción económica impuesta y si el sancionado ha salido del país por más de cinco (5) años continuos o discontinuos sin efectuar el pago total o parcial de la misma, la cartera se considerará de difícil recaudo y en consecuencia se castigará conforme a las disposiciones vigentes y a la reglamentación que se expida.
 
 (Decreto 834 de 2013, art. 68)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.17 — Del acceso a los registros
 
@@ -4264,15 +3748,11 @@ La autoridad migratoria tendrá acceso a los registros judiciales y archivos pro
 
 (Decreto 834 de 2013, art. 69)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.18 — De los convenios de intercambio de información
 
 La Unidad Administrativa Especial Migración Colombia, podrá celebrar convenios interadministrativos con entidades oficiales y organismos internacionales para el intercambio de información, que permita cumplir con las funciones propias del ejercicio del control migratorio, para lo cual se hará el traslado de la reserva legal de la información a que hace referencia el presente capítulo.
 
 (Decreto 834 de 2013, art. 70)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.19 — De los acuerdos
 
@@ -4280,15 +3760,11 @@ La Unidad Administrativa Especial Migración Colombia podrá celebrar acuerdos c
 
 (Decreto 834 de 2013, art. 71)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.20 — De los montos económicos
 
 El Director de la Unidad Administrativa Especial Migración Colombia mediante resolución fijará el valor de las sanciones económicas.
 
 (Decreto 834 de 2013, art. 72)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.21 — Definición de tripulante
 
@@ -4296,15 +3772,11 @@ Por tripulante debe entenderse lo definido en las normas legales vigentes, en es
 
 (Decreto 834 de 2013, art. 73)
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.22 — Menor de edad extranjero nacido en territorio colombiano
 
 El menor de edad nacido en territorio colombiano de padres extranjeros que no cumpla con los requisitos establecidos en el artículo 96 de la Constitución Política de Colombia para el reconocimiento de la nacionalidad colombiana, deberá ser presentado ante la Unidad Administrativa Especial Migración Colombia en un término no superior a ciento ochenta (180) días calendario contados a partir del momento del nacimiento para que le sea expedido el salvoconducto según corresponda.
 
 (Decreto 834 de 2013, art. 74)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.23 — Transitorio
 
@@ -4321,8 +3793,6 @@ PARÁGRAFO. Las Cédulas de Extranjería en calidad de Residente expedidas en vi
 CAPÍTULO 12.
 
 CLASES ESPECIALES DE VISAS
-
-ARTÍCULO
 
 ## art:2.2.1.12.1 — 2.1
 
@@ -4344,8 +3814,6 @@ SECCIÓN 1.
 
 DE LA VISA PREFERENCIAL.
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.1 — Visa preferencial
 
 Son Visas Preferenciales las siguientes:
@@ -4358,8 +3826,6 @@ SECCIÓN 2.
 
 DE LA VISA PREFERENCIAL DIPLOMÁTICA.
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.1 — Visa preferencial diplomática
 
 La Dirección del Protocolo del Ministerio de Relaciones Exteriores podrá otorgar Visa Preferencial Diplomática al agente portador de pasaporte diplomático que venga a desempeñar un cargo en la respectiva Misión Diplomática, Oficina Consular u Organismo Internacional debidamente acreditado ante el Gobierno de Colombia, en misión especial encomendada por su Gobierno u Organismo Internacional o al que en representación de su país o de un Organismo Internacional asista a reuniones o foros de nivel internacional en nuestro país.
@@ -4370,8 +3836,6 @@ PARÁGRAFO 2. Serán beneficiarios de la Visa Preferencial Diplomática el cóny
 
 (Decreto 2107 de 2001, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.2 — Expedición provisional
 
 La Visa Preferencial Diplomática podrá ser expedida de manera provisional en el exterior por el Jefe de una Misión Diplomática de la República, previa solicitud formulada por el respectivo Ministerio de Relaciones Exteriores, Organismo Internacional, Misión Diplomática u Oficina Consular, según corresponda y tendrá una vigencia máxima de noventa (90) días. En casos especiales, la Dirección del Protocolo podrá autorizar a las Oficinas Consulares para este efecto, con las condiciones señaladas.
@@ -4379,8 +3843,6 @@ La Visa Preferencial Diplomática podrá ser expedida de manera provisional en e
 PARÁGRAFO . En situaciones debidamente justificadas, la Dirección del Protocolo podrá autorizar al Jefe de una Misión Diplomática u Oficina Consular de la República para expedir Visa Preferencial Diplomática por un periodo hasta de dos (2) años.
 
 (Decreto 2107 de 2001, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.3 — Del otorgamiento
 
@@ -4392,15 +3854,11 @@ SECCIÓN 3.
 
 DE LA VISA PREFERENCIAL OFICIAL.
 
-ARTÍCULO
-
 ## art:2.2.1.12.3.1 — La Visa Preferencial Oficial
 
 La Visa Preferencial Oficial podrá ser otorgada por la Dirección del Protocolo del Ministerio de Relaciones Exteriores al funcionario extranjero que venga al país en desempeño de una misión oficial.
 
 (Decreto 2107 de 2001, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.2 — Expedición provisional
 
@@ -4409,8 +3867,6 @@ La Visa Preferencial Oficial podrá ser expedida provisionalmente en el exterior
 PARÁGRAFO . En situaciones plenamente justificadas, la Dirección del Protocolo podrá autorizar al Jefe de una Misión Diplomática u Oficina Consular de la República para expedir Visa Preferencial Oficial por un período hasta de un (1) año.
 
 (Decreto 2107 de 2001, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.3 — Del otorgamiento
 
@@ -4423,8 +3879,6 @@ PARÁGRAFO . En casos plenamente justificados, la Dirección del Protocolo podr�
 SECCIÓN 4.
 
 DE LA VISA PREFERENCIAL DE SERVICIO.
-
-ARTÍCULO
 
 ## art:2.2.1.12.4.1 — La Visa Preferencial de Servicio
 
@@ -4446,15 +3900,11 @@ PARÁGRAFO 3. Para la aplicación del literal d) del presente artículo, la Dire
 
 (Decreto 2107 de 2001, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.1.12.4.2 — Del otorgamiento
 
 La Visa Preferencial de Servicio la otorgará en el territorio nacional la Dirección del Protocolo, previa solicitud formulada por la respectiva Misión Diplomática, Oficina Consular u Organismo Internacional y su duración será establecida conforme al término de la misión, el contrato de trabajo o la prestación de servicios, con vigencia hasta dos (2) años, renovable por períodos iguales. Una vez terminada la misión o el contrato o actividad, el titular podrá permanecer amparado por la misma visa hasta por treinta (30) días calendario.
 
 (Decreto 2107 de 2001, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.1.12.4.3 — Prohibición
 
@@ -4465,8 +3915,6 @@ Sin perjuicio de lo dispuesto en los Tratados Internacionales, el titular de una
 CAPÍTULO 13.
 
 SANCIONES
-
-ARTÍCULO
 
 ## art:2.2.1.13.1 — Sanciones
 
@@ -4548,15 +3996,11 @@ Habrá lugar a las sanciones económicas en los siguientes eventos:
 
 (Decreto 4000 de 2004, art. 98)
 
-ARTÍCULO
-
 ## art:2.2.1.13.2 — Graduación de las sanciones
 
 Para la graduación de las sanciones económicas se tendrá en cuenta la gravedad de la falta, la reincidencia o la renuencia del infractor. El Director de la Unidad Administrativa Especial Migración Colombia, o sus delegados podrán exonerar al infractor mediante resolución motivada, cuando: se presente caso fortuito o fuerza mayor; el extranjero o colombiano se encuentre en estado de indigencia debidamente comprobados; en aplicación de acuerdo internacional suscrito por el Gobierno Nacional respecto a nacionales de ciertos países; o, así lo considere conveniente la autoridad migratoria.
 
 (Decreto 4000 de 2004, art. 99)
-
-ARTÍCULO
 
 ## art:2.2.1.13.3 — Ejecución coactiva
 
@@ -4568,8 +4012,6 @@ SECCIÓN 1.
 
 DE LA DEPORTACIÓN.
 
-ARTÍCULO
-
 ## art:2.2.1.13.1.1 — Deportación
 
 El Director de la Unidad Administrativa Especial Migración Colombia, o sus delegados, mediante Resolución motivada podrán ordenar la deportación del extranjero que esté incurso en cualquiera de las causales establecidas en el artículo siguiente del presente capítulo. Contra dicho acto administrativo proceden los recursos del procedimiento administrativo.
@@ -4577,8 +4019,6 @@ El Director de la Unidad Administrativa Especial Migración Colombia, o sus dele
 Contra la resolución que ordene la deportación como consecuencia de la cancelación de visa por parte del Ministerio de Relaciones Exteriores, no procederá recurso alguno.
 
 (Decreto 4000 de 2004, art. 101)
-
-ARTÍCULO
 
 ## art:2.2.1.13.1.2 — Causales de deportación
 
@@ -4608,8 +4048,6 @@ Sin perjuicio de las sanciones penales a que hubiere lugar, será deportado del 
 
 (Decreto 4000 de 2004, art. 102)
 
-ARTÍCULO
-
 ## art:2.2.1.13.1.3 — 1.3
 
 El extranjero que haya sido deportado sólo podrá ingresar al territorio nacional una vez transcurrido el término de la sanción que establezca la resolución respectiva, que no debe ser inferior a seis (6) meses ni superior a diez (10) años, previa expedición de la visa otorgada por las Oficinas Consulares de la República.
@@ -4621,8 +4059,6 @@ El extranjero que haya sido deportado sólo podrá ingresar al territorio nacion
 SECCIÓN 2.
 
 DE LA EXPULSIÓN.
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.1 — De la expulsión
 
@@ -4638,8 +4074,6 @@ El Director de la Unidad Administrativa Especial Migración Colombia, o sus dele
 
 (Decreto 4000 de 2004, art. 104)
 
-ARTÍCULO
-
 ## art:2.2.1.13.2.2 — Otros eventos de expulsión
 
 No obstante lo dispuesto en el artículo anterior, el Director de la Unidad Administrativa Especial Migración Colombia, o sus delegados, podrán expulsar a los extranjeros que a juicio de la autoridad migratoria, realicen actividades que atenten contra la seguridad nacional, el orden público, la salud pública, la tranquilidad social, la seguridad pública o cuando existan informaciones de inteligencia que indiquen que representa un riesgo para la seguridad nacional, el orden público, la seguridad pública, o la tranquilidad social o cuando se haya comunicado por autoridad extranjera al Estado colombiano, que en contra de la persona se ha dictado en ese país providencia condenatoria o una orden de captura, por delitos comunes o se encuentre registrado en los archivos de Interpol.
@@ -4648,15 +4082,11 @@ Cuando un ciudadano extranjero haya sido solicitado en extradición por su país
 
 (Decreto 4000 de 2004, art. 105)
 
-ARTÍCULO
-
 ## art:2.2.1.13.2.3 — De la expulsión como pena accesoria
 
 Cuando la expulsión se decrete como pena accesoria mediante sentencia ejecutoriada, el Director de la Unidad Administrativa Especial Migración Colombia, o sus delegados, una vez cumplida la pena principal, mediante auto, darán cumplimiento a la expulsión del extranjero y harán las comunicaciones respectivas al Grupo Interno de Trabajo que el Ministro de Relaciones Exteriores determine y al despacho judicial que dictó la medida. Contra este acto administrativo no procede recurso alguno.
 
 (Decreto 4000 de 2004, art. 106)
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.4 — Del afectado con medida de expulsión
 
@@ -4668,15 +4098,11 @@ SECCIÓN 3.
 
 MEDIDAS COMUNES AL CAPÍTULO DE SANCIONES.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.1 — Relación de deportados y expulsados
 
 La relación de deportados y expulsados se enviará al Ministerio de Relaciones Exteriores para la cancelación de la visa y registro en sus archivos, y a la autoridad judicial cuando a ello hubiere lugar.
 
 (Decreto 4000 de 2004, art. 108)
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.2 — Conducción extranjero
 
@@ -4684,15 +4110,11 @@ Un extranjero podrá ser conducido en cualquier momento por la autoridad migrato
 
 (Decreto 4000 de 2004, art. 109)
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.3 — De la no comparecencia del extranjero
 
 La no comparecencia del extranjero a las instalaciones de la Unidad Administrativa Especial Migración Colombia, no impedirá el trámite normal de las diligencias de deportación o expulsión.
 
 (Decreto 4000 de 2004, art. 110)
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.4 — De las autoridades migratorias colombianas
 
@@ -4700,15 +4122,11 @@ Las autoridades migratorias colombianas podrán dejar al extranjero afectado con
 
 (Decreto 4000 de 2004, art. 111)
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.5 — Deportación o expulsión
 
 La deportación o expulsión produce la cancelación de la visa correspondiente. Contra el auto de cancelación de visa no procede recurso alguno.
 
 (Decreto 4000 de 2004, art. 112)
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.6 — Cumplimiento de la sanción
 
@@ -4722,25 +4140,17 @@ CAPÍTULO TRANSITORIO.
 
 PLEBISCITO PARA LA REFRENDACIÓN DEL "ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA" A REALIZARSE EL 2 DE OCTUBRE DE 2016.
 
-ARTÍCULO
-
 ## art:2.2.1.14.1 — 4.1
 
 Autorícese a los Jefes de Oficina Consular de Colombia acreditados ante otros Estados, para habilitar puestos de votación en las sedes diplomáticas y consulares o en los sitios donde autorice la Registraduría Nacional del Estado Civil, en los cuales los ciudadanos colombianos que se encuentren o residan en el exterior pueden participar en el plebiscito para la refrendación del "Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera.
-
-ARTÍCULO
 
 ## art:2.2.1.14.2 — 4.2
 
 Autorícese a los Cónsules Honorarios, con el visto bueno de la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano del Ministerio de Relaciones Exteriores y de la Registraduría Nacional del Estado Civil, para habilitar puestos de votación en las sedes donde habitualmente atienden al público.
 
-ARTÍCULO
-
 ## art:2.2.1.14.3 — 4.3
 
 Los Jefes de Oficina Consular y Cónsules Honorarios de Colombia designarán ciudadanos colombianos, para ejercer como jurados de votación.
-
-ARTÍCULO
 
 ## art:2.2.1.14.4 — 4.4
 
@@ -4753,8 +4163,6 @@ ASUNTOS RELATIVOS A SOBERANÍA Y TERRITORIALIDAD
 CAPÍTULO 1.
 
 MAR TERRITORIAL, LA ZONA CONTIGUA, ALGUNOS ASPECTOS DE LA PLATAFORMA CONTINENTAL DE LOS TERRITORIOS INSULARES COLOMBIANOS EN EL MAR CARIBE OCCIDENTAL Y A LA INTEGRIDAD DEL DEPARTAMENTO ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA.
-
-ARTÍCULO
 
 ## art:2.2.2.1.1 — Territorios insulares de Colombia en el mar caribe occidental
 
@@ -4788,8 +4196,6 @@ k) Las demás islas, islotes, cayos, morros, bancos, elevaciones de bajamar, baj
 
 (Decreto 1946 de 2013, art. 1; modificado por el Decreto 1119 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2 — Espacios marítimos generados por los territorios insulares de Colombia en el mar caribe occidental
 
 De conformidad con el artículo 101 de la Constitución Política, el derecho internacional consuetudinario, y las Leyes 10 de 1978 y 47 de 1993, son parte de Colombia el mar territorial, la zona contigua, la plataforma continental y la zona económica exclusiva que generen sus territorios insulares en el mar Caribe occidental.
@@ -4797,8 +4203,6 @@ De conformidad con el artículo 101 de la Constitución Política, el derecho in
 La plataforma continental y la zona económica exclusiva generadas hacia el oriente por los territorios insulares de Colombia en el mar Caribe se superponen con la plataforma continental y la zona económica exclusiva generadas hacia el noroccidente por la costa Atlántica colombiana.
 
 (Decreto 1946 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3 — Trazado de las líneas de base en los territorios insulares en el mar caribe occidental
 
@@ -4811,8 +4215,6 @@ ARTÍCULO
 4. Las aguas situadas entre las líneas de base y los territorios insulares se consideran como aguas interiores.
 
 (Decreto 1946 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4 — Mar territorial de los territorios insulares en el mar caribe occidental
 
@@ -4827,8 +4229,6 @@ ARTÍCULO
 PARÁGRAFO . Para los efectos del presente Capítulo y de conformidad con lo establecido en el artículo 1o de la Ley 10 de 1978, se entenderá que una milla náutica equivale a 1,852 kilómetros.
 
 (Decreto 1946 de 2013, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5 — Zona contigua de los territorios insulares en el mar caribe occidental
 
@@ -4848,8 +4248,6 @@ PARÁGRAFO . La aplicación de este artículo se efectuará de conformidad con e
 
 (Decreto 1946 de 2013, art. 5; modificado por el Decreto 1119 de 2014, arts. 2 y 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6 — Elaboración de la cartografía
 
 Los puntos y líneas de base a que se refiere el artículo 2.2.2.1.3 de este decreto, serán publicados en mapas temáticos oficiales de la República de Colombia que elabora la Dirección General Marítima. Lo correspondiente será enviado al Instituto Geográfico Agustín Codazzi para lo de su competencia. A dichos mapas se les dará la debida publicidad. La Zona Contigua Integral establecida en virtud de este artículo se representará en mapas temáticos oficiales de la República de Colombia que elabora la Dirección General Marítima. Lo correspondiente será enviado al Instituto Geográfico Agustín Codazzi para lo de su competencia. A dichos mapas se les dará la debida publicidad.
@@ -4859,8 +4257,6 @@ Una vez determinados los puntos y líneas de base, así como los demás espacios
 PARÁGRAFO . La publicación de los mapas temáticos oficiales correspondientes se hará una vez el Gobierno Nacional haya publicado el decreto por el cual se establecen los puntos y líneas de base a partir de las cuales se mide la anchura del mar territorial, la zona contigua y los diversos espacios marítimos generados por las islas que conforman los territorios insulares de Colombia en el Mar Caribe.
 
 (Decreto 1946 de 2013, art. 6; modificado por el Decreto 1119 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.7 — Derechos de terceros estados
 
@@ -4872,15 +4268,11 @@ CAPÍTULO 2.
 
 AERONÁUTICA CIVIL, SOBREVUELO Y/O EL SOBREVUELO Y ATERRIZAJE DE AERONAVES DE ESTADO.
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Aeronaves de Estado extranjeras
 
 Se consideran aeronaves de Estado extranjeras, las dedicadas a servicios militares, de aduana o de policía, con matrícula de otro país que cumplen misiones ordenadas por los respectivos Gobiernos.
 
 (Decreto 1692 de 1992, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2 — Permisos de sobrevuelo y/o de sobrevuelo y aterrizaje
 
@@ -4889,8 +4281,6 @@ Corresponde al Ministerio de Defensa Nacional por intermedio de la Jefatura de O
 PARÁGRAFO . El Gobierno Nacional podrá convenir con otros Gobiernos autorizaciones de sobrevuelo y/o de sobrevuelo y aterrizaje por períodos máximos de un (1) año, condicionadas a la aplicación del principio de reciprocidad.
 
 (Decreto 1692 de 1992, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Solicitudes de permisos
 
@@ -4902,23 +4292,17 @@ PARÁGRAFO 2. La Jefatura de Operaciones Aéreas informará simultáneamente su 
 
 (Decreto 1692 de 1992, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.2.4 — Procedimiento
 
 El procedimiento anterior se seguirá también cuando se trate del ingreso al país de aeronaves extranjeras de gobierno de propiedad civil al servicio del Estado, con el fin de efectuar misiones de carácter oficial o de apoyo en casos de emergencia nacional, búsqueda, salvamento o similares.
 
 (Decreto 1692 de 1992, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.2.5 — Excepciones
 
 En circunstancias excepcionales las solicitudes de que trata el presente Decreto, podrán tramitarse directamente ante el Comando de la Fuerza Aérea Colombiana.
 
 (Decreto 1692 de 1992, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.2.6 — Información para la solicitud de permiso
 
@@ -4946,8 +4330,6 @@ j) Servicios requeridos.
 
 (Decreto 1692 de 1992, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.2.7 — Condiciones para los permisos de sobrevuelo y/o de sobrevuelo y aterrizaje
 
 Los permisos de sobrevuelo y/o de sobrevuelo y aterrizaje serán concedidos en número determinado y por tiempo limitado, bajo las siguientes condiciones:
@@ -4966,8 +4348,6 @@ PARÁGRAFO . Las aeronaves que en cumplimiento de misiones específicas en apoyo
 
 (Decreto 1692 de 1192, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.2.8 — Control y vigilancia de la navegación
 
 El control y vigilancia de la navegación aérea en Colombia para las aeronaves extranjeras, a que se refiere el presente capítulo, corresponde al de la Fuerza Aérea Colombiana, sin perjuicio de las funciones que legalmente competen a la Unidad Administrativa Especial de Aeronáutica Civil.
@@ -4978,23 +4358,17 @@ PARÁGRAFO 2. La entrada al país deberá hacerse utilizando un aeropuerto inter
 
 (Decreto 1692 de 1992, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.2.9 — Condiciones de los permisos concedidos
 
 En los permisos de sobrevuelo y/o de sobrevuelo y aterrizaje que conceda la Jefatura de Operaciones Aéreas del Comando de la Fuerza Aérea Colombiana, se indicarán las condiciones de los mismos, tales como las frecuencias en que las aeronaves deben hacer los enlaces radiotelefónicos, canales de entrada y salida del país, puntos de control establecidos, aeropuertos que deben utilizarse para la operación aérea y demás detalles que se estimen pertinentes.
 
 (Decreto 1692 de 1992, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.2.10 — Tratamiento de aeronaves extranjeras que cumplan misiones de apoyo a las Fuerzas Militares de Colombia
 
 Las aeronaves extranjeras que cumplan misiones de apoyo a las Fuerzas Militares de Colombia, tendrán un tratamiento similar al de las aeronaves militares colombianas en misiones de orden público.
 
 (Decreto 1692 de 1992, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.2.11 — Solicitud de autorización para sobrevuelo y/o de sobrevuelo y aterrizaje para las aeronaves de Estado colombianas
 
@@ -5003,8 +4377,6 @@ La Jefatura de Operaciones Aéreas solicitará a otros gobiernos la correspondie
 PARÁGRAFO . La autorización o negativa por parte del Gobierno extranjero, será comunicada simultáneamente por las misiones diplomáticas colombianas a la Jefatura de Operaciones Aéreas y a la Dirección de Soberanía Territorial.
 
 (Decreto 1692 de 1992, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.2.12 — Casos o circunstancias excepcionales
 
@@ -5016,15 +4388,11 @@ CAPÍTULO 3.
 
 COMISION NACIONAL PARA ASUNTOS ANTARTICOS.
 
-ARTÍCULO
-
 ## art:2.2.2.3.1 — Creación
 
 Créase la Comisión Nacional para Asuntos Antárticos, como órgano asesor del Gobierno Nacional en dichos asuntos, de carácter permanente e interinstitucional, adscrita al Ministerio de Relaciones Exteriores.
 
 (Decreto 1690 de 1990, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.3.2 — Integración
 
@@ -5046,23 +4414,17 @@ PARÁGRAFO . Los miembros de la Comisión Nacional para Asuntos Antárticos podr
 
 (Decreto 1690 de 1990, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.3.3 — 3.3
 
 Invitados.La Comisión Nacional para Asuntos Antárticos podrá invitar a otras entidades oficiales o privadas para que participen en sus reuniones.
 
 (Decreto 1690 de 1990, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.3.4 — Política
 
 La Comisión Nacional para Asuntos Antárticos, decidirá la política general del Gobierno en su participación en el Sistema del Tratado Antártico.
 
 (Decreto 1690 de 1990, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.3.5 — De la planeación y coordinación de los programas y proyectos
 
@@ -5072,15 +4434,11 @@ PARÁGRAFO . Los programas y proyectos señalados en este artículo serán prese
 
 (Decreto 1690 de 1990, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.3.6 — Reglamento
 
 El Reglamento de funcionamiento será dictado por la misma Comisión en un plazo de 60 días a partir de la fecha de publicación del presente Decreto.
 
 (Decreto 1690 de 1990, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.3.7 — Secretaría ejecutiva
 
@@ -5096,15 +4454,11 @@ CAPÍTULO 4.
 
 COMISIÓN NACIONAL PERMANENTE DE LA ORGANIZACIÓN DEL TRATADO DE COOPERACIÓN AMAZÓNICA.
 
-ARTÍCULO
-
 ## art:2.2.2.4.1 — Creación
 
 Créase la Comisión Nacional Permanente de la Organización del Tratado de Cooperación Amazónica, con el propósito de coordinar y orientar la ejecución de las decisiones adoptadas por las instancias de la Organización del Tratado de Cooperación Amazónica.
 
 (Decreto 3479 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2 — Funciones
 
@@ -5125,8 +4479,6 @@ La Comisión Nacional Permanente, tendrá las siguientes funciones:
 7. Invitar a representantes de otras entidades de la administración nacional, departamental y municipal, del sector académico, de organizaciones no gubernamentales, y del sector privado en general, para participar en reuniones o integrar grupos temáticos cuando su presencia sea considerada necesaria para el cumplimiento de lo dispuesto en el presente decreto. Las comunidades indígenas de la Amazonia serán invitadas permanentes a las reuniones de la Comisión.
 
 (Decreto 3479 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.4.3 — Integración
 
@@ -5154,23 +4506,17 @@ El Director del Instituto Colombiano para el Desarrollo de la Ciencia y la Tecno
 
 (Decreto 3479 de 2005, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.4.4 — Delegados
 
 Los miembros de la Comisión podrán actuar directamente o a través de su delegado, quien deberá ser del más alto nivel dentro de las entidades que representan.
 
 (Decreto 3479 de 2005, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.4.5 — Secretaría ejecutiva
 
 La Comisión tendrá una Secretaría Ejecutiva, la cual será ejercida por el Director de Soberanía Territorial y Desarrollo Fronterizo del Ministerio de Relaciones Exteriores o quien haga sus veces.
 
 (Decreto 3479 de 2005, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.4.6 — Informes
 
@@ -5251,8 +4597,6 @@ REFUGIADOS
 SECCIÓN 1.
 
 DE LAS CONDICIONES QUE DEBE REUNIR UNA PERSONA PARA SER RECONOCIDA COMO REFUGIADO.
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.1 — CONDICIÓN DE REFUGIADO
 
@@ -5343,15 +4687,11 @@ SECCIÓN 2.
 
 DE LA COMISIÓN ASESORA PARA LA DETERMINACIÓN DE LA CONDICIÓN DEREFUGIADO.
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.1 — Comisión asesora para la determinación de la condición de refugiado (CONARE)
 
 Corresponde a la Comisión Asesora para la Determinación de la Condición de Refugiado, recibir, tramitar y estudiar las solicitudes de reconocimiento de la condición de refugiado, presentadas por los extranjeros que se encuentren dentro de los supuestos del artículo 2.2.3.1.1.1 del presente decreto, y efectuar una recomendación para el Ministro de Relaciones Exteriores.
 
 (Decreto 2840 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.2 — Integración
 
@@ -5377,15 +4717,11 @@ PARÁGRAFO 2. La Comisión Asesora para la Determinación de la Condición de Re
 
 (Decreto 2840 de 2013, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.3 — 2.3
 
 Para efectos de apoyar a la Comisión Asesora para la Determinación de la Condición de Refugiado, así como a la Secretaría Técnica, se crea el Grupo Interno de Trabajo para la Determinación de la Condición de Refugiado, cuya regulación se adelantará por resolución ministerial.
 
 (Decreto 2840 de 2013, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.4 — Funciones de la comisión asesora para la determinación de la condición de refugiado
 
@@ -5409,8 +4745,6 @@ PARÁGRAFO . Por solicitud de alguno de los miembros de la Comisión, la Preside
 
 (Decreto 2840 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.5 — Funciones de la secretaría técnica
 
 La Secretaría Técnica de la Comisión Asesora para la Determinación de la Condición de Refugiado, tendrá las siguientes funciones:
@@ -5433,15 +4767,11 @@ SECCIÓN 3.
 
 DE LA SOLICITUD DE RECONOCIMIENTO DE LA CONDICIÓN DE REFUGIADO.
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.1 — De la manifestación
 
 Toda manifestación en el marco del procedimiento para el otorgamiento de la condición de refugiado, se deberá efectuar de acuerdo con el principio de buena fe.
 
 (Decreto 2840 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.2 — Procedimiento al momento de ingreso al país por puertos migratorios
 
@@ -5460,8 +4790,6 @@ PARÁGRAFO . La autoridad migratoria no podrá recibir solicitudes para la deter
 SECCIÓN 4.
 
 DE LA EXPEDICIÓN DEL SALVOCONDUCTO PARA PERMANECER EN EL TERRITORIO NACIONAL Y SU VIGENCIA.
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.1 — SALVOCONDUCTO DE PERMANENCIA
 
@@ -5488,8 +4816,6 @@ Si la Unidad Administrativa Especial Migración Colombia no le autoriza la exped
 (Parágrafo Transitorio, adicionado por el Art. 17 del Decreto 216 de 2021)
 
 (Decreto 2840 de 2013, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.2 — LA VIGENCIA DEL SALVOCONDUCTO DE PERMANENCIA
 
@@ -5521,8 +4847,6 @@ SECCIÓN 5.
 
 DE LA ENTREVISTA.
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.1 — Citación a la entrevista
 
 Una vez admitida la solicitud por parte de la Comisión Asesora para la Determinación de la Condición de Refugiado, el solicitante será citado a una entrevista personal, con el fin de que se pueda contar con la información suficiente para el posterior análisis del caso. La citación se realizará a la dirección y/o correo electrónico de contacto que el solicitante haya aportado en la solicitud. Si, a pesar de lo anterior, el solicitante no se presenta para la realización de la entrevista, se entenderá que no tiene interés en continuar con el procedimiento y la Secretaría Técnica expedirá una constancia de no comparecencia. Con base en esta constancia se comunicará a la Unidad Administrativa Especial Migración Colombia quien procederá a cancelar la vigencia del Salvoconducto de Permanencia.
@@ -5530,8 +4854,6 @@ Una vez admitida la solicitud por parte de la Comisión Asesora para la Determin
 El solicitante podrá pedir, dentro del mes siguiente al archivo de su expediente, el desarchivo del mismo siempre y cuando demuestre que su no comparecencia obedeció a razones de fuerza mayor o caso fortuito.
 
 (Decreto 2840 de 2013, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.2 — Deberes del entrevistado
 
@@ -5553,8 +4875,6 @@ SECCIÓN 6.
 
 DEL PROCEDIMIENTO PARA EL RECONOCIMIENTO DE LA CONDICIÓN DE REFUGIADO.
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.1 — Procedimiento una vez el solicitante se encuentre en el país
 
 En caso que la persona presente su solicitud de reconocimiento de la condición de refugiado encontrándose dentro del país, deberá presentarla máximo dentro del término de dos (2) meses siguientes a su ingreso al país, para su estudio por parte de la Comisión Asesora para la Determinación de la Condición de Refugiado. Corresponde a la Comisión Asesora para la Determinación de la Condición de Refugiado, estudiar las solicitudes que no sean presentadas dentro de los plazos establecidos en este capítulo, las cuales deberán contener los fundamentos de hecho debidamente documentados para la no presentación oportuna dentro de los términos establecidos para ese fin en el inciso primero de este artículo.
@@ -5564,8 +4884,6 @@ PARÁGRAFO 1. Cualquier extranjero que se encuentre en el país, independienteme
 PARÁGRAFO 2. La solicitud de reconocimiento de la condición de refugiado, podrá ser presentada directamente por el interesado ante el Despacho del Viceministerio de Asuntos Multilaterales del Ministerio de Relaciones Exteriores.
 
 (Decreto 2840 de 2013, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.2 — Contenido de la solicitud
 
@@ -5593,8 +4911,6 @@ PARÁGRAFO . En caso de ser requerida información adicional, la Secretaría Té
 
 (Decreto 2840 de 2013, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.3 — Rechazo de la solicitud
 
 La Comisión Asesora para la Determinación de la Condición de Refugiado, podrá recomendar el rechazo de la solicitud en los siguientes eventos:
@@ -5617,8 +4933,6 @@ PARÁGRAFO . En todos los casos, la Comisión Asesora para la Determinación de 
 
 (Decreto 2840 de 2013, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.4 — Solicitud de refugio presentada por mujeres
 
 Cuando la solicitud sea presentada por mujeres acompañadas por familiares hombres, se les informará de manera privada de su derecho de presentar una solicitud de reconocimiento de la condición de refugiado independiente. Si la solicitud la han presentado en las fronteras, puertos o aeropuertos del país, se les otorgará la posibilidad de recibir asesoría antes de presentar su solicitud o antes de la ampliación de la misma.
@@ -5626,8 +4940,6 @@ Cuando la solicitud sea presentada por mujeres acompañadas por familiares hombr
 Las mujeres solicitantes podrán ser entrevistadas por funcionarias e intérpretes femeninas quienes contarán con la capacitación pertinente y, en todo caso, serán informadas de esta posibilidad
 
 (Decreto 2840 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.5 — Solicitud por niños, niñas y adolescentes
 
@@ -5639,8 +4951,6 @@ Durante el trámite de reconocimiento de la condición de refugiado se velará p
 
 (Decreto 2840 de 2013, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.6 — Desistimiento
 
 En cualquier momento del trámite de la solicitud de reconocimiento de la condición de refugiado, el solicitante podrá desistir del procedimiento, voluntariamente y por escrito, caso en el cual el expediente será archivado mediante acto de trámite expedido por el Ministro de Relaciones Exteriores.
@@ -5648,8 +4958,6 @@ En cualquier momento del trámite de la solicitud de reconocimiento de la condic
 PARÁGRAFO . El desistimiento impedirá al solicitante volver a presentar una solicitud de reconocimiento de la condición de refugiado en Colombia por los mismos hechos.
 
 (Decreto 2840 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.7 — Expediente
 
@@ -5669,15 +4977,11 @@ Una vez admitida la solicitud para estudio de la Comisión Asesora para la Deter
 
 (Decreto 2840 de 2013, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.8 — Estudio del caso
 
 Completada la documentación, se enviará a cada uno de los miembros de la Comisión Asesora para la Determinación de la Condición de Refugiado, un análisis de cada caso para su estudio. El Presidente de la Comisión Asesora para la Determinación de la Condición de Refugiado citará a sesión, con el objeto de analizar el caso y emitir una recomendación al Ministro de Relaciones Exteriores. La recomendación no tendrá carácter vinculante.
 
 (Decreto 2840 de 2013, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.9 — Decisión
 
@@ -5685,15 +4989,11 @@ El expediente, junto con la recomendación adoptada por la Comisión Asesora par
 
 (Decreto 2840 de 2013, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.10 — Notificación
 
 La decisión sobre el reconocimiento de la condición de refugiado será notificada de conformidad con lo establecido en las disposiciones establecidas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 2840 de 2013, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.11 — Recursos
 
@@ -5701,15 +5001,11 @@ Contra la decisión que resuelve sobre la condición de refugiado, procede el re
 
 (Decreto 2840 de 2013, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.12 — Expedición de documentos
 
 Reconocida la condición de refugiado, el Ministerio de Relaciones Exteriores expedirá Documento de Viaje en el que se estampará la visa correspondiente, el cual será el único documento válido para ingresar o salir del país.
 
 (Decreto 2840 de 2013, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.13 — Aplicación del principio de unidad de la familia
 
@@ -5731,15 +5027,11 @@ PARÁGRAFO 2. Estas solicitudes se estudiarán en las mismas condiciones de la S
 
 (Decreto 2840 de 2013, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.14 — Negación de la solicitud
 
 Negada la solicitud de reconocimiento de la condición de refugiado y ejecutoriada la decisión, se comunicará a la Unidad Administrativa Especial Migración Colombia, entidad que cancelará el salvoconducto vigente y emitirá uno nuevo hasta por el término de treinta (30) días calendario, tiempo en el cual la persona deberá salir del territorio nacional o sujetarse a las normas y medidas migratorias correspondientes.
 
 (Decreto 2840 de 2013, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.15 — Comunicación de las decisiones
 
@@ -5747,21 +5039,15 @@ Las decisiones definitivas sobre las solicitudes de reconocimiento de la condici
 
 (Decreto 2840 de 2013, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.16 — No discriminación
 
 Las disposiciones de este capítulo serán aplicadas a los solicitantes de la condición de refugiado y a los refugiados sin discriminación por motivos de raza, género, religión, opinión política, nacionalidad, o pertenencia a determinado grupo social, situación diferencial o cualquier otra condición.
 
 (Decreto 2840 de 2013, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.17 — Los refugiados están obligados a respetar y cumplir la Constitución Política y las leyes colombianas
 
 (Decreto 2840 de 2013, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.18 — Coordinación interinstitucional
 
@@ -5769,23 +5055,17 @@ Durante el trámite de la solicitud de reconocimiento de la condición de refugi
 
 (Decreto 2840 de 2013, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.19 — Naturaleza de la información
 
 De conformidad con numeral 9 del artículo 4o y literal j) del artículo 81 del Decreto-ley 274 de 2000, en concordancia con los numerales 8 y 9 del artículo 19 y el artículo 31 del Decreto 3355 de 2009, los documentos relacionados con el trámite de refugio o cualquier tipo de información aportada por el solicitante serán de carácter reservado y confidencial.
 
 (Decreto 2840 de 2013, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.20 — Principio de no devolución a otro país
 
 No se devolverá al solicitante de refugio a otro país, sea o no de origen, donde su vida, libertad e integridad personal peligre por causa de su raza, religión, nacionalidad, pertenencia a determinado grupo social, o de sus opiniones políticas.
 
 (Decreto 2840 de 2013, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.21 — Medidas complementarias
 
@@ -5796,8 +5076,6 @@ En los casos que la Comisión Asesora para la Determinación de la Condición de
 SECCIÓN 7.
 
 DE LA EXCLUSIÓN DE LA CONDICIÓN DE REFUGIADO.
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.1 — Exclusión de la condición de refugiado
 
@@ -5817,15 +5095,11 @@ SECCIÓN 8.
 
 CESACIÓN DE LA CONDICIÓN DE REFUGIADO.
 
-ARTÍCULO
-
 ## art:2.2.3.1.8.1 — Revocación de la condición de refugiado
 
 Si después de que una persona ha sido reconocida como refugiado comete actos contemplados en las cláusulas de exclusión señalados en el artículo 2.2.3.1.7.1 del presente decreto, su condición como refugiado podrá ser revocada, con sujeción a las normas procedimentales del debido proceso.
 
 (Decreto 2840 de 2013, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.3.1.8.2 — Cesación de la condición de refugiado
 
@@ -5865,15 +5139,11 @@ CAPÍTULO 1.
 
 NACIONALIDAD Y CARTAS DE NATURALEZA
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — De la expedición y autorización
 
 La expedición de Cartas de Naturaleza y la autorización para que los Latinoamericanos y del Caribe por nacimiento se inscriban como colombianos son actos soberanos y discrecionales del Presidente de la República o del Ministro de Relaciones Exteriores, como delegatario de estas funciones.
 
 (Decreto 1869 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2 — Delegación
 
@@ -5881,15 +5151,11 @@ Delegase en el Ministro de Relaciones Exteriores la facultad de expedir las Cart
 
 (Decreto 1869 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3 — La ausencia
 
 La ausencia de Colombia no interrumpe los períodos de domicilio continuo exigidos en los literales a, b y c del artículo 5o de la Ley 43 de 1993, siempre que ésta no exceda de tres (3) meses continuos al año.
 
 (Decreto 1869 de 1994, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.1.4 — Solicitudes de la carta de naturaleza
 
@@ -5900,8 +5166,6 @@ La solicitudes de Carta de Naturaleza, que se presenten directamente ante el Min
 El Gobernador o el Alcalde, según el caso, deberá enviar la documentación al Ministerio de Relaciones Exteriores dentro del mes siguiente a la fecha en que la haya recibido.
 
 (Decreto 1869 de 1994, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.5 — Contenido de las solicitudes de la carta de naturaleza
 
@@ -5919,8 +5183,6 @@ e) Manifestación de su último domicilio antes de haberse residenciado en el pa
 
 (Decreto 1869 de 1994, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.1.6 — Del otorgamiento
 
 Para el otorgamiento de la Carta de Naturaleza o Resolución de Inscripción, los extranjeros deberán acreditar, debidamente mediante documento idóneo los requisitos a que se refiere el artículo 9o de la Ley 43 de 1993.
@@ -5928,8 +5190,6 @@ Para el otorgamiento de la Carta de Naturaleza o Resolución de Inscripción, lo
 PARÁGRAFO . En caso de que el peticionario no haya definido su situación militar en el país de origen, el Ministerio de Relaciones Exteriores una vez se perfeccione el trámite de nacionalización, informará al Ministerio de Defensa con el fin de que el nacionalizado defina su situación militar en Colombia, siempre y cuando el solicitante sea menor de cincuenta (50) años.
 
 (Decreto 1869 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.1.7 — De la inscripción
 
@@ -5939,15 +5199,11 @@ PARÁGRAFO . El trámite de nacionalización de los Españoles se regirá en pri
 
 (Decreto 1869 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.1.8 — Examen del idioma
 
 El examen del idioma castellano se practicará a todos aquellos solicitantes nacionales de un Estado cuya lengua materna sea distinta de éste. Para los indígenas que compartan territorios fronterizos que hablen una o más de las lenguas o dialectos oficiales en sus territorios, no será requisito el conocimiento del idioma castellano.
 
 (Decreto 1869 de 1994, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.1.9 — De los documentos otorgados en el exterior
 
@@ -5956,8 +5212,6 @@ La documentación requerida para obtener la nacionalidad colombiana debe estar d
 El Ministerio de Relaciones Exteriores podrá solicitar a las entidades oficiales la información o documentos adicionales que estime convenientes para comprobar las calidades de los extranjeros que deseen nacionalizarse o inscribirse como colombianos. Los documentos otorgados en el exterior deberán cumplir con los requisitos establecidos para los mismos en el artículo 251 de la Ley 1564 del 2012.
 
 (Decreto 1869 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4.1.10 — De los exámenes
 
@@ -5968,8 +5222,6 @@ Para practicar los exámenes a que haya lugar, los solicitantes que pidan ser in
 Tanto los exámenes practicados como sus resultados serán remitidos a la Alcaldía Correspondiente con el fin de que sean anexados al expediente de la solicitud de inscripción, el cual se remitirá a la oficina jurídica del Ministerio de Relaciones Exteriores.
 
 (Decreto 1869 de 1994, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.4.1.11 — Revisión de la información
 
@@ -5983,8 +5235,6 @@ La Carta de Naturaleza o Resolución que autorice la inscripción como colombian
 
 (Decreto 1869 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.1.12 — De la autorización
 
 Revisada la documentación y cumplidos todos los requisitos se analizará la conveniencia de la nacionalización y si fuere el caso se expedirá Carta de Naturaleza o Resolución autorizando la inscripción como colombianos por adopción.
@@ -5993,23 +5243,17 @@ Los anteriores actos se notificarán de conformidad con las normas sobre la mate
 
 (Decreto 1869 de 1994, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.4.1.13 — Comunicaciones
 
 Una vez perfeccionado el trámite de nacionalidad, la Dirección de Asuntos Jurídicos Internacionales del Ministerio de Relaciones Exteriores para los fines a que haya lugar, comunicará este hecho a la Registraría Nacional del Estado Civil, la Unidad Administrativa Especial Migración Colombia y a la Misión Diplomática correspondiente.
 
 (Decreto 1869 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.4.1.14 — De la información sobre la documentación aportada para los tramites
 
 En cumplimiento de lo dispuesto en el artículo 15 de la Constitución Nacional, la información sobre la documentación aportada para los trámites de solicitud de nacionalización que surtan de cada extranjero en particular, sólo se suministrará al solicitante o a su respectivo apoderado, o a las autoridades sobre las cuales no opere la reserva, de conformidad con la Constitución o la ley.
 
 (Decreto 1869 de 1994, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.4.1.15 — De la solicitud de extensión de nacionalidad
 
@@ -6019,15 +5263,11 @@ PARÁGRAFO . Cumplida la mayoría de edad, la persona a quien se le hizo extensi
 
 (Decreto 1869 de 1994, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.4.1.16 — Delegación
 
 Delegase en el Ministro de Relaciones Exteriores la facultad de expedir las resoluciones mediante las cuales se deniegue las solicitudes de Carta de Naturaleza o de inscripción como colombiano.
 
 (Decreto 1869 de 1994, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.4.1.17 — De la resolución
 
@@ -6035,23 +5275,17 @@ La Resolución mediante la cual se deniegue una solicitud de Carta de Naturaleza
 
 (Decreto 1869 de 1994, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.4.1.18 — De la nulidad
 
 La nulidad de una Carta de Naturaleza o de una Resolución de autorización de Inscripción como Colombiano, se producirá conforme a lo dispuesto por el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Una vez el Ministerio de Relaciones Exteriores reciba la copia certificada de la sentencia que declara la nulidad de una Carta de Naturaleza o Resolución de Autorización, deberá comunicar este hecho la Unidad Administrativa Especial Migración Colombia, a la Registraduría Nacional del Estado Civil y a la Misión Diplomática correspondiente.
 
 (Decreto 1869 de 1994, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.4.1.19 — Derecho a la renuncia
 
 Los nacionales colombianos, tanto por nacimiento como por adopción tendrán derecho a renunciar a la nacionalidad colombiana.
 
 (Decreto 1869 de 1994, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.4.1.20 — De la renuncia de la nacionalidad
 
@@ -6081,8 +5315,6 @@ PARÁGRAFO 3. Las personas deberán solicitar la renuncia de la nacionalidad col
 
 (Decreto 1869 de 1994, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.4.1.21 — Acta de renuncia
 
 El funcionario ante quien se presente el memorial de renuncia de la nacionalidad colombiana procederá a elaborar el Acta correspondiente, para lo cual dispondrá de un término máximo de dos (2) meses contados a partir de la fecha de recibo de la solicitud.
@@ -6097,15 +5329,11 @@ PARÁGRAFO . Los documentos que se entreguen anexos al memorial de renuncia debe
 
 (Decreto 1869 de 1994, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.4.1.22 — Readquisición de la nacionalidad
 
 Los nacionales por nacimiento o por adopción que renuncien a la nacionalidad colombiana, sólo podrán readquirirla una vez transcurridos dos (2) años, contados a partir de la fecha del Acta de Renuncia.
 
 (Decreto 1869 de 1994, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.4.1.23 — Conceptos de la Comisión para Asuntos de Nacionalidad
 
@@ -6117,15 +5345,11 @@ PARÁGRAFO . La Comisión para Asuntos de Nacionalidad podrá sesionar cuando se
 
 (Decreto 1869 de 1994, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.4.1.24 — De la aplicación de las disposiciones de nacionalidad
 
 Las disposiciones del presente capítulo se aplicarán a las solicitudes de nacionalidad que se encuentren en trámite en relación con aquellos requisitos que aún no se hubieren acreditado o cumplido.
 
 (Decreto 1869 de 1994, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.4.1.25 — De los tratados en los que Colombia sea parte
 
@@ -6139,23 +5363,17 @@ CAPÍTULO 2.
 
 SOBRE EL CONVENIO DE NACIONALIDAD ENTRE COLOMBIA Y ESPAÑA
 
-ARTÍCULO
-
 ## art:2.2.4.2.1 — De los españoles de origen
 
 Los españoles de origen podrán adquirir la nacionalidad colombiana cuando hayan estado domiciliados en el territorio de Colombia por un plazo no menor de dos años. (El texto completo de este Convenio puede solicitarse a las misiones respectivas de la Organización Internacional para las Migraciones, o directamente al Centro de Información sobre Migraciones en América Latina - CIMAL).
 
 (Decreto 3541 de 1980, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2 — Resolución de autorización
 
 La solicitud y la documentación para adquirir la nacionalidad colombiana serán presentados al Ministerio de Relaciones Exteriores, el cual autorizará mediante Resolución que se inscriba como colombiano por adopción al solicitante y, si es el caso, a su esposa y a sus hijos menores de edad, en los respectivos registros de la Alcaldía Municipal de su domicilio, previo el juramento legal de cumplir la constitución y las leyes de la República de Colombia.
 
 (Decreto 3541 de 1980, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3 — Requisitos
 
@@ -6171,15 +5389,11 @@ El Ministerio de Relaciones Exteriores expedirá la resolución de autorización
 
 (Decreto 3541 de 1980, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4 — De los colombianos de nacimiento y los españoles de origen
 
 Los colombianos de nacimiento y los españoles de origen que se hayan nacionalizado en el otro país, recuperarán su propia nacionalidad y los derechos y deberes correspondientes, en el caso de que readquieran su domicilio anterior y cumplan los requisitos exigidos por la legislación de su país originario.
 
 (Decreto 3541 de 1980, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.2.5 — Domicilio
 
@@ -6187,15 +5401,11 @@ Para los efectos del presente capítulo, se entiende por domicilio el constituid
 
 (Decreto 3541 de 1980, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6 — Españoles en condición de nacionales colombianos
 
 Tan pronto como los españoles de origen hayan cumplido las diligencias de juramento y de inscripción a que se refiere el artículo 2.2.4.2.2 del presente Decreto, gozarán de la condición de nacionales colombianos, en la forma regulada por el Convenio de nacionalidad entre Colombia y España de 1979 y por las leyes de Colombia.
 
 (Decreto 3541 de 1980, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7 — De la mención del Convenio de nacionalidad entre Colombia y España
 
@@ -6205,15 +5415,11 @@ PARÁGRAFO . Dichas inscripciones serán comunicadas por el Ministerio de Relaci
 
 (Decreto 3541 de 1980, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8 — Libro de registro de los españoles que adquieran la nacionalidad colombiana
 
 La Dirección de Asuntos Jurídicos Internacionales del Ministerio de Relaciones Exteriores llevará un libro de registro de los españoles de origen que adquieran la nacionalidad colombiana por adopción, en el cual se anotarán los nombres de los naturalizados, fecha de nacimiento, ciudad natal y número y fecha de la resolución que autorizó la respectiva inscripción.
 
 (Decreto 3541 de 1980, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.2.9 — Libro de registro de los nacionales que adquieran la nacionalidad española
 
@@ -6225,15 +5431,11 @@ CAPÍTULO 3.
 
 RECUPERACIÓN DE LA NACIONALIDAD COLOMBIANA
 
-ARTÍCULO
-
 ## art:2.2.4.3.1 — Recuperación de la nacionalidad colombiana
 
 Podrán recuperar la nacionalidad colombiana los nacionales por nacimiento o por adopción que hayan perdido la nacionalidad colombiana como consecuencia de la aplicación del artículo 9o. de la Constitución anterior, y quienes renuncien a ella de acuerdo con lo previsto en el artículo 23 de la Ley 43 de 1o. de febrero de 1993.
 
 (Decreto 207 de 1993, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2 — 3.2
 
@@ -6246,8 +5448,6 @@ La solicitud deberá contener además, la manifestación de voluntad del interes
 b) Cédula de ciudadanía o registro civil de nacimiento.
 
 (Decreto 207 de 1993, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.3.3 — 3.3
 
@@ -6265,15 +5465,11 @@ Quien hubiere sido colombiano por adopción deberá haber estado domiciliado en 
 
 (Decreto 207 de 1993, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.3.4 — Extensión para hijos
 
 Al formular la solicitud de recuperación de nacionalidad, con los requisitos previstos en este capítulo, los solicitantes podrán hacerla extensiva a los hijos menores que se encuentren bajo su patria potestad y que hayan nacido en tierra extranjera, con el propósito de que sean colombianos de nacimiento, siempre y cuando cumplan con el requisito del domicilio en Colombia. Junto con la solicitud de recuperación de la nacionalidad, deberá aportarse el documento idóneo que pruebe el parentesco, la patria potestad y el nacimiento en tierra extranjera.
 
 (Decreto 207 de 1993, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.3.5 — Del acta de recuperación de la nacionalidad
 
@@ -6293,8 +5489,6 @@ El acta se extenderá en cuatro ejemplares los cuales serán enviados, dentro de
 
 (Decreto 207 de 1993, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.3.6 — De la normatividad aplicable
 
 En lo no previsto en este capítulo se aplicarán en lo pertinente las disposiciones del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -6308,8 +5502,6 @@ ASUNTOS POLÍTICOS MULTILATERALES
 CAPÍTULO 1.
 
 AUTORIDAD NACIONAL PARA LA PROHIBICIÓN DEL DESARROLLO, LA PRODUCCIÓN, EL ALMACENAMIENTO Y EL EMPLEO DE ARMAS QUÍMICAS Y SU DESTRUCCIÓN, ANPROAQ.
-
-ARTÍCULO
 
 ## art:2.2.5.1.1 — Creación y conformación de la autoridad nacional, ANPROAQ
 
@@ -6329,15 +5521,11 @@ f) El Ministro de Salud o su delegado.
 
 (Decreto 1419 de 2002, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2 — Enlace con la OPAQ
 
 El Ministerio de Relaciones Exteriores tendrá a su cargo la representación y enlace de la Autoridad Nacional para la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y su Destrucción, ANPROAQ, ante la Organización para la Prohibición de las Armas Químicas, OPAQ, con sede en la ciudad de La Haya, Países Bajos.
 
 (Decreto 1419 de 2002, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3 — Funciones de la autoridad nacional, ANPROAQ
 
@@ -6363,8 +5551,6 @@ SECCIÓN 1.
 
 ORGANOS DE LA AUTORIDAD NACIONAL, ANPROAQ.
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.1 — Órganos
 
 Son órganos de la Autoridad Nacional, ANPROAQ, los siguientes:
@@ -6377,15 +5563,11 @@ c) El Grupo de Asistencia y Apoyo de la Secretaría Técnica.
 
 (Decreto 1419 de 2002, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.2 — Presidencia de la autoridad nacional, ANPROAQ
 
 La Autoridad Nacional, ANPROAQ, será presidida, de manera permanente, por el Ministro de Relaciones Exteriores o su delegado.
 
 (Decreto 1419 de 2002, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.3 — Funciones de la presidencia de la autoridad nacional, ANPROAQ
 
@@ -6401,15 +5583,11 @@ d) Todas las demás que sean afines a su actividad.
 
 (Decreto 1419 de 2002, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.4 — Secretaría técnica de la autoridad nacional, ANPROAQ
 
 La Secretaría Técnica de la Autoridad Nacional, ANPROAQ, estará a cargo del Ministerio de Defensa Nacional, entidad que podrá designar la dependencia bajo su cargo o la entidad adscrita o vinculada a ese Ministerio que asumirá las funciones contenidas en el artículo 2.2.5.1.1.5 del presente decreto.
 
 (Decreto 1419 de 2002, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.5 — Funciones de la secretaría técnica de la autoridad nacional, ANPROAQ
 
@@ -6437,8 +5615,6 @@ Son funciones de la Secretaría Técnica de la Autoridad Nacional, ANPROAQ, las 
 
 (Decreto 1419 de 2002, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.6 — Conformación del grupo de asistencia y apoyo a la secretaría técnica
 
 El Grupo de Asistencia y Apoyo a la Secretaría Técnica estará integrado por expertos en la materia, designados por cada una de las entidades que conforman la Autoridad Nacional, ANPROAQ, así como también por personas naturales o jurídicas cuya experiencia y/o conocimientos en la materia sean requeridos a los fines de la
@@ -6451,23 +5627,17 @@ SECCIÓN 2.
 
 REUNIONES DE LA AUTORIDAD NACIONAL, ANPROAQ.
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1 — Carácter y convocatoria de las reuniones
 
 La Autoridad Nacional, ANPROAQ, podrá sesionar de forma ordinaria o extraordinaria. La convocatoria a cada reunión se hará mediante comunicación escrita dirigida a cada una de las entidades que formen parte de la Autoridad Nacional, ANPROAQ, con una anticipación no inferior a treinta (30) días calendario. La convocatoria a sesiones extraordinarias deberá hacerse con una anticipación no inferior a quince (15) días calendario, mediante comunicación escrita dirigida a cada una de las entidades que formen parte de la Autoridad Nacional, ANPROAQ.
 
 (Decreto 1419 de 2002, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2 — Periodicidad de las reuniones
 
 Las sesiones ordinarias se efectuarán por lo menos dos (2) veces al año, una en cada semestre del año. Las sesiones extraordinarias se podrán convocar y efectuar en cualquier momento del año.
 
 (Decreto 1419 de 2002, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.3 — Objeto de las reuniones
 
@@ -6481,15 +5651,11 @@ PARÁGRAFO . Las entidades y los órganos que conforman la Autoridad Nacional, A
 
 (Decreto 1419 de 2002, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.4 — Toma de decisiones
 
 Las autoridades representadas en las reuniones propiciarán el acuerdo sobre las decisiones a tomar.
 
 (Decreto 1419 de 2002, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.5 — Lugar de las reuniones
 
@@ -6501,8 +5667,6 @@ SECCIÓN 3.
 
 ASPECTOS REGULADORES.
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.1 — Del funcionamiento
 
 El funcionamiento de la Autoridad Nacional, ANPROAQ, no causará erogación alguna al Tesoro Nacional.
@@ -6512,8 +5676,6 @@ El funcionamiento de la Autoridad Nacional, ANPROAQ, no causará erogación algu
 CAPÍTULO 2.
 
 COMITÉ DE COORDINACIÓN NACIONAL PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DEL TRÁFICO ILÍCITO DE ARMAS PEQUEÑAS Y LIGERAS EN TODOS SUS ASPECTOS
-
-ARTÍCULO
 
 ## art:2.2.5.2.1 — 2.1
 
@@ -6542,8 +5704,6 @@ j) El Gerente General de la Industria Militar de Colombia o su delegado.
 PARÁGRAFO . El Fiscal General de la Nación o su delegado, será invitado a participar en las reuniones del Comité con derecho a voz y voto. Así mismo, y de acuerdo con sus necesidades y los asuntos que habrá de considerar, el Comité de Coordinación Nacional podrá invitar a sus reuniones, por solicitud de uno de sus miembros, a cualesquiera personas naturales o jurídicas, de derecho público o privado, quienes tendrán voz pero no voto en sus deliberaciones.
 
 (Decreto 4508 de 2006, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.2 — 2.2
 
@@ -6585,8 +5745,6 @@ h) Las demás funciones que estime pertinentes.
 
 (Decreto 4508 de 2006, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.3 — Órganos
 
 Serán órganos del Comité de Coordinación Nacional para la Prevención, Combate y Erradicación del Tráfico Ilícito de Armas Pequeñas y Ligeras en todos sus aspectos:
@@ -6596,8 +5754,6 @@ a) La Presidencia;
 b) La Secretaría Técnica.
 
 (Decreto 4508 de 2006, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.5.2.4 — Presidencia del comité
 
@@ -6619,8 +5775,6 @@ g) Las demás que le sean asignadas por la ley o el reglamento.
 
 (Decreto 4508 de 2006, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.2.5 — Secretaría técnica
 
 La Secretaría Técnica del Comité será ejercida por el Ministerio de Defensa Nacional, su carácter será permanente y tendrá las siguientes funciones:
@@ -6639,15 +5793,11 @@ f) Las demás que le asignen la ley, el Reglamento o el Comité.
 
 (Decreto 4508 de 2006, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.5.2.6 — Punto único de contacto
 
 El Ministerio de Relaciones Exteriores será el enlace internacional del Comité de Coordinación Nacional y el encargado de dar a conocer la posición y sus decisiones en el ámbito internacional. Sin perjuicio de lo establecido en el inciso anterior, la Fiscalía General de la Nación, para el ejercicio de las funciones constitucionales y legales propias de sus responsabilidades, oficiará como punto de contacto para los efectos correspondientes al intercambio de pruebas, cooperación y asistencia legal internacional con los Estados.
 
 (Decreto 4508 de 2006, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.5.2.7 — Sesiones
 
@@ -6657,23 +5807,17 @@ PARÁGRAFO . El Comité se reunirá extraordinariamente cuando así lo estime el
 
 (Decreto 4508 de 2006, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.5.2.8 — Toma de decisiones
 
 El Comité adoptará sus decisiones por mayoría de votos de los integrantes asistentes.
 
 (Decreto 4508 de 2006, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.5.2.9 — Subcomités de trabajo
 
 Para el desarrollo de temas específicos relacionados con las funciones del Comité, este podrá organizar subcomités operativos internos.
 
 (Decreto 4508 de 2006, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.5.2.10 — Reglamento
 
@@ -6691,15 +5835,11 @@ CAPÍTULO 1.
 
 MEDIDAS PARA OTORGAR PERMISOS ESPECIALES DE INGRESO Y PERMANENCIA Y EXONERAR DE REQUISITOS PARA LA SOLICITUD DE LA NACIONALIDAD COLOMBIANA POR ADOPCIÓN A LOS NACIONALES VENEZOLANOS CÓNYUGES O COMPAÑEROS PERMANENTES DE LOS NACIONALES COLOMBIANOS DEPORTADOS, EXPULSADOS O RETORNADOS CON MOTIVO DE LA DECLARATORIA DEL ESTADO DE EXCEPCIÓN EFECTUADA POR LA REPÚBLICA BOLIVARIANA DE VENEZUELA Y OTRAS DISPOSICIONES EN MATERIA MIGRATORIA
 
-ARTÍCULO
-
 ## art:2.2.6.1.1 — Creación de Permisos Especiales
 
 En desarrollo del Decreto 1770 de 2015, declaratorio del Estado de Emergencia Económica, Social y Ecológica en parte del territorio nacional y del Decreto 1772 de 2015, mediante el cual se adoptaron medidas para garantizar la reunificación familiar, establézcase un Permiso Especial de Ingreso y Permanencia y un Permiso Especial Temporal de Permanencia, con carácter gratuito, para los cónyuges o compañeros permanentes, -de nacionalidad venezolana-, de los colombianos que fueron expulsados, deportados o retornados desde el Estado venezolano, en virtud de la declaratoria del Estado de Excepción efectuada por la República Bolivariana de Venezuela.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2 — Permiso Especial de Ingreso y Permanencia
 
@@ -6707,23 +5847,17 @@ El Permiso Especial de Ingreso y Permanencia será otorgado a los nacionales ven
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3 — Permiso Especial Temporal de Permanencia
 
 El Permiso Especial Temporal de Permanencia será otorgado gratuitamente a los nacionales venezolanos cónyuges o compañeros permanentes de los nacionales colombianos deportados, expulsados o retornados, que se encuentren en el territorio nacional y les haya sido otorgado un permiso de ingreso. Este permiso tendrá una vigencia de ciento ochenta (180) días, sin lugar a prórroga, y será otorgado previo el cumplimiento de los requisitos establecidos en el presente decreto.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4 — Cédula de extranjería
 
 La Unidad Administrativa Especial - Migración Colombia- procederá a la expedición de la correspondiente cédula de extranjería, con carácter gratuito, a los nacionales venezolanos cónyuges o compañeros permanentes de los nacionales colombianos deportados, expulsados o retornados, que sean titulares del Permiso Especial de Ingreso y Permanencia o del Permiso Especial Temporal de Permanencia, para efectos de su identificación en el territorio nacional.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5 — Requisitos de los Permisos Especiales
 
@@ -6745,15 +5879,11 @@ En caso de solicitar Permiso Especial de Ingreso y Permanencia o Permiso Especia
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6 — Actividades
 
 El Permiso Especial de Ingreso y Permanencia o el Permiso Especial Temporal de Permanencia autorizará al titular para ejercer cualquier actividad legal en el país, incluidas aquellas que se desarrollen en virtud de una vinculación o contrato laboral, sin perjuicio de los requisitos exigidos por la ley para el ejercicio de las profesiones reguladas.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.6.1.7 — Negación o Cancelación
 
@@ -6763,15 +5893,11 @@ PARÁGRAFO 1. En caso de negación o cancelación del Permiso Especial de Ingres
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.8 — Registro extemporáneo de ingreso
 
 La Unidad Administrativa Especial -Migración Colombia- podrá realizar el registro extemporáneo de ingreso al país a los ciudadanos que hayan ingresado por puntos no habilitados, como consecuencia de los cierres de frontera decretados por el Gobierno de la República Bolivariana de Venezuela, y se abstendrá de iniciar procedimientos sancionatorios en contra de los mismos por este motivo y por las demás infracciones migratorias que se puedan llegar a presentar.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.6.1.9 — De la solicitud de nacionalidad
 
@@ -6783,15 +5909,11 @@ La presentación de la solicitud no implica el otorgamiento de la nacionalidad c
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.10 — Requisitos para la solicitud de nacionalidad colombiana por adopción
 
 Los requisitos que se deberán acreditar y los documentos que se deberán presentar para efectos de solicitar la nacionalidad colombiana por adopción serán los mismos previstos en el artículo 2.2.6.1.5. de este Decreto, con excepción de la presentación del formato de solicitud de nacionalidad colombiana por adopción que deberá ser diligenciado y suscrito por el solicitante.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.6.1.11 — Exoneración de requisitos
 
@@ -6805,8 +5927,6 @@ Los titulares del Permiso Especial de Ingreso y Permanencia o del Permiso Especi
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.12 — Resolución de inscripción como colombiano
 
 Verificado el cumplimiento de los requisitos necesarios para otorgar la nacionalidad colombiana por adopción, se procederá a la expedición de la Resolución que autoriza la inscripción como colombiano por adopción, la cual será notificada al solicitante de conformidad con la Ley 1437 de 2011.
@@ -6815,8 +5935,6 @@ La toma de juramento se adelantará de conformidad con lo previsto en el artícu
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.6.1.13 — Negación
 
 El Ministerio de Relaciones Exteriores podrá negar la solicitud de nacionalidad colombiana por adopción, de conformidad con el artículo 10 de la Ley 43 de 1993, modificada por el artículo 39 de la Ley 962 de 2005, y el artículo 2.2.4.1.16. del Decreto 1067 de 2015.
@@ -6824,8 +5942,6 @@ El Ministerio de Relaciones Exteriores podrá negar la solicitud de nacionalidad
 En el evento en que sea negada la nacionalidad colombiana por adopción y ésta decisión quede en firme, el nacional venezolano deberá regularizar su situación migratoria, de conformidad con lo previsto en el Decreto 1067 de 2015, modificado por el Decreto 1743 de 2015 y la Resolución Ministerial 532 de 2015 y en todo caso, antes del vencimiento del término de 180 días establecido en el Permiso Especial de Ingreso y Permanencia o del Permiso Especial Temporal de Permanencia, según el caso.
 
 (Adicionado por el Art. 1 del Decreto 1814 de 2015)
-
-ARTÍCULO
 
 ## art:2.2.6.1.14 — Este decreto rige a partir de la fecha de su publicación
 
@@ -6840,8 +5956,6 @@ REGIMEN DE LA CARRERA DIPLOMATICA Y CONSULAR
 CAPITULO 1
 
 DE LOS CUPOS DE LOS FUNCIONARIOS DE LA CARRERA DIPLOMATICA Y CONSULAR QUE PUEDEN ESTAR ESCALAFONADOS EN LA CATEGORIA DE EMBAJADOR
-
-ARTÍCULO
 
 ## art:2.2.7.1.1 — 1.1
 
@@ -7412,8 +6526,6 @@ PARTE 1.
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — DEROGATORIA
 
 Este Decreto regula íntegramente las materias contempladas en él. Por consiguiente quedan derogadas todas las disposiciones expedidas con fundamento en el numeral 11, Articulo 189 de la Constitución Política, que verse sobre las mismas materias.
@@ -7421,8 +6533,6 @@ Este Decreto regula íntegramente las materias contempladas en él. Por consigui
 Quedan excluidas de la derogatoria integral las disposiciones reglamentarias del sector de Relaciones Exteriores que a la fecha de expedición del presente Decreto se encuentren suspendidas por la jurisdicción contencioso administrativa, las cuales serán compiladas en este decreto, en caso de recuperar su vigencia.
 
 PARÁGRAFO . Los actos administrativos que hayan sido expedidos con fundamento en las disposiciones compiladas en el presente Decreto, y que se encuentren vigentes al momento de su expedición, mantendrán su vigencia o ejecutoriedad, bajo el entendido de que sus fundamentos legales permanecen en el presente Decreto, dada su naturaleza compilatoria.
-
-ARTÍCULO
 
 ## art:3.1.2 — VIGENCIA
 
@@ -7465,91 +6575,3 @@ EL PRESIDENTE DE LA REPÚBLICA
 VICEMINISTRO DE ASUNTOS MULTILATERALES ENCARGADO DE LAS FUNCIONES DEL DESPACHO DE LA MINISTRA DE RELACIONES EXTERIORES,
 
 FRANCISCO JAVIER ECHVERRI LARA
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

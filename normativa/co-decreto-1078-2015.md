@@ -7,7 +7,7 @@ ramas: [tic, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77888
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Tecnologías de la Información y las Comunicaciones
@@ -20,23 +20,17 @@ TÍTULO 2
 
 ORGANOS SECTORIALES DE ASESORIA Y COORDINACIÓN
 
-ARTÍCULO
-
 ## art:1.1.2.1 — Comité Sectorial de Desarrollo Administrativo
 
 El Comité Sectorial de Desarrollo Administrativo es la instancia de articulación para la adopción y formulación de políticas de políticas, estrategias, metodologías, técnicas y mecanismos de carácter administrativo y organizacional para la gestión y manejo de los recursos humanos, técnicos, materiales, físicos, y financieros del Ministerio de Tecnologías de la Información y las Comunicaciones, orientado a fortalecer la capacidad administrativa y el desempeño institucional.
 
 (Ley 489 de 1998, arts. 17 y 19, Resolución 1096 del 7 de mayo de 2013)
 
-ARTÍCULO
-
 ## art:1.1.2.2 — Comisión Nacional Digital y de Información Estatal
 
 Conforme a lo dispuesto en el Decreto 32 de 2013, el objeto de la "Comisión Nacional Digital y de Información Estatal" será la coordinación y orientación superior de la ejecución de funciones y servicios públicos relacionados con el manejo de la información pública, el uso de infraestructura tecnológica de la información para la interacción con los ciudadanos y el uso efectivo de la información en el Estado Colombiano, emitir los lineamientos rectores del Grupo de Respuesta a Emergencias Cibernéticas de Colombia del Ministerio de Defensa Nacional y asesorar al Gobierno Nacional en materia de políticas para el sector de tecnologías de la información y las comunicaciones, de conformidad con la definición que de éstas hace la Ley.
 
 (Decreto 32 de 2013)
-
-ARTÍCULO
 
 ## art:1.1.2.3 — Comisión Intersectorial para el Desarrollo de la Economía Digital (CIDED)
 
@@ -54,15 +48,11 @@ TÍTULO 1
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Comisión de Regulación de Comunicaciones
 
 Conforme a lo establecido en el artículo 19 de la Ley 1341 de 2009, La Comisión de Regulación de Comunicaciones (CRC) es una Unidad Administrativa Especial, con independencia administrativa. técnica y patrimonial, sin personería jurídica adscrita al Ministerio de Tecnologías de la Información y las Comunicaciones, encargada de promover la competencia, evitar el abuso de posición dominante y regular los mercados de las redes y los servicios de comunicaciones, con el fin de que la prestación de los servicios sea económicamente eficiente, y refleje altos niveles de calidad.
 
 (Ley 1341 de 2009, art. 19)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Agencie Nacional de Espectro
 
@@ -71,8 +61,6 @@ Conforme a lo establecido en el artículo 25 de Ley 1341 de 2009, modificado por
 El objeto de la Agencia Nacional del Espectro es brindar soporte técnico para la gestión, planeación y ejercicio de la vigilancia y control del espectro radioeléctrico.
 
 (Ley 1341 de 2009, art. 25; Decreto Ley 4159 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:1.2.1.3 — Fondo de Tecnologías de la Información y las Comunicaciones
 
@@ -86,23 +74,17 @@ TÍTULO 2
 
 OTRAS ENTIDADES DEL SECTOR
 
-ARTÍCULO
-
 ## art:1.2.2.1 — Autoridad Nacional de Televisión
 
 De acuerdo a lo establecido en el Artículo 2 de la Ley 1507 de 2012, La Autoridad Nacional de Televisión-ANTV, es una Agencia Nacional Estatal de Naturaleza Especial, del Orden Nacional, con personería Jurídica, autonomía administrativa, patrimonial, presupuestal y técnica, la cual formar parte del Sector de Tecnologías de la Información y las Telecomunicaciones.
 
 (Ley 1507 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:1.2.2.2 — Radio Televisión Nacional de Colombia
 
 De acuerdo a lo establecido en la escritura pública de creación No. 3.138 del 28 de octubre de 2004, la Radio Televisión Nacional de Colombia - RTVC - es una sociedad entre entidades públicas indirecta, cuyo objeto social está definido por la prestación de servicios de preproducción, producción, post producción y emisión y transmisión de la radio y televisión públicas nacionales.
 
 (Ley 489 de 1998, art. 49)
-
-ARTÍCULO
 
 ## art:1.2.2.3 — Servicios Postales Nacionales S.A
 
@@ -124,33 +106,23 @@ SELECCIÓN DE LOS COMISIONADOS DE LA SESIÓN DE CONTENIDOS AUDIOVISUALES
 
 PARÁGRAFO . Con el fin de garantizar los principios de transparencia y acceso a información pública, el proceso de selección, en todas sus etapas, deberá ser público, de manera que se permita conocer los nombres de los aspirantes, sus hojas de vida, y los resultados de sus pruebas, así como la lista de elegibles. Para el efecto, tal información deberá publicarse en el Portal Único del Estado Colombiano Gov.co, y en las páginas web de la Comisión de Regulación de Comunicaciones y del Ministerio de Educación Nacional.
 
-ARTÍCULO
-
 ## art:1.2.3.1.2 — Selección del Comisionado elegido por los operadores públicos regionales del servicio de televisión
 
 Exclusivamente para efectos de la elección del Comisionado de que trata el literal a) del numeral 20.1 del artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019, los operadores públicos regionales del servicio de televisión deberán regular autónomamente el procedimiento y reglamento aplicable para la elección y publicarlo a través de la página web de la CRC. Únicamente se entenderá vigente y será aplicable el procedimiento que se encuentre publicado en la página web de la CRC.
 
 PARÁGRAFO . Los operadores públicos regionales del servicio público de televisión son aquellos operadores públicos del servicio de televisión que cubre un área geográfica determinada, formada por el territorio del Distrito Capital o de más de un departamento.
 
-ARTÍCULO
-
 ## art:1.2.3.1.3 — Designación del Comisionado elegido por los operadores públicos regionales del servicio de televisión
 
 Los operadores públicos regionales del servicio de televisión, dentro de los tres (3) meses siguientes a la fecha de entrada en vigencia de la Ley 1978 de 2019, deberán informar al Director Ejecutivo de la Comisión de Regulación de Comunicaciones, a través de comunicación suscrita por la totalidad de operadores públicos regionales de televisión, el nombre del Comisionado elegido, y allegar la documentación que soporte el cumplimiento de los requisitos exigidos en el artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019, el documento en donde conste la decisión de elección, en aplicación del procedimiento y reglamento definido de manera autónoma por los mismos operadores, para que se proceda a su nombramiento.
-
-ARTÍCULO
 
 ## art:1.2.3.1.4 — Comisionado de la sociedad civil
 
 Exclusivamente para efectos de la selección del Comisionado de que trata el literal b) del numeral 20.1 del artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019, se entiende por miembro de la sociedad civil cualquier ciudadano que cumpla con los requisitos mínimos señalados en el citado artículo.
 
-ARTÍCULO
-
 ## art:1.2.3.1.5 — Comisionado del sector audiovisual
 
 Exclusivamente para efectos de la selección del Comisionado de que trata el literal c) del numeral 20.1 del artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019, se entiende por miembro del sector audiovisual cualquier ciudadano que cumpla con los requisitos mínimos señalados en el citado artículo y con experiencia en la generación o producción de creaciones de imagen y sonido para televisión, cine, radiodifusión sonora, o video bajo demanda transmitido sobre Internet.
-
-ARTÍCULO
 
 ## art:1.2.3.1.6 — Selección de universidad por parte del Ministerio de Educación Nacional
 
@@ -159,8 +131,6 @@ El Ministerio de Educación Nacional seleccionará la universidad pública o pri
 El Ministerio de Educación Nacional, una vez seleccione a la Universidad, deberá suscribir el convenio interadministrativo o contrato con la Universidad seleccionada. Los costos del proceso o procesos de selección estarán a cargo de la Comisión de Regulación de Comunicaciones, para lo cual se suscribirán los convenios interadministrativos que sean requeridos.
 
 PARÁGRAFO TRANSITORIO. Para la realización de los concursos públicos tendientes a seleccionar por primera vez a los dos Comisionados de que tratan los literales b) y c) del numeral 20.1 del artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019, y con el propósito de garantizar el cumplimiento del término máximo de tres (3) meses allí fijado, el Ministerio de Educación Nacional seleccionará una universidad pública.
-
-ARTÍCULO
 
 ## art:1.2.3.1.7 — 1.7
 
@@ -184,15 +154,11 @@ En el concurso público para la selección de los Comisionados de la Sesión de 
 
 3.4. Entrevista, que tendrá un valor no superior del 10 % respecto, del total del concurso público.
 
-ARTÍCULO
-
 ## art:1.2.3.1.8 — Mecanismos de publicidad
 
 La publicidad de la convocatoria deberá realizarse mínimo 10 días antes de la fecha inicial fijada para el cierre de las inscripciones y deberá hacerse a través de los medios que garanticen su conocimiento y permitan la libre concurrencia.
 
 PARÁGRAFO . Con el fin de garantizar la libre concurrencia, la publicación de la convocatoria deberá efectuarse en el Portal Único del Estado Colombiano Gov.co, las páginas web de la Comisión de Regulación de Comunicaciones, del Ministerio de Educación Nacional y de la universidad que haya sido seleccionada por el Ministerio de Educación Nacional para desarrollar los concursos a que se refiere el presente capítulo.
-
-ARTÍCULO
 
 ## art:1.2.3.1.9 — Lista de elegibles
 
@@ -204,23 +170,17 @@ CAPÍTULO 2
 
 PROCESO DE SELECCIÓN PARA LA ELECCIÓN DE LOS COMISIONADOS DE LA SESIÓN DE COMISIÓN DE COMUNICACIONES
 
-ARTÍCULO
-
 ## art:1.2.3.2.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar el proceso para la selección de los Comisionados de la Sesión de Comisión de Comunicaciones de la Comisión de Regulación de Comunicaciones, de conformidad con los requisitos establecidos en el numeral 20.2 del artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019.
 
 PARÁGRAFO . Con el fin de garantizar los principios de transparencia y acceso a información pública, el proceso de selección, en todas sus etapas, deberá ser público, de manera que se permita conocer los nombres de los aspirantes, sus hojas de vida, y los resultados de sus pruebas, así como la lista de elegibles. Para el efecto, tal información deberá publicarse en el Portal Único del Estado Colombiano Gov.co, y en las páginas web de la Comisión de Regulación de Comunicaciones, y del Departamento Administrativo de la Función Pública.
 
-ARTÍCULO
-
 ## art:1.2.3.2.2 — Concurso público para la selección de Comisionados
 
 Los Comisionados de la Sesión de Comisión de Comunicaciones de la Comisión de Regulación de Comunicaciones serán elegidos en estricto orden de méritos de la lista que resulte del concurso público y abierto adelantado por el Departamento Administrativo de la Función Pública.
 
 El concurso público en todas sus etapas deberá ser adelantado atendiendo criterios de igualdad, moralidad, eficacia, economía, celeridad, objetividad, transparencia, imparcialidad y publicidad, teniendo en cuenta la idoneidad de los aspirantes para el ejercicio de las funciones.
-
-ARTÍCULO
 
 ## art:1.2.3.2.3 — Etapas del concurso público
 
@@ -244,23 +204,17 @@ El concurso público para la selección de los Comisionados de la Sesión de Com
 
 3.4. Entrevista, que tendrá un valor no superior del 10 % respecto del total del concurso público.
 
-ARTÍCULO
-
 ## art:1.2.3.2.4 — Mecanismos de publicidad
 
 La publicidad de la convocatoria deberá realizarse mínimo 10 días antes de la fecha inicial fijada para el cierre de las inscripciones y deberá hacerse a través de los medios que garanticen su conocimiento y permitan la libre concurrencia.
 
 PARÁGRAFO . Con el fin de garantizar la libre concurrencia, la publicación de la convocatoria deberá efectuarse en el Portal Único del Estado Colombiano Gov.co, las páginas web de la Comisión de Regulación de Comunicaciones, del Ministerio de Tecnologías de la Información y las Comunicaciones y del Departamento Administrativo de la Función Pública.
 
-ARTÍCULO
-
 ## art:1.2.3.2.5 — Lista de elegibles
 
 Con los resultados de las pruebas, el Director del Departamento Administrativo de la Función Pública elaborará, en estricto orden de mérito, de acuerdo con el puntaje obtenido por cada participante, la lista de elegibles para cubrir los cargos de Comisionados, y remitirá al Director Ejecutivo de la CRC la lista de elegibles y la documentación que soporte el cumplimiento de los requisitos exigidos en el artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019, y el documento en donde conste la selección, para que se proceda a su nombramiento, en estricto orden de elegibilidad, previa verificación del cumplimiento de los requisitos exigidos por parte del Jefe de .la Unidad de Personal de la CRC, o quien haga sus veces.
 
 PARÁGRAFO . El procedimiento descrito en el presente artículo, para el nombramiento de los primeros Comisionados que integren la Sesión de Comisión de Comunicaciones, señalados en los literales b) y c) del numeral 20.2 del artículo 20 de la Ley 1341 de 2009, deberá realizarse dentro de los tres (3) meses siguientes a la entrada en vigencia de la Ley 1978 de 2019. Los concursos sucesivos que se realicen para la selección de los Comisionados que con posterioridad integren la Sesión de Comisión de Comunicaciones deberán efectuarse en un término máximo de dos (2) meses, previos al vencimiento del periodo del Comisionado a reemplazar.
-
-ARTÍCULO
 
 ## art:1.2.3.2.6 — Selección de Comisionados a que se refiere el numeral 20.2 del artículo 20 de la Ley 1341 de 2009
 
@@ -271,8 +225,6 @@ Con el propósito de mantener la conformación mínima a que se refiere el incis
 PARÁGRAFO 1. El Presidente de la República podrá designar como Comisionado de la Sesión de Comisión de Comunicaciones a cualquier ciudadano que cumpla con las condiciones descritas en el numeral 20.2. del artículo 17 de la Ley 1978 de 2019.
 
 PARÁGRAFO 2. La primera conformación de la Sesión de Comisión Comunicaciones se hará conforme a lo dispuesto en el parágrafo transitorio del artículo 20 de la Ley 1341 de 2009, modificado por el artículo 17 de la Ley 1978 de 2019.
-
-ARTÍCULO
 
 ## art:1.2.3.2.7 — Convenios o contratos interadministrativos
 
@@ -292,13 +244,9 @@ TÍTULO 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad vigente expedida por el Gobierno Nacional mediante las facultades reglamentarlas conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para la cumplida ejecución de las leyes en el sector de Tecnologías de la Información y las Comunicaciones.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de Aplicación
 
@@ -318,19 +266,13 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.1.1 — Objeto
 
 El presente título tiene por objeto establecer las definiciones, presupuestos y trámites para la inscripción e incorporación en el Registro Único de TIC de que trata el artículo 15 de la Ley 1341 de 2009.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2 — Ámbito de aplicación
 
 El presente título se aplica a todas las personas que provean o vayan a proveer redes o servicios de telecomunicaciones, entre estos, los operadores del servicio de televisión, también a los concesionarios del servicio de radiodifusión sonora y los titulares de permisos para el uso de recursos escasos
-
-ARTÍCULO
 
 ## art:2.2.1.1.3 — Definiciones
 
@@ -350,21 +292,15 @@ Para los efectos del presente título se adoptan los términos y definiciones de
 
 7. Titular de permisos para el uso de recursos escasos. Persona que cuenta con permiso otorgado por el Ministerio de Tecnologías de la Información y las Comunicaciones para el uso de frecuencias radioeléctricas.
 
-ARTÍCULO
-
 ## art:2.2.1.1.4 — Sujetos obligados a inscribirse en el Registro Único de TIC
 
 Deben inscribirse y quedar incorporados en el Registro los proveedores de redes o de servicios de telecomunicaciones, los titulares de permisos para el uso de recursos escasos, y los concesionarios del servicio de radiodifusión sonora, indicando sus socios, quienes también deberán cumplir con esta obligación incluyendo y actualizando la información, cuando haya lugar.
 
 La no inscripción en el Registro Único de TIC acarrea las sanciones a que haya lugar, de conformidad con lo establecido en la Ley 1341 de 2009 o la que la modifique, adicione o sustituya.
 
-ARTÍCULO
-
 ## art:2.2.1.1.5 — Anotaciones de oficio
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones anotará de oficio la información que genere y que sea relevante para el Registro Único de TIC.
-
-ARTÍCULO
 
 ## art:2.2.1.1.6 — Acceso al Registro y expedición de certificados
 
@@ -374,13 +310,9 @@ CAPÍTULO 2
 
 INSCRIPCIÓN E INCORPORACIÓN EN EL REGISTRO ÚNICO DE TIC
 
-ARTÍCULO
-
 ## art:2.2.1.2.1 — Información del Registro Único de TIC
 
 El Registro Único de TIC contendrá la estructura e información que determine el Ministerio de Tecnologías de la Información y las Comunicaciones.
-
-ARTÍCULO
 
 ## art:2.2.1.2.2 — Inscripción
 
@@ -388,19 +320,13 @@ La inscripción en el Registro Único de TIC se hará en línea a través del po
 
 La inscripción se entenderá concluida cuando la información y documentación requerida para el efecto haya sido aportada en forma completa, en los términos del presente artículo y de los lineamientos que para el efecto expida el Ministerio de TIC, de acuerdo con lo dispuesto en el artículo 2.2.1.2.1 de este mismo Decreto.
 
-ARTÍCULO
-
 ## art:2.2.1.2.3 — Verificación
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones verificará, dentro de los diez (10) días hábiles siguientes a la inscripción, la información y documentación aportada. Si en la verificación se encuentra que el interesado no presentó la información que determina el Ministerio de Tecnologías de la Información y las Comunicaciones, se dará aplicación a lo establecido en el artículo 17 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
-ARTÍCULO
-
 ## art:2.2.1.2.4 — Incorporación
 
 Verificada la información presentada con la inscripción, el Ministerio de Tecnologías de la Información y las Comunicaciones procederá a la incorporación del solicitante en el Registro Único de TIC, dentro de los cinco (5) días hábiles siguientes a dicha verificación.
-
-ARTÍCULO
 
 ## art:2.2.1.2.5 — Efectos del Registro
 
@@ -413,8 +339,6 @@ La incorporación en el Registro Único de TIC de los operadores del servicio de
 CAPÍTULO 3
 
 NOVEDADES EN RELACIÓN CON EL REGISTRO ÚNICO DE TIC
-
-ARTÍCULO
 
 ## art:2.2.1.3.1 — Modificación de la información
 
@@ -434,13 +358,9 @@ En caso de que la novedad se genere por actuaciones del Ministerio de Tecnologí
 
 En particular, se deberá anotar de oficio como mínimo la información relativa a la asignación, otorgamiento, renovación o autorización de cesión de permisos de uso del espectro radioeléctrico.
 
-ARTÍCULO
-
 ## art:2.2.1.3.2 — Notificación de actos de registro
 
 Los actos de registro se entenderán notificados el día en que se efectúe la correspondiente anotación en el Registro Único de TIC, conforme a lo previsto en el artículo 70 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
-
-ARTÍCULO
 
 ## art:2.2.1.3.3 — Archivo del Registro Único de TIC
 
@@ -470,13 +390,9 @@ CAPÍTULO 4
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.1.4.1 — Aplicación del régimen de infracciones y sanciones
 
 Las infracciones a las disposiciones del presente título serán sancionadas conforme al régimen previsto en la Ley 182 de 1995, la Ley 335 de 1996 o en el título IX de la Ley 1341 de 2009.
-
-ARTÍCULO
 
 ## art:2.2.1.4.2 — Regulación y adecuaciones tecnológicas
 
@@ -494,8 +410,6 @@ SECCIÓN 1
 
 DEL PROCEDIMIENTO DE SELECCIÓN OBJETIVA PARA OTORGAR PERMISOS PARA EL USO DEL ESPECTRO RADIOELÉCTRICO
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.1 — Etapa Previa: Determinación de Pluralidad de Interesados
 
 Previamente al inicio del proceso de selección objetiva para otorgar permisos para el uso del espectro radioeléctrico, el Ministerio de Tecnologías de la Información y las Comunicaciones determinará si existe pluralidad de oferentas.(sic)
@@ -506,8 +420,6 @@ Los interesados deberán informar su intención, a través de escrito dirigido a
 
 (Decreto 4392 de 2010, art.1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.2 — Apertura del Procedimiento de Selección Objetiva
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones. de oficio o a solicitud de parte, podrá ordenar el inicio del procedimiento de selección objetiva mediante acto administrativo motivado, que debe publicarse en su página web, el cual señalará el objeto de la selección objetiva, las frecuencia(s) y/o banda(s) de frecuencias en las que se otorgarán los permisos, su localización geográfica, los usos o aplicaciones permitidas en ellas, las contraprestaciones a que haya lugar, el contenido de la solicitud, el estudio técnico que lo soporte, los requisitos específicos requeridos para cada banda y/o frecuencia, los criterios de selección y el cronograma respectivo.
@@ -515,8 +427,6 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones. de oficio
 Cuando el procedimiento se inicie a solicitud de parte se informará directamente al peticionario sobre su apertura.
 
 (Decreto 4392 de 2010, art.2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.3 — Contenido de las solicitudes
 
@@ -540,15 +450,11 @@ PARÁGRAFO . En cualquier momento el Ministerio de Tecnologías de la Informaci�
 
 (Decreto 4392 de 2010, art.3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.4 — Evaluación y otorgamiento de espectro
 
 Una vez evaluadas la o las solicitudes, y verificado el cumplimiento de requisitos, mediante acto administrativo motivado, se otorgará el permiso a la mejor oferta o se negará, si a ello hubiere lugar.
 
 (Decreto 4392 de 2010, art.4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.5 — Garantías de cumplimiento
 
@@ -556,23 +462,17 @@ Con el fin de amparar el cumplimiento de las obligaciones adquiridas, una vez ot
 
 (Decreto 4392 de 2010, art.5)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.6 — De las contraprestaciones
 
 Las contraprestaciones a cargo del titular del permiso serán aquellas establecidas en la reglamentación derivada de la Ley 1341 de 2009.
 
 (Decreto 4392 de 2010, art.6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.7 — De las notificaciones y recursos
 
 Los permisos para el uso del espectro radioeléctrico se notificarán de conformidad con lo dispuesto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y contra la resolución procederá el recurso de reposición atendiendo los requisitos y oportunidad previstos en dicho Código.
 
 (Decreto 4392 de 2010, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.8 — Sanciones
 
@@ -584,8 +484,6 @@ SECCIÓN 2
 
 DEL OTORGAMIENTO DIRECTO DE PERMISOS TEMPORALES PARA USO DE ESPECTRO POR RAZONES DE CONTINUIDAD DEL SERVICIO
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1 — De la continuidad del servicio
 
 La continuidad del servicio que el Ministerio protege mediante la asignación directa de un permiso temporal para el uso de espectro radioeléctrico, es la que corresponde a la prestación regular y sin interrupciones del servicio público de provisión de redes y servicios de telecomunicaciones. Esta asignación se podrá llevar a cabo, entre otros, cuando resulte necesario corregir fallas intempestivas que afecten o puedan afectar la operación y prestación de dichos servicio.
@@ -595,8 +493,6 @@ El otorgamiento directo del permiso temporal para garantizar la continuidad del 
 PARÁGRAFO . En ningún caso se otorgará permiso temporal en forma directa para el uso del espectro radioeléctrico, cuando la solicitud de frecuencias no guarde correspondencia con el Cuadro Nacional de Atribución de Bandas de Frecuencias o con la planeación y canalización del espectro radioeléctrico.
 
 (Decreto 4392 de 2010, art.9)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2 — Otorgamiento directo de permisos para uso temporal del espectro radioeléctrico
 
@@ -610,23 +506,17 @@ PARÁGRAFO 2. El otorgamiento directo de permisos para el uso temporal del espec
 
 (Decreto 4392 de 2010, art.10)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3 — Temporalidad
 
 El otorgamiento directo del permiso para el uso temporal del espectro radioeléctrico se extenderá por el término estrictamente necesario para que el Ministerio de Tecnologías de la Información y las Comunicaciones efectúe el respectivo procedimiento de selección objetiva, sin perjuicio de que el titular de dicho permiso pueda solicitar su cancelación anticipada.
 
 (Decreto 4392 de 2010, art.11)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.4 — Asignación de espectro para defensa nacional, atención y prevención de situaciones de emergencia y seguridad pública
 
 Se exceptúa del procedimiento de selección objetiva el otorgamiento de permisos para el uso de frecuencias o canales radioeléctricos que el Ministerio de Tecnologías de la Información y las Comunicaciones estime necesario reservar para la operación de servicios de provisión de redes y servicios de telecomunicaciones con fines estratégicos para la defensa nacional, atención y prevención de situaciones de emergencia y seguridad pública, así como el otorgamiento de permisos temporales para la realización de pruebas técnicas y homologación de equipos.
 
 (Decreto 4392 de 2010, art.12)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.5 — Del uso del espectro en bandas para uso común y compartido
 
@@ -640,23 +530,17 @@ REGLAMENTACIÓN DEL ARTÍCULO 82 DE LA LEY 1523 DE 2012
 
 REDES PARA SITUACIÓN DE DESASTRE
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Acceso y uso de redes e infraestructura con el fin de atender necesidades en situación de desastre
 
 Los proveedores de redes y servicios de telecomunicaciones están obligados a permitir el acceso y uso de sus redes e infraestructura al operador que lo solicite, en forma inmediata, con el fin de atender las necesidades relacionadas con los motivos de declaratoria de situación de desastre para garantizar la continuidad en la provisión de los servicios y redes de telecomunicaciones, de conformidad con lo dispuesto en el artículo 82 de la Ley 1523 de 2012.
 
 (Decreto 1967 de 2012, art.1)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — Sanciones
 
 El proveedor de redes y servicios de telecomunicaciones que se niegue a cumplir la obligación prevista en el artículo 82 de la Ley 1523 de 2012 de permitir el acceso y uso de sus redes e infraestructuras al operador que lo solicite con el fin de atender las necesidades relacionadas con los motivos de declaratoria de situación de desastre para garantizar la continuidad en la provisión de los servicios y redes de telecomunicaciones, está sometido a las sanciones previstas en el artículo 65 de la Ley 1341 de 2009.
 
 (Decreto 1967 de 2012, art.2)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Procedimiento para la imposición de sanciones
 
@@ -670,15 +554,11 @@ REGLAMENTACIÓN DE LOS ARTÍCULOS 12 Y 68 DE LA LEY 1341 DE 2009
 
 RENOVACIÓN DE PERMISO PARA EL USO DEL ESPECTRO RADIOELÉCTRICO
 
-ARTÍCULO
-
 ## art:2.2.2.3.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene por objeto establecer los requisitos y las condiciones para la renovación de los permisos para el uso del espectro radioeléctrico catalogado por el Ministerio de Tecnologías de la Información y las Comunicaciones como IMT, de que trata el artículo 12 de la Ley 1341 de 2009. así como los requisitos para la renovación de los permisos bajo el régimen de transición previsto en el artículo 68 de dicha ley.
 
 (Decreto 2044 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.3.2 — Requisitos generales para la renovación de permisos para el uso del espectro radioelectrónico
 
@@ -700,8 +580,6 @@ Una vez evaluada la solicitud de renovación por parte del Ministerio de Tecnolo
 
 (Decreto 2044 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.3.3 — Condiciones particulares para la renovación del permiso para el uso del espectro radioeléctrico
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones establecerá las nuevas condiciones u obligaciones razonables y en igualdad de condiciones aplicables a los Proveedores de Redes y Servicios de Telecomunicaciones (PRST) que soliciten la renovación de los permisos a que se refiere el artículo 12 de la Ley 1341 de 2009, las cuales deben garantizar la continuidad del servicio, los incentivos adecuados para la inversión, y ser compatibles con el futuro desarrollo tecnológico del país, atendiendo los siguientes criterios:
@@ -722,15 +600,11 @@ Durante el trámite de la renovación el Ministerio de las Tecnologías de la In
 
 (Decreto 2044 de 2013, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.3.4 — Garantía
 
 Toda renovación deberá estar amparada por una garantía de cumplimiento o una garantía bancaria a primer requerimiento, cuyas condiciones serán determinadas por el Ministerio de Tecnologías de la Información y las Comunicaciones.
 
 (Decreto 2044 de 2013, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.3.5 — 3.5
 
@@ -741,8 +615,6 @@ Con el propósito de garantizar la continuidad del servicio, se entenderá que l
 El Ministerio de Tecnologías de la Información y las Comunicaciones se pronunciará a través de resolución de carácter particular, en la cual se fijarán las contraprestaciones a favor del Estado previstas en la Ley 1341 de 2009, y las condiciones a que se refiere el artículo 2.2.2.3.3. del presente Decreto.
 
 (Decreto 2044 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6 — Pago de la contraprestación económica por la renovación del permiso para uso del espectro radioeléctrico
 
@@ -761,8 +633,6 @@ Telecomunicaciones (PRST) que soliciten la renovación de sus permisos para el u
 CAPÍTULO 4
 
 TOPE DE ESPECTRO MÁXIMO POR PROVEEDOR DE REDES Y SERVICIOS MÓVILES TERRESTRES, CRITERIOS PARA EL OTORGAMIENTO DE ESPECTRO RADIOELÉCTRICO EN LA BANDA 1850 MHz PARA EL SERVICIO MÓVIL TERRESTRE
-
-ARTÍCULO
 
 ## art:2.2.2.4.1 — Tope de espectro por proveedor de redes y servicios
 
@@ -806,15 +676,11 @@ PARÁGRAFO . Para efectos de la contabilización del tope de espectro de que tra
 
 (Artículo modificado por el Decreto 2194 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2 — Cálculo del tepe máximo
 
 Para efectos de determinar si un proveedor de redes y servicios de telecomunicaciones cumple con los topes máximos a los que se refiere el artículo anterior del presente Decreto, el espectro que se contabilizará será el asignado para servicios móviles terrestres.
 
 (Decreto 2980 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.4.3 — Contraprestación económica por la utilización del espectro radioeléctrico
 
@@ -840,15 +706,11 @@ CAPÍTULO 5
 
 CAMPOS ELECTROMAGNÉTICOS Y DESPLIEGUE DE INFRAESTRUCTURA
 
-ARTÍCULO
-
 ## art:2.2.2.5.1 — Objeto
 
 El presente capítulo tiene por objeto establecer los lineamientos para el despliegue de infraestructura de telecomunicaciones, relacionados con el cumplimiento de los niveles de exposición de las personas a los campos electromagnéticos, en concordancia con lo previsto en la Ley 1753 de 2015 o la que la adicione, modifique o sustituya.
 
 (Decreto 1370 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2 — Ámbito de aplicación
 
@@ -856,23 +718,17 @@ El presente capítulo se aplica a las personas naturales o jurídicas responsabl
 
 (Decreto 1370 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.3 — Definiciones y acrónimos
 
 Para efectos del presente capítulo se tendrán en cuenta las definiciones adoptadas por la Unión Internacional de Telecomunicaciones, UIT, de conformidad con lo previsto en el artículo 6 de la Ley 1341 de 2009, según lo establezca la Agencia Nacional del Espectro (ANE) mediante resolución.
 
 (Decreto 1370 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.4 — Límites máximos de exposición
 
 Las personas naturales o jurídicas responsables de la operación de redes o los proveedores de servicios de telecomunicaciones, que hagan uso del espectro radioeléctrico, cuyas estaciones de radiocomunicaciones generen campos electromagnéticos, deben asegurar que en las distintas zonas de exposición a campos electromagnéticos, los niveles de emisión de sus estaciones radioeléctricas no excedan los límites máximos de exposición a campos electromagnéticos que establezca la Agencia Nacional del Espectro (ANE) mediante resolución, con fundamento en las recomendaciones que sobre la materia establezcan los organismos internacionales directamente vinculados con la actividad pertinente del sector UIT.
 
 (Decreto 1370 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.5.5 — Superación de los límites máximos de exposición
 
@@ -884,15 +740,11 @@ PARÁGRAFO . Quienes operen estaciones radioeléctricas deben incluir dentro de 
 
 (Decreto 1370 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.6 — Plazos de cumplimiento
 
 Las personas naturales o jurídicas responsables de la operación de redes o los proveedores de servicios de telecomunicaciones, que hagan uso del espectro radioeléctrico, cuyas estaciones de radiocomunicaciones generen campos electromagnéticos, deberán presentar y/o actualizar, según corresponda, la Declaración de Conformidad de Emisiones Radioeléctricas (DCER) en los plazos y términos que reglamente la Agencia Nacional del Espectro.
 
 (Decreto 1370 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.5.7 — Vigilancia y control
 
@@ -902,23 +754,17 @@ PARÁGRAFO . La Agencia Nacional del Espectro, dentro del marco de sus competenc
 
 (Decreto 1370 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.8 — Evaluación de los límites
 
 La Agencia Nacional del Espectro revisará las restricciones básicas y los límites máximos de exposición a campos electromagnéticos a la luz de prácticas y recomendaciones internacionales, con el fin de garantizar el nivel de protección más adecuado para garantizar la salud y el ambiente sano de la comunidad en general.
 
 (Decreto 1370 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.9 — Requisitos de quienes realicen las mediciones
 
 Para el cumplimiento de los límites de exposición a campos electromagnéticos las personas naturales o jurídicas responsables de la operación de redes o los proveedores de servicios de telecomunicaciones, que hagan uso del espectro radioeléctrico, cuyas estaciones de radiocomunicaciones generen campos electromagnéticos, en el caso de estar obligados a efectuar mediciones de campos electromagnéticos, las podrán llevar a cabo directamente o contratarlas a través de terceros, quienes deberán cumplir con las condiciones que establezca la Agencia Nacional del Espectro mediante resolución.
 
 (Decreto 1370 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.5.10 — Metodología de medición
 
@@ -928,15 +774,11 @@ PARÁGRAFO TRANSITORIO. La Resolución 754 de 2016 expedida por la Agencia Nacio
 
 (Decreto 1370 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.11 — Prueba Suficiente
 
 Las autoridades de todos los órdenes territoriales aceptaran como prueba suficiente para el despliegue de infraestructura de comunicaciones en lo que respecta al cumplimiento de las estaciones radioeléctricas con los límites máximos de exposición de personas a campos electromagnéticos, los requisitos contemplados en el presente Decreto y en la normatividad que expida al respecto la Agencia Nacional del Espectro, en el marco de lo establecido en el artículo 193 "Acceso a las TIC y despliegue de infraestructura" de la Ley 1753 de 2015 o el que lo modifique, sustituya o derogue.
 
 (Decreto 1370 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.5.12 — Requisitos únicos
 
@@ -959,8 +801,6 @@ PARÁGRAFO 2. Los procedimientos que conforme a las normas vigentes deben surtir
 SECCIÓN 2
 
 APLICACIÓN Y DESARROLLO
-
-ARTÍCULO
 
 ## art:2.2.2.5.2.1 — Límites máximos de exposición
 
@@ -1186,8 +1026,6 @@ Resultado de la sumatoria para campo magnético en este rango de frecuencias
 
 (Decreto 195 de 2005, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.5.2.2 — Superación de los límites máximos de exposición
 
 En caso de que en alguna zona ocupacional el nivel de exposición porcentual llegase a ser mayor a la unidad, debe medirse el nivel de emisión de cada fuente radiante o estación radioeléctrica, e identificar cuáles de ellas superan el límite máximo de exposición correspondiente a su frecuencia de operación. Aquellas fuentes radiantes o estaciones radioeléctricas que lo superen deben ajustarse empleando técnicas de mitigación que permitan mantener los niveles de emisión dentro de los márgenes permitidos, tales como: Aumentar la altura de las antenas, uso de apantallamientos o mecanismos similares de protección, limitar la accesibilidad de personas a la zona ocupacional en cuestión, reducir la potencia de emisión, trasladar la fuente de radiación a otro sitio, entre otras, hasta que cada una de ellas emita por debajo de su respectivo límite. Cuando el tamaño del predio lo permita, se podrá trasladar la delimitación de las zonas de exposición a campos electromagnéticos, siempre y cuando la nueva delimitación entre la zona ocupacional y la de público en general siga estando dentro del predio donde se encuentran las estaciones radioeléctricas.
@@ -1201,8 +1039,6 @@ Para efectos de la Declaración de Conformidad de Emisión Radioeléctrica, DCER
 Independientemente de la tipificación se deben medir todas las estaciones radioeléctricas que se encuentren a menos de 150 metros de centros educativos, centros geriátricos y centros de servicio médico. De la misma forma, si adyacentes a la estación radioeléctrica existen edificios cuya altura sea comparable a la altura de la fuente radiante, deberán buscarse hot spots en dichos edificios también. La responsabilidad de los representantes legales se mantendrá en los términos establecidos en el numeral 3 del artículo 2.2.2.5.1.3. del presente Decreto.
 
 (Decreto 195 de 2005, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2.3 — Plazos de cumplimiento
 
@@ -1228,8 +1064,6 @@ Quienes presten servicios y/o actividades de telecomunicaciones, deberán actual
 
 (Decreto 195 de 2005, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.5.2.4 — Vigilancia y control
 
 En ejercicio de las funciones de vigilancia y control y sin perjuicio de las funciones atribuidas a las entidades territoriales en relación con la ordenación y uso del suelo, el Ministerio de Salud y Protección Social, el Ministerio de Tecnologías de la Información y las Comunicaciones y el Ministerio de Medio Ambiente y Desarrollo Sostenible, o la Agencia Nacional del Espectro, en el marco de lo dispuesto en el Decreto-ley 1295 de 1994, la Ley 99 de 1993 y demás normas pertinentes, impondrán las sanciones derivadas del incumplimiento de las disposiciones contenidas en el presente Título.
@@ -1246,8 +1080,6 @@ Cuando la medición se realice a solicitud de parte, los gastos de la medición 
 
 (Decreto 195 de 2005, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.5.2.5 — Prueba suficiente
 
 Las entidades territoriales, en el procedimiento de autorización para la instalación de antenas y demás instalaciones radioeléctricas, en ejercicio de sus funciones de ordenamiento territorial, deberán admitir como prueba suficiente para el cumplimiento de dicho requisito, la copia de la Declaración de Conformidad de Emisión Radioeléctrica con la marca oficial de recibido del Ministerio de Tecnologías de la Información y las Comunicaciones.
@@ -1255,8 +1087,6 @@ Las entidades territoriales, en el procedimiento de autorización para la instal
 PARÁGRAFO . Para la autorización de instalación de las antenas y demás instalaciones radioeléctricas, los municipios y distritos deberán tener en cuenta las disposiciones que en materia de medio ambiente y recursos naturales renovables hayan expedido las autoridades ambientales conforme lo dispone el artículo 10 de la Ley 388 de 1997 y la compatibilidad con el uso del suelo definido en el respectivo Plan de Ordenamiento Territorial.
 
 (Decreto 195 de 2005, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2.6 — Evaluación periódica
 
@@ -1266,15 +1096,11 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones adaptará 
 
 (Decreto 195 de 2005, art; 9)
 
-ARTÍCULO
-
 ## art:2.2.2.5.2.7 — 2.7
 
 Condición para la instalación de nuevas estaciones radioeléctricas, dentro o alrededor de una zona ocupacional ya establecida. La instalación y operación de Estaciones radioeléctricas dentro, o en las cercanías de una zona ocupacional ya establecida, está condicionada a que el nivel de exposición porcentual en dicha zona, sea menor o igual a la unidad, es decir, menor o igual al ciento por ciento (100%), de acuerdo con lo establecido en el artículo 2.2.2.5.2.1. del presente Decreto.
 
 (Decreto 195 de 2005, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2.8 — 2.8
 
@@ -1283,8 +1109,6 @@ Coexistencia de las antenas transmisoras sobre una misma infraestructura de sopo
 PARÁGRAFO . En caso de presentarse diferencias con ocasión del cumplimiento de los límites de exposición, en las zonas donde se presentan múltiples fuentes radiantes, y los propietarios de las mismas no ajustan la radiación de la estación radioeléctrica o demás condiciones para el cumplimiento del Nivel de Exposición Porcentual, el Ministerio de Tecnologías de la Información y las Comunicaciones impondrá las sanciones a que haya lugar por el incumplimiento de lo establecido en el presente Título, bajo condiciones que permitan promover la cobertura nacional de los servicios de telecomunicaciones y su modernización, bajo los criterios establecidos en la normatividad vigente que permitan la conjunción entre un acceso eficiente y un acceso igualitario propendiendo por que los grupos de población de menores ingresos económicos, los residentes en áreas urbanas y rurales marginales o de frontera, las minorías étnicas y en general los sectores más débiles o minoritarios de la sociedad accedan a los servicios de telecomunicaciones.
 
 (Decreto 195 de 2005, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2.9 — Alturas y distancias de seguridad para la instalación de antenas transmisoras
 
@@ -1295,8 +1119,6 @@ Los operadores de estaciones radioeléctricas deberán consultar los lineamiento
 SECCIÓN 3
 
 MEDICIONES DE LOS LÍMITES DE RADIACIÓN
-
-ARTÍCULO
 
 ## art:2.2.2.5.3.1 — Requisitos de quienes realicen las mediciones
 
@@ -1311,8 +1133,6 @@ Para el cumplimiento de los límites de emisiones radioeléctricas, los prestado
 En el caso de realizar las mediciones con terceros, estos deberán inscribirse previamente ante la autoridad competente, acreditando experiencia en mediciones del espectro radioeléctrico mediante una (1) certificación de servicio prestado a satisfacción.
 
 (Decreto 195 de 2005, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.5.3.2 — Condiciones de las mediciones
 
@@ -1362,8 +1182,6 @@ En caso de realizar modificaciones en las Estaciones radioeléctricas instaladas
 
 (Decreto 195 de 2005, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.5.3.3 — Metodología de medición
 
 La metodología para evaluar la conformidad de las Estaciones radioeléctricas será establecida por el Ministerio de Tecnologías de la Información y las Comunicaciones mediante resolución.
@@ -1373,8 +1191,6 @@ La metodología para evaluar la conformidad de las Estaciones radioeléctricas s
 SECIÓN 4
 
 REQUISITOS ÚNICOS
-
-ARTÍCULO
 
 ## art:2.2.2.5.4.1 — Requisitos únicos para la instalación de estaciones radioeléctricas en telecomunicaciones
 
@@ -1398,8 +1214,6 @@ SECCIÓN 5
 
 DISPOSICIONES FINALES SOBRE RADIACIONES NO IONIZANTES
 
-ARTÍCULO
-
 ## art:2.2.2.5.5.1 — Fuentes radiantes con frecuencias menores a 300 MHZ
 
 Si la fuente radiante utiliza frecuencias menores a los 300 MHz y por lo tanto las regiones de campo cercano poseen varios metros de diámetro, se utilizarán los parámetros que el Ministerio de Tecnologías de la Información y las Comunicaciones determine mediante resolución motivada.
@@ -1412,15 +1226,11 @@ REGLAMENTACIÓN DEL ARTÍCULO 52 DE LA LEY 1453 DE 2011
 
 DE LA INTERCEPTACIÓN LEGAL DE COMUNICACIONES
 
-ARTÍCULO
-
 ## art:2.2.2.6.1 — Definición de interceptación legal de comunicaciones
 
 La interceptación de las comunicaciones, cualquiera que sea su origen o tecnología, es un mecanismo de seguridad pública que busca optimizar la labor de investigación de los delitos que adelantan las autoridades y organismos competentes, en el marco de la Constitución y la ley.
 
 (Decreto 1704 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2 — Deber de los proveedores de redes y servicios de telecomunicaciones
 
@@ -1432,8 +1242,6 @@ PARÁGRAFO . El Ministerio de Tecnologías de la Información y las Comunicacion
 
 (Decreto 1704 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.6.3 — Transporte de la información
 
 La autoridad que ejecute la interceptación asumirá los costos de transporte de la información desde los puntos de conexión acordados con los proveedores de redes y servidos de telecomunicaciones hasta el sitio que para tal fin se disponga.
@@ -1441,8 +1249,6 @@ La autoridad que ejecute la interceptación asumirá los costos de transporte de
 Los proveedores de redes y servicios de telecomunicaciones adoptarán las medidas necesarias para que la interceptación y transporte de las comunicaciones se adelanten en condiciones óptimas, ágiles, oportunas y seguras.
 
 (Decreto 1704 de 2012, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.6.4 — Información de los suscriptores
 
@@ -1452,23 +1258,17 @@ Los proveedores de redes y servicios de telecomunicaciones deberán mantener act
 
 (Decreto 1704 de 2012, art. 4) (Se excluyen apartes suspendidos provisionalmente mediante Auto de 31 de julio de 2013, confirmado mediante Auto de 15 de abril de 2014.)
 
-ARTÍCULO
-
 ## art:2.2.2.6.5 — Información de ubicación
 
 Los proveedores de redes y servicios de telecomunicaciones, siempre que así se requiera para efectos propios de la interceptación de comunicaciones, deberán suministrar a la Fiscalía General de la Nación o demás autoridades competentes, a través de los organismos con funciones permanentes de policía judicial, la información específica contenida en sus bases de datos, tal como sectores, coordenadas geográficas y potencia, entre otras, que contribuya a determinar la ubicación geográfica de los equipos terminales o dispositivos que intervienen en la comunicación. Esta información deberá suministrarse en línea o en tiempo real en los casos que así se requiera.
 
 (Decreto 1704 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.6.6 — Confidencialidad
 
 Los proveedores de redes y servicios de telecomunicaciones, los funcionarios de la Fiscalía General de la Nación y aquellos que ejerzan funciones de Policía Judicial que tengan acceso a cualquier tipo de información o datos con ocasión o en ejercicio de sus funciones o participen en actividades relacionadas con la interceptación de comunicaciones, se obligan a garantizar la reserva de los datos y la confidencialidad de la información, so pena de las investigaciones penales y disciplinarlas a que haya lugar
 
 (Decreto 1704 de 2012, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.6.7 — Aplicación del régimen de sanciones e infracciones
 
@@ -1483,8 +1283,6 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones, dentro de
 (Subrogado pro el Decreto 821 de 2022)
 
 REGLAS PARA LA CESIÓN DE LOS PERMISOS DE USO DEL ESPECTRO RADIOELÉCTRICO
-
-ARTÍCULO
 
 ## art:2.2.2.7.1 — Objeto y ámbito de aplicación
 
@@ -1513,8 +1311,6 @@ Parágrafo. Se exceptúan de las reglas establecidas en el presente capítulo lo
 3. Los proveedores del servicio de televisión abierta radiodifundida que conserven sus concesiones, licencias, permisos y autorizaciones bajo el régimen concesional, se les aplicarán las reglas previstas en cada título habilitante según corresponda.
 
 (Adicionado por el Art. 1 del Decreto 934 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.7.2 — Condiciones generales aplicables a la cesión de permisos de uso del espectro radioeléctrico
 
@@ -1545,8 +1341,6 @@ Quien pretenda ser cesionario de un permiso de uso del espectro radioeléctrico 
 La cesión del permiso de uso del espectro radioeléctrico no implica la transmisión de las condiciones o calidades particulares que son predicadas de las partes con independencia del permiso, por tanto, la cesión del permiso de uso del espectro radioeléctrico no implica la transmisión de la condición de operador entrante.
 
 (Adicionado por el Art. 1 del Decreto 934 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.7.3 — Requisitos de la solicitud de autorización de la cesión del permiso de uso del espectro radioeléctrico
 
@@ -1618,8 +1412,6 @@ Los solicitantes de la autorización de la cesión del permiso de uso del espect
 
 (Adicionado por el Art. 1 del Decreto 934 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.7.4 — Trámite de la solicitud de autorización de la cesión del permiso de uso del espectro radioeléctrico
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones resolverá y notificará la solicitud de autorización de cesión del permiso de uso del espectro radioeléctrico dentro de los quince (15) días hábiles siguientes a su presentación. En caso de que no fuere posible resolver la solicitud en ese plazo, se aplicará lo dispuesto en el parágrafo del artículo 14 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -1641,8 +1433,6 @@ De ser necesario, dentro de ese mismo término se solicitarán las aclaraciones 
 La presentación de la solicitud de autorización de la cesión no genera derecho alguno a favor de los solicitantes. En caso de que los efectos de cualquiera de las disposiciones del presente capítulo sean suspendidos por la Jurisdicción de lo Contencioso Administrativo, el Ministerio de Tecnologías de la Información y las Comunicaciones se abstendrá de dar trámite a las solicitudes de autorización de cesión nuevas o que estén en curso al momento de la suspensión, mientras se mantenga dicha suspensión.
 
 (Adicionado por el Art. 1 del Decreto 934 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.7.5 — Contenido del acto de autorización de la cesión del permiso para el uso del espectro radioeléctrico
 
@@ -1706,8 +1496,6 @@ Procedimientos administrativos en curso. La autorización de cesión del permiso
 
 (Adicionado por el Art. 1 del Decreto 934 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.7.7 — Efecto de la autorización de la cesión del permiso de uso del espectro radioeléctrico
 
 La autorización previa y expresa de cesión del permiso de uso del espectro radioeléctrico expedida por el Ministerio de Tecnologías de la Información y las Comunicaciones es un elemento esencial de la cesión. En consecuencia, el acuerdo que tenga por objeto una cesión que no cuente con la autorización referida no producirá efectos jurídicos frente al Ministerio y no modifica la titularidad del permiso de uso del espectro radioeléctrico.
@@ -1728,8 +1516,6 @@ Una vez en firme el acto administrativo que autoriza la cesión del permiso de u
 
 (Adicionado por el Art. 1 del Decreto 934 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.7.8 — 7.8
 
 Autorización de la cesión del permiso de uso del espectro radioeléctrico en procesos de fusiones y escisiones empresariales. En los procesos de fusiones y escisiones empresariales que hayan sido debidamente autorizados por las entidades competentes en la materia, el uso del espectro radioeléctrico a favor de la respectiva sociedad a la cual se transmite la titularidad del permiso está condicionada al cumplimiento de las condiciones dispuestas en el artículo 2.2.2.7.3. del presente Decreto, según ello aplique. Estos requisitos deberán acreditarse ante el Ministerio de Tecnologías de la Información y las Comunicaciones, en forma previa al inicio del uso del espectro radioeléctrico.
@@ -1744,8 +1530,6 @@ CAPÍTULO 1
 
 DEFINICIONES
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Servicio Móvil Marítimo
 
 El servicio móvil marítimo es el servicio de telecomunicaciones móvil que se presta entre estaciones costeras y estaciones de barco, entre estaciones de barco o entre: estaciones de comunicaciones a bordo asociadas que serán utilizadas para labores propias del medio marítimo y fluvial.
@@ -1753,8 +1537,6 @@ El servicio móvil marítimo es el servicio de telecomunicaciones móvil que se 
 El servicio móvil marítimo incluye el servicio auxiliar de ayuda el cual tiene por objeto la seguridad de la vida humana y socorro en aguas territoriales y puertos de la República de Colombia.
 
 (Decreto 2061 de 1996, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2 — Definiciones
 
@@ -1858,15 +1640,11 @@ CAPÍTULO 2
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Incorporación de normas de la Unión Internacional de Telecomunicaciones
 
 Por virtud del presente título, se incorporan las disposiciones del "Manual para uso del servicio móvil marítimo y móvil marítimo por satélite" de la Unión Internacional de Telecomunicaciones UIT.
 
 (Decreto 2061 de 1996, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2 — Legitimación para solicitar licencias
 
@@ -1875,8 +1653,6 @@ Sólo las personas naturales o jurídicas que ejecuten operaciones marítimas, p
 La solicitud deberá cumplir con los requisitos establecidos en este título.
 
 (Decreto 2061 de 1996, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.2.3 — Competencia para expedir licencias
 
@@ -1888,15 +1664,11 @@ PARÁGRAFO . El otorgamiento de la licencia no autoriza al titular de la misma p
 
 (Decreto 2061 de 1996, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.2.4 — Prohibición de instalación de estaciones sin la correspondiente licencia
 
 Ninguna persona natural o jurídica de carácter público o privado podrá instalar o utilizar una estación transmisora y/o receptora sin la correspondiente licencia expedida por el Ministerio de conformidad a las disposiciones del presente título.
 
 (Decreto 2061 de 1996, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.2.5 — Obligaciones de los licenciatarios
 
@@ -1938,23 +1710,17 @@ Las personas autorizadas para utilizar las bandas atribuidas al servicio móvil 
 
 (Decreto 2061 de 1996, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6 — Uso de frecuencias y canales radioeléctricos atribuidos al servicio auxiliar de ayuda del servicio móvil marítimo
 
 Las bandas de frecuencias y los canales radioeléctricos atribuidos al servicio auxiliar de ayuda del servicio móvil marítimo sólo podrán utilizarse con este fin. Le corresponde a la Agencia Nacional del Espectro ejercer las funciones de control y vigilancia, para que los titulares de la licencia de utilización de las bandas de frecuencias atribuidas al servicio móvil marítimo hagan buen uso de estas y cumplan con las disposiciones de este título.
 
 (Decreto 2061 de 1996, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3.2.7 — Prestación de servicios de telecomunicaciones a terceros mediante estaciones costeras
 
 Quienes presten servicios de telecomunicaciones a terceros o de correspondencia pública nacional y/o internacional, a través de las estaciones costeras que utilicen las bandas atribuidas al servicio móvil marítimo mediante estaciones móviles o fijas dedicadas a este fin, deberán tener la calidad de proveedores de redes y servicios de telecomunicaciones, y estarán subordinados al cumplimiento de las normas previstas en este título y a lo establecido por los reglamentos internacionales.
 
 (Decreto 2061 de 1996, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.2.8 — Finalidad del uso del espectro radioeléctrico en el servicio móvil marítimo
 
@@ -1966,15 +1732,11 @@ CAPÍTULO 3
 
 DE LAS LICENCIAS PARA EL ACCESO A LAS BANDAS DE FRECUENCIAS ATRIBUIDAS AL SERVICIO MÓVIL MARÍTIMO
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Expedición de licencias
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones expedirá licencias para la utilización de las bandas de frecuencias atribuidas al servicio móvil marítimo a personas naturales o jurídicas que realicen operaciones marítimas, portuarias y fluviales, debidamente reconocidas por la autoridad marítima o fluvial competente.
 
 (Decreto 2061 de 1996, art. 60)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2 — Obligatoriedad de contar con licencia para estaciones que utilicen bandas del servicio móvil marítimo
 
@@ -1988,8 +1750,6 @@ PARÁGRAFO 2. De la misma forma, las naves menores o embarcaciones, cuyo único 
 
 (Decreto 2061 de 1996, art. 61)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3 — Licencia para naves mayores, naves menores y embarcaciones que realicen navegación internacional
 
 Cuando se trate de naves mayores, naves menores y embarcaciones que realicen navegación internacional, el Ministerio de Tecnologías de la Información y las Comunicaciones expedirá una licencia internacional, que autorizará la utilización de las bandas del servicio móvil marítimo, así como el distintivo de llamada internacional. Igualmente, el Ministerio de Tecnologías de la Información y las Comunicaciones expedirá la correspondiente certificación basada en la resolución que expida la licencia.
@@ -1998,8 +1758,6 @@ La licencia y la certificación de que trata este artículo tendrán una vigenci
 
 (Decreto 2061 de 1996, art. 62)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4 — Licencia para naves menores y estaciones costeras que realicen operaciones marítimas
 
 Cuando se trate de naves menores y de estaciones costeras que realicen operaciones marítimas, portuarias y/o fluviales reconocidas por la autoridad marítima o fluvial competente que realicen navegación nacional, el Ministerio de Tecnologías de la Información y las Comunicaciones expedirá una licencia nacional, que autorizará la utilización de las bandas del servicio móvil marítimo, así como el distintivo de llamada nacional.
@@ -2007,8 +1765,6 @@ Cuando se trate de naves menores y de estaciones costeras que realicen operacion
 La licencia de que trata este Artículo tendrá una vigencia de cinco (5) años prorrogables en los términos que establezca la ley.
 
 (Decreto 2061 de 1996, art. 63)
-
-ARTÍCULO
 
 ## art:2.2.3.3.5 — Obligaciones adicionales para las naves mayores que realicen navegación internacional
 
@@ -2048,8 +1804,6 @@ Las naves mayores que realicen navegación internacional, además de poseer la l
 
 (Decreto 2061 de 1996, art. 64)
 
-ARTÍCULO
-
 ## art:2.2.3.3.6 — Obligaciones adicionales para las naves menores que realicen navegación internacional
 
 Las naves menores que realicen navegación internacional, además de poseer la licencia, deberán dar cumplimiento a las disposiciones consagradas en los numerales 1 a 5 del artículo anterior.
@@ -2058,15 +1812,11 @@ Las naves menores que no realicen navegación internacional, además de poseer l
 
 (Decreto 2061 de 1996, art. 65)
 
-ARTÍCULO
-
 ## art:2.2.3.3.7 — 3.7
 
 Obligaciones adicionales de las personas naturales o jurídicas titulares de una licencia para utilizar las bandas del servicio móvil marítimo. Las personas naturales o jurídicas titulares de una licencia para utilizar las bandas del servicie móvil marítimo, deberán identificar plenamente sus equipos de radiocomunicaciones y expedir carné personalizado a cada uno de los operadores de éstos, responsabilizándose en todo caso del uso que dichas personas hagan de los equipos.
 
 (Decreto 2061 de 1996, art. 66)
-
-ARTÍCULO
 
 ## art:2.2.3.3.8 — Modificación de la licencia
 
@@ -2082,15 +1832,11 @@ La solicitud a que se refiere el presente Artículo deberá presentarse al Minis
 
 (Decreto 2061 de 1996, art. 67)
 
-ARTÍCULO
-
 ## art:2.2.3.3.9 — Término de expedición de la licencia para nave mayor y para nave menor que realice navegación internacional
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones contará con un (1) mes a partir de la recepción de la totalidad de la documentación relacionada con la solicitud de licencia internacional para nave mayor y para nave menor que realice navegación internacional, para la expedición de la licencia y el certificado correspondiente.
 
 (Decreto 2061 de 1996, art. 69)
-
-ARTÍCULO
 
 ## art:2.2.3.3.10 — .10
 
@@ -2101,8 +1847,6 @@ Término de expedición de la licencia para nave menor o embarcación y para est
 CAPÍTULO 4
 
 DE LOS REQUISITOS PARA OBTENER LICENCIAS PARA EL ACCESO A LAS BANDAS DE FRECUENCIAS ATRIBUIDAS AL SERVICIO MÓVIL MARÍTIMO
-
-ARTÍCULO
 
 ## art:2.2.3.4.1 — Requisitos para la obtención de la licencia para el uso de las bandas del servicio móvil marítimo
 
@@ -2124,8 +1868,6 @@ Constancia de la presentación del certificado de carencia de informes por tráf
 
 (Decreto 2061 de 1996, art. 72)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2 — Requisitos para obtener la licencia de operador radiotelegrafista o radiotelefonista del servicio móvil marítimo
 
 Para optar la licencia de operador radiotelegrafista o radiotelefonista del servicio móvil marítimo, los peticionarios deberán cumplir con los siguientes requisitos:
@@ -2140,8 +1882,6 @@ Para optar la licencia de operador radiotelegrafista o radiotelefonista del serv
 
 (Decreto 2061 de 1996, art. 73)
 
-ARTÍCULO
-
 ## art:2.2.3.4.3 — Solicitud de prórroga de la licencia
 
 La solicitud de prórroga de la licencia deberá cumplir con los mismos requisitos contemplados en los artículos 2.2.3.5.1.y 2.2.3.5.2., para cada caso. Para la prórroga de la licencia de radioperadores, el numeral 3 del artículo 2.2.3.5.2. se puede suplir con la copia de la licencia que se desea prorrogar.
@@ -2151,8 +1891,6 @@ La solicitud de prórroga de la licencia deberá cumplir con los mismos requisit
 CAPÍTULO 5
 
 CARACTERÍSTICAS TÉCNICAS DE LOS EQUIPOS
-
-ARTÍCULO
 
 ## art:2.2.3.5.1 — Características técnicas esenciales de los equipos de radiocomunicación
 
@@ -2178,8 +1916,6 @@ Ubicación
 
 (Decreto 2061 de 1996, art. 75)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2 — Características técnicas de los transmisores de banda lateral única para la radiotelefonía
 
 Las características técnicas de los transmisores de banda lateral única utilizados para la radiotelefonía en el servicio móvil marítimo, en las bandas comprendidas entre 1606,5 kHz y 27500 kHz serán las siguientes:
@@ -2199,8 +1935,6 @@ Para las emisiones de clase J3E, la potencia de la portadora será por lo menos 
 6. Cuando se utilicen emisiones de clase H3E o J3E, la potencia de toda la emisión no deseada aplicada a la línea de alimentación de la antena en toda frecuencia debe mantenerse, cuando el transmisor funcione con su potencia en la cresta de la envolvente, dentro de los límites que se indican en el cuadro siguiente:
 
 (Decreto 2061 de 1996, art. 76)
-
-ARTÍCULO
 
 ## art:2.2.3.5.3 — Características técnicas de transmisores y receptores en la banda de 156-174 MHz
 
@@ -2228,15 +1962,11 @@ Las características técnicas de los transmisores y receptores utilizados en el
 
 (Decreto 2061 de 1996, art. 77)
 
-ARTÍCULO
-
 ## art:2.2.3.5.4 — Modificación de las características esenciales del equipo de radiocomunicaciones
 
 Cualquier cambio o modificación de las características esenciales del equipo de radiocomunicaciones autorizado, requiere permiso previo del Ministerio de Tecnologías de la Información y las Comunicaciones. El titular de una licencia podrá efectuar libremente el cambio o sustitución de sus equipos, siempre y cuando conserve las características técnicas de los transreceptores que fueron originalmente autorizados. En este caso deberá informar al Ministerio de Tecnologías de la Información y las Comunicaciones de los cambios realizados durante los treinta días siguientes a la ocurrencia del hecho.
 
 (Decreto 2061 de 1996, art. 78)
-
-ARTÍCULO
 
 ## art:2.2.3.5.5 — Prohibición de interferencias perjudiciales a las comunicaciones de socorro, alarma, urgencia o seguridad
 
@@ -2250,15 +1980,11 @@ CAPÍTULO 6
 
 PERSONAL ESPECIALIZADO AL SERVICIO DE LAS TELECOMUNICACIONES
 
-ARTÍCULO
-
 ## art:2.2.3.6.1 — Calidades técnicas de los operadores de equipos de telecomunicaciones del servicio móvil marítimo
 
 El personal técnico que opere equipos de telecomunicaciones en las bandas atribuidas al servicio móvil marítimo, deberá acreditar idoneidad como operador radiotelegrafista y/o radiotelefonista, condición que deben verificar fehacientemente los armadores que requieran utilizar los servicios de estos operadores.
 
 (Decreto 2061 de 1996, art. 80)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2 — Elementos de los conocimientos necesarios de los operadores radiotelegrafistas
 
@@ -2274,8 +2000,6 @@ Elemento PR: Práctica.
 
 (Decreto 2061 de 1996, art. 81)
 
-ARTÍCULO
-
 ## art:2.2.3.6.3 — Elementos de los conocimientos necesarios de los operadores radiotelefonistas
 
 Los elementos que están relacionados con los conocimientos necesarios que deben acreditar los operadores radiotelefonistas, versarán sobre las siguientes materias:
@@ -2288,8 +2012,6 @@ Elemento PR: Práctica.
 
 (Decreto 2061 de 1996, art. 82)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4 — 6.4
 
 Verificación de las condiciones del personal que opere equipos de telecomunicaciones del servicio auxiliar de ayuda del servicio móvil marítimo. El Ministerio de Tecnologías de la Información y las Comunicaciones podrá verificar en cualquier momento el cumplimiento de las disposiciones relacionadas con las condiciones que debe acreditar el personal especializado que opere equipos de telecomunicaciones del servicio auxiliar de ayuda del servicio móvil marítimo. Igualmente podrá delegar en un organismo la función de comprobar la idoneidad exigida para los operadores radiotelegrafistas y/o radiotelefonistas.
@@ -2300,15 +2022,11 @@ CAPÍTULO 7
 
 TARIFAS Y SANCIONES
 
-ARTÍCULO
-
 ## art:2.2.3.7.1 — Acreditación del pago de derechos por la licencia para naves
 
 Para tramitar la licencia para naves, la solicitud deberá venir acompañada del correspondiente recibo de consignación debidamente cancelados los derechos establecidos. Dicho valor no será reembolsable.
 
 (Decreto 2061 de 1996, art. 86)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2 — Clandestinidad
 
@@ -2316,15 +2034,11 @@ Las estaciones de telecomunicaciones que utilicen las bandas atribuidas al servi
 
 (Decreto 2061 de 1996, art. 88)
 
-ARTÍCULO
-
 ## art:2.2.3.7.3 — Competencia para sancionar
 
 Sin perjuicio de lo dispuesto en el artículo anterior, le corresponderá al Ministerio de Tecnologías de la Información y las Comunicaciones mediante resolución motivada la imposición de las sanciones por la violación de las disposiciones consagradas en el presente título, y los pagos correspondientes que se causen deberán hacerse a favor del Fondo de Tecnologías de la Información y las Comunicaciones.
 
 (Decreto 2061 de 1996, art. 89)
-
-ARTÍCULO
 
 ## art:2.2.3.7.4 — 7.4
 
@@ -2332,15 +2046,11 @@ Sanción por modificación de características técnicas esenciales a las estaci
 
 (Artículo MODIFICADO por el Art. 4 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.3.7.5 — Sanción por incumplimiento de lo previsto en el artículo 2.2.3.2.5
 
 El incumplimiento de lo previsto en el artículo 2. 2.3.2.5. acarreará una sanción de doscientos sesenta y tres coma trece (263, 13) UVT y no podrá expedírsele licencia, hasta tanto introduzcan las correcciones necesarias.
 
 (Artículo MODIFICADO por el Art. 5 del Decreto 2640 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.3.7.6 — Sanción por incumplimiento de lo previsto en el artículo 2.2.3.3.8
 
@@ -2348,15 +2058,11 @@ El incumplimiento de lo previsto en el artículo 2.2.3.3.8 acarreará una sanci�
 
 (Artículo MODIFICADO por el Art. 6 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.3.7.7 — 7.7
 
 Sanción por utilización de frecuencias del servicio móvil marítimo para servicios diversos a los señalados en el artículo 2.2.3.1.1. La utilización de las frecuencias atribuidas al servicio móvil marítimo para servicios diferentes de los descritos en el artículo 2.2.3.1.1. del presente decreto, serán sancionados con el pago de quinientos veintiséis coma veintiséis (526, 26) Unidades de Valor Tributario -UVT, y la reincidencia acarreará el retiro definitivo de la licencia.
 
 (Artículo MODIFICADO por el Art. 7 del Decreto 2640 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.3.7.8 — Sanciones y procedimiento generales
 
@@ -2367,8 +2073,6 @@ El incumplimiento de las demás obligaciones previstas en este título y a cargo
 CAPÍTULO 8
 
 DISPOSICIONES FINALES DE LAS TELECOMUNICACIONES DEL SERVICIO MÓVIL MARÍTIMO
-
-ARTÍCULO
 
 ## art:2.2.3.8.1 — Aplicabilidad del Reglamento de Radiocomunicaciones de la UIT
 
@@ -2383,8 +2087,6 @@ DE LAS TELECOMUNICACIONES DEL SERVICIO MÓVIL AERONÁUTICO, Y RADIONAVEGACIÓN A
 CAPÍTULO 1
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.2.4.1.1 — Definiciones
 
@@ -2444,8 +2146,6 @@ CAPÍTULO 2
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.2.1 — 2.1
 
 Presupuestos para acceder a frecuencias atribuidas al servicio móvil aeronáutico por parte de entidades y estaciones de radiocomunicación y ayuda a la navegación aérea. Las siguientes entidades y estaciones de radiocomunicación y ayuda a la navegación aérea podrán tener acceso a las frecuencias atribuidas al servicio móvil aeronáutico y de radionavegación aeronáutica, en tanto cumplan con las disposiciones establecidas en el presente título:
@@ -2472,8 +2172,6 @@ Presupuestos para acceder a frecuencias atribuidas al servicio móvil aeronáuti
 
 (Decreto 1029 de 1998, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2 — Sistemas de telecomunicaciones y controles para las necesidades esenciales de la navegación aérea
 
 Corresponde a la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC) establecer los sistemas de telecomunicaciones y los controles requeridos para satisfacer las necesidades esenciales de la navegación aérea tales como:
@@ -2492,23 +2190,17 @@ Corresponde a la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC) es
 
 (Decreto 1029 de 1998, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3 — Sistemas de telecomunicaciones que requieren de licencia previa
 
 Todos los demás sistemas de telecomunicaciones que no se encuentren enmarcados dentro de los definidos en el artículo anterior, requieren de licencia previa otorgada por el Ministerio de Tecnologías de la Información y las Comunicaciones, deberán acogerse a las disposiciones existentes de asignación de frecuencias, de conformidad con las bandas atribuidas a la actividad o servicio de telecomunicaciones que se proyecte establecer.
 
 (Decreto 1029 de 1998, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4 — Prohibición de instalación de estaciones sin licencia
 
 Ningún particular o entidad pública o privada podrá instalar o explotar una estación transmisora y/o receptora en las bandas atribuidas al servicio móvil aeronáutico y a la radionavegación aeronáutica sin la correspondiente licencia expedida en forma apropiada y conforme a las disposiciones del presente título.
 
 (Decreto 1029 de 1998, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.5 — Obligaciones de las entidades y estaciones de radiocomunicación y ayuda a la navegación aérea
 
@@ -2540,8 +2232,6 @@ Las entidades y estaciones de radiocomunicación y ayuda a la navegación aérea
 
 (Decreto 1029 de 1998, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6 — 2.6
 
 Convenio interadministrativo para la administración y coordinación del uso de las bandas atribuidas al servicio móvil aeronáutico (R) y el servicio de radionavegación aeronáutica. Para establecer los sistemas de telecomunicaciones y los controles requeridos para satisfacer las necesidades de la navegación aérea de que trata el artículo 2.2.4.2.2. del presente Decreto, el Ministerio de Tecnologías de la Información y las Comunicaciones y la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC) celebrarán un convento interadministrativo para la administración y coordinación del uso de las bandas atribuidas al servicio móvil aeronáutico (R) y el servicio de radionavegación aeronáutica.
@@ -2550,15 +2240,11 @@ PARÁGRAFO . La Fuerza Aérea Colombiana (FAC) coordinará las actividades relac
 
 (Decreto 1029 de 1998, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7 — 2.7
 
 Administración de estaciones aeroportuarias destinadas a la correspondencia pública nacional y/o internacional con estaciones terrenas de aeronave. Las estaciones aeroportuarias destinadas a la correspondencia pública nacional y/o internacional con estaciones terrenas de aeronave, serán administradas por los operadores del servicio de larga distancia nacional e internacional autorizados, los cuales podrán operar con permiso previo del Ministerio de Tecnologías de la Información y las Comunicaciones en las bandas de 1545 a 1555 MHz y 1646,5 a 1656,5 MHz, quienes estarán subordinados en todo a los reglamentos nacionales e internacionales sobre la materia.
 
 (Decreto 1029 de 1998, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8 — Reporte de información al Ministerio de TIC por parte de la Unidad Administrativa Especial de Aeronáutica Civil
 
@@ -2568,23 +2254,17 @@ PARÁGRAFO . La Unidad Administrativa Especial de Aeronáutica Civil (UAEAC) se 
 
 (Decreto 1029 de 1998, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.4.2.9 — Naturaleza de la operación de redes de telecomunicaciones que utilizan bandas atribuidas al servicio móvil aeronáutico
 
 La operación de redes de telecomunicaciones que utilicen las bandas de frecuencias atribuidas al servicio móvil aeronáutico (OR), se considerarán actividades tendientes a complementar los servicios que garanticen un sistema de control de tráfico aéreo en condiciones de seguridad y confiabilidad.
 
 (Decreto 1029 de 1998, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.4.2.10 — .10
 
 Licencia para personas naturales o jurídicas propietarias de aeronaves, para el uso de las frecuencias atribuidas al servicio móvil aeronáutico. El Ministerio de Tecnologías de la Información y las Comunicaciones previo concepto favorable de la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC), expedirá la licencia correspondiente a las personas naturales o jurídicas propietarias de aeronaves, para el uso de las frecuencias atribuidas al servicio móvil aeronáutico (R) la cual se otorgará por períodos de (5) años.
 
 (Decreto 1029 de 1998, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.4.2.11 — .11
 
@@ -2594,15 +2274,11 @@ PARÁGRAFO . El otorgamiento de la licencia no autoriza al titular de la misma p
 
 (Decreto 1029 de 1998, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.4.2.12 — Coordinación de servicios móvil aeronáuticos por satélite (R) y (OR)
 
 Los servidos móviles aeronáuticos por satélite (R) y (OR) serán coordinados por el Ministerio de Tecnologías de la información y las Comunicaciones, de conformidad con las normas nacionales que se expidan: a estos servicios, le son aplicables las disposiciones contenidas en el reglamento de radiocomunicaciones de la UIT y las recomendaciones de la Organización de la Aviación Civil Internacional (OACI).
 
 (Decreto 1029 de 1998, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.4.2.13 — .13
 
@@ -2613,8 +2289,6 @@ Uso de las redes de telecomunicaciones que utilicen frecuencias radioeléctricas
 CAPÍTULO 3
 
 DE LOS REQUISITOS PARA OBTENER LICENCIAS
-
-ARTÍCULO
 
 ## art:2.2.4.3.1 — Requisitos de la licencia para operar sistemas de telecomunicaciones abordo de aeronaves y/o estaciones fijas
 
@@ -2634,8 +2308,6 @@ PARÁGRAFO . El Ministerio de Tecnologías de la Información y las Comunicacion
 
 (Decreto 1029 de 1998, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2 — Modificación de la licencia
 
 El titular de una licencia deberá solicitar modificación de la misma, cuando se presente cualquiera de los siguientes eventos:
@@ -2650,8 +2322,6 @@ La solicitud a que se refiere el presente artículo deberá presentarse al Minis
 
 (Decreto 1029 de 1998, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.4.3.3 — Prórroga de la licencia
 
 La prórroga automática de la licencia se surtirá siempre y cuando el licenciatario haya cumplido con las condiciones de su título habilitante, con los requisitos y pagos de los derechos vigentes a la fecha de la prórroga, y manifieste la intención de formalizarla en el año siguiente al vencimiento de la misma.
@@ -2662,23 +2332,17 @@ CAPÍTULO 4
 
 PERSONAL ESPECIALIZADO AL SERVICIO DE LAS TELECOMUNICACIONES
 
-ARTÍCULO
-
 ## art:2.2.4.4.1 — Acreditación de la calidad de operador de equipos de telecomunicaciones del servicio móvil aeronáutico
 
 El personal técnico que opere equipos de telecomunicaciones del servicio móvil aeronáutico deberá tener una licencia expedida por la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC).
 
 (Decreto 1029 de 1998, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2 — Licencia de idoneidad para operador radiotelefonista
 
 Las licencias de idoneidad se expedirán para operador radiotelefonista por la Unidad Administrativa Especial de Aeronáutica Civil (UAEAC), la cual elaborará los temarios y realizará las pruebas de conocimientos y aptitudes.
 
 (Decreto 1029 de 1998, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.4.4.3 — Verificación de condiciones de los operadores de sistemas del servicio móvil aeronáutico
 
@@ -2690,15 +2354,11 @@ CAPÍTULO 5
 
 TARIFAS Y SANCIONES
 
-ARTÍCULO
-
 ## art:2.2.4.5.1 — Pago de derechos por concepto del Convenio a que se refiere el artículo 2.2.4.2.6
 
 de este Decreto. La Unidad Administrativa Especial de Aeronáutica Civil (UAEAC), deberá cancelar al Fondo de Tecnologías de la Información y las Comunicaciones por el uso de frecuencias en las bandas atribuidas al servicio móvil aeronáutico (R) y radionavegación aeronáutica la suma de cinco (5) salarios mínimos legales mensuales por el término del convenio a que se refiere el artículo 2.2.4.2.6.
 
 (Decreto 1029 de 1998, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.4.5.2 — Derechos tarifarios por la licencia para operar en las frecuencias atribuidas al servicio móvil aeronáutico (R)
 
@@ -2706,15 +2366,11 @@ Los derechos tarifarios correspondientes a la licencia otorgada a personas jurí
 
 (Artículo MODIFICADO por el Art. 8 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.4.5.3 — 5.3
 
 Derechos por el uso de frecuencias en el establecimiento de las redes privadas de telecomunicaciones para el servicio móvil aeronáutico (OR). Los derechos que se deben pagar por el uso de frecuencias en el establecimiento de las redes privadas de telecomunicaciones para el servicio móvil aeronáutico (OR), será el indicado en la Resolución 1982 de noviembre 10 de 1992 o las normas que las modifiquen o las supriman, pago que deberá efectuarse a favor del Fondo de Tecnologías de la Información y las Comunicaciones, en períodos anuales.
 
 (Decreto 1029 de 1998, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.4.5.4 — Clandestinidad
 
@@ -2722,15 +2378,11 @@ Las estaciones de telecomunicaciones que utilicen las bandas atribuidas al servi
 
 (Decreto 1029 de 1998, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.4.5.5 — 5.5
 
 Alteraciones no autorizadas a las características de una estación de telecomunicaciones del servicio móvil aeronáutico (OR). Cuando se introduzcan alteraciones a las características de una estación de telecomunicaciones, del servicio móvil aeronáutico (OR), sin autorización previa del Ministerio de Tecnologías de la Información y las Comunicaciones, se impondrán las sanciones, de conformidad con la normatividad vigente.
 
 (Decreto 1029 de 1998, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.4.5.6 — 5.6
 
@@ -2746,15 +2398,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.5.1.1 — Servicio de radioaficionado
 
 El servicio de radioaficionado es un servicio de radiocomunicación que tiene por objeto la instrucción individual, la intercomunicación y los estudios técnicos efectuados por aficionados debidamente autorizados que se interesan en la radio-experimentación con fines exclusivamente personales y sin ánimo de lucro.
 
 (Decreto 963 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2 — Prestación del servicio
 
@@ -2763,8 +2411,6 @@ El servicio de radioaficionado es un servicio especial que será prestado median
 El servicio de radioaficionado y radioaficionado por satélite podrá prestarse en todo el territorio nacional, incluyendo aguas territoriales y espacio aéreo, así como también en los lugares que por convenciones internacionales le reconozcan a Colombia el principio de extraterritorialidad.
 
 (Decreto 963 de 2009, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3 — Términos y Definiciones
 
@@ -2816,8 +2462,6 @@ TARJETA QSL: Tarjeta de cortesía por la confirmación de comunicados entre esta
 
 (Decreto 963 de 2009, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4 — Operación de estación de radioaficionado
 
 Toda persona que pretenda ser operador radioaficionado deberá obtener autorización para el funcionamiento de la estación, permiso para el uso del espectro y licencia para acceder al servicio.
@@ -2832,8 +2476,6 @@ CAPÍTULO 2
 
 LICENCIAS
 
-ARTÍCULO
-
 ## art:2.2.5.2.1 — De la licencia de radioaficionado
 
 El servicio de radioaficionado será prestado y ejercido mediante licencia otorgada por el Ministerio de Tecnologías de la Información y las Comunicaciones, previa solicitud elevada ante el Ministerio de Tecnologías de la Información y las Comunicaciones de conformidad con los requisitos, procedimientos, términos y demás disposiciones previstas en el presente título.
@@ -2844,8 +2486,6 @@ La licencia de radioaficionado se otorgará y acreditará mediante Carné person
 
 (Decreto 963 de 2009, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2 — Categorías de la licencia
 
 La licencia de radioaficionado tendrá tres (3) categorías: Segunda o de Novicio; Primera o de Experto, y de Categoría Avanzada.
@@ -2853,8 +2493,6 @@ La licencia de radioaficionado tendrá tres (3) categorías: Segunda o de Novici
 Las licencias autorizan a su titular para operar estaciones radioeléctricas únicamente en las bandas de frecuencias atribuidas al servicio de radioaficionado, de conformidad con lo establecido en el presente título para cada categoría de licencia.
 
 (Decreto 963 de 2009, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.5.2.3 — De los requisitos para ser titular de la licencia
 
@@ -2940,8 +2578,6 @@ PARÁGRAFO 3. En caso de pérdida o deterioro del Carné o licencia que acredite
 
 (Decreto 963 de 2009, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.5.2.4 — Duración y prórroga de la licencia
 
 El término de duración de las licencias, para las categorías Avanzada y Primera o de experto, no podrá exceder de diez (10) años, y el término de duración de las licencias, para la categoría Segunda o de Novicio no podrá exceder de cinco (5) años; contados a partir de la fecha de su expedición, pudiéndose prorrogar por periodos de igual duración.
@@ -2955,8 +2591,6 @@ PARÁGRAFO . Requisitos de la Prórroga. La prórroga o renovación de la licenc
 2. Que la actual licencia de radioaficionado se encuentre vigente.
 
 (Decreto 963 de 2009, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.5.2.5 — Causales de terminación de la licencia
 
@@ -2974,8 +2608,6 @@ Son causales de terminación de la licencia:
 
 (Decreto 963 de 2009, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.5.2.6 — Reingreso
 
 Las personas que ejercieron la actividad de radioaficionado y desean reingresar al servicio, o cuya licencia expiró por vencimiento del término de su vigencia, podrán solicitar nuevamente al Ministerio de Tecnologías de la Información y las Comunicaciones licencia de radioaficionado en la categoría correspondiente, para lo cual se deberá cumplir con los siguientes requisitos:
@@ -2987,8 +2619,6 @@ Las personas que ejercieron la actividad de radioaficionado y desean reingresar 
 El Ministerio de Tecnologías de la Información y las Comunicaciones se reserva el derecho de restituir el indicativo de llamada asignado con interioridad a la nueva licencia de reingreso.
 
 (Decreto 963 de 2009, art.10)
-
-ARTÍCULO
 
 ## art:2.2.5.2.7 — Información sobre las características técnicas
 
@@ -3006,15 +2636,11 @@ CAPÍTULO 3
 
 DE LA CERTIFICACIÓN DE APTITUD DE RADIOAFICIONADO
 
-ARTÍCULO
-
 ## art:2.2.5.3.1 — Certificado de aptitud de radioaficionado
 
 Toda persona que desee obtener una licencia de radioaficionado, deberá presentar, entre otros, un Certificado de Aptitud de Radioaficionado, que acredite su idoneidad para instalar y operar estaciones de aficionados y, para la correcta prestación y ejercicio del servicio. Los Certificados de Aptitud de Radioaficionado, serán expedidos por el Ministerio de Tecnologías de la Información y las Comunicaciones.
 
 (Decreto 963 de 2009, art.12)
-
-ARTÍCULO
 
 ## art:2.2.5.3.2 — De los exámenes de radioaficionados
 
@@ -3028,8 +2654,6 @@ Los resultados se darán a conocer a los interesados directamente o a través de
 
 (Decreto 963 de 2009, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.5.3.3 — Delegación de los exámenes
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones podrá delegar en las asociaciones de radioaficionados, la realización de los exámenes de aptitud y la expedición del Certificado de Aptitud de Radioaficionado.
@@ -3040,8 +2664,6 @@ CAPÍTULO 4
 
 DE LAS ASOCIACIONES DE RADIOAFICIONADOS
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — Asociaciones de radioaficionados
 
 Los radioaficionados podrán asociarse a través de entidades o instituciones, para mejorar sus conocimientos, realizar investigaciones científicas o técnicas o establecer estaciones de radio y redes de comunicación a nivel aficionado.
@@ -3049,8 +2671,6 @@ Los radioaficionados podrán asociarse a través de entidades o instituciones, p
 La operación de las estaciones de las asociaciones de radioaficionado deberá hacerse por parte de personas debidamente licenciadas.
 
 (Decreto 963 de 2009, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2 — Carácter de las asociaciones
 
@@ -3061,8 +2681,6 @@ Las asociaciones de radioaficionados podrán ser de carácter regional y naciona
 2. ASOCIACION NACIONAL DE RADIOAFICIONADOS. Es una persona jurídica colombiana de derecho privado, sin ánimo de lucro, cuyo objetivo principal es agrupar a los radioaficionados a nivel nacional, para fomentar el estudio, la instrucción, la investigación y la radio experimentación de las comunicaciones a nivel aficionado.
 
 (Decreto 963 de 2009, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3 — Registro de las asociaciones
 
@@ -3088,8 +2706,6 @@ PARÁGRAFO . Para los efectos de este artículo, las asociaciones registradas y 
 
 (Decreto 963 de 2009, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.5.4.4 — Duración y renovación del registro
 
 El término de duración del registro de las asociaciones de radioaficionados no podrá exceder de cinco (5) años, contados a partir de la fecha de su otorgamiento, pudiéndose renovar por períodos de igual duración.
@@ -3098,15 +2714,11 @@ Con anterioridad al vencimiento del registro las asociaciones podrán solicitar 
 
 (Decreto 963 de 2009, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.5.4.5 — Indicativos de llamada para las asociaciones de radioaficionados
 
 Las asociaciones de radioaficionados debidamente registradas y reconocidas por el Ministerio de Tecnologías de la Información y las Comunicaciones, tendrán derecho a un indicativo de llamada el cual estará compuesto por el prefijo HK seguido del número correspondiente a la zona de su domicilio principal y terminado por una, dos o tres letras.
 
 (Decreto 963 de 2009, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.5.4.6 — Uso temporal de los indicativos de llamada
 
@@ -3148,8 +2760,6 @@ PARÁGRAFO 4. Además de las autorizaciones que otorgue conforme sus competencia
 
 (Modificado por el Art. 1 del Decreto 622 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.5.4.8 — Fomento a la investigación y desarrollo
 
 Es objetivo principal de las asociaciones de radioaficionados, fomentar el estudio, la instrucción, la investigación y la radio experimentación de las comunicaciones a nivel accionado. Para el despliegue del servicio de radioaficionado, las asociaciones podrán dictar y recibir cursos, talleres, conferencias y seminarios, con el objeto de fomentar la investigación y el desarrollo.
@@ -3163,8 +2773,6 @@ Las asociaciones de radioaficionados podrán dietar cuises teóricos prácticos 
 CAPÍTULO 5
 
 OBLIGACIONES DE LOS RADIOAFICIONADOS
-
-ARTÍCULO
 
 ## art:2.2.5.5.1 — Normas y recomendaciones internacionales
 
@@ -3234,8 +2842,6 @@ PARÁGRAFO . El libro de guardia o registro de operaciones de la estación, debe
 
 (Decreto 963 de 2009, art.27)
 
-ARTÍCULO
-
 ## art:2.2.5.5.2 — Prestación del servicio en casos de emergencia, desastres y calamidad pública
 
 En casos de emergencia, desastres y calamidad pública, los operadores del servicio de radioaficionado deberán colaborar con las autoridades en la transmisión de las comunicaciones que aquellas requieran, en la forma que lo determine el Ministerio de Tecnologías de la Información y las Comunicaciones.
@@ -3262,23 +2868,17 @@ CAPÍTULO 6
 
 BANDAS Y PLANES DE FRECUENCIAS
 
-ARTÍCULO
-
 ## art:2.2.5.6.1 — Frecuencias de radioaficionado
 
 Se adopta como Frecuencias de radioaficionados las establecidas por la Unión Internacional de Radioaficionados IARU, Región II, acogidas en el Cuadro Nacional de Atribución de Bandas de Frecuencia - CNABF para este servicio.
 
 (Decreto 963 de 2009, art.30)
 
-ARTÍCULO
-
 ## art:2.2.5.6.2 — Utilización de las bandas por las categorías de licenciatarios
 
 Las licencias de categoría Avanzada, Primera categoría o de experto y Segunda categoría o de Novicio, autorizan a su titular para operar equipos fijos, móviles y portátiles, únicamente en las bandas de frecuencias atribuidas al servicio de radioaficionado y radioaficionado por satélite, en las bandas de frecuencias designadas a cada categoría y en las condiciones técnicas establecidas por el presente título.
 
 (Decreto 963 de 2009, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.5.6.3 — Bandas designadas para operación en categoría avanzada
 
@@ -3288,15 +2888,11 @@ Los radioaficionados que sean titulares de una licencia de categoría Avanzada, 
 
 (Decreto 963 de 2009, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.5.6.4 — Bandas designadas para operación en primera categoría o de experto
 
 Las licencias de Primera categoría o de experto autorizan a su titular a realizar transmisiones y operar estaciones radioeléctricas de radioaficionado y radioaficionado por satélite en todas las frecuencias y bandas de frecuencias atribuidas al servicio, en todas las modalidades de transmisión y tipos de emisión, de conformidad con el Cuadro Nacional de Atribución de Bandas de Frecuencias, y en las condiciones técnicas de potencia establecidas por el presente título.
 
 (Decreto 963 de 2009, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.5.6.5 — Bandas designadas para operación en segunda categoría o de novicio
 
@@ -3355,8 +2951,6 @@ A 1 A, A2A, PoA Y X3E
 CAPÍTULO 7
 
 DISPOSICIONES TÉCNICAS
-
-ARTÍCULO
 
 ## art:2.2.5.7.1 — Distintivo de llamada
 
@@ -3434,8 +3028,6 @@ PARÁGRAFO . El Ministerio de Tecnologías de la Información y las Comunicacion
 
 (Decreto 963 de 2009, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.5.7.2 — Reasignación del distintivo de llamada, en caso de fallecimiento del titular de la licencia
 
 Cuando ocurra el fallecimiento del titular de una licencia de operador radioaficionado, los parientes que se encuentren hasta en el tercer grado de consanguinidad podrán solicitar ante el Ministerio de Tecnologías de la Información y las Comunicaciones, la reasignación del distintivo de llamada del fallecido, siempre y cuando el solicitante cumpla con los requisitos señalados en este título para la obtención de la licencia de radioaficionado. La asignación se efectuará de acuerdo a la categoría que le corresponda.
@@ -3443,8 +3035,6 @@ Cuando ocurra el fallecimiento del titular de una licencia de operador radioafic
 Para efectos de obtener la reasignación del distintivo de llamada, el Ministerio de Tecnologías de la Información y las Comunicaciones atenderá estrictamente el orden sucesoral establecido en el Código Civil. En caso de existir interés por verlas personas pertenecientes a un mismo orden sucesoral, deberá existir pleno acuerdo entre ellos sobre un solo nombre, so pena de que el Ministerio de Tecnologías dela Información y las Comunicaciones reasigne el distintivo de llamada a una persona distinta de dichos herederos. Dicha solicitud se deberá realizar dentro del término de vigencia de la licencia, con la presentación del certificado de defunción.
 
 (Decreto 963 de 2009, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.5.7.3 — Tipos de emisión
 
@@ -3566,8 +3156,6 @@ Radio teletipo
 
 (Decreto 963 de 2009, art.37)
 
-ARTÍCULO
-
 ## art:2.2.5.7.4 — Potencias máximas autorizadas
 
 Las estaciones de radioaficionado deberán operar dentro de los siguientes límites de potencias:
@@ -3630,15 +3218,11 @@ PARÁGRAFO . Una estación de radioaficionado debe utilizar la mínima potencia 
 
 (Decreto 963 de 2009, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.5.7.5 — Instalación de la estación
 
 La instalación de una estación radioeléctrica y de la estructura de soporta para una antena del Servicio de Aficionados debe efectuarse de acuerdo con las condiciones actuales de la técnica y las mejores prácticas de radiocomunicaciones, para asegurar su correcta operación y evitar interferencias a otros servicios radioeléctricos autorizados, acatando las disposiciones del Ministerio de Tecnologías de la Información y las Comunicaciones. Las instalaciones deberán estar construidas y dotadas de los sistemas y dispositivos necesarios para proteger la vida humana y la propiedad.
 
 (Decreto 963 de 2009, art.39)
-
-ARTÍCULO
 
 ## art:2.2.5.7.6 — Interferencias
 
@@ -3650,15 +3234,11 @@ CAPÍTULO 8
 
 DE LAS CONTRAPRESTACIONES
 
-ARTÍCULO
-
 ## art:2.2.5.8.1 — Conceptos que dan lugar a contraprestaciones
 
 Acorde con el Régimen Unificado de Contraprestaciones, y lo estipulado por el presente título, toda licencia, autorización, permiso o registro que se confiera o se realice en materia de telecomunicaciones dará lugar al pago de contraprestaciones, conforme a los términos y trámites fijados para el efecto.
 
 (Decreto 963 de 2009, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.5.8.2 — Contraprestación por la licencia para el servicio de radioaficionado
 
@@ -3668,23 +3248,17 @@ Este mismo valor anual deberá ser cancelado por el titular por concepto de la p
 
 (Artículo MODIFICADO por el Art. 10 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.5.8.3 — Contraprestación por la autorización de estaciones repetidoras
 
 La expedición de los títulos habilitantes por las autorizaciones para el establecimiento, instalación y operación de estaciones repetidoras, que operen en las bandas y frecuencias establecidas para el servicio de radioaficionado y, por las autorizaciones relativas a la modificación, ensanche, ampliación o expansión que se otorguen respecto de estaciones repetidoras, que operen en las bandas y frecuencias establecidas para el servicio de radioaficionado, dará lugar al pago de una contraprestación equivalente a trece coma dieciséis (13,16) UVT, por cada estación repetidora.
 
 (Artículo MODIFICADO por el Art. 11 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.5.8.4 — Contraprestación por el permiso por el derecho al uso del espectro radioeléctrico
 
 Las contraprestaciones por el permiso por el derecho al uso del espectro radioeléctrico, en estaciones de radioaficionado que operen en las bandas atribuidas al servicio de radioaficionado, conforme al plan nacional de frecuencias, se entenderán incorporadas a la licencia, permiso o registro.
 
 (Decreto 963 de 2009, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.5.8.5 — Contraprestación por el registro de las asociaciones
 
@@ -3694,15 +3268,11 @@ Este mismo valor de contraprestación deberá ser cancelado por el titular por c
 
 (Artículo MODIFICADO por el Art. 12 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.5.8.6 — Valor por reposición del carné
 
 Los gastos administrativos en que incurra el Ministerio de Tecnologías de la Información y las Comunicaciones por concepto de la reposición del carné por pérdida o deterioro del mismo, dará lugar, por parte del titular, al pago de una contraprestación equivalente a cero coma ochocientos setenta y siete (0,877) UVT.
 
 (Artículo MODIFICADO por el Art. 13 del Decreto 2640 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7 — Pago de las contraprestaciones
 
@@ -3714,8 +3284,6 @@ CAPÍTULO 9
 
 DE LAS SANCIONES
 
-ARTÍCULO
-
 ## art:2.2.5.9.1 — Sanciones
 
 Los licenciatarios y asociaciones de radioaficionados reconocidas que incumplan las normas establecidas en este título serán sancionados por el Ministerio de Tecnologías de la Información y las Comunicaciones de conformidad con la normatividad vigente.
@@ -3723,8 +3291,6 @@ Los licenciatarios y asociaciones de radioaficionados reconocidas que incumplan 
 Por las infracciones que se cometan en materia de telecomunicaciones, además del autor de las mismas, responderá el titular de la licencia, por acción u omisión en relación con aquellas.
 
 (Decreto 963 de 2009, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.5.9.2 — Suspensión y decomiso de equipos
 
@@ -3746,15 +3312,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.1 — Objeto, alcance y contenido
 
 Este capítulo tiene por objeto establecer el régimen unificado de contraprestaciones y el régimen sancionatorio y procedimientos administrativos asociados a las contraprestaciones en materia de telecomunicaciones de que tratan los artículos 13 y 36 de la Ley 1341 de 2009.
 
 (Decreto 1161 de 2010, art.1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.2 — Distribución de competencias
 
@@ -3765,8 +3327,6 @@ PARÁGRAFO 1. La Autoridad Nacional de Televisión -ANTV- es la entidad competen
 PARÁGRAFO 2. Los canales radioeléctricos que se requieran para el establecimiento y la operación de radio enlaces destinados a redes de televisión darán lugar al pago, a favor del Fondo de Tecnologías de la información y las Comunicaciones, de las contraprestaciones de que trata el presente régimen unificado.
 
 (Decreto 1161 de 2010, art.2)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.3 — Objetivos del régimen unificado de contraprestaciones
 
@@ -3788,8 +3348,6 @@ Corresponde al Ministerio de Tecnologías de la Información y las Comunicacione
 
 (Decreto 1161 de 2010, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.4 — Definiciones
 
 Para efectos del presente capítulo, se adoptan las siguientes definiciones generales:
@@ -3801,8 +3359,6 @@ Para efectos del presente capítulo, se adoptan las siguientes definiciones gene
 3. PROVEEDOR: La definición de proveedor será la establecida en los incisos segundo y tercero del artículo 2.2.1.1.3. del presente Decreto.
 
 (Decreto 1161 de 2010, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.5 — Derechos
 
@@ -3819,8 +3375,6 @@ los proveedores de redes y/o servicios de telecomunicaciones a quienes les corre
 5. Que se resuelvan oportunamente sus peticiones en materia de contraprestaciones.
 
 (Decreto 1161 de 2010, art.5)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.6 — Obligaciones
 
@@ -3846,8 +3400,6 @@ SECCIÓN 2
 
 RÉGIMEN SANCIONATORIO
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1 — Sanción por la presentación extemporánea de autoliquidaciones
 
 La presentación extemporánea de autoliquidaciones, esto es, dentro de los tres meses siguientes al vencimiento del plazo establecido para el efecto, dará lugar a una multa equivalente al uno punto cinco por ciento (1.5%) de las contraprestaciones determinadas en esa autoliquidación, por cada mes o fracción de mes calendario de retardo. En todo caso, el valor de la multa no podrá ser inferior al equivalente a trece coma dieciséis (13,16) UVT, ni superior a cincuenta y dos mil seiscientos veintiséis coma cero cuatro (52.626,04) UVT.
@@ -3855,8 +3407,6 @@ La presentación extemporánea de autoliquidaciones, esto es, dentro de los tres
 Cuando en la autoliquidación presentada extemporáneamente, no resulte contraprestación a cargo, la multa por extemporaneidad será equivalente a trece coma dieciséis (13,16) UVT.
 
 (Artículo MODIFICADO por el Art. 14 del Decreto 2640 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.2 — Sanción por no autoliquidar
 
@@ -3874,23 +3424,17 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones, podrá im
 
 (Decreto 1161 de 2010, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3 — Sanción por autoliquidación inexacta de las contraprestaciones
 
 Si después de haber transcurrido el plazo establecido para la presentación y/o pago de las autoliquidaciones de las contraprestaciones, el Ministerio de Tecnologías de la Información y las Comunicaciones detecta errores en dichas autoliquidaciones, que hayan dado lugar al pago de un valor menor al que legalmente correspondería, habrá lugar a la imposición de una multa equivalente al veinte por ciento (20%) de la diferencia entre el valor liquidado y el que legalmente correspondería. En todo caso, el valor de la multa no podrá ser superior a cincuenta y dos mil seiscientos veintiséis coma cero cuatro (52.626,04) UVT.
 
 (Artículo MODIFICADO por el Art. 16 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.4 — Allanamiento al pago por el deudor
 
 En cualquier etapa de la función administrativa sancionatoria, si el supuesto infractor se allana al pago de lo adeudado y cancela además el 75% de la multa a la cual se haría acreedor, se dictará resolución que ponga fin a la actuación administrativa.
 
 (Decreto 1161 de 2010, art.10)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.5 — Intereses moratorios
 
@@ -3904,8 +3448,6 @@ SECCIÓN 3
 
 PROCEDIMIENTOS ADMINISTRATIVOS
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.1 — Funciones del Ministerio
 
 Corresponde al Ministerio de Tecnologías de la Información y las Comunicaciones la administración de las contraprestaciones de que trata la Ley 1341 de 2009.
@@ -3918,15 +3460,11 @@ Para el ejercicio de sus competencias en materia de contraprestaciones, el Minis
 
 (Decreto 1161 de 2010, art.12)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.2 — Trámite
 
 Para la imposición de las sanciones previstas en este capítulo, así como las descritas en el Título 7 de la Parte 2 del Libro 2 del presente Decreto, deberá seguirse el procedimiento dispuesto en el artículo 67 de la Ley 1341 de 2009.
 
 (Decreto 1161 de 2010, art.13)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.3 — Visitas
 
@@ -3938,8 +3476,6 @@ SECCIÓN 4
 
 RÉGIMEN DE TRANSICIÓN
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.1 — Transición para los actuales proveedores de redes y/o servicios de telecomunicaciones
 
 Los proveedores que, con fundamento en el artículo 68 de la Ley 1341 de 2009, opten por no acogerse al régimen de habilitación general, deberán continuar pagando las contraprestaciones a su cargo por concepto de concesiones, habilitaciones y permisos hasta el momento en que venza la respectiva concesión, habilitación o título, en los mismos términos allí establecidos y de acuerdo con las reglas de procedimiento señaladas en el Decreto 1972 de 2003.
@@ -3947,8 +3483,6 @@ Los proveedores que, con fundamento en el artículo 68 de la Ley 1341 de 2009, o
 A partir de ese momento, el respectivo proveedor quedara sometido a las reglas generales en materia de contraprestaciones establecidas en este capítulo y en las normas que lo modifiquen o complementen, así como en la reglamentación que sobre la materia expida el Ministerio de Tecnologías de la información y las Comunicaciones con base en las facultades otorgadas por la Ley 1341 de 2009.
 
 (Decreto 1161 de 2010, art.15)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.2 — Transición para proyector de telecomunicaciones sociales
 
@@ -3959,8 +3493,6 @@ Los permisos para el uso del espectro radioeléctrico que fueron calificados com
 SECCIÓN 5
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.1 — Medidas de Control
 
@@ -3978,13 +3510,9 @@ CAPÍTULO 2
 
 CONTRAPRESTACIÓN PERIÓDICA POR LA PROVISIÓN DE REDES Y DE SERVICIOS DE TELECOMUNICACIONES
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.1 — Objeto y ámbito de aplicación
 
 La presente sección tiene por objeto fijar el alcance de los elementos que configuran la contraprestación periódica única que deben pagar los proveedores de redes y de servicios de telecomunicaciones a favor del Fondo Único de Tecnologías de la Información y las Comunicaciones, conforme a lo dispuesto en los artículos 10 y 36 de la Ley 1341 de 2009, modificados por los artículos 7 y 23 de la Ley 1978 de 2019, respectivamente. Lo anterior, sin perjuicio de la aplicación del régimen de transición establecido en el artículo 68 de la Ley 1341 de 2009 y lo dispuesto en los artículos 32 y 33 de la Ley 1978 de 2019.
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.2 — Hechos que generan la contraprestación periódica
 
@@ -3998,8 +3526,6 @@ Se entiende por provisión de redes y de servicios de telecomunicaciones en cone
 
 PARÁGRAFO . No constituye provisión de redes o servicios de telecomunicaciones el consumo o utilización propios de las mismas sin suministro a terceros.
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.3 — 1.3
 
 Responsable de la provisión de las redes y de servicios de telecomunicaciones y del cumplimiento de las obligaciones relacionadas con la contraprestación periódica. El proveedor de redes de telecomunicaciones y/o de servicios de telecomunicaciones se obliga ante sus usuarios a la provisión de las redes, a la prestación de los servicios o a las dos, y como tal asume a nombre y por cuenta propia la responsabilidad sobre la provisión de las redes y/o de los servicios de telecomunicación que suministra a terceros, así los servicios o las redes sean propias o de terceros.
@@ -4008,15 +3534,11 @@ Todos los proveedores de redes y de servicios de telecomunicaciones son responsa
 
 PARÁGRAFO . La provisión de redes y la de servicios de telecomunicaciones sin la previa formalización de la habilitación general de que trata el artículo 10 de la Ley 1341 de 2009, no exime al respectivo proveedor de la obligación de pagar la contraprestación periódica única que se causa por tal concepto, conforme a las disposiciones de la Ley 1341 de 2009, modificada por la Ley 1978 de 2019 y el presente decreto. Lo anterior, sin perjuicio de las sanciones a que haya lugar por la omisión de la incorporación en el Registro Único de TIC.
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.4 — 1.4
 
 Responsable de la prestación del servicio de televisión abierta radiodifundida y del cumplimiento de las obligaciones relacionadas con la contraprestación periódica única. El operador del servicio de televisión abierta radiodifundida se obliga a la prestación del servicio en el área de cobertura habilitada.
 
 Todos los operadores del servicio de televisión abierta radiodifundida son responsables del cumplimiento de las obligaciones relacionadas con la contraprestación periódica prevista en la Ley 1341 de 2009, modificada por la Ley 1978 de 2019 y sus disposiciones reglamentarias, o en caso de no acogerse al régimen de habilitación general serán responsables del cumplimientos de las obligaciones previstas en sus respectivas concesiones, habilitaciones o permisos, a favor del Fondo Único de Tecnologías de la Información y Comunicaciones, en el marco de las disposiciones del artículo 68 de la Ley 1341 de 2009.
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.5 — Base sobre la cual se aplica la contraprestación periódica única
 
@@ -4025,8 +3547,6 @@ La base para el cálculo de la contraprestación periódica única está constit
 En el caso de la prestación del servicio de televisión, la base para el cálculo de la contraprestación periódica única está constituida por los ingresos brutos causados en el período respectivo por la prestación del servicio, incluyendo ingresos por concepto de pauta publicitaria y terminales.
 
 PARÁGRAFO . Los ingresos que se originen del ejerc1c10 de actividades económicas distintas a la provisión de redes y de servicios de telecomunicaciones no forman parte de la base de la contraprestación periódica única.
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.6 — Conceptos que se deducen de la base de Ingresos para la contraprestación periódica única
 
@@ -4039,8 +3559,6 @@ De la base de ingresos brutos para la liquidación de la contraprestación peri�
 Las devoluciones que es posible deducir de los ingresos brutos causados son aquellas asociadas a la provisión de redes y de servicios de telecomunicaciones facturados, que formaron parte del ingreso base de la contraprestación pagada, pero que no fueron efectivamente provistos o que lo fueron en menor valor al facturado, siempre que estén debidamente discriminados en la contabilidad del proveedor de redes y de servicios de telecomunicaciones con sus correspondientes soportes.
 
 PARÁGRAFO . Lo dispuesto en el presente artículo no será aplicable a la prestación del servicio de televisión por suscripción y de la prestación del servicio de televisión comunitaria, porque la base para el cálculo de la contraprestación periódica de estos servicios incluye los ingresos generados por concepto de terminales y pauta publicitaria.
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.7 — Exclusión por concepto de terminales
 
@@ -4064,21 +3582,15 @@ En los casos en que al valor del terminal se le apliquen rebajas, descuentos, pr
 
 Cuando el valor de la provisión de la red y del servicio de telecomunicaciones sea afectado de cualquier forma por el valor cobrado por concepto de terminales, también se deberán discriminar en la factura dichos conceptos y sus respectivos valores.
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.8 — Porcentaje de la contraprestación periódica única
 
 El porcentaje de la contraprestación periódica será establecido mediante resolución expedida por el Ministerio de Tecnologías de la Información y las Comunicaciones, de acuerdo con los criterios establecidos en el artículo 36 de la Ley 1341 de 2009.
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.9 — Contabilidad separada en la provisión de redes y de servicios de telecomunicaciones
 
 Todos los proveedores de redes y de servicios de telecomunicaciones están en la obligación de registrar contablemente de manera separada los ingresos brutos relacionados con la contraprestación periódica única, de aquellos que no están relacionados. Así mismo, deberán registrar separadamente y en forma discriminada los valores de las devoluciones procedentes y de las exclusiones admitidas por concepto de terminales, cuando aplique
 
 El incumplimiento de esta obligación dará lugar a la imposición de la sanción respectiva, conforme al Título IX de la Ley 1341 de 2009.
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.10 — Información para la administración de las contraprestaciones y seguimiento del sector TIC
 
@@ -4114,15 +3626,11 @@ SECCIÓN 2
 
 CONTRAPRESTACIÓN ECONÓMICA CON OCASIÓN DE LA RENOVACIÓN DE LOS PERMISOS PARA USO DEL ESPECTRO RADIOELÉCTRICO
 
-ARTÍCULO
-
 ## art:2.2.6.2.2.1 — Objeto y ámbito de aplicación
 
 La presente sección tiene por objeto establecer los criterios para la determinación de las contraprestaciones económicas que se causan con ocasión de la renovación de permisos de uso de espectro radioeléctrico, en desarrollo de la Ley 1341 de.2009.
 
 (Decreto 542 de 2014, art.10)
-
-ARTÍCULO
 
 ## art:2.2.6.2.2.2 — Contraprestación económica con ocasión de renovación de permisos para el uso del espectro radioeléctrico
 
@@ -4133,8 +3641,6 @@ Dicha contraprestación económica se debe pagar por anualidades anticipadas, sa
 El Ministerio de Tecnologías de la Información y las Comunicaciones determinará los criterios, generales o particulares, para la valoración y liquidación de la contraprestación de que trata el presente artículo.
 
 (Decreto 542 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.6.2.2.3 — 2.3
 
@@ -4156,8 +3662,6 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.7.1.1 — Objeto alcance y contenido
 
 Este título tiene por objeto establecer el régimen unificado de las contraprestaciones por concepto de concesiones, autorizaciones, permisos, licencias y registros que se otorguen en materia de servicios de radiodifusión sonora, así como los trámites para su liquidación, cobro, recaudo y pago.
@@ -4166,23 +3670,17 @@ El presente régimen unificado de contraprestaciones se aplica a todos los conce
 
 (Decreto 4350 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2 — Conceptos que dan lugar a contraprestaciones
 
 Salvo las excepciones que contiene este decreto o normas de igual o superior jerarquía, toda concesión, autorización, permiso o registro que se confiera o se realice en materia de radiodifusión sonora dará lugar al pago de las contraprestaciones señaladas en este título o en las normas que lo subroguen, modifiquen, aclaren o desarrollen, conforme a los términos y trámites fijados para el efecto en el presente título.
 
 (Decreto 4350 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3 — 1.3
 
 Independencia entre la concesión para la prestación del servicio de radiodifusión sonora y el permiso para usar el espectro radioeléctrico asignado. La concesión para la prestación del servicio de radiodifusión sonora es independiente y distinta del permiso para usar el espectro radioeléctrico asignado. En consecuencia, la asignación de frecuencias, el ámbito de operación de las mismas y el pago derivado de estos conceptos se regirán por las normas previstas para el efecto, y darán lugar al pago de las contraprestaciones previstas en el presente título y las normas que lo sustituyan, modifiquen, o adicionen.
 
 (Decreto 4350 de 2009, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.7.1.4 — Derechos
 
@@ -4203,8 +3701,6 @@ Los concesionarios de servicios de radiodifusión sonora que estén obligados a 
 7. Que se resuelvan oportunamente sus peticiones en materia de contraprestaciones.
 
 (Decreto 4350 de 2009, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.7.1.5 — Obligaciones especiales de los concesionarios de servicios de radiodifusión sonora
 
@@ -4232,8 +3728,6 @@ CAPÍTULO 2
 
 CONTRAPRESTACIONES POR LA CONCESIÓN DE SERVICIOS DE RADIODIFUSIÓN SONORA
 
-ARTÍCULO
-
 ## art:2.2.7.2.1 — Contraprestación por la concesión de los servicios de radiodifusión sonora
 
 Por el otorgamiento de una concesión para la prestación del servicio de radiodifusión sonora habrá lugar al pago de una contraprestación no reembolsable, a favor del Fondo de Tecnologías de la Información y las Comunicaciones, equivalente a setenta y ocho coma noventa y cuatro (78,94) UVT dentro de los treinta (30) días calendario siguientes a la notificación del acto administrativo que decrete la viabilidad y/o prorrogue la concesión para la prestación del servicio de radiodifusión sonora.
@@ -4243,8 +3737,6 @@ Por el otorgamiento de una concesión para la prestación del servicio de radiod
 CAPÍTULO 3
 
 CONTRAPRESTACIONES POR EL OTORGAMIENTO DE PERMISOS POR EL DERECHO AL USO DEL ESPECTRO RADIOELÉCTRICO
-
-ARTÍCULO
 
 ## art:2.2.7.3.1 — 3.1
 
@@ -4386,9 +3878,9 @@ Tanto la liquidación las contraprestaciones en materia de radiodifusión sonora
 
 (Decreto 4350 de 2009, art. 12)
 
-## art:2.2 — 7.4.3
+## art:2.2.7.4.3 — Pago de las contraprestaciones al fondo de tecnologías de la información y las comunicaciones
 
-Pago de las contraprestaciones al fondo de tecnologías de la información y las comunicaciones. Las sumas que resulten a deber de la liquidación que elaboren los concesionarios habilitados para la prestación del servicio de radiodifusión sonora de que trata este título, deben ser consignadas directamente a favor del Fondo de Tecnologías de la Información y las Comunicaciones dentro de los términos establecidos en este título, en las cuentas que para el efecto disponga el Ministerio de Tecnologías de la Información y las Comunicaciones. Dichos recursos originados por el pago de las contraprestaciones ingresarán al presupuesto del citado Fondo.
+Las sumas que resulten a deber de la liquidación que elaboren los concesionarios habilitados para la prestación del servicio de radiodifusión sonora de que trata este título, deben ser consignadas directamente a favor del Fondo de Tecnologías de la Información y las Comunicaciones dentro de los términos establecidos en este título, en las cuentas que para el efecto disponga el Ministerio de Tecnologías de la Información y las Comunicaciones. Dichos recursos originados por el pago de las contraprestaciones ingresarán al presupuesto del citado Fondo.
 
 (Decreto 4350 de 2009, art. 13)
 
@@ -6764,15 +6256,11 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.1 — Objeto y ámbito de aplicación
 
 El presente capítulo establece los lineamientos generales para la prestación de los servicios exclusivos a cargo del Operador Postal Oficial o Concesionario de Correo así como las condiciones generales de prestación del Servicio Postal Universal.
 
 (Decreto 223 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.2 — Definiciones y Acrónimos
 
@@ -6814,8 +6302,6 @@ SECCIÓN 2
 
 PRESTACIÓN DEL SERVICIO POSTAL UNIVERSAL (SPU)
 
-ARTÍCULO
-
 ## art:2.2.8.2.2.1 — Servicios exclusivos del OPO
 
 Son servicios exclusivos del OPO los siguientes:
@@ -6834,8 +6320,6 @@ PARÁGRAFO : En los casos en que la UPU defina nuevos servicios postales de pago
 
 (Decreto 223 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.2.2.2 — Servicios postales que hacen parte del SPU
 
 Harán parte del servicio postal universal, el servicio de correspondencia prioritaria y no prioritaria, la entrega del servicio de correo telegráfico, las encomiendas, el correo certificado y los envíos con valor declarado.
@@ -6852,8 +6336,6 @@ PARÁGRAFO 5. Aquellos servicios postales prestados por el OPO, que no se encuen
 
 (Decreto 223 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.8.2.2.3 — Indicadores técnicos y de calidad
 
 Los indicadores técnicos y de calidad de prestación del Servicio Postal Universal serán definidos por el Ministerio de Tecnologías de la Información y las Comunicaciones.
@@ -6861,8 +6343,6 @@ Los indicadores técnicos y de calidad de prestación del Servicio Postal Univer
 PARÁGRAFO . Con el fin de garantizar la continuidad en la prestación del SPU, en el evento en que sea prorrogado el contrato de concesión vigente, de acuerdo con la facultad expresamente consagrada en el artículo 6 de la Ley 1369 de 2009, el Ministerio de Tecnologías de la Información y las Comunicaciones preverá la existencia de un periodo de transición y adecuación gradual de hasta un (1) año, de manera que el Operador Postal Oficial pueda adecuar su operación y realizar las inversiones necesarias para cumplir con los criterios y niveles de calidad en términos de frecuencia, tiempo de entrega, y sistema de reclamaciones del Servicio Postal Universal.
 
 (Decreto 223 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2.4 — Tarifas
 
@@ -6911,8 +6391,6 @@ Para este caso, el OPO deberá llevar registro contable separado y desagregado p
 7.4. Por vía telefónica, a solicitud del usuario.
 
 (Decreto 223 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2.5 — Metodología para el reconocimiento del déficit del SPU
 
@@ -6972,8 +6450,6 @@ PARÁGRAFO 2. El Ministerio de Tecnologías de la información y las Comunicacio
 
 (Decreto 223 de 2014, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.8.2.2.6 — Financiación del SPU
 
 El déficit que resulte del ejercicio previsto en el artículo 2.2.8.2.2.4. del presente decreto, será pagado anualmente por el FONTIC conforme a la disponibilidad de recursos. El FONTIC podrá realizar pagos parciales trimestrales previa presentación de los estados financieros debidamente auditados donde se determine la ejecución parcial anual de la operación del SPU.
@@ -6985,8 +6461,6 @@ PARÁGRAFO 1. El Ministerio de Tecnologías de la información y las Comunicacio
 PARÁGRAFO 2. En caso de que los recursos previstos por el FONTIC en una anualidad no sean suficientes para cubrir el déficit previsto, el pago del saldo estará sujeto a las apropiaciones del presupuesto de la nación cuando deba ser financiado por esta fuente.
 
 (Decreto 223 de 2014, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2.7 — Tarifas aplicables a la franquicia postal y al área de reserva
 
@@ -7007,8 +6481,6 @@ Los servicios comprendidos en el SPU que sean prestados por el OPO a entidades e
 El OPO deberá presentar, con su registro de tarifas, la memoria de cálculo anual para estos servicios.
 
 (Decreto 223 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2.8 — Pago de franquicias
 
@@ -7070,7 +6542,7 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones establecer
 
 (Decreto 223 de 2014, art. 10)
 
-"ARTÍCULO
+"
 
 ## art:2.2.8.2.2.9 — Servicio de franquicia telegráfica
 
@@ -7262,23 +6734,17 @@ SECCIÓN 1
 
 OBJETO, ÁMBITO DE APLICACIÓN Y PRINCIPIOS
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.1 — Objeto
 
 El presente capítulo establece los lineamientos generales de la Política de Gobierno Digital, entendida como el uso y aprovechamiento de las Tecnologías de la Información y las Comunicaciones, con el objetivo de impactar positivamente la calidad de vida de los ciudadanos y, en general, los habitantes del territorio nacional y la competitividad del país, promoviendo la generación de valor público a través de la transformación digital del Estado, de manera proactiva, confiable, articulada y colaborativa entre los Grupos de Interés y permitir el ejercicio de los derechos de los usuarios del ciberespacio.
 
 PARÁGRAFO. Para efectos de la aplicación del presente capitulo, los Grupos de Interés de la Política de Gobierno Digital los conforman las entidades públicas, la academia, el sector privado, las organizaciones de la sociedad civil, los ciudadanos y, en general, los habitantes del territorio nacional.
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.2 — Ámbito de aplicación
 
 Los sujetos obligados a las disposiciones contenidas en el presente capítulo serán las entidades que conforman la administración pública en los términos del Artículo 39 de la Ley 489 de 1998 y los particulares que cumplen funciones administrativas.
 
 PARÁGRAFO. La implementación de la Política de Gobierno Digital en las ramas legislativa y judicial, en los órganos de control, en los autónomos e independientes y demás organismos del Estado, se realizará bajo un esquema de coordinación y colaboración armónica en aplicación de los principios señalados en los Artículos 113 y 209 de la Constitución Política.
-
-ARTÍCULO
 
 ## art:2.2.9.1.1.3 — Principios
 
@@ -7316,8 +6782,6 @@ SECCIÓN 1
 
 OBJETO, ÁMBITO DE APLICACIÓN Y PRINCIPIOS
 
-ARTÍCULO
-
 ## art:2.2.9.1.2.1 — Estructura
 
 La Política de Gobierno Digital se desarrollará a través de un esquema que articula los elementos que la componen, a saber: gobernanza, innovación pública digital, habilitadores, líneas de acción, e iniciativas dinamizadoras, con el fin de lograr su objetivo, entendidos así:
@@ -7353,8 +6817,6 @@ Los sujetos obligados deberán articular su orientación estratégica, su modelo
 5.1. Proyectos de Transformación Digital: Comprende aquellos proyectos que implementarán los sujetos obligados para aportar a la generación de valor público mediante el aprovechamiento de las capacidades que brindan el uso y la apropiación de las Tecnologías de la Información y las Comunicaciones y así alcanzar los objetivos estratégicos institucionales. Los proyectos de Transformación Digital deberán estar integrados al Plan Estratégico de Tecnología y Sistemas de Información (PETI).
 
 5.2. Estrategias de Ciudades y Territorios Inteligentes: Las entidades territoriales podrán desarrollar estrategias de ciudades y territorios inteligentes, a través del uso de tecnologías de la información y las comunicaciones, como herramientas de transformación social, económica y ambiental de los territorios.
-
-ARTÍCULO
 
 ## art:2.2.9.1.2.2 — Lineamientos, Guías y Estándares
 
@@ -7392,25 +6854,17 @@ SECCIÓN 2
 
 ELEMENTOS DE LA POLITÍCA DE GOBIERNO DIGITAL
 
-ARTÍCULO
-
 ## art:2.2.9.1.3.1 — Líder de la Política de Gobierno Digital
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones liderará la Política de Gobierno Digital, en articulación con las demás entidades del Modelo Integrado de Planeación y Gestión cuando las temáticas o funciones misionales lo requieran, impulsando el uso y la masificación de las Tecnologías de la Información y Comunicaciones, como herramienta dinamizadora del desarrollo social y económico del territorio nacional.
-
-ARTÍCULO
 
 ## art:2.2.9.1.3.2 — Responsable Institucional de la Política de Gobierno Digital
 
 El representante legal de cada sujeto obligado, o quien haga sus veces, será el responsable de coordinar, adoptar, implementar y hacer seguimiento y verificación de la implementación de la Política de Gobierno Digital en su respectiva Entidad.
 
-ARTÍCULO
-
 ## art:2.2.9.1.3.3 — Responsable de orientar la implementación de la Política de Gobierno Digital
 
 El Director, Jefe de Oficina o Coordinador de Tecnologías y Sistemas de la Información y las Comunicaciones, o quien haga sus veces, del respectivo sujeto obligado, tendrá la responsabilidad de liderar la implementación y la mejora continua de la Política de Gobierno Digital. Las demás áreas de la entidad serán corresponsables de la implementación de la Política de Gobierno Digital en los temas de su competencia.
-
-ARTÍCULO
 
 ## art:2.2.9.1.3.4 — Responsable de liderar la implementación la Política de Gobierno Digital
 
@@ -7432,8 +6886,6 @@ SECCIÓN 3
 
 INSTITUCIONALIDAD
 
-ARTÍCULO
-
 ## art:2.2.9.1.4.1 — Seguimiento y Evaluación
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones adelantará el seguimiento a la implementación de la Política de Gobierno Digital, con la periodicidad y criterios de medición definidos por el Consejo para la Gestión y Desempeño institucional, o quien haga sus veces, en el marco de la operación estadística de Medición del Desempeño Institucional, o la que se defina en su lugar, y cuya fuente de datos es el Formulario Único de Reporte de Avance en la Gestión - FURAG.
@@ -7443,8 +6895,6 @@ Para tal efecto, los sujetos obligados deberán suministrar la información que 
 PARÁGRAFO 1. El seguimiento y la evaluación del avance de la Política de Gobierno Digital se realizará con un enfoque de mejoramiento continuo, en armonía con lo establecido en el Artículo 2.2.9.1.2.4. del presente Decreto.
 
 PARÁGRAFO 2. Cuando los organismos que ejercen actividades de inspección, vigilancia y control soliciten informes sobre el grado de implementación de la Política de Gobierno Digital por parte de los sujetos obligados, el Ministerio de Tecnologías de la Información y las Comunicaciones remitirá los resultados de la medición señalada en el inciso primero de este Artículo.
-
-ARTÍCULO
 
 ## art:2.2.9.1.4.2 — Mediciones y Estudios de Resultado y de Impacto
 
@@ -7461,8 +6911,6 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones realizará
  SECCIÓN 4
 
 SEGUIMIENTO Y EVALUACIÓN
-
-ARTÍCULO
 
 ## art:2.2.9.2.1 — Objeto y ámbito de aplicación
 
@@ -7585,8 +7033,6 @@ Sin perjuicio de la obligación de denuncia consagrada en la ley para todos los 
 CAPÍTULO 3
 
 MEDIDAS TÉCNICAS Y ADMINISTRATIVAS
-
-ARTÍCULO
 
 ## art:2.2.10.3.1 — Medidas Técnicas
 
@@ -7766,23 +7212,17 @@ SECCIÓN 1
 
 PRINCIPIOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.12.1.1.1 — Administración de los planes técnicos básicos
 
 La Comisión de Regulación de Comunicaciones deberá administrar los planes técnicos básicos, de conformidad con las disposiciones contenidas en este Título y siguiendo los principios de neutralidad, transparencia, igualdad, eficacia, publicidad, moralidad y promoción de la competencia con el fin de preservar y garantizar el uso adecuado de estos recursos técnicos.
 
 (Decreto 25 de 2002, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.12.1.1.2 — Publicidad de los planes técnicos básicos
 
 El contenido de los planes y el de los actos derivados de su gestión, incluidos los procedimientos de asignación, serán públicos, salvo en lo relativo a materias que puedan afectar la seguridad nacional.
 
 (Decreto 25 de 2002, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.12.1.1.3 — Costos de los planes técnicos básicos
 
@@ -7796,15 +7236,11 @@ SECCIÓN 2
 
 PLAN NACIONAL DE NUMERACIÓN, PLAN NACIONAL DE MARCACIÓN Y PLAN NACIONAL DE SEÑALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.1 — Plan nacional de numeración y marcación
 
 Adóptese el plan nacional de numeración y el plan nacional de marcación que están contenidos en el Capítulo 2 "Planes técnicos básicos", del presente Título.
 
 (Decreto 25 de 2002, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.12.1.2.2 — Derecho a la asignación de numeración
 
@@ -7812,23 +7248,17 @@ Podrá asignarse numeración a todos los proveedores de redes y servicios de tel
 
 (Decreto 25 de 2002, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.3 — Asignación de numeración
 
 La Comisión de Regulación de Comunicaciones asignará números a proveedores de redes y servicios de telecomunicaciones legalmente habilitados que lo hayan solicitado, a través del formato de solicitud que la Comisión de Regulación de Comunicaciones defina.
 
 (Decreto 25 de 2002, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.4 — Recuperación de numeración
 
 La Comisión de Regulación de Comunicaciones podrá recuperar la numeración asignada a un operador cuando así lo requiera, y establezca que la misma no está siendo utilizada en forma eficiente. El proveedor de redes y servicios de telecomunicaciones que no utilice eficientemente la numeración asignada en el término de dos años después de su asignación, deberá pagar una multa al Fondo de Tecnologías de la Información y las Comunicaciones por el uso ineficiente de los recursos públicos de numeración, equivalente a doscientos sesenta y tres coma trece l263, 13) UVT por cada bloque de mil números recuperado o fracción.
 
 (Artículo MODIFICADO por el Art. 24 del Decreto 2640 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.12.1.2.5 — Naturaleza de la numeración
 
@@ -7838,23 +7268,17 @@ Los recursos asignados no podrán ser transferidos por los proveedores de redes 
 
 (Decreto 25 de 2002, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.6 — Inicio de operaciones
 
 Las centrales de conmutación de las redes que integran la Red de Telecomunicaciones del Estado, deberán iniciar operaciones el 10 de junio de 2002 en lo referente a numeración no geográfica. En lo referente a la numeración geográfica, el Ministerio de Tecnologías de la Información y de las Comunicaciones definirá las fechas para el inicio de operaciones, según las necesidades del sector y del país, y de acuerdo con el esquema del presente decreto.
 
 (Decreto 25 de 2002, art. 9, modificado por el art. 1 del Decreto 2455 de 2003)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.7 — Neutralidad
 
 Los proveedores de redes y servicios de telecomunicaciones no podrán hacer alusión a un proveedor de telefonía de larga distancia o inducir a la marcación del prefijo de cualquiera de estos proveedores, en las grabaciones que se utilicen para instruir al usuario sobre la nueva marcación.
 
 (Decreto 25 de 2002, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.12.1.2.8 — Numeración en reserva
 
@@ -7864,8 +7288,6 @@ La numeración que resulte de combinaciones no contempladas en la estructura est
 
 (Decreto 25 de 2002, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.9 — Numeración para otros servicios de telecomunicaciones
 
 La Comisión de Regulación de Comunicaciones definirá la regulación referente a las recomendaciones UIT-T E.212 "plan de identificación de estaciones móviles terrestres" y UIT-T X.121 "plan de numeración internacional para redes públicas de datos", de la Unión Internacional de Telecomunicaciones, así como los códigos definidos en el Foro internacional en tecnología de estándares ANSl-41 (International Forum on ANSl-41 Standards Technology-IFAST) para la itinerancia "roaming" internacional y otros planes y/o recursos numéricos existentes o que se establezcan en el futuro.
@@ -7874,8 +7296,6 @@ La administración de los recursos de numeración de usuarios, redes y servicios
 
 (Decreto 25 de 2002, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.10 — Administración de los códigos de los puntos de señalización
 
 La Comisión de Regulación de Comunicaciones es la entidad encargada de asignar los códigos de puntos de señalización de los puntos de interconexión, los códigos de puntos de señalización internacionales, los códigos de puntos de señalización de centrales en la frontera entre la red e-e señalización internacional y las redes de señalización nacionales y los códigos de puntos de señalización de los proveedores de redes y servicios de telecomunicaciones que no opten por la separación de su red que utilicen la norma de señalización por canal común número 7, así como los códigos de cualquier otro sistema de señalización necesario para el funcionamiento de las redes de telecomunicaciones,
@@ -7883,8 +7303,6 @@ La Comisión de Regulación de Comunicaciones es la entidad encargada de asignar
 Para efectos de la administración, la Comisión de Regulación de Comunicaciones llevará el registro de códigos de puntos de señalizaciones nacionales e internacionales y la información relacionada que considere relevante, en un documento denominado "mapa de señalización".
 
 (Decreto 25 de 2002, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.12.1.2.11 — Asignación de los códigos de los puntos de señalización
 
@@ -7912,8 +7330,6 @@ La asignación de códigos de puntos de señalización a los proveedores de rede
 
 (Decreto 25 de 2002, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.12 — Códigos de zona/red de señalización
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones solicitará a la Unión Internacional de Telecomunicaciones los códigos de zona/red de señalización (SANC) que se requieran y comunicará los códigos de puntos de señalización internacionales que asigne.
@@ -7928,8 +7344,6 @@ SECCIÓN 1
 
 PLAN NACIONAL DE NUMERACIÓN
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.1 — Objeto del plan nacional de numeración
 
 El presente plan establece una estructura de numeración uniforme que permite balancear su uso entre operadores y servicios, para que los abonados de la red de telecomunicaciones del Estado tengan acceso a los servicios prestados.
@@ -7938,15 +7352,11 @@ El objetivo primordial del presente plan es proveer el recurso numérico necesar
 
 (Decreto 25 de 2002, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.2 — Recurso numérico
 
 El recurso numérico tiene un carácter limitado, que lo constituye en un recurso escaso que debe ser administrado de manera eficiente, asegurando a los proveedores de redes y servicios de telecomunicaciones su disponibilidad y suficiencia a largo plazo para la prestación eficaz y adecuada de los servicios ofrecidos.
 
 (Decreto 25 de 2002, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.3 — Estructura de la numeración
 
@@ -7958,15 +7368,11 @@ Adicionalmente se define una numeración que hace uso de los símbolos * y #, de
 
 (Decreto 25 de 2002, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.4 — Estructura del número
 
 El número internacional se compone del indicativo de país (CC) y del número nacional (significativo) [N(S)N], con una longitud total de 12 dígitos (figura 1).
 
 (Decreto 25 de 2002, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.5 — Indicativo de país (CC)
 
@@ -7974,15 +7380,11 @@ Corresponde a la combinación de una, dos o tres cifras, que identifica cada pa�
 
 (Decreto 25 de 2002, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.6 — Número nacional (significativo) [N(S)N]
 
 Es el número que sigue al indicativo de país. El número nacional (significativo) se compone del indicativo nacional de destino (NDC), seguido por el número de abonado (SN). Su función es seleccionar el abonado de destino en regiones geográficas o no geográficas.
 
 (Decreto 25 de 2002, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.7 — Indicativo nacional de destino (NDC)
 
@@ -8012,15 +7414,11 @@ La Comisión de Regulación de Comunicaciones podrá definir otras categorías, 
 
 (Decreto 25 de 2002, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.8 — Número de abonado (SN)
 
 Es el número que identifica un abonado en una región geográfica, red, telecomunicaciones personales universales (UPT) o servicio. Su longitud es de siete dígitos. Se reserva la numeración que comienza por el dígito 1 para la numeración de servicios especiales (marcación 1XY), contemplada en el artículo 2.2.12.2.1.14. del presente Decreto.
 
 (Decreto 25 de 2002, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.9 — Numeración geográfica
 
@@ -8028,15 +7426,11 @@ Es el conjunto de los números nacionales (significativos) conformados por indic
 
 (Decreto 25 de 2002. art. 24)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.10 — Numeración no geográfica
 
 La numeración no geográfica la constituye el conjunto de los números nacionales (significativos) conformados por indicativos nacionales de destino no asociados a regiones geográficas para uso de redes, telecomunicaciones personales universales (UPT) o servicios.
 
 (Decreto 25 de 2002, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.11 — Numeración para redes
 
@@ -8044,15 +7438,11 @@ La numeración para redes la constituye el conjunto de los números nacionales (
 
 (Decreto 25 de 2002, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.12 — Numeración para telecomunicaciones personales universales (UPT)
 
 Esta numeración la constituye el conjunto de los números nacionales (significativos) conformados por indicativos nacionales de destino asociados a telecomunicaciones personales universales (UPT), definida en la recomendación de la Unión Internacional de Telecomunicaciones UIT-T E.168 y sus posteriores modificaciones y/o actualizaciones.
 
 (Decreto 25 de 2002, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.13 — Numeración para servicios
 
@@ -8061,8 +7451,6 @@ La numeración para servicios la constituye el conjunto de los números nacional
 El código 800 se define para los servicios de cobro revertido automático, lo que permite incorporar dichos números dentro del esquema internacional definido en la recomendación de la Unión Internacional de Telecomunicaciones UIT-T E.169 "Universal international Free phone Number (UIFN)".
 
 (Decreto 25 de 2002, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.14 — Numeración de servicios semiautomáticos y especiales (marcación 1XY)
 
@@ -8084,8 +7472,6 @@ Las administraciones telefónicas deberán ajustarse al esquema de numeración i
 
 (Decreto 25 de 2002, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.15 — Numeración para el acceso a servicios suplementarios
 
 La numeración de servicios suplementarios a los que se refiere la recomendación de la Unión Internacional de Telecomunicaciones UIT-T E.131, está destinada a proveer a los usuarios los recursos necesarios para el acceso y control de dichos servicios en la Red de Telecomunicaciones del Estado, a la vez que establece un plan de procedimientos de control uniforme.
@@ -8096,15 +7482,11 @@ No se podrá hacer uso de ningún tipo de numeración o código (entendido este 
 
 (Decreto 25 de 2002, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.16 — Prefijos
 
 Un prefijo es un indicador compuesto por una o más cifras que permite el acceso a abonados en diferentes clases de numeración.
 
 (Decreto 25 de 2002, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.17 — Prefijos de larga distancia
 
@@ -8118,15 +7500,11 @@ PARÁGRAFO 2. Prefijos de larga distancia internacional. Los prefijos para el ac
 
 (Decreto 25 de 2002, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.18 — Prefijo de redes móviles
 
 El prefijo 03 se utiliza para el acceso a los abonados de las redes móviles desde regiones geográficas y otras redes, y para el acceso a los abonados de regiones geográficas y otras redes desde las redes móviles.
 
 (Decreto 25 de 2002, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.12.2.1.19 — Prefijo universal de acceso
 
@@ -8138,8 +7516,6 @@ También podrá ser utilizado para el acceso entre redes y, en general, para el 
 
 (Decreto 25 de 2002, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1.20 — Otros prefijos
 
 Los prefijos 02, 002, 003, 04, 004, 06, 006, 08 y 008 quedan en reserva para su posterior definición por la Comisión de Regulación de Comunicaciones.
@@ -8150,8 +7526,6 @@ SECCIÓN 2
 
 PLAN DE MARCACIÓN
 
-ARTÍCULO
-
 ## art:2.2.12.2.2.1 — Marcación para llamadas dentro del mismo indicativo nacional de destino (NDC)
 
 Para el acceso a abonados en el servicio de telefonía local a abonados en la misma red y, en general, a abonados en regiones geográficas o no geográficas con igual indicativo nacional de destino (NDC), se marcará el número de abonado sin necesidad de ningún prefijo o código adicional, de conformidad con el régimen de prestación de cada servicio. Así mismo la Comisión de Regulación de Comunicaciones podrá autorizar la marcación del número nacional (significativo) [N(S)N] sin necesidad de ningún prefijo o código adicional, siempre que las condiciones así lo permitan, para lo cual realizará un estudio previo evaluando la reglamentación de los servicios involucrados.
@@ -8159,8 +7533,6 @@ Para el acceso a abonados en el servicio de telefonía local a abonados en la mi
 Para el caso del servicio de telefonía local extendida en regiones geográficas con igual indicativo nacional de destino (NDC), se marcará el prefijo correspondiente seguido del número nacional (significativo) [N(S)N] del abonado de destino.
 
 (Decreto 25 de 2002, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.12.2.2.2 — Marcación para llamadas hacia otro indicativo nacional de destino (NDC)
 
@@ -8170,8 +7542,6 @@ En caso de asignarse más de un indicativo nacional de destino (NDC) a una regi�
 
 (Decreto 25 de 2002. art. 37)
 
-ARTÍCULO
-
 ## art:2.2.12.2.2.3 — Marcación de larga distancia nacional e internacional
 
 Para el acceso a los abonados dentro del país en el servicio de larga distancia nacional, se marcará el prefijo de larga distancia nacional del operador seleccionado y el número nacional (significativo) N(S)N correspondiente al abonado de destino.
@@ -8179,8 +7549,6 @@ Para el acceso a los abonados dentro del país en el servicio de larga distancia
 Para el acceso a los abonados de otro país en el servicio de larga distancia internacional se marcará el prefijo de larga distancia internacional del proveedor seleccionado y el número internacional, es decir, el código del país de destino y el número nacional (significativo) N(S)N correspondiente al abonado de destino.
 
 (Decreto 25 de 2002, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.12.2.2.4 — Marcación para servicios semiautomáticos y especiales (esquema 1XY) y servicios suplementarios
 
@@ -8191,8 +7559,6 @@ Para acceder a los servicios semiautomáticos y especiales, esquema 1XY, se marc
 SECCIÓN 3
 
 PORTABILIDAD NUMÉRICA
-
-ARTÍCULO
 
 ## art:2.2.12.2.3.1 — Portabilidad numérica
 
@@ -9170,8 +8536,6 @@ SECCIÓN 1
 
 GENERALIDADES DE LOS SERVICIOS CIUDADANOS DIGITALES
 
-ARTÍCULO
-
 ## art:2.2.17.2.1.1 — Servicios ciudadanos digitales
 
 Los servicios ciudadanos digitales se clasifican en servicios base y servicios especiales.
@@ -9190,13 +8554,9 @@ SECCIÓN 2
 
 ACCESO, PRESTACIÓN Y CONDICIONES PARA LOS PRESTADORES DE SERVICIO, ACUERDOS ENTRE LOS ACTORES
 
-ARTÍCULO
-
 ## art:2.2.17.2.2.1 — Acceso a los servicios ciudadanos digitales base
 
 El Gobierno Nacional garantizará el acceso a los servicios ciudadanos digitales base a través del Articulador, o de iniciativas coordinadas por éste.
-
-ARTÍCULO
 
 ## art:2.2.17.2.2.2 — Prestación del servicio ciudadano digital de interoperabilidad
 
@@ -9204,23 +8564,17 @@ El servicio de interoperabilidad para las entidades del Estado será prestado de
 
 Los prestadores de servicios ciudadanos digitales podrán conectarse con la plataforma de interoperabilidad del Estado, de conformidad con las condiciones que para tal efecto defina el Ministerio de Tecnologías de la Información y las Comunicaciones.
 
-ARTÍCULO
-
 ## art:2.2.17.2.2.3 — Prestación de los servicios ciudadanos digitales de autenticación digital y carpeta ciudadana digital
 
 El servicio ciudadano de carpeta ciudadana digital será prestado por el Articulador y por los prestadores de servicios ciudadanos digitales que se encuentren conectados con la plataforma de interoperabilidad del Estado, de conformidad con las condiciones que para tal efecto defina el Ministerio de Tecnologías de la Información y las Comunicaciones.
 
 El servicio ciudadano digital de autenticación digital será prestado de conformidad con las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen, siguiendo los lineamientos que para tal efecto señale el Ministerio de Tecnologías de la Información y las Comunicaciones en el marco de sus competencias.
 
-ARTÍCULO
-
 ## art:2.2.17.2.2.4 — Condiciones mínimas para el servicio de autenticación digital
 
 Para la prestación del servicio de autenticación digital se deberán atender las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen.
 
 PARÁGRAFO . El Ministerio de Tecnologías de la Información y las Comunicaciones, establecerá las condiciones mínimas para el servicio de carpeta ciudadana digital e interoperabilidad.
-
-ARTÍCULO
 
 ## art:2.2.17.2.2.5 — Vinculación a los servicios ciudadanos digitales
 
@@ -9894,13 +9248,13 @@ PARÁGRAFO 1. Sin perjuicio del cumplimiento de los plazos establecidos en norma
 
 PARÁGRAFO 2. Los plazos para la implementación de la estampilla electrónica serán los establecidos en el artículo 13 de la Ley 2052 de 2020.
 
-## art:2.2.20.8 — 7rámites que no puedan digitalizarse o automatizarse en su totalidad
+## art:2.2.20.8.7 — rámites que no puedan digitalizarse o automatizarse en su totalidad
 
 Aquellos trámites que por su naturaleza no puedan digitalizarse o automatizarse totalmente, se entenderá que cumplen con la obligación del artículo 5 de la Ley 2052 de 2020 cuando se encuentren digitalizados y automatizados todos los pasos que sean susceptibles de ello. Corresponderá a cada autoridad reportar dicha cuestión.
 
 Las autoridades podrán transformar o migrar el resultado o los requisitos de trámites de otras entidades a través del servicio ciudadano de interoperabilidad, cuando la naturaleza del mismo lo permita.
 
-## art:2.2.20.9 — 7rámites nuevos
+## art:2.2.20.9.7 — rámites nuevos
 
 Cuando las autoridades pretendan crear nuevos trámites, el Departamento Administrativo de la Función Pública, en el marco del proceso de aprobación de trámites creados o autorizados por la Iey, solicitará a la autoridad responsable del trámite garantizar el cumplimiento del artículo 6 de la Ley 2052 de 2020 para el momento de la implementación de este.
 
@@ -10343,6 +9697,52 @@ Para la interpretación del presente título, las expresiones aquí utilizadas d
 3.1 Transformación Digital: Corresponde al proceso de explotación de tecnologías digitales que tiene la capacidad de crear nuevas formas de hacer las cosas en todos los sectores de la administración pública, generando nuevos modelos de desarrollo, procesos y la creación de productos y servicios, que a su vez produces valor, principalmente a través de la digitalización que representa la conversión de datos y procesos análogos hacia formatos que pueden ser entendidos y procesados por máquinas.
 
 3.2 Inteligencia artificial: Corresponde a un campo de la informática dedicado a resolver problemas cognitivos comúnmente asociados con la inteligencia humana o seres inteligentes, entendidos como aquellos que pueden adaptarse a situaciones cambiantes. Su base es el desarrollo de sistemas informáticos, la disponibilidad de datos y los algoritmos.
+
+## art:2.2 — ,23.1.4
+
+Lineamientos y Estándares para la Transformación Digital c/e la Administración Pública. Los sujetos obligados desarrollarán iniciativas dinamizadoras de proyectos de Transformación Digital para aportar a la generación de valor público mediante el aprovechamiento de las capacidades que brindan el uso y la apropiación de las Tecnologías de la Información y las Comunicaciones y así alcanzar los objetivos estratégicos institucionales. Para tal efecto, los sujetos obligados tendrán en cuenta los siguientes lineamientos y estándares:
+
+4.1. Uso de la infraestructura de datos. Los sujetos obligados propenderán por el uso y aprovechamiento de la infraestructura de datos, dando cumplimiento al Plan Nacional de Infraestructura de Datos, la línea de acción de decisiones basadas en datos, el habilitador de seguridad y privacidad de la información y en general, todos los elementos que componen la Política de Gobierno Digital y sus lineamientos, guías y estándares, así como las normas en materia de tratamiento de datos personales.
+
+4.2. Interoperabilidad. Los sujetos obligados garantizarán la interoperabilidad entre los sistemas de información públicos para suministro e intercambio de la información de manera ágil y eficiente conforme a los principios señalados en la Ley 1581 de 2012, o la norma que la modifique, adicione o sustituya.
+
+4.3. Proyectos relacionados con digitalización y automatización de trámites, servicios y procesos y vinculación al Portal Único del Estado Colombiano: Se deberá propender por el uso de mecanismos tendientes a la digitalización y automatización de trámites, servicios y procesos, permitiendo el uso de medios de pago electrónicos cuando aplique y dando cumplimiento a las disposiciones del Título 20 de la Parte 2 del Libro 2 del Decreto 1078 de 2015, o la norma que la modifique, adicione o sustituya, a su integración al Portal Único del Estado Colombiano de conformidad con las disposiciones establecidas en la Resolución 2893 de 2020, o la norma que la modifique, adicione o sustituya, a la línea de acción de servicios y procesos inteligentes de la Política de Gobierno Digital, y en general, todos los elementos que componen la Política de Gobierno Digital y sus lineamientos, guías y estándares.
+
+4.4. Uso de mecanismos de agregación de demanda: Los sujetos obligados desarrollarán e implementarán iniciativas dinamizadoras de proyectos de transformación digital bajo criterios de eficiencia y generación de valor público, dando cumplimiento a la normatividad vigente. Para este fin, propenderán por incorporar instrumentos de agregación de demanda como acuerdos marco de precios vigentes u otros mecanismos que para el efecto hayan sido establecidos por la Agencia Nacional de Contratación Pública Colombia Compra Eficiente o la modalidad de contratación contenida en el Estatuto de Contratación Pública y en el marco de la Política de Compras y Contratación Pública.
+
+4.5. Uso de servicios en la nube: Los sujetos obligados evaluarán la pertinencia de elaborar planes de implementación, migración y uso de servicios de nube, en armonía con el principio de neutralidad tecnológica y de conformidad con los lineamientos, guías y estándares de la Política de Gobierno Digital y normativa aplicable en materia de reglamentación de servicios en la nube. Para tal efecto, tendrán en cuenta los siguientes elementos:
+
+4.5.1. Siempre que se inicie un nuevo proceso o servicio deberán evaluar técnicamente la pertinencia de implementarlo en la nube.
+
+4.5.2. Los servicios en la nube crecerán o decrecerán en cualquier momento, con el fin de ajustar la capacidad requerida y responder adecuadamente a la demanda de los usuarios.
+
+4.5.3. Usar servicios de nube que permitan la interoperabilidad con otras nubes o centros de cómputo locales.
+
+4.5.4. Para la adquisición de los diferentes servicios, se deberá tomar como primera opción, los acuerdos marco de precios de nube disponibles en la Tienda Virtual del Estado Colombiano.
+
+4.5.5. Se propenderá por adelantar el desarrollo de los proyectos de inteligencia artificial en el marco de la coordinación interinstitucional y en apoyo a la cooperación internacional que surja en la materia, cuando aplique.
+
+4.6. Planeación institucional. Los sujetos obligados realizarán acciones tendientes para que los proyectos de Transformación Digital se integren a los planes institucionales y estratégicos, incluyendo el Plan Estratégico de Tecnología y Sistemas de Información (PETI), y los demás instrumentos de planeación estratégica de Tecnologías de la Información en el marco de la Política de Gobierno Digital.
+
+4.7. Sandbox regulatorios. Los sujetos obligados realizarán acciones tendientes al uso de mecanismos exploratorios de regulación para retos regulatorios que se presente en los proyectos de trasformación digital, de acuerdo con la normativa aplicable.
+
+4.8. Inteligencia Artificial: Los sujetos obligados evaluarán la pertinencia del uso de inteligencia artificial para la eficiencia operativa y mejora en la prestación de servicios del Estado, en armonía con el principio de prospectiva tecnológica y la innovación pública digital como elemento transversal de la Política de Gobierno Digital, y en general, todos los elementos que componen la Política de Gobierno Digital y sus lineamientos, guías y estándares. Para tal efecto, la implementación de los proyectos de inteligencia artificial, contemplarán los siguientes aspectos:
+
+4.8.1. Formular y desarrollar proyectos de inteligencia artificial que respondan a las necesidades institucionales, teniendo en cuenta las recomendaciones y principios éticos que en la materia emitan las autoridades competentes.
+
+4.8.2. Realizar un análisis de riesgo durante la implementación y gestión de proyectos de inteligencia artificial.
+
+4.8.3. Documentar los procesos y las decisiones adoptadas durante el ciclo de vida del sistema de inteligencia artificial, teniendo en cuenta los lineamientos, guías y estándares sobre la materia emitan las autoridades competentes.
+
+4.8.4. Adelantar programas de capacitación para el desarrollo de competencias necesarias para el diseño e implementación de sistemas de inteligencia artificial en cada entidad.
+
+4.8.5. Promover el uso de portales abiertos de datos del Estado durante la implementación y gestión de proyectos de inteligencia artificial.
+
+4.8.6. Presentar sobre los avances en las iniciativas y proyectos de inteligencia artificial, en el marco de los informes de rendición de cuentas.
+
+4.8.7. El Gobierno Nacional dispondrá un tablero de seguimiento de proyectos de inteligencia artificial, y definirá las condiciones para su implementación.
+
+Los proyectos de inteligencia artificial propenderán por desarrollar planes de participación ciudadana, y en particular el involucramiento de los grupos de interés de la Política de Gobierno Digital.
 
 ## art:2.2.23.1.5 — Tecnologías emergentes para la transformación digital pública
 
@@ -11315,9 +10715,7 @@ TERRITORIO NACIONAL”
 
 El presente Título tiene por objeto reglamentar el procedimiento único para el despliegue de redes e infraestructura de telecomunicaciones en el territorio nacional de que trata el artículo 193 de la Ley 1753 de 2015, modificado por el artículo 147 de la Ley 2294 de 2023.
 
-## art:2 — Ámbito de aplicación
-
-Las disposiciones del presente Título aplican a las entidades territoriales, los proveedores de redes y servicios de telecomunicaciones y los proveedores de infraestructura de telecomunicaciones.
+ARTÍCULO 2 Ámbito de aplicación. Las disposiciones del presente Título aplican a las entidades territoriales, los proveedores de redes y servicios de telecomunicaciones y los proveedores de infraestructura de telecomunicaciones.
 
 ## art:2.2.30.3 — Definiciones
 
@@ -11488,91 +10886,3 @@ Dado en Bogotá D.C, a los 26 días del mes de mayo del año 2015
 MARÍA CAROLINA HOYOS TURBAY
 
 LA VICEMINISTRA GENERA ENCARGADA DE LAS FUNCIONES DEL DESPACHO DEL MINISTRO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

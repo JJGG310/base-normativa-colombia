@@ -7,7 +7,7 @@ ramas: [educacion, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77913
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Educación Nacional
@@ -40,15 +40,11 @@ TÍTULO 2
 
 FONDOS ESPECIALES
 
-ARTÍCULO
-
 ## art:1.1.2.1 — Fondo Nacional de Prestaciones Sociales del Magisterio
 
 Cuenta especial de la Nación, con independencia patrimonial, contable y estadística, sin personería jurídica, cuyo objeto principal es atender las prestaciones sociales de los docentes.
 
 (Ley 91 de 1989, artículos 3 y 4).
-
-ARTÍCULO
 
 ## art:1.1.2.2 — Fondo Especial de Créditos Educativos para Estudiantes de las Comunidades Negras
 
@@ -56,15 +52,11 @@ Administrado por el ICETEX, está dirigido a estudiantes de las Comunidades Negr
 
 (Decreto 1627 de 1996, artículo 1).
 
-ARTÍCULO
-
 ## art:1.1.2.3 — Fondo Nacional de las Universidades Estatales de Colombia
 
 Cuenta especial sin personería jurídica y con destinación específica, manejada por el Ministerio de Educación Nacional, con independencia patrimonial, administrativa, contable y estadística con fines de interés público y asistencia social para recaudar y administrar los recursos provenientes de la Estampilla Pro Universidad Nacional de Colombia y demás universidades estatales de Colombia.
 
 (Ley 1697 de 2013, artículo 10).
-
-ARTÍCULO
 
 ## art:1.1.2.4 — Fondo de Financiamiento de la Infraestructura Educativa - FFIE
 
@@ -86,15 +78,11 @@ Capítulo, adicionado por el Art. 3 del Decreto 1346 de 2020
 
 FONDO DE FOMENTO DE LA EDUCACIÓN SUPERIOR PARA VETERANOS
 
-ARTÍCULO
-
 ## art:1.1.2.1.1 — Objeto
 
 El presente capitulo tiene por objeto reglamentar el Fondo de Fomento de la Educación Superior para Veteranos de la Fuerza Pública o a un integrante de su núcleo familiar a falta de este, y definir las condiciones generales para el otorgamiento de los créditos educativos condonables de que tratan los artículos 13 y 14 de la Ley 1979 de 2019.
 
 (Adicionado por el Art. 3 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:1.1.2.1.2 — Beneficiarios
 
@@ -116,8 +104,6 @@ PARÁGRAFO 2. La población beneficiaria de lo contemplado en la Ley 1699 de 201
 
 (Adicionado por el Art. 3 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:1.1.2.1.3 — Rubros a financiar
 
 El crédito educativo condenable se otorgará para apoyar el acceso y permanencia en la educación superior, financiando los siguientes rubros, conforme a los montos que la Junta Administradora defina:
@@ -136,15 +122,11 @@ PARÁGRAFO 2. El estudiante perderá los beneficios del crédito educativo condo
 
 (Adicionado por el Art. 3 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:1.1.2.1.4 — Transferencia de los recursos
 
 El Ministerio de Defensa Nacional y el Ministerio de Educación Nacional, mediante el correspondiente acto administrativo, transferirán al ICETEX los recursos financieros necesarios para el financiamiento del Fondo de Fomento de la Educación Superior para Veteranos, de conformidad con lo dispuesto en el artículo 114 de la Ley 30 de 1992, modificada por el artículo 27 de la Ley 1450 de 2011 o demás normas que lo modifiquen, sustituyan o adicionen.
 
 (Adicionado por el Art. 3 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:1.1.2.1.5 — Junta Administradora del Fondo de Fomento de la Educación Superior para los Veteranos
 
@@ -157,8 +139,6 @@ El Fondo de Fomento de la Educación Superior para Veteranos tendrá una Junta A
 3. El Vicepresidente de Fondos del ICETEX o su designado, quien tendrá voz pero no voto.
 
 (Adicionado por el Art. 3 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:1.1.2.1.6 — Funciones de la Junta Administradora del Fondo de Fomento de la Educación Superior para Veteranos
 
@@ -189,8 +169,6 @@ La Junta Administradora del Fondo de Fomento de la Educación Superior para Vete
 12. Las demás que se consideren pertinentes para el logro de los objetivos del Fondo.
 
 (Adicionado por el Art. 3 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:1.1.2.1.7 — Condonación de los créditos educativos
 
@@ -418,8 +396,6 @@ TÍTULO 3
 
 ÓRGANOS DE ASESORÍA Y COORDINACIÓN SECTORIAL.
 
-ARTÍCULO
-
 ## art:1.1.3.1 — Consejo Nacional de Educación Superior - CESU
 
 El CESU, creado por el artículo 34 de la Ley 30 de 1992, es un organismo permanente vinculado al Ministerio de Educación Nacional que tiene como objeto proponer al Gobierno Nacional políticas y planes para la marcha de la educación superior y la reglamentación y procedimientos para:
@@ -446,15 +422,11 @@ El CESU, creado por el artículo 34 de la Ley 30 de 1992, es un organismo perman
 
 (Ley 30 de 1992, artículo 36)
 
-ARTÍCULO
-
 ## art:1.1.3.2 — Consejo Nacional de Acreditación - CNA
 
 El CNA, creado por el artículo 54 de la Ley 30 de 1992, es un organismo cuya función esencial es la de promover y ejecutar la política de acreditación adoptada por el Gobierno Nacional con el asesoramiento del CESU, y coordinar los respectivos procesos; por consiguiente, orienta a las instituciones de educación superior para que adelanten su autoevaluación; adopta los criterios de calidad, instrumentos e indicadores técnicos que se aplican en la evaluación externa, designa los pares externos que la practican y hace la evaluación final.
 
 (Ley 30 de 1992, artículo 54).
-
-ARTÍCULO
 
 ## art:1.1.3.3 — Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la Educación - (Conaces)
 
@@ -462,15 +434,11 @@ Tiene como funciones la coordinación y orientación del aseguramiento de la cal
 
 (Decreto 5012 de 2009, artículos 4 y 43).
 
-ARTÍCULO
-
 ## art:1.1.3.4 — Comisión Pedagógica Nacional de Comunidades Negras
 
 La Comisión Pedagógica Nacional de Comunidades Negras tiene entre sus funciones la de asesorar la elaboración, formulación y ejecución de políticas de etnoeducación y la construcción de los currículos correspondientes para la prestación del servicio educativo, acorde con las necesidades, intereses o expectativas de las comunidades negras.
 
 (Decreto 5012 de 2009, artículo 4 y Decreto 2249 de 1995, artículo 4, numeral 1).
-
-ARTÍCULO
 
 ## art:1.1.3.5 — Comités Regionales de Educación Superior - CRES
 
@@ -484,15 +452,11 @@ Los CRES, creados por el artículo 133 de la Ley 30 de 1992, son organismos ases
 
 (Ley 30 de 1992, artículo 133).
 
-ARTÍCULO
-
 ## art:1.1.3.6 — Comisión Nacional de Trabajo y Concertación de la Educación para los Pueblos Indígenas
 
 La Comisión Nacional de Trabajo y Concertación de la Educación para los Pueblos Indígenas tiene como objeto la formulación, seguimiento y evaluación de las políticas públicas educativas, de manera concertada y basada en las necesidades educativas de los mismos, articulada a la construcción de la política pública integral de Estado para los Pueblos Indígenas.
 
 (Decreto 2406 de 2007, artículo 2).
-
-ARTÍCULO
 
 ## art:1.1.3.7 — Comisión Asesora del Ministerio de Educación Nacional para la enseñanza de la Historia de Colombia
 
@@ -504,23 +468,17 @@ TÍTULO 4
 
 JUNTAS, FOROS Y COMITÉS
 
-ARTÍCULO
-
 ## art:1.1.4.1 — Junta Nacional de Educación - JUNE-
 
 Órgano científico, con el carácter de consultor permanente del Ministerio de Educación Nacional, para la planeación y diseño de las políticas educativas del Estado.
 
 (Ley 115 de 1994, artículo 155 y Decreto 1581 de 1994).
 
-ARTÍCULO
-
 ## art:1.1.4.2 — Foro Educativo Nacional
 
 Tiene por finalidad reflexionar sobre el estado de la educación y hacer recomendaciones a las autoridades educativas para el mejoramiento y cobertura de la educación.
 
 (Ley 115 de 1994, artículo 164, y Decreto 1581 de 1994).
-
-ARTÍCULO
 
 ## art:1.1.4.3 — Comité Nacional de Convivencia Escolar
 
@@ -536,15 +494,11 @@ TÍTULO 1
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Instituto Nacional para Ciegos -INCI-
 
 El INCI tiene como objeto fundamental la organización, planeación y ejecución de las políticas orientadas a obtener la rehabilitación, integración educativa, laboral y social de los Limitados Visuales, el bienestar social y cultural de los mismos y la prevención de la ceguera.
 
 (Decreto 5012 de 2009, artículo 4, Decreto 1006 de 2004, artículo 2).
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Instituto Nacional para Sordos -INSOR-
 
@@ -552,23 +506,17 @@ El INSOR tiene como objeto fundamental promover, desde el sector educativo, el d
 
 (Decreto 5012 de 2009, artículo 4 y Decreto 2106 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Escuela Tecnológica Instituto Técnico Central
 
 Es un establecimiento público del orden nacional que cumple con funciones de docencia, investigación y proyección social.
 
 (Decreto 5012 de 2009, artículo 4 y Decreto 902 de 2013).
 
-ARTÍCULO
-
 ## art:1.2.1.4 — Instituto Nacional de Formación Técnica Profesional de San Andrés y Providencia
 
 Es un establecimiento público del orden nacional que cumple con funciones de docencia, investigación y proyección social.
 
 (Decreto 5012 de 2009, artículo 4).
-
-ARTÍCULO
 
 ## art:1.2.1.5 — Nacional de Formación Técnica Profesional de San Juan del César
 
@@ -578,8 +526,6 @@ Es un establecimiento público del orden nacional que cumple las funciones unive
 
 (Decreto 5012 de 2009, artículo 4).
 
-ARTÍCULO
-
 ## art:1.2.1.6 — Instituto Tolimense de Formación Técnica Profesional
 
 Es un establecimiento público del orden nacional que cumple las funciones universales de docencia, investigación y extensión propias de la educación superior.
@@ -587,8 +533,6 @@ Es un establecimiento público del orden nacional que cumple las funciones unive
 (Artículo 1 del Decreto 2269 de 2023)
 
 (Decreto 5012 de 2009, artículo 4).
-
-ARTÍCULO
 
 ## art:1.2.1.7 — Instituto Técnico Nacional de Comercio Simón Rodríguez
 
@@ -600,23 +544,17 @@ TÍTULO 2
 
 ENTIDADES VINCULADAS
 
-ARTÍCULO
-
 ## art:1.2.2.1 — Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior "Mariano Ospina Pérez" - ICETEX
 
 Tiene por objeto el fomento social de la educación superior, priorizando la población de bajos recursos económicos y aquella con mérito académico en todos los estratos a través de mecanismos financieros que hagan posible el acceso y la permanencia de las personas en la educación superior, la canalización y administración de recursos, becas y otros apoyos de carácter nacional e internacional, con recursos propios o de terceros. El ICETEX cumplirá su objeto con criterios de cobertura, calidad y pertinencia educativa, en condiciones de equidad territorial. Igualmente otorgará subsidios para el acceso y permanencia en la educación superior de los estudiantes de estratos 1, 2 y 3.
 
 (Ley 1002 de 2005, artículo 2).
 
-ARTÍCULO
-
 ## art:1.2.2.2 — Instituto Colombiano para la Evaluación de la Educación - ICFES
 
 Tiene por objeto ofrecer el servicio de evaluación de la educación en todos sus niveles y adelantar investigación sobre los factores que inciden en la calidad educativa, con la finalidad de ofrecer información para mejorar la calidad de la educación.
 
 (Ley 1324 de 2009, artículo 12).
-
-ARTÍCULO
 
 ## art:1.2.2.3 — Fondo de Desarrollo de la Educación Superior - FODESEP
 
@@ -636,13 +574,9 @@ TÍTULO 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este Decreto es compilar la normativa vigente expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para la cumplida ejecución de las leyes.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de aplicación
 
@@ -660,15 +594,11 @@ RACIONALIZACIÓN DE LA PARTICIPACIÓN DEL MINISTRO DE EDUCACIÓN
 
 O SU REPRESENTANTE O DELEGADO, EN JUNTAS Y CONSEJOS
 
-ARTÍCULO
-
 ## art:2.2.1.1 — Elección del presidente de juntas y consejos
 
 Las juntas o los consejos a los que se refiere el artículo 64 de la Ley 962 de 2005, cuya presidencia estaba asignada por disposición legal o reglamentaria al Ministro de Educación Nacional o a su representante o delegado, procederán a elegir de entre sus miembros, por períodos anuales, a quien deba en adelante presidir el respectivo consejo o junta, salvo en aquellos casos en los que por disposición expresa de la norma que regula el respectivo consejo o junta se disponga algo diferente.
 
 (Decreto 2588 de 2006, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.2 — De la función de ordenación del gasto
 
@@ -682,8 +612,6 @@ DISPOSICIONES FRENTE A ALGUNOS ESTABLECIMIENTOS EDUCATIVOS
 
 ADSCRITOS AL MINISTERIO DE EDUCACIÓN NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.2.1 — Ámbito de aplicación
 
 El presente Título se aplica a las entidades educativas, organizadas corno establecimientos públicos del orden nacional, adscritas al Ministerio de Educación Nacional.
@@ -692,21 +620,15 @@ PARÁGRAFO : Para los efectos previstos en este Título se entiende por entidade
 
 (Decreto 1052 de 2006, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.2.2 — Reconocimiento de autonomía
 
 El Ministerio de Educación Nacional, a partir de estudios técnicos que analicen la estructura, carácter académico, proyección y demás elementos a que se refiere la Ley 30 de 1992 para cada una de las entidades educativas organizadas como establecimientos públicos del orden nacional, adscritas a dicho Ministerio, notificará a cada uno de dichos establecimientos públicos su decisión sobre la procedencia del reconocimiento de su autonomía, o del traspaso al nivel descentralizado.
-
-ARTÍCULO
 
 ## art:2.2.2.3 — Descentralización
 
 Las entidades educativas organizadas como Establecimientos Públicos del orden nacional, adscritas al Ministerio de Educación Nacional, que no obtengan la viabilidad a la que se refiere el artículo precedente, deberán ser traspasadas del orden nacional al territorial correspondiente, conservando su personería jurídica y su patrimonio.
 
 (Decreto 1052 de 2006, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.2.4 — Procedimiento para la descentralización
 
@@ -720,8 +642,6 @@ PARÁGRAFO . Los establecimientos públicos en el orden territorial podrán cele
 
 (Decreto 1052 de 2006, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.2.5 — Plantas de personal
 
 Una vez efectuado el traspaso de la entidad educativa, la autoridad territorial competente deberá ajustar las plantas de personal administrativo y docente al régimen de nomenclatura y clasificación de empleos públicos correspondientes, de acuerdo con la normatividad vigente y expedir los actos administrativos correspondientes.
@@ -730,23 +650,17 @@ Los servidores públicos de las entidades educativas, incorporados en los empleo
 
 (Decreto 1052 de 2006, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.2.6 — Extinción de la adscripción
 
 Como efecto de la descentralización al orden territorial, el traspaso de las entidades educativas organizadas como establecimientos públicos a que se refiere este Título, extinguirá su adscripción al Ministerio de Educación Nacional.
 
 (Decreto 1052 de 2006, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.2.7 — Continuidad del servicio educativo
 
 Las autoridades territoriales garantizarán la continuidad del servicio educativo y adoptarán las decisiones a que haya lugar para cumplir con los fines de la descentralización, así como las demás normas que regulan la prestación del servicio público educativo.
 
 (Decreto 1052 de 2006, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.2.8 — Viabilidad financiera
 
@@ -756,15 +670,11 @@ Con el fin de asegurar la viabilidad financiera del establecimiento educativo, l
 
 (Decreto 1052 de 2006, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.2.9 — , Traspaso de derechos y obligaciones
 
 En cada caso, efectuado el traspaso que materialice la descentralización de que trata el presente Título, se entenderá igualmente traspasada, en cabeza de la entidad educativa, la titularidad sobre la totalidad de derechos y obligaciones que tenía el establecimiento público del orden Nacional, incluidos los registros de programas, instrumentos o actos de autorización, licencias o reconocimientos para la operación de la entidad educativa.
 
 (Decreto 1052 de 2006, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.2.10 — Obligaciones de los servidores
 
@@ -773,8 +683,6 @@ Los servidores públicos directivos, los que desempeñen empleos o cargos de man
 La entrega y conservación de bienes y archivos a su cargo, cuando sea del caso, se efectuará de conformidad con las normas y procedimientos establecidos por la Contraloría General de la República, la Contaduría General de la Nación y el Archivo General de la Nación, sin que ello implique exoneración de la responsabilidad fiscal, disciplinaria o penal a que pueda haber lugar en caso de irregularidades.
 
 (Decreto 1052 de 2006, artículo 10).
-
-ARTÍCULO
 
 ## art:2.2.2.11 — Vinculación de nuevos servidores
 
@@ -794,15 +702,11 @@ CAPÍTULO 1
 
 DE LA CERTIFICACIÓN DE MUNICIPIOS CON MÁS DE 100.000 HABITANTES
 
-ARTÍCULO
-
 ## art:2.3.1.1.1 — Ámbito de aplicación y objetivo
 
 El presente Capítulo aplica a los municipios con más de 100.000 habitantes según la información certificada por el Departamento Administrativo Nacional de Estadística -DANE, que cumplan con los requisitos de capacidad técnica, administrativa y financiera para asumir la administración del servicio educativo, de conformidad con la ley.
 
 (Decreto 3940 de 2007, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.1.2 — Requisitos
 
@@ -818,8 +722,6 @@ d) Capacidad institucional para asumir los procesos y operar el sistema de infor
 
 (Decreto 3940 de 2007, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.1.3 — Plan de desarrollo municipal
 
 El municipio deberá presentar el plan de desarrollo municipal, el cual debe contener lo concerniente al servicio educativo en el que se prevean los programas, proyectos, metas e indicadores en cobertura, calidad y eficiencia, así como la programación plurianual de inversiones.
@@ -832,15 +734,11 @@ Igualmente si en la misma fecha se están desarrollando en el municipio proyecto
 
 (Decreto 3940 de 2007, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.1.1.4 — Establecimientos educativos estatales
 
 Todos los establecimientos educativos estatales del municipio deberán estar organizados en instituciones y en centros educativos en los términos establecidos en el artículo 90 de la Ley 715 de 2001, de tal manera que garanticen la continuidad de los estudiantes en el sistema educativo formal y el cumplimiento del calendario académico.
 
 (Decreto 3940 de 2007, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.1.1.5 — Planta de personal
 
@@ -848,15 +746,11 @@ El municipio deberá elaborar en coordinación con el departamento el estudio t�
 
 (Decreto 3940 de 2007, artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.1.6 — Capacidad institucional para asumir los procesos y operar el sistema de información del sector educativo
 
 Con base en los lineamientos del Ministerio de Educación Nacional, el municipio ejecutará un plan que le permita asumir técnicamente las funciones para la administración del servicio educativo. Una vez culminada su ejecución, el municipio demostrará que ha implantado los procesos de cobertura, calidad, recursos humanos, recursos financieros y atención al ciudadano y que los sistemas de información funcionan de acuerdo con los procedimientos establecidos por el Ministerio de Educación Nacional.
 
 (Decreto 3940 de 2007, artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.1.7 — Acompañamiento
 
@@ -866,8 +760,6 @@ El departamento a través de la respectiva secretaría de educación o la depend
 
 (Decreto 3940 de 2007, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.1.1.8 — Trámite
 
 El Ministerio de Educación Nacional verificará que el municipio cumpla todos los requisitos y expedirá el acto administrativo que así lo reconozca y ordenará al departamento que proceda, dentro del mes siguiente, a la entrega de la administración del servicio educativo.
@@ -875,8 +767,6 @@ El Ministerio de Educación Nacional verificará que el municipio cumpla todos l
 El Ministerio de Educación Nacional deberá remitir copia del acto de reconocimiento del cumplimiento de requisitos al Ministerio de Hacienda y Crédito Público y al Departamento Nacional de Planeación para lo de su competencia.
 
 (Decreto 3940 de 2007, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.1.1.9 — Formalización de la entrega
 
@@ -890,8 +780,6 @@ PARÁGRAFO . Mientras el Consejo Nacional de Política Económica y Social, Conp
 
 (Decreto 3940 de 2007, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.1.1.10 — Entrega de la planta de personal
 
 Expedido por el Ministerio de Educación Nacional el acto administrativo de cumplimiento de los requisitos de que trata el artículo 2.3.1.1.2 del presente Decreto, el departamento hará entrega formal y efectiva de la planta de personal docente, directivo docente y administrativo y del manejo definitivo de la nómina y el municipio adoptará dicha planta mediante acto administrativo y procederá a su incorporación a la planta de personal municipal.
@@ -904,8 +792,6 @@ Para la entrega del personal tendrán prioridad aquellos servidores públicos qu
 
 (Decreto 3940 de 2007, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.1.1.11 — Otras disposiciones
 
 De conformidad con el artículo 21 de la Ley 715 de 2001, las entidades territoriales certificadas no pueden crear en ningún caso prestaciones o bonificaciones con cargo a recursos del Sistema General de Participaciones.
@@ -913,8 +799,6 @@ De conformidad con el artículo 21 de la Ley 715 de 2001, las entidades territor
 Cualquier decisión de este tipo deberá ser atendida con recursos propios de libre disposición de la entidad territorial.
 
 (Decreto 3940 de 2007, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.1.1.12 — Plazo máximo
 
@@ -928,15 +812,11 @@ CAPÍTULO 2
 
 CERTIFICACIÓN DE MUNICIPIOS CON MENOS DE 100.000 HABITANTES
 
-ARTÍCULO
-
 ## art:2.3.1.2.1 — Ámbito de aplicación
 
 El presente Capítulo se aplica a los municipios que a 31 de diciembre de 2002 contaban con menos de cien mil (100.000) habitantes, que soliciten la certificación en los términos del artículo 20 de la Ley 715 de 2001 y demuestren tener la capacidad técnica, administrativa y financiera para asumir la administración autónoma del servicio educativo.
 
 (Decreto 2700 de 2004, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.2.2 — Requisitos para la certificación
 
@@ -952,8 +832,6 @@ d) Capacidad institucional, para asumir los procesos y el sistema de informació
 
 (Decreto 2700 de 2004, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.2.3 — Plan de desarrollo municipal armónico con las políticas nacionales
 
 El municipio presentará el plan de desarrollo municipal que deberá contener en el Capítulo Educación, los programas, proyectos, metas e indicadores de resultado en cobertura, calidad y eficiencia, así como la programación plurianual de inversiones. Dicho Plan, aprobado por el Concejo Municipal deberá guardar coherencia con las políticas educativas nacionales y departamentales.
@@ -964,15 +842,11 @@ Si en el momento de la certificación se están desarrollando en el municipio pr
 
 (Decreto 2700 de 2004, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.1.2.4 — Establecimientos educativos organizados para ofrecer el ciclo de educación básica completa
 
 Todos los establecimientos educativos estatales del municipio deberán estar organizados en instituciones y en centros educativos en los términos establecidos en el artículo 9 de la Ley 715 de 2001, de tal manera que garanticen la continuidad de los estudiantes en el proceso educativo y el cumplimiento del calendario académico.
 
 (Decreto 2700 de 2004, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.1.2.5 — , Planta de personal definida de acuerdo con los parámetros nacionales
 
@@ -986,8 +860,6 @@ En la entrega del personal tendrá prioridad aquel que a la fecha de la solicitu
 
 (Decreto 2700 de 2004, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.1.2.6 — Capacidad institucional para asumir los procesos y el sistema de información del sector educativo
 
 Previamente a la solicitud de certificación y con base en los lineamientos del Ministerio de Educación Nacional, el municipio ejecutará el plan de modernización que le permita asumir técnicamente las funciones para la administración del servicio educativo.
@@ -995,8 +867,6 @@ Previamente a la solicitud de certificación y con base en los lineamientos del 
 Una vez culminada la ejecución del plan de modernización, el municipio acreditará que ha implantado los procesos misionales y de apoyo, los sistemas de información adecuados a los mismos y que los responsables los operan de acuerdo con los procedimientos establecidos.
 
 (Decreto 2700 de 2004, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.1.2.7 — Apoyo al proceso de certificación
 
@@ -1012,8 +882,6 @@ Cuando se encuentren inconvenientes para la identificación de la propiedad de a
 
 (Decreto 2700 de 2004, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.1.2.8 — Trámite de/a certificación
 
 Cuando el municipio reúna todos los requisitos solicitará formalmente al departamento la certificación. Una vez verificado el cumplimiento de los mismos, el gobernador expedirá el acto administrativo de certificación y suscribirá un acta por medio de la cual entrega el personal docente, directivo docente y administrativo de los establecimientos educativos estatales, así como los recursos físicos y los archivos de información en medio físico y magnético.
@@ -1025,8 +893,6 @@ PARÁGRAFO 1. En el caso que el departamento no resuelva o rechace la solicitud,
 PARÁGRAFO 2. Mientras el Consejo Nacional de Política Económica y Social -CONPES, asigna los recursos del Sistema General de Participaciones al nuevo municipio certificado y ordena el giro directo a esta entidad territorial, el departamento suscribirá un convenio con el municipio en el cual se comprometa a transferirle, a más tardar el día siguiente a aquel en el cual recibe el giro, los recursos del Sistema General de Participaciones (SGP), que le corresponden de acuerdo con la matrícula certificada en la vigencia anterior y atendiendo al monto por niño atendido reconocido para la respectiva tipología. Dicho convenio deberá formalizarse en la misma fecha de la certificación.
 
 (Decreto 2700 de 2004, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.1.2.9 — Acto de certificación
 
@@ -1044,15 +910,11 @@ SECCIÓN 1
 
 Objeto, ámbito de aplicación, principios y definiciones
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.1 — Objeto
 
 El presente capítulo establece los requisitos para la contratación del servicio público educativo por parte de las entidades territoriales certificadas en educación, que demuestren insuficiencia o limitaciones en los establecimientos educativos oficiales de su jurisdicción para la prestación de dicho servicio.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.2 — Ámbito de aplicación
 
@@ -1062,15 +924,11 @@ Mediante los contratos regulados en el presente capítulo las entidades territor
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.3 — Restricciones al ámbito de aplicación
 
 Las normas previstas en este capítulo no serán aplicables para la contratación de la atención educativa para jóvenes y adultos, población carcelaria, adolescentes del Sistema de Responsabilidad Penal Adolescente (SRPA), modelos educativos flexibles y otras poblaciones. Esta se realizará de acuerdo con la reglamentación específica que el Ministerio de Educación Nacional expida o haya expedido para tal fin.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.4 — Principios
 
@@ -1091,8 +949,6 @@ Además de los principios constitucionales consagrados en el artículo 209 y en 
 7. Planeación. La contratación del servicio público educativo deberá responder a las necesidades previamente establecidas por la entidad territorial certificada en educación, con base en el proceso de gestión de la cobertura educativa, en los estudios técnicos de planta y en aquellos que demuestren la insuficiencia o las limitaciones para la prestación del servicio educativo en los establecimientos educativos oficiales.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.5 — Definiciones
 
@@ -1152,8 +1008,6 @@ b) Profesionales de apoyo: profesionales que complementan y mejoran el desarroll
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.6 — Tipos de contrato para la prestación del servicio público educativo
 
 De conformidad con lo previsto en el artículo 2.3.1.3.1.1 de este decreto y sin perjuicio de la observancia de los principios generales contenidos en el Estatuto General de Contratación Pública, las entidades territoriales certificadas podrán celebrar los siguientes contratos para la prestación del servicio público educativo:
@@ -1172,8 +1026,6 @@ SECCIÓN II
 
 REQUISITOS GENERALES
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.1 — Demostración de las insuficiencias
 
 La configuración de las insuficiencias definidas en los numerales 3, 4 y 5 del artículo 2.3.1.3.1.5 del presente decreto, serán demostradas por las entidades territoriales certificadas, de conformidad con las siguientes reglas:
@@ -1183,8 +1035,6 @@ La configuración de las insuficiencias definidas en los numerales 3, 4 y 5 del 
 2. La insuficiencia de infraestructura física requiere que la entidad territorial certificada incluya en el estudio respectivo, las razones técnicas de tal insuficiencia y aporte las evidencias que den cuenta de lo anterior.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.2 — Atención de las limitaciones
 
@@ -1196,15 +1046,11 @@ Para la atención de alguna de las limitaciones definidas en los numerales 7 y 8
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.3 — Acreditación de la idoneidad
 
 La idoneidad que deben acreditar los prestadores del servicio público educativo que aspiren a celebrar alguno de los contratos regulados en el presente capítulo, estará relacionada con un alto desempeño en los exámenes de Estado, el mejoramiento continuo en los resultados de dichas pruebas, y la capacidad de generación y sostenimiento de adecuados ambientes escolares en los establecimientos educativos que hayan sido dirigidos o administrados por el aspirante, de acuerdo con los indicadores de convivencia escolar.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.4 — De la canasta educativa
 
@@ -1215,8 +1061,6 @@ Con el fin de mejorar el acceso y la permanencia escolar, la canasta educativa v
 Hará parte integral de los contratos regulados en el presente capítulo, la relación detallada de todos y cada uno de los componentes de la canasta educativa básica y complementaria que se obliga a suministrar el contratista. Se podrá contratar solamente la canasta básica o la canasta básica más la complementaria, de acuerdo con las necesidades identificadas por la entidad territorial certificada y con la población a atender.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.5 — Reglas para la conformación de la canasta educativa
 
@@ -1230,8 +1074,6 @@ Además de las características establecidas en los numerales 12, 13 y 14 del ar
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.6 — Estudio de insuficiencia y limitaciones
 
 Para que las entidades territoriales certificadas en educación puedan celebrar los contratos de que trata este capítulo, previamente elaborarán un estudio de insuficiencia y limitaciones, a través del cual se evidencie técnicamente la necesidad de acudir a la contratación del servicio público educativo.
@@ -1243,8 +1085,6 @@ Sin perjuicio de lo anterior, el Ministerio de Educación Nacional revisará y s
 PARÁGRAFO . Se entenderá que las entidades territoriales certificadas en educación que no elaboren o no presenten al Ministerio de Educación Nacional el estudio de insuficiencia y limitaciones en los plazos y condiciones establecidos por el Ministerio, no se ajustan a lo dispuesto en este capítulo y en el artículo 27 de la Ley 715 de 2001 y, por lo tanto, no podrán efectuar la contratación del servicio educativo.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.7 — Contenido del estudio de insuficiencia y limitaciones
 
@@ -1272,8 +1112,6 @@ PARÁGRAFO . Cuando se presenten limitaciones previsibles para la prestación de
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.8 — Del Plan Anual de Contratación del Servicio Educativo
 
 Una vez realizado el estudio de insuficiencia y limitaciones y con fundamento en los resultados que este arroje, la entidad territorial diseñará el Plan Anual de Contratación del Servicio Educativo que deberá ser coherente con las necesidades identificadas y que permitirá adelantar oportunamente los procesos de contratación previstos en este capítulo.
@@ -1283,8 +1121,6 @@ Los proyectos de contratación incluidos en el Plan Anual de Contratación del S
 No obstante, de acudir a la contratación del servicio educativo, dicho plan hará parte de la fase precontractual de los contratos que se suscriban y deberá ser remitido al Ministerio de Educación Nacional, una vez sea publicado, en los términos definidos en el artículo 2.3.1.3.2.10. de este decreto.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.9 — Contenido del Plan Anual de Contratación del Servicio Educativo
 
@@ -1306,8 +1142,6 @@ Así mismo debe contener, como mínimo, lo siguiente:
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.10 — Publicación y actualización del Plan Anual de Contratación del Servicio Educativo
 
 El Plan Anual de Contratación del Servicio Educativo y sus actualizaciones deben publicarse físicamente a más tardar el 30 de noviembre de cada año en un lugar visible de la oficina de atención al ciudadano de las secretarías de educación de las entidades territoriales certificadas, y en los sitios web de dichas secretarías y de las correspondientes alcaldías o gobernaciones, según corresponda.
@@ -1318,23 +1152,17 @@ Este plan podrá actualizarse hasta un mes antes del inicio del calendario escol
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.11 — Requisitos presupuestales para la celebración de contratos del servicio público educativo
 
 De conformidad con la normatividad vigente, antes del inicio del proceso contractual, la entidad territorial certificada en educación deberá contar con el respectivo certificado de disponibilidad presupuestal. Cuando quiera que con los contratos a celebrar se vayan a comprometer presupuestos de vigencias siguientes, o se vayan a recibir bienes y prestar servicios en vigencias posteriores a aquella en que se celebra el contrato, la entidad territorial deberá cumplir con lo dispuesto en la Ley Orgánica de Presupuesto.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.12 — Cumplimiento del calendario académico
 
 En virtud de sus facultades de inspección y vigilancia y de la obligación de las entidades estatales de adelantar revisiones periódicas a los servicios prestados, la entidad territorial certificada deberá garantizar que el contratista preste el servicio educativo durante todo el calendario académico, ofreciendo la totalidad de los programas curriculares y planes de estudio de los niveles y grados determinados en el PEI o el PEC, en consonancia con lo dispuesto en la organización y estructura del calendario académico y lo establecido sobre el mismo en el presente decreto, especialmente en el Título 3 de la Parte 4.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.13 — Inicio de la ejecución de los contratos para la prestación del servicio público educativo
 
@@ -1343,8 +1171,6 @@ Los contratos para la prestación del servicio educativo de que trata este capí
 La entidad territorial certificada en educación será responsable de garantizar el cumplimiento de las horas de duración mínimas por año lectivo.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.14 — Inicio de la prestación del servicio educativo sin contrato
 
@@ -1355,8 +1181,6 @@ De incumplirse este mandato, los costos en los que incurra el prestador serán a
 Si un prestador particular realiza esta práctica con autorización de la entidad territorial, el ordenador del gasto asumirá las responsabilidades disciplinarias, fiscales y penales que dicho actuar genere.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.15 — Identificación de la población estudiantil a atender
 
@@ -1370,8 +1194,6 @@ Las modificaciones que se realicen a los contratos regulados en este capítulo, 
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.16 — Continuidad del servicio educativo
 
 Finalizados los contratos para la prestación del servicio público educativo, la entidad territorial certificada garantizará la continuidad del servicio educativo a los estudiantes que venían siendo atendidos, para lo cual se garantizará su atención en los establecimientos educativos oficiales, de conformidad con las estrategias que adopte en cada vigencia para mitigar las insuficiencias o limitaciones que dieron lugar a la contratación.
@@ -1381,8 +1203,6 @@ La garantía de continuidad en el servicio educativo no implica para la entidad 
 En ningún caso, un contratista podrá registrar matrícula para una vigencia distinta a la contemplada en su contrato.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.17 — Obligaciones generales para el contratista
 
@@ -1412,8 +1232,6 @@ PARÁGRAFO 2. En virtud de sus facultades de entidad contratante, derivadas de l
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.18 — Obligaciones de las entidades territoriales certificadas en educación
 
 En materia de contratación del servicio educativo las entidades territoriales certificadas deberán cumplir con lo siguiente:
@@ -1440,8 +1258,6 @@ En materia de contratación del servicio educativo las entidades territoriales c
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.19 — Responsabilidad del ordenador del gasto
 
 El respectivo ordenador del gasto será responsable por el cumplimiento de lo descrito en el presente capítulo y por las decisiones de contratación que adopte.
@@ -1452,8 +1268,6 @@ SECCIÓN III
 
 Contratos de prestación del servicio público educativo
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.1 — Contratos de prestación del servicio público educativo
 
 La entidad territorial certificada, de acuerdo con las necesidades identificadas en el estudio de insuficiencia y limitaciones, y en concordancia con el Plan Anual de Contratación del Servicio Educativo señalado en el presente capítulo, podrá celebrar contratos de prestación del servicio educativo, cuya duración no podrá ser superior a un (1) año lectivo.
@@ -1462,15 +1276,11 @@ En desarrollo de estos contratos, el propietario de un establecimiento educativo
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.2 — Selección del contratista
 
 La contratación de la prestación del servicio público educativo se entiende como un contrato de prestación de servicios profesionales, en consecuencia, la selección del contratista se podrá hacer directamente, de conformidad con lo previsto en el literal h) del numeral 4 del artículo 2 de la Ley 1150 de 2007, con sujeción a los requisitos previstos en las normas que reglamentan la materia y en el presente capítulo, en relación con la verificación de la experiencia e idoneidad requerida de los contratistas y su invitación, evaluación y habilitación mediante la conformación del Banco de Oferentes.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.3 — Reglas del contrato
 
@@ -1485,8 +1295,6 @@ El contrato de prestación del servicio educativo se regirá por lo previsto en 
 4. El contratista deberá prestar el servicio educativo en la infraestructura que haya sido evaluada para conformar el Banco de Oferentes.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.4 — Reglas para la conformación y/o actualización del Banco de Oferentes
 
@@ -1503,8 +1311,6 @@ b) Tanto el proceso de conformación, como de actualización del Banco de Oferen
 PARÁGRAFO . Una vez entre a regir el presente capítulo, las entidades territoriales certificadas que decidan acudir a la contratación de la prestación del servicio educativo, deberán conformar bancos de oferentes, atendiendo los criterios establecidos en esta Sección.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.5 — Etapas para conformar el Banco de Oferentes
 
@@ -1556,8 +1362,6 @@ La información registrada por el aspirante se entenderá suministrada bajo la g
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.6 — Requisitos para ser habilitado en el Banco de Oferentes
 
 Para ser habilitado en el Banco de Oferentes de cada entidad territorial, se deberán cumplir, como mínimo, los siguientes requisitos:
@@ -1594,8 +1398,6 @@ En caso de que las personas jurídicas señaladas en este parágrafo transitorio
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.7 — Experiencia e idoneidad de los aspirantes a ser habilitados en el Banco de Oferentes
 
 Los aspirantes a ser habilitados en el Banco de Oferentes deberán demostrar que sus establecimientos educativos postulados cumplen, además de los requisitos señalados en el artículo anterior, los siguientes requisitos de experiencia e idoneidad:
@@ -1617,15 +1419,11 @@ Parágrafo 3°. El cálculo de percentil para las pruebas Saber 11 en áreas de 
 
 (Modifica Art 1 del decreto 770 de 2025)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.8 — Vigencia del Banco de Oferentes
 
 El Banco de Oferentes tendrá una vigencia de tres (3) años. Una vez cumplido este término, si la entidad territorial certificada no ha superado las condiciones que generan la insuficiencia o las limitaciones, se conformará un nuevo Banco de Oferentes.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.9 — Criterios para actualización del Banco de Oferentes
 
@@ -1645,15 +1443,11 @@ PARÁGRAFO 2. La actualización de que trata el presente artículo exige que la 
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.10 — .10
 
 Remisión al Ministerio de Educación Nacional del acto administrativo por el que se conforma o actualiza el Banco de Oferentes. La entidad territorial certificada deberá remitir con carácter informativo al Ministerio de Educación Nacional, copia de los actos administrativos mediante los cuales se conformó o actualizó el Banco de Oferentes, dentro de los cinco (5) días hábiles siguientes a la fecha en que dichos actos queden en firme, así como cualquier otra información que le sea solicitada por el Ministerio.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.11 — Criterios para la celebración de contratos de prestación del servicio educativo
 
@@ -1683,8 +1477,6 @@ Los propietarios de establecimientos educativos que hagan parte del Banco de Ofe
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.12 — Valor de los contratos de prestación del servicio educativo
 
 El pago al contratista se hará con cargo a los recursos de la entidad territorial certificada, bien sean ingresos corrientes de libre destinación o de la participación para educación del Sistema General de Participaciones. El valor por alumno atendido se establecerá de conformidad con los componentes de la canasta que el contratista suministre, los cuales se relacionarán y pactarán antes del inicio del contrato.
@@ -1692,8 +1484,6 @@ El pago al contratista se hará con cargo a los recursos de la entidad territori
 Dicho valor no podrá ser superior, en ningún caso, a la asignación por alumno definida por la Nación equivalente a la tipología del componente de población atendida del Sistema General de Participaciones; cualquier suma que exceda lo dispuesto en el presente artículo deberá ser financiada con cargo a los recursos propios de la respectiva entidad territorial certificada, con las restricciones señaladas en la ley.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.13 — .13
 
@@ -1713,8 +1503,6 @@ SECCIÓN 4
 
 Contratos para la administración del servicio educativo
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.1 — Contratos de administración del servicio educativo
 
 La entidad territorial certificada podrá contratar la administración del servicio educativo de uno o varios establecimientos educativos oficiales con personas jurídicas públicas o privadas, de reconocida trayectoria e idoneidad, para que estas organicen, coordinen, administren, dirijan y presten el servicio de educación bajo su propio PEI o PEC, brindando la correspondiente orientación pedagógica.
@@ -1723,8 +1511,6 @@ La entidad territorial contratante aportará la infraestructura física oficial 
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.2 — Selección del contratista
 
 Los contratos para la administración del servicio educativo se celebrarán previa selección del contratista mediante licitación pública, de conformidad con lo establecido en el Estatuto General de Contratación de la Administración Pública.
@@ -1732,8 +1518,6 @@ Los contratos para la administración del servicio educativo se celebrarán prev
 No podrán celebrarse contratos entre entidades territoriales certificadas y entidades estatales prestadoras del servicio de educación en forma directa, argumentando el carácter interadministrativo del respectivo contrato.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.3 — Reglas del contrato para la administración del servicio educativo
 
@@ -1761,8 +1545,6 @@ j) En desarrollo de los contratos se deberá incluir la administración de la to
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.4 — Valor de los contratos de administración del servicio educativo
 
 El valor reconocido por estudiante atendido podrá ser igual o inferior a la asignación por alumno definida por la Nación, equivalente a la tipología del componente de población atendida del Sistema General de Participaciones. No obstante, la respectiva entidad territorial certificada podrá financiar los valores que excedan dicha asignación, utilizando recursos diferentes a los de transferencias de la Nación, teniendo en cuenta los bienes y servicios a suministrarse de acuerdo con la canasta educativa contratada y las restricciones señaladas en la ley.
@@ -1771,15 +1553,11 @@ El valor del contrato será el resultado de multiplicar el valor por año lectiv
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.5 — Del personal docente y directivo docente oficial
 
 En los establecimientos educativos objeto de los contratos establecidos en esta Sección, no podrá laborar personal docente, directivo docente o administrativo que haga parte de la planta oficial de la entidad territorial certificada en educación.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.6 — Obligaciones especiales para el administrador
 
@@ -1799,8 +1577,6 @@ SECCIÓN 5
 
 CONTRATACIÓN PARA LA PROMOCIÓN E IMPLEMENTACIÓN DE ESTRATEGIAS DE DESARROLLO PEDAGÓGICO CON IGLESIAS Y CONFESIONES RELIGIOSAS
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.1 — 5.1
 
 Contratos para la promoción e implementación de estrategias de desarrollo pedagógico con iglesias y confesiones religiosas. En virtud de estos contratos, la iglesia o confesión religiosa aportará su experiencia en la promoción e implementación de estrategias de desarrollo pedagógico y el apoyo pedagógico y administrativo para el desarrollo del PEI o PEC adoptado por el consejo directivo de cada establecimiento educativo. Así mismo, proporcionará todos los componentes de la canasta educativa que la entidad territorial certificada no esté en capacidad de aportar, inclusive el personal docente, directivo docente y administrativo.
@@ -1811,8 +1587,6 @@ Las entidades territoriales certificadas podrán celebrar los contratos regulado
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.2 — Selección del contratista
 
 Los contratos a celebrarse con iglesias y confesiones religiosas se sujetarán a lo previsto en artículo 200 de la Ley 115 de 1994, razón por la cual, las entidades territoriales certificadas seleccionarán los respectivos contratistas, en forma directa, al tenor de lo dispuesto en el literal h) del numeral 4 del artículo 2 de la Ley 1150 de 2007, y sin necesidad de que el contratista se encuentre habilitado en el Banco de Oferentes de la entidad territorial, o de acudir a un proceso licitatorio.
@@ -1821,15 +1595,11 @@ PARÁGRAFO . Sin perjuicio de lo previsto en el presente artículo, las iglesias
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.3 — Alcance de las expresiones iglesia y confesión religiosa
 
 Para los efectos de la presente sección, las iglesias y confesiones religiosas son aquellas que se han erigido o fundado directamente y que cuenten con personería jurídica especial otorgada por el Ministerio del Interior o en su defecto, personería jurídica de derecho público eclesiástico, según lo establecido en la Ley 133 de 1994 o las normas que la modifiquen, sustituyan o deroguen, lo mismo que las congregaciones religiosas, sus federaciones, confederaciones o asociaciones de ministros.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.4 — 5.4
 
@@ -1879,13 +1649,9 @@ Parágrafo 2°. En caso de que el establecimiento educativo con el que se preten
 
 (Modifica Art 3 del decreto 770 de 2025)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.5 — 5.5
 
 Valor de los contratos para la promoción e implementación de estrategias de desarrollo pedagógico con iglesias y confesiones religiosas. El valor del contrato se determinará de acuerdo con los componentes de la canasta educativa básica, o básica y complementaria, que la iglesia o confesión religiosa contratista aporte y no podrá ser superior al valor de la tipología por población atendida asignada por la Nación. Cualquier suma que exceda lo dispuesto en el presente artículo deberá ser financiada con cargo a los recursos propios de la respectiva entidad territorial certificada, con las restricciones señaladas en la ley.
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.6 — Restitución de bienes a la entidad territorial
 
@@ -1896,8 +1662,6 @@ Los bienes adquiridos por el contratista con los recursos entregados durante la 
 SECCIÓN 6
 
 Contratación con establecimientos educativos mediante subsidio a la demanda
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.1 — Contratos con Establecimientos Educativos mediante subsidio a la demanda
 
@@ -1911,23 +1675,17 @@ En virtud de estos contratos, las entidades territoriales certificadas en educac
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.2 — Requisitos exigibles a los contratistas
 
 Los contratos reglamentados en la presente Sección se suscribirán con las personas jurídicas propietarias de establecimientos educativos no oficiales, cuyos resultados en los últimos exámenes de Estado Saber 3, 5, 9 y 11 estén por encima del percentil 40 de los establecimientos educativos, en la respectiva entidad territorial certificada en donde presta sus servicios.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.3 — Selección del contratista
 
 Dado que el tipo contractual regulado en esta Sección tiene como objeto la prestación de servicios, el proceso de contratación corresponde a la modalidad de selección de contratación directa. Lo anterior, sin perjuicio del deber de la entidad territorial certificada de desarrollar el principio de selección objetiva y de los respectivos establecimientos educativos no oficiales de cumplir los requisitos de calidad previstos en el artículo anterior y los demás que establezca el Ministerio de Educación Nacional para la celebración de este tipo de contratos.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.4 — Estudiantes beneficiarios
 
@@ -1943,8 +1701,6 @@ PARÁGRAFO 2. Solo en los casos en los cuales el estudiante pierda su condición
 
 PARÁGRAFO 3. Las entidades territoriales certificadas en educación deberán garantizar la atención educativa de los estudiantes que, a pesar de encontrarse matriculados en alguno de los establecimientos educativos señalados en el artículo 2.3.1.3.6.1, no puedan beneficiarse de los contratos regulados en esta sección, para lo cual deberán asegurar la matrícula de dichas personas en un establecimiento educativo oficial de su jurisdicción o en alguno que haya sido contratado, conforme a las reglas previstas en este capítulo.
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.5 — De la plataforma virtual
 
 Es responsabilidad del Ministerio de Educación Nacional diseñar e implementar una plataforma virtual, en la cual se registrarán los establecimientos educativos no oficiales, que aspiren a celebrar los contratos definidos en esta Sección.
@@ -1954,8 +1710,6 @@ Así mismo, el Ministerio de Educación Nacional expedirá mediante acto adminis
 PARÁGRAFO . El registro de los establecimientos educativos en la plataforma virtual, para poder celebrar los contratos regulados en esta sección, no reemplaza ninguno de los requisitos legales para la contratación y no afectan las competencias de inspección y vigilancia que deben ejercer las entidades territoriales certificadas, con el fin de velar por la adecuada prestación del servicio público educativo, en los términos previstos en el Título 7, Parte 3, Libro 2 del presente decreto.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.6 — De la matrícula
 
@@ -1967,15 +1721,11 @@ Comunicado lo anterior, los padres de familia o acudientes del niño, niña o ad
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.7 — De la igualdad de condiciones en la prestación del servicio educativo
 
 Los establecimientos educativos que admitan y matriculen estudiantes beneficiarios del tipo contractual previsto en esta sección, deberán prestar el servicio educativo en igualdad de condiciones que las previstas para los demás estudiantes.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.8 — De la nivelación a los beneficiarios
 
@@ -1983,23 +1733,17 @@ Los establecimientos educativos deberán adelantar un proceso de nivelación y a
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.9 — Cobros de derechos académicos y servicios complementarios
 
 En ejecución de los contratos previstos en esta Sección, los establecimientos educativos no podrán realizar cobros por ningún concepto a los estudiantes beneficiarios.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.10 — Valor de los contratos con establecimientos educativos mediante subsidio a la demanda
 
 El valor a reconocer por cada estudiante beneficiario no podrá ser superior al valor resultante de sumar el valor de la tipología por población atendida asignada por la Nación, más el valor de calidad, más el valor promedio de gratuidad, de la respectiva entidad territorial.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.11 — Obligaciones especiales para los establecimientos educativos mediante subsidio a la demanda
 
@@ -2023,15 +1767,11 @@ SECCIÓN 7
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.1 — Prohibición de oficialización de establecimientos educativos
 
 La entidad territorial certificada no podrá hacer de un establecimiento educativo de carácter particular un establecimiento educativo oficial, a menos que de común acuerdo el propietario y la entidad territorial decidan oficializarlo, caso en el cual, se requerirá del respectivo acto de la Asamblea Departamental o del Concejo Municipal, que lo incorpore dentro de la estructura administrativa de la entidad territorial. A partir de ese momento, y para todos los efectos legales, el establecimiento dejará de ser reconocido como de carácter particular.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.7.2 — Seguimiento y vigilancia a los contratos celebrados
 
@@ -2042,8 +1782,6 @@ De igual manera, implementarán los mecanismos adicionales de seguimiento que se
 La vigilancia y seguimiento de dichos contratos se realizará de conformidad con lo previsto en el Estatuto General de Contratación de la Administración Pública y demás normas que lo modifiquen, sustituyan o deroguen.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.7.3 — Supervisión o interventoría a los contratos del servicio educativo
 
@@ -2057,8 +1795,6 @@ Las entidades territoriales certificadas garantizarán el ejercicio de la superv
 
 La decisión de la entidad territorial certificada de adoptar uno de los tres (3) mecanismos deberá quedar establecida en el contrato; de asignarse un funcionario para ejercer la supervisión por parte de la entidad territorial, el respectivo cargo deberá ser identificado. En caso de elegir la conformación de un comité, este deberá conformarse previamente mediante acto administrativo.
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.4 — Jornada única
 
 A partir de la vigencia 2018, la entidad territorial certificada deberá garantizar que en los contratos de servicio educativo de que trata este Capítulo, dicho servicio se preste en jornada única, de conformidad con los lineamientos establecidos por el Ministerio de Educación Nacional.
@@ -2067,15 +1803,11 @@ PARÁGRAFO . Se exceptúa lo consagrado en este artículo a los contratos regula
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.5 — Inexistencia de vínculo laboral entre la entidad territorial certificada y el personal vinculado por el contratista
 
 En ningún caso, la entidad territorial certificada contratante tendrá relación ni obligación laboral con las personas que el contratista vincule para la ejecución de los contratos de que trata el presente capítulo. En consecuencia, dicho personal no hará parte de la planta oficial de la entidad territorial certificada contratante.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.7.6 — Reporte de información
 
@@ -2091,15 +1823,11 @@ PARÁGRAFO 1. Para los contratos de servicio educativo con iglesias y confesione
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.7 — Formato Único de Contratación (FUC)
 
 La información de los contratos de servicio público educativo de que trata el presente Capítulo suscritos por las entidades territoriales certificadas, se reportará al Ministerio de Educación Nacional en el Formato Único de Contratación (FUC), quince (15) días después de suscritos los contratos; la información reportada en el FUC deberá ser consistente con la reportada en el Simat o en el sistema de información que determine el Ministerio de Educación Nacional.
 
 (Subrogado por el Art. 1 del Decreto 1851 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.1.3.7.8 — Contratos en ejecución
 
@@ -2113,8 +1841,6 @@ SECCIÓN 8
 
 Contratos de prestación del servicio educativo con establecimientos educativos no oficiales de alta calidad
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.1 — Contratos de Prestación del Servicio Educativo con Establecimientos Educativos no Oficiales de Alta Calidad
 
 La entidad territorial certificada podrá contratar con establecimientos educativos no oficiales, clasificados en la categoría A+ en las pruebas Saber 11 o la que haga sus veces, para que garanticen la prestación del servicio educativo en establecimientos educativos oficiales nuevos.
@@ -2125,8 +1851,6 @@ PARÁGRAFO . Los establecimientos educativos no oficiales de alta calidad tambi�
 
 (Decreto 30 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.2 — Acreditación de la condición de alta calidad educativa por parte de los establecimientos educativos no oficiales
 
 Para efectos de la presente sección, el Instituto Colombiano para la Evaluación de la Educación (ICFES) certificará, previamente a la suscripción del contrato, que el establecimiento educativo no oficial ha estado clasificado en la categoría A+, o la que haga sus veces, como mínimo, los cinco (5) años anteriores a la suscripción del contrato.
@@ -2135,8 +1859,6 @@ PARÁGRAFO . Dado que la categoría A+ se implementó a partir del año 2015, el
 
 (Decreto 30 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.3 — Selección del contratista
 
 Los contratos de prestación del servicio educativo con establecimientos educativos no oficiales de alta calidad se celebrarán de manera directa, de conformidad con lo establecido en el literal h) del numeral 4 del artículo 2 de la Ley 1150 de 2007.
@@ -2144,8 +1866,6 @@ Los contratos de prestación del servicio educativo con establecimientos educati
 Lo anterior, sin perjuicio del deber de la entidad territorial certificada de aplicar el principio de selección objetiva y de los respectivos establecimientos educativos no oficiales de alta calidad de cumplir los requisitos de calidad previstos en el artículo anterior y los demás que establezca el Ministerio de Educación Nacional para la celebración de este tipo de contratos.
 
 (Decreto 30 de 2017, artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.4 — 8.4
 
@@ -2173,8 +1893,6 @@ PARÁGRAFO . Cuando el contratista sea una entidad sin ánimo de lucro constitui
 
 (Decreto 30 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.5 — De la ejecución contractual
 
 Durante la ejecución de los contratos de prestación del servicio educativo con establecimientos educativos no oficiales de alta calidad, se aplicarán las siguientes reglas:
@@ -2191,8 +1909,6 @@ e) El contratista debe comprometerse a que durante la ejecución del contrato co
 
 (Decreto 30 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.6 — Valor de los contratos de prestación del servicio educativo con establecimientos educativos no oficiales de alta calidad
 
 El valor del contrato será el resultado de multiplicar el valor por año lectivo de la canasta educativa contratada y establecida para cada estudiante, por el número total de estudiantes atendidos durante la vigencia del contrato.
@@ -2203,15 +1919,11 @@ PARÁGRAFO . En caso de que el contrato establezca que la atención a los estudi
 
 (Decreto 30 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.7 — Del personal docente y directivo docente oficial
 
 En los establecimientos educativos objeto de los contratos establecidos en esta Sección, sólo podrán laborar docentes, directivos docentes o administrativos de la planta de personal oficial una vez la entidad territorial certificada en educación asuma la prestación directa del servicio educativo en estos establecimientos.
 
 (Decreto 30 de 2017, artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.8 — Obligaciones especiales para el contratista
 
@@ -2241,8 +1953,6 @@ SECCIÓN 9
 
 Contratos interadministrativos para la prestación del servicio educativo por instituciones de educación superior oficiales que tengan facultad de educación
 
-ARTÍCULO
-
 ## art:2.3.1.3.9.1 — 9.1
 
 Contratos interadministrativos para la prestación del servicio educativo por instituciones de educación superior oficiales que tengan facultad de educación. Los contratos interadministrativos para la prestación del servicio educativo por instituciones de educación superior oficiales que tengan facultad de educación, tienen por objeto mejorar la calidad de la educación impartida en una entidad territorial certificada en educación, a través de la atención de estudiantes del sistema educativo oficial en establecimientos educativos de alta calidad educativa que hacen parte de la estructura orgánica de dichas instituciones, en todos o en alguno de los niveles de educación: preescolar, básica o media, bajo las reglas consagradas en la presente Sección.
@@ -2250,8 +1960,6 @@ Contratos interadministrativos para la prestación del servicio educativo por in
 PARÁGRAFO . Las instituciones de educación superior oficiales que, en uso de su autonomía, tengan una unidad académica que desarrolle programas de pregrado o posgrado en ciencias de la educación, se asimila ésta como Facultad de Educación para efecto de lo dispuesto en la presente Sección.
 
 (Decreto 30 de 2017, artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.9.2 — 9.2
 
@@ -2273,8 +1981,6 @@ g) Cumplir con las condiciones establecidas por los literales d) y e) del artíc
 
 (Decreto 30 de 2017, artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.3.9.3 — De la ejecución contractual
 
 Durante la ejecución de los contratos interadministrativos para la prestación del servicio educativo por instituciones de educación superior oficiales que tengan facultad de educación, se aplicarán las siguientes reglas:
@@ -2284,8 +1990,6 @@ a) La entidad territorial certificada ejercerá una permanente supervisión sobr
 b) Entre el personal administrativo, docente y directivo contratado por la institución de educación superior oficial y la entidad territorial certificada en educación no existirá vinculación alguna. Su régimen laboral se sujetará, exclusivamente, a lo que para el efecto disponga el Consejo Superior o Consejo Directivo de la institución de educación superior oficial, con estricta observancia de las normas laborales aplicables.
 
 (Decreto 30 de 2017, artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.9.4 — 9.4
 
@@ -2304,8 +2008,6 @@ CONTRATACIÓN DE LA ADMINISTRACIÓN DE LA ATENCIÓN EDUCATIVA POR PARTE DE LAS E
 SECCIÓN 1
 
 Aspectos generales
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.1 — Objeto y ámbito de aplicación
 
@@ -2333,8 +2035,6 @@ Cuando se demuestre la insuficiencia cualitativa o cuantitativa por parte de las
 
 (Decreto 2500 de 2010, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.2 — Capacidad para contratar la administración de la atención educativa
 
 Las entidades territoriales certificadas deberán contratar la administración de la atención educativa que requieran con:
@@ -2349,8 +2049,6 @@ PARÁGRAFO . Para la suscripción de estos contratos se deberán tener en cuenta
 
 (Decreto 2500 de 2010, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.3 — La modalidad de selección
 
 La modalidad de selección para los contratos de administración de la atención educativa del presente Capítulo se realizará de la siguiente forma:
@@ -2364,8 +2062,6 @@ b) Si el contratista es una organización indígena representativa de uno o más
 SECCIÓN 2
 
 Celebración de contratos de administración de la atención educativa por parte de las entidades territoriales con los cabildos, autoridades tradicionales indígenas, asociación de autoridades tradicionales indígenas y organizaciones indígenas.
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.1 — Administración de la prestación del servicio educativo
 
@@ -2388,8 +2084,6 @@ PARÁGRAFO 3. Las entidades territoriales entregarán al contratista una relaci�
 PARÁGRAFO 4. El personal que sea contratado por los cabildos, autoridades tradicionales indígenas, asociación de autoridades tradicionales indígenas y organizaciones indígenas, para la ejecución de los contratos de administración de la prestación servicio educativo de que trata el presente Capítulo, que se contraten para los niveles preescolar, básica y media, deberán seleccionarse teniendo como referente los criterios establecidos en el Decreto 804 de 1995, en la manera en que queda compilado en el presente Decreto y los criterios socioculturales especiales para cada pueblo indígena en su contexto territorial específico, establecidos en los proyectos educativos comunitarios, proyectos o modelos etnoeducativos o proyectos educativos propios o en las propuestas de educación propia.
 
 (Decreto 2500 de 2010, artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.2 — Atención eficiente y pertinente a la población estudiantil
 
@@ -2417,15 +2111,11 @@ Los cabildos, autoridades tradicionales indígenas, asociación de autoridades t
 
 (Decreto 2500 de 2010; artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.3 — 
 
 2.3.1.4.2.3, De los docentes y directivos docentes que laboren en establecimientos educativos administrados de conformidad con el presente Capítulo. Los cargos de docentes y directivos docentes oficiales que la entidad territorial aporte para laborar en los establecimientos educativos objeto del presente Capítulo, no podrán disminuirse durante la vigencia del contrato.
 
 (Decreto 2500 de 2010, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.4 — 2.4
 
@@ -2463,8 +2153,6 @@ f) Aplicado en el aula de metodologías de aprendizaje bilingüe (lengua indíge
 
 (Decreto 2500 de 2010, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.5 — Certificación de la necesidad del servicio
 
 Cuando se requiera celebrar un contrato de administración en los términos establecidos en el presente Capítulo, la entidad territorial certificada deberá justificar la necesidad de este contrato considerando:
@@ -2479,8 +2167,6 @@ SECCIÓN 3
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.3.1.4.3.1 — Inexistencia de vínculo laboral
 
 En ningún caso, la entidad territorial contraerá obligación laboral con las personas que los cabildos, autoridades tradicionales indígenas, asociación de autoridades tradicionales indígenas y organizaciones indígenas contraten para la ejecución de los contratos de que trata el presente Capítulo.
@@ -2489,15 +2175,11 @@ En consecuencia, el personal de dirección, administración y docente que contra
 
 (Decreto 2500 de 2010, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.1.4.3.2 — Docentes contratados en instituciones educativas oficiales
 
 En desarrollo de la administración de la prestación del servicio educativo de que trata este Capítulo, se permitirá que docentes contratados por los cabildos, autoridades tradicionales indígenas, asociación de autoridades tradicionales indígenas y organizaciones indígenas laboren conjuntamente en establecimientos educativos oficiales, con docentes de planta oficial, de conformidad con lo establecido en el artículo 2.3.1.4.2.1 del presente Decreto.
 
 (Decreto 2500 de 2010, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.1.4.3.3 — Interventoría, vigilancia y control
 
@@ -2506,8 +2188,6 @@ La interventoría de esta contratación se realizará por las secretarías de ed
 De común acuerdo entre las secretarías de educación y el contratista se definirán los criterios para la realización de los procesos de vigilancia y control correspondientes.
 
 (Decreto 2500 de 2010, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.1.4.3.4 — Vigencia
 
@@ -2519,15 +2199,11 @@ CAPÍTULO 5
 
 ORGANIZACIÓN DE APOYO QUE PRESTAN LAS ENTIDADES TERRITORIALES CERTIFICADAS A LOS ESTABLECIMIENTOS EDUCATIVOS MEDIANTE LOS NÚCLEOS EDUCATIVOS
 
-ARTÍCULO
-
 ## art:2.3.1.5.1 — Apoyo a los establecimientos educativos
 
 Las entidades territoriales certificadas en educación, con la finalidad de fortalecer el apoyo a los establecimientos educativos de su jurisdicción, dispondrán de formas de coordinación tales como los núcleos educativos u otras que correspondan a los mismos fines, según su propia organización.
 
 (Decreto 4710 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.5.2 — Funciones de las dependencias de coordinación
 
@@ -2537,23 +2213,17 @@ PARÁGRAFO . El apoyo de estas dependencias de coordinación se extenderá en lo
 
 (Decreto 4710 de 2008, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.5.3 — Conformación
 
 Cada dependencia de coordinación estará conformada por los niveles ocupacionales y el número de cargos que la entidad territorial certificada defina de acuerdo con el estudio técnico que para el efecto realice, el cual por lo menos considerará la densidad poblacional, la matrícula tanto del sector estatal como del sector privado y, en el caso de los departamentos, el número de municipios. Para apoyar esta organización, el Ministerio de Educación incrementará el porcentaje de la asignación por niño atendido destinada a cubrir gastos administrativos.
 
 (Decreto 4710 de 2008, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.1.5.4 — Responsable de la dependencia de coordinación
 
 El responsable de la dependencia de coordinación podrá ser funcionario de libre nombramiento y remoción, de acuerdo con la ley. En las entidades territoriales certificadas en las que haya directores de núcleo o supervisores, las dependencias de coordinación respectivas estarán preferentemente a su cargo. Cuando se trate de cargos de libre nombramiento y remoción podrán ser desempeñados por directivos docentes o docentes con experiencia directiva, previa comisión para desempeñarlos de acuerdo con la ley.
 
 (Decreto 4710 de 2008, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.1.5.5 — Articulación a nivel territorial
 
@@ -2568,8 +2238,6 @@ DISTRIBUCIÓN DE LA PARTICIPACIÓN PARA EDUCACIÓN DEL SISTEMA GENERAL DE PARTIC
 SECCIÓN 1
 
 Criterios para distribuir la participación para educación
-
-ARTÍCULO
 
 ## art:2.3.1.6.1.1 — 
 
@@ -2586,8 +2254,6 @@ ARTÍCULO
 PARÁGRAFO . El Departamento Nacional de Planeación, en coordinación con el Ministerio de Educación Nacional, definirá anualmente la ponderación de cada uno de los parámetros de distribución que trata el presente artículo.
 
 (Decreto 1122 de 2011, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.1.2 — 1.2
 
@@ -2613,8 +2279,6 @@ PARÁGRAFO . El Ministerio de Educación Nacional solamente certificará al Depa
 
 (Decreto 1122 de 2011, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.6.1.3 — Metodología
 
 El Departamento Nacional de Planeación, en coordinación con el Ministerio de Educación Nacional, definirá la metodología utilizada para la distribución de los recursos del Sistema General de Participaciones en el componente de Calidad- matrícula oficial que trata el artículo 16 de la Ley 715 de 2001.
@@ -2626,8 +2290,6 @@ PARÁGRAFO . Los recursos distribuidos o que se lleguen a redistribuir a las ár
 SECCIÓN 2
 
 Criterios para distribuir el saldo de los recursos disponibles de la participación en educación del sistema general de participaciones
-
-ARTÍCULO
 
 ## art:2.3.1.6.2.1 — Distribución
 
@@ -2643,15 +2305,11 @@ SECCIÓN 3
 
 Fondo de Servicios Educativos de los establecimientos educativos estatales
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.1 — Ámbito de aplicación
 
 Las normas contenidas en la presente Sección son aplicables a las entidades territoriales y a los establecimientos educativos estatales.
 
 (Decreto 4791 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.2 — Definición
 
@@ -2661,8 +2319,6 @@ PARÁGRAFO . Con sujeción a lo establecido en la normatividad vigente, la admin
 
 (Decreto 4791 de 2008, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.3 — Administración del Fondo de Servicios Educativos
 
 El rector o director rural en coordinación con el consejo directivo del establecimiento educativo estatal administra el Fondo de Servicios Educativos de acuerdo con las funciones otorgadas por la Ley 715 de 2001 y la presente Sección.
@@ -2671,15 +2327,11 @@ PARÁGRAFO . Se entiende por administrar el Fondo de Servicios Educativos las ac
 
 (Decreto 4791 de 2008, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.4 — Ordenación del gasto
 
 Los fondos de servicios educativos carecen de personería jurídica. El rector o director rural es el ordenador del gasto del Fondo de Servicios Educativos y su ejercicio no implica representación legal.
 
 (Decreto 4791 de 2008, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.5 — Funciones del Consejo Directivo
 
@@ -2711,8 +2363,6 @@ En relación con el Fondo de Servicios Educativos, el consejo directivo cumple l
 
 (Decreto 501 de 2016, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.6 — Responsabilidades de los rectores o directores rurales
 
 En relación con el Fondo de Servicios Educativos, los rectores o directores rurales son responsables de:
@@ -2737,15 +2387,11 @@ En relación con el Fondo de Servicios Educativos, los rectores o directores rur
 
 (Decreto 4791 de 2008, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.7 — Presupuesto anual
 
 Es el instrumento de planeación financiera mediante el cual en cada vigencia fiscal se programa el presupuesto de ingresos y de gastos. El de ingresos se desagrega a nivel de grupos e ítems de ingresos, y el de gastos se desagrega en funcionamiento e inversión, el funcionamiento por rubros y la inversión por proyectos.
 
 (Decreto 4791 de 2008, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.8 — Presupuesto de ingresos
 
@@ -2767,8 +2413,6 @@ PARÁGRAFO 2. Los recursos financieros que se obtengan por el pago de derechos a
 
 (Decreto 4791 de 2008, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.9 — Presupuesto de gastos o apropiaciones
 
 Contiene la totalidad de los gastos, las apropiaciones o erogaciones que requiere el establecimiento educativo estatal para su normal funcionamiento y para las inversiones que el Proyecto Educativo Institucional demande, diferentes de los gastos de personal.
@@ -2776,8 +2420,6 @@ Contiene la totalidad de los gastos, las apropiaciones o erogaciones que requier
 El presupuesto de gastos debe guardar estricto equilibrio con el presupuesto de ingresos y las partidas aprobadas deben entenderse como autorizaciones máximas de gasto.
 
 (Decreto 4791 de 2008, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.10 — Ejecución del presupuesto
 
@@ -2790,8 +2432,6 @@ PARÁGRAFO 1. Las transferencias o giros que las entidades territoriales efectú
 PARÁGRAFO 2. Los ingresos obtenidos con destinación específica deben utilizarse únicamente para lo que fueron aprobados por quien asignó el recurso.
 
 (Decreto 4791 de 2008, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.11 — Utilización de los recursos
 
@@ -2843,8 +2483,6 @@ PARÁGRAFO 3. La destinación de los recursos para gratuidad educativa deberá r
 
 (Decreto 4791 de 2008, artículo 11, adicionado por los Decretos 4807 de 2011, artículo 9, y 992 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.12 — Adiciones y traslados presupuestales
 
 Todo nuevo ingreso que se perciba y que no esté previsto en el presupuesto del Fondo de Servicios Educativos, será objeto de una adición presupuestal mediante acuerdo del consejo directivo, previa aprobación de la entidad territorial, de conformidad con el reglamento que esta expida para tal efecto. En este acuerdo se deberá especificar el origen de los recursos y la distribución del nuevo ingreso en el presupuesto de gastos o apropiaciones.
@@ -2852,8 +2490,6 @@ Todo nuevo ingreso que se perciba y que no esté previsto en el presupuesto del 
 Cuando se requiera efectuar algún gasto cuyo rubro no tenga apropiación suficiente, de existir disponibilidad presupuestal se efectuarán los traslados presupuestales a que haya lugar, previa autorización del consejo directivo, sin afectar recursos de destinación específica.
 
 (Decreto 4791 de 2008, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.13 — Prohibiciones en la ejecución del gasto
 
@@ -2875,15 +2511,11 @@ El ordenador del gasto del Fondo de Servicios Educativos no puede:
 
 (Decreto 4791 de 2008, artículo 13, adicionado por el Decreto 4807 de 2011, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.14 — Flujo de caja
 
 Es el instrumento mediante el cual se define mes a mes los recaudos y los gastos que se pueden pagar, clasificados de acuerdo con el presupuesto y con los requerimientos del plan operativo.
 
 (Decreto 4791 de 2008, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.15 — Manejo de tesorería
 
@@ -2895,8 +2527,6 @@ La función de tesorería o pagaduría del Fondo no puede ser ejercida por el pe
 
 (Decreto 4791 de 2008, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.16 — Contabilidad
 
 Los fondos de servicios educativos estatales deben llevar contabilidad de acuerdo con las normas vigentes expedidas por el Contador General de la Nación.
@@ -2906,8 +2536,6 @@ La entidad territorial certificada debe establecer las condiciones en que se rea
 PARÁGRAFO . Con el fin de optimizar el uso de los recursos, dos o más establecimientos educativos podrán celebrar acuerdos entre sí con el fin de contratar conjuntamente los servicios contables requeridos.
 
 (Decreto 4791 de 2008, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.17 — Régimen de contratación
 
@@ -2921,8 +2549,6 @@ Si se adquieren obligaciones pecuniarias en virtud de tales contratos, estas deb
 
 (Decreto 4791 de 2008, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.18 — Control, asesoría y apoyo
 
 Respecto del Fondo de Servicios Educativos, corresponde a las entidades territoriales certificadas en educación ejercer el control interno, brindar asesoría y apoyo administrativo, contractual, financiero, presupuestal y contable de acuerdo con las normas vigentes.
@@ -2930,8 +2556,6 @@ Respecto del Fondo de Servicios Educativos, corresponde a las entidades territor
 La entidad territorial certificada debe ejercer seguimiento en la administración y ejecución de los recursos de los fondos de servicios educativos, para lo cual el establecimiento educativo debe suministrar toda la información que le sea solicitada.
 
 (Decreto 4791 de 2008, artículo 18),
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.19 — Rendición de cuentas y publicidad
 
@@ -2949,8 +2573,6 @@ Con el fin de garantizar los principios de moralidad, imparcialidad, publicidad 
 
 (Decreto 4791 de 2008, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.20 — Responsabilidad fiscal y disciplinaria
 
 Siempre que el Estado sea condenado con ocasión de obligaciones contraídas en contravención de lo dispuesto en la ley y la presente Sección, la entidad territorial certificada procederá a iniciar los proceso de responsabilidad disciplinaria y fiscal a que haya lugar, ya ejercer la acción de repetición de conformidad con la ley contra los servidores públicos que resultaren responsables de dicha contravención o contra los miembros del consejo directivo, cuando estos últimos no fueren servidores públicos.
@@ -2963,15 +2585,11 @@ SECCIÓN 4
 
 (Modificación del nombre de la Sección 4, por el Art. 1 del Decreto 2227 del 2023).
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.1 — Objeto y ámbito de aplicación
 
 La presente Sección tiene por objeto reglamentar la gratuidad educativa para todos los estudiantes de las instituciones educativas estatales matriculados entre los grados transición y undécimo.
 
 (Decreto 4807 de 2011, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.4.2 — Alcance de la gratuidad educativa
 
@@ -2983,8 +2601,6 @@ PARÁGRAFO 2. Los estudiantes atendidos mediante la contratación de la prestaci
 
 (Decreto 4807 de 2011, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.3 — Financiación
 
 La gratuidad educativa se financiará con los recursos de la participación para educación del Sistema General de Participaciones por concepto de calidad, de que tratan los artículos 16 y 17 de la Ley 715 de 2001.
@@ -2993,23 +2609,17 @@ Las entidades territoriales podrán concurrir con otras fuentes de recursos en l
 
 (Decreto 4807 de 2011, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.4 — Metodología para la distribución de los recursos
 
 El Departamento Nacional de Planeación, en coordinación con el Ministerio de Educación Nacional, definirá la metodología para la distribución de los recursos del Sistema General de Participaciones que se destinen a la gratuidad educativa.
 
 (Decreto 4807 de 2011, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.5 — Responsabilidad en el reporte de información
 
 Los rectores y directores de las instituciones educativas estatales, los secretarios de educación y los gobernadores y alcaldes de los departamentos y de los municipios certificados, serán responsables solidariamente por la oportunidad, veracidad y calidad de la información que suministren para la asignación y distribución de los recursos de gratuidad. Las inconsistencias en la información darán lugar a responsabilidades disciplinarias, fiscales y penales, en concordancia con lo dispuesto en el inciso 2 del artículo 96 de la Ley 715 de 2001.
 
 (Decreto 4807 de 2011, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.1.6.4.6 — Destinatarios del giro directo
 
@@ -3018,8 +2628,6 @@ En consonancia con el artículo 140 de la Ley 1450 de 2011 o la norma que la mod
 PARÁGRAFO . Para las instituciones educativas estatales que no cuenten con Fondo de Servicios Educativos, el giro se realizará al Fondo de Servicios Educativos al cual se asocien.
 
 (Decreto 4807 de 2011, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.1.6.4.7 — Procedimiento para el giro
 
@@ -3041,8 +2649,6 @@ PARÁGRAFO 2. El Conpes Social determinará el número de giros de los recursos 
 
 (Decreto 4807 de 2011, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.8 — Administración de los recursos
 
 Los recursos de calidad destinados para gratuidad se administrarán a través de los Fondos de Servicios Educativos conforme a lo definido en el artículo 11 de la Ley 715 de 2001, en el Decreto 4791 de 2008, en la manera en que queda compilado en el presente Decreto, las normas de contratación vigentes, las que las modifiquen o sustituyan y lo que se establece en la presente Sección.
@@ -3050,8 +2656,6 @@ Los recursos de calidad destinados para gratuidad se administrarán a través de
 En todo caso los recursos del Sistema General de Participaciones se administrarán en cuentas independientes de los demás ingresos de los Fondos de Servicios Educativos.
 
 (Decreto 4807 de 2011, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.1.6.4.9 — Obligaciones
 
@@ -3069,8 +2673,6 @@ c) Reportar trimestralmente la ejecución de los recursos de gratuidad a la secr
 
 (Decreto 4807 de 2011, artículo 11)
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.10 — Monitoreo de los recursos asignados
 
 El Ministerio de Educación Nacional implementará el Sistema de Información de Seguimiento a la Gratuidad. De igual forma, podrá adelantar auditorías para el monitoreo de los recursos asignados para gratuidad educativa. En desarrollo de estas auditorías se podrá solicitar información de carácter técnico, administrativo, legal y financiero y, en general, la necesaria para la verificación de la adecuada utilización de los recursos de gratuidad.
@@ -3080,8 +2682,6 @@ El Ministerio de Educación Nacional implementará el Sistema de Información de
 SECCIÓN 5
 
 Certificación de coberturas mínimas de educación
-
-ARTÍCULO
 
 ## art:2.3.1.6.5.1 — Financiación de la prestación del servicio educativo
 
@@ -3101,8 +2701,6 @@ Uso de los recursos correspondientes a la asignación complementaria al criterio
 
 (Sección adicionada por el Decreto 914 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.6.6.1 — 6.1
 
 Complemento a la población atendida para satisfacer el costo derivado del mejoramiento de la calidad.Los recursos correspondientes a la asignación complementaria al criterio de población atendida para satisfacer el costo derivado del mejoramiento de la calidad se distribuirán a las entidades territoriales certificadas en educación, a partir de la aprobación que de esa asignación efectúe el Departamento Nacional de Planeación. Estos recursos serán incorporados al presupuesto de dichas entidades.
@@ -3111,15 +2709,11 @@ Los recursos a que se refiere esta Sección deberán contabilizarse en una unida
 
 (Decreto 914 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.6.6.2 — Transferencia a educadores y funcionarios administrativos
 
 Una vez distribuidos los recursos referidos en el artículo anterior a las entidades territoriales certificadas en educaci6n, estos deberán ser girados dentro de los diez (10) días siguientes a cada uno de los educadores, funcionarios administrativos y docentes tutores del programa "Todos a Aprender", que al cierre del mes de diciembre del año anterior estuvieren asignados a cada uno de los establecimientos educativos que cumplan con lo establecido en los artículos 2.3.8.8.2.1 .2. y 2.3.8.8.2.4.2 de este decreto, y en las condiciones establecidas en la presente Sección.
 
 (Decreto 1577 de 2017, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.6.3 — Monto de los recursos girados
 
@@ -3130,8 +2724,6 @@ PARÁGRAFO 1. El Ministerio de Educación Nacional deberá comunicar a cada una 
 PARÁGRAFO 2. Los educadores, funcionarios administrativos y docentes tutores que sean beneficiarios de los recursos previstos en la presente Sección no podrán recibir durante la misma vigencia recursos adicionales con base en la fórmula de cálculo señalada en el artículo 2.3.8.8.2.4.2 del presente decreto.
 
 (Decreto 1577 de 2017, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.6.4 — Naturaleza
 
@@ -3145,23 +2737,17 @@ Gratuidad educativa para los estudiantes de educación preescolar, básica y med
 
 (Sección adicionada por el Decreto 1862 de 2017, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.6.7.1 — Objeto
 
 Definir las condiciones de asignación de los recursos de gratuidad educativa del sistema general de participaciones - educación, para los establecimientos educativos oficiales que atienden población indígena en el marco de los contratos de administración de la atención educativa, de conformidad con la metodología establecida por el Ministerio de Educación Nacional y el Departamento Nacional de Planeación y con el fin de fortalecer el derecho a la educación propia a partir de la apropiación de los recursos destinados para ello en la vigencia fiscal 2018.
 
 (Decreto 1862 de 2017, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.6.7.2 — De la administración de los recursos de gratuidad
 
 Los recursos de gratuidad que se asignen a los establecimientos educativos que atienden matrícula indígena a través de contratos de administración para la atención educativa de población indígena, serán administrados de conformidad con lo dispuesto por el artículo 2.3.1.6.3.1 y siguientes del presente decreto.
 
 (Decreto 1862 de 2017, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.7.3 — Del uso de los recursos
 
@@ -3172,8 +2758,6 @@ Adicionalmente, se deben tener en cuenta las prohibiciones que sobre el uso de e
 PARÁGRAFO . En las canastas educativas contratadas en el marco de los contratos de administración de la atención educativa con autoridades y organizaciones indígenas, de que trata el Capítulo 4, del Título 1, de la Parte 3, del Libro 2, del presente Decreto, se discriminaran los componentes a financiar, siempre que no se incluyan conceptos de gasto de los que trata el presente Artículo. La Entidad Territorial Certificada garantizara el cumplimiento del presente artículo.
 
 (Decreto 1862 de 2017, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.6.7.4 — Del giro de los recursos
 
@@ -3189,15 +2773,11 @@ CAPÍTULO 1
 
 EXPEDICIÓN DE LICENCIA DE FUNCIONAMIENTO
 
-ARTÍCULO
-
 ## art:2.3.2.1.1 — Ámbito de aplicación
 
 Las disposiciones del presente Capítulo aplican a los particulares que promuevan la fundación y puesta en funcionamiento de establecimientos educativos para prestar el servicio público de educación formal, en los niveles de preescolar, básica y media.
 
 (Decreto 3433 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.2.1.2 — Licencia de funcionamiento
 
@@ -3206,8 +2786,6 @@ Licencia de funcionamiento es el acto administrativo motivado de reconocimiento 
 Debe especificar el nombre, razón social o denominación del propietario del establecimiento educativo, quien será el titular de la licencia, Número de Identificación DANE y nombre completo del establecimiento educativo, ubicación de su planta física, niveles, ciclos y modalidades que ofrecerá, número máximo de estudiantes que puede atender y tarifas de matrícula y pensión para los grados que ofrecerá durante el primer año de funcionamiento.
 
 (Decreto 3433 de 2008, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.2.1.3 — Alcance, efectos y modalidades de la licencia de funcionamiento
 
@@ -3224,8 +2802,6 @@ PARÁGRAFO 1. El solicitante únicamente se entenderá autorizado a prestar el s
 PARÁGRAFO 2. Las licencias otorgadas de conformidad con las normas anteriores al 12 de septiembre de 2008 conservarán su vigencia. No obstante, cualquier modificación que se requiera deberá ajustarse a lo dispuesto en este Título.
 
 (Decreto 3433 de 2008, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.2.1.4 — Solicitud
 
@@ -3261,15 +2837,11 @@ PARÁGRAFO . Para obtener la licencia de funcionamiento en las modalidades condi
 
 (Decreto 3433 de 2008, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.2.1.5 — Procedimiento
 
 La secretaría de educación de la entidad territorial certificada dará a la solicitud de licencia el trámite previsto en las normas aplicables vigentes.
 
 (Decreto 3433 de 2008, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.2.1.6 — Causales de negación de la licencia de funcionamiento
 
@@ -3295,15 +2867,11 @@ PARÁGRAFO . Contra el acto administrativo que niegue la licencia de funcionamie
 
 (Decreto 3433 de 2008, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.2.1.7 — Fijación de tarifas
 
 Con la licencia de funcionamiento se autoriza al establecimiento educativo privado para que aplique las tarifas de matrícula, pensiones y cobros periódicos presentados en la propuesta aprobada. El establecimiento se clasificará en uno de los regímenes de tarifas, de acuerdo con el resultado de la autoevaluación a que hace referencia el literal I) del artículo 2.3.2.1.4. de este Decreto.
 
 (Decreto 3433 de 2008, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.2.1.8 — Pérdida de vigencia
 
@@ -3312,8 +2880,6 @@ Si el establecimiento educativo no inicia labores después de dos años de exped
 PARÁGRAFO . Para los efectos de esta disposición, se entenderá como fecha de inicio de labores el día en que inicien las matrículas de los estudiantes en el establecimiento objeto de la licencia.
 
 (Decreto 3433 de 2008, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.2.1.9 — Modificaciones
 
@@ -3325,15 +2891,11 @@ PARÁGRAFO . El particular está obligado a informar de la decisión de cierre d
 
 (Decreto 3433 de 200a artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.2.1.10 — Información al público
 
 Las secretarías de educación mantendrán en el Directorio Único de Establecimientos Educativos (DUE) y disposición del público, la información actualizada sobre los establecimientos educativos privados con licencia de funcionamiento vigente en su jurisdicción, incluyendo por lo menos nombre completo, Número de identificación DANE, número de la licencia, dirección, teléfono, correo electrónico y niveles autorizados. Los establecimientos educativos tienen la obligación de reportar a la secretaría de educación de su jurisdicción los datos de su establecimiento y estudiantes, en la forma y términos que requieran las autoridades educativas territoriales y nacionales.
 
 (Decreto 3433 de 2008, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.2.1.11 — Inspección y vigilancia
 
@@ -3353,8 +2915,6 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.1 — Autorización
 
 Los establecimientos educativos privados que ofrezcan la educación formal en cualquiera de sus niveles, preescolar, básica y media, serán autorizados para la aplicación de tarifas de matrículas, pensiones y cobros periódicos, originados en la prestación del servicio educativo, de acuerdo con las normas contenidas en el presente Capítulo.
@@ -3365,8 +2925,6 @@ Para los efectos del presente Capítulo, de conformidad con lo dispuesto en los 
 
 (Decreto 2253 de 1995. artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.2 — Competencias de las entidades territoriales certificadas en educación
 
 El cobro de tarifas de matrículas, pensiones y cobros periódicos originados en la prestación del servicio educativo por parte de los establecimientos educativos privados, será autorizado por los entidades territoriales certificadas en educación, como autoridades competentes delegadas en su respectiva jurisdicción por el Ministerio de Educación Nacional, en los términos de la Ley 115 de 1994 y del Decreto 860 de 1994, en la manera en que queda compilado en el presente Decreto. Esta competencia será ejercida, de acuerdo con las disposiciones de este Capítulo y de otros actos administrativos, como circulares y directivas, expedidas por el Ministerio de Educación Nacional.
@@ -3375,8 +2933,6 @@ Las secretarías de educación darán en sus respectivos territorios las orienta
 
 (Decreto 2253 de 1995, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.3 — Regímenes para la definición de las tarifas
 
 De conformidad con el artículo 202 de la Ley 115 de 1994, los regímenes ordinarios para la autorización de tarifas de matrículas, pensiones y cobros periódicos originados en la prestación del servicio educativo por parte de los establecimientos educativos privados, son los de libertad regulada y de libertad vigilada.
@@ -3384,8 +2940,6 @@ De conformidad con el artículo 202 de la Ley 115 de 1994, los regímenes ordina
 El régimen controlado establecido por el mismo artículo es de aplicación excepcional.
 
 (Decreto 2253 de 1995, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.4 — Definiciones
 
@@ -3407,8 +2961,6 @@ Otros cobros periódicos: son las sumas que pagan por servicios del establecimie
 
 (Decreto 2253 de 1995. artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.5 — Criterios para definir las tarifas
 
 Para la aplicación del presente Capítulo, el Consejo Directivo del establecimiento educativo privado deberá observar y aplicar los criterios definidos en el artículo 202 de la Ley 115 de 1994.
@@ -3419,15 +2971,11 @@ El Manual será revisado y ajustado cada dos años por parte del Ministerio de E
 
 (Decreto 2253 de 1995, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.6 — Del registro contable
 
 Todos los establecimientos educativos privados deberán llevar los registros contables en la forma, requisitos y condiciones exigidos por las normas y los principios de contabilidad generalmente aceptados.
 
 (Decreto 2253 de 1995, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.7 — Comunicación de las tarifas en los regímenes controlado y de libertad vigilada
 
@@ -3435,15 +2983,11 @@ Los establecimientos educativos privados que se clasifiquen en los regímenes co
 
 (Decreto 529 de 2006, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.8 — Autorización para el cobro de tarifas
 
 Las secretarías de educación de las entidades territoriales certificadas autorizarán los incrementos de las tarifas mediante acto administrativo individual para cada establecimiento educativo privado.
 
 (Decreto 2878 de 1997. artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.9 — Asistencia técnica
 
@@ -3452,8 +2996,6 @@ Las secretarías de educación de las entidades territoriales certificadas, como
 Igualmente, divulgarán a través de los medios de comunicación social, la obligación de los establecimientos educativos de realizar el proceso de evaluación y clasificación y los propósitos que conlleva para el mejoramiento del servicio educativo ofrecido.
 
 (Decreto 2878 de 1997, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.10 — Revisión del sistema de fijación de tarifas
 
@@ -3469,8 +3011,6 @@ SECCIÓN 2
 
 Régimen de libertad vigilada
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.1 — Definición
 
 De conformidad con el artículo 202 de la Ley 115 de 1994, el régimen de libertad vigilada es el aplicable al establecimiento educativo privado que previa evaluación y clasificación de los servicios que viene prestando y de los que ofrece prestar para el año académico siguiente, le permite la adopción de tarifas de matrículas y pensiones, dentro de los rangos de valores preestablecidos para la categoría de servicio en que resulte clasificado, de acuerdo con este Capítulo.
@@ -3478,8 +3018,6 @@ De conformidad con el artículo 202 de la Ley 115 de 1994, el régimen de libert
 Para la determinación de las tarifas dentro de los rangos, el establecimiento educativo deberá atender los criterios que para el efecto defina el Manual que expida el Ministerio de Educación Nacional.
 
 (Decreto 2253 de 1995, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2 — Procedencia
 
@@ -3494,8 +3032,6 @@ PARÁGRAFO 1. Constituyen indicadores prioritarios de servicios, aquellos determ
 PARÁGRAFO 2. La categoría de base es aquella en la que se clasifican los servicios y recursos de un establecimiento educativo privado con los requerimientos mínimos de calidad exigidos en el Manual, de acuerdo con las disposiciones constitucionales, legales y reglamentarias sobre el servicio público educativo.
 
 (Decreto 2253 de 1995, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3 — Régimen de libertad vigilada por aplicación del Manual de Autoevaluación
 
@@ -3517,15 +3053,11 @@ PARÁGRAFO . Los rangos de tarifas para el régimen de libertad vigilada fijados
 
 (Decreto 2253 de 1995, artículo 9, modificado por el Decreto 529 de 2006, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4 — Reclasificación
 
 Los establecimientos educativos privados que se encuentren en el régimen de libertad vigilada podrán reclasificarse dentro del mismo régimen para el año académico inmediatamente siguiente, atendiendo las disposiciones del presente Capítulo.
 
 (Decreto 2253 de 1995, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.5 — Otros cobros pecuniarios
 
@@ -3537,15 +3069,11 @@ SECCIÓN 3
 
 Régimen de libertad regulada
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.1 — Ámbito de aplicación
 
 La presente Sección aplica a los establecimientos educativos privados que ofrezcan los niveles o ciclos de educación preescolar, básica y media que aspiran a clasificarse en el régimen de libertad regulada para la fijación de tarifas del servicio educativo.
 
 (Decreto 529 de 2006, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.2 — Aplicación del régimen de libertad regulada
 
@@ -3559,15 +3087,11 @@ Podrá aplicar el régimen de libertad regulada el establecimiento educativo pri
 
 (Decreto 529 de 2006, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.3 — Clasificación por autoevaluación
 
 La comunicación de la clasificación de un establecimiento educativo privado en el régimen de libertad regulada con base en el resultado de su autoevaluación, deberá ser presentada a la secretaría de educación de la entidad territorial certificada donde se encuentre ubicado el establecimiento, de conformidad con lo previsto en el Decreto 2253 de 1995, en la manera en que queda compilado en el presente Decreto.
 
 (Decreto 529 de 2006, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.4 — Procedencia de la clasificación por autoevaluación
 
@@ -3580,8 +3104,6 @@ Sólo podrán acceder al régimen de libertad regulada aquellos establecimientos
 PARÁGRAFO . Los establecimientos educativos privados que se encuentren en el régimen de libertad regulada podrán reingresar al régimen de libertad vigilada para el año académico inmediatamente siguiente, atendiendo las disposiciones del presente Capítulo.
 
 (Decreto 2253 de 1995, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.5 — Trámite para la clasificación al régimen de libertad regulada por aplicación del Manual de Autoevaluación
 
@@ -3597,8 +3119,6 @@ Aprobados éstos, serán remitidos por el rector o director del establecimiento 
 
 (Decreto 2253 de 1995, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.6 — Clasificación por certificación de sistema de gestión de calidad
 
 Para la clasificación de un establecimiento educativo privado dentro del régimen de libertad regulada será válido el certificado sobre la aplicación de un sistema de gestión de calidad normalizado, otorgado por un organismo de certificación acreditado por la Superintendencia de Industria y Comercio en el Sistema Nacional de Normalización, Certificación y Metrología, cuyo alcance de acreditación comprenda la clasificación M Educación (División 80) de conformidad con el Código Industrial Internacional Uniforme, CIIU, Revisión 3.
@@ -3608,8 +3128,6 @@ La copia de tal certificado deberá ser adjuntada a la comunicación que dirija 
 PARÁGRAFO . Un sistema de gestión de calidad normalizado es el que corresponde a un conjunto de elementos mutuamente relacionados para dirigir y controlar la calidad de una organización, especificados en una norma técnica como requisitos, tal como el previsto en la NTC - ISO 9000.
 
 (Decreto 529 de 2006, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.7 — Clasificación por la aplicación de un modelo de reconocimiento de gestión de calidad
 
@@ -3623,8 +3141,6 @@ PARÁGRAFO : Un modelo de reconocimiento de gestión de calidad corresponde a un
 
 (Decreto 529 de 2006, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.8 — Validación del modelo de reconocimiento de gestión de calidad
 
 El interesado en la validación de un modelo de reconocimiento de gestión de calidad deberá solicitarla por escrito ante el Ministerio de Educación Nacional, bajo el trámite del derecho de petición en interés particular, adjuntando la descripción completa del modelo y de los referentes documentales que lo integren y presentado en forma clara sus fundamentos teóricos y la sustentación de su validez, así como el detalle de la modalidad de evaluación propia del modelo. En la documentación se debe evidenciar que el modelo integra los conceptos clave de la administración de la calidad y aseguramiento de la calidad y que contempla una calificación o puntaje mínimo de aplicación a partir del cual se considere implementado y en funcionamiento.
@@ -3634,8 +3150,6 @@ El modelo debe contemplar la aplicación específica para el servicio educativo 
 PARÁGRAFO . La validación del modelo tendrá una vigencia de diez (10) años.
 
 (Decreto 529 de 2006, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.9 — Vigencia de las tarifas en el régimen de libertad regulada
 
@@ -3647,8 +3161,6 @@ Objetada la tarifa el establecimiento será clasificado por la secretaría de ed
 
 (Decreto 529 de 2006: artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.10 — Cobros de otros derechos pecuniarios
 
 Para el cobro periódico de transporte escolar, alojamiento escolar y alimentación y para los otros cobros periódicos definidos en el artículo 2.3.2.2.1.4. de este reglamento, los establecimientos educativos privados bajo el régimen de libertad regulada tendrán en cuenta el monto de costos calculado para tales servicios, debidamente justificado.
@@ -3659,8 +3171,6 @@ SECCIÓN 4
 
 Régimen controlado
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.1 — Ámbito de aplicación
 
 De conformidad con el artículo 202 de la Ley 115 de 1994, el régimen controlado es el aplicable al establecimiento educativo privado para efectos del cobro de tarifas de matrículas, pensiones y cobros periódicos, por sometimiento voluntario de éste o por determinación del Ministerio de Educación Nacional o de la autoridad que éste delegue, cuando se compruebe la existencia de infracciones a los regímenes ordinarios previstos en la ley y en el presente Capítulo.
@@ -3668,8 +3178,6 @@ De conformidad con el artículo 202 de la Ley 115 de 1994, el régimen controlad
 La autoridad competente definida en el artículo 2.3.2.2.1.2. del presente Decreto, fijará las tarifas a los establecimientos educativos sometidos a este régimen.
 
 (Decreto 2253 de 1995, artículo 18),
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.2 — Causales
 
@@ -3689,8 +3197,6 @@ PARÁGRAFO . Si como consecuencia de la evaluación y clasificación inicial de 
 
 (Decreto 2253 de 1995, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.3 — Autoridad competente
 
 La sanción de sometimiento de un establecimiento educativo privado al régimen controlado, será impuesta por el gobernador o alcalde de la entidad territorial certificada e implica que las tarifas de matrículas y pensiones que puede aplicar durante el año académico en curso y mientras permanezca en el régimen controlado, serán las que determine dicha autoridad siguiendo las instrucciones que para el efecto otorgue el Ministerio de Educación Nacional, de acuerdo con lo dispuesto en el artículo 2.3.2.2.1.2. de este Decreto.
@@ -3702,8 +3208,6 @@ La determinación tomada por el gobernador o el alcalde no es objeto del recurso
 PARÁGRAFO . En todos los casos de sometimiento al régimen controlado por sanción, si a ello hubiere lugar, el acto administrativo correspondiente fijará las condiciones y los plazos dentro de los cuales el establecimiento educativo privado deberá cesar en la conducta infractora o mejorar la calidad institucional, de servicios o de recursos que dieron origen a la infracción.
 
 (Decreto 2253 de 1995, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.4 — Superación de la clasificación del régimen controlado
 
@@ -3717,8 +3221,6 @@ Efectuada la inspección se autorizará o denegará la petición, de tal manera 
 
 (Decreto 2253 de 1995, artículo 21).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.5 — Clasificación voluntaria
 
 El establecimiento educativo privado que por decisión voluntaria de su Consejo Directivo quiera acogerse al régimen controlado para el cobro de tarifas de matrícula y pensiones, comunicará a la Secretaría de Educación de la entidad territorial certificada en cuya jurisdicción operan, con no menos de sesenta (60) días calendario de anticipación a la fecha prevista para el inicio de matrículas para el año académico en que se aplicarán las tarifas para cada uno de los grados que ofrezca, adjuntando los formularios anexos al Manual de Autoevaluación y Clasificación de Establecimientos Educativos y Privados y la copia de las actas de las sesiones del Consejo Directivo en las que se presentó la autoevaluación y en la que esta fue avalada y la certificación de la fecha de matrícula.
@@ -3730,8 +3232,6 @@ Esta clasificación deberá efectuarse al menos con treinta (30) días de antici
 El establecimiento educativo deberá permanecer en el régimen controlado durante todo el año académico, pero podrá optar por acceder al régimen de libertad vigilada para el año académico siguiente, atendiendo las disposiciones de este reglamento, en especial las contenidas entre los artículos 2.3.2.2.2.1. y 2.3.2.2.2.5. del presente Decreto.
 
 (Decreto 2253 de 1995, artículo 22, modificado por el Decreto 529 de 2006, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.6 — Cobro de otros derechos pecuniarios
 
@@ -3745,8 +3245,6 @@ CAPÍTULO 3
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.2.3.1 — Fórmula para el cobro de matrículas y pensiones
 
 El proyecto educativo institucional al establecer el sistema de matrículas y pensiones del establecimiento educativo privado, definirá una fórmula para el cobro gradual de las mismas que se aplicará cuando así lo indique su Consejo Directivo, en el momento del ingreso a uno de los regímenes ordinarios o del ascenso a una categoría superior en el régimen de libertad vigilada, para un año académico determinado.
@@ -3755,15 +3253,11 @@ La aplicación de la gradualidad que adopte el establecimiento educativo privado
 
 (Decreto 2253 de 1995, artículo 24).
 
-ARTÍCULO
-
 ## art:2.3.2.3.2 — De la reglamentación interna
 
 El reglamento o manual de convivencia del establecimiento educativo privado fijará normas generales para el cumplimiento oportuno de las obligaciones económicas derivadas del sistema de matrículas y pensiones que se especificarán, en cada caso, dentro del texto del contrato de matrícula, en especial lo relativo a los términos o plazos para cancelar los valores de matrícula, pensiones y los cobros periódicos.
 
 (Decreto 2253 de 1995, artículo 25).
-
-ARTÍCULO
 
 ## art:2.3.2.3.3 — Publicidad
 
@@ -3771,15 +3265,11 @@ Determinadas las tarifas por parte del establecimiento educativo privado, deber�
 
 (Decreto 2253 de 1995, artículo 26).
 
-ARTÍCULO
-
 ## art:2.3.2.3.4 — Inspección y vigilancia
 
 De conformidad con lo dispuesto en el ARTÍCULO 171 de la Ley 115 de 1994 en armonía con el artículo 2.3.3.1.8.1. del presente Decreto, los gobernadores y alcaldes distritales y municipales ejercerán las funciones de inspección y vigilancia sobre el cumplimiento de lo dispuesto en el presente Capítulo y en los demás actos administrativos que se expidan, en atención a lo dispuesto en el ARTÍCULO 2.3.2.2.1.2. de este Decreto.
 
 (Decreto 2253 de 1995, artículo 27).
-
-ARTÍCULO
 
 ## art:2.3.2.3.5 — Competencia para la expedición de actos administrativos
 
@@ -3787,15 +3277,11 @@ Los actos administrativos a que se refieren los artículos 2.3.2.2.2.3., 2.3.2.2
 
 (Decreto 2253 de 1995, artículo 28).
 
-ARTÍCULO
-
 ## art:2.3.2.3.6 — Conformación de comisiones
 
 Las secretarías de educación de las entidades territoriales certificadas podrán integrar comisiones asesoras y consultivas en las que participen la comunidad educativa y las asociaciones de establecimientos educativos privados, para la aplicación de las normas que regulan el cobro de matrículas, pensiones y cobros periódicos en dichos establecimientos y para el mejoramiento de la calidad del servicio educativo.
 
 (Decreto 2253 de 1995, artículo 29).
-
-ARTÍCULO
 
 ## art:2.3.2.3.7 — Asunción de competencias
 
@@ -3815,8 +3301,6 @@ SECCIÓN 1
 
 Ámbito y naturaleza
 
-ARTÍCULO
-
 ## art:2.3.3.1.1.1 — Ámbito y naturaleza
 
 Las normas reglamentarias contenidas en el presente Capítulo se aplican al servicio público de educación formal que presten los establecimientos educativos del Estado, los privados, los de carácter comunitario, solidario, cooperativo o sin ánimo de lucro. Su interpretación debe favorecer la calidad, continuidad y universalidad del servicio público de la educación, así como el mejor desarrollo del proceso de formación de los educandos.
@@ -3831,8 +3315,6 @@ SECCIÓN 2
 
 Garantía del servicio educativo
 
-ARTÍCULO
-
 ## art:2.3.3.1.2.1 — Responsables de la educación de los menores
 
 El Estado, la sociedad y la familia son responsables de la educación obligatoria de acuerdo con lo definido en la Constitución y la ley. La Nación y las entidades territoriales cumplirán esta obligación en los términos previstos en las Leyes 715 de 2001 y 115 de 1994 y en el presente Capítulo. Los padres o quienes ejerzan la patria potestad sobre el menor, lo harán bajo la vigilancia e intervención directa de las autoridades competentes.
@@ -3841,8 +3323,6 @@ El carné estudiantil expedido a nombre del menor, será el medio para acreditar
 
 (Decreto 1860 de 1994, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.1.2.2 — Obligaciones de la familia
 
 En desarrollo del mandato constitucional que impone a los padres de los menores el deber de sostenerlos y educarlos y en cumplimiento de las obligaciones asignadas a la familia por el artículo 7 de la Ley 115 de 1994, la omisión o desatención al respecto se sancionará según lo dispuesto por la ley. Los jueces de menores y los funcionarios administrativos encargados del bienestar familiar, conocerán de los casos que les sean presentados por las autoridades, los familiares del menor o cualquier otro ciudadano interesado en el bienestar del menor.
@@ -3850,8 +3330,6 @@ En desarrollo del mandato constitucional que impone a los padres de los menores 
 Los padres o tutores del menor sólo podrán ser eximidos de esta responsabilidad, por insuficiencia de cupos en el servicio público educativo en su localidad o por la incapacidad insuperable física o mental del menor, para ser sujeto de educación.
 
 (Decreto 1860 de 1994, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.1.2.3 — El servicio de educación básica
 
@@ -3865,8 +3343,6 @@ SECCIÓN 3
 
 Organización de la educación formal
 
-ARTÍCULO
-
 ## art:2.3.31.3.1 — Niveles, ciclos y grados
 
 La educación básica formal se organiza por niveles, ciclos y grados según las siguientes definiciones:
@@ -3879,8 +3355,6 @@ La educación básica formal se organiza por niveles, ciclos y grados según las
 
 (Decreto 1860 de 1994, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.1.3.2 — Edades en la educación obligatoria
 
 El proyecto educativo institucional de cada establecimiento educativo definirá los límites superiores e inferiores de edad para cursar estudios en él teniendo en cuenta el desarrollo personal del educando que garantice su incorporación a los diversos grados de la educación formal. Para ello atenderá los rangos que determine la entidad territorial correspondiente, teniendo en cuenta los factores regionales, culturales y étnicos.
@@ -3888,8 +3362,6 @@ El proyecto educativo institucional de cada establecimiento educativo definirá 
 Quienes por algún motivo se encuentren por fuera de los rangos allí establecidos, podrán utilizar la validación o las formas de nivelación que debe brindar el establecimiento educativo, con el fin de incorporarse al grado que corresponda según el plan de estudios.
 
 (Decreto 1860 de 1994, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.3.1.3.3 — Títulos y certificados
 
@@ -3911,8 +3383,6 @@ Para el solo efecto de la satisfacción de los requisitos de ingreso a los progr
 
 Decreto 1860 de 1994, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.3.1.3.4 — Continuidad dentro del servicio educativo
 
 La educación preescolar, la básica, la media, la del servicio especial de educación laboral, la universitaria, la técnica y la tecnológica, constituyen un solo sistema interrelacionado y adecuadamente flexible, como para permitir a los educandos su tránsito y continuidad dentro del proceso formativo personal.
@@ -3924,8 +3394,6 @@ Quienes obtengan el título en un arte u oficio del servicio especial de educaci
 También podrán ser admitidos a programas de formación en ocupaciones de carácter operativo e instrumental ofrecidos por las instituciones técnicas profesionales, los alumnos con certificado de bachillerato básico que validen el servicio especial de educación laboral, de acuerdo con el reglamento que para el efecto expida el Ministerio de Educación Nacional.
 
 (Decreto 1860 de 1994, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.3.1.3.5 — Articulación de la oferta educativa
 
@@ -3952,8 +3420,6 @@ PARÁGRAFO . Para todos los efectos, los establecimientos educativos que ofrezca
 SECCIÓN 4
 
 Proyecto educativo institucional
-
-ARTÍCULO
 
 ## art:2.3.3.1.4.1 — Contenido del proyecto educativo institucional
 
@@ -3991,8 +3457,6 @@ Para lograr la formación integral de los educandos, debe contener por lo menos 
 
 (Decreto 1860 de 1994, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.3.1.4.2 — Adopción del proyecto educativo institucional
 
 Cada establecimiento educativo goza de autonomía para formular, adoptar y poner en práctica su propio proyecto educativo institucional sin más limitaciones que las definidas por la ley y este Capítulo.
@@ -4007,19 +3471,13 @@ Su adopción debe hacerse mediante un proceso de participación de los diferente
 
 Si se trata de materias relacionadas con los numerales 1, 3, 5, 7 y 8 del ARTÍCULO anterior del presente Decreto, las propuestas de modificación que no hayan sido aceptadas por el Consejo Directivo deberán ser sometidas a una segunda votación, dentro de un plazo que permita la consulta a los estamentos representados en el Consejo y, en caso de ser respaldadas por la mayoría que fije su reglamento, se procederá a adoptarlas.
 
-## art:4 — La agenda del proceso
+4. La agenda del proceso. El Consejo Directivo al convocar a la comunidad señalará las fechas límites para cada evento del proceso, dejando suficiente tiempo para la comunicación, la deliberación y la reflexión.
 
-El Consejo Directivo al convocar a la comunidad señalará las fechas límites para cada evento del proceso, dejando suficiente tiempo para la comunicación, la deliberación y la reflexión.
-
-## art:5 — E) plan operativo
-
-El rector presentará al Consejo Directivo, dentro de los tres meses siguientes a la adopción del proyecto educativo institucional, el plan operativo correspondiente que contenga entre otros, las metas, estrategias, recursos y cronograma de las actividades necesarias para alcanzar los objetivos del proyecto. Periódicamente y por lo menos cada año, el plan operativo será revisado y constituirá un punto de referencia para la evaluación institucional. Deberá incluir los mecanismos necesarios para realizar ajustes al plan de estudios.
+5. E) plan operativo. El rector presentará al Consejo Directivo, dentro de los tres meses siguientes a la adopción del proyecto educativo institucional, el plan operativo correspondiente que contenga entre otros, las metas, estrategias, recursos y cronograma de las actividades necesarias para alcanzar los objetivos del proyecto. Periódicamente y por lo menos cada año, el plan operativo será revisado y constituirá un punto de referencia para la evaluación institucional. Deberá incluir los mecanismos necesarios para realizar ajustes al plan de estudios.
 
 PARÁGRAFO . Las secretarías de educación de las entidades territoriales certificadas deberán prestar asesoría a los establecimientos educativos de su jurisdicción que así lo soliciten, en el proceso de elaboración y adopción del proyecto educativo institucional.
 
 (Decreto 1860 de 1994, artículo 15).
-
-ARTÍCULO
 
 ## art:2.3.3.1.4.3 — Obligatoriedad del proyecto educativo institucional
 
@@ -4036,8 +3494,6 @@ Igualmente, organizarán un sistema de divulgación y apoyo a las experiencias s
 En la medida que se consolide el Sistema Nacional de Información de Calidad de la Educación, las secretarías departamentales y distritales los incorporarán al Sistema.
 
 (Decreto 1860 de 1994, artículo 16, modificado por el Decreto 180 de 1997, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.1.4.4 — Reglamento o manual de convivencia
 
@@ -4077,8 +3533,6 @@ SECCIÓN 5
 
 Gobierno escolar y organización institucional
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.1 — Comunidad educativo
 
 Según lo dispuesto en el artículo 6o. de la Ley 115 de 1994, la comunidad educativa está constituida por las personas que tienen responsabilidades directas en la organización, desarrollo y evaluación del proyecto educativo institucional que se ejecuta en un determinado establecimiento o institución educativa.
@@ -4099,8 +3553,6 @@ Todos los miembros de la comunidad educativa son competentes para participar en 
 
 (Decreto 1860 de 1994, artículo 18.)
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.2 — Obligatoriedad del Gobierno Escolar
 
 Todos los establecimientos educativos deberán organizar un gobierno para la participación democrática de todos los estamentos de la comunidad educativa, según lo dispone el artículo 142 de la Ley 115 de 1994.
@@ -4112,8 +3564,6 @@ Las instituciones educativas privadas, comunitarias, cooperativas, solidarias o 
 También estas instituciones deberán acogerse a las fechas que para el efecto de la organización del gobierno escolar, se establecen en esta Sección. En caso contrario, la licencia de funcionamiento quedará suspendida.
 
 (Decreto 1860 de 1994, artículo 19).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.3 — Órganos del Gobierno Escolar
 
@@ -4130,8 +3580,6 @@ Los representantes de los órganos colegiados serán elegidos para períodos anu
 PARÁGRAFO . En los establecimientos educativos no estatales, quien ejerza su representación legal será considerado como el Director Administrativo de la institución y tendrá autonomía respecto al Consejo Directivo, en el desempeño de sus funciones administrativas y financieras. En estos casos el Director Administrativo podrá ser una persona natural distinta del Rector.
 
 (Decreto 1860 de 1994, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.4 — Integración del Consejo Directivo
 
@@ -4153,15 +3601,11 @@ PARÁGRAFO 2. Dentro de los primeros sesenta días calendario siguientes al de l
 
 (Decreto 1860 de 1994, artículo 21).
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.5 — Consejo Directivo Común
 
 Los establecimientos educativos asociados contarán con un Consejo Directivo Común, de acuerdo con lo establecido en el parágrafo del artículo 143 de la ley 115 de 1994. En este caso, la elección de los representantes que lo integran se hará en sendas reuniones conjuntas de las juntas directivas de las asociaciones de padres de familia, de los consejos de estudiantes, de las asambleas de los docentes de los establecimientos y de las asambleas de los exalumnos.
 
 (Decreto 1860 de 1994, artículo 22).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.6 — Funciones del Consejo Directivo
 
@@ -4205,8 +3649,6 @@ PARÁGRAFO . En los establecimientos educativos no estatales el Consejo Directiv
 
 (Decreto 1860 de 1994, artículo 23).
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.7 — Consejo Académico
 
 El Consejo Académico está integrado por el Rector quien lo preside, los directivos docentes y un docente por cada área definida en el plan de estudios. Cumplirá las siguientes funciones:
@@ -4226,8 +3668,6 @@ f) Recibir y decidir los reclamos de los alumnos sobre la evaluación educativa,
 g) Las demás funciones afines o complementarias con las anteriores que le atribuya e proyecto educativo institucional.
 
 (Decreto 1860 de 1994, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.8 — Funciones del Rector
 
@@ -4257,8 +3697,6 @@ k) Las demás funciones afines o complementarias con las anteriores que le atrib
 
 (Decreto 1860 de 1994, artículo 25).
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.9 — Funciones de la dirección administrativa
 
 En los establecimientos educativos privados donde funcione una dirección administrativa y financiera, ésta podrá tomar las decisiones relativas a la administración de los recursos financieros, patrimoniales y laborales, ajustadas a los objetivos, fines y pautas contenidas en el proyecto educativo institucional y a los estatutos de la entidad propietaria de los bienes utilizados para prestar el servicio público educativo.
@@ -4266,8 +3704,6 @@ En los establecimientos educativos privados donde funcione una dirección admini
 En los establecimientos de carácter estatal las funciones superiores de administración serán ejercidas por un secretario administrativo, si el tamaño de la institución justifica la creación de este cargo.
 
 (Decreto 1860 de 1994, artículo 26).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.10 — Directivos docentes
 
@@ -4280,8 +3716,6 @@ Todos los establecimientos educativos de acuerdo con su proyecto educativo insti
 3. La interacción y participación de la comunidad educativa para conseguir el bienestar colectivo de la misma. Para ello, podrá impulsar programas y proyectos que respondan a necesidades y conveniencias.
 
 (Decreto 1860 de 1994, artículo 27).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.11 — Personero de los estudiantes
 
@@ -4302,8 +3736,6 @@ El personero de los estudiantes será elegido dentro de los treinta días calend
 El ejercicio del cargo de personero de los estudiantes es incompatible con el de representante de los estudiantes ante el Consejo Directivo.
 
 (Decreto 1860 de 1994, artículo 28).
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.12 — Consejo de estudiantes
 
@@ -4329,8 +3761,6 @@ SECCIÓN 6
 
 Orientaciones curriculares
 
-ARTÍCULO
-
 ## art:2.3.3.1.6.1 — Áreas
 
 En el plan de estudios se incluirán las áreas del conocimiento definidas como obligatorias y fundamentales en los nueve grupos enumerados en el artículo 23 de la Ley 115 de 1994. Además, incluirá grupos de áreas o asignaturas que adicionalmente podrá seleccionar el establecimiento educativo para lograr los objetivos del proyecto educativo institucional, sin sobrepasar el veinte por ciento de las áreas establecidas en el plan de estudios.
@@ -4339,8 +3769,6 @@ Las áreas pueden concursarse por asignaturas y proyectos pedagógicos en perío
 
 (Decreto 1860 de 1994. artículo 34).
 
-ARTÍCULO
-
 ## art:2.3.3.1.6.2 — Desarrollo de asignaturas
 
 Las asignaturas tendrán el contenido, la intensidad horaria y la duración que determine el proyecto educativo institucional, atendiendo los lineamientos del presente Capítulo y los que para su efecto expida el Ministerio de Educación Nacional.
@@ -4348,8 +3776,6 @@ Las asignaturas tendrán el contenido, la intensidad horaria y la duración que 
 En el desarrollo de una asignatura se deben aplicar estrategias y métodos pedagógicos activos y vivenciales que incluyan la exposición, la observación, la experimentación, la práctica, el laboratorio, el taller de trabajo, la informática educativa, el estudio personal y los demás elementos que contribuyan a un mejor desarrollo cognitivo y a una mayor formación de la capacidad crítica, reflexiva y analítica del educando.
 
 (Decreto 1860 de 1994, artículo 35).
-
-ARTÍCULO
 
 ## art:2.3.3.1.6.3 — Proyectos pedagógicos
 
@@ -4360,8 +3786,6 @@ Los proyectos pedagógicos también podrán estar orientados al diseño y elabor
 La intensidad horaria y la duración de los proyectos pedagógicos se definirán en el respectivo plan de estudios.
 
 (Decreto 1860 de 1994, artículo 36).
-
-ARTÍCULO
 
 ## art:2.3.3.1.6.4 — Servicio social estudiantil
 
@@ -4374,8 +3798,6 @@ Los programas del servicio social estudiantil podrán ser ejecutados por el esta
 El Ministerio de Educación Nacional reglamentará los demás aspectos del servicio social estudiantil que faciliten su eficiente organización y funcionamiento.
 
 (Decreto 1860 de 1994, artículo 39).
-
-ARTÍCULO
 
 ## art:2.3.3.1.6.5 — Servicio de orientación
 
@@ -4395,15 +3817,11 @@ f) Las demás relativas a la formación personal de que trata el artículo 92 de
 
 (Decreto 1860 de 1994, artículo 40).
 
-ARTÍCULO
-
 ## art:2.3.3.1.6.6 — Áreas de la educación media técnica
 
 De conformidad con el literal c) del artículo 33 de la Ley 115 de 1994, además de las áreas propias de las especialidades que se ofrezcan en la educación media técnica, serán obligatorias y fundamentales las mismas señaladas para la educación básica en un nivel más avanzado y en la proporción que defina el proyecto educativo institucional.
 
 (Decreto 1860 de 1994, artículo 41).
-
-ARTÍCULO
 
 ## art:2.3.3.1.6.7 — Bibliobanco de textos y biblioteca escolar
 
@@ -4421,15 +3839,11 @@ PARÁGRAFO . Con el propósito de favorecer el hábito de lectura y una apropiac
 
 (Decreto 1860 de 1994, artículo 42).
 
-ARTÍCULO
-
 ## art:2.3.3.1.6.8 — Materiales didácticos producidos por los docentes
 
 Los docentes podrán elaborar materiales didácticos para uso de los estudiantes con el fin de orientar su proceso formativo, en los que pueden estar incluidos instructivos sobre el uso de los textos del bibliobanco, lecturas, bibliografía, ejercicios, simulaciones, pautas de experimentación y demás ayudas. Los establecimientos educativos proporcionarán los medios necesarios para la producción y reproducción de estos materiales.
 
 (Decreto 1860 de 1994, artículo 44).
-
-ARTÍCULO
 
 ## art:2.3.3.1.6.9 — Material y equipo educativo
 
@@ -4442,8 +3856,6 @@ Están incluidos como equipos de dotación institucional, bienes como los instru
 Las secretarías de educación de las entidades territoriales podrán incluir otros materiales y equipos similares o complementarios, considerados indispensables en el desarrollo de los procesos curriculares en su jurisdicción.
 
 (Decreto 1860 de 1994, artículo 45).
-
-ARTÍCULO
 
 ## art:2.3.3.1.6.10 — Infraestructura escolar
 
@@ -4465,8 +3877,6 @@ SECCIÓN 7
 
 Jornada y utilización adicional de las instalaciones escolares
 
-ARTÍCULO
-
 ## art:2.3.3.1.7.1 — Utilización adicional de las instalaciones escolares
 
 Los establecimientos educativos, según su propio proyecto educativo institucional, adelantarán actividades dirigidas a la comunidad educativa y a la vecindad, en las horas que diariamente queden disponibles después de cumplir la jornada escolar. Se dará prelación a las siguientes actividades:
@@ -4485,8 +3895,6 @@ Los establecimientos educativos, según su propio proyecto educativo institucion
 
 (Decreto 1860 de 1994, artículo 59).
 
-ARTÍCULO
-
 ## art:2.3.3.1.7.2 — Ajuste a la jornada única
 
 Los establecimientos educativos que al 5 de agosto de 1994 ofrezcan varias jornadas diurnas y estén en condiciones de unificar las jornadas procederán a hacerlo siempre que ello no cause mayores perjuicios a sus educandos y previa notificación a la respectiva secretaría de educación.
@@ -4501,8 +3909,6 @@ SECCIÓN 8
 
 Inspección y vigilancia
 
-ARTÍCULO
-
 ## art:2.3.3.1.8.1 — ejercicio de la inspección y vigilancia de la educación
 
 Deléguese en el Ministerio de Educación Nacional la función de inspección y vigilancia de la educación, atribuida al Presidente de la República, con excepción del ejercicio de la Inspección y Vigilancia de los recursos asignados por el Gobierno Nacional al Programa de Alimentación Escolar, la cual se delega en el representante legal de la Unidad Administrativa Especial de Alimentación Escolar - Alimentos para Aprender - UAPA. Los gobernadores y alcaldes ejercerán, en su respectiva jurisdicción, funciones de inspección y vigilancia, de acuerdo con las competencias otorgadas por las leyes y con el reglamento que para el efecto se expida, en cumplimiento de lo dispuesto en el Capítulo 4 del Titulo VIII de la Ley 115 de 1994".
@@ -4512,8 +3918,6 @@ Deléguese en el Ministerio de Educación Nacional la función de inspección y 
 SECCIÓN 9
 
 Sistema Nacional de Información, Sistema Nacional de Acreditación y programas de formación docente
-
-ARTÍCULO
 
 ## art:2.3.3.1.9.1 — Sistema Nacional de Información
 
@@ -4537,8 +3941,6 @@ El Sistema funcionará en forma descentralizada y organizará las diferentes for
 
 (Decreto 1860 de 1994, artículo 62).
 
-ARTÍCULO
-
 ## art:2.3.3.1.9.2 — Sistema Nacional de Acreditación
 
 El Sistema Nacional de Acreditación permite a las instituciones educativas, a los docentes, a los educandos y en general, a toda la comunidad, acreditar la calidad de la educación y a quienes diseñan y fabrican materiales y equipos educativos, certificar la calidad de sus servicios o bienes. Para el efecto el Ministerio de Educación Nacional establecerá las normas técnicas o las especificaciones que se consideren como indispensables para calificar la calidad educativa.
@@ -4548,8 +3950,6 @@ Los interesados en acreditar sus características de calidad someterán a consid
 El Ministerio de Educación Nacional mediante reglamento, establecerá la distribución de funciones y atribuciones entre la Junta Nacional de Educación, JUNE como órgano consultivo de acreditación, los órganos de inspección y vigilancia como encargados de la verificación de la calidad y los de fomento de la calidad, como encargados de elaborar las normas o especificaciones técnicas.
 
 (Decreto 1860 de 1994, artículo 63).
-
-ARTÍCULO
 
 ## art:2.3.3.1.9.3 — Adecuación de programas de formación de docentes
 
@@ -4563,15 +3963,11 @@ SECCIÓN 10
 
 Divulgación y aplicación de la normativa sobre prestación del servicio
 
-ARTÍCULO
-
 ## art:2.3.3.1.10.1 — Divulgación de este Capítulo
 
 El Ministerio de Educación Nacional y las secretarías de educación de las entidades territoriales certificadas, coordinarán la realización de foros, seminarios, cursos y encuentros pedagógicos que permitan dar a conocer a toda la comunidad educativa, las disposiciones señaladas en el presente Capítulo y faciliten su correcta aplicación.
 
 (Decreto 1860 de 1994, artículo 65).
-
-ARTÍCULO
 
 ## art:2.3.3.1.10.2 — Aplicación del presente Capítulo
 
@@ -4585,8 +3981,6 @@ SECCIÓN 11
 
 Receso estudiantil
 
-ARTÍCULO
-
 ## art:2.3.3.1.11.1 — Incorporación del receso estudiantil
 
 Los establecimientos de educación preescolar, básica y media incorporarán en su calendario académico cinco (5) días de receso estudiantil en la semana inmediatamente anterior al día feriado en que se conmemora el Descubrimiento de América.
@@ -4594,8 +3988,6 @@ Los establecimientos de educación preescolar, básica y media incorporarán en 
 Esta semana de receso estudiantil no modifica el tiempo de clase que deben dedicar los establecimientos educativos al desarrollo de las áreas obligatorias y fundamentales establecidas en la Ley 115 de 1994 y en su reglamentación.
 
 (Decreto 1373 de 2007, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.1.11.2 — Responsables de la incorporación
 
@@ -4612,8 +4004,6 @@ Las entidades territoriales certificadas que opten por esta medida deberán ajus
 En cualquier caso, el calendario académico del año 2017 no podrá desconocer ninguna de las actividades previstas en el artículo 2.4.3.4.1 de este decreto, las cuales deben ser presenciales.
 
 (Decreto 1177 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.11.3 — Integración de la semana de receso estudiantil a las Semanas de Desarrollo Institucional
 
@@ -4907,8 +4297,6 @@ SECCIÓN 1
 
 Aspectos pedagógicos y organizacionales generales
 
-ARTÍCULO
-
 ## art:2.3.3.3.1.1 — Organización de la educación básica
 
 El proceso pedagógico de la educación básica comprende nueve grados que se deben organizar en forma continua y articulada que permita el desarrollo de actividades pedagógicas de formación integral, facilite la evaluación por logros y favorezca el avance y la permanencia del educando dentro del servicio educativo.
@@ -4916,8 +4304,6 @@ El proceso pedagógico de la educación básica comprende nueve grados que se de
 La educación básica constituye prerrequisito para ingresar a la educación media o acceder al servicio especial de educación laboral.
 
 (Decreto 1860 de 1994, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.3.1.2 — Organización de la educación media
 
@@ -4928,8 +4314,6 @@ Con el fin de lograr una mejor relación entre las disciplinas y de ofrecer alte
 Los estudios de educación media podrán nivelarse o validarse de acuerdo con el reglamento.
 
 (Decreto 1860 de 1994, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.3.1.3 — Organización del servicio especial de educación laboral
 
@@ -4949,15 +4333,11 @@ SUBSECCIÓN 1
 
 Oferta del servicio
 
-ARTÍCULO
-
 ## art:2.3.3.3.2.1.1 — De media diversificada
 
 Establécese en el país la enseñanza media diversificada entendida como la etapa posterior a la educación elemental y durante la cual el alumno tiene oportunidad de formarse integralmente, a la vez que puede elegir entre varias áreas de estudio, la que más se ajuste a sus necesidades, intereses y habilidades. Así, el alumno podrá ingresar a la universidad o desempeñar más efectivamente una determinada función en su comunidad.
 
 (Decreto 1962 de 1969, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.3.2.1.2 — Organización de la media diversificada
 
@@ -4983,15 +4363,11 @@ i) El plan de estudios debe tener unidad y articulación. En consecuencia, éste
 
 j) Los institutos de enseñanza media diversificada serán parte integral de las comunidades en donde estarán localizados. Así, serán centros de la comunidad, por la comunidad, para la comunidad. (Decreto 1962 de 1969, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.3.2.1.3 — Desarrollo de/a educación media diversificada
 
 El programa de educación media diversificada se desarrollará en los institutos de educación media diversificada (INEM) y en los demás establecimientos que se encuentren autorizados para ello.
 
 (Decreto 1962 de 1969, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.3.2.1.4 — Definición
 
@@ -5000,8 +4376,6 @@ Entiéndase por Instituto de Educación Media
 Diversificada aquel que bajo administración unificada ofrece varios programas académicos y vocacionales tendientes a la obtención de grado de bachiller. En estos institutos, el alumno se familiariza primero con disciplinas de educación general, y luego escoge entre varias áreas y modalidades, previamente establecidas, la que más se ajuste a sus necesidades, intereses, aptitudes, preferencias.
 
 (Decreto 1962 de 1969, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.3.3.2.1.5 — Áreas y modalidades
 
@@ -5045,8 +4419,6 @@ Orientación familiar
 
 (Decreto 1962 de 1969, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.3.3.2.1.6 — Organización del plan de estudios
 
 El plan de estudios para cada curso incluirá un máximo de siete asignaturas. De éstas se podrán organizar hasta tres por el sistema semestral, las otras serán de duración anual.
@@ -5055,23 +4427,17 @@ PARÁGRAFO . Por decreto posterior, el Gobierno Nacional reglamentará la intens
 
 (Decreto 1962 de 1969, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.3.3.2.1.7 — Del título académico
 
 Los alumnos que terminaren satisfactoriamente sus estudios en los Institutos de Educación Media Diversificada recibirán el diploma que los acredite como bachilleres; en este se indicará el área y la modalidad de los estudios cursados.
 
 (Decreto 1962 de 1969, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.3.2.1.8 — Ingreso a la educación superior
 
 Los bachilleres egresados de los INEM, serán admitidos en todas las Universidades y demás establecimientos de educación superior, en igualdad de condiciones que los demás egresados de la educación media.
 
 (Decreto 1962 de 1969, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.3.2.1.9 — Adscripción de establecimientos de educación medía
 
@@ -5080,8 +4446,6 @@ Adscritos académicamente a los INEM, funcionarán uno varios establecimientos d
 PARÁGRAFO . El Ministerio de Educación determinará cuáles establecimientos -oficiales y no oficiales- podrán seguir el sistema diversificado de que trata la presente Sección.
 
 (Decreto 1962 de 1969, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.3.3.2.1.10 — Admisión de estudiantes
 
@@ -5092,8 +4456,6 @@ En los cuatro primeros años de la educación básica secundaria, los INEM acept
 SECCIÓN 3
 
 Evaluación del aprendizaje y promoción de los estudiantes de los niveles de educación básica y media
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.1 — Evaluación de los estudiantes
 
@@ -5117,15 +4479,11 @@ Estos apoyos se entienden como los recursos humanos, técnicos, tecnológicos o 
 
 (Decreto 1290 de 2009, artículo 1; Modificado por el Decreto 1421 de 2017, art. 2).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.2 — Objeto del Título
 
 La presente Sección reglamenta la evaluación del aprendizaje y promoción de los estudiantes de los niveles de educación básica y media que deben realizar los establecimientos educativos.
 
 (Decreto 1290 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.3 — Propósitos de la evaluación institucional de los estudiantes
 
@@ -5142,8 +4500,6 @@ Son propósitos de la evaluación de los estudiantes en el ámbito institucional
 5. Aportar información para el ajuste e implementación del plan de mejoramiento institucional.
 
 (Decreto 1290 de 2009, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.4 — Definición del sistema institucional de evaluación de los estudiantes
 
@@ -5173,8 +4529,6 @@ El sistema de evaluación institucional de los estudiantes que hace parte del pr
 
 (Decreto 1290 de 2009, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.5 — Escala de valoración nacional
 
 Cada establecimiento educativo definirá y adoptará su escala de valoración de los desempeños de los estudiantes en su sistema de evaluación. Para facilitar la movilidad de los estudiantes entre establecimientos educativos, cada escala deberá expresar su equivalencia con la escala de valoración nacional:
@@ -5191,8 +4545,6 @@ La denominación desempeño básico se entiende como la superación de los desem
 
 (Decreto 1290 de 2009, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.6 — Promoción escolar
 
 Cada establecimiento educativo determinará los criterios de promoción escolar de acuerdo con el sistema institucional de evaluación de los estudiantes. Así mismo, el establecimiento educativo definirá el porcentaje de asistencia que incida en la promoción del estudiante.
@@ -5203,8 +4555,6 @@ La promoción de estudiantes con discapacidad en la educación básica y media e
 
 (Decreto 1290 de 2009, artículo 6; Modificado por el Decreto 1421 de 2017, art. 3).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.7 — Promoción anticipada de grado
 
 Durante el primer periodo del año escolar el consejo académico, previo consentimiento de los padres de familia, recomendará ante el consejo directivo la promoción anticipada al grado siguiente del estudiante que demuestre un rendimiento superior en el desarrollo cognitivo, personal y social en el marco de las competencias básicas del grado que cursa. La decisión será consignada en el acta del consejo directivo y, si es positiva, en el registro escolar.
@@ -5212,8 +4562,6 @@ Durante el primer periodo del año escolar el consejo académico, previo consent
 Los establecimientos educativos deberán adoptar criterios y procesos para facilitar la promoción al grado siguiente de aquellos estudiantes que no la obtuvieron en el año lectivo anterior.
 
 (Decreto 1290 de 2009, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.8 — Creación del Sistema Institucional de Evaluación de los Estudiantes
 
@@ -5237,8 +4585,6 @@ PARÁGRAFO . Cuando el establecimiento educativo considere necesaria la modifica
 
 (Decreto 1290 de 2009, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.9 — Responsabilidades de/Ministerio de Educación Nacional
 
 En cumplimiento de las funciones establecidas en la ley, el Ministerio de Educación Nacional debe:
@@ -5253,8 +4599,6 @@ En cumplimiento de las funciones establecidas en la ley, el Ministerio de Educac
 
 (Decreto 1290 de 2009, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.10 — Responsabilidades de las secretarías de educación de las entidades territoriales certificadas
 
 En cumplimiento de las funciones establecidas en la ley, la entidad territorial certificada debe:
@@ -5268,8 +4612,6 @@ En cumplimiento de las funciones establecidas en la ley, la entidad territorial 
 4. Resolver las reclamaciones que se presenten con respecto de la movilidad de estudiantes entre establecimientos educativos de su jurisdicción.
 
 (Decreto 1290 de 2009, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.11 — Responsabilidades del establecimiento educativo
 
@@ -5295,8 +4637,6 @@ En cumplimiento de las funciones establecidas en la ley, el establecimiento educ
 
 (Decreto 1290 de 2009, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.12 — Derechos del estudiante
 
 El estudiante, para el mejor desarrollo de su proceso formativo, tiene derecho a:
@@ -5311,8 +4651,6 @@ El estudiante, para el mejor desarrollo de su proceso formativo, tiene derecho a
 
 (Decreto 1290 de 2009, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.13 — Deberes del estudiante
 
 El estudiante, para el mejor desarrollo de su proceso formativo, debe:
@@ -5322,8 +4660,6 @@ El estudiante, para el mejor desarrollo de su proceso formativo, debe:
 2. Cumplir con las recomendaciones y compromisos adquiridos para la superación de sus debilidades.
 
 (Decreto 1290 de 2009, artículo 13).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.14 — Derechos de los padres de familia
 
@@ -5339,8 +4675,6 @@ En el proceso formativo de sus hijos, los padres de familia tienen los siguiente
 
 (Decreto 1290 de 2009, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.15 — Deberes de los padres de familia
 
 De conformidad con las normas vigentes, los padres de familia deben:
@@ -5353,15 +4687,11 @@ De conformidad con las normas vigentes, los padres de familia deben:
 
 (Decreto 1290 de 2009, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.3.3.3.16 — Registro escolar
 
 Los establecimientos educativos deben llevar un registro actualizado de los estudiantes que contenga, además de los datos de identificación personal, el informe de valoración por grados y el estado de la evaluación, que incluya las novedades académicas que surjan.
 
 (Decreto 1290 de 2009, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.17 — Constancias de desempeño
 
@@ -5370,8 +4700,6 @@ El establecimiento educativo, a solicitud del padre de familia, debe emitir cons
 Cuando la constancia de desempeño reporte que el estudiante ha sido promovido al siguiente grado y se traslade de un establecimiento educativo a otro, será matriculado en el grado al que fue promovido según el reporte. Si el establecimiento educativo receptor, a través de una evaluación diagnóstica, considera que el estudiante necesita procesos de apoyo para estar acorde con las exigencias académicas del nuevo curso, debe implementarlos.
 
 (Decreto 1290 de 2009, artículo 17).
-
-ARTÍCULO
 
 ## art:2.3.3.3.3.18 — Graduación
 
@@ -5387,15 +4715,11 @@ SUBSECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.3.3.3.4.1.1 — Ámbito de aplicación
 
 Las disposiciones de esta Subsección tienen por objeto reglamentar la validación por grados de los estudios de la educación formal, para los casos en que el estudiante pueda demostrar que ha logrado los conocimientos, habilidades y destrezas en cada una de las áreas obligatorias y fundamentales establecidas para los grados de la educación básica y media académica.
 
 (Decreto 2832 de 2005, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.3.4.1.2 — Procedimiento
 
@@ -5425,15 +4749,11 @@ La transitoriedad del presente parágrafo estará supeditado al mejoramiento y e
 
 (Decreto 1288 de 2018, art. 5)
 
-ARTÍCULO
-
 ## art:2.3.3.3.4.1.3 — Informe a la secretaria de educación
 
 Una vez concluido cada año escolar, el rector o director del establecimiento educativo estatal o privado deberá reportar a la secretaría de educación de la entidad territorial certificada, las validaciones practicadas en tal período. Dicho reporte y las certificaciones que se expidan tendrán como soporte el registro escolar que se lleve en los libros o archivos magnéticos que debe conservar el establecimiento educativo.
 
 (Decreto 2832 de 2005, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.3.4.1.4 — Equivalencias
 
@@ -5444,8 +4764,6 @@ Quienes aspiran a continuar estudios de educación básica o media, o a iniciar 
 SUBSECCIÓN 2
 
 Colegios internacionales
-
-ARTÍCULO
 
 ## art:2.3.3.3.4.2.1 — De los colegios internacionales
 
@@ -5459,8 +4777,6 @@ SUBSECCIÓN 3
 
 Validación del bachillerato en un solo examen
 
-ARTÍCULO
-
 ## art:2.3.3.3.4.3.1 — Validación del bachillerato
 
 Pueden validar el bachillerato en un solo examen los mayores de 18 años.
@@ -5471,23 +4787,17 @@ La validación del bachillerato en un solo examen será reconocida exclusivament
 
 (Decreto 299 de 2009, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.3.4.3.2 — Objeto
 
 La evaluación se efectuará sobre las áreas de lenguaje, matemáticas, ciencias naturales, sociales y humanidades e idioma extranjero, de acuerdo con los estándares básicos de competencias establecidos por el Ministerio de Educación Nacional.
 
 (Decreto 299 de 2009, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.3.4.3.3 — Calificación
 
 El Instituto Colombiano para la Evaluación de la Educación - ICFES establecerá mediante acto administrativo la metodología para obtener la calificación mínima para aprobar las pruebas escritas o aplicaciones informáticas realizadas para la validación del bachillerato.
 
 (Decreto 299 de 2009, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.3.4.3.4 — Diploma
 
@@ -5499,23 +4809,17 @@ SECCIÓN 5
 
 Títulos y certificaciones
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.1 — Título
 
 El título es el logro académico que alcanza el estudiante a la culminación del ciclo de educación media vocacional, que lo acredita para el ingreso a otros programas de educación o para el ejercicio de una actividad, según la ley.
 
 (Decreto 180 de 1981, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.2 — Otorgamiento
 
 Las instituciones de educación legalmente autorizadas para ello, expedirán los títulos en nombre de la República de Colombia y por autorización del Ministerio de Educación Nacional, a quienes hayan cumplido con los requisitos del respectivo programa aprobado por el Estado y con las exigencias establecidas en los reglamentos internos de la institución y las demás normas legales.
 
 (Decreto 180 de 1981, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.3.5.3 — Diplomas
 
@@ -5525,8 +4829,6 @@ El texto de todo Diploma deberá redactarse en idioma castellano, incluir los no
 
 (Decreto 180 de 1981, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.4 — Títulos y certificaciones
 
 De conformidad con lo establecido en los Decretos 88 de 1976 y 1419 de 1978 las instituciones autorizadas por el Ministerio de Educación Nacional para adelantar los programas a que se contrae esta Sección, podrán expedir únicamente el título de Bachiller en la modalidad que corresponda a las distintas clases de educación diversificada.
@@ -5535,23 +4837,17 @@ PARÁGRAFO . La terminación de cualquier otro ciclo de educación no superior s
 
 (Decreto 180 de 1981, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.5 — Validez de los títulos académicos
 
 Para la validez del título de bachiller solamente se requiere su expedición por parte de las instituciones educativas legalmente autorizadas para ello, a quienes hayan cumplido con los requisitos establecidos en el proyecto educativo institucional o de su convalidación por parte de las instituciones del Estado señaladas para verificar, homologar o convalidar conocimientos.
 
 (Decreto 921 de 1994, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.6 — Acreditación de la calidad de bachiller
 
 La calidad de bachiller se prueba con el acta de graduación o con el diploma expedido por la correspondiente institución educativa.
 
 (Decreto 921 de 1994. artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.3.5.7 — Acta de graduación
 
@@ -5569,15 +4865,11 @@ Al término del año escolar correspondiente a la finalización del ciclo de edu
 
 (Decreto 180 de 1981, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.8 — Libro de actas
 
 Las actas a que se refiere el artículo anterior se extenderán en un libro especial, foliado y rubricado previamente en cada una de sus hojas por el Secretario de Educación respectivo, o su delegado, que deberá llevar cada institución, y de ellas se expedirán las copias que soliciten los interesados con las firmas del Director y del Secretario del establecimiento.
 
 (Decreto 180 de 1981, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.3.3.5.9 — Certificaciones
 
@@ -5597,8 +4889,6 @@ Las certificaciones de estudios realizados en los niveles educativos de que se t
 
 (Decreto 180 de 1981, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.10 — Oportunidad de expedición
 
 Las certificaciones de estudio y las dos (2) copias del acta de graduación correspondientes a los alumnos que terminen ciclo de educación media-vocacional, deberán ser expedidas de oficio por la institución educativa dentro de los diez días siguientes a la finalización del período lectivo.
@@ -5609,15 +4899,11 @@ En los demás casos las certificaciones deben ser solicitadas previamente por lo
 
 (Decreto 180 de 1981, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.11 — Aceptación
 
 Las certificaciones de estudio expedidas como queda expuesto en los anteriores artículos, deben ser aceptadas por los distintos establecimientos educativos para efectos de solicitud de inscripción o de ingreso.
 
 (Decreto 180 de 1981, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.3.3.5.12 — Informe de instituciones
 
@@ -5633,15 +4919,11 @@ Así mismo en el curso del mes siguiente a la terminación del período lectivo,
 
 (Decreto 180 de 1981, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.13 — Modelos
 
 El Ministerio de Educación Nacional preparará y enviará a las distintas secretarias de educación, para que a su vez, éstas informen a los establecimientos educativos, los modelos de actas de graduación y del cuadro de informes a que se refieren los artículos 2.3.3.3.5.7 y 2.3.3.3.5.12, inciso 2.
 
 (Decreto 180 de 1981, artículo 18).
-
-ARTÍCULO
 
 ## art:2.3.3.3.5.14 — Duplicados de diplomas
 
@@ -5657,8 +4939,6 @@ Las instituciones educativas podrán expedir un nuevo ejemplar del diploma, en c
 
 PARÁGRAFO . Si la institución educativa ha dejado de existir, el duplicado del diploma podrá expedirse por la Secretaría de Educación donde reposen los archivos correspondientes. Si éstos no existen, sólo podrá precederse por sentencia judicial debidamente ejecutoriada si se tratare en este último caso de alteración de nombre.
 
-ARTÍCULO
-
 ## art:2.3.3.3.5.15 — Custodia de archivos
 
 Las secretarías de educación conservarán los archivos de las entidades educativas que han dejado de existir, para todos los efectos contemplados en las leyes y en especial para expedir los duplicados de los diplomas y las certificaciones a que haya lugar.
@@ -5669,15 +4949,11 @@ SECCIÓN 6
 
 Reconocimiento de estudios de educación básica y media, completos o parciales, realizados en cualquiera de los países firmantes del convenio "Andrés Bello"
 
-ARTÍCULO
-
 ## art:2.3.3.3.6.1 — Reconocimiento de estudios
 
 Se reconocen los estudios primarios y de enseñanza media, completa o parcial, realizados en cualquiera de los países firmantes del Convenio "Andrés Bello". Los alumnos procedentes de tales países serán admitidos al curso o año correspondiente, previa presentación de los certificados de estudio debidamente legalizados y expedidos por establecimientos aprobados oficialmente.
 
 (Decreto 2444 de 1973, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.3.6.2 — Consecuencia del reconocimiento
 
@@ -5687,23 +4963,17 @@ PARÁGRAFO . Los estudiantes procedentes de cualquier país signatario del Conve
 
 (Decreto 2444 de 1973, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.3.6.3 — Acreditación de los certificados de estudios
 
 En todos los casos previstos en los artículos anteriores basta que los estudiantes interesados presenten los certificados de estudios correspondientes, expedidos por los establecimientos de educación donde los cursaron, debidamente aprobados por el Ministerio de Educación Nacional respectivo y autenticados por el funcionario consular de Colombia.
 
 (Decreto 2444 de 1973, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.3.6.4 — Validez de los títulos otorgados en Estados Miembros del Convenio "Andrés Bello"
 
 Los certificados de estudios de enseñanza básica primaria, básica secundaria y media vocacional completos o parciales, básica secundaria y media vocacional completos o parciales, realizados en cualquiera de los Estados Miembros del Convenio "Andrés Bello", serán válidos en Colombia para todos los efectos legales en la forma que hayan sido expedidos en los países de origen, siempre que estén debidamente aprobados por el Ministerio de Educación respectivo y autenticadas por el funcionario consultar de Colombia.
 
 (Decreto 1987 de 1981, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.3.6.5 — Régimen especial
 
@@ -5714,8 +4984,6 @@ Para los casos de los países firmantes del Convenio "Andrés Bello", que el té
 SECCIÓN 7
 
 Examen de estado de la educación media, ICFES - saber 11.
-
-ARTÍCULO
 
 ## art:2.3.3.3.7.1 — Definición y objetivos
 
@@ -5739,8 +5007,6 @@ h) Ofrecer información que sirva como referente estratégico para el establecim
 
 (Decreto 869 de 2010, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.3.7.2 — Estructura y organización
 
 El Examen de Estado de la Educación Media está compuesto por pruebas, cuyo número y componentes serán determinados por el ICFES mediante acuerdo de su Junta Directiva.
@@ -5753,8 +5019,6 @@ El calendario de aplicación será determinado por el Instituto Colombiano para 
 
 (Decreto 869 de 2010, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.3.7.3 — Presentación del examen
 
 Además de los estudiantes que se encuentran finalizando el grado undécimo, podrán presentar el Examen de Estado de la Educación Media y obtener resultados oficiales para efectos de ingreso a la educación superior, quienes ya hayan obtenido el título de bachiller o hayan superado el examen de validación del bachillerato de conformidad con las disposiciones vigentes.
@@ -5763,23 +5027,17 @@ Quienes no se encuentren en alguna de las situaciones referidas en el inciso ant
 
 (Decreto 869 de 2010, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.3.7.4 — Reconocimiento de Exámenes presentados en el exterior
 
 El Instituto Colombiano para la Evaluación de la Educación - ICFES podrá reconocer a las personas que hayan obtenido el título de bachiller fuera del país, la validez de Exámenes similares al Examen de Estado de la Educación Media, presentados en el exterior, conforme al procedimiento que establezca el ICFES para este efecto.
 
 (Decreto 869 de 2010, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.3.7.5 — Responsabilidad del rector
 
 Es responsabilidad del rector de cada establecimiento educativo reportar, para la presentación del Examen de Estado de la Educación Media, la totalidad de los estudiantes que se encuentren matriculados y finalizando el grado undécimo y colaborar con el ICFES en los procesos de inscripción y aplicación de las pruebas, en los términos que este determine.
 
 (Decreto 869 de 2010, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.3.3.7.6 — Reportes de resultados
 
@@ -5788,8 +5046,6 @@ Los contenidos de los reportes individuales y agregados de resultados del Examen
 Los resultados individuales e institucionales se informarán a través de la página Web institucional, de acuerdo con el calendario establecido por el ICFES, sin perjuicio de que se utilicen para este fin también otros medios oficiales.
 
 (Decreto 869 de 2010, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.3.3.7.7 — Vigencia de los resultados
 
@@ -5807,15 +5063,11 @@ SUBSECCIÓN 1
 
 Objeto, campo de aplicación y reglas para el reconocimiento de los subsidios
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.1.1 — Objeto
 
 La presente Sección tiene por objeto definir la metodología en uso de la cual, las entidades del Gobierno nacional competentes coordinarán su gestión para hacer efectivo el otorgamiento de los subsidios educativos creados por el artículo 99 de la Ley 115 de 1994, modificado por el artículo 1 de la Ley 1546 de 2012.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.1.2 — Beneficiarios
 
@@ -5841,8 +5093,6 @@ PARÁGRAFO 4. Los subsidios a que hace referencia la presente Sección serán ap
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.1.3 — Condiciones para realizar el cálculo de los beneficiarios
 
 Para realizar el cálculo de los beneficiarios referidos en la presente Sección se deben tener en cuenta las siguientes condiciones:
@@ -5856,8 +5106,6 @@ Para realizar el cálculo de los beneficiarios referidos en la presente Sección
 4. En caso de que una persona se encuentre en más de una categoría de las señaladas en el artículo anterior del presente decreto, se tendrá la siguiente prelación: 1) Nacional. 2) Departamental, y 3) Rural y Urbano.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.1.4 — Reconocimiento de los beneficiarios
 
@@ -5873,8 +5121,6 @@ En todo caso, el bachiller tendrá máximo dos (2) años, a partir de la fecha d
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.1.5 — Publicación de resultados
 
 El Ministerio de Educación Nacional y el ICFES publicarán en su página web la resolución que contenga como mínimo el nombre de los beneficiarios previstos en esta Sección, su número de identificación y la categoría por la cual fueron seleccionados.
@@ -5887,8 +5133,6 @@ SUBSECCIÓN 2
 
 Definición y alcance de los subsidios creados por el artículo 99 de la ley 115 de 1994, modificado por el artículo 1 de la ley 1546 de 2012
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.2.1 — Concepto de subsidios de sostenimiento y de matrícula
 
 Entiéndase por subsidio de sostenimiento, la subvención o ayuda proveniente de recursos públicos, que tiene como fin apoyar el cubrimiento de las necesidades básicas de los estudiantes beneficiados.
@@ -5896,8 +5140,6 @@ Entiéndase por subsidio de sostenimiento, la subvención o ayuda proveniente de
 Entiéndase por subsidio de matrícula, la subvención o ayuda proveniente de recursos públicos para sufragar los gastos de matrícula de los estudiantes beneficiados con el artículo 99 de la Ley 115 de 1994, modificado por el artículo 1 de la Ley 1546 de 2012.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.2.2 — Giro y monto máximo del subsidio de matrícula
 
@@ -5919,15 +5161,11 @@ PARÁGRAFO 5. Los grupos de beneficiarios descritos en esta Sección tendrán de
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.2.3 — Requisitos para reconocer el subsidio de sostenimiento
 
 El subsidio de sostenimiento se otorgará una vez, en cada periodo académico, a los estudiantes identificados en el artículo 2.3.3.3.8.1.2 del presente decreto.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.2.4 — Monto máximo del subsidio de sostenimiento
 
@@ -5947,8 +5185,6 @@ PARÁGRAFO 3. El Subsidio de sostenimiento será desembolsado directamente al es
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.2.5 — Periodo de utilización
 
 Quienes cumplan con los requisitos establecidos en el artículo 2.3.3.3.8.1.2 del presente decreto, deberán hacer uso de los beneficios contemplados en esta Subsección en un plazo máximo de dos (2) años contados a partir de la publicación de la resolución que expida el Ministerio de Educación Nacional en los términos previstos en el inciso 5 del artículo 2.3.3.3.8.1.4 de este decreto. Si no se hace uso de los mismos, la resolución perderá su fuerza ejecutoria respecto de ese estudiante, según lo establecido en el numeral 4 del artículo 91 de la Ley 1437 de 2011.
@@ -5956,8 +5192,6 @@ Quienes cumplan con los requisitos establecidos en el artículo 2.3.3.3.8.1.2 de
 PARÁGRAFO 1. Para efectos de garantizar los recursos necesarios para cubrir los beneficios a los que hace referencia la presente Sección, el ICETEX salvaguardará dichos recursos a título de cada beneficiario identificado anualmente, hasta que los beneficios pierdan vigencia.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.2.6 — Giro de recursos
 
@@ -5968,8 +5202,6 @@ Los recursos tendientes a hacer efectivo el otorgamiento de los subsidios regula
 SUBSECCIÓN 3
 
 Obligaciones de los estudiantes beneficiarios y causales de pérdida de los subsidios estatales
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.3.1 — Obligaciones de los estudiantes
 
@@ -5988,8 +5220,6 @@ Serán obligaciones de los estudiantes que resulten beneficiarios de los subsidi
 6. Informar oportunamente a la institución de educación superior en la cual se encuentre matriculado y al ICETEX, mediante comunicación escrita, la suspensión temporal o definitiva de los estudios, explicando los motivos que lo ocasionaron.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.3.2 — Causales de pérdida de los subsidios
 
@@ -6019,15 +5249,11 @@ SUBSECCIÓN 4
 
 Obligaciones de las entidades involucradas
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.4.1 — Responsables institucionales
 
 Para la entrega de los beneficios creados por el artículo 99 de la Ley 115 de 1994, modificado por el artículo 1 de la Ley 1546 de 2012, deberán participar de manera articulada, y en el marco de sus competencias, el DNP, el Ministerio de Educación Nacional, el ICETEX y el ICFES.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.4.2 — Responsabilidades del DNP
 
@@ -6040,8 +5266,6 @@ En cualquier caso, el DNP observará las previsiones normativas de las Leyes de 
 2. Garantizar la veracidad, integralidad y calidad de la información entregada al ICFES, según lo dispuesto en el numeral anterior.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.4.3 — Responsabilidades del Ministerio de Educación Nacional
 
@@ -6069,8 +5293,6 @@ El Ministerio de Educación Nacional tendrá las siguientes responsabilidades:
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.4.4 — Responsabilidades del ICFES
 
 El ICFES tendrá las siguientes responsabilidades:
@@ -6086,8 +5308,6 @@ El ICFES tendrá las siguientes responsabilidades:
 PARÁGRAFO . En cualquier caso, el ICFES observará las previsiones normativas de las Leyes de Hábeas Data.
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.3.3.3.8.4.5 — Responsabilidades del ICETEX
 
@@ -6109,8 +5329,6 @@ Son responsabilidades del Icetex las que a continuación se relacionan:
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.4.6 — Contenido de la base de datos de estudiantes beneficiados, de conformidad con la presente Sección
 
 La base de datos que debe entregar el ICFES al Ministerio de Educación Nacional para efectos de otorgar los beneficios consagrados en esta Sección, deberá contener la siguiente información:
@@ -6123,8 +5341,6 @@ PARÁGRAFO . La base de datos que se remite es de carácter oficial y será el �
 
 (Subrogado por el Art. 2 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.3.3.8.4.7 — Régimen de transición
 
 Las personas que se beneficiaron de los créditos educativos y del subsidio de sostenimiento otorgados bajo el amparo de lo señalado en los artículos 6 y 7 del Decreto 644 de 2001 y el artículo 6 del Decreto 2738 de 2005, antes de que fueran compilados en el presente decreto, seguirán recibiéndolos en los términos en los que les fueron reconocidos, sin perjuicio de que cumplan con la totalidad de los requisitos establecidos en los artículos 2.3.3.3.8.1.2 y 2.3.3.3.8.2.3 de este decreto, caso en el cual, podrán solicitar los subsidios descritos en la presente Sección, siempre y cuando renuncien a los beneficios previamente otorgados. De acogerse al régimen de transición previsto en este artículo, el estudiante deberá cancelar las cuotas del crédito educativo que el ICETEX hubiere desembolsado, en los términos estipulados inicialmente.
@@ -6135,8 +5351,6 @@ SECCIÓN 9
 
 Giro de los aportes previstos en los artículos 16 y 42 de la Ley 21 de 1982
 
-ARTÍCULO
-
 ## art:2.3.3.3.9.1 — Distribución de recursos
 
 El Ministerio de Educación Nacional distribuirá los recursos que correspondan al 1% de los ingresos que por Ley 21 de 1982 se le asignan a las escuelas industriales e institutos técnicos oficiales de educación secundaria y media técnica con formación calificada en especialidades tales como:
@@ -6146,8 +5360,6 @@ Agropecuaria, comercio, finanzas, administración, pedagogía, ecología, medio 
 (Decreto 1928 de 1997, artículo 1).
 
 PARÁGRAFO . El Ministerio de Educación Nacional podrá ejecutarlos dentro del marco de los planes, programas y proyectos que promuevan el desarrollo de la educación técnica de estos establecimientos educativos.
-
-ARTÍCULO
 
 ## art:2.3.3.3.9.2 — Intervención técnica y administrativa
 
@@ -6167,8 +5379,6 @@ SUBSECCIÓN 1
 
 Aspectos generales del proyecto ambiental escolar
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.1.1 — Institucionalización
 
 A partir del mes de enero de 1995, de acuerdo con los lineamientos curriculares que defina el Ministerio de Educación Nacional y atendiendo la Política Nacional de Educación Ambiental, todos los establecimientos de educación formal del país, tanto oficiales como privados, en sus distintos niveles de preescolar, básica y media, incluirán dentro de sus proyectos educativos institucionales, proyectos ambientales, escolares en el marco de diagnósticos ambientales, locales, regionales y/o nacionales, con miras a coadyuvar a la resolución de problemas ambientales específicos.
@@ -6177,8 +5387,6 @@ En lo que tiene que ver con la educación ambiental de las comunidades étnicas,
 
 (Decreto 1743 de 1994, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.1.2 — Principios rectores
 
 La educación ambiental deberá tener en cuenta los principios de interculturalidad, formación en valores, regionalización, de interdisciplina y de participación y formación para la democracia, la gestión y la resolución de problemas. Debe estar presente en todos los componentes del currículo.
@@ -6186,8 +5394,6 @@ La educación ambiental deberá tener en cuenta los principios de interculturali
 A partir de los proyectos ambientales escolares, las instituciones de educación formal deberán asegurar que a lo largo del proceso educativo, los estudiantes y la comunidad educativa en general, alcancen los objetivos previstos en las Leyes 99 de 1993 y 115 de 1994 y en el proyecto educativo institucional.
 
 (Decreto 1743 de 1994, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.4.1.1.3 — Responsabilidad de la comunidad educativa
 
@@ -6201,8 +5407,6 @@ SUBSECCIÓN 2
 
 Instrumentos para el desarrollo del proyecto ambiental escolar
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.2.1 — Asesoría y apoyo institucional
 
 Mediante directivas u otros actos administrativos semejantes, el Ministerio de Educación Nacional conjuntamente con el Ministerio de Ambiente y Desarrollo Sostenible, definirán las orientaciones para que las secretarías de educación de las entidades territoriales, presten asesoría y den el apoyo necesario en la coordinación y control de ejecución de los proyectos ambientales escolares en los establecimientos educativos de su jurisdicción y en la organización de los equipos de trabajo para tales efectos.
@@ -6213,8 +5417,6 @@ Para impulsar el proceso inicial de los proyectos ambientales escolares de los e
 
 (Decreto 1743 de 1994, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.2.2 — Formación de docentes
 
 Los Ministerios de Educación Nacional y de Ambiente y Desarrollo Sostenible, conjuntamente con las secretarías de educación de las entidades territoriales, asesorarán el diseño y la ejecución de planes y programas de formación continuada de docentes en servicio y demás agentes formadores para el adecuado desarrollo de los proyectos ambientales escolares.
@@ -6222,8 +5424,6 @@ Los Ministerios de Educación Nacional y de Ambiente y Desarrollo Sostenible, co
 Igualmente las facultades de educación, atendiendo a los requisitos de creación y funcionamiento de los programas académicos de pregrado y postgrado incorporarán contenidos y prácticas pedagógicas relacionadas con la dimensión ambiental, para la capacitación de los educadores en la orientación de los proyectos ambientales escolares y la Educación Ambiental, sin menoscabo de su autonomía.
 
 (Decreto 1743 de 1994, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.3.4.1.2.3 — Evaluación permanente
 
@@ -6233,15 +5433,11 @@ La evaluación tendrá en cuenta, entre otros aspectos, el impacto del Proyecto 
 
 (Decreto 1743 de 1994, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.2.4 — Servicio social obligatorio
 
 Los alumnos de educación media de los establecimientos de educación formal, estatales y privados, podrán prestar el servicio social obligatorio previsto en los artículos 66 y 97 de la Ley 115 de 1994 en educación ambiental, participando directamente en los proyectos ambientales escolares, apoyando la formación o consolidación de grupos ecológicos escolares para la resolución de problemas ambientales específicos o participando en actividades comunitarias de educación ecológica o ambiental.
 
 (Decreto 1743 de 1994, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.4.1.2.5 — Servicio militar obligatorio en educación ambiental
 
@@ -6269,23 +5465,17 @@ SUBSECCIÓN 3
 
 Relaciones interinstitucionales e intersectoriales
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.3.1 — Participación en el Sistema Nacional Ambiental
 
 El Ministerio de Educación Nacional hace parte del Sistema Nacional Ambiental. Participará conjuntamente con las demás instituciones gubernamentales, no gubernamentales y privadas que hacen parte del Sistema, en la puesta en marcha de todas las actividades que tengan que ver con la educación ambiental, especialmente en las relacionadas con educación formal, en los términos en que los estipulan la Política Nacional de Educación Ambiental y este Capítulo.
 
 (Decreto 1743 de 1994, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.3.2 — Estrategias de divulgación y promoción
 
 El Ministerio de Educación Nacional adoptará conjuntamente con el Ministerio de Ambiente y Desarrollo Sostenible, estrategias de divulgación y promoción relacionadas con la educación ambiental, para la protección y aprovechamiento de los recursos naturales y la participación ciudadana y comunitaria, tanto en lo referente a la educación formal, como en la educación informal y para el trabajo y el desarrollo humano.
 
 (Decreto 1743 de 1994, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.3.4.1.3.3 — Comité técnico interinstitucional de educación ambiental
 
@@ -6295,8 +5485,6 @@ El Comité Técnico tendrá una secretaría ejecutiva que será ejercida por el 
 
 (Decreto 1743 de 1994, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.3.5 — Relaciones con las Juntas de Educación
 
 El Consejo Nacional Ambiental mantendrá una comunicación permanente con la Junta Nacional de Educación, con el fin de coordinar la formulación de políticas y reglamentaciones relacionadas con educación ambiental.
@@ -6305,15 +5493,11 @@ De igual manera, los consejos ambientales de las entidades territoriales mantend
 
 (Decreto 1743 de 1994, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.3.6 — Avances en materia ambiental
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales, IDEAM, mantendrá informado al Ministerio de Educación Nacional y a las secretarías de educación de las entidades territoriales, sobre los avances técnicos en materia ambiental, para que sean incorporados a los lineamientos curriculares y sirvan para la asesoría y diseño del currículo y del plan de estudios de los establecimientos educativos.
 
 (Decreto 1743 de 1994, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.3.4.1.3.7 — Asesoría y coordinación en el área de educación ambiental
 
@@ -6325,23 +5509,17 @@ En general, las secretarías de educación de las entidades territoriales coordi
 
 (Decreto 1 743 de 1994, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.3.8 — Sistema de información ambiental
 
 Las secretarías de educación de las entidades territoriales harán parte de los sistemas de información ambiental que se creen a nivel nacional, regional o local, con el fin de informar y ser informadas de los avances en materia ambiental y específicamente en materia de educación ambiental.
 
 (Decreto 1743 de 1994, artículo 16).
 
-ARTÍCULO
-
 ## art:2.3.3.4.1.3.9 — Ejecución de la Política Nacional de Educación Ambiental
 
 Los departamentos, los distritos, los municipios, los territorios indígenas y las comunidades campesinas, promoverán y desarrollarán con arreglo a sus necesidades y características particulares, planes, programas y proyectos, en armonía con la Política Nacional de Educación Ambiental adoptada conjuntamente por el Ministerio de Educación Nacional y el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1743 de 1994, artículo 17).
-
-ARTÍCULO
 
 ## art:2.3.3.4.1.3.10 — Financiación de proyectos
 
@@ -6359,15 +5537,11 @@ SECCIÓN 2
 
 Cátedra de estudios afrocolombianos
 
-ARTÍCULO
-
 ## art:2.3.3.4.2.1 — Inclusión en los proyectos educativos institucionales
 
 Todos los establecimientos estatales y privados de educación formal que ofrezcan los niveles de preescolar, básica y media, incluirán en sus respectivos proyectos educativos institucionales la Cátedra de Estudios Afrocolombianos, atendiendo lo dispuesto en el artículo 39 de la Ley 70 de 1993 y lo establecido en la presente Sección.
 
 (Decreto 1122 de 1998, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.4.2.2 — Cátedra de Estudios Afrocolombianos
 
@@ -6378,8 +5552,6 @@ También podrá efectuarse mediante proyectos pedagógicos que permitan correlac
 PARÁGRAFO . Las instituciones educativas estatales deberán tener en cuenta lo establecido en este artículo, en el momento de seleccionar los textos y materiales, para uso de los estudiantes.
 
 (Decreto 1122 de 1998, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.4.2.3 — Propósitos generales de la Cátedra
 
@@ -6393,8 +5565,6 @@ c) Fomento de las contribuciones de las comunidades afrocolombianas en la conser
 
 (Decreto 1122 de 1998, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.4.2.4 — Incorporación en los proyectos educativos institucionales
 
 Los establecimientos educativos estatales y privados incorporarán en sus respectivos proyectos educativos institucionales, los lineamientos curriculares que establezca el Ministerio de Educación Nacional, con la asesoría de la Comisión Pedagógica Nacional de Comunidades Negras, en relación con el desarrollo de los temas, problemas y proyectos pedagógicos vinculados con los estudios afrocolombianos, atendiendo, entre otros criterios, los siguientes:
@@ -6407,8 +5577,6 @@ c) Los soportes técnico-pedagógicos y los resultados de investigaciones étnic
 
 Decreto 1122 de 1998, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.4.2.5 — Coordinación
 
 Corresponde a los comités de capacitación de docentes departamentales y distritales, reglamentados mediante Decreto 709 de 1996, en la manera en que queda compilado en el presente Decreto, en coordinación con las comisiones pedagógicas departamentales, distritales y regionales de comunidades negras, la identificación y análisis de las necesidades de actualización, especialización, investigación y perfeccionamiento de los educadores en su respectiva jurisdicción, para que las instituciones educativas estatales puedan adelantar de manera efectiva, el desarrollo de los temas, problemas y actividades pedagógicas relacionados con los estudios afrocolombianos.
@@ -6419,15 +5587,11 @@ Igualmente las juntas departamentales y distritales de educación deberán atend
 
 (Decreto 1122 de 1998, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.4.2.6 — Difusión
 
 Para efectos de los dispuesto en el inciso primero del artículo 39 de la Ley 70 de 1993, el Ministerio de Educación Nacional, atendiendo orientaciones del Ministerio de Cultura y de la Comisión Pedagógica Nacional de Comunidades Negras, diseñará procedimientos e instrumentos para recopilar, organizar, registrar y difundir estudios investigaciones y en general, material bibliográfico, hemerográfico y audiovisual relacionado con los procesos y las prácticas culturales propias de las comunidades negras como soporte del servicio público educativo, para el cabal cumplimiento de lo regulado en la presente Sección.
 
 (Decreto 1122 de 1998, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.3.4.2.7 — Asesoría a los establecimientos educativos
 
@@ -6435,23 +5599,17 @@ Las secretarías de educación departamentales, distritales y municipales presta
 
 (Decreto 1122 de 1998, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.3.4.2.8 — Foro nacional
 
 El Ministerio de Educación Nacional, con la asesoría de la Comisión Pedagógica Nacional de Comunidades Negras, promoverá anualmente un foro de carácter nacional, con el fin de obtener un inventario de iniciativas y de dar a conocer las distintas experiencias relacionadas con el desarrollo de los estudios afrocolombianos.
 
 (Decreto 1122 de 1998, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.4.2.9 — Formación Docente
 
 Las escuelas normales superiores y las instituciones de educación superior que posean una facultad de educación u otra unidad académica dedicada a la educación, tendrán en cuenta experiencias, contenidos y prácticas pedagógicas relacionas con los estudios afrocolombianos, en el momento de elaborar los correspondientes currículos y planes de estudio, atendiendo los requisitos de creación y funcionamiento de sus respectivos programas académicos de formación de docentes.
 
 (Decreto 1122 de 1998, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.4.2.10 — Inspección y Vigencia
 
@@ -6462,8 +5620,6 @@ El Ministerio de Educación Nacional y las secretarías de educación departamen
 SECCIÓN 3
 
 Normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres
-
-ARTÍCULO
 
 ## art:2.3.3.4.3.1 — De los derechos humanos de las niñas, adolescentes y las mujeres en el ámbito educativo
 
@@ -6487,8 +5643,6 @@ A partir de los principios de la Ley 1257 de 2008 consagrados en el artículo 6,
 
 (Decreto 4798 de 2011, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.4.3.2 — Proyectos pedagógicos
 
 A través de los proyectos pedagógicos que de conformidad con la Ley 115 de 1994 deben implementar de manera obligatoria todas las instituciones educativas en los niveles de preescolar, básica y media, se garantizará el proceso de formación de la comunidad educativa en el respeto de los derechos, libertades, autonomía e igualdad entre hombres y mujeres; la sensibilización y el reconocimiento de la existencia de discriminación y violencia contra las mujeres, toda vez que los proyectos permiten la participación directa de la comunidad educativa y en particular de estudiantes, docentes, directivos, administrativos y padres y madres de familia en la solución de problemáticas del contexto escolar.
@@ -6496,8 +5650,6 @@ A través de los proyectos pedagógicos que de conformidad con la Ley 115 de 199
 Estos proyectos considerarán las particularidades de cada institución educativa y de su contexto, de acuerdo con su Proyecto Educativo Institucional PEI e involucrarán a la comunidad educativa en la reflexión y transformación de los estereotipos y prejuicios asociados al género para la erradicación de la violencia contra la mujer.
 
 (Decreto 4798 de 2011, artículo 2»
-
-ARTÍCULO
 
 ## art:2.3.3.4.3.3 — Responsabilidades del Ministerio
 
@@ -6516,8 +5668,6 @@ Corresponde al Ministerio de Educación Nacional, como ente rector de la políti
 6. Difundir y sensibilizar a las y los servidores del Ministerio de Educación Nacional en el contenido de la Ley 1257 del 2008 y su reglamentación, con el propósito de brindar información para la identificación y el abordaje de formas de violencia y discriminación contra las mujeres.
 
 (Decreto 4798 de 2011, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.4.3.4 — Competencias de las entidades territoriales certificadas en educación
 
@@ -6551,8 +5701,6 @@ Corresponde a las entidades territoriales certificadas en educación como encarg
 
 (Decreto 4798 de 2011, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.4.3.5 — Competencias de las instituciones educativas de preescolar, básica y media
 
 Corresponde a las instituciones educativas de preescolar, básica y media, como instituciones prestadoras del servicio educativo:
@@ -6573,8 +5721,6 @@ Corresponde a las instituciones educativas de preescolar, básica y media, como 
 
 (Decreto 4798 de 2011, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.4.3.6 — De la educación superior
 
 El Ministerio de Educación Nacional promoverá, especialmente a través de los programas de fomento, que las instituciones de educación superior, en el marco de su autonomía:
@@ -6593,15 +5739,11 @@ SECCIÓN
 
 4 Educación religiosa
 
-ARTÍCULO
-
 ## art:2.3.3.4.4.1 — Ámbito de aplicación
 
 La presente Sección regula el desarrollo del área de Educación Religiosa en los establecimientos educativos que imparten educación formal en los niveles de educación preescolar, básica y media.
 
 (Decreto 4500 de 2006, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.4.4.2 — El área de educación religiosa
 
@@ -6609,23 +5751,17 @@ Todos los establecimientos educativos que imparten educación formal ofrecerán,
 
 (Decreto 4500 de 2006, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.4.4.3 — Desarrollo y contenido del área
 
 La intensidad horaria a que se refiere el artículo anterior, se determinará teniendo en cuenta que la educación religiosa se fundamenta en una concepción integral de la persona sin desconocer su dimensión trascendente y considerando tanto los aspectos académicos como los formativos.
 
 (Decreto 4500 de 2006, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.4.4.4 — Evaluación
 
 La evaluación de los estudiantes en educación religiosa hará parte de los informes periódicos de evaluación y del informe general del desempeño de los estudiantes y será tenida en cuenta para su promoción. En todo caso, al estudiante que opte por no tomar la educación religiosa ofrecida por el establecimiento educativo se le ofrecerá un programa alternativo el cual deberá estar previsto en el PEI con base en el cual se le evaluará.
 
 (Decreto 4500 de 2006, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.3.4.4.5 — Libertad religiosa
 
@@ -6635,8 +5771,6 @@ Los establecimientos educativos facilitarán a los miembros de la comunidad educ
 
 (Decreto 4500 de 2006, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.4.4.6 — Docentes
 
 La asignación académica de educación religiosa debe hacerse a docentes de esa especialidad o que posean estudios correspondientes al área y tengan certificación de idoneidad expedida por la respectiva autoridad eclesiástica, según lo establecido en el literal i) artículo 6 de la Ley 133 de 1994.
@@ -6645,15 +5779,11 @@ Ningún docente estatal podrá usar su cátedra, de manera sistemática u ocasio
 
 (Decreto 4500 de 2006, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.3.4.4.7 — Plantas de personal
 
 En la conformación de las plantas de personal las entidades territoriales asignarán a los establecimientos educativos estatales el número de docentes que requieran para la educación religiosa, de acuerdo con la intensidad horaria asignada en el respectivo proyecto educativo institucional. En todo caso, los docentes asignados al área de religión se tendrán en cuenta para la relación alumno-docente de la entidad territorial, establecida en el Decreto 3020 de 2002, en la manera en que queda compilado en el presente Decreto.
 
 (Decreto 4500 de 2006, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.4.4.8 — Deberes de los padres de familia
 
@@ -6665,15 +5795,11 @@ SECCIÓN 5
 
 Cátedra de la Paz
 
-ARTÍCULO
-
 ## art:2.3.3.4.5.1 — Cátedra de la Paz
 
 La Cátedra de la Paz será obligatoria en todos los establecimientos educativos de preescolar, básica y media de carácter oficial y privado, en los estrictos y precisos términos de la Ley 1732 de 2014 y de esta Sección.
 
 (Decreto 1038 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.4.5.2 — Objetivos
 
@@ -6686,8 +5812,6 @@ b) Educación para la paz: se entiende como la apropiación de conocimientos y c
 c) Desarrollo sostenible: se entiende como aquel que conduce al crecimiento económico, la elevación de la calidad de la vida y al bienestar social, sin agotar la base de recursos naturales renovables en que se sustenta, ni deteriorar el ambiente o el derecho de las generaciones futuras a utilizarlo para la satisfacción de sus propias necesidades, de acuerdo con el artículo 3 de la Ley 99 de 1993.
 
 (Decreto 1038 de 2015, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.4.5.3 — Implementación
 
@@ -6702,8 +5826,6 @@ c) Educación Ética y en Valores Humanos.
 PARÁGRAFO . Los establecimientos educativos de preescolar, básica y media podrán aprovechar las áreas transversales para incorporar contenidos de la cultura de la paz y el desarrollo sostenible.
 
 (Decreto 1038 de 2015, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.4.5.4 — Estructura y Contenido
 
@@ -6735,8 +5857,6 @@ I) Proyectos de vida y prevención de riesgos.
 
 (Decreto 1038 de 2015, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.4.5.5 — Evaluación
 
 A partir del año 2016, el Instituto Colombiano para la Evaluación de la Educación - ICFES incorporará dentro de las Pruebas Saber 11, en su componente de Competencias Ciudadanas, la evaluación de los logros correspondientes a la Cátedra de la Paz.
@@ -6745,15 +5865,11 @@ Adicionalmente, el ICFES deberá incorporar gradualmente el componente de Compet
 
 (Decreto 1038 de 2015, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.4.5.6 — Lineamientos y estándares
 
 El Ministerio de Educación Nacional podrá expedir referentes, lineamientos curriculares, guías y orientaciones en relación con la Cátedra de la Paz y su integración dentro del Proyecto Educativo Institucional y el Plan de Estudios.
 
 (Decreto 1038 de 2015, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.3.4.5.7 — Capacitación y Formación Docente para la Cátedra de la Paz
 
@@ -6769,15 +5885,11 @@ PARÁGRAFO . El Ministerio de Educación Nacional promoverá el desarrollo de es
 
 (Decreto 1038 de 2015, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.3.4.5.8 — Lineamientos y articulación con el Sistema Nacional de Convivencia Escolar
 
 Los Comités de Convivencia Escolar, definidos en la Ley 1620 de 2013, en sus niveles Nacional, Territorial y Escolar, realizarán seguimiento a lo dispuesto en la presente Sección, a fin de asegurar que la Cátedra de la Paz cumpla los objetivos consagrados en el parágrafo 2 del artículo 1 de la Ley 1732 de 2014 y en el artículo 2.3.3.4.5.2. del presente Decreto.
 
 (Decreto 1038 de 2015, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.3.4.5.9 — Instituciones de Educación Superior
 
@@ -6797,15 +5909,11 @@ SUBSECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.1.1 — Ámbito de aplicación
 
 El presente Capítulo se aplica a las entidades territoriales certificadas para la organización del servicio de apoyo pedagógico para la oferta de educación inclusiva a los estudiantes que encuentran barreras para el aprendizaje y la participación por su condición de discapacidad y a los estudiantes con capacidades o con talentos excepcionales, matriculados en los establecimientos educativos estatales.
 
 (Decreto 366 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.1.2 — Definiciones
 
@@ -6816,8 +5924,6 @@ Se entiende por estudiante con capacidades o con talentos excepcionales aquel qu
 Se entiende por apoyos particulares los procesos, procedimientos, estrategias, materiales, infraestructura, metodologías y personal que los establecimientos educativos estatales de educación formal ofrecen a los estudiantes con discapacidad y aquellos con capacidades o con talentos excepcionales.
 
 (Decreto 366 de 2009, artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.1.3 — Principios generales
 
@@ -6832,8 +5938,6 @@ Desarrollo humano. Por el cual se reconoce que deben crearse condiciones de peda
 Oportunidad y equilibrio. Según el cual el servicio educativo se debe organizar y brindar de tal manera que se facilite el acceso, la permanencia y el adecuado cubrimiento de las personas con limitaciones o con capacidades o talentos excepcionales.
 
 Soporte específico. Por el cual esta población pueda recibir atención específica y en determinados casos, individual y calificada, dentro del servicio público educativo, según la naturaleza de la limitación o de la excepcionalidad y las propias condiciones de accesibilidad, para efectos de la permanencia en el mismo y de su promoción personal, cultural y social.
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.1.4 — Responsabilidades de las entidades territoriales certificadas
 
@@ -6861,15 +5965,11 @@ La instancia o institución competente que la entidad territorial designe para d
 
 (Decreto 366 de 2009, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.1.5 — Integración al servicio educativo
 
 La educación de las personas con limitaciones ya sea de orden físico, sensorial, psíquico, cognoscitivo o emocional y para las personas con capacidades o talentos excepcionales, hace parte del servicio público educativo y se atenderá de acuerdo con la Ley 115 de 1994, las normas que la reglamenten, las reglas establecidas en el presente Capítulo y las disposiciones que para el efecto dicten las entidades territoriales.
 
 (Decreto 2082 de 1996, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.1.6 — Niveles de atención educativa
 
@@ -6881,8 +5981,6 @@ Para satisfacer las necesidades educativas y de integración académica, laboral
 
 (Decreto 2082 de 1996, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.1.7 — Complementariedad
 
 Para el cumplimiento de los principios de la atención educativa a personas con limitaciones o con capacidades o talentos excepcionales, definidos en el artículo anterior, el nivel nacional del sector público administrativo de la educación, coordinadamente con las entidades territoriales, promoverá acciones educativas de prevención, desarrollo humano, fomento y formación para el trabajo, en las instituciones estatales y privadas que ofrezcan programas de atención a esta población.
@@ -6890,8 +5988,6 @@ Para el cumplimiento de los principios de la atención educativa a personas con 
 De manera especial, el Ministerio de Educación Nacional coordinará con los Ministerios de Trabajo, Salud y de la Protección Social, Comercio, Industria y Turismo y de Tecnologías de la Información y las Comunicaciones, y sus entidades adscritas y vinculadas, el diseño y ejecución de programas de atención integral en educación, salud, recreación, turismo, cultura, deporte y trabajo para las personas con limitaciones o con capacidades o talentos excepcionales, según sus competencias.
 
 (Decreto 2082 de 1996, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.1.8 — Atención educativa a los niños menores de seis años de edad
 
@@ -6903,8 +5999,6 @@ SUBSECCIÓN 2
 
 Orientaciones curriculares especiales
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.2.1 — Alcance del servicio educativo
 
 Los establecimientos educativos estatales y privados deberán tener en cuenta lo dispuesto en la presente Sección, al proceder a elaborar el currículo, al desarrollar los indicadores de logros por conjunto de grados establecidos por el Ministerio de Educación Nacional y definir los logros específicos dentro del respectivo proyecto educativo institucional, cuando atiendan personas con limitaciones o con capacidades o talentos excepcionales.
@@ -6913,15 +6007,11 @@ En tal sentido, en el proyecto educativo institucional del establecimiento de ed
 
 (Decreto 2082 de 1996, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.2.2 — Medidas Especiales
 
 El proyecto educativo institucional de los establecimientos que atiendan educandos con limitaciones o con capacidades o talentos excepcionales, incluirá proyectos personalizados en donde se interrelacionen componentes, instrumentos y medios de la estructura del servicio educativo ofrecido, para que su integración al mismo, procure desarrollar niveles de motivación competitividad y realización personal.
 
 (Decreto 2082 de 1996, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.2.3 — Evaluaciones para los estudiantes con limitaciones o con capacidades o talentos excepcionales
 
@@ -6929,15 +6019,11 @@ La evaluación del rendimiento escolar tendrá en cuenta las características de
 
 (Decreto 2082 de 1996, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.2.4 — Medidas especiales para la presentación de los Exámenes de Estado
 
 Las instituciones autorizadas para practicar pruebas de validación y el Instituto Colombiano para la Evaluación de la Educación, deberán tomar las previsiones en cuanto acceso a las mismas y a los apoyos y recursos necesarios para permitir a las personas con limitaciones la presentación de dichas pruebas, atendiendo sus códigos y lenguajes específicos comunicativos y sus necesidades particulares.
 
 (Decreto 2082 de 1996, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.2.5 — Promoción de la enseñanza para la población con limitaciones o con capacidades o talentos excepcionales
 
@@ -6949,8 +6035,6 @@ Para estos efectos, el Ministerio de Educación Nacional en coordinación con el
 
 (Decreto 2082 de 1996, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.2.6 — Acciones Complementarias
 
 Las secretarías de educación de las entidades territoriales promoverán entre las instituciones y organizaciones estatales y privadas que adelanten acciones de educación en el ambiente, en los términos dispuestos en el artículo 204 de la Ley 115 de 1994, la creación, adecuación y mantenimiento de espacios pedagógicos necesarios para que la población con limitaciones o con capacidades o talentos excepcionales, puedan utilizar constructivamente el tiempo libre, practicar actividades recreativas, artísticas, culturales y deportivas, y participar en distintas formas asociativas que complementen la educación ofrecida por la familia y el establecimiento educativo.
@@ -6961,8 +6045,6 @@ SUBSECCIÓN 3
 
 Organización para la prestación del servicio educativo
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.1 — Ampliación de la cobertura
 
 Los departamentos, distritos y municipios organizarán en su respectiva jurisdicción, un plan de cubrimiento gradual para la adecuada atención educativa de las personas con limitaciones o con capacidades o talentos excepcionales.
@@ -6971,8 +6053,6 @@ El plan gradual de atención hará parte del plan de desarrollo educativo territ
 
 (Decreto 2082 de 1996, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.2 — Contenido del Plan gradual de ampliación de cobertura
 
 El plan gradual de atención a que se refiere el artículo anterior, deberá incluir la definición de las instituciones educativas estatales que establecerán aulas de apoyo especializadas, de acuerdo con los requerimientos y necesidades previamente identificados y de conformidad con lo dispuesto en el artículo 48 de la Ley 115 de 1994.
@@ -6980,8 +6060,6 @@ El plan gradual de atención a que se refiere el artículo anterior, deberá inc
 Podrá de manera alterna, proponer y ordenar la puesta en funcionamiento de unidades de atención integral o semejantes, como mecanismo a disposición de los establecimientos educativos, para facilitarles la prestación del servicio educativo que brindan a los educandos con limitaciones o con capacidades o talentos excepcionales, bajo la orientación de la dependencia departamental, distrital o municipal, a cuyo cargo está la dirección de la educación.
 
 (Decreto 2082 de 1996, artículo 13).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.3.3 — Aulas de apoyo especializadas
 
@@ -6993,8 +6071,6 @@ El Gobierno nacional apoyará financieramente a las entidades territoriales para
 
 (Decreto 2082 de 1996, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.4 — Unidades de atención integral
 
 Las unidades de atención integral se conciben como un conjunto de programas y de servicios profesionales que de manera interdisciplinaria, ofrecen las entidades territoriales certificadas, para brindar a los establecimientos de educación formal y para el trabajo y el desarrollo humano, estatales y privados, apoyos pedagógicos, terapéuticos y tecnológicos complementarios.
@@ -7005,8 +6081,6 @@ Las secretarías de educación de las entidades territoriales certificadas, orga
 
 (Decreto 2082 de 1996, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.5 — Ajustes al proyecto educativo institucional
 
 Los establecimientos educativos estatales adoptarán o adecuarán, según sea el caso, su proyecto educativo institucional, de manera que contemple las estrategias, experiencias y recursos docentes, pedagógicos y tecnológicos necesarios para atender debidamente esta población.
@@ -7015,15 +6089,11 @@ Igual adopción o adecuación del proyecto educativo institucional, la harán lo
 
 (Decreto 2082 de 1996, artículo 16).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.6 — Atención a estudiantes con discapacidad cognitiva, motora y autismo
 
 Los establecimientos educativos que reporten matrícula de estudiantes con discapacidad cognitiva, motora, Síndrome de Asperger o con autismo deben organizar, flexibilizar y adaptar el currículo, el plan de estudios y los procesos de evaluación de acuerdo con las condiciones y estrategias establecidas en las orientaciones pedagógicas producidas por el Ministerio de Educación Nacional. Así mismo, los docentes de nivel, de grado y de área deben participar de las propuestas de formación sobre modelos educativos y didácticos flexibles pertinentes para la atención de estos estudiantes.
 
 (Decreto 366 de 2009, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.3.7 — Atención a estudiantes sordos usuarios de Lengua de Señas Colombiana (LSC)
 
@@ -7037,15 +6107,11 @@ El intérprete desempeña el papel de mediador comunicativo entre la comunidad s
 
 (Decreto 366 de 2009, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.8 — Atención a estudiantes sordos usuarios de lengua castellana
 
 Para la prestación del servicio educativo en preescolar, básica y media a los estudiantes sordos usuarios de lengua castellana, se requieren docentes de nivel, de grado y de área con conocimiento en lectura labio-facial, estimulación auditiva y articulación, que les ofrezcan apoyo pedagógico cuando lo requieran, que conozcan de grado y de área con conocimiento en lectura labio-facial, estimulación auditiva y articulación, que les ofrezcan apoyo pedagógico cuando lo requieran, que conozcan sobre el manejo y cuidado de las ayudas auditivas y los equipos de frecuencia modulada correspondientes.
 
 (Decreto 366 de 2009, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.3.9 — Atención a estudiantes ciegos, con baja visión y sordo ciegos
 
@@ -7063,15 +6129,11 @@ PARÁGRAFO . Los guías-intérpretes y los mediadores que apoyan estudiantes sor
 
 (Decreto 366 de 2009, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.10 — Atención a estudiantes con capacidades y talentos excepcionales
 
 Los establecimientos educativos que reporten matrícula de estudiantes con capacidades o con talentos excepcionales deben organizar, flexibilizar, adaptar y enriquecer el currículo y el plan de estudios, conforme a las condiciones y estrategias establecidas en las orientaciones pedagógicas producidas por el Ministerio de Educación Nacional y articular acciones con las instituciones de educación superior regionales o locales para desarrollar programas que potencien sus capacidades.
 
 (Decreto 366 de 2009, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.3.11 — Organización de la oferta
 
@@ -7092,8 +6154,6 @@ PARÁGRAFO 1. Exclusivamente en el caso de población con discapacidad cognitiva
 PARÁGRAFO 2. Para el caso de los estudiantes con discapacidad sensorial o con discapacidad motora, el porcentaje de estudiantes incluidos en los grupos no deberá ser superior al 20% del total de matriculados en cada grupo.
 
 (Decreto 366 de 2009, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.3.12 — Responsabilidades y funciones generales de/personal de apoyo pedagógico vinculado al 9 de febrero de 2009
 
@@ -7121,8 +6181,6 @@ PARÁGRAFO . En los municipios donde exista personal de apoyo pedagógico en un 
 
 (Decreto 366 de 2009, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.3.13 — Situación administrativa del personal de apoyo pedagógico vinculado al 9 de febrero de 2009
 
 Los servidores públicos docentes o administrativos nombrados en propiedad que al 9 de febrero de 2009 desempeñaban funciones de apoyo para la atención a estudiantes con discapacidad o con capacidades o con talentos excepcionales, continuaron desempeñándolas corno personal de apoyo pedagógico hasta cuando se produjo la correspondiente vacancia definitiva del cargo por una de las causales establecidas en la ley. Ocurrida la vacancia definitiva, la entidad territorial debió suprimir o convertir tales cargos.
@@ -7133,8 +6191,6 @@ SUBSECCIÓN 4
 
 Formación de educadores
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.4.1 — Formulación de los planes de estudios
 
 En desarrollo de lo establecido en el artículo 47 de la Ley 115 de 1994, las escuelas normales superiores y las instituciones de educación superior que posean una facultad de educación u otra unidad académica dedicada a la educación, tendrán en cuenta experiencias, contenidos y prácticas pedagógicas relacionadas con la atención educativa de las personas con limitaciones o con capacidades o talentos excepcionales, en el momento de elaborar los correspondientes currículos y planes de estudio.
@@ -7143,23 +6199,17 @@ Para tales efectos, atenderán además, los requisitos de creación y funcionami
 
 (Decreto 2082 de 1996, artículo 18).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.4.2 — Formulación de programas dirigidos a las personas con limitaciones o con capacidades o talentos excepcionales
 
 Los organismos o instituciones de carácter asesor, académico y científico o los dedicados a la investigación educativa, que desarrollen programas dirigidos a las personas con limitaciones o con capacidades o talentos excepcionales, legalmente reconocidos, podrán ofrecer programas de formación permanente o en servicio, previo convenio con las instituciones de educación superior que reúnan los requisitos mencionados en el inciso segundo del artículo 2.4.2.1.3.2.4. del presente Decreto, para la correspondiente tutoría.
 
 (Decreto 2082 de 1996, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.4.3 — Formación de docentes
 
 Las entidades territoriales certificadas, en el marco de los planes territoriales de capacitación, orientarán y apoyarán los programas de formación permanente o en servicio de los docentes de los establecimientos educativos que atienden estudiantes con discapacidad o con capacidades o con talentos excepcionales, teniendo en cuenta los requerimientos pedagógicos de estas poblaciones, la regulación sobre educación inclusiva contenida en la Sección 2, Capítulo 5, Título 3, Parte 3, Libro 2 del presente decreto y los referentes curriculares que para estas poblaciones expida el Ministerio de Educación Nacional.
 
 (Decreto 366 de 2009, artículo 16; Modificado por el Decreto 1421 de 2017, art. 4).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.4.4 — Planes de capacitación docente
 
@@ -7171,15 +6221,11 @@ SUBSECCIÓN 5
 
 Contratación del servicio de apoyo pedagógico
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.5.1 — Contratación del servicio
 
 Las entidades territoriales certificadas contratarán la prestación de los servicios de apoyo pedagógico que requieran con organizaciones de reconocida trayectoria e idoneidad en la prestación o promoción del servicio de educación,
 
 (Decreto 366 de 2009, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.5.2 — , Requisitos para la contratación
 
@@ -7191,8 +6237,6 @@ Las entidades territoriales certificadas celebrarán los contratos de que trata 
 
 (Decreto 366 de 2009, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.5.3 — Responsabilidades y funciones generales de los prestadores del servicio de apoyo pedagógico
 
 Al contratar el servicio de apoyo pedagógico, las entidades territoriales certificadas asignarán como responsabilidad del contratista, entre otras, las funciones y obligaciones establecidas en el artículo 2.3.3.5.1.3.12. del presente Decreto.
@@ -7200,8 +6244,6 @@ Al contratar el servicio de apoyo pedagógico, las entidades territoriales certi
 El personal de apoyo pedagógico dependiente de los prestadores del servicio debe responder a los requerimientos diferenciales de los estudiantes con discapacidad o con capacidades o con talentos excepcionales. Para lo anterior, este personal debe acreditar formación y experiencia específica de por lo menos dos (2) años en su atención, preferiblemente con perfil en psicopedagogía, educación especial, o en disciplinas como psicología, fonoaudiología, terapia ocupacional como apoyos complementarios a la educación. Este personal debe certificar formación y experiencia en modelos educativos, pedagogías y didácticas flexibles.
 
 (Decreto 366 de 2009, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.5.4 — Recursos
 
@@ -7215,8 +6257,6 @@ SUBSECCIÓN 6
 
 Apoyo financiero
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.6.1 — Financiación del servicio educativo
 
 De conformidad con lo dispuesto en el artículo 1 de la Ley 715 de 2001, en armonía con el artículo 173 de la Ley 115 de 1994 y el artículo 2.3.3.5.1.1.5. de este Decreto, la financiación de la atención educativa de la población con limitaciones o con capacidades o talentos excepcionales, en los establecimientos educativos estatales, se hará con cargo al Sistema General de Participaciones, a los recursos propios de los departamentos, distritos y municipios y demás transferencias que la Nación haga a las entidades territoriales para este efecto.
@@ -7225,8 +6265,6 @@ Esta financiación deberá especificarse claramente en el plan territorial de de
 
 (Decreto 2082 de 1996, artículo 21).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.6.2 — Acceso a créditos educativos
 
 Las personas de menores ingresos económicos con limitaciones o con capacidades o talentos excepcionales podrán acceder, directamente o a través de sus padres o tutores, a los programas y líneas de crédito educativo ofrecidos por el Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior - Icetex.
@@ -7234,8 +6272,6 @@ Las personas de menores ingresos económicos con limitaciones o con capacidades 
 Las entidades territoriales departamentales, distritales y municipales, atendiendo su competencia y el mandato de la Ley 115 de 1994, dentro de su autonomía, adoptarán igualmente, mecanismos de subsidio para apoyar instituciones, planes, programas y experiencias orientadas a la adecuada atención educativa de las personas con limitaciones o con capacidades o talentos excepcionales, de bajos recursos económicos.
 
 (Decreto 2082 de 1996, artículo
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.6.3 — Complementariedad de las acciones de las entidades territoriales certificadas en educación
 
@@ -7247,8 +6283,6 @@ SUBSECCIÓN 7
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.7.1 — Apoyo a la atención educativa
 
 El Ministerio de Educación Nacional, las secretarías de educación de las entidades territoriales y los institutos descentralizados del sector educativo, de acuerdo con sus funciones, apoyarán técnicamente los programas, instituciones, investigaciones y experiencias de atención educativa, orientadas a la población con limitaciones o capacidades o talentos excepcionales.
@@ -7256,8 +6290,6 @@ El Ministerio de Educación Nacional, las secretarías de educación de las enti
 Particularmente, estas mismas instituciones impulsarán programas y proyectos, educativos, culturales, laborales, turísticos y recreativos dirigidos a los grupos poblacionales con limitaciones o capacidades o talentos excepcionales ubicados en las zonas rurales y urbano - marginales.
 
 (Decreto 2082 de 1996, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.7.2 — Organización de la planta de personal docente
 
@@ -7267,15 +6299,11 @@ Para efectos de la creación de cargos y la provisión del personal docente requ
 
 (Decreto 2082 de 1996, artículo 25).
 
-ARTÍCULO
-
 ## art:2.3.3.5.1.7.3 — Comisiones asesoras
 
 Las secretarías de educación de las entidades territoriales podrán integrar comisiones asesoras y consultivas para la prestación del servicio educativo a las personas con limitaciones o con capacidades o talentos excepcionales, en las que participen entre otros, padres de familia, representantes de establecimientos educativos, representantes de asociaciones o corporaciones dedicadas a la atención de este grupo poblacional y representantes de los organismos del Estado con funciones relacionadas.
 
 (Decreto 2082 de 1996, artículo 26).
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.7.4 — Orientaciones
 
@@ -7293,15 +6321,11 @@ Subsección 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.1.1 — Objeto
 
 La presente sección reglamenta la ruta, el esquema y las condiciones para la atención educativa a la población con discapacidad en los niveles de preescolar, básica y media.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.1.2 — Ámbito de aplicación
 
@@ -7310,8 +6334,6 @@ La presente sección aplica en todo el territorio nacional a las personas con di
 Igualmente, aplica a las entidades del sector educativo del orden nacional como: Instituto Nacional para Ciegos (INCI), Instituto Nacional para Sordos (INSOR) y el Instituto Colombiano para la Evaluación de la Educación (ICFES).
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.1.3 — Principios
 
@@ -7322,8 +6344,6 @@ Igualmente, se acogen los principios de la Convención de los Derechos de las pe
 Estos principios están enfocados a favorecer las trayectorias educativas de las niñas, niños, adolescentes y jóvenes para su ingreso, permanencia, promoción y egreso en el sistema educativo.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.1.4 — Definiciones
 
@@ -7361,15 +6381,11 @@ Subsección 2
 
 Recursos financieros, humanos y técnicos para la atención educativa pertinente y de calidad a la población con discapacidad
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.2.1 — Recursos financieros para la atención educativa de personas con discapacidad
 
 El Ministerio de Educación Nacional promoverá la prestación de un eficiente y oportuno servicio educativo en el sector oficial a la población en situación de discapacidad, con los recursos que se giran a través del Sistema General de Participaciones por la atención a cada estudiante reportado en el sistema de matrícula SIMAT. Para el efecto, por cada estudiante con discapacidad reportado en el sistema de matrícula SIMAT, se girará un 20% o porcentaje adicional, de conformidad con la disponibilidad presupuesta! que haya en cada vigencia, y que por nivel y zona defina anualmente la Nación.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.2.2 — Líneas de inversión
 
@@ -7378,8 +6394,6 @@ De conformidad con el artículo anterior, las entidades territoriales certificad
 siguientes subsecciones.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.2.3 — De las instituciones educativas de naturaleza privada
 
@@ -7390,8 +6404,6 @@ Las instituciones educativas privadas que presten el servicio público de educac
 Subsección 3
 
 Esquema de atención educativa
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.3.1 — Gestión educativa y gestión escolar
 
@@ -7499,8 +6511,6 @@ PARÁGRAFO 2. La gestión educativa territorial que ordena el presente artículo
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.2 — Oferta educativa pertinente para personas con discapacidad
 
 Para garantizar una educación pertinente y de calidad, las entidades territoriales certificadas organizarán la oferta educativa que responda a las características de las personas con discapacidad identificadas en su territorio, siguiendo las orientaciones técnicas, administrativas y pedagógicas emitidas por el Ministerio de Educación Nacional, así:
@@ -7521,8 +6531,6 @@ PARÁGRAFO 2. Si en el proceso educativo se evidencia la necesidad de promover a
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.3 — Acceso al servicio educativo para personas con discapacidad
 
 De conformidad con el artículo 11 de la Ley 1618 de 2013, las entidades territoriales certificadas garantizarán a las personas con discapacidad el ingreso oportuno a una educación con calidad y con las condiciones básicas y ajustes razonables que se requieran, sin que la discapacidad sea causal de negación del cupo. Para ello, se deberá adelantar el siguiente proceso:
@@ -7537,8 +6545,6 @@ Para aquellos establecimientos educativos que no cuenten con el docente de apoyo
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.4 — Permanencia en el servicio educativo para personas con discapacidad
 
 Con el propósito de contrarrestar los factores asociados a la deserción del sistema educativo de los niños, niñas y adolescentes con discapacidad, las entidades territoriales certificadas realizarán acciones afirmativas que eliminen las barreras para el aprendizaje y la participación, y garanticen en términos de pertinencia y eficiencia una educación inclusiva con enfoque diferencial, de acuerdo con la clasificación de la oferta establecida en el artículo 2.3.3.5.2.3.2 del presente decreto.
@@ -7546,8 +6552,6 @@ Con el propósito de contrarrestar los factores asociados a la deserción del si
 Para esto, las entidades territoriales deberán gestionar los ajustes a las condiciones de accesibilidad a la infraestructura física y tecnológica en el establecimiento educativo, así como los apoyos y recursos idóneos para su atención; los servicios de alimentación y transporte escolar; los procesos pedagógicos y la dotación de materiales didácticos pertinentes o la canasta establecida para ello, planteada en los PIAR y en los planes de mejoramiento institucional.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.3.5 — Construcción e implementación de los Planes Individuales de apoyos y ajustes razonables(PIAR)
 
@@ -7567,8 +6571,6 @@ PARÁGRAFO 2. En el evento en que un estudiante requiera el traslado de instituc
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.6 — Acta de Acuerdo
 
 Una vez finalizado el diseño del PIAR, se elaborará un acta de acuerdo con los compromisos que se adquieren frente las situaciones particulares requeridas por cada estudiante, la cual deberá ser firmada por el acudiente, el directivo de la institución educativa, el docente de apoyo y los docentes a cargo, quienes tendrán una copia para su seguimiento.
@@ -7578,8 +6580,6 @@ El PIAR definirá estrategias de trabajo para las familias durante los recesos e
 PARÁGRAFO . El acta de acuerdo se constituirá en el instrumento que permita a la familia hacer seguimiento, control y veeduría a la garantía del derecho a la educación inclusiva del estudiante con discapacidad.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.3.7 — Informe anual de competencias o de proceso pedagógico
 
@@ -7591,8 +6591,6 @@ Este anexo será elaborado por el docente de aula en coordinación con el docent
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.8 — Historia escolar de estudiantes con discapacidad
 
 De manera complementaria a los documentos que se tienen de cada estudiante, se elaborará la historia escolar para cada estudiante con discapacidad, la cual incluirá toda la información relacionada con su proceso de inclusión, el diagnóstico, certificación o concepto médico reportado por profesionales del sector salud, los PIAR anuales diseñados, los informes de seguimiento a la implementación, los informes anuales de competencias, las actas de acuerdo firmadas por las partes, los avances en el tratamiento médico o terapéutico y cualquier otra información que se considere relevante.
@@ -7603,23 +6601,17 @@ PARÁGRAFO . Los establecimientos educativos deberán conservar una copia de la 
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.9 — De los planes de mejoramiento institucional (PMI)
 
 El directivo del establecimiento educativo deberá articular en los planes de mejoramiento institucional aquellos ajustes razonables que requieran los estudiantes con discapacidad y que han sido incluidos en los PIAR, con el propósito de garantizar la gestión efectiva de los mismos y generalizar los ajustes que se podrán realizar a manera de diseños universales para todos los estudiantes y que serán insumo de los planes de mejoramiento de las respectivas entidades territoriales certificadas en educación.
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.10 — No discriminación
 
 Ningún establecimiento educativo podrá rechazar la matrícula de un estudiante en razón a su situación discapacidad, ni negarse a hacer los ajustes razonables que se requieran. Cualquier proceso de admisión aportará a la valoración pedagógica y a la construcción del PIAR. Así mismo, no podrá ser razón para su expulsión del establecimiento educativo o la no continuidad en el proceso.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.3.11 — .11
 
@@ -7630,8 +6622,6 @@ Los establecimientos y las secretarías deberán reconocer y valorar las prácti
 Las familias como sujetos de especial protección, serán acompañadas y asesoradas por los establecimientos educativos y las secretarías de educación, o la entidad que haga sus veces en la entidad territorial certificada, para que, en el marco de la estrategia de rehabilitación. basada en comunidad, identifique las vías para el acceso a la información y los servicios de los diferentes sectores y entidades del Estado, de conformidad con lo dispuesto en el artículo 8 de la Ley 1618 de 2013.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.3.12 — Obligaciones de las familias
 
@@ -7655,8 +6645,6 @@ En ejercicio de su corresponsabilidad con el proceso de educación inclusiva, la
 
 (Decreto 1421 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.2.3.13 — Plan progresivo de implementación
 
 Cada entidad territorial certificada definirá la estrategia de atención educativa territorial para estudiantes con discapacidad y diseñará un Plan Progresivo de Implementación que comprenda aspectos administrativos, técnicos y pedagógicos que permitan el cumplimiento de lo dispuesto en la presente sección.
@@ -7668,8 +6656,6 @@ La estrategia y el plan progresivo administrativo, técnico y pedagógico deber�
 PARÁGRAFO . Una vez vencido el término del plan progresivo de implementación administrativo, técnico y pedagógico y, con base en el análisis de los resultados logrados con la estrategia de que trata el presente artículo y con la creación del cargo de docente de apoyo en las entidades territoriales, según las dinámicas particulares de las mismas, el Ministerio de Educación Nacional decidirá sobre la forma en que se dará continuidad a los cargos de los empleos temporales de docente de apoyo que haya determinado cada secretaría de educación para la atención de estudiantes con discapacidad, de conformidad .con el estudio técnico correspondiente.
 
 (Decreto 1421 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.5.2.3.14 — Rendición de Cuentas
 
@@ -7687,8 +6673,6 @@ SUBSECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.1.1 — Alcance
 
 La educación de adultos, ya sea formal, educación para el trabajo y el desarrollo humano o informal hace parte del servicio público educativo, y se regirá por lo dispuesto en la Ley 115 de 1994, sus Decretos reglamentarios, en especial el Decreto 1860 de 1994, en la manera en que queda compilado en el presente Decreto, y la presente Sección.
@@ -7697,15 +6681,11 @@ Se regirá igualmente por las disposiciones que para el efecto dicten las entida
 
 (Decreto 3011 de 1997, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.1.2 — Definición
 
 Para efectos de lo dispuesto en la presente Sección, la educación de adultos es el conjunto de procesos y de acciones formativas organizadas para atender de manera particular las necesidades y potencialidades de las personas que por diversas circunstancias no cursaron niveles grados de servicio público educativo, durante las edades aceptadas regularmente para cursarlos o de aquellas personas que deseen mejorar sus aptitudes, enriquecer sus conocimientos y mejorar sus competencias técnicas y profesionales.
 
 (Decreto 3011 de 1997, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.1.3 — Principios
 
@@ -7720,8 +6700,6 @@ c) Flexibilidad, según el cual las condiciones pedagógicas y administrativas q
 d) Participación, según el cual el proceso formativo de los jóvenes y los adultos debe desarrollar su autonomía y sentido de la responsabilidad que les permita actuar creativamente en las transformaciones económicas, sociales, políticas, científicas y culturales, y ser partícipes de las mismas.
 
 (Decreto 3011 de 1997, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.1.4 — Propósitos de la educación de adultos
 
@@ -7743,8 +6721,6 @@ SUBSECCIÓN 2
 
 Organización general de la educación de adultos
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.2.1 — Composición de la educación de adultos
 
 La educación de adultos ofrecerá programas de:
@@ -7761,8 +6737,6 @@ La educación de adultos ofrecerá programas de:
 
 (Decreto 3011 de 1997, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.2.2 — Alfabetización
 
 Para efectos de la presente Sección la alfabetización es un proceso formativo tendiente a que las personas desarrollen la capacidad de interpretar la realidad y de actuar, de manera transformadora, en su contexto, haciendo uso creativo de los conocimientos, valores y habilidades a través de la lectura, escritura, matemática básica y la cultura propia de su comunidad.
@@ -7771,15 +6745,11 @@ El proceso de alfabetización hace parte del ciclo de educación básica primari
 
 (Decreto 3011 de 1997, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.2.3 — Inclusión de los programas alfabetización
 
 Las entidades territoriales, en virtud de las competencias que les han sido asignadas por la ley, determinarán dentro del correspondiente plan decenal de educación y en sus respectivos planes territoriales de desarrollo educativo, programas de alfabetización, de acuerdo con el diagnóstico de necesidades.
 
 (Decreto 3011 de 1997, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.2.4 — Focalización de los programas de alfabetización
 
@@ -7789,8 +6759,6 @@ También se podrán adelantar programas de alfabetización a través de los dist
 
 (Decreto 3011 de 1997, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.2.5 — Objeto de los programas de educación de adultos
 
 Los programas de educación básica y media de adultos estarán orientados a la apropiación y recreación de los elementos de la cultura nacional y universal, teniendo en cuenta las condiciones socioculturales de la población de que trata la presente Sección, para hacer posible la satisfacción de sus necesidades fundamentales que le permita una efectiva participación en la vida social, a través de procesos formales equiparables a los niveles del sistema educativo regular. Este servicio educativo impulsará procesos de contextualización educativa a nivel territorial, local y comunitario, que permitan la construcción de propuestas curriculares pertinentes y socialmente relevantes,
@@ -7798,8 +6766,6 @@ Los programas de educación básica y media de adultos estarán orientados a la 
 PARÁGRAFO . Los programas de educación básica y media de adultos, deberán tener en cuenta lo dispuesto en el Decreto 2082 de 1996, en la manera en que queda compilado en el presente Decreto, y demás normas concordantes, en relación con la atención educativa de las personas con limitaciones físicas, sensoriales, psíquicas, cognoscitivas, emocionales o con capacidades o talentos excepcionales.
 
 (Decreto 3011 de 1997, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.2.6 — Organización de la oferta
 
@@ -7813,15 +6779,11 @@ PARÁGRAFO . El ciclo lectivo regular de que trata este artículo es el establec
 
 (Decreto 3011 de 1997, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.2.7 — Ciclo electivo especial
 
 De conformidad con lo dispuesto en los artículos 50 y 53 de la Ley 115 de 1994, el ciclo lectivo especial integrado a que se refiere el artículo anterior, es aquel que se estructura como un conjunto de procesos y acciones curriculares organizados de modo tal que integren áreas del conocimiento y proyectos pedagógicos, de duración menor a la dispuesta para los ciclos regulares del servicio público educativo, que permitan alcanzar los fines y objetivos de la educación básica y media de acuerdo con las particulares condiciones de la población adulta.
 
 (Decreto 3011 de 1997, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.2.8 — Educación para el trabajo y desarrollo humano en el marco de la educación para adultos
 
@@ -7837,15 +6799,11 @@ SUBSECCIÓN 3
 
 Programas de alfabetización
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.3.1 — Orientaciones curriculares
 
 Las instituciones educativas que desarrollen procesos de alfabetización deberán atender las orientaciones curriculares generales que para el efecto expidan las entidades territoriales certificadas en educación, atendiendo las necesidades educativas de la población y lo dispuesto en esta Sección.
 
 (Decreto 3011 de 1997, artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.3.2 — Estructuración de los programas de alfabetización
 
@@ -7859,15 +6817,11 @@ SUBSECCIÓN 4
 
 Educación básica formal de adultos
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.4.1 — Orientaciones curriculares del Ministerio de Educación Nacional
 
 Las instituciones educativas que ofrezcan programas de educación básica formal de adultos, atenderán los lineamientos generales de los procesos curriculares del servicio público educativo establecidos por el Ministerio de Educación Nacional, teniendo en cuenta sus particulares características.
 
 (Decreto 3011 de 1997, artículo 15).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.4.2 — Destinatarios de la educación básica formal de adultos
 
@@ -7879,15 +6833,11 @@ Podrán ingresar a la educación básica formal de adultos ofrecida en ciclos le
 
 (Decreto 3011 de 1997, artículo 16).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.4.3 — 4.3
 
 Regulación especial para las personas menores de trece (13) años por fuera del servicio educativo.Las personas menores de trece (13) años que no han ingresado a la educación básica o habiéndolo hecho, dejaron de asistir por dos (2) años académicos consecutivos o más, deberán ser atendidos en los establecimientos educativos que ofrecen educación formal en ciclos regulares, mediante programas especiales de nivelación educativa, de acuerdo con lo establecido en el artículo 2.3.3.1.3.2. de este Decreto o las normas que lo modifiquen o sustituyan.
 
 (Decreto 3011 de 1997, artículo 17).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.4.4 — Desarrollo de la educación básica formal de adultos
 
@@ -7899,8 +6849,6 @@ Las instituciones educativas que ofrezcan este servicio, podrán programar las a
 
 (Decreto 3011 de 1997, artículo 18).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.4.5 — Modalidades de atención educativa
 
 La educación básica formal de adultos podrá ofrecerse de manera presencial, semipresencial o abierta y a distancia.
@@ -7908,8 +6856,6 @@ La educación básica formal de adultos podrá ofrecerse de manera presencial, s
 Cuando se adopte la modalidad semipresencial se debe garantizar una presencialidad no inferior al cincuenta por ciento (50%) de las horas anuales de trabajo, determinadas en el artículo anterior y el desarrollo de prácticas, asesorías, tutorías, trabajos grupales y elaboración de módulos y guías.
 
 (Decreto 3011 de 1997, artículo 19).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.4.6 — Requisitos para los ciclos lectivos especiales
 
@@ -7920,8 +6866,6 @@ En el plan de estudios del respectivo programa que se ofrezca, deberá incluirse
 Las áreas fundamentales y obligatorias establecidas en el artículo 23 de la Ley 115 de 1994, y los temas obligatorios contemplados en el artículo 14 de la misma ley, podrán organizarse en forma interdisciplinaria o integrada, según las particularidades de dichos educandos.
 
 (Decreto 3011 de 1997, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.4.7 — Organización de los ciclos lectivos especiales
 
@@ -7937,8 +6881,6 @@ Los ciclos lectivos especiales integrados se organizarán de tal manera que la f
 
 (Decreto 3011 de 1997, artículo 21).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.4.8 — Certificado de estudios
 
 Las personas que cumplan y finalicen satisfactoriamente todos los ciclos lectivos especiales integrados de la educación básica de adultos, recibirán el certificado de estudios del bachillerato básico.
@@ -7948,8 +6890,6 @@ Las personas que cumplan y finalicen satisfactoriamente todos los ciclos lectivo
 SUBSECCIÓN 5
 
 Educación media de adultos
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.5.1 — De la educación media de adultos
 
@@ -7961,8 +6901,6 @@ La semana lectiva tendrá una duración promedio de veinte (20) horas efectivas 
 
 (Decreto 3011 de 1997, artículo 23).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.5.2 — Modalidades de la educación media académica de adultos
 
 La educación media académica de adultos podrá ofrecerse de manera presencial, semipresencial o abierta y a distancia.
@@ -7972,8 +6910,6 @@ Cuando se adopte la modalidad semipresencial se debe garantizar una presencialid
 Las instituciones educativas que ofrezcan este servicio, podrán programar las actividades pedagógicas con la intensidad horaria semanal y diaria que determine el correspondiente plan de estudios, en jornada diurna, nocturna, sabatina o dominical.
 
 (Decreto 3011 de 1997, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.5.3 — Objetivos de la educación media académica de adultos
 
@@ -7985,15 +6921,11 @@ La definición de las áreas fundamentales y obligatorias de la educación media
 
 (Decreto 3011 de 1997, artículo 25).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.5.4 — De la media técnica en la educación de adultos
 
 Cuando las personas adultas contempladas en la presente Sección hayan obtenido el certificado de estudios del bachillerato básico y opten por continuar estudios en la educación media técnica, deberán hacerlo en ciclos lectivos regulares de dos (2) grados, que ofrezcan los establecimientos educativos autorizados para impartir este nivel y organizados atendiendo lo dispuesto en los artículos 2.3.3.1.6.6. y 2.3.3.3.1.2. del presente Decreto o las normas que lo modifiquen o sustituyan.
 
 (Decreto 3011 de 1997, artículo 26).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.5.5 — De los títulos académicos
 
@@ -8004,8 +6936,6 @@ Las personas que cumplan y finalicen satisfactoriamente todos los ciclos lectivo
 SUBSECCIÓN 6
 
 Organización y funcionamiento
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.6.1 — Requisitos
 
@@ -8019,8 +6949,6 @@ Las instituciones educativas o centros de educación de adultos que exclusivamen
 
 (Decreto 3011 de 1997, artículo 28).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.6.2 — Gobierno escolar
 
 Las instituciones educativas de que trata el artículo anterior, deberán organizar un gobierno escolar, conformado por el rector, el Consejo Directivo y el Consejo Académico, garantizando la representación de la comunidad educativa, de conformidad con lo dispuesto en la Constitución Política y la ley.
@@ -8028,8 +6956,6 @@ Las instituciones educativas de que trata el artículo anterior, deberán organi
 En todo caso, para la integración del Consejo Directivo deberá tenerse en cuenta lo dispuesto en el artículo 2.3.3.1.5.1. de este Decreto.
 
 (Decreto 3011 de 1997, artículo 29).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.6.3 — Ámbito de validez de la licencia de funcionamiento y del reconocimiento de carácter oficial
 
@@ -8043,8 +6969,6 @@ Las secretarías de educación definirán los lineamientos de infraestructura, p
 
 (Decreto 3011 de 1997, artículo 30).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.6.4 — Requisitos para el otorgamiento de la licencia de funcionamiento
 
 Para que una institución educativa o centro de educación de adultos pueda obtener la licencia de funcionamiento o el reconocimiento de carácter oficial para prestar el servicio público educativo formal de adultos deberá:
@@ -8057,8 +6981,6 @@ Para que una institución educativa o centro de educación de adultos pueda obte
 
 (Decreto 3011 de 1997, artículo 31).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.6.5 — Naturaleza de las instituciones que ofrezcan el servicio de educación de adultos
 
 Las instituciones educativas o centros de educación de adultos tendrán la naturaleza y carácter de establecimientos educativos por niveles y grados, cuando ofrezcan programas de educación formal de adultos, regulados en esta Sección, y en tal evento deberán organizarse previamente, de acuerdo con lo previsto en el artículo 2.3.3.5.3.6.1. de este Decreto.
@@ -8067,15 +6989,11 @@ No obstante, podrán celebrar convenio con un establecimiento educativo debidame
 
 (Decreto 3011 de 1997, artículo 32).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.6.6 — Prestación del servicio
 
 En cualquier caso, los centros de educación de adultos de carácter estatal, podrán atender la prestación del servicio, con educadores de tiempo completo que recibirán una bonificación por el servicio adicional a su jornada laboral, de acuerdo con lo dispuesto en las normas legales sobre el particular o según lo establecido por cada entidad territorial, en su respectivo plan de desarrollo educativo territorial.
 
 (Decreto 3011 de 1997, artículo 33).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.6.7 — Cobro de derechos académicos
 
@@ -8091,8 +7009,6 @@ El acto administrativo de autorización oficial de las tarifas, será expedido p
 
 (Decreto 3011 de 1997, artículo 34).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.6.8 — Publicidad de las instituciones educativas
 
 En la publicidad y material informativo de las instituciones educativas que ofrezcan el servicio de educación de adultos, se deberá mencionar el acto administrativo por medio del cual se le otorga la licencia de funcionamiento o el reconocimiento de carácter oficial y los programas registrados que ampara dicho acto,
@@ -8103,8 +7019,6 @@ SUBSECCIÓN 7
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.7.1 — Reconocimiento de competencias
 
 Para el ingreso a cualquiera de los programas de educación de adultos regulados en esta Sección, los educandos podrán solicitar que mediante evaluación previa, sean reconocidos los conocimientos, experiencias y prácticas ya adquiridos sin exigencia de haber cursado determinado grado de escolaridad formal, a través de los cuales puedan demostrar que han alcanzado logros tales que les permita iniciar su proceso formativo, a partir del ciclo lectivo especial integrado hasta el cual pueda ser ubicado de manera anticipada.
@@ -8113,15 +7027,11 @@ Los comités de evaluación de las instituciones educativas que ofrecen este ser
 
 (Decreto 3011 de 1997, artículo 36).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.7.2 — Organización de la planta docente oficial
 
 De conformidad con lo dispuesto en la Ley 715 de 2001 y sus normas reglamentarias, en armonía con el artículo 50 de la Ley 115 de 1994, la respectiva entidad territorial certificada en educación deberá tener en cuenta en la organización de la planta de personal docente, la atención educativa de las personas adultas a través del servicio público educativo estatal.
 
 (Decreto 3011 de 1997, artículo 37).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.7.3 — Formulación del ciclo complementario y de los programas académicos de educación superior
 
@@ -8131,15 +7041,11 @@ Para tales efectos, atenderán además los requisitos y lineamientos de creació
 
 (Decreto 3011 de 1997, artículo 38).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.7.4 — Fomento de la educación de adultos
 
 El Ministerio de Educación Nacional, en coordinación con las entidades territoriales, universidades, organizaciones no gubernamentales y centros especializados en educación, fomentará programas de investigación pedagógica, social, cultural y comunitaria, para determinar factores prevalentes que inciden en la vida educativa de los jóvenes y adultos, así como la disponibilidad y eficacia de las acciones de atención existentes, la valoración de los servicios y apoyos ofrecidos y el desarrollo de nuevas estrategias educativas y laborales para esta población.
 
 (Decreto 3011 de 1997, artículo 39).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.7.5 — Planeación de la educación de adultos
 
@@ -8149,8 +7055,6 @@ Las instituciones que ofrezcan educación formal de adultos podrán ser objeto d
 
 (Decreto 3011 de 1997, artículo 40).
 
-ARTÍCULO
-
 ## art:2.3.3.5.3.7.6 — Régimen de transición
 
 Las instituciones estatales y privadas que al 29 de diciembre de 1997 ofrezcan programas de educación de adultos, debidamente autorizados por las secretarías de educación departamental o distrital de la respectiva jurisdicción, deberán ajustarse a lo dispuesto en la presente Sección.
@@ -8158,8 +7062,6 @@ Las instituciones estatales y privadas que al 29 de diciembre de 1997 ofrezcan p
 No obstante, los estudiantes que se encuentren cursando programas de acuerdo con disposiciones anteriores, podrán continuar bajo dichas condiciones, hasta su culminación, excepto que, de acuerdo con el proyecto educativo institucional, su transición no ocasione mayores traumatismos en su proceso formativo.
 
 (Decreto 3011 de 1997, artículo 41).
-
-ARTÍCULO
 
 ## art:2.3.3.5.3.7.7 — Inspección y vigilancia
 
@@ -8175,15 +7077,11 @@ SUBSECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.1.1 — Alcance
 
 La educación para grupos étnicos hace parte del servicio público educativo y se sustenta en un compromiso de elaboración colectiva, donde los distintos miembros de la comunidad en general, intercambian saberes y vivencias con miras a mantener, recrear y desarrollar un proyecto global de vida de acuerdo con su cultura, su lengua, sus tradiciones y sus fueros propios y autóctonos.
 
 (Decreto 804 de 1995, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.1.2 — Principios
 
@@ -8207,8 +7105,6 @@ h) Solidaridad, entendida como la cohesión del grupo alrededor de sus vivencias
 
 (Decreto 804 de 1995, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.1.3 — Inclusión en los planes de desarrollo
 
 En las entidades territoriales donde existan asentamientos de comunidades indígenas, negras y/o raizales, se deberá incluir en los respectivos planes de desarrollo educativo, propuestas de etnoeducación para atender esta población, teniendo en cuenta la distribución de competencias previstas en la Ley 715 de 2001.
@@ -8216,8 +7112,6 @@ En las entidades territoriales donde existan asentamientos de comunidades indíg
 Dichos planes deberán consultar las particularidades de las culturas de los grupos étnicos, atendiendo la concepción multiétnica y cultural de la Nación y garantizarán el cumplimiento de lo dispuesto en la presente Sección.
 
 (Decreto 804 de 1995, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.1.4 — Normativa aplicable
 
@@ -8229,15 +7123,11 @@ SUBSECCIÓN 2
 
 Etnoeducadores
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.2.1 — De la formación de etnoeducadores
 
 La formación de etnoeducadores constituye un proceso permanente de construcción e intercambio de saberes que se fundamenta en la concepción de educador prevista en el artículo 104 de la Ley 115 de 1994 y en los criterios definidos en los artículos 56 y 58 de la misma.
 
 (Decreto 804 de 1995, artículo
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.2.2 — Objetivos de la formación de etnoeducadores
 
@@ -8255,8 +7145,6 @@ e) Adquirir y valorar los criterios, instrumentos y medios que permitan liderar 
 
 (Decreto 804 de 1995, artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.2.3 — Estructuración dela oferta de programas de formación para etnoeducadores
 
 Cuando en los proyectos educativos de las instituciones de educación superior que ofrezcan programas de pregrado en educación o de las escuelas normales superiores, se contemple la formación de personas provenientes de los grupos étnicos para que presten el servicio en sus respectivas comunidades, deberán, además de la formación requerida para todo docente, ofrecer un componente de formación específica en etnoeducación.
@@ -8266,8 +7154,6 @@ No obstante y de conformidad con lo dispuesto en el artículo 113 de la Ley 115 
 PARÁGRAFO . Los programas dirigidos a la formación de etnoeducadores contarán con áreas de enseñanza e investigación sobre la lengua del o los grupos étnicos según sea la zona de influencia de la institución formadora.
 
 (Decreto 804 de 1995, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.2.4 — Programa de formación para etnoeducadores
 
@@ -8279,15 +7165,11 @@ PARÁGRAFO . Los programas que al 18 de mayo de 1995, venían adelantándose den
 
 (Decreto 804 de 1995, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.2.5 — Proyectos específicos de actualización
 
 En las entidades territoriales certificadas en educación con población indígena, negra y/o raizal, los comités de capacitación de docentes a que se refiere el artículo 111 de la Ley 115 de 1994, organizarán proyectos específicos de actualización, especialización e investigación para etnoeducadores.
 
 (Decreto 804 de 1995, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.2.6 — De las autoridades tradicionales
 
@@ -8299,8 +7181,6 @@ b) Las autoridades tradicionales de los pueblos indígenas, con la asesoría de 
 
 (Decreto 804 de 1995, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.2.7 — Elección de los etnoeducadores
 
 Los docentes para cada grupo étnico serán seleccionados teniendo en cuenta sus usos y costumbres, el grado de compenetración con su cultura, compromiso, vocación, responsabilidad, sentido de pertenencia a su pueblo, capacidad investigativa, pedagógica y de articulación con los conocimientos y saberes de otras culturas.
@@ -8311,8 +7191,6 @@ En las comunidades con tradición lingüística propia, el maestro debe ser bili
 
 (Decreto 804 de 1995, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.2.8 — Excepción del título académico
 
 De conformidad con lo previsto en los artículos 62, 115 y 116 de la Ley 115 de 1994 y en las normas especiales vigentes que rigen la vinculación de etnoeducadores, para el nombramiento de docentes indígenas y de directivos docentes indígenas con el fin de prestar sus servicios en sus respectivas comunidades, podrá exceptuarse del requisito del título de licenciado o de normalista y del concurso.
@@ -8320,8 +7198,6 @@ De conformidad con lo previsto en los artículos 62, 115 y 116 de la Ley 115 de 
 En el evento de existir personal escalafonado, titulado o en formación dentro de los miembros del respectivo grupo étnico que se encuentren en capacidad y disponibilidad para prestar el servicio como etnoeducadores, éste tendrá prelación para ser vinculado.
 
 (Decreto 804 de 1995, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.2.9 — Requisitos especiales para los nombramientos
 
@@ -8333,8 +7209,6 @@ SUBSECCIÓN 3
 
 Orientaciones curriculares especiales
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.3.1 — Disposiciones especiales en cuanto al currículo
 
 El currículo de la etnoeducación, además de lo previsto en la Ley 115 de 1994 y en el Decreto 1860 de 1994, en la manera en que queda compilado en el presente Decreto, y de lo dispuesto en esta Sección, se fundamenta en la territorialidad, la autonomía, la lengua, la concepción de vida de cada pueblo, su historia e identidad según sus usos y costumbres. Su diseño o construcción será el producto de la investigación en donde participen la comunidad, en general, la comunidad educativa en particular, sus autoridades y organizaciones tradicionales.
@@ -8343,15 +7217,11 @@ El Ministerio de Educación Nacional, conjuntamente con los departamentos y dist
 
 (Decreto 804 de 1995, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.3.2 — Fundamentación del currículo
 
 La formulación de los currículos de etnoeducación se fundamentará en las disposiciones de la Ley 115 de 1994 y en las conceptualizaciones sobre educación elaboradas por los grupos étnicos, atendiendo sus usos y costumbres, las lenguas nativas y la lógica implícita en su pensamiento.
 
 (Decreto 804 de 1995, artículo 15).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.3.3 — De los alfabetos oficiales
 
@@ -8363,8 +7233,6 @@ SUBSECCIÓN 4
 
 Administración y gestión institucionales
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.4.1 — Calendario académico
 
 De conformidad con los artículos 55 y 86 de la Ley 115 de 1994, los proyectos educativos institucionales de los establecimientos educativos para los grupos étnicos, definirán los calendarios académicos de acuerdo con las formas propias de trabajo, los calendarios ecológicos, las concepciones particulares de tiempo y espacio y las condiciones geográficas y climáticas respectivas.
@@ -8373,15 +7241,11 @@ Estos calendarios deberán cumplir con las semanas lectivas, las horas efectivas
 
 (Decreto 804 de 1995, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.4.2 — Gobierno escolar
 
 En la organización y funcionamiento del gobierno escolar y en la definición del manual de convivencia en los establecimientos educativos para los grupos étnicos, se deberán tener en cuenta sus creencias, tradiciones, usos y costumbres.
 
 (Decreto 804 de 1995, artículo 18).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.4.3 — Infraestructura física
 
@@ -8389,15 +7253,11 @@ La infraestructura física requerida para la atención educativa a los grupos é
 
 (Decreto 804 de 1995, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.4.4 — Material educativo
 
 La elaboración, selección, adquisición de materiales educativos, textos, equipos y demás recursos didácticos, deben tener en cuenta las particularidades culturales de cada grupo étnico y llevarse a cabo en concertación con las instancias previstas en el artículo 2.3.3.5.4.2.6. del presente Decreto.
 
 (Decreto 804 de 1995, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.4.5 — Régimen de transición
 
@@ -8407,8 +7267,6 @@ El Ministerio de Educación Nacional y las entidades territoriales certificadas 
 
 (Decreto 804 de 1995, artículo 21).
 
-ARTÍCULO
-
 ## art:2.3.3.5.4.4.6 — Disposiciones especiales en materia de contratación
 
 Cuando fuere necesaria la celebración de contratos para la prestación de servicios educativos en las comunidades de los grupos étnicos, se preferirá contratar con las comunidades u organizaciones de los mismos que tengan experiencia educativa.
@@ -8416,8 +7274,6 @@ Cuando fuere necesaria la celebración de contratos para la prestación de servi
 De todas maneras dichos contratos tendrán en cuenta los criterios establecidos en el artículo 63 de la Ley 115 de 1994.
 
 (Decreto 804 de 1995, artículo 22).
-
-ARTÍCULO
 
 ## art:2.3.3.5.4.4.7 — Aspectos presupuestales
 
@@ -8429,15 +7285,11 @@ SECCIÓN 5
 
 Población desplazada por la violencia
 
-ARTÍCULO
-
 ## art:2.3.3.5.5.1 — Servicios educativos a población desplazada por la violencia
 
 Las entidades territoriales según su órbita de competencia deberán garantizar la prestación del servicio público de la educación en los niveles de preescolar, básica y media, en donde quiera que se ubiquen las poblaciones desplazadas por la violencia, tanto en la etapa de ayuda humanitaria como en la de retorno o reubicación.
 
 (Decreto 2562 de 2001, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.5.2 — 5.2
 
@@ -8447,8 +7299,6 @@ PARÁGRAFO . Los establecimientos educativos, efectuarán la matrícula a los ed
 
 (Decreto 2562 de 2001, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.3.5.5.3 — Participación comunitaria
 
 La Unidad Administrativa Especial de Atención y Reparación a Víctimas y las secretarías de educación departamentales, distritales y municipales, impulsarán la creación de cooperativas que presten el servicio educativo a la población desplazada por la violencia. Igualmente se promoverá la integración de líderes comunitarios para que contribuyan a la prestación del servicio educativo al segmento de la población desplazada.
@@ -8457,23 +7307,17 @@ Los departamentos, distritos y municipios podrán incluir dentro de sus proyecto
 
 (Decreto 2562 de 2001, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.5.5.4 — Adecuación de instalaciones
 
 La adecuación de instalaciones provisionales donde se puedan desarrollar los programas educativos de emergencia para la población escolar deberá garantizar la seguridad y salubridad a los desplazados. Podrá financiarse con recursos del Fondo de Inversión para la Paz, destinados al sector educativo, o recursos procedentes de donaciones o ayudas internacionales y la participación voluntaria de miembros de las comunidades o grupos desplazados.
 
 (Decreto 2562 de 2001, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.5.5.5 — Formación y actualización de docentes
 
 Las secretarías de educación a través de los comités departamentales y distritales de capacitación desarrollarán programas de formación y capacitación para los docentes que atienden población desplazada, en la forma y términos del Capítulo II del Título VI de la Ley 115 de 1994.
 
 (Decreto 2562 de 2001, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.3.5.5.6 — Atención educativa en sitios de retorno, de reubicación o reasentamiento
 
@@ -8489,23 +7333,17 @@ SUBSECCIÓN 1
 
 Generalidades y principios
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.1.1 — Objeto y ámbito de aplicación
 
 La presente Sección tiene por objeto reglamentar el Apoyo Académico Especial en Educación Formal en los niveles de educación preescolar, básica y media, establecido en el parágrafo 2 del artículo 14 de la Ley 1384 de 2010 y el parágrafo 2 del artículo 13 de la Ley 1388 de 2010, así como el apoyo emocional que dichas normas consagran a favor de los beneficiarios de la presente Sección y su familia.
 
 (Decreto 1470 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.1.2 — Beneficiarios
 
 Son beneficiarios de la presente Sección, la población menor de 18 años matriculada en un establecimiento educativo en los niveles de preescolar, básica y media que se encuentre en Instituciones Prestadoras de Salud o aulas hospitalarias públicas o privadas en alguna de las condiciones determinadas en el artículo 2 de la Ley 1388 de 2010.
 
 (Decreto 1470 de 2013, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.1.3 — Definiciones
 
@@ -8524,8 +7362,6 @@ Para efectos de la interpretación de la presente Sección, deben tenerse en cue
 6. Sistema Institucional de Evaluación de Estudiantes (SIE). Entiéndase por SIE la definición contenida en el artículo 2.3.3.3.14. del presente Decreto.
 
 (Decreto 1470 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.1.4 — Principios
 
@@ -8553,15 +7389,11 @@ SUBSECCIÓN 2
 
 Organización del apoyo académico especial
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.2.1 — Definición
 
 El Apoyo Académico Especial constituye una estrategia educativa diseñada con el objetivo de garantizar el ingreso o la continuidad en el sistema educativo de la población menor de 18 años que por motivos de exámenes diagnósticos y procedimientos especializados por sospecha de cáncer, o tratamiento y consecuencias de la enfermedad, se encuentren en Instituciones Prestadoras de Servicios de Salud o Aulas Hospitalarias Públicas o Privadas y no pueden asistir de manera regular al establecimiento educativo.
 
 (Decreto 1470 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.2.2 — Características esenciales del Apoyo Académico Especial
 
@@ -8579,8 +7411,6 @@ SUBSECCIÓN 3
 
 Responsables del apoyo académico especial y apoyo emocional
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.3.1 — Del Ministerio de Educación Nacional
 
 El Ministerio de Educación Nacional brindará la asistencia técnica necesaria a las entidades territoriales certificadas en educación en la puesta en marcha de las estrategias educativas que se implementen para la atención de los beneficiarios, para lo cual emitirá las orientaciones correspondientes.
@@ -8588,8 +7418,6 @@ El Ministerio de Educación Nacional brindará la asistencia técnica necesaria 
 Así mismo, implementará los ajustes necesarios en sus sistemas de información con el objeto de garantizar la adecuada caracterización de esta población.
 
 (Decreto 1470 de 2013, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.3.2 — De las entidades territoriales
 
@@ -8621,8 +7449,6 @@ PARÁGRAFO . Los establecimientos educativos oficiales y privados pueden apoyars
 
 (Decreto 1470 de 2013, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.3.3 — De los padres de familia o acudientes
 
 En cumplimiento de la disposición constitucional de protección de los niños por parte de la familia contenida en el artículo 44 de la Constitución Política de Colombia y lo dispuesto en el artículo 10 de la Ley 1098 de 2006, los padres de familia o acudientes tienen las siguientes responsabilidades:
@@ -8639,8 +7465,6 @@ SUBSECCIÓN 4
 
 Asignación de docentes para la prestación del apoyo académico especial
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.4.1 — Asignación de docentes estatales
 
 Para efectos de brindar el Apoyo Académico Especial a la población beneficiaria que pertenezca a un establecimiento educativo estatal, la entidad territorial certificada en educación atenderá la necesidad mediante docentes estatales. Para ello, el Ministerio de Educación Nacional brindará asistencia técnica a la entidad territorial certificada en educación para la definición de las plantas de personal requeridas en la atención de esta población, teniendo en cuenta los espacios de atención, número de beneficiarios y estrategia educativa.
@@ -8653,8 +7477,6 @@ SUBSECCIÓN 5
 
 Escenarios de aplicación del apoyo académico especial y procedimientos
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.5.1 — 5.1
 
 Apoyo académico especial a beneficiarios cuando los establecimientos educativos estatales involucrados pertenecen a una misma entidad territorial certificada en educación. Cuando los padres de familia o acudientes informen a la entidad territorial certificada en educación que el estudiante matriculado en un establecimiento educativo estatal se encuentra dentro de las circunstancias contempladas en el artículo 2 de la Ley 1388 de 2010, se deberán tener en cuenta los siguientes aspectos:
@@ -8664,8 +7486,6 @@ Apoyo académico especial a beneficiarios cuando los establecimientos educativos
 2. Si el estudiante beneficiario debe recibir el Apoyo Académico Especial a través de un establecimiento educativo diferente al que pertenece, la entidad territorial certificada en educación, deberá asegurar que la información necesaria para la implementación del Apoyo Académico Especial sea trasmitida de manera oportuna entre los establecimientos educativos involucrados.
 
 (Decreto 1470 de 2013, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.5.2 — 5.2
 
@@ -8678,8 +7498,6 @@ Procedimiento del apoyo académico especial cuando la solicitud es radicada en l
 3. Al finalizar la prestación del Apoyo Académico Especial, la entidad territorial receptora certificada en educación deberá remitir el informe correspondiente de las actividades académicas y los aprendizajes alcanzados por el beneficiario, a la entidad territorial de origen certificada en educación, para que esta a su vez, lo remita al establecimiento educativo estatal al que pertenece el beneficiario, con el propósito de realizar el correspondiente reconocimiento y aceptación de los resultados del Apoyo Académico Especial, de conformidad con las especificaciones que el citado establecimiento haya determinado en el SIE para estos casos.
 
 (Decreto 1470 de 2013, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.5.3 — 5.3
 
@@ -8697,8 +7515,6 @@ SUBSECCIÓN 6
 
 Disposiciones comunes
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.6.1 — Iniciación del apoyo académico especial
 
 El Apoyo Académico Especial se puede iniciar por cualquiera de las siguientes vías:
@@ -8711,23 +7527,17 @@ PARÁGRAFO . Las entidades territoriales certificadas en educación regularán e
 
 (Decreto 1470 de 2013, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.6.2 — Duración del apoyo académico especial
 
 El término de duración del Apoyo Académico Especial será el mismo tiempo que duren las condiciones de beneficiario establecidas en el artículo 2 de la Ley 1388 de 2010.
 
 (Decreto 1470 de 2013, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.6.3 — Reconocimiento y aceptación de los resultados del apoyo académico especial
 
 A partir del 12 de julio de 2013, las entidades territoriales garantizarán que en los establecimientos educativos oficiales y privados, se incorpore en su SIE, el procedimiento mediante el cual reconocerán y aceptarán los resultados del Apoyo Académico Especial, de conformidad con las especificaciones que el citado establecimiento haya determinado en estos casos, y así mismo se incorporen las estrategias de apoyo y seguimiento que después del retorno del beneficiario a sus actividades académicas normales, permitan su nivelación teniendo en cuenta las condiciones especiales de salud.
 
 (Decreto 1470 de 2013, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.6.4 — Permanencia en el sistema educativo
 
@@ -8736,8 +7546,6 @@ La entidad territorial certificada en educación que al culminar el año escolar
 En todo caso, la entidad territorial certificada en educación donde se encuentre el establecimiento educativo estatal al que pertenecía el beneficiario como estudiante antiguo, deberá garantizarle, a través de aquel establecimiento, su permanencia en el sistema educativo.
 
 (Decreto 1470 de 2013, artículo 17).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.6.5 — 6.5
 
@@ -8749,15 +7557,11 @@ SUBSECCIÓN 7
 
 Apoyo a estudiantes que no se encuentren en las instituciones prestadoras de salud
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.7.1 — Apoyo y nivelación
 
 En caso que un estudiante menor de 18 años se ausente del establecimiento educativo con ocasión a encontrarse en una de las condiciones descritas en el artículo 2 de la Ley 1388 de 2010, sus actividades de nivelación estarán a cargo del establecimiento educativo al que pertenece, de acuerdo a lo contemplado en el SIE del establecimiento, el cual deberá garantizar la implementación de las estrategias que sean necesarias para el normal desarrollo de su proceso formativo.
 
 (Decreto 1470 de 2013, artículo 19).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.7.2 — Acumulación de ausencias a beneficiarios
 
@@ -8769,23 +7573,17 @@ SUBSECCIÓN 8
 
 Plan de apoyo emocional
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.8.1 — Definición
 
 Constituyen los planes mediante los cuales el establecimiento educativo desarrolla estrategias enmarcadas dentro del ámbito escolar, para mitigar el impacto que las secuelas de la condición de enfermedad y del aislamiento puedan causar en el beneficiario y su familia.
 
 (Decreto 1470 de 2013, artículo 21).
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.8.2 — Responsables
 
 La entidad territorial certificada en educación debe implementar las acciones necesarias para que los establecimientos educativos oficiales y privados realicen las modificaciones pertinentes a los respectivos Proyectos Educativos Institucionales (PEI), con el propósito de diseñar e implementar los planes de Apoyo Emocional correspondientes.
 
 (Decreto 1470 de 2013, artículo 22).
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.8.3 — Características de los planes de apoyo emocional
 
@@ -8807,8 +7605,6 @@ El Plan de Apoyo Emocional busca reconocer que la inclusión es un elemento de b
 
 (Decreto 1470 de 2013, artículo 23).
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.8.4 — Implementación de los planes de apoyo emocional
 
 Para la implementación del Plan de Apoyo Emocional se debe contemplar entre otros:
@@ -8825,8 +7621,6 @@ SUBSECCIÓN 9
 
 Recursos presupuestales para el apoyo académico especial ofrecido a beneficiarios que pertenezcan a establecimientos educativos estatales
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.9.1 — Financiación
 
 A partir del 12 de julio de 2013 las entidades territoriales certificadas en educación deberán apropiar los recursos necesarios para la implementación del Apoyo Académico Especial, los cuales serán financiados con recurso del Sistema General de Participaciones y con recursos propios de las entidades territoriales.
@@ -8836,8 +7630,6 @@ A partir del 12 de julio de 2013 las entidades territoriales certificadas en edu
 SUBSECCIÓN 10
 
 Apoyo académico especial y plan de apoyo emocional en establecimientos educativos privados o no financiados con recursos del sistema general de participaciones
-
-ARTÍCULO
 
 ## art:2.3.3.5.6.10.1 — Aplicación
 
@@ -8849,8 +7641,6 @@ SUBSECCIÓN 11
 
 Inspección y vigilancia del apoyo académico especial prestado por los establecimientos educativos
 
-ARTÍCULO
-
 ## art:2.3.3.5.6.11.1 — Competencia en la inspección y vigilancia del apoyo académico especial
 
 De conformidad con las disposiciones establecidas en la Ley 715 de 2001, las entidades territoriales certificadas en educación como administradoras del servicio educativo en los niveles de preescolar, básica y media, deberán realizar la inspección y vigilancia a los programas de Apoyo Académico Especial y a los Planes de Apoyo Emocional que los establecimientos educativos de carácter oficial y privado ejecuten.
@@ -8860,8 +7650,6 @@ De conformidad con las disposiciones establecidas en la Ley 715 de 2001, las ent
 SECCIÓN 7
 
 Metodología Escuela Nueva para áreas rurales
-
-ARTÍCULO
 
 ## art:2.3.3.5.7.1 — Ámbito de aplicación
 
@@ -8873,15 +7661,11 @@ PARÁGRAFO 2. Los establecimientos educativos situados en cabeceras municipales 
 
 (Decreto 1490 de 1990, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.7.2 — Aplicación de la Metodología Escuela Nueva
 
 Los establecimientos que adopten la Metodología Escuela Nueva utilizarán en coordinación con las entidades territoriales certificadas en educación, los servicios y componentes de capacitación, dotación de bibliotecas, organización comunitaria, desarrollo de guías para niños y adecuación del currículo a las características de cada región, necesidades e intereses de los niños y padres de familia de conformidad con los criterios básicos que para su aplicación establece el Ministerio de Educación Nacional.
 
 (Decreto 1490 de 1990, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.5.7.3 — Responsabilidades del Ministerio de Educación Nacional
 
@@ -8897,8 +7681,6 @@ d) Fomentar y apoyar las innovaciones educativas que mejoren la metodología Esc
 
 (Decreto 1490 de 1990, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.3.5.7.4 — Responsabilidades de las secretarías de Educación
 
 En relación con la adopción de la metodología Escuela Nueva, son responsabilidades de las secretarías de educación:
@@ -8909,15 +7691,11 @@ b) Evaluar, dar asesoría y seguimiento permanente a través de los funcionarios
 
 (Decreto 1490 de 1990, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.3.5.7.5 — Régimen de excepción
 
 Se exceptúan de la aplicación de esta Sección las poblaciones étnicas minoritarias que apliquen programas de etnoeducación.
 
 (Decreto 1490 de 1990, artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.3.5.7.6 — Otras competencias del Ministerio de Educación Nacional
 
@@ -8935,15 +7713,11 @@ SUBSECCIÓN 1
 
 Aspectos generales de la prestación del servicio educativo en el marco del Sistema de Responsabilidad Penal para adolescentes
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.1.1 — Objeto
 
 La presente Sección tiene por objeto reglamentar la prestación del servicio educativo en el marco del sistema de Responsabilidad penal para Adolescentes (SRPA). En concordancia con lo dispuesto en el Libro ll de la Ley 1 098 de 2006 y el Capítulo 5 Título III de la Ley 115 1994.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.1.2 — Ámbito de aplicación
 
@@ -8955,15 +7729,11 @@ PARÁGRAFO . La presente Sección también se aplicará a los jóvenes mientras 
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.1 — Propósito y características del servicio educativo en el Sistema de Responsabilidad Penal para AdolescenteSRPA
 
 El servicio público educativo que se imparta a los adolescentes y jóvenes que se encuentren en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) se prestará con el propósito de garantizar su vinculación y/o continuidad en el sistema educativo. Con este propósito, se organizará una oferta dirigida a desarrollar estrategias, modalidades diferenciadas e implementación de modelos educativos de acuerdo con la edad y grado académico, que respondan a las características Sistema de Responsabilidad Penal para Adolescentes (SRPA). Lo anterior, en el marco del respeto por los derechos humanos, la resolución pacífica de conflictos, el desarrollo de competencias ciudadanas y orientado a un resultado restaurativo como parte del proceso pedagógico.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.1.4 — Reglas para la prestación del servicio público educativo
 
@@ -8991,8 +7761,6 @@ SUBSECCIÓN 2
 
 De la atención educativa en el Sistema de Responsabilidad Penal para Adolescentes
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.2.1 — De la atención al adolescente o joven que se encuentra en el Sistema de Responsabilidad Penal para Adolescentes (SRPA)
 
 Cuando el adolescente o joven sea ingresado al Sistema de Responsabilidad Penal para Adolescentes (SRPA) por la autoridad competente, el Instituto Colombiano de Bienestar Familiar (ICBF) comunicará a la correspondiente entidad territorial certificada en educación sobre su ingreso, e informará, además, si la sanción o medida impuesta es o no privativa de la libertad. La entidad territorial certificada en educación realizará las acciones respectivas, dispuestas en esta Sección, en los lineamientos educativos que disponga el Ministerio de Educación Nacional, para cumplir con su función de asegurar que al adolescente o joven se le preste el servicio educativo.
@@ -9005,8 +7773,6 @@ PARÁGRAFO 2. Dentro de los tres meses siguientes a la entrada en vigencia de la
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.2.2 — 
 
 2.3.3.5.8.2.2 De la prestación del servicio educativo para los adolescentes o jóvenes que se encuentren en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas no privativas de la libertad. Las instituciones educativas que tengan adolescentes o jóvenes matriculados, que formen parte del sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas o sanciones no privativas de la libertad, deberán asegurar la permanencia y continuidad del estudiante en su plantel, y garantizar la prestación del servicio educativo en los términos descritos en la presente Sección, y con observancia de los lineamientos educativos que disponga el Ministerio de Educación Nacional para esta población.
@@ -9014,8 +7780,6 @@ ARTÍCULO
 En caso de que el adolescente o joven que forme parte del Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medida o sanción no privativa de la libertad, se encuentre fuera del sistema educativo, la entidad territorial certificada en educación respectiva deberá asignarle un cupo en una institución educativa oficial de su jurisdicción, atendiendo las particularidades propias del estudiante, e iniciará junto con el establecimiento educativo las acciones respectivas para asegurar la permanencia y continuidad del estudiante en su plantel y garantizar la prestación del servicio educativo, lo anterior. Lo anterior, con observancia de los lineamientos educativos que disponga el Ministerio Educación Nacional para esta población.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.2.3 — 
 
@@ -9026,8 +7790,6 @@ La institución educativa seleccionada por la entidad territorial certificada en
 PARÁGRAFO . Los establecimientos educativos señalados en el presente artículo deberán evaluar, nivelar y ubicar en el respectivo grado de escolaridad, a los estudiantes que se encuentren en el Sistema de Responsabilidad Penal para Adolescentes (SRPA), con el fin de que los mismos ingresen y/o continúen en el sistema educativo en cualquier época del calendario escolar. Lo anterior con observancia de lo dispuesto en la Sección 3, Capítulo 3, Título 3 Parte 3 del Libro 2 del presente Decreto.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.2.4 — De la Jornada Escolar
 
@@ -9041,15 +7803,11 @@ Los adolescentes y jóvenes del Sistema de Responsabilidad Penal para Adolescent
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.2.5 — Prohibición de cobros a los estudiantes
 
 En ningún caso, la entidad territorial, ni la institución educativa oficial, podrán realizar cobros a los estudiantes que se encuentran en el Sistema de Responsabilidad Penal para Adolescentes (SRPA), por concepto de matrículas, pensiones, cuotas adicionales, servicios complementarios, cobros periódicos u otros conceptos, para la prestación del servicio educativo.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.2.6 — 2.6
 
@@ -9069,8 +7827,6 @@ PARÁGRAFO 4. El instituto Colombiano de Bienestar Familiar (ICBF) revisará y a
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.2.7 — De la planta docente
 
 Las entidades territoriales certificadas en educación deberán presentar al Ministerio de Educación Nacional el estudio de planta docente, mediante el cual se evidencie la necesidad de docentes y orientadores, una vez se reconozca a los Centros de Atención Especializada y a los Centros de Internamiento Preventivo como sedes de un establecimiento educativo oficial.
@@ -9087,8 +7843,6 @@ SUBSECCIÓN 3
 
 De la contratación para la atención educativa en el Sistema de Responsabilidad Penal para Adolescentes
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.3.1 — 3.1
 
 De la contratación del servicio educativo para la atención a la población que ingresa al Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas o sanciones privativas de la libertad. Cuando las entidades territoriales certificadas no cuenten con la suficiente planta docente o directivo docente para atender a la población sujeto de la presente Sección, podrán celebrar alguno de los siguientes contratos, para la oferta educativa para los jóvenes o adolescentes que ingresan al Sistema de Responsabilidad Penal para Adolescentes (SRPA), que se encuentren con medida o sanción privativa de la libertad:
@@ -9101,8 +7855,6 @@ PARÁGRAFO . Las entidades territoriales certificadas en educación deben prever
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.3.2 — Contrato de la oferta educativa para los Centros de Atención Especializada o Centros de Internamiento Preventivo
 
 Las entidades territoriales certificadas en educación podrán celebrar contratos para garantizar la oferta educativa permanente para la población que ingresa al Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas o sanciones privativas de la libertad, con personas jurídicas públicas o privadas, propietarias de un establecimiento educativo legalmente autorizado, que acrediten trayectoria, idoneidad y experiencia superior a dos (2) años en la prestación del servicio de educación formal, en los niveles de básica y media, para los adolescentes en conflicto con la ley penal.
@@ -9111,8 +7863,6 @@ En el desarrollo de este contrato, el propietario del establecimiento educativo 
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.3.3 — 3.3
 
 Requisitos para la celebración del contrato de la oferta educativa para los Centros de Atención Especializada o Centro de Internamiento Preventivo. Las entidades territoriales certificadas en educación, de manera excepcional, podrán contratar con cargo al Sistema General de Participaciones (SGP), la prestación del servicio educativo para jóvenes y adolescentes que se encuentran en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas o sanciones privativas de la libertad en los Centros de Atención Especializada o los Centros de Internamiento Preventivo, siempre y cuando demuestren insuficiencia de planta docente o directivo docente, según lo dispuesto en el artículo 2 3.1.3.1.5, numeral 4, del presente Decreto.
@@ -9120,8 +7870,6 @@ Requisitos para la celebración del contrato de la oferta educativa para los Cen
 Para justificar la insuficiencia de planta docente o directivo docente, la entidad territorial certificada en educación deberá contar con el estudio previsto en el artículo 2 3.1.3.2.6 del presente Decreto y la certificación expedida por el Ministerio de Educación Nacional en la que se indique la capacidad de la planta de personal docente, de acuerdo con los parámetros técnicos de organización definidos por el Gobierno nacional, y la distribución de dicha planta, por zona rural y urbana.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.3.4 — 3.4
 
@@ -9137,8 +7885,6 @@ PARÁGRAFO . La manutención, rehabilitación por consumo de sustancias psicoact
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.3.5 — 3.5
 
 Contrato para la promoción, implementación y desarrollo del modelo educativo y estrategias pertinentes para la atención educativa en el marco del Sistema de Responsabilidad Penal para Adolescentes (SRPA). Las entidades territoriales certificadas en educación podrán contratar, con cargo a los recursos del Sistema General de Participaciones (GSP) con personas jurídicas públicas o privadas de reconocida trayectoria e idoneidad, la implementación de estrategias para el desarrollo pedagógico y administrativo en el marco del Proyecto Educativo Institucional (PEI) del establecimiento educativo oficial asignado por la entidad territorial para la atención de la población con medidas privativas de la libertad en los Centros de Atención Especializada o los Centros de Internamiento Preventivo. Así mismo, se podrá estipular que el contratista proporcione los componentes de la canasta educativa que la entidad territorial certificada en educación no esté en capacidad de aportar.
@@ -9146,8 +7892,6 @@ Contrato para la promoción, implementación y desarrollo del modelo educativo y
 Por su parte, la entidad territorial certificada en educación aportará los elementos de la canasta educativa con que cuenten los establecimientos educativos oficiales con sede en el Centro de Atención Especializada (CAE) o el Centro de Internamiento Preventivo (CIP).
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.3.6 — 3.6
 
@@ -9171,8 +7915,6 @@ Reglas de la contratación para la promoción, implementación y desarrollo del 
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.3.7 — Valor de los contratos
 
 El valor del contrato corresponderá a los componentes de la canasta educativa establecida por la entidad territorial certificada en educación proporcionados por el contratista y no podrá ser superior al valor de la tipología por población atendida asignada por la Nación, en caso de que se supere dicho valor la entidad territorial certificada en educación tendrá que cubrir el valor adicional con recursos distintos a los asignados del Sistema General de Participaciones.
@@ -9182,8 +7924,6 @@ El valor del contrato corresponderá a los componentes de la canasta educativa e
 SUBSECCIÓN 4
 
 De la financiación para la prestación del servicio educativo en el marco del Sistema de Responsabilidad Penal para Adolescentes
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.4.1 — De la Financiación del servicio educativo
 
@@ -9201,8 +7941,6 @@ SUBSECCIÓN 5
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.5.1 — Egreso del adolescente o joven del Sistema de Responsabilidad Penal para Adolescentes SRPA
 
 El Instituto Colombiano de Bienestar Familiar (ICBF) es el responsable de remitir a la entidad territorial certificada en educación la información de los jóvenes y adolescentes que egresen del Sistema de Responsabilidad Penal para Adolescentes (SRPA).
@@ -9212,8 +7950,6 @@ Las entidades territoriales certificadas en educación deberán gestionar y real
 PARÁGRAFO . Los establecimientos educativos oficiales y no oficiales que presten el servicio educativo en el marco del Sistema de Responsabilidad Penal para Adolescentes (SRPA) deberán certificar los estudios cursados y aprobados por los adolescentes y jóvenes que hayan atendido.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.5.2 — Responsabilidades de los padres de familia o acudientes
 
@@ -9227,8 +7963,6 @@ Corresponderá a padres familia, tutores o acudientes adelantar las siguientes a
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.5.3 — De los lineamientos educativos
 
 Con el fin de ofrecer un servicio educativo pertinente a las necesidades particulares de esta población, el Ministerio de ubicación Nacional expedirá lineamientos educativos para la atención educativa de los adolescentes y jóvenes que ingresan al Sistema de Responsabilidad Penal para Adolescentes (SRPA).
@@ -9236,8 +7970,6 @@ Con el fin de ofrecer un servicio educativo pertinente a las necesidades particu
 Estos lineamientos educativos brindarán pautas generales sobre los aspectos que se deberán tener en cuenta durante el proceso formativo en el marco de la educación a la que se refiere el Capítulo 5 del Título 111 de la Ley 115 de 1994. Dichos lineamientos deberán ser adaptados por la entidad territorial certificada y sus establecimientos educativos a los diferentes contextos territoriales, así como a los resultados del diagnóstico que realice cada entidad territorial certificada en educación para efectos de determinar la situación real que afronta la población perteneciente al Sistema de Responsabilidad Penal para Adolescentes (SRPA) en su jurisdicción.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.5.4 — De las modalidades de atención
 
@@ -9249,15 +7981,11 @@ PARÁGRAFO . Cuando el servicio educativo se preste bajo la modalidad semipresen
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.5.5 — 5.5
 
 Acompañamiento a los Centros de Atención Especializada y Centros de Internamiento Preventivo.Las entidades territoriales certificadas en educación deberán acompañar a los Centros de Atención Especializada o Centros de Internamiento Preventivo que funcionen como sedes de establecimientos educativos oficiales, en la definición e implementación de estrategias pedagógicas y modelos educativos, que permitan el cumplimiento de los fines del Sistema de Responsabilidad Penal para Adolescentes (SRPA).
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.5.6 — Acompañamiento y formación a docentes
 
@@ -9265,23 +7993,17 @@ Las entidades territoriales certificadas en educación deberán incluir dentro d
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.5.7 — De la educación virtual y Tecnologías de la Información y Comunicación (TIC)
 
 El Ministerio de Educación Nacional promoverá una oferta de recursos educativos digitales, para facilitar las modalidades de educación presencial y semipresencial dirigida a los adolescentes y jóvenes que ingresan al Sistema de Responsabilidad Penal para Adolescentes (SRPA). Con este fin dispondrá de un espacio interactivo en el Portal Educativo Colombia Aprende, administrado por el Ministerio de Educación, en el cual se podrá acceder en línea a estos recursos.
 
 (Decreto 2383 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.5.8.5.8 — De la inspección y vigilancia
 
 De conformidad con lo dispuesto en el Capítulo 4, Título VIII, de la Ley 115 de 1994, las entidades territoriales certificadas en educación adelantarán las funciones de inspección y vigilancia previstas en el Título 7, Parte 3, Libro 2, del presente Decreto, a la prestación del servicio educativo en el marco del Sistema de Responsabilidad Penal para Adolescentes (SRPA), a fin de asegurar el cumplimiento de lo establecido en la Ley y en la presente Sección.
 
 (Decreto 2383 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.5.8.5.9 — Informe anual al Consejo de Política Social
 
@@ -9295,15 +8017,11 @@ Sección, adicionada por el Art. 4 del Decreto 1346 de 2020
 
 ACCESO DE BENEFICIARIOS A LA FORMACIÓN PROFESIONAL INTEGRAL DEL SERVICIO NACIONAL APRENDIZAJE SENA
 
-ARTÍCULO
-
 ## art:2.3.3.5.9.1 — Objeto
 
 El objeto de esta Sección es definir y establecer los criterios que debe tener en cuenta los beneficiarios a que hace referencia el artículo 2 de la Ley 1979 de 2019, para acceder a la Formación Profesional Integral en el Servicio Nacional de Aprendizaje - SENA.
 
 (Adicionado por el Art. 4 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.3.5.9.2 — Criterios de Acceso
 
@@ -9312,8 +8030,6 @@ Las personas a que hace referencia el artículo anterior podrán acceder de mane
 PARÁGRAFO . El Ministerio de Defensa Nacional y el Servicio Nacional de Aprendizaje SENA, podrán suscribir convenios en donde se establecerán las caracterización y programas de formación dirigidas a los beneficiarios de la Ley 1979 de 2019.
 
 (Adicionado por el Art. 4 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.3.5.9.3 — Entrega de Información
 
@@ -9331,15 +8047,11 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.3.3.6.1.1 — Objeto
 
 El presente Capítulo tiene coma objeto reglamentar las características y objetivos de la Jornada Única para los establecimientos educativos oficiales, así coma las componentes y requisitos de los planes de implementación gradual en el servicio público educativo.
 
 (Decreto 501 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.6.1.2 — Ámbito de Aplicación
 
@@ -9348,8 +8060,6 @@ El presente Capítulo aplica para todos los establecimientos educativos oficiale
 PARÁGRAFO , Mientras los establecimientos educativos oficiales no implementen la Jornada Única, les será aplicable lo dispuesto en el Capítulo 1 del título 3 de la Parte 4 del Libro 2 del presente decreto.
 
 (Decreto 501 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.6.1.3 — 1.3
 
@@ -9360,8 +8070,6 @@ La Jornada Única se prestará en jornada diurna durante cinco (5) días a la se
 PARÁGRAFO . La prestación del servicio educativo en Jornada Única no afectará el servicio de educación para adultos que actualmente se ofrece en los establecimientos educativos en concordancia con lo dispuesto en la Sección 3 del Capítulo V en el Título III, Parte 3, Libro 2, del presente decreto.
 
 (Modificado por el Art.1 del Decreto 2105 de 2017).
-
-ARTÍCULO
 
 ## art:2.3.3.6.1.4 — Condiciones para el reconocimiento de la jornada única
 
@@ -9381,8 +8089,6 @@ La gradualidad en la implementación de la Jornada Única a la que se refiere el
 
 (Modificado por el Art.1 del Decreto 2105 de 2017).
 
-ARTÍCULO
-
 ## art:2.3.3.6.1.5 — Objetivos de la Jornada Única
 
 La Jornada Única tendrá los siguientes objetivos:
@@ -9396,8 +8102,6 @@ La Jornada Única tendrá los siguientes objetivos:
 4. Favorecer y fomentar un mayor uso del tiempo dedicado a actividades pedagógicas en los establecimientos educativos que permitan promover la formación en el respeto de los derechos humanos, la paz y la democracia, e incentivar el desarrollo de las prácticas deportivas, las actividades artísticas y culturales, la sana recreación y la protección del ambiente.
 
 (Modificado por el Art.1 del Decreto 2105 de 2017).
-
-ARTÍCULO
 
 ## art:2.3.3.6.1.6 — Duración de la Jornada Única
 
@@ -9447,8 +8151,6 @@ SECCIÓN 2
 
 Implementación de la Jornada Única
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.1 — Planes para la implementación de la Jornada Única
 
 Las entidades territoriales certificadas en educación, en coordinación con el Gobierno nacional, lideraran el diseño y la ejecución de los planes para la implementación de la Jornada Única, en concordancia con lo dispuesto en el parágrafo del artículo 57 de la Ley 1753 de 2015, modificatorio del artículo 85 de la Ley 115 de 1994.
@@ -9467,8 +8169,6 @@ PARÁGRAFO 2. A partir del año 2020, cada cuatro arios, las entidades territori
 
 (Decreto 501 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.2 — Elaboración de estudio técnico y financiero para la implementación de la Jornada Única
 
 A más tardar el 1 de julio de 2016, las entidades territoriales certificadas en educación deberán presentar para revisión técnica por parte del Ministerio de Educación Nacional y del Ministerio de Hacienda y Crédito Publico sus respectivos planes para la implementación de la Jornada Única.
@@ -9476,8 +8176,6 @@ A más tardar el 1 de julio de 2016, las entidades territoriales certificadas en
 Los planes de implementación de la Jornada Única deberán estar acompañados de un estudio técnico y financiero en el cual se establezcan los costos proyectados de la implementación de la Jornada en la respectiva entidad territorial y los recursos propios que se esperan invertir para el efecto durante el respectivo periodo de gobierno.
 
 (Decreto 501 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.6.2.3 — Componentes de la Jornada Única
 
@@ -9492,8 +8190,6 @@ Son componentes de la Jornada Única:
 4. Componente de alimentación escolar, cuando este servicio se preste en los establecimientos educativos en concordancia con lo establecido en el parágrafo 2 del artículo 2.3.3.6.2.9.
 
 (Decreto 501 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.6.2.4 — Acciones del componente pedagógico
 
@@ -9531,8 +8227,6 @@ d) La matriz de referencia de las competencias a evaluar en los exámenes de Est
 
 (Decreto 501 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.5 — Asignación académica semanal de los docentes de aula en Jornada Única
 
 Para el desarrollo de las actividades académicas de las que trata el artículo 2.3.3.6.1.6 del presente decreto, los docentes de aula de instituciones educativas en Jornada Única tendrán las siguientes asignaciones académicas semanales:
@@ -9547,8 +8241,6 @@ PARÁGRAFO . Los docentes de aula de Jornada Única cumplirán su jornada labora
 
 (Subrogado por el Art. 2 del Decreto 2105 de 2017).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.6 — Requerimientos y acciones del componente de recurso humano
 
 Para la implementación de la jornada única, las entidades territoriales certificadas en educación, en cumplimiento de los parámetros y lineamientos que establezca el Ministerio de Educación Nacional, deberán adelantar el estudio técnico de planta de personal docente que soporte la asignación de educadores necesarios para la implementación gradual de la Jornada Única de conformidad con la matrícula reportada en el Sistema de Matrícula Estudiantil de Educación Básica y Media (SIMAT).
@@ -9562,8 +8254,6 @@ Bajo ninguna circunstancia, la ampliación de la nómina docente que viabilice e
 PARÁGRAFO . Las entidades territoriales certificadas en educación asignarán a los establecimientos educativos en Jornada Única, el personal administrativo que apoye la gestión institucional, de manera que se cumplan los objetivos de la jornada y se haga uso eficiente de los recursos y medios necesarios para la prestación del servicio educativo.»
 
 (Modificado por el Art. 3 del Decreto 2105 de 2017).
-
-ARTÍCULO
 
 ## art:2.3.3.6.2.7 — Acciones del componente de recurso humano docente
 
@@ -9585,8 +8275,6 @@ PARÁGRAFO . La matrícula mínima se entiende como el número de estudiantes qu
 
 (Decreto 501 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.8 — Acciones del componente de infraestructura educativa
 
 Durante la implementación gradual de la Jornada Única, las entidades territoriales certificadas en educación priorizaran el uso de la infraestructura disponible y en buen estado para el desarrollo de esta Jornada.
@@ -9603,8 +8291,6 @@ PARÁGRAFO 2. En el PNIE se definen los mecanismos para presentar y financiar pr
 
 (Decreto 501 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.9 — Acciones del componente de alimentación escolar
 
 En el marco del componente de alimentación escolar del servicio educativo en Jornada Única, la ejecución del Programa de Alimentación Escolar (PAE) se regirá por lo establecido en el Título 10, Parte 3, Libro 2 del presente decreto y por la normativa que expida el Ministerio de Educación Nacional en desarrollo de este. Durante la implementación gradual de la Jornada Única, las entidades territoriales certificadas en educación adelantaran las siguientes acciones, respecto del PAE, que sea cofinanciado con recursos del Ministerio de Educación Nacional:
@@ -9619,8 +8305,6 @@ PARÁGRAFO 2. En los establecimientos educativos oficiales focalizados mediante 
 
 (Decreto 501 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.10 — Transferencia de recursos
 
 Las transferencias de recursos para el Programa de Alimentación Escolar (PAE) podrán establecerse en los acuerdos para la implementación de la Jornada Única de que trata el artículo siguiente.
@@ -9628,8 +8312,6 @@ Las transferencias de recursos para el Programa de Alimentación Escolar (PAE) p
 Las entidades territoriales certificadas en educación que, no habiendo suscrito alguno de los mencionados acuerdos, aseguren el cumplimiento de las condiciones establecidas en el artículo anterior mediante la expedición de una certificación expedida por el alcalde o el gobernador respectivo, podrán ser receptoras de las transferencias de los recursos PAE. La certificación deberá expedirse a más tardar el 30 de octubre del año en que se defina la distribución de los recursos del Programa de Alimentación Escolar (PAE).
 
 (Decreto 501 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.6.2.11 — Acuerdos para la implementación de la Jornada Única
 
@@ -9639,15 +8321,11 @@ PARÁGRAFO . Las entidades territoriales certificadas en educación que antes de
 
 (Decreto 501 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.6.2.12 — Articulación con los planes de desarrollo territorial
 
 Las entidades territoriales certificadas en educación podrán incorporar en sus respectivos planes de desarrollo las acciones previstas en los planes de que trata el artículo 2.3.3.6.2.1. Así mismo, podrán declarar por media de sus Consejos de Gobierno la importancia estratégica de los proyectos de gastos de inversión asociados a la implementación de la Jornada Única, de conformidad con lo dispuesto en el artículo 12 de la Ley 819 de 2003.
 
 (Decreto 501 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.3.6.2.13 — Metas de implementación de la Jornada Única
 
@@ -9689,27 +8367,19 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.3.7.1.1 — Objeto
 
 El presente capítulo tiene como objeto reglamentar la organización y el funcionamiento de las Escuelas Normales Superiores -ENS-, tanto oficiales como privadas.
 
-ARTÍCULO
-
 ## art:2.3.3.7.1.2 — Ámbito de Aplicación
 
 El presente Capítulo se aplicará a las Escuelas Normales Superiores oficiales y privadas y a las entidades territoriales certificadas en educación.
-
-ARTÍCULO
 
 ## art:2.3.3.7.1.3 — Naturaleza y características de las Escuelas Normales Superiores
 
 Las Escuelas Normales Superiores son instituciones educativas que prestan el servicio educativo en los niveles de preescolar, básica y media y que están autorizadas para ser formadoras de docentes de educación inicial, preescolar y básica primaria o como directivo docente - director rural, mediante el programa de formación complementaria.
 
 La naturaleza de las Escuelas Normales Superiores se caracteriza por: i) la integralidad y articulación de todos sus niveles y el programa de formación complementaria, como laboratorio de formación pedagógica; ii) el reconocimiento del desarrollo integral de la infancia como centro de la formación que imparten a sus educandos; iii) la reflexión permanente sobre el papel de los principios pedagógicos y procesos de formación, extensión, investigación y evaluación; iv) la fundamentación y la práctica pedagógica que permite el diseño y desarrollo de diversas estrategias para el proceso de desarrollo y aprendizaje de los niños, las niñas y los adolescentes.
-
-ARTÍCULO
 
 ## art:2.3.3.7.1.4 — Fines de las Escuelas Normales Superiores
 
@@ -9739,8 +8409,6 @@ k) Impulsar el desarrollo de las capacidades de los docentes en relación con la
 
 l) Promover la participación en redes de investigación con entidades nacionales e internacionales.
 
-ARTÍCULO
-
 ## art:2.3.3.7.1.5 — Acompañamiento pedagógico y administrativo entre las Secretarías de Educación y las Escuelas Normales Superiores
 
 Las Secretarías de Educación de las entidades territoriales certificadas en educación establecerán canales de comunicación efectivos para apoyar a las Escuelas Normales Superiores en sus procesos pedagógicos y administrativos. Adicionalmente, deberán desarrollar las siguientes acciones frente a las Escuelas Normales Superiores:
@@ -9759,8 +8427,6 @@ f) Expedir a los establecimientos educativos que deseen transitar hacia Escuela 
 
 g) Definir en el Plan Territorial de Formación de Docentes -PTFD- los programas de actualización para los educadores de las Escuelas Normales Superiores.
 
-ARTÍCULO
-
 ## art:2.3.3.7.1.6 — Función asesora y de apoyo a la formación a cargo de las Escuelas Normales Superiores
 
 Las Escuelas Normales Superiores asesoran a las Secretarías de Educación de las entidades territoriales certificadas en educación, en temas relacionados con la formación de docentes y en desarrollos científicos, pedagógicos y culturales.
@@ -9773,8 +8439,6 @@ SECCIÓN 2
 
 DISPOSICIONES PEDAGÓGICAS Y ORGANIZATIVAS
 
-ARTÍCULO
-
 ## art:2.3.3.7.2.1 — Proyecto Educativo Institucional de las Escuelas Normales Superiores
 
 El Proyecto Educativo Institucional de las Escuelas Normales Superiores, como instituciones formadoras de docentes, debe corresponder, en todos sus niveles y atendiendo a la diversidad de las regiones, a los procesos de i) formación; ii) investigación; iii) evaluación y iv) extensión.
@@ -9782,8 +8446,6 @@ El Proyecto Educativo Institucional de las Escuelas Normales Superiores, como in
 El Proyecto Educativo Institucional deberá promover la formación integral en los niveles educativos, el desarrollo de la infancia como centro de la formación, las prácticas de educación inclusiva, el diálogo intercultural y la reflexión curricular.
 
 Adicionalmente, los planes de estudios de las Escuelas Normales Superiores remitirán la movilidad de los estudiantes entre dichas instituciones.
-
-ARTÍCULO
 
 ## art:2.3.3.7.2.2 — Organización curricular
 
@@ -9799,13 +8461,9 @@ c) En el nivel de media se promueva la exploración en los campos de la educaci�
 
 d) En el programa de formación complementaria se profundice en los saberes necesarios y específicos para el desarrollo de las capacidades profesionales que requiere el ejercicio de la docencia en la educación inicial, preescolar y básica primaria, para así impulsar el desarrollo de normalistas sensibles, éticos, responsables y constructores de saber pedagógico desde la experiencia formativa.
 
-ARTÍCULO
-
 ## art:2.3.3.7.2.3 — Campos de práctica pedagógica de las Escuelas Normales Superiores
 
 Las Escuelas Normales Superiores deben garantizar que todos los estudiantes del programa de formación complementaria desarrollen su práctica pedagógica en diversos contextos que promuevan el desarrollo de sus competencias profesionales, como lo son: modalidades de educación inicial, Escuelas Normales Superiores e instituciones educativas que ofrecen los niveles de preescolar y básica primaria y en centros de investigación en educación.
-
-ARTÍCULO
 
 ## art:2.3.3.7.24 — Convenios
 
@@ -9820,8 +8478,6 @@ PARÁGRAFO : Las Instituciones de Educación Superior deben comunicar a la Subdi
 SECCIÓN 3
 
 DE LA APROBACIÓN Y OTORGAMIENTO DEL. RECONOCIMIENTO DE LAS ESCUELAS NORMALES SUPERIORES
-
-ARTÍCULO
 
 ## art:2.3.3.7.3.1 — Procedimiento y requisitos para el reconocimiento de una Escuela Normal Superior
 
@@ -9841,15 +8497,11 @@ Previo a la presentación de la solicitud, el rector del establecimiento educati
 
 PARÁGRAFO . Las entidades territoriales certificadas en educación no podrán incluir requisitos o condiciones adicionales a las establecidas en el presente decreto, así como cobros de tarifas por efectos del reconocimiento como Escuelas Normales Superiores.
 
-ARTÍCULO
-
 ## art:2.3.3.7.3.2 — Acto administrativo de reconocimiento para las Escuelas Normales Superiores
 
 El gobernador(a) o alcalde(sa) de la entidad territorial certificada en educación, quien podrá delegar al secretario(a) de educación para este fin, expedirá el acto administrativo que modifique el reconocimiento de carácter oficial de la institución o la licencia de funcionamiento con el propósito de reconocer el establecimiento como Escuela Normal Superior a los establecimientos educativos que acrediten el cumplimiento de la totalidad de requisitos establecidos en el artículo 2.3.3.7.3.1 del presente Decreto.
 
 Este acto administrativo sólo podrá ser expedido una vez el Ministerio de Educación Nacional autorice el funcionamiento del programa de formación complementaria. Dicha autorización será remitida por el Ministerio de Educación Nacional a la entidad territorial certificada.
-
-ARTÍCULO
 
 ## art:2.3.3.7.3.3 — Pérdida del carácter de Escuela Normal Superior
 
@@ -9871,8 +8523,6 @@ SECCIÓN 4
 
 DEL PERSONAL DIRECTIVO Y DOCENTE DE LAS ESCUELAS NORMALES SUPERIORES OFICIALES
 
-ARTÍCULO
-
 ## art:2.3.3.7.4.1 — Planta de personal
 
 La definición de la planta de personal, directivos docentes y docentes de las Escuelas Normales Superiores oficiales se realizará previo estudio técnico presentado al Ministerio de Educación Nacional por parte de la Secretaría de Educación de la entidad territorial certificada en educación.
@@ -9882,8 +8532,6 @@ La ubicación del personal docente de la educación media y el programa de forma
 PARÁGRAFO 1. Los docentes del programa de formación complementaria a quienes se les reconozca el pago de hora cátedra como lo establece el parágrafo 2 del artículo 2.3.1.6.3.11 del presente Decreto, deberán acreditar por lo menos tres (3) años de ejercicio docente en instituciones formadoras de educadores o experiencia en investigación en educación.
 
 PARÁGRAFO 2. Los cargos docentes o directivos docentes de que trata el presente artículo, se asignarán de los excedentes de personal que resultaren de la redistribución de plantas de los establecimientos educativos oficiales de la entidad territorial certificada y de acuerdo con los estudios viabilizados técnica y financieramente por el Ministerio de Educación Nacional, para lo cual es necesario que las Escuelas Normales Superiores hayan adecuado el Proyecto Educativo Institucional según lo dispuesto en el artículo 2.3.3.7.6.2 de presente Decreto.
-
-ARTÍCULO
 
 ## art:2.3.3.7.4.2 — Provisión de vacantes definitivas
 
@@ -9897,8 +8545,6 @@ SECCIÓN 5
 
 DISPOSICIONES FINANCIERAS
 
-ARTÍCULO
-
 ## art:2.3.3.7.5.1 — Valor de matrícula y otros cobros
 
 Los valores de matrícula y derechos pecuniarios para los estudiantes del programa de formación complementaria serán aquellos que, con sesenta (60) días calendario de anticipación a la terminación del año académico, proponga el Consejo Directivo de la Escuela Normal Superior oficial o privada, a la respectiva Secretaría de Educación de la entidad territorial certificada, la cual tomará una decisión dentro de los treinta (30) días calendario siguientes a la debida radicación de la propuesta, mediante acto administrativo autorizando los valores a cobrar, teniendo en cuenta la sustentación que formule la Escuela Normal Superior en términos de mejoramiento de la calidad educativa que ofrece.
@@ -9908,8 +8554,6 @@ Las Escuelas Normales Superiores privadas para efectos de matrículas, pensiones
 PARÁGRAFO . Los valores de matrícula y derechos pecuniarios para estudiantes del programa de formación complementaria de Escuelas Normales Superiores oficiales, en ningún caso, pueden superar 26,31 UVT por cada periodo académico semestral.
 
 (Parágrafo MODIFICADO por el Art. 48 del Decreto 2642 de 2022)
-
-ARTÍCULO
 
 ## art:2.3.3.7.5.2 — Presupuesto y financiación
 
@@ -9921,13 +8565,9 @@ SECCION 6
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.3.3.7.6.1 — Focalización prioritaria para incentivos o estímulos
 
 En caso de que el Ministerio de Educación Nacional defina un plan de incentivos o estímulos educativos, deberá proyectar una ruta diferenciada que beneficie de manera prioritaria a las Escuelas Normales Superiores reconociendo su labor hacia la formación de maestros que se desempeñan en Educación Inicial, Preescolar y Básica Primaria.
-
-ARTÍCULO
 
 ## art:2.3.3.7.6.2 — Periodo de transición
 
@@ -10343,8 +8983,6 @@ TÍTULO 4
 
 PARTICIPACIÓN DE LOS PADRES DE FAMILIA EN EL MEJORAMIENTO DE LOS PROCESOS EDUCATIVOS DE LOS ESTABLECIMIENTOS OFICIALES Y PRIVADOS
 
-ARTÍCULO
-
 ## art:2.3.4.1 — Ámbito de aplicación
 
 El presente Título tiene por objeto promover y facilitar la participación efectiva de los padres de familia en los procesos de mejoramiento educativo de los establecimientos de educación preescolar, básica y media, oficiales y privados, de acuerdo con los artículos 67 y 68 de la Constitución Política y el artículo 7 de la Ley 115 de 1994.
@@ -10352,8 +8990,6 @@ El presente Título tiene por objeto promover y facilitar la participación efec
 PARÁGRAFO . Para los fines previstos en el presente Título, la expresión "padres de familia" comprende a los padres y madres de familia, así como a los tutores o quienes ejercen la patria potestad o acudientes debidamente autorizados.
 
 (Decreto 1286 de 2005, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.4.2 — Derechos de los padres de familia
 
@@ -10381,8 +9017,6 @@ j) Ejercer el derecho de asociación con el propósito de mejorar los procesos e
 
 (Decreto 1286 de 2005. artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.4.3 — Deberes de los padres de familia
 
 Con el fin de asegurar el cumplimiento de los compromisos adquiridos con la educación de sus hijos, corresponden a los padres de familia los siguientes deberes:
@@ -10405,8 +9039,6 @@ h) Participar en el proceso de autoevaluación anual del establecimiento educati
 
 (Decreto 1286 de 2005, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.4.4 — Asamblea general de padres de familia
 
 La Asamblea General de Padres de Familia está conformada por la totalidad de padres de familia del establecimiento educativo, quienes son los responsables del ejercicio de sus deberes y derechos en relación con el proceso educativo de sus hijos.
@@ -10414,8 +9046,6 @@ La Asamblea General de Padres de Familia está conformada por la totalidad de pa
 Debe reunirse obligatoriamente mínimo dos veces al año por convocatoria del Rector o Director del establecimiento educativo.
 
 (Decreto 1286 de 2005, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.4.5 — Consejo de padres de familia
 
@@ -10429,8 +9059,6 @@ La conformación del consejo de padres es obligatoria y así deberá registrarse
 
 (Decreto 1286 de 2005, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.4.6 — Estructura y funcionamiento del consejo de padres de familia
 
 El consejo de padres de familia deberá conformarse en todos los establecimientos educativos. Podrá organizar los comités de trabajo que guarden afinidad con el proyecto educativo institucional y el plan de mejoramiento del establecimiento educativo, de conformidad con los planes de trabajo que acuerde con el rector o director. Los comités podrán contar con la participación de un directivo o docente del establecimiento educativo designado por el rector o director para tal fin.
@@ -10440,8 +9068,6 @@ El consejo de padres de familia es un órgano de participación educativa que no
 Las secretarías de educación apoyarán a los establecimientos educativos para que se conformen los consejos de padres de familia y solicitarán informes periódicos sobre su funcionamiento.
 
 (Decreto 1286 de 2005, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.4.7 — Funciones del consejo de padres de familia
 
@@ -10475,8 +9101,6 @@ PARÁGRAFO 2. El consejo de padres de cada establecimiento educativo ejercerá e
 
 (Decreto 1286 de 2005, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.4.8 — Elección de los representantes de los padres de familia en el consejo directivo
 
 El consejo de padres de familia, en una reunión convocada para tal fin por el rector o, director del establecimiento educativo, elegirá dentro de los primeros treinta (30) días del año lectivo a los dos representantes de los padres de familia en el consejo directivo del establecimiento educativo. Los representantes de los padres de familia solo podrán ser reelegidos por un período adicional.
@@ -10486,8 +9110,6 @@ En todo caso, los representantes de los padres ante el consejo directivo deben s
 Los docentes, directivos o administrativos del establecimiento educativo no podrán ser representantes de los padres de familia en el consejo directivo del mismo establecimiento en que laboran.
 
 (Decreto 1286 de 2005, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.4.9 — Asociaciones de padres de familia
 
@@ -10502,8 +9124,6 @@ PARÁGRAFO 2. Cuando el número de afiliados a la asociación de padres alcance 
 PARÁGRAFO 3. En el momento de la afiliación el padre de familia recibirá copia de los estatutos de la asociación en los que conste que ha sido inscrita en la Cámara de Comercio.
 
 (Decreto 1286 de 2005, artículo 9),
-
-ARTÍCULO
 
 ## art:2.3.4.10 — Finalidades de la asociación de padres de familia
 
@@ -10521,8 +9141,6 @@ e) Promover entre los padres de familia una cultura de convivencia, solución pa
 
 (Decreto 1286 de 2005, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.4.11 — Manejo de los recursos de la asociación de padres
 
 El patrimonio de la asociación de padres de familia y su gestión deben estar claramente separados de los del establecimiento educativo. Será administrado únicamente por la junta directiva de la asociación de acuerdo con los estatutos. Esta designará al responsable del recaudo de los ingresos que por distintos conceptos reciba la asociación quien, en ningún caso, podrá ser un directivo, administrativo o docente del establecimiento educativo. La junta directiva deberá entregar a sus afiliados al menos un informe semestral sobre su gestión académica, administrativa y financiera.
@@ -10534,8 +9152,6 @@ Los bienes de la asociación de padres de familia que favorezcan a la formación
 PARÁGRAFO . Las cuotas extraordinarias serán de destinación específica y solo podrán exigirse si son aprobadas por las tres cuartas (3/4) partes de los asistentes a la asamblea general de asociados, convocada con la debida anticipación. En ningún caso, la asociación podrá establecer cuotas que no estén sustentadas en un plan de desarrollo y plan anual de caja.
 
 (Decreto 1286 de 2005, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.4.12 — Prohibiciones para las asociaciones de padres de familia
 
@@ -10553,8 +9169,6 @@ PARÁGRAFO . Los miembros de la junta directiva de la asociación de padres de f
 
 (Decreto 1286 de 2005, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.4.13 — Ligas, Federaciones y Confederaciones de Asociaciones
 
 Las asociaciones de padres de familia de los establecimientos educativos de cada municipio, distrito o departamento se rigen por el derecho privado y podrán organizarse, en forma libre y autónoma, en ligas, federaciones o confederaciones. Para su funcionamiento, cada una de estas formas de organización adoptará sus propios estatutos, órganos de dirección y administración de acuerdo con las normas vigentes.
@@ -10564,8 +9178,6 @@ El rector o director promoverá la organización de la asociación de padres de 
 La secretaría de educación de la entidad territorial certificada mantendrá una relación permanente con las ligas, federaciones y confederaciones de padres de familia para fortalecer la participación de las asociaciones en los procesos educativos de los establecimientos.
 
 (Decreto 1286 de 2005, artículo 13).
-
-ARTÍCULO
 
 ## art:2.3.4.14 — Federación de asociaciones
 
@@ -10578,8 +9190,6 @@ b) Obtener conjuntamente recursos técnicos de alta calificación, necesarios pa
 c) Ejercer una vigilancia colegiada del funcionamiento de los organismos afiliados.
 
 (Decreto 1860 de 1994, artículo 32).
-
-ARTÍCULO
 
 ## art:2.3.4.15 — Prohibiciones para los establecimientos educativos
 
@@ -10601,8 +9211,6 @@ g) Solicitar a las asociaciones contribuciones financieras con destino al establ
 
 (Decreto 1286 de 2005, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.4.16 — Inspección y vigilancia
 
 Las secretarias de educación de los departamentos, distritos y municipios certificados ejercerán la inspección y vigilancia sobre las asociaciones de padres de familia de su jurisdicción, con el fin de que cumplan la Constitución, la ley y sus propios estatutos, y con tal fin deberán mantener información actualizada sobre la existencia de estas organizaciones.
@@ -10610,8 +9218,6 @@ Las secretarias de educación de los departamentos, distritos y municipios certi
 La Cámara de Comercio deberá entregar a la secretaría de educación del departamento, distrito o municipio certificado, copia del certificado de existencia y representación legal de las asociaciones, ligas, federaciones o confederaciones de padres de familia en cada oportunidad en la que se produzcan registros o modificaciones.
 
 (Decreto 1286 de 2005, artículo 15).
-
-ARTÍCULO
 
 ## art:2.3.4.17 — Divulgación
 
@@ -10923,15 +9529,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.5.1.1 — Objeto
 
 El presente Título reglamenta el funcionamiento del Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar; sus herramientas; los lineamientos generales bajo los cuales se deben ajustar los Manuales de Convivencia de los Establecimientos Educativos, de acuerdo con lo ordenado en la Ley 1620 de 2013 y otros aspectos relacionados con incentivos y la participación de las entidades del orden nacional y territorial, establecimientos educativos, la familia y la sociedad dentro del Sistema Nacional de Convivencia Escolar.
 
 (Decreto 1965 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.5.1.2 — Ámbito de aplicación
 
@@ -10947,23 +9549,17 @@ SECCIÓN 1
 
 Funcionamiento del Comité Nacional de Convivencia Escolar
 
-ARTÍCULO
-
 ## art:2.3.5.2.1.1 — Mesa técnica del Comité Nacional de Convivencia Escolar
 
 Para apoyar el desarrollo de las funciones y tareas del Comité Nacional de Convivencia Escolar, los actores que lo conforman crearán, dentro de un término no superior a dos (2) meses contados a partir del 11 de septiembre de 2013, una mesa técnica que cuente con la participación de un delegado de cada miembro del comité. Las reglas atinentes al funcionamiento de esta mesa serán determinadas en el reglamento interno del Comité Nacional de Convivencia.
 
 (Decreto 1965 de 2013, artículo 3),
 
-ARTÍCULO
-
 ## art:2.3.5.2.1.2 — Secretaría técnica
 
 El Comité Nacional de Convivencia Escolar tendrá una secretaría técnica, que será ejercida por el Director (a) de la Dirección de Calidad del Viceministerio de Educación Preescolar, Básica y Media, o su delegado (a), en los términos que establece el artículo 9 de la Ley 489 de 1998.
 
 (Decreto 1965 de 2013, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.5.2.1.3 — Funciones de la Secretaría Técnica
 
@@ -10993,8 +9589,6 @@ La secretaría técnica del Comité Nacional de Convivencia Escolar ejercerá la
 
 (Decreto 1965 de 2013, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.5.2.1.4 — 1.4
 
 Designación de los representantes de los rectores ante el Comité Nacional de Convivencia Escolar.Para la designación de los representantes de los rectores ante el Comité Nacional de Convivencia Escolar, se seguirá el siguiente procedimiento:
@@ -11007,8 +9601,6 @@ Designación de los representantes de los rectores ante el Comité Nacional de C
 
 (Decreto 1965 de 2013, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.5.2.1.5 — Sesiones
 
 El Comité Nacional de Convivencia Escolar sesionará ordinariamente al menos una (1) vez cada seis (6) meses. Las sesiones extraordinarias serán convocadas por el Presidente del Comité Nacional de Convivencia Escolar, cuando las circunstancias lo exijan o por solicitud de cualquiera de los integrantes del mismo.
@@ -11016,8 +9608,6 @@ El Comité Nacional de Convivencia Escolar sesionará ordinariamente al menos un
 PARÁGRAFO . Las sesiones del Comité Nacional de Convivencia Escolar podrán ser presenciales o virtuales, siempre y cuando en este último caso, se garantice la participación de todos los integrantes en las deliberaciones y votaciones que se adelanten en las respectivas sesiones.
 
 (Decreto 1965 de 2013, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.5.2.1.6 — Citación para sesionar
 
@@ -11029,8 +9619,6 @@ PARÁGRAFO . El Comité Nacional de Convivencia Escolar, cuando lo considere nec
 
 (Decreto 1965 de 2013, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.5.2.1.7 — Quórum decisorio
 
 El Comité Nacional de Convivencia Escolar podrá sesionar con la asistencia de la mitad más uno de sus miembros. Las decisiones se adoptarán por la mayoría de los miembros que asisten a la sesión del comité y serán de obligatorio cumplimiento para todos sus integrantes.
@@ -11040,8 +9628,6 @@ PARÁGRAFO . La participación de los integrantes en las sesiones del Comité Na
 En caso de ser autorizado, el respectivo integrante deberá participar tanto en las deliberaciones como en las votaciones que se realicen en la sesión.
 
 (Decreto 1965 de 2013, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.5.2.1.8 — Actas
 
@@ -11063,15 +9649,11 @@ PARÁGRAFO . El Comité Nacional de Convivencia Escolar deberá garantizar el de
 
 (Decreto 1965 de 2013, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.5.2.1.9 — Acciones o decisiones
 
 El Comité Nacional de Convivencia Escolar armonizará y articulará las políticas, estrategias y programas y emitirá los lineamientos relacionados con la promoción y fortalecimiento de la formación para la ciudadanía, el ejercicio de los derechos humanos, sexuales y reproductivos, y la prevención y mitigación de la violencia escolar y el embarazo en la adolescencia de los estudiantes de los niveles educativos de preescolar, básica y media. Lo anterior, a partir de las estadísticas e indicadores que arroje el Sistema de Información Unificado de Convivencia Escolar, de los resultados de la evaluación de competencias ciudadanas que realizan las pruebas SABER, y otras fuentes de información que se consideren pertinentes.
 
 (Decreto 1965 de 2013, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.5.2.1.10 — Conflictos de interés y causales de impedimento y recusación
 
@@ -11083,23 +9665,17 @@ SECCIÓN 2
 
 Comités municipales, distritales y departamentales de convivencia escolar
 
-ARTÍCULO
-
 ## art:2.3.5.2.2.1 — Plazo para la conformación de los comités municipales, distritales y departamentales de convivencia escolar
 
 De conformidad con el artículo 9 de la Ley 1620 de 2013, los consejos territoriales de política social deberán constituir los comités municipales, distritales y departamentales de convivencia escolar en un plazo no mayor a seis (6) meses, contados a partir del 11 de septiembre de 2013.
 
 (Decreto 1965 de 2013, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.5.2.2.2 — Elección del presidente
 
 El presidente del comité municipal, distrital o departamental de convivencia escolar será elegido en los términos fijados en el acto de conformación de los respectivos comités.
 
 (Decreto 1965 de 2013, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.5.2.2.3 — Secretaría técnica
 
@@ -11125,8 +9701,6 @@ Los comités municipales, distritales y departamentales de convivencia escolar t
 
 (Decreto 1965 de 2013, artículo 15)
 
-ARTÍCULO
-
 ## art:2.3.5.2.2.4 — 2.4
 
 Designación de los representantes de los rectores ante los comités municipales, distritales o departamentales comités municipales, distritales o departamentales de convivencia escolar. Para la designación de los representantes de los rectores ante los comités municipales, distritales o departamentales comités municipales, distritales o departamentales de convivencia escolar, se seguirá el siguiente procedimiento:
@@ -11138,8 +9712,6 @@ Designación de los representantes de los rectores ante los comités municipales
 3. El período de los representantes, de que trata el presente artículo, será de un año contado a partir del primero (1) de enero al treinta y uno (31) de diciembre.
 
 (Decreto 1965 de 2013, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.5.2.2.5 — Sesiones
 
@@ -11153,8 +9725,6 @@ PARÁGRAFO 2. Los comités municipales, distritales y departamentales de convive
 
 (Decreto 1965 de 2013, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.5.2.2.6 — Quórum decisorio
 
 Los comités municipales, distritales y departamentales de convivencia escolar, podrán sesionar con la asistencia de la mitad más uno de sus miembros. Las decisiones se adoptarán por la mayoría de los miembros que asistan a la sesión del comité y serán de obligatorio cumplimiento para todos sus integrantes.
@@ -11165,8 +9735,6 @@ PARÁGRAFO . La participación de los integrantes en las sesiones del comité mu
 
 (Decreto 1965 de 2013, artículo 18).
 
-ARTÍCULO
-
 ## art:2.3.5.2.2.7 — Actas
 
 De todas las sesiones que adelanten los comités municipales, distritales y departamentales de convivencia escolar se deberá elaborar un acta, la cual deberá contener como mínimo los requisitos establecidos en el artículo 2.3.5.2.1.8. del presente Decreto.
@@ -11175,15 +9743,11 @@ PARÁGRAFO . Los comités municipales, distritales y departamentales de conviven
 
 (Decreto 1965 de 2013, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.5.2.2.8 — Acciones o decisiones
 
 Los comités municipales, distritales y departamentales de convivencia escolar armonizarán, articularán, implementarán y evaluarán, en su respectiva jurisdicción, las políticas, estrategias y programas relacionados con la promoción y fortalecimiento de la formación para la ciudadanía, el ejercicio de los derechos humanos, sexuales y reproductivos, y la prevención y mitigación de la violencia escolar y el embarazo en la adolescencia, de los estudiantes de los niveles educativos de preescolar, básica y media. Lo anterior, a partir de las estadísticas e indicadores que arroje el Sistema de Información Unificado de Convivencia Escolar, de los lineamientos trazados por el Comité Nacional de Convivencia Escolar, de los resultados de la evaluación de competencias ciudadanas que realizan las pruebas SABER, y de otras fuentes de información pertinentes.
 
 (Decreto 1965 de 2013, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.5.2.2.9 — Conflictos de interés y causales de impedimento y recusación
 
@@ -11194,8 +9758,6 @@ Cuando en las actuaciones adelantadas por parte de los comités municipales, dis
 SECCIÓN 3
 
 Comités escolares de convivencia
-
-ARTÍCULO
 
 ## art:2.3.5.2.3.1 — Conformación de los comités escolares de convivencia
 
@@ -11209,8 +9771,6 @@ PARÁGRAFO 2. Para el caso de los centros educativos donde no se cuenta con los 
 
 (Decreto 1965 de 2013, artículo 22).
 
-ARTÍCULO
-
 ## art:2.3.5.2.3.2 — Sesiones
 
 El Comité Escolar de Convivencia sesionará como mínimo una vez cada dos (2) meses.
@@ -11219,15 +9779,11 @@ Las sesiones extraordinarias serán convocadas por el Presidente del Comité Esc
 
 (Decreto 1965 de 2013, artículo 23).
 
-ARTÍCULO
-
 ## art:2.3.5.2.3.3 — Quórum decisorio
 
 El quórum decisorio del Comité Escolar de Convivencia será el establecido en su reglamento. En cualquier caso, este comité no podrá sesionar sin la presencia del presidente.
 
 (Decreto 1965 de 2013, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.5.2.3.4 — Actas
 
@@ -11237,15 +9793,11 @@ PARÁGRAFO . El Comité Escolar de Convivencia deberá garantizar el derecho a l
 
 (Decreto 1965 de 2013, artículo 25).
 
-ARTÍCULO
-
 ## art:2.3.5.2.3.5 — Acciones o decisiones
 
 El Comité Escolar de Convivencia, en el ámbito de sus competencias, desarrollará acciones para la promoción y fortalecimiento de la formación para la ciudadanía y el ejercicio de los derechos humanos, sexuales y reproductivos; para la prevención y mitigación de la violencia escolar y el embarazo en la adolescencia; y para la atención de las situaciones que afectan la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos a partir de la implementación, desarrollo y aplicación de las estrategias y programas trazados por el Comité Nacional de Convivencia Escolar y por el respectivo comité municipal, distrital o departamental de convivencia escolar, dentro del respeto absoluto de la Constitución y la ley.
 
 (Decreto 1965 de 2013, artículo 26).
-
-ARTÍCULO
 
 ## art:2.3.5.2.3.6 — Conflictos de interés y causales de impedimento y recusación
 
@@ -11259,13 +9811,9 @@ CAPÍTULO 3
 
 LINEAMIENTOS GENERALES PARA INCORPORAR EN EL MANUAL DE CONVIVENCIA DE LOS ESTABLECIMIENTOS EDUCATIVOS LAS DISPOSICIONES SOBRE MANEJO DE SITUACIONES QUE AFECTAN LA CONVIVENCIA ESCOLAR, LOS DERECHOS HUMANOS, SEXUALES Y REPRODUCTIVOS
 
-ARTÍCULO
-
 ## art:2.3.5.3.1 — Incorporación en el Manual de Convivencia de las definiciones, principios y responsabilidades
 
 En el manual de convivencia se incluirán las definiciones, principios y responsabilidades que para todos los miembros de la comunidad educativa establece la Ley 1620 de 2013, los cuales servirán de base para que dentro del mismo manual se desarrollen los componentes de promoción, prevención, atención y seguimiento de la Ruta de Atención Integral para la Convivencia Escolar, de que trata la Sección 2 del Capítulo 4 del presente Título, sin perjuicio de los demás aspectos que deben ser regulados en dichos manuales, de acuerdo con lo establecido en la Ley 115 de 1994 y en el Decreto 1860 de 1994, en la manera en que queda compilado en el presente Decreto
-
-ARTÍCULO
 
 ## art:2.3.5.3.2 — Lineamientos generales para la actualización del Manual de Convivencia
 
@@ -11289,8 +9837,6 @@ PARÁGRAFO 2. El Manual de Convivencia deberá ser construido, evaluado y ajusta
 
 (Decreto 1965 de 2013, artículo 29).
 
-ARTÍCULO
-
 ## art:2.3.5.3.3 — Plazo para la actualización de los Manuales de Convivencia de los establecimientos educativos oficiales y no oficiales
 
 Los establecimientos educativos en un plazo no superior a seis (6) meses contados a partir del 11 de septiembre de 2013, deberán ajustar los manuales de convivencia, conforme lo señalado en este Capítulo.
@@ -11307,15 +9853,11 @@ SECCIÓN 1
 
 Sistema de información unificado de convivencia escolar
 
-ARTÍCULO
-
 ## art:2.3.5.4.1.1 — Mesa técnica del Sistema de Información Unificado de Convivencia Escolar
 
 En cumplimiento de lo dispuesto en el artículo 28 de la Ley 1620 de 2013, el Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Tecnologías de la Información y las Comunicaciones, el Instituto Colombiano de Bienestar Familiar y la Policía Nacional, crearán dentro de un término no superior a dos (2) meses contados a partir del 11 de septiembre de 2013, una mesa técnica en el marco del Comité Nacional de Convivencia Escolar, la cual se encargará del diseño, implementación, operación y funcionamiento del Sistema de Información Unificado de Convivencia Escolar.
 
 (Decreto 1965 de 2013, artículo 31).
-
-ARTÍCULO
 
 ## art:2.3.5.4.1.2 — Funciones de la mesa técnica del Sistema de información Unificado de Convivencia Escolar
 
@@ -11337,8 +9879,6 @@ La Mesa Técnica del Sistema de Información Unificado de Convivencia Escolar te
 
 (Decreto 1965 de 2013, artículo 32).
 
-ARTÍCULO
-
 ## art:2.3.5.4.1.3 — Operación del Sistema de Información Unificado de Convivencia Escolar
 
 Para la operación del Sistema de Información Unificado de Convivencia Escolar la Mesa Técnica deberá garantizar lo siguiente:
@@ -11350,8 +9890,6 @@ Para la operación del Sistema de Información Unificado de Convivencia Escolar 
 3. El derecho a la intimidad, la confidencialidad y la protección de datos personales de las personas involucradas, de acuerdo con los parámetros de protección fijados en la Constitución Política, en los tratados internacionales, en la Ley 1098 de 2006, en la Ley Estatutaria 1581 de 2012, en el Decreto 1377 de 2013, o la norma que lo modifique, adicione, sustituya o compile, y demás normas aplicables a la materia.
 
 (Decreto 1965 de 2013, artículo 33).
-
-ARTÍCULO
 
 ## art:2.3.5.4.1.4 — 1.4
 
@@ -11377,15 +9915,11 @@ SECCIÓN 2
 
 Ruta de atención integral para la convivencia escolar
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.1 — Garantía de derechos y aplicación de principios
 
 En todas las acciones que se realicen en el marco de los diversos componentes de la Ruta de Atención Integral para la Convivencia Escolar, debe garantizarse la aplicación de los principios de protección integral, incluyendo el derecho a no ser revictimizado; el interés superior de los niños, las niñas y los adolescentes; la prevalencia de los derechos; la corresponsabilidad; la exigibilidad de los derechos: la perspectiva de género y los derechos de los niños, las niñas y los adolescentes de los grupos étnicos, como se definen en los artículos 7 al 13 de la Ley 1098 de 2006. Así mismo, se deberá garantizar el principio de proporcionalidad en las medidas adoptadas en las situaciones que afecten la convivencia, y la protección de datos contenida en la Constitución, los tratados internacionales y la Ley 1581 de 2012.
 
 (Decreto 1965 de 2013, artículo 35).
-
-ARTÍCULO
 
 ## art:2.3.5.4.2.2 — Acciones del componente de promoción
 
@@ -11427,8 +9961,6 @@ PARÁGRAFO . Los establecimientos educativos deben implementar los proyectos ped
 
 (Decreto 1965 de 2013, artículo 36).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.3 — Acciones del componente de prevención
 
 Se consideran acciones de prevención las que buscan intervenir oportunamente en los comportamientos que podrían afectar la realización efectiva de los derechos humanos, sexuales y reproductivos con el fin de evitar que se constituyan en patrones de interacción que alteren la convivencia de los miembros de la comunidad educativa.
@@ -11445,15 +9977,11 @@ PARÁGRAFO . Para disminuir los riesgos de ocurrencia de situaciones que afectan
 
 (Decreto 1965 de 2013, artículo 37).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.4 — Acciones del componente de atención
 
 Se consideran acciones de atención aquellas que permitan asistir a los miembros de la comunidad educativa frente a las situaciones que afectan la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos, mediante la implementación y aplicación de los protocolos internos de los establecimientos educativos y la activación cuando fuere necesario, de los protocolos de atención que para el efecto se tengan implementados por parte de los demás actores que integran el Sistema Nacional de Convivencia Escolar en el ámbito de su competencia.
 
 (Decreto 1965 de 2013, artículo 38).
-
-ARTÍCULO
 
 ## art:2.3.5.4.2.5 — Definiciones
 
@@ -11487,8 +10015,6 @@ e) Agresión electrónica. Es toda acción que busque afectar negativamente a ot
 
 (Decreto 1965 de 2013, artículo 39).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.6 — Clasificación de las situaciones
 
 Las situaciones que afectan la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos, se clasifican en tres tipos:
@@ -11504,8 +10030,6 @@ b) Que causen daños al cuerpo o a la salud sin generar incapacidad alguna para 
 3. Situaciones Tipo III. Corresponden a este tipo las situaciones de agresión escolar que sean constitutivas de presuntos delitos contra la libertad, integridad y formación sexual, referidos en el Título IV del Libro II de la Ley 599 de 2000, o cuando constituyen cualquier otro delito establecido en la ley penal colombiana vigente.
 
 (Decreto 1965 de 2013, artículo 40).
-
-ARTÍCULO
 
 ## art:2.3.5.4.2.7 — De los protocolos de los Establecimientos educativos, finalidad, contenido y aplicación
 
@@ -11531,8 +10055,6 @@ PARÁGRAFO . La aplicación de los protocolos tendrá lugar frente a las situaci
 
 (Decreto 1965 de 2013, artículo 41).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.8 — De los protocolos para la atención de situaciones tipo I
 
 Los protocolos de los establecimientos educativos para la atención de las situaciones tipo I, a que se refiere el numeral 1 del artículo 2.3.5.4.2.6. del presente Decreto, deberán desarrollar como mínimo el siguiente procedimiento:
@@ -11546,8 +10068,6 @@ Los protocolos de los establecimientos educativos para la atención de las situa
 PARÁGRAFO . Los estudiantes que hayan sido capacitados como mediadores o conciliadores escolares podrán participar en el manejo de estos casos en los términos fijados en el Manual de Convivencia.
 
 (Decreto 1965 de 2013, artículo 42).
-
-ARTÍCULO
 
 ## art:2.3.5.4.2.9 — De los protocolos para la atención de situaciones tipo II
 
@@ -11575,8 +10095,6 @@ PARÁGRAFO . Cuando el Comité Escolar de Convivencia adopte como acciones o med
 
 (Decreto 1965 de 2013, artículo 43).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.10 — Protocolo para la atención de situaciones tipo III
 
 Los protocolos de los establecimientos educativos para la atención de las situaciones tipo III a que se refiere el numeral 3 del artículo 2.3.5.4.2.6. del presente Decreto, deberán desarrollar como mínimo el siguiente procedimiento:
@@ -11598,8 +10116,6 @@ Los protocolos de los establecimientos educativos para la atención de las situa
 8. Los casos sometidos a este protocolo serán objeto de seguimiento por parte del Comité Escolar de Convivencia, de la autoridad que asuma el conocimiento y del comité municipal, distrital o departamental de Convivencia Escolar que ejerza jurisdicción sobre el establecimiento educativo en el cual se presentó el hecho.
 
 (Decreto 1965 de 2013, artículo 44).
-
-ARTÍCULO
 
 ## art:2.3.5.4.2.11 — Activación de los protocolos de otras entidades
 
@@ -11629,23 +10145,17 @@ PARÁGRAFO 3. Cuando la Policía Nacional tenga conocimiento de las situaciones 
 
 (Decreto 1965 de 2013, artículo 45).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.12 — Garantía del restablecimiento de derechos
 
 Lo dispuesto en los artículos 2.3.5.4.2.7, 2.3.5.4.2.8, 2.3.5.4.2.9 y 2.3.5.4.2.10 del presente Decreto se aplicará sin perjuicio de las competencias que les corresponden a las autoridades administrativas frente al restablecimiento de derechos de los niños, niñas y adolescentes, en el marco de la Ley 1098 de 2006.
 
 (Decreto 1965 de 2013, artículo 46).
 
-ARTÍCULO
-
 ## art:2.3.5.4.2.13 — Informes o quejas
 
 Cualquiera de las partes involucradas en una situación que afecte la convivencia escolar, o los padres o madres de familia o acudientes, o cualquier otra persona, pueden informar o presentar queja ante la secretaría de educación municipal, distrital o departamental, a la que pertenezca el establecimiento educativo donde se generó la situación; sobre los casos en los cuales las autoridades educativas o los funcionarios responsables no adelanten las acciones pertinentes, no adopten las medidas necesarias o estas sean desproporcionadas, o apliquen el protocolo equivocado respecto de situaciones que afecten la convivencia escolar y el ejercicio de los derechos humanos, sexuales y reproductivos. Recibida la información o la queja la entidad adelantará las acciones a que hubiere lugar e informará a las autoridades que se requieran a fin de verificar y solucionar de fondo la situación informada.
 
 (Decreto 1965 de 2013, artículo 47).
-
-ARTÍCULO
 
 ## art:2.3.5.4.2.14 — Acciones del componente de seguimiento
 
@@ -11659,15 +10169,11 @@ CAPÍTULO 5
 
 Reconocimiento a los establecimientos educativos en el marco del foro educativo nacional
 
-ARTÍCULO
-
 ## art:2.3.5.5.1 — Reconocimientos
 
 El Ministerio de Educación Nacional seleccionará anualmente las cinco mejores estrategias de mejoramiento orientadas a cualificar la convivencia escolar, la educación para los derechos humanos, la educación para la sexualidad y la prevención y mitigación de la violencia escolar de establecimientos educativos para que presenten, a manera de reconocimiento, su experiencia en el marco del Foro Educativo Nacional.
 
 (Decreto 1965 de 2013, artículo 49).
-
-ARTÍCULO
 
 ## art:2.3.5.5.2 — Sobre la participación
 
@@ -11678,8 +10184,6 @@ Los establecimientos educativos deberán postularse, cada uno con una única est
 En el marco de los foros educativos departamentales, distritales o municipales, se seleccionará una estrategia que será presentada al Ministerio de Educación Nacional para ser reconocida en el marco del Foro Educativo Nacional.
 
 (Decreto 1965 de 2013, artículo 50).
-
-ARTÍCULO
 
 ## art:2.3.5.5.3 — Criterios de selección
 
@@ -11699,8 +10203,6 @@ CAPÍTULO 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.5.6.1 — Orientación escolar
 
 La orientación escolar de que trata el artículo 32 de la Ley 1620 de 2013 estará garantizada a través de los docentes orientadores pertenecientes a las plantas globales de las entidades territoriales certificadas y su incremento se efectuará conforme a lo establecido en los procedimientos para realizar modificaciones en las plantas de cargos del personal docente, directivo docente y administrativo financiadas con cargo al Sistema General de Participaciones, consagrados en el Decreto 1494 de 2005, en la manera en que queda compilado en el presente Decreto, y demás normas concordantes o modificatorias.
@@ -11709,23 +10211,17 @@ Las entidades territoriales podrán adelantar las gestiones necesarias y las ali
 
 (Decreto 1965 de 2013, artículo 52).
 
-ARTÍCULO
-
 ## art:2.3.5.6.2 — Participación de la familia
 
 La familia como núcleo fundamental de la sociedad es parte esencial del fortalecimiento de la formación para la ciudadanía y el ejercicio de los derechos humanos, sexuales y reproductivos, tiene un papel central en la prevención y mitigación de la violencia escolar y el embarazo en la adolescencia, y le asisten todos los deberes, obligaciones y funciones consagradas en el artículo 7 de la Ley 115 de 1994, en el artículo 39 de la Ley 1098 de 2006, en la Ley 1404 de 2010, en el artículo 2.3.3.1.2.2. del presente Decreto, y demás normas concordantes.
 
 (Decreto 1965 de 2013, artículo 53).
 
-ARTÍCULO
-
 ## art:2.3.5.6.3 — Participación de la sociedad
 
 La sociedad deberá contribuir al fortalecimiento de la formación para la ciudadanía y el ejercicio de los derechos humanos, sexuales y reproductivos de los estudiantes, y en la prevención y mitigación de la violencia escolar y el embarazo en la adolescencia, en cumplimiento de lo establecido en el artículo 42 de la Constitución Política. En virtud de ello, las organizaciones de la sociedad civil, las asociaciones, las empresas, el comercio organizado, los gremios económicos y demás personas jurídicas, así como las personas naturales deberán cumplir con las obligaciones establecidas en el artículo 8 de la Ley 115 de 1994, en el artículo 40 de la Ley 1098 de 2006, y demás normas reglamentarias y concordantes.
 
 (Decreto 1965 de 2013, artículo 54).
-
-ARTÍCULO
 
 ## art:2.3.5.6.4 — 6.4
 
@@ -11737,8 +10233,6 @@ TÍTULO 6
 
 SISTEMA DE INFORMACIÓN DEL SECTOR EDUCATIVO
 
-ARTÍCULO
-
 ## art:2.3.6.1 — Estructura del Sistema de Información del Sector Educativo Nacional
 
 El sistema estará compuesto por información que permita realizar el monitoreo del servicio educativo y la evaluación de sus resultados.
@@ -11748,8 +10242,6 @@ El Sistema integrará los principios de objetividad, comparabilidad y publicidad
 El sistema de información nacional se alimentará de todos aquellos datos necesarios para la toma de decisiones en los niveles nacional, departamental, distrital, municipal y de las instituciones educativas. Los municipios alimentarán su sistema con la información que les proporcione las instituciones educativas y los departamentos lo harán a su vez con la información que le suministren los municipios. El nivel nacional recibirá la información de los departamentos, distritos y de los municipios certificados y podrá, excepcionalmente, solicitar información directamente a los municipios no certificados y a las instituciones educativas.
 
 (Decreto 1526 de 2002, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.6.2 — Objetivos del Sistema de Formación del Sector Educativo
 
@@ -11768,8 +10260,6 @@ e) Servir de registro público de la información relativa a las instituciones e
 f) Servir como base para la consolidación de estadísticas educativas y para la construcción de indicadores.
 
 (Decreto 1526 de 2002, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.6.3 — Información básica que debe contener el sistema
 
@@ -11795,8 +10285,6 @@ i) Ingresos y gastos de los Fondos de Servicios Educativos de las instituciones 
 
 (Decreto 1526 de 2002, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.6.4 — Calidad de la información
 
 Para efectos de garantizar la calidad de la información, la Nación realizará periódicamente la validación y verificación de la información reportada por los departamentos, distritos y municipios certificados.
@@ -11807,15 +10295,11 @@ PARÁGRAFO . Se considera información de mala calidad o inexacta, aquella que, 
 
 (Decreto 1526 de 2002, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.6.5 — Reporte de la información
 
 Los departamentos, distritos y los municipios certificados deben reportar la información de manera sistemática al Ministerio de Educación Nacional, en los formatos y estructuras que para tal fin se expidan. Los municipios no certificados reportarán la información básica a los departamentos. Las informaciones financieras deberán ser refrendadas por el contador departamental, distrital o municipal. La veracidad de los datos que se suministren será responsabilidad del funcionario competente, así mismo, constituye responsabilidad el no proporcionar información o proporcionarla de manera inexacta.
 
 (Decreto 1526 de 2002, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.6.6 — Oportunidad de la información
 
@@ -11824,8 +10308,6 @@ El Ministerio de Educación
 Nacional señalará las fechas y períodos en los cuales los departamentos, los distritos y municipios certificados le deberán reportar a la Nación las respectivas informaciones.
 
 (Decreto 1526 de 2002, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.6.7 — Administración y uso de la información
 
@@ -11843,8 +10325,6 @@ CAPÍTULO 1
 
 CONCEPTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.3.7.1.1 — Ejercicio
 
 Las funciones de inspección y vigilancia del servicio público educativo, delegada al Ministerio de Educación Nacional en virtud del Decreto 1860 de 1994, y la de los recursos asignados por el Gobierno Nacional al Programa de Alimentación Escolar, delegada en el representante legal de la Unidad Administrativa Especial de Alimentación Escolar - Alimentos para Aprender - UAPA, en la manera en que queda compilado en el presente decreto, se ejercerán atendiendo la ley, las disposiciones del presente Titulo y las demás normas reglamentarias expedidas para tal efecto.
@@ -11852,8 +10332,6 @@ Las funciones de inspección y vigilancia del servicio público educativo, deleg
 En igual forma, los gobernadores y alcaldes distritales y municipales ejercerán la competencia de inspección y vigilancia del servicio educativo, asignada a los departamentos, distritos y municipios certificados en educación por las leyes 715 de 2001 y 115 de 1994"
 
 (Modifica Art 2 del decreto 998 de 2025)
-
-ARTÍCULO
 
 ## art:2.3.7.1.2 — Ámbitos
 
@@ -11867,15 +10345,11 @@ En las entidades territoriales certificadas en educación, esta misma competenci
 
 (Decreto 907 de 1996, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.7.1.3 — Objeto
 
 La inspección y vigilancia del servicio público educativo estará orientada a velar por el cumplimiento de los mandatos constitucionales sobre educación y de los fines y objetivos generales de la educación establecidos en la Ley 115 de 1994, a procurar y a exigir el cumplimiento de las leyes, normas reglamentarias y demás actos administrativos sobre el servicio público educativo, a brindar asesoría pedagógica y administrativa para el mejoramiento de las instituciones que lo presten, a garantizar la calidad y universalidad de la alimentación escolar y, en general, a propender por el cumplimiento de las medidas que garanticen el acceso y la permanencia de los educandos en el servicio educativo y las mejores condiciones para su formación integral"
 
 (modifica Art 3 del decreto 998 de 2025)
-
-ARTÍCULO
 
 ## art:2.3.7.1.4 — Forma y mecanismo
 
@@ -11886,8 +10360,6 @@ Se ejercerá además, atendiendo las disposiciones legales y reglamentarias sobr
 Su ejecución comprende un conjunto de operaciones relacionadas con la asesoría, la supervisión, el seguimiento, la evaluación y el control, sobre los requerimientos de pedagogía, administración, infraestructura, financiación y dirección para la prestación del servicio educativo que garanticen su calidad, eficiencia y oportunidad y permitan a sus usuarios, el ejercicio pleno de su derecho a la educación.
 
 (Decreto 907 de 1996, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.7.1.5 — Planes operativos
 
@@ -11901,8 +10373,6 @@ CAPÍTULO 2
 
 COMPETENCIAS PARA EL EJERCICIO DE LA INSPECCIÓN Y VIGILANCIA
 
-ARTÍCULO
-
 ## art:2.3.7.2.1 — Distribución de la competencia
 
 De conformidad con lo dispuesto en la Ley 115 de 1994, en armonía con la Ley 715 de 2001, en las entidades territoriales certificadas en educación, estas funciones serán desempeñadas en el nivel territorial por los gobernadores y alcaldes distritales y municipales, directamente o a través de las secretarías de educación o del organismo departamental, distrital o municipal que asuma la dirección de la educación y demás funciones y responsabilidades asignadas en la Ley y el reglamento.
@@ -11910,8 +10380,6 @@ De conformidad con lo dispuesto en la Ley 115 de 1994, en armonía con la Ley 71
 Para este efecto, quien ejerza la función de inspección y vigilancia, tendrá bajo su dependencia, el correspondiente cuerpo de supervisores de educación indicado en el artículo 2.3.7.1.4. del presente Decreto.
 
 (Decreto 907 de 1996, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.7.2.2 — Funciones para ejercer la Competencia Nacional
 
@@ -11937,8 +10405,6 @@ Parágrafo. La inspección y vigilancia de los recursos asignados por el Gobiern
 
 (modifica Art 5 del decreto 998 de 2025)
 
-ARTÍCULO
-
 ## art:2.3.7.2.3 — Funciones generales para ejercer la competencia a nivel territorial
 
 Además de lo señalado en la Ley y en el reglamento, las entidades territoriales certificadas en educación cumplirán en su respectiva jurisdicción, las siguientes funciones generales para el ejercicio de la competencia de inspección y vigilancia:
@@ -11961,8 +10427,6 @@ h) Diseñar y ejecutar a través de las instituciones competentes, planes de for
 
 (Decreto 907 de 1996, artículos 8 y 9).
 
-ARTÍCULO
-
 ## art:2.3.7.2.4 — Reglamento territorial
 
 Las entidades territoriales certificadas, a través de las respectivas secretarías de educación o quienes hagan sus veces, expedirán el reglamento territorial para el ejercicio de las funciones de inspección y vigilancia, teniendo en cuenta lo dispuesto en el presente Título y en las demás normas concordantes que se promulguen.
@@ -11973,8 +10437,6 @@ CAPÍTULO 3
 
 PROCESO DE EVALUACIÓN
 
-ARTÍCULO
-
 ## art:2.3.7.3.1 — Ejecución del proceso
 
 La evaluación con fines de inspección y vigilancia a que se refiere el artículo 2.3.7.1.4. de este Decreto se hará tanto en la parte administrativa como curricular del servicio educativo, y se adelantará de manera sistemática y continua, con el fin de obtener información necesaria, pertinente, oportuna y suficiente sobre el cumplimiento de los requisitos que de acuerdo con el reglamento, debe reunir todo establecimiento educativo estatal o privado, para la prestación del servicio educativo y la atención individual que favorezca el aprendizaje y la formación integral del educando.
@@ -11982,8 +10444,6 @@ La evaluación con fines de inspección y vigilancia a que se refiere el artícu
 En el caso del servicio educativo informal, este proceso evaluativo será adelantado por los organismos a que se refiere el artículo 2.3.7.1.2. del presente Decreto.
 
 (Decreto 907 de 1996, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.7.3.2 — Coordinación y periodicidad
 
@@ -11997,8 +10457,6 @@ Esta evaluación deberá adelantarse por parte de servidores públicos competent
 
 (Decreto 907 de 1996, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.7.3.3 — Medios e instrumentos
 
 Para efectuar la evaluación con fines de inspección y vigilancia, se podrá utilizar medios e instrumentos tales como las visitas periódicas a los establecimientos de educación formal o a las instituciones que prestan el servicio educativo para el trabajo y el desarrollo humano e informal, las entrevistas grupales e individuales con integrantes de la comunidad educativa, las reuniones técnicas de trabajo con el personal docente, directivo docente y administrativo, las demostraciones y las revisiones de registros y documentos que hagan parte del proyecto educativo institucional o del reglamento pedagógico o que sean exigidas por normas vigentes.
@@ -12006,8 +10464,6 @@ Para efectuar la evaluación con fines de inspección y vigilancia, se podrá ut
 El reglamento territorial a que se refiere el artículo 2.3.7.2.4 de este Decreto, especificará estos medios e instrumentos, según las características y necesidades locales y regionales y adoptará todos los demás medios e instrumentos que sean pertinentes.
 
 (Decreto 907 de 1996, artículo 13).
-
-ARTÍCULO
 
 ## art:2.3.7.3.4 — Uso de resultados
 
@@ -12020,8 +10476,6 @@ Los resultados de la evaluación deberán servir también de referente, para ade
 CAPÍTULO 4
 
 RÉGIMEN SANCIONATORIO
-
-ARTÍCULO
 
 ## art:2.3.7.4.1 — Sanciones
 
@@ -12045,15 +10499,11 @@ En este último evento, la autoridad competente podrá ordenar en el mismo acto 
 
 (Decreto 907 de 1996, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.7.4.2 — Descargos
 
 La tipificación de cualquier falta la gravedad de la misma, la determinación sobre la procedencia de la sanción y la correspondiente imposición, se adelantará mediante el procedimiento dispuesto en el artículo 2.3.7.4.8 de este Decreto, brindándole al establecimiento o institución educativa investigada, la oportunidad para presentar sus descargos.
 
 (Decreto 907 de 1996, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.7.4.3 — Continuidad del servicio educativo
 
@@ -12069,8 +10519,6 @@ PARÁGRAFO . Cuando llegue a imponerse la sanción de cancelación de licencia d
 
 (Decreto 907 de 1996, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.7.4.4 — Régimen sancionatorio en la educación informal
 
 Las sanciones originadas en la prestación del servicio educativo informal serán las previstas en los diferentes estatutos de los medios masivos de comunicación y de las instituciones que presten dicho servicio o en la Ley 734 de 2002, en el caso de organismos estatales.
@@ -12080,8 +10528,6 @@ La aplicación de las sanciones será solicitada a los organismos disciplinarios
 De la determinación que se tome deberá informarse a la respectiva entidad territorial certificada, para la publicidad necesaria.
 
 (Decreto 907 de 1996, artículo 18).
-
-ARTÍCULO
 
 ## art:2.3.7.4.5 — Mérito para sancionar
 
@@ -12105,23 +10551,17 @@ Para tales efectos tendrán en cuenta que por constituir conductas directamente 
 
 (Decreto 907 de 1996, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.7.4.6 — Establecimientos sin licencia
 
 Cuando se compruebe que un establecimiento privado de educación formal o de educación para el trabajo y el desarrollo humano, funcione sin licencia de funcionamiento o reconocimiento de carácter oficial, exigida por el artículo 138 de la Ley 115 de 1994, la autoridad competente ordenará su cierre inmediato, hasta cuando cumpla con tal requerimiento.
 
 (Decreto 907 de 1996, artículo 20).
 
-ARTÍCULO
-
 ## art:2.3.7.4.7 — Impugnaciones
 
 Contra los actos administrativos sancionatorios expedidos por los gobernadores y alcaldes en ejercicio de sus atribuciones de inspección, vigilancia y control, solo procederá el recurso de reposición.
 
 (Decreto 907 de 1996, artículo 21).
-
-ARTÍCULO
 
 ## art:2.3.7.4.8 — Procedimiento
 
@@ -12134,8 +10574,6 @@ No obstante, en virtud de los principios y fines de la educación y de la atenci
 CAPÍTULO 5
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.3.7.5.1 — Función asesora del Ministerio de Educación Nacional
 
@@ -12151,8 +10589,6 @@ CAPÍTULO 1
 
 FIESTA DEL EDUCADOR
 
-ARTÍCULO
-
 ## art:2.3.8.1.1 — Día Oficial del Educador
 
 Declárese Día Oficial del Educador en Colombia, el día 15 de mayo de cada año, fiesta de San Juan Bautista de La Salle, patrono de todos los maestros y profesores, educadores de la niñez y la juventud.
@@ -12161,15 +10597,11 @@ PARÁGRAFO . La celebración de la Fiesta del maestro se llevará a cabo en los 
 
 (Decreto 996 de 1951, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.8.1.2 — Reglamentación
 
 El Ministerio de Educación reglamentará los actos que deban celebrarse el día del maestro, fiesta de los educadores colombianos.
 
 (Decreto 996 de 1951, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.1.3 — Reconocimiento del día del directivo docente
 
@@ -12178,8 +10610,6 @@ Reconózcase el 5 de octubre de cada año, como el día del directivo docente.
 PARÁGRAFO . Los actos conmemorativos del día del directivo docente se realizarán en la fecha indicada en el presente artículo, no generarán la desescolarización de los estudiantes y, en todo caso, se garantizará la prestación del servicio educativo
 
 (Decreto 2237 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.8.1.4 — RECONOCIMIENTO DEL DÍA DEL DOCENTE ORIENTADOR
 
@@ -12193,23 +10623,17 @@ CAPÍTULO 2
 
 DÍA DEL IDIOMA
 
-ARTÍCULO
-
 ## art:2.3.8.2.1 — Conmemoración
 
 Señalase el 23 de abril de cada año para celebrar el Día del Idioma, como homenaje a Miguel de Cervantes Saavedra.
 
 (Decreto 707 de 1938, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.8.2.2 — Actividades especiales
 
 En los establecimientos de enseñanza primaria, secundaria y normalista, los respectivos maestros o profesores dictarán en ese día conferencias sobre el idioma castellano y darán lectura a trozos escogidos de El Quijote, o de otras obras célebres de la literatura en idioma castellano.
 
 (Decreto 707 de 1938, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.2.3 — Premiaciones
 
@@ -12220,8 +10644,6 @@ En las escuelas normales y en los colegios de enseñanza secundaria que dependen
 CAPÍTULO 3
 
 DÍA DE LA EXCELENCIA EDUCATIVA
-
-ARTÍCULO
 
 ## art:2.3.8.3.1 — Día de la excelencia educativa
 
@@ -12235,8 +10657,6 @@ Por ello, y para todos los efectos, el "Día E" constituye un día de trabajo y 
 
 (Decreto 325 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.8.3.2 — Sesión de trabajo
 
 Durante el "Día E" los directivos docentes, docentes y personal administrativo revisarán los resultados institucionales del establecimiento educativo y definirán el plan de acción correspondiente para alcanzar las mejoras proyectadas por parte del Ministerio de Educación Nacional para el correspondiente año escolar.
@@ -12244,8 +10664,6 @@ Durante el "Día E" los directivos docentes, docentes y personal administrativo 
 La sesión será presidida por el rector y deberá contar con representación de estudiantes y padres de familia que formen parte de los órganos de Gobierno Escolar, definidos en cumplimiento del artículo 2.3.3.1.5.3. del presente Decreto.
 
 (Decreto 325 de 2015, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.3.3 — Comunicación a comunidad educativa
 
@@ -12255,15 +10673,11 @@ Así mismo, los establecimientos educativos deberán publicar en un lugar visibl
 
 (Decreto 325 de 2015, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.8.3.4 — No modificación de tiempo de clase
 
 Este día de receso estudiantil no modifica el tiempo de clase que deben dedicar los establecimientos educativos al desarrollo de las áreas obligatorias y fundamentales establecidas en la Ley 115 de 1994 y su reglamentación.
 
 (Decreto 325 de 2015, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.8.3.5 — Fijación en calendario académico
 
@@ -12277,23 +10691,17 @@ CONCURSO NACIONAL DE OBRAS DIDÁCTICAS "EDUCADOR
 
 COLOMBIANO"
 
-ARTÍCULO
-
 ## art:2.3.8.4.1 — Creación
 
 Créase el Concurso Anual de Obras Didácticas inéditas "Educador Colombiano", en el cual podrá participar personal docente oficial o privado en servicio, vinculado a los niveles de educación preescolar, básica primaria, básica secundaria, media vocacional, intermedia profesional y educación de adultos.
 
 (Decreto 1264 de 1981, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.8.4.2 — Día de premiación
 
 Fijase el Día Oficial del Educador (15 de mayo), para entrega de los premios que se establecen el artículo siguiente, a los ganadores del Concurso Nacional de Obras Didácticas "Educador Colombiano", en ceremonia especial que será presidida por el Presidente de la República o su delegado.
 
 (Decreto 1264 de 1981, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.4.3 — Premios
 
@@ -12303,15 +10711,11 @@ Además el Ministerio de Educación Nacional editará en su imprenta las dos obr
 
 (Decreto 1264 de 1981, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.8.4.4 — Recursos
 
 Los fondos para el pago de los premios estipulados en el artículo anterior, se tomarán anualmente del rubro denominado "Premio a Maestros" correspondiente a presupuesto del Ministerio de Educación Nacional.
 
 (Decreto 1264 de 1981, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.8.4.5 — Regulación
 
@@ -12323,15 +10727,11 @@ CAPÍTULO 5
 
 MEDALLA CÍVICA "CAMILO TORRES"
 
-ARTÍCULO
-
 ## art:2.3.8.5.1 — Objeto de la Medalla Cívica "Camilo Torres"
 
 La Medalla Cívica "Camilo Torres", busca reconocer y enaltecer los servicios eminentes del educador que incorpora en su trabajo educativo prácticas de convivencia al interior de la institución, que involucra a la comunidad educativa en el quehacer de la educación, que trabaja por la promoción y defensa de los derechos del niño y que promueve en los alumnos el interés por el conocimiento científico y tecnológico.
 
 (Decreto 1242 de 1997, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.8.5.2 — Categorías
 
@@ -12339,15 +10739,11 @@ La medalla cívica "Camilo Torres" se otorgará en dos categorías. La Primera C
 
 (Decreto 1242 de 1997, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.8.5.3 — Naturaleza
 
 La medalla cívica "Camilo Torres" es una condecoración. Será entregada por el Presidente de la República o su delegado, en la Primera Categoría y por el Ministro de Educación Nacional, en la Segunda Categoría.
 
 (Decreto 1242 de 1997, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.8.5.4 — Criterios de selección
 
@@ -12361,8 +10757,6 @@ c) Aportes a la educación (publicaciones, ayudas didácticas, entre otros).
 
 (Decreto 1242 de 1997, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.8.5.5 — Selección de los condecorados
 
 Entre los condecorados con la Medalla Cívica "Camilo Torres" el Ministerio de Educación Nacional seleccionará la persona que reúna los requisitos necesarios para acceder al programa de capacitación o actualización establecido para tal fin.
@@ -12370,8 +10764,6 @@ Entre los condecorados con la Medalla Cívica "Camilo Torres" el Ministerio de E
 PARÁGRAFO . La duración de la comisión de estudios se regirá por las normas generales que regulan la comisión de estudios en el exterior.
 
 (Decreto 1242 de 1997, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.8.5.6 — Características
 
@@ -12381,15 +10773,11 @@ PARÁGRAFO . La medalla estará pendiente de una cinta muaré, con los colores n
 
 (Decreto 1242 de 1997, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.8.5.7 — Registro de los condecorados
 
 El Secretario de la JUNE dispondrá de un libro de registro de la Medalla Cívica "Camilo Torres", con anotación de los datos del condecorado y la categoría de la condecoración. Para la adjudicación de la Medalla el Consejo sesionará con un quórum no menor de la mitad más uno de sus miembros. De cada sesión se levantará el acta correspondiente.
 
 (Decreto 1242 de 1997, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.8.5.8 — Procedimiento para la selección de los condecorados
 
@@ -12397,15 +10785,11 @@ Los candidatos a la Medalla Cívica "Camilo Torres" serán seleccionados por el 
 
 (Decreto 1242 de 1997, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.8.5.9 — Criterios para la selección de los condecorados
 
 Para la selección de los candidatos a la Medalla Cívica "Camilo Torres" se deberán tomar en cuenta docentes de Educación Preescolar Básica, Media y Superior, Oficial y Privada, Urbanas y Rurales. Para tal efecto, la JUNE tendrá en consideración los criterios establecidos en los artículos 2.3.8.5.1. y 2.3.8.5.4. del presente Decreto.
 
 (Decreto 1242 de 1997, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.8.5.10 — Adjudicación
 
@@ -12427,8 +10811,6 @@ PARÁGRAFO . En la parte superior del diploma se insertará el escudo de Colombi
 
 (Decreto 1242 de 1997, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.8.5.11 — Pérdida del derecho a la medalla
 
 El beneficiado perderá el derecho a la Medalla Cívica "Camilo Torres" por los siguientes motivos:
@@ -12447,8 +10829,6 @@ CAPÍTULO 6
 
 GRAN MEDALLA CÍVICA GENERAL "FRANCISCO DE PAULA SANTANDER"
 
-ARTÍCULO
-
 ## art:2.3.8.6.1 — Categorías
 
 La Gran Medalla Cívica Genera; "Francisco de Paula Santander" tendrá dos categorías:
@@ -12459,23 +10839,17 @@ PARÁGRAFO 2. La segunda categoría corresponde a la Medalla Comendador, se conc
 
 (Decreto 934 de 2002, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.8.6.2 — Características de la Medalla Oficial
 
 La Medalla Oficial será dorada, con diámetro de 4 centímetros y penderá de una cinta del mismo ancho, de 5 centímetros de largo, con los colores nacionales; llevará en anverso, en relieve, el perfil del General Santander, por David D'Angers, rodeado de esta inscripción: Colombia "General Francisco de Paula Santander", y en el reverso un medallón de 25 milímetros de diámetro con el escudo de la República de Colombia, en alto relieve, también en color dorado. Esta insignia se lleva sobre el costado izquierdo del pecho.
 
 (Decreto 934 de 2002, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.8.6.3 — Características de la Medalla Comendador
 
 La Medalla de Comendador será plateada, en una cruz de Malta de 59 milímetros de diámetro, en plata de ley 0.900, esmaltada por ambas caras, en color rojo su franja central, las de los lados en color azul; los brazos de la cruz irán entrelazados por rayos en diámetro de 52 milímetros. En el centro de la cruz irá acolada una medalla de 40 milímetros, en color dorado, con las mismas características descritas para el grado de Oficial. El reverso de la cruz irá también esmaltado en rojo y azul y llevará en su centro un medallón de 25 milímetros de diámetro, con el escudo de la República de Colombia, en alto relieve y en color dorado. Esta cruz penderá de una corona de laurel en forma ovalada cuyo mayor diámetro será de 33 milímetros y una cinta de calidad moiré, de 40 milímetros de ancho y 55 centímetros de longitud, con los colores nacionales. Esta insignia se llevará suspendida al cuello.
 
 (Decreto 934 de 2002, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.8.6.4 — Criterios de selección
 
@@ -12497,15 +10871,11 @@ SECCIÓN 1
 
 De la distinción
 
-ARTÍCULO
-
 ## art:2.3.8.7.1.1 — Objeto
 
 El presente Capítulo tiene por objeto determinar las condiciones de asignación de la distinción Andrés Bello que se reconoce, una vez al año, a los mejores estudiantes del último grado de educación media que presentaron el Examen de Estado de la Educación Media Icfes - Saber 11 o su equivalente.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.1.2 — Beneficiarios de la distinción Andrés Bello
 
@@ -12529,8 +10899,6 @@ PARÁGRAFO 3. Los beneficiarios de que tratan los numerales 2 y 3 del presente a
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
 
-ARTÍCULO
-
 ## art:2.3.8.7.1.3 — Condiciones para realizar el cálculo de los estudiantes y bachilleres que reciben la distinción Andrés Bello
 
 Para realizar el cálculo de los estudiantes y bachilleres que reciben la distinción Andrés Bello, se deben tener en cuenta las siguientes condiciones:
@@ -12544,8 +10912,6 @@ Para realizar el cálculo de los estudiantes y bachilleres que reciben la distin
 4. En caso de que un estudiante sea beneficiado con la distinción Andrés Bello por más de una categoría señalada en el artículo anterior del presente Decreto, el orden será: 1) Nacional. 2) Departamental, y 3) Rural y Urbano.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.1.4 — Otorgamiento de la distinción
 
@@ -12561,8 +10927,6 @@ En todo caso, el estudiante tendrá máximo dos (2) años, a partir de la fecha 
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
 
-ARTÍCULO
-
 ## art:2.3.8.7.1.5 — Publicación de resultados
 
 El Ministerio de Educación Nacional y el Icfes publicarán en su página web la resolución que contenga como mínimo el nombre de las personas beneficiadas con la distinción Andrés Bello, su número de identificación y la categoría por la cual fueron seleccionadas.
@@ -12570,8 +10934,6 @@ El Ministerio de Educación Nacional y el Icfes publicarán en su página web la
 La resolución igualmente podrá indicar estadísticas descriptivas de los puntajes en el Examen de Estado de la Educación Media ICFES SABER 11 que se tuvieron en cuenta para otorgar la distinción Andrés Bello.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.1.6 — Distinción
 
@@ -12585,15 +10947,11 @@ SECCIÓN 2
 
 Obligaciones de las entidades involucradas
 
-ARTÍCULO
-
 ## art:2.3.8.7.2.1 — Responsables institucionales
 
 Para la entrega de la distinción Andrés Bello deberán participar de manera articulada, y en el marco de sus competencias, el DNP, el Ministerio de Educación Nacional, el ICETEX y el ICFES.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.2.2 — Responsabilidades del DNP
 
@@ -12606,8 +10964,6 @@ En cualquier caso, el DNP observará las previsiones normativas de las Leyes de 
 2. Garantizar la veracidad, integralidad y calidad de la información entregada al ICFES, según lo dispuesto en el numeral anterior.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.2.3 — Responsabilidades del Ministerio de Educación Nacional
 
@@ -12622,8 +10978,6 @@ El Ministerio de Educación Nacional tendrá las siguientes responsabilidades:
 4. Informar anualmente al ICFES el número de estudiantes y graduados que serán beneficiarios de la distinción Andrés Bello en la Categoría Rural y Urbana, de acuerdo con en el crecimiento de egresados de la educación media en la vigencia anterior, en cada departamento y en el Distrito Capital.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.2.4 — Responsabilidades del ICFES
 
@@ -12641,15 +10995,11 @@ PARÁGRAFO . En cualquier caso, el ICFES observará las previsiones normativas d
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
 
-ARTÍCULO
-
 ## art:2.3.8.7.2.5 — Responsabilidades del ICETEX
 
 El ICETEX es el responsable de definir los puntos de corte del Sisbén versión III, o el instrumento equivalente, para la conformación de los grupos de distinguidos a los cuales hace referencia el artículo 2.3.8.7.1.2 del presente decreto.
 
 (Subrogado por el Art. 1 del Decreto 2029 de 2015).
-
-ARTÍCULO
 
 ## art:2.3.8.7.2.6 — 2.6
 
@@ -12673,15 +11023,11 @@ SECCIÓN 1
 
 Objeto y ámbito de aplicación.
 
-ARTÍCULO
-
 ## art:2.3.8.8.1.1 — Objeto
 
 El presente Capítulo tiene como objeto reglamentar el reconocimiento y pago de los Estímulos a la Calidad Educativa con cargo a los recursos que se apropien para tal fin.
 
 (Decreto 501 de 2016, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.8.1.2 — Ámbito de aplicación
 
@@ -12697,8 +11043,6 @@ SUBSECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.3.8.8.2.1.1 — Definición
 
 Los Estímulos a la Calidad Educativa son un reconocimiento que hace el Gobierno nacional a las entidades territoriales certificadas en educación y a los establecimientos educativos que hayan suscrito acuerdos de desempeño con el Ministerio de Educación Nacional, siempre que registren mejoras en el índice de Calidad de qué trata la presente sección.
@@ -12706,8 +11050,6 @@ Los Estímulos a la Calidad Educativa son un reconocimiento que hace el Gobierno
 Los Estímulos a la Calidad Educativa que se confieran a las entidades territoriales certificadas en educación serán pagaderos en la especie que se convenga en el respectivo acuerdo de desempeño. Los que se otorguen a los establecimientos educativos serán pagaderos en dinero.
 
 (Decreto 501 de 2016, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.8.2.1.2 — Fundamento para el otorgamiento de estímulos
 
@@ -12725,15 +11067,11 @@ SUBSECCIÓN 2
 
 Acuerdos de desempeño
 
-ARTÍCULO
-
 ## art:2.3.8.8.2.2.1 — Iniciativa
 
 El Ministerio de Educación Nacional tendrá la potestad para celebrar acuerdos de desempeño con las entidades territoriales certificadas en educación y/o con los establecimientos educativos. Para tal efecto, abrirá convocatorias en las cuales establecerá, entre otras, las condiciones mínimas de los acuerdos de desempeño, así coma los requisitos que deberán cumplir las entidades territoriales certificadas en educación y los establecimientos educativos.
 
 (Decreto 501 de 2016, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.8.2.2.2 — Termino y condiciones
 
@@ -12750,8 +11088,6 @@ PARÁGRAFO . En el año 2016, los acuerdos de desempeño únicamente podrán ser
 SUBSECCIÓN 3
 
 Índice de Calidad
-
-ARTÍCULO
 
 ## art:2.3.8.8.2.3.1 — Índice de Calidad
 
@@ -12833,8 +11169,6 @@ PARÁGRAFO 2. A partir de 2017, para el cálculo de las componentes de progreso 
 
 (Decreto 501 de 2016, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.8.8.2.3.2 — Publicación de los resultados del ISCE, del IGCE y del Índice de Calidad
 
 Los resultados del ISCE de los establecimientos educativos y de las entidades territoriales certificadas en educación serán publicados anualmente por el ICFES dentro del primer semestre del año.
@@ -12844,8 +11178,6 @@ Los resultados del IGCE de las entidades territoriales certificadas serán publi
 Los resultados consolidados del índice de Calidad de las entidades territoriales certificadas en educación, según lo dispuesto en el Parágrafo 1 del artículo anterior, serán publicados por el Ministerio de Educación Nacional antes del 1 de julio de cada año.
 
 (Decreto 501 de 2016, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.8.2.3.3 — Publicación de las Metas de Excelencia y del Mejoramiento Mínima Anual (MMA)
 
@@ -12859,8 +11191,6 @@ SUBSECCIÓN 4
 
 Reconocimiento y pago de los Estímulos a la Calidad Educativa
 
-ARTÍCULO
-
 ## art:2.3.8.8.2.4.1 — Reglas generales
 
 El reconocimiento de los Estímulos a la Calidad Educativa se sujetará al cumplimiento de los requisitos establecidos en el acuerdo de desempeño de que trata la subsección 2, sección 2 del presente Capítulo, y adicionalmente, a las siguientes reglas:
@@ -12872,8 +11202,6 @@ El reconocimiento de los Estímulos a la Calidad Educativa se sujetará al cumpl
 PARÁGRAFO . Los incentivos se sujetarán a los resultados obtenidos por los establecimientos educativos y las entidades territoriales certificadas en educación en el respectivo año en que se suscriba el acuerdo de desempeño, sin perjuicio de que aquellos se reconozcan y paguen en el año siguiente, luego de que se publiquen los resultados de que trata el artículo 2.3.8.8.2.3.2 del presente decreto.
 
 (Decreto 501 de 2016, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.8.2.4.2 — Asignación de estímulos a los establecimientos educativos
 
@@ -12899,23 +11227,17 @@ PARÁGRAFO . El estímulo que se reconozca por la mejora en la calidad educativa
 
 (Decreto 501 de 2016, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.8.8.2.4.3 — Asignación de estímulos a entidades territoriales certificadas en educación
 
 Las entidades territoriales certificadas en educación que cumplan con lo señalado en el numeral 1 del artículo 2.3.8.8.2.4.1 del presente decreto podrán recibir el estímulo en especie definido en el acuerdo de desempeño.
 
 (Decreto 501 de 2016, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.8.8.2.4.4 — Comunicación de cumplimiento
 
 Dentro de las quince (15) días siguientes a la publicación de los resultados de que trata el artículo 2.3.8.8.2.3.2 del presente decreto, el Ministerio de Educación Nacional informara a cada uno de los establecimientos educativos ya las entidades territoriales certificadas en educación con las cuales haya suscrito acuerdos de desempeño, si son merecedores de las Estímulos a la Calidad Educativa. Lo anterior se hará mediante él envió de comunicación escrita y la publicación de la información a través de la página Web del Ministerio.
 
 (Decreto 501 de 2016, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.8.8.2.4.5 — Posibilidad de revisión
 
@@ -12935,13 +11257,9 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.9.1.1 — OBJETO
 
 El objeto de este Título es reglamentar la estructura y el funcionamiento de la Junta Administradora del Fondo de Financiamiento de la Infraestructura Educativa de que trata el inciso tercero del artículo 184 de la Ley 1955 de 2019.
-
-ARTÍCULO
 
 ## art:2.3.9.1.2 — Naturaleza jurídica y finalidad del Fondo
 
@@ -12949,19 +11267,15 @@ El Fondo de Financiamiento de la Infraestructura Educativa es una cuenta especia
 
 El Ministerio de Educación Nacional deberá viabilizar y financiar los proyectos para la construcción, mejoramiento, adecuación, ampliaciones y dotación de infraestructura educativa en educación inicial, preescolar, educación básica y media, en zonas urbanas y rurales, incluyendo residencias escolares en zonas rurales dispersas, así como los contratos de interventoría asociados a tales proyectos, de acuerdo con los recursos dispuestos de conformidad con lo señalado en el artículo 2.3.9.1.4. del presente Decreto
 
-ARTÍCULO
+## art:2.3.9.1.3 — 
 
-## art:2.3.9.1.3 — 1.3
-
-Características del Fondo Cuenta.
+2.3.9.1.3. Características del Fondo Cuenta.
 
 1. Es un Fondo sin personería jurídica creado por la Ley, como una herramienta financiera que sirve para la administración separada de los recursos de destinación específica a la financiación de la Infraestructura Educativa.
 
 2. Los recursos del Fondo pueden ser manejados de manera directa por la entidad que lo tiene a su cargo, entiéndase Ministerio de Educación Nacional, en cuyo caso los contratos que se suscriban serán seleccionados por el ente estatal conforme a las normas que rigen la contratación pública; o a través de la suscripción de contratos de fiducia mercantil que generen la constitución de Patrimonios Autónomos, caso en el cual se regirán por las normas de contratación del derecho privado, respetando los principios de buena fe, moralidad, transparencia, economía, celeridad, eficacia, publicidad y responsabilidad.
 
 3. Cuando se opte por la suscripción de contratos de fiducia mercantil, el Fondo tendrá como único Fideicomitente al Ministerio de Educación Nacional y los recursos dinerarios serán administrados por una sociedad fiduciaria, conforme al artículo 1226 y siguientes del Código de Comercio y sus decretos reglamentarios.
-
-ARTÍCULO
 
 ## art:2.3.9.1.4 — 1.4
 
@@ -12997,8 +11311,6 @@ CAPÍTULO 2
 
 INTEGRACIÓN Y FUNCIONES DE LA JUNTA ADMINISTRADORA DEL FONDO
 
-ARTÍCULO
-
 ## art:2.3.9.2.1 — Integración de la Junta Administradora del Fondo Cuenta FFIE
 
 La Junta Administradora del Fondo Cuenta FFIE estará integrada de la siguiente manera:
@@ -13023,8 +11335,6 @@ PARÁGRAFO 1. La designación del representante de las entidades territoriales s
 
 PARÁGRAFO 2. Si hay conflicto entre las actividades o intereses del FFIE y las de un miembro de la junta este deberá declararse impedido y será reemplazado para conocer del asunto objeto del impedimento por quien su nominador designe.
 
-ARTÍCULO
-
 ## art:2.3.9.2.2 — De los miembros designados por el Ministro (a) de Educación Nacional
 
 Los dos (2) miembros designados por el Ministro (a) de Educación Nacional pueden ser servidores públicos o particulares.
@@ -13038,8 +11348,6 @@ La persona natural que actúe como miembro de la Junta Administradora designado 
 Los honorarios de los miembros de la Junta Administradora serán definidos mediante acto administrativo del Ministerio de Educación Nacional y pagados con cargo a los recursos del Fondo.
 
 La asistencia de los miembros de que trata el presente artículo, a las sesiones de la Junta, será indelegable.
-
-ARTÍCULO
 
 ## art:2.3.9.2.3 — Delimitación de las Funciones de la Junta Administradora del Fondo Cuenta FFIE
 
@@ -13063,8 +11371,6 @@ PARÁGRAFO 1. Los gastos en que incurra la Junta Administradora para el cumplimi
 
 PARÁGRAFO 2. La Junta Administradora adoptará su propio reglamento, el cual podrá ser modificado de conformidad con sus necesidades de operación y funcionamiento.
 
-ARTÍCULO
-
 ## art:2.3.9.2.4 — Funciones específicas de la Junta Administradora del Fondo Cuenta FFIE cuando no se constituyen patrimonios autónomos
 
 En el evento en que no se constituyan patrimonios autónomos, la Junta Administradora del FFIE ejercerá las siguientes funciones específicas:
@@ -13074,8 +11380,6 @@ En el evento en que no se constituyan patrimonios autónomos, la Junta Administr
 2. Realizar el seguimiento a la inversión de los recursos del Fondo para lograr la ejecución de los proyectos del Plan Nacional de Infraestructura Educativa.
 
 PARÁGRAFO . En el caso previsto en el presente artículo, los recursos del FFIE serán ejecutados de conformidad con el artículo 110 del Decreto 111 de 1996.
-
-ARTÍCULO
 
 ## art:2.3.9.2.5 — 2.5
 
@@ -13087,13 +11391,9 @@ Funciones específicas de la Junta Administradora del Fondo Cuenta FFIE cuando s
 
 3. Designar su representante en el comité fiduciario de los patrimonios autónomos que se constituyan.
 
-ARTÍCULO
-
 ## art:2.3.9.2.6 — 2.6
 
 De las Unidades de Gestión: Sin perjuicio de la autonomía presupuestal y contractual del FFIE, al momento de celebrarse el contrato de fiducia mercantil para la constitución de patrimonios autónomos, deberá preverse la conformación de unidades de gestión integradas por profesionales idóneos, que tendrán como objetivo garantizar la planeación, diseño, implementación, desarrollo, y seguimiento de los esquemas necesarios para la ejecución de los proyectos de infraestructura educativa.
-
-ARTÍCULO
 
 ## art:2.3.9.2.7 — 2.7
 
@@ -13112,8 +11412,6 @@ Actividades de las Unidades de Gestión: Las Unidades de Gestión, adelantarán 
 6. Adelantar la estructuración de los procesos de contratación y realizar el seguimiento periódico a la ejecución de las obras, identificando los aspectos que generen dificultades, así como estableciendo las recomendaciones y advertencias que sobre el particular emitan los correspondientes interventores y que permitan de manera inmediata realizar las sugerencias del caso, e iniciar los procedimientos que resulten procedentes.
 
 7. Las demás que de acuerdo con la naturaleza de las unidades de gestión le corresponda conforme a lo establecido en el ordenamiento jurídico y en los contratos de fiducia que se suscriban para la constitución de los patrimonios autónomos para el manejo de los recursos del FFIE.
-
-ARTÍCULO
 
 ## art:2.3.9.2.8 — 2.8
 
@@ -13153,8 +11451,6 @@ Sin perjuicio de las demás que se deriven del ordenamiento jurídico y los cont
 
 15. Las demás que surjan conforme a lo establecido en el ordenamiento jurídico y en los contratos de fiducia que se suscriban para la constitución de los patrimonios autónomos para el manejo de los recursos del FFIE.
 
-ARTÍCULO
-
 ## art:2.3.9.2.9 — 2.9
 
 Del Comité de Participación Territorial: El(la) Gerente del FFIE, tendrá bajo su responsabilidad la realización cada cuatro (4) meses de un comité, con el fin de presentar el avance en la ejecución de los proyectos de infraestructura educativa y recibir las observaciones que sobre el particular deban presentarse para análisis de la junta administradora. El comité estará integrado por:
@@ -13173,8 +11469,6 @@ CAPÍTULO 3
 
 FUNCIONAMIENTO DE LA JUNTA ADMINISTRADORA DEL FONDO DE FINANCIAMIENTO DE LA INFRAESTRUCTURA EDUCATIVA
 
-ARTÍCULO
-
 ## art:2.3.9.3.1 — Sesiones
 
 De manera ordinaria, la Junta Administradora del FFIE sesionará como mínimo una vez cada dos (2) meses, de acuerdo con la convocatoria que efectúe la Secretaría Técnica.
@@ -13184,8 +11478,6 @@ También podrá sesionar de manera extraordinaria cuando sea convocada por solic
 PARÁGRAFO 1. Las sesiones podrán ser virtuales, para lo cual el Secretario Técnico deberá garantizar los medios tecnológicos idóneos que permitan la participación de todos los integrantes de la Junta.
 
 PARÁGRAFO 2. La Junta Administradora del FFIE podrá invitar a sus sesiones a las personas que considere de acuerdo con el tema a las cuales participarán con voz y sin voto.
-
-ARTÍCULO
 
 ## art:2.3.9.3.2 — Convocatoria
 
@@ -13203,8 +11495,6 @@ La Junta administradora adoptará sus decisiones por mayoría simple.
 
 El Secretario Técnico de la Junta Administradora participará en las sesiones con voz y sin voto.
 
-ARTÍCULO
-
 ## art:2.3.9.3.4 — Actas
 
 De toda sesión de la Junta Administradora del FFIE se levantará el acta respectiva, la cual deberá contener una relación sucinta de los temas tratados, los asistentes, las intervenciones, las decisiones adoptadas y los votos emitidos en cada caso, así mismo deberá estar numerada y suscrita por el Presidente y el Secretario Técnico.
@@ -13219,8 +11509,6 @@ FUNCIONAMIENTO DE LA JUNTA ADMINISTRADORA DEL FONDO DE FINANCIAMIENTO DE LA INFR
 
 (Capítulo adicionado por el Decreto 1525 de 2015, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.9.3.3 — Quórum
 
 La Junta Administradora del FFIE podrá sesionar con la asistencia de tres (3) de sus miembros y la presencia del Presidente y el Secretario Técnico será necesaria.
@@ -13229,15 +11517,11 @@ La Junta adoptará sus decisiones por mayoría simple, pero en todo caso con el 
 
 (Decreto 1525 de 2015, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.10.1.1 — Objeto
 
 El presente Título tiene como objeto reglamentar el parágrafo 4 del artículo 136 de la Ley 1450 de 2011, el numeral 20 del artículo 6 de la Ley 1551 de 2012, que modificó el artículo 3 de la Ley 136 de 1994, el parágrafo 2 del artículo 2 de la Ley 715 de 2001 y los artículos16, 17, 18 y 19 de la Ley 1176 de 2007, en lo referente al Programa de Alimentación Escolar PAE.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.1.2 — Ámbito de aplicación
 
@@ -13248,8 +11532,6 @@ Este Título aplica al sector educativo en los niveles y órdenes de la Administ
 CAPÍTULO 2
 
 GENERALIDADES
-
-ARTÍCULO
 
 ## art:2.3.10.2.1 — Definiciones
 
@@ -13277,23 +11559,17 @@ CAPÍTULO 3
 
 OPERACIÓN DEL PROGRAMA DE ALIMENTACIÓN ESCOLAR - PAE
 
-ARTÍCULO
-
 ## art:2.3.10.3.1 — Estándares y condiciones mínimas
 
 El Ministerio de Educación Nacional expedirá dentro de los lineamientos técnicos-administrativos, los estándares y las condiciones mínimas para la prestación del servicio y la ejecución del PAE, los cuales serán de obligatorio cumplimiento y aplicación para las entidades territoriales, los actores y los operadores de este programa.
 
 (Decreto 1852 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.10.3.2 — Cofinanciación
 
 El Ministerio de Educación Nacional determinará los criterios para distribuir los recursos de la Nación y realizará las actividades institucionales necesarias para transferirlos a las entidades territoriales, con el fin de que estas, como responsables del servicio educativo en su jurisdicción y de la ejecución del PAE, realicen la implementación, financiación y ejecución del programa de acuerdo con los lineamientos del Ministerio y las necesidades locales.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.3.3 — Ejecución del Programa por el Ministerio de Educación Nacional
 
@@ -13307,8 +11583,6 @@ En estos casos los recursos podrán ser ejecutados por el Ministerio de Educaci�
 
 (Decreto 1852 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.10.3.4 — Articulación
 
 El Ministerio de Educación Nacional coordinará las actividades con los actores del PAE para el cumplimiento de los lineamientos y objetivos del programa y brindará asesoría a las entidades territoriales sobre las acciones, actividades y proyectos que se implementen o desarrollen.
@@ -13316,8 +11590,6 @@ El Ministerio de Educación Nacional coordinará las actividades con los actores
 Con el fin de garantizar la oportunidad, continuidad y adecuada ejecución del Programa y la prestación del servicio, el Ministerio de Educación Nacional podrá ordenar acciones o medidas administrativas, técnicas y operativas que deben adoptar las entidades territoriales, los operadores, los rectores y en general los actores del sistema educativo.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.3.5 — Concurrencia
 
@@ -13327,8 +11599,6 @@ Los comedores escolares son responsabilidad de las entidades territoriales; en e
 
 (Decreto 1852 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.10.3.6 — Priorización de entidades territoriales
 
 El Ministerio de Educación Nacional determinará los criterios y la metodología para la distribución de recursos diferenciados, con el fin de realizar la priorización de entidades territoriales.
@@ -13336,8 +11606,6 @@ El Ministerio de Educación Nacional determinará los criterios y la metodologí
 Dentro de las condiciones para la ejecución del Programa el Ministerio indicará en los Lineamientos Técnicos-Administrativos los criterios que deben tener en cuenta los departamentos, distritos y municipios para la priorización de las Instituciones Educativas y focalización de los niños, niñas, adolescentes y jóvenes que se beneficiarán con el Programa, teniendo en cuenta, entre otros, la información suministrada por el Sistema Integrado de Matrícula (SIMAT), en armonía con las funciones que la ley atribuye a los municipios.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.3.7 — Destinación de los recursos
 
@@ -13371,8 +11639,6 @@ CAPÍTULO 4
 
 ACTORES DEL PROGRAMA DE ALIMENTACIÓN ESCOLAR - PAE
 
-ARTÍCULO
-
 ## art:2.3.10.4.1 — Actores del programa
 
 La adecuada y oportuna prestación de los servicios del PAE es corresponsabilidad de actores estatales: el Ministerio de Educación Nacional, los municipios, los distritos, los departamentos, los establecimientos y sedes educativas oficiales.
@@ -13382,8 +11648,6 @@ Otros actores que participan en el Programa son: los rectores, docentes directiv
 También son actores del programa los organismos de cooperación internacional, entidades no gubernamentales y el sector privado.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.4.2 — Funciones del Ministerio de Educación Nacional
 
@@ -13408,8 +11672,6 @@ El Ministerio de Educación Nacional ejercerá las siguientes funciones en relac
 9. Realizar visitas selectivas a las entidades territoriales, a los establecimientos educativos y a los operadores del programa, directamente o a través de la supervisión e interventoría, para verificar las condiciones en que se está ejecutando el programa y el cumplimiento de los lineamientos, estándares y condiciones del mismo; estas visitas podrán desarrollarse con la participación de órganos o entidades de control o de las autoridades competentes en temas relacionados con el programa.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.4.3 — Funciones de las entidades territoriales
 
@@ -13457,8 +11719,6 @@ d) Designar la supervisión, y en caso necesario la interventoría técnica, en 
 
 (Decreto 1852 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.10.4.4 — Obligaciones de los Rectores
 
 Los rectores de las Instituciones Educativas priorizadas del PAE deben:
@@ -13481,8 +11741,6 @@ Los rectores de las Instituciones Educativas priorizadas del PAE deben:
 
 (Decreto 1852 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.10.4.5 — Obligaciones conjuntas
 
 Las entidades territoriales liderarán con los rectores, coordinadores del programa, directivos docentes, docentes, personal administrativo, veedurías ciudadanas y sociedad, las siguientes acciones:
@@ -13498,8 +11756,6 @@ Las entidades territoriales liderarán con los rectores, coordinadores del progr
 5. Las demás que señale el Ministerio de Educación Nacional en los Lineamientos Técnicos-Administrativos, estándares y condiciones de operación del Programa.
 
 (Decreto 1852 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.10.4.6 — Funciones de los Operadores del PAE
 
@@ -13522,8 +11778,6 @@ PARÁGRAFO . Corresponde a la entidad territorial verificar que las obligaciones
 CAPÍTULO 5
 
 SEGUIMIENTO Y MONITOREO DEL PAE
-
-ARTÍCULO
 
 ## art:2.3.10.5.1 — Seguimiento y monitoreo del PAE
 
@@ -13555,8 +11809,6 @@ PROCEDIMIENTO DE SELECCIÓN MEDIANTE CONCURSO PARA EL SISTEMA ESPECIAL DE CARRER
 
 (Capítulo modificado por el Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.1 — Ámbito de aplicación
 
 Los preceptos contenidos en el presente capítulo aplican a los concursos públicos de méritos del sistema especial de carrera docente para proveer los cargos de docentes y directivos docentes que se encuentren en vacancia definitiva en la planta de personal administrada por las entidades territoriales certificadas y que prestan el servicio educativo a población mayoritaria.
@@ -13565,15 +11817,11 @@ PARÁGRAFO . Los procesos para la selección y provisión de los cargos de etnoe
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.2 — Principios
 
 Los concursos para la selección por mérito de docentes y directivos docentes estarán sujetos a los principios de igualdad, oportunidad, publicidad, objetividad, imparcialidad, confiabilidad, transparencia, eficacia, eficiencia y economía.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.3 — Estructura del concurso
 
@@ -13605,8 +11853,6 @@ El concurso de méritos para proveer los cargos docentes y directivos docentes d
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.4 — Determinación de vacantes definitivas
 
 Para dar apertura a la convocatoria, la Comisión Nacional del Servicio Civil, dentro del plazo que esta determine, solicitará a gobernadores y alcaldes de cada entidad territorial certificada en educación el reporte de los cargos que se encuentren en vacancia definitiva, o les comunicará a dichos mandatarios los mecanismos e instrumentos a través de los cuales accederá a la información de que trata el presente artículo.
@@ -13622,8 +11868,6 @@ PARÁGRAFO 1. El incumplimiento del plazo fijado por la Comisión Nacional del S
 PARÁGRAFO 2. El reporte de que trata el presente artículo deberá incluir los cargos vacantes que se financien con recursos de la partida de educación del Sistema General de Participaciones, como aquellos que se financien con recursos propios de la respectiva entidad territorial.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.5 — Convocatoria
 
@@ -13655,8 +11899,6 @@ PARÁGRAFO 2. En la metodología para la conformación de las listas de elegible
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.6 — Divulgación de la convocatoria
 
 La Comisión Nacional del Servicio Civil divulgará la convocatoria a través de su página web oficial y de otros medios que garanticen su amplia difusión. La entidad territorial certificada podrá divulgar la convocatoria por medios masivos de comunicación, con cargo a su presupuesto y atendiendo las indicaciones de la Comisión.
@@ -13664,8 +11906,6 @@ La Comisión Nacional del Servicio Civil divulgará la convocatoria a través de
 La convocatoria podrá ser modificada o complementada en cualquier aspecto y en cualquier momento por la Comisión Nacional del Servicio Civil, hasta antes de iniciar las inscripciones. A partir del inicio del proceso de inscripción, la convocatoria sólo podrá modificarse en cuanto al sitio, hora y fecha de aplicación de las diferentes pruebas, modificaciones que se darán a conocer por los mismos medios utilizados para la divulgación de la convocatoria, por lo menos con cinco (5) días de anticipación a la fecha en que estas entren a regir.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.7 — Requisitos para participar en el concurso
 
@@ -13675,8 +11915,6 @@ PARÁGRAFO . Para acceder a los cargos docentes en el área de educación religi
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.8 — Inscripción en el concurso
 
 La inscripción de los aspirantes se hará dentro del término previsto en la convocatoria, de acuerdo con la forma, los procedimientos y requisitos señalados en la misma. El término para realizar la inscripción no podrá ser menor de quince (15) días calendario.
@@ -13684,8 +11922,6 @@ La inscripción de los aspirantes se hará dentro del término previsto en la co
 La información sobre el cumplimiento de los requisitos para la inscripción al concurso se entenderá suministrada bajo juramento por parte del aspirante. Una vez efectuada la inscripción, dicha información podrá ser modificada o actualizada por una única vez, siempre que se haga durante el periodo establecido para este proceso. Cerrada la etapa de inscripciones no se aceptará ninguna modificación o actualización a los datos suministrados.»
 
 (Modificado por el Art. 4 del Decreto 2105 de 2017).
-
-ARTÍCULO
 
 ## art:2.4.1.1.9 — Derechos de participación
 
@@ -13705,15 +11941,11 @@ Una vez concluido el cobro de derechos de participación, de conformidad con lo 
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.10 — Desarrollo del concurso público de méritos
 
 De conformidad con lo dispuesto en el artículo 3 del Decreto Ley 760 de 2005, modificado por el artículo 134 de la Ley 1753 de 2015, la Comisión Nacional del Servicio Civil podrá celebrar un convenio interadministrativo con el Instituto Colombiano para la Evaluación de la Educación (ICFES) para el desarrollo de una o varias etapas del concurso de méritos regulado en el presente capítulo o, en su defecto, con universidades públicas o privadas, instituciones universitarias e instituciones de educación superior acreditadas por el Ministerio de Educación Nacional para tal fin.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.11 — Prueba de aptitudes y competencias básicas y prueba psicotécnica
 
@@ -13745,8 +11977,6 @@ PARÁGRAFO . En los eventos en que el Instituto Colombiano para la Evaluación d
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.12 — Presentación de la documentación y verificación de los requisitos
 
 El Instituto Colombiano para la Evaluación de la Educación (ICFES) o la institución de educación superior con la cual la Comisión Nacional del Servicio Civil haya celebrado el respectivo contrato para adelantar la prueba de valoración de antecedentes del concurso de méritos adelantará el proceso de recepción de documentos y la verificación del cumplimiento de requisitos. Esta documentación sólo la presentarán los aspirantes que aprobaron la prueba de aptitudes y competencias básicas de que trata el artículo anterior.
@@ -13756,8 +11986,6 @@ La Comisión Nacional del Servicio Civil anunciará, con una antelación de cinc
 Una vez sean atendidas la reclamaciones, se publicará el listado definitivo de los aspirantes admitidos a continuar en el proceso de selección por mérito.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.13 — Valoración de antecedentes y entrevista
 
@@ -13785,8 +12013,6 @@ La entrevista es la prueba que permite valorar las competencias comportamentales
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.14 — Resultados de las pruebas de antecedentes y de entrevista y ponderación
 
 La prueba de valoración de antecedentes tendrá una ponderación dentro del concurso no superior al 30% para los docentes y del 35% para los directivos docentes. La prueba de entrevista tendrá una ponderación dentro del concurso no superior al 10% para los docentes y no superior al 15% para los directivos docentes.
@@ -13797,8 +12023,6 @@ La Comisión Nacional del Servicio Civil y la entidad o institución contratada 
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.15 — Consolidación de resultados de las pruebas y publicación
 
 La Comisión Nacional del Servicio Civil, con base en los resultados de las cuatro (4) pruebas del concurso, publicará un resultado consolidado en la fecha que deberá ser anunciada en su página web con una antelación de mínimo cinco (5) días. Igualmente, en dicha publicación deberá indicar los medios y tiempos de presentación de las aclaraciones que podrán solicitar los aspirantes, las cuales únicamente pueden estar referidas a su nombre, número de identificación o cuando en dicha compilación se presenten errores en alguno de los puntajes de las pruebas del concurso que fueron publicados previamente, según lo dispuesto en los artículos 2.4.1.1.11, 2.4.1.1.12 y 2.4.1.1.14 del presente decreto.
@@ -13807,8 +12031,6 @@ Las aclaraciones presentadas deben ser resueltas por la Comisión Nacional del S
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.16 — Listas de elegibles
 
 La Comisión Nacional del Servicio Civil, con base en los resultados de las pruebas aplicadas en el concurso y mediante acto administrativo, conformará en estricto orden de puntaje final la lista de elegibles territorial para cada uno de los cargos de docentes y directivos docentes convocados en cada entidad territorial certificada en educación. De conformidad con lo dispuesto en el parágrafo del artículo 11 del Decreto Ley 1278, la lista de elegibles tiene una vigencia de dos (2) años contados a partir de su firmeza.
@@ -13816,8 +12038,6 @@ La Comisión Nacional del Servicio Civil, con base en los resultados de las prue
 Las listas territoriales de elegibles incluirán la posición, los nombres y apellidos, el número de documento de identidad y el puntaje final consolidado obtenido por cada aspirante, el cual se expresará en escala de cero (O) a cien (100) puntos, con una parte entera y dos (2) decímales.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.17 — Validez de las listas de elegibles
 
@@ -13828,8 +12048,6 @@ La Comisión Nacional del Servicio Civil, en uso de la competencia prevista en e
 PARÁGRAFO . El listado del Banco Nacional de Elegibles se ordenará de acuerdo con los resultados obtenidos por los aspirantes en las pruebas de que trata el presente capítulo.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.18 — Exclusión de listas de elegibles
 
@@ -13853,8 +12071,6 @@ PARÁGRAFO 1. La Comisión Nacional del Servicio Civil deberá modificar el acto
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.19 — Actuación administrativa para la exclusión de listas de elegibles
 
 Una vez recibida la solicitud de que trata el artículo anterior y de encontrar mérito suficiente, la Comisión Nacional del Servicio Civil iniciará la actuación administrativa correspondiente para investigar los hechos que hayan sido informados, y comunicará por escrito al interesado para que intervenga en la misma.
@@ -13866,8 +12082,6 @@ Ejecutoriadas las decisiones que resuelvan las solicitudes de exclusión, cobrar
 PARÁGRAFO . Las listas de elegibles en firme deberán permanecer publicadas en la página web de la Comisión Nacional del Servicio Civil.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.20 — Audiencia pública de escogencia de vacante definitiva en establecimiento educativo
 
@@ -13885,8 +12099,6 @@ PARÁGRAFO . Las audiencias públicas de que trata el presente artículo se desa
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.21 — Nombramiento en período de prueba y evaluación
 
 Dentro de los cinco (5) días siguientes a la realización de la audiencia pública de escogencia de vacante definitiva en establecimiento educativo, la entidad territorial certificada debe expedir el acto administrativo de nombramiento en período de prueba del educador y comunicarlo al interesado, siempre respetando la vacante seleccionada por el elegible.
@@ -13898,8 +12110,6 @@ Al final del período de prueba, el educador será evaluado por el rector o dire
 PARÁGRAFO . Durante el período de prueba, el docente o directivo docente no puede ser trasladado, salvo que sea por razones de seguridad, de acuerdo con lo dispuesto en la Sección 2, Capítulo 2, Título 5, Parte 4, Libro 2 del presente decreto.
 
 (Decreto 915 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.1.22 — Garantías para educadores con derechos de carrera durante un nuevo período de prueba
 
@@ -13923,8 +12133,6 @@ Los educadores con derechos de carrera de conformidad con los decretos ley 2277 
 
 (Decreto 915 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.1.23 — Inscripción o actualización en el escalafón docente
 
 Los educadores que superen el período de prueba en los términos del artículo 31 del Decreto Ley 1278 de 2002 adquieren los derechos de carrera en el cargo respectivo y deberán ser inscritos en el escalafón docente o actualizados en el mismo, de conformidad con lo dispuesto en el presente artículo.
@@ -13947,8 +12155,6 @@ PROCESO DE SELECCIÓN MEDIANTE CONCURSO PARA EL INGRESO DE ETNOEDUCADORES AFROCO
 
 DOCENTE
 
-ARTÍCULO
-
 ## art:2.4.1.2.1 — Objeto
 
 El presente Capítulo reglamenta el concurso de méritos para seleccionar docentes y directivos docentes etnoeducadores afrocolombianos y raizales, con el fin de proveer la planta de cargos organizada conjuntamente por la Nación y las entidades territoriales certificadas en el servicio educativo estatal, de conformidad con lo dispuesto en el Decreto-ley 1278 de 2002 y el Decreto 804 de 1995, en la manera en que queda compilado en el presente Decreto.
@@ -13957,15 +12163,11 @@ PARÁGRAFO . Los concursos para la provisión de los cargos necesarios se realiz
 
 (Decreto 3323 de 2005, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.2.2 — Principios
 
 Los concursos para la selección de docentes y directivos docentes afrocolombianos y raizales estarán sujetos a los principios de objetividad, imparcialidad, confiabilidad, transparencia e igualdad de oportunidades; así como los establecidos en el artículo 2.3.3.5.4.1.2. del presente Decreto, y los principios de territorialidad e identidad establecidos en los Lineamientos Generales para la Etnoeducación en las Comunidades Afrocolombianas.
 
 (Decreto 3323 de 2005, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.1.2.3 — Estructura del concurso
 
@@ -13987,8 +12189,6 @@ g) Nombramiento en período de prueba.
 
 (Decreto 3323 de 2005, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.1.2.4 — Determinación de cargos por proveer
 
 Mediante concurso deberán proveerse los cargos vacantes de las plantas de cargos organizadas conjuntamente por la Nación y la entidad territorial certificada en los términos del artículo 37 de la Ley 715 de 2001. Las entidades territoriales certificadas que atiendan población afrocolombiana y raizal, antes de la convocatoria del concurso correspondiente identificarán las vacantes conjuntamente con autoridades representativas afrocolombianas y raizales, de conformidad con los artículos 2.3.3.5.4.2.6., 2.3.3.5.4.2.7., y 2.3.3.5.4.2.9. del presente Decreto. Una vez identificadas, las entidades territoriales deberán reservarlas para la realización del concurso especial a que se refiere este Capítulo, con la especificación por nivel, ciclo, áreas y especialidad; y reportar tal información a la Comisión Nacional del Servicio Civil.
@@ -13997,8 +12197,6 @@ PARÁGRAFO . En caso de que una entidad territorial certificada provea cargos re
 
 (Decreto 3323 de 2005, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.1.2.5 — Convocatoria para provisión de cargos vacantes
 
 La Comisión Nacional del Servicio Civil realizará la convocatoria a los concursos de selección de los docentes y directivos docentes afrocolombianos y raizales para el servicio educativo estatal, para la aplicación de la prueba integral etnoeducativa que diseñará, adoptará y aplicará esa entidad.
@@ -14006,8 +12204,6 @@ La Comisión Nacional del Servicio Civil realizará la convocatoria a los concur
 PARÁGRAFO . La Comisión Nacional del Servicio Civil sólo podrá efectuar las convocatorias en su jurisdicción, para los cargos vacantes de manera definitiva, o que se encuentren provistos mediante nombramiento provisional, pertenecientes a la planta organizada conjuntamente con la Nación, previo certificado de disponibilidad presupuestal para la provisión de dichos cargos.
 
 (Decreto 3323 de 2005, artículo 5).
-
-ARTÍCULO
 
 ## art:2.4.1.2.6 — Procedimiento de las convocatorias
 
@@ -14037,8 +12233,6 @@ La Comisión Nacional del Servicio Civil divulgará las convocatorias a través 
 
 (Decreto 3323 de 2005, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.1.2.7 — Inscripción en el concurso
 
 El aspirante deberá inscribirse a través de la página de Internet que para el efecto disponga la Comisión Nacional del Servicio Civil de acuerdo con el procedimiento y condiciones que ésta determine.
@@ -14059,15 +12253,11 @@ PARÁGRAFO . Cuando un mismo aspirante se inscriba más de una vez en el concurs
 
 (Decreto 3323 de 2005, artículo 7, modificado por el Decreto 140 de 2006, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.12.8 — Requisitos para la inscripción
 
 Podrá inscribirse en el concurso toda persona que mantenga conciencia de su identidad como criterio fundamental para determinar su carácter y pertenencia étnica afrocolombiana y raizal de acuerdo con lo establecido en el Convenio 169 de la OIT, incorporado a la legislación colombiana mediante la Ley 21 de 1991, artículo 1, literal 2, así como lo establecido en la Ley 70 de 1993 artículo 2, numeral 5.
 
 (Decreto 3323 de 2005, artículo 8).
-
-ARTÍCULO
 
 ## art:2.4.1.2.9 — Componentes de la prueba integral etnoeducativa
 
@@ -14079,8 +12269,6 @@ PARÁGRAFO . Los contenidos específicos de lo afrocolombiano y raizal de la pru
 
 (Decreto 3323 de 2005, artículo 9).
 
-ARTÍCULO
-
 ## art:2.4.1.2.10 — Publicación de resultados de las pruebas
 
 La Comisión Nacional del Servicio Civil dará a conocer en la página de Internet la lista con los resultados de las pruebas con dos cifras de aproximación decimal. Así mismo, entregará a las entidades territoriales certificadas dichas listas. Las reclamaciones relacionadas con los resultados de las pruebas deberán ser formuladas ante la Comisión Nacional del Servicio Civil o entidad que ésta delegue, a través de la dirección electrónica definida para el efecto, dentro de los tres (3) días hábiles siguientes a la presentación en la página de Internet.
@@ -14088,8 +12276,6 @@ La Comisión Nacional del Servicio Civil dará a conocer en la página de Intern
 PARÁGRAFO . La Comisión Nacional del Servicio Civil anulará los resultados de los exámenes en caso de fraude, sustracción del material de examen, suplantación de persona o cuando efectuados los controles de aplicación o calificación, se infiera o se demuestre la ocurrencia de circunstancias irregulares en su desarrollo que afecten su validez.
 
 (Decreto 3323 de 2005, artículo 10).
-
-ARTÍCULO
 
 ## art:2.4.1.2.11 — Valoración de antecedentes y entrevista
 
@@ -14123,8 +12309,6 @@ En caso que la Comisión Nacional del Servicio Civil no cuente, en el plazo esta
 
 (Decreto 3323 de 2005, artículo 11, modificado por el Decreto 140 de 2006, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.1.2.12 — Valoración de la prueba
 
 Los resultados que obtengan los aspirantes a cargos de docentes y directivos docentes afrocolombianos y raizales del servicio educativo estatal, en cada una de las pruebas que a continuación se enumeran, se expresarán en una calificación numérica en escala de cero (0) a cien (100) puntos; para su registro y clasificación el puntaje incluirá una parte entera y dos (2) decimales.
@@ -14144,8 +12328,6 @@ d) Entrevista 10%
 PARÁGRAFO . La Comisión Nacional del Servicio Civil deberá publicar en lugar visible la lista con los resultados del conjunto de pruebas, de acuerdo con el calendario que para tal fin haya establecido en la convocatoria, sin que dicho término pueda ser inferior a tres (3) días hábiles.
 
 (Decreto 3323 de 2005. artículo 12, modificado por el Decreto 140 de 2006, artículo 3)
-
-ARTÍCULO
 
 ## art:2.4.1.2.13 — Listas de elegibles
 
@@ -14183,23 +12365,17 @@ PARÁGRAFO 2. Las listas de elegibles sólo tendrán validez para la respectiva 
 
 (Decreto 3323 de 2005, artículo 13).
 
-ARTÍCULO
-
 ## art:2.4.1.2.14 — Reclamaciones por violación de las normas de carrera
 
 Las reclamaciones por la presunta violación de las normas que rigen la carrera docente, se efectuarán en los términos del artículo 17 del Decreto-ley 1278 de 2002.
 
 (Decreto 3323 de 2005, artículo 14).
 
-ARTÍCULO
-
 ## art:2.4.1.2.15 — Criterios para la provisión de vacantes
 
 La Comisión Nacional del Servicio Civil, al momento de realizar la convocatoria, deberá adoptar y publicar mediante acto administrativo los criterios que utilizará para proveer los cargos vacantes de docentes y directivos docentes en los establecimientos educativos.
 
 (Decreto 3323 de 2005, artículo 15).
-
-ARTÍCULO
 
 ## art:2.4.1.2.16 — Nombramiento en período de prueba
 
@@ -14227,8 +12403,6 @@ PARÁGRAFO 3. La vacancia definitiva de cargos solo podrá establecerse después
 
 (Decreto 3323 de 2005, artículo 16).
 
-ARTÍCULO
-
 ## art:2.4.1.2.17 — Nombramiento en periodo de prueba en territorios colectivos
 
 Los integrantes de la lista de elegibles para ser nombrados en período de prueba en cargos vacantes en los territorios colectivos deberán contar con el aval de reconocimiento cultural expedido por la autoridad comunitaria competente del respectivo Consejo Comunitario, el cual deberá ser entregado en la entidad territorial certificada dentro de los cinco (5) días hábiles siguientes a la publicación de la lista de elegibles. En caso de no contar con dicho aval no podrá ser nombrado en la vacante correspondiente al territorio colectivo.
@@ -14236,8 +12410,6 @@ Los integrantes de la lista de elegibles para ser nombrados en período de prueb
 El aval será otorgado por la Junta del respectivo Consejo Comunitario y entregado a la secretaría de educación de la entidad territorial certificada por parte del aspirante.
 
 (Decreto 3323 de 2005, artículo 17, modificado por el Decreto 140 de 2006, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.1.2.18 — Participación de la Comisión Pedagógica Nacional para las Comunidades Negras
 
@@ -14249,15 +12421,11 @@ CAPÍTULO 3
 
 PROGRAMA DE PEDAGOGÍA PARA PROFESIONALES NO LICENCIADOS
 
-ARTÍCULO
-
 ## art:2.4.1.3.1 — Objeto
 
 El presente Capítulo establece los objetivos y los requisitos del programa de pedagogía que deben acreditar los profesionales con título diferente al de licenciado en educación al término del período de prueba, de acuerdo con las disposiciones del artículo 12 del Decreto-ley 1278 de 2002.
 
 (Decreto 2035 de 2005, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.3.2 — Objetivos del programa de pedagogía
 
@@ -14273,8 +12441,6 @@ d) Apropiación de herramientas que faciliten la organización de ambientes y el
 
 (Decreto 2035 de 2005, artículo 2)
 
-ARTÍCULO
-
 ## art:2.4.1.3.3 — Aspectos institucionales
 
 Las instituciones de educación superior que, de conformidad con lo establecido en el parágrafo 1 del artículo 12 del Decreto-ley 1278 de 2002, ofrezcan el programa de Pedagogía deben llenar los siguientes requisitos:
@@ -14286,8 +12452,6 @@ b) Tener al menos una línea de investigación para apoyar el programa que se pr
 PARÁGRAFO . Para desarrollar el programa de Pedagogía, las instituciones de educación superior podrán realizar convenios con las escuelas normales superiores, debidamente acreditadas.
 
 (Decreto 2035 de 2005, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.1.3.4 — Aspectos curriculares del programa
 
@@ -14305,8 +12469,6 @@ e) Los fundamentos de la evaluación, teniendo en cuenta sus diferentes usos: di
 
 (Decreto 2035 de 2005, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.1.3.5 — Duración y metodología del programa
 
 La institución que ofrezca el programa de pedagogía, deberá facilitar al participante las condiciones necesarias para desarrollar las acciones formativas presenciales y el acompañamiento requerido en las acciones del trabajo autónomo.
@@ -14314,8 +12476,6 @@ La institución que ofrezca el programa de pedagogía, deberá facilitar al part
 El programa académico se organizará en créditos, de tal manera que permita la evaluación de su calidad, con un componente presencial no inferior al 50%. Los programas tendrán como mínimo 10 créditos académicos. Un crédito corresponde a 48 horas de trabajo académico.
 
 (Decreto 2035 de 2005, artículo 5).
-
-ARTÍCULO
 
 ## art:2.4.1.3.6 — Validez de los programas
 
@@ -14335,15 +12495,11 @@ SECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.4.1.4.1.1 — Objeto
 
 La presente Sección tiene por objeto reglamentar la evaluación de que tratan los artículos 35 y 36 (numeral 2) del Decreto Ley 1278 de 2002 para el ascenso de grado o la reubicación de nivel salarial de los educadores oficiales, regidos por el Estatuto de Profesionalización Docente previsto en dicha norma, la cual será de carácter diagnóstica formativa.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.1.2 — Características y principios de la evaluación
 
@@ -14352,8 +12508,6 @@ La evaluación prevista en la presente Sección es de carácter diagnóstica for
 La evaluación de que trata esta Sección se regirá por los principios previstos en el artículo 29 del Decreto Ley 1278 de 2002. Para el efecto, se fundamentará en los elementos de (i) enfoque cualitativo, (ii) contexto y reflexión, (iii) integralidad y validez, (iv) actividad educativa y pedagógica en el aula, (v) transparencia, (vi) democracia (vii) respeto de la autonomía escolar, (viii) libertad de cátedra, y (ix) pluralismo pedagógico.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.1.3 — Requisitos para participar en la evaluación
 
@@ -14368,8 +12522,6 @@ Para participar en la evaluación de que trata el artículo anterior, el educado
 PARÁGRAFO TRANSITORIO. Los educadores que habiéndose inscrito en el proceso de evaluación, según lo dispuesto en la Sección 5 de este capítulo, que al momento de la convocatoria del proceso de evaluación en el año 2016 se les haya definido de manera positiva su ascenso de grado o reubicación de nivel salarial o continúen en este proceso de evaluación con el desarrollo del curso de formación podrán volver a participar en la convocatoria que se efectúe en el año 2017 y en los años siguientes, previo cumplimiento de los requisitos de que trata el presente artículo.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.1.4 — Inscripción en el Escalafón Docente
 
@@ -14393,15 +12545,11 @@ PARÁGRAFO 2. El acto administrativo de inscripción en el escalafón docente, c
 
 (Decreto 1657 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.1.5 — Registro de novedades en el Escalafón
 
 Serán incluidos en el registro público de carrera docente los actos administrativos de inscripción, reubicación de nivel salarial o ascenso de grado, actualización de grado, cuando el educador de carrera vuelve a aprobar un concurso o supera el periodo de prueba, y de exclusión del Escalafón Docente.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.1.6 — Tiempo de servicio y Evaluaciones de Desempeño
 
@@ -14425,8 +12573,6 @@ SECCIÓN 2
 
 Responsabilidades
 
-ARTÍCULO
-
 ## art:2.4.1.4.2.1 — Responsabilidades del Ministerio de Educación Nacional
 
 El Ministerio de Educación Nacional será responsable de:
@@ -14442,8 +12588,6 @@ El Ministerio de Educación Nacional será responsable de:
 5. Propender porque se cumplan todas las etapas del proceso de evaluación previstas en el artículo 2.4.1.4.3.1 del presente decreto.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.2.2 — Responsabilidades de las entidades territoriales certificadas en educación
 
@@ -14467,8 +12611,6 @@ Las entidades territoriales certificadas serán responsables de:
 
 (Decreto 1657 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.2.3 — Responsabilidades de los educadores
 
 Los educadores que voluntariamente se presenten a la evaluación serán responsables del pago del Número de Identificación Personal (NIP), de la inscripción en la prueba y de su presentación oportuna, y de la acreditación del título académico exigido para los grados 2 y 3, de conformidad con lo establecido en el artículo 21 del Decreto Ley 1278 de 2002.
@@ -14480,8 +12622,6 @@ SECCIÓN 3
 (Modificado por el Decreto 1657 de 2016, artículo 1).
 
 Proceso de Evaluación
-
-ARTÍCULO
 
 ## art:2.4.1.4.3.1 — Etapas del proceso
 
@@ -14504,8 +12644,6 @@ El proceso de evaluación de que trata las anteriores secciones del presente cap
 8. Expedición de los actos administrativos de ascenso y reubicación.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.3.2 — Convocatoria
 
@@ -14531,8 +12669,6 @@ PARÁGRAFO . La entidad territorial certificada en educación divulgará la conv
 
 (Decreto 1657 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.3.3 — Inscripción en la convocatoria
 
 El educador que cumpla con los requisitos establecidos en el artículo 2.4.1.4.1.3 del presente decreto podrá inscribirse en el proceso dentro del término previsto en la convocatoria, de acuerdo con los procedimientos y requisitos señalados en la misma.
@@ -14555,8 +12691,6 @@ SECCIÓN 4
 
 Reubicación de nivel salarial y ascensos de grado en el escalafón docente
 
-ARTÍCULO
-
 ## art:2.4.1.4.4.1 — Reubicación de nivel salarial y ascenso de grado
 
 Constituye reubicación de nivel salarial el paso de un educador al nivel inmediatamente siguiente dentro del mismo grado del Escalafón Docente.
@@ -14564,8 +12698,6 @@ Constituye reubicación de nivel salarial el paso de un educador al nivel inmedi
 Constituye ascenso la promoción de un educador a otro grado del escalafón docente. Quien asciende a un grado conserva el nivel (A-B-C-D) alcanzado en el grado inmediatamente anterior.
 
 (Decreto 1657 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.4.2 — Resultado y procedimiento
 
@@ -14595,15 +12727,11 @@ Evaluación para ascenso de grado y reubicación de nivel salarial para los educ
 
 (Sección adicionada por el Decreto 1757 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.5.1 — Objeto
 
 La presente Sección tiene por objeto reglamentar transitoriamente una modalidad de la evaluación de que trata el artículo 35 del Decreto Ley 1278 de 2002 que será aplicada a los educadores que entre los años 2010 y 2014 no lograron el ascenso de grado o la reubicación en un nivel salarial superior, la cual tendrá carácter diagnóstica formativa.
 
 (Decreto 1757 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.2 — Ámbito de aplicación
 
@@ -14611,15 +12739,11 @@ La evaluación de que trata la presente Sección, que tendrá carácter diagnós
 
 (Decreto 1757 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.5.3 — Características de la evaluación
 
 La evaluación prevista en la presente Sección es de carácter diagnóstica formativa, por lo que valorará la práctica educativa, pedagógica, didáctica y de aula. La aprobación de esta evaluación permitirá el ascenso de grado o la reubicación de nivel salarial en los términos que se consagran en los artículos siguientes.
 
 (Decreto 1757 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.4 — Requisitos para participaren la evaluación
 
@@ -14634,8 +12758,6 @@ Escalafón Docente.
 3. Para el caso de ascenso de grado, acreditar debidamente en su hoja de vida el título académico exigido para los grados 2 y 3.
 
 (Decreto 1757 de 2015, artículo 1; numeral 3, modificado por el Decreto 1889 de 2015, art. 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.5 — Competencias del Ministerio de Educación Nacional
 
@@ -14654,8 +12776,6 @@ El Ministerio de Educación Nacional será responsable de:
 PARÁGRAFO . La administración, los principios, criterios e instrumentos aplicables y la evaluación de carácter diagnóstica formativa de que trata el presente Decreto serán definidos mediante acto administrativo que expida el Ministerio de Educación Nacional, de conformidad con los resultados del proceso en el que participará, entre otros, la Federación Colombiana de Trabajadores de la Educación (FECODE) y tres (3) universidades que tengan facultades de educación de reconocida idoneidad.
 
 (Decreto 1757 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.6 — Competencias de las entidades territoriales certificadas en educación
 
@@ -14677,15 +12797,11 @@ Las entidades territoriales certificadas en educación serán responsables de:
 
 (Decreto 1757 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.5.7 — Responsabilidades de los educadores
 
 Los educadores que voluntariamente se presenten a la evaluación de carácter diagnóstica formativa de que trata la presente Sección serán responsables del pago del Número de Identificación Personal (NIP), de la inscripción en la evaluación y de su presentación oportuna, así como de la acreditación del requisito establecido en el numeral 3 del artículo 2.4.1.4.5.4 del presente Decreto, cuando se trate de ascenso de grado.
 
 (Decreto 1757 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.8 — Etapas del proceso
 
@@ -14710,8 +12826,6 @@ El proceso de evaluación de carácter diagnóstica formativa de que trata el pr
 9. Expedición de los actos administrativos de ascenso y reubicación
 
 (Decreto 1757 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.9 — Convocatoria
 
@@ -14739,8 +12853,6 @@ El acto administrativo de convocatoria deberá ser comunicado al ministerio de E
 
 (Decreto 1757 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.1.4.5.10 — Inscripción en la convocatoria
 
 El docente, el directivo docente y orientador que cumpla con los requisitos establecidos en el artículo 2.4.1.4.5.4. del presente Decreto podrá inscribirse en el proceso dentro del término previsto en la convocatoria, de acuerdo con los procedimientos y requisitos señalados en la misma.
@@ -14752,8 +12864,6 @@ PARÁGRAFO 1. El registro y la participación voluntaria en la evaluación y los
 PARÁGRAFO 2. El término para realizar la etapa de inscripción no podrá ser inferior a diez (10) días hábiles.
 
 (Decreto 1757 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.11 — Resultados y procedimiento
 
@@ -14768,8 +12878,6 @@ La reubicación salarial y el ascenso de grado en el Escalafón Docente surtirá
 La entidad territorial certificada en educación deberá apropiar los recursos correspondientes que amparen la ejecución y los pagos originados en los correspondientes actos administrativos que se hayan proferido. En caso de que los recursos presupuestales resultaren insuficientes, la entidad territorial deberá apropiar dichos recursos máximo en la siguiente vigencia fiscal y proceder al pago del ascenso de grado o la reubicación de nivel salarial con los efectos fiscales definidos por el presente artículo
 
 (Decreto 1751 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.4.5.12 — Cursos de formación
 
@@ -14795,8 +12903,6 @@ SECCIÓN 6 TRANSITORIA
 
 CURSOS DE FORMACIÓN PARA LA COHORTE 2016-2017 DE LA ECDF
 
-ARTÍCULO
-
 ## art:2.4.1.4.6.1 — Objeto
 
 La presente sección tiene por objeto reglamentar transitoriamente los cursos de formación para los educadores que habiendo presentado la evaluación con carácter diagnóstico formativa (ECDF) que inició en el año 2016 y se desarrolló en el año 2017, no aprobaron ésta en los términos establecidos en la Sección 4 del presente capítulo de conformidad con lo señalado en el punto décimo del acuerdo colectivo suscrito el 16 de junio de 2017 entre el Ministerio de Educación Nacional y la Federación Nacional de Trabajadores de la Educación (FECODE).
@@ -14806,8 +12912,6 @@ Dichos educadores podrán adelantar el curso de formación ofertado por universi
 Los aspectos generales de los cursos de formación serán definidos en los lineamientos que se expidan y se desarrollarán en el marco de la autonomía universitaria. Los cursos de formación se expresarán en créditos académicos que podrán ser homologados con programas de pregrado y posgrado.
 
 (Decreto 2172 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.4.6.2 — Cofinanciación del costo de la matrícula de los cursos de formación
 
@@ -14827,15 +12931,11 @@ PARÁGRAFO 2. La cofinanciación de los cursos de formación para los educadores
 
 (Decreto 2172 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.4.6.3 — Renuncia al curso de formación
 
 Únicamente en el evento de que un educador que pertenece al doce por ciento (12%) anteriormente señalado de manera expresa e inequívoca renuncie a la posibilidad de realizar el curso de formación de que trata la presente sección transitoria, y con ello, a la posibilidad de ascender o reubicarse salarialmente, será reemplazado por el educador que cuente con el puntaje inmediatamente siguiente que lo habilite para pertenecer al porcentaje en mención, y éste educador, a su vez, tendrá los mismos derechos y obligaciones que el educador que ha renunciado al curso de formación.
 
 (Decreto 2172 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.4.6.4 — 6.4
 
@@ -14855,8 +12955,6 @@ SECCIÓN 7 TRANSITORIA
 
 CURSOS DE FORMACIÓN PARA EL COHORTE 2018-2020 DE LA EVALUACIÓN DOCENTE DE CARÁCTER DIAGNÓSTICO FORMATIVA (ECDF)
 
-ARTÍCULO
-
 ## art:2.4.1.4.7.1 — Objeto
 
 La presente sección tiene por objeto reglamentar transitoriamente los cursos de formación para los educadores que habiendo presentado la evaluación de carácter diagnóstico formativa (ECDF) que se desarrolló entre los años 2018 y 2020, no la aprobaron. Lo anterior en cumplimiento a lo dispuesto en el punto ocho (8) del acuerdo colectivo suscrito el 6 de agosto de 2021 entre el Gobierno nacional y la Federación Nacional de Trabajadores de la Educación (FECODE).
@@ -14866,8 +12964,6 @@ Dichos educadores podrán adelantar el curso de formación ofertado por Instituc
 Los cursos de formación se expresarán en créditos académicos que podrán ser homologados con programas de pregrado o posgrado.
 
 (Adicionado por el Art. 1 del Decreto 1791 de 2021)
-
-ARTÍCULO
 
 ## art:2.4.1.4.7.2 — Educadores que pueden realizar el curso de formación
 
@@ -14880,8 +12976,6 @@ PARÁGRAFO 1. La puntuación que se usará para la conformación de la lista est
 PARÁGRAFO 2. En caso de presentarse empate en el puntaje para la conformación del listado entre dos o más aspirantes, el cupo correspondiente será otorgado al educador con mayor puntaje en la valoración del instrumento "video" en la ECDF que se desarrolló entre los años 2018 y 2020, por tratarse del instrumento con mayor peso porcentual en la calificación final en dicho proceso. Si persiste el empate, se otorgará el cupo al educador con mayor puntaje en la valoración del instrumento "autoevaluación", por tratarse del instrumento con el segundo mayor peso porcentual en la calificación final en la ECDF que se desarrolló entre los años 2018 y 2020.
 
 (Adicionado por el Art. 1 del Decreto 1791 de 2021)
-
-ARTÍCULO
 
 ## art:2.4.1.4.7.3 — Aceptación por parte del educador de la posibilidad de realizar el curso de formación
 
@@ -14911,8 +13005,6 @@ PARÁGRAFO 3. Una vez surtido el trámite de reemplazo y habiéndose incluido en
 
 (Adicionado por el Art. 1 del Decreto 1791 de 2021)
 
-ARTÍCULO
-
 ## art:2.4.1.4.7.4 — Cofinanciación del costo de la matrícula de los cursos de formación
 
 El Gobierno Nacional cofinanciará el setenta por ciento (70%) del costo del curso a través del ICETEX a los educadores que integran la lista definitiva y que acepten hacer el curso y el treinta por ciento (30%) restante será asumido por el respectivo educador.
@@ -14925,8 +13017,6 @@ En ningún caso la renuncia a la cofinanciación se entenderá como renuncia al 
 
 (Adicionado por el Art. 1 del Decreto 1791 de 2021)
 
-ARTÍCULO
-
 ## art:2.4.1.4.7.5 — 7.5
 
 Ascenso y reubicación salarial de los educadores que aprueben el curso de formación cofinanciado por el Gobierno nacional. Los docentes o directivos docentes que realicen el curso de formación y lo aprueben en los términos señalados en el numeral 2 del artículo 36 del Decreto Ley 1278 de 2002, podrán ascender de grado o reubicarse de nivel salarial.
@@ -14936,8 +13026,6 @@ La reubicación de nivel salarial o el ascenso de grado en el escalafón docente
 El ascenso o la reubicación de nivel salarial en el escalafón docente sólo podrá surtirse si el educador cumplió con los requisitos habilitantes de la ECDF 2018 - 2020, dentro de los plazos y en las condiciones establecidas para la revisión de estos en el proceso mencionado. En la verificación de estos requisitos la entidad territorial certificada deberá tener presente el plazo excepcional para la obtención del título de pregrado o postgrado o la radicación de este ante la entidad territorial certificada con anterioridad a la etapa de divulgación de los resultados de la ECDF 2018-2020, en los términos establecidos en el parágrafo 3 del artículo 2.4.1.4.1.6. del presente decreto.
 
 (Adicionado por el Art. 1 del Decreto 1791 de 2021)
-
-ARTÍCULO
 
 ## art:2.4.1.4.7.6 — Actos administrativos de ascenso o reubicación
 
@@ -14955,8 +13043,6 @@ Para expedir el acto administrativo al que se refiere este artículo, las entida
 
 (Adicionado por el Art. 1 del Decreto 1791 de 2021)
 
-ARTÍCULO
-
 ## art:2.4.1.4.7.7 — Apropiación de recursos para el ascenso
 
 Las entidades territoriales certificadas en educación deberán apropiar los recursos correspondientes para el ascenso de grado o la reubicación de nivel salarial. En caso de que los recursos presupuestales resultaren insuficientes, la entidad territorial deberá apropiar dichos recursos en la siguiente vigencia fiscal y proceder al pago del ascenso de grado o la reubicación de nivel salarial con los efectos fiscales definidos en la presente sección transitoria."
@@ -14971,15 +13057,11 @@ SECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.4.1.5.1.1 — Ámbito de aplicación
 
 El presente Capítulo aplica a los servidores públicos docentes y directivos docentes de las entidades territoriales certificadas, sujetos al Estatuto de Profesionalización Docente establecido mediante el Decreto-ley 1278 de 2002.
 
 (Decreto 3782 de 2007, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.5.1.2 — Concepto
 
@@ -14988,8 +13070,6 @@ La evaluación anual de desempeño laboral del docente o del directivo docente e
 Esta evaluación es un proceso permanente que permite verificar el quehacer profesional de los educadores, identificando fortalezas y aspectos de mejoramiento, mediante la valoración de sus competencias funcionales y comportamentales.
 
 (Decreto 3782 de 2007, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.1.5.1.3 — Propósitos
 
@@ -15001,23 +13081,17 @@ Los resultados de la evaluación anual de desempeño laboral harán parte de la 
 
 (Decreto 3782 de 2007, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.1.5.1.4 — Principios
 
 La evaluación anual de desempeño laboral se sujetará a los principios de objetividad, confiabilidad, universalidad, pertinencia, transparencia, participación y concurrencia, establecidos en el artículo 29 del Decreto-ley 1278 de 2002.
 
 (Decreto 3782 de 2007, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.1.5.1.5 — Período
 
 La evaluación anual de desempeño laboral comprende el año escolar y se aplica al docente o directivo docente que haya superado el período de prueba y laborado en el establecimiento educativo, en forma continua o discontinua, un término igual o superior a tres (3) meses.
 
 Decreto 3782 de 2007, artículo 5).
-
-ARTÍCULO
 
 ## art:2.4.1.5.1.6 — Evaluador
 
@@ -15029,15 +13103,11 @@ Para realizar el proceso de evaluación anual de desempeño laboral de los docen
 
 (Decreto 3782 de 2007, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.1.5.1.7 — Responsables del proceso
 
 La evaluación anual de desempeño laboral de docentes y directivos docentes es responsabilidad, de acuerdo con lo establecido en la ley y en el presente Capítulo, de la Comisión Nacional del Servicio Civil, del Ministerio de Educación Nacional, de las secretarías de educación de las entidades territoriales certificadas, de los evaluadores y de los evaluados.
 
 (Decreto 3782 de 2007, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.1.5.1.8 — Responsabilidades de la Comisión Nacional del Servicio Civil
 
@@ -15055,8 +13125,6 @@ e) Absolver consultas que se le formulen sobre el proceso de evaluación anual d
 
 (Decreto 3782 de 2007, artículo 8).
 
-ARTÍCULO
-
 ## art:2.4.1.5.1.9 — Responsabilidades del Ministerio de Educación Nacional
 
 Además de las competencias asignadas en otras disposiciones, el Ministerio de Educación Nacional debe:
@@ -15070,8 +13138,6 @@ c) Consolidar y analizar los resultados nacionales:
 d) Orientar el mejoramiento de los procesos de formación inicial y en servicio de los docentes y directivos docentes, con base en los resultados de la evaluación anual de desempeño laboral,
 
 (Decreto 3782 de 2007, artículo 9).
-
-ARTÍCULO
 
 ## art:2.4.1.5.1.10 — Responsabilidades de la secretaría de educación de la entidad territorial certificada
 
@@ -15091,8 +13157,6 @@ f) Incorporar una copia del protocolo con el resultado final de la evaluación y
 
 (Decreto 3782 de 2007, artículo 10).
 
-ARTÍCULO
-
 ## art:2.4.1.5.1.11 — Responsabilidades del evaluador
 
 Además de las competencias asignadas en otras disposiciones, el evaluador debe:
@@ -15110,8 +13174,6 @@ e) Resolver y dar curso a los recursos que le sean interpuestos;
 f) Entregar a la secretaría de educación, en los términos que esta establezca, los resultados finales de la evaluación en los protocolos debidamente diligenciados.
 
 (Decreto 3782 de 2007, artículo 11).
-
-ARTÍCULO
 
 ## art:2.4.1.5.1.12 — Responsabilidades del evaluado
 
@@ -15133,23 +13195,17 @@ SECCIÓN 2
 
 Metodología de evaluación
 
-ARTÍCULO
-
 ## art:2.4.1.5.2.1 — Competencias
 
 Para el proceso de evaluación anual de desempeño laboral las competencias de los docentes y directivos docentes se clasifican en funcionales y comportamentales. Las funcionales representan el 70% de la evaluación y las comportamentales el 30%.
 
 (Decreto 3782 de 2007, artículo 13).
 
-ARTÍCULO
-
 ## art:2.4.1.5.2.2 — Competencias funcionales
 
 Las competencias funcionales corresponden al desempeño de las responsabilidades específicas del cargo de docente o directivo docente, definidas en la ley y la reglamentación.
 
 (Decreto 3782 de 2007, artículo 14).
-
-ARTÍCULO
 
 ## art:2.4.1.5.2.3 — Competencias funcionales para la evaluación de los directivos docentes
 
@@ -15167,8 +13223,6 @@ d) Gestión Comunitaria. Comprende competencias para generar un clima institucio
 
 (Decreto 3782 de 2007, artículo 15).
 
-ARTÍCULO
-
 ## art:2.4.1.5.2.4 — Competencias funcionales para la evaluación de los docentes
 
 La evaluación anual de desempeño laboral de los docentes valora sus competencias funcionales en tres (3) áreas de la gestión institucional, así:
@@ -15183,8 +13237,6 @@ c) Gestión comunitaria. Comprende la capacidad para interactuar efectivamente c
 
 (Decreto 3782 de 2007, artículo 16).
 
-ARTÍCULO
-
 ## art:2.4.1.5.2.5 — Competencias comportamentales
 
 Las competencias comportamentales se refiere a las actitudes, los valores, los intereses y las motivaciones con que los educadores cumplen sus funciones. Son comunes a docentes y directivos docentes. Se evaluarán las siguientes:
@@ -15192,8 +13244,6 @@ Las competencias comportamentales se refiere a las actitudes, los valores, los i
 Liderazgo, Comunicación y relaciones interpersonales, Trabajo en equipo. Negociación y mediación, Compromiso social e institucional, Iniciativa, Orientación al logro.
 
 (Decreto 3782 de 2007, artículo 17).
-
-ARTÍCULO
 
 ## art:2.4.1.5.2.6 — Escala
 
@@ -15207,8 +13257,6 @@ c. No Satisfactorio: entre 1 y 59 puntos.
 
 (Decreto 3782 de 2007, artículo 18).
 
-ARTÍCULO
-
 ## art:2.4.1.5.2.7 — Evidencias
 
 Es el conjunto de pruebas objetivas y pertinentes recolectadas a lo largo del período de evaluación, como producto del seguimiento al desempeño laboral, que podrán ser aportadas y consultadas por el evaluado y el evaluador en cualquier tiempo.
@@ -15219,8 +13267,6 @@ Estas evidencias se compilarán en una carpeta que deberá incluir el seguimient
 
 (Decreto 3782 de 2007, artículo 19).
 
-ARTÍCULO
-
 ## art:2.4.1.5.2.8 — Valoración y calificación
 
 El proceso de evaluación anual de desempeño laboral de docentes y directivos docentes comprende la valoración de las competencias definidas en el presente Capítulo.
@@ -15228,8 +13274,6 @@ El proceso de evaluación anual de desempeño laboral de docentes y directivos d
 Dicha valoración se efectuará como parte del seguimiento al desempeño, con base en las evidencias obtenidas, durante el período de evaluación y el resultado o calificación se notificará al evaluado.
 
 (Decreto 3782 de 2007, artículo 20).
-
-ARTÍCULO
 
 ## art:2.4.1.5.2.9 — Protocolo
 
@@ -15243,15 +13287,11 @@ SECCIÓN 3
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.4.1.5.3.1 — Notificación de la evaluación
 
 Concluida la evaluación, el resultado se notificará personalmente al evaluado y en caso de no ser posible se efectuará por edicto en los términos establecidos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 3782 de 2007, artículo 22).
-
-ARTÍCULO
 
 ## art:2.4.1.5.3.2 — Recursos
 
@@ -15260,8 +13300,6 @@ Contra el acto de la evaluación anual de desempeño laboral proceden los recurs
 Los recursos deben ser presentados personalmente ante el evaluador en la forma y términos establecidos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 3782 de 2007, artículo 23).
-
-ARTÍCULO
 
 ## art:2.4.1.5.3.3 — Impedimentos y recusaciones
 
@@ -15274,8 +13312,6 @@ El docente o directivo docente podrá recusar al evaluador ante el superior jer�
 Contra la decisión que resuelva la recusación o el impedimento no procede recurso alguno, de acuerdo con lo establecido en el Código General del Proceso.
 
 (Decreto 3782 de 2007, artículo 24).
-
-ARTÍCULO
 
 ## art:2.4.1.5.3.4 — Consecuencias
 
@@ -15299,15 +13335,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.4.1.6.1.1 — Objeto
 
 El presente capítulo reglamenta el concurso de méritos de carácter especial que adelantará la Comisión Nacional del Servicio Civil (CNSC) para la provisión de las vacantes definitivas que se encuentren en zonas afectadas por el conflicto armado interno, según lo dispuesto en el Decreto Ley 882 de 2017.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.1.2 — Ámbito de aplicación
 
@@ -15319,15 +13351,11 @@ SECCIÓN 2
 
 ORGANIZACIÓN Y PRESTACIÓN DEL SERVICIO
 
-ARTÍCULO
-
 ## art:2.4.1.6.2.1 — Focalización de las zonas
 
 El Ministerio de Educación Nacional, atendiendo la cobertura geográfica establecida en el artículo 3 del Decreto Ley 893 de 2017, definirá los municipios en donde se realizará la provisión de empleos rurales del sistema especial de carrera docente a través del concurso de méritos de que trata el presente capítulo.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.2.2 — Focalización de las instituciones educativas y sedes educativas
 
@@ -15337,8 +13365,6 @@ PARÁGRAFO . Para el trabajo de focalización de que trata el presente artículo
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.2.3 — Organización de las plantas de cargos
 
 Dentro de la actual planta de cargos, las entidades territoriales certificadas, previa viabilidad técnica y financiera del Ministerio de Educación Nacional, definirán una planta de cargos docentes y directivos docentes destinada exclusivamente a la prestación del servicio educativo en instituciones y sedes educativas ubicadas en las zonas rurales de los municipios focalizados en los términos indicados en los anteriores artículos de esta sección.
@@ -15346,8 +13372,6 @@ Dentro de la actual planta de cargos, las entidades territoriales certificadas, 
 El Ministerio de Educación Nacional, mediante acto administrativo, definirá las condiciones que deberán cumplir las entidades territoriales certificadas para la definición de la planta de cargos docentes y directivos docentes de que trata el presente artículo. Las modificaciones a dichas plantas se sujetarán a los procedimientos establecidos en el Capítulo 2, Título 6, Parte 4, Libro 2 de este decreto.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.2.4 — Determinación y reporte de vacantes definitivas
 
@@ -15363,15 +13387,11 @@ SECCIÓN 3
 
 CONCURSO PÚBLICO DE MÉRITOS
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.1 — Principios
 
 El concurso de méritos de carácter especial de que trata el presente capitulo estará sujeto a los principios de igualdad, oportunidad, publicidad, objetividad, imparcialidad, confiabilidad, transparencia, eficacia, eficiencia y economía.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.2 — Estructura del concurso
 
@@ -15399,23 +13419,17 @@ De conformidad con el inciso 2 del artículo 1 del Decreto Ley 882 de 2017, el c
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.3 — Convocatoria
 
 La Comisión Nacional del Servicio Civil (CNSC) adoptará mediante acto administrativo la convocatoria a concurso para la provisión de las vacantes definitivas de las plantas de cargos docentes y de directivos docentes de las zonas rurales de los municipios que se prioricen de conformidad con lo establecido en la Sección 2 de este capítulo. Dicha convocatoria será la norma reguladora de todo el concurso y obliga a todas las partes que intervienen en el mismo.
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.4 — Divulgación de la convocatoria
 
 La Comisión Nacional del Servicio Civil (CNSC) divulgará la convocatoria a través de su página Web, la cual constituye en el medio oficial de divulgación de todas las actuaciones de la convocatoria, sin perjuicio de que pueda usar otros medios que garanticen su amplia difusión.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.5 — Modificación de la convocatoria
 
@@ -15426,8 +13440,6 @@ Iniciadas las inscripciones, la convocatoria solo podrá modificarse en cuanto a
 Las modificaciones respecto de la fecha de las inscripciones y aplicación de las pruebas se divulgarán a través de la página web de la Comisión, por lo menos con cinco (5) días hábiles de anticipación a la fecha de iniciación del periodo adicional.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.6 — Requisitos para participar en el concurso
 
@@ -15467,8 +13479,6 @@ PARÁGRAFO 2. Salvo las excepciones de estudio y experiencia definidas en el pre
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.7 — Inscripción en el concurso
 
 La inscripción de los aspirantes se hará dentro del término previsto en la convocatoria, de acuerdo con la forma, los procedimientos y requisitos señalados en la misma. El término para realizar la inscripción no podrá ser inferior a quince (15) días calendario.
@@ -15476,8 +13486,6 @@ La inscripción de los aspirantes se hará dentro del término previsto en la co
 La información sobre el cumplimiento de los requisitos para la inscripción al concurso se entenderá suministrada bajo juramento por parte del aspirante. Efectuada la inscripción, dicha información no podrá ser modificada o actualizada.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.8 — Derechos de participación
 
@@ -15497,15 +13505,11 @@ Una vez concluido el cobro de derechos de participación, la Comisión Nacional 
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.9 — Desarrollo del concurso público de méritos
 
 De conformidad con el artículo 3 del Decreto Ley 760 de 2005 modificado por el artículo 134 de la Ley 1753 de 2015, y la Sentencia C-518 de 2016.la Comisión Nacional del Servicio Civil (CNSC) podrá contratar o suscribir convenios administrativos con el Instituto Colombiano para la Evaluación de la Educación (ICFES), o con una institución de educación superior pública o privada acreditada por el Ministerio de Educación Nacional, el desarrollo de una o varias etapas del concurso de méritos regulado en el presente capítulo,
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.10 — Pruebas escritas a aplicar
 
@@ -15541,8 +13545,6 @@ Esta prueba, que tiene por objeto valorarlos niveles de conocimientos, habilidad
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.11 — Citación para la aplicación de las pruebas
 
 Los aspirantes deben ser citados con fecha, hora y lugar para presentar las pruebas de conocimientos específicos y pedagógicos, y la prueba psicotécnica.
@@ -15550,8 +13552,6 @@ Los aspirantes deben ser citados con fecha, hora y lugar para presentar las prue
 Es competencia de la Comisión Nacional del Servicio Civil (CNSC) o la entidad encargada para la aplicación de las pruebas realizar la citación con una antelación de mínimo diez (10) días calendario.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.12 — Publicación de los resultados de las pruebas escritas y reclamaciones
 
@@ -15562,8 +13562,6 @@ Frente a los resultados de las pruebas escritas, los aspirantes contarán con al
 PARÁGRAFO . En los eventos en que el Instituto Colombiano para la Evaluación de la Educación (ICFES) tenga a su cargo el desarrollo de la prueba de conocimientos específicos y pedagógicos y la prueba psicotécnica, el Ministerio de Educación Nacional podrá celebrar un contrato interadministrativo con esta entidad para financiar el diseño de cualquiera de estas pruebas.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.13 — Presentación de la documentación y verificación de los requisitos
 
@@ -15576,8 +13574,6 @@ La Comisión Nacional del Servicio Civil (CNSC) anunciará a través de su pági
 Una vez sean atendidas las reclamaciones se publicará el listado definitivo de los aspirantes admitidos a continuar en el proceso de selección por mérito.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.14 — Valoración de antecedentes
 
@@ -15599,8 +13595,6 @@ PARÁGRAFO . La tabla de calificación de la prueba de valoración de antecedent
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.15 — Ponderación y resultados de la prueba de valoración de antecedentes
 
 La valoración de antecedentes tendrá una ponderación dentro del concurso del cuarenta por ciento (40%) para docentes y directivos docentes.
@@ -15611,8 +13605,6 @@ La Comisión Nacional del Servicio Civil (CNSC), a través del Instituto Colombi
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.16 — Consolidación de resultados de las pruebas y publicación
 
 La Comisión Nacional del Servicio Civil (CNSC), luego de actualizados los resultados con la atención de las reclamaciones, publicará los resultados consolidados de las tres (3) pruebas del concurso, para lo cual deberá anunciar la fecha de esta publicación en su página web con una antelación de mínimo cinco (5) días hábiles. Igualmente, en dicha publicación deberá indicar los medios y tiempos de presentación de las aclaraciones que podrán solicitar los aspirantes, las cuales únicamente pueden estar referidas a su nombre, número de identificación o cuando en dicha compilación se presenten errores formales o aritméticos en alguno de los puntajes de las pruebas y de la valoración de antecedentes del concurso que fueron publicados previamente.
@@ -15620,8 +13612,6 @@ La Comisión Nacional del Servicio Civil (CNSC), luego de actualizados los resul
 Las aclaraciones presentadas deben ser resueltas por la Comisión Nacional del Servicio Civil (CNSC) antes de que proceda a adoptar las listas de elegibles.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.17 — Listas de elegibles
 
@@ -15631,8 +13621,6 @@ Las listas de elegibles territoriales incluirán la posición, los nombres y ape
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.18 — Validez de las listas de elegibles
 
 Las listas de elegibles estarán vigentes durante dos (2) años a partir de su firmeza y tendrán validez únicamente para los empleos convocados de cada uno de los municipios que integran las zonas afectadas por el conflicto armado, definidas por el Ministerio de Educación Nacional de conformidad con los Planes de Desarrollo con Enfoque Territorial (PDET), en la correspondiente entidad territorial certificada, y para todas las nuevas vacantes definitivas que se generen durante la vigencia de dichas listas, para las referidas zonas.
@@ -15640,8 +13628,6 @@ Las listas de elegibles estarán vigentes durante dos (2) años a partir de su f
 PARÁGRAFO . La planta de cargos que se conforme con base en la lista de elegibles estará destinada exclusivamente a la prestación del servicio educativo en instituciones educativas o sedes rurales ubicadas en los municipios a los que se refiere el presente artículo, de conformidad con lo dispuesto en el artículo 2 del Decreto Ley 882 de 2017.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.19 — Exclusión de listas de elegibles
 
@@ -15663,15 +13649,11 @@ Dentro de los cinco (5) días hábiles siguientes a la publicación de la lista 
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.20 — Actuación administrativa para la exclusión de listas de elegibles
 
 Las actuaciones administrativas adelantadas por la Comisión Nacional del Servicio Civil se regirán por lo dispuesto en el Decreto Ley 760 de 2005 y las disposiciones propias Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.21 — Audiencia pública de escogencia de vacante definitiva en establecimiento educativo
 
@@ -15689,8 +13671,6 @@ PARÁGRAFO . Las audiencias públicas de que trata el presente artículo se desa
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.3.22 — Nombramiento en periodo de prueba y evaluación
 
 Dentro de los cinco (5) días hábiles siguientes a la realización de la audiencia pública de escogencia de vacante definitiva en alguna de las instituciones educativas o sedes señaladas en el artículo 2.4.1.6.2.2 del presente decreto, la entidad territorial certificada debe expedir el acto administrativo de nombramiento en período de prueba del educador y comunicarlo al interesado, siempre respetando la vacante seleccionada por el elegible.
@@ -15702,8 +13682,6 @@ Al final del período de prueba, el educador será evaluado siguiendo el protoco
 PARÁGRAFO . Los educadores de que trata el Decreto Ley 882 de 2017 solo podrán ocupar cargos del sistema especial de carrera docente en otros lugares del país, previa aprobación de un nuevo concurso convocado por la Comisión Nacional del Servicio Civil (CNSC) para las plantas de cargos diferentes a las que regula el presente capítulo.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3.23 — Garantías para servidores públicos con derechos de carrera durante un nuevo período de prueba
 
@@ -15731,8 +13709,6 @@ SECCIÓN 4
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.4.1.6.4.1 — Inscripción en el escalafón docente
 
 Quien supere el concurso de méritos de carácter especial de que trata el presente capítulo y, posteriormente, la evaluación del período de prueba, tendrá derecho a inscribirse en el Escalafón Docente de que trata el Decreto Ley 1278 de 2002, siempre y cuando cumpla con los requisitos establecidos en el artículo 21 de la citada normativa para cada uno de los grados.
@@ -15751,8 +13727,6 @@ PARÁGRAFO 2. El profesional con título diferente al del licenciado en educaci�
 
 (Decreto 1578 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.4.2 — Actualización en el escalafón docente
 
 Los educadores con derechos de carrera en el marco del Decreto 1278 de 2002, que hayan participado en el concurso de méritos de carácter especial y hayan sido nombrados en período de prueba, adquieren derechos de carrera en el nuevo cargo una vez superado dicho período, y podrán acreditar un nuevo título que les permita actualizar su escalafón, para lo cual se aplicará lo dispuesto por el artículo 2.4.1.1.23 del presente decreto.
@@ -15760,8 +13734,6 @@ Los educadores con derechos de carrera en el marco del Decreto 1278 de 2002, que
 Los educadores que decidan continuar con derechos de carrera previstos en el Decreto ley 2277 de 1979, superen el período de prueba y acepten continuar en el nuevo cargo, continuarán vinculados sin solución de continuidad, y se les reconocerá su escalafón y las condiciones de carrera establecidas por ese estatuto docente.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.4.3 — Apoyo al fortalecimiento de capacidades
 
@@ -15772,8 +13744,6 @@ El Ministerio de Educación Nacional acompañará a las entidades territoriales 
 PARÁGRAFO . Los educadores nombrados en propiedad podrán participar en los programas de formación para actualización pedagógica o disciplinar que definan las entidades territoriales certificadas en su Plan Territorial de Formación Docente.
 
 (Decreto 1578 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.4.4 — Conservación de las vacantes ofertadas en el concurso público de méritos iniciado en el año 2016
 
@@ -16195,8 +14165,6 @@ SUBSECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.4.2.1.1.1.1 — Condiciones para ingreso al escalafón nacional docente
 
 De conformidad con el artículo 10 del Decreto-ley 2277 de 1979, tienen derecho a inscribirse en el Escalafón Nacional Docente los educadores titulados en planteles oficiales y no oficiales aprobados por el Ministerio de Educación Nacional.
@@ -16221,8 +14189,6 @@ Los Profesionales Universitarios que además de su título acrediten uno de los 
 
 (Decreto 259 de 1981, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.2.1.1.1.2 — Procedimiento para ingreso
 
 El educador no escalafonado que de conformidad con el Decreto-ley 2277 de 1979 tenga derecho a inscribirse en el Escalafón Nacional Docente, deberá presentar los siguientes documentos:
@@ -16241,8 +14207,6 @@ El educador con título docente que sea nombrado legal y reglamentariamente por 
 
 (Decreto 259 de 1981, artículo 2, adicionado el Decreto 897 de 1981, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.2.1.1.1.3 — Entrega de documentos
 
 Los documentos requeridos para efectos de inscripción, ascenso o reinscripción en el Escalafón pueden ser entregados personalmente por el interesado o a través del Director o Rector de la Institución donde el educador preste sus servicios, a la entidad territorial certificada correspondiente, la cual los aceptará bajo recibo, si estuvieren completos, con indicación de la fecha y relación de los documentos entregados.
@@ -16251,15 +14215,11 @@ Cuando en el lugar de trabajo del educador no se disponga del formulario oficial
 
 (Decreto 259 de 1981, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.2.1.1.1.4 — Tramitación a través del director o rector
 
 Cuando el Educador haga entrega de todos los documentos requeridos para inscripción o ascenso al Director o Rector de la institución educativa donde trabaja, dichos funcionarios estarán obligados a presentarlos ante la entidad territorial certificada, dentro de los diez (10) días siguientes a la fecha de recibo.
 
 (Decreto 259 de 1981, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.2.1.1.1.5 — Principios
 
@@ -16270,8 +14230,6 @@ Los funcionarios de las entidades territoriales responsables del trámite de las
 SUBSECCIÓN 2
 
 Requisitos para desempeñar los cargos directivos docentes establecidos por el Decreto-ley 2277 de 1979
-
-ARTÍCULO
 
 ## art:2.4.2.1.1.2.1 — Requisitos
 
@@ -16284,8 +14242,6 @@ La capacitación especial de un año, por lo menos, en educación preescolar sus
 2. Para el nivel básico segundario y medio vocacional el título de universitario, grado octavo en el Escalafón Nacional docente y cinco (5) años de experiencia docente, dos (2) de ellos, por lo menos, en el grado octavo o en la antigua primera categoría de secundaria.
 
 (Decreto 610 de 1980, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.2.1.1.2.2 — Evaluación de los directivos
 
@@ -16302,8 +14258,6 @@ Si el fallo fuere desfavorable, el directivo docente deberá ser reemplazado de 
 SECCIÓN 2
 
 Ascenso en el escalafón el escalafón para educadores regidos por el Decreto Ley 2277 de 1979
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.1 — Documentos requeridos para ascenso
 
@@ -16323,15 +14277,11 @@ PARÁGRAFO . Cuando el tiempo de servicio del docente no oficial no aparezca cer
 
 (Decreto 259 de 1981, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.2 — Ascenso de educadores titulados
 
 El ascenso de los educadores que poseen título docente o título profesional Universitario diferente al de Licenciado en Ciencias de la Educación, se regirá por lo dispuesto en el artículo 10 del Decreto-ley 2277 de 1979. Cuando para obtener el ascenso requieran de un curso de capacitación, deben acreditar la certificación de los créditos necesarios.
 
 (Decreto 259 de 1981, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.3 — Ascenso al grado 14
 
@@ -16345,8 +14295,6 @@ Corresponde a las instituciones de educación superior certificar la idoneidad d
 
 (Decreto 259 de 1981, artículo 8, modificado por el Decreto 897 de 1981, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.4 — Ascenso de educadores sin título
 
 El ascenso de los educadores sin título docente se regirá por lo dispuesto en los artículos 77, 78, 79, 80 y 81 del Decreto-ley 2277 de 1979. Cuando para obtener el ascenso se requiera de curso de capacitación deberá acreditarse la certificación de los créditos necesarios.
@@ -16355,15 +14303,11 @@ PARÁGRAFO . De conformidad con lo dispuesto en los artículos 77 y 78 citados, 
 
 (Decreto 259 de 1981, artículo 9).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.5 — Tiempo de servicio para ascenso
 
 Los años de servicio para ascenso en el escalafón podrán ser continuos o discontinuos y laborados en establecimientos educativos oficiales y no oficiales aprobados por las entidades territoriales.
 
 (Decreto 259 de 1981, artículo 10).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.6 — Tiempo de servicio por hora cátedra
 
@@ -16379,8 +14323,6 @@ Las horas cátedra dictadas en planteles no ofíciales deberán ser acreditadas 
 
 (Decreto 259 de 1981, artículo 11).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.7 — Ascenso por título
 
 El educador escalafonado que acredite un título docente o un título profesional universitario, distinto al que le sirvió para el ingreso al escalafón, adquiere el derecho de ascenso al grado que le corresponde en virtud del título. Se exceptúa el ascenso al grado 14 para el cual deben reunirse los demás requisitos establecidos en el artículo 10 del Decreto-ley 2277 de 1979.
@@ -16389,15 +14331,11 @@ Los educadores asimilados sin título docente tienen también derecho a ascenso 
 
 (Decreto 259 de 1981, artículo 12).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.8 — Tiempo de servicio por estudios superiores
 
 Los educadores con título docente y los profesionales con título universitario diferente al de licenciado, que obtengan un título de posgrado en educación u otro título universitario de nivel profesional debidamente reconocido por el Gobierno Nacional, en una carrera que ofrezca un mejoramiento académico dentro del área de su especialización, se le reconocerán tres (3) años de servicios para efectos de ascenso en el escalafón.
 
 (Decreto 259 de 1981, artículo 13).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.9 — Relación de personal docente de establecimiento educativo no oficial
 
@@ -16407,8 +14345,6 @@ Dicha relación incluirá, igualmente, a quienes hubieren desempeñado los cargo
 
 (Decreto 597 de 1980, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.10 — Firma y envío de/a relación de personal docente
 
 La relación levantada en la forma que ha quedado expuesta será firmada y sellada por el Director y el Secretario del plantel.
@@ -16417,23 +14353,17 @@ Copia de la anterior relación deberá ser enviada por el rector a la secretarí
 
 (Decreto 597 de 1980, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.11 — Sanciones por incumplimiento de los deberes respecto de la relación docente
 
 Por la inobservancia de lo dispuesto en los artículos 2.4.2.1.2.9 y 2.4.2.1.2.10 de este Decreto, se sancionará al rector del establecimiento con multas sucesivas de hasta cincuenta mil pesos hasta cuando se subsane la omisión.
 
 (Decreto 597 de 1980, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.12 — Reincidencia en la comisión de infracciones
 
 Cuando el rector haya sido sancionado por más de dos (2) veces debido al incumplimiento de lo dispuesto en los artículos 2.4.2.1.2.9 y 2.4.2.1.2.10 de este Decreto, se procederá a la suspensión de la licencia de funcionamiento o a la cancelación de la aprobación del plantel, según se estime más procedente.
 
 (Decreto 597 de 1980, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.13 — Competencia sancionatoria
 
@@ -16445,8 +14375,6 @@ SUBSECCIÓN 1
 
 Aceptación y evaluación de obras escritas para ascenso en el escalafón
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.1.1 — Reconocimiento
 
 De conformidad con lo dispuesto por el artículo 42 del Decreto-ley 2277 de 1979, el educador escalafonado que sea autor de obras didácticas, técnicas o científicas aceptadas como tales por las entidades territoriales certificadas, en los términos establecidos en la presente Subsección, se le reconocerá dos (2) años de servicio para ascenso en el escalafón por cada obra y hasta un máximo de tres (3) obras, siempre que las mismas no hayan sido anteriormente reconocidas como válidas para clasificación y ascenso.
@@ -16454,8 +14382,6 @@ De conformidad con lo dispuesto por el artículo 42 del Decreto-ley 2277 de 1979
 Si la obra hubiere sido escrita por dos (2) o más educadores, el reconocimiento del tiempo de servicio se dividirá proporcionalmente entre los distintos autores inscritos.
 
 (Decreto 385 de 1998, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.1.2 — Definiciones
 
@@ -16471,8 +14397,6 @@ Todas las obras deberán tener bases de investigación sistemática o de innovac
 
 (Decreto 385 de 1998, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.1.3 — Aceptación de las obras
 
 La aceptación como obras didácticas o pedagógicas, técnicas o científicas cuyo contenido haga referencia a los campos de acción de la educación superior, continuarán siendo evaluadas por las entidades territoriales certificadas.
@@ -16480,8 +14404,6 @@ La aceptación como obras didácticas o pedagógicas, técnicas o científicas c
 La aceptación de las obras didácticas o pedagógicas, técnicas o científicas que versen sobre temas distintos a los enunciados en el inciso anterior, será efectuada por las entidades territoriales certificadas, como autoridades competentes, en los términos de la Ley 715 de 2001.
 
 (Decreto 385 de 1998, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.1.4 — Evaluación de la Obra
 
@@ -16499,8 +14421,6 @@ PARÁGRAFO . El estudio y el otorgamiento del concepto no causan erogación algu
 
 (Decreto 385 de 1998, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.1.5 — Criterios para evaluar
 
 El Ministerio de Educación Nacional adoptará los criterios y procedimientos generales que deben tener en cuenta los departamentos y distritos al momento de evaluar las respectivas obras, entre los que necesariamente deberá contemplar aspectos relacionados con la orientación, la adecuación, la calidad científica y pedagógica, la organización, el lenguaje utilizado y la presentación de la obra.
@@ -16511,15 +14431,11 @@ SUBSECCIÓN 2
 
 Vigencia de los ascensos
 
-ARTÍCULO
-
 ## art:2.4.2.1.2.2.1 — Términos para decidir y vigencia de los ascensos
 
 Las solicitudes de ascenso en el escalafón nacional docente, serán resueltas por las entidades territoriales certificadas en los términos de ley al recibo de la respectiva documentación, siempre y cuando llene todos los requisitos exigidos en el artículo 2.4.2.1.2.1. El ascenso surte efectos fiscales a partir de la fecha de la resolución que lo ordena, y en todo caso, a partir del vencimiento del plazo para resolver, contado a partir del recibo de la documentación completa.
 
 (Decreto 259 de 1981, artículo 21).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.2.2 — Vigencia retardada
 
@@ -16528,8 +14444,6 @@ En los términos del anterior artículo, si la documentación es devuelta por in
 La resolución que decrete un ascenso dejará expresa constancia de la fecha a partir de la cual se surtan efectos fiscales, de acuerdo con lo expresado en este artículo.
 
 (Decreto 259 de 1981, artículo 22).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.2.3 — Tiempo de servicio para el nuevo ascenso
 
@@ -16540,8 +14454,6 @@ El tiempo de servicio laborado por el docente, que éste acredite con el lleno d
 Cuando por acumulación de requisitos un docente deba ascender varios grados, la entidad territorial certificada puede decidir dichos ascensos mediante un solo acto administrativo.
 
 (Decreto 259 de 1981, artículo 23).
-
-ARTÍCULO
 
 ## art:2.4.2.1.2.2.4 — Tiempo de servicio sobrante
 
@@ -16557,8 +14469,6 @@ SUBSECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.1.1 — Objeto
 
 La presente Sección señala las orientaciones, los criterios y las reglas generales para la organización y el desarrollo de programas académicos y de perfeccionamiento que tengan por finalidad la formación y el mejoramiento profesional de los educadores, para prestar el servicio en los distintos niveles y ciclos de la educación formal, para el trabajo y el desarrollo humano y de la educación informal, incluidas las distintas modalidades de atención educativa a poblaciones.
@@ -16569,8 +14479,6 @@ La formación de educadores para el servicio público de la educación superior,
 
 (Decreto 709 de 1996, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.1.2 — Formación de Educadores
 
 La formación de educadores debe fundamentarse en los fines y objetivos de la educación, establecidos en la Ley 115 de 1994 y en especial atenderá los fines generales que orientan dicha formación, señalados en el artículo 109 de la misma Ley. Tendrá en cuenta además, la trascendencia que el ejercicio de la profesión de educador tiene sobre la comunidad local y regional.
@@ -16578,8 +14486,6 @@ La formación de educadores debe fundamentarse en los fines y objetivos de la ed
 La formación de educadores debe entenderse como un conjunto de procesos y estrategias orientados al mejoramiento continuo de la calidad y el desempeño del docente, como profesional de la educación. Su reconocimiento como requisito para el ascenso en el Escalafón Nacional Docente constituye solamente una condición administrativa y un estímulo para la dignificación profesional.
 
 (Decreto 709 de 1996, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.1.3 — De los programas académicos para la formación de educadores
 
@@ -16591,15 +14497,11 @@ SUBSECCIÓN 2
 
 Régimen de los programas de formación de educadores
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.2.1 — Formación de los educadores
 
 De conformidad con el artículo 111 de la Ley 115 de 1994, la profesionalización, actualización, especialización y perfeccionamiento de los educadores comprenderá la formación inicial y de pregrado, la formación de posgrado y la formación permanente o en servicio.
 
 (Decreto 709 de 1996, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.2.2 — De la formación inicial y de pregrado
 
@@ -16611,8 +14513,6 @@ También las Escuelas Normales Superiores, como unidades de apoyo académico, po
 
 (Decreto 709 de 1996, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.2.3 — De la formación de posgrado
 
 La formación de posgrado está dirigida al perfeccionamiento científico e investigativo de los educadores, a nivel de especialización, maestría, doctorado y posdoctorado en educación, en los términos del artículo 10 de la Ley 30 de 1992.
@@ -16620,8 +14520,6 @@ La formación de posgrado está dirigida al perfeccionamiento científico e inve
 Corresponde a las universidades y demás instituciones de educación superior que posean una facultad de educación u otra unidad académica dedicada a la educación, ofrecer programas de formación de posgrado a los educadores, siempre y cuando se encuentren facultadas por la Ley o autorizadas por el Ministro de Educación Nacional, de conformidad con lo dispuesto en el parágrafo del artículo 21 de la Ley 30 de 1992.
 
 (Decreto 709 de 1996, artículo 6).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.2.4 — De la formación permanente
 
@@ -16638,8 +14536,6 @@ Las escuelas normales superiores podrán igualmente ofrecer programas de formaci
 PARÁGRAFO . Constituyen igualmente formación permanente o en servicio, los cursos ofrecidos por instituciones y organismos internacionales o los realizados por instituciones de educación superior del exterior, reconocidas de acuerdo con las normas que rigen en cada país, cuya finalidad sea la actualización y perfeccionamiento de educadores.
 
 (Decreto 709 de 1996, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.2.5 — Estructura de los programas de formación
 
@@ -16661,8 +14557,6 @@ SUBSECCIÓN 3
 
 Investigación pedagógica
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.3.1 — Programas de estudios científicos de la educación
 
 Las secretarías de educación departamentales y distritales, con la asesoría de los respectivos comités de capacitación de docentes a que se refiere la Subsección 5 de esta Sección, en desarrollo de sus políticas de mejoramiento de la calidad educativa, organizarán programas dirigidos a fomentar estudios científicos de la educación, con el objeto de fortalecer la formación personal y profesional de los educadores que prestan el servicio en su territorio.
@@ -16670,8 +14564,6 @@ Las secretarías de educación departamentales y distritales, con la asesoría d
 Estos programas deberán estimular innovaciones educativas y propuestas de utilidad pedagógica, científica y social, cuya aplicación permita el mejoramiento cualitativo del proyecto educativo institucional y, en general, del servicio público educativo.
 
 (Decreto 709 de 1996, artículo 9).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.3.2 — Propuestas de Programas
 
@@ -16683,8 +14575,6 @@ Las propuestas de investigación aprobadas se ejecutarán con la asesoría de un
 
 (Decreto 709 de 1996, artículo 10).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.3.3 — Reglamentación
 
 Los departamentos y distritos, con la asesoría de los respectivos comités de capacitación de docentes, reglamentarán lo dispuesto en esta Subsección y podrán disponer en su presupuesto de recursos para adelantar y difundir los estudios científicos de educación que así lo ameriten, de acuerdo con las recomendaciones de la Comisión Regional de Ciencia y Tecnología o quien haga sus veces.
@@ -16695,8 +14585,6 @@ SUBSECCIÓN 4
 
 Reglas generales para el reconocimiento de los programas de formación de educadores como requisito para la incorporación y ascenso en el escalafón nacional docente
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.4.1 — De la acreditación de los programas para la formación docente
 
 De conformidad con lo dispuesto en el artículo 113 de la Ley 115 de 1994, todos los programas académicos para la formación de docentes, ofrecidos por las universidades y demás instituciones de educación superior que posean facultades de educación u otra unidad académica dedicada a la educación, deberán adelantar obligatoriamente el proceso de evaluación que lleve a la acreditación previa de dichos programas atendiendo las políticas que en lo pertinente adopte el Consejo Nacional de Educación Superior - CESU.
@@ -16704,8 +14592,6 @@ De conformidad con lo dispuesto en el artículo 113 de la Ley 115 de 1994, todos
 Para el caso de las escuelas normales superiores, la acreditación previa obligatoria se hará de conformidad con los requisitos mínimos de infraestructura, pedagogía, administración, financiación y dirección que establezca el Ministerio de Educación Nacional y de acuerdo con el reglamento del Sistema Nacional de Acreditación a que se refiere el artículo 74 de la Ley 115 de 1994.
 
 (Decreto 709 de 1996, artículo 12).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.4.2 — Registro de programas de formación permanente o en servicio
 
@@ -16721,8 +14607,6 @@ Los procedimientos para su estudio, registro, aceptación u objeción se regirá
 
 (Decreto 709 de 1996, artículo 13).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.4.3 — Aceptación de la formación permanente para el ascenso
 
 Salvo lo dispuesto en los artículos 2.4.2.1.3.4.6. y 2.4.2.1.3.4.8. del presente Decreto, el registro de un programa de formación permanente o en servicio, la certificación expedida por la institución competente en los términos de los artículos 2.4.2.1.3.2.2., 2.4.2.1.3.2.3., 2.4.2.1.3.2.4. y 2.4.2.1.3.4.5. de este Decreto y la constancia del rector o director del establecimiento educativo sobre el campo de desempeño del docente, constituirán los únicos requisitos para que la respectiva entidad territorial certificada acepte la formación permanente recibida, para efectos de acreditar el curso de capacitación exigido para el ascenso en el Escalafón Nacional Docente,
@@ -16730,8 +14614,6 @@ Salvo lo dispuesto en los artículos 2.4.2.1.3.4.6. y 2.4.2.1.3.4.8. del present
 Los programas de formación permanente o en servicio que atienda el docente, deben responder a su área de formación profesional o constituir complementación pedagógica para el mejoramiento de su desempeño como educador.
 
 (Decreto 709 de 1996, artículo 14).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.4.4 — Del requisito de capacitación para ingreso y ascenso de los educadores
 
@@ -16741,8 +14623,6 @@ Un crédito académico es aquella medida equivalente a una intensidad de cuarent
 
 (Decreto 709 de 1996, artículo 15).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.4.5 — Educadores no licenciados
 
 Los profesionales que hayan obtenido un título distinto al de licenciado en educación y que por necesidades del servicio ejerzan la docencia en la educación por niveles y grados, podrán ser inscritos en el Escalafón Nacional Docente, en el grado correspondiente, de acuerdo con el Estatuto Docente, siempre y cuando hayan cursado y aprobado programas especiales de estudios pedagógicos que tengan una duración no inferior a un (1) año y que estos sean ofrecidos por las universidades y demás instituciones de educación superior, nacionales o extranjeras que posean una facultad de educación u otra unidad académica dedicada a la educación.
@@ -16750,8 +14630,6 @@ Los profesionales que hayan obtenido un título distinto al de licenciado en edu
 Los Comités de capacitación de docentes determinarán la intensidad presencial mínima que deben tener dichos programas, para efectos del registro previo regulado en esta Sección.
 
 (Decreto 709 de 1996, artículo 16).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.4.6 — De la participación en un estudio científico de la educación
 
@@ -16762,8 +14640,6 @@ Recibido el informe, la secretaría de educación solicitará su evaluación y c
 La certificación que al respecto expida la Comisión tiene igual valor que los requisitos exigidos en el inciso primero del artículo 2.4.2.1.3.4.3. de este Decreto.
 
 (Decreto 709 de 1996, artículo 17).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.4.7 — Créditos
 
@@ -16779,8 +14655,6 @@ PARÁGRAFO . Los profesionales a que se refiere el artículo 2.4.2.1.3.4.5. de e
 
 (Decreto 709 de 1996, artículo 18).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.4.8 — De los programas de formación en pregrado y pos grado de educación
 
 Los normalistas superiores que adelanten programas de formación de pregrado en educación, podrán hacer valer, por una sola vez, la formación parcial correspondiente a dos (2) semestres o a un (1) año académico completo, siempre y cuando los haya aprobado, como requisito de capacitación para el ascenso al grado inmediatamente siguiente del Escalafón Nacional Docente que exija curso, de acuerdo con su título.
@@ -16795,8 +14669,6 @@ SUBSECCIÓN 5
 
 Comités territoriales de capacitación de docentes
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.5.1 — Comité de Capacitación de Docentes
 
 De conformidad con el artículo 111 de la Ley 115 de 1994, en cada departamento y distrito se creará un comité de capacitación de docentes que estará bajo la dirección de la secretaría de educación respectiva.
@@ -16806,8 +14678,6 @@ A este Comité se incorporarán de manera permanente, representantes de las univ
 El secretario de educación departamental o distrital determinará la dependencia de su despacho que ejercerá la secretaría técnica permanente de dicho Comité.
 
 (Decreto 709 de 1996, artículo 20).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.5.2 — Funciones específica del Comité de Capacitación de Docente
 
@@ -16831,15 +14701,11 @@ SUBSECCIÓN 6
 
 Planeación de los programas de formación
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.6.1 — Crédito educativo
 
 De acuerdo con lo dispuesto en la Ley 152 de 1994 y en el correspondiente Plan Nacional de Desarrollo, el Gobierno Nacional, en la elaboración del proyecto de presupuesto para cada vigencia, propondrá la destinación de los recursos para la operación cofinanciada con las entidades territoriales, del programa de crédito educativo para la formación de pregrado y de posgrado en educación del personal docente del servicio educativo estatal, ordenado en el artículo 135 de la Ley 115 de 1994.
 
 (Decreto 709 de 1996, artículo 22).
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.6.2 — 6.2
 
@@ -16851,23 +14717,17 @@ Esta propuesta deberá contener acciones y programas de formación específica p
 
 (Decreto 709 de 1996, artículo 23).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.6.3 — Acceso a los programas de formación permanente
 
 Todos los educadores vinculados al servicio público educativo, tanto estatales como privados, tendrán acceso a los programas de formación permanente o en servicio en cuya organización participen los comités de capacitación de docentes, en las condiciones que para el efecto determine la entidad territorial.
 
 (Decreto 709 de 1996, artículo 25).
 
-ARTÍCULO
-
 ## art:2.4.2.1.3.6.4 — Orientaciones
 
 De conformidad con lo establecido en el literal c) numeral 4 del artículo 148 de la Ley 115 de 1994, el Ministerio de Educación Nacional mediante circulares y directivas, proporcionará criterios y orientaciones para el cabal cumplimiento de lo dispuesto en la presente Sección.
 
 (Decreto 709 de 1996, artículo 26)
-
-ARTÍCULO
 
 ## art:2.4.2.1.3.6.5 — Oferta de programas de formación permanente
 
@@ -16879,15 +14739,11 @@ SECCIÓN 4
 
 Ascenso en el escalafón nacional docente, de los docentes y directivos docentes en carrera del instituto técnico industrial "pascual bravo"
 
-ARTÍCULO
-
 ## art:2.4.2.1.4.1 — Ámbito de aplicación
 
 La presente Sección aplica a los docentes y directivos docentes en carrera, escalafonados de acuerdo con el Decreto-ley 2277 de 1979, que se encuentran laborando en el Instituto Técnico Industrial Pascual Bravo y se financian con recursos del Presupuesto Nacional asignados al Instituto Tecnológico Pascual Bravo.
 
 (Decreto 776 de 2007, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.2.1.4.2 — Trámite de las solicitudes de ascenso
 
@@ -16895,15 +14751,11 @@ Las solicitudes de ascenso de los docentes y directivos docentes que se encuentr
 
 (Decreto 776 de 2007, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.2.1.4.3 — Financiación de los ascensos
 
 Para financiar los ascensos en el escalafón de que trata el presente Sección, el servidor público responsable de la ejecución presupuestal del Instituto Tecnológico Pascual Bravo deberá expedir el respectivo certificado de la disponibilidad presupuestal y efectuar las provisiones correspondientes con cargo a los recursos que administra.
 
 (Decreto 776 de 2007, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.2.1.4.4 — Remisión
 
@@ -16919,15 +14771,11 @@ CAPÍTULO 1
 
 JORNADA ESCOLAR
 
-ARTÍCULO
-
 ## art:2.4.3.1.1 — Jornada escolar
 
 Es el tiempo diario que dedica el establecimiento educativo a sus estudiantes en la prestación directa del servicio público educativo, de conformidad con las normas vigentes sobre calendario académico y con el plan de estudios.
 
 (Decreto 1850 de 2002, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.3.1.2 — Horario de la jornada escolar
 
@@ -16965,8 +14813,6 @@ Parágrafo 3º. El tiempo de la jornada escolar incluirá el descanso pedagógic
 
 (Modifica Art 1 del decreto 277 de 2025)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3 — Períodos de clase
 
 Son las unidades de tiempo en que se divide la jornada escolar para realizar las actividades pedagógicas propias del desarrollo de las áreas obligatorias y fundamentales y de las asignaturas optativas contempladas en el plan de estudios.
@@ -16974,8 +14820,6 @@ Son las unidades de tiempo en que se divide la jornada escolar para realizar las
 Los períodos de clase serán definidos por el rector o director del establecimiento educativo al comienzo de cada año lectivo y pueden tener duraciones diferentes de acuerdo con el plan de estudios, siempre y cuando el total semanal y anual, contabilizado en horas efectivas, sea igual a la intensidad mínima definida en el artículo anterior.
 
 (Decreto 1850 de 2002, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.3.1.4 — Establecimientos educativos con varias jornadas escolares
 
@@ -16986,8 +14830,6 @@ Mientras se ajustan a lo dispuesto en el artículo 85 de la Ley General de Educa
 CAPÍTULO 2
 
 ACTIVIDADES EDUCATIVAS DE DOCENTES Y DIRECTIVOS DOCENTES
-
-ARTÍCULO
 
 ## art:2.4.3.2.1 — Asignación académica
 
@@ -17017,8 +14859,6 @@ Parágrafo. Para todos los efectos, la jornada escolar, laboral presencial y per
 
 (Modifica Art 2 del decreto 277 de 2025)
 
-ARTÍCULO
-
 ## art:2.4.3.2.2 — Servicio de orientación estudiantil
 
 Todos los directivos docentes y los docentes deben brindar orientación a sus estudiantes, en forma grupal o individual, con el propósito de contribuir a su formación integral, sin que la dirección de grupo implique para el docente de educación básica secundaria y educación media una disminución de su asignación académica de veintidós (22) horas efectivas semanales.
@@ -17027,15 +14867,11 @@ No obstante, para apoyar el servicio de orientación estudiantil, en cumplimient
 
 (Decreto 1850 de 2002, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.3.2.3 — Distribución de actividades de los docentes
 
 Para el desarrollo de las cuarenta (40) semanas lectivas de trabajo académico con estudiantes, definidas en el calendario académico, el rector o director del establecimiento educativo, fijará el horario de cada docente, distribuido para cada día de la semana, discriminando el tiempo dedicado al cumplimiento de la asignación académica y a las actividades curriculares complementarias.
 
 (Decreto 1850 de 2002, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.3.2.4 — Actividades de desarrollo institucional
 
@@ -17051,23 +14887,17 @@ CAPÍTULO 3
 
 JORNADA LABORAL DE DOCENTES Y DE DIRECTIVOS DOCENTES
 
-ARTÍCULO
-
 ## art:2.4.3.3.1 — Jornada laboral de los docentes
 
 Es el tiempo que dedican los docentes al cumplimiento de la asignación académica; a la ejecución de actividades curriculares complementarias tales como la administración del proceso educativo; la preparación de su tarea académica; la evaluación, la calificación, planeación, disciplina y formación de los alumnos; las reuniones de profesores generales o por área; la dirección de grupo y servicio de orientación estudiantil; la atención de la comunidad, en especial de los padres de familia; las actividades formativas, culturales y deportivas contempladas en el proyecto educativo institucional; la realización de otras actividades vinculadas con organismos o instituciones del sector que incidan directa e indirectamente en la educación; actividades de investigación y actualización pedagógica relacionadas con el proyecto educativo institucional; y actividades de planeación y evaluación institucional.
 
 (Decreto 1850 de 2002, artículo 9).
 
-ARTÍCULO
-
 ## art:2.4.3.3.2 — Jornada laboral de los directivos docentes de las instituciones educativas
 
 Es el tiempo que dedican al cumplimiento de las funciones propias de dirección, planeación, programación, organización, coordinación, orientación, seguimiento y evaluación de las actividades de los establecimientos educativos.
 
 (Decreto 1850 de 2002, artículo 10).
-
-ARTÍCULO
 
 ## art:2.4.3.3.3 — Cumplimiento de la jornada laboral
 
@@ -17081,8 +14911,6 @@ Parágrafo 3º. En los establecimientos educativos en los que existan dos jornad
 
 (Modifica Art 3 del decreto 277 de 2025)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4 — Organización
 
 El rector o director es el superior inmediato del personal directivo docente y docente destinado para la atención de las actividades propias del servicio público de educación en cada establecimiento educativo.
@@ -17092,8 +14920,6 @@ El superior inmediato de los rectores o directores de los establecimientos educa
 Los alcaldes municipales, en su jurisdicción, ejercerán las funciones de seguimiento y control sobre el cumplimiento de la jornada escolar y de la jornada laboral de los directivos docentes y docentes de los establecimientos educativos.
 
 (Decreto 1850 de 2002, artículo 12).
-
-ARTÍCULO
 
 ## art:2.4.3.3.5 — Jornada laboral de supervisores y directores de núcleo
 
@@ -17106,8 +14932,6 @@ PARÁGRAFO . El superior inmediato de los supervisores y directores de núcleo d
 CAPÍTULO 4
 
 OTRAS DISPOSICIONES
-
-ARTÍCULO
 
 ## art:2.4.3.4.1 — Calendario académico
 
@@ -17131,8 +14955,6 @@ PARÁGRAFO . El calendario académico de los establecimientos educativos estatal
 
 (Decreto 1850 de 2002, artículo 14).
 
-ARTÍCULO
-
 ## art:2.4.3.4.2 — Modificación del calendario académico o de la jornada escolar
 
 La competencia para modificar el calendario académico es del Gobierno Nacional, los ajustes del calendario deberán ser solicitados previamente por la autoridad competente de la respectiva entidad certificada mediante petición debidamente motivada, salvo cuando sobrevengan hechos que alteren el orden público, en cuyo caso la autoridad competente de la entidad territorial certificada podrá realizar los ajustes del calendario académico que sean necesarios.
@@ -17140,8 +14962,6 @@ La competencia para modificar el calendario académico es del Gobierno Nacional,
 Las autoridades territoriales, los consejos directivos, los rectores o directores de los establecimientos educativos no son competentes para autorizar variaciones en la distribución de los días fijados para el cumplimiento del calendario académico y la jornada escolar, ni para autorizar la reposición de ciases por días no trabajados por cese de actividades académicas.
 
 (Decreto 1850 de 2002, artículo 15).
-
-ARTÍCULO
 
 ## art:2.4.3.4.3 — Actividades de apoyo pedagógico
 
@@ -17157,15 +14977,11 @@ CAPÍTULO 1
 
 ESTÍMULOS PARA LOS DOCENTES Y DIRECTIVOS DOCENTES DE LOS ESTABLECIMIENTOS EDUCATIVOS ESTATALES UBICADOS EN LAS ZONAS DE DIFÍCIL ACCESO
 
-ARTÍCULO
-
 ## art:2.4.4.1.1 — Ámbito de aplicación
 
 El presente Capítulo aplica a los docentes y directivos docentes que se rigen por los Decretos-ley 2277 de 1979 y 1278 de 2002, que laboran en establecimientos educativos estatales ubicados en zonas de difícil acceso.
 
 (Decreto 521 de 2010, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.1.2 — Zonas de difícil acceso
 
@@ -17189,8 +15005,6 @@ PARÁGRAFO 2. Las secretarías de educación de las entidades territoriales cert
 
 (Decreto 521 de 2010, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.1.3 — Comité técnico asesor
 
 El gobernador o alcalde de la entidad territorial certificada en educación conformará un comité técnico para que lo asesore, a través de un estudio, en la determinación de las zonas de difícil acceso de su jurisdicción.
@@ -17199,15 +15013,11 @@ Dicho comité estará compuesto por los responsables locales de los sectores de 
 
 (Decreto 521 de 2010, artículo 3, modificado por el 1 del Decreto 1158 de 2012, artículo).
 
-ARTÍCULO
-
 ## art:2.4.4.1.4 — Veedurías
 
 Las organizaciones sindicales podrán, de conformidad con la ley, organizar una veeduría para hacer seguimiento al cumplimiento de lo dispuesto en el presente Capítulo por parte de la autoridad territorial responsable de la administración del servicio educativo, y recomendar la adopción de los ajustes que estimen convenientes en un reporte que realicen anualmente al Ministerio de Educación Nacional.
 
 (Decreto 521 de 2010, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.4.1.5 — Bonificación
 
@@ -17217,8 +15027,6 @@ No tendrá derecho a esta bonificación quien se encuentre suspendido en el ejer
 
 (Decreto 521 de 2010, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.4.1.6 — Capacitación
 
 De conformidad con el artículo 2 de la Ley 1297 de 2009, las entidades territoriales certificadas contratarán programas especiales de actualización para los docentes y directivos docentes que laboran en las sedes de los establecimientos educativos estatales ubicadas en zonas rurales de difícil acceso. Estos programas formarán parte de los planes de mejoramiento institucional.
@@ -17226,8 +15034,6 @@ De conformidad con el artículo 2 de la Ley 1297 de 2009, las entidades territor
 PARÁGRAFO . Los docentes y directivos docentes que laboran en las sedes de los establecimientos educativos estatales, ubicadas en zonas rurales de difícil acceso, tendrán prioridad para la asignación de créditos para estudios formales de educación superior otorgados por el Icetex.
 
 (Decreto 521 de 2010, artículo 6).
-
-ARTÍCULO
 
 ## art:2.4.4.1.7 — Tiempo
 
@@ -17237,23 +15043,17 @@ Durante estos períodos, la entidad territorial dispondrá todo lo que sea perti
 
 (Decreto 521 de 2010, artículo 7).
 
-ARTÍCULO
-
 ## art:2.4.4.1.8 — Otros incentivos
 
 Previa disponibilidad presupuestal, la entidad territorial certificada podrá conceder una vez por año un pasaje aéreo de ida y regreso entre la capital del departamento en que laboran y la capital de la República, o su equivalente en dinero, a los docentes y directivos docentes que laboran en las sedes de los establecimientos educativos estatales ubicadas en zonas rurales de difícil acceso, correspondientes a los departamentos de Amazonas, Arauca, Cagueta, Casanare, Guainía, Guaviare, Vichada, Vaupés y Putumayo.
 
 (Decreto 521 de 2010, artículo 8).
 
-ARTÍCULO
-
 ## art:2.4.4.1.9 — Incompatibilidad entre incentivos
 
 Los incentivos establecidos en el presente Capítulo serán incompatibles con cualquier otra bonificación, incentivo o estímulo, del cual sea beneficiario el docente o directivo docente por efecto de laborar en una zona rural de difícil acceso, salvo el auxilio de movilización previsto en los decretos anuales de fijación de salarios.
 
 (Decreto 521 de 2010, artículo 9).
-
-ARTÍCULO
 
 ## art:2.4.4.1.10 — Sanciones
 
@@ -17269,8 +15069,6 @@ SECCIÓN 1
 
 Afiliación al Fondo Nacional de Prestaciones Sociales del Magisterio
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.1 — Personal que debe afiliarse al Fondo Nacional de Prestaciones Sociales del Magisterio
 
 Los docentes del servicio público educativo que estén vinculados a las plantas de personal de los entes territoriales deberán ser afiliados al Fondo Nacional de Prestaciones Sociales del Magisterio, previo el cumplimiento de los requisitos y trámites establecidos en los artículos 2.4.4.2.1.3. y 2.4.4.2.1.4. del presente Decreto, a más tardar el 31 de octubre de 2004.
@@ -17280,8 +15078,6 @@ PARÁGRAFO 1. La falta de afiliación del personal docente al Fondo Nacional de 
 PARÁGRAFO 2. Los docentes vinculados a las plantas de personal de las entidades territoriales de manera provisional deberán ser afiliados provisionalmente al Fondo Nacional de Prestaciones Sociales del Magisterio mientras conserve su nombramiento provisional.
 
 (Decreto 3752 de 2003, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.2 — Prestaciones sociales causadas
 
@@ -17294,8 +15090,6 @@ Las prestaciones sociales que se causen con posterioridad a la afiliación al Fo
 Sin perjuicio de lo anterior, el reconocimiento y pago de prestaciones sociales que se causen a favor de los afiliados al Fondo Nacional de Prestaciones Sociales del Magisterio, se limitará al período de cotizaciones que haya efectivamente recibido el Fondo y al valor del pasivo actuarial que le haya sido efectivamente cancelado.
 
 (Decreto 3752 de 2003, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.3 — Requisitos de afiliación del personal docente de las entidades territoriales
 
@@ -17313,8 +15107,6 @@ PARÁGRAFO 2. Para cada grupo de docentes que se pretenda afiliar se deberá ago
 
 (Decreto 3752 de 2003, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.4 — Trámite de la afiliación del personal de las entidades territoriales
 
 Presentada la solicitud de afiliación por parte de la entidad territorial, dentro de los sesenta (60) días siguientes, se adelantará el siguiente procedimiento:
@@ -17329,8 +15121,6 @@ Tal cálculo será elaborado, con cargo a los recursos del Fondo, por parte de l
 
 (Decreto 3752 de 2003, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.5 — Convenios interadministrativos
 
 Los convenios de afiliación de docentes al Fondo Nacional de Prestaciones Sociales del Magisterio que hubieren sido suscritos y se encuentren debidamente perfeccionados en los términos de las Leyes 91 de 1989, 60 de 1993 y 115 de 1994 y su respectiva reglamentación, deberán ajustarse a las disposiciones del presente Capítulo.
@@ -17342,8 +15132,6 @@ PARÁGRAFO 1. Los pagos realizados por la entidad territorial en cumplimiento de
 PARÁGRAFO 2. Los valores cancelados por las entidades territoriales por concepto de aportes de personal que no reúne los requisitos de ley para ser afiliado al Fondo Nacional de Prestaciones Sociales del Magisterio serán reintegrados a la entidad territorial, previo cruce de cuentas con el Fondo Nacional de Prestaciones Sociales del Magisterio, el cual será realizado por la sociedad fiduciaria encargada del manejo de sus recursos. En todo caso, la responsabilidad por los derechos prestacionales del docente estará a cargo de la entidad territorial como empleador.
 
 (Decreto 3752 de 2003, artículo 6).
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.6 — Cuota personal de inscripción de los educadores nombrados en provisionalidad
 
@@ -17357,15 +15145,11 @@ SECCIÓN 2
 
 Recursos del fondo de prestaciones sociales del magisterio
 
-ARTÍCULO
-
 ## art:2.4.4.2.2.1 — Transferencia de recursos al Fondo Nacional de Prestaciones Sociales del Magisterio
 
 Los aportes que de acuerdo con la Ley 812 de 2003-debe recibir el Fondo Nacional de Prestaciones Sociales del Magisterio se descontarán directamente de los recursos de la participación para educación del Sistema General de Participaciones y de los recursos que aporte adicionalmente la Nación en los términos de la ley 812 de 2003, para lo cual las entidades territoriales deberán reportar a la fiduciaria encargada del manejo de los recursos del Fondo, la información indicada en el artículo siguiente.
 
 (Decreto 3752 de 2003, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.4.2.2.2 — Reporte de información de las entidades territoriales
 
@@ -17379,8 +15163,6 @@ PARÁGRAFO 2. Sin perjuicio de lo anterior, los aportes realizados por concepto 
 
 (Decreto 3752 de 2003, artículo 8).
 
-ARTÍCULO
-
 ## art:2.4.4.2.2.3 — Monto total de aportes al Fondo Nacional de Prestaciones Sociales del Magisterio
 
 La sociedad fiduciaria administradora de los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio, con base en la información definida en el artículo anterior, proyectará para la siguiente vigencia fiscal el monto correspondiente a los aportes previstos en el artículo 81 de la Ley 812 de 2003 y en el numeral 4 del artículo 8 de la Ley 91 de 1989. Esta proyección será reportada a los entes territoriales a más tardar el 15 de abril de cada año.
@@ -17393,8 +15175,6 @@ PARÁGRAFO 2. Hasta tanto se disponga de la información reportada por los entes
 
 (Decreto 3752 de 2003, artículo 9).
 
-ARTÍCULO
-
 ## art:2.4.4.2.2.4 — Giro de los aportes
 
 El Ministerio de Hacienda y Crédito Público, con cargo a la participación para educación de las entidades territoriales en el Sistema General de Participaciones, girará directamente al Fondo Nacional de Prestaciones Sociales del Magisterio, descontados del giro mensual, en las fechas previstas en la Ley 715 de 2001, los aportes proyectados conforme al artículo anterior de acuerdo con el programa anual de caja PAC, el cual se incorporará en el presupuesto de las entidades territoriales sin situación de fondos.
@@ -17402,8 +15182,6 @@ El Ministerio de Hacienda y Crédito Público, con cargo a la participación par
 El Ministerio de Hacienda y Crédito Público informará el valor de los giros efectuados, discriminando por entidad territorial y por concepto, a la sociedad fiduciaria que administra los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio. Para los aportes por concepto de salud deberá tenerse en cuenta en lo pertinente el Decreto 2019 de 2000, o en la norma que lo modifique, adicione, sustituya o compile.
 
 (Decreto 3752 de 2003, artículo 10).
-
-ARTÍCULO
 
 ## art:2.4.4.2.2.5 — Ajuste de cuantías
 
@@ -17420,8 +15198,6 @@ Racionalización de trámites en materia del fondo de prestaciones sociales del 
 SUBSECCIÓN 1
 
 Reglamento del consejo directivo del fondo nacional de prestaciones sociales del magisterio
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.1.1 — Reglamento interno
 
@@ -17463,8 +15239,6 @@ SUBSECCIÓN 2
 
 RECONOCIMIENTO Y PAGO DE LAS PRESTACIONES ECONÓMICAS A CARGO DEL FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.1 — Radicación de las solicitudes de reconocimiento de prestaciones económicas
 
 Las solicitudes de reconocimiento de prestaciones económicas a cargo del Fondo Nacional de Prestaciones Sociales del Magisterio deben ser presentadas, ante la última entidad territorial certificada en educación que haya ejercido como autoridad nominadora del afiliado, de acuerdo con el formulario adoptado para el efecto por la sociedad fiduciaria encargada del manejo de los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio.
@@ -17474,8 +15248,6 @@ La sociedad fiduciaria implementará un sistema de radicación único, que regis
 El sistema de radicación único debe permitir a los solicitantes y actores del proceso, conocer electrónicamente el estado del trámite, desde su radicación hasta su resolución y pago, asimismo debe permitir identificar aquellos casos en los que se realicen pagos oficiosos ya sea en cumplimiento de una orden judicial o por disposición administrativa.
 
 (Decreto 2831 de 2005, artículo 5; Modificado por el Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.2 — Gestión a cargo de las Secretarías de Educación
 
@@ -17497,8 +15269,6 @@ PARÁGRAFO . Todos los actos administrativos que sean expedidos por la entidad t
 
 (Decreto 2831 de 2005, artículo 5; Modificado por el Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.3 — Uso de las tecnologías de la información y las comunicaciones
 
 En el marco de las gestiones reguladas en la presente subsección, las entidades territoriales certificadas en educación y la sociedad fiduciaria encargada del manejo de los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio deberán privilegiar el uso de las tecnologías de la información y las comunicaciones, con el fin de garantizar los principios de las actuaciones administrativas previstos en la Ley 1437 de 2011, en especial, los de eficacia, economía y celeridad.
@@ -17507,15 +15277,11 @@ Por consiguiente, para todas las gestiones reguladas en la presente subsección,
 
 (Decreto 2831 de 2005, artículo 5; Modificado por el Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.4 — 2.4
 
 Término para resolver las solicitudes de reconocimiento pensional que amparan el riesgo de vejez.Las solicitudes correspondientes a reconocimientos pensionales que cubran el riesgo de vejez o las indemnizaciones sustitutivas y las demás solicitudes que se deriven de ajustes o reliquidaciones de estas prestaciones a cargo del Fondo Nacional de Prestaciones Sociales del Magisterio deben ser resueltas dentro de los 4 meses siguientes a la fecha de la radicación completa de la solicitud por parte del peticionario.
 
 (Decreto 2831 de 2005, artículo 5; Modificado por el Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.5 — Gestión de la entidad territorial en las solicitudes de reconocimiento pensional que amparan el riesgo de vejez
 
@@ -17525,8 +15291,6 @@ Dentro del mismo término indicado en el inciso anterior, la entidad territorial
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.6 — Gestión a cargo de la sociedad fiduciaria en las solicitudes de reconocimiento pensional que amparan el riesgo de vejez
 
 La sociedad fiduciaria, dentro del mes siguiente al recibo del proyecto de acto administrativo de reconocimiento pensional que cubra el riesgo de vejez o la indemnización sustitutiva y las demás solicitudes que se deriven de ajustes o reliquidaciones de estas prestaciones a cargo del Fondo, deberá impartir su aprobación o desaprobación argumentando de manera precisa el sentido de su decisión.
@@ -17534,8 +15298,6 @@ La sociedad fiduciaria, dentro del mes siguiente al recibo del proyecto de acto 
 Dentro del mismo término indicado en el inciso anterior, la sociedad fiduciaria deberá digitalizar y remitir a la entidad territorial certificada en educación la decisión adoptada, a través de la plataforma dispuesta para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.7 — 2.7
 
@@ -17553,15 +15315,11 @@ PARÁGRAFO . Bajo ninguna circunstancia, los términos previstos en los incisos 
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.8 — Remisión del acto administrativo notificado y ejecutoriado
 
 que resuelve las solicitudes que amparan el riesgo de vejez. Una vez notificado y ejecutoriado el acto administrativo definitivo que resuelve reconocimiento pensional que cubra el riesgo de vejez o la indemnización sustitutiva y las demás solicitudes que se deriven de ajustes o reliquidaciones de estas prestaciones, la entidad territorial certificada en educación deberá subir y remitir este acto administrativo inmediatamente a través de la plataforma dispuesta para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.9 — Pago de los reconocimientos pensionales que amparan el riesgo de vejez
 
@@ -17569,15 +15327,11 @@ Dentro de los 2 meses siguientes a la notificación y ejecutoria del acto admini
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.10 — Término para resolver las solicitudes de reconocimiento pensional que amparan el riesgo de invalidez
 
 Las solicitudes correspondientes a reconocimientos pensionales, auxilios, indemnizaciones por enfermedad profesional, por accidente de trabajo y sustitutivas de pensión de invalidez y las demás que por disposición legal reconoce el Fondo Nacional de Prestaciones Sociales del Magisterio, deben ser resueltas dentro de los 2 meses siguientes a la fecha de radicación completa de la solicitud por parte del peticionario.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.11 — Gestión de la entidad territorial en las solicitudes de reconocimiento pensional que amparan el riesgo de invalidez
 
@@ -17587,8 +15341,6 @@ Dentro del mismo término indicado en el inciso anterior, la entidad territorial
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.12 — .12
 
 Gestión a cargo de la sociedad fiduciaria en las solicitudes de reconocimiento pensional que amparan el riesgo de invalidez. La sociedad fiduciaria, dentro de los 20 días calendario siguientes al recibo del proyecto de acto administrativo de reconocimientos pensionales, auxilios, indemnizaciones por enfermedad profesional, por accidente de trabajo y sustitutivas de pensión y las demás que por disposición legal reconoce el Fondo, deberá impartir su aprobación o desaprobación argumentando de manera precisa el sentido de su decisión.
@@ -17596,8 +15348,6 @@ Gestión a cargo de la sociedad fiduciaria en las solicitudes de reconocimiento 
 Dentro del mismo término indicado en el inciso anterior, la sociedad fiduciaria deberá digitalizar y remitir a la entidad territorial certificada en educación la decisión adoptada, a través de la plataforma dispuesta para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.13 — .13
 
@@ -17615,15 +15365,11 @@ PARÁGRAFO . Bajo ninguna circunstancia, los términos previstos en los incisos 
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.14 — .14
 
 Remisión del acto administrativo notificado y ejecutoriado que resuelve las solicitudes que amparan el riesgo de invalidez. Una vez notificado y ejecutoriado el acto administrativo definitivo que resuelve las solicitudes de reconocimientos pensionales, auxilios, indemnizaciones por enfermedad profesional, por accidente de trabajo y sustitutivas de pensión y las demás que por disposición legal reconoce el Fondo, la entidad territorial certificada en educación deberá subir y remitir este acto administrativo inmediatamente a la plataforma dispuesta para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.15 — Pago de los reconocimientos pensionales que amparan el riesgo de invalidez
 
@@ -17633,15 +15379,11 @@ PARÁGRAFO . El pago de la primera mesada pensional de invalidez por pérdida de
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.16 — Término para resolver las solicitudes de reconocimiento pensional que amparan el riesgo de muerte
 
 Las solicitudes correspondientes a reconocimientos pensionales, auxilios e indemnizaciones que cubran el riesgo de muerte a cargo del Fondo Nacional de Prestaciones Sociales del Magisterio, deben ser resueltas dentro de los 2 meses siguientes a la fecha de radicación completa de la solicitud por parte del peticionario.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.17 — Gestión de la entidad territorial en las solicitudes de reconocimiento pensional que amparan el riesgo de muerte
 
@@ -17651,8 +15393,6 @@ Dentro del mismo término indicado en el inciso anterior, la entidad territorial
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.18 — Gestión a cargo de la sociedad fiduciaria en las solicitudes de reconocimiento pensional que amparan el riesgo de muerte
 
 La sociedad fiduciaria, dentro de los 10 días calendario siguientes al recibo del proyecto de acto administrativo de reconocimiento pensiona', auxilios e indemnizaciones que cubran el riesgo de muerte, deberá impartir su aprobación o desaprobación argumentando de manera precisa el sentido de su decisión.
@@ -17660,8 +15400,6 @@ La sociedad fiduciaria, dentro de los 10 días calendario siguientes al recibo d
 Dentro del mismo término indicado en el inciso anterior, la fiduciaria deberá digitalizar y remitir a la entidad territorial certificada en educación la decisión adoptada, a través de la plataforma dispuesta para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.19 — .19
 
@@ -17679,15 +15417,11 @@ PARÁGRAFO . Bajo ninguna circunstancia, los términos previstos en los incisos 
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.20 — Remisión del acto administrativo notificado y ejecutoriado que resuelve las solicitudes que amparan el riesgo de muerte
 
 Una vez notificado y ejecutoriado el acto administrativo definitivo que resuelve las solicitudes de reconocimiento pensional, auxilios e indemnizaciones que cubren el riesgo de muerte, la entidad territorial certificada en educación deberá subir y remitir este acto administrativo inmediatamente a la plataforma empleada para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.21 — Pago de los reconocimientos pensionales que amparan el riesgo de muerte
 
@@ -17695,15 +15429,11 @@ Dentro de los 2 meses siguientes a la notificación y ejecutoria del acto admini
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.22 — Término para resolver las solicitudes de reconocimiento de cesantías
 
 Las solicitudes correspondientes a reconocimientos de cesantías parciales o definitivas a cargo del Fondo Nacional de Prestaciones Sociales del Magisterio deben ser resueltas sin exceder 15 días hábiles contados desde la radicación completa de la solicitud por parte del peticionario.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.23 — Gestión de la entidad territorial en las solicitudes de reconocimiento de cesantías
 
@@ -17713,8 +15443,6 @@ Dentro del mismo término indicado en el inciso anterior, la entidad territorial
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.24 — Gestión a cargo de la sociedad fiduciaria en las solicitudes de reconocimiento de cesantías
 
 La sociedad fiduciaria, dentro de los 5 días hábiles siguientes al recibo del proyecto de acto administrativo de reconocimiento de cesantías parciales o definitivas, deberá impartir su aprobación o desaprobación argumentando de manera precisa el sentido de su decisión.
@@ -17722,8 +15450,6 @@ La sociedad fiduciaria, dentro de los 5 días hábiles siguientes al recibo del 
 Dentro del mismo término indicado en el inciso anterior, la sociedad fiduciaria deberá digitalizar y remitir a la entidad territorial certificada en educación la decisión adoptada, a través de la plataforma dispuesta para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.25 — .25
 
@@ -17741,23 +15467,17 @@ PARÁGRAFO . Bajo ninguna circunstancia, los términos previstos en los incisos 
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.26 — Remisión del acto administrativo notificado y ejecutoriado que resuelve las solicitudes de reconocimiento de cesantías
 
 Una vez notificado y ejecutoriado el acto administrativo definitivo que resuelve las solicitudes de reconocimiento de cesantías parciales o definitivas, la entidad territorial certificada en educación deberá subir y remitir este acto administrativo inmediatamente a través de la plataforma empleada para tal fin.
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.27 — Pago de los reconocimientos de cesantías
 
 Dentro de los 45 días hábiles siguientes a la notificación y ejecutoria del acto administrativo que reconoce las solicitudes de reconocimiento de cesantías parciales o definitivas, la sociedad fiduciaria deberá efectuar los pagos correspondientes.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.28 — Sanción moratoria
 
@@ -17767,15 +15487,11 @@ Así mismo, la sociedad fiduciaria deberá interponer las acciones legales corre
 
 (Decreto 1272 de 2018, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.2.29 — Plataforma de digitalización
 
 Si por fuerza mayor o caso fortuito se presentan fallas en la plataforma de digitalización, la entidad territorial certificada en educación o la sociedad fiduciaria deberán enviar por el medio más expedito los documentos pertinentes al trámite prestacional que se esté desarrollando. Lo anterior, sin perjuicio de la responsabilidad que le sea imputable a la sociedad fiduciaria por no garantizar el funcionamiento de la plataforma de digitalización.
 
 (Decreto 1272 de 2018, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2.30 — Notificación y recursos contra los actos administrativos
 
@@ -17789,15 +15505,11 @@ SUBSECCIÓN 3
 
 Conformación y funcionamiento de los comités regionales
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.3.1 — De los Comités Regionales
 
 Los Comités Regionales del Fondo Nacional de Prestaciones Sociales del Magisterio tienen por objeto hacer seguimiento continuo a la prestación de los servicios de salud y al reconocimiento y pago de prestaciones económicas de los docentes afiliados a este Fondo.
 
 (Decreto 2831 de 2005, artículo 8; Modificado por el Decreto 1272 de 2018, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.3.2 — Conformación de los Comités Regionales
 
@@ -17813,8 +15525,6 @@ PARÁGRAFO . El Comité Regional podrá invitar a sus sesiones a funcionarios p�
 
 (Decreto 2831 de 2005, artículo 8; Modificado por el Decreto 1272 de 2018, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.3.3 — Reglamento de los Comités Regionales
 
 Los Comités Regionales, dentro del mes siguiente a su conformación, deberán establecer su reglamento interno bajo los siguientes parámetros:
@@ -17828,8 +15538,6 @@ Los Comités Regionales, dentro del mes siguiente a su conformación, deberán e
 PARÁGRAFO . Dentro del primer mes de cada año, los Comités Regionales deberán remitir el cronograma de las sesiones anuales a los miembros del Comité.
 
 (Decreto 2831 de 2005, artículo 8; Modificado por el Decreto 1272 de 2018, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.3.4 — Funciones del Comité Regional
 
@@ -17851,8 +15559,6 @@ SUBSECCIÓN 4
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.4.1 — Incapacidades
 
 La Secretaría de Educación de la entidad territorial certificada garantizará a los docentes de su planta de personal el pago sin interrupción de los valores a que tenga derecho en los casos de incapacidad laboral. La sociedad fiduciaria encargada del manejo de los recursos del Fondo efectuará el reembolso correspondiente a la secretaría de educación, dentro de los cinco (5) días hábiles siguientes a la fecha de recepción de los documentos soporte de la incapacidad.
@@ -17869,15 +15575,11 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.4.4.3.1.1 — Objeto
 
 Establecer los sistemas de gestión de la seguridad y salud en el trabajo, la vigilancia epidemiológica, los comités paritarios de seguridad y salud en el trabajo, las actividades de promoción y prevención, la Tabla de Enfermedades Laborales y el Manual de Calificación de Pérdida de Capacidad Laboral, para los educadores afiliados al Fondo Nacional de Prestaciones Sociales del Magisterio.
 
 (Decreto 1655 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.3.1.2 — Ámbito de aplicación
 
@@ -17886,8 +15588,6 @@ La organización, funcionamiento y administración de la Seguridad y Salud en el
 Las disposiciones sobre seguridad y salud en el trabajo previstas en este Capítulo son aplicables respecto de los educadores afiliados al Fondo Nacional de Prestaciones Sociales del Magisterio, la fiduciaria administradora y vocera del patrimonio autónomo conformado con los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio, los prestadores de servicios de salud, las entidades territoriales certificadas en educación y los directivos docentes.
 
 (Decreto 1655 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.3.1.3 — Definiciones
 
@@ -17900,8 +15600,6 @@ Para efectos del presente Capítulo; se tendrán en cuenta las siguientes defini
 3. Prestadores de servicios de salud: son las entidades contratadas a través de la fiduciaria administradora y vocera del Fondo Nacional de Prestaciones Sociales del Magisterio para la prestación de servicios de salud a los educadores afiliados a dicho fondo y sus beneficiarios.
 
 (Decreto 1655 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.3.1.4 — Derechos de los educadores
 
@@ -17922,8 +15620,6 @@ Son derechos de los educadores activos en relación con los temas tratados en el
 7. Mantener una comunicación permanente, expresa y clara con el profesional a cargo y ser orientado acertada y oportunamente.
 
 (Decreto 1655 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.3.1.5 — Deberes de los educadores
 
@@ -17950,8 +15646,6 @@ Son deberes de los educadores activos en relación con los temas tratados en el 
 SECCIÓN 2
 
 Niveles de participación
-
-ARTÍCULO
 
 ## art:2.4.4.3.2.1 — Fiduciaria administradora y vocera del Fondo Nacional de Prestaciones Sociales del Magisterio
 
@@ -17981,8 +15675,6 @@ Es la encargada de garantizar, según los lineamientos del Consejo Directivo del
 
 PARÁGRAFO . El Ministerio de Educación Nacional revisará y ajustará, el contrato de fiducia mercantil que se encuentra en ejecución a la entrada en vigencia del presente Capítulo para que las funciones de que trata este artículo, sean atendidas en debida forma por la entidad fiduciaria a cargo de la administración de los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio.
 
-ARTÍCULO
-
 ## art:2.4.4.3.2.2 — Prestadores de servicios de salud
 
 Son los encargados de implementar el Sistema de Gestión de la Seguridad y Salud en el Trabajo del Magisterio en las entidades territoriales certificadas, mediante el cumplimiento de las siguientes funciones:
@@ -18008,8 +15700,6 @@ Son los encargados de implementar el Sistema de Gestión de la Seguridad y Salud
 10. Realizar campañas preventivas de salud dirigidas a los educadores activos de las entidades territoriales certificadas.
 
 11. Ejecutar las actividades de que tratan los artículos 2.4.4.3.3.4., 2.4.4.3.3.5., 2.4.4.3.3.6 y 2.4.4.3.3.7. del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.4.4.3.2.3 — Entidades territoriales certificadas en educación
 
@@ -18041,8 +15731,6 @@ En su calidad de entidades nominadoras de los educadores activos, les correspond
 
 13. Garantizar que los directivos docentes cumplan con sus funciones en relación con la Seguridad y Salud en el Trabajo del Magisterio.
 
-ARTÍCULO
-
 ## art:2.4.4.3.2.4 — Directivos docentes
 
 Les corresponde en relación con la Seguridad y Salud en el Trabajo del Magisterio, las siguientes funciones:
@@ -18069,25 +15757,17 @@ SECCIÓN 3
 
 Sistema de Gestión de Seguridad y Salud en el Trabajo del Magisterio
 
-ARTÍCULO
-
 ## art:2.4.4.3.3.1 — Orientación
 
 El Sistema de Gestión de la Seguridad y Salud en el Trabajo del Magisterio estará orientado a mejorar la calidad de vida de los educadores activos, generando una cultura de vida saludable que favorezca el bienestar laboral y contribuya a reducir las ausencias laborales por incapacidad médica.
-
-ARTÍCULO
 
 ## art:2.4.4.3.3.2 — Fundamento
 
 El Sistema de Gestión de la Seguridad y Salud en el Trabajo del Magisterio se fundamenta en el desarrollo de procesos de prevención y atención permanente de la salud individual y colectiva de los educadores activos, mediante la formulación e implementación de actividades integrales e interdisciplinarias que intervengan directamente sobre la calidad del ambiente laboral e identifiquen y disminuyan los riesgos ergonómicos, físicos y psicosociales, y los demás a los que están expuestos los educadores, para prevenir y brindar atención integral cuando se presenten enfermedades laborales y accidentes de trabajo.
 
-ARTÍCULO
-
 ## art:2.4.4.3.3.3 — Funcionamiento
 
 Con los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio se realizarán las funciones administrativas y operativas de la Seguridad y Salud en el Trabajo, las cuales serán contratadas, coordinadas y supervisadas por la fiduciaria administradora y vocera del Fondo. Para el efecto, se conformará un equipo multidisciplinario de profesionales con especialización en seguridad y salud en el trabajo y/o afines, con licencias vigentes, que organizará, administrará y controlará la implementación de la Seguridad y Salud en el Trabajo del Magisterio.
-
-ARTÍCULO
 
 ## art:2.4.4.3.3.4 — Programa de Medicina Preventiva
 
@@ -18110,8 +15790,6 @@ Las actividades de este programa se orientan a la prevención y control de las p
 8. Diseñar y ejecutar actividades de prevención y promoción sobre riesgos laborales relacionados con la voz.
 
 9. Realizar los perfiles del riesgo laboral de los educadores activos respecto de las enfermedades laborales de mayor incidencia en el desempeño de la labor docente y directiva docente.
-
-ARTÍCULO
 
 ## art:2.4.4.3.3.5 — Programa de Medicina del Trabajo Docente
 
@@ -18137,8 +15815,6 @@ El registro de los resultados de las valoraciones médicas se efectuará en los 
 
 Con los resultados obtenidos en las valoraciones médicas se establecerán intervenciones focalizadas de atención y prevención individualizadas que serán contempladas dentro del Sistema de Vigilancia Epidemiológica.
 
-ARTÍCULO
-
 ## art:2.4.4.3.3.6 — Programa de Seguridad Industrial
 
 Las actividades de este programa se orientan a la identificación de las condiciones y los factores de riesgo que provoquen o puedan provocar accidentes de trabajo, a través de las siguientes acciones:
@@ -18161,8 +15837,6 @@ Las actividades de este programa se orientan a la identificación de las condici
 
 9. Informar a la fiduciaria administradora y vocera del Fondo Nacional de Prestaciones Sociales del Magisterio sobre los accidentes de trabajo.
 
-ARTÍCULO
-
 ## art:2.4.4.3.3.7 — Programa de Higiene
 
 Las actividades de este programa se orientan a la identificación, evaluación y control de los factores de riesgo y agentes ambientales que ocasionan las enfermedades laborales en los establecimientos educativos, a través de las siguientes acciones:
@@ -18177,8 +15851,6 @@ Las actividades de este programa se orientan a la identificación, evaluación y
 
 5. Investigar y analizar las causas de las enfermedades laborales más frecuentes y reportarlas a las entidades territoriales nominadoras.
 
-ARTÍCULO
-
 ## art:2.4.4.3.3.8 — Atención de urgencias
 
 La atención de urgencias debe ser prestada en forma obligatoria por todas las entidades públicas y privadas que presten servicios de salud, independiente de la capacidad socioeconómica de los educadores activos y del régimen al cual se encuentren afiliados.
@@ -18189,19 +15861,13 @@ SECCIÓN 4
 
 Vigilancia epidemiológica
 
-ARTÍCULO
-
 ## art:2.4.4.3.4.1 — Vigilancia epidemiológica
 
 El Consejo Directivo del Fondo Nacional de Prestaciones Sociales del Magisterio con el apoyo del equipo multidisciplinario de profesionales que organizará, administrará y controlará la implementación de la Seguridad y Salud en el Trabajo del Magisterio, establecerá el procedimiento para la elaboración e implementación de los programas de vigilancia epidemiológica y los registros e indicadores de estructura, proceso y resultado.
 
-ARTÍCULO
-
 ## art:2.4.4.3.4.2 — Medición y evaluación
 
 A partir de los registros e indicadores de vigilancia epidemiológica, el Consejo Directivo del Fondo Nacional de Prestaciones Sociales del Magisterio con el apoyo del equipo multidisciplinario de profesionales que organizará, administrará y controlará la implementación de la Seguridad y Salud en el Trabajo del Magisterio, analizará el riesgo laboral del Magisterio para establecer programas, protocolos y guías de intervención, orientados a la prevención de patologías relacionadas con los procesos de enseñanza, el mejoramiento de las condiciones del ambiente laboral en los establecimientos educativos y el control de los factores de riesgo a los que se encuentren expuestos los educadores activos.
-
-ARTÍCULO
 
 ## art:2.4.4.3.4.3 — Vigilancia de enfermedades
 
@@ -18217,8 +15883,6 @@ SECCIÓN 5
 
 Comités Paritarios de Seguridad y Salud en el Trabajo
 
-ARTÍCULO
-
 ## art:2.4.4.3.5.1 — Estructura
 
 Los Comités Paritarios de Seguridad y Salud en el Trabajo se crearán en cada establecimiento educativo oficial y sus miembros se elegirán así:
@@ -18228,8 +15892,6 @@ Los Comités Paritarios de Seguridad y Salud en el Trabajo se crearán en cada e
 2. En los establecimientos con 50 o más educadores activos, dos (2) representantes directivos, uno (1) de ellos actuará como presidente, y dos (2) representantes de los educadores, uno (1) de ellos actuará como secretario.
 
 3. En aquellos establecimientos educativos que tengan menos de diez (10) educadores, se nombrará un (1) vigía en seguridad y salud en el trabajo.
-
-ARTÍCULO
 
 ## art:2.4.4.3.5.2 — Elecciones
 
@@ -18243,21 +15905,15 @@ SECCIÓN 6
 
 Tabla de Enfermedades Laborales y Manual de Calificación de Pérdida de Capacidad Laboral
 
-ARTÍCULO
-
 ## art:2.4.4.3.6.1 — Tabla de Enfermedades Laborales
 
 La determinación del carácter de enfermedad laboral de los educadores activos se realizará conforme a la Tabla de Enfermedades Laborales que se adopta mediante el presente Capítulo, la cual forma parte integral del mismo (Anexo Técnico 1).
 
 PARÁGRAFO . En los casos en que una enfermedad no figure en la Tabla de Enfermedades Laborales, pero se demuestre la relación de causalidad con los factores de riesgo ocupacional, será reconocida como enfermedad laboral para efectos del presente Capítulo.
 
-ARTÍCULO
-
 ## art:2.4.4.3.6.2 — Actualización
 
 Cada vez que se considere necesario, y como mínimo cada tres (3) años, el Gobierno Nacional actualizará la Tabla de Enfermedades Laborales, en virtud de estudios e informes presentados por la fiduciaria administradora y vocera del Fondo que concluyan la necesidad de incluir patologías que evidencien una relación de causalidad con los factores de riesgo ocupacional y no figuren en la Tabla.
-
-ARTÍCULO
 
 ## art:2.4.4.3.6.3 — Manual de Calificación de Pérdida de Capacidad Laboral
 
@@ -18271,15 +15927,11 @@ SECCIÓN 7
 
 Pérdida de la capacidad laboral
 
-ARTÍCULO
-
 ## art:2.4.4.3.7.1 — Determinación del origen de la enfermedad laboral y calificación de la pérdida de capacidad laboral
 
 La determinación del origen de la enfermedad o accidente laboral, así como la calificación de la pérdida de capacidad laboral, el estado de invalidez o la incapacidad permanente, su fecha de estructuración y la revisión de la pensión de invalidez, le corresponden en primera instancia a los prestadores de servicios de salud en cada entidad territorial certificada en educación, según las especificaciones del Manual de Calificación de Pérdida de Capacidad Laboral y de conformidad con lo dispuesto en el artículo 2.2.5.1.26 del Decreto 1072 de 2015.
 
 PARÁGRAFO . Las Juntas Regionales de Calificación de Invalidez actuarán como segunda instancia para los dictámenes que lo requieran, según lo previsto en el numeral 2.1 del artículo 2.2.5.1.1 del Decreto 1072 de 2015.
-
-ARTÍCULO
 
 ## art:2.4.4.3.7.2 — Fechas de declaratoria y estructuración de pérdida de capacidad laboral
 
@@ -18288,8 +15940,6 @@ La fecha de declaratoria de la pérdida de capacidad laboral corresponde al día
 La fecha de estructuración corresponde al día en que la persona pierde un grado o porcentaje de su capacidad laboral como consecuencia de una enfermedad o accidente, la cual se determina con base en la evolución de las secuelas que estos han dejado.
 
 La fecha de estructuración de la pérdida de capacidad laboral debe soportarse en la historia clínica, los exámenes clínicos y de ayuda diagnóstica y puede ser anterior o corresponder a la fecha de la declaratoria de la pérdida de la capacidad laboral. En los casos en los cuales no exista historia clínica, la fecha debe soportarse en la historia natural de la enfermedad. Igualmente, debe estar argumentada por el calificador y consignada en la respectiva calificación.
-
-ARTÍCULO
 
 ## art:2.4.4.3.7.3 — Incapacidad Laboral Temporal
 
@@ -18303,15 +15953,11 @@ En ningún caso podrá efectuarse cambio de funciones docentes a un educador act
 
 PARÁGRAFO . El Consejo Directivo del Fondo Nacional de Prestaciones Sociales del Magisterio con apoyo del equipo multidisciplinario de profesionales que organizará, administrará y controlará la implementación de la Seguridad y Salud en el Trabajo del Magisterio, establecerá los mecanismos e instrumentos que garanticen la adecuada ejecución y seguimiento a los planes de rehabilitación de los educadores activos que implementen los prestadores de servicios de salud.
 
-ARTÍCULO
-
 ## art:2.4.4.3.7.4 — Reconocimiento económico por incapacidad temporal de origen laboral y accidente de trabajo
 
 Cuando un educador activo sufra un accidente de trabajo o presente una enfermedad de origen laboral, tendrá derecho a un reconocimiento económico por parte del Fondo Nacional de Prestaciones Sociales del Magisterio hasta por ciento ochenta (180) días.
 
 El reconocimiento económico durante toda la incapacidad será del 100% del salario que esté devengando el educador en el momento de generarse la incapacidad.
-
-ARTÍCULO
 
 ## art:2.4.4.3.7.5 — Procedimiento para el reconocimiento de la pérdida de la capacidad laboral
 
@@ -18341,8 +15987,6 @@ Este procedimiento deberá fijar los períodos máximos de tiempo, la competenci
 
 11. En caso de que el educador activo se rehusé a cumplir con las citaciones de la Junta Regional de Calificación de invalidez, se procederá a emitir dictamen con lo que repose en el expediente de conformidad con lo establecido en el parágrafo 3 del artículo 2.2.5.1.36 del Decreto 1072 de 2015.
 
-ARTÍCULO
-
 ## art:2.4.4.3.7.6 — Calificación integral de invalidez
 
 Los dictámenes emitidos por los prestadores de servicios de salud y las Juntas Regionales de Calificación de Invalidez, deben contener la calificación integral de conformidad con lo expresado en la Sentencia C-425 de 2005 de la Corte Constitucional y su precedente jurisprudencial.
@@ -18352,8 +15996,6 @@ Los dictámenes emitidos por los prestadores de servicios de salud y las Juntas 
 SECCIÓN 8
 
 Reconocimiento de pensión de invalidez
-
-ARTÍCULO
 
 ## art:2.4.4.3.8.1 — Procedimiento
 
@@ -18379,8 +16021,6 @@ PARÁGRAFO 2. A los educadores que se les ha reconocido pensión de invalidez se
 
 PARÁGRAFO 3. Las valoraciones médicas que por ley le correspondan a los docentes y directivos docentes pensionados por invalidez, se regirán por la normatividad aplicable para tal efecto.
 
-ARTÍCULO
-
 ## art:2.4.4.3.8.2 — Régimen de transición
 
 A los educadores que hayan sido pensionados antes de la entrada en vigencia del presente Capítulo, les serán aplicables las normas legales y reglamentarias vigentes a la fecha en que fue dictaminada la pérdida de capacidad laboral.
@@ -18391,31 +16031,21 @@ SECCIÓN 9
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.4.4.3.9.1 — Recursos para la aplicación
 
 Las obligaciones y prestaciones económicas contenidas en el presente Capítulo y los gastos derivados de su aplicación, se ejecutarán y asumirán con cargo al patrimonio autónomo conformado con los recursos del Fondo Nacional de Prestaciones Sociales del Magisterio.
-
-ARTÍCULO
 
 ## art:2.4.4.3.9.2 — Consolidación de la Seguridad y Salud en el Trabajo del Magisterio
 
 El Consejo Directivo del Fondo, en un término no superior a un (1) año a partir de la entrada en vigencia del presente Capítulo, adoptará las políticas, programas, planes y regulación conducentes a la organización, funcionamiento y administración de la Seguridad y Salud en el Trabajo del Magisterio.
 
-ARTÍCULO
-
 ## art:2.4.4.3.9.3 — Vigencia de los anexos técnicos
 
 La Tabla de Enfermedades Laborales y el Manual de Calificación de Pérdida de Capacidad Laboral adoptados mediante el presente Capítulo, entrarán en vigencia seis (6) meses después de la entrada en vigencia del presente Capítulo y su implementación estará a cargo de la fiduciaria administradora y vocera del Fondo Nacional de Prestaciones Sociales del Magisterio.
 
-ARTÍCULO
-
 ## art:2.4.4.3.9.4 — Divulgación y capacitación
 
 A partir de la entrada en vigencia del presente Capítulo, las entidades territoriales certificadas en educación coordinarán con la fiduciaria administradora y vocera del Fondo Nacional de Prestaciones Sociales del Magisterio y los prestadores de servicios de salud, la divulgación del contenido de este Capítulo a los educadores activos de los establecimientos educativos oficiales y su capacitación sobre el Sistema de Gestión de la Seguridad y Salud en el Trabajo del Magisterio.
-
-ARTÍCULO
 
 ## art:2.4.4.3.9.5 — Contratos de los prestadores de servicios de salud
 
@@ -18431,15 +16061,11 @@ CAPÍTULO 1
 
 TRASLADO DE DOCENTES Y DIRECTIVOS DOCENTES
 
-ARTÍCULO
-
 ## art:2.4.5.1.1 — Objeto y ámbito de aplicación
 
 Con el fin de garantizar igualdad de oportunidades, transparencia y agilidad en la adopción de las decisiones correspondientes, el presente Capítulo reglamenta el proceso de traslado de los servidores públicos docentes y directivos docentes que atienden el servicio educativo en los niveles de preescolar, básica y media, administrados por cada una de las entidades territoriales certificadas en educación.
 
 (Decreto 520 de 2010, artículo 1; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
-
-ARTÍCULO
 
 ## art:2.4.5.1.2 — Proceso ordinario de traslados
 
@@ -18465,8 +16091,6 @@ PARÁGRAFO 3. El traslado en ningún caso implica ascenso en el Escalafón Docen
 
 (Decreto 520 de 2010, artículo 2; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
 
-ARTÍCULO
-
 ## art:2.4.5.1.3 — Criterios para la inscripción
 
 Para la inscripción en el proceso ordinario de traslados a que se refiere este Capítulo, la entidad territorial certificada deberá garantizar condiciones objetivas de participación de los docentes y directivos docentes interesados y adoptará, por lo menos, los siguientes criterios:
@@ -18476,8 +16100,6 @@ Para la inscripción en el proceso ordinario de traslados a que se refiere este 
 2. Postulación a vacantes del mismo perfil y nivel académico,
 
 (Decreto 520 de 2010, artículo 3; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
-
-ARTÍCULO
 
 ## art:2.4.5.1.4 — Criterios para la decisión del traslado
 
@@ -18493,8 +16115,6 @@ Cuando dos o más docentes o directivos docentes estén en igualdad de condicion
 
 (Decreto 520 de 2010, artículo 4; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
 
-ARTÍCULO
-
 ## art:2.4.5.1.5 — Traslados no sujetos al proceso ordinario
 
 La autoridad nominadora efectuará el traslado de docentes o directivos docentes mediante acto administrativo debidamente motivado, en cualquier época del año lectivo, sin sujeción al proceso ordinario de traslados de que trata este Capítulo, cuando se originen en:
@@ -18508,8 +16128,6 @@ En tal caso, el nominador de la entidad territorial debe adoptar la decisión co
 3. Necesidad de resolver un conflicto que afecte seriamente la convivencia dentro de un establecimiento educativo, por recomendación sustentada del consejo directivo.
 
 (Decreto 520 de 2010, artículo 5; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
-
-ARTÍCULO
 
 ## art:2.4.5.1.6 — Gastos de traslados
 
@@ -18527,15 +16145,11 @@ PARÁGRAFO 2. Cuando la autoridad competente haya dispuesto el traslado de un do
 
 (Decreto 520 de 2010, artículo 6; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
 
-ARTÍCULO
-
 ## art:2.4.5.1.7 — Facultades de los alcaldes de municipios no certificados
 
 El alcalde de un municipio no certificado en educación sólo podrá efectuar traslados de personal docente o directivo docente entre los establecimientos educativos de su jurisdicción, de conformidad con lo dispuesto en el artículo 8.2 de la Ley 715 de 2001 y con sujeción a lo dispuesto en este Capítulo, cuando medie una delegación o asignación expresa de tal competencia por parte del gobernador de la entidad territorial certificada correspondiente.
 
 (Decreto 520 de 2010, artículo 7; Ver Sentencia T-095 de 2018, de la Corte Constitucional).
-
-ARTÍCULO
 
 ## art:2.4.5.1.8 — Seguimiento
 
@@ -18553,15 +16167,11 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.1 — Objeto
 
 El presente Capítulo tiene por objeto establecer los criterios y el procedimiento para los traslados por razones de seguridad de los educadores oficiales, de tal manera que se protejan los derechos a la vida, la libertad, la integridad y la seguridad de estos educadores y los de su familia, al igual que el derecho al trabajo de los referidos servidores.
 
 (Decreto 1782 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.2 — Campo de aplicación
 
@@ -18570,8 +16180,6 @@ El traslado por razones de seguridad se aplicará a los educadores como servidor
 Las disposiciones definidas en este Capítulo deben ser aplicadas, en el marco de sus competencias, por la autoridad nominadora de los educadores oficiales, la Unidad Nacional de Protección, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas y la Comisión Nacional del Servicio Civil.
 
 (Decreto 1782 de 2013, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.3 — Principios
 
@@ -18597,8 +16205,6 @@ Además de los principios constitucionales consagrados en el artículo 209 Super
 
 (Decreto 1782 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.4 — Finalidad
 
 El traslado por razones de seguridad tiene corno finalidad armonizar la garantía oportuna, ágil y eficaz de los derechos a la vida, la libertad, la integridad y la seguridad del educador y su familia, y el derecho al trabajo que ostenta este servidor, con los principios fundantes y los fines sociales del Estado
@@ -18613,15 +16219,11 @@ SUBSECCIÓN 1
 
 Traslados por razones de seguridad
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.1.1 — Traslados por razones de seguridad
 
 Cuando surja una amenaza o un desplazamiento forzoso, en los términos definidos en el presente Capítulo, el educador oficial podrá presentar solicitud de traslado, la cual deberá ser tramitada por la autoridad nominadora con estricta y ágil aplicación de los criterios y procedimientos administrativos aquí definidos.
 
 (Decreto 1782 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.1.2 — Tipos de traslado
 
@@ -18637,23 +16239,17 @@ SUBSECCIÓN 2
 
 Traslado por la condición de amenazado
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.2.1 — Traslado por condición de amenazado
 
 El traslado por razones de seguridad en condición de amenazado se aplicará a todos los educadores oficiales sin excepción alguna, a través de las instancias y procedimientos establecidos en la presente Subsección.
 
 (Decreto 1782 de 2013, artículo 7).
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.2.2 — Condición temporal de amenazado
 
 Se entiende que un educador adquiere la condición temporal de amenazado cuando se presentan hechos reales que, por su sola existencia, implican la alteración del uso de sus derechos a la vida, la libertad, la integridad y la seguridad, entendiéndose razonadamente que la integridad de la persona corre peligro.
 
 (Decreto 1782 de 2013, artículo 8).
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.2.3 — Trámite de la solicitud de reconocimiento de la condición de amenazado
 
@@ -18667,8 +16263,6 @@ Igualmente, dentro del término previsto en el inciso 2 del presente artículo, 
 
 (Decreto 1782 de 2013, artículo 9)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.2.4 — Reconocimiento temporal de amenazado
 
 Presentada la solicitud de protección por parte del educador oficial, la autoridad nominadora deberá expedir, dentro de los tres (3) días hábiles siguientes, el acto administrativo mediante el cual reconozca temporalmente, y por un plazo máximo de tres (3) meses, la condición de amenazado, de lo cual deberá informar a la Comisión Nacional del Servicio Civil, En consecuencia de ello, le otorgará comisión de servicios para que desempeñe el cargo en otra institución educativa dentro de su jurisdicción, sin que per este motivo haya lugar a la solución de continuidad en la prestación del servicio.
@@ -18678,8 +16272,6 @@ En el evento que no sea posible conferir la comisión de servicios para ejercer 
 Dentro del plazo de tres (3) meses señalado en el inciso 1 del presente artículo, la Unidad Nacional de Protección evaluará el nivel de riesgo al cual se encuentra sometido el educador oficial y deberá comunicar a la autoridad nominadora el resultado de su estudio. Si así no sucediere, la entidad nominadora prorrogará al educador su condición temporal de amenazado hasta por tres (3) meses más, informando a la Comisión Nacional del Servicio Civil de esta medida.
 
 (Decreto 1 782 de 2013, artículo 10).
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.2.5 — Resultados de la evaluación del nivel de riesgo
 
@@ -18707,8 +16299,6 @@ SUBSECCIÓN 3
 
 Traslados por condición de desplazado
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.3.1 — Traslado por condición de desplazado
 
 El traslado por condición de desplazado que regula la presente Subsección se aplica a los educadores ofíciales con derechos de carrera que cumplan con los preceptos que establece el artículo 1 de la Ley 387 de 1997 y el artículo 156 de la Ley 1448 de 2011.
@@ -18716,8 +16306,6 @@ El traslado por condición de desplazado que regula la presente Subsección se a
 El traslado por condición de desplazado se efectuará dentro o fuera de la entidad territorial nominadora, según las reglas que establecen los artículos siguientes.
 
 (Decreto 1782 de 2013, artículo 12).
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.3.2 — Trámite cuando el traslado es a otra entidad territorial certificada en educación
 
@@ -18745,8 +16333,6 @@ PARÁGRAFO 4. El grado o nivel de escalafón en el cual se encuentre inscrito el
 
 (Decreto 1782 de 2013, artículo 13).
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.3.3 — Trámite cuando el traslado es a otro municipio dentro de la misma entidad territorial certificada
 
 El educador que cumpla con lo previsto en el inciso 1 del artículo 2.4.5.2.2.3.1. del presente Decreto, y aspire a ser trasladado a otro municipio dentro del mismo departamento al cual se encuentra vinculado, podrá presentar su respectiva solicitud ante la autoridad nominadora.
@@ -18763,8 +16349,6 @@ SECCIÓN 3
 
 Disposiciones especiales
 
-ARTÍCULO
-
 ## art:2.4.5.2.3.1 — Obligatoriedad
 
 El gobernador, alcalde o a quien se le haya delegado la función nominadora de la entidad certificada donde, al 20 de agosto de 2013, haya estado laborando un educador, cuya vinculación sea con otra entidad territorial certificada, deberá incorporarlo en la planta de personal docente o directivo docente de su respectiva jurisdicción.
@@ -18772,8 +16356,6 @@ El gobernador, alcalde o a quien se le haya delegado la función nominadora de l
 La ejecución de esta incorporación debe darse en un plazo no mayor a los tres (3) meses siguientes al 20 de agosto de 2013. Para ello sólo deberá suscribir el convenio interadministrativo de que trata el artículo 22 de la Ley 715 de 2001 entre la entidad territorial certificada de origen y la entidad donde está ubicado del educador, sin que se surta el procedimiento establecido en la Sección 2 del presente Capítulo. Esta situación deberá comunicarse a la Comisión Nacional del Servicio Civil, como administradora del Registro Público de Carrera Docente, para efectos de ser incorporado el educador al Banco de Datos de empleados de carrera desplazados por razones de violencia.
 
 (Decreto 1782 de 2013, artículo 15).
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.2 — Situación de los educadores fuera del país
 
@@ -18788,8 +16370,6 @@ PARÁGRAFO 2. En el evento que el educador no acepte acogerse al procedimiento e
 PARÁGRAFO 3. Si el educador no da respuesta dentro del término establecido en el segundo inciso del presente artículo, la entidad territorial certificada deberá adelantar las actuaciones administrativas necesarias para definir la situación administrativa del educador, situación que deberá comunicarse a la Comisión Nacional del Servicio Civil.
 
 (Decreto 1782 de 2013, artículo 16).
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.3 — Traslado cuando los miembros del núcleo familiar del educador se han reubicado en otra entidad territorial
 
@@ -18813,8 +16393,6 @@ PARÁGRAFO 4. Si no existiere la vacante en la entidad territorial en la cual fu
 
 (Decreto 1782 de 2013, artículo 17).
 
-ARTÍCULO
-
 ## art:2.4.5.2.3.4 — Comprobación de razones infundadas
 
 Si efectuado el traslado de un educador, ya sea por la condición de amenazado o de desplazado, la autoridad nominadora de la entidad territorial de origen o de destino del educador, con el apoyo de los organismos estatales competentes, en especial de la Fiscalía General de la Nación, constata que las razones de la solicitud que originó el traslado fueron infundadas, falsas o inexistentes, el secretario de educación respectivo dará traslado a las instancias u órganos competentes para que inicien las acciones o medidas de tipo administrativo, penal y disciplinario pertinentes, respetando en todo caso el debido proceso.
@@ -18822,8 +16400,6 @@ Si efectuado el traslado de un educador, ya sea por la condición de amenazado o
 La omisión de esta actuación por parte del secretario de educación, dará lugar a iniciar el correspondiente proceso disciplinario, sin perjuicio del ejercicio de la acción penal si a ello hubiere lugar.
 
 (Decreto 1782 de 2013, artículo 18).
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.5 — Medidas administrativas y disciplinarias
 
@@ -18833,8 +16409,6 @@ Así mismo, el incumplimiento será causal de mala conducta y dará lu9ar a las 
 
 (Decreto 1782 de 2013, artículo 19).
 
-ARTÍCULO
-
 ## art:2.4.5.2.3.6 — Seguimiento y control
 
 Para garantizar el respeto de los Derechos Humanos de los educadores en condiciones de amenaza o de desplazamiento y las medidas administrativas de que trata el presente Capítulo, la Procuraduría General de la Nación y la Defensoría del Pueblo ejercerán sus competencias constitucionales y legales.
@@ -18842,8 +16416,6 @@ Para garantizar el respeto de los Derechos Humanos de los educadores en condicio
 Igualmente, la Comisión Nacional del Servicio Civil podrá adelantar las actuaciones administrativas necesarias que le otorga la Constitución y la ley, en especial la Ley 909 de 2004, para que las entidades territoriales cumplan las normas de carrera docente y respeten los derechos de carrera de los educadores al momento de aplicar las disposiciones del presente Capítulo.
 
 (Decreto 1782 de 2013, artículo 20).
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.7 — Comité de seguimiento
 
@@ -18854,8 +16426,6 @@ El Comité deberá reunirse ordinariamente una vez al mes y extraordinariamente 
 PARÁGRAFO . Corresponde al secretario de educación convocar y presidir el Comité. De cada sesión se levantará un acta.
 
 (Decreto 1782 de 2013, artículo 21)
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.8 — Régimen de transición
 
@@ -18875,15 +16445,11 @@ SECCIÓN 1
 
 Criterios
 
-ARTÍCULO
-
 ## art:2.4.6.1.1.1 — Ámbito de aplicación
 
 El presente Capítulo se aplica a las entidades territoriales certificadas que financian el servicio educativo estatal con cargo al Sistema General de Participaciones y que deben organizar sus plantas de personal docente, directivo docente y administrativo.
 
 (Decreto 3020 de 2002, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.1.1.2 — Planta de personal
 
@@ -18893,15 +16459,11 @@ La planta de personal será fijada en forma global y debe contener el número de
 
 (Decreto 3020 de 2002, artículo 2),
 
-ARTÍCULO
-
 ## art:2.4.6.1.1.3 — Fines
 
 La organización de la planta de personal se hará con el fin de lograr la ampliación de la cobertura con criterio de equidad, el mejoramiento de la calidad y el incremento de la eficiencia.
 
 (Decreto 3020 de 2002, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.6.1.1.4 — Criterios generales
 
@@ -18911,15 +16473,11 @@ PARÁGRAFO . Para determinar el número de docentes necesarios en un establecimi
 
 (Decreto 3020 de 2002, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.6.1.1.5 — Supresión de cargos
 
 Las entidades territoriales suprimirán los cargos vacantes que no se requieran para la prestación del servicio educativo estatal; así como los cargos vacantes cuando su provisión supere el monto de los recursos provenientes del Sistema General de Participaciones de la entidad territorial, y los cargos vacantes de directivos docentes que no estén contemplados en el Decreto 1278-ley de 2002.
 
 (Decreto 3020 de 2002, artículo 5).
-
-ARTÍCULO
 
 ## art:2.4.6.1.1.6 — Conversión de cargos
 
@@ -18928,8 +16486,6 @@ La conversión consiste en el cambio de un cargo por otro o la unión de dos o m
 Si la conversión implica un mayor costo, se debe contar con la respectiva disponibilidad presupuestal. En ningún caso se podrán generar costos superiores al monto de los recursos del Sistema General de Participaciones de la entidad territorial.
 
 (Decreto 3020 de 2002, artículo 6).
-
-ARTÍCULO
 
 ## art:2.4.6.1.1.7 — Creación de cargos
 
@@ -18941,23 +16497,17 @@ SECCIÓN 2
 
 Parámetros
 
-ARTÍCULO
-
 ## art:2.4.6.1.2.1 — Rector
 
 La autoridad competente de la entidad territorial certificada designará un rector para la administración única de cada institución educativa.
 
 (Decreto 3020 de 2002, artículo 8).
 
-ARTÍCULO
-
 ## art:2.4.6.1.2.2 — Director rural
 
 Para cada centro educativo rural que cuente al menos con 150 estudiantes, la autoridad competente de la entidad territorial certificada podrá designar un director sin asignación académica.
 
 (Decreto 3020 de 2002, artículo 9)
-
-ARTÍCULO
 
 ## art:2.4.6.1.2.3 — Coordinadores
 
@@ -18983,8 +16533,6 @@ PARÁGRAFO . Previa disponibilidad presupuestal, cuando una institución educati
 
 (Decreto 3020 de 2002, artículo 10).
 
-ARTÍCULO
-
 ## art:2.4.6.1.2.4 — Alumnos por docente de aula
 
 Para la ubicación del personal docente de aula se tendrá como referencia que el número promedio de alumnos por docente de aula en la entidad territorial sea como mínimo 32 en la zona urbana y 22 en la zona rural.
@@ -19003,8 +16551,6 @@ Para fijar la planta de personal de los establecimientos educativos que atienden
 
 (Artículo Modificado por el Decreto 490 de 2016, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.6.1.2.5 — Docentes orientadores y otro personal
 
 Los docentes orientadores a los que se refiere el numeral 2 del artículo 2.4.6.3.3 del presente decreto no serán tenidos en cuenta para la aplicación de los parámetros establecidos en el artículo anterior.
@@ -19012,8 +16558,6 @@ Los docentes orientadores a los que se refiere el numeral 2 del artículo 2.4.6.
 Los profesionales vinculados en propiedad a la planta de personal como docentes o administrativos y que de acuerdo con lo establecido en el artículo 46 de la Ley 115 de 1 994, realizan acciones pedagógicas y terapéuticas que permiten el proceso de integración académica y social, serán ubicados en las instituciones educativas que defina la entidad territorial para este propósito y no serán tenidos en cuenta para la aplicación de los parámetros establecidos en el artículo anterior.»
 
 (Modificado por el Art. 8 del Decreto 2105 de 2017).
-
-ARTÍCULO
 
 ## art:2.4.6.1.2.6 — Planta de personal administrativo
 
@@ -19025,8 +16569,6 @@ SECCIÓN 3
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.4.6.1.3.1 — Personal de los centros de recursos educativos
 
 Los funcionarios administrativos de los Centros Auxiliares de Servicios Docentes, CASD-las concentraciones de desarrollo rural, los centros de recursos educativos y otros establecimientos similares, dedicados a la prestación de servicios de apoyo técnico y pedagógico, que cumplen funciones de dirección o de docencia, deberán ser incorporados en la planta de cargos de directivos o docentes, siempre que cumplan los requisitos para estos cargos.
@@ -19035,15 +16577,11 @@ Si estos funcionarios no cumplen con los requisitos previstos, se podrá crear e
 
 (Decreto 3020 de 2002, artículo 14).
 
-ARTÍCULO
-
 ## art:2.4.6.1.3.2 — Docentes de Escuelas Normales Superiores
 
 La definición de la planta de personal docente de la educación básica secundaria y media de las Escuelas Normales Superiores, incluirá las necesidades de formación del ciclo complementario de los normalistas superiores de acuerdo con las áreas o núcleos del saber establecidos en el Decreto 4790 de 2008, en la manera en que queda compilado en el presente Decreto.
 
 (Decreto 3020 de 2002, artículo 15).
-
-ARTÍCULO
 
 ## art:2.4.6.1.3.3 — Docentes en comisión
 
@@ -19052,8 +16590,6 @@ Los docentes estatales que al 26 de noviembre de 2005 se encontraban en comisió
 De presentarse el retiro del servicio de los referidos docentes, el cargo vacante será trasladado por la entidad territorial certificada en educación al establecimiento educativo oficial que lo requiera, de acuerdo con las necesidades del servicio.
 
 (Decreto 3020 de 2002, artículo 16, modificado por el Decreto 2446 de 2012, artículo 1; Modificado por el Decreto 2262 de 2017, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.1.3.4 — Responsabilidades
 
@@ -19071,15 +16607,11 @@ CAPÍTULO 2
 
 PROCEDIMIENTOS PARA REALIZAR MODIFICACIONES EN LAS PLANTAS DE CARGOS DEL PERSONAL DOCENTE, DIRECTIVO DOCENTE Y ADMINISTRATIVO FINANCIADAS CON CARGO AL SISTEMA GENERAL DE PARTICIPACIONES
 
-ARTÍCULO
-
 ## art:2.4.6.2.1 — Objeto y ámbito de aplicación
 
 El presente Capítulo reglamenta los procedimientos que deben observar las entidades territoriales certificadas para realizar modificaciones en la planta de cargos docentes, directivos docentes y administrativos organizada conjuntamente por la Nación y la entidad territorial, financiada con cargo al Sistema General de Participaciones.
 
 (Decreto 1494 de 2005, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.2.2 — Condiciones generales
 
@@ -19103,8 +16635,6 @@ PARÁGRAFO Para efectos de la modificación de la planta de cargos del personal 
 
 (Decreto 1494 de 2005, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.6.2.3 — Procedimiento
 
 Para realizar modificaciones en la planta de cargos, docentes, directivos docentes y administrativa financiada con cargo al Sistema General de Participaciones la entidad territorial deberá realizar los siguientes pasos:
@@ -19127,8 +16657,6 @@ PARÁGRAFO TRANSITORIO. Cuando se trate de modificar las plantas de cargos docen
 
 (Decreto 1236 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.6.2.4 — Otras disposiciones
 
 En ningún caso la entidad territorial certificada podrá efectuar cambios dentro de las plantas de cargos administrativos, docentes y directivos docentes financiadas con recursos del Sistema General de Participaciones sin el seguimiento estricto de los pasos establecidos en el presente Capítulo.
@@ -19145,15 +16673,11 @@ PROVISIÓN DE CARGOS DEL SISTEMA ESPECIAL DE CARRERA DOCENTE
 
 (Capítulo adicionado por el Decreto 490 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.6.3.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar los tipos de cargos de los empleos de docente y directivo docente establecidos por el sistema especial de carrera docente, así coma los criterios para su provisión por parte de las entidades territoriales certificadas en educación.
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.2 — Ámbito de aplicación
 
@@ -19162,8 +16686,6 @@ El presente capítulo aplica a los educadores que ingresen al sistema especial d
 Igualmente, en lo que sea de su competencia, aplicara al Ministerio de Educación Nacional como entidad responsable del sector educativo y a las entidades territoriales certificadas en educación, en virtud de la competencia que tienen de administrar el personal docente oficial que labora en su jurisdicción, según lo dispuesto en los artículos 6 (numeral 6.2.3.) y 7 (numeral 7.3.) de la Ley 715 de 2001.
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.3 — Tipos de cargos docentes
 
@@ -19201,8 +16723,6 @@ PARÁGRAFO 3. Para efectos de la vinculación de los docentes de que trata el nu
 
 (Modificado por el Art. 9 del Decreto 2105 de 2017)
 
-ARTÍCULO
-
 ## art:2.4.6.3.4 — Reubicación de cargo docente
 
 Un docente de aula, que ocupa con derechos de carrera uno de los tipos de cargo de que trata el numeral 1 del artículo 2.4.6.3.3. del presente Decreto, puede solicitar por escrito, ante la respectiva autoridad nominadora, su reubicación a otro cargo diferente de docente de aula o como docente orientador, sin perder sus derechos de carrera. Esta reubicación, cuando fuere procedente y necesaria, se realizará mediante acto administrativo debidamente motivado, previa verificación del cumplimiento de los requisitos mínimos del cargo al cual aspira, definidos en el Manual de que trata el artículo 2.4.6.3.8 del presente decreto. En el mismo sentido, procede la reubicación de un docente orientador a uno de los cargos de docente de aula.
@@ -19217,8 +16737,6 @@ PARÁGRAFO TRANSITORIO 2. Cada vez que ocurra una vacancia definitiva del person
 
 (Modificado por el Art. 9 del Decreto 2105 de 2017)
 
-ARTÍCULO
-
 ## art:2.4.6.3.5 — Cargos directivos docentes
 
 Son cargos directivos docentes las de Rector, Director Rural y Coordinador. Los aspirantes a estos cargos deberán cumplir los requisitos de estudios y experiencia previstos en la Ley 115 de 1994 y el Decreto Ley 1278 de 2002, en consonancia con lo dispuesto en el artículo siguiente y en el manual de que trata el artículo 2.4.6.3.8 del presente decreto.
@@ -19228,8 +16746,6 @@ PARÁGRAFO . Para el cumplimiento de los requisitos de estudio, los títulos que
 Para participar en el concurso de méritos que se convoque para la provisión del cargo respectivo, los títulos de educación superior obtenidos en el extranjero deben estar debidamente convalidados ante el Ministerio de Educación Nacional.
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.6 — Perfil del cargo directivo docente
 
@@ -19247,8 +16763,6 @@ El directivo docente es un profesional de la educación que asume el ejercicio d
 
 (Modificado por el Art. 10 del Decreto 2105 de 2017).
 
-ARTÍCULO
-
 ## art:2.4.6.3.7 — Experiencia para cargos directivos docentes
 
 Para ocupar un cargo de directivo docente, deberá acreditarse la siguiente experiencia, según el caso:
@@ -19260,8 +16774,6 @@ Para ocupar un cargo de directivo docente, deberá acreditarse la siguiente expe
 3. Coordinador: los aspirantes a cargo de coordinador deberán acreditar, como mínimo, cinco (5) años de experiencia profesional con reconocida trayectoria en materia educativa, de los cuales, mínimo, cuatro (4) anos deben ser en cargos docentes o docentes directivos de tiempo completo, en cualquier nivel educativo y tipo de institución, oficial o privada. Los aspirantes podrán acreditar máximo un aria de experiencia profesional en otro tipo de cargos, siempre y cuando en estos hayan cumplido funciones de administración de personal, de finanzas o de planeación en instituciones educativas oficiales o privadas de cualquier nivel educativo.
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.8 — Manual de funciones, requisitos y competencias del sistema especial de carrera docente
 
@@ -19276,8 +16788,6 @@ Para valorar la reconocida trayectoria educativa de los cargos de directivo doce
 Para los cargos de docentes de aula y líderes de apoyo, el manual indicado en el presente artículo fijara los criterios que permitan evaluar, durante la aplicación de las pruebas de valoración de antecedentes y de entrevista del concurso de méritos, la trayectoria educativa y la idoneidad para el cargo respectivo, las aptitudes, experiencia, competencias básicas, relaciones interpersonales y condiciones de personalidad del aspirante.
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.9 — Prioridad en la provisión de vacantes definitivas
 
@@ -19303,8 +16813,6 @@ c) Educador con derechos de carrera al cual se le haya suprimido el cargo y que 
 
 (Decreto 490 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.6.3.10 — Nombramiento provisional
 
 El nombramiento provisional se aplica para la provisión transitoria de cargos docentes que se hallen en vacancia temporal o definitiva y se hará mediante acto debidamente motivado expedido por la autoridad nominadora con personal que reúna los requisitos del cargo.
@@ -19316,8 +16824,6 @@ Tratándose de vacancias definitivas, el cargo docente será ocupado por una de 
 PARÁGRAFO . En caso de que no haya ningún aspirante inscrito para un determinado cargo en el aplicativo referido anteriormente, y con el fin de garantizar la prestación del servicio educativo, la autoridad nominadora podrá, mediante acto administrativo debidamente motivado, nombrar provisionalmente a un docente que cumpla con los requisitos del cargo.
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.11 — Del reporte de vacantes definitivas para proveer mediante nombramiento provisional
 
@@ -19334,8 +16840,6 @@ PARÁGRAFO 2. Tratándose de docentes de aula que se desempeñen en el área de 
 (Parágrafo 2, derogado por el Art. 12 del Decreto 2105 de 2017)
 
 (Decreto 490 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.3.12 — Terminación del nombramiento provisional
 
@@ -19360,8 +16864,6 @@ PARÁGRAFO 2. Antes de dar por terminado el nombramiento provisional por alguno 
 PARÁGRAFO 3. La terminación del nombramiento provisional en un cargo en vacancia temporal procederá por las causales señaladas en los numerales 2 y 3 del presente artículo.
 
 (Modificado por el Art. 11 del Decreto 2105 de 2017).
-
-ARTÍCULO
 
 ## art:2.4.6.3.13 — Encargo
 
@@ -19389,8 +16891,6 @@ PARÁGRAFO 2. Si ningún educador se postula a la convocatoria para la provisió
 
 (Modificado por el Art. 11 del Decreto 2105 de 2017).
 
-ARTÍCULO
-
 ## art:2.4.6.3.14 — Reporte de provisión de cargos
 
 Con el fin del ejercicio propio de las funciones de vigilancia de carrera docente, las entidades territoriales certificadas en educación deberán reportar a la Comisión Nacional del Servicio Civil, en las condiciones dispuestas por esta entidad, un informe sobre la provisión de vacantes definitivas por encargo de cargos de directivos docentes y por nombramiento provisional de cargos docentes.
@@ -19411,8 +16911,6 @@ CAPÍTULO 1
 
 REDEFINICIÓN
 
-ARTÍCULO
-
 ## art:2.5.1.1.1 — Redefinición de las instituciones técnicas profesionales y tecnológicas
 
 La redefinición es un proceso institucional integral de reforma estatutaria, académica y administrativa que asume voluntariamente una institución técnica profesional o tecnológica para organizar la actividad formativa de pregrado en ciclos propedéuticos de formación en las áreas de las ingenierías, la tecnología de la información y la administración, de acuerdo con lo establecido en la Ley 749 de 2002.
@@ -19420,8 +16918,6 @@ La redefinición es un proceso institucional integral de reforma estatutaria, ac
 Las instituciones técnicas profesionales o tecnológicas, públicas o privadas, que resuelvan redefinirse de conformidad con lo establecido en la Ley 749 de 2002, deberán solicitar al Ministerio de Educación Nacional la ratificación de la reforma estatutaria conducente a la redefinición.
 
 (Decreto 2216 de 2003, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.1.1.2 — Requisitos para la redefinición
 
@@ -19433,15 +16929,11 @@ CAPÍTULO 2
 
 CAMBIO DE CARÁCTER ACADÉMICO
 
-ARTÍCULO
-
 ## art:2.5.1.2.1 — Cambio de carácter académico de las instituciones técnicas profesionales y tecnológicas
 
 El cambio de carácter académico es un proceso institucional integral de reforma estatutaria, académica y administrativa mediante el cual una institución de educación superior de carácter técnico profesional puede convertirse en institución tecnológica, institución universitaria o escuela tecnológica y una institución tecnológica puede convertirse en escuela tecnológica o institución universitaria.
 
 (Decreto 2216 de 2003, artículo 3).
-
-ARTÍCULO
 
 ## art:2.5.1.2.2 — Requisitos para el cambio de carácter académico
 
@@ -19463,8 +16955,6 @@ CAPÍTULO 3
 
 DEL PROCEDIMIENTO PARA LA RATIFICACIÓN DE LA REFORMA ESTATUTARIA
 
-ARTÍCULO
-
 ## art:2.5.1.3.1 — Solicitud de ratificación de reforma estatutaria para redefinición y cambio de carácter académico
 
 Para efectos de la ratificación de la reforma estatutaria, el rector o representante legal de la institución de educación superior, o su apoderado, deberán presentar al Ministerio de Educación Nacional, la correspondiente solicitud en los formatos diseñados para tal fin.
@@ -19485,23 +16975,17 @@ Nacional solicitará a la institución su complementación, en los términos se�
 
 (Decreto 2216 de 2003, artículo 5).
 
-ARTÍCULO
-
 ## art:2.5.1.3.2 — Designación de pares académicos
 
 Dentro de los cinco días hábiles siguientes a la presentación en debida forma de la solicitud, el Ministerio de Educación Nacional designará el par o pares académicos para la evaluación correspondiente.
 
 (Decreto 2216 de 2003, artículo 6).
 
-ARTÍCULO
-
 ## art:2.5.1.3.3 — Comunicación a la institución de educación superior sobre pares académicos
 
 Designados los pares académicos, el Ministerio de Educación Nacional comunicará a la institución de educación superior sus nombres. En caso de existir motivo de recusación por parte de la institución, esta podrá presentar ante el Ministerio de Educación Nacional, en un término de diez (10) días hábiles y debidamente sustentados, la solicitud de cambio de los pares académicos. Si se encuentra mérito para la recusación, se procederá designar nuevos pares académicos.
 
 (Decreto 2216 de 2003, artículo 7).
-
-ARTÍCULO
 
 ## art:2.5.1.3.4 — Proceso de evaluación
 
@@ -19515,8 +16999,6 @@ PARÁGRAFO . Los procesos de evaluación de la reforma estatutaria conducente al
 
 (Decreto 2216 de 2003, artículo 8).
 
-ARTÍCULO
-
 ## art:2.5.1.3.5 — Concepto
 
 Presentado el informe evaluativo por los pares académicos, la Comisión Consultiva de Instituciones de Educación Superior, o quien haga sus veces, emitirá concepto debidamente motivado recomendando la ratificación o no de la reforma estatutaria y el registro calificado de los programas.
@@ -19527,8 +17009,6 @@ CAPÍTULO 4
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.5.1.4.1 — De los ciclos propedéuticos
 
 La actividad formativa de una institución de educación superior está diseñada en ciclos propedéuticos cuando está organizada en ciclos secuenciales y complementarios, cada uno de los cuales brindan una formación integral correspondiente a ese ciclo y conduce a un título que habilita tanto para el desempeño laboral correspondiente a la formación obtenida, como para continuar en el ciclo siguiente. Para ingresar a un ciclo superior en la formación organizada por ciclos propedéuticos es requisito indispensable tener el título correspondiente al ciclo anterior.
@@ -19537,8 +17017,6 @@ PARÁGRAFO 1. Las instituciones técnicas profesionales y tecnológicas que ofre
 
 (Decreto 2216 de 2003, artículo 10).
 
-ARTÍCULO
-
 ## art:2.5.1.4.2 — Articulación con la básica secundaria
 
 Podrán ingresar a programas de formación técnica profesional o de primer ciclo, quienes, además de cumplir con los requisitos que establezca cada institución, hayan terminado y aprobado en su totalidad la educación básica secundaria y sean mayores de dieciséis (16) años, o hayan obtenido el Certificado de Aptitud Profesional - CAP, expedido por el Servicio Nacional de Aprendizaje - SENA.
@@ -19546,8 +17024,6 @@ Podrán ingresar a programas de formación técnica profesional o de primer cicl
 PARÁGRAFO . Quienes cursen y reciban su título de técnico profesional, dentro de la opción establecida en el presente artículo, y opten por el ingreso al ciclo tecnológico o profesional, deberán tener título de bachiller, haber presentado el examen de Estado y cumplir los criterios de homologación y validación de la respectiva institución.
 
 (Decreto 2216 de 2003, artículo 11).
-
-ARTÍCULO
 
 ## art:2.5.1.4.3 — De la participación del sector productivo en el proceso de la acreditación
 
@@ -19558,8 +17034,6 @@ Los criterios y procedimientos para la participación del sector productivo en e
 TÍTULO 2
 
 RECONOCIMIENTO COMO UNIVERSIDAD DE UNA INSTITUCIÓN UNIVERSITARIA O ESCUELA TECNOLÓGICA
-
-ARTÍCULO
 
 ## art:2.5.2.1 — Requisitos
 
@@ -19595,8 +17069,6 @@ Para el proceso de acreditación que permita al Ministerio de Educación Naciona
 
 (Decreto 1212 de 1993, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.2.2 — Presentación de la solicitud
 
 La solicitud de reconocimiento como Universidad se formulará ante el Ministerio de Educación Nacional.
@@ -19613,15 +17085,11 @@ CAPÍTULO 1
 
 CONDICIONES BÁSICAS DE CALIDAD DEL PROGRAMA DE FORMACIÓN COMPLEMENTARIA DE LAS ESCUELAS NORMALES SUPERIORES
 
-ARTÍCULO
-
 ## art:2.5.3.1.1 — Objeto
 
 El presente Título tiene por objeto establecer las condiciones básicas de calidad para la organización y el funcionamiento del programa de formación complementaria de educadores para el nivel de preescolar y el ciclo de básica primaria que puede ofrecer una escuela normal superior. La organización y el funcionamiento del programa de formación complementaria ofrecido por la escuela normal superior responderán a su proyecto educativo institucional y estará regido por la Ley 115 de 1994, la Ley 715 del 2001 y su reglamentación.
 
 (Decreto 4790 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.1.2 — Principios pedagógicos
 
@@ -19636,8 +17104,6 @@ El programa de formación complementaria que ofrezca la escuela normal superior 
 4. Los contextos. Entendidos como un tejido de relaciones sociales, económicas, culturales, que se producen en espacios y tiempos determinados.
 
 (Decreto 4790 de 2008, artículo 2).
-
-ARTÍCULO
 
 ## art:2.5.3.1.3 — Condiciones básicas de calidad
 
@@ -19671,8 +17137,6 @@ El programa de formación complementaria de la escuela normal superior deberá c
 
 (Decreto 4790 de 2008, artículo 3).
 
-ARTÍCULO
-
 ## art:2.5.3.1.4 — Solicitud de verificación
 
 Para la verificación del cumplimiento de las condiciones básicas de calidad del programa de formación complementaria, el rector de la escuela normal superior, previo concepto favorable del secretario de educación de la entidad territorial certificada respectiva, deberá presentar al Ministerio de Educación Nacional:
@@ -19691,8 +17155,6 @@ PARÁGRAFO 2. La solicitud debe presentarse con una anticipación no menor de se
 
 (Decreto 4790 de 2008, artículo 4).
 
-ARTÍCULO
-
 ## art:2.5.3.1.5 — Verificación de las condiciones de calidad
 
 Corresponde al Ministerio de Educación Nacional verificar el cumplimiento de las condiciones básicas de calidad del programa de formación complementaria establecidas en el presente Título.
@@ -19705,15 +17167,11 @@ La autorización de funcionamiento del programa de formación complementaria ten
 
 (Decreto 4790 de 2008, artículo 5, modificado por el Decreto 2381 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.3.1.6 — Ampliación de la vigencia
 
 Las autorizaciones de funcionamiento que hayan sido otorgadas por el Ministerio de Educación Nacional y que se encuentran vigentes al 12 de diciembre de 2014, quedarán sujetas al término de vigencia establecido en el artículo anterior.
 
 (Decreto 2545 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:2.5.3.1.7 — Cumplimiento de las condiciones básicas de calidad
 
@@ -19724,8 +17182,6 @@ Si una vez expirada la autorización de que trata el artículo 2.5.3.1.5 del pre
 PARÁGRAFO . En el caso de imposición de sanciones de suspensión o cancelación de la licencia de funcionamiento o del reconocimiento de carácter oficial, y cuando la escuela normal superior no solicite la autorización de que trata este Título antes del término establecido en el parágrafo 2 del artículo 2.5.3.1.3., del presente Decreto, no podrá admitir estudiantes nuevos para el programa de formación complementaria. Sin embargo, la escuela normal tendrá que garantizar la terminación de las cohortes ya iniciadas.
 
 (Decreto 4790 de 2008, artículo 6).
-
-ARTÍCULO
 
 ## art:2.5.3.1.8 — Créditos académicos
 
@@ -19739,8 +17195,6 @@ PARÁGRAFO . Con el propósito de facilitar el reconocimiento de saberes, logros
 
 (Decreto 4790 de 2008, artículo 7).
 
-ARTÍCULO
-
 ## art:2.5.3.1.9 — Oferta del servicio
 
 Podrán ser aceptados en el programa de formación complementaria, además de los bachilleres egresados de una escuela normal superior, los estudiantes egresados de la educación media que acrediten un título de bachiller en cualquier modalidad.
@@ -19748,8 +17202,6 @@ Podrán ser aceptados en el programa de formación complementaria, además de lo
 Para los bachilleres egresados de una escuela normal, el programa de formación complementaria tendrá una duración de cuatro (4) semestres académicos. Para aquellos provenientes de otra modalidad de educación media, el programa de formación complementaria tendrá una duración de cinco (5) semestres académicos.
 
 (Decreto 4790 de 2008, artículo 8).
-
-ARTÍCULO
 
 ## art:2.5.3.1.10 — Título
 
@@ -19760,8 +17212,6 @@ A los estudiantes que finalicen y aprueben el programa de formación complementa
 (Subrogado por el Art. 2 del Decreto 1236 de 2020)
 
 (Decreto 4790 de 2008, artículo 9).
-
-ARTÍCULO
 
 ## art:2.5.3.1.11 — Programas a distancia
 
@@ -19801,23 +17251,17 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.5.3.2.1.1 — Concepto de calidad
 
 Es el conjunto de atributos articulados, interdependientes, dinámicos, construidos por la comunidad académica como referentes y que responden a las demandas sociales, culturales y ambientales. Dichos atributos permiten hacer valoraciones internas y externas a las instituciones, con el fin de promover su transformación y el desarrollo permanente de sus labores formativas, académicas, docentes, científicas, culturales y de extensión.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.1.2 — Sistema de Aseguramiento de la Calidad de la Educación Superior
 
 Es el conjunto de instituciones e instancias definidas por el marco normativo vigente, que se articulan por medio de políticas y procesos diseñados, con el propósito de asegurar la calidad de las instituciones y de sus programas. Este sistema promueve en las instituciones los procesos de autoevaluación, auto regulación y mejoramiento de sus labores formativas, académicas, docentes, científicas, culturales y de extensión, contribuyendo al avance y fortalecimiento de su comunidad y sus resultados académicos, bajo principios de equidad, diversidad, inclusión y sostenibilidad.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.1.3 — Actores del Sistema de Aseguramiento de la Calidad de la Educación Superior
 
@@ -19857,8 +17301,6 @@ SECCIÓN 2
 
 CARACTERÍSTICAS DEL REGISTRO CALIFICADO
 
-ARTÍCULO
-
 ## art:2.5.3.2.2.1 — Definición
 
 El registro calificado es un requisito obligatorio y habilitante para que una institución de educación superior, legalmente reconocida por el Ministerio de Educación Nacional, y aquellas habilitadas por la ley, puedan ofrecer y desarrollar programas académicos de educación superior en el territorio nacional, de conformidad con lo dispuesto en el artículo 1 de la Ley 1188 de 2008.
@@ -19871,8 +17313,6 @@ PARÁGRAFO. Para todos los efectos del presente capítulo, se entiende por insti
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.2.2 — Otorgamiento, renovación y vigencia del registro calificado
 
 El registro calificado será otorgado o renovado por el Ministerio de Educación Nacional mediante acto administrativo motivado en el cual se ordenará la inscripción o modificación del programa en el Sistema Nacional de Información de Educación Superior - SNIES, según corresponda.
@@ -19882,8 +17322,6 @@ El registro calificado tendrá una vigencia de siete (7) años, contados a parti
 Es autonomía de la institución solicitar, ante el Ministerio de Educación Nacional en un trámite, el registro calificado de un programa académico en el que se vinculen varias modalidades y/o varios municipios, distritos, áreas no municipalizadas y/o territorios indígenas, o solicitar en un trámite el registro calificado de un programa académico con una única modalidad y un único municipio, distrito, área no municipalizada y/o territorio indígena.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.2.3 — Carencia de registro calificado
 
@@ -19900,8 +17338,6 @@ d) Se encuentra en firme el acto administrativo que impone la sanción de suspen
 No constituye título de carácter académico de educación superior aquel que otorgue una institución a la persona que se haya matriculado por primera vez en un programa académico que carece de registro calificado. Lo anterior, en concordancia con lo dispuesto respecto de los programas activos e inactivos en el artículo 2.5.3.2.11.1 del presente decreto.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.2.4 — Registro único
 
@@ -19930,8 +17366,6 @@ Las demás condiciones de calidad de programa y componentes de la condición de 
 PARÁGRAFO. Los programas académicos autorizados para ser ofrecidos y desarrollados por una institución en varias modalidades y/o varios municipios, distritos, áreas no municipalizadas y/o territorios indígenas se registrarán en el Sistema Nacional de información de la Educación Superior - SNIES con la identificación de un código o registro único.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.2.5 — Definición de modalidad
 
@@ -19997,8 +17431,6 @@ Subsección 1
 
 Condiciones Institucionales
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.1.1 — Conceptualización
 
 Son las características necesarias a nivel institucional que facilitan y promueven el desarrollo de las labores formativas, académicas, docentes, científicas, culturales y de extensión de las instituciones en coherencia con su naturaleza jurídica, tipología, identidad y misión institucional, así como de las distintas modalidades (presencial, a distancia, virtual, dual u otros desarrollos que combinen e integren las anteriores modalidades), de los programas que oferta, en procura del fortalecimiento integral de la institución y la comunidad académica, todo lo anterior en el marco de la transparencia y la gobernabilidad.
@@ -20006,8 +17438,6 @@ Son las características necesarias a nivel institucional que facilitan y promue
 En cumplimiento de lo dispuesto en el artículo 2 de la Ley 1188 de 2008, las instituciones deberán cumplir con las siguientes condiciones de calidad de carácter institucional: mecanismos de selección y evaluación de estudiantes y profesores, estructura administrativa y académica, cultura de la autoevaluación, programa de egresados, modelo de bienestar y recursos suficientes para garantizar el cumplimiento de las metas.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.1.2 — Mecanismos de selección y evaluación de estudiantes y profesores
 
@@ -20022,8 +17452,6 @@ b) Mecanismos de selección y evaluación de profesores. La institución deberá
 El reglamento profesoral, o su equivalente, deberá proveer los criterios y mecanismos para el ingreso, desarrollo, permanencia y evaluación de los profesores, orientados bajo principios de transparencia, mérito y objetividad.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.1.3 — Estructura administrativa y académica
 
@@ -20057,8 +17485,6 @@ d) Arquitectura institucional. Entendida como la articulación entre procesos, o
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.1.4 — Cultura de la autoevaluación
 
 Es el conjunto de mecanismos que las instituciones tienen para el seguimiento sistemático del cumplimiento de sus objetivos misionales, el análisis de las condiciones que afectan su desarrollo, y las medidas para el mejoramiento continuo. Esta cultura busca garantizar que la oferta y desarrollo de programas académicos se realice en condiciones de calidad y que las instituciones rindan cuentas ante la comunidad, la sociedad y el Estado sobre el servicio educativo que presta.
@@ -20079,15 +17505,11 @@ e) Mecanismos que permitan procesos continuos de autoevaluación y autorregulaci
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.1.5 — Programa de Egresados
 
 Los egresados evidencian la apropiación de la misión institucional, por lo tanto, son ellos quienes a través de su desarrollo profesional y personal contribuyen a las dinámicas sociales y culturales. Por tal razón, la institución deberá demostrar la existencia, divulgación e implementación de los resultados de políticas, planes y programas que promuevan el seguimiento a la actividad profesional de los egresados. A su vez, la institución deberá establecer mecanismos que propendan por el aprendizaje a lo largo de la vida, de tal forma que involucre la experiencia del egresado en la dinámica institucional.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.1.6 — Modelo de bienestar
 
@@ -20096,8 +17518,6 @@ La institución establecerá las políticas, procesos, actividades y espacios qu
 En coherencia con lo anterior, la institución deberá demostrar la existencia de mecanismos de divulgación e implementación de los programas de bienestar orientados a la prevención de la deserción y a la promoción de la graduación de los estudiantes.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.1.7 — Recursos suficientes para garantizar el cumplimiento de las metas
 
@@ -20128,8 +17548,6 @@ c) Recursos financieros. La institución deberá demostrar la existencia, divulg
 La institución deberá demostrar condiciones financieras sostenibles y orientadas a lograr el fortalecimiento en condiciones de calidad institucional y de programas, así como la obtención de los resultados académicos propuestos.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.1.8 — Evaluación de las condiciones de carácter institucional
 
@@ -20163,8 +17581,6 @@ PARÁGRAFO TRANSITORIO. El cumplimiento de la etapa de pre radicación para la o
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.1.9 — Renovación de etapa de pre radicación
 
 La solicitud de renovación de etapa de pre radicación deberá presentarse con no menos de doce (12) meses de antelación a la fecha de vencimiento de la vigencia del concepto favorable de condiciones de calidad de carácter institucional, y en ella la institución deberá:
@@ -20185,8 +17601,6 @@ Subsección 2
 
 Evaluación de Condiciones de Programa
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.2.1 — Conceptualización
 
 Las condiciones de programa se entenderán como las características necesarias por nivel que describen sus particularidades en coherencia con la tipología, identidad y misión institucional, así como de las distintas modalidades (presencial, a distancia, virtual, dual u otros desarrollos que combinen e integren las anteriores modalidades). Las condiciones de programa son: denominación; justificación; aspectos curriculares; organización de actividades académicas y proceso formativo; investigación, innovación y/o creación artística y cultural; relación con el sector externo; profesores; medíos educativos e infraestructura física y tecnológica.
@@ -20194,8 +17608,6 @@ Las condiciones de programa se entenderán como las características necesarias 
 PARÁGRAFO . El Ministerio de Educación Nacional reglamentará el mecanismo de oferta y desarrollo de programas académicos de educación superior, en zonas rurales con condiciones de difícil acceso a educación superior en un término no superior a doce (12} meses, contados a partir de la presente modificación.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.2.2 — Denominación del programa
 
@@ -20209,8 +17621,6 @@ PARÁGRAFO . Las denominaciones no existentes en el Sistema Nacional de Informac
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.2.3 — Justificación del programa
 
 La institución deberá presentar una justificación que sustente el contenido curricular, los perfiles de egreso y la (s) modalidad (es), en que se desea ofrecer el programa para que este sea pertinente al desarrollo social, cultural, ambiental, económico y científico, frente a las necesidades del país y la región, con fundamento en un estudio que por lo menos contenga los siguientes componentes:
@@ -20222,8 +17632,6 @@ b) Las necesidades de la región y del país que, según la propuesta, tengan re
 c) Una justificación de los atributos o factores que constituyen los rasgos distintivos del programa con relación a los ya existentes en el área o las áreas del conocimiento y la(s) región(es) donde se desarrollará el programa, en coherencia con su naturaleza jurídica, tipología e identidad institucional.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.2.4 — Aspectos curriculares
 
@@ -20243,15 +17651,11 @@ PARÁGRAFO . el caso de los programas por ciclos propedéuticos, además se debe
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.2.5 — Organización de actividades académicas y proceso formativo
 
 La institución deberá establecer en el programa, la organización de las actividades y la interacción de las mismas, de acuerdo con el diseño y contenido curricular, en coherencia con las modalidades, los niveles de formación, la naturaleza jurídica, la tipología y la identidad institucional. Para cada actividad de formación incluida en el plan de estudios se deben presentar los créditos y discriminar las horas de trabajo independiente y las de acompañamiento directo del docente, acorde con el sistema institucional de créditos.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.2.6 — Investigación, innovación y/o creación artística y cultural
 
@@ -20273,8 +17677,6 @@ e) Aquellos programas que hicieron explícita la incorporación de la investigac
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.2.7 — Relación con el sector externo
 
 La institución deberá establecer para el programa, los mecanismos y estrategias para lograr la vinculación de la comunidad y el sector productivo, social, cultural, público y privado, en coherencia con las modalidades (presencial, a distancia, virtual, dual u otros desarrollos que combinen e integren las anteriores modalidades), el nivel de formación del programa, la naturaleza jurídica de la institución, la tipología e identidad institucional.
@@ -20282,8 +17684,6 @@ La institución deberá establecer para el programa, los mecanismos y estrategia
 En coherencia con el proceso formativo y la investigación, el programa establecerá los mecanismos y las estrategias, para lograr la articulación de los profesores y estudiantes con la dinámica social, productiva, creativa y cultural de su contexto.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.2.8 — Profesores
 
@@ -20309,8 +17709,6 @@ PARÁGRAFO 2. Para los programas en áreas de la salud que impliquen formación 
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.2.10 — Infraestructura física y tecnológica
 
 La institución proveerá los ambientes físicos y virtuales de aprendizaje, específicos para el desarrollo de los procesos formativos, la investigación y la extensión de acuerdo con las modalidades en que el programa se ofrezca.
@@ -20318,8 +17716,6 @@ La institución proveerá los ambientes físicos y virtuales de aprendizaje, esp
 PARÁGRAFO . El programa podrá demostrar la disponibilidad de la infraestructura por medio de convenios o contratos vigentes en coherencia con la duración del registro calificado que deberán incluir en sus cláusulas los alcances de dicha disponibilidad en términos de horarios y capacidad. En todos los casos dicha infraestructura deberá cumplir con la normatividad vigente.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.3.2.11 — Cumplimiento de las condiciones de calidad de programa
 
@@ -20347,8 +17743,6 @@ PARÁGRAFO. En los trámites de otorgamiento y renovación de registro calificad
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.3.2.12 — Renovación del registro calificado
 
 La solicitud de renovación del registro calificado deberá presentarse con no menos de doce (12) meses de antelación al vencimiento del registro calificado y en ella la institución deberá:
@@ -20375,8 +17769,6 @@ SECCIÓN 4
 
 CRÉDITOS ACADÉMICOS
 
-ARTÍCULO
-
 ## art:2.5.3.2.4.1 — Crédito académico
 
 Es la unidad de medida del trabajo académico del estudiante que indica el esfuerzo a realizar para alcanzar los resultados de aprendizaje previstos. El crédito equivale a cuarenta y ocho (48) horas para un periodo académico y las instituciones deberán determinar Ja proporción entre la relación directa con el profesor y la práctica independiente del estudiante, justificada de acuerdo con el proceso formativo y los resultados de aprendizaje previstos para el programa.
@@ -20385,15 +17777,11 @@ Las instituciones deberán expresar en créditos académicos de todas las activi
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.4.2 — Número de créditos académicos del proceso formativo
 
 El número de créditos de una actividad académica en el plan de estudios será aquel que resulte de dividir en cuarenta y ocho (48) el número total de horas que debe emplear el estudiante para cumplir satisfactoriamente las metas de aprendizaje, en un periodo académico. Para los efectos de este capítulo, el número de créditos de una actividad académica será expresado siempre en números enteros.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.4.3 — Horas de acompañamiento y de trabajo independiente
 
@@ -20414,8 +17802,6 @@ PROGRAMAS EN CONVENIO
 En el marco de las solicitudes de etapa de pre radicación, de otorgamiento o renovación del registro calificado, y de modificación de programa, la institución podrá presentar el desarrollo de alianzas y convenios con instituciones de educación básica, media, superior y de educación para el trabajo y el desarrollo humano, así como con organizaciones públicas o privadas que apoyen el desarrollo de las actividades, con el propósito de soportar el cumplimiento de condiciones de calidad de carácter institucional y de programa.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.5.2 — Convenios entre instituciones para el desarrollo de programas académicos
 
@@ -20449,8 +17835,6 @@ Cuando el convenio establezca el otorgamiento de título por parte de la institu
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.5.3 — Convenías para la titulación conjunta en programas de posgrado con institutos y centros de investigación
 
 De conformidad con lo dispuesto en el artículo 125 de la Ley 30 de 1992, las instituciones podrán celebrar convenios para la oferta y desarrollo conjunto de programas académicos de posgrado con institutos y centros de investigación reconocidos por el Ministerio de Ciencia, Tecnología e Innovación o quien haga sus veces, y emitir de manera conjunta el título académico con estos; no obstante, la titular del registro calificado siempre será la institución, sin perjuicio de lo dispuesto en la Ley 2142 de 2021.
@@ -20458,8 +17842,6 @@ De conformidad con lo dispuesto en el artículo 125 de la Ley 30 de 1992, las in
 La solicitud de otorgamiento del registro calificado o de modificación del programa académico deberá presentarse por la institución ante el Ministerio de Educación Nacional, a través de la herramienta tecnológica o mecanismo que se disponga para ello. El convenio deberá definir las obligaciones de la institución y del instituto o centro de investigación frente al cumplimiento de las condiciones de calidad de programa.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.5.4 — Titulación
 
@@ -20475,15 +17857,11 @@ SECCIÓN 6
 
 PROGRAMAS DE POSGRADO
 
-ARTÍCULO
-
 ## art:2.5.3.2.6.1 — Programas de posgrado
 
 Se trata de la formación posterior al título de pregrado que se desarrolla según el marco normativo vigente, en los niveles de especialización, maestría y doctorado.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.6.2 — Objetivos generales de los posgrados
 
@@ -20501,15 +17879,11 @@ e) Experiencias que desarrollen e incentiven la apreciación cultural y el desar
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.6.3 — Programas de especialización
 
 Estos programas tienen como propósito la profundización en los saberes propios de un área de la ocupación, disciplina o profesión de que se trate, orientado a una mayor cualificación para el desempeño profesional y laboral. Las instituciones podrán ofrecer programas de especialización técnica profesional, tecnológica o profesional universitaria, de acuerdo con su carácter académico.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.6.4 — Programas de maestría
 
@@ -20523,8 +17897,6 @@ PARÁGRAFO . Los programas de maestrías de profundización y de investigación 
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.6.5 — Especialidades médico quirúrgicas
 
 Son los programas que permiten al médico la profundización en un área del conocimiento específico de la medicina y la adquisición de los conocimientos, desarrollo de actitudes, habilidades y destrezas avanzadas para la atención de pacientes en las diferentes etapas de su ciclo vital, con patologías de los diversos sistemas orgánicos que requieren atención especializada.
@@ -20535,8 +17907,6 @@ De conformidad con el artículo 247 de la Ley 100 de 1993, estos programas tendr
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.6.6 — Programas de doctorado
 
 Un programa de doctorado tiene como propósito la formación de investigadores con capacidad de realizar y orientar en forma autónoma procesos académicos e investigativos en un área específica del conocimiento y desarrollar, afianzar o profundizar conocimientos, actitudes y habilidades propias de este nivel de formación. Los resultados de las investigaciones de los estudiantes en este nivel de formación deben contribuir al avance del conocimiento, de acuerdo con lo contemplado en el Sistema Nacional de Ciencia y Tecnología o el que haga sus veces.
@@ -20546,8 +17916,6 @@ Un programa de doctorado tiene como propósito la formación de investigadores c
 SECCIÓN 7
 
 CICLOS PROPEDÉUTICOS
-
-ARTÍCULO
 
 ## art:2.5.3.2.7.1 — Ciclos propedéuticos
 
@@ -20560,8 +17928,6 @@ La oferta de la formación por ciclos propedéuticos deberá preservar la indepe
 Las instituciones que de conformidad con la Ley 30 de 1992 "Por medio de la cual se organiza el servicio público de la educación superior'' y la Ley 115 de 1994 "Por medio de la cual se expide la ley general de educación" tienen el carácter académico de Técnicas Profesionales o Tecnológicas, para ofrecer programas en el nivel tecnológico o profesional universitario, respectivamente, por ciclos propedéuticos, deben reformar sus estatutos y adelantar el proceso de redefinición previsto en la normatividad colombiana, previo a la solicitud de registro calificado.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.7.2 — Del registro calificado de programas en ciclos propedéuticos
 
@@ -20577,15 +17943,11 @@ SECCIÓN 8
 
 TRÁMITE DE REGISTRO CALIFICADO
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.1 — Definición de trámite de Registro Calificado
 
 Para efectos de la presente sección, se entenderá que el trámite de registro calificado es la suma de acciones coordinadas dentro de un trámite administrativo, con miras a obtener el reconocimiento por parte del Ministerio de Educación Nacional frente al cumplimiento de las condiciones de calidad indispensables para ofrecer programas académicos de educación superior de distintos niveles de formación, conforme con lo dispuesto en el artículo 1 de la Ley 1188 de 2008.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.2 — Etapas para solicitud de registro calificado
 
@@ -20601,15 +17963,11 @@ Subsección 1
 
 Etapa de Pre radicación de Solicitud de Registro Calificado
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.1.1 — Pre radicación de solicitud de registro calificado
 
 La etapa de Pre radicación de solicitud de registro calificado inicia con la presentación de los documentos aportados por la Institución, la visita de verificación de condiciones institucionales, el informe que resulte de la visita de verificación, el concepto de condiciones institucionales emitido por la Comisión Nacional intersectorial de Aseguramiento de la Calidad de la Educación Superior - CONACES y termina con la validación del concepto de la Comisión Nacional intersectorial de Aseguramiento de la Calidad de la Educación Superior - CONACES por parte del Ministerio de Educación Nacional.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.1.2 — Presentación de documentos por parte de las instituciones
 
@@ -20618,8 +17976,6 @@ Para dar inicio a la etapa de Pre radicación de solicitud de registro calificad
 PARÁGRAFO . Cuando por razones técnicas no se pueda realizar la solicitud a través del Sistema de Aseguramiento de la Calidad en Educación Superior -SACES, o la herramienta que el Ministerio de Educación Nacional haya dispuesto para el efecto, esta podrá ser presentada en medio físico y/o digital en la oficina de atención al ciudadano del Ministerio de Educación Nacional.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.1.3 — Verificación de documentación
 
@@ -20631,8 +17987,6 @@ Se entenderá que la institución ha desistido de la etapa de Pre radicación de
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.1.4 — Asignación de pares y visita de verificación de condiciones institucionales
 
 Es el acto mediante el cual el Ministerio de Educación Nacional verifica el cumplimiento de las condiciones de carácter institucional que establece el artículo 2 de la Ley 1188 de 2008.
@@ -20643,7 +17997,7 @@ La visita de verificación de condiciones institucionales se realizará máximo 
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
+## art:2.5.3.2.8.1.5 — 
 
 . 2.5.3.2.8.1.5. Informe de condiciones institucionales. Dentro de los (5) cinco días hábiles siguientes a la realización de la visita, el par académico emitirá un informe en el que se señalan las conclusiones y recomendaciones respectivas, el cual deberá ser puesto a disposición del Ministerio de Educación Nacional, a través del Sistema de Aseguramiento de la Calidad de Educación Superior -SACES, o el que haga sus veces, en el mismo término.
 
@@ -20652,8 +18006,6 @@ El informe y el acta de cierre de visita serán cargados por el par y deberán s
 Puesto a disposición de la institución el informe del par, esta contará con (15) quince días calendario para presentar sus apreciaciones, permitiéndosele complementar o subsanar lo señalado en el informe a través del Sistema de Aseguramiento de la Calidad de Educación Superior -SACES, o el que haga sus veces.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.1.6 — Concepto sobre las condiciones institucionales
 
@@ -20666,8 +18018,6 @@ PARÁGRAFO . En caso de que el concepto sobre condiciones institucionales conten
 Si vencidos los términos establecidos en este parágrafo, la institución no ha presentado el informe respectivo, se entenderá desistida la etapa de Pre radicación de la solicitud de registro calificado por parte de la institución.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.1.7 — Vigencia de las condiciones institucionales
 
@@ -20683,15 +18033,11 @@ Subsección 2
 
 Etapa de Radicación de Solicitud de Registro Calificado
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.2.1 — Radicación de solicitud de registro calificado
 
 La etapa de radicación de la solicitud de registro calificado está conformada por la presentación de solicitud de registro calificado; la radicación en debida forma por parte de la correspondiente institución, a partir de la cual inicia la actuación administrativa; la designación de los pares académicos; la visita de verificación de condiciones de calidad del programa; la emisión del concepto por parte de la respectiva sala de evaluación de la Comisión Nacional lntersectorial de Aseguramiento de la calidad de la Educación Superior - CONACES; y la decisión que resuelve la solicitud por parte del Ministerio de Educación Nacional.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.2.2 — Presentación de solicitud de registro calificado
 
@@ -20705,8 +18051,6 @@ PARÁGRAFO 2. Para los programas en el área de la salud que impliquen formació
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.2.3 — Radicación en debida forma
 
 El Ministerio de Educación Nacional, con el apoyo de la Comisión Nacional lntersectorial de Aseguramiento de la Calidad de la Educación Superior - CONACES, determinarán la radicación en debida forma de la solicitud de registro calificado. Para ello, se verificará que la institución suministró en el Sistema de Aseguramiento de la Calidad de la Educación Superior - SACES o el que haga sus veces, la documentación requerida y por el mismo medio, la institución podrá verificar en un término no mayor a (5) cinco días hábiles, si la radicación fue realizada en forma debida. Este plazo se contará a partir de la presentación de la documentación por parte de la institución.
@@ -20716,8 +18060,6 @@ PARÁGRAFO . En caso de verificarse que la documentación suministrada por la in
 Se entenderá que la institución ha desistido de la etapa de solicitud de registro calificado cuando no satisfaga el requerimiento dentro del plazo concedido.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.2.4 — Designación de pares académicos
 
@@ -20729,8 +18071,6 @@ Previamente a su visita, el par o pares académicos deberá(n) estudiar la infor
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.2.5 — Visita de verificación
 
 El Ministerio de Educación Nacional dispondrá la realización de las visitas a que haya lugar e informará a la institución sobre las fechas y la agenda programada a través del Sistema de Aseguramiento de la Calidad de la Educación Superior -SACES, o el que haga sus veces.
@@ -20741,8 +18081,6 @@ Una vez el informe del par este puesto a disposición de la institución a trav�
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.8.2.6 — Concepto
 
 Determinada la radicación en debida forma y contando con el (los) informe (s) de verificación de las condiciones de calidad del programa dados por el (los) par (es), la Comisión Nacional lntersectorial de Aseguramiento de la Calidad de la Educación Superior - CONACES emitirá concepto con su recomendación, debidamente motivado, dirigido al Ministerio de Educación Nacional.
@@ -20752,8 +18090,6 @@ Para la emisión del respectivo concepto, la Sala deberá sesionar con un númer
 El concepto que difiera sustancialmente del informe presentado por el (los) par (es} deberá sustentar de manera clara y precisa las razones que motivaron apartarse de dicho informe con fundamento en los sistemas nacionales de información de educación superior o cualquier otro medio probatorio. El Ministerio de Educación Nacional, dentro del término de quince (15) días hábiles, podrá convocar una nueva sesión de evaluación de la Comisión Nacional lntersectorial de Aseguramiento de la Calidad de la Educación Superior - CONACES y citar al par o pares académicos con el fin de que se presenten las explicaciones o justificaciones frente a lo consignado en el(los) informe(s).
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.8.2.7 — Decisión sobre el otorgamiento del registro calificado
 
@@ -20766,8 +18102,6 @@ SECCIÓN 9
 (Sección 9, Modificada por el Art. 5 del Decreto 529 de 2024)
 
 INSTITUCIONES Y PROGRAMAS CON ACREDITACIÓN EN ALTA CALIDAD
-
-ARTÍCULO
 
 ## art:2.5.3.2.9.1 — Registro calificado de programa académico de institución acreditada en alta calidad
 
@@ -20789,8 +18123,6 @@ La solicitud de otorgamiento o renovación del registro calificado que se encuen
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.9.2 — Registro calificado de los programas académicos acreditados en alta calidad
 
 En el acto administrativo por medio del cual el Ministerio de Educación Nacional otorga o renueva la acreditación en alta calidad del programa académico, se ordenará de oficio la renovación del registro calificado del programa. La renovación del registro calificado se concederá por siete (7) años si la temporalidad de la acreditación es inferior a este término, o se concederá por el tiempo de la acreditación si la temporalidad de esta es superior a siete (7) años.
@@ -20798,8 +18130,6 @@ En el acto administrativo por medio del cual el Ministerio de Educación Naciona
 PARÁGRAFO. La institución que pretenda el otorgamiento o la renovación de la acreditación en alta calidad de un programa académico que prevea el desarrollo de prácticas formativas en el marco de la relación docencia servicio, y respecto del cual el Consejo Nacional de Acreditación - CNA comunique a la institución que la relación docencia servicio declarada en el trámite de acreditación en alta calidad no corresponde con la que se encuentra autorizada para el programa académico, deberá presentar la respectiva solicitud de modificación ante el Ministerio de Educación Nacional y dar cuenta de ello ante el Consejo Nacional de Acreditación - CNA en la oportunidad que le sea establecida en el trámite de acreditación en alta calidad.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.9.3 — Registro calificado de programa académico en trámite de otorgamiento o renovación de la acreditación en alta calidad
 
@@ -20810,8 +18140,6 @@ Si encontrándose en los plazos descritos en el inciso anterior, la institución
 Si el trámite de acreditación en alta calidad se decide otorgando o renovando este reconocimiento, el registro calificado del programa académico se renovará de oficio. Pero si el Consejo Nacional de Acreditación - CNA emite recomendaciones de mejora al programa académico, y el programa tiene registro calificado con una vigencia inferior a doce (12) meses, la institución contará con doce (12) meses, desde la fecha de la comunicación del CNA, para presentar la solicitud de renovación del registro calificado, tiempo en el que se mantendrá vigente el registro calificado hasta que se decida el trámite por parte del Ministerio de Educación Nacional, sin perjuicio del cumplimiento de la etapa de pre radicación, cuando aplique.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.9.4 — 9.4
 
@@ -20835,8 +18163,6 @@ Las modificaciones sobre las condiciones de calidad de carácter institucional y
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.10.2 — Requisitos para la modificación sobre condiciones de calidad de carácter institucional y de programa
 
 Para informar las modificaciones sobre condiciones de calidad de carácter institucional y de programa, la institución deberá presentar solicitud a través de la herramienta tecnológica o mecanismo que se disponga para ello y allegar lo siguiente:
@@ -20850,8 +18176,6 @@ c) Aprobación de la modificación por el (los) órgano(s) competente(s) de la i
 d) Régimen de transición, cuando aplique, a través del cual se garanticen los derechos de los estudiantes ante eventualidades académicas, tales como repitencia, suspensiones y reintegros, entre otros, en coherencia con lo dispuesto en el respectivo reglamento estudiantil.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.10.3 — Tipo de modificaciones
 
@@ -20919,8 +18243,6 @@ PARÁGRAFO 2. En los trámites de modificación de condiciones de calidad de car
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.10.4 — 0.4
 
 Modificación del concepto favorable de condiciones institucionales para la inclusión de nuevas zonas geográficas y/o para la inclusión de la oferta académica en la modalidad virtual. Cuando la institución cuente con concepto favorable vigente de condiciones institucionales para la modalidad virtual y/o para uno o varios municipios, distritos, áreas no municipalizadas y/o territorios indígenas, y desee realizar oferta académica en nuevas zonas geográficas y/o incluir la oferta académica en la modalidad virtual, deberá informar al Ministerio de Educación Nacional la modificación, a través de la herramienta tecnológica o mecanismo que se disponga para ello, con la siguiente información:
@@ -20944,8 +18266,6 @@ PARÁGRAFO 1. Cuando en la solicitud de modificación, la institución presente 
 PARÁGRAFO 2. La modificación descrita en el presente artículo no requiere ser presentada cuando se trate de la situación descrita en el parágrafo 3 del artículo 2.5.3.2.3.1.8 del presente decreto.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.10.5 — Modificación del lugar de desarrollo del programa
 
@@ -20971,8 +18291,6 @@ SECCIÓN 11
 
 OTRAS DISPOSICIONES DEL REGISTRO CALIFICADO
 
-ARTÍCULO
-
 ## art:2.5.3.2.11.1 — Programas activos e inactivos
 
 Se entenderá por programa académico de educación superior con registro activo aquel que cuenta con el reconocimiento del Estado sobre el cumplimiento de las condiciones de calidad, mediante registro calificado vigente.
@@ -20983,8 +18301,6 @@ La inactivación del registro de los programas académicos puede operar por soli
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.11.2 — Publicidad y oferta de programas
 
 Las instituciones solamente podrán hacer publicidad y ofrecer los programas académicos, una vez obtengan el registro calificado y durante su vigencia.
@@ -20993,23 +18309,17 @@ La oferta y publicidad de los programas académicos activos debe ser clara, vera
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.11.3 — Expiración del registro
 
 Expirada la vigencia del registro calificado, la institución no podrá admitir nuevos estudiantes para tal programa y deberá garantizar a las cohortes iniciadas la culminación del correspondiente programa en condiciones de calidad.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.11.4 — De la inspección y vigilancia
 
 El Ministerio de Educación Nacional podrá adelantar en cualquier momento la verificación de las condiciones de calidad bajo las cuales se ofrece y desarrolla un programa académico de educación superior acorde con la normatividad vigente.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.11.5 — Protección de datos
 
@@ -21019,15 +18329,11 @@ En caso de tener conocimiento de posibles vulneraciones a dicho derecho, los hec
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
 
-ARTÍCULO
-
 ## art:2.5.3.2.11.6 — Pares académicos
 
 Son personas idóneas, reconocidas por sus características académicas y/o profesionales, íntegras y éticas en su quehacer con un amplio conocimiento de la educación superior; que, por medio de una mirada valorativa, verifican las condiciones institucionales y de programa de forma objetiva fruto de su experiencia. Dicha mirada se fundamenta en el proceso de autoevaluación de la institución y en los protocolos que para tal fin definirá el Ministerio de Educación Nacional.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.11.7 — Régimen de inhabilidades, incompatibilidades y conflicto de intereses
 
@@ -21036,8 +18342,6 @@ Los pares académicos y los integrantes de las salas de la Comisión Nacional ln
 Las decisiones relacionadas con impedimentos y recusaciones serán resueltas por el Ministerio de Educación Nacional y, cuando a ello haya lugar, designará nuevos pares en el término de cinco (5) días calendario y comunicará su determinación a la institución a través del Sistema de Aseguramiento de la Calidad de la Educación Superior -SACES.
 
 (Sustituido por el Art.1 del Decreto 1330 de 2019
-
-ARTÍCULO
 
 ## art:2.5.3.2.11.8 — Banco depares académicos
 
@@ -21107,8 +18411,6 @@ SECCIÓN 1
 
 Ingreso a programas académicos de pregrado y posgrado en caso de estudios de secundaria o de pregrado en el exterior
 
-ARTÍCULO
-
 ## art:2.5.3.3.1.1 — Requisitos de ingreso en caso de estudios de secundaria en el exterior
 
 Las personas nacionales o extranjeras que hayan culminado sus estudios de educación secundaria en otros países y aspiren a ingresar a una institución de educación superior en Colombia, para adelantar programas de pregrado, deberán acreditar ante la institución de educación superior, además de los requisitos señalados por esta, los siguientes:
@@ -21120,8 +18422,6 @@ Las personas nacionales o extranjeras que hayan culminado sus estudios de educac
 (Modificado por el Art. 4 del Decreto 2029 de 2015)
 
 ( Decreto 860 de 2003, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.3.1.2 — Requisitos de ingreso a posgrados en caso de estudios de educación superior en el exterior
 
@@ -21137,15 +18437,11 @@ SECCIÓN 2
 
 Subsidio a la tasa de interés de créditos educativos
 
-ARTÍCULO
-
 ## art:2.5.3.3.2.1 — Objeto
 
 La presente Sección tiene como objeto definir los procedimientos de medición de las condiciones para acceder a los beneficios de subsidio a la tasa de interés de créditos educativos otorgados por el ICETEX, de acuerdo con lo previsto en el inciso 1 del artículo 61 de la Ley 1753 de 2015.
 
 (Modificado por el Art. 4 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.3.2.2 — Ámbito de aplicación
 
@@ -21169,8 +18465,6 @@ SECCIÓN 3
 
 Fomento de la educación superior a favor de la población con protección constitucional reforzada
 
-ARTÍCULO
-
 ## art:2.5.3.3.3.1 — Programas de Fomento de la educación superior
 
 El Ministerio de Educación Nacional promoverá, especialmente a través de los programas de fomento, que las instituciones de educación superior, en el marco de su autonomía:
@@ -21186,8 +18480,6 @@ El Ministerio de Educación Nacional promoverá, especialmente a través de los 
 5. Prioricen en los procesos de selección, admisión, matrícula y permanencia a la población con discapacidad.
 
 (Decreto 1421 de 2017, art. 7)
-
-ARTÍCULO
 
 ## art:2.5.3.3.3.2 — Créditos educativos para personas con discapacidad
 
@@ -21289,8 +18581,6 @@ PARÁGRAFO. Las instituciones de educación superior deberán garantizar la vige
 
 (Modificado por el Art. 7 del Decreto 2227 de 2023)
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.2.4 — Evaluación y aprobación de los programas de becas
 
 El Ministerio de Educación Nacional definirá para cada convocatoria los criterios de evaluación y asignación de puntajes para aprobar los programas de becas propuestos por las instituciones de educación superior.
@@ -21304,8 +18594,6 @@ El Ministerio de Educación Nacional podrá realizar modificaciones al cupo asig
 SUBSECCIÓN 3
 
 Cuentas especiales y fondo especial para administrar los recursos de donaciones para programas de becas
-
-ARTÍCULO
 
 ## art:2.5.3.3.4.3.1 — Creación de cuentas especiales para programas de becas
 
@@ -21341,8 +18629,6 @@ g. Expedir al donante el certificado de donación correspondiente
 
 (Modificado por el Art. 6 del Decreto 1584 de 2019)
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.3.2 — Fondo especial administrado por ICETEX
 
 El ICETEX constituirá y reglamentará un fondo especial, por medio del cual realizará la administración de los recursos de las cuentas especiales referidas en el artículo anterior, en cuyo caso serán reconocidos como recursos de terceros sujetos al Estatuto Financiero.
@@ -21353,15 +18639,11 @@ Los rendimientos financieros que generen los recursos de estas cuentas serán ca
 
 PARÁGRAFO . En caso de que el donante efectúe la donación sin especificar el programa de becas al que destina la misma, la destinación de estos recursos será definida por la Junta Administradora de que trata el artículo 2.5.3.3.4.3.7 del presente Decreto, en el marco de sus funciones y de los lineamientos que expida el Ministerio de Educación Nacional para tal fin.
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.3.3 — Cuentas especiales administradas por las instituciones de educación superior
 
 Para garantizar la adecuada administración, así como el seguimiento de los recursos de las donaciones de que trata esta Sección, las instituciones de educación superior cuyos programas de becas hayan sido aprobados por el Ministerio de Educación Nacional deberán crear y administrar una cuenta especial y reglamentar su manejo.
 
 Los rendimientos que generen los recursos que se encuentren en la cuenta especial administrada por la institución de educación superior deberán ser capitalizados en dicha cuenta, a fin de ser destinados exclusivamente a la financiación de los programas de becas que regula la presente sección. Estos recursos estarán afectos única y exclusivamente a las finalidades señaladas en la presente Sección.
-
-ARTÍCULO
 
 ## art:2.5.3.3.4.3.4 — Responsabilidades del ICETEX cuando funja como administrador de los recursos
 
@@ -21411,8 +18693,6 @@ e. Programa de becas para el cual se otorgó la respectiva donación.
 
 PARÁGRAFO . El número de becas que se otorguen con cargo al fondo especial administrado por el ICETEX dependerá de los recursos disponibles en el mismo.
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.3.5 — Responsabilidades de las instituciones de educación superior cuando funjan como administradoras de los recursos
 
 Las instituciones de educación superior que tengan a cargo la administración de las cuentas especiales referidas en el artículo 2.5.3.3.4.3.1 de esta sección tendrán las siguientes responsabilidades:
@@ -21461,8 +18741,6 @@ Esta información deberá ser remitida y certificada por el representante legal 
 
 11. Administrar de manera independiente los recursos de la cuenta especial, a fin de no efectuar con dichos recursos unidad de caja con las demás cuentas de la Institución de educación superior para que las autoridades competentes puedan verificar que los recursos se están destinando de acuerdo con lo previsto en esta Sección.
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.3.6 — Administración del Fondo Especial del ICETEX
 
 La administración del fondo especial del ICETEX estará a cargo de una Junta Administradora, que, en caso de constituirse, estará conformada por:
@@ -21482,8 +18760,6 @@ Para los integrantes de la junta descritos en los literales b y c, el Ministerio
 Dicha Junta Administradora será la encargada de fijar las políticas y las condiciones especiales de funcionamiento del fondo especial administrado por el ICETEX, y de velar por el óptimo aprovechamiento de los recursos del fondo y por la correcta ejecución de sus operaciones hasta agotar los recursos
 
 (Modificado por el Art. 9 del Decreto 1584 de 2019)
-
-ARTÍCULO
 
 ## art:2.5.3.3.4.3.7 — Funciones de la Junta Administradora
 
@@ -21507,13 +18783,9 @@ Serán funciones principales de la Junta Administradora del fondo especial admin
 
 9. Las demás que se consideren pertinentes para el logro de los objetivos del fondo y que no estén atribuidas a otros órganos o entidades por ninguna disposición legal o reglamentaria aplicable.
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.3.8 — Gastos de Administración
 
 El ICETEX, como administrador del fondo especial de que trata el artículo 2.5.3.3.4.3.2 del presente Decreto, cobrará una remuneración anual por la administración del fondo, la cual será definida en el reglamento operativo aprobado por la Junta Administradora del Fondo.
-
-ARTÍCULO
 
 ## art:2.5.3.3.4.3.9 — Desembolsos
 
@@ -21539,15 +18811,11 @@ PARÁGRAFO 2. Los desembolsos no cubrirán el pago de periodos académicos perdi
 
 PARÁGRAFO 3. Los beneficiarios tendrán derecho a aplazar dentro del programa académico que se encuentren cursando como máximo dos periodos académicos continuos o discontinuos, al término de los cuales deberán: i) reasumir sus estudios de educación superior en el mismo programa académico objeto de la beca o ii) devolver al fondo especial operado por ICETEX o a la cuenta especial correspondiente los recursos que hayan recibido como beneficiarios del programa de becas, en los términos establecidos en el programa de becas correspondiente. Sin perjuicio de lo anterior, en caso de que el aplazamiento del programa académico obedezca a situaciones de fuerza mayor debidamente sustentadas, se estudiará el caso respectivo.
 
-ARTÍCULO
-
 ## art:2.5.3.3.4.3.10 — Calidad de mandatario del ICETEX
 
 Para los efectos de las donaciones realizadas a los programas de becas por intermedio del ICETEX, este último se asimila a un mandatario del donante, calidad bajo la cual recibirá las donaciones y expedirá las certificaciones de que trata el presente artículo para efectos tributarios.
 
 PARÁGRAFO . Para las donaciones que se realicen por conducto de las cuentas especiales de cada una de las instituciones de educación superior, dicha certificación será expedida por la respectiva institución o por el ICETEX, cuando la institución haya decidido constituir cuentas especiales en esa entidad, de acuerdo con los requisitos definidos en el numeral 2 del artículo 1.2.1.4.3 del Decreto 1625 de 2016, modificado por el Decreto 2150 de 2017.
-
-ARTÍCULO
 
 ## art:2.5.3.3.4.3.11 — Control Tributario
 
@@ -21809,15 +19077,11 @@ Las demás que establezca la Junta Administradora en el Reglamento Operativo.
 
 PLANES DE ESTÍMULOS Y ALIVIOS PARA LOS USUARIOS DE ICETEX
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.1 — Objeto
 
 Reglamentar los incisos 3 y 4 del artículo 27 de la Ley 2155 de 2021, en lo referente a establecer las directrices a ser aplicadas por el ICETEX y las entidades públicas del orden nacional que hayan constituido fondos y/o alianzas con este para el desarrollo de programas de acceso y permanencia en la educación superior, así como por las entidades públicas del orden territorial en el marco de su autonomía.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.2 — Estímulos
 
@@ -21828,8 +19092,6 @@ Estos estímulos serán otorgados por resultados destacados en materia de excele
 El otorgamiento de los estímulos definidos se realizará durante un máximo de cinco (5) años contados a partir de la entrada en vigencia de la presente Sección, mediante convocatorias periódicas en las que se establecerán criterios objetivos para su adjudicación, así como la fuente y monto de los recursos destinados a la misma. La Junta Directiva de ICETEX o el máximo estamento de administración del fondo y/o alianza respectiva, definirá las condiciones específicas aplicables para cada una de estas convocatorias, teniendo en cuenta los lineamientos contenidos en la presente sección.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.3 — Criterios para el otorgamiento de estímulos
 
@@ -21851,8 +19113,6 @@ PARÁGRAFO . En cada una de las convocatorias se establecerá la temporalidad ap
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.4 — Tipos de estímulos
 
 Los estímulos otorgados al titular del crédito educativo generarán beneficios complementarios a las condiciones vigentes en la obligación, así:
@@ -21865,15 +19125,11 @@ Los estímulos otorgados al titular del crédito educativo generarán beneficios
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.5 — Estímulos en fondos y/o alianzas
 
 Las entidades públicas del orden nacional y territorial, así como las demás que sean constituyentes de fondos y/o alianzas vigentes con ICETEX, podrán aprobar a través de sus reglamentos estímulos con cargo a los recursos del fondo y/o alianza respectiva, de acuerdo en lo establecido en la presente sección.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.6 — Condiciones para el otorgamiento de estímulos
 
@@ -21881,7 +19137,7 @@ Los planes de estímulos deberán ser aplicados de acuerdo con criterios de prog
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-## art:2.5.3.3.6 — 7. Alivios
+## art:2.5.3.3.6.7 — Alivios
 
 El ICETEX y las entidades públicas del orden nacional y territorial que hayan constituido fondos y/o alianzas con este para el desarrollo de programas de acceso y permanencia en la educación superior, podrán establecer, bajo condiciones específicas y durante un periodo máximo de cinco (5) años contados a partir de la entrada en vigencia de la presente Sección, alivios aplicables a los beneficiarios titulares de crédito educativos que se encuentren en etapa de estudios o amortización y cuyas obligaciones se encuentren vigentes y con saldos pendientes de pago.
 
@@ -21890,8 +19146,6 @@ Estos alivios serán otorgados ante situaciones que generen imposibilidad para e
 Corresponderá a la Junta Directiva de ICETEX o al máximo estamento de administración del fondo y/o alianza respectiva, aprobar planes de alivios específicos de conformidad con los tipos y criterios de otorgamiento establecidos en la presente Sección y las demás normas que regulen la materia.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.8 — Criterios para el otorgamiento de alivios
 
@@ -21915,8 +19169,6 @@ La dependencia económica se entenderá conforme lo define el artículo 387 del 
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.9 — Tipos de alivios
 
 Los alivios otorgados generarán beneficios complementarios a los titulares de los créditos en estudios y/o amortización, en las condiciones vigentes en la obligación derivada del crédito otorgado. Los tipos de alivios disponibles son los siguientes:
@@ -21931,15 +19183,11 @@ PARÁGRAFO . Entiéndase por etapa final de amortización el periodo durante el 
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.10 — Alivios en fondos y/o alianzas
 
 Las entidades públicas del orden nacional y territorial, así como las demás que sean constituyentes de fondos y/o alianzas vigentes con ICETEX, podrán acoger los planes de alivios definidos en la presente Sección. Para ello, se implementarán los planes de alivios con cargo a los recursos del fondo y/o alianza respectiva de acuerdo a lo establecido en la presente sección.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.11 — Condiciones para el otorgamiento de alivios
 
@@ -21947,15 +19195,11 @@ Los planes de alivios deberán ser aplicados de acuerdo con criterios de progres
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.12 — Política de conciliación y recuperación de cartera
 
 El ICETEX deberá contar con una política de conciliación y recuperación de cartera que responda al deber de recaudo de los recursos y considere las situaciones particulares de quienes hacen uso de sus servicios de acceso y permanencia en la Educación Superior. En virtud de lo anterior, la entidad desarrollará acciones orientadas a fortalecer el conocimiento de la situación del deudor y su contexto, mejorar la oportunidad y claridad en la información suministrada y acompañar a la persona en la búsqueda de alternativas que, teniendo en cuenta sus condiciones particulares, le permitan cumplir con sus obligaciones.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.13 — Liquidación o cierre de Alianzas y/o Fondos en Administración
 
@@ -21963,15 +19207,11 @@ El ICETEX ejecutará procesos de sostenibilidad contable para aquellas Alianzas 
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.3.6.14 — Concurrencia de las Instituciones de Educación Superior en los estímulos e incentivos
 
 El ICETEX promoverá acciones para que las Instituciones de Educación Superior contribuyan al fortalecimiento del sector, mediante su aporte y apoyo a través de estímulos financieros y no financieros complementarios a los ofrecidos por el ICETEX para aliviar la condición de los potenciales estudiantes y de los beneficiarios con crédito educativo, promoviendo y facilitando la permanencia y graduación.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.15 — Vehículo para la financiación de Estímulos y Alivios
 
@@ -21980,8 +19220,6 @@ La Junta Directiva del ICETEX creará el fondo con el propósito de reconocer lo
 PARÁGRAFO . El otorgamiento de los planes de alivios y estímulos estará sujeto a la disponibilidad de recursos.
 
 (Adicionado por el Art. 2 del Decreto 1667 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.6.16 — Fuentes de recursos para la implementación de alivios y estímulos
 
@@ -22011,8 +19249,6 @@ SECCIÓN 1
 
 Definición, objetivo y organización del examen de estado de calidad de la educación superior
 
-ARTÍCULO
-
 ## art:2.5.3.4.1.1 — Definición y objetivos
 
 El Examen de Estado de Calidad de la Educación Superior es un instrumento estandarizado para la evaluación externa de la calidad de la Educación Superior. Forma parte, con otros procesos y acciones, de un conjunto de instrumentos que el Gobierno Nacional dispone para evaluar la calidad del servicio público educativo y ejercer su inspección y vigilancia.
@@ -22027,8 +19263,6 @@ c) Servir de fuente de información para la construcción de indicadores de eval
 
 (Decreto 3963 de 2009, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.4.1.2 — Objeto de la evaluación
 
 Serán objeto de evaluación del Examen de Estado de Calidad de la Educación Superior las competencias de los estudiantes que están próximos a culminar los distintos programas de pregrado, en la medida en que estas puedan ser valoradas con exámenes externos de carácter masivo, incluyendo aquellas genéricas que son necesarias para el adecuado desempeño profesional o académico independientemente del programa que hayan cursado.
@@ -22038,8 +19272,6 @@ Las competencias específicas que se evalúen serán definidas por el Ministerio
 Educación Nacional, con la participación de la comunidad académica, profesional y del sector productivo, mediante mecanismos que defina el mismo Ministerio, teniendo en cuenta los elementos disciplinares fundamentales de la formación superior que son comunes a grupos de programas en una o más áreas del conocimiento.
 
 (Decreto 3963 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.5.3.4.1.3 — Estructura y organización del Examen
 
@@ -22052,8 +19284,6 @@ El ICFES, con fundamento en lo dispuesto en esta y en otras normas que la comple
 El calendario de aplicación será determinado por el ICFES, de acuerdo con el reporte sobre la población que cumpla el requisito establecido en el artículo 2.5.3.4.1.4. de este Decreto, para presentar el examen.
 
 (Decreto 3963 de 2009, artículo 3).
-
-ARTÍCULO
 
 ## art:2.5.3.4.1.4 — Responsabilidades de las instituciones de educación superior y los estudiantes
 
@@ -22071,8 +19301,6 @@ Decreto 3963 de 2009, artículo 4, modificado por el Decreto 4216 de 2009, artí
 
 1).
 
-ARTÍCULO
-
 ## art:2.5.3.4.1.5 — Informes de resultados
 
 El contenido de los informes individuales y agregados, así como de los comparativos que puedan hacerse a partir de los resultados de las evaluaciones, será determinado por el ICFES mediante acuerdo de su Junta Directiva, una vez sean adoptadas las estructuras a las que se refiere el artículo 2.5.3.4.1.3. del presente Decreto. Dichas decisiones deberán hacerse públicas con anterioridad a las convocatorias a Examen.
@@ -22081,8 +19309,6 @@ Los resultados individuales e institucionales se informarán a través de págin
 
 (Decreto 3963 de 2009, artículo 5).
 
-ARTÍCULO
-
 ## art:2.5.3.4.1.6 — Incentivos
 
 El Gobierno Nacional hará público reconocimiento a los estudiantes e instituciones que obtengan anualmente los mejores resultados en el Examen de Estado de Calidad de la Educación Superior, mediante un certificado que acredite tal condición, de acuerdo con los criterios establecidos por el Ministerio de Educación Nacional.
@@ -22090,8 +19316,6 @@ El Gobierno Nacional hará público reconocimiento a los estudiantes e instituci
 La excelencia académica en el Examen de Estado de Calidad de la Educación Superior de los estudiantes de los programas de pregrado, será uno de los criterios para otorgar las becas de cooperación internacional, becas de intercambio y demás becas nacionales o internacionales que se ofrezcan en las distintas entidades públicas. De igual manera dichos estudiantes tendrán prelación en el otorgamiento de créditos para estudios de posgrado en el país y en el exterior.
 
 (Decreto 3963 de 2009, artículo 6).
-
-ARTÍCULO
 
 ## art:2.5.3.4.1.7 — Gradualidad
 
@@ -22103,15 +19327,11 @@ SECCIÓN 2
 
 Incentivo a la permanencia y calidad de la educación superior por medio de la condonación de la deuda de los créditos otorgados a través del Icetex
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.1 — Objeto
 
 La presente Sección tiene como objeto establecer el procedimiento para la identificación de los beneficiarios de los créditos de educación superior otorgados a través del Icetex a los que se les condonará su deuda, de acuerdo con lo previsto en los artículos 150 de la Ley 1450 de 2011 y 2 de la Ley 1547 de 2012.
 
 (Decreto 2636 de 2012, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.2 — Ámbito de aplicación
 
@@ -22121,15 +19341,11 @@ El valor de la condonación corresponderá al saldo de la obligación (capital m
 
 (Decreto 2636 de 2012, artículo 2).
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.3 — Paz y salvo
 
 Para ser beneficiario de la condonación de la deuda total, el beneficiario del crédito educativo deberá encontrarse al día en el pago de sus cuotas, esto es, que el estado de su crédito reporte una calificación de cartera en "A". De no ser así, al estudiante se le descontará, del valor a condonar, el valor del saldo que registre en mora al momento de haberse cumplido con los requisitos para la condonación.
 
 (Decreto 2636 de 2012, artículo 3).
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.4 — Requisitos de la institución y del programa cursado
 
@@ -22137,15 +19353,11 @@ Para conceder la condonación, la institución de educación superior y el progr
 
 (Decreto 2636 de 2012, artículo 4).
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.5 — Verificación de la condición socioeconómica de los beneficiarios
 
 Para efectos de la condonación serán considerados aquellos estudiantes beneficiarios de créditos del Icetex que al momento de reunir los demás requisitos de la condonación, cumplan con los criterios establecidos para dicha Entidad respecto a su condición socioeconómica, con base en el instrumento de focalización utilizado, bien sea, la encuesta Sisbén en su tercera versión o el instrumento equivalente, en concordancia con lo señalado en los artículos 150 de la Ley 1450 de 2011 y 2 de la Ley 1547 de 2012.
 
 (Decreto 2636 de 2012, artículo 5).
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.6 — Verificación de los resultados de las pruebas Saber Pro
 
@@ -22175,23 +19387,17 @@ b) No tener puntajes por debajo del quintil 4 en los módulos de Comprensión Le
 
 (Decreto 2636 de 2012, artículo 6).
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.7 — Reconocimiento de la condonación
 
 La condonación se hará efectiva a partir de las pruebas de Estado Saber Pro aplicadas durante el año de expedición de la Ley 1450 de 2011.
 
 (Decreto 2636 de 2012, artículo 7).
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.8 — Responsable de la verificación de los resultados de las Pruebas Saber Pro
 
 La verificación del requisito relacionado con los resultados de las pruebas Saber Pro la realizará el ICFES y la deberá reportar al Icetex para efectos de que este verifique que el beneficiario del crédito cumpla con los demás requisitos establecidos en los artículos 150 de la Ley 1450 de 2011 y 2 de la Ley 1547 de 2012 y reglamentados en la presente Sección.
 
 (Decreto 2636 de 2012, artículo 8).
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.9 — Verificación de la terminación del programa académico
 
@@ -22209,15 +19415,11 @@ SUBSECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.1.1 — Objeto
 
 La presente Subsección tiene como objeto establecer el procedimiento para la identificación de los beneficiarios de los créditos de educación superior otorgados a través del ICETEX, a los que se les condonará su deuda, de acuerdo con lo previsto en el artículo 61 de la Ley 1753 de 2015.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.1.2 — Ámbito de aplicación
 
@@ -22231,15 +19433,11 @@ PARÁGRAFO . El ICETEX será el responsable de adelantar de manera oficiosa el t
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.1.3 — Paz y salvo
 
 Para ser beneficiario de la condonación total de la deuda, el beneficiario del crédito educativo deberá encontrarse al día en el pago de sus cuotas, esto es, que el estado de su crédito reporte una calificación de cartera en "A". De no ser así, al estudiante se le descontará del valor a condonar, el saldo que registre en mora al momento de haberse cumplido con los requisitos para la condonación.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.1.4 — Requisitos de la institución y del programa cursado
 
@@ -22247,15 +19445,11 @@ Para conceder la condonación, la institución de educación superior y el progr
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.1.5 — Verificación de la condición socioeconómica de los beneficiarios
 
 Para efectos de la condonación, serán considerados aquellos estudiantes beneficiarios de créditos del Icetex que al momento del otorgamiento del crédito estén en los estratos 1, 2, y 3, priorizados por el Sisbén, o el instrumento equivalente, dentro de los puntos de corte establecidos por el Ministerio de Educación Nacional.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.1.6 — Verificación de los resultados de las pruebas Saber Pro
 
@@ -22269,8 +19463,6 @@ Para efectos de que sea reconocida la condonación de que trata la presente Subs
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.1.7 — Reconocimiento de la condonación
 
 La condonación de que trata la presente Subsección se hará efectiva a partir de las pruebas de Estado Saber Pro aplicadas durante el año 2015.
@@ -22281,15 +19473,11 @@ PARÁGRAFO . La presente Subsección no afecta los derechos adquiridos de las pe
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.1.8 — Responsable de la verificación de los resultados de las Pruebas Saber Pro
 
 La verificación del requisito relacionado con los resultados de las pruebas Saber Pro la realizará el ICFES y la deberá reportar al ICETEX para efectos de que este constante que el beneficiario del crédito cumple con los demás requisitos establecidos en el artículo 61 de la Ley 1753 de 2015 y en la presente Subsección. En cualquier caso, el ICFES observará las previsiones normativas de las Leyes de Hábeas Data.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.1.9 — Verificación de la terminación del programa académico
 
@@ -22305,15 +19493,11 @@ SUBSECCIÓN 2
 
 Entidades responsables para el otorgamiento de los beneficios consagrados en el artículo 61 de la ley 1753 de 2015
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.2.1 — Responsables institucionales
 
 Para reconocimiento de los beneficios consagrados el artículo 61 de la Ley 1753 de 2015, deberán participar de manera articulada, y en el marco de sus competencias, el DNP, el Ministerio de Educación Nacional, el ICETEX y el ICFES.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.2.2 — Responsabilidades del DNP
 
@@ -22327,8 +19511,6 @@ En cualquier caso, el DNP observará las previsiones normativas de las Leyes de 
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.2.3 — Responsabilidades del Ministerio de Educación Nacional
 
 El Ministerio de Educación Nacional tendrá las siguientes responsabilidades:
@@ -22338,8 +19520,6 @@ El Ministerio de Educación Nacional tendrá las siguientes responsabilidades:
 2. Remitir al ICETEX la información sobre las personas que se graduaron durante la última vigencia de programas académicos de pregrado de instituciones de educación superior legalmente reconocidas. Esta información debe ser enviada a más tardar dentro de los quince (15) días siguientes al segundo corte de registro de información de graduados en el SNIES, de acuerdo con lo establecido en la Resolución 12161 de 2015 del Ministerio de Educación Nacional, o la norma que la modifique, sustituya o derogue.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.2.4 — Responsabilidades del Icfes
 
@@ -22353,8 +19533,6 @@ El Icfes tendrá las siguientes responsabilidades:
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2.2.5 — Responsabilidades del ICETEX
 
 Son responsabilidades del ICETEX las que a continuación se relacionan:
@@ -22366,8 +19544,6 @@ Son responsabilidades del ICETEX las que a continuación se relacionan:
 3. Informar a los graduados beneficiarios de que trata la presente Sección del beneficio adquirido.
 
 (Adicionado por el Art. 3 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.2.2.6 — Contenido de la base de datos de estudiantes beneficiados, de conformidad con la presente Sección
 
@@ -22387,15 +19563,11 @@ SUBSECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.1.1 — Objeto
 
 Esta Sección tiene por objeto reglamentar los requisitos, procedimientos y demás aspectos previstos en la Ley 1678 de 2013, para que el cero punto uno por ciento (0.1%) de los mejores profesionales graduados puedan acceder a becas para adelantar estudios de posgrado en el país o en el exterior.
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.1.2 — Ámbito de aplicación
 
@@ -22414,8 +19586,6 @@ En este caso, la beca solo aplicará para la fracción de estudios que faltase p
 SUBSECCIÓN 2
 
 Comité de evaluación de becas de posgrado
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.2.1 — Comité de Evaluación de Becas de Posgrado -CEB-
 
@@ -22436,8 +19606,6 @@ El CEB estará conformado por los siguientes cinco (5) integrantes:
 PARÁGRAFO . La Secretaría Técnica de dicho Comité la ejercerá el Jefe de la Oficina de Relaciones Internacionales del ICETEX, que tendrá derecho a voz pero no a voto.
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.2.2 — Funciones del CEB
 
@@ -22461,15 +19629,11 @@ SUBSECCIÓN 3
 
 De las becas
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.3.1 — Alcance de las becas
 
 Las becas comprenden el apoyo económico, por una única vez, para la formación académica en un programa de posgrado en Colombia o en el exterior, de acuerdo con las condiciones previstas en la ley y en la presente Subsección.
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.3.2 — Rubros y montos a financiar
 
@@ -22495,8 +19659,6 @@ PARÁGRAFO 5. Aquellos estudiantes que no reciban los rubros descritos en los nu
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.3.3 — Duración de las becas
 
 Las becas que se otorguen en virtud de la Ley 1678 de 2013 se reconocerán por un tiempo igual al que exigen las instituciones de educación superior para la finalización de los correspondientes programas académicos de posgrado a los cuales hayan decidido matricularse los estudiantes beneficiados, sin perjuicio de lo establecido en el inciso 2 del artículo 2.5.3.4.3.1.2 del presente decreto.
@@ -22507,8 +19669,6 @@ SUBSECCIÓN 4
 
 Convocatoria, requisitos y exclusiones
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.4.1 — Convocatoria
 
 Con el fin de otorgar las becas de posgrado establecidas por la Ley 1678 de 2013, el ICETEX realizará una convocatoria anual dirigida a la población que cumpla con los requisitos consagrados en el siguiente artículo del presente decreto.
@@ -22518,8 +19678,6 @@ Dicha convocatoria deberá contener los requisitos de postulación y la forma pa
 El Ministerio de Educación Nacional, el ICFES y el ICETEX publicarán la convocatoria a través de sus páginas web y la difundirán masivamente utilizando los mecanismos que consideren convenientes. En todo caso, informarán sobre la publicación de la convocatoria a las instituciones públicas y privadas legalmente reconocidas en Colombia para desarrollar programas de educación superior, con el fin de que estas también difundan la convocatoria a su comunidad educativa.
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.4.2 — Requisitos
 
@@ -22557,8 +19715,6 @@ PARÁGRAFO 4. La asignación de la beca se hará siempre y cuando el aspirante s
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.4.3 — Exclusiones
 
 No podrán ser aspirantes a las convocatorias, las personas que:
@@ -22579,8 +19735,6 @@ SUBSECCIÓN 5
 
 De los programas académicos y de las instituciones de educación superior
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.5.1 — Programas académicos
 
 Las becas de que trata la presente Sección estarán destinadas a apoyar la realización de estudios de posgrado en los siguientes niveles: especializaciones técnicas profesionales, especializaciones tecnológicas, especializaciones profesionales, maestrías y doctorados.
@@ -22595,8 +19749,6 @@ PARÁGRAFO 3. El otorgamiento de la beca de que trata la presente Sección no su
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.5.2 — Modalidad de los estudios
 
 Los programas de posgrado a que se refiere el artículo anterior del presente decreto podrán adelantarse en las metodologías y modalidades consignadas en el plan de estudio o su equivalente, definido por las respectivas instituciones de educación superior. En todo caso, deberá atenderse la restricción prevista en el parágrafo 2 del artículo 62 de la Ley 1753 de 2015.
@@ -22606,8 +19758,6 @@ Los programas de posgrado a que se refiere el artículo anterior del presente de
 SUBSECCIÓN 6
 
 De la evaluación y criterios para la distribución de las becas y selección de los beneficiarios
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.6.1 — Distribución de las becas
 
@@ -22635,8 +19785,6 @@ Para efectos de la presente Subsección, las áreas de conocimiento objeto de co
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.6.2 — Criterios de clasificación de los aspirantes
 
 Los criterios de clasificación de los aspirantes serán los siguientes:
@@ -22649,8 +19797,6 @@ PARÁGRAFO . Corresponderá al Ministerio de Educación Nacional estructurar una
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.6.3 — Criterios de desempate
 
 Una vez observados los criterios de clasificación de los aspirantes definidos por el Ministerio de Educación Nacional, el CEB, en caso de puntuaciones iguales entre dos o más aspirantes, dirimirá los empates de acuerdo con lo establecido en el artículo 2, numeral 4 de la Ley 403 de 1997, y en su defecto, con base en los procedimientos establecidos para ello en su reglamento interno.
@@ -22660,8 +19806,6 @@ Una vez observados los criterios de clasificación de los aspirantes definidos p
 SUBSECCIÓN 7
 
 Del otorgamiento de las becas y obligaciones del becario
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.7.1 — Otorgamiento de las becas
 
@@ -22676,8 +19820,6 @@ PARÁGRAFO 2. En caso de que el becario no pueda ser vinculado en la institució
 Para tal efecto, una vez retorne al país, el beneficiario deberá remitir cada seis (6) meses al ICETEX los soportes que demuestren que ha participado en convocatorias de docentes e investigadores que adelanten las instituciones de educación superior en Colombia. La omisión respecto de la remisión de dichos soportes generará la obligación para el estudiante de hacer la devolución de los dineros que hayan sido girados por el ICETEX por concepto de la beca de que trata la presente Sección.
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.7.2 — Obligaciones y compromisos del becario
 
@@ -22707,8 +19849,6 @@ SUBSECCIÓN 8
 
 Causales de pérdida de las becas y financiación de los beneficios establecidos en la ley 1678 de 2013.
 
-ARTÍCULO
-
 ## art:2.5.3.4.3.8.1 — Pérdida de las becas
 
 Las becas podrán ser retiradas en cualquier momento, cuando se demuestre que los becarios incurrieron en alguna de las siguientes causales:
@@ -22728,8 +19868,6 @@ PARÁGRAFO 2. Si la beca fuere retirada o si el becario incumpliere de manera re
 Los recursos así recaudados deberán ser reintegrados por el ICETEX a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
 
 (Adicionado por el Art. 5 del Decreto 2029 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.3.4.3.8.2 — Apropiación de recursos
 
@@ -22947,23 +20085,17 @@ SECCIÓN 1
 
 Estímulos especiales para investigadores
 
-ARTÍCULO
-
 ## art:2.5.3.5.1.1 — Creación de estímulos
 
 Créanse los estímulos especiales para investigadores, a que se refiere el artículo 185 de la Ley 115 de 1994, los cuales serán otorgados por el Departamento Administrativo de Ciencia, Tecnología e Innovación, Colciencias, en los términos de la presente Sección.
 
 (Decreto 1742 de 1994, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.5.1.2 — Destinatarios
 
 Las normas reglamentarias contenidas en la presente Sección se aplicarán a personas naturales sean estas particulares o vinculadas al sector público que acrediten la calidad de investigadores activos, en los términos que estipula la presente Sección.
 
 (Decreto 1742 de 1994, artículo 2).
-
-ARTÍCULO
 
 ## art:2.5.3.5.1.3 — Cálculo de los estímulos
 
@@ -22972,8 +20104,6 @@ Los estímulos se calcularán con base en el salario mínimo mensual legalmente 
 Su monto dependerá de la categoría en que quede clasificado el investigador como resultado de su participación en la convocatoria y de la selección de candidatos que realice el comité de Selección y Clasificación.
 
 (Decreto 1742 de 1994, artículo 3).
-
-ARTÍCULO
 
 ## art:2.5.3.5.1.4 — Categorías
 
@@ -23001,8 +20131,6 @@ PARÁGRAFO . Para los estímulos de que trata la presente Sección se entenderá
 
 (Decreto 1742 de 1994, artículo 4).
 
-ARTÍCULO
-
 ## art:2.5.3.5.1.5 — Comité de Selección y Clasificación
 
 Un Comité nombrado por la Junta Directiva de Colciencias hará la clasificación y selección de los investigadores. Los nombres de los miembros de este Comité de Selección y Clasificación se divulgarán sólo en el momento de presentar los resultados de la convocatoria. El Comité se asesorará de investigadores nacionales o extranjeros reconocidos internacionalmente por la comunidad de investigadores, en los procesos de clasificación y selección, y podrá además solicitar, cuando lo considere necesario, evaluaciones internacionales de las hojas de vida que sean presentadas.
@@ -23025,8 +20153,6 @@ PARÁGRAFO . En la convocatoria se harán públicos los criterios que se tendrá
 
 (Decreto 1742 de 1994, artículo 5).
 
-ARTÍCULO
-
 ## art:2.5.3.5.1.6 — Cuantías de los estímulos
 
 Los estímulos a que se refiere el artículo 2.5.3.5.1.1 del presente Decreto se otorgarán para cada categoría, en las cuantías que a continuación se indican:
@@ -23044,8 +20170,6 @@ PARÁGRAFO 1. Cuando el investigador resida y trabaje en un municipio de menos d
 PARÁGRAFO 2. Para ningún efecto legal los estímulos especiales a que se refiere esta Sección constituyen salario.
 
 (Decreto 1742 de 1994, artículo 6).
-
-ARTÍCULO
 
 ## art:2.5.3.5.1.7 — Desembolso
 
@@ -23069,8 +20193,6 @@ PARÁGRAFO 2. Cuando el investigador de categoría A o B esté vinculado a una u
 
 (Decreto 1742 de 1994, artículo 7).
 
-ARTÍCULO
-
 ## art:2.5.3.5.1.8 — Destinatarios de la convocatoria
 
 Podrán presentarse a la convocatoria los investigadores activos colombianos residentes en Colombia, los investigadores activos extranjeros residentes en Colombia y los investigadores activos colombianos residentes en el exterior. Estos últimos recibirán los estímulos sólo en proporción al tiempo que permanezcan en Colombia dentro dela vigencia de la respectiva convocatoria.
@@ -23079,15 +20201,11 @@ PARÁGRAFO . El investigador podrá ser presentado por una entidad, por un grupo
 
 (Decreto 1742 de 1994, artículo 8).
 
-ARTÍCULO
-
 ## art:2.5.3.5.1.9 — Convocatoria
 
 Las convocatorias deberán abrirse anualmente de conformidad con lo que disponga la Junta Directiva de Colciencias y se entenderá vigente el reglamento adoptado para la convocatoria anterior, salvo que Colciencias y el Ministerio de Educación Nacional hayan acordado modificaciones con antelación.
 
 (Decreto 1742 de 1994, artículo 9).
-
-ARTÍCULO
 
 ## art:2.5.3.5.1.10 — Acto Administrativo
 
@@ -23095,23 +20213,17 @@ Colciencias expedirá los actos administrativos que desarrolle los procedimiento
 
 (Decreto 1742 de 1994, artículo 10)
 
-ARTÍCULO
-
 ## art:2.5.3.5.2.1 — Proyectos de formación o capacitación
 
 Los proyectos de formación o capacitación de recurso humano en el conocimiento de tecnologías de la información, en el que se encuentren interesados el Estado, las universidades, la comunidad científica o el sector privado colombianos y que hayan sido aprobados en el marco de los programas que integran el Sistema Nacional de Ciencia y Tecnología, se realizarán a través de organizaciones o entidades, de acuerdo con las condiciones y parámetros que fije el Consejo del Programa Nacional que apruebe el proyecto.
 
 (Decreto 774 de 2001, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.5.2.2 — Selección mediante convocatoria
 
 Las entidades a través de las cuales se adelanten los proyectos a que se refiere el artículo anterior, se seleccionarán mediante convocatoria pública en la cual se divulgarán de manera precisa, las condiciones fijadas por el Programa para el respectivo proyecto.
 
 (Decreto 774 de 2001, artículo 2).
-
-ARTÍCULO
 
 ## art:2.5.3.5.2.3 — Condiciones específicas para la formación o capacitación
 
@@ -23122,8 +20234,6 @@ El Consejo del Programa Nacional que apruebe el proyecto, considerará en el est
 CAPÍTULO 6
 
 REGISTRO DE TÍTULOS EN LAS INSTITUCIONES DE EDUCACIÓN
-
-ARTÍCULO
 
 ## art:2.5.3.6.1 — Responsable del Registro
 
@@ -23149,8 +20259,6 @@ Cada registro deberá estar respaldado con la firma del jefe de la dependencia a
 
 (Decreto 636 de 1996, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.6.2 — Títulos obtenidos con anterioridad al 9 de abril de 1996
 
 Los títulos obtenidos con anterioridad al 9 de abril de 1996, que no se hubieren registrado en las secretarías de educación, según lo establecían normas anteriores, deberán registrarse en las respectivas instituciones de educación superior.
@@ -23159,23 +20267,17 @@ PARÁGRAFO . Las secretarías de educación seguirán expidiendo las certificaci
 
 (Decreto 636 de 1996, artículo 2).
 
-ARTÍCULO
-
 ## art:2.5.3.6.3 — Constancias de registro
 
 Corresponde a cada institución de educación superior expedir las respectivas constancias de registro que requieran los interesados, conforme a los procedimientos que internamente establezca.
 
 (Decreto 636 de 1996, artículo 3).
 
-ARTÍCULO
-
 ## art:2.5.3.6.4 — Listado de los graduados
 
 Cada seis (6) meses las instituciones de educación superior remitirán al Ministerio de Educación Nacional, un listado que incluya el nombre, identificación, número de registro y profesión de los graduados. Deberá igualmente adjuntarse la mencionada información en medio magnético.
 
 (Decreto 636 de 1996, artículo 4).
-
-ARTÍCULO
 
 ## art:2.5.3.6.5 — Solicitud de información
 
@@ -23188,8 +20290,6 @@ CAPÍTULO 7
 Capítulo adicionado por el Art. 1 del Decreto 843 de 2020
 
 SISTEMA NACIONAL DE ACREDITACIÓN
-
-ARTÍCULO
 
 ## art:2.5.3.7.1 — Actores del Sistema Nacional de Acreditación
 
@@ -23211,19 +20311,13 @@ g) Los pares académicos
 
 PARÁGRAFO . Para todos los efectos del presente decreto, se entienden por instituciones, las instituciones de educación superior y todas aquellas habilitadas por la Ley para la oferta Y desarrollo de programas académicos de educación superior.
 
-ARTÍCULO
-
 ## art:2.5.3.7.2 — Acreditación
 
 La acreditación es el reconocimiento temporal de la alta calidad que otorga el Ministerio de Educación Nacional a los programas académicos y a las instituciones que cumplen con los más altos criterios de calidad y que realizan sus propósitos y objetivos.
 
-ARTÍCULO
-
 ## art:2.5.3.7.3 — Trámite para la acreditación de programas académicos e instituciones
 
 El trámite para la acreditación, tanto de programas académicos como de instituciones, se desarrollará a través de las siguientes etapas: (i) la apreciación de condiciones iniciales, (ii) la autoevaluación, (iii) la evaluación externa por pares académicos, (iv) la evaluación integral y (v) la expedición del acto administrativo que concede la acreditación o formula recomendaciones a la institución.
-
-ARTÍCULO
 
 ## art:2.5.3.7.4 — Modelo de acreditación
 
@@ -23239,8 +20333,6 @@ SECCIÓN 1
 
 DE LA ACREDITACIÓN DE ALTA CALIDAD
 
-ARTÍCULO
-
 ## art:2.5.3.7.1.1 — Acreditación
 
 La acreditación es el acto por el cual el Estado adopta y hace público el reconocimiento que los pares académicos hacen de la comprobación que efectúa una institución sobre la calidad de sus programas académicos, su organización y funcionamiento y el cumplimiento de su función social.
@@ -23248,8 +20340,6 @@ La acreditación es el acto por el cual el Estado adopta y hace público el reco
 Los aspectos por considerar dentro del proceso de evaluación con fines de acreditación de alta calidad deberán estar acordes con la naturaleza, la misión, la visión y los planes institucionales.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.1.2 — Conformación del Sistema Nacional de Acreditación
 
@@ -23267,8 +20357,6 @@ El Ministerio de Educación Nacional apoyará el Sistema Nacional de Acreditaci�
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.1.3 — Etapas del proceso de Acreditación
 
 El proceso de acreditación se inicia con la autoevaluación, continúa con la evaluación externa practicada por pares académicos, prosigue con la evaluación realizada por el Consejo Nacional de Acreditación y culmina, si el resultado fuere positivo, con el acto de acreditación por parte del Estado. La acreditación se inscribirá en el Sistema Nacional de Información de la Educación Superior (SNIES) creado por el artículo 53 de la Ley 30 de 1992.
@@ -23278,8 +20366,6 @@ PARÁGRAFO 1. La solicitud de acreditación atenderá los requisitos establecido
 PARÁGRAFO 2. El Consejo Nacional de Acreditación, de acuerdo con los lineamientos establecidos por el CESU, podrá realizar la visita de apreciación de las condiciones iniciales, para lo cual tendrá en cuenta los resultados de la evaluación de condiciones institucionales prevista en la Sección 2 del Capítulo 2 del presente Título, sin perjuicio de los demás requisitos establecidos para tal fin.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.1.4 — Renovación de la Acreditación
 
@@ -23291,8 +20377,6 @@ Para los efectos, el CESU dispondrá los lineamientos necesarios para determinar
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.1.5 — Características de la Acreditación
 
 De conformidad con el artículo 53 de la Ley 30 de 1992, acogerse al Sistema Nacional de Acreditación es voluntario para las instituciones.
@@ -23301,15 +20385,11 @@ La acreditación tendrá carácter temporal. Su término de duración se estable
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.1.6 — De la Autoevaluación
 
 Para la autoevaluación, la institución partirá de su propia definición de su misión y proyecto educativo y utilizará los instrumentos que para efecto adopte el Consejo Nacional de Acreditación.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.1.7 — De la Evaluación Externa
 
@@ -23317,15 +20397,11 @@ La evaluación externa será practicada por pares académicos asignados por el C
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.1.8 — De la Evaluación por el Consejo Nacional de Acreditación
 
 El Consejo Nacional de Acreditación, una vez analizados los documentos de autoevaluación y evaluación externa y, oída la institución, realizará la evaluación y procederá si fuere el caso a reconocer la calidad del programa o de la institución, o a formular las recomendaciones que juzgue pertinentes.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.1.9 — Acto de Acreditación
 
@@ -23333,15 +20409,11 @@ Concluido el trámite anterior y con base en el concepto emitido por el Consejo 
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.1.10 — De la No Acreditación
 
 Si el programa o la institución no obtuvieron la acreditación, podrán solicitar la iniciación de un nuevo proceso habiendo transcurrido no menos de 1 año luego de haber recibido el concepto del Consejo Nacional de Acreditación y, en todo caso, después de haber atendido sus recomendaciones.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.1.11 — Régimen de Transición
 
@@ -23353,15 +20425,11 @@ SECCIÓN 2
 
 DE LAS SOLICITUDES DE ACREDITACIÓN DE ALTA CALIDAD DE LOS PROGRAMAS DE LICENCIATURA
 
-ARTÍCULO
-
 ## art:2.5.3.7.2.1 — Objeto
 
 En desarrollo del artículo 222 de la Ley 1753 de 2015, la presente Sección regula la acreditación obligatoria de los programas académicos de licenciatura y aquellos enfocados a la educación.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.2.2 — Requisito para la acreditación
 
@@ -23373,8 +20441,6 @@ PARÁGRAFO 2. Los programas de licenciatura y aquellos enfocados a la educación
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.2.3 — Trámite de la acreditación
 
 Presentada la solicitud de acreditación y el informe de autoevaluación dentro del plazo indicado en el artículo anterior, el Consejo Nacional de Acreditación deberá presentar al Ministerio de Educación Nacional el concepto de recomendación correspondiente sobre la procedencia o no de la acreditación del programa académico.
@@ -23382,8 +20448,6 @@ Presentada la solicitud de acreditación y el informe de autoevaluación dentro 
 Emitido el concepto por parte del Consejo Nacional de Acreditación, el Ministerio de Educación Nacional deberá resolver mediante acto administrativo la solicitud de acreditación presentada por la institución de educación superior.
 
 (Decreto 1280 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.7.2.4 — Pérdida de vigencia del registro calificado
 
@@ -23397,8 +20461,6 @@ PARÁGRAFO . De no obtenerse la acreditación, y cuando medie una solicitud de r
 
 (Decreto 1280 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3.7.2.5 — Incumplimiento del plazo para radicar las solicitudes de acreditación de alta calidad
 
 El Ministerio de Educación Nacional resolverá negativamente las solicitudes de renovación de registro calificado de los programas de licenciatura y aquellos enfocados a la educación, cuando la institución haya incumplido el plazo mencionado en el artículo 2.5.3.7.2.2. del presente Decreto para radicar las solicitudes de acreditación de alta calidad, de acuerdo con lo previsto en el inciso 2 del artículo 222 de la Ley 1753 de 2015.
@@ -23411,23 +20473,17 @@ CAPÍTULO 8
 
 SISTEMA NACIONAL, DE INFORMACIÓN DE LA EDUCACIÓN SUPERIOR -
 
-ARTÍCULO
-
 ## art:2.5.3.8.1 — Definición
 
 El Sistema Nacional de Información de la Educación Superior - SNIES, es el conjunto de fuentes, procesos herramientas y usuarios que, articulados entre sí, posibilitan y facilitan la recopilación, divulgación y organización de la información sobre educación superior relevante para la planeación, monitoreo, evaluación, asesoría, inspección y vigilancia del sector.
 
 (Decreto 1767 de 2006, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.8.2 — Objetivo general
 
 El objetivo general del Sistema Nacional de Información de la Educación Superior - SNIES, es mantener y divulgar la información de las instituciones y los programas de educación superior, con el fin de orientar a la comunidad sobre la calidad, cantidad y características de los mismos.
 
 Decreto 1767 de 2006, artículo 2).
-
-ARTÍCULO
 
 ## art:2.5.3.8.3 — Objetivos específicos
 
@@ -23451,15 +20507,11 @@ h) Permitir el ejercicio de las funciones del Ministerio de Educación Nacional,
 
 (Decreto 1767 de 2006, artículo 3).
 
-ARTÍCULO
-
 ## art:2.5.3.8.4 — Administración
 
 La administración del Sistema Nacional de Información de la Educación Superior - SNIES, corresponde al Ministerio de Educación Nacional a través del Viceministerio de Educación Superior con el apoyo de la Oficina Asesora de Planeación y Finanzas y de la Oficina de Tecnología y Sistemas de Información del Ministerio de Educación Nacional, o quienes hagan sus veces.
 
 (Decreto 1767 de 2006, artículo 4).
-
-ARTÍCULO
 
 ## art:2.5.3.8.5 — Requerimientos
 
@@ -23468,8 +20520,6 @@ Las instituciones de educación superior deben garantizar la disponibilidad de i
 A partir del 1 de enero del 2007, las instituciones de educación superior deberán garantizar la disponibilidad de la información a través del nuevo desarrollo del Sistema Nacional de Información de la Educación Superior - SNIES.
 
 (Decreto 1767 de 2006, artículo 5).
-
-ARTÍCULO
 
 ## art:2.5.3.8.6 — Disponibilidad y suministro de la información
 
@@ -23481,8 +20531,6 @@ El Ministerio de Educación Nacional deberá consolidar la información de las i
 
 (Decreto 1767 de 2006, artículo 6).
 
-ARTÍCULO
-
 ## art:2.5.3.8.7 — Veracidad de la información
 
 Las instituciones de educación superior responderán por mantener la información completa, veraz y actualizada.
@@ -23491,8 +20539,6 @@ El Ministerio de Educación Nacional podrá en cualquier momento realizar proces
 
 (Decreto 1767 de 2006, artículo 7).
 
-ARTÍCULO
-
 ## art:2.5.3.8.8 — Articulación con otras fuentes de información
 
 El Sistema
@@ -23500,8 +20546,6 @@ El Sistema
 Nacional de Información de la Educación Superior - SNIES, buscará la articulación con los sistemas de otras entidades que de conformidad con las normas vigentes sean relevantes para este.
 
 (Decreto 1767 de 2006, artículo 8).
-
-ARTÍCULO
 
 ## art:2.5.3.8.9 — Uso de la información
 
@@ -23523,8 +20567,6 @@ SECCIÓN 1
 
 Criterios para la inspección y vigilancia respecto a los derechos pecuniarios en las instituciones de educación superior de carácter privado
 
-ARTÍCULO
-
 ## art:2.5.3.9.1.1 — Incremento del valor de los derechos pecuniarios
 
 Las instituciones de educación superior de carácter privado que hayan incrementado o pretendan incrementar el valor de los derechos pecuniarios por encima del índice de inflación del año inmediatamente anterior, deberán presentar al Ministerio de Educación Nacional un informe que contenga la justificación precisa de los factores en los que se fundamenta el aumento. Con base en esta información el Ministerio de Educación Nacional, dentro de los treinta (30) días siguientes, establecerá si el alza está o no en consonancia con los fines y objetivos de la educación superior consagrados en la ley, y así lo comunicará a la institución respectiva.
@@ -23532,8 +20574,6 @@ Las instituciones de educación superior de carácter privado que hayan incremen
 PARÁGRAFO . Para efectos de poder realizar la evaluación, el Ministerio de Educación Nacional solicitará la información que considere del caso.
 
 (Decreto 110 de 1994, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.9.1.2 — De los correctivos
 
@@ -23553,8 +20593,6 @@ SUBSECCIÓN 1
 
 Objeto y ámbito de aplicación.
 
-ARTÍCULO
-
 ## art:2.5.3.9.2.1.1 — Objeto
 
 La presente Sección tiene como objeto reglamentar la Ley 1740 de 2014 en lo relativo a:
@@ -23566,8 +20604,6 @@ La presente Sección tiene como objeto reglamentar la Ley 1740 de 2014 en lo rel
 3. Los demás aspectos necesarios para el cumplimiento de las funciones asignadas al Ministerio de Educación Nacional, para el desarrollo de las medidas preventivas y de vigilancia especial que sean impuestas a las instituciones de educación superior.
 
 (Decreto 2070 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.1.2 — Ámbito de aplicación
 
@@ -23585,8 +20621,6 @@ SUBSECCIÓN 2
 
 De los delegados y demás personas designadas en el marco de las medias preventivas y de la vigilancia especial.
 
-ARTÍCULO
-
 ## art:2.5.3.9.2.2.1 — De los delegados
 
 De conformidad con lo dispuesto en el numeral 3 del artículo 10 de la Ley 1740 de 2014, como medida preventiva, el Ministerio de Educación Nacional podrá enviar delegados a los órganos de dirección de una institución de educación superior para los fines que indica ese artículo.
@@ -23596,8 +20630,6 @@ El Ministerio de Educación Nacional deberá designar a los correspondientes del
 PARÁGRAFO . Una persona podrá ser designada como delegado en varias instituciones de educación superior, siempre y cuando no exista impedimento o inhabilidad legal o estatutaria.
 
 (Decreto 2070 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.2.2 — Funciones de los delegados
 
@@ -23629,8 +20661,6 @@ PARÁGRAFO . La institución de educación superior que sea objeto de la medida 
 
 (Decreto 2070 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.3.9.2.2.3 — Del Inspector in situ
 
 El Ministerio de Educación Nacional podrá designar un inspector in situ para una institución de educación superior, como medida de vigilancia especial, según lo dispuesto en el numeral 1 del artículo 13 de la Ley 1740 de 2014.
@@ -23640,8 +20670,6 @@ La designación del inspector in situ será realizada en el acto administrativo 
 PARÁGRAFO . Una persona podrá ser designada como inspector in situ ante varias instituciones de educación superior que estén sujetas a vigilancia especial, siempre y cuando no exista impedimento o inhabilidad legal o estatutaria.
 
 (Decreto 2070 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.2.4 — Funciones del inspector in situ
 
@@ -23669,8 +20697,6 @@ PARÁGRAFO . Con el fin de garantizar el logro de los objetivos de la vigilancia
 
 (Decreto 2070 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.3.9.2.2.5 — 2.5
 
 Del reemplazo de los consejeros, directivos, representantes legales, administradores o revisores fiscales de las instituciones de educación superior. El Ministerio de Educación Nacional podrá reemplazar a los consejeros, directivos, representantes legales, administradores o revisores fiscales que incurran en una de las causales señaladas por el numeral 4 del artículo 13 de la Ley 1740 de 2014.
@@ -23680,8 +20706,6 @@ Una persona podrá ser designada como remplazo de consejero, directivo, represen
 En las instituciones de educación superior, que por su naturaleza jurídica no se tenga prevista la figura de revisor fiscal, podrá ser reemplazado el funcionario equivalente o el que haga sus veces.
 
 (Decreto 2070 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.2.6 — 2.6
 
@@ -23707,8 +20731,6 @@ Funciones y facultades de los consejeros, directivos, representantes legales, ad
 
 (Decreto 2070 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.3.9.2.2.7 — 2.7
 
 Calidades de los delegados, el inspector in situ y los remplazantes: El Ministerio de Educación Nacional determinará las calidades que deben reunir las personas que sean designadas como delegado, inspector in sítu o remplazante.
@@ -23716,8 +20738,6 @@ Calidades de los delegados, el inspector in situ y los remplazantes: El Minister
 El Ministerio podrá dar por terminado y remplazar en cualquier momento a la persona designada.
 
 (Decreto 2070 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.2.8 — Acompañamiento del Ministerio
 
@@ -23728,8 +20748,6 @@ El Ministerio de Educación Nacional brindará a través de sus dependencias y e
 SUBSECCIÓN 3
 
 Otras disposiciones relativas a la inspección y vigilancia de la educación
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.3.1 — Identificación de acreedores cuando se decrete la suspensión de pagos
 
@@ -23744,8 +20762,6 @@ Con la información de los acreedores, deudas y obligaciones, la institución de
 El plan de pagos será enviado por la institución al Ministerio de Educación Nacional dentro del plazo indicado en el inciso primero de este artículo, y deberá estar de acuerdo con la planeación hecha por el Ministerio para restablecer el servicio en condiciones de continuidad y calidad. De no ser así, el Ministerio hará las observaciones y solicitará que se realicen los ajustes que considere necesarios, dentro del plazo que estime conveniente, buscando que se garantice a los estudiantes la continuidad y calidad del servicio educativo.
 
 (Decreto 2070 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.3.9.2.3.2 — Evaluación integral
 
@@ -23765,15 +20781,11 @@ OPERACIÓN DE REDESCUENTO CON TASA COMPENSADA
 
 (Capítulo adicionado por el Decreto 1722 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.10.1 — Objeto
 
 Reglamentar parcialmente el artículo 130 de la Ley 30 de 1992 y regular una operación de redescuento con tasa compensada de la Financiera de Desarrollo Territorial S.A. FINDETER, para el financiamiento de proyectos de infraestructura y programas de calidad en las instituciones de educación superior.
 
 (Decreto 1722 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.10.2 — Destinación de la financiación
 
@@ -23785,23 +20797,17 @@ Los recursos de esta línea de redescuento se destinarán a financiar las invers
 
 (Decreto 1722 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.10.3 — Beneficiarios
 
 Serán beneficiarios de la línea de redescuento con tasa compensada las instituciones de educación superior públicas y privadas.
 
 (Decreto 1722 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.10.4 — Vigencia de la línea de redescuento
 
 La aprobación de las operaciones de redescuento de que trata el presente Capítulo se podrán otorgar hasta el 31 de diciembre de 2018 y el monto de la línea de financiación será definido mediante circular externa emitida por FINDETER, con base en los recursos que le sean transferidos a ésta por parte del Ministerio de Educación Nacional en cada vigencia.
 
 (Decreto 1722 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.10.5 — Tasa de redescuento y plazo de amortización
 
@@ -23819,8 +20825,6 @@ La tasa de interés final será hasta del IPC más cuatro puntos por ciento efec
 
 (Decreto 1722 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.10.6 — De los recursos para la operación de redescuento
 
 En desarrollo de la línea de redescuento de que trata el artículo 2.5.3.10.1 del presente Decreto, el Ministerio de Educación Nacional transferirá a FINDETER, los recursos que se le asignen para este efecto en el Presupuesto General de la Nación.
@@ -23829,8 +20833,6 @@ Estos recursos serán destinados a cubrir la diferencia entre la tasa de redescu
 
 (Decreto 1722 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.10.7 — Viabilidad y seguimiento
 
 La viabilidad técnica y financiera de los proyectos estará a cargo del Ministerio de Educación Nacional. Para poder acceder a la línea de redescuento creada por el presente Capítulo, las instituciones de educación superior deberán presentar un proyecto, de acuerdo con la guía que para tal efecto expida el Ministerio de Educación Nacional.
@@ -23838,8 +20840,6 @@ La viabilidad técnica y financiera de los proyectos estará a cargo del Ministe
 El Ministerio de Educación Nacional establecerá los mecanismos que permitan realizar el seguimiento a los proyectos financiados con la línea de redescuento con tasa compensada.
 
 (Decreto 1722 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.10.8 — Transitorio
 
@@ -23855,15 +20855,11 @@ PREMIO JOSÉ FRANCISCO SOCARRÁS
 
 (Capítulo adicionado por el Decreto 1295 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.11.1 — Objeto
 
 Mediante el presente capítulo se reglamenta el premio José Francisco Socarrás al mérito afrocolombiano, en la Educación, la Medicina, la Ciencia, la Cultura y la Política, de acuerdo con lo dispuesto en el artículo 7 de la Ley 1759 de 2015.
 
 (Decreto 1295 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.11.2 — Categorías
 
@@ -23874,8 +20870,6 @@ El premio José Francisco Socarrás, se otorgará en las siguientes categorías:
 2. Mejor docente investigador
 
 (Decreto 1295 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.11.3 — Premio José Francisco Socarrás en la categoría Mejores resultados prueba de Estado Saber Pro
 
@@ -23897,8 +20891,6 @@ El ICFES será la entidad responsable de identificar a las personas que hayan ob
 
 (Decreto 1295 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.11.4 — Premio José Francisco Socarrás en la categoría Mejor docente investigador
 
 En esta categoría, el premio José Francisco Socarrás se otorgará al docente investigador afrocolombiano de instituciones de educación superior que, en el año inmediatamente anterior, se haya destacado en el ejercicio de su profesión o por su liderazgo en cada una de las siguientes áreas del conocimiento:
@@ -23915,15 +20907,11 @@ En esta categoría, el premio José Francisco Socarrás se otorgará al docente 
 
 (Decreto 1295 de 2016, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.3.11.5 — Competencia
 
 De acuerdo con la respectiva área del conocimiento, el responsable de reglamentar las condiciones, realizar la selección y definir el nominado a quien se le deberá entregar el premio en la categoría descrita en el artículo anterior, será el Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias), quien deberá informar en el mes de octubre de cada año al Ministerio de Educación Nacional, todos los nominados para que éste proceda con el reconocimiento.
 
 (Decreto 1295 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.11.6 — Reconocimiento y premiación
 
@@ -23938,8 +20926,6 @@ PARÁGRAFO. El premio José Francisco Socarrás es honorífico y no da lugar al 
 (Modificado por el Art. 1 del Decreto 2101 de 2023)
 
 (Decreto 1295 de 2016, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.3.11.7 — Premiación
 
@@ -23963,23 +20949,17 @@ CAPÍTULO 12
 
 BECA JÓVENES CIUDADANOS DE PAZ
 
-ARTÍCULO
-
 ## art:2.5.3.12.1 — Creación de la beca "Jóvenes Ciudadanos de Paz"
 
 Créase la beca "Jóvenes Ciudadanos de Paz" en reconocimiento a las personas colombianas que se encuentren en los estratos 1, 2 y 3, priorizados en el Sisbén dentro de los puntos de corte establecidos por el Ministerio de Educación Nacional, que tengan repercusión sobresaliente en la sociedad por la realización de acciones directamente relacionadas con la promoción de una cultura cívica, de solidaridad y fraternidad ciudadana, y de valores cívicos, democráticos y pacíficos.
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.3.12.2 — Categorías de la beca "Jóvenes Ciudadanos de Paz"
 
 La beca "Jóvenes Ciudadanos de Paz" se otorgará en las siguientes categorías: Femenina. Masculina.
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.3.12.3 — Nominación y selección de los beneficiarios
 
@@ -23988,8 +20968,6 @@ Los beneficiarios de la beca de que trata el presente capítulo, en las dos cate
 Dichas organizaciones, no podrán nominar a personas con las que tengan algún vínculo laboral o contractual.
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.3.12.4 — Criterios de selección, ponderación y calificación
 
@@ -24033,8 +21011,6 @@ En todos los casos, se aproximarán los puntajes con hasta dos decimales. En cas
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.3.12.5 — Otorgamiento y alcance de la beca
 
 El Ministerio de Educación Nacional elaborará anualmente el listado de potenciales beneficiarios con máximo tres candidatos por cada una de las dos categorías y, a más tardar el último día hábil de octubre de cada año, expedirá el acto administrativo de otorgamiento de la beca "Jóvenes Ciudadanos de Paz", se lo comunicará al Icetex y transferirá a dicha entidad los recursos financieros necesarios, para su administración de conformidad con lo dispuesto en el artículo 114 de la Ley 30 de 1992, modificado por el artículo 27 de la Ley 1450 de 2011.
@@ -24057,8 +21033,6 @@ PARÁGRAFO TRANSITORIO. Durante los dos (2) meses siguientes a la entrada en vig
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.3.12.6 — Obligaciones de los beneficiarios
 
 Los beneficiarios de la beca deberán cumplir las siguientes obligaciones:
@@ -24072,8 +21046,6 @@ En caso de suspensión temporal de estudios, se deberá informar al Icetex los m
 Cumplir los procedimientos y entregar la información o documentos que requiera el Icetex para garantizar la adecuada administración de la beca otorgada.
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.3.12.7 — Causales de pérdida de la beca
 
@@ -24090,8 +21062,6 @@ Tener otro apoyo económico distinto a esta beca de parte de alguna entidad gube
 PARÁGRAFO . La pérdida de la beca tiene como consecuencia la exigibilidad del pago de los valores que hayan sido desembolsados. En tal caso, el Icetex ejecutará las acciones necesarias para lograr el reembolso de estos recursos, aplicando las políticas de recuperación de cartera que tenga vigentes".
 
 (Adicionado por el Art. 1 del Decreto 507 de 2017)
-
-ARTÍCULO
 
 ## art:5.3.12.8 — Apropiación de recursos
 
@@ -24111,15 +21081,11 @@ SECCIÓN 1
 
 Naturaleza, objetivos, recursos y administración
 
-ARTÍCULO
-
 ## art:2.5.4.1.1.1 — Naturaleza jurídica
 
 De conformidad con el artículo 10 de la Ley 1697 de 2013, el Fondo Nacional de las Universidades Estatales de Colombia, es una cuenta especial, sin personería jurídica, con destinación específica, administrado por el Ministerio de Educación Nacional - MEN y con independencia patrimonial, administrativa, contable y estadística.
 
 (Decreto 1050 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.1.1.2 — Objetivos del fondo
 
@@ -24127,15 +21093,11 @@ El Fondo Nacional de las Universidades Estatales de Colombia tendrá como objeto
 
 (Decreto 1050 de 2014, artículo 2).
 
-ARTÍCULO
-
 ## art:2.5.4.1.1.3 — Origen y destino de los recursos
 
 Los recursos del Fondo Nacional de las Universidades Estatales de Colombia serán los que se reciban por concepto de la contribución parafiscal de que trata la Ley 1697 de 2013, que tienen destinación específica de conformidad con la misma ley, cuyos beneficiarios son las universidades estatales y deberán ser transferidos a las mismas de acuerdo con la distribución fijada en el artículo 3 de la Ley 1697 de 2013.
 
 (Decreto 1050 de 2014, artículo 3).
-
-ARTÍCULO
 
 ## art:2.5.4.1.1.4 — Dirección y administración del Fondo Nacional de las Universidades Estatales de Colombia
 
@@ -24157,8 +21119,6 @@ PARÁGRAFO . El portafolio de recursos del Fondo Nacional de las Universidades E
 
 (Decreto 1050 de 2014, artículo 4),
 
-ARTÍCULO
-
 ## art:2.5.4.1.1.5 — Ejecución de los recursos
 
 Como lo refieren los artículos 2 y 12 de la Ley 1697 de 2013, corresponde a las universidades estatales del país a cuyo favor se ha impuesto el tributo, la administración y ejecución de los recursos que les ingresen provenientes del Fondo Nacional de las Universidades Estatales.
@@ -24173,8 +21133,6 @@ SECCIÓN 2
 
 Contribución parafiscal o estampilla pro universidad nacional de Colombia y demás universidades estatales
 
-ARTÍCULO
-
 ## art:2.5.4.1.2.1 — Del hecho generador
 
 De conformidad con el artículo 5 de la Ley 1697 de 2013, los contratos gravados por la contribución parafiscal Estampilla Pro Universidad Nacional de Colombia y demás universidades estatales de Colombia, son aquellos que cumplen con las siguientes dos (2) condiciones:
@@ -24188,8 +21146,6 @@ Contratos conexos serán aquellos que tengan como objeto el diseño, operación 
 2. Ser suscritos por las entidades del orden nacional, definidas en el artículo 2 de la Ley 80 de 1993, independientemente de su régimen contractual.
 
 (Decreto 1050 de 2014, artículo 6).
-
-ARTÍCULO
 
 ## art:2.5.4.1.2.2 — De la retención de la contribución
 
@@ -24207,15 +21163,11 @@ En los casos contemplados en el inciso anterior, las entidades deberán enviar a
 
 (Decreto 1050 de 2014, artículo 7)
 
-ARTÍCULO
-
 ## art:2.5.4.1.2.3 — Publicación en el Sistema Electrónico para la Contratación Pública - SECOP
 
 Toda entidad obligada a practicar la retención a causa de la Estampilla Pro Universidad Nacional de Colombia y demás universidades estatales de Colombia, deberá publicar en el Sistema Electrónico para la Contratación Pública SECOP los documentos y actos administrativos relacionados con el proceso de contratación, en los términos previstos en el artículo 223 del Decreto 19 de 2012 y el artículo 19 del Decreto 1510 de 2013, o la norma que lo modifique, adicione, sustituya o compile, independientemente de su régimen de contratación.
 
 (Decreto 1050 de 2014, artículo 8).
-
-ARTÍCULO
 
 ## art:2.5.4.1.2.4 — Suministro de información por parte de las universidades estatales
 
@@ -24233,8 +21185,6 @@ PARÁGRAFO . Es competencia y responsabilidad exclusiva del Ministerio de Educac
 
 (Decreto 1050 de 2014, artículo 10).
 
-ARTÍCULO
-
 ## art:2.5.4.1.2.6 — Cobro coactivo
 
 El cobro coactivo de los recursos por Estampilla Pro Universidad Nacional de Colombia y demás universidades estatales de Colombia, se realizará de conformidad con el procedimiento establecido por el artículo 5 de la Ley 1066 de 2006 y estará a cargo de la Dirección de Impuestos y Aduanas Nacionales (DIAN), según lo establecido en el artículo 7 de la Ley 1697 de 2013 sobre el acreedor de la obligación tributaria creada.
@@ -24251,8 +21201,6 @@ CONCURRENCIA DE LA NACIÓN EN EL PAGO DEL PASIVO PENSIONAL DE
 
 LAS UNIVERSIDADES ESTATALES DEL ORDEN NACIONAL
 
-ARTÍCULO
-
 ## art:2.5.4.2.1 — Concurrencia en el pago del pasivo pensional
 
 La Nación concurrirá en el pago del pasivo pensional de las universidades estatales del orden nacional, en los términos de la Ley 1371 de 2009, y de conformidad con el presente Capítulo.
@@ -24265,8 +21213,6 @@ Las obligaciones por bonos pensionales también incluirán las obligaciones rela
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.4.2.2 — Estimación de la concurrencia
 
 La concurrencia en el pago del pasivo pensional de que trata el presente Capítulo se estimará de la siguiente manera:
@@ -24276,8 +21222,6 @@ La concurrencia en el pago del pasivo pensional de que trata el presente Capítu
 2. Concurrencia de la Nación: será igual a la diferencia entre el valor del pasivo pensiona: legalmente reconocido y la concurrencia de la universidad.
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.4.2.3 — Pago de la concurrencia
 
@@ -24289,8 +21233,6 @@ La concurrencia a cargo de la Nación se pagará con los recursos destinados en 
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.4.2.4 — Cálculo actuarial y proyecciones anuales
 
 Para la estimación del pasivo pensional, la universidad deberá elaborar un cálculo actuarial, de acuerdo con los estándares y especificaciones técnicas establecidas en las normas aplicables, el cual deberá someterse a la aprobación del Ministerio de Hacienda y Crédito Público. En todo caso, el cálculo actuarial permitirá distinguir con claridad el valor total de las obligaciones de que trata el artículo 2.5.4.2.1. y dentro de ellas, las obligaciones pensionales que son objeto de revisión administrativa y judicial, de acuerdo con el inciso 2 del artículo anterior.
@@ -24299,8 +21241,6 @@ Durante el primer semestre de cada año, la universidad presentará ante el Mini
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.4.2.5 — Convenios interadministrativos de concurrencia
 
 La concurrencia en el pago del pasivo pensional de que trata este Capítulo se instrumentará en un convenio interadministrativo de concurrencia que suscribirán para el efecto la Nación - Ministerios de Hacienda y Crédito Público y de Educación, y la universidad, El convenio tendrá por objeto realizar las acciones necesarias para la determinación y pago del monto del pasivo pensional total y de la concurrencia anual de las partes, así como la organización del Fondo para el Pago del Pasivo Pensional, e incluirá las actividades a cargo de cada una de las partes para la debida ejecución de dicho objeto.
@@ -24308,8 +21248,6 @@ La concurrencia en el pago del pasivo pensional de que trata este Capítulo se i
 El convenio interadministrativo de concurrencia definirá los mecanismos para la revisión administrativa y judicial de las pensiones, de acuerdo con el artículo 19 de la Ley 797 de 2003, los instrumentos que utilizará la Nación para financiar transitoriamente el pago de estas obligaciones a través del Fondo mientras se profieren las decisiones judiciales respectivas, los mecanismos de seguimiento y control que deberán instaurarse en protección de los recursos públicos, entre otros.
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.4.2.6 — Fondos para el pago del pasivo pensional
 
@@ -24320,8 +21258,6 @@ El Fondo se organizará como una cuenta especial sin personería jurídica de la
 La sociedad fiduciaria y el Fondo estarán sometidos a las disposiciones aplicables en materia de administración de pasivos pensionales y a la gestión de recursos públicos destinados al mismo fin.
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.4.2.7 — Recursos de/os fondos para el pago del pasivo pensional
 
@@ -24343,8 +21279,6 @@ Los recursos y los rendimientos del Fondo tendrán destinación específica para
 
 (Derogado por el Art. 3 del Decreto 117 de 2017)
 
-ARTÍCULO
-
 ## art:2.5.4.2.8 — Sustitución en el pago de obligaciones
 
 Colpensiones o quien haga sus veces podrá sustituir a la universidad en el pago de las obligaciones pensionales a su cargo, a cambio de la transferencia del valor del cálculo actuarial correspondiente a dichas obligaciones y previa celebración de un contrato con dicho objeto entre ambas partes. Si existiera un valor en revisión administrativa o judicial, de acuerdo con lo previsto en el inciso 1 del artículo 2.5.4.2.4. del presente Decreto, dicho valor deberá seguir siendo pagado por la universidad con cargo a la misma fuente de recursos de que trata el numeral 1 del artículo 2.5.4.2.2. de este Decreto
@@ -24359,15 +21293,11 @@ El cálculo actuarial que se realice para efecto de la sustitución de las menci
 
 ASIGNACIÓN DE RECURSOS PARA EDUCACIÓN SUPERIOR PROVENIENTES DEL CREE
 
-ARTÍCULO
-
 ## art:2.5.4.3.1 — Objeto
 
 Reglamentar los criterios para la asignación y distribución de recursos provenientes Impuesto sobre la para la Equidad (CREE), destinados a financiar las Instituciones Educación Superior Públicas para el periodo gravable 2015.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.4.3.2 — Ámbito de Aplicación
 
@@ -24377,15 +21307,11 @@ Se excluirán las entidades previstas en artículo 137 de la Ley 30 de 1992 que 
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.4.3.3 — Uso de los recursos
 
 Los recursos que reciban las Instituciones de Educación Superior Públicas en los términos establecidos en presente Capítulo, se destinarán a la adquisición, construcción, ampliación, mejoramiento, adecuación y dotación de infraestructura física, tecnológica y bibliográfica, proyectos de investigación, diseño y adecuación de nueva oferta académica, estrategias de disminución de la deserción, formación de docentes a nivel maestría y doctorado, y estrategias de regionalización en programas de alta calidad, a través de Planes Fomento a la Calidad que cada institución determine en marco de la autonomía universitaria. Estos recursos no constituirán base presupuestal.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.4.3.4 — Planes de Fomento a la Calidad
 
@@ -24394,8 +21320,6 @@ Los Planes de Fomento a la calidad son herramientas de planeación en las que se
 El Ministerio de Educación Nacional definirá la forma de presentación y seguimiento de los Planes de Fomento a la Calidad.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.4.3.5 — , Asignación de los recursos
 
@@ -24406,8 +21330,6 @@ Los recursos de que trata el parágrafo transitorio del artículo 24 de la Ley 1
 2. 25% para las Instituciones de Educación Superior Públicas con carácter de colegios mayores, instituciones tecnológicas, instituciones universitarias o escuelas tecnológicas e instituciones técnicas profesionales.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.4.3.6 — Distribución de los recursos
 
@@ -24424,8 +21346,6 @@ b) 50% conforme al uso de los recursos previsto en artículo 2.5.4.3.3 del prese
 La metodología de distribución del presente artículo será aplicada por el Ministerio de Educación Nacional.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.4.3.7 — Fomento cumplimiento de las normas y lineamientos de calidad
 
@@ -24465,23 +21385,17 @@ PARÁGRAFO . Para la aplicación de lo dispuesto en el presente artículo, se te
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.4.3.8 — Seguimiento a los Planes de Fomento a la Calidad
 
 Cada Institución de Educación Superior Pública deberá presentar informes periódicos de ejecución de los Planes de Fomento a la Calidad para seguimiento del Ministerio de Educación Nacional.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
 
-ARTÍCULO
-
 ## art:2.5.4.3.9 — Seguimiento y control de los recursos
 
 Las Instituciones de Educación Superior Públicas deberán administrar estos recursos en una cuenta especial que permita realizar el debido control y seguimiento a los recursos.
 
 (Adicionado por el Art. 2 del Decreto 1246 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.4.3.10 — Transferencia de los recursos
 
@@ -24499,23 +21413,17 @@ SECCIÓN 1
 
 Objeto y ámbito de aplicación.
 
-ARTÍCULO
-
 ## art:2.5.4.4.1.1 — Objeto
 
 Reglamentar los criterios para la asignación y distribución de los recursosprovenientesdelImpuestosobrelaRentaparala Equidad(CREE)apartirdel periodo gravable 2016,correspondientes al 0.6 de la tarifa de dicho impuesto, que tienen como objetivofinanciar las instituciones de educación superior oficiales para mejorar la calidad del servicio que estas prestan, y los créditos beca que se otorgarán a través del ICETEX.
 
 (Decreto 2564 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.4.4.1.2 — Ámbito de Aplicación
 
 El presente capítulo aplicará a las instituciones de educación superior oficiales, al ICETEX y al Ministerio de Educación Nacional.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.1.3 — Competencia del Ministerio de Educación
 
@@ -24527,8 +21435,6 @@ SECCIÓN 2
 
 Asignación de recursos para las instituciones de educación superior oficiales
 
-ARTÍCULO
-
 ## art:2.5.4.4.2.1 — Ámbito de aplicación
 
 Para la asignación y distribución de los recursos provenientesdelImpuestosobrelaRentaparalaEquidad (CREE)seránbeneficiarias aquellas instituciones de educación superior oficiales que ofrezcan programas y cuenten con personería jurídica activa.
@@ -24537,15 +21443,11 @@ Se excluirán las entidades previstas en el artículo137 de la Ley 30 de 1992 qu
 
 (Decreto 2564 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.4.4.2.2 — Uso de los recursos
 
 Los recursos asignadosa las institucionesde educaciónsuperioroficialesse podrán destinara la adquisición, construcción,ampliación, mejoramiento,adecuacióny dotaciónde infraestructurafísica,tecnológicay bibliográfica, proyectos y fortalecimientode la investigación,estrategiasde fomentoa la permanenciay formaciónde docentes a nivel de maestríay doctoradoque en el marco de la autonomía universitaria cada institucióndetermine y presente a través de los Planes de Fomento a la Calidad ante el Ministeriode Educación Nacional. De acuerdo a lo anterior,estos recursos están orientadosal mejoramientode las condicionesde calidad de la oferta de Educación Superior de las instituciones en sus sedes, seccionales y para el fortalecimientode la regionalización de la oferta de la educación superior.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.2.3 — Planes de fomento a la calidad
 
@@ -24554,8 +21456,6 @@ Los planes de fomentoa la calidad son herramientasde planeaciónen las que se de
 El Ministerio de EducaciónNacional definirála forma de presentación y seguimientode los planes de fomento a la calidad.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.2.4 — Asignación de los recursos
 
@@ -24566,8 +21466,6 @@ Los recursosde que trata la presente Sección y que sean definidos por el Minist
 2. 25%paralasinstitucionesdeeducaciónsuperioroficialesconcarácterde colegios mayores, instituciones tecnológicas,instituciones universitarias o escuelas tecnológicas e instituciones técnicas profesionales.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.2.5 — Distribución de los recursos
 
@@ -24580,8 +21478,6 @@ Los recursos de que tratala presente sección,asignadossegúnelARTÍCULO anterio
 3. Cumplimiento de las metas propuestas por las instituciones de educación superior oficiales en los Planes de Fomento a la Calidad suscritos en vigencias anteriores.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.2.6 — Fomento al cumplimiento de las normas y lineamientos de calidad
 
@@ -24621,23 +21517,17 @@ PARÁGRAFO . Para la aplicación de lo dispuesto en el presente artículo,se ten
 
 (Decreto 2564 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.4.4.2.7 — Seguimiento a los Planes de Fomento a la Calidad
 
 Cada institución de educación superior oficial deberá presentar informes periódicos de ejecución de los Planes de Fomento a la Calidad para seguimiento del Ministeriode Educación Nacional.
 
 (Decreto 2564 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.4.4.2.8 — Seguimiento y control de los recursos
 
 Las instituciones de educación superioroficiales deberánadministrarestosrecursos enuna cuentaespecialque permita realizar el debido control y seguimiento a los recursos.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.2.9 — Transferencia de recursos
 
@@ -24647,15 +21537,11 @@ SECCIÓN 3
 
 Asignación de recursos para la financiación de créditos becas
 
-ARTÍCULO
-
 ## art:2.5.4.4.3.1 — Destinación de los recursos
 
 El Ministeriode EducaciónNacional transferiráal ICETEX los recursos provenientes del Impuesto sobre la Renta para la Equidad (CREE) que dichoministeriohaya definidopara financiarcréditosbecaspara estudiosde educación superior, en el marco del convenio que para tal efecto se encuentre vigente entre ambas entidades.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.3.2 — Costos a financiar
 
@@ -24667,8 +21553,6 @@ PARÁGRAFO 2. El Ministeriode EducaciónNacionaly el ICETEXdefiniránen el conve
 
 (Decreto 2564 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.4.4.3.3 — Asignación de los créditos becas
 
 De acuerdoconlos recursos disponibles,elICETEXeselresponsabledeabriryadelantarlas convocatoriaspara seleccionaralaspersonasquesebeneficiarándelos créditosbecasdequetratala presente Sección.
@@ -24677,15 +21561,11 @@ El Ministerio de Educación Nacional deberá definir los criterios de selección
 
 (Decreto 2564 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.5.4.4.3.4 — De los programas académicos
 
 Los créditos becas que se financien con recursos provenientesdelImpuesto sobre la Renta para la Equidad (CREE)solo podrán estar referidos a programas académicos de pregrado.
 
 (Decreto 2564 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.4.4.3.5 — Distribución
 
@@ -24698,8 +21578,6 @@ Losrecursosdestinadosa cofinanciarlos gastosdesostenimientoserángirados porel I
 SECCIÓN 4
 
 Disposición final
-
-ARTÍCULO
 
 ## art:2.5.4.4.4.1 — Ajuste de las apropiaciones de cada vigencia
 
@@ -24715,15 +21593,11 @@ CAPÍTULO 1
 
 DEL RECONOCIMIENTO DE PERSONERÍA JURÍDICA
 
-ARTÍCULO
-
 ## art:2.5.5.1.1 — Solicitud
 
 Para el reconocimiento de la personería jurídica de una institución de educación superior, el representante legal provisional de la misma deberá formular la solicitud escrita ante el Ministerio de Educación Nacional, acompañada de la documentación establecida en el artículo 100 de la Ley 30 de 1992, cuyos requisitos de contenido, forma y diligenciamiento son los consignados en este Título.
 
 (Decreto 1478 de 1994, artículo 1).
-
-ARTÍCULO
 
 ## art:2.5.5.1.2 — Acta de constitución
 
@@ -24741,8 +21615,6 @@ e) La designación de la Junta o Consejo Directivo y del revisor fiscal.
 
 (Decreto 1478 de 1994, artículo 2).
 
-ARTÍCULO
-
 ## art:2.5.5.1.3 — Acreditación de los aportes
 
 Para acreditar la efectividad y seriedad de los aportes provenientes de los fundadores, se adjuntará el acta o actas de recibo suscritas por quienes hayan sido designados para ejercer las funciones de representante legal provisional y revisor fiscal de la institución. Sus firmas deberán hacerse reconocer ante notario público.
@@ -24753,15 +21625,11 @@ Los aportes que establezcan mutaciones, gravámenes o limitaciones de dominio so
 
 (Decreto 1478 de 1994, artículo 3).
 
-ARTÍCULO
-
 ## art:2.5.5.1.4 — Hoja de vida de los fundadores
 
 Los fundadores deben allegar las hojas de vida debidamente documentadas.
 
 (Decreto 1478 de 1994, artículo 4).
-
-ARTÍCULO
 
 ## art:2.5.5.1.5 — De los estatutos
 
@@ -24801,8 +21669,6 @@ Los estatutos de la institución estarán en concordancia con los principios y o
 
 (Decreto 1478 de 1994, artículo 5).
 
-ARTÍCULO
-
 ## art:2.5.5.1.6 — Del estudio de factibilidad socioeconómica
 
 El estudio de factibilidad socioeconómica deberá presentarse teniendo en cuenta los siguientes aspectos:
@@ -24837,8 +21703,6 @@ PARÁGRAFO . El estudio de factibilidad debe demostrar igualmente que el funcion
 
 (Decreto 1478 de 1994, artículo 6).
 
-ARTÍCULO
-
 ## art:2.5.5.1.7 — Otros requisitos
 
 De conformidad con el artículo 100 de la Ley 30 de 1992, deberán presentarse, además los siguientes documentos:
@@ -24853,15 +21717,11 @@ CAPÍTULO 2
 
 DEL PROCEDIMIENTO
 
-ARTÍCULO
-
 ## art:2.5.5.2.1 — Presentación de las solicitudes
 
 Las solicitudes de reconocimiento de personería jurídica deberán presentarse ante el Ministerio de Educación Nacional.
 
 (Decreto 1478 de 1994, artículo 8).
-
-ARTÍCULO
 
 ## art:2.5.5.2.2 — Trámite de las solicitudes
 
@@ -24871,8 +21731,6 @@ Evaluada la solicitud, el Ministerio de Educación Nacional la remitirá al Comi
 
 (Decreto 1478 de 1994, artículo 9).
 
-ARTÍCULO
-
 ## art:2.5.5.2.3 — Concepto del Consejo Nacional de Educación Superior
 
 Con fundamento en la evaluación del Ministerio de Educación Nacional y en el concepto previo emitido por el correspondiente Comité asesor, el Consejo Nacional de Educación superior - CESU emitirá su concepto definitivo, de acuerdo con lo dispuesto en el artículo 99 de la Ley 30 de 1992 y recomendará al Ministerio de Educación Nacional, con base en el análisis que se haya hecho del estudio de factibilidad socioeconómico presentado, el monto mínimo de capital que garantice el adecuado y correcto funcionamiento de la institución que se pretende crear.
@@ -24881,15 +21739,11 @@ Para la recomendación se tendrán en cuenta, entre otros, los aspectos señalad
 
 (Decreto 1478 de 1994, artículo 10).
 
-ARTÍCULO
-
 ## art:2.5.5.2.4 — Término del procedimiento
 
 El procedimiento contemplado en los artículos anteriores deberá cumplirse en un término no mayor de seis (6) meses, contados a partir de la presentación en debida forma de la solicitud de reconocimiento de personería jurídica.
 
 (Decreto 1478 de 1994, artículo 11).
-
-ARTÍCULO
 
 ## art:2.5.5.2.5 — Acreditación de los aportes
 
@@ -24901,8 +21755,6 @@ PARÁGRAFO . Para efectos del cálculo del capital mínimo, los bienes que se ap
 
 (Decreto 1478 de 1994, artículo 12).
 
-ARTÍCULO
-
 ## art:2.5.5.2.6 — Reconocimiento de la personería jurídica
 
 Cumplido lo anterior, el Ministerio de Educación Nacional dentro del mes siguiente, expedirá la resolución de reconocimiento de personería jurídica.
@@ -24910,8 +21762,6 @@ Cumplido lo anterior, el Ministerio de Educación Nacional dentro del mes siguie
 Una vez ejecutoriado dicho acto, el solicitante protocolizará mediante escritura pública, fotocopias autenticadas del acta de constitución, de los estatutos, del acta inicial de recibo de aportes y del certificado de depósito a término a que se refiere el artículo anterior.
 
 (Decreto 1478 de 1994, artículo 13).
-
-ARTÍCULO
 
 ## art:2.5.5.2.7 — Publicidad de la resolución de reconocimiento de personería jurídica
 
@@ -24923,15 +21773,11 @@ CAPÍTULO 3
 
 CREACIÓN DE SECCIONALES
 
-ARTÍCULO
-
 ## art:2.5.5.3.1 — De la creación de seccionales
 
 En los términos del artículo 121 de la Ley 30 de 1992, podrán crear seccionales, las instituciones de educación superior que en sus estatutos tengan expresamente prevista tal posibilidad.
 
 (Decreto 1478 de 1994, artículo 15).
-
-ARTÍCULO
 
 ## art:2.5.5.3.2 — Requisitos
 
@@ -24941,8 +21787,6 @@ Además, deberá demostrar consolidación en los aspectos de calidad académica,
 
 (Decreto 1478 de 1994, artículo 16).
 
-ARTÍCULO
-
 ## art:2.5.5.3.3 — Evaluación de las solicitudes
 
 Las solicitudes para crear seccionales serán elevadas ante el Ministerio de Educación Nacional, quien procederá a evaluarlas y solicitará, si es del caso, por una sola vez las informaciones y los documentos complementarios o aclaratorios que considere necesarios, en los términos de ley.
@@ -24951,15 +21795,11 @@ Efectuada a la evaluación, el remitirá la documentación al Consejo Nacional d
 
 (Decreto 1478 de 1994, artículo 17).
 
-ARTÍCULO
-
 ## art:2.5.5.3.4 — Término para resolver
 
 El procedimiento contemplado en los artículos anteriores deberá cumplirse en un término no mayor de seis (6) meses, contados a partir de la presentación en debida forma de la solicitud.
 
 (Decreto 1478 de 1994, artículo 18).
-
-ARTÍCULO
 
 ## art:2.5.5.3.5 — Publicidad del acto administrativo
 
@@ -24977,15 +21817,11 @@ CAPÍTULO 4
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.5.5.4.1 — Plazo para iniciar actividades académicas
 
 Otorgado el reconocimiento de personería jurídica a una institución de educación superior o autorizada la creación de una seccional, se dispondrá de un plazo de dos (2) años para el inicio de labores académicas, vencido el cual, en caso de no haberse hecho uso del reconocimiento de personería jurídica o de la autorización, el Ministerio de Educación Nacional procederá a su cancelación.
 
 (Decreto 1478 de 1994, artículo 20)
-
-ARTÍCULO
 
 ## art:2.5.5.4.2 — Reglas para la ratificación de reformas estatutarias
 
@@ -24997,8 +21833,6 @@ Las reformas estatutarias de las instituciones de educación superior de caráct
 
 (Decreto 1478 de 1994, artículo 21).
 
-ARTÍCULO
-
 ## art:2.5.5.4.3 — Registro de rectores y/o representantes legales
 
 El registro de los nombres de quienes sean designados rectores y/o representantes legales de las instituciones de educación superior de carácter privado se efectuará en el Ministerio de Educación Nacional.
@@ -25006,8 +21840,6 @@ El registro de los nombres de quienes sean designados rectores y/o representante
 PARÁGRAFO . Si se presentaren dos o más peticiones de registro de diferentes dignatarios para un mismo período, los documentos o solicitudes que planteen ante el Ministerio de Educación Nacional, estas divergencias o controversias, sobre la legalidad de las reuniones o de las decisiones de los organismos electores serán devueltos por el Ministerio de Educación Nacional a los interesados para que éstos diriman sus controversias, según lo dispongan sus estatutos o acudan a la justicia ordinaria, si es del caso.
 
 (Decreto 1478 de 1994, artículo 22).
-
-ARTÍCULO
 
 ## art:2.5.6.1.1 — Ámbito de Aplicación
 
@@ -25257,8 +22089,6 @@ TÍTULO 1
 
 ADOPCIÓN DE LA REGLAMENTACIÓN
 
-ARTÍCULO
-
 ## art:2.6.1.1 — Adopción
 
 Adóptense como reglamentación para la organización, oferta y funcionamiento de la prestación del servicio público de educación para el trabajo y el desarrollo humano las siguientes disposiciones.
@@ -25269,15 +22099,11 @@ TÍTULO 2
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.6.2.1 — Objeto y ámbito
 
 El presente Título tiene por objeto reglamentar la creación, organización y funcionamiento de las instituciones que ofrezcan el servicio educativo para el trabajo y el desarrollo humano, antes denominado educación no formal y establecer los requisitos básicos para el funcionamiento de los programas de educación para el trabajo y el desarrollo humano.
 
 (Decreto 4904 de 2009, artículo 1 1).
-
-ARTÍCULO
 
 ## art:2.6.2.2 — Educación para el trabajo y el desarrollo humano
 
@@ -25286,8 +22112,6 @@ La educación para el trabajo y el desarrollo humano hace parte del servicio pú
 Comprende la formación permanente, personal, social y cultural, que se fundamenta en una concepción integral de la persona, que una institución organiza en un proyecto educativo institucional y que estructura en currículos flexibles sin sujeción al sistema de niveles y grados propios de la educación formal.
 
 (Decreto 4904 de 2009, artículo 1.2).
-
-ARTÍCULO
 
 ## art:2.6.2.3 — Objetivos
 
@@ -25303,8 +22127,6 @@ TÍTULO 3
 
 ORGANIZACIÓN DE LAS INSTITUCIONES EDUCATIVAS
 
-ARTÍCULO
-
 ## art:2.6.3.1 — Naturaleza y condiciones de las instituciones de educación para el trabajo y el desarrollo humano
 
 Se entiende por institución de educación para el trabajo y el desarrollo humano, toda institución de carácter estatal o privada organizada para ofrecer y desarrollar programas de formación laboral o de formación académica de acuerdo con lo establecido en la Ley 115 de 1994.
@@ -25316,8 +22138,6 @@ La institución de educación para el trabajo y el desarrollo humano para ofrece
 2. Obtener el registro de los programas de que trata el presente Título.
 
 (Decreto 4904 de 2009, artículo 2.1).
-
-ARTÍCULO
 
 ## art:2.6.3.2 — Licencia de funcionamiento
 
@@ -25331,15 +22151,11 @@ PARÁGRAFO 2. La personería jurídica de las instituciones de educación superi
 
 (Decreto 4904 de 2009, artículo 2.2).
 
-ARTÍCULO
-
 ## art:2.6.3.3 — Reconocimiento oficial
 
 Para las instituciones de educación para el trabajo y el desarrollo humano de carácter estatal, el acto administrativo de creación constituye el reconocimiento de carácter oficial.
 
 (Decreto 4904 de 2009, artículo 2.3).
-
-ARTÍCULO
 
 ## art:2.6.3.4 — Solicitud de la licencia de funcionamiento
 
@@ -25363,15 +22179,11 @@ PARÁGRAFO . Si transcurridos dos (2) años contados a partir de la expedición 
 
 (Decreto 4904 de 2009, artículo 2.4.).
 
-ARTÍCULO
-
 ## art:2.6.3.5 — Decisión
 
 La Secretaría de Educación verificará el cumplimiento de los requisitos establecidos en este Título y decidirá mediante acto administrativo motivado.
 
 (Decreto 4904 de 2009, artículo 2.5).
-
-ARTÍCULO
 
 ## art:2.6.3.6 — Modificaciones a la licencia
 
@@ -25380,8 +22192,6 @@ Las novedades relativas a cambio de sede, apertura de nuevas sedes en la misma j
 La apertura de una o más sedes en jurisdicción diferente requiere el trámite de la licencia ante la secretaría de educación de la entidad territorial competente.
 
 (Decreto 4904 de 2009, artículo 2.6).
-
-ARTÍCULO
 
 ## art:2.6.3.7 — Participación
 
@@ -25392,8 +22202,6 @@ Las instituciones de educación para el trabajo y el desarrollo humano establece
 TÍTULO 4
 
 PROGRAMAS DE FORMACIÓN
-
-ARTÍCULO
 
 ## art:2.6.4.1 — Programas de formación
 
@@ -25413,15 +22221,11 @@ Para ello deben registrar cada programa previamente ante la secretaría educaci�
 
 (Decreto 4904 de 2009, artículo 3.1).
 
-ARTÍCULO
-
 ## art:2.6.4.2 — Limitación de la oferta
 
 Las instituciones de educación para el trabajo y el desarrollo humano no pueden ofrecer y desarrollar directamente o a través de convenios programas de educación superior.
 
 (Decreto 4904 de 2009, artículo 3.2).
-
-ARTÍCULO
 
 ## art:2.6.4.3 — Certificados de aptitud ocupacional
 
@@ -25435,8 +22239,6 @@ De conformidad con lo dispuesto en los artículos 42 y 90 de la Ley 115 de 1994,
 
 (Decreto 4904 de 2009, artículo 3.3.).
 
-ARTÍCULO
-
 ## art:2.6.4.4 — Requisitos para ingresar a los programas
 
 Son requisitos para el ingreso a los diferentes programas de educación para el trabajo y el desarrollo humano los que señale cada institución de acuerdo con el programa que va a desarrollar y el perfil ocupacional de egreso.
@@ -25444,8 +22246,6 @@ Son requisitos para el ingreso a los diferentes programas de educación para el 
 PARÁGRAFO . Para ingresar a los programas de formación de personal auxiliar en las áreas de la salud, se requiere haber aprobado la educación básica secundaria en su totalidad y ser mayor de dieciséis (16) años. El Ministerio de Educación Nacional podrá establecer requisitos especiales de ingreso a otros programas que impliquen riesgo social.
 
 (Decreto 4904 de 2009, artículo 3.4).
-
-ARTÍCULO
 
 ## art:2.6.4.5 — Metodología
 
@@ -25465,8 +22265,6 @@ El Ministerio de Educación Nacional podrá establecer requisitos especiales par
 
 (Decreto 4904 de 2009, artículo 3.5).
 
-ARTÍCULO
-
 ## art:2.6.4.6 — Registro de los programas
 
 Para ofrecer y desarrollar un programa de educación para el trabajo y el desarrollo humano, la institución prestadora del servicio educativo debe contar con el respectivo registro.
@@ -25481,8 +22279,6 @@ Los programas de idiomas ofrecidos por las instituciones de educación superior 
 
 (Decreto 4904 de 2009, artículo 3.6).
 
-ARTÍCULO
-
 ## art:2.6.4.7 — Vigencia del registro
 
 El registro tiene una vigencia de cinco (5) años, contados a partir de la ejecutoria del acto administrativo que lo otorga. Su renovación se debe solicitar ante la respectiva secretaría de educación con una antelación de seis (6) meses antes de su vencimiento.
@@ -25492,8 +22288,6 @@ Cuando para la renovación del registro, la institución acredite certificación
 Una vez expirada la vigencia del registro, la institución no podrá admitir nuevos estudiantes en el correspondiente programa y garantizará a los estudiantes de las cohortes ya iniciadas, el desarrollo del programa hasta la terminación del mismo.
 
 (Decreto 4904 de 2009, artículo 3.7).
-
-ARTÍCULO
 
 ## art:2.6.4.8 — Requisitos para el registro de los programas
 
@@ -25573,15 +22367,11 @@ Conforme lo dispuesto en el artículo 2.2.6.2.6.9. del Decreto 1072 de 2015 "Ún
 
 (Decreto 4904 de 2009, artículo 3.8.).
 
-ARTÍCULO
-
 ## art:2.6.4.9 — Verificación de los requisitos para el funcionamiento de las programas
 
 El Ministerio de Educación Nacional elaborará una guía que oriente a las secretarías de educación de las entidades territoriales certificadas en educación para la verificación de los requisitos de funcionamiento de los programas de educación para el trabajo y el desarrollo humano.
 
 (Decreto 4904 de 2009, artículo 3.9).
-
-ARTÍCULO
 
 ## art:2.6.4.10 — .10
 
@@ -25595,8 +22385,6 @@ El número de créditos de una actividad académica en el plan de estudios será
 
 (Decreto 4904 de 2009, artículo 3.10).
 
-ARTÍCULO
-
 ## art:2.6.4.11 — Número de horas académicas de acompañamiento docente
 
 Las horas académicas teóricas requieren de un 80% de acompañamiento directo del docente y el veinte por ciento (20%) restante de trabajo independiente.
@@ -25605,15 +22393,11 @@ Las horas prácticas se desarrollarán el ciento por ciento (100%) bajo la metod
 
 (Decreto 4904 de 2009, artículo 3.11).
 
-ARTÍCULO
-
 ## art:2.6.4.12 — Articulación con la educación media
 
 Las instituciones de educación que ofrezcan educación media, estatales o privadas, a través de las secretarías de educación las primeras y de sus representantes legales o propietarios las segundas, podrán celebrar convenios con instituciones de educación para el trabajo y el desarrollo humano, para que los estudiantes de los grados 10 y 11 adquieran y desarrollen competencias laborales específicas en una o más ocupaciones, que permitan su continuidad en el proceso de formación o su inserción laboral y obtengan por parte de estas instituciones su certificado de técnico laboral por competencias.
 
 (Decreto 4904 de 2009, artículo 3.12)
-
-ARTÍCULO
 
 ## art:2.6.4.13 — Articulación con la educación superior
 
@@ -25631,8 +22415,6 @@ b) Para los programas de especialización referidos al campo de la técnica y la
 
 (Decreto 4904 de 2009, artículo 3.13).
 
-ARTÍCULO
-
 ## art:2.6.4.14 — Apertura de programas en convenio
 
 Cuando dos o más instituciones de educación para el trabajo y el desarrollo humano decidan ofrecer un programa de formación laboral o de formación académica en convenio, deberán solicitar el respectivo registro de manera conjunta. Obtenido el registro, el Certificado de Aptitud Ocupacional que expidan deberá ser otorgado conjuntamente.
@@ -25643,23 +22425,17 @@ En este caso el Certificado de Aptitud Ocupacional será otorgado conjuntamente 
 
 (Decreto 4904 de 2009, artículo 3.14).
 
-ARTÍCULO
-
 ## art:2.6.4.15 — Reconocimiento
 
 Las instituciones de educación para el trabajo y el desarrollo humano deberán incorporar en su reglamento o manual de convivencia el mecanismo de valoración de conocimientos, experiencias y prácticas previamente adquiridas por los estudiantes, para el ingreso al programa que corresponda.
 
 (Decreto 4904 de 2009, artículo 3.15).
 
-ARTÍCULO
-
 ## art:2.6.4.16 — Concepto previo
 
 Los programas de formación de personal auxiliar en las áreas de la salud, de mecánica dental y de cosmetología y estética integral, deben obtener e concepto técnico previo por parte de la Comisión Intersectorial para el Talento Humano en Salud o quien haga sus veces, de que trata el literal c) del numeral 2 del artículo 9 de Decreto 2006 de 2008.
 
 (Decreto 4904 de 2009, artículo 3 16).
-
-ARTÍCULO
 
 ## art:2.6.4.17 — Características específicas de calidad
 
@@ -25668,8 +22444,6 @@ El Ministerio de Educación Nacional, mediante resolución fijará las caracter�
 Respecto de tales programas, además de los requisitos básicos establecidos en este Título, las secretarías de educación verificarán el cumplimiento de dichas características para otorgar el registro.
 
 (Decreto 4904 de 2009, artículo 3.17).
-
-ARTÍCULO
 
 ## art:2.6.4.18 — Cierre de instituciones
 
@@ -25681,8 +22455,6 @@ TÍTULO 5
 
 SISTEMAS DE CALIDAD E INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.6.5.1 — Sistema de calidad
 
 El Sistema de Calidad de Formación para el Trabajo se rige por lo establecido en este Título, el Decreto 2020 de 2006, o en la norma que lo modifique, adicione, sustituya o compile.
@@ -25690,8 +22462,6 @@ El Sistema de Calidad de Formación para el Trabajo se rige por lo establecido e
 La certificación de calidad de la formación para el trabajo será otorgada a los programas registrados y a las instituciones oferentes de programas de formación para el trabajo, previo cumplimiento de los requisitos establecidos para el efecto.
 
 (Decreto 4904 de 2009, artículo 4 1).
-
-ARTÍCULO
 
 ## art:2.6.5.2 — Sistema de información
 
@@ -25704,8 +22474,6 @@ Tendrá como objetivos:
 2. Servir como herramienta para la determinación de políticas educativas a nivel nacional y territorial, planeación, monitoreo, evaluación, asesoría, inspección y vigilancia.
 
 (Decreto 4904 de 2009, artículo 4.2.).
-
-ARTÍCULO
 
 ## art:2.6.5.3 — Administración del sistema de información
 
@@ -25721,8 +22489,6 @@ TÍTULO 6
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.6.6.1 — Publicidad
 
 Las instituciones que ofrezcan el servicio de educación para el trabajo el desarrollo humano deben mencionar en la publicidad y material informativo sobre cada programa que ofrezcan, el número del acto administrativo del respectivo registro y la clase de certificado que van a otorgar.
@@ -25734,8 +22500,6 @@ Toda publicidad deberá indicar que la función de inspección y vigilancia de e
 La publicidad no podrá incorporar las denominaciones a las que se refiere el artículo 25 de la Ley 30 de 1992.
 
 (Decreto 4904 de 2009, artículo 5.1).
-
-ARTÍCULO
 
 ## art:2.6.6.2 — Costos educativos
 
@@ -25749,15 +22513,11 @@ Las instituciones que hayan incrementado o pretendan incrementar el valor de los
 
 (Decreto 4904 de 2009, artículo 5.2).
 
-ARTÍCULO
-
 ## art:2.6.6.3 — Beneficios e incentivos
 
 Las instituciones de educación para el trabajo y el desarrollo humano que cuenten con la certificación de calidad de la formación para el trabajo obtendrán los beneficios e incentivos consagrados en la Ley 1064 de 2006 y en el Decreto 2020 de 2006, o en la norma que lo modifique, adicione, sustituya o compile.
 
 (Decreto 4904 de 2009, artículo 5.3).
-
-ARTÍCULO
 
 ## art:2.6.6.4 — Programas ofrecidos por el SENA
 
@@ -25765,15 +22525,11 @@ Los programas de formación profesional integral que se enmarcan en la educació
 
 (Decreto 4904 de 2009, artículo 5.4)
 
-ARTÍCULO
-
 ## art:2.6.6.5 — Tarifas
 
 La asamblea departamental o el concejo distrital o municipal de las entidades territoriales certificadas en educación, podrán autorizar que se fijen y recauden las tarifas correspondientes por los trámites de licencia de funcionamiento y de la solicitud de registro de los programas de educación para el trabajo y el desarrollo humano.
 
 (Decreto 4904 de 2009, artículo 5.5).
-
-ARTÍCULO
 
 ## art:2.6.6.6 — Función de inspección y vigilancia
 
@@ -25783,15 +22539,11 @@ El incumplimiento de las disposiciones establecidas en este Título dará lugar 
 
 (Decreto 4904 de 2009, artículo 5.6).
 
-ARTÍCULO
-
 ## art:2.6.6.7 — Expedición de constancias
 
 Compete a la secretaría de educación de la entidad territorial certificada, la expedición de las constancias de existencia y representación legal de las instituciones de educación para el trabajo y el desarrollo humano de su jurisdicción; de la existencia de los programas registrados y su vigencia y las demás constancias relacionadas con certificados de aptitud ocupacional expedidos por dichas instituciones para ser acreditados en el exterior.
 
 (Decreto 4904 de 2009, artículo 5.7).
-
-ARTÍCULO
 
 ## art:2.6.6.8 — Educación informal
 
@@ -25805,23 +22557,17 @@ Toda promoción que se realice, respecto de esta modalidad deberá indicar clara
 
 (Decreto 4904 de 2009, artículo 5.8).
 
-ARTÍCULO
-
 ## art:2.6.6.9 — Referencia internacional
 
 Las instituciones prestadoras del servicio educativo que ofrezcan programas de educación para el trabajo y el desarrollo humano en el área de idiomas, deberán referenciar sus programas con los niveles definidos en el "Marco común europeo de referencia para las lenguas: aprendizaje, enseñanza, evaluación".
 
 (Decreto 4904 de 2009, artículo 5.9).
 
-ARTÍCULO
-
 ## art:2.6.6.10 — Niveles de dominio
 
 El Ministerio de Educación Nacional publicará periódicamente la lista de exámenes estandarizados que permiten certificar el nivel de dominio lingüístico.
 
 (Decreto 4904 de 2009, artículo 5.10).
-
-ARTÍCULO
 
 ## art:2.6.6.11 — Programas ofrecidos por organismos de cooperación internacional
 
@@ -25831,15 +22577,11 @@ Los programas que desarrollen los organismos de cooperación internacional con p
 
 (Decreto 4904 de 2009, artículo 5.11).
 
-ARTÍCULO
-
 ## art:2.6.6.12 — Subsidio familiar
 
 Con sujeción a los requisitos establecidos en la ley, el subsidio para las personas a cargo de los trabajadores beneficiarios a que se refiere la Ley 21 de 1992, se extiende a quienes cursen estudios en los programas registrados que ofrezcan las instituciones de educación para el trabajo y el desarrollo humano.
 
 (Decreto 4904 de 2009, artículo 5.12).
-
-ARTÍCULO
 
 ## art:2.6.6.13 — Otros requisitos para el pago del subsidio
 
@@ -25851,15 +22593,11 @@ Semestralmente y mientras el estudiante curse los estudios, deberá presentar un
 
 (Decreto 4904 de 2009, artículo 5.13).
 
-ARTÍCULO
-
 ## art:2.6.6.14 — Prohibición de exigir requisitos adicionales
 
 Las Secretarías de Educación de las entidades territoriales certificadas no podrán exigir requisitos adicionales a los establecidos en este Título.
 
 (Decreto 4904 de 2009, artículo 5.14).
-
-ARTÍCULO
 
 ## art:2.6.6.15 — Convalidación de certificados obtenidos en otros países
 
@@ -25879,8 +22617,6 @@ MARCO NACIONAL DE CUALIFICACIONES (MNC).
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.7.1.1 — Objeto
 
 Adoptar y reglamentar el Marco Nacional de Cualificaciones (MNC) para Colombia, su conceptualización, estructura, institucionalidad y gobernanza, con el fin de realizar la clasificación, el reconocimiento y la articulación de las Cualificaciones, de acuerdo con la realidad social, educativa, formativa, laboral y productiva del país, teniendo en cuenta las tres Vías de Cualificación.
@@ -25888,8 +22624,6 @@ Adoptar y reglamentar el Marco Nacional de Cualificaciones (MNC) para Colombia, 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
 DISPOSICIONES ESPECÍFICAS DEL MARCO NACIONAL DE CUALIFICACIONES (MNC)
-
-ARTÍCULO
 
 ## art:2.7.2.1 — Definiciones
 
@@ -25949,8 +22683,6 @@ Vía de Cualificación del Reconocimiento de Aprendizajes Previos. Es la Vía de
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.2.2 — Alcance del Marco Nacional de Cualificaciones (MNC)
 
 El Marco Nacional de Cualificaciones de Colombia es de carácter nacional, inclusivo, flexible, no abarcativo y permite clasificar y estructurar las Cualificaciones otorgadas en las Vías de Cualificación Educativa, del Subsistema de Formación para el Trabajo y el Reconocimiento de Aprendizajes Previos.
@@ -25958,8 +22690,6 @@ El Marco Nacional de Cualificaciones de Colombia es de carácter nacional, inclu
 PARÁGRAFO . El Ministerio de Educación Nacional y el Ministerio del Trabajo establecerán de manera conjunta y según sus competencias, los mecanismos para determinar la correspondencia y diferencias entre los Resultados de Aprendizaje de los niveles del Marco Nacional de Cualificaciones (MNC) y los de las Cualificaciones provenientes de las Vías de Cualificación, que cumplan con los criterios establecidos en el presente Decreto.
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.2.3 — Objetivos del Marco Nacional de Cualificaciones
 
@@ -25981,8 +22711,6 @@ El Marco Nacional de Cualificaciones (MNC) tendrá los siguientes objetivos:
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.2.4 — Estructura del Marco Nacional de Cualificaciones (MNC)
 
 El Marco Nacional de Cualificaciones está organizado en ocho (8) Niveles de Cualificación, determinados por un conjunto de descriptores, que especifican los Resultados de Aprendizaje para cada nivel en términos de Conocimientos, Destrezas y Actitudes, aplicables en el contexto de estudio, trabajo o en ambos. La Vía de Cualificación Educativa contempla Cualificaciones entre el nivel uno (1) y el nivel ocho (8), mientras que la Vía de Cualificación del Subsistema de Formación para el Trabajo contempla Cualificaciones entre el nivel uno (1) y el nivel siete (7) del Marco Nacional de Cualificaciones (MNC).
@@ -25990,8 +22718,6 @@ El Marco Nacional de Cualificaciones está organizado en ocho (8) Niveles de Cua
 PARÁGRAFO . El Ministerio de Educación Nacional y el Ministerio del Trabajo publicarán la matriz de descriptores del Marco Nacional de Cualificaciones (MNC).
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.2.5 — 2.5
 
@@ -26001,15 +22727,11 @@ Articulación del Marco Nacional de Cualificaciones (MNC) con los componentes de
 
 CATÁLOGO NACIONAL DE CUALIFICACIONES (CNC)
 
-ARTÍCULO
-
 ## art:2.7.3.1 — Catálogo Nacional de Cualificaciones (CNC)
 
 Agrupa los Catálogos Sectoriales de Cualificaciones y está organizado a partir de los ocho (8) Niveles de Cualificación y las Áreas de Cualificación.
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.3.2 — Objetivos del Catálogo Nacional de Cualificaciones (CNC)
 
@@ -26031,15 +22753,11 @@ Son objetivos del Catálogo Nacional de Cualificaciones (CNC):
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.3.3 — Catálogos Sectoriales de Cualificaciones
 
 Los Catálogos Sectoriales de Cualificaciones hacen parte del Catálogo Nacional de Cualificaciones. Las Estructuras de las Cualificaciones que los conforman son diseñadas bajo una Ruta Metodológica concertada y aprobada por el Comité Ejecutivo del Marco Nacional de Cualificaciones y sus objetivos están alineados con el Catálogo Nacional de Cualificaciones (CNC).
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.3.4 — Criterios de calidad y pertinencia de las cualificaciones
 
@@ -26057,15 +22775,11 @@ Para que una Estructura de Cualificación sea incluida en el Catálogo Nacional 
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.3.5 — Oferta educativa y de formación para el trabajo basada en Cualificaciones
 
 Los títulos y certificados que se expidan en las vías Educativa y la de Subsistema de Formación para el Trabajo serán reconocidos en los niveles del MNC, cuando sus diseños curriculares estén basados en las Estructuras de Cualificaciones que hacen parte de los Catálogos Sectoriales de Cualificaciones y cumplan con lo establecido en los sistemas de aseguramiento de la calidad que aplique.
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.3.6 — Aseguramiento de calidad en la oferta basada en Cualificaciones de la Educación para el Trabajo y Desarrollo Humano
 
@@ -26077,8 +22791,6 @@ PARÁGRAFO . El Ministerio de Educación Nacional y el Ministerio del Trabajo, d
 
 INSTITUCIONALIDAD Y GOBERNANZA TRANSITORIA DEL MARCO NACIONAL DE CUALIFICACIONES (MNC)
 
-ARTÍCULO
-
 ## art:2.7.4.1 — Transitoriedad de la Institucionalidad y Gobernanza del Marco Nacional de Cualificaciones (MNC)
 
 La institucionalidad y gobernanza del Marco Nacional de Cualificaciones (IVINC) descrita en este Título, funcionará hasta tanto, se defina la institucionalidad y gobernanza que operará y administrará de manera permanentemente el Marco Nacional de Cualificaciones (MNC).
@@ -26089,15 +22801,11 @@ PARÁGRAFO 2. En los doce (12) meses siguientes a la expedición de este Decreto
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.4.2 — Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC)
 
 Créese el Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC) como la instancia encargada de diseñar las políticas públicas y los lineamientos para la estructuración, operación y mantenimiento del Marco Nacional de Cualificaciones (MNC).
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.4.3 — Integrantes del Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC)
 
@@ -26129,8 +22837,6 @@ PARÁGRAFO 2. El Ministerio de Educación Nacional y el Ministerio del Trabajo e
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.4.4 — Sesiones y votación
 
 El Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC) se reunirá de manera ordinaria mínimo cuatro (4) veces al año y extraordinaria cuantas veces se requiera.
@@ -26138,8 +22844,6 @@ El Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC) se reunirá de 
 El Comité solo podrá sesionar cuando estén presentes los representantes de los tres ministerios y adoptarán las decisiones por mayoría simple.
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.4.5 — Funciones
 
@@ -26173,8 +22877,6 @@ El Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC), tendrá las si
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.4.6 — Secretaría Técnica del Comité Ejecutivo
 
 El Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC), tendrá una Secretaría Técnica que cumplirá las siguientes funciones:
@@ -26191,15 +22893,11 @@ El Comité Ejecutivo del Marco Nacional de Cualificaciones (MNC), tendrá una Se
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.4.7 — Comité Técnico de Cualificaciones
 
 Créese el Comité Técnico de Cualificaciones como la instancia técnica encargada de planear, asesorar y orientar las directrices, los mecanismos y acciones para la estructuración, operación y mantenimiento del Marco Nacional de Cualificaciones (MNC) y el poblamiento de los Catálogos Sectoriales de Cualificaciones.
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.4.8 — Integrantes del Comité Técnico de Cualificaciones
 
@@ -26230,8 +22928,6 @@ PARÁGRAFO 1. Los integrantes del Comité Técnico de Cualificaciones podrán in
 PARÁGRAFO 2. La entidad que ejercerá la Secretaria Técnica del Comité Técnico de Cualificaciones será definida dentro del reglamento que disponga el Comité para el cumplimiento de sus funciones.
 
 (Adicionado por el Art. 1 del Decreto 1649 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.4.9 — Funciones
 
@@ -26279,8 +22975,6 @@ PARTE
 
 Derogatoria y Vigencia
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este Decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el artículo 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al Sector Educación que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -26294,8 +22988,6 @@ Este Decreto regula íntegramente las materias contempladas en él. Por consigui
 4) En particular, se exceptúan de la derogatoria las siguientes normas reglamentarias decretos 1509 de 1998, 2880 de 2004, 2770 de 2006, 1875 de 1994 y los artículos 6.1 a 6.5 del Decreto 4904 de 2009.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente Decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente Decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -28170,10 +24862,6 @@ CIF
 ocupación laboral como docente
 
 Incapacidad general de ganancia
-
-ARTÍCULO
-
-## art:209 — 
 
 209 del Código sustantivo del Trabajo
 
@@ -35526,91 +32214,3 @@ B
 20
 
 31 a
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

@@ -7,7 +7,7 @@ ramas: [social, victimas, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77715
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — El Departamento Administrativo para la Prosperidad Social
@@ -20,8 +20,6 @@ TÍTULO 2
 
 Fondos especiales
 
-ARTÍCULO
-
 ## art:1.1.2.1 — Fondo de Inversión Para la Paz
 
 El Fondo de Inversión Para la Paz, creado en virtud de la Ley 487 de 1998, es el principal instrumento de financiación de programas y proyectos estructurados para la obtención de la Paz. Está adscrito al Departamento Administrativo de la Prosperidad Social.
@@ -31,8 +29,6 @@ El Fondo de Inversión Para la Paz, creado en virtud de la Ley 487 de 1998, es e
 TÍTULO 3
 
 Órganos de asesoría y coordinación
-
-ARTÍCULO
 
 ## art:1.1.3.1 — Órganos de asesoría y coordinación
 
@@ -68,8 +64,6 @@ TÍTULO 1
 
 Entidades Adscritas
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Entidades adscritas
 
 Se encuentran adscritas al Sector Administrativo de Inclusión Social y Reconciliación, las siguientes entidades.
@@ -98,15 +92,11 @@ TÍTULO 2
 
 Fondos especiales
 
-ARTÍCULO
-
 ## art:1.2.2.1 — Fondo para la Reparación de las Víctimas
 
 El Fondo para la Reparación de las Víctimas, creado en virtud del artículo 54 de la Ley 975 de 2005, es la principal fuente de financiación de las políticas de atención, asistencia, prevención y reparación integral a las víctimas de la violencia. Se encuentra adscrito y es administrado por la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas.
 
 (Ley 975 de 2005, artículo 54, adicionado por la Ley 1448 de 2011, artículo 177)
-
-ARTÍCULO
 
 ## art:1.2.2.2 — Fondo Contra la Explotación Sexual de Menores
 
@@ -126,13 +116,9 @@ TÍTULO 1
 
 Objeto y ámbito de aplicación
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este Decreto es compilar la normatividad vigente expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para la cumplida ejecución de las leyes del Sector de Inclusión Social y Reconciliación.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de aplicación
 
@@ -146,15 +132,11 @@ TÍTULO 1
 
 Objeto y principios generales
 
-ARTÍCULO
-
 ## art:2.2.1.1 — Objeto
 
 La presente Parte tiene por objeto establecer los mecanismos para la adecuada implementación de las medidas de asistencia, atención y reparación integral a las víctimas de que trata el artículo 3 de la Ley 1448 de 2011, para la materialización de sus derechos constitucionales.
 
 (Decreto 4800 de 2011, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2 — Enfoque humanitario
 
@@ -162,23 +144,17 @@ La atención a las víctimas en los términos del artículo 3 de la Ley 1448 de 
 
 (Decreto 4800 de 2011, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.3 — Enfoque de desarrollo humano y seguridad humana
 
 El Estado propenderá por generar contextos culturales, socioeconómicos seguros en los cuales las personas puedan potencializar sus capacidades, con lo cual se reducirá su vulnerabilidad frente a los riesgos derivados del conflicto armado.
 
 (Decreto 4800 de 2011, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.4 — Enfoque de derechos
 
 Las disposiciones contenidas en la presente Parte tienen como finalidad el restablecimiento de los derechos individuales y colectivos de las víctimas en los términos del artículo 3 de la Ley 1448 de 2011, vulnerados con ocasión del conflicto armado interno para el ejercicio pleno y permanente de los mismos.
 
 (Decreto 4800 de 2011, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.5 — Enfoque transformador
 
@@ -188,15 +164,11 @@ El enfoque transformador orienta las acciones y medidas contenidas en la present
 
 (Decreto 4800 de 2011, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.6 — Enfoque de daño o la afectación
 
 Las medidas de atención, asistencia, y reparación integral contenidas en la presente Parte se encuentran encaminadas a reducir y propenden por solventar los impactos ocasionados por las infracciones al Derecho Internacional Humanitario o las violaciones graves y manifiestas a los Derechos Humanos, ocurridas con ocasión del conflicto armado interno, en los términos del artículo 3 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.1.7 — Diálogo social y verdad
 
@@ -204,15 +176,11 @@ El Estado propenderá por generar espacios públicos de profundización de la de
 
 (Decreto 4800 de 2011, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.1.8 — Desarrollo de los principios de progresividad y gradualidad para una reparación efectiva y eficaz
 
 En desarrollo de los principios de progresividad y gradualidad contemplados en los artículos 17 y 18 de la Ley 1448 de 2011, respectivamente, así como con el objetivo de garantizar una reparación efectiva y eficaz de conformidad con el numeral 4 del artículo 161 de la Ley 1448 de 2011, el acceso a las medidas de reparación contempladas en la presente Parte deberá garantizarse con sujeción a los criterios establecidos en la Ley 1448 de 2011. Para el efecto, también podrán tenerse en cuenta, entre otros, la naturaleza del hecho victimizante, el daño causado, el nivel de vulnerabilidad basado en un enfoque etario del grupo familiar, características del núcleo familiar y la situación de discapacidad de alguno de los miembros del hogar, o la estrategia de intervención territorial integral.
 
 (Decreto 4800 de 2011, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.1.9 — Información compartida y armonizada
 
@@ -220,15 +188,11 @@ Las entidades del Estado deberán compartir la información necesaria para la pr
 
 (Decreto 4800 de 2011, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.1.10 — Corresponsabilidad
 
 En desarrollo de lo dispuesto en los artículos 26 y 161, numeral 12, y 172 de la Ley 1448 de 2011, todas las entidades estatales, tanto del nivel nacional como del territorial, tienen la responsabilidad de prevenir, asistir, atender y reparar integralmente a las víctimas en los términos de los artículos 3 y 9 de la Ley 1448 de 2011, conforme a sus competencias y responsabilidades. El principio de corresponsabilidad debe ejecutarse teniendo en cuenta el interés general de la Nación y la autonomía territorial.
 
 (Decreto 4800 de 2011, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.1.11 — Coordinación
 
@@ -236,15 +200,11 @@ Las entidades nacionales y territoriales deben trabajar armónicamente para real
 
 (Decreto 4800 de 2011, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.12 — Concurrencia
 
 Las entidades nacionales y territoriales deben actuar oportuna y conjuntamente, en busca de un objetivo común. Las entidades involucradas ejercerán acciones de manera conjunta, respetando siempre el ámbito de competencias propio y el ámbito de competencias de las demás.
 
 (Decreto 4800 de 2011, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.1.13 — Complementariedad
 
@@ -252,15 +212,11 @@ Para perfeccionar la prestación de los servicios a su cargo y el desarrollo de 
 
 (Decreto 4800 de 2011, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.1.14 — Subsidiariedad
 
 En su orden, la Nación y los departamentos, apoyarán a los municipios que presenten menor capacidad institucional, técnica y/o financiera para ejercer eficiente y eficazmente las competencias y responsabilidades que se deriven de la Ley 1448 de 2011. El ejercicio de este principio estará sujeto al seguimiento y a la evaluación de las entidades nacionales rectoras de la materia dentro del marco de la autonomía de las entidades territoriales.
 
 (Decreto 4800 de 2011, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.1.15 — Búsqueda de la reconciliación nacional
 
@@ -276,8 +232,6 @@ CAPÍTULO 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.2.1.1 — Definición de registro
 
 El Registro Único de Víctimas es una herramienta administrativa que soporta el procedimiento de registro de las víctimas.
@@ -288,23 +242,17 @@ El Registro Único de Víctimas incluirá a las víctimas individuales a las que
 
 (Decreto 4800 de 2011, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2 — Entidad responsable del manejo del Registro Único de Víctimas
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas será la encargada de la administración, operación y funcionamiento del Registro Único de Víctimas.
 
 (Decreto 4800 de 2011, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3 — De los miembros de la Fuerza Pública víctimas
 
 Los miembros de la Fuerza Pública que hayan sido víctimas en los términos del artículo 3 de la Ley 1448 de 2011 podrán solicitar ante el Ministerio Público su inscripción en el Registro Único de Víctimas según lo estipulado en la presente Parte.
 
 (Decreto 4800 de 2011, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4 — Principios que orientan las normas sobre Registro Único de Víctimas
 
@@ -330,15 +278,11 @@ PARÁGRAFO . La Unidad Administrativa Especial para la Atención y Reparación I
 
 (Decreto 4800 de 2011, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5 — Publicidad del proceso
 
 La víctima tendrá derecho a conocer las actuaciones administrativas que se realicen a lo largo del procedimiento administrativo de registro. Además, las víctimas tienen derecho a obtener respuesta oportuna y eficaz en los plazos establecidos para el efecto, a aportar documentos u otros elementos de prueba, y a que dichos documentos sean valorados y tenidos en cuenta por las autoridades al momento de decidir.
 
 (Decreto 4800 de 2011, artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6 — Divulgación del procedimiento de registro
 
@@ -348,8 +292,6 @@ PARÁGRAFO . En desarrollo de lo previsto en el parágrafo primero del artículo
 
 (Decreto 4800 de 2011, artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.2.1.7 — Territorialidad
 
 De conformidad con lo establecido en el artículo 3 de la Ley 1448 de 2011, para efectos de acceder al Registro Único de Víctimas y a las medidas de reparación, los actos que constituyen hechos victimizantes deberán haber ocurrido dentro de los límites del territorio nacional.
@@ -357,8 +299,6 @@ De conformidad con lo establecido en el artículo 3 de la Ley 1448 de 2011, para
 PARÁGRAFO . Los hechos victimizantes que se ejecuten dentro de los límites del territorio nacional, pero cuyos efectos ocasionen un daño en otro Estado, deberán ser cobijados por las medidas contempladas en la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.2.1.8 — Disposiciones complementarias
 
@@ -369,8 +309,6 @@ En lo no dispuesto en este Título para el procedimiento administrativo de regis
 CAPÍTULO 2
 
 De la operatividad del Registro Único de Víctimas
-
-ARTÍCULO
 
 ## art:2.2.2.2.1 — Fuentes de información del Registro Único de Victimas
 
@@ -406,15 +344,11 @@ En caso que estos soportes digitales no existan, las entidades a que se refiere 
 
 (Decreto 4800 de 2011, artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — Migración de la información al Registro Único de Victimas
 
 El proceso de migración de la información hacia el Registro Único de Víctimas estará a cargo de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Victimas, quien establecerá un protocolo indicando la línea de base con la que empezará a operar dicho registro, así como los criterios de inclusión en el mismo, conforme a los lineamientos que fije el Comité Ejecutivo.
 
 (Decreto 4800 de 2011, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Interoperabilidad del Registro Único de Víctimas
 
@@ -426,8 +360,6 @@ CAPÍTULO 3
 
 Del Procedimiento de Registro
 
-ARTÍCULO
-
 ## art:2.2.2.3.1 — Solicitud de registro
 
 Quien se considere víctima en los términos del artículo 3 de la Ley 1448 de 2011, deberá presentar ante el Ministerio Público la solicitud de registro en los términos establecidos en el artículo 155 de la Ley 1448 de 2011. La solicitud de registro permitirá la identificación de la víctima y la obtención de los demás datos de información básica, que comprenderán como mínimo los contenidos en el artículo 2.2.2.3.7 del presente Decreto. Adicionalmente, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas definirá la información necesaria que deberá contener la declaración según el hecho victimizante de que se trate.
@@ -435,8 +367,6 @@ Quien se considere víctima en los términos del artículo 3 de la Ley 1448 de 2
 PARÁGRAFO . Las víctimas colombianas domiciliadas en el exterior, podrán presentar la solicitud ante la embajada o consulado del país donde se encuentren. En los países en que no exista representación del Estado colombiano, podrán acudir al país más cercano que cuente con misión diplomática colombiana. En este caso, la representación diplomática de que se trate deberá remitir la solicitud a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, en un término no mayor a ocho (8) días, contados a partir de la recepción de la solicitud.
 
 (Decreto 4800 de 2011, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.2.3.2 — Oportunidad del registro
 
@@ -452,23 +382,17 @@ PARÁGRAFO 2. En todo caso la Unidad Administrativa Especial de Atención y Repa
 
 (Decreto 4800 de 2011, artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.2.3.3 — Formato Único de Declaración
 
 La Unidad Administrativa Especial de Atención y Reparación a las Víctimas definirá los medios, instrumentos y mecanismos mediante los cuales se tomará la declaración, en el cual se consignarán los datos básicos que permitan la obtención, desde un enfoque diferencial, de la información necesaria para una correcta valoración y faciliten la determinación de las medidas de asistencia, atención y reparación que se adecuen al daño sufrido y las necesidades de cada víctima.
 
 (Decreto 4800 de 2011, artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.2.3.4 — Medios tecnológicos para la toma de la solicitud de registro
 
 Las entidades encargadas de tomar la declaración, acogerán de forma progresiva, las actualizaciones tecnológicas que permitan recibir la declaración de acuerdo con los principios que orientan la actuación de la administración pública, según los lineamientos dados por la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas.
 
 (Decreto 4800 de 2011, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.2.3.5 — Obligaciones de las entidades y de los servidores públicos encargados de recibir las solicitudes de registro
 
@@ -508,8 +432,6 @@ PARÁGRAFO 3. Los servidores públicos que reciben la declaración y diligencian
 
 (Decreto 4800 de 2011, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.2.3.6 — Gratuidad en el procedimiento de registro
 
 El procedimiento de Registro será gratuito y de fácil acceso para las víctimas en todo el territorio nacional.
@@ -519,8 +441,6 @@ No se requiere de apoderado para la presentación de la solicitud de registro de
 En caso de acudir mediante apoderado, este deberá demostrar ante el funcionario del Ministerio Público, al momento de presentar la solicitud de incorporación en el registro, que la víctima tiene conocimiento sobre la gratuidad y sencillez del proceso y del contenido de los artículos 198 y 199 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.2.3.7 — Contenido mínimo de la solicitud de registro
 
@@ -546,8 +466,6 @@ PARÁGRAFO . Cuando el solicitante carezca de identificación es obligación del
 
 (Decreto 4800 de 2011, artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8 — Devolución de la solicitud de registro
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas revisará los requisitos mínimos de la solicitud de registro señalados en el presente Título. En caso de evidenciar la ausencia o defectuoso diligenciamiento de alguno de estos requisitos, el documento no será tramitado y será devuelto a la oficina de Ministerio Público o a la embajada o consulado que lo hubiera diligenciado a través del Ministerio de Relaciones Exteriores, según corresponda.
@@ -558,8 +476,6 @@ PARÁGRAFO . El plazo para otorgar o denegar la inscripción en el registro a qu
 
 (Decreto 4800 de 2011, artículo 34)
 
-ARTÍCULO
-
 ## art:2.2.2.3.9 — De la valoración
 
 La valoración es el proceso de verificación con fundamento en la cual la Unidad Administrativa Especial para la Atención y Reparación Integral a las Victimas adopta una decisión en el sentido de otorgar o denegar la inclusión en el Registro Único de Víctimas.
@@ -568,8 +484,6 @@ En todo caso, la Unidad Administrativa Especial para la Atención y Reparación 
 
 (Decreto 4800 de 2011, artículo 35)
 
-ARTÍCULO
-
 ## art:2.2.2.3.10 — Criterios de valoración
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas definirá los criterios que guiarán el proceso de valoración de las solicitudes de registro en los términos del artículo 3 de la Ley 1448 de 2011 y los someterá a aprobación del Comité Ejecutivo para la Atención y Reparación a las Victimas.
@@ -577,8 +491,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 Estos criterios serán publicados y divulgados ampliamente para conocimiento de las víctimas.
 
 (Decreto 4800 de 2011, artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.2.3.11 — Del proceso de la valoración de la declaración
 
@@ -600,15 +512,11 @@ PARÁGRAFO 3. En todo caso, las pruebas requeridas a las víctimas serán sumari
 
 (Decreto 4800 de 2011, artículo 37)
 
-ARTÍCULO
-
 ## art:2.2.2.3.12 — Traslado de pruebas
 
 En los casos en que el declarante señale la existencia de un proceso judicial o administrativo por un hecho victimizante, o la Unidad Administrativa Especial para las Atención y Reparación Integral a las Victimas tenga conocimiento de dicho proceso, esta última podrá solicitar a la entidad pertinente copia impresa o digital del expediente correspondiente. En este caso no se requerirá copia auténtica. Esta información estará sujeta a los principios de confidencialidad y se utilizará exclusivamente para el proceso de valoración. Estas solicitudes serán resueltas en un término no mayor de 10 días hábiles.
 
 (Decreto 4800 de 2011, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.2.3.13 — Estados en el Registro Único de Víctimas
 
@@ -624,8 +532,6 @@ En desarrollo de lo dispuesto en el artículo 156 de la Ley 1448 de 2011, son es
 
 (Decreto 4800 de 2011, artículo 39)
 
-ARTÍCULO
-
 ## art:2.2.2.3.14 — Causales para denegar la inscripción en el registro
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Victimas denegará la inscripción en el Registro Único de Víctimas únicamente por las siguientes causales:
@@ -638,8 +544,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 
 (Decreto 4800 de 2011, artículo 40)
 
-ARTÍCULO
-
 ## art:2.2.2.3.15 — Contenido del acto administrativo de inclusión en el registro
 
 El acto administrativo de inclusión deberá contener:
@@ -651,8 +555,6 @@ El acto administrativo de inclusión deberá contener:
 3. Una mención detallada y suficiente de las rutas para acceder a las medidas de asistencia y reparación contempladas en la presente Parte.
 
 (Decreto 4800 de 2011, artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.2.3.16 — Contenido del acto administrativo de no inclusión en el registro
 
@@ -668,15 +570,11 @@ CAPÍTULO 4
 
 Revocatoria de la Inscripción en el Registro Único de Víctimas
 
-ARTÍCULO
-
 ## art:2.2.2.4.1 — Revocatoria de la inscripción en el Registro Único de Victimas
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas podrá iniciar en cualquier tiempo un proceso administrativo para la revocatoria de la decisión adoptada frente a la solicitud de inscripción en el Registro Único de Víctimas, con el fin de revocar total o parcialmente la decisión de registro de conformidad con los artículos 157 y 198 de la Ley 1448 de 2011. Este procedimiento se aplicará de forma individualizada a cada hecho victimizante.
 
 (Decreto 4800 de 2011, artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2 — Revocatoria del acto administrativo de registro
 
@@ -690,8 +588,6 @@ CAPÍTULO 5
 
 Censo en caso de hechos victimizantes masivos
 
-ARTÍCULO
-
 ## art:2.2.2.5.1 — Desplazamientos masivos
 
 Se entiende por desplazamiento masivo, el desplazamiento forzado conjunto de diez (10) o más hogares, o de cincuenta (50) o más personas.
@@ -699,8 +595,6 @@ Se entiende por desplazamiento masivo, el desplazamiento forzado conjunto de die
 Se entiende por hogar, el grupo de personas, parientes o no, que viven bajo un mismo techo, comparten los alimentos y han sido afectadas por el desplazamiento forzado.
 
 (Decreto 4800 de 2011, artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2 — Del acta y el censo de víctimas
 
@@ -718,8 +612,6 @@ PARÁGRAFO 2. El acta deberá señalar expresamente si en el censo está listada
 
 (Decreto 4800 de 2011, artículo 46)
 
-ARTÍCULO
-
 ## art:2.2.2.5.3 — De la valoración de hechos victimizantes masivos
 
 Para la valoración de los hechos victimizantes masivos, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas tendrá en cuenta el censo, el acta y demás documentos remitidos por las Alcaldías, sin perjuicio de otros elementos probatorios que se estimen pertinentes.
@@ -729,8 +621,6 @@ Los términos para efectuar la valoración a que se refiere el artículo 156 de 
 PARÁGRAFO . La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas podrá, cuando lo estime necesario, solicitar al Comité Territorial de Justicia Transicional correspondiente información relevante para el proceso de verificación.
 
 (Decreto 4800 de 2011, artículo 47)
-
-ARTÍCULO
 
 ## art:2.2.2.5.4 — De las solicitudes de registro de las víctimas de hechos victimizantes masivos
 
@@ -746,15 +636,11 @@ CAPÍTULO 6
 
 Actualización de la información
 
-ARTÍCULO
-
 ## art:2.2.2.6.1 — Definición de actualización
 
 Se entenderá por actualización en el registro la inclusión de novedades en la información respecto de los datos personales de las víctimas a que hace referencia el artículo 3 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 49)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2 — Actualización de la información
 
@@ -766,23 +652,17 @@ PARÁGRAFO 2. Cada vez que la víctima sea atendida en alguna de las entidades q
 
 (Decreto 4800 de 2011, artículo 50)
 
-ARTÍCULO
-
 ## art:2.2.2.6.3 — Alcance de la actualización
 
 Las novedades en el Registro se efectuarán sobre aquellos datos que afecten la información personal y aquellos requeridos con relación a los grados de parentesco contemplados en el inciso 2 y en el parágrafo 2 del artículo 3 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 51)
 
-ARTÍCULO
-
 ## art:2.2.2.6.4 — Solicitud de actualización por parte de la víctima
 
 Las solicitudes de actualización en el Registro Único de Victimas podrán realizarse en cualquier momento a partir de la inscripción en el registro por parte de la víctima de que trata el registro.
 
 (Decreto 4800 de 2011, artículo 52)
-
-ARTÍCULO
 
 ## art:2.2.2.6.5 — Trámite de la solicitud de actualización
 
@@ -796,15 +676,11 @@ PARÁGRAFO 2. En los casos en que la solicitud haga referencia a modificaciones 
 
 (Decreto 4800 de 2011, artículo 53)
 
-ARTÍCULO
-
 ## art:2.2.2.6.6 — Plazo para resolver la solicitud de actualización
 
 La solicitud de actualización deberá ser resuelta dentro de los quince (15) días hábiles siguientes contados a partir de la radicación de la solicitud en la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas.
 
 (Decreto 4800 de 2011, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.2.6.7 — Improcedencia de la solicitud de actualización
 
@@ -832,8 +708,6 @@ TÍTULO 3
 
 Red Nacional de Información para la Atención y Reparación a las Víctimas
 
-ARTÍCULO
-
 ## art:2.2.3.1 — Definición de la Red Nacional de Información
 
 La Red Nacional de Información para la Atención y Reparación a las Víctimas es el instrumento que establece mecanismos, lineamientos, políticas, procesos y procedimientos que permiten la interoperabilidad, trazabilidad y el flujo eficiente de la información entre las entidades que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas en el orden nacional y territorial, los organismos de cooperación internacional, la sociedad civil, las organizaciones de víctimas, y otras entidades estatales.
@@ -841,8 +715,6 @@ La Red Nacional de Información para la Atención y Reparación a las Víctimas 
 La Unidad Administrativa Especial para la Atención y Reparación de las Víctimas tendrá a su cargo la administración de la Red Nacional de Información.
 
 (Decreto 4800 de 2011, artículo 56)
-
-ARTÍCULO
 
 ## art:2.2.3.2 — Finalidades
 
@@ -862,15 +734,11 @@ Red.
 
 (Decreto 4800 de 2011, artículo 57)
 
-ARTÍCULO
-
 ## art:2.2.3.3 — Seguridad y confidencialidad
 
 La Red Nacional de Información establecerá, según las normas vigentes, los protocolos que garanticen la protección de la infraestructura tecnológica y de la información, asegurando que el acceso a la información se efectuará de acuerdo con las competencias y responsabilidades de las entidades vinculadas.
 
 (Decreto 4800 de 2011, artículo 58)
-
-ARTÍCULO
 
 ## art:2.2.3.4 — Plan Operativo de Sistemas de Información para la Atención, Asistencia y Reparación Integral a las Víctimas
 
@@ -879,8 +747,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 El Plan Operativo de Sistemas de Información debe ser evaluado, y de ser necesario, ajustado por lo menos cada dos (2) años.
 
 (Decreto 4800 de 2011, artículo 59)
-
-ARTÍCULO
 
 ## art:2.2.3.5 — Elementos del Plan Operativo de Sistemas de Información
 
@@ -908,8 +774,6 @@ PARÁGRAFO 2. El Plan Operativo de Sistemas de Información para la atención, a
 
 (Decreto 4800 de 2011, artículo 60)
 
-ARTÍCULO
-
 ## art:2.2.3.6 — Intercambio de información
 
 Las entidades que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas deberán garantizar, a partir del 20 de diciembre de 2011, el intercambio de información con la Red Nacional de Información, sin perjuicio de la implementación de su sistema de información o del cumplimiento del Plan Operativo de Sistemas de Información. Este intercambio de información respetará la autonomía del nivel central y territorial, y fortalecerá y articulará el flujo de información para el cumplimiento de las finalidades de la Red Nacional de Información.
@@ -918,15 +782,11 @@ PARÁGRAFO . La Red Nacional de Información diseñará e implementará estrateg
 
 (Decreto 4800 de 2011, artículo 61)
 
-ARTÍCULO
-
 ## art:2.2.3.7 — Incorporación de variables para el enfoque diferencial
 
 Las entidades que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas deberán implementar en sus Sistemas de Información variables o módulos en los que incorporen el enfoque diferencial, de tal forma que permitan identificar las características particulares de la población víctima, de acuerdo con los principios generales de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 62)
-
-ARTÍCULO
 
 ## art:2.2.3.8 — Veracidad y acceso
 
@@ -934,15 +794,11 @@ Las entidades vinculadas a la Red Nacional de Información son las responsables 
 
 (Decreto 4800 de 2011, artículo 63)
 
-ARTÍCULO
-
 ## art:2.2.3.9 — 3.9
 
 Participación en la Red Nacional de Información de las organizaciones de la sociedad civil y organismos de cooperación internacional. Las organizaciones de la sociedad civil y los organismos de cooperación internacional participaran en la Red Nacional de Información según las condiciones particulares que se establezcan entre estas y la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas bajo los principios establecidos en la presente Parte.
 
 (Decreto 4800 de 2011, artículo 64)
-
-ARTÍCULO
 
 ## art:2.2.3.10 — De la Registraduría Nacional del Estado Civil
 
@@ -954,8 +810,6 @@ TÍTULO 4
 
 Medidas de estabilización socioeconómica: empleo urbano y rural
 
-ARTÍCULO
-
 ## art:2.2.4.1 — Entidad responsable
 
 El Ministerio de Trabajo, será el responsable del diseño, coordinación y seguimiento de los programas y proyectos especiales para la generación de empleo rural y urbano, como lo señala la Ley 1448 de 2011.
@@ -963,8 +817,6 @@ El Ministerio de Trabajo, será el responsable del diseño, coordinación y segu
 El Ministerio de Trabajo, será el responsable de definir los lineamientos de política en conjunto con las demás entidades del nivel nacional, como: Departamento Nacional de Planeación, Departamento Administrativo para la Prosperidad Social, Ministerio de Comercio, Industria y Turismo, Ministerio de Educación Nacional, Ministerio de Agricultura y Desarrollo Rural, Instituto Colombiano de Desarrollo Rural, Banco Agrario, Bancoldex, Fondo para la Financiación del Sector Agropecuario y las demás entidades competentes en la materia.
 
 (Decreto 4800 de 2011, artículo 66)
-
-ARTÍCULO
 
 ## art:2.2.4.2 — Del programa de generación de empleo rural y urbano
 
@@ -990,8 +842,6 @@ PARÁGRAFO . En desarrollo de los principios de coordinación, concurrencia y su
 
 (Decreto 4800 de 2011, artículo 67)
 
-ARTÍCULO
-
 ## art:2.2.4.3 — Creación e implementación de programas de capacitación para el acceso a empleo rural o urbano por parte de las víctimas
 
 El Ministerio de Trabajo y el Servicio Nacional de Aprendizaje, crearán e implementarán respectivamente programas de capacitación para el empleo y emprendimiento, que preparen a las víctimas para los retos que exige la competitividad en el mercado laboral.
@@ -1002,8 +852,6 @@ De acuerdo con los criterios establecidos en el Programa de Generación de Emple
 
 (Decreto 4800 de 2011, artículo 68)
 
-ARTÍCULO
-
 ## art:2.2.4.4 — Sistema de Información
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, a través de la Red Nacional de Información para la atención y reparación a las víctimas, tendrá acceso al Sistema de Formación de Recurso Humano para Colombia, que será el instrumento que valide y certifique las competencias laborales reconociendo los conocimientos y experiencias obtenidos formal e informalmente por las víctimas mejorando sus habilidades y ampliando las posibilidades de acceso a empleo urbano y rural.
@@ -1011,8 +859,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 PARÁGRAFO . Este Sistema remitirá la información al Sistema Nacional de Información de Demanda Laboral-Sinidel.
 
 (Decreto 4800 de 2011, artículo 69)
-
-ARTÍCULO
 
 ## art:2.2.4.5 — Vinculación del sector privado
 
@@ -1024,8 +870,6 @@ TÍTULO 5
 
 Gastos judiciales
 
-ARTÍCULO
-
 ## art:2.2.5.1 — Garantía de acceso a la justicia
 
 Para efectos de lo dispuesto en el artículo 44 de la Ley 1448 de 2011, la demostración de la ausencia de medios económicos para cubrir gastos judiciales, se realizará a través de la simple manifestación de la víctima acompañada de cualquier medio sumario que acredite tal condición.
@@ -1036,8 +880,6 @@ PARÁGRAFO . Las víctimas que hayan demostrado la ausencia de medios económico
 
 (Decreto 4800 de 2011, artículo 84)
 
-ARTÍCULO
-
 ## art:2.2.5.2 — Asesoría jurídica
 
 La Defensoría del Pueblo podrá suscribir convenios con las Facultades de Derecho de las universidades reconocidas legalmente en todo el territorio nacional, para que se asesore y se oriente a las víctimas en los procesos judiciales.
@@ -1045,8 +887,6 @@ La Defensoría del Pueblo podrá suscribir convenios con las Facultades de Derec
 La Defensoría del Pueblo debe prestar los servicios necesarios para la representación judicial de las víctimas que no cuentan con recursos para acceder de manera efectiva a la justicia.
 
 (Decreto 4800 de 2011, artículo 85)
-
-ARTÍCULO
 
 ## art:2.2.5.3 — Mandatos anteriores a la vigencia de la Ley 1448 de 2011
 
@@ -1064,8 +904,6 @@ CAPÍTULO 1
 
 Asistencia en Salud
 
-ARTÍCULO
-
 ## art:2.2.6.1.1 — Afiliación de víctimas al Sistema General de Seguridad Social en Salud
 
 El Ministerio de Salud y Protección Social, cruzará el Registro Único de Víctimas a que hace referencia el artículo 154 de la Ley 1448 de 2011, que certifique la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas, con la Base de Datos Única de Afiliados - BDUA, o la que haga sus veces, y con las bases de datos de los regímenes especiales. La población que se identifique como no afiliada, será reportada a la entidad territorial de manera inmediata para que se proceda a su afiliación a la Entidad Promotora de Salud del Régimen Subsidiado, preservando la libre escogencia por parte de la víctima, de acuerdo con la presencia regional de estas, según la normatividad vigente, en desarrollo del artículo 52 de la Ley 1448 de 2011, siempre y cuando cumpla con las condiciones para ser beneficiario de dicho Régimen. Esto último se garantizará mediante la aplicación de la encuesta SISBÉN por parte de la entidad territorial.
@@ -1078,8 +916,6 @@ PARÁGRAFO 2. La interoperabilidad de los sistemas de información que soportan 
 
 (Decreto 4800 de 2011, artículo 87)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2 — Protocolo de atención integral en salud con enfoque psicosocial
 
 El Gobierno Nacional a través del Ministerio de Salud y Protección Social diseñará y/o ajustará, con la participación de los demás actores del Sistema General de Seguridad Social en Salud, el protocolo de atención integral en salud con enfoque psicosocial y diferencial teniendo en cuenta las necesidades específicas de la víctima, el hecho victimizante, y las consecuencias de este sobre la población víctima de que trata el artículo 3 de la Ley 1448 de 2011. Se tendrá en cuenta la actualización de los planes de beneficios según lo dispuesto por la Ley 1438 de 2011.
@@ -1087,8 +923,6 @@ El Gobierno Nacional a través del Ministerio de Salud y Protección Social dise
 PARÁGRAFO . El protocolo de atención integral en Salud con Enfoque Psicosocial a que hace referencia este artículo, deberá contemplar los mecanismos de articulación y coordinación entre las redes de servicios de salud y otras redes definidas por la Unidad Administrativa Especial de Víctimas que presten asistencia a la población de la que trata la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 88)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3 — Cubrimiento de servicio de la atención en salud
 
@@ -1100,8 +934,6 @@ El Ministerio de Salud y Protección Social adoptará las medidas que considere 
 
 (Decreto 4800 de 2011, artículo 89)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4 — Monitoreo y seguimiento de la atención en salud
 
 El Ministerio de Salud y Protección Social debe desarrollar herramientas de seguimiento y monitoreo a la atención en salud brindada a la población víctima en los términos del artículo 3 de la Ley 1448 de 2011, de acuerdo con lo establecido en el protocolo de atención integral en salud con enfoque psicosocial.
@@ -1111,8 +943,6 @@ El Ministerio de Salud y Protección Social debe desarrollar herramientas de seg
 CAPÍTULO 2
 
 Asistencia en Educación
-
-ARTÍCULO
 
 ## art:2.2.6.2.1 — Objetivo de las medidas en materia de educación
 
@@ -1124,15 +954,11 @@ PARÁGRAFO 2. En el marco del Programa Nacional de alfabetización se priorizar�
 
 (Decreto 4800 de 2011, artículo 91)
 
-ARTÍCULO
-
 ## art:2.2.6.2.2 — Lineamientos de política
 
 El Ministerio de Educación Nacional en un periodo de tres (3) meses contados a partir del 20 de diciembre de 2011 ajustará los lineamientos de la política de atención educativa a las víctimas incluidas en el Registro Único de Víctimas.
 
 (Decreto 4800 de 2011, artículo 92)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3 — Coordinación Nación-Territorio
 
@@ -1146,15 +972,11 @@ Así mismo, deben establecer estrategias conjuntas para la formación de docente
 
 (Decreto 4800 de 2011, artículo 93)
 
-ARTÍCULO
-
 ## art:2.2.6.2.4 — Primera infancia
 
 El Gobierno Nacional, en coordinación con las entidades territoriales certificadas, establecerá procesos y procedimientos que garanticen a la primera infancia de la población víctima en los términos de Ley 1448 de 2011 la atención integral, acceso y permanencia a espacios educativos significativos, que potencien sus capacidades y aporten a su desarrollo.
 
 (Decreto 4800 de 2011, artículo 94)
-
-ARTÍCULO
 
 ## art:2.2.6.2.5 — Educación superior
 
@@ -1168,8 +990,6 @@ PARÁGRAFO 2. La Unidad Administrativa Especial para la Atención y Reparación 
 
 (Decreto 4800 de 2011, artículo 95)
 
-ARTÍCULO
-
 ## art:2.2.6.2.6 — Orientación ocupacional y formación
 
 El Servicio Nacional de Aprendizaje establecerá, en un tiempo no mayor a tres (3) meses, contados a partir del 20 de diciembre de 2011, las rutas de atención y orientación con enfoque diferencial para la identificación de los intereses, capacidades, habilidades y aptitudes de la población víctima que faciliten su proceso de formación y capacitación, articulado a los programas de empleo urbano y rural.
@@ -1182,8 +1002,6 @@ CAPÍTULO 3
 
 Asistencia funeraria
 
-ARTÍCULO
-
 ## art:2.2.6.3.1 — Familiares de las víctimas
 
 Recibirán asistencia funeraria los familiares de las víctimas que hayan muerto o estuvieren desaparecidos a que se refiere el inciso 2 del artículo 3 de la Ley 1448 de 2011 para quienes no cuenten con los recursos para sufragar estos gastos, de acuerdo con los criterios que para el efecto fije la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas.
@@ -1194,8 +1012,6 @@ PARÁGRAFO . En lo no previsto en la presente Parte en materia de asistencia fun
 
 (Decreto 4800 de 2011, artículo 97)
 
-ARTÍCULO
-
 ## art:2.2.6.3.2 — Unificación de asistencia
 
 En los términos del artículo 50 de la Ley 1448 de 2011, en los casos en que el Fondo de Solidaridad y Garantía, Fosyga, haya pagado las indemnizaciones por muerte por gastos funerarios previstas en el Decreto 056 de 2015, o la norma que lo modifique, adicione, sustituya o compile, los familiares de la misma víctima no tendrán derecho a asistencia funeraria establecida en el presente Capítulo.
@@ -1203,8 +1019,6 @@ En los términos del artículo 50 de la Ley 1448 de 2011, en los casos en que el
 El Fondo de Solidaridad y Garantía, Fosyga, deberá intercambiar y garantizar la interoperabilidad de la información con la Red Nacional de Información para la Atención Reparación a las Víctimas.
 
 (Decreto 4800 de 2011, artículo 98)
-
-ARTÍCULO
 
 ## art:2.2.6.3.3 — Inhumación
 
@@ -1216,8 +1030,6 @@ PARÁGRAFO 2. En el caso de restos humanos o cadáveres no identificados o ident
 
 (Decreto 4800 de 2011, artículo 99)
 
-ARTÍCULO
-
 ## art:2.2.6.3.4 — Asistencia para procesos de entrega de cuerpos o restos
 
 Los costos a que se refiere el parágrafo del artículo 50 de la Ley 1448 de 2011 incluirán, además de los gastos funerarios, los de desplazamiento, hospedaje y alimentación de los familiares de las víctimas de desaparición forzada durante el proceso de entrega de cuerpos o restos, para quienes no cuenten con recursos para sufragar estos gastos de acuerdo con los criterios que para el efecto fije la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas. Esta disposición se aplicará para los familiares, cónyuge, compañero o compañera permanente o pareja del mismo sexo, y familiar en primer grado de consanguinidad o civil a que se refiere el artículo 3 de la Ley 1448 de 2011.
@@ -1225,8 +1037,6 @@ Los costos a que se refiere el parágrafo del artículo 50 de la Ley 1448 de 201
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas deberá generar un mecanismo expedito para solicitar a los municipios o distritos correspondientes, el cumplimiento de su obligación de entregar la asistencia funeraria.
 
 (Decreto 4800 de 2011, artículo 100)
-
-ARTÍCULO
 
 ## art:2.2.6.3.5 — Responsabilidad de las entidades territoriales
 
@@ -1244,8 +1054,6 @@ CAPÍTULO 4
 
 Ayuda humanitaria a víctimas de hechos diferentes al desplazamiento forzado
 
-ARTÍCULO
-
 ## art:2.2.6.4.1 — Ayuda humanitaria inmediata
 
 Las entidades territoriales deben garantizar ayuda humanitaria inmediata a las víctimas de hechos diferentes al desplazamiento forzado ocurridos durante los últimos tres (3) meses, cuando estas se encuentren en situación de vulnerabilidad acentuada como consecuencia del hecho.
@@ -1258,8 +1066,6 @@ PARÁGRAFO . Las entidades territoriales deben destinar los recursos necesarios 
 
 (Decreto 4800 de 2011, artículo 102)
 
-ARTÍCULO
-
 ## art:2.2.6.4.2 — Ayuda humanitaria para hechos victimizantes diferentes al desplazamiento forzado
 
 La Unidad Administrativa Especial de Atención y Reparación Integral a Víctimas suministra, por una sola vez, la ayuda humanitaria a que se refiere el artículo 49 de la Ley 418 de 1997, y sus prórrogas correspondientes, de acuerdo con la afectación derivada del hecho victimizante y de las circunstancias de tiempo, modo y lugar del mismo.
@@ -1267,8 +1073,6 @@ La Unidad Administrativa Especial de Atención y Reparación Integral a Víctima
 PARÁGRAFO . En los casos en que la victimización obedezca a múltiples hechos, la ayuda humanitaria estará dirigida a mitigar la afectación derivada de estos hechos de manera integral.
 
 (Decreto 4800 de 2011, artículo 103)
-
-ARTÍCULO
 
 ## art:2.2.6.4.3 — Tasación de los componentes de la ayuda humanitaria para hechos victimizantes diferentes al desplazamiento forzado
 
@@ -1285,8 +1089,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a Ví
 5. Análisis del enfoque diferencial.
 
 (Decreto 4800 de 2011, artículo 104)
-
-ARTÍCULO
 
 ## art:2.2.6.4.4 — Montos de la ayuda humanitaria para hechos victimizantes diferentes al desplazamiento forzado
 
@@ -1308,8 +1110,6 @@ SECCIÓN 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.1 — Objeto
 
 El presente Capítulo establece los criterios y procedimientos para la entrega de la atención humanitaria de emergencia y transición a las víctimas de desplazamiento forzado con base en la evaluación de los componentes de la subsistencia mínima.
@@ -1322,8 +1122,6 @@ PARÁGRAFO 2. Para efectos de las poblaciones a que se refieren los decretos ley
 
 (Decreto 2569 de 2014, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.2 — Finalidad
 
 Las previsiones contenidas en este Capítulo están dirigidas a caracterizar la situación real de cada hogar víctima de desplazamiento forzado y, con base en ello, acompañar a los hogares en el acceso a las diferentes medidas, planes, programas y proyectos contemplados en la Ley 1448 de 2011, particularmente los relacionados con la atención humanitaria de emergencia y de transición, la superación de la situación de vulnerabilidad y la reparación integral, con el fin de garantizar el goce efectivo de los derechos de las víctimas de desplazamiento forzado, el mejoramiento de la calidad de vida, y la superación progresiva del estado de cosas inconstitucional declarado por la Corte Constitucional.
@@ -1332,15 +1130,11 @@ Para cumplir la finalidad prevista, la Unidad para la Atención y Reparación In
 
 (Decreto 2569 de 2014, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.3 — Ámbito de aplicación
 
 Serán destinatarios de las presentes medidas las personas y los hogares víctimas de desplazamiento forzado incluidos en el Registro Único de Víctimas - RUV que residan en el territorio nacional.
 
 (Decreto 2569 de 2014, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.5.1.4 — Principios
 
@@ -1369,8 +1163,6 @@ Para efectos del presente Capítulo, los siguientes principios constitucionales 
 9. Sostenibilidad fiscal. Conforme al Artículo 334 de la Constitución Política y en desarrollo de lo previsto en el artículo 19 de la Ley 1448 de 2011, toda decisión que se adopte en la aplicación del presente Capítulo deberá hacerse de tal forma que asegure su sostenibilidad fiscal con el fin de darle, en conjunto, continuidad y progresividad, a efectos de garantizar su viabilidad y efectivo cumplimiento.
 
 (Decreto 2569 de 2014, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.5.1.5 — Componentes de la atención humanitaria
 
@@ -1402,15 +1194,11 @@ Las entidades deberán atender en primer lugar todas las solicitudes de atenció
 
 (Decreto 2569 de 2014, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.6 — Carácter personalísimo de la atención humanitaria
 
 En desarrollo de lo previsto en la Ley 1448 de 2011 y la jurisprudencia constitucional, la atención humanitaria es una medida para garantizar un derecho personal, por lo tanto, no se puede ceder, ni endosar, no es acumulable y no es objeto de entrega retroactiva.
 
 (Decreto 2569 de 2014, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.5.1.7 — Criterios de la ayuda humanitaria
 
@@ -1419,8 +1207,6 @@ La entrega de esta ayuda se desarrolla de acuerdo con los lineamientos de sosten
 La ayuda humanitaria será destinada de forma exclusiva a mitigar la vulnerabilidad derivada del desplazamiento, de manera tal que ésta complemente y no duplique la atención que reciba la población víctima del desplazamiento forzado.
 
 (Decreto 4800 de 2011, artículo 107)
-
-ARTÍCULO
 
 ## art:2.2.6.5.1.8 — Criterios para la entrega de la atención humanitaria
 
@@ -1436,23 +1222,17 @@ Atendiendo lo dispuesto en el artículo anterior, la entrega de los componentes 
 
 (Decreto 2569 de 2014, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.9 — 1.9
 
 Participación conjunta de las víctimas en el acceso a la oferta institucional para el auto sostenimiento del grupo familiar. Para efectos de este Capítulo, en desarrollo del principio de participación conjunta consagrado en la Ley 1448 de 2011, la atención humanitaria se articulará de manera simultánea y concurrente con los programas de la oferta institucional dirigidos a generar las condiciones de auto sostenimiento del hogar víctima de desplazamiento forzado, en el lugar de recepción o en el marco del acompañamiento a procesos de retorno o de reubicación. Para ello, los beneficiarios de los componentes de la atención humanitaria accederán a los programas y rutas dispuestas por las entidades responsables de generar las condiciones para la subsistencia mínima y la superación de la situación de vulnerabilidad.
 
 (Decreto 2569 de 2014, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.10 — Complementariedad del principio de participación conjunta
 
 A través de las estrategias de seguimiento que diseñe el Gobierno Nacional, se realizará una actualización periódica del acceso y permanencia de la población desplazada a la oferta disponible para garantizar su subsistencia mínima. De evidenciarse el retiro voluntario e injustificado del hogar de los programas a los que se encuentre vinculado que contribuyan a mitigar las necesidades relativas a estos componentes, se entenderá que el hogar no requiere de este apoyo y por lo tanto se evaluará en cada caso particular la superación o no de la situación de emergencia.
 
 (Decreto 4800 de 2011, artículo 118)
-
-ARTÍCULO
 
 ## art:2.2.6.5.1.11 — Entidades responsables
 
@@ -1466,8 +1246,6 @@ SECCIÓN 2
 
 Atención humanitaria inmediata, de emergencia y de transición
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.1 — Atención humanitaria inmediata
 
 La entidad territorial receptora de la población víctima de desplazamiento, debe garantizar los componentes de alimentación, artículos de aseo, manejo de abastecimientos, utensilios de cocina y alojamiento transitorio, mientras se realiza el trámite de inscripción en el Registro Único de Víctimas.
@@ -1480,23 +1258,17 @@ Adicionalmente, en las ciudades y municipios que presenten altos índices de rec
 
 (Decreto 4800 de 2011, artículo 108)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.2 — Atención humanitaria de emergencia
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a Víctimas, ya sea directamente o a través de convenios que con ocasión a la entrega de estos componentes se establezcan con organismos nacionales e internacionales, brindará los componentes de alimentación, artículos de aseo, manejo de abastecimientos, utensilios de cocina y alojamiento transitorio a la población incluida en el Registro Único de Víctimas, cuyo hecho victimizante haya ocurrido dentro del año previo a la declaración.
 
 (Decreto 4800 de 2011, artículo 109)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.3 — Atención humanitaria de transición
 
 La ayuda humanitaria de transición se brinda a la población víctima de desplazamiento incluida en el Registro Único de Víctimas, cuyo desplazamiento haya ocurrido en un término superior a un año contado a partir de la declaración y que, previo análisis de vulnerabilidad, evidencie la persistencia de carencias en los componentes de alimentación y alojamiento como consecuencia del desplazamiento forzado. Esta ayuda cubre los componentes de alimentación, artículos de aseo y alojamiento temporal.
 
 (Decreto 4800 de 2011, artículo 112)
-
-ARTÍCULO
 
 ## art:2.2.6.5.2.4 — Sujetos de la atención humanitaria de emergencia
 
@@ -1514,8 +1286,6 @@ PARÁGRAFO 2. La atención humanitaria de emergencia incluirá un porcentaje adi
 
 (Decreto 2569 de 2014, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.5 — Sujetos de la atención humanitaria de transición
 
 Se entenderá que tienen derecho a recibir atención humanitaria de transición aquellos hogares en que se identifiquen carencias leves en los componentes de alojamiento temporal y/o alimentación.
@@ -1523,8 +1293,6 @@ Se entenderá que tienen derecho a recibir atención humanitaria de transición 
 PARÁGRAFO . La atención humanitaria de transición estará compuesta por los componentes de alojamiento temporal y alimentación.
 
 (Decreto 2569 de 2014, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.5.2.6 — Desarrollo de la oferta en la transición
 
@@ -1572,8 +1340,6 @@ Desarrollo de estrategias de orientación y fortalecimiento de hábitos alimenti
 
 (Decreto 4800 de 2011, artículo 115)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.9 — Responsables de la oferta de alojamiento digno en la transición
 
 La Unidad Administrativa Especial para la Atención y Reparación a las Víctimas y las entidades territoriales deben implementar un programa de alojamiento temporal en condiciones dignas para los hogares víctimas del desplazamiento forzado cuyo desplazamiento haya ocurrido en un término superior a un año contado a partir de la declaración, que no cuenten con una solución de vivienda definitiva.
@@ -1598,8 +1364,6 @@ SECCIÓN 3
 
 Montos y temporalidad de la atención humanitaria
 
-ARTÍCULO
-
 ## art:2.2.6.5.3.1 — Criterios para definir los montos de la atención humanitaria
 
 De acuerdo con lo dispuesto en los artículos 2.2.6.5.3.3 y 2.2.6.5.3.4 del presente Decreto, se tendrán como criterios para determinar los montos de la atención humanitaria, los siguientes:
@@ -1622,8 +1386,6 @@ d) Pertenencia o auto-reconocimiento de personas como miembros de pueblos indíg
 
 (Decreto 2569 de 2014, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.6.5.3.2 — Tasación y frecuencia de la atención humanitaria
 
 La atención humanitaria será proporcional a la gravedad y urgencia de la carencia detectada, de modo que a mayor carencia, mayor será el monto de la ayuda entregada sin perjuicio de los montos máximos establecidos por el artículo siguiente.
@@ -1636,8 +1398,6 @@ PARÁGRAFO 3. La tasación y entrega de la atención humanitaria de emergencia y
 
 (Decreto 2569 de 2014, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.6.5.3.3 — Montos de la ayuda humanitaria de emergencia y transición por grupo familiar
 
 En atención al principio de proporcionalidad, la Unidad Administrativa Especial para la Atención y Reparación a las Víctimas destinará los recursos para cubrir esta ayuda, teniendo en cuenta la etapa de atención, el tamaño y composición del grupo familiar y el resultado del análisis del nivel de vulnerabilidad producto del desplazamiento forzado, según los siguientes montos:
@@ -1647,8 +1407,6 @@ En atención al principio de proporcionalidad, la Unidad Administrativa Especial
 2. Para utensilios de cocina, elementos de alojamiento, otorgados por una sola vez, hasta una suma máxima mensual equivalente a 0.5 salarios mínimos legales mensuales vigentes al momento del pago.
 
 (Decreto 4800 de 2011, artículo 111)
-
-ARTÍCULO
 
 ## art:2.2.6.5.3.4 — Tasación de los componentes de la ayuda humanitaria de emergencia y transición
 
@@ -1668,8 +1426,6 @@ Una vez analizadas estas variables, la Unidad Administrativa Especial para la At
 
 (Decreto 4800 de 2011, artículo 110)
 
-ARTÍCULO
-
 ## art:2.2.6.5.3.5 — Ayuda humanitaria en caso de división del grupo familiar
 
 Cuando se efectúe la división de grupos familiares inscritos en el Registro Único de Víctimas, se mantendrá el monto de la ayuda humanitaria que el grupo inicial venía recibiendo y seguirá siendo entregado al jefe de hogar que había sido reportado.
@@ -1684,15 +1440,11 @@ SECCION 4
 
 Definición e identificación de carencias en la atención humanitaria
 
-ARTÍCULO
-
 ## art:2.2.6.5.4.1 — Definición de carencias en la atención humanitaria
 
 La Unidad para la Atención y Reparación Integral a las víctimas, definirá mediante resolución, las condiciones constitutivas de carencias graves y leves en los componentes de alojamiento temporal y/o alimentación.
 
 (Decreto 2569 de 2014, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.6.5.4.2 — Unidad de análisis
 
@@ -1706,8 +1458,6 @@ PARÁGRAFO 2. La unidad de análisis referida sólo tendrá efectos para la entr
 
 (Decreto 2569 de 2014, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.6.5.4.3 — Identificación de carencias en /os componentes de alojamiento temporal y alimentación
 
 La identificación de las carencias en los componentes de alojamiento temporal y alimentación se basará en un análisis integral de la situación real de los hogares, a partir de la valoración de todas y cada una de las personas que lo integran, y tomando en consideración las condiciones particulares de los miembros pertenecientes a grupos de especial protección constitucional tales como: persona mayor, niños, niñas y adolescentes, personas con discapacidad, grupos étnicos, y personas puestas en circunstancias de debilidad manifiesta asociadas a la jefatura del hogar.
@@ -1717,8 +1467,6 @@ Esta identificación de carencias se basará en la información contenida en los
 El análisis de la información proveniente de estas fuentes servirá para determinar la gravedad y urgencia de la situación particular de cada hogar a que hacen referencia los artículos 62 parágrafo y 65 de la Ley 1448 de 2011.
 
 (Decreto 2569 de 2014, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.6.5.4.4 — Objetivos del proceso de identificación de carencias en los componentes de alojamiento temporal y alimentación
 
@@ -1743,8 +1491,6 @@ PARÁGRAFO 2. Atendiendo lo dispuesto en el numeral 5 del artículo 2.2.6.5.3.4.
 PARÁGRAFO 3. La Unidad para la Atención y Reparación Integral a las Víctimas destinará y coordinará la entrega de la atención humanitaria a que hubiere lugar a las víctimas en procesos de retorno y/o de reubicación con acompañamiento institucional y de acuerdo con la valoración de carencias en los componentes de la subsistencia mínima de cada hogar.
 
 (Decreto 2569 de 2014, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.6.5.4.5 — Efectos de la identificación de carencias en el componente de alojamiento temporal
 
@@ -1774,15 +1520,11 @@ En casos de hogares en que se identifiquen carencias leves en el componente de a
 
 (Decreto 2569 de 2014, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.6.5.4.7 — Componente de servicios médicos y atención en salud en la etapa de emergencia
 
 En cuanto al componente de salud, como parte integral de la subsistencia mínima, la Unidad para la Atención y la Reparación Integral a las Víctimas verificará y solicitará a las entidades competentes del Sistema General de Seguridad Social en Salud que las personas que conforman el hogar sean afiliadas y tengan las condiciones de acceso efectivo a la prestación del servicio de salud.
 
 (Decreto 2569 de 2014, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.6.5.4.8 — Situación de extrema urgencia y vulnerabilidad
 
@@ -1791,8 +1533,6 @@ Se entiende que se encuentran en situación de extrema urgencia y vulnerabilidad
 La situación de extrema urgencia y vulnerabilidad no se considera como una condición definitiva, de manera que esta puede ser superada debido a cambios en la conformación del hogar, o a medida que los miembros del hogar, por sus propios medios o mediante los programas sociales de la oferta estatal, adquieran capacidades que les permitan cubrir, cuando menos, los componentes de la subsistencia mínima.
 
 (Decreto 2569 de 2014, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.6.5.4.9 — Superación de la situación de emergencia
 
@@ -1816,15 +1556,11 @@ SECCIÓN 5
 
 De la superación de la situación de vulnerabilidad derivada del desplazamiento forzado
 
-ARTÍCULO
-
 ## art:2.2.6.5.5.1 — De la cesación
 
 La cesación de la condición de vulnerabilidad manifiesta se declara en el marco de un proceso de retorno o reubicación, frente al restablecimiento de derechos de las víctimas de desplazamiento forzado en virtud de la política pública de prevención, protección, atención y reparación integral, mediante la cual se establece que se ha garantizado el goce efectivo de los derechos de las víctimas.
 
 (Decreto 4800 de 2011, artículo 79)
-
-ARTÍCULO
 
 ## art:2.2.6.5.5.2 — De los criterios de la cesación
 
@@ -1833,8 +1569,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 PARÁGRAFO . Los criterios deben tener en cuenta las características particulares de los sujetos de especial protección constitucional.
 
 (Decreto 4800 de 2011, artículo 80)
-
-ARTÍCULO
 
 ## art:2.2.6.5.5.3 — De la evaluación de la superación de la situación de vulnerabilidad
 
@@ -1850,8 +1584,6 @@ La Unidad para la Atención y Reparación Integral a las Víctimas podrá verifi
 
 22)
 
-ARTÍCULO
-
 ## art:2.2.6.5.5.4 — De la evaluación de la condición de vulnerabilidad y debilidad manifiesta
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas debe realizar la valoración de vulnerabilidad y debilidad manifiesta, por lo menos una vez cada dos (2) años para cada hogar. Si el hogar cumple con los criterios de cesación se emitirá el acto administrativo, en caso contrario deberá realizarse una nueva valoración.
@@ -1861,8 +1593,6 @@ PARÁGRAFO 1. Los resultados de la evaluación de la condición de vulnerabilida
 PARÁGRAFO 2. La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas suministrará información del proceso de evaluación de la condición de vulnerabilidad y debilidad manifiesta de la población víctima del desplazamiento forzado, al Comité Ejecutivo, a fin de que se adopten las medidas pertinentes en el marco del Sistema Nacional de Atención Integral y Reparación Integral a las Víctimas.
 
 (Decreto 4800 de 2011, artículo 82)
-
-ARTÍCULO
 
 ## art:2.2.6.5.5.5 — Superación de la situación de vulnerabilidad derivada del desplazamiento forzado
 
@@ -1876,8 +1606,6 @@ PARÁGRAFO 3. Para los casos en que no se presenten situaciones favorables de se
 
 (Decreto 2569 de 2014, artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.6.5.5.6 — Unidad de análisis
 
 La evaluación de la superación de la situación de vulnerabilidad se hará sobre cada persona víctima del desplazamiento forzado que forme parte de los hogares incluidos en el Registro Único de Víctimas - RUV.
@@ -1885,8 +1613,6 @@ La evaluación de la superación de la situación de vulnerabilidad se hará sob
 Para efectos de esta evaluación se tendrán en cuenta características diferenciales de acuerdo con el ciclo vital, género, diversidad sexual y discapacidad en la medición del goce de los derechos relacionados con la estabilización socio económica.
 
 (Decreto 2569 de 2014, artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.6.5.5.7 — Fuentes de información
 
@@ -1898,8 +1624,6 @@ PARÁGRAFO . Las entidades territoriales contribuirán a la verificación de la 
 
 (Decreto 2569 de 2014, artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.6.5.5.8 — De los efectos de la evaluación de la superación de la situación de vulnerabilidad
 
 Valorada la situación de vulnerabilidad y declarada la superación de la misma, la persona víctima del desplazamiento forzado no pierde la condición de víctima, permanecerá en el Registro Único de Víctimas - RUV y será priorizada en el acceso a las medidas de reparación integral a que haya lugar y que se encuentren pendientes.
@@ -1910,15 +1634,11 @@ Los resultados de la evaluación de la superación de la situación de vulnerabi
 
 (Decreto 2569 de 2014, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.6.5.5.9 — Superación de la situación de vulnerabilidad voluntaria por parte de las víctimas
 
 Las personas víctimas del desplazamiento forzado podrán manifestar de manera voluntaria, libre, espontánea y consciente a la Unidad para la Atención y Reparación Integral a las Víctimas, que consideran que han superado la situación de vulnerabilidad derivada del desplazamiento forzado, sin perjuicio de que la Unidad para la Atención y Reparación Integral a las Víctimas realice la verificación respectiva con las herramientas pertinentes.
 
 (Decreto 2569 de 2014, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.6.5.5.10 — Suspensión definitiva de la atención humanitaria
 
@@ -1938,8 +1658,6 @@ La entrega de los componentes de la atención humanitaria se suspenderá de mane
 
 (Decreto 2569 de 2014, artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.6.5.5.11 — .11
 
 De los actos administrativos de entrega o suspensión definitiva de la atención humanitaria y de la declaración de superación de la situación de vulnerabilidad. La Unidad para la Atención y Reparación Integral a las Víctimas proferirá actos administrativos, con la motivación fáctica y jurídica de entrega o suspensión definitiva de la atención humanitaria y de declaración de superación de la situación de vulnerabilidad a los hogares y personas víctimas del desplazamiento forzado incluidos en el Registro Único de Víctimas (RUV), con base en el resultado de identificación de carencias en la atención humanitaria y/o de evaluación de superación de la situación de vulnerabilidad establecidas en este Capítulo.
@@ -1954,15 +1672,11 @@ SECCIÓN 6
 
 De la coordinación de la oferta institucional del Sistema Nacional de Atención y Reparación Integral a las Víctimas - SNARIV
 
-ARTÍCULO
-
 ## art:2.2.6.5.6.1 — De las acciones de focalización, priorización y asignación de oferta
 
 Las entidades del orden nacional y territorial deberán tener en cuenta los resultados de la medición de subsistencia mínima y superación de situación de vulnerabilidad para efectos de caracterizar, diagnosticar, planificar e implementar acciones en los planes de acción nacional y territorial.
 
 (Decreto 2569 de 2014, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.6.5.6.2 — Listados para la focalización de oferta
 
@@ -1975,8 +1689,6 @@ Las entidades del nivel nacional y territorial competentes deberán focalizar, p
 Sin perjuicio de los términos previstos en el artículo 2.2.6.6.8 del presente Decreto, las entidades del Sistema Nacional de Atención y Reparación Integral a las Víctimas - SNARIV deberán informar a la Unidad para la Atención y Reparación Integral a las Víctimas en los meses de febrero y agosto sobre el acceso efectivo de las víctimas incluidas en los listados remitidos en el semestre anterior.
 
 (Decreto 2569 de 2014, artículo 29)
-
-ARTÍCULO
 
 ## art:2.2.6.5.6.3 — Asignación de la ofertan nacional y territorial
 
@@ -1996,8 +1708,6 @@ PARÁGRAFO 2. Las víctimas que hayan superado la situación de vulnerabilidad y
 
 (Decreto 2569 de 2014, artículo 30)
 
-ARTÍCULO
-
 ## art:2.2.6.5.6.4 — 6.4
 
 De la certificación de las entidades que conforman el Sistema Nacional de Atención, y Reparación Integral a las Víctimas - SNARIV. La Unidad para la Atención y Reparación Integral a las Víctimas incluirá en los criterios para la certificación de las entidades nacionales y territoriales que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas - SNARIV, su contribución a la superación de la situación de la vulnerabilidad de las víctimas y el goce efectivo de sus derechos, de conformidad con el numeral 4 del artículo 168 de la Ley 1448 de 2011 y el artículo 2.2.8.3.8 del presente Decreto.
@@ -2010,15 +1720,11 @@ SECCIÓN 7
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.2.6.5.7.1 — Divulgación y socialización
 
 Las entidades encargadas de la implementación de los lineamientos establecidos en este Capítulo, adoptarán estrategias de divulgación y socialización de los procedimientos, alcances y efectos trazados en sus disposiciones, de conformidad y en cumplimiento de los principios establecidos en el artículo 2.2.6.5.1.4 del presente Decreto.
 
 (Decreto 2569 de 2014, artículo 33)
-
-ARTÍCULO
 
 ## art:2.2.6.5.7.2 — Implementación
 
@@ -2078,15 +1784,11 @@ SECCION 8
 
 Retornos y reubicaciones para las víctimas de desplazamiento forzado
 
-ARTÍCULO
-
 ## art:2.2.6.5.8.1 — Del retorno
 
 El retorno es el proceso mediante el cual la persona o el hogar víctima de desplazamiento forzado decide regresar al sitio del cual fueron desplazados con el fin de asentarse indefinidamente.
 
 (Decreto 4800 de 2011, artículo 71)
-
-ARTÍCULO
 
 ## art:2.2.6.5.8.2 — De la reubicación
 
@@ -2094,15 +1796,11 @@ La reubicación es el proceso mediante el cual la persona o el hogar víctima de
 
 (Decreto 4800 de 2011, artículo 72)
 
-ARTÍCULO
-
 ## art:2.2.6.5.8.3 — Objeto
 
 La presente Sección tiene por objeto establecer las condiciones para aquellas personas u hogares que deciden regresar a sus tierras voluntariamente o deciden establecerse en un lugar diferente al de su expulsión, contribuyendo a la atención y reparación integral a las víctimas de desplazamiento forzado.
 
 (Decreto 4800 de 2011, artículo 73)
-
-ARTÍCULO
 
 ## art:2.2.6.5.8.4 — Principios que deben regir los procesos de retorno y reubicación
 
@@ -2116,15 +1814,11 @@ En los procesos de retorno y reubicación se tendrán en cuenta los siguientes p
 
 (Decreto 4800 de 2011, artículo 74)
 
-ARTÍCULO
-
 ## art:2.2.6.5.8.5 — Gradualidad en la garantía de los derechos en la ejecución de los planes retomo y reubicación
 
 En la ejecución de los planes de retorno y reubicación, la Unidad Administrativa Especial para la Atención y Reparación de las Víctimas. en coordinación con las demás autoridades involucradas en el proceso de atención, asistencia y reparación a las víctimas, garantizará de manera prioritaria la atención básica en salud, educación, alimentación, identificación, reunificación familiar, orientación ocupacional, vivienda y atención psicosocial; y de manera complementaria, progresiva y gradual, el acceso o restitución de tierras, servicios públicos básicos, vías y comunicaciones, seguridad alimentaria, ingresos y trabajo y fortalecimiento de la organización social.
 
 (Decreto 4800 de 2011, artículo 75)
-
-ARTÍCULO
 
 ## art:2.2.6.5.8.6 — Responsabilidades institucionales
 
@@ -2135,8 +1829,6 @@ Las autoridades del Sistema Nacional de Atención y Reparación a las Víctimas 
 PARÁGRAFO . Las acciones de coordinación, planeación, seguimiento y participación de las víctimas incluidas en los procesos de retorno y reubicación se realizarán en el marco de los Comités Territoriales de Justicia Transicional bajo los lineamientos previstos en el Protocolo de Retorno y Reubicación.
 
 (Decreto 4800 de 2011, artículo 76)
-
-ARTÍCULO
 
 ## art:2.2.6.5.8.7 — Esquemas especiales de acompañamiento para la población retornada y reubicada
 
@@ -2154,8 +1846,6 @@ PARÁGRAFO 3. La población víctima del desplazamiento que se encuentre fuera d
 
 (Decreto 4800 de 2011, artículo 77)
 
-ARTÍCULO
-
 ## art:2.2.6.5.8.8 — Protocolo de retorno y reubicación
 
 El Protocolo de Retorno y Reubicación es el instrumento técnico para la coordinación, planeación, seguimiento y control de los procesos de retorno y reubicación a las personas, familias o comunidades víctimas del desplazamiento forzado en los contextos urbanos o rurales que hayan retornado o se hayan reubicado con o sin el apoyo institucional, para lograr el acompañamiento estatal en el marco de su competencia.
@@ -2163,8 +1853,6 @@ El Protocolo de Retorno y Reubicación es el instrumento técnico para la coordi
 El Protocolo de Retorno y Reubicación incorporará los Planes de Retorno y Reubicación como la herramienta para el diagnóstico, definición de responsabilidades, cronograma y seguimiento de los procesos. Dichos Planes serán elaborados en el marco de los Comités Territoriales de Justicia Transicional.
 
 (Decreto 4800 de 2011, artículo 78)
-
-ARTÍCULO
 
 ## art:2.2.6.5.8.9 — Apoyo a los procesos de retorno y/o reubicación individuales
 
@@ -2184,8 +1872,6 @@ CAPÍTULO 6
 
 Centros Regionales de Atención y Reparación a Víctimas
 
-ARTÍCULO
-
 ## art:2.2.6.6.1 — Definición de los Centros Regionales
 
 Los Centros Regionales de Atención y Reparación a Víctimas son una estrategia de articulación interinstitucional del nivel nacional y territorial que tiene como objetivo atender, orientar, remitir, acompañar y realizar el seguimiento a las víctimas en los términos del artículo 3 de la Ley 1448 de 2011 que requieran acceder a la oferta estatal en aras de facilitar los requerimientos en el ejercicio de sus derechos a la verdad, justicia y reparación integral.
@@ -2199,8 +1885,6 @@ PARÁGRAFO 3. La oferta regional de las entidades territoriales, definida de con
 Así mismo, el diseño e implementación de los Centros Regionales de Atención y Reparación a Víctimas se articulará y adaptará a las necesidades específicas de la entidad territorial, en especial frente a los programas de prevención, asistencia, atención, protección y reparación integral a las víctimas que los municipios o distritos adopten en desarrollo del artículo 174 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 121)
-
-ARTÍCULO
 
 ## art:2.2.6.6.2 — Conformación de los Centros Regionales de Atención y Reparación a Víctimas
 
@@ -2298,8 +1982,6 @@ PARÁGRAFO 4. Los niños, niñas y adolescentes víctimas serán remitidos al Ce
 
 16)
 
-ARTÍCULO
-
 ## art:2.2.6.6.3 — Funcionamiento
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas será la encargada de poner en marcha y coordinar el funcionamiento de los Centros Regionales de Atención y Reparación a Víctimas. Para el cumplimiento de esta función, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas podrá suscribir convenios para garantizar la participación de los entes territoriales en el funcionamiento de los Centros.
@@ -2307,8 +1989,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 Los entes territoriales deberán garantizar la operación y sostenimiento de los Centros que sean creados por la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, para lo cual deberán utilizar la estructura organizacional y física, territorial y nacional existente, y en concordancia con la operación en territorio de que trata el artículo 5 del Decreto 4155 de 2011.
 
 (Decreto 4800 de 2011, artículo 123)
-
-ARTÍCULO
 
 ## art:2.2.6.6.4 — Funciones de los centros
 
@@ -2324,8 +2004,6 @@ Los centros deben ejercer las siguientes funciones:
 
 (Decreto 4800 de 2011, artículo 124)
 
-ARTÍCULO
-
 ## art:2.2.6.6.5 — Adopción del protocolo de atención
 
 Las entidades nacionales y territoriales, de acuerdo con su competencia sectorial y responsabilidad institucional en la atención a la población víctima en los términos del artículo 3 de la Ley 1448 de 2011, deben adoptar el protocolo de atención establecido por la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas.
@@ -2338,8 +2016,6 @@ PARÁGRAFO 2. Las entidades nacionales y territoriales deben reportar a la Unida
 
 (Decreto 4800 de 2011, artículo 125)
 
-ARTÍCULO
-
 ## art:2.2.6.6.6 — Responsabilidades de la Entidad Territorial en los Centros
 
 Los municipios y distritos de acuerdo con sus competencias constitucionales y legales deben apropiar los recursos necesarios en los planes de desarrollo para el funcionamiento de los centros de atención que garanticen los gastos administrativos, tecnológicos, y operativos Para tal fin pueden celebrar convenios interadministrativos con la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas.
@@ -2349,8 +2025,6 @@ La infraestructura física de los Centros de Atención y Reparación a las Víct
 PARÁGRAFO . Atendiendo al principio de subsidiaridad, el Gobierno Nacional y las Gobernaciones deben apoyar a los municipios que no cuenten con la capacidad de gestión técnica, operativa y financiera para la creación y fortalecimiento de los Centros de Atención y Reparación a las Víctimas.
 
 (Decreto 4800 de 2011, artículo 126)
-
-ARTÍCULO
 
 ## art:2.2.6.6.7 — Funciones de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas en los Centros
 
@@ -2372,23 +2046,17 @@ Reparación a las Víctimas que contribuyan a la atención y orientación a las 
 
 (Decreto 4800 de 2011, artículo 127)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8 — Reporte sobre las remisiones
 
 Las entidades con competencia y responsabilidad en la atención a las víctimas deben retroalimentar a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas sobre el estado de las remisiones enviadas por esta en un lapso no mayor a quince (15) días hábiles contados a partir de la fecha de envío.
 
 (Decreto 4800 de 2011, artículo 128)
 
-ARTÍCULO
-
 ## art:2.2.6.6.9 — Servidores públicos en los Centros
 
 La Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas, de conformidad con lo establecido en la presente Parte, en particular en el artículo 2.2.7.7.13, se hará cargo del proceso de sensibilización y capacitación de los servidores públicos frente al proceso de atención y orientación a las víctimas con el fin de garantizar la idoneidad que se requiere para el buen desempeño de su labor.
 
 (Decreto 4800 de 2011, artículo 129)
-
-ARTÍCULO
 
 ## art:2.2.6.6.10 — Estrategias de atención complementadas a los Centros Regionales de Atención y Reparación a Víctimas
 
@@ -3030,8 +2698,6 @@ CAPÍTULO 1
 
 Restitución de vivienda
 
-ARTÍCULO
-
 ## art:2.2.7.1.1 — Restitución del derecho a la vivienda para hogares víctimas en los términos del artículo 3 de la Ley 1448 de 2011
 
 Los hogares de las víctimas incluidos en el Registro Único de Víctimas, cuyas viviendas hayan sido afectadas por despojo, abandono, pérdida o menoscabo, serán atendidos de forma prioritaria y preferente en el área urbana por el Ministerio de Vivienda, Ciudad y Territorio, o en el área rural por el Ministerio de Agricultura y Desarrollo Rural, mediante la priorización en las bolsas ordinarias o específicas vigentes indicadas por la entidad competente para el acceso al subsidio familiar de vivienda, o en las especiales que se creen para población víctima, en las modalidades de mejoramiento, construcción o adquisición de vivienda.
@@ -3039,8 +2705,6 @@ Los hogares de las víctimas incluidos en el Registro Único de Víctimas, cuyas
 Para efectos del acceso a los subsidios familiares de vivienda se dará aplicación a lo dispuesto en la normativa que regula la materia, en lo que no sea contrario a la Ley 1448 de 2011 y a la presente Parte.
 
 (Decreto 4800 de 2011, artículo 131)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2 — Subsidio familiar de vivienda para víctimas en los términos del artículo 3 de la Ley 1448 de 2011
 
@@ -3052,8 +2716,6 @@ PARÁGRAFO . La población víctima del desplazamiento forzado accederá a los s
 
 (Decreto 4800 de 2011, artículo 132)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3 — Priorización con enfoque diferencial
 
 La priorización para asignación y aplicación del subsidio familiar de vivienda, debe ser coherente con las necesidades de los sujetos de especial protección constitucional de conformidad con las condiciones que establezca mediante Resolución el Ministerio de Vivienda, Ciudad y Territorio, y el Ministerio de Agricultura y Desarrollo Rural.
@@ -3061,8 +2723,6 @@ La priorización para asignación y aplicación del subsidio familiar de viviend
 PARÁGRAFO . Las entidades encargadas de la asignación de los subsidios familiares de vivienda determinarán acciones encaminadas a privilegiar dentro de la población víctima del desplazamiento forzado el acceso a soluciones de vivienda de las personas en condición de discapacidad, mujeres cabeza de familia y adultos mayores.
 
 (Decreto 4800 de 2011, artículo 133)
-
-ARTÍCULO
 
 ## art:2.2.7.1.4 — 1.4
 
@@ -3074,8 +2734,6 @@ PARÁGRAFO 2. Los hogares víctimas que hayan sufrido despojo, abandono, pérdid
 
 (Decreto 4800 de 2011, artículo 134)
 
-ARTÍCULO
-
 ## art:2.2.7.1.5 — Participación de las entidades territoriales
 
 En aplicación de los principios de coordinación, concurrencia y subsidiariedad, las entidades territoriales deberán contribuir en la ejecución de la política habitacional para las víctimas en los términos del artículo 3 de la Ley 1448 de 2011, afectadas por despojo, abandono, pérdida o menoscabo de la vivienda.
@@ -3084,23 +2742,17 @@ Será responsabilidad de las entidades públicas del orden municipal, distrital 
 
 (Decreto 4800 de 2011, artículo 135)
 
-ARTÍCULO
-
 ## art:2.2.7.1.6 — Capacitación y orientación a las entidades territoriales
 
 El Gobierno Nacional a través del Ministerio de Vivienda, Ciudad y Territorio y del Ministerio de Agricultura y Desarrollo Rural, brindará capacitación y orientación a las entidades territoriales con el fin de contribuir a la generación de capacidades para la formulación, estructuración, viabilización de planes y habilitación de suelo para construir vivienda para población víctima.
 
 (Decreto 4800 de 2011, artículo 136)
 
-ARTÍCULO
-
 ## art:2.2.7.1.7 — Información
 
 El Ministerio de Vivienda, Ciudad y Territorio, así como el Ministerio de Agricultura y Desarrollo Rural, deberán garantizar la publicidad y el acceso a la información de los hogares víctimas, tanto en lo referente a Convocatorias para el acceso al subsidio familiar de vivienda, como en lo referente a la oferta de vivienda en las cuales esta población pueda aplicar el subsidio otorgado por el Gobierno Nacional.
 
 (Decreto 4800 de 2011, artículo 137)
-
-ARTÍCULO
 
 ## art:2.2.7.1.8 — Recursos de cooperación internacional
 
@@ -3112,8 +2764,6 @@ CAPÍTULO 2
 
 Mecanismos reparativos en relación con los créditos y pasivos
 
-ARTÍCULO
-
 ## art:2.2.7.2.1 — Plazo para presentar el mecanismo de alivio y/o exoneración
 
 Para el diseño y presentación ante el respectivo Concejo Municipal del mecanismo de que trata el numeral 1 del artículo 121 de la Ley 1448 de 2011, las alcaldías contarán con un plazo no mayor a un (1) año contado a partir del 20 de diciembre de 2011.
@@ -3121,8 +2771,6 @@ Para el diseño y presentación ante el respectivo Concejo Municipal del mecanis
 Para el diseño y presentación ante el Ministerio de Hacienda y Crédito Público del mecanismo de que trata el numeral 2 del artículo 121 de la Ley 1448 de 2011, el Ministerio de Agricultura y Desarrollo Rural contará con un plazo no mayor a un (1} año contado a partir del 20 de diciembre de 2011.
 
 (Decreto 4800 de 2011, artículo 139)
-
-ARTÍCULO
 
 ## art:2.2.7.2.2 — Funciones de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas
 
@@ -3134,15 +2782,11 @@ En relación con los mecanismos reparativos previstos en este Capítulo, y sin p
 
 (Decreto 4800 de 2011, artículo 140)
 
-ARTÍCULO
-
 ## art:2.2.7.2.3 — Clasificación especial de riesgo crediticio
 
 La Superintendencia Financiera deberá expedir la reglamentación a la que se refiere el artículo 128 de la Ley 1448 de 2011 en un plazo de seis (6} meses contados a partir del 20 de diciembre de 2011, para la plena identificación por parte de las entidades financieras, de la población víctima de acuerdo con lo establecido en el artículo 3 de la Ley 1448 de 2011; para ello se tendrá en cuenta la presunción de que trata dicho artículo.
 
 (Decreto 4800 de 2011, artículo 141)
-
-ARTÍCULO
 
 ## art:2.2.7.2.4 — Entidad responsable de los recursos para el redescuento de créditos
 
@@ -3150,23 +2794,17 @@ Las funciones asignadas en el Decreto 3741 de 2003 a la Red de Solidaridad Socia
 
 (Decreto 4800 de 2011, artículo 142)
 
-ARTÍCULO
-
 ## art:2.2.7.2.5 — Insuficiencia de las garantías
 
 En caso de que la víctima no esté en condiciones de ofrecer una garantía suficiente de acuerdo con las sanas prácticas del sistema financiero, la entidad financiera de que se trate solicitará al Fondo Nacional de Garantías S.A., información sobre programas de dicha entidad que pudieran permitir que la víctima acceda a dichas garantías, de acuerdo con las condiciones fijadas para el efecto por dicha entidad.
 
 (Decreto 4800 de 2011, artículo 143)
 
-ARTÍCULO
-
 ## art:2.2.7.2.6 — Créditos otorgados por el Instituto Colombiano de Créditos y Estudios Técnicos en el Exterior
 
 El Instituto Colombiano de Créditos y Estudios Técnicos en el Exterior -ICETEX- fomentará la educación superior de la población incluida en el Registro Único de Víctimas. Para tal efecto, esta entidad definirá los requisitos para que las víctimas accedan a las líneas y modalidades especiales de crédito educativo, así como a los subsidios con cargo al presupuesto de la Nación, teniendo en cuenta su especial condición de vulnerabilidad.
 
 (Decreto 4800 de 2011, artículo 144)
-
-ARTÍCULO
 
 ## art:2.2.7.2.7 — Monitoreo y seguimiento
 
@@ -3178,15 +2816,11 @@ CAPÍTULO 3
 
 Indemnización por vía administrativa
 
-ARTÍCULO
-
 ## art:2.2.7.3.1 — Responsabilidad del programa de indemnización por vía administrativa
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas administrará los recursos destinados a la indemnización por vía administrativa velando por el cumplimiento del principio de sostenibilidad.
 
 (Decreto 4800 de 2011, artículo 146)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2 — Publicidad
 
@@ -3194,15 +2828,11 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 
 (Decreto 4800 de 2011, artículo 147)
 
-ARTÍCULO
-
 ## art:2.2.7.3.3 — Criterios
 
 La estimación del monto de la indemnización por vía administrativa que debe realizar la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas se sujetará a los siguientes criterios: la naturaleza y el impacto del hecho victimizante, el daño causado y el estado de vulnerabilidad actual de la víctima, desde un enfoque diferencial.
 
 (Decreto 4800 de 2011, artículo 148)
-
-ARTÍCULO
 
 ## art:2.2.7.3.4 — Montos
 
@@ -3238,8 +2868,6 @@ PARÁGRAFO 5. La indemnización de los niños, niñas y adolescentes víctimas e
 
 (Decreto 4800 de 2011, artículo 149)
 
-ARTÍCULO
-
 ## art:2.2.7.3.5 — Distribución de la indemnización
 
 En caso de concurrir varias personas con derecho a la indemnización por la muerte o desaparición de la víctima, de conformidad con el inciso 2 del artículo 3 de la Ley 1448 de 2011, el monto de la indemnización administrativa se distribuirá así:
@@ -3262,8 +2890,6 @@ PARÁGRAFO 2. En el evento en que la víctima, al momento de su fallecimiento o 
 
 (Decreto 4800 de 2011, artículo 150)
 
-ARTÍCULO
-
 ## art:2.2.7.3.6 — Procedimiento para la solicitud de indemnización
 
 Las personas que hayan sido inscritas en el Registro Único de Víctimas podrán solicitarle a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, la entrega de la indemnización administrativa a través del formulario que esta disponga para el efecto, sin que se requiera aportar documentación adicional salvo datos de contacto o apertura de una cuenta bancaria o depósito electrónico, si la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas lo considera pertinente. Desde el momento en que la persona realiza la solicitud de indemnización administrativa se activará el Programa de Acompañamiento para la Inversión Adecuada de los Recursos de que trata el presente Capítulo.
@@ -3277,8 +2903,6 @@ PARÁGRAFO 1. En los procedimientos de indemnización cuyo destinatarios o desti
 PARÁGRAFO 2. La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas deberá orientar a los destinatarios de la indemnización sobre la opción de entrega de la indemnización que se adecue a sus necesidades, teniendo en cuenta el grado de vulnerabilidad de la víctima y las alternativas de inversión adecuada de los recursos en los términos del artículo 134 de la Ley 1448 de 2011. La víctima podrá acogerse al programa de acompañamiento para la inversión adecuada de la indemnización por vía administrativa independientemente del esquema de pago por el que se decida, sin perjuicio de que vincule al programa los demás recursos que perciba por concepto de otras medidas de reparación.
 
 (Decreto 4800 de 2011, artículo 151)
-
-ARTÍCULO
 
 ## art:2.2.7.3.7 — Procedimiento de revocatoria por parte del comité ejecutivo para la atención y reparación a las víctimas
 
@@ -3304,15 +2928,11 @@ PARÁGRAFO 3. Cuando se trate de actos administrativos en firme, se dará aplica
 
 (Decreto 4800 de 2011, artículo 152)
 
-ARTÍCULO
-
 ## art:2.2.7.3.8 — Oportunidad para solicitar la revisión
 
 La solicitud de revisión a que se refiere el artículo anterior podrá ser realizada dentro del año siguiente, contado a partir del momento en que se conceda la indemnización administrativa en el caso concreto.
 
 (Decreto 4800 de 2011, artículo 153)
-
-ARTÍCULO
 
 ## art:2.2.7.3.9 — Deducción de los montos pagados con anterioridad
 
@@ -3323,8 +2943,6 @@ Si la víctima ha recibido indemnizaciones por muerte o incapacidad permanente p
 PARÁGRAFO . Las sumas pagadas por el Estado a título de atención y asistencia o subsidio no podrán ser descontadas del monto de indemnización por vía administrativa.
 
 (Decreto 4800 de 2011, artículo 154)
-
-ARTÍCULO
 
 ## art:2.2.7.3.10 — .10
 
@@ -3340,15 +2958,11 @@ PARÁGRAFO 3. Cuando sea necesario acopiar información o documentos adicionales
 
 (Decreto 4800 de 2011, artículo 155)
 
-ARTÍCULO
-
 ## art:2.2.7.3.11 — Reconsideración de solicitudes de indemnización administrativa ya resueltas
 
 Sólo a solicitud de parte, podrán ser reconsiderados, bajo las reglas de la Parte 2 del Libro 2, los casos que hayan sido negados por presentación extemporánea, por el momento de ocurrencia de los hechos, o porque los hechos estaban fuera del marco de la Ley 418 de 1997 o del Decreto 1290 de 2008.
 
 (Decreto 4800 de 2011, artículo 156)
-
-ARTÍCULO
 
 ## art:2.2.7.3.12 — Programa de acompañamiento para la inversión adecuada de los recursos
 
@@ -3363,8 +2977,6 @@ PARÁGRAFO 1. La vinculación al programa de acompañamiento será siempre volun
 PARÁGRAFO 2. El programa de acompañamiento debe estar articulado con el Programa de Atención Psicosocial y Salud Integral a las Víctimas, e implementará líneas de atención especial para los grupos poblacionales más vulnerables.
 
 (Decreto 4800 de 2011, artículo 157)
-
-ARTÍCULO
 
 ## art:2.2.7.3.13 — Principio de colaboración
 
@@ -3406,15 +3018,11 @@ PARÁGRAFO . Las entidades que hagan parte de la ejecución del programa garanti
 
 (Decreto 4800 de 2011, artículo 158)
 
-ARTÍCULO
-
 ## art:2.2.7.3.14 — Indemnización por vía administrativa para víctimas de desplazamiento forzado
 
 El monto de indemnización para los núcleos familiares victimas de desplazamiento forzado se entregará de manera independiente y adicional a la oferta social del Estado y a las modalidades definidas en el parágrafo 3 del artículo 132 de la Ley 1448 de 2011 u otros subsidios o beneficios a los que pudiera acceder la población víctima de desplazamiento forzado. El acceso a las modalidades definidas en el parágrafo 3 del artículo 132 de la Ley 1448 de 2011 no constituye indemnización.
 
 (Decreto 4800 de 2011, artículo 159, modificado por el Decreto 1377 de 2014, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.7.3.15 — Indemnización para niños, niñas y adolescentes víctimas en los términos del artículo 3 de la Ley 1448 de 2011
 
@@ -3422,15 +3030,11 @@ De conformidad con el artículo 185 de la Ley 1448 de 2011, la indemnización ad
 
 (Decreto 4800 de 2011, artículo 160)
 
-ARTÍCULO
-
 ## art:2.2.7.3.16 — Constitución del encargo fiduciario
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, será la responsable de constituir el encargo en la empresa fiduciaria que, en promedio, haya percibido en los últimos (6) seis meses previos a su constitución los mayores Créditos financieros, según la información de la Superintendencia Financiera de Colombia. La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas asumirá los costos de constitución y manejo del encargo fiduciario.
 
 (Decreto 4800 de 2011, artículo 161)
-
-ARTÍCULO
 
 ## art:2.2.7.3.17 — Disposición del monto de la indemnización por vía administrativa
 
@@ -3444,15 +3048,11 @@ CAPÍTULO 4
 
 Ruta y orden de acceso a las medidas de reparación individual para las víctimas de desplazamiento forzado
 
-ARTÍCULO
-
 ## art:2.2.7.4.1 — Objeto
 
 El presente Capítulo reglamenta la ruta y orden de acceso a las medidas de reparación individual para las víctimas de desplazamiento forzado, particularmente a la medida de indemnización por vía administrativa, conforme a lo dispuesto en el parágrafo 3 del artículo 132 de la Ley 1448 de 2011.
 
 (Decreto 1377 de 2014, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.7.4.2 — Ámbito de aplicación
 
@@ -3460,15 +3060,11 @@ El presente Capítulo se aplicará a las víctimas del delito de desplazamiento 
 
 (Decreto 1377 de 2014, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.7.4.3 — Finalidad
 
 Con la ruta de reparación a las víctimas del desplazamiento forzado se pretende avanzar en el proceso de reparación integral emprendido por el Gobierno Nacional y contribuir al logro del goce efectivo de los derechos de las víctimas, con lo cual se busca superar además el estado de cosas inconstitucional declarado así por la Corte Constitucional mediante la sentencia T-025 de 2004.
 
 (Decreto 1377 de 2014, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4 — Planes de Atención, Asistencia y Reparación Integral
 
@@ -3478,15 +3074,11 @@ Los Planes de Atención, Asistencia y Reparación Integral -PAARI- contemplarán
 
 (Decreto 1377 de 2014, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.7.4.5 — Acceso priorizado a la Ruta de Reparación
 
 La ruta de reparación para las víctimas de desplazamiento forzado inicia cuando la víctima voluntariamente comienza su proceso de retorno o reubicación en un lugar distinto al de expulsión, incluyendo la reubicación en el lugar de recepción; o cuando se cumplen las condiciones descritas en los numerales 2 y 3 del artículo 2.2.7.4.7 del presente Decreto.
 
 (Decreto 1377 de 2014, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.7.4.6 — Criterios de priorización para los procesos de retorno y reubicación
 
@@ -3514,15 +3106,11 @@ PARÁGRAFO . La Unidad para la Atención y Reparación Integral a las Víctimas 
 
 (Decreto 1377 de 2014, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.7.4.8 — Distribución de la indemnización
 
 La indemnización se distribuirá por partes iguales entre los miembros del núcleo familiar víctima de desplazamiento forzado incluidos en el Registro Único de Víctimas - RUV.
 
 (Decreto 1377 de 2014, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.7.4.9 — Límites de montos de indemnización por víctima
 
@@ -3537,8 +3125,6 @@ Para efectos de determinar el límite previsto en los numerales anteriores, se t
 El pago de la indemnización a los niños, niñas y adolescentes se hará mediante la constitución de encargos fiduciarios en su favor, como lo ordenan los artículos 185 de la Ley 1448 de 2011 y 2.7.3.15 del presente Decreto.
 
 (Decreto 1377 de 2014, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.7.4.10 — Régimen de transición
 
@@ -3556,8 +3142,6 @@ CAPÍTULO 5
 
 Medidas de rehabilitación
 
-ARTÍCULO
-
 ## art:2.2.7.5.1 — Directrices del enfoque psicosocial en las medidas de reparación
 
 La Unidad Administrativa Especial de Atención y Reparación Integral a Víctimas diseñará las directrices del enfoque psicosocial como componente transversal el cual contendrá los lineamientos que respondan a la necesidad de materializar el enfoque psicosocial desde una perspectiva de reparación integral en todas las acciones, planes y programas de atención, asistencia y reparación integral que se implementen en el marco de la Ley 1448 de 2011.
@@ -3565,8 +3149,6 @@ La Unidad Administrativa Especial de Atención y Reparación Integral a Víctima
 Estas directrices deben ser adoptadas por las entidades que conforman el Sistema Nacional de Atención y Reparación Integral a Víctimas, de acuerdo con sus competencias.
 
 (Decreto 4800 de 2011, artículo 163)
-
-ARTÍCULO
 
 ## art:2.2.7.5.2 — Del programa de atención psicosocial y salud integral a víctimas
 
@@ -3577,8 +3159,6 @@ Los entes territoriales deberán adoptar los lineamientos del programa de Atenci
 PARÁGRAFO . El Ministerio de Salud y Protección Social debe desarrollar herramientas de seguimiento y monitoreo a la atención en salud brindada a la población víctima del conflicto armado interno, de acuerdo con lo establecido en el protocolo de atención integral en salud con enfoque psicosocial.
 
 (Decreto 4800 de 2011, artículo 164)
-
-ARTÍCULO
 
 ## art:2.2.7.5.3 — De las responsabilidades del Programa de Atención psicosocial y Salud Integral a Víctimas
 
@@ -3598,15 +3178,11 @@ Programa de Atención Psicosocial y Salud Integral a Víctimas.
 
 (Decreto 4800 de 2011, artículo 165)
 
-ARTÍCULO
-
 ## art:2.2.7.5.4 — Cubrimiento de los gastos derivados del programa de atención psicosocial y salud integral a víctimas
 
 Los gastos derivados de la atención brindada a las víctimas señaladas en el artículo 3 de la Ley 1448 de 2011 por el Programa de Atención Psicosocial y Salud Integral a Víctimas, se financiarán con cargo a los recursos de la Subcuenta de Eventos Catastróficos y Accidentes de Tránsito - ECAT del Fondo de Solidaridad y Garantía, Fosyga, en los términos del parágrafo del artículo 137 de la Ley 1448 de 2011. La definición de los gastos, el procedimiento y el método para su reconocimiento serán definidos por el Ministerio de Salud y Protección Social.
 
 (Decreto 4800 de 2011, artículo 166)
-
-ARTÍCULO
 
 ## art:2.2.7.5.5 — Centros de Encuentro y Reconstrucción del Tejido Social
 
@@ -3614,15 +3190,11 @@ Los Centros de Encuentro y Reconstrucción del Tejido Social son espacios para l
 
 (Decreto 4800 de 2011, artículo 167)
 
-ARTÍCULO
-
 ## art:2.2.7.5.6 — Articulación con los Centros de Encuentro y Reconstrucción del Tejido Social
 
 Las acciones de articulación de los componentes del Programa de Atención Psicosocial y Salud Integral a Víctimas se desarrollan en los Centros de Encuentro y Reconstrucción del Tejido Social, en los lugares donde estos operen. Así mismo, los Centros de Reconciliación podrán articularse con ofertas y programas estatales regionales que cumplan con un cometido similar.
 
 (Decreto 4800 de 2011, artículo 168)
-
-ARTÍCULO
 
 ## art:2.2.7.5.7 — Talento humano para la atención a víctimas
 
@@ -3636,15 +3208,11 @@ CAPÍTULO 6
 
 Medidas de satisfacción
 
-ARTÍCULO
-
 ## art:2.2.7.6.1 — Reparación simbólica
 
 La reparación simbólica comprende la realización de actos u obras de alcance o repercusión pública dirigidas a la construcción y recuperación de la memoria histórica, el reconocimiento de la dignidad de las víctimas y la reconstrucción del tejido social.
 
 (Decreto 4800 de 2011, artículo 170)
-
-ARTÍCULO
 
 ## art:2.2.7.6.2 — Determinación y ejecución de las medidas de satisfacción
 
@@ -3660,8 +3228,6 @@ PARÁGRAFO 3. Para todos los efectos, la inscripción en el Registro Único de V
 
 (Decreto 4800 de 2011, artículo 171)
 
-ARTÍCULO
-
 ## art:2.2.7.6.3 — Asistencia técnica a entidades territoriales en materia de medidas de satisfacción
 
 El Gobierno Nacional, a través de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas, brindará a los Comités Territoriales de Justicia Transicional la asistencia técnica necesaria para la elaboración de criterios que deben tener las medidas de satisfacción que se ejecutarán dentro de su territorio, según el contexto y tradiciones de cada población.
@@ -3670,15 +3236,11 @@ PARÁGRAFO . Los Comités Territoriales de Justicia Transicional deberán ademá
 
 (Decreto 4800 de 2011, artículo 172)
 
-ARTÍCULO
-
 ## art:2.2.7.6.4 — Reconocimiento judicial de las medidas de satisfacción
 
 Las decisiones judiciales podrán tener en cuenta las medidas de satisfacción otorgadas en el marco de la Ley 1448 de 2011, sin perjuicio de las medidas de satisfacción que se presenten en otras instancias.
 
 (Decreto 4800 de 2011, artículo 173)
-
-ARTÍCULO
 
 ## art:2.2.7.6.5 — Difusión y socialización de las medidas de satisfacción
 
@@ -3686,23 +3248,17 @@ La difusión y socialización podrá ser en sí misma una medida de satisfacció
 
 (Decreto 4800 de 2011, artículo 174)
 
-ARTÍCULO
-
 ## art:2.2.7.6.6 — Medidas de satisfacción por parte de algunos actores
 
 El informe al cual se refiere el artículo 196 de la Ley 1448 de 2011 deberá entregarse por parte del Ministerio de Justicia y del Derecho a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, quien deberá cumplir con las obligaciones previstas en dicha norma.
 
 (Decreto 4800 de 2011, artículo 175)
 
-ARTÍCULO
-
 ## art:2.2.7.6.7 — Medidas de satisfacción en procesos de retorno o reubicación de víctimas de desplazamiento forzado
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas deberá incorporar medidas de satisfacción dentro de los esquemas especiales de acompañamiento a víctimas de desplazamiento forzado, de acuerdo con el artículo 66 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 176)
-
-ARTÍCULO
 
 ## art:2.2.7.6.8 — Concurrencia del Gobierno Nacional en materia de medidas de satisfacción para víctimas de desaparición forzada o muerte
 
@@ -3711,8 +3267,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 El Director de la Unidad adoptará el trámite, procedimiento, mecanismos, montos y demás lineamientos aplicables, y hará las actualizaciones o ajustes necesarios.
 
 (Decreto 4800 de 2011, artículo 177)
-
-ARTÍCULO
 
 ## art:2.2.7.6.9 — Suspensión de la obligación de prestar el servicio militar
 
@@ -3724,15 +3278,11 @@ Se suscribirá un protocolo entre la Unidad Administrativa Especial y el Ministe
 
 (Decreto 4800 de 2011, artículo 178)
 
-ARTÍCULO
-
 ## art:2.2.7.6.10 — Desacuartelamiento
 
 Las personas que se encuentren prestando el servicio militar y presenten una solicitud de registro ante la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, sólo serán desacuarteladas una vez sean incluidas en el Registro de que trata el Título 2 de la Parte 2 del Libro 2 del presente Decreto.
 
 (Decreto 4800 de 2011, artículo 179)
-
-ARTÍCULO
 
 ## art:2.2.7.6.11 — .11
 
@@ -3744,8 +3294,6 @@ Protocolo para el Intercambio de Información en Materia de Exención de la Obli
 
 (Decreto 4800 de 2011, artículo 180)
 
-ARTÍCULO
-
 ## art:2.2.7.6.12 — Deber de informar
 
 Al momento de realizar la inscripción para el reclutamiento, la persona deberá informar a la autoridad de reclutamiento que se encuentra en trámite su proceso de solicitud de registro o que ya ha sido incluida en el Registro Único de Víctimas, para que el Ministerio de Defensa Nacional proceda a su verificación.
@@ -3753,8 +3301,6 @@ Al momento de realizar la inscripción para el reclutamiento, la persona deberá
 El Ministerio de Defensa ajustará el formato de inscripción para el reclutamiento con el fin de incluir una opción que permita tener información si la persona es víctima en los términos establecido en el artículo 3 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 181)
-
-ARTÍCULO
 
 ## art:2.2.7.6.13 — Término para definir la situación militar
 
@@ -3766,15 +3312,11 @@ Cuando el hecho victimizante hubiese sucedido siendo menor de edad, el término 
 
 (Decreto 4800 de 2011, artículo 182)
 
-ARTÍCULO
-
 ## art:2.2.7.6.14 — Orientación para definición de situación militar
 
 En los Centros Regionales de Atención y Reparación a Víctimas, se orientarán a los destinatarios de la exención respecto del trámite para la definición de su situación militar.
 
 (Decreto 4800 de 2011, artículo 183)
-
-ARTÍCULO
 
 ## art:2.2.7.6.15 — Aceptaciones públicas de los hechos y solicitudes de perdón público
 
@@ -3792,8 +3334,6 @@ PARÁGRAFO 4. Para fomentar la reconciliación, a los actos a que se refiere est
 
 (Decreto 4800 de 2011, artículo 184)
 
-ARTÍCULO
-
 ## art:2.2.7.6.16 — Día Nacional de la Memoria y Solidaridad con las Víctimas
 
 El Centro de Memoria Histórica definirá los eventos que se realizarán el Día Nacional de la Memoria y Solidaridad con las Víctimas, para lo cual concertará con las víctimas, organizaciones de sociedad civil y demás interesados en participar en dichos eventos.
@@ -3802,23 +3342,17 @@ Lo anterior, sin perjuicio de las fechas que se establezcan a nivel regional o m
 
 (Decreto 4800 de 2011, artículo 185)
 
-ARTÍCULO
-
 ## art:2.2.7.6.17 — Autonomía e independencia de la memoria histórica
 
 La memoria histórica es patrimonio público. El Centro de Memoria Histórica, de manera participativa, contribuirá a su acopio, sistematización y difusión y apoyará iniciativas públicas y privadas que autónoma e independientemente aporten a su reconstrucción en perspectiva de consolidación de garantías de no repetición y de reconciliación y de sostenibilidad del legado de los emprendimientos sociales de las víctimas.
 
 (Decreto 4800 de 2011, artículo 186)
 
-ARTÍCULO
-
 ## art:2.2.7.6.18 — Prohibición de censura de la memoria histórica
 
 Las autoridades públicas no censurarán los resultados de los procesos de memoria histórica construidos en el marco de la Ley 1448 de 2011 y cumplirán con su deber de memoria histórica.
 
 (Decreto 4800 de 2011, artículo 187)
-
-ARTÍCULO
 
 ## art:2.2.7.6.19 — Museo de la Memoria
 
@@ -3839,8 +3373,6 @@ El Consejo Directivo del Centro de Memoria Histórica deberá promover la territ
 PARÁGRAFO . Los museos públicos y privados del país permitirán el acceso a sus colecciones, para el estudio y préstamo de material con destino al Museo Nacional de la Memoria, y este garantizará las condiciones de conservación, protección y circulación del patrimonio conforme a los estándares técnicos aplicables.
 
 (Decreto 4800 de 2011, artículo 188)
-
-ARTÍCULO
 
 ## art:2.2.7.6.20 — Componentes del Programa de Derechos Humanos y Memoria Histórica
 
@@ -3866,8 +3398,6 @@ PARÁGRAFO . El Programa se desarrollará en articulación con el Archivo Genera
 
 (Decreto 4800 de 2011, artículo 189)
 
-ARTÍCULO
-
 ## art:2.2.7.6.21 — Articulación con el Sistema Nacional de Archivos
 
 El Centro de Memoria Histórica deberá articularse con el Sistema Nacional de Archivos en materia de función archivística, particularmente sobre los siguientes aspectos:
@@ -3879,8 +3409,6 @@ El Centro de Memoria Histórica deberá articularse con el Sistema Nacional de A
 PARÁGRAFO . Para estos efectos, el Archivo General de la Nación creará un grupo interno de trabajo que, en conjunto con el Centro de Memoria Histórica, desarrolle los lineamientos para la gestión y salvaguarda del patrimonio documental y los archivos referidos a las graves y manifiestas violaciones de Derechos Humanos e infracciones al Derecho Internacional Humanitario ocurridas con ocasión del conflicto armado interno de las que trata la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 191)
-
-ARTÍCULO
 
 ## art:2.2.7.6.22 — De la entrega de archivos
 
@@ -3894,8 +3422,6 @@ CAPÍTULO 7
 
 Prevención, protección y garantías de no repetición
 
-ARTÍCULO
-
 ## art:2.2.7.7.1 — De la prevención
 
 El Estado tiene la obligación de adoptar medidas para evitar la ocurrencia de violaciones de Derechos Humanos e infracciones al Derecho Internacional Humanitario, y para neutralizar o superar las causas y circunstancias que generan riesgo en el marco del conflicto armado interno, y la generación de imaginarios sociales de solución pacífica de conflictos.
@@ -3906,15 +3432,11 @@ La Prevención Urgente tiene lugar en el momento en el que, ante la inminencia d
 
 (Decreto 4800 de 2011, artículo 193)
 
-ARTÍCULO
-
 ## art:2.2.7.7.2 — Garantías de no repetición
 
 Cuando las violaciones graves y manifiestas a las normas internacionales de Derechos Humanos o las infracciones al Derecho Internacional Humanitario ya han sido consumadas, el Estado debe adoptar programas y proyectos de no repetición que incluyan acciones afirmativas, económicas y políticas que desarrollen medidas adecuadas para que las víctimas no vuelvan a ser objeto de violaciones a los Derechos Humanos ni infracciones al Derecho Internacional Humanitario. Estas medidas estarán encaminadas a disolver definitivamente los grupos armados ilegales que persisten, derogar o cambiar disposiciones, dispositivos y conductas que favorezcan la ocurrencia de tales violaciones y continuar fortaleciendo las políticas de promoción y protección de los derechos humanos y aplicación del Derecho Internacional Humanitario en la Fuerza Pública.
 
 (Decreto 4800 de 2011, artículo 194)
-
-ARTÍCULO
 
 ## art:2.2.7.7.3 — Protección
 
@@ -3922,23 +3444,17 @@ El Estado tiene el deber de adoptar medidas especiales para personas, grupos o c
 
 (Decreto 4800 de 2011, artículo 195)
 
-ARTÍCULO
-
 ## art:2.2.7.7.4 — Plan de contingencia
 
 El Estado deberá prever los escenarios, estructurar una organización, definir medidas técnicas y apropiar los recursos, para prevenir y/o brindar una respuesta adecuada y oportuna, a la emergencia humanitaria producida por un desplazamiento masivo.
 
 (Decreto 4800 de 2011, artículo 196)
 
-ARTÍCULO
-
 ## art:2.2.7.7.5 — Mapa de riesgo
 
 Para efectos de los artículos anteriores, el Gobierno Nacional coordinará la elaboración de un Mapa de Riesgos como una herramienta metodológica de identificación del riesgo de comunidades, municipios, organizaciones de víctimas, organizaciones para la restitución de tierras, organizaciones de mujeres y grupos étnicos afectados por el conflicto armado interno y la acción de grupos armados organizados al margen de la ley, que deberán ser priorizados para su protección frente a situaciones de amenaza, pérdida y daño.
 
 (Decreto 4800 de 2011, artículo 197)
-
-ARTÍCULO
 
 ## art:2.2.7.7.6 — De la Red de Observatorios de Derechos Humanos y Derecho Internacional Humanitario
 
@@ -3950,15 +3466,11 @@ PARÁGRAFO . Durante los seis (6) meses siguientes al 20 de diciembre de 2011, e
 
 (Decreto 4800 de 2011, artículo 198)
 
-ARTÍCULO
-
 ## art:2.2.7.7.7 — Objetivos de la Red de Observatorios de Derechos Humanos y Derecho Internacional Humanitario
 
 El objetivo central de la Red de Observatorios consistirá en realizar intercambio y articulación de información, metodologías y análisis estructurales y coyunturales sobre violaciones de derechos humanos e infracciones al Derecho Internacional Humanitario, con el fin de que sirvan de insumo para la toma de decisiones en materia de prevención, protección y garantías de no repetición. Una vez constituida la Red de Observatorios, esta definirá su plan de trabajo anualmente.
 
 (Decreto 4800 de 2011, artículo 199)
-
-ARTÍCULO
 
 ## art:2.2.7.7.8 — Del Sistema de Información del Sistema de Alertas Tempranas
 
@@ -3972,8 +3484,6 @@ PARÁGRAFO 2. Las recomendaciones realizadas por el Ministro del Interior con ba
 
 (Decreto 4800 de 2011, artículo 200)
 
-ARTÍCULO
-
 ## art:2.2.7.7.9 — De los defensores comunitarios
 
 Se fortalecerá el Programa de Defensores Comunitarios de la Defensoría del Pueblo como estrategia de prevención y protección a las víctimas en los términos del artículo 3 de la Ley 1448 de 2011, con el objetivo de desarrollar acciones descentralizadas de promoción, divulgación y protección de los Derechos Humanos e infracciones al Derecho Internacional Humanitario en comunidades altamente vulneradas o vulnerables por el conflicto armado interno.
@@ -3981,8 +3491,6 @@ Se fortalecerá el Programa de Defensores Comunitarios de la Defensoría del Pue
 PARÁGRAFO . El Programa de Defensores Comunitarios implementará estrategias de acompañamiento permanente a comunidades víctimas o en riesgo, en zonas afectadas por el conflicto armado a través del ejercicio y promoción de la acción estatal que permita la prevención y la protección de la población civil, en particular el seguimiento y puesta en marcha de las medidas de protección dirigidas a víctimas en los términos del artículo 3 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 201)
-
-ARTÍCULO
 
 ## art:2.2.7.7.10 — Planes Integrales de Prevención
 
@@ -3998,8 +3506,6 @@ PARÁGRAFO . La Contraloría General de la República, dentro de sus funciones l
 
 (Decreto 4800 de 2011, artículo 202)
 
-ARTÍCULO
-
 ## art:2.2.7.7.11 — Planes de contingencia para atender las emergencias
 
 Los Comités de Justicia Transicional deberán asegurar la elaboración y puesta en marcha de planes de contingencia para atender las emergencias producidas en el marco del conflicto armado interno, con la asesoría y el acompañamiento de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas. El plan de contingencia debe suministrar a los comités las herramientas e instrumentos técnicos que les permitan mejorar su capacidad de respuesta institucional para atender oportuna y eficazmente a la población víctima con el fin de mitigar el impacto producido por estas. Los planes deben ser actualizados anualmente.
@@ -4007,8 +3513,6 @@ Los Comités de Justicia Transicional deberán asegurar la elaboración y puesta
 PARÁGRAFO . Los Planes de Contingencia se deberán actualizar cada año o cuando el Comité de Justicia Transicional y la Unidad Administrativa Especial lo considere pertinente.
 
 (Decreto 4800 de 2011, artículo 203)
-
-ARTÍCULO
 
 ## art:2.2.7.7.12 — De la inclusión de los procesos de retorno y reubicación en los planes de prevención
 
@@ -4018,9 +3522,9 @@ PARÁGRAFO . La Unidad Administrativa Especial para la Atención y Reparación I
 
 (Decreto 4800 de 2011, artículo 204)
 
-## art:2.2 — 7.7.13
+## art:2.2.7.7.13 — De la capacitación de funcionarios públicos
 
-De la capacitación de funcionarios públicos. Incorpórese en el Plan Nacional de Educación en Derechos Humanos a cargo del Ministerio de Educación Nacional, Ministerio Público y el Programa Presidencial para la Protección y Vigilancia de los Derechos Humanos y Derecho Internacional Humanitario, como campo básico, los derechos a la verdad, justicia y reparación integral, el enfoque diferencial, no violencia, reconciliación y paz, que estará dirigido a los servidores públicos en el territorio nacional, para lo cual se deberá diseñar un mecanismo de seguimiento que mida el impacto del mismo.
+Incorpórese en el Plan Nacional de Educación en Derechos Humanos a cargo del Ministerio de Educación Nacional, Ministerio Público y el Programa Presidencial para la Protección y Vigilancia de los Derechos Humanos y Derecho Internacional Humanitario, como campo básico, los derechos a la verdad, justicia y reparación integral, el enfoque diferencial, no violencia, reconciliación y paz, que estará dirigido a los servidores públicos en el territorio nacional, para lo cual se deberá diseñar un mecanismo de seguimiento que mida el impacto del mismo.
 
 El desarrollo de este campo básico en el Plan Nacional de Educación en Derechos Humanos se realizará entre su instancia técnica y la Unidad Administrativa Especial para la Atención y Reparación Integral a Víctimas.
 
@@ -4029,8 +3533,6 @@ PARÁGRAFO 1. Dicha incorporación e implementación deberá priorizar a los fun
 PARÁGRAFO 2. La instancia técnica del Plan Nacional de Educación en Derechos Humanos prestará asistencia técnica a las entidades del nivel nacional para que incorporen en sus programas de inducción, reinducción, formación y entrenamiento de su personal, los temas sobre Derechos Humanos y Derecho Internacional Humanitario.
 
 (Decreto 4800 de 2011, artículo 205)
-
-ARTÍCULO
 
 ## art:2.2.7.7.14 — De la capacitación de los miembros de la Fuerza Pública
 
@@ -4052,15 +3554,11 @@ PARÁGRAFO . Durante los seis (6) meses siguientes al 20 de diciembre de 2011, e
 
 (Decreto 4800 de 2011, artículo 207)
 
-ARTÍCULO
-
 ## art:2.2.7.7.16 — Estrategia nacional de lucha contra la impunidad
 
 El Gobierno Nacional, a través de la Consejería Presidencial para los Derechos Humanos o quien haga sus veces, articulará a las entidades encargadas de la investigación, juzgamiento y sanción de casos de violaciones a los Derechos Humanos e infracciones al Derecho Internacional Humanitario, para el diseño e implementación de una estrategia de lucha contra la impunidad orientada al fortalecimiento institucional para el impulso de investigaciones y el acceso a la justicia, así como para generar espacios de confianza con las víctimas y sus organizaciones. Dicha estrategia será formulada y puesta en marcha en un plazo no mayor a un año contado a partir del 20 de diciembre de 2011, y deberá ser articulada a nivel nacional y territorial.
 
 (Decreto 4800 de 2011, artículo 208)
-
-ARTÍCULO
 
 ## art:2.2.7.7.17 — Estrategia de comunicación para las garantías de no repetición
 
@@ -4076,15 +3574,11 @@ PARÁGRAFO 2. La Unidad Administrativa Especial para la Atención y Reparación 
 
 (Decreto 4800 de 2011, artículo 209)
 
-ARTÍCULO
-
 ## art:2.2.7.7.18 — .18
 
 Declaración del Día Nacional por la Dignidad de las Mujeres víctimas de violencia sexual en el marco del conflicto armado interno. Declárase el 25 de mayo Día Nacional por la Dignidad de las Mujeres Víctimas de Violencia Sexual en el marco del conflicto armado, para reconocer la valentía, trabajo y resistencia de miles de mujeres víctimas de violencia sexual; y que tendrá por objeto reivindicar su dignidad y rechazar este delito.
 
 (Decreto 1480 de 2014, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.7.7.19 — Aplicación
 
@@ -4092,11 +3586,29 @@ El Gobierno Nacional a través de la Alta Consejería Presidencial para la Equid
 
 (Decreto 1480 de 2014, artículo 2)
 
+## art:2.2.7.7.20 — De la pedagogía para la reconciliación y construcción de paz
+
+La Unidad Administrativa Especial para la Atención y Reparación Integral a Víctimas, en un término de ocho (8) meses contados a partir del 20 de diciembre de 2011, en coordinación con el Ministerio de Educación Nacional y el Instituto Colombiano de Bienestar Familiar, diseñará e implementará una pedagogía social para la reconciliación que sea replicada en el territorio nacional.
+
+Dicha pedagogía deberá tener en cuenta los criterios específicos de la población y del territorio al igual que un enfoque diferencial determinado. Se implementará en los diferentes escenarios comunitarios con el apoyo de gobernaciones y alcaldías, así como en los centros comunitarios de rehabilitación y en los centros de encuentro y reconstrucción del tejido social, escuelas públicas y otros escenarios de relación entre las víctimas y el Estado.
+
+Para la construcción de esta pedagogía se tendrán en cuenta las experiencias de las diferentes instituciones que han trabajado en el tema.
+
+(Decreto 4800 de 2011, artículo 210)
+
 ## art:2.2.7.7.21 — Estrategias de garantías de no repetición
 
 La entidad de que trata el artículo 163 de la Ley 1448 de 2011, coordinará la elaboración de una estrategia para el cumplimiento de las medidas establecidas en el artículo 149 de la Ley 1448 de 2011, orientadas a conseguir las garantías de no repetición, y de otras según lo demandado por el artículo 150 de la misma ley, relativas al desmantelamiento de las estructuras económicas y políticas que han dado sustento a los grupos armados al margen de la ley.
 
 (Decreto 4800 de 2011, artículo 211)
+
+## art:2.2.7.7.22 — Del enfoque diferencial en los programas de protección
+
+Los programas de protección tendrán en cuenta aspectos como el género, la edad, la orientación sexual, la posición dentro del hogar, situación socioeconómica, el origen étnico o racial, las creencias religiosas, la salud, las condiciones de discapacidad física y mental, la identidad cultural, la orientación política, el contexto geográfico entre otros para la evaluación del riesgo y la determinación de las medidas de protección.
+
+El Subcomité de Enfoque Diferencial dará los lineamientos técnicos para incorporar el enfoque diferencial en los programas de protección.
+
+(Decreto 4800 de 2011, artículo 212)
 
 ## art:2.2.7.7.23 — Articulación entre los programas de atención y protección
 
@@ -4106,15 +3618,11 @@ En todos los casos, y frente a las diferentes medidas de protección que se asig
 
 (Decreto 4800 de 2011, artículo 213)
 
-ARTÍCULO
-
 ## art:2.2.7.7.24 — Difusión de los programas de protección
 
 Se deberán crear y adoptar estrategias de difusión de los programas en todo el territorio nacional con el apoyo de los entes territoriales, con el fin de que las víctimas los conozcan. Dicha estrategia deberá implementarse en un término de seis (6) meses a partir del 20 de diciembre de 2011.
 
 (Decreto 4800 de 2011, artículo 214)
-
-ARTÍCULO
 
 ## art:2.2.7.7.25 — Capacitación a funcionarios
 
@@ -4126,15 +3634,11 @@ PARÁGRAFO . Las entidades desarrollarán y adoptarán una estrategia de capacit
 
 (Decreto 4800 de 2011, artículo 215)
 
-ARTÍCULO
-
 ## art:2.2.7.7.26 — Informes de los programas de protección
 
 Los Programas de Protección elaborarán informes semestrales de sus actividades, aplicando mecanismos cuantitativos y cualitativos para la evaluación del programa, discriminando la opinión de hombres y mujeres y otros grupos específicos como comunidades afrocolombianas, negras, raizales y palenqueras, indígenas, niños, niñas, adolescentes y jóvenes, personas de la tercera edad y personas con discapacidad, dando cuenta de la cantidad de personas atendidas, la cantidad y clase de medidas otorgadas, el tipo de quejas y la respuesta dada a las mismas. Todos los datos contenidos en el informe deberán estar discriminados de acuerdo con el sexo, personas solicitantes, beneficiarios, medidas concedidas, quejas interpuestas, entre otros. Con base en estos informes se adoptarán anualmente los correctivos que se identifiquen como necesarios.
 
 (Decreto 4800 de 2011, artículo 216)
-
-ARTÍCULO
 
 ## art:2.2.7.7.27 — Mapa de riesgo
 
@@ -4146,8 +3650,6 @@ PARÁGRAFO . El Ministerio de Defensa Nacional diseñará un mecanismo para alim
 
 (Decreto 4800 de 2011, artículo 217)
 
-ARTÍCULO
-
 ## art:2.2.7.7.28 — Protección colectiva
 
 Las entidades competentes a cargo de los Programas de Prevención y Protección definirán de manera participativa las medidas de protección colectiva dirigidas a mitigar el riesgo de comunidades indígenas y afrocolombianas, organizaciones de víctimas y de organizaciones de mujeres, y tendrán en cuenta las necesidades y características particulares tanto culturales, territoriales y de vulnerabilidad que tengan dichas colectividades.
@@ -4155,8 +3657,6 @@ Las entidades competentes a cargo de los Programas de Prevención y Protección 
 La protección colectiva deberá estar articulada con aquellos planes o programas del Estado en materia de seguridad territorial, tales como el Plan Nacional de Consolidación Territorial, en particular, cuando se trate de procesos de restitución de tierras y retornos colectivos.
 
 (Decreto 4800 de 2011, artículo 218)
-
-ARTÍCULO
 
 ## art:2.2.7.7.29 — Condiciones de seguridad en operaciones de retornos y reubicaciones
 
@@ -4174,8 +3674,6 @@ CAPÍTULO 8
 
 De la reparación colectiva
 
-ARTÍCULO
-
 ## art:2.2.7.8.1 — Reparación colectiva
 
 Entiéndase por reparación colectiva el conjunto de medidas a que tienen derecho los sujetos colectivos que hayan sufrido alguno de los eventos definidos en el artículo 151 de la Ley 1448 de 2011, las cuales comprenderán medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, en los componentes político, material y simbólico.
@@ -4188,8 +3686,6 @@ La reparación colectiva ofrecerá especial atención a las necesidades especial
 
 (Decreto 4800 de 2011, artículo 222)
 
-ARTÍCULO
-
 ## art:2.2.7.8.2 — Sujetos de reparación colectiva
 
 Se consideran sujetos de reparación colectiva los grupos y organizaciones sociales, sindicales y políticas y las comunidades que hayan sufrido daños colectivos en los términos del artículo 3 de la Ley 1448 de 2011.
@@ -4199,8 +3695,6 @@ PARÁGRAFO 1. Los pueblos y comunidades indígenas, Rrom, negras, afrocolombiana
 PARÁGRAFO 2. Al Programa de Reparación Colectiva solo podrán acceder los sujetos de reparación colectiva que hayan existido al momento de la ocurrencia de los hechos victimizantes.
 
 (Decreto 4800 de 2011, artículo 223)
-
-ARTÍCULO
 
 ## art:2.2.7.8.3 — Creación del Programa de Reparación Colectiva
 
@@ -4222,8 +3716,6 @@ El Programa de Reparación Colectiva estará conformado por medidas de restituci
 
 (Decreto 4800 de 2011, artículo 224)
 
-ARTÍCULO
-
 ## art:2.2.7.8.4 — Objetivos del Programa de Reparación Colectiva
 
 Los objetivos específicos del Programa de Reparación colectiva son:
@@ -4239,8 +3731,6 @@ Los objetivos específicos del Programa de Reparación colectiva son:
 5. Promoción de la reconciliación y la convivencia pacífica: el Programa promoverá la instauración de nuevas relaciones de confianza entre los ciudadanos y las instituciones del Estado y entre ellos mismos.
 
 (Decreto 4800 de 2011, artículo 225)
-
-ARTÍCULO
 
 ## art:2.2.7.8.5 — Componentes del Programa de Reparación Colectiva
 
@@ -4268,8 +3758,6 @@ PARÁGRAFO . El diálogo participativo es un componente fundamental para la debi
 
 (Decreto 4800 de 2011, artículo 226)
 
-ARTÍCULO
-
 ## art:2.2.7.8.6 — Fase de identificación del sujeto de reparación colectiva
 
 La Unidad Administrativa Especial para la Atención y Reparación a las Víctimas identificará los sujetos de reparación colectiva a través de dos modalidades:
@@ -4284,8 +3772,6 @@ PARÁGRAFO . En la modalidad por oferta del Estado, la Unidad Administrativa Esp
 
 (Decreto 4800 de 2011, artículo 227)
 
-ARTÍCULO
-
 ## art:2.2.7.8.7 — Fase de alistamiento para iniciar la construcción de los Planes Integrales de Reparación Colectiva
 
 Durante esta fase la Unidad Administrativa implementará mecanismos para garantizar la participación de los sujetos de reparación colectiva mediante información oportuna, clara y precisa, así como para la identificación de necesidades y expectativas de reparación, y para la promoción del conocimiento reflexivo sobre el significado, objetivos, componentes y mecanismos de la política de reparación colectiva del Estado colombiano.
@@ -4298,15 +3784,11 @@ PARÁGRAFO 2. La Unidad Administrativa Especial para la Atención y Reparación 
 
 (Decreto 4800 de 2011, artículo 228)
 
-ARTÍCULO
-
 ## art:2.2.7.8.8 — Fase de identificación y diagnóstico de los daños colectivos de los sujetos de reparación colectiva
 
 Con el apoyo técnico de la Unidad Administrativa, se convocará abiertamente a todos los integrantes del sujeto de reparación colectiva, con quienes se definirá una metodología para la identificación y diagnóstico de los hechos, daños, afectaciones, necesidades y expectativas de la reparación colectiva. Este proceso quedará consignado en un acta de caracterización del daño colectivo, que será la base para iniciar la fase de diseño y formulación de las medidas de reparación colectiva.
 
 (Decreto 4800 de 2011, artículo 229)
-
-ARTÍCULO
 
 ## art:2.2.7.8.9 — Fase de diseño y formulación concertada del Plan Integral de Reparación Colectiva
 
@@ -4324,8 +3806,6 @@ PARÁGRAFO 3. Para la concertación de los Planes Integrales de Reparación Cole
 
 (Decreto 4800 de 2011, artículo 230)
 
-ARTÍCULO
-
 ## art:2.2.7.8.10 — Fase de implementación
 
 La implementación de los Planes Integrales de Reparación Colectiva se adelantará pronta y oportunamente por parte de los responsables de su ejecución, de acuerdo con los tiempos y contenidos establecidos en el respectivo Plan.
@@ -4335,8 +3815,6 @@ La Unidad Administrativa coordinará y gestionará los recursos técnicos, logí
 En la implementación de los Planes de reparación colectiva se garantizará la adopción y ejecución de medidas de prevención, protección y seguridad para evitar la revictimización de los sujetos de reparación colectiva.
 
 (Decreto 4800 de 2011, artículo 231)
-
-ARTÍCULO
 
 ## art:2.2.7.8.11 — Seguimiento, evaluación y monitoreo
 
@@ -4350,8 +3828,6 @@ PARÁGRAFO . La Unidad Administrativa promoverá la participación de actores de
 
 (Decreto 4800 de 2011, artículo 232)
 
-ARTÍCULO
-
 ## art:2.2.7.8.12 — Información, divulgación y comunicaciones
 
 La Unidad
@@ -4359,8 +3835,6 @@ La Unidad
 Administrativa Especial para la Atención y Reparación Integral a las Víctimas, diseñará una estrategia de comunicaciones que garantice el acceso de los sujetos de reparación colectiva a las medidas y mecanismos del Programa de Reparación Colectiva.
 
 (Decreto 4800 de 2011, artículo 233)
-
-ARTÍCULO
 
 ## art:2.2.7.8.13 — Complementariedad y coherencia
 
@@ -4378,8 +3852,6 @@ Así mismo, el Programa de Reparación Colectiva procurará articularse con los 
 
 Regulación complementaria sobre los criterios de salida de la reparación administrativa
 
-ARTÍCULO
-
 ## art:2.2.7.9.1 — Objeto
 
 Este capítulo fija los lineamientos generales para establecer los criterios de salida de la reparación administrativa de las víctimas, en sus dimensiones individual y colectiva, cuya medición será realizada por la Unidad para la Atención y Reparación Integral a las Víctimas, de conformidad con lo establecido en el artículo 118 de la Ley 1753 de 2015.
@@ -4387,8 +3859,6 @@ Este capítulo fija los lineamientos generales para establecer los criterios de 
 Las medidas de reparación administrativa que son objeto de esta medición son: la restitución, indemnización, satisfacción y garantías de no repetición, en sus dimensiones individual y colectiva.
 
 PARÁGRAFO . La medida de rehabilitación no es objeto de la medición toda vez que responde a procesos que permanecen en el tiempo y que se brindan de manera preferencial y diferencial a las víctimas del conflicto armado interno.
-
-ARTÍCULO
 
 ## art:2.2.7.9.2 — Criterios de salida de la reparación administrativa individual
 
@@ -4398,15 +3868,11 @@ Se determinará que una víctima ha sido reparada administrativamente una vez se
 
 PARÁGRAFO . Para establecer los criterios se deberán tener en cuenta aquellos bienes y servicios, que conforme a las medidas señaladas en el artículo 69 de la Ley 1448 de 2011, están destinados a reparar individualmente a las víctimas y no como parte de conglomerados sociales o priorización en la oferta social en materia de asistencia.
 
-ARTÍCULO
-
 ## art:2.2.7.9.3 — Criterios de salida de la reparación administrativa de sujetos de reparación colectiva
 
 Un sujeto de reparación colectiva se entenderá reparado administrativamente cuando se ha cumplido con la entrega de los bienes o servicios acordados en el plan integral de reparación colectiva aprobado.
 
 PARÁGRAFO . Cuando la formulación del plan no permita identificar cuáles son sus bienes o servicios, la Unidad Administrativa para la Atención y Reparación Integral a las Víctimas, con la participación de los sujetos de reparación colectiva, realizará las modificaciones necesarias para efectos de los criterios de salida.
-
-ARTÍCULO
 
 ## art:2.2.7.9.4 — Unidad de análisis para la medición de los criterios de salida de reparación administrativa
 
@@ -4416,15 +3882,11 @@ Serán objeto de las medidas de reparación administrativa las víctimas de desp
 
 De conformidad con el artículo 2.2.7.3.4 del Decreto 1084 de 2015, las víctimas incluidas en el RUV por cualquier hecho diferente a los enunciados en dicho artículo, no accederán a la medida de indemnización por vía administrativa, sin perjuicio de que puedan acceder a las demás medidas de reparación administrativa.
 
-ARTÍCULO
-
 ## art:2.2.7.9.5 — Fuentes de Información
 
 La medición de los criterios de salida del derecho a la reparación administrativa en las dimensiones individual y colectiva tendrá en cuenta la información contenida en los registros administrativos con los que cuente la Red Nacional de Información (RNI) de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas.
 
 Será deber de las entidades que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas reportar a la Red Nacional de Información, la información de las solicitudes, bienes y servicios entregados a las víctimas por concepto de medidas de reparación administrativa.
-
-ARTÍCULO
 
 ## art:2.2.7.9.6 — Efectos del cumplimiento de los criterios de reparación
 
@@ -4442,8 +3904,6 @@ CAPÍTULO 1
 
 Comité Ejecutivo
 
-ARTÍCULO
-
 ## art:2.2.8.1.1 — Objetivo
 
 El Comité Ejecutivo para la Atención y Reparación a las Víctimas, como máxima instancia de decisión del Sistema de Atención y Reparación Integral a las Víctimas, adoptará las políticas, estrategias e instrumentos de planificación, gestión, seguimiento y evaluación, con el fin de materializar las medidas para garantizar la atención, asistencia y reparación integral a las víctimas.
@@ -4451,8 +3911,6 @@ El Comité Ejecutivo para la Atención y Reparación a las Víctimas, como máxi
 PARÁGRAFO . Las medidas que se adopten para la aplicación de la presente Parte y las demás medidas administrativas, iniciativas reglamentarias, políticas, estrategias, planes, programas y proyectos tendientes a garantizar la ayuda humanitaria, atención, asistencia y reparación de las víctimas de que trata el artículo 3 de la Ley 1448 de 2011, que tengan impacto fiscal, tendrán que ser adoptadas por el Comité Ejecutivo, previo concepto del Consejo Superior de Política Fiscal, CONFIS.
 
 (Decreto 4800 de 2011, artículo 235)
-
-ARTÍCULO
 
 ## art:2.2.8.1.2 — Presidencia del Comité Ejecutivo para la Atención y Reparación a las Víctimas
 
@@ -4475,8 +3933,6 @@ El Presidente de la República o su delegado presidirán el comité Ejecutivo y 
 PARÁGRAFO . El Comité Ejecutivo se reunirá de forma periódica con organizaciones de derechos humanos y de víctimas con el objeto de hacer seguimiento al contexto de garantías, seguridad y riesgo para las víctimas, en el marco de la implementación de la Ley 1448 de 2011. La Secretaría Técnica del Comité Ejecutivo coordinará la convocatoria y agenda de estas reuniones.
 
 (Decreto 4800 de 2011, artículo 236)
-
-ARTÍCULO
 
 ## art:2.2.8.1.3 — Secretaría Técnica del Comité Ejecutivo para la Atención y Reparación de las Víctimas
 
@@ -4510,8 +3966,6 @@ Comité Ejecutivo y presentarle el informe correspondiente.
 
 (Decreto 4800 de 2011, artículo 237)
 
-ARTÍCULO
-
 ## art:2.2.8.1.4 — De la conformación de los Subcomités Técnicos del Sistema Nacional de Atención y Reparación a las Victimas
 
 De conformidad con lo dispuesto en el parágrafo 1 del artículo 165 de la Ley 1448 de 2011, el Comité Ejecutivo contará con los siguientes subcomités técnicos, en calidad de grupos de trabajo interinstitucional, encargados del diseño e implementación de la política pública de prevención, asistencia, atención y reparación integral a las víctimas.
@@ -4542,8 +3996,6 @@ PARÁGRAFO . El Comité Ejecutivo podrá conformar nuevos subcomités o ajustar 
 
 (Decreto 4800 de 2011, artículo 238)
 
-ARTÍCULO
-
 ## art:2.2.8.1.5 — Responsabilidades de los Subcomités Técnicos
 
 Los subcomités técnicos tendrán las siguientes responsabilidades:
@@ -4563,8 +4015,6 @@ Ejecutivo.
 5. Establecer los lineamientos para la construcción de protocolos, metodologías y procesos que se requieran para la efectiva implementación de las medidas de atención, asistencia y reparación consagradas en la presente Parte y en la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 239)
-
-ARTÍCULO
 
 ## art:2.2.8.1.6 — Funciones de las secretarías técnicas de los Subcomités Técnicos
 
@@ -4589,8 +4039,6 @@ Las secretarías técnicas de los Subcomités Técnicos del Comité Ejecutivo, t
 PARÁGRAFO . Las Secretarías Técnicas de los Subcomités operarán de acuerdo con el plan de trabajo, objetivos y cronograma indicado por la Secretaría Técnica del Comité Ejecutivo.
 
 (Decreto 4800 de 2011, artículo 240)
-
-ARTÍCULO
 
 ## art:2.2.8.1.7 — Conformación de los Subcomités
 
@@ -4802,8 +4250,6 @@ PARÁGRAFO 2. El Ministerio de Hacienda y Crédito Público asistirá a las sesi
 
 1)
 
-ARTÍCULO
-
 ## art:2.2.8.1.8 — 1.8
 
 De la coordinación del sistema a cargo de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Victimas. Entiéndase por coordinación del Sistema Nacional, el conjunto de actividades tendientes a liderar, orientar, movilizar y articular las acciones requeridas para el desarrollo de procesos ordenados y armónicos con carácter sistémico, que permitan garantizar la adecuada y oportuna ejecución de la política pública de prevención, asistencia, atención y reparación integral a las víctimas.
@@ -4811,8 +4257,6 @@ De la coordinación del sistema a cargo de la Unidad Administrativa Especial par
 En desarrollo del ejercicio de coordinación, la Unidad Administrativa Especial de Atención y Reparación a las Víctimas, realizará acciones de seguimiento y evaluación sobre la gestión de las entidades que integran el Sistema, generará los informes y las alertas necesarias para que el Comité Ejecutivo efectúe oportunamente los ajustes y correctivos requeridos, con el fin de garantizar el cumplimiento de los objetivos, las metas, y los resultados de la ejecución del Plan Nacional de Atención y Reparación Integral a las Víctimas, y el Conpes de Financiación a que se refiere el artículo 19 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 242)
-
-ARTÍCULO
 
 ## art:2.2.8.1.9 — 1.9
 
@@ -4840,8 +4284,6 @@ De las funciones en materia de coordinación nacional del Sistema, a cargo de la
 
 (Decreto 4800 de 2011, artículo 243)
 
-ARTÍCULO
-
 ## art:2.2.8.1.10 — Del Plan Nacional de Atención y Reparación Integral a las Victimas
 
 Adóptese el Plan Nacional de Atención y Reparación Integral a las Víctimas, el cual estará compuesto por el conjunto de políticas, lineamientos, normas, procesos, planes, instituciones e instancias contenidas en los decretos 4800, 4829 de 2011, 0790 de 2012, y las normas que los modifiquen, adicionen o deroguen, así como en los documentos CONPES 3712 de 2011 y 3726 de 2012.
@@ -4862,15 +4304,11 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.1 — Articulación Nación-Territorio
 
 Se entiende por articulación Nación-Territorio la relación estratégica entre las entidades nacionales y territoriales, con el propósito de prevenir, asistir, atender y reparar integralmente a las víctimas en los términos del artículo 3 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 244)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.2 — Convenio Plan
 
@@ -4881,8 +4319,6 @@ Para efectos de la articulación Nación-Territorio se podrá suscribir un Conve
 SECCIÓN 2
 
 Entidades nacionales
-
-ARTÍCULO
 
 ## art:2.2.8.2.2.1 — Ministerio del Interior
 
@@ -4898,8 +4334,6 @@ Son funciones del Ministerio del Interior en materia de articulación, en lo ref
 
 (Decreto 4800 de 2011, artículo 246)
 
-ARTÍCULO
-
 ## art:2.2.8.2.2.2 — Ministerio de Justicia y del Derecho
 
 Teniendo en cuenta que tiene como objetivo formular, adoptar, dirigir, coordinar y ejecutar la política pública sobre mecanismos de Justicia Transicional, cumplirá las siguientes funciones en materia de articulación:
@@ -4913,8 +4347,6 @@ Teniendo en cuenta que tiene como objetivo formular, adoptar, dirigir, coordinar
 4. En conjunto con el Ministerio del Interior, acompañar a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, en la instalación, conformación y funcionamiento de los Comités Territoriales de Justicia Transicional.
 
 (Decreto 4800 de 2011, artículo 247)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2.3 — 2.3
 
@@ -4944,8 +4376,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 
 (Decreto 4800 de 2011, artículo 248)
 
-ARTÍCULO
-
 ## art:2.2.8.2.2.4 — Departamento Nacional de Planeación
 
 Son funciones del Departamento Nacional de Planeación en materia de articulación:
@@ -4961,8 +4391,6 @@ Son funciones del Departamento Nacional de Planeación en materia de articulaci�
 SECCIÓN 3
 
 Entidades territoriales
-
-ARTÍCULO
 
 ## art:2.2.8.2.3.1 — Departamentos
 
@@ -4990,8 +4418,6 @@ PARÁGRAFO . Los Departamentos deberán diseñar, implementar, hacer seguimiento
 
 (Decreto 4800 de 2011, artículo 250)
 
-ARTÍCULO
-
 ## art:2.2.8.2.3.2 — Distritos y municipios
 
 Para garantizar la prevención, la asistencia, la atención y la reparación integral de las víctimas, los distritos y los municipios tendrán las siguientes funciones, en materia de articulación:
@@ -5017,8 +4443,6 @@ PARÁGRAFO . Los distritos y los municipios deberán diseñar, implementar, hace
 SECCIÓN 4
 
 Instancias de articulación
-
-ARTÍCULO
 
 ## art:2.2.8.2.4.1 — Comités Territoriales de Justicia Transicional
 
@@ -5054,8 +4478,6 @@ Comités Territoriales de Prevención.
 
 (Decreto 4800 de 2011, artículo 252)
 
-ARTÍCULO
-
 ## art:2.2.8.2.4.2 — Funcionamiento de los Comités Territoriales de Justicia Transicional
 
 En relación con el funcionamiento de los Comités Territoriales de Justicia Transicional departamentales, distritales y municipales, deberán ejecutarse las siguientes obligaciones:
@@ -5082,8 +4504,6 @@ CAPÍTULO 3
 
 Sistema de corresponsabilidad y herramientas para la articulación
 
-ARTÍCULO
-
 ## art:2.2.8.3.1 — Planes de acción territorial para la asistencia, atención y reparación integral de las víctimas
 
 Los planes de acción territorial contemplan las medidas de asistencia, atención y reparación integral de las víctimas. Los planes serán elaborados por los departamentos, municipios y distritos con la participación de las víctimas. Deben ser coherentes con el Plan Nacional de Atención y Reparación Integral a las Víctimas y con los Planes de Desarrollo Territoriales. Contendrán como mínimo, la caracterización de las víctimas de la respectiva jurisdicción que considerará los distintos hechos victimizantes, la asignación presupuestal correspondiente, así como el mecanismo de seguimiento y de evaluación con metas e indicadores.
@@ -5108,21 +4528,15 @@ SECCIÓN 1
 
 Estrategia de Corresponsabilidad para la política pública dirigida a las víctimas del conflicto armado
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.1 — Ámbito de aplicación
 
 La presente Sección se aplicará a las entidades públicas que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas (SNARIV), encargadas de formular y/o ejecutar los planes, programas, proyectos y acciones específicas tendientes a la prevención, protección, atención, asistencia y reparación integral a las personas que individual o colectivamente hayan sufrido un daño con ocasión del conflicto armado interno, en los términos de lo dispuesto en el artículo 3 de la Ley 1448 de 2011.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.2 — Objeto
 
 La presente Sección tiene por objeto adoptar una estrategia de corresponsabilidad entre la Nación y las entidades territoriales, que posibilite la aplicación de los principios de coordinación, subsidiariedad y concurrencia establecidos en el artículo 27 de la Ley 1454 de 2011, así como el ejercicio de las competencias de las entidades públicas en los distintos niveles de gobierno, en relación con la política pública dirigida a las víctimas del conflicto armado interno, para el goce efectivo de los derechos de la población objeto de esta política.
 
 La estrategia de corresponsabilidad incluye los procesos para garantizar la coordinación de las acciones y los recursos de las entidades públicas nacionales y territoriales, a través de la aplicación de los principios de concurrencia y subsidiaridad.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.3 — Alcance
 
@@ -5134,15 +4548,11 @@ Subsidiaridad: en cuanto principio, la subsidiariedad se aplicará con respecto 
 
 Concurrencia: la concurrencia se aplicará a las competencias en las cuales dos o más niveles de gobierno deben garantizar de manera conjunta las medidas definidas por las disposiciones relativas a la política pública dirigida a las víctimas, cuando así esté establecido.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.4 — 1.4
 
 Incorporación de la política pública para las víctimas del conflicto armado interno en los planes territoriales de desarrollo. En cumplimiento del artículo 174 de la Ley 1448 de 2011, en la formulación y aprobación de sus planes de desarrollo, las entidades territoriales incluirán como componentes fundamentales la prevención, protección, atención, asistencia y reparación integral a las víctimas del conflicto armado. Para ello, de acuerdo con sus competencias, en la parte estratégica del Plan, especificarán el diagnóstico de la población víctima y definirán los programas y metas de la política pública para las víctimas. Además, en el plan plurianual de inversiones, establecerán los recursos con los cuales se financiarán y ejecutarán dichos programas y se alcanzarán esas metas.
 
 PARÁGRAFO . Para garantizar la ejecución de la política territorial de víctimas, el cumplimiento de las metas establecidas y asegurar la suficiencia y sostenibilidad de las fuentes de financiación, las disposiciones del plan territorial de desarrollo en materia de prevención, protección, atención, asistencia y reparación integral a las víctimas del conflicto armado serán incorporadas cada año en el Plan Operativo Anual de Inversiones (POAI), en el presupuesto y en los planes de acción de la entidad territorial. Así mismo, será objeto del monitoreo y el seguimiento que la entidad territorial debe realizar sobre el avance de su Plan de Desarrollo
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.5 — Formulación del Plan de Acción Territorial para la Atención, Asistencia y Reparación Integral a las víctimas (PAT)
 
@@ -5151,8 +4561,6 @@ Las entidades territoriales diseñarán el Plan de Acción Territorial (PAT) a p
 El Plan de Acción Territorial (PAT) deberá especificar, además de lo dispuesto en el inciso 1 del artículo 2.2.8.3.1. del presente Decreto, los programas y proyectos de la entidad territorial para la prevención, protección, atención, asistencia y reparación integral a las víctimas del conflicto armado, e incluir las metas y recursos anualizados para garantizar el goce efectivo de derechos. Dichas metas y recursos serán indicativos para los cuatro (4) años siguientes a la adopción del PAT. según lo definido en el Plan Territorial de Desarrollo.
 
 PARÁGRAFO . Además de lo dispuesto en el artículo 2.2.8.3.3. del presente Decreto, el Plan de Acción Territorial (PAT) deberá estar coordinado en cada vigencia con los programas, metas y recursos incluidos en el POAI y en el Presupuesto de la entidad territorial, y con las metas y planes definidos por el Gobierno nacional en el Plan Nacional de Desarrollo. Este Plan deberá articular todos los demás planes que desarrollen los componentes de la política pública dirigida a las víctimas, tales como el Plan de Retornos y Reubicaciones, el Plan de Reparación Colectiva, el Plan de Prevención, el Plan de Contingencia, el Plan de Acción contra Minas Antipersonal y el Plan Operativo de Sistemas de Información. Estos planes serán construidos de acuerdo con las necesidades, al contexto territorial y a las disposiciones legales vigentes.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.6 — Tablero PAT
 
@@ -5167,8 +4575,6 @@ PARÁGRAFO 2. Para el diligenciamiento de la herramienta, las entidades territor
 Los compromisos registrados en el Tablero PAT son un insumo para la regionalización de los proyectos de inversión de las entidades nacionales del Sistema Nacional de Atención y Reparación Integral a las Víctimas, y hacen parte del ajuste anual de los planes de acción de cada entidad territorial.
 
 PARÁGRAFO 3. Esta herramienta entrará en funcionamiento el primer semestre del 2016, previo proceso de divulgación y capacitación a las entidades de los distintos niveles de gobierno. La Unidad para la Atención y Reparación Integral a las Víctimas y el Ministerio del Interior serán los responsables de la divulgación y el seguimiento de la herramienta.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.7 — Identificación anual de las necesidades de la población víctima y compromisos por cada nivel de gobierno
 
@@ -5188,13 +4594,9 @@ PARÁGRAFO 2. Las acciones establecidas en el presente artículo deberán estar 
 
 PARÁGRAFO 3. La información utilizada por las entidades territoriales para identificar las necesidades de la población víctima del conflicto deberá tener en cuenta los protocolos definidos por la Red Nacional de Información.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.8 — Programación del presupuesto para la ejecución anual del Plan de Acción Territorial (PAT)
 
 En la elaboración y aprobación de su presupuesto, los departamentos, municipios y distritos deberán garantizar los recursos necesarios para el cumplimento de los compromisos adquiridos en los planes de acción territorial, con base en la aplicación de los principios de concurrencia y subsidiariedad.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.9 — Adopción del ajuste anual de los planes de acción territorial
 
@@ -5202,13 +4604,9 @@ En sesión que deberá realizarse antes del 31 de diciembre de cada año, el Com
 
 Este proceso de adopción deberá realizarse con la participación de las víctimas del conflicto armado legamente elegidas en las mesas de participación de cada nivel.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.10 — Armonización del ajuste anual del Plan de Acción Territorial con el Plan de Desarrollo
 
 Con el fin de garantizar la debida coherencia y armonización entre el ajuste anual del Plan de Acción Territorial aprobado en la vigencia anterior y el nuevo Plan Territorial de Desarrollo, en el primer año del periodo de gobierno las entidades territoriales podrán realizar las adecuaciones necesarias al Plan de Acción Territorial, así como los ajustes presupuestales que se requieran para el cumplimiento de los compromisos adquiridos.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.11 — Aplicación de los principios de coordinación, subsidiariedad y concurrencia para el ejercicio de las competencias
 
@@ -5216,15 +4614,11 @@ Además de lo dispuesto en los numerales 1, 2 y 3 del artículo 27 de la Ley 145
 
 La aplicación de tales principios por parte de las entidades públicas que conforman el SNARIV estará sujeta al marco fiscal de mediano plazo vigente, el principio de sostenibilidad fiscal y el principio de autonomía presupuestal de las entidades territoriales.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.12 — Aplicación del Principio de Coordinación
 
 Todas las entidades del nivel nacional y territorial, que son competentes para garantizar el goce efectivo de los derechos de las personas que individual o colectivamente han sufrido daños con ocasión del conflicto armado interno, deberán desarrollar y ejecutar sus actuaciones de forma articulada, armónica y coherente.
 
 Las actuaciones de los niveles nacional y departamental, que busquen prevenir, proteger, atender, asistir y reparar a la población víctima del conflicto armado interno asentada en los diferentes municipios y distritos, siempre deberán ser coordinadas con la respectiva gobernación; informadas al alcalde municipal desde su programación, y armonizadas para su ejecución con las administraciones municipales, teniendo en cuenta las dinámicas, las necesidades específicas y las capacidades del respectivo territorio.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.13 — Aplicación del Principio de Subsidiariedad
 
@@ -5240,15 +4634,11 @@ PARÁGRAFO 2. Si la falta de capacidad de un municipio o distrito en materia de 
 
 La aplicación de estas solicitudes extraordinarias estará sujeta al marco fiscal de mediano plazo vigente, el principio de sostenibilidad fiscal y el principio de autonomía presupuestal de las entidades territoriales.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.14 — Aplicación del Principio de Concurrencia
 
 Se aplicará el principio de concurrencia cuando existan competencias compartidas para la prestación de bienes o servicios en los diferentes niveles de gobierno.
 
 PARÁGRAFO . La identificación de la necesidad de concurrencia por parte de las entidades territoriales y las entidades nacionales se realizará a través de la herramienta Tablero PAT, en los términos establecidos en el artículo 2.2.8.3.1.7.del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.15 — Criterios para la aplicación de los principios de Subsidiariedad y Concurrencia
 
@@ -5256,13 +4646,9 @@ Los criterios generales para la aplicación de los principios de subsidiariedad 
 
 Las entidades nacionales integrantes del SNARIV, con base en los criterios generales, podrán definir las condiciones específicas para la aplicación de los principios de subsidiariedad y concurrencia, de acuerdo con sus competencias. Esta información deberá remitirse a la Unidad para la Atención y Reparación Integral a las Víctimas, en calidad de entidad coordinadora del Sistema.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.16 — Regionalización del presupuesto de inversión de las entidades nacionales
 
 Además de lo dispuesto en el parágrafo 1 del artículo 2.2.6.5.6.3 y el artículo 2.2.8.3.5 del presente Decreto, y con el fin de garantizar el cumplimiento del principio de concurrencia, las entidades del orden nacional del SNARIV, en la formulación de los proyectos de inversión pública, tendrán en cuenta las necesidades de los municipios y distritos contenidas en el Tablero PAT.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.17 — Delegación
 
@@ -5272,15 +4658,11 @@ En el convenio que se suscriba se establecerán las funciones delegadas, los der
 
 La aplicación de la figura de la delegación estará sujeta al marco fiscal de mediano plazo vigente, al principio de sostenibilidad fiscal y al principio de autonomía presupuestal.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.18 — Inversión presupuestal de las entidades territoriales en otra entidad territorial
 
 De conformidad con lo dispuesto en el artículo 183 de la Ley 1450 de 2011, las entidades territoriales podrán realizar inversiones presupuestales en otras entidades territoriales, para prevenir el desplazamiento forzado, apoyar los retornos y reubicaciones y garantizar los derechos de las víctimas de este delito.
 
 Para este efecto, las entidades territoriales suscribirán los respectivos convenios en los que se determinen las responsabilidades a cargo de cada entidad territorial y los recursos disponibles.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.19 — Coordinación de la intervención para la asistencia técnica territorial
 
@@ -5290,15 +4672,11 @@ La asistencia técnica a la que se refiere el presente artículo deberá ser int
 
 PARÁGRAFO . La estrategia de intervención territorial se concretará en un plan anual de fortalecimiento de las capacidades territoriales. Para la elaboración de dicho plan, el Ministerio del Interior contará con el apoyo del Equipo Interinstitucional de Asistencia Técnica Territorial establecido en el artículo 2.2.8.3.7 del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.20 — Plan de Mejoramiento de los municipios y distritos
 
 Cuando las administraciones municipales reciban recursos por la aplicación del principio de subsidiariedad, relacionarán en los planes de mejoramiento de que trata el artículo 2.2.8.3.8 del presente Decreto, las acciones que acuerden con las gobernaciones y la entidad del orden nacional para fortalecer su capacidad institucional en materia de gestión de la política pública de prevención, protección, atención, asistencia y reparación integral a las víctimas.
 
 PARÁGRAFO . El Ministerio del Interior, en coordinación con la Unidad para la Atención y Reparación Integral a las víctimas, brindará apoyo en la elaboración del plan y realizará seguimiento a la ejecución del mismo.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.21 — Alianzas estratégicas
 
@@ -5306,13 +4684,9 @@ Las entidades territoriales podrán suscribir alguno de los esquemas asociativos
 
 PARÁGRAFO . El Ministerio del Interior, en conjunto con el Departamento Nacional de Planeación, diseñará e implementará estrategias para la promoción, sostenibilidad y gestión de estos esquemas asociativos. Igualmente, las entidades del Sistema Nacional de Atención y Reparación Integral a las Víctimas, en el marco de la gestión territorial de la política pública dirigida a las víctimas, podrán realizar convenios con dichos esquemas asociativos.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.22 — Seguimiento a la estrategia de corresponsabilidad
 
 El seguimiento a la estrategia de corresponsabilidad consiste en la verificación del grado de corresponsabilidad generado entre los niveles del gobierno para la garantía de los derechos de la población víctima del conflicto armado. El Ministerio del Interior, en coordinación con la Unidad para la Atención y Reparación Integral a las Víctimas, realizará en el primer trimestre de cada año, el seguimiento a la implementación de la estrategia de corresponsabilidad en la vigencia anterior. Para el efecto, definirá la metodología correspondiente.
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.23 — Instrumentos para el seguimiento
 
@@ -5320,27 +4694,19 @@ Para el seguimiento anual de la implementación de la presente Sección, se util
 
 PARÁGRAFO . El Departamento Nacional de Planeación, mediante la aplicación de la Fórmula Individualizadora, establecerá anualmente las entidades territoriales que tienen capacidad de inversión y un alto 'número de población víctima, y que no obstante no asignan recursos para su atención. Este reporte se enviará al Ministerio del Interior y a la Unidad para la Atención y Reparación Integral a las Víctimas a más tardar el 31 de julio de cada año, como insumo para la elaboración de los planes de mejoramiento de las entidades territoriales referidos en el artículo 2.2.8.3.8 del presente Decreto, con el objeto de que se adopten las medidas específicas para incrementar el compromiso territorial.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.24 — .24
 
 Seguimiento a los compromisos que asumieron las entidades nacionales, departamentales y municipales en los planes de acción territorial. Las entidades nacionales, municipales y departamentales informarán semestralmente en el Tablero PAT, la ejecución de sus compromisos en cumplimiento de la aplicación de los principios subsidiariedad y concurrencia. De acuerdo con lo dispuesto en el artículo 2.2.8.2.4.2 del presente Decreto, el Comité Territorial de Justicia Transicional realizará seguimiento a estos compromisos.
 
 Las entidades nacionales deberán reportar en el Tablero PAT el cumplimento de los compromisos adquiridos en los planes de acción territorial, en las siguientes fechas: i) treinta (30) de julio de cada vigencia fiscal para el reporte del primer semestre y ii) treinta (30) de enero de cada vigencia fiscal, para la información del año anterior de manera acumulada.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.25 — Adopción del Modelo Territorial
 
 Las entidades territoriales deberán adoptar el modelo de la estrategia de corresponsabilidad, a partir de la definición que hagan de los criterios y procedimientos para la aplicación de los principios de subsidiariedad y concurrencia en su jurisdicción. Para esto, contarán con la asistencia técnica del Ministerio del Interior y la Unidad para la Atención y Reparación Integral a las Víctimas.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.26 — Transición
 
 El Ministerio del Interior y la Unidad para la Atención y Reparación Integral a las Víctimas definirán, dentro de los tres (3) meses siguientes a la entrada en vigencia de la - presente Sección, el proceso para la aplicación de los principios de subsidiariedad y concurrencia que regirá en la vigencia 2016.
-
-ARTÍCULO
 
 ## art:2.2.8.3.2 — Vigencia de los Planes de Acción Territoriales
 
@@ -5352,15 +4718,11 @@ PARÁGRAFO . Los planes de acción pueden ser elaborados entre 2 o más entidade
 
 (Decreto 4800 de 2011, artículo 255)
 
-ARTÍCULO
-
 ## art:2.2.8.3.3 — 3.3
 
 De la articulación del Plan Nacional de Atención y Reparación Integral a las Victimas con los Planes de Acción Territorial. Las entidades territoriales deberán adoptar o ajustar, según sea el caso, su Plan de Acción Territorial atendiendo los objetivos, metas, componentes y mecanismos de seguimiento definidos en el Plan Nacional de Atención y Reparación Integral a las Víctimas. Los mandatarios locales deberán apropiar los recursos suficientes en los Planes Operativos Anuales de Inversión para la ejecución del mismo.
 
 (Decreto 1725 de 2012, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.8.3.4 — Articulación en el nivel territorial
 
@@ -5369,8 +4731,6 @@ Para lograr la articulación de la oferta los departamentos, distritos y municip
 Las gobernaciones formularán los planes de acción departamentales, teniendo en cuenta las necesidades establecidas en los planes de acción de los distritos y municipios bajo su jurisdicción, de tal manera que se adecue la oferta del departamento a las necesidades de sus distritos y municipios; y de acuerdo con su capacidad fiscal y la de sus municipios.
 
 (Decreto 4800 de 2011, artículo 256)
-
-ARTÍCULO
 
 ## art:2.2.8.3.5 — Articulación en el nivel nacional
 
@@ -5382,15 +4742,11 @@ Para lograr una articulación efectiva de la oferta, se determinarán los mecani
 
 (Decreto 4800 de 2011, artículo 257)
 
-ARTÍCULO
-
 ## art:2.2.8.3.6 — De la estrategia de acompañamiento
 
 La estrategia de acompañamiento de las entidades nacionales a las territoriales, que deberá diseñar la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, tendrá el objetivo de asistir, acompañar permanentemente y apoyar a las entidades territoriales, para el fortalecimiento de capacidades técnicas, administrativas y presupuestales, para el diseño de planes, programas y proyectos para la prevención, asistencia, atención y reparación integral de las víctimas. Para la formulación, implementación, seguimiento y evaluación de esta estrategia, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, se apoyará en el equipo interinstitucional.
 
 (Decreto 4800 de 2011, artículo 258)
-
-ARTÍCULO
 
 ## art:2.2.8.3.7 — Equipo interinstitucional
 
@@ -5403,8 +4759,6 @@ El equipo interinstitucional deberá definir de forma conjunta sus funciones en 
 PARÁGRAFO . Para la realización de las funciones de este equipo, cada una de las entidades que lo conforman, asignará los recursos humanos y financieros requeridos.
 
 (Decreto 4800 de 2011, artículo 259)
-
-ARTÍCULO
 
 ## art:2.2.8.3.8 — Mecanismos de seguimiento y evaluación
 
@@ -5470,15 +4824,11 @@ CAPÍTULO 1
 
 De la participación efectiva de las víctimas
 
-ARTÍCULO
-
 ## art:2.2.9.1.1 — Participación
 
 Se entiende por participación aquel derecho de las víctimas a informarse, intervenir, presentar observaciones, recibir retroalimentación y coadyuvar de manera voluntaria, en el diseño de los instrumentos de implementación, seguimiento y evaluación de las disposiciones previstas en la Ley 1448 de 2011 y los planes, programas y proyectos implementados para fines de materializar su cumplimiento.
 
 (Decreto 4800 de 2011, artículo 261)
-
-ARTÍCULO
 
 ## art:2.2.9.1.2 — Participación efectiva
 
@@ -5489,8 +4839,6 @@ Todas las entidades del Sistema Nacional de Atención y Reparación Integral a l
 De conformidad con los numerales 5 y 10 del artículo 168 de la Ley 1448 de 2011, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas y las Alcaldías, Distritos y Gobernaciones tienen el deber de garantizar los recursos técnicos, logísticos y presupuestales necesarios que aseguren la creación y sostenimiento de las Mesas de Participación de las víctimas de todos los niveles.
 
 (Decreto 4800 de 2011, artículo 262)
-
-ARTÍCULO
 
 ## art:2.2.9.1.3 — Espacios de participación de las víctimas
 
@@ -5522,8 +4870,6 @@ PARÁGRAFO 2. Los espacios de participación relacionados en el presente artícu
 
 (Decreto 4800 de 2011, artículo 263)
 
-ARTÍCULO
-
 ## art:2.2.9.1.4 — Mesas de participación
 
 Son los espacios de trabajo temático y de participación efectiva de las víctimas, destinados para la discusión, interlocución, retroalimentación, capacitación y seguimiento de las disposiciones contenidas en la Ley 1448 de 2011.
@@ -5538,15 +4884,11 @@ PARÁGRAFO . Las víctimas no organizadas tendrán derecho a la participación e
 
 (Decreto 4800 de 2011, artículo 264)
 
-ARTÍCULO
-
 ## art:2.2.9.1.5 — Organizaciones de víctimas
 
 Se entenderá como organizaciones de víctimas aquellos grupos conformados en el territorio colombiano, bien sea a nivel municipal o distrital, departamental y nacional, por personas que individual o colectivamente hayan sufrido daños en los términos establecidos en el artículo 3 de la Ley 1448 de 2011. Las organizaciones a que se refiere este artículo, existen y obtienen su reconocimiento por el solo hecho de su constitución.
 
 (Decreto 4800 de 2011, artículo 265)
-
-ARTÍCULO
 
 ## art:2.2.9.1.6 — Organizaciones defensoras de los derechos de las víctimas
 
@@ -5554,15 +4896,11 @@ Se entenderá como organizaciones defensoras de los derechos de las víctimas, a
 
 (Decreto 4800 de 2011, artículo 266)
 
-ARTÍCULO
-
 ## art:2.2.9.1.7 — Voceros
 
 Serán voceros, las víctimas designadas por los participantes de las mesas temáticas, en cada una de sus sesiones, para fines de articular, de forma ordenada y fluida, la interlocución con los demás actores del proceso conforme al procedimiento consignado en el Protocolo de Participación Efectiva.
 
 (Decreto 4800 de 2011, artículo 267)
-
-ARTÍCULO
 
 ## art:2.2.9.1.8 — Representantes
 
@@ -5573,8 +4911,6 @@ Serán representantes, las víctimas elegidas por los participantes de las mesas
 CAPÍTULO 2
 
 De la inscripción
-
-ARTÍCULO
 
 ## art:2.2.9.2.1 — Periodo y proceso de inscripción
 
@@ -5589,8 +4925,6 @@ Cada año, durante el periodo de inscripción, las organizaciones de víctimas y
 PARÁGRAFO . La inscripción a que se refiere el parágrafo 1 del artículo 193 de la Ley 1448 de 2011, se entiende gratuita, declarativa y no constitutiva.
 
 (Decreto 4800 de 2011, artículo 269)
-
-ARTÍCULO
 
 ## art:2.2.9.2.2 — Requisitos para la inscripción de las organizaciones de víctimas
 
@@ -5609,8 +4943,6 @@ PARÁGRAFO 1. Las Personerías y la Defensoría del Pueblo constatarán la exist
 PARÁGRAFO 2. No habrá número límite de inscripción para las organizaciones de víctimas. En el caso de la inscripción y registro de las organizaciones a nivel departamental, se deberá acreditar, además de encontrarse inscritas en una mesa municipal, que la organización ha desarrollado previamente trabajo, intervenciones o acciones en dos o más municipios dentro de la jurisdicción departamental respectiva.
 
 (Decreto 4800 de 2011, artículo 270)
-
-ARTÍCULO
 
 ## art:2.2.9.2.3 — Requisitos para la inscripción de las organizaciones defensoras de derechos de las víctimas
 
@@ -5636,15 +4968,11 @@ PARÁGRAFO 2. En el caso de la inscripción de las organizaciones defensoras de 
 
 (Decreto 4800 de 2011, artículo 271)
 
-ARTÍCULO
-
 ## art:2.2.9.2.4 — Formulario de inscripción
 
 La Defensoría del Pueblo diseñará y pondrá a disposición de las personerías y defensorías regionales el formulario de inscripción, en el cual se solicitará como mínimo la información general de la organización y los datos de contacto de una persona delegada para el efecto por la organización respectiva mediante acta.
 
 (Decreto 4800 de 2011, artículo 272)
-
-ARTÍCULO
 
 ## art:2.2.9.2.5 — Ficha técnica
 
@@ -5658,8 +4986,6 @@ CAPÍTULO 3
 
 De las mesas de participación de víctimas
 
-ARTÍCULO
-
 ## art:2.2.9.3.1 — Mesas de participación municipales y distritales
 
 Son espacios temáticos de participación efectiva de las víctimas en el ámbito municipal y distrital, las cuales se conformarán a partir de la inscripción realizada en cada jurisdicción municipal y distrital, con las organizaciones de víctimas y las organizaciones defensoras de los derechos de las víctimas.
@@ -5667,8 +4993,6 @@ Son espacios temáticos de participación efectiva de las víctimas en el ámbit
 PARÁGRAFO . En aquellos municipios y distritos con población mayor a un millón (1.000.000) de habitantes se podrán conformar, a instancias de los entes territoriales municipales y distritales, espacios de participación locales.
 
 (Decreto 4800 de 2011, artículo 274)
-
-ARTÍCULO
 
 ## art:2.2.9.3.2 — Mesas de participación departamentales
 
@@ -5678,8 +5002,6 @@ PARÁGRAFO . En aquellos departamentos con más de sesenta (60) municipios se po
 
 (Decreto 4800 de 2011, artículo 275)
 
-ARTÍCULO
-
 ## art:2.2.9.3.3 — Mesa de participación nacional
 
 Es el espacio temático de participación efectiva de las víctimas a nivel nacional y se conformará con un vocero elegido por cada una de las mesas departamentales.
@@ -5688,23 +5010,17 @@ PARÁGRAFO . En ningún caso una organización participante tendrá derecho a m�
 
 (Decreto 4800 de 2011, artículo 276)
 
-ARTÍCULO
-
 ## art:2.2.9.3.4 — Articulación de las mesas de participación con otros espacios de participación
 
 Las mesas de participación deberán estar articuladas con los demás espacios de participación, con el fin de que los insumos de estas mesas tengan injerencia en las decisiones que tomen las autoridades locales, regionales y nacionales en cuanto a la elaboración, ejecución y evaluación de la política pública.
 
 (Decreto 4800 de 2011, artículo 277)
 
-ARTÍCULO
-
 ## art:2.2.9.3.5 — Convocatorias especiales
 
 Las Mesas de Participación, en sus diferentes niveles, podrán convocar e invitar a las víctimas no organizadas, a los representantes de entidades oficiales, a la sociedad civil, a representantes de la cooperación internacional o a delegados de otras mesas, para fines de desarrollar la agenda prevista por sus integrantes y la secretaría técnica.
 
 (Decreto 4800 de 2011, artículo 278)
-
-ARTÍCULO
 
 ## art:2.2.9.3.6 — Funciones de las mesas
 
@@ -5728,8 +5044,6 @@ PARÁGRAFO . Las entidades públicas que reciban observaciones por parte de las 
 
 (Decreto 4800 de 2011, artículo 279)
 
-ARTÍCULO
-
 ## art:2.2.9.3.7 — Elección de los representantes de las víctimas en los espacios de decisión y seguimiento nacional
 
 Se convocará a la primera reunión de la Mesa Nacional de Participación de Víctimas, una vez se haya conformado la inscripción de organizaciones a que se refieren los artículos precedentes. Para esta primera reunión cada mesa departamental de participación deberá enviar un vocero para elegir, de los candidatos que postulen las mesas departamentales, los representantes de las víctimas, principales y suplentes, en el Consejo Directivo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, en el Comité Ejecutivo para la Atención y Reparación a las Víctimas, en la Comisión de Seguimiento y Monitoreo, y en el Consejo Directivo del Centro de Memoria Histórica.
@@ -5737,8 +5051,6 @@ Se convocará a la primera reunión de la Mesa Nacional de Participación de Ví
 Cada mesa departamental podrá postular hasta tres (3) candidatos para que representen a las víctimas en las instancias mencionadas en el inciso anterior. Estos candidatos deberán ser miembros de las organizaciones que pertenecen a la mesa departamental respectiva y no podrán ser los voceros elegidos para la primera reunión de la Mesa Nacional de Participación de Víctimas.
 
 (Decreto 4800 de 2011, artículo 280)
-
-ARTÍCULO
 
 ## art:2.2.9.3.8 — Elección de los representantes de las víctimas en las instancias de decisión y seguimiento territorial
 
@@ -5748,15 +5060,11 @@ Transicional.
 
 (Decreto 4800 de 2011, artículo 281)
 
-ARTÍCULO
-
 ## art:2.2.9.3.9 — Proceso de designación de voceros y elección de representantes
 
 El proceso de designación de voceros y representantes en las diferentes instancias de participación de las víctimas será determinado en el protocolo de participación y deberá observar y garantizar la equidad de género y demás implicaciones del enfoque diferencial.
 
 (Decreto 4800 de 2011, artículo 282)
-
-ARTÍCULO
 
 ## art:2.2.9.3.10 — Incorporación a las mesas de participación de las organizaciones de población desplazada
 
@@ -5768,23 +5076,17 @@ PARÁGRAFO 2. Durante el primer año de funcionamiento de las Mesas de Participa
 
 (Decreto 4800 de 2011, artículo 283)
 
-ARTÍCULO
-
 ## art:2.2.9.3.11 — Capacitación de los miembros de las organizaciones de víctimas
 
 Una vez instaladas las Mesas de Participación en todos los niveles, La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas implementará, a través de estos espacios de participación, programas de capacitación sobre la Ley 1448 de 2011, especialmente en el tema de la participación efectiva de las víctimas y fortalecimiento de las capacidades de liderazgo y representación de las víctimas.
 
 (Decreto 4800 de 2011, artículo 284)
 
-ARTÍCULO
-
 ## art:2.2.9.3.12 — Preparación del protocolo de participación efectiva
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, con la concurrencia de los entes territoriales del nivel departamental, distrital, municipal y la participación de las víctimas, diseñará el Protocolo de Participación Efectiva de las Víctimas de acuerdo con los principios y lineamientos definidos en la Ley 1448 de 2011, lo difundirá y velará por su aplicación y cumplimiento en los ámbitos municipal, departamental y nacional.
 
 (Decreto 4800 de 2011, artículo 285)
-
-ARTÍCULO
 
 ## art:2.2.9.3.13 — Criterios para la construcción del protocolo de participación efectiva
 
@@ -5818,8 +5120,6 @@ El Protocolo de Participación Efectiva es el instrumento que establece las gara
 
 (Decreto 4800 de 2011, artículo 286)
 
-ARTÍCULO
-
 ## art:2.2.9.3.14 — De la Secretaría Técnica
 
 Los personeros en el orden municipal o distrital, las defensorías regionales en el orden departamental y la Defensoría del Pueblo en el orden nacional, tendrán que ejercer la Secretaría Técnica de las Mesas de Participación de víctimas los respectivos niveles. El alcance de su actuación está determinado por un conjunto de acciones de organización, control, apoyo y seguimiento dirigidas a facilitar el proceso de participación efectiva de las víctimas, de modo que se garantice su efectiva y oportuna vinculación a los espacios de participación creados para estos efectos por la Ley 1448 de 2011.
@@ -5831,8 +5131,6 @@ PARÁGRAFO . En observancia de los principios de concurrencia, complementariedad
 Así mismo, corresponde a las organizaciones que integran las respectivas mesas de participación y a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, apoyar y, en la medida de lo posible, acompañar las labores ejercidas por la Secretaría Técnica.
 
 (Decreto 4800 de 2011, artículo 287)
-
-ARTÍCULO
 
 ## art:2.2.9.3.15 — Funciones de la Secretaría Técnica
 
@@ -5862,8 +5160,6 @@ TÍTULO 10
 
 De los bienes y la articulación con el proceso de justicia y paz
 
-ARTÍCULO
-
 ## art:2.2.10.1 — Recursos provenientes de procesos de extinción de dominio
 
 Dentro de los seis (6) meses siguientes al 20 de diciembre de 2011, el Consejo Nacional de Estupefacientes, a instancia del Ministerio de Justicia y del Derecho, determinará mediante acto administrativo la cuantía o porcentajes de los recursos provenientes de los procesos de extinción de dominio, entendidos como los recursos en dinero y los recursos resultantes de la enajenación de bienes muebles o inmuebles, respecto de los cuales se haya declarado la extinción de dominio a favor de la Nación, que se destinarán al Fondo para la Reparación de las Víctimas. Para este efecto, el Ministerio de Justicia y del Derecho, en el marco de las sesiones que realice el Consejo Nacional de Estupefacientes, garantizará la participación e interlocución efectiva con la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas. Las cuantías o porcentaje que se determinen podrán actualizarse y ajustarse periódicamente.
@@ -5872,23 +5168,17 @@ El acto administrativo que se expida en virtud de lo dispuesto en el presente ar
 
 (Decreto 4800 de 2011, artículo 289)
 
-ARTÍCULO
-
 ## art:2.2.10.2 — Delegación de administración de bienes
 
 La Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas podrá delegar las funciones relativas a la administración de bienes distintos a los inmuebles rurales, en las entidades territoriales o entidades del orden nacional del sector descentralizado. En todo caso, tales delegaciones tendrán la estricta supervisión y seguimiento por parte de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas y de los Comités Territoriales de Justicia Transicional respectivos.
 
 (Decreto 4800 de 2011, artículo 290)
 
-ARTÍCULO
-
 ## art:2.2.10.3 — Régimen de inversión de los recursos del fondo para la reparación de las víctimas
 
 Para efectos de la inversión de los recursos que ingresen al Fondo para la Reparación de las Víctimas, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas deberá ajustarse a lo establecido en el Decreto 1525 de 2008, o en las normas que lo modifiquen, adicionen, sustituyan o compilen.
 
 (Decreto 4800 de 2011, artículo 291)
-
-ARTÍCULO
 
 ## art:2.2.10.4 — Cooperación internacional
 
@@ -5897,8 +5187,6 @@ El Comité Ejecutivo para la Atención y Reparación a las Víctimas gestionará
 Para estos efectos, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas creará un sistema de información que le permita establecer un banco de proyectos.
 
 (Decreto 4800 de 2011, artículo 292)
-
-ARTÍCULO
 
 ## art:2.2.10.5 — Sumas recaudadas por donaciones voluntarias a favor del fondo para la reparación de las víctimas
 
@@ -5914,23 +5202,17 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 
 (Decreto 4800 de 2011, artículo 293)
 
-ARTÍCULO
-
 ## art:2.2.10.6 — Donaciones a favor del fondo para la reparación de las víctimas
 
 Las donaciones a que se refiere el artículo 177 de la Ley 1448 de 2011 tendrán los beneficios tributarios establecidos en el Estatuto Tributario y demás normas concordantes, para lo cual la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas expedirá la certificación correspondiente al donante y atenderá los demás requisitos que establezcan las normas que rigen la materia.
 
 (Decreto 4800 de 2011, artículo 294)
 
-ARTÍCULO
-
 ## art:2.2.10.7 — Multas y condenas económicas por organizar, promover, armar o financiar a grupos armados al margen de la ley
 
 La autoridad de la jurisdicción coactiva o la autoridad judicial competente, deberá requerir o solicitar la participación de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas en los incidentes o procesos donde se resuelva acerca de la imposición o cobro de las multas y condenas a que se refieren los literales a), e) y f) del inciso 2 del artículo 177 de la Ley 1448 de 2011.
 
 (Decreto 4800 de 2011, artículo 295)
-
-ARTÍCULO
 
 ## art:2.2.10.8 — Aprobación del Comité Ejecutivo
 
@@ -5946,15 +5228,11 @@ CAPÍTULO 1
 
 Condición de desplazado
 
-ARTÍCULO
-
 ## art:2.2.11.1.1 — De la condición de desplazado
 
 Es desplazado toda persona que se ha visto forzada a migrar dentro del territorio nacional, abandonando su localidad de residencia o actividades económicas habituales, porque su vida, su integridad física, su seguridad o libertad personales han sido vulneradas o se encuentran directamente amenazadas, con ocasión de cualquiera de las siguientes situaciones: conflicto armado interno, disturbios y tensiones interiores, violencia generalizada, violaciones masivas de los Derechos Humanos, infracciones al Derecho Internacional Humanitario u otras circunstancias emanadas de las situaciones anteriores que puedan alterar o alteren drásticamente el orden público.
 
 (Decreto 2569 de 2000, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.11.1.2 — Cesación de la condición de desplazado
 
@@ -5968,8 +5246,6 @@ CAPÍTULO 2
 
 Del Registro Único de Población Desplazada
 
-ARTÍCULO
-
 ## art:2.2.11.2.1 — De la no inscripción
 
 Sin perjuicio de lo dispuesto en el artículo 2.2.2.3.14 del presente Decreto, la entidad en la que se haya delegado la inscripción, no efectuará la inscripción en el registro de quien solicita la condición de desplazado, cuando existan razones objetivas y fundadas para concluir que de la misma no se deduce la existencia de las circunstancias de hecho previstas en el artículo 1 de la Ley 387 de 1997.
@@ -5982,8 +5258,6 @@ CAPÍTULO 3
 
 De la atención humanitaria de emergencia
 
-ARTÍCULO
-
 ## art:2.2.11.3.1 — Prohibición de limitaciones
 
 Se prohíbe cualquier tipo de restricción al paso de ayuda humanitaria para la población desplazada. La fuerza pública deberá garantizar el oportuno paso de la ayuda a sus destinatarios. Las acciones culposas o dolosas de las autoridades relacionadas con la distribución de la ayuda de emergencia serán objeto de investigación disciplinaria, y sancionadas de conformidad con la ley.
@@ -5993,8 +5267,6 @@ Se prohíbe cualquier tipo de restricción al paso de ayuda humanitaria para la 
 CAPÍTULO 4
 
 De la estabilización socioeconómica
-
-ARTÍCULO
 
 ## art:2.2.11.4.1 — De la estabilización socioeconómica
 
@@ -6017,8 +5289,6 @@ Plan Nacional para la Atención Integral a la Población Desplazada por la Viole
  Adopción del plan. A partir del 8 de febrero de 2005, adoptase en todas sus partes el Plan Nacional para la Atención Integral a la Población Desplazada por la Violencia.
 
 (Decreto 250 de 2005, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.11.5.2 — Fuente de los recursos
 
@@ -6660,8 +5930,6 @@ CAPÍTULO 6
 
 Medidas tendientes a facilitar la inscripción en el Registro Civil de Nacimiento y expedición de documentos de identificación de las personas desplazadas por la violencia ocasionada por el conflicto armado interno
 
-ARTÍCULO
-
 ## art:2.2.11.6.1 — Inscripción en el registro civil de nacimiento de las personas víctimas de desplazamiento forzado
 
 Mientras subsistan hechos de desplazamiento generados por violencia, en los términos establecidos en la Ley 387 de 1997, los funcionarios encargados del registro civil que ejerzan sus funciones en los municipios donde estén ubicados los desplazados por la violencia, efectuarán, a nombre del funcionario competente del lugar en que ocurrió el nacimiento, el trámite de inscripción en el registro civil de nacimiento de las personas afectadas que carezcan de éste; del mismo modo se diligenciarán las solicitudes de documentos de identificación.
@@ -6674,23 +5942,17 @@ PARÁGRAFO . En los eventos de desplazamientos masivos se efectuarán jornadas e
 
 (Decreto 290 de 1999, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.11.6.2 — 6.2
 
 Expedición por primera vez o solicitud de duplicado de documentos de identificación de víctimas de desplazamiento forzado. En cuanto a la expedición por primera vez o solicitud de duplicado de documentos de identificación de personas desplazadas por la violencia y demás procedimientos previstos en el presente Capítulo, la Registraduría Nacional del Estado Civil dará prelación a dicho trámite, el cual no tendrá ningún costo para los solicitantes.
 
 (Decreto 290 de 1999, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.11.6.3 — Cruces de información
 
 Una vez realizada la inscripción, la Dirección Nacional del Registro Civil hará los cruces de información, con el fin de detectar las posibles dobles inscripciones o identificaciones, y procederá a cancelar una de las dos, dejando la otra vigente, para lo cual se adelantarán las averiguaciones pertinentes.
 
 (Decreto 290 de 1999, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.11.6.4 — Sanciones por adulteración de información referente al registro civil
 
@@ -6706,23 +5968,17 @@ La adulteración de cualquier información referente al registro civil por parte
 
 EJECUCIÓN DEL PROGRAMA DE PROTECCIÓN SOCIAL AL ADULTO MAYOR - COLOMBIA MAYOR.
 
-ARTÍCULO
-
 ## art:2.2.14.7.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la ejecución del Programa de Protección Social al Adulto Mayor -Colombia Mayor por el Departamento Administrativo para la Prosperidad Social, en cumplimiento del parágrafo 2 del artículo 5 del Decreto Legislativo 812 de 2020.
 
 (Modificado por el Art. 2 del Decreto 696 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.14.7.2 — Ejecución del Programa de Protección Social al Adulto Mayor - Colombia Mayor-
 
 En cumplimiento del parágrafo 2 del artículo 5 del Decreto Legislativo 812 de 2020, el Programa de Protección Social al Adulto Mayor -Colombia Mayor- será ejecutado por el Departamento Administrativo para la Prosperidad Social, cuyas funciones estarán detalladas en las normas que regulen el objeto y estructura de esta entidad.
 
 (Modificado por el Art. 2 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.14.7.3 — Presupuesto del Programa de Protección Social al Adulto Mayor - Colombia Mayor
 
@@ -6744,23 +6000,17 @@ TÍTULO 1
 
 Sistema Nacional de Planeación, Coordinación y Seguimiento para la Política Nacional de Consolidación y Reconstrucción Territorial
 
-ARTÍCULO
-
 ## art:2.3.1.1 — Creación
 
 Créase el Sistema Nacional de Planeación, Coordinación y Seguimiento para la Política Nacional de Consolidación y Reconstrucción Territorial, como instancia de planeación, articulación, coordinación, seguimiento y evaluación de la Política Nacional de Consolidación y Reconstrucción Territorial-PNCRT.
 
 (Decreto 1894 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.2 — Objeto
 
 Articular las entidades que integran la administración pública, a efectos de tomar decisiones, planear, hacer seguimiento, y evaluar los avances de la Política Nacional de Consolidación y Reconstrucción Territorial y su impacto en las zonas focalizadas.
 
 (Decreto 1894 de 2013, artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3 — Conformación
 
@@ -6840,8 +6090,6 @@ Despojadas.
 
 (Decreto 1894 de 2013, artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.4 — Instancias
 
 El Sistema Nacional de Planeación, Coordinación y Seguimiento para la Política Nacional de Consolidación y Reconstrucción Territorial tendrá las siguientes instancias:
@@ -6857,8 +6105,6 @@ El Sistema Nacional de Planeación, Coordinación y Seguimiento para la Polític
 PARÁGRAFO . En la conformación del Consejo de Seguridad Nacional, se tendrá en cuenta las disposiciones contenidas en la Ley 1444 de 2011, así como las demás modificaciones introducidas a la estructura de la administración pública. Cuando se traten temas estratégicos de la Política Nacional de Consolidación y Reconstrucción Territorial en las sesiones del Consejo de Seguridad Nacional serán invitados permanentes el Director del Departamento Administrativo para la Prosperidad Social y el Director de la Unidad Administrativa Especial para la Consolidación Territorial.
 
 (Decreto 1894 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.5 — Conformación de la instancia de dirección y evaluación
 
@@ -6881,8 +6127,6 @@ PARÁGRAFO 2. El Comité Directivo se reunirá una (01} vez cada seis (06} meses
 PARÁGRAFO 3. La participación de los miembros no se podrá delegar.
 
 (Decreto 1894 de 2013, artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.1.6 — Conformación de la instancia de planeación y seguimiento
 
@@ -7018,8 +6262,6 @@ PARÁGRAFO 5. Los Comités para la Consolidación y Reconstrucción Territorial 
 
 (Decreto 1894 de 2013, artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.7 — Distribución y conformación de la instancia de desarrollo técnico
 
 Cada uno de los Comités para la Consolidación y Reconstrucción Territorial, contará con un Subcomité Técnico, el cual se constituirá en un grupo de trabajo interinstitucional integrado por un delegado técnico de cada uno de los miembros de los respectivos Comités.
@@ -7041,8 +6283,6 @@ PARÁGRAFO 1. Los Comités para la Consolidación y Reconstrucción Territorial 
 PARÁGRAFO 2. La coordinación y articulación de los subcomités técnicos estará a cargo de la Unidad Administrativa Especial para la Consolidación Territorial.
 
 (Decreto 1894 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.8 — Funciones del Sistema
 
@@ -7066,8 +6306,6 @@ Política Nacional de Consolidación y Reconstrucción Territorial.
 
 (Decreto 1894 de 2013, artículo 8)
 
-ARTÍCULO
-
 ## art:2.3.1.9 — Funciones del Comité Directivo
 
 Serán funciones del Comité
@@ -7089,8 +6327,6 @@ Nacional de Consolidación y Reconstrucción Territorial.
 6. Hacer acompañamiento a las iniciativas normativas relevantes propuestas por las diferentes entidades en el marco del Sistema Nacional para la Política Nacional de Consolidación y Reconstrucción Territorial.
 
 (Decreto 1894 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.3.1.10 — Funciones de los comités para la consolidación y reconstrucción territorial
 
@@ -7130,8 +6366,6 @@ Consolidación Territorial.
 
 (Decreto 1894 de 2013, artículo 10)
 
-ARTÍCULO
-
 ## art:2.3.1.11 — Funciones de los Subcomités Técnicos
 
 Son funciones de los Subcomités Técnicos, las siguientes:
@@ -7147,8 +6381,6 @@ Son funciones de los Subcomités Técnicos, las siguientes:
 Reconstrucción Territorial.
 
 (Decreto 1894 de 2013, artículo 11)
-
-ARTÍCULO
 
 ## art:2.3.1.12 — Funciones de la secretaría técnica
 
@@ -7182,8 +6414,6 @@ Consolidación y Reconstrucción Territorial.
 
 (Decreto 1894 de 2013, artículo 12)
 
-ARTÍCULO
-
 ## art:2.3.1.13 — Herramientas para la articulación
 
 La Unidad Administrativa Especial para la Consolidación Territorial elaborará los Planes de Acción Regionales de la PNCRT para cada una de las zonas focalizadas, con la participación de los departamentos y municipios. Estos planes contendrán como mínimo las actividades estratégicas para la política, con la estimación presupuestal correspondiente, así como el mecanismo de seguimiento y de evaluación con metas e indicadores. Estos planes deben ser coherentes con los Planes de Desarrollo Territoriales y con las condiciones de seguridad del territorio.
@@ -7193,8 +6423,6 @@ PARÁGRAFO 1. Para cada vigencia fiscal, las entidades del nivel nacional presen
 PARÁGRAFO 2. Para lograr una articulación efectiva de la oferta, se determinarán los mecanismos que permitan garantizar la disponibilidad de recursos para atender la flexibilización de la oferta nacional, y el ajuste de los proyectos de inversión nacional y territorial a que haya lugar.
 
 (Decreto 1894 de 2013, artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.1.14 — Herramientas para el seguimiento
 
@@ -7216,15 +6444,11 @@ TÍTULO 2
 
 Zonas y municipios de intervención de la Política Nacional de Consolidación y Reconstrucción Territorial - PNCRT
 
-ARTÍCULO
-
 ## art:2.3.2.1 — Identificación de municipios
 
 La identificación de los municipios que hacen parte de la Política Nacional de Consolidación y Reconstrucción Territorial -PNCRT-. se realiza a partir de criterios e información relacionada con la seguridad nacional.
 
 (Decreto 2332 de 2013, artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.2.2 — Índice de Consolidación Territorial
 
@@ -7232,15 +6456,11 @@ La Unidad Administrativa para la consolidación Territorial, construirá el índ
 
 (Decreto 2332 de 2013, artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.2.3 — Revisión zonas de consolidación
 
 La Unidad Administrativa Especial para la Consolidación Territorial revisará anualmente o cada vez que el Consejo de Seguridad Nacional lo determine, las zonas de intervención, para la inclusión o graduación de municipios en la Política Nacional de Consolidación y Reconstrucción Territorial -PNCRT-, con base en los criterios de seguridad nacional.
 
 (Decreto 2332 de 2013, artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.2.4 — Zonas y municipios de intervención
 
@@ -8052,8 +7272,6 @@ SALINA
 
 (Decreto 2332 de 2013, artículo 4, modificado por el Decreto 536 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.2.5 — Esfuerzo Gradual-Básico
 
 La intervención en el Esfuerzo Gradual- Básico estará sujeta a la disponibilidad presupuestal.
@@ -8068,8 +7286,6 @@ TÍTULO 1
 
 Sistema Nacional de Bienestar Familiar - SNBF
 
-ARTÍCULO
-
 ## art:2.4.1.1 — Objeto y campo de aplicación
 
 El presente Título tiene por objeto la reorganización del Sistema Nacional de Bienestar Familiar, en cuanto se refiere a su integración y sus funciones, así como, desarrollar la función de articulación del Sistema Nacional de Bienestar Familiar a cargo del Instituto Colombiano de Bienestar Familiar con las entidades responsables de la garantía de los derechos de niños, niñas y adolescentes, la prevención de su vulneración, la protección y el restablecimiento de los mismos, en los ámbitos nacional, departamental, distrital, municipal, como ente rector del Sistema Nacional de Bienestar Familiar.
@@ -8078,15 +7294,11 @@ El presente Título se aplicará a todas las entidades del Estado que formulan, 
 
 (Decreto 936 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.2 — Sistema Nacional de Bienestar Familiar
 
 El Sistema Nacional de Bienestar Familiar es el conjunto de agentes, instancias de coordinación y articulación y de relaciones existentes entre estos para dar cumplimiento a la protección integral de los niños, niñas y adolescentes y el fortalecimiento familiar en los ámbitos nacional, departamental, distrital, municipal.
 
 (Decreto 936 de 2013 artículo 2)
-
-ARTÍCULO
 
 ## art:2.4.1.3 — Servicio Público de Bienestar Familiar
 
@@ -8094,15 +7306,11 @@ Se entiende como Servicio Público de Bienestar Familiar el conjunto de acciones
 
 (Decreto 936 de 2013. Artículo 3)
 
-ARTÍCULO
-
 ## art:2.4.1.4 — Grados de Adscripción
 
 Los grados de adscripción y vinculación se rigen por las respectivas disposiciones estatutarias del ICBF.
 
 (Decreto 2388 de 1979, artículo 11)
-
-ARTÍCULO
 
 ## art:2.4.1.5 — Actividades relacionadas con los Agentes del SNBF
 
@@ -8110,23 +7318,17 @@ Las actividades que realicen las entidades mencionadas en el Artículo 2.4.1.10.
 
 (Decreto 2388 de 1979, artículo 12)
 
-ARTÍCULO
-
 ## art:2.4.1.6 — Aplicación de las normas del SNBF
 
 Todos los organismos instituciones, agencias o entidades de carácter público o privado, que cumplan actividades de las mencionadas en el artículo 2.4.1.10., deberán ceñirse a las normas del Sistema Nacional de Bienestar Familiar.
 
 (Decreto 2388 de 1979, artículos 27)
 
-ARTÍCULO
-
 ## art:2.4.1.7 — Principios rectores del Sistema Nacional de Bienestar Familiar
 
 El Sistema Nacional de Bienestar Familiar está regido por las normas constitucionales de garantía de los derechos de niños, niñas y adolescentes, y de prevalencia de los derechos de la niñez, establecidos en el artículo 44 de la Carta Política; por la Ley 12 de 1991, por medio de la cual se adopta la Convención sobre los Derechos del Niño de la Asamblea General de las Naciones Unidas; por los principios de protección integral, interés superior de los niños, las niñas y los adolescentes, prevalencia de los derechos, corresponsabilidad, exigibilidad de los derechos y perspectiva de género, consagrados en los artículos 7, 8, 9, 10, 11 y 12 de la Ley 1098 de 2006 y por los principios rectores de las políticas públicas de infancia, adolescencia y familia previstos en el artículo 203 de la misma ley.
 
 (Decreto 936 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.4.1.8 — Objetivos del Sistema Nacional de Bienestar Familiar
 
@@ -8144,15 +7346,11 @@ En el marco de la necesaria articulación y coordinación, los objetivos del Sis
 
 (Decreto 936 de 2013, artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.1.9 — Esquema de Operación del Sistema Nacional de Bienestar Familiar
 
 En el marco de la necesaria articulación y coordinación, el Sistema Nacional de Bienestar Familiar operará en los ámbitos nacional, departamental, distrital y municipal congregando en instancias de decisión, operación, desarrollo técnico y participación a los agentes públicos, privados, de la sociedad civil, comunitarios, del tercer sector y de la cooperación nacional e internacional que hacen parte del mismo. Además, se establecerán planes de acción anual en los distintos ámbitos con el fin de organizar las acciones de los integrantes del sistema en torno al cumplimiento de los objetivos mencionados en el artículo 2.4.1.8. del presente Decreto. La coordinación del Sistema Nacional de Bienestar Familiar la realizará el Instituto Colombiano de Bienestar Familiar apoyándose en las siguientes instancias de operación: el Comité Ejecutivo del Sistema Nacional de Bienestar Familiar en el ámbito nacional y las mesas de infancia, adolescencia y familia de los consejos territoriales de política social en los ámbitos departamental, distrital y municipal.
 
 (Decreto 936 de 2013, artículo 6)
-
-ARTÍCULO
 
 ## art:2.4.1.10 — Agentes del Sistema Nacional de Bienestar Familiar
 
@@ -8278,8 +7476,6 @@ PARÁGRAFO 2. La Procuraduría General de la Nación, la Contraloría General de
 
 (Decreto 936 de 2013, artículo 7)
 
-ARTÍCULO
-
 ## art:2.4.1.11 — Funciones de las direcciones regionales del ICBF
 
 Las direcciones regionales del ICBF, encargadas de dirigir el Sistema a nivel regional, tienen, entre otras, las siguientes funciones:
@@ -8302,15 +7498,11 @@ Las direcciones regionales del ICBF, encargadas de dirigir el Sistema a nivel re
 
 (Decreto 2388 de 1979, artículo 21)
 
-ARTÍCULO
-
 ## art:2.4.1.12 — De los Centros Zonales
 
 A los Centros Zonales dentro de su jurisdicción o nivel, les corresponde ejercer funciones de ejecución, y además realizar las actividades que internamente les deleguen las Direcciones Regionales.
 
 (Decreto 2388 de 1979, artículo 24)
-
-ARTÍCULO
 
 ## art:2.4.1.13 — De la Delegación en los servicios regionales y municipales
 
@@ -8318,15 +7510,11 @@ La delegación en los servicios regionales y municipales prestados a través de 
 
 (Decreto 2388 de 1979, artículo 26)
 
-ARTÍCULO
-
 ## art:2.4.1.14 — De los recursos destinados para los programas
 
 De conformidad con lo dispuesto en el artículo 4 de la Ley 27 de 1974 los recursos destinados por las entidades públicas para los programas del Instituto, no podrán suspenderse ni disminuirse.
 
 (Decreto 2388 de 1979, artículo 28)
-
-ARTÍCULO
 
 ## art:2.4.1.15 — Instancias del Sistema Nacional de Bienestar Familiar
 
@@ -8370,8 +7558,6 @@ PARÁGRAFO 3. En desarrollo de las funciones de Secretaría Técnica del Consejo
 
 (Decreto 936 de 2013, artículo 8)
 
-ARTÍCULO
-
 ## art:2.4.1.16 — Conformación del Comité Ejecutivo del Sistema Nacional de Bienestar Familiar
 
 El Comité Ejecutivo del Sistema Nacional de Bienestar Familiar estará conformado por un delegado oficial del nivel directivo de las siguientes entidades e instancias:
@@ -8391,8 +7577,6 @@ El Comité Ejecutivo del Sistema Nacional de Bienestar Familiar estará conforma
 PARÁGRAFO . La Secretaría Técnica del Comité Ejecutivo del Sistema Nacional de Bienestar Familiar será ejercida por la Dirección del Sistema Nacional de Bienestar Familiar del Instituto Colombiano de Bienestar Familiar.
 
 (Decreto 936 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.4.1.17 — Funciones del Comité Ejecutivo del Sistema Nacional de Bienestar Familiar
 
@@ -8422,15 +7606,11 @@ PARÁGRAFO . Para el cumplimiento de sus funciones, el Comité Ejecutivo del Sis
 
 (Decreto 936 de 2013, artículo 10)
 
-ARTÍCULO
-
 ## art:2.4.1.18 — De la duplicidad de funciones en la prestación de servicios
 
 El Instituto Colombiano de Bienestar Familiar adoptará las medidas administrativas necesarias para evitar la duplicidad de funciones en la prestación de servicio.
 
 (Decreto 2388 de 1979, artículo 7)
-
-ARTÍCULO
 
 ## art:2.4.1.19 — Coordinación y Concurrencia de los Integrantes del Sistema Nacional de Bienestar Familiar
 
@@ -8439,8 +7619,6 @@ Los integrantes del Sistema Nacional de Bienestar Familiar actuarán de manera p
 En virtud del principio de concurrencia, los integrantes del sistema se apoyarán mutuamente en la atención de todos los requerimientos del servicio, con el concurso de los destinatarios de las acciones para la infancia y la adolescencia.
 
 (Decreto 936 de 2013, artículo 11}
-
-ARTÍCULO
 
 ## art:2.4.1.20 — Responsabilidades Generales de los Agentes del Ámbito Nacional del Sistema Nacional de Bienestar Familiar
 
@@ -8464,8 +7642,6 @@ PARÁGRAFO . Las responsabilidades específicas de cada entidad integrante del S
 
 (Decreto 936 de 2013, artículo 12)
 
-ARTÍCULO
-
 ## art:2.4.1.21 — Responsabilidades de los Departamentos, Distritos y Municipios en el Sistema Nacional de Bienestar Familiar
 
 Corresponde a los Departamentos, Distritos y Municipios como integrantes del Sistema Nacional de Bienestar Familiar:
@@ -8480,15 +7656,11 @@ Corresponde a los Departamentos, Distritos y Municipios como integrantes del Sis
 
 (Decreto 936 de 2013, artículo 13)
 
-ARTÍCULO
-
 ## art:2.4.1.22 — De las dificultades en la prestación del servicio
 
 En caso de violación de las normas legales del Sistema que interfieran la prestación normal del servicio, el ICBF procederá a tomar la dirección de dicho servicio, hasta tanto subsistan las causas que la motivaron.
 
 (Decreto 2388 de 1979, artículo 13)
-
-ARTÍCULO
 
 ## art:2.4.1.23 — .23
 
@@ -8528,15 +7700,11 @@ Política Social.
 
 (Decreto 936 de 2013, artículo 14)
 
-ARTÍCULO
-
 ## art:2.5.1.24 — Aprobación del presupuesto anual
 
 Le corresponde a la junta directiva del ICBF aprobar el presupuesto anual que deben elaborar las Direcciones Regionales, y vigilar y controlar administrativamente su ejercicio.
 
 (Decreto 2388 de 1979, artículo 22)
-
-ARTÍCULO
 
 ## art:2.4.1.25 — Sujeción del ICBF a las Políticas y Planes del Estado
 
@@ -8548,15 +7716,11 @@ TÍTULO 2
 
 Sistema de protección de la niñez y la adolescencia
 
-ARTÍCULO
-
 ## art:2.4.2.1 — De la Competencia
 
 Compete a los organismos y autoridades del Estado, cumplir y hacer cumplir, en sus respectivas áreas de competencia, las normas que para la protección de la niñez y adolescencia colombiana que consagran las Leyes 7 de 1979 y 1098 de 2006, y demás normas complementarias y concordantes.
 
 (Decreto 2388 de 1979, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.2.2 — De las normas aplicables
 
@@ -8564,15 +7728,11 @@ Respecto de la protección al menor de 18 años, los organismos y autoridades se
 
 (Decreto 2388 de 1979, artículo 2)
 
-ARTÍCULO
-
 ## art:2.4.2.3 — Protección al niño, niña o adolescente
 
 Por protección al niño, niña o adolescente con vulneración de derechos, se entiende el conjunto de actividades continuas encaminadas a proporcionarle una atención preventiva y especial, y por realización e integración armónica de la familia, el conjunto de actividades tendientes a lograr su fortalecimiento social, de acuerdo con los artículos del 2.4.2.4 al 2.4.2.13 y del 2.4.3.3.5.1 al 2.4.3.3.5.9 de este Decreto.
 
 (Decreto 2388 de 1979, artículo 5)
-
-ARTÍCULO
 
 ## art:2.4.2.4 — Concepto de familia
 
@@ -8580,23 +7740,17 @@ Se entiende por familia el grupo de personas, unidas por vínculo de sangre, de 
 
 (Decreto 2388 de 1979, artículo 51)
 
-ARTÍCULO
-
 ## art:2.4.2.5 — De la Protección de la niñez y la adolescencia a cargo del Estado
 
 El ICBF establecerá programas tendientes al fortalecimiento de la familia, mediante acciones continuas de orientación, educación, tratamiento y asesoría nutricional y socio-jurídica a la misma.
 
 (Decreto 2388 de 1979, artículo 52)
 
-ARTÍCULO
-
 ## art:2.4.2.6 — Concepto de protección al niño, niña o adolescente
 
 Por protección al niño, niña o adolescente, se entiende el conjunto de actividades continuas y permanentes, encaminadas a proporcionarle un desarrollo integral, esta se podrá brindar en forma preventiva o especial.
 
 (Decreto 2388 de 1979, artículo 53)
-
-ARTÍCULO
 
 ## art:2.4.2.7 — Asistencia médica de los niños, niñas y adolescentes en restablecimiento de derechos
 
@@ -8606,23 +7760,17 @@ El Ministerio de Salud y Protección Social por su parte, tomará las medidas ad
 
 (Decreto 2388 de 1979, artículo 54)
 
-ARTÍCULO
-
 ## art:2.4.2.8 — De la asistencia preventiva
 
 La asistencia preventiva se debe traducir en el conjunto de acciones necesarias para evitar el abandono del niño, niña o adolescente y la desintegración de la familia.
 
 (Decreto 2388 de 1979, artículo 55)
 
-ARTÍCULO
-
 ## art:2.4.2.9 — Atención al niño, niña o adolescente con vulneración de derechos
 
 El niño, niña o adolescente en situación de abandono se presume en vulneración de derechos. Su asistencia se proporciona a través de atención institucional o en medio abierto, de acuerdo con la determinación adoptada por el Defensor de Familia, ya se trate de abandono físico o moral, o de que el niño, niña o adolescentes se encuentre en situación de peligro, de igual naturaleza, conforme a la Ley 1098 de 2006.
 
 (Decreto 2388 de 1979, artículo 56)
-
-ARTÍCULO
 
 ## art:2.4.2.10 — Instituciones de protección
 
@@ -8644,15 +7792,11 @@ Para los efectos de este Artículo se aplicará lo consagrado en el Artículo 61
 
 (Decreto 2388 de 1979, artículo 58)
 
-ARTÍCULO
-
 ## art:2.4.2.12 — Centros de Emergencia
 
 El ICBF establecerá Centros de Recepción para la ubicación de los niños, niñas o adolescentes en casos de urgencia, hasta tanto se tome la medida de protección requerida.
 
 (Decreto 2388 de 1979, artículo 59)
-
-ARTÍCULO
 
 ## art:2.4.2.13 — De la protección preventiva al niño o niña menor de siete años
 
@@ -8660,23 +7804,17 @@ La protección preventiva al niño o niña menor de siete años debe encaminarse
 
 (Decreto 2388 de 1979, artículo 60)
 
-ARTÍCULO
-
 ## art:2.4.2.14 — Protección Integral
 
 Se entiende por protección especial el tratamiento integral que se les proporciona a los niños, niñas y adolescentes con el fin de prevenir la amenaza, vulneración y restablecimiento de sus derechos.
 
 (Decreto 2388 de 1979, artículo 70)
 
-ARTÍCULO
-
 ## art:2.4.2.15 — De los centros especializados
 
 La protección especial a los niños, niñas y adolescentes se prestará por centros especializados, de acuerdo con las modalidades que determine el Instituto administrados directamente por ésta, o mediante contrato con entidades públicas o privadas.
 
 (Decreto 2388 de 1979, artículo 71)
-
-ARTÍCULO
 
 ## art:2.4.2.16 — Protección especial al niño, niña o adolescente
 
@@ -8700,15 +7838,11 @@ SECCIÓN 1
 
 Generalidades
 
-ARTÍCULO
-
 ## art:2.4.3.1.1.1 — Patrimonio del ICBF
 
 El patrimonio del ICBF se integra con los bienes indicados en el artículo 39 de la Ley 7 de 1979.
 
 (Decreto 2388 de 1979, artículo 85)
-
-ARTÍCULO
 
 ## art:2.4.3.1.1.2 — Inventario de instituciones
 
@@ -8720,15 +7854,11 @@ SECCIÓN 2
 
 Aportes parafiscales
 
-ARTÍCULO
-
 ## art:2.4.3.1.2.1 — De los aportes
 
 Los patronos y entidades públicas o privadas, sin excepción, deben pagar al ICBF el 3% del valor de las nóminas mensuales de salario. Las entidades y empresas deben suministrar al ICBF la información que éste requiera para verificar la exactitud de los aportes.
 
 (Decreto 2388 de 1979, artículo 86)
-
-ARTÍCULO
 
 ## art:2.4.3.1.2.2 — Del porcentaje
 
@@ -8736,15 +7866,11 @@ El porcentaje de las nóminas mensuales de los empleadores y la consignación de
 
 (Decreto 2388 de 1979, artículo 87)
 
-ARTÍCULO
-
 ## art:2.4.3.1.2.3 — Faltantes en los Aportes parafiscales por reajuste de salarios
 
 En caso de reajuste de salarios, las empresas o patronos cubrirán la diferencia en la fecha límite para el pago de ajustes, que será señalada en el calendario adoptado por la Administración de Impuestos Nacionales para la presentación de la declaración de renta.
 
 (Decreto 2388 de 1979, artículo 90)
-
-ARTÍCULO
 
 ## art:2.4.3.1.2.4 — De la calidad de patrono
 
@@ -8752,15 +7878,11 @@ La calidad de patrono se determina de acuerdo con el Código Sustantivo del Trab
 
 (Decreto 2388 de 1979, artículo 91)
 
-ARTÍCULO
-
 ## art:2.4.3.1.2.5 — De los pagos de los aportes de los Ministerios, Departamentos Administrativos y entidades descentralizadas
 
 Los Ministerios, Departamentos Administrativos y entidades descentralizadas, podrán tramitar el pago de los aportes mensuales por órdenes de pago, sin que medie formulación de cuenta de cobro por parte del ICBF, de acuerdo con las normas de la Contraloría General de la República.
 
 (Decreto 2388 de 1979, artículo 92)
-
-ARTÍCULO
 
 ## art:2.4.3.1.2.6 — De los mayores valores aportados
 
@@ -8768,15 +7890,11 @@ Los mayores valores aportados por empleadores y entidades por error en su liquid
 
 (Decreto 2388 de 1979, artículo 93)
 
-ARTÍCULO
-
 ## art:2.4.3.1.2.7 — De los fondos consagrados en el artículo 40 de la Ley 7 de 1979
 
 Los fondos de que trata el artículo 40 de la Ley 7 de 1979, se invertirán, mientras no se requieran para la prestación del servicio, en papeles negociables de alta rentabilidad y liquidez que beneficie a los diferentes sectores de la economía, todo de conformidad con las normas legales del caso.
 
 (Decreto 2388 de 1979, artículo 94)
-
-ARTÍCULO
 
 ## art:2.4.3.1.2.8 — Obligatoriedad del pago de los aportes
 
@@ -8784,23 +7902,17 @@ El pago de los aportes es obligatorio. En caso de mora, el cobro se hará por la
 
 (Decreto 2388 de 1979, artículo 95)
 
-ARTÍCULO
-
 ## art:2.4.3.1.2.9 — Del incumplimiento del pago de los aportes
 
 Para los efectos contemplados en los artículos 39 y 43, numeral 4, de la Ley 7 de 1979, el ICBF presentará a la Contraloría General de la República una relación, al menos semestral, de las entidades públicas que no estén a paz y salvo por concepto de aportes.
 
 (Decreto 2388 de 1979, artículo 96)
 
-ARTÍCULO
-
 ## art:2.4.3.1.2.10 — De las deducciones
 
 Para conceder la deducción prevista en los artículos 108 del Estatuto Tributario y 44 de la Ley 7 de 1979, se requiere el certificado de pago del interesado, expedido por las entidades recaudadoras.
 
 (Decreto 2388 de 1979, artículo 97)
-
-ARTÍCULO
 
 ## art:2.4.3.1.2.11 — Del Certificado de pago
 
@@ -8811,8 +7923,6 @@ El certificado de pago que expiden las entidades recaudadoras, deberá señalar 
 SECCIÓN 3
 
 Bienes vacantes urbanos, mostrencos y vocaciones hereditarias
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.1 — De la denuncia de bienes vacantes urbanos, mostrencos o de vocaciones hereditarias
 
@@ -8828,8 +7938,6 @@ PARÁGRAFO . No se entenderá como descubrimiento el de aquellos bienes cuya exi
 
 1)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.2 — Del otorgamiento de una garantía de seriedad
 
 Cuando el ICBF lo considere conveniente o necesario el denunciante afianzará el cumplimiento de las obligaciones contraídas mediante el otorgamiento de una garantía de seriedad, en la cuantía que señale el Instituto, la cual será proporcional al valor del bien, y subsistirá hasta la fecha de perfeccionamiento del contrato.
@@ -8838,15 +7946,11 @@ El denunciante deberá adicionar esta garantía, cuando a juicio del Instituto, 
 
 (Decreto 2388 de 1979, artículo 100)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.3 — De la intervención en las diligencias de denuncia
 
 En las diligencias que se adelanten ante el ICBF para la denuncia de estos bienes, no se admitirá la intervención de personas distintas del denunciante, o su apoderado.
 
 (Decreto 2388 de 1979, artículo 101)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.4 — Del aporte de pruebas que sustenten la denuncia
 
@@ -8858,15 +7962,11 @@ De igual modo se procederá cuando suscrito el contrato por el ICBF, el denuncia
 
 (Decreto 2388 de 1979, artículo 102)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.5 — Del reconocimiento de la calidad de denunciante
 
 La Dirección General del Instituto Colombiano de Bienestar Familiar o la Dirección Regional respectiva, previa verificación de las condiciones a que se refiere el artículo 2.4.3.1.3.1., decidirá si hay o no lugar al reconocimiento de la calidad de denunciante, mediante resolución motivada. Si hubiere varias denuncias sobre el mismo bien, y que reúnan las condiciones del artículo 2.4.3.1.3.1., se reconocerá al que hubiere presentado la denuncia en primer término.
 
 (Decreto 2388 de 1979, artículo 103, modificado por el Decreto 3421 de 1986, artículo 2)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.6 — De los requisitos del contrato
 
@@ -8874,15 +7974,11 @@ El contrato que suscriban el ICBF y el denunciante deberá reunir los requisitos
 
 (Decreto 2388 de 1979, artículo 104)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.7 — De los gastos que se deriven del contrato
 
 Los gastos y costos que al efecto se causen son de cargo del denunciante, quien asume la responsabilidad de sufragarlos so pena de incumplimiento del contrato de denuncio y participación.
 
 (Decreto 2388 de 1979, artículo 105, modificado por el Decreto 3421 de 1986, artículo 3)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.8 — Aplicación de las cláusulas excepcionales
 
@@ -8890,15 +7986,11 @@ Iniciada la acción pertinente, el contratista se obliga a adelantar las diligen
 
 (Decreto 2388 de 1979, artículo 106)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.9 — De la participación económica
 
 Los denunciantes de bienes vacantes urbanos, mostrencos y vocaciones hereditarias, una vez los respectivos bienes ingresen real y materialmente al patrimonio del Instituto, tienen derecho al pago de una participación económica, sobre el valor efectivamente percibido por el Instituto Colombiano de Bienestar Familiar, de acuerdo con la siguiente escala: sobre los primeros veinte millones de pesos($ 20.000.000.00) el treinta por ciento (30%); sobre el excedente de veinte millones de pesos ($ 20.000.000.00) hasta cincuenta millones de pesos ($ 50.000.000.00) el veinte por ciento (20%); y sobre el excedente de cincuenta millones de pesos($ 50.000.00) el diez por ciento (10%)
 
 (Decreto 2388 de 1979, artículo 107, modificado por el Decreto 3421 de 1986, artículo 4)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.10 — De los casos especiales
 
@@ -8908,23 +8000,17 @@ PARÁGRAFO . Por aporte profesional, técnico y económico, se entiende el conju
 
 (Decreto 2388 de 1979, artículo 108, modificado por el Decreto 3421 de 1986, artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.11 — De la venta de los bienes
 
 Queda a juicio de la junta directiva del ICBF decidir cuándo se debe proceder a la venta de los bienes a que se refieren las disposiciones anteriores, con el fin de que el Instituto perciba su parte en dinero efectivo y pague en la misma forma la participación del denunciante y los costos del proceso. La venta se hará conforme las normas legales sobre la materia.
 
 (Decreto 2388 de 1979, artículo 109)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.12 — De las especies naufragas
 
 Respecto de las especies náufragas, de conformidad con el ordinal 19 del artículo 21 de la Ley 7 de 1979, corresponde al ICBF promover las acciones administrativas y jurisdiccionales pertinentes.
 
 (Decreto 2388 de 1979, artículo 110)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.13 — Radicador de los asuntos o expedientes de bienes vacantes urbanos, mostrencos y vocaciones hereditarias
 
@@ -8942,15 +8028,11 @@ En la sede del Instituto Colombiano de Bienestar Familiar, y en las Regionales o
 
 (Decreto 2388 de 1979, artículo 111)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3.14 — Aviso de la existencia de un bien vacante urbano, mostrenco o de una vocación hereditaria
 
 Los funcionarios que tengan conocimiento de la existencia de un bien vacante urbano, mostrenco o de una vocación hereditaria, deben dar el aviso de ello, a la mayor brevedad posible, al ICBF.
 
 (Decreto 2388 de 1979, artículo 112)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3.15 — De los derechos litigiosos
 
@@ -8970,21 +8052,15 @@ SUBSECCIÓN 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.1.1 — Objeto
 
 La presente Sección reglamenta el funcionamiento del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes adscrito al Instituto Colombiano de Bienestar Familiar, creado por el artículo 24 de la Ley 679 de 2001, la cual fue adicionada y robustecida por la Ley 1336 de 2009, con el objeto de proveer rentas destinadas a la inversión social, garantizar la financiación de los planes y programas de protección integral, y restablecer los derechos de los niños, niñas y adolescentes víctimas de explotación sexual.
 
 PARÁGRAFO . De conformidad con la legislación vigente y los instrumentos internacionales de Derechos Humanos, para efectos de esta Sección, se entiende por explotación sexual de niños, niñas y adolescentes cualquier acto en el que una persona menor de 18 años sea sometida a la voluntad de otra persona para ejercer actividades sexuales con el fin de obtener un provecho económico o por placer personal, entre ellas, cualquier forma de abuso, violencia o explotación sexual, pornografía, turismo sexual, trata, venta y prostitución infantil.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.1.2 — Ámbito de aplicación
 
 La presente Sección establece la reglamentación que corresponde aplicar al Instituto Colombiano de Bienestar Familiar, como administrador del Fondo contra la Explotación Sexual; a la Dirección de Impuestos y Aduanas Nacionales (DIAN), como entidad encargada de reglamentar y recaudar el impuesto a videos para adultos; y a esta última entidad y a la Aeronáutica Civil, como entidades responsables de recaudar el impuesto de salida de extranjeros del país, conforme lo establecen los artículos 22, 23 y 24 de la Ley 679 de 2001 y los artículos 21 y 22 de la Ley 1336 de 2009, así como a las demás entidades necesarias para la adecuada administración del Fondo.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.1.3 — Recursos
 
@@ -9010,15 +8086,11 @@ De acuerdo con lo dispuesto en los artículos 10, 22, 23 y 24 de la Ley 679 de 2
 
 PARÁGRAFO . Los recursos recaudados se destinarán a la financiación de planes y programas de prevención y lucha contra la explotación sexual y la pornografía con niños, niñas y adolescentes, y a las apropiaciones con destinación específica que prevé el artículo 24 de la Ley 679 de 2001
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.1.4 — Administración del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes
 
 El Instituto Colombiano de Bienestar Familiar (ICBF) se encargará de la administración, dentro del presupuesto de ingresos y gastos aprobado anualmente por Ley de apropiaciones, del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes, de acuerdo con el objetivo principal fijado en el artículo 24 de la Ley 679 de 2001 subrogado parcialmente por el artículo 21 de la Ley 1336 de 2009.
 
 Se entiende por administración del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes las acciones de presupuesto, recaudo, conservación, inversión, compromiso, ejecución de sus recursos y de rendición de cuentas, entre otras, con sujeción a la reglamentación pertinente y a lo dispuesto por el Consejo Directivo del ICBF.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.1.5 — Del Consejo Directivo del ICBF
 
@@ -9031,8 +8103,6 @@ Corresponde al Consejo Directivo del Instituto Colombiano de Bienestar Familiar,
 3. Aprobar las autorizaciones que se requieran para las operaciones de crédito público, en el marco de lo establecido en el Decreto 1068 de 2015.
 
 4. Aprobar el proyecto anual de presupuesto del Fondo contra la Explotación Sexual del Niños, Niñas y Adolescentes.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.1.6 — Del Director General del ICBF
 
@@ -9050,13 +8120,9 @@ El Director General del ICBF realizará, respecto del Fondo contra la Explotaci�
 
 PARÁGRAFO . Para la elaboración del proyecto anual de presupuesto, se tendrá en cuenta la asesoría y el apoyo del Departamento Administrativo para la Prosperidad Social y de la Comisión Interinstitucional integrada por las agencias oficiales responsables de la aplicación de la Ley 679 de 2001, así como las recomendaciones realizadas por el Comité Interinstitucional Consultivo para la Prevención de la Violencia Sexual y Atención Integral de los Niños, Niñas y Adolescentes Víctimas del Abuso Sexual.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.1.7 — Ejecución del Presupuesto
 
 La ejecución del presupuesto del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes debe realizarse con sujeción a lo determinado en las Leyes 679 de 2001 y 1336 de 2009, la presente Sección, el Estatuto Orgánico del Presupuesto y las disposiciones expedidas en materia presupuestal.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.1.8 — Utilización de los Recursos
 
@@ -9084,19 +8150,13 @@ PARÁGRAFO 2. El ICBF, en coordinación con el Ministerio de Relaciones Exterior
 
 PARÁGRAFO 3. Los mecanismos de difusión establecidos en el numeral 4 de este artículo se realizarán con apoyo del Ministerio de Tecnologías de la Información y las Comunicaciones.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.1.9 — Prohibiciones en la Ejecución del Gasto
 
 El ordenador del gasto del ICBF no podrá otorgar donaciones ni subsidios con cargo a los recursos del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.1.10 — Rendición de Cuentas y Publicidad
 
 Con el fin de garantizar los principios de moralidad, imparcialidad, publicidad y transparencia en el manejo de los recursos del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes, el ICBF publicará en su sitio web el informe de ejecución de los recursos del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes. Esta publicación se realizará al menos una vez por año, de acuerdo con el procedimiento interno establecido por el ICBF.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.1.11 — Responsabilidad Fiscal y Disciplinaria
 
@@ -9106,19 +8166,13 @@ SUBSECCIÓN 2
 
 De los Recursos
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.2.1 — Las partidas que se le asignen del Presupuesto Nacional
 
 Son recursos del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes, las partidas presupuestales que se asignen del Presupuesto Nacional, según el artículo 24 y el artículo 38 de la Ley 679 de 2001, que autoriza al Gobierno nacional para adoptar las medidas y realizar las operaciones presupuestarias necesarias para su cumplimiento.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.2.2 — Los recursos provenientes de crédito interno y externo y los demás que obtenga a cualquier título
 
 Las operaciones de crédito público se realizarán de conformidad con lo reglamentado en el Decreto 1068 de 2015 o las normas que lo complementen o sustituyan y, en todo caso, en coordinación con la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.2.3 — Las Donaciones
 
@@ -9126,13 +8180,9 @@ Serán recursos del Fondo contra la Explotación Sexual de Niños, Niñas y Adol
 
 Estos recursos serán incorporados al presupuesto del Fondo, siguiendo el lineamiento establecido en el Procedimiento de Incorporación de Recursos de Cooperación al Presupuesto del Instituto Colombiano de Bienestar Familiar, o el que haga sus veces.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.2.4 — Los Recursos Provenientes de Cooperación Nacional o Internacional
 
 Los recursos provenientes de cooperación nacional o internacional que se recibieren con destino al Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes serán incorporados al presupuesto del mismo, conforme con lo establecido en las normas legales vigentes.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.2.5 — 2.5
 
@@ -9140,15 +8190,11 @@ Los Bienes Inmuebles que hayan sido utilizados para la comisión de actividades 
 
 PARÁGRAFO . Los recursos provenientes de la venta o alquiler de los bienes de que trata este artículo serán incorporados al presupuesto de ingresos del Instituto Colombiano de Bienestar Familiar como excedentes financieros, en coordinación con el Ministerio de Hacienda y Crédito Público y el Sistema Integrado de Información Financiera SIIF Nación.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.2.6 — Los Recursos provenientes del recaudo del impuesto sobre el alquiler de películas de clasificación X para adultos
 
 Para efectos del impuesto al alquiler de videos para adultos de clasificación X, se tendrán en cuenta los elementos establecidos en el artículo 22 de la Ley 679 de 2001.
 
 PARÁGRAFO . De conformidad con el artículo 22 de la Ley 1336 de 2009, será responsable de la reglamentación y recaudo del impuesto de alquiler de películas de video clasificación X para adultos, la Dirección de Impuestos y Aduanas Nacionales (DIAN).
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.2.7 — Los Recursos provenientes del recaudo del impuesto de salida de extranjeros del país
 
@@ -9156,13 +8202,9 @@ Para efectos del recaudo del impuesto de salida de extranjeros del país, se ten
 
 PARÁGRAFO . De acuerdo con lo establecido en el artículo 22 de la Ley 1336 de 2009, el recaudo del impuesto de salida del país de todo extranjero estará a cargo de la Dirección de Impuestos y Aduanas Nacionales en concurso con la Aeronáutica Civil, entidades a las que les corresponde la reglamentación del cobro del mismo.
 
-ARTÍCULO
-
 ## art:2.4.3.1.4.2.8 — Las multas
 
 Será parte del Fondo contra la Explotación Sexual de Niños, Niñas y Adolescentes el valor de las multas causadas con ocasión de las sanciones administrativas impuestas por el Ministerio de Tecnologías de la Información y las Comunicaciones a proveedores o servidores, administradores y usuarios responsables, que operen en el territorio colombiano, conforme los artículos 7 y 10 de la Ley 679 de 2001 y el numeral 1 del artículo 2.2.10.3.3 del Decreto 1078 de 2015.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4.2.9 — Rendimientos del Fondo
 
@@ -9171,8 +8213,6 @@ Los rendimientos del Fondo que se produzcan con los recursos corrientes de la Na
 CAPÍTULO 2
 
 Disposiciones en materia de contratación
-
-ARTÍCULO
 
 ## art:2.4.3.2.1 — Cuantías
 
@@ -9186,23 +8226,17 @@ Fíjense las siguientes cuantías mínimas en las garantías únicas que respald
 
 (Decreto 2923 de 1994, artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.3.2.2 — Actos emanados del ICBF
 
 Los actos emanados del ICBF son actos administrativos. Deben estar inspirados en sus objetivos o propósitos y encaminados a una regular prestación del servicio. Constarán por escrito y, previamente a su firma, notificación, publicación o comunicación, deberán ser revisados por la Dirección de Contratación del mismo, con el fin de comprobar su armonía con la ley.
 
 (Decreto 2388 de 1979, artículo 120)
 
-ARTÍCULO
-
 ## art:2.4.3.2.3 — Régimen de los actos administrativos
 
 Dichos actos se rigen por el procedimiento gubernativo contemplado en la Ley 1437 de 2011. Son acusables ante la jurisdicción contencioso administrativo, de acuerdo con el Código de la materia o con las normas posteriores que sustituyan a éstas.
 
 (Decreto 2388 de 1979, artículo 121)
-
-ARTÍCULO
 
 ## art:2.4.3.2.4 — Notificación o comunicación de los actos administrativos
 
@@ -9212,8 +8246,6 @@ Los Secretarios del Senado y de la Cámara de Representantes tienen igual obliga
 
 (Decreto 2388 de 1979, artículo 122)
 
-ARTÍCULO
-
 ## art:2.4.3.2.5 — Celebración de contratos
 
 El ICBF, cuando las necesidades del servicio así lo demanden, podrá celebrar contratos con personas naturales o jurídicas, nacionales o extranjeras.
@@ -9222,15 +8254,11 @@ Estos contratos se consideran como administrativos y deben contener, entre otras
 
 (Decreto 2388 de 1979, artículo 123)
 
-ARTÍCULO
-
 ## art:2.4.3.2.6 — De las controversias contractuales
 
 De las controversias relativas a estos contratos conoce la jurisdicción contenciosa administrativa según las reglas de competencia.
 
 (Decreto 2388 de 1979, artículo 124)
-
-ARTÍCULO
 
 ## art:2.4.3.2.7 — Celebración de contratos con instituciones de utilidad pública o social
 
@@ -9240,23 +8268,17 @@ PARÁGRAFO . Cuando no se pueda celebrar contratos con instituciones sin ánimo 
 
 (Decreto 2388 de 1979, artículo 125)
 
-ARTÍCULO
-
 ## art:2.4.3.2.8 — Requisitos de los contratos
 
 En todo caso, los contratos deben ceñirse en su celebración, desarrollo, cumplimiento e interpretación, a la naturaleza y a las modalidades del servicio de bienestar familiar. -
 
 (Decreto 2388 de 1979, artículo 126)
 
-ARTÍCULO
-
 ## art:2.4.3.2.9 — Organismo nacional responsable de la acreditación
 
 Por la naturaleza especial del servicio de bienestar familiar, el ICBF podrá celebrar contratos de aporte, entendiéndose por tal cuando el Instituto se obliga a proveer a una institución de utilidad pública o social de los bienes (edificios, dineros, etc.) indispensables para la prestación total o parcial del servicio, actividad que se cumple bajo la exclusiva responsabilidad de la institución, con personal de su dependencia, pero de acuerdo con las normas y el control del Instituto Colombiano de Bienestar Familiar, su vigencia será anual, pero podrá prorrogarse de año en año.
 
 (Decreto 2388 de 1979, artículo 127)
-
-ARTÍCULO
 
 ## art:2.4.3.2.10 — De las cláusulas obligatorias
 
@@ -9266,8 +8288,6 @@ El Instituto también podrá celebrar contratos innominados y de carácter mixto
 
 (Decreto 2388 de 1979, artículo 128)
 
-ARTÍCULO
-
 ## art:2.4.3.2.11 — Formalidades de los contratos
 
 Todos los demás contratos que celebre el ICBF se someterán a las ritualidades, requisitos, formalidades y solemnidades que establece la Ley 80 de 1993, Ley 1150 de 2007, su reglamentación y demás normas concordantes.
@@ -9276,15 +8296,11 @@ PARÁGRAFO . El régimen de delegación para la tramitación y suscripción de c
 
 (Decreto 2388 de 1979, artículo 129)
 
-ARTÍCULO
-
 ## art:2.4.3.2.12 — Del Registro de Proponentes
 
 El registro de proponentes que en la fecha posee el ICBF será revisado por éste, debiendo ser reformado o adicionado con el fin de actualizarlo y ajustarlo a las actividades propias del servicio, de conformidad con la Ley 80 de 1993, su reglamentación y demás normas legales y reglamentarías concordantes. En casos especiales para la celebración de contratos de obras públicas, el director general del Instituto mediante resolución motivada adoptará el registro de Ministerio de Obras Públicas, del Instituto de Crédito Territorial o de otra entidad pública cuya finalidad principal esté vinculada, de modo permanente, a la celebración de tales contratos.
 
 (Decreto 2388 de 1979, artículo 130)
-
-ARTÍCULO
 
 ## art:2.4.3.2.13 — De la entidad encargada de la iniciación, tramitación y perfeccionamiento de los contratos
 
@@ -9300,15 +8316,11 @@ SECCIÓN 1
 
 Programa de nutrición
 
-ARTÍCULO
-
 ## art:2.4.3.3.1.1 — Del programa de nutrición
 
 El ICBF ejecutará los programas de nutrición y alimentación, ajustándolos a las necesidades, condiciones y recursos de cada región y en armonía con el Plan Nacional de Desarrollo. Así mismo, le corresponde supervisar, controlar y evaluar dichos programas.
 
 (Decreto 2388 de 1979, artículo 73)
-
-ARTÍCULO
 
 ## art:2.4.3.3.1.2 — Definición de la problemática nutricional y alimentaria
 
@@ -9316,15 +8328,11 @@ Le corresponde al ICBF definir el problema nutricional y alimentario de la pobla
 
 (Decreto 2388 de 1979, artículo 74)
 
-ARTÍCULO
-
 ## art:2.4.3.3.1.3 — De la atención nutricional
 
 La atención nutricional del niño, niña o adolescente y de la madre en período de embarazo y lactancia, se cumple por el Instituto mediante la ejecución de sus programas y los específicos que le señale el Gobierno.
 
 (Decreto 2388 de 1979, artículo 75)
-
-ARTÍCULO
 
 ## art:2.4.3.3.1.4 — De la calidad de los alimentos
 
@@ -9332,15 +8340,11 @@ Es función específica del Instituto determinar el tipo y calidad de alimentos 
 
 (Decreto 2388 de 1979, artículo 76)
 
-ARTÍCULO
-
 ## art:2.4.3.3.1.5 — Asesoría al Ministerio de Educación Nacional
 
 El Instituto debe asesorar al Ministerio de Educación Nacional en la planeación de la enseñanza nutricional y alimentaria que brinden los establecimientos educativos primarios, secundarios y universitarios.
 
 (Decreto 2388 de 1979, artículo 77)
-
-ARTÍCULO
 
 ## art:2.4.3.3.1.6 — Programas de educación nutricional y alimentaria
 
@@ -9348,15 +8352,11 @@ El ICBF, además, realizará programas de educación nutricional y alimentaria, 
 
 (Decreto 2388 de 1979, artículo 78)
 
-ARTÍCULO
-
 ## art:2.4.3.3.1.7 — Organización, evaluación y control de la asistencia alimentaria
 
 El Instituto organizará, controlará y evaluará la asistencia alimentaria en las instituciones de protección al niño, niña o adolescente, y velará por el buen estado nutricional de éste y la proyección de esa asistencia en la familia.
 
 (Decreto 2388 de 1979, artículo 79)
-
-ARTÍCULO
 
 ## art:2.4.3.3.1.8 — De la producción de alimentos
 
@@ -9368,15 +8368,11 @@ SECCIÓN 2
 
 Programa de Hogares Comunitarios de Bienestar
 
-ARTÍCULO
-
 ## art:2.4.3.3.2.1 — De los hogares comunitarios de bienestar
 
 Los Hogares Comunitarios de Bienestar a que se refiere el parágrafo 2 del artículo 1 de la Ley 89 de 1988, se constituyen mediante las becas que asigne el Instituto Colombiano de Bienestar Familiar y los recursos locales, para que las familias, en acción mancomunada, atiendan las necesidades básicas de nutrición, salud, protección y desarrollo individual y social de los niños de estratos sociales pobres del país.
 
 (Decreto 1340 de 1995, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.3.3.2.2 — De la organización y funcionamiento de los hogares comunitarios de bienestar
 
@@ -9385,8 +8381,6 @@ El Instituto Colombiano de Bienestar Familiar, a través de su Consejo Directivo
 PARÁGRAFO . La organización y funcionamiento del Programa Hogares Comunitarios de Bienestar que determine el Consejo Directivo del ICBF, se implementará en forma gradual, atendiendo las condiciones sociales, económicas, geográficas y de participación comunitaria de cada región, de forma tal, que se garantice continuidad en la prestación del servicio.
 
 (Decreto 1340 de 1995, artículo 2)
-
-ARTÍCULO
 
 ## art:2.4.3.3.2.3 — Del programa hogares comunitarios de bienestar
 
@@ -9422,8 +8416,6 @@ d) La presentación de la demanda de adopción al juez competente.
 
 (Decreto 2388 de 1979, artículo 81)
 
-ARTÍCULO
-
 ## art:2.4.3.3.3.2 — De las sanciones administrativas
 
 El incumplimiento o violación de cualquiera de las normas anteriores, acarreará para la institución y la persona de sus directores las siguientes sanciones administrativas, sin perjuicio de la responsabilidad civil y penal a que hubiere lugar y de lo contemplado en el artículo 2.4.1.22. de este Decreto.
@@ -9442,15 +8434,11 @@ SECCIÓN 4
 
 Creación y sostenimiento de centros de atención integral al pre-escolar, para los hijos de empleados y trabajadores oficiales y privados
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.1 — Sujeción a las políticas y planes del Consejo Nacional de Política Económica y Social
 
 En la ejecución de la Ley 27 de 1974 el Instituto Colombiano de Bienestar Familiar y los consejos de administración a que se refiere la presente sección deberán ceñirse a las políticas y planes que adopte el Consejo Nacional de Política Económica y Social y a las disposiciones sobre Sistema de Salud.
 
 (Decreto 626 de 1975, artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.3.3.4.2 — De la creación, organización y puesta en funcionamiento
 
@@ -9460,8 +8448,6 @@ El Instituto preparará, asimismo, un programa nacional de centros de atención 
 
 (Decreto 626 de 1975, artículo 2)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.3 — De la contratación para efectos del artículo 2 de la Ley 27 de 1974
 
 Para efectos del artículo 2 de la Ley 27 de 1974, el Instituto Colombiano de Bienestar Familiar podrá celebrar contratos de administración, de cuenta corriente, o en general, de naturaleza apropiada para recaudar las sumas previstas en dicho artículo. Los contratos se celebrarán con entidades bancarias o con cajas de compensación familiar y, cuando fuere el caso, en ellos se estipularán las normas necesarias para atender a los pagos por concepto de gastos de administración.
@@ -9470,15 +8456,11 @@ Para la celebración de los contratos a que se refiere el presente artículo, el
 
 (Decreto 626 de 1975, artículo 3)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.4 — De los aportes en virtud del artículo 2 de la Ley 27 de 1974
 
 Los aportes que en virtud del artículo 2 de la Ley 27 de 1974 deban hacerse al Instituto Colombiano de Bienestar Familiar se consignarán a su favor, por mensualidades vencidas y dentro de los 10 primeros días del mes siguiente o cuando se causaron, en sus sedes o en las de las entidades con las que el Instituto haya convenido el recaudo.
 
 (Decreto 626 de 1975, artículo 4)
-
-ARTÍCULO
 
 ## art:2.4.3.3.4.5 — Pago de los aportes recaudado
 
@@ -9488,15 +8470,11 @@ El incumplimiento dará lugar a la terminación del contrato y a las sanciones p
 
 (Decreto 626 de 1975, artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.6 — Interés por el no pago de los aportes
 
 Sobre saldos que los empleadores no consiguen dentro del término legal se pagará interés del 2.5% mensual que será destinado a los fines previstos en la Ley 27 de 1974.
 
 (Decreto 626 de 1975, artículo 6)
-
-ARTÍCULO
 
 ## art:2.4.3.3.4.7 — De los contratos con los empleadores
 
@@ -9506,15 +8484,11 @@ En los contratos a que se refiere el presente artículo se estipulará que la ca
 
 (Decreto 626 de 1975, artículo 10)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.8 — De los contratos con instituciones públicas o privadas para la prestación de los centros de atención integral
 
 El Instituto Colombiano de Bienestar Familiar podrá celebrar contratos con instituciones públicas o privadas que, sin ánimo de lucro, prestan servicios de salacunas, guarderías, jardines infantiles, centros comunitarios para la infancia u otros de naturaleza semejante para que estas entidades aumenten sus servicios y cumplan las condiciones mínimas para que puedan ser consideradas como centros de atención integral al pre-escolar. En dichos contratos deberá estipularse la transferencia de fondos del Instituto Colombiano de Bienestar Familiar a tales instituciones con la finalidad señalada.
 
 (Decreto 626 de 1975, artículo 11)
-
-ARTÍCULO
 
 ## art:2.4.3.3.4.9 — De los contratos con los servicios seccionales de salud y otros
 
@@ -9522,15 +8496,11 @@ El Instituto Colombiano de Bienestar Familiar podrá celebrar contratos con los 
 
 (Decreto 626 de 1975, artículo 12)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.10 — De los contratos con las organizaciones de voluntariado
 
 El Instituto Colombiano de Bienestar Familiar podrá celebrar contratos con organizaciones de voluntariado del país, para vincularlas a la prestación de servicios en los centros de atención integral al pre-escolar.
 
 (Decreto 626 de 1975, artículo 13)
-
-ARTÍCULO
 
 ## art:2.4.3.3.4.11 — Distribución de los recursos para la(sic) desarrollo del programa
 
@@ -9542,8 +8512,6 @@ En la distribución interna de los recursos, las direcciones regionales y los co
 
 (Decreto 626 de 1975, artículo 14)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.12 — De la contribución a los centros de atención integral al preescolar
 
 La contribución que se pagará en los centros de atención integral al pre- escolar por el servicio prestado a cada niño, será fijada por el Instituto Colombiano de Bienestar Familiar en una escala de porcentajes elaborada con base en la relación entre el ingreso familiar y el salario mínimo vigente en la región donde se preste el servicio.
@@ -9552,15 +8520,11 @@ Los huérfanos menores de 7 años y los hijos de los desempleados y de los traba
 
 (Decreto 626 de 1975, artículo 22)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.13 — De la contribución economice a los usuarios de los servicios de los centros de atención integral
 
 El Instituto Colombiano de Bienestar Familiar, para determinar si hay o no lugar a contribución económica de los usuarios de los servicios de los centros de atención integral al pre-escolar y para establecer el monto de la misma, llevará a cabo un estudio socio-económico de la familia y para este fin utilizará entre otros medios, los servicios de visitadores.
 
 (Decreto 626 de 1975, artículo 23)
-
-ARTÍCULO
 
 ## art:2.4.3.3.4.14 — De la contribución económica a los hijos de los trabajadores incapacitados o que hayan perdido su empleo
 
@@ -9572,8 +8536,6 @@ Si se estableciere la inexactitud acerca de la incapacidad o de la falta de ocup
 
 (Decreto 626 de 1975, artículo 24)
 
-ARTÍCULO
-
 ## art:2.4.3.3.4.15 — Certificación del monto de los ingresos del trabajador asalariado
 
 El trabajador asalariado demostrará el monto de sus ingresos mediante su declaración de renta, acompañada de certificación expedida por el empleador. El trabajador independiente o por cuenta propia lo hará mediante copia de su declaración de renta y en defecto de esta, por declaración escrita jurada.
@@ -9584,8 +8546,6 @@ SECCIÓN 5
 
 Atención integral al preescolar
 
-ARTÍCULO
-
 ## art:2.4.3.3.5.1 — De la atención al preescolar
 
 La atención al preescolar que corresponde dar al instituto, es la que se brinda, de preferencia, al menor de siete años, con el fin de suplir y complementar transitoriamente la protección familiar, y obtener su desarrollo integral.
@@ -9594,15 +8554,11 @@ Esta atención al preescolar no implica actividades de escolaridad, sino de prep
 
 (Decreto 2388 de 1979, artículo 61)
 
-ARTÍCULO
-
 ## art:2.4.3.3.5.2 — De las normas técnicas y administrativas aplicables
 
 Todo hogar infantil para la atención integral al preescolar, cualquiera sea su naturaleza jurídica u organización, se rige por las normas técnicas y administrativas expedidas por el ICBF.
 
 (Decreto 2388 de 1979, artículo 62)
-
-ARTÍCULO
 
 ## art:2.4.3.3.5.3 — De los requisitos físicos, mentales y morales de los prestados del servicio
 
@@ -9610,15 +8566,11 @@ Quienes presten sus servicios en los Hogares Infantiles, cualquiera sea su modal
 
 (Decreto 2388 de 1979, artículo 63)
 
-ARTÍCULO
-
 ## art:2.4.3.3.5.4 — De los Hogares Infantiles
 
 Los Hogares Infantiles hacen parte del Sistema Nacional de Bienestar Familiar, conforme al artículo 12 de la Ley 7 de 1979.
 
 (Decreto 2388 de 1979, artículo 64)
-
-ARTÍCULO
 
 ## art:2.4.3.3.5.5 — De la administración de los Hogares Infantiles
 
@@ -9628,15 +8580,11 @@ PARÁGRAFO . Cuando no se pueda celebrar contratos con instituciones sin ánimo 
 
 (Decreto 2388 de 1979, artículo 65)
 
-ARTÍCULO
-
 ## art:2.4.3.3.5.6 — De los bienes transferidos
 
 Los bienes de cualquier naturaleza, transferidos en virtud del contrato previsto en el artículo anterior deberán ser restituidos al Instituto al término del mismo, sin compensación alguna a su cargo. También deberán restituirse los dineros no gastados o gastados indebidamente.
 
 (Decreto 2388 de 1979, artículo 66)
-
-ARTÍCULO
 
 ## art:2.4.3.3.5.7 — Funciones del Consejo Directivo en relación con los hogares infantiles
 
@@ -9656,15 +8604,11 @@ PARÁGRAFO . La junta directiva al determinar la participación ordenada por el 
 
 (Decreto 2388 de 1979, artículo 67)
 
-ARTÍCULO
-
 ## art:2.4.3.3.5.8 — De la preferencia para las zonas marginadas de las ciudades y las áreas rurales más necesitadas
 
 En la prestación de la atención integral al preescolar, el Instituto dará preferencia a las zonas marginadas de las ciudades, a las áreas rurales más necesitadas de ella y a los barrios obreros. Los programas deben vincularse al complemento alimenticio para la seguridad del niño, niña o adolescente.
 
 (Decreto 2388 de 1979, artículo 68)
-
-ARTÍCULO
 
 ## art:2.4.3.3.5.9 — De la fijación de la tasa compensatoria
 
@@ -9678,15 +8622,11 @@ CAPÍTULO 4
 
 Personería jurídica y licencia de funcionamiento a las instituciones que prestan servicios del Sistema Nacional de Bienestar Familiar
 
-ARTÍCULO
-
 ## art:2.4.3.4.1 — De la inspección y vigilancia
 
 Conforme al numeral 26 del artículo 189 de la Constitución, la inspección y vigilancia de las instituciones de utilidad común que tienen objetivos de protección al niño, niña o adolescente y a la familia, la cumple el Presidente de la República, con la asistencia del ICBF, a quien le corresponde señalar y hacer cumplir los requisitos de funcionamiento de tales instituciones.
 
 (Decreto 2388 de 1979, artículo 114)
-
-ARTÍCULO
 
 ## art:2.4.3.4.2 — De la solicitud de personería jurídica
 
@@ -9694,15 +8634,11 @@ Para efectos del artículo 21, numeral 8, de la Ley 7 de 1979, el Instituto Colo
 
 (Decreto 2388 de 1979, artículo 115)
 
-ARTÍCULO
-
 ## art:2.4.3.4.3 — De las obligaciones derivadas del otorgamiento, suspensión o cancelación de la licencia
 
 En ejercicio de la facultad legal de otorgar, suspender o cancelar la licencia de funcionamiento de las instituciones, públicas o privadas, de protección al niño, niña o adolescente y a la familia, el ICBF, en la reglamentación interna que para el efecto expida, establecerá la obligación que estas tienen, cualquiera que sea su naturaleza jurídica o su organización administrativa, de someterse a los requisitos previstos por el Instituto.
 
 (Decreto 2388 de 1979, artículo 116)
-
-ARTÍCULO
 
 ## art:2.4.3.4.5 — Del otorgamiento de la licencia de funcionamiento por parte de las Direcciones Regionales
 
@@ -9714,23 +8650,17 @@ CAPÍTULO 5
 
 Disposiciones varias
 
-ARTÍCULO
-
 ## art:2.4.3.5.1 — Del aviso de la entidad pública o privada que haga parte del Sistema Nacional de Bienestar Familiar
 
 Toda entidad pública o privada, que haga parte del Sistema de Bienestar Familiar, de acuerdo con lo previsto en la Ley 7 de 1979 y en esta Parte deberá colocar un aviso en parte externa visible de sus dependencias, en donde conste tal condición.
 
 (Decreto 2388 de 1979, artículo 132)
 
-ARTÍCULO
-
 ## art:2.4.3.5.2 — Modificación de los estatutos y reorganización de su estructura interna
 
 El ICBF procederá a modificar los estatutos y a reorganizar su estructura interna, en armonía con lo dispuesto en la Ley 489 de 1998.
 
 (Decreto 2388 de 1979, artículo 133)
-
-ARTÍCULO
 
 ## art:2.4.3.5.3 — De la transformación de la producción de alimentos
 
@@ -9739,8 +8669,6 @@ El ICBF adelantará las gestiones necesarias con el fin de transformar la produc
 Para este efecto el Instituto Colombiano de Bienestar Familiar queda autorizado para participar en la creación de la empresa o empresas de que trata este artículo.
 
 (Decreto 2388 de 1979, artículo 135)
-
-ARTÍCULO
 
 ## art:2.4.3.5.4 — De la calidad de empleados públicos de los funcionarios del ICBF
 
@@ -9754,15 +8682,11 @@ TÍTULO 4
 
 Disposiciones reglamentarias para la financiación y cofinanciación entre la nación y las entidades territoriales para el desarrollo integral de la primera infancia
 
-ARTÍCULO
-
 ## art:2.4.4.1 — Objeto
 
 El presente título tiene por objeto reglamentar los esquemas de financiación y cofinanciación entre la Nación y las entidades territoriales, así como la gestión y ejecución de las fuentes financieras complementarias a los recursos de la nación para la atención integral de la primera infancia, conforme a lo dispuesto por la Política de Estado para el Desarrollo Integral de la Primera Infancia "De cero a siempre", en los términos de la Ley 1804 de 2016.
 
 (Decreto 1336 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2 — Esquema de financiación y cofinanciación
 
@@ -9804,15 +8728,11 @@ PARÁGRAFO TRANSITORIO. Para efectos de la implementación del reporte de las as
 
 (Decreto 1336 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.3 — Gestión y ejecución de fuentes complementarias a los recursos de la nación
 
 Las entidades territoriales para efectos de la atención integral para la primera infancia orientarán, gestionarán y ejecutarán recursos del Sistema General de Participaciones, del Sistema General de Regalías, recursos propios y de las diferentes fuentes de financiación públicas o privadas, así como recursos de cooperación internacional, atendiendo lo dispuesto en la normativa aplicable para tales efectos.
 
 (Decreto 1336 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.4 — Procesos de selección de proyectos
 
@@ -9820,23 +8740,17 @@ Las entidades del Gobierno nacional, conforme a la disponibilidad de recursos, p
 
 (Decreto 1336 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.5 — Coordinación y articulación con otros sectores
 
 Las entidades del sector público y las entidades territoriales que desarrollen planes o programas dirigidos a niños y niñas de los cero a los seis años y mujeres gestantes, podrán coordinar y articular acciones con entidades privadas, entidades sin ánimo de lucro y organismos de cooperación internacional, según sea el caso, a fin de maximizar y gestionar recursos y promover la eficiencia y la eficacia en la ejecución de los mismos, de conformidad con la normativa aplicable.
 
 (Decreto 1336 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.6 — Sostenibilidad de las inversiones
 
 Las entidades estatales en el marco de sus competencias garantizarán la sostenibilidad económica, administrativa, financiera, social y ambiental de los proyectos de inversión que se desarrollen para la atención integral de la primera infancia, procurando financiar su operación y funcionamiento con ingresos de naturaleza permanente.
 
 (Decreto 1336 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.7 — Informe anual de resultados
 
@@ -9846,15 +8760,11 @@ El informe anual de implementación de la política también incluirá un balanc
 
 (Decreto 1336 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.8 — Seguimiento
 
 En el marco del control y seguimiento a los recursos públicos y en especial los destinados a la implementación de la Política de Estado para el Desarrollo Integral de la Primera Infancia "De cero a siempre", los diferentes entes de control contarán con acceso a la información respectiva.
 
 (Decreto 1336 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.9 — Responsabilidad disciplinaria
 
@@ -9872,23 +8782,17 @@ CAPÍTULO 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.4.5.1.1 — Objeto
 
 El presente Título tiene por objeto definir las acciones necesarias para la puesta en marcha de los sistemas de información y los mecanismos de seguimiento y evaluación previstos en la Ley 1804 de 2016, que permitan consolidar y analizar la información sobre la garantía de los derechos de los niños y niñas desde su nacimiento hasta los seis años y de las mujeres gestantes, y tomar decisiones en los ámbitos nacional y territorial frente a las acciones de la política de Estado para el Desarrollo Integral de la Primera Infancia de Cero a Siempre.
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.1.2 — Ámbito de aplicación
 
 El presente Título aplica para las entidades públicas del orden nacional y territorial, así como para entidades privadas que sean responsables y/o promuevan la atención integral y el seguimiento a la garantía de los derechos de los niños y niñas de la primera infancia y de las mujeres gestantes en los términos y definiciones de la Ley 1804 de 2016.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.1.3 — Insumos para la gestión de la política
 
@@ -9898,8 +8802,6 @@ PARÁGRAFO . La información que se reporte y procese a partir de los sistemas d
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.1.4 — Sistemas de información para el desarrollo de las fases de la política
 
 Los sistemas de información de que trata el presente Título serán de uso obligatorio para el desarrollo de cada una de las fases de la Política de Estado para el Desarrollo Integral de la Primera Infancia de Cero a Siempre, previstas en el artículo 8 de la Ley 1804 de 2016.
@@ -9907,8 +8809,6 @@ Los sistemas de información de que trata el presente Título serán de uso obli
 PARÁGRAFO . La información que se reporte y procese en los sistemas de información de que trata el presente Título es insumo de uso obligatorio para la elaboración de los informes anuales de implementación de la Política de Estado para el Desarrollo Integral de la Primera Infancia de Cero a Siempre, nacional y territoriales, previstos en el artículo 23 de la Ley 1804 de 2016. Estos informes deberán señalar de manera específica los resultados de la implementación de los programas y proyectos ejecutados en zonas urbanas, zonas rurales y en zonas rurales dispersas.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.1.5 — Definición de Seguimiento
 
@@ -9924,8 +8824,6 @@ SECCIÓN 1
 
 El Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.1 — Definición
 
 El Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia es un sistema de información para el seguimiento nominal de los niños y niñas en primera infancia, mediante el cual se realiza el registro y seguimiento a las atenciones que se brindan a las gestantes y niños y niñas en primera infancia del país, para su desarrollo integral.
@@ -9935,8 +8833,6 @@ Este Sistema constituye la principal herramienta para articular la información 
 PARÁGRAFO . A partir de la entrada en vigencia del presente Título, el Sistema de Seguimiento Niño a Niño se denominará Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia, el cual corresponde a su vez al Sistema Único Nacional de Información de la población en la primera infancia, enunciado en el numeral 10 del artículo 4 del Decreto 4875 de 2011.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.2 — Objetivos del Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia
 
@@ -9962,8 +8858,6 @@ PARÁGRAFO . El detalle de las atenciones priorizadas que se brindan a las gesta
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.3 — Mesa del Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia
 
 Créase la Mesa del Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia, como instancia de coordinación cuyo propósito es definir los criterios técnicos y operativos para el seguimiento de la Política de Estado para el Desarrollo Integral de la Primera Infancia De Cero a Siempre. La Mesa estará integrada por el delegado de cada una de las entidades miembros de la Comisión Intersectorial para la Atención Integral de la Primera Infancia (CIPI), acorde con lo dispuesto en el artículo 11 de la Ley 1804 de 2016. Su Secretaría Técnica estará a cargo de Ministerio de Educación Nacional.
@@ -9976,23 +8870,17 @@ PARÁGRAFO 3. La Mesa tendrá la facultad de: i) aprobar las modificaciones del 
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.4 — Manual Operativo
 
 La Mesa definirá el Manual Operativo del Sistema. Las modificaciones estructurales que a este se realicen serán aprobadas por la Comisión Intersectorial para la Atención Integral de la Primera Infancia. El Manual Operativo deberá, como mínimo, prever los mecanismos, procesos, procedimientos y periodicidad del reporte de la información para efectuar el seguimiento a las atenciones que se brindan a las gestantes y niños y niñas en primera infancia del país, y formará parte integral del presente Título.
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.5 — Administración del Sistema
 
 La administración del Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia estará a cargo del Ministerio de Educación Nacional, en el marco de la Comisión Intersectorial para la Atención Integral de la Primera Infancia. Las funciones de administración a cargo del Ministerio de Educación Nacional se establecerán en el Manual Operativo del Sistema.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.6 — Responsables de reportar información
 
@@ -10009,8 +8897,6 @@ Serán responsables de reportar información al Sistema de Seguimiento al Desarr
 PARÁGRAFO . La Comisión Intersectorial para la Atención Integral de la Primera Infancia, a través de la Mesa del Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia, determinará la información que deben reportar las entidades que la conforman y su periodicidad.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.7 — Información a reportar
 
@@ -10034,15 +8920,11 @@ PARÁGRAFO 3. El cumplimiento de lo dispuesto en el numeral 3 de este artículo 
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.8 — Información de consulta pública
 
 Será de consulta pública la información en cifras agregadas del Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia, que represente el estado de cumplimiento de las atenciones a la primera infancia definidas y reportadas para un territorio.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.9 — Confidencialidad de la información
 
@@ -10050,23 +8932,17 @@ La confidencialidad de la información registrada en el Sistema de Seguimiento a
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.10 — Gestión de atenciones
 
 De acuerdo con las alertas que genere el Sistema de Seguimiento al Desarrollo Integral de la Primera Infancia, y en el marco de las rutas de gestión de dichas alertas que se definan en el Manual Operativo del Sistema, cada una de las entidades públicas nacionales y territoriales, con competencia en la atención integral a la primera infancia, serán responsables de adelantar las gestiones pertinentes que garanticen la atención y los derechos de los niños y niñas.
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.1.11 — Perspectiva de Diversidad
 
 Progresivamente, las entidades referidas en el artículo 2.4.5.2.1.6 del presente Título garantizarán que la información reportada contenga datos desagregados de los niños y niñas de la primera infancia y mujeres gestantes, por género, etnia (afrodescendientes, negros, palanqueros y raizales, indígenas y Rrom), condición de discapacidad, víctimas del conflicto armado, en situación de pobreza y en situación de vulnerabilidad.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.1.12 — Perspectiva Rural
 
@@ -10078,15 +8954,11 @@ SECCIÓN 2
 
 El Sistema Único de Información de la Niñez (SUIN)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.1 — Definición
 
 El Sistema Único de Información de la Niñez (SUIN) es la herramienta oficial para la toma de decisiones en materia de Política pública de primera infancia, infancia y adolescencia, que presenta indicadores que dan cuenta de la garantía de los derechos de los niños, niñas y adolescentes. En el SUIN se reporta información tanto de fuentes nacionales como de fuentes territoriales.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.2 — Objetivos del Sistema Único de Información de la Niñez (SUIN)
 
@@ -10107,8 +8979,6 @@ Son objetivos del Sistema Único de Información de la Niñez los siguientes:
 7. Garantizar el uso y el acceso libre a todas las estadísticas oficiales relevantes para el seguimiento y la evaluación del cumplimiento de derechos de niños, niñas y adolescentes
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.3 — Mesa del Sistema Único de Información de la Niñez (SUIN)
 
@@ -10156,8 +9026,6 @@ PARÁGRAFO 2. Podrán formar parte de la Mesa del SUIN en calidad de invitados l
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.4 — Información a reportar
 
 Los indicadores a reportar se definirán en el marco de la Mesa del SUIN, que es la instancia de desarrollo técnico del aplicativo, en acuerdo con las entidades miembros del SNBF y conforme a las definiciones dadas en la Ley 1804 de 2016 para el orden nacional y territorial.
@@ -10170,8 +9038,6 @@ PARÁGRAFO 3. Cualquier requerimiento de información financiera, fiscal o de pl
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.5 — Responsables del reporte
 
 Serán responsables de reportar información al Sistema Único de Información de la Niñez (SUIN) las entidades del orden nacional y territorial encargadas de suministrar la información sobre la garantía de los derechos de los niños, niñas y adolescentes.
@@ -10180,15 +9046,11 @@ PARÁGRAFO . Las entidades obligadas a reportar información al Sistema deberán
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.6 — Administración del sistema
 
 El Instituto Colombiano de Bienestar Familiar, como ente rector del Sistema Nacional de Bienestar Familiar, tendrá a su cargo la administración del sistema de información de que trata la presente Sección, de acuerdo con las funciones establecidas en el numeral 12 del artículo 26 del Decreto 987 de 2012.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.7 — Información de consulta pública
 
@@ -10196,15 +9058,11 @@ Será de consulta pública la información del SUIN sobre el nivel de realizaci�
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.8 — Confidencialidad de la información
 
 La información consignada en el SUIN será de carácter público y podrá ser consultada por los tomadores de decisiones de política pública y la comunidad en general, a excepción del SUIN territorial, que requerirá de un usuario y contraseña para el ingreso, consulta y registro de la información.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.9 — Perspectiva de Diversidad
 
@@ -10212,15 +9070,11 @@ Progresivamente, las entidades obligadas a reportar información al Sistema Úni
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.2.10 — Uso del sistema por gobernadores, alcaldes y entidades del orden nacional
 
 El SUIN será el repositorio oficial de información para la formulación de diagnósticos territoriales, programas de gobierno, planes de desarrollo, políticas públicas y de rendición pública de cuentas en primera infancia, infancia y adolescencia.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.2.11 — Seguimiento de Consejos de Política Social
 
@@ -10231,8 +9085,6 @@ Las entidades territoriales estarán obligadas a reportar en el SUIN territorial
 SECCIÓN 3
 
 Seguimiento y evaluación de la Política
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.1 — Seguimiento
 
@@ -10246,8 +9098,6 @@ PARÁGRAFO 3. Bajo la coordinación de la Comisión Intersectorial para la Atenc
 
 (Decreto 1356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.5.2.3.2 — Evaluación
 
 El Departamento Nacional de Planeación, en conjunto con las entidades que conforman la Comisión Intersectorial para la Atención Integral de la Primera Infancia, y en virtud de las funciones previstas en el artículo 17 de la Ley 1804 de 2016, coordinará la inclusión e implementación de la Política de Estado para el Desarrollo Integral de la Primera Infancia de Cero a Siempre en la agenda de evaluaciones en el marco de lo reglamentado en el Libro 2, Parte 2, Título 7, Capítulo 3 del Decreto 1082 de 2015, Decreto Único Reglamentario del Sector Administrativo de Planeación Nacional, y lo consignado para tal efecto en el Sistema de Gestión de Calidad de esa entidad.
@@ -10255,8 +9105,6 @@ El Departamento Nacional de Planeación, en conjunto con las entidades que confo
 El proceso de inclusión en la agenda de evaluación tendrá lugar por lo menos una vez para cada plan nacional de desarrollo o para cada periodo de gobierno. El tipo de evaluación responderá a la necesidad y demanda que se tenga en el momento particular.
 
 (Decreto 1356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2.3.3 — Evaluación territorial
 
@@ -10272,25 +9120,17 @@ PARTE 5
 
 MESA DE EQUIDAD
 
-ARTÍCULO
-
 ## art:2.5.1 — Objetivo
 
 La presente parte tiene por objeto establecer las reglas de organización y funcionamiento de la Mesa de Equidad en los términos señalados en las bases del Plan Nacional de Desarrollo 2018-2022 "Pacto por Colombia, Pacto por la Equidad" y en el artículo 211 de la Ley 1955 de 2019.
-
-ARTÍCULO
 
 ## art:2.5.2 — Alcance y aplicación
 
 La presente parte aplica para las entidades del Gobierno nacional y comprende la implementación de acciones y la destinación de recursos de acuerdo con las prioridades territoriales y poblacionales para la reducción de la pobreza y de otras inequidades que afectan a la población, entre otras disposiciones.
 
-ARTÍCULO
-
 ## art:2.5.3 — Definición y objetivo general de la Mesa de Equidad
 
 La Mesa de Equidad es la instancia de alto nivel, de carácter estratégico y decisorio, presidida y convocada por el Presidente de la República, con el objetivo de establecer directrices para los sectores y entidades del Gobierno nacional para la aprobación de diseños e implementación de acciones y la destinación de recursos de acuerdo con las prioridades territoriales y poblacionales para la reducción de la pobreza, la reducción de otras inequidades que limitan la inclusión social y productiva de la población, el seguimiento de las acciones del Gobierno nacional, la rendición de cuentas para asegurar la atención prioritaria a la población en condición de pobreza y el cumplimiento de las metas trazadoras en esta materia. La Mesa de Equidad será el espacio en el que se acuerden los diseños de los programas del Gobierno nacional que tengan impacto en la reducción de la pobreza y en la reducción de otras inequidades que afectan a la población.
-
-ARTÍCULO
 
 ## art:2.5.4 — Objetivos específicos de la Mesa de Equidad
 
@@ -10301,8 +9141,6 @@ Serán objetivos específicos de la Mesa de Equidad:
 2. Coordinar a los sectores y entidades del Gobierno nacional para el diseño e implementación de acciones y estrategias para reducir otras desigualdades de resultados e inequidades en oportunidades que limitan la inclusión social y productiva de la población.
 
 3. Definir estrategias de inclusión social y productiva para la sostenibilidad en la generación de ingresos y el acceso a los servicios sociales de la población vulnerable.
-
-ARTÍCULO
 
 ## art:2.5.5 — 5.5
 
@@ -10329,8 +9167,6 @@ Funciones de la Mesa de Equidad: Para el cumplimiento de sus objetivos, la Mesa 
 10. Aprobar su reglamento interno y el de las instancias que la conforman.
 
 PARÁGRAFO . Todas las decisiones que se tomen en la Mesa de Equidad tendrán en cuenta la disponibilidad presupuestal, el Marco de Gasto de Mediano Plazo, el Marco Fiscal de Mediano Plazo y el Plan Plurianual de Inversiones. Adicionalmente se tendrá en cuenta la Hoja de Ruta Única para la implementación de la política de estabilización.
-
-ARTÍCULO
 
 ## art:2.5.6 — 5.6
 
@@ -10392,8 +9228,6 @@ PARÁGRAFO 2. Previa solicitud de la Secretaría Técnica de la Mesa, a las sesi
 
 PARÁGRAFO 3. La Defensoría del Pueblo y la Procuraduría General de la Nación podrán asistir en calidad de invitados con voz, pero sin voto para realizar aportes que estimen de utilidad para los fines encomendados a la Mesa de Equidad.
 
-ARTÍCULO
-
 ## art:2.5.7 — Instancias de apoyo
 
 La Mesa de Equidad tendrá las siguientes instancias de apoyo, así:
@@ -10418,13 +9252,9 @@ a. Coordinar, en conjunto con alcaldías y gobernaciones, los compromisos de ate
 
 b. Realizar seguimiento al desarrollo de estrategias territoriales de superación de pobreza, de acuerdo con los compromisos adquiridos por alcaldías y gobernaciones.
 
-ARTÍCULO
-
 ## art:2.5.8 — Intercambio de información
 
 Proceso mediante el cual las entidades en el marco de sus funciones constitucionales y legales efectúan el intercambio de datos para el cumplimiento del objeto del presente Decreto. Para efectuar el intercambio de información, las entidades podrán hacer uso del mecanismo que consideren idóneo para el efecto, como convenios, cronogramas, protocolos, entre otros, siempre y cuando cumplan los requisitos establecidos en la normatividad vigente.
-
-ARTÍCULO
 
 ## art:2.5.9 — Sesiones y decisiones
 
@@ -10436,8 +9266,6 @@ La Mesa Técnica Nacional sesionará de manera permanente de acuerdo con las nec
 
 En territorio, las sesiones de los Consejos de Política Social a nivel departamental, distrital y municipal definirán la periodicidad de las jornadas de los Espacios de Articulación Territorial.
 
-ARTÍCULO
-
 ## art:2.5.10 — Actas de la Mesa
 
 De las reuniones efectuadas por la Mesa de Equidad se dejará constancia en actas, las cuales contendrán la relación sucinta de los temas tratados, deliberaciones, argumentos y decisiones adoptadas.
@@ -10446,13 +9274,9 @@ PARÁGRAFO 1. Las actas de la Mesa Técnica Nacional serán elaboradas por la Se
 
 PARÁGRAFO 2. Las actas de los Espacios de Articulación Territorial serán elaboradas por la dependencia de las entidades territoriales que estas determinen, la cual tendrá entre sus funciones la custodia de las actas de cada reunión y la remisión de los informes a que haya lugar a la instancia competente.
 
-ARTÍCULO
-
 ## art:2.5.11 — Aprobación de las actas
 
 La Secretaría Técnica elaborará y remitirá el proyecto de acta a los integrantes de la Mesa de Equidad dentro de los cinco (5) días hábiles siguientes a la sesión. Los miembros de la Mesa de Equidad podrán realizar observaciones o manifestar su aprobación dentro de los cinco (5) días hábiles siguientes a la recepción del proyecto de acta. Si vencido el plazo no se han recibido observaciones, se entenderá que el proyecto de acta fue aprobado.
-
-ARTÍCULO
 
 ## art:2.5.12 — Tablero de Control de la Mesa de Equidad
 
@@ -10470,13 +9294,9 @@ La Mesa de Equidad tendrá un Tablero de Control que será el principal instrume
 
 PARÁGRAFO . La definición de las fuentes de información para el seguimiento a las metas establecidas por la Mesa de Equidad, así como su análisis y custodia estarán a cargo de la Secretaría Técnica.
 
-ARTÍCULO
-
 ## art:2.5.13 — Secretaría Técnica
 
 La Mesa de Equidad tendrá una Secretaría Técnica permanente que será ejercida, de manera conjunta, por el Departamento Nacional de Planeación -DNP y el Departamento Administrativo para la Prosperidad Social -Prosperidad Social, quienes dispondrán de un equipo técnico para su desarrollo. La secretaría técnica estará encargada de operacionalizar, gestionar y coordinar las decisiones de la Mesa de Equidad y de la Mesa Técnica Nacional.
-
-ARTÍCULO
 
 ## art:2.5.14 — Funciones de la Secretaria Técnica
 
@@ -10536,15 +9356,11 @@ CAPITULO 1
 
 PROGRAMA INGRESO SOLIDARIO
 
-ARTÍCULO
-
 ## art:2.6.1.1.1 — Objeto
 
 El presente Capítulo tiene como objeto establecer los criterios para la ejecución y operación del programa de Ingreso Solidario, de acuerdo con lo establecido en el Decreto Legislativo 518 de 2020 y el Decreto Legislativo 812 de 2020.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2 — Criterios de focalización, montos de transferencias monetarias y esquema de dispersión de pagos
 
@@ -10555,8 +9371,6 @@ En todo caso, el Departamento Administrativo para la Prosperidad Social tendrá 
 Así mismo, el Departamento Administrativo para la Prosperidad Social podrá utilizar fuentes adicionales de información que permitan mejorar la focalización y ubicación de las personas y hogares más vulnerables beneficiarios del Programa de Ingreso Solidario. Además, estará facultado para entregar o compartir dicha información con las entidades involucradas en las transferencias no condicionadas del Programa, atendiendo lo dispuesto en las Leyes 1266 de 2008 y 1581 de 2012.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3 — Determinación de Potenciales Beneficiarios
 
@@ -10570,15 +9384,11 @@ PARÁGRAFO 2. Cuando los recursos del programa de Ingreso Solidario tengan como 
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.4 — Transferencia de recursos
 
 En el marco del programa de Ingreso Solidario, el giro de recursos por concepto de las transferencias monetarias no condicionadas por parte de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público se podrá llevar a cabo en las Cuentas de Depósito en el Banco de la República de las entidades financieras que participen en la dispersión de recursos, con las que los beneficiarios del programa tengan relación previamente, sin que para el efecto se requiera la celebración de contratos entre el Departamento Administrativo para la Prosperidad Social y las entidades financieras.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.5 — Suscripción de contratos
 
@@ -10587,8 +9397,6 @@ El Departamento Administrativo para la Prosperidad Social podrá suscribir nuevo
 PARÁGRAFO . Cuando los procesos de contratación se realicen con cargo a los recursos del Fondo de Mitigación de Emergencias -FOME, se adelantarán bajo el régimen de derecho privado de conformidad con lo señalado en el artículo 6 del Decreto Legislativo 444 de 2020.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.6 — Tratamiento de la información
 
@@ -10600,21 +9408,17 @@ Las entidades privadas deberán entregar la información que sea solicitada por 
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
 
-## art:2.6.1.1 — 7. Costos operativos
+## art:2.6.1.1.7 — Costos operativos
 
 Los costos operativos requeridos para la entrega de las transferencias monetarias no condicionadas del Programa de Ingreso Solidario se asumirán con cargo a los recursos del Fondo de Mitigación de Emergencias - FOME.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.8 — Tarifas
 
 En virtud de las competencias de administración y ejecución del Programa Ingreso Solidario de que trata el parágrafo 3 del artículo 5 del Decreto Legislativo 812 de 2020, el Departamento Administrativo para la Prosperidad Social ejercerá lo establecido en el artículo 5 del Decreto Legislativo 518 de 2020.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.9 — Exención de impuestos
 
@@ -10624,15 +9428,11 @@ El ingreso solidario que reciban los beneficiarios será considerado como ingres
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.10 — Inembargabilidad de los subsidios
 
 De conformidad con lo ordenado por el artículo 7 del Decreto Legislativo 518 de 2020, los recursos de las transferencias del programa Ingreso Solidario serán inembargables y no podrán abonarse a ningún tipo de obligación del beneficiario con la entidad financiera a través de la cual se disperse la transferencia monetaria no condicionada.
 
 (Modificado por el Art. 1 del Decreto 696 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.11 — Manual Operativo
 
@@ -10648,8 +9448,6 @@ CAPITULO 2
 
 COMPENSACIÓN DEL IMPUESTO SOBRE LAS VENTAS -IVA.
 
-ARTÍCULO
-
 ## art:2.6.1.2.1 — Regulación del esquema de compensación del impuesto sobre las ventas (IVA)
 
 De acuerdo con lo establecido en el artículo 21 de la Ley 2010 de 2019 y el Decreto Legislativo 812 de 2020, las disposiciones especiales para la ejecución y operación de la compensación a favor de la población más vulnerable para generar mayor equidad en el Impuesto sobre las Ventas - IVA, se regirán por lo dispuesto en el Capítulo 19 del Título 1 de la Parte 3 del Libro 1 del Decreto 1625 de 2016 Único Reglamentario en Materia Tributaria y en el Título 1 de la Parte 6 del Libro 2 del Decreto 1084 de 2015 Único Reglamentario del Sector de Inclusión Social y Reconciliación.
@@ -10657,8 +9455,6 @@ De acuerdo con lo establecido en el artículo 21 de la Ley 2010 de 2019 y el Dec
 CAPITULO 3
 
 PROGRAMA DE PROTECCIÓN SOCIAL AL ADULTO MAYOR - COLOMBIA MAYOR.
-
-ARTÍCULO
 
 ## art:2.6.1.3.1 — Regulación del programa de Protección Social al Adulto Mayor - Colombia Mayor
 
@@ -10668,13 +9464,9 @@ CAPITULO 4
 
 DISPOSICIONES TRANSITORIAS.
 
-ARTÍCULO
-
 ## art:2.6.1.4.1 — Mecanismo de traslado
 
 En cumplimiento del artículo 5 del Decreto Legislativo 812 de 2020, las condiciones, mecanismos y procedimientos de entrega de los programas de Protección Social al Adulto Mayor - Colombia Mayor-, Ingreso Solidario y el esquema de compensación del impuesto sobre las ventas -IVA- al Departamento Administrativo para la Prosperidad Social, serán establecidas entre las entidades involucradas mediante el convenio interadministrativo que se suscriba para el efecto y la suscripción de un acta de entrega y recibo a satisfacción, los cuales se celebrarán de conformidad con las disposiciones establecidas en el presente Decreto.
-
-ARTÍCULO
 
 ## art:2.6.1.4.2 — Atención conjunta y coordinada a los requerimientos de información, peticiones, quejas y reclamos
 
@@ -10687,8 +9479,6 @@ Disposiciones finales
 PARTE I
 
 Derogatoria y Vigencia
-
-ARTÍCULO
 
 ## art:3.1.1 — Derogatoria Integral
 
@@ -10703,8 +9493,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 4) En particular, se exceptúan de la derogatoria las siguientes normas reglamentarias: decretos 1813 de 2000; 1290 de 2008, exclusivamente para los fines de la transición prevista en el artículo 2.2.7.3.10 del presente Decreto; y los artículos 30, 32, 34, 36, 37, 38, 40, 42, 45 (únicamente el inciso segundo) y 48 del Decreto 2388 de 1979.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -10721,91 +9509,3 @@ JUAN MANUEL SANTOS CALDERON
 LA DIRECTORA DEL DEPARTAMENTO ADMINISTRATIVO PARA LA PROSPERIDAD SOCIAL
 
 TATIANA OROZCO DE LA CRUZ
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

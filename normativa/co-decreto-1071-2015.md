@@ -7,7 +7,7 @@ ramas: [agrario, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76838
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Agricultura y Desarrollo Rural
@@ -15,8 +15,6 @@ verificado: 2026-09-11
 El Ministerio de Agricultura y Desarrollo Rural tiene a su cargo la orientación, control y evaluación del ejercicio de las funciones de sus entidades adscritas y vinculadas, sin perjuicio de las potestades de decisión que les correspondan, así como de su participación en la formulación de la política, en la elaboración de los programas sectoriales y en la ejecución de los mismos.
 
 (Decreto 1985 de 2013, art. 1,)
-
-ARTÍCULO
 
 ## art:1.1.1.2 — Estructura
 
@@ -27,8 +25,6 @@ El Sector Agropecuario, Pesquero y de Desarrollo Rural, de conformidad con la no
 TÍTULO 2
 
 Órganos Sectoriales de Asesoría y Coordinación
-
-ARTÍCULO
 
 ## art:1.1.2.1 — Órganos Sectoriales de Asesoría y Coordinación
 
@@ -62,8 +58,6 @@ Mesa Nacional de Insumos Agropecuarios
 
 FONDOS ESPECIALES
 
-ARTÍCULO
-
 ## art:1.1.3.1 — Fondos especiales
 
 Son Fondos Especiales del Sector Agropecuario, Pesquero y de Desarrollo Rural, los siguientes:
@@ -92,8 +86,6 @@ TÍTULO 1
 
 Entidades Adscritas
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Entidades adscritas con personería jurídica
 
 Son entidades adscritas al Ministerio de Agricultura y Desarrollo Rural con personería jurídica, las siguientes:
@@ -108,8 +100,6 @@ Son entidades adscritas al Ministerio de Agricultura y Desarrollo Rural con pers
 
 (Decreto 1985 de 2013, art. 1, numeral 1)
 
-ARTÍCULO
-
 ## art:1.2.1.2 — Entidades adscritas sin personería jurídica
 
 Son entidades adscritas al Ministerio de Agricultura y Desarrollo Rural sin personería jurídica, las siguientes:
@@ -121,8 +111,6 @@ Son entidades adscritas al Ministerio de Agricultura y Desarrollo Rural sin pers
 TÍTULO 2
 
 Entidades Vinculadas
-
-ARTÍCULO
 
 ## art:1.2.2.1 — Entidades vinculadas
 
@@ -149,8 +137,6 @@ Son entidades vinculadas al Ministerio de Agricultura y Desarrollo Rural, las si
 TÍTULO 3
 
 Corporaciones de Participación Mixta
-
-ARTÍCULO
 
 ## art:1.2.3.1 — Corporaciones de participación mixta
 
@@ -180,8 +166,6 @@ CAPÍTULO 1
 
 Naturaleza y organización del Fondo
 
-ARTÍCULO
-
 ## art:2.1.1.1.1 — Naturaleza del Fondo de Inversiones de Capital de Riesgo
 
 El Fondo de Inversiones de Capital de Riesgo creado por el artículo décimo de la Ley 1133 de 2007 funcionará, para todos los efectos legales, como un fondo cuenta sin personería jurídica, y será administrado por el Fondo para el Financiamiento del Sector Agropecuario, FINAGRO.
@@ -190,15 +174,11 @@ Los recursos y pasivos del Fondo no formarán parte del patrimonio de FINAGRO, y
 
 (Decreto 2594 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.1.1.2 — Finalidad
 
 El objeto del Fondo de Inversiones de Capital de Riesgo será apoyar y desarrollar iniciativas productivas, preferiblemente en zonas con limitaciones para la concurrencia de inversión privada, dando prioridad a proyectos productivos agroindustriales.
 
 (Decreto 2594 de 2007, art. 2)
-
-ARTÍCULO
 
 ## art:2.1.1.1.3 — Origen de los recursos
 
@@ -220,15 +200,11 @@ El funcionamiento y en general el régimen jurídico de los actos, contratos, se
 
 (Decreto 2594 de 2007, art. 3)
 
-ARTÍCULO
-
 ## art:2.1.1.1.4 — 1.4
 
 Administración La administración del Fondo de Inversiones de Capital de Riesgo estará a cargo de FINAGRO, quien podrá ejecutar y celebrar los actos y contratos necesarios para el efecto, con autonomía técnica y administrativa.
 
 (Decreto 2594 de 2007, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.1.1.5 — Gastos a cargo del fondo
 
@@ -238,15 +214,11 @@ Por razón de la administración del Fondo, FINAGRO percibirá la comisión que 
 
 (Decreto 2594 de 2007, art. 5)
 
-ARTÍCULO
-
 ## art:2.1.1.1.6 — Régimen jurídico
 
 El funcionamiento y en general el régimen jurídico del Fondo, sus actos, contratos, servidores y las relaciones con terceros, será el mismo que tiene FINAGRO, de conformidad con lo establecido en el parágrafo 10 del artículo 32 de la Ley 80 de 1993.
 
 (Decreto 2594 de 2007, art. 6)
-
-ARTÍCULO
 
 ## art:2.1.1.1.7 — Inversiones
 
@@ -260,15 +232,11 @@ PARÁGRAFO . Con los excedentes de liquidez del Fondo se podrán realizar operac
 
 (Decreto 2594 de 2007, art. 7)
 
-ARTÍCULO
-
 ## art:2.1.1.1.8 — Responsabilidad de FINAGRO
 
 La obligación de FINAGRO respecto de la realización de las inversiones y demás actos necesarios para obtener la finalidad del Fondo, se entiende de medio y no de resultado, en consideración a que el riesgo es de la esencia del objeto del Fondo.
 
 (Decreto 2594 de 2007, art. 8)
-
-ARTÍCULO
 
 ## art:2.1.1.1.9 — Vigencia
 
@@ -278,15 +246,11 @@ En el evento en que al finalizar el término anterior se encuentren inversiones 
 
 (Decreto 2594 de 2007, art. 9)
 
-ARTÍCULO
-
 ## art:2.1.1.1.10 — Participación de inversionistas nacionales y extranjeros
 
 Los inversionistas nacionales y extranjeros, públicos o privados, podrán participar en los proyectos en los que invierta el Fondo, bien mediante aportes al capital de las sociedades que se constituyan como vehículo para las inversiones, de manera directa en los proyectos, o mediante cualquier otra figura societaria o contractual legalmente permitida. El Fondo podrá recibir donaciones de entidades públicas o privadas, nacionales o extranjeras. El retiro de los inversionistas se regulará en los contratos de sociedad, acuerdos, convenios o contratos que se suscriban con el Fondo.
 
 (Decreto 2594 de 2007, art. 10)
-
-ARTÍCULO
 
 ## art:2.1.1.1.11 — Concentración de inversiones
 
@@ -297,8 +261,6 @@ PARÁGRAFO 1. La Junta Directiva de FINAGRO, con el voto del Ministro de Agricul
 PARÁGRAFO 2. Para los efectos del presente título, el valor patrimonial de las empresas en que invierta el Fondo, se establecerá deduciendo el 50% de la cuenta de valorización de propiedades y equipos, o su equivalente, registrada el mes inmediatamente anterior a la realización del aporte de capital, de acuerdo con las normas de contabilidad vigentes.
 
 (Decreto 2594 de 2007, art. 11)
-
-ARTÍCULO
 
 ## art:2.1.1.1.12 — Elegibilidad
 
@@ -311,8 +273,6 @@ PARÁGRAFO . Cuando un proyecto tenga un alto impacto social, sólo se tomará e
 La Junta Directiva de FINAGRO, con el voto favorable del Ministro de Agricultura y Desarrollo Rural, determinará cuáles de estos proyectos serán sometidos al procedimiento para efectuar inversiones de que trata el artículo siguiente.
 
 (Decreto 2594 de 2007, art. 12, modificado por el Decreto 3064 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.1.1.13 — Procedimiento para efectuar inversiones
 
@@ -328,8 +288,6 @@ PARÁGRAFO . El procedimiento descrito en el presente artículo también se apli
 
 (Decreto 2594 de 2007, art. 13, modificado por el Decreto 3064 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.1.1.1.14 — Rendición de cuentas
 
 FINAGRO rendirá cuentas comprobadas de su gestión del Fondo cada seis (6) meses, ante el Ministerio de Agricultura y Desarrollo Rural. El informe contendrá un detalle de las inversiones realizadas, sus rendimientos, inversiones de portafolio y la forma en que se ha administrado el mismo.
@@ -340,23 +298,17 @@ CAPÍTULO 2
 
 Autorización especial
 
-ARTÍCULO
-
 ## art:2.1.1.2.1 — Autorización
 
 Autorizar al Fondo para el Financiamiento del Sector Agropecuario, Finagro, como administrador del Fondo de Inversiones de Capital de Riesgo del Programa "Agro, Ingreso Seguro, AIS", para participar mediante la realización de aportes de capital en la constitución de una sociedad de economía mixta indirecta cuyo objeto será la construcción y operación de plantas de producción de almidones con base en productos agrícolas, y la comercialización de dichos productos, y cualquier otra actividad complementaría o conexa, sin perjuicio de lo que establezcan sus propios estatutos.
 
 (Decreto 268 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.1.2.2 — Régimen de la autorización
 
 La autorización que por este decreto se confiere deberá ejercerse de acuerdo con lo establecido en la Ley 489 de 1 998 en lo que respecta a la constitución de sociedades de economía mixta, y demás normas legales que la reformen o complementen.
 
 (Decreto 268 de 2008, art. 2)
-
-ARTÍCULO
 
 ## art:2.1.1.2.3 — Régimen derecho privado
 
@@ -368,8 +320,6 @@ CAPÍTULO 3
 
 Nuevas situaciones de crisis
 
-ARTÍCULO
-
 ## art:2.1.1.3.1 — Nuevas situaciones de crisis
 
 Para los efectos de la aplicación de la Ley 302 de 1996 durante la vigencia 2014, además de las situaciones de crisis dispuestas en el artículo 20 de dicha disposición, se tendrá en cuenta como nueva situación de crisis las variaciones significativas y sostenidas en los precios de los productos o insumos agropecuarios, que se traduzcan en caídas severas y sostenidas de ingresos para los productores.
@@ -379,8 +329,6 @@ Los Ministerios de Agricultura y Desarrollo Rural y de Hacienda y Crédito Públ
 La Junta Directiva del FONSA podrá incorporar nuevos beneficiarios individuales, incluyendo aquellos que se encuentren integrados en créditos asociativos o en alianzas estratégicas.
 
 (Decreto 355 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.1.3.2 — Cartera objeto de compra
 
@@ -393,8 +341,6 @@ Dicha cartera deberá haberse vencido entre el 1, de enero de 2011 y el 28 de fe
 PARÁGRAFO . También podrá ser objeto de esta compra, la cartera que habiendo sido garantizada por el FAG, la garantía haya sido pagada entre el 1 de enero de 2011 y el 28 de febrero de 2014.
 
 (Decreto 355 de 2014, art. 2, modificado por el Decreto 1036 de 2014, art. 1 y 2)
-
-ARTÍCULO
 
 ## art:2.1.1.3.3 — Condiciones de compra de la cartera
 
@@ -410,15 +356,11 @@ PARÁGRAFO 2. No se considerará que existe derecho adquirido respecto a la comp
 
 (Decreto 355 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.1.1.3.4 — Primas de los seguros de vida
 
 El programa asumirá el pago de las primas de los seguros de vida asociados a las obligaciones adquiridas en la compra de cartera de que trata el presente decreto. En el caso que se agoten estos recursos, el costo de las primas de seguros de vida podrá ser trasladado a los deudores.
 
 (Decreto 355 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.1.3.5 — Nuevos mecanismos de crédito
 
@@ -464,15 +406,11 @@ d) Margen de redescuento: El margen de redescuento será hasta del cien por cien
 
 (Decreto 355 de 2014, art. 5, modificado por el Decreto 1036 de 2014, art. 3, 4, 5 y 6)
 
-ARTÍCULO
-
 ## art:2.1.1.3.6 — Ejecución de los recursos
 
 La ejecución de los recursos será por demanda y hasta el agotamiento de los recursos apropiados para el efecto. En la asignación de los recursos, Finagro aplicará el principio de "primer llegado, primer servido".
 
 (Decreto 355 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.1.1.3.7 — Monto de los instrumentos
 
@@ -498,23 +436,17 @@ CAPÍTULO 1
 
 Administración del Fondo Agropecuario de Garantías
 
-ARTÍCULO
-
 ## art:2.1.2.1.1 — Administración
 
 FINAGRO ejercerá la administración del Fondo Agropecuario de Garantías, FAG, que le asigna el Capítulo V de la Ley 16 de 1990, en los términos que esta norma señala, en los que fijen posteriores determinaciones legales o reglamentarias nacionales, en las directrices generales de la Comisión Nacional de Crédito Agropecuario y en las que profiera la Junta Directiva de FINAGRO en desarrollo de tales normas.
 
 (Decreto 1982 de 1992, art. 1. Concordancia con funciones y resoluciones de la Comisión Nacional de Crédito Agropecuario)
 
-ARTÍCULO
-
 ## art:2.1.2.1.2 — Cubrimiento de gastos
 
 Los gastos que demande la administración del FAG por parte de FINAGRO serán cubiertos con recursos del mismo Fondo Agropecuario de Garantías, de acuerdo con el monto del presupuesto de gastos de administración e inversión del mismo, que proponga la Junta Directiva de FINAGRO a la Comisión Nacional de Crédito Agropecuario, la cual le impartirá su aprobación, y se ejecutará mediante la ordenación de gastos por parte de FINAGRO.
 
 (Decreto 1982 de 1992, art. 2)
-
-ARTÍCULO
 
 ## art:2.1.2.1.3 — Régimen presupuestal
 
@@ -526,15 +458,11 @@ CAPÍTULO 2
 
 Garantías otorgadas por el Fondo Nacional de Garantías
 
-ARTÍCULO
-
 ## art:2.1.2.2.1 — Respaldos del Fondo Nacional de Garantías
 
 Sin perjuicio de lo establecido en el artículo 28 de la Ley 16 de 1990, el Fondo Agropecuario de Garantías, FAG, podrá respaldar el valor redescontado de los créditos agropecuarios presentados ante el Fondo para el Financiamiento del Sector Agropecuario, Finagro, que hayan sido otorgados a los productores distintos de los pequeños, que no puedan ofrecer las garantías normalmente requeridas por los intermediarios financieros.
 
 (Decreto 2572 de 2000, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2 — Clasificación de productores agropecuarios para efectos de la garantía de créditos
 
@@ -552,8 +480,6 @@ PARÁGRAFO 2. Tratándose de beneficiarios definidos como grandes productores y 
 
 (Decreto 2572 de 2000, art. 2)
 
-ARTÍCULO
-
 ## art:2.1.2.2.3 — Coberturas
 
 Las coberturas de garantía por tipo de productor podrán ser de hasta el ochenta por ciento (80%) del valor del capital en el caso de los pequeños productores, de hasta el sesenta por ciento (60%) en los medianos y de hasta el cincuenta por ciento (50%) en los grandes productores.
@@ -562,15 +488,11 @@ No obstante, en programas definidos conforme al numeral 4o del artículo 10 de l
 
 (Decreto 2572 de 2000, art. 3)
 
-ARTÍCULO
-
 ## art:2.1.2.2.4 — Otra cobertura
 
 Para proyectos ejecutados conforme a la definición de alianzas estratégicas efectuada por el Ministerio de Agricultura y Desarrollo Rural, independientemente del tipo de productores que la conformen, la cobertura podrá ser de hasta el ochenta por ciento (80%) del valor del crédito otorgado.
 
 (Decreto 2572 de 2000, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.2.2.5 — Respaldo a colectivos de productores
 
@@ -578,23 +500,17 @@ El Fondo Agropecuario de Garantías, FAG, respaldará preferencialmente los proy
 
 (Decreto 2572 de 2000, art. 5)
 
-ARTÍCULO
-
 ## art:2.1.2.2.6 — Comisiones
 
 Las comisiones de garantía sobre los saldos de los valores amparados por el Fondo Agropecuario de Garantías, FAG, serán del uno por ciento (1 %) anual anticipado en los créditos de pequeños productores, de dos por ciento (2%) anual anticipado en los de mediano, y de dos y medio por ciento (2.5%) anual anticipado en los de grandes. Para el caso de los proyectos colectivos, la comisión se establecerá a prorrata de acuerdo con la participación patrimonial de los diferentes tipos de productores.
 
 (Decreto 2572 de 2000, art. 6)
 
-ARTÍCULO
-
 ## art:2.1.2.2.7 — Reglamento
 
 El Fondo para el Financiamiento del Sector Agropecuario - Finagro establecerá el reglamento operativo del Fondo.
 
 (Decreto 2572 de 2000, art. 7)
-
-ARTÍCULO
 
 ## art:2.1.2.2.8 — Pequeño Productor
 
@@ -604,13 +520,13 @@ PARÁGRAFO . Para el caso de los beneficiarios de Reforma Agraria, el valor de l
 
 (Decreto 2179 de 2015, art. 1; Modificado por el Decreto 691 de 2018, art. 1)
 
-ARTÍCULO
+## art:2.1.2.2.9 — 
 
 . 2.1.2.2.9. Calificación de pequeño productor agropecuario. (Derogado por el Decreto 691 de 2018, art. 2). Adicionalmente, para calificar como pequeño productor agropecuario la persona deberá estar obteniendo no menos de las dos terceras partes de sus ingresos de la actividad agropecuaria o mantener por lo menos el 75% de sus activos invertidos en el sector agropecuario, según el balance.
 
 (Decreto 312 de 1991, art. 2)
 
-ARTÍCULO
+## art:2.1.2.2.10 — 
 
 . 2.1.2.2.10. Beneficiarios del crédito destinado a pequeños productores. Podrán ser beneficiarios del crédito destinado a pequeños productores las Empresas Comunitarias, las Asociaciones de Usuarios de Reforma Agraria, del Plan Nacional de Rehabilitación y del programa DRI u otras modalidades de asociación o integración de productores, siempre y cuando todos sus miembros clasifiquen individualmente como pequeños productores.
 
@@ -619,8 +535,6 @@ ARTÍCULO
 CAPÍTULO 3
 
 Compromisos de aportes públicos al Fondo Agropecuario de Garantías FAG
-
-ARTÍCULO
 
 ## art:2.1.2.3.1 — Compromiso de aportes públicos al FAG
 
@@ -638,15 +552,11 @@ CAPÍTULO 4
 
 Garantías para Refinanciación de Cartera Agropecuaria
 
-ARTÍCULO
-
 ## art:2.1.2.4.1 — Cálculo global
 
 Con fundamento en la información suministrada al Fondo Agropecuario de Garantías, FAG, por la Caja Agraria, los demás Bancos Comerciales, las Corporaciones Financieras y aquellas entidades que administran recursos de crédito del Fondo Nacional del Café, el Ministerio de Agricultura y Desarrollo Rural presentará a consideración del CONFIS, el cálculo global correspondiente al sesenta por ciento (60%) de las cuotas anuales de interés y capital de los créditos agropecuarios reestructurables (sic) por los establecimientos de crédito, en los términos del artículo 17 de la Ley 101 de 1993, con el fin de que dicho organismo apruebe el monto de las garantías a expedir, por el valor total del programa de reestructuración.
 
 (Decreto 627 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.2.4.2 — Siniestralidad
 
@@ -654,15 +564,11 @@ A más tardar el 31 de marzo de cada año, el Ministerio de Agricultura y Desarr
 
 (Decreto 627 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.1.2.4.3 — Créditos reestructurados
 
 El FAG podrá otorgar garantías para créditos reestructurados con fundamento en la aprobación del CONFIS establecida en el artículo 2.1.2.4.1. del presente Capítulo, condicionando su pago, de una parte, al valor de los incumplimientos ocurridos en cada año y, de otro lado, al monto total de los recursos que efectivamente le hayan sido apropiados y situados del Presupuesto General de la Nación. Sin embargo, el Fondo Agropecuario de Garantías podrá cubrir con cargo a sus recursos ordinarios disponibles los defectos de liquidez transitorios que se presenten, siempre y cuando no comprometa para este efecto, más del 10% de sus recursos.
 
 (Decreto 627 de 1994, art. 3)
-
-ARTÍCULO
 
 ## art:2.1.2.4.4 — Reglamentación
 
@@ -675,8 +581,6 @@ TÍTULO 3
 (Título sustituido por el Art. 3 del Decreto 1449 de 2015)
 
 Fondo de Solidaridad Agropecuario- FONSA
-
-ARTÍCULO
 
 ## art:2.1.3.1 — Operatividad del Fondo de Solidaridad Agropecuario frente a los medianos productores
 
@@ -704,27 +608,19 @@ PARÁGRAFO 3. Para efectos del cumplimiento del artículo 9 de la Ley 2071 de 20
 
 (Adicionado por el Art. 4 del Decreto 596 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.3.2 — Operaciones que puede realizar el operador del Programa FONSA
 
 El administrador del FONSA podrá realizar las operaciones de qué trata el artículo 4 de la Ley 302 de 1996, modificado por el artículo 13 de la Ley 1731 de 2014, de conformidad con la reglamentación que para el efecto expida su Junta Directiva.
 
 Estas operaciones se podrán efectuar por iniciativa de la Junta Directiva del FONSA, por solicitud de los productores o de las asociaciones de estos ante el Ministerio de Agricultura y Desarrollo Rural. Dicha solicitud deberá ir acompañada, por lo menos, de prueba sumaria de la existencia de alguno de los eventos previstos en el artículo 2 de la Ley 302 de 1996, modificado por el artículo 12 de la Ley 1731 de 2014.
 
-ARTÍCULO
-
 ## art:2.1.3.3 — Solicitud de documentos para efectuar operaciones objeto de FONSA
 
 Para efectuar las operaciones de que tratan los numerales 1, 2 y 5 del artículo 4 de la Ley 302 de 1996, modificado por el artículo 13 de la Ley 1731 de 2014, el administrador del Fondo deberá tener en cuenta la naturaleza de la operación de que se trate, con el fin de solicitar los documentos pertinentes.
 
-ARTÍCULO
-
 ## art:2.1.3.4 — Recompra de tierras
 
 En el caso de recompra de tierras previsto en el numeral 4 del artículo 4 de la Ley 302 de 1996, modificado por el artículo 13 de la ley 1731 del 2014, la compra efectiva de los predios correspondientes la realizará el Instituto Colombiano de Desarrollo Rural - INCODER, o la entidad que haga sus veces, mediante Contrato de Mandato que para este efecto suscriba con el Ministerio de Agricultura y Desarrollo Rural.
-
-ARTÍCULO
 
 ## art:2.1.3.5 — Representantes de los productores ante la Junta Directiva del FONSA
 
@@ -746,13 +642,9 @@ PARÁGRAFO TRANSITORIO. Todos los representantes de las organizaciones de peque�
 
 (Decreto 1524 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.3.6 — Secretaría Técnica de la Junta Directiva del FONSA
 
 La Secretaría Técnica de la Junta Directiva del Fondo de Solidaridad Agropecuario estará a cargo del Viceministro de Asuntos Agropecuarios, quien haga sus veces o su delegado. Esta Junta, mediante acuerdos, expedirá las reglamentaciones que sean de su competencia.
-
-ARTÍCULO
 
 ## art:2.1.3.7 — Compra de cartera de pasivos no financieros
 
@@ -770,15 +662,11 @@ La compra de dicha cartera será efectuada, previa valoración por un experto co
 
 5. Probabilidad de incumplimiento y pérdida esperada dado el incumplimiento una vez sea adquirida.
 
-ARTÍCULO
-
 ## art:2.1.3.8 — Recuperación de la cartera
 
 Después de que el Fondo de Solidaridad Agropecuario adquiera de los respectivos intermediarios financieros parcial o totalmente la cartera de los productores, ésta se recuperará de conformidad con la reglamentación que para este efecto expida la Junta Directiva de dicho Fondo.
 
 Los deudores que sean pequeños productores, que hubieren sido beneficiarios del Fondo y que, de acuerdo con las condiciones financieras establecidas por la Junta Directiva de éste, incumplieren al mismo el pago de sus deudas dentro de los plazos pactados, no podrán acceder nuevamente a los recursos del Fondo durante el término que determine la Junta Directiva del FONSA. Esta podrá determinar así mismo el valor a pagar por parte de los beneficiarios, y los plazos, períodos muertos y de gracia, así como decidir sobre las ampliaciones de plazo o reestructuraciones de las obligaciones, y el traslado a los beneficiarios de los descuentos obtenidos en la compra de las mismas.
-
-ARTÍCULO
 
 ## art:2.1.3.9 — 3.9
 
@@ -852,21 +740,15 @@ CAPÍTULO 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.1.4.1.1 — Naturaleza
 
 El Fondo de Fomento Agropecuario fue creado mediante el Decreto Ley 313 de 1960, como una cuenta separada, incluida en el Presupuesto del Ministerio de Agricultura y Desarrollo Rural, y será administrado por el Despacho del Ministro o por quien este delegue.
-
-ARTÍCULO
 
 ## art:2.1.4.1.2 — Objeto
 
 El Fondo de Fomento Agropecuario impulsará las actividades que contribuyan al fomento del desarrollo del Sector Agropecuario, Pesquero, de Acuicultura y de Desarrollo Rural.
 
 El objetivo del Fondo se cumplirá en el marco de las políticas que adopte el Ministerio de Agricultura y Desarrollo Rural, mediante la cofinanciación de proyectos aprobados bajo las directrices expedidas para el Fondo, respetando los principios de desarrollo sostenible.
-
-ARTÍCULO
 
 ## art:2.1.4.1.3 — Objetivos específicos
 
@@ -886,8 +768,6 @@ Con el fin de dar cumplimiento al objetivo previsto en el artículo anterior, el
 
 7. Materializar estos propósitos mediante la cofinanciación de proyectos que se enmarquen en estos objetivos y estén dentro de los lineamientos de política que para el efecto determine el Ministerio de Agricultura y Desarrollo Rural.
 
-ARTÍCULO
-
 ## art:2.1.4.1.4 — Definiciones de pequeño y mediano productor
 
 Para efectos de lo dispuesto en este Título, se tendrán en cuenta las siguientes definiciones:
@@ -896,8 +776,6 @@ Para efectos de lo dispuesto en este Título, se tendrán en cuenta las siguient
 
 2. Mediano Productor: Es toda persona dedicada a la actividad agropecuaria, pesquera, acuícola o de desarrollo rural campesino, cuyos activos totales no superen los mil quinientos salarios mínimos legales mensuales vigentes (1500 smlmv), incluidos los del cónyuge, o compañero permanente si fuere el caso.
 
-ARTÍCULO
-
 ## art:2.1.4.1.5 — Recursos del Fondo
 
 El Fondo está compuesto por recursos provenientes del Presupuesto General de la Nación, de los departamentos, de los municipios, de donaciones, aportes y contrapartidas de organismos internacionales, nacionales, empresas privadas, asociaciones campesinas, gremiales, fundaciones sin ánimo de lucro y similares.
@@ -905,8 +783,6 @@ El Fondo está compuesto por recursos provenientes del Presupuesto General de la
 La distribución interna de los recursos del Fondo de Fomento Agropecuario se hará anualmente mediante resolución del Ministerio de Agricultura y Desarrollo Rural. En la distribución se reflejarán las líneas de cofinanciación que se atiendan con el mismo, para lo cual se tendrán en cuenta los beneficiarios de que trata el artículo 2. 1.4.1.7. del Decreto 1071 de 2015
 
 (Modificado por el Art. 1 del Decreto 1701 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.4.1.6 — Proyectos objeto de apoyo
 
@@ -942,13 +818,9 @@ En todos los casos los proyectos deben estar enmarcados dentro de los objetivos 
 
 (Modificado por el Art. 2 del Decreto 1701 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.4.1.7 — Beneficiarios
 
 Son beneficiarios de los recursos del Fondo de Fomento Agropecuario los pequeños y medianos productores agropecuarios, pesqueros o de acuicultura, o los relacionados con el desarrollo rural, de conformidad con lo dispuesto en el artículo 2.1.4.1.4., del presente decreto.
-
-ARTÍCULO
 
 ## art:2.1.4.1.8 — Entidades u organizaciones que pueden presentar propuestas
 
@@ -976,8 +848,6 @@ Los proyectos podrán ser presentados por las siguientes entidades u organizacio
 
 (Modificado por el Art. 3 del Decreto 1701 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.4.1.9 — Gastos no cofinanciables
 
 No podrán ser cofinanciados aquellos gastos operativos no inherentes a la naturaleza propia del proyecto. Tampoco podrán ser cofinanciados: ningún tipo de comisión; impuestos y aranceles tales como timbre, renta, ICA, tasas aeroportuarias, entre otros impuestos y aranceles; cancelación de pagos de pasivos, pago de dividendos o aportes de capital a empresas; calamidades domésticas o cualquier tipo de actividades que no tengan relación directa con las propuestas presentadas, deudas por concepto de multas y sanciones en que hayan incurrido los proponentes o potenciales beneficiarios frente a las autoridades tributarias; pólizas de garantía; gastos no presupuestados en las propuestas aprobadas; compra de edificaciones, terrenos o vehículos.
@@ -990,13 +860,9 @@ El Ministerio de Agricultura y Desarrollo Rural determinará mediante resolució
 
 (Modificado por el Art. 4 del Decreto 1701 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.4.1.10 — Contrapartida
 
 El valor mínimo de la contrapartida que deben aportar los proponentes será del veinte por ciento (20%) del valor del proyecto. La contrapartida podrá estar representada en dinero, bienes o servicios de acuerdo a la línea del proyecto cofinanciado.
-
-ARTÍCULO
 
 ## art:2.1.4.1.11 — Trámite y requisitos
 
@@ -1005,8 +871,6 @@ Las condiciones generales del ciclo de los proyectos, así como los requisitos p
 PARÁGRAFO . El Manual Operativo de que trata el presente artículo deberá ser publicado a más tardar el 30 de junio de 2021
 
 (Modificado por el Art. 5 del Decreto 1701 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.4.1.12 — Cuantía a cofinanciar
 
@@ -1018,8 +882,6 @@ CAPÍTULO 2
 
 PROYECTOS DERIVADOS DEL DECRETO 870 DE 2014
 
-ARTÍCULO
-
 ## art:2.1.4.2.1 — Régimen jurídico de los proyectos
 
 Los proyectos presentados por las entidades u organizaciones pertenecientes a la Cumbre Agraria, Campesina, Étnica y Popular se regularán por lo previsto en el Decreto 870 de 2014, en el presente Capítulo y, en todo lo no previsto en este, por las reglas generales establecidas en el Capítulo 1 del presente Título.
@@ -1027,8 +889,6 @@ Los proyectos presentados por las entidades u organizaciones pertenecientes a la
 Los proyectos podrán presentarse en cualquier tiempo, durante la vigencia de los acuerdos a que hace referencia el inciso segundo del artículo 9 del Decreto 870 de 2014, y, en caso de no ser viabilizados técnica, financiera o jurídicamente, podrán ser subsanados, sin plazos especiales, para que cumplan los requerimientos exigibles, o se podrán presentar nuevos proyectos hasta alcanzar el monto total previsto en el Acta de Acuerdos del 13 de mayo de 2014, suscrita con la Cumbre Agraria, Campesina, Étnica y Popular.
 
 PARÁGRAFO . En el caso de los proyectos presentados por las entidades u organizaciones pertenecientes a la Cumbre Agraria, Campesina, Étnica y Popular, serán beneficiarios los productores ancestrales, tradicionales y comunitarios, siempre y cuando cumplan con los requisitos establecidos en el artículo 2.1.4.1.4., del presente título.
-
-ARTÍCULO
 
 ## art:2.1.4.2.2 — Gastos del proyecto
 
@@ -1042,8 +902,6 @@ PARÁGRAFO 1. Para efectos de lo dispuesto en el numeral 1 de este artículo, el
 
 PARÁGRAFO 2. El Ministerio de Agricultura y Desarrollo Rural, con cargo a los recursos del proyecto aprobado por el Fondo de Fomento Agropecuario, dentro de los destinados al cumplimiento de los acuerdos con la Cumbre Agraria, Campesina, Étnica y Popular, podrá cubrir los gastos relacionados con el alquiler de transporte y de maquinaria que permitan el desarrollo del proyecto respectivo, siempre y cuando tales gastos sean inherentes al proyecto y únicamente por el periodo de ejecución definido para éste.
 
-ARTÍCULO
-
 ## art:2.1.4.2.3 — Aporte adicional
 
 Los proyectos a los que se refiere el Decreto 870 de 2014 no requerirán contrapartida de cofinanciación. Sin embargo, en cumplimiento de lo previsto en el artículo 96 de la Ley 489 de 1998, las entidades u organizaciones beneficiarias del Fondo de Fomento Agropecuario deberán incluir un aporte adicional y cierto en tales proyectos que, sumado a los recursos invertidos por parte del Ministerio, constituirán el valor total del proyecto. Dicho aporte adicional podrá ser en dinero, bienes o servicios, y deberá estar determinado con precisión en el proyecto, especificado o desagregado, con su respectiva valoración económica y sustentación en soportes idóneos, de acuerdo a la naturaleza y características del proyecto respectivo.
@@ -1051,8 +909,6 @@ Los proyectos a los que se refiere el Decreto 870 de 2014 no requerirán contrap
 CAPÍTULO 3
 
 Disposición final
-
-ARTÍCULO
 
 ## art:2.1.4.3.1 — Aplicación
 
@@ -1070,13 +926,9 @@ CAPÍTULO 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.1.5.1.1 — Naturaleza y objeto del FNEA
 
 El Fondo Nacional de Extensión Agropecuaria - FNEA, operará como una cuenta, sin personería jurídica, conformado por subcuentas departamentales y/o subsectoriales, adscrito y bajo la administración de la Agencia de Desarrollo Rural - ADR, el cual estará destinado a la financiación de la prestación del Servicio Público de Extensión Agropecuaria, ejecutado a través de los Planes Departamentales de Extensión Agropecuaria - PDEA.
-
-ARTÍCULO
 
 ## art:2.1.5.1.2 — Alcance del FNEA
 
@@ -1088,13 +940,9 @@ PARÁGRAFO 2. Las actividades por financiar serán las establecidas en el Manual
 
 PARÁGRAFO 3. En los casos en los que se evidencien inconvenientes en la realización de la asistencia técnica de forma física, la misma se podrá brindar virtualmente con lo que se garantizará la universalidad y continuidad del servicio.
 
-ARTÍCULO
-
 ## art:2.1.5.1.3 — Administración de los recursos
 
 Los recursos del Fondo Nacional de Extensión Agropecuaria -FNEA, deberán ser administrados por la ADR a través de una Sociedad Fiduciaria, en una cuenta separada de la entidad administradora, para los fines establecidos en la Ley 1876 de 2017 y el presente Título y en el marco de lo establecido en el Estatuto Orgánico del Sistema Financiero.
-
-ARTÍCULO
 
 ## art:2.1.5.1.4 — Régimen jurídico
 
@@ -1106,13 +954,9 @@ CAPÍTULO 2.
 
 DIRECCIÓN DEL FONDO
 
-ARTÍCULO
-
 ## art:2.1.5.2.1 — Dirección del FNEA
 
 El órgano directivo del Fondo Nacional de Extensión Agropecuaria -FNEA, será el Consejo Directivo de la Agencia de Desarrollo Rural, definido en el artículo 8 del Decreto Ley 2364 de 2015.
-
-ARTÍCULO
 
 ## art:2.1.5.2.2 — Funciones del Consejo directivo
 
@@ -1148,8 +992,6 @@ En desarrollo de su objeto, el Consejo Directivo de la Agencia de Desarrollo Rur
 
 15. Las demás que se requieran para el cabal cumplimiento y desarrollo de los objetivos del Fondo Nacional de Extensión Agropecuaria - FNEA.
 
-ARTÍCULO
-
 ## art:2.1.5.2.3 — Comité Técnico
 
 El Fondo Nacional de extensión Agropecuaria - FNEA, contará con un Comité Técnico, integrado por los siguientes miembros:
@@ -1163,8 +1005,6 @@ El Fondo Nacional de extensión Agropecuaria - FNEA, contará con un Comité Té
 4. El Director de Uso Eficiente del suelo y Adecuación de Tierras de la Unidad de Planificación Rural Agropecuaria - UPRA.
 
 PARÁGRAFO . La Secretaría Técnica del Comité Técnico la ejercerá la Agencia de Desarrollo Rural.
-
-ARTÍCULO
 
 ## art:2.1.5.2.4 — Funciones Comité Técnico
 
@@ -1196,8 +1036,6 @@ CAPÍTULO 3.
 
 FUENTES DE FINANCIACIÓN
 
-ARTÍCULO
-
 ## art:2.1.5.3.1 — Recursos
 
 Los recursos del FNEA de acuerdo con lo establecido en la Ley 1876 de 2017 estarán conformados por:
@@ -1220,19 +1058,13 @@ PARÁGRAFO 1. En relación con los recursos provenientes del Presupuesto General
 
 PARÁGRAFO 2. Los proyectos y actividades para financiar, producto de las donaciones de personas naturales o jurídicas, nacionales o extranjeras y organismos internacionales, deberán tener el visto bueno del Ministerio de Agricultura y Desarrollo Rural.
 
-ARTÍCULO
-
 ## art:2.1.5.3.2 — Aportes
 
 Los aportes de las entidades públicas del orden nacional o territorial, de organizaciones internacionales o de entidades privadas, deberán ser únicamente en dinero y consignados en la fiducia dispuesta por la Agencia de Desarrollo Rural, de conformidad con lo previsto en el Manual de Operación del Fondo Nacional de Extensión Agropecuaria -FNEA.
 
-ARTÍCULO
-
 ## art:2.1.5.3.3 — Administración eficiente de los recursos
 
 Los recursos y rendimientos del Fondo Nacional de Extensión Agropecuaria - FNEA provenientes del Presupuesto General de la Nación, se someterán a lo establecido en el artículo 149 de la Ley 1753 de 2015, modificado por el artículo 36 de la Ley 1955 de 2019, y las demás normas que lo modifiquen, adicionen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.1.5.3.4 — Gastos operativos
 
@@ -1248,15 +1080,11 @@ CAPÍTULO 1
 
 MARCO GENERAL
 
-ARTÍCULO
-
 ## art:2.1.6.1.1 — Naturaleza
 
 El Fondo de Fomento para las Mujeres Rurales - FOMMUR es una cuenta especial del Ministerio de Agricultura y Desarrollo Rural, sin personería jurídica, la cual se manejará de forma independiente a los demás recursos del Ministerio de Agricultura y Desarrollo Rural.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.1.2 — Objeto
 
@@ -1265,8 +1093,6 @@ De conformidad con lo dispuesto en el artículo 10 de la Ley 731 de 2002, el FOM
 Para el efecto, se entenderá que la mujer rural es aquella definida en el artículo 2 de la Ley 731 de 2002, o la norma que la sustituya, modifique o adicione.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.1.3 — Enfoques del FOMMUR
 
@@ -1286,8 +1112,6 @@ El funcionamiento del FOMMUR se enmarcará a través, entre otros, de los siguie
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.6.1.4 — Manual Operativo
 
 El FOMMUR contará con un Manual Operativo en el que se establecerán los criterios y procedimientos para la recepción, evaluación y selección de los planes, programas o proyectos presentados al Fondo; la asignación de recursos, estructuración, implementación, acompañamiento, seguimiento, monitoreo y evaluaciones durante o ex-post a la realización de las iniciativas apoyadas; así como todos los aspectos indicados en el desarrollo de este Título.
@@ -1297,8 +1121,6 @@ PARÁGRAFO 1. El Ministerio de Agricultura y Desarrollo Rural adoptará mediante
 PARÁGRAFO 2. En todo caso, aquellas iniciativas que correspondan a proyectos de inversión a ser financiados con recursos públicos canalizados por el FOMMUR, deberán seguir la metodología de formulación establecida por el Departamento Nacional de Planeación, así como encontrarse viables y registrados en los sistemas de información dispuestos por dicha entidad para esta finalidad.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.1.5 — Beneficiarias
 
@@ -1313,8 +1135,6 @@ Son beneficiarias directas de los planes, programas o proyectos apoyados por el 
 PARÁGRAFO . Cuando se trate de organizaciones rurales mixtas, entendidas estas como aquellas conformadas por hombres y mujeres, el porcentaje de mujeres en estas organizaciones debe ser mínimo del treinta por ciento (30%) y contar en su junta directiva o instancias de dirección y toma de decisiones, con por lo menos, a una mujer rural. En todo caso, las iniciativas de las cuales son beneficiarias las organizaciones mixtas deberán ser lideradas por las mujeres rurales de la misma. Lo anterior será reglamentado en el Manual Operativo del FOMMUR.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.1.6 — Priorización en el FOMMUR
 
@@ -1348,8 +1168,6 @@ PARÁGRAFO 2. Para efectos de este Título, se entenderá por "Mujer rural de ba
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.6.1.7 — Líneas de cofinanciación del FOMMUR
 
 De conformidad con el artículo 10 de la Ley 731 de 2002, el FOMMUR contará con cuatro (4) líneas de cofinanciación de iniciativas, que destinarán sus recursos a la población beneficiaria bajo las siguientes modalidades:
@@ -1378,15 +1196,11 @@ PARÁGRAFO 3. En el marco de la ejecución de las iniciativas apoyadas por el FO
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.6.1.8 — Rubros financiables
 
 El Ministerio de Agricultura y Desarrollo Rural definirá los rubros financiables por cada convocatoria en los términos de referencia.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.1.9 — Rubros no financiables
 
@@ -1394,25 +1208,21 @@ El Ministerio de Agricultura y Desarrollo Rural definirá los rubros no financia
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.6.1.10 — Distribución de recursos del FOMMUR
 
 La distribución interna de los recursos del FOMMUR, establecidos en el artículo 12 de la Ley 731 de 2002, se hará mediante resolución del Ministerio de Agricultura y Desarrollo Rural según lo recomendado por el Comité Directivo, en la que se reflejarán los recursos por cada línea de cofinanciación del Fondo anualmente.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-## art:2.1.6 — 1.11
+## art:2.1.6.1.11 — Gastos operativos
 
-Gastos operativos. Los recursos de funcionamiento asignados al FOMMUR se podrán destinar a gastos operativos, logísticos y de administración, que sean estrictamente necesarios y estén directamente relacionados con la recepción, evaluación, selección, implementación, acompañamiento, seguimiento, monitoreo y evaluación durante o ex-post de los planes, programas y proyectos apoyados por el Fondo o de la estrategia general desarrollada por el Fondo.
+Los recursos de funcionamiento asignados al FOMMUR se podrán destinar a gastos operativos, logísticos y de administración, que sean estrictamente necesarios y estén directamente relacionados con la recepción, evaluación, selección, implementación, acompañamiento, seguimiento, monitoreo y evaluación durante o ex-post de los planes, programas y proyectos apoyados por el Fondo o de la estrategia general desarrollada por el Fondo.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
 CAPÍTULO 2
 
 ESTRUCTURA DEL FOMMUR
-
-ARTÍCULO
 
 ## art:2.1.6.2.1 — Estructura general
 
@@ -1427,8 +1237,6 @@ El FOMMUR estará conformado por:
 4. Administrador del FOMMUR
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.2.2 — Comité Directivo
 
@@ -1453,8 +1261,6 @@ PARÁGRAFO 1. La delegación de los funcionarios se realizará de conformidad co
 PARÁGRAFO 2. Corresponderá al Ministerio de Agricultura y Desarrollo Rural, mediante resolución, fijar los criterios para la escogencia, participación y períodos de representación de las mujeres rurales que harán parte del Comité Directivo del FOMMUR, de conformidad con el artículo 20 de la Ley 731 de 2002.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.2.3 — Funciones del Comité Directivo
 
@@ -1482,23 +1288,17 @@ PARÁGRAFO 2. En los casos en que después del cierre de una convocatoria, no se
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.6.2.4 — Comité Técnico
 
 El Ministerio de Agricultura y Desarrollo Rural podrá, a través de resolución, determinar la conformación de un Comité Técnico del FOMMUR y sus funciones.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.6.2.5 — Secretaría Técnica
 
 Corresponderá al Ministerio de Agricultura y Desarrollo Rural, a través de resolución, determinar la conformación de la Secretaría Técnica del FOMMUR y sus funciones.
 
 (Adicionado por el Art. 2 del Decreto 1731 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.6.2.6 — Administración del FOMMUR
 
@@ -1518,8 +1318,6 @@ CAPÍTULO 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.1.1.1 — Objeto
 
 El presente título tiene por objeto reglamentar el Subsidio Familiar de Vivienda de Interés Social Rural en dinero o en especie para áreas rurales como instrumento para facilitar una solución de vivienda a hogares de escasos recursos económicos.
@@ -1527,8 +1325,6 @@ El presente título tiene por objeto reglamentar el Subsidio Familiar de Viviend
 Así mismo, establecer las directrices relacionadas con la responsabilidad que demande el otorgamiento, administración y ejecución del Subsidio Familiar de Vivienda de Interés Social, en su componente rural, para que se cumplan con eficiencia y eficacia por parte de las Entidades Otorgantes, Oferentes, Promotoras, Operadoras y Ejecutoras.
 
 (Decreto 1934 de 2015 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2 — Definiciones
 
@@ -1572,8 +1368,6 @@ h. Las Cajas de Compensación Familiar en la medida en que su normatividad lo au
 
 (Decreto 1934 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3 — Ámbito de aplicación
 
 La presente reglamentación del Subsidio Familiar de Vivienda de Interés Social Rural tiene cobertura nacional y se aplicará a todas las zonas definidas como suelo rural en los Planes de Ordenamiento Territorial, de acuerdo con lo establecido en la Ley 388 de 1997, o en las normas que la modifiquen, sustituyan, adicionen o complementen.
@@ -1581,8 +1375,6 @@ La presente reglamentación del Subsidio Familiar de Vivienda de Interés Social
 PARÁGRAFO . Para los efectos de este título, cuando se haga referencia al Plan de Ordenamiento Territorial, se entenderá que comprende sin distinción alguna, todos los tipos de planes previstos en el artículo 9 de la Ley 388 de 1997 o en las normas que la modifiquen, sustituyan, adicionen o complementen.
 
 (Decreto 1160 de 2010, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.4 — Noción
 
@@ -1594,8 +1386,6 @@ El Subsidio es restituible en los términos establecidos en la Ley 3ª de 1991 y
 
 (Decreto 1160 de 2010, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.5 — Hogar objeto del Subsidio Familiar de Vivienda de Interés Social Rural
 
 Para los efectos del presente título se entenderá por hogar aquel conformado por los cónyuges, las uniones maritales de hecho, incluyendo las parejas del mismo sexo, y/o el grupo de personas unidas por vínculos de parentesco hasta tercer grado de consanguinidad, segundo de afinidad y primero civil, que compartan un mismo espacio habitacional.
@@ -1603,8 +1393,6 @@ Para los efectos del presente título se entenderá por hogar aquel conformado p
 El hogar en los resguardos indígenas y en los territorios colectivos de las comunidades afrocolombianas legalmente establecidos, se ajustará a sus usos y costumbres.
 
 (Decreto 1160 de 2010, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.6 — Hogares susceptibles de postulación
 
@@ -1646,8 +1434,6 @@ PARÁGRAFO . Quedarán exceptuados del requerimiento del Sistema de Identificaci
 
 (Decreto 1934 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.7 — Postulación
 
 Se entiende por postulación la solicitud de Subsidio Familiar de Vivienda de Interés Social Rural que realiza un hogar a través de una Entidad Oferente y/o Entidad Promotora, bien sea bajo la modalidad de construcción de vivienda nueva o de mejoramiento de vivienda y saneamiento básico, y sin perjuicio de lo previsto en el artículo 2.2.1.10.6 del presente decreto.
@@ -1658,15 +1444,11 @@ PARÁGRAFO . Las postulaciones que se presenten ante las Cajas de Compensación 
 
 (Decreto 1934 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.8 — Tipología de Vivienda de Interés Social Rural
 
 Es la propuesta técnica y financiera de vivienda realizada por la Entidad Otorgante del Subsidio Familiar de Vivienda de Interés Social Rural que permite su ampliación por parte del beneficiario para un desarrollo progresivo. Esta tipología deberá cumplir con las condiciones y particularidades climáticas, geográficas, topográficas y culturales de cada zona o región, así como con lo establecido en el artículo 2.2.1.2.5 de este decreto.
 
 (Decreto 1934 de 2015 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.9 — Entidades oferentes
 
@@ -1676,15 +1458,11 @@ PARÁGRAFO . Para el caso de los Proyectos de Vivienda de Interés Social Rural 
 
 (Decreto 1160 de 2010, art. 8, modificado por el Decreto 900 de 2012, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.1.10 — Solución de Vivienda de Interés Social Rural Prioritaria
 
 Es la estructura habitacional que permite a un hogar disponer de condiciones mínimas de espacio, salubridad, saneamiento básico y calidad estructural y constructiva. Su diseño debe permitir el desarrollo progresivo de la vivienda, y el valor de ésta no podrá superar los setenta salarios mínimos mensuales legales vigentes (70 SMMLV).
 
 (Decreto 1934 de 2015 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.11 — Entidades Otorgantes
 
@@ -1694,15 +1472,11 @@ Las Cajas de Compensación Familiar serán las Entidades Otorgantes de los recur
 
 (Decreto 1934 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.12 — Reglamento Operativo del Programa de Vivienda de Interés Social Rural
 
 La Entidad Otorgante deberá expedir y mantener vigente el Reglamento Operativo del Programa de Vivienda de Interés Social Rural, el cual se sujetará a las disposiciones del presente título y contendrá como mínimo, los procedimientos para la selección de postulantes, la tipología de Vivienda de Interés Social Rural, los requisitos de la adjudicación condicionada del subsidio, el desembolso de los recursos, la ejecución y liquidación de los proyectos que se desarrollen dentro del Programa de Vivienda de Interés Social Rural, y lo relacionado con la entrega efectiva de la solución de vivienda a los beneficiarios, así como los trámites de protocolización del subsidio; con los respectivos términos de ejecución para cada actividad.
 
 (Decreto 1934 de 2015 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.13 — Valor del Subsidio
 
@@ -1724,8 +1498,6 @@ PARÁGRAFO 2. El Programa de Vivienda de Interés Social Rural deberá atenderse
 
 (Decreto 1934 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.14 — Límite a la cuantía del subsidio
 
 La cuantía del Subsidio Familiar de Vivienda de Interés Social Rural al momento de su adjudicación será del cien por ciento (100%) del valor de la solución de vivienda, exceptuando los programas de desarrollo rural cuya cuantía será hasta del setenta por ciento (70%) del valor de la solución de vivienda. El porcentaje restante será aportado exclusivamente en dinero por la Entidad Oferente, a que se refiere el literal d) del numeral 5 del artículo 2.2.1.1.2. del presente decreto.
@@ -1740,8 +1512,6 @@ CAPÍTULO 2
 
 Modalidades
 
-ARTÍCULO
-
 ## art:2.2.1.2.1 — Modalidades del Subsidio Familiar de Vivienda
 
 El Subsidio de Vivienda de Interés Social Rural tendrá las siguientes modalidades:
@@ -1753,8 +1523,6 @@ El Subsidio de Vivienda de Interés Social Rural tendrá las siguientes modalida
 3. Adquisición de vivienda nueva con cargo a los recursos parafiscales administrados por las Cajas de Compensación Familiar.
 
 (Decreto 1160 de 2010, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2 — Mejoramiento de Vivienda y Saneamiento Básico
 
@@ -1824,8 +1592,6 @@ PARÁGRAFO 4. Las anteriores acciones podrán igualmente aplicarse a los Subsidi
 
 (Modificado por el Art, 1 del Decreto 1052 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3 — Construcción de Vivienda Nueva
 
 Es la modalidad que le permite a un hogar beneficiario del subsidio edificar una estructura habitacional en:
@@ -1842,15 +1608,11 @@ PARÁGRAFO . La construcción de vivienda nueva puede hacerse en forma dispersa 
 
 (Decreto 1934 de 2015 art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4 — Adquisición de Vivienda Nueva
 
 Es la modalidad a través de la cual el beneficiario del Subsidio Familiar de Vivienda de Interés Social Rural otorgado a través de las Cajas de Compensación Familiar, adquiere su solución de vivienda en el mercado, dentro de los proyectos rurales que hayan sido declarados elegibles por las Cajas de Compensación Familiar, conforme a los requisitos y procedimientos establecidos en el presente título.
 
 (Decreto 1160 de 2010, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.1.2.5 — Condiciones de Vivienda
 
@@ -1860,8 +1622,6 @@ PARÁGRAFO . En situaciones especiales, establecidas por la Entidad Otorgante, a
 
 (Decreto 1934 de 2015 art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.6 — Suministro de agua
 
 Sólo se podrá destinar el Subsidio de Vivienda de Interés Social Rural a las soluciones de vivienda, en cualquiera de las modalidades de que trata el presente título, que cuenten con suministro inmediato de agua apta para el consumo humano, requisito que se verificará en la forma señalada en el Reglamento Operativo. El suministro de este recurso podrá prestarse mediante tecnologías tradicionales o alternativas siempre que estas aseguren la correcta prestación del servicio.
@@ -1869,8 +1629,6 @@ Sólo se podrá destinar el Subsidio de Vivienda de Interés Social Rural a las 
 En el caso del subsidio otorgado por las Cajas de Compensación Familiar en la modalidad de adquisición de vivienda nueva, este requisito deberá verificarse mediante certificado emitido por la entidad territorial en donde conste el suministro inmediato de agua apta para consumo humano.
 
 (Decreto 1160 de 2010, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.2.7 — Sistemas alternativos
 
@@ -1882,15 +1640,11 @@ CAPÍTULO 3
 
 Distribución de los Recursos
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Fuente de recursos para el Subsidio Familiar de Vivienda de Interés Social Rural
 
 Los recursos para la asignación del Subsidio Familiar de Vivienda de Interés Social Rural serán los que se determinen en el Presupuesto General de la Nación en cada vigencia y los que se obtengan de otras fuentes con este destino, así como las contribuciones parafiscales administradas por las Cajas de Compensación Familiar.
 
 (Decreto 1160 de 2010, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2 — Recursos provenientes de las contribuciones parafiscales
 
@@ -1908,23 +1662,17 @@ Cuando no se presenten postulaciones durante el último trimestre de asignación
 
 (Decreto 1160 de 2010, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3 — Excedentes y rendimientos financieros
 
 Los excedentes y/o rendimientos financieros de los recursos destinados al Subsidio Familiar de Vivienda de Interés Social Rural serán aplicados al Programa de Vivienda de Interés Social Rural atendiendo las necesidades definidas por el Ministerio de Agricultura y Desarrollo Rural, previa recomendación de la Comisión Intersectorial de Vivienda de Interés Social Rural, consignación al Tesoro Público y Programación Presupuesta en el Ministerio de Agricultura y Desarrollo Rural para tales fines.
 
 (Decreto 1934 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4 — Recursos
 
 Los recursos destinados al Subsidio Familiar de Vivienda de Interés Social Rural tanto para la Bolsa Nacional como para la Bolsa de atención a población víctima, serán los que para el efecto sean apropiados por el Presupuesto General de la Nación para cada vigencia, en concordancia con los proyectos de inversión registrados y aprobados en el Banco de Programas y Proyectos de Inversión Nacional.
 
 (Decreto 1934 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5 — Distribución de los recursos de la Bolsa Nacional
 
@@ -1995,8 +1743,6 @@ Para los programas estratégicos de atención a población víctima, el Minister
 (Modificado por el Art. 1 del Decreto 2257 de 2019)
 
 (Decreto 1934 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.3.6 — Distribución de los recursos de la bolsa para la atención a población víctima
 
@@ -2076,8 +1822,6 @@ CAPÍTULO 4
 
 Aporte
 
-ARTÍCULO
-
 ## art:2.2.1.4.1 — Aporte de transporte
 
 Es el aporte en dinero o en especie de la Entidad Oferente y/o de otras entidades que concurren a la cofinanciación de las soluciones de vivienda, para el transporte de materiales al sitio de construcción de cada solución de vivienda. Los aportes de las Entidades Territoriales deberán corresponder a gastos de inversión y se considerarán como tal en los proyectos de vivienda de interés social rural estructurados.
@@ -2092,8 +1836,6 @@ PARÁGRAFO 2. El Ministerio de Agricultura y Desarrollo Rural podrá determinar 
 
 (Decreto 1934 de 2015 art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2 — Consignación del aporte de transporte en dinero
 
 El cien por ciento (100%) del aporte de transporte en dinero deberá ser consignado en una cuenta bancaria especial, en la oficina del Banco Agrario de Colombia S.A. del municipio o distrito más cercano o en el de más fácil acceso, dentro de los veinte (20) días hábiles siguientes a la notificación de la exigencia del cumplimiento del requisito.
@@ -2107,8 +1849,6 @@ Se entenderá garantizado el aporte de transporte financiado por el Sistema Gene
 En el Reglamento Operativo del Programa se establecerán las condiciones de manejo de esta cuenta especial, entre otras, el traslado de tales recursos a la cuenta del proyecto manejada por la Entidad Operadora contratada por la Entidad Otorgante. La Entidad Operadora contratará con estos recursos exclusivamente el transporte de materiales sin causar ningún costo administrativo.
 
 (Decreto 1934 de 2015 art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3 — Estructura Financiera del Proyecto de Vivienda de Interés Social Rural
 
@@ -2132,8 +1872,6 @@ e. Administración, Imprevistos y Utilidad AIU.
 
 (Decreto 1934 de 2015 art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.4.4 — Aportes de los hogares postulantes al subsidio otorgado por las Cajas de Compensación Familiar
 
 Los aportes de los hogares postulantes al subsidio otorgado por las Cajas de Compensación Familiar se sujetarán a las condiciones que provea el marco legal vigente aplicable.
@@ -2148,8 +1886,6 @@ SECCIÓN 1
 
 Asignación de Recursos
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.1 — Proceso de asignación de recursos
 
 Con posterioridad a la distribución departamental a la que hacen referencia los artículos 2.2.1.3.5 y 2.2.1.3.6 del presente decreto, el Ministerio de Agricultura y Desarrollo Rural realizará la distribución municipal tomando en consideración los criterios de priorización previamente establecidos.
@@ -2159,8 +1895,6 @@ Con posterioridad a la distribución departamental a la que hacen referencia los
 SECCIÓN 2
 
 Preselección de Postulantes y Diagnóstico
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.1 — Preselección y selección de postulantes
 
@@ -2322,8 +2056,6 @@ PARÁGRAFO . Las Entidades Promotoras seleccionarán los hogares directamente, d
 
 (Decreto 1934 de 2015, art.8)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.2 — Diagnóstico Integral
 
 Posterior a la publicación del resultado de la selección de hogares postulantes realizada por la Entidad Otorgante, la Entidad Operadora, en coordinación con la Entidad Oferente, efectuará un diagnóstico integral individual en el que indicará para cada hogar como mínimo la ubicación georreferenciada que permita determinar los costos del aporte de transporte, concepto de zona de riesgo, cumplimiento de las normas y demás reglamentaciones sobre uso y aprovechamiento del suelo, la verificación de la propiedad o posesión del inmueble por el tiempo indicado en la normatividad vigente y los requisitos del hogar para acceder al subsidio, así como las condiciones ambientales del inmueble en donde se aplicará el subsidio. Para efectos de la verificación del cumplimiento de requisitos la Entidad Operadora deberá entregar un expediente por beneficiario a la Entidad Otorgante con los soportes pertinentes. Para la modalidad de mejoramiento de vivienda y saneamiento básico se deberán verificar las deficiencias de la vivienda existente de acuerdo al orden de prioridad establecido en el artículo 2.2.1.2.2.
@@ -2338,8 +2070,6 @@ SECCIÓN 3
 
 Postulación
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.1 — Período para la postulación
 
 (Derogado por el Artículo 17 del Decreto 1934 de 2015). La postulación deberá hacerla la Entidad Oferente ante la Entidad Otorgante dentro del período comprendido entre las fechas de apertura y cierre de la Convocatoria.
@@ -2347,8 +2077,6 @@ ARTÍCULO
 La postulación se realizará mediante el diligenciamiento y entrega de los documentos que se indiquen en el Reglamento Operativo del Programa.
 
 (Decreto 1160 de 2010, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.2 — Prohibiciones para la postulación de los hogares
 
@@ -2360,8 +2088,6 @@ En la selección de los hogares las Entidades Oferentes y la Entidad Otorgante d
 
 (Decreto 1934 de 2015, art.8)
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.3 — Sustitución de Beneficiarios
 
 Cuando no se haya iniciado la ejecución de la obra de una vivienda en particular y el correspondiente hogar tenga que ser excluido por causas justificadas por la Entidad Oferente y aceptadas por la Entidad Otorgante, este podrá ser sustituido por otro hogar que cumpla con todos los requisitos para ser beneficiario del Subsidio Familiar de Vivienda de Interés Social Rural.
@@ -2369,8 +2095,6 @@ Cuando no se haya iniciado la ejecución de la obra de una vivienda en particula
 El Reglamento Operativo del Programa establecerá los requisitos y procedimientos a través de los cuales se realizará la sustitución.
 
 (Decreto 1160 de 2010, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.4 — Condiciones de la Postulación
 
@@ -2382,8 +2106,6 @@ SECCIÓN 4
 
 Estructuración, Radicación, Revisión y Calificación
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.1 — Estructuración del Proyecto
 
 Corresponde al ajuste técnico realizado a la Tipología de Vivienda de Interés Social Rural según las condiciones y especificaciones de la zona a intervenir, así como a la formulación financiera y jurídica realizada por la Entidad Operadora, con base en el listado de hogares de acuerdo con el resultado del diagnóstico integral. La Entidad Operadora deberá verificar el cumplimiento de las normas de sismorresistencia al ajuste realizado y emitir concepto respectivo.
@@ -2392,15 +2114,11 @@ PARÁGRAFO . En la estructuración del proyecto deberán contemplarse las condic
 
 (Decreto 1934 de 2015, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.2 — Radicación del proyecto estructurado
 
 La Entidad Operadora radicará el proyecto estructurado junto con la documentación requerida ante la Entidad Otorgante dentro del término establecido en el Reglamento Operativo del Programa.
 
 (Decreto 1934 de 2015, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.3 — Documentos que se deben adjuntar al radicar y presentar el Proyecto
 
@@ -2410,15 +2128,11 @@ PARÁGRAFO . La Entidad Oferente, incluirá la estructura financiera expresada e
 
 (Decreto 1160 de 2010, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.4 — Revisión de la estructuración del proyecto
 
 La Entidad Otorgante verificará y validará el cumplimiento de los aspectos técnicos, financieros, jurídicos y sociales exigidos en la normatividad vigente, particularmente en las Leyes 3 de 1991, 388 y 400 de 1997, y en las normas que las modifiquen, sustituyan, adicionen o complementen.
 
 (Decreto 1934 de 2015 art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.5 — Calificación del Proyecto
 
@@ -2427,8 +2141,6 @@ ARTÍCULO
 PARÁGRAFO . Para efectos de la calificación de los trabajadores afiliados a las Cajas de Compensación Familiar, se aplicará la fórmula definida en el Decreto 2190 de 2009, tal como fue compilado por el Decreto Único Reglamentario del Sector Administrativo de Vivienda, Ciudad y Territorio.
 
 (Decreto 1160 de 2010, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.6 — Variables de calificación
 
@@ -2530,8 +2242,6 @@ PARÁGRAFO . El Ministerio de Agricultura y Desarrollo Rural ajustará los actos
 
 (Decreto 1160 de 2010, art. 45, modificado por el Decreto 900 de 2012, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.7 — Certificado de Elegibilidad y Puntaje
 
 (Derogado por el Artículo 17 del Decreto 1934 de 2015.) La elegibilidad es la manifestación formal mediante la cual, y según la documentación aportada por el oferente, la Entidad Evaluadora emite concepto favorable de viabilidad a los proyectos presentados durante la convocatoria. La Entidad Evaluadora expedirá el certificado de elegibilidad e informará el puntaje obtenido por el proyecto, en el formato establecido en el Reglamento Operativo del Programa. En ningún caso la certificación de elegibilidad de un proyecto generará derecho alguno para la asignación del Subsidio Familiar de Vivienda de Interés Social Rural.
@@ -2542,15 +2252,11 @@ SECCIÓN 5
 
 Asignación del Subsidio
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.1 — Revisoría fiscal previa a la asignación del subsidio
 
 Antes de la asignación del Subsidio Familiar de Vivienda de Interés Social Rural, con recursos provenientes del presupuesto nacional, la Entidad Otorgante deberá obtener la certificación de la revisoría fiscal correspondiente sobre el cumplimiento de los procesos y procedimientos establecidos.
 
 (Decreto 1160 de 2010, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.2 — Asignación condicionada del subsidio
 
@@ -2566,15 +2272,11 @@ PARÁGRAFO . Si la Entidad Promotora, la Agencia de Nacional de Tierras, una Ent
 
 (Decreto 1934 de 2015, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.3 — Notificación de la asignación de los subsidios
 
 La Entidad Otorgante notificará el resultado de la asignación de los subsidios a las Entidades Oferentes y/o Promotoras que hayan organizado la demanda de los hogares postulados, indicando la fecha de la asignación, el o la jefe del hogar beneficiario y el valor del subsidio. Así mismo, publicará en un medio masivo de comunicación y en su página web el listado de los hogares beneficiarios con el Subsidio Familiar de Vivienda de Interés Social Rural.
 
 (Decreto 1934 de 2015, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.4 — Remisión de la lista de beneficiarios al Sistema de Información del Subsidio Familiar de Vivienda
 
@@ -2585,8 +2287,6 @@ La Entidad Otorgante remitirá el listado de los hogares que resulten beneficiad
 SECCIÓN 6
 
 Ejecución de los Proyectos
-
-ARTÍCULO
 
 ## art:2.2.1.5.6.1 — Interventoría
 
@@ -2600,8 +2300,6 @@ La vinculación de la interventoría a proyectos de Vivienda de Interés Social 
 
 (Decreto 1934 de 2015, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.5.6.2 — Plazo para la ejecución y liquidación del proyecto
 
 El tiempo de ejecución de los proyectos, su liquidación y trámite administrativo, serán aspectos que la Entidad Otorgante del Subsidio de Vivienda de Interés Social Rural establecerá en el Reglamento Operativo del Programa.
@@ -2614,15 +2312,11 @@ SECCIÓN 7
 
 Desembolso de los Subsidios
 
-ARTÍCULO
-
 ## art:2.2.1.5.7.1 — Desembolso de los recursos para el Subsidio de Vivienda de Interés Social Rural
 
 Los requisitos para efectuar el desembolso de los recursos del Subsidio de Vivienda de Interés Social Rural a la Entidad Operadora serán establecidos por la Entidad Otorgante del Subsidio de Vivienda de Interés Social Rural en el Reglamento Operativo del Programa.
 
 (Decreto 1160 de 2010, art. 55, modificado por el Decreto 900 de 2012, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.1.5.7.2 — Mecanismos de cobertura de riesgos
 
@@ -2633,8 +2327,6 @@ La Entidad Otorgante deberá definir en el Reglamento Operativo del Programa, el
 CAPÍTULO 6
 
 Responsabilidades de las Entidades Oferentes y del Comité de Vigilancia
-
-ARTÍCULO
 
 ## art:2.2.1.6.1 — Responsabilidades de la Entidad Oferente
 
@@ -2656,8 +2348,6 @@ Serán responsabilidades de la Entidad Oferente:
 
 (Decreto 1934 de 2015, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2 — Comité de Vigilancia del Proyecto
 
 Es la instancia veedora de la ejecución del proyecto. Estará conformado por dos (2) representantes de los beneficiarios y el interventor de obra del proyecto.
@@ -2671,8 +2361,6 @@ PARÁGRAFO 1. El Reglamento Operativo del Programa establecerá los mecanismos y
 PARÁGRAFO 2. Este artículo no es aplicable para el caso de las asignaciones individuales efectuadas por las Cajas de Compensación Familiar.
 
 (Decreto 1160 de 2010, art. 58, modificado por el Decreto 900 de 2012, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3 — Funciones del Comité de Vigilancia
 
@@ -2691,8 +2379,6 @@ Este Comité tendrá las siguientes funciones:
 CAPÍTULO 7
 
 Disposiciones específicas para las Cajas de Compensación Familiar
-
-ARTÍCULO
 
 ## art:2.2.1.7.1 — Giro del subsidio por parte de las Cajas de Compensación Familiar
 
@@ -2728,8 +2414,6 @@ PARÁGRAFO 4. Los documentos exigidos para el giro del subsidio se acreditarán 
 
 (Decreto 1934 de 2015, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.7.2 — Giro anticipado del subsidio por parte de las Cajas de Compensación Familiar
 
 El beneficiario del subsidio podrá autorizar el giro anticipado del mismo a favor del oferente. Para proceder a ello, deberá presentar ante la Entidad Otorgante o el operador, el certificado de elegibilidad del proyecto, las respectivas promesas de compraventa o los contratos previos para la adquisición del dominio, así como acreditar la constitución de un encargo fiduciario para la administración unificada de los recursos del subsidio, el contrato que garantice la labor de interventoría y una póliza que cubra la restitución de los dineros entregados por cuenta del subsidio en caso de incumplimiento, que deberá cubrir el ciento diez por ciento (110%) del valor de los subsidios que entregará la Entidad Otorgante.
@@ -2754,8 +2438,6 @@ CAPÍTULO 8
 
 Responsabilidad institucional de la política de vivienda de interés social rural
 
-ARTÍCULO
-
 ## art:2.2.1.8.1 — Ejecución de la Política de Vivienda de Interés Social Rural
 
 El Ministerio de Agricultura y Desarrollo Rural ejecutará la formulación de la política de vivienda de interés social rural, y definirá, de acuerdo con las recomendaciones de la Comisión Intersectorial de Vivienda de Interés Social Rural, las condiciones para la asignación del subsidio. Igualmente el Ministerio de Agricultura y Desarrollo Rural realizará, de acuerdo a sus competencias, el seguimiento a la ejecución de la mencionada política.
@@ -2763,8 +2445,6 @@ El Ministerio de Agricultura y Desarrollo Rural ejecutará la formulación de la
 En lo relacionado con el Subsidio Familiar de Vivienda de Interés Social Rural que otorgan las Cajas de Compensación Familiar, le corresponde a la Superintendencia del Subsidio Familiar ejercer la inspección, vigilancia y control, de acuerdo con las normas vigentes.
 
 (Decreto 1934 de 2015, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.8.2 — 8.2
 
@@ -2808,8 +2488,6 @@ CAPÍTULO 9
 
 Incumplimientos y sanciones aplicables
 
-ARTÍCULO
-
 ## art:2.2.1.9.1 — Restitución del subsidio
 
 El Subsidio Familiar de Vivienda de Interés Social Rural será objeto de restitución a favor de la Entidad Otorgante cuando el beneficiario transfiera el dominio de la solución de vivienda o deje de residir en ella, antes de haber transcurrido diez (10) años contados a partir de la fecha en que se hubiere hecho efectiva la entrega de la misma, salvo los casos de fuerza mayor comprobados por la Entidad Oferente y/o Promotora autorizados por la Entidad Otorgante y las demás que determine la ley.
@@ -2822,8 +2500,6 @@ CAPÍTULO 10
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.2.1.10.1 — Costos de administración del Subsidio Familiar de Vivienda de Interés Social Rural
 
 El costo de administración de los recursos apropiados en el Presupuesto General de la Nación y transferidos por el Ministerio de Agricultura y Desarrollo Rural a la Entidad Otorgante para la asignación del Subsidio Familiar de Vivienda de Interés Social Rural, no podrá ser superior al nueve punto cinco por ciento (9.5%). A través del Reglamento Operativo del Programa se establecerá la distribución de los recursos destinados a la administración, la cual contendrá como mínimo los costos asociados al diagnóstico y estructuración de proyectos, costos de las Entidades Operadoras y los costos administrativos de la Entidad Otorgante. La distribución deberá ser actualizada anualmente mediante la presentación por parte de la Entidad Otorgante al Ministerio de Agricultura y Desarrollo Rural del Plan Operativo de Inversión de la Administración.
@@ -2832,15 +2508,11 @@ PARÁGRAFO . Las Cajas de Compensación Familiar podrán destinar hasta el cinco
 
 (Decreto 1934 de 2015, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.10.2 — Reglamentación interna de procedimientos
 
 Las Entidades Otorgantes del Subsidio Familiar de Vivienda de Interés Social Rural ajustarán sus procedimientos internos a las disposiciones previstas en este título.
 
 (Decreto 1160 de 2012, art. 68, modificado por el Decreto 900 de 2012, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.1.10.3 — Patrimonio familiar inembargable
 
@@ -2854,8 +2526,6 @@ PARÁGRAFO . En caso de incumplimiento de la labor de remisión de la informaci�
 
 (Decreto 1934 de 2015, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.10.4 — 0.4
 
 Procedimiento para atender la ejecución del componente rural de la política de vivienda de interés social:
@@ -2866,15 +2536,11 @@ Procedimiento para atender la ejecución del componente rural de la política de
 
 (Decreto 1934 de 2015, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.10.5 — Comité de Validación
 
 El Comité de Validación tendrá como función principal validar la información que sobre cada proyecto presente la interventoría, y aprobar las modificaciones técnicas del proyecto. Este comité estará conformado por la Entidad Operadora, la Entidad Otorgante y la Entidad Oferente o Promotora. El Reglamento Operativo del Programa establecerá el funcionamiento, responsabilidades y obligaciones del Comité de Validación. La interventoría podrá asistir al Comité, con voz pero sin voto en las deliberaciones que desarrolle el Comité de Validación.
 
 (Decreto 1934 de 2015, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.10.6 — Subsidio Familiar de Vivienda de Interés Social Rural otorgado a través de las Cajas de Compensación Familiar
 
@@ -2882,15 +2548,11 @@ El Subsidio Familiar de Vivienda de Interés Social Rural otorgado a través de 
 
 (Decreto 1934 de 2015, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.10.7 — Incumplimiento del aporte de transporte
 
 En el evento en que la Entidad Oferente incumpla el compromiso de realizar el aporte de transporte en dinero o en especie, ésta no será priorizada y/o viabilizada en la distribución de recursos del Subsidio Familiar de Vivienda de Interés Social Rural durante las dos siguientes vigencias fiscales, sin perjuicio de las demás consecuencias previstas en este título y las que se establezcan en el Reglamento Operativo del Programa.
 
 (Decreto 1934 de 2015, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.10.8 — Subsidio de Vivienda Interés Social Rural para la Población Desplazada
 
@@ -2898,15 +2560,11 @@ ARTÍCULO
 
 (Decreto 1160 de 2010, art. 72)
 
-ARTÍCULO
-
 ## art:2.2.1.10.9 — Subsidio de Vivienda de Interés Social Rural para Hogares Afectados por Situación de Desastre o de Calamidad Pública
 
 (Derogado por el Artículo 17 del Decreto 1934 de 2015.) El Subsidio de vivienda de Interés Social Rural para hogares afectados por situación de desastre o de calamidad pública que se presenten o puedan acaecer por eventos de origen natural se regirá por lo dispuesto en el Decreto 2480 de 2005, modificado por el Decreto 4587 de 2008 y las normas que lo compilen, modifiquen, sustituyan, adicionen o complementen. En lo no previsto en tales normas especiales, se aplicará lo dispuesto en esta Parte.
 
 (Decreto 1160 de 2010, art. 73)
-
-ARTÍCULO
 
 ## art:2.2.1.10.10 — Disposiciones transitorias
 
@@ -2915,8 +2573,6 @@ Los proyectos de vivienda de interés social rural que se encuentren en ejecuci�
 Los convenios o contratos que se encuentren en ejecución y que se hayan celebrado con anterioridad a la entrada en vigencia del presente decreto, cuyo objeto sea derivado o conexo a la ejecución del subsidio ya adjudicado, se regirán igualmente por las normas vigentes al momento de su celebración.
 
 (Decreto 1160 de 2010, art. 74)
-
-ARTÍCULO
 
 ## art:2.2.1.10.11 — Responsabilidades de las Entidades Promotoras
 
@@ -2934,8 +2590,6 @@ Serán responsabilidades de las Entidades Promotoras las siguientes:
 
 (Decreto 1934 de 2015, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.10.12 — Liquidación del Proyecto
 
 Dentro de los cuatro (4) meses siguientes a la suscripción del acta final de terminación y entrega total de obras, la Entidad Operadora, la Entidad Oferente y la Entidad Otorgante de común acuerdo liquidarán el proyecto de vivienda. El proyecto de liquidación será elaborado por la Entidad Operadora.
@@ -2948,8 +2602,6 @@ El Ministerio de Agricultura y Desarrollo Rural realizará el seguimiento requer
 
 (Decreto 1934 de 2015, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.10.13 — Programas en ejecución
 
 La Entidad Otorgante podrá, dentro de los seis (6) meses posteriores a la entrada en vigencia del presente artículo, atender costos adicionales de transporte que a la fecha hayan impedido o dificultado la ejecución de los programas estratégicos de población rural y población víctima, y que se encuentren en ejecución, con cargo al presupuesto de la respectiva vigencia, previa recomendación de la Comisión lntersectorial de Vivienda de Interés Social Rural.
@@ -2957,8 +2609,6 @@ La Entidad Otorgante podrá, dentro de los seis (6) meses posteriores a la entra
 Aquellos subsidios que hubieren sido postulados con anterioridad a la expedición del presente artículo serán evaluados y declarados elegibles con la observancia de la normatividad vigente al momento de la postulación.
 
 (Decreto 1934 de 2015, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.1.10.14 — Costo Fiscal
 
@@ -2972,8 +2622,6 @@ Capítulo 11.
 
 Administración y ejecución de los subsidios por parte de la Agencia de Desarrollo Rural, Fiduagraria S.A., o la entidad postulada por el Ministerio de Vivienda, Ciudad y Territorio
 
-ARTÍCULO
-
 ## art:2.2.1.11.1 — Administración y ejecución por parte de la Agencia de Desarrollo Rural o Fiduagraria S.A
 
 Cuando el Ministerio de Agricultura y Desarrollo Rural, previa recomendación de la Comisión Intersectorial de Vivienda de Interés Social Rural, defina que la Agencia de Desarrollo Rural o Fiduagraria S.A. deban actuar como entidades operadoras del subsidio de vivienda de interés social rural y prioritario rural, estas entidades efectuarán la administración de tales subsidios.
@@ -2981,8 +2629,6 @@ Cuando el Ministerio de Agricultura y Desarrollo Rural, previa recomendación de
 La administración conlleva, entre otros aspectos, la selección del o los ejecutores que se requieran, para lo cual la Agencia de Desarrollo Rural o Fiduagraria S.A., según el caso, seguirán el procedimiento legal contractual que les resulte aplicable de conformidad con su régimen legal.
 
 (Decreto 209 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2 — Postulación por el Ministerio de Vivienda, Ciudad y Territorio
 
@@ -3000,8 +2646,6 @@ TÍTULO 2
 
 Subsidio Familiar de Vivienda de Interés Social Rural para la Población Desplazada por la Violencia
 
-ARTÍCULO
-
 ## art:2.2.2.1 — Objeto y ámbito de aplicación
 
 El presente título se aplica a los procesos de postulación, calificación y asignación del subsidio familiar de vivienda de interés social rural, en sus componentes de retorno o reubicación, para la atención de los hogares que han sido desplazados por la violencia y que se encuentren debidamente incluidos en el Registro Único de Población Desplazada administrado por el Departamento para la Prosperidad Social o la entidad que se designe para tal efecto.
@@ -3010,15 +2654,11 @@ PARÁGRAFO . En lo no previsto en este título, se aplicará lo dispuesto en el 
 
 (Decreto 2675 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.2 — Proyecto de vivienda de interés social rural para la población desplazada por la violencia
 
 Es el conjunto entre cinco (5) y hasta cien (100) soluciones de vivienda subsidiable, que podrá adelantarse dentro de las modalidades de mejoramiento de vivienda y saneamiento básico, construcción en sitio propio o adquisición de vivienda, presentados y desarrollados por oferentes que cumplan con las normas legales vigentes para la construcción y la enajenación de vivienda.
 
 (Decreto 2675 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.3 — Oferentes de proyectos de vivienda
 
@@ -3029,8 +2669,6 @@ Igualmente podrán ser oferentes las entidades privadas que comprendan en su obj
 PARÁGRAFO . Las entidades oferentes podrán presentar en las convocatorias que se abran para población desplazada por la violencia, el número de proyectos que se requieran para postular a los hogares debidamente incluidos en el Registro único de Población Desplazada.
 
 (Decreto 2675 de 2005, art. 3, modificado por el Decreto 2965 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4 — Postulación
 
@@ -3048,23 +2686,17 @@ PARÁGRAFO . Para la postulación al subsidio familiar de vivienda rural no se t
 
 (Decreto 2675 de 2005, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.5 — Valor del Subsidio de Vivienda de Interés Social Rural
 
 El monto del Subsidio de Vivienda de Interés Social Rural para los hogares conformados por población en situación de desplazamiento, será de hasta veintisiete (27) salarios mínimos mensuales legales vigentes (smmlv) cuando la modalidad de la solución de vivienda sea la construcción de vivienda nueva, y de hasta dieciocho (18) salarios mínimos mensuales legales vigentes (smmlv) para mejoramiento y saneamiento básico.
 
 (Decreto 2675 de 2005, art. 5, modificado por el Decreto 1160 de 2010, art. 70, modificado por el Decreto 900 de 2012, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.2.6 — 2.6
 
 Límite a la cuantía del Subsidio de Vivienda de Interés Social Rural otorgado a la población en situación de desplazamiento. La cuantía del Subsidio Familiar de Vivienda de Interés Social Rural otorgado a la población en situación de desplazamiento, podrá aplicarse hasta por el ciento por ciento (100%) del valor de la solución de vivienda, bien sea en la modalidad de mejoramiento y saneamiento básico, o en la de construcción y adquisición de vivienda nueva.
 
 (Decreto 2675 de 2005, art. 6, modificado por el Decreto 900 de 2012, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.2.7 — Distribución de los recursos del Subsidio de Vivienda de Interés Social Rural
 
@@ -3102,8 +2734,6 @@ PARÁGRAFO . El Ministerio de Agricultura y Desarrollo Rural establecerá median
 
 (Decreto 2675 de 2005, art. 7, modificado por el Decreto 94 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.8 — Asignación de los recursos del Subsidio de Vivienda de Interés Social Rural
 
 La asignación de los recursos para los hogares beneficiados con proyectos elegibles se hará conforme a la fórmula de calificación y procedimiento establecido en el presente decreto, y las normas que lo modifiquen, sustituyan o adicionen y los respectivos cupos disponibles por departamento.
@@ -3118,8 +2748,6 @@ PARÁGRAFO 2. Si resultaren recursos sin asignar, estos serán .otorgados a los 
 
 (Decreto 2675 de 2005, art. 8, modificado por el Decreto 94 de 2007, art 2)
 
-ARTÍCULO
-
 ## art:2.2.2.9 — Fuentes de recursos del Subsidio Familiar de Vivienda de Interés Social Rural
 
 Los recursos para la asignación del subsidio familiar de vivienda rural para la población desplazada por la violencia de que trata el artículo 2.2.2.1. del presente decreto, corresponderán a los que se incorporen en el Presupuesto General de la Nación en cada vigencia y los que se obtengan de otras fuentes.
@@ -3128,15 +2756,11 @@ PARÁGRAFO . Los recursos que se asignen a través de adiciones presupuestales e
 
 (Decreto 2675 de 2005, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.10 — Periodo de Postulación
 
 El Ministerio de Agricultura y Desarrollo Rural determinará las fechas de apertura y cierre de la convocatoria para presentación de proyectos, mediante los cuales se postulen a hogares en situación de desplazamiento al Subsidio Familiar de Vivienda de Interés Social Rural, de acuerdo con la disponibilidad de recursos provenientes del Presupuesto General de la Nación o los que se obtengan de otras fuentes con este destino. No obstante, la Entidad Oferente podrá optar por acogerse al tratamiento diferencial que fijan las normas vigentes, para atender bajo postulación permanente a la población en situación de desplazamiento y presentar el o los proyectos de vivienda que se requieran.
 
 (Decreto 2675 de 2005, art.10, modificado por el Decreto 900 de 2012, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.2.11 — Criterios de calificación de las postulaciones y asignación de los subsidios de vivienda de interés social rural
 
@@ -3272,8 +2896,6 @@ TÍTULO 3
 
 Mecanismo de atención especial en situaciones de calamidad pública, desastre o emergencia, para atender con Subsidio Familiar de Vivienda de Interés Social rural a Familias Afectadas
 
-ARTÍCULO
-
 ## art:2.2.3.1 — 3.1
 
 Atención especial en situaciones de calamidad pública, desastre o emergencia en materia de vivienda de interés social rural. Cuando se declare una situación local, regional o nacional de calamidad pública, desastre o emergencia en los términos del Decreto Ley 919 de 1989, que amerite una atención prioritaria e inmediata, el Ministerio de Agricultura y Desarrollo Rural podrá destinar hasta el ciento por ciento (100%) de los recursos disponibles para subsidios de vivienda de interés social rural, diferentes a los destinados a atender a la población en situación de desplazamiento.
@@ -3281,8 +2903,6 @@ Atención especial en situaciones de calamidad pública, desastre o emergencia e
 PARÁGRAFO . Para efectos de la aplicación del presente título, se consideran beneficiarios los hogares propietarios, poseedores u ocupantes conformados por una o más personas que integren el mismo grupo familiar, cuya solución habitacional se haya visto afectada por situaciones de desastre, calamidad o emergencia debidamente declaradas por las autoridades competentes y que se encuentren incluidos en los censos oficiales que con ocasión de estos hechos emita el Comité Local de Prevención y Atención de Desastres, avalados por el Comité Regional de Prevención y Atención de Desastres y refrendados por la Dirección de Gestión de Riesgo para la Atención y Prevención de Desastres del Ministerio del Interior.
 
 (Decreto 4830 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2 — Recomendaciones de la Comisión Intersectorial de Vivienda de Interés Social Rural
 
@@ -3302,8 +2922,6 @@ PARÁGRAFO 2. Las recomendaciones de la Comisión Intersectorial de Vivienda de 
 
 (Decreto 4830 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.3 — Valor del Subsidio
 
 El valor del Subsidio Familiar de Vivienda de Interés Social Rural para la población descrita en el presente título será de:
@@ -3314,8 +2932,6 @@ El valor del Subsidio Familiar de Vivienda de Interés Social Rural para la pobl
 
 (Decreto 1934 de 2015, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.3.4 — Mecanismo para la ejecución del subsidio
 
 Los subsidios asignados por la Entidad Otorgante bajo las disposiciones del presente título se ejecutarán en el marco de un programa estratégico cuya entidad promotora podrá ser la Unidad Nacional de Gestión de Riesgos o Desastres o el Fondo de Adaptación. Estas entidades podrán, dando cumplimiento a las normas que les rigen, ejecutar directamente las soluciones de vivienda de interés social rural.
@@ -3325,8 +2941,6 @@ Los subsidios asignados por la Entidad Otorgante bajo las disposiciones del pres
 TÍTULO 4
 
 Inmuebles con vocación para el desarrollo de proyectos de vivienda de interés social rural
-
-ARTÍCULO
 
 ## art:2.2.4.1 — Inmuebles con vocación para el desarrollo de proyectos de vivienda de interés social rural
 
@@ -3351,8 +2965,6 @@ Las entidades públicas nacionales identificarán los inmuebles fiscales de su p
 Desarrollo Rural.
 
 (Decreto 724 de 2002, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.2 — 4.2
 
@@ -3396,8 +3008,6 @@ PARÁGRAFO 2. En concordancia con lo previsto en el artículo 1 . de la Ley 708 
 
 (Decreto 724 de 2002, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.3 — Reordenamiento de la propiedad inmueble fiscal estatal
 
 En desarrollo del artículo 8 de la Ley 708 de 2001, las entidades públicas del orden nacional, de carácter no financiero que hagan parte de cualquiera de las ramas del poder público, así como los órganos autónomos e independientes, identificarán los inmuebles de su propiedad que no requieran para el desarrollo de sus funciones; que no tengan vocación para la construcción de vivienda de interés social y que no se encuentren dentro de los planes de enajenación onerosa, con la finalidad de ser transferidos a título gratuito a otras entidades públicas que los requieran para el cumplimiento de sus funciones de acuerdo con sus necesidades.
@@ -3426,8 +3036,6 @@ CAPÍTULO I
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.1.1.1 — Definiciones
 
 Para efectos de la aplicación del Certificado de Incentivo Forestal -CIF previsto en la Ley 139 de 1994 y del presente título, se establecen las siguientes definiciones:
@@ -3450,8 +3058,6 @@ PARÁGRAFO 1. Para efectos del presente título los cultivos forestales con fine
 
 PARÁGRAFO 2. Las plantaciones e inversiones realizadas con recursos públicos y privados a la fecha de entrada en vigencia del presente decreto se seguirán considerando, áreas con aptitud forestal comercial, salvo que se encuentren en las situaciones contempladas en los numerales 3 y 4 del artículo 2.3 .1.2.4. del presente decreto.
 
-ARTÍCULO
-
 ## art:2.3.1.1.2 — Consejo Directivo del Incentivo Forestal
 
 A fin de asesorar al Gobierno en la dirección, administración y funcionamiento del programa de Certificado del Incentivo Forestal -CIF, intégrese el Consejo Directivo del mismo, el cual estará conformado por:
@@ -3465,8 +3071,6 @@ A fin de asesorar al Gobierno en la dirección, administración y funcionamiento
 El Fondo de Financiamiento del Sector Agropecuario -FINAGRO será invitado permanente, con voz pero sin voto.
 
 La Secretaría Técnica del Consejo Directivo del Incentivo Forestal será ejercida por la Dirección de Cadenas Agrícolas y Forestales del Ministerio de Agricultura y Desarrollo Rural o quien haga sus veces.
-
-ARTÍCULO
 
 ## art:2.3.1.1.3 — Funciones del Consejo Directivo del Certificado de Incentivo Forestal
 
@@ -3488,15 +3092,11 @@ Corresponde al Consejo del Certificado de Incentivo Forestal -CIF ejercer las si
 
 8. Cualquiera otra que sea necesaria para la implementación del CIF.
 
-ARTÍCULO
-
 ## art:2.3.1.1.4 — Especies aptas para proyectos de plantaciones forestales comerciales
 
 Las plantaciones forestales comerciales que pretendan beneficiarse del Certificado de Incentivo Forestal -CIF se harán con especies autóctonas y/o introducidas definidas por el Ministerio de Agricultura y Desarrollo Rural.
 
 PARÁGRAFO . El Ministerio de Agricultura y Desarrollo Rural podrá incluir otras especies que generen las externalidades positivas de la reforestación.
-
-ARTÍCULO
 
 ## art:2.3.1.1.5 — Áreas objeto del CIF
 
@@ -3505,8 +3105,6 @@ Se priorizarán para el Certificado de Incentivo Forestal -CIF aquellos proyecto
 CAPITULO II
 
 PROCEDIMIENTO
-
-ARTÍCULO
 
 ## art:2.3.1.2.1 — Presentación de los proyectos
 
@@ -3546,21 +3144,15 @@ e. Resiembra o restablecimiento de los árboles.
 
 PARÁGRAFO . El Plan de Establecimiento y Manejo Forestal sólo podrá ser modificado previa solicitud del beneficiario del Certificado de Incentivo Forestal y posterior aprobación del Ministerio de Agricultura y Desarrollo Rural o su delegado.
 
-ARTÍCULO
-
 ## art:2.3.1.2.2 — Condición legal del predio
 
 Solo podrán acceder al Certificado de Incentivo Forestal -CIF los propietarios de los terrenos en donde se desarrollará el proyecto o aquellos que tengan la calidad de arrendatarios, por un término que garantice como mínimo el ciclo productivo del proyecto.
-
-ARTÍCULO
 
 ## art:2.3.1.2.3 — Asistencia técnica
 
 Todo proyecto que acceda al Certificado de Incentivo forestal -CIF deberá contar con un asistente técnico con título de ingeniero forestal y/o agroforestal. En el caso de especies forestales para la obtención de productos no maderables, se aceptarán igualmente ingenieros agrónomos o agrónomos.
 
 Los asistentes técnicos no podrán tener sanciones profesionales y deberán acreditar su idoneidad profesional en el área, a través de posgrados o con experiencia previa de al menos dos (2) años.
-
-ARTÍCULO
 
 ## art:2.3.1.2.4 — Verificación de presentación
 
@@ -3588,15 +3180,11 @@ Hecha la verificación se procederá, según corresponda, a (i) aceptar el proye
 
 PARÁGRAFO . El procedimiento atenderá los términos del procedimiento administrativo general establecido en la Ley 1437 de 2011.
 
-ARTÍCULO
-
 ## art:2.3.1.2.5 — Conformación del Banco de Proyectos de Plantaciones Forestales Comerciales - BPPFC
 
 Una vez realizada la verificación a que refiere el artículo anterior, los proyectos aceptados constituirán el Banco de Proyectos de Plantaciones Forestales Comerciales - BPPFC, cuya información servirá de base para el requerimiento de recursos correspondiente al Certificado de Incentivo Forestal -CIF en el Presupuesto General de la Nación.
 
 Una vez un proyecto hace parte del BPPFC, podrá permanecer allí por dos (2) años para poder ser financiado, mientras se verifiquen las condiciones señaladas en el artículo anterior. Cumplido este plazo saldrá del BPPFC, pero podrá ser presentado nuevamente.
-
-ARTÍCULO
 
 ## art:2.3.1.2.6 — Priorización de proyectos y definición de elegibles
 
@@ -3606,13 +3194,9 @@ El Ministerio de Agricultura y Desarrollo Rural seleccionará los proyectos eleg
 
 La elegibilidad aquí prevista no impide que el beneficiario acceda a los créditos e incentivos consagrados en la Ley 101 de 1993, siempre que se destinen a infraestructura accesoria a la reforestación y no a actividades propias de establecimiento y manejo de la plantación.
 
-ARTÍCULO
-
 ## art:2.3.1.2.7 — Comunicación de elegibilidad
 
 Acorde con lo señalado en el artículo anterior, el Ministerio de Agricultura y Desarrollo Rural o su delegado para el efecto, comunicará a cada interesado si el proyecto presentado alcanzó o no la elegibilidad para ese periodo. La comunicación será publicada en la Ventanilla Única Forestal - VUF.
-
-ARTÍCULO
 
 ## art:2.3.1.2.8 — Verificación de establecimiento
 
@@ -3622,13 +3206,9 @@ Durante la verificación del establecimiento se comprobará que la compra de mat
 
 Así mismo, se comprobará que los asistentes técnicos tengan las calidades señaladas en el artículo 2.3.1.2.3. del presente decreto.
 
-ARTÍCULO
-
 ## art:2.3.1.2.9 — Otorgamiento del incentivo en el componente de establecimiento
 
 El Ministerio de Agricultura y Desarrollo Rural o la entidad que delegue, expedirá un acto administrativo a través del cual se ordene pagar el incentivo en I componente de establecimiento, a los proyectos elegibles cuyo establecimiento fue verificado, e informará a FINAGRO para que realice el pago del incentivo en su calidad de administrador de los recursos del Certificado de Incentivo Forestal -CIF.
-
-ARTÍCULO
 
 ## art:2.3.1.2.10 — Verificación de las actividades de mantenimiento
 
@@ -3642,8 +3222,6 @@ PARÁGRAFO . Sin perjuicio de los informes presentados, el Ministerio de Agricul
 
 (3) primeros años de mantenimiento.
 
-ARTÍCULO
-
 ## art:2.3.1.2.11 — Otorgamiento del incentivo en el componente mantenimiento
 
 Una vez verificado el mantenimiento, el Ministerio de Agricultura y Desarrollo Rural o la entidad delegada para el efecto, reconocerá a través de acto administrativo el incentivo correspondiente e informará a FINAGRO par que en su calidad de administrador de los recursos del Certificado de lncentivo Forestal CIF, realice el pago del incentivo.
@@ -3652,27 +3230,19 @@ CAPÍTULO III
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.3.1.3.1 — Pérdidas de plantaciones
 
 En caso de pérdida total o parcial de la plantación, los beneficiarios del Certificado de Incentivo Forestal -CIF deberán informar la situación al Ministerio de Agricultura y Desarrollo Rural o a su delegado para el efecto, quien verificará en campo la pérdida invocada y requerirá las pruebas que considere pertinentes, para determinar la viabilidad de continuidad de la plantación forestal comercial como beneficiaria del incentivo, y si hay lugar o no al pago correspondiente.
 
 En caso de requerirse pruebas, estás correrán por cuenta del beneficiario del proyecto.
 
-ARTÍCULO
-
 ## art:2.3.1.3.2 — Registro de las plantaciones del CIF ante el ICA
 
 Una vez verificado el establecimiento de una plantación forestal comercial beneficiaria del Certificado de Incentivo Forestal -CIF-, el Ministerio de Agricultura y Desarrollo Rural o la entidad a quien este delegue, enviará al Instituto Colombiano Agropecuario -ICA la información requerida para su registro.
 
-ARTÍCULO
-
 ## art:2.3.1.3.3 — CIF como colateral de pago
 
 Cuando el Certificado de Incentivo Forestal -CIF- se desee constituir como colateral del pago de un crédito para la financiación de proyectos productivos y/o silvopastoriles, el reforestador lo deberá manifestar en el momento de la presentación del proyecto y deberá adjuntar al proyecto, los formatos que para tal efecto definan FINAGRO y el Ministerio de Agricultura y Desarrollo Rural.
-
-ARTÍCULO
 
 ## art:2.3.1.3.4 — Proyectos en ejecución
 
@@ -3682,23 +3252,17 @@ TÍTULO 2
 
 Ventanilla Única Forestal
 
-ARTÍCULO
-
 ## art:2.3.2.1 — Ventanilla Única Forestal
 
 Créase la Ventanilla Única Forestal, para centralizar los trámites y procedimientos que requiere el ejercicio de la actividad forestal con fines comerciales.
 
 (Decreto 4600 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.2.2 — Funcionamiento y Coordinación
 
 El funcionamiento y coordinación de la Ventanilla Única Forestal, estará a cargo del Ministerio de Agricultura y Desarrollo Rural y será el mecanismo que soportado en medios electrónicos centralizará y/o interconectará la información, trámites y gestión de las solicitudes presentadas por los productores forestales comerciales, para el ejercicio de las actividades de producción, transformación y comercialización de productos forestales obtenidos de plantaciones y sistemas agroforestales comerciales y demás afines o complementarias.
 
 (Decreto 4600 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.3.2.3 — Funciones de la Ventanilla Única Forestal
 
@@ -3726,15 +3290,11 @@ En este caso, el Ministerio de Agricultura y Desarrollo Rural adelantará las ac
 
 (Decreto 4600 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.3.2.4 — Formatos
 
 A partir de la entrada en funcionamiento de la Ventanilla Única Forestal el Ministerio de Agricultura y Desarrollo Rural, con el fin de adoptar los formatos que se requieran para los efectos del presente decreto, coordinará las entidades administrativas que dentro de la órbita de sus competencias, se encuentran involucradas directa o indirectamente en los trámites que exige la normativa vigente a los productores forestales para el ejercicio de las actividades de producción, transformación y comercialización de productos forestales obtenidos de plantaciones y sistemas agroforestales comerciales y demás afines o complementarias.
 
 (Decreto 4600 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.3.2.5 — Transición
 
@@ -3747,8 +3307,6 @@ El Ministerio de Agricultura y Desarrollo Rural implementará la sistematizació
 (Título Sustituido por el Art. 1 del Decreto 2398 de 2019)
 
 PLANTACIONES FORESTALES CON FINES COMERCIALES
-
-ARTÍCULO
 
 ## art:2.3.3.1 — Ámbito de aplicación
 
@@ -3766,8 +3324,6 @@ El registro a que hace referencia este título no puede hacerse en áreas de ser
 
 PARÁGRAFO . El presente título se referirá genéricamente a plantaciones forestales comerciales, que incluyen todos los numerales descritos en el presente artículo.
 
-ARTÍCULO
-
 ## art:2.3.3.2 — Definiciones
 
 Para efectos del presente título, se establecen las siguientes definiciones:
@@ -3782,13 +3338,9 @@ Productos forestales de transformación primaria. Son los productos obtenidos di
 
 Certificado de movilización. Es el documento por medio del cual se autoriza el transporte, por una sola vez, de los productos de transformación primaria obtenidos de las plantaciones forestales con fines comerciales, hasta un primer destino, que es válido en todo el territorio nacional.
 
-ARTÍCULO
-
 ## art:2.3.3.3 — Competencia
 
 Las funciones y competencias para efectos de la expedición del certificado de movilización de que trata el presente título, y de la implementación del registro correspondiente, en el ámbito rural hasta la frontera agrícola, corresponden al Instituto Colombiano Agropecuario -ICA.
-
-ARTÍCULO
 
 ## art:2.3.3.4 — Obligación de registrar
 
@@ -3826,8 +3378,6 @@ PARÁGRAFO 2. Las plantaciones forestales comerciales que hayan sido establecida
 
 (Parágrafo 2, Modificado por el Art. 1 del Decreto 1879 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.3.5 — Verificación de la información
 
 Para proceder con el registro la información indicada en el artículo anterior debe estar completa, lo cual deberá ser verificado por el Instituto Colombiano Agropecuario, ICA.
@@ -3838,15 +3388,11 @@ Una vez esté completa la Información y constatada la inclusión en la frontera
 
 PARÁGRAFO . En caso de considerarlo necesario, el ICA solicitará concepto o visita conjunta de la autoridad ambiental, con jurisdicción en el correspondiente territorio.
 
-ARTÍCULO
-
 ## art:2.3.3.6 — Registro
 
 Cumplida la verificación establecida en el artículo precedente y sin perjuicio de la actualización a que haya lugar de acuerdo con lo dispuesto en el artículo 2.3.3.9 del presente título, el Instituto Colombiano Agropecuario -ICA- registrará por una sola vez la plantación forestal con fines comerciales.
 
 PARÁGRAFO . Con el fin de depurar el registro de plantaciones forestales comerciales, el Instituto Colombiano Agropecuario y las Corporaciones Autónomas Regionales, definirán un plan de acción que incluirá las metas, actividades y el cronograma correspondiente, antes del año 2021.
-
-ARTÍCULO
 
 ## art:2.3.3.7 — Negación del registro
 
@@ -3860,13 +3406,9 @@ El Instituto Colombiano Agropecuario-ICA negará el registro en los siguientes c
 
 4. Cuando en la visita se constate que la -información a que hace referencia el artículo 2.3.3.4 del presente título no .es veraz o consistente.
 
-ARTÍCULO
-
 ## art:2.33.8 — Seguimiento
 
 El Instituto Colombiano Agropecuario -ICA realizará visitas aleatorias de seguimiento a las plantaciones forestales con fines comerciales registradas, cuando se estime necesario, a fin de verificar su estado, para lo cual se podrá solicitar el acompañamiento de una autoridad de inspección, vigilancia y control.
-
-ARTÍCULO
 
 ## art:2.3.3.9 — Actualización del registro
 
@@ -3882,21 +3424,15 @@ Sin perjuicio del seguimiento a que se refiere el artículo anterior y sujeto a 
 
 De conformidad con el certificado de movilización expedido, cuando se lleve a cabo la cosecha parcial o total de las plantaciones forestales, se disminuirá o agotará el volumen registrado automáticamente.
 
-ARTÍCULO
-
 ## art:2.3.3.10 — Efectos del registro
 
 El titular del registro de las plantaciones forestales con fines comerciales tendrá derecho a cosechar total o parcialmente su plantación y a los beneficios comerciales y legales vigentes relacionados con su explotación comercial.
 
 El establecimiento de la plantación no requerirá plan de manejo ambiental y su cosecha total o parcial no requerirá permiso o autorización por parte de la autoridad ambiental.
 
-ARTÍCULO
-
 ## art:2.3.3.11 — Consulta del registro por otras autoridades
 
 El registro de plantaciones forestales con fines comerciales estará habilitado para consulta de otras autoridades públicas del orden nacional o territorial previa solicitud al ICA, conforme a los principios señalados en la Ley 1581 de 2012.
-
-ARTÍCULO
 
 ## art:2.3.3.12 — Movilización
 
@@ -3908,13 +3444,9 @@ Las autoridades del Sector Ambiente y Desarrollo Sostenible deberán efectuar se
 
 Las demás autoridades competentes podrán hacerlo cuando lo estimen necesario.
 
-ARTÍCULO
-
 ## art:2.3.3.13 — Contenido del Certificado de Movilización
 
 El formato y el contenido del certificado de movilización serán definidos por el Instituto Colombiano Agropecuario - ICA. Los certificados de movilización que se expidan sin el lleno de la Información requerida carecerán de validez.
-
-ARTÍCULO
 
 ## art:2.3.3.14 — Vigencia del certificado de movilización
 
@@ -3924,13 +3456,9 @@ Cuando el titular del registro no movilice los productos maderables objeto de la
 
 En caso de movilizaciones parciales de productos maderables, se descontará del volumen del registro de la plantación forestal los productos que se hubiesen movilizado.
 
-ARTÍCULO
-
 ## art:2.3.3.15 — Restricciones y prohibiciones
 
 El certificado de movilización no es un documento negociable, ni transferible, y con él no se podrá amparar el transporte a terceros, ni de otras rutas o especificaciones diferentes a las contempladas. El titular del registro y certificado de movilización será el responsable ante el Instituto Colombiano Agropecuario -ICA-, las autoridades civiles y de policía por el adecuado uso y manejo del documento público que se le expide para la movilización.
-
-ARTÍCULO
 
 ## art:2.3.3.16 — Sanciones
 
@@ -3938,21 +3466,15 @@ En caso de que el Instituto Colombiano Agropecuario, ICA, suspenda o cancele el 
 
 PARÁGRAFO El proceso sancionatorio por la violación de las normas forestales comerciales a cargo del ICA es diferente e Independiente al proceso sancionatorio ambiental previsto en la Ley 1333 de 2009, por cuanto busca proteger diferentes bienes jurídicos tutelados, tiene diferentes fundamentos normativos y atiende diferentes finalidades. Su desarrollo no Implica, bajo circunstancia alguna, la realización de incautaciones de madera por el ICA.
 
-ARTÍCULO
-
 ## art:2.3.3.17 — Caminos o carreteables forestales
 
 Los caminos o carreteables forestales necesarios para adelantar la cosecha forestal dentro de las plantaciones forestales con fines comerciales, son parte integrante de estas, y su construcción, mantenimiento y/o rehabilitación, no estarán sometidos a permisos o requisitos adicionales.
-
-ARTÍCULO
 
 ## art:2.3.3.18 — Aprovechamiento de recursos naturales renovables
 
 Sin perjuicio de lo dispuesto en el presente título, cuando el establecimiento de las plantaciones forestales con fines comerciales requiera del aprovechamiento, uso o afectación de recursos naturales renovables, se deberán tramitar y obtener ante las autoridades ambientales competentes las autorizaciones o permisos correspondientes.
 
 En todo caso, no podrá realizarse la eliminación del bosque natural para el establecimiento de plantaciones forestales comerciales en el país.
-
-ARTÍCULO
 
 ## art:2.3.3.19 — Surgimiento de otras especies
 
@@ -3972,15 +3494,11 @@ CAPÍTULO 1
 
 Prestación de Asistencia Técnica Directa Rural
 
-ARTÍCULO
-
 ## art:2.4.1.1.1 — Entidades por medio de las cuales se realiza la prestación del Servicio Público de Asistencia Técnica Directa Rural
 
 De conformidad con lo previsto en el artículo segundo de la Ley 607 de 2000, la obligación de los municipios y distritos, para la prestación del Servicio Público de Asistencia Técnica Directa Rural, de forma gratuita para los pequeños productores y autofinanciada para los medianos productores rurales, se realizará por medio de la participación de entidades de naturaleza pública, privada o mixta, bien a través de las UMATA de forma directa; bien contratada con las entidades privadas constituidas para el efecto y que tengan por objeto la prestación de la asistencia técnica directa rural, sean del orden municipal, zonal, provincial, distrital o regional.
 
 (Decreto 3199 de 2002, art. 1. Concordancia con Ley 1133 de 2007, art. 5, numeral 1)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2 — Coordinación
 
@@ -4012,15 +3530,11 @@ La coordinación deberá garantizar que la oferta vaya orientada a satisfacer la
 
 (Decreto 3199 de 2002, art. 2)
 
-ARTÍCULO
-
 ## art:2.4.1.1.3 — Municipio y comunidades indígenas
 
 El municipio garantizará el acceso al Servicio de Asistencia Técnica Directa Rural de manera regular y continua a comunidades de pequeños y medianos productores rurales, sean campesinos, colonos; indígenas o comunidades negras. Las comunidades indígenas que reciban recursos de transferencias, destinarán de estos, los necesarios para cumplir con la obligación de la prestación del Servicio de Asistencia Técnica Directa Rural a través de las entidades prestadoras del servicio.
 
 (Decreto 3199 de 2002, art. 3)
-
-ARTÍCULO
 
 ## art:2.4.1.1.4 — Objeto
 
@@ -4028,15 +3542,11 @@ El Servicio de Asistencia Técnica Directa Rural desarrollará procesos de innov
 
 (Decreto 3199 de 2002, art. 4)
 
-ARTÍCULO
-
 ## art:2.4.1.1.5 — Asociación
 
 El Estado de forma progresiva promoverá e incentivará la asociación para la prestación del Servicio de Asistencia Técnica Directa Rural. Los municipios podrán asociarse o autorizar la asociación de las UMATA como respuesta a las demandas identificadas en las zonas, provincias, distritos, subregiones o regiones, para la prestación del Servicio de Asistencia Técnica Directa Rural, en las fases de planificación, selección de la empresa prestadora y la definición del tipo de servicio.
 
 (Decreto 3199 de 2002, art. 5)
-
-ARTÍCULO
 
 ## art:2.4.1.1.6 — Promoción y divulgación
 
@@ -4048,23 +3558,17 @@ CAPÍTULO 2
 
 Plan General de Asistencia Técnica Directa Rural
 
-ARTÍCULO
-
 ## art:2.4.1.2.1 — Definición
 
 El Plan General de Asistencia Técnica Directa Rural es el instrumento de planeación que permite ordenar las actividades y los recursos para garantizar el cumplimiento de los objetivos del Servicio de Asistencia Técnica Directa Rural y asegurar la ampliación progresiva de su cobertura, calidad y pertinencia.
 
 (Decreto 3199 de 2002, art. 7)
 
-ARTÍCULO
-
 ## art:2.4.1.2.2 — Elaboración
 
 Los Planes Generales de Asistencia Técnica Directa Rural se elaborarán de acuerdo con las características agroecológicas de los municipios y con las recomendaciones básicas de uso y manejo de los recursos naturales y en concordancia con los Programas Agropecuarios Municipales del Plan de Desarrollo Municipal, elaborado por el Consejo Municipal de Planeación y concertado con el Consejo Municipal de Desarrollo Rural.
 
 (Decreto 3199 de 2002, art. 8)
-
-ARTÍCULO
 
 ## art:2.4.1.2.3 — Orientación
 
@@ -4094,15 +3598,11 @@ CAPÍTULO 3
 
 Entidades prestadoras del servicio de Asistencia Técnica Directa Rural, acreditación y registro
 
-ARTÍCULO
-
 ## art:2.4.1.3.1 — Integración
 
 Las entidades prestadoras del Servicio de Asistencia Técnica Directa Rural, establecidas en el literal e) del artículo cuarto de la Ley 607 de 2000, se integrarán por el grupo interdisciplinario necesario que garantice que la oferta del servicio responda adecuadamente a la demanda, de conformidad con el Plan General de Asistencia Técnica Directa Rural, para la prestación del Servicio de Asistencia Técnica Directa Rural, calificado y con experiencia en su especialidad, vinculado o contratado, en el municipio o sus zonas, el distrito, las provincias, las subregiones o regiones, los departamentos o la Nación con capacidad técnica y financiera.
 
 (Decreto 3199 de 2002, art. 10)
-
-ARTÍCULO
 
 ## art:2.4.1.3.2 — Conformación
 
@@ -4110,23 +3610,17 @@ Para la prestación del Servicio de Asistencia Técnica Directa Rural en forma a
 
 (Decreto 3199 de 2002, art. 11)
 
-ARTÍCULO
-
 ## art:2.4.1.3.3 — Asociaciones de municipios
 
 En el caso de las asociaciones de municipios que integran la zona, provincia, distrito o región, contratarán la prestación del Servicio de Asistencia Técnica Directa Rural con entidades de naturaleza pública, privada o mixta, conformadas por equipos interdisciplinarios. Las Asociaciones de Municipios podrán contratar una o más empresas prestadoras del servicio según el tipo de demandas de los productores rurales además de lo previsto en el presente decreto.
 
 (Decreto 3199 de 2002, art. 12)
 
-ARTÍCULO
-
 ## art:2.4.1.3.4 — Acreditación
 
 Las Secretarías de Agricultura Departamental o quien haga sus veces acreditarán las entidades prestadoras del Servicio de Asistencia Técnica Directa Rural, en un registro único de conformidad con la reglamentación que expida el Ministerio de Agricultura y Desarrollo Rural en coordinación con el Consejo Nacional de Secretarios de Agricultura, CONSA.
 
 (Decreto 3199 de 2002, art. 13)
-
-ARTÍCULO
 
 ## art:2.4.1.3.5 — Registro Único de Prestadores de Servicios
 
@@ -4137,8 +3631,6 @@ Las Secretarías de Agricultura Departamental o quien haga sus veces comunicará
 CAPÍTULO 4
 
 Selección y contratación de entidades prestadores del Servicio de Asistencia Técnica Directa Rural
-
-ARTÍCULO
 
 ## art:2.4.1.4.1 — Selección
 
@@ -4152,8 +3644,6 @@ Los Consejos Municipales de Desarrollo Rural, CMDR, o sus representantes en las 
 
 (Decreto 3199 de 2002, art. 15)
 
-ARTÍCULO
-
 ## art:2.4.1.4.2 — Registro y seguimiento
 
 Dentro de los diez días siguientes a la selección de las Entidades Prestadoras del Servicio de Asistencia Técnica Directa Rural, los alcaldes municipales o el representante legal de la Asociación de municipios, informarán la selección de las entidades prestadoras del Servicio de Asistencia Técnica Directa Rural a las Secretarías de Agricultura Departamental o quien haga sus veces para su registro y seguimiento.
@@ -4163,8 +3653,6 @@ Dentro de los diez días siguientes a la selección de las Entidades Prestadoras
 CAPÍTULO 5
 
 Obligaciones de las entidades prestadores (sic) del servicio de Asistencia Técnica Directa Rural
-
-ARTÍCULO
 
 ## art:2.4.1.5.1 — Obligaciones
 
@@ -4198,8 +3686,6 @@ CAPÍTULO 6
 
 Acompañamiento al servicio de Asistencia Técnica Directa Rural
 
-ARTÍCULO
-
 ## art:2.4.1.6.1 — Acompañamiento del Gobierno Nacional y Departamental
 
 El Gobierno Nacional y Departamental de acuerdo con las apropiaciones presupuestales vigentes:
@@ -4212,15 +3698,11 @@ El Gobierno Nacional y Departamental de acuerdo con las apropiaciones presupuest
 
 (Decreto 3199 de 2002, art. 18)
 
-ARTÍCULO
-
 ## art:2.4.1.6.2 — Asignación de recursos
 
 Para la asignación de recursos del componente de asistencia técnica y/o transferencia de tecnología en los Fondos Parafiscales Agropecuarios y Pesqueros, el Ministerio de Agricultura y Desarrollo Rural, por intermedio de sus representantes en los órganos de Dirección de estos Fondos, velará por que la inversión se haga en coordinación con las Entidades Territoriales y las Entidades Prestadoras del Servicio.
 
 (Decreto 3199 de 2002, art. 19)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3 — Orientación del Componente de Asistencia Técnica Directa Rural
 
@@ -4238,8 +3720,6 @@ CAPÍTULO 7
 
 Seguimiento y evaluación del servicio de Asistencia Técnica Directa Rural
 
-ARTÍCULO
-
 ## art:2.4.1.7.1 — Responsable en operación, seguimiento, evaluación y estrategia
 
 De conformidad con el artículo 11 de la Ley 607 de 2000, el Sistema de Evaluación y Seguimiento del Servicio de Asistencia Técnica Directa Rural que elaborará el Ministerio de Agricultura y Desarrollo Rural, a través del Viceministro de Asuntos Agropecuarios en coordinación con el Departamento Nacional de Planeación, establecerá como responsable en su operación, seguimiento y evaluación, y en la estrategia para generar capacidad de gestión en desarrollo rural, a las Secretarías de Agricultura Departamentales o quien haga sus veces.
@@ -4247,8 +3727,6 @@ De conformidad con el artículo 11 de la Ley 607 de 2000, el Sistema de Evaluaci
 PARÁGRAFO . Las Secretarías de Agricultura Departamentales o quien haga sus veces, a través del CONSA informarán anualmente al Ministerio de Agricultura y Desarrollo Rural los resultados de la evaluación para orientar las decisiones sobre asignación de recursos.
 
 (Decreto 3199 de 2002, art. 21)
-
-ARTÍCULO
 
 ## art:2.4.1.7.2 — Definición de criterios
 
@@ -4278,8 +3756,6 @@ TÍTULO 2
 
 Unidades Municipales de Asistencia Técnica Agropecuaria, UMATA
 
-ARTÍCULO
-
 ## art:2.4.2.1 — 2.1
 
 Incumplimiento de la creación y funcionamiento de la Comisión Municipal de Tecnología y Asistencia Técnica y de las Unidades Municipales de Asistencia Técnica Agropecuaria. Las Secretarías de Agricultura Departamentales o quien desempeñe sus funciones, a más tardar el 30 de noviembre de cada año, informarán al Ministerio de Agricultura y Desarrollo Rural, los municipios que no están cumpliendo con la creación y funcionamiento tanto de la Comisión Municipal de Tecnología y Asistencia Técnica, como de la UMATA.
@@ -4287,8 +3763,6 @@ Incumplimiento de la creación y funcionamiento de la Comisión Municipal de Tec
 El Ministerio de Agricultura y Desarrollo Rural enviará esta información al Ministerio de Hacienda y Crédito Público y a las entidades cofinanciadoras, (sic) con el fin de que suspendan los giros destinados a financiar proyectos agropecuarios, forestales y pesqueros de aquellos municipios que no hayan cumplido dicho requisito.
 
 (Decreto 1929 de 1994, art. 3)
-
-ARTÍCULO
 
 ## art:2.4.2.2 — Distribución del presupuesto de ingresos corrientes de la Nación
 
@@ -4300,8 +3774,6 @@ Las oficinas de planeación municipal o quien desempeñe las funciones de manejo
 
 (Decreto 1929 de 1994, art. 4. Parágrafo derogado por el art. 21 de la Ley 607 de 2000)
 
-ARTÍCULO
-
 ## art:2.4.2.3 — Creación de la UMATA por iniciativa popular
 
 Con base en la información suministrada por las Secretarías de Agricultura sobre la no constitución de la UMATA o incumplimiento de sus requisitos, por parte de los Municipios, el Ministerio de Agricultura y Desarrollo Rural autorizará, a las Secretarías de Agricultura o a quien desempeñe sus funciones, para que procedan a promover, entre los usuarios, la creación de la UMATA en aquellos municipios que no las hayan conformado, o estén incumpliendo con los requisitos.
@@ -4309,8 +3781,6 @@ Con base en la información suministrada por las Secretarías de Agricultura sob
 PARÁGRAFO . Los municipios en los cuales se constituya la UMATA por iniciativa popular, los usuarios podrán repetir contra el municipio todos los costos de operación de estas y los municipios tendrán la obligación de cubrirlos.
 
 (Decreto 1929 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.4.2.4 — Configuración
 
@@ -4328,8 +3798,6 @@ La Comisión Municipal de Tecnología y Asistencia Técnica que creará el Conce
 
 (Decreto 1929 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.4.2.5 — Reuniones
 
 La Comisión Municipal de Tecnología y Asistencia Técnica se reunirá, como mínimo, una vez por semestre.
@@ -4337,8 +3805,6 @@ La Comisión Municipal de Tecnología y Asistencia Técnica se reunirá, como m�
 PARÁGRAFO . En cada reunión de la Comisión se levantará una (sic) acta la cual debe estar firmada por el Presidente de la Comisión, el Secretario y uno de los usuarios del servicio, que forme parte de la comisión. Estas actas estarán a disposición de las Secretarías de Agricultura o quien desempeñe sus funciones.
 
 (Decreto 1929 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.4.2.6 — Informes
 
@@ -4348,8 +3814,6 @@ PARÁGRAFO . Las actas de las reuniones de la Comisión, así como los informes 
 
 (Decreto 1929 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.4.2.7 — Vinculación del personal profesional y técnico que conforma la UMATA
 
 Las Secretarías de Agricultura, o quien desarrolle sus funciones, serán las encargadas de vigilar que el personal profesional y técnico que se vincule a la UMATA como personal de planta del municipio, lo haga con sujeción a las normas y procedimientos de la carrera administrativa.
@@ -4357,8 +3821,6 @@ Las Secretarías de Agricultura, o quien desarrolle sus funciones, serán las en
 PARÁGRAFO . Cuando la creación de la UMATA se haga por iniciativa popular, el municipio vinculará a su planta de personal, como mínimo, los profesionales y técnicos que hagan parte de la unidad básica.
 
 (Decreto 1929 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.4.2.8 — Contratos para el funcionamiento y prestación del servicio de la UMATA
 
@@ -4378,8 +3840,6 @@ CAPÍTULO 1
 
 Objeto, creación, características y funciones de los Centros Provinciales de Gestión Agro empresarial
 
-ARTÍCULO
-
 ## art:2.4.3.1.1 — Objeto
 
 Los municipios podrán asociarse para el cumplimiento de la prestación del servicio obligatorio de asistencia técnica directa rural, fortaleciendo los encadenamientos productivos con enfoque Agro empresarial mediante la creación de Centros Provinciales de Gestión Agro empresarial, en adelante CPGA.
@@ -4391,8 +3851,6 @@ El servicio de asistencia técnica se prestará a través de las Empresas Presta
 Las acciones que adelanten los CPGA deberán enmarcarse dentro de la noción de cadenas productivas y de agregación de valor de que trata la Ley 811 de 2003.
 
 (Decreto 2980 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.3.1.2 — Creación
 
@@ -4406,15 +3864,11 @@ PARÁGRAFO 2. Una vez constituido cada uno de los Centros Provinciales de Gesti�
 
 (Decreto 2980 de 2004, art. 2)
 
-ARTÍCULO
-
 ## art:2.4.3.1.3 — Características
 
 Los Centros Provinciales de Gestión Agro empresarial, son organizaciones de gestión que agrupan municipios con características homogéneas y potencialidades comunes, para el desarrollo de la competitividad y el fortalecimiento del mercado de servicios de asistencia técnica directa rural, con enfoque agro empresarial.
 
 (Decreto 2980 de 2004, art. 3)
-
-ARTÍCULO
 
 ## art:2.4.3.1.4 — Criterios para la conformación de los Centros
 
@@ -4435,8 +3889,6 @@ Con el fin de apoyar la conformación de los CPGA, el Ministerio de Agricultura 
 PARÁGRAFO . En los territorios en los que exista presencia de resguardos indígenas y comunidades afrocolombianas podrán demandar la prestación del servicio de asistencia técnica o conformar entidades prestadoras del servicio, según sus usos o costumbres.
 
 (Decreto 2980 de 2004, art. 4)
-
-ARTÍCULO
 
 ## art:2.4.3.1.5 — Funciones de los Centros Provinciales de Gestión Agro empresarial
 
@@ -4464,15 +3916,11 @@ CAPÍTULO 2
 
 Estructura y funcionamiento de los Centros Provinciales de Gestión Agro empresarial
 
-ARTÍCULO
-
 ## art:2.4.3.2.1 — 2.1
 
 Estructura y funcionamiento Los Centros Provinciales de Gestión Agro empresarial, serán administrados por un Gerente elegido por el Consejo Directivo y dentro de su estructura interna contará con una Unidad de Gestión y de Administración.
 
 (Decreto 2980 de 2004, art. 6)
-
-ARTÍCULO
 
 ## art:2.4.3.2.2 — Consejo Directivo
 
@@ -4487,8 +3935,6 @@ Es el máximo órgano de dirección del CPGA y será la instancia de concertaci�
 PARÁGRAFO . La elección y el número de representantes de los encadenamientos productivos en el Consejo Directivo se efectuará por la Asamblea, previa presentación de ternas por cada encadenamiento activo dentro del CPGA, garantizando la participación equitativa y directa de los productores, transformadores y comercializadores. En todo caso, la participación de estos representantes privados será del cuarenta y nueve por ciento (49%) de los miembros que conformen el Consejo. Los productores tendrán un número de miembros mayoritario.
 
 (Decreto 2980 de 2004, art. 7)
-
-ARTÍCULO
 
 ## art:2.4.3.2.3 — Funciones del Consejo Directivo
 
@@ -4512,8 +3958,6 @@ Son funciones de los Consejos Directivos:
 
 (Decreto 2980 de 2004, art. 8)
 
-ARTÍCULO
-
 ## art:2.4.3.2.4 — Gerente
 
 Es el representante legal del Centro Provincial de Gestión Agro empresarial, quien lo administrará de conformidad con las directrices que imparta el Consejo Directivo.
@@ -4534,15 +3978,11 @@ Son funciones del Gerente:
 
 (Decreto 2980 de 2004, art. 9)
 
-ARTÍCULO
-
 ## art:2.4.3.2.5 — Unidad de Gestión y Administración
 
 Es la instancia de coordinación y gestión técnica, administrativa y financiera, integrada en lo posible por profesionales locales, que se encarga de coordinar los distintos actores, acompañar la planificación de los perfiles de negocios, de los planes generales de asistencia técnica para los encadenamientos productivos y de adelantar los procesos administrativos y financieros inherentes a su funcionamiento.
 
 (Decreto 2980 de 2004, art. 10)
-
-ARTÍCULO
 
 ## art:2.4.3.2.6 — Funciones de la Unidad de Gestión y Administración
 
@@ -4560,8 +4000,6 @@ CAPÍTULO 3
 
 Entidades Prestadoras de Servicio de Asistencia Técnica y Prácticas Académicas Obligatorias
 
-ARTÍCULO
-
 ## art:2.4.3.3.1 — Entidades Prestadoras de Servicios de Asistencia Técnica
 
 Los CPGA una vez conformados deberán contratar con entidades privadas, públicas mixtas, comunitarias o solidarias constituidas para el efecto, la prestación de los servicios de Asistencia Técnica.
@@ -4578,8 +4016,6 @@ PARÁGRAFO . Las Secretarías de Agricultura y Desarrollo Rural o quienes hagan 
 
 (Decreto 2980 de 2004, art. 12)
 
-ARTÍCULO
-
 ## art:2.4.3.3.2 — Prácticas académicas obligatorias
 
 Para apoyar la prestación del Servicio de Asistencia Técnica Directa a través del CPGA, fundamentalmente el servicio gratuito a los pequeños productores agropecuarios, será obligatoria la realización de prácticas o pasantías en los municipios, por parte de los estudiantes de último año o semestre en todos los programas de educación técnica, tecnológica y universitaria en el área de las ciencias agropecuarias y la ingeniería agronómica, agrícola, agrológica, pesquera, forestal, agroforestal, la administración agroindustrial, la administración de empresas agropecuarias, veterinaria, zootecnia, y otras carreras afines.
@@ -4592,8 +4028,6 @@ CAPÍTULO 4
 
 Recursos
 
-ARTÍCULO
-
 ## art:2.4.3.4.1 — Transferencia de recursos de los municipios
 
 Los municipios que se asocien voluntariamente en función de la conformación de un Centro Provincial de Gestión Agro empresarial, deberán garantizar los recursos suficientes para su funcionamiento y la contratación de servicios de apoyo necesarios para la consolidación de los planes de negocios, proyectos de desarrollo rural y la asistencia técnica. Para tal efecto, en el Convenio de Asociación de los Municipios para la conformación del CPGA, cada municipio se comprometerá a transferir los recursos libremente acordados, los cuales solo podrán ser usados para contratar los servicios de asistencia técnica directa rural, según los planes generales definidos por el CPGA.
@@ -4601,8 +4035,6 @@ Los municipios que se asocien voluntariamente en función de la conformación de
 Los recursos se manejarán de conformidad con el presupuesto de gastos e inversiones que deberá aprobar el Consejo Directivo.
 
 (Decreto 2980 de 2004, art. 14)
-
-ARTÍCULO
 
 ## art:2.4.3.4.2 — Otros recursos e ingresos de los Centros Provinciales de Gestión Agro empresarial
 
@@ -4626,15 +4058,11 @@ CAPÍTULO 5
 
 Institucionalidad
 
-ARTÍCULO
-
 ## art:2.4.3.5.1 — Coordinación para la planificación
 
 El CPGA hará parte en la definición de las directrices que las entidades correspondientes coordinen con relación al Sistema Sectorial de Planeación. En este sentido, las iniciativas de inversión y los proyectos productivos empresariales, identificados y formulados desde los CPGA se deberán articular a los planes de desarrollo departamental, regional y municipal vigentes en la estructura política colombiana, así como a los planes de ordenamiento territorial, definidos por la Ley de Ordenamiento Territorial.
 
 (Decreto 2980 de 2004, art. 16)
-
-ARTÍCULO
 
 ## art:2.4.3.5.2 — De la articulación institucional
 
@@ -4646,8 +4074,6 @@ CAPÍTULO 6
 
 Seguimiento, evaluación y control
 
-ARTÍCULO
-
 ## art:2.4.3.6.1 — Sistema de evaluación, seguimiento y control
 
 El Ministerio de Agricultura y Desarrollo Rural, definirá el sistema de evaluación, seguimiento y control para los CPGA, el cual deberá garantizar la participación de los productores, transformadores y comercializadores del campo en cada territorio.
@@ -4658,8 +4084,6 @@ PARTE 5
 
 INCENTIVO A LA CAPITALIZACION RURAL ICR
 
-ARTÍCULO
-
 ## art:2.5.1 — Incentivo de Capitalización Rural
 
 El Incentivo a la Capitalización Rural es un derecho personal intransferible que, previo el cumplimiento de determinadas condiciones, se da a toda persona natural o jurídica que ejecute un nuevo proyecto de inversión financiado total o parcialmente, con un crédito redescontado en el Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, de conformidad con lo dispuesto en este título y en las reglamentaciones que expida la Comisión Nacional de Crédito Agropecuario, CNCA.
@@ -4667,8 +4091,6 @@ El Incentivo a la Capitalización Rural es un derecho personal intransferible qu
 PARÁGRAFO . Por vía de excepción, la CNCA podrá extender los beneficios del Incentivo a la Capitalización Rural a personas que ejecuten proyectos de inversión financiados con créditos no redescontados en FINAGRO, siempre y cuando las condiciones de su otorgamiento correspondan a las definidas por dicha comisión.
 
 (Decreto 626 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2 — Definición de los proyectos y actividades objeto del incentivo
 
@@ -4690,15 +4112,11 @@ Sin embargo, cuando se trate de programas de modernización o de reconversión t
 
 (Decreto 626 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.3 — Acceso individual
 
 Cuando de la ejecución de un proyecto de inversión se deriven beneficios a diferentes personas, éstas podrán acceder individualmente al Incentivo. En tal caso, tanto el proyecto en su conjunto como las personas, individualmente consideradas, deberán acreditar las condiciones señaladas para ambos en este título y en las normas que para tal efecto dicten la CNCA y Finagro.
 
 (Decreto 626 de 1994, art. 3)
-
-ARTÍCULO
 
 ## art:2.5.4 — No concurrencia de incentivos
 
@@ -4708,15 +4126,11 @@ PARÁGRAFO . Se exceptúan de esta prohibición los incentivos otorgados a trav�
 
 (Decreto 626 de 1994, art. 4, modificado por el Decreto 2590 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.5 — Criterios
 
 Para el manejo del Incentivo a la Capitalización Rural, la CNCA y FINAGRO, en lo de sus competencias, distinguirán tres eventos a saber: la elegibilidad, el otorgamiento y el pago.
 
 (Decreto 626 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.5.6 — Elegibilidad
 
@@ -4730,15 +4144,11 @@ PARÁGRAFO 2. Las solicitudes presentadas para la elegibilidad, otorgamiento y p
 
 (Decreto 626 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.5.7 — Comunicación
 
 En la comunicación de elegibilidad se indicará, entre otros, el monto del Incentivo, la vigencia de la elegibilidad y las condiciones generales y particulares cuyo cumplimiento habrá de evidenciarse por el solicitante del Incentivo, para que el mismo pueda ser otorgado.
 
 (Decreto 626 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.5.8 — Falta de cumplimiento de las condiciones
 
@@ -4748,23 +4158,17 @@ No obstante, sin perjuicio de las normas presupuestales, FINAGRO podrá ampliar 
 
 (Decreto 626 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.5.9 — Costos de referencia
 
 En la definición de políticas aplicables para la operatividad del Incentivo, el Ministerio de Agricultura y Desarrollo Rural podrá establecer costos de referencia unitarios para los proyectos y actividades de inversión, los cuales servirán de base a la CNCA para determinar los porcentajes y montos del Incentivo.
 
 (Decreto 626 de 1994, art. 9)
 
-ARTÍCULO
-
 ## art:2.5.10 — Facultades de la CNCA
 
 Dentro de la facultad que tiene la CNCA de establecer los montos, modalidades y condiciones de los proyectos de inversión objeto del Incentivo a la Capitalización Rural, la misma podrá, en adición a lo señalado en este título, regular la elegibilidad de predios o explotaciones, determinar los porcentajes de reconocimiento del Incentivo y definir montos máximos para los mismos.
 
 (Decreto 626 de 1994, art. 10)
-
-ARTÍCULO
 
 ## art:2.5.11 — Otorgamiento
 
@@ -4774,8 +4178,6 @@ PARÁGRAFO . El otorgamiento del Incentivo se asimila al título mediante el cua
 
 (Decreto 626 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.5.12 — Pago
 
 Mediante el pago, FINAGRO hace efectivo el Incentivo a la Capitalización Rural otorgado, para lo cual procederá con sujeción al situado de fondos que en su tesorería haya efectuado la Nación.
@@ -4784,15 +4186,11 @@ PARÁGRAFO . El pago del Incentivo se efectuará mediante el abono que haga el i
 
 (Decreto 626 de 1994, art. 12)
 
-ARTÍCULO
-
 ## art:2.5.13 — Verificación
 
 FINAGRO en su calidad de administrador de los recursos destinados al programa de Incentivos a la Capitalización Rural y los intermediarios financieros, dentro de las acciones de evaluación, aprobación y seguimiento de los créditos y del control de sus correspondientes inversiones, verificarán, según les corresponda, el cumplimiento de las condiciones de elegibilidad, de otorgamiento y pago del Incentivo, de conformidad con los términos reglamentados por la CNCA.
 
 (Decreto 626 de 1994, art. 13)
-
-ARTÍCULO
 
 ## art:2.5.14 — Gastos operativos
 
@@ -4800,15 +4198,11 @@ Los gastos operativos que demande la administración y control del programa de I
 
 (Decreto 626 de 1994, art. 14)
 
-ARTÍCULO
-
 ## art:2.5.15 — Establecimiento de condiciones
 
 La CNCA y FINAGRO, en los ámbitos de sus competencias, establecerán las condiciones, términos y formalidades requeridas para la plena operatividad del Incentivo.
 
 (Decreto 626 de 1994, art. 15)
-
-ARTÍCULO
 
 ## art:2.5.16 — .16
 
@@ -4819,8 +4213,6 @@ Contratación de terceros para la difusión, administración y verificación de 
 PARTE 6
 
 COBERTURAS CAMBIARIAS
-
-ARTÍCULO
 
 ## art:2.6.1 — Creación del Programa de Incentivo de Cobertura Cambiaría
 
@@ -4835,8 +4227,6 @@ Si el valor de la cobertura es inferior al valor FOB de sus exportaciones durant
 PARÁGRAFO . Se reconocerá el incentivo bajo el mecanismo definido en el reglamento operativo a ser expedido por los Ministerios de Agricultura y Desarrollo Rural y Hacienda y Crédito Público, sujeto a la disponibilidad de recursos del programa.
 
 (Decreto 4390 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.6.2 — Administración
 
@@ -4854,15 +4244,11 @@ TÍTULO 1
 
 Sistema de coordinación de actividades públicas, privadas y de inclusión social para el cumplimiento del Pacto Nacional por el Agro y el Desarrollo Rural
 
-ARTÍCULO
-
 ## art:2.7.1.1 — Objeto
 
 El presente título tiene por objeto organizar el Sistema de coordinación de actividades públicas, privadas y de inclusión social para el cumplimiento del Pacto Nacional por el Agro y el Desarrollo Rural.
 
 (Decreto 1987 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.7.1.2 — 1.2
 
@@ -4872,15 +4258,11 @@ PARÁGRAFO . El Sistema de coordinación de actividades públicas, privadas y de
 
 (Decreto 1987 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.7.1.3 — Objetivo del Sistema
 
 El Sistema de coordinación de actividades públicas, privadas y de inclusión social que por medio de este decreto se crea tiene como fin principal coordinar las actividades que realizan las instancias públicas, privadas y de inclusión social relacionadas con la formulación, ejecución y seguimiento de las políticas, programas, planes y proyectos necesarios para el cumplimiento del Pacto Nacional por el Agro y el Desarrollo Rural.
 
 (Decreto 1987 de 2013, art.3)
-
-ARTÍCULO
 
 ## art:2.7.1.4 — Funciones
 
@@ -4898,8 +4280,6 @@ El Sistema de coordinación de actividades públicas, privadas y de inclusión s
 
 (Decreto 1987 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.7.1.5 — Instancias de articulación
 
 La articulación del Sistema de coordinación de actividades públicas, privadas y de inclusión social para el cumplimiento del Pacto Nacional por el Agro y el Desarrollo Rural se realizará en el nivel Municipal a través de los Consejos Municipales de Desarrollo Rural; en el nivel departamental a través de los Consea y en el nivel nacional a través del Consejo Nacional Agropecuario y Agroindustrial, instancias que tendrán a su cargo labores de coordinación y diálogo entre las autoridades municipales, departamentales y nacionales, las comunidades rurales y las entidades públicas y privadas para el desarrollo y cumplimiento del Pacto Nacional por el Agro y el Desarrollo Rural.
@@ -4907,8 +4287,6 @@ La articulación del Sistema de coordinación de actividades públicas, privadas
 PARÁGRAFO . Del desarrollo de las acciones ejecutadas por estos Consejos en el marco del Sistema de coordinación de actividades públicas, privadas y de inclusión social para el cumplimiento del Pacto Nacional por el Agro y el Desarrollo Rural, se dará cuenta a los Ministerios de Agricultura y Desarrollo Rural y del Trabajo, para los fines propios del ejercicio de la Secretaría Técnica del Sistema.
 
 (Decreto 1987 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.7.1.6 — Integración
 
@@ -4938,8 +4316,6 @@ PARÁGRAFO . La participación y representación de las organizaciones sociales 
 
 (Decreto 1987 de 2013, art.6)
 
-ARTÍCULO
-
 ## art:2.7.1.7 — Funciones
 
 Los Consejos Municipales de Desarrollo Rural, en el marco de las acciones derivadas del Pacto Nacional por el Agro y el Desarrollo Rural, tendrán las siguientes funciones:
@@ -4960,8 +4336,6 @@ PARÁGRAFO 3. Para efectos de garantizar la participación de los actores que no
 
 (Decreto 1987 de 2013, art.7. Parágrafos 1, 2 y 3, adicionados por el Decreto 2526 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.7.1.8 — Coordinación de las instancias de articulación
 
 En el marco de las acciones derivadas del Pacto Nacional por el Agro y el Desarrollo Rural, los Ministerios de Agricultura y Desarrollo Rural y del Trabajo, velarán por que los Consejos Seccionales de Desarrollo Agropecuario (CONSEA) y el Consejo Nacional Agropecuario y Agroindustrial adecuen, en lo que sea pertinente, su integración y funcionamiento para actuar como instancias de articulación del Sistema que por este decreto se crea.
@@ -4972,15 +4346,11 @@ TÍTULO 2
 
 Lineamientos generales para la cofinanciación de los proyectos en el marco del Pacto Nacional por el Agro y el Desarrollo Rural
 
-ARTÍCULO
-
 ## art:2.7.2.1 — Objeto
 
 El presente título tiene por objeto establecer los lineamientos generales para la cofinanciación de los proyectos en el marco del Pacto Nacional por el Agro y el Desarrollo Rural.
 
 (Decreto 1567 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.7.2.2 — Definiciones
 
@@ -4991,8 +4361,6 @@ Para los efectos de la aplicación del presente título y de los actos administr
 2. Mediano Productor. Es toda persona cuyos activos totales no superen los mil quinientos salarios mínimos legales mensuales vigentes (1.500 s.m.l.m.v), incluidos los del cónyuge.
 
 (Decreto 1567 de 2014, art.2)
-
-ARTÍCULO
 
 ## art:2.7.2.3 — Líneas de cofinanciación de los proyectos
 
@@ -5016,8 +4384,6 @@ c. Riego y drenaje de pequeña y mediana escala.
 
 (Decreto 1567 de 2014, art.3)
 
-ARTÍCULO
-
 ## art:2.7.2.4 — Quiénes pueden presentar proyectos
 
 Podrán presentar los proyectos de qué trata el artículo 2.7.2.3.del presente decreto, los siguientes:
@@ -5040,15 +4406,11 @@ Podrán presentar los proyectos de qué trata el artículo 2.7.2.3.del presente 
 
 (Decreto 1567 de 2014, art.4)
 
-ARTÍCULO
-
 ## art:2.7.2.5 — Beneficiarios de los proyectos a ser cofinanciados en el marco del Pacto Nacional por el Agro y el Desarrollo Rural
 
 Únicamente podrán ser beneficiarios de los proyectos a ser cofinanciados en el marco del Pacto Nacional por el Agro y el Desarrollo Rural, los pequeños y medianos productores definidos en el presente decreto.
 
 (Decreto 1567 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.7.2.6 — Monto máximo a cofinanciar
 
@@ -5072,8 +4434,6 @@ c. Riego y drenaje de pequeña y mediana escala. El monto máximo a cofinanciar 
 
 (Decreto 1567 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.7.2.7 — Porcentaje de contrapartida
 
 El valor mínimo de la contrapartida que deben aportar los proponentes será del veinte por ciento (20%) del valor del proyecto, la cual podrá estar representada en dinero, bienes y servicios de acuerdo a la línea de los proyectos que serán cofinanciados.
@@ -5081,8 +4441,6 @@ El valor mínimo de la contrapartida que deben aportar los proponentes será del
 PARÁGRAFO . Se exceptúa de lo establecido en el presente artículo, los proyectos de la línea de cofinanciación de Acceso a Tierras - Subsidio Integral de Reforma Agraria (SIRA). También se exceptúan aquellos proyectos en que el Ministerio de Agricultura y Desarrollo Rural, determine que por su trascendencia social, puede ser objeto de financiación hasta en un noventa por ciento (90%).
 
 (Decreto 1567 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.7.2.8 — Priorización de los proyectos
 
@@ -5110,15 +4468,11 @@ PARÁGRAFO 2. Una vez seleccionados y priorizados los proyectos, los Consejos Mu
 
 (Decreto 1567 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.7.2.9 — Ventanilla Única de distribución de proyectos
 
 Establézcase en el Ministerio de Agricultura y Desarrollo Rural, la Ventanilla Única de distribución de proyectos, a través de la cual se recepcionarán y distribuirán los proyectos en las entidades correspondientes de acuerdo a la línea de cofinanciación.
 
 (Decreto 1567 de 2014, art.9)
-
-ARTÍCULO
 
 ## art:2.7.2.10 — .10
 
@@ -5135,8 +4489,6 @@ Responsables de la operación de las líneas de los proyectos a ser cofinanciado
 PARÁGRAFO . La operación de los proyectos a la que hace referencia el presente artículo, comprenderá entre otros aspectos, la verificación del cumplimiento de los requisitos, la calificación y evaluación técnica y financiera de los proyectos, la aprobación de la cofinanciación, la asignación de recursos y el seguimiento a la ejecución de los proyectos.
 
 (Decreto 1567 de 2014, art.10)
-
-ARTÍCULO
 
 ## art:2.7.2.11 — Requisitos de los proyectos que se presenten en el marco del Pacto Nacional por el Agro y el Desarrollo Rural
 
@@ -5280,8 +4632,6 @@ d. Presencia de un plan de acompañamiento y fortalecimiento de la asociación p
 
 (Decreto 1567 de 2014, art.11)
 
-ARTÍCULO
-
 ## art:2.7.2.12 — Calificación de los proyectos que se presenten en el marco del Pacto Nacional por el Agro y el Desarrollo Rural
 
 Los proyectos serán calificados por las entidades a las que hace referencia el artículo 2.7.2.10 del presente decreto de conformidad con los criterios que a continuación se establecen para cada línea.
@@ -5368,23 +4718,17 @@ PARÁGRAFO 2. Los proyectos de vivienda rural quedarán exceptuados del puntaje 
 
 (Decreto 1567 de 2014, art. 12)
 
-ARTÍCULO
-
 ## art:2.7.2.13 — Asignación de recursos
 
 Obtenida la aprobación de los proyectos, se asignarán los recursos correspondientes iniciando por aquellos de mayor puntaje, con sujeción a la disponibilidad presupuestal y de conformidad con el reglamento que sobre las líneas de cofinanciación se establezca.
 
 (Decreto 1567 de 2014, art.13)
 
-ARTÍCULO
-
 ## art:2.7.2.14 — Coordinación
 
 El Ministerio de Agricultura y Desarrollo Rural y el Ministerio del Trabajo, coordinarán, en el ámbito de sus competencias, el desarrollo de los proyectos del Pacto Nacional por el Agro y el Desarrollo Rural establecidos en el presente decreto, con el fin de lograr la transparencia, correcta ejecución de los proyectos y utilización eficiente de los recursos.
 
 (Decreto 1567 de 2014, art.14)
-
-ARTÍCULO
 
 ## art:2.7.2.15 — Seguimiento a la ejecución de los proyectos
 
@@ -5393,8 +4737,6 @@ Los CMDR y los CONSEA deberán presentar informes trimestrales al Ministerio de 
 De igual manera, el Ministerio de Agricultura y Desarrollo Rural pondrá a disposición herramientas tecnológicas de información a efectos de que se conozca los proyectos aprobados, el avance y el impacto de cada uno en los términos del presente decreto.
 
 (Decreto 1567 de 2014, art. 15)
-
-ARTÍCULO
 
 ## art:2.7.2.16 — Proyectos Especiales
 
@@ -5406,8 +4748,6 @@ PARTE 8
 
 Cultivos De Tardío Rendimiento
 
-ARTÍCULO
-
 ## art:2.8.1 — Renta exenta en aprovechamiento de nuevos cultivos de tardío rendimiento
 
 De conformidad con lo dispuesto en el artículo 1 de la Ley 939 de 2004, en los términos y condiciones señalados en la presente Parte, considerase exenta la renta relativa a los ingresos provenientes del aprovechamiento de nuevos cultivos de tardío rendimiento en palma, de aceite, caucho, cacao, cítricos v frutales; que perciban los contribuyentes del impuesto sobre la renta titulares de los cultivos.
@@ -5415,8 +4755,6 @@ De conformidad con lo dispuesto en el artículo 1 de la Ley 939 de 2004, en los 
 PARÁGRAFO . De conformidad con el parágrafo del artículo 2 de la Ley 939 de 2004 igual tratamiento tendrá la renta relativa a los ingresos provenientes del aprovechamiento de cultivos de tardío rendimiento en palma de aceite, caucho, cacao, cítricos y frutales, que perciban los contribuyentes titulares de cultivos que se hayan sembrado durante la vigencia de la Ley 818 de 2003. El procedimiento para su inscripción es el que determine el Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 1970 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.8.2 — Definiciones
 
@@ -5430,23 +4768,17 @@ Para efectos de la Parte 8 del Libro 2 de este Decreto, se entiende por:
 
 (Decreto 1970 de 2005, art.2)
 
-ARTÍCULO
-
 ## art:2.8.3 — Vigencia de la exención
 
 La exención del impuesto de renta que trata la presente Parte se aplicará respecto de las rentas provenientes del aprovechamiento de los nuevos cultivos de tardío rendimiento que se siembren dentro de los diez (10) años siguientes a la entrada en vigencia de la Ley 939 de 2004, así como de aquellas rentas provenientes de cultivos de tardío rendimiento en palma de aceite, caucho, cacao, cítricos y frutales que se hayan sembrado durante la vigencia de la Ley 818 de 2003.
 
 (Decreto 1970 de 2005, art.3)
 
-ARTÍCULO
-
 ## art:2.8.4 — Término de la exención
 
 De conformidad con el artículo 2 de la Ley 939 de 2004, la exención de que trata el artículo anterior se aplicará respecto de las rentas que se obtengan durante el término de diez (10) años contados a partir del período fiscal en que inicie el período productivo de los nuevos cultivos de tardío rendimiento o de los cultivos establecidos a partir de la vigencia de la Ley 818 de 2003 en palma de aceite, caucho, cacao, cítricos y frutales que estén inscritos ante el Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 1970 de 2005, art.4)
-
-ARTÍCULO
 
 ## art:2.8.5 — Requisitos para la procedencia de la exención
 
@@ -5464,15 +4796,11 @@ Así mismo, el Ministerio de Agricultura y Desarrollo Rural deberá certificar e
 
 (Decreto 1970 de 2005, art. 5)
 
-ARTÍCULO
-
 ## art:2.8.6 — Informes anuales
 
 Con el fin de realizar la evaluación por parte del Ministerio de Agricultura y Desarrollo Rural y del Ministerio de Salud y Protección Social del impacto económico que generen las nuevas plantaciones, los beneficiarios deberán antes del 31 de marzo de cada año rendir un informe técnico al Ministerio Agricultura y Desarrollo Rural, en el cual reporten el estado de los cultivos, su productividad (Tm/ha), los empleos generados, los estados financieros y cuando se amerite, reporte de impacto ambiental del cultivo.
 
 (Decreto 1970 de 2005, art. 6)
-
-ARTÍCULO
 
 ## art:2.8.7 — Exclusión de otros apoyos
 
@@ -5490,8 +4818,6 @@ TÍTULO 1
 
 PRAN Agropecuario
 
-ARTÍCULO
-
 ## art:2.9.1.1 — Adopción del Programa Nacional de Reactivación Agropecuaria y su objeto
 
 Se adopta el Programa Nacional de Reactivación Agropecuaria, en adelante PRAN, para la reactivación y fomento agropecuario. En desarrollo de este objeto, a través del programa PRAN se podrá, entre otras actividades de reactivación, comprar cartera crediticia agropecuaria a cargo de pequeños y medianos productores interesados en acogerse a este programa y a favor de los intermediarios financieros, vigilados por la Superintendencia Financiera de Colombia, siempre que se cumplan las condiciones y requisitos previstos en este título.
@@ -5500,23 +4826,17 @@ PARÁGRAFO . El Ministerio de Agricultura y Desarrollo Rural determinará las ac
 
 (Decreto 967 de 2000, art. 1, parágrafo adicionado por el Decreto 3950 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.9.1.2 — Recursos del programa
 
 El PRAN contará con los recursos que, para este efecto, se apropien en el Presupuesto General de la Nación. También podrán ser recursos del PRAN, entre otros, los provenientes de la recuperación de la cartera a que se refiere este título. Cuando estos recursos tengan origen en el presupuesto de la Nación, podrán ingresar al programa, siempre y cuando se incorporen al Presupuesto General de la Nación, en los términos del Estatuto Orgánico del Presupuesto.
 
 (Decreto 967 de 2000, art. 2)
 
-ARTÍCULO
-
 ## art:2.9.1.3 — Posibilidad de acogerse al PRAN
 
 Los Fondos Departamentales de Reactivación y Fomento Agropecuario, en adelante Fondear, podrán acogerse al PRAN, para lo cual deberán atender los lineamientos de dicho programa. Para estos efectos, los Fondear deberán establecer, como instancia de dirección, un órgano integrado por el Ministerio de Agricultura y Desarrollo Rural o su delegado, el gobernador del departamento o su delegado quien deberá ser el Secretario de Agricultura o quien haga sus veces, un representante de los gremios de la producción, un representante de las organizaciones campesinas, un representante del conjunto de municipios que participen en su financiación, un representante de los productores que se acojan a lo dispuesto en este título y un representante de las Umatas, elegido entre ellas mismas. Las recomendaciones y decisiones que tome este órgano, deberán contar con el voto favorable del Ministro de Agricultura y Desarrollo Rural o su delegado.
 
 (Decreto 967 de 2000, art.3)
-
-ARTÍCULO
 
 ## art:2.9.1.4 — Administración de los recursos
 
@@ -5526,8 +4846,6 @@ PARÁGRAFO . De conformidad con las normas legales que rigen la materia, FINAGRO
 
 (Decreto 967 de 2000, art. 4)
 
-ARTÍCULO
-
 ## art:2.9.1.5 — Distribución de los recursos
 
 FINAGRO, en su condición de administrador de los recursos del PRAN, los distribuirá para efectuar la negociación y compra de cartera, estimulando a las entidades territoriales que efectúen aporte a sus respectivos Fondear, con criterios de equidad. Las entidades territoriales que no estuvieren en condiciones de efectuar aportes a sus respectivos Fondear, podrán acceder a los recursos del PRAN, siempre que suscriban convenios con FINAGRO, en los cuales se obliguen a conformar preferencialmente, esquemas asociativos de producción y a prestar asistencia técnica a los beneficiarios de la compra de cartera, y a procurar la comercialización de sus productos, durante la ejecución del proyecto productivo de que trata el numeral 2 literal a) del artículo 2.9.1. 7. de este decreto.
@@ -5535,8 +4853,6 @@ FINAGRO, en su condición de administrador de los recursos del PRAN, los distrib
 PARÁGRAFO . Los Fondear podrán comprar cartera crediticia agropecuaria, con los aportes que a estos fondos hubieren efectuado las respectivas entidades territoriales, para lo cual se sujetarán a lo establecido en el presente título.
 
 (Decreto 967 de 2000, art. 5)
-
-ARTÍCULO
 
 ## art:2.9.1.6 — Identificación de los productores interesados, de las deudas y de las opciones productivas
 
@@ -5547,8 +4863,6 @@ Para la ejecución del PRAN, los Fondear y las Umatas, o quien haga sus veces, d
 2. La identificación de las opciones productivas, tecnológicas y de mercado y la valoración del potencial de ingresos derivados de las mismas.
 
 (Decreto 967 de 2000, art. 6)
-
-ARTÍCULO
 
 ## art:2.9.1.7 — Requisitos para acceder a los recursos
 
@@ -5577,8 +4891,6 @@ No obstante, para productores que carezcan de los recursos económicos y/o tierr
 PARÁGRAFO 3. Para los efectos del presente título, se entenderá por pequeño productor, lo definido en los artículos 2.1.2.2.8, y siguientes de este decreto.
 
 (Decreto 967 de 2000, art. 7, numeral 1 modificado por el Decreto 1623 de 2002, art. 1)
-
-ARTÍCULO
 
 ## art:2.9.1.8 — De las condiciones para el pago de la cartera adquirida por el PRAN, por parte de los beneficiarios del programa
 
@@ -5622,8 +4934,6 @@ TÍTULO 2
 
 Programa Nacional de Reactivación Agropecuaria - Sector Arrocero
 
-ARTÍCULO
-
 ## art:2.9.2.1 — Programa Nacional de Reactivación Agropecuaria, PRAN - Sector Arrocero
 
 El Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, podrá negociar y adquirir, cartera crediticia agropecuaria de los intermediarios financieros vigilados por la Superintendencia Financiera de Colombia, a cargo de personas naturales o jurídicas que hubieran contraído obligaciones crediticias para la comercialización de cosechas de arroz de los departamentos del Meta y Casanare en el segundo semestre de 2004 a través de Programas Especiales de Fomento y Desarrollo Agropecuario Créditos Asociativos.
@@ -5634,8 +4944,6 @@ PARÁGRAFO . FINAGRO adquirirá la cartera que cumpla todos los requisitos estab
 
 (Decreto 2841 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.9.2.2 — Recursos del programa
 
 La ampliación del Programa Nacional de Reactivación Agropecuaria, PRAN, de que trata este título, se realizará con los recursos disponibles en el programa y con los recursos adicionales que sean apropiados en el Presupuesto General de la Nación, sin situación de fondos, provenientes de la recuperación de cartera efectuada en desarrollo de la ejecución del programa, o en presupuestos de entidades territoriales.
@@ -5643,8 +4951,6 @@ La ampliación del Programa Nacional de Reactivación Agropecuaria, PRAN, de que
 El monto máximo de recursos asignados para la compra de la cartera a que se refiere el presente título es hasta CUARENTA Y SEIS MIL MILLONES DE PESOS ($46.000.000.000.oo).
 
 (Decreto 2841 de 2006, art.2)
-
-ARTÍCULO
 
 ## art:2.9.2.3 — Identificación de los beneficiarios interesados y de las deudas susceptibles de ser adquiridas a través del programa
 
@@ -5655,8 +4961,6 @@ Para la ejecución del Programa, FINAGRO, directamente, o a través de los inter
 2. Identificación de las obligaciones, las cuales deberán estar originadas de conformidad con el artículo 2.9.2.1, del presente decreto.
 
 (Decreto 2841 de 2006, art.3)
-
-ARTÍCULO
 
 ## art:2.9.2.4 — Requisitos para acceder a los recursos
 
@@ -5680,8 +4984,6 @@ PARÁGRAFO . En virtud de este decreto se podrá adquirir por beneficiario toda 
 
 (Decreto 2841 de 2006, art.4)
 
-ARTÍCULO
-
 ## art:2.9.2.5 — Base de compra y las condiciones para el pago de la cartera adquirida por parte de los beneficiarios
 
 Las condiciones para el pago de la cartera comprada, serán las siguientes:
@@ -5700,15 +5002,11 @@ PARÁGRAFO . La Comisión Nacional de Crédito Agropecuario podrá refinanciar y
 
 (Decreto 2841 de 2006, art. 5, parágrafo adicionado por el Decreto 3950 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.9.2.6 — Obligación de los integradores
 
 Para acceder a los beneficios de este programa los integradores beneficiados con la compra de la cartera, deberán suspender y abstenerse de iniciar procesos ejecutivos contra quienes fueron integrados por ellos en los créditos asociativos de producción o de comercialización que serán objeto de los beneficios de este programa, debiendo refinanciarlos en condiciones financieras iguales a las que se les hayan concedido de acuerdo al marco fijado en el artículo 2.9.2.5 del presente decreto.
 
 (Decreto 2841 de 2006, art. 6)
-
-ARTÍCULO
 
 ## art:2.9.2.7 — Término del Programa
 
@@ -5719,8 +5017,6 @@ Decreto 2841 de 2006, art. 7)
 TÍTULO 3
 
 PRAN Cafetero
-
-ARTÍCULO
 
 ## art:2.9.3.1 — Establecimiento y adopción del Programa Nacional de Reactivación Cafetera
 
@@ -5734,15 +5030,11 @@ PARÁGRAFO 3. El Ministerio de Agricultura y Desarrollo Rural determinará las a
 
 (Decreto 1257 de 2001, art. 1, modificado por el Decreto 931 de 2002, art. 1. Parágrafos 2 y 3, adicionados por el Decreto 4430 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.9.3.2 — Recursos para la compra de la cartera cafetera
 
 Para la adquisición de la cartera cafetera se contará con los recursos que se apropien para el efecto en el Presupuesto General de la Nación - Sección Ministerio de Agricultura y Desarrollo Rural y con los recursos provenientes de los pagos iniciales que efectúen los productores cafeteros de acuerdo con lo establecido en el artículo 2.9.3.5, numeral 3 de este decreto.
 
 (Decreto 1257 de 2001, art. 2)
-
-ARTÍCULO
 
 ## art:2.9.3.3 — Administración de los recursos
 
@@ -5756,8 +5048,6 @@ PARÁGRAFO 3. Sin perjuicio de lo anterior, el Ministerio de Agricultura y Desar
 
 (Decreto 1257 de 2001, art.3, parágrafo 3 adicionado por el Decreto 4430 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.9.3.4 — Identificación de los beneficiarios, de las deudas y de las opciones productivas
 
 Para la ejecución del programa, la Federación Nacional de Cafeteros deberá establecer previamente;
@@ -5767,8 +5057,6 @@ Para la ejecución del programa, la Federación Nacional de Cafeteros deberá es
 2. El mecanismo de identificación de los proyectos productivos, opciones tecnológicas y de mercado y la valoración del potencial de ingresos derivados de los mismos. En todo caso, la viabilidad de los proyectos productivos estará soportada por las propuestas que presenten los productores interesados para lo cual contarán con el apoyo y la orientación de la Federación Nacional de Cafeteros.
 
 (Decreto 1257 de 2001, art.4)
-
-ARTÍCULO
 
 ## art:2.9.3.5 — Compra de cartera y sus requisitos
 
@@ -5790,8 +5078,6 @@ PARÁGRAFO 3. Para los efectos del presente título, se entenderá por pequeño 
 
 (Decreto 1257 de 2001, art. 5)
 
-ARTÍCULO
-
 ## art:2.9.3.6 — Reglas de administración
 
 El valor de la cartera a cargo de los productores beneficiados por el plan y las condiciones para su pago serán las mismas establecidas en el artículo 2.9.1.8, del presente decreto.
@@ -5808,8 +5094,6 @@ Durante el nuevo periodo de gracia que se concede y hacia el futuro, sólo tendr
 
 (Decreto 1257 de 2001, art.6. Inciso segundo adicionado por el Decreto 931 de 2002, art. 2; Parágrafo adicionado por el Decreto 4430 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.9.3.7 — Beneficiarios del PRAN y competencias adicionales de FINAGRO
 
 Los productores agropecuarios, distintos de los cafeteros de que trata este título, cuya cartera hubiere sido trasladada por BANCAFE a la Central de Inversiones S.A., CISA, podrán beneficiarse del Programa Nacional de Reactivación Agropecuaria, PRAN, regulado en el título 1 de la Parte 9 del Libro 2 de este decreto, siempre que la misma se encuentre debidamente inscrita en dicho programa y cumpla con los requisitos allí señalados.
@@ -5822,23 +5106,17 @@ FINAGRO determinará cuáles saldos de créditos agropecuarios no inscritos en l
 
 (Decreto 1257 de 2001, art 7, modificado por el Decreto 931 de 2002, art. 3)
 
-ARTÍCULO
-
 ## art:2.9.3.8 — Pequeños y medianos productores agropecuarios del departamento del Cauca
 
 Los pequeños y medianos productores agropecuarios del departamento del Cauca, que tengan cartera agropecuaria vencida con el sector financiero vigilado por la Superintendencia Financiera de Colombia, podrán beneficiarse del Programa Nacional de Reactivación Agropecuaria, PRAN, siempre que cumplan las condiciones y requisitos establecidos en el mismo. El Ministerio de Agricultura y Desarrollo Rural y FINAGRO determinarán los términos y procedimientos de inscripción para que estos productores puedan acceder al programa.
 
 (Decreto 1257 de 2001, art. 8)
 
-ARTÍCULO
-
 ## art:2.9.3.9 — Productores bananeros de la zona bananera del departamento del Magdalena
 
 Los productores bananeros de la zona bananera del departamento del Magdalena, deudores del patrimonio autónomo - Convenio de Rehabilitación del Magdalena, administrado por la Sociedad Fiduciaria Industrial, Fiduifi, y originado en un crédito de la Caja Agraria en Liquidación a través de operaciones de redescuento en Bancoldex, podrán beneficiarse del Programa Nacional de Reactivación Agropecuaria, PRAN, sujeto a la disponibilidad de recursos presupuestales y a los términos y procedimientos que conjuntamente determinen el Ministerio de Agricultura y Desarrollo Rural, FINAGRO y la Caja Agraria en Liquidación.
 
 (Decreto 1257 de 2001, art.9)
-
-ARTÍCULO
 
 ## art:2.9.3.10 — Estabilidad de las condiciones de adquisición de cartera
 
@@ -5850,15 +5128,11 @@ TÍTULO 4
 
 PRAN Reforma Agraria
 
-ARTÍCULO
-
 ## art:2.9.4.1 — Objeto
 
 El objeto de este título es ampliar los beneficios del Programa Nacional de Reactivación Agropecuaria, PRAN, a los beneficiarios de Reforma Agraria de la Ley 160 de 1994, que adquirieron créditos para compra de tierra y para el desarrollo de proyectos productivos, cuya cartera se encuentre vencida y cumplan las demás condiciones establecidas en el artículo 2.9.1.7, de este decreto.
 
 (Decreto 11 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.9.4.2 — Autorización a FINAGRO
 
@@ -5868,15 +5142,11 @@ PARÁGRAFO . Se entenderá que el monto de la obligación a adquirir en cada cas
 
 (Decreto 11 de 2004, art. 2)
 
-ARTÍCULO
-
 ## art:2.9.4.3 — Recursos para la compra de cartera
 
 La compra de la cartera de que trata el presente título, se ejecutará con cargo a los recursos disponibles a la fecha de expedición del presente título para el Programa Nacional de Reactivación Agropecuaria, PRAN.
 
 (Decreto 11 de 2004, art. 3)
-
-ARTÍCULO
 
 ## art:2.9.4.4 — Certificación
 
@@ -5884,15 +5154,11 @@ El Instituto Colombiano de Desarrollo Rural, INCODER, certificará que los benef
 
 (Decreto 11 de 2004, art.5)
 
-ARTÍCULO
-
 ## art:2.9.4.5 — Adquisición de la cartera otorgada a favor de los beneficiarios de Reforma Agraria
 
 Facultase al Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, para adquirir la cartera otorgada a favor de los beneficiarios de la Reforma Agraria de la Ley 160 de 1994, directamente a los intermediarios financieros y a la Caja de Crédito Agrario, Industrial y Minero en Liquidación, previo el endoso de los pagarés a su favor y el cumplimiento de lo dispuesto en el artículo 2.9.4.6, del presente decreto.
 
 (Decreto 11 de 2004, art. 6, modificado por el Decreto 3749 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.9.4.6 — Nuevo Pagaré
 
@@ -5902,8 +5168,6 @@ PARÁGRAFO . Los sujetos de Reforma Agraria que se hayan comprometido solidaria 
 
 (Decreto 11 de 2004, art. 7, adicionado por el Decreto 3749 de 2004, art. 1)
 
-ARTÍCULO
-
 ## art:2.9.4.7 — Condición resolutoria a propietarios morosos
 
 Los propietarios morosos en sus créditos, considerados individualmente o en común y proindiviso sobre los predios de que trata la Ley 160 de 1994, que no suscribieren el pagaré porque no lo quisieren hacer o no fueren localizables, se les declarará la condición resolutoria de los subsidios otorgados o la extinción de dominio administrativa, según el caso, de conformidad con la ley. Una vez recuperada la propiedad, el Instituto Colombiano de Desarrollo Rural, INCODER deberá iniciar nuevos procesos de adjudicación.
@@ -5912,15 +5176,11 @@ PARÁGRAFO . El Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, s
 
 (Decreto 11 de 2004, art.8, adicionado por el Decreto 3749 de 2004, art. 1)
 
-ARTÍCULO
-
 ## art:2.9.4.8 — Suscripción de pagaré de nuevos beneficiarios
 
 Las personas que resulten favorecidas en desarrollo del nuevo proceso de adjudicación deberán suscribir un pagaré a favor del Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, en su calidad de administrador del PRAN, en virtud del cual se hacen cargo de la obligación preexistente reestructurada respaldada con la propiedad adjudicada.
 
 (Decreto 11 de 2004, art.9, adicionado por el Decreto 3749 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.9.4.9 — Convenio
 
@@ -5940,8 +5200,6 @@ CAPÍTULO 1
 
 De los mecanismos de control interno
 
-ARTÍCULO
-
 ## art:2.10.1.1.1 — Auditoría Interna
 
 La Auditoría Interna de los Fondos constituidos con las contribuciones parafiscales del sector agropecuario y pesquero será el mecanismo a través del cual los entes administradores de los mismos efectuarán el seguimiento sobre el manejo de tales recursos. En desarrollo de este seguimiento la auditoría verificará la correcta liquidación de las contribuciones parafiscales, su debido pago, recaudo y consignación, así como su administración, inversión y contabilización.
@@ -5956,8 +5214,6 @@ PARÁGRAFO 2. La auditoría Interna también podrá efectuar, cuando fuere perti
 
 (Decreto 2025 de 1996, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.1.1.2 — Designación de la Auditoría Interna
 
 La Auditoría Interna de los Fondos Parafiscales Agropecuarios y Pesqueros será designada por el órgano máximo de dirección de dichos Fondos, con el voto favorable del Ministro de Agricultura y Desarrollo Rural o de su delegado.
@@ -5966,8 +5222,6 @@ Los costos y gastos que demande la auditoría interna, serán sufragados con los
 
 (Decreto 2025 de 1996, art.2, modificado por el Decreto 392 de 2001, art 1)
 
-ARTÍCULO
-
 ## art:2.10.1.1.3 — Inspección de libros, soportes y registros
 
 Cuando así lo requiera la ley que establezca la respectiva contribución, el representante legal de la entidad administradora del correspondiente Fondo Parafiscal, solicitará al Ministerio de Hacienda y Crédito Público, autorización para efectuar visitas de Inspección a los libros de contabilidad, soportes contables y registros de los sujetos de la contribución y de las entidades recaudadoras.
@@ -5975,8 +5229,6 @@ Cuando así lo requiera la ley que establezca la respectiva contribución, el re
 Para este efecto, el Ministerio de Hacienda y Crédito Público a través de la dependencia delegada para el efecto, expedirá la autorización correspondiente, en un término no mayor de diez (10) días calendario, contados a partir de la radicación de la solicitud que presente el representante legal de la respectiva entidad administradora.
 
 (Decreto 2025 de 1996, art. 3)
-
-ARTÍCULO
 
 ## art:2.10.1.1.4 — Informe sobre cuotas no pagadas a tiempo
 
@@ -6004,8 +5256,6 @@ CAPÍTULO 2
 
 De los mecanismos de control externo
 
-ARTÍCULO
-
 ## art:2.10.1.2.1 — Verificación del Ministerio de Agricultura y Desarrollo Rural
 
 El Ministerio de Agricultura y Desarrollo Rural verificará que el recaudo de las cuotas parafiscales, los ingresos, las inversiones, los gastos y, en general, todas las operaciones ejecutadas por los Fondos, se hayan ajustado a las finalidades y objetivos de los mismos, al presupuesto y a los acuerdos de gastos aprobados. Igualmente, verificará el adecuado cumplimiento del contrato que, para efectos de la administración y manejo de los recursos de un Fondo Parafiscal, celebre con la entidad administradora del mismo.
@@ -6014,15 +5264,11 @@ PARÁGRAFO . Para efecto de lo dispuesto en el presente artículo, el Ministerio
 
 (Decreto 2025 de 1996, art.5)
 
-ARTÍCULO
-
 ## art:2.10.1.2.2 — Libro de actas
 
 La entidad administradora del correspondiente Fondo Parafiscal deberá abrir un libro de actas en el que se consignen las decisiones que tome el órgano máximo de dirección de dichos Fondos, el cual deberá registrarse ante el Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 2025 de 1996, art.6)
-
-ARTÍCULO
 
 ## art:2.10.1.2.3 — Control fiscal
 
@@ -6034,15 +5280,11 @@ TÍTULO 2
 
 Disposiciones varias
 
-ARTÍCULO
-
 ## art:2.10.2.1 — Instructivo
 
 El Ministerio de Agricultura y Desarrollo Rural, a través de la Oficina Asesora de Planeación y Prospectiva, preparará un Instructivo que sirva de instrumento orientador para la elaboración y ejecución del presupuesto de inversiones y gastos de los Fondos Parafiscales Agropecuarios y Pesqueros, adecuado a la naturaleza de dichos Fondos.
 
 (Decreto 2025 de 1996, art. 8)
-
-ARTÍCULO
 
 ## art:2.10.2.2 — Gastos administrativos que pueden ser sufragados con recursos del fondo
 
@@ -6064,8 +5306,6 @@ PARÁGRAFO 2. La contraprestación consagrada en la respectiva ley de creación 
 
 (Decreto 2025 de 1996, art.9)
 
-ARTÍCULO
-
 ## art:2.10.2.3 — Operaciones e inversiones que pueden realizarse con recursos del fondo
 
 Las Entidades Administradoras de los Fondos Parafiscales podrán efectuar operaciones e inversiones a nombre de los mismos y con cargo a los recursos del Fondo, siempre y cuando se encuentren afectados a la finalidad que defina la ley para cada contribución parafiscal, esté previsto en el presupuesto de ingresos y gastos del correspondiente Fondo y aprobado por el respectivo órgano máximo de dirección. El resultado de tales operaciones sólo podrá afectar la contabilidad del respectivo Fondo Parafiscal.
@@ -6074,8 +5314,6 @@ Los activos que se adquieran con recursos de los Fondos Parafiscales deberán in
 
 (Decreto 2025 de 1996, art. 11)
 
-ARTÍCULO
-
 ## art:2.10.2.4 — Aprobación de créditos
 
 Las solicitudes de crédito que presenten los entes administradores de los Fondos Parafiscales para el cumplimiento de los objetivos de los mismos, deberán ser aprobadas por el órgano máximo de dirección del respectivo Fondo Parafiscal, con el voto favorable del Ministro de Agricultura y Desarrollo Rural.
@@ -6083,8 +5321,6 @@ Las solicitudes de crédito que presenten los entes administradores de los Fondo
 PARÁGRAFO . Para la consecución de los créditos de que trata el presente artículo, se podrán ofrecer como garantías los activos del respectivo Fondo Parafiscal y la pignoración de sus recursos futuros por concepto de las contribuciones parafiscales.
 
 (Decreto 2025 de 1996, art. 12)
-
-ARTÍCULO
 
 ## art:2.10.2.5 — Sujeción normativa
 
@@ -6122,8 +5358,6 @@ CAPÍTULO 1
 
 Fondos del Arroz, Cacaotero y Cerealista
 
-ARTÍCULO
-
 ## art:2.10.3.1.1 — Sujetos obligados a recaudar las cuotas de Fomento arrocero, Cacaotero y Cerealista
 
 Están obligadas al recaudo de las Cuotas de Fomento Arrocero, Cacaotero y Cerealista de que trata la Ley 67 del 30 de diciembre de 1983, todas las personas naturales o jurídicas que adquieran o reciban a cualquier título, beneficien o transformen arroz Paddy, cacao o trigo, cebada, maíz, sorgo y avena de producción nacional, bien sea que se destinen al mercado interno o al de exportación, o se utilicen como semillas, materias primas o componentes de productos industriales para el consumo humano o animal.
@@ -6134,15 +5368,11 @@ PARÁGRAFO . Cuando los productos sean beneficiados por los mismos cultivadores 
 
 (Decreto 1000 de 1984, art. 1.)
 
-ARTÍCULO
-
 ## art:2.10.3.1.2 — Liquidación del valor de la cuota
 
 Las Cuotas de Fomento serán liquidadas sobre el precio de referencia que semestralmente señale el Ministerio de Agricultura y Desarrollo Rural, o sobre el de venta del producto, cuando el Ministerio así lo determine mediante resolución, en consideración a que las condiciones especiales de mercado favorecen los intereses de los productores.
 
 (Decreto 1000 de 1984, art. 2)
-
-ARTÍCULO
 
 ## art:2.10.3.1.3 — Licencia de exportación
 
@@ -6150,23 +5380,17 @@ Los exportadores de los granos a que se refiere la Ley 67 de 1983, deberán acre
 
 (Decreto 1000 de 1984, art.3. Deben tenerse en cuenta las competencias derivadas del Decreto 2682 de 1999)
 
-ARTÍCULO
-
 ## art:2.10.3.1.4 — Remesas
 
 Los recaudadores, deben remesar mensualmente a la Federación correspondiente las sumas que se recauden por concepto de la Cuota de Fomento, dentro de los diez (10) días del mes inmediatamente siguiente al del recaudo, enviando con la remesa una relación debidamente totalizada y firmada por el representante de la entidad recaudadora.
 
 (Decreto 1000 de 1984, art. 4)
 
-ARTÍCULO
-
 ## art:2.10.3.1.5 — Responsabilidad fiscal
 
 Los recaudadores de las cuotas de Fomento, serán fiscalmente responsables no sólo por el valor de las sumas percibidas, sino también por las cuotas dejadas de recaudar y por las liquidaciones equivocadas o defectuosas.
 
 (Decreto 1000 de 1984, art.5)
-
-ARTÍCULO
 
 ## art:2.10.3.1.6 — Libro de registro
 
@@ -6186,15 +5410,11 @@ PARÁGRAFO . Estos mismos datos deberán acompañarse con las remesas de los rec
 
 (Decreto 1000 de 1984, art.6)
 
-ARTÍCULO
-
 ## art:2.10.3.1.7 — Control
 
 La DIAN está facultada para controlar y exigir a las entidades recaudadoras la exactitud y oportunidad del recaudo y remesa de las cuotas de fomento de que trata la Ley 67 de 1983.
 
 (Decreto 1000 de 1984, art. 7)
-
-ARTÍCULO
 
 ## art:2.10.3.1.8 — Cobro en caso de mora o retraso
 
@@ -6202,15 +5422,11 @@ En caso de mora o retardo en la entrega de los Cuotas a las Federaciones, el cor
 
 (Decreto 1000 de 1984, art.8)
 
-ARTÍCULO
-
 ## art:2.10.3.1.9 — Visitadores
 
 Las entidades administradoras de las Cuotas de Fomento podrán organizar un cuerpo de visitadores cuya función será la de colaborar con la Dirección de Impuestos Nacionales y la Contraloría General de la República, en el cumplimiento de la labor de control de la liquidación, el recaudo y la remesa oportuna de las Cuotas de Fomento.
 
 (Decreto 1000 de 1984, art.9)
-
-ARTÍCULO
 
 ## art:2.10.3.1.10 — Control Fiscal
 
@@ -6220,15 +5436,11 @@ En desarrollo de su función de control del recaudo de las Cuotas de Fomento, la
 
 (Decreto 1000 de 1984, art.10)
 
-ARTÍCULO
-
 ## art:2.10.3.1.11 — Restricciones al uso de los recursos de los fondos
 
 Los recursos de los Fondos Arrocero, Cerealista y Cacaotero únicamente podrán invertirse en la ejecución de los objetivos expresamente dispuestos por la Ley. En virtud de lo anterior, en el Plan de Inversiones y Gastos se asignarán recursos discriminados por programas y proyectos según cada objetivo, cuya cuantía y prioridad dependen de la incidencia que para el fomento de cada cultivo en particular ofrezcan tales objetivos y de las circunstancias actuales de su desarrollo de manera que se logren mejorar las condiciones técnicas y económicas de la producción en beneficio de los agricultores y consumidores.
 
 (Decreto 1000 de 1984, art. 11)
-
-ARTÍCULO
 
 ## art:2.10.3.1.12 — Reservas para Comercialización
 
@@ -6236,15 +5448,11 @@ Cuando a juicio de la respectiva Comisión de Fomento en consonancia con las pre
 
 (Decreto 1000 de 1984, art. 12)
 
-ARTÍCULO
-
 ## art:2.10.3.1.13 — Órgano de dirección
 
 Como órgano de Dirección de los Fondos Nacionales creados por la Ley 67 de 1983, actuarán las Comisiones especiales de que trata el artículo 7 de dicha ley, y que para todos los efectos se conocerán como Comisión de Fomento Arrocero, Comisión de Fomento Cerealista y Comisión de Fomento Cacaotero, cada una de ellas integrada por el Ministro de Agricultura y Desarrollo Rural o su delegado, quien la presidirá, por el Ministro de Comercio Industria y Turismo o su delegado, por el Ministro de Hacienda y Crédito Público o su delegado, por el Jefe del Departamento Nacional de Planeación o su delegado y por tres (3) miembros elegidos por las Juntas Directivas de la Federación Nacional de Arroceros, de la Federación Nacional de Cultivadores de Cereales y la Federación Nacional de Cacaoteros, respectivamente.
 
 (Decreto 1000 de 1984, art. 13. El texto subrayado se modifica por la Ley 114 de 1994, art. 4, para la Comisión de Fomento Cerealista)
-
-ARTÍCULO
 
 ## art:2.10.3.1.14 — Reunión y competencias de las comisiones de fomento
 
@@ -6262,23 +5470,17 @@ Las Comisiones de Fomento se reunirán periódicamente por convocatoria del Gere
 
 (Decreto 1000 de 1984, art.14. Tener en cuenta Ley 101 de 1993, artículo 33, inciso 2)
 
-ARTÍCULO
-
 ## art:2.10.3.1.15 — Control y seguimiento
 
 El control y seguimiento de los programas y proyectos que se financien con recursos provenientes de las Cuotas de Fomento y su inversión, según los términos del artículo 9 de la Ley 67 de 1983, se cumplirá por el Ministerio de Agricultura y Desarrollo Rural a través de la dirección correspondiente.
 
 (Decreto 1000 de 1984, art. 15)
 
-ARTÍCULO
-
 ## art:2.10.3.1.16 — Condición para la inversión de recursos
 
 Los recursos que perciban las entidades administradoras por concepto de las Cuotas de Fomento Arrocero, Cacaotero y Cerealista no podrán ser empleados por dichas entidades hasta tanto se perfeccione el Contrato de Administración o legalice su prórroga y se incorporen al Presupuesto Nacional las correspondientes partidas.
 
 (Decreto 1000 de 1984, art. 16)
-
-ARTÍCULO
 
 ## art:2.10.3.1.17 — Reconocimiento de compras como costos de recaudo
 
@@ -6287,8 +5489,6 @@ Para efectos fiscales y con el fin de que a las personas naturales o jurídicas 
 Las anteriores entidades administradoras de la Cuota de Fomento expedirán el citado Certificado de Paz y Salvo a más tardar dentro de los dos (2) meses siguientes a la terminación del ejercicio gravable respectivo, previa la comprobación del cumplimiento de los requisitos exigidos por el artículo 2.10.3.1.5, del presente decreto.
 
 (Decreto 1000 de 1984, art. 17)
-
-ARTÍCULO
 
 ## art:2.10.3.1.18 — Transparencia
 
@@ -6300,8 +5500,6 @@ CAPÍTULO 2
 
 Fondo Nacional Cerealista
 
-ARTÍCULO
-
 ## art:2.10.3.2.1 — Definición
 
 La cuota de Fomento Cerealista establecida por la Ley 51 del 7 de septiembre de 1966 empezará a causarse y a ser recaudada a partir del 12 de marzo de 1967.
@@ -6310,15 +5508,11 @@ PARÁGRAFO . Entiéndese por cereales para efectos de la Ley 51 del 7 de septiem
 
 (Decreto 530 de 1967, art. 1. Para las normas del presente Capítulo, ténganse en cuenta la Ley 67 de 1983 y el Decreto 1000 de 1984)
 
-ARTÍCULO
-
 ## art:2.10.3.2.2 — Sujetos obligados
 
 Las personas naturales y jurídicas que cultiven cereales, estarán obligadas al pago de la Cuota de Fomento Cerealista establecida en la Ley 51 de 1966.
 
 (Decreto 530 de 1967, art.2. Tener en cuenta Ley 67 de 1983)
-
-ARTÍCULO
 
 ## art:2.10.3.2.3 — Otros sujetos
 
@@ -6326,15 +5520,11 @@ Quedarán obligadas al recaudo en la cuenta de la Cuota de Fomento Cerealista to
 
 (Decreto 530 de 1967, art. 3. Consejo de Estado, Sentencia del 7 de abril de 1969, anuló las expresiones "reciban a cualquier título" y "o transformen". Tener en cuenta Ley 67 de 1983)
 
-ARTÍCULO
-
 ## art:2.10.3.2.4 — Cálculo
 
 La Cuota de Fomento Cerealista será deducida sobre el peso total de los granos mencionados, en las condiciones que presente el producto al ser entregado a las personas recaudadoras. restando solamente el peso del empaque o envase en que sean entregados. En consecuencia, no se harán deducciones en el peso por humedad, impurezas, otros granos y/o similares.
 
 (Decreto 530 de 1967, art. 4)
-
-ARTÍCULO
 
 ## art:2.10.3.2.5 — Responsabilidad fiscal
 
@@ -6342,15 +5532,11 @@ Todas las personas obligadas al recaudo de la Cuota de Fomento Cerealista serán
 
 (Decreto 530 de 1967, art. 6)
 
-ARTÍCULO
-
 ## art:2.10.3.2.6 — Remesas
 
 Las personas o entidades recaudadoras de la Cuota de Fomento Cerealista deberán remesar dentro de los cinco (5) primeros días de cada mes, a la Federación Nacional de Cultivadores de Cereales y Leguminosas, las sumas recaudadas por concepto de la cuota en el mes anterior.
 
 (Decreto 530 de 1967, art. 7)
-
-ARTÍCULO
 
 ## art:2.10.3.2.7 — Libro de Movimiento de Cereales
 
@@ -6366,15 +5552,11 @@ Las entidades o personas que recauden la cuota deberán llevar un libro foliado 
 
 (Decreto 530 de 1967, art. 8)
 
-ARTÍCULO
-
 ## art:2.10.3.2.8 — Constancia en el Libro de Movimiento de Cereales
 
 Cuando se adquiera un volumen de cereales sobre el cual se haya pagado la Cuota de Fomento Cerealista, deberá dejarse constancia en el "Libro de Movimiento de Cereales" del número del respectivo comprobante.
 
 (Decreto 530 de 1967, art.9. Consejo de Estado, Sentencia del 7 de abril de 1969, anuló la expresión "o reciba a cualquier título)
-
-ARTÍCULO
 
 ## art:2.10.3.2.9 — Competencia del Ministerio de Agricultura y Desarrollo Rural en verificación de la exactitud del recaudo y remesas
 
@@ -6382,15 +5564,11 @@ El Ministerio de Agricultura y Desarrollo Rural vigilará y exigirá a las entid
 
 (Decreto 530 de 1967, art. 10)
 
-ARTÍCULO
-
 ## art:2.10.3.2.10 — Consejo de Fomento Cerealista
 
 En el contrato que se celebre entre el Ministerio de Agricultura y Desarrollo Rural y la Federación Nacional de Cultivadores de Cereales y Leguminosas se establecerá un Consejo de Fomento Cerealista, encargado de la aprobación, orientación y vigilancia de todos los programas que la federación realice con los recursos provenientes de la Cuota de Fomento Cerealista.
 
 (Decreto 530 de 1967, art.11. Este artículo se modifica por lo previsto en la Ley 67 de 1983, arts. 7 y 8)
-
-ARTÍCULO
 
 ## art:2.10.3.2.11 — Integración del Consejo
 
@@ -6398,15 +5576,11 @@ El Consejo a que se refiere el artículo 2.10.3.2.10 se integrará por el Minist
 
 (Decreto 530 de 1967, art.12. Este artículo se modifica por lo previsto en la Ley 67 de 1983, arts. 7 y 8)
 
-ARTÍCULO
-
 ## art:2.10.3.2.12 — Administración de los recursos
 
 La Federación Nacional de Cultivadores de Cereales y Leguminosas administrará internamente los fondos provenientes de la Cuota de Fomento Cerealista, de acuerdo a los planes y proyectos concretos aprobados por el Consejo de Fomento Cerealista.
 
 (Decreto 530 de 1967, art. 13. Este artículo se modifica por lo previsto en la Ley 67 de 1983, arts. 7 y 8. Tener en cuenta la Ley 101 de 1993, art. 30)
-
-ARTÍCULO
 
 ## art:2.10.3.2.13 — Control Fiscal
 
@@ -6414,15 +5588,11 @@ El control fiscal del manejo e inversión de la Cuota de Fomento Cerealista se e
 
 (Decreto 530 de 1967, art.14)
 
-ARTÍCULO
-
 ## art:2.10.3.2.14 — Deberes de la Federación Nacional de Cultivadores de Cereales y Leguminosas
 
 En el contrato que celebre con el Gobierno, la Federación se obligará a ejecutar la política de fomento cerealista aprobada por el Ministerio de Agricultura y Desarrollo Rural, a colaborar con el recaudo de la Cuota de Fomento Cerealista, y a prestar todos los servicios que demande el cumplimiento de lo anterior.
 
 (Decreto 530 de 1967, art. 15)
-
-ARTÍCULO
 
 ## art:2.10.3.2.15 — Condición para la inversión de los recursos
 
@@ -6434,15 +5604,11 @@ CAPÍTULO 3
 
 Fondo Nacional Cacaotero
 
-ARTÍCULO
-
 ## art:2.10.3.3.1 — Factura única de recaudo
 
 Los compradores, comerciantes, exportadores o fábricas procesadoras de cacao, en su condición de recaudadores de la Cuota de Fomento Cacaotero, están obligados a hacer uso de la factura única numerada que para efectos del recaudo de la cuota diseñe y elabore la entidad administradora del Fondo Nacional del Cacao.
 
 (Decreto 502 de 1998, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.3.3.2 — Responsable de la factura única numerada
 
@@ -6450,15 +5616,11 @@ La entidad Administradora de la Cuota de Fomento Cacaotero es la encargada de di
 
 (Decreto 502 de 1998, art. 2)
 
-ARTÍCULO
-
 ## art:2.10.3.3.3 — Información que debe remitirse al Fondo Nacional Cacaotero
 
 Los compradores, comerciantes, exportadores o fábricas procesadoras de cacao están obligados a enviar a la entidad administradora del Fondo Nacional Cacaotero, además de la factura única y de la información de que trata el artículo 2.10.3.1.6, del presente decreto, un resumen de las compras del grano discriminadas por departamentos y municipios, en la forma en que la entidad administradora determine.
 
 (Decreto 502 de 1998, art. 3)
-
-ARTÍCULO
 
 ## art:2.10.3.3.4 — Entidad responsable del cumplimiento de las normas de este título
 
@@ -6470,15 +5632,11 @@ CAPÍTULO 4
 
 Fondo de Fomento Algodonero
 
-ARTÍCULO
-
 ## art:2.10.3.4.1 — Sujeto Pasivo de la Cuota de Fomento Algodonero
 
 El sujeto pasivo de la Cuota de Fomento Algodonero creada por la Ley 219 de 1995, será toda persona natural o jurídica que produzca fibra y semilla de algodón en Colombia, bien sea con destino al mercado interno o al de exportación., y toda persona natural o jurídica que importe fibra o hilaza de algodón o fibra de algodón contenida en hilaza, con mezcla de otras fibras.
 
 (Decreto 1526 de 1996, art. 1. Respecto del texto subrayado ténganse en cuenta las expresiones de la Ley 219 de 1995 declaradas inexequibles mediante Sentencia C-152/97)
-
-ARTÍCULO
 
 ## art:2.10.3.4.2 — Hecho generador de la Cuota de Fomento Algodonero
 
@@ -6486,23 +5644,17 @@ Genera la obligación de pagar la Cuota de fomento Algodonero el hecho de produc
 
 (Decreto 1526 de 1996, art. 2. Respecto del texto subrayado ténganse en cuenta las expresiones de la Ley 219 de 1995 declaradas inexequibles mediante Sentencia C-152/97)
 
-ARTÍCULO
-
 ## art:2.10.3.4.3 — Agentes retenedores
 
 Serán agentes retenedores de la Cuota de Fomento Algodonero toda persona natural o jurídica que compre fibra o semilla de algodón de producción nacional o importe fibra o hilaza de algodón o con mezcla de algodón. sea para consumo interno o de exportación.
 
 (Decreto 1526 de 1996, art. 3. Respecto del texto subrayado ténganse en cuenta las expresiones de la Ley 219 de 1995 declaradas inexequibles mediante Sentencia C-152/97)
 
-ARTÍCULO
-
 ## art:2.10.3.4.4 — Retención de la cuota
 
 El comprador de fibra o semilla de algodón de producción nacional y el importador de fibra o hilaza de algodón o con mezcla de algodón, están obligados a retener y autorretener, (sic) respectivamente, el valor de la Cuota de Fomento Algodonero al momento de efectuar el pago correspondiente.
 
 (Decreto 1526 de 1996, art.4. Respecto del texto subrayado ténganse en cuenta las expresiones de la Ley 219 de 1995 declaradas inexequibles mediante Sentencia C-152/97)
-
-ARTÍCULO
 
 ## art:2.10.3.4.5 — Certificación de los retenedores
 
@@ -6522,23 +5674,17 @@ El agente retenedor deberá enviar, dentro de la primera quincena de cada mes, u
 
 (Decreto 1526 de 1996, art.5. Respecto del texto subrayado ténganse en cuenta las expresiones de la Ley 219 de 1995 declaradas inexequibles mediante Sentencia C-152/97)
 
-ARTÍCULO
-
 ## art:2.10.3.4.6 — Responsabilidades de los retenedores
 
 Los agentes retenedores serán responsables por las sumas recaudadas, por las cuotas dejadas de retener, por los errores o defectos en las liquidaciones, y por la oportunidad de la retención y su consignación en la cuenta especial del Fondo de Fomento Algodonero.
 
 (Decreto 1526 de 1996, art. 6)
 
-ARTÍCULO
-
 ## art:2.10.3.4.7 — Interés de mora al retenedor
 
 El retenedor de la Cuota de Fomento Algodonero que no transfiera oportunamente los recursos al Fondo, incurrirá en interés de mora a la tasa señalada para los deudores morosos del impuesto de renta y complementarios. En caso de pagos parciales sobre las sumas en mora, éstos se aplicarán primero a los intereses causados y el saldo, si lo hubiere, a las cuotas adeudadas.
 
 (Decreto 1526 de 1996, art. 7)
-
-ARTÍCULO
 
 ## art:2.10.3.4.8 — Sanciones
 
@@ -6555,8 +5701,6 @@ PARÁGRAFO : Para el cálculo del valor de la multa se tendrá en cuenta el valo
 (Modificado por el Art. 1 del Decreto 1878 de 2021)
 
 (Decreto 1526 de 1996, art. 8)
-
-ARTÍCULO
 
 ## art:2.10.3.4.9 — Cobro por vía ejecutiva
 
@@ -6582,15 +5726,11 @@ PARÁGRAFO 3. Las personas obligadas al pago y recaudo de la contribución que s
 
 (Decreto 1526 de 1996, art. 9)
 
-ARTÍCULO
-
 ## art:2.10.3.4.10 — Deducción de costos
 
 A solicitud de los interesados, el representante legal de la entidad administradora del Fondo, con la firma del Auditor o Revisor Fiscal, según el caso, expedirá certificados de paz y salvo de que trata el artículo 16 de la Ley 219 de 1995.
 
 (Decreto 1526 de 1996, art. 10)
-
-ARTÍCULO
 
 ## art:2.10.3.4.11 — Comité Directivo
 
@@ -6602,8 +5742,6 @@ PARÁGRAFO 2. El Comité se reunirá ordinariamente cuatro (4) veces al año, y 
 
 (Decreto 1526 de 1996, art. 11. Numeral 7 del artículo 8 de la Ley 219 de 1995, declarado inexequible mediante Sentencia C-152 de 1997)
 
-ARTÍCULO
-
 ## art:2.10.3.4.12 — Funciones del Comité Directivo
 
 El Comité Directivo del Fondo de Fomento Algodonero, además de las funciones que establece el artículo 9 de la Ley 219 de 1995, desarrollará las siguientes actividades:
@@ -6613,8 +5751,6 @@ El Comité Directivo del Fondo de Fomento Algodonero, además de las funciones q
 2. Fijar anualmente, con un tope máximo equivalente al diez por ciento (10%) de las sumas recaudadas por el Fondo de Fomento Algodonero, la contraprestación que se le reconocerá. a la entidad administradora, de acuerdo al presupuesto y a las necesidades de la administración.
 
 (Decreto 1526 de 1996, art. 12)
-
-ARTÍCULO
 
 ## art:2.10.3.4.13 — Condiciones de representatividad
 
@@ -6628,8 +5764,6 @@ Para los efectos del artículo 7 de la Ley 219 de 1995, se entiende que una enti
 
 (Decreto 1526 de 1996, art. 13)
 
-ARTÍCULO
-
 ## art:2.10.3.4.14 — Gastos
 
 La entidad administradora del Fondo de Fomento Algodonero podrá efectuar operaciones e inversiones a nombre del mismo y con arreglo a los recursos del Fondo, siempre y cuando se encuentren afectados a la finalidad que define el artículo 6 de la Ley 219 de 1995, esté previsto en el presupuesto de ingresos y gastos del Fondo y aprobado por el Comité Directivo. El resultado de tales operaciones sólo podrá afectar la contabilidad del Fondo.
@@ -6637,8 +5771,6 @@ La entidad administradora del Fondo de Fomento Algodonero podrá efectuar operac
 PARÁGRAFO . Los activos que se adquieran con recursos del Fondo de Fomento Algodonero deberán incorporarse a la cuenta especial del mismo.
 
 (Decreto 1526 de 1996, art. 14. Inciso inicial derogado por el Decreto 2025 de 1996, art. 14)
-
-ARTÍCULO
 
 ## art:2.10.3.4.15 — Manejo de los recursos
 
@@ -6650,23 +5782,17 @@ CAPÍTULO 5
 
 Fondo de Fomento Panelero
 
-ARTÍCULO
-
 ## art:2.10.3.5.1 — Definición de procesadores
 
 Para los efectos del numeral 2 del parágrafo 1 del artículo 1 de la Ley 40 de 1990, entiéndese por procesadores quienes sin ser cultivadores de caña la adquieren, le extraen el jugo y elaboran panela o miel sin exceder su capacidad de molienda de 10 toneladas por hora.
 
 (Decreto 1999 de 1991, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.3.5.2 — Definición de productores ocasionales
 
 Para los efectos del artículo 2 de la Ley 40 de 1990, entiéndese por productores ocasionales, aquéllos cuya actividad principal no es la producción de panela, pero que por necesidades de regulación del mercado interno puede producirla dentro de las autorizaciones que para el efecto expida el Ministerio de Agricultura y Desarrollo Rural en concertación con la Federación Nacional de Productores de Panela, en cuantía que no supere anualmente el 0.5% del total de la producción mensual de panela.
 
 (Decreto 1999 de 1991, art.2)
-
-ARTÍCULO
 
 ## art:2.10.3.5.3 — Sanción Pecuniaria
 
@@ -6675,8 +5801,6 @@ Para efectos del numeral 1 del artículo 5 de la Ley 40 de 1990 la sanción pecu
 PARÁGRAFO . Las sanciones establecidas en el artículo 5 de la Ley 40 de 1990, serán impuestas por las secretarías o servicios de salud departamentales, o en su defecto por las alcaldías municipales.
 
 (Decreto 1999 de 1991, art.3)
-
-ARTÍCULO
 
 ## art:2.10.3.5.4 — Obligados al recaudo
 
@@ -6698,8 +5822,6 @@ Los segundos compradores que adquieran el producto sin verificar el pago de la c
 
 (Decreto 1999 de 1991, art.4; modificado por el Decreto 719 de 1995, art. 1; parágrafo 4 modificado por el Decreto 3270 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.3.5.5 — Liquidación de la cuota
 
 La cuota de fomento se liquidará sobre el precio del producto que figure en la correspondiente factura de venta, precio que en ningún caso será inferior al señalado semestralmente por el Ministerio de Agricultura y Desarrollo Rural.
@@ -6707,8 +5829,6 @@ La cuota de fomento se liquidará sobre el precio del producto que figure en la 
 PARÁGRAFO : La factura deberá reunir los requisitos establecidos en la ley.
 
 (Decreto 1999 de 1991, art. 5, modificado por el Decreto 3270 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.10.3.5.6 — Pago de exportadores
 
@@ -6718,8 +5838,6 @@ Dichas autoridades se abstendrán de autorizar cualquier exportación de panela 
 
 (Decreto 1999 de 1991, art.6)
 
-ARTÍCULO
-
 ## art:2.10.3.5.7 — Administración de los recursos
 
 El Ministerio de Agricultura y Desarrollo Rural, mediante contrato especial pactará, con la Federación Nacional de Productores de Panela la administración de los dineros recaudados por concepto del pago de la Cuota de Fomento Panelero.
@@ -6728,23 +5846,17 @@ PARÁGRAFO . En caso de disolución, inhabilidad o incompatibilidad de la Federa
 
 (Decreto 1999 de 1991, art. 7. Tener en cuenta Ley 101 de 1993, art. 30)
 
-ARTÍCULO
-
 ## art:2.10.3.5.8 — Entrega de los recursos
 
 Los recaudadores de la Cuota de Fomento Panelero entregarán a la Federación Nacional de Productores de Panela, Fedepanela, las sumas que se recauden por tal concepto dentro de los diez (10) días inmediatamente siguientes al día del recaudo.
 
 (Decreto 1999 de 1991, art.8)
 
-ARTÍCULO
-
 ## art:2.10.3.5.9 — Responsabilidad fiscal
 
 Los recaudadores de la Cuota de Fomento serán fiscalmente responsables no sólo por el valor de lo percibido sino también por las cuotas dejadas de recaudar y por las liquidaciones equivocadas o defectuosas.
 
 (Decreto 1999 de 1991, art.9)
-
-ARTÍCULO
 
 ## art:2.10.3.5.10 — Libro de registro
 
@@ -6762,15 +5874,11 @@ PARÁGRAFO . Estos mismos datos deberán consignarse en los documentos de los re
 
 (Decreto 1999 de 1991, art.10)
 
-ARTÍCULO
-
 ## art:2.10.3.5.11 — Facultades de inspección
 
 La DIAN queda facultada para verificar y exigir a los recaudadores la exactitud y oportunidad del recaudo y remesa de la Cuota de Fomento de que trata la Ley 40 de 1990.
 
 (Decreto 1999 de 1991, art.11)
-
-ARTÍCULO
 
 ## art:2.10.3.5.12 — Mora o retardo en la entrega de la cuota
 
@@ -6778,23 +5886,17 @@ En caso de mora o retardo en la entrega de la cuota, la DIAN, a petición de la 
 
 (Decreto 1999 de 1991, art.12)
 
-ARTÍCULO
-
 ## art:2.10.3.5.13 — .13
 
 La entidad administradora de la Cuota de Fomento, organizará un cuerpo especializado cuya función será la de colaborar con la DIAN y la Contraloría General de la República, en el cumplimiento de la labor de verificación, liquidación, recaudo y remesa oportuna de la Cuota de Fomento.
 
 (Decreto 1999 de 1991, art.13)
 
-ARTÍCULO
-
 ## art:2.10.3.5.14 — Control fiscal
 
 Corresponde a la Contraloría General de la República el control fiscal de la Cuota de Fomento.
 
 (Decreto 1999 de 1991, art. 14)
-
-ARTÍCULO
 
 ## art:2.10.3.5.15 — Limitación a inversión de recursos del Fondo
 
@@ -6804,15 +5906,11 @@ En virtud de lo anterior en el Plan de Inversiones y Gastos se asignarán recurs
 
 (Decreto 1999 de 1991, art. 15)
 
-ARTÍCULO
-
 ## art:2.10.3.5.16 — Junta Directiva
 
 Como órgano de dirección del fondo creado por la Ley 40 de 1990, actuarán la Junta Directiva de que trata el artículo 12 de dicha ley, y que para todos los efectos se conocerá como Junta Directiva del Fondo de Fomento Panelero o Fondo Nacional de. la Panela integrada por el Ministro de Agricultura y Desarrollo Rural o su delegado, quien la presidirá, por tres (3) representantes de esta cartera y por tres (3) miembros designados por la Federación Nacional de Productores de Panela, o por las organizaciones sin ánimo de lucro que representen al sector panelero.
 
 (Decreto 1999 de 1991, art. 16)
-
-ARTÍCULO
 
 ## art:2.10.3.5.17 — Funciones de la Junta
 
@@ -6830,23 +5928,17 @@ La Junta Directiva del Fondo Nacional de la Panela se reunirá periódicamente p
 
 (Decreto 1999 de 1991, art. 17. Tener en cuenta Ley 101 de 1993, art. 33, inciso 2)
 
-ARTÍCULO
-
 ## art:2.10.3.5.18 — Reservas
 
 Cuando a juicio de la Junta Directiva del Fondo Nacional de la Panela, se decida adelantar programas de promoción de exportaciones o estabilización de precios de los productos beneficiarios de la cuota, se decretarán en cada ejercicio, reservas que permitan a mediano plazo acumular recursos suficientes para respaldar acciones significativas con tal fin, recursos que se manejarán a través de una subcuenta bajo el nombre de "Reservas para Comercialización".
 
 (Decreto 1999 de 1991, art. 18)
 
-ARTÍCULO
-
 ## art:2.10.3.5.19 — Control y seguimiento
 
 El control y seguimiento de los programas y proyectos que se financien con recursos provenientes de la Cuota de Fomento Panelero y su inversión, según los términos del artículo 8 de la Ley 40 de 1990, lo ejercerá el Ministerio de Agricultura y Desarrollo Rural a través de la Dirección de Cadenas Agrícolas y Forestales.
 
 (Decreto 1999 de 1991, art. 19)
-
-ARTÍCULO
 
 ## art:2.10.3.5.20 — Condición para uso de recursos
 
@@ -6856,8 +5948,6 @@ PARÁGRAFO . Los recursos del Fondo de Fomento Panelero, por formar parte del Pr
 
 (Decreto 1999 de 1991, art. 20)
 
-ARTÍCULO
-
 ## art:2.10.3.5.21 — Aceptación de costos y deducciones
 
 Para efectos fiscales y con el fin de que a las personas naturales o jurídicas obligadas a recaudar la Cuota de Fomento de que trata la Ley 40 de 1990, le sean aceptados los costos y deducciones por las compras de que dan lugar al cobro de la Cuota de Fomento Panetero, efectuadas durante el respectivo año gravable deberá conservarse y mantenerse a disposición de la DIAN, por el término de cinco (5) años, el Certificado de Paz y Salvo expedido por la Federación Nacional de Productores de Panela, Fedepanela
@@ -6865,8 +5955,6 @@ Para efectos fiscales y con el fin de que a las personas naturales o jurídicas 
 Fedepanela expedirá el citado Certificado de Paz y Salvo a más tardar dentro de los dos (2) meses siguientes a la terminación del ejercicio gravable respectivo, previa la comprobación del cumplimiento de los requisitos exigidos por el artículo 2.10.3.5.9, del presente decreto.
 
 (Decreto 1999 de 1991, art. 21)
-
-ARTÍCULO
 
 ## art:2.10.3.5.22 — Transparencia
 
@@ -6878,23 +5966,17 @@ CAPÍTULO 6
 
 Fondo de Fomento Tabacalero
 
-ARTÍCULO
-
 ## art:2.10.3.6.1 — Subsector Tabacalero
 
 El subsector tabacalero comprende la actividad agrícola que tiene por objeto el cultivo, recolección y beneficio de la hoja de tabaco, proceso agrícola que termina con el secado de la hoja de tabaco en el caney o en horno por parte del agricultor y que posibilita a éste la comercialización posterior de la hoja de tabaco.
 
 (Decreto 4428 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.3.6.2 — Definición
 
 Se entiende por hoja de tabaco o tabaco, la resultante del proceso de cosecha y posterior secado en caney o en horno por parte del agricultor, para su posterior comercialización.
 
 (Decreto 4428 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.10.3.6.3 — Monto de la Cuota de Fomento
 
@@ -6903,8 +5985,6 @@ El monto de la Cuota de Fomento para la Modernización y Diversificación del Su
 PARÁGRAFO . Exclusivamente para efectos del cálculo de la Cuota de Fomento para la Modernización y Diversificación del Subsector Tabacalero, el Ministerio de Agricultura y Desarrollo Rural señalará anualmente, antes del 31 de diciembre de cada año, el precio de referencia del kilogramo de tabaco, por variedad a nivel nacional, con base en el cual se llevará a cabo la liquidación de la Cuota de Fomento, que regirá para el año siguiente.
 
 (Decreto 4428 de 2005, art.3)
-
-ARTÍCULO
 
 ## art:2.10.3.6.4 — Momento de la causación
 
@@ -6920,15 +6000,11 @@ Si el exportador al momento de la legalización, no acredita el pago de la cuota
 
 (Decreto 4428 de 2005, art. 4, modificado por el Decreto 1740 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.3.6.5 — Separación de cuentas y depósito de la cuota
 
 Los retenedores de la Cuota de Fomento para la Modernización y Diversificación del Subsector Tabacalero deberán mantener dichos recursos en una cuenta contable separada y están obligados a depositarlos dentro de los quince (15) primeros días del mes calendario siguiente al de la retención, en la cuenta especial denominada "Fondo Nacional del Tabaco" que para el efecto disponga la entidad administradora. También deberá enviar mensualmente a la entidad administradora, un formulario de declaración de las sumas retenidas, firmada por la persona natural o por el representante legal y el contador o revisor fiscal de la entidad encargada de la retención.
 
 (Decreto 4428 de 2005, art. 5)
-
-ARTÍCULO
 
 ## art:2.10.3.6.6 — Registros de las sumas retenidas
 
@@ -6952,15 +6028,11 @@ CAPÍTULO 7
 
 Fondo de Fomento Palmero
 
-ARTÍCULO
-
 ## art:2.10.3.7.1 — Definición de palmicultor
 
 Para los efectos de la Ley 138 de 1994 y del presente decreto se denomina palmicultor a la persona natural o jurídica que se dedica al cultivo de la palma de aceite o a su beneficio.
 
 (Decreto 1730 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.3.7.2 — Porcentaje de la cuota
 
@@ -6968,15 +6040,11 @@ La Cuota de Fomento Palmero será el equivalente al uno por ciento (1 %) sobre e
 
 (Decreto 1730 de 1994, art. 2. Texto subrayado sustituido por la Ley 1151 de 2007, art.28 y Ley 1450 de 2011, art.276)
 
-ARTÍCULO
-
 ## art:2.10.3.7.3 — Consignación de la cuota
 
 La Cuota de Fomento para la Agroindustria de la Palma de Aceite establecida por el artículo 2 de la Ley 138 de 1994, que se causa y retiene a partir del 1 de julio de 1994, fecha en la cual entraron a regir los precios de referencia para su liquidación, de conformidad con lo estipulado en el artículo 5 de la misma ley, se consignará por el retenedor en la cuenta del Fondo de Fomento Palmero a partir de la firma del Contrato de Administración entre el Ministerio de Agricultura y Desarrollo Rural y la Federación Nacional de Cultivadores de Palma de Aceite, FEDEPALMA, dentro del término establecido por la Ley 138 de 1994.
 
 (Decreto 1730 de 1994, art.3)
-
-ARTÍCULO
 
 ## art:2.10.3.7.4 — Responsabilidades de los retenedores
 
@@ -6985,8 +6053,6 @@ Las personas naturales o jurídicas que beneficien fruto de palma, ya sea por cu
 El retenedor deberá enviar mensualmente a la entidad administradora una certificación detallada de los recaudos, suscrita por la persona natural responsable o por el representante legal y el Contador o Revisor Fiscal, según el caso.
 
 (Decreto 1730 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.10.3.7.5 — Certificación de los retenedores
 
@@ -7010,8 +6076,6 @@ PARÁGRAFO . Al formulario debe acompañarse copia del recibo de consignación d
 
 (Decreto 1730 de 1994, art. 5)
 
-ARTÍCULO
-
 ## art:2.10.3.7.6 — Cobro de coactivo y de los intereses de mora
 
 La entidad administradora del Fondo de Fomento Palmero podrá demandar por vía ejecutiva ante la jurisdicción ordinaria, el pago de la Cuota de Fomento Palmero. Para tal efecto, el representante legal de la entidad administradora expedirá el certificado en el cual conste el monto de la deuda y su exigibilidad.
@@ -7019,8 +6083,6 @@ La entidad administradora del Fondo de Fomento Palmero podrá demandar por vía 
 PARÁGRAFO . El retenedor de la Cuota de Fomento Palmero que no transfiera oportunamente los recursos, pagará intereses de mora a la tasa señalada para el impuesto de renta y complementarios.
 
 (Decreto 1730 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.10.3.7.7 — Comité Directivo
 
@@ -7031,8 +6093,6 @@ PARÁGRAFO 1. (Derogado por el Artículo 5 del Decreto 13 de 2016). Los Miembros
 PARÁGRAFO 2. El Comité se reunirá ordinariamente tres (3) veces al año y extraordinariamente cuando el Ministro de Agricultura y Desarrollo Rural, la entidad administradora de la Cuota o tres (3) de sus miembros lo convoquen.
 
 (Decreto 1730 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.10.3.7.8 — Funciones del Comité Directivo
 
@@ -7048,15 +6108,11 @@ En desarrollo de las funciones contempladas en el artículo 11 de la Ley 138 de 
 
 (Decreto 1730 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.10.3.7.9 — Administración del Fondo
 
 El Ministerio de Agricultura y Desarrollo Rural contratará con la Federación Nacional de Cultivadores de Palma de Aceite, FEDEPALMA, la administración del Fondo y el recaudo de la Cuota de Fomento Palmero por un término de diez (10) años prorrogables. En el contrato se dispondrá lo relativo al manejo de los recursos y a la definición y establecimiento de programas y proyectos, las facultades y prohibiciones de la entidad administradora y los demás requisitos y condiciones necesarios para el cumplimiento de los objetivos previstos en la Ley 138 de 1994. La entidad administradora del Fondo tendrá una contraprestación por la administración del Fondo de Fomento Palmero del diez por ciento (10%) del recaudo, la cual se causará mensualmente.
 
 (Decreto 1730 de 1994, art.9)
-
-ARTÍCULO
 
 ## art:2.10.3.7.10 — Manejo de los recursos y del registro de los recaudos
 
@@ -7068,15 +6124,11 @@ CAPÍTULO 8
 
 Fondo de Fomento Hortifrutícola (sic)
 
-ARTÍCULO
-
 ## art:2.1.0.3.8.1 — Ámbito de aplicación
 
 El presente capítulo se aplica a las personas naturales, jurídicas y sociedades de hecho que a cualquier título se dediquen a la producción, procesamiento, comercialización y venta de frutas y hortalizas en el territorio nacional.
 
 (Decreto 3748 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.3.8.2 — Definiciones
 
@@ -7098,15 +6150,11 @@ Para los efectos del presente capítulo se adoptan las siguientes definiciones:
 
 (Decreto 3748 de 2004, art.2)
 
-ARTÍCULO
-
 ## art:2.10.3.8.3 — Medida de referencia
 
 El porcentaje al que hace referencia el artículo 3 de la Ley 118 de 1994, se calculará sobre el precio de venta por kilogramo del producto hortifrutícola.(sic)
 
 (Decreto 3748 de 2004, art.3)
-
-ARTÍCULO
 
 ## art:2.10.3.8.4 — Personas obligadas al recaudo
 
@@ -7121,8 +6169,6 @@ PARÁGRAFO . La Cuota de Fomento se recaudará al momento de efectuarse la negoc
 (Parágrafo modificado por el Art. 1 del Decreto 245 de 2023)
 
 (Decreto 3748 de 2004, art.4)
-
-ARTÍCULO
 
 ## art:2.10.3.8.5 — Registro de los recaudos
 
@@ -7144,15 +6190,11 @@ PARÁGRAFO . Este mismo registro deberá ser llevado por la entidad administrado
 
 (Decreto 3748 de 2004, art.5)
 
-ARTÍCULO
-
 ## art:2.10.3.8.6 — Separación de cuentas y depósito de la Cuota de Fomento
 
 Los recaudadores de la Cuota de Fomento Hortifrutícola deberán mantener los dineros recaudados en una cuenta separada de la que utilicen para el giro ordinario de sus negocios y están obligados a depositarlos en el Fondo Nacional de Fomento Hortifrutícola, (sic) dentro del siguiente mes calendario al de su recaudo.
 
 (Decreto 3748 de 2004, art. 6)
-
-ARTÍCULO
 
 ## art:2.10.3.8.7 — Responsabilidad de los recaudadores
 
@@ -7162,23 +6204,17 @@ PARÁGRAFO . Los recaudadores deberán enviar a la entidad administradora del Fo
 
 (Decreto 3748 de 2004, art. 7)
 
-ARTÍCULO
-
 ## art:2.10.3.8.8 — Paz y salvo a los recaudadores
 
 La entidad administradora del Fondo Nacional de Fomento Hortifrutícola, (sic) expedirá a favor del recaudador, de la Cuota de Fomento Hortifrutícola (sic) el paz y salvo por el período correspondiente, una vez haya acreditado su consignación en el Fondo.
 
 (Decreto 3748 de 2004, art. 8)
 
-ARTÍCULO
-
 ## art:2.10.3.8.9 — Control de recaudo
 
 El Administrador y el Auditor Interno del Fondo Nacional de Fomento Hortifrutícola (sic) podrán realizar visitas de inspección a los documentos y libros de contabilidad, de las personas naturales, jurídicas o sociedades de hecho, obligadas a hacer la retención de la Cuota de Fomento Hortifrutícola, (sic) con el propósito de verificar su correcta liquidación, recaudo y consignación en tiempo, en el Fondo Nacional de Fomento Hortifrutícola. (sic) Esta obligación quedará consignada en el contrato de administración que suscribe el Ministerio de Agricultura y Desarrollo Rural con la entidad administradora de la Cuota de Fomento Hortifrutícola. (sic)
 
 (Decreto 3748de 2004, art. 9)
-
-ARTÍCULO
 
 ## art:2.10.3.8.10 — Administración
 
@@ -7188,15 +6224,11 @@ PARÁGRAFO . En caso de que la Asociación Hortifrutícola de Colombia incumpla 
 
 (Decreto 3748 de 2004, art.10)
 
-ARTÍCULO
-
 ## art:2.10.3.8.11 — Contraprestación
 
 La entidad administradora del Fondo Nacional de Fomento Hortifrutícola (sic) recibirá como contraprestación por la administración del Fondo y por el recaudo de la Cuota, una suma equivalente al diez por ciento (10%) del valor recaudado anualmente, suma que podrá descontar a medida que se recaude la Cuota.
 
 (Decreto 3748 de 2004, art.11)
-
-ARTÍCULO
 
 ## art:2.10.3.8.12 — Requisitos para la entidad administradora
 
@@ -7222,15 +6254,11 @@ PARÁGRAFO . Se entiende que una entidad tiene condiciones de representatividad 
 
 (Decreto 3748 de 2004, art.12)
 
-ARTÍCULO
-
 ## art:2.10.3.8.13 — Plan de inversiones y gastos
 
 La entidad administradora del Fondo Nacional de Fomento Hortifrutícola (sic) elaborará cada año, antes del primero de octubre, el Plan de Inversiones y Gastos para el año siguiente, discriminado por programas y proyectos, el cual sólo podrá ser ejecutado una vez haya sido aprobado por la Junta Directiva del Fondo Nacional de Fomento Hortífrutícola. (sic)
 
 (Decreto 3748 de 2004, art. 13)
-
-ARTÍCULO
 
 ## art:2.10.3.8.14 — Junta Directiva
 
@@ -7252,8 +6280,6 @@ Como órgano de dirección del Fondo Nacional de Fomento Hortifrutícola (sic) a
 
 (Decreto 3748 de 2004, art.14)
 
-ARTÍCULO
-
 ## art:2.10.3.8.15 — Personería Jurídica
 
 Los miembros de la Junta Directiva, con excepción del Ministro de Agricultura y Desarrollo Rural o su delegado y del Secretario de Agricultura Departamental, deberán acreditar su personería jurídica vigente y presentar los estados financieros, que acrediten su actividad.
@@ -7261,8 +6287,6 @@ Los miembros de la Junta Directiva, con excepción del Ministro de Agricultura y
 PARÁGRAFO . (Derogado por el Artículo 5 del Decreto 13 de 2016.) Con excepción del Ministerio de Agricultura y Desarrollo Rural, los miembros de la Junta Directiva serán elegidos por sus propias organizaciones para un período de 2 años y podrán ser reelegidos hasta por un período consecutivo, siendo posible su elección futura. La elección o ratificación deberá oficializarse a través del representante legal, mediante comunicación escrita al Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 3748 de 2004, art.15)
-
-ARTÍCULO
 
 ## art:2.10.3.8.16 — Representantes de las asociaciones de los pequeños productores
 
@@ -7273,8 +6297,6 @@ PARÁGRAFO 1. Se considerarán habilitadas para participar en la elección de lo
 PARÁGRAFO 2. No podrán ser elegidos como representantes de las asociaciones de pequeños productores de frutas y hortalizas quienes a la fecha de la elección hagan parte de la Junta Directiva de Asohofrucol.
 
 (Decreto 3748 de 2004, art.16)
-
-ARTÍCULO
 
 ## art:2.10.3.8.17 — Atribuciones del Órgano de Dirección del Fondo
 
@@ -7298,15 +6320,11 @@ CAPÍTULO 9
 
 Fondo de Fomento de Leguminosas de Grano
 
-ARTÍCULO
-
 ## art:2.10.3.9.1 — Leguminosas de grano
 
 Para efectos del artículo primero de la Ley 114 del 4 de febrero de 1994, se entiende por leguminosas de grano las especies de fríjol, arveja, lenteja, garbanzo, haba y fríjol soya.
 
 (Decreto 1592 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.3.9.2 — Cuota de fomento de leguminosas de grano
 
@@ -7316,15 +6334,11 @@ PARÁGRAFO . Para determinar la cuota de fomento de las leguminosas de grano, el
 
 (Decreto 1592 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.10.3.9.3 — Causación y recaudo de la cuota
 
 La cuota de fomento de las leguminosas de grano se causará a partir del perfeccionamiento del contrato que se suscriba para su administración entre el Ministerio de Agricultura y Desarrollo Rural y la Federación Nacional de Cultivadores de Cereales y Leguminosas, FENALCE, para las leguminosas de grano fríjol, arveja, lenteja, garbanzo, haba frijol soya, y su recaudo se hará efectivo una vez iniciados los respectivos contratos.
 
 (Decreto 1592 de 1994, art.3)
-
-ARTÍCULO
 
 ## art:2.10.3.9.4 — Persona obligada a la contribución
 
@@ -7332,15 +6346,11 @@ Será sujeto de la contribución, toda persona natural o jurídica que produzca,
 
 (Decreto 1592 de 1994, art.4)
 
-ARTÍCULO
-
 ## art:2.10.3.9.5 — Personas obligadas al recaudo
 
 Efectuarán el recaudo de la contribución a que se refiere la Ley 114 del 4 de febrero de 1994, toda entidad o empresa que compre, beneficie o transforme leguminosas de grano de producción nacional, bien sea que se destinen al mercado interno o de exportación, o se utilicen como materias primas o componentes de productos industriales para consumo humano o animal.
 
 (Decreto 1592 de 1994, art.5)
-
-ARTÍCULO
 
 ## art:2.10.3.9.6 — Responsabilidades de los recaudadores
 
@@ -7348,15 +6358,11 @@ Los recaudadores de las cuotas de fomento de leguminosas de grano, serán respon
 
 (Decreto 1592 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.10.3.9.7 — Separación de cuentas y depósito de la cuota
 
 Los recaudadores de la cuota de fomento de leguminosas de grano deberán mantener dichos recursos en una cuenta contable separada, y están obligados a depositarlos dentro de los diez (10) primeros días del mes siguiente al recaudo en la cuenta especial denominada Cuota de Fomento de Leguminosas de Grano y Cuota de Fomento de Fríjol Soya que para el efecto abran las respectivas entidades administradoras. También deberán enviar mensualmente a la entidad administradora, una relación pormenorizada de los recaudos firmada por el representante legal de la entidad obligada al recaudo.
 
 (Decreto 1592 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.10.3.9.8 — Registro de los recaudos
 
@@ -7374,8 +6380,6 @@ Los recaudadores están obligados a llevar un registro contable del recaudo, el 
 
 (Decreto 1592 de 1994, art.8)
 
-ARTÍCULO
-
 ## art:2.10.3.9.9 — Comisión de fomento
 
 La Comisión de Fomento Cerealista y de Leguminosas de Grano y la Comisión de Fomento de Fríjol Soya se conforma de acuerdo con lo establecido en los artículos cuarto y quinto de la Ley 114 del 4 de febrero de 1994.
@@ -7385,8 +6389,6 @@ PARÁGRAFO 1. Los miembros de la Comisión de Fomento Cerealista y de Leguminosa
 PARÁGRAFO 2. Las Comisiones se reunirán ordinariamente cuatro (4) veces al año y extraordinariamente cuando el Ministro de Agricultura y Desarrollo Rural, la Entidad Administradora, o tres (3) de sus miembros la convoquen.
 
 (Decreto 1592 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.10.3.9.10 — Funciones de la Comisión
 
@@ -7412,15 +6414,11 @@ La Comisión de Fomento Cerealista y de Leguminosas de Grano y la Comisión de F
 
 (Decreto 1592de 1994, art.10)
 
-ARTÍCULO
-
 ## art:2.10.3.9.11 — Administración de los fondos
 
 El Ministerio de Agricultura y Desarrollo Rural contratará con la Federación Nacional de Cultivadores de Cereales y Leguminosas, FENALCE, la administración y recaudo de la Cuota de Fomento de Leguminosas de Grano y de Fomento de Fríjol Soya. En el contrato se dispondrá lo relativo a la contraprestación por la administración del Fondo, al manejo de los recursos, la gerencia estratégica y administración por objetivos, la definición y establecimiento de programas y proyectos, las facultades y prohibiciones de la entidad administradora y los objetivos previstos en la Ley 67 de 1983 y la Ley 114 de 1994.
 
 (Decreto 1592 de 1994, art.11)
-
-ARTÍCULO
 
 ## art:2.10.3.9.12 — Plan de Inversiones y gastos
 
@@ -7434,8 +6432,6 @@ PARÁGRAFO 2. Los programas y proyectos propuestos deben justificar la manera en
 
 (Decreto 1592 de 1994, art. 12)
 
-ARTÍCULO
-
 ## art:2.10.3.9.13 — Manejo de los recursos y activos
 
 El manejo de los recursos y activos del Fondo de Fomento Cerealista y de Leguminosas de Grano y del Fondo de Fomento de Fríjol Soya, deberá cumplirse de manera que en cualquier momento se pueda determinar su estado y movimiento. Con tal fin, la entidad administradora, organizará la contabilidad de conformidad con los métodos contables prescritos por las normas vigentes y utilizará cuentas bancarias independientes de las que emplea para el manejo de sus propios recursos y demás bienes.
@@ -7446,15 +6442,11 @@ CAPÍTULO 10
 
 Fondo de Fomento Ganadero y Lechero
 
-ARTÍCULO
-
 ## art:2.10.3.10.1 — Especies de Ganado
 
 Para efectos de la Cuota de Fomento Ganadero y Lechero a que se refiere la Ley 89 del 10 de diciembre de 1993, se entenderá por ganado las especies bovina y bufalina.
 
 (Decreto 696 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.3.10.2 — Cuota De Fomento Ganadero y Lechero
 
@@ -7462,23 +6454,17 @@ La Cuota de Fomento Ganadero y Lechero será equivalente al 0.5% sobre el precio
 
 (Decreto 696 de 1994, art. 2. Textos subrayados sustituidos por la Ley 395 de 1997, art. 16, modificado por la Ley 925 de 2004, art. 4)
 
-ARTÍCULO
-
 ## art:2.10.3.10.3 — Causación y Recaudo de la Cuota
 
 La Cuota de Fomento Ganadero y Lechero establecida por la Ley 89 del 10 de diciembre de 1993, se causará y recaudará a partir del perfeccionamiento del contrato que se suscriba para su administración entre el Ministerio de Agricultura y Desarrollo Rural y la Federación Colombiana de Ganaderos, Fedegan.
 
 (Decreto 696 de 1994, art.3)
 
-ARTÍCULO
-
 ## art:2.10.3.10.4 — Personas Obligadas a la Contribución
 
 Será sujeto de la contribución toda persona natural, jurídica o sociedad de hecho que produzca carne y/o leche, con la excepción consagrada en el parágrafo 1 del artículo 2 de la Ley 89 de 1993.
 
 (Decreto 696 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.10.3.10.5 — Personas obligadas al recaudo
 
@@ -7506,23 +6492,17 @@ PARÁGRAFO 3. La exención de que trata el parágrafo 1 del artículo 2 de la Le
 
 (Decreto 696 de 1994, art. 5, modificado por el Decreto 2255 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.3.10.6 — Responsabilidades de los Recaudadores
 
 Los recaudadores de las Cuotas de Fomento Ganadero y Lechero serán responsables por el valor de las sumas recaudadas, por las cuotas dejadas de recaudar y por las liquidaciones equivocadas o defectuosas.
 
 (Decreto 696 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.10.3.10.7 — Separación de cuentas y depósito de la cuota
 
 Los recaudadores de la Cuota de Fomento Ganadero y Lechero deberán mantener dichos recursos en una cuenta por pagar contable separada, y están obligados a depositarlos dentro de los diez (10) primeros días del mes siguiente al recaudo, en la cuenta especial denominada "Fondo Nacional del Ganado" que para el efecto disponga la entidad administradora de dicha cuenta.
 
 (Decreto 696 de 1994, art. 7, modificado por el Decreto 2255 de 2007, art. 2)
-
-ARTÍCULO
 
 ## art:2.10.3.10.8 — Registro de los recaudos
 
@@ -7534,8 +6514,6 @@ PARÁGRAFO . Hasta tanto no se expida la resolución de que trata el presente ar
 
 (Decreto 696 de 1994, art.8, modificado por el Decreto 2255 de 2007, art. 3)
 
-ARTÍCULO
-
 ## art:2.10.3.10.9 — Junta Directiva
 
 La Junta Directiva del Fondo Nacional del Ganado se conformará de acuerdo con lo establecido en el artículo 5 de la Ley 89 del 10 de diciembre de 1993.
@@ -7545,8 +6523,6 @@ PARÁGRAFO 1. Los miembros de la Junta Directiva del Fondo Nacional del Ganado q
 PARÁGRAFO 2. La Junta se reunirá ordinariamente cuatro (4) veces al año, y extraordinariamente cuando el Ministerio de Agricultura y Desarrollo Rural, la entidad administrado o tres (3) de sus miembros la convoquen.
 
 (Decreto 696 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.10.3.10.10 — Funciones de la Junta Directiva
 
@@ -7572,8 +6548,6 @@ La Junta Directiva del Fondo Nacional del Ganado tendrá las siguientes funcione
 
 (Decreto 696 de 1994, art. 10)
 
-ARTÍCULO
-
 ## art:2.10.3.10.11 — Plan de Inversiones y Gastos
 
 La entidad administradora del Fondo Nacional del Ganado elaborará cada año, antes del 1 de octubre, el Plan de Inversiones y Gastos por programas y proyectos del año siguiente en forma discriminada y por especie. El Plan sólo podrá ejecutarse una vez haya sido aprobado por la Junta Directiva del Fondo Nacional del Ganado con el voto favorable del Ministro de Agricultura y Desarrollo Rural o su delegado.
@@ -7586,8 +6560,6 @@ PARÁGRAFO 2. Los programas y proyectos propuestos deben justificar la manera en
 
 (Decreto 696 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.10.3.10.12 — Manejo de los Recursos y Activos
 
 El manejo de los recursos y activos del Fondo Nacional del Ganado debe cumplirse de manera que en cualquier momento se pueda determinar su estado y movimiento. Con tal fin, la entidad administradora organizará la contabilidad de conformidad con los métodos contables prescritos por las normas vigentes y utilizará cuentas bancarias independientes de las que emplea para el manejo de sus propios recursos y demás bienes.
@@ -7597,8 +6569,6 @@ El manejo de los recursos y activos del Fondo Nacional del Ganado debe cumplirse
 CAPÍTULO 11
 
 Fondo Nacional Avícola
-
-ARTÍCULO
 
 ## art:2.10.3.11.1 — Definiciones
 
@@ -7616,15 +6586,11 @@ PARÁGRAFO . Mediante facturas de venta, bonificación o donación se controlar�
 
 (Decreto 823 de 1994, art. 1, modificado por el Decreto 523 de 2003, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.3.11.2 — Causación y recaudo de la Cuota de Fomento Avícola
 
 La Cuota de Fomento Avícola se causará y recaudará a partir del perfeccionamiento del contrato de administración que se celebre entre el Ministerio de Agricultura y Desarrollo Rural y la Federación Nacional de Avicultores de Colombia, FENAVI, o la entidad que haga las veces de ésta.
 
 (Decreto 823 de 1994, art. 2)
-
-ARTÍCULO
 
 ## art:2.10.3.11.3 — Liquidación de la Cuota de Fomento Avícola
 
@@ -7634,23 +6600,17 @@ La Federación Nacional de Avicultores de Colombia, Fenavi, como entidad adminis
 
 (Decreto 823 de 1994, art. 3, modificado por el Decreto 523 de 2003, art. 2. Concordancia con la Ley 1255 de 2008, art. 20)
 
-ARTÍCULO
-
 ## art:2.10.3.11.4 — Oportunidad del recaudo
 
 El recaudo de la Cuota de Fomento Avícola se hará efectivo cuando se verifique la venta, bonificación, donación o el traslado interno de cada ave de un día de nacida, a los galpones de cría de la propia empresa incubadora.
 
 (Decreto 823 de 1994, art. 4, modificado por el Decreto 523 de 2003, art. 3. Concordancia con la Ley 1255 de 2008, art. 20)
 
-ARTÍCULO
-
 ## art:2.10.3.11.5 — Responsabilidad de los recaudadores
 
 Las empresas incubadoras como entidades obligadas a recaudar la Cuota de Fomento Avícola serán fiscalmente responsables por el valor de las sumas recaudadas, por las cuotas dejadas de recaudar y por las liquidaciones equivocadas o defectuosas.
 
 (Decreto 823 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.10.3.11.6 — Información sobre la cuota recaudada
 
@@ -7668,8 +6628,6 @@ Las entidades recaudadoras de la Cuota de Fomento Avícola deberán enviar mensu
 
 (Decreto 823 de 1994, art. 6, modificado por el Decreto 523 de 2003, art. 4)
 
-ARTÍCULO
-
 ## art:2.10.3.11.7 — Libro de registro
 
 Los recaudadores de la Cuota de Fomento Avícola llevarán un libro en el cual se anotarán los datos correspondientes a cada operación de venta o traslado interno de aves. En el libro se registrará, como mínimo lo siguiente:
@@ -7686,15 +6644,11 @@ El libro de registro estará a disposición de la entidad administradora del Fon
 
 (Decreto 823 de 1994, art. 7, modificado por el Decreto 523 de 2003, art. 5)
 
-ARTÍCULO
-
 ## art:2.10.3.11.8 — Control del recaudo
 
 La entidad administradora del Fondo Nacional Avícola podrá realizar visitas de inspección a los libros en los que se registre la Cuota de Fomento Avícola con el propósito de verificar su pago y queda facultada para exigir a los recaudadores la exactitud y oportunidad del recaudo y transferencia de los fondos de la cuota.
 
 (Decreto 823 de 1994, art. 8)
-
-ARTÍCULO
 
 ## art:2.10.3.11.9 — Cuerpo de apoyo
 
@@ -7704,15 +6658,11 @@ Esta facultad no libera a la entidad administradora de cumplir y responder por l
 
 (Decreto 823 de 1994, art. 9)
 
-ARTÍCULO
-
 ## art:2.10.3.11.10 — Contraprestación
 
 La contraprestación por concepto de la administración de la Cuota de Fomento Avícola a favor de la entidad administradora será del diez por ciento (10%) del monto de lo recaudado. Este valor será deducido mensualmente por la entidad administradora del monto del recaudo.
 
 (Decreto 823 de 1994, art. 10)
-
-ARTÍCULO
 
 ## art:2.10.3.11.11 — Junta Directiva del Fondo
 
@@ -7723,8 +6673,6 @@ PARÁGRAFO 1. Los miembros de la Junta Directiva del Fondo Nacional Avícola que
 PARÁGRAFO 2. La Junta Directiva del Fondo Nacional Avícola deberá reunirse ordinariamente cuatro (4) veces al año y en forma extraordinaria cuando el Ministro de Agricultura y Desarrollo Rural o la entidad administradora, o tres de sus miembros la convoquen.
 
 (Decreto 823 de 1994, art. 11)
-
-ARTÍCULO
 
 ## art:2.10.3.11.12 — Funciones de la Junta
 
@@ -7752,8 +6700,6 @@ La Junta Directiva del Fondo Nacional Avícola tendrá las siguientes funciones:
 
 (Decreto 823 de 1994, art. 12)
 
-ARTÍCULO
-
 ## art:2.10.3.11.13 — Plan de inversiones y gastos
 
 La entidad administradora del Fondo Nacional Avícola elaborará antes del primero de noviembre de cada año el plan de inversiones y gastos por programas y proyecto del año siguiente, en forma discriminada, el cual sólo podrá ejecutarse una vez haya sido aprobado por la Junta Directiva del Fondo.
@@ -7762,15 +6708,11 @@ Los programas y proyectos podrán ser de cobertura nacional o regional. En el pr
 
 (Decreto 823 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.10.3.11.14 — Del manejo de los recursos y activos
 
 El manejo de los recursos y activos del Fondo Nacional Avícola debe cumplirse de manera que en cualquier momento se pueda determinar su estado y movimiento. Con tal fin, la entidad administradora del Fondo organizará la contabilidad de conformidad con los métodos contables prescritos y utilizará cuentas bancarias independientes de las que emplea para el manejo de sus propios recursos y demás bienes.
 
 (Decreto 823 de 1994, art. 15)
-
-ARTÍCULO
 
 ## art:2.10.3.11.15 — De la vigilancia de programas y proyectos
 
@@ -7782,21 +6724,15 @@ CAPÍTULO 12
 
 Fondo Nacional de la Porcicultura
 
-ARTÍCULO
-
 ## art:2.10.3.12.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar la Ley 272 de 1996, modificada por la Ley 623 de 2000 y por la Ley 1500 de 2011, en lo relacionado con la Cuota de Fomento Porcícola, la administración del Fondo Nacional de la Porcicultura y su órgano de dirección, y dictar otras disposiciones reglamentarias para la efectiva aplicación de la ley.
-
-ARTÍCULO
 
 ## art:2.10.3.12.2 — Cuota de Fomento Porcícola
 
 La Cuota de Fomento Porcícola está constituida por el equivalente al treinta y dos por ciento (32%) de un salario mínimo diario legal vigente, y se causa cada vez que ocurra el sacrificio de un porcino.
 
 Están obligados al pago de la Cuota de Fomento Porcícola los productores de porcinos, sean personas naturales, jurídicas o sociedades de hecho y los comercializadores de los mismos.
-
-ARTÍCULO
 
 ## art:2.10.3.12.3 — Recaudo de la contribución
 
@@ -7806,19 +6742,13 @@ Efectuarán el recaudo de la Cuota de Fomento Porcícola:
 
 2. Las personas naturales, jurídicas o sociedades de hecho propietarias de plantas de beneficio debidamente autorizadas, al momento del deguello.
 
-ARTÍCULO
-
 ## art:2.10.3.12.4 — Separación de cuentas
 
 Los recaudadores de la Cuota de Fomento Porcícola deberán mantener provisionalmente los recursos en una cuenta separada de sus propios recursos a través de los medios contables que así lo garanticen.
 
-ARTÍCULO
-
 ## art:2.10.3.12.5 — Depósito de la Cuota de Fomento Porcícola
 
 Los recaudadores de la Cuota de Fomento Porcícola se encuentran obligados a depositar dentro de los diez (10) primeros días del mes siguiente al del recaudo, lo recaudado por concepto de la Cuota de Fomento Porcícola, en una cuenta bancaria especial denominada "Fondo Nacional de la Porcicultura", que para el efecto abra la entidad administradora.
-
-ARTÍCULO
 
 ## art:2.10.3.12.6 — Registro y reporte de los recaudos
 
@@ -7868,15 +6798,11 @@ k. Firma y número de cédula de ciudadanía del representante legal del recauda
 
 l. Firma, número de cédula y tarjeta profesional del contador público, o del revisor fiscal con número de tarjeta profesional, cuando sea del caso.
 
-ARTÍCULO
-
 ## art:2.10.3.12.7 — Suministro de información
 
 El Ministerio de Agricultura y Desarrollo Rural determinará mediante resolución el procedimiento, metodología y sistemas de información automatizados y tecnológicos para el registro, reporte, pago y recibo de la información de la Cuota de Fomento Porcícola descritos en el presente Capítulo, con indicación de las fases y plazos para su implementación y los plazos de presentación oportuna de los reportes.
 
 PARÁGRAFO . Sin perjuicio de lo establecido en el inciso primero de este artículo, los recaudadores deberán entregar a la entidad administradora del Fondo Nacional de la Porcicultura, dentro de los diez (10) primeros días de cada mes, la información sobre los sujetos pasivos de la contribución, y sobre la causación y recaudo de la Cuota de Fomento Porcícola, permitiendo la aplicación de las disposiciones contenidas en el presente capítulo y en el Capítulo 1 del Título 1 de la Parte 10 del Libro 2 del Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural.
-
-ARTÍCULO
 
 ## art:2.10.3.12.8 — Sanciones al recaudador
 
@@ -7885,8 +6811,6 @@ El recaudador de la Cuota de Fomento Porcícola que no transfiera oportunamente 
 En caso de pagos parciales sobre las cuotas en mora, éstos se imputarán primero a los intereses causados y el saldo, si lo hubiere, al capital adeudado.
 
 PARÁGRAFO . La sanción a que se refiere el presente artículo se aplicará sin perjuicio de las acciones penales y civiles a que haya lugar.
-
-ARTÍCULO
 
 ## art:2.10.3.12.9 — Control del recaudo
 
@@ -7898,21 +6822,15 @@ El auditor interno del Fondo también podrá revisar los soportes contables corr
 
 PARÁGRAFO . El administrador del Fondo y el auditor interno del mismo garantizarán a los auditados la reserva de la información que con ocasión de la auditoría conozcan, información que solo podrá utilizarse con el fin de establecer la correcta liquidación, recaudo y consignación de la cuota, así como el oportuno y correcto suministro y reporte de la misma.
 
-ARTÍCULO
-
 ## art:2.10.3.12.10 — Junta Directiva
 
 La Junta Directiva del Fondo Nacional de la Porcicultura estará integrada de conformidad con lo establecido en la Ley 272 de 1996, o aquella que la modifique o sustituya.
-
-ARTÍCULO
 
 ## art:2.10.3.12.11 — Mecanismo de elección de los representantes de la Asociación Colombiana de Porcicultores
 
 (Derogado por el Artículo 5 del Decreto 13 de 2016.) Los representantes de la Asociación Colombiana de Porcicultores a la Junta Directiva del Fondo Nacional de la Porcicultura serán elegidos por dicha asociación de conformidad con los términos de convocatoria, los procedimientos y los requisitos que para dicha elección establezca el Ministerio de Agricultura y Desarrollo Rural mediante resolución, con sujeción a lo previsto en el parágrafo 3 del artículo 106 de la Ley 1753 de 2015.
 
 Ante la ausencia absoluta de cualquiera de los representantes de la Asociación Colombiana de Porcicultores, se dará aplicación al procedimiento señalado por el Ministerio de Agricultura y Desarrollo Rural, con el objeto de suplir dicha vacancia.
-
-ARTÍCULO
 
 ## art:2.10.3.12.12 — Elección del representante de las cooperativas de porcicultores que funcionen en el país
 
@@ -7922,19 +6840,13 @@ El Ministerio de Agricultura y Desarrollo Rural establecerá mediante resolució
 
 Ante la ausencia absoluta del representante de las cooperativas de porcicultores que funcionan en el país, el Ministerio de Agricultura y Desarrollo Rural dará aplicación al procedimiento señalado en el presente artículo, con el objeto de suplir dicha vacancia.
 
-ARTÍCULO
-
 ## art:2.10.3.12.13 — Periodo de los miembros de la Junta Directiva
 
 Los miembros del sector privado en la Junta Directiva del Fondo Nacional de la Porcicultura tendrán un período fijo de dos (2) años. Si renunciaren a la Junta, o perdieren el carácter de productores o de representantes de las cooperativas de porcicultores, perderán automáticamente su calidad de miembros de la Junta Directiva del Fondo Nacional de la Porcicultura, ante lo cual se adelantará el procedimiento correspondiente para designar los reemplazos.
 
-ARTÍCULO
-
 ## art:2.10.3.12.14 — Reuniones de la Junta Directiva del Fondo Nacional de la Porcicultura
 
 La Junta Directiva del Fondo Nacional de la Porcicultura se reunirá ordinariamente cuatro (4) veces al año y, en forma extraordinaria, cuando el Ministro de Agricultura y Desarrollo Rural, la entidad administradora, o mínimo tres (3) de sus miembros, la convoquen.
-
-ARTÍCULO
 
 ## art:2.10.3.12.15 — Funciones de la Junta Directiva del Fondo Nacional de la Porcicultura
 
@@ -7958,8 +6870,6 @@ La Junta Directiva del Fondo Nacional de la Porcicultura tendrá las siguientes 
 
 9. Las demás que sean de su estricta competencia de acuerdo con los objetivos del Fondo Nacional de la Porcicultura.
 
-ARTÍCULO
-
 ## art:2.10.3.12.16 — Condiciones de representatividad de la entidad administradora del Fondo Nacional de la Porcicultura
 
 La entidad administradora del Fondo Nacional de la Porcicultura debe reunir condiciones de representatividad de la porcicultura Se entenderá que una entidad reúne estas condiciones cuando:
@@ -7974,13 +6884,9 @@ La entidad administradora del Fondo Nacional de la Porcicultura debe reunir cond
 
 5. Sus órganos directivos son elegidos mediante un sistema democrático y transparente.
 
-ARTÍCULO
-
 ## art:2.10.3.12.17 — Código de buen gobierno
 
 La entidad administradora del Fondo Nacional de la Porcicultura deberá contar con un código de buen gobierno, que incluya un conjunto de principios, valores y compromisos relacionados con mecanismos de trasparencia y eficiencia en la administración de recursos, así como mecanismos para prevenir y solucionar la ocurrencia de conflictos de interés.
-
-ARTÍCULO
 
 ## art:2.10.3.12.18 — Plan de Inversiones y Gastos
 
@@ -7990,15 +6896,11 @@ Dicho plan sólo podrá ejecutarse una vez haya sido aprobado por la Junta Direc
 
 PARÁGRAFO . Para la asignación de recursos a los programas y los proyectos del Fondo Nacional de la Porcicultura se deberá tener en cuenta la proporción de los aportes efectuados por las regiones en la contribución al Fondo Nacional de la Porcicultura, y las necesidades de inversión de las regiones y subregiones, de acuerdo con los objetivos del Fondo Nacional de la Porcicultura.
 
-ARTÍCULO
-
 ## art:2.10.3.12.19 — Operaciones e inversiones a nombre del Fondo Nacional de la Porcicultura
 
 La entidad administradora del Fondo Nacional de la Porcicultura podrá efectuar operaciones e inversiones a nombre del mismo, con los recursos del Fondo, siempre y cuando se encuentren afectas a alguna de las finalidades que define el artículo 5 de la Ley 272 de 1996, estén previstas en el presupuesto de ingresos y gastos, y hayan sido aprobadas por la Junta Directiva del Fondo Nacional de la Porcicultura.
 
 PARÁGRAFO . El resultado de las operaciones e inversiones realizadas afectará solamente los registros contables del Fondo.
-
-ARTÍCULO
 
 ## art:2.10.3.12.20 — Manejo de los recursos y activos
 
@@ -8014,19 +6916,13 @@ Para tal fin, la entidad administradora del Fondo Nacional de la Porcicultura or
 
 FONDO DE FOMENTO CAUCHERO
 
-ARTÍCULO
-
 ## art:2.10.3.13.1 — Objeto
 
 El presente capitulo tiene por objeto reglamentar la Ley 686 de 2001, modificada por la Ley 1758 de 2015, en lo relacionado con la Cuota de Fomento Cauchera, su órgano de dirección, y otras disposiciones reglamentarias para la aplicación de la ley.
 
-ARTÍCULO
-
 ## art:2.10.3.13.2 — Ámbito de aplicación
 
 El presente capítulo se aplica al heveicultor que beneficie el látex o el coágulo de campo y obtenga diferentes materias primas de caucho natural, como látex preservado, látex centrifugado, látex cremado, ripio, lámina, lámina ahumada, TSR20, TSR10, TSR5, TSRL, Crepé y Cauchos especiales, sea para comercializarlas o para incorporarlas en sus procesos agroindustriales o industriales.
-
-ARTÍCULO
 
 ## art:2.10.3.13.3 — Definiciones
 
@@ -8064,15 +6960,13 @@ Para los efectos del presente capítulo se adoptan las siguientes definiciones:
 
 16. Venta: Enajenación de los productos por un precio que los representa.
 
-## art:2.10.3 — 13.4
+## art:2.10.3.13.4 — Causación de la Cuota de Fomento Cauchera
 
-Causación de la Cuota de Fomento Cauchera. La Cuota de Fomento Cauchera se causará por una sola vez, en cualquiera de los siguientes escenarios:
+La Cuota de Fomento Cauchera se causará por una sola vez, en cualquiera de los siguientes escenarios:
 
 1. A cargo del productor cuando le venda látex o coagulo beneficiando directamente al industrial.
 
 2. Cuando las personas naturales o jurídicas que, siendo productoras de látex y caucho natural, los procesen con fines industriales.
-
-ARTÍCULO
 
 ## art:2.10.3.13.5 — Tarifa
 
@@ -8080,15 +6974,11 @@ La Cuota de Fomento Cauchera será del uno por ciento (1%), la cual se calcular�
 
 La cantidad vendida se medirá en kilogramos, cuando se trate de caucho seco o sólido, como la lámina, la lámina ahumada, TSR20, TSR10, TSR5, TSRL, crepé y cauchos especiales. Se medirá en litros, cuando se trate de caucho líquido, tales como látex preservado, látex centrifugado y látex cremado.
 
-ARTÍCULO
-
 ## art:2.10.3.13.6 — Personas obligadas a la retención de la cuota
 
 Son retenedores de la Cuota de Fomento Cauchera, las personas naturales o jurídicas que comercialicen materias primas, como son el látex, látex preservado, látex centrifugado, látex cremado, ripio, lámina, lámina ahumada, TSR20, TSR10, TSR5, TSRL, Crepé y Cauchos especiales.
 
 La Cuota de Fomento cauchera se liquidará con base en el precio de venta de las materias primas comercializadas en el mercado nacional y/o internacional.
-
-ARTÍCULO
 
 ## art:2.10.3.13.7 — Registro de las retenciones
 
@@ -8100,15 +6990,11 @@ Quienes no se encuentren obligados a tener contador o revisor fiscal, remitirán
 
 PARÁGRAFO 2. La información deberá ser registrada y sistematizada por las personas naturales y jurídicas obligadas a hacer la retención de la Cuota de Fomento Cauchero.
 
-ARTÍCULO
-
 ## art:2.10.3.13.8 — Control de la retención
 
 En ejercicio de su función de control, el auditor interno del Fondo de Fomento Cauchero podrá realizar visitas de inspección a los procesos, documentos y libros de contabilidad de las personas naturales y jurídicas obligadas a hacer la retención de la Cuota de Fomento Cauchero, con el propósito de verificar su correcta liquidación, retención y consignación, en los términos del artículo 2.10.1.1.3 del presente decreto, o la norma que lo modifique, sustituya o complemente.
 
 PARÁGRAFO . El administrador del Fondo y el auditor interno del mismo, garantizarán a los auditados la reserva de la información que con ocasión de la auditoría conozcan, y la misma solamente podrá ser usada con el fin de establecer la correcta causación y recaudo de la cuota.
-
-ARTÍCULO
 
 ## art:2.10.3.13.9 — Paz y salvo a los retenedores
 
@@ -8116,13 +7002,9 @@ El paz y salvo que expedirá la entidad administradora del Fondo de Fomento Cauc
 
 En el paz y salvo se hará constar el pago de la contribución y este documento constituye la única prueba que exime de la obligación del recaudo de la cuota.
 
-ARTÍCULO
-
 ## art:2.10.3.13.10 — Código de buen gobierno
 
 La entidad seleccionada para la administración del Fondo y recaudo de la Cuota deberá contar con un código de buen gobierno que incluya un conjunto de principios, valores y compromisos relacionados con mecanismos de transparencia y eficiencia en la administración de recursos, así como mecanismos para prevenir y solucionar la ocurrencia de conflictos de interés.
-
-ARTÍCULO
 
 ## art:2.10.3.13.11 — Comité Directivo del fondo
 
@@ -8131,8 +7013,6 @@ El Comité Directivo del Fondo de Fomento Cauchero estará integrado por cinco (
 De los representantes de los cultivadores, tres (3) deberán ser caucheros en ejercicio, bien sea a título personal o en representación de una persona jurídica, dedicados a esta actividad durante un período no inferior a tres (3) años.
 
 Dichos representantes serán nombrados por el Congreso Nacional de Productores de Caucho, dando representación a todas las zonas caucheras del país y elegidos por los medíos democráticos de elección de miembros de los órganos directivos, de conformidad con la reglamentación expedida por el Ministerio de Agricultura y Desarrollo Rural. El cuarto representante de los productores será el Director de la Confederación Cauchera Colombiana (CCC). El período de los representantes de los cultivadores será de dos (2) años y podrán ser reelegidos por una única vez.
-
-ARTÍCULO
 
 ## art:2.10.3.13.12 — Atribuciones de Comité Directivo del fondo
 
@@ -8152,8 +7032,6 @@ Para el cabal cumplimiento de las funciones consagradas en el artículo 18 de la
 
 7. Velar por la correcta y eficiente gestión del fondo por parte de la entidad administradora.
 
-ARTÍCULO
-
 ## art:2.10.3.13.13 — Plan de Inversiones y Gastos
 
 La entidad administradora del Fondo Nacional de Fomento Cauchero elaborará cada año, antes del primero de octubre, el Plan de Inversiones y Gastos para el siguiente ejercicio anual, discriminado por programas y proyectos. El Plan de inversiones y Gastos sólo podrá ser ejecutado una vez haya sido aprobado por el Comité Directivo del Fondo de Fomento Cauchero, previo visto bueno del Ministerio de Agricultura y Desarrollo Rural.
@@ -8164,15 +7042,11 @@ CAPÍTULO 14
 
 Fondo de Fomento de la Papa
 
-ARTÍCULO
-
 ## art:2.10.3.14.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la Ley 1707 de 2014, en lo relacionado con la Cuota de Fomento de la Papa, la administración del Fondo Nacional de Fomento de la Papa y su órgano de dirección, y dictar otras disposiciones complementarias.
 
 (Decreto 2263 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.3.14.2 — Ámbito de aplicación
 
@@ -8180,23 +7054,17 @@ El presente capítulo se aplica a las personas naturales, jurídicas y sociedade
 
 (Decreto 2263 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.10.3.14.3 — Causación
 
 La Cuota de Fomento de la Papa se causará por una sola vez en cualquier etapa del proceso de comercialización, y, una vez pagada, la entidad administradora de la cuota parafiscal expedirá un paz y salvo.
 
 (Decreto 2263 de 2014, art.3)
 
-ARTÍCULO
-
 ## art:2.10.3.14.4 — Personas obligadas al pago de la Cuota de Fomento de la Papa
 
 Los productores de papa, ya sean personas naturales, jurídicas o sociedades de hecho, estarán obligados al pago de la Cuota de Fomento de la Papa, al momento de la transacción o del pago correspondiente.
 
 (Decreto 2263 de 2014, art.4)
-
-ARTÍCULO
 
 ## art:2.10.3.14.5 — Valor de la Cuota de Fomento de la Papa
 
@@ -8205,8 +7073,6 @@ El valor de la Cuota de Fomento de la Papa resultará de multiplicar la cantidad
 El valor de la Cuota de Fomento de la Papa cuando el productor sea a la vez procesador resultará de multiplicar la cantidad de papa utilizada como materia prima, expresada en kilogramos, por el valor del kilogramo de papa en inventario utilizada en la producción, expresado en pesos, por el uno por ciento (1 %).
 
 (Decreto 2263 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.10.3.14.6 — Del momento de la liquidación y Recaudo de la Cuota de Fomento de la Papa
 
@@ -8218,8 +7084,6 @@ Cuando el productor sea a la vez procesador, este estará obligado al recaudo de
 
 (Decreto 2263 de 2014, art.6)
 
-ARTÍCULO
-
 ## art:2.10.3.14.7 — Personas obligadas al Recaudo de la Cuota de Fomento de la Papa
 
 Actuarán como recaudadores de la Cuota de Fomento de la Papa:
@@ -8229,8 +7093,6 @@ Actuarán como recaudadores de la Cuota de Fomento de la Papa:
 2. Las personas naturales, jurídicas o sociedades de hecho que adquieran o utilicen papa de producción nacional de cualquier variedad para acondicionarla, procesarla, industrializarla y comercializarla en el mercado nacional.
 
 (Decreto 2263 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.10.3.14.8 — Registro de los Recaudos
 
@@ -8262,8 +7124,6 @@ PARÁGRAFO 2. La información deberá ser registrada y sistematizada por la enti
 
 (Decreto 2263 de 2014, art.8)
 
-ARTÍCULO
-
 ## art:2.10.3.14.9 — Control del Recaudo
 
 En ejercicio de la función de auditoría, el auditor interno del Fondo Nacional de Fomento de la Papa podrá realizar visitas de inspección a los documentos y libros de contabilidad de las personas naturales y jurídicas o sociedades de hecho obligadas a hacer la retención de la Cuota de Fomento de la Papa, con el propósito de verificar su correcta liquidación, recaudo y consignación dentro de los primeros diez (10) días del mes siguiente a su recaudo, en los términos del artículo 2.10.1.1.1, y siguientes de este decreto.
@@ -8271,8 +7131,6 @@ En ejercicio de la función de auditoría, el auditor interno del Fondo Nacional
 PARÁGRAFO . El administrador del Fondo y el auditor interno del mismo garantizarán a los auditados la reserva de la información que con ocasión de la auditoría conozcan, y la misma solamente podrá ser usada con el fin de establecer la correcta causación y recaudo de la cuota.
 
 (Decreto 2263 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.10.3.14.10 — Separación de cuentas y depósito de la Cuota de Fomento de la Papa
 
@@ -8282,8 +7140,6 @@ PARÁGRAFO . La entidad administradora del Fondo Nacional del Fomento de la Papa
 
 (Decreto 2263 de 2014, art.10)
 
-ARTÍCULO
-
 ## art:2.10.3.14.11 — Paz y salvo
 
 El paz y salvo que expedirá la entidad administradora del Fondo Nacional de Fomento de la Papa a los recaudadores será mensual por cada periodo de recaudo, cuando se acredite la correcta liquidación y consignación o transferencia efectiva del valor total de la cuota recaudada.
@@ -8291,8 +7147,6 @@ El paz y salvo que expedirá la entidad administradora del Fondo Nacional de Fom
 En el paz y salvo se hará constar que la contribución ya fue pagada y este documento constituye la única prueba que exime de la obligación del recaudo de la cuota a quienes a partir de la primera venta intervienen en las etapas sucesivas a la comercialización.
 
 (Decreto 2263 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.10.3.14.12 — Junta Directiva del Fondo Nacional de Fomento de la Papa
 
@@ -8310,8 +7164,6 @@ PARÁGRAFO 2. (Derogado por el Artículo 5 del Decreto 13 de 2016.) Los miembros
 
 (Decreto 2263 de 2014, art.12)
 
-ARTÍCULO
-
 ## art:2.10.3.14.13 — Mecanismo de Elección de los Delegados de las Organizaciones de Productores de Papa del orden nacional y regional
 
 (Derogado por el Artículo 5 del Decreto 13 de 2016.) El Delegado de las Organizaciones de Productores de Papa del nivel nacional y los delegados de las organizaciones de productores de papa del nivel regional a la Junta Directiva del Fondo Nacional de Fomento de la Papa serán elegidos por las organizaciones de productores en una reunión que para tal efecto convocará el Ministerio de Agricultura y Desarrollo Rural a través de un diario de amplia circulación nacional.
@@ -8321,8 +7173,6 @@ El Ministerio de Agricultura y Desarrollo Rural establecerá mediante resolució
 Ante la ausencia absoluta de cualquiera de los delegados de las organizaciones de productores de papa del nivel nacional o regional de la Junta Directiva, el Ministerio de Agricultura y Desarrollo Rural dará aplicación al procedimiento señalado en el presente artículo, con el objeto de suplir dicha vacancia.
 
 (Decreto 2263 de 2014, art.13)
-
-ARTÍCULO
 
 ## art:2.10.3.14.14 — Condiciones de representatividad de la Entidad Administradora del Fondo de Fomento de la Papa
 
@@ -8340,15 +7190,11 @@ Para la contratación de la entidad administradora del Fondo de Fomento de la Pa
 
 (Decreto 2263 de 2014l art.14)
 
-ARTÍCULO
-
 ## art:2.10.3.14.15 — Código de Buen Gobierno
 
 La entidad seleccionada para la administración del Fondo deberá contar con un código de buen gobierno, que incluya un conjunto de principios, valores y compromisos relacionados con mecanismos de trasparencia y eficiencia en la administración de recursos, así como mecanismos para prevenir y solucionar la ocurrencia de conflictos de interés.
 
 (Decreto 2263 de 2014, art.15)
-
-ARTÍCULO
 
 ## art:2.10.3.14.16 — Transferencia de Recursos del Fondo Nacional de Fomento Hortifrutícola (sic) al Fondo Nacional de Fomento de la Papa
 
@@ -8356,23 +7202,17 @@ Una vez suscrito el correspondiente contrato de administración y con el objeto 
 
 (Decreto 2263 de 2014, art.16)
 
-ARTÍCULO
-
 ## art:2.10.3.14.17 — Transferencia de Archivos del Fondo Nacional de Fomento Hortifrutícola (sic) al Fondo Nacional de Fomento de la Papa
 
 La entidad administradora del Fondo Nacional de Fomento Hortifrutícola (sic) entregará las bases de datos de productores y agentes recaudadores al ente administrador del Fondo Nacional de Fomento de la Papa, dando cumplimiento a lo dispuesto en el artículo 21 de la Ley 1707 de 2014.
 
 (Decreto 2263 de 2014, en. 17)
 
-ARTÍCULO
-
 ## art:2.10.3.14.18 — Registro de Transferencias de Recursos y Archivos
 
 Los anteriores procedimientos deberán registrarse en actas que serán auditadas por la Auditoría Interna del Fondo Nacional de Fomento de la Papa y remitidas al Ministerio de Agricultura y Desarrollo Rural, atendiendo los procedimientos previstos en las normas especiales sobre la materia.
 
 (Decreto 2263 de 2014, art.18)
-
-ARTÍCULO
 
 ## art:2.10.3.14.19 — Aprobación del Plan de Inversiones y Gastos
 
@@ -8469,6 +7309,8 @@ PARÁGRAFO 2. La pertenencia a agricultura Campesina, Familiar y Comunitaria (AC
 ## art:2.10.4.1.9 — CUMPLIMIENTO DE LAS GARANTÍAS MÍNIMAS
 
 Las garantías de representación mínima dispuestas en el artículo 2.10.4.1.8, se cumplirán cuando en la conformación del órgano de dirección de cada fondo de fomento, el número plural total de miembros privados incluya tanto la paridad de género, como las demás garantías en la cantidad que corresponda:
+
+ARTÍCULO 2.10.4.1.9. INSCRIPCIONES. Las inscripciones de los y las candidatas podrán hacerse de forma analógica o digital. El contratista administrador del fondo garantizará en todo caso que estos respeten la igualdad material de los interesados y sujetos pasivos de la parafiscalidad, eliminará barreras administrativas o técnicas, y adoptará medidas afirmativas cuando además tengan la condición de mujeres rurales, víctimas del conflicto armado, usuarios de la Agricultura Campesina, Familiar y Comunitaria (ACFC), jóvenes campesinos y campesinas, y otras personas en condición de vulnerabilidad.
 
 ## art:2.10.4.1.10 — REQUISITOS MÍNIMOS DE LOS CANDIDATOS
 
@@ -8572,8 +7414,6 @@ TÍTULO 5
 
 Asunción Temporal de la Administración de las Contribuciones Parafiscales
 
-ARTÍCULO
-
 ## art:2.10.5.1 — 5.1
 
 Razones especiales para la asunción temporal de la administración de las contribuciones parafiscales por parte del Ministerio de Agricultura y Desarrollo Rural. Se considerarán como razones especiales para que el Ministerio de Agricultura y Desarrollo Rural asuma temporalmente la administración de las contribuciones parafiscales agropecuarias y pesqueras, las siguientes:
@@ -8598,8 +7438,6 @@ El Ministerio adelantará, en coordinación con la fiduciaria contratada y/o las
 
 Así mismo el Ministerio de Agricultura y Desarrollo Rural iniciará, dentro de los noventa (90) días siguientes a la decisión de liquidación, los procedimientos legales que correspondan para realizar la contratación del administrador de la cuota parafiscal de conformidad con la normatividad que resulte aplicable. Una vez perfeccionado el contrato, y conforme a las cláusulas del mismo, la fiduciaria le trasladará a la administradora contratada, para la respectiva administración, el saldo de los recursos de la cuota y bienes que hubiere recibido con posterioridad a la decisión de liquidación. Para el mismo efecto el Ministerio le trasladará a la administradora los remanentes resultantes en el trámite de liquidación que se le entreguen en la oportunidad correspondiente.
 
-ARTÍCULO
-
 ## art:2.10.5.2 — Procedimiento aplicable para la asunción temporal de administración de las contribuciones parafiscales
 
 Para los efectos del presente título y en los casos en que se halle en ejecución el contrato de administración respectivo, el Ministerio de Agricultura y Desarrollo Rural, mediante acto administrativo motivado, procederá a la asunción de la administración temporal de las contribuciones parafiscales agropecuarias y pesqueras. Además, tomará las determinaciones que correspondan respecto a la actividad contractual con la administradora de conformidad con la normatividad aplicable.
@@ -8609,8 +7447,6 @@ En los contratos cuyo plazo de ejecución haya terminado, y se configure alguna 
 En cualquiera de los eventos aquí previstos el Ministerio realizará la administración a través de un encargo fiduciario, de conformidad con lo previsto en el artículo 106 de la Ley 1753 de 2015.
 
 PARÁGRAFO . Los gastos que demande la administración fiduciaria serán pagados con cargo a la contraprestación prevista por la administración de las cuotas en la ley respectiva.
-
-ARTÍCULO
 
 ## art:2.10.5.3 — Ámbito de temporalidad de la asunción de la administración de las contribuciones parafiscales por el Ministerio
 
@@ -8622,8 +7458,6 @@ PARÁGRAFO . Tanto los periodos iniciales como los máximos se establecen sin pe
 
 (Decreto 2193 de 2017, art.1)
 
-ARTÍCULO
-
 ## art:2.10.5.4 — Entrega de la administración
 
 Una vez el Ministerio de Agricultura y Desarrollo Rural asuma temporalmente la administración de las contribuciones parafiscales a las que hace referencia este título, el administrador del Fondo entregará la administración en los términos requeridos por el Ministerio y de conformidad con la normatividad aplicable.
@@ -8634,15 +7468,11 @@ TÍTULO 6
 
 Medidas para garantizar la continuidad del recaudo e inversión de los recursos de los fondos parafiscales del sector agropecuario y pesquero
 
-ARTÍCULO
-
 ## art:2.10.6.1 — Objeto
 
 El presente título tiene por objeto reglamentar las medidas necesarias para garantizar la continuidad en el recaudo e inversión de los recursos de los fondos parafiscales del sector agropecuario y pesquero, en caso de liquidación de un fondo.
 
 (Decreto 947 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.6.2 — Continuidad de la causación y recaudo de la cuota parafiscal
 
@@ -8652,8 +7482,6 @@ La cuota parafiscal se seguirá causando de conformidad con la ley que la regule
 
 (Decreto 947 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.6.3 — Recursos existentes y nuevas cuotas
 
 Los activos y pasivos existentes a la fecha en que se ordene la liquidación del fondo parafiscal se entregarán al liquidador designado por quien ordene la liquidación a fin de darle continuidad al trámite de la liquidación.
@@ -8662,8 +7490,6 @@ Los recursos de la cuota parafiscal respectiva que se causen a partir del día s
 
 (Decreto 947 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.10.6.4 — Continuidad de proyectos o contratos de inversión en ejecución
 
 Teniendo en cuenta la destinación legal, el presupuesto anual aprobado y la naturaleza de los proyectos de inversión previstos en los artículos 31 y 33 de la Ley 101 de 1993, así como en las leyes que regulan cada cuota parafiscal, el Ministerio de Agricultura y Desarrollo Rural, a través del Viceministerio de Asuntos Agropecuarios, o quien haga sus veces, o la fiduciaria contratada en los casos a que se refiere el Decreto 2537 de 2015, por el cual se adicionó el Título 5 de la Parte 10 del Libro 2 del Decreto 1071 de 2015, Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural, solicitará a quien ordenó la liquidación, dentro de los quince (15) días siguientes a la fecha de la decisión, asegurar la continuidad de los proyectos y/o contratos cuya ejecución se requiera hasta su culminación, para que dentro de la liquidación se tomen las medidas correspondientes.
@@ -8671,8 +7497,6 @@ Teniendo en cuenta la destinación legal, el presupuesto anual aprobado y la nat
 Para tal efecto, en la solicitud se indicarán los fundamentos técnicos, operativos y administrativos que justifiquen la necesidad de continuar con el proyecto y/o contrato.
 
 (Decreto 947 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.10.6.5 — Entrega y destinación de los bienes remanentes de los Fondos de Fomento Agropecuario
 
@@ -8718,15 +7542,11 @@ TÍTULO 1
 
 Fondo de Estabilización de Precios del Cacao
 
-ARTÍCULO
-
 ## art:2.11.1.1 — Organización
 
 Transformase el Fondo de Estabilización de Precios de Exportación del Cacao, cuyo funcionamiento fue autorizado mediante el Decreto 1226 de 1989, reglamentado mediante Resolución número 0529 de 1989 y Resolución número 053 de 1990 del Ministerio de Agricultura y Desarrollo Rural, en el Fondo de Estabilización de Precios del Cacao que operará conforme a los términos establecidos en el Capítulo VI de la Ley 101 de 1993.
 
 (Decreto 1485 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.1.2 — Naturaleza Jurídica
 
@@ -8734,23 +7554,17 @@ El Fondo de Estabilización de Precios del Cacao funcionará como una cuenta esp
 
 (Decreto 1485 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.11.1.3 — Objeto
 
 El Fondo de Estabilización de Precios del Cacao tendrá por objeto procurar un ingreso remunerativo para los productores, regular la producción nacional e incrementar las exportaciones mediante el financiamiento de la estabilización de los precios del producto mencionado en el artículo 2.11.1.4, del presente decreto.
 
 (Decreto 1485 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.11.1.4 — Producto sujeto de estabilización
 
 Para los efectos del presente decreto, los productos agrícolas objeto de estabilización serán los clasificados por la partida arancelaria 18.01, de acuerdo con lo establecido en el decreto que fije el arancel de aduanas, y que se obtienen de la semilla del cacaotero (Theobroma cacao L.).
 
 (Decreto 1485 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:2.11.1.5 — De la administración
 
@@ -8759,8 +7573,6 @@ El Fondo de Estabilización de Precios del Cacao será administrado por la entid
 PARÁGRAFO . La entidad administradora manejará los recursos que conforman el Fondo de manera independiente de sus propios recursos, para lo cual deberá llevar una contabilidad separada, de forma que en cualquier momento se pueda establecer su estado y movimiento.
 
 (Decreto 1485 de 2008, art. 5)
-
-ARTÍCULO
 
 ## art:2.11.1.6 — Comité Directivo
 
@@ -8779,8 +7591,6 @@ El Fondo de Estabilización de Precios del Cacao tendrá un Comité Directivo in
 PARÁGRAFO . La designación de los representantes de los productores, exportadores y vendedores corresponde al Ministro de Agricultura y Desarrollo Rural con base en ternas presentadas por cada uno de los gremios representativos de cada actividad
 
 (Decreto 1485 de 2008, art.6, parágrafo modificado por el Decreto 13 de 2016, art. 3)
-
-ARTÍCULO
 
 ## art:2.11.1.7 — Funciones del Comité Directivo
 
@@ -8826,8 +7636,6 @@ El Comité Directivo del Fondo de Estabilización de Precios del Cacao cumplirá
 
 (Decreto 1485 de 2008, art. 7)
 
-ARTÍCULO
-
 ## art:2.11.1.8 — 1.8
 
 El Comité Directivo del Fondo de Estabilización de Precios del Cacao, se reunirá ordinariamente cada tres (3) meses y extraordinariamente cuando sea convocado por su Presidente. Para este efecto, el Secretario Técnico del Fondo, con la debida antelación y de acuerdo con lo dispuesto en el Reglamento Operativo, efectuará las citaciones correspondientes.
@@ -8838,8 +7646,6 @@ PARÁGRAFO 2. Las reuniones de este Comité Directivo se harán constar en actas
 
 (Decreto 1485 de 2008, art. 8)
 
-ARTÍCULO
-
 ## art:2.11.1.9 — Secretario Técnico
 
 El Secretario Técnico del Fondo de Estabilización de Precios del Cacao será designado conforme lo dispone el artículo 44 de la Ley 101 de 1993.
@@ -8848,23 +7654,17 @@ PARÁGRAFO . El Secretario Técnico podrá ser designado por el Comité Directiv
 
 (Decreto 1485 de 2008, art. 9)
 
-ARTÍCULO
-
 ## art:2.11.1.10 — Procedimiento para la estabilización de precios
 
 El procedimiento para la estabilización de precios se regirá por lo señalado en el artículo 40 de la Ley 101 de 1993.
 
 (Decreto 1485 de 2008, art. 10)
 
-ARTÍCULO
-
 ## art:2.11.1.11 — Suscripción de convenios de estabilización
 
 Los exportadores del producto sujeto de estabilización mencionado en el artículo 2.11.1.4. del presente decreto, para efectuar sus operaciones de exportación, deberán obligatoriamente suscribir Convenios de Estabilización con la Entidad Administradora del Fondo, con cláusulas que serán aprobadas por el Comité Directivo.
 
 (Decreto 1485 de 2008, art.11)
-
-ARTÍCULO
 
 ## art:2.11.1.12 — Retención y pago de cesiones de estabilización
 
@@ -8878,15 +7678,11 @@ PARÁGRAFO 3. El agente retenedor de las cesiones, las declarará y pagará dent
 
 (Decreto 1485 de 2008, art. 12)
 
-ARTÍCULO
-
 ## art:2.11.1.13 — Mora
 
 El productor, vendedor o exportador que incurra en mora en el cumplimiento de sus obligaciones con el Fondo, relativas a las cesiones de estabilización, pagará intereses moratorias a la tasa establecida para el Impuesto de Renta y Complementarios, vigente a la fecha en que incurra en mora.
 
 (Decreto 1485 de 2008, art. 13)
-
-ARTÍCULO
 
 ## art:2.11.1.14 — Recursos
 
@@ -8914,15 +7710,11 @@ El Fondo de Estabilización de Precios del Cacao estará conformado por los sigu
 
 (Decreto 1485 de 2008, art. 14)
 
-ARTÍCULO
-
 ## art:2.11.1.15 — Prestamos del Presupuesto Nacional
 
 De acuerdo con lo establecido en el parágrafo 1 del artículo 38 de la Ley 101 de 1993, el Fondo de Estabilización de Precios del Cacao podrá recibir préstamos del Presupuesto Nacional o de instituciones de crédito nacionales o internacionales. La Nación podrá garantizar estos créditos de acuerdo con las normas de crédito público.
 
 (Decreto 1485 de 2008, art. 15)
-
-ARTÍCULO
 
 ## art:2.11.1.16 — Reserva para estabilización
 
@@ -8936,15 +7728,11 @@ TÍTULO 2
 
 Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones
 
-ARTÍCULO
-
 ## art:2.11.2.1 — Organización
 
 Organizase el Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones, el cual operará conforme a los términos establecidos en el Capítulo VI de la Ley 101 de 1993.
 
 (Decreto 2354 de 1996, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.2.2 — Definiciones
 
@@ -8958,15 +7746,11 @@ Sus fracciones son el aceite y la torta de palmiste.
 
 (Decreto 2354 de 1996, en. 2)
 
-ARTÍCULO
-
 ## art:2.11.2.3 — Naturaleza jurídica
 
 El Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones funcionará como una cuenta especial, sin personería jurídica, incorporada al Fondo de Fomento Palmero creado por la Ley 138 de 1994.
 
 (Decreto 2354 de 1996, art. 3)
-
-ARTÍCULO
 
 ## art:2.11.2.4 — Administración
 
@@ -8977,8 +7761,6 @@ El Gobierno Nacional a través del Ministerio de Agricultura y Desarrollo Rural,
 PARÁGRAFO . La entidad administradora del Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones, recibirá por su gestión una contraprestación equivalente al cinco por ciento (5%) de los pagos originados en las cesiones de estabilización que se efectúen al Fondo, la cual se causará mensualmente.
 
 (Decreto 2354 de 1996, art. 4, parágrafo modificado por el Decreto 130 de 1998, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.2.5 — Mecanismos para la estabilización de precios
 
@@ -9000,8 +7782,6 @@ PARÁGRAFO 2. Para las operaciones de estabilización en el mercado interno se t
 
 (Decreto 2354 de 1996, art. 5)
 
-ARTÍCULO
-
 ## art:2.11.2.6 — Retención y pago de las cesiones de estabilización
 
 Cuando la cesión de estabilización deba ser pagada por el productor, vendedor o exportador de palmiste, de aceite de palma o de sus fracciones, en el mercado interno o en el de exportación, estos mismos sujetos de la contribución parafiscal actuarán como agentes retenedores.
@@ -9020,8 +7800,6 @@ PARÁGRAFO 2. Los retenedores que presenten en forma extemporánea la declaraci�
 
 (Decreto 2354 de 1996, art. 6, modificado por el Decreto 130 de 1998, art. 2 y por el Decreto 2424 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.2.7 — Responsabilidad y certificación de los retenedores
 
 Las personas naturales o jurídicas que actúen como agentes retenedores serán responsables por el valor de las cesiones causadas, por las cesiones recaudas y dejadas de recaudar y por las liquidaciones equivocadas o defectuosas.
@@ -9038,15 +7816,11 @@ El retenedor de las cesiones de estabilización deberá enviar mensualmente a la
 
 (Decreto 2354 de 1996, art. 7, modificado por el Decreto 130 de 1998, art. 3)
 
-ARTÍCULO
-
 ## art:2.11.2.8 — Comité Directivo
 
 El Comité Directivo del Fondo de Fomento Palmero cumplirá las funciones del Comité Directivo de Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones y se regirá por sus mismas reglas.
 
 (Decreto 2354 de 1996, art.8)
-
-ARTÍCULO
 
 ## art:2.11.2.9 — Funciones del Comité Directivo
 
@@ -9080,8 +7854,6 @@ PARÁGRAFO 2. El Comité Directivo del Fondo podrá deducir parcial o totalmente
 
 (Decreto 2354 de 1996, art.9)
 
-ARTÍCULO
-
 ## art:2.11.2.10 — Recursos
 
 El Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones estará conformado con los recursos a que se refiere el artículo 38 de la Ley 101 de 1993.
@@ -9090,8 +7862,6 @@ PARÁGRAFO . La entidad administradora del Fondo de Estabilización de Precios p
 
 (Decreto 2354 de 1996, art. 10)
 
-ARTÍCULO
-
 ## art:2.11.2.11 — Reserva para estabilización
 
 Del patrimonio del Fondo de Estabilización de Precios para el Palmiste, el Aceite de Palma y sus Fracciones se constituirá una cuenta denominada "Reserva para Estabilización". Esta reserva se formará con los recursos que ingresen al Fondo, en el porcentaje que determine el Comité Directivo.
@@ -9099,8 +7869,6 @@ Del patrimonio del Fondo de Estabilización de Precios para el Palmiste, el Acei
 Cuando al final de un ejercicio presupuesta/ se presente superávit en dicha cuenta, éste se deberá aplicar, en primer lugar, a cancelar el déficit de ejercicios anteriores y, en segundo término, a constituir o incrementar los recursos de la misma cuenta con el propósito de garantizar su destinación exclusiva a la estabilización de los respectivos precios.
 
 (Decreto 2354 de 1996, art.11)
-
-ARTÍCULO
 
 ## art:2.11.2.12 — Normas aplicables
 
@@ -9114,23 +7882,17 @@ TÍTULO 3
 
 Fondo de Estabilización para el Fomento de la Exportación de Carne, Leche y sus derivados
 
-ARTÍCULO
-
 ## art:2.11.3.1 — Organización
 
 Organizase (sic) el Fondo de Estabilización para el Fomento de la Exportación de Carne, Leche y sus derivados, el cual operará de conformidad con lo establecido en el Capítulo VI de la Ley 101 de 1993.
 
 (Decreto 1187 de 1999, en. 1)
 
-ARTÍCULO
-
 ## art:2.11.3.2 — Naturaleza jurídica
 
 El Fondo de Estabilización para el Fomento de la Exportación de Carne, Leche y sus derivados funcionará como una cuenta especial, administrada por la entidad que para el efecto contrate el Ministerio de Agricultura y Desarrollo Rural en los términos del artículo 37 de la Ley 101 de 1993.
 
 (Decreto 1187 de 1999, art. 2)
-
-ARTÍCULO
 
 ## art:2.11.3.3 — Mecanismos para la estabilización de precios
 
@@ -9150,8 +7912,6 @@ PARÁGRAFO . De conformidad con el parágrafo segundo del artículo 38 de la Ley
 
 (Decreto 1187 de 1999, art.3)
 
-ARTÍCULO
-
 ## art:2.11.3.4 — Retención y pago de las cesiones de estabilización
 
 Cuando la cesión de estabilización deba ser pagada por el productor, vendedor o exportador de carne, leche o sus derivados, estos mismos sujetos de la contribución parafiscal actuarán como agentes retenedores.
@@ -9163,8 +7923,6 @@ El agente retenedor contabilizará las cesiones en forma separada de sus propios
 PARÁGRAFO . El plazo para el pago de las cesiones de estabilización por parte de los retenedores al Fondo de Estabilización para el Fomento de la Exportación de Carne, Leche y sus Derivados, podrá ser hasta de dos (2) meses calendario siguientes al de la retención. Este plazo deberá guardar relación con los términos establecidos para el pago de las compensaciones de estabilización que realizará dicho Fondo a los productores, vendedores o exportadores de carne, leche o sus derivados.
 
 (Decreto 1187 de 1999, art.4)
-
-ARTÍCULO
 
 ## art:2.11.3.5 — Responsabilidad de las personas obligadas a retener
 
@@ -9189,8 +7947,6 @@ PARÁGRAFO 2. Las personas naturales, jurídicas o sociedades de hecho que actú
 PARÁGRAFO 3. La entidad administradora podrá solicitar a los productores y vendedores de carne, leche y sus derivados que participen en las transacciones a que se refiere el numeral tercero del presente artículo, el nombre o razón social y NIT de las personas a quienes vendieron los productos, indicando la cantidad vendida a cada una de ellas.
 
 (Decreto 1187 de 1999, art. 5)
-
-ARTÍCULO
 
 ## art:2.11.3.6 — Del Comité Directivo
 
@@ -9219,8 +7975,6 @@ PARÁGRAFO 1. Los miembros del Comité Directivo del Fondo de Estabilización pa
 PARÁGRAFO 2. El Comité se reunirá ordinariamente cuatro veces al año, y extraordinariamente cuando el Ministerio de Agricultura y Desarrollo Rural, la entidad administradora o tres de sus miembros lo convoquen.
 
 (Decreto 1187 de 1999, art. 6)
-
-ARTÍCULO
 
 ## art:2.11.3.7 — Funciones del Comité Directivo
 
@@ -9262,8 +8016,6 @@ PARÁGRAFO 3. El Fondo de Estabilización tendrá un secretario técnico de conf
 
 (Decreto 1187 de 1999, art. 7)
 
-ARTÍCULO
-
 ## art:2.11.3.8 — Recursos
 
 El Fondo de Estabilización de Precios para la Exportación de Carne, Leche y sus derivados estará conformado por los siguientes recursos:
@@ -9284,8 +8036,6 @@ PARÁGRAFO . La entidad administradora del Fondo de Estabilización para el Fome
 
 (Decreto 1187 de 1999, art.8)
 
-ARTÍCULO
-
 ## art:2.11.3.9 — Reserva para la estabilización
 
 Del patrimonio del Fondo de Estabilización para el Fomento de la Exportación de Carne, Leche y sus derivados, se constituirá una cuenta denominada "Reserva para la Estabilización". Esta reserva se formará con los recursos que ingresen al Fondo, en el porcentaje que determine el Comité Directivo.
@@ -9293,8 +8043,6 @@ Del patrimonio del Fondo de Estabilización para el Fomento de la Exportación d
 Cuando al final de un ejercicio presupuestal se presente superávit en dicha cuenta, éste se deberá aplicar en primer lugar, a cancelar el déficit de ejercicios anteriores y, en segundo término, a constituir o incrementar los recursos de la misma cuenta con el propósito de garantizar su destinación exclusiva al fomento de la exportación de carne, leche y sus derivados.
 
 (Decreto 1187 de 1999, art.9)
-
-ARTÍCULO
 
 ## art:2.11.3.10 — Normas aplicables
 
@@ -9308,15 +8056,11 @@ TÍTULO 4
 
 Fondo de Estabilización de precios para los azucares centrifugados, las melazas derivadas de la extracción o del refinamiento de azúcar y los jarabes de azúcar
 
-ARTÍCULO
-
 ## art:2.11.4.1 — Organización
 
 Organizase (sic) el Fondo de Estabilización de Precios para los Azúcares Centrifugados, las melazas derivadas de la extracción o del refinado de azúcar y los jarabes de azúcar, en adelante denominado el Fondo, de conformidad con los términos establecidos en el Capítulo VI de la Ley 101 de 1993.
 
 (Decreto 569 de 2000, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.4.2 — Productos objeto de estabilización
 
@@ -9325,8 +8069,6 @@ Serán objeto de estabilización los azúcares que correspondan a las posiciones
 (Decreto 569 de 2000, art. 2)
 
 (Modificado por el Decreto 109 de 2019, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.4.3 — Naturaleza jurídica y administración
 
@@ -9337,8 +8079,6 @@ PARÁGRAFO 1. La entidad administradora manejará los recursos que conforman el 
 PARÁGRAFO 2. La entidad administradora podrá recibir por su gestión una contraprestación hasta del 2 por mil del valor del recaudo originado en pagos de cesiones de estabilización que se efectúen al Fondo. En el contrato de administración que celebre el Ministerio de Agricultura y Desarrollo Rural, se determinará el momento y la forma como se causará la mencionada contraprestación.
 
 (Decreto 569 de 2000, art.3)
-
-ARTÍCULO
 
 ## art:2.11.4.4 — Mecanismos para la estabilización de precios
 
@@ -9358,8 +8098,6 @@ PARÁGRAFO 2. Para los efectos de este título, entiéndase por productor la per
 
 (Decreto 569 de 2000, art. 4)
 
-ARTÍCULO
-
 ## art:2.11.4.5 — Precios, cesiones y compensaciones diferenciales
 
 El Comité Directivo del Fondo podrá determinar varios precios de referencia o franjas de precio de referencia, y diferentes porcentajes de cesiones o compensaciones, si las diferencias en las calidades de los productos respectivos o las condiciones especiales de cada mercado así lo ameriten. Igualmente, determinará la metodología para el cálculo del precio en los mercados internos y de exportaciones.
@@ -9367,8 +8105,6 @@ El Comité Directivo del Fondo podrá determinar varios precios de referencia o 
 PARÁGRAFO . El Comité Directivo del Fondo podrá deducir parcial o totalmente de las compensaciones por realizar el equivalente al Certificado de Reembolso Tributario-CERT, si las exportaciones se benefician de dicho incentivo. Así mismo, podrá descontar parcial o totalmente las preferencias arancelarias otorgadas en los mercados de exportación.
 
 (Decreto 569 de 2000, art. 5)
-
-ARTÍCULO
 
 ## art:2.11.4.6 — Retención y pago de cesiones de estabilización
 
@@ -9382,23 +8118,17 @@ PARÁGRAFO 3. El retenedor de las cesiones, las declarará y pagará dentro de l
 
 (Decreto 569 de 2000, art.6)
 
-ARTÍCULO
-
 ## art:2.11.4.7 — Mora
 
 Las personas obligadas al pago y retención de las cesiones que incurran en mora en el cumplimiento de la obligación establecida en este artículo, pagarán los intereses de mora que se causen a la tasa establecida para el Impuesto de Renta y Complementarios.
 
 (Decreto 569 de 2000, art. 7)
 
-ARTÍCULO
-
 ## art:2.11.4.8 — Comité Directivo-Conformación
 
 El Comité Directivo del Fondo estará integrado por el Ministro de Agricultura y Desarrollo Rural o su delegado quien lo presidirá, el Ministro de Comercio Exterior o su delegado, siete (7) representantes de los productores de azucares centrifugados o sus suplentes y cuatro (4) representantes de los cultivadores de caria o sus suplentes.
 
 (Decreto 13 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.11.4.9 — Funciones del Comité Directivo
 
@@ -9436,23 +8166,17 @@ El Comité Directivo del Fondo cumplirá las siguientes funciones:
 
 (Decreto 569 de 2000, art.9)
 
-ARTÍCULO
-
 ## art:2.11.4.10 — Secretario Técnico del Comité Directivo
 
 El Secretario Técnico del Comité Directivo del Fondo, será designado conforme lo dispone el artículo 44 de la Ley 101 de 1993.
 
 (Decreto 569 de 2000, art. 10)
 
-ARTÍCULO
-
 ## art:2.11.4.11 — Recursos
 
 El Fondo estará conformado con recursos provenientes de las cesiones que los productores, vendedores y exportadores hagan al fondo; los que le aporten personas naturales o jurídicas de derecho privado; los rendimientos de las inversiones temporales que se efectúen con los recursos del fondo en títulos emitidos, avalados, aceptados o garantizados en cualquier otra forma por la Nación, o en valores de alta rentabilidad, seguridad y liquidez expedidos por el Banco de la República y otros establecimientos financieros.
 
 (Decreto 569 de 2000, art. 11)
-
-ARTÍCULO
 
 ## art:2.11.4.12 — Reserve para estabilización
 
@@ -9461,8 +8185,6 @@ Con patrimonio del Fondo se constituirá una cuenta denominada "Reserva para est
 Cuando al final de un ejercicio presupuestal, se presente superávit en dicha cuenta, este se deberá aplicar, en primer lugar a cancelar el déficit de ejercicios anteriores y en segundo término, a constituir o incrementar los recursos de la misma cuenta con el propósito de garantizar su destinación exclusiva a la estabilización de los respectivos precios.
 
 (Decreto 569 de 2000, art. 12)
-
-ARTÍCULO
 
 ## art:2.11.4.13 — Normas aplicables
 
@@ -9474,23 +8196,17 @@ TÍTULO 5
 
 Fondo de Estabilización de Precios del Algodón
 
-ARTÍCULO
-
 ## art:2.11.5.1 — Transformación del fondo
 
 Transformase el Fondo de Estabilización de Precios del Algodón, cuyo funcionamiento fue autorizado mediante el Decreto No. 2196 del 30 de diciembre de 1992, en un Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros, en los términos del Capítulo VI de la Ley 101 de 1993.
 
 (Decreto 1827 de 1996, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.5.2 — Objeto
 
 El Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros para el Algodón tendrá por objeto procurar un ingreso remunerativo para los productores, regular la producción nacional e incrementar las exportaciones, mediante el financiamiento de la estabilización de los precios al productor del algodón.
 
 (Decreto 182 7 de 1996, art. 2)
-
-ARTÍCULO
 
 ## art:2.11.5.3 — Naturaleza jurídica del fondo
 
@@ -9499,8 +8215,6 @@ El Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros pa
 Igualmente, este Fondo podrá ser administrado por otras entidades o por intermedio de contratos de fiducia, de acuerdo con la decisión y el contrato que para el efecto adopte y celebre el Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 1827 de 1996, art. 3)
-
-ARTÍCULO
 
 ## art:2.11.5.4 — Comité Directivo
 
@@ -9517,8 +8231,6 @@ El Comité Directivo del Fondo de Estabilización de Precios del Algodón estar�
 PARÁGRAFO . Corresponde al Ministro de Agricultura y Desarrollo Rural designar los representantes de los productores y exportadores de algodón, para períodos de dos (2) años, con base en las ternas remitidas por las agremiaciones representativas del producto.
 
 (Decreto 1827 de 1996, art. 4)
-
-ARTÍCULO
 
 ## art:2.11.5.5 — Funciones del Comité
 
@@ -9552,8 +8264,6 @@ PARÁGRAFO 2. El Comité Directivo del Fondo podrá deducir parcial o totalmente
 
 (Decreto 1827 de 1996, art. 5)
 
-ARTÍCULO
-
 ## art:2.10.5.6 — 5.6
 
 El Comité Directivo del Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros para el Algodón se reunirá ordinariamente cada tres (3) meses y extraordinariamente cuando sea convocado por su Presidente. Para este efecto, el Secretario Técnico del Fondo, con la debida antelación, efectuara las citaciones correspondientes.
@@ -9564,8 +8274,6 @@ PARÁGRAFO 2. Las reuniones de este Comité Directivo, así como sus decisiones,
 
 (Decreto 1827 de 1996, art.6)
 
-ARTÍCULO
-
 ## art:2.11.5.7 — Secretario Técnico
 
 El Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros para el Algodón, tendrá un Secretario Técnico, que será designado por su Comité Directivo, con el voto favorable del Ministro de Agricultura y Desarrollo Rural o su delegado, quien deberá actuar siguiendo las directrices trazadas por el Comité Directivo. El Secretario Técnico podrá ser también ordenador de gastos del Fondo.
@@ -9573,8 +8281,6 @@ El Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros pa
 PARÁGRAFO . El Secretario Técnico se vinculara mediante Contrato de Prestación de Servicios que pagara la Entidad Administradora del Fondo, con cargo a los recursos del mismo.
 
 (Decreto 1827 de 1996, art. 7)
-
-ARTÍCULO
 
 ## art:2.11.5.8 — Procedimiento para las operaciones del Fondo
 
@@ -9591,8 +8297,6 @@ PARÁGRAFO 1. El porcentaje de la diferencia entre ambos precios que determinar�
 PARÁGRAFO 2. Las cesiones y las compensaciones de estabilización se aplicaran en todos los casos a las operaciones de exportación. No obstante, el Comité Directivo del Fondo establecerá si dichas cesiones o compensaciones se aplican igualmente a las operaciones de venta interna.
 
 (Decreto 1827 de 1996, art. 8)
-
-ARTÍCULO
 
 ## art:2.11.5.9 — Patrimonio del fondo
 
@@ -9624,8 +8328,6 @@ PARÁGRAFO 2. Previo concepto favorable de la Comisión Nacional de Crédito Agr
 
 (Decreto 1827 de 1996, art.9)
 
-ARTÍCULO
-
 ## art:2.11.5.10 — Reserva para Estabilización
 
 El patrimonio del Fondo de Estabilización de Precios de Productos Agropecuarios y Pesqueros para el Algodón, constituirá una cuenta denominada Reserva para Estabilización. Esta reserva se formara con los recursos que ingresan al Fondo, en el porcentaje que determine el Comité Directivo.
@@ -9633,8 +8335,6 @@ El patrimonio del Fondo de Estabilización de Precios de Productos Agropecuarios
 Cuando al final de un ejercicio presupuestal se presente superávit en dicha cuenta, este se deberá aplicar, en primer lugar, a cancelar el déficit de ejercicios anteriores y, en segundo término, a constituir o incrementar los recursos de la misma cuenta, con el propósito de garantizar su destinación exclusiva a la estabilización de los respectivos precios.
 
 (Decreto 1827 de 1996, art. 10)
-
-ARTÍCULO
 
 ## art:2.11.5.11 — Convenios de Estabilización
 
@@ -9660,15 +8360,11 @@ TÍTULO 6
 
 FONDO DE ESTABILIZACIÓN DE PRECIOS DEL CAFÉ
 
-ARTÍCULO
-
 ## art:2.11.6.1 — De la operación del FEP
 
 El contrato específico de administración suscrito entre la Federación Nacional de Cafeteros y el Gobierno Nacional definirá las responsabilidades de las partes en materia de estructuración, auditoría e implementación de los mecanismos de estabilización, atenderá la operación del Fondo de Estabilización de Precios del Café y se sujetará al reglamento operativo que expida el Comité Directivo.
 
 PARÁGRAFO 1. Por la administración de este Fondo no se reconocerá una contraprestación. No obstante, los costos y gastos imputables a la administración del Fondo y a la operación de los respectivos mecanismos que se definan en el contrato de administración estarán relacionados únicamente con su administración y funcionamiento, y en todo caso tendrán que estar diferenciados de los cubiertos por la contraprestación derivada de la administración del Fondo Nacional del Café.
-
-ARTÍCULO
 
 ## art:2.11.6.2 — Competencias del Comité Directivo
 
@@ -9688,21 +8384,15 @@ Además de las funciones enunciadas en el artículo 6 de la Ley 1969 de 2019, en
 
 7. Las demás funciones que señale el Contrato de Administración del Fondo de Estabilización de Precios del Café.
 
-ARTÍCULO
-
 ## art:2.11.6.3 — Recursos adicionales
 
 El Comité Nacional de Cafeteros transferirá como fuente de financiación del Fondo de Estabilización de Precios del Café los recursos no ejecutados que haya transferido el Gobierno Nacional al Fondo Nacional del Café para la financiación de mecanismos de estabilización de precios del café con anterioridad a la promulgación de la Ley 1969 de 2019.
-
-ARTÍCULO
 
 ## art:2.11.6.4 — 6.4
 
 EL rol del administrador del Fondo de Estabilización de Precios del Café como certificador de la producción y del productor. La Federación Nacional de Cafeteros deberá certificar que el productor se encuentra registrado en el Sistema de Información Cafetera - SIGA y que la cantidad de café por la cual cada productor pretenda recibir los beneficios de los mecanismos de estabilización es acorde con la metodología de estimación de los volúmenes máximos que pueden ser objeto de estabilización fijados por el Comité Nacional de Cafeteros, como Comité Directivo del Fondo de Estabilización de Precios del Café.
 
 En todo caso la metodología acordada tendrá como propósito determinar la cantidad máxima de café que será objeto de estabilización y no estimar la producción real de café de cada productor.
-
-ARTÍCULO
 
 ## art:2.11.6.5 — Las obligaciones del productor
 
@@ -9711,8 +8401,6 @@ Para acceder a los mecanismos de estabilización de precios del Fondo de Estabil
 PARÁGRAFO 1. El Comité Directivo podrá establecer controles y obligaciones adicionales a los mecanismos asociados a la comercialización mediante el reglamento operativo que expida para el respectivo mecanismo. Cualquier irregularidad identificada por el administrador del fondo en la operación de los mecanismos de estabilización respecto de las facturas o documentos equivalentes, deberá ser comunicada a las autoridades competentes.
 
 PARÁGRAFO 2. Cuando el mecanismo de estabilización no esté asociado a la comercialización del café el Comité Directivo establecerá las obligaciones de los productores relacionadas con el respectivo mecanismo.
-
-ARTÍCULO
 
 ## art:2.11.6.6 — Auditoria
 
@@ -9760,23 +8448,17 @@ TÍTULO 1
 
 Fondos Ganaderos
 
-ARTÍCULO
-
 ## art:2.12.1.1 — Actividad pecuaria
 
 Para efectos de la aplicación del parágrafo 1 del artículo 2 de la Ley 363 de 1997, entiéndase por actividad pecuaria el desarrollo y ejecución de las diferentes etapas de la producción, comercialización, industrialización, inversión y distribución, incluidas la prestación de servicios, la investigación y el desarrollo, la capacitación, el beneficio o aprovechamiento industrial o agroindustrial y la explotación comercial, en cualquier tipo de ganado mayor y menor.
 
 (Decreto 3991 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.12.1.2 — Reserva para reposición de semovientes
 
 Corresponde a la entidad encargada de inspeccionar, vigilar y controlar a los Fondos Ganaderos, establecer los sistemas para determinar la reserva para reposición de semovientes, señalada en el artículo 14 de la Ley 363 de 1997.
 
 (Decreto 1615 de 1998, art.17)
-
-ARTÍCULO
 
 ## art:2.12.1.3 — Funciones de Fedefondos
 
@@ -9791,8 +8473,6 @@ La Federación de Fondos Ganaderos - Fedefondos-, como representante nacional de
 4. Coordinar con los Fondos Ganaderos, y presentar al Ministerio de Agricultura y Desarrollo Rural, para su aprobación, los programas de extensión agropecuaria que se desarrollen en cumplimiento de las siguientes normas.
 
 (Decreto 1615 de 1998, art. 18)
-
-ARTÍCULO
 
 ## art:2.12.1.4 — Actividades de Extensión Agropecuaria
 
@@ -9812,8 +8492,6 @@ PARÁGRAFO . Se consideran actividades de extensión agropecuaria las siguientes
 
 (Decreto 1708 de 1996, art. 1)
 
-ARTÍCULO
-
 ## art:2.12.1.5 — Definiciones
 
 Para efectos del artículo 2.12.1.4 de este decreto, adáptense las siguientes definiciones:
@@ -9825,8 +8503,6 @@ Asistentes Técnicos Extensionistas: Profesionales del sector agropecuario que r
 Área de influencia: La zona geográfica donde el Fondo Ganadero ejecuta sus actividades.
 
 (Decreto 1708 de 1996, art. 2.)
-
-ARTÍCULO
 
 ## art:2.12.1.6 — Plan de actividades
 
@@ -9840,15 +8516,11 @@ TÍTULO 2
 
 Procedimiento para la enajenación de la participación accionaria que los organismos y entidades del orden nacional, así como las entidades descentralizadas del mismo orden, posean en los Fondos Ganaderos, Centrales de Abastos y las Empresas del Fondo Emprender relacionadas con el sector agropecuario
 
-ARTÍCULO
-
 ## art:2.12.2.1 — Objeto
 
 Establecer el procedimiento que debe seguirse para la enajenación de las participaciones sociales que los organismos y entidades del orden nacional, así como las entidades descentralizadas del mismo orden, posean en los Fondos Ganaderos, las Centrales de Abastos y las Empresas del Fondo Emprender relacionadas con el sector agropecuario.
 
 (Decreto 804 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.12.2.2 — Ámbito de aplicación
 
@@ -9857,8 +8529,6 @@ Aplica a los procesos de enajenación de participaciones sociales que adelanten 
 PARÁGRAFO . Los mencionados organismos y entidades del orden nacional, así como las entidades descentralizadas tendrán para los efectos del presente proceso, la condición de oferentes.
 
 (Decreto 804 de 2013, art.2)
-
-ARTÍCULO
 
 ## art:2.12.2.3 — Preferencia
 
@@ -9876,8 +8546,6 @@ PARÁGRAFO 4. Se entenderán como organizaciones del sector solidario, aquellas 
 
 (Decreto 804 de 2013, art.3)
 
-ARTÍCULO
-
 ## art:2.12.2.4 — Agotamiento del ofrecimiento a los trabajadores y las organizaciones solidarias y de trabajadores
 
 El ofrecimiento a los trabajadores y las organizaciones solidarias y de trabajadores que trata el artículo anterior, se entenderá agotado en cualquiera de los siguientes eventos: (i) cuando no haya aceptación de los sectores; (ii) cuando luego de la adquisición de participaciones sociales por parte de entidades de los trabajadores y las organizaciones solidarias y de trabajadores, aún queden algunas de estas en cabeza de los organismos y entidades del orden nacional, así como de entidades descentralizadas, inicialmente propietarias.
@@ -9885,8 +8553,6 @@ El ofrecimiento a los trabajadores y las organizaciones solidarias y de trabajad
 PARÁGRAFO . Para efectos del literal (ii) del presente artículo, se entenderá que el proceso de enajenación deberá continuar para las participaciones que no hayan sido adquiridas.
 
 (Decreto 804 de 2013, art.4)
-
-ARTÍCULO
 
 ## art:2.12.2.5 — 2.5
 
@@ -9900,8 +8566,6 @@ PARÁGRAFO . Los organismos y entidades del orden nacional, así como las entida
 
 (Decreto 804 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.12.2.6 — Aceptación del ofrecimiento por parte de dos o más entidades territoriales de igual o diferente nivel
 
 En los casos en los que la aceptación del ofrecimiento sea efectuada por más de una entidad territorial, ya sea del departamental, distrital o municipal, se podrá aceptar el ofrecimiento de manera parcial por cada una de ellas, siempre y cuando se enajenen la totalidad de las participaciones sociales ofertadas.
@@ -9914,23 +8578,17 @@ PARÁGRAFO . Un ofrecimiento se entenderá desierto cuando la única aceptación
 
 (Decreto 804 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.12.2.7 — Celebración del contrato de compraventa
 
 Una vez cumplido el término previsto en el artículo 2.12.2.5, para la aceptación del ofrecimiento hecho por los organismos o entidades oferentes, y siempre que se cumplan los términos y condiciones contenidas en el presente título, así como en el Programa de Enajenación, se procederá a realizar la enajenación mediante la celebración de un contrato de compraventa entre la entidad u organismo oferente y el organismo u organismos aceptantes.
 
 (Decreto 804 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.12.2.8 — Agotamiento del ofrecimiento a las entidades territoriales
 
 Se entenderá agotado el ofrecimiento de las participaciones sociales en los Fondos Ganaderos, las Centrales de Abastos y las Empresas del Fondo Emprender relacionadas con el sector agropecuario a las entidades territoriales donde se encuentren domiciliadas dichas empresas, en cualquiera de los siguientes eventos: (i) cuando las entidades territoriales no presenten aceptaciones al ofrecimiento dentro del plazo de que trata el artículo 2.12.2.5, del presente decreto; (ii) cuando las entidades territoriales no presenten aceptaciones para adquirir la totalidad de las participaciones sociales ofrecidas en venta, sin perjuicio de lo contemplado en el artículo 2.12.2.4.; (iii) cuando las aceptaciones no se ajusten a los términos del presente decreto y a las demás condiciones y requisitos del correspondiente Programa de Enajenación.
 
 (Decreto 804 de 2013, art.8)
-
-ARTÍCULO
 
 ## art:2.12.2.9 — Ofrecimiento de la participación en los Fondos Ganaderos
 
@@ -9940,8 +8598,6 @@ PARÁGRAFO . Para la enajenación prevista en este artículo, el valor de enajen
 
 (Decreto 804 de 2013, art.9)
 
-ARTÍCULO
-
 ## art:2.12.2.10 — .10
 
 Ofrecimiento de la participación en las Centrales de Abastos y las Empresas del Fondo Emprender relacionadas con el sector agropecuario. Agotados los ofrecimientos que tratan los artículos 2.12.2.3. y 2.12.2.5, del presente decreto, el organismo o entidad estatal propietaria de la participación social en las Centrales de Abastos y las Empresas del Fondo Emprender relacionadas con el sector agropecuario, procederá a ofrecer la totalidad de su participación, en primer lugar, a los accionistas, en los términos previstos en los estatutos, y agotado este paso, al público en general.
@@ -9950,8 +8606,6 @@ PARÁGRAFO . Para la enajenación prevista en este artículo, el valor de la ena
 
 (Decreto 804 de 2013, art.10)
 
-ARTÍCULO
-
 ## art:2.12.2.11 — Comité de Venta de Activos
 
 Todas las enajenaciones que se pretendan realizar en los términos del presente título, deberán ser autorizadas por el Ministro de la cartera propietaria de las participaciones sociales, previa recomendación de un Comité de Venta de Activos conformado por un delegado del Ministro de Hacienda y Crédito Público, un delegado del Ministro de Agricultura y Desarrollo Rural y un delegado del Director del Departamento Nacional de Planeación, recomendación que deberá contemplar la forma en que se dé cumplimiento a los requisitos del presente decreto.
@@ -9959,8 +8613,6 @@ Todas las enajenaciones que se pretendan realizar en los términos del presente 
 Adicionalmente, este Comité tendrá como función la de determinar previamente las participaciones que se ofrecerán en venta, bajo el procedimiento indicado en el presente decreto.
 
 (Decreto 804 de 2013, art.11)
-
-ARTÍCULO
 
 ## art:2.12.2.12 — Programa de Enajenación
 
@@ -9973,8 +8625,6 @@ El Programa de Enajenación será presentado por el organismo o entidad del orde
 El organismo o entidad del orden nacional, así como las entidades descentralizadas del mismo orden, propietaria de las participaciones objeto de la enajenación, deberá: (i) verificar el cumplimiento de los requisitos establecidos en la ley y el Programa de Enajenación para el respectivo proceso; y (ii) llevar a cabo la adjudicación de las participaciones sociales objeto de enajenación, a que se refiere el presente decreto.
 
 (Decreto 804 de 2013, art. 12)
-
-ARTÍCULO
 
 ## art:2.12.2.13 — Precio y forma de pago
 
@@ -9989,8 +8639,6 @@ Para efectos de la determinación del precio y la forma de pago que se establece
 4. Para efectos de satisfacer el pago del precio de la enajenación efectuada a las entidades territoriales donde se encuentren domiciliadas las respectivas empresas, se podrá realizar un proceso de compensación de cuentas o cartera entre la Nación y las entidades territoriales interesadas, de conformidad con lo establecido en el artículo 259 de la Ley 1450 de 2011.
 
 (Decreto 804 de 2013, art. 13)
-
-ARTÍCULO
 
 ## art:2.12.2.14 — Cancelación del registro de acciones inscritas en el Registro Nacional de Valores y Emisores
 
@@ -10016,8 +8664,6 @@ PARÁGRAFO . Para la enajenación prevista en este artículo, el valor de la ena
 
 (Decreto 804 de 2013, art.10)
 
-ARTÍCULO
-
 ## art:2.12.4.1 — Representatividad de los Integrantes de las Organizaciones de Cadena
 
 Cuando se trate de personas jurídicas, los integrantes de las organizaciones de cadena, actuarán a través de sus representantes legales. La calidad de representatividad de los integrantes de las organizaciones de cadena que fija el artículo 1 de la Ley 811 de 2003 modificatorio del artículo 101 de la Ley 101 de 1993, será acreditada por el Ministerio de Agricultura y Desarrollo Rural, previa verificación de la vigencia de su personería jurídica y del aval de los demás gremios y organizaciones representativos de dicho eslabón.
@@ -10032,8 +8678,6 @@ PARÁGRAFO 3. El aval que deberán otorgar los gremios y organizaciones represen
 
 (Decreto 3800 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.12.4.2 — Inscripción de las Organizaciones de Cadenas
 
 En concordancia con lo establecido en el artículo 1 . de la Ley 811 de 2003 que adiciona el artículo 102 a la Ley 101 de 1993, para el caso de más de una solicitud de inscripción de una misma Organización de Cadena a nivel Nacional, el Ministerio de Agricultura buscará el consenso necesario, con la participación de representantes de las Organizaciones interesadas y de los comités regionales de cadena que al momento estén operando, con el objeto de que en cualquier caso se inscriba una sola Organización de Cadena por producto o grupo de productos a nivel nacional.
@@ -10045,8 +8689,6 @@ PARÁGRAFO 2. La participación como miembro representativo de la producción de
 PARÁGRAFO 3. En caso de no presentarse el consenso de que trata este artículo se levantará un acta suscrita por los representantes de las Organizaciones interesadas y de los comités regionales de cadena que al momento estén operando, en la que se haga constar que el Ministerio de Agricultura y Desarrollo Rural agotó todas las vías para conseguir el consenso necesario de que trata este artículo.
 
 (Decreto 3800 de 2006, art. 2)
-
-ARTÍCULO
 
 ## art:2.12.4.3 — Requisitos para la Inscripción
 
@@ -10064,8 +8706,6 @@ En desarrollo del artículo 1 de la Ley 811 de 2003 que adiciona el artículo 10
 
 (Decreto 3800 de 2006, art. 3)
 
-ARTÍCULO
-
 ## art:2.12.4.4 — Acuerdos en Materia Comercial
 
 Se entiende por acuerdos en materia comercial concertados dentro de las organizaciones de cadena, los relativos a un producto o grupo de productos específicos orientados a regular su comercio o los acuerdos entre los miembros de una cadena en aspectos de precios, regulación de la demanda y la oferta, normas de sanidad, calidad, inocuidad, etiquetado, empaque y pesos y medidas, entre otros. En ningún caso, los acuerdos podrán contrariar disposiciones de orden público sobre las materias objeto de los mismos.
@@ -10074,15 +8714,11 @@ PARÁGRAFO . Al tenor de lo establecido en el parágrafo del artículo 104 de la
 
 (Decreto 3800 de 2006, art. 4)
 
-ARTÍCULO
-
 ## art:2.12.4.5 — Autorización de los Acuerdos Comerciales
 
 Los acuerdos en materia comercial, concertados dentro de las organizaciones de cadena de que trata la Ley 811 de 2003, que impliquen contravención a lo previsto en las disposiciones sobre prácticas comerciales restrictivas y promoción de la competencia deberán ser autorizados por el Superintendente de Industria y Comercio en los términos previstos en el parágrafo del artículo 1o de la Ley 155 de 1959.
 
 (Decreto 3800 de 2006, art. 5)
-
-ARTÍCULO
 
 ## art:2.12.4.6 — Depósito de los Acuerdos en Materia Comercial
 
@@ -10090,15 +8726,11 @@ En todo caso, los acuerdos en materia comercial, concertados dentro de las organ
 
 (Decreto 3800 de 2006, art. 6)
 
-ARTÍCULO
-
 ## art:2.12.4.7 — Vigilancia
 
 En los términos del parágrafo del artículo 104 de la Ley 101 de 1993 adicionado por la Ley 811 de 2003, la Superintendencia de Industria y Comercio se encargará de vigilar el cumplimiento de los acuerdos en materia comercial concertados dentro de las organizaciones de cadena de que trata la Ley 811 de 2003, en concordancia con las normas sobre prácticas comerciales restrictivas, competencia desleal y derechos del consumidor y en ejercicio de las funciones que legalmente le corresponden.
 
 (Decreto 3800 de 2006, art. 7)
-
-ARTÍCULO
 
 ## art:2.12.4.8 — Infracción de los Acuerdos
 
@@ -10110,15 +8742,11 @@ PARÁGRAFO . En todo caso, las partes que suscriban un acuerdo en materia comerc
 
 (Decreto 3800 de 2006, art. 8)
 
-ARTÍCULO
-
 ## art:2.12.4.9 — Organización Nacional de Cadena
 
 El Gobierno Nacional participará en la Organización Nacional de Cadena, a través del Ministerio de Agricultura y Desarrollo Rural. Sin embargo, cuando se considere pertinente, el Ministerio de Agricultura convocará la participación de otras entidades u organismos estatales relacionados con la materia a tratar. En el ámbito regional ya sea como Organización o como Comité de la Organización Nacional, actuará la Secretaría de Agricultura, quien podrá cuando lo considere pertinente, convocar a otras entidades públicas del orden regional.
 
 (Decreto 3800 de 2006, art. 9)
-
-ARTÍCULO
 
 ## art:2.12.4.10 — Compromisos del Gobierno Nacional
 
@@ -10126,15 +8754,11 @@ Los compromisos adquiridos por el Gobierno Nacional en el acuerdo de competitivi
 
 (Decreto 3800 de 2006, art. 10)
 
-ARTÍCULO
-
 ## art:2.12.4.11 — Posibilidad de Constitución de Personas Jurídicas
 
 Con el propósito de tramitar los aportes de los miembros de las Organizaciones de Cadena, tanto del sector público como del privado y, en cumplimiento del artículo 107 de la Ley 101 de 1993 adicionado por la Ley 811 de 2003, las Organizaciones de Cadenas Nacionales podrán constituirse en Persona Jurídica, cuando sus miembros así lo determinen.
 
 (Decreto 3800 de 2006, art. 11)
-
-ARTÍCULO
 
 ## art:2.12.4.12 — Informe Anual de las Organizaciones de Cadena
 
@@ -10148,8 +8772,6 @@ TÍTULO 5
 
 Funciones de la Caja de Crédito Agrario, Industrial y Minero S.A. en Liquidación
 
-ARTÍCULO
-
 ## art:2.12.5.1 — Depósitos Judiciales, Consignación de Multas y de Cauciones
 
 Las funciones de recibo, depósito y administración de los dineros que por mandato legal se depositaban en la Caja de Crédito Agrario, Industrial y Minero S. A. en liquidación, serán asumidas por el Banco Agrario de Colombia S.A. el cual sustituirá a la Caja en los derechos y obligaciones inherentes a dichas funciones.
@@ -10157,8 +8779,6 @@ Las funciones de recibo, depósito y administración de los dineros que por mand
 La cesión de los derechos y obligaciones derivados de los depósitos judiciales que en la actualidad poseen los establecimientos bancarios distintos de la Caja de Crédito Agrario, Industrial y Minero S. A. en liquidación y el Banco Central Hipotecario, se hará al Banco Agrario de Colombia S. A.
 
 (Decreto 2419 de 1999, art. 1)
-
-ARTÍCULO
 
 ## art:2.12.5.2 — Subsidio Familiar de Vivienda Rural
 
@@ -10170,23 +8790,17 @@ TÍTULO 6
 
 Incentivos y apoyos directos a los productores agropecuarios
 
-ARTÍCULO
-
 ## art:2.12.6.1 — Otorgamiento de Incentivos
 
 Otorgar, previa disponibilidad presupuestal, al productor agropecuario de aquellos cultivos que hayan venido perdiendo área sembrada y por ende su producción por efectos de la baja rentabilidad, incentivos y apoyos económicos directo, a fin de contribuir al sostenimiento de sus ingresos mientras se modernizan o reconvierten estos cultivos.
 
 (Decreto 2377 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.12.6.2 — Áreas de Aplicación, Productos y Montos
 
 El Ministerio de Agricultura y Desarrollo Rural determinará las áreas de aplicación, los productos y los montos de los incentivos y apoyos directos para los productores agropecuarios y pesqueros a que se refieren los artículos anteriores en relación al área productiva o a sus volúmenes de producción, previo concepto del Consejo Nacional Agropecuario y Agroindustrial.
 
 (Decreto 2377 de 1997, art. 2)
-
-ARTÍCULO
 
 ## art:2.12.6.3 — Ejecución de Programas de Incentivo
 
@@ -10199,8 +8813,6 @@ TÍTULO 7
 (Modificado por el Art. 1 del Decreto 211 de 2020)
 
 DEL SEGURO AGROPECUARIO
-
-ARTÍCULO
 
 ## art:2.12.7.1 — Coberturas del seguro agropecuario
 
@@ -10286,15 +8898,11 @@ CAPÍTULO 1
 
 Ámbito de Aplicación
 
-ARTÍCULO
-
 ## art:2.13.1.1.1 — Ámbito de Aplicación
 
 El ámbito de aplicación de la presente Parte cubre todas las especies animales y vegetales y sus productos, el material genético animal y las semillas para la siembra existentes en Colombia o que se encuentren en proceso de introducción al territorio nacional, como también los insumos agropecuarios.
 
 (Decreto 1840 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.1.1.2 — Acciones y disposiciones
 
@@ -10323,8 +8931,6 @@ El manejo de la sanidad animal, de la sanidad vegetal, el control técnico de lo
 CAPÍTULO 2
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.13.1.2.1 — ; Definiciones
 
@@ -10576,8 +9182,6 @@ CAPÍTULO 3
 
 De las Campañas de prevención, erradicación y manejo de plagas y enfermedades
 
-ARTÍCULO
-
 ## art:2.13.1.3.1 — Funciones del ICA
 
 Corresponde al Instituto Colombiano Agropecuario, ICA, coordinar las acciones relacionadas con las campañas de prevención, control, erradicación y manejo de plagas y enfermedades de importancia cuarentenaria o de interés económico nacional o local. Para el efecto, tendrá las siguientes atribuciones:
@@ -10594,15 +9198,11 @@ CAPÍTULO 4
 
 De la Cuarentena Agropecuaria
 
-ARTÍCULO
-
 ## art:2.13.1.4.1 — Cuarentena agropecuaria
 
 La cuarentena agropecuaria comprende todas aquellas medidas encaminadas a regular, restringir o prohibir la producción o la importación de animales, vegetales y sus productos, y restringir el movimiento o existencia de los mismos, con la finalidad de prevenir la introducción, dispersión o diseminación de plagas, enfermedades, malezas u otros organismos que afectan o puedan afectar la sanidad animal o la sanidad vegetal del país, o de impedir el ingreso, la comercialización o la salida del país de productos con residuos tóxicos que excedan los niveles aceptados nacional o internacionalmente.
 
 (Decreto 1840 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.13.1.4.2 — Atribuciones del ICA
 
@@ -10634,8 +9234,6 @@ CAPÍTULO 5
 
 Del Diagnóstico y la vigilancia sanitaria y epidemiológica animal y vegetal
 
-ARTÍCULO
-
 ## art:2.13.1.5.1 — Diagnóstico y Vigilancia
 
 El diagnóstico y la vigilancia sanitaria y epidemiológica animal y vegetal, comprenderán todas las acciones encaminadas a la detección, determinación y cuantificación de problemas sanitarios de las distintas especies animales y vegetales, en todo el país o dentro de zonas o áreas específicas del mismo con el objeto de evaluar su importancia y adoptar medidas para su prevención, control, manejo y erradicación. En consecuencia, el ICA, ya sea directamente, o preferiblemente en asocio con otras entidades o a través de organismos acreditados, deberá establecer los mecanismos que considere necesarios para:
@@ -10654,8 +9252,6 @@ El diagnóstico y la vigilancia sanitaria y epidemiológica animal y vegetal, co
 
 (Decreto 1840 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.13.1.5.2 — Laboratorios
 
 El ICA dispondrá de laboratorios de diagnóstico animal y vegetal y de servicios de referencias, sin perjuicio de poder acreditar a otros laboratorios públicos o privados, los cuales quedarán bajo la coordinación y supervisión de aquellos de referencia del ICA.
@@ -10665,8 +9261,6 @@ El ICA dispondrá de laboratorios de diagnóstico animal y vegetal y de servicio
 CAPÍTULO 6
 
 Del Control Técnico de los Insumos Agropecuarios, Material Genético Animal y Semillas para Siembra
-
-ARTÍCULO
 
 ## art:2.13.1.6.1 — Control Técnico
 
@@ -10702,8 +9296,6 @@ CAPÍTULO 7
 
 De la Acreditación de Empresas Especializadas
 
-ARTÍCULO
-
 ## art:2.13.1.7.1 — Acreditación de Empresas Especializadas
 
 El Instituto Colombiano Agropecuario, ICA podrá acreditar personas jurídicas del sector oficial o particular, para el ejercicio de actividades relacionadas con la Sanidad Animal, la Sanidad Vegetal y el Control Técnico de los Insumos Agropecuarios, dentro de las normas y procedimientos que se establezcan para el efecto.
@@ -10714,15 +9306,11 @@ CAPÍTULO 8
 
 De las Emergencias Sanitarias
 
-ARTÍCULO
-
 ## art:2.13.1.8.1 — Emergencia sanitaria
 
 Cuando un problema sanitario amenace severamente la salud animal o la sanidad vegetal, el Gobierno Nacional, por intermedio del Instituto Colombiano Agropecuario -ICA-, podrá declarar el estado de emergencia sanitaria, dentro del cual se tomarán las medidas previstas en este capítulo y las demás que a su juicio sea necesario aplicar.
 
 (Decreto 1840 de 1994, art. 11)
-
-ARTÍCULO
 
 ## art:2.13.1.8.2 — Medidas de Emergencia
 
@@ -10746,8 +9334,6 @@ PARÁGRAFO . Las medidas a que se refiere este artículo serán de inmediata eje
 
 (Decreto 1840 de 1994, art. 12)
 
-ARTÍCULO
-
 ## art:2.13.1.8.3 — Sistemas de Compensación
 
 En los casos no culposos ni dolosos de emergencia sanitaria, en que sea necesario eliminar o destruir animales y vegetales, sus partes y sus productos transformados y no transformados, con el fin de erradicar enfermedades o plagas, o impedir su diseminación, el ICA establecerá un sistema de compensación.
@@ -10758,15 +9344,11 @@ CAPÍTULO 9
 
 Sujetos de vigilancia, inspección y control del Instituto Colombiano Agropecuario
 
-ARTÍCULO
-
 ## art:2.13.1.9.1 — Obligaciones de los sujetos
 
 Toda persona natural o jurídica, tiene la obligación de permitir la inspección o el ingreso a cualquier bien mueble o inmueble de los funcionarios del Instituto Colombiano Agropecuario, ICA, o a aquellos debidamente acreditados, para ejercicio de las funciones relacionadas con la aplicación del presente título y de sus reglamentos, quienes tendrán el carácter y las funciones de inspectores de Policía Sanitaria y gozarán del amparo de las autoridades civiles y militares.
 
 (Decreto 1840 de 1994, art. 14)
-
-ARTÍCULO
 
 ## art:2.13.1.9.2 — Obligación de notificación a autoridades sanitarias
 
@@ -10778,15 +9360,11 @@ CAPÍTULO 10
 
 De las Sanciones
 
-ARTÍCULO
-
 ## art:2.13.1.10.1 — Sanciones Administrativas
 
 La violación a las disposiciones establecidas en el presente título, a sus reglamentos y demás normas que se deriven del mismo, serán sancionadas administrativamente por el ICA, sin perjuicio de las acciones penales, civiles que correspondan.
 
 (Decreto 1840 de 1994, art. 16)
-
-ARTÍCULO
 
 ## art:2.13.1.10.2 — 0.2
 
@@ -10806,8 +9384,6 @@ PARÁGRAFO . Las sumas recaudadas por concepto de multas ingresarán al Fondo Na
 
 (Decreto 1840 de 1994, art. 17)
 
-ARTÍCULO
-
 ## art:2.13.1.10.3 — Sanciones por obstaculización a las funciones del ICA
 
 Las acciones tendientes a obstaculizar o impedir el desempeño de los funcionarios del ICA o del organismo que éste acredite, en el ejercicio o con motivo del ejercicio de sus funciones, serán sancionadas con las mismas penas señaladas en las leyes colombianas para las faltas cometidas por agravio a las autoridades.
@@ -10818,15 +9394,11 @@ CAPÍTULO 11
 
 De la Coordinación Nacional
 
-ARTÍCULO
-
 ## art:2.13.1.11.1 — Coordinación institucional
 
 El Instituto Colombiano Agropecuario, ICA, coordinará con los Ministerios de Salud y Protección Social y de Ambiente y Desarrollo Sostenible, las medidas de seguridad relacionadas con el manejo y uso de insumos agropecuarios de alto riesgo, con las enfermedades zoonóticas (sic) y con los niveles permisibles de residuos tóxicos en alimentos de origen vegetal y animal.
 
 (Decreto 1840 de 1994, art. 19)
-
-ARTÍCULO
 
 ## art:2.13.1.11.2 — Sistema Nacional de Protección Agropecuaria
 
@@ -10834,15 +9406,11 @@ Con el propósito de desarrollar políticas y planes tendientes a asegurar la sa
 
 (Decreto 1840 de 1994, art. 20)
 
-ARTÍCULO
-
 ## art:2.13.1.11.3 — Funciones de las Secretarias de Agricultura Departamentales
 
 El Ministerio de Agricultura y Desarrollo Rural expedirá las disposiciones en las que se establezcan las funciones delegatarias relacionadas con la sanidad agropecuaria y el control técnico de los insumos agropecuarios de las Secretarías de Agricultura Departamentales o de quien desarrolle sus funciones.
 
 (Decreto 1840 de 1994, art. 21)
-
-ARTÍCULO
 
 ## art:2.13.1.11.4 — Consejo Directivo
 
@@ -10851,8 +9419,6 @@ El Sistema Nacional de Protección Agropecuaria tendrá un Consejo Directivo int
 El Consejo Directivo expedirá su propio reglamento.
 
 (Decreto 1840 de 1994, art. 22)
-
-ARTÍCULO
 
 ## art:2.13.1.11.5 — Consejo Nacional de Sanidad Animal y el Consejo Nacional de Sanidad Vegetal
 
@@ -10864,8 +9430,6 @@ PARÁGRAFO 2. El Instituto Colombiano Agropecuario, ICA, podrá crear Consejos N
 
 (Decreto 1840 de 1994, art. 23)
 
-ARTÍCULO
-
 ## art:2.13.1.11.6 — Recopilación y difusión de información
 
 El ICA efectuará la recopilación y difusión de información sobre la situación sanitaria del país y estadísticas sobre aspectos de sanidad e insumos agropecuarios. Las personas naturales y Jurídicas oficiales y particulares, contempladas en la presente parte de este Decreto, quedan en la obligación de suministrar oportunamente la información que el ICA estime conveniente, para la evaluación estadística del sector que representa.
@@ -10876,13 +9440,9 @@ El ICA efectuará la recopilación y difusión de información sobre la situaci�
 
 (Capítulo, Adicionado por el Art. 1 del Decreto 087 de 2021)
 
-ARTÍCULO
-
 ## art:2.13.1.12.1 — Objeto y Alcance
 
 Desarrollar una metodología de cálculo de la tarifa de la tasa a partir del método y el sistema establecidos en la Ley 1955 de 2019, como base para la recuperación de los costos de los servicios prestados por el Instituto Colombiano Agropecuario (ICA), de acuerdo con lo que establece el parágrafo del artículo 158 de la mencionada disposición normativa, y establecer la clasificación de los grupos de servicios derivados de los hechos generados que servirán de base para que el ICA fije la tarifa.
-
-ARTÍCULO
 
 ## art:2.13.1.12.2 — Metodología de Cálculo
 
@@ -10900,8 +9460,6 @@ Desarróllese la metodología de cálculo del costo de los servicios prestados p
 
 6. Para la estimación del costo del servicio se tendrá en cuenta la frecuencia de prestación del mismo, entendida como el número de operaciones o ejecuciones de cada servicio prestado por el ICA. Se podrá considerar la frecuencia igual a uno (1) para el cálculo de costos efectivos unitarios.
 
-ARTÍCULO
-
 ## art:2.13.1.12.3 — Determinación de la tarifa
 
 El Consejo Directivo del ICA mediante acuerdo, fijará la tarifa teniendo como base el cálculo de los costos definidos en la metodología del artículo anterior y lo dispuesto en el artículo 159 de la Ley 1955 de 2019.
@@ -10909,8 +9467,6 @@ El Consejo Directivo del ICA mediante acuerdo, fijará la tarifa teniendo como b
 PARÁGRAFO 1. En cumplimento de lo dispuesto en el parágrafo del artículo 159 de la ley 1955 de 2019, el gobierno cuando lo considere pertinente podrá revisar los criterios de determinación de las tarifas considerando mejoras en la eficiencia para la prestación de los servicios a cargo del Instituto, así como utilizar ponderaciones regionales para la fijación de las tarifas, tomando como base los conceptos emitidos por el Instituto Colombiano Agropecuario- ICA.
 
 PARÁGRAFO 2. El valor de las tarifas será expresado en UVT y en pesos colombianos corrientes.
-
-ARTÍCULO
 
 ## art:2.13.1.12.4 — Actualización de tarifas
 
@@ -10921,8 +9477,6 @@ Las tarifas que cobre el Instituto Colombiano Agropecuario- ICA, se actualizará
 2. Con periodicidad de cada tres años se actualizarán los costos reales del servicio siguiendo la metodología especificada en el numeral 2 del artículo 2.13.1.12.2.
 
 3. De forma extraordinaria, con ocasión de alguna expedición normativa o cambios sustanciales en la prestación de un servicio, que impliquen cambios en la estructura y en los costos reales del mismo, siguiendo lo dispuesto en el artículo 2.13.1.12.2 sobre la metodología del cálculo de costos.
-
-ARTÍCULO
 
 ## art:2.13.1.12.5 — Modificaciones al tarifario
 
@@ -10935,8 +9489,6 @@ El Instituto Colombiano Agropecuario- ICA, tendrá hasta el 31 de diciembre de 2
 (Modificado por el Art. 1 del Decreto 1249 de 2023)
 
 (Modificado por el Art. 1 del Decreto 115 de 2022)
-
-ARTÍCULO
 
 ## art:2.13.1.12.7 — 2.7
 
@@ -10984,8 +9536,6 @@ Grupos de servicios derivados del primer hecho generador: Expedición de registr
 
 21. Registros, modificaciones, inscripciones y certificados de establecimientos, bodegas y almacenes relacionados con el sector agropecuario.
 
-ARTÍCULO
-
 ## art:2.13.1.12.8 — 2.8
 
 Grupos de servicios derivados del segundo hecho generador: Realización de pruebas de laboratorio analíticas y diagnósticas de enfermedades y plagas, de verificación de requisitos técnicos de insumos agropecuarios y semillas y de detección de residuos y contaminantes en productos agropecuarios. Los servicios que hacen parte del segundo hecho generador establecido en el numeral 2 del artículo 158 de la Ley 1955 de 2019, son:
@@ -11001,8 +9551,6 @@ Grupos de servicios derivados del segundo hecho generador: Realización de prueb
 5. Pruebas de laboratorio para la detección de residuos y contaminantes en productos agropecuarios.
 
 6. Pruebas de laboratorio para verificación de requisitos técnicos de insumos agropecuarios.
-
-ARTÍCULO
 
 ## art:2.13.1.12.9 — 2.9
 
@@ -11024,15 +9572,11 @@ CAPÍTULO 1
 
 Objeto y Alcance de los Reglamentos Técnicos y las Medidas Sanitarias y Fitosanitarias
 
-ARTÍCULO
-
 ## art:2.13.2.1.1 — Objeto
 
 El presente título tiene por objeto establecer los procedimientos administrativos para la elaboración, adopción y aplicación de reglamentos técnicos, medidas sanitarias y fitosanitarias en el ámbito agroalimentario por parte de las entidades del orden nacional de la República de Colombia, con la finalidad de reducir los efectos negativos de la aplicación de los mismos en el comercio que se realice en desarrollo de los tratados internacionales de los cuales Colombia haga parte.
 
 (Decreto 4003 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.2.1.2 — Ámbito de aplicación
 
@@ -11044,8 +9588,6 @@ CAPÍTULO 2
 
 Requisitos Generales de los reglamentos técnicos y medidas sanitarias y fitosanitarias
 
-ARTÍCULO
-
 ## art:2.13.2.2.1 — Efecto económico de la reglamentación
 
 Determinada la necesidad de establecer un nuevo reglamento técnico, medida sanitaria o fitosanitaria, se estimará el efecto económico que ocasionaría si no se estableciera tal medida, al igual que el efecto económico en caso de establecerse y/o la posibilidad de adopción de otras medidas que consigan el mismo objetivo legítimo perseguido, en cuanto a la onerosidad de su aplicación.
@@ -11054,15 +9596,11 @@ PARÁGRAFO . El contenido de este artículo no aplica para el caso de expedició
 
 (Decreto 4003 de 2004, art. 4)
 
-ARTÍCULO
-
 ## art:2.13.2.2.2 — Bases de la reglamentación
 
 En el proceso de elaboración y adopción de reglamentos técnicos, medidas sanitarias y fitosanitarias, se puede tomar como base de las mismas normas, las directrices o recomendaciones internacionales o sus elementos pertinentes o aquellas cuya aprobación sea inminente, salvo en el caso que ellas o sus elementos, sean un medio ineficaz o inapropiado para el logro de los objetivos legítimos perseguidos.
 
 (Decreto 4003 de 2004, art. 5)
-
-ARTÍCULO
 
 ## art:2.13.2.2.3 — Efectos en el comercio
 
@@ -11073,8 +9611,6 @@ Los reglamentos técnicos, medidas sanitarias y fitosanitarias no deben restring
 CAPÍTULO 3
 
 Del contenido de los reglamentos técnicos y medidas sanitarias y fitosanitarias
-
-ARTÍCULO
 
 ## art:2.13.2.3.1 — Contenido de los reglamentos técnicos, medidas sanitarias y fitosanitarias
 
@@ -11114,8 +9650,6 @@ CAPÍTULO 4
 
 Elaboración, Notificación, Publicación, Expedición y Revisión de los Reglamentos Técnicos, medidas sanitarias y fitosanitarias
 
-ARTÍCULO
-
 ## art:2.13.2.4.1 — Necesidad de elaboración del reglamento técnico, medida sanitaria o fitosanitaria
 
 La elaboración de un reglamento técnico, medida sanitaria o fitosanitaria obedecerá a la eventual presencia de riesgos sanitarios, fitosanitarios y zoosanitarios, los cuales pueden ser dados a conocer a la autoridad competente a través de cualquier interesado.
@@ -11123,8 +9657,6 @@ La elaboración de un reglamento técnico, medida sanitaria o fitosanitaria obed
 PARÁGRAFO . Ante una solicitud o interés del país, la entidad competente analizará la pertinencia de la necesidad de elaboración de reglamentos técnicos, medidas sanitarias o fitosanitarias en un plazo no mayor a noventa (90) días calendario y una vez determinada la pertinencia de su expedición, la entidad competente elaborará el proyecto, de conformidad con lo señalado en el presente título.
 
 (Decreto 4003 de 2004, art. 8)
-
-ARTÍCULO
 
 ## art:2.13.2.4.2 — Publicación
 
@@ -11140,8 +9672,6 @@ La pertinencia de las observaciones recibidas será evaluada por la respectiva e
 
 (Decreto 4003 de 2004, art. 9)
 
-ARTÍCULO
-
 ## art:2.13.2.4.3 — Expedición
 
 En caso de no recibirse observaciones y comentarios, una vez terminado el plazo otorgado para el envío de las mismas, la entidad competente podrá expedir el reglamento técnico, medida sanitaria o fitosanitaria, luego de lo cual procederá su publicación en el Diario Oficial y a su notificación a la Organización Mundial del Comercio, Comunidad Andina, el Grupo de los Tres-G3 y los demás países con los cuales Colombia suscriba tratados, a través del Punto de Contacto de Colombia.
@@ -11154,8 +9684,6 @@ PARÁGRAFO 3. Cuando se pretenda inscribir una medida sanitaria o fitosanitaria 
 
 (Decreto 4003 de 2004, art. 10)
 
-ARTÍCULO
-
 ## art:2.13.2.4.4 — 4.4
 
 Todo reglamento técnico, medida sanitaria o fitosanitaria que sea emitido por entidad competente deberá ser revisado en un plazo no mayor a cinco (5) años, salvo si las condiciones sobre las cuales fue concebido no ameritan una revisión diferente.
@@ -11166,8 +9694,6 @@ CAPÍTULO 5
 
 De los Reglamentos, Medidas Sanitarias o Fitosanitarias de Emergencia
 
-ARTÍCULO
-
 ## art:2.13.2.5.1 — Emisión de urgencia
 
 Cuando existan o amenacen existir problemas urgentes de protección sanitaria y fitosanitaria, se podrán omitir los trámites enumerados en los artículos precedentes y emitir reglamentos técnicos, medidas sanitarias o fitosanitarias de emergencia.
@@ -11175,8 +9701,6 @@ Cuando existan o amenacen existir problemas urgentes de protección sanitaria y 
 PARÁGRAFO . El reglamento técnico, medida sanitaria o fitosanitaria de emergencia que sea emitido por el Instituto Colombiano Agropecuario - ICA deberá ser publicado en el Diario Oficial y su entrada en vigencia será inmediata.
 
 (Decreto 4003 de 2004, art. 12)
-
-ARTÍCULO
 
 ## art:2.13.2.5.2 — Efectos del reglamento
 
@@ -11198,15 +9722,11 @@ CAPÍTULO 1
 
 Medidas de Defensa de la Industria Pecuaria
 
-ARTÍCULO
-
 ## art:2.13.3.1.1 — Ámbito de aplicación
 
 La defensa de los ganados y demás animales en el territorio de la república contra la invasión de enfermedades exóticas trasmisibles y la acción contra las epizootias y enzootias existentes en el país, se hará efectiva por el Gobierno utilizando los medios indicados en el presente capítulo y por conducto del Ministerio de Agricultura y Desarrollo Rural, a través del Instituto Colombiano Agropecuario.
 
 (Decreto 1254 de 1949, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.1.2 — Responsabilidad
 
@@ -11214,15 +9734,11 @@ Los Gobernadores, Alcaldes e Inspectores de Policía, como agentes del Gobierno 
 
 (Decreto 1254 de 1949, art. 2)
 
-ARTÍCULO
-
 ## art:2.13.3.1.3 — Médicos Veterinarios
 
 Los médicos veterinarios al servicio oficial, tendrán el carácter de Inspectores de Policía en lo relativo a sanidad animal, quedando revestidos de toda la autoridad para la aplicación de las sanciones a quienes violen las disposiciones sanitarias que contempla el presente decreto o que en su desarrollo se dictaren por parte del Instituto Colombiano Agropecuario.
 
 (Decreto 1254 de 1949, art. 3)
-
-ARTÍCULO
 
 ## art:2.13.3.1.4 — Enfermedades a las que se les aplican medidas sanitarias
 
@@ -11376,8 +9892,6 @@ PARÁGRAFO . Queda facultado el Ministerio de Agricultura y Desarrollo Rural, pa
 
 (Decreto 1254 de 1949, art. 6)
 
-ARTÍCULO
-
 ## art:2.13.3.1.5 — Enfermedades transmisibles al hombre
 
 De las enfermedades enumeradas en el artículo anterior, se reputan como transmisibles al hombre y serán objeto de medidas coordinadas entre el Ministerio de Agricultura y Desarrollo Rural y Salud y Protección Social, para evitar contagio de la especie humana las siguientes:
@@ -11418,8 +9932,6 @@ De las enfermedades enumeradas en el artículo anterior, se reputan como transmi
 
 (Decreto 1254 de 1949, art. 7)
 
-ARTÍCULO
-
 ## art:2.13.3.1.6 — Análisis y concepto previo del ICA
 
 Los productos biológicos destinados a la prevención, tratamiento o reacción diagnóstica de enfermedades de los animales, requieren análisis y concepto previo favorable del Instituto Colombiano Agropecuario, para su importación o fabricación, distribución en el país o exportación, para lo cual se sujetarán a la reglamentación que se haya expedido sobre el particular por parte de la citada entidad.
@@ -11429,8 +9941,6 @@ PARÁGRAFO 1. Las drogas, los productos farmacéuticos, las mezclas alimenticias
 PARÁGRAFO 2. Las personas que importen, fabriquen o distribuyan productos biológicos destinados a la prevención, tratamiento o diagnóstico de enfermedades trasmisibles a los animales, están obligadas a informar trimestralmente al Instituto Colombiano Agropecuario, sobre la distribución o ventas que efectuaren indicando cantidad de dosis y número del respectivo lote o serie, casa productora y municipio de destino.
 
 (Decreto 1254 de 1949, art. 8)
-
-ARTÍCULO
 
 ## art:2.13.3.1.7 — Gastos
 
@@ -11446,15 +9956,11 @@ CAPÍTULO 2
 
 Importación
 
-ARTÍCULO
-
 ## art:2.13.3.2.1 — Inspección
 
 Todos los animales y productos de procedencia animal que se introduzcan al país, por los puertos, aeropuertos y pasos fronterizos que establece el Instituto Colombiano Agropecuario, serán sometidos a una inspección detenida practicada por el personal médico -veterinario oficial del ICA
 
 (Decreto 1254 de 1949, art. 10)
-
-ARTÍCULO
 
 ## art:2.13.3.2.2 — Observación Sanitaria
 
@@ -11474,15 +9980,11 @@ PARÁGRAFO . La cuarentena se realizará en la Estación Cuarentenaria que el IC
 
 (Decreto 1254 de 1949, art. 11)
 
-ARTÍCULO
-
 ## art:2.13.3.2.3 — Reglamentación de las Condiciones Sanitarias
 
 Las condiciones sanitarias para la importación de ganados y de sus productos, provenientes de países limítrofes y destinados al consumo, serán reglamentadas especialmente por el Instituto Colombiano Agropecuario con arreglo a los tratados o convenios vigentes.
 
 (Decreto 1254 de 1949, art. 12)
-
-ARTÍCULO
 
 ## art:2.13.3.2.4 — Prohibición de entrada al país
 
@@ -11492,8 +9994,6 @@ PARÁGRAFO . El ICA reglamentará las condiciones especiales para importación d
 
 (Decreto 1254 de 1949, art. 13)
 
-ARTÍCULO
-
 ## art:2.13.3.2.5 — Autorización del ICA
 
 Es condición indispensable, para todo el que desee importar animales o sus productos al territorio nacional, cualquiera que sea la especie, origen o procedencia, estar previamente autorizado por el Instituto Colombiano Agropecuario.
@@ -11502,8 +10002,6 @@ PARÁGRAFO . La importación de productos de origen animal podrá efectuarse por
 
 (Decreto 1254 de 1949, arts. 15 y 17)
 
-ARTÍCULO
-
 ## art:2.13.3.2.6 — Cuarentena
 
 Si durante el v1aie para suelo colombiano, hubiere ocurrido algún caso de enfermedad transmisible entre los animales que se conduzcan no se permitirá el desembarco de los mismos, a juicio del veterinario inspector o quedarán sometidos a cuarentena por el periodo y las condiciones que aquel señale.
@@ -11511,8 +10009,6 @@ Si durante el v1aie para suelo colombiano, hubiere ocurrido algún caso de enfer
 PARÁGRAFO . Los agentes de empresas de transporte, tienen la obligación de comunicar a la oficina del I CA todas las novedades que durante el viaje hayan ocurrido en los animales embarcados en puertos, aeropuertos o pasos fronterizos extranjeros a bordo de los vehículos de su consignación, tan pronto ocurrieren o a más tardar a su llegada a suelo colombiano. Se prohíbe el despacho de otro buque o vehículo a la empresa colombiana que no cumpliere esta obligación.
 
 (Decreto 1254 de 1949, art. 19)
-
-ARTÍCULO
 
 ## art:2.13.3.2.7 — Rechazo del país o sacrificio de animales
 
@@ -11523,8 +10019,6 @@ PARÁGRAFO 1. Durante la cuarentena se practicarán por el médico veterinario i
 PARÁGRAFO 2. Los anímales que no fueren retirados de la Estación Cuarentenaria, una vez cumplido el plazo fijado para ello por el funcionario del ICA, serán decomisados sin derecho a indemnización alguna.
 
 (Decreto 1254 de 1949, art. 20)
-
-ARTÍCULO
 
 ## art:2.13.3.2.8 — Decomiso y Sacrificio de animales y productos
 
@@ -11538,23 +10032,17 @@ CAPÍTULO 3
 
 Exportación
 
-ARTÍCULO
-
 ## art:2.13.3.3.1 — Inspección
 
 Todos los animales y productos de origen animal que vayan a ser exportados serán inspeccionados por el personal médico - veterinario del ICA, prohibiéndose la salida del país de cualquier animal que no cumpla con los requisitos exigidos por el país de destino, así como también la de los productos de origen animal que no reúnan las condiciones de higiene exigidas por el presente título y sus reglamentaciones.
 
 (Decreto 1254 de 1949, art. 22)
 
-ARTÍCULO
-
 ## art:2.13.3.3.2 — Prohibición de exportación
 
 Autorizase al Instituto Colombiano Agropecuario para prohibir la exportación de animales procedentes de regiones o departamentos que fuesen declarados infectados, prohibición que cesa de acuerdo con los tiempos fijados por el Código Sanitario de Animales Terrestres.
 
 (Decreto 1254 de 1949, art. 25)
-
-ARTÍCULO
 
 ## art:2.13.3.3.3 — Requisitos Sanitarios para los animales de exportación
 
@@ -11566,8 +10054,6 @@ CAPÍTULO 4
 
 Presencia de Enfermedades en el Territorio Nacional
 
-ARTÍCULO
-
 ## art:2.13.3.4.1 — Obligación de los propietarios y encargados del cuidado de animales
 
 Todo propietario y todo encargado o médico veterinario que tenga a su cuidado algún animal sospechoso de estar atacado por enfermedad contagiosa de las señaladas en el presente título, tiene la obligación de denunciar el hecho ante la oficina del Instituto Colombiano Agropecuario más cercana al sitio donde se aloja el animal, quien acusará recibo de la denuncia al interesado.
@@ -11575,8 +10061,6 @@ Todo propietario y todo encargado o médico veterinario que tenga a su cuidado a
 PARÁGRAFO . La denuncia de que trata este artículo, es igualmente obligatoria para los administradores o médicos veterinarios de mataderos, plazas y mercados, ferias y exposiciones, y deberá especificar: lugar en donde se encuentra el animal o cadáver sospechoso, lugar de proveniencia si fuere el caso, nombre del dueño y enfermedad que se sospecha.
 
 (Decreto 1254 de 1949, en. 27)
-
-ARTÍCULO
 
 ## art:2.13.3.4.2 — Responsabilidad de quien recibe la denuncia
 
@@ -11586,23 +10070,17 @@ PARÁGRAFO . Del propio modo procederán los jefes de unidades montadas del ejé
 
 (Decreto 1254 de 1949, art. 28)
 
-ARTÍCULO
-
 ## art:2.13.3.4.3 — Visita de inspección
 
 Tan pronto como el Epidemiólogo Regional tenga conocimiento o sospeche la existencia, en el territorio de su jurisdicción de animales atacados por enfermedades contagiosas, practicará u ordenará inmediatamente la visita de inspección médico veterinaria.
 
 Decreto 1254 de 1949, art. 29)
 
-ARTÍCULO
-
 ## art:2.13.3.4.4 — Fijación de zonas infectadas y toma de medidas de control
 
 El Instituto Colombiano Agropecuario -ICA-, de acuerdo con las investigaciones realizadas o que se realicen y la presentación de epizootias, fijará las zonas infectadas, sospechosas o libres para cada una de las enfermedades señaladas en esta parte o en las normas que se expidan sobre el particular y dictará las medidas conducentes a su control y erradicación teniendo en cuenta el periodo de invasión, la virulencia, gravedad, modos y medios de propagación propios de cada una de ellas.
 
 (Decreto 1254 de 1949, art. 30)
-
-ARTÍCULO
 
 ## art:2.13.3.4.5 — Obligación de destruirlos cadáveres y residuos contaminantes
 
@@ -11620,23 +10098,17 @@ BIENESTAR ANIMAL PARA LAS ESPECIES DE PRODUCCIÓN EN EL SECTOR
 
 AGROPECUARIO
 
-ARTÍCULO
-
 ## art:2.13.3.5.1 — 5.1
 
 Objeto: El presente Capítulo tiene por objeto establecer las disposiciones y requerimientos generales para el Bienestar Animal en las especies de producción del sector agropecuario.
 
 (Decreto 2113 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.3.5.2 — 5.2
 
 Campo de aplicación, Las disposiciones contenidas en el presente decreto serán aplicables a todas tas personas naturales o jurídicas que desarrollen actividades de producción de especies animales, de conformidad con su sistema productivo.
 
 (Decreto 2113 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.5.3 — Principios
 
@@ -11653,8 +10125,6 @@ El presente decreto se enmarca en los siguientes principios básicos que fundan 
 5. Libre de impedimentos de manifestar un comportamiento natural.
 
 (Decreto 2113 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.5.4 — Definiciones
 
@@ -11679,8 +10149,6 @@ Para efectos del presente capítulo, se adoptan las siguientes definiciones:
 9. Sistemas de producción. Todos los sistemas comerciales de producción, cuyo propósito consiste en alguno de los siguientes pasos o todos ellos: reproducción, crianza, levante y el periodo final de engorde, con vistas a la producción de carne u otro producto para consumo humano.
 
 (Decreto 2113 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.5.5 — 5.5
 
@@ -11710,15 +10178,11 @@ Aspectos generales: Se tendrán en cuenta las siguientes condiciones generales p
 
 (Decreto 2113 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.3.5.6 — Sanidad animal
 
 Los animales deben estar incluidos en los programas oficiales de prevención, control y erradicación de enfermedades establecidos por el Instituto Colombiano Agropecuario - ICA, y, para aquellas enfermedades sin programas oficiales, cada predio debe poseer un plan sanitario que incluya vacunaciones, manejo de animales con problemas serios, y el sacrificio de manera humanitaria.
 
 (Decreto 2113 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.5.7 — Uso de medicamentos veterinarios
 
@@ -11742,15 +10206,11 @@ Se tendrán en cuenta los siguientes principios generales para el uso de medicam
 
 (Decreto 2113 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.3.5.8 — Condiciones
 
 El Ministerio de Agricultura y Desarrollo Rural, en un plazo de doce (12) meses posteriores a la entrada en vigencia del presente decreto, adoptará las normas necesarias para precisar las condiciones de bienestar animal propias de cada una de las especies de producción en el sector agropecuario las cuales deberán estar basadas en las recomendaciones y directrices establecidas por la Organización Mundial de Sanidad Animal OIE,
 
 (Decreto 2113 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.5.9 — Consejo Nacional de Bienestar Animal
 
@@ -11758,23 +10218,17 @@ El Ministerio de Agricultura y Desarrollo Rural en un no a seis (6) meses poster
 
 (Decreto 2113 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.3.5.10 — Comité Técnico Nacional de Bienestar Animal
 
 El Ministerio de Agricultura y Desarrollo Rural establecerá mediante resolución, en un plazo no mayor a seis (6) meses posteriores a la entrada en vigencia del presente capítulo, lo relacionado con el Comité Técnico Nacional de Bienestar Animal, estableciendo en especial las funciones y periodicidad de las reuniones.
 
 (Decreto 2113 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.3.5.11 — Revisión y actualización
 
 Con el fin de mantener actualizadas las disposiciones que se establece en el presente capítulo, el Ministerio de Agricultura y Desarrollo Rural revisará las disposiciones aquí contenidas en un término no mayor a cinco (5) años, contados a partir de la fecha de su entrada en vigencia, o antes si se detecta que las causas que motivaron su expedición fueron modificadas o desaparecieron.
 
 (Decreto 2113 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.3.5.12 — Sanciones
 
@@ -11786,8 +10240,6 @@ TÍTULO 4
 
 Sistema Nacional de Identificación e Información de Ganado Bovino
 
-ARTÍCULO
-
 ## art:2.13.4.1 — Facultad de ejercer funciones de apoyo al administrador del (Sinigan)
 
 Entiéndase para todos los efectos que las alusiones relacionadas con la prestación de los servicios asociados al Sistema Nacional de Identificación e Información del Ganado Bovino (Sinigan), relacionadas con las Organizaciones Gremiales Ganaderas, y en su defecto las alcaldías municipales, deberá entenderse en su orden deferidas al Instituto Colombiano Agropecuario (ICA), a las Organizaciones Gremiales Ganaderas y a las alcaldías municipales en defecto de las anteriores.
@@ -11795,8 +10247,6 @@ Entiéndase para todos los efectos que las alusiones relacionadas con la prestac
 PARÁGRAFO . La facultad para ejercer funciones de apoyo al administrador del Sinigan, en cabeza de las alcaldías municipales quedará supeditada a la celebración de los contratos o convenios a que haya lugar dentro del marco legal vigente.
 
 (Decreto 442 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.4.2 — 4.2
 
@@ -11814,15 +10264,11 @@ PARÁGRAFO . La función a las entidades a que se refiere este artículo, podrá
 
 (Decreto 3275 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.4.3 — Límite al uso de la información
 
 La información que alimenta el Sistema Nacional de Identificación e Información de Ganado Bovino, únicamente podrá ser utilizada para el funcionamiento del mismo.
 
 (Decreto 3275 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.4.4 — Resolución para implementación de procesos y procedimientos
 
@@ -11838,8 +10284,6 @@ CAPÍTULO 1
 
 Registro de Hierros y Actividades Ganaderas
 
-ARTÍCULO
-
 ## art:2.13.5.1.1 — Personas obligadas
 
 Todo ganadero, persona natural o jurídica, registrará su hierro en la organización gremial ganadera correspondiente y solamente, sí esta no tuviere sede en el departamento donde tiene domicilio el propietario del hierro, el registro se hará en la alcaldía municipal correspondiente.
@@ -11847,8 +10291,6 @@ Todo ganadero, persona natural o jurídica, registrará su hierro en la organiza
 Para efectos del presente título, se entiende como ganadero al productor agropecuario dedicado a la cría, levante, ceba o comercialización de animales de las especies bovina y bufalina y sus derivados.
 
 (Decreto 3149 de 2006, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.5.1.2 — Formato
 
@@ -11860,15 +10302,11 @@ Asimismo, se implementará un plan de trabajo encaminado a la difusión y capaci
 
 (Decreto 3149 de 2006, art. 3)
 
-ARTÍCULO
-
 ## art:2.13.5.1.3 — Registro de hierros
 
 Cuando el ganadero registre su hierro en la Organización Gremial Ganadera que cumpla los requisitos establecidos por el Ministerio de Agricultura y Desarrollo Rural o en la Alcaldía Municipal a falta de aquella, esta deberá llevar una copia a la Secretaría de Agricultura Departamental o al ente que haga sus veces en la Gobernación del Departamento donde tiene domicilio el predio del ganadero.
 
 (Decreto 3149 de 2006, art.4)
-
-ARTÍCULO
 
 ## art:2.13.5.1.4 — Registro de actividades ganaderas
 
@@ -11876,15 +10314,11 @@ El ganadero deberá adelantar el registro de las transacciones sobre animales en
 
 (Decreto 3149 de 2006, art. 5, modificado por el Decreto 414 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.5.1.5 — Bono de venta
 
 El documento para registrar las transacciones de ganado se denominará Bono de Venta. Las condiciones y forma de expedición serán determinadas por el Ministerio de Agricultura y Desarrollo Rural, mediante resolución.
 
 (Decreto 3149 de 2006, art. 6)
-
-ARTÍCULO
 
 ## art:2.13.5.1.6 — Guía Sanitaria de Movilización Interna
 
@@ -11896,15 +10330,11 @@ PARÁGRAFO . Para la expedición de la Guía Sanitaria de Movilización Interna 
 
 (Decreto 1766 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.5.1.7 — Obligatoriedad
 
 Para la comercialización de ganado, todo ganadero está obligado a contar con el respectivo bono de venta, independientemente del medio utilizado para adelantar la transacción, sea este el de la subasta pública, internet o cualquier medio idóneo legalmente permitido
 
 (Decreto 1766 de 2016, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.5.1.8 — Registro de las Organizaciones Gremiales Ganaderas
 
@@ -11920,8 +10350,6 @@ CAPÍTULO 2
 
 Movilización de Ganado
 
-ARTÍCULO
-
 ## art:2.13.5.2.1 — Requisitos para la movilización y transporte de ganado en el territorio nacional
 
 Los requisitos para la movilización fluvial, marítima o terrestre de ganado en el territorio nacional serán los siguientes:
@@ -11931,8 +10359,6 @@ Los requisitos para la movilización fluvial, marítima o terrestre de ganado en
 2. Manifiesto de carga expedido únicamente por la empresa de transporte público terrestre automotor de carga, legalmente constituida y habilitada, o documento que haga sus veces en los demás modos de transporte.
 
 (Decreto 1766 de 2016, art. 3)
-
-ARTÍCULO
 
 ## art:2.13.5.2.2 — Registro de transportadores
 
@@ -11954,15 +10380,11 @@ PARÁGRAFO . El registro como transportador de ganado bovino y bufalino tendrá 
 
 (Decreto 1766 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.13.5.2.3 — Horario de movilización
 
 La movilización de ganado mayor en todo el territorio nacional solo se podrá realizar dentro de los horarios establecidos por la autoridad competente, la cual tendrá en cuenta como criterio orientador, para el ejercicio de esta función, las circunstancias de seguridad y orden público que se presenten en las diferentes zonas del territorio nacional.
 
 (Decreto 3149 de 2006, art. 12)
-
-ARTÍCULO
 
 ## art:2.13.5.2.4 — Registro Policial
 
@@ -11974,15 +10396,11 @@ Las organizaciones gremiales ganaderas y las alcaldías deberán suministrar la 
 
 (Decreto 1766 de 2016, art. 5)
 
-ARTÍCULO
-
 ## art:2.13.5.2.5 — Verificación de la información
 
 La Policía Nacional en ejercicio de sus competencias y actividades de control, verificará la consistencia de la información que suministre el transportador, y en caso de que esta no coincida con el registro de que trata el artículo 2.13.5.2.4., informará a la autoridad competente, para que esta tome las medidas respectivas conforme a la ley.
 
 (Decreto 3149 de 2006, art. 14)
-
-ARTÍCULO
 
 ## art:2.13.5.2.6 — Transporte de animales y productos de origen animal no enlatados
 
@@ -11992,8 +10410,6 @@ PARÁGRAFO . Las empresas que realicen tal suerte de transportes estarán obliga
 
 (Decreto 1254 de 1949, art. 33)
 
-ARTÍCULO
-
 ## art:2.13.5.2.7 — Resoluciones en materia Sanitaria
 
 Tienen carácter de resoluciones de policía sanitaria, las que dicte el Instituto Colombiano Agropecuario en materia de sanidad agropecuaria sobre limitación de cultivos, licencias previas para los mismos, eliminación de plantaciones o sacrificio de animales, prohibición de determinados cultivos o explotaciones pecuarias, cuarentenas, vedas, vacunaciones o tratamientos preventivos o curativos y otras análogas.
@@ -12001,8 +10417,6 @@ Tienen carácter de resoluciones de policía sanitaria, las que dicte el Institu
 CAPÍTULO 3
 
 Registro de Sacrificio de Ganado y Transporte de Carne
-
-ARTÍCULO
 
 ## art:2.13.5.3.1 — Vigilancia en plantas de sacrificio públicas
 
@@ -12012,23 +10426,17 @@ La Policía Nacional propenderá por la realización de controles en las plantas
 
 (Decreto 3149 de 2006, art. 15)
 
-ARTÍCULO
-
 ## art:2.13.5.3.2 — Registros en plantas de sacrificio
 
 En todas las plantas de sacrificio, el administrador llevará además de los libros establecidos en otras disposiciones legales, un libro denominado Control de Ganado Mayor, donde se anotará la entrada de semovientes para el sacrificio dejando constancia del nombre del propietario, identidad, hora de introducción de semovientes, edad, sexo, color, clase y procedencia, hierro y los documentos allegados al efecto para ser archivados.
 
 (Decreto 3149 de 2006, art. 16)
 
-ARTÍCULO
-
 ## art:2.13.5.3.3 — Documentos de acreditación
 
 El transportador autorizado de carne en canal, deberá portar la Guía de Transporte y cuando quien comercialice la carne sea directamente la planta de sacrificio o frigoríficos dicho documento deberá indicar: el nombre del destinatario, nit o cédula de ciudadanía, localidad, cantidad de carne en kilogramos, y la planta de sacrificio.
 
 (Decreto 3149 de 2006, art. 17)
-
-ARTÍCULO
 
 ## art:2.13.5.3.4 — Documentación
 
@@ -12041,8 +10449,6 @@ La realización de la actividad de sacrifico en contravención del presente art�
 PARÁGRAFO . La Policía Nacional adelantará un plan constante de control para identificar mataderos clandestinos con el fin de garantizar al consumidor el origen y calidad del producto ofrecido, sin perjuicio del ejercicio de las competencias asignadas a las autoridades ambientales y sanitarias. Así mismo coordinará con las autoridades locales los requerimientos para su sellamiento conforme a la normatividad vigente. La carne decomisada en estos mataderos clandestinos será destruida para evitar su venta, consumo y distribución al público.
 
 (Decreto 3149 de 2006, art. 18, modificado por el Decreto 414 de 2007, art. 6)
-
-ARTÍCULO
 
 ## art:2.13.5.3.5 — Transporte de carne
 
@@ -12058,15 +10464,11 @@ CAPÍTULO 4
 
 De los Expendios de Carne y de los Expendedores
 
-ARTÍCULO
-
 ## art:2.13.5.4.1 — Licencias
 
 Para ser expendedor de carne, se debe contar con la licencia que acredite el cumplimiento de los requisitos sanitarios expedida por la autoridad competente, sin perjuicio de los requisitos que exijan otras disposiciones legales.
 
 (Decreto 3149 de 2006, art. 20)
-
-ARTÍCULO
 
 ## art:2.13.5.4.2 — Registro de expendedores
 
@@ -12075,8 +10477,6 @@ En las alcaldías municipales debe abrirse un libro de registro de expendedores.
 Los expendedores de carne al por mayor y detal están obligados a comprobar la procedencia de la carne que comercializan, para efectos de lo cual llevarán un registro que permita el control y contribuya a evitar la comisión de actos ilícitos a través de dichos establecimientos.
 
 (Decreto 3149 de 2006, art. 21)
-
-ARTÍCULO
 
 ## art:2.13.5.4.3 — Vigilancia y Control
 
@@ -12088,8 +10488,6 @@ CAPÍTULO 5
 
 Registro Nacional de Transacciones de Ganado Bovino y Bufalino en el Territorio Nacional
 
-ARTÍCULO
-
 ## art:2.13.5.5.1 — Registro Nacional de Transacciones de Ganado Bovino y Bufalino en el Territorio Nacional
 
 La entidad que de conformidad con el artículo 3 de la Ley 914 de 2004, sea designada por el Ministerio de Agricultura y Desarrollo Rural para la administración del Sistema Nacional de Identificación e Información de Ganado Bovino, tendrá a su cargo la conformación del Registro Nacional de Transacciones de Ganado Bovino en el Territorio Nacional, el cual será alimentado con la información reportada en línea por parte de las Organizaciones Gremiales Ganaderas.
@@ -12099,8 +10497,6 @@ La entidad que de conformidad con el artículo 3 de la Ley 914 de 2004, sea desi
 CAPÍTULO 6
 
 Actividades delictivas
-
-ARTÍCULO
 
 ## art:2.13.5.6.1 — Información de eventos que afecten la actividad ganadera
 
@@ -12116,15 +10512,11 @@ CAPÍTULO 1
 
 Fiebre Aftosa
 
-ARTÍCULO
-
 ## art:2.13.6.1.1 — Representantes
 
 Las Juntas Directivas del Fondo Nacional del Ganado y de la Federación Nacional de Fondos Ganaderos, elegirán el representante de cada una de ellas, para que asista a la Comisión Nacional para la Erradicación de la Fiebre Aftosa.
 
 (Decreto 3044 de 1997, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.6.1.2 — Evaluación y seguimiento del Programa Nacional de Erradicación de la Fiebre Aftosa
 
@@ -12134,23 +10526,17 @@ El Presupuesto General estará constituido por la sumatoria de los aportes en di
 
 (Decreto 3044 de 199 7, art. 2)
 
-ARTÍCULO
-
 ## art:2.13.6.1.3 — Medidas y criterios técnicos
 
 Para el cumplimiento del literal i) del artículo 5 de la Ley 395 de 1997, la Comisión Nacional para la Erradicación de la Fiebre Aftosa adoptará las normas y criterios técnicos que determine el Instituto Colombiano Agropecuario, ICA.
 
 (Decreto 3044 de 1997, art. 3)
 
-ARTÍCULO
-
 ## art:2.13.6.1.4 — Reglamentación
 
 Para los efectos de dar cumplimiento al Parágrafo único del artículo 6 de la Ley 395 de 1997, se aplicará la reglamentación que sobre la materia y de acuerdo con las necesidades del Programa Nacional de Erradicación de la Fiebre Aftosa, se establecen en el presente capítulo y las normas que los adicionen o modifiquen.
 
 (Decreto 3044 de 1997, art. 4)
-
-ARTÍCULO
 
 ## art:2.13.6.1.5 — 1.5
 
@@ -12174,15 +10560,11 @@ PARÁGRAFO 2. Las autorizaciones otorgadas por el ICA en virtud del artículo 7 
 
 (Decreto 3044 de 1997, art. 5)
 
-ARTÍCULO
-
 ## art:2.13.6.1.6 — Colaboración de las Umata
 
 Las Unidades Municipales de Asistencia Técnica, Umata, sin perjuicio de las funciones que les establece la ley, coadyuvarán al desarrollo y ejecución del Programa Nacional de Erradicación de la Fiebre Aftosa, en sus diferentes etapas.
 
 (Decreto 3044 de 1997, art. 6)
-
-ARTÍCULO
 
 ## art:2.13.6.1.7 — Deber de todos los involucrados
 
@@ -12193,8 +10575,6 @@ El ICA mantendrá un sistema de información y vigilancia epidemiológica con la
 El ICA determinará y será responsable de los estudios epidemiológicos que demuestren el proceso de la enfermedad.
 
 (Decreto 3044 de 199 7, art. 7)
-
-ARTÍCULO
 
 ## art:2.13.6.1.8 — Trato preferencial
 
@@ -12208,23 +10588,17 @@ CAPÍTULO 2
 
 Peste Porcina Clásica
 
-ARTÍCULO
-
 ## art:2.13.6.2.1 — Programa para la Erradicación de la Peste Porcina Clásica
 
 Habrá un programa de concertación y cogestión entre los sectores públicos y privados para la Erradicación de la Peste Porcina Clásica, que se adelantará en todo el territorio nacional bajo la Coordinación de la Subgerencia de Protección Animal del Instituto Colombiano Agropecuario, ICA.
 
 (Decreto 930 de 2002, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.6.2.2 — Fases del programa
 
 Establecer dentro del programa dos fases así: Fase I realizar la vacunación masiva de porcinos contra la Peste Porcina Clásica en todo el territorio nacional la cual tendrá una duración de tres años; Fase 11, suspender la vacunación y adelantar acciones de vigilancia epidemiológica.
 
 (Decreto 930 de 2002, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.6.2.3 — Concertación y cogestión
 
@@ -12244,23 +10618,17 @@ PARÁGRAFO . Serán invitados a las reuniones de concertación y cogestión cuan
 
 (Decreto 930 de 2002, art. 3)
 
-ARTÍCULO
-
 ## art:2.13.6.2.4 — Decisiones sobre el Programa
 
 Las decisiones sobre la operación y funcionamiento del Programa de Erradicación de la Peste Porcina Clásica, se adoptarán teniendo en cuenta los procesos de revisión, evaluación, seguimiento o ajuste del mismo, de acuerdo al presupuesto del proyecto.
 
 (Decreto 930 de 2002, art. 4)
 
-ARTÍCULO
-
 ## art:2.13.6.2.5 — Actas
 
 Las determinaciones sobre la operación y funcionamiento del Programa de Erradicación de la Peste Porcina Clásica, se consignarán en actas firmadas por quienes asistan a la reunión de concertación y cogestión en la que se adopten.
 
 (Decreto 930 de 2002, art. 5)
-
-ARTÍCULO
 
 ## art:2.13.6.2.6 — Requisitos para participar en el Programa
 
@@ -12273,8 +10641,6 @@ Las organizaciones de porcicultores y otras del sector para participar en el pro
 3. Participar en las actividades necesarias para la erradicación de la enfermedad.
 
 (Decreto 930 de 2002, art. 6)
-
-ARTÍCULO
 
 ## art:2.13.6.2.7 — Funcionarios responsables del estudio de la Peste Porcina Clásica
 
@@ -12294,8 +10660,6 @@ Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 930 de 2002, art. 7)
 
-ARTÍCULO
-
 ## art:2.13.6.2.8 — De la vacunación
 
 Es obligatorio vacunar todos los porcinos contra la Peste Porcina Clásica en todo el territorio nacional, para ello se debe seguir el siguiente esquema:
@@ -12309,8 +10673,6 @@ Es obligatorio vacunar todos los porcinos contra la Peste Porcina Clásica en to
 4. Los reproductores se vacunarán semestralmente.
 
 (Decreto 930 de 2002, art. 8)
-
-ARTÍCULO
 
 ## art:2.13.6.2.9 — Del tipo de vacuna
 
@@ -12342,15 +10704,11 @@ PARÁGRAFO 2. La comercialización de la vacuna estará a cargo de la Asociació
 
 (Decreto 930 de 2002, art. 9)
 
-ARTÍCULO
-
 ## art:2.13.6.2.10 — Responsables de la Vacunación
 
 La vacunación será realizada por Médicos Veterinarios, Zootecnistas, técnicos agropecuarios, vacunadores autorizados o autoridades sanitarias, quienes serán los responsables del correcto manejo, de la conservación, manipulación y aplicación del biológico, dejando constancia del acto vacunal en los registros del predio o del productor, mediante la utilización de un sistema de identificación de los porcinos vacunados.
 
 (Decreto 930 de 2002, art. 10)
-
-ARTÍCULO
 
 ## art:2.13.6.2.11 — Cerdos Vacunados
 
@@ -12358,15 +10716,11 @@ Se considerará vacunado contra la Peste Porcina Clásica todo cerdo que haya si
 
 (Decreto 930 de 2002, art. 11)
 
-ARTÍCULO
-
 ## art:2.13.6.2.12 — Registro Único de Vacunación
 
 Para que la vacunación sea reconocida oficialmente, el porcicultor, el asistente técnico o el médico veterinario responsable de la misma o la autoridad sanitaria correspondiente, deberán presentar ante la oficina del ICA de su jurisdicción o ante la entidad que el ICA delegue, el Registro Único de Vacunación en el que conste la identificación de los animales vacunados para su respectivo registro.
 
 (Decreto 930 de 2002, art. 12)
-
-ARTÍCULO
 
 ## art:2.13.6.2.13 — Expedición de la Guía sanitaria de movilización
 
@@ -12378,8 +10732,6 @@ PARÁGRAFO 2. La guía sanitaria de movilización expedida por el ICA o por quie
 
 (Decreto 930 de 2002, art. 13)
 
-ARTÍCULO
-
 ## art:2.13.6.2.14 — De la celebración de eventos
 
 Para la autorización de la celebración de eventos que impliquen concentración de porcinos se requiere que en el área de influencia del evento (10 kilómetros a la redonda) no se hayan presentado focos de Peste Porcina, Fiebre y Aftosa, cuadros vesiculares clínicos sin diagnóstico final u otras enfermedades transmisibles durante los tres (3) últimos meses, además, que el área de ubicación del recinto no se encuentre en cuarentena.
@@ -12390,8 +10742,6 @@ PARÁGRAFO 2. Para el ingreso o la salida de porcinos de remates, ferias y conce
 
 (Decreto 930 de 2002, art. 14)
 
-ARTÍCULO
-
 ## art:2.13.6.2.15 — Responsables de exigir la Guía de Movilización
 
 Los transportadores, consignatarios y compradores que intervengan en la comercialización de porcinos, deberán exigir la presentación de la Guía Sanitaria de Movilización antes de proceder a desplazar los animales.
@@ -12400,15 +10750,11 @@ Los administradores o responsables de plazas de ferias, remates, paraderos de ga
 
 (Decreto 930 de 2002, art. 15)
 
-ARTÍCULO
-
 ## art:2.13.6.2.16 — Guías Sanitarias de Movilización de grupo
 
 Cuando por razones de comercialización, se deban formar grupos de cerdos provenientes de distintos predios, los consignatarios y/o acopiadores presentarán al ICA de su jurisdicción, las Guías Sanitarias de Movilización de cada grupo, las cuales se cambiarán por una sola que reúna la suma total de animales transportados. Este documento acompañará a los animales hasta su destino definitivo.
 
 (Decreto 930 de 2002, art. 16)
-
-ARTÍCULO
 
 ## art:2.13.6.2.17 — Medidas preventivas
 
@@ -12418,8 +10764,6 @@ PARÁGRAFO . Solo se permitirá realizar varios viajes en el mismo vehículo y e
 
 (Decreto 930 de 2002, art. 17, modificado por el Decreto 3636 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.6.2.18 — De la vigilancia epidemiológica
 
 Es de responsabilidad general la notificación o denuncia inmediata de cualquier sospecha o existencia de la Peste Porcina Clásica en cerdos alojados en predios porcinos, en recintos o instalaciones de ferias, exposiciones o demás eventos y en tránsito por caminos públicos.
@@ -12427,8 +10771,6 @@ Es de responsabilidad general la notificación o denuncia inmediata de cualquier
 PARÁGRAFO . La notificación debe realizarse ante el ICA, o la entidad sanitaria en quien el Instituto delegue en esa jurisdicción. Son responsables de la notificación los propietarios de los porcinos, los técnicos y administradores de los predios respectivos, los vecinos de los mismos, los médicos veterinarios oficiales y/o privados conocedores del hecho, los laboratorios de diagnóstico oficial o privado, los comercializadores, transportistas, y cualquier persona natural o jurídica.
 
 (Decreto 930 de 2002, art. 18)
-
-ARTÍCULO
 
 ## art:2.13.6.2.19 — Control de Foco de la Peste Porcina Clásica
 
@@ -12450,15 +10792,11 @@ PARÁGRAFO . El propietario o administrador del predio afectado está obligado a
 
 (Decreto 930 de 2002, art. 19)
 
-ARTÍCULO
-
 ## art:2.13.6.2.20 — Obligación de los propietarios o responsables
 
 Los propietarios o personas responsables de los porcinos tendrán la obligación de mantener los animales en predios o áreas delimitadas que garanticen su contención. Esto con el fin de mantener unas condiciones mínimas de higiene y evitar que se constituyan en factores de riesgo para otros animales de la especie porcina.
 
 (Decreto 930 de 2002, art. 20)
-
-ARTÍCULO
 
 ## art:2.13.6.2.21 — Policía Sanitaria
 
@@ -12470,15 +10808,11 @@ CAPÍTULO 3
 
 Influenza Aviar y Newcastle
 
-ARTÍCULO
-
 ## art:2.13.6.3.1 — Objeto
 
 El presente capítulo tiene por fin reglamentar el artículo 17 de la Ley 1255 de 2008, por medio de la cual Colombia tornará tas medidas necesarias para preservar el estado sanitario del país corno libre de influenza aviar y para erradicar la enfermedad de Newcastle.
 
 (Decreto 735 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.6.3.2 — Ámbito de aplicación
 
@@ -12486,15 +10820,11 @@ El presente capítulo aplica a la importación de aves vivas y productos aviares
 
 (Decreto 735 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.13.6.3.3 — Autoridad Nacional Competente
 
 De conformidad con lo establecido en el artículo 65 de la Ley 101 de 1993, el Instituto Colombiano Agropecuario -ICA- o la entidad que haga sus veces, es la autoridad nacional competente para implementar las medidas necesarias para preservar el estado sanitario del país corno libre de influenza aviar y para erradicar la enfermedad de Newcastle.
 
 (Decreto 735 de 2012, art. 3)
-
-ARTÍCULO
 
 ## art:2.13.6.3.4 — Prohibición de entrada
 
@@ -12503,8 +10833,6 @@ El ICA prohibirá la entrada de aves vivas y productos aviares de riesgo por mot
 El ICA podrá reconocer que los sistemas de control para influenza aviar de un país son efectivos, mediante un entendimiento basado en las condiciones particulares de cada país, de conformidad con lo dispuesto en el artículo 4 del Acuerdo de Medidas Sanitarias y Fitosanitarias de la Organización Mundial del Comercio. En tales casos, se actuará conforme a dicho entendimiento.
 
 (Decreto 735 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.13.6.3.5 — Imposición de medidas
 
@@ -12516,15 +10844,11 @@ CAPÍTULO 4
 
 Tuberculosis Bovina
 
-ARTÍCULO
-
 ## art:2.13.6.4.1 — Campaña Nacional de Control y Erradicación de la Tuberculosis Bovina
 
 Establécese la Campaña Nacional de Control y Erradicación de la Tuberculosis Bovina bajo la dirección del ICA y con la colaboración del Ministerio de Salud y Protección Social.
 
 (Decreto 438 de 1979, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.6.4.2 — Medidas Sanitarias
 
@@ -12532,15 +10856,11 @@ Las medidas sanitarias que el Instituto Colombiano Agropecuario, ICA, y el Minis
 
 (Decreto 438 de 1979, art. 2)
 
-ARTÍCULO
-
 ## art:2.13.6.4.3 — Control Sanitario Especial
 
 Los predios, los animales y sus productos que sean declarados como infectados por tuberculosis bovina, serán sometidos a un control sanitario especial por el Ministerio de Salud y Protección Social y el Instituto Colombiano Agropecuario, ICA.
 
 (Decreto 438 de 1979, art. 3)
-
-ARTÍCULO
 
 ## art:2.13.6.4.4 — Sacrificio
 
@@ -12548,15 +10868,11 @@ Todos los animales que sean declarados positivos a tuberculosis deberán ser sac
 
 (Decreto 438 de 1979, art. 4)
 
-ARTÍCULO
-
 ## art:2.13.6.4.5 — Indemnización
 
 Para el sacrificio de los animales declarados positivos, y cuando el caso así lo justifique, el Gobierno procederá a indemnizar a los propietarios, de acuerdo con reglamentación que para el efecto establezca el Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 438 de 1979, art. 5)
-
-ARTÍCULO
 
 ## art:2.13.6.4.6 — Reglamentación
 
@@ -12572,8 +10888,6 @@ CAPÍTULO 1
 
 Protección de Variedades Vegetales
 
-ARTÍCULO
-
 ## art:2.13.7.1.1 — Ámbito de aplicación
 
 La protección a las variedades se otorga a aquellas cultivadas de los géneros y especies botánicas, siempre que su cultivo, posesión o utilización no se encuentren prohibidos por razones de salud humana, animal o vegetal.
@@ -12581,8 +10895,6 @@ La protección a las variedades se otorga a aquellas cultivadas de los géneros 
 PARÁGRAFO . El presente capítulo no se aplica a las especies silvestres, es decir, aquellas especies e individuos vegetales que no se han plantado o mejorado por el hombre. Respecto de las mismas, se aplicará lo dispuesto en el numeral 21 del artículo 5 de la Ley 99 de 1993.
 
 (Decreto 533 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.7.1.2 — Funciones pertinentes del ICA
 
@@ -12616,15 +10928,11 @@ Dichas pruebas podrán realizarse por entidades públicas y/o privadas, siguiend
 
 (Decreto 533 de 1994, arts. 2 y 3)
 
-ARTÍCULO
-
 ## art:2.13.7.1.3 — Certificado de obtentor
 
 Se otorgará certificado de obtentor a la persona natural o jurídica que haya creado una variedad vegetal, cuando ésta cumpla las condiciones establecidas en el artículo cuarto de la Decisión 345 de 1993.
 
 (Decreto 533 de 1994, art. 4)
-
-ARTÍCULO
 
 ## art:2.13.7.1.4 — Concepto del ICA
 
@@ -12632,15 +10940,11 @@ El ICA emitirá concepto técnico sobre la novedad, distinguibilidad, homogeneid
 
 (Decreto 533 de 1994, art. 5)
 
-ARTÍCULO
-
 ## art:2.13.7.1.5 — Registro Nacional de Variedades Vegetales Protegidas
 
 El ICA es el responsable de llevar el Registro Nacional de Variedades Vegetales Protegidas, en el cual deberá indicarse la descripción fenotípica de la variedad protegida número de certificado de obtentor, denominación de la variedad, identificación del obtentor y de su representante en caso de que lo tenga, identificación del titular del derecho de protección cuando sea una persona distinta del obtentor, y cualquier acto jurídico que afecte los derechos del obtentor.
 
 (Decreto 533 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.13.7.1.6 — Término de duración de la protección
 
@@ -12648,23 +10952,17 @@ El término de duración de la protección, será de veinticinco (25) años, par
 
 (Decreto 533 de 1994, art. 7, modificado por el Decreto 2687 de 2000, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.7.1.7 — Derecho del obtentor
 
 El obtentor de una variedad inscrita en el Registro Nacional de Variedades Vegetales Protegidas tendrá el derecho de impedir que terceros realicen sin su consentimiento los actos iniciados el artículo 24 de la Decisión 345 de 1993, respecto a las variedades protegidas y de las esencialmente derivada de la variedad protegida, salvo que ésta sea a su vez una variedad esencialmente derivada.
 
 (Decreto 533 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.13.7.1.8 — Obligaciones
 
 El titular de una variedad inscrita en el Registro Nacional de Variedades Vegetales Protegidas tendrá, además de las obligaciones contenidas en la Decisión 345 de 1993, la de mantener y reponer la muestra viva de la variedad durante toda la vigencia del certificado de obtentor, a solicitud del ICA.
 
 (Decreto 533 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.13.7.1.9 — Solicitud
 
@@ -12698,23 +10996,17 @@ PARÁGRAFO . Para el cumplimiento del requisito mencionado en el numeral 3 del p
 
 (Decreto 533 de 1994, art. 10)
 
-ARTÍCULO
-
 ## art:2.13.7.1.10 — Admisión de la solicitud
 
 El ICA aceptará o rechazará la solicitud dentro de los términos previstos por la Ley Estatutaria del Derecho de Petición. La admisión o rechazo de la solicitud se refiere al cumplimiento de los requisitos formales mencionados en el artículo 2.13.7.1.9.
 
 (Decreto 533 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.13.7.1.11 — Término
 
 El ICA deberá pronunciarse respecto de las condiciones establecidas en el artículo 7 de la Decisión 345, dentro de un plazo de tres (3) años para las variedades de ciclo corto y de diez (10) años para las variedades de ciclos mediano y largo, contados a partir de la fecha de presentación de la solicitud de protección
 
 (Decreto 533 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.13.7.1.12 — Término de protección del derecho
 
@@ -12724,8 +11016,6 @@ En caso de certificados o títulos de obtentor otorgados en el extranjero, el IC
 
 (Decreto 533 de 1994, art. 13, modificado por el Decreto 2468 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.7.1.13 — Distribución de recursos
 
 El Gobierno Nacional establecerá la manera como las entidades de derecho público podrán distribuir entre sus empleados obtentores y en los planes, programas y proyectos de investigación, los recursos que obtengan por la explotación de variedades vegetales sobre las cuales detenten certificados de obtentor.
@@ -12733,8 +11023,6 @@ El Gobierno Nacional establecerá la manera como las entidades de derecho públi
 PARÁGRAFO . La participación de los empleados obtentores en los recursos de que trata el presente artículo no serán factor de salario ni se tendrán en cuenta en ningún caso para la liquidación de prestaciones sociales o de derechos de cualquier naturaleza derivados de la relación laboral.
 
 (Decreto 533 de 1994, art. 14)
-
-ARTÍCULO
 
 ## art:2.13.7.1.14 — Infracciones
 
@@ -12746,23 +11034,19 @@ CAPÍTULO 2
 
 Materiales Genéticos Básicos de Semillas Mejoradas
 
-ARTÍCULO
-
 ## art:2.13.7.2.1 — 2.1
 
 Corresponde al Ministerio de Agricultura y Desarrollo Rural, a través del Instituto Colombiano Agropecuario, la función de supervisar el registro, la certificación, multiplicación y distribución de todo material mejorado que se destine a cultivos para la alimentación o la industria, bien que estas actividades se cumplan por organismos oficiales o particulares.
 
 (Decreto 140 de 1965, art. 1)
 
-## art:2.13 — 7.2.2
+## art:2.13.7.2.2 — Material Mejorado
 
-Material Mejorado. Para los efectos del presente capítulo entiéndase por materiales mejorados, todo grano, tubérculo, bulbo o cualquiera parte del vegetal usada para la multiplicación auténtica de la especie, cuando proviene de organismos vegetales que son mejores que los conocidos, en una o más características.
+Para los efectos del presente capítulo entiéndase por materiales mejorados, todo grano, tubérculo, bulbo o cualquiera parte del vegetal usada para la multiplicación auténtica de la especie, cuando proviene de organismos vegetales que son mejores que los conocidos, en una o más características.
 
 En esta definición no queda comprendida la semilla tratada, para fines sanitarios, con sustancias químicas o por medios físicos.
 
 (Decreto 140 de 1965, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.7.2.3 — Requisitos para el registro de material vegetal
 
@@ -12770,23 +11054,17 @@ Los materiales genéticos básicos producidos por la industria privada que vayan
 
 (Decreto 140 de 1965, art.4)
 
-ARTÍCULO
-
 ## art:2.13.7.2.4 — Certificación
 
 Compete al Ministerio de Agricultura y Desarrollo Rural, a través del Instituto Colombiano Agropecuario -ICA-, la certificación de la semilla de materiales mejorados que vayan a ponerse a disposición del público.
 
 (Decreto 140 de 1965, art. 7)
 
-ARTÍCULO
-
 ## art:2.13.7.2.5 — 2.5
 
 Las semillas importadas estarán sujetas, para fines de certificación, a todos los requisitos exigidos para las semillas producidas en el país.
 
 (Decreto 140 de 1965, art.9)
-
-ARTÍCULO
 
 ## art:2.13.7.2.6 — 2.6
 
@@ -12798,15 +11076,11 @@ CAPÍTULO 3
 
 Organismos Vivos Modificados
 
-ARTÍCULO
-
 ## art:2.13.7.3.1 — Objeto
 
 El objeto del presente capítulo es establecer el marco regulatorio de los Organismos Vivos Modificados, OVM, de acuerdo con lo establecido por la Ley 740 de 2002.
 
 (Decreto 4525 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.7.3.2 — Ámbito de aplicación
 
@@ -12814,13 +11088,17 @@ El presente capítulo se aplicará al movimiento transfronterizo, el tránsito, 
 
 (Decreto 4525 de 2005, art. 2)
 
+## art:2.13.7.3.3 — Competencia del Ministerio de Agricultura y Desarrollo Rural
+
+Para efectos de esta capítulo, el Ministerio de Agricultura y Desarrollo Rural, a través del Instituto Colombiano Agropecuario, ICA, será competente para la autorización de las actividades señaladas en el presente capítulo, cuando se trate de Organismos Vivos Modificados, OVM. Exclusivamente para uso agrícola, pecuario, pesquero, plantaciones forestales comerciales y agroindustriales, que puedan tener efectos adversos para la conservación y la utilización sostenible de la diversidad biológica.
+
+(Decreto 4525 de 2005, art. 4)
+
 ## art:2.13.7.3.4 — Competencia del Ministerio de Ambiente y Desarrollo Sostenible
 
 Para efectos de esta norma, el Ministerio de Ambiente y Desarrollo Sostenible será competente para la autorización de las actividades señaladas en el presente capítulo, cuando se trate de Organismos Vivos Modificados, OVM, exclusivamente para uso ambiental.
 
 (Decreto 4525 de 2005, art. 5)
-
-ARTÍCULO
 
 ## art:2.13.7.3.5 — Competencia del Ministerio de Salud y Protección Social
 
@@ -12828,15 +11106,11 @@ Paraefectos de esta norma, el Ministerio de Salud y Protección Social directame
 
 (Decreto 4525 de 2005, art. 6)
 
-ARTÍCULO
-
 ## art:2.13.7.3.6 — Obligación de solicitar autorización para el desarrollo de actividades con Organismos Vivos Modificados, OVM
 
 Las personas interesadas en adelantar una o varias de las actividades a que se refiere el presente capítulo, deberán solicitar autorización previa ante la autoridad competente respectiva, en los términos indicados en el presente capítulo.
 
 (Decreto 4525 de 2005, art. 7)
-
-ARTÍCULO
 
 ## art:2.13.7.3.7 — Contenido del acto administrativo
 
@@ -12860,23 +11134,17 @@ El acto administrativo mediante el cual la autoridad competente otorga autorizac
 
 (Decreto 4525 de 2005, art. 8)
 
-ARTÍCULO
-
 ## art:2.13.7.3.8 — Acuerdo fundamentado previo
 
 La autorización que otorgue la autoridad competente conforme a los procedimientos anteriormente señalados, se entenderá como el Acuerdo Fundamentado Previo para los movimientos transfronterizos de Organismos Vivos Modificados, OVM, según lo establecido en la Ley 740 de 2002.
 
 (Decreto 4525 de 2005, art. 9)
 
-ARTÍCULO
-
 ## art:2.13.7.3.9 — Cesión de derechos
 
 El titular de una autorización para realizar las actividades de qué trata el artículo 2.13.7.3.2, del presente capítulo, podrá ceder sus derechos previa aceptación expresa y escrita de la autoridad competente de conformidad con los artículos 2.13.7.3.3., 2.13.7.3.4., 2.13.7.3.5. y 2.13.7.3.6, de esta norma, la cual podrá negar la cesión en caso de que el cesionario no posea las condiciones científicas, técnicas y operativas requeridas para la realización de la actividad.
 
 (Decreto 4525 de 2005, art. 10)
-
-ARTÍCULO
 
 ## art:2.13.7.3.10 — Modificación de la autorización
 
@@ -12885,8 +11153,6 @@ La autorización podrá ser modificada a solicitud de su titular o por la autori
 PARÁGRAFO . Para la revisión de las decisiones en relación con Organismos Vivos Modificados, OVM, en el marco del Protocolo de Cartagena aprobado por la Ley 740 de 2002, se aplicará lo dispuesto en el artículo 12 de dicho instrumento, de conformidad con las competencias establecidas en el presente capítulo.
 
 (Decreto 4525 de 2005, art. 11)
-
-ARTÍCULO
 
 ## art:2.13.7.3.11 — Investigación en medio confinado
 
@@ -12906,15 +11172,11 @@ Los interesados en adelantar actividades de investigación con Organismos Vivos 
 
 (Decreto 4525 de 2005, art. 12)
 
-ARTÍCULO
-
 ## art:2.13.7.3.12 — Liberación accidental o escape
 
 En caso de que en desarrollo de las actividades o proyectos de investigación en medio confinado, ocurra liberación accidental o escape de los Organismos Vivos Modificados, OVM, el titular o responsable de la investigación, deberá informar de manera inmediata a las autoridades competentes y adoptar igualmente el plan de contingencia.
 
 (Decreto 4525 de 2005, art. 13)
-
-ARTÍCULO
 
 ## art:2.13.7.3.13 — Cambio de las actividades de investigación en medio confinado a ensayos de campo
 
@@ -12922,15 +11184,11 @@ Lo dispuesto en este acápite no aplicará para las actividades de investigació
 
 (Decreto 4525 de 2005, art. 14)
 
-ARTÍCULO
-
 ## art:2.13.7.3.14 — Investigación científica en diversidad biológica
 
 En los casos en que la investigación implique el uso de recursos de la diversidad biológica, se atenderá lo dispuesto en la normatividad ambiental vigente sobre investigación científica y en el caso que la investigación implique acceso a recursos genéticos, se atenderá lo dispuesto en la Decisión 391 de 1996 de la Comunidad Andina sobre el Régimen Común de Acceso a Recursos Genéticos.
 
 (Decreto 4525 de 2005, art.15)
-
-ARTÍCULO
 
 ## art:2.13.7.3.15 — Objeto de la evaluación del riesgo
 
@@ -12945,8 +11203,6 @@ La Evaluación del Riesgo se realizará caso por caso, teniendo en cuenta criter
 4. Regular la presentación de informes ante la autoridad que por virtud de este capítulo, expide la autorización.
 
 (Decreto 4525 de 2005, art. 16)
-
-ARTÍCULO
 
 ## art:2.13.7.3.16 — Documento de evaluación y gestión del riesgo
 
@@ -12976,15 +11232,11 @@ PARÁGRAFO . Tratándose de movimientos transfronterizos que no requieren Acuerd
 
 (Decreto 4525 de 2005, art. 17)
 
-ARTÍCULO
-
 ## art:2.13.7.3.17 — Comité Técnico Nacional de Bioseguridad
 
 Establézcase para cada clase de -OVM- a que se hace referencia en este capítulo, de conformidad con los artículos 2.13.7.3.3., 2.13.7.3.4. y 2.13.7.3.5. de la misma norma, un Comité Técnico Nacional de Bioseguridad.
 
 (Decreto 4525 de 2005, art. 18)
-
-ARTÍCULO
 
 ## art:2.13.7.3.18 — .18
 
@@ -13002,8 +11254,6 @@ Comité Técnico Nacional de Bioseguridad para -OVM- con fines agrícolas, pecua
 
 (Decreto 4525 de 2005, art. 19)
 
-ARTÍCULO
-
 ## art:2.13.7.3.19 — .19
 
 Funciones del Comité Técnico Nacional de Bioseguridad para - OVM- con fines exclusivamente agrícolas, pecuarios, pesqueros, plantaciones forestales comerciales y agroindustria. Las funciones del Comité al que se refiere el artículo 2.13.7.3.18, serán las siguientes:
@@ -13018,8 +11268,6 @@ Funciones del Comité Técnico Nacional de Bioseguridad para - OVM- con fines ex
 
 (Decreto 4525 de 2005, art. 20)
 
-ARTÍCULO
-
 ## art:2.13.7.3.20 — Quórum deliberatorio y decisorio
 
 El comité tomará decisiones de manera colegiada, en ese sentido habrá quórum para deliberar cuando tres (3) de sus miembros asistan.
@@ -13028,15 +11276,11 @@ Habrá quórum para decidir con la mayoría de los asistentes.
 
 (Decreto 4525 de 2005, art. 21)
 
-ARTÍCULO
-
 ## art:2.13.7.3.21 — .21
 
 La forma de convocatoria, funcionamiento y las sesiones del comité serán definidas mediante resolución que expida el Instituto Colombiano Agropecuario, ICA, quien ejercerá la secretaría del mismo.
 
 (Decreto 4525 de 2005, art. 22)
-
-ARTÍCULO
 
 ## art:2.13.7.3.22 — Comité Técnico Nacional de Bioseguridad para OVM con fines exclusivamente ambientales
 
@@ -13049,8 +11293,6 @@ Para los -OVM- a los que se refiere el artículo 2.13.7.3.4. el Comité se confo
 3. El Director de Colciencias o su delegado.
 
 (Decreto 4525 de 2005, art. 23)
-
-ARTÍCULO
 
 ## art:2.13.7.3.23 — Funciones del Comité Técnico Nacional de Biotecnología para OVM con fines ambientales
 
@@ -13066,8 +11308,6 @@ Las funciones del Comité al que se refiere el artículo 2.13.7.3.22, serán las
 
 (Decreto 4525 de 2005, art. 24)
 
-ARTÍCULO
-
 ## art:2.13.7.3.24 — Quórum deliberatorio y decisorio
 
 El comité tomará decisiones de manera colegiada, en ese sentido habrá quórum para deliberar cuando dos (2) de sus miembros asistan.
@@ -13076,15 +11316,11 @@ Habrá quórum para decidir con la mayoría de los asistentes.
 
 (Decreto 4525 de 2005, art. 25)
 
-ARTÍCULO
-
 ## art:2.13.7.3.25 — Sesiones
 
 La forma de convocatoria, el funcionamiento y las sesiones del comité será definida mediante resolución que expida el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 4525 de 2005, art. 26)
-
-ARTÍCULO
 
 ## art:2.13.7.3.26 — Comité Técnico Nacional de Bioseguridad para OVM con uso en salud o alimentación humana exclusivamente
 
@@ -13097,8 +11333,6 @@ Para los -OVM- a los que se refiere el artículo 2.13.7.3.5, el Comité se confo
 3. El Director de Colciencias o su delegado.
 
 (Decreto 4525 de 2005, art. 27)
-
-ARTÍCULO
 
 ## art:2.13.7.3.27 — Funciones del Comité Técnico Nacional de Bioseguridad para OVM con uso en salud o alimentación humana
 
@@ -13114,8 +11348,6 @@ Las funciones del Comité al que se refiere el artículo anterior, serán las si
 
 (Decreto 4525 de 2005, art. 28)
 
-ARTÍCULO
-
 ## art:2.13.7.3.28 — Quórum deliberatorio y decisorio
 
 El comité tomará decisiones de manera colegiada, en ese sentido habrá quórum para deliberar cuando dos (2) de sus miembros asistan.
@@ -13124,15 +11356,11 @@ Habrá quórum para decidir con la mayoría de los asistentes.
 
 (Decreto 4525 de 2005, art. 29)
 
-ARTÍCULO
-
 ## art:2.13.7.3.29 — .29
 
 La forma de convocatoria, el funcionamiento y las sesiones del comité será definida mediante resolución que expida el Ministerio de Salud y Protección Social.
 
 (Decreto 4525 de 2005, art. 30)
-
-ARTÍCULO
 
 ## art:2.13.7.3.30 — Control y seguimiento
 
@@ -13140,15 +11368,11 @@ El Ministerio de Salud y Protección Social; el Instituto Nacional de Vigilancia
 
 (Decreto 4525 de 2005, art. 31)
 
-ARTÍCULO
-
 ## art:2.13.7.3.31 — Medidas preventivas y sancionatorias
 
 Cuando ocurra violación de las disposiciones de la presente norma, la autoridad competente impondrá las medidas preventivas y las sanciones, de conformidad con el procedimiento previsto por la normatividad agrícola, pecuaria, ambiental y de salud correspondientes.
 
 (Decreto 4525 de 2005, art. 32)
-
-ARTÍCULO
 
 ## art:2.13.7.3.32 — Colaboración de otras autoridades
 
@@ -13156,21 +11380,23 @@ Las autoridades aduaneras, portuarias, marítimas y aeroportuarias exigirán las
 
 (Decreto 4525 de 2005, art. 33)
 
+## art:2.13.7.3.33 — Información
+
+Las autoridades competentes adoptarán los mecanismos para hacer efectivo el intercambio de información en materia técnica, científica, normativa, administrativa y cualquier otra información adicional relevante en los ámbitos nacional, subregional e internacional en materia de bioseguridad y Organismos Vivos Modificados, OVM, incluyendo el Centro de Intercambio sobre Seguridad en la Biotecnología previsto en el Protocolo de Cartagena.
+
+(Decreto 4525 de 2005, art. 34)
+
 ## art:2.13.7.3.34 — Etiquetado o rotulado
 
 La autoridad competente podrá establecer disposiciones en relación con la información que deberá suministrar a los usuarios y consumidores, en las etiquetas y empaques de los Organismos Vivos Modificados, OVM, autorizados, de conformidad con el artículo 18 de la Ley 740 de 2002.
 
 (Decreto 4525 de 2005, art. 35)
 
-ARTÍCULO
-
 ## art:2.13.7.3.35 — Educación
 
 Las autoridades competentes, así como las personas naturales o jurídicas que desarrollen actividades con Organismos Vivos Modificados, OVM, diseñarán y promoverán programas de educación dirigidos a los usuarios, consumidores y a la comunidad en general, que permitan fortalecer el conocimiento y la percepción pública, tanto sobre los beneficios, como sobre los riesgos que puedan generarse en el desarrollo de actividades con OVM.
 
 (Decreto 4525 de 2005, art. 36)
-
-ARTÍCULO
 
 ## art:2.13.7.3.36 — Participación del público
 
@@ -13188,15 +11414,11 @@ CAPÍTULO 1
 
 Registro y Control de Plaguicidas Químicos de Uso Agrícola
 
-ARTÍCULO
-
 ## art:2.13.8.1.1 — Autoridad Nacional Competente
 
 De conformidad con lo establecido en el artículo 4 de la Decisión 436, el Ministerio de Agricultura y Desarrollo Rural, a través del Instituto Colombiano Agropecuario, ICA, o la entidad que haga sus veces, es la Autoridad Nacional Competente, para llevar el registro y control de los plaguicidas químicos de uso agrícola y el responsable de velar por el cumplimiento de la Decisión, su Manual Técnico y el presente Capítulo.
 
 (Decreto 502 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.8.1.2 — Definiciones
 
@@ -13204,23 +11426,17 @@ Para la interpretación y aplicación del presente capítulo, se utilizarán las
 
 (Decreto 502 de 2003, art. 2)
 
-ARTÍCULO
-
 ## art:2.13.8.1.3 — Ventanilla única
 
 El Instituto Colombiano Agropecuario, ICA, a través de un sistema de ventanilla única, será responsable de llevar a cabo el registro y control de los plaguicidas químicos de uso agrícola y de recibir, tramitar y coordinar con las autoridades competentes, las solicitudes de registro de los plaguicidas químicos de uso agrícola, previstas en la Decisión, en la Resolución, y en las demás normas sobre la materia. Para tal efecto, recibirá las solicitudes de registro y dará traslado a los Ministerios de Salud y Protección Social y al Ministerio de Ambiente y Desarrollo Sostenible, para que adelanten dentro del ámbito de sus competencias, los trámites en el control de las actividades vinculadas con los plaguicidas químicos de uso agrícola.
 
 (Decreto 502 de 2003, art. 3)
 
-ARTÍCULO
-
 ## art:2.13.8.1.4 — Ámbito de aplicación
 
 La Autoridad Nacional Competente expedirá las resoluciones mediante las cuales se establezcan los requisitos y procedimientos para el registro y control de los plaguicidas químicos de uso agrícola, basándose en los principios de gradualidad, especificidad y aplicabilidad, de conformidad con lo dispuesto en la Decisión. Igualmente establecerá los requisitos para el registro de fabricantes, formuladores, importadores, exportadores, envasadores y distribuidores.
 
 (Decreto 502 de 2003, art. 4)
-
-ARTÍCULO
 
 ## art:2.13.8.1.5 — Protección
 
@@ -13229,8 +11445,6 @@ Cuando se haya expedido el registro de un plaguicida químico de uso agrícola q
 PARÁGRAFO . Para los efectos del presente capítulo, se entiende por nueva entidad química el ingrediente activo de un plaguicida químico de uso agrícola que no ha sido previamente registrado en el país.
 
 (Decreto 502 de 2003, art. 5, modificado por el Decreto 727 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.8.1.6 — Excepciones a la protección
 
@@ -13244,23 +11458,17 @@ La protección a la que se refiere el artículo 2.13.8.1.5 no aplica en los sigu
 
 (Decreto 502 de 2003, art. 6)
 
-ARTÍCULO
-
 ## art:2.13.8.1.7 — Control Interno de Calidad
 
 Las personas naturales o jurídicas que soliciten registro como fabricantes, formuladores y envasadores, deberán contar con los servicios propios de un profesional químico para el control interno de los procesos productivos y en especial el control de calidad de los productos.
 
 (Decreto 502 de 2003, art. 8)
 
-ARTÍCULO
-
 ## art:2.13.8.1.8 — Obligaciones derivadas del registro
 
 La obtención del registro impone a los beneficiarios la obligación de ceñirse estrictamente a los términos y condiciones señaladas en los documentos presentados y aprobados para obtenerlo y así aceptarse expresamente por el interesado en el acto de obtener su registro.
 
 (Decreto 57 de 1957, art. 5)
-
-ARTÍCULO
 
 ## art:2.13.8.1.9 — Venta de Plaguicidas
 
@@ -13270,15 +11478,11 @@ Los plaguicidas químicos de uso agrícola clasificados como extremada y altamen
 
 PARÁGRAFO . Los productos sólo podrán venderse por los importadores, fabricantes o distribuidores minoritarios, en los empaques originales aprobados por el Instituto Colombiano Agropecuario, los cuales deben contener el número del registro correspondiente.
 
-ARTÍCULO
-
 ## art:2.13.8.1.10 — Revisión de los Registros
 
 Por razones toxicológicas, ambientales y agronómicas señaladas en las normas correspondientes, la Autoridad Nacional Competente, podrá suspender y cancelar, según el caso, el registro de importación, fabricación, formulación, venta y uso de un plaguicida químico de uso agrícola.
 
 (Decreto 502 de 2003, art. 10)
-
-ARTÍCULO
 
 ## art:2.13.8.1.11 — Prohibiciones
 
@@ -13288,8 +11492,6 @@ Igualmente queda prohibida la fabricación, almacenamiento y venta de plaguicida
 
 (Decreto 502 de 2003, art. 11)
 
-ARTÍCULO
-
 ## art:2.13.8.1.12 — Publicidad
 
 El Instituto Colombiano Agropecuario - lCA publicará mensualmente la relación de plaguicidas químicos de uso agrícola que haya registrado en el mes anterior. En el mismo sentido publicará en el mes de enero de cada año la relación de productos con registro vigente; los que se encuentren restringidos, prohibidos, cancelados o suspendidos.
@@ -13298,15 +11500,11 @@ La publicidad comercial que hagan las empresas comercializadoras de plaguicidas 
 
 (Decreto 502 de 2003, art. 12)
 
-ARTÍCULO
-
 ## art:2.13.8.1.13 — Etiquetado y envasado
 
 El ICA establecerá los requisitos relacionados con el etiquetado y envasado aplicable al producto formulado, de conformidad con lo establecido en el Manual Técnico.
 
 (Decreto 502 de 2003, art. 13)
-
-ARTÍCULO
 
 ## art:2.13.8.1.14 — Inspección y Control
 
@@ -13318,15 +11516,11 @@ Igualmente, el Instituto Colombiano Agropecuario - ICA queda facultada para veri
 
 (Decreto 502 de 2003, art. 14)
 
-ARTÍCULO
-
 ## art:2.13.8.1.15 — Información necesaria
 
 Las personas a cuyo favor se verifique el registro de los productos de que trata este capítulo, están en la obligación de suministrar al Instituto Colombiano Agropecuario, ICA, los nombres y direcciones de los distribuidores o expendedores minoritarios de los productos.
 
 (Decreto 557 de 1957, art. 8)
-
-ARTÍCULO
 
 ## art:2.13.8.1.16 — Vigilancia
 
@@ -13336,15 +11530,11 @@ En el mismo sentido, las autoridades mencionadas tomarán las medidas preventiva
 
 (Decreto 502 de 2003, art. 15)
 
-ARTÍCULO
-
 ## art:2.13.8.1.17 — Cancelación del registro
 
 Cuando a pesar de haberse seguido extraordinariamente las prescripciones dadas para la aplicación de los productos amparados por registro del Instituto Colombiano Agropecuario - ICA, se presentaren lesiones en los cultivos, en los animales o en el hombre, ocasionados por su uso, el Instituto Colombiano Agropecuario - ICA podrá cancelar el registro correspondiente por medio de resolución motivada.
 
 (Decreto 557 de 1957, art. 8)
-
-ARTÍCULO
 
 ## art:2.13.8.1.18 — 
 
@@ -13356,8 +11546,6 @@ CAPÍTULO 2
 
 Plaguicidas Genéricos
 
-ARTÍCULO
-
 ## art:2.13.8.2.1 — Concepto Toxicológico
 
 Para la expedición del Concepto Toxicológico, de la Licencia Ambiental y del Registro de Venta de los plaguicidas genéricos no será necesaria la presentación de los estudios toxicológicos, ni la caracterización del producto para evaluación de impacto ambiental, ni las pruebas de eficacia, cuando el Instituto Nacional de Salud, el Ministerio del Medio Ambiente y Desarrollo Sostenible o el Instituto Colombiano Agropecuario, ICA, respectivamente, hayan expedido con anterioridad dicho concepto, licencia o registro para el mismo plaguicida, siempre que se trate de las mismas características y usos del producto anteriormente evaluado y que las mencionadas autoridades se basen exclusivamente en la información de carácter público de acuerdo con las disposiciones del ordenamiento jurídico andino.
@@ -13365,8 +11553,6 @@ Para la expedición del Concepto Toxicológico, de la Licencia Ambiental y del R
 PARÁGRAFO . Para comprobar que el plaguicida genérico del cual se solicita concepto toxicológico, licencia ambiental y registro de venta es el mismo plaguicida antes evaluado, el solicitante deberá presentar un certificado de análisis químico cualitativo y cuantitativo de los ingredientes activos y un certificado de composición química del producto formulado, emitidos por un laboratorio nacional o internacional debidamente registrado ante el ICA, en los cuales se demuestre que el perfil del ingrediente activo grado técnico, de los aditivos en la formulación e impurezas están dentro del rango de las especificaciones técnicas del producto anteriormente evaluado.
 
 (Decreto 459 de 2000, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.8.2.2 — Casos en que la información no podrá ser calificada como confidencial
 
@@ -13394,8 +11580,6 @@ En ningún caso será calificada como confidencial la información presentada pa
 
 (Decreto 459 de 2000, art. 3)
 
-ARTÍCULO
-
 ## art:2.13.8.2.3 — Procedimiento para formulación de objeciones
 
 La solicitud de registro de venta de plaguicidas genéricos que anteriormente fueron objeto de registro no requiere estar acompañada del Concepto Toxicológico. El ICA, para dar trámite, solicitará dicho concepto al Instituto Nacional de Salud, el que deberá remitirlo en el término de los treinta días siguientes.
@@ -13409,8 +11593,6 @@ Recibida la documentación de conformidad, o la corregida y complementada según
 El Ministerio de Agricultura y Desarrollo Rural ejercerá la vigilancia sobre el cumplimiento de los trámites y términos contemplados en el presente capítulo y solicitará que se adelanten las acciones disciplinarias si a ello hubiere lugar.
 
 (Decreto 459 de 2000, art. 4)
-
-ARTÍCULO
 
 ## art:2.13.8.2.4 — 2.4
 
@@ -13580,8 +11762,6 @@ CAPÍTULO 1
 
 Residuos y Desperdicios Provenientes de Aeronaves Internacionales
 
-ARTÍCULO
-
 ## art:2.13.10.1.1 — Destrucción de residuos y desperdicios
 
 Todos los residuos y desperdicios de comidas provenientes de las aeronaves internacionales que hagan escalas o servicios de cabotaje en los aeropuertos del país, deberás ser destruidos por incineración.
@@ -13590,15 +11770,11 @@ Cuando por razones de mal tiempo o de emergencia se tenga que habilitar aeropuer
 
 (Decreto 389 de 1979, art. 1)
 
-ARTÍCULO
-
 ## art:2.13.10.1.2 — Tratamiento por incineración
 
 El Departamento Administrativo de Aeronáutica Civil (DAAC), procederá a instalar en todos los aeropuertos internacionales del país, hornos incineradores con el fin de someter a tratamiento por incineración todos los residuos y desperdicios de que trata el artículo 2.13.10.1.1.
 
 (Decreto 389 de 1979, art. 2)
-
-ARTÍCULO
 
 ## art:2.13.10.1.3 — 1.3
 
@@ -13606,15 +11782,11 @@ Responsabilidad del Departamento Administrativo de Aeronáutica Civil (DAAC).La 
 
 (Decreto 389 de 1979, art. 3)
 
-ARTÍCULO
-
 ## art:2.13.10.1.4 — 1.4
 
 Los Servicios de Sanidad Agropecuaria del Instituto Colombiano Agropecuario, ICA, en coordinación con el DAAC supervisarán el cumplimiento de las disposiciones contenidas en este capítulo.
 
 (Decreto 389 de 1979, art. 4)
-
-ARTÍCULO
 
 ## art:2.13.10.1.5 — Reglamentación
 
@@ -13722,8 +11894,6 @@ CAPÍTLO 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.14.1.1.1 — Definiciones
 
 Para efectos de la Ley 41 de 1993 y del presente título se tendrán en cuenta las siguientes definiciones:
@@ -13738,8 +11908,6 @@ Para efectos de la Ley 41 de 1993 y del presente título se tendrán en cuenta l
 
 (Decreto 1881 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.1.1.2 — Tarifas
 
 Se cobrarán tarifas a los usuarios para financiar los costos reales de administración, operación y mantenimiento de los Distritos, gastos de reposición de maquinaria y equipos y los de protección y conservación de las respectivas cuencas, así como el consumo de agua. Para el efecto debe entenderse por:
@@ -13750,15 +11918,11 @@ Se cobrarán tarifas a los usuarios para financiar los costos reales de administ
 
 (Decreto 1881 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.14.1.1.3 — Defensa y conservación de las cuencas hidrográficas
 
 En desarrollo de lo establecido en el artículo 1 de la Ley 41 de 1993, le corresponde a las Asociaciones de Usuarios de Distritos de Adecuación de Tierras, en coordinación con la autoridad ambiental respectiva, velar por la defensa y conservación de las cuencas hidrográficas, aportantes, circunscritas al área de un Distrito de Adecuación de Tierras.
 
 (Decreto 1881 de 1994, art.3)
-
-ARTÍCULO
 
 ## art:2.14.1.1.4 — Resoluciones del Consejo Superior de Adecuación de Tierras - CONSUAT -
 
@@ -13767,8 +11931,6 @@ Para el cumplimiento y desarrollo de las funciones que le han sido encomendadas,
 (Derogado por el Art. 7 del Decreto 279 de 2022)
 
 (Decreto 1881 de 1994, art.4. Con respecto al CONSUAT tener en cuenta el Decreto 3759 de 2009)
-
-ARTÍCULO
 
 ## art:2.14.1.1.5 — Proyectos en el Plan Nacional de Desarrollo
 
@@ -13814,15 +11976,11 @@ Las personas naturales o jurídicas, públicas o privadas que pretenda acceder a
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.14.1.2.2 — Condiciones financieras
 
 El CONSUAT presentará a consideración de la Comisión Nacional de Crédito Agropecuario, las condiciones financieras de la línea de crédito para el subsector de adecuación de tierras. Las condiciones aprobadas por dicha Comisión regirán para la recuperación de inversiones de los proyectos de adecuación de tierras.
 
 (Decreto 1881 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.14.1.2.3 — Funciones de la Secretaría Técnica
 
@@ -13846,8 +12004,6 @@ Corresponde a la Secretaría Técnica del CONSUAT ejercer las siguientes funcion
 
 (Decreto 1881 de 1994, art.8)
 
-ARTÍCULO
-
 ## art:2.14.1.2.4 — Presentación de propuestas de tasas y/o tarifas
 
 Las Asociaciones de Usuarios o el Organismo Ejecutor presentarán al CONSUAT, a través de la Secretaría Técnica, a más tardar un año antes de la iniciación del año fiscal, las propuestas de tasas y/o tarifas del correspondiente Distrito, siempre y cuando requiera aportes del Presupuesto Nacional. En caso de no requerir esos aportes, su plazo se ampliará al 31 de octubre del año anterior al de su vigencia fiscal.
@@ -13868,15 +12024,11 @@ El proyecto deberá contar con certificado de sostenibilidad presentado por el O
 
 (Modificado por el Art. 3 del Decreto 279 de 2022)
 
-ARTÍCULO
-
 ## art:2.14.1.2.6 — Asociación de usuarios
 
 Cuando el Organismo Ejecutor cuente por lo menos con el estudio de prefactibilidad (sic) del proyecto y se haya establecido la viabilidad técnica, económica, financiera, ambiental y social del mismo, promoverá la constitución de una asociación de usuarios.
 
 (Decreto 1881 de 1994, art. 11)
-
-ARTÍCULO
 
 ## art:2.14.1.2.7 — Objetivos de la asociación de usuarios
 
@@ -13889,8 +12041,6 @@ En lo posible uno de los tres miembros del Comité Técnico deberá tener formac
 PARÁGRAFO 2. Los usuarios a través del Comité Técnico podrán presentar recomendaciones sobre la escogencia de las propuestas dentro de los mismos términos que establece la ley para los proponentes en los procedimientos contractuales, entendiéndose que con la citación o invitación formulada por el Organismo Ejecutor este cumple con la obligación establecida en el numeral tercero del artículo 22 de la Ley 41 de 1993.
 
 (Decreto 1881 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.14.1.2.8 — Concertación
 
@@ -13914,8 +12064,6 @@ Concluidos los estudios de preinversión, en cualquiera de sus subetapas y estab
 
 (Modificado por el Art. 3 del Decreto 279 de 2022)
 
-ARTÍCULO
-
 ## art:2.14.1.2.10 — Aprobación de proyectos por parte del FONAT
 
 Una vez determinada la viabilidad del proyecto de que trata el artículo 2.1.4.1.2.5 del presente Título y aceptado el estudio de preinversión por parte del Comité Técnico de la Asociación de Usuarios, en la subetapa que corresponda, el Organismo Ejecutor lo presentará a la secretaria técnica del Fondo Nacional de Adecuación de Tierras - FONAT para obtener la aprobación y autorización de utilizar los recursos del Fondo para ejecutar la subetapa o etapa siguiente que corresponda.
@@ -13926,8 +12074,6 @@ La Secretaria Técnica del FONAT aplicará los criterios y metodología de prior
 
 (Modificado por el Art. 3 del Decreto 279 de 2022)
 
-ARTÍCULO
-
 ## art:2.14.1.2.11 — Liquidación de las inversiones
 
 Una vez terminada la factibilidad y/o el diseño del proyecto a ser financiado con cargo a los recursos del FONAT, se realizará Una liquidación con el costo estimado de las obras, el cual solo se podrá incrementar hasta en un 30% en la liquidación final. Esta liquidación servirá para establecer las cuotas estimadas que les corresponde a los usuarios, para efectos de los abonos que realicen sobre su obligación desde el inicio de las obras, sin perjuicio de que en cualquier etapa del proyecto se pueda establecer el monto real de los costos para su asignación de acuerdo con la metodología y los parámetros, criterios y opciones establecidos en el reglamento del FONAT.
@@ -13935,8 +12081,6 @@ Una vez terminada la factibilidad y/o el diseño del proyecto a ser financiado c
 PARÁGRAFO. Los sobrecostos que excedan el 30% mencionado o que sean el resultado de una situación de fuerza mayor, caso fortuito, gestión deficiente o culpable del Organismo Ejecutor, deberán ser asumidos por este.
 
 (Modificado por el Art. 3 del Decreto 279 de 2022)
-
-ARTÍCULO
 
 ## art:2.14.1.2.12 — Acta final
 
@@ -13952,15 +12096,11 @@ El acta final de compromiso deberá contener, por lo menos, lo siguiente:
 
 (Decreto 1881 de 1994, art.17)
 
-ARTÍCULO
-
 ## art:2.14.1.2.13 — Licencia ambiental y concesión de aguas para construcción del distrito de adecuación de tierras
 
 Para la construcción de un Distrito de Adecuación de Tierras, el Organismo Ejecutor deberá haber tramitado ante la autoridad ambiental con jurisdicción en el área del proyecto por desarrollar, la licencia ambiental y la concesión de aguas que garantice la prestación del servicio público de adecuación de tierras en el área del distrito.
 
 (Decreto 1881 de 1994, art.18)
-
-ARTÍCULO
 
 ## art:2.14.1.2.14 — Proyecto de autoconstrucción
 
@@ -13974,8 +12114,6 @@ Para la aprobación de la financiación o cofinanciación de un proyecto para la
 
 (Modificado por el Art. 3 del Decreto 279 de 2021)
 
-ARTÍCULO
-
 ## art:2.14.1.2.16 — Concesión
 
 De conformidad con lo establecido en las normas de contratación, podrá utilizarse la modalidad de contrato de concesión para la construcción, ampliación, rehabilitación, complementación, operación, administración o mantenimiento de Distritos de Adecuación de Tierras, cuando lo estime conveniente el Organismo Ejecutor Público.
@@ -13986,15 +12124,11 @@ CAPÍTULO 3
 
 Administración, Operación y Mantenimiento de los Distritos de Adecuación de Tierras
 
-ARTÍCULO
-
 ## art:2.14.1.3.1 — Capacitación de usuarios
 
 El Organismo Ejecutor deberá crear y poner en práctica un programa de capacitación dirigido a los usuarios de Distritos de Adecuación de Tierras, para permitir y asegurar la eficiente administración, operación y mantenimiento de las obras por parte de la asociación.
 
 (Decreto 1881 de 1994, art.22)
-
-ARTÍCULO
 
 ## art:2.14.1.3.2 — Criterios generales para la reglamentación
 
@@ -14008,8 +12142,6 @@ PARÁGRAFO 2. Las Asociaciones de Usuarios de Distritos de Adecuación de Tierra
 
 (Decreto 1881 de 1994, art.23)
 
-ARTÍCULO
-
 ## art:2.14.1.3.3 — Mantenimiento del Registro Nacional de Usuarios de Adecuación de Tierras
 
 Corresponde al INCODER conformar y mantener actualizado el Registro Nacional de Usuarios de Adecuación de Tierras, con base en los registros generales de usuarios que debe llevar cada Organismo Ejecutor.
@@ -14019,8 +12151,6 @@ El Registro Nacional de Usuarios se regirá por el reglamento que expedirá sobr
 PARÁGRAFO . Las Asociaciones de Usuarios y los Organismos Administradores tendrán la obligación de remitir a cada Organismo Ejecutor y estos a la Secretaría Técnica del CONSUAT, la información que ésta determine para conformar y actualizar el Registro Nacional de Usuarios.
 
 (Decreto 1881 de 1994, art.24)
-
-ARTÍCULO
 
 ## art:2.14.1.3.4 — Contratos para la administración, operación y conservación de los distritos
 
@@ -14036,15 +12166,11 @@ CAPÍTULO 4
 
 Asociaciones de Usuarios
 
-ARTÍCULO
-
 ## art:2.14.1.4.1 — Administración de usuarios
 
 Los usuarios de un Distrito de Adecuación de Tierras, requieren estar constituidos o constituirse en Asociación de Usuarios con personería jurídica debidamente reconocida para poder administrarlo, operarlo y mantenerlo.
 
 (Decreto 1881 de 1994, art.26)
-
-ARTÍCULO
 
 ## art:2.14.1.4.2 — Criterios de organización de las asociaciones de usuarios
 
@@ -14058,15 +12184,11 @@ CAPÍTULO 5
 
 Recuperación de la Inversión Pública
 
-ARTÍCULO
-
 ## art:2.14.1.5.1 — Inversión pública
 
 Para la recuperación de la inversión prevista en la Ley 41 de 1993, se entiende por inversión pública en Adecuación de Tierras, los recursos provenientes del sector público que un Organismo Ejecutor invierta para la construcción, rehabilitación, ampliación o complementación de obras de infraestructura, destinadas al riego, drenaje o protección contra inundaciones y otros usos.
 
 (Decreto 1881 de 1994, art.28)
-
-ARTÍCULO
 
 ## art:2.14.1.5.2 — Valor real de las inversiones
 
@@ -14078,8 +12200,6 @@ PARÁGRAFO . El CONSUAT podrá establecer criterios para que los Organismos Ejec
 
 (Decreto 1881 de 1994, art.29)
 
-ARTÍCULO
-
 ## art:2.14.1.5.3 — Recuperación de la inversión
 
 Para efectos de la recuperación de la inversión, los proyectos en curso o contratados antes de la expedición de ésta reglamentación, financiados con recursos provenientes de contratos de crédito celebrados con la Banca Multilateral, que establezcan criterios o sistemas específicos y diferentes de recuperación dentro de sus cláusulas contractuales, continuarán rigiéndose por éstas.
@@ -14090,23 +12210,17 @@ CAPÍTULO 6
 
 Infracciones y Sanciones
 
-ARTÍCULO
-
 ## art:2.14.1.6.1 — Sanciones
 
 Las personas naturales o jurídicas, públicas o privadas que infrinjan las disposiciones de la ley o sus normas complementarias, el estatuto de la Asociación de Usuarios, las disposiciones administrativas, el contrato de administración o los reglamentos de los Organismos Administradores o Ejecutores o cualquier otra disposición que sea de obligatorio cumplimiento, serán objeto de fas sanciones previstas en las normas vigentes.
 
 (Decreto 1881 de 1994, art.31)
 
-ARTÍCULO
-
 ## art:2.14.1.6.2 — Autoridad competente
 
 Será autoridad competente para la aplicación de las sanciones a que se refiere el artículo 2.14.1.6.1, el INCODER, en ejercicio de la función de control y vigilancia encargada por la ley o el organismo ejecutor cuando fuere el caso, o la asociación de usuarios cuando se le hubiere delegado la función.
 
 (Decreto 1881 de 1994, art. 32)
-
-ARTÍCULO
 
 ## art:2.14.1.6.3 — Procedimiento
 
@@ -14128,8 +12242,6 @@ PARÁGRAFO. Se entenderá como construcción de obras de riego y avenamiento tod
 
 (Modificado por el Art. 4 del Decreto 279 de 2022)
 
-ARTÍCULO
-
 ## art:2.14.1.7.2 — Ordenación de gastos y de celebración de contratos
 
 El representante legal del FONAT tendrá la facultad de ordenar los gastos y de celebrar los contratos que hayan de financiarse con los recursos del mismo. La celebración de contratos se podrá delegar en los términos de la Ley 80 de 1993 o la norma que la modifique, adicione o sustituya.
@@ -14137,8 +12249,6 @@ El representante legal del FONAT tendrá la facultad de ordenar los gastos y de 
 PARÁGRAFO. En los procesos de selección para la celebración de contratos que adelante el FONAT para la ejecución de proyectos aprobados por el mismo, sin perjuicio de los casos que la Ley lo exija y con la justificación que se consignará en los documentos precontractuales, se podrá incluir como obligación del contratista la constitución de una fiducia mercantil irrevocable de administración y pagos para el manejo de los recursos que el FONAT le gire para la ejecución del proyecto, con el fin de garantizar que los recursos se destinen exclusivamente a la ejecución del proyecto aprobado por el FONAT. Los rendimientos financieros generados por el contrato de fiducia, se someterán a lo establecido en el Artículo 149 de la Ley 1753 de 2015, modificado por el artículo 36 de la Ley 1955 de 2019, y las demás normas que lo modifiquen, adicionen o sustituyan.
 
 (Modificado por el Art. 4 del Decreto 279 de 2022)
-
-ARTÍCULO
 
 ## art:2.14.1.7.3 — Dirección y administración del FONAT
 
@@ -14157,8 +12267,6 @@ PARÁGRAFO. En el manejo del Fondo Nacional de Adecuación de Tierras - FONAT, s
 El Contrato de Administración, fiduciaria de los recursos destinados a la ejecución de Proyectos de Adecuación de Tierras, previsto en el parágrafo del artículo 18 de la Ley 41 de 1993, deberá ceñirse a las disposiciones de la Ley 80 de 1993 y sus decretos reglamentarios o las normas que lo modifiquen o sustituyan.
 
 (Modificado por el Art. 4 del Decreto 279 de 2022)
-
-ARTÍCULO
 
 ## art:2.14.1.7.5 — Atribuciones del representante legal del FONAT
 
@@ -14268,15 +12376,11 @@ CAPÍTULO 8
 
 Disposiciones Finales
 
-ARTÍCULO
-
 ## art:2.14.1.8.1 — 8.1
 
 Plazo El INCODER conformará y actualizará el Registro Nacional de Usuarios de los Distritos de Adecuación de Tierras en un plazo que no excederá de un año a partir de la expedición por el CONSUAT de la reglamentación respectiva.
 
 (Decreto 1881 de 1994, art.40)
-
-ARTÍCULO
 
 ## art:2.14.1.8.2 — 8.2
 
@@ -14287,8 +12391,6 @@ Cuando en el artículo 26 de la Ley 41 de 1993 se remite al numeral 19 del artí
 CAPÍTULO 9
 
 Asociaciones de Usuarios
-
-ARTÍCULO
 
 ## art:2.14.1.9.1 — Reconocimiento e inscripción
 
@@ -14306,15 +12408,11 @@ PARÁGRAFO 2. Cuando el Organismo Ejecutor de los Distritos de Adecuación de Ti
 
 (Decreto 1380 de 1995, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.1.9.2 — Estudio y expedición de la resolución
 
 El Ministro de Agricultura y Desarrollo Rural o su delegado, asumirá el estudio de la documentación señalada en el artículo 2.14.1.9.1., y si la encuentra ajustada expedirá la Resolución reconociendo la Personería Jurídica y ordenando la inscripción respectiva.
 
 (Decreto 1380 de 1995, art. 2)
-
-ARTÍCULO
 
 ## art:2.14.1.9.3 — Remisión del expediente
 
@@ -14330,15 +12428,11 @@ CAPÍTULO 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.14.2.1.1 — Campo de aplicación
 
 Las disposiciones del presente título se aplicarán a los hombres y mujeres campesinos que, de conformidad con lo dispuesto por la Ley 160 de 1994 y las normas que la reglamentan y desarrollan, tengan la condición de sujetos de reforma agraria y se hallen inscritos en el registro regional de aspirantes al otorgamiento del subsidio para la adquisición de tierras; a los propietarios de predios rurales a las sociedades inmobiliarias rurales legalmente constituidas y a los demás agentes del mercado de tierras aceptados por el Instituto cuando aquellos y estos promuevan los procesos de negociación voluntaria previstos en la citada ley.
 
 (Decreto 1032 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.2.1.2 — Finalidades del procedimiento
 
@@ -14356,15 +12450,11 @@ CAPÍTULO 2
 
 Servicios de Apoyo y Asesoría
 
-ARTÍCULO
-
 ## art:2.14.2.2.1 — Sistema de información del servicio inmobiliario del INCODER
 
 Para garantizar el adecuado y eficiente cumplimiento de las funciones contempladas en los numerales 3, 5 y 6 del artículo 12 de la Ley 160 de 1994, el Instituto establecerá un sistema de información inmobiliaria a nivel central y regional, el cual se mantendrá actualizado y deberá ser consultado por los agentes del mercado de tierras en los procesos de enajenación de inmuebles rurales que se promuevan para fines de reforma agraria.
 
 (Decreto 1032 de 1995, art. 3)
-
-ARTÍCULO
 
 ## art:2.14.2.2.2 — Registro Regional de Predios
 
@@ -14376,8 +12466,6 @@ La divulgación de la información relacionada con los predios rurales propuesto
 
 (Decreto 1032 de 1995, art 4)
 
-ARTÍCULO
-
 ## art:2.14.2.2.3 — Registro Regional de Aspirantes
 
 Los hombres y mujeres campesinos de escasos recursos mayores de dieciséis (16) años que se hallen Interesados en la adquisición de tierras con subsidio y crédito complementario con arreglo a la Ley 160 de 1994 y sus reglamentos, deberán solicitar a la respectiva Gerencia Regional del Instituto Colombiano de Desarrollo Rural su Inscripción en el registro regional de aspirantes.
@@ -14385,8 +12473,6 @@ Los hombres y mujeres campesinos de escasos recursos mayores de dieciséis (16) 
 Para tal efecto, el instituto procederá a solicitarles la información y documentación exigida en los reglamentos correspondientes con el objeto de verificar que reúnan los requisitos contemplados para ser beneficiarios de les programas de adquisición de tierras, así como los previstos para el otorgamiento del crédito complementario.
 
 (Decreto 1032 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.2.2.4 — Reuniones de Concertación
 
@@ -14406,8 +12492,6 @@ CAPÍTULO 3
 
 Agentes del Mercado de Tierras
 
-ARTÍCULO
-
 ## art:2.14.2.3.1 — Agentes del Mercado de Tierras
 
 Son agentes del mercado de tierras, para los fines del presente título, además de los hombres y mujeres campesinos de escasos recursos, que reúnan los requisitos de elegibilidad establecidos en la ley y los reglamentos y las sociedades inmobiliarias rurales legalmente constituidas, cuyo objeto social comprenda las actividades previstas en la Ley 160 de 1994 y el presente título, las personas naturales o jurídicas que intervengan para coadyuvar en el desarrollo y el logro de los fines de los procesos de negociación voluntaria regulados en este estatuto.
@@ -14419,8 +12503,6 @@ Las sociedades inmobiliarias rurales y demás agentes del mercado de tierras pod
 CAPÍTULO 4
 
 Procedimiento
-
-ARTÍCULO
 
 ## art:2.14.2.4.1 — Del Procedimiento
 
@@ -14440,8 +12522,6 @@ CAPÍTULO 5
 
 Precio y Forma de Pago
 
-ARTÍCULO
-
 ## art:2.14.2.5.1 — Determinación del precio
 
 En caso de que hubiere acuerdo de negociación voluntaria entre campesinos y propietarios, el precio será el que convengan las partes. teniendo siempre en cuenta, como punto de referencia, el avalúo comercial que se haya practicado sobre el inmueble, contratado por el propietario, la sociedad inmobiliaria rural o el agente del mercado con personas naturales o jurídicas legalmente habilitadas para ello, el cual deberá elaborarse con sujeción a las normas, criterios y parámetros previstos en la Ley 160 de 1994, las disposiciones del decreto reglamentario especial sobre elaboración de avalúos comerciales de predios para fines de reforma agraria y conforme al procedimiento que, adopte de manera general el Gerente General del INCODER para la práctica y presentación de los avalúos.
@@ -14453,8 +12533,6 @@ Para determinar el valor del subsidio que podrá otorgarse a los sujetos de refo
 En ningún caso el instituto autorizará los acuerdos de negociación de tierras que celebren los campesinos y propietarios rurales, y demás agentes del mercado de tierras, o el otorgamiento del subsidio, o el adelantamiento de trámites relacionados con la consecución del crédito complementario de adquisición de tierras, cuando existan graves limitantes de orden legal que no permitan su enajenación; no reúnan las características y exigencias señaladas para su selección; los campesinos no tengan la condición de sujetos de reforma agraria; los planos, avalúos y demás documentos se hubieren elaborado con desconocimiento de las normas que regulan su práctica y presentación y, en general, en el evento de que las propuestas de negociación que sometan a consideración del Instituto los hombres y mujeres campesinos, los propietarios rurales, las sociedades inmobiliarias rurales y demás agentes del mercado de tierras no se hallen conformes con la Ley 160 de 1994, los decretos reglamentarios pertinentes y los desarrollos normativos que con autorización legal expida el INCODER.
 
 (Decreto 1032 de 1995, art.9)
-
-ARTÍCULO
 
 ## art:2.14.2.5.2 — Forma de pago
 
@@ -14476,8 +12554,6 @@ Los Bonos Agrarios son títulos de deuda pública, con vencimiento final a cinco
 
 (Decreto 1032 de 1995, art.10)
 
-ARTÍCULO
-
 ## art:2.14.2.5.3 — Beneficios Tributarios
 
 La utilidad obtenida por la enajenación del inmueble no constituye renta gravable ni ganancia ocasional para el propietario. Los intereses que devenguen los Bonos Agrarios gozarán de exención de impuestos de renta y complementarios y podrán ser utilizados para el pago de los mencionados impuestos, en la forma que determine el respectivo decreto reglamentarlo.
@@ -14488,8 +12564,6 @@ CAPÍTULO 6
 
 Condición Resolutoria Obligaciones de los Adquirientes
 
-ARTÍCULO
-
 ## art:2.14.2.6.1 — Condición Resolutoria
 
 En todas las escrituras públicas de adquisición de predios rurales con subsidio y crédito complementario de tierras, deberá estipularse expresa y claramente una cláusula que contenga una condición resolutoria del subsidio otorgado por el INCODER, en favor de éste, por un término no menor de doce (12) años, contados a partir de la fecha del registro de la escritura, según la cual los correspondientes compradores del inmueble respectivo deberán restituir al Instituto el subsidio otorgado, reajustado a su valor presente, cuando quiera que se cumpla la condición resolutoria por el incumplimiento de las obligaciones a cargo de los campesinos adquirientes contempladas en la ley y los reglamentos.
@@ -14498,15 +12572,11 @@ El Consejo Directivo del INCODER regulará mediante norma de carácter general l
 
 (Decreto 1032 de 1995, art.12)
 
-ARTÍCULO
-
 ## art:2.14.2.6.2 — Obligaciones de los adquirientes
 
 Los hombres y mujeres campesinos beneficiarios de los programas de adquisición de tierras con subsidio contraen con el INCODER, por este sólo hecho, las obligaciones y exigencias señaladas en la Ley 160 de 1994 y en el reglamento respectivo relacionadas con la adecuada explotación de la Unidad Agrícola Familiar, la transferencia del dominio y posesión, el arrendamiento y demás derechos sobre ésta a cualquier título y las relativas a la demostración veraz de las calidades y condiciones para ser considerado sujeto de reforma agraria con derecho al subsidio de tierras.
 
 (Decreto 1032 de 1995, art. 13)
-
-ARTÍCULO
 
 ## art:2.14.2.6.3 — Disposiciones Subsidiarias
 
@@ -14518,15 +12588,11 @@ TÍTULO 3
 
 Otorgamiento del Subsidio para el pago total o parcial de los aportes iniciales que deben cancelar los beneficiarios de dotación de tierras de la Reforma Agraria, para la afiliación a las Cooperativas que estos constituyan o estén establecidas
 
-ARTÍCULO
-
 ## art:2.14.3.1 — Campo de regulación
 
 El presente título regula el otorgamiento, por parte del Instituto Colombiano de Desarrollo Rural, INCODER, del subsidio para el pago total o parcial de los aportes iniciales que deben cancelar los beneficiarios de dotación de tierras de la Reforma Agraria, para la afiliación a las cooperativas que éstos constituyan o estén establecidas, y cuya integración y finalidades se ajuste a las exigencias del capítulo XVII de la Ley 160, en armonía con lo establecido en el artículo 2.14.3.3, del presente decreto.
 
 (Decreto 1226 de 1997, art.1)
-
-ARTÍCULO
 
 ## art:2.14.3.2 — Características del subsidio
 
@@ -14542,15 +12608,11 @@ El subsidio de que trata el presente título tienen las siguientes característi
 
 (Decreto 1226 de 1997, art.2)
 
-ARTÍCULO
-
 ## art:2.14.3.3 — Naturaleza de las cooperativas
 
 Las cooperativas a las cuales podrá afiliarse el beneficiario de dotación de tierras aspirante al subsidio de que trata el artículo 2.14.3.1, del presente decreto, deberán integrarse o estar integradas por beneficiarios de dotación de tierras de la reforma agraria y tener por objeto preferencial la comercialización de productos agropecuarios, y además la obtención de créditos de producción, la prestación de asistencia técnica y servicios de maquinaria agrícola, el suministro de semillas e insumos agropecuarios y otros servicios requeridos para incrementar la producción y mejorar la productividad en el sector rural.
 
 (Decreto 1226 de 1997, art.3)
-
-ARTÍCULO
 
 ## art:2.14.3.4 — Sujetos del subsidio
 
@@ -14559,8 +12621,6 @@ Podrán acceder al subsidio de que trata el presente título los beneficiarios d
 PARÁGRAFO . El subsidio de que trata este título se orientará prioritariamente a aquellos campesinos beneficiarios de dotación de tierras de reforma agraria cuyas condiciones socioeconómicas, grado de capacitación, capacidad de trabajo y producción y otros aspectos relacionados con la comercialización, hagan indispensable su otorgamiento.
 
 (Decreto 1226 de 1997, art.4)
-
-ARTÍCULO
 
 ## art:2.14.3.5 — Criterios para determinar el monto del subsidio
 
@@ -14577,8 +12637,6 @@ Para determinar el monto porcentual del subsidio que ha de adjudicarse a cada be
 5. Los demás criterios que el Consejo Directivo del INCODER considera pertinentes.
 
 (Decreto 1226 de 1997, art.5)
-
-ARTÍCULO
 
 ## art:2.14.3.6 — Solicitud del subsidio
 
@@ -14598,15 +12656,11 @@ Los aspirantes al subsidio deberán dirigir la solicitud correspondiente ante el
 
 (Decreto 1226 de 1997, art.6)
 
-ARTÍCULO
-
 ## art:2.14.3.7 — Listado de aspirantes al subsidio a nivel municipal
 
 El Consejo Municipal de Desarrollo Rural asignará a un Comité ya creado o podrá crear uno de entre sus miembros, integrado por el Alcalde Municipal, quien lo presidirá, y tres representantes da las organizaciones de campesinos, para efectos de la recepción de las solicitudes de subsidio que se ajusten a los requisitos de que trata el artículo 2.14.3.6. El Comité mencionado elaborará el listado de aspirantes al subsidio en la respectiva jurisdicción municipal y emitirá los conceptos acerca de cada una de las solicitudes y la recomendación sobre el monto del subsidio por adjudicar, teniendo en cuenta los criterios establecidos en el artículo 2.14.3.5, de este decreto.
 
 (Decreto 1226 de 1997, art. 7)
-
-ARTÍCULO
 
 ## art:2.14.3.8 — Remisión al INCODER del listado de aspirantes
 
@@ -14614,23 +12668,17 @@ El Consejo Municipal de Desarrollo Rural enviará al INCODER, en los meses de ma
 
 (Decreto 1226 de 1997, art.8)
 
-ARTÍCULO
-
 ## art:2.14.3.9 — Verificación de requisitos y asignación de cupos departamentales
 
 El INCODER verificará las solicitudes de subsidio y el cumplimiento de los requisitos de información y documentación que las sustentan, y analizará los conceptos y justificaciones emitidos sobre el particular. Con fundamento en la verificación y análisis mencionados, establecerá el listado de solicitantes que cumplen en su totalidad con los requisitos para acceder al subsidio y asignará, en los meses de enero y julio de cada año, los recursos para el subsidio por departamento, para la vigencia fiscal correspondiente.
 
 (Decreto 1226 de 1997, art.9)
 
-ARTÍCULO
-
 ## art:2.14.3.10 — Concertación para la asignación de cupos municipales
 
 El INCODER remitirá a los respectivos Comités Departamentales de Desarrollo Rural y Reforma Agraria, a más tardar en los meses de febrero y agosto de cada año, los listados de aspirantes al subsidio que cumplan con los requisitos legales para el acceder al mismo, con el fin de que éstos organismos, en coordinación con los Comités Municipales de Desarrollo Rural, determinen e informen al INCODER, a más tardar en los meses de marzo y septiembre de cada año, la distribución de los recursos a nivel municipal y el listado definitivo de los beneficiarios del mismo, de acuerdo con las prioridades que se establezcan.
 
 (Decreto 1226 de 1997, art.10)
-
-ARTÍCULO
 
 ## art:2.14.3.11 — Adjudicación y pago del subsidio
 
@@ -14642,15 +12690,11 @@ PARÁGRAFO 2. Para efectos del cumplimiento del requisito establecido en el nume
 
 (Decreto 1226 de 1997, art.11)
 
-ARTÍCULO
-
 ## art:2.14.3.12 — Desistimiento de la adjudicación
 
 En caso de que el favorecido no solicite el pago del subsidio dentro del término previsto en el artículo 2.14.3.11., se entenderá que desiste del mismo. En este evento, el beneficiario quedará inhabilitado para solicitar nuevamente el subsidio por el término de dos años contados desde la fecha de la comunicación de la adjudicación rehusada.
 
 (Decreto 1226 de 1997, art. 12)
-
-ARTÍCULO
 
 ## art:2.14.3.13 — Reintegro del subsidio
 
@@ -14666,8 +12710,6 @@ El subsidio deberá ser reintegrado al INCODER cuando se presente uno cualquiera
 
 (Decreto 1226 de 1997, art.13)
 
-ARTÍCULO
-
 ## art:2.14.3.14 — Aportes comunes
 
 Los beneficiarios del subsidio deberán hacer sus aportes comunes de capital o especie, en forma ordinaria o extraordinaria, según lo determinen las normas legales y los reglamentos cooperativos sobre la materia.
@@ -14678,8 +12720,6 @@ TÍTULO 4
 
 Asignación integral de asistencia e incentivos directos para apoyar subproyectos productivos sostenibles, en desarrollo del proyecto Alianzas Productivas para la Paz
 
-ARTÍCULO
-
 ## art:2.14.4.1 — Campo de Regulación
 
 El presente título regula las condiciones de otorgamiento y alcances de los incentivos y apoyos directos e integrales a inversiones, orientadas a la protección de los recursos naturales y al mantenimiento de la paz social, según lo previsto en el artículo de la Ley 101 de 1993.
@@ -14687,8 +12727,6 @@ El presente título regula las condiciones de otorgamiento y alcances de los inc
 Podrán beneficiarse de los incentivos y apoyos directos, los subproyectos productivos de organización y reactivación de empresas rurales de carácter agropecuario y agroindustrial, que se encuentren en las circunstancias relacionadas con la sostenibilidad productiva, o pretendan, a través de propuestas productivas y sociales, el mantenimiento de la paz social en el campo, y sean seleccionados dentro del Proyecto Alianzas Productivas para la Paz.
 
 (Decreto 321 de 2002, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.4.2 — Dirección y Ejecución del Proyecto
 
@@ -14701,8 +12739,6 @@ La designación o elección de las personas que actúen a nombre del sector fina
 PARÁGRAFO . La designación de representantes del sector financiero, las empresas y organizaciones tendrá vigencia de un año. En todos los casos su participación en la Comisión se hará con voz, pero sin voto.
 
 (Decreto 321 de 2002, art.2, modificado por el Decreto 2101 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.4.3 — Funciones de la Comisión Intersectorial (CI)
 
@@ -14730,8 +12766,6 @@ PARÁGRAFO . La Comisión sesionará en forma ordinaria como mínimo una vez cad
 
 (Decreto 321 de 2002, art.3)
 
-ARTÍCULO
-
 ## art:2.14.4.4 — Del Incentivo
 
 Los incentivos y apoyos directos que desarrolla el presente título, constituyen aportes e inversión que el Estado asigna para estimular la financiación de subproyectos de empresas rurales productivas agropecuarias y agroindustriales, que hayan sido formulados por una organización de pequeños y medianos productores, en desarrollo de las alianzas productivas y financieras que acuerden con el sector privado empresarial. Para efectos de su financiación, los diversos factores productivos serán considerados en su totalidad, según las necesidades y características de la alianza.
@@ -14740,15 +12774,11 @@ PARÁGRAFO . La asignación del incentivo deberá estar sujeta a la existencia p
 
 (Decreto 321 de 2002, art.4)
 
-ARTÍCULO
-
 ## art:2.14.4.5 — Criterios de Asignación
 
 Los incentivos y apoyos directos e integrales a los subproyectos que formulen los productores agropecuarios, se asignarán únicamente en el evento que los socios participantes no cuenten con la capacidad directa para financiar la inversión por la vía de los aportes, ahorros, créditos bancarios o reinversión de utilidades. Cuando sea pertinente aplicar estos incentivos, la administración del Proyecto tendrá en cuenta, entre otros, los criterios de cobertura, equidad redistribución de aportes, nivel de endeudamiento, generación de ingresos y riqueza, competitividad, la articulación de la sostenibilidad ambiental con la política de desarrollo rural, la oportunidad de creación de espacios de convivencia y confianza entre los actores económicos y sociales de la alianza, el fortalecimiento del capital humano y social, y la reinversión de una parte de las utilidades en la alianza, o en la comunidad.
 
 (Decreto 321 de 2002, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.4.6 — Manual Operativo
 
@@ -14757,8 +12787,6 @@ El Ministerio de Agricultura y Desarrollo Rural, como entidad administradora del
 PARÁGRAFO . El manual operativo establecerá la metodología y los criterios sociales y económicos para la evaluación y vinculación de productores y la asignación de los incentivos y apoyos directos e integrales a los subproyectos de alianzas productivas, así como las estrategias dirigidas a la participación, la autogestión, la capacitación para el trabajo y la producción que garanticen el destino y la eficiencia de la inversión pública.
 
 (Decreto 321 de 2002, art. 6)
-
-ARTÍCULO
 
 ## art:2.14.4.7 — Inversiones Financiables
 
@@ -14784,8 +12812,6 @@ PARÁGRAFO . Para lo relacionado con la vinculación más económica de la tierr
 
 (Decreto 321 de 2002, art. 7)
 
-ARTÍCULO
-
 ## art:2.14.4.8 — Cuantía del Incentivo
 
 Para la determinación de la cuantía y modalidad del incentivo y apoyo directo se tendrá en cuenta, además de las características de las circunstancias y finalidades contenidas en el artículo 7 de la Ley 101 de 1993 reguladas en este título, previa disponibilidad presupuestal, las siguientes condiciones aplicadas por cada familia participante:
@@ -14802,15 +12828,11 @@ PARÁGRAFO 2. Los topes fijados se actualizarán anualmente con el índice de pr
 
 (Decreto 321 de 2002, art. 8)
 
-ARTÍCULO
-
 ## art:2.14.4.9 — Operatividad
 
 Para el otorgamiento del incentivo y apoyo directo e integral a los subproyectos de las alianzas productivas, se requerirá que previamente sean aprobados los correspondientes estudios que acrediten la ocurrencia de las circunstancias contempladas en el artículo 7 de la Ley 101 de 1993 y desarrolladas en este título, los estudios e informes de factibilidad financiera, los de evaluación socioeconómica y sostenibilidad ambiental, los correspondientes a la favorabilidad de las condiciones agronómicas, los relacionados con la estructura organizativa e institucional que soportará el desarrollo de la alianza, las garantías sobre la disponibilidad de los aportes comprometidos, y que además se haya suscrito el convenio del subproyecto de que trata el artículo 2.14.4.10. del presente decreto, y se compruebe la existencia de disponibilidad presupuestal por el valor de los incentivos que aporte la Nación.
 
 (Decreto 321 de 2002, art.9)
-
-ARTÍCULO
 
 ## art:2.14.4.10 — Convenio del Subproyecto
 
@@ -14823,8 +12845,6 @@ PARÁGRAFO 1. Para asegurar los activos que se aporten u obtengan en desarrollo 
 PARÁGRAFO 2. Cuando el subproyecto incluya la explotación de Unidades Agrícolas Familiares adjudicadas o subsidiadas por el Estado, en el marco de los programas de Reforma Agraria, el aporte de los respectivos propietarios, será la constitución del usufructo sobre sus tierras, hasta por el término de ejecución del subproyecto. El Consejo Directivo del INCODER expedirá el reglamento general para tal fin.
 
 (Decreto 321 de 2002, art.10)
-
-ARTÍCULO
 
 ## art:2.14.4.11 — Orientaciones y Limitaciones Relacionadas con la Utilización de las Tierras
 
@@ -14852,8 +12872,6 @@ Cuando el subproyecto propuesto implique el arrendamiento, el alquiler con opci�
 
 (Decreto 321 de 2002, art. 11)
 
-ARTÍCULO
-
 ## art:2.14.4.12 — Participación del INCODER
 
 En todos los subproyectos concertados entre las asociaciones de pequeños productores y el sector privado, en los que se requiera del incentivo y apoyo directo e integral para financiar parcialmente, conforme a las reglas previstas en el capítulo V de la Ley 160 de 1994, la compra de un terreno rural, el INCODER participará en la evaluación del subproyecto, en la determinación de las condiciones agrotécnicas (sic) y económicas del inmueble y en la revisión de la eficacia y seguridad de sus títulos de propiedad.
@@ -14868,23 +12886,17 @@ PARÁGRAFO . En todos los casos que el incentivo financie parcialmente las tierr
 
 (Decreto 321 de 2002, art. 12)
 
-ARTÍCULO
-
 ## art:2.14.4.13 — Publicación y Control Social
 
 El proceso de construcción, evaluación, aprobación, y operación de los subproyectos de alianzas es público y podrán participar todos los estamentos sociales de los municipios y del departamento donde se desarrollarán. La iniciación de los mismos, así como la asignación de los incentivos se hará mediante actos públicos.
 
 (Decreto 321 de 2002, art. 13)
 
-ARTÍCULO
-
 ## art:2.14.4.14 — Prioridades
 
 Para lograr la eficiencia e impacto en la asignación de los recursos públicos a que se refiere este título, evitar su dispersión y garantizar la efectividad del principio constitucional de la distribución equitativa de los beneficios y oportunidades del desarrollo, el otorgamiento de los incentivos y apoyos directos se evaluará y priorizará con respecto a los demás instrumentos de política sectorial a los cuales hayan accedido o puedan acceder los subproyectos, o los pequeños productores vinculados al Proyecto Alianzas Productivas para la Paz.
 
 (Decreto 321 de 2002, art.14)
-
-ARTÍCULO
 
 ## art:2.14.4.15 — .15
 
@@ -15160,8 +13172,6 @@ CAPÍTULO 1
 
 Competencia
 
-ARTÍCULO
-
 ## art:2.14.6.1.1 — Facultades de Adquisición y Expropiación
 
 El Instituto Colombiano de Desarrollo Rural está facultado para adquirir por negociación directa, o por expropiación, las tierras o mejoras de propiedad de los particulares, o las patrimoniales de las entidades de derecho público que requiera, para dar cumplimiento a los objetivos señalados en la Ley 160 de 1994 y a los fines de utilidad pública e interés social contemplados en los ordinales segundo, tercero y quinto del artículo 1 de la citada ley.
@@ -15172,8 +13182,6 @@ La adquisición directa de tierras y mejoras, o su expropiación, se llevarán a
 
 (Decreto 2666 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.6.1.2 — Tierras adquiribles
 
 Son susceptibles de adquisición directa o por expropiación, para la realización de los programas de reforma agraria, todos los inmuebles rurales y mejoras que cumplan con los requisitos o exigencias mínimas contempladas en el reglamento que para tal efecto expida el Consejo Directivo del INCODER, con arreglo a las políticas, criterios y prioridades que señalen el Ministerio de Agricultura y Desarrollo Rural, el Consejo Nacional de la Reforma Agraria y Desarrollo Rural Campesino y el mencionado Consejo Directivo.
@@ -15183,8 +13191,6 @@ Son susceptibles de adquisición directa o por expropiación, para la realizaci�
 CAPÍTULO 2
 
 Programas de Adquisición de Tierras
-
-ARTÍCULO
 
 ## art:2.14.6.2.1 — Adquisición directa de tierras por el INCODER
 
@@ -15219,8 +13225,6 @@ Esta misma disposición se aplicará cuando se trate de programas de saneamiento
 CAPÍTULO 3
 
 Selección de Predios - Aptitud Agropecuaria
-
-ARTÍCULO
 
 ## art:2.14.6.3.1 — Identificación y Estudio Técnico
 
@@ -15269,8 +13273,6 @@ En la identificación y estudio técnico de los predios deberá establecerse:
 20. Los demás datos que se consideren pertinentes o que hubieren sido establecidos por el Instituto.
 
 (Decreto 2666 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.14.6.3.2 — Selección de predios
 
@@ -15464,8 +13466,6 @@ CAPÍTULO 5
 
 Derecho de exclusión
 
-ARTÍCULO
-
 ## art:2.14.6.5.1 — Área Excluible
 
 La exclusión es el derecho de todo propietario que ha recibido oferta de compra de un predio rural por parte del INCODER, en desarrollo de los programas de reforma agraria, para reservarse una extensión igual a dos (2) unidades agrícolas familiares de las determinadas para el predio, si el inmueble excediere de dicha superficie.
@@ -15482,15 +13482,11 @@ CAPÍTULO 6
 
 Precio y Forma de Pago
 
-ARTÍCULO
-
 ## art:2.14.6.6.1 — Precio
 
 El precio de la negociación lo constituye el avalúo comercial que para el efecto determine el perito contratado por el Instituto. El precio es único, para todos los efectos legales, pero en la elaboración del avalúo podrá desagregarse el valor que corresponda a las tierras y mejoras.
 
 (Decreto 2666 de 1994, art. 19)
-
-ARTÍCULO
 
 ## art:2.14.6.6.2 — Forma de Pago
 
@@ -15508,15 +13504,11 @@ Los Bonos Agrarios son títulos de deuda pública, con vencimiento final a cinco
 
 (Decreto 2666 de 1994, art. 20)
 
-ARTÍCULO
-
 ## art:2.14.6.6.3 — Adquisición de Mejoras
 
 Cuando se trate exclusivamente de la adquisición de mejoras, la forma y los requisitos para el pago se efectuará conforme al reglamento que para tal fin expida el Consejo Directivo del INCODER.
 
 (Decreto 2666 de 1994, art. 21)
-
-ARTÍCULO
 
 ## art:2.14.6.6.4 — Beneficios Tributarios
 
@@ -15528,8 +13520,6 @@ CAPÍTULO 7
 
 Otras Negociaciones. Disposiciones Varias
 
-ARTÍCULO
-
 ## art:2.14.6.7.1 — Inmuebles Rurales de Propiedad de Intermediarios Financieros
 
 Las entidades financieras que adquieran predios rurales a título de dación en pago por la liquidación de créditos hipotecarios, o mediante sentencia judicial, deberán ofrecerlos en venta al INCODER para que éste ejerza la primera opción de compra. El Instituto dispone de dos (2) meses contados a partir de la fecha de recepción de la oferta, para ejercer el derecho de opción privilegiada de adquirirlos. Si en el término indicado el Instituto acepta la oferta de venta y dispone las diligencias correspondientes, la negociación se adelantará con arreglo al procedimiento y la forma de pago prevista en este título. Si desistiere del ejercicio del citado derecho, la comunicación respectiva será enviada al representante legal de la entidad financiera por el Gerente General del INCODER.
@@ -15538,15 +13528,11 @@ Cuando el Instituto guardare silencio sobre la oferta de venta en el término se
 
 (Decreto 2666 de 1994, art. 23)
 
-ARTÍCULO
-
 ## art:2.14.6.7.2 — Otros Predios Rurales de Entidades Financieras
 
 Igual derecho de opción privilegiada de adquisición tendrá el Instituto respecto de los inmuebles rurales que hubieren adquirido los intermediarios financieros por dación en pago, o en virtud de remate, cuya primera tradición provenga de la adjudicación de un baldío nacional que se hubiere efectuado con posterioridad a la vigencia de la Ley 30 de 1988. El procedimiento de adquisición y la forma de pago, el término para ejercer el derecho de opción y las demás condiciones y limitaciones, serán las previstas en el artículo 2.14.6. 7.1. y en la Ley 160 de 1994.
 
 (Decreto 2666 de 1994, art. 24, modificado por el Decreto 1139 de 1995, art. 25)
-
-ARTÍCULO
 
 ## art:2.14.6.7.3 — Adquisición de Predios Invadidos, Ocupados de Hecho, o cuya Propiedad esté Perturbada
 
@@ -15900,8 +13886,6 @@ CAPÍTULO 1
 
 Generalidades
 
-ARTÍCULO
-
 ## art:2.14.7.1.1 — Competencia
 
 El Instituto Colombiano de Desarrollo Rural realizará los estudios de las necesidades de tierras de las comunidades indígenas para la dotación y titulación de las tierras suficientes o adicionales que faciliten su adecuado asentamiento y desarrollo, el reconocimiento de la propiedad de las que tradicionalmente ocupan o que constituye su hábitat, la preservación del grupo ético y el mejoramiento de la calidad de vida de sus integrantes, sin perjuicio de los derechos de las comunidades negras consagradas en la Ley 70 de 1993.
@@ -15917,8 +13901,6 @@ Para tal fin, adelantará los siguientes programas y procedimientos administrati
 4. El saneamiento territorial de los resguardos y reservas indígenas y la conversión de éstas en resguardos.
 
 (Decreto 2164 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.7.1.2 — Definiciones
 
@@ -15940,8 +13922,6 @@ PARÁGRAFO . En caso de duda sobre el carácter y la pertenencia a un pueblo ind
 
 (Decreto 2164 de 1995, art.2)
 
-ARTÍCULO
-
 ## art:2.14.7.1.3 — Protección de los Derechos y Bienes de las Comunidades
 
 Los territorios tradicionalmente utilizados por pueblos indígenas nómadas, seminómadas o agricultores itinerantes para la caza, recolección u horticultura, que se hallaren situados en zonas de reserva forestal a la vigencia de la Ley 160 de 1994, sólo podrán destinarse a la constitución de resguardos indígenas.
@@ -15954,23 +13934,17 @@ CAPÍTULO 2
 
 Estudio Socioeconómico, Jurídico y de Tenencia de Tierras
 
-ARTÍCULO
-
 ## art:2.14.7.2.1 — Objetivo
 
 El INCODER, en coordinación con los respectivos cabildos y autoridades tradicionales, adelantará estudios socioeconómicos, jurídicos y de tenencia de tierra de las comunidades indígenas con el objeto de determinar los diferentes aspectos relacionados con la posesión, tenencia, propiedad, concentración, distribución y disponibilidad de las tierras; el uso y aprovechamiento de las que estuvieren ocupando y el cumplimiento de la función social de la propiedad en las tierras de resguardo, conforme a los usos, costumbres y cultura de la respectiva comunidad; la calidad, condiciones agrológicas y uso de los suelos; el tamaño y distribución de la población, su situación socioeconómicá (sic) y cultural; la infraestructura básica existente, y la identificación de los principales problemas y la determinación cuantificada de la necesidades de tierras de las comunidades indígenas, que permitan al Instituto demás entidades que integran el Sistema Nacional de Reforma Agraria y Desarrollo Rural Campesino, obtener una visión clara y precisa de un determinado territorio y de su población para adoptar y adelantar los programas pertinentes.
 
 (Decreto 2164 de 1995, art.4)
 
-ARTÍCULO
-
 ## art:2.14.7.2.2 — Procedencia
 
 El INCODER realizará los estudios socioeconómicos, jurídicos y de tenencia de tierras previstos en el presente Capítulo cuando deba adelantar los procedimientos de constitución, reestructuración y ampliación de resguardos indígenas. Cuando se trate de los procedimientos de ampliación o de saneamiento territorial de los resguardos y reservas indígenas y la conversión de éstas en resguardos, se procederá a la actualización o complementación de los estudios en aquellos casos en que las necesidades o las conveniencias lo aconsejen. Habrá lugar a la iniciación del estudio cuando éste no se hubiere realizado previamente.
 
 (Decreto 2164 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.7.2.3 — 2.3
 
@@ -16014,8 +13988,6 @@ CAPÍTULO 3
 
 Procedimiento para construir, reestructurar, ampliar y sanear resguardos Indígenas
 
-ARTÍCULO
-
 ## art:2.14.7.3.1 — Solicitud
 
 El trámite se iniciará de oficio por el Instituto Colombiano de Desarrollo Rural, o a solicitud del Ministerio del Interior, de otra entidad pública, o de la comunidad indígena interesada a través de su cabildo o autoridad tradicional, o de una organización indígena.
@@ -16024,23 +13996,17 @@ PARÁGRAFO . A la solicitud de constitución o ampliación del resguardo deberá
 
 (Decreto 2164 de 1995, art. 7)
 
-ARTÍCULO
-
 ## art:2.14.7.3.2 — Expediente
 
 Recibida la solicitud por el Instituto o cuando se tenga conocimiento de la necesidad de legalizar el territorio que ocupa una comunidad indígena, para los fines señalados en este Capítulo y la Ley 160 de 1994, se conformará un expediente que contenga las diligencias administrativas correspondientes y las comunicaciones que se reciban relacionadas con la solicitud.
 
 (Decreto 2164 de 1995, art.8)
 
-ARTÍCULO
-
 ## art:2.14.7.3.3 — Programación
 
 Una vez abierto el expediente, el INCODER incluirá dentro de sus proyectos de programación anual, la visita y estudios necesarios. Cuando se trate de un caso urgente, le dará prioridad dentro de su programación.
 
 (Decreto 2164 de 1995, art.9)
-
-ARTÍCULO
 
 ## art:2.14.7.3.4 — : Visita
 
@@ -16064,8 +14030,6 @@ PARÁGRAFO . Cuando se trate de procedimientos de ampliación, reestructuración
 
 (Decreto 2164 de 1995, art.10)
 
-ARTÍCULO
-
 ## art:2.14.7.3.5 — Rendición del Estudio
 
 Con base en la actuación anterior, el Instituto elaborará dentro de los treinta (30) días hábiles siguientes a su culminación, el estudio de que trata el artículo 2.14.7.2.3. y el plano correspondiente.
@@ -16074,15 +14038,11 @@ Al estudio se agregará una copia del informe rendido por el Ministerio del Medi
 
 (Decreto 2164 de 1995, art.11)
 
-ARTÍCULO
-
 ## art:2.14.7.3.6 — Concepto del Ministerio de Interior
 
 Una vez concluido el estudio y en todos los casos, el expediente que contenga el trámite administrativo tendiente a constituir un resguardo indígena, se remitirá al Ministerio del Interior para que emita concepto previo sobre la constitución dentro de los treinta (30) días calendario siguientes a la fecha de recibo de la solicitud del INCODER. Transcurrido este término, si no hubiere pronunciamiento expreso, se entenderá que el concepto es favorable y el Ministerio del Interior procederá a devolver el expediente al Instituto.
 
 (Decreto 2164 de 1995, art.12)
-
-ARTÍCULO
 
 ## art:2.14.7.3.7 — Resolución
 
@@ -16092,8 +14052,6 @@ La resolución de el Consejo Directivo del INCODER que culmine los procedimiento
 
 (Decreto 2164 de 1995, art.13)
 
-ARTÍCULO
-
 ## art:2.14.7.3.8 — Publicación, Notificación y Registro
 
 La providencia de el Consejo Directivo que disponga la constitución, reestructuración o ampliación del resguardo se publicará en el Diario Oficial y se notificará al representante legal de la o las comunidades interesadas en la forma prevista en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y una vez en firme, se ordenará su inscripción en la Oficina de Registro de Instrumentos Públicos correspondiente al lugar de ubicación de las tierras constituidas con el carácter legal de resguardo.
@@ -16102,15 +14060,11 @@ Los Registradores de Instrumentos Públicos abrirán un folio de matrícula inmo
 
 (Decreto 2164 de 1995, art.14)
 
-ARTÍCULO
-
 ## art:2.14.7.3.9 — Conversión de Reservas en Resguardos
 
 El procedimiento señalado en este Capítulo se aplicará para la conversión en resguardos de las reservas indígenas.
 
 (Decreto 2164 de 1995, art. 15)
-
-ARTÍCULO
 
 ## art:2.14.7.3.10 — Procedimiento sobre predios y mejoras de propiedad privada
 
@@ -16119,8 +14073,6 @@ Para la constitución, ampliación y reestructuración de resguardos indígenas 
 Efectuada la adquisición correspondiente, se procederá en la forma señalada en los artículos 2.14.7.3.7. y 2.14.7.3.8, de este decreto.
 
 (Decreto 2164 de 1995, art.16)
-
-ARTÍCULO
 
 ## art:2.14.7.3.11 — Documentos del Expediente
 
@@ -16138,8 +14090,6 @@ Una vez adquiridos los inmuebles rurales a que se refiere el artículo 2.14.7.3.
 
 (Decreto 2164 de 1995, art.17)
 
-ARTÍCULO
-
 ## art:2.14.7.3.12 — Entrega Material de los Predios y Mejoras
 
 El INCODER hará entrega material a título gratuito y mediante acta de los predios y mejoras adquiridos en favor de la o las comunidades, representadas por el cabildo o autoridad tradicional legalmente constituida y reconocida, para su administración y distribución equitativa entre todas las familias que las conforman, con arreglo a las normas que la rigen y conforme al censo realizado en el estudio socioeconómico, jurídico y de tenencia de tierras.
@@ -16147,8 +14097,6 @@ El INCODER hará entrega material a título gratuito y mediante acta de los pred
 PARÁGRAFO . La entrega material de los inmuebles y sus mejoras se realizará en favor de la comunidad indígena respecto de la cual se haya adelantado el procedimiento de adquisición de tierras por parte del Instituto siempre que éste hubiere culminado.
 
 (Decreto 2164 de 1995, art.18)
-
-ARTÍCULO
 
 ## art:2.14.7.3.13 — Función Social y Ecológica
 
@@ -16168,8 +14116,6 @@ CAPÍTULO 4
 
 Recursos
 
-ARTÍCULO
-
 ## art:2.14.7.4.1 — Recurso de Reposición
 
 Contra las providencias que culminen los procedimientos encaminados a la constitución, ampliación o reestructuración de los resguardos indígenas o la conversión de una reserva indígena en resguardo, procede el recurso de reposición ante el Consejo Directivo del INCODER, el cual deberá interponerse dentro de los diez (10) días siguientes a la fecha de su notificación.
@@ -16179,8 +14125,6 @@ Contra las providencias que culminen los procedimientos encaminados a la constit
 CAPÍTULO 5
 
 Naturaleza Jurídica de los Resguardos Indígenas, Manejo y Administración
-
-ARTÍCULO
 
 ## art:2.14.7.5.1 — Naturaleza Jurídica
 
@@ -16192,8 +14136,6 @@ PARÁGRAFO . Los integrantes de la comunidad indígena del resguardo no podrán 
 
 (Decreto 2164 de 1995, art.21)
 
-ARTÍCULO
-
 ## art:2.14.7.5.2 — Manejo y Administración
 
 Las áreas que se constituyan con el carácter de resguardo indígena serán manejadas y administradas por lo respectivos cabildos o autoridades tradicionales de las comunidades, de acuerdo con sus usos y costumbres, la legislación especial referida a la materia y a las normas que sobre este particular se adopten por aquellas.
@@ -16201,8 +14143,6 @@ Las áreas que se constituyan con el carácter de resguardo indígena serán man
 PARÁGRAFO . Cuando las comunidades acostumbren producir en parcelas familiares y hayan asignaciones de solares para tal efecto, el cabildo o la autoridad tradicional elaborará un cuadro de las asignaciones que se hayan hecho o hicieren entre las familias de la parcialidad, las cuales podrán ser objeto de revisión y reglamentación por parte del INCODER, con el objeto de lograr su redistribución equitativa entre todas las familias que la conforman y cumplir con la función social de la propiedad del resguardo establecida por la Constitución Política y la Ley 160 de 1994.
 
 (Decreto 2164 de 1995, art.22)
-
-ARTÍCULO
 
 ## art:2.14.7.5.3 — Servidumbres y construcción de obras
 
@@ -16214,15 +14154,11 @@ En todos los casos previstos en el presente artículo se elaborará un reglament
 
 (Decreto 2164 de 1995, art.23)
 
-ARTÍCULO
-
 ## art:2.14.7.5.4 — Aguas de uso público
 
 La constitución, ampliación y reestructuración de un resguardo indígena no modifica el régimen vigente sobre aguas de uso público.
 
 (Decreto 2164 de 1995, art.24)
-
-ARTÍCULO
 
 ## art:2.14.7.5.5 — Obligaciones constitucionales legales
 
@@ -16232,15 +14168,11 @@ Así mismo, con arreglo a dichos usos, costumbres y cultura, quedan sometidos a 
 
 (Decreto 2164 de 1995, art.25)
 
-ARTÍCULO
-
 ## art:2.14.7.5.6 — Procedimientos en curso
 
 Los procedimientos de constitución, saneamiento y ampliación de resguardos indígenas que se hallen en curso al momento de entrar a regir el presente decreto, se culminarán con base en los estudios y realizados por el INCORA, previa complementación de los mismos si a ello hubiere lugar.
 
 (Decreto 2164 de 1995, art. 26)
-
-ARTÍCULO
 
 ## art:2.14.7.5.7 — Resguardos coloniales
 
@@ -16254,19 +14186,13 @@ CAPÍTULO 6
 
 CLARIFICACIÓN DE LA VIGENCIA LEGAL DE LOS TÍTULOS DE ORIGEN COLONIAL O REPUBLICANO DE LOS RESGUARDOS INDÍGENAS.
 
-ARTÍCULO
-
 ## art:2.14.7.6.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar el procedimiento de clarificación de la vigencia legal de los títulos de origen colonial o republicano de los resguardos indígenas, de conformidad con lo establecido en el artículo 85 de la Ley 160 de 1994.
 
-ARTÍCULO
-
 ## art:2.14.7.6.2 — Legitimación
 
 La solicitud de clarificación sobre la vigencia legal de los títulos de origen colonial o republicano de los resguardos indígenas, para su reestructuración o ampliación, podrá ser realizada por las autoridades indígenas tradicionales del resguardo objeto de la solicitud, sus cabildos u organizaciones indígenas que actúen con su previo consentimiento colectivo, el cual deberá constar en acta, ante la Agencia Nacional de Tierras.
-
-ARTÍCULO
 
 ## art:2.14.7.6.3 — Requisitos formales de la solicitud
 
@@ -16296,19 +14222,13 @@ Una vez recibida la solicitud, y en caso que esta no cumpliere con la totalidad 
 
 Si no fuere atendido el requerimiento, la Agencia Nacional de Tierras decretará el desistimiento y el archivo del expediente, mediante acto administrativo motivado, que se notificará personalmente, contra el cual únicamente procede recurso de reposición, sin perjuicio de que la respectiva solicitud pueda ser nuevamente presentada con el lleno de los requisitos legales.
 
-ARTÍCULO
-
 ## art:2.14.7.6.4 — Libertad Probatoria
 
 Considerando que la carga de la prueba para la acreditación del título reside en la comunidad indígena solicitante, en el marco de este procedimiento se reconoce el principio de libertad probatoria y la regla según la cual los actos o contratos válidamente celebrados bajo el imperio de una ley podrán probarse bajo el imperio de otra, por los medios que aquella establecía para su justificación; pero la forma en que debe rendirse la prueba estará subordinada a la ley vigente al tiempo en que se rindiere, sin perjuicio del decreto oficioso de pruebas por parte de la Agencia Nacional de Tierras.
 
-ARTÍCULO
-
 ## art:2.14.7.6.5 — Expediente
 
 Recibida la solicitud por la Agencia Nacional de Tierras o quien haga sus veces, se conformará un expediente que contenga las diligencias administrativas, en el que se insertará la solicitud, su admisión, actuaciones de terceros si es del caso, y los demás documentos y actuaciones que correspondan.
-
-ARTÍCULO
 
 ## art:2.14.7.6.6 — Etapas procesales
 
@@ -16319,8 +14239,6 @@ Para adelantar el procedimiento de clarificación de los títulos coloniales o r
 2. Etapa inicial y de instrucción.
 
 3. Etapa de cierre y decisión.
-
-ARTÍCULO
 
 ## art:2.14.7.6.7 — Etapa preliminar
 
@@ -16340,8 +14258,6 @@ Si la respectiva entidad responde que el titulo colonial o republicano o las pru
 
 Si trascurrido los términos antes descritos no se allega el título o las pruebas que se pretendan hacer valer o se informa no tenerlo se archivará la solicitud, sin perjuicio de su reapertura, si se allega el respectivo título.
 
-ARTÍCULO
-
 ## art:2.14.7.6.8 — Visita preliminar
 
 La Agencia Nacional de Tierras podrá ordenar la práctica de una diligencia de visita previa al territorio descrito en el título colonial o republicano o las pruebas que se pretendan hacer valer, con el fin de identificar la ocupación material de la Comunidad Indígena, ocupaciones de terceros, posibles conflictos territoriales, así como identificar la realidad espacial del título y demás información que se requiera.
@@ -16351,8 +14267,6 @@ La práctica de la visita deberá comunicarse al solicitante, a la Comunidad Ind
 Una vez realizada la visita y recabada la información necesaria, se deberá elaborar un informe jurídico preliminar con base en la información recaudada que contenga un análisis previo de la vigencia del título colonial o republicano, el cual deberá incluir la descripción de los asuntos históricos y jurídicos relevantes, la espacialidad del título, la caracterización socioeconómica de terceros y la identificación de las condiciones de tenencia al interior del área descrita por el mismo, estableciendo las controversias territoriales existentes, si las hubiere.
 
 Del informe jurídico preliminar se correrá traslado a la comunidad indígena por el termino de treinta (30) días para que si lo considera pertinente se pronuncie sobre su contenido, salvo renuncia expresa a dicho término.
-
-ARTÍCULO
 
 ## art:2.14.7.6.9 — Cierre de etapa preliminar
 
@@ -16366,8 +14280,6 @@ Con tal fin y para comunicar a terceros interesados, la parte resolutiva de dich
 
 2. Archivo de la solicitud. Si agotada la etapa preliminar, no se encuentre mérito, procederá el archivo de la actuación. En consecuencia, deberá notificarse de tal determinación al representante de la comunidad indígena interesada y a la Procuraduría Judicial, Ambiental y Agraria. Contra esta decisión es procedente el recurso de reposición y en subsidio de apelación.
 
-ARTÍCULO
-
 ## art:2.14.7.6.10 — Etapa inicial y de instrucción
 
 La etapa inicial y de instrucción tendrá por objeto acopiar la información necesaria que conduzca a determinar la vigencia legal del título de origen colonial o republicano de resguardos indígenas.
@@ -16378,27 +14290,19 @@ Contra el auto procede recurso de reposición y en subsidio de apelación, dentr
 
 Esta etapa tendrá un término máximo de noventa (90) días, prorrogables por un término igual cuando el primero resulte insuficiente para practicar la totalidad de las pruebas decretadas, y finalizará mediante acto administrativo que se comunicará al representante de la comunidad indígena interesada, y a la Procuraduría Judicial, Ambiental y Agraria.
 
-ARTÍCULO
-
 ## art:2.14.7.6.11 — Práctica de la visita
 
 En desarrollo de la etapa inicial y de instrucción la Agencia Nacional de Tierras practicará una diligencia de inspección ocular que se ordenará mediante auto, en el que se señalará la fecha y hora para su realización.
 
 Esta providencia se comunicará a las partes, a los solicitantes, a los terceros que hayan participado y a la Procuraduría Judicial, Ambiental y Agraria, mediante oficio al que se le anexará copia del acto administrativo y el cual se remitirá a la dirección que obre en el expediente.
 
-ARTÍCULO
-
 ## art:2.14.7.6.12 — Participación de terceros
 
 Los terceros con interés en los predios ubicados dentro del área objeto del procedimiento de clarificación podrán intervenir en el trámite y aportar la información y documentos que quieran hacer valer, durante la etapa inicial y de instrucción.
 
-ARTÍCULO
-
 ## art:2.14.7.6.13 — Informe definitivo
 
 Una vez practicadas las pruebas, la Agencia Nacional de Tierras deberá elaborar un informe definitivo que contendrá aspectos jurídicos, históricos, sociales, catastrales, cartográficos y culturales relevantes para tomar la decisión de fondo con relación al procedimiento de clarificación de la vigencia legal de los títulos de origen colonial o republicano.
-
-ARTÍCULO
 
 ## art:2.14.7.6.14 — Etapa de cierre y decisión
 
@@ -16410,31 +14314,21 @@ La parte resolutiva de dicho acto se dará a conocer en la página web de la Age
 
 Contra el acto administrativo de cierre y decisión, procede el recurso de reposición ante la Subdirección de Asuntos Étnicos y en subsidio de apelación ante la Dirección de Asuntos Étnicos de la Agencia Nacional de Tierras, dentro de los diez (10) días siguientes a su notificación.
 
-ARTÍCULO
-
 ## art:2.14.7.6.15 — Acción de revisión ante el Consejo de Estado
 
 Contra el acto administrativo de cierre y decisión procede la acción de revisión, que deberá interponerse dentro de los quince (15) días siguientes a su ejecutor a ante el Consejo de Estado, de conformidad con lo establecido en el numeral 10 del artículo 149, del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
-
-ARTÍCULO
 
 ## art:2.14.7.6.16 — Inicio del procedimiento de reestructuración o ampliación
 
 Cuando el sentido del acto administrativo de cierre y decisión dentro del procedimiento de clarificación determine que el título de origen colonial o republicano del resguardo indígena se encuentra vigente, la Agencia Nacional de Tierras, iniciará el procedimiento de reestructuración o ampliación, según se indique en la solicitud, conforme a lo establecido en el Título 7 de Parte 4 del Libro 2 del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.14.7.6.17 — Remisión Normativa
 
 Salvo los eventos de remisión expresa, cualquier vacío en las disposiciones que regulen este procedimiento se informarán con las normas de la Ley 1437 de 2011.
 
-ARTÍCULO
-
 ## art:2.14.7.6.18 — Solicitudes en proceso
 
 En los casos en que las comunidades indígenas hayan elevado sus solicitudes de clarificación de resguardos de origen colonial o republicano con anterioridad a la entrada en vigencia del presente decreto se aplicara en su integridad el presente procedimiento, sin perjuicio de los casos en que mediante órdenes judiciales se haya dado instrucciones específicas en materia procedimental.
-
-ARTÍCULO
 
 ## art:2.14.7.6.19 — .19
 
@@ -16443,8 +14337,6 @@ Conforme al artículo 58 de la Constitución Política de 1991 y a las leyes ant
 TÍTULO 8
 
 Mecanismos para la elección de los representantes de las Organizaciones Campesinas, Indígenas y Afrocolombianas y de los Gremios del Sector Agropecuario ante el Consejo Directivo del Instituto Colombiano de Desarrollo Rural, INCODER
-
-ARTÍCULO
 
 ## art:2.14.8.1 — 8.1
 
@@ -16464,15 +14356,11 @@ PARÁGRAFO . Los representantes principales de las organizaciones campesinas, in
 
 (Decreto 3520 de 2003, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.8.2 — Particulares
 
 Los particulares miembros del Consejo Directivo, aunque ejercen funciones públicas, no adquieren por ese solo hecho la calidad de empleados públicos. Su responsabilidad, incompatibilidades e inhabilidades, se regirán por las leyes, los reglamentos y los estatutos internos del INCODER.
 
 (Decreto 3520 de 2003, art.2)
-
-ARTÍCULO
 
 ## art:2.14.8.3 — Periodo
 
@@ -16486,15 +14374,11 @@ TÍTULO 9
 
 Permuta de predios de propiedad de la población en condición de desplazamiento
 
-ARTÍCULO
-
 ## art:2.14.9.1 — Marco normativo
 
 La permuta que recaiga sobre bienes inmuebles de propiedad de la población en condición de desplazamiento, acreditada como tal, de conformidad con las normas legales y reglamentarias, se regirá por las disposiciones del Código Civil Colombiano y demás normas concordantes, así como por las disposiciones consagradas en el presente título.
 
 (Decreto 1660 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.9.2 — Predios de los desplazados
 
@@ -16512,15 +14396,11 @@ PARÁGRAFO . Para efectos de reglamentar el procedimiento que debe adelantar el 
 
 (Decreto 1660 de 2007, art. 2)
 
-ARTÍCULO
-
 ## art:2.14.9.3 — Avalúos en la permuta
 
 Atendiendo lo preceptuado por el artículo 1958 del Código Civil Colombiano, en relación con la fijación del justo precio de los predios objeto del contrato de permuta, para la suscripción y el perfeccionamiento del contrato se tendrá en cuenta que su valor es el determinado por el justo precio de los bienes que se pretendan permutar que, se considerará, corresponde al avalúo catastral.
 
 (Decreto 1660 de 2007, art.3)
-
-ARTÍCULO
 
 ## art:2.14.9.4 — Vocación silvoagropecuaria de los predios
 
@@ -16534,8 +14414,6 @@ PARÁGRAFO . En los casos en que por diversas circunstancias de fuerza mayor no 
 
 (Decreto 1660 de 2007, art.4)
 
-ARTÍCULO
-
 ## art:2.14.9.5 — Impuesto predial
 
 El valor del impuesto predial que adeuden los predios abandonados por la población en condición de desplazamiento, que sea exigible a la fecha de celebración del contrato de permuta, será pagado por el INCODER, con cargo a los respectivos rubros presupuestales, bajo la siguiente condición:
@@ -16543,8 +14421,6 @@ El valor del impuesto predial que adeuden los predios abandonados por la poblaci
 El INCODER se subrogará, en el crédito tributario adeudado por las personas en condición de desplazamiento al municipio por concepto de impuesto predial. En consecuencia, la obligación de pagar dicho valor al Instituto se hará exigible a partir del quinto año, transcurrido desde el registro del contrato de permuta, en los términos que se consignen en el título valor que deberá suscribir el desplazado en calidad de deudor.
 
 (Decreto 1660 de 2007, art.5)
-
-ARTÍCULO
 
 ## art:2.14.9.6 — Derechos notariales y de registro
 
@@ -16562,8 +14438,6 @@ Baldíos Nacionales
 
 Generalidades
 
-ARTÍCULO
-
 ## art:2.14.10.1.1 — Competencia
 
 El Instituto Colombiano de Desarrollo Rural administra en nombre del Estado las tierras baldías de propiedad nacional, y en virtud de esa atribución puede adjudicarlas, celebrar contratos, constituir reservas y adelantar colonizaciones sobre ellas, conforme a las normas de la Ley 160 de 1994, las contenidas en otras disposiciones legales y reglamentarias vigentes, las del presente título y los reglamentos que expida el Consejo Directivo del Instituto por autorización legal.
@@ -16576,15 +14450,11 @@ Las tierras baldías que, de conformidad con la Ley 70 de 1993, pertenecen o deb
 
 (Decreto 2664 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.10.1.2 — Delegación
 
 El INCODER podrá delegar la facultad de adelantar el procedimiento y expedir las resoluciones de titulación de terrenos baldíos en otras entidades de derecho público, territoriales o del sector agropecuario, previa aprobación del Consejo Directivo del Instituto, con el voto favorable del Ministro de Agricultura y Desarrollo Rural.
 
 (Decreto 2664 de 1994, art. 2)
-
-ARTÍCULO
 
 ## art:2.14.10.1.3 — Modo de adquisición
 
@@ -16596,23 +14466,17 @@ CAPÍTULO 2
 
 Sujetos de la Adjudicación
 
-ARTÍCULO
-
 ## art:2.14.10.2.1 — Personas naturales y jurídicas
 
 Sólo podrán hacerse adjudicaciones de baldíos por ocupación previa, en favor de personas naturales, empresas comunitarias, cooperativas campesinas, fundaciones y asociaciones sin ánimo de lucro que presten un servicio público, o tengan funciones de beneficio social por autorización de la ley y las sociedades de cualquier índole que sean reconocidas por el Ministerio de Agricultura y Desarrollo Rural como empresas especializadas del sector agropecuario, en los términos del inciso 2 del artículo 157 del Decreto Extraordinario 0624 de 1989 (Estatuto Tributario), o que se dediquen a la explotación agrícola o ganadera.
 
 (Decreto 2664 de 1994, art. 4)
 
-ARTÍCULO
-
 ## art:2.14.10.2.2 — Entidades de derecho público
 
 También podrán adjudicarse terrenos baldíos en favor de entidades de derecho público, para la construcción de obras de infraestructura destinadas a la instalación o dotación de servicios públicos, o cuyas actividades hayan sido declaradas por la ley como de utilidad pública e interés social, bajo la condición de que, si dentro del término que el INCODER señale no se diere cumplimiento al fin previsto, los terrenos adjudicados revertirán, por ese sólo hecho, al dominio de la Nación.
 
 (Decreto 2664 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.10.2.3 — Sociedades
 
@@ -16624,8 +14488,6 @@ CAPÍTULO 3
 
 Unidad Agrícola Familiar
 
-ARTÍCULO
-
 ## art:2.14.10.3.1 — Unidad Agrícola Familiar
 
 Excepciones. Salvo las excepciones que establezca el Consejo Directivo del INCODER y lo dispuesto para las Zonas de Reserva Campesina en el artículo 80 de la Ley 160 de 1994, las tierras baldías solo podrán adjudicarse hasta la extensión de una Unidad Agrícola Familiar según el concepto definido y previsto para aquella en el Capítulo IX de la citada ley. Para tal efecto se señalarán en cada región o municipio, las extensiones de la Unidad Agrícola Familiar.
@@ -16636,8 +14498,6 @@ CAPÍTULO 4
 
 Requisitos para la Adjudicación Baldíos Inadjudicables. Prohibiciones
 
-ARTÍCULO
-
 ## art:2.14.10.4.1 — 4.1
 
 Las personas naturales, las empresas comunitarias y las cooperativas campesinas que soliciten la adjudicación de un terreno baldío, deberán demostrar que tienen bajo explotación económica las dos terceras partes de la superficie cuya adjudicación solicitan y que la explotación adelantada corresponde a la aptitud del suelo establecida por el INCODER en la inspección ocular. Los peticionarios deberán acreditar una ocupación y explotación previa no inferior a cinco (5) años y que su patrimonio neto no sea superior a mil (1000) salarios mínimos mensuales legales. Cuando se trate de empresas comunitarias y de cooperativas campesinas, para efectos de la prohibición anterior deberá tenerse en cuenta, además, la suma de los patrimonios netos de los socios cuando estos superen el patrimonio neto de la sociedad.
@@ -16647,8 +14507,6 @@ El tiempo de ocupación de persona distinta del peticionario, no es transferible
 En la solicitud de adjudicación, el peticionario deberá manifestar, bajo la gravedad del juramento, que se entiende prestado al formular su pretensión, si es o no propietario o poseedor a cualquier título de otros inmuebles rurales en el territorio nacional, y además, si se halla o no obligado legalmente a presentar declaración de renta y patrimonio.
 
 (Decreto 2664 de 1994, art.8. Concordancia con la Ley 1728 de 2014)
-
-ARTÍCULO
 
 ## art:2.14.10.4.2 — Baldíos Inadjudicables
 
@@ -16666,8 +14524,6 @@ Igual prohibición regirá respecto de los territorios tradicionalmente utilizad
 
 (Decreto 2664 de 1994, art. 9)
 
-ARTÍCULO
-
 ## art:2.14.10.4.3 — Prohibiciones
 
 Además de las previstas en la ley y en otras disposiciones vigentes, no podrán adjudicarse tierras baldías:
@@ -16683,8 +14539,6 @@ Además de las previstas en la ley y en otras disposiciones vigentes, no podrán
 CAPÍTULO 5
 
 Procedimiento para la Adjudicación
-
-ARTÍCULO
 
 ## art:2.14.10.5.1 — Solicitud de Adjudicación
 
@@ -16724,8 +14578,6 @@ PARÁGRAFO 2. Cuando la solicitud verse sobre predios a los que hace referencia 
 
 (Decreto 2664 de 1994, art.11, modificado por el Decreto 982 de 1996, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.10.5.2 — Documentos
 
 Quien solicite la adjudicación de un baldío debe presentar, con la solicitud respectiva, los siguientes documentos:
@@ -16737,8 +14589,6 @@ Quien solicite la adjudicación de un baldío debe presentar, con la solicitud r
 3. Certificación sobre la vigencia y representación legal de la persona jurídica expedida por autoridad competente, donde conste el domicilio, la duración y el objeto social. La fecha de expedición de este documento no podrá ser superior a dos (2) meses.
 
 (Decreto 2664 de 1994, art. 12, modificado por el Decreto 982 de 1996, art. 2)
-
-ARTÍCULO
 
 ## art:2.14.10.5.3 — Estudio de la solicitud
 
@@ -16753,8 +14603,6 @@ PARÁGRAFO 1. En aplicación de la presunción de buena fe, para adelantar el tr
 PARÁGRAFO 2. De conformidad con el artículo 69 de la Ley 160 de 1994 y en concordancia con los artículos 2.14.10.4.2. y 2 2.14.10.5.3. del presente decreto, previo al estudio de la solicitud de adjudicación de baldíos, la Dirección Técnica de Baldíos y/o las Direcciones Territoriales respectivas del INCODER solicitarán a la Dirección de Asuntos Étnicos de esta entidad certificación sobre la existencia o no, en el área pretendida, de solicitudes de constitución, saneamiento o ampliación de resguardos indígenas, o reestructuración de resguardos de origen colonial o republicano, así como medidas de protección de la posesión de territorios ancestrales y/o tradicionales. De no encontrarse información registrada sobre dichos procesos, deberá solicitarse información adicional al Ministerio del Interior, a las entidades territoriales pertinentes y/o a las organizaciones indígenas, para que se pronuncien sobre la existencia o no de comunidades indígenas en el área pretendida, la cual será remitida al Ministerio del Interior para su respectiva validación.
 
 (Decreto 2664 de 1994, en. 13, modificado por el Decreto 982 de 1996, art. 3; parágrafo 2 adicionado por el Decreto 2333 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.14.10.5.4 — Iniciación del trámite
 
@@ -16782,8 +14630,6 @@ PARÁGRAFO 2. Sí la solicitud no se ajusta a los requisitos exigidos, se requer
 
 (Decreto 2664 de 1994, art.14, modificado por el Decreto 982 de 1996, art. 4)
 
-ARTÍCULO
-
 ## art:2.14.10.5.5 — Planos del terreno objeto de la solicitud de adjudicación
 
 El INCODER realizará por medio de sus funcionarios o con personas naturales o jurídicas vinculadas por contrato, la identificación predial de los terrenos baldíos.
@@ -16793,8 +14639,6 @@ El INCODER podrá aceptar los planos aportados, elaborados por particulares o po
 De conformidad con lo establecido en el artículo 78 de la Ley 160 de 1994, por los servicios de titulación se cobrará a los adjudicatarios las tarifas máximas que señale el Consejo Directivo del INCODER, las cuales podrán incluir el costo de las diversas actividades de titulación, considerando dentro de éstas la publicación de los avisos correspondientes.
 
 (Decreto 2664 de 1994, art. 15, modificado por el Decreto 982 de 1996, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.10.5.6 — Publicidad de la solicitud de la adjudicación
 
@@ -16826,8 +14670,6 @@ PARÁGRAFO 3. En el evento de que se haya certificado existencia de procesos de 
 
 (Decreto 2664 de 1994, art. 16, modificado por el Decreto 982 de 1996, art. 6, adicionado por el Decreto 2333 de 2014, art. 12)
 
-ARTÍCULO
-
 ## art:2.14.10.5.7 — Inspección ocular
 
 Publicada la solicitud, se procederá a realizar, por un funcionario del INCODER, la diligencia de inspección ocular, con sujeción a lo dispuesto en el artículo 2.14.10.5.8, del presente decreto.
@@ -16837,8 +14679,6 @@ Si en desarrollo de la diligencia de inspección ocular el funcionario del INCOD
 Practicada la inspección ocular, se continuará con el trámite previsto en el artículo 2.14.10.5.9. y siguientes del presente decreto.
 
 (Decreto 2664 de 1994, art. 17, modificado por el Decreto 982 de 1996, art. 7)
-
-ARTÍCULO
 
 ## art:2.14.10.5.8 — Práctica de la diligencia de Inspección Ocular
 
@@ -16896,8 +14736,6 @@ PARÁGRAFO 2. En los casos en que el Consejo Directivo del INCODER autorice la t
 
 (Decreto 2664 de 1994, art. 19, modificado por el Decreto 982 de 1996, art. 8, adicionado por el Decreto 2333 de 2014, art. 13)
 
-ARTÍCULO
-
 ## art:2.14.10.5.9 — Aclaración de la Inspección Ocular y Fijación del Negocio en lista
 
 Practicada la diligencia de inspección ocular, se dispondrá publicar un aviso por una vez en una emisora radial con cubrimiento en el lugar de ubicación del predio, entre las 7 de la mañana y las diez de la noche, o en su defecto, en un periódico de amplia circulación en la región en donde se encuentre situado el terreno. En este aviso se señalará:
@@ -16920,15 +14758,11 @@ Vencido el término anterior se fijará el negocio en lista por cinco (5) días 
 
 (Decreto 2664 de 1994, art. 20, modificado por el Decreto 982 de 1996, art. 9)
 
-ARTÍCULO
-
 ## art:2.14.10.5.10 — Oposición a la Adjudicación
 
 A partir del auto que acepta la solicitud de adjudicación y hasta el vencimiento del término que fija el negocio en lista, quienes se crean con derecho, conforme a la ley, podrán formular oposición a la adjudicación, acompañando al escrito respectivo la prueba en que funden su pretensión. Vencido dicho término, precluye la oportunidad para oponerse a la solicitud de titulación.
 
 (Decreto 2664 de 1994, art. 21)
-
-ARTÍCULO
 
 ## art:2.14.10.5.11 — Trámite de la oposición
 
@@ -16940,8 +14774,6 @@ Vencido el término probatorio y practicadas las pruebas en que se funde la opos
 
 (Decreto 2664 de 1994, art. 22)
 
-ARTÍCULO
-
 ## art:2.14.10.5.12 — Resolución de la oposición
 
 Cuando el opositor alegare que el inmueble objeto de la solicitud de adjudicación es de propiedad privada, o reclame dominio sobre el mismo, total o parcialmente, deberá aportar las pruebas que para el efecto exige el inciso 2 del ordinal 1 del artículo 48 de la Ley 160 de 1994, y en la inspección ocular que se practique en el trámite de oposición se procederá a verificar si el predio pedido en adjudicación se halla incluido dentro de los linderos de aquel cuya propiedad demanda el opositor, así como a establecer otros hechos o circunstancias de las que pueda deducirse su dominio.
@@ -16952,15 +14784,11 @@ Cuando la oposición se formule por haberse iniciado contra el peticionario acci
 
 (Decreto 2664 de 1994, art. 23)
 
-ARTÍCULO
-
 ## art:2.14.10.5.13 — Revisión previa a la adjudicación
 
 Antes de decidir sobre la solicitud de adjudicación, el Instituto verificará la procedencia Legal de la petición, con el fin de evitar que la titulación se haga a favor de personas que no cumplan con los requisitos o exigencias que prescribe la ley, o recaiga sobre terrenos que no reúnen las calidades de baldíos adjudicables; se hallen reservados o destinados a un servicio o uso público; o excedan las áreas permitidas; o que se encuentren ocupados contra expresa prohibición legal; o se trate de tierras de las comunidades negras u ocupadas por las comunidades indígenas, y en los demás casos previstos en la ley.
 
 (Decreto 2664 de 1994, art. 24)
-
-ARTÍCULO
 
 ## art:2.14.10.5.14 — Resolución de Adjudicación
 
@@ -16972,8 +14800,6 @@ Surtida en legal forma la notificación y debidamente ejecutoriada la resolució
 
 (Decreto 2664 de 1994, art. 25)
 
-ARTÍCULO
-
 ## art:2.14.10.5.15 — Reversión al dominio del Estado de los predios adjudicados y caducidad
 
 En toda resolución de adjudicación, o contrato de explotación de baldíos que celebre el INCODER, se establecerá expresamente la obligación del adjudicatario de cumplirlas normas sobre conservación y aprovechamiento racional de los recursos naturales renovables y del medio ambiente; las que establezcan obligaciones y condiciones bajo las cuales se produce la titulación o se celebra el contrato, conforme a la Ley 160 de 1994 y demás disposiciones vigentes, y la prohibición de dedicarlo a cultivos ilícitos. La infracción de lo dispuesto en este artículo dará lugar a la iniciación del procedimiento de reversión del baldío adjudicado, o a la declaratoria de caducidad del contrato, según el caso, conforme a lo establecido en este título.
@@ -16984,15 +14810,11 @@ CAPÍTULO 6
 
 Adjudicación a Entidades de Derecho Público
 
-ARTÍCULO
-
 ## art:2.14.10.6.1 — Campo de aplicación
 
 Las entidades de derecho público que deban construir obras de infraestructura para la instalación o dotación de servicios públicos, o aquellas cuyas actividades u objeto social hayan sido declarados por la ley como de utilidad pública e interés social, podrán solicitar y obtener la adjudicación en propiedad de terrenos baldíos bajo la condición resolutoria de cumplir con el fin previsto, dentro del término que para tal efecto señale el Instituto colombiano de Desarrollo Rural en la respectiva resolución de adjudicación.
 
 (Decreto 2664 de 1994, art. 27)
-
-ARTÍCULO
 
 ## art:2.14.10.6.2 — Requisitos
 
@@ -17022,8 +14844,6 @@ PARÁGRAFO . A La solicitud de que trata el presente artículo deberán acompañ
 
 (Decreto 2664 de 1994, art. 28)
 
-ARTÍCULO
-
 ## art:2.14.10.6.3 — Trámite
 
 El procedimiento de adjudicación se adelantará en la forma prevista en este título, salvo en lo relacionado con la diligencia de inspección ocular, en la cual se observarán las siguientes reglas:
@@ -17046,8 +14866,6 @@ PARÁGRAFO . De la práctica de la inspección se levantará un acta, en la cual
 
 (Decreto 2664 de 1994, art. 29)
 
-ARTÍCULO
-
 ## art:2.14.10.6.4 — Reversión
 
 Si dentro del término que señale el INCODER en la correspondiente resolución de adjudicación, la entidad adjudicataria no cumple con el fin previsto, el Instituto adelantará el correspondiente procedimiento de reversión de la adjudicación al dominio de la Nación. Esta condición deberá consignarse en toda adjudicación de baldíos que realice el INCODER a favor de entidades de derecho público.
@@ -17060,8 +14878,6 @@ CAPÍTULO 7
 
 Adjudicación a Fundaciones, Asociaciones y Sociedades de cualquier índole
 
-ARTÍCULO
-
 ## art:2.14.10.7.1 — Procedencia y objeto
 
 Las fundaciones y asociaciones sin ánimo de lucro que presten un servicio público, o tengan funciones de beneficio social, con autorización de La ley, podrán solicitar y obtener la adjudicación de terrenos baldíos, pero previamente deberán celebrar un contrato con el Instituto, para la explotación de los terrenos respectivos, los cuales deberán suscribiese en función de los principios y finalidades de la Ley 180 de 1994.
@@ -17071,8 +14887,6 @@ El Consejo Directivo del Instituto señalará los requisitos que deben cumplir l
 La adjudicación se hará cuando se hubiere dado cumplimiento al objeto del contrato, y estará sometido a la declaratoria de caducidad, así como a las causales de reversión de la adjudicación y recuperación de los terrenos en los eventos previstos en la Ley 160 de 1994.
 
 (Decreto 2664 de 1994, art. 31)
-
-ARTÍCULO
 
 ## art:2.14.10.7.2 — Sociedades
 
@@ -17086,8 +14900,6 @@ CAPÍTULO 8
 
 Acciones Contencioso Administrativas contra los Actos de Adjudicación de Baldíos
 
-ARTÍCULO
-
 ## art:2.14.10.8.1 — Acción de nulidad y restablecimiento del derecho
 
 Son nulas las adjudicaciones de tierras baldías que se profieran con violación a lo dispuesto en la Ley 160 de 1994 y demás disposiciones legales y reglamentarias vigentes sobre la materia.
@@ -17100,8 +14912,6 @@ CAPÍTULO 9
 
 Nulidades y Disposiciones Varias
 
-ARTÍCULO
-
 ## art:2.14.10.9.1 — Nulidades
 
 Son absolutamente nulas las adjudicaciones, o los actos o contratos que se produzcan con violación de las prohibiciones o prescripciones contenidas en el artículo 72 de la Ley 160 de 1994.
@@ -17110,15 +14920,11 @@ Los Registradores de Instrumentos Públicos no inscribirán actos o contratos de
 
 (Decreto 2664 de 1994, art. 53)
 
-ARTÍCULO
-
 ## art:2.14.10.9.2 — Hipoteca sobre baldíos
 
 Dentro de los cinco (5) años siguientes a la adjudicación de una Unidad Agrícola Familiar sobre baldíos, esta solamente podrá ser gravada con hipoteca para garantizar las obligaciones derivadas de créditos agropecuarios otorgados por entidades financieras.
 
 (Decreto 2664 de 1994, art. 54)
-
-ARTÍCULO
 
 ## art:2.14.10.9.3 — Suspensión del procedimiento
 
@@ -17128,8 +14934,6 @@ Cuando se acredite el fallecimiento del solicitante de la adjudicación, el Inst
 
 (Decreto 2664 de 1994, art. 55)
 
-ARTÍCULO
-
 ## art:2.14.10.9.4 — Contrato de asignación sobre baldíos
 
 Para el desarrollo de programas de sustitución de cultivos ilícitos, se podrán celebrar contratos de asignación de baldíos con los ocupantes de tales tierras que sean objeto de aquellos programas, con el exclusivo propósito de apoyar el proceso de sustitución y facilitar a los campesinos la obtención de los créditos correspondientes.
@@ -17138,15 +14942,11 @@ En ningún caso podrá expedirse título de adjudicación para los baldíos expl
 
 (Decreto 2664 de 1994, art. 56, modificado por el Decreto 982 de 1996, art. 10)
 
-ARTÍCULO
-
 ## art:2.14.10.9.5 — Interventoría en contratos de explotación de baldíos
 
 En los contratos para la explotación de tierras baldías que celebre el INCODER, deberá designarse un interventor, para controlar la ejecución y el cumplimiento de las obligaciones contraídas.
 
 (Decreto 2664 de 1994, art. 57)
-
-ARTÍCULO
 
 ## art:2.14.10.9.6 — Servidumbres
 
@@ -17154,15 +14954,11 @@ En toda resolución de adjudicación o contrato de explotación de baldíos, se 
 
 (Decreto 2664 de 1994, art. 58)
 
-ARTÍCULO
-
 ## art:2.14.10.9.7 — Apoderado
 
 En los trámites de adjudicación de que trata el presente título no es necesaria la intervención de abogado, pero si el interesado constituye apoderado, éste deberá ser titulado.
 
 (Decreto 2664 de 1994, art. 59)
-
-ARTÍCULO
 
 ## art:2.14.10.9.8 — Tránsito de legislación
 
@@ -17180,15 +14976,11 @@ CAPÍTULO 1
 
 Generalidades
 
-ARTÍCULO
-
 ## art:2.14.11.1.1 — Campo de Aplicación
 
 En los procedimientos administrativos de adquisición de tierras y mejoras rurales que adelante directamente el Instituto Colombiano de Desarrollo Rural, conforme al Capítulo VI de la Ley 160 de 1994, el presente Decreto y en los demás casos previstos en dichas disposiciones en que se requiera esa negociación, se ordenará la realización de un avalúo comercial de los inmuebles y bienes respectivos por parte de un (1) perito, en la forma y con sujeción a las normas, criterios y parámetros que se señalan en la citada Ley y el presente Decreto y conforme al procedimiento que adopte el Gerente General del INCODER para la práctica y presentación de los avalúos, mediante Resolución de carácter general.
 
 (Decreto 1139 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.11.1.2 — Definición
 
@@ -17207,8 +14999,6 @@ Los avalúos comerciales indicarán el valor unitario promedio de cada hectárea
 CAPÍTULO 2
 
 Determinación del avalúo comercial de un predio
-
-ARTÍCULO
 
 ## art:2.14.11.2.1 — Etapas
 
@@ -17230,8 +15020,6 @@ Para determinar el avalúo comercial de un predio rural, conforme a lo exigido e
 
 (Decreto 1139 de 1995, art.3)
 
-ARTÍCULO
-
 ## art:2.14.11.2.2 — Presentación de los informes
 
 Como resultado de todo el proceso señalado en el artículo 2.14.11.2.1., los peritos deberán elaborar un informe de Memoria Explicativa y otro de Resumen General, los que deberán contener:
@@ -17250,8 +15038,6 @@ PARÁGRAFO . Cuando el avalúo se refiera exclusivamente al terreno, se dará ap
 
 (Decreto 1139 de 1995, art. 4)
 
-ARTÍCULO
-
 ## art:2.14.11.2.3 — Término para rendir los informes
 
 El perito evaluador rendirá sus informes de avalúo dentro de los diez (10) días calendario siguientes a la fecha de terminación de la diligencia. Cuando en una misma actuación el perito deba avaluar más de un (1) predio, el término para rendir los informes se incrementará en dos (2) días por cada inmueble adicional, sin exceder de dieciséis (16) días hábiles.
@@ -17259,8 +15045,6 @@ El perito evaluador rendirá sus informes de avalúo dentro de los diez (10) dí
 Si se presentaren circunstancias ajenas a la voluntad del perito, debidamente justificadas, el Instituto podrá ampliar el término total de presentación de los informes hasta por cinco (5) días más.
 
 (Decreto 1139 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.11.2.4 — Naturaleza del avalúo
 
@@ -17276,23 +15060,17 @@ Si de las pruebas aportadas y del dictamen posterior se concluye que no existió
 
 (Decreto 1139 de 1995, art. 6)
 
-ARTÍCULO
-
 ## art:2.14.11.2.5 — Avalúo ordenado por INCODER
 
 Cuando el procedimiento de adquisición de tierras y mejoras se adelante conforme a la regulación establecida en el Capítulo VI de la Ley 160 de 1994, el Instituto asumirá directamente los costos que demande realizar el avalúo comercial. En igual forma se procederá en los eventos de negociación directa contemplados en el numeral 5 del artículo 31 de la Ley 160 de 1994 y en los programas de adquisición de mejoras en resguardos indígenas y los que correspondan a los procesos relacionados con la recuperación de tierras baldías.
 
 (Decreto 1139 de 1995, art. 7)
 
-ARTÍCULO
-
 ## art:2.14.11.2.6 — Avalúo en procesos de expropiación
 
 Los avalúos comerciales correspondientes a los procesos de expropiación de inmuebles rurales y mejoras, se regirán por las normas especiales señaladas en el artículo 33 de la Ley 160 de 1994.
 
 (Decreto 1139 de 1995, art.8)
-
-ARTÍCULO
 
 ## art:2.14.11.2.7 — Avalúos en procesos de negociación voluntaria
 
@@ -17309,8 +15087,6 @@ El INCODER no aceptará el avalúo cuando hubiere sido elaborado sin el cumplimi
 CAPÍTULO 3
 
 Listado Nacional de Peritos para la Reforma Agraria
-
-ARTÍCULO
 
 ## art:2.14.11.3.1 — Integración del Listado
 
@@ -17342,8 +15118,6 @@ El INCODER podrá disponer la exclusión de un experto del Listado Nacional de P
 
 (Decreto 1139 de 1995, art. 10)
 
-ARTÍCULO
-
 ## art:2.14.11.3.2 — Prohibiciones y responsabilidad
 
 No podrá contratarse la realización de avalúos y de las diligencias de inspección ocular para la presentación de los correspondientes dictámenes periciales que se contemplan en otros procedimientos agrarios de competencia del INCODER, salvo las excepciones señaladas en las leyes especiales sobre la materia:
@@ -17358,8 +15132,6 @@ Los peritos que se contraten para fines de reforma agraria serán responsables c
 
 (Decreto 1139 de 1995, art.11)
 
-ARTÍCULO
-
 ## art:2.14.11.3.3 — Tarifas
 
 Las tarifas para el pago de los honorarios de los peritos evaluadores, y el reconocimiento de los gastos de las diligencias de inspección ocular y valor total del dictamen en otros procedimientos agrarios serán establecidas por el Gerente General del INCODER mediante normas de carácter general.
@@ -17370,8 +15142,6 @@ CAPÍTULO 4
 
 Designación de Peritos
 
-ARTÍCULO
-
 ## art:2.14.11.4.1 — Designación
 
 La designación de los peritos que deban realizar los avalúos de predios y mejoras con fines de reforma agraria será rotatoria, teniendo en cuenta la lista de expertos que para el efecto elabore el Instituto por Regional o Departamento, de manera que la misma persona no pueda ser nombrada por segunda vez sino cuando se haya agotado la lista. No obstante, el Instituto podrá adoptar otro sistema de designación que en todo caso garantice la aplicación de los principios de transparencia y responsabilidad que rigen la función administrativa.
@@ -17380,15 +15150,11 @@ PARÁGRAFO . La designación de los peritos que deben intervenir dentro de los p
 
 (Decreto 1139 de 1995, art. 13)
 
-ARTÍCULO
-
 ## art:2.14.11.4.2 — Comunicación
 
 Toda designación se comunicará a los peritos, mediante aviso escrito que se enviará a más tardar al día siguiente hábil de la designación, a la dirección que figure en el expediente, o en el directorio telefónico, en el cual se indicará el objeto, lugar, día y hora de la diligencia.
 
 (Decreto 1139 de 1995, art.14)
-
-ARTÍCULO
 
 ## art:2.14.11.4.3 — Aceptación y Posesión
 
@@ -17400,15 +15166,11 @@ Cuando por culpa del perito dejare de practicares una diligencia, o no se pronun
 
 (Decreto 1139 de 1995, art. 15)
 
-ARTÍCULO
-
 ## art:2.14.11.4.4 — Impedimentos y recusaciones
 
 Si el perito designado alegare fundadamente hallarse impedido para realizar la diligencia, por existir alguna de las causales previstas en el Artículo 150 del Código de Procedimiento Civil 11 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo (o el 140 del Código General del Proceso y de Procedimiento Civil), se excusará de prestar el servicio indicando por escrito los motivos y se dispondrá la designación o el sorteo de su reemplazo, según el caso. Si fuere recusado, en la petición respectiva el recusante deberá aportar las pruebas que sean conducentes, de las que se dará traslado al perito por el término de tres (3) días calendario. Con base en las argumentaciones y elementos probatorios presentados, el INCODER resolverá sobre la causal alegada.
 
 (Decreto 1139 de 1995, art. 16)
-
-ARTÍCULO
 
 ## art:2.14.11.4.5 — Designación Alternativa
 
@@ -17420,8 +15182,6 @@ CAPÍTULO 5
 
 Dictámenes Periciales
 
-ARTÍCULO
-
 ## art:2.14.11.5.1 — Dictámenes Periciales en otros Procedimientos Agrarios
 
 En los procedimientos administrativos agrarios de extinción del derecho de dominio; de clarificación de la propiedad y de deslinde de tierras, clarificación de la propiedad, deslinde de tierras de la Nación y los relacionados con la recuperación de baldíos indebidamente ocupados, la diligencia de inspección ocular se practicará con la intervención de dos (2) peritos que contrate el Instituto, siempre que los interesados que soliciten la prueba reembolsen al INCODER los gastos que demande la actuación en la forma y oportunidades previstas en este título.
@@ -17431,8 +15191,6 @@ La inscripción en el Listado Nacional de Peritos para la Reforma Agraria y la c
 Los dictámenes se rendirán por escrito, en forma clara, precisa y fundamentada, personalmente por los peritos y en la deliberación de éstos para la rendición del experticio no podrán participar los peticionarios de la prueba o los funcionarios del INCODER.
 
 (Decreto 1139 de 1995, art. 18)
-
-ARTÍCULO
 
 ## art:2.14.11.5.2 — Oportunidad para el rembolso de gastos
 
@@ -17452,8 +15210,6 @@ PARÁGRAFO . Los costos que demande la realización de una nueva diligencia de i
 
 (Decreto 1139 de 1995, art.19)
 
-ARTÍCULO
-
 ## art:2.14.11.5.3 — Peritos del Ministerio del Medio Ambiente y Desarrollo Sostenible o de la Corporación Autónoma regional
 
 En los procedimientos de extinción del derecho de dominio relacionados con la violación de las disposiciones sobre conservación, mejoramiento y utilización racional de los recursos naturales renovables y las de preservación del ambiente, o las aplicables a las zonas de reserva agrícola o forestal establecidas en los planes de desarrollo de los municipios o distritos con más de 300.000 habitantes, las diligencias de inspección ocular y los dictámenes correspondientes se practicarán y rendirán por dos (2) funcionarios calificados del Ministerio del Medio Ambiente y Desarrollo Sostenible, o de la Corporación Autónoma Regional con jurisdicción en el municipio donde se halle situado el inmueble afectado por el Instituto, según las reglas de competencia establecidas en la Ley 99 de 1993 en las disposiciones legales, reglamentarias y estatutarias que los rigen.
@@ -17461,8 +15217,6 @@ En los procedimientos de extinción del derecho de dominio relacionados con la v
 Para tal efecto, los organismos públicos antes referidos enviarán al INCODER una relación de los funcionarios idóneos que, a nivel central y regional, deberán practicar las diligencias de inspección ocular y rendir los correspondientes dictámenes, quienes serán incluidos en el Listado Nacional de Peritos para la Reforma Agraria y sorteados en la misma forma que los demás expertos. Los gastos que demanden las actuaciones de los funcionarios del Ministerio del Medio Ambiente y Desarrollo Sostenible, o de la Corporación Autónoma Regional, serán asumidos en uno u otro caso por dichas entidades.
 
 (Decreto 1139 de 1995, art.20)
-
-ARTÍCULO
 
 ## art:2.14.11.5.4 — Término para rendirlos dictámenes de inspección ocular
 
@@ -17474,15 +15228,11 @@ En los procedimientos para la recuperación de baldíos indebidamente ocupados, 
 
 (Decreto 1139 de 1995, art.21)
 
-ARTÍCULO
-
 ## art:2.14.11.5.5 — Error grave
 
 Concepto. Hay error grave en el avalúo o dictamen, cuando el informe respectivo contradice la naturaleza de las cosas, o la esencia de sus atribuciones; o si los razonamientos deducidos por los peritos no tienen sustentación legal, científica o técnica; o si los elementos de convicción que tuvieron en cuenta, para apoyar las conclusiones del respectivo peritaje o dictamen, tienen fundamentos diferentes, o de ellos no podían inferirse esas consecuencias.
 
 (Decreto 1139 de 1995, art. 22)
-
-ARTÍCULO
 
 ## art:2.14.11.5.6 — Error grave en dictámenes
 
@@ -17496,8 +15246,6 @@ CAPÍTULO 6
 
 Disposiciones Varias
 
-ARTÍCULO
-
 ## art:2.14.11.6.1 — Control de calidad
 
 Además de las atribuciones que establezcan las normas de contratación, los interventores de los contratos u órdenes de servicios realizarán un control de calidad de los avalúes comerciales que practiquen y rindan los peritos, el cual versará sobre el cumplimiento de tos criterios, métodos y operaciones establecidas en este título y en el procedimiento que expida el Gerente General del INCODER para la investigación y procesamiento de la información relacionada con los avalúes, con el objeto primordial de que los resultados reflejen el valor comercial de los inmuebles y mejoras.
@@ -17510,15 +15258,11 @@ TÍTULO 12
 
 Adjudicación de la extensión de un predio para completar la UAF.
 
-ARTÍCULO
-
 ## art:2.14.12.1 — Adjudicación de extensión para completar la UAF
 
 Cuando una persona sea propietaria o poseedora de un predio rural, pero el mismo no alcance a conformar una unidad agrícola familiar, se le podrá adjudicar la extensión de predio necesaria para completar aquella, previa evaluación de las condiciones de ubicación de los predios respectivos y su facilidad para la explotación directa por parte del beneficiario.
 
 (Decreto 982 de 1996, art. 11)
-
-ARTÍCULO
 
 ## art:2.14.12.2 — Concurrencia
 
@@ -17529,8 +15273,6 @@ En los casos en que concurran varias solicitudes de adjudicación para diferente
 TÍTULO 13
 
 Zonas de Reserva Campesina
-
-ARTÍCULO
 
 ## art:2.14.13.1 — Ámbito de aplicación
 
@@ -17551,8 +15293,6 @@ Las que hayan sido constituidas como Zonas de Desarrollo Empresarial.
 (Modificado por el artículo 1 del Decreto 1147 de 2024)
 
 (Decreto 1777 de 1996, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.13.2 — Objetivos
 
@@ -17580,9 +15320,7 @@ La constitución y delimitación de zonas de reserva campesina tiene los siguien
 
 10. Fortalecer la gobernanza territorial y ambiental de las comunidades campesinas del país para fomentar un ordenamiento del territorio alrededor del agua, contemplando acciones de reconversión productiva de actividades agropecuarias, permitiendo la continuidad y apropiación de prácticas orientadas a la restauración, conservación y el tránsito a actividades sostenibles.
 
-(Adicionados por el artículo 2 del Decreto 1147 de 2024) 
-
-ARTÍCULO
+(Adicionados por el artículo 2 del Decreto 1147 de 2024)
 
 ## art:2.14.13.3 — Acción institucional
 
@@ -17591,8 +15329,6 @@ La acción institucional del Estado en Zonas de Reserva Campesina será concerta
 La acción del Estado se realizará con condiciones preferenciales en cuanto al otorgamiento de subsidios, incentivos y estímulos en favor de la población campesina en materia de créditos agropecuarios, capitalización rural, adecuación de tierras, desarrollo de proyectos alternativos, modernización y el acceso ágil y eficaz a los servicios públicos rurales.
 
 (Decreto 1777 de 1996, art. 3)
-
-ARTÍCULO
 
 ## art:2.14.13.4 — Inversión y Plan de Desarrollo Sostenible
 
@@ -17603,8 +15339,6 @@ En los procesos de identificación, diseño y financiación de los planes, progr
 Los proyectos de financiación y cofinanciación que se formulen para las Zonas de Reserva Campesina, tendrán en cuenta, además de las características agroecológicas y socioeconómicas regionales, los planes de desarrollo sostenible que se establezcan por los Consejos Municipales de Desarrollo Rural, o las instancias de participación que hagan sus veces.
 
 (Decreto 1777 de 1996, art.4)
-
-ARTÍCULO
 
 ## art:2.14.13.5 — Coordinación
 
@@ -17752,8 +15486,6 @@ TÍTULO 14
 
 Oportuna atención a la población rural desplazada por la violencia, en el marco del retorno voluntario a su lugar de origen o de su reasentamiento en otro lugar y se adoptan medidas tendientes a prevenir esta situación
 
-ARTÍCULO
-
 ## art:2.14.14.1 — 4.1
 
 Declaratoria de la inminencia de riesgo de desplazamiento o de desplazamiento forzado en una zona y limitaciones a la enajenación o transferencia a cualquier título de bienes rurales. (Derogado por el Artículo 2 del Decreto 2051 de 2016). Con el objeto de proteger la población de actos arbitrarios contra su vida, integridad y bienes patrimoniales, por circunstancias que puedan originar o hayan originado un desplazamiento forzado; el Comité Municipal, Distrital o Departamental de Atención Integral a la Población Desplazada por la Violencia, declarará mediante acto motivado, la inminencia de riesgo de desplazamiento o de su ocurrencia por causa de la violencia, en una zona determinada del territorio de su jurisdicción, procediendo a:
@@ -17778,23 +15510,17 @@ PARÁGRAFO 3. El Comité incluirá en el Plan de Acción Zonal, PAZ, estrategias
 
 (Decreto 2007 de 2001, art. 1, adicionado por el Decreto 4720 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.14.2 — Participación en los Comités para la Atención de la Población Desplazada
 
 (Derogado por el Artículo 2 del Decreto 2051 de 2016)Los Comités Departamentales, Distritales o Municipales para la Atención Integral a la Población Desplazada por la Violencia, convocarán al INCODER, a los Procuradores Judiciales Agrarios y a los Registradores de Instrumentos Públicos, a participar en las reuniones, en que se traten asuntos relacionados o que incidan en los programas y procedimientos de su competencia.
 
 (Decreto 2007 de 2001, art. 2)
 
-ARTÍCULO
-
 ## art:2.14.14.3 — Procedimientos y programas especiales para la eficaz atención de los riesgos de desplazamiento
 
 (Derogado por el Artículo 2 del Decreto 2051 de 2016)En desarrollo de lo dispuesto en el artículo 19 de la Ley 387 de 1997, el INCODER iniciará los programas y procedimientos especiales de enajenación, adjudicación y titulación de tierras, en las zonas de eventual expulsión, dentro de los 30 días siguientes a la fecha, en que los Comités le comuniquen el acto que declaró la inminencia de riesgo de desplazamiento o de desplazamiento forzado, en determinada región, como estrategia de prevención. Para tal efecto, tomará en cuenta el informe sobre propietarios, poseedores, tenedores y ocupantes debidamente avalado por el respectivo Comité de Atención a la Población Desplazada.
 
 (Decreto 2007 de 2001, art. 3)
-
-ARTÍCULO
 
 ## art:2.14.14.4 — Requisitos especiales para la enajenación de bienes rurales
 
@@ -17803,8 +15529,6 @@ ARTÍCULO
 El Registrador de Instrumentos Públicos sólo podrá inscribir el acto de enajenación o transferencia, cuando se le presente la autorización del Comité, la cual deberá incorporarse al contrato o acto de transferencia del derecho sobre el predio, o cuando la transferencia se haga a favor del INCODER.
 
 (Decreto 2007 de 2001, art. 4)
-
-ARTÍCULO
 
 ## art:2.14.14.5 — Estabilización socioeconómico de carácter transitorio
 
@@ -17817,8 +15541,6 @@ Para garantizar la atención oportuna de la población desplazada que manifieste
 PARÁGRAFO . Los anteriores programas se ofrecerán a los desplazados, en forma complementaria a la ayuda humanitaria, con el objeto de garantizar una solución continua hasta la etapa de retorno o reubicación, en consecuencia solamente se aplicarán en forma transitoria y por un término máximo de tres años. En estos predios los desplazados sólo podrán efectuar explotaciones agropecuarias transitorias.
 
 (Decreto 2007 de 2001, art. 5)
-
-ARTÍCULO
 
 ## art:2.14.14.6 — Consolidación y estabilización socioeconómica
 
@@ -17840,8 +15562,6 @@ PARÁGRAFO 2. El INCODER destinará los predios menores a una Unidad Agrícola F
 
 (Decreto 2007 de 2001, art. 6)
 
-ARTÍCULO
-
 ## art:2.14.14.7 — Acumulación de tiempo para titulación de baldíos
 
 En el evento de retorno de un desplazado a un terreno baldío ubicado en zona de desplazamiento, se acumulará automáticamente el tiempo de desplazamiento, debidamente reconocido por la autoridad competente, con el tiempo real de ocupación y explotación del terreno.
@@ -17849,8 +15569,6 @@ En el evento de retorno de un desplazado a un terreno baldío ubicado en zona de
 PARÁGRAFO . Cuando el desplazado no pueda retornar a un terreno baldío ubicado en zona declarada como de riesgo inminente de desplazamiento o de desplazamiento forzado y acredite el cumplimiento de los requisitos establecidos para su titulación, tendrá prelación en los programas de dotación de tierras que adelante el INCODER en beneficio de la población desplazada por causa de la violencia.
 
 (Decreto 2007 de 2001, art. 7)
-
-ARTÍCULO
 
 ## art:2.14.14.8 — Adquisición y adjudicación de tierras
 
@@ -17864,8 +15582,6 @@ TÍTULO 15
 
 Titulación y uso de predios de Reforma Agraria
 
-ARTÍCULO
-
 ## art:2.14.15.1 — Predios Sujetos al Régimen de la UAF
 
 Cuando uno de los cónyuges o compañeros (as) permanentes propietarios (as) de un predio sujeto al régimen de la UAF, abandona la explotación directa del mismo durante el término previsto en las normas legales para que opere la prescripción agraria, el otro cónyuge o compañero (a) podrá solicitar al INCODER, que declare cumplida la condición resolutoria del subsidio o la caducidad de adjudicación, solo frente al cónyuge o compañero (a) que incumplió con sus obligaciones de adelantar la explotación y se le transfieran esos derechos al ó la solicitante.
@@ -17874,15 +15590,11 @@ PARÁGRAFO . En el evento de haberse superado el término legal para la proceden
 
 (Decreto 2998 de 2003, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.15.2 — Adjudicación de Baldíos
 
 En la diligencia de inspección ocular que se practique en el procedimiento de adjudicación de tierras baldías de la Nación, el funcionario competente deberá establecer si la explotación se adelanta conjuntamente por los cónyuges o compañeros permanentes que presentaron la solicitud o si alguno de ellos abandonó la misma. En este último evento, el título se expedirá a favor del cónyuge o compañero (a) que manifieste bajo la gravedad del juramento la situación de abandono y reúna los requisitos para alegar la prescripción agraria.
 
 (Decreto 2998 de 2003, art. 2)
-
-ARTÍCULO
 
 ## art:2.14.15.3 — Participación de las Mujeres
 
@@ -17893,8 +15605,6 @@ La participación de la mujer en la respectiva persona jurídica que se organice
 TÍTULO 16
 
 Programa especial de adquisición y adjudicación de tierras en favor de las personas reincorporadas a la vida civil
-
-ARTÍCULO
 
 ## art:2.14.16.1 — Naturaleza del Programa
 
@@ -17907,8 +15617,6 @@ El programa especial de adquisición y dotación de tierras se sujetará al proc
 PARÁGRAFO . Para efectos de lo dispuesto en este título y demás programas especiales de dotación de tierras que establezca el Gobierno Nacional, la Agencia Nacional de Tierras podrá proceder a la adjudicación directa a asociaciones o a organizaciones cooperativas.
 
 (Decreto 756 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.16.2 — Beneficiarios
 
@@ -17926,8 +15634,6 @@ PARÁGRAFO 2. La entrega de tierras a las personas reincorporadas debe estar aco
 
 (Decreto 4488 de 2005, art. 2)
 
-ARTÍCULO
-
 ## art:2.14.16.3 — Selección
 
 El Consejo Directivo del Instituto Colombiano de Desarrollo Rural, INCODER, determinará los criterios y el procedimiento de selección de los beneficiarios del programa especial de adquisición y adjudicación de tierras, el cual comprenderá, entre otros aspectos, la inscripción y registro de los aspirantes, los factores, criterios y puntajes para la escogencia y la calificación, la integración y funciones del comité de selección que se constituya para el efecto y demás asuntos que se consideren pertinentes.
@@ -17944,15 +15650,11 @@ TÍTULO 17
 
 Transferencia de bienes inmuebles con declaratoria con declaratoria de extinción del derecho de dominio a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas
 
-ARTÍCULO
-
 ## art:2.14.17.1 — Envío periódico de información por la SAE S.AS
 
 Dentro de los cinco (5) primeros días hábiles de cada mes, la Sociedad de Activos Especiales S.A.S. (SAE S.A.S), enviará a la Unidad Administrativa Especial de Gestión de Tierras Despojadas el listado de los bienes rurales incautados que hayan sido dejados a su disposición en el mes inmediatamente anterior, así como el listado de aquellos bienes con declaratoria de extinción del dominio, con indicación de cuáles tienen avalúo y de la información que se haya levantado con respecto de ellos.
 
 (Decreto 698 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.17.2 — Respuesta de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas sobre bienes incautados
 
@@ -17960,23 +15662,17 @@ Una vez entregado el listado de bienes incautados la Unidad Administrativa Espec
 
 (Decreto 698 de 2013, art.2)
 
-ARTÍCULO
-
 ## art:2.14.17.3 — 7.3
 
 Respuesta de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y del INCODER sobre bienes con declaratoria de extinción del dominio. Una vez entregado el listado de bienes con declaratoria de extinción del dominio, la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, dentro de un plazo de sesenta (60) días hábiles, informará a la Sociedad de Activos Especiales S.A.S. (SAE S.A.S), y al Instituto Colombiano de Desarrollo Rural -INCODER, cuáles están vinculados a procesos de restitución, con el propósito de que se asegure su destinación a la restitución, en caso de que el juez llegare a ordenarla, y qué predios requiere para la compensación de las víctimas, de acuerdo a los fallos judiciales en firme que existan a la fecha.
 
 (Decreto 698 de 2013, art.3)
 
-ARTÍCULO
-
 ## art:2.14.17.4 — 7.4
 
 Información al INCODER sobre bienes no requeridos por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas. La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas remitirá en forma simultánea con el envío de la información a la Sociedad de Activos Especiales S.A.S. (SAE S.A.S), y al Instituto Colombiano de Desarrollo Rural-INCODER la relación de inmuebles que no requiera para la restitución, junto con la información que haya recabado o preparado. Esta información será enviada al Instituto Colombiano de Desarrollo Rural - INCODER, sin perjuicio de la que directamente deba suministrarle la Sociedad de Activos Especiales S.A.S. (SAE S.A.S), para la toma informada de decisiones sobre la posibilidad de destinar los bienes extinguidos que no se requieran para restitución a la asignación del Subsidio Integral de Tierras o para mitigar los efectos del fenómeno de la Niña, de conformidad con el Decreto 4826 de 2010.
 
 (Decreto 698 de 2013, art.4)
-
-ARTÍCULO
 
 ## art:2.14.17.5 — Envío de información del INCODER a la DNE
 
@@ -17986,15 +15682,11 @@ Cumplidos los trámites internos tendientes a identificar los bienes con marcada
 
 (Decreto 698 de 2013, art.5)
 
-ARTÍCULO
-
 ## art:2.14.17.6 — Solicitud de Información a la DNE
 
 En cualquier momento la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas o el Instituto Colombiano de Desarrollo Rural -INCODER, podrán solicitar a la Sociedad de Activos Especiales S.A.S. (SAE S.A.S), información que considere indispensable para su pronunciamiento en los términos previstos en el presente título. Esta entidad deberá remitir la información solicitada dentro de un plazo no superior a diez (10) días hábiles, contados a partir de la radicación de la solicitud.
 
 (Decreto 698 de 2013, art. 6)
-
-ARTÍCULO
 
 ## art:2.14.17.7 — Cuantías y porcentajes para la transferencia a título gratuito
 
@@ -18006,15 +15698,11 @@ El Consejo Nacional de Estupefacientes también asignará de manera definitiva e
 
 (Decreto 698 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.14.17.8 — Respuesta del Consejo Nacional de Estupefacientes
 
 En un plazo de sesenta (60) días hábiles, contados a partir de la remisión de la solicitud de asignación definitiva de bienes rurales con declaratoria de extinción del dominio por parte de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y del Instituto Colombiano de Desarrollo Rural -INCODER, el Consejo Nacional de Estupefacientes se pronunciará de fondo y le informará su decisión a las mencionadas entidades.
 
 (Decreto 698 de 2013, art.8)
-
-ARTÍCULO
 
 ## art:2.14.17.9 — Administración de los bienes
 
@@ -18028,8 +15716,6 @@ La Sociedad de Activos Especiales S.A.S. (SAE S.A.S.), como administradora del F
 
 (Decreto 698 de 2013, art.9)
 
-ARTÍCULO
-
 ## art:2.14.17.10 — Saneamiento de los bienes con declaratoria de extinción de dominio
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas solicitará la transferencia de aquellos bienes con declaratoria de extinción del dominio que sirvan a los propósitos de restitución, bajo la forma de compensación, y el Instituto Colombiano de Desarrollo Rural -INCODER la de aquéllos que sirvan al cumplimiento de sus fines misionales. Para ello tendrán en cuenta que estén completamente saneados en los aspectos financiero, físico y administrativo, lo cual, entre otras, implica que estén libres de deudas, de perturbaciones a la tenencia y posesión, de gravámenes o procesos judiciales pendientes de ser resueltos. Dicho saneamiento se entenderá extendido a la inexistencia de contratos de arrendamiento con plazos u obligaciones pendientes.
@@ -18040,8 +15726,6 @@ PARÁGRAFO . Cuando la Unidad Administrativa Especial de Gestión de Restitució
 
 (Decreto 698 de 2013, art. 10; Parágrafo adicionado por el Decreto 758 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.14.17.11 — Asignación definitiva de inmuebles con declaratoria de extinción del dominio
 
 El Consejo Nacional de Estupefacientes asignará de manera definitiva los bienes con declaratoria de extinción del derecho de dominio que solicite la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas a través de resolución administrativa, que constituye título suficiente de dominio y debe ser objeto de inscripción en el Registro de Instrumentos Públicos.
@@ -18050,23 +15734,17 @@ Una vez notificada la resolución de asignación definitiva a la Unidad Administ
 
 (Decreto 698 de 2013, art.11)
 
-ARTÍCULO
-
 ## art:2.14.17.12 — Entrega a las víctimas
 
 Cuando el Juez Especializado en Restitución de Tierras ordene la entrega de un predio que se encuentre vinculado a procesos de extinción de dominio, la Sociedad de Activos Especiales S.A.S. (SAE S.A.S) procederá a emitir los actos administrativos que internamente correspondan y a entregar el bien.
 
 (Decreto 698 de 2013, art. 12)
 
-ARTÍCULO
-
 ## art:2.14.17.13 — Comité Interinstitucional
 
 La Sociedad de Activos Especiales S.A.S. (SAE S.A.S), la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y el Instituto Colombiano de Desarrollo Rural-INCODER conformarán un Comité Interinstitucional, que se reunirá cada vez que sus miembros lo estimen necesario o conveniente, con el propósito de revisar las decisiones relativas a la asignación y transferencia de los bienes inmuebles con declaratoria de extinción del derecho de dominio que hayan ingresado al Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado (FRISCO), para los fines de restitución o de reforma agraria.
 
 (Decreto 698 de 2013, art. 13)
-
-ARTÍCULO
 
 ## art:2.14.17.14 — Adecuación
 
@@ -18077,8 +15755,6 @@ La Sociedad de Activos Especiales S.A.S. (SAE S.A.S.) y el Consejo Nacional de E
 TÍTULO 18
 
 Programa Especial de Dotación de Tierras
-
-ARTÍCULO
 
 ## art:2.14.18.1 — Programa especial de dotación de tierras
 
@@ -18100,8 +15776,6 @@ Establécese el programa especial de dotación de tierras, a favor de los siguie
 
 (Decreto 1277 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.18.2 — Beneficiarios
 
 Tienen la condición de beneficiarios del programa especial de dotación de tierras que se establece en este título:
@@ -18114,8 +15788,6 @@ Tienen la condición de beneficiarios del programa especial de dotación de tier
 
 (Decreto 1277 de 2013, art.2)
 
-ARTÍCULO
-
 ## art:2.14.18.3 — Criterios de selección
 
 El Consejo Directivo del Instituto Colombiano de Desarrollo Rural -INCODER, determinará los criterios y el procedimiento de selección de los beneficiarios de los programas especiales de adquisición y dotación de tierras, el cual comprenderá, entre otros aspectos, la inscripción y registro de los aspirantes, los factores, criterios y puntajes para la escogencia y la calificación, la integración y funciones del comité de selección que se constituya para el efecto y demás asuntos que se consideren pertinentes.
@@ -18124,15 +15796,11 @@ PARÁGRAFO . Con el fin de garantizar el acceso a programas para proyectos produ
 
 (Decreto 1277 de 2013, art.3)
 
-ARTÍCULO
-
 ## art:2.14.18.4 — Reglamentación
 
 El procedimiento para la selección de predios, la negociación directa, la determinación del precio y la forma de pago, así como, las causales y el procedimiento de expropiación se adelantarán con sujeción a lo establecido en los artículos 32 y 33 de la Ley 160 de 1994 y el presente Decreto, en lo pertinente.
 
 (Decreto 1277 de 2013, art.4)
-
-ARTÍCULO
 
 ## art:2.14.18.5 — Fiducia Pública
 
@@ -18147,8 +15815,6 @@ Procedimientos Administrativos Especiales Agrarios de clarificación de la propi
 CAPÍTULO 1
 
 Generalidades
-
-ARTÍCULO
 
 ## art:2.14.19.1.1 — Objeto
 
@@ -18170,15 +15836,11 @@ PROCEDIMIENTOS AGRARIOS
 
 (Decreto 1465 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.19.1.2 — Inicio de los procedimientos agrarios
 
 Los procedimientos agrarios regulados en este título se podrán adelantar de oficio o a solicitud de los procuradores agrarios, de cualquier entidad pública, de las comunidades u organizaciones campesinas o de cualquier persona natural o jurídica, quienes podrán intervenir en el procedimiento iniciado.
 
 (Decreto 1465 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.14.19.1.3 — Autonomía de los procedimientos agrarios
 
@@ -18187,8 +15849,6 @@ Cada uno de los procedimientos administrativos regulados en el presente título 
 Lo anterior no excluye la posibilidad de trasladar las pruebas debidamente recaudadas de un procedimiento a otro, de conformidad con las reglas previstas al respecto por el Código General del Proceso o la norma que lo modifique o sustituya, cuando quiera que ello pueda resultar conducente, pertinente y útil.
 
 (Decreto 1465 de 2013, art.3)
-
-ARTÍCULO
 
 ## art:2.14.19.1.4 — Definiciones
 
@@ -18232,8 +15892,6 @@ CAPÍTULO 2
 
 Aspectos procedimentales comunes a los Procedimientos agrarios
 
-ARTÍCULO
-
 ## art:2.14.19.2.1 — Etapa previa
 
 Con el fin de contar con el fundamento necesario para decidir si corresponde, o no, dar inicio a los procedimientos agrarios de extinción del derecho de dominio, clarificación de la propiedad, deslinde de tierras de la Nación y recuperación de baldíos indebidamente ocupados, el INCODER ordenará mediante auto, contra el que no procede recurso alguno, la conformación de un expediente con la información necesaria para identificar la situación física, jurídica, cartográfica, catastral, de ocupación y explotación del inmueble objeto de la actuación.
@@ -18256,8 +15914,6 @@ PARÁGRAFO 3. Los Notarios, los Registradores de Instrumentos Públicos, el IGAC
 
 (Decreto 1465 de 2013, art.5)
 
-ARTÍCULO
-
 ## art:2.14.19.2.2 — Valoración de la información previa
 
 Reunida la información y practicadas las diligencias pertinentes, se hará una evaluación de dicha información con el fin de establecer si se dan, o no, las condiciones para iniciar alguno de los procedimientos agrarios previstos en este título.
@@ -18270,15 +15926,11 @@ PARÁGRAFO . Conformado el expediente con el cual se encuentra mérito para abri
 
 (Decreto 1465 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.14.19.2.3 — Resolución Inicial
 
 Sí de la información obtenida y de las diligencias previas practicadas se estableciere que se acreditan algunas de las causales o condiciones previstas en la Ley 160 de 1994 y en el presente título para la iniciación de alguno de los procedimientos agrarios, el INCODER así lo declarará mediante acto motivado, en el cual ordenará el inicio de los procedimientos de extinción del derecho de dominio, clarificación de la propiedad, deslinde de tierras de la Nación o recuperación de baldíos indebidamente ocupados, según corresponda.
 
 (Decreto 1465 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.14.19.2.4 — 
 
@@ -18310,8 +15962,6 @@ La comunicación se remitirá a la dirección física o al correo electrónico q
 
  (Modifica Art 3 del decreto 33 de 2025)
 
-ARTÍCULO
-
 ## art:2.14.19.2.5 — Recursos frente a la Resolución inicial
 
 De acuerdo con lo dispuesto en el artículo 64 de la Ley 160 de 1994, contra las resoluciones que ordenen iniciar los procedimientos de extinción del derecho de dominio privado, clarificación de la propiedad, deslinde de tierras de la Nación o recuperación de baldíos indebidamente ocupados, procede el recurso reposición ante el mismo funcionario que profirió la providencia.
@@ -18320,15 +15970,11 @@ La presentación, admisión y trámite de los recursos, se regirá por lo dispue
 
 (Decreto 1465 de 2013, art. 9)
 
-ARTÍCULO
-
 ## art:2.14.19.2.6 — Solicitud y aporte de pruebas
 
 En firme la resolución que dispone iniciar el respectivo procedimiento, las partes contarán con el término de cinco (5) días para solicitar o aportar las pruebas que consideren pertinentes, útiles y conducentes.
 
 (Decreto 1465 de 2013, art.10)
-
-ARTÍCULO
 
 ## art:2.14.19.2.7 — Carga de la prueba
 
@@ -18338,15 +15984,11 @@ Igualmente corresponde a los particulares probar la fuerza mayor y el caso fortu
 
 (Decreto 1465 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.14.19.2.8 — Auto de pruebas
 
 Agotado el término de cinco (5) días referido en el artículo 2.14.19.2.6 del presente decreto, se decretarán las pruebas solicitadas por las partes que resulten pertinentes útiles y conducentes, así como las que de oficio considere el Instituto mediante auto contra el que no procede recurso alguno.
 
 (Decreto 1465 de 2013, art.12)
-
-ARTÍCULO
 
 ## art:2.14.19.2.9 — Inspección Ocular
 
@@ -18359,8 +16001,6 @@ PARÁGRAFO 2. La diligencia de inspección ocular se ordenará mediante auto en 
 Esta providencia se comunicará a las partes, a los solicitantes que sean sujetos de reforma agraria y a los terceros interesados, mediante oficio al que se le anexará copia del acto y el cual se remitirá a la dirección que obre en el expediente, así mismo se enviará a la Procuraduría General de la Nación, al Procurador Delegado para Asuntos Ambientales que corresponda.
 
 (Decreto 1465 de 2013, art. 13)
-
-ARTÍCULO
 
 ## art:2.14.19.2.10 — Práctica de la diligencia de Inspección Ocular
 
@@ -18392,8 +16032,6 @@ PARÁGRAFO . El informe técnico de la inspección ocular deberá contener míni
 
 (Decreto 1465 de 2013, art. 14)
 
-ARTÍCULO
-
 ## art:2.14.19.2.11 — Prueba de la explotación económica en casos de extinción del derecho de dominio
 
 En los procedimientos de extinción del derecho de dominio, además de los aspectos citados en el artículo 2.14.19.2.10, se tendrán en cuenta como prueba principal de la explotación agrícola y pecuaria los siguientes aspectos:
@@ -18416,15 +16054,11 @@ En todo caso en el dictamen se dejará constancia sobre el tiempo en que los ter
 
 (Decreto 1465 de 2013, art. 15)
 
-ARTÍCULO
-
 ## art:2.14.19.2.12 — Identificación predial, mensura, planos y redacción técnica de linderos
 
 Durante la diligencia de inspección ocular deberá realizarse por parte de los peritos o de los funcionarios del INCODER, según corresponda, la plena identificación predial, la mensura si fuere necesaria, los planos cartográficos y la redacción técnica de linderos del inmueble objeto de las actuaciones.
 
 (Decreto 1465 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.14.19.2.13 — Aporte de pruebas que no requieran verificación en campo
 
@@ -18432,15 +16066,11 @@ En cualquier tiempo, desde la ejecutoria de la resolución inicial y hasta el mo
 
 (Decreto 1465 de 2013, art. 17)
 
-ARTÍCULO
-
 ## art:2.14.19.2.14 — Cierre de la etapa probatoria y remisión del expediente para decisión de fondo
 
 El periodo probatorio no podrá exceder los treinta (30) días. Vencido dicho término y practicadas las pruebas decretadas, el INCODER dictará auto, que se comunicará por estado y frente al cual no cabe recurso alguno, en este se dispondrá el cierre de la etapa probatoria y se ordenará remitir el expediente al despacho, para sustanciar y proferir la decisión final.
 
 (Decreto 1465 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.14.19.2.15 — Resolución final
 
@@ -18448,15 +16078,11 @@ Expedido el auto que cierra la etapa probatoria y marca el inicio de la fase dec
 
 (Decreto 1465 de 2013, art. 19)
 
-ARTÍCULO
-
 ## art:2.14.19.2.16 — Notificación y recursos
 
 Las resoluciones que deciden de fondo los procedimientos administrativos especiales agrarios de extinción del derecho de dominio, recuperación de baldíos indebidamente ocupados, clarificación de la propiedad, y deslinde de tierras de la Nación, serán notificadas a quienes intervinieron en el proceso y al Procurador Ambiental y Agrario en la forma prevista en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y contra las mismas sólo procede el recurso de reposición ante el mismo funcionario que dictó la providencia en los términos del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1465 de 2013, art.20)
-
-ARTÍCULO
 
 ## art:2.14.19.2.17 — Acción de revisión ante el Consejo de Estado
 
@@ -18465,8 +16091,6 @@ Contra las resoluciones dictadas en los procedimientos agrarios de extinción de
 Durante ese término la ejecución de las resoluciones que dicte el INCODER en los procedimientos agrarios de extinción del dominio y clarificación de la propiedad permanecerá en suspenso, con el objeto de que los interesados soliciten en dicho término la revisión de las providencias. El efecto suspensivo de estos actos se mantendrá hasta que transcurrido dicho lapso se verifique que la demanda no fue presentada, o que habiéndolo sido fue rechazada o que sus pretensiones fueron desestimadas.
 
 (Decreto 1465 de 2013, art.21)
-
-ARTÍCULO
 
 ## art:2.14.19.2.18 — Protección de Colonos
 
@@ -18492,23 +16116,17 @@ CAPÍTULO 3
 
 Ejecución de lo resuelto en los procedimientos agrarios
 
-ARTÍCULO
-
 ## art:2.14.19.3.1 — 3.1
 
 Ejecutoria de las resoluciones finales de extinción y clarificación En firme las resoluciones de extinción del derecho de dominio y clarificación de la propiedad, si no se solicita la revisión dentro del término indicado, o cuando intentada aquella la demanda respectiva fuere rechazada, o el fallo del Consejo de Estado negare las pretensiones de la revisión impetrada, el INCODER remitirá a la Oficina de Registro correspondiente copia de las providencias para su respectiva inscripción.
 
 (Decreto 1465 de 2013, art.23)
 
-ARTÍCULO
-
 ## art:2.14.19.3.2 — Ejecutoria de las resoluciones finales de deslinde y recuperación
 
 En firme las resoluciones de deslinde de tierras de la Nación y recuperación de baldíos indebidamente ocupados, y sin perjuicio del derecho que asiste a los afectados de interponer la acción de revisión de estos actos ante el Consejo de Estado, dentro de los cinco (5) días siguientes a su ejecutoria el INCODER remitirá a la Oficina de Registro de Instrumentos Públicos correspondiente copia de las providencias para su respectiva inscripción y poder proceder a dar cumplimiento a lo resuelto en cada caso.
 
 (Decreto 1465 de 2013, art.24)
-
-ARTÍCULO
 
 ## art:2.14.19.3.3 — Carácter Ejecutorio de los actos de recuperación y deslinde
 
@@ -18517,8 +16135,6 @@ En firme los actos de recuperación de baldíos indebidamente ocupados y de desl
 Si el ocupante se negare a la entrega voluntaria del predio indebidamente ocupado, el INCODER solicitará el apoyo de las autoridades de Policía, para que en un término no superior a diez (10) días se haga efectivo el cumplimiento de la decisión administrativa, restituyéndose los bienes baldíos a la Nación.
 
 (Decreto 1465 de 2013, art.25)
-
-ARTÍCULO
 
 ## art:2.14.19.3.4 — Expropiación excepcional o de urgencia
 
@@ -18538,15 +16154,11 @@ CAPÍTULO 4
 
 Extinción del Derecho de Dominio
 
-ARTÍCULO
-
 ## art:2.14.19.4.1 — Objeto
 
 El objeto de este procedimiento es extinguir en favor de la Nación el derecho de dominio de los predios rurales, en donde se acredite el incumplimiento de la función social y/o ecológica de la propiedad.
 
 (Decreto 1465 de 2013, art. 27)
-
-ARTÍCULO
 
 ## art:2.14.19.4.2 — Causales
 
@@ -18558,8 +16170,6 @@ De acuerdo con lo dispuesto en el artículo 52 de la Ley 160 de 1994, será proc
 
 (Decreto 1465 de 2013, art. 28)
 
-ARTÍCULO
-
 ## art:2.14.19.4.3 — Justificación de la inexplotación
 
 (sic) No será procedente la declaración de extinción del derecho de dominio, cuando las causales previstas en el artículo 2.14.19.4.2., obedezcan a hechos constitutivos de fuerza mayor y caso fortuito, de acuerdo con las normas legales vigentes sobre la materia.
@@ -18568,15 +16178,11 @@ El término para declarar la extinción del derecho de dominio se suspende, a pa
 
 (Decreto 1465 de 2013, art.29)
 
-ARTÍCULO
-
 ## art:2.14.19.4.4 — Explotación regular
 
 En armonía con lo dispuesto en el artículo 58 de la Ley 160 de 1994, es regular y estable la explotación económica que al momento de la práctica de la inspección ocular, tenga más de un (1) año de iniciada y se haya mantenido sin interrupción injustificada, siendo de cargo del propietario la demostración de tales circunstancias.
 
 (Decreto 1465 de 2013, art.30)
-
-ARTÍCULO
 
 ## art:2.14.19.4.5 — Áreas que se presumen económicamente explotadas
 
@@ -18590,8 +16196,6 @@ La simple tala de árboles no constituye explotación económica, salvo las expl
 
 (Decreto 1465 de 2013, art.31)
 
-ARTÍCULO
-
 ## art:2.14.19.4.6 — Explotación por terceros
 
 De conformidad con lo dispuesto en el artículo 55 de la Ley 160 de 1994, lo cultivado por colonos que no reconozcan vínculo de dependencia con el propietario, o autorización de este, no se tomará en cuenta para demostrar la explotación económica del inmueble por parte del titular del derecho de dominio.
@@ -18600,15 +16204,11 @@ Si el propietario alegare que la explotación económica que adelantan colonos o
 
 (Decreto 1465 de 2013, art. 32)
 
-ARTÍCULO
-
 ## art:2.14.19.4.7 — Extinción total o parcial
 
 La extinción del derecho de dominio procederá sobre la totalidad o sobre la porción del inmueble afectado por las causales que originen las actuaciones.
 
 (Decreto 1465 de 2013, art.33)
-
-ARTÍCULO
 
 ## art:2.14.19.4.8 — Extinción del dominio por incumplimiento de la función ecológica de la propiedad
 
@@ -18617,8 +16217,6 @@ La explotación del predio con desconocimiento de las normas sobre conservación
 Se entiende que hay deterioro o perjuicio sobre los recursos naturales renovables o sobre el suelo, el agua o el aire, cuando a causa de acciones u omisiones imputables al propietario del predio se les destruye, agota, contamina, disminuye o degrada, lo mismo que cuando se produce su sobreutilización o se amenaza la posibilidad de su aprovechamiento futuro.
 
 (Decreto 1465 de 2013, art. 34)
-
-ARTÍCULO
 
 ## art:2.14.19.4.9 — Contenido de la decisión
 
@@ -18634,15 +16232,11 @@ CAPÍTULO 5
 
 Recuperación de baldíos indebidamente ocupados
 
-ARTÍCULO
-
 ## art:2.14.19.5.1 — Objeto
 
 El objeto de este procedimiento es recuperar y restituir al patrimonio del Estado las tierras baldías adjudicables, las inadjudicables y las demás de propiedad de la Nación, que se encuentren indebidamente ocupadas por los particulares.
 
 (Decreto 1465 de 2013, art. 36)
-
-ARTÍCULO
 
 ## art:2.14.19.5.2 — Causales
 
@@ -18676,15 +16270,11 @@ CAPÍTULO 6
 
 Clarificación de la propiedad
 
-ARTÍCULO
-
 ## art:2.14.19.6.1 — Objeto
 
 El objeto de este procedimiento es clarificar la situación jurídica de las tierras desde el punto de vista de la propiedad, para identificar si han salido o no del dominio del Estado y facilitar el saneamiento de la propiedad privada.
 
 (Decreto 1465 de 2013, art.39)
-
-ARTÍCULO
 
 ## art:2.14.19.6.2 — Contenido de la decisión
 
@@ -18712,15 +16302,11 @@ CAPÍTULO 7
 
 Deslinde de tierras de la Nación
 
-ARTÍCULO
-
 ## art:2.14.19.7.1 — Objeto
 
 El objeto de este procedimiento es deslindar las tierras de propiedad de la Nación, en especial los baldíos y los bienes de uso público, para delimitarlas de aquellas que le son colindantes.
 
 (Decreto 1465 de 2013, art.41)
-
-ARTÍCULO
 
 ## art:2.14.19.7.2 — Bienes objeto del procedimiento
 
@@ -18758,8 +16344,6 @@ Serán objeto del procedimiento de deslinde, entre otros, los siguientes bienes 
 
 (Decreto 1465 de 2013, art.42)
 
-ARTÍCULO
-
 ## art:2.14.19.7.3 — Contenido de la decisión
 
 La resolución que culmine el procedimiento de deslinde, delimitará el inmueble de propiedad de la Nación por su ubicación, área y linderos técnicos, deslindándolo así de los terrenos de propiedad particular, o determinará las áreas que hayan sido objeto de desecación artificial.
@@ -18772,23 +16356,17 @@ CAPÍTULO 8
 
 Revocación Directa de las Resoluciones de Adjudicación de Baldíos
 
-ARTÍCULO
-
 ## art:2.14.19.8.1 — Procedencia
 
 De conformidad con lo establecido en los incisos 6, y 7, del artículo 72, de la Ley 160 de 1994, el INCODER podrá revocar directamente, de oficio o a solicitud de parte, en cualquier tiempo, independientemente de la fecha en que se haya hecho la adjudicación, sin necesidad de solicitar el consentimiento expreso y escrito del titular, las resoluciones de adjudicación de baldíos, cuando se establezca la violación de las normas constitucionales, legales o reglamentarias vigentes al momento en que se expidió la resolución administrativa correspondiente.
 
 (Decreto 1465 de 2013, art.44)
 
-ARTÍCULO
-
 ## art:2.14.19.8.2 — Procedimiento
 
 De acuerdo con lo establecido en el inciso 6, del artículo 72, de la Ley 160 de 1994, para adelantar el procedimiento de revocatoria directa se aplicará lo dispuesto en la primera parte del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1465 de 2013, art.45)
-
-ARTÍCULO
 
 ## art:2.14.19.8.3 — Efectos
 
@@ -18802,8 +16380,6 @@ CAPÍTULO 9
 
 Nombramiento y Actuación de Peritos
 
-ARTÍCULO
-
 ## art:2.14.19.9.1 — Solicitud
 
 Para que participe en la práctica de la diligencia de inspección ocular y en la rendición de los dictámenes periciales, las partes podrán solicitar, dentro del término de cinco (5) días señalado en el artículo 2.14.19.2.6, del presente decreto, la intervención de peritos, en cuyo caso el peticionario deberá consignar a favor del INCODER el valor del dictamen, en la oportunidad que señale el auto que decrete la práctica de la prueba, en el que se hará una liquidación preliminar.
@@ -18814,15 +16390,11 @@ PARÁGRAFO . Con la solicitud de la intervención de los peritos se deberá pres
 
 (Decreto 1465 de 2013, art.47)
 
-ARTÍCULO
-
 ## art:2.14.19.9.2 — Designación y posesión de peritos
 
 Para la designación y posesión de los peritos se observaran las normas previstas en el Título 11 de la parte 14 del libro 2 de este Decreto.
 
 (Decreto 1465 de 2013, art. 48)
-
-ARTÍCULO
 
 ## art:2.14.19.9.3 — Prueba pericial
 
@@ -18864,8 +16436,6 @@ PARÁGRAFO . En los procedimientos de recuperación de baldíos indebidamente oc
 
 (Decreto 1465 de 2013, art.49)
 
-ARTÍCULO
-
 ## art:2.14.19.9.4 — Rendición del Dictamen Pericial
 
 El experticio deberá contener mínimo los siguientes datos:
@@ -18882,15 +16452,11 @@ El experticio deberá contener mínimo los siguientes datos:
 
 (Decreto 1465 de 2013, art.50)
 
-ARTÍCULO
-
 ## art:2.14.19.9.5 — Traslado y contradicción del dictamen
 
 Rendido el dictamen en la oportunidad señalada se correrá traslado, por un término de tres (3) días al solicitante de la prueba, a los solicitantes del inicio de la actuación administrativa que tengan condición de sujetos de Reforma Agraria y al Procurador Ambiental y Agrario competente. Dentro de este término podrán solicitar, el INCODER o las partes actuantes dentro del proceso, que se complemente o aclare u objetarlo por error grave.
 
 (Decreto 1465 de 2013, art.51)
-
-ARTÍCULO
 
 ## art:2.14.19.9.6 — Aclaración, complementación del dictamen
 
@@ -18899,8 +16465,6 @@ Si se solicita la complementación o aclaración del dictamen, estas solicitudes
 La objeción por error grave del dictamen se tramitará de conformidad con lo dispuesto en el Código de Procedimiento Civil o la disposición que lo modifique o sustituya.
 
 (Decreto 1465 de 2013, art. 52)
-
-ARTÍCULO
 
 ## art:2.14.19.9.7 — Liquidación de gastos
 
@@ -18916,15 +16480,11 @@ CAPÍTULO 10
 
 Reversión de Baldíos Adjudicados
 
-ARTÍCULO
-
 ## art:2.14.19.10.1 — Concepto
 
 A través del fenómeno jurídico de la reversión, se establece el cumplimiento de una condición resolutoria en un terreno baldío adjudicado, y en tal virtud, vuelve su dominio a la Nación.
 
 (Decreto 1465 de 2013, art.54)
-
-ARTÍCULO
 
 ## art:2.14.19.10.2 — Cláusula de Reversión
 
@@ -18936,8 +16496,6 @@ Este artículo debe insertarse en toda resolución de adjudicación.
 
 (Decreto 1465 de 2013, art.55)
 
-ARTÍCULO
-
 ## art:2.14.19.10.3 — Objeto
 
 El procedimiento administrativo agrario de reversión tiene por objeto devolver un bien baldío adjudicado al dominio de la Nación, cuando se compruebe la violación de las normas, el incumplimiento de las obligaciones y condiciones bajo las cuales se produjo la adjudicación o no se destine para los fines que se hubieren previstos.
@@ -18946,15 +16504,11 @@ Si la resolución mediante la cual finaliza el procedimiento declara que hay lug
 
 (Decreto 1465 de 2013, art.56)
 
-ARTÍCULO
-
 ## art:2.14.19.10.4 — Competencia
 
 Corresponde al Instituto Colombiano de Desarrollo Rural - INCODER adelantar los procedimientos administrativos agrarios de reversión de las tierras baldías tituladas al dominio de la Nación.
 
 (Decreto 1465 de 2013, art. 57)
-
-ARTÍCULO
 
 ## art:2.14.19.10.5 — Procedencia
 
@@ -18976,8 +16530,6 @@ PARÁGRAFO 2. Toda causal de reversión al dominio de la Nación que se presente
 
 (Decreto 1465 de 2013, art.58)
 
-ARTÍCULO
-
 ## art:2.14.19.10.6 — Obligaciones y condiciones bajo las cuales se produce la adjudicación
 
 Constituyen obligaciones y condiciones bajo las cuales se produce la adjudicación y prohibiciones y limitaciones que restringen el derecho de propiedad que se concede al adjudicatario de tierras baldías, y cuyo desconocimiento o infracción acarrea la iniciación del procedimiento administrativo agrario de reversión:
@@ -18996,8 +16548,6 @@ Constituyen obligaciones y condiciones bajo las cuales se produce la adjudicaci�
 
 (Decreto 1465 de 2013, art.59)
 
-ARTÍCULO
-
 ## art:2.14.19.10.7 — Iniciación del procedimiento de reversión
 
 El procedimiento administrativo agrario de reversión se adelantará contra el adjudicatario inicial del terreno baldío, o contra la persona natural o jurídica que 'figure posteriormente como propietario del inmueble, por las causales previstas en la ley.
@@ -19005,8 +16555,6 @@ El procedimiento administrativo agrario de reversión se adelantará contra el a
 El Gerente General del INCODER, o su delegado, de oficio o a solicitud del Procurador Delegado para Asuntos Ambientales y Agrarios o de cualquier persona, adelantará las diligencias encaminadas a establecer si procede o no declarar la reversión al dominio de la Nación, y ordenar, en consecuencia, la restitución del terreno baldío adjudicado.
 
 (Decreto 1465 de 2013, art.60)
-
-ARTÍCULO
 
 ## art:2.14.19.10.8 — Resolución inicial
 
@@ -19020,15 +16568,11 @@ Contra la providencia que ordena adelantar el procedimiento administrativo agrar
 
 (Decreto 1465 de 2013, art.61)
 
-ARTÍCULO
-
 ## art:2.14.19.10.9 — Periodo probatorio
 
 Dentro de los cinco (5) días hábiles siguientes a la notificación de la providencia que inicia el procedimiento, podrán los interesados aportar y solicitar las pruebas pertinentes y conducentes en ejercicio de su derecho de defensa.
 
 (Decreto 1465 de 2013, art. 62)
-
-ARTÍCULO
 
 ## art:2.14.19.10.10 — Inspección ocular
 
@@ -19038,15 +16582,11 @@ La fecha de realización de esta prueba se comunicará oportunamente a los inter
 
 (Decreto 1465 de 2013, art. 63)
 
-ARTÍCULO
-
 ## art:2.14.19.10.11 — Avalúo
 
 El avalúo de las mejoras útiles y necesarias que se hubieren establecido en el predio por quienes demuestren ser los actuales titulares del dominio se efectuará por peritos distintos de quienes hubieren practicado la diligencia de inspección ocular.
 
 (Decreto 1465 de 2013, art.64)
-
-ARTÍCULO
 
 ## art:2.14.19.10.12 — Traslado y contradicción del dictamen y avalúo
 
@@ -19055,8 +16595,6 @@ Del dictamen de los peritos y el resultado del avalúo de las mejoras se dará t
 Del resultado de estas actuaciones o del nuevo dictamen que se practique, se dará traslado a los interesados por tres (3) días, vencidos los cuales se entrará a resolver el procedimiento.
 
 (Decreto 1465 de 2013, art. 65)
-
-ARTÍCULO
 
 ## art:2.14.19.10.13 — Decisión Final
 
@@ -19068,15 +16606,11 @@ La declaratoria de reversión al dominio de la Nación de un predio baldío adju
 
 (Decreto 1465 de 2013, art. 66)
 
-ARTÍCULO
-
 ## art:2.14.19.10.14 — Registro
 
 En firme la providencia que declara la reversión al patrimonio de la Nación del predio titulado como baldío, el Instituto remitirá a la Oficina de Registro de Instrumentos Públicos respectiva copia de la resolución para su inscripción y dispondrá la cancelación del dominio y de los demás derechos constituidos sobre el inmueble.
 
 (Decreto 1465 de 2013, art.67)
-
-ARTÍCULO
 
 ## art:2.14.19.10.15 — Efectos
 
@@ -19088,15 +16622,11 @@ Para los efectos de la restitución del predio, con arreglo al procedimiento que
 
 (Decreto 1465 de 2013, art. 68)
 
-ARTÍCULO
-
 ## art:2.14.19.10.16 — Procedimiento especial de recuperación del predio y desalojo
 
 De conformidad con lo previsto en el artículo 65 de La Ley 160 de 1994, una vez ejecutoriada la resolución que determine la reversión y para lograr la restitución material del terreno baldío adjudicado, el INCODER dará aplicación a la disposición contenida en el artículo 89 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1465 de 2013, art. 69)
-
-ARTÍCULO
 
 ## art:2.14.19.10.17 — Reserva
 
@@ -19104,15 +16634,11 @@ Los predios adjudicados como baldíos que hayan sido objeto del procedimiento de
 
 (Decreto 1465 de 2013, art. 70)
 
-ARTÍCULO
-
 ## art:2.14.19.10.18 — Conformación de la lista de peritos de la Reforma Agraria
 
 El INCODER, integrará el Listado Nacional de Peritos de la Reforma Agraria, de acuerdo con las normas establecidas en el título 11 de la parte 14 del libro 2 de este Decreto.
 
 (Decreto 1465 de 2013, art. 71)
-
-ARTÍCULO
 
 ## art:2.14.19.10.19 — Actuación de la Policía Nacional
 
@@ -19122,8 +16648,6 @@ Dicha institución tendrá la obligación de tomar las medidas pertinentes tendi
 
 (Decreto 1465 de 2013, art. 72)
 
-ARTÍCULO
-
 ## art:2.14.19.10.20 — Obligación de facilitar el acceso a los predios
 
 Los propietarios, poseedores, ocupantes, tenedores o quienes se encuentren en el predio, están obligados a prestar su colaboración y facilitar el acceso a los funcionarios y otros solicitantes acompañantes, para que las visitas previas y las inspecciones oculares ordenadas por el INCODER se cumplan sin dilación alguna.
@@ -19131,8 +16655,6 @@ Los propietarios, poseedores, ocupantes, tenedores o quienes se encuentren en el
 En el evento de que estos se opongan u obstaculicen en cualquier forma su realización, el INCODER podrá solicitar el apoyo de la Policía Nacional y de las demás autoridades competentes para lograr el cumplimiento de sus funciones, de conformidad con lo establecido en la Ley 160 de 1994.
 
 (Decreto 1465 de 2013, art. 73)
-
-ARTÍCULO
 
 ## art:2.14.19.10.21 — Régimen
 
@@ -19148,15 +16670,11 @@ CAPÍTULO 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.14.20.1.1 — Objeto
 
 El presente título tiene por objeto establecer los mecanismos para la efectiva protección y seguridad jurídica de las tierras y territorios ocupados o poseídos ancestralmente y/o tradicionalmente por los pueblos indígenas.
 
 (Decreto 2333 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.20.1.2 — Principios
 
@@ -19176,8 +16694,6 @@ La autoridad o intérprete de las normas consagradas en el presente título toma
 
 (Decreto 2333 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.14.20.1.3 — Definiciones
 
 Para los fines exclusivos del presente título, se establecen las siguientes definiciones:
@@ -19195,8 +16711,6 @@ La posesión de los pueblos indígenas sobre sus territorios ancestrales y/o tra
 CAPÍTULO 2
 
 Sistema de Coordinación Interinstitucional
-
-ARTÍCULO
 
 ## art:2.14.20.2.1 — Sistema de coordinación interinstitucional para la unificación de información predial de los territorios indígenas
 
@@ -19236,8 +16750,6 @@ CAPÍTULO 3
 
 Medidas de protección de la posesión de territorios ancestrales y/o tradicionales
 
-ARTÍCULO
-
 ## art:2.14.20.3.1 — Procedimiento de medidas de protección de la posesión de territorios ancestrales y/o tradicionales
 
 El procedimiento para adelantar la medida de protección de la posesión de territorios ancestrales y/o tradicionales será el siguiente:
@@ -19274,23 +16786,17 @@ PARÁGRAFO 3º. A partir de la presentación de la solicitud de ampliación, con
 
 (Decreto 2333 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.14.20.3.2 — De los estudios socioeconómicos y levantamiento topográfico
 
 Los estudios socioeconómicos y levantamiento topográfico, u otros procedimientos realizados en el marco del presente título, podrán ser utilizados para los procesos de constitución, ampliación, saneamiento y reestructuración de resguardos de origen colonial o republicano de que trata la Ley 160 de 1994 y el artículo 2.14.7.3.1 y siguientes del presente Decreto.
 
 (Decreto 2333 de 2014, art.6)
 
-ARTÍCULO
-
 ## art:2.14.20.3.3 — 3.3
 
 Prelación de la protección de la posesión de territorios ancestrales y/o tradicionales de comunidades indígenas en riesgo o situación de desplazamiento forzado. Los procedimientos de protección de la posesión de territorios ancestrales y/o tradicionales de los pueblos y comunidades en riesgo o situación de desplazamiento forzado, contenidas en la normatividad vigente, deberán tener prelación con el fin de garantizar el derecho a la posesión y a la tierra frente a los inminentes hechos de despojo territorial al que se encuentren expuestos.
 
 (Decreto 2333 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.14.20.3.4 — Creación de código para medidas de protección de la posesión de territorios ancestrales y/o tradicionales
 
@@ -19299,8 +16805,6 @@ La Superintendencia de Notariado y Registro adoptará las medidas necesarias par
 La Superintendencia de Notariado y Registro deberá crear el código de territorios ancestrales y/o tradicionales, en un término de treinta (30) días, contados a partir de la vigencia del Decreto 2333 de 2014.
 
 (Decreto 2333 de 2014, art. 8)
-
-ARTÍCULO
 
 ## art:2.14.20.3.5 — Demarcación del territorio ancestral y/o tradicional
 
@@ -19314,8 +16818,6 @@ CAPÍTULO 4
 
 Otras medidas de protección
 
-ARTÍCULO
-
 ## art:2.14.20.4.1 — 4.1
 
 Revocatoria directa de las resoluciones adjudicación de baldíos a particulares, donde estén establecidas comunidades indígenas. De acuerdo con lo dispuesto en los artículos 69 y 72 de la Ley 160 de 1994 y de conformidad con el artículo 2.14.19.8.1 y siguientes del presente Decreto, el INCODER podrá revocar directamente, en cualquier tiempo, las resoluciones de adjudicación de tierras baldías donde estén establecidas comunidades indígenas o que constituyan su hábitat, proferidas con violación a lo establecido en las normas legales o reglamentarias vigentes sobre baldíos.
@@ -19324,8 +16826,6 @@ No podrán hacerse adjudicaciones de baldíos donde estén establecidas comunida
 
 (Decreto 2333 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.14.20.4.2 — Delimitación y demarcación de territorios de pueblos aislados
 
 Para efectos de dar un tratamiento especial al derecho a la posesión al territorio ancestral y/o tradicional en favor de los pueblos indígenas en situación de aislamiento (PISA) que ocupan o utilizan de alguna manera, el Gobierno Nacional tomará medidas excepcionales para la delimitación y protección de sus territorios.
@@ -19333,8 +16833,6 @@ Para efectos de dar un tratamiento especial al derecho a la posesión al territo
 Para estos casos, se deberá tener en cuenta el acompañamiento de las entidades del orden nacional y regional con competencias para la protección territorial y cultural de dichos pueblos, quienes deberán concertar y coordinar previamente con las autoridades y organizaciones indígenas colindantes a los PISA.
 
 (Decreto 2333 de 2014, art. 14)
-
-ARTÍCULO
 
 ## art:2.14.20.4.3 — Presupuesto
 
@@ -19346,23 +16844,17 @@ TÍTULO 21
 
 Fondo Nacional Agrario
 
-ARTÍCULO
-
 ## art:2.14.21.1 — Titularidad de los bienes del Fondo Nacional Agrario
 
 De conformidad con los artículos 16 y 19 de la Ley 160 de 1994 y el numeral 2 del artículo 38 del Decreto 1292 de 2003, se entiende que el titular del derecho de dominio de los bienes inmuebles que forman parte del Fondo Nacional Agrario y que figuran a nombre del extinto INCORA, es el Instituto Colombiano de Desarrollo Rural - INCODER, o quien haga sus veces.
 
 (Decreto 2020 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.14.21.2 — Identificación de los bienes
 
 Una vez el INCODER, o la entidad que haga sus veces, expida los actos administrativos que identifiquen predios que formen parte del Fondo Nacional Agrario y cuya titularidad figure a nombre del INCORA solicitará a la oficina de registro correspondiente su inscripción a nombre del INCODER o quien haga su veces, de conformidad con el Estatuto de Registro de Instrumentos Públicos.
 
 (Decreto 2020 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.14.21.3 — 1.3
 
@@ -19384,19 +16876,13 @@ CAPÍTULO I
 
 REGLAS GENERALES
 
-ARTÍCULO
-
 ## art:2.14.22.1.1 — Objeto
 
 Las disposiciones del presente título tienen por objeto reglamentar la operación del Subsidio Integral de Acceso a Tierras, previsto Decreto Ley 902 de 2017.
 
-ARTÍCULO
-
 ## art:2.14.22.1.2 — Principios
 
 En la reglamentación, interpretación y aplicación del presente capítulo se tendrán en cuenta los fines, principios y objetivos de la Ley 160 de 1994 y el Decreto Ley 902 de 2017.
-
-ARTÍCULO
 
 ## art:2.14.22.1.3 — Asignación del Subsidio Integral de Acceso a Tierras - SIAT
 
@@ -19416,15 +16902,11 @@ La asignación del subsidio se realizará de forma gradual, de acuerdo con las d
 
 La Agencia Nacional de Tierras otorgará el Subsidio Integral de Acceso a Tierras con arreglo a los criterios de planificación y focalización adoptados por el Ministerio de Agricultura y Desarrollo Rural, a partir del ejercicio técnico realizado por la Unidad de Planificación de Tierras Rurales, Adecuación de Tierras y Usos Agropecuarios - UPRA.
 
-ARTÍCULO
-
 ## art:2.14.22.1.4 — Unidades Agrícolas Familiares
 
 Los predios que se adquieran mediante el SIAT serán destinados a la constitución de una Unidad Agrícola Familiar -UAF, que permita generar a una familia entre dos (2) y dos punto cinco (2.5) salarios mínimos legales mensuales vigentes -SMLIVIV. La metodología para el cálculo de la Unidad Agrícola Familiar será adoptada por el Consejo Directivo de la Agencia Nacional de Tierras, a partir de la propuesta técnica de la Unidad de Planificación de Tierras Rurales, Adecuación de Tierras y Usos Agropecuarios - UPRA. Los cálculos particulares estarán a cargo de la Agencia Nacional de Tierras.
 
 PARÁGRAFO . En los casos en que la zona no haya sido focalizada y técnicamente no sea aplicable la metodología de cálculo de Unidad Agrícola Familiar adoptada a partir de los estudios técnicos adelantados por la Unidad de Planificación de Tierras Rurales, Adecuación de Tierras y Usos Agropecuarios - UPRA, se establecerá para cada caso la Unidad Agrícola Familiar a nivel predial.
-
-ARTÍCULO
 
 ## art:2.14.22.1.5 — El valor del Subsidio Integral de Acceso a Tierras
 
@@ -19448,8 +16930,6 @@ PARÁGRAFO 2. De conformidad con lo establecido en el parágrafo 2 del artículo
 
 PARÁGRAFO 3. Hasta que la Agencia Nacional de Tierras adelante la actualización, el monto máximo para la compra de la tierra no podrá superar por unidad familiar, el equivalente en valor a noventa y tres (93) salarios mínimos legales mensuales vigentes.
 
-ARTÍCULO
-
 ## art:2.14.22.1.6 — Reglas sobre los montos
 
 Los costos necesarios para evaluar las condiciones jurídicas y técnicas de los predios a adquirir con el Subsidio Integral de Acceso a Tierras serán asumidos directamente por la Agencia Nacional de Tierras. Los costos y gastos relacionados con impuestos, tasas y/o contribuciones nacionales y/o locales que se causen con la compraventa del predio, correrán por cuenta de los vendedores de los predios y de los adjudicatarios del Subsidio Integral de Acceso a Tierras. Los costos necesarios para la formulación, implementación y seguimiento a los proyectos productivos serán asumidos por la Agencia de Desarrollo Rural.
@@ -19459,8 +16939,6 @@ La Agencia Nacional de Tierras y la Agencia de Desarrollo Rural podrán recurrir
 CAPÍTULO II
 
 ACCESO A TIERRAS
-
-ARTÍCULO
 
 ## art:2.14.22.2.1 — Entrada en operación del Subsidio Integral de Acceso a Tierras
 
@@ -19476,8 +16954,6 @@ En las adjudicaciones directas señaladas en el artículo 2.14.22.4.1 del presen
 
 El Subsidio Integral de Acceso a Tierras también operará en otras zonas no focalizadas donde se considere necesario atender la demanda, siempre y cuando en el Registro de Inmuebles Rurales estén inscritos los predios suficientes para los aspirantes y la Agencia Nacional de Tierras, cuente con disponibilidad presupuestal para su adjudicación.
 
-ARTÍCULO
-
 ## art:2.14.22.2.2 — Elegibilidad de los aspirantes al Subsidio Integral de Acceso a Tierras
 
 La adjudicación del Subsidio Integral de Acceso a Tierras sólo procederá en favor de los sujetos de acceso a tierra y formalización en el siguiente orden de prioridad:
@@ -19487,8 +16963,6 @@ La adjudicación del Subsidio Integral de Acceso a Tierras sólo procederá en f
 2. Sujetos de acceso a tierra a título parcialmente gratuito. Una vez se hayan atendido a todos los sujetos de acceso a tierra a título gratuito inscritos en el Registro de Sujetos de Ordenamiento, se procederá a atender a quienes se encuentren inscritos en dicho registro en la categoría de sujetos de acceso a tierra a título parcialmente gratuito, en orden decreciente de conformidad con el puntaje obtenido.
 
 3. Propietarios de tierras rurales en extensiones inferiores a la Unidad Agrícola Familiar. Una vez se hayan atendido a los sujetos de los que tratan los numerales 1y 2 del presente artículo, podrán postularse al Subsidio Integral de Acceso a Tierras quienes tengan la condición de propietarios de tierras rurales, solamente en las proporciones necesarias para completar la Unidad Agrícola Familiar predial. La Agencia Nacional de Tierras evaluará los predios sobre los que ostentan propiedad para determinar las porciones faltantes.
-
-ARTÍCULO
 
 ## art:2.14.22.2.3 — Generalidades Registro de Inmuebles Rurales
 
@@ -19501,8 +16975,6 @@ El Registro de Inmuebles Rurales es el instrumento administrado por la Agencia N
 3. La inscripción en el Registro de Inmuebles Rurales no otorgará derechos ni expectativas legítimas a los propietarios para la adquisición de los predios de naturaleza privada mediante el Subsidio Integral de Acceso a Tierras, ni tampoco a los aspirantes al Subsidio Integral de Acceso a Tierras sobre el sostenimiento de la oferta del predio seleccionado del Registro de Inmuebles Rurales.
 
 4. El ingreso de un predio en el Registro de Inmuebles Rurales tendrá una vigencia de doce (12) meses a partir de la expedición del certificado de ingreso. Transcurrido dicho término, los propietarios deberán ratificar su permanencia y actualizar la información a que haya lugar.
-
-ARTÍCULO
 
 ## art:2.14.22.2.4 — Conformación Registro de Inmuebles Rurales
 
@@ -19556,8 +17028,6 @@ La Agencia Nacional de Tierras realizará un control de calidad respecto del cum
 
 11. Los predios que hayan agotado exitosamente las etapas descritas en los numerales anteriores deberán ser inscritos en el Registro de Inmuebles Rurales con indicación del número de Unidades Agrícolas Familiares que representan.
 
-ARTÍCULO
-
 ## art:2.14.22.2.5 — Etapas para la adjudicación del Subsidio Integral de Acceso a Tierras
 
 Una vez la Agencia Nacional de Tierras haya seleccionado los potenciales beneficiarios al Subsidio Integral de Acceso a Tierras, se procederá de la siguiente manera:
@@ -19594,8 +17064,6 @@ CAPÍTULO III
 
 SUBSIDIO DE PROYECTO PRODUCTIVO
 
-ARTÍCULO
-
 ## art:2.14.22.3.1 — Traslado a la Agencia de Desarrollo Rural
 
 Entregado el predio adquirido con el subsidio Integral de Acceso a Tierras, la Agencia Nacional de Tierras remitirá copia del acto administrativo que lo asigna a las entidades competentes según las normas vigentes, y adicionalmente a la Agencia de Desarrollo Rural, copia de los siguientes documentos de cada adquisición de predios:
@@ -19603,8 +17071,6 @@ Entregado el predio adquirido con el subsidio Integral de Acceso a Tierras, la A
 1. Escritura pública de compraventa debidamente inscrita en el Registro de Instrumentos Públicos;
 
 2. Los demás documentos técnicos y ambientales que se hayan desarrollado en marco de la verificación de requisitos mínimos de los predios.
-
-ARTÍCULO
 
 ## art:2.14.22.3.2 — Etapas para la implementación del Proyecto Productivo
 
@@ -19630,8 +17096,6 @@ En todos los casos, la formulación del proyecto productivo acatará los instrum
 
 Para los efectos del cierre del Proyecto Productivo, la Agencia de Desarrollo Rural podrá dividir esta etapa en dos fases: Una primera fase correspondiente al cierre financiero, que se da cuando se ejecuta la totalidad de los recursos del subsidio para el proyecto productivo y se cierra el mecanismo financiero; y una segunda fase correspondiente al cierre técnico que se dará al culminar la implementación del proyecto productivo. De cada una de las fases se levantará la correspondiente acta.
 
-ARTÍCULO
-
 ## art:2.14.22.3.3 — Articulación
 
 La Agencia Nacional de Tierras y la Agencia de Desarrollo Rural deberán coordinar y articular la ejecución de los programas de dotación de tierras, mediante la conformación de un equipo interinstitucional encargado de ejecutar las actividades y acciones establecidas en el presente decreto, conforme a lo reglamentado por el Ministerio de Agricultura y Desarrollo Rural.
@@ -19641,8 +17105,6 @@ Para efectos de la ejecución del Subsidio Integral de Acceso a Tierras, la Agen
 CAPÍTULO 4
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.14.22.4.1 — Adjudicaciones directas
 
@@ -19656,8 +17118,6 @@ La Agencia Nacional de Tierras, a partir de la identificación de los casos señ
 
 PARÁGRAFO . La Agencia Nacional de Tierras, en los procesos de selección directa podrá aplicar las reglas previstas para la selección de beneficiarios de Registro de Sujetos de Ordenamiento, cuando las solicitudes superen la oferta de adjudicaciones del Subsidio Integral de Acceso a Tierras o los recursos apropiados. En tales casos, los listados de las aspirantes se reducirán a quienes reúnan alguna de las situaciones acá previstas.
 
-ARTÍCULO
-
 ## art:2.14.22.4.2 — Renuncia a la adjudicación
 
 Los aspirantes podrán renunciar a la adjudicación del Subsidio Integral de Acceso a Tierras, mediante solicitud expresa y escrita dirigida a la Agencia Nacional de Tierras, hasta antes de la expedición del acto administrativo de adjudicación. Cuando la asignación se haya obtenido únicamente para la financiación del proyecto productivo, la renuncia se dirigirá a la Agencia de Desarrollo Rural.
@@ -19665,8 +17125,6 @@ Los aspirantes podrán renunciar a la adjudicación del Subsidio Integral de Acc
 Emitido el acto administrativo de adjudicación, la renuncia solo podrá ser tramitada mediante la figura de la revocatoria y se requerirá en este caso, el consentimiento previo y expreso del beneficiario.
 
 La aceptación de la renuncia implicará la pérdida de los derechos originados en el proceso de adjudicación y su exclusión del Registro de Sujetos de Ordenamiento.
-
-ARTÍCULO
 
 ## art:2.14.22.4.3 — Condición resolutoria
 
@@ -21111,15 +18569,11 @@ CAPÍTULO 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.15.1.1.1 — Objeto
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas adelantará, de conformidad con las normas legales y las de este decreto, las actuaciones administrativas dirigidas a incluir en el Registro de Tierras Despojadas y Abandonadas Forzosamente los predios debidamente identificados, las personas cuyos derechos sobre estos fueron afectados, el tiempo o período de influencia armada en relación con el predio, el tiempo de vinculación de los solicitantes con el predio y toda la información complementaria para la inscripción en el registro y el proceso de restitución. Estas actuaciones se adelantarán, respetando las garantías del debido proceso, para que el registro citado sea un instrumento veraz, oportuno e idóneo como presupuesto legal para la restitución judicial.
 
 (Decreto 4829 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.15.1.1.2 — Definiciones
 
@@ -21157,8 +18611,6 @@ Para los efectos de la presente Parte se tendrán en cuenta las siguientes defin
 
 (Decreto 4829 de 2011, art. 36)
 
-ARTÍCULO
-
 ## art:2.15.1.1.3 — Principios rectores de las actuaciones para el Registro de Tierras Despojadas y Abandonadas Forzosamente
 
 Las inscripciones en el Registro de Tierras Despojadas y Abandonadas Forzosamente se regirán por los principios generales y específicos en materia de restitución que contempla la Ley 1448 de 2011, y por los siguientes principios de las actuaciones administrativas:
@@ -21183,8 +18635,6 @@ Las inscripciones en el Registro de Tierras Despojadas y Abandonadas Forzosament
 
 (Decreto 4829 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.15.1.1.4 — Información institucional
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, incluso antes de la microfocalización, a efectos de adelantar todas las diligencias y actuaciones inherentes al procedimiento administrativo de registro y al proceso de restitución de tierras abandonadas y despojadas, podrá requerir a las autoridades competentes con el fin de que faciliten o aporten la información pertinente, de acuerdo con lo dispuesto en los incisos finales del artículo 76 de la Ley 1448 de 2011. Para tal fin, éstas removerán los obstáculos puramente formales que impidan, retrasen o dificulten el acceso y consulta a la información requerida.
@@ -21192,8 +18642,6 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 Para efectos de que la interoperabilidad y el intercambio de la información se efectúe en tiempo real, conforme a lo exigido en el inciso 7 del artículo 76 de la Ley 1448 de 2011, en un término no mayor a 6 meses, contados a partir de la vigencia del presente decreto, las diferentes instituciones adoptarán los convenios interinstitucionales y el funcionamiento de servicios automatizados necesarios para garantizar esa finalidad.
 
 (Decreto 440 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.15.1.1.5 — Suspensión
 
@@ -21207,15 +18655,11 @@ En el momento en que cesen las condiciones que dieron origen a la suspensión, l
 
 (Decreto 440 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.1.6 — Participación de los niños, niñas y adolescentes
 
 Los niños, niñas y adolescentes solicitantes tienen derecho a ser escuchados en el trámite de registro, en aplicación del artículo 26 de la Ley 1098 de 2006. Cuando se reciba su declaración, debe tenerse en cuenta el nivel de afectación, recordación de los hechos investigados, y riesgo de re-victimización, así como el mecanismo idóneo para su recepción. En estos casos, se comunicará a sus representantes legales, guardador, custodio o persona que se haga cargo de su cuidado personal, y se asegurará la presencia del Defensor de Familia del Instituto Colombiano del Bienestar Familiar, o quien haga sus veces en la zona donde se debe recepcionar la declaración.
 
 (Decreto 440 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.15.1.1.7 — Medidas en favor de propietarios retornados
 
@@ -21231,8 +18675,6 @@ PARÁGRAFO . La inscripción en el Registro de Tierras Despojadas y Abandonadas 
 
 (Decreto 440 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.1.8 — Actuaciones en la acción de restitución
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas podrá ejercer todas las actuaciones, en el ámbito de sus competencias, dentro de la acción de restitución, por medio de sus funcionarios o de personas naturales o jurídicas con quienes se haya suscrito convenios o contratos a cualquier título.
@@ -21240,8 +18682,6 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas ejercerá la supervisión y orientación de todas las actuaciones a las que se refiere el presente artículo, a efectos de garantizar la adecuada representación de las víctimas.
 
 (Decreto 440 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.15.1.1.9 — Estrategias para evidencia de avances de los fallas de restitución de tierras
 
@@ -21251,15 +18691,11 @@ Para tal fin, de manera conjunta con las entidades del Sistema Nacional de Atenc
 
 (Decreto 440 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.1.10 — Adecuación de programas y procedimientos
 
 De conformidad con lo dispuesto en el artículo 9, inciso 5, de la Ley 1448 de 2011, en el marco de la justicia transicional y la búsqueda de la reparación integral a las víctimas, las instituciones públicas de los niveles nacional y territorial, deberán adecuar sus programas y procedimientos internos, para el cumplimiento efectivo de las órdenes proferidas por los jueces y magistrados de restitución de tierras. En ese sentido, se aplicarán de forma preferente las normas especiales que rigen la justicia transicional y no serán oponibles normas ordinarias o procedimientos que retrasen o limiten el cumplimiento de las órdenes judiciales.
 
 (Decreto 440 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.15.1.1.11 — Responsabilidad de los entes territoriales
 
@@ -21267,23 +18703,17 @@ Los entes territoriales, en el marco de sus competencias, promoverán la inclusi
 
 (Decreto 440 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.1.12 — .12
 
 Superación de la situación de vulnerabilidad de la población víctima de despojo o abandono forzoso de tierras en el marco de la Ley 1448 de 2011. Se entenderá que una víctima de despojo o abandono forzoso de tierras, en los términos de la Ley 1448 de 2011, ha superado la situación de vulnerabilidad originada en dicho hecho victimizante, cuando se establezca el goce efectivo de derechos y la estabilización socioeconómica, derivados de su calidad de beneficiaria de la política de restitución dispuesta en esa normativa y regulada en el presente decreto.
 
 (Decreto 440 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.1.13 — .13
 
 Mecanismos de eficiencia, economía y celeridad en el procedimiento administrativo de inclusión en el Registro de Tierras Despojadas y Abandonadas Forzosamente. La Unidad Administrativa Especial para la Gestión de la Restitución de Tierras podrá tramitar de forma conjunta en un mismo procedimiento aquellas solicitudes de inscripción en el Registro de Tierras Despojadas y Abandonadas Forzosamente, respecto de las cuales el trámite conjunto resulte procedente, atendiendo a criterios de eficiencia, economía procesal y celeridad, y al cumplimiento efectivo de los criterios de la justicia restaurativa.
 
 (Decreto 440 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.15.1.1.14 — Indicadores para la prueba de presunciones
 
@@ -21303,15 +18733,11 @@ Lo anterior, se aplicará sin perjuicio del principio de libertad probatoria en 
 
 (Decreto 440 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.1.15 — Medidas de atención a los segundos ocupantes
 
 Si existieren providencias judiciales ejecutoriadas que reconocen medidas y mecanismos de atención a segundos ocupantes en la acción de restitución de tierras, la Unidad Administrativa Especial de Gestión de Restitución de Tierras emprenderá las acciones correspondientes a dar cumplimiento efectivo a dichos fallos.
 
 (Decreto 440 de 2016, art. 4)
-
-ARTÍCULO
 
 ## art:2.15.1.1.16 — Gradualidad, progresividad y cierre de microzonas
 
@@ -21327,15 +18753,11 @@ CAPÍTULO 2
 
 Implementación gradual y progresiva del Registro.
 
-ARTÍCULO
-
 ## art:2.15.1.2.1 — Seguridad en el registro y restitución de tierras despojadas y abandonadas forzosamente
 
 Las medidas requeridas para la restitución jurídica y material de las tierras a los despojados y desplazados serán implementadas en condiciones que permitan garantizar su seguridad.
 
 (Decreto 4829 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:2.15.1.2.2 — Articulación Institucional
 
@@ -21349,15 +18771,11 @@ La información en materia de seguridad e identificación de riesgos, de respons
 
 (Decreto 4829 de 2011, art. 4)
 
-ARTÍCULO
-
 ## art:2.15.1.2.3 — De la focalización para el Registro de Tierras despojadas y abandonadas forzosamente
 
 Con el propósito de implementar el Registro de tierras despojadas y abandonadas forzosamente atendiendo los principios de progresividad y gradualidad, se adelantará un proceso de macro y micro focalización, mediante el cual se definirán las áreas geográficas en las cuales se realizará el estudio de las solicitudes recibidas.
 
 (Decreto 4829 de 2011, art. 5)
-
-ARTÍCULO
 
 ## art:2.15.1.2.4 — Mecanismos para la definición de áreas
 
@@ -21368,8 +18786,6 @@ Para la toma de decisiones se tendrá en cuenta el concepto de seguridad suminis
 PARÁGRAFO . La microfocalización para definir las áreas geográficas (municipios, veredas, corregimientos, sectores o predios) donde se adelantará el procedimiento administrativo especial de inscripción de los predios en el Registro de Tierras Despojadas y Abandonadas Forzosamente será asumida por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, para lo cual de manera previa convocará al Comité Operativo Local de Restitución y Formalización de Tierras Despojadas y Abandonadas Forzosamente COLR
 
 (Decreto 440 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.15.1.2.5 — Suspensión del análisis previo o del proceso de Registro
 
@@ -21387,8 +18803,6 @@ CAPÍTULO 3
 
 Solicitud de restitución y del análisis previo de las reclamaciones
 
-ARTÍCULO
-
 ## art:2.15.1.3.1 — Información de la solicitud de registro
 
 La solicitud de inscripción en el Registro de Tierras Despojadas y Abandonadas Forzosamente contendrá como mínimo la siguiente información:
@@ -21400,8 +18814,6 @@ La solicitud de inscripción en el Registro de Tierras Despojadas y Abandonadas 
 3. Las circunstancias de modo, tiempo y lugar previas, durante y posteriores a la ocurrencia del despojo o abandono.
 
 (Decreto 4829 de 2011, art. 8)
-
-ARTÍCULO
 
 ## art:2.15.1.3.2 — Análisis previo
 
@@ -21423,8 +18835,6 @@ En tal sentido, las diligencias que realice la Unidad Administrativa Especial de
 
 (Decreto 4829 de 2011, art. 9)
 
-ARTÍCULO
-
 ## art:2.15.1.3.3 — Desarrollo del Análisis previo
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas adelantará tas diligencias necesarias para obtener los elementos que le permitan satisfacer adecuadamente los objetivos del análisis previo antes de acometer el estudio individual de cada solicitud para la inclusión de un predio en el Registro de Tierras Despojadas y Abandonadas Forzosamente.
@@ -21441,8 +18851,6 @@ PARÁGRAFO 2. Las funciones del Defensor de Familia y de la Unidad Administrativ
 
 (Decreto 4829 de 2011, art. 10)
 
-ARTÍCULO
-
 ## art:2.15.1.3.4 — Término del análisis previo
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas contará con el término de veinte (20) días, contados desde el momento en que queda en firme la resolución de microfocalización, para adelantar el análisis previo al que se refiere el presente decreto. Frente a las solicitudes que se reciban con posterioridad a la microfocalización, los términos iniciarán de manera inmediata a partir de la recepción del caso. El análisis previo podrá obviarse cuando existan con las solicitudes medios probatorios concluyentes respecto a la titularidad del derecho a la restitución.
@@ -21454,8 +18862,6 @@ PARÁGRAFO. En los casos en que la Unidad Administrativa Especial de Gestión de
 (Modificado por el Art. 2 del Decreto 1623 de 2023)
 
 (Decreto 440 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.15.1.3.5 — Decisión sobre el no inicio formal de estudio de la solicitud
 
@@ -21482,8 +18888,6 @@ PARÁGRAFO . La resolución por medio de la cual se decide no iniciar el estudio
 CAPÍTULO 4
 
 Actuaciones administrativas para la inclusión de víctimas y predios en el Registro de tierras despojadas y abandonadas forzosamente
-
-ARTÍCULO
 
 ## art:2.15.1.4.1 — Resolución que acomete el estudio del caso
 
@@ -21519,15 +18923,11 @@ De igual forma, la Unidad Administrativa Especial de Gestión de Restitución de
 
 (Decreto 440 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.15.1.4.2 — De la intervención de quienes se hallen en el predio
 
 El propietario, poseedor u ocupante que se encuentre en el predio objeto de registro deberá ser informado de la solicitud de inscripción de un predio en el registro por la parte interesada o de la iniciación de oficio, para que en el término de10 días a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas para aportar la información y documentos que quieran hacer valer dentro del mismo.
 
 (Decreto 4829 de 2011, art. 14)
-
-ARTÍCULO
 
 ## art:2.15.1.4.3 — Pruebas
 
@@ -21549,8 +18949,6 @@ PARÁGRAFO 2. La Unidad Administrativa Especial de Gestión de Restitución de T
 
 (Decreto 440 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.15.1.4.4 — Acopio de las pruebas
 
 En firme la resolución que decreta pruebas, la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas realizará todas las diligencias ordenadas en aquella en el término de treinta días.
@@ -21558,8 +18956,6 @@ En firme la resolución que decreta pruebas, la Unidad Administrativa Especial d
 PARÁGRAFO . Si la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas considera necesario practicar una o más pruebas que no fueron incluidas en la Resolución que decretó las pruebas, procederá a ordenarlas mediante auto susceptible de reposición. En este caso, la Unidad tendrá en cuenta que el término total para tomar decisión de fondo no podrá sobrepasar el que establece el inciso 4 del artículo 76 de la Ley 1448 de 2011.
 
 (Decreto 4829 de 2011, art. 16)
-
-ARTÍCULO
 
 ## art:2.15.1.4.5 — Decisión sobre la inscripción en el Registro de Tierras Despojadas y Abandonadas Forzosamente
 
@@ -21627,6 +19023,12 @@ Para garantizar la transparencia, eficacia y acceso a la información en la impl
 
 3. Atención y Asesoría: La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, en coordinación con el Ministerio de Relaciones Exteriores, habilitará canales de atención en consulados y embajadas para brindar información y acompañamiento a las víctimas en el exterior respecto a sus derechos en el proceso de restitución de tierras, y en particular a la compensación en dinero. Así mismo, la UAEGRTD realizará jornadas de socialización de la política pública de restitución y de la ruta de atención a las víctimas en el exterior en materia de restitución, por lo menos una vez al año.
 
+ARTÍCULO 2.15.2.4.6. Financiamiento. La compensación en dinero a víctimas en el exterior como medida de reparación principal en los procesos de restitución de tierras, se desarrollará con cargo a los recursos de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, según el presupuesto asignado para cada vigencia fiscal, respetando el Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo.
+
+CAPÍTULO 5
+
+Contenido del Registro
+
 ## art:2.15.1.5.1 — Contenido del Registro
 
 La inscripción en el Registro incluirá como mínimo la siguiente información:
@@ -21643,8 +19045,6 @@ La inscripción en el Registro incluirá como mínimo la siguiente información:
 
 (Decreto 4829 de 2011, art. 18)
 
-ARTÍCULO
-
 ## art:2.15.1.5.2 — Estados del registro
 
 Son estados del registro:
@@ -21659,8 +19059,6 @@ Son estados del registro:
 
 (Decreto 4829 de 2011, art. 19)
 
-ARTÍCULO
-
 ## art:2.15.1.5.3 — Actualización de datos
 
 Las personas que solicitaron ser inscritas en el Registro deben actualizar sus datos de contacto para efectos de las notificaciones.
@@ -21671,15 +19069,11 @@ CAPÍTULO 6
 
 Disposiciones generales para el trámite administrativo del Registro de tierras despojadas y abandonadas forzosamente
 
-ARTÍCULO
-
 ## art:2.15.1.6.1 — Inicio y trámite preferencial de las actuaciones
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas deberá iniciar y tramitar el estudio de los casos recibidos atendiendo la aplicación gradual del registro y el criterio preferencial en favor de los solicitantes pertenecientes a las poblaciones señaladas en los artículos 13,114 y 115 de la Ley 1448 de 2011.
 
 (Decreto 4829 de 2011, art. 21)
-
-ARTÍCULO
 
 ## art:2.15.1.6.2 — Suspensión del análisis previo o del proceso de Registro
 
@@ -21693,15 +19087,11 @@ En el momento en que cesen las causas que dieron origen a la suspensión de la a
 
 (Decreto 4829 de 2011, art. 22)
 
-ARTÍCULO
-
 ## art:2.15.1.6.3 — Comisiones para realizar diligencias dentro de la actuación administrativa
 
 Cuando la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas considere que por razones de eficacia, economía, garantías para la seguridad de víctimas y funcionarios, conocimiento del área, u otras circunstancias o motivos análogos, es conveniente encomendar diligencias de su competencia a otras autoridades regionales, ordenará a éstas su realización. Para ese efecto, el acto que señale la comisión, indicará el término dentro del cual deben adelantarse y devolverse las diligencias comisionadas, con el informe correspondiente.
 
 (Decreto 4829 de 2011, art. 23)
-
-ARTÍCULO
 
 ## art:2.15.1.6.4 — 6.4
 
@@ -21713,8 +19103,6 @@ Naturaleza de las decisiones en las actuaciones administrativas relacionadas con
 
 (Decreto 4829 de 2011, art. 24)
 
-ARTÍCULO
-
 ## art:2.15.1.6.5 — Notificaciones
 
 Los actos definitivos emitidos en el procedimiento administrativo de que trata este decreto, que son el de no inicio formal de estudio y el que decide sobre el ingreso al Registro de Tierras Despojadas y Abandonadas Forzosamente, se notificarán al solicitante o a sus representantes o apoderados de conformidad con lo establecido en el Capítulo V del Título 111 de la Parte I de la Ley 1437 de 2011 o la norma que lo modifique, adicione o sustituya.
@@ -21723,23 +19111,17 @@ La notificación personal para dar cumplimiento a los actos previstos en el inci
 
 (Decreto 440 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.15.1.6.6 — Recursos
 
 Contra los actos administrativos de no inicio formal de estudio y el que decide sobre el ingreso al Registro de Tierras Despojadas y Abandonadas Forzosamente, únicamente procede el recurso de reposición. Este deberá interponerse por escrito en la diligencia de notificación, o dentro de los diez (10) días siguientes a ésta, ante el funcionario que dictó la decisión
 
 (Decreto 440 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.15.1.6.7 — De la procedencia de la acción contenciosa
 
 Una vez agotada la vía gubernativa, el solicitante que no haya sido incluido en el Registro, podrá acudir ante la Jurisdicción de lo Contencioso Administrativa en ejercicio de la acción de nulidad y restablecimiento del derecho.
 
 (Decreto 4829 de 2011, art. 27)
-
-ARTÍCULO
 
 ## art:2.15.1.6.8 — Funciones del Defensor de Familia en relación con el Registro de tierras despojadas y abandonadas forzosamente
 
@@ -21755,8 +19137,6 @@ De conformidad con las funciones legales de los defensores de familia, éstos ve
 
 (Decreto 4829 de 2011, art. 28)
 
-ARTÍCULO
-
 ## art:2.15.1.6.9 — Remisión
 
 En las actuaciones administrativas del Registro, en lo no previsto por la Ley 1448 de 2011, se aplicarán las disposiciones del Código de Procedimiento Administrativo y de lo Contencioso Administrativo que se relacionen con la materia o de la norma que lo sustituya.
@@ -21767,15 +19147,11 @@ CAPÍTULO 7
 
 Disposiciones complementarias
 
-ARTÍCULO
-
 ## art:2.15.1.7.1 — Custodia y seguridad de la información
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas dispondrá los mecanismos necesarios para que tanto física como tecnológicamente se preserve de manera íntegra y segura la información contenida en los expedientes relacionados con el trámite de inscripción en el Registro de tierras despojadas y abandonadas forzosamente, de acuerdo con las normas existentes para el efecto.
 
 (Decreto 4829 de 2011, art. 30)
-
-ARTÍCULO
 
 ## art:2.15.1.7.2 — Del acceso e intercambio de información con las instituciones
 
@@ -21803,8 +19179,6 @@ PARÁGRAFO 2. Las instituciones del sector central y descentralizado de la rama 
 
 (Decreto 4829 de 2011, art. 31)
 
-ARTÍCULO
-
 ## art:2.15.1.7.3 — Información a las víctimas y organizaciones
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas establecerá los mecanismos de información necesarios para garantizar la participación de las víctimas y sus organizaciones en el trámite de inscripción en el Registro de tierras despojadas y abandonadas forzosamente, de conformidad con lo previsto en la Ley 1448 de 2011. La información suministrada debe tener relación con lo siguiente:
@@ -21827,8 +19201,6 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 
 (Decreto 4829 de 2011, art. 32)
 
-ARTÍCULO
-
 ## art:2.15.1.7.4 — Formatos
 
 Con el fin de facilitar el ejercicio de los derechos de las víctimas o partes dentro del trámite administrativo, así como el desarrollo de actividades y trámites propios del proceso a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, se implementarán formatos dirigidos, entre otros, para los siguientes actos:
@@ -21843,15 +19215,11 @@ Con el fin de facilitar el ejercicio de los derechos de las víctimas o partes d
 
 (Decreto 4829 de 2011, art. 33)
 
-ARTÍCULO
-
 ## art:2.15.1.7.5 — Enfoque diferencial
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas dispondrá lo necesario para que se conserve el criterio preferencial que se dio durante las actuaciones administrativas del registro, en las entidades e instancias que por competencia y responsabilidad legal deban desarrollar procesos o atender la situación de las personas a quienes se les aplicó el mismo, de acuerdo con la Ley 1448 de 2011.
 
 (Decreto 4829 de 2011, art. 34)
-
-ARTÍCULO
 
 ## art:2.15.1.7.6 — Niños, niñas y adolescentes
 
@@ -21865,15 +19233,11 @@ CAPÍTULO 8
 
 Registro Único de Predios y Territorios Abandonados -RUPTA-
 
-ARTÍCULO
-
 ## art:2.15.1.8.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar aspectos relacionados con el Registro Único de Predios y Territorios Abandonados (RUPTA), armonizándolo con el Registro de Tierras Despojadas y Abandonadas Forzosamente.
 
 (Decreto 2051 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.15.1.8.2 — 8.2
 
@@ -21882,8 +19246,6 @@ Administración del RUPTA Corresponderá a la Unidad Administrativa Especial de 
 Dentro de ese marco legal, la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas establecerá las directrices que permitan la correcta y eficiente administración del RUPTA, así como los mecanismos pertinentes para la articulación del RUPTA y el Registro de Tierras Despojadas y Abandonadas Forzosamente en los términos de Ley 387 de 1997.
 
 (Decreto 2051 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.1.8.3 — Protección de predios abandonados forzosamente
 
@@ -21894,8 +19256,6 @@ La protección e información obtenida para tal fin constituirán elementos prob
 La información existente sobre tenedores y otras relaciones fácticas o jurídicas que no sean objeto de protección o restitución de tierras, será remitida a las instituciones competentes en materia de servicios y políticas sociales del Estado colombiano, sin perjuicio de las acciones ordinarias a las que puede acudir el interesado.
 
 (Decreto 2051 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.15.1.8.4 — Inclusión de requerimientos en el RUPTA
 
@@ -21912,8 +19272,6 @@ PARÁGRAFO 1. Una vez microfocalizada una zona, los requerimientos de protecció
 PARÁGRAFO 2. Los requerimientos que versen sobre aquellos predios respecto de los cuales finalizó el trámite administrativo o judicial de la acción de restitución de tierras, no será incluidos en el RUPTA, sin perjuicio de las órdenes que pueda emitir el juez en desarrollo de la potestad prevista en el literal e) del artículo 91 de la Ley 1448 de 2011.
 
 (Decreto 2051 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.15.1.8.5 — Armonización de los requerimientos de protección
 
@@ -21955,8 +19313,6 @@ CAPÍTULO 1
 
 Normas Generales
 
-ARTÍCULO
-
 ## art:2.15.2.1.1 — Guía para determinar bienes equivalentes
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, mediante acto administrativo emitirá la guía procedimental y de parámetros técnicos que empleará el organismo para la determinación de bienes equivalentes en los procesos de aplicación de esta medida sustitutiva de la restitución en los casos de imposibilidad de la misma, según lo establecido en la Ley 1448 de 2011.
@@ -21964,8 +19320,6 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 PARÁGRAFO . El valor de la compensación, a que hace referencia el artículo 98 de la Ley 1448 de 2011, se podrá establecer de acuerdo con el avalúo establecido en el proceso y podrá ofrecer los bienes de que disponga el Fondo en su momento, o aquellos que estén en el Fondo de Reparación de Víctimas, el Fondo Nacional Agrario, del FRISCO o de CISA, de conformidad con la Ley y las disposiciones de este decreto.
 
 (Decreto 4829 de 2011, art. 37)
-
-ARTÍCULO
 
 ## art:2.15.2.1.2 — Definición de las características del predio equivalente
 
@@ -21981,8 +19335,6 @@ Cuando se va a equiparar un bien por otro bajo las condiciones medioambientales,
 
 (Decreto 4829 de 2011, en. 38)
 
-ARTÍCULO
-
 ## art:2.15.2.1.3 — Procedencia de los Avalúos
 
 Será procedente ordenar y realizar un avalúo para los procesos de restitución de tierras en los casos enumerados a continuación:
@@ -21994,8 +19346,6 @@ Será procedente ordenar y realizar un avalúo para los procesos de restitución
 3. Cuando por solicitud del Juez o Magistrado que conozca del proceso de restitución se requiera el avalúo para la celebración de un contrato entre los beneficiarios y el opositor que desarrolla un proyecto productivo que se determine haber obrado con buena fe exenta de culpa.
 
 (Decreto 4829 de 2011, art. 39)
-
-ARTÍCULO
 
 ## art:2.15.2.1.4 — Del avalúo de posesiones
 
@@ -22011,8 +19361,6 @@ En donde Título hace referencia a los costos de formalización.
 
 (Decreto 4829 de 2011, art. 40)
 
-ARTÍCULO
-
 ## art:2.15.2.1.5 — De la idoneidad para realizar los avalúos
 
 Para desarrollar avalúos dentro del marco de la Ley 1448 de 2011 y con arreglo al presente decreto se consideran idóneas:
@@ -22022,8 +19370,6 @@ Para desarrollar avalúos dentro del marco de la Ley 1448 de 2011 y con arreglo 
 2. Las lonjas habilitadas de acuerdo a lo previsto en el presente decreto.
 
 (Decreto 4829 de 2011, art. 41)
-
-ARTÍCULO
 
 ## art:2.15.2.1.6 — Requisitos de las lonjas de propiedad raíz
 
@@ -22057,8 +19403,6 @@ PARÁGRAFO 2. La certificación sobre el cumplimiento de los requisitos de que t
 
 (Decreto 4829 de 2011, art. 42; artículos 1 y 2 Modificados por el Decreto 440 de 2016, art. 2)
 
-ARTÍCULO
-
 ## art:2.15.2.1.7 — Beneficiarios de la compensación
 
 Cuando la restitución sea imposible jurídica y materialmente, en los términos del artículo 72 y 97 de la Ley 1448 de 2011, la compensación procederá a favor de las víctimas que tuvieren la calidad de propietarios y a favor de los poseedores y ocupantes que hubieren demostrado en el proceso de restitución haber cumplido los requisitos legales para convertirse en propietarios o adjudicatarios.
@@ -22071,15 +19415,11 @@ En aquellos casos en que la solicitud verse sobre un baldío inadjudicable se so
 
 (Decreto 440 de 2016, art. 5)
 
-ARTÍCULO
-
 ## art:2.15.2.1.8 — Predios equivalentes
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas garantizará la equivalencia medioambiental o económica de los predios que se ofrezcan a los beneficiarios de las órdenes judiciales de compensación, siempre en observancia de lo establecido en el artículo 97 de la Ley 1448 de 2011.
 
 (Decreto 440 de 2016, art. 5)
-
-ARTÍCULO
 
 ## art:2.15.2.1.9 — Permanencia de bienes en el Fondo
 
@@ -22087,15 +19427,11 @@ En ningún caso los predios que hayan ingresado al Fondo de la Unidad Administra
 
 (Decreto 440 de 2016, art. 5)
 
-ARTÍCULO
-
 ## art:2.15.2.1.10 — Imposibilidad de compensación en especie
 
 Se entenderá que no es posible la compensación en especie cuando no existan bienes en el Banco de Predios del Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas que puedan ofrecerse a las víctimas como equivalentes, o cuando, agotado el procedimiento previsto en el Manual Técnico Operativo del Fondo, no se haya logrado asignar un predio para la compensación.
 
 (Decreto 440 de 2016, art. 5)
-
-ARTÍCULO
 
 ## art:2.15.2.1.11 — Predios inicialmente adjudicados como baldíos
 
@@ -22103,15 +19439,11 @@ En los casos en que predios inicialmente adjudicados como baldíos con limitaci�
 
 (Decreto 440 de 2016, art. 5)
 
-ARTÍCULO
-
 ## art:2.15.2.1.12 — Improcedencia de la compensación
 
 Sin perjuicio de las acciones de saneamiento que correspondan a otras autoridades, y con sujeción a lo que prevé la Ley 1448 de 2011 sobre el efecto, la compensación no procederá cuando la solicitud de inscripción al Registro de Tierras Despojadas y Abandonadas Forzosamente verse sobre predios que se enmarquen en las situaciones previstas en los literales a), b) y e) del numeral 2 del artículo 2.15.1.3.5 del presente decreto.
 
 (Decreto 440 de 2016, art. 5)
-
-ARTÍCULO
 
 ## art:2.15.2.1.13 — Título de transferencia
 
@@ -22119,15 +19451,11 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 
 (Decreto 440 de 2016, art. 5)
 
-ARTÍCULO
-
 ## art:2.15.2.1.14 — Procedimiento para la compensación
 
 Los procedimientos para la compensación serán los adoptados por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas en el Manual Técnico Operativo del Fondo de la Unidad.
 
 (Decreto 440 de 2016, art. 5)
-
-ARTÍCULO
 
 ## art:2.15.2.1.15 — La compensación a las víctimas constituye una actividad de utilidad pública
 
@@ -22138,8 +19466,6 @@ Todos los actos que adelante el Fondo de la Unidad Administrativa Especial para 
 CAPÍTULO 2
 
 Alivio de pasivos
-
-ARTÍCULO
 
 ## art:2.15.2.2.1 — Alivio por pasivos asociados a predios restituidos
 
@@ -22163,8 +19489,6 @@ PARÁGRAFO . La Unidad Administrativa Especial de Gestión de Restitución de Ti
 
 (Decreto 4829 de 2011, art. 43; parágrafo adicionado por el Decreto 440 de 2016, art. 3)
 
-ARTÍCULO
-
 ## art:2.15.2.2.2 — Compra de cartera
 
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas a través de su Fondo, podrá adquirir cartera de obligaciones por créditos a cargo de los despojados y otorgados al momento de los hechos que dieron lugar al despojo, siempre que el acreedor haya sido reconocido como tal en la sentencia judicial de restitución del predio.
@@ -22177,8 +19501,6 @@ CAPÍTULO 3
 
 Subsidios a la Vivienda
 
-ARTÍCULO
-
 ## art:2.15.2.3.1 — Subsidios de vivienda rural
 
 Las víctimas que han sido objeto de restitución de predios y su vivienda haya sido destruida o desmejorada, podrán ser objeto de los subsidios de vivienda rural administrados por el Banco Agrario. La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, mediante acto administrativo enviará periódicamente el listado de las personas a que se refiere este artículo para su priorización.
@@ -22189,15 +19511,11 @@ TÍTULO 3
 
 Organización del Fondo de la Unidad Administrativa Especial de Gestión De Restitución de Tierras Despojadas.
 
-ARTÍCULO
-
 ## art:2.15.3.1 — Contratación de Fiducia
 
 La Unidad Administrativa Especial de Gestión de Tierras Despojadas contratará a una o varias sociedades fiduciarias vigiladas por la Superintendencia Financiera de Colombia, para administrar sus recursos, conformando uno o varios patrimonios autónomos. Podrán contratarse uniones temporales o consorcios conformados por dos o más sociedades fiduciarias. Para tal fin dará cumplimiento a las normas de las Leyes 80 de 1993 y 1150 de 2007 y aquellas que la complementen, modifiquen o las sustituyan.
 
 (Decreto 4829 de 2011, art. 46)
-
-ARTÍCULO
 
 ## art:2.15.3.2 — Pago de las comisiones de administración
 
@@ -22205,15 +19523,11 @@ Las comisiones de administración de dichos recursos se pagarán con cargo a los
 
 (Decreto 4829 de 2011, art. 47)
 
-ARTÍCULO
-
 ## art:2.15.3.3 — 3.3
 
 Proceso de alistamiento operativo y registro de bienes que formarán parte el Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas. Corresponde a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas desarrollar las tareas de evaluación, clasificación, y registro en sistemas de información adecuados, que faciliten la localización de los bienes aptos para su utilización para los propósitos establecidos en la Ley 1448 de 2011, antes de su ingreso al Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas. Los inmuebles recibidos podrán ser objeto de saneamiento de títulos tramitados por la Unidad.
 
 (Decreto 4829 de 2011, art. 48)
-
-ARTÍCULO
 
 ## art:2.15.3.4 — Manual Operativo
 
@@ -22222,8 +19536,6 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 El Manual tendrá en cuenta las particularidades de los distintos bienes para asegurar que cada bien que ingrese al Fondo haya sido objeto de análisis y alistamiento para que sirva a los propósitos del Fondo.
 
 (Decreto 4829 de 2011, art. 49)
-
-ARTÍCULO
 
 ## art:2.15.3.5 — Dirección del Fondo
 
@@ -22234,8 +19546,6 @@ El Director de la Unidad será el Director del Fondo. No obstante, se requerirá
 2. La determinación del costo de administración fiduciaria.
 
 (Decreto 4829 de 2011, art. 50)
-
-ARTÍCULO
 
 ## art:2.15.3.6 — Procedimiento para la aceptación de inmuebles por parte del Fondo
 
@@ -22259,8 +19569,6 @@ Para lo anterior, la entidad respectiva solicitará a la UAEGRTD suministrar la 
 
 (Modifica el Art 3 del decreto 797 de 2025)
 
-ARTÍCULO
-
 ## art:2.15.3.7 — 3.7
 
 Proyecto de Presupuesto Anual del Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas. La Unidad Administrativa Especial de Gestión de Restitución de Tierras consolidará la cifra de los recursos fiscales que requerirá para que el Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas pueda atender los compromisos derivados de sus actuaciones para su inclusión en el Presupuesto de la Unidad, de conformidad con las normas de programación y ejecución presupuestal que le sean aplicables.
@@ -22271,15 +19579,11 @@ TÍTULO 4
 
 Otras Disposiciones
 
-ARTÍCULO
-
 ## art:2.15.4.1 — Contrato para el uso del Predio Restituido
 
 De conformidad con el artículo 99 de la Ley 1448 de 2011, en los casos en que mediante sentencia judicial un proyecto agroindustrial productivo, establecido sobre un bien restituido, se entregue a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas para que lo explote, encargará su explotación a una de las sociedades fiduciarias con las que tenga contrato de fiducia mercantil, con la instrucción precisa de que contrate su explotación con terceros y destine el producido del proyecto a programas de reparación colectiva para víctimas en las vecindades del predio, incluyendo al beneficiario de la restitución en la forma que determine la Unidad.
 
 (Decreto 4829 de 2011, art. 53)
-
-ARTÍCULO
 
 ## art:2.15.4.2 — Viabilidad fiscal
 
@@ -22290,8 +19594,6 @@ Las medidas administrativas e iniciativas reglamentarias para la restitución ju
 TÍTULO 5
 
 Instancia de coordinación para la micro focalización e implementación gradual y progresiva del Registro de Tierras Despojadas y Abandonadas Forzosamente
-
-ARTÍCULO
 
 ## art:2.15.5.1 — Microfocalización para el Registro de tierras despojadas y abandonadas forzosamente
 
@@ -22309,8 +19611,6 @@ PARÁGRAFO 3. Las actividades descritas en el presente artículo estarán sujeta
 
 (Decreto 599 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:2.15.5.2 — Comités Operativos locales de Restitución y Formalización de Tierras Despojadas y Abandonadas Forzosamente - COLR
 
 Los Comités Operativos Locales de Restitución y Formalización de Tierras Despojadas y Abandonadas Forzosamente - COLR, serán la instancia de coordinación operacional para la articulación, implementación, planeación, ejecución y seguimiento al proceso de registro de tierras despojadas y abandonadas forzosamente.
@@ -22326,8 +19626,6 @@ Los Comités Operativos Locales de Restitución y Formalización de Tierras Desp
 A los Comités Operativos Locales de Restitución y Formalización de Tierras Despojadas y Abandonadas Forzosamente, podrán ser invitados el Gerente Regional del Plan Nacional de Consolidación y Reconstrucción Territorial, la Defensoría del Pueblo, los Alcaldes de los municipios objeto del proceso de micro focalización, el representante regional de la Unidad Nacional de Protección o quién determine la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas.
 
 (Decreto 599 de 2012, art. 2)
-
-ARTÍCULO
 
 ## art:2.15.5.3 — Áreas Micro focalizadas
 
@@ -22347,8 +19645,6 @@ CAPÍTULO 1.
 
 GENERALIDADES DEL REGISTRO ÚNICO DE PREDIOS Y TERRITORIOS ABANDONADOS (RUPTA)
 
-ARTÍCULO
-
 ## art:2.15.6.1.1 — Registro Único de Predios y Territorios Abandonados (Rupta)
 
 El Registro Único de Predios y Territorios Abandonados (Rupta) es un instrumento que les permite a las personas víctimas de desplazamiento forzado a causa de la violencia, quienes se entenderán para efectos de este Decreto como beneficiarios, obtener, a través de una medida administrativa la protección de las relaciones de propiedad, posesión u ocupación sobre inmuebles, que hayan dejado abandonados. En el Rupta se inscribirá al solicitante y su relación jurídica con el predio objeto de la medida.
@@ -22359,15 +19655,11 @@ En relación con los poseedores, y ocupantes de baldíos también podrán inscri
 
 En el caso de ocupantes de baldíos, adicionalmente se comunicará a la Agencia Nacional de Tierras o a la entidad que haga sus veces, para que la tenga como insumo y adelante los trámites de su competencia, según lo previsto en la Ley 160 de 1994, sus normas reglamentarias y en los Decretos Ley 2363 de 2015 y 902 de 2017 o las normas que los modifiquen o sustituyan.
 
-ARTÍCULO
-
 ## art:2.15.6.1.2 — Articulación del Rupta con el Registro de Tierras Despojadas y Abandonadas Forzosamente (RTDAF)
 
 Las medidas de protección del Rupta podrán recaer sobre predios ubicados dentro o fuera de las zonas microfocalizadas con fines de restitución de tierras.
 
 Cuando se disponga la protección de predios a través de su inscripción en el Rupta y se identifique que el solicitante reúne los requisitos que exige la Ley 1448 de 2011 para reclamar la restitución de tierras, en aplicación de lo descrito en el artículo 76 de la mencionada normatividad, deberá iniciarse de oficio el procedimiento de restitución de tierras dentro del término de vigencia de la mencionada ley.
-
-ARTÍCULO
 
 ## art:2.15.6.1.3 — Cancelación de medidas de protección decretadas por Comités
 
@@ -22377,13 +19669,9 @@ Cuando se solicite la cancelación de una medida de protección declarada por lo
 
 PARÁGRAFO . Cuando no se constante la existencia de la autorización de enajenación concedida por el Comité de acuerdo con lo descrito en el inciso segundo del presente artículo, no procederá la cancelación de la medida y se deberá informar a la Superintendencia de Notariado y Registro para que adelante las acciones correctivas a que haya lugar.
 
-ARTÍCULO
-
 ## art:2.15.6.1.4 — Titulares de la protección
 
 Podrán solicitar la protección de predios a través de su inscripción en el Rupta, las personas que acrediten ser propietarios o poseedores de predios rurales y urbanos, u ocupantes de baldíos.
-
-ARTÍCULO
 
 ## art:2.15.6.1.5 — Titulares para la cancelación
 
@@ -22394,8 +19682,6 @@ La cancelación de las medidas de protección Rupta procederán de oficio o a so
 2. Ser propietario actual del predio, aunque no sea beneficiario de la medida de protección.
 
 PARÁGRAFO . También habrá lugar a la cancelación de la medida de protección del Rupta, cuando medie orden judicial en ese sentido.
-
-ARTÍCULO
 
 ## art:2.15.6.1.6 — Inclusión y cancelación oficiosa
 
@@ -22415,8 +19701,6 @@ CAPÍTULO 2.
 
 TRÁMITES RELATIVOS AL RUPTA INDIVIDUAL
 
-ARTÍCULO
-
 ## art:2.15.6.2.1 — Requisitos de las solicitudes de inscripción a petición de parte
 
 Las solicitudes de inscripción en el Rupta deberán reunir los siguientes requisitos:
@@ -22433,8 +19717,6 @@ Las solicitudes de inscripción en el Rupta deberán reunir los siguientes requi
 
 PARÁGRAFO . La entidad administradora del Rupta verificará la información pertinente de que trata el presente artículo a través de los medios tecnológicos disponibles de consulta virtual o flujos de información electrónica, siempre que esta se encuentre disponible por estos medios.
 
-ARTÍCULO
-
 ## art:2.15.6.2.2 — Requisitos de las solicitudes de cancelación de medidas de protección a petición de parte
 
 Las solicitudes de cancelación de medidas de protección deberán reunir los siguientes requisitos:
@@ -22446,8 +19728,6 @@ Las solicitudes de cancelación de medidas de protección deberán reunir los si
 3. Narración de las circunstancias de modo, tiempo y lugar que motivan la solicitud de cancelación de la medida de protección.
 
 4. La identificación y localización espacial del predio, con indicación de la ubicación, departamento, municipio, corregimiento, vereda y dirección o nombre del predio y del número de folio de matrícula inmobiliaria en que recae la medida de protección.
-
-ARTÍCULO
 
 ## art:2.15.6.2.3 — Improcedencia de la solicitud de registro o cancelación en el Rupta
 
@@ -22465,23 +19745,17 @@ PARÁGRAFO 1. Contra la resolución por medio de la cual se niega la inscripció
 
 PARÁGRAFO 2. En todo caso, la solicitud podrá presentase nuevamente, una vez subsanadas las razones por las cuales no se accedió a la solicitud.
 
-ARTÍCULO
-
 ## art:2.15.6.2.4 — Procedencia de la solicitud de registro o cancelación en el Rupta
 
 Con base en lo establecido en el artículo 84 de la Ley 1955 de 2019, la entidad administradora del Rupta tendrá un término de sesenta (60) días, contados desde que se someta a estudio el caso, para decidir sobre la inscripción o cancelación en el Rupta. Este plazo podrá ser prorrogado hasta por treinta (30) días, cuando existan o sobrevengan circunstancias que lo justifiquen.
 
 PARÁGRAFO . La prórroga del término establecido en el inciso primero del presente artículo deberá ser decretada mediante un acto administrativo debidamente motivado, que contenga las razones que la justifican y el plazo requerido para culminar la actuación. Esta decisión deberá ser comunicada al solicitante a través del mecanismo más eficaz y contra él no procederá recurso alguno.
 
-ARTÍCULO
-
 ## art:2.15.6.2.5 — De la comunicación de la solicitud a terceros
 
 Cuando se advierta que existen terceros que puedan verse afectados directamente por la decisión, deberá comunicárseles la existencia del trámite administrativo a través del medio más eficaz.
 
 En todo caso, la entidad administradora del Rupta deberá realizar una publicación en la página web de la entidad, que dé cuenta de la actuación administrativa y de la oportunidad que tienen los interesados para aportar pruebas, en cualquier momento de la actuación administrativa y hasta antes de que profiera decisión de fondo.
-
-ARTÍCULO
 
 ## art:2.15.6.2.6 — Pruebas
 
@@ -22492,8 +19766,6 @@ Cuando se requieran pruebas adicionales a las decretadas en la resolución de in
 Los intervinientes podrán controvertir las pruebas antes de que se dicte decisión de fondo. Para ello podrán radicar por escrito sus pronunciamientos y acompañarlos de los documentos o medios de prueba que consideren pertinentes y conducentes.
 
 PARÁGRAFO . La entidad administradora del Rupta decretará las comisiones que considere necesarias para la práctica de pruebas y le indicará la autoridad comisionada, las facultades, el objeto y el tiempo para su realización. Para ilustración de la autoridad comisionada se adjuntarán las copias pertinentes.
-
-ARTÍCULO
 
 ## art:2.15.6.2.7 — Requisitos de procedencia de inscripción
 
@@ -22511,8 +19783,6 @@ PARÁGRAFO 1. Si el predio cuya protección se solicita tiene copropietarios o c
 
 PARÁGRAFO 2. Cuando el predio sea un baldío, bastará con el polígono de ubicación preliminar, establecido a partir de la información proporcionada por el solicitante o las fuentes institucionales.
 
-ARTÍCULO
-
 ## art:2.15.6.2.8 — Requisitos de procedencia de cancelación
 
 La entidad administradora del Rupta podrá decretar la cancelación de una medida de protección Rupta, siempre que se reúnan los siguientes presupuestos:
@@ -22524,8 +19794,6 @@ La entidad administradora del Rupta podrá decretar la cancelación de una medid
 3. Que se verifique que el consentimiento para la solicitud de cancelación se encuentra libre de vicios, cuando sea por solicitud de parte.
 
 PARÁGRAFO . Si la solicitud de cancelación se presenta por un copropietario o comunero titular del derecho, podrá decretarse la cancelación de la medida de protección sobre el porcentaje de su cuota parte. Para poder ordenar la cancelación sobre la totalidad del predio se deberá contar con la solicitud o poder de representación de los demás titulares del derecho y verificar que el consentimiento para la solicitud de cancelación se encuentra libre de vicios respecto de cada uno de los titulares del derecho.
-
-ARTÍCULO
 
 ## art:2.15.6.2.9 — Notificación
 
@@ -22539,8 +19807,6 @@ CAPÍTULO 3.
 
 LEVANTAMIENTO Y CANCELACIÓN PARCIAL O TOTAL DE MEDIDAS DE PROTECCIÓN COLECTIVAS
 
-ARTÍCULO
-
 ## art:2.15.6.3.1 — Levantamiento y cancelación
 
 La entidad administradora del Rupta podrá adelantar, de oficio o a solicitud de parte, el trámite de levantamiento y cancelación, parcial o total, de las medidas de protección colectiva que ordenaron inscribir los Comités Municipales, Distritales o Departamentales de Atención Integral para la Población Desplazada por la Violencia o Territoriales de Justicia Transicional.
@@ -22551,15 +19817,11 @@ La entidad administradora del Rupta contará con un término igual al previsto e
 
 PARÁGRAFO . La entidad administradora del Rupta podrá acumular las solicitudes de cancelación recibidas de manera individual o remitidas por otras entidades, cuando versen sobre la misma medida de protección colectiva y además, conserven uniformidad respecto de la vecindad de los predios y las circunstancias de modo, tiempo y lugar que afectaron los derechos.
 
-ARTÍCULO
-
 ## art:2.15.6.3.2 — Titularidad de la solicitud
 
 Las solicitudes para el levantamiento y cancelación parcial o total de una medida de protección colectiva decretada por los Comités Municipales, Distritales o Departamentales de Atención Integral para la Población Desplazada por la Violencia o Territoriales de Justicia Transicional con anterioridad a la vigencia del Decreto 2051 de 2016 que derogó parcialmente el artículo 2.14.14.1, y los artículos 2.14.14.2., 2.14.14.3 y 2.14.14.4 del Decreto 1071 de 2015, deberán ser realizadas por los Comités Territoriales de Justicia Transicional o los organismos que los sustituyan, por conducto de sus secretarías técnicas. Para el efecto deberán aportar al procedimiento los soportes probatorios de la declaratoria.
 
 Sin perjuicio de lo anterior, los particulares podrán solicitar el levantamiento individual de una medida de protección colectiva siempre que cumplan con los requisitos previstos en el artículo 2.15.6.2.2. del presente Decreto, siguiendo el trámite de la ruta individual.
-
-ARTÍCULO
 
 ## art:2.15.6.3.3 — Acto de Inicio de la solicitud de levantamiento y cancelación de la medida colectiva
 
@@ -22568,8 +19830,6 @@ La entidad administradora del Rupta procederá a emitir acto administrativo para
 Se deberá comunicar el inicio del trámite a los terceros que puedan verse afectados directamente por la actuación administrativa para que puedan aportar pruebas, en cualquier momento de la actuación administrativa y hasta antes de que profiera decisión de fondo, tanto en las solicitudes de parte, como en las actuaciones iniciadas de oficio.
 
 PARÁGRAFO . Cuando la actuación administrativa pretenda iniciarse de oficio, se deberá remitir, además, una comunicación al Comité Territorial de Justicia Transicional correspondiente, en la cual se informe de la intención de iniciar este procedimiento administrativo.
-
-ARTÍCULO
 
 ## art:2.15.6.3.4 — Decisión de fondo
 
@@ -22582,8 +19842,6 @@ El acto administrativo que decida sobre el levantamiento y cancelación parcial 
 3. La identificación político-administrativa de la zona geográfica sobre la cual se realiza el levantamiento.
 
 4. La relación de los predios y registros sobre los que se ordena la cancelación de las anotaciones en los folios de matrícula inmobiliaria. Para el efecto, podrán utilizarse anexos al acto administrativo.
-
-ARTÍCULO
 
 ## art:2.15.6.3.5 — Publicación, notificación y recurso
 
@@ -22603,13 +19861,9 @@ CAPÍTULO 4.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.15.6.4.1 — Acumulación de solicitudes de oficio o de parte en trámites de inscripción y cancelación de medidas de protección
 
 Se podrán acumular en un solo trámite varias solicitudes de inscripción o cancelación de medidas de protección en el Rupta, cuando se evidencie identidad en las razones de hecho y de derecho que motivan la solicitud, así como, vecindad de los predios.
-
-ARTÍCULO
 
 ## art:2.15.6.4.2 — Remisión
 
@@ -22628,8 +19882,6 @@ CAPÍTULO 1
 (Capítulo, modificado y adicionado por el Art. 1 del Decreto 1835 de 2021)
 
 NORMAS BÁSICAS
-
-ARTÍCULO
 
 ## art:2.16.1.1.1 — Ámbito de aplicación
 
@@ -22669,8 +19921,6 @@ Con el fin de asegurar el manejo integral de la actividad pesquera y acuícola, 
 
 (Modificado por el Art. 1 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.1.1.2 — Definiciones en el ámbito de la gestión de la pesca y la acuicultura
 
 Atendiendo a lo establecido en el numeral 4 del artículo 5 del Decreto 4181 de 2011, para los efectos del presente título, se tendrán como definiciones para la interpretación de la gestión pesquera y de la acuicultura las siguientes:
@@ -22687,23 +19937,17 @@ c. Ordenación para la acuicultura: Es el resultado de los procesos orientados a
 
 (Modificado por el Art. 1 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.1.1.3 — Producción e interpretación de normas en materia de pesca y acuicultura
 
 La expedición y la interpretación de la normativa en materia de administración, ordenación y fomento en materia pesquera y de la acuicultura por parte de las autoridades administrativas, deberá atender los criterios de enfoque ecosistémico pesquero y buenas prácticas pesqueras y orientarse a materializar los principios de seguridad alimentaria, aprovechamiento sostenible, precautoriedad, interés social y sostenibilidad integral.
 
 (Modificado por el Art. 1 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.1.1.4 — Administración y manejo de los recursos pesqueros y de la Acuicultura
 
 La administración y manejo de los recursos pesqueros y de la acuicultura una vez establecidas las especies aprovechables, corresponden exclusivamente a la Autoridad Nacional de Acuicultura y Pesca (AUNAP), quien podrá delegar esta facultad de conformidad con lo establecido en el artículo 9 de la ley 489 de 1998, dando cumplimiento a las disposiciones contenidas en la Ley 13 de 1990 y demás normas aplicables, de conformidad con la Política Integral para el desarrollo de la Pesca en Colombia y el Plan Nacional para el Desarrollo de la Acuicultura Sostenible en Colombia - PlaNDAS.
 
 (Modificado por el Art. 1 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.1.1.5 — Medidas de Administración Ordenación y Fomento
 
@@ -22713,23 +19957,17 @@ PARÁGRAFO . En el caso de la acuicultura y la pesca industrial, se podrán impl
 
 (Adicionado por el Art. 1 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.1.1.6 — Enfoque Ecosistémico Pesquero
 
 La Autoridad Nacional de Pesca y Acuicultura promoverá y apelará al Enfoque Ecosistémico Pesquero, entendido como un marco de intervención que considera aspectos propios de la pesquería e incorpora el entorno y las relaciones de las especies, que en su conjunto soportan la oferta natural de recursos susceptibles de ser aprovechados; todo bajo una gestión que tiene como eje el componente socioeconómico vinculado con la actividad pesquera, para que esta se desarrolle de manera sostenible, a través de la adopción de medidas de Administración, Ordenación, Fomento, Control y Vigilancia.
 
 (Adicionado por el Art. 1 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.1.1.7 — Conflicto de derechos
 
 Cuando la aplicación de la Ley 13 de 1990, resultaren en conflicto los derechos de particulares con la necesidad reconocida por la misma ley, el interés privado deberá ceder al interés público o social.
 
 (Adicionado por el Art. 1 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.1.1.8 — Opción preferencial de los colombianos
 
@@ -22743,15 +19981,11 @@ CAPÍTULO 2
 
 Del Procedimiento para diferenciar los recursos pesqueros de los recursos hidrobiológicos y de la clasificación de la pesca
 
-ARTÍCULO
-
 ## art:2.16.1.2.1 — Comité Ejecutivo para la Pesca
 
 Con el fin de definir las especies, los volúmenes susceptibles de ser aprovechados y las tallas mínimas permisibles, conforme a lo dispuesto en el artículo 7 de la Ley 13 de 1990, crease el Comité Ejecutivo para la Pesca, integrado por el Director de Cadenas Pecuarias, Pesqueras y Acuícolas del Ministerio de Agricultura y Desarrollo Rural o su delegado, quien lo preside, el Director de Bosques Biodiversidad y Servicios Ecosistémicos, (sic) del Ministerio de Ambiente y Desarrollo Sostenible o su delegado, el Director de la Autoridad Nacional de Acuicultura y Pesca AUNAP o su delegado. El Comité se dará su propio reglamento, el cual debe ser aprobado por el Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 2256 de 1991, art.5)
-
-ARTÍCULO
 
 ## art:2.16.1.2.2 — Reunión
 
@@ -22765,23 +19999,17 @@ Adicional a lo anterior, el Comité se reunirá con los fines indicados anterior
 
 (Decreto 2256 de 1991, art. 6, modificado por el Decreto 1431 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.16.1.2.3 — Actuación del Comité
 
 El Comité procederá con base en las mejores evidencias científicas y teniendo en cuenta la información y datos estadísticos confiables que posean las entidades públicas y privadas vinculadas a la actividad pesquera.
 
 (Decreto 2256 de 1991, art. 7)
 
-ARTÍCULO
-
 ## art:2.16.1.2.4 — Cuotas razonables de pesca
 
 Cuando no se conozca el potencial de una especie, la AUNAP, con base en la información de que disponga, propondrá al Comité Ejecutivo para la Pesca, la definición de una cuota razonable que permita conocer, mediante un esfuerzo pesquero controlado, el máximo rendimiento sostenible de la especie.
 
 (Decreto 2256 de 1991, art.8)
-
-ARTÍCULO
 
 ## art:2.16.1.2.5 — Cuotas globales de pesca
 
@@ -22791,15 +20019,11 @@ Salvo lo dispuesto en los tratados internacionales que suscriba el Gobierno Naci
 
 (Decreto 2256 de 1991, art. 9, modificado por el Decreto 1431 de 2006, art. 2)
 
-ARTÍCULO
-
 ## art:2.16.1.2.6 — Distribución de la cuota global de pesca
 
 La AUNAP, mediante acto administrativo, distribuirá a más tardar el diez (10) de septiembre de cada año la cuota global de pesca establecida por el Ministerio de Agricultura y Desarrollo Rural, señalando el porcentaje de la misma que se destinará a la pesca artesanal, a la pesca industrial y a una reserva con destino a nuevos usuarios, cuando la magnitud del recurso lo permita.
 
 (Decreto 2256 de 1991, art. 10)
-
-ARTÍCULO
 
 ## art:2.16.1.2.7 — Distribución de la cuota de pesca
 
@@ -22822,8 +20046,6 @@ La AUNAP, con base en las cuotas globales de pesca establecidas por el Ministeri
 (Modificado por el Art. 2 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 11)
-
-ARTÍCULO
 
 ## art:2.16.1.2.8 — Clasificación de la pesca
 
@@ -22867,15 +20089,11 @@ PARÁGRAFO . Para los efectos de la presente Parte, se considera empresa artesan
 
 (Decreto 2256 de 1991, art. 12)
 
-ARTÍCULO
-
 ## art:2.16.1.2.9 — Artes de Pesca Artesanal
 
 La AUNAP definirá periódicamente los sistemas, artes y métodos menores de pesca que corresponden a la pesca artesanal.
 
 (Decreto 2256 de 1991, art. 13)
-
-ARTÍCULO
 
 ## art:2.16.1.2.12 — Artes de Pesca Artesanal
 
@@ -22887,8 +20105,6 @@ TÍTULO 2
 
 Conformación del Subsector Pesquero
 
-ARTÍCULO
-
 ## art:2.16.2.1 — Subsector pesquero y de la acuicultura
 
 El Subsector Pesquero está conformado por los organismos a que se refieren los artículos 9 y 10 de la Ley 13 de 1990.
@@ -22896,8 +20112,6 @@ El Subsector Pesquero está conformado por los organismos a que se refieren los 
 (Modificado por el Art. 3 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 14)
-
-ARTÍCULO
 
 ## art:2.16.2.2 — Jurisdicción
 
@@ -22910,8 +20124,6 @@ La AUNAP tendrá jurisdicción en todo el territorio nacional. En consecuencia, 
 3. La Zona Económica Exclusiva.
 
 (Decreto 2256 de 1991, art. 15)
-
-ARTÍCULO
 
 ## art:2.16.2.3 — Delegación de funciones
 
@@ -22929,8 +20141,6 @@ CAPÍTULO 1
 
 DE LAS ACTIVIDADES COMUNES PARA LA PESCA Y LA ACUICULTURA
 
-ARTÍCULO
-
 ## art:2.16.3.1.1 — Investigación pesquera y de la acuicultura
 
 Entiéndase por investigación pesquera y/o de la acuicultura, según corresponda, los estudios, trabajos y experimentos que se realicen con el objeto de mejorar el conocimiento de las especies para la extracción, el procesamiento, la comercialización y el cultivo de los recursos pesqueros y acuícolas, perfeccionando métodos o modificando los existentes, incluyendo mejoramiento genético. La investigación puede incluir operaciones de pesca experimental tendientes al conocimiento de nuevas especies, su dinámica poblacional, áreas de pesca, tipos de embarcación, métodos o artes de pesca, así como del sistema socio ecológico de la pesca.
@@ -22938,8 +20148,6 @@ Entiéndase por investigación pesquera y/o de la acuicultura, según correspond
 PARÁGRAFO . Los particulares, que previo el cumplimiento de los requisitos establecidos por las autoridades competentes colombianas, adquieran paquetes tecnológicos validados por entidades competentes nacionales o internacionales de acuicultura marina y continental para su explotación comercial, podrán compartir los resultados de la implementación con la AUNAP.
 
 (Adicionado y modificado por el Art. 4 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.3.1.2 — Finalidad de la investigación
 
@@ -22953,8 +20161,6 @@ Sin perjuicio de lo previsto en el artículo 26 de la ley 13 de 1990, la investi
 
 (Adicionado y modificado por el Art. 4 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.3.1.3 — Requisitos persona natural
 
 Para que una persona natural pueda realizar pesca de investigación, debe cumplir uno cualquiera de los siguientes requisitos:
@@ -22966,8 +20172,6 @@ Para que una persona natural pueda realizar pesca de investigación, debe cumpli
 3. Ser persona de probada experiencia o reconocida capacidad en la investigación.
 
 (Adicionado y modificado por el Art. 4 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.3.1.4 — Investigación por parte de persona jurídica
 
@@ -22985,8 +20189,6 @@ Las personas jurídicas podrán realizar investigaciones en el ámbito del Subse
 
 (Adicionado y modificado por el Art. 4 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.3.1.5 — Acciones para promover la investigación en pesca y acuicultura
 
 La AUNAP adelantará directamente las investigaciones que considere necesario realizar para la ejecución del Plan Nacional de Desarrollo Pesquero, y el Plan Nacional para el Desarrollo de la Acuicultura Sostenible - PlaNDAS igualmente, promoverá la investigación mediante las siguientes acciones:
@@ -23001,13 +20203,11 @@ La AUNAP adelantará directamente las investigaciones que considere necesario re
 
 (Adicionado y modificado por el Art. 4 del Decreto 1835 de 2021)
 
-ARTÍCULO
+## art:2.16.3.1.6 — 
 
 . 2.16.3.1.6. Coordinación. Para los efectos del artículo 27 de la Ley 13 de 1990 y con el fin de lograr la integración y la racionalización de las investigaciones para el desarrollo pesquero y de la acuicultura, la AUNAP se coordinará con las entidades del orden nacional y territorial
 
 (Adicionado y modificado por el Art. 4 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.3.1.7 — Seguimiento a los bienes y/o suministros dados en calidad de fomento
 
@@ -23021,8 +20221,6 @@ CAPÍTULO 2
 
 De la Extracción
 
-ARTÍCULO
-
 ## art:2.16.3.2.1 — Extracción
 
 La extracción está sujeta a las disposiciones de la Ley 13 de 1990 y a las de la presente Parte, cuando se efectúa:
@@ -23035,15 +20233,11 @@ La extracción está sujeta a las disposiciones de la Ley 13 de 1990 y a las de 
 
 (Decreto 2256 de 1991, art. 25)
 
-ARTÍCULO
-
 ## art:2.16.3.2.2 — Autorización Artes y Aparejos
 
 La AUNAP, con base en las evidencias científicas disponibles y teniendo en cuenta la información y datos estadísticos confiables que posean las entidades públicas y privadas vinculadas a la actividad pesquera, así como factores socioeconómicos, determinará y autorizará periódicamente, mediante Resolución para cada tipo de embarcaciones, arte y aparejos, con el fin de no exceder las cuotas de captura permisible que se establezcan.
 
 (Decreto 2256 de 1991, art. 26)
-
-ARTÍCULO
 
 ## art:2.16.3.2.3 — Extracción artesanal
 
@@ -23051,15 +20245,11 @@ La extracción artesanal estará orientada de preferencia, pero no exclusivament
 
 (Decreto 2256 de 1991, art. 27)
 
-ARTÍCULO
-
 ## art:2.16.3.2.4 — Extracción comercial industrial
 
 La extracción comercial industrial podrá realizarse con embarcaciones de bandera colombiana o de bandera extranjera. Estas últimas deberán operar mediante contrato de afiliación o fletamento con una empresa pesquera colombiana titular de permiso de pesca. También podrá realizarse esta extracción mediante asociación con la AUNAP en los términos señalados en el artículo 2.16.5.4.1, del presente decreto, utilizando embarcaciones de bandera nacional o de bandera extranjera.
 
 (Decreto 2256 de 1991, art. 28)
-
-ARTÍCULO
 
 ## art:2.16.3.2.5 — Extracción pesquera industrial marina
 
@@ -23068,8 +20258,6 @@ Las personas que pretendan realizar labores de extracción pesquera industrial m
 (Modificado por el Art. 5 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 29)
-
-ARTÍCULO
 
 ## art:2.16.3.2.6 — Aprobación de exportación de excedentes
 
@@ -23081,23 +20269,17 @@ CAPÍTULO 3
 
 Procesamiento
 
-ARTÍCULO
-
 ## art:2.16.3.3.1 — Normas técnicas
 
 La AUNAP promoverá el establecimiento de normas técnicas referentes a los procesos y operaciones unitarias de tas diversas actividades industriales pesqueras que contribuyan a mejorar la eficiencia de las plantas de procesamiento de productos pesqueros.
 
 (Decreto 2256 de 1991, art. 31)
 
-ARTÍCULO
-
 ## art:2.16.3.3.2 — Actividades no consideradas de procesamiento
 
 Sin perjuicio de lo dispuesto en el artículo 33 de la Ley 13 de 1990 y para los efectos de esta Parte, no se consideran actividades de procesamiento la simple conservación de un producto pesquero, ni los actos encaminados a mantenerlo o preservarlo antes de ser procesado o consumido sin modificaren forma aparente sus características originales. En consecuencia, tampoco se consideran actividades de procesamiento la simple conservación en frío o enhielo y el congelamiento de los productos pesqueros.
 
 (Decreto 2256 de 1991, art. 32)
-
-ARTÍCULO
 
 ## art:2.16.3.3.3 — Procesamiento de productos pesqueros
 
@@ -23113,23 +20295,17 @@ Para los efectos de este artículo, son plantas procesadoras fijas flotantes, aq
 
 (Decreto 2256 de 1991, art.33)
 
-ARTÍCULO
-
 ## art:2.16.3.3.4 — Producción de harina de pescado
 
 La harina de pescado se elaborará utilizando los excedentes y desperdicios resultantes del procesamiento de los recursos para consumo humano directo, así como con especies que no se puedan emplear para tal consumo. La AUNAP determinará las especies susceptibles de aprovecharse para la producción de harina.
 
 (Decreto 2256 de 1991, art. 34)
 
-ARTÍCULO
-
 ## art:2.16.3.3.5 — Cumplimiento de disposiciones sanitarias
 
 La operación o funcionamiento de las factorías de procesamiento de productos pesqueros y acuícolas y tas condiciones del procesamiento, deben cumplir las disposiciones sanitarias vigentes.
 
 (Decreto 2256 de 1991, art. 35)
-
-ARTÍCULO
 
 ## art:2.16.3.3.6 — Desecho de productos pesqueros y/o de la acuicultura
 
@@ -23145,15 +20321,11 @@ CAPÍTULO 4
 
 COMERCIALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.16.3.4.1 — Comercialización y consumo de productos pesqueros y de la acuicultura
 
 En coordinación con las demás entidades competentes, corresponde a la AUNAP promover la comercialización y el consumo de los productos pesqueros y de la acuicultura.
 
 (Sustituido por el Art. 7 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.3.4.2 — Establecimiento de las cuotas del producto de la pesca
 
@@ -23163,23 +20335,17 @@ En los permisos que otorgue la AUNAP se establecerá en forma equitativa el porc
 
 (Sustituido por el Art. 7 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.3.4.3 — Importación y Exportación
 
 Para efectos de aprobación de una importación o exportación de productos pesqueros, el Ministerio de Comercio, Industria y Turismo de Colombia y la Dirección de Impuestos y Aduanas Nacionales exigirán el visto bueno previo de la AUNAP o de la entidad delegataria, de conformidad con lo establecido en el artículo 5 del Decreto 4181 de 2011.
 
 (Sustituido por el Art. 7 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.3.4.4 — Permiso de comercialización de ejemplares vivos
 
 Las personas que comercialicen ejemplares vivos de especies pesqueras requieren el permiso de comercialización previsto en los artículos 2. 16.5.2.8. 1. y siguientes del presente decreto. Los que comercialicen otros productos pesqueros deberán atender la reglamentación que para estos efectos expida la AUNAP. En todo caso, la comercialización de productos pesqueros está sujeta a las disposiciones sanitarias que regulan la materia.
 
 (Sustituido por el Art. 7 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.3.4.5 — Venta de productos altamente perecederos
 
@@ -23199,57 +20365,39 @@ CAPITULO 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.16.4.1.1 — Zona de Vocación para la Acuicultura
 
 Para los efectos del artículo 46 de la Ley 13 de 1990, se considerará Zona con Vocación para la Acuicultura aquella que reúne las condiciones científicas, ecológicas y técnicas para el cultivo de especies acuáticas.
 
 La AUNAP identificará las zonas con vocación para la acuicultura en atención a las necesidades del desarrollo acuícola nacional, en coordinación con la Unidad de Planificación Rural Agropecuaria, UPRA.
 
-ARTÍCULO
-
 ## art:2.16.4.1.2 — Áreas de vocación para la acuicultura continental de uso público
 
 Las áreas de uso público definidas por el Ministerio de Agricultura y Desarrollo Rural como de vocación para la acuicultura continental se aprovecharán preferentemente por los pescadores artesanales jurídicamente organizados, independientemente o asociados con la AUNAP.
-
-ARTÍCULO
 
 ## art:2.16.4.1.3 — Cultivo de especies nativas y foráneas
 
 Se podrán cultivar todas las especies nativas y las foráneas introducidas o aquellas cuya introducción acuerden conjuntamente el Ministerio de Ambiente y Desarrollo Sostenible y la AUNAP.
 
-ARTÍCULO
-
 ## art:2.16.4.1.4 — Recolección de semillas y extracción de reproductores del medio natural
 
 La recolección de semillas y la extracción de reproductores del medio natural serán autorizadas por la AUNAP. Así mismo, la AUNAP establecerá el estadio de desarrollo, cantidad, modalidad y períodos de recolección, con base en las evidencias científicas disponibles, en la necesidad de conservación del recurso y en los requerimientos de la actividad acuícola.
-
-ARTÍCULO
 
 ## art:2.16.4.1.5 — Prelación para obtener semillas de bancos naturales
 
 Los pescadores artesanales, individualmente u organizados en empresas, cooperativas o en otras modalidades asociativas, tendrán prelación para obtener semillas de bancos naturales.
 
-ARTÍCULO
-
 ## art:2.16.4.1.6 — Repoblamiento
 
 La AUNAP realizará y promoverá acciones de repoblamiento en aquellas áreas naturales que lo requieran, utilizando preferentemente las especies nativas de cada región. Igualmente, la AUNAP podrá establecer a cargo de los titulares de permiso de acuicultura que utilizan semilla del medio natural, la obligación de destinar un porcentaje de sus cosechas para acciones de repoblamiento.
-
-ARTÍCULO
 
 ## art:2.16.4.1.7 — Autorización
 
 En concordancia con lo dispuesto por el numeral 6 del artículo 47 de la Ley 13 de 1990, para la importación de ovas embrionadas, larvas, post-larvas, alevinos y reproductores de especies hidrobiológicas con fines de acuicultura, se requiere autorización de la AUNAP. La AUNAP evaluará periódicamente la necesidad de importar material biológico como semilla, de acuerdo con la oferta nacional, y establecerá el procedimiento para el otorgamiento de las autorizaciones a que se refiere el presente artículo.
 
-ARTÍCULO
-
 ## art:2.16.4.1.8 — Estaciones para la investigación
 
 La AUNAP promoverá la instalación y funcionamiento de estaciones o centros de producción para la investigación o fomento de la acuicultura.
-
-ARTÍCULO
 
 ## art:2.16.4.2 — Clasificación de la acuicultura
 
@@ -23309,15 +20457,11 @@ La Acuicultura, en el marco de las competencias de la AUNAP, se clasifica:
 
 (Modificado parcialmente, por el Art. 8 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.4.4 — Áreas de vocación para la acuicultura continental de uso público
 
 Sin menoscabo de lo establecido en el artículo 69 de la ley 160 de 1994, las áreas de uso público definidas como de vocación para la acuicultura continental por el Ministerio de Agricultura y Desarrollo Rural o quien haga sus veces, se aprovecharán por quienes evidencien la capacidad de ejercicio de la actividad y se encuentren jurídicamente formalizados, preferentemente por acuicultores y pescadores artesanales. Para el uso de estas áreas, el interesado deberá contar con previo concepto favorable de la AUNAP.
 
 (Modificado parcialmente, por el Art. 8 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.4.5 — Recolección y extracción de reproductores del medio natural
 
@@ -23325,15 +20469,11 @@ La recolección y la extracción de reproductores del medio natural serán autor
 
 (Modificado parcialmente, por el Art. 8 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.4.6 — Repoblamiento
 
 La AUNAP realizará y promoverá acciones de repoblamiento en aquellas áreas naturales que Jo requieran, utilizando especies nativas de cada región. Igualmente, la AUNAP podrá establecer, a cargo de los titulares de los permisos de acuicultura que extraigan reproductores del medio natural, la obligación de destinar un porcentaje de sus producciones para acciones de repoblamiento.
 
 (Modificado parcialmente, por el Art. 8 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.4.7 — Importación de recursos y especies para la acuicultura
 
@@ -23345,8 +20485,6 @@ CAPÍTULO 2
 
 Acuicultura Con Especies Objeto De Domesticación
 
-ARTÍCULO
-
 ## art:2.16.4.2.1 — Declaración de domesticación
 
 La Autoridad Nacional de Acuicultura y Pesca- AUNAP o la entidad que haga sus veces, podrá declarar como domesticadas para el desarrollo de la actividad de la acuicultura, mediante acto administrativo fundado en consideraciones técnicas, las especies de peces que hayan sido introducidas al territorio nacional, sin perjuicio de las normas legales vigentes sobre bioseguridad, salud pública y sanidad animal.
@@ -23357,8 +20495,6 @@ Así mismo, el Ministerio de Ambiente y Desarrollo Sostenible establecerá de ma
 
 PARÁGRAFO . Las especies declaradas como domesticadas no se consideraran especies invasoras.
 
-ARTÍCULO
-
 ## art:2.16.4.2.2 — Medidas de Manejo
 
 Las declaratorias de especies domesticadas que pretenda realizar la Autoridad de Acuicultura y Pesca- AUNAP deberán tener en cuenta las medidas de bioseguridad que permitan minimizar los riesgos de escape de especímenes a cuerpos de agua en el desarrollo de las actividades.
@@ -23366,8 +20502,6 @@ Las declaratorias de especies domesticadas que pretenda realizar la Autoridad de
 En todo caso, quedan prohibidas las actividades de liberación y/o repoblamiento con las especies que sean declaradas como domésticas por parte de la AUNAP. Así mismo, solo se podrá desarrollar la acuicultura con especies domesticadas en espacios confinados.
 
 En el evento que en el desarrollo de la acuicultura se evidenciare un daño a los ecosistemas, la Autoridad de Acuicultura y Pesca- AUNAP deberá tomar las medidas pertinentes para conjurar dicho daño e informar inmediatamente a las Autoridades Ambientales con jurisdicción en el área, con el objeto de lograr la recuperación de los recursos naturales afectados.
-
-ARTÍCULO
 
 ## art:2.16.4.2.3 — Permisos para el desarrollo de actividades de acuicultura
 
@@ -23377,13 +20511,9 @@ PARÁGRAFO 1. Para el ejercicio de las actividades de acuicultura de que trata e
 
 PARÁGRAFO 2. Solo podrán desarrollarse las actividades de qué trata el presente Capítulo en aquellas zonas con vocación para la acuicultura que reúnan las condiciones científicas, ecológicas y técnicas para el cultivo de especies acuáticas.
 
-ARTÍCULO
-
 ## art:2.16.4.2.4 — Seguimiento y control
 
 La AUNAP es la entidad competente para realizar el seguimiento y control a las actividades de acuicultura relacionadas con las especies que sean declaradas como domesticadas.
-
-ARTÍCULO
 
 ## art:2.16.4.2.5 — Sanciones
 
@@ -23399,8 +20529,6 @@ CAPÍTULO 1
 
 Ejercicio de la pesca por ministerio de la ley
 
-ARTÍCULO
-
 ## art:2.16.5.1.1 — Pesca de subsistencia
 
 La pesca de subsistencia es libre en todo el territorio nacional y, en consecuencia, no requiere permiso. En ningún caso los diferentes permisos, patentes o autorizaciones que se otorguen conferirán a sus titulares derechos que impidan u obstaculicen el ejercicio de la pesca de subsistencia.
@@ -23412,8 +20540,6 @@ La AUNAP podrá delimitar áreas en las cuales solo se podrá ejercer la pesca d
 CAPÍTULO 2
 
 Permisos para ejercer la actividad pesquera
-
-ARTÍCULO
 
 ## art:2.16.5.2.1 — Solicitud de Permiso de pesca y de acuicultura
 
@@ -23427,8 +20553,6 @@ Si el solicitante fuere persona jurídica extranjera, se le podrá otorgar el pe
 
 (Decreto 2256 de 1991, art. 53)
 
-ARTÍCULO
-
 ## art:2.16.5.2.2 — Otorgamiento de permiso
 
 De conformidad con lo establecido en el artículo 17 del decreto 4181 de 2011, la AUNAP otorgará los permisos para ejercer la actividad pesquera y la actividad de la acuicultura.
@@ -23437,23 +20561,17 @@ De conformidad con lo establecido en el artículo 17 del decreto 4181 de 2011, l
 
 (Decreto 2256 de 1991, art. 54)
 
-ARTÍCULO
-
 ## art:2.16.5.2.3 — Carácter intransferible de los permisos
 
 Los permisos a que se refiere el presente capítulo son intransferibles. La enajenación a cualquier título de embarcaciones, aparejos, establecimientos o instalaciones, no implica la transferencia del permiso de que sea titular la persona que enajena.
 
 (Decreto 2256 de 1991, art. 55)
 
-ARTÍCULO
-
 ## art:2.16.5.2.4 — 2.4
 
 Los permisos cuya duración sea superior a un (1) año, serán revisados por la AUNAP anualmente para verificar el cumplimiento de las obligaciones a cargo de su titular, especialmente las relacionadas con la presentación de informes, para fijar la cuota de pesca y el valor de las tasas y derechos que debe pagar el titular del permiso por el correspondiente período.
 
 (Decreto 2256 de 1991, art. 56)
-
-ARTÍCULO
 
 ## art:2.16.5.2.5 — Contenido del acto administrativo que otorga permiso
 
@@ -23481,15 +20599,11 @@ En el acto administrativo que otorgue un permiso se determinará, cuando menos:
 
 (Decreto 2256 de 1991, art. 57)
 
-ARTÍCULO
-
 ## art:2.16.5.2.6 — Condicionamiento de la vigencia de las cuotas autorizadas en los permisos
 
 En todo caso, la vigencia de las cuotas autorizadas en los permisos queda condicionada a la disponibilidad delos recursos pesqueros, de manera que podrán ser modificadas cuando se presenten variaciones en las condiciones biológico-pesqueras que dieron origen a su expedición. Así mismo, podrán suspenderse, previo estudio de la información disponible cuando se presenten motivos que así lo ameriten.
 
 (Decreto 2256 de 1991, art. 58)
-
-ARTÍCULO
 
 ## art:2.16.5.2.7 — Declaración de sobreexplotación de un recurso pesquero
 
@@ -23505,15 +20619,11 @@ PARÁGRAFO . Para la pesca artesanal y de subsistencia, la AUNAP mediante acto a
 
 (Decreto 2256 de 1991, art. 59)
 
-ARTÍCULO
-
 ## art:2.16.5.2.8 — Permiso para embarcaciones mayores de tres (3) toneladas
 
 Cuando el titular de permiso de pesca, requiera el uso de embarcaciones mayores de tres (3) toneladas de registro neto, éstas deberán estar amparadas por la correspondiente patente de pesca, conforme a las disposiciones de la presente Parte.
 
 (Decreto 2256 de 1991, art. 60)
-
-ARTÍCULO
 
 ## art:2.16.5.2.9 — Clases de permisos
 
@@ -23547,8 +20657,6 @@ SECCIÓN 1
 
 Permiso de pesca comercial artesanal
 
-ARTÍCULO
-
 ## art:2.16.5.2.1.1 — Permiso de Pesca Comercial Artesanal
 
 Para obtener permiso de pesca comercial artesanal, las personas naturales, las empresas pesqueras artesanales y las asociaciones de pescadores artesanales, deberán presentar solicitud con los requisitos que establezca la AUNAP.
@@ -23560,8 +20668,6 @@ Este permiso no genera tasa.
 (Modificado por el Art. 10 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 62)
-
-ARTÍCULO
 
 ## art:2.16.5.2.1.2 — Características del permiso de pesca comercial artesanal
 
@@ -23583,8 +20689,6 @@ La comercialización de los productos pesqueros quedará amparada con el mismo p
 
 (Decreto 2256 de 1991, art. 63)
 
-ARTÍCULO
-
 ## art:2.16.5.2.1.3 — Reserva de áreas para el ejercicio exclusivo de la pesa comercial artesanal
 
 La AUNAP, de conformidad con lo dispuesto en el numeral 3 del artículo 51 de la Ley 13 de 1990, podrá reservar áreas para el ejercicio exclusivo de la pesca comercial artesanal, cuando los pescadores beneficiarios demuestren su capacidad para aprovechar efectivamente los recursos pesqueros existentes en dichas áreas, en forma racional.
@@ -23595,15 +20699,11 @@ La AUNAP podrá levantar la reserva cuando compruebe que los pescadores benefici
 
 (Decreto 2256 de 1991, art. 64)
 
-ARTÍCULO
-
 ## art:2.16.5.2.1.4 — Delimitación de área
 
 La delimitación de un área para la pesca comercial artesanal no significa que los pescadores artesanales de la región deban restringir sólo a ella sus actividades.
 
 (Decreto 2256 de 1991, art. 65)
-
-ARTÍCULO
 
 ## art:2.16.5.2.1.5 — Aprovechamiento de recursos pesqueros
 
@@ -23617,8 +20717,6 @@ SECCIÓN 2
 
 Permiso de pesca comercial industrial
 
-ARTÍCULO
-
 ## art:2.16.5.2.2.1 — Pesca comercial industrial
 
 La pesca comercial industrial en aguas jurisdiccionales solo podrá llevarse a cabo con embarcaciones de bandera colombiana, o de bandera extranjera cuando hayan sido contratadas por empresas pesqueras colombianas que descarguen su producción en puerto colombiano en los porcentajes que señale la AUNAP.
@@ -23627,15 +20725,11 @@ La pesca comercial industrial en aguas jurisdiccionales solo podrá llevarse a c
 
 (Decreto 2256 de 1991, art.67)
 
-ARTÍCULO
-
 ## art:2.16.5.2.2.2 — Permiso
 
 Para obtener el permiso de pesca comercial industrial, el peticionario deberá acompañar a su solicitud el plan de actividades en los términos y con los requisitos que establezca la AUNAP.
 
 (Decreto 2256 de 1991, art. 68)
-
-ARTÍCULO
 
 ## art:2.16.5.2.2.3 — Término del permiso
 
@@ -23661,23 +20755,17 @@ SECCIÓN 3
 
 Permiso de pesca comercial exploratoria
 
-ARTÍCULO
-
 ## art:2.16.5.2.3.1 — Objeto de la Pesca Comercial Exploratoria
 
 La pesca comercial exploratoria es aquella que tiene por objeto la captura de especies cuyo potencial de aprovechamiento comercial se desconoce o la utilización de nuevas artes o métodos pesqueros para ejercer la pesca comercial, con embarcaciones de bandera nacional o de bandera extranjera.
 
 (Decreto 2256 de 1991, art. 71)
 
-ARTÍCULO
-
 ## art:2.16.5.2.3.2 — Requisitos
 
 La AUNAP establecerá los requisitos que deben cumplirse para solicitar permiso de pesca comercial exploratoria y el contenido del plan de actividades que se debe acompañar a la solicitud.
 
 (Decreto 2256 de 1991, art. 72)
-
-ARTÍCULO
 
 ## art:2.16.5.2.3.3 — Permiso pesca comercial exploratoria
 
@@ -23689,8 +20777,6 @@ SECCIÓN 4
 
 Permiso de pesca comercial ornamental
 
-ARTÍCULO
-
 ## art:2.16.5.2.4.1 — Pesca comercial ornamental
 
 La pesca comercial ornamental es aquella que tiene por objeto la extracción de organismos acuáticos cuyos ejemplares pueden mantenerse vivos en acuarios, estanques o pozos, como simple adorno.
@@ -23699,15 +20785,11 @@ No se pueden aprovechar como ornamentales las especies que tradicionalmente sirv
 
 (Decreto 2256 de 1991, art. 74)
 
-ARTÍCULO
-
 ## art:2.16.5.2.4.2 — Restricciones
 
 Sólo podrá realizarse la extracción de especies ornamentales mediante la obtención de permiso de pesca comercial artesanal en la forma prevista de los artículos 2.16.5.2.1.1. y siguientes del presente decreto. Este permiso faculta a su titular para comercializar libremente los productos con sujeción a las disposiciones del presente Decreto.
 
 (Decreto 2256 de 1991, art. 75)
-
-ARTÍCULO
 
 ## art:2.16.5.2.4.3 — Permiso de Comercialización Ornamental
 
@@ -23721,8 +20803,6 @@ SECCIÓN 5
 
 PERMISO DE INVESTIGACIÓN
 
-ARTÍCULO
-
 ## art:2.16.5.2.5.1 — Permiso
 
 A la pesca o acuicultura de investigación tiene derecho cualquier persona natural o jurídica, nacional o extranjera, de acuerdo con lo previsto en los artículos 2.16.3.1.3. y 2.16.3.1.4. del presente decreto y previa obtención del correspondiente permiso otorgado por la AUNAP. También podrá ejercerse mediante asociación con la AUNAP, conforme a lo previsto en el artículo 2.16.5.4.1. del presente decreto. Para obtener permiso de pesca o acuicultura de investigación, el peticionario deberá acompañar a su solicitud el correspondiente plan de investigación, en los términos y con los requisitos que establezca la AUNAP mediante acto administrativo.
@@ -23730,8 +20810,6 @@ A la pesca o acuicultura de investigación tiene derecho cualquier persona natur
 (Modificado por el Art. 12 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 77)
-
-ARTÍCULO
 
 ## art:2.16.5.2.5.2 — Contenido del permiso
 
@@ -23757,8 +20835,6 @@ El permiso de pesca de investigación, se otorgará por un término hasta de cin
 
 (Decreto 2256 de 1991, art. 78)
 
-ARTÍCULO
-
 ## art:2.16.5.2.5.3 — Excedente de los productos
 
 El excedente de los productos que se obtengan de la pesca de investigación, será entregado a la AUNAP, para ser colocado en el mercado interno o para ser donado a entidades públicas de beneficencia, en concordancia con lo previsto en el artículo 2.16.3.4.7. del presente decreto. La AUNAP decidirá, en cada caso, la conveniencia de la recepción de dicho excedente.
@@ -23771,23 +20847,17 @@ SECCIÓN 6
 
 PERMISO DE PESCA DEPORTIVA
 
-ARTÍCULO
-
 ## art:2.16.5.2.6.1 — 6.1
 
 Para obtener permiso de pesca deportiva, el interesado deberá presentar solicitud a la AUNAP, con los requisitos que ésta tenga establecidos. El permiso se otorgará hasta por cinco (5) años mediante la expedición de un carné que identifique a su titular. Este carné tendrá el carácter de personal e intransferible y en él se fijará su vigencia.
 
 (Modificado por el Art. 13 del Decreto 1835 de 2021)
 
-ARTÍCULO
-
 ## art:2.16.5.2.6.2 — Autorizaciones en pesca deportiva
 
 La AUNAP mediante acto administrativo, autorizará los concursos, áreas, especies, embarcaciones, épocas, sistemas, cantidades y demás aspectos relacionados con la actividad de pesca deportiva.
 
 (Modificado por el Art. 13 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.5.2.6.3 — Registro para exhibición y actividades similares con recursos pesqueros
 
@@ -23801,15 +20871,11 @@ SECCIÓN 7
 
 PERMISO DE PROCESAMIENTO
 
-ARTÍCULO
-
 ## art:2.16.5.2.7.1 — Permiso
 
 Para obtener permiso de procesamiento de recursos pesqueros, el interesado deberá presentar solicitud, acompañada del plan de actividades, en los términos y con los requisitos que establezca la AUNAP.
 
 (Decreto 2256 de 1991, art. 83)
-
-ARTÍCULO
 
 ## art:2.16.5.2.7.2 — Contenido del permiso
 
@@ -23831,23 +20897,17 @@ SECCIÓN 8
 
 Permiso de comercialización
 
-ARTÍCULO
-
 ## art:2.16.5.2.8.1 — Solicitud
 
 Para obtener permiso de comercialización, el interesado deberá presentar solicitud, acompañada del plan de actividades, en los términos y con los requisitos que establezca la AUNAP.
 
 (Decreto 2256 de 1991, art. 85)
 
-ARTÍCULO
-
 ## art:2.16.5.2.8.2 — Permiso
 
 El permiso de comercialización lo otorga la AUNAP hasta por el término de cinco (5) años, mediante acto administrativo que, además de lo previsto en el artículo 2.16.5.2.5. de este decreto, deberá especificar los ejemplares, su procedencia y destino final.
 
 (Decreto 2256 de 1991, art. 86)
-
-ARTÍCULO
 
 ## art:2.16.5.2.8.3 — Autorización
 
@@ -23859,23 +20919,17 @@ SECCIÓN 9
 
 Permiso integrado de pesca
 
-ARTÍCULO
-
 ## art:2.16.5.2.9.1 — Definición
 
 Considérese actividad integrada de pesca aquella que tiene como objeto principal la extracción y el procesamiento de recursos pesqueros con fines comerciales.
 
 (Decreto 2256 de 1991, art. 88)
 
-ARTÍCULO
-
 ## art:2.16.5.2.9.2 — Permiso
 
 El permiso integrado de pesca, se otorgará hasta por cinco (5) años mediante acto administrativo que deberá contener, por lo menos, lo previsto para los permisos de pesca comercial industrial o artesanal, según sea el caso, y para el de procesamiento
 
 (Decreto 2256 de 1991, art. 89)
-
-ARTÍCULO
 
 ## art:2.16.5.2.9.3 — Tratamiento preferencial
 
@@ -23887,8 +20941,6 @@ SECCIÓN 10
 
 Permiso de cultivo
 
-ARTÍCULO
-
 ## art:2.16.5.2.10.1 — Permiso
 
 Para realizar la acuicultura comercial, se requiere permiso. Para su obtención, el interesado deberá presentar a la AUNAP solicitud con los requisitos que ésta señale.
@@ -23896,8 +20948,6 @@ Para realizar la acuicultura comercial, se requiere permiso. Para su obtención,
 La AUNAP establecerá el procedimiento para autorizar la realización de actividades de acuicultura experimental o científica.
 
 (Decreto 2256 de 1991, art. 91)
-
-ARTÍCULO
 
 ## art:2.16.5.2.10.2 — Contenido del permiso de cultivo
 
@@ -23929,8 +20979,6 @@ La AUNAP otorgará el permiso a que se refiere el artículo 2. 16.5.2.10. 1, has
 
 (Decreto 2256 de 1991, art. 92)
 
-ARTÍCULO
-
 ## art:2.16.5.2.10.3 — Permisos para ejercer la acuicultura
 
 Para el ejercicio de la acuicultura el titular del permiso deberá solicitar a las entidades competentes los derechos de uso de terrenos, aguas, costas, playas o lechos de ríos o fondos marinos que sean necesarios para el desarrollo de la actividad.
@@ -23941,15 +20989,11 @@ CAPÍTULO 3
 
 Patente de pesca y de las embarcaciones pesqueras
 
-ARTÍCULO
-
 ## art:2.16.5.3.1 — Patente de pesca
 
 Para realizar faenas de pesca, toda embarcación mayor de tres (3) toneladas de registro neto debe estar amparada por la correspondiente patente de pesca que se expedirá únicamente a los titulares de permiso de pesca vigente y a los asociados con la AUNAP. Las embarcaciones menores de tres (3) toneladas de registro neto no requieren patente, pero deberán registrarse ante la AUNAP.
 
 (Decreto 2256 de 1991, art. 94)
-
-ARTÍCULO
 
 ## art:2.16.5.3.2 — Pesca que se puede ejercer en corrientes de agua dulce
 
@@ -23957,15 +21001,11 @@ En las corrientes de agua dulce, solo se puede ejercer la pesca con embarcacione
 
 (Decreto 2256 de 1991, art. 95)
 
-ARTÍCULO
-
 ## art:2.16.5.3.3 — Contratación de embarcaciones de bandera extranjera
 
 Las empresas pesqueras nacionales podrán contratar embarcaciones de bandera extranjera, de conformidad con lo establecido en el artículo 159 del Decreto Ley 2324 de 1984.
 
 (Decreto 2256 de 1991, art. 96)
-
-ARTÍCULO
 
 ## art:2.16.5.3.4 — Patente de pesca en el acto administrativo que concede el permiso
 
@@ -23974,8 +21014,6 @@ En los casos de pesca deportiva, si aplicare, y pesca de investigación, la pate
 (Modificado por el Art. 15 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 97)
-
-ARTÍCULO
 
 ## art:2.16.5.3.5 — Contenido de la patente de pesca
 
@@ -24001,23 +21039,17 @@ La AUNAP expedirá la patente de pesca mediante un certificado cuyo original deb
 
 (Decreto 2256 de 1991, art. 98)
 
-ARTÍCULO
-
 ## art:2.16.5.3.6 — Vigencia de la patente
 
 La patente de pesca tendrá vigencia hasta por un (1) año y su otorgamiento y renovación estarán condicionados a la vigencia del permiso de pesca y al pago de los derechos correspondientes. Además, su renovación estará sujeta al cumplimiento de las obligaciones relacionadas con la presentación de los informes periódicos exigidos en la patente y a la fijación de la cuota de pesca para el respectivo período.
 
 (Decreto 2256 de 1991, art. 99)
 
-ARTÍCULO
-
 ## art:2.16.5.3.7 — Restricciones de la patente
 
 En concordancia con lo dispuesto en el artículo 2.16.5.2.2.4. del presente decreto, la patente para la pesca marina será válida para operar en las aguas de un solo océano y en las zonas que en ella se autoricen. Sin embargo, por razones de temporada de pesca, o por tratarse de la captura de especies altamente migratorias, la AUNAP podrá expedir patente para operar en ambos océanos cuando así lo solicite el interesado.
 
 (Decreto 2256 de 1991, art. 100)
-
-ARTÍCULO
 
 ## art:2.16.5.3.8 — Renovación de flota pesquera
 
@@ -24035,23 +21067,17 @@ Cuando los titulares de permisos de pesca decidan renovar su flota pesquera reem
 
 (Decreto 2256 de 1991, art. 101)
 
-ARTÍCULO
-
 ## art:2.16.5.3.9 — Siniestro de embarcación
 
 Cuando una embarcación se pierda por siniestro, la AUNAP otorgará un plazo prudencial para su reposición, cumplido el cual si no se repone, el permisionario perderá la patente correspondiente.
 
 (Decreto 2256 de 1991, art. 102)
 
-ARTÍCULO
-
 ## art:2.16.5.3.10 — Responsabilidad solidaria
 
 Los titulares de permisos de pesca, los propietarios armadores, y los capitanes responderán solidariamente por las sanciones económicas que se impongan por infracciones en que hayan incurrido empleando las embarcaciones pesqueras a su cargo.
 
 (Decreto 2256 de 1991, art.103)
-
-ARTÍCULO
 
 ## art:2.16.5.3.11 — Cancelación o suspensión de la cuota y de la patente de pesca
 
@@ -24062,8 +21088,6 @@ La revocatoria, terminación o suspensión del permiso de pesca dará lugar a la
 CAPÍTULO 4
 
 Asociación
-
-ARTÍCULO
 
 ## art:2.16.5.4.1 — Asociatividad temporal
 
@@ -24099,23 +21123,17 @@ CAPÍTULO 5
 
 Concesión
 
-ARTÍCULO
-
 ## art:2.16.5.5.1 — Otorgamiento
 
 La AUNAP podrá otorgar concesiones a los pescadores artesanales jurídicamente organizados para el aprovechamiento comercial, en aguas continentales, de los recursos pesqueros existentes en un área determinada, cuando por razones de interés social se justifique.
 
 (Decreto 2256 de 1991, art. 106)
 
-ARTÍCULO
-
 ## art:2.16.5.5.2 — Permiso
 
 El término de una concesión no podrá ser mayor de veinte (20) años y podrá renovarse, previa evaluación de la AUNAP.
 
 (Decreto 2256 de 1991, art. 107)
-
-ARTÍCULO
 
 ## art:2.16.5.5.3 — Contenido de la concesión
 
@@ -24141,8 +21159,6 @@ La concesión se otorgará mediante contrato administrativo, cuyas cláusulas de
 
 (Decreto 2256 de 1991, art. 108)
 
-ARTÍCULO
-
 ## art:2.16.5.5.4 — Causales de caducidad
 
 Además de las contemplaciones en la legislación vigente, serán causales de caducidad las siguientes:
@@ -24161,8 +21177,6 @@ Además de las contemplaciones en la legislación vigente, serán causales de ca
 
 (Decreto 2256 de 1991, art. 109)
 
-ARTÍCULO
-
 ## art:2.16.5.5.5 — Uso de la concesión
 
 El uso de la concesión se hará de modo que no interrumpa el libre curso de las aguas, no impida la navegación ni los demás usos debidamente autorizados.
@@ -24172,8 +21186,6 @@ El uso de la concesión se hará de modo que no interrumpa el libre curso de las
 CAPÍTULO 6
 
 Autorización
-
-ARTÍCULO
 
 ## art:2.16.5.6.1 — Autorización
 
@@ -24185,15 +21197,11 @@ TÍTULO 6
 
 Tasas y Derechos
 
-ARTÍCULO
-
 ## art:2.16.6.1 — Ámbito de aplicación
 
 De conformidad con lo previsto en el artículo 48 de la Ley 13 de 1990, el ejercicio de la actividad pesquera está sujeto al pago de tasas y derechos.
 
 (Decreto 2256 de 1991, art. 112)
-
-ARTÍCULO
 
 ## art:2.16.6.2 — Cuantía y forma de pago de la tasa
 
@@ -24205,8 +21213,6 @@ La AUNAP determinará la cuantía y forma de pago de las tasas establecidas en e
 
 (Decreto 2256 de 1991, art. 113)
 
-ARTÍCULO
-
 ## art:2.16.6.3 — Excepción al pago de tasas
 
 El ejercicio de la acuicultura, que comprende las actividades de levante, engorde, recolección, procesamiento y comercialización, no está sujeto al pago de tasas y derechos.
@@ -24215,23 +21221,17 @@ La extracción de semillas y reproductores del medio natural con destino a la ac
 
 (Decreto 2256 de 1991, art. 114)
 
-ARTÍCULO
-
 ## art:2.16.6.4 — Exenciones
 
 Las actividades de extracción que realicen los titulares de permiso de pesca de investigación, cuando a juicio de la AUNAP sean de interés público, estarán exentas del pago de tasas y derechos.
 
 (Decreto 2256 de 1991, art. 115)
 
-ARTÍCULO
-
 ## art:2.16.6.5 — Pago de derechos por expedición de patentes de pesca
 
 La expedición de patentes de pesca dará lugar al pago de derechos. La AUNAP, establecerá el valor de tales derechos, tomando en cuenta las circunstancias previstas en el artículo 48 de la Ley 13 de 1990.
 
 (Decreto 2256 de 1991, art. 116)
-
-ARTÍCULO
 
 ## art:2.16.6.6 — Monto de las tasas y derechos
 
@@ -24249,8 +21249,6 @@ TÍTULO 7
 
 ARTES Y APAREJOS DE PESCA
 
-ARTÍCULO
-
 ## art:2.16.7.1 — Artes y aparejos de pesca
 
 Las artes y aparejos de pesca constituyen los instrumentos manuales o mecanizados destinados a la extracción de los recursos pesqueros.
@@ -24258,8 +21256,6 @@ Las artes y aparejos de pesca constituyen los instrumentos manuales o mecanizado
 La AUNAP determinará las características de los diferentes artes por región, o cuenca o pesquería.
 
 (Modificado por el Art. 16 del Decreto 1835 de 2021)
-
-ARTÍCULO
 
 ## art:2.16.7.2 — Autorización de uso de artes, aparejos y sistemas de pesca
 
@@ -24273,8 +21269,6 @@ TÍTULO 8
 
 VEDAS Y ÁREAS DE RESERVA
 
-ARTÍCULO
-
 ## art:2.16.8.1 — Definición
 
 Para los efectos del presente título, se denomina veda a la restricción total o temporal del aprovechamiento de una o más especies en un área determinada.
@@ -24285,15 +21279,11 @@ Igualmente, se denomina área de reserva la zona geográfica seleccionada y deli
 
 (Decreto 2256 de 1991, art.120)
 
-ARTÍCULO
-
 ## art:2.16.8.2 — Proposición de vedas
 
 En desarrollo de lo previsto en el numeral 11 del artículo 13, concordante con el artículo 51 de la Ley 13 de 1990, corresponde a la AUNAP proponer a la entidad estatal competente el establecimiento de vedas y la delimitación de áreas de reserva para los recursos pesqueros.
 
 (Decreto 2256 de 1991, art. 121)
-
-ARTÍCULO
 
 ## art:2.16.8.3 — Establecimiento de vedas
 
@@ -24307,8 +21297,6 @@ TÍTULO 9
 
 ASISTENCIA TÉCNICA PESQUERA Y ACUÍCOLA
 
-ARTÍCULO
-
 ## art:2.16.9.1 — Transferencia de tecnología pesquera y acuícola
 
 Corresponde a la AUNAP, de acuerdo con lo dispuesto en el Decreto 1946 de 1989 (por el cual se crea el Sistema Nacional de Transferencia de Tecnología Agropecuaria), transferir a los usuarios intermediarios, la tecnología pesquera y de la acuicultura que genere, valide o ajuste, sin perjuicio de prestar directamente a los usuarios finales el servicio de acompañamiento técnico en sus áreas especializadas.
@@ -24319,15 +21307,11 @@ En materia de pesca y acuicultura le corresponde a la AUNAP de manera gratuita d
 
 (Decreto 2256 de 1991, art. 124)
 
-ARTÍCULO
-
 ## art:2.16.9.2 — Asistencia técnica a la pesca industrial
 
 El servicio de asistencia técnica, que dentro del Sistema Nacional de Transferencia de Tecnología Agropecuaria, se preste a la pesca industrial, se regirá por las normas y disposiciones que al efecto establezcan el Ministerio de Agricultura y Desarrollo Rural y la AUNAP.
 
 (Decreto 2256 de 1991, art. 126)
-
-ARTÍCULO
 
 ## art:2.16.9.3 — Prestación del soporte técnico
 
@@ -24336,8 +21320,6 @@ El soporte técnico para la pesca y la acuicultura al que se refiere el artícul
 (Modificado por el Art. 18 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 127)
-
-ARTÍCULO
 
 ## art:2.16.9.4 — Soporte técnico para el ejercicio, otorgamiento de permisos y seguimiento de la actividad pesquera y de la acuicultura
 
@@ -24359,15 +21341,11 @@ TÍTULO 10
 
 REGISTRO GENERAL DE PESCA Y ACUICULTURA
 
-ARTÍCULO
-
 ## art:2.16.10.1 — Registro
 
 El Registro General de Pesca y Acuicultura es público y gratuito en lo que se refiere a las inscripciones que en él se hagan. Los actos de inscripción son obligatorios. Cualquier persona podrá obtener información sobre las inscripciones y la AUNAP deberá expedir las copias que expresamente se le soliciten.
 
 (Decreto 2256 de 1991, art. 129)
-
-ARTÍCULO
 
 ## art:2.16.10.2 — 0.2
 
@@ -24377,8 +21355,6 @@ Base de Datos de Registro de Permisos, Autorizaciones, Contratos de Asociación,
 
 (Decreto 2256 de 1991, art. 130)
 
-ARTÍCULO
-
 ## art:2.16.10.3 — Base de Datos de Registro de Embarcaciones Pesqueras
 
 En la base de datos denominada "Registro de Embarcaciones Pesqueras", se inscribirán estas, consignando las características generales de cada una, indicando el nombre de su propietario, armador, puerto de matrícula, número y vigencia de la patente de pesca cuando corresponda y demás información que determine la AUNAP.
@@ -24387,15 +21363,11 @@ En la base de datos denominada "Registro de Embarcaciones Pesqueras", se inscrib
 
 (Decreto 2256 de 1991, art. 131)
 
-ARTÍCULO
-
 ## art:2.16.10.4 — Constitución de hipoteca
 
 En garantía de créditos obtenidos por empresas pesqueras, o de cualquier obligación en general, podrá constituirse hipoteca sobre embarcaciones pesqueras. Los requisitos y efectos de esta clase de hipoteca se rigen por las normas pertinentes del Código de Comercio.
 
 (Decreto 2256 de 1991, art. 132)
-
-ARTÍCULO
 
 ## art:2.16.10.5 — Base de Datos de Registro de Establecimientos y Plantas Procesadoras
 
@@ -24405,8 +21377,6 @@ En la base de datos denominada "Registro de Establecimientos y Plantas Procesado
 
 (Decreto 2256 de 1991, art. 133)
 
-ARTÍCULO
-
 ## art:2.16.10.6 — Administración del registro
 
 La AUNAP adoptará las medidas para la organización y funcionamiento del registro a que se refiere el artículo 56 de la Ley 13 de 1990, teniendo en cuenta las disposiciones del presente Título.
@@ -24414,8 +21384,6 @@ La AUNAP adoptará las medidas para la organización y funcionamiento del regist
 Los correspondientes acuerdos establecerán los requisitos, formas, modos, procesos y efectos de las inscripciones. Igualmente, la AUNAP impondrá las sanciones que correspondan por la omisión de las inscripciones.
 
 (Decreto 2256 de 1991, art. 134)
-
-ARTÍCULO
 
 ## art:2.16.10.7 — Oficina
 
@@ -24427,8 +21395,6 @@ TÍTULO 11
 
 COORDINACIÓN INTERINSTITUCIONAL
 
-ARTÍCULO
-
 ## art:2.16.11.1 — Coordinación interinstitucional
 
 En desarrollo del principio legal que establece el artículo 65 de la Ley 13 de 1990, la AUNAP deberá centralizar toda gestión institucional relacionada con el Subsector Pesquero y de la Acuicultura. Así mismo, coordinará las acciones que competen a otras entidades que tengan relación con el Subsector. En tal virtud, para los efectos del parágrafo del artículo 13 de la Ley 13 de 1990 y, en desarrollo de la política pesquera del Gobierno Nacional, la AUNAP establecerá los mecanismos de coordinación teniendo en cuenta que compete a esta entidad, exclusivamente, la administración y manejo integral de los recursos pesqueros y de la acuicultura.
@@ -24439,15 +21405,11 @@ PARÁGRAFO . Sin perjuicio de la autonomía de cada una de las entidades, los en
 
 (Decreto 2256 de 1991, art. 136)
 
-ARTÍCULO
-
 ## art:2.16.11.2 — Cumplimiento de normas legales y reglamentarias
 
 Las Corporaciones Regionales y demás entidades de derecho público que, por delegación de la AUNAP, conforme a la facultad concedida en el último inciso del artículo 13 de la Ley 13 de 1990 y en el artículo 2.16.2.3. del presente decreto, asuman competencia funcional para la administración y manejo de recursos pesqueros deberán cumplir y hacer cumplir las disposiciones legales y reglamentarias que regulan las actividades de pesca y de acuicultura.
 
 (Decreto 2256 de 1991, art. 138)
-
-ARTÍCULO
 
 ## art:2.16.11.3 — Política de educación al consumidor
 
@@ -24457,23 +21419,17 @@ La AUNAP coordinará con los Ministerios de Agricultura y Desarrollo Rural, de E
 
 (Decreto 2256 de 1991, art. 139)
 
-ARTÍCULO
-
 ## art:2.16.11.4 — Armada Nacional
 
 Funciones en materia pesquera. Corresponde a la Armada Nacional ejercer la soberanía nacional en las aguas marítimas jurisdiccionales y en los ríos limítrofes internacionales, de que trata la Ley 10 de 1978. En tal virtud, tiene la facultad de retener las embarcaciones pesqueras de bandera extranjera que sean sorprendidas incumpliendo las normas legales vigentes.
 
 (Decreto 2256 de 1991, art. 140)
 
-ARTÍCULO
-
 ## art:2.16.11.5 — Funciones de la DIMAR en Materia de Pesca
 
 La Dirección General Marítima -DIMAR-, goza de la facultad de matricular las embarcaciones pesqueras y de expedir las patentes de navegación. Igualmente, tiene la atribución de establecer normas de seguridad marítima y de controlar su cumplimiento. Así mismo, establece y controla las condiciones de navegabilidad, habitabilidad y estiba, efectúa inspecciones periódicas y vigila el cumplimento de disposiciones náuticas.
 
 (Decreto 2256 de 1991, art. 141)
-
-ARTÍCULO
 
 ## art:2.16.11.6 — Suministro de información
 
@@ -24487,15 +21443,11 @@ La DIMAR proporcionará a la AUNAP, al 31 de enero de cada año y con relación 
 
 (Decreto 2256 de 1991, art. 142)
 
-ARTÍCULO
-
 ## art:2.16.11.7 — Plan Nacional de Desarrollo Pesquero
 
 El Plan Nacional de Desarrollo Pesquero deberá contemplar la ejecución de programas de capacitación pesquera a cargo del Servicio Nacional de Aprendizaje -SENA-. Las empresas pesqueras prestarán las facilidades del caso a los trabajadores que sigan cursos de capacitación pesquera.
 
 (Decreto 2256 de 1991, art. 143)
-
-ARTÍCULO
 
 ## art:2.16.11.8 — Integración de entidades estatales para el desarrollo pesquero y de la acuicultura
 
@@ -24505,8 +21457,6 @@ Las entidades adscritas y vinculadas al Ministerio de Agricultura y Desarrollo R
 
 (Decreto 2256 de 1991, en. 144)
 
-ARTÍCULO
-
 ## art:2.16.11.9 — Coordinación funcional
 
 Sin perjuicio de la aplicación del principio legal que establece el artículo 65 de la Ley 13 de 1990, la coordinación funcional entre la AUNAP y el Ministerio de Ambiente y Desarrollo Sostenible se efectuará de conformidad con lo expresamente previsto en el artículo 2.16.1.2.1. del presente decreto.
@@ -24514,8 +21464,6 @@ Sin perjuicio de la aplicación del principio legal que establece el artículo 6
 (Modificado por el Art. 20 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 145)
-
-ARTÍCULO
 
 ## art:2.16.11.10 — Cooperación Técnica
 
@@ -24525,15 +21473,11 @@ La AUNAP será contraparte nacional en todos aquellos programas de cooperación 
 
 (Decreto 2256 de 1991, art. 146)
 
-ARTÍCULO
-
 ## art:2.16.11.11 — Dirección internacional de los asuntos pesqueros
 
 El Ministerio de Relaciones Exteriores, como organismo rector de las relaciones internacionales, dirige y promueve, en coordinación con el Ministerio de Agricultura y Desarrollo Rural, los asuntos de orden externo relacionados con la actividad pesquera.
 
 (Decreto 2256 de 1991, art. 147)
-
-ARTÍCULO
 
 ## art:2.16.11.12 — Sanidad de productos derivados de la actividad pesquera
 
@@ -24545,15 +21489,11 @@ TÍTULO 12
 
 Estadística Pesquera y Acuícola
 
-ARTÍCULO
-
 ## art:2.16.12.1 — Servicio Estadístico Pesquero Colombiano - SEPEC
 
 El Servicio Estadístico Pesquero Colombiano -SEPEC- a cargo de la AUNAP, constituye un sistema encargado de centralizar la recepción y difundir toda la información estadística oficial del Subsector Pesquero con la finalidad de ordenar y planificar el manejo integral y la explotación racional de los recursos pesqueros.
 
 (Decreto 2256 de 1991, art. 149)
-
-ARTÍCULO
 
 ## art:2.16.12.2 — Obligación de suministro de información
 
@@ -24563,15 +21503,11 @@ Las personas naturales y jurídicas vinculadas a las actividades pesqueras y/o d
 
 (Decreto 2256 de 1991, art. 150)
 
-ARTÍCULO
-
 ## art:2.16.12.3 — Información especial en caso de parálisis de actividades
 
 Las empresas pesqueras cuyas actividades estuvieran paralizadas total o parcialmente, deberán presentar la información estadística con las observaciones sobre la causa de su inactividad.
 
 (Decreto 2256 de 1991, art. 151)
-
-ARTÍCULO
 
 ## art:2.16.12.4 — Sanciones por incumplimiento en el suministro de información
 
@@ -24583,23 +21519,17 @@ TÍTULO 13
 
 Pescadores
 
-ARTÍCULO
-
 ## art:2.16.13.1 — Tripulación
 
 Las empresas que posean embarcaciones de bandera extranjera que operen en aguas jurisdiccionales, deberán mantener, cuando menos, un veinte (20%) por ciento de la tripulación de nacionalidad colombiana de conformidad con lo dispuesto en el artículo 61 de la Ley 13 de 1990.
 
 (Decreto 2256 de 1991, art.153)
 
-ARTÍCULO
-
 ## art:2.16.13.2 — Incremento de la tripulación
 
 Para los efectos del artículo 61 de la Ley 13 de 1990, el incremento progresivo del porcentaje de la tripulación colombiana en las embarcaciones pesqueras de bandera extranjera, se producirá gradualmente en concordancia con los plazos previstos en las disposiciones vigentes para la nacionalización de dichas embarcaciones, en la forma que determine la AUNAP.
 
 (Decreto 2256 de 1991, art. 154)
-
-ARTÍCULO
 
 ## art:2.16.13.3 — Sistema Especial de Seguridad Social para pescadores artesanales
 
@@ -24610,8 +21540,6 @@ De conformidad con lo establecido en el artículo 62 de la Ley 13 de 1990, el Go
 TÍTULO 14
 
 INCENTIVOS A LA ACTIVIDAD PESQUERA Y ACUÍCOLA
-
-ARTÍCULO
 
 ## art:2.16.14.1 — Insumos Exentos
 
@@ -24633,8 +21561,6 @@ De conformidad con lo dispuesto en el artículo 67 de la Ley 13 de 1990, los sig
 
 (Decreto 2256 de 1991, art. 156)
 
-ARTÍCULO
-
 ## art:2.16.14.2 — Condiciones y requisitos para la exención
 
 Para tener derecho a la exención del pago de aranceles y demás derechos de importación, prevista en el artículo 67 de la Ley 13 de 1990, el Gobierno Nacional señalará las condiciones y requisitos que deben cumplir quienes las soliciten.
@@ -24644,8 +21570,6 @@ PARÁGRAFO . Mientras el Gobierno Nacional reglamenta las condiciones y requisit
 (Derogado por el Art. 22 del Decreto 1835 de 2021)
 
 (Decreto 2256 de 1991, art. 157. Deben tenerse en cuenta las competencias derivadas del Decreto2682 de 1999)
-
-ARTÍCULO
 
 ## art:2.16.14.3 — Vinculación de FONADE
 
@@ -24661,8 +21585,6 @@ CAPÍTULO 1
 
 INFRACCIONES
 
-ARTÍCULO
-
 ## art:2.16.15.1.1 — Infracción
 
 Se considera infracción toda acción u omisión que constituya violación de las normas contenidas en la Ley 13 de 1990, en el presente decreto y en las demás disposiciones legales y reglamentarias sobre la materia.
@@ -24672,8 +21594,6 @@ Se considera infracción toda acción u omisión que constituya violación de la
 CAPÍTULO 2
 
 Prohibiciones
-
-ARTÍCULO
 
 ## art:2.16.15.2.1 — Métodos ilícitos de pesca
 
@@ -24688,8 +21608,6 @@ Para los efectos del numeral 5 del artículo 54 de la Ley 13 de 1990, se conside
 4. Con equipos de buceo autónomo, en los casos que determine la AUNAP.
 
 (Decreto 2256 de 1991, art. 160)
-
-ARTÍCULO
 
 ## art:2.16.15.2.2 — Prohibición
 
@@ -24711,23 +21629,17 @@ CAPÍTULO 3
 
 Sanciones
 
-ARTÍCULO
-
 ## art:2.16.15.3.1 — Imposición de sanciones
 
 Las infracciones a las normas sobre la actividad pesquera en todas sus fases y modalidades, darán lugar a la imposición de las sanciones previstas en el artículo 55 de la Ley 13 de 1990.
 
 (Decreto 2256 de 1991, art. 162)
 
-ARTÍCULO
-
 ## art:2.16.15.3.2 — Competencia sancionatoria
 
 La AUNAP determinará la sanción correspondiente en cada caso y regulará el monto de las multas tomando en cuenta las cuantías señaladas en el artículo 55 de la Ley 13 de 1990, y considerando la gravedad de la infracción, las circunstancias en que se incurrió en ella y la clase de actividad pesquera que ejecute para el efecto el infractor.
 
 (Decreto 2256 de 1991, art. 163)
-
-ARTÍCULO
 
 ## art:2.16.15.3.3 — Requisitos y recurso
 
@@ -24737,15 +21649,11 @@ Contra la resolución que imponga una sanción podrá interponerse el recurso de
 
 (Decreto 2256 de 1991, art. 164)
 
-ARTÍCULO
-
 ## art:2.16.15.3.4 — Traslado a la DIMAR
 
 En firme la providencia que imponga una sanción de multa al Capitán de una embarcación, sedará traslado de ella a la Dirección General Marítima -DIMAR- para que esta entidad imponga las demás sanciones previstas en la ley.
 
 (Decreto 2256 de 1991, art. 165)
-
-ARTÍCULO
 
 ## art:2.16.15.3.5 — Cuantías
 
@@ -24763,15 +21671,11 @@ PARÁGRAFO : Para el cálculo del valor de las cuantías se tendrá en cuenta el
 
 (Decreto 2256 de 1991, art. 166)
 
-ARTÍCULO
-
 ## art:2.16.15.3.6 — Multas
 
 Las multas podrán ser sucesivas, cuando se requiera que el infractor cese en las acciones que constituyan infracción o ejecute las que sean necesarias para reparar su falta o volver las cosas a su estado anterior, cuando esto sea posible.
 
 (Decreto 2256 de 1991, art. 167)
-
-ARTÍCULO
 
 ## art:2.16.15.3.7 — Destinación de las multas
 
@@ -24779,15 +21683,11 @@ El importe de las multas por infracción a las normas sobre la actividad pesquer
 
 (Decreto 2256 de 1991, art. 168)
 
-ARTÍCULO
-
 ## art:2.16.15.3.8 — Decomiso y revocatoria de permisos
 
 Sin perjuicio de las demás sanciones a que hubiere lugar, las infracciones a las disposiciones sobre pesca, acarrearán el decomiso de los productos y de los instrumentos y equipos no autorizados empleados para cometerla, así como la revocatoria del permiso en los casos señalados en la presente Parte.
 
 (Decreto 2256 de 1991, art. 169)
-
-ARTÍCULO
 
 ## art:2.16.15.3.9 — Retención de embarcaciones
 
@@ -24795,23 +21695,17 @@ La Armada Nacional retendrá las embarcaciones pesqueras que sean sorprendidas p
 
 (Decreto 2256 de 1991, art. 170)
 
-ARTÍCULO
-
 ## art:2.16.15.3.10 — Informe de la aprehensión y resolución definitiva
 
 En el caso previsto en el artículo 2.16.15.3.9., la Armada Nacional remitirá a la AUNAP por conducto de la Capitanía de Puerto respectiva, el informe de la aprehensión poniendo a su disposición los productos y elementos decomisados preventivamente, la AUNAP resolverá en definitiva, en la forma más expedita.
 
 (Decreto 2256 de 1991, art. 171)
 
-ARTÍCULO
-
 ## art:2.16.15.3.11 — Infracciones a la pesca marina
 
 Las infracciones a la pesca marina, serán investigadas y sancionadas por la AUNAP, teniendo en cuenta las diligencias preliminares que adelante la Dirección General Marítima y por intermedio de la Capitanía de Puerto correspondiente. Esta última, a petición dela AUNAP, se abstendrá de otorgar el zarpe para la embarcación infractora, hasta tanto se dé cumplimiento a las sanciones impuestas por éste.
 
 (Decreto 2256 de 1991, art. 172)
-
-ARTÍCULO
 
 ## art:2.16.15.3.12 — Póliza
 
@@ -24821,15 +21715,11 @@ Confirmado el decomiso, sólo se hará efectiva la póliza si el infractor se ne
 
 (Decreto2256 de 1991, art. 173)
 
-ARTÍCULO
-
 ## art:2.16.15.3.13 — Decomiso por parte de la Armada Nacional
 
 Cuando el decomiso de productos pesqueros se practique por iniciativa de la Armada Nacional, la AUNAP podrá entregarle a esta entidad parte de ese producto cuando así lo solicite.
 
 (Decreto 2256 de 1991, art. 174)
-
-ARTÍCULO
 
 ## art:2.16.15.3.14 — Causales de revocatoria
 
@@ -24857,23 +21747,17 @@ Además de las infracciones previstas en el presente Título serán causales de 
 
 (Decreto 2256 de 1991, art. 175)
 
-ARTÍCULO
-
 ## art:2.16.15.3.15 — Inhabilidad para solicitar nuevos permisos de pesca
 
 En el acto administrativo con el cual se revoque un permiso, se fijará el término dentro del cual el sancionado no podrá obtener nuevos permisos de pesca.
 
 (Decreto 2256 de 1991, art. 176)
 
-ARTÍCULO
-
 ## art:2.16.15.3.16 — Cancelación de patentes de las embarcaciones
 
 Conforme a lo previsto en artículo 2.16.5.3.11, del presente decreto, revocado el permiso de pesca, se procederá a la cancelación de las patentes de las embarcaciones del respectivo titular del permiso. La AUNAP pondrá en conocimiento de la DIMAR y de la respectiva Capitanía de Puerto la decisión adoptada.
 
 (Decreto 2256 de 1991, art. 177)
-
-ARTÍCULO
 
 ## art:2.16.15.3.17 — Efectos de la cancelación de la patente a embarcación de bandera extranjera
 
@@ -24885,8 +21769,6 @@ TÍTULO 16
 
 Plan de Acción Nacional para la Conservación y Manejo de Tiburones, Rayas y Quimeras de Colombia - PAN Tiburones Colombia
 
-ARTÍCULO
-
 ## art:2.16.16.1 — Adopción
 
 Adoptar en el territorio nacional el "Plan de Acción Nacional para la Conservación y Manejo de Tiburones, Rayas y Quimeras de Colombia - PAN Tiburones Colombia", como el instrumento de Política que establece los lineamientos para la conservación y manejo sostenible de las especies de tiburones, rayas y quimeras de Colombia.
@@ -24894,8 +21776,6 @@ Adoptar en el territorio nacional el "Plan de Acción Nacional para la Conservac
 PARÁGRAFO . El documento del PAN Tiburones Colombia hace parte integral del presente decreto.
 
 (Decreto 1124 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.16.16.2 — Coordinación
 
@@ -24913,13 +21793,9 @@ TÍTULO 1
 
 Información Pública para la Gestión de Riesgos en el Sector Agropecuario
 
-ARTÍCULO
-
 ## art:2.17.1.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente título se aplicarán a las personas naturales y jurídicas que tengan relación con las medidas que en materia de financiamiento se desarrollen con ocasión de lo previsto en la Ley 1731 de 2014, para la reactivación del sector agropecuario, pesquero, acuícola, forestal y agroindustrial.
-
-ARTÍCULO
 
 ## art:2.17.1.2 — Información pública para la gestión de riesgos en el sector agropecuario
 
@@ -24928,8 +21804,6 @@ Lo previsto en el presente título solo se refiere a la información que reposa 
 Para los efectos de lo dispuesto en el artículo 5 de la Ley 1731 de 2014, entiéndase por información pública la establecida en la Ley 1712 de 2014 o las disposiciones que la modifiquen o reglamenten.
 
 PARÁGRAFO . Para acceder a la información pública de que trata el presente artículo mediará únicamente solicitud ante las entidades que por su naturaleza generen, obtengan, adquieran, transformen o controlen información relacionada con el sector agropecuario y en especial con riesgos asociados al mismo. En todo caso dicha información será gratuita en aplicación de lo dispuesto en el artículo 5 de la Ley 1731 de 2014.
-
-ARTÍCULO
 
 ## art:2.17.1.3 — Entidades que pueden acceder gratuitamente a la información pública para la gestión de riesgos en el sector agropecuario
 
@@ -24951,13 +21825,9 @@ Entre las entidades que podrán acceder de manera gratuita a la información pú
 
 8. Federación de Aseguradores Colombianos - FASECOLDA, exclusivamente para efectos del seguro agropecuario.
 
-ARTÍCULO
-
 ## art:2.17.1.4 — Otra información para la gestión de riesgos en el sector agropecuario
 
 El suministro de información sometida a reserva, o al régimen de propiedad intelectual y derechos de autor, se hará en los términos regulados en la Constitución Política y la ley. Si se tratara de información privada su suministro requerirá la suscripción de los actos o contratos que sus titulares estimen necesarios, así como la toma de las medidas que acuerden las partes para garantizar su integridad.
-
-ARTÍCULO
 
 ## art:2.17.1.5 — Finalidad de la información requerida a entidades públicas
 
@@ -24979,15 +21849,11 @@ PARÁGRAFO . Los resultados obtenidos a partir de la información a la que se te
 
 ACUERDOS DE RECUPERACIÓN Y SANEAMIENTO DE CARTERA AGROPECUARIA
 
-ARTÍCULO
-
 ## art:2.17.2.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente título se aplicarán a los pequeños y medianos productores y productoras - personas naturales y jurídicas - que hayan calificado así al momento de tramitar el respectivo crédito según la normatividad de crédito agropecuario, con ocasión de lo previsto en la Ley 2071 de 2020, afectados por fenómenos fitosanitarios, zoosanitarios (generadas por plagas y enfermedades en cultivos y animales), biológicos, caída severa y sostenida de ingresos de conformidad con el artículo 12 de la Ley 1731 de 2014, afectaciones fitosanitarias y zoosanitarias, climáticas y en general por cualquier otro fenómeno no controlable p el productor y/o productora que haya afectado su actividad productiva y comercialización impidiéndoles dar cumplimiento a las mismas, para la reactivación del sector agropecuario, pesquero, acuícola, forestal y agroindustria.
 
 (Modificado por el Art. 1 del Decreto 596 de 2021)
-
-ARTÍCULO
 
 ## art:2.17.2.2 — Acuerdos de recuperación y saneamiento de cartera agropecuaria
 
@@ -25113,8 +21979,6 @@ TÍTULO 3
 
 Recursos para la Corporación Colombiana de Investigación Agropecuaria - CORPOICA
 
-ARTÍCULO
-
 ## art:2.17.3.1 — Transferencia de recursos
 
 En la medida en que exista asignación de partida presupuestal al efecto, el Ministerio de Agricultura y Desarrollo Rural realizará la transferencia anual de recursos a que se refiere el artículo 20 de la Ley 1731 de 2014, previa concertación con CORPOICA de las metas y resultados que se obtendrían con los recursos a transferir.
@@ -25122,8 +21986,6 @@ En la medida en que exista asignación de partida presupuestal al efecto, el Min
 La concertación de metas y resultados se instrumentará mediante acuerdo suscrito entre el Viceministro de Asuntos Agropecuarios del Ministerio de Agricultura y Desarrollo Rural y el Director Ejecutivo de CORPOICA.
 
 (Decreto 2208 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.17.3.2 — Régimen de ejecución de los recursos transferidos
 
@@ -25133,15 +21995,11 @@ Los recursos de las transferencias con destinación específica al cumplimiento 
 
 (Decreto 2208 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.17.3.3 — Seguimiento
 
 El Ministerio de Agricultura y Desarrollo Rural realizará seguimiento a la ejecución de las metas y resultados concertados para cada transferencia, de conformidad con lo que para el efecto se defina en el acto administrativo de transferencia, y en las disposiciones que emita el Ministerio al efecto.
 
 (Decreto 2208 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.17.3.4 — Cesión de recursos no ejecutados
 
@@ -25156,8 +22014,6 @@ CREACIÓN Y DESARROLLO DE LAS ZONAS DE INTERÉS DE DESARROLLO RURAL, ECONÓMICO 
 TÍTULO 1
 
 DISPOSICIONES GENERALES
-
-ARTÍCULO
 
 ## art:2.18.1.1 — Definiciones
 
@@ -25195,8 +22051,6 @@ TÍTULO 2
 
 DE LA IDENTIFICACIÓN DE LAS ZONAS DE INTERÉS DE DESARROLLO RURAL, ECONÓMICO Y SOCIAL (ZIDRES)
 
-ARTÍCULO
-
 ## art:2.18.2.1 — Identificación de las áreas potencia/es para declarar una Zidres
 
 Para la identificación de las áreas potenciales para declarar una Zidres, la Unidad de Planificación de Tierras Rurales, Adecuación de Tierras y Usos Agropecuarios (UPRA) verificará el cumplimiento de lo dispuesto en la Ley 1776 de 2016, en especial los requisitos señalados en el artículo 1, los objetivos del artículo 2, los criterios, estudios e información establecidos en el artículo 21, y las restricciones a las que hacen mención los artículos 29 y 30 de la citada ley.
@@ -25211,8 +22065,6 @@ PARÁGRAFO 2. La UPRA definirá técnicamente los parámetros de los requisitos 
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.2.2 — Delimitación de las áreas potenciales para declarar una Zidres
 
 Una vez delimitadas las Zidres a través del documento CONPES al que hace referencia el artículo 21 de la Ley 1776 de 2016, la UPRA formulará los lineamientos, criterios e instrumentos de ordenamiento productivo y social de la propiedad, de conformidad con el artículo 6 de la Ley 1551 de 2012, para que sean considerados por las respectivas entidades territoriales en la formulación de su Plan de Ordenamiento Territorial (POT), Plan Básico de Ordenamiento Territorial (PBOT) o Esquema de Ordenamiento Territorial (EOT), y el Plan de Ordenamiento Territorial Departamental (POD), según corresponda.
@@ -25222,8 +22074,6 @@ En virtud de los principios de autonomía y concurrencia de competencias entre l
 Para la definición de los criterios de uso actual y potencial del suelo, la UPRA podrá vincular como intervinientes a los productores establecidos en la respectiva zona, con el fin de evaluar y valorar su experiencia agropecuaria, la adaptabilidad de los suelos, y el potencial de los desarrollos productivos, de acuerdo con los parámetros fijados por el Gobierno Nacional, respetando los derechos adquiridos.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.2.3 — Restricciones a la constitución de las Zidres
 
@@ -25241,8 +22091,6 @@ PARÁGRAFO 1. Siempre que el Ministerio del Interior certifique la presencia de 
 
 PARÁGRAFO 2. De conformidad con el parágrafo 1 del artículo 21 de la Ley 1776 de 2016, los predios que presenten situaciones imperfectas en el área de estudio de los Planes de Desarrollo Rural Integral y de Ordenamiento Productivo y Social de la Propiedad, solo podrán hacer parte de la Zidres una vez se encuentre saneada su situación jurídica.
 
-ARTÍCULO
-
 ## art:2.18.2.4 — Ampliación de la delimitación de las Zidres
 
 Las Zidres podrán ampliarse siempre y cuando se cumplan los requisitos establecidos en el artículo 2.18.2.1 y se verifique la inexistencia de las restricciones mencionadas en el artículo 2.18.2.3 de este decreto.
@@ -25252,8 +22100,6 @@ Las Zidres podrán ampliarse siempre y cuando se cumplan los requisitos establec
 TÍTULO 3
 
 Proyectos Productivos Por Desarrollarse En Las Zidres
-
-ARTÍCULO
 
 ## art:2.18.3.1 — Quiénes pueden presentar los Proyectos Productivos
 
@@ -25270,8 +22116,6 @@ PARÁGRAFO 1. Para el desarrollo de proyectos productivos se podrá hacer uso de
 PARÁGRAFO 2. En el caso de las personas jurídicas, estas no podrán estar incursas en procesos de insolvencia empresarial.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.3.2 — Requisitos Generales de los Proyectos Productivos
 
@@ -25337,8 +22181,6 @@ PARÁGRAFO 5. Las personas jurídicas y las empresas asociativas deberán determ
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.3 — Requisitos Específicos de los Proyectos Productivos
 
 En caso de presentarse proyectos productivos que involucren actividades que no sean de carácter agropecuario, además de los requisitos establecidos en el artículo 2.18.3.2 del presente decreto, se deberán cumplir los siguientes requisitos:
@@ -25355,8 +22197,6 @@ En caso de presentarse proyectos productivos que involucren actividades que no s
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.4 — Creación del Banco de Proyectos Productivos por desarrollarse en las Zidres
 
 Créase el Banco de Proyectos Productivos por desarrollarse en las Zidres como una herramienta de planeación mediante la cual se efectuará el registro de proyectos elegibles de acuerdo a los lineamientos establecidos en las invitaciones públicas efectuadas por el Ministerio de Agricultura y Desarrollo Rural.
@@ -25365,8 +22205,6 @@ La inscripción de un proyecto en el Banco de Proyectos Productivos no implica s
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.5 — Presentación de los Proyectos
 
 La presentación de los proyectos productivos se realizará ante el Ministerio de Agricultura y Desarrollo Rural, una vez se dé apertura a la Invitación Pública para el registro de proyectos elegibles en el Banco de Proyectos Productivos por desarrollarse en las Zidres, y con el cumplimiento del lleno de los requisitos establecidos en la Ley 1776 de 2016 y en la presente parte.
@@ -25374,8 +22212,6 @@ La presentación de los proyectos productivos se realizará ante el Ministerio d
 PARÁGRAFO . Se permitirá la inscripción de proyectos productivos que se encuentren en ejecución sobre áreas rurales de propiedad privada ubicadas dentro de las Zidres, y establecidos antes de la expedición de la Ley 1776 de 2016.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.3.6 — Evaluación de los proyectos productivos y concepto de viabilidad
 
@@ -25387,8 +22223,6 @@ PARÁGRAFO . El Ministerio de Agricultura y Desarrollo Rural, con el apoyo técn
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.7 — Evaluación de proyectos que contemplen actividades no agropecuarias
 
 Cuando en desarrollo de los objetivos previstos en el artículo 2 de la Ley 1776 de 2016, los proyectos incluyan actividades que no sean de carácter agropecuario y la valoración de dichas actividades sea de competencia de otra entidad o requieran licencia, permiso, la celebración de un contrato o trámite especial por parte de una autoridad pública, además de la aplicación del artículo anterior, el Ministerio de Agricultura y Desarrollo Rural, previo a continuar con la evaluación del proyecto, remitirá copia del mismo a las autoridades competentes, de manera concurrente, para que se pronuncien sobre esas actividades en desarrollo de sus competencias y dentro de los términos previstos para ejercerlas. El concepto de la autoridad pública formará parte integral de la evaluación del proyecto.
@@ -25396,8 +22230,6 @@ Cuando en desarrollo de los objetivos previstos en el artículo 2 de la Ley 1776
 En caso de que la autoridad pública formule objeciones debidamente motivadas al proyecto, se aplicará el trámite de inadmisión previsto en el artículo 2.18.3.9.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.3.8 — Evaluación de proyectos que requieran la entrega de baldíos de la Nación
 
@@ -25407,8 +22239,6 @@ La Agencia Nacional de Tierras podrá solicitar ajustes al modelo contractual y 
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.9 — Inadmisión de los proyectos productivos
 
 El Ministerio de Agricultura y Desarrollo Rural deberá requerir al interesado para que subsane los requisitos formales o las falencias en la formulación del respectivo proyecto. El plazo para responder cada uno de los requerimientos será fijado en la misma comunicación, sin que exceda de un (1) mes. El Ministerio podrá conceder al interesado una sola prórroga del plazo, la cual no podrá ser superior a un (1) mes.
@@ -25417,15 +22247,11 @@ Vencidos los términos aquí establecidos sin que el interesado haya cumplido el
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.10 — Desistimiento expreso del trámite del proyecto productivo
 
 Los interesados podrán desistir del trámite del proyecto productivo en cualquier tiempo, mientras no se haya expedido el acto administrativo que apruebe o rechace el proyecto productivo. Sin perjuicio de lo anterior, el mismo interesado podrá presentar una nueva solicitud con el lleno de los requisitos establecidos, atendiendo a lo establecido en el artículo 18 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.3.11 — Aprobación de los proyectos productivos
 
@@ -25434,8 +22260,6 @@ Una vez terminada la etapa de evaluación, el Ministerio de Agricultura y Desarr
 El acto administrativo deberá incluir la condición resolutoria por incumplimiento del proyecto productivo, las condiciones y garantías de estabilidad jurídica previstas en el artículo 8 de la Ley 1776 de 2016, estar acompañado de los conceptos de viabilidad de que tratan los artículos 2.18.3.6. y 2.18.3.7 del presente decreto, disponer la constitución de las garantías pertinentes, multas, cláusulas penales, y demás cláusulas que se consideren necesarias para el desarrollo del proyecto productivo.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.3.12 — Condición Resolutoria
 
@@ -25451,8 +22275,6 @@ La declaratoria de la condición resolutoria dará lugar a que se pierdan todos 
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.3.13 — Rechazo de los proyectos productivos
 
 El Ministerio de Agricultura y Desarrollo Rural podrá rechazar el proyecto productivo cuando se encuentren motivos de inviabilidad o inconveniencia técnica, financiera, económica, ambiental o social o cuando no cumpla con los requisitos exigidos.
@@ -25460,8 +22282,6 @@ El Ministerio de Agricultura y Desarrollo Rural podrá rechazar el proyecto prod
 Si el proyecto fuere rechazado, el interesado podrá presentar una nueva solicitud ante el Ministerio de Agricultura y Desarrollo Rural, cuando cumpla con los requisitos establecidos y/o la causa que originó su rechazo haya desaparecido o haya sido superada.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.3.14 — Seguimiento a la ejecución de los proyectos productivos
 
@@ -25479,8 +22299,6 @@ TÍTULO 4
 
 Entrega De Bienes Inmuebles Para La Ejecución De Los Proyectos Productivos
 
-ARTÍCULO
-
 ## art:2.18.4.1 — Bienes inmuebles de la Nación que pueden entregarse para la ejecución de los proyectos productivos
 
 Los bienes inmuebles de la Nación que pueden ser objeto de entrega para la ejecución de los proyectos productivos serán los siguientes:
@@ -25490,8 +22308,6 @@ Los bienes inmuebles de la Nación que pueden ser objeto de entrega para la ejec
 2. Bienes inmuebles fiscales patrimoniales que, en virtud del artículo 238 de la Ley 1450 de 2011, modificado por el artículo 163 de la Ley 1753 de 2015, no deban ser vendidos al colector de activos de la Nación, Central de Inversiones (CISA). En estos casos se aplicará la normativa y procedimientos que emplee cada entidad de derecho público interesada en celebrar contratos no traslaticios del derecho de dominio con los particulares.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.4.2 — Bienes excluidos de entrega para la ejecución de proyectos productivos
 
@@ -25507,15 +22323,11 @@ Tampoco podrán entregarse aquellos inmuebles de la Nación que se encuentren de
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.4.3 — Destinatarios de la entrega de bienes inmuebles de la Nación para la ejecución de los proyectos productivos
 
 Serán destinatarios de la entrega de bienes inmuebles de la Nación para la ejecución de proyectos productivos dentro de las Zidres, a título no traslaticio de derecho de dominio, las personas naturales o jurídicas y las empresas asociativas que, además de cumplir con los requisitos exigidos en la presente parte, integren, como asociados, a campesinos, trabajadores agrarios, mujeres rurales y/o jóvenes rurales sin tierra.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.4.4 — 4.4
 
@@ -25526,8 +22338,6 @@ Los valores de la contraprestación en los contratos que recaigan sobre los bien
 PARÁGRAFO . Para los bienes inmuebles objeto de los contratos a los que hace referencia el presente artículo que carezcan de matrícula inmobiliaria, deberá darse aplicación a lo establecido en el Capítulo 15 del Título 6 de la Parte 2 del Libro 2 del Decreto 1069 de 2015 "Por el cual se expide el Decreto Único Reglamentario del Sector de Justicia y del Derecho".
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.4.5 — 4.5
 
@@ -25547,15 +22357,11 @@ PARÁGRAFO . En el evento de cualquier modificación al contrato deberá seguirs
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.4.6 — Duración de los contratos no traslaticios del derecho de dominio sobre bienes inmuebles de la Nación
 
 Los contratos no traslaticios del derecho de minio sobre bienes inmuebles de la Nación se celebrarán por el término fijado en el acto administrativo de aprobación del proyecto, teniendo en cuenta el ciclo productivo del proyecto a desarrollar y la normativa que regule el tipo de contrato por suscribir.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.4.7 — 4.7
 
@@ -25577,8 +22383,6 @@ PARÁGRAFO 2. Cuando se trate de entrega de bienes inmuebles fiscales patrimonia
 
 (Decreto 1273 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.18.4.8 — Destinación específica de los recursos
 
 Los recursos que perciba la Agencia Nacional de Tierras por concepto de la contraprestación a cambio de la entrega de bienes inmuebles de la Nación bajo cualquiera de las modalidades contractuales no traslaticias del derecho de dominio, u otro valor que se genere con ocasión de la aplicación de la presente parte, serán destinados al Fondo de Desarrollo Rural, Económico e Inversión, de conformidad con lo dispuesto en el artículo 22 de la Ley 1776 de 2016.
@@ -25586,8 +22390,6 @@ Los recursos que perciba la Agencia Nacional de Tierras por concepto de la contr
 PARÁGRAFO . Quedarán exceptuados de la aplicación del presente artículo los recursos que perciban las demás entidades de derecho público por concepto de la contraprestación a cambio de la entrega de sus bienes, los cuales deberán sujetarse a las disposiciones presupuestales que los regulen.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.4.9 — Supervisión de los contratos de entrega de bienes inmuebles de la Nación para la ejecución de los proyectos productivos
 
@@ -25599,15 +22401,11 @@ TITULO 5
 
 Fondo De Desarrollo Rural, Económico E Inversión (Fdrei)
 
-ARTÍCULO
-
 ## art:2.18.5.1 — Naturaleza del Fondo de Desarrollo Rural, Económico e Inversión (FDREI)
 
 El Fondo de Desarrollo Rural, Económico e Inversión (FDREI), es una cuenta especial, del orden nacional, sin personería jurídica, sin estructura administrativa ni planta de personal y con contabilidad independiente. Su administración está a cargo de la Agencia Nacional de Tierras.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.5.2 — Objeto
 
@@ -25616,8 +22414,6 @@ El FDREI prestará apoyo a la ejecución de la política de tierras, y sus inver
 Los recursos del FDREI solo podrán invertirse en el sector agropecuario y con el fin de garantizar las necesidades detectadas por la Agencia Nacional de Tierras.
 
 (Decreto 1273 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.18.5.3 — Adquisición de bienes por fuera de las Zidres
 
@@ -25644,8 +22440,6 @@ INSPECCIÓN, VIGILANCIA Y CONTROL DEL SERVICIO PÚBLICO DE ADECUACIÓN DE TIERRA
 TÍTULO 1
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.19.1.1 — 1.1
 
@@ -25675,8 +22469,6 @@ TÍTULO 2
 
 FUNCIONES DE INSPECCIÓN, VIGILANCIA Y CONTROL
 
-ARTÍCULO
-
 ## art:2.19.2.1 — Inspección, Vigilancia y Control de servicio público de adecuación de tierras
 
 El Ministerio de Agricultura y Desarrollo Rural ejercerá las funciones otorgadas mediante el artículo 260 de la Ley 1955 de 2019 relacionadas con la inspección, vigilancia y control de la prestación del servicio público de adecuación de tierras.
@@ -25689,27 +22481,19 @@ PARÁGRAFO 3. El Ministerio de Agricultura y Desarrollo Rural podrá apoyarse en
 
 Para este efecto, el Ministerio podrá, de oficio o por solicitud de un ciudadano o de una organización, informar a los ciudadanos y a las organizaciones civiles a través de un medio de amplia difusión en el respectivo nivel territorial, para que participen en los términos de la Ley 850 de 2003.
 
-ARTÍCULO
-
 ## art:2.19.2.2 — Sujetos pasivos
 
 Son sujetos pasivos de las funciones de inspección, vigilancia y control los usuarios y operadores en la prestación del servicio público de adecuación de tierras.
 
-ARTÍCULO
-
 ## art:2.19.2.3 — Función de inspección
 
 La inspección consiste en la atribución del Ministerio de Agricultura y Desarrollo Rural, entre otras, para solicitar, requerir y analizar, en la forma, detalle y términos que el Ministerio determine, la información que requiera con el objeto de establecer de manera general el cumplimiento del régimen jurídico aplicable al servicio público de adecuación de tierras. En ejercicio de esta función, el Ministerio de Agricultura y Desarrollo Rural, de oficio o a petición de cualquier persona, podrá requerir información, documentos, mensajes de datos, realizar visitas, instruir y orientar en la manera en que se debe cumplir e interpretar el régimen jurídico aplicable a la prestación del servicio público de adecuación de tierras.
-
-ARTÍCULO
 
 ## art:2.19.2.4 — Función de vigilancia
 
 La vigilancia consiste en la atribución del Ministerio de Agricultura y Desarrollo Rural para velar que, de manera puntual, los sujetos pasivos, en desarrollo de sus funciones y obligaciones, se ajusten a lo dispuesto en el ordenamiento jurídico.
 
 La vigilancia está referida a funciones de advertencia, prevención y orientación encaminadas a que las actuaciones de los sujetos pasivos se ajusten a la normatividad que los rigen, para lo cual el Ministerio de Agricultura y Desarrollo Rural tendrá, entre otras, las atribuciones de instruir, orientar, impartir directrices, requerir, ordenar, establecer planes de mejoramiento, desempeño o acción, practicar visitas, revisiones y demás pruebas que determine conducentes, pertinentes y útiles.
-
-ARTÍCULO
 
 ## art:2.19.2.5 — Función de control
 
@@ -25719,13 +22503,9 @@ TÍTULO 3
 
 MEDIDAS
 
-ARTÍCULO
-
 ## art:2.19.3.1 — Medidas preventivas
 
 Sin perjuicio de las sanciones a que haya lugar, cuando resulten necesarias, el Ministerio de Agricultura y Desarrollo Rural podrá aplicar medidas preventivas para evitar de manera transitoria la continuación de la ocurrencia de un hecho, la realización de una actividad o la existencia de una situación que presuntamente atente contra la prestación del servicio público de adecuación de tierras.
-
-ARTÍCULO
 
 ## art:2.19.3.2 — Potestad sancionatoria
 
@@ -25735,13 +22515,9 @@ TÍTULO 4
 
 ENTIDAD RESPONSABLE Y PROCEDIMIENTO
 
-ARTÍCULO
-
 ## art:2.19.4.1 — Entidad responsable de la inspección, vigilancia y control de ADT
 
 Conforme lo dispuesto por el artículo 260 de la Ley 1955 de 2019, que adiciona el artículo 16C a la Ley 41 de 1993, el Ministerio de Agricultura y Desarrollo Rural es la entidad responsable de adelantar labores de inspección, vigilancia y control de la prestación del servicio público de adecuación de tierras en los términos previstos en la ley, con enfoque de riesgo, de carácter preventivo y de auto regulación.
-
-ARTÍCULO
 
 ## art:2.19.4.2 — Procedimiento
 
@@ -25761,8 +22537,6 @@ CAPÍTULO 1
 
 MARCO GENERAL
 
-ARTÍCULO
-
 ## art:2.20.1.1.1 — Definiciones
 
 Para los efectos del presente Título, se tendrán en cuenta las definiciones establecidas en el artículo 4 de la Ley 2046 de 2020, cuando aplique, y las siguientes:
@@ -25780,8 +22554,6 @@ e. Programas institucionales de servicios de alimentación. Son aquellos que se 
 f. Organizaciones de productores agropecuarios. Es la persona jurídica de derecho privado, constituida por quienes adelantan una actividad agrícola, pecuaria, forestal, piscícola o acuícola o por quienes representen actividades agroindustriales o de productores rurales que, a través del trabajo colectivo, la cohesión social y la integración, buscan aumentar la productividad y la sostenibilidad de las actividades agropecuarias que realizan, con el objeto de defender o representar los intereses comunes de sus asociados y contribuir al desarrollo del sector rural nacional.
 
 g. Organizaciones de Agricultura Campesina Familiar Comunitaria. Se consideran organizaciones de agricultura campesina, familiar y comunitaria aquellas que cumplan con los dos criterios que: por lo menos el 70% de los integrantes de la organización son productores de la Agricultura Campesina Familiar y Comunitaria, y la mayoría (por lo menos la mitad más uno) de los integrantes de los órganos directivos de la organización son productores de la Agricultura Campesina Familiar y Comunitaria.
-
-ARTÍCULO
 
 ## art:2.20.1.1.2 — Registro general de pequeños productores y productores de la Agricultura Campesina, Familiar y Comunitaria
 
@@ -25829,15 +22601,11 @@ PARÁGRAFO 3. El Comité Interinstitucional para la Implementación, Seguimiento
 
 PARÁGRAFO 4. Las secretarías departamentales de agricultura o quien haga sus veces, podrán articularse con el Sistema de Información de la Agricultura Campesina, Familiar y Comunitaria dispuesto en la Resolución 464 de 2017 o la que la modifique.
 
-ARTÍCULO
-
 ## art:2.20.1.1.3 — Mínimo de Compras públicas de alimentos y suministros de productos agropecuarios a productores agropecuarios locales
 
 Las entidades públicas del nivel nacional, departamental, distrital, municipal, sociedades de economía mixta, y entidades privadas que manejen recursos públicos y operen en el territorio nacional, que contraten, bajo cualquier modalidad, con recursos públicos la adquisición, suministro y entrega de alimentos en cualquiera de sus formas de atención, están en la obligación de adquirir localmente alimentos comprados a pequeños productores agropecuarios locales y/o a productores de la Agricultura Campesina, Familiar o Comunitaria locales y sus organizaciones, en un porcentaje mínimo del treinta por ciento (30%) del valor total de los recursos del presupuesto de cada entidad destinados a la compra de alimentos.
 
 PARÁGRAFO . Cuando la oferta de alimentos producidos por pequeños productores y/o productores dé la Agricultura Campesina, Familiar o Comunitaria local sea inferior al mínimo de que trata el presente artículo, las entidades deberán informar de dicha situación a la Secretaría Técnica de la Mesa Técnica Nacional de Compras Públicas Locales en el término máximo en los Cinco. (5) días hábiles siguientes una vez advertida la situación. Recibida la comunicación de parte de la entidad contratante, la Secretaria Técnica de la mencionada Mesa tendrá cinco (5) días hábiles para realizar las gestiones necesarias para otorgar un listado de pequeños productores y/o productores de la Agricultura Campesina, Familiar o Comunitaria no locales a quienes puede acudir para suplir el porcentaje restante.
-
-ARTÍCULO
 
 ## art:2.20.1.1.4 — Promesa de contrato de proveeduría
 
@@ -25851,8 +22619,6 @@ CAPÍTULO 2
 
 ESQUEMA DE PUNTAJES ADICIONALES
 
-ARTÍCULO
-
 ## art:2.20.1.2.1 — Puntajes adicionales obligatorios
 
 Las entidades públicas descentralizadas del orden nacional y las entidades territoriales cada vez que requieran productos de origen agropecuario para atender la demanda de los programas institucionales de servicios de alimentación definidos en el presente Título, asignarán los siguientes puntajes adicionales, en las modalidades de selección previstas en el artículo 2 de la Ley 1150 de 2007, en las que se otorguen puntajes a los oferentes dentro de sus procedimientos, cuando los oferentes presenten uno o más contratos de proveeduría suscritos con productores agropecuarios nacionales:
@@ -25865,8 +22631,6 @@ PARÁGRAFO 1. Para acreditar la calidad productor nacional se deberá allegar co
 
 PARÁGRAFO 2. Para acreditar la calidad pequeño productor se tomará el medio de prueba establecido en el artículo 2.1.2.2.8 del Decreto 1071 de 2015 o el que lo modifique. Para acreditar la calidad de productor de la Agricultura, Campesina, Familiar y Comunitaria deberá demostrar que figuran como productor de la ACFC en el registro general de pequeños productores y productores de la Agricultura Campesina, Familiar y Comunitaria u otros registros oficiales o en el Sistema de Información Alimentaria una vez entre en operación.
 
-ARTÍCULO
-
 ## art:2.20.1.2.2 — Puntajes adicionales facultativos
 
 Las entidades públicas descentralizadas del orden nacional y las entidades territoriales cada vez que requieran productos de origen agropecuario para atender la demanda de los programas institucionales de servicios de alimentación, podrán asignar los siguientes puntajes adicionales, en las modalidades de selección previstas en el artículo 2 de la Ley 1150 de 2007, en las que se otorguen puntajes a los oferentes dentro de sus procedimientos, cuando los oferentes presenten uno o más contratos de proveeduría suscritos con productores agropecuarios nacionales:
@@ -25876,8 +22640,6 @@ a. Zonificación de Aptitud productiva. Se podrá asignar el seis por ciento (6%
 b. Usuarios del sistema de extensión agropecuaria. Se podrá asignar seis por ciento (6%) de los puntos al oferente cuyos proveedores de productos agropecuarios, en su mayoría, esto es la mitad más uno, sean usuarios del servicio público de extensión agropecuaria enmarcado en la Ley 1876 de 2017, cuando aplique. Este se acreditará a través de constancia emitida por el respectivo prestador del servicio de extensión agropecuaria.
 
 PARÁGRAFO . Para acreditar la calidad de productor nacional se tomará el medio de prueba dispuesto en el parágrafo 1 del artículo 2.20.1.2.1. del presente Título.
-
-ARTÍCULO
 
 ## art:2.20.1.2.3 — 2.3
 
@@ -25894,8 +22656,6 @@ PARÁGRAFO 4. En caso de empate frente a los puntajes establecidos en los artíc
 CAPÍTULO 3.
 
 MESA TÉCNICA NACIONAL DE COMPRAS PÚBLICAS LOCALES DE ALIMENTOS
-
-ARTÍCULO
 
 ## art:2.20.1.3.1 — Integrantes de la Mesa Técnica Nacional de Compras Públicas Locales de Alimentos
 
@@ -25941,13 +22701,9 @@ PARÁGRAFO 2. Para la elección de los representantes de las organizaciones de p
 
 PARÁGRAFO 3. La Mesa Técnica Nacional de Compras Públicas Locales de Alimentos, para cumplir sus objetivos y funciones, podrá invitar a representantes de otras entidades, tanto públicas, privadas y multilaterales, expertos, académicos, cuyo aporte estime pertinente y pueda ser de utilidad para los fines encomendados a la misma, quienes asistirán a las sesiones, con voz, pero sin voto.
 
-ARTÍCULO
-
 ## art:2.20.1.3.2 — Secretaría Técnica de la Mesa Técnica Nacional de Compras Públicas Locales de Alimentos
 
 La Secretaría Técnica de la Mesa estará a cargo de la Agencia de Desarrollo Rural. Las funciones de la Secretaría Técnica se establecerán en el reglamento de la Mesa Técnica Nacional de Compras Públicas Locales de Alimentos.
-
-ARTÍCULO
 
 ## art:2.20.1.3.3 — Funciones de la Mesa Técnica Nacional de Compras Públicas Locales de Alimentos
 
@@ -25984,8 +22740,6 @@ m. Crear los Comités técnicos que considere pertinente de acuerdo con los tema
 n. Darse su propio reglamento. En el citado documento se deberá establecer como mínimo las condiciones de operación, el quórum deliberatorio y decisorio, funciones del presidente y la secretaria técnica, sesiones, convocatorias, asistencia, expedición de actas y acuerdos, y las demás que sean necesarias para su correcto funcionamiento. Esto debe realizarse en los tres (3) meses siguientes a la conformación de la Mesa Técnica Nacional de Compras Públicas Locales de Alimentos.
 
 PARÁGRAFO . Los comités de seguridad alimentaria o mesas territoriales existentes relacionadas con el acceso y el abastecimiento de alimentos deberán prestar toda la colaboración que requiera la Mesa Técnica Nacional de Compras Públicas Locales de Alimentos para ejercer sus funciones.
-
-ARTÍCULO
 
 ## art:2.20.1.3.4 — Reporte de información
 
@@ -26230,8 +22984,6 @@ PARTE 1
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art, 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector administrativo a que se refiere este decreto que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -26244,8 +22996,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -26257,91 +23007,3 @@ Dado en Bogotá, D.C., a los 26 días del mes de mayo del año 2015
 AURELIO IRAGORRI VALENCIA
 
 EL MINISTRO DE AGRICULTURA Y DESARROLLO RURAL
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

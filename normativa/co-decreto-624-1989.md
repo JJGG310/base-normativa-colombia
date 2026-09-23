@@ -8,7 +8,7 @@ ramas: [tributario]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html
-verificado: 2026-09-10
+verificado: 2026-09-23
 ---
 
 ## art:1 — ORIGEN DE LA OBLIGACIÓN SUSTANCIAL
@@ -36,9 +36,9 @@ ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
 El impuesto sobre la renta y complementarios se considera como un solo tributo y comprende: 
 
-1. <Ver Notas del Editor> Para las personas naturales, sucesiones ilíquidas, y bienes destinados a fines especiales en virtud de donaciones o asignaciones modales contemplados en el artículo 11, los que se liquidan con base en la renta, en las ganancias ocasionales, en el patrimonio* y en la transferencia de rentas y ganancias ocasionales al exterior**. 
+1. Para las personas naturales, sucesiones ilíquidas, y bienes destinados a fines especiales en virtud de donaciones o asignaciones modales contemplados en el artículo 11, los que se liquidan con base en la renta, en las ganancias ocasionales, en el patrimonio* y en la transferencia de rentas y ganancias ocasionales al exterior**. 
 
-2. <Ver Notas del Editor> Para los demás contribuyentes, los que se liquidan con base en la renta, en las ganancias ocasionales y en la transferencia* al exterior de rentas y ganancias ocasionales, así como sobre las utilidades comerciales en el caso de sucursales de sociedades y entidades extranjeras.
+2. Para los demás contribuyentes, los que se liquidan con base en la renta, en las ganancias ocasionales y en la transferencia* al exterior de rentas y ganancias ocasionales, así como sobre las utilidades comerciales en el caso de sucursales de sociedades y entidades extranjeras.
 
 ## art:6 — DECLARACIÓN VOLUNTARIA DEL IMPUESTO SOBRE LA RENTA
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
@@ -64,7 +64,7 @@ Durante el proceso de liquidación de la sociedad conyugal, el sujeto del impues
 ## art:9 — IMPUESTO DE LAS PERSONAS NATURALES, RESIDENTES Y NO RESIDENTES
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
-<Fuente original compilada: D. 2053/74 Art. 11> Las personas naturales, nacionales o extranjeras, residentes en el país y las sucesiones ilíquidas de causantes con residencia en el país en el momento de su muerte, están sujetas al impuesto sobre la renta y complementarios en lo concerniente a sus rentas y ganancias ocasionales, tanto de fuente nacional como de fuente extranjera, y a su patrimonio* poseído dentro y fuera del país.
+Las personas naturales, nacionales o extranjeras, residentes en el país y las sucesiones ilíquidas de causantes con residencia en el país en el momento de su muerte, están sujetas al impuesto sobre la renta y complementarios en lo concerniente a sus rentas y ganancias ocasionales, tanto de fuente nacional como de fuente extranjera, y a su patrimonio* poseído dentro y fuera del país.
 
 <Inciso derogado por el artículo 198 de la Ley 1607 de 2012> 
 
@@ -119,7 +119,7 @@ Las sociedades y entidades nacionales son gravadas, tanto sobre sus rentas y gan
 
 Las sociedades y entidades extranjeras son gravadas únicamente sobre sus rentas y ganancias ocasionales de fuente nacional. 
 
-<Ver Notas del Editor> Adicionalmente, los contribuyentes a que se refiere este artículo son sujetos pasivos del impuesto de remesas*, conforme a lo establecido en el Título IV de este Libro.
+ Adicionalmente, los contribuyentes a que se refiere este artículo son sujetos pasivos del impuesto de remesas*, conforme a lo establecido en el Título IV de este Libro.
 
 ## art:12-1 — CONCEPTO DE SOCIEDADES Y ENTIDADES NACIONALES PARA EFECTOS TRIBUTARIOS
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
@@ -187,12 +187,12 @@ ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
 Son contribuyentes del impuesto sobre la renta y complementarios los fondos públicos, tengan o no personería jurídica, cuando sus recursos provengan de impuestos nacionales destinados a ellos por disposiciones legales o cuando no sean administrados directamente por el Estado. Para tales efectos, se asimilan a sociedades anónimas. 
 
-<Ver Notas del Editor> <Fuente original compilada: L. 75/86 Art. 33> La Empresa Nacional de Telecomunicaciones, TELECOM, es contribuyente del impuesto sobre la renta y complementarios y se regula por el régimen vigente para las sociedades anónimas
+ <Fuente original compilada: L. 75/86 Art. 33> La Empresa Nacional de Telecomunicaciones, TELECOM, es contribuyente del impuesto sobre la renta y complementarios y se regula por el régimen vigente para las sociedades anónimas.
 
 ## art:18 — CONTRATOS DE COLABORACIÓN EMPRESARIAL
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
-<Artículo modificado por el artículo 20 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los contratos de colaboración empresarial tales como consorcios, uniones temporales, joint ventures y cuentas en participación, no son contribuyentes del impuesto sobre la renta y complementarios. Las partes en el contrato de colaboración empresarial, deberán declarar de manera independiente los activos, pasivos, ingresos, costos y deducciones que les correspondan, de acuerdo con su participación en los activos, pasivos, ingresos, costos y gastos incurridos en desarrollo del contrato de colaboración empresarial. Para efectos tributarios, las partes deberán llevar un registro sobre las actividades desarrolladas en virtud del contrato de colaboración empresarial que permita verificar los ingresos, costos y gastos incurridos en desarrollo del mismo.
+Los contratos de colaboración empresarial tales como consorcios, uniones temporales, joint ventures y cuentas en participación, no son contribuyentes del impuesto sobre la renta y complementarios. Las partes en el contrato de colaboración empresarial, deberán declarar de manera independiente los activos, pasivos, ingresos, costos y deducciones que les correspondan, de acuerdo con su participación en los activos, pasivos, ingresos, costos y gastos incurridos en desarrollo del contrato de colaboración empresarial. Para efectos tributarios, las partes deberán llevar un registro sobre las actividades desarrolladas en virtud del contrato de colaboración empresarial que permita verificar los ingresos, costos y gastos incurridos en desarrollo del mismo.
 
 Las partes en el contrato de colaboración empresarial deberán suministrar toda la información que sea solicitada por la DIAN, en relación con los contratos de colaboración empresarial.
 
@@ -293,7 +293,7 @@ Las entidades de que trata el presente artículo no están sometidas a renta pre
 ## art:19-3 — OTROS CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
-<Artículo modificado por el artículo 11 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Son contribuyentes del impuesto sobre la renta y complementarios, Fogafín y Fogacoop**. 
+Son contribuyentes del impuesto sobre la renta y complementarios, Fogafín y Fogacoop**. 
 
 Los ingresos y egresos provenientes de los recursos que administran Fogafín y Fogacoop** en las cuentas fiduciarias, no serán considerados para la determinación de su renta. El mismo tratamiento tendrá los recursos transferidos por la Nación a Fogafín provenientes del Presupuesto General de la Nación destinados al saneamiento de la banca pública, los gastos que se causen con cargo a estos recursos y las transferencias que realice la Nación a estos entes con destino al fortalecimiento de que trata la Ley 510 de 1999 y Decreto 2206 de 1998. 
 
@@ -301,7 +301,10 @@ El patrimonio resultante tanto de las cuentas fiduciarias administradas por Foga
 
 El aumento de la reserva técnica que se constituya conforme a la dinámica contable establecida por la Superintendencia Bancaria* será deducible en la determinación de la renta gravable.
 
-ARTÍCULO 19-4. TRIBUTACIÓN SOBRE LA RENTA DE LAS COOPERATIVAS. <Artículo adicionado por el artículo 142 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las cooperativas, sus asociaciones, uniones, ligas centrales, organismos de grado superior de carácter financiero, las asociaciones mutualistas, instituciones auxiliares del cooperativismo, confederaciones cooperativas, previstas en la legislación cooperativa, vigilados por alguna superintendencia u organismo de control; pertenecen al Régimen Tributario Especial y tributan sobre sus beneficios netos o excedentes a la tarifa única especial del veinte por ciento (20%). El impuesto será tomado en su totalidad del Fondo de Educación y Solidaridad de que trata el artículo 54 de la Ley 79 de 1988.
+## art:19-4 — TRIBUTACIÓN SOBRE LA RENTA DE LAS COOPERATIVAS
+ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
+
+Las cooperativas, sus asociaciones, uniones, ligas centrales, organismos de grado superior de carácter financiero, las asociaciones mutualistas, instituciones auxiliares del cooperativismo, confederaciones cooperativas, previstas en la legislación cooperativa, vigilados por alguna superintendencia u organismo de control; pertenecen al Régimen Tributario Especial y tributan sobre sus beneficios netos o excedentes a la tarifa única especial del veinte por ciento (20%). El impuesto será tomado en su totalidad del Fondo de Educación y Solidaridad de que trata el artículo 54 de la Ley 79 de 1988.
 
 Las cooperativas realizarán el cálculo de este beneficio neto o excedente de acuerdo con la ley y la normativa cooperativa vigente. Las reservas legales a las cuales se encuentran obligadas estas entidades no podrán ser registradas como un gasto para la determinación del beneficio neto o excedente.
 
@@ -322,7 +325,7 @@ PARÁGRAFO TRANSITORIO 2o. En el año 2018 la tarifa a la que se refiere el inci
 ## art:20 — LAS SOCIEDADES Y ENTIDADES EXTRANJERAS SON CONTRIBUYENTES
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
-<Artículo modificado por el artículo 85 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> Salvo las excepciones previstas en los tratados internacionales y en el derecho interno, son contribuyentes del impuesto sobre la renta y complementarios las sociedades y entidades extranjeras de cualquier naturaleza, únicamente en relación con sus rentas y ganancias ocasionales de fuente nacional, independientemente de que perciban dichas rentas y ganancias ocasionales directamente o a través de sucursales o establecimientos permanentes ubicados en el país.
+Salvo las excepciones previstas en los tratados internacionales y en el derecho interno, son contribuyentes del impuesto sobre la renta y complementarios las sociedades y entidades extranjeras de cualquier naturaleza, únicamente en relación con sus rentas y ganancias ocasionales de fuente nacional, independientemente de que perciban dichas rentas y ganancias ocasionales directamente o a través de sucursales o establecimientos permanentes ubicados en el país.
 
 Para tales efectos, se aplica el régimen consagrado para las sociedades anónimas nacionales, salvo cuando tenga restricciones expresas.
 
@@ -348,7 +351,10 @@ Las personas naturales no residentes y las personas jurídicas y entidades extra
 
 PARÁGRAFO. Para propósitos de la atribución de las rentas y ganancias ocasionales a que se refiere este artículo, los establecimientos permanentes y las sucursales de sociedades extranjeras deberán llevar contabilidad separada en la que se discriminen claramente los ingresos, costos y gastos que les sean atribuibles. Sin perjuicio del cumplimiento por parte de los obligados al régimen de precios de transferencia de los deberes formales relativos a la declaración informativa y a la documentación comprobatoria, para efectos de lo establecido en este artículo, la contabilidad de los establecimientos permanentes y de las sucursales de sociedades extranjeras deberá estar soportada en un estudio sobre las funciones, activos, riesgos y personal involucrados en la obtención de las rentas y de las ganancias ocasionales atribuidas a ellos.
 
-ARTÍCULO 20-3. TRIBUTACIÓN POR PRESENCIA ECONÓMICA SIGNIFICATIVA EN COLOMBIA. <Artículo adicionado por el artículo 57 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Se encuentran sometidos al impuesto sobre la renta y complementarios las personas no residentes o entidades no domiciliadas en el país con presencia económica significativa en Colombia sobre los ingresos provenientes de la venta de bienes y/o prestación de servicios a favor de clientes y/o usuarios ubicados en el territorio nacional. La sujeción al impuesto sobre la renta aquí contemplada estará condicionada a las siguientes reglas: 
+## art:20-3 — TRIBUTACIÓN POR PRESENCIA ECONÓMICA SIGNIFICATIVA EN COLOMBIA
+ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
+
+Se encuentran sometidos al impuesto sobre la renta y complementarios las personas no residentes o entidades no domiciliadas en el país con presencia económica significativa en Colombia sobre los ingresos provenientes de la venta de bienes y/o prestación de servicios a favor de clientes y/o usuarios ubicados en el territorio nacional. La sujeción al impuesto sobre la renta aquí contemplada estará condicionada a las siguientes reglas: 
 
 1. Para la comercialización de bienes y/o servicios, se entenderá que una persona no residente o entidad no domiciliada tendrá una presencia económica significativa en Colombia cuando: 
 
@@ -407,18 +413,6 @@ ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
 Se consideran extranjeras las sociedades u otras entidades que no sean sociedades o entidades nacionales.
 
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:21-1 — Artículo adicionado por el artículo 22 de la Ley 1819 de 2016. El nuevo texto es el siguiente:
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
@@ -454,11 +448,14 @@ Concepto SDHBOG 2024EE184322 de 2024 - Impuesto de Industria y Comercio - Propie
 ## art:23 — ENTIDADES NO CONTRIBUYENTES DECLARANTES
 ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
 
-<Ver Notas del Editor> <Artículo modificado por el artículo 145 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> No son contribuyentes del impuesto sobre la renta los sindicatos, las asociaciones gremiales, los fondos de empleados, los fondos mutuos de inversión, las iglesias y confesiones religiosas reconocidas por el Ministerio del Interior o por la ley, los partidos o movimientos políticos aprobados por el Consejo Nacional Electoral; las asociaciones y federaciones de Departamentos y de Municipios, las sociedades o entidades de alcohólicos anónimos, los establecimientos públicos y en general cualquier establecimiento oficial descentralizado, siempre y cuando no se señale en la ley de otra manera. Estas entidades estarán en todo caso obligadas a presentar la declaración de ingresos y patrimonio.
+No son contribuyentes del impuesto sobre la renta los sindicatos, las asociaciones gremiales, los fondos de empleados, los fondos mutuos de inversión, las iglesias y confesiones religiosas reconocidas por el Ministerio del Interior o por la ley, los partidos o movimientos políticos aprobados por el Consejo Nacional Electoral; las asociaciones y federaciones de Departamentos y de Municipios, las sociedades o entidades de alcohólicos anónimos, los establecimientos públicos y en general cualquier establecimiento oficial descentralizado, siempre y cuando no se señale en la ley de otra manera. Estas entidades estarán en todo caso obligadas a presentar la declaración de ingresos y patrimonio.
 
 Las entidades de que trata el presente artículo deberán garantizar la transparencia en la gestión de sus recursos y en el desarrollo de su actividad. La DIAN podrá ejercer fiscalización sobre estas entidades y solicitar la información que considere pertinente para esos efectos.
 
-ARTÍCULO 23-1. NO SON CONTRIBUYENTES LOS FONDOS DE CAPITAL PRIVADO, LOS FONDOS DE INVERSIÓN COLECTIVA Y OTROS. <Artículo modificado por el artículo 68 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> No son contribuyentes del impuesto sobre la renta y complementarios los fondos de capital privado y los fondos de inversión colectiva, administrados por una entidad autorizada para tal efecto. 
+## art:23-1 — NO SON CONTRIBUYENTES LOS FONDOS DE CAPITAL PRIVADO, LOS FONDOS DE INVERSIÓN COLECTIVA Y OTROS
+ubicacion: TITULO PRELIMINAR. OBLIGACIÓN TRIBUTARIA.
+
+No son contribuyentes del impuesto sobre la renta y complementarios los fondos de capital privado y los fondos de inversión colectiva, administrados por una entidad autorizada para tal efecto. 
 
 La remuneración que reciba por su labor la entidad que administre el fondo constituye un ingreso gravable para la misma y estará sujeta a retención en la fuente. 
 
@@ -734,7 +731,10 @@ PARÁGRAFO 1o. En las operaciones de factoraje o factoring el factor podrá dedu
 
 PARÁGRAFO 2o. En las operaciones de factoraje o factoring que no impliquen la transferencia de los riesgos y beneficios de la cartera enajenada y la operación se considere como una operación de financiamiento con recurso, el enajenante debe mantener el activo y la deducción de los intereses y rendimientos financieros se somete a las reglas previstas en el Capítulo V del Libro I de este estatuto. Lo previsto en este parágrafo no será aplicable cuando el factor tenga plena libertad para enajenar la cartera adquirida.
 
-ARTÍCULO 33-3. TRATAMIENTO TRIBUTARIO DE LAS ACCIONES PREFERENTES. <Artículo adicionado por el artículo 35 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos fiscales, las acciones preferentes tendrán, para el emisor, el mismo tratamiento de los pasivos financieros. Para el tenedor, tendrán el tratamiento de un activo financiero. Por consiguiente, el tenedor deberá reconocer un ingreso financiero, respecto de los pagos, al momento de su realización o la enajenación del activo.
+## art:33-3 — TRATAMIENTO TRIBUTARIO DE LAS ACCIONES PREFERENTES
+ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
+
+Para efectos fiscales, las acciones preferentes tendrán, para el emisor, el mismo tratamiento de los pasivos financieros. Para el tenedor, tendrán el tratamiento de un activo financiero. Por consiguiente, el tenedor deberá reconocer un ingreso financiero, respecto de los pagos, al momento de su realización o la enajenación del activo.
 
 PARÁGRAFO 1o. El presente artículo aplicará a aquellas acciones preferentes que reúnan la totalidad de las siguientes características:
 
@@ -748,7 +748,10 @@ PARÁGRAFO 1o. El presente artículo aplicará a aquellas acciones preferentes q
 
 PARÁGRAFO 2o. Los rendimientos de las acciones preferentes se someten a las reglas previstas en este Estatuto para la deducción de intereses. Las acciones preferentes se consideran una deuda. Las acciones que no reúnan las condiciones del Parágrafo 1, se consideran instrumentos de patrimonio, sus rendimientos se someten a las reglas de dividendos y su enajenación a las reglas previstas para la enajenación de acciones.
 
-ARTÍCULO 33-4. TRATAMIENTO DE LAS OPERACIONES DE REPORTO O REPO, SIMULTÁNEAS Y DE TRANSFERENCIA TEMPORAL DE VALORES. <Artículo adicionado por el artículo 36 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En las operaciones de reporto o repo, simultáneas o trasferencias temporales de valores, independientemente de los valores involucrados en la operación, el valor neto de la operación, será:
+## art:33-4 — TRATAMIENTO DE LAS OPERACIONES DE REPORTO O REPO, SIMULTÁNEAS Y DE TRANSFERENCIA TEMPORAL DE VALORES
+ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
+
+En las operaciones de reporto o repo, simultáneas o trasferencias temporales de valores, independientemente de los valores involucrados en la operación, el valor neto de la operación, será:
 
 1. Ingreso a favor del adquirente inicial para el caso de las operaciones de reporto o repo y simultáneas, y del originador en el caso de las operaciones de transferencia temporal de valores, y
 
@@ -824,7 +827,7 @@ b. Títulos de deuda pública.
 
 c. Bonos y papeles comerciales de sociedades anónimas cuya emisión u oferta haya sido autorizada por la Comisión Nacional de Valores*2. 
 
-<Ver Notas del Editor**> El porcentaje no constitutivo de renta ni de ganancia ocasional, se determinará como el resultado de dividir la tasa de corrección monetaria vigente el 31 de diciembre del respectivo año gravable por la tasa de interés anual que corresponda a los rendimientos percibidos por el ahorrador.
+ El porcentaje no constitutivo de renta ni de ganancia ocasional, se determinará como el resultado de dividir la tasa de corrección monetaria vigente el 31 de diciembre del respectivo año gravable por la tasa de interés anual que corresponda a los rendimientos percibidos por el ahorrador.
 
 Las entidades que paguen o abonen los rendimientos financieros de que trata este artículo, informarán a sus ahorradores el valor no gravado de conformidad con el inciso anterior. 
 
@@ -845,7 +848,7 @@ b. Títulos de deuda pública.
 
 c. Valores emitidos por sociedades anónimas cuya oferta pública haya sido autorizada por la Comisión Nacional de Valores*2. 
 
-<Ver Notas del Editor**> Para los efectos del presente artículo, se entiende por componente inflacionario de los rendimientos financieros, el resultado de multiplicar el valor bruto de tales rendimientos, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año gravable y la tasa de captación más representativa a la misma fecha, según certificación de la Superintendencia Bancaria.
+ Para los efectos del presente artículo, se entiende por componente inflacionario de los rendimientos financieros, el resultado de multiplicar el valor bruto de tales rendimientos, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año gravable y la tasa de captación más representativa a la misma fecha, según certificación de la Superintendencia Bancaria.
 
 ## art:40 — EL COMPONENTE INFLACIONARIO EN RENDIMIENTOS FINANCIEROS PERCIBIDOS POR LOS DEMAS CONTRIBUYENTES
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
@@ -868,26 +871,14 @@ ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 
 100% para el año gravable 1998 y siguientes. 
 
-<Ver Notas del Editor> Para los efectos del presente artículo, entiéndese por componente inflacionario de los rendimientos financieros, el resultado de multiplicar el valor bruto de tales rendimientos, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año inmediatamente anterior al gravable y la tasa de captación más representativa a la misma fecha, según certificación de la Superintendencia Bancaria.
+ Para los efectos del presente artículo, entiéndese por componente inflacionario de los rendimientos financieros, el resultado de multiplicar el valor bruto de tales rendimientos, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año inmediatamente anterior al gravable y la tasa de captación más representativa a la misma fecha, según certificación de la Superintendencia Bancaria.
 
-PARAGRAFO 1o. Para los efectos de este artículo, el ingreso generado en el ajuste por diferencia en cambio se asimilará a rendimientos financieros. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARAGRAFO 1o. Para los efectos de este artículo, el ingreso generado en el ajuste por diferencia en cambio se asimilará a rendimientos financieros.
 
 ## art:40-1 — COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 
-<Texto vigente antes de la derogatoria por la Ley 1943 de 2018 revivido a partir de la promulgación de la Ley 2010 de 2019 por el artículo 160 de la Ley 2010 de 2019> Para fines de los cálculos previstos en los artículos 38, 39 y 40 del Estatuto Tributario, el componente inflacionario de los rendimientos financieros se determinará como el resultado de dividir la tasa de inflación del respectivo año gravable, certificada por el DANE, por la tasa de captación más representativa del mercado, en el mismo período, certificada por la Superintendencia Bancaria*
+<Texto vigente antes de la derogatoria por la Ley 1943 de 2018 revivido a partir de la promulgación de la Ley 2010 de 2019 por el artículo 160 de la Ley 2010 de 2019> Para fines de los cálculos previstos en los artículos 38, 39 y 40 del Estatuto Tributario, el componente inflacionario de los rendimientos financieros se determinará como el resultado de dividir la tasa de inflación del respectivo año gravable, certificada por el DANE, por la tasa de captación más representativa del mercado, en el mismo período, certificada por la Superintendencia Bancaria*.
 
 ## art:41 — COMPONENTE INFLACIONARIO DE RENDIMIENTOS Y GASTOS FINANCIEROS
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
@@ -956,7 +947,7 @@ No constituye ganancia ocasional lo que se recibiere por concepto de gananciales
 ## art:47-1 — DONACIONES PARA PARTIDOS, MOVIMIENTOS Y CAMPAÑAS POLITICAS
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 
-<Aparte tachado derogado por el artículo 78 de la Ley 1111 de 2006. Artículo adicionado por el artículo 248 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Las sumas que las personas naturales reciban de terceros, sean estos personas naturales o jurídicas, destinadas en forma exclusiva a financiar el funcionamiento de partidos, movimientos políticos y grupos sociales que postulen candidatos y las que con el mismo fin reciban los candidatos cabezas de listas para la financiación de las campañas políticas para las elecciones populares previstas en la Constitución Nacional, no constituyen renta ni ganancia ocasional para el beneficiario si se demuestra que han sido utilizadas en estas actividades.
+<Aparte tachado derogado por el artículo 78 de la Ley 1111 de 2006. Artículo adicionado por el artículo 248 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Las sumas que las personas naturales reciban de terceros, sean estos personas naturales o jurídicas, destinadas en forma exclusiva a financiar el funcionamiento de partidos, movimientos políticos y grupos sociales que postulen candidatos y las que con el mismo fin reciban los candidatos [TACHADO: cabezas de listas] para la financiación de las campañas políticas para las elecciones populares previstas en la Constitución Nacional, no constituyen renta ni ganancia ocasional para el beneficiario si se demuestra que han sido utilizadas en estas actividades.
 
 ## art:47-2 — 
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
@@ -1033,7 +1024,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 ## art:55 — APORTES OBLIGATORIOS AL SISTEMA GENERAL DE PENSIONES
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 
-<Artículo modificado por el artículo 31 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los aportes obligatorios que efectúen los trabajadores, empleadores y afiliados al Sistema General de Seguridad Social en Pensiones no harán parte de la base para aplicar la retención en la fuente por rentas de trabajo y serán considerados como un ingreso no constitutivo de renta ni de ganancia ocasional. Los aportes a cargo del empleador serán deducibles de su renta. Las cotizaciones voluntarias al régimen de ahorro individual con solidaridad son un ingreso no constitutivo de renta ni de ganancia ocasional para el aportante, en un porcentaje que no exceda el veinticinco por ciento (25%) del ingreso laboral o tributario anual, limitado a 2.500 UVT. Los retiros, parciales o totales, de las cotizaciones voluntarias, que hayan efectuado los afiliados al régimen de ahorro individual con solidaridad para fines distintos a la obtención de una mayor pensión o un retiro anticipado, constituyen renta líquida gravable para el aportante y la respectiva sociedad administradora efectuará la retención en la fuente a la tarifa del 35% al momento del retiro. 
+Los aportes obligatorios que efectúen los trabajadores, empleadores y afiliados al Sistema General de Seguridad Social en Pensiones no harán parte de la base para aplicar la retención en la fuente por rentas de trabajo y serán considerados como un ingreso no constitutivo de renta ni de ganancia ocasional. Los aportes a cargo del empleador serán deducibles de su renta. Las cotizaciones voluntarias al régimen de ahorro individual con solidaridad son un ingreso no constitutivo de renta ni de ganancia ocasional para el aportante, en un porcentaje que no exceda el veinticinco por ciento (25%) del ingreso laboral o tributario anual, limitado a 2.500 UVT. Los retiros, parciales o totales, de las cotizaciones voluntarias, que hayan efectuado los afiliados al régimen de ahorro individual con solidaridad para fines distintos a la obtención de una mayor pensión o un retiro anticipado, constituyen renta líquida gravable para el aportante y la respectiva sociedad administradora efectuará la retención en la fuente a la tarifa del 35% al momento del retiro. 
 
 PARÁGRAFO. Los retiros, parciales o totales, de las cotizaciones voluntarias, que hayan efectuado los afiliados al régimen de ahorro individual con solidaridad, para fines distintos a la obtención de una mayor pensión o un retiro anticipado, constituirán renta gravada en el año en que sean retirados. La respectiva sociedad administradora efectuará la retención en la fuente a la tarifa del 35% al momento del retiro.
 
@@ -1055,7 +1046,12 @@ ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 ## art:57 — EXONERACIÓN DE IMPUESTOS PARA LA ZONA DEL NEVADO DEL RUIZ
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
 
-ARTÍCULO 57-1. INGRESOS NO CONSTITUTIVOS DE RENTA O GANANCIA OCASIONAL. <Artículo derogado a partir del 1 de enero de 2023 por el artículo 96 de la Ley 2277 de 2022>
+<Artículo derogado a partir del 1 de enero de 2023 por el artículo 96 de la Ley 2277 de 2022>
+
+## art:57-1 — INGRESOS NO CONSTITUTIVOS DE RENTA O GANANCIA OCASIONAL
+ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
+
+<Artículo derogado a partir del 1 de enero de 2023 por el artículo 96 de la Ley 2277 de 2022>
 
 ## art:57-2 — TRATAMIENTO TRIBUTARIO RECURSOS ASIGNADOS A PROYECTOS CALIFICADOS COMO DE CARÁCTER CIENTÍFICO, TECNOLÓGICO O DE INNOVACIÓN
 ubicacion: TITULO I. RENTA. > CAPITULO I. INGRESOS.
@@ -1064,8 +1060,15 @@ Los recursos que reciba el contribuyente para ser destinados al desarrollo de pr
 
 Igual tratamiento se aplica a la remuneración de las personas naturales por la ejecución directa de labores de carácter científico, tecnológico o de innovación, siempre que dicha remuneración provenga de los recursos destinados al respectivo proyecto, según los criterios y las condiciones definidas por el Consejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación.
 
+## art:58 — REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
+
+Para los contribuyentes no obligados a llevar contabilidad se entienden realizados los costos legalmente aceptables cuando se paguen efectivamente en dinero o en especie, o cuando su exigibilidad termine por cualquier otro modo que equivalga legalmente a un pago. 
+
+Por consiguiente, los costos incurridos por anticipado solo se deducen en el año o período gravable en que se preste el servicio o venda el bien.
+
 ## art:59 — REALIZACIÓN DEL COSTO PARA LOS OBLIGADOS A LLEVAR CONTABILIDAD
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Para los contribuyentes que estén obligados a llevar contabilidad, los costos realizados fiscalmente son los costos devengados contablemente en el año o período gravable.
 
@@ -1092,7 +1095,7 @@ PARÁGRAFO 1o. Capitalización por costos de préstamos. Cuando de conformidad c
 PARÁGRAFO 2o. En el caso que los inventarios sean autoconsumidos o transferidos a título gratuito, se considerará el costo fiscal del inventario para efectos del Impuesto sobre la renta y complementarios.
 
 ## art:60 — CLASIFICACIÓN DE LOS ACTIVOS ENAJENADOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Los activos enajenados se dividen en movibles y en fijos o inmovilizados. 
 
@@ -1100,22 +1103,33 @@ Son activos movibles los bienes corporales muebles o inmuebles y los incorporale
 
 Son activos fijos o inmovilizados los bienes corporales muebles o inmuebles y los incorporales que no se enajenan dentro del giro ordinario de los negocios del contribuyente. 
 
-PARÁGRAFO. <Parágrafo adicionado por el artículo 40 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para los contribuyentes obligados a llevar contabilidad los activos movibles corresponden a los inventarios. Los activos fijos corresponden a todos aquellos activos diferentes a los inventarios y se clasificarán de acuerdo con los nuevos marcos técnicos normativos, tales como propiedad, planta y equipo, propiedades de inversión, activos no corrientes mantenidos para la venta
+PARÁGRAFO. <Parágrafo adicionado por el artículo 40 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para los contribuyentes obligados a llevar contabilidad los activos movibles corresponden a los inventarios. Los activos fijos corresponden a todos aquellos activos diferentes a los inventarios y se clasificarán de acuerdo con los nuevos marcos técnicos normativos, tales como propiedad, planta y equipo, propiedades de inversión, activos no corrientes mantenidos para la venta.
 
 ## art:61 — COSTO FISCAL DE LOS ACTIVOS ADQUIRIDOS CON POSTERIORIDAD A 31 DE DICIEMBRE DE 2016
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-<Artículo adicionado por el artículo 42 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos del impuesto sobre la renta y complementarios el costo fiscal de los activos adquiridos con posterioridad a 31 de diciembre de 2016 corresponde al precio de adquisición, más los costos directamente atribuibles al activo hasta que se encuentre disponible para su uso o venta, salvo las excepciones dispuestas en este estatuto.
+Para efectos del impuesto sobre la renta y complementarios el costo fiscal de los activos adquiridos con posterioridad a 31 de diciembre de 2016 corresponde al precio de adquisición, más los costos directamente atribuibles al activo hasta que se encuentre disponible para su uso o venta, salvo las excepciones dispuestas en este estatuto.
+
+## art:62 — SISTEMA PARA ESTABLECER EL COSTO DE LOS INVENTARIOS ENAJENADOS
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
+
+Para los obligados a llevar contabilidad el costo en la enajenación de inventarios debe establecerse con base en alguno de los siguientes sistemas:
+
+1. El de juego de inventarios o periódicos.
+
+2. El de inventarios permanentes o continuos.
+
+El inventario de fin de año o período gravable es el inventario inicial del año o período gravable siguiente.
 
 ## art:63 — LIMITACIÓN A LA VALUACIÓN EN EL SISTEMA DE JUEGO DE INVENTARIOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-En el caso de juego de inventarios, las unidades del inventario final no pueden ser inferiores a la diferencia que resulte de restar, de la suma de las unidades del inventario inicial, más las compradas, las unidades vendidas durante el año o período gravable
+En el caso de juego de inventarios, las unidades del inventario final no pueden ser inferiores a la diferencia que resulte de restar, de la suma de las unidades del inventario inicial, más las compradas, las unidades vendidas durante el año o período gravable.
 
 ## art:64 — DISMINUCIÓN DEL INVENTARIO
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-<Artículo modificado por el artículo 43 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos del Impuesto sobre la renta y complementarios, el inventario podrá disminuirse por los siguientes conceptos:
+Para efectos del Impuesto sobre la renta y complementarios, el inventario podrá disminuirse por los siguientes conceptos:
 
 1. Cuando se trate de faltantes de inventarios de fácil destrucción o pérdida, las unidades del inventario final pueden disminuirse hasta en un tres por ciento (3%) de la suma del inventario inicial más las compras. Si se demostrare la ocurrencia de hechos constitutivos de fuerza mayor o caso fortuito, pueden aceptarse disminuciones mayores.
 
@@ -1127,17 +1141,17 @@ Cuando el costo de los inventarios vendidos se determine por el sistema de inven
 
 PARÁGRAFO 1o. El uso de cualquiera de las afectaciones a los inventarios aquí previstas excluye la posibilidad de solicitar dicho valor como deducción.
 
-PARÁGRAFO 2o. Cuando en aplicación de los casos previstos en este artículo, genere algún tipo de ingreso por recuperación, se tratará como una renta líquida por recuperación de deducciones
+PARÁGRAFO 2o. Cuando en aplicación de los casos previstos en este artículo, genere algún tipo de ingreso por recuperación, se tratará como una renta líquida por recuperación de deducciones.
 
 ## art:65 — MÉTODOS DE VALORACIÓN DE INVENTARIOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-<Artículo modificado por el artículo 44 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para los contribuyentes obligados a llevar contabilidad, los métodos de valoración de inventarios, esto es, las fórmulas de cálculo del costo y técnicas de medición del costo, serán las establecidas en la técnica contable, o las que determine el Gobierno nacional
+Para los contribuyentes obligados a llevar contabilidad, los métodos de valoración de inventarios, esto es, las fórmulas de cálculo del costo y técnicas de medición del costo, serán las establecidas en la técnica contable, o las que determine el Gobierno nacional.
 
 ## art:66 — DETERMINACIÓN DEL COSTO FISCAL DE LOS BIENES MUEBLES Y DE PRESTACIÓN DE SERVICIOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-<Artículo modificado por el artículo 45 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El costo fiscal de los bienes muebles y de prestación de servicios se determinará así:
+El costo fiscal de los bienes muebles y de prestación de servicios se determinará así:
 
 1. Para los obligados a llevar contabilidad:
 
@@ -1153,22 +1167,28 @@ a) El costo fiscal de los bienes muebles considerados activos movibles será: su
 
 b) El costo fiscal para los prestadores de servicios serán los efectivamente pagados.
 
-ARTÍCULO 66-1. DETERMINACIÓN DEL COSTO DE MANO DE OBRA EN EL CULTIVO DEL CAFÉ. <Artículo adicionado 46 por el artículo de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para la determinación del costo en los cultivos de café, se presume de derecho que el cuarenta por ciento (40%) del valor del ingreso gravado en cabeza del productor, en cada ejercicio gravable, corresponde a los costos y deducciones inherentes a la mano de obra. El contribuyente podrá tomar dicho porcentaje como costo en su declaración del impuesto de renta y complementario acreditando únicamente el cumplimiento de los requisitos de causalidad y necesidad contenidos en el artículo 107 del Estatuto Tributario, los cuales se podrán acreditar a través de cualquier documento que resulte idóneo para ello. 
+## art:66-1 — DETERMINACIÓN DEL COSTO DE MANO DE OBRA EN EL CULTIVO DEL CAFÉ
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
+
+Para la determinación del costo en los cultivos de café, se presume de derecho que el cuarenta por ciento (40%) del valor del ingreso gravado en cabeza del productor, en cada ejercicio gravable, corresponde a los costos y deducciones inherentes a la mano de obra. El contribuyente podrá tomar dicho porcentaje como costo en su declaración del impuesto de renta y complementario acreditando únicamente el cumplimiento de los requisitos de causalidad y necesidad contenidos en el artículo 107 del Estatuto Tributario, los cuales se podrán acreditar a través de cualquier documento que resulte idóneo para ello. 
 
 <Inciso INEXEQUIBLE>
 
 La presente disposición no exime al empleador del cumplimiento de todas las obligaciones laborales y de seguridad social.
 
-ARTÍCULO 66-2. DETERMINACIÓN DEL COSTO DE MANO DE OBRA EN EL CULTIVO DE PAPA. <Artículo adicionado por el artículo 17 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Para la determinación del costo en los cultivos de papa, se presume de derecho que el treinta por ciento (30%) del valor del ingreso gravado en cabeza del productor, en cada ejercicio gravable, corresponde a los costos y deducciones inherentes a la mano de obra.
+## art:66-2 — DETERMINACIÓN DEL COSTO DE MANO DE OBRA EN EL CULTIVO DE PAPA
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
+
+Para la determinación del costo en los cultivos de papa, se presume de derecho que el treinta por ciento (30%) del valor del ingreso gravado en cabeza del productor, en cada ejercicio gravable, corresponde a los costos y deducciones inherentes a la mano de obra.
 
 El contribuyente podrá tomar dicho porcentaje como costo en su declaración del impuesto de renta y complementario acreditando únicamente el cumplimiento de los requisitos de causalidad y necesidad contenidos en el artículo 107 del Estatuto Tributario, los cuales se podrán acreditar a través de cualquier documento que resulte idóneo para ello.
 
-La presente disposición no exime al empleador del cumplimiento de todas las obligaciones laborales y de seguridad social
+La presente disposición no exime al empleador del cumplimiento de todas las obligaciones laborales y de seguridad social.
 
 ## art:67 — DETERMINACIÓN DEL COSTO FISCAL DE LOS BIENES INMUEBLES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-<Artículo modificado por el artículo 47 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El costo fiscal de los bienes inmuebles se determinará así:
+El costo fiscal de los bienes inmuebles se determinará así:
 
 1. Para los contribuyentes que estén obligados a llevar contabilidad, será el establecido en los artículos 69 y 69-1 del presente Estatuto.
 
@@ -1187,35 +1207,71 @@ Cuando las obras se adelanten en municipios que no exijan aprobación del respec
 La diferencia entre la contraprestación recibida y el costo fiscal atribuible al bien al momento de su venta, se tratará como renta gravable o pérdida deducible, según el caso.
 
 ## art:68 — COSTO FISCAL DE ACTIVOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 A partir del año gravable 2007, la determinación del costo fiscal de los activos que hayan sido objeto de ajustes por inflación, se realizará con base en el costo ajustado de dichos activos a 31 de diciembre de 2006. 
 
 Cuando se trate de bienes depreciables, agotables o amortizables, la deducción o el costo por depreciación, agotamiento o amortización, se determinará sobre el costo del bien, sin incluir los ajustes a que se refieren los artículos 70, 72 y 90-2 de este Estatuto, el artículo 65 de la Ley 75 de 1986, el artículo 16 de la Ley 49 de 1990, ni los ajustes por inflación sobre dichas partidas, ni los ajustes por inflación a los mayores valores fiscales originados en diferencias entre el costo fiscal de los inmuebles y el avalúo catastral cuando este hubiere sido tomado como valor patrimonial a 31 de diciembre de 1991.
 
+## art:69 — DETERMINACIÓN DEL COSTO FISCAL DE LOS ELEMENTOS DE LA PROPIEDAD, PLANTA Y EQUIPO Y PROPIEDADES DE INVERSIÓN
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
+
+Para efectos del impuesto sobre la renta y complementarios, el costo fiscal de los elementos de propiedades, planta y equipo, y propiedades de inversión, para los contribuyentes que estén obligados a llevar contabilidad, será el precio de adquisición más los costos directamente atribuibles hasta que el activo esté disponible para su uso, salvo la estimación inicial de los costos de desmantelamiento y retiro del elemento, así como la rehabilitación del lugar sobre el que se asienta, en el caso que le sea aplicable. Adicionalmente harán parte del costo del activo las mejoras, reparaciones mayores e inspecciones, que deban ser capitalizadas de conformidad con la técnica contable y que cumplan con las disposiciones de este Estatuto.
+
+En las mediciones posteriores de estos activos se mantendrá el costo determinado en el inciso anterior. Para efectos fiscales estos activos se depreciarán según las reglas establecidas en el artículo 128 de este Estatuto.
+
+Cuando un activo se transfiere de inventarios o de activo no corriente mantenido para la venta a propiedad, planta y equipo, propiedades de inversión o viceversa, el costo fiscal corresponderá al valor neto que posea el activo en el inventario o activo no corriente mantenido para la venta.
+
+Cuando estos activos se enajenen, al resultado anterior se adiciona el valor de los ajustes a que se refiere el artículo 70 de este Estatuto; y se resta, cuando fuere el caso, la depreciación o amortización, siempre y cuando haya sido deducida para fines fiscales.
+
+PARÁGRAFO 1o. Las propiedades de inversión que se midan contablemente bajo el modelo de valor razonable, para efectos fiscales se medirán al costo. 
+
+PARÁGRAFO 2o. Para los contribuyentes no obligados a llevar contabilidad el costo de los bienes enajenados de los activos fijos o inmovilizados de que trata el artículo 60 de este estatuto, está constituido por el precio de adquisición o el costo declarado en el año inmediatamente anterior, según el caso, más los siguientes valores: 
+
+a) El costo de las adiciones y mejoras, en el caso de bienes muebles;
+
+b) El costo de las construcciones, mejoras, reparaciones locativas no deducidas y el de las contribuciones por valorización, en el caso de inmuebles.
+
+PARÁGRAFO 3o. Cuando un activo se transfiere de inventarios o de activo no corriente mantenido para la venta a propiedad, planta y equipo, propiedades de inversión o viceversa, el costo fiscal corresponderá al costo que posea el activo en el inventario o activo no corriente mantenido para la venta, menos las deducciones a que se hayan tomado para efectos fiscales.
+
+PARÁGRAFO 4o. Las inversiones en infraestructura de que trata el artículo 4o de la Ley 1493 de 2011, se capitalizarán hasta que el activo se encuentre apto para su uso, de conformidad con lo establecido en este estatuto.
+
+## art:69-1 — DETERMINACIÓN DEL COSTO FISCAL DE LOS ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
+
+Para efectos del impuesto sobre la renta y complementarios, el costo fiscal de los activos no corrientes mantenidos para la venta, corresponderá al mismo costo fiscal remanente del activo antes de su reclasificación. Así, el costo fiscal será la sumatoria de:
+
+1. Precio de adquisición.
+
+2. Costos directos atribuibles en la medición inicial.
+
+3. Menos cualquier deducción que haya sido realizada para fines del impuesto sobre la renta y complementarios.
+
+Cuando estos activos se enajenen, al resultado anterior se adiciona el valor de los ajustes a que se refiere el artículo 70 de este Estatuto.
+
 ## art:70 — AJUSTE AL COSTO DE LOS ACTIVOS FIJOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Los contribuyentes podrán ajustar anualmente el costo de los bienes muebles e inmuebles, que tengan el carácter de activos fijos en el porcentaje señalado en el artículo 868. 
 
 PARAGRAFO. <Parágrafo derogado por el artículo 78 de la Ley 1111 de 2006>
 
 ## art:71 — UTILIDAD EN LA ENAJENACIÓN DE INMUEBLES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Para determinar la utilidad en la enajenación de bienes inmuebles que se encuentren contenidos en el artículo 69 y 69-1 del Estatuto Tributario, se restará al precio de venta el costo fiscal, establecido de acuerdo con las alternativas previstas en este Capítulo.
 
 Cuando se trate de inmuebles adquiridos mediante contratos de arrendamiento financiero o leasing, retroarriendo o lease-back, de acuerdo con lo previsto en el artículo 127-1 del Estatuto Tributario, el costo de enajenación para el arrendatario adquirente será el determinado en el numeral 2 del artículo 127-1 del Estatuto Tributario, más las adiciones y mejoras, menos, cuando fuere el caso, la depreciación o amortización, siempre y cuando haya sido deducida para fines fiscales.
 
 ## art:72 — AVALUO COMO COSTO FISCAL
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 El avalúo declarado para los fines del Impuesto Predial Unificado, en desarrollo de lo dispuesto por los artículos 13 y 14 de la ley 44 de 1990 y 155 del Decreto 1421 de 1993, y los avalúos formados o actualizados por las autoridades catastrales, en los términos del artículo 5o. de la Ley 14 de 1983, podrán ser tomados como costo fiscal para la determinación de la renta o ganancia ocasional que se produzca en la enajenación de inmuebles que constituyan activos fijos para el contribuyente. Para estos fines, el autoavalúo o avalúo aceptable como costo fiscal, será el que figure en la declaración del Impuesto Predial Unificado y/o declaración de renta, según el caso, correspondiente al año anterior al de la enajenación. Para este propósito no se tendrán en cuenta las correcciones o adiciones a las declaraciones tributarias ni los avalúos no formados a los cuales se refiere el artículo 7o. de la Ley 14 de 1983. 
 
 <Inciso adicionado por el artículo 51 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En caso de tomarse como costo fiscal el avalúo o autoavalúo, en el momento de la enajenación del inmueble, se restarán del costo fiscal las depreciaciones que hayan sido deducidas para fines fiscales.
 
 ## art:73 — AJUSTE DE BIENES RAICES, ACCIONES Y APORTES QUE SEAN ACTIVOS FIJOS DE PERSONAS NATURALES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Para efectos de determinar la renta o ganancia ocasional, según el caso, proveniente de la enajenación de bienes raíces y de acciones o aportes, que tengan el carácter de activos fijos, los contribuyentes que sean personas naturales podrán ajustar el costo de adquisición de tales activos, en el incremento porcentual del valor de la propiedad raíz, o en el incremento porcentual del índice de precios al consumidor para empleados, respectivamente, que se haya registrado en el período comprendido entre el 1o. de enero del año en el cual se haya adquirido el bien y el 1o. de enero del año en el cual se enajena. El costo así ajustado, se podrá incrementar con el valor de las mejoras y contribuciones por valorización que se hubieren pagado, cuando se trate de bienes raíces. 
 
@@ -1227,12 +1283,12 @@ El ajuste previsto en este artículo podrá aplicarse, a opción del contribuyen
 
 Los ajustes efectuados de conformidad con el inciso primero del artículo 70, no serán aplicables para determinar la renta o la ganancia ocasional prevista en este artículo. 
 
-PARÁGRAFO. <Parágrafo adicionado por el artículo 52 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En el momento de la enajenación del inmueble, se restará del costo fiscal determinado de acuerdo con el presente artículo, las depreciaciones que hayan sido deducidas para fines fiscales
+PARÁGRAFO. <Parágrafo adicionado por el artículo 52 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En el momento de la enajenación del inmueble, se restará del costo fiscal determinado de acuerdo con el presente artículo, las depreciaciones que hayan sido deducidas para fines fiscales.
 
 ## art:74 — COSTO FISCAL DE LOS ACTIVOS INTANGIBLES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
-<Artículo modificado por el artículo 53 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos del impuesto sobre la renta y complementarios, los activos intangibles se clasifican dependiendo de la operación que los origine, y su costo fiscal, se determina con base en lo siguiente:
+Para efectos del impuesto sobre la renta y complementarios, los activos intangibles se clasifican dependiendo de la operación que los origine, y su costo fiscal, se determina con base en lo siguiente:
 
 1. Activos intangibles adquiridos separadamente. Son aquellos activos intangibles por los cuales el contribuyente paga por su adquisición.
 
@@ -1266,20 +1322,8 @@ PARÁGRAFO 1o. Para efectos de lo dispuesto en este estatuto el término plusval
 
 PARÁGRAFO 2o. Para los casos no previstos en este artículo o en el artículo 74-1 del Estatuto Tributario, los activos que sean susceptibles de amortizarse de conformidad con la técnica contable y no exista una restricción en este estatuto, tales como terrenos, su costo fiscal será el precio de adquisición, más los gastos atribuibles hasta que el activo esté listo para su uso o disposición.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:74-1 — COSTO FISCAL DE LAS INVERSIONES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Para efectos del impuesto sobre la renta y complementarios, el costo fiscal de las siguientes inversiones será:
 
@@ -1330,44 +1374,44 @@ b) Títulos de renta fija. El costo fiscal de estos instrumentos será el valor 
 PARÁGRAFO. Para efectos de lo previsto en el numeral 3 de este artículo, las definiciones de investigación, desarrollo e innovación serán las mismas aplicadas para efectos del artículo 256 del Estatuto Tributario.
 
 ## art:75 — COSTO DE LOS BIENES INCORPORALES FORMADOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 El costo fiscal de los bienes incorporales formados por los contribuyentes no obligados a llevar contabilidad, concernientes a la propiedad industrial, literaria, artística y científica, tales como patentes de invención, marcas, derechos de autor y otros intangibles, se presume constituido por el treinta por ciento (30%) del valor de la enajenación.
 
 ## art:76 — COSTO PROMEDIO DE LAS ACCIONES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Cuando el contribuyente tuviere dentro de su patrimonio acciones de una misma empresa cuyos costos fueren diferentes, deberá tomar como costo de enajenación el promedio de tales costos.
 
 ## art:76-1 — AJUSTE AL COSTO FISCAL DE ACCIONES Y PARTICIPACIONES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Cuando se distribuyan dividendos en acciones, el accionista deberá ajustar el costo fiscal de las acciones que poseía antes de la distribución. 
 
 Similar procedimiento se deberá seguir en la capitalización de las participaciones en las sociedades limitadas y asimiladas.
 
 ## art:77 — REQUISITOS PARA SU ACEPTACIÓN
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Cuando dentro de los costos o inversiones amortizables existan pagos o abonos en cuenta, que correspondan a conceptos respecto de los cuales obliga el cumplimiento de requisitos para su deducción, deben llenarse en relación con tales pagos o abonos, los mismos requisitos señalados para las deducciones.
 
 ## art:78 — PAZ Y SALVO POR CUOTAS DE FOMENTO ARROCERO, CEREALISTA Y CACAOTERO
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Para que las personas naturales o jurídicas obligadas a recaudar las cuotas de fomento de que trata la Ley 67 de 1983, tengan derecho a que se les acepte como costos deducibles el valor de las compras durante el respectivo ejercicio gravable, deberán obtener un certificado de paz y salvo por concepto de dicha cuota, expedido por la respectiva entidad administradora de la cuota.
 
 ## art:79 — DETERMINACIÓN DEL VALOR DE LOS PAGOS EN ESPECIE QUE CONSTITUYEN COSTO
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 El valor de los pagos o abonos en especie que sean constitutivos de costos, se determinará conforme a lo señalado para los ingresos en el artículo 29.
 
 ## art:80 — DETERMINACIÓN DEL VALOR DE COSTOS EN DIVISAS EXTRANJERAS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
 
 ## art:81 — PARTE DEL COMPONENTE INFLACIONARIO NO CONSTITUYE COSTO
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Texto vigente antes de la derogatoria por la Ley 1943 de 2018 revivido a partir de la promulgación de la Ley 2010 de 2019 por el artículo 160 de la Ley 2010 de 2019> No constituirá costo el componente inflacionario de los intereses y demás costos y gastos financieros, incluidos los ajustes por diferencia en cambio, en el porcentaje que se indica a continúación: 
 
@@ -1387,23 +1431,23 @@ ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DE
 
 100% para los años gravables de 1998 y siguientes. 
 
-<Ver Notas del Editor 1> Para los efectos del presente artículo, entiéndese por componente inflacionario de los intereses y demás costos y gastos financieros, el resultado de multiplicar el valor bruto de tales intereses o costos y gastos financieros, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año inmediatamente anterior al gravable y la tasa de colocación más representativa a la misma fecha, según certificación de la Superintendencia Bancaria*. 
+ Para los efectos del presente artículo, entiéndese por componente inflacionario de los intereses y demás costos y gastos financieros, el resultado de multiplicar el valor bruto de tales intereses o costos y gastos financieros, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año inmediatamente anterior al gravable y la tasa de colocación más representativa a la misma fecha, según certificación de la Superintendencia Bancaria*. 
 
-<Ver Notas del Editor 2> Cuando se trate de costos o gastos financieros por concepto de deudas en moneda extranjera, no será deducible en los porcentajes de que trata este artículo, la suma que resulte de multiplicar el valor bruto de tales intereses o costos y gastos financieros, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año inmediatamente anterior al gravable y la tasa más representativa del costo del endeudamiento externo a la misma fecha, según certificación del Banco de la República. 
+ Cuando se trate de costos o gastos financieros por concepto de deudas en moneda extranjera, no será deducible en los porcentajes de que trata este artículo, la suma que resulte de multiplicar el valor bruto de tales intereses o costos y gastos financieros, por la proporción que exista entre la tasa de corrección monetaria vigente a 31 de diciembre del año inmediatamente anterior al gravable y la tasa más representativa del costo del endeudamiento externo a la misma fecha, según certificación del Banco de la República. 
 
 PARAGRAFO 1o. <Fuente original compilada: L. 75/86 Art. 30> Lo dispuesto en este artículo no será aplicable a los créditos de constructores que otorgan las corporaciones de ahorro y vivienda, y a los intermediarios financieros que capten y coloquen masivamente y en forma regular dineros del público y que sean vigilados por la Superintendencia Bancaria*. 
 
 PARAGRAFO 2o. <Parágrafo derogado por el artículo 78 de la Ley 1111 de 2006>
 
 ## art:81-1 — COMPONENTE INFLACIONARIO QUE NO CONSTITUYE COSTO
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Texto vigente antes de la derogatoria por la Ley 1943 de 2018 revivido a partir de la promulgación de la Ley 2010 de 2019 por el artículo 160 de la Ley 2010 de 2019> <Artículo adicionado por el artículo 76 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Para los fines previstos en el artículo 81 del Estatuto Tributario, entiéndase por componente inflacionario de los intereses y demás costos y gastos financieros, el resultado de multiplicar el valor bruto de tales intereses o costos y gastos financieros, por la proporción que exista entre la tasa de inflación del respectivo ejercicio, certificada por el DANE, y la tasa promedio de colocación más representativa en el mismo período, según certificación de la Superintendencia Bancaria*. 
 
 Cuando se trate de costos o gastos financieros por concepto de deudas en moneda extranjera, no será deducible en los porcentajes señalados en el mencionado artículo, la suma que resulte de multiplicar el valor bruto de tales intereses o costos y gastos financieros, por la proporción que exista entre la inflación del mismo ejercicio, certificada por el DANE, y la tasa más representativa del costo promedio del endeudamiento externo en el mismo año, según certificación del Banco de la República.
 
 ## art:82 — DETERMINACIÓN DE COSTOS ESTIMADOS Y PRESUNTOS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Cuando existan indicios de que el costo informado por el contribuyente no es real o cuando no se conozca el costo de los activos enajenados ni sea posible su determinación mediante pruebas directas, tales como las declaraciones de renta del contribuyente o de terceros, la contabilidad o los comprobantes internos o externos, el funcionario que esté adelantando el proceso de fiscalización respectivo, puede fijar un costo acorde con los incurridos durante el año o período gravable por otras personas que hayan desarrollado la misma actividad del contribuyente, o hayan hecho operaciones similares de enajenación de activos, atendiendo a los datos estadísticos producidos por la Dirección General de Impuestos Nacionales<1>, por el Departamento Administrativo Nacional de Estadística, por el Banco de la República, por la Superintendencia de Industria y Comercio, por la Superintendencia de Sociedades u otras entidades cuyas estadísticas fueren aplicables. 
 
@@ -1412,49 +1456,49 @@ Su aplicación y discusión se hará dentro del mismo proceso.
 Si lo dispuesto en este artículo no resultare posible, se estimará el costo en el setenta y cinco por ciento (75%) del valor de la respectiva enajenación, sin perjuicio de las sanciones que se impongan por inexactitud de la declaración de renta o por no llevar debidamente los libros de contabilidad.
 
 ## art:83 — DETERMINACIÓN DEL COSTO DE VENTA EN PLANTACIONES DE REFORESTACIÓN
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
 
 ## art:84 — DETERMINACIÓN DEL COSTO EN VENTA DE ACCIONES DE SOCIEDADES ANONIMAS ABIERTAS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Artículo derogado por el artículo 4 de la Ley 49 de 1990>.
 
 ## art:85 — NO DEDUCIBILIDAD DE LOS COSTOS ORIGINADOS EN PAGOS REALIZADOS A VINCULADOS ECONOMICOS NO CONTRIBUYENTES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 No serán deducibles los costos y gastos de los contribuyentes, cuando correspondan a pagos o abonos en cuenta a favor de sus vinculados económicos que tengan el carácter de no contribuyentes del impuesto sobre la renta. 
 
 <Inciso derogado por el artículo 69 de la Ley 863 de 2003>
 
 ## art:85-1 — LIMITACIÓN DE COSTOS Y GASTOS PARA USUARIOS DE ZONAS FRANCAS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
 
 ## art:86 — PROHIBICIÓN DE TRATAR COMO COSTO EL IMPUESTO A LAS VENTAS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 En ningún caso, el impuesto a las ventas que deba ser tratado como descuento podrá ser tomado como costo o gasto en el impuesto sobre la renta.
 
 ## art:87 — LIMITACIÓN DE LOS COSTOS A PROFESIONALES INDEPENDIENTES Y COMISIONISTAS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
 
 ## art:87-1 — OTROS GASTOS ORIGINADOS EN LA RELACIÓN LABORAL NO DEDUCIBLES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 Los contribuyentes no podrán solicitar como costo o deducción, los pagos cuya finalidad sea remunerar de alguna forma y que no hayan formado parte de la base de retención en la fuente por ingresos laborales. Exceptúanse de la anterior disposición los pagos no constitutivos de ingreso gravable o exentos para el trabajador, de conformidad con las normas tributarias incluidos los provistos en el artículo 387 del Estatuto Tributario.
 
 ## art:88 — LIMITACIÓN DE COSTOS POR COMPRAS A PROVEEDORES FICTICIOS O INSOLVENTES
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 A partir de la fecha de su publicación en un diario de amplia circulación nacional, no serán deducibles en el impuesto sobre la renta las compras efectuadas a quienes el administrador de impuestos nacionales hubiere declarado como proveedor ficticio o insolvente, de acuerdo a lo establecido en el artículo 671.
 
 ## art:88-1 — DESCONOCIMIENTO DE COSTOS Y GASTOS POR CAMPAÑAS DE PUBLICIDAD DE PRODUCTOS EXTRANJEROS
-ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS. ARTÍCULO 58. REALIZACIÓN DEL COSTO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD. <Artículo modificado por el a
+ubicacion: TITULO I. RENTA. > CAPITULO II. COSTOS.
 
 No se aceptarán como deducción los gastos y costos en publicidad, promoción y propaganda de productos importados que correspondan a renglones calificados de contrabando masivo por el Gobierno Nacional, cuando dichos gastos superen el quince por ciento (15%) de las ventas de los respectivos productos importados legalmente, en el año gravable correspondiente. 
 
@@ -1471,12 +1515,12 @@ PARAGRAFO 2o. La calificación de productos importados que correspondan a renglo
 ## art:89 — COMPOSICIÓN DE LA RENTA BRUTA
 ubicacion: TITULO I. RENTA. > CAPITULO III. RENTA BRUTA.
 
-La renta bruta está constituida por la suma de los ingresos netos realizados en el año o período gravable que no hayan sido exceptuados expresamente en los artículos 36 a 57, y 300 a 305. Cuando la realización de tales ingresos implique la existencia de costos, la renta bruta está constituida por la suma de dichos ingresos menos los costos imputables a los mismos
+La renta bruta está constituida por la suma de los ingresos netos realizados en el año o período gravable que no hayan sido exceptuados expresamente en los artículos 36 a 57, y 300 a 305. Cuando la realización de tales ingresos implique la existencia de costos, la renta bruta está constituida por la suma de dichos ingresos menos los costos imputables a los mismos.
 
-## art:90 — 
+## art:90 — DETERMINACIÓN DE LA RENTA BRUTA EN LA ENAJENACIÓN DE ACTIVOS Y VALOR COMERCIAL EN OPERACIONES SOBRE BIENES Y SERVICIOS
 ubicacion: TITULO I. RENTA. > CAPITULO III. RENTA BRUTA.
 
-DETERMINACIÓN DE LA RENTA BRUTA EN LA ENAJENACIÓN DE ACTIVOS Y VALOR COMERCIAL EN OPERACIONES SOBRE BIENES Y SERVICIOS. <Artículo modificado por el artículo 61 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La renta bruta o la pérdida proveniente de la enajenación de activos a cualquier título, está constituida por la diferencia entre el precio de la enajenación y el costo del activo o activos enajenados. 
+La renta bruta o la pérdida proveniente de la enajenación de activos a cualquier título, está constituida por la diferencia entre el precio de la enajenación y el costo del activo o activos enajenados. 
 
 Cuando se trate de activos fijos depreciables, la utilidad que resulta al momento de la enajenación deberá imputarse, en primer término, a la renta líquida por recuperación de deducciones, depreciaciones o amortizaciones; el saldo de la utilidad constituye renta o ganancia ocasional, según el caso. 
 
@@ -1522,9 +1566,12 @@ El valor estimado por los contribuyentes con base en este artículo, no producir
 
 PARAGRAFO. En el caso de los bienes raíces que tengan el carácter de activos movibles, el ajuste al valor comercial de que trata este artículo solo será aplicable al costo fiscal de los terrenos. 
 
-En estos casos, el valor ajustado no puede exceder del valor comercial del terreno al 31 de diciembre de 1995, lo cual deberá demostrarse con certificación expedida por las lonjas de propiedad raíz o sus afiliados. El avalúo aquí previsto debe corresponder al del lote bruto o desnudo, sin incorporar el valor de las obras de urbanización, parcelación o desarrollo. 
+En estos casos, el valor ajustado no puede exceder del valor comercial del terreno al 31 de diciembre de 1995, lo cual deberá demostrarse con certificación expedida por las lonjas de propiedad raíz o sus afiliados. El avalúo aquí previsto debe corresponder al del lote bruto o desnudo, sin incorporar el valor de las obras de urbanización, parcelación o desarrollo.
 
-ARTÍCULO 90-3. ENAJENACIONES INDIRECTAS. <Artículo modificado por el artículo 62 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La enajenación indirecta de acciones en sociedades, derechos o activos ubicados en el territorio nacional, mediante la enajenación, a cualquier título, de acciones, participaciones o derechos de entidades del exterior, se encuentra gravada en Colombia como si la enajenación del activo subyacente se hubiera realizado directamente. El costo fiscal aplicable al activo subyacente, así como el tratamiento y condiciones tributarios será el que tenga el tenedor del activo subyacente como si lo hubiera enajenado directamente en el país y el precio de venta o valor de enajenación debe corresponder a su valor comercial de conformidad con el Estatuto Tributario. Cuando se realice una posterior enajenación indirecta, el costo fiscal será el valor proporcionalmente pagado por las acciones, participaciones o derechos de la entidad del exterior que posee los activos subyacentes ubicados en Colombia. 
+## art:90-3 — ENAJENACIONES INDIRECTAS
+ubicacion: TITULO I. RENTA. > CAPITULO III. RENTA BRUTA.
+
+La enajenación indirecta de acciones en sociedades, derechos o activos ubicados en el territorio nacional, mediante la enajenación, a cualquier título, de acciones, participaciones o derechos de entidades del exterior, se encuentra gravada en Colombia como si la enajenación del activo subyacente se hubiera realizado directamente. El costo fiscal aplicable al activo subyacente, así como el tratamiento y condiciones tributarios será el que tenga el tenedor del activo subyacente como si lo hubiera enajenado directamente en el país y el precio de venta o valor de enajenación debe corresponder a su valor comercial de conformidad con el Estatuto Tributario. Cuando se realice una posterior enajenación indirecta, el costo fiscal será el valor proporcionalmente pagado por las acciones, participaciones o derechos de la entidad del exterior que posee los activos subyacentes ubicados en Colombia. 
 
 Se entiende por transferencia indirecta, la enajenación de un derecho de participación en un activo en su totalidad o en parte, ya sea que dicha transferencia se realice entre partes relacionadas o independientes.
 
@@ -1550,6 +1597,53 @@ ubicacion: TITULO I. RENTA. > CAPITULO IV. RENTAS BRUTAS ESPECIALES.
 La parte gravable de los dividendos, participaciones o utilidades, abonados en cuenta en calidad de exigibles, conforme a lo previsto en los artículos 48 y 49, constituye renta bruta de los socios, accionistas, comuneros, asociados, suscriptores y similares, que sean personas naturales residentes en el país, sucesiones ilíquidas de causantes que al momento de su muerte eran residentes en el país o sociedades nacionales. 
 
 Los dividendos, participaciones y utilidades recibidos por socios, accionistas, comuneros, asociados, suscriptores y similares, que sean personas naturales no residentes en el país, sucesiones ilíquidas de causantes que al momento de su muerte no eran residentes en el país o sociedades extranjeras, constituyen renta bruta en su totalidad.
+
+## art:92 — ACTIVOS BIOLÓGICOS
+ubicacion: TITULO I. RENTA. > CAPITULO IV. RENTAS BRUTAS ESPECIALES.
+
+Los activos biológicos, plantas o animales, se dividen en:
+
+1. Productores porque cumplen con las siguientes características:
+
+a) Se utiliza en la producción o suministro de productos agrícolas o pecuarios;
+
+b) Se espera que produzca durante más de un periodo;
+
+c) Existe una probabilidad remota de que sea vendida como producto agropecuario excepto por ventas incidentales de raleos y podas.
+
+2. Consumibles porque proceden de activos biológicos productores o cuyo ciclo de producción sea inferior a un año y su vocación es ser:
+
+a) Enajenados en el giro ordinario de los negocios, o
+
+b) Consumidos por el mismo contribuyente, lo cual comprende el proceso de transformación posterior.
+
+## art:93 — TRATAMIENTO DE LOS ACTIVOS BIOLÓGICOS PRODUCTORES
+ubicacion: TITULO I. RENTA. > CAPITULO IV. RENTAS BRUTAS ESPECIALES.
+
+Para efectos del impuesto sobre la renta y complementarios, los contribuyentes obligados a llevar contabilidad observarán las siguientes reglas:
+
+1. Los activos biológicos productores serán tratados como propiedad, planta y equipo susceptibles de depreciación.
+
+2. El costo fiscal de los activos biológicos productores, susceptible de ser depreciado será:
+
+a) Para las plantas productoras: el valor de adquisición de la misma más todos los costos devengados hasta que la planta esté en disposición de dar frutos por primera vez;
+
+b) Para los animales productores: el valor de adquisición del mismo más todos los costos devengados hasta el momento en que esté apto para producir.
+
+3. La depreciación de estos activos se hará en línea recta en cuotas iguales por el término de la vida útil del activo determinada de conformidad con un estudio técnico elaborado por un experto en la materia.
+
+4. Todas las mediciones a valor razonable de los activos biológicos productores no tendrán efectos en la determinación del impuesto sobre la renta y complementarios sino hasta el momento de la enajenación del activo biológico.
+
+PARÁGRAFO 1o. Los costos y gastos devengados que hayan sido tratados como costo o deducción en periodos fiscales anteriores, no podrán ser objeto de capitalización.
+
+PARÁGRAFO 2o. En la determinación de los costos devengados previstos en el numeral 2 de este artículo, se tendrán en cuenta las limitaciones previstas en este estatuto para su procedencia.
+
+## art:94 — TRATAMIENTO DE LOS ACTIVOS BIOLÓGICOS CONSUMIBLES
+ubicacion: TITULO I. RENTA. > CAPITULO IV. RENTAS BRUTAS ESPECIALES.
+
+Para efectos del impuesto sobre la renta y complementarios, los contribuyentes obligados a llevar contabilidad tratarán los activos biológicos consumibles como inventarios de conformidad con las reglas previstas en este estatuto para los inventarios, dicho tratamiento corresponderá a su costo fiscal.
+
+PARÁGRAFO. Todas las mediciones a valor razonable de los activos biológicos consumibles no tendrán efectos en la determinación del impuesto sobre la renta y complementarios sino hasta el momento de la enajenación del activo biológico.
 
 ## art:95 — RENTA BRUTA ESPECIAL EN LA ENAJENACIÓN DE ACTIVOS BIOLÓGICOS
 ubicacion: TITULO I. RENTA. > CAPITULO IV. RENTAS BRUTAS ESPECIALES.
@@ -1609,19 +1703,7 @@ Por reserva matemática se entiende la fijada por las compañías de seguros de 
 
 <Fuente original compilada: D. 2053/74 Art. 39 Inc. 2o.> Por reserva técnica se entiende la fijada por las compañías de seguros generales y no puede exceder del porcentaje de las primas netas recibidas en el año o período gravable menos el valor de los reaseguros cedidos, ni de los límites fijados por la ley. 
 
-PARAGRAFO. <Fuente original compilada: D. 2053/74 Art. 39 Par.> Las compañías de seguros o de capitalización deben conservar copia auténtica de la tabla numérica prescrita por la Superintendencia Bancaria* que sirvió para computar la reserva matemática o técnica del respectivo año o período gravable. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARAGRAFO. <Fuente original compilada: D. 2053/74 Art. 39 Par.> Las compañías de seguros o de capitalización deben conservar copia auténtica de la tabla numérica prescrita por la Superintendencia Bancaria* que sirvió para computar la reserva matemática o técnica del respectivo año o período gravable.
 
 ## art:99 — INGRESOS NETOS Y PRIMAS NETAS
 ubicacion: TITULO I. RENTA. > CAPITULO IV. RENTAS BRUTAS ESPECIALES.
@@ -1784,13 +1866,19 @@ La necesidad y proporcionalidad de las expensas debe determinarse con criterio c
 
 <Inciso modificado por el artículo 62 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En ningún caso serán deducibles las expensas provenientes de conductas típicas consagradas en la ley como delito sancionable a título de dolo. La administración tributaria podrá, sin perjuicio de las sanciones correspondientes, desconocer cualquier deducción que incumpla con esta prohibición. La administración tributaria compulsará copias de dicha determinación a las autoridades que deban conocer de la comisión de la conducta típica. En el evento que las autoridades competentes determinen que la conducta que llevó a la administración tributaria a desconocer la deducción no es punible, los contribuyentes respecto de los cuales se ha desconocido la deducción podrán imputarlo en el año o periodo gravable en que se determine que la conducta no es punible, mediante la providencia correspondiente.
 
-ARTÍCULO 107-1. LIMITACIÓN DE DEDUCCIONES. <Artículo adicionado por el artículo 63 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las siguientes deducciones serán aceptadas fiscalmente siempre y cuando se encuentren debidamente soportadas, hagan parte del giro ordinario del negocio, y con las siguientes limitaciones:
+## art:107-1 — LIMITACIÓN DE DEDUCCIONES
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Las siguientes deducciones serán aceptadas fiscalmente siempre y cuando se encuentren debidamente soportadas, hagan parte del giro ordinario del negocio, y con las siguientes limitaciones:
 
 1. Atenciones a clientes, proveedores y empleados, tales como regalos, cortesías, fiestas, reuniones y festejos. El monto máximo a deducir por la totalidad de estos conceptos es el 1% de ingresos fiscales netos y efectivamente realizados.
 
 2. Los pagos salariales y prestacionales, cuando provengan de litigios laborales, serán deducibles en el momento del pago siempre y cuando se acredite el cumplimiento de la totalidad de los requisitos para la deducción de salarios.
 
-ARTÍCULO 107-2. DEDUCCIONES POR CONTRIBUCIONES A EDUCACIÓN DE LOS EMPLEADOS. <Artículo modificado por el artículo 87 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Las siguientes deducciones serán aceptadas fiscalmente siempre y cuando se encuentren debidamente soportadas: 
+## art:107-2 — DEDUCCIONES POR CONTRIBUCIONES A EDUCACIÓN DE LOS EMPLEADOS
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Las siguientes deducciones serán aceptadas fiscalmente siempre y cuando se encuentren debidamente soportadas: 
 
 a) Los pagos destinados a programas de becas de estudios totales o parciales y de créditos condonables para educación, establecidos por las personas jurídicas en beneficio de sus empleados o de los miembros del núcleo familiar del trabajador; 
 
@@ -1834,7 +1922,12 @@ Para que proceda la deducción por concepto de salarios y prestaciones pagados a
 ## art:108-3 — CUOTAS DE MANEJO DE TARJETAS
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-ARTÍCULO 108-4. TRATAMIENTO TRIBUTARIO DE LOS PAGOS BASADOS EN ACCIONES. <Artículo adicionado por el artículo 64 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los pagos basados en acciones o cuotas de participación social son aquellos en virtud de los cuales el trabajador: (1) adquiere el derecho de ejercer una opción para la adquisición de acciones o cuotas de participación social en la sociedad que actúa como su empleadora o una vinculada o (2) recibe como parte de su remuneración acciones o cuotas de interés social de la sociedad que actúa como su empleadora o una vinculada. Para efectos fiscales el tratamiento será el siguiente:
+<Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
+
+## art:108-4 — TRATAMIENTO TRIBUTARIO DE LOS PAGOS BASADOS EN ACCIONES
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Los pagos basados en acciones o cuotas de participación social son aquellos en virtud de los cuales el trabajador: (1) adquiere el derecho de ejercer una opción para la adquisición de acciones o cuotas de participación social en la sociedad que actúa como su empleadora o una vinculada o (2) recibe como parte de su remuneración acciones o cuotas de interés social de la sociedad que actúa como su empleadora o una vinculada. Para efectos fiscales el tratamiento será el siguiente:
 
 1. Respecto de la sociedad:
 
@@ -1856,7 +1949,10 @@ a) Respecto de la primera modalidad, el ingreso se reconocerá en el momento en 
 
 b) Respecto de la segunda modalidad, el ingreso se reconocerá en el momento en que se entreguen las respectivas acciones o cuotas de interés social, el trabajador figure como accionista de la respectiva sociedad o se efectúe la correspondiente anotación en cuenta, lo que suceda primero, y se calculará sobre el valor comercial de conformidad con el literal c) del numeral 1 de este artículo.
 
-ARTÍCULO 108-5. DEDUCCIÓN DEL PRIMER EMPLEO. <Artículo adicionado por el artículo 88 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los contribuyentes que estén obligados a presentar declaración de renta y complementarios, tienen derecho a deducir el 120% de los pagos que realicen por concepto de salario, en relación con los empleados que sean menores de veintiocho (28) años, siempre y cuando se trate del primer empleo de la persona. La deducción máxima por cada empleado no podrá exceder ciento quince (115) UVT mensuales y procederá en el año gravable en el que el empleado sea contratado por el contribuyente. 
+## art:108-5 — DEDUCCIÓN DEL PRIMER EMPLEO
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Los contribuyentes que estén obligados a presentar declaración de renta y complementarios, tienen derecho a deducir el 120% de los pagos que realicen por concepto de salario, en relación con los empleados que sean menores de veintiocho (28) años, siempre y cuando se trate del primer empleo de la persona. La deducción máxima por cada empleado no podrá exceder ciento quince (115) UVT mensuales y procederá en el año gravable en el que el empleado sea contratado por el contribuyente. 
 
 Para efectos de acceder a la deducción de que trata este artículo, debe tratarse de nuevos empleos y el empleado deberá ser contratado con posterioridad a la vigencia de la presente Ley, ser menor de veintiocho (28) años y ser el primer empleo de la persona. 
 
@@ -1923,7 +2019,7 @@ PARÁGRAFO. <Parágrafo adicionado por el artículo 35 de la Ley 1607 de 2012. E
 ## art:114-1 — EXONERACIÓN DE APORTES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo adicionado por el artículo 65 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Estarán exoneradas del pago de los aportes parafiscales a favor del Servicio Nacional del Aprendizaje (SENA), del Instituto Colombiano de Bienestar Familiar (ICBF) y las cotizaciones al Régimen Contributivo de Salud, las sociedades y personas jurídicas y asimiladas contribuyentes declarantes del impuesto sobre la renta y complementarios, correspondientes a los trabajadores que devenguen, individualmente considerados, menos de diez (10) salarios mínimos mensuales legales vigentes.
+Estarán exoneradas del pago de los aportes parafiscales a favor del Servicio Nacional del Aprendizaje (SENA), del Instituto Colombiano de Bienestar Familiar (ICBF) y las cotizaciones al Régimen Contributivo de Salud, las sociedades y personas jurídicas y asimiladas contribuyentes declarantes del impuesto sobre la renta y complementarios, correspondientes a los trabajadores que devenguen, individualmente considerados, menos de diez (10) salarios mínimos mensuales legales vigentes.
 
 Así mismo las personas naturales empleadoras estarán exoneradas de la obligación de pago de los aportes parafiscales al SENA, al ICBF y al Sistema de Seguridad Social en Salud por los empleados que devenguen menos de diez (10) salarios mínimos legales mensuales vigentes. Lo anterior no aplicará para personas naturales que empleen menos de dos trabajadores, los cuales seguirán obligados a efectuar los aportes de que trata este inciso.
 
@@ -1941,22 +2037,39 @@ PARÁGRAFO 4o. Los contribuyentes que tengan rentas gravadas a cualquiera de las
 
 PARÁGRAFO 5o. Las Instituciones de Educación Superior públicas no están obligadas a efectuar aportes para el Servicio Nacional de Aprendizaje.
 
-PARÁGRAFO 6o. <Ver Notas del Editor> <Parágrafo adicionado por el artículo 31 de la Ley 2133 de 2021. El nuevo texto es el siguiente:> Los contribuyentes personas jurídicas del impuesto sobre la renta y complementarios, que liquiden la tarifa prevista en el parágrafo 8o del artículo 240 del Estatuto Tributario no aplicarán lo establecido en el presente artículo. Por lo tanto; dichos contribuyentes estarán obligados a efectuar los respectivos aportes en los términos que dispone la Ley.
+PARÁGRAFO 6o. <Parágrafo adicionado por el artículo 31 de la Ley 2133 de 2021. El nuevo texto es el siguiente:> Los contribuyentes personas jurídicas del impuesto sobre la renta y complementarios, que liquiden la tarifa prevista en el parágrafo 8o del artículo 240 del Estatuto Tributario no aplicarán lo establecido en el presente artículo. Por lo tanto; dichos contribuyentes estarán obligados a efectuar los respectivos aportes en los términos que dispone la Ley.
+
+## art:115 — DEDUCCIÓN DE IMPUESTOS PAGADOS Y OTROS
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Es deducible el cien por ciento (100%) de los impuestos, tasas y contribuciones, que efectivamente se hayan pagado durante el año o período gravable por parte del contribuyente, que tengan relación de causalidad con su actividad económica, con excepción del impuesto sobre la renta y complementarios.
+
+En el caso del gravamen a los movimientos financieros será deducible el cincuenta por ciento (50%) que haya sido efectivamente pagado por los contribuyentes durante el respectivo año gravable, independientemente que tenga o no relación de causalidad con la actividad económica del contribuyente, siempre que se encuentre debidamente certificado por el agente retenedor.
+
+Las deducciones de que trata el presente artículo en ningún caso podrán tratarse simultáneamente como costo y gasto de la respectiva empresa.
+
+PARÁGRAFO 1o. <Parágrafo INEXEQUIBLE> 
+
+PARÁGRAFO 2o. El impuesto al patrimonio y el impuesto de normalización no son deducibles en el impuesto sobre la renta.
+
+PARÁGRAFO 3o. Las cuotas de afiliación pagadas a los gremios serán deducibles del impuesto de renta.
+
+PARÁGRAFO 4o. No se podrán deducir del impuesto sobre la renta los pagos por afiliaciones a clubes sociales, gastos laborales del personal de apoyo en la vivienda u otras actividades ajenas a la actividad productora de rentar gastos personales de los socio, partícipe accionista clientes y/o sus familiares.
+
+## art:115-1 — DEDUCCIÓN PARA LAS PRESTACIONES SOCIALES, APORTES PARAFISCALES E IMPUESTOS
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Para los contribuyentes obligados a llevar contabilidad, serán aceptadas las erogaciones devengadas por concepto de prestaciones sociales, aportes parafiscales e impuestos de que trata el artículo 115 de este Estatuto, en el año o periodo gravable que se devenguen, siempre y cuando los aportes parafiscales e impuestos se encuentren efectivamente pagados previamente a la presentación de la declaración inicial del impuesto sobre la renta.
+
+## art:115-2 — DEDUCCIÓN ESPECIAL DEL IMPUESTO SOBRE LAS VENTAS
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:116 — DEDUCCIÓN DE IMPUESTOS, REGALIAS Y CONTRIBUCIONES PAGADOS POR LOS ORGANISMOS DESCENTRALIZADOS
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:117 — DEDUCCIÓN DE INTERESES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -1998,6 +2111,13 @@ Cuando el préstamo de vivienda se haya adquirido en unidades de poder adquisiti
 
 También estarán sujetos a las deducciones de que trata este artículo los intereses que se paguen sobre préstamos educativos del Instituto Colombiano de Créditos Educativo y Estudios Técnicos en el Exterior (Icetex) dirigidos para la educación superior del contribuyente. Dicha deducción no podrá exceder anualmente del valor equivalente a 100 UVT.
 
+## art:120 — LIMITACIONES A PAGOS DE REGALÍAS POR CONCEPTO DE INTANGIBLES
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+No será aceptada la deducción por concepto de pago de regalías a vinculados económicos del exterior ni zonas francas, correspondiente a la explotación de un intangible formado en el territorio nacional.
+
+No serán deducibles los pagos por concepto de regalías realizadas durante el año o periodo gravable, cuando dichas regalías estén asociadas a la adquisición de productos terminados.
+
 ## art:121 — DEDUCCIÓN DE GASTOS EN EL EXTERIOR
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
@@ -2005,17 +2125,32 @@ Los contribuyentes podrán deducir los gastos efectuados en el exterior, que ten
 
 <Inciso derogado por el artículo 376 de la Ley 1819 de 2016>
 
+## art:122 — LIMITACIÓN A LAS DEDUCCIONES DE LOS COSTOS Y GASTOS EN EL EXTERIOR
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Los costos o deducciones por expensas en el exterior para la obtención de rentas de fuente dentro del país, no pueden exceder del quince por ciento (15%) de la renta líquida del contribuyente, computada antes de descontar tales costos o deducciones, salvo cuando se trate de los siguientes pagos:
+
+1. Aquellos respecto de los cuales sea obligatoria la retención en la fuente. 
+
+2. Los contemplados en el artículo 25. 
+
+3. Los pagos o abonos en cuenta por adquisición de cualquier clase de bienes corporales.
+
+4. Aquellos en que se incurra en cumplimiento de una obligación legal, tales como los servicios de certificación aduanera.
+
+5. Los intereses sobre créditos otorgados a contribuyentes residentes en el país por parte de organismos multilaterales de crédito, a cuyo acto constitutivo haya adherido Colombia, siempre y cuando se encuentre vigente y en él se establezca que el respectivo organismo multilateral está exento de impuesto sobre la renta.
+
 ## art:123 — REQUISITOS PARA SU PROCEDENCIA
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Fuente original compilada: D.2053/74 Art. 55 Inciso 3o.> Si el beneficiario de la renta fuere una persona natural extranjera o una sucesión de extranjeros sin residencia en el país, o una sociedad u otra entidad extranjera sin domicilio en Colombia, la cantidad pagada o abonada en cuenta sólo es deducible si se acredita la consignación del impuesto retenido en la fuente a título de los de renta y remesas*, según el caso, y cumplan las regulaciones previstas en el régimen cambiario vigente en Colombia.
+Si el beneficiario de la renta fuere una persona natural extranjera o una sucesión de extranjeros sin residencia en el país, o una sociedad u otra entidad extranjera sin domicilio en Colombia, la cantidad pagada o abonada en cuenta sólo es deducible si se acredita la consignación del impuesto retenido en la fuente a título de los de renta y remesas*, según el caso, y cumplan las regulaciones previstas en el régimen cambiario vigente en Colombia.
 
 <Inciso adicionado por el artículo 72 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Proceden como deducción los gastos devengados por concepto de contratos de importación de tecnología, patentes y marcas, en la medida en que se haya solicitado ante el organismo oficial competente el registro del contrato correspondiente, dentro de los seis meses siguientes a la suscripción del contrato. En caso que se modifique el contrato, la solicitud de registro se debe efectuar dentro de los tres meses siguientes al de su modificación.
 
 ## art:124 — LOS PAGOS A LA CASA MATRIZ SON DEDUCIBLES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo modificado por el artículo 85 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Las filiales o sucursales, subsidiarias o agencias en Colombia de sociedades extranjeras, tienen derecho a deducir de sus ingresos, a título de costo o deducción, las cantidades pagadas o reconocidas directa o indirectamente a sus casas matrices u oficinas del exterior, por concepto de gastos de administración o dirección y por concepto de [regalías y explotación o] adquisición de cualquier clase de intangibles, siempre que sobre los mismos practiquen las retenciones en la fuente del impuesto sobre la renta y el complementario de remesas*. Los pagos a favor de dichas matrices u oficinas del exterior por otros conceptos diferentes, están sujetos a lo previsto en los artículos 121 y 122 de este Estatuto. 
+Las filiales o sucursales, subsidiarias o agencias en Colombia de sociedades extranjeras, tienen derecho a deducir de sus ingresos, a título de costo o deducción, las cantidades pagadas o reconocidas directa o indirectamente a sus casas matrices u oficinas del exterior, por concepto de gastos de administración o dirección y por concepto de [regalías y explotación o] adquisición de cualquier clase de intangibles, siempre que sobre los mismos practiquen las retenciones en la fuente del impuesto sobre la renta y el complementario de remesas*. Los pagos a favor de dichas matrices u oficinas del exterior por otros conceptos diferentes, están sujetos a lo previsto en los artículos 121 y 122 de este Estatuto. 
 
 PARÁGRAFO. <Parágrafo adicionado por el artículo 73 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los conceptos mencionados en el presente artículo, diferentes a regalías y explotación o adquisición de cualquier clase de intangible, sean de fuente nacional o extranjera estarán sometidos a una tarifa de retención en la fuente establecido en el artículo 408 de este Estatuto.
 
@@ -2034,9 +2169,29 @@ PARAGRAFO. Igualmente son deducibles para las sucursales de sociedades extranjer
 
 PARÁGRAFO 2o. <Parágrafo INEXEQUIBLE>
 
-ARTÍCULO 124-2. PAGOS A JURISDICCIONES NO COOPERANTES, DE BAJA O NULA IMPOSICIÓN Y A ENTIDADES PERTENECIENTES A REGÍMENES TRIBUTARIOS PREFERENCIALES. <Artículo modificado por el artículo 74 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> No serán constitutivos de costo o deducción los pagos o abonos en cuenta que se realicen a personas naturales, personas jurídicas o a cualquier otro tipo de entidad que se encuentre constituida, localizada o en funcionamiento en jurisdicciones no cooperantes, de baja o nula imposición, o a entidades pertenecientes a regímenes preferenciales, que hayan sido calificados como tales por el Gobierno colombiano, salvo que se haya efectuado la retención en la fuente por concepto de Impuesto sobre la Renta, cuando a ello haya lugar.
+## art:124-2 — PAGOS A JURISDICCIONES NO COOPERANTES, DE BAJA O NULA IMPOSICIÓN Y A ENTIDADES PERTENECIENTES A REGÍMENES TRIBUTARIOS PREFERENCIALES
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+No serán constitutivos de costo o deducción los pagos o abonos en cuenta que se realicen a personas naturales, personas jurídicas o a cualquier otro tipo de entidad que se encuentre constituida, localizada o en funcionamiento en jurisdicciones no cooperantes, de baja o nula imposición, o a entidades pertenecientes a regímenes preferenciales, que hayan sido calificados como tales por el Gobierno colombiano, salvo que se haya efectuado la retención en la fuente por concepto de Impuesto sobre la Renta, cuando a ello haya lugar.
 
 Sin perjuicio de lo previsto en el régimen de precios de transferencia, lo previsto en este artículo no le será aplicable a los pagos o abonos en cuenta que se realicen con ocasión de operaciones financieras registradas ante el Banco de la República.
+
+## art:125 — INCENTIVO A LA DONACIÓN DEL SECTOR PRIVADO EN LA RED NACIONAL DE BIBLIOTECAS PÚBLICAS Y BIBLIOTECA NACIONAL
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Las personas jurídicas obligadas al pago del impuesto sobre la renta por el ejercicio de cualquier tipo de actividad, que realicen donaciones de dinero para la construcción, dotación o mantenimiento de bibliotecas de la Red Nacional de Bibliotecas Públicas y de la Biblioteca Nacional también tendrán derecho a deducir el ciento por ciento (100%) del valor real donado para efectos de calcular el impuesto sobre la renta a su cargo correspondiente al período gravable en que se realice la donación.
+
+Este incentivo solo será aplicable, previa verificación del valor de la donación y aprobación del Ministerio de Cultura. En el caso de las bibliotecas públicas municipales, distritales o departamentales se requerirá la previa aprobación del Ministerio de Cultura y de la autoridad territorial correspondiente.
+
+Para los efectos anteriores, se constituirá un fondo cuenta sin personería jurídica, al que ingresarán los recursos materia de estas donaciones. Dicho fondo será administrado por el Ministerio de Cultura mediante un encargo fiduciario, y no requerirá situación de fondos en materia presupuestal.
+
+En caso de que el donante defina la destinación de la donación, si se acepta por el Ministerio de Cultura de conformidad con las políticas y reglamentaciones establecidas en materia de bibliotecas públicas, tal destinación será inmodificable.
+
+Estas donaciones darán derecho a un Certificado de Donación Bibliotecaria que será un título valor a la orden transferible por el donante y el cual se emitirá por el Ministerio de Cultura sobre el año en que efectivamente se haga la donación. El monto del incentivo podrá amortizarse en un término de cinco (5) años desde la fecha de la donación.
+
+Igual beneficio tendrán los donantes de acervos bibliotecarios, recursos informáticos y en general recursos bibliotecarios, previo avalúo de los respectivos bienes, según reglamentación del Ministerio de Cultura.
+
+Para los efectos previstos en este artículo podrán acordarse con el respectivo donante, modalidades de divulgación pública de su participación.
 
 ## art:125-1 — REQUISITOS DE LOS BENEFICIARIOS DE LAS DONACIONES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2058,7 +2213,7 @@ Las donaciones que dan derecho a deducción deben revestir las siguientes modali
 
 1. Cuando se done dinero, el pago debe haberse realizado por medio de cheque, tarjeta de crédito o a través de un intermediario financiero. 
 
-2. <Ver Notas del Editor> <Numeral modificado por el artículo 27 de la Ley 383 de 1997. El nuevo texto es el siguiente:> Cuando se donen títulos valores***, se estimarán a precios de mercado de acuerdo con el procedimiento establecido por la Superintendencia de Valores*. Cuando se donen otros activos, su valor se estimará por el costo de adquisición más los ajustes por inflación** efectuados hasta la fecha de la donación, menos las depreciaciones acumuladas hasta esa misma fecha. 
+2. <Numeral modificado por el artículo 27 de la Ley 383 de 1997. El nuevo texto es el siguiente:> Cuando se donen títulos valores***, se estimarán a precios de mercado de acuerdo con el procedimiento establecido por la Superintendencia de Valores*. Cuando se donen otros activos, su valor se estimará por el costo de adquisición más los ajustes por inflación** efectuados hasta la fecha de la donación, menos las depreciaciones acumuladas hasta esa misma fecha. 
 
 PARÁGRAFO 1o. <Parágrafo adicionado por el artículo 156 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En todo caso, cuando se donen otros activos su valor será el menor entre el valor comercial y el costo fiscal del bien donado.
 
@@ -2074,11 +2229,14 @@ En ningún caso procederá la deducción por concepto de donaciones, cuando se d
 ## art:125-4 — REQUISITOS DE LAS DEDUCCIONES POR DONACIONES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo adicionado por el artículo 86 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Las deducciones por donaciones establecidas en disposiciones especiales, serán otorgadas en las condiciones previstas en el artículo 125 del Estatuto Tributario. 
+Las deducciones por donaciones establecidas en disposiciones especiales, serán otorgadas en las condiciones previstas en el artículo 125 del Estatuto Tributario. 
 
-Para los fines previstos en el numeral 2 del artículo 125 de este Estatuto, se tendrán en cuenta igualmente las donaciones efectuadas a los partidos o movimientos políticos aprobados por el Consejo Nacional Electoral. 
+Para los fines previstos en el numeral 2 del artículo 125 de este Estatuto, se tendrán en cuenta igualmente las donaciones efectuadas a los partidos o movimientos políticos aprobados por el Consejo Nacional Electoral.
 
-ARTÍCULO 125-5. DONACIONES A ENTIDADES NO PERTENECIENTES AL RÉGIMEN TRIBUTARIO ESPECIAL. <Artículo adicionado por el artículo 157 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las donaciones efectuadas a entidades sin ánimo de lucro que no hacen parte del Régimen Tributario Especial no serán descontables de la renta y serán ingresos gravables para las entidades receptoras.
+## art:125-5 — DONACIONES A ENTIDADES NO PERTENECIENTES AL RÉGIMEN TRIBUTARIO ESPECIAL
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Las donaciones efectuadas a entidades sin ánimo de lucro que no hacen parte del Régimen Tributario Especial no serán descontables de la renta y serán ingresos gravables para las entidades receptoras.
 
 Si se determina que con motivo de la donación entregada cabe la figura de elusión fiscal, se procederá a sanciones para ambas entidades, receptora y donante.
 
@@ -2177,9 +2335,12 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
 El contribuyente beneficiario de la deducción por depreciación es el propietario o usufructuario del bien, salvo que se trate de venta con pacto de reserva de dominio, en cuyo caso el beneficiario es el comprador. El arrendatario no puede deducir suma alguna por concepto de depreciación del bien arrendado. Sin embargo, cuando el arrendatario de un inmueble le haga mejoras cuya propiedad se transfiera al arrendador sin compensación, el arrendatario puede depreciar el costo de la mejora, conforme a la vida útil de ésta, sin atender al término de duración del contrato. 
 
-Si quedare un saldo pendiente por depreciar, al enajenar definitivamente la mejora, el arrendatario tiene derecho a deducirlo como pérdida, siempre que no utilice la mejora posteriormente. 
+Si quedare un saldo pendiente por depreciar, al enajenar definitivamente la mejora, el arrendatario tiene derecho a deducirlo como pérdida, siempre que no utilice la mejora posteriormente.
 
-ARTÍCULO 127-1. CONTRATOS DE ARRENDAMIENTO. <Artículo modificado por el artículo 76 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Son contratos de arrendamiento el arrendamiento operativo y el arrendamiento financiero o leasing.
+## art:127-1 — CONTRATOS DE ARRENDAMIENTO
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Son contratos de arrendamiento el arrendamiento operativo y el arrendamiento financiero o leasing.
 
 Los contratos de arrendamiento que se celebren a partir del 1o de enero de 2017, se someten a las siguientes reglas para efectos del impuesto sobre la renta y complementarios:
 
@@ -2291,7 +2452,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 ## art:134 — MÉTODOS DE DEPRECIACIÓN
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo modificado por el artículo 80 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para los contribuyentes obligados a llevar contabilidad los métodos de depreciación de los activos depreciables, serán los establecidos en la técnica contable.
+Para los contribuyentes obligados a llevar contabilidad los métodos de depreciación de los activos depreciables, serán los establecidos en la técnica contable.
 
 ## art:135 — BIENES DEPRECIABLES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2303,12 +2464,12 @@ Se entiende por valores mobiliarios los títulos representativos de participacio
 ## art:136 — DEPRECIACIÓN DE BIENES ADQUIRIDOS EN EL AÑO
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-Cuando un bien depreciable haya sido adquirido o mejorado en el curso del año o período gravable, la alícuota de depreciación se calcula proporcionalmente al número de meses o fracciones de mes en que las respectivas adquisiciones o mejoras prestaron servicio. Cuando un bien se dedique parcialmente a fines no relacionados con los negocios o actividades productoras de renta, la alícuota de depreciación se reduce en igual proporción
+Cuando un bien depreciable haya sido adquirido o mejorado en el curso del año o período gravable, la alícuota de depreciación se calcula proporcionalmente al número de meses o fracciones de mes en que las respectivas adquisiciones o mejoras prestaron servicio. Cuando un bien se dedique parcialmente a fines no relacionados con los negocios o actividades productoras de renta, la alícuota de depreciación se reduce en igual proporción.
 
 ## art:137 — LIMITACIÓN A LA DEDUCCIÓN POR DEPRECIACIÓN
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo modificado por el artículo 82 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos del impuesto sobre la renta y complementarios la tasa por depreciación a deducir anualmente será la establecida de conformidad con la técnica contable siempre que no exceda las tasas máximas determinadas por el Gobierno nacional. 
+Para efectos del impuesto sobre la renta y complementarios la tasa por depreciación a deducir anualmente será la establecida de conformidad con la técnica contable siempre que no exceda las tasas máximas determinadas por el Gobierno nacional. 
 
 PARÁGRAFO 1o. El Gobierno nacional reglamentará las tasas máximas de depreciación, las cuales oscilarán entre el 2.22% y el 33%. En ausencia de dicho reglamento, se aplicarán las siguientes tasas anuales, sobre la base para calcular la depreciación: 
 
@@ -2349,19 +2510,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
 Cuando se adquiera un bien que haya estado en uso, el adquirente puede calcular razonablemente el resto de vida útil probable para amortizar su costo de adquisición. 
 
-La vida útil así calculada, sumada a la transcurrida durante el uso de anteriores propietarios, no puede ser inferior a la contemplada para bienes nuevos en el reglamento. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La vida útil así calculada, sumada a la transcurrida durante el uso de anteriores propietarios, no puede ser inferior a la contemplada para bienes nuevos en el reglamento.
 
 ## art:140 — DEPRECIACIÓN ACELERADA PARA FINES FISCALES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2374,6 +2523,95 @@ El tratamiento aquí previsto no será aplicable respecto de los bienes inmueble
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
+
+## art:142 — DEDUCCIÓN DE INVERSIONES
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Para efectos del impuesto sobre la renta y complementarios, las inversiones de que trata el artículo 74-1 de este estatuto, serán deducibles de conformidad con las siguientes reglas:
+
+1. Gastos pagados por anticipado. Se deducirá periódicamente en la medida en que se reciban los servicios.
+
+2. Desembolsos de establecimiento. Los desembolsos de establecimiento se deducirán mediante el método de línea recta, en iguales proporciones, por el plazo del contrato a partir de la generación de rentas por parte del contribuyente y en todo caso no puede ser superior a una alícuota anual del 20%, de su costo fiscal.
+
+En consecuencia, los gastos no deducibles porque exceden el límite del 20%, en el año o periodo gravable, generarán una diferencia que será deducible en los periodos siguientes, sin exceder el 20% del costo fiscal por año o periodo gravable.
+
+3. Investigación, desarrollo e innovación: La deducción por este concepto se realizará así:
+
+a) Por regla general iniciará en el momento en que se finalice el proyecto de investigación, desarrollo e innovación, sea o no exitoso, el cual se amortizará en iguales proporciones, por el tiempo que se espera obtener rentas y en todo caso no puede ser superior a una alícuota anual del 20%, de su costo fiscal;
+
+b) Los desarrollos de software: i) si el activo es vendido se trata como costo o deducción en el momento de su enajenación. ii) si el activo es para el uso interno o para explotación, es decir, a través de licenciamiento o derechos de explotación se amortiza por la regla general del literal a) de este numeral.
+
+En consecuencia, para los literales a) y b) de este numeral, los gastos por amortización no deducibles porque exceden el límite del 20%, en el año o periodo gravable, generarán una diferencia que será deducible en los periodos siguientes, sin exceder el 20% del costo fiscal del activo por año o periodo gravable.
+
+PARÁGRAFO. Lo previsto en los numerales 5 y 6 del artículo 74-1 de este estatuto no es susceptible de amortización.
+
+## art:143 — DEDUCCIÓN POR AMORTIZACIÓN DE ACTIVOS INTANGIBLES
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Son deducibles, en la proporción que se indica en el presente artículo, las inversiones necesarias en activos intangibles realizadas para los fines del negocio o actividad, si no lo fueren de acuerdo con otros artículos de este capítulo y distintas de las inversiones en terrenos.
+
+Se entiende por inversiones necesarias en activos intangibles las amortizables por este sistema, los desembolsos efectuados o devengados para los fines del negocio o actividad susceptibles de demérito y que, de acuerdo con la técnica contable, deban reconocerse como activos, para su amortización.
+
+La amortización de activos intangibles a que se refiere el artículo 74 de este estatuto, se hará en los siguientes términos:
+
+1. La base de amortización será el costo de los activos intangibles determinado de conformidad con el artículo 74 de este estatuto.
+
+2. El método para la amortización del intangible será determinado de conformidad con la técnica contable, siempre y cuando la alícuota anual no sea superior del 20%, del costo fiscal.
+
+En caso tal que el intangible sea adquirido mediante contrato y este fije un plazo, su amortización se hará en línea recta, en iguales proporciones, por el tiempo del mismo. En todo caso la alícuota anual no podrá ser superior al 20% del costo fiscal.
+
+Los gastos por amortización no deducibles porque exceden el límite del 20%, en el año o periodo gravable, generarán una diferencia que será deducible en los periodos siguientes al término de la vida útil del activo intangible, sin exceder el 20% del costo fiscal del activo por año o periodo gravable.
+
+PARÁGRAFO 1o. Los activos intangibles adquiridos de que tratan los numerales 1 y 2 del artículo 74 de este estatuto, que reúnan la totalidad de las siguientes características serán amortizables:
+
+1. Que tengan una vida útil definida.
+
+2. Que el activo se puede identificar y medir con fiabilidad de acuerdo con la técnica contable, y
+
+3. Su adquisición generó en cabeza del enajenante residente fiscal colombiano un ingreso gravado en Colombia a precios de mercado, o cuando la enajenación se realice con un tercero independiente del exterior. 
+
+PARÁGRAFO 2o. No serán amortizables los activos intangibles adquiridos de que tratan los numerales 1 y 2 del artículo 74 de este estatuto, entre partes relacionadas o vinculadas dentro del Territorio Aduanero Nacional, zonas francas y las operaciones sometidas al régimen de precios de transferencia de que trata el artículo 260-1 y 260-2 del Estatuto Tributario.
+
+PARÁGRAFO 3o. La plusvalía que surja en cualquiera de los eventos descritos en el artículo 74 de este estatuto, no será objeto de amortización.
+
+PARÁGRAFO 4o. Cuando la persona jurídica o asimilada se liquide, será deducible el costo fiscal pendiente del activo intangible amortizable. 
+
+PARÁGRAFO 5o. Para los activos de que trata el parágrafo 2o del artículo 74 de este estatuto y que sean susceptibles de amortizarse y no exista una restricción en este estatuto, se amortizará en línea recta, en cuotas fijas, por el tiempo que se espera obtener rentas y en todo caso no puede ser superior a una alícuota anual del 20%, de su costo fiscal.
+
+Los gastos por amortización no deducibles porque exceden el límite del 20%, en el año o periodo gravable, generarán una diferencia que será deducible en los periodos siguientes al término de la vida útil del activo intangible, sin exceder el 20% del costo fiscal del activo por año o periodo gravable.
+
+## art:143-1 — AMORTIZACIÓN DE LAS INVERSIONES EN LA EXPLORACIÓN, DESARROLLO Y CONSTRUCCIÓN DE MINAS, Y YACIMIENTOS DE PETRÓLEO Y GAS
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+Los gastos preliminares de instalación u organización o de desarrollo o los costos de adquisición o exploración de minas, de yacimientos petrolíferos o de gas y otros recursos naturales no renovables para efectos del impuesto sobre la renta y complementarios seguirán las siguientes reglas para su amortización y su respectiva deducción:
+
+1. Los activos de evaluación y exploración de recursos naturales no renovables determinados en el numeral 4 del artículo 74-1 de este estatuto serán depreciables o amortizables, dependiendo de si se trata de un activo tangible o intangible.
+
+2. En caso de que se determine que la mina o yacimiento es infructuoso, los activos de que trata el numeral 4 del artículo 74-1 de este estatuto, podrán ser amortizados en el año en que se determine y compruebe tal condición y, en todo caso, a más tardar dentro de los 2 años siguientes. 
+
+3. En caso de que se determine que la mina o yacimiento es fructuoso, el valor a amortizar en el año o período gravable será el determinado de conformidad con la siguiente fórmula:
+
+Donde:
+
+CAt denota el costo por amortización en el año o período gravable.
+
+UPt corresponde a las unidades producidas en el año o período gravable.
+
+Rt–1 corresponde a las reservas probadas desarrolladas remanentes o reservas recuperables remanentes, debidamente auditadas por el experto en la materia, al final del año inmediatamente anterior. En el primer año de producción, corresponde al valor de reservas probadas y consignadas en el respectivo contrato, programas de trabajo y obras- PTO y/o el estudio técnico de reservas.
+
+SAt–1 corresponde al saldo por amortizar al final del año o período gravable inmediatamente anterior.
+
+En el caso en que las reservas probadas difieran de las inicialmente estimadas en el contrato, el mayor o menor valor de las mismas, deberá incorporarse en la variable de reservas probadas remanentes en el año en que se efectúe dicha actualización. 
+
+En aquellas zonas donde los recursos naturales no renovables no son de propiedad del estado, es decir, tienen Reconocimiento de Propiedad Privada (RPP), las reservas probadas deben ser presentadas por el contribuyente, mediante el estudio técnico de reservas debidamente avalado por un experto en la materia. 
+
+Salvo lo previsto en el artículo 167 de este estatuto, en caso que la producción se agote antes de lo previsto en el contrato correspondiente, el saldo pendiente se podrá amortizar en el año o período gravable en el que se comprueba tal situación y en todo caso a más tardar dentro de los 2 años siguientes a la comprobación.
+
+PARÁGRAFO 1o. Los desembolsos en que se incurran en las etapas de Desarrollo y Explotación de recursos naturales no renovables, tendrán el tratamiento fiscal que corresponda a la naturaleza de dichas partidas de conformidad con lo previsto en este estatuto.
+
+PARÁGRAFO 2o. Los costos incurridos en los procesos de mejoramiento en la explotación de un recurso natural no renovable, se capitalizarán y se amortizarán aplicando las reglas previstas en este artículo.
+
+PARÁGRAFO TRANSITORIO. <Parágrafo derogado a partir del 1 de enero de 2023 por el artículo 96 de la Ley 2277 de 2022>
 
 ## art:144 — OBLIGACIÓN DEL CUMPLIMIENTO DE LOS REQUISITOS EXIGIDOS EN LA LEY
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2405,7 +2643,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
 <Inciso modificado por el artículo 88 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las sociedades podrán compensar las pérdidas fiscales, con las rentas líquidas ordinarias que obtuvieren en los doce (12) períodos gravables siguientes, sin perjuicio de la renta presuntiva del ejercicio. Los socios no podrán deducir ni compensar las pérdidas de las sociedades contra sus propias rentas líquidas.
 
-<Ver Notas del Editor> La sociedad absorbente o resultante de un proceso de fusión, puede compensar con las rentas líquidas ordinarias que obtuviere, las pérdidas fiscales sufridas por las sociedades fusionadas, hasta un límite equivalente al porcentaje de participación de los patrimonios de las sociedades fusionadas dentro del patrimonio de la sociedad absorbente o resultante. La compensación de las pérdidas sufridas por las sociedades fusionadas, referidas en este artículo, deberá realizarse teniendo en cuenta los períodos gravables para compensar ya transcurridos y los límites anuales, previstos en la ley vigente en el período en que se generó y declaró la pérdida fiscal. 
+ La sociedad absorbente o resultante de un proceso de fusión, puede compensar con las rentas líquidas ordinarias que obtuviere, las pérdidas fiscales sufridas por las sociedades fusionadas, hasta un límite equivalente al porcentaje de participación de los patrimonios de las sociedades fusionadas dentro del patrimonio de la sociedad absorbente o resultante. La compensación de las pérdidas sufridas por las sociedades fusionadas, referidas en este artículo, deberá realizarse teniendo en cuenta los períodos gravables para compensar ya transcurridos y los límites anuales, previstos en la ley vigente en el período en que se generó y declaró la pérdida fiscal. 
 
 Las sociedades resultantes de un proceso de escisión, pueden compensar con las rentas líquidas ordinarias, las pérdidas fiscales sufridas por la sociedad escindida, hasta un límite equivalente al porcentaje de participación del patrimonio de las sociedades resultantes en el patrimonio de la sociedad que se escindió. La compensación de las pérdidas sufridas por la sociedad que se escindió, deberá realizarse teniendo en cuenta los períodos gravables para compensar ya transcurridos y los límites anuales, previstos en la ley vigente en el período en que se generó y declaró la pérdida fiscal.
 
@@ -2415,7 +2653,7 @@ En todos los casos, la compensación de las pérdidas fiscales en los procesos d
 
 <Inciso modificado por el artículo 5 de la Ley 1111 de 2006 (A partir del año gravable 2007). El nuevo texto es el siguiente:> Las pérdidas fiscales originadas en ingresos no constitutivos de renta ni de ganancia ocasional, y en costos y deducciones que no tengan relación de causalidad con la generación de la renta gravable, en ningún caso podrán ser compensadas con las rentas líquidas del contribuyente, salvo las generadas en la deducción por inversión en activos fijos a que se refiere el artículo 158-3 de este Estatuto.
 
-<Ver Notas del Editor> <Inciso modificado por el artículo 89 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El término de firmeza de las declaraciones de renta y sus correcciones en las que se determinen o compensen pérdidas fiscales será de seis (6) años contados a partir de la fecha de su presentación.
+ <Inciso modificado por el artículo 89 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El término de firmeza de las declaraciones de renta y sus correcciones en las que se determinen o compensen pérdidas fiscales será de seis (6) años contados a partir de la fecha de su presentación.
 
 PARÁGRAFO TRANSITORIO. <Parágrafo derogado por el artículo 376 de la Ley 1819 de 2016>
 
@@ -2459,12 +2697,12 @@ La pérdida proveniente de la enajenación de las acciones o cuotas de interés 
 
 - Consejo de Estado, Seción Cuarta, Expediente No. 73001-23-31-000-2012-00323-01(21703) de 25 de julio de 2019, C.P. Dra. Stella Jeannette Carvajal Basto.
 
-<Inciso adicionado por el artículo 128 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> No son deducibles las pérdidas originadas en la enajenación de derechos fiduciarios cuando el objeto del patrimonio autónomo, o el activo subyacente, esté constituido por acciones o cuotas de interés social o por cualquier otro activo cuya pérdida esté restringida de conformidad con las normas generales
+<Inciso adicionado por el artículo 128 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> No son deducibles las pérdidas originadas en la enajenación de derechos fiduciarios cuando el objeto del patrimonio autónomo, o el activo subyacente, esté constituido por acciones o cuotas de interés social o por cualquier otro activo cuya pérdida esté restringida de conformidad con las normas generales.
 
 ## art:154 — PÉRDIDA EN LA ENAJENACIÓN DE PLUSVALÍA
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo modificado por el artículo 90 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Con sujeción a las limitaciones previstas en este estatuto para las deducciones de pérdidas en la enajenación de activos, la pérdida originada en la enajenación del intangible de que trata el numeral 2 del artículo 74 de este estatuto, tendrá el siguiente tratamiento:
+Con sujeción a las limitaciones previstas en este estatuto para las deducciones de pérdidas en la enajenación de activos, la pérdida originada en la enajenación del intangible de que trata el numeral 2 del artículo 74 de este estatuto, tendrá el siguiente tratamiento:
 
 1. Si se enajena como activo separado no será deducible.
 
@@ -2488,7 +2726,12 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 ## art:158 — DEDUCCIÓN POR AMORTIZACIÓN EN EL SECTOR AGROPECUARIO
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-ARTÍCULO 158-1. DEDUCCIÓN POR DONACIONES E INVERSIONES EN INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN. <Artículo derogado a partir del 1 de enero de 2023 por el artículo 96 de la Ley 2277 de 2022>
+<Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
+
+## art:158-1 — DEDUCCIÓN POR DONACIONES E INVERSIONES EN INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN
+ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
+
+<Artículo derogado a partir del 1 de enero de 2023 por el artículo 96 de la Ley 2277 de 2022>
 
 ## art:158-2 — DEDUCCIÓN POR INVERSIONES EN CONTROL Y MEJORAMIENTO DEL MEDIO AMBIENTE
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2503,7 +2746,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 ## art:159 — DEDUCCIÓN POR INVERSIONES EN EVALUACIÓN Y EXPLORACIÓN DE RECURSOS NATURALES NO RENOVABLES
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-<Artículo modificado por el artículo 92 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las inversiones necesarias realizadas de conformidad con el numeral 4 del artículo 74-1 de este estatuto, serán amortizables de conformidad con lo establecido en el artículo 143-1.
+Las inversiones necesarias realizadas de conformidad con el numeral 4 del artículo 74-1 de este estatuto, serán amortizables de conformidad con lo establecido en el artículo 143-1.
 
 ## art:160 — DEDUCCIÓN POR EXPLORACIÓN DE PETROLEOS EN CONTRATOS VIGENTES AL 28 DE OCTUBRE DE 1974
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2608,17 +2851,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 ## art:172 — ARMORTIZACIÓN DE INVERSIONES EFECTUADES POR ECOPETROL
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 285 de la Ley 223 de 1995>
 
 ## art:173 — LAS DEDUCCIONES EN PLANTACIONES DE REFORESTACIÓN
 ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
@@ -2659,13 +2892,13 @@ ubicacion: TITULO I. RENTA. > CAPITULO V. DEDUCCIONES.
 
 No son aceptados como costo o gasto los siguientes pagos por concepto de operaciones gravadas con el IVA:
 
-a) <Ver Notas del Editor> <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Ajuste de las cifras en valores absolutos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). El texto con el nuevo término es el siguiente:> Los que se realicen a personas no inscritas en el Régimen Común* <régimen de responsabilidad)> del Impuesto sobre las Ventas por contratos de valor individual y superior a 3.300** UVT en el respectivo período gravable;
+a) <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Ajuste de las cifras en valores absolutos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). El texto con el nuevo término es el siguiente:> Los que se realicen a personas no inscritas en el [TACHADO: Régimen Común]* <régimen de responsabilidad)> del Impuesto sobre las Ventas por contratos de valor individual y superior a 3.300** UVT en el respectivo período gravable;
 
-b) <Ver Notas del Editor**> <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Ajuste de las cifras en valores absolutos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). El texto con el nuevo término es el siguiente:> Los realizados a personas no inscritas en el Régimen Común* <régimen de responsabilidades> del impuesto sobre las ventas, efectuados con posterioridad al momento en que los contratos superen un valor acumulado de 3.300 UVT** en el respectivo período gravable;
+b) <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Ajuste de las cifras en valores absolutos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). El texto con el nuevo término es el siguiente:> Los realizados a personas no inscritas en el [TACHADO: Régimen Común*] <régimen de responsabilidades> del impuesto sobre las ventas, efectuados con posterioridad al momento en que los contratos superen un valor acumulado de 3.300 UVT** en el respectivo período gravable;
 
-c) <Ver Notas del Editor**> <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Expresión "arrendadores" derogado por el artículo 376 de la Ley 1819 de 2016> Los realizados a personas naturales no inscritas en el Régimen Común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, cuando no conserven copia del documento en el cual conste la inscripción del respectivo vendedor o prestador de servicios en el régimen simplificado**. Se exceptúan de lo anterior las operaciones gravadas realizadas con agricultores, ganaderos y arrendadores pertenecientes al régimen simplificado**, siempre que el comprador de los bienes o servicios expida el documento equivalente a la factura a que hace referencia el literal f) del artículo 437 del Estatuto Tributario.
+c) <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Expresión "arrendadores" derogado por el artículo 376 de la Ley 1819 de 2016> Los realizados a personas naturales no inscritas en el [TACHADO: Régimen Común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, cuando no conserven copia del documento en el cual conste la inscripción del respectivo vendedor o prestador de servicios en el régimen simplificado**. Se exceptúan de lo anterior las operaciones gravadas realizadas con agricultores, ganaderos y [TACHADO: arrendadores] pertenecientes al régimen simplificado**, siempre que el comprador de los bienes o servicios expida el documento equivalente a la factura a que hace referencia el literal f) del artículo 437 del Estatuto Tributario.
 
-<Ver Notas del Editor**> Sin perjuicio de lo previsto en los literales a) y b) de este artículo, la obligación de exigir y conservar la constancia de inscripción del responsable del Régimen Simplificado** en el RUT, operará a partir de la fecha que establezca el reglamento a que se refiere el artículo 555-2. 
+ Sin perjuicio de lo previsto en los literales a) y b) de este artículo, la obligación de exigir y conservar la constancia de inscripción del responsable del Régimen Simplificado** en el RUT, operará a partir de la fecha que establezca el reglamento a que se refiere el artículo 555-2. 
 
 PARÁGRAFO. <Parágrafo adicionado por el artículo 94 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> A las mismas limitaciones se someten las operaciones gravadas con el impuesto nacional al consumo.
 
@@ -2723,6 +2956,15 @@ ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
 
 <Artículo derogado por el artículo 140 de la Ley 6 de 1992>
 
+## art:188 — BASE Y PORCENTAJE DE LA RENTA PRESUNTIVA
+ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
+
+Para efectos del impuesto sobre la renta, se presume que la renta líquida del contribuyente no es inferior al tres y medio por ciento (3.5%) de su patrimonio líquido, en el último día del ejercicio gravable inmediatamente anterior. 
+
+El porcentaje de renta presuntiva al que se refiere este artículo se reducirá al cero punto cinco por ciento (0,5%) en el año gravable 2020; y al cero por ciento (0 %) a partir del año gravable 2021. 
+
+Los contribuyentes inscritos bajo el impuesto unificado bajo el Régimen Simple de Tributación -SIMPLE no estarán sujetos a renta presuntiva.
+
 ## art:188-1 — PORCENTAJE A PARTIR DEL AÑO GRAVABLE 1992
 ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
 
@@ -2749,7 +2991,7 @@ g) <Literal adicionado por el artículo 96 de la Ley 1819 de 2016. El nuevo text
 
 Al valor inicialmente obtenido de renta presuntiva, se sumará la renta gravable generada por los activos exceptuados y este será el valor de la renta presuntiva que se compare con la renta líquida determinada por el sistema ordinario.
 
-PARÁGRAFO. <Aparte tachado derogado por el artículo 376 de la Ley 1819 de 2016>El exceso de renta presuntiva sobre la renta líquida ordinaria podrá compensarse con las rentas líquidas ordinarias determinadas dentro de los cinco (5) años siguientes, reajustado fiscalmente.
+PARÁGRAFO. <Aparte tachado derogado por el artículo 376 de la Ley 1819 de 2016>El exceso de renta presuntiva sobre la renta líquida ordinaria podrá compensarse con las rentas líquidas ordinarias determinadas dentro de los cinco (5) años siguientes, [TACHADO: reajustado fiscalmente].
 
 ## art:190 — EL CONPES PODRA FIJAR LAS TASAS DIFERENCIALES POR EFECTO DE LOS AVALUOS CATASTRALES
 ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
@@ -2809,19 +3051,7 @@ Constituyen renta líquida:
 
 1. La recuperación de las cantidades concedidas en uno o varios años o períodos gravables como deducción de la renta bruta, por depreciación, pérdida de activos fijos, amortización de inversiones, deudas de dudoso o difícil cobro, deudas perdidas o sin valor, pensiones de jubilación o invalidez, o cualquier otro concepto; hasta concurrencia del monto de la recuperación. 
 
-2. La distribución de las cantidades concedidas en años anteriores por concepto de reservas para protección o recuperación de activos, fomento económico y capitalización económica, o la destinación de tales reservas a finalidades diferentes. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+2. La distribución de las cantidades concedidas en años anteriores por concepto de reservas para protección o recuperación de activos, fomento económico y capitalización económica, o la destinación de tales reservas a finalidades diferentes.
 
 ## art:196 — RENTA LIQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS
 ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
@@ -2842,6 +3072,25 @@ Cuando el contribuyente obtenga ingresos o aprovechamientos por concepto de recu
 ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
 
 Las pérdidas declaradas por las sociedades que sean modificadas por liquidación oficial y que hayan sido objeto de compensación, constituyen renta líquida por recuperación de deducciones, en el año al cual corresponda la respectiva liquidación.
+
+## art:200 — CONTRATOS POR SERVICIOS DE CONSTRUCCIÓN
+ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
+
+Para las actividades de servicios de construcción se aplicarán las siguientes reglas:
+
+1. Los ingresos, costos y deducciones del contrato de construcción se reconocerán considerando el método de grado de realización del contrato.
+
+2. Para la aplicación de este método, se elaborará al comienzo de la ejecución del contrato un presupuesto de ingresos, costos y deducciones totales del contrato y atribuir en cada año o período gravable la parte proporcional de los ingresos del contrato que corresponda a los costos y deducciones efectivamente realizados durante el año. La diferencia entre la parte del ingreso así calculada y los costos y deducciones efectivamente realizados, constituye la renta líquida del respectivo año o período gravable.
+
+Al terminar la ejecución del contrato deben hacerse los ajustes que fueren necesarios, con los soportes respectivos.
+
+3. Cuando sea probable que los costos totales del contrato vayan a exceder de los ingresos totales derivados del mismo las pérdidas esperadas contabilizadas no serán deducibles para efecto del impuesto sobre la renta y complementarios, solo hasta el momento de la finalización del contrato, en la medida que se haya hecho efectiva.
+
+PARÁGRAFO 1o. El presupuesto del contrato debe estar suscrito por arquitecto, ingeniero u otro profesional especializado en la materia, con licencia para ejercer. 
+
+PARÁGRAFO 2o. Los contribuyentes que realicen esta actividad deben llevar contabilidad.
+
+PARÁGRAFO 3o. Cuando en esencia económica el contribuyente no preste un servicio de construcción, sino que construya un bien inmueble para destinarlo a la venta en el curso ordinario de sus operaciones, para su uso o para ser destinado como una propiedad de inversión, se considerarán las reglas previstas para los inventarios y activos fijos, contempladas en este Estatuto.
 
 ## art:201 — OPCIONES EN LA DETERMINACIÓN DE LA RENTA LIQUIDA
 ubicacion: TITULO I. RENTA. > CAPITULO VI. RENTA LIQUIDA.
@@ -2914,7 +3163,7 @@ El mismo tratamiento tendrán las Indemnizaciones Sustitutivas de las Pensiones 
 
 6. <Numeral modificado por el artículo 32 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El seguro por muerte, las compensaciones por muerte y las prestaciones sociales en actividad y en retiro de los miembros de las Fuerzas Militares y de la Policía Nacional. 
 
-7. <Ver Notas del Editor> <Numeral adicionado por el artículo 32 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> En el caso de los Magistrados* *** de los Tribunales, sus Fiscales** y Procuradores Judiciales, se considerará como gastos de representación exentos un porcentaje equivalente al cincuenta por ciento (50%) de su salario. 
+7. <Numeral adicionado por el artículo 32 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> En el caso de los Magistrados* *** de los Tribunales, sus Fiscales** y Procuradores Judiciales, se considerará como gastos de representación exentos un porcentaje equivalente al cincuenta por ciento (50%) de su salario. 
 
 Para los Jueces de la República el porcentaje exento será del veinticinco por ciento (25%) sobre su salario. 
 
@@ -2978,17 +3227,17 @@ Son rentas exentas las generadas por los siguientes conceptos, con los requisito
 
 8. <Numeral derogado a partir del año gravable 2018, incluido, por el artículo 376 de la Ley 1819 de 2016> 
 
-9. <Ver Notas del Editor> <Numeral derogado por el artículo 376 de la Ley 1819 de 2016>
+9. <Numeral derogado por el artículo 376 de la Ley 1819 de 2016>
 
 10. <Numeral derogado por el artículo 376 de la Ley 1819 de 2016>
 
 11. <Numeral derogado por el artículo 376 de la Ley 1819 de 2016. Ver Notas de Vigencia>
 
-12. <Ver Notas del Editor> <Numeral adicionado por el artículo 27 de la Ley 1739 de 2014. El nuevo texto es el siguiente:> El pago del principal, intereses, comisiones, y demás rendimientos financieros tales como descuentos, beneficios, ganancias, utilidades y en general, lo correspondiente a rendimientos de capital o a diferencias entre valor presente y valor futuro relacionados con operaciones de crédito, aseguramiento, reaseguramiento y demás actividades financieras efectuadas en el país por parte de entidades gubernamentales de carácter financiero y de cooperación para el desarrollo pertenecientes a países con los cuales Colombia haya suscrito un acuerdo específico de cooperación en dichas materias.
+12. <Numeral adicionado por el artículo 27 de la Ley 1739 de 2014. El nuevo texto es el siguiente:> El pago del principal, intereses, comisiones, y demás rendimientos financieros tales como descuentos, beneficios, ganancias, utilidades y en general, lo correspondiente a rendimientos de capital o a diferencias entre valor presente y valor futuro relacionados con operaciones de crédito, aseguramiento, reaseguramiento y demás actividades financieras efectuadas en el país por parte de entidades gubernamentales de carácter financiero y de cooperación para el desarrollo pertenecientes a países con los cuales Colombia haya suscrito un acuerdo específico de cooperación en dichas materias.
 
 PARÁGRAFO 1o. <Parágrafo adicionado por el artículo 98 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> A partir del año gravable 2018, incluido, las rentas exentas previstas en los numerales 2, 5, 8 y 11 de este artículo estarán gravadas con el impuesto sobre la renta y complementarios. 
 
-PARÁGRAFO 2o. <Ver Notas del Editor> <Parágrafo adicionado por el artículo 98 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las rentas exentas previstas en el numeral 12 de este artículo conservarán tal carácter.
+PARÁGRAFO 2o. <Parágrafo adicionado por el artículo 98 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las rentas exentas previstas en el numeral 12 de este artículo conservarán tal carácter.
 
 PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 98 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Lo aquí dispuesto no debe interpretarse como una renovación o extensión de los beneficios previstos en este artículo.
 
@@ -3034,7 +3283,7 @@ Para el año gravable 2002 10% exento
 
 PARAGRAFO 1o. Para efectos de la sobretasa en el sector del gas de que trata el numeral 89.5 del artículo 89 de la Ley 142 de 1994, se entenderá para todos los efectos que dicha sobretasa será hasta del veinte por ciento (20%) del costo económico del suministro en puerta de ciudad. 
 
-PARAGRAFO 2o. <Ver Notas del Editor> <Parágrafo modificado por el artículo 2 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Para los efectos de la sobretasa o contribución especial en el sector eléctrico de que trata el artículo 47 de la Ley 143 de 1994, se aplicará para los usuarios industriales, para los usuarios residenciales de los estratos 5 y 6, y para los usuarios comerciales, el veinte por ciento (20%) del costo de prestación del servicio. 
+PARAGRAFO 2o. <Parágrafo modificado por el artículo 2 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Para los efectos de la sobretasa o contribución especial en el sector eléctrico de que trata el artículo 47 de la Ley 143 de 1994, se aplicará para los usuarios industriales, para los usuarios residenciales de los estratos 5 y 6, y para los usuarios comerciales, el veinte por ciento (20%) del costo de prestación del servicio. 
 
 Los usuarios industriales tendrán derecho a descontar del impuesto de renta a cargo por el año gravable 2011, el cincuenta por ciento (50%) del valor total de la sobretasa a que se refiere el presente parágrafo. La aplicación del descuento aquí previsto excluye la posibilidad de solicitar la sobretasa como deducible de la renta bruta. 
 
@@ -3093,17 +3342,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
 ## art:214 — EXENCIÓN PARA EL FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS
 ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 134 de la Ley 633 de 2000.>
 
 ## art:215 — CONDICIÓN PARA MANTENER EXENCIÓN EN EXPLOTACIÓN DE HIDROCARDUROS
 ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
@@ -3223,7 +3462,10 @@ ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
 
 A partir del año gravable 2004, las rentas de que tratan los artículos 211 parágrafo 4o, 209, 216, 217, 219, 221 y 222 del Estatuto Tributario; los artículos 14 a 16 de la Ley 10 de 1991, 58 de la Ley 633 de 2000 y 235 de la Ley 685 de 2001, del Estatuto Tributario, quedan gravados en el ciento por ciento (100%) con el impuesto sobre la renta.
 
-ARTÍCULO 235-2. RENTAS EXENTAS A PARTIR DEL AÑO GRAVABLE 2019. <Artículo modificado por el artículo 91 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Sin perjuicio de las rentas exentas de las personas naturales de los artículos 126-1, 126-4, 206 y 206-1 del Estatuto Tributario y de las reconocidas en los convenios internacionales ratificados por Colombia, las únicas excepciones legales de que trata el artículo 26 del Estatuto Tributario son las siguientes: 
+## art:235-2 — RENTAS EXENTAS A PARTIR DEL AÑO GRAVABLE 2019
+ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
+
+Sin perjuicio de las rentas exentas de las personas naturales de los artículos 126-1, 126-4, 206 y 206-1 del Estatuto Tributario y de las reconocidas en los convenios internacionales ratificados por Colombia, las únicas excepciones legales de que trata el artículo 26 del Estatuto Tributario son las siguientes: 
 
 1. <Numeral derogado por el artículo 96 de la Ley 2277 de 2022> 
 
@@ -3275,11 +3517,17 @@ El presente parágrafo no aplica para aquellas sociedades cuyo objeto social pri
 
 PARÁGRAFO 2o. Las entidades que tengan derecho a las exenciones a las que se refieren los numerales 1 y 2 del presente artículo estarán obligadas a realizar los aportes parafiscales y las cotizaciones de que tratan los artículos 202 y 204 de la Ley 100 de 1993 y las pertinentes de la Ley 1122 de 2007, el artículo 7o de la Ley 21 de 1982, los artículos 2o y 3o de la Ley 27 de 1974 y el artículo 1o de la Ley 89 de 1988, y de acuerdo con los requisitos y condiciones establecidos en las normas aplicables. 
 
-PARÁGRAFO 3o. Las rentas exentas por la venta de energía eléctrica generada con base en los recursos eólicos, biomasa o residuos agrícolas, solar, geotérmica o de los mares, de que trata el presente artículo, no podrán aplicarse concurrentemente con los beneficios establecidos en la Ley 1715 de 2014. 
+PARÁGRAFO 3o. Las rentas exentas por la venta de energía eléctrica generada con base en los recursos eólicos, biomasa o residuos agrícolas, solar, geotérmica o de los mares, de que trata el presente artículo, no podrán aplicarse concurrentemente con los beneficios establecidos en la Ley 1715 de 2014.
 
-ARTÍCULO 235-3. MEGA-INVERSIONES. <Artículo derogado por el artículo 96 de la Ley 2277 de 2022> 
+## art:235-3 — MEGA-INVERSIONES
+ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
 
-ARTÍCULO 235-4. ESTABILIDAD TRIBUTARIA PARA MEGA-INVERSIONES. <Artículo derogado por el artículo 96 de la Ley 2277 de 2022>
+<Artículo derogado por el artículo 96 de la Ley 2277 de 2022>
+
+## art:235-4 — ESTABILIDAD TRIBUTARIA PARA MEGA-INVERSIONES
+ubicacion: TITULO I. RENTA. > CAPITULO VII. RENTAS EXENTAS.
+
+<Artículo derogado por el artículo 96 de la Ley 2277 de 2022>
 
 ## art:236 — RENTA POR COMPARACIÓN PATRIMONIAL
 ubicacion: TITULO I. RENTA. > CAPITULO VIII. RENTA GRAVABLE ESPECIAL.
@@ -3305,19 +3553,7 @@ PARÁGRAFO TRANSITORIO. <Parágrafo adicionado por el artículo 70 de la Ley 194
 ## art:239 — NO HABRA LUGAR A LA COMPARACIÓN PATRIMONIAL
 ubicacion: TITULO I. RENTA. > CAPITULO VIII. RENTA GRAVABLE ESPECIAL.
 
-La conversión de títulos de deuda pública externa de que trata el artículo 42, no dará lugar a determinar la renta por el sistema de comparación de patrimonios. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La conversión de títulos de deuda pública externa de que trata el artículo 42, no dará lugar a determinar la renta por el sistema de comparación de patrimonios.
 
 ## art:239-1 — RENTA LÍQUIDA GRAVABLE POR ACTIVOS OMITIDOS O PASIVOS INEXISTENTES
 ubicacion: TITULO I. RENTA. > CAPITULO VIII. RENTA GRAVABLE ESPECIAL.
@@ -3527,7 +3763,7 @@ El impuesto sobre la renta de las personas naturales residentes en el país, de 
 ## art:242 — TARIFA ESPECIAL PARA DIVIDENDOS O PARTICIPACIONES RECIBIDAS POR PERSONAS NATURALES RESIDENTES
 ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
 
-<Artículo modificado por el artículo 3 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los dividendos y participaciones pagados o abonados en cuenta a personas naturales residentes y sucesiones Ilíquidas de causantes que al momento de su muerte eran residentes del pa provenientes de distribución de utilidades que hubieren sido consideradas como ingreso no constitutivo de renta niganancia ocasional conforme a lo dispuesto en el numeral 3 del artículo 49 de este Estatuto, integrarán la base gravable del impuesto sobre la renta y complementarios y estarán sujetas a la tarifa señalada en el artículo 241 de este Estatuto.
+Los dividendos y participaciones pagados o abonados en cuenta a personas naturales residentes y sucesiones Ilíquidas de causantes que al momento de su muerte eran residentes del pa provenientes de distribución de utilidades que hubieren sido consideradas como ingreso no constitutivo de renta niganancia ocasional conforme a lo dispuesto en el numeral 3 del artículo 49 de este Estatuto, integrarán la base gravable del impuesto sobre la renta y complementarios y estarán sujetas a la tarifa señalada en el artículo 241 de este Estatuto.
 
 Los dividendos y participaciones pagados o abonados en cuenta a personas naturales residentes y sucesiones ilíquidas de causantes que al momento de su muerte eran residentes del pais provenientes de distribuciones de utilidades gravadas conforme a lo dispuesto en el parágrafo 2 del artículo 49 de este Estatuto, estarán sujetos a la tarifa señalada en el artículo 240 de este Estatuto, según el período gravable en que se paguen o abonen en cuenta, caso en el cual el impuesto señalado en el inciso anterior, se aplicará una vez disminuido este impuesto. A esta misma tarifa estarán gravados los dividendos y participaciones recibidos de sociedades y entidades extranjeras.
 
@@ -3538,7 +3774,8 @@ O1.0900%0%
 >1. 090En adelante15%(Dividendos decretados en calidad de exigibles en UVT menos 1. 090 UVT) x15%
 El accionista persona natural residente imputará la retención en la fuente practicada en su declaración del impuesto sobre la renta.
 
-ARTÍCULO 242-1. TARIFA ESPECIAL PARA DIVIDENDOS O PARTICIPACIONES RECIBIDAS POR SOCIEDADES NACIONALES. <Artículo modificado por el artículo 50 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> 
+## art:242-1 — TARIFA ESPECIAL PARA DIVIDENDOS O PARTICIPACIONES RECIBIDAS POR SOCIEDADES NACIONALES
+ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
 
 <Inciso modificado por el artículo 12 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los dividendos y participaciones pagados o abonados en cuenta a sociedades nacionales, provenientes de distribución de utilidades que hubieren sido consideradas como ingreso no constitutivo de renta ni ganancia ocasional conforme a lo dispuesto en el numeral 3 delartículo 49 de este Estatuto, estarán sujetas a la tarifa del diez por ciento (10%) a título de retención en la fuente sobre la renta, que será trasladable e imputable a la persona natural residente o inversionista residente en el exterior.
 
@@ -3550,12 +3787,12 @@ La retención en la fuente a la que se refiere este artículo solo se practica e
 
 PARÁGRAFO 2o. Las sociedades bajo el régimen CHC del impuesto sobre la renta, incluyendo las entidades públicas descentralizadas, no están sujetas a la retención en la fuente sobre los dividendos distribuidos por sociedades en Colombia. 
 
-PARÁGRAFO 3o. Los dividendos que se distribuyen dentro de los grupos empresariales o dentro de sociedades en situación de control debidamente registrados ante la Cámara de Comercio, no estarán sujetos a la retención en la fuente regulada en este artículo. Lo anterior, siempre y cuando no se trate de una entidad intermedia dispuesta para el diferimiento del impuesto sobre los dividendos
+PARÁGRAFO 3o. Los dividendos que se distribuyen dentro de los grupos empresariales o dentro de sociedades en situación de control debidamente registrados ante la Cámara de Comercio, no estarán sujetos a la retención en la fuente regulada en este artículo. Lo anterior, siempre y cuando no se trate de una entidad intermedia dispuesta para el diferimiento del impuesto sobre los dividendos.
 
 ## art:243 — DESTINACIÓN ESPECÍFICA
 ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
 
-<Artículo modificado por el artículo 102 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> A partir del periodo gravable 2017, 9 puntos porcentuales (9%) de la tarifa del Impuesto sobre la Renta y Complementarios de las personas jurídicas, se destinarán así:
+A partir del periodo gravable 2017, 9 puntos porcentuales (9%) de la tarifa del Impuesto sobre la Renta y Complementarios de las personas jurídicas, se destinarán así:
 
 1. 2.2 puntos se destinarán al ICBF.
 
@@ -3584,7 +3821,12 @@ PARÁGRAFO 5o. Anualmente la DIAN certificará al Ministerio de Hacienda y Créd
 ## art:244 — EXCEPCIÓN DE LOS NO DECLARANTES
 ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
 
-ARTÍCULO 244-1. <APORTE VOLUNTARIO EN LA DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS>. <Artículo adicionado por el artículo 20 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los contribuyentes podrán realizar de manera libre un aporte voluntario, que se podrá liquidar como porcentaje del impuesto a pagar o como un valor en pesos.
+<Artículo derogado por el artículo 198 de la Ley 1607 de 2012>
+
+## art:244-1 — <APORTE VOLUNTARIO EN LA DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS>
+ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
+
+Los contribuyentes podrán realizar de manera libre un aporte voluntario, que se podrá liquidar como porcentaje del impuesto a pagar o como un valor en pesos.
 
 Este aporte voluntario se liquidará al momento de presentación de la declaración del impuesto sobre la renta y complementarios y se recaudará al momento del respectivo pago. Independientemente que se liquide un saldo a pagar o un saldo a favor, el contribuyente podrá realizar el aporte voluntario de que trata este artículo. Sí no hubiere valor a pagar o saldo a favor, el contribuyente podrá pagar únicamente el aporte voluntario.
 
@@ -3601,20 +3843,21 @@ ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
 
 PARÁGRAFO 1o. Cuando los dividendos o participaciones correspondan a utilidades, que de haberse distribuido a una sociedad nacional hubieren estado gravadas, conforme a las reglas de los artículos 48 y 49 del Estatuto Tributario estarán sometidos a la tarifa señalada en el artículo 240 del Estatuto Tributario, según el periodo gravable en que se paguen o abonen en cuenta, caso en el cual el impuesto señalado en el inciso anterior, se aplicará una vez disminuido este impuesto. 
 
-PARÁGRAFO 2o. El impuesto de que trata este artículo será retenido en la fuente, sobre el valor bruto de los pagos o abonos en cuenta por concepto de dividendos o participaciones
+PARÁGRAFO 2o. El impuesto de que trata este artículo será retenido en la fuente, sobre el valor bruto de los pagos o abonos en cuenta por concepto de dividendos o participaciones.
 
-## art:246 — 
+## art:246 — TARIFA ESPECIAL PARA DIVIDENDOS Y PARTICIPACIONES RECIBIDOS POR ESTABLECIMIENTOS PERMANENTES DE SOCIEDADES EXTRANJERAS
 ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
-
-TARIFA ESPECIAL PARA DIVIDENDOS Y PARTICIPACIONES RECIBIDOS POR ESTABLECIMIENTOS PERMANENTES DE SOCIEDADES EXTRANJERAS. <Artículo modificado por el artículo 52 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> 
 
 <Inciso modificado por el artículo 13 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La tarifa del impuesto sobre la renta aplicable a los dividendos y participaciones que se paguen o abonen en cuenta a establecimientos permanentes en Colombia de sociedades extranjeras será del veinte por ciento (20%), cuando provengan de utilidades que hayan sido distribuidas a título de ingreso no constitutivo de renta ni ganancia ocasional.
 
 Cuando estos dividendos provengan de utilidades que no sean susceptibles de ser distribuidas a título de ingreso no constitutivo de renta ni ganancia ocasional, estarán gravados a la tarifa señalada en el artículo 240 del Estatuto Tributario, según el periodo gravable en que se paguen o abonen en cuenta, caso en el cual el impuesto señalado en el inciso anterior, se aplicará una vez disminuido este impuesto. 
 
-En cualquier caso, el impuesto será retenido en la fuente en el momento del pago o abono en cuenta. 
+En cualquier caso, el impuesto será retenido en la fuente en el momento del pago o abono en cuenta.
 
-ARTÍCULO 246-1. RÉGIMEN DE TRANSICIÓN PARA EL IMPUESTO A LOS DIVIDENDOS. <Artículo adicionado por el artículo 9 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Lo previsto en los artículos 242, 245, 246, 342, 343 de este Estatuto y demás normas concordantes solo será aplicable a los dividendos que se repartan con cargo a utilidades generadas a partir del año gravable 2017.
+## art:246-1 — RÉGIMEN DE TRANSICIÓN PARA EL IMPUESTO A LOS DIVIDENDOS
+ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
+
+Lo previsto en los artículos 242, 245, 246, 342, 343 de este Estatuto y demás normas concordantes solo será aplicable a los dividendos que se repartan con cargo a utilidades generadas a partir del año gravable 2017.
 
 ## art:247 — TARIFA DEL IMPUESTO DE RENTA PARA PERSONAS NATURALES SIN RESIDENCIA
 ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
@@ -3633,23 +3876,30 @@ ubicacion: TITULO I. RENTA. > CAPITULO IX. TARIFAS DEL IMPUESTO DE RENTA.
 
 <Artículo derogado por el artículo 285 de la Ley 223 de 1995>
 
+## art:249 — POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
+
+Los contribuyentes que inviertan en acciones que se coticen en bolsa, en empresas exclusivamente agropecuarias, en las que la propiedad accionaria esté altamente democratizada según lo establezca el reglamento, tendrán derecho a descontar el valor de la inversión realizada, sin que exceda del uno por ciento (1%) de la renta líquida gravable del año gravable en el cual se realice la inversión.
+
+El descuento a que se refiere el presente artículo procederá siempre que el contribuyente mantenga la inversión por un término no inferior a dos (2) años.
+
 ## art:250 — DESCUENTO TRIBUTARIO POR LA GENERACIÓN DE EMPLEO
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Artículo derogado por el artículo 118 de la Ley 788 de 2002>
 
 ## art:251 — MODALIDADES DE LAS DONACIONES
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Artículo derogado por el artículo 140 de la Ley 6 de 1992>
 
 ## art:252 — REQUISITOS PARA RECONOCER EL DESCUENTO
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Artículo derogado por el artículo 140 de la Ley 6 de 1992>
 
 ## art:253 — POR REFORESTACIÓN
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Inciso derogado tácitamente. Consultar Notas del Editor> 
 
@@ -3660,7 +3910,7 @@ El Gobierno Nacional reglamentara este Incentivo, cuyo manejo estará a cargo de
 Un Ecosistema poco o nada intervenido es aquel que mantiene sus funciones ecológicas y paisajísticas.
 
 ## art:254 — DESCUENTO POR IMPUESTOS PAGADOS EN EL EXTERIOR
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 Las personas naturales residentes en el país y las sociedades y entidades nacionales, que sean contribuyentes del impuesto sobre la renta y complementarios y que perciban rentas de fuente extranjera sujetas al impuesto sobre la renta en el país de origen, tienen derecho a descontar del monto del impuesto colombiano de renta y complementarios, el impuesto pagado en el extranjero, cualquiera sea su denominación, liquidado sobre esas mismas rentas, siempre que el descuento no exceda del monto del impuesto que deba pagar el contribuyente en Colombia por esas mismas rentas. Para efectos de esta limitación general, las rentas del exterior deben depurarse imputando ingresos, costos y gastos. 
 
@@ -3680,18 +3930,21 @@ f) Para tener derecho al descuento a que se refieren los literales a), b) y d), 
 
 PARÁGRAFO 1o. El impuesto sobre la renta pagado en el exterior podrá ser tratado como descuento en el año gravable en el cual se haya realizado el pago, o en cualquiera de los períodos gravables siguientes sin perjuicio de lo previsto en el artículo 259 de este Estatuto. En todo caso, el exceso de impuesto descontable que se trate como descuento en otros períodos gravables tiene como límite el impuesto sobre la renta y complementarios generado en Colombia sobre las rentas de fuente extranjera de igual naturaleza a las que dieron origen a dicho descuento. 
 
-PARÁGRAFO 2o. Cuando de acuerdo con la aplicación del régimen ECE el residente colombiano realice una atribución de algunas rentas pasivas y no de la totalidad de las rentas de la ECE, el descuento tributario corresponde al impuesto efectivamente pagado por la ECE sobre las mismas rentas, el cual deberá certificarse por la ECE y no podrá ser superior al porcentaje del ingreso atribuido sobre el valor total de los ingresos de la ECE. 
+PARÁGRAFO 2o. Cuando de acuerdo con la aplicación del régimen ECE el residente colombiano realice una atribución de algunas rentas pasivas y no de la totalidad de las rentas de la ECE, el descuento tributario corresponde al impuesto efectivamente pagado por la ECE sobre las mismas rentas, el cual deberá certificarse por la ECE y no podrá ser superior al porcentaje del ingreso atribuido sobre el valor total de los ingresos de la ECE.
 
-ARTÍCULO 254-1. DESCUENTO TRIBUTARIO DETERMINADO A PARTIR DE LA RENTA LÍQUIDA CEDULAR DE DIVIDENDOS Y PARTICIPACIONES DE PERSONAS NATURALES RESIDENTES Y SUCESIONES ILÍQUIDAS DE CAUSANTES RESIDENTES. <Artículo adicionado por el artículo 5 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las personas naturales residentes y sucesiones ilíquidas de causantes que al momento de su muerte eran residentes del país, y hayan percibido ingresos por concepto de dividendos y/o participaciones declarados en los términos del artículo 331 del Estatuto Tributario, podrán descontar de su impuesto sobre la renta, en ese mismo periodo, el valor que se determine de conformidad con la siguiente tabla:
+## art:254-1 — DESCUENTO TRIBUTARIO DETERMINADO A PARTIR DE LA RENTA LÍQUIDA CEDULAR DE DIVIDENDOS Y PARTICIPACIONES DE PERSONAS NATURALES RESIDENTES Y SUCESIONES ILÍQUIDAS DE CAUSANTES RESIDENTES
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
+
+Las personas naturales residentes y sucesiones ilíquidas de causantes que al momento de su muerte eran residentes del país, y hayan percibido ingresos por concepto de dividendos y/o participaciones declarados en los términos del artículo 331 del Estatuto Tributario, podrán descontar de su impuesto sobre la renta, en ese mismo periodo, el valor que se determine de conformidad con la siguiente tabla:
 
 Renta líquida cedular de dividendos y participaciones desdeRenta líquida cedular de dividendos y participaciones hastaDescuento marginalDescuento
 o1.0900%0%
 >1.090En adelante19%(Renta líquida cedular de dividendos y participaciones en UVTmenos 1.090UVT)x 19%
 
 ## art:255 — DESCUENTO PARA INVERSIONES REALIZADAS EN CONTROL, CONSERVACIÓN Y MEJORAMIENTO DEL MEDIO AMBIENTE
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
-<Ver Notas del Editor> <Artículo modificado por el artículo 103 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las personas jurídicas que realicen directamente inversiones en control, conservación y mejoramiento del medio ambiente, tendrán derecho a descontar de su impuesto sobre la renta a cargo el 25% de las inversiones que hayan realizado en el respectivo año gravable, previa acreditación que efectúe la autoridad ambiental respectiva, en la cual deberá tenerse en cuenta los beneficios ambientales directos asociados a dichas inversiones. No darán derecho a descuento las inversiones realizadas por mandato de una autoridad ambiental para mitigar el impacto ambiental producido por la obra o actividad objeto de una licencia ambiental.
+Las personas jurídicas que realicen directamente inversiones en control, conservación y mejoramiento del medio ambiente, tendrán derecho a descontar de su impuesto sobre la renta a cargo el 25% de las inversiones que hayan realizado en el respectivo año gravable, previa acreditación que efectúe la autoridad ambiental respectiva, en la cual deberá tenerse en cuenta los beneficios ambientales directos asociados a dichas inversiones. No darán derecho a descuento las inversiones realizadas por mandato de una autoridad ambiental para mitigar el impacto ambiental producido por la obra o actividad objeto de una licencia ambiental.
 
 PARÁGRAFO. El reglamento aplicable al artículo 158-2 del Estatuto Tributario antes de la entrada en vigencia de la presente ley, será aplicable a este artículo y la remisión contenida en la Ley 1715 de 2014 al artículo 158-2 del Estatuto Tributario, se entenderá hecha al presente artículo.
 
@@ -3701,12 +3954,12 @@ En estos casos, el área destinada al desarrollo de la actividad turística ser�
 
 También darán derecho al descuento aquellas Inversiones en el marco de proyectos encaminados al desarrollo de productos o atractivos turísticos, que contribuyan a la preservación y restauración de la diversidad biológica, los recursos naturales renovables y del medio ambiente.
 
-Para efectos de reglamentar los beneficios tributarlos aplicables al sector turístico, relacionados con la adquisición de bienes, equipos o maquinaria destinados a proyectos, programas o actividades que tengan como objeto el consumo sostenible, se podrán suscribir convenios con las autoridades ambientales del orden nacional o local
+Para efectos de reglamentar los beneficios tributarlos aplicables al sector turístico, relacionados con la adquisición de bienes, equipos o maquinaria destinados a proyectos, programas o actividades que tengan como objeto el consumo sostenible, se podrán suscribir convenios con las autoridades ambientales del orden nacional o local.
 
 ## art:256 — DESCUENTO PARA INVERSIONES REALIZADAS EN INVESTIGACIÓN, DESARROLLO TECNOLÓGICO O INNOVACIÓN
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
-<Artículo modificado por el artículo 21 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las personas que realicen inversiones en proyectos calificados por el Consejo Nacional de Beneficios Tributarios en Ciencia y Tecnología en Innovación como de investigación, desarrollo tecnológico o innovación, de acuerdo con los criterios y condiciones definidas por dicho Consejo, tendrán derecho a descontar de su impuesto sobre la renta a cargo el treinta por ciento (30%) del valor invertido en dichos proyectos en el período gravable en que se realizó la inversión.
+Las personas que realicen inversiones en proyectos calificados por el Consejo Nacional de Beneficios Tributarios en Ciencia y Tecnología en Innovación como de investigación, desarrollo tecnológico o innovación, de acuerdo con los criterios y condiciones definidas por dicho Consejo, tendrán derecho a descontar de su impuesto sobre la renta a cargo el treinta por ciento (30%) del valor invertido en dichos proyectos en el período gravable en que se realizó la inversión.
 
 Las inversiones de que trata este artículo, podrán ser realizadas a través de los actores reconocidos por el Ministerio de Ciencia, Tecnología e Innovación de acuerdo con la normatividad vigente. El Consejo Nacional de Beneficios Tributarios, definirá los procedimientos de control seguimiento y evaluación de los proyectos calificados, y las condiciones para garantizar la divulgación de los resultados de los proyectos calificados, sin perjuicio de la aplicación de las normas sobre propiedad intelectual y que además servirán de mecanismo de control de la inversión de los recursos.
 
@@ -3725,7 +3978,7 @@ Cuando se presenten proyectos en CT+I que establezcan inversiones superiores al 
 PARÁGRAFO 5o. Los costos y gastos que dan lugar al descuento de que trata este artículo no podrán ser capitalizados ni tomados como costo o deducción nuevamente por el mismo contribuyente.
 
 ## art:256-1 — CRÉDITO FISCAL PARA INVERSIONES EN PROYECTOS DE INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN O VINCULACIÓN DE CAPITAL HUMANO DE ALTO NIVEL
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 Las inversiones que realicen las Micro, Pequeñas y Medianas empresas en proyectos calificados como de Investigación, Desarrollo Tecnológico e Innovación, de acuerdo con los criterios y condiciones definidas por el Consejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación (CNBT), podrán acceder a un crédito fiscal por un valor del 50% de la inversión realizada y certificada por el CNBT aplicable para la compensación de impuestos nacionales. El crédito fiscal aquí establecido no generará saldo a favor susceptible de devolución, excepto únicamente respecto de lo previsto en los parágrafos 3 y 4 del presente artículo.
 
@@ -3741,12 +3994,12 @@ PARÁGRAFO 4o. La remuneración pagada por la vinculación de personal con títu
 
 PARÁGRAFO 5o. Los créditos fiscales tendrán una vigencia de dos años una vez expedido el respectivo certificado.
 
-PARÁGRAFO 6o. <Parágrafo adicionado por el artículo 22 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las grandes empresas podrán acceder al crédito fiscal de que trata el presente Artículo siempre y cuando se trate de proyectos de investigación, desarrollo tecnológico e innovación realizados en conjunto con Micro, Pequeñas o Medianas empresas
+PARÁGRAFO 6o. <Parágrafo adicionado por el artículo 22 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las grandes empresas podrán acceder al crédito fiscal de que trata el presente Artículo siempre y cuando se trate de proyectos de investigación, desarrollo tecnológico e innovación realizados en conjunto con Micro, Pequeñas o Medianas empresas.
 
 ## art:257 — DESCUENTO POR DONACIONES A ENTIDADES SIN ÁNIMO DE LUCRO PERTENECIENTES AL RÉGIMEN ESPECIAL
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
-<Ver Notas del Editor> <Artículo modificado por el artículo 105 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las donaciones efectuadas a entidades sin ánimo de lucro que hayan sido calificadas en el régimen especial del impuesto sobre la renta y complementarios y a las entidades no contribuyentes de que tratan los artículos 22 y 23 del Estatuto Tributario, no serán deducibles del impuesto sobre la renta y complementarios, pero darán lugar a un descuento del impuesto sobre la renta y complementarios, equivalente al 25%*1 del valor donado en el año o período gravable. El Gobierno nacional reglamentará los requisitos para que proceda este descuento.
+Las donaciones efectuadas a entidades sin ánimo de lucro que hayan sido calificadas en el régimen especial del impuesto sobre la renta y complementarios y a las entidades no contribuyentes de que tratan los artículos 22 y 23 del Estatuto Tributario, no serán deducibles del impuesto sobre la renta y complementarios, pero darán lugar a un descuento del impuesto sobre la renta y complementarios, equivalente al 25%*1 del valor donado en el año o período gravable. El Gobierno nacional reglamentará los requisitos para que proceda este descuento.
 
 PARÁGRAFO. Las donaciones de que trata el artículo 125 del Estatuto Tributario también darán lugar al descuento previsto en este artículo. 
 
@@ -3757,7 +4010,7 @@ PARÁGRAFO 1o. <sic> <Parágrafo adicionado por el artículo 2 de la Ley 2380 de
 Si el beneficio no se aplica durante el año o período gravable en el que se generó, el contribuyente podrá imputarlo dentro de su liquidación privada del mismo impuesto en periodos gravables siguientes, hasta un máximo de cuatro (4) periodos.
 
 ## art:257-1 — BECAS POR IMPUESTOS
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 Las personas naturales o jurídicas contribuyentes del Impuesto sobre la renta y complementarios podrán celebrar convenios con Coldeportes para asignar becas de estudio y manutención a deportistas talento o reserva deportiva, por las que recibirán a cambio títulos negociables para el pago del impuesto sobre la renta.
 
@@ -3766,14 +4019,14 @@ Coldeportes reglamentará en un plazo no mayor a seis (6) meses de la expedició
 Los descuentos de los que trata este artículo y en su conjunto los que tratan los artículos 255, 256 y 257 del Estatuto Tributario no podrán exceder en un 30% del impuesto sobre la renta a cargo del contribuyente en el respectivo año gravable.
 
 ## art:257-2 — DESCUENTO TRIBUTARIO POR DONACIONES TENDIENTES A LOGRAR LA INMUNIZACIÓN DE LA POBLACIÓN COLOMBIANA FRENTE A LA COVID-19 Y CUALQUIER OTRA PANDEMIA
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Artículo derogado por el artículo 96 de la Ley 2277 de 2022>
 
 ## art:258 — LIMITACIONES A LOS DESCUENTOS TRIBUTARIOS DE QUE TRATAN LOS ARTÍCULOS 255, 256 Y 257 DEL ESTATUTO TRIBUTARIO
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
-<Artículo modificado por el artículo 106 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los descuentos de que tratan los artículos 255, 256 y 257 del Estatuto Tributario tomados en su conjunto no podrán exceder del 25% del impuesto sobre la renta a cargo del contribuyente en el respectivo año gravable. El exceso no descontado en el año tendrá el siguiente tratamiento:
+Los descuentos de que tratan los artículos 255, 256 y 257 del Estatuto Tributario tomados en su conjunto no podrán exceder del 25% del impuesto sobre la renta a cargo del contribuyente en el respectivo año gravable. El exceso no descontado en el año tendrá el siguiente tratamiento:
 
 1. El exceso originado en el descuento de que trata el artículo 255 del Estatuto Tributario, podrá tomarse dentro de los cuatro (4) períodos gravables siguientes a aquel en que se efectuó la inversión en control y mejoramiento del medio ambiente.
 
@@ -3782,7 +4035,7 @@ ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. 
 3. El exceso originado en el descuento de que trata el artículo 257 del Estatuto Tributario, podrá tomarse dentro del periodo gravable siguiente a aquel en que se efectuó la donación.
 
 ## art:258-1 — IMPUESTO SOBRE LAS VENTAS EN LA IMPORTACIÓN, FORMACIÓN, CONSTRUCCIÓN O ADQUISICIÓN DE ACTIVOS FIJOS REALES PRODUCTIVOS
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Artículo modificado por el artículo 95 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los responsables del impuesto sobre las ventas (IVA) podrán descontar del impuesto sobre la renta a cargo, correspondiente al año en el que se efectúe su pago, o en cualquiera de los periodos gravables siguientes, el IVA pagado por la adquisición, construcción o formación e importación de activos fijos reales productivos, incluyendo el asociado a los servicios necesarios para ponerlos en condiciones de utilización. En el caso de los activos fijos reales productivos formados o construidos, el impuesto sobre las ventas podrá descontarse en el año gravable en que dicho activo se active y comience a depreciarse o amortizarse, o en cualquiera de los periodos gravables siguientes. 
 
@@ -3791,12 +4044,12 @@ Este descuento procederá también cuando los activos fijos reales productivos s
 El IVA de que trata esta disposición no podrá tomarse simultáneamente como costo o gasto en el impuesto sobre la renta ni será descontable del impuesto sobre las ventas (IVA).
 
 ## art:258-2 — DESCUENTO POR IMPUESTO SOBRE LAS VENTAS PAGADO EN LA ADQUISICIÓN E IMPORTACIÓN DE MAQUINARIA PESADA PARA INDUSTRIAS BÁSICAS
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:259 — LIMITE DE LOS DESCUENTOS
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 En ningún caso los descuentos tributarios pueden exceder el valor del impuesto básico de renta. 
 
@@ -3804,9 +4057,12 @@ La determinación del impuesto después de descuentos, en ningún caso podrá se
 
 PARAGRAFO 1o. El límite establecido en el inciso segundo del presente artículo, no será aplicable a las inversiones de que trata el artículo quinto de la Ley 218 de 1995, ni a las rentas exentas. 
 
-PARAGRAFO 2o. <Parágrafo modificado por el artículo 22 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Cuando los descuentos tributarios estén originados exclusivamente en certificados de reembolso tributario, la determinación del impuesto a cargo no podrá ser inferior al setenta por ciento (70%) del impuesto determinado por el sistema de renta presuntiva antes de cualquier descuento. 
+PARAGRAFO 2o. <Parágrafo modificado por el artículo 22 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Cuando los descuentos tributarios estén originados exclusivamente en certificados de reembolso tributario, la determinación del impuesto a cargo no podrá ser inferior al setenta por ciento (70%) del impuesto determinado por el sistema de renta presuntiva antes de cualquier descuento.
 
-ARTÍCULO 259-1. LÍMITE A LOS BENEFICIOS Y ESTÍMULOS TRIBUTARIOS PARA LAS SOCIEDADES NACIONALES Y SUS ASIMILADAS, LOS ESTABLECIMIENTOS PERMANENTES DE ENTIDADES DEL EXTERIOR Y LAS PERSONAS JURÍDICAS EXTRANJERAS CON O SIN RESIDENCIA EN EL PAÍS. <Artículo adicionado por el artículo 14 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Para las sociedades nacionales y sus asimiladas, los establecimientos permanentes de entidades del exterior y las personas jurídicas extranjeras con o sin residencia en el país contribuyentes del impuesto sobre la renta y complementarios, el valor de los ingresos no constitutivos de renta ni ganancia ocasional, deducciones especiales, rentas exentas y descuentos tributarios previstos en el presente artículo no podrá exceder el tres por ciento (3%) anual de su renta líquida ordinaria antes de detraer las deducciones especiales contempladas en este artículo. Para efectos del cálculo del impuesto a pagar, se debe adicionar al impuesto a cargo del respectivo año gravable, siempre que sea positivo, el valor resultante de la siguiente fórmula:
+## art:259-1 — LÍMITE A LOS BENEFICIOS Y ESTÍMULOS TRIBUTARIOS PARA LAS SOCIEDADES NACIONALES Y SUS ASIMILADAS, LOS ESTABLECIMIENTOS PERMANENTES DE ENTIDADES DEL EXTERIOR Y LAS PERSONAS JURÍDICAS EXTRANJERAS CON O SIN RESIDENCIA EN EL PAÍS
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
+
+Para las sociedades nacionales y sus asimiladas, los establecimientos permanentes de entidades del exterior y las personas jurídicas extranjeras con o sin residencia en el país contribuyentes del impuesto sobre la renta y complementarios, el valor de los ingresos no constitutivos de renta ni ganancia ocasional, deducciones especiales, rentas exentas y descuentos tributarios previstos en el presente artículo no podrá exceder el tres por ciento (3%) anual de su renta líquida ordinaria antes de detraer las deducciones especiales contempladas en este artículo. Para efectos del cálculo del impuesto a pagar, se debe adicionar al impuesto a cargo del respectivo año gravable, siempre que sea positivo, el valor resultante de la siguiente fórmula:
 
 VAA = (DE+ RE+ INCRNGO) * TRPJ + DT - 3%RLO*
 
@@ -3830,10 +4086,13 @@ En caso de que el VAA sea menor o igual a cero (VAA 0), el valor a adicionar no 
 
 Para efectos de la fórmula prevista en el presente artículo, únicamente estarán sujetos al límite los ingresos no constitutivos de renta ni ganancia ocasional, deducciones especiales rentas exentas y descuentos tributarios establecidos en los artículos 107-2, 255 257-1 del Estatuto Tributario; 124 de la Ley 30 de 1992, 56 de la Ley 397 de 1997, 44 de la Ley 789 de 2002, 23 de la Ley 1257 de 2008 y 4o de la Ley 1493 de 2011. Los Ingresos no constitutivos de renta ni ganancia ocasional, deducciones especiales rentas exentas y descuentos tributarios que no se encuentren señalados en el presente artículo, no estarán sujetos al límite.
 
-ARTÍCULO 259-2. ELIMINACIÓN DE DESCUENTOS TRIBUTARIOS EN EL IMPUESTO SOBRE LA RENTA. <Artículo modificado por el artículo 96 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Elimínense a partir del año gravable 2020 todos los descuentos tributarios aplicables al impuesto sobre la renta, que sean distintos de los contenidos en los artículos 115, 254, 255, 256, 256-1, 257, 257-1 y 258-1 del Estatuto Tributario, el artículo 104 de la Ley 788 de 2002 y los previstos en esta ley para las Zomac.
+## art:259-2 — ELIMINACIÓN DE DESCUENTOS TRIBUTARIOS EN EL IMPUESTO SOBRE LA RENTA
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
+
+Elimínense a partir del año gravable 2020 todos los descuentos tributarios aplicables al impuesto sobre la renta, que sean distintos de los contenidos en los artículos 115, 254, 255, 256, 256-1, 257, 257-1 y 258-1 del Estatuto Tributario, el artículo 104 de la Ley 788 de 2002 y los previstos en esta ley para las Zomac.
 
 ## art:260 — INTRANSFERIBILIDAD DE LOS DESCUENTOS TRIBUTARIOS
-ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS. ARTICULO 249. POR INVERSIÓN EN ACCIONES DE SOCIEDADES AGROPECUARIAS. <Ver Notas del Editor> <A
+ubicacion: TITULO I. RENTA. > CAPITULO X. DESCUENTOS TRIBUTARIOS.
 
 En ningún caso serán trasladables a los socios, copartícipes, asociados, cooperados, accionistas, comuneros, suscriptores y similares, los descuentos tributarios de que gocen los entes de los cuales formen parte.
 
@@ -4036,7 +4295,10 @@ ubicacion: TITULO I. RENTA. > CAPITULO XI. PRECIOS DE TRANSFERENCIA.
 
 Cuando de conformidad con lo establecido en un tratado internacional en materia tributaria celebrado por Colombia, las autoridades competentes del país con el que se hubiese celebrado el tratado, realicen un ajuste a los precios o montos de contraprestación de un contribuyente residente en ese país y siempre que dicho ajuste sea aceptado por la Dirección de Impuestos y Aduanas Nacionales, la parte relacionada residente en Colombia podrá presentar una declaración de corrección sin sanción en la que se refleje el ajuste correspondiente.
 
-ARTÍCULO 260-7. JURISDICCIONES NO COOPERANTES, DE BAJA O NULA IMPOSICIÓN Y REGÍMENES TRIBUTARIOS PREFERENCIALES. <Artículo modificado por el artículo 109 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos del impuesto sobre la renta y complementarios se tendrán las siguientes definiciones:
+## art:260-7 — JURISDICCIONES NO COOPERANTES, DE BAJA O NULA IMPOSICIÓN Y REGÍMENES TRIBUTARIOS PREFERENCIALES
+ubicacion: TITULO I. RENTA. > CAPITULO XI. PRECIOS DE TRANSFERENCIA.
+
+Para efectos del impuesto sobre la renta y complementarios se tendrán las siguientes definiciones:
 
 1. Las jurisdicciones no cooperantes y de baja o nula imposición, serán determinadas por el Gobierno nacional mediante reglamento, con base en el cumplimiento de uno cualquiera de los criterios que a continúación se señalan:
 
@@ -4072,7 +4334,10 @@ PARÁGRAFO 3o. Cuando los contribuyentes del impuesto sobre la renta y complemen
 
 PARÁGRAFO 4o. Para todos los efectos legales, el término paraíso fiscal se asimila al de jurisdicciones no cooperantes o de baja o nula imposición.
 
-ARTÍCULO 260-8. INGRESOS, COSTOS Y DEDUCCIONES. <Artículo modificado por el artículo 110 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Lo dispuesto en los artículos 35, 90, 124-1, 124-2, el parágrafo 2o del artículo 143, 151, 152 y numerales 2 y 3 del artículo 312 de este Estatuto, no se aplicará a los contribuyentes que se encuentren dentro del régimen de precios de transferencia determinado en los artículos 260-1, 260-2 y 260-7 del estatuto tributario y demuestren que la operación cumple el principio de plena competencia.
+## art:260-8 — INGRESOS, COSTOS Y DEDUCCIONES
+ubicacion: TITULO I. RENTA. > CAPITULO XI. PRECIOS DE TRANSFERENCIA.
+
+Lo dispuesto en los artículos 35, 90, 124-1, 124-2, el parágrafo 2o del artículo 143, 151, 152 y numerales 2 y 3 del artículo 312 de este Estatuto, no se aplicará a los contribuyentes que se encuentren dentro del régimen de precios de transferencia determinado en los artículos 260-1, 260-2 y 260-7 del estatuto tributario y demuestren que la operación cumple el principio de plena competencia.
 
 ## art:260-9 — OBLIGACIÓN DE PRESENTAR DECLARACIÓN INFORMATIVA
 ubicacion: TITULO I. RENTA. > CAPITULO XI. PRECIOS DE TRANSFERENCIA.
@@ -4260,7 +4525,7 @@ PARÁGRAFO 4o. Cuando el contribuyente no hubiere presentado la declaración inf
 PARÁGRAFO 5o. En relación con el régimen de precios de transferencia, constituye inexactitud sancionable la utilización en la declaración del impuesto sobre la renta, en la declaración informativa, en la documentación comprobatoria o en los informes suministrados a las oficinas de impuestos, de datos o factores falsos, equivocados, incompletos o desfigurados y/o la determinación de los ingresos, costos, deducciones, activos y pasivos en operaciones con vinculados o con personas, sociedades, entidades o empresas ubicadas, residentes o domiciliadas en paraísos fiscales conforme a lo establecido en los artículos 260-1, 260-2 y 260-7 de este Estatuto, con precios o márgenes de utilidad que no estén acordes con los que hubieran utilizado partes independientes en operaciones comparables, de los cuales se derive un menor impuesto o saldo a pagar, o un mayor saldo a favor para el contribuyente. Para el efecto, se aplicarán las sanciones previstas en los artículos 647-1 y 648 de este Estatuto según corresponda.
 
 ## art:261 — PATRIMONIO BRUTO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El patrimonio bruto está constituido por el total de los bienes y derechos apreciables en dinero poseídos por el contribuyente en el último día del año o período gravable. 
 
@@ -4269,24 +4534,24 @@ El patrimonio bruto está constituido por el total de los bienes y derechos apre
 PARÁGRAFO 1o. <Parágrafo adicionado por el artículo 113 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Sin perjuicio de lo establecido en este estatuto, se entenderá como activo los recursos controlados por la entidad como resultado de eventos pasados y de los cuales se espera que fluyan beneficios económicos futuros para la entidad. No integran el patrimonio bruto los activos contingentes de conformidad con la técnica contable, ni el activo por impuesto diferido, ni las operaciones de cobertura y de derivados por los ajustes de medición a valor razonable.
 
 ## art:262 — QUE SON DERECHOS APRECIABLES EN DINERO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Son derechos apreciables en dinero, los reales y personales, en cuanto sean susceptibles de ser utilizados en cualquier forma para la obtención de una renta.
 
 ## art:263 — QUE SE ENTIENDE POR POSESIÓN
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Se entiende por posesión, el aprovechamiento económico, potencial o real, de cualquier bien en beneficio del contribuyente. 
 
 Se presume que quien aparezca como propietario o usufructuario de un bien lo aprovecha económicamente en su propio beneficio.
 
 ## art:264 — PRESUNCIÓN DE APROVECHAMIENTO ECONOMICO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Se presume que el poseedor inscrito de un inmueble o quien aparezca como titular de un bien mueble sujeto a inscripción o registro, lo aprovecha económicamente en su beneficio.
 
 ## art:265 — BIENES POSEIDOS EN EL PAIS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Se entienden poseídos dentro del país: 
 
@@ -4301,7 +4566,7 @@ Se entienden poseídos dentro del país:
 5. Los fondos que el contribuyente tenga en el exterior vinculados al giro ordinario de sus negocios en Colombia, así como los activos en tránsito.
 
 ## art:266 — BIENES NO POSEIDOS EN EL PAIS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 No se entienden poseídos en Colombia los siguientes créditos obtenidos en el exterior: 
 
@@ -4318,29 +4583,29 @@ No se entienden poseídos en Colombia los siguientes créditos obtenidos en el e
 6. <Numeral adicionado por el artículo 56 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Los títulos, bonos u otros títulos de deuda emitido por un emisor colombiano y que sean transados en el exterior.
 
 ## art:267 — REGLA GENERAL PARA LA VALORACIÓN PATRIMONIAL DE LOS ACTIVOS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El valor de los bienes o derechos apreciables en dinero poseídos en el último día del año o período gravable, estará constituido por su costo fiscal, de conformidad con lo dispuesto en las normas del Título I de este Libro, salvo las normas especiales consagradas en los artículos siguientes.
 
 A partir del año gravable 2007, la determinación del valor patrimonial de los activos no monetarios, incluidos los inmuebles, que hayan sido objeto de ajustes por inflación, se realizará con base en el costo ajustado de dichos activos a 31 de diciembre de 2006, salvo las normas especiales consagradas en los artículos siguientes.
 
 ## art:267-1 — VALOR PATRIMONIAL DE LOS BIENES ADQUIRIDOS POR LEASING
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 En los contratos de arrendamiento financiero o leasing financiero, el valor patrimonial corresponderá al determinado en el artículo 127-1 de este Estatuto.
 
 ## art:268 — VALOR DE LOS DEPOSITOS EN CUENTAS CORRIENTES Y DE AHORRO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El valor de los depósitos bancarios es el del saldo en el último día del año o período gravable. El valor de los depósitos en cajas de ahorros es el del saldo en el último día del año o período gravable, incluida la corrección monetaria, cuando fuere el caso, más el valor de los intereses causados y no cobrados.
 
 ## art:269 — VALOR PATRIMONIAL DE LOS BIENES EN MONEDA EXTRANJERA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El valor de los activos en moneda extranjera, se estiman en moneda nacional al momento de su reconocimiento inicial a la tasa representativa del mercado, menos los abonos o pagos medidos a la misma tasa representativa del mercado del reconocimiento inicial.
 
 ## art:270 — VALOR PATRIMONIAL DE LOS CREDITOS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El valor de los créditos será el nominal. Sin embargo, pueden estimarse por un valor inferior cuando el contribuyente demuestre satisfactoriamente la insolvencia del deudor, o que le ha sido imposible obtener el pago, no obstante haber agotado los recursos usuales. 
 
@@ -4351,7 +4616,7 @@ Los créditos manifiestamente perdidos o sin valor, pueden descargarse del patri
 Cuando éste no lleve libros, puede descargar el crédito, siempre que conserven el documento anulado correspondiente al crédito.
 
 ## art:271 — VALOR PATRIMONIAL DE LOS TITULOS, BONOS Y SEGUROS DE VIDA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El valor de los títulos, bonos, certificados y otros documentos negociables que generan intereses y rendimientos financieros es el costo de adquisición más los descuentos o rendimientos causados y no cobrados hasta el último día del período gravable. 
 
@@ -4362,7 +4627,7 @@ Cuando no se coticen en bolsa, el rendimiento causado será el que corresponda a
 Para los contribuyentes obligados a utilizar sistemas especiales de valoración de inversiones, de acuerdo con las disposiciones expedidas al respecto por las entidades de control, el valor patrimonial será el que resulte de la aplicación de tales mecanismos de valoración.
 
 ## art:271-1 — VALOR PATRIMONIAL DE LOS DERECHOS FIDUCIARIOS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Los derechos fiduciarios se reconocerán para efectos patrimoniales de forma separada, el activo y pasivo, de conformidad con lo establecido en el numeral 2 del artículo 102 del Estatuto Tributario.
 
@@ -4373,36 +4638,36 @@ PARÁGRAFO 1o. Para efectos de lo previsto en este artículo se entiende por der
 PARÁGRAFO 2o. Para fines de la determinación del impuesto sobre la renta y complementarios, las sociedades fiduciarias deberán expedir cada año, a cada uno de los fideicomitentes de los fideicomisos a su cargo, un certificado indicando el valor de sus derechos, los rendimientos acumulados hasta el 31 de diciembre del respectivo ejercicio, aunque no hayan sido liquidados en forma definitiva y los rendimientos del último ejercicio gravable. En caso de que las cifras incorporen ajustes por inflación de conformidad con las normas vigentes hasta el año gravable 2006, se deberán hacer las aclaraciones de rigor.
 
 ## art:272 — VALOR DE LAS ACCIONES, APORTES, Y DEMAS DERECHOS EN SOCIEDADES
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Las acciones y derechos sociales en cualquier clase de sociedades o entidades deben ser declarados por su costo fiscal, ajustado por inflación* cuando haya lugar a ello. 
 
 Para los contribuyentes obligados a utilizar sistemas especiales de valoración de inversiones, de acuerdo con las disposiciones expedidas al respecto por las entidades de control, el valor patrimonial será el que resulte de la aplicación de tales mecanismos de valoración. (Este mismo valor constituirá la base para aplicar los ajustes por inflación)*.
 
 ## art:273 — REVALORIZACIÓN DEL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 A partir del año gravable 2007 y para todos los efectos, el saldo de la cuenta de revalorización del patrimonio registrado a 31 de diciembre de 2006, forma parte del patrimonio del contribuyente. 
 
-<Ver Notas del Editor> El valor reflejado en esta cuenta no podrá distribuirse como utilidad a los socios o accionistas, hasta tanto se liquide la empresa o se capitalice tal valor de conformidad con lo previsto en el artículo 36-3 de este Estatuto, en cuyo caso se distribuirá como un ingreso no gravado con el impuesto sobre la renta y complementarios.
+ El valor reflejado en esta cuenta no podrá distribuirse como utilidad a los socios o accionistas, hasta tanto se liquide la empresa o se capitalice tal valor de conformidad con lo previsto en el artículo 36-3 de este Estatuto, en cuyo caso se distribuirá como un ingreso no gravado con el impuesto sobre la renta y complementarios.
 
 ## art:274 — ACCIONES DE SOCIEDADES QUE NO SE COTIZAN EN BOLSA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 <Artículo derogado por el artículo 285 de la Ley 223 de 1995>
 
 ## art:275 — VALOR PATRIMONIAL DE LAS MERCANCIAS VENDIDAS A PLAZOS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
 
 ## art:276 — VALOR DE LOS SEMOVIENTES
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 <Artículo derogado por el artículo 376 de la Ley 1819 de 2016>
 
 ## art:277 — VALOR PATRIMONIAL DE LOS INMUEBLES
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Los contribuyentes obligados a llevar libros de contabilidad deben declarar los inmuebles por el costo fiscal, determinado de acuerdo con lo dispuesto en los Capítulos I y III del Título II del Libro I de este Estatuto y en el artículo 65 de la Ley 75 de 1986.
 
@@ -4411,24 +4676,24 @@ Los contribuyentes no obligados a llevar libros de contabilidad deben declarar l
 Lo previsto en este artículo se aplicará sin perjuicio de lo dispuesto en el artículo 90-2 de este Estatuto.
 
 ## art:278 — COSTO MINIMO DE LOS INMUEBLES ADQUIRIDOS CON PRESTAMOS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Cuando se adquieran bienes raíces con préstamos de entidades sometidas a la vigilancia el Estado, el precio de compra fijado en la escritura no podrá ser inferior a na suma en la cual el préstamo represente el 70% del total. 
 
 Los notarios se abstendrán de autorizar las escrituras que no cumplan con este requisito.
 
 ## art:279 — VALOR DE LOS BIENES INCORPORALES
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 El valor patrimonial de los bienes incorporales concernientes a la propiedad industrial, literaria, artística y científica, tales como patentes de invención, marcas, plusvalía, derechos de autor, otros intangibles e inversiones adquiridos a cualquier título, se estima por su costo de adquisición demostrado, más cualquier costo directamente atribuible a la preparación del activo para su uso previsto menos las amortizaciones concedidas y la solicitada por el año o período gravable.
 
 ## art:280 — REAJUSTE FISCAL A LOS ACTIVOS PATRIMONIALES
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 Los contribuyentes podrán ajustar anualmente el costo de los bienes que tengan el carácter de activos fijos en el mismo porcentaje en que se ajusta la Unidad de Valor Tributario, salvo para las personas naturales cuando hubieren optado por el ajuste previsto en el artículo 73 de este Estatuto.
 
 ## art:281 — A
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO I. PATRIMONIO BRUTO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO I. PATRIMONIO BRUTO.
 
 EFECTOS DEL REAJUSTE FISCAL. <Fuente original compilada: D.2247/74 Art. 53> <Artículo modificado por el artículo 22 de la Ley 1111 de 2006. El nuevo texto es el siguiente:> El reajuste fiscal sobre los activos patrimoniales produce efecto para la determinación de:
 
@@ -4441,12 +4706,27 @@ La renta presuntiva.
 El patrimonio líquido.
 
 ## art:282 — CONCEPTO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO II. PATRIMONIO LIQUIDO.
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO II. PATRIMONIO LIQUIDO.
 
 El patrimonio líquido gravable se determina restando del patrimonio bruto poseído por el contribuyente en el último día del año o período gravable el monto de las deudas a cargo del mismo, vigentes en esa fecha.
 
+## art:283 — DEUDAS
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO III. DEUDAS.
+
+Para efectos de este estatuto las deudas se entienden como un pasivo que corresponde a una obligación presente de la entidad, surgida a raíz de sucesos pasados, al vencimiento de la cual, y para cancelarla la entidad espera desprenderse de recursos que incorporan beneficios económicos.
+
+El valor de la deuda será su costo fiscal según lo dispuesto en las normas del Título I de este Libro, salvo las normas especiales consagradas en los artículos siguientes.
+
+Para que proceda el reconocimiento de las deudas, el contribuyente está obligado:
+
+1. A conservar los documentos correspondientes a la cancelación de la deuda, por el término señalado en el artículo 632.
+
+2. Los contribuyentes que no estén obligados a llevar libros de contabilidad, solo podrán solicitar los pasivos que estén debidamente respaldados por documentos de fecha cierta. 
+
+En los demás casos, los pasivos deben estar respaldados por documentos idóneos y con el lleno de todas las formalidades exigidas para la contabilidad.
+
 ## art:284 — PASIVOS DE COMPAÑIAS DE SEGUROS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO III. DEUDAS. ARTÍCULO 283. DEUDAS. <Artículo modificado por el artículo 119 de la Ley 1819 de 2016. El nuevo texto es el s
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO III. DEUDAS.
 
 Las compañías de seguros deben incluir dentro de su pasivo: 
 
@@ -4461,14 +4741,14 @@ Las compañías de seguros deben incluir dentro de su pasivo:
 5. El importe que, al fin de año, tenga la reserva matemática o la técnica exigida por la ley.
 
 ## art:285 — PASIVOS EN MONEDA EXTRANJERA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO III. DEUDAS. ARTÍCULO 283. DEUDAS. <Artículo modificado por el artículo 119 de la Ley 1819 de 2016. El nuevo texto es el s
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO III. DEUDAS.
 
-El valor de los pasivos en moneda extranjera, se estiman en moneda nacional al momento de su reconocimiento inicial a la tasa representativa del mercado, menos los abonos o pagos medidos a la misma tasa representativa del mercado del reconocimiento inicial
+El valor de los pasivos en moneda extranjera, se estiman en moneda nacional al momento de su reconocimiento inicial a la tasa representativa del mercado, menos los abonos o pagos medidos a la misma tasa representativa del mercado del reconocimiento inicial.
 
 ## art:286 — NO SON DEUDAS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO III. DEUDAS. ARTÍCULO 283. DEUDAS. <Artículo modificado por el artículo 119 de la Ley 1819 de 2016. El nuevo texto es el s
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO III. DEUDAS.
 
-<Artículo modificado por el artículo 121 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos de este estatuto, no tienen el carácter de deudas, los siguientes conceptos:
+Para efectos de este estatuto, no tienen el carácter de deudas, los siguientes conceptos:
 
 1. Las provisiones y pasivos contingentes según lo define la técnica contable. 
 
@@ -4476,12 +4756,12 @@ ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas 
 
 3. El pasivo por impuesto diferido.
 
-4. En las operaciones de cobertura y de derivados no se reconoce la obligación por los ajustes de medición a valor razonable
+4. En las operaciones de cobertura y de derivados no se reconoce la obligación por los ajustes de medición a valor razonable.
 
 ## art:287 — VALOR PATRIMONIAL DE LAS DEUDAS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPITULO III. DEUDAS. ARTÍCULO 283. DEUDAS. <Artículo modificado por el artículo 119 de la Ley 1819 de 2016. El nuevo texto es el s
+ubicacion: TITULO II. PATRIMONIO. > CAPITULO III. DEUDAS.
 
-<Artículo adicionado por el artículo 122 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos fiscales, el valor patrimonial de las deudas será:
+Para efectos fiscales, el valor patrimonial de las deudas será:
 
 1. Los pasivos financieros medidos a valor razonable se medirán y reconocerán aplicando el modelo del costo amortizado.
 
@@ -4489,15 +4769,132 @@ ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas 
 
 3. En aquellos casos según lo dispuesto en las normas del Título I de este Libro.
 
+## art:288 — AJUSTES POR DIFERENCIA EN CAMBIO
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO IV.
+
+Los ingresos, costos, deducciones, activos y pasivos en moneda extranjera se medirán al momento de su reconocimiento inicial a la tasa representativa del mercado.
+
+Las fluctuaciones de las partidas del estado de situación financiera, activos y pasivos, expresadas en moneda extranjera, no tendrán efectos fiscales sino hasta el momento de la enajenación o abono en el caso de los activos, o liquidación o pago parcial en el caso de los pasivos. 
+
+En los eventos de enajenación o abono, la liquidación o el pago parcial, según sea el caso, se reconocerá a la tasa representativa del mercado del reconocimiento inicial.
+
+El ingreso gravado, costo o gasto deducible en los abonos o pagos mencionados anteriormente corresponderá al que se genere por la diferencia entre la tasa representativa del mercado en el reconocimiento inicial y la tasa representativa del mercado en el momento del abono o pago.
+
+## art:289 — EFECTO DEL ESTADO DE SITUACIÓN FINANCIERA DE APERTURA (ESFA) EN LOS ACTIVOS Y PASIVOS, CAMBIOS EN POLÍTICAS CONTABLES Y ERRORES CONTABLES
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO IV.
+
+Las siguientes son reglas aplicables para el impuesto sobre la renta y complementarios:
+
+1. Para efectos fiscales, la reexpresión de activos y pasivos producto de la adopción por primera vez hacia un nuevo marco técnico normativo contable no generarán nuevos ingresos o deducciones, si dichos activos y pasivos ya generaron ingresos o deducciones en períodos anteriores. Así mismo el valor de los activos y pasivos determinados por la aplicación del nuevo marco técnico contable no tendrá efecto fiscal y se deberán mantener los valores patrimoniales del activo y pasivo declarados fiscalmente en el año o período gravable anterior.
+
+2. Los activos y pasivos que por efecto de la adopción por primera vez del marco técnico normativo contable ya no sean reconocidos como tales, deberán mantener el valor patrimonial declarado fiscalmente en el año o período gravable anterior. 
+
+3. Los costos atribuidos a los activos y pasivos en la adopción por primera vez del marco técnico normativo contable no tendrán efectos fiscales. El costo fiscal de estos activos y pasivos será el declarado fiscalmente en el año o período gravable anterior, antes de la adopción por primera vez.
+
+4. Los activos que fueron totalmente depreciados o amortizados fiscalmente antes del proceso de convergencia no serán objeto de nueva deducción por depreciación o amortización.
+
+5. Cuando se realicen ajustes contables por cambios en políticas contables, estos no tendrán efectos en el impuesto sobre la renta y complementarios. El costo fiscal remanente de los activos y pasivos será el declarado fiscalmente en el año o período gravable anterior, antes del cambio de la política contable. 
+
+6. Cuando se realicen ajustes contables por correcciones de errores de períodos anteriores, se debe dar aplicación a lo establecido en los artículos 588 y 589 de este Estatuto, según corresponda. En todo caso cuando el contribuyente no realice las correcciones a que se refiere este numeral, el costo fiscal remanente de los activos y pasivos será el declarado fiscalmente en el año o período gravable anterior, antes del ajuste de corrección del error contable.
+
+7. Incremento en los resultados acumulados por la conversión al nuevo marco técnico normativo. El incremento en los resultados acumulados como consecuencia de la conversión a los nuevos marcos técnicos normativos, no podrá ser distribuido como dividendo, sino hasta el momento en que tal incremento se haya realizado de manera efectiva; bien sea, mediante la disposición o uso del activo respectivo o la liquidación del pasivo correspondiente. El mismo procedimiento se aplicará cuando una entidad cambie de marco técnico normativo y deba elaborar un nuevo Estado de Situación Financiero de Apertura.
+
+PARÁGRAFO 1o. <Parágrafo corregido por el artículo 4 del Decreto 939 de 2017. El nuevo texto es el siguiente:> Lo dispuesto en los numerales 5 y 6 de este artículo, deberá estar debidamente soportado y certificado por contador público y revisor fiscal cuando sea del caso.
+
+PARÁGRAFO 2o. En el año o período gravable que entre en vigencia en Colombia una norma de contabilidad, esta tendrá efectos fiscales, si el decreto reglamentario así lo establece y se ajusta a lo previsto en el artículo 4o de la Ley 1314 del 2009.
+
+## art:290 — RÉGIMEN DE TRANSICIÓN
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO IV.
+
+Las siguientes son las reglas para el régimen de transición por la aplicación de lo previsto en la Parte II de esta ley:
+
+1. Regla general. Los saldos de los activos pendientes por amortizar a la entrada en vigencia de esta ley, en donde no exista una regla especial de amortización en este artículo, se amortizarán durante el tiempo restante de amortización de acuerdo con lo previsto en el inciso 1o del artículo 143 del Estatuto Tributario antes de su modificación por la presente ley, aplicando el sistema de línea recta, en iguales proporciones. En el año o período gravable en que se termine el negocio o actividad, pueden hacerse los ajustes pertinentes, a fin de amortizar la totalidad de la inversión.
+
+2. Depreciaciones. El saldo pendiente de depreciación de los activos fijos a 31 de diciembre de 2016, se terminará de depreciar durante la vida útil fiscal remanente del activo fijo depreciable, de conformidad con lo previsto en el artículo 1.2.1.18.4. del Decreto 1625 de 2016 y por los sistemas de cálculos de depreciación que son: línea recta, reducción de saldos u otro sistema de reconocido valor técnico que se encuentre debidamente autorizado antes de la entrada de vigencia de la presente ley, por el Subdirector de Fiscalización de la Dirección de Impuestos y Aduanas Nacionales.
+
+3. Costos de exploración, explotación y desarrollo. Los saldos de los activos pendientes por amortizar por estos conceptos a la entrada en vigencia de esta ley, se amortizarán en las mismas condiciones previstas en el segundo inciso del artículo 143 del Estatuto Tributario antes de la entrada en vigencia de la presente ley.
+
+En el año o período gravable en que se determine que la mina o yacimiento no es apto para su explotación o se agotó el recurso natural no renovable, se podrán amortizar en el año en que se determine y compruebe tal condición y en todo caso a más tardar dentro de los 2 años siguientes.
+
+4. Saldos a favor. Los saldos a favor generados por el impuesto sobre la renta y complementarios y/o el Impuesto sobre la Renta para la Equidad (CREE), del año inmediatamente anterior a la vigencia de esta ley y que no se hayan solicitado en devolución y/o compensación, o imputado en períodos anteriores, podrán:
+
+a) Solicitarse en devolución y/o compensación, según lo determinado por el artículo 850 de este Estatuto;
+
+b) Acumular los saldos a favor mencionados según corresponda e imputarlos dentro de su liquidación privada del Impuesto sobre la renta y complementarios, correspondiente al siguiente período gravable.
+
+5. Pérdidas Fiscales. El valor de las pérdidas fiscales generadas antes de 2017 en el impuesto sobre la renta y complementarios y/o en el Impuesto sobre la Renta para la Equidad (CREE), serán compensadas teniendo en cuenta la siguiente fórmula. 
+
+Donde:
+
+VPF2017 Corresponde al valor de las pérdidas fiscales susceptibles de ser compensadas a partir del año gravable 2017.
+
+PFIRC Corresponde al valor de las pérdidas fiscales acumuladas a 31 de diciembre de 2016 por concepto del impuesto sobre la renta y complementarios y que no hayan sido objeto de compensación.
+
+TRyC Corresponde a la tarifa aplicable al contribuyente por concepto del impuesto sobre la renta y complementarios aplicable a 31 de diciembre de 2016.
+
+PFCREE Corresponde al valor de las pérdidas fiscales acumuladas a 31 de diciembre de 2016 por concepto del Impuesto sobre la Renta para la Equidad (CREE) y que no hayan sido objeto de compensación.
+
+TCREE Corresponde a la tarifa aplicable al contribuyente por concepto del Impuesto sobre la Renta para la Equidad (CREE) aplicable a 31 de diciembre de 2016, sin incluir la sobretasa. TRyC2017 Corresponde a la tarifa del impuesto sobre la renta y complementarios para el año 2017 sin incluir la sobretasa.
+
+<Aparte subrayado CONDICIONALMENTE exequible> Las pérdidas fiscales determinadas en este numeral no se someten al término de compensación previsto en el artículo 147 del Estatuto Tributario, ni serán reajustadas fiscalmente.
+
+6. El valor de los excesos de renta presuntiva y de excesos de base mínima generados antes de 2017 en el impuesto sobre la renta y complementarios y en el Impuesto sobre la Renta para la Equidad (CREE), según sea el caso, que vayan a ser compensadas en el año gravable 2017 y posteriores, será el siguiente:
+
+VEF2017 Corresponde al valor de los excesos de renta presuntiva sobre rentas líquidas y de base mínima susceptibles de ser compensados a partir del año gravable 2017.
+
+ERPIRC Corresponde al valor de cada una de las rentas presuntivas acumuladas a 31 de diciembre de 2016 por concepto del impuesto sobre la renta y complementarios, que no hayan sido objeto de compensación y se tenga derecho a ella.
+
+TRyC Corresponde a la tarifa aplicable al contribuyente por concepto del impuesto sobre la renta y complementarios aplicable a 31 de diciembre de 2016.
+
+EMNCREE Corresponde al valor de cada uno de los excesos de base mínima sobre base gravable del Impuesto sobre la Renta para la Equidad (CREE) acumulados a 31 de diciembre de 2016 que no hayan sido objeto de compensación.
+
+TCREE Corresponde a la tarifa aplicable al contribuyente por concepto del Impuesto sobre la Renta para la Equidad (CREE) aplicable a 31 de diciembre de 2016, sin incluir la sobretasa.
+
+TRyC2017 Corresponde a la tarifa del impuesto sobre la renta y complementarios para el año 2017 sin incluir la sobretasa.
+
+Los excesos de renta presuntiva determinadas en este numeral para cada uno de los períodos, deberán ser compensadas dentro del término establecido en el artículo 189 del estatuto tributario.
+
+7. Crédito Mercantil. Los saldos del crédito mercantil originado antes de la entrada en vigencia de la presente ley, se someterán al tratamiento previsto en las disposiciones vigentes al momento de su generación. En todo caso, los saldos pendientes, por amortizar a 1o de enero del 2017, se amortizarán dentro de los cinco (5) períodos gravables siguientes a la entrada en vigencia de esta ley, aplicando el sistema de línea recta, en iguales proporciones.
+
+8. Contratos de concesión. Los saldos de los activos intangibles pendientes por amortizar por estos conceptos a la entrada en vigencia de esta ley, se amortizarán dentro del plazo remanente de la concesión, aplicando el sistema de línea recta, en iguales proporciones.
+
+9. Ventas a plazos. Los contribuyentes que para efectos fiscales venían utilizando el sistema, organizado, regular y permanente de ventas a plazos, de que trataba el artículo 95 de este Estatuto, que mantenga ingresos y costos diferidos, deberán en la declaración del impuesto sobre la renta y complementarios del año gravable 2017, incluir todos los ingresos y costos diferidos por estos conceptos.
+
+10. Contratos de servicios autónomos. En aquellos contratos de servicios autónomos de que trataban los artículos 200 y 201 de este Estatuto, que mantengan ingresos y costos diferidos, deberán en la declaración de renta del año gravable 2017, incluir todos los ingresos, costos y gastos que hasta tal año se hubieren devengado, aplicando el método de grado de realización del contrato.
+
+11. Valor patrimonial de los activos biológicos. El valor patrimonial de los activos agrícolas y pecuarios declarados a 31 de diciembre de 2016, mantendrán su costo fiscal a partir del 1o de enero de 2017 y sobre este valor se darán los tratamientos fiscales que determine este Estatuto.
+
+12. Reservas. Las reservas constituidas por excesos en cuotas de depreciación de que trataba el artículo 130 del estatuto tributario podrá liberarse en el momento en que la depreciación solicitada fiscalmente sea inferior a la contabilizada en el estado de resultados. La utilidad que se libere de la reserva podrá distribuirse como un ingreso no constitutivo de renta ni ganancia ocasional.
+
+## art:291 — RÉGIMEN DE TRANSICIÓN POR LOS AJUSTES DE DIFERENCIA EN CAMBIO
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO IV.
+
+Los ajustes por concepto de diferencia en cambio se someterán a las siguientes reglas:
+
+1. Los pasivos en moneda extranjera a 31 de diciembre del 2016, mantendrán su valor patrimonial determinado a dicha fecha. Para los pagos parciales de dichos pasivos se aplicará lo establecido en el artículo 288 de este Estatuto, a partir del período gravable siguiente. El saldo remanente del costo fiscal luego de la liquidación total del pasivo tendrá el tratamiento de ingreso gravado, costo o gasto deducible.
+
+2. El costo fiscal de las inversiones en moneda extranjera, en acciones o participaciones en sociedades extranjeras que no se enajenen dentro del giro ordinario del negocio, respecto de las cuales la diferencia en cambio no constituye ingreso, costo o gasto teniendo en cuenta lo previsto en el artículo 66 de la Ley 1739 de 2014, será:
+
+a) Para aquellas inversiones adquiridas antes del 1o de enero de 2015, su costo fiscal al 1o de enero de 2017 será el valor patrimonial a 1o de enero de 2015 de dichas inversiones. A partir del 1o de enero de 2017 se aplicará lo establecido en el artículo 288 del presente Estatuto para los abonos parciales de dichos activos. El saldo remanente del costo fiscal luego de la enajenación de la inversión tendrá el tratamiento de ingreso gravado, costo o gasto deducible;
+
+b) Para aquellas inversiones adquiridas a partir del 1o de enero del 2015, su costo fiscal a 1o de enero del 2017 será determinado con la tasa representativa del mercado al momento del reconocimiento inicial de la inversión. Cualquier diferencia entre dicho valor determinado y el costo fiscal de estos activos al 31 de diciembre del 2016 no tendrá el tratamiento de ingreso gravado, costo o gasto deducible. En el momento de su enajenación o liquidación deberá aplicarse lo dispuesto en el artículo 288 del presente Estatuto.
+
+3. Los activos en moneda extranjera a 31 de diciembre del 2016, diferentes a los mencionados en los numerales anteriores, mantendrán su valor patrimonial determinado a dicha fecha. Para los abonos parciales de dichos activos se aplicará lo establecido en el artículo 288 de este Estatuto, a partir del período gravable siguiente. El saldo remanente del costo fiscal luego del cobro total o enajenación del activo tendrá el tratamiento de ingreso gravado, costo o gasto deducible.
+
 ## art:292 — IMPUESTO AL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:292-1 — IMPUESTO AL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-ARTÍCULO 292-2. IMPUESTO AL PATRIMONIO - SUJETOS PASIVOS. <Pérdida de fuerza ejecutoria por cumplimiento del objeto. Creado para los años 2020 y 2021> <Artículo modificado por el artículo 43 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Por los años 2020 y 2021, créase un impuesto extraordinario denominado el impuesto al patrimonio a cargo de: 
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:292-2 — IMPUESTO AL PATRIMONIO - SUJETOS PASIVOS
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+<Artículo modificado por el artículo 43 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Por los años 2020 y 2021, créase un impuesto extraordinario denominado el impuesto al patrimonio a cargo de: 
 
 1. Las personas naturales y las sucesiones ilíquidas, contribuyentes del impuesto sobre la renta y complementarios o de regímenes sustitutivos del impuesto sobre la renta. 
 
@@ -4514,7 +4911,7 @@ PARÁGRAFO 1o. Para que apliquen las exclusiones consagradas en el numeral 5 del
 PARÁGRAFO 2o. Para el caso de los contribuyentes del impuesto al patrimonio señalados en el numeral 3 del presente artículo, el deber formal de declarar estará en cabeza de la sucursal o del establecimiento permanente, según sea el caso.
 
 ## art:292-3 — IMPUESTO AL PATRIMONIO - SUJETOS PASIVOS
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 Créase un impuesto denominado impuesto al patrimonio. Están sometidos al impuesto: 
 
@@ -4537,32 +4934,37 @@ PARÁGRAFO 1o. Para que apliquen las exclusiones consagradas en el numeral 5 del
 PARÁGRAFO 2o. Para el caso de los contribuyentes del impuesto al patrimonio señalados en el numeral 3 del presente Artículo, el deber formal de declarar estará en cabeza del establecimiento permanente.
 
 ## art:293 — HECHO GENERADOR
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:293-1 — HECHO GENERADOR
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:293-2 — NO CONTRIBUYENTES DEL IMPUESTO A LA RIQUEZA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:294 — CAUSACIÓN
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:294-1 — CAUSACIÓN
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-ARTÍCULO 294-2. HECHO GENERADOR. <Pérdida de fuerza ejecutoria por cumplimiento del objeto. Creado para los años 2020 y 2021> <Artículo modificado por el artículo 44 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El impuesto al patrimonio se genera por la posesión del mismo al 1 de enero del año 2020, cuyo valor sea igual o superior a cinco mil ($5.000) millones de pesos. Para efectos de este gravamen, el concepto de patrimonio es equivalente al patrimonio líquido, calculado tomando el total del patrimonio bruto del contribuyente persona natural poseído en la misma fecha menos las deudas a cargo del contribuyente vigentes en esa fecha.
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:294-2 — HECHO GENERADOR
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+<Artículo modificado por el artículo 44 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El impuesto al patrimonio se genera por la posesión del mismo al 1 de enero del año 2020, cuyo valor sea igual o superior a cinco mil ($5.000) millones de pesos. Para efectos de este gravamen, el concepto de patrimonio es equivalente al patrimonio líquido, calculado tomando el total del patrimonio bruto del contribuyente persona natural poseído en la misma fecha menos las deudas a cargo del contribuyente vigentes en esa fecha.
 
 ## art:294-3 — HECHO GENERADOR
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 El impuesto al patrimonio se genera por la posesión del mismo al primero (1) de enero de cada año, cuyo valor sea igual o superior a setenta y dos mil (72.000) UVT. Para efectos de este gravamen, el concepto de patrimonio es equivalente al patrimonio líquido, calculado tomando el total del patrimonio bruto del contribuyente poseído en la misma fecha menos las deudas a cargo del contribuyente vigentes en esa fecha. 
 
@@ -4575,16 +4977,19 @@ Para efectos de lo dispuesto en este artículo, las sociedades que hayan efectua
 PARÁGRAFO. <Parágrafo adicionado por el artículo 16 del Decreto Legislativo 240 de 2026. El nuevo texto es el siguiente:> Para el año 2026, respecto de los establecimientos permanentes (incluidas las sucursales) de entidades del exterior, el hecho generador será la posesión de un patrimonio al treinta y uno (31) de marzo de 2026, cuyo valor sea igual o superior a doscientas mil (200.000) UVT. Para este efecto, el patrimonio es equivalente al patrimonio líquido, calculado tomando el total del patrimonio bruto atribuido al establecimiento permanente en la misma fecha, menos las deudas atribuidas al establecimiento permanente vigentes en esa misma fecha. Lo anterior, de acuerdo con el artículo 20-2 del Estatuto Tributario.
 
 ## art:295 — BASE GRAVABLE
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:295-1 — BASE GRAVABLE
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019 y el artículo 160 de la Ley 2010 de 2019> 
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019 y el artículo 160 de la Ley 2010 de 2019>
 
-ARTÍCULO 295-2. BASE GRAVABLE. <Pérdida de fuerza ejecutoria por cumplimiento del objeto. Creado para los años 2020 y 2021> <Artículo modificado por el artículo 45 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La base gravable del impuesto al patrimonio es el valor del patrimonio bruto de las personas naturales, sucesiones ilíquidas y sociedades o entidades extranjeras poseído a 1 de enero de 2020 y 2021 menos las deudas a cargo de los mismos vigentes en esas mismas fechas, determinado conforme a lo previsto en el Título II del Libro I de este Estatuto, excluyendo el valor patrimonial que tengan al 1 de enero de 2020 y 2021 para las personas naturales, las sucesiones ilíquidas y sociedades o entidades extranjeras, los siguientes bienes: 
+## art:295-2 — BASE GRAVABLE
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+<Artículo modificado por el artículo 45 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La base gravable del impuesto al patrimonio es el valor del patrimonio bruto de las personas naturales, sucesiones ilíquidas y sociedades o entidades extranjeras poseído a 1 de enero de 2020 y 2021 menos las deudas a cargo de los mismos vigentes en esas mismas fechas, determinado conforme a lo previsto en el Título II del Libro I de este Estatuto, excluyendo el valor patrimonial que tengan al 1 de enero de 2020 y 2021 para las personas naturales, las sucesiones ilíquidas y sociedades o entidades extranjeras, los siguientes bienes: 
 
 1. En el caso de las personas naturales, las primeras 13.500 UVT del valor patrimonial de su casa o apartamento de habitación. 
 
@@ -4600,9 +5005,12 @@ PARÁGRAFO 2o. En caso de que la base gravable del impuesto al patrimonio determ
 
 PARÁGRAFO 3o. En el caso de las personas naturales sin residencia en el país que tengan un establecimiento permanente en Colombia, la base gravable corresponderá al patrimonio atribuido al establecimiento permanente de conformidad con lo establecido en el artículo 20-2 del Estatuto Tributario. 
 
-Para efectos de la determinación de los activos, pasivos, capital, ingresos, costos y gastos que se tienen en cuenta al establecer el patrimonio atribuible a un establecimiento permanente durante un año o periodo gravable, se deberá elaborar un estudio, de acuerdo con el Principio de Plena Competencia, en el cual se tengan en cuenta las funciones desarrolladas, activos utilizados, el personal involucrado y los riesgos asumidos por la empresa a través del establecimiento permanente o sucursal y de las otras partes de la empresa de la que el establecimiento permanente o sucursal forma parte. 
+Para efectos de la determinación de los activos, pasivos, capital, ingresos, costos y gastos que se tienen en cuenta al establecer el patrimonio atribuible a un establecimiento permanente durante un año o periodo gravable, se deberá elaborar un estudio, de acuerdo con el Principio de Plena Competencia, en el cual se tengan en cuenta las funciones desarrolladas, activos utilizados, el personal involucrado y los riesgos asumidos por la empresa a través del establecimiento permanente o sucursal y de las otras partes de la empresa de la que el establecimiento permanente o sucursal forma parte.
 
-ARTÍCULO 295-3. BASE GRAVABLE. <Artículo adicionado por el artículo 37 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La base gravable del impuesto al patrimonio es el valor del patrimonio bruto del sujeto pasivo poseído a primero (1) de enero de cada año menos las deudas a cargo del mismo vigentes en esa misma fecha, determinado conforme a lo previsto en el Título II del Libro I de este Estatuto, sin perjuicio de las reglas especiales señaladas en este Artículo. 
+## art:295-3 — BASE GRAVABLE
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+La base gravable del impuesto al patrimonio es el valor del patrimonio bruto del sujeto pasivo poseído a primero (1) de enero de cada año menos las deudas a cargo del mismo vigentes en esa misma fecha, determinado conforme a lo previsto en el Título II del Libro I de este Estatuto, sin perjuicio de las reglas especiales señaladas en este Artículo. 
 
 En el caso de las personas naturales, se excluyen las primeras doce mil (12.000) UVT del valor patrimonial de su casa o apartamento de habitación. Esta exclusión aplica únicamente respecto a la casa o apartamento en donde efectivamente viva la persona natural la mayor parte del tiempo, por lo que no quedan cobijados por esta exclusión los inmuebles de recreo, segundas viviendas u otro inmueble que no cumpla con la condición de ser el lugar en donde habita la persona natural. 
 
@@ -4643,18 +5051,26 @@ PARÁGRAFO 4o. No se aplicará lo dispuesto en el parágrafo 3 del presente Art�
 El anterior tratamiento durará por un término de cuatro (4) años desde el momento de recibir la inversión, con el cumplimiento de todos los requisitos en mención.
 
 ## art:296 — TARIFA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:296-1 — TARIFA
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-ARTÍCULO 296-2. TARIFA Y DESTINACIÓN. <Pérdida de fuerza ejecutoria por cumplimiento del objeto. Creado para los años 2020 y 2021> <Artículo modificado por el artículo 46 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La tarifa del impuesto al patrimonio es del 1% por cada año, del total de la base gravable establecida, de conformidad con el artículo 295-2 de este Estatuto. 
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
-Con el fin de contribuir al bienestar general y al mejoramiento de la calidad de vida de la población, el setenta y cinco (75%) del recaudo por concepto del impuesto al patrimonio se destinará a la financiación de inversiones en el sector agropecuario. 
+## art:296-2 — TARIFA Y DESTINACIÓN
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-ARTÍCULO 296-3 TARIFA. <Artículo adicionado por el artículo 38 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> El impuesto al patrimonio se determinará de acuerdo con la siguiente tabla: 
+<Artículo modificado por el artículo 46 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La tarifa del impuesto al patrimonio es del 1% por cada año, del total de la base gravable establecida, de conformidad con el artículo 295-2 de este Estatuto. 
+
+Con el fin de contribuir al bienestar general y al mejoramiento de la calidad de vida de la población, el setenta y cinco (75%) del recaudo por concepto del impuesto al patrimonio se destinará a la financiación de inversiones en el sector agropecuario.
+
+## art:296-3 — TARIFA
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+El impuesto al patrimonio se determinará de acuerdo con la siguiente tabla: 
 
 Rangos UVT Tarifa marginal Impuesto 
 Desde Hasta 
@@ -4677,29 +5093,34 @@ PARÁGRAFO TRANSITORIO. <Parágrafo adicionado por el artículo 3 del Decreto Le
 Para el caso de las instituciones financieras, las entidades aseguradoras y reaseguradoras, las sociedades comisionistas de bolsa de valores, las sociedades comisionistas agropecuarias, las bolsas de bienes y productos agropecuarios, agroindustriales o de otros commodities y los proveedores de infraestructura del mercado de valores; y las personas jurídicas y sociedades de hecho contribuyentes declarantes del impuesto sobre la renta y complementarios que desarrollen actividades de extracción de hulla (carbón de piedra) CIIU - 0510, extracción de carbón lignito CIIU - 0520, y de petróleo crudo CIIU - 0610, la tarifa del impuesto al patrimonio será del 1,6%.
 
 ## art:297 — ENTIDADES NO SUJETAS AL IMPUESTO AL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:297-1 — ENTIDADES NO SUJETAS AL IMPUESTO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-ARTÍCULO 297-2. CAUSACIÓN. <Pérdida de fuerza ejecutoria por cumplimiento del objeto. Creado para los años 2020 y 2021> <Artículo modificado por el artículo 47 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La obligación legal del impuesto al patrimonio se causa el 1 de enero de 2020 y el 1 de enero de 2021.
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:297-2 — CAUSACIÓN
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+<Artículo modificado por el artículo 47 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> La obligación legal del impuesto al patrimonio se causa el 1 de enero de 2020 y el 1 de enero de 2021.
 
 ## art:297-3 — CAUSACIÓN
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 La obligación legal del impuesto al patrimonio se causa el primero (1) de enero de cada año.
 
 ## art:298 — DECLARACIÓN Y PAGO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-<Artículo modificado por el artículo 30 de la Ley 1111 de 2006. El nuevo texto es el siguiente:> El impuesto al patrimonio deberá liquidarse en el formulario oficial que para el efecto prescriba la Dirección de Impuestos y Aduanas Nacionales y presentarse con pago en los bancos y demás entidades autorizadas para recaudar ubicados en la jurisdicción de la Administración de Impuestos y Aduanas o de Impuestos Nacionales, que corresponda al domicilio del sujeto pasivo de este impuesto, dentro de los plazos que para tal efecto reglamente el Gobierno Nacional.
+El impuesto al patrimonio deberá liquidarse en el formulario oficial que para el efecto prescriba la Dirección de Impuestos y Aduanas Nacionales y presentarse con pago en los bancos y demás entidades autorizadas para recaudar ubicados en la jurisdicción de la Administración de Impuestos y Aduanas o de Impuestos Nacionales, que corresponda al domicilio del sujeto pasivo de este impuesto, dentro de los plazos que para tal efecto reglamente el Gobierno Nacional.
 
 ## art:298-1 — CONTENIDO DE LA DECLARACIÓN DEL IMPUESTO AL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-<Artículo adicionado por el artículo 17 de la Ley 863 de 2003. El nuevo texto es el siguiente:> La Declaración del Impuesto al Patrimonio deberá presentarse anualmente en el formulario que para el efecto señale la Dirección de Impuestos y Aduanas Nacionales y deberá contener:
+La Declaración del Impuesto al Patrimonio deberá presentarse anualmente en el formulario que para el efecto señale la Dirección de Impuestos y Aduanas Nacionales y deberá contener:
 
 1. La información necesaria para la identificación y ubicación del contribuyente.
 
@@ -4714,9 +5135,9 @@ ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas 
 Los demás contribuyentes obligados a llevar libros de contabilidad deberán presentar la declaración del Impuesto al Patrimonio firmada por contador público, vinculado o no laboralmente a la empresa, cuando a ello estuvieren obligados respecto de la declaración del Impuesto sobre la Renta.
 
 ## art:298-2 — ADMINISTRACIÓN Y CONTROL DEL IMPUESTO AL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-<Artículo adicionado por el artículo 17 de la Ley 863 de 2003. El nuevo texto es el siguiente:> Corresponde a la Dirección de Impuestos y Aduanas Nacionales, DIAN, la administración del Impuesto al Patrimonio que se crea mediante la presente ley, conforme a las facultades y procedimientos establecidos en el Estatuto Tributario para la investigación, determinación, control, discusión y cobro. La DIAN queda facultada para aplicar las sanciones consagradas en este estatuto que sean compatibles con la naturaleza del impuesto. Los intereses moratorios y las sanciones por extemporaneidad, corrección, inexactitud serán las establecidas en este estatuto para las declaraciones tributarias.
+Corresponde a la Dirección de Impuestos y Aduanas Nacionales, DIAN, la administración del Impuesto al Patrimonio que se crea mediante la presente ley, conforme a las facultades y procedimientos establecidos en el Estatuto Tributario para la investigación, determinación, control, discusión y cobro. La DIAN queda facultada para aplicar las sanciones consagradas en este estatuto que sean compatibles con la naturaleza del impuesto. Los intereses moratorios y las sanciones por extemporaneidad, corrección, inexactitud serán las establecidas en este estatuto para las declaraciones tributarias.
 
 Los contribuyentes del Impuesto al Patrimonio que no presenten la declaración correspondiente serán emplazados por la Dirección de Impuestos y Aduanas Nacionales para que declaren dentro del mes siguiente a la notificación del emplazamiento. Cuando no se presente la declaración dentro de este término, se procederá en un solo acto a practicar liquidación de aforo, tomando como base el valor patrimonio líquido de la última declaración de renta presentada y aplicando una sanción por no declarar equivalente al ciento sesenta por ciento (160%) del impuesto determinado.
 
@@ -4727,24 +5148,32 @@ El valor de la sanción por no declarar se reducirá a la mitad si el responsabl
 <Inciso adicionado por el artículo 40 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La U.A.E. Dirección de Impuestos y Aduanas Nacionales (DIAN) establecerá programas prioritarios de control sobre aquellos contribuyentes que declaren un patrimonio menor al patrimonio fiscal declarado o poseído a primero (1) de enero del año inmediatamente anterior, con el fin de verificar la exactitud de la declaración y de establecer la ocurrencia de hechos económicos generadores del impuesto que no fueron tenidos en cuenta para su liquidación.
 
 ## art:298-3 — NO DEDUCIBILIDAD DEL IMPUESTO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:298-4 — NORMAS APLICABLES AL IMPUESTO SOBRE EL PATRIMONIO
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
 ## art:298-5 — CONTROL Y SANCIONES
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
-ARTÍCULO 298-6. NO DEDUCIBILIDAD DEL IMPUESTO. <Artículo modificado por el artículo 48 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> En ningún caso el valor cancelado por concepto del impuesto al patrimonio, ni su complementario de normalización tributaria serán deducibles o descontables en el impuesto sobre la renta y complementarios, ni podrán ser compensados con estos ni con otros impuestos. 
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
 
-ARTÍCULO 298-7. DECLARACIÓN Y PAGO VOLUNTARIOS. <Pérdida de fuerza ejecutoria por cumplimiento del objeto. Creado para los años 2020 y 2021> <Artículo adicionado por el artículo 8 de la Ley 1739 de 2014. El nuevo texto es el siguiente:> Quienes no estén obligados a declarar el Impuesto a la Riqueza de que trata el artículo 292-2 de este Estatuto podrán, libre y espontáneamente, liquidar y pagar el Impuesto a la Riqueza. Dicha declaración producirá efectos legales y no estará sometida a lo previsto en el artículo 594-2 del Estatuto Tributario.
+## art:298-6 — NO DEDUCIBILIDAD DEL IMPUESTO
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+En ningún caso el valor cancelado por concepto del impuesto al patrimonio, ni su complementario de normalización tributaria serán deducibles o descontables en el impuesto sobre la renta y complementarios, ni podrán ser compensados con estos ni con otros impuestos.
+
+## art:298-7 — DECLARACIÓN Y PAGO VOLUNTARIOS
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
+
+<Artículo adicionado por el artículo 8 de la Ley 1739 de 2014. El nuevo texto es el siguiente:> Quienes no estén obligados a declarar el Impuesto a la Riqueza de que trata el artículo 292-2 de este Estatuto podrán, libre y espontáneamente, liquidar y pagar el Impuesto a la Riqueza. Dicha declaración producirá efectos legales y no estará sometida a lo previsto en el artículo 594-2 del Estatuto Tributario.
 
 ## art:298-8 — REMISIÓN
-ubicacion: TITULO II. PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde > CAPÍTULO V. IMPUESTO AL PATRIMONIO. Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO II. PATRIMONIO. > CAPÍTULO V. IMPUESTO AL PATRIMONIO.
 
 <Artículo modificado por el artículo 41 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> El impuesto al patrimonio se somete a las normas sobre declaración, pago, administración y control contempladas en los Artículos 298, 298-1, 298-2 y demás disposiciones concordantes de este Estatuto.
 
@@ -4815,7 +5244,10 @@ PARÁGRAFO 3o. No se generarán ganancias ocasionales con ocasión de la consoli
 
 PARÁGRAFO 4o. El valor de los bienes y derechos que el causante, donante o transferente, según el caso haya adquirido durante el mismo año o período gravable en el que se liquida la sucesión o se perfecciona el acto de donación o el acto jurídico inter vivos celebrado a título gratuito, según el caso, será su valor de adquisición.
 
-ARTÍCULO 303-1. GANANCIA OCASIONAL DERIVADA DE INDEMNIZACIONES POR CONCEPTO DE SEGUROS DE VIDA. <Artículo modificado por el artículo 29 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las indemnizaciones por seguros de vida están gravadas con la tarifa aplicable a las ganancias ocasionales, en el monto que supere tres mil doscientos cincuenta (3.250) UVT. El monto que no supere los tres mil doscientos cincuenta (3.250) UVT será considerado como una ganancia ocasional exenta. 
+## art:303-1 — GANANCIA OCASIONAL DERIVADA DE INDEMNIZACIONES POR CONCEPTO DE SEGUROS DE VIDA
+ubicacion: TITULO III. GANANCIAS OCASIONALES. > CAPITULO I. INGRESOS SUSCEPTIBLES DE CONSTITUIR GANANCIA OCASIONAL.
+
+Las indemnizaciones por seguros de vida están gravadas con la tarifa aplicable a las ganancias ocasionales, en el monto que supere tres mil doscientos cincuenta (3.250) UVT. El monto que no supere los tres mil doscientos cincuenta (3.250) UVT será considerado como una ganancia ocasional exenta. 
 
 POR LOTERIAS, PREMIOS, RIFAS, APUESTAS Y SIMILARES.
 
@@ -4834,19 +5266,7 @@ ubicacion: TITULO III. GANANCIAS OCASIONALES. > CAPITULO I. INGRESOS SUSCEPTIBLE
 
 Cuando se trate de pagos por concepto de premios de loterías, rifas, apuestas y similares, el impuesto de ganancias ocasionales debe ser retenido por las personas naturales o jurídicas encargadas de efectuar el pago en el momento del mismo. 
 
-Para efectos de este artículo, los premios en especie tendrán el valor que se les asigne en el respectivo plan de premios, el cual no podrá ser inferior al valor comercial. En este último caso, el monto de la retención podrá cancelarse dentro de los seis meses siguientes a la causación de la ganancia, previa garantía constituida en la forma que establezca el reglamento. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Para efectos de este artículo, los premios en especie tendrán el valor que se les asigne en el respectivo plan de premios, el cual no podrá ser inferior al valor comercial. En este último caso, el monto de la retención podrá cancelarse dentro de los seis meses siguientes a la causación de la ganancia, previa garantía constituida en la forma que establezca el reglamento.
 
 ## art:306-1 — IMPUESTO SOBRE PREMIOS DE APUESTAS Y CONCURSOS HIPICOS O CANINOS Y PREMIOS A PROPIETARIOS DE CABALLOS O CANES DE CARRERAS
 ubicacion: TITULO III. GANANCIAS OCASIONALES. > CAPITULO I. INGRESOS SUSCEPTIBLES DE CONSTITUIR GANANCIA OCASIONAL.
@@ -5074,18 +5494,6 @@ Para autorizar el cambio de titular de una inversión extranjera, el organismo n
 
 PARÁGRAFO. <Parágrafo adicionado por el artículo 90 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Para acreditar el pago de los impuestos correspondientes a la respectiva transacción, el titular de la inversión extranjera que realiza la transacción deberá presentar declaración de renta y complementarios con la liquidación y pago del impuesto que se genere por la respectiva operación, en los bancos autorizados, para lo cual podrá utilizar el formulario señalado para la vigencia gravable inmediatamente anter ior, de lo contrario no se podrá registrar el cambio de titular de la inversión.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:327 — FACULTAD DE ESTABLECER CONDICIONES PARA EL CAMBIO DE TITULAR DE INVERSION EXTRANJERA
 ubicacion: TITULO IV. REMESAS. <DEROGADO SALVO LOS ARTÍCULOS 325, 326, 327> > CAPITULO IV. DISPOSICIONES VARIAS.
 
@@ -5096,27 +5504,161 @@ ubicacion: TITULO IV. REMESAS. <DEROGADO SALVO LOS ARTÍCULOS 325, 326, 327> > C
 
 <Artículo derogado por el artículo 78 de la Ley 1111 de 2006>
 
-## art:333 — BASE DE RENTA PRESUNTIVA
-ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES. ARTÍCULO 329. DETERMINACIÓN DEL IMPUESTO SOBRE L
+## art:329 — DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES.
 
-Para efectos de los artículos 188 y siguientes de este Estatuto, la base de renta presuntiva del contribuyente se comparará con la renta de la cédula general
+El impuesto sobre la renta y complementarios de las personas naturales residentes en el país, se calculará y ajustará de conformidad con las reglas dispuestas en el presente título.
+
+Las normas previstas en el presente Título se aplicarán sin perjuicio de lo previsto en el Título I.
+
+## art:330 — DETERMINACIÓN CEDULAR
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES.
+
+La depuración de las rentas correspondientes a cada una de las cédulas a que se refiere este artículo se efectuará de manera independiente, siguiendo las reglas establecidas en el artículo 26 de este Estatuto aplicables a cada caso. El resultado constituirá la renta líquida cedular. 
+
+Los conceptos de ingresos no constitutivos de renta, costos, gastos, deducciones, rentas exentas, beneficios tributarios y demás conceptos susceptibles de ser restados para efectos de obtener la renta líquida cedular, no podrán ser objeto de reconocimiento simultáneo en distintas cédulas ni generarán doble beneficio. 
+
+La depuración se efectuará de modo independiente en las siguientes tres (3) cédulas: 
+
+a) Rentas de trabajo, de capital y no laborales 
+
+b) Rentas de pensiones, y 
+
+c) Dividendos y participaciones. 
+
+La cédula de dividendos y participaciones no admite costos ni deducciones. 
+
+Las pérdidas incurridas dentro de una cédula solo podrán ser compensadas contra las rentas de la misma cédula, en los siguientes periodos gravables, teniendo en cuenta los límites y porcentajes de compensación establecidos en las normas vigentes. 
+
+PARÁGRAFO TRANSITORIO. Las pérdidas declaradas en períodos gravables anteriores al periodo gravable 2019 únicamente podrán ser imputadas en contra de la cédula general, teniendo en cuenta los límites y porcentajes de compensación establecidos en las normas vigentes.
+
+## art:331 — RENTAS LÍQUIDAS GRAVABLES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES.
+
+Para efectos de determinar la renta líquida gravable a la que le será aplicable las tarifas establecidas en el artículo 241 de este Estatuto, se seguirán las siguientes reglas:
+
+Se sumarán las rentas líquidas cedulares obtenidas en las rentas de trabajo, de capital, no laborales, de pensiones y de dividendos y participaciones. A esta renta líquida gravable le será aplicable la tarifa señalada en el artículo 241 de este Estatuto: Lo anterior, sin perjuicio de las rentas líquidas especiales.
+
+Las pérdidas de las rentas líquidas cedulares no se sumarán para efectos de determinar la renta líquida gravable. En cualquier caso, podrán compensarse en los términos del artículo 330 de este Estatuto.
+
+## art:332 — RENTAS EXENTAS Y DEDUCCIONES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES.
+
+Solo podrán restarse beneficios tributarios en las cédulas en las que se tengan ingresos. No se podrá imputar en más de una cédula una misma renta exenta o deducción.
+
+## art:333 — BASE DE RENTA PRESUNTIVA
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES.
+
+Para efectos de los artículos 188 y siguientes de este Estatuto, la base de renta presuntiva del contribuyente se comparará con la renta de la cédula general.
 
 ## art:334 — FACULTADES DE FISCALIZACIÓN
-ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES. ARTÍCULO 329. DETERMINACIÓN DEL IMPUESTO SOBRE L
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO I. DETERMINACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS NATURALES.
 
-<Artículo modificado por el artículo 1 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos del control de los costos y gastos, la Dirección de Impuestos y Aduanas Nacionales adelantará programas de fiscalización para verificar el cumplimiento de los criterios establecidos en el Estatuto Tributario para efectos de su aceptación.
+Para efectos del control de los costos y gastos, la Dirección de Impuestos y Aduanas Nacionales adelantará programas de fiscalización para verificar el cumplimiento de los criterios establecidos en el Estatuto Tributario para efectos de su aceptación.
 
-## art:339 — RENTA LÍQUIDA CEDULAR DE LAS RENTAS DE CAPITAL
-ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO IV. RENTAS DE CAPITAL. ARTÍCULO 338. INGRESOS DE LAS RENTAS DE CAPITAL. <Artículo derogado por el artículo 122 de la Ley
+## art:335 — INGRESOS DE LA CÉDULA GENERAL
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO II. RENTAS DE TRABAJO.
+
+Para los efectos de este título, son ingresos de la cédula general los siguientes: 
+
+1. Rentas de trabajo: las señaladas en el artículo 103 de este Estatuto. 
+
+2. Rentas de capital: las obtenidas por concepto de intereses, rendimientos financieros, arrendamientos, regalías y explotación de la propiedad intelectual. 
+
+3. Rentas no laborales: se consideran ingresos de las rentas no laborales todos los que no se clasifiquen expresamente en ninguna otra cédula, con excepción de los dividendos y las ganancias ocasionales, que se rigen según sus reglas especiales.
+
+## art:336 — RENTA LÍQUIDA GRAVABLE DE LA CÉDULA GENERAL
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO II. RENTAS DE TRABAJO.
+
+Para efectos de establecer la renta líquida de la cédula general, se seguirán las siguientes reglas:
+
+1. Se sumarán los ingresos obtenidos por todo concepto excepto los correspondientes dividendos y ganancias ocasionales.
+
+2. A la suma anterior, se le restarán los ingresos no constitutivos de renta imputables a cada ingreso.
+
+3. Al valor resultante podrán restarse todas las rentas exentas y las deducciones especiales imputables a esta cédula, siempre que no excedan el cuarenta (40%) del resultado del numeral anterior, que en todo caso no puede exceder de mil trescientas cuarenta (1.340) UVT anuales.
+
+Sin perjuicio de lo establecido en el inciso 2 del artículo 387 del Estatuto Tributario, el trabajador podrá deducir, en adición al límite establecido en el inciso anterior, setenta y dos (72) UVT por dependiente hasta un máximo de cuatro (4) dependientes.
+
+4. En la depuración de las rentas no laborales y las rentas de capital se podrán restar los costos y los gastos que cumplan con los requisitos generales para su procedencia establecidos en las normas de este Estatuto y que sean imputables a estas rentas específicas.
+
+En estos mismos términos también se podrán restar los costos y los gastos asociados a rentas de trabajo que no provengan de una relación laboral o legal y reglamentaria, caso en el cual los contribuyentes deberán optar entre restar los costos y gastos procedentes o la renta exenta prevista en el numeral 10 del artículo 206 del Estatuto Tributario conforme con lo dispuesto en el parágrafo 5 del mismo artículo.
+
+5. Las personas naturales que declaren ingresos de la cédula general a los que se refiere el artículo 335 de este Estatuto, que adquieran bienes y/o servicios, podrán solicitar como deducción en el impuesto sobre la renta, independientemente que tenga o no relación de causalidad con la actividad productora de renta del contribuyente, el uno por ciento (1%) del valor de las adquisiciones, sin que exceda doscientas cuarenta (240) UVT en el respectivo año gravable, siempre que se cumpla con los siguientes requisitos:
+
+5.1. Que la adquisición del bien y/o del servicio no haya sido solicitada como costo o deducción en el impuesto sobre la renta, impuesto descontable en el impuesto sobre las ventas -IVA, ingreso no constitutivo de renta ni ganancia ocasional, renta exenta, descuento tributario u otro tipo de beneficio o crédito fiscal.
+
+5.2. Que la adquisición del bien y/o del servicio esté soportada con factura electrónica de venta con validación previa, en donde se identifique el adquirente con nombres y apellidos y el número de identificación tributaria -NIT o número de documento de identificación, y con el cumplimiento de todos los demás requisitos exigibles para este sistema de facturación.
+
+5.3. Que la factura electrónica de venta se encuentre pagada a través de tarjeta débito/crédito o cualquier medio electrónico en el cual intervenga una entidad vigilada por la Superintendencia Financiera o quien haga sus veces dentro del periodo gravable en el cual se solicita la deducción de que trata el presente numeral.
+
+5.4. Que la factura electrónica de venta haya sido expedida por sujetos obligados a expedirla.
+
+La deducción de que trata el presente numeral no se encuentra sujeta al límite previsto en el numeral 3 del presente artículo y no se tendrá en cuenta para el cálculo de la retención en la fuente, ni podrá dar lugar a pérdidas.
+
+## art:336-1 — ESTIMACIÓN DE COSTOS Y GASTOS PARA LA CÉDULA GENERAL DEL IMPUESTO SOBRE LA RENTA DE PERSONAS NATURALES RESIDENTES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO II. RENTAS DE TRABAJO.
+
+Para efectos del Artículo 336 del Estatuto Tributario, la UAE Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá estimar topes indicativos de costos y gastos deducibles. Para las rentas de trabajo en las cuales procedan costos y gastos deducibles estos se estiman en sesenta por ciento (60%) de los ingresos brutos. 
+
+Cuando el contribuyente exceda el tope indicativo de costos y gastos deducibles para cualquiera de las actividades económicas que realice, deberá así indicarlo expresamente en su declaración de renta, de manera informativa, para lo cual la UAE Dirección de Impuestos y Aduanas Nacionales (DIAN) incluirá dicha casilla en el formulario de la declaración del impuesto. 
+
+Dichos costos y gastos deberán encontrarse soportados con factura electrónica de venta y/o comprobante de nómina electrónica y/o documentos equivalentes electrónicos, y serán deducibles siempre que cumplan con los requisitos legales vigentes para el efecto. 
+
+PARÁGRAFO 1o. El incumplimiento de la obligación informativa prevista en este Artículo estará sometida a la sanción de que trata el literal d) del numeral 1 del Artículo 651 del Estatuto Tributario. 
+
+PARÁGRAFO 2o. La UAE Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá ampliar esta regla a otros documentos transmitidos de forma electrónica.
+
+## art:337 — INGRESOS DE LAS RENTAS DE PENSIONES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO III. RENTAS DE PENSIONES.
+
+Son ingresos de esta cédula las pensiones de jubilación, invalidez, vejez, de sobrevivientes y sobre riesgos laborales, así como aquellas provenientes de indemnizaciones sustitutivas de las pensiones o las devoluciones de saldos de ahorro pensional.
+
+Para efectos de establecer la renta líquida cedular, del total de ingresos se restarán los ingresos no constitutivos de renta y las rentas exentas, considerando los límites previstos en este Estatuto, y especialmente las rentas exentas a las que se refiere el numeral 5 del artículo 206.
+
+## art:338 — INGRESOS DE LAS RENTAS DE CAPITAL
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO IV. RENTAS DE CAPITAL.
 
 <Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:339 — RENTA LÍQUIDA CEDULAR DE LAS RENTAS DE CAPITAL
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO IV. RENTAS DE CAPITAL.
+
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:340 — INGRESOS DE LAS RENTAS NO LABORALES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO V. RENTAS NO LABORALES.
+
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:341 — RENTA LÍQUIDA CEDULAR DE LAS RENTAS NO LABORALES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO V. RENTAS NO LABORALES.
+
+<Artículo derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019>
+
+## art:342 — INGRESOS DE LAS RENTAS DE DIVIDENDOS Y PARTICIPACIONES
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO VI. RENTAS DE DIVIDENDOS Y PARTICIPACIONES.
+
+Son ingresos de esta cédula los recibidos por concepto de dividendos y participaciones, y constituyen renta gravable en cabeza de los socios, accionistas, comuneros, asociados, suscriptores y similares, que sean personas naturales residentes y sucesiones ilíquidas de causantes que al momento de su muerte eran residentes, recibidos de distribuciones provenientes de sociedades y entidades nacionales, y de sociedades y entidades extranjeras.
+
+## art:343 — RENTA LÍQUIDA
+ubicacion: TITULO V. <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>. > CAPÍTULO VI. RENTAS DE DIVIDENDOS Y PARTICIPACIONES.
+
+Para efectos de determinar la renta líquida cedular se conformarán dos subcédulas, así:
+
+1. Una primera subcédula con los dividendos y participaciones que hayan sido distribuidos según el cálculo establecido en el numeral 3 del artículo 49 del Estatuto Tributario. La renta líquida obtenida en esta subcédula estará gravada a la tarifa establecida en el inciso 1o del artículo 242 del Estatuto Tributario. 
+
+2. Una segunda subcédula con los dividendos y participaciones provenientes de utilidades calculadas de conformidad con lo dispuesto en el parágrafo 2 del artículo 49 del Estatuto Tributario, y con los dividendos y participaciones provenientes de sociedades y entidades extranjeras. La renta líquida obtenida en esta subcédula estará gravada a la tarifa establecida en el inciso 2o de artículo 242 del Estatuto Tributario.
 
 ## art:356 — TRATAMIENTO ESPECIAL PARA ALGUNOS CONTRIBUYENTES
 ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
 
 Los contribuyentes a que se refiere el artículo 19 que sean calificados en el Registro Único Tributario como pertenecientes a Régimen Tributario Especial, están sometidos al impuesto de renta y complementarios sobre el beneficio neto o excedente a la tarifa única del veinte por ciento (20%).
 
-ARTÍCULO 356-1. DISTRIBUCIÓN INDIRECTA DE EXCEDENTES Y REMUNERACIÓN DE LOS CARGOS DIRECTIVOS DE CONTRIBUYENTES PERTENECIENTES AL RÉGIMEN TRIBUTARIO ESPECIAL. <Artículo modificado por el artículo 147 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los pagos por prestación de servicios, arrendamientos, honorarios, comisiones, intereses, bonificaciones especiales y cualquier otro tipo de pagos, cuando sean realizados a los fundadores, aportantes, donantes, representantes legales y administradores, sus cónyuges o compañeros o sus familiares parientes hasta cuarto grado de consanguinidad o afinidad o único civil o entidades jurídicas donde estas personas posean más de un 30% de la entidad en conjunto u otras entidades donde se tenga control deberán corresponder a precios comerciales promedio de acuerdo con la naturaleza de los servicios o productos objeto de la transacción. En caso contrario, podrán ser considerados por la administración tributaria como una distribución indirecta de excedentes y por ende procederá lo establecido en el artículo 364-3.
+## art:356-1 — DISTRIBUCIÓN INDIRECTA DE EXCEDENTES Y REMUNERACIÓN DE LOS CARGOS DIRECTIVOS DE CONTRIBUYENTES PERTENECIENTES AL RÉGIMEN TRIBUTARIO ESPECIAL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Los pagos por prestación de servicios, arrendamientos, honorarios, comisiones, intereses, bonificaciones especiales y cualquier otro tipo de pagos, cuando sean realizados a los fundadores, aportantes, donantes, representantes legales y administradores, sus cónyuges o compañeros o sus familiares parientes hasta cuarto grado de consanguinidad o afinidad o único civil o entidades jurídicas donde estas personas posean más de un 30% de la entidad en conjunto u otras entidades donde se tenga control deberán corresponder a precios comerciales promedio de acuerdo con la naturaleza de los servicios o productos objeto de la transacción. En caso contrario, podrán ser considerados por la administración tributaria como una distribución indirecta de excedentes y por ende procederá lo establecido en el artículo 364-3.
 
 Las entidades pertenecientes al Régimen Tributario Especial deberán registrar ante la DIAN los contratos o actos jurídicos, onerosos o gratuitos, celebrados con los fundadores, aportantes, donantes, representantes legales y administradores, sus cónyuges o compañeros o sus familiares parientes hasta cuarto grado de consanguinidad o afinidad o único civil o entidades jurídicas donde estas personas posean más de un 30% de la entidad en conjunto u otras entidades donde se tenga control, para que la DIAN determine si el acto jurídico constituye una distribución indirecta de excedentes. En caso de así determinarlo, se seguirá el procedimiento de exclusión del artículo 364-3.
 
@@ -5134,7 +5676,10 @@ PARÁGRAFO 4o. Los pagos y los contratos a los que se refieren los incisos 1o y 
 
 PARÁGRAFO 5o. Los pagos y los contratos a los que se refieren los incisos 1o y 2o del presente artículo deberán ser expensas y pagos necesarios para el cumplimiento de la actividad meritoria en virtud de la cual la entidad respectiva fue calificada dentro del Régimen Tributario Especial.
 
-ARTÍCULO 356-2. CALIFICACIÓN AL RÉGIMEN TRIBUTARIO ESPECIAL. <Artículo adicionado por el artículo 148 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las entidades de que trata el artículo 19 deberán presentar ante la Dirección de Impuestos y Aduanas Nacionales (DIAN), mediante el sistema que esta defina, la solicitud de calificación al Régimen Tributario Especial, junto con los documentos que el Gobierno nacional establezca mediante decreto, de conformidad con lo establecido en el artículo 364-5 de este Estatuto.
+## art:356-2 — CALIFICACIÓN AL RÉGIMEN TRIBUTARIO ESPECIAL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Las entidades de que trata el artículo 19 deberán presentar ante la Dirección de Impuestos y Aduanas Nacionales (DIAN), mediante el sistema que esta defina, la solicitud de calificación al Régimen Tributario Especial, junto con los documentos que el Gobierno nacional establezca mediante decreto, de conformidad con lo establecido en el artículo 364-5 de este Estatuto.
 
 Surtido el trámite previsto en el artículo 364-5 de este estatuto, la Dirección de Impuestos y Aduanas Nacionales (DIAN) procederá a autorizar su calificación en el Registro Único Tributario. En cualquier caso, la administración tributaria, previa comprobación y mediante acto administrativo debidamente motivado, decidirá sobre la calificación en el Régimen Tributario Especial de las entidades respectivas.
 
@@ -5142,7 +5687,10 @@ Surtido el trámite previsto en el artículo 364-5 de este estatuto, la Direcci�
 
 PARÁGRAFO TRANSITORIO. Las entidades a las que se refieren los parágrafos transitorios 1o y 2o del artículo 19 de este Estatuto deberán presentar ante la administración tributaria los documentos que para el efecto establezca el reglamento, a través de los sistemas informáticos que para estos fines adopte la Dirección de Impuestos y Aduanas Nacionales (DIAN). Estos documentos serán objeto de verificación y se someterán al procedimiento previsto en el artículo 364-5 de este Estatuto. Estas entidades pertenecerán al Régimen Tributario Especial sin necesidad de pronunciamiento expreso por parte de la DIAN, excepto en aquellos casos en que se decida modificar dicha calidad, para lo cual se expedirá el acto administrativo correspondiente a más tardar el 31 de octubre de 2018. Contra dicho acto administrativo procederá recurso de reposición.
 
-ARTÍCULO 356-3. ACTUALIZACIÓN DEL RUT PARA LOS CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL. <Artículo adicionado por el artículo 149 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los contribuyentes pertenecientes al Régimen Tributario Especial actualizarán anualmente su calificación de contribuyentes del Régimen Tributario Especial contenido en el RUT, por regla general, con la simple presentación de la declaración de renta.
+## art:356-3 — ACTUALIZACIÓN DEL RUT PARA LOS CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Los contribuyentes pertenecientes al Régimen Tributario Especial actualizarán anualmente su calificación de contribuyentes del Régimen Tributario Especial contenido en el RUT, por regla general, con la simple presentación de la declaración de renta.
 
 Las entidades que hayan obtenido ingresos superiores a 160.000 UVT en el año inmediatamente anterior deberán enviar a la Dirección de Impuestos y Aduanas Nacionales DIAN, en los términos que establezca el Gobierno nacional, una memoria económica sobre su gestión, incluyendo una manifestación del representante legal y el revisor fiscal en la cual se acompañe la declaración de renta en que haga constar que durante el año al cual se refiere la declaración han cumplido con todos los requisitos exigidos por la ley, como reiteración de la solicitud de las exenciones solicitadas en la declaración, con la actualización de la información de la plataforma de transparencia.
 
@@ -5176,7 +5724,10 @@ PARÁGRAFO 1o. Los excedentes determinados como exentos deben estar debidamente 
 
 PARÁGRAFO 2o. Los representantes legales, el revisor fiscal, el contador y todos los miembros del órgano de administración de la entidad sin ánimo de lucro deben certificar el debido cumplimiento de los requisitos que establece la ley para ser beneficiario de la exención a la que se refiere este artículo.
 
-ARTÍCULO 358-1. RENTA POR COMPARACIÓN PATRIMONIAL. <Artículo adicionado por el artículo 151 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los contribuyentes del Régimen Tributario Especial estarán sometidos al régimen de renta por comparación patrimonial.
+## art:358-1 — RENTA POR COMPARACIÓN PATRIMONIAL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Los contribuyentes del Régimen Tributario Especial estarán sometidos al régimen de renta por comparación patrimonial.
 
 Cuando el beneficio neto o excedente exento determinado de conformidad con el artículo 357 de este Estatuto resultare inferior a la diferencia entre el patrimonio líquido del último período gravable y el patrimonio líquido del período inmediatamente anterior, dicha diferencia se considera renta gravable, a menos que el contribuyente demuestre que el aumento patrimonial obedece a causas justificativas.
 
@@ -5285,7 +5836,10 @@ Le corresponde a la autoridad tributaria regularizar mediante liquidación ofici
 
 PARÁGRAFO. Lo dispuesto en este artículo aplicará también a las entidades no contribuyentes declarantes y no declarantes, en lo que resulte procedente.
 
-ARTÍCULO 364-2. ACTOS Y CIRCUNSTANCIAS QUE CONSTITUYEN ABUSO DEL RÉGIMEN TRIBUTARIO ESPECIAL. <Artículo adicionado por el artículo 159 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Sin perjuicio de lo establecido en el artículo anterior, de manera particular se considera que la utilización del Régimen Tributario Especial obedece a una estructura negocial abusiva, fraudulenta o simulada, según la calificación que efectúe la autoridad en la liquidación oficial de revisión, cuando se aprecie alguna de las siguientes circunstancias:
+## art:364-2 — ACTOS Y CIRCUNSTANCIAS QUE CONSTITUYEN ABUSO DEL RÉGIMEN TRIBUTARIO ESPECIAL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Sin perjuicio de lo establecido en el artículo anterior, de manera particular se considera que la utilización del Régimen Tributario Especial obedece a una estructura negocial abusiva, fraudulenta o simulada, según la calificación que efectúe la autoridad en la liquidación oficial de revisión, cuando se aprecie alguna de las siguientes circunstancias:
 
 1. El fin principal de la entidad no obedezca a un interés general mediante la realización de las actividades meritorias, sino a una explotación económica con fines de distribución de los excedentes directa o indirectamente. En la apreciación de esta circunstancia, se debe tener en cuenta entre otros factores, cuáles son las principales fuentes de percepción de ingresos y cuál es la destinación efectiva de tales recursos.
 
@@ -5297,7 +5851,10 @@ ARTÍCULO 364-2. ACTOS Y CIRCUNSTANCIAS QUE CONSTITUYEN ABUSO DEL RÉGIMEN TRIBU
 
 5. Se reciben formalmente como donaciones, dinero, bienes o servicios, por los cuales, las entidades sin ánimo de lucro retribuyen directa o indirectamente al donante como contraprestación implícita por la supuesta donación. En este caso, los valores recibidos como donación serán gravados en cabeza de la entidad perceptora como ingresos distintos a los de su objeto social y adicionalmente no concederá deducción alguna al donante en el impuesto sobre la renta.
 
-ARTÍCULO 364-3. PÉRDIDA DE LOS BENEFICIOS DEL RÉGIMEN TRIBUTARIO ESPECIAL. <Artículo modificado por el artículo 70 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Perderán los beneficios del Régimen Tributario Especial las entidades que: 
+## art:364-3 — PÉRDIDA DE LOS BENEFICIOS DEL RÉGIMEN TRIBUTARIO ESPECIAL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Perderán los beneficios del Régimen Tributario Especial las entidades que: 
 
 1. No cumplan con lo dispuesto en los artículos 19 a 23-2 del Estatuto Tributario. 
 
@@ -5329,9 +5886,15 @@ De ser excluidas del Régimen Tributario Especial, las entidades de que trata el
 
 PARÁGRAFO 4o. En caso de pérdida de los beneficios del régimen tributario especial, dichos beneficios se tornan improcedentes a partir del año gravable en que se incumpla con los requisitos para pertenecer al régimen tributario especial.
 
-ARTÍCULO 364-4. REGISTRO ANTE LA AGENCIA PRESIDENCIAL DE COOPERACIÓN INTERNACIONAL DE COLOMBIA. <Artículo adicionado por el artículo 161 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las fundaciones, asociaciones, corporaciones y las demás entidades nacionales sin ánimo de lucro, así como todas las entidades admitidas al Régimen Tributario Especial, deberán registrar ante la Agencia Presidencial de Cooperación Internacional de Colombia, APC-Colombia, los recursos de cooperación internacional no reembolsable que reciban o ejecuten en Colombia de personas extranjeras de derecho público o privado, Gobiernos extranjeros, organismos de derecho internacional, organismos de cooperación, asistencia o ayudas internacionales. APC-Colombia determinará el procedimiento de registro.
+## art:364-4 — REGISTRO ANTE LA AGENCIA PRESIDENCIAL DE COOPERACIÓN INTERNACIONAL DE COLOMBIA
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
 
-ARTÍCULO 364-5. REGISTRO WEB Y REMISIÓN DE COMENTARIOS DE LA SOCIEDAD CIVIL. <Artículo adicionado por el artículo 162 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Todas las entidades que pretendan ser calificadas en el Régimen Tributario Especial deberán registrarse en el aplicativo web que para ello señale la DIAN. El registro de que trata el presente artículo tiene por objeto que el proceso de calificación sea público, que la comunidad se pronuncie sobre los requisitos de acceso al Régimen Tributario Especial, y que remita comentarios generales y observaciones sobre la respectiva entidad. El Gobierno nacional reglamentará los plazos y condiciones a los que se refiere este artículo.
+Las fundaciones, asociaciones, corporaciones y las demás entidades nacionales sin ánimo de lucro, así como todas las entidades admitidas al Régimen Tributario Especial, deberán registrar ante la Agencia Presidencial de Cooperación Internacional de Colombia, APC-Colombia, los recursos de cooperación internacional no reembolsable que reciban o ejecuten en Colombia de personas extranjeras de derecho público o privado, Gobiernos extranjeros, organismos de derecho internacional, organismos de cooperación, asistencia o ayudas internacionales. APC-Colombia determinará el procedimiento de registro.
+
+## art:364-5 — REGISTRO WEB Y REMISIÓN DE COMENTARIOS DE LA SOCIEDAD CIVIL
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+Todas las entidades que pretendan ser calificadas en el Régimen Tributario Especial deberán registrarse en el aplicativo web que para ello señale la DIAN. El registro de que trata el presente artículo tiene por objeto que el proceso de calificación sea público, que la comunidad se pronuncie sobre los requisitos de acceso al Régimen Tributario Especial, y que remita comentarios generales y observaciones sobre la respectiva entidad. El Gobierno nacional reglamentará los plazos y condiciones a los que se refiere este artículo.
 
 La entidad solicitante deberá, durante el término establecido en el reglamento para la calificación dentro del Régimen Tributario Especial, previa solicitud de la DIAN, remitir las explicaciones que correspondan para desestimar los comentarios y las observaciones presentadas por la comunidad.
 
@@ -5357,7 +5920,7 @@ PARÁGRAFO 2o. El registro de que trata el presente artículo será público y d
 
 8. El monto del patrimonio a 31 de diciembre del año inmediatamente anterior.
 
-9. <Aparte tachado INEXEQUIBLE> En caso de recibir donaciones, la identificación del donante y el monto de la donación, así como la destinación de la misma y el plazo proyectado para el gasto o la inversión. Para tales efectos, se entiende que la donación a una entidad del Régimen Tributario Especial es una autorización de publicar los datos que contiene el registro.
+9. <Aparte tachado INEXEQUIBLE> En caso de recibir donaciones, [TACHADO: la identificación del donante y] el monto de la donación, así como la destinación de la misma y el plazo proyectado para el gasto o la inversión. Para tales efectos, se entiende que la donación a una entidad del Régimen Tributario Especial es una autorización de publicar los datos que contiene el registro.
 
 10. Cuando las donaciones se perciban en eventos colectivos, sin que sea posible la identificación particular de los donantes, se deberá inscribir el monto total percibido, la fecha y la destinación del mismo.
 
@@ -5381,7 +5944,10 @@ PARÁGRAFO 6o. El administrador del registro de que trata el presente artículo 
 
 PARÁGRAFO 7o. Sin perjuicio de lo establecido en el Parágrafo 1 del artículo 19 del presente Estatuto, las entidades de que trata el artículo 19-4 estarán obligadas a realizar el registro de que trata el presente artículo.
 
-ARTÍCULO 364-6. FISCALIZACIÓN EN CABEZA DE LA DIAN. <Artículo adicionado por el artículo 163 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La Dirección de Impuestos y Aduanas Nacionales (DIAN) ejercerá la fiscalización de las entidades sin ánimo de lucro y de aquellas que soliciten su calificación en el Régimen Tributario Especial, de acuerdo con el artículo 19.
+## art:364-6 — FISCALIZACIÓN EN CABEZA DE LA DIAN
+ubicacion: TITULO VI. REGIMEN TRIBUTARIO ESPECIAL.
+
+La Dirección de Impuestos y Aduanas Nacionales (DIAN) ejercerá la fiscalización de las entidades sin ánimo de lucro y de aquellas que soliciten su calificación en el Régimen Tributario Especial, de acuerdo con el artículo 19.
 
 PARÁGRAFO 1o. La DIAN deberá incluir dentro de su plan anual de fiscalización un programa de control a las entidades sin ánimo de lucro y a las pertenecientes al Régimen Tributario Especial.
 
@@ -5405,7 +5971,7 @@ ubicacion: TITULO I. DISPOSICIONES GENERALES.
 
 Sin perjuicio de las retenciones contempladas en las disposiciones vigentes el 27 de diciembre de 1984, el Gobierno podrá establecer retenciones en la fuente sobre los pagos o abonos en cuenta susceptibles de constituir ingreso tributario para el contribuyente del impuesto sobre la renta, que hagan las personas jurídicas y las sociedades de hecho. 
 
-<Ver Notas del Editor> Los porcentajes de retención no podrán exceder del tres por ciento (3%) del respectivo pago o abono en cuenta. En todo lo demás, se aplicarán las disposiciones vigentes sobre la materia.
+ Los porcentajes de retención no podrán exceder del tres por ciento (3%) del respectivo pago o abono en cuenta. En todo lo demás, se aplicarán las disposiciones vigentes sobre la materia.
 
 ## art:366-1 — FACULTAD PARA ESTABLECER RETENCIÓN EN LA FUENTE POR INGRESOS DEL EXTERIOR
 ubicacion: TITULO I. DISPOSICIONES GENERALES.
@@ -5445,9 +6011,12 @@ PARAGRAFO 1o. <Parágrafo modificado por el artículo 122 de la Ley 223 de 1995.
 
 PARAGRAFO 2o. <Parágrafo adicionado por el artículo 122 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Además de los agentes de retención enumerados en este artículo, el Gobierno podrá designar como tales a quienes efectúen el pago o abono en cuenta a nombre o por cuenta de un tercero o en su calidad de financiadores de la respectiva operación, aunque no intervengan directamente en la transacción que da lugar al impuesto objeto de la retención. 
 
-PARÁGRAFO 3o. <Parágrafo modificado por el artículo 73 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Entiéndase también como agentes de retención las personas jurídicas y naturales exportadoras de servicios de entretenimiento para adulto a través del sistema webcam, que mediante contrato de mandato como hecho generador practiquen la retención en la fuente por servicios al mandante en el respectivo pago o abono en cuenta, de conformidad con el artículo 392 del Estatuto Tributario. Estas empresas estarán organizadas en una Federación de Comercio Electrónico para Adultos para su control y el sector será reglamentado mediante ley. 
+PARÁGRAFO 3o. <Parágrafo modificado por el artículo 73 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Entiéndase también como agentes de retención las personas jurídicas y naturales exportadoras de servicios de entretenimiento para adulto a través del sistema webcam, que mediante contrato de mandato como hecho generador practiquen la retención en la fuente por servicios al mandante en el respectivo pago o abono en cuenta, de conformidad con el artículo 392 del Estatuto Tributario. Estas empresas estarán organizadas en una Federación de Comercio Electrónico para Adultos para su control y el sector será reglamentado mediante ley.
 
-ARTÍCULO 368-1. RETENCIÓN SOBRE DISTRIBUCIÓN DE INGRESOS POR LOS FONDOS A QUE SE REFIERE EL ARTÍCULO 23-1 DEL ESTATUTO TRIBUTARIO. <Artículo modificado por el artículo 69 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los fondos de que trata el artículo 23-1 de este Estatuto o las sociedades que los administren o las entidades financieras que realicen pagos a los inversionistas, según lo establezca el Gobierno nacional, efectuarán la retención en la fuente que corresponda a los ingresos que distribuyan entre los suscriptores o partícipes, al momento del pago, salvo en los casos en los que no se admita el diferimiento del ingreso, en los términos establecidos en la norma. En este último caso la retención deberá realizarse conforme a las normas que son aplicables en los contratos de fiducia mercantil, al momento de la realización del ingreso. Los agentes de retención serán los responsables de confirmar la procedencia de beneficio del diferimiento del ingreso y el cumplimiento de los requisitos establecidos en el artículo 23-1 del Estatuto Tributario. 
+## art:368-1 — RETENCIÓN SOBRE DISTRIBUCIÓN DE INGRESOS POR LOS FONDOS A QUE SE REFIERE EL ARTÍCULO 23-1 DEL ESTATUTO TRIBUTARIO
+ubicacion: TITULO I. DISPOSICIONES GENERALES.
+
+Los fondos de que trata el artículo 23-1 de este Estatuto o las sociedades que los administren o las entidades financieras que realicen pagos a los inversionistas, según lo establezca el Gobierno nacional, efectuarán la retención en la fuente que corresponda a los ingresos que distribuyan entre los suscriptores o partícipes, al momento del pago, salvo en los casos en los que no se admita el diferimiento del ingreso, en los términos establecidos en la norma. En este último caso la retención deberá realizarse conforme a las normas que son aplicables en los contratos de fiducia mercantil, al momento de la realización del ingreso. Los agentes de retención serán los responsables de confirmar la procedencia de beneficio del diferimiento del ingreso y el cumplimiento de los requisitos establecidos en el artículo 23-1 del Estatuto Tributario. 
 
 Cuando el pago se haga a una persona sin residencia en el país o a una sociedad o entidad extranjera sin domicilio principal en el país, la retención en la fuente a título del impuesto sobre la renta y complementarios se hará a la tarifa que corresponda para los pagos al exterior, según el respectivo concepto. 
 
@@ -5482,19 +6051,7 @@ PARÁGRAFO. Las transacciones realizadas a través de la Bolsa de Energía en ni
 ## art:370 — LOS AGENTES QUE NO EFECTUEN LA RETENCION, SON RESPONSABLES CON EL CONTRIBUYENTE
 ubicacion: TITULO I. DISPOSICIONES GENERALES.
 
-No realizada la retención o percepción, el agente responderá por la suma que está obligado a retener o percibir, sin perjuicio de su derecho de reembolso contra el contribuyente, cuando aquél satisfaga la obligación. Las sanciones o multas impuestas al agente por el incumplimiento de sus deberes serán de su exclusiva responsabilidad. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+No realizada la retención o percepción, el agente responderá por la suma que está obligado a retener o percibir, sin perjuicio de su derecho de reembolso contra el contribuyente, cuando aquél satisfaga la obligación. Las sanciones o multas impuestas al agente por el incumplimiento de sus deberes serán de su exclusiva responsabilidad.
 
 ## art:371 — CASOS DE SOLIDARIDAD EN LAS SANCIONES POR RETENCIÓN
 ubicacion: TITULO I. DISPOSICIONES GENERALES.
@@ -5637,7 +6194,7 @@ La retención en la fuente aplicable a los pagos gravables efectuados por las pe
 
 PARÁGRAFO 1o. Para efectos de la aplicación del Procedimiento 2 a que se refiere el artículo 386 de este Estatuto, el valor del impuesto en UVT determinado de conformidad con la tabla incluida en este artículo, se divide por el ingreso laboral total gravado convertido a UVT, con lo cual se obtiene la tarifa de retención aplicable al ingreso mensual.
 
-PARÁGRAFO 2o. <Ver Notas del Editor> <Inciso modificado por el artículo 8 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La retención en la fuente establecida en el presente artículo será aplicable a los pagos o abonos en cuenta por concepto de rentas de trabajo que no provengan de una relación laboral o legal y reglamentaria.
+PARÁGRAFO 2o. <Inciso modificado por el artículo 8 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La retención en la fuente establecida en el presente artículo será aplicable a los pagos o abonos en cuenta por concepto de rentas de trabajo que no provengan de una relación laboral o legal y reglamentaria.
 
 La retención a la que se refiere este parágrafo se hará por "pagos mensualizados". Para ello se tomará el monto total del valor del contrato menos los respectivos aportes obligatorios a salud y pensiones, y se dividirá por el número de meses de vigencia del mismo. Ese valor mensual corresponde a la base de retención en la fuente que debe ubicarse en la tabla. En el caso en el cual los pagos correspondientes al contrato no sean efectuados mensualmente, el pagador deberá efectuar la retención en la fuente de acuerdo con el cálculo mencionado en este parágrafo, independientemente de la periodicidad pactada para los pagos del contrato; cuando realice el pago deberá retener el equivalente a la suma total de la retención mensualizada.
 
@@ -5657,11 +6214,11 @@ ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO I. INGRESOS LA
 
 Para efectos de la retención en la fuente, el retenedor deberá aplicar el procedimiento establecido en este artículo, o en el artículo siguiente: 
 
-Procedimiento 1. <Apartes tachados derogados por el artículo 140 de la Ley 6 de 1992> Con relación a los pagos o abonos en cuenta gravables diferentes de la cesantía, los intereses sobre cesantía, y la prima mínima legal de servicios del sector privado o de navidad del sector público, el "valor a retener" mensualmente es el indicado frente al intervalo de la tabla al cual correspondan la totalidad de dichos pagos o abonos que se hagan al trabajador, directa o indirectamente, durante el respectivo mes. Si tales pagos o abonos en cuenta se realizan por períodos inferiores a treinta (30) días, su retención podrá calcularse así: 
+Procedimiento 1. <Apartes tachados derogados por el artículo 140 de la Ley 6 de 1992> Con relación a los pagos [TACHADO: o abonos en cuenta] gravables diferentes de la cesantía, los intereses sobre cesantía, y la prima mínima legal de servicios del sector privado o de navidad del sector público, el "valor a retener" mensualmente es el indicado frente al intervalo de la tabla al cual correspondan la totalidad de dichos pagos [TACHADO: o abonos] que se hagan al trabajador, directa o indirectamente, durante el respectivo mes. Si tales pagos [TACHADO: o abonos en cuenta] se realizan por períodos inferiores a treinta (30) días, su retención podrá calcularse así: 
 
-a.El valor total de los pagos o abonos en cuenta gravables, recibidos directa o indirectamente por el trabajador en el respectivo período, se divide por el número de días a que correspondan tales pagos o abonos y su resultado se multiplica por 30; 
+a.El valor total de los pagos [TACHADO: o abonos en cuenta] gravables, recibidos directa o indirectamente por el trabajador en el respectivo período, se divide por el número de días a que correspondan tales pagos [TACHADO: o abonos] y su resultado se multiplica por 30; 
 
-b. Se determina el porcentaje de retención que figure en la tabla frente al valor obtenido de acuerdo con lo previsto en el literal anterior y dicho porcentaje se aplica a la totalidad de los pagos o abonos en cuenta gravables recibidos directa o indirectamente por el trabajador en el respectivo período. La cifra resultante será el "valor a retener". 
+b. Se determina el porcentaje de retención que figure en la tabla frente al valor obtenido de acuerdo con lo previsto en el literal anterior y dicho porcentaje se aplica a la totalidad de los pagos [TACHADO: o abonos en cuenta] gravables recibidos directa o indirectamente por el trabajador en el respectivo período. La cifra resultante será el "valor a retener". 
 
 Cuando se trate de la prima mínima legal de servicios del sector privado, o de navidad del sector público, el "valor a retener" es el que figure frente al intervalo al cual corresponda la respectiva prima.
 
@@ -5672,15 +6229,15 @@ El retenedor podrá igualmente aplicar el siguiente sistema:
 
 Procedimiento 2 <Apartes tachados derogados por el artículo 140 de la Ley 6 de 1992>
 
-Cuando se trate de los pagos o abonos gravable <sic> distintos de la cesantía y de los intereses sobre las cesantías, el "valor a retener" mensualmente es el que resulte de aplicar a la totalidad de tales pagos o abonos gravables efectuados al trabajador, directa o indirectamente, en el respectivo mes, el porcentaje fijo de retención semestral que le corresponda al trabajador, calculado de conformidad con las siguientes reglas: 
+Cuando se trate de los pagos [TACHADO: o abonos] gravable <sic> distintos de la cesantía y de los intereses sobre las cesantías, el "valor a retener" mensualmente es el que resulte de aplicar a la totalidad de tales pagos [TACHADO: o abonos] gravables efectuados al trabajador, directa o indirectamente, en el respectivo mes, el porcentaje fijo de retención semestral que le corresponda al trabajador, calculado de conformidad con las siguientes reglas: 
 
 Los retenedores calcularán en los meses de junio y diciembre de cada año el porcentaje fijo de retención que deberá aplicarse a los ingresos de cada trabajador durante los seis meses siguientes a aquél en el cual se haya efectuado el cálculo. 
 
-El porcentaje fijo de retención de que trata el inciso anterior será el que figure en la tabla de retención frente al intervalo al cual corresponda el resultado de dividir por 13 la sumatoria de todos los pagos o abonos gravables efectuados al trabajador, directa o indirectamente, durante los 12 meses anteriores a aquél en el cual se efectúa el cálculo, sin incluir los que correspondan a la cesantía y a los intereses sobre cesantías. 
+El porcentaje fijo de retención de que trata el inciso anterior será el que figure en la tabla de retención frente al intervalo al cual corresponda el resultado de dividir por 13 la sumatoria de todos los pagos [TACHADO: o abonos] gravables efectuados al trabajador, directa o indirectamente, durante los 12 meses anteriores a aquél en el cual se efectúa el cálculo, sin incluir los que correspondan a la cesantía y a los intereses sobre cesantías. 
 
-Cuando el trabajador lleve laborando menos de 12 meses al servicio del patrono, el porcentaje fijo de retención será el que figure en la tabla de retención frente al intervalo al cual corresponda el resultado de dividir por el número de meses de vinculación laboral, la sumatoria de todos los pagos o abonos gravables efectuados al trabajador, directa o indirectamente, durante dicho lapso, sin incluir los que correspondan a la cesantía y a los intereses sobre cesantías. 
+Cuando el trabajador lleve laborando menos de 12 meses al servicio del patrono, el porcentaje fijo de retención será el que figure en la tabla de retención frente al intervalo al cual corresponda el resultado de dividir por el número de meses de vinculación laboral, la sumatoria de todos los pagos [TACHADO: o abonos] gravables efectuados al trabajador, directa o indirectamente, durante dicho lapso, sin incluir los que correspondan a la cesantía y a los intereses sobre cesantías. 
 
-Cuando se trate de nuevos trabajadores y hasta tanto se efectúe el primer cálculo, el porcentaje de retención será el que figure en la tabla frente al intervalo al cual corresponda la totalidad de los pagos o abonos gravables que se hagan al trabajador, directa o indirectamente, durante el respectivo mes.
+Cuando se trate de nuevos trabajadores y hasta tanto se efectúe el primer cálculo, el porcentaje de retención será el que figure en la tabla frente al intervalo al cual corresponda la totalidad de los pagos [TACHADO: o abonos] gravables que se hagan al trabajador, directa o indirectamente, durante el respectivo mes.
 
 ## art:387 — DEDUCCIONES QUE SE RESTARÁN DE LA BASE DE RETENCIÓN
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO I. INGRESOS LABORALES.
@@ -5695,7 +6252,7 @@ b) Los pagos efectuados por seguros de salud, expedidos por compañías de segur
 
 PARÁGRAFO 1o. Cuando se trate del Procedimiento de Retención número dos, el valor que sea procedente disminuir mensualmente, determinado en la forma señalada en el presente artículo, se tendrá en cuenta tanto para calcular el porcentaje fijo de retención semestral, como para determinar la base sometida a retención.
 
-PARÁGRAFO 2o. DEFINICIÓN DE DEPENDIENTES. <Ver Notas del Editor> Para propósitos de este artículo tendrán la calidad de dependientes:
+PARÁGRAFO 2o. DEFINICIÓN DE DEPENDIENTES. Para propósitos de este artículo tendrán la calidad de dependientes:
 
 1. Los hijos del contribuyente que tengan hasta 18 años de edad.
 
@@ -5714,18 +6271,18 @@ ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO I. INGRESOS LA
 
 Cuando los pagos en el mes en beneficio del trabajador o de su familia, de que trata el inciso anterior excedan la suma de 41 UVT, el exceso constituye ingreso tributario del trabajador, sometido a retención en la fuente por ingresos laborales. Lo dispuesto en este inciso no aplica para los gastos de representación de las empresas, los cuales son deducibles para estas.
 
-Para los efectos previstos en este artículo, se entiende por familia del trabajador, el cónyuge o compañero (a) permanente, los hijos y los padres del trabajador
+Para los efectos previstos en este artículo, se entiende por familia del trabajador, el cónyuge o compañero (a) permanente, los hijos y los padres del trabajador.
 
 ## art:388 — DEPURACIÓN DE LA BASE DEL CÁLCULO DE LA RETENCIÓN EN LA FUENTE
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO I. INGRESOS LABORALES.
 
-<Artículo adicionado por el artículo 18 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para obtener la base de retención en la fuente sobre los pagos o abonos en cuenta por concepto de rentas de trabajo efectuados a las personas naturales, se podrán detraer los siguientes factores:
+Para obtener la base de retención en la fuente sobre los pagos o abonos en cuenta por concepto de rentas de trabajo efectuados a las personas naturales, se podrán detraer los siguientes factores:
 
 1. Los ingresos que la ley de manera taxativa prevé como no constitutivos de renta ni ganancia ocasional.
 
 2. Las deducciones a que se refiere el artículo 387 del Estatuto Tributario y las rentas que la ley de manera taxativa prevé como exentas. En todo caso, la suma total de deducciones y rentas exentas no podrá superar el cuarenta por ciento (40%) del resultado de restar del monto del pago o abono en cuenta los ingresos no constitutivos de renta ni ganancia ocasional imputables. Esta limitación no aplicará en el caso del pago de pensiones de jubilación, invalidez, vejez, de sobrevivientes y sobre riesgos profesionales, las indemnizaciones sustitutivas de las pensiones y las devoluciones de ahorro pensional.
 
-<Ver Notas del Editor> La exención prevista en el numeral 10 del artículo 206 del Estatuto Tributario procede también para los pagos o abonos en cuenta por concepto de ingresos por honorarios* y por compensación por servicios personales obtenidos por las personas que informen que no han contratado o vinculado dos (2) o más trabajadores asociados a la actividad.
+ La exención prevista en el numeral 10 del artículo 206 del Estatuto Tributario procede también para los pagos o abonos en cuenta por concepto de ingresos por honorarios* y por compensación por servicios personales obtenidos por las personas que informen que no han contratado o vinculado dos (2) o más trabajadores asociados a la actividad.
 
 Los factores de depuración de la base de retención de los trabajadores cuyos ingresos no provengan de una relación laboral, o legal y reglamentaria, se determinarán mediante los soportes que adjunte el trabajador a la factura o documento equivalente o el documento expedido por las personas no obligadas a facturar en los términos del inciso 3o del artículo 771-2 del Estatuto Tributario.
 
@@ -5734,7 +6291,7 @@ PARÁGRAFO. Para efectos de la aplicación de la tabla de retención en la fuent
 ## art:389 — CUALES ESTAN SOMETIDOS A RETENCIÓN
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO II. DIVIDENDOS Y PARTICIPACIONES.
 
-<Fuente original compilada: L. 75/86 Art. 1o.> Los dividendos y participaciones percibidos por sociedades u otras entidades extranjeras, por personas naturales extranjeras sin residencia en Colombia y por sucesiones ilíquidas de causantes extranjeros que no eran residentes en Colombia, están sometidos a la retención en la fuente. 
+Los dividendos y participaciones percibidos por sociedades u otras entidades extranjeras, por personas naturales extranjeras sin residencia en Colombia y por sucesiones ilíquidas de causantes extranjeros que no eran residentes en Colombia, están sometidos a la retención en la fuente. 
 
 Igualmente, estarán sometidos a retención en la fuente los dividendos y participaciones que perciban los socios, accionistas, asociados, suscriptores o similares, que sean personas naturales residentes en el país, sucesiones ilíquidas de causantes que al momento de su muerte eran residentes en el país, o sociedades nacionales, en cuanto excedan la parte no constitutiva de renta ni ganancia ocasional establecida de conformidad con lo dispuesto en los artículos 48 y 49.
 
@@ -5853,19 +6410,7 @@ El gobierno determinará los porcentajes de retención en la fuente, sin que sob
 ## art:396 — LA TARIA PUEDE APLICARSE SOBRE EL VALOR BRUTO DEL RENDIMIENTO
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IV. RENDIMIENTOS FINANCIEROS.
 
-Para efectos de la retención en la fuente, los porcentajes de retención que fije el Gobierno podrán aplicarse sobre el valor bruto del pago o abono en cuenta correspondiente al respectivo rendimiento. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Para efectos de la retención en la fuente, los porcentajes de retención que fije el Gobierno podrán aplicarse sobre el valor bruto del pago o abono en cuenta correspondiente al respectivo rendimiento.
 
 ## art:397 — RETENCIÓN EN LA FUENTE EN TITULOS CON DESCUENTO
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IV. RENDIMIENTOS FINANCIEROS.
@@ -5939,7 +6484,7 @@ Los ingresos recibidos por los colocadores independientes estarán sometidos a r
 ## art:401-2 — RETENCIÓN EN LA FUENTE EN INDEMNIZACIONES
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO VI. OTROS INGRESOS TRIBUTARIOS.
 
-<Artículo adicionado por el artículo 91 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Los pagos o abonos en cuenta por concepto de indemnizaciones diferentes a las indemnizaciones salariales y a las percibidas por los nacionales como resultado de demandas contra el Estado y contempladas en los artículos 45 y 223 del Estatuto Tributario, estará sometida a retención por concepto de renta a la tarifa del treinta y cinco por ciento (35%) <32% año 2020> <31% año 2021> <35% a partir del año 2022>* , si los beneficiarios de la misma son extranjeros sin residencia en el país, sin perjuicio de la retención por remesas**. Si los beneficiarios del pago son residentes en el país, la tarifa de retención por este concepto será del veinte por ciento (20%).
+Los pagos o abonos en cuenta por concepto de indemnizaciones diferentes a las indemnizaciones salariales y a las percibidas por los nacionales como resultado de demandas contra el Estado y contempladas en los artículos 45 y 223 del Estatuto Tributario, estará sometida a retención por concepto de renta a la tarifa del [TACHADO: treinta y cinco por ciento] [TACHADO: (35%)] <32% año 2020> <31% año 2021> <35% a partir del año 2022>* , si los beneficiarios de la misma son extranjeros sin residencia en el país, sin perjuicio de la retención por remesas**. Si los beneficiarios del pago son residentes en el país, la tarifa de retención por este concepto será del veinte por ciento (20%).
 
 ## art:401-3 — RETENCIÓN EN LA FUENTE EN INDEMNIZACIONES DERIVADAS DE UNA RELACIÓN LABORAL O LEGAL Y REGLAMENTARIA
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO VI. OTROS INGRESOS TRIBUTARIOS.
@@ -6022,7 +6567,7 @@ PARÁGRAFO TRANSITORIO 2o. Los intereses o cánones de arrendamiento financiero 
 ## art:409 — TARIFA ESPECIAL PARA PROFESORES EXTRANJEROS
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IX. POR PAGOS AL EXTERIOR.
 
-En el caso de profesores extranjeros sin residencia en el país, contratados por períodos no superiores a cuatro (4) meses* por instituciones de educación superior, aprobadas por el ICFES, únicamente se causará impuesto sobre la renta a la tarifa del siete por ciento (7%). Este impuesto será retenido en la fuente en el momento del pago o abono en cuenta
+En el caso de profesores extranjeros sin residencia en el país, contratados por períodos no superiores a cuatro (4) meses* por instituciones de educación superior, aprobadas por el ICFES, únicamente se causará impuesto sobre la renta a la tarifa del siete por ciento (7%). Este impuesto será retenido en la fuente en el momento del pago o abono en cuenta.
 
 ## art:410 — RETENCIÓN EN LA FUENTE EN LA EXPLOTACIÓN DE PELÍCULAS CINEMATOGRÁFICAS
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IX. POR PAGOS AL EXTERIOR.
@@ -6053,14 +6598,17 @@ Las disposiciones referidas a los contratos Llave en mano, contratos de prestaci
 ## art:414 — TARIFA SOBRE PAGOS POR ARRENDAMIENTO DE MAQUINARIA
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IX. POR PAGOS AL EXTERIOR.
 
-La retención en la fuente aplicable a los pagos al exterior por concepto de arrendamiento de maquinaria para construcción, mantenimiento, o reparación de obras civiles que efectúen los constructores colombianos en desarrollo de contratos que hayan sido objeto de licitaciones públicas internacionales, será del 2% del respectivo pago. 
+La retención en la fuente aplicable a los pagos al exterior por concepto de arrendamiento de maquinaria para construcción, mantenimiento, o reparación de obras civiles que efectúen los constructores colombianos en desarrollo de contratos que hayan sido objeto de licitaciones públicas internacionales, será del 2% del respectivo pago.
 
-ARTÍCULO 414-1. RETENCIÓN EN LA FUENTE EN TRANSPORTE INTERNACIONAL. <Artículo modificado por el artículo 128 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los pagos o abonos en cuenta por concepto de servicios de transporte internacional, prestados por empresas de transporte aéreo o marítimo sin domicilio en el país, están sujetos a retención en la fuente a título de impuesto sobre la renta, a la tarifa del cinco por ciento (5%)
+## art:414-1 — RETENCIÓN EN LA FUENTE EN TRANSPORTE INTERNACIONAL
+ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IX. POR PAGOS AL EXTERIOR.
+
+Los pagos o abonos en cuenta por concepto de servicios de transporte internacional, prestados por empresas de transporte aéreo o marítimo sin domicilio en el país, están sujetos a retención en la fuente a título de impuesto sobre la renta, a la tarifa del cinco por ciento (5%).
 
 ## art:415 — TARIFA DE RETENCIÓN PARA LOS DEMÁS CASOS
 ubicacion: TITULO III. CONCEPTOS SUJETOS A RETENCIÓN. > CAPITULO IX. POR PAGOS AL EXTERIOR.
 
-<Artículo modificado por el artículo 129 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En los demás casos, relativos a pagos o abonos en cuenta por conceptos no contemplados en los artículos anteriores, diferentes a ganancias ocasionales, la tarifa será del quince por ciento (15%) sobre el valor bruto del respectivo pago o abono en cuenta. 
+En los demás casos, relativos a pagos o abonos en cuenta por conceptos no contemplados en los artículos anteriores, diferentes a ganancias ocasionales, la tarifa será del quince por ciento (15%) sobre el valor bruto del respectivo pago o abono en cuenta. 
 
 En el caso de las ganancias ocasionales, la retención en la fuente será del 10% sobre el valor bruto del respectivo pago o abono en cuenta.
 
@@ -6160,7 +6708,7 @@ c) La entrega de las mercancías aprehendidas, decomisadas o abandonadas a favor
 ## art:421-1 — IVA PARA TIQUETES AEREOS INTERNACIONALES ADQUIRIDOS EN EL EXTERIOR
 ubicacion: TITULO I. HECHO GENERADOR DEL IMPUESTO.
 
-<Artículo adicionado por el artículo 57 de la Ley 488 de 1998. El nuevo texto es el siguiente:> También estarán sujetos al gravamen del IVA los tiquetes aéreos internacionales adquiridos en el exterior para ser utilizados originando el viaje en el territorio nacional. 
+También estarán sujetos al gravamen del IVA los tiquetes aéreos internacionales adquiridos en el exterior para ser utilizados originando el viaje en el territorio nacional. 
 
 Corresponderá a la compañía aérea, al momento de su utilización, liquidar y efectuar el recaudo del impuesto sobre la tarifa vigente en Colombia para la ruta indicada en el tiquete.
 
@@ -6189,7 +6737,7 @@ Los siguientes bienes se hallan excluidos del impuesto y por consiguiente su ven
 01.03Animales vivos de la especie porcina.
 01.04Animales vivos de las especies ovina o caprina.
 01.05Gallos, gallinas, patos, gansos, pavos (gallipavos) y pintadas, de las especies domésticas, vivos.
-01.06Los demás animales vivos. <Partida modificada por el artículo 72 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los demás animales vivos, excepto los animales domésticos de compañía 
+01.06[TACHADO: Los demás animales vivos.] <Partida modificada por el artículo 72 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los demás animales vivos, excepto los animales domésticos de compañía 
 03.01Peces vivos, excepto los peces ornamentales de las posiciones 03.01.11.00.00 y 03.01.19.00.00.
 03.03.41.00.00Albacoras o atunes blancos.
 03.03.42.00.00Atunes de aleta amarilla (rabiles).
@@ -6275,14 +6823,14 @@ Los siguientes bienes se hallan excluidos del impuesto y por consiguiente su ven
 27.11.29Gas propano en estado gaseoso y gas butano en estado gaseoso, incluido el autogás.
 27.16Energía eléctrica.
 28.44.40Material radiactivo para uso médico.
-29.36Provitaminas y vitaminas, naturales o reproducidas por síntesis (incluidos los concentrados naturales).y sus derivados utilizados principalmente como vitaminas, mezclados o no entre sí o en disoluciones de cualquier clase. <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
-29.41Antibióticos. <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
-30.01Glándulas y demás órganos para usos opoterápicos, desecados, incluso pulverizados, extracto de glándulas o de otros órganos o de sus secreciones, para usos opoterápicos, heparina y sus sales, las demás sustancias humanas o animales preparadas para usos terapéuticos o profilácticos, no expresadas ni comprendidos en otra parte. <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
-30.02Sangre humana, sangre animal preparada para usos terapéuticos, profilácticos o de diagnóstico, antisueros (sueros con anticuerpos), demás fracciones de la sangre y productos inmunológicos modificados, incluso obtenidos por proceso biotecnológico, vacunas, toxinas, cultivos de microrganismos (excepto las levaduras) y productos similares. <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
-30.03Medicamentos (excepto los productos de las partidas 30.02, 30.05 o 30.06) constituidos por productos mezclados entre sí, preparados para usos terapéuticos o profilácticos, sin dosificar ni acondicionar para la venta al por menor. <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
-30.04Medicamentos (excepto los productos de las partidas 30.02, 30.05 o 30.06) constituidos por productos mezclados o sin mezclar preparados para usos terapéuticos o profilácticos, dosificados o acondicionados para la venta al por menor.<Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+29.36[TACHADO: Provitaminas y vitaminas, naturales o reproducidas por síntesis (incluidos los concentrados naturales).y sus derivados utilizados principalmente como vitaminas, mezclados o no entre sí o en disoluciones de cualquier clase.] <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+29.41[TACHADO: Antibióticos.] <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+30.01[TACHADO: Glándulas y demás órganos para usos opoterápicos, desecados, incluso pulverizados, extracto de glándulas o de otros órganos o de sus secreciones, para usos opoterápicos, heparina y sus sales, las demás sustancias humanas o animales preparadas para usos terapéuticos o profilácticos, no expresadas ni comprendidos en otra parte.] <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+30.02[TACHADO: Sangre humana, sangre animal preparada para usos terapéuticos, profilácticos o de diagnóstico, antisueros (sueros con anticuerpos), demás fracciones de la sangre y productos inmunológicos modificados, incluso obtenidos por proceso biotecnológico, vacunas, toxinas, cultivos de microrganismos (excepto las levaduras) y productos similares.] <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+30.03[TACHADO: Medicamentos (excepto los productos de las partidas 30.02, 30.05 o 30.06) constituidos por productos mezclados entre sí, preparados para usos terapéuticos o profilácticos, sin dosificar ni acondicionar para la venta al por menor.] <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+30.04[TACHADO: Medicamentos (excepto los productos de las partidas 30.02, 30.05 o 30.06) constituidos por productos mezclados o sin mezclar preparados para usos terapéuticos o profilácticos, dosificados o acondicionados para la venta al por menor.]<Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
 30.05Guatas, gasas, vendas y artículos análogos (por ejemplo: apósitos, esparadrapos, sinapismos), impregnados o recubiertos de sustancias farmacéuticas o acondicionados para la venta al por menor con fines médicos, quirúrgicos, odontológicos o veterinarios.
-30.06Preparaciones y artículos farmacéuticos a que se refiere la nota 4 de este capítulo. <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
+30.06[TACHADO: Preparaciones y artículos farmacéuticos a que se refiere la nota 4 de este capítulo.] <Partida derogada por el artículo 160 de la Ley 2010 de 2019> 
 31.01Abonos de origen animal o vegetal, incluso mezclados entre sí o tratados químicamente, abonos procedentes de la mezcla o del tratamiento químico de productos de origen animal o vegetal.
 31.02Abonos minerales o químicos nitrogenados.
 31.03Abonos minerales o químicos fosfatados.
@@ -6322,8 +6870,8 @@ Los siguientes bienes se hallan excluidos del impuesto y por consiguiente su ven
 84.36.80Las demás máquinas y aparatos para uso agropecuario.
 84.36.99.00.00Partes de las demás máquinas y aparatos para uso agropecuario.
 84.37.10Máquinas para limpieza, clasificación o cribado de semillas, granos u hortalizas de vaina secas.
-85.04.40.90.90Inversor de energía para sistema de energía solar con paneles. <Partida adicionada por el artículo 175 de la Ley 1955 de 2019> <Partida eliminada por el artículo 14 de la Ley 2069 de 2020>
-85.41.40.10.00Paneles solares <Partida adicionada por el artículo 175 de la Ley 1955 de 2019> <Partida eliminada por el artículo 14 de la Ley 2069 de 2020>
+85.04.40.90.90[TACHADO: Inversor de energía para sistema de energía solar con paneles.] <Partida adicionada por el artículo 175 de la Ley 1955 de 2019> <Partida eliminada por el artículo 14 de la Ley 2069 de 2020>
+85.41.40.10.00[TACHADO: Paneles solares] <Partida adicionada por el artículo 175 de la Ley 1955 de 2019> <Partida eliminada por el artículo 14 de la Ley 2069 de 2020>
 87.01Tractores para uso agropecuario de las partidas 87.01.91.00.00, 87.01.92.00.00, 87.01.93.00.00, 87.01.94.00.00, 87.01.95.00.00.
 87.13Sillones de ruedas y demás vehículos para inválidos, incluso con motor u otro mecanismo de propulsión.
 87.14.20.00.00Partes y accesorios de sillones de ruedas y demás vehículos para inválidos de la partida 87.13.
@@ -6334,12 +6882,12 @@ Los siguientes bienes se hallan excluidos del impuesto y por consiguiente su ven
 90.18.39.00.00Catéteres y catéteres peritoneales y equipos para la infusión de líquidos y filtros para diálisis renal de esta subpartida. 
 90.18.90.90.00Equipos para la infusión de sangre.
 90.21Artículos y aparatos de ortopedia, incluidas las fajas y vendajes médicoquirúrgicos y las muletas tablillas, férulas u otros artículos y aparatos para fracturas, artículos y aparatos de prótesis, audífonos y demás aparatos que lleve la propia persona o se le implanten para compensar un defecto o incapacidad. Las impresoras braille, máquinas inteligentes de lectura para ciegos, software lector de pantalla para ciegos, estereotipadoras braille, líneas braille, regletas braille, cajas aritméticas y de dibujo braille, elementos manuales o mecánicos de escritura del sistema braille, así como los bastones para ciegos aunque estén dotados de tecnología, contenidos en esta partida arancelaria.
-90.32.89.90.00Controlador de carga para sistema de energía solar con paneles <Partida adicionada por el artículo 175 de la Ley 1955 de 2019> <Partida eliminada por el artículo 14 de la Ley 2069 de 2020>
+90.32.89.90.00[TACHADO: Controlador de carga para sistema de energía solar con paneles] <Partida adicionada por el artículo 175 de la Ley 1955 de 2019> <Partida eliminada por el artículo 14 de la Ley 2069 de 2020>
 96.09.10.00.00Lápices de escribir y colorear.
 
 Adicionalmente:
 
-1. <Ver Notas del Editor> Las materias primas químicas con destino a la producción de plaguicidas e insecticidas de la partida 38.08 y de los fertilizantes de las partidas 31.01 a 31.05 y con destino a la producción de medicamentos de las posiciones 29.36, 29.41, 30.01, 30.03, 30.04 y 30.06.
+1. Las materias primas químicas con destino a la producción de plaguicidas e insecticidas de la partida 38.08 y de los fertilizantes de las partidas 31.01 a 31.05 y con destino a la producción de medicamentos de las posiciones 29.36, 29.41, 30.01, 30.03, 30.04 y 30.06.
 
 2. Las materias primas destinadas a la producción de vacunas para lo cual deberá acreditarse tal condición en la forma como lo señale el reglamento.
 
@@ -6443,7 +6991,7 @@ c. La introducción de artículos con destino al servicio oficial de la misión 
 
 <Inciso adicionado por el artículo 65 de la Ley 1739 de 2014. El nuevo texto es el siguiente:> Tratándose de franquicias establecidas para vehículos de acuerdo con las disposiciones legales sobre reciprocidad diplomática, el beneficio es personal e intransferible dentro del año siguiente a su importación. En el evento en que se transfiera antes del término aquí establecido, el impuesto sobre las ventas se causa y debe pagarse junto con los intereses moratorios a que haya lugar, calculados de acuerdo con el artículo 634 de este Estatuto, incrementados en un 50%.
 
-d. <Ver Notas del Editor> <Fuente original compilada: D2368/74 Art. 17 Inciso 2o.> Las importaciones de armas y municiones que se hagan para la defensa nacional. 
+d. <Fuente original compilada: D2368/74 Art. 17 Inciso 2o.> Las importaciones de armas y municiones que se hagan para la defensa nacional. 
 
 e. <Literal modificado por el artículo 6 de la Ley 223 de 1995. El nuevo texto es el siguiente:> La importación temporal de maquinaria pesada para industrias básicas, siempre y cuando dicha maquinaria no se produzca en el país. Se consideran industrias básicas las de minería, hidrocarburos, química pesada, siderurgia, metalurgia extractiva, generación y transmisión de energía eléctrica y obtención, purificación y conducción de óxido de hidrógeno. El concepto de maquinaria pesada incluye todos los elementos complementarios o accesorios del equipo principal. 
 
@@ -6554,17 +7102,17 @@ c. <Literal modificado por el artículo 25 de la Ley 6 de 1992. El nuevo texto e
 
 d. Los importadores. 
 
-e. <Ver Notas del Editor sobre la vigencia de este literal> <Literal adicionado por el artículo 7 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Los contribuyentes pertenecientes al régimen común del impuesto sobre las ventas, cuando realicen compras o adquieran servicios gravados con personas pertenecientes al régimen simplificado, por el valor del impuesto retenido, sobre dichas transacciones. 
+e. <Literal adicionado por el artículo 7 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Los contribuyentes pertenecientes al régimen común del impuesto sobre las ventas, cuando realicen compras o adquieran servicios gravados con personas pertenecientes al régimen simplificado, por el valor del impuesto retenido, sobre dichas transacciones. 
 
-f. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Literal adicionado por el artículo 37 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Los contribuyentes pertenecientes al régimen común* <régimen de responsabilidad> del Impuesto sobre las Ventas, por el impuesto causado en la compra o adquisición de los bienes y servicios gravados relacionados en el artículo 468-1, cuando estos sean enajenados o prestados por personas naturales no comerciantes que no se hayan inscrito en el régimen común* <régimen de responsabilidad del impuesto sobre las ventas. 
+f. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Literal adicionado por el artículo 37 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Los contribuyentes pertenecientes al [TACHADO: régimen común*] <régimen de responsabilidad> del Impuesto sobre las Ventas, por el impuesto causado en la compra o adquisición de los bienes y servicios gravados relacionados en el artículo 468-1, cuando estos sean enajenados o prestados por personas naturales no comerciantes que no se hayan inscrito en el [TACHADO: régimen común*] <régimen de responsabilidad del impuesto sobre las ventas. 
 
-El impuesto causado en estas operaciones será asumido por el comprador o adquirente del régimen común* <régimen de responsabilidad del impuesto sobre las ventas>, y deberá ser declarado y consignado en el mes correspondiente a la fecha del pago o abono en cuenta. El impuesto retenido podrá ser tratado como descontable en la forma prevista por los artículos 485, 485-1, 488 y 490 de este Estatuto. Sobre las operaciones previstas en este literal, cualquiera sea su cuantía, el adquirente emitirá al vendedor el documento equivalente a la factura, en los términos que señale el reglamento.
+El impuesto causado en estas operaciones será asumido por el comprador o adquirente del [TACHADO: régimen común]* <régimen de responsabilidad del impuesto sobre las ventas>, y deberá ser declarado y consignado en el mes correspondiente a la fecha del pago o abono en cuenta. El impuesto retenido podrá ser tratado como descontable en la forma prevista por los artículos 485, 485-1, 488 y 490 de este Estatuto. Sobre las operaciones previstas en este literal, cualquiera sea su cuantía, el adquirente emitirá al vendedor el documento equivalente a la factura, en los términos que señale el reglamento.
 
 <Inciso adicionado por el artículo 66 de la Ley 488 de 1998 con el siguiente texto:> Los consorcios y uniones temporales cuando en forma directa sean ellos quienes realicen actividades gravadas. 
 
 La responsabilidad se extiende también a la venta de bienes corporales muebles aunque no se enajenen dentro del giro ordinario del negocio, pero respecto de cuya adquisición o importación se hubiere generado derecho al descuento.
 
-PARAGRAFO. <Ver Notas del Editor> <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Parágrafo adicionado por el artículo 7 de la Ley 223 de 1995. El nuevo texto es el siguiente:> A las personas que pertenezcan al régimen simplificado**, que vendan bienes o presten servicios, les esta prohibido adicionar al precio suma alguna por concepto del impuesto sobre las ventas. Si lo hicieren, deberán cumplir íntegramente con las obligaciones predicables de quienes pertenecen al régimen común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>. 
+PARAGRAFO. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Parágrafo adicionado por el artículo 7 de la Ley 223 de 1995. El nuevo texto es el siguiente:> A las personas que pertenezcan al régimen simplificado**, que vendan bienes o presten servicios, les esta prohibido adicionar al precio suma alguna por concepto del impuesto sobre las ventas. Si lo hicieren, deberán cumplir íntegramente con las obligaciones predicables de quienes pertenecen al [TACHADO: régimen común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>. 
 
 PARÁGRAFO 2o. <Parágrafo adicionado por el artículo 178 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La Dirección de Impuestos y Aduanas Nacionales establecerá mediante resolución el procedimiento mediante el cual los prestadores de servicios desde el exterior cumplirán con sus obligaciones, entre ellas la de declarar y pagar, en su calidad de responsables cuando los servicios prestados se encuentren gravados.
 
@@ -6628,17 +7176,17 @@ La Nación, los departamentos, el distrito capital, y los distritos especiales, 
 
 2. <Numeral modificado por el artículo 49 de la Ley 488 de 1998. El nuevo texto es el siguiente:> Quienes se encuentren catalogados como grandes contribuyentes por la Dirección de Impuestos y Aduanas Nacionales, sean o no responsables del IVA, y los que mediante resolución de la DIAN se designen como agentes de retención en el impuesto sobre las ventas. 
 
-3. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral modificado por el artículo 180 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las personas del régimen común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, que contraten con personas o entidades sin residencia o domicilio en el país la prestación de servicios gravados en el territorio nacional, con relación a los mismos.
+3. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral modificado por el artículo 180 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las personas del [TACHADO: régimen común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, que contraten con personas o entidades sin residencia o domicilio en el país la prestación de servicios gravados en el territorio nacional, con relación a los mismos.
 
 4. <Numeral derogado por el artículo 376 de la Ley 1819 de 2016>
 
-5. <Ver Notas del Editor> <Numeral adicionado por el artículo 25 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Las entidades emisoras de tarjetas crédito y débito y sus asociaciones, en el momento del correspondiente pago o abono en cuenta a las personas o establecimientos afiliados. El valor del impuesto no hará parte de la base para determinar las comisiones percibidas por la utilización de las tarjetas débito y crédito. 
+5. <Numeral adicionado por el artículo 25 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Las entidades emisoras de tarjetas crédito y débito y sus asociaciones, en el momento del correspondiente pago o abono en cuenta a las personas o establecimientos afiliados. El valor del impuesto no hará parte de la base para determinar las comisiones percibidas por la utilización de las tarjetas débito y crédito. 
 
 Cuando los pagos o abonos en cuenta en favor de las personas o establecimientos afiliados a los sistemas de tarjetas de crédito o débito, se realicen por intermedio de las entidades adquirentes o pagadoras, la retención en la fuente deberá ser practicada por dichas entidades. 
 
 6. <Numeral adicionado por el artículo 93 de la Ley 788 de 2002. El nuevo texto es el siguiente:> La Unidad Administrativa de Aeronáutica Civil, por el 100% del impuesto sobre las ventas que se cause en la venta de aerodinos.
 
-7. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral adicionado por el artículo 13 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Los responsables del Régimen Común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)> proveedores de Sociedades de Comercialización Internacional cuando adquieran bienes corporales muebles o servicios gravados de personas que pertenezcan al Régimen Común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, distintos de los agentes de retención mencionados en los numerales 1 y 2, o cuando el pago se realice a través de sistemas de tarjeta débito o crédito, o a través de entidades financieras en los términos del artículo 376-1 de este Estatuto. 
+7. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral adicionado por el artículo 13 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Los responsables del [TACHADO: Régimen Común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)> proveedores de Sociedades de Comercialización Internacional cuando adquieran bienes corporales muebles o servicios gravados de personas que pertenezcan al [TACHADO: Régimen Común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, distintos de los agentes de retención mencionados en los numerales 1 y 2, o cuando el pago se realice a través de sistemas de tarjeta débito o crédito, o a través de entidades financieras en los términos del artículo 376-1 de este Estatuto. 
 
 8. <Numeral modificado por el artículo 6 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Las entidades emisoras de tarjetas crédito y débito, los vendedores de tarjetas prepago, los recaudadores de efectivo a cargo de terceros, y los demás que designe la Dirección de Impuestos y Aduanas Nacionales (DIAN) en el momento del correspondiente pago o abono en cuenta a los prestadores desde el exterior, de los siguientes servicios electrónicos o digitales, cuando el proveedor del servicio se acoja voluntariamente a este sistema alternativo de pago del impuesto: 
 
@@ -6675,19 +7223,7 @@ PARÁGRAFO TRANSITORIO. <Parágrafo adicionado por el artículo 180 de la Ley 18
 ## art:437-3 — RESPONSABILIDAD POR LA RETENCIÓN
 ubicacion: TITULO III. RESPONSABLES DEL IMPUESTO.
 
-Los agentes de retención del impuesto sobre las ventas responderán por las sumas que estén obligados a retener. Las sanciones impuestas al agente por el incumplimiento de sus deberes serán de su exclusiva responsabilidad. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Los agentes de retención del impuesto sobre las ventas responderán por las sumas que estén obligados a retener. Las sanciones impuestas al agente por el incumplimiento de sus deberes serán de su exclusiva responsabilidad.
 
 ## art:437-4 — RETENCIÓN DE IVA PARA VENTA DE CHATARRA Y OTROS BIENES
 ubicacion: TITULO III. RESPONSABLES DEL IMPUESTO.
@@ -6709,7 +7245,7 @@ PARÁGRAFO 4o. El Gobierno Nacional podrá extender este mecanismo a otros biene
 ## art:437-5 — RETENCIÓN DE IVA PARA VENTA DE TABACO
 ubicacion: TITULO III. RESPONSABLES DEL IMPUESTO.
 
-<Artículo adicionado por el artículo 44 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> El IVA causado en la venta de tabaco en rama o sin elaborar y desperdicios de tabaco identificados con la nomenclatura arancelaria andina 24.01, se generará cuando estos sean vendidos a la industria tabacalera por parte de productores pertenecientes al régimen común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>.
+<Artículo adicionado por el artículo 44 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> El IVA causado en la venta de tabaco en rama o sin elaborar y desperdicios de tabaco identificados con la nomenclatura arancelaria andina 24.01, se generará cuando estos sean vendidos a la industria tabacalera por parte de productores pertenecientes al [TACHADO: régimen común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>.
 
 El IVA generado de acuerdo con el inciso anterior será retenido en el 100% por la empresa tabacalera.
 
@@ -6892,12 +7428,12 @@ En el caso de la venta de vehículos usados adquiridos de propietarios para quie
 
 PARAGRAFO. <Parágrafo derogado por el artículo 198 de la Ley 1607 de 2012> 
 
-PARÁGRAFO 2o. <Parágrafo adicionado por el artículo 106 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Cuando se trate de la venta de salvamentos de vehículos automotores siniestrados por hurto e indemnizados por parte de las compañías de seguros generales, se presume que la base gravable es el setenta por ciento (70%) del valor de enajenación del bien
+PARÁGRAFO 2o. <Parágrafo adicionado por el artículo 106 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Cuando se trate de la venta de salvamentos de vehículos automotores siniestrados por hurto e indemnizados por parte de las compañías de seguros generales, se presume que la base gravable es el setenta por ciento (70%) del valor de enajenación del bien.
 
 ## art:458 — BASE GRAVABLE EN LOS RETIROS DE BIENES
 ubicacion: TITULO IV. LA BASE GRAVABLE.
 
-<Artículo modificado por el artículo 7 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> En los retiros a que se refiere el literal b) del artículo 421 del Estatuto Tributario, la base gravable será el valor comercial de los bienes.
+En los retiros a que se refiere el literal b) del artículo 421 del Estatuto Tributario, la base gravable será el valor comercial de los bienes.
 
 ## art:459 — BASE GRAVABLE EN LAS IMPORTACIONES
 ubicacion: TITULO IV. LA BASE GRAVABLE.
@@ -6930,7 +7466,7 @@ La base gravable en el servicio telefónico es la general, contemplada en el art
 ## art:462-1 — BASE GRAVABLE ESPECIAL
 ubicacion: TITULO IV. LA BASE GRAVABLE.
 
-<Artículo modificado por el artículo 46 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> Para los servicios integrales de aseo y cafetería, de vigilancia, autorizados por la Superintendencia de Vigilancia Privada, de servicios temporales prestados por empresas autorizadas por el Ministerio del Trabajo y en los prestados por las cooperativas y precooperativas de trabajo asociado en cuanto a mano de obra se refiere, vigiladas por la Superintendencia de Economía Solidaria o quien haga sus veces, a las cuales se les haya expedido resolución de registro por parte del Ministerio del Trabajo, de los regímenes de trabajo asociado, compensaciones y seguridad social, como también a los prestados por los sindicatos con personería jurídica vigente en desarrollo de contratos sindicales debidamente depositados ante el Ministerio de Trabajo, la tarifa será del 16%* en la parte correspondiente al AIU (Administración, Imprevistos y Utilidad), que no podrá ser inferior al diez por ciento (10%) del valor del contrato.
+Para los servicios integrales de aseo y cafetería, de vigilancia, autorizados por la Superintendencia de Vigilancia Privada, de servicios temporales prestados por empresas autorizadas por el Ministerio del Trabajo y en los prestados por las cooperativas y precooperativas de trabajo asociado en cuanto a mano de obra se refiere, vigiladas por la Superintendencia de Economía Solidaria o quien haga sus veces, a las cuales se les haya expedido resolución de registro por parte del Ministerio del Trabajo, de los regímenes de trabajo asociado, compensaciones y seguridad social, como también a los prestados por los sindicatos con personería jurídica vigente en desarrollo de contratos sindicales debidamente depositados ante el Ministerio de Trabajo, la tarifa será del 16%* en la parte correspondiente al AIU (Administración, Imprevistos y Utilidad), que no podrá ser inferior al diez por ciento (10%) del valor del contrato.
 
 Para efectos de lo previsto en este artículo, el contribuyente deberá haber cumplido con todas las obligaciones laborales, o de compensaciones si se trata de cooperativas, precooperativas de trabajo asociado o sindicatos en desarrollo del contrato sindical y las atinentes a la seguridad social.
 
@@ -6962,19 +7498,7 @@ Con el fin de evitar que se declaren operaciones por precios notoriamente inferi
 ## art:465 — COMPETENCIA PARA FIJAR PRECIOS
 ubicacion: TITULO IV. LA BASE GRAVABLE.
 
-<Artículo modificado por el artículo 172 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> El Ministerio de Minas y Energía señalará los precios de los productos refinados derivados del petróleo y del gas natural para los efectos de liquidar el impuesto sobre las ventas, exceptuados la gasolina y el ACPM, que se encuentran excluidos de este impuesto.
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El Ministerio de Minas y Energía señalará los precios de los productos refinados derivados del petróleo y del gas natural para los efectos de liquidar el impuesto sobre las ventas, exceptuados la gasolina y el ACPM, que se encuentran excluidos de este impuesto.
 
 ## art:466 — BASE GRAVABLE EN LA VENTA DE GASOLINA MOTOR
 ubicacion: TITULO IV. LA BASE GRAVABLE.
@@ -7089,12 +7613,12 @@ Los siguientes bienes están gravados con la tarifa del cinco por ciento (5%):
 85.04Cargadores de baterías de vehículos eléctricos, híbridos e híbridos enchufables, motocicletas eléctricas y bicicletas eléctricas incluso aquéllos que vienen incluidos en los vehículos, los de carga rápida (electrolineras) y los de recarga domiciliaria.
 85.04Inversores de carga eléctrica para uso en vehículos eléctricos, híbridos e híbridos enchufables.
 87.02Vehículos eléctricos, híbridos e híbridos enchufables para el transporte de 10 o más personas, incluido el conductor.
-87.03Vehículos eléctricos, híbridos e híbridos enchufables concebidos principalmente para el transporte de personas (excepto la partida 87.02), incluidos los vehículos de tipo familiar ("break" o station wagon) y los de carreras.
+87.03Vehículos eléctricos, híbridos e híbridos enchufables concebidos principalmente para el transporte de personas (excepto la partida 87.02), incluidos los vehículos de tipo familiar ("break" o station wagon) y los de carreras[TACHADO: .]
 87.04Vehículos automóviles eléctricos, híbridos e híbridos enchufables para el transporte de mercancías.
 87.05Vehículos automóviles eléctricos, híbridos e híbridos enchufables para usos especiales excepto los concebidos principalmente para el transporte de personas o mercancías.
 87.06Chasis de vehículos automotores eléctricos de las partidas 87.02 y 87.03, únicamente para los de transporte público.
 87.07Carrocerías de vehículos automotores eléctricos de las partidas 87.02 y 87.03, incluidas las cabinas, únicamente para los de transporte público.
-87.11<Ver Notas de Vigencia> <Partida modificada por el artículo 9 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Motocicletas eléctricas (incluidos los ciclomotores) cuyo valor exceda de 50 UVT.
+87.11 <Partida modificada por el artículo 9 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Motocicletas eléctricas (incluidos los ciclomotores) cuyo valor exceda de 50 UVT.
 87.12<Partida modificada por el artículo 9 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Bicicletas y Bicicletas eléctricas (incluidos los triciclos de reparto) cuyo valor exceda de 50 UVT.
 89.01Transbordadores, cargueros, gabarras (barcazas) y barcos similares para transporte de personas o mercancías.
 89.04Remolcadores y barcos empujadores.
@@ -7102,7 +7626,7 @@ Los siguientes bienes están gravados con la tarifa del cinco por ciento (5%):
 90.25.90.00.00Partes y accesorios surtidores (repuestos), componentes del plan de gas vehicular.
 90.31Unidades de control para motores eléctricos de uso en vehículos eléctricos, híbridos e híbridos enchufables.
 90.32Unidades de control de las baterías y del sistema de enfriamiento de las baterías para uso en vehículos eléctricos, híbridos e híbridos enchufables.
-96.19Compresas y tampones higiénicos. <INEXEQUIBLE> 
+[TACHADO: 96.19][TACHADO: Compresas y tampones higiénicos.] <INEXEQUIBLE> 
 
 Adicionalmente:
 
@@ -7118,7 +7642,7 @@ A la base gravable determinada de conformidad con el artículo 467 del Estatuto 
 
 5. <Numeral adicionado por el artículo 12 del Decreto Legislativo 575 de 2020. El nuevo texto es el siguiente:> La gasolina de aviación Jet A1 y/o gasolina de aviación 100/130 nacionales.
 
-PARÁGRAFO TRANSITORIO. <Ver Notas del Editor> Estará excluida la venta de las unidades de vivienda nueva a que hace referencia el numeral 1 siempre y cuando se haya suscrito contrato de preventa, documento de separación, encargo de preventa, promesa de compraventa, documento de vinculación al fideicomiso y/o escritura de compraventa antes del 31 de diciembre del 2017, certificado por notario público.
+PARÁGRAFO TRANSITORIO. Estará excluida la venta de las unidades de vivienda nueva a que hace referencia el numeral 1 siempre y cuando se haya suscrito contrato de preventa, documento de separación, encargo de preventa, promesa de compraventa, documento de vinculación al fideicomiso y/o escritura de compraventa antes del 31 de diciembre del 2017, certificado por notario público.
 
 PARÁGRAFO TRANSITORIO 2o. <Parágrafo adicionado por el artículo 74 de Ley 1955 de 2019. El nuevo texto es el siguiente:> Para efectos del numeral 4 de este artículo, el exceso de impuesto descontable por la diferencia de tarifa será un mayor valor del costo o gasto hasta el 31 de diciembre de 2021. El exceso de impuesto descontable por la diferencia de tarifa, generado a partir del 1 de enero de 2022 por la venta de productos del numeral 4 de este artículo, se regirá por lo establecido en el parágrafo del artículo 485 de este Estatuto.
 
@@ -7181,7 +7705,7 @@ ubicacion: TITULO V. TARIFAS.
 ## art:475 — BASE GRAVABLE PARA LAS CERVEZAS DE PRODUCCIÓN NACIONAL E IMPORTADAS
 ubicacion: TITULO V. TARIFAS.
 
-<Artículo modificado por el artículo 10 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> En todos los casos, la base gravable del impuesto sobre las ventas (IVA) está constituida por el precio de venta menos el impuesto al consumo de cervezas, sifones y refajos de que trata el artículo 185 y siguientes de la Ley 223 de 1995 o las leyes que lo modifiquen o sustituyan.
+En todos los casos, la base gravable del impuesto sobre las ventas (IVA) está constituida por el precio de venta menos el impuesto al consumo de cervezas, sifones y refajos de que trata el artículo 185 y siguientes de la Ley 223 de 1995 o las leyes que lo modifiquen o sustituyan.
 
 ## art:476 — SERVICIOS EXCLUIDOS DEL IMPUESTO SOBRE LAS VENTAS -IVA
 ubicacion: TITULO V. TARIFAS.
@@ -7322,7 +7846,7 @@ Los seguros tomados en el exterior, para amparar riesgos de transporte, barcos, 
 Cuando en el país en el que se tome el seguro, el servicio se encuentre gravado con el impuesto sobre las ventas a una tarifa inferior a la indicada en el inciso anterior, se causará el impuesto con la tarifa equivalente a la diferencia entre la aplicable en Colombia y la del correspondiente país. Los seguros de casco, accidentes y responsabilidad a terceros, de naves o aeronaves destinadas al transporte internacional de mercancías y aquellos que se contraten por el Fondo de Solidaridad y Garantía creado por la Ley 100 de 1993 tomados en el país o en el exterior, no estarán gravados con el impuesto sobre las ventas.
 
 ## art:477 — BIENES QUE SE ENCUENTRAN EXENTOS DEL IMPUESTO
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
 Están exentos del impuesto sobre las ventas, con derecho a compensación y devolución, los siguientes bienes:
 
@@ -7433,7 +7957,7 @@ La segunda, podrá solicitarse una vez presentada la declaración correspondient
 
 La totalidad de las devoluciones que no hayan sido solicitadas según lo dispuesto en este parágrafo, se regirán por los artículos 815, 816, 850 y 855 de este Estatuto.
 
-PARÁGRAFO 4o. <Ver Notas de Vigencia> <Parágrafo modificado por el artículo 12 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Para la aplicación de la exención a que se refieren los numerales 4 y 5 de este artículo, los vehículos automotores completos nuevos o el que se conforme por el chasis con motor o carrocería adquiridos individualmente, deberán destinarse para el respectivo servicio, público o particular según el caso, en el cual se encontraba registrado el vehículo objeto de reposición, para lo cual deberán cumplir los procedimientos que para el efecto fijen los Ministerios de Transporte y Hacienda y Crédito Público para la aplicación de dicho beneficio. Los beneficiarios de esta exención deberán mantener los bienes de que tratan los numerales 4 y 5 del artículo 477 del Estatuto Tributario como activo fijo y su incumplimiento dará lugar al pago del impuesto sobre las ventas correspondiente. 
+PARÁGRAFO 4o. <Parágrafo modificado por el artículo 12 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Para la aplicación de la exención a que se refieren los numerales 4 y 5 de este artículo, los vehículos automotores completos nuevos o el que se conforme por el chasis con motor o carrocería adquiridos individualmente, deberán destinarse para el respectivo servicio, público o particular según el caso, en el cual se encontraba registrado el vehículo objeto de reposición, para lo cual deberán cumplir los procedimientos que para el efecto fijen los Ministerios de Transporte y Hacienda y Crédito Público para la aplicación de dicho beneficio. Los beneficiarios de esta exención deberán mantener los bienes de que tratan los numerales 4 y 5 del artículo 477 del Estatuto Tributario como activo fijo y su incumplimiento dará lugar al pago del impuesto sobre las ventas correspondiente. 
 
 Cuando el vendedor de los bienes de que tratan los numerales 4 y 5 de este artículo, responsable del impuesto sobre las ventas sea un comercializador, podrá aplicar el procedimiento de devolución y/o compensación previsto en el artículo 850 del Estatuto Tributario, según corresponda. 
 
@@ -7444,9 +7968,9 @@ PARÁGRAFO TRANSITORIO. <Parágrafo INEXEQUIBLE>
 BIENES EXENTOS POR SU DESTINACIÓN O USO
 
 ## art:478 — LIBROS, REVISTAS, OBRAS Y ELEMENTOS MUSICALES EXENTOS
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
-<Artículo modificado por el artículo 6 de la Ley 2615 de 2026. El nuevo texto es el siguiente:> Están exentos del impuesto sobre las ventas los libros y revistas de carácter científico y cultural, según calificación que hará el Gobierno nacional.
+Están exentos del impuesto sobre las ventas los libros y revistas de carácter científico y cultural, según calificación que hará el Gobierno nacional.
 
 Con el fin de estimular la creación, circulación y preservación del patrimonio cultural musical del país, se entenderán igualmente exentas las obras musicales, incluidas las composiciones, partituras, arreglos, fonogramas originales y demás expresiones creativas musicales, en formato físico o digital, por considerarse productos culturales equiparables a los libros y revistas.
 
@@ -7457,12 +7981,12 @@ Igualmente, quedan excluidos de este impuesto las materias primas, insumos, part
 PARÁGRAFO. Las erogaciones derivadas de la aplicación de la presente ley deben sujetarse a las disponibilidades existentes tanto en el Marco Fiscal de Mediano Plazo y en el Marco de Gasto de Mediano Plazo, de los sectores responsables de su cumplimiento.
 
 ## art:479 — LOS BIENES QUE SE EXPORTEN SON EXENTOS
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
 También se encuentran exentos del impuesto, los bienes corporales muebles que se exporten; (el servicio de reencauche y los servicios de reparación a las embarcaciones marítimas y a los aerodinos, de bandera o matrícula extranjera), y la venta en el país de bienes de exportación a sociedades de comercialización internacional siempre que hayan de ser efectivamente exportados.
 
 ## art:480 — BIENES DONADOS EXENTOS DEL IMPUESTO SOBRE LAS VENTAS
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
 Estarán excluidos del impuesto sobre las ventas las importaciones de bienes y equipos destinados al deporte, a la salud, a la investigación científica y tecnológica, y a la educación, donados a favor de entidades oficiales o sin ánimo de lucro, por personas o entidades nacionales o por entidades, personas o gobiernos extranjeros, siempre y cuando obtengan calificación favorable en el comité previsto en el artículo 362. Así mismo, estarán excluidas del impuesto las importaciones de los bienes y equipos para la seguridad nacional con destino a la Fuerza Pública. 
 
@@ -7471,7 +7995,7 @@ También está excluida del impuesto sobre las ventas, la importación de bienes
 PARAGRAFO. <Parágrafo adicionado por el artículo 112 de la Ley 633 de 2000. El nuevo texto es el siguiente:> La calificación de que trata este artículo, no se aplicará para las Entidades Oficiales.
 
 ## art:481 — BIENES EXENTOS CON DERECHO A DEVOLUCIÓN BIMESTRAL
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
 Para efectos del impuesto sobre las ventas, únicamente conservarán la calidad de bienes y servicios exentos con derecho a devolución bimestral:
 
@@ -7498,18 +8022,18 @@ Para los fines previstos en este numeral, se tendrá en cuenta lo previsto en el
 PARÁGRAFO. Sin perjuicio de lo establecido en el literal c) de este artículo, se entenderá que existe una exportación de servicios en los casos de servicios relacionados con la producción de obras de cine, televisión, audiovisuales de cualquier género y con el desarrollo de software, que estén protegidos por el derecho de autor, y que una vez exportados sean difundidos desde el exterior por el beneficiario de los mismos en el mercado internacional y a ellos se pueda acceder desde Colombia por cualquier medio tecnológico.
 
 ## art:482 — LAS PERSONAS EXENTAS POR LEY DE OTROS IMPUESTOS NO LO ESTAN DEL IMPUESTO SOBRE LAS VENTAS
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
 Las personas declaradas por ley exentas de pagar impuestos nacionales, departamentales o municipales, no están exentas del impuesto sobre las ventas.
 
 ## art:482-1 — LIMITACIÓN A LAS EXENCIONES Y EXCLUSIONES EN IMPORTACIÓN DE BIENES
-ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigen
+ubicacion: TITULO VI. BIENES EXENTOS. <Consultar normativa que establece exenciones temporales a otros bienes y servicios en Notas de Vigenc
 
 No podrá aplicarse exención ni exclusión del IVA en las importaciones de bienes, cuando tengan producción nacional y se encuentren gravados con el impuesto sobre las ventas. 
 
 Cuando en cualquier caso se requiera certificación de la no existencia de producción nacional, para que no se cause el impuesto sobre las ventas en las importaciones, dicha certificación deberá expedirse por parte del Incomex*. 
 
-PARAGRAFO. <Ver Notas del Editor> La limitación prevista en el primer inciso de este artículo no será aplicable a las empresas determinadas en el Decreto 1264 de 1994**, ni a las importaciones que al amparo del Convenio de Cooperación Aduanera Colombo Peruano (CCACP) ingresan al departamento del Amazonas, de conformidad con el artículo 27 de la Ley 191 de 1995*, ni a las importaciones de que tratan los literales b) y d) del artículo 428 del Estatuto Tributario.
+PARAGRAFO. La limitación prevista en el primer inciso de este artículo no será aplicable a las empresas determinadas en el Decreto 1264 de 1994**, ni a las importaciones que al amparo del Convenio de Cooperación Aduanera Colombo Peruano (CCACP) ingresan al departamento del Amazonas, de conformidad con el artículo 27 de la Ley 191 de 1995*, ni a las importaciones de que tratan los literales b) y d) del artículo 428 del Estatuto Tributario.
 
 ## art:483 — DETERMINACIÓN DEL IMPUESTO PARA LOS RESPONSABLES DEL REGIMEN COMUN
 ubicacion: TITULO VII. DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN.
@@ -7603,19 +8127,7 @@ En los casos de revocación unilateral del contrato, habrá lugar al descuento d
 ## art:488 — SOLO SON DESCONTABLES LOS IMPUESTOS ORIGINADOS EN OPERACIONES QUE CONSTITUYAN COSTO O GASTO
 ubicacion: TITULO VII. DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN.
 
-Sólo otorga derecho a descuento, el impuesto sobre las ventas por las adquisiciones de bienes corporales muebles y servicios, y por las importaciones que, de acuerdo con las disposiciones del impuesto a la renta, resulten computables como costo o gasto de la empresa y que se destinen a las operaciones gravadas con el impuesto sobre las ventas. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Sólo otorga derecho a descuento, el impuesto sobre las ventas por las adquisiciones de bienes corporales muebles y servicios, y por las importaciones que, de acuerdo con las disposiciones del impuesto a la renta, resulten computables como costo o gasto de la empresa y que se destinen a las operaciones gravadas con el impuesto sobre las ventas.
 
 ## art:489 — IMPUESTOS DESCONTABLES SUSCEPTIBLES DE DEVOLUCIÓN BIMESTRAL DE IMPUESTOS
 ubicacion: TITULO VII. DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN.
@@ -7762,9 +8274,12 @@ ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOB
 
 3. Quienes pagan bienes o servicios reportan la existencia de operaciones que son iguales o superan las 3.500 UVT, mediante el sistema de factura electrónica emitida por el contratista cuando realiza operaciones con no responsables. 
 
-La decisión anterior será notificada al responsable, detallando la información objetiva que lleva a tomar la decisión. Contra la misma no procede recurso alguno y a partir del bimestre siguiente ingresará al nuevo régimen. 
+La decisión anterior será notificada al responsable, detallando la información objetiva que lleva a tomar la decisión. Contra la misma no procede recurso alguno y a partir del bimestre siguiente ingresará al nuevo régimen.
 
-ARTÍCULO 508-2. TRÁNSITO A LA CONDICIÓN DE RESPONSABLES DEL IMPUESTO. <Artículo modificado por el artículo 17 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los no responsables del impuesto sobre las ventas (IVA) pasarán a ser responsables a partir de la iniciación del período inmediatamente siguiente a aquel en el cual dejen de cumplir los requisitos establecidos en el parágrafo 3 del artículo 437 de este Estatuto, salvo lo previsto en el inciso 2 de dicho parágrafo, en cuyo caso deberán inscribirse previamente a la celebración del contrato correspondiente.
+## art:508-2 — TRÁNSITO A LA CONDICIÓN DE RESPONSABLES DEL IMPUESTO
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+Los no responsables del impuesto sobre las ventas (IVA) pasarán a ser responsables a partir de la iniciación del período inmediatamente siguiente a aquel en el cual dejen de cumplir los requisitos establecidos en el parágrafo 3 del artículo 437 de este Estatuto, salvo lo previsto en el inciso 2 de dicho parágrafo, en cuyo caso deberán inscribirse previamente a la celebración del contrato correspondiente.
 
 ## art:509 — OBLIGACIÓN DE LLEVAR REGISTRO AUXILIAR Y CUENTA CORRIENTE PARA RESPONSABLES DEL REGIMEN COMUN
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
@@ -7791,7 +8306,7 @@ Los agentes de retención del impuesto sobre las ventas, deberán llevar una cue
 ## art:511 — DISCRIMINACIÓN DEL IMPUESTO EN LA FACTURA
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
-Los responsables del impuesto sobre las ventas deberán entregar factura o documento equivalente por todas las operaciones que realicen y sólo deberán discriminar el impuesto en los casos contemplados en el artículo 618.
+Los responsables del impuesto sobre las ventas deberán entregar factura o documento equivalente por todas las operaciones que realicen [TACHADO: y sólo deberán discriminar el impuesto en los casos contemplados en el artículo 618].
 
 ## art:512 — NORMAS APLICABLES A LAS CERVEZAS DE PRODUCCIÓN NACIONAL
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
@@ -7807,7 +8322,7 @@ El impuesto nacional al consumo tiene como hecho generador la prestación o la v
 
 2. Las ventas de algunos bienes corporales muebles, de producción domestica o importados, según lo dispuesto en los artículos 512-3, 512-4 y 512-5 de este Estatuto. El impuesto al consumo no se aplicará a las ventas de los bienes mencionados en los artículos 512-3 y 512-4 si son activos fijos para el vendedor, salvo de que se trate de los automotores y demás activos fijos que se vendan a nombre y por cuenta de terceros y para los aerodinos.
 
-3. <Ver Jurisprudencia Vigencia en relación con el condicionamiento al aparte subrayado> <Numeral modificado por el artículo 27 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El servicio de expendio de comidas y bebidas preparadas en restaurantes, cafeterías, autoservicios, heladerías, fruterías, pastelerías y panaderías para consumo en el lugar, para ser llevadas por el comprador o entregadas a domicilio, los servicios de alimentación bajo contrato, incluyendo el servicio de catering, y el servicio de expendio de comidas y bebidas alcohólicas para consumo dentro de bares, tabernas y discotecas, según lo dispuesto en los artículos 426, 512-8, 512-9, 512-10, 512-11, 512-12 y 512-13 de este Estatuto. Este impuesto no es aplicable a las actividades de expendio de bebidas y comidas bajo franquicias. 
+3. <Numeral modificado por el artículo 27 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El servicio de expendio de comidas y bebidas preparadas en restaurantes, cafeterías, autoservicios, heladerías, fruterías, pastelerías y panaderías para consumo en el lugar, para ser llevadas por el comprador o entregadas a domicilio, los servicios de alimentación bajo contrato, incluyendo el servicio de catering, y el servicio de expendio de comidas y bebidas alcohólicas para consumo dentro de bares, tabernas y discotecas, según lo dispuesto en los artículos 426, 512-8, 512-9, 512-10, 512-11, 512-12 y 512-13 de este Estatuto. Este impuesto no es aplicable a las actividades de expendio de bebidas y comidas bajo franquicias. 
 
 4. <Numeral adicionado, durante la vigencia fiscal 2026, por el artículo 1 del Decreto Legislativo 240 de 2026. El nuevo texto es el siguiente:> La prestación de los servicios de juegos de suerte y azar operados exclusivamente por internet. Para el efecto, el hecho generador será el depósito en dinero, entendido como el pago en efectivo o las transferencias de dinero o criptoactivos realizado por cada usuario apostador al operador de juegos de suerte y azar operados exclusivamente por internet, en el territorio nacional o desde el exterior, para ser abonados en su cuenta de usuario y obtener el derecho a apostar, a partir de la aplicación de este decreto. En consecuencia, serán responsables del impuesto al consumo por este concepto quienes operen juegos de suerte y azar por internet.
 
@@ -7829,9 +8344,12 @@ Cuando se inicien actividades durante el ejercicio, el período gravable será e
 
 PARÁGRAFO 2o. Facúltese al Gobierno nacional para realizar las incorporaciones y sustituciones al Presupuesto General de la Nación que sean necesarias para adecuar las rentas y apropiaciones presupuestales a lo dispuesto en el presente artículo, sin que con ello se modifique el monto total aprobado por el Congreso de la República.
 
-PARÁGRAFO 3o. <Ver Notas del Editor> Excluir del Impuesto Nacional al Consumo al departamento del Amazonas y al Archipiélago de San Andrés, Providencia y Santa Catalina, con excepción de lo dispuesto en el artículo 512-7 del Estatuto Tributario.
+PARÁGRAFO 3o. Excluir del Impuesto Nacional al Consumo al departamento del Amazonas y al Archipiélago de San Andrés, Providencia y Santa Catalina, con excepción de lo dispuesto en el artículo 512-7 del Estatuto Tributario.
 
-ARTÍCULO 512-2. BASE GRAVABLE Y TARIFA EN LOS SERVICIOS DE TELEFONÍA, DATOS Y NAVEGACIÓN MÓVIL. <Artículo modificado por el artículo 201 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Los servicios de telefonía, datos, internet y navegación móvil estarán gravados con la tarifa del cuatro por ciento (4%) sobre la totalidad del servicio, sin incluir el impuesto sobre las ventas. 
+## art:512-2 — BASE GRAVABLE Y TARIFA EN LOS SERVICIOS DE TELEFONÍA, DATOS Y NAVEGACIÓN MÓVIL
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+Los servicios de telefonía, datos, internet y navegación móvil estarán gravados con la tarifa del cuatro por ciento (4%) sobre la totalidad del servicio, sin incluir el impuesto sobre las ventas. 
 
 Para la porción correspondiente a los servicios de datos, internet y navegación móvil se gravará solo el monto que exceda de uno punto cinco (1.5) UVT mensual.
 
@@ -7941,31 +8459,19 @@ PARÁGRAFO. <Parágrafo adicionado por el artículo 204 de la Ley 1819 de 2016. 
 
 El impuesto departamental contenido en la Ley 47 de 1993 mantendrá su destino a la Isla de San Andrés.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:512-8 — DEFINICIÓN DE RESTAURANTES
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
 Para los efectos del numeral tercero del artículo 512-1 de este Estatuto, se entiende por restaurantes, aquellos establecimientos cuyo objeto es el servicio de suministro de comidas y bebidas destinadas al consumo como desayuno, almuerzo o cena, y el de platos fríos y calientes para refrigerio rápido, sin tener en cuenta la hora en que se preste el servicio, independientemente de la denominación que se le dé al establecimiento. También se considera que presta el servicio de restaurante el establecimiento que en forma exclusiva se dedica al expendio de aquellas comidas propias de cafeterías, heladerías, fruterías, pastelerías y panaderías y los establecimientos, que adicionalmente a otras actividades comerciales presten el servicio de expendio de comidas según lo descrito en el presente inciso.
 
-PARÁGRAFO. <Ver Notas del Editor> <Parágrafo modificado por el artículo 160 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los servicios de restaurante y cafetería prestados por los establecimientos de educación conforme con lo establecido en el artículo 476 de este Estatuto; estarán excluidos del impuesto al consumo.
+PARÁGRAFO. <Parágrafo modificado por el artículo 160 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los servicios de restaurante y cafetería prestados por los establecimientos de educación conforme con lo establecido en el artículo 476 de este Estatuto; estarán excluidos del impuesto al consumo.
 
 ## art:512-9 — BASE GRAVABLE Y TARIFA EN EL SERVICIO DE RESTAURANTES
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
 La base gravable en el servicio prestado por los restaurantes está conformada por el precio total de consumo, incluidas las bebidas acompañantes de todo tipo y demás valores adicionales. En ningún caso la propina, por ser voluntaria, hará parte de la base del impuesto nacional al consumo. Tampoco harán parte de la base gravable los alimentos excluidos del impuesto sobre las ventas que se vendan sin transformaciones o preparaciones adicionales.
 
-<Ver Notas de Vigencia> La tarifa aplicable al servicio es del ocho por ciento (8%) sobre todo consumo. El impuesto debe discriminarse en la cuenta de cobro, tiquete de registradora, factura o documento equivalente y deberá calcularse previamente e incluirse en la lista de precios al público, sin perjuicio de lo señalado en el artículo 618 de este Estatuto.
+ La tarifa aplicable al servicio es del ocho por ciento (8%) sobre todo consumo. El impuesto debe discriminarse en la cuenta de cobro, tiquete de registradora, factura o documento equivalente y deberá calcularse previamente e incluirse en la lista de precios al público, sin perjuicio de lo señalado en el artículo 618 de este Estatuto.
 
 PARÁGRAFO. <Parágrafo derogado por el artículo 376 de la Ley 1819 de 2016>
 
@@ -7984,13 +8490,16 @@ La tarifa aplicable al servicio es del ocho por ciento (8%) sobre todo consumo. 
 ## art:512-12 — ESTABLECIMIENTOS QUE PRESTAN EL SERVICIO DE RESTAURANTE Y EL DE BARES Y SIMILARES
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
-<Artículo adicionado por el artículo 82 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> Cuando dentro de un mismo establecimiento se presten independientemente y en recinto separado, el servicio de restaurante y el de bar, taberna o discoteca, se gravará como servicio integral a la tarifa del ocho por ciento (8%).
+Cuando dentro de un mismo establecimiento se presten independientemente y en recinto separado, el servicio de restaurante y el de bar, taberna o discoteca, se gravará como servicio integral a la tarifa del ocho por ciento (8%).
 
 Igual tratamiento se aplicará cuando el mismo establecimiento alterne la prestación de estos servicios en diferentes horarios.
 
 PARÁGRAFO. El servicio de restaurante y bar prestado en clubes sociales estará gravado con el impuesto nacional al consumo.
 
-ARTÍCULO 512-13. NO RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO DE RESTAURANTES Y BARES. <Artículo modificado por el artículo 28 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> No serán responsables del Impuesto Nacional al Consumo de restaurantes y bares a que hace referencia el numeral 3 del artículo 512-1 de este Estatuto, las personas naturales que cumplan la totalidad de las siguientes condiciones: 
+## art:512-13 — NO RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO DE RESTAURANTES Y BARES
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+No serán responsables del Impuesto Nacional al Consumo de restaurantes y bares a que hace referencia el numeral 3 del artículo 512-1 de este Estatuto, las personas naturales que cumplan la totalidad de las siguientes condiciones: 
 
 a) Que en el año anterior hubieren obtenido ingresos brutos totales, provenientes de la actividad, inferiores a 3.500 UVT; 
 
@@ -8004,15 +8513,19 @@ PARÁGRAFO 3o. Cuando los no responsables realicen operaciones con los responsab
 
 PARÁGRAFO 4o. Las medidas tendientes al control de la evasión y control tributario previstas en el parágrafo 3 del artículo 437 y el artículo 508-1 de este Estatuto serán aplicables al impuesto al consumo. 
 
-PARÁGRAFO 5o. <Parágrafo adicionado por el artículo 57 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Por el año 2022, no serán responsables del Impuesto Nacional al Consumo de restaurantes y bares a que hace referencia el numeral 3 del artículo 512-1 de este Estatuto, los contribuyentes del impuesto unificado bajo el Régimen Simple de Tributación - SIMPLE cuando únicamente desarrollen actividades de expendio de comidas y bebidas de las que trata el numeral 4 del artículo 908 del Estatuto Tributario. 
+PARÁGRAFO 5o. <Parágrafo adicionado por el artículo 57 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Por el año 2022, no serán responsables del Impuesto Nacional al Consumo de restaurantes y bares a que hace referencia el numeral 3 del artículo 512-1 de este Estatuto, los contribuyentes del impuesto unificado bajo el Régimen Simple de Tributación - SIMPLE cuando únicamente desarrollen actividades de expendio de comidas y bebidas de las que trata el numeral 4 del artículo 908 del Estatuto Tributario.
 
-ARTÍCULO 512-14. OBLIGACIONES DE LOS RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO. <Artículo adicionado por el artículo 206 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> 
+## art:512-14 — OBLIGACIONES DE LOS RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
-<Ver Notas de Vigencia> Los responsables del régimen simplificado del impuesto nacional al consumo deberán cumplir con las obligaciones señaladas en el artículo 506 de este Estatuto.
+Los responsables del régimen simplificado del impuesto nacional al consumo deberán cumplir con las obligaciones señaladas en el artículo 506 de este Estatuto.
 
-<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Por su parte, los responsables del régimen común del impuesto nacional al consumo deberán cumplir con las mismas obligaciones señaladas para para los responsables del régimen común* <régimen de responsabilidad> del impuesto sobre las ventas.
+<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Por su parte, los responsables del [TACHADO: régimen común] del impuesto nacional al consumo deberán cumplir con las mismas obligaciones señaladas para para los responsables del [TACHADO: régimen común*] <régimen de responsabilidad> del impuesto sobre las ventas.
 
-ARTÍCULO 512-15. IMPUESTO NACIONAL AL CONSUMO DE BOLSAS PLÁSTICAS. <Artículo adicionado por el artículo 207 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> A partir del 1o de julio de 2017, estará sujeto al impuesto nacional al consumo la entrega a cualquier título de bolsas plásticas cuya finalidad sea cargar o llevar productos enajenados por los establecimientos comerciales que las entreguen.
+## art:512-15 — IMPUESTO NACIONAL AL CONSUMO DE BOLSAS PLÁSTICAS
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+A partir del 1o de julio de 2017, estará sujeto al impuesto nacional al consumo la entrega a cualquier título de bolsas plásticas cuya finalidad sea cargar o llevar productos enajenados por los establecimientos comerciales que las entreguen.
 
 La tarifa del impuesto será la de la siguiente tabla: 
 
@@ -8025,7 +8538,7 @@ Las anteriores tarifas se actualizarán anualmente, en un porcentaje equivalente
 
 El sujeto pasivo del impuesto es la persona que opte por recibir bolsas plásticas cuya finalidad sea cargar o llevar los productos adquiridos en establecimientos (incluyendo domicilios).
 
-<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Son responsables de este impuesto las personas naturales o jurídicas que pertenezcan al régimen común de IVA* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>. 
+<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Son responsables de este impuesto las personas naturales o jurídicas que pertenezcan al [TACHADO: régimen común de IVA*] <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>. 
 
 Este impuesto no podrá tratarse como costo, deducción o impuesto descontable.
 
@@ -8035,7 +8548,7 @@ PARÁGRAFO 1o. La tarifa de las bolsas plásticas que ofrezcan soluciones ambien
 
 PARÁGRAFO 2o. El Gobierno nacional reglamentará y tomará medidas orientadas a mitigar el impacto ambiental de las bolsas plásticas importadas; así como evitar una competencia desleal de bolsas importadas o de contrabando.
 
-PARÁGRAFO 3o. <Ver Notas del Editor> Los sujetos pasivos del monotributo, podrán acogerse voluntariamente al impuesto. En este caso el monto del impuesto se entenderá incluido en la tarifa fija del monotributo.
+PARÁGRAFO 3o. Los sujetos pasivos del monotributo, podrán acogerse voluntariamente al impuesto. En este caso el monto del impuesto se entenderá incluido en la tarifa fija del monotributo.
 
 ## art:512-16 — BOLSAS PLÁSTICAS QUE NO CAUSAN EL IMPUESTO
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
@@ -8050,7 +8563,10 @@ No está sujeta a este impuesto la entrega de las siguientes bolsas plásticas:
 
 4. Las bolsas reutilizables que conforme a la reglamentación del Gobierno nacional posean unas características técnicas y mecánicas que permiten ser usadas varias veces, sin que para ello requieran procesos de transformación.
 
-ARTÍCULO 512-17. HECHO GENERADOR DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS. <Artículo adicionado por el artículo 209 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Estarán sujetas al impuesto nacional al consumo de cannabis, las ventas de productos transformados a partir de cannabis psicoactivo o no psicoactivo.
+## art:512-17 — HECHO GENERADOR DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+Estarán sujetas al impuesto nacional al consumo de cannabis, las ventas de productos transformados a partir de cannabis psicoactivo o no psicoactivo.
 
 Por cannabis se entienden las sumidades, floridas o con fruto, de la planta de cannabis (a excepción de las semillas y las hojas no unidad a las sumidades) de las cuales no se ha extraído la resina, cualquiera que sea el nombre con que se las designe. Se entiende por cannabis psicoactivo aquel cuyo contenido de tetrahidrocannabinol (THC) es igual o superior al límite que establezca el Gobierno nacional mediante la reglamentación correspondiente. 
 
@@ -8060,7 +8576,10 @@ PARÁGRAFO. Para los efectos del presente artículo, se consideran ventas, entre
 
 2. Los retiros o disminuciones de inventarios de productos transformados a partir de cannabis hechos por el responsable para su uso o para formar parte de los activos fijos de la empresa.
 
-ARTÍCULO 512-18. RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS. <Artículo adicionado por el artículo 210 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El impuesto nacional al consumo de cannabis estará a cargo del transformador. Se entenderá por transformador el comprador o productor de cannabis, psicoactivo o no psicoactivo, que somete el mismo a un proceso de transformación. 
+## art:512-18 — RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+El impuesto nacional al consumo de cannabis estará a cargo del transformador. Se entenderá por transformador el comprador o productor de cannabis, psicoactivo o no psicoactivo, que somete el mismo a un proceso de transformación. 
 
 PARÁGRAFO 1o. Por transformación se entiende cualquier proceso que implique cambiar de forma el cannabis; cualquier transmutación de las sumidades, floridas o con fruto, en cualquier otro producto; o la obtención de un derivado a través de cualquier proceso mecánico, físico, químico o biológico; ya sea del cannabis psicoactivo o del no psicoactivo. Dentro de estos derivados se incluyen, entre otros, aceites, resinas, tinturas, extractos, o materiales vegetales provenientes de las plantas de cannabis. 
 
@@ -8070,11 +8589,20 @@ PARÁGRAFO 3o. En cualquier caso, los titulares de la licencia de fabricación d
 
 PARÁGRAFO 4o. <Parágrafo adicionado por el artículo 29 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los recursos recaudados por concepto del impuesto nacional al consumo de cannabis se destinarán a la provisión de bienes y servicios públicos para el desarrollo rural de los proyectos vinculados al Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS).
 
-ARTÍCULO 512-19. BASE GRAVABLE DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS. <Artículo adicionado por el artículo 211 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La base gravable del impuesto nacional al consumo de cannabis es el valor total del producto final del transformador o responsable del impuesto, sin incluir el impuesto sobre las ventas. 
+## art:512-19 — BASE GRAVABLE DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
-ARTÍCULO 512-20. TARIFAS DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS. <Artículo adicionado por el artículo 212 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La tarifa del impuesto nacional al consumo de cannabis será del dieciséis por ciento 16%, del valor del producto final en cualquier de sus presentaciones. 
+La base gravable del impuesto nacional al consumo de cannabis es el valor total del producto final del transformador o responsable del impuesto, sin incluir el impuesto sobre las ventas.
 
-ARTÍCULO 512-21. CAUSACIÓN DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS. <Artículo adicionado por el artículo 213 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El impuesto nacional al consumo de cannabis se causa en la venta que realice el transformador, en la fecha de emisión de la factura o documento equivalente y a falta de estos, en el momento de la entrega, aunque se haya pactado reserva de dominio, pacto de retroventa o condición resolutoria. 
+## art:512-20 — TARIFAS DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+La tarifa del impuesto nacional al consumo de cannabis será del dieciséis por ciento 16%, del valor del producto final en cualquier de sus presentaciones.
+
+## art:512-21 — CAUSACIÓN DEL IMPUESTO NACIONAL AL CONSUMO DE CANNABIS
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+El impuesto nacional al consumo de cannabis se causa en la venta que realice el transformador, en la fecha de emisión de la factura o documento equivalente y a falta de estos, en el momento de la entrega, aunque se haya pactado reserva de dominio, pacto de retroventa o condición resolutoria. 
 
 PARÁGRAFO 1o. El impuesto nacional al consumo de cannabis constituye para el responsable un costo deducible del impuesto sobre la renta como mayor valor del bien.
 
@@ -8082,7 +8610,10 @@ PARÁGRAFO 2o. El impuesto nacional al consumo de cannabis no genera impuestos d
 
 PARÁGRAFO 3o. El impuesto nacional al consumo de cannabis deberá estar discriminado en la factura de venta, en el documento equivalente o en el documento que soporte la venta.
 
-ARTÍCULO 512-22. BASE GRAVABLE Y TARIFA DE LOS JUEGOS DE SUERTE Y AZAR OPERADOS EXCLUSIVAMENTE POR INTERNET. <Artículo adicionado, por el año 2026, por el artículo 2 del Decreto Legislativo 240 de 2026. El nuevo texto es el siguiente:> Los juegos de suerte y azar operados exclusivamente por internet estarán gravados con la tarifa del dieciséis por ciento (16%).
+## art:512-22 — BASE GRAVABLE Y TARIFA DE LOS JUEGOS DE SUERTE Y AZAR OPERADOS EXCLUSIVAMENTE POR INTERNET
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+<Artículo adicionado, por el año 2026, por el artículo 2 del Decreto Legislativo 240 de 2026. El nuevo texto es el siguiente:> Los juegos de suerte y azar operados exclusivamente por internet estarán gravados con la tarifa del dieciséis por ciento (16%).
 
 La base gravable estará constituida por los ingresos brutos del juego (GGR por sus siglas en inglés gross game revenue), entendidos como el total de las apuestas menos los premios pagados en el bimestre correspondiente.
 
@@ -8090,15 +8621,85 @@ PARÁGRAFO. La operación, explotación, provisión de servicios y contenidos, p
 
 Las entidades financieras, los proveedores de servicios de pago, las plataformas tecnológicas, los desarrolladores de software, los proveedores de contenido, los medios de comunicación y, en general, cualquier tercero que participe directa o indirectamente en la operación de dichos juegos, deberán abstenerse de prestar servicios a operadores no autorizados. El incumplimiento de lo dispuesto en el presente parágrafo dará lugar a la imposición de las sanciones previstas en el ordenamiento jurídico vigente por parte de las autoridades de vigilancia y control competentes, sin perjuicio de las demás acciones administrativas, contractuales y legales a que haya lugar.
 
-ARTÍCULO 512-22. IMPUESTO NACIONAL AL CONSUMO DE BIENES INMUEBLES. <Artículo INEXEQUIBLE>
+## art:512-22inexequible — IMPUESTO NACIONAL AL CONSUMO DE BIENES INMUEBLES
+ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
+
+<Artículo INEXEQUIBLE>
 
 ## art:513 — APLICACIÓN DE LAS NORMAS DE PROCEDIMIENTO GENERAL
 ubicacion: TITULO IX. PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS.
 
 Las normas de procedimiento contempladas en el Libro Quinto, son aplicables al impuesto sobre las ventas, en cuanto no sean incompatibles con las normas especiales sobre la materia.
 
+## art:513-1 — HECHO GENERADOR DEL IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO I. IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS.
+
+El hecho generador del impuesto a las bebidas ultraprocesadas azucaradas está constituido por: 
+
+1. En la producción la venta, el retiro de inventarios o los actos que impliquen la transferencia de dominio a título gratuito u oneroso. 
+
+2. La importación. 
+
+Estarán sujetas a este impuesto, en función de su nivel de azúcar añadido, las bebidas ultraprocesadas azucaradas, así como los concentrados, polvos y jarabes que, después de su mezcla o dilución permiten la obtención de bebidas azucaradas. 
+
+Se considera como bebida ultraprocesada azucarada la bebida líquida que no tenga un grado alcohólico volumétrico superior a cero coma cinco por ciento (0,5%) vol, y a la cual se le ha incorporado cualquier azúcar añadido. 
+
+En esta definición se incluyen bebidas gaseosas o carbonatadas, bebidas a base de malta, bebidas tipo té o café, bebidas a base de fruta en cualquier concentración, refrescos, zumos y néctares de fruta, bebidas energizantes, bebidas deportivas, refrescos, aguas saborizadas y mezclas en polvo. 
+
+Se consideran concentrados, polvos y Jarabes las esencias o extractos de sabores que permitan obtener bebidas saborizadas y los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos, así como las mezclas a base de harina, fécula, extracto de malta y almidón.
+
+Se consideran azúcares añadidos los monosacáridos y/o disacáridos que se adicionan durante el procesamiento de alimentos o se empaquetan como tales, e incluyen aquellos contenidos en los jarabes, en los concentrados de jugos de frutas o vegetales. No se considera azúcar añadido los edulcorantes sin aporte calórico. 
+
+Los bienes de las siguientes partidas y sub partidas estarán sujetos al presente impuesto en la medida en que contengan azúcares añadidos y se cumpla con lo previsto en los incisos anteriores: 
+
+Producto Partida o Subpartida arancelaria 
+Extracto de malta; preparaciones alimenticias de harina, grañones, sémola, almidón, fécula o extracto de malta, que no contengan cacao o con un contenido de cacao inferior al cuarenta por ciento (40%) en peso calculado sobre una base totalmente desgrasada, no expresadas ni comprendidas en otra parte; preparaciones alimenticias de productos de las partidas 04.01 a 04.04 que no contengan cacao o con un contenido de cacao inferior al cinco por ciento (5%) en peso calculado sobre una base totalmente desgrasada, no expresadas ni comprendidas en otra parte. 19.01. (excepto 19.01.90.20.00 y 19.01.20.00.00) 
+Jugos de frutas u otros frutos (incluido el mosto de uva y el agua de coco) o de hortaliza sin fermentar y sin adición de alcohol, incluso con adición de azúcar u otro edulcorante. 20.09 
+Mezclas en polvo de extractos, esencias y concentrados de café, té o yerba mate y preparaciones a base de estos productos o a base de café, té o yerba mate; achicoria tostada y demás sucedáneos del café tostados y sus extractos, esencias y concentrados. 21.01 
+Agua, incluidas el agua mineral y la gaseada, con adición de azúcar u otro edulcorante o aromatizada, y demás bebidas no alcohólicas, excepto los jugos de frutas u otros frutos o de hortalizas de la partida 20.09, excepto las aguas no saborizadas ni endulzadas. 22.02 
+Preparaciones compuestas cuyo grado alcohólico volumétrico sea inferior o igual al cero coma cinco por ciento (0,5%) vol, para la elaboración de bebidas. 2106.90.21.00 y 2106.90.29.00 
+PARÁGRAFO 1o. Se encuentran exentas del impuesto las siguientes bebidas azucaradas: 
+
+1. Las fórmulas infantiles. 
+
+2. Medicamentos con incorporación de azúcares adicionados. 
+
+3. Los productos líquidos o polvo para reconstituir cuyo propósito sea brindar terapia nutricional para personas que no pueden digerir, absorber y/o metabolizar los nutrientes provenientes de la ingesta de alimentos. 
+
+4. Alimentos líquidos y/o polvos para propósitos médicos especiales. 
+
+5. Soluciones de electrolitos para consumo oral diseñados para prevenir la deshidratación producto de una enfermedad. 
+
+PARÁGRAFO 2o. Para la fiscalización y recaudo de este impuesto, y con el objetivo de garantizar la consistencia entre el etiquetado y el contenido de azúcares añadidos de las bebidas sujetas al mismo, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) deberá atender lo establecido en las Resoluciones 5109 del 2005 y 810 del 2021, expedidas por el Ministerio de Salud y Protección Social, o la norma que las modifique, adicione o sustituya. 
+
+PARÁGRAFO 3o. Las bebidas ultraprocesadas azucaradas a las que se refiere este Artículo, no causarán este impuesto cuando sean exportados por el productor. 
+
+PARÁGRAFO 4o. Las operaciones anulada rescindidas o resueltas de los bienes gravados con el impuesto a las bebidas ultraprocesadas azucaradas, darán lugar a un menor valor a pagar del impuesto, sin que otorgue derecho a devolución. 
+
+PARÁGRAFO 5o. No constituye hecho generador del impuesto a las bebidas ultraprocesadas azucaradas, la donación por parte del productor o importador cuando se realice a los bancos de alimentos que se encuentren constituidos como entidades sin ánimo de lucro del Régimen Tributario Especial, o los bancos de alimentos que bajo la misma personería jurídica posea la iglesia o confesión religiosa reconocida por el Ministerio del Interior o por la ley. El tratamiento previsto en este parágrafo también será aplicable a las asociaciones de bancos de alimentos.
+
+## art:513-2 — RESPONSABLE DEL IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO I. IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS.
+
+El responsable del impuesto a las bebidas ultraprocesadas azucaradas será el productor y/o el importador, según el caso.
+
+No serán responsables de este impuesto, los productores personas naturales que en el año gravable anterior o en el año en curso hubieran obtenido ingresos brutos provenientes de las actividades gravadas con este impuesto, inferiores a diez mil (10.000) UVT. Cuando se supere esta cuantía, será responsable del impuesto a las bebidas ultraprocesadas azucaradas a partir del período gravable siguiente. 
+
+PARÁGRAFO. Para los efectos de este Artículo, la definición de productor será la establecida en el Artículo 440 de este Estatuto.
+
+## art:513-3 — BASE GRAVABLE DEL IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO I. IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS.
+
+La base gravable del impuesto a las bebidas ultraprocesadas azucaradas es el contenido en gramos (g) de azúcar por cada cíen mililitros (100 ml) de bebida, o su equivalente, producidas por el productor o importadas por el importador. 
+
+Tratándose de bienes importados, en la declaración de importación deberá informarse el contenido en gramos (g) de azúcar por cada cien mililitros (100 ml) de bebida, o su equivalente. 
+
+PARÁGRAFO 1o. La base gravable de los concentrados, polvos, mezclas y jarabes corresponde al contenido de azúcar en gramos (g) por cada cien mililitros (100 ml) de bebida, o su equivalente, que el empaque o envase certifique que pueden producirse mediante la respectiva mezcla o dilución. 
+
+PARÁGRAFO 2o. Los responsables del impuesto a las bebidas ultraprocesadas azucaradas deberán garantizar la veracidad del volumen de las bebidas que conforman la base gravable, ya sea cuando se trate de bebidas líquidas, o de concentrados, polvos o jarabes.
+
 ## art:513-4 — TARIFA DEL IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS
-ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO I. IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS. ARTÍCULO 513-1. HECHO GENERADOR DEL IMPUESTO A LAS BEBIDAS ULTRAPR
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO I. IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS.
 
 La tarifa del impuesto a las bebidas ultraprocesadas azucaradas se expresa en pesos por cien mililitros (100 ml) de bebida, y el valor unitario está en función del contenido de azúcar en gramos (g) por cada cien mililitros (100 ml) de bebida, así: 
 
@@ -8123,9 +8724,12 @@ Donde:
  IMP: Monto del impuesto aplicable a la bebida, en pesos. 
  Vol: Volumen de la bebida, expresado en mililitros (ml). 
  Tarifa: Tarifa del impuesto, según lo determinado en la tabla anterior. 
-PARÁGRAFO. A partir del año 2026, el valor de las tarifas establecidas para el año 2025 se ajustará cada primero (1) de enero en el mismo porcentaje en que se incremente la Unidad de Valor Tributario (UVT). La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) expedirá por medio de acto administrativo el porcentaje de incremento de la Unidad de Valor Tributario (UVT) y el valor de las tarifas actualizadas. 
+PARÁGRAFO. A partir del año 2026, el valor de las tarifas establecidas para el año 2025 se ajustará cada primero (1) de enero en el mismo porcentaje en que se incremente la Unidad de Valor Tributario (UVT). La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) expedirá por medio de acto administrativo el porcentaje de incremento de la Unidad de Valor Tributario (UVT) y el valor de las tarifas actualizadas.
 
-ARTÍCULO 513-5. CAUSACIÓN DEL IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS. <Artículo adicionado por el artículo 54 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> El impuesto a las bebidas ultraprocesadas azucaradas se causa así.
+## art:513-5 — CAUSACIÓN DEL IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO I. IMPUESTO A LAS BEBIDAS ULTRAPROCESADAS AZUCARADAS.
+
+El impuesto a las bebidas ultraprocesadas azucaradas se causa así.
 
 1. En la producción, la venta, retiro de inventario o transferencia a título gratuito u oneroso que realice el productor, en la fecha de emisión de la factura o documento equivalente y a falta de estos, en el momento de la entrega o retiro, aunque se haya pactado reserva de dominio, pacto de retroventa o condición resolutoria. 
 
@@ -8137,6 +8741,71 @@ PARÁGRAFO 2o. El impuesto a las bebidas ultraprocesadas azucaradas no genera im
 
 PARÁGRAFO 3o. El impuesto a las bebidas ultraprocesadas azucaradas deberá estar discriminado en la factura de venta, independientemente de la discriminación que del impuesto sobre las ventas (IVA) se haga en la misma.
 
+## art:513-6 — HECHO GENERADOR DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO II. IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO
+
+El hecho generador del impuesto a los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas está constituido por: 
+
+1. En la producción, la venta, el retiro de inventarios o los actos que impliquen la transferencia de dominio a título gratuito u oneroso. 
+
+2. La importación. 
+
+Estarán sujetos a este impuesto los productos comestibles ultraprocesados que como ingredientes se les haya adicionado azúcares, sal/sodio y/o grasas y su contenido en la tabla nutricional supere los siguientes valores: 
+
+Nutriente Por cada 100 g 
+Sodio > = 1 mg/kcal y/o > = 300 mg/100 g 
+Azúcares > = 10% del total de energía proveniente de azúcares libres 
+Grasas saturadas > = 10% del total de energía proveniente de grasas saturadas 
+Para calcular los porcentajes establecidos en la tabla se procederá de acuerdo con el parágrafo 1 del presente Artículo. 
+
+Los productos ultraprocesados son formulaciones industriales elaboradas a partir de sustancias derivadas de los alimentos o sintetizadas de otras fuentes orgánicas. Algunas sustancias empleadas para elaborar los productos Ultraprocesados, como grasas, aceites, almidones y azúcar, derivan directamente de alimentos. Otras se obtienen mediante el procesamiento adicional de ciertos componentes alimentarios, como la hidrogenación de los aceites (que genera grasas trans tóxicas), la hidrólisis de las proteínas y la "purificación" de los almidones. La gran mayoría de los ingredientes en la mayor parte de los productos ultraprocesados son aditivos (aglutinantes, cohesionantes, colorantes, edulcorantes, emulsificantes, espesantes, espumantes, estabilizadores, "mejoradores", sensoriales como aromatizantes y saborizantes, conservadores, saborizantes y solventes). 
+
+Los productos ultraprocesados son formulaciones industriales principalmente a base de sustancias extraídas o derivadas de alimentos, además de aditivos y cosméticos que dan color, sabor o textura para intentar imitar a los alimentos. Tienen un elevado contenido en azúcares añadidos, grasa total, grasas saturadas y sodio, y un bajo contenido en proteína, fibra alimentaria, minerales y vitaminas, en comparación con los productos, platos y comidas sin procesar o mínimamente procesados.
+
+Se entenderá por producto ultraprocesado que se les haya adicionado sal/sodio; aquellos a los que durante el proceso de elaboración se haya utilizado como ingrediente o aditivo cualquier sal o aditivo que contenga sodio o cualquier ingrediente que contenga sales de sodio agregadas. 
+
+Se entenderá por producto ultraprocesado que se les haya adicionado grasas; aquellos a los que durante el proceso de elaboración se haya utilizado como ingrediente grasas vegetales o animales, aceites vegetales parcialmente hidrogenados (manteca vegetal, crema vegetal o margarina) e ingredientes que los contengan agregados. 
+
+Se consideran azúcares añadidos los monosacáridos y/o disacáridos que se adicionan durante el procesamiento de alimentos o se empaquetan como tales, e incluyen aquellos contenidos en los jarabes, en los concentrados de jugos de frutas o vegetales. 
+
+Se entenderá por producto alimenticio procesado y/o ultraprocesado que se les haya adicionado azúcares; aquellos a los que durante el proceso de elaboración se les hayan añadido azúcares según la definición del inciso anterior. 
+
+Por lo tanto, los bienes de las siguientes partidas y sub partidas estarán sujetos al presente impuesto en la medida en que contengan sodio, azúcares o grasas saturadas, y se cumpla con lo previsto en los incisos anteriores: 
+
+Producto Partidas arancelarias 
+Productos constituidos por los componentes naturales de la leche, incluso con adición de azúcar u otro edulcorante, no expresados ni comprendidos en otra parte; [excepto el arequipe y/o dulce de leche]. 04.04.90.00.00 
+Embutidos y productos similares de carne, despojos, sangre o de insectos; preparaciones alimenticias a base de estos productos, [excepto salchichón, mortadela y butifarra.] 16.01 
+Las demás preparaciones y conservas de carne, despojos, sangre o de insectos. 16.02 
+[Artículos de confitería sin cacao (incluido el chocolate, blanco).] 17.04 
+
+Chocolate y demás preparaciones alimenticias que contengan cacao; 18.06 
+Mezclas y pastas para la preparación de productos de panadería, pastelería o galletería, de la partida 19.05. 19.01.20.00.00 
+Productos a base de cereales obtenidos por inflado o tostado (por ejemplo: hojuelas o copos de maíz); cereales (excepto el maíz) en grano o en forma de copos u otro grano trabajado (excepto la harina, grañones y sémola), precocidos o preparados de otro modo, no expresados ni comprendidos en otra parte. 19.04 
+Productos de panadería, pastelería o galletería, incluso con adición de cacao; hostias, sellos vacíos de los tipos utilizados para medicamentos, obleas para sellar, pastas secas de harina, almidón o fécula, en hojas, y productos similares. Excepto el pan y las obleas. 19.05 
+[Las demás hortalizas preparadas o conservadas (excepto en vinagre oen ácido acético), sin congelar, excepto los productos de la partida 20.06. ]20.05 
+Hortalizas, frutas u otros frutos o sus cortezas y demás partes de plantas, confitados con azúcar (almibarados, glaseados o escarchados). 20.06.00.00 
+Confituras, jaleas y mermeladas, purés y pastas de frutas u otros frutos, obtenidos por cocción incluso con adición de azúcar u otro edulcorante, excepto el bocadillo de guayaba. 20.07 
+Frutas u otros frutos y demás partes comestibles de plantas, preparados o conservados de otro modo, incluso con adición de azúcar u otro edulcorante o alcohol, no expresados ni comprendidos en otra parte 20.08 
+Preparaciones para salsas y salsas preparadas; condimentos y sazonadores compuestos; harina de mostaza y mostaza preparada. 21.03 
+Helados, incluso con cacao. 21.05 
+[Preparaciones alimenticias no expresadas ni comprendidas en otra parte]. [21.06 excepto (21.06.90.21.00 y 21.06.90.29.00) ]
+
+PARÁGRAFO 1o. para calcular los porcentajes establecidos en la tabla de que trata el inciso 2 del presente Artículo se deberá tener en cuenta lo siguiente: 
+
+a) Sodio: se toma cualquier cantidad de alimento, puede ser cien gramos (100 g) o la porción, y se divide el contenido de sodio reportado, entre el número de kcal, reportadas en la misma cantidad, si esta relación es superior a uno (1) será sujeto de impuesto. Por otro lado, debe calcular el contenido de sodio en cien gramos (100 g) y si este supera los trescientos miligramos (300 mg), estará sujeto al impuesto. Es suficiente con que se cumpla una de las dos condiciones para ser sujeto al impuesto. 
+
+b) Azúcares: se debe identificar los azúcares añadidos según lo definido en el parágrafo 2 de este Artículo. Una vez identificados, en cualquier cantidad de alimento, se debe multiplicar la cantidad de azúcares añadidos en gramos, por el factor de conversión de azú cares (4 kcal/g). Este resultado, se divide entre el total de las kcal, de la misma cantidad de alimento y se multiplica por cien (100). Finalmente, se compara este resultado con el porcentaje establecido en la tabla, y si es igual o superior a diez por ciento (10%), estará sujeto al impuesto. 
+
+c) Grasas saturadas: se debe multiplicar la cantidad de grasas saturadas en gramos, por el factor de conversión de grasas (9 kcal/g), en cualquier cantidad de alimento. Este resultado, se divide entre el total de las kcal, de la misma cantidad de alimento y se multiplica por cien (100). Finalmente, se compara este resultado con el porcentaje establecido en la tabla, y si es igual o superior a diez por ciento (10%), estará sujeto al impuesto. 
+
+Tratándose de bienes importados, lo indicado en el presente parágrafo debe informarse en la declaración de importación. 
+
+PARÁGRAFO 2o. Los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas a los que se refiere este artículo, no causarán este impuesto cuando sean exportados por el productor. 
+
+PARÁGRAFO 3o. Las operaciones anuladas, rescindidas o resueltas de los bienes gravados con el impuesto a los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas, darán lugar a un menor valor a pagar del impuesto, sin que otorgue derecho a devolución. 
+
+PARÁGRAFO 4o. No Constituye hecho generador del impuesto a los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas, la donación por parte del productor o importador cuando se realice a los bancos de alimentos que se encuentren constituidos como entidades sin ánimo de lucro del Régimen Tributario Especial o los bancos de alimentos que bajo la misma personería jurídica posea la iglesia o confesión religiosa reconocida por el Ministerio del Interior o por la ley. El tratamiento previsto en este parágrafo también será aplicable a las asociaciones de bancos de alimentos.
+
 ## art:513-7 — RESPONSABLE DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS
 ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO II. IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO
 
@@ -8144,9 +8813,12 @@ El responsable del impuesto a los productos comestibles ultraprocesados industri
 
 No serán responsables de este impuesto, los productores personas naturales que en el año gravable anterior o en el año en curso hubieran obtenido ingresos brutos provenientes de las actividades gravadas con este impuesto, inferiores a diez mil (10.000) UVT. Cuando se supere esta cuantía, será responsable del impuesto a los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas a partir del periodo gravable siguiente. 
 
-PARÁGRAFO. Para los efectos de este Artículo, la definición de productor será la establecida en el Artículo 440 de este Estatuto. 
+PARÁGRAFO. Para los efectos de este Artículo, la definición de productor será la establecida en el Artículo 440 de este Estatuto.
 
-ARTÍCULO 513-8. BASE GRAVABLE DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS. <Artículo adicionado por el artículo 54 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La base gravable del impuesto está constituida por el precio de venta. En el caso de donación o retiro de inventario, la base gravable es el valor comercial, de acuerdo con lo señalado en el Artículo 90 del Estatuto Tributario. 
+## art:513-8 — BASE GRAVABLE DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO II. IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO
+
+La base gravable del impuesto está constituida por el precio de venta. En el caso de donación o retiro de inventario, la base gravable es el valor comercial, de acuerdo con lo señalado en el Artículo 90 del Estatuto Tributario. 
 
 En el caso de las mercancías importadas, la base gravable sobre la cual se liquida el impuesto a los productos comestibles ultraprocesado y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas, será la misma que se tiene en cuenta para liquidar los tributos aduaneros, adicionados con el valor de este gravamen. 
 
@@ -8155,9 +8827,12 @@ Tratándose de productos terminados producidos en zona franca, la base gravable 
 ## art:513-9 — TARIFA DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS
 ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO II. IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO
 
-La tarifa del impuesto será del diez por ciento (10%) en el año 2023, del quince por ciento (15%) en el año 2024 y del veinte por ciento (20%) a partir del año 2025. 
+La tarifa del impuesto será del diez por ciento (10%) en el año 2023, del quince por ciento (15%) en el año 2024 y del veinte por ciento (20%) a partir del año 2025.
 
-ARTÍCULO 513-10. CAUSACIÓN DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS. <Artículo adicionado por el artículo 54 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> El impuesto a los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas se causa así: 
+## art:513-10 — CAUSACIÓN DEL IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO O GRASAS SATURADAS
+ubicacion: TÍTULO X. IMPUESTOS SALUDABLES. > CAPÍTULO II. IMPUESTO A LOS PRODUCTOS COMESTIBLES ULTRAPROCESADOS INDUSTRIALMENTE Y/O CON ALTO CONTENIDO DE AZÚCARES AÑADIDOS, SODIO
+
+El impuesto a los productos comestibles ultraprocesados industrialmente y/o con alto contenido de azúcares añadidos, sodio o grasas saturadas se causa así: 
 
 1. En la producción, la venta, retiro de inventario o transferencia a título gratuito u oneroso que realice el productor, en la fecha de emisión de la factura o documento equivalente y a falta de estos, en el momento de la entrega o retiro, aunque se haya pactado reserva de dominio, pacto de retroventa o condición resolutoria. 
 
@@ -8358,19 +9033,7 @@ a. Respecto de títulos de acciones y bonos nominativos, en el momento de su sus
 
 b. Sobre certificados de depósito y bono de prenda de almacenes generales de depósito, en la fecha de entrega, por el almacén del correspondiente certificado o bono; 
 
-c. En el caso de los cheques, en la fecha de entrega de la chequera. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+c. En el caso de los cheques, en la fecha de entrega de la chequera.
 
 ## art:528 — LA NO EXPRESION DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO
 ubicacion: TITULO III. CAUSACIÓN DEL IMPUESTO DE TIMBRE PARA ALGUNAS ACTUACIONES.
@@ -8421,7 +9084,7 @@ Están exentos del impuesto:
 
 17. Los acuerdos celebrados entre acreedores y deudores de un establecimiento, con intervención de la Superintendencia Bancaria* cuando éste se halle en posesión de dicho establecimiento. 
 
-18. <Ver Notas del Editor> Los contratos y manifiestos de exportación de productos que reciban el certificado de abono tributario. 
+18. Los contratos y manifiestos de exportación de productos que reciban el certificado de abono tributario. 
 
 19. Los contratos de cuenta corriente bancaria. 
 
@@ -8567,7 +9230,7 @@ El Gobierno Nacional podrá establecer retenciones en la fuente para facilitar, 
 ## art:539 — EXCEPCIÓN AL CONTROL Y RECAUDO DEL IMPUESTO
 ubicacion: TITULO VII. FACULTADES DE LA ADMINISTRACIÓN PARA EL CONTROL Y RECAUDO DEL IMPUESTO DE TIMBRE.
 
-El impuesto de timbre nacional sobre vehículos automotores cedido por la Ley 14 de 1.983 a los departamentos, intendencias, comisarías y al Distrito Especial* de Bogotá, así como el impuesto de timbre nacional que se causa sobre la salida al exterior de nacionales y extranjeros residentes en Colombia, administrado y recaudado por el Departamento Administrativo de Aeronáutica Civil y demás impuestos de timbre cuya administración esté asignada a otros organismos distintos de la Dirección General de Impuestos Nacionales<1>, continúarán rigiéndose por las normas vigentes a la fecha de expedición de este Estatuto.
+El impuesto de timbre nacional sobre vehículos automotores cedido por la Ley 14 de 1.983 a los departamentos, [TACHADO: intendencias, comisarías] y al Distrito Especial* de Bogotá, así como el impuesto de timbre nacional que se causa sobre la salida al exterior de nacionales y extranjeros residentes en Colombia, administrado y recaudado por el Departamento Administrativo de Aeronáutica Civil y demás impuestos de timbre cuya administración esté asignada a otros organismos distintos de la Dirección General de Impuestos Nacionales<1>, continúarán rigiéndose por las normas vigentes a la fecha de expedición de este Estatuto.
 
 ## art:539-1 — OBLIGACIONES DEL AGENTE DE RETENCIÓN DE TIMBRE
 ubicacion: TITULO VII. FACULTADES DE LA ADMINISTRACIÓN PARA EL CONTROL Y RECAUDO DEL IMPUESTO DE TIMBRE.
@@ -8652,19 +9315,7 @@ ubicacion: TITULO X. DISPOSICIONES VARIAS.
 ## art:551 — CASO EN QUE NO ES APLICABLE EL AJUSTE
 ubicacion: TITULO X. DISPOSICIONES VARIAS.
 
-No se aplicará el ajuste previsto en los artículos 548 y 549 a las tarifas que aparecen por parejas de cifras en pesos o centavos por cada cien pesos ($100), cada mil pesos ($1.000), etc. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+No se aplicará el ajuste previsto en los artículos 548 y 549 a las tarifas que aparecen por parejas de cifras en pesos o centavos por cada cien pesos ($100), cada mil pesos ($1.000), etc.
 
 ## art:552 — EL GOBIERNO DEBERA PUBLICAR LAS CIFRAS AJUSTADAS
 ubicacion: TITULO X. DISPOSICIONES VARIAS.
@@ -8706,7 +9357,7 @@ PARÁGRAFO. <Parágrafo derogado por el artículo 376 de la Ley 1819 de 2016>
 ## art:555-2 — REGISTRO ÚNICO TRIBUTARIO - RUT
 ubicacion: TITULO I. ACTUACIÓN.
 
-<Artículo adicionado por el artículo 19 de la Ley 863 de 2003. El nuevo texto es el siguiente:> El Registro Unico Tributario, RUT, administrado por la Dirección de Impuestos y Aduanas Nacionales, constituye el mecanismo único para identificar, ubicar y clasificar las personas y entidades que tengan la calidad de contribuyentes declarantes del impuesto sobre la renta y no contribuyentes declarantes de ingresos y patrimonio; los responsables del Régimen Común y los pertenecientes al régimen simplificado* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>; los agentes retenedores; los importadores, exportadores y demás usuarios aduaneros, y los demás sujetos de obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, respecto de los cuales esta requiera su inscripción.
+<Artículo adicionado por el artículo 19 de la Ley 863 de 2003. El nuevo texto es el siguiente:> El Registro Unico Tributario, RUT, administrado por la Dirección de Impuestos y Aduanas Nacionales, constituye el mecanismo único para identificar, ubicar y clasificar las personas y entidades que tengan la calidad de contribuyentes declarantes del impuesto sobre la renta y no contribuyentes declarantes de ingresos y patrimonio; los responsables del [TACHADO: Régimen Común y los pertenecientes al régimen simplificado* ]<régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>; los agentes retenedores; los importadores, exportadores y demás usuarios aduaneros, y los demás sujetos de obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, respecto de los cuales esta requiera su inscripción.
 
 El Registro Unico Tributario sustituye el Registro de Exportadores y el Registro Nacional de Vendedores, los cuales quedan eliminados con esta incorporación. Al efecto, todas las referencias legales a dichos registros se entenderán respecto del RUT.
 
@@ -8743,7 +9394,7 @@ La representación legal de las personas jurídicas será ejercida por el Presid
 ## art:557 — AGENCIA OFICIOSA
 ubicacion: TITULO I. ACTUACIÓN.
 
-<Artículo CONDICIONALMENTE exequible> Solamente los abogados podrán actuar como agentes oficiosos para contestar requerimientos e interponer recursos. 
+Solamente los abogados podrán actuar como agentes oficiosos para contestar requerimientos e interponer recursos. 
 
 En el caso del requerimiento, el agente oficioso es directamente responsable de las obligaciones tributarias que se deriven de su actuación, salvo que su representado la ratifique, caso en el cual, quedará liberado de toda responsabilidad el agente.
 
@@ -8934,7 +9585,7 @@ e. Los administradores privados o judiciales, por las comunidades que administra
 
 f. Los donatarios o asignatarios por las respectivas donaciones o asignaciones modales; 
 
-g. Los liquidadores por las sociedades en liquidación y los síndicos por las personas declaradas en quiebra o en concurso de acreedores, y 
+g. Los liquidadores por las sociedades en liquidación y los síndicos por las personas declaradas en [TACHADO: quiebra] o en concurso de acreedores, y 
 
 h. Los mandatarios o apoderados generales, los apoderados especiales para fines del impuesto y los agentes exclusivos de negocios en Colombia de residentes en el exterior, respecto de sus representados, en los casos en que sean apoderados de éstos para presentar sus declaraciones de renta o de ventas y cumplir los demás deberes tributarios. 
 
@@ -8969,13 +9620,13 @@ ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIO
 
 Los contribuyentes, responsables y agentes de retención en la fuente, deberán presentar las siguientes declaraciones tributarias: 
 
-1. <Ver Notas del Editor> <Numeral modificado por el artículo 166 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Declaración anual del impuesto sobre la renta y complementarios, cuando de conformidad con las normas vigentes, estén obligados a declarar o, declaración anual del monotributo cuando opte por este régimen. 
+1. <Numeral modificado por el artículo 166 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Declaración anual del impuesto sobre la renta y complementarios, cuando de conformidad con las normas vigentes, estén obligados a declarar o, declaración anual del monotributo cuando opte por este régimen. 
 
-2. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral modificado por el artículo 28 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Declaración bimestral del impuesto sobre las ventas, para los responsables de este impuesto que pertenezcan al régimen común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>. 
+2. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral modificado por el artículo 28 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Declaración bimestral del impuesto sobre las ventas, para los responsables de este impuesto que pertenezcan al [TACHADO: régimen común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>. 
 
 3. <Numeral modificado por el artículo 28 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Declaración mensual de retenciones en la fuente, para los agentes retenedores del impuesto sobre la renta y complementarios, del impuesto sobre las ventas, y del impuesto de timbre nacional.
 
-4. <Ver Notas del Editor> Declaración del impuesto de timbre, para los documentos y actos sometidos a dicho impuesto. 
+4. Declaración del impuesto de timbre, para los documentos y actos sometidos a dicho impuesto. 
 
 4. <Numeral derogado por el artículo 376 de la Ley 1819 de 2016>
 
@@ -8985,7 +9636,10 @@ Los contribuyentes, responsables y agentes de retención en la fuente, deberán 
 
 PARAGRAFO 1o. <Parágrafo modificado por el artículo 28 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Sin perjuicio de lo dispuesto en los numerales 2 y 3 del presente artículo, las entidades no contribuyentes del impuesto sobre la renta y complementarios, deberán presentar una declaración anual de ingresos y patrimonio, salvo que hayan sido expresamente exceptuadas en el artículo 598.
 
-ARTÍCULO 574-1. ANEXO DE OTRAS DEDUCCIONES A LA DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS. <Artículo modificado por el artículo 106 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los contribuyentes declarantes del impuesto sobre la renta y complementarios, obligados a llevar contabilidad, deberán diligenciar el formulario diseñado por la Administración Tributaria, el cual deberá ser firmado por contador o revisor fiscal, en el que deberán relacionar y detallar el renglón de otras deducciones del formulario de declaración del impuesto sobre la renta y complementarios. La Dirección de Impuestos y Aduanas Nacionales (DIAN) determinará mediante resolución el formulario establecido en este artículo.
+## art:574-1 — ANEXO DE OTRAS DEDUCCIONES A LA DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS
+ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIONES TRIBUTARIAS.
+
+Los contribuyentes declarantes del impuesto sobre la renta y complementarios, obligados a llevar contabilidad, deberán diligenciar el formulario diseñado por la Administración Tributaria, el cual deberá ser firmado por contador o revisor fiscal, en el que deberán relacionar y detallar el renglón de otras deducciones del formulario de declaración del impuesto sobre la renta y complementarios. La Dirección de Impuestos y Aduanas Nacionales (DIAN) determinará mediante resolución el formulario establecido en este artículo.
 
 ## art:575 — LAS DECLARACIONES DEBEN COINCIDIR CON EL PERIODO FISCAL
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIONES TRIBUTARIAS.
@@ -9021,7 +9675,7 @@ ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIO
 
 La declaración tributaria se presentará en los formatos que prescriba la Dirección General de Impuestos Nacionales<1>. En circunstancias excepcionales, el Director de Impuestos Nacionales<1>, podrá autorizar la recepción de declaraciones que no se presenten en los formularios oficiales. 
 
-PARAGRAFO. <Ver Notas del Editor> <Parágrafo adicionado por el artículo 117 de la Ley 633 de 2000. El nuevo texto es el siguiente:> A partir del año 2001 la DIAN reajustará los precios de los formularios para la declaración y pago de anticipos, retenciones e impuestos, hasta dos (2) veces la tasa de inflación registrada en el año inmediatamente anterior.
+PARAGRAFO. <Parágrafo adicionado por el artículo 117 de la Ley 633 de 2000. El nuevo texto es el siguiente:> A partir del año 2001 la DIAN reajustará los precios de los formularios para la declaración y pago de anticipos, retenciones e impuestos, hasta dos (2) veces la tasa de inflación registrada en el año inmediatamente anterior.
 
 ## art:579 — LUGARES Y PLAZOS PARA LA PRESENTACIÓN DE LAS DECLARACIONES TRIBUTARIAS
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIONES TRIBUTARIAS.
@@ -9057,7 +9711,7 @@ No se entenderá cumplido el deber de presentar la declaración tributaria, en l
 
 a. <Literal CONDICIONALMENTE exequible> Cuando la declaración no se presente en los lugares señalados para tal efecto. 
 
-b. <Ver Notas del Editor> Cuando no se suministre la identificación del declarante, o se haga en forma equivocada. 
+b. Cuando no se suministre la identificación del declarante, o se haga en forma equivocada. 
 
 c. Cuando no contenga los factores necesarios para identificar las bases gravables. 
 
@@ -9065,7 +9719,7 @@ d. <Literal CONDICIONALMENTE exequible> Cuando no se presente firmada por quien 
 
 e. <Literal derogado por el artículo 67 de la Ley 1430 de 2010> 
 
-PARÁGRAFO. <Ver Nota del Editor> <Parágrafo adicionado por el artículo 64 de la Ley 1111 de 2006. El nuevo texto es el siguiente:> No se configurará la causal prevista en el literal e) del presente artículo, cuando la declaración de retención en la fuente se presente sin pago por parte de un agente retenedor que sea titular de un saldo a favor susceptible de compensar con el saldo a pagar de la respectiva declaración de retención en la fuente. Para tal efecto el saldo a favor debe haberse generado antes de la presentación de la declaración de retención en la fuente, por un valor igual o superior al saldo a pagar determinado en dicha declaración. 
+PARÁGRAFO. <Parágrafo adicionado por el artículo 64 de la Ley 1111 de 2006. El nuevo texto es el siguiente:> No se configurará la causal prevista en el literal e) del presente artículo, cuando la declaración de retención en la fuente se presente sin pago por parte de un agente retenedor que sea titular de un saldo a favor susceptible de compensar con el saldo a pagar de la respectiva declaración de retención en la fuente. Para tal efecto el saldo a favor debe haberse generado antes de la presentación de la declaración de retención en la fuente, por un valor igual o superior al saldo a pagar determinado en dicha declaración. 
 
 El agente retenedor deberá solicitar a la Dirección de Impuestos y Aduanas Nacionales la compensación del saldo a favor con el saldo a pagar determinado en la declaración de retención, dentro de los seis (6) meses siguientes a la presentación de la respectiva declaración de retención en la fuente. 
 
@@ -9209,13 +9863,13 @@ No están obligados a presentar declaración de renta y complementarios:
 
 1. <Ajuste de las cifras en valores absolutos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). Numeral modificado por el artículo 75 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Los contribuyentes personas naturales y sucesiones ilíquidas que no sean responsables del impuesto a las ventas, que en el respectivo año o período gravable hayan obtenido ingresos brutos inferiores a 1.400 UVT y que el patrimonio bruto en el último día del año o período gravable no exceda de 4.500 UVT.
 
-2. <Ver Notas del Editor> Las personas naturales o jurídicas, extranjeras, sin residencia o domicilio en el país, cuando la totalidad de sus ingresos hubieren estado sometidos a la retención en la fuente de que tratan los artículos 407 a 411, inclusive, y dicha retención en la fuente así como la retención por remesas* cuando fuere del caso, les hubiere sido practicada. 
+2. Las personas naturales o jurídicas, extranjeras, sin residencia o domicilio en el país, cuando la totalidad de sus ingresos hubieren estado sometidos a la retención en la fuente de que tratan los artículos 407 a 411, inclusive, y dicha retención en la fuente así como la retención por remesas* cuando fuere del caso, les hubiere sido practicada. 
 
 3. Los asalariados a quienes se les eliminó la declaración tributaria. 
 
 4. <Numeral adicionado por el artículo 29 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Los contribuyentes señalados en el artículo 414-1 de este Estatuto. 
 
-5. <Ver Notas del Editor> <Numeral adicionado por el artículo 167 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las personas naturales que pertenezcan al monotributo.
+5. <Numeral adicionado por el artículo 167 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las personas naturales que pertenezcan al monotributo.
 
 ## art:593 — ASALARIADOS NO OBLIGADOS A DECLARAR
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIONES TRIBUTARIAS.
@@ -9322,18 +9976,6 @@ Están obligadas a presentar declaración de ingresos y patrimonio todas las ent
 
 9. Las sociedades de mejoras públicas, las asociaciones de padres de familia; las juntas de acción comunal*; las juntas de defensa civil; las juntas de copropietarios administradoras de edificios organizados en propiedad horizontal o de copropietarios de conjuntos residenciales; las asociaciones de exalumnos; las asociaciones de hogares comunitarios y hogares infantiles del Instituto Colombiano de Bienestar Familiar o autorizados por este y las asociaciones de adultos mayores autorizados por el Instituto Colombiano de Bienestar Familiar.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:599 — CONTENIDO DE LA DECLARACIÓN DE INGRESOS Y PATRIMONIO
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIONES TRIBUTARIAS.
 
@@ -9379,7 +10021,7 @@ Deberán presentar declaración y pago del impuesto sobre las ventas, según lo 
 
 <** Ver Notas del Editor> <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> No están obligados a presentar declaración de impuesto sobre las ventas, los contribuyentes que pertenezcan al Régimen Simplificado* **.
 
-<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Tampoco estarán obligados a presentar la declaración del impuesto sobre las ventas los responsables del régimen común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)> en los períodos en los cuales no hayan efectuado operaciones sometidas al impuesto ni operaciones que den lugar a impuestos descontables, ajustes o deducciones en los términos de lo dispuesto en los artículos 484 y 486 de este Estatuto.
+<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Tampoco estarán obligados a presentar la declaración del impuesto sobre las ventas los responsables del [TACHADO: régimen común]* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)> en los períodos en los cuales no hayan efectuado operaciones sometidas al impuesto ni operaciones que den lugar a impuestos descontables, ajustes o deducciones en los términos de lo dispuesto en los artículos 484 y 486 de este Estatuto.
 
 PARÁGRAFO TRANSITORIO. <Agotó su objeto por cumplimiento del término para el cual fue expedido> Los responsables obligados a presentar declaración bimestral del impuestos sobre las ventas que no hayan cumplido la obligación de presentar las declaraciones del impuesto sobre las ventas en ceros (0) en los meses en los cuales no realizaron operaciones sometidas al impuesto ni operaciones que den lugar a impuestos descontables, ajustes o deducciones en los términos de los artículos 484 y 486 de este Estatuto, desde que tengan la obligación, podrán presentar en esas declaraciones dentro de los seis (6) meses siguientes a la vigencia de esta Ley sin liquidar sanción por extemporaneidad.
 
@@ -9456,12 +10098,10 @@ PARAGRAFO 3o. Los Notarios deberán incluir en su declaración mensual de retenc
 
 PARAGRAFO 4o. Las personas naturales que enajenen activos fijos no estarán obligadas a presentar declaración de retenciones por tal concepto; en este caso, bastará con que la persona natural consigne los valores retenidos. 
 
-PARÁGRAFO TRANSITORIO. <Agotó su objeto por cumplimiento del término para el cual fue expedido><Parágrafo modificado por el artículo 63 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> Los agentes de retención que no hayan cumplido con la obligación de presentar las declaraciones de retención en la fuente en ceros en los meses que no realizaron pagos sujetos a retención, desde julio de 2006 podrán presentar esas declaraciones dentro de los seis meses siguientes a la vigencia de esta Ley, sin liquidar sanción por extemporaneidad
+PARÁGRAFO TRANSITORIO. <Agotó su objeto por cumplimiento del término para el cual fue expedido><Parágrafo modificado por el artículo 63 de la Ley 1607 de 2012. El nuevo texto es el siguiente:> Los agentes de retención que no hayan cumplido con la obligación de presentar las declaraciones de retención en la fuente en ceros en los meses que no realizaron pagos sujetos a retención, desde julio de 2006 podrán presentar esas declaraciones dentro de los seis meses siguientes a la vigencia de esta Ley, sin liquidar sanción por extemporaneidad.
 
 ## art:607 — CONTENIDO DE LA DECLARACIÓN ANUAL DE ACTIVOS EN EL EXTERIOR
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO II. DECLARACIONES TRIBUTARIAS.
-
-<Artículo adicionado por el artículo 43 de la Ley 1739 de 2014. El nuevo texto es el siguiente:> 
 
 <Inciso modificado por el artículo 63 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los contribuyentes del impuesto sobre la renta y complementarios, sujetos a este impuesto respecto de sus ingresos de fuente nacional y extranjera, y de su patrimonio poseído dentro y fuera del país, que posean activos en el exterior de cualquier naturaleza, estarán obligados a presentar la declaración anual de activos en el exterior. También estarán obligados los contribuyentes de regímenes sustitutivos del impuesto sobre la renta. El contenido de esta declaración será el siguiente: 
 
@@ -9547,11 +10187,14 @@ El Gobierno señalará los conceptos y cuantías mínimas no sometidos a retenci
 ## art:616 — LIBRO FISCAL DE REGISTRO DE OPERACIONES
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
 
-<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Artículo modificado por el artículo 36 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Quienes comercialicen bienes o presten servicios gravados perteneciendo al régimen simplificado* **, deberán llevar el libro fiscal de registro de operaciones diarias por cada establecimiento, en el cual se identifique el contribuyente, esté debidamente foliado y se anoten diariamente en forma global o discriminada las operaciones realizadas. Al finalizar cada mes deberán, con base en las facturas que les hayan sido expedidas, totalizar el valor pagado en la adquisición de bienes y servicios, así como los ingresos obtenidos en desarrollo de su actividad. 
+<Artículo modificado por el artículo 36 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Quienes comercialicen bienes o presten servicios gravados perteneciendo al régimen simplificado* **, deberán llevar el libro fiscal de registro de operaciones diarias por cada establecimiento, en el cual se identifique el contribuyente, esté debidamente foliado y se anoten diariamente en forma global o discriminada las operaciones realizadas. Al finalizar cada mes deberán, con base en las facturas que les hayan sido expedidas, totalizar el valor pagado en la adquisición de bienes y servicios, así como los ingresos obtenidos en desarrollo de su actividad. 
 
-Este libro fiscal deberá reposar en el establecimiento de comercio y la no presentación del mismo al momento que lo requiera la administración, o la constatación del atraso, dará lugar a la aplicación de las sanciones y procedimientos contemplados en el artículo 652, pudiéndose establecer tales hechos mediante el método señalado en el artículo 653. 
+Este libro fiscal deberá reposar en el establecimiento de comercio y la no presentación del mismo al momento que lo requiera la administración, o la constatación del atraso, dará lugar a la aplicación de las sanciones y procedimientos contemplados en el artículo 652, pudiéndose establecer tales hechos mediante el método señalado en el artículo 653.
 
-ARTÍCULO 616-1. SISTEMA DE FACTURACIÓN. <Artículo modificado por el artículo 13 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> El sistema de facturación comprende la factura de venta y los documentos equivalentes. Así mismo, hacen parte del sistema de factura todos los documentos electrónicos que sean determinados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), y que puedan servir para el ejercicio de control de la autoridad tributaria y aduanera, de soporte de las declaraciones tributarias o aduaneras y/o de soporte de los trámites que se adelanten ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), quien establecerá las características, condiciones, plazos, términos y mecanismos técnicos y tecnológicos para la interoperabilidad, interacción, generación, numeración, transmisión, validación, expedición y entrega. 
+## art:616-1 — SISTEMA DE FACTURACIÓN
+ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
+
+El sistema de facturación comprende la factura de venta y los documentos equivalentes. Así mismo, hacen parte del sistema de factura todos los documentos electrónicos que sean determinados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), y que puedan servir para el ejercicio de control de la autoridad tributaria y aduanera, de soporte de las declaraciones tributarias o aduaneras y/o de soporte de los trámites que se adelanten ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), quien establecerá las características, condiciones, plazos, términos y mecanismos técnicos y tecnológicos para la interoperabilidad, interacción, generación, numeración, transmisión, validación, expedición y entrega. 
 
 Todos los documentos electrónicos que hacen parte del sistema de facturación, en lo que sea compatible con su naturaleza, deberán cumplir con las condiciones establecidas en el Estatuto Tributario o la ley que los regula, así como las condiciones establecidas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), de acuerdo con el inciso primero del presente artículo. 
 
@@ -9594,7 +10237,7 @@ PARÁGRAFO TRANSITORIO. Mientras se expide la reglamentación del sistema de fac
 ## art:616-2 — CASOS EN LOS CUALES NO SE REQUIERE LA EXPEDICIÓN DE FACTURA
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
 
-<*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Aparte tachado derogado por el artículo 118 de la Ley 788 de 2002. Valores absolutos que regirán para el año 2002 establecidos por el artículo 1 del Decreto 2794 de 2001. El nuevo texto es el siguiente:> No se requerirá la expedición de factura en las operaciones realizadas por bancos, corporaciones financieras, corporaciones de ahorro y vivienda y las compañías de financiamiento comercial. Tampoco existirá esta obligación en las ventas efectuadas por los responsables del régimen simplificado* **, y cuando se trate de la enajenación de bienes producto de la actividad agrícola o ganadera por parte de personas naturales, cuando la cuantía de esta operación sea inferior a $5.000.000 y en los demás casos que señale el Gobierno Nacional.
+<Aparte tachado derogado por el artículo 118 de la Ley 788 de 2002. Valores absolutos que regirán para el año 2002 establecidos por el artículo 1 del Decreto 2794 de 2001. El nuevo texto es el siguiente:> No se requerirá la expedición de factura en las operaciones realizadas por bancos, corporaciones financieras, corporaciones de ahorro y vivienda y las compañías de financiamiento comercial. Tampoco existirá esta obligación en las ventas efectuadas por los responsables del régimen simplificado* **, [TACHADO: y cuando se trate de la enajenación de bienes producto de la actividad agrícola o ganadera por parte de personas naturales, cuando la cuantía de esta operación sea inferior a $5.000.000] y en los demás casos que señale el Gobierno Nacional.
 
 ## art:616-3 — Artículo adicionado por el artículo 39 de la Ley 223 de 1995. El nuevo texto es el siguiente:
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
@@ -9607,9 +10250,12 @@ Cuando el lugar clausurado fuera adicionalmente casa de habitación, se permitir
 
 La sanción a que se refiere el presente artículo, se impondrá mediante resolución, previo traslado de cargos a la persona o entidad infractora, quien tendrá un término de diez (10) días para responder. Contra esta providencia procede el recurso previsto en el artículo 735 del Estatuto Tributario 
 
-La sanción se hará efectiva dentro de los diez (10) días siguientes al agotamiento de la vía gubernativa. 
+La sanción se hará efectiva dentro de los diez (10) días siguientes al agotamiento de la vía gubernativa.
 
-ARTÍCULO 616-4. PROVEEDORES TECNOLÓGICOS, OBLIGACIONES E INFRACCIONES. <Artículo modificado por el artículo 19 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Será proveedor tecnológico, la persona jurídica habilitada para generar, entregar y/o transmitir la factura electrónica que cumpla con las condiciones y requisitos que señale el Gobierno nacional. La Administración Tributaria, mediante resolución motivada, habilitará como proveedor tecnológico a quienes cumplan las condiciones y requisitos que sean establecidos. 
+## art:616-4 — PROVEEDORES TECNOLÓGICOS, OBLIGACIONES E INFRACCIONES
+ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
+
+Será proveedor tecnológico, la persona jurídica habilitada para generar, entregar y/o transmitir la factura electrónica que cumpla con las condiciones y requisitos que señale el Gobierno nacional. La Administración Tributaria, mediante resolución motivada, habilitará como proveedor tecnológico a quienes cumplan las condiciones y requisitos que sean establecidos. 
 
 Son obligaciones e infracciones de los proveedores tecnológicos las siguientes: 
 
@@ -9703,7 +10349,7 @@ ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEB
 
 El valor global de los premios se establecerá en el Presupuesto Nacional. 
 
-<Ver Notas de Vigencia> El Ministerio de Comunicaciones y el Instituto Nacional de Radio y Televisión, cederán gratuitamente los espacios de televisión necesarios para la debida promoción del Premio Fiscal, así como para la realización de los sorteos que implique el mismo, en las cadenas de cubrimiento nacional y en horarios de mayor sintonía. Los premios obtenidos en las rifas, sorteos o concursos realizados en virtud del Premio Fiscal, no constituyen renta ni ganancia ocasional. 
+ El Ministerio de Comunicaciones y el Instituto Nacional de Radio y Televisión, cederán gratuitamente los espacios de televisión necesarios para la debida promoción del Premio Fiscal, así como para la realización de los sorteos que implique el mismo, en las cadenas de cubrimiento nacional y en horarios de mayor sintonía. Los premios obtenidos en las rifas, sorteos o concursos realizados en virtud del Premio Fiscal, no constituyen renta ni ganancia ocasional. 
 
 PARÁGRAFO TRANSITORIO. <Parágrafo INEXEQUIBLE>
 
@@ -9771,7 +10417,7 @@ ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEB
 
 Igual información deberán enviar cuando el valor del patrimonio contable exceda en más de un cuarenta por ciento (40%) el patrimonio líquido." 
 
-PARÁGRAFO. <Ver Notas del Editor> La información exigida por el artículo 623 del Estatuto Tributario deberá rendirse igualmente por las asociaciones o entidades que controlen o administren sistemas de tarjetas de crédito.
+PARÁGRAFO. La información exigida por el artículo 623 del Estatuto Tributario deberá rendirse igualmente por las asociaciones o entidades que controlen o administren sistemas de tarjetas de crédito.
 
 ## art:623-2 — INFORMACIÓN PARA LA INVESTIGACIÓN Y LOCALIZACIÓN DE BIENES DE DEUDORES MOROSOS
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
@@ -9787,19 +10433,7 @@ Las cooperativas de ahorro y crédito, los organismos cooperativos de grado supe
 
 <Texto con los valores absolutos que regirán para el año 2001, establecidos por el artículo 3 del Decreto 2661 de 2000. Ver Notas de Vigencia sobre valores absolutos para años posteriores. El texto adicionado por la Ley 383 de 1997 con los valores absolutos que rigen para el año gravable 2001 es el siguiente:> Igualmente, deberán informar los apellidos y nombres o razón social y NIT, de cada una de las personas o entidades a las cuales se les hayan efectuado préstamos cuyo valor anual acumulado sea superior a trescientos veintitrés millones seiscientos mil pesos ($323.600.000); con indicación del concepto de la operación y del monto acumulado por concepto. 
 
-PARAGRAFO. La información exigida en el segundo inciso del presente artículo, igualmente deberán presentar todas las entidades vigiladas por la Superintendencia Bancaria*. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARAGRAFO. La información exigida en el segundo inciso del presente artículo, igualmente deberán presentar todas las entidades vigiladas por la Superintendencia Bancaria*.
 
 ## art:623-3 — Artículo adicionado por el artículo 12 de la Ley 383 de 1997. El nuevo texto es el siguiente:
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
@@ -9932,15 +10566,21 @@ ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEB
 
 El Director General de la U.A.E. Dirección de Impuestos y Aduanas Nacionales, señalará las especificaciones de la información con relevancia tributaria que deben suministrar los contribuyentes y no contribuyentes.
 
-ARTÍCULO 631-4. INTERCAMBIO AUTOMÁTICO DE INFORMACIÓN. <Artículo modificado por el artículo 15 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), definirá mediante resolución los sujetos que se encuentran obligados a suministrar información para efectos de cumplir con los compromisos internacionales en materia de intercambio automático de información, así como la información que deben suministrar y los procedimientos de debida diligencia que deben cumplir, teniendo en cuenta los estándares y prácticas reconocidas internacionalmente sobre intercambio automático de información. 
+## art:631-4 — INTERCAMBIO AUTOMÁTICO DE INFORMACIÓN
+ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
+
+La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), definirá mediante resolución los sujetos que se encuentran obligados a suministrar información para efectos de cumplir con los compromisos internacionales en materia de intercambio automático de información, así como la información que deben suministrar y los procedimientos de debida diligencia que deben cumplir, teniendo en cuenta los estándares y prácticas reconocidas internacionalmente sobre intercambio automático de información. 
 
 PARÁGRAFO 1o. El no suministro de la información objeto de intercambio automático de información por parte del titular de la cuenta al sujeto obligado a reportar la información a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), es causal de no apertura de la cuenta o de cierre de la misma. 
 
 PARÁGRAFO 2o. La función de fiscalización de los procedimientos de debida diligencia que para el efecto fije la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), mediante resolución, está a cargo de la· Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), de acuerdo con las disposiciones procedimentales previstas en el Estatuto Tributario. 
 
-PARÁGRAFO 3o. El incumplimiento de lo previsto en este artículo será sancionable de conformidad con lo previsto en el artículo 651 de este Estatuto. 
+PARÁGRAFO 3o. El incumplimiento de lo previsto en este artículo será sancionable de conformidad con lo previsto en el artículo 651 de este Estatuto.
 
-ARTÍCULO 631-5. DEFINICIÓN BENEFICIARIO FINAL. <Artículo modificado por el artículo 16 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Entiéndase por beneficiario final la(s) persona(s) natural(es) que finalmente posee(n) o controla(n), directa o indirectamente, a un cliente y/o la persona natural en cuyo nombre se realiza una transacción. Incluye también a la(s) persona(s) natural(es) que ejerzan el control efectivo y/o final, directa o indirectamente, sobre una persona jurídica u otra estructura sin personería jurídica. 
+## art:631-5 — DEFINICIÓN BENEFICIARIO FINAL
+ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
+
+Entiéndase por beneficiario final la(s) persona(s) natural(es) que finalmente posee(n) o controla(n), directa o indirectamente, a un cliente y/o la persona natural en cuyo nombre se realiza una transacción. Incluye también a la(s) persona(s) natural(es) que ejerzan el control efectivo y/o final, directa o indirectamente, sobre una persona jurídica u otra estructura sin personería jurídica. 
 
 a) Son beneficiarios finales de la persona jurídica las siguientes: 
 
@@ -9968,9 +10608,12 @@ PARÁGRAFO 1o. Para efectos tributarios, el término beneficiario final aplica p
 
 PARÁGRAFO 2o. El presente artículo debe interpretarse de acuerdo con las Recomendaciones actualizadas del Grupo de Acción Financiera Internacional (GAFI), y sus respectivas notas interpretativas. 
 
-PARÁGRAFO 3o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), reglamentará mediante resolución lo previsto en el presente artículo, y los términos y condiciones para su efectiva aplicación. 
+PARÁGRAFO 3o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), reglamentará mediante resolución lo previsto en el presente artículo, y los términos y condiciones para su efectiva aplicación.
 
-ARTÍCULO 631-6. REGISTRO ÚNICO DE BENEFICIARIOS FINALES. <Artículo modificado por el artículo 17 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Créase el Registro Único de Beneficiarios Finales -RUB, el cual hará parte integral del Registro Único Tributario (RUT), cuyo funcionamiento y administración está a cargo de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
+## art:631-6 — REGISTRO ÚNICO DE BENEFICIARIOS FINALES
+ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
+
+Créase el Registro Único de Beneficiarios Finales -RUB, el cual hará parte integral del Registro Único Tributario (RUT), cuyo funcionamiento y administración está a cargo de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
 Cuando el obligado por el Registro Único de Beneficiarios Finales (RUB), a suministrar información del beneficiario final, no la suministre, la suministre de manera errónea o incompleta, o no actualice la información suministrada, será sancionado según lo previsto en el artículo 658-3 del Estatuto Tributario. 
 
@@ -9981,7 +10624,7 @@ PARÁGRAFO 2o. La Unidad Administrativa Especial Dirección de Impuestos y Aduan
 ## art:632 — DEBER DE CONSERVAR INFORMACIONES Y PRUEBAS
 ubicacion: TITULO II. DEBERES Y OBLIGACIONES FORMALES. > CAPITULO III. OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS.
 
-<Fuente original compilada: D. 2503/87 Art. 22> Para efectos del control de los impuestos administrados por la Dirección General de Impuestos Nacionales<1>, las personas o entidades, contribuyentes o no contribuyentes de los mismos, deberán conservar por un período mínimo de cinco (5) años, contados a partir del 1o. de enero del año siguiente al de su elaboración, expedición o recibo, los siguientes documentos, informaciones y pruebas, que deberán ponerse a disposición de la Administración de Impuestos, cuando ésta así lo requiera: 
+Para efectos del control de los impuestos administrados por la Dirección General de Impuestos Nacionales<1>, las personas o entidades, contribuyentes o no contribuyentes de los mismos, deberán conservar por un período mínimo de cinco (5) años, contados a partir del 1o. de enero del año siguiente al de su elaboración, expedición o recibo, los siguientes documentos, informaciones y pruebas, que deberán ponerse a disposición de la Administración de Impuestos, cuando ésta así lo requiera: 
 
 1. Cuando se trate de personas o entidades obligadas a llevar contabilidad, los libros de contabilidad junto con los comprobantes de orden interno y externo que dieron origen a los registros contables, de tal forma que sea posible verificar la exactitud de los activos, pasivos, patrimonio, ingresos, costos, deducciones, rentas exentas, descuentos, impuestos y retenciones consignados en ellos. 
 
@@ -10032,7 +10675,7 @@ ubicacion: TITULO III. SANCIONES.
 ## art:635 — DETERMINACIÓN DE LA TASA DE INTERÉS MORATORIO
 ubicacion: TITULO III. SANCIONES.
 
-<Ver Notas de Vigencia> <Inciso modificado por el artículo 279 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos de las obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, el interés moratorio se liquidará diariamente a la tasa de interés diario que sea equivalente a la tasa de usura vigente determinada por la Superintendencia Financiera de Colombia para las modalidades de crédito de consumo, menos dos (2) puntos. La Dirección de Impuestos y Aduanas Nacionales publicará la tasa correspondiente en su página web.
+<Inciso modificado por el artículo 279 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos de las obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, el interés moratorio se liquidará diariamente a la tasa de interés diario que sea equivalente a la tasa de usura vigente determinada por la Superintendencia Financiera de Colombia para las modalidades de crédito de consumo, menos dos (2) puntos. La Dirección de Impuestos y Aduanas Nacionales publicará la tasa correspondiente en su página web.
 
 Las obligaciones insolutas a la fecha de entrada en vigencia de esta ley generarán intereses de mora a la tasa prevista en este artículo sobre los saldos de capital que no incorporen los intereses de mora generados antes de la entrada en vigencia de la presente ley.
 
@@ -10062,12 +10705,12 @@ ubicacion: TITULO III. SANCIONES.
 
 <Ajuste de las cifras en valores absolutos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). El texto con el nuevo término es el siguiente:> El valor mínimo de cualquier sanción, incluidas las sanciones reducidas, ya sea que deba liquidarla la persona o entidad sometida a ella, o la Administración de Impuestos, será equivalente a la suma de 10 uvt.
 
-<Ver Notas del Editor> <Inciso modificado por el artículo 280 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Lo dispuesto en este artículo no será aplicable a los intereses de mora, a las sanciones contenidas en los numerales 1 y 3 del artículo 658-3 de este Estatuto ni a las sanciones relativas a la declaración del monotributo
+ <Inciso modificado por el artículo 280 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Lo dispuesto en este artículo no será aplicable a los intereses de mora, a las sanciones contenidas en los numerales 1 y 3 del artículo 658-3 de este Estatuto ni a las sanciones relativas a la declaración del monotributo.
 
-## art:640 — 
+## art:640 — APLICACIÓN DE LOS PRINCIPIOS DE LESIVIDAD, PROPORCIONALIDAD, GRADUALIDAD Y FAVORABILIDAD EN EL RÉGIMEN SANCIONATORIO
 ubicacion: TITULO III. SANCIONES.
 
-APLICACIÓN DE LOS PRINCIPIOS DE LESIVIDAD, PROPORCIONALIDAD, GRADUALIDAD Y FAVORABILIDAD EN EL RÉGIMEN SANCIONATORIO. <Artículo modificado por el artículo 282 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para la aplicación del régimen sancionatorio establecido en el presente Estatuto se deberá atender a lo dispuesto en el presente artículo.
+Para la aplicación del régimen sancionatorio establecido en el presente Estatuto se deberá atender a lo dispuesto en el presente artículo.
 
 Cuando la sanción deba ser liquidada por el contribuyente, agente retenedor, responsable o declarante:
 
@@ -10112,8 +10755,6 @@ PARÁGRAFO 5o. El principio de favorabilidad aplicará para el régimen sanciona
 ## art:640-1 — OTRAS SANCIONES
 ubicacion: TITULO III. SANCIONES.
 
-<Artículo modificado por el artículo 48 de la Ley 6 de 1992. El nuevo texto es el siguiente:> 
-
 <Ajuste de salarios mínimos en términos de UVT por el artículo 51 de la Ley 1111 de 2006 (A partir del año gravable 2007). El texto con el nuevo término es el siguiente:> El agente retenedor o el responsable del impuesto sobre las ventas que mediante fraude, disminuya el saldo a pagar por concepto de retenciones o impuestos o aumente el saldo a favor de sus declaraciones tributarias en cuantía igual o superior a 4.100 UVT, incurrirá en inhabilidad para ejercer el comercio, profesión u oficio por un término de uno a cinco años y como pena accesoria en multa de 410 a 2.000 UVT. 
 
 En igual sanción incurrirá quien estando obligado a presentar declaración por impuesto sobre las ventas o retención en la fuente, no lo hiciere valiéndose de los mismos medios, siempre que el impuesto determinado por la Administración sea igual o superior a la cuantía antes señalada. 
@@ -10140,7 +10781,7 @@ Esta sanción se cobrará sin perjuicio de los intereses que origine el incumpli
 
 PARÁGRAFO 1o. <Parágrafo modificado por el artículo 110 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Cuando la declaración anual de activos en el exterior se presente de manera extemporánea, la sanción por cada mes o fracción de mes calendario de retardo será equivalente al cero punto cinco por ciento (0.5%) del valor de los activos poseídos en el exterior, si la misma se presenta antes del emplazamiento previo por no declarar, o al uno por ciento (1%) del valor de los activos poseídos en el exterior si se presenta con posterioridad al citado emplazamiento y antes de que se profiera la respectiva resolución sanción por no declarar. En todo caso, el monto de la sanción no podrá superar el diez por ciento (10%) del valor de los activos poseídos en el exterior. 
 
-PARÁGRAFO 2o. <Ver Notas del Editor> <Parágrafo adicionado por el artículo 283 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Cuando la declaración del monotributo se presente de manera extemporánea, la sanción por cada mes o fracción de mes calendario de retardo será equivalente al tres por ciento (3%) del total del impuesto a cargo, sin exceder del ciento por ciento (100%) del impuesto, si la misma se presenta antes del emplazamiento previo por no declarar, o al seis por ciento (6%) del total del impuesto a cargo, sin exceder del doscientos por ciento (200%) del impuesto, si se presenta con posterioridad al citado emplazamiento y antes de que se profiera la respectiva resolución sanción por no declarar.
+PARÁGRAFO 2o. <Parágrafo adicionado por el artículo 283 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Cuando la declaración del monotributo se presente de manera extemporánea, la sanción por cada mes o fracción de mes calendario de retardo será equivalente al tres por ciento (3%) del total del impuesto a cargo, sin exceder del ciento por ciento (100%) del impuesto, si la misma se presenta antes del emplazamiento previo por no declarar, o al seis por ciento (6%) del total del impuesto a cargo, sin exceder del doscientos por ciento (200%) del impuesto, si se presenta con posterioridad al citado emplazamiento y antes de que se profiera la respectiva resolución sanción por no declarar.
 
 PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 283 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Cuando la declaración del gravamen a los movimientos financieros se presente de manera extemporánea, la sanción por cada mes o fracción de mes calendario de retardo será equivalente al uno por ciento (1%) del total del impuesto a cargo, sin exceder del ciento por ciento (100%) del impuesto, si la misma se presenta antes del emplazamiento previo por no declarar, o al dos por ciento (2%) del total del impuesto a cargo, sin exceder del doscientos por ciento (200%) del impuesto, si se presenta con posterioridad al citado emplazamiento y antes de que se profiera la respectiva resolución sanción por no declarar.
 
@@ -10182,7 +10823,7 @@ Los contribuyentes, agentes retenedores o responsables obligados a declarar, que
 
 9. En el caso de que la omisión se refiera a la declaración del impuesto a la riqueza y complementario, al ciento sesenta por ciento (160%) del impuesto determinado, tomando como base el valor del patrimonio líquido de la última declaración de renta presentada o que determine la Administración Tributaria por el período a que corresponda la declaración no presentada, el que fuere superior.
 
-10. <Ver Notas del Editor> En el caso de que la omisión se refiera a la declaración del monotributo, a una vez y media (1.5) el valor del impuesto que ha debido pagarse.
+10. En el caso de que la omisión se refiera a la declaración del monotributo, a una vez y media (1.5) el valor del impuesto que ha debido pagarse.
 
 11. <Numeral adicionado por el artículo 53 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> En el caso de que la omisión se refiera a la declaración del impuesto nacional sobre productos plásticos de un solo uso utilizados para envasar, embalar o empacar bienes, al veinte por ciento (20%) del valor del impuesto que ha debido pagarse. 
 
@@ -10207,12 +10848,12 @@ PARAGRAFO 2o. La sanción por corrección a las declaraciones se aplicará sin p
 
 PARAGRAFO 3o. Para efectos del cálculo de la sanción de que trata este artículo, el mayor valor a pagar o menor saldo a favor que se genere en la corrección, no deberá incluir la sanción aquí prevista. 
 
-PARAGRAFO 4o. La sanción de que trata el presente artículo no es aplicable a la corrección de que trata el artículo 589
+PARAGRAFO 4o. La sanción de que trata el presente artículo no es aplicable a la corrección de que trata el artículo 589.
 
 ## art:645 — SANCIÓN RELATIVA A LA DECLARACIÓN DE INGRESOS Y PATRIMONIO
 ubicacion: TITULO III. SANCIONES.
 
-<Artículo modificado por el artículo 286 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las entidades obligadas a presentar declaración de ingresos y patrimonio que lo hicieren extemporáneamente o que corrigieren sus declaraciones después del vencimiento del plazo para declarar, deberán liquidar y pagar una sanción equivalente al medio por ciento (0.5%) de su patrimonio líquido.
+Las entidades obligadas a presentar declaración de ingresos y patrimonio que lo hicieren extemporáneamente o que corrigieren sus declaraciones después del vencimiento del plazo para declarar, deberán liquidar y pagar una sanción equivalente al medio por ciento (0.5%) de su patrimonio líquido.
 
 Si la declaración se presenta con posterioridad al emplazamiento previo por no declarar o se corrige con posterioridad al emplazamiento para corregir, o auto que ordene la inspección tributaria, la sanción de que trata el inciso anterior se duplicará.
 
@@ -10221,12 +10862,12 @@ ubicacion: TITULO III. SANCIONES.
 
 Cuando la Administración de Impuestos efectúe una liquidación de corrección aritmética sobre la declaración tributaria, y resulte un mayor valor a pagar por concepto de impuestos, anticipos o retenciones a cargo del declarante, o un menor saldo a su favor para compensar o devolver, se aplicará una sanción equivalente al treinta por ciento (30%) del mayor valor a pagar o menor saldo a favor determinado, según el caso, sin perjuicio de los intereses moratorios a que haya lugar. 
 
-La sanción de que trata el presente artículo, se reducirá a la mitad de su valor, si el contribuyente, responsable, agente retenedor o declarante, dentro del término establecido para interponer el recurso respectivo, acepta los hechos de la liquidación de corrección, renuncia al mismo y cancela el mayor valor de la liquidación de corrección, junto con la sanción reducida
+La sanción de que trata el presente artículo, se reducirá a la mitad de su valor, si el contribuyente, responsable, agente retenedor o declarante, dentro del término establecido para interponer el recurso respectivo, acepta los hechos de la liquidación de corrección, renuncia al mismo y cancela el mayor valor de la liquidación de corrección, junto con la sanción reducida.
 
 ## art:647 — INEXACTITUD EN LAS DECLARACIONES TRIBUTARIAS
 ubicacion: TITULO III. SANCIONES.
 
-<Artículo modificado por el artículo 287 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Constituye inexactitud sancionable en las declaraciones tributarias, siempre que se derive un menor impuesto o saldo a pagar, o un mayor saldo a favor para el contribuyente, agente retenedor o responsable, las siguientes conductas:
+Constituye inexactitud sancionable en las declaraciones tributarias, siempre que se derive un menor impuesto o saldo a pagar, o un mayor saldo a favor para el contribuyente, agente retenedor o responsable, las siguientes conductas:
 
 1. La omisión de ingresos o impuestos generados por las operaciones gravadas, de bienes, activos o actuaciones susceptibles de gravamen.
 
@@ -10253,12 +10894,12 @@ Las razones y procedimientos para eximir de las sanciones de inexactitud o por c
 
 PARÁGRAFO 1o. Las correcciones a las declaraciones del impuesto sobre la renta que incluyan un incremento del valor de las pérdidas, deberán realizarse de conformidad con el procedimiento establecido en el artículo 589.
 
-PARÁGRAFO 2o. La sanción prevista en el presente artículo no se aplicará, cuando el contribuyente corrija voluntariamente su declaración antes de la notificación del emplazamiento para corregir o del auto que ordena inspección tributaria, y la pérdida no haya sido compensada
+PARÁGRAFO 2o. La sanción prevista en el presente artículo no se aplicará, cuando el contribuyente corrija voluntariamente su declaración antes de la notificación del emplazamiento para corregir o del auto que ordena inspección tributaria, y la pérdida no haya sido compensada.
 
 ## art:648 — SANCIÓN POR INEXACTITUD
 ubicacion: TITULO III. SANCIONES.
 
-<Artículo modificado por el artículo 288 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La sanción por inexactitud será equivalente al ciento por ciento (100%) de la diferencia entre el saldo a pagar o saldo a favor, según el caso, determinado en la liquidación oficial y el declarado por el contribuyente, agente retenedor o responsable, o al quince por ciento (15%) de los valores inexactos en el caso de las declaraciones de ingresos y patrimonio.
+La sanción por inexactitud será equivalente al ciento por ciento (100%) de la diferencia entre el saldo a pagar o saldo a favor, según el caso, determinado en la liquidación oficial y el declarado por el contribuyente, agente retenedor o responsable, o al quince por ciento (15%) de los valores inexactos en el caso de las declaraciones de ingresos y patrimonio.
 
 Esta sanción no se aplicará sobre el mayor valor del anticipo que se genere al modificar el impuesto declarado por el contribuyente.
 
@@ -10270,7 +10911,7 @@ En los siguientes casos, la cuantía de la sanción de que trata este artículo 
 
 3. Del veinte por ciento (20%) de los valores inexactos en el caso de las declaraciones de ingresos y patrimonio, cuando la inexactitud se origine de las conductas contempladas en el numeral 5 del artículo 647 del Estatuto Tributario o de la comisión de un abuso en materia tributaria, de acuerdo con lo señalado en el artículo 869 del Estatuto Tributario.
 
-4. <Ver Notas del Editor> Del cincuenta por ciento (50%) de la diferencia entre el saldo a pagar determinado por la Administración Tributaria y el declarado por el contribuyente, en el caso de las declaraciones de monotributo.
+4. Del cincuenta por ciento (50%) de la diferencia entre el saldo a pagar determinado por la Administración Tributaria y el declarado por el contribuyente, en el caso de las declaraciones de monotributo.
 
 PARÁGRAFO 1o. La sanción por inexactitud prevista en el inciso 1o del presente artículo se reducirá en todos los casos siempre que se cumplan los supuestos y condiciones de que tratan los artículos 709 y 713 de este Estatuto.
 
@@ -10286,19 +10927,7 @@ ubicacion: TITULO III. SANCIONES.
 
 El contribuyente o responsable que utilice fraudulentamente en sus informaciones tributarias cédulas de personas fallecidas o inexistentes, será denunciado como autor de fraude procesal. 
 
-La Administración Tributaria desconocerá los costos, deducciones, descuentos y pasivos patrimoniales cuando la identificación de los beneficiarios no corresponda a cédulas vigentes, y tal error no podrá ser subsanado posteriormente, a menos que el contribuyente o responsable pruebe que la operación se realizó antes del fallecimiento de la persona cuya cédula fue informada, o con su sucesión. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La Administración Tributaria desconocerá los costos, deducciones, descuentos y pasivos patrimoniales cuando la identificación de los beneficiarios no corresponda a cédulas vigentes, y tal error no podrá ser subsanado posteriormente, a menos que el contribuyente o responsable pruebe que la operación se realizó antes del fallecimiento de la persona cuya cédula fue informada, o con su sucesión.
 
 ## art:650-1 — SANCIÓN POR NO INFORMAR LA DIRECCIÓN
 ubicacion: TITULO III. SANCIONES.
@@ -10308,12 +10937,12 @@ ubicacion: TITULO III. SANCIONES.
 ## art:650-2 — SANCIÓN POR NO INFORMAR LA ACTIVIDAD ECONOMICA
 ubicacion: TITULO III. SANCIONES.
 
-SANCIONES RELATIVAS A INFORMACIONES Y EXPEDICIÓN DE FACTURAS
+SANCIONES RELATIVAS A INFORMACIONES Y EXPEDICIÓN DE FACTURAS.
 
 ## art:651 — SANCIÓN POR NO ENVIAR INFORMACIÓN O ENVIARLA CON ERRORES
 ubicacion: TITULO III. SANCIONES.
 
-<Artículo modificado por el artículo 80 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las personas y entidades obligadas a suministrar información tributaria, así como aquellas a quienes se les haya solicitado informaciones o pruebas, que no la suministren, que no la suministren dentro del plazo establecido para ello o cuyo contenido presente errores o no corresponda a lo solicitado, incurrirán en la siguiente sanción. 
+Las personas y entidades obligadas a suministrar información tributaria, así como aquellas a quienes se les haya solicitado informaciones o pruebas, que no la suministren, que no la suministren dentro del plazo establecido para ello o cuyo contenido presente errores o no corresponda a lo solicitado, incurrirán en la siguiente sanción. 
 
 1. Una multa que no supere siete mil quinientas (7.500) UVT, la cual será fijada teniendo en cuenta los siguientes criterios: 
 
@@ -10404,7 +11033,7 @@ ubicacion: TITULO III. SANCIONES.
 
 3. Por un término de treinta (30) días, cuando las materias primas, activos o bienes que forman parte del inventario, o las mercancías recibidas en consignación o en depósito, sean aprehendidas por violación al régimen aduanero vigente. En este evento, la sanción se aplicará en el mismo acto administrativo de decomiso y se hará efectiva dentro de los dos (2) días siguientes a la fecha de firmeza de este. La clausura se acompañará de la imposición de sellos oficiales que contengan la leyenda "CERRADO POR EVASIÓN Y CONTRABANDO". Esta sanción no será aplicable al tercero tenedor de buena fe, siempre y cuando ello se pruebe.
 
-4. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Por un término de tres (3) días, cuando el agente retenedor o el responsable del régimen común* <régimen de responsabilidad> del impuesto sobre las ventas o del impuesto nacional al consumo, o el responsable del impuesto nacional a la gasolina y al ACPM, o del impuesto nacional al carbono, se encuentre en omisión de la presentación de la declaración o en mora de la cancelación del saldo a pagar, superior a tres (3) meses contados a partir de las fechas de vencimiento para la presentación y pago establecidas por el Gobierno nacional. No habrá lugar a la clausura del establecimiento para aquellos contribuyentes cuya mora se deba a la existencia de saldos a favor pendientes de compensar, siempre que se hubiere presentado la solicitud de compensación en los términos establecidos por la ley; tampoco será aplicable la sanción de clausura, siempre que el contribuyente declare y pague. Los eximentes de responsabilidad previstos en el artículo 665 de este Estatuto se tendrán en cuenta para la aplicación de esta sanción, siempre que se demuestre tal situación en la respuesta al pliego de cargos.
+4. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> Por un término de tres (3) días, cuando el agente retenedor o el responsable del [TACHADO: régimen común*] <régimen de responsabilidad> del impuesto sobre las ventas o del impuesto nacional al consumo, o el responsable del impuesto nacional a la gasolina y al ACPM, o del impuesto nacional al carbono, se encuentre en omisión de la presentación de la declaración o en mora de la cancelación del saldo a pagar, superior a tres (3) meses contados a partir de las fechas de vencimiento para la presentación y pago establecidas por el Gobierno nacional. No habrá lugar a la clausura del establecimiento para aquellos contribuyentes cuya mora se deba a la existencia de saldos a favor pendientes de compensar, siempre que se hubiere presentado la solicitud de compensación en los términos establecidos por la ley; tampoco será aplicable la sanción de clausura, siempre que el contribuyente declare y pague. Los eximentes de responsabilidad previstos en el artículo 665 de este Estatuto se tendrán en cuenta para la aplicación de esta sanción, siempre que se demuestre tal situación en la respuesta al pliego de cargos.
 
 5. <Numeral adicionado por el artículo 111 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Por un término de tres (3) días, cuando se establezca la no adopción o el incumplimiento de sistemas técnicos de control. 
 
@@ -10467,7 +11096,7 @@ ubicacion: TITULO III. SANCIONES.
 
 Se impondrá la clausura del establecimiento, sede, local, negocio u oficina, por el término de un (1) día por cada mes o fracción de mes de retraso en la inscripción, o una multa equivalente a una (1) UVT por cada día de retraso en la inscripción, para quienes no tengan establecimiento, sede, local, negocio u oficina. 
 
-2. <Ver Notas del Editor**> <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral modificado por el artículo 291 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Sanción por no exhibir en lugar visible al público la certificación de la inscripción en el Registro Único Tributario (RUT), por parte del responsable del régimen simplificado del IVA*. 
+2. <*Texto sustituido según el artículo 20 de la Ley 2010 de 2019> <Numeral modificado por el artículo 291 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Sanción por no exhibir en lugar visible al público la certificación de la inscripción en el Registro Único Tributario (RUT), por parte del responsable del régimen simplificado del IVA*. 
 
 Se impondrá una multa equivalente a diez (10) UVT.
 
@@ -10550,11 +11179,11 @@ ubicacion: TITULO III. SANCIONES.
 
 <Ver Notas del Editor en relación con la derogatoria tácita de los tres primeros incisos de este artículo, introducida por los Artículos 402 y 474 de la Ley 599 de 2000> <Artículo adicionado por el artículo 22 de la Ley 383 de 1997. El nuevo texto es el siguiente:> El Agente Retenedor que no consigne las sumas retenidas dentro de los dos (2) meses siguientes a aquel en que se efectuó la respectiva retención, queda sometido a las mismas sanciones previstas en la ley penal para los servidores públicos que incurran en el delito de peculado por apropiación. 
 
-<Ver Notas de Editor en el inciso anterior> En la misma sanción incurrirá el responsable del impuesto sobre las ventas que, teniendo la obligación legal de hacerlo, no consigne las sumas recaudadas por dicho concepto, dentro del mes siguiente a la finalización del bimestre correspondiente. 
+ En la misma sanción incurrirá el responsable del impuesto sobre las ventas que, teniendo la obligación legal de hacerlo, no consigne las sumas recaudadas por dicho concepto, dentro del mes siguiente a la finalización del bimestre correspondiente. 
 
-<Ver Notas de Editor en el inciso anterior> Tratándose de sociedades u otras entidades, quedan sometidas a esas mismas sanciones las personas naturales encargadas en cada entidad del cumplimiento de dichas obligaciones. Para tal efecto, las empresas deberán informar a la administración de la cual sea contribuyente, con anterioridad al ejercicio de sus funciones, la identidad de la persona que tiene la autonomía suficiente para realizar tal encargo y la constancia de su aceptación. De no hacerlo las sanciones previstas en este artículo, recaerán sobre el representante legal. 
+ Tratándose de sociedades u otras entidades, quedan sometidas a esas mismas sanciones las personas naturales encargadas en cada entidad del cumplimiento de dichas obligaciones. Para tal efecto, las empresas deberán informar a la administración de la cual sea contribuyente, con anterioridad al ejercicio de sus funciones, la identidad de la persona que tiene la autonomía suficiente para realizar tal encargo y la constancia de su aceptación. De no hacerlo las sanciones previstas en este artículo, recaerán sobre el representante legal. 
 
-PARAGRAFO. <Ver Notas del Editor en relación con la derogatoria tácita de este inciso> <Aparte tachado derogado por el artículo 21 de la Ley 1066 de 2006. Parágrafos 1o. y 2o. unificados en un parágrafo por el artículo 42 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Cuando el agente retenedor o responsable del impuesto a las ventas extinga en su totalidad la obligación tributaria, junto con sus correspondientes intereses y sanciones, mediante pago o compensación de las sumas adeudadas, no habrá lugar a responsabilidad penal. Tampoco habrá responsabilidad penal cuando el agente retenedor o responsable del impuesto sobre las ventas demuestre que ha suscrito un acuerdo de pago por las sumas debidas y que éste se está cumpliendo en debida forma. 
+PARAGRAFO. <Aparte tachado derogado por el artículo 21 de la Ley 1066 de 2006. Parágrafos 1o. y 2o. unificados en un parágrafo por el artículo 42 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Cuando el agente retenedor o responsable del impuesto a las ventas extinga en su totalidad la obligación tributaria, junto con sus correspondientes intereses y sanciones, mediante pago o compensación de las sumas adeudadas, no habrá lugar a responsabilidad penal. [TACHADO: Tampoco habrá responsabilidad penal cuando el agente retenedor o responsable del impuesto sobre las ventas demuestre que ha suscrito un acuerdo de pago por las sumas debidas y que éste se está cumpliendo en debida forma]. 
 
 <Pérdida de fuerza ejecutoria por carencia actual del objeto> Lo dispuesto en el presente artículo no será aplicable para el caso de las sociedades que se encuentren en procesos concordatarios; en liquidación forzosa administrativa; en proceso de toma de posesión en el caso de entidades vigiladas por la Superintendencia Bancaria<2>, o hayan sido admitidas a la negociación de un Acuerdo de Reestructuración a que hace referencia la Ley 550 de 1999, en relación con el impuesto sobre las ventas y las retenciones en la fuente causadas.
 
@@ -10580,7 +11209,7 @@ ubicacion: TITULO III. SANCIONES.
 ## art:669 — SANCIÓN POR OMITIR INGRESOS O SERVIR DE INSTRUMENTO DE EVASIÓN
 ubicacion: TITULO III. SANCIONES.
 
-Los responsables del impuesto sobre las ventas pertenecientes al régimen común* <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, que realicen operaciones ficticias, omitan ingresos o representen sociedades que sirvan como instrumento de evasión tributaria, incurrirán en una multa equivalente al valor de la operación que es motivo de la misma. 
+Los responsables del impuesto sobre las ventas pertenecientes al [TACHADO: régimen común*] <régimen de responsabilidad del Impuesto sobre las Ventas (IVA)>, que realicen operaciones ficticias, omitan ingresos o representen sociedades que sirvan como instrumento de evasión tributaria, incurrirán en una multa equivalente al valor de la operación que es motivo de la misma. 
 
 Esta multa se impondrá por el Administrador de Impuestos Nacionales, previa comprobación del hecho y traslado de cargos al responsable por el término de un (1) mes para contestar.
 
@@ -10680,19 +11309,7 @@ Los empleados y trabajadores del Estado a quienes como producto de una investiga
 
 La sanción administrativa aquí prevista, se impondrá por la entidad nominadora, previa información remitida por el Director de Impuestos Nacionales<1>, y una vez en firme la liquidación oficial en la vía gubernativa. 
 
-SANCIONES A ENTIDADES AUTORIZADAS PARA RECAUDAR IMPUESTOS 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+SANCIONES A ENTIDADES AUTORIZADAS PARA RECAUDAR IMPUESTOS
 
 ## art:674 — ERRORES DE VERIFICACIÓN
 ubicacion: TITULO III. SANCIONES.
@@ -10718,12 +11335,12 @@ Sin perjuicio de lo dispuesto en el artículo anterior, cuando la información r
 
 3. Treinta (30) UVT cuando los errores se presenten respecto de un número de documentos mayor al cuatro por ciento (4%) del total de documentos.
 
-4. Cinco (5) UVT por cada documento físico no reportado en medio magnético o cuando el documento queda reportado más de una vez en el medio magnético
+4. Cinco (5) UVT por cada documento físico no reportado en medio magnético o cuando el documento queda reportado más de una vez en el medio magnético.
 
 ## art:676 — EXTEMPORANEIDAD EN LA ENTREGA DE LA INFORMACIÓN DE LOS DOCUMENTOS RECIBIDOS DE LOS CONTRIBUYENTES
 ubicacion: TITULO III. SANCIONES.
 
-<Artículo modificado por el artículo 297 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Cuando las entidades autorizadas para recaudar impuestos incumplan los términos fijados y lugares señalados por el Ministerio de Hacienda y Crédito Público para la entrega de los documentos recibidos, así como para entregar la información correspondiente a esos documentos en medios electrónicos o en los mecanismos que se determinen para la grabación y transmisión, incurrirán en las siguientes sanciones, por cada documento:
+Cuando las entidades autorizadas para recaudar impuestos incumplan los términos fijados y lugares señalados por el Ministerio de Hacienda y Crédito Público para la entrega de los documentos recibidos, así como para entregar la información correspondiente a esos documentos en medios electrónicos o en los mecanismos que se determinen para la grabación y transmisión, incurrirán en las siguientes sanciones, por cada documento:
 
 1. De uno (1) a cinco (5) días de retraso, una sanción de una (1) UVT.
 
@@ -10739,7 +11356,10 @@ ubicacion: TITULO III. SANCIONES.
 
 Los términos se contaran por días calendario, a partir del día siguiente al vencimiento del plazo para la entrega de los documentos o la información correspondiente a los documentos, hasta el día de su entrega efectiva.
 
-ARTÍCULO 676-1. EXTEMPORANEIDAD E INEXACTITUD EN LOS INFORMES, FORMATOS O DECLARACIONES QUE DEBEN PRESENTAR LAS ENTIDADES AUTORIZADAS PARA RECAUDAR. <Artículo adicionado por el artículo 298 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Las entidades autorizadas para recaudar incurrirán en las siguientes sanciones, en relación con la presentación y entrega de informes de recaudo, formatos o declaraciones de consignaciones establecidos por la Dirección de Impuestos y Aduanas Nacionales para el control del recaudo:
+## art:676-1 — EXTEMPORANEIDAD E INEXACTITUD EN LOS INFORMES, FORMATOS O DECLARACIONES QUE DEBEN PRESENTAR LAS ENTIDADES AUTORIZADAS PARA RECAUDAR
+ubicacion: TITULO III. SANCIONES.
+
+Las entidades autorizadas para recaudar incurrirán en las siguientes sanciones, en relación con la presentación y entrega de informes de recaudo, formatos o declaraciones de consignaciones establecidos por la Dirección de Impuestos y Aduanas Nacionales para el control del recaudo:
 
 1. Veinte (20) UVT por errores en las cifras reportadas en el valor del recaudo diario, valor del recaudo total, número de operaciones registradas, saldos de consignación del recaudo, valor por intereses, valor por sanciones, valor por consignaciones y saldos pendientes por consignar, en los informes de recaudo, formatos o declaraciones de consignaciones solicitados por la Autoridad Tributaria.
 
@@ -10755,13 +11375,19 @@ Los términos se contarán por días calendario, a partir del día siguiente al 
 
 En la misma sanción prevista en el numeral 2 de este artículo, incurrirán las entidades autorizadas para recaudar que realicen las correcciones a los informes de recaudo, formatos o declaraciones de consignaciones solicitadas por la Administración Tributaria, por fuera de los plazos concedidos para realizarlas.
 
-ARTÍCULO 676-2. APLICACIÓN DE LOS PRINCIPIOS DE LESIVIDAD, PROPORCIONALIDAD, GRADUALIDAD Y FAVORABILIDAD EN EL RÉGIMEN SANCIONATORIO DE LAS ENTIDADES AUTORIZADAS PARA RECAUDAR. <Artículo adicionado por el artículo 299 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para la aplicación del régimen sancionatorio establecido en los artículos 674, 675, 676 y 676-1 del presente Estatuto se deberá atender lo siguiente:
+## art:676-2 — APLICACIÓN DE LOS PRINCIPIOS DE LESIVIDAD, PROPORCIONALIDAD, GRADUALIDAD Y FAVORABILIDAD EN EL RÉGIMEN SANCIONATORIO DE LAS ENTIDADES AUTORIZADAS PARA RECAUDAR
+ubicacion: TITULO III. SANCIONES.
+
+Para la aplicación del régimen sancionatorio establecido en los artículos 674, 675, 676 y 676-1 del presente Estatuto se deberá atender lo siguiente:
 
 1. La sanción se reducirá al cincuenta por ciento (50%) del monto previsto en la ley, siempre que los errores, inconsistencias y/o extemporaneidades se presenten respecto de un número de documentos o informes menor o igual al uno por ciento (1.0%) del total de documentos recepcionados o informes presentados por la entidad autorizada para recaudar durante el año fiscal en el que se hubiesen cometido las respectivas conductas objeto de sanción.
 
 2. La sanción se reducirá al setenta y cinco por ciento (75%) del monto previsto en la ley, siempre que los errores, inconsistencias y/o extemporaneidades se presenten respecto de un número de documentos o informes mayor al uno por ciento (1.0%) y menor al uno punto cinco por ciento (1.5%) del total de documentos recepcionados o informes presentados por la entidad autorizada para recaudar durante el año fiscal en el que se hubiesen cometido las respectivas conductas objeto de sanción.
 
-ARTÍCULO 676-3. SANCIÓN MÍNIMA Y MÁXIMA EN EL RÉGIMEN SANCIONATORIO DE LAS ENTIDADES AUTORIZADAS PARA RECAUDAR. <Artículo adicionado por el artículo 301 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En ningún caso el valor de las sanciones de que tratan los artículos 674, 675, 676 y 676-1 de este Estatuto será inferior a veinte (20) UVT por cada conducta sancionable. 
+## art:676-3 — SANCIÓN MÍNIMA Y MÁXIMA EN EL RÉGIMEN SANCIONATORIO DE LAS ENTIDADES AUTORIZADAS PARA RECAUDAR
+ubicacion: TITULO III. SANCIONES.
+
+En ningún caso el valor de las sanciones de que tratan los artículos 674, 675, 676 y 676-1 de este Estatuto será inferior a veinte (20) UVT por cada conducta sancionable. 
 
 En todo caso, la sumatoria de las sanciones de que trata el inciso anterior, que se lleguen a imponer, no podrá superar el monto de treinta y tres mil (33.000) UVT en el año fiscal.
 
@@ -10793,7 +11419,7 @@ c. La reincidencia de los funcionarios de Impuestos Nacionales o de otros emplea
 ## art:680 — VIOLACIÓN MANIFIESTA DE LA LEY
 ubicacion: TITULO III. SANCIONES.
 
-<Fuente original compilada: L. 8/70 Art. 10> Los liquidadores del impuesto sobre la renta serán responsables por mala liquidación cuando, de acuerdo con la decisión definitiva de los recursos interpuestos por los contribuyentes, hubieren violado manifiestamente las disposiciones sustantivas de la legislación tributaria. Esta responsabilidad se extenderá a quienes hubieren confirmado en la vía gubernativa la mala liquidación y la reincidencia en ella por más de tres veces será causal de destitución del empleo. 
+Los liquidadores del impuesto sobre la renta serán responsables por mala liquidación cuando, de acuerdo con la decisión definitiva de los recursos interpuestos por los contribuyentes, hubieren violado manifiestamente las disposiciones sustantivas de la legislación tributaria. Esta responsabilidad se extenderá a quienes hubieren confirmado en la vía gubernativa la mala liquidación y la reincidencia en ella por más de tres veces será causal de destitución del empleo. 
 
 PARAGRAFO. La Administración de Impuestos estará obligada, a petición del contribuyente interesado, a suministrarle el nombre del liquidador para los efectos de este artículo, y a solicitud comprobada de aquel, deberá aplicar las sanciones en él previstas.
 
@@ -10868,9 +11494,12 @@ El Gobierno Nacional podrá establecer la tarjeta fiscal como un sistema técnic
 
 En las condiciones señaladas en el inciso anterior, también será descontable el costo del programa de computador y de las adaptaciones necesarias para la implantación de la tarjeta fiscal, hasta por una suma equivalente al cincuenta (50%) del valor de las tarjetas instaladas durante el respectivo año. 
 
-PARAGRAFO. Los sectores de contribuyentes que deban adoptar la tarjeta fiscal establecida en el presente artículo, deberán corresponder preferencialmente a los sectores proclives a la evasión, de acuerdo con las recomendaciones de la Comisión Mixta de Gestión Tributaria y Aduanera. 
+PARAGRAFO. Los sectores de contribuyentes que deban adoptar la tarjeta fiscal establecida en el presente artículo, deberán corresponder preferencialmente a los sectores proclives a la evasión, de acuerdo con las recomendaciones de la Comisión Mixta de Gestión Tributaria y Aduanera.
 
-ARTÍCULO 684-4. SANCIONES APLICABLES A LOS PROVEEDORES AUTORIZADOS Y TECNOLÓGICOS. <Artículo modificado por el artículo 112 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El proveedor autorizado y/o el proveedor tecnológico será sancionado con la imposibilidad de contratar con nuevos clientes para prestar sus servicios, con el objetivo de cumplir alguna o varias de las funciones establecidas en el numeral 1 del artículo 616-4 del Estatuto Tributario, cuando incurra en alguna de las infracciones previstas en el numeral segundo de ese mismo artículo, de forma reiterada. Dicha imposibilidad tendrá una duración de un (1) año contado desde el día en el que cobre firmeza el acto por medio del cual se impuso esa sanción al proveedor tecnológico y/o el proveedor autorizado. Si es reincidente, la imposibilidad tendrá una duración de dos (2) años. 
+## art:684-4 — SANCIONES APLICABLES A LOS PROVEEDORES AUTORIZADOS Y TECNOLÓGICOS
+ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO I. NORMAS GENERALES.
+
+El proveedor autorizado y/o el proveedor tecnológico será sancionado con la imposibilidad de contratar con nuevos clientes para prestar sus servicios, con el objetivo de cumplir alguna o varias de las funciones establecidas en el numeral 1 del artículo 616-4 del Estatuto Tributario, cuando incurra en alguna de las infracciones previstas en el numeral segundo de ese mismo artículo, de forma reiterada. Dicha imposibilidad tendrá una duración de un (1) año contado desde el día en el que cobre firmeza el acto por medio del cual se impuso esa sanción al proveedor tecnológico y/o el proveedor autorizado. Si es reincidente, la imposibilidad tendrá una duración de dos (2) años. 
 
 En caso de que la reincidencia se presente por tercera vez, de acuerdo con el artículo 640 del Estatuto Tributario, por incurrir en la misma infracción que generó la sanción u otra de las establecidas en el mismo numeral, el proveedor tecnológico y/o el proveedor autorizado será sancionado con la cancelación de la habilitación y sólo podrá ejercer como proveedor tecnológico y/o proveedor autorizado, trascurrido un (1) año de haber sido cancelada su habilitación, para lo cual deberá surtir nuevamente el procedimiento previsto para ello. 
 
@@ -10957,9 +11586,12 @@ PARÁGRAFO 3o. Cuando se trate de declaraciones que registren saldo a favor, el 
 
 PARÁGRAFO 4o. Los términos de firmeza previstos en el presente artículo no serán aplicables en relación con las declaraciones privadas del impuesto sobre las ventas y de retención en la fuente por los períodos comprendidos en los años 2020 y 2021, las cuales se regirán en esta materia por lo previsto en los artículos 705 y 714 del Estatuto Tributario. 
 
-PARÁGRAFO 5o. Las disposiciones consagradas en el artículo 105 de la Ley 1943 de 2018 surtirán los efectos allí dispuestos para los contribuyentes que se hayan acogido al beneficio de auditoría por el año gravable 2019. 
+PARÁGRAFO 5o. Las disposiciones consagradas en el artículo 105 de la Ley 1943 de 2018 surtirán los efectos allí dispuestos para los contribuyentes que se hayan acogido al beneficio de auditoría por el año gravable 2019.
 
-ARTÍCULO 689-3. BENEFICIO DE LA AUDITORÍA. <Ver prórrogas en Notas de Vigencia>* <Artículo adicionado por el artículo 51 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Para los periodos gravables 2022 y 2023 <2024, 2025, 2026>*, la liquidación privada de los contribuyentes del impuesto sobre la renta y complementarios que incrementen su impuesto neto de renta en por lo menos un porcentaje mínimo del treinta y cinco por ciento (35%), en relación con el impuesto neto de renta del año inmediatamente anterior, quedará en firme si dentro de los seis (6) meses siguientes a la fecha de su presentación no se hubiere notificado emplazamiento para corregir o requerimiento especial o emplazamiento especial o liquidación provisional, siempre que la declaración sea debidamente presentada en forma oportuna y el pago total se realice en los plazos que para tal efecto fije el Gobierno nacional. 
+## art:689-3 — BENEFICIO DE LA AUDITORÍA
+ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO I. NORMAS GENERALES.
+
+* <Artículo adicionado por el artículo 51 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Para los periodos gravables 2022 y 2023 <2024, 2025, 2026>*, la liquidación privada de los contribuyentes del impuesto sobre la renta y complementarios que incrementen su impuesto neto de renta en por lo menos un porcentaje mínimo del treinta y cinco por ciento (35%), en relación con el impuesto neto de renta del año inmediatamente anterior, quedará en firme si dentro de los seis (6) meses siguientes a la fecha de su presentación no se hubiere notificado emplazamiento para corregir o requerimiento especial o emplazamiento especial o liquidación provisional, siempre que la declaración sea debidamente presentada en forma oportuna y el pago total se realice en los plazos que para tal efecto fije el Gobierno nacional. 
 
 Si el incremento del impuesto neto de renta es de al menos un porcentaje mínimo del veinticinco por ciento (25%), en relación con el impuesto neto de renta del año inmediatamente anterior, la declaración de renta quedará en firme si dentro de los doce (12) meses siguientes a la fecha de su presentación no se hubiere notificado emplazamiento para corregir o requerimiento especial o emplazamiento especial o liquidación provisional, siempre que la declaración sea debidamente presentada en forma oportuna y el pago total se realice en los plazos que para tal efecto fije el Gobierno nacional. 
 
@@ -11111,7 +11743,7 @@ El requerimiento de que trata el artículo 703 deberá notificarse a más tardar
 ## art:705-1 — TERMINO PARA NOTIFICAR EL REQUERIMIENTO EN VENTAS Y RETENCIÓN EN LA FUENTE
 ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO II. LIQUIDACIONES OFICIALES.
 
-<Artículo adicionado por el artículo 134 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Los términos para notificar el requerimiento especial y para que queden en firme las declaraciones del impuesto sobre las ventas y de retención en la fuente, del contribuyente, a que se refieren los artículos 705 y 714 del Estatuto Tributario, serán los mismos que correspondan a su declaración de renta respecto de aquellos períodos que coincidan con el correspondiente año gravable.
+Los términos para notificar el requerimiento especial y para que queden en firme las declaraciones del impuesto sobre las ventas y de retención en la fuente, del contribuyente, a que se refieren los artículos 705 y 714 del Estatuto Tributario, serán los mismos que correspondan a su declaración de renta respecto de aquellos períodos que coincidan con el correspondiente año gravable.
 
 ## art:706 — SUSPENSION DEL TERMINO
 ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO II. LIQUIDACIONES OFICIALES.
@@ -11186,12 +11818,12 @@ h.Firma o sello del control manual o automatizado.
 ## art:713 — CORRECCIÓN PROVOCADA POR LA LIQUIDACIÓN DE REVISIÓN
 ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO II. LIQUIDACIONES OFICIALES.
 
-Si dentro del término para interponer el recurso de reconsideración contra la liquidación de revisión, el contribuyente, responsable o agente retenedor, acepta total o parcialmente los hechos planteados en la liquidación, la sanción por inexactitud se reducirá a la mitad de la sanción inicialmente propuesta por la Administración, en relación con los hechos aceptados. Para tal efecto, el contribuyente, responsable o agente retenedor, deberá corregir su liquidación privada, incluyendo los mayores valores aceptados y la sanción por inexactitud reducida, y presentar un memorial ante la correspondiente oficina de Recursos Tributarios, en el cual consten los hechos aceptados y se adjunte copia o fotocopia de la respectiva corrección y de la prueba del pago o acuerdo de pago de los impuestos, retenciones y sanciones, incluida la de inexactitud reducida
+Si dentro del término para interponer el recurso de reconsideración contra la liquidación de revisión, el contribuyente, responsable o agente retenedor, acepta total o parcialmente los hechos planteados en la liquidación, la sanción por inexactitud se reducirá a la mitad de la sanción inicialmente propuesta por la Administración, en relación con los hechos aceptados. Para tal efecto, el contribuyente, responsable o agente retenedor, deberá corregir su liquidación privada, incluyendo los mayores valores aceptados y la sanción por inexactitud reducida, y presentar un memorial ante la correspondiente oficina de Recursos Tributarios, en el cual consten los hechos aceptados y se adjunte copia o fotocopia de la respectiva corrección y de la prueba del pago o acuerdo de pago de los impuestos, retenciones y sanciones, incluida la de inexactitud reducida.
 
 ## art:714 — TÉRMINO GENERAL DE FIRMEZA DE LAS DECLARACIONES TRIBUTARIAS
 ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO II. LIQUIDACIONES OFICIALES.
 
-<Artículo modificado por el artículo 277 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La declaración tributaria quedará en firme sí, dentro de los tres (3) años siguientes a la fecha del vencimiento del plazo para declarar, no se ha notificado requerimiento especial. Cuando la declaración inicial se haya presentado en forma extemporánea, los tres (3) años se contarán a partir de la fecha de presentación de la misma.
+La declaración tributaria quedará en firme sí, dentro de los tres (3) años siguientes a la fecha del vencimiento del plazo para declarar, no se ha notificado requerimiento especial. Cuando la declaración inicial se haya presentado en forma extemporánea, los tres (3) años se contarán a partir de la fecha de presentación de la misma.
 
 La declaración tributaria en la que se presente un saldo a favor del contribuyente o responsable quedará en firme sí, tres (3) años después de la fecha de presentación de la solicitud de devolución o compensación, no se ha notificado requerimiento especial. Cuando se impute el saldo a favor en las declaraciones tributarias de los periodos fiscales siguientes, el término de firmeza de la declaración tributaria en la que se presente un saldo a favor será el señalado en el inciso 1o de este artículo.
 
@@ -11201,7 +11833,7 @@ La declaración tributaria en la que se liquide pérdida fiscal quedará en firm
 
 <Inciso derogado por el artículo 122 de la Ley 1943 de 2018 y el artículo 160 de la Ley 2010 de 2019> 
 
-<Ver Notas del Editor> El término de firmeza de la declaración del impuesto sobre la renta y complementarios de los contribuyentes sujetos al Régimen de Precios de Transferencia será de seis (6)* años contados a partir del vencimiento del plazo para declarar. Si la declaración se presentó en forma extemporánea, el anterior término se contará a partir de la fecha de presentación de la misma.
+ El término de firmeza de la declaración del impuesto sobre la renta y complementarios de los contribuyentes sujetos al Régimen de Precios de Transferencia será de seis (6)* años contados a partir del vencimiento del plazo para declarar. Si la declaración se presentó en forma extemporánea, el anterior término se contará a partir de la fecha de presentación de la misma.
 
 LIQUIDACIÓN DE AFORO
 
@@ -11264,7 +11896,10 @@ Los efectos de la inscripción de que trata el artículo 719-1 son:
 
 3. El propietario de un bien objeto de la inscripción deberá advertir al comprador de tal circunstancia. Si no lo hiciere, deberá responder civilmente ante el mismo, de acuerdo con las normas del Código Civil.
 
-ARTÍCULO 719-3. DETERMINACIÓN OFICIAL DE IMPUESTOS MEDIANTE FACTURA. <Artículo adicionado por el artículo 64 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Autorícese a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) para facturar el impuesto sobre la renta y complementarios, que constituye la determinación oficial del respectivo impuesto y presta mérito ejecutivo conforme con lo previsto en el presente artículo para quienes incumplan con la obligación de declarar en los plazos previstos por el Gobierno nacional. La facturación de que trata el presente artículo es un acto administrativo. 
+## art:719-3 — DETERMINACIÓN OFICIAL DE IMPUESTOS MEDIANTE FACTURA
+ubicacion: TITULO IV. DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES. > CAPITULO II. LIQUIDACIONES OFICIALES.
+
+Autorícese a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) para facturar el impuesto sobre la renta y complementarios, que constituye la determinación oficial del respectivo impuesto y presta mérito ejecutivo conforme con lo previsto en el presente artículo para quienes incumplan con la obligación de declarar en los plazos previstos por el Gobierno nacional. La facturación de que trata el presente artículo es un acto administrativo. 
 
 La base gravable, así como los demás elementos para la determinación y liquidación del respectivo impuesto por medio de la factura deberán cumplir con lo establecido en el Estatuto Tributario, según la información reportada por terceros, el sistema de factura electrónica en los términos del Artículo 616-1 de este Estatuto y demás mecanismos contemplados en el Estatuto Tributario y fuentes de información a las que tenga acceso la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
 
@@ -11315,7 +11950,7 @@ a. Que se formule por escrito, con expresión concreta de los motivos de inconfo
 
 b. Que se interponga dentro de la oportunidad legal. 
 
-c. <Ver Notas del Editor> Que se interponga directamente por el contribuyente, responsable, agente retenedor o declarante, o se acredite la personería si quien lo interpone actúa como apoderado o representante. Cuando se trate de agente oficioso, la persona por quien obra, ratificará la actuación del agente dentro del término de dos (2) meses, contados a partir de la notificación del auto de admisión del recurso; si no hubiere ratificación se entenderá que el recurso no se presentó en debida forma y se revocará el auto admisorio. 
+c. Que se interponga directamente por el contribuyente, responsable, agente retenedor o declarante, o se acredite la personería si quien lo interpone actúa como apoderado o representante. Cuando se trate de agente oficioso, la persona por quien obra, ratificará la actuación del agente dentro del término de dos (2) meses, contados a partir de la notificación del auto de admisión del recurso; si no hubiere ratificación se entenderá que el recurso no se presentó en debida forma y se revocará el auto admisorio. 
 
 Para estos efectos, únicamente los abogados podrán actuar como agentes oficiosos. 
 
@@ -11348,17 +11983,7 @@ Si transcurridos los quince días hábiles siguientes a la interposición del re
 ## art:727 — NOTIFICACIÓN DEL AUTO
 ubicacion: TITULO V. DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 140 de la Ley 6 de 1992>
 
 ## art:728 — RECURSO CONTRA EL AUTO INADMISORIO
 ubicacion: TITULO V. DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN.
@@ -11490,7 +12115,7 @@ Para estimar el mérito de las pruebas, éstas deben obrar en el expediente, por
 
 7. <Numeral adicionado por el artículo 51 de la Ley 6 de 1992. El nuevo texto es el siguiente:> Haber sido enviadas por Gobierno o entidad extranjera a solicitud de la administración colombiana o de oficio. 
 
-8. <Numeral adicionado por el artículo 44 de la Ley 633 de 2000. Aparte tachado INEXEQUIBLE. El nuevo texto es el siguiente:> Haber sido obtenidas y allegadas en cumplimiento de acuerdos interinstitucionales recíprocos de intercambio de información, para fines de control fiscal con entidades del orden nacional o con agencias de gobiernos extranjeros. 
+8. <Numeral adicionado por el artículo 44 de la Ley 633 de 2000. Aparte tachado INEXEQUIBLE. El nuevo texto es el siguiente:> Haber sido obtenidas y allegadas en cumplimiento de acuerdos interinstitucionales recíprocos de intercambio de información, para fines de control fiscal con entidades del orden nacional [TACHADO: o con agencias de gobiernos extranjeros]. 
 
 9. <Numeral adicionado por el artículo 44 de la Ley 633 de 2000. El nuevo texto es el siguiente:> Haber sido practicadas por autoridades extranjeras a solicitud de la Administración Tributaria, o haber sido practicadas directamente por funcionarios de la Administración Tributaria debidamente comisionados de acuerdo a la ley.
 
@@ -11574,19 +12199,7 @@ Los datos estadísticos oficiales obtenidos o procesados por la Dirección Gener
 ## art:755 — LA OMISION DEL NIT O DEL NOMBRE EN LA CORRESPONDENCIA, FACTURAS Y RECIBOS PERMITEN PRESUMIR INGRESOS
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
 
-El incumplimiento del deber contemplado en el artículo 619, hará presumir la omisión de pagos declarados por terceros, por parte del presunto beneficiario de los mismos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El incumplimiento del deber contemplado en el artículo 619, hará presumir la omisión de pagos declarados por terceros, por parte del presunto beneficiario de los mismos.
 
 ## art:755-1 — PRESUNCIÓN EN JUEGOS DE AZAR
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
@@ -11687,6 +12300,105 @@ Cuando la contabilidad del responsable no permita identificar los bienes vendido
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
 
 <Artículo declarado INEXEQUIBLE>
+
+## art:764 — LIQUIDACIÓN PROVISIONAL
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+La Administración Tributaria podrá proferir Liquidación Provisional con el propósito de determinar y liquidar las siguientes obligaciones:
+
+a) Impuestos, gravámenes, contribuciones, sobretasas, anticipos y retenciones que hayan sido declarados de manera inexacta o que no hayan sido declarados por el contribuyente, agente de retención o declarante, junto con las correspondientes sanciones que se deriven por la inexactitud u omisión, según el caso;
+
+b) Sanciones omitidas o indebidamente liquidadas en las declaraciones tributarias;
+
+c) Sanciones por el incumplimiento de las obligaciones formales.
+
+Para tal efecto, la Administración Tributaria podrá utilizar como elemento probatorio la información obtenida de conformidad con lo establecido en el artículo 631 y a partir de las presunciones y los medios de prueba contemplados en el Estatuto Tributario, y que permita la proyección de los factores a partir de los cuales se establezca una presunta inexactitud, impuestos, gravámenes, contribuciones, sobretasas, anticipos, retenciones y sanciones.
+
+La Liquidación Provisional deberá contener lo señalado en el artículo 712 del Estatuto Tributario.
+
+PARÁGRAFO 1o. En los casos previstos en este artículo, solo se proferirá Liquidación Provisional respecto de aquellos contribuyentes que, en el año gravable inmediatamente anterior al cual se refiere la Liquidación Provisional, hayan declarado ingresos brutos iguales o inferiores a quince mil (15.000) UVT o un patrimonio bruto igual o inferior a treinta mil (30.000) UVT, o que determine la Administración Tributaria a falta de declaración, en ningún caso se podrá superar dicho tope. 
+
+PARÁGRAFO 2o. En la Liquidación Provisional se liquidarán los impuestos, gravámenes, contribuciones, sobretasas, anticipos, retenciones y sanciones de uno o varios periodos gravables correspondientes a un mismo impuesto, que puedan ser objeto de revisión, o se determinarán las obligaciones formales que han sido incumplidas en uno o más periodos respecto de los cuales no haya prescrito la acción sancionatoria.
+
+PARÁGRAFO 3o. La Administración Tributaria proferirá Liquidación Provisional con el propósito de determinar y liquidar el monotributo cuando los contribuyentes del mismo omitan su declaración o lo declaren de manera inexacta, junto con las correspondientes sanciones.
+
+PARÁGRAFO 4o. Cuando se solicite la modificación de la Liquidación Provisional por parte del contribuyente, el término de firmeza de la declaración tributaria sobre la cual se adelanta la discusión, se suspenderá por el término que dure la discusión, contado a partir de la notificación de la Liquidación Provisional.
+
+## art:764-1 — PROCEDIMIENTO PARA PROFERIR, ACEPTAR, RECHAZAR O MODIFICAR LA LIQUIDACIÓN PROVISIONAL
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+La Liquidación Provisional deberá ser proferida en las siguientes oportunidades:
+
+a) Dentro del término de firmeza de la declaración tributaria, cuando se trate de la modificación de la misma;
+
+b) Dentro del término de cinco (5) años contados a partir de la fecha del vencimiento del plazo para declarar, cuando se trate de obligados que no han cumplido con el deber formal de declarar;
+
+c) Dentro del término previsto para imponer sanciones, cuando se trate del incumplimiento de las obligaciones distintas al deber formal de declarar.
+
+Una vez proferida la Liquidación Provisional, el contribuyente tendrá un (1) mes contado a partir de su notificación para aceptarla, rechazarla o solicitar su modificación por una única vez, en este último caso deberá manifestar los motivos de inconformidad en un memorial dirigido a la Administración Tributaria.
+
+Cuando se solicite la modificación de la Liquidación Provisional, la Administración Tributaria deberá pronunciarse dentro de los dos (2) meses siguientes al agotamiento del término que tiene el contribuyente para proponer la modificación, ya sea profiriendo una nueva Liquidación Provisional o rechazando la solicitud de modificación.
+
+El contribuyente tendrá un (1) mes para aceptar o rechazar la nueva Liquidación Provisional, contado a partir de su notificación.
+
+En todos los casos, si el contribuyente opta por aceptar la Liquidación Provisional, deberá hacerlo en forma total.
+
+PARÁGRAFO 1o. La Liquidación Provisional se proferirá por una sola vez, sin perjuicio de que la Administración Tributaria pueda proferir una nueva con ocasión de la modificación solicitada por el contribuyente.
+
+En ningún caso se podrá proferir Liquidación Provisional de manera concomitante con el requerimiento especial, el pliego de cargos o el emplazamiento previo por no declarar.
+
+PARÁGRAFO 2o. La Liquidación Provisional se considera aceptada cuando el contribuyente corrija la correspondiente declaración tributaria o presente la misma, en los términos dispuestos en la Liquidación Provisional y atendiendo las formas y procedimientos señalados en el Estatuto Tributario para la presentación y/o corrección de las declaraciones tributarias. 
+
+De igual manera se considera aceptada por el contribuyente, cuando este no se pronuncie dentro de los términos previstos en este artículo sobre la propuesta de Liquidación Provisional, en cuyo caso la Administración Tributaria podrá iniciar el procedimiento administrativo de cobro.
+
+Cuando se trate del incumplimiento de otras obligaciones formales, distintas a la presentación de la declaración tributaria, se entenderá aceptada la Liquidación Provisional cuando se subsane el hecho sancionable y se pague o se acuerde el pago de la sanción impuesta, conforme las condiciones y requisitos establecidos en el Estatuto Tributario para la obligación formal que corresponda. En este caso, la Liquidación Provisional constituye título ejecutivo de conformidad con lo establecido en el artículo 828 del mismo Estatuto.
+
+## art:764-2 — RECHAZO DE LA LIQUIDACIÓN PROVISIONAL O DE LA SOLICITUD DE MODIFICACIÓN DE LA MISMA
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+Cuando el contribuyente, agente de retención o declarante rechace la Liquidación Provisional, o cuando la Administración Tributaria rechace la solicitud de modificación, deberá dar aplicación al procedimiento previsto en el artículo 764-6 de este Estatuto para la investigación, determinación, liquidación y discusión de los impuestos, gravámenes, contribuciones, sobretasas, anticipos, retenciones y sanciones.
+
+En estos casos, la Liquidación Provisional rechazada constituirá prueba, así como los escritos y documentos presentados por el contribuyente al momento de solicitar la modificación de la Liquidación Provisional. 
+
+La Liquidación Provisional reemplazará, para todos los efectos legales, al requerimiento especial, al pliego de cargos o al emplazamiento previo por no declarar, según sea el caso, siempre y cuando se haya notificado en debida forma y se haya dado el término de respuesta establecido en el artículo 764-1 del Estatuto Tributario.
+
+## art:764-3 — SANCIONES EN LA LIQUIDACIÓN PROVISIONAL
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+Las sanciones que se deriven de una Liquidación Provisional aceptada se reducirán en un cuarenta por ciento (40%) del valor que resulte de la aplicación del régimen sancionatorio establecido en el Estatuto Tributario, siempre que el contribuyente la acepte y pague dentro del mes siguiente a su notificación, bien sea que se haya o no discutido.
+
+Lo anterior no aplica para las sanciones generadas por la omisión o corrección de las declaraciones tributarias, ni para aquellas derivadas del incumplimiento de las obligaciones formales que puedan ser subsanadas por el contribuyente en forma voluntaria antes de proferido el Pliego de Cargos, en cuyo caso se aplicará el régimen sancionatorio establecido en el Estatuto Tributario.
+
+## art:764-4 — FIRMEZA DE LAS DECLARACIONES TRIBUTARIAS PRODUCTO DE LA ACEPTACIÓN DE LA LIQUIDACIÓN PROVISIONAL
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+La firmeza de las declaraciones tributarias corregidas o presentadas por el contribuyente, con ocasión de la aceptación de la Liquidación Provisional, será de seis (6) meses a partir de la fecha de su corrección o presentación, siempre que se atiendan las formalidades y condiciones establecidas en este Estatuto para que la declaración que se corrige o que se presenta se considere válidamente presentada; de lo contrario aplicará el termino general de firmeza que corresponda a la referida declaración tributaria conforme lo establecido en el presente Estatuto.
+
+## art:764-5 — NOTIFICACIÓN DE LA LIQUIDACIÓN PROVISIONAL Y DEMÁS ACTOS
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+La Liquidación Provisional y demás actos de la Administración Tributaria que se deriven de la misma deberán notificarse de acuerdo con las formas establecidas en el Estatuto Tributario.
+
+PARÁGRAFO. A partir del año 2020, los actos administrativos de que trata el presente artículo se deberán notificar de manera electrónica; para tal efecto, la Dirección de Impuestos y Aduanas Nacionales deberá haber implementado el sistema de notificación electrónica de que tratan los artículos 565 y 566-1 de este Estatuto.
+
+Una vez notificada la Liquidación Provisional, las actuaciones que le sigan por parte de la Administración Tributaria como del contribuyente podrán realizarse de la misma manera en la página web de la Dirección de Impuestos y Aduanas Nacionales o, en su defecto, a través del servicio electrónico que se disponga para el caso.
+
+## art:764-6 — DETERMINACIÓN Y DISCUSIÓN DE LAS ACTUACIONES QUE SE DERIVEN DE UNA LIQUIDACIÓN PROVISIONAL
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+Los términos de las actuaciones en las que se propongan impuestos, gravámenes, contribuciones, sobretasas, anticipos, retenciones y sanciones, derivadas de una Liquidación Provisional conforme lo establecen los artículos 764-1 y 764-2 de este Estatuto, en la determinación y discusión serán ratificados y notificados así: 
+
+1. Cuando la Liquidación Provisional reemplace al Requerimiento Especial o se profiera su Ampliación, la Administración Tributaria lo ratifica con la Liquidación Oficial de Revisión dentro de los dos (2) meses siguientes después de agotado el término de respuesta a la Liquidación Provisional. 
+
+2. Cuando la Liquidación Provisional reemplace al Emplazamiento Previo por no declarar, la Administración Tributaria lo ratificará con la Liquidación Oficial de Aforo dentro de los dos (2) meses siguientes después de agotado el término de respuesta a la Liquidación Provisional y dentro de este mismo acto se deberá imponer la sanción por no declarar de que trata el artículo 643 del Estatuto Tributario. 
+
+3. Cuando la Liquidación Provisional reemplace al Pliego de Cargos, la administración tributaria lo ratificará con la Resolución Sanción dentro de los dos (2) meses siguientes, contados después de agotado el término de respuesta la Liquidación Provisional. 
+
+PARÁGRAFO 1o. El término para interponer el recurso de reconsideración en contra de la Liquidación Oficial de Revisión, la Resolución Sanción y la Liquidación Oficial de Aforo de que trata este artículo será de dos (2) meses, contados a partir de que se notifiquen los citados actos; por su parte, la Administración Tributaria tendrá un (1) año para resolver los recursos de reconsideración, contados a partir de su interposición en debida forma. 
+
+PARÁGRAFO 2o. Salvo lo establecido en este artículo respecto de los términos indicados para la determinación y discusión de los actos en los cuales se determinan los impuestos y/o se imponen las sanciones, se deberán atender las mismas condiciones y requisitos establecidos en este Estatuto para la discusión y determinación de los citados actos administrativos.
+
+PRUEBA DOCUMENTAL
 
 ## art:765 — FACULTAD DE INVOCAR DOCUMENTOS EXPEDIDOS POR LAS OFICINAS DE IMPUESTOS
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
@@ -11822,7 +12534,10 @@ PARÁGRAFO 6o. <Parágrafo adicionado por el artículo 136 de la Ley 2010 de 201
 
 PARÁGRAFO TRANSITORIO. <Parágrafo modificado por el artículo 307 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El 100% de los pagos en efectivo que realicen los contribuyentes durante los años 2014, 2015, 2016 y 2017 tendrán reconocimiento fiscal como costos, deducciones, pasivos, o impuestos descontables en la declaración de renta correspondiente a dicho período gravable, siempre y cuando cumplan con los demás requisitos establecidos en las normas vigentes.
 
-ARTÍCULO 771-6. FACULTAD PARA DESCONOCER COSTOS Y GASTOS. <Artículo adicionado por el artículo 136 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> La DIAN podrá rechazar la procedencia de costos y la deducción de gastos en el exterior cuando se verifique que:
+## art:771-6 — FACULTAD PARA DESCONOCER COSTOS Y GASTOS
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+La DIAN podrá rechazar la procedencia de costos y la deducción de gastos en el exterior cuando se verifique que:
 
 1. El beneficiario efectivo, en los términos del artículo 631-5 de este Estatuto, de dichos pagos es, directa o indirectamente, en una proporción igual o superior al 50%, el mismo contribuyente.
 
@@ -11835,9 +12550,12 @@ PRUEBA CONTABLE
 ## art:772 — LA CONTABILIDAD COMO MEDIO DE PRUEBA
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
 
-Los libros de contabilidad del contribuyente constituyen prueba a su favor, siempre que se lleven en debida forma. 
+Los libros de contabilidad del contribuyente constituyen prueba a su favor, siempre que se lleven en debida forma.
 
-ARTÍCULO 772-1. CONCILIACIÓN FISCAL. <Artículo adicionado por el artículo 137 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Sin perjuicio de lo previsto en el artículo 4o de la Ley 1314 de 2009, los contribuyentes obligados a llevar contabilidad deberán llevar un sistema de control o de conciliaciones de las diferencias que surjan entre la aplicación de los nuevos marcos técnicos normativos contables y las disposiciones de este Estatuto. El Gobierno nacional reglamentará la materia.
+## art:772-1 — CONCILIACIÓN FISCAL
+ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
+
+Sin perjuicio de lo previsto en el artículo 4o de la Ley 1314 de 2009, los contribuyentes obligados a llevar contabilidad deberán llevar un sistema de control o de conciliaciones de las diferencias que surjan entre la aplicación de los nuevos marcos técnicos normativos contables y las disposiciones de este Estatuto. El Gobierno nacional reglamentará la materia.
 
 El incumplimiento de esta obligación se considera para efectos sancionatorios como una irregularidad en la contabilidad.
 
@@ -11918,19 +12636,7 @@ PARAGRAFO 2o. La providencia que ordena el registro de que trata el presente art
 ## art:780 — LUGAR DE PRESENTACIÓN DE LOS LIBROS DE CONTABILIDAD
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
 
-La obligación de presentar libros de contabilidad deberá cumplirse, en las oficinas o establecimientos del contribuyente obligado a llevarlos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La obligación de presentar libros de contabilidad deberá cumplirse, en las oficinas o establecimientos del contribuyente obligado a llevarlos.
 
 ## art:781 — LA NO PRESENTACIÓN DE LOS LIBROS DE CONTABILIDAD SERA INDICIO EN CONTRA DEL CONTRIBUYENTE
 ubicacion: TITULO VI. REGIMEN PROBATORIO. > CAPITULO II. MEDIOS DE PRUEBA.
@@ -12099,9 +12805,12 @@ ubicacion: TITULO VII. EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA. > CAPITULO II. F
 
 El pago de los impuestos, anticipos y retenciones, deberá efectuarse en los lugares que para tal efecto señale el Gobierno Nacional. 
 
-El Gobierno Nacional podrá recaudar total o parcialmente los impuestos, anticipos, retenciones, sanciones e intereses administrados por la Dirección General de Impuestos Nacionales<1>, a través de bancos y demás entidades financieras. 
+El Gobierno Nacional podrá recaudar total o parcialmente los impuestos, anticipos, retenciones, sanciones e intereses administrados por la Dirección General de Impuestos Nacionales<1>, a través de bancos y demás entidades financieras.
 
-ARTÍCULO 800-1. OBRAS POR IMPUESTOS. <Artículo modificado por el artículo 79 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Las personas naturales o jurídicas obligadas a llevar contabilidad, contribuyentes del impuesto sobre la renta y complementarios que en el año o período gravable inmediatamente anterior hayan obtenido ingresos brutos iguales o superiores a treinta y tres mil seiscientos diez (33.610) UVT, podrán celebrar convenios con las entidades públicas del nivel nacional, por los que recibirán a cambio títulos negociables para el pago del impuesto sobre la renta, en los términos previstos en la presente disposición. Los compromisos de inversión adquiridos en estos convenios no podrán superar el treinta por ciento (30%) del patrimonio contable del contribuyente, para lo cual se tendrá en cuenta el patrimonio del año inmediatamente anterior a la suscripción de los mismos. En caso de que los aspirantes no hayan tenido ingresos en el año inmediatamente anterior por encontrarse en período improductivo, la Agencia de Renovación del Territorio (ART) podrá autorizar la realización de los proyectos a los que se refiere la presente disposición, si verifica que el contribuyente puede otorgar garantías suficientes para la ejecución del proyecto, a través de sus vinculados económicos o de entidades financieras o aseguradoras de reconocida idoneidad. 
+## art:800-1 — OBRAS POR IMPUESTOS
+ubicacion: TITULO VII. EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA. > CAPITULO II. FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA.
+
+Las personas naturales o jurídicas obligadas a llevar contabilidad, contribuyentes del impuesto sobre la renta y complementarios que en el año o período gravable inmediatamente anterior hayan obtenido ingresos brutos iguales o superiores a treinta y tres mil seiscientos diez (33.610) UVT, podrán celebrar convenios con las entidades públicas del nivel nacional, por los que recibirán a cambio títulos negociables para el pago del impuesto sobre la renta, en los términos previstos en la presente disposición. Los compromisos de inversión adquiridos en estos convenios no podrán superar el treinta por ciento (30%) del patrimonio contable del contribuyente, para lo cual se tendrá en cuenta el patrimonio del año inmediatamente anterior a la suscripción de los mismos. En caso de que los aspirantes no hayan tenido ingresos en el año inmediatamente anterior por encontrarse en período improductivo, la Agencia de Renovación del Territorio (ART) podrá autorizar la realización de los proyectos a los que se refiere la presente disposición, si verifica que el contribuyente puede otorgar garantías suficientes para la ejecución del proyecto, a través de sus vinculados económicos o de entidades financieras o aseguradoras de reconocida idoneidad. 
 
 <Inciso modificado por el artículo 294 de la Ley 2294 de 2023. El nuevo texto es el siguiente:> El objeto de los convenios será la inversión directa en la ejecución de proyectos de trascendencia económica y social en los diferentes municipios definidos como las Zonas Más Afectadas por el Conflicto Armado (Zomac) y en los municipios con Programas de Desarrollo con Enfoque Territorial (PDET), relacionados con agua potable y saneamiento básico, energía, salud pública, educación pública, bienes públicos rurales, adaptación al cambio climático y gestión del riesgo, pagos por servicios ambientales, tecnologías de la información y comunicaciones, infraestructura de transporte, infraestructura productiva, infraestructura cultural, infraestructura deportiva, vivienda de interés social rural y las demás que defina el manual operativo de Obras por Impuestos, todo de conformidad con lo establecido en la evaluación de viabilidad del proyecto. Los proyectos a financiar podrán comprender las obras, servicios y erogaciones necesarias para su viabilidad, planeación, preoperación, ejecución, operación, mantenimiento e interventoría, en los términos establecidos por el manual operativo de Obras por Impuestos, según el caso. También podrán ser considerados proyectos en jurisdicciones que, sin estar localizadas en las Zomac, de acuerdo con el concepto de la Agencia de Renovación del Territorio, resulten estratégicos para la reactivación económica y/o social de las Zomac o algunas de ellas. Así mismo, accederán a dichos beneficios los departamentos que conforman la Amazonía colombiana, que cuenten con una población inferior a ochenta y cinco mil (85.000) habitantes, tal y como lo certifique la autoridad competente a treinta y uno (31) de diciembre de 2022. 
 
@@ -12256,19 +12965,7 @@ En el caso de contribuyentes que declaran por primera vez, el porcentaje de anti
 
 En las respectivas liquidaciones privadas del impuesto sobre la renta y complementarios los contribuyentes agregarán al total liquidado el valor del anticipo. Del resultado anterior deducirán el valor del anticipo consignado de acuerdo con la liquidación del año o período gravable inmediatamente anterior, el valor retenido en la fuente y el saldo a favor del período anterior, cuando fuere del caso. La diferencia se cancelará en la proporción y dentro de los términos señalados para el pago de la liquidación privada. 
 
-PARAGRAFO 1o. TRANSITORIO. <Parágrafo derogado por el artículo 285 de la Ley 223 de 1995.> 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARAGRAFO 1o. TRANSITORIO. <Parágrafo derogado por el artículo 285 de la Ley 223 de 1995.>
 
 ## art:808 — FACULTAD PARA REDUCIR EL ANTICIPO EN FORMA GENERAL
 ubicacion: TITULO VII. EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA. > CAPITULO II. FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA.
@@ -12489,7 +13186,7 @@ ubicacion: TITULO VIII. COBRO COACTIVO.
 
 Para exigir el cobro coactivo de las deudas por los conceptos referidos en el artículo anterior, son competentes los siguientes funcionarios: 
 
-El Subdirector de Recaudación de la Dirección General de Impuestos Nacionales<1>, los Administradores de Impuestos y los Jefes de las dependencias de Cobranzas. También serán competentes los funcionarios de las dependencias de Cobranzas y de las Recaudaciones de Impuestos Nacionales, a quienes se les deleguen estas funciones.
+El Subdirector de Recaudación de la Dirección General de Impuestos Nacionales<1>, los Administradores de Impuestos y los Jefes de las dependencias de Cobranzas. También serán competentes los funcionarios de las dependencias de [TACHADO: Cobranzas y de las Recaudaciones] de Impuestos Nacionales, a quienes se les deleguen estas funciones.
 
 ## art:825 — COMPETENCIA TERRITORIAL
 ubicacion: TITULO VIII. COBRO COACTIVO.
@@ -12596,19 +13293,7 @@ PARAGRAFO. <Parágrafo adicionado por el artículo 84 de la Ley 6 de 1992. El nu
 ## art:832 — TRAMITE DE EXCEPCIONES
 ubicacion: TITULO VIII. COBRO COACTIVO.
 
-Dentro del mes siguiente a la presentación del escrito mediante el cual se proponen las excepciones, el funcionario competente decidirá sobre ellas, ordenando previamente la práctica de las pruebas, cuando sea del caso. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Dentro del mes siguiente a la presentación del escrito mediante el cual se proponen las excepciones, el funcionario competente decidirá sobre ellas, ordenando previamente la práctica de las pruebas, cuando sea del caso.
 
 ## art:833 — EXCEPCIONES PROBADAS
 ubicacion: TITULO VIII. COBRO COACTIVO.
@@ -12735,9 +13420,12 @@ En los aspectos compatibles y no contemplados en este Estatuto, se observarán e
 ## art:839-3 — OPOSICIÓN AL SECUESTRO
 ubicacion: TITULO VIII. COBRO COACTIVO.
 
-En la misma diligencia que ordena el secuestro se practicarán las pruebas conducentes y se decidirá la oposición presentada, salvo que existan pruebas que no se puedan practicar en la misma diligencia, caso en el cual se resolverá dentro de los (5) días siguientes a la terminación de la diligencia. 
+En la misma diligencia que ordena el secuestro se practicarán las pruebas conducentes y se decidirá la oposición presentada, salvo que existan pruebas que no se puedan practicar en la misma diligencia, caso en el cual se resolverá dentro de los (5) días siguientes a la terminación de la diligencia.
 
-ARTÍCULO 839-4. RELACIÓN COSTO-BENEFICIO EN EL PROCESO ADMINISTRATIVO DE COBRO COACTIVO. <Artículo modificado por el artículo 265 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Decretada en el proceso de cobro coactivo las medidas cautelares sobre un bien y antes de fijar fecha para la práctica de la diligencia de secuestro, el funcionario de cobro competente, mediante auto de trámite, decidirá sobre la relación costo-beneficio del bien, teniendo en cuenta los criterios que establezca el Director General de la Dirección de Impuestos y Aduanas Nacionales mediante resolución.
+## art:839-4 — RELACIÓN COSTO-BENEFICIO EN EL PROCESO ADMINISTRATIVO DE COBRO COACTIVO
+ubicacion: TITULO VIII. COBRO COACTIVO.
+
+Decretada en el proceso de cobro coactivo las medidas cautelares sobre un bien y antes de fijar fecha para la práctica de la diligencia de secuestro, el funcionario de cobro competente, mediante auto de trámite, decidirá sobre la relación costo-beneficio del bien, teniendo en cuenta los criterios que establezca el Director General de la Dirección de Impuestos y Aduanas Nacionales mediante resolución.
 
 Si se establece que la relación costo-beneficio es negativa, el funcionario de cobro competente se abstendrá de practicar la diligencia de secuestro y levantará la medida cautelar dejando el bien a disposición del deudor o de la autoridad competente, según sea el caso, y continúará con las demás actividades del proceso de cobro.
 
@@ -12822,12 +13510,12 @@ PARAGRAFO. La intervención de la Administración Tributaria en el concordato pr
 ## art:846 — EN OTROS PROCESOS
 ubicacion: TITULO IX. INTERVENCIÓN DE LA ADMINISTRACIÓN.
 
-En los procesos de concurso de acreedores, de quiebra, de intervención, de liquidación judicial o administrativa, el Juez o funcionario informará dentro de los diez (10) días siguientes a la solicitud o al acto que inicie el proceso, a la oficina de cobranzas de la Administración del lugar que le corresponda, con el fin de que ésta se haga parte en el proceso y haga valer las deudas fiscales de plazo vencido, y las que surjan hasta el momento de la liquidación o terminación del respectivo proceso. Para este efecto, los jueces o funcionarios deberán respetar la prelación de los créditos fiscales señalada en la ley, al proceder a la cancelación de los pasivos.
+En los procesos de concurso de acreedores, [TACHADO: de quiebra], de intervención, de liquidación judicial o administrativa, el Juez o funcionario informará dentro de los diez (10) días siguientes a la solicitud o al acto que inicie el proceso, a la oficina de cobranzas de la Administración del lugar que le corresponda, con el fin de que ésta se haga parte en el proceso y haga valer las deudas fiscales de plazo vencido, y las que surjan hasta el momento de la liquidación o terminación del respectivo proceso. Para este efecto, los jueces o funcionarios deberán respetar la prelación de los créditos fiscales señalada en la ley, al proceder a la cancelación de los pasivos.
 
 ## art:847 — EN LIQUIDACIÓN DE SOCIEDADES
 ubicacion: TITULO IX. INTERVENCIÓN DE LA ADMINISTRACIÓN.
 
-Cuando una sociedad comercial o civil entre en cualquiera de las causales de disolución contempladas en la ley, distintas a la declaratoria de quiebra o concurso de acreedores, deberá darle aviso, por medio de su representante legal, dentro de los diez (10) días siguientes a la fecha en que haya ocurrido el hecho que produjo la causal de disolución, a la oficina de cobranzas de la Administración de Impuestos Nacionales ante la cual sea contribuyente, responsable o agente retenedor, con el fin de que ésta le comunique sobre las deudas fiscales de plazo vencido a cargo de la sociedad. 
+Cuando una sociedad comercial o civil entre en cualquiera de las causales de disolución contempladas en la ley, distintas a la declaratoria de [TACHADO: quiebra] o concurso de acreedores, deberá darle aviso, por medio de su representante legal, dentro de los diez (10) días siguientes a la fecha en que haya ocurrido el hecho que produjo la causal de disolución, a la oficina de cobranzas de la Administración de Impuestos Nacionales ante la cual sea contribuyente, responsable o agente retenedor, con el fin de que ésta le comunique sobre las deudas fiscales de plazo vencido a cargo de la sociedad. 
 
 Los liquidadores o quienes hagan sus veces deberán procurar el pago de las deudas de la sociedad, respetando la prelación de los créditos fiscales. 
 
@@ -12843,7 +13531,7 @@ En todos los casos contemplados, la Administración deberá presentar o remitir 
 ## art:849 — INDEPENDENCIA DE PROCESOS
 ubicacion: TITULO IX. INTERVENCIÓN DE LA ADMINISTRACIÓN.
 
-La intervención de la Administración en los procesos de sucesión, quiebra, concurso de acreedores y liquidaciones, se hará sin perjuicio de la acción de cobro coactivo administrativo.
+La intervención de la Administración en los procesos de sucesión, [TACHADO: quiebra], concurso de acreedores y liquidaciones, se hará sin perjuicio de la acción de cobro coactivo administrativo.
 
 ## art:849-1 — IRREGULARIDADES EN EL PROCEDIMIENTO
 ubicacion: TITULO IX. INTERVENCIÓN DE LA ADMINISTRACIÓN.
@@ -12855,7 +13543,7 @@ La irregularidad se considerará saneada cuando a pesar de ella el deudor actúa
 ## art:849-2 — PROVISION PARA EL PAGO DE IMPUESTOS
 ubicacion: TITULO IX. INTERVENCIÓN DE LA ADMINISTRACIÓN.
 
-En los procesos de sucesión, concordatarios, concurso de acreedores, quiebra, intervención, liquidación voluntaria, judicial o administrativa, en los cuales intervenga la Administración de Impuestos, deberán efectuarse las reservas correspondientes constituyendo el respectivo depósito o garantía, en el caso de existir algún proceso de determinación o discusión en trámite.
+En los procesos de sucesión, concordatarios, concurso de acreedores, [TACHADO: quiebra], intervención, liquidación voluntaria, judicial o administrativa, en los cuales intervenga la Administración de Impuestos, deberán efectuarse las reservas correspondientes constituyendo el respectivo depósito o garantía, en el caso de existir algún proceso de determinación o discusión en trámite.
 
 ## art:849-3 — CLASIFICACIÓN DE LA CARTERA MOROSA
 ubicacion: TITULO IX. INTERVENCIÓN DE LA ADMINISTRACIÓN.
@@ -12888,7 +13576,7 @@ La DIAN podrá solicitar en los casos que considere necesario, los soportes que 
 
 PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 267 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El exportador de oro podrá solicitar la devolución de los saldos originados en la declaración del impuesto sobre las ventas, únicamente cuando se certifique que el oro exportado proviene de una producción que se adelantó al amparo de un título minero vigente e inscrito en el Registro Minero Nacional y con el cumplimiento de los requisitos legales para su extracción, transporte y comercialización, y la debida licencia ambiental otorgada por las autoridades competentes.
 
-PARÁGRAFO TRANSITORIO. <Parágrafo adicionado por el artículo 28 de la Ley 2069 de 2020, corregido por el artículo 2 del Decreto 296 de 2021. El nuevo texto es el siguiente:> Los saldos a favor generados en el impuesto sobre las ventas IVA por la venta de bienes exentos de manera transitorio en aplicación de los Decretos Legislativos 438 y 552* 551 de 2020, podrán ser solicitados en devolución y/o compensación en proporción a los bienes vendidos, hasta por el término de duración de las emergencias sanitarias declaradas por el Ministerio de Salud y Protección Social, con ocasión de la pandemia derivada del Coronavirus COVID-19.
+PARÁGRAFO TRANSITORIO. <Parágrafo adicionado por el artículo 28 de la Ley 2069 de 2020, corregido por el artículo 2 del Decreto 296 de 2021. El nuevo texto es el siguiente:> Los saldos a favor generados en el impuesto sobre las ventas IVA por la venta de bienes exentos de manera transitorio en aplicación de los Decretos Legislativos 438 y [TACHADO: 552*] 551 de 2020, podrán ser solicitados en devolución y/o compensación en proporción a los bienes vendidos, hasta por el término de duración de las emergencias sanitarias declaradas por el Ministerio de Salud y Protección Social, con ocasión de la pandemia derivada del Coronavirus COVID-19.
 
 Una vez terminada las emergencias declaradas por el Ministerio de Salud y Protección Social, con ocasión de la pandemia derivada del Coronavirus COVID- 19 los saldos a favor en el impuesto sobre las ventas IVA que no hayan sido solicitados en devolución y/o compensación solo podrán ser imputados en las declaraciones de los periodos siguientes.
 
@@ -12909,19 +13597,7 @@ PARAGRAFO. <Parágrafo adicionado por el artículo 70 de la Ley 383 de 1997. El 
 ## art:852 — FACULTAD PARA DEVOLVER A ENTIDADES EXENTAS O NO CONTRIBUYENTES
 ubicacion: TITULO X. DEVOLUCIONES.
 
-El Gobierno Nacional podrá establecer sistemas de devolución de saldos a favor o sumas retenidas antes de presentar la respectiva declaración tributaria, cuando las retenciones en la fuente que establezcan las normas pertinentes, deban practicarse sobre los ingresos de las entidades exentas o no contribuyentes. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El Gobierno Nacional podrá establecer sistemas de devolución de saldos a favor o sumas retenidas antes de presentar la respectiva declaración tributaria, cuando las retenciones en la fuente que establezcan las normas pertinentes, deban practicarse sobre los ingresos de las entidades exentas o no contribuyentes.
 
 ## art:853 — COMPETENCIA FUNCIONAL DE LAS DEVOLUCIONES
 ubicacion: TITULO X. DEVOLUCIONES.
@@ -12944,9 +13620,9 @@ La Administración de Impuestos deberá devolver, previa las compensaciones a qu
 
 <Inciso adicionado por el artículo 47 de la Ley 962 de 2005. El nuevo texto es el siguiente:> El término previsto en el presente artículo aplica igualmente para la devolución de impuestos pagados y no causados o pagados en exceso.
 
-PARAGRAFO 1o. <Ver Notas del Editor> <Parágrafo modificado por el artículo 41 de la Ley 49 de 1990. El nuevo texto es el siguiente:> En el evento de que la Contraloría General de la República efectúe algún control previo en relación con el pago de las devoluciones, el término para tal control no podrá ser superior a dos (2) días, en el caso de las devoluciones con garantía, o a cinco (5) días en los demás casos, términos estos que se entienden comprendidos dentro del término para devolver. 
+PARAGRAFO 1o. <Parágrafo modificado por el artículo 41 de la Ley 49 de 1990. El nuevo texto es el siguiente:> En el evento de que la Contraloría General de la República efectúe algún control previo en relación con el pago de las devoluciones, el término para tal control no podrá ser superior a dos (2) días, en el caso de las devoluciones con garantía, o a cinco (5) días en los demás casos, términos estos que se entienden comprendidos dentro del término para devolver. 
 
-PARAGRAFO 2o. <Ver Notas del Editor a continúación del parágrafo 1o.> La Contraloría General de la República no podrá objetar las resoluciones de la Administración de Impuestos Nacionales, por medio de las cuales se ordenen las devoluciones de impuestos, sino por errores aritméticos o por falta de comprobantes de pago de los gravámenes cuya devolución se ordene. 
+PARAGRAFO 2o. La Contraloría General de la República no podrá objetar las resoluciones de la Administración de Impuestos Nacionales, por medio de las cuales se ordenen las devoluciones de impuestos, sino por errores aritméticos o por falta de comprobantes de pago de los gravámenes cuya devolución se ordene. 
 
 PARAGRAFO 3o. <Parágrafo 3o. modificado por el artículo 140 de la Ley 223 de 1995. El nuevo texto es el siguiente:> Cuando la solicitud de devolución se formule dentro de los dos (2) meses siguientes a la presentación de la declaración o de su corrección, la Administración Tributaria dispondrá de un término adicional de un (1) mes para devolver. 
 
@@ -12958,7 +13634,7 @@ El mecanismo de devolución automática de saldos a favor aplica para los contri
 
 a) No representen un riesgo alto de conformidad con el sistema de análisis de riesgo de la Dirección de Impuestos y Aduanas Nacionales (DIAN); 
 
-b) <Ver Notas del Editor> <Literal modificado por el artículo 3 del Decreto Legislativo 807 de 2020. El nuevo texto es el siguiente:> Hasta el veinticinco (25%) de los costos o gastos y/o impuestos sobre las ventas descontables provengan de proveedores que emitan sus facturas mediante el mecanismo de factura electrónica. Serán excluidos del cálculo del porcentaje mínimo que debe soportarse con factura electrónica de venta los costos y gastos que al momento del cálculo no sean susceptibles de ser soportados por el mecanismo de factura electrónica, tales como amortizaciones, depreciaciones y pagos de nómina. De igual forma las declaraciones de importación serán soporte de costos y/o. 
+b) <Literal modificado por el artículo 3 del Decreto Legislativo 807 de 2020. El nuevo texto es el siguiente:> Hasta el veinticinco (25%) de los costos o gastos y/o impuestos sobre las ventas descontables provengan de proveedores que emitan sus facturas mediante el mecanismo de factura electrónica. Serán excluidos del cálculo del porcentaje mínimo que debe soportarse con factura electrónica de venta los costos y gastos que al momento del cálculo no sean susceptibles de ser soportados por el mecanismo de factura electrónica, tales como amortizaciones, depreciaciones y pagos de nómina. De igual forma las declaraciones de importación serán soporte de costos y/o. 
 
 A partir del primero (1o.) de enero de 2021, el porcentaje a aplicar será de más del ochenta y cinco por ciento (85%).
 
@@ -13044,9 +13720,9 @@ La Administración de Impuestos deberá efectuar las devoluciones de impuestos, 
 ## art:860 — DEVOLUCIÓN CON PRESENTACIÓN DE GARANTÍA
 ubicacion: TITULO X. DEVOLUCIONES.
 
-<Artículo modificado por el artículo 18 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Cuando el contribuyente o responsable presente con la solicitud de devolución una garantía a favor de la Nación, otorgada por entidades bancarias o de compañías de seguros, por valor equivalente al monto objeto de devolución, más las sanciones de que trata el artículo 670 de este Estatuto siempre que estas últimas no superen diez mil (10.000) salarios mínimos legales mensuales vigentes, la Administración de Impuestos, dentro de los veinte (20) días siguientes deberá hacer entrega del cheque, título o giro. 
+<Artículo modificado por el artículo 18 de la Ley 1430 de 2010. El nuevo texto es el siguiente:> Cuando el contribuyente o responsable presente con la solicitud de devolución una garantía a favor de la Nación, otorgada por entidades bancarias o de compañías de seguros, por valor equivalente al monto objeto de devolución, [TACHADO: más las sanciones de que trata el artículo 670 de este Estatuto siempre que estas últimas no superen diez mil (10.000) salarios mínimos legales mensuales vigentes], la Administración de Impuestos, dentro de los veinte (20) días siguientes deberá hacer entrega del cheque, título o giro. 
 
-<Aparte tachado INEXEQUIBLE> La garantía de que trata este artículo tendrá una vigencia de dos (2) años. Si dentro de este lapso, la Administración Tributaria notifica el requerimiento especial o el contribuyente corrige la declaración, el garante será solidariamente responsable por las obligaciones garantizadas, incluyendo el monto de las sanciones por improcedencia de la devolución, las cuales se harán efectivas junto con los intereses correspondientes, una vez quede en firme en la vía gubernativa, o en la vía jurisdiccional cuando se interponga demanda ante la jurisdicción administrativa, el acto administrativo de liquidación oficial o de improcedencia de la devolución, aún si este se produce con posterioridad a los dos años. 
+<Aparte tachado INEXEQUIBLE> La garantía de que trata este artículo tendrá una vigencia de dos (2) años. Si dentro de este lapso, la Administración Tributaria notifica el requerimiento especial o el contribuyente corrige la declaración, el garante será solidariamente responsable por las obligaciones garantizadas, [TACHADO: incluyendo el monto de las sanciones por improcedencia de la devolución], las cuales se harán efectivas junto con los intereses correspondientes, una vez quede en firme en la vía gubernativa, o en la vía jurisdiccional cuando se interponga demanda ante la jurisdicción administrativa, el acto administrativo de liquidación oficial o de improcedencia de la devolución, aún si este se produce con posterioridad a los dos años. 
 
 En el texto de toda garantía constituida a favor de la Nación –Dirección de Impuestos y Aduanas Nacionales–, deberá constar expresamente la mención de que la entidad bancaria o compañía de seguros renuncia al beneficio de excusión.
 
@@ -13368,7 +14044,10 @@ ART. 1
 100LITERAL c) 
 Más de $68.740.000 Más de 3.400 UVT
 
-ARTÍCULO 868-2. MONEDA PARA EFECTOS FISCALES. <Artículo adicionado por el artículo 138 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> Para efectos fiscales, la información financiera y contable así como sus elementos activos, pasivos, patrimonio, ingresos, costos y gastos, se llevarán y presentarán en pesos colombianos, desde el momento de su reconocimiento inicial y posteriormte.
+## art:868-2 — MONEDA PARA EFECTOS FISCALES
+ubicacion: TITULO XI. OTRAS DISPOSICIONES PROCEDIMENTALES.
+
+Para efectos fiscales, la información financiera y contable así como sus elementos activos, pasivos, patrimonio, ingresos, costos y gastos, se llevarán y presentarán en pesos colombianos, desde el momento de su reconocimiento inicial y posteriormte.
 
 ## art:869 — ABUSO EN MATERIA TRIBUTARIA
 ubicacion: TITULO XI. OTRAS DISPOSICIONES PROCEDIMENTALES.
@@ -13389,7 +14068,10 @@ PARÁGRAFO 2o. Se entenderá que un acto o negocio jurídico es artificioso y po
 
 PARÁGRAFO 3o. Se entiende por provecho tributario la alteración, desfiguración o modificación de los efectos tributarios que, de otra manera, se generarían en cabeza de uno o más obligados tributarios o beneficiarios efectivos, tales como la eliminación, reducción o diferimiento del tributo, el incremento del saldo a favor o de las pérdidas fiscales y la extensión de beneficios o exenciones tributarias.
 
-ARTÍCULO 869-1. PROCEDIMIENTO ESPECIAL POR ABUSO EN MATERIA TRIBUTARIA. <Artículo modificado por el artículo 302 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> El funcionario competente que, dentro del término de firmeza de la declaración, evidencie que una operación o serie de operaciones puede constituir abuso en materia tributaria, en los términos del artículo 869, deberá emitir un emplazamiento especial explicando las razones en las que se basa, sustentadas si quiera en prueba sumaria. Dicho emplazamiento especial por abuso en materia tributaria deberá notificarse al contribuyente de conformidad con lo dispuesto en los artículos 565 y siguientes de este Estatuto.
+## art:869-1 — PROCEDIMIENTO ESPECIAL POR ABUSO EN MATERIA TRIBUTARIA
+ubicacion: TITULO XI. OTRAS DISPOSICIONES PROCEDIMENTALES.
+
+El funcionario competente que, dentro del término de firmeza de la declaración, evidencie que una operación o serie de operaciones puede constituir abuso en materia tributaria, en los términos del artículo 869, deberá emitir un emplazamiento especial explicando las razones en las que se basa, sustentadas si quiera en prueba sumaria. Dicho emplazamiento especial por abuso en materia tributaria deberá notificarse al contribuyente de conformidad con lo dispuesto en los artículos 565 y siguientes de este Estatuto.
 
 Una vez notificado el emplazamiento especial por abuso en materia tributaria, el contribuyente dispondrá de un término de tres (3) meses para contestarlo, aportando y/o solicitando las pruebas que considere pertinentes, tiempo durante el cual se suspenderá el término de firmeza de la declaración.
 
@@ -13399,9 +14081,15 @@ PARÁGRAFO 1o. La motivación de que trata este artículo deberá contener la de
 
 PARÁGRAFO 2o. El procedimiento de que trata el presente artículo tiene como propósito la reconfiguración o recaracterización de una operación o serie de operaciones que constituyan o puedan constituir abuso en materia tributaria.
 
-ARTÍCULO 869-2. FACULTAD ADICIONAL DE LA ADMINISTRACIÓN TRIBUTARIA EN CASO DE ABUSO. <Artículo modificado por el artículo 303 de la Ley 1819 de 2016. El nuevo texto es el siguiente:> En el evento de presentarse abuso en los términos del artículo 869 de este Estatuto, la Administración Tributaria podrá remover el velo corporativo de entidades que hayan sido utilizadas o hayan participado, por decisión de sus socios, accionistas, directores o administradores, dentro de las conductas abusivas.
+## art:869-2 — FACULTAD ADICIONAL DE LA ADMINISTRACIÓN TRIBUTARIA EN CASO DE ABUSO
+ubicacion: TITULO XI. OTRAS DISPOSICIONES PROCEDIMENTALES.
 
-ARTÍCULO 869-3. PROCEDIMIENTO DE MUTUO ACUERDO. <Artículo modificado por el artículo 116 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los contribuyentes podrán solicitar asistencia para el Procedimiento de Mutuo Acuerdo (MAP) regulado en los convenios para evitar la doble imposición suscritos por Colombia a través de la presentación de una solicitud formal ante la Dirección de Impuestos y Aduanas Nacionales (DIAN). El contenido de la solicitud, así como los detalles del procedimiento, serán aquellos que disponga la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución. La Autoridad Competente para desarrollar el Procedimiento de Mutuo Acuerdo (MAP) será el Director General de la Dirección de Impuestos y Aduanas Nacionales (DIAN) o quien este delegue, quienes contarán con los recursos necesarios para llevar a cabo el Procedimiento de Mutuo Acuerdo (MAP).
+En el evento de presentarse abuso en los términos del artículo 869 de este Estatuto, la Administración Tributaria podrá remover el velo corporativo de entidades que hayan sido utilizadas o hayan participado, por decisión de sus socios, accionistas, directores o administradores, dentro de las conductas abusivas.
+
+## art:869-3 — PROCEDIMIENTO DE MUTUO ACUERDO
+ubicacion: TITULO XI. OTRAS DISPOSICIONES PROCEDIMENTALES.
+
+Los contribuyentes podrán solicitar asistencia para el Procedimiento de Mutuo Acuerdo (MAP) regulado en los convenios para evitar la doble imposición suscritos por Colombia a través de la presentación de una solicitud formal ante la Dirección de Impuestos y Aduanas Nacionales (DIAN). El contenido de la solicitud, así como los detalles del procedimiento, serán aquellos que disponga la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución. La Autoridad Competente para desarrollar el Procedimiento de Mutuo Acuerdo (MAP) será el Director General de la Dirección de Impuestos y Aduanas Nacionales (DIAN) o quien este delegue, quienes contarán con los recursos necesarios para llevar a cabo el Procedimiento de Mutuo Acuerdo (MAP).
 
 Los acuerdos que suscriba la Autoridad Competente de Colombia en desarrollo del Procedimiento de Mutuo Acuerdo (MAP) establecido en los convenios para evitar la doble imposición tendrán la misma naturaleza jurídica y tratamiento que un fallo judicial definitivo, por lo cual prestarán mérito ejecutivo, no serán susceptibles de recurso alguno, y podrán ser implementados en cualquier momento independientemente del período de firmeza establecido para las declaraciones pertinentes. 
 
@@ -13525,7 +14213,7 @@ Cuando la operación sea gravada, el agente de retención es el titular de la cu
 
 9. El manejo de recursos públicos que hagan las tesorerías de las entidades territoriales. 
 
-10. <Aparte tachado INEXEQUIBLE. Numeral modificado por el artículo 48 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Las operaciones financieras realizadas con recursos del Sistema General de Seguridad Social en Salud, de las EPS y ARS diferentes a los que financian gastos administrativos, del Sistema General de Pensiones a que se refiere la Ley 100 de 1993, de los Fondos de Pensiones de que trata el Decreto 2513 de 1987 y del Sistema General de Riesgos Profesionales, hasta el pago a las Instituciones Prestadoras de Salud (IPS), o al pensionado, afiliado o beneficiario, según el caso.
+10. <Aparte tachado INEXEQUIBLE. Numeral modificado por el artículo 48 de la Ley 788 de 2002. El nuevo texto es el siguiente:> Las operaciones financieras realizadas con recursos del Sistema General de Seguridad Social en Salud, de las EPS y ARS [TACHADO: diferentes a los que financian gastos administrativos], del Sistema General de Pensiones a que se refiere la Ley 100 de 1993, de los Fondos de Pensiones de que trata el Decreto 2513 de 1987 y del Sistema General de Riesgos Profesionales, hasta el pago a las Instituciones Prestadoras de Salud (IPS), o al pensionado, afiliado o beneficiario, según el caso.
 
 También quedarán exentas las operaciones realizadas con los recursos correspondientes a los giros que reciben las IPS (Instituciones Prestadoras de Servicios) por concepto de pago del POS (Plan Obligatorio de Salud) por parte de las EPS o ARS hasta en un 50%.
 
@@ -13624,27 +14312,166 @@ ubicacion: TITULO XI. OTRAS DISPOSICIONES PROCEDIMENTALES.
 
 Las entidades financieras y/o cooperativas de naturaleza financiera o de ahorro y crédito vigiladas par las Superintendencias Financiera o de Economía Solidaria que administren o en las que se abran cuentas de ahorro, depósitos electrónicos o tarjetas prepago abiertas o administradas deberán adoptar un sistema de información que permita la verificación, control y retención del Gravamen a los Movimientos Financieros en los términos del artículo 879 del Estatuto Tributario de forma que se permita aplicar la exención de trescientos cincuenta (350) UVT mensuales señalada en el numeral 1 del Artículo 879 del Estatuto Tributario sin la necesidad de marcar una única cuenta. 
 
-PARÁGRAFO TRANSITORIO. Lo dispuesto en el presente artículo entrará en aplicación cuando se desarrolle el sistema de información correspondiente por parte de las entidades vigiladas por las Superintendencias Financieras o de Economía Solidaria, a más tardar, a los dos (2) años siguientes a la entrada en vigencia de la presente ley. Hasta tanto el sistema de información previsto en este Artículo no se encuentre en funcionamiento, se continuará aplicando lo dispuesto en el numeral 1 del Artículo 879 del Estatuto Tributario. 
+PARÁGRAFO TRANSITORIO. Lo dispuesto en el presente artículo entrará en aplicación cuando se desarrolle el sistema de información correspondiente por parte de las entidades vigiladas por las Superintendencias Financieras o de Economía Solidaria, a más tardar, a los dos (2) años siguientes a la entrada en vigencia de la presente ley. Hasta tanto el sistema de información previsto en este Artículo no se encuentre en funcionamiento, se continuará aplicando lo dispuesto en el numeral 1 del Artículo 879 del Estatuto Tributario.
 
-Anterior | Siguiente
+## art:882 — ENTIDADES CONTROLADAS DEL EXTERIOR SIN RESIDENCIA FISCAL EN COLOMBIA (ECE)
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
 
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+Para efectos de lo previsto en este Título, son entidades controladas del exterior sin residencia fiscal en Colombia (ECE), aquellas que cumplen con la totalidad de los requisitos siguientes:
 
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
+1. La ECE es controlada por uno o más residentes fiscales colombianos en los términos de cualquiera de las siguientes disposiciones:
 
- ISSN [1657-6241 (En linea)]
+a) Se trata de una subordinada en los términos de los numerales i., ii., iv., y v del literal b) del numeral 1 del artículo 260-1 de este Estatuto, o
 
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
+b) Se trata de un vinculado económico del exterior en los términos de cualquiera de los literales del Numeral 5 del artículo 260-1 de este estatuto.
 
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+2. La ECE no tiene residencia fiscal en Colombia.
+
+PARÁGRAFO 1o. Las ECE comprenden vehículos de inversión tales como sociedades, patrimonios autónomos, trusts, fondos de inversión colectiva, otros negocios fiduciarios y fundaciones de interés privado, constituidos, en funcionamiento o domiciliados en el exterior, ya sea que se trate de entidades con personalidad jurídica o sin ella, o que sean transparentes para efectos fiscales o no.
+
+PARÁGRAFO 2o. Se presume que los residentes fiscales tienen control sobre las ECE que se encuentren domiciliadas, constituidas o en operación en una jurisdicción no cooperante o de baja o nula imposición o a entidades sometidas a un régimen tributario preferencial en los términos del artículo 260-7 del Estatuto Tributario, independientemente de su participación en ellas.
+
+PARÁGRAFO 3o. Para efectos de determinar la existencia o no de control en los términos del numeral 1 del artículo 260-1 del Estatuto Tributario, la tenencia de opciones de compra sobre acciones o participaciones en el capital de la ECE, se asimila a la tenencia de las acciones o participaciones directamente.
+
+## art:883 — SUJETOS DEL RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR SIN RESIDENCIA FISCAL EN COLOMBIA (ECE)
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Cuando se determine que la ECE es controlada por residentes colombianos de acuerdo con el artículo 882 anterior, estarán obligados a cumplir con las disposiciones de este título, todos aquellos residentes fiscales colombianos que tengan, directa o indirectamente, una participación igual o superior al 10% en el capital de la ECE o en los resultados de la misma.
+
+## art:884 — INGRESOS PASIVOS
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Para efectos de lo dispuesto en este Título, son ingresos pasivos obtenidos por una ECE, los siguientes:
+
+1. Dividendos, retiros, repartos y cualquier otra forma de distribución, o realización de utilidades provenientes de participaciones en otras sociedades o vehículos de inversión, salvo que:
+
+a) Las utilidades que son susceptibles de distribución correspondan a rentas activas de la ECE, sus filiales, subordinadas o establecimientos permanentes, siempre y cuando: 
+
+i) Dichas utilidades tengan su origen principalmente en actividades económicas reales llevadas a cabo por la ECE, sus filiales, subordinadas o establecimientos permanentes en la jurisdicción en la que se encuentre ubicada o tenga su residencia fiscal, según el caso, la ECE, sus filiales, subordinadas o establecimientos permanentes; y 
+
+ii) En el caso de las filiales, subordinadas o establecimientos permanentes de la ECE, estas, a su vez, sean controladas indirectamente por uno o más residentes fiscales colombianos.
+
+Para efectos de este literal, la referencia a utilidades con origen principalmente en actividades económicas reales significa que dichas utilidades se deriven en un porcentaje igual o superior a un 80% de ingresos que no sean considerados como rentas pasivas.
+
+b) De haberse distribuido directamente a los residentes fiscales colombianos, los dividendos, retiros, repartos y cualquier otra forma de distribución o realización de utilidades habrían estado exentos de tributación en Colombia en virtud de un convenio para evitar la doble imposición.
+
+2. Intereses o rendimientos financieros. No se consideran rentas pasivas los intereses o rendimientos financieros obtenidos por una ECE que sea controlada por una sociedad nacional sometida a la inspección y vigilancia de la Superintendencia Financiera de Colombia; o
+
+a) Sea una institución financiera del exterior, y 
+
+b) No esté domiciliada, localizada o constituida en una jurisdicción calificada como una jurisdicción no cooperante o de baja o nula imposición, que no intercambie efectivamente de manera automática, información con Colombia de acuerdo con los estándares internacionales.
+
+3. Ingresos derivados de la cesión del uso, goce, o explotación de activos intangibles, tales como marcas, patentes, fórmulas, software, propiedad intelectual e industrial y otras similares.
+
+4. Ingresos provenientes de la enajenación o cesión de derechos sobre activos que generen rentas pasivas.
+
+5. Ingresos provenientes de la enajenación o arrendamiento de bienes inmuebles.
+
+6. Ingresos provenientes de la compra o venta de bienes corporales que cumplan la totalidad de las siguientes condiciones: 
+
+i) sean adquiridos o enajenados de, para, o en nombre de, una persona relacionada;
+
+ii) sean producidos, manufacturados, construidos, cultivados o extraídos en una jurisdicción distinta a la de la residencia o ubicación de la ECE; y 
+
+iii) su uso, consumo o disposición se realice en una jurisdicción distinta a la de residencia o ubicación de la ECE.
+
+7. Ingresos provenientes de la prestación de servicios técnicos, de asistencia técnica, administrativos, ingeniería, arquitectura, científicos, calificados, industriales y comerciales, para o en nombre de partes relacionadas en una jurisdicción distinta a la de la residencia o ubicación de la ECE.
+
+## art:885 — PRESUNCIÓN DE PLENO DERECHO
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Se presume de pleno derecho que: 
+
+1. Cuando los ingresos pasivos de la ECE representan un 80% o más de los ingresos totales de la ECE, que la totalidad de los ingresos, costos y deducciones de la ECE darán origen a rentas pasivas. 
+
+2. Cuando los ingresos activos o de actividades económicas reales de la ECE representan un 80% o más de los ingresos totales de la ECE, que la totalidad de los ingresos, costos y deducciones de la ECE darán origen a rentas activas.
+
+## art:886 — REALIZACIÓN DE LOS INGRESOS
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Los ingresos pasivos obtenidos por una ECE, se entienden realizados en cabeza de los residentes fiscales colombianos contribuyentes del impuesto sobre la renta y complementarios que, directa o indirectamente, controlen la ECE, en el año o período gravable en que la ECE las realizó, en proporción a su participación en el capital de la ECE o en los resultados de esta última, según sea el caso, de acuerdo con los artículos 27, 28, 29 de este Estatuto.
+
+## art:887 — REALIZACIÓN DE LOS COSTOS
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Los costos asociados a los ingresos pasivos obtenidos por una ECE, se entienden realizados en cabeza de los residentes fiscales colombianos contribuyentes del impuesto sobre la renta y complementarios, que, directa o indirectamente, controlen la ECE, en el año o período gravable en que la ECE las realizó, en proporción a su participación en el capital de la ECE o en los resultados de esta última, según sea el caso, de acuerdo con los artículos 58 y 59 de este Estatuto.
+
+## art:888 — REALIZACIÓN DE LAS DEDUCCIONES
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Las expensas en las que incurra la ECE para la obtención de los ingresos pasivos serán deducibles al momento de determinar las rentas pasivas siempre que cumplan con los requisitos previstos en este estatuto para su procedencia. Las deducciones que solicite una ECE, se entienden realizadas en cabeza de los residentes fiscales colombianos contribuyentes del impuesto sobre la renta y complementarios, que, directa o indirectamente, controlen la ECE, en el año o período gravable en que la ECE las realizó, en proporción a su participación en el capital de la ECE o en los resultados de esta última, según sea el caso, de acuerdo con los artículos 104, 105 y 106 de este Estatuto.
+
+## art:889 — DETERMINACIÓN DE LAS RENTAS PASIVAS
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Las rentas pasivas atribuibles a los contribuyentes del impuesto sobre la renta y complementarios son aquellas que resulten de sumar la totalidad de los ingresos pasivos realizados por la ECE en el año o período gravable, y restar los costos y las deducciones asociados a esos ingresos pasivos, de acuerdo con las reglas de los artículos anteriores.
+
+## art:890 — RENTA LÍQUIDA GRAVABLE
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Las rentas pasivas, cuyo valor sea igual o mayor a cero (0), deberán ser incluidas en las declaraciones del impuesto sobre la renta y complementarios de acuerdo con la participación que tengan en la ECE o en los resultados de la misma, los sujetos obligados a este régimen de acuerdo con el artículo 883.
+
+## art:891 — PÉRDIDAS ASOCIADAS A LAS RENTAS PASIVAS
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Las rentas pasivas, cuyo valor sea inferior a cero (0), no se someten a las reglas previstas en el artículo 147 de este estatuto para las pérdidas fiscales.
+
+## art:892 — DESCUENTO POR IMPUESTOS PAGADOS EN EL EXTERIOR POR LA ECE
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Los residentes fiscales que ejerzan control sobre una ECE y, en consecuencia, se vean en la obligación de cumplir con lo dispuesto en el artículo 890 de este Estatuto, tendrán derecho a los descuentos de que trata el artículo 254 de este Estatuto en la proporción de su participación en la ECE.
+
+## art:893 — TRATAMIENTO DE LA DISTRIBUCIÓN DE BENEFICIOS POR PARTE DE LA ECE CUYO ORIGEN CORRESPONDE A RENTAS SOMETIDAS AL RÉGIMEN ECE
+ubicacion: TÍTULO I. RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR.
+
+Los dividendos y beneficios distribuidos o repartidos por la ECE, así como los remanentes distribuidos al momento de la liquidación de la ECE, originados en utilidades que estuvieron sometidas a tributación de acuerdo con las reglas de este Título, serán considerados como ingresos no constitutivos de renta ni ganancia ocasional al momento de su realización para efectos fiscales por parte del sujeto obligado al régimen de ECE de conformidad con el artículo 883 en la proporción a que a ellas tuvieran derecho.
+
+Las rentas o ganancias ocasionales provenientes de la enajenación de las acciones o participaciones en la ECE que correspondan a utilidades que estuvieron sometidas a tributación de conformidad con lo previsto en este Título, se consideran ingresos no constitutivos de renta ni ganancia ocasional al momento de su realización para efectos fiscales por parte del sujeto obligado al régimen de ECE de conformidad con el artículo 883 en la proporción a que a ellas tuvieran derecho.
+
+La condición de ingreso no constitutivo de renta ni ganancia ocasional de estos dividendos se somete a lo previsto en el literal b. del numeral 2 del artículo 49 del Estatuto Tributario.
+
+## art:894 — COMPAÑÍAS HOLDING COLOMBIANAS (CHC)
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
+
+Podrán acogerse al régimen CHC las sociedades nacionales que tengan como una de sus actividades principales la tenencia de valores, la inversión o holding de acciones o participaciones en sociedades o entidades colombianas y/o del exterior, y/o la administración de dichas inversiones, siempre que cumplan con las siguientes condiciones: 
+
+1. Participación directa o indirecta en al menos el 10% del capital de dos o más sociedades o entidades colombianas y/o extranjeras por un período mínimo de 12 meses.
+
+2. Contar con los recursos humanos y materiales para la plena realización del objeto social. Se entenderá que se cumple con los recursos humanos y materiales necesarios para una actividad de holding cuando la compañía cuente con al menos tres (3) empleados, una dirección propia en Colombia y pueda demostrar que la toma de decisiones estratégicas respecto de las inversiones y los activos de la CHC se realiza en Colombia, para lo cual la simple formalidad de la Asamblea Anual de Accionistas, no será suficiente. 
+
+Las entidades que deseen acogerse al régimen CHC deberán comunicarlo a la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante los formatos que establezca el reglamento. Las disposiciones contenidas en este título se aplicarán a partir del año fiscal en que se radique la comunicación en la Dirección de Impuestos y Aduanas Nacionales (DIAN). 
+
+PARÁGRAFO 1o. Los beneficios del régimen CHC podrán ser rechazados por la Dirección de Impuestos y Aduanas Nacionales (DIAN) en caso de incumplimiento de los requisitos mencionados en este artículo, lo cual ocurrirá en la respectiva vigencia fiscal en la que se produzca el incumplimiento. Lo anterior, sin perjuicio de la aplicación del artículo 869 y siguientes del Estatuto Tributario y las cláusulas antiabuso establecidas en los convenios de doble imposición. 
+
+PARÁGRAFO 2o. Las entidades públicas descentralizadas que tengan participaciones en otras sociedades, se entenderán incluidas en el régimen CHC.
+
+## art:895 — DIVIDENDOS Y PARTICIPACIONES DISTRIBUIDOS POR ENTIDADES NO RESIDENTES EN COLOMBIA
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
+
+Los dividendos o participaciones distribuidos por entidades no residentes en Colombia a una CHC estarán exentos del impuesto sobre la renta y se declararán como rentas exentas de capital. 
+
+Los dividendos que a su vez distribuya una CHC a una persona natural residente o a una persona jurídica residente, contribuyente del impuesto sobre la renta, estarán gravados a la tarifa del impuesto sobre la renta por concepto de dividendos, de conformidad con los artículos 242 y 242-1 de este Estatuto. Los dividendos que distribuya una CHC a una persona natural o jurídica no residente en Colombia, se entenderán rentas de fuente extranjera de acuerdo con el literal e) del artículo 25 del Estatuto Tributario. 
+
+La distribución de la prima en colocación de acciones, que no constituye costo fiscal, tendrá el mismo tratamiento que los dividendos ordinarios, configurándose como rentas exentas cuando el beneficiario sea una CHC, como rentas de fuente extranjera cuando la CHC distribuya a una persona natural o jurídica no residente en Colombia y como renta gravable cuando la CHC distribuya a una persona natural o jurídica residente en Colombia. 
+
+PARÁGRAFO. Lo dispuesto en el presente artículo no se aplicará cuando el perceptor de las rentas distribuidas por la CHC tenga su domicilio o sea residente en una jurisdicción no cooperante de baja o nula imposición y/o de un régimen tributario preferencial según lo dispuesto en el artículo 260-7 y sus normas reglamentarias o las disposiciones que los modifiquen o sustituyan.
+
+## art:896 — GANANCIAS OCASIONALES EXENTAS
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
+
+Las rentas derivadas de la venta o transmisión de la participación de una CHC en entidades no residentes en Colombia estarán exentas del impuesto sobre la renta y deberán declararse como ganancias ocasionales exentas. 
+
+Las rentas derivadas de la venta o transmisión de las acciones o participaciones en una CHC estarán exentas excepto por el valor correspondiente a las utilidades obtenidas por actividades realizadas en Colombia. En el caso de socios o accionistas no residentes, las rentas de la venta o transmisión de las acciones o participaciones en una CHC tendrán el tratamiento de rentas de fuente extranjera respecto de la proporción de la venta atribuible a las actividades realizadas o los activos poseídos por entidades no residentes, según lo dispuesto en el artículo 25 del Estatuto Tributario.
+
+PARÁGRAFO. Lo dispuesto en el presente artículo no se aplicará cuando el perceptor de las rentas derivadas de la venta de las acciones en la CHC o distribuidas por esta, tenga su domicilio o sea residente en una jurisdicción no cooperante de baja o nula imposición y/o de un régimen tributario preferencial, según lo dispuesto en el artículo 260-7 del Estatuto Tributario y sus normas reglamentarias o las disposiciones que los modifiquen o sustituyan.
 
 ## art:897 — OBLIGACIONES DE INFORMACIÓN Y DOCUMENTACIÓN
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 Las CHC deberán mantener la documentación que acredite el importe de las rentas exentas y los impuestos pagados en el extranjero correspondientes a estas, así como facilitar a sus socios o accionistas la información necesaria para que estos puedan cumplir lo previsto en los artículos anteriores. Adicionalmente, deberán mantener los estudios, documentos y comunicaciones, que justifiquen que la toma de decisiones estratégicas respecto de las inversiones se verifica en Colombia.
 
 ## art:898 — COORDINACIÓN CON OTROS REGÍMENES
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 Las CHC y sus accionistas estarán sometidos al régimen general del impuesto sobre la renta respecto de las actividades gravadas realizadas en el territorio nacional y en el extranjero a través de establecimientos permanentes. Adicionalmente, se tendrán en cuenta las siguientes interacciones para efectos de la tributación de las CHC: 
 
@@ -13657,27 +14484,78 @@ Las CHC y sus accionistas estarán sometidos al régimen general del impuesto so
 4. Las CHC se encuentran sometidas al impuesto de industria y comercio en la medida en que realicen el hecho generador dentro del territorio de un municipio colombiano. Los dividendos recibidos por las inversiones en entidades extranjeras y cubiertos por el régimen CHC, no estarán sujetos al impuesto de industria y comercio.
 
 ## art:899 — SUBDIRECCIÓN DE ADMINISTRACIÓN
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:900 — DIVISIÓN DE RECURSOS HUMANOS
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:901 — DIVISIÓN DE INSPECCIÓN
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:902 — DIVISIÓN FINANCIERA
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
+## art:903 — CREACIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN (SIMPLE)
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
+
+Créese a partir del 1 de enero de 2020 el impuesto unificado que se pagará bajo el Régimen Simple de Tributación - Simple, con el fin de reducir las cargas formales y sustanciales, impulsar la formalidad y, en general, simplificar y facilitar el cumplimiento de la obligación tributaria de los contribuyentes que voluntariamente se acojan al régimen previsto en el presente Libro. 
+
+El impuesto unificado bajo el Régimen Simple de Tributación - Simple es un modelo de tributación opcional de determinación integral, de declaración anual y anticipo bimestral, que sustituye el impuesto sobre la renta, e integra el impuesto nacional al consumo y el impuesto de industria y comercio consolidado, a cargo de los contribuyentes que opten voluntariamente por acogerse al mismo. El impuesto de industria y comercio consolidado comprende el impuesto complementario de avisos y tableros y las sobretasas bomberil que se encuentran autorizadas a los municipios. 
+
+Este sistema también integra los aportes del empleador a pensiones, mediante el mecanismo del crédito tributario. 
+
+PARÁGRAFO 1o. La Dirección de Impuestos y Aduanas Nacionales (DIAN), en uso de sus facultades, podrá registrar en el presente régimen de manera oficiosa a contribuyentes que no hayan declarado cualquiera de los impuestos sobre la renta y complementarios, sobre las ventas, al consumo y/o el impuesto de industria y comercio consolidado. La inscripción o registro, podrá hacerse en el Registro Único Tributario (RUT) de manera masiva, a través de un edicto que se publicará en la página web de la Dirección de Impuestos y Aduanas Nacionales (DIAN). 
+
+La Dirección de Impuestos y Aduanas Nacionales (DIAN) informará a las autoridades municipales y distritales, mediante resolución, el listado de los contribuyentes que se acogieron al Régimen Simple de Tributación - Simple, así como aquellos que sean inscritos de oficio. 
+
+PARÁGRAFO 2o. El Gobierno nacional reglamentará el intercambio de información y los programas de control y fiscalización conjuntos entre la Dirección de Impuestos y Aduanas Nacionales (DIAN) y las autoridades municipales y distritales. 
+
+PARÁGRAFO 3o. Los contribuyentes que opten por acogerse al impuesto unificado bajo el Régimen Simple de Tributación - Simple deberán realizar los respectivos aportes al Sistema General de Pensiones de conformidad con la legislación vigente y estarán exonerados de aportes parafiscales en los términos del artículo 114-1 del Estatuto Tributario. 
+
+PARÁGRAFO 4o. El valor del aporte al Sistema General de Pensiones a cargo del empleador que sea contribuyente del impuesto unificado bajo el Régimen Simple de Tributación - Simple, se podrá tomar como un descuento tributario en los recibos electrónicos de pago del anticipo bimestral Simple de que trata el artículo 910 de este Estatuto. El descuento no podrá exceder el valor del anticipo bimestral a cargo del contribuyente perteneciente a este régimen. La parte que corresponda al impuesto de industria y comercio consolidado no podrá ser cubierta con dicho descuento.
+
+El exceso originado en el descuento de que trata este parágrafo, podrá tomarse en los siguientes recibos electrónicos del anticipo bimestral SIMPLE a aquel en que se realizó el pago del aporte al Sistema General de Pensiones. Para la procedencia del descuento, el contribuyente del impuesto unificado bajo el Régimen Simple de Tributación - Simple debe haber efectuado el pago de los aportes al Sistema General de Pensiones antes de presentar el recibo electrónico del anticipo bimestral Simple de que trata el artículo 910 de este Estatuto.
+
+## art:904 — HECHO GENERADOR Y BASE GRAVABLE DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
+
+El hecho generador del impuesto unificado bajo el Régimen Simple de Tributación - Simple es la obtención de ingresos susceptibles de producir un incremento en el patrimonio, y su base gravable está integrada por la totalidad de los ingresos brutos, ordinarios y extraordinarios, percibidos en el respectivo periodo gravable. 
+
+Para el caso del impuesto de industria y comercio consolidado, el cual se integra al impuesto unificado bajo el régimen simple de tributación – SIMPLE, se mantienen la autonomía de los entes territoriales para la definición de los elementos del hecho generador, base gravable, tarifa y sujetos pasivos, de conformidad con las leyes vigentes. 
+
+PARÁGRAFO. Los ingresos constitutivos de ganancia ocasional no integran la base gravable del impuesto unificado bajo el régimen simple de tributación-SIMPLE. Tampoco integran la base gravable los ingresos no constitutivos de renta ni ganancia ocasional.
+
+## art:905 — SUJETOS PASIVOS
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
+
+Podrán ser sujetos pasivos del impuesto unificado bajo el régimen simple de tributación – SIMPLE las personas naturales o jurídicas que reúnan la totalidad de las siguientes condiciones: 
+
+1. Que se trate de una persona natural que desarrolle una empresa o de una persona jurídica en la que sus socios, partícipes o accionistas sean personas naturales, nacionales o extranjeras, residentes en Colombia. 
+
+2. <Numeral modificado por el artículo 41 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Que en el año gravable anterior hubieren obtenido ingresos brutos, ordinarios o extraordinarios, inferiores a 100.000 UVT. En el caso de las empresas o personas jurídicas nuevas, la inscripción en el impuesto unificado bajo el régimen simple de tributación – SIMPLE estará condicionada a que los ingresos del año no superen estos límites. 
+
+<Inciso INEXEQUIBLE> 
+
+3. Si uno de los socios persona natural tiene una o varias empresas o participa en una o varias sociedades, inscritas en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas empresas o sociedades. 
+
+4. Si uno de los socios persona natural tiene una participación superior al 10% en una o varias sociedades no inscritas en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas sociedades. 
+
+5. Si uno de los socios persona natural es gerente o administrador de otras empresas o sociedades, los límites máximos de ingresos brutos se revisarán de forma consolidada con los de las empresas o sociedades que administra. 
+
+6. <Numeral modificado por el artículo 42 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La persona natural o jurídica debe contar con la inscripción respectiva en el Registro Único Tributario (RUT) y con todos los mecanismos electrónicos de cumplimiento, firma electrónica y factura electrónica o documentos equivalentes electrónicos. 
+
+PARÁGRAFO. Para efectos de la consolidación de los límites máximos de ingresos que tratan los numerales 3, 4 y 5 de este artículo, se tendrán en cuenta únicamente los ingresos para efectos fiscales.
+
 ## art:906 — SUJETOS QUE NO PUEDEN OPTAR POR EL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 No podrán optar por el impuesto unificado bajo el régimen simple de tributación – SIMPLE: 
 
@@ -13717,12 +14595,12 @@ h) Producción o comercialización de armas de fuego, municiones y pólvoras, ex
 
 10. Las sociedades que sean el resultado de la segregación, división o escisión de un negocio, que haya ocurrido en los cinco (5) años anteriores al momento de la solicitud de inscripción. 
 
-11. <Numeral adicionado por el artículo 43 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las personas naturales o jurídicas que desarrollen las actividades económicas CIIU 4665, 3830 y 3811 que obtengan utilidades netas superiores al tres (3%) del ingreso bruto
+11. <Numeral adicionado por el artículo 43 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Las personas naturales o jurídicas que desarrollen las actividades económicas CIIU 4665, 3830 y 3811 que obtengan utilidades netas superiores al tres (3%) del ingreso bruto.
 
-## art:907 — 
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+## art:907 — IMPUESTOS QUE COMPRENDEN E INTEGRAN EL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-IMPUESTOS QUE COMPRENDEN E INTEGRAN EL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE. <Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El impuesto unificado bajo el régimen simple de tributación – SIMPLE comprende e integra los siguientes impuestos: 
+El impuesto unificado bajo el régimen simple de tributación – SIMPLE comprende e integra los siguientes impuestos: 
 
 1. Impuesto sobre la renta; 
 
@@ -13734,12 +14612,10 @@ PARÁGRAFO TRANSITORIO. Antes del 31 de diciembre de 2020, los concejos municipa
 
 Los acuerdos que profieran los concejos municipales y distritales deben establecer una única tarifa consolidada para cada grupo de actividades descritas en los numerales del artículo 908 de este Estatuto, que integren el impuesto de industria y comercio, complementarios y sobretasas, de conformidad con las leyes vigentes, respetando la autonomía de los entes territoriales y dentro de los límites dispuestos en las leyes vigentes. 
 
-A partir el 1 de enero de 2021, todos los municipios y distritos recaudarán el impuesto de industria y comercio a través del sistema del régimen simple de tributación – SIMPLE respecto de los contribuyentes que se hayan acogido al régimen SIMPLE. Los municipios o distritos que a la entrada en vigencia de la presente ley hubieren integrado la tarifa del impuesto de industria y comercio consolidado al Régimen Simple de Tributación (Simple), lo recaudarán por medio de este a partir del 1 de enero de 2020
+A partir el 1 de enero de 2021, todos los municipios y distritos recaudarán el impuesto de industria y comercio a través del sistema del régimen simple de tributación – SIMPLE respecto de los contribuyentes que se hayan acogido al régimen SIMPLE. Los municipios o distritos que a la entrada en vigencia de la presente ley hubieren integrado la tarifa del impuesto de industria y comercio consolidado al Régimen Simple de Tributación (Simple), lo recaudarán por medio de este a partir del 1 de enero de 2020.
 
 ## art:908 — TARIFA
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
-
-<Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> 
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Inciso modificado por el artículo 44 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> La tarifa del impuesto unificado bajo el régimen simple de Tributación –SIMPLE depende de los ingresos brutos anuales y de la actividad empresarial así: 
 
@@ -13832,7 +14708,7 @@ PARÁGRAFO 5o. Cuando un mismo contribuyente del régimen simple de tributación
 PARÁGRAFO 6o. En el año gravable en el que el contribuyente del impuesto unificado bajo el régimen simple de tributación – SIMPLE realice ganancias ocasionales o ingresos no constitutivos de renta ni ganancia ocasional, dichos ingresos no se considerarán para efectos de los límites de ingresos establecidos en este régimen. El impuesto de ganancia ocasional se determina de forma independiente, con base en las reglas generales, y se paga con la presentación de la declaración anual consolidada.
 
 ## art:909 — INSCRIPCIÓN AL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Inciso modificado por el artículo 43 de la Ley 2155 de 2021. El nuevo texto es el siguiente:> Las personas naturales o jurídicas que pretendan optar por acogerse al impuesto unificado bajo el régimen simple de tributación – SIMPLE y cuenten con inscripción en el Registro Único Tributario (RUT) deberán hacerlo mediante la actualización en este mecanismo de la responsabilidad como contribuyentes del SIMPLE hasta el último día hábil del mes de febrero del año gravable para el que ejerce la opción. Quienes se inscriban por primera vez en el Registro Único Tributario (RUT) y quieran inscribirse en el SIMPLE, podrán hacerlo en cualquier tiempo siempre que indiquen en el formulario de inscripción en el RUT su intención de acogerse a este régimen. 
 
@@ -13850,12 +14726,12 @@ PARÁGRAFO TRANSITORIO 2o. Quienes a la entrada en vigencia de la presente ley h
 
 PARÁGRAFO TRANSITORIO 3o. Hasta el 31 de diciembre de 2020, las autoridades municipales y distritales tienen plazo para integrar el impuesto de industria y comercio al impuesto unificado bajo el régimen simple de tributación – SIMPLE. 
 
-En consecuencia, únicamente por el año gravable 2020, los contribuyentes que realicen actividades gravadas con el impuesto de industria y comercio y avisos y tableros, en municipios que no hayan integrado este impuesto en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, podrán descontar el impuesto mencionado en primer lugar en los recibos electrónicos bimestrales del SIMPLE
+En consecuencia, únicamente por el año gravable 2020, los contribuyentes que realicen actividades gravadas con el impuesto de industria y comercio y avisos y tableros, en municipios que no hayan integrado este impuesto en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, podrán descontar el impuesto mencionado en primer lugar en los recibos electrónicos bimestrales del SIMPLE.
 
-## art:910 — 
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+## art:910 — DECLARACIÓN Y PAGO DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-DECLARACIÓN Y PAGO DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE. <Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE deberán presentar una declaración anual consolidada dentro de los plazos que fije el Gobierno nacional y en el formulario simplificado señalado por la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución. Lo anterior sin perjuicio del pago del anticipo bimestral a través del recibo electrónico SIMPLE, el cual se debe presentar de forma obligatoria, con independencia de que haya saldo a pagar de anticipo, de conformidad con los plazos que establezca el Gobierno nacional, en los términos del artículo 908 de este Estatuto. Dicho anticipo se descontará del valor a pagar en la declaración consolidada anual. 
+Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE deberán presentar una declaración anual consolidada dentro de los plazos que fije el Gobierno nacional y en el formulario simplificado señalado por la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución. Lo anterior sin perjuicio del pago del anticipo bimestral a través del recibo electrónico SIMPLE, el cual se debe presentar de forma obligatoria, con independencia de que haya saldo a pagar de anticipo, de conformidad con los plazos que establezca el Gobierno nacional, en los términos del artículo 908 de este Estatuto. Dicho anticipo se descontará del valor a pagar en la declaración consolidada anual. 
 
 La declaración anual consolidada del impuesto unificado bajo el régimen simple de tributación – SIMPLE deberá transmitirse y presentarse con pago mediante los sistemas electrónicos de la Dirección de Impuestos y Aduanas Nacionales (DIAN), dentro de los plazos que fije el Gobierno nacional y deberá incluir los ingresos del año gravable reportados mediante los recibos electrónicos del SIMPLE. En caso de que los valores pagados bimestralmente sean superiores al impuesto unificado bajo el régimen simple de tributación – SIMPLE, se reconocerá un saldo a favor compensable de forma automática con los recibos electrónicos SIMPLE de los meses siguientes o con las declaraciones consolidadas anuales siguientes. 
 
@@ -13867,134 +14743,134 @@ PARÁGRAFO 2o. <Parágrafo adicionado por el artículo 45 de la Ley 2277 de 2022
 
 Por lo tanto, adicional a lo contemplado en el Artículo 580 de este Estatuto, no se entenderá presentada la declaración del SIMPLE que no se acompañe del respectivo pago total; sin perjuicio de lo previsto en el Artículo 914 de este Estatuto. 
 
-PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 45 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los contribuyentes personas naturales pertenecientes al Régimen Simple e Tributación - SIMPLE que no superen las tres mil quinientas (3.500) UVT de ingreso, deberán presentar únicamente una declaración anual consolidada y pago anual sin necesidad de realizar pagos anticipados a través del recibo electrónico SIMPLE
+PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 45 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> Los contribuyentes personas naturales pertenecientes al Régimen Simple e Tributación - SIMPLE que no superen las tres mil quinientas (3.500) UVT de ingreso, deberán presentar únicamente una declaración anual consolidada y pago anual sin necesidad de realizar pagos anticipados a través del recibo electrónico SIMPLE.
 
-## art:911 — 
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+## art:911 — RETENCIONES Y AUTORRETENCIONES EN LA FUENTE EN EL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-RETENCIONES Y AUTORRETENCIONES EN LA FUENTE EN EL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE. <Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE no estarán sujetos a retención en la fuente y tampoco estarán obligados a practicar retenciones y autorretenciones en la fuente, con excepción de las correspondientes a pagos laborales. En los pagos por compras de bienes o servicios realizados por los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE, el tercero receptor del pago, contribuyente del régimen ordinario y agente retenedor del impuesto sobre la renta, deberá actuar como agente autorretenedor del impuesto. Lo anterior sin perjuicio de la retención en la fuente a título del impuesto sobre las ventas –IVA, regulado en el numeral 9 del artículo 437-2 del Estatuto Tributario
+Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE no estarán sujetos a retención en la fuente y tampoco estarán obligados a practicar retenciones y autorretenciones en la fuente, con excepción de las correspondientes a pagos laborales. En los pagos por compras de bienes o servicios realizados por los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE, el tercero receptor del pago, contribuyente del régimen ordinario y agente retenedor del impuesto sobre la renta, deberá actuar como agente autorretenedor del impuesto. Lo anterior sin perjuicio de la retención en la fuente a título del impuesto sobre las ventas –IVA, regulado en el numeral 9 del artículo 437-2 del Estatuto Tributario.
 
-## art:912 — 
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+## art:912 — CRÉDITO O DESCUENTO DEL IMPUESTO POR INGRESOS DE TARJETAS DE CRÉDITO, DÉBITO Y OTROS MECANISMOS DE PAGOS ELECTRÓNICOS
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-CRÉDITO O DESCUENTO DEL IMPUESTO POR INGRESOS DE TARJETAS DE CRÉDITO, DÉBITO Y OTROS MECANISMOS DE PAGOS ELECTRÓNICOS. <Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los pagos o abonos en cuenta susceptibles de constituir ingreso tributario para los contribuyentes del impuesto unificado bajo el régimen simple de tributación-SIMPLE, por concepto de ventas de bienes o servicios realizadas a través de los sistemas de tarjetas de crédito y/o débito y otros mecanismos de pagos electrónicos, generarán un crédito o descuento del impuesto a pagar equivalente al 0.5% de los ingresos recibidos por este medio, conforme a certificación emitida por la entidad financiera adquirente. Este descuento no podrá exceder el impuesto a cargo del contribuyente perteneciente al régimen simple de tributación – SIMPLE y, la parte que corresponda al impuesto de industria y comercio consolidado, no podrá ser cubierta con dicho descuento. 
+Los pagos o abonos en cuenta susceptibles de constituir ingreso tributario para los contribuyentes del impuesto unificado bajo el régimen simple de tributación-SIMPLE, por concepto de ventas de bienes o servicios realizadas a través de los sistemas de tarjetas de crédito y/o débito y otros mecanismos de pagos electrónicos, generarán un crédito o descuento del impuesto a pagar equivalente al 0.5% de los ingresos recibidos por este medio, conforme a certificación emitida por la entidad financiera adquirente. Este descuento no podrá exceder el impuesto a cargo del contribuyente perteneciente al régimen simple de tributación – SIMPLE y, la parte que corresponda al impuesto de industria y comercio consolidado, no podrá ser cubierta con dicho descuento. 
 
-<Inciso adicionado por el artículo 46 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> De forma optativa y excluyente al descuento indicado en el inciso anterior, el contribuyente podrá tomar como descuento tributario el gravamen a los movimientos financieros que haya sido efectivamente pagado por los contribuyentes durante el respectivo año gravable, independientemente que tenga o no relación de causalidad con la actividad económica del contribuyente, siempre que se encuentre debidamente certificado por el agente retenedor y no exceda del cero coma cero cero cuatro por ciento (0,004%) de los ingresos netos del contribuyente. Este descuento no podrá exceder el impuesto a cargo del contribuyente perteneciente al Régimen Simple de Tributación-SIMPLE y, la parte que corresponda al impuesto de industria y comercio consolidado no podrá ser cubierta con dicho descuento
+<Inciso adicionado por el artículo 46 de la Ley 2277 de 2022. El nuevo texto es el siguiente:> De forma optativa y excluyente al descuento indicado en el inciso anterior, el contribuyente podrá tomar como descuento tributario el gravamen a los movimientos financieros que haya sido efectivamente pagado por los contribuyentes durante el respectivo año gravable, independientemente que tenga o no relación de causalidad con la actividad económica del contribuyente, siempre que se encuentre debidamente certificado por el agente retenedor y no exceda del cero coma cero cero cuatro por ciento (0,004%) de los ingresos netos del contribuyente. Este descuento no podrá exceder el impuesto a cargo del contribuyente perteneciente al Régimen Simple de Tributación-SIMPLE y, la parte que corresponda al impuesto de industria y comercio consolidado no podrá ser cubierta con dicho descuento.
 
 ## art:913 — EXCLUSIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE POR RAZONES DE CONTROL
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-<Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Cuando el contribuyente incumpla las condiciones y requisitos previstos para pertenecer al impuesto unificado bajo el régimen simple de tributación – SIMPLE o cuando se verifique abuso en materia tributaria, y el incumplimiento no sea subsanable, perderá automáticamente su calificación como contribuyente del impuesto unificado bajo el régimen simple de tributación – SIMPLE y deberá declararse como contribuyente del régimen ordinario, situación que debe actualizarse en el Registro Único Tributario (RUT) y debe transmitirse a las correspondientes autoridades municipales y distritales. 
+Cuando el contribuyente incumpla las condiciones y requisitos previstos para pertenecer al impuesto unificado bajo el régimen simple de tributación – SIMPLE o cuando se verifique abuso en materia tributaria, y el incumplimiento no sea subsanable, perderá automáticamente su calificación como contribuyente del impuesto unificado bajo el régimen simple de tributación – SIMPLE y deberá declararse como contribuyente del régimen ordinario, situación que debe actualizarse en el Registro Único Tributario (RUT) y debe transmitirse a las correspondientes autoridades municipales y distritales. 
 
 La Dirección de Impuestos y Aduanas Nacionales (DIAN) tendrá las facultades para notificar una liquidación oficial simplificada del impuesto unificado bajo el régimen simple de tributación – SIMPLE, a través de estimaciones objetivas realizadas por la Administración Tributaria y conforme con la información obtenida de terceros y del mecanismo de la factura electrónica. En el caso de contribuyentes omisos de la obligación tributaria, su inscripción en el impuesto unificado bajo el régimen simple de tributación – SIMPLE se verificará de forma oficiosa y automática por parte de la Administración Tributaria. 
 
-El contribuyente podrá desestimar y controvertir la liquidación oficial simplificada, a través de la presentación de la declaración del impuesto sobre la renta bajo el sistema ordinario o cedular según el caso, dentro de los tres meses siguientes a su notificación, de lo contrario quedará en firme la liquidación oficial simplificada y prestará mérito ejecutivo
+El contribuyente podrá desestimar y controvertir la liquidación oficial simplificada, a través de la presentación de la declaración del impuesto sobre la renta bajo el sistema ordinario o cedular según el caso, dentro de los tres meses siguientes a su notificación, de lo contrario quedará en firme la liquidación oficial simplificada y prestará mérito ejecutivo.
 
-## art:914 — 
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+## art:914 — EXCLUSIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE POR INCUMPLIMIENTO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-EXCLUSIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE POR INCUMPLIMIENTO. <Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Cuando el contribuyente incumpla los pagos correspondientes al total del periodo del impuesto unificado bajo el régimen simple de tributación – SIMPLE, será excluido del Régimen y no podrá optar por este en el año gravable siguiente al del año gravable de la omisión o retardo en el pago. Se entenderá incumplido cuando el retardo en la declaración o en el pago del recibo SIMPLE sea mayor a un (1) mes calendario
+Cuando el contribuyente incumpla los pagos correspondientes al total del periodo del impuesto unificado bajo el régimen simple de tributación – SIMPLE, será excluido del Régimen y no podrá optar por este en el año gravable siguiente al del año gravable de la omisión o retardo en el pago. Se entenderá incumplido cuando el retardo en la declaración o en el pago del recibo SIMPLE sea mayor a un (1) mes calendario.
 
 ## art:915 — RÉGIMEN DE IVA Y DE IMPUESTO AL CONSUMO
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-<Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE son responsables del impuesto sobre las ventas – IVA o del impuesto nacional al consumo. 
+Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE son responsables del impuesto sobre las ventas – IVA o del impuesto nacional al consumo. 
 
 En el caso de los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE que sean responsables del impuesto sobre las ventas – IVA, presentarán una declaración anual consolidada del impuesto sobre las ventas – IVA, sin perjuicio de la obligación de transferir el IVA mensual a pagar mediante el mecanismo del recibo electrónico SIMPLE. En el caso de los contribuyentes del impuesto unificado bajo el régimen simple de tributación - SIMPLE que desarrollen actividades de expendio de comidas y bebidas, el impuesto al consumo se declara y paga mediante el SIMPLE. 
 
 Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE están obligados a expedir facturas electrónicas y a solicitar las facturas o documento equivalente a sus proveedores de bienes y servicios, según las normas generales consagradas en el marco tributario. 
 
-PARÁGRAFO. Los contribuyentes que opten por el impuesto unificado bajo el Régimen Simple de Tributación -SIMPLE, deberán adoptar el sistema de factura electrónica dentro de los dos (2) meses siguientes a su inscripción en el Registro Único Tributario (RUT). Los demás contribuyentes cumplirán su obligación en los plazos establecidos en las normas generales sobre factura electrónica
+PARÁGRAFO. Los contribuyentes que opten por el impuesto unificado bajo el Régimen Simple de Tributación -SIMPLE, deberán adoptar el sistema de factura electrónica dentro de los dos (2) meses siguientes a su inscripción en el Registro Único Tributario (RUT). Los demás contribuyentes cumplirán su obligación en los plazos establecidos en las normas generales sobre factura electrónica.
 
-## art:916 — 
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+## art:916 — RÉGIMEN DE PROCEDIMIENTO, SANCIONATORIO Y DE FIRMEZA DE LAS DECLARACIONES DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
-RÉGIMEN DE PROCEDIMIENTO, SANCIONATORIO Y DE FIRMEZA DE LAS DECLARACIONES DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE. <Artículo modificado por el artículo 74 de la Ley 2010 de 2019. El nuevo texto es el siguiente:> El régimen de procedimiento, sancionatorio y de firmeza de las declaraciones del impuesto unificado bajo el régimen simple de tributación – SIMPLE es el previsto en el Estatuto Tributario. 
+El régimen de procedimiento, sancionatorio y de firmeza de las declaraciones del impuesto unificado bajo el régimen simple de tributación – SIMPLE es el previsto en el Estatuto Tributario. 
 
 PARÁGRAFO. Los ingresos obtenidos por concepto de sanciones e intereses se distribuirán entre la Dirección de Impuestos y Aduanas Nacionales (DIAN) y las autoridades municipales y distritales competentes, en proporción a la participación de los impuestos nacionales y territoriales en el impuesto unificado bajo el régimen simple de tributación – SIMPLE.
 
 ## art:917 — DIVISIÓN ADMINISTRATIVA
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:918 — SUBADMINISTRACIÓN DE GRANDES CONTRIBUYENTES
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:919 — DIVISIÓN DE GRANDES CONTRIBUYENTES
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:920 — FUNCIONES GENERALES
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:921 — FUNCIONES QUE ASUME EL ADMINISTRADOR
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:922 — COMITÉ DE COORDINACIÓN
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:923 — RECAUDACIONES DE IMPUESTOS NACIONALES
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:924 — PLANTA GLOBAL
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:925 — DISTRIBUCIÓN DE LA PLANTA GLOBAL Y UBICACIÓN DE LOS FUNCIONARIOS
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:926 — REDISTRIBUCIÓN DE LA PLANTA Y REUBICACIÓN DE FUNCIONARIOS
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:927 — RECONOCIMIENTO POR EL TRASLADO
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:928 — TRASLADO SIN LLENO DE REQUISITOS PARA EL CARGO
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:929 — FONDO DE DIVULGACIÓN TRIBUTARIO
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:930 — DESTINACIÓN DEL FONDO DE DIVULGACIÓN TRIBUTARIA
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:931 — DISTRIBUCIÓN GENERAL DE LOS RECURSOS DEL FONDO
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:932 — FIJACIÓN DE TARIFAS
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 <Artículo derogado por el artículo 110 del Decreto 1643 de 1991>.
 
 ## art:933 — CONCEPTOS DE LA DIRECCIÓN GENERAL DE IMPUESTOS NACIONALES
-ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES. ARTÍCULO 894. CO
+ubicacion: TÍTULO II. RÉGIMEN DE COMPAÑÍAS HOLDING COLOMBIANAS (CHC) EN EL IMPUESTO SOBRE LA RENTA Y GANANCIAS OCASIONALES.
 
 ARTICULO SEGUNDO. Las normas reglamentarias de las disposiciones incorporadas al Estatuto Tributario, se entenderán referidas a las que les correspondan en el nuevo articulado, mientras no sean expedidos los reglamentos que las sustituyan, modifiquen o deroguen. 
 

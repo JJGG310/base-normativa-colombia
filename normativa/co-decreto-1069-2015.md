@@ -7,7 +7,7 @@ ramas: [justicia, administrativo, procesal]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74174
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — 1.1
@@ -22,8 +22,6 @@ TÍTULO 2
 
 FONDOS ESPECIALES
 
-ARTÍCULO
-
 ## art:1.1.2.1 — Fondo de infraestructura carcelaria, FIC
 
 Para la financiación y generación de la infraestructura penitenciaria y carcelaria, el Ministerio de Justicia y del Derecho contará con el Fondo de Infraestructura Carcelaria, regulado por la Ley 55 de 1985, modificado por la Ley 66 de 1993 y demás normas que la adicionan o modifican.
@@ -31,8 +29,6 @@ Para la financiación y generación de la infraestructura penitenciaria y carcel
 3
 
 (Decreto 2897 de 2011, artículo 24)
-
-ARTÍCULO
 
 ## art:1.1.2.2 — Fondo de lucha contra las drogas
 
@@ -43,8 +39,6 @@ Para el fortalecimiento del sistema de justicia y de la lucha contra las drogas,
 TÍTULO 3
 
 ORGANOS DE ASESORIA Y COORDINACIÓN
-
-ARTÍCULO
 
 ## art:1.1.3.1 — Órganos Internos de Asesoría y Coordinación
 
@@ -288,15 +282,11 @@ TÍTULO 1.
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Instituto Nacional Penitenciario y Carcelario
 
 El Instituto Nacional Penitenciario y Carcelario, INPEC, tiene como objeto ejercer la vigilancia, custodia, atención y tratamiento de las personas privadas de la libertad; la vigilancia y seguimiento del mecanismo de seguridad electrónica y de la ejecución del trabajo social no remunerado, impuestas como consecuencia de una decisión judicial, de conformidad con las políticas establecidas por el Gobierno Nacional y el ordenamiento jurídico, en el marco de la promoción, respeto y protección de los derechos humanos.
 
 (Decreto 4151 de 2011, artículo 1)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Unidad de Servicios Penitenciarios y Carcelarios
 
@@ -304,15 +294,11 @@ La Unidad de Servicios Penitenciarios y Carcelarios - SPC, tiene como objeto ges
 
 (Decreto 4150 de 2011, artículo 4)
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Unidad Administrativa Especial Agencia Nacional de Defensa Jurídica del Estado
 
 La Agencia tendrá como objetivo el diseño de estrategias, planes y acciones dirigidos a dar cumplimiento a las políticas de defensa jurídica de la Nación y del Estado definidas por el Gobierno Nacional; la formulación, evaluación y difusión de las políticas en materia de prevención de las conductas antijurídicas por parte de servidores y entidades públicas, del daño antijurídico y la extensión de sus efectos, y la dirección, coordinación y ejecución de las acciones que aseguren la adecuada implementación de las mismas, para la defensa de los intereses litigiosos de la Nación.
 
 (Decreto Ley 4085 de 2011, artículo 2)
-
-ARTÍCULO
 
 ## art:1.2.1.4 — Superintendencia de Notariado y Registro
 
@@ -332,13 +318,9 @@ TÍTULO 1.
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad vigente expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para para la cumplida ejecución de las leyes.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de Aplicación
 
@@ -347,8 +329,6 @@ El presente decreto aplica a las entidades del sector Justicia y del Derecho y r
 TÍTULO 2.
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.1.2.1 — Definiciones
 
@@ -432,8 +412,6 @@ CAPÍTULO 1.
 
 UTILIZACIÓN DE DISPOSITIVOS DE TELECOMUNICACIONES EN LOS ESTABLECIMIENTOS PENITENCIARIOS
 
-ARTÍCULO
-
 ## art:2.2.1.1.1 — Autorización de inhibición o bloqueo de señales de telecomunicaciones en establecimientos carcelarios o penitenciarios
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones podrá autorizar al Instituto Nacional Penitenciario y Carcelario (Inpec) para inhibir o bloquear las señales de transmisión, recepción y control de los proveedores de redes y servicios de telecomunicaciones móviles en los establecimientos carcelarios y penitenciarios definidos por el Instituto, cuando se tengan motivos fundados para inferir que desde su interior se realizan amenazas, estafas, extorsiones y otros hechos constitutivos de delito mediante la utilización de dispositivos de telecomunicaciones.
@@ -445,8 +423,6 @@ PARÁGRAFO 1. El Inpec deberá operar los equipos utilizados para la inhibición
 PARÁGRAFO 2. La Agencia Nacional del Espectro (ANE) vigilará y controlará el cumplimiento de la obligación prevista en el parágrafo 1, para lo cual realizará visitas periódicas a los respectivos establecimientos carcelarios o penitenciarios y a sus áreas exteriores.
 
 (Decreto 4768 de 2011, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2 — Orden de eliminación o restricción de señales de telecomunicaciones en establecimientos carcelarios o penitenciarios
 
@@ -462,15 +438,11 @@ PARÁGRAFO 2. La Dirección de Vigilancia y Control del Ministerio de Tecnologí
 
 (Decreto 4768 de 2011 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3 — Calidad y cubrimiento en las áreas afectadas por la medida
 
 En los establecimientos carcelarios y penitenciarios afectados por las medidas a que se refieren los artículos anteriores, no se aplicarán los indicadores ni las exigencias de calidad y cubrimiento a cargo de los respectivos proveedores de redes y servicios de telecomunicaciones móviles.
 
 (Decreto 4768 de 2011 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.4 — Solicitud de bloqueo de equipos terminales móviles - ETM por parte del INPEC o la Fiscalía General de la Nación
 
@@ -479,8 +451,6 @@ El Instituto Nacional Penitenciario y Carcelario - INPEC o la Fiscalía General 
 Para este propósito el Instituto Nacional Penitenciario y Carcelaria - INPEC, la Fiscalía General de la Nación y los Proveedores de Redes y Servicios de Telecomunicaciones Móviles - PRSTM, podrán hacer uso de la información correspondiente al número de identificación IMEI (International Mobile Station Equipment Identity) de los Equipos Terminales Móviles para el sistema GSM, o su equivalente en otras tecnologías.
 
 (Decreto 694 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.5 — Utilización de Base de Datos
 
@@ -491,8 +461,6 @@ Para el efecto, se adicionará a la Base de Datos Negativa Administrativa - BOA 
 Los PRSTM deberán tener en operación el bloqueo de los IMEI(s) solicitado por el INPEC a través de la BDA y 800, a partir del 1 de julio de 2018.
 
 (Decreto 694 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.6 — 1.6
 
@@ -510,15 +478,11 @@ PARÁGRAFO 2. El Instituto Nacional Penitenciario y Carcelario - INPEC y la Fisc
 
 (Decreto 694 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.7 — IMEI duplicados
 
 En el caso que respecto de un IMEI reportado por el INPEC o por la Fiscalía General de la Nación, se presente un reclamo de un usuario ante un Proveedor de Redes y Servicios de Telecomunicaciones Móviles - PRSTM y este identifique que se trata de un IMEI duplicado, se aplicará lo previsto en los artículos 2.7.3.12.4 y siguientes de la Resolución 5050 de 2016 expedida por la Comisión de Regulación de Comunicaciones o las normas que la modifiquen, adicionen o sustituyan.
 
 (Decreto 694 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.8 — Vigilancia y Control
 
@@ -606,8 +570,6 @@ CAPÍTULO 2.
 
 ESTADO DE EMERGENCIA PENITENCIARIA Y CARCELARIA
 
-ARTÍCULO
-
 ## art:2.2.1.2.1 — Límite Temporal
 
 El Director General del INPEC deberá determinar, al momento de decretar el estado de emergencia penitenciaria y carcelaria a que se refiere el artículo 168 de la Ley 65 de 1993, modificado por el artículo 92 de la Ley 1709 de 2014, el período de duración de dicho estado, dependiendo de las causas que le dieron origen.
@@ -615,8 +577,6 @@ El Director General del INPEC deberá determinar, al momento de decretar el esta
 En el evento en que las causas que motivaron la declaratoria de emergencia persistan al vencimiento del término señalado, el Director General del INPEC podrá prorrogarlo, previo informe al Consejo Directivo.
 
 (Decreto 221 de 1995 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2 — Traslado de Internos
 
@@ -628,8 +588,6 @@ En todo caso, superado el peligro y reestablecido el orden el Director General d
 
 (Decreto 221 de 1995, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3 — Apoyo de la Fuerza Pública
 
 En los casos previstos en el numeral primero del artículo 168 de la Ley 65 de 1993, modificado por el artículo 92 de la Ley 1709 de 2014, el Director General del INPEC podrá solicitar el apoyo de la Fuerza Pública, en los términos establecidos en los artículos 31 y 32 de la Ley 65 de 1993, para que ingrese a las instalaciones y dependencias de un establecimiento penitenciario y carcelario a fin de prevenir o conjurar graves alteraciones de orden público o cuando se haga necesario reforzar la vigilancia del centro de reclusión. En este último evento, la presencia de la Fuerza Pública será temporal y en ningún caso superior al tiempo de duración del estado de emergencia.
@@ -637,8 +595,6 @@ En los casos previstos en el numeral primero del artículo 168 de la Ley 65 de 1
 En los Establecimientos y Pabellones de Alta Seguridad, mientras dure el estado de emergencia penitenciaria y carcelaria la vigilancia interna podrá estar a cargo de la Fuerza Pública.
 
 (Decreto 221 de 1995 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4 — Suspensión o Reemplazo Especial
 
@@ -653,8 +609,6 @@ c. Cuando debiendo estar presente en el lugar de ocurrencia de los hechos, no lo
 La suspensión o reemplazo de que trata el presente artículo, no está supeditada a la existencia de un proceso disciplinario o penal, y su duración nunca podrá exceder del término de vigencia del estado de emergencia.
 
 (Decreto 221 de 1995 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.2.5 — Régimen de Seguridad
 
@@ -676,8 +630,6 @@ En ningún caso el estímulo podrá consistir en el perdón de la falta. Tampoco
 
 (Decreto 221 de 1995, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.1.2.7 — Levantamiento del Estado de Emergencia Penitenciaria y Carcelaria
 
 Restablecidos el orden y la seguridad, superado el peligro o vencido el término señalado o su prórroga, según el caso, el Director General del INPEC procederá a levantar el estado de emergencia, e informará al Consejo Directivo del mismo, sobre las razones que motivaron la declaratoria de emergencia y la justificación de las medidas adoptadas. Igualmente informará a las autoridades judiciales las nuevas ubicaciones de los detenidos, para sus correspondientes fines; y a la Defensoría del Pueblo y a la Procuraduría General de la Nación del cumplimiento y respeto de los Derechos Humanos de los internos.
@@ -688,15 +640,11 @@ CAPÍTULO 3.
 
 DISPOSICIONES GENERALES EN CUMPLIMIENTO Y APLICACIÓN DE LOS PRINCIPIOS Y PROCEDIMIENTOS ESTABLECIDOS EN LA LEY 65DE 1993
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Programas de trabajo
 
 Los directores de establecimientos carcelarios y penitenciarios, deberán estructurar un programa que facilite el trabajo de la población reclusa a efectos de dar cumplimiento al artículo 86 de la Ley 65 de 1993. Cada director de establecimiento carcelario deberá estructurar un programa que facilite la utilización de la mano de obra de los internos para la construcción, remodelación o mejoras del respectivo establecimiento carcelario.
 
 (Decreto 1542 de 1997 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2 — Franquicia preparatoria
 
@@ -706,8 +654,6 @@ Para los efectos de este artículo se entenderá por pena efectiva el tiempo que
 
 (Decreto 1542 de 1997 artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3 — Contratación directa
 
 Con el fin de garantizar el tratamiento digno y seguro a los visitantes de los internos, el INPEC en ejercicio de la facultad de contratación directa consagrada en el artículo 168 de la Ley 65 de 1993, pondrá a disposición los equipos necesarios para la revisión de los alimentos y menaje destinado a los internos. Igualmente, procederá a adquirir equipos de detección, para realizar la requisa de los visitantes.
@@ -716,15 +662,11 @@ Sin perjuicio de lo anterior y por motivos de seguridad, la autoridad penitencia
 
 (Decreto 1542 de 1997 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4 — Programas de educación
 
 El Ministerio de Educación Nacional, estructurará en coordinación con las universidades estatales, un programa con el fin de garantizar el cumplimiento del artículo 94 de la Ley 65 de 1993.
 
 (Decreto 1542 de 1997 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5 — 3.5
 
@@ -736,8 +678,6 @@ Para tal fin los directores de los establecimientos penitenciarios y carcelarios
 
 (Decreto 1542 de 1997 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.1.3.6 — Planta de personal
 
 El Director General del INPEC deberá adoptar las medidas necesarias que garanticen la modificación de la planta de personal, con el fin de reducir el número de cargos a nivel central y fortalecer las plantas de personal de las regionales y de los establecimientos carcelarios.
@@ -748,8 +688,6 @@ Igualmente, deberá definir los procesos y procedimientos, para facilitar la lab
 
 (Decreto 1542 de 1997 artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.1.3.7 — Clasificación de internos
 
 Las juntas de distribución de patios y asignación de celdas de los distintos centros carcelarios y penitenciarios deberán realizar la clasificación de internos, de conformidad con los criterios y categorías que se señalan en el artículo 63 de la Ley 65 de 1993.
@@ -757,8 +695,6 @@ Las juntas de distribución de patios y asignación de celdas de los distintos c
 Efectuada la clasificación, las autoridades penitenciaras determinarán de ser el caso, el traslado de internos o la redistribución de los mismos, atendiendo a los criterios de clasificación.
 
 (Decreto 3002 de 1997 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.1.3.8 — Peticiones formuladas por los internos
 
@@ -770,8 +706,6 @@ Para tal efecto, las Direcciones Regionales del Instituto Nacional Penitenciario
 
 (Decreto 3002 de 1997 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.3.9 — Espacios para la atención de peticiones
 
 A efectos de garantizar el cumplimiento del artículo 58 de la Ley 65 de 1993, cada director de establecimiento carcelario y penitenciario, deberá habilitar un espacio y designar a un funcionario para que atienda y tramite las peticiones, las solicitudes de información y las quejas de los internos.
@@ -782,8 +716,6 @@ Tratándose de un derecho fundamental, las peticiones, las solicitudes de inform
 
 (Decreto 1542 de 1997 artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.1.3.10 — Juntas y consejos
 
 Los directores de los establecimientos carcelarios deberán enviar a la Dirección General del Instituto Nacional Penitenciario y Carcelario la conformación de la Junta de Evaluación de Trabajo, Estudio y Enseñanza, la de los Consejos de Disciplina, de la Junta Asesora de Traslados y del Consejo de Evaluación y Tratamiento, de que trata la Ley 65 de 1993.
@@ -791,8 +723,6 @@ Los directores de los establecimientos carcelarios deberán enviar a la Direcci�
 En el caso de no existir dichos organismos en algún establecimiento carcelario, el Director General del Instituto, deberá disponer lo necesario para su conformación.
 
 (Decreto 3002 de 1997 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.3.11 — Cursos de capacitación
 
@@ -802,15 +732,11 @@ Los beneficiarios de esta capacitación tendrán la obligación de ser multiplic
 
 (Decreto 3002 de 1997, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.1.3.12 — Aprovechamiento del recurso humano
 
 Los Directores Regionales o en su defecto los directores de los establecimientos de reclusión, deberán implementar mecanismos que permitan aprovechar el recurso humano al servicio del Instituto Nacional Penitenciario y Carcelario, INPEC, de manera tal que dichos funcionarios puedan aplicar sus conocimientos en establecimientos que carecen de planta de personal suficiente, sin perjuicio de garantizar la prestación del servicio en su respectiva sede de trabajo.
 
 (Decreto 3002 de 1997, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.1.3.13 — Información sobre el tratamiento progresivo penitenciario
 
@@ -820,23 +746,17 @@ Con el fin de agilizar la implementación del sistema de tratamiento progresivo,
 
 (Decreto 3002 de 1997 artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.1.3.14 — Casas de post-penados
 
 En desarrollo del artículo 159 de la Ley 65 de 1993, el Instituto Nacional Penitenciario y Carcelario, INPEC, deberá, elaborar programas concretos para los post-penados con el propósito de implementarlos en las casas cedidas para tal efecto, a fin de integrar al liberado a la familia y a la sociedad. Así mismo, y de conformidad con el artículo 160 de la Ley 65 de 1993, el Instituto Nacional Penitenciario y Carcelario, INPEC, podrá celebrar contratos con fundaciones, con el objeto de que éstas organicen y atiendan las casas de post-penados.
 
 (Decreto 3002 de 1997 artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.3.15 — Voluntariado Social
 
 Con el fin de garantizar el cumplimiento del artículo 157 de la Ley 65 de 1993, la Dirección del Instituto Nacional Penitenciario, INPEC, y los directores de los centros carcelarios, promoverán la creación y organización de los cuerpos de voluntariado social.
 
 (Decreto 3002 de 1997 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.1.3.16 — Programas de asistencia jurídica
 
@@ -846,23 +766,17 @@ Para el cumplimiento de lo aquí señalado, el Defensor del Pueblo y sus delegad
 
 (Decreto 1542 de 1997 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.3.17 — Evaluación programas de asistencia jurídica a internos
 
 El Instituto Nacional Penitenciario, INPEC, y la Defensoría del Pueblo evaluarán los resultados obtenidos con ocasión de lo dispuesto en el artículo anterior en materia de asistencia jurídica a los internos. Con base en esta evaluación, procederán a establecer y adoptar las medidas a que haya lugar con el fin de garantizar el cumplimiento del artículo 154 de la Ley 65 de 1993, incluida la designación de más defensores.
 
 (Decreto 3002 de 1997 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.1.3.18 — Criterios de gasto
 
 Con el fin de optimizar los recursos de las cajas especiales de las direcciones de los diferentes establecimientos carcelarios, el Consejo Directivo del Instituto Nacional Penitenciario y Carcelario, INPEC, deberá establecer las prioridades y criterios del gasto con cargo a esos recursos y fijar la periodicidad en la cual se rindan informes y se efectúen auditorías especiales para verificar los movimientos de dichas cajas.
 
 (Decreto 3002 de 1997 artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.1.3.19 — Grupo interno de trabajo
 
@@ -872,23 +786,17 @@ El Ministerio de Justicia y del Derecho deberá conformar un grupo interno inter
 
 (Decreto 1542 de 1997 artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.1.3.20 — Informes de los jueces de ejecución de penas
 
 Los Jueces de Ejecución de Penas deberán presentar ante el Consejo Superior de la Judicatura con copia al Consejo Nacional de Política Penitenciaria y Carcelaria, un informe bimensual de todo lo relacionado con la libertad del condenado que deba otorgarse con posterioridad a la sentencia, rebaja de penas, redención de pena por trabajo, estudio o enseñanza y extinción de la condena.
 
 (Decreto 1542 de 1997 artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.1.3.21 — Recursos
 
 El Ministerio de Hacienda y Crédito Público, realizará las gestiones necesarias para garantizar los recursos que se requieran con el fin de dar cumplimiento al presente capítulo.
 
 (Decreto 1542 de 1997 artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.1.3.22 — Falta disciplinaria
 
@@ -904,15 +812,11 @@ Sección 1.
 
 Aspectos Generales
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.1 — Denominación
 
 Los Bachilleres que presten el Servicio Militar Obligatorio en el Instituto Nacional Penitenciario y Carcelario, actuarán dentro de la organización y funcionamiento que la ley asigne al Instituto Nacional Penitenciario y Carcelario con la denominación de Auxiliares Bachilleres del Cuerpo de Custodia Penitenciaria Nacional.
 
 (Decreto 537 de 1994, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.1.4.1.2 — Objetivo
 
@@ -924,15 +828,11 @@ Sección 2.
 
 Organización y Administración
 
-ARTÍCULO
-
 ## art:2.2.1.4.2.1 — Administración
 
 El Instituto Nacional Penitenciario y Carcelario para la prestación del Servicio Militar Obligatorio, se hará cargo de la administración del personal y del cuerpo logístico, conforme al convenio que para el efecto se suscriba.
 
 (Decreto 537 de 1994 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.4.2.2 — Jurisdicción y mando
 
@@ -940,15 +840,11 @@ Los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nac
 
 (Decreto 537 de 1994 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2.3 — Régimen disciplinario aplicable
 
 Las normas disciplinarias establecidas para los funcionarios del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional son aplicables a los Auxiliares Bachilleres.
 
 (Decreto 537 de 1994 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.1.4.2.4 — Lugar de prestación del servicio
 
@@ -956,15 +852,11 @@ Los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nac
 
 (Decreto 537 de 1994 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2.5 — Elementos del servicio
 
 Los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, emplearán preferiblemente en la prestación del servicio, uniforme, revólver, bastón de mando, esposas, pito, y las demás que se consideren pertinentes de acuerdo a la modalidad del servicio a prestar.
 
 (Decreto 537 de 1994 artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.1.4.2.6 — Atribuciones del director general
 
@@ -982,8 +874,6 @@ El Director General del Instituto Nacional Penitenciario y Carcelario, tendrá l
 
 (Decreto 537 de 1994 artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2.7 — Duración
 
 El Servicio Militar Obligatorio para Bachilleres, en el Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, tendrá una duración de doce (12) meses, de los cuales los tres (3) primeros serán para instrucción básica teórica-práctica, en los asuntos relativos a las funciones y obligaciones de la Guardia Nacional Penitenciaria y Carcelaria, y los nueve (9) restantes para la prestación del servicio propiamente dicho.
@@ -996,23 +886,17 @@ Sección 3
 
 Del Personal.
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.1 — Inscripción y reclutamiento
 
 La inscripción y reclutamiento de los colombianos bachilleres que presten el Servicio Militar Obligatorio en el Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, se hará a través de la Jefatura de Reclutamiento y Control Reservas del Ejército, la cual entregará al Instituto Nacional Penitenciario y Carcelario, las cuotas requeridas para efectos de la selección respectiva.
 
 (Decreto 537 de 1994 artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.2 — Selección e incorporación
 
 La selección de los Bachilleres aspirantes a prestar el Servicio Militar Obligatorio en el Instituto Nacional Penitenciario y Carcelario, la realizará la Escuela Penitenciaria Nacional, en la regional de incorporación que se establezca, entre el personal que sea citado por la Jefatura de Reclutamiento y Control Reservas del Ejército, previa coordinación con el Instituto Nacional Penitenciario y Carcelario.
 
 (Decreto 537 de 1994 artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.3 — Instrucción
 
@@ -1022,23 +906,17 @@ PARÁGRAFO . El programa general de instrucción será puesto en conocimiento de
 
 (Decreto 537 de 1994 artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.4 — Reconocimiento
 
 Mientras dure el período de capacitación, el mejor alumno, en cada centro de instrucción será distinguido con el premio al "Mejor Alumno".
 
 (Decreto 537 de 1994 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.5 — Carné de identificación
 
 La Escuela Penitenciaria Nacional, expedirá un carné de identificación a los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, para control de personal y prestación del Servicio Médico.
 
 (Decreto 537 de 1994 artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.6 — Uniformes
 
@@ -1049,8 +927,6 @@ Los Auxiliares Bachilleres utilizarán los uniformes que establezca la Direcció
 Sección 4
 
 Funciones y Obligaciones.
-
-ARTÍCULO
 
 ## art:2.2.1.4.4.1 — Funciones y obligaciones
 
@@ -1096,8 +972,6 @@ Sección 5
 
 Procedimientos
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.1 — Procedimientos
 
 El conocimiento de los asuntos de Custodia y Vigilancia Penitenciaria, se efectuará a través de la Dirección y apoyo permanente por oficiales, suboficiales y guardianes del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, disponiendo de los siguientes medios:
@@ -1112,8 +986,6 @@ El conocimiento de los asuntos de Custodia y Vigilancia Penitenciaria, se efectu
 
 (Decreto 537 de 1994 artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.2 — Cumplimiento de funciones
 
 Para el cumplimiento de sus funciones, los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, emplearán sólo medios autorizados por la ley o el reglamento.
@@ -1123,8 +995,6 @@ Para el cumplimiento de sus funciones, los Auxiliares Bachilleres del Cuerpo de 
 Sección 6
 
 Régimen Interno y Disciplinario.
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.1 — Régimen interno
 
@@ -1137,8 +1007,6 @@ Los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nac
 3. Los directores de establecimientos carcelarios con jurisdicción y mando, realizarán una evaluación de la eficiencia individual del servicio con el fin de determinar los mejores Bachilleres Auxiliares del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional.
 
 (Decreto 537 de 1994 artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.2 — Competencias
 
@@ -1154,15 +1022,11 @@ Sección 7
 
 Prestaciones
 
-ARTÍCULO
-
 ## art:2.2.1.4.7.1 — Prestaciones
 
 Los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, mientras presten el Servicio Militar Obligatorio, tendrán derecho a los beneficios que establece la Ley 48 de 1993 y el Decreto 2048 de 1993 o la norma que lo compile, sustituya, modifique o adicione.
 
 (Decreto 537 de 1994 artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.1.4.7.2 — Dotación
 
@@ -1170,15 +1034,11 @@ A los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria N
 
 (Decreto 537 de 1994 artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.1.4.7.3 — Incapacidades e indemnizaciones
 
 Para efectos de determinar, clasificar y evaluar las aptitudes, invalideces, incapacidades e indemnizaciones, los Auxiliares quedarán sometidos al régimen de capacidad psicofísica, invalideces, incapacidades e indemnizaciones, de quienes presten el Servicio Militar Obligatorio.
 
 (Decreto 537 de 1994 artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.1.4.7.4 — Prestaciones por muerte
 
@@ -1190,15 +1050,11 @@ Sección 8
 
 Del Licenciamiento.
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.1 — Licenciamiento
 
 El licenciamiento de este personal se efectuará en el Centro Carcelario donde haya prestado su servicio. El respectivo Director remitirá las listas de licenciados a la Jefatura de Reclutamiento y Control Reservas del Ejército, para la expedición de tarjetas de reservistas.
 
 (Decreto 537 de 1994 artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.1.4.8.2 — Condiciones del licenciamiento
 
@@ -1210,15 +1066,11 @@ Sección 9
 
 Disposiciones Varias.
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.1 — 9.1
 
 Gastos Para atender los gastos de equipo individual y demás medios de subsistencia a los Auxiliares Bachilleres del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, la Dirección General del Instituto Nacional, establecerá anualmente las partidas de acuerdo con las asignaciones presupuestales que debe hacer el Gobierno Nacional para este efecto.
 
 (Decreto 537 de 1994 artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.2 — Adiciones y traslados
 
@@ -1226,15 +1078,11 @@ Con base en el número de incorporaciones programadas y costos calculados anualm
 
 (Decreto 537 de 1994 artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.3 — Ingreso al Instituto Nacional Penitenciario y Carcelario INPEC
 
 Los Bachilleres que hayan prestado servicio militar en el Cuerpo de Custodia y Vigilancia Penitenciaria Nacional, tendrán prelación para ingresar a la Institución, previo el lleno de los requisitos establecidos en los respectivos estatutos del Cuerpo de Custodia y Vigilancia Penitenciaria Nacional.
 
 (Decreto 537 de 1994 artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.4 — Costos
 
@@ -1250,15 +1098,11 @@ Sección 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.1 — Objeto
 
 El presente capítulo tiene por objeto regular las condiciones de permanencia de los niños y niñas menores de tres (3) años que conviven con sus madres al interior de los establecimientos de reclusión, y de las mujeres gestantes y madres lactantes privadas de la libertad, así como las competencias institucionales para garantizar su cuidado, protección y atención integral.
 
 (Decreto 2553 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.2 — Ámbito de aplicación
 
@@ -1270,15 +1114,11 @@ Sección 2
 
 Atención integral a niños y niñas menores de tres (3) años que conviven con sus madres al interior de los establecimientos de reclusión
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.1 — Convivencia de internas con niños y niñas menores de tres (3) años en establecimientos de reclusión
 
 Los niños y niñas menores de tres (3) años, hijos de internas procesadas, sindicadas o condenadas, podrán permanecer con su madre en el establecimiento de reclusión si esta así lo solicita, salvo que la autoridad administrativa correspondiente o un juez de la República ordenen lo contrario.
 
 (Decreto 2553 de 2014 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.2 — Asesoría y atención
 
@@ -1292,15 +1132,11 @@ PARÁGRAFO 2. Entiéndase por “entidades administradoras del servicio” a que
 
 (Decreto 2553 de 2014 artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.3 — Educación inicial de niños y niñas
 
 El Instituto Colombiano de Bienestar Familiar, en coordinación con el Instituto Nacional Penitenciario y Carcelario, implementará estrategias de atención integral que permita el acceso a la educación inicial a los niños y niñas que conviven con sus madres privadas de la libertad.
 
 (Decreto 2553 de 2014 artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.4 — Atención integral a niños y niñas menores de tres (3) años y apoyo a mujeres gestantes y madres lactantes
 
@@ -1310,23 +1146,17 @@ Para tal propósito, el Instituto Colombiano de Bienestar Familiar garantizará 
 
 (Decreto 2553 de 2014 artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.5 — Cofinanciación de las medidas de atención
 
 El Instituto Nacional Penitenciario y Carcelario, de acuerdo con la disponibilidad presupuestal, destinará recursos económicos para cofinanciar las medidas de atención de que trata el presente capítulo.
 
 (Decreto 2553 de 2014 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.6 — Corresponsabilidad
 
 Sin perjuicio de las competencias definidas en el presente capítulo todas las entidades que hacen parte del Sistema Nacional de Bienestar Familiar concurrirán, cada una desde el ámbito de sus competencias, en la protección y garantía de los derechos fundamentales de los niños y niñas menores de tres (3) años de edad, que convivan con sus madres internas en los establecimientos de reclusión para mujeres, así como de las internas gestantes y lactantes.
 
 (Decreto 2553 de 2014 artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.7 — Adecuación de espacios
 
@@ -1340,8 +1170,6 @@ Sección 3
 
 De la custodia y cuidado de los niños y niñas menores de tres (3) años al interior de los centros penitenciarios
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.1 — Custodia y cuidado personal
 
 Conforme a lo establecido en el artículo 23 de la Ley 1098 de 2006, la custodia del niño o niña menor de tres (3) años que convive con su madre interna en establecimiento de reclusión, corresponde a esta.
@@ -1349,8 +1177,6 @@ Conforme a lo establecido en el artículo 23 de la Ley 1098 de 2006, la custodia
 El cuidado personal del niño o niña menor de tres (3) años que convive con su madre interna en establecimiento de reclusión estará a cargo del responsable de la unidad de atención contratada y coordinada por el Instituto Colombiano de Bienestar Familiar, durante el horario que se tenga destinado para tal fin. En los horarios en que el niño o niña no asista a las unidades de servicio, o cuando por cualquier motivo no estén a cargo de estas, su cuidado es responsabilidad de la progenitora.
 
 (Decreto 2553 de 2014 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.2 — 3.2
 
@@ -1362,15 +1188,11 @@ PARÁGRAFO 2. Cuando el Defensor de Familia determine que el niño o la niña no
 
 (Decreto 2553 de 2014 artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.3 — Acceso de las madres a las guarderías
 
 Se regulará el acceso de las madres a las guarderías cuando se requiera su apoyo en el desarrollo de los programas que se realicen con los menores y con el fin de que se involucre adecuadamente en el proceso integral de su crecimiento.
 
 (Decreto 2553 de 2014 artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.4 — Custodia y cuidado personal de niños y niñas que egresen de los establecimientos de reclusión en razón de la edad
 
@@ -1382,8 +1204,6 @@ Sección 4
 
 Infraestructura para servicios de primera infancia en centros de reclusión
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.1 — Infraestructura y espacios para internas gestantes, lactantes y que conviven con hijos menores de tres (3) años
 
 La Unidad de Servicios Penitenciarios y Carcelarios, conforme a las respectivas disponibilidades presupuestales, construirá o adaptará espacios e infraestructura adecuados para la permanencia de internas gestantes, madres lactantes y madres internas que conviven con sus hijos menores de tres (3) años en los establecimientos de reclusión de mujeres, que garanticen entornos favorables para el desarrollo de los niños y niñas en su primera infancia y para el cumplimiento de lo establecido en el presente capítulo.
@@ -1391,8 +1211,6 @@ La Unidad de Servicios Penitenciarios y Carcelarios, conforme a las respectivas 
 Para tal efecto, la Unidad de Servicios Penitenciarios y Carcelarios tendrá en cuenta los conceptos del Instituto Colombiano de Bienestar Familiar sobre las condiciones mínimas que deben tener los espacios y la infraestructura para la atención de internas gestantes, lactantes y de niños menores de tres (3) años que conviven con sus madres privadas de la libertad, e igualmente de los espacios donde estos recibirán atención de educación inicial.
 
 (Decreto 2553 de 2014 artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.2 — Requisitos mínimos de infraestructura y espacios
 
@@ -1410,8 +1228,6 @@ PARÁGRAFO . La construcción y/o adecuación de espacios en los términos del p
 
 (Decreto 2553 de 2014 artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.3 — Planes de intervención prioritarios
 
 El Instituto Nacional Penitenciario y Carcelario presentará a la Unidad de Servicios Penitenciarios y Carcelarios las necesidades de construcción y mantenimiento de las infraestructuras, las cuales serán atendidas e incluidas en los planes de intervención de manera prioritaria, dentro del límite del presupuesto y las posibilidades materiales de atención, según las características de cada establecimiento.
@@ -1422,8 +1238,6 @@ Sección 5
 
 Administración de los servicios de atención y competencias institucionales
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.1 — Construcción, adecuación y administración de los espacios físicos
 
 La construcción y/o adecuación de los espacios para la atención de los niños y niñas, de las mujeres gestantes y madres lactantes en el interior de los establecimientos de reclusión de mujeres es responsabilidad de la Unidad de Servicios Penitenciarios y Carcelarios, y la administración de los mismos, así como la seguridad y la convivencia, es responsabilidad del Instituto Nacional Penitenciario y Carcelario.
@@ -1432,23 +1246,17 @@ CAPÍTULO 6
 
 TRABAJO COMUNITARIO
 
-ARTÍCULO
-
 ## art:2.2.1.6.1 — Trabajo comunitario
 
 Entiéndase por Trabajo Comunitario toda actividad desarrollada por los internos condenados a penas de prisión o arresto que no excedan de 4 años, en mantenimiento, aseo, obras públicas, ornato o reforestación, en el perímetro urbano o rural de la ciudad o municipio sede del respectivo centro carcelario o penitenciario, en beneficio de una comunidad o de la sociedad.
 
 (Decreto 775 de 1998 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2 — Celebración de convenios
 
 De conformidad con el inciso segundo del artículo 99A de la Ley 65 de 1993, los Directores de los Centros Penitenciarios celebrarán convenios con las alcaldías de su localidad, donde se determinarán las actividades de trabajo comunitario de los internos, lugar, horario, frecuencia, cantidad de internos que se requieran, sistemas de rotación de los mismos y aspectos relacionados con su alimentación y transporte. Con todo, los internos regresarán a pernoctar a sus respectivos centros de reclusión. La vigilancia estará a cargo del personal del cuerpo de custodia y vigilancia penitenciaria y de la Policía Nacional.
 
 (Decreto 775 de 1998 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3 — Censo
 
@@ -1460,15 +1268,11 @@ En el censo que levantarán los Directores del establecimiento, se tendrán en c
 
 (Decreto 775 de 1998 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4 — Criterios de selección
 
 Cuando el número de internos requeridos por la alcaldía sea inferior al número total de internos disponibles para realizar el trabajo comunitario, el director del establecimiento hará la elección correspondiente atendiendo a criterios tales como, la buena conducta anterior y actual del interno condenado, así como la ausencia de requerimientos por cuenta de otra autoridad judicial. En todo caso, se propenderá porque todos los condenados accedan al trabajo comunitario.
 
 (Decreto 775 de 1998 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.6.5 — Días Excluidos de Trabajo comunitario
 
@@ -1476,15 +1280,11 @@ De conformidad con el artículo 100 de la Ley 65 de 1993, el trabajo comunitario
 
 (Decreto 775 de 1998 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.6.6 — Asimilación para redención de pena
 
 El trabajo comunitario será asimilado para efectos de redención de pena, a trabajo. En consecuencia a los condenados se les abonará un día de reclusión por dos días de trabajo. Para estos efectos no se podrán computar más de ocho (8) horas diarias de trabajo.
 
 (Decreto 775 de 1998 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.1.6.7 — Certificación de trabajo
 
@@ -1492,15 +1292,11 @@ Para la expedición de las certificaciones de trabajo, se deberá tener en cuent
 
 (Decreto 775 de 1998 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.1.6.8 — Revocatoria de la autorización
 
 Al interno que por alguna razón injustificada no cumpla total o parcialmente las obligaciones que establezca el convenio suscrito para el desarrollo del trabajo comunitario, le será revocada de inmediato esta prerrogativa por el director del centro, y no será tenido en cuenta posteriormente para tal actividad.
 
 (Decreto 775 de 1998 artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.1.6.9 — Reporte de información
 
@@ -1517,8 +1313,6 @@ PERMISOS PARA SALIR DE LA CÁRCEL.
 Sección 1
 
 Permiso de 72 horas
-
-ARTÍCULO
 
 ## art:2.2.1.7.1.1 — Procedencia del permiso
 
@@ -1540,8 +1334,6 @@ Cuando se trate de condenas superiores a diez (10) años, deberán tener en cuen
 
 (Decreto 232 de 1998, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.2 — Trámite del permiso
 
 Cada director de establecimiento carcelario y penitenciario, será responsable de la recaudación de la documentación necesaria para garantizar este derecho.
@@ -1556,8 +1348,6 @@ Los beneficios administrativos concedidos por los directores de establecimientos
 
 (Decreto 1542 de 1997 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.3 — Requisitos del acto que otorga el permiso
 
 El acto que expida el director del establecimiento carcelario y penitenciario en el cual resuelva la solicitud del permiso, deberá ser motivado y en él se consignará el cumplimiento de cada uno de los requisitos de que trata el artículo 147 de la Ley 65 de 1993, así como los parámetros establecidos en el artículo anterior. Igualmente, en dicho acto se ordenará informar a las autoridades de policía y a las demás autoridades competentes, la ubicación exacta donde permanecerá el beneficiario durante el tiempo del permiso.
@@ -1570,8 +1360,6 @@ Los beneficios administrativos concedidos por los directores de establecimientos
 
 (Decreto 232 de 1998, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.4 — Remisión normativa
 
 De conformidad con la Ley 734 de 2002 (Código Único Disciplinario), constituirá falta disciplinaria la violación de las normas contenidas en el presente capítulo.
@@ -1582,15 +1370,11 @@ Sección 2
 
 Facultad para otorgar permisos de hasta 15 días y por fines de semana
 
-ARTÍCULO
-
 ## art:2.2.1.7.2.1 — Competencia
 
 La facultad discrecional consagrada en los artículos tercero y cuarto de la Ley 415 de diciembre 19 de 1997, se ejercerá por los Directores Regionales del Instituto Nacional Penitenciario y Carcelario con arreglo a las directrices que al efecto adopte el Consejo Directivo del Instituto Nacional Penitenciario y Carcelario, INPEC.
 
 (Decreto 3000 de 1997 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.7.2.2 — Aspectos a tener en cuenta para otorgar el permiso
 
@@ -1602,8 +1386,6 @@ CAPÍTULO 8
 
 MEDIDAS TENDIENTES AL LIBRE EJERCICIO DEL DERECHO DE LIBERTAD RELIGIOSA Y DE CULTO EN LOS CENTROS PENITENCIARIOS Y CARCELARIOS
 
-ARTÍCULO
-
 ## art:2.2.1.8.1 — Libertad religiosa y de culto en centros penitenciarios
 
 Los internos de los centros penitenciarios y carcelarios del país gozan del derecho a la libertad de cultos y de profesar libremente su religión, así como de difundirla en forma individual o colectiva. Las autoridades penitenciarias y carcelarias deberán permitir sin restricción alguna el libre ejercicio de estos derechos, sin perjuicio de la seguridad de los centros de reclusión.
@@ -1611,8 +1393,6 @@ Los internos de los centros penitenciarios y carcelarios del país gozan del der
 La asistencia religiosa de los internos corresponderá a los ministros de culto, iglesia o confesión religiosa a la cual pertenezcan.
 
 (Decreto 1519 de 1998, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.8.2 — 8.2
 
@@ -1628,8 +1408,6 @@ d) La asistencia a los internos por el ministro de culto, iglesia o confesión r
 
 (Decreto 1519 de 1998, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.8.3 — Obligaciones de los (sic) autoridades de los establecimientos de reclusión
 
 Los Directores de los establecimientos de reclusión harán respetar la libertad de religión, culto o creencias de los internos así como de los funcionarios del penal.
@@ -1640,8 +1418,6 @@ Las autoridades penitenciarias y carcelarias deberán impedir la utilización de
 
 (Decreto 1519 de 1998, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.8.4 — Censo
 
 Sin menoscabo de libertad de cultos protegida por la Constitución Política, los Directores de los establecimientos de reclusión procederán a elaborar un censo entre los internos, con el único objeto de identificar la religión o culto a la que pertenecen, sin perjuicio del derecho que les asiste de no divulgar su credo religioso.
@@ -1649,8 +1425,6 @@ Sin menoscabo de libertad de cultos protegida por la Constitución Política, lo
 Igualmente, los Directores de los establecimientos de reclusión establecerán el mecanismo para que cada nuevo interno tenga la posibilidad de advertir, si así lo quiere su credo, religión o culto, a fin de contar con la asistencia religiosa debida.
 
 (Decreto 1519 de 1998, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.8.5 — Acreditación de la calidad de Ministro de culto, iglesia o confesión religiosa
 
@@ -1660,8 +1434,6 @@ El Instituto Nacional Penitenciario y Carcelario INPEC deberá establecer el mec
 
 (Decreto 1519 de 1998, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.8.6 — Lugares para el ejercicio del culto
 
 Para efectos de permitir la celebración de cultos o ceremonias religiosas, así como de brindar la asistencia espiritual a los internos, el director del establecimiento dispondrá los lugares apropiados para tal fin, respetando su destinación religiosa y su carácter confesional específico, siempre y cuando las condiciones físicas del establecimiento permitan la multiplicidad de ellos.
@@ -1670,8 +1442,6 @@ En caso de que las condiciones físicas del establecimiento de reclusión no per
 
 (Decreto 1519 de 1998, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.1.8.7 — Presencia de los ministro de culto, iglesia o confesión
 
 Los internos solicitarán la presencia de un ministro de culto, iglesia o confesión religiosa cada vez que requiera de su asistencia, conforme a los mecanismos, horarios y modalidades que se determinen en el reglamento interno.
@@ -1679,8 +1449,6 @@ Los internos solicitarán la presencia de un ministro de culto, iglesia o confes
 Tratándose de internos moribundos, el director del centro de reclusión permitirá el ingreso del ministro de culto, iglesia o confesión religiosa, sin el lleno total de los requisitos establecidos en el reglamento, sin perjuicio de las medidas de seguridad a que haya lugar.
 
 (Decreto 1519 de 1998, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.1.8.8 — Actividades de voluntariado social
 
@@ -1694,8 +1462,6 @@ CAPÍTULO 9.
 
 VIGILANCIA ELECTRÓNICA
 
-ARTÍCULO
-
 ## art:2.2.1.9.1 — Sistemas de vigilancia electrónica en los eventos de detención preventiva
 
 El Juez de Control de Garantías podrá disponer la utilización de los sistemas de vigilancia electrónica a quien le sea sustituida la detención preventiva en establecimiento carcelario por la del lugar de residencia, previo cumplimiento de los presupuestos señalados en el artículo 314 de la Ley 906 de 2004.
@@ -1704,15 +1470,11 @@ PARÁGRAFO . Quienes se encuentren en detención preventiva en establecimiento c
 
 (Decreto 177 de 2008 artículo 2, modificado por el Decreto 1316 de 2009 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.9.2 — Modalidades
 
 Son mecanismos de vigilancia electrónica como sustitutivos de la detención preventiva, el Seguimiento Pasivo RF, el Seguimiento Activo GPS y el Reconocimiento de Voz.
 
 (Decreto 177 de 2008 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3 — Seguimiento Pasivo RF
 
@@ -1720,15 +1482,11 @@ Es el sistema de vigilancia electrónica ordenado por el juez o como medida de c
 
 (Decreto 177 de 2008 artículo 4, modificado por el Decreto 1316 de 2009 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.9.4 — Seguimiento activo-GPS
 
 Es el sistema de vigilancia electrónica a través del cual se instala un dispositivo consistente en un brazalete o tobillera en el cuerpo del sindicado, imputado o acusado, según fuere el caso el cual llevará incorporada una unidad GPS (Sistema de posicionamiento global), la cual transmitirá la ubicación del beneficiario, indicando si ha llegado a zonas de exclusión. Cuando el beneficiario del dispositivo llegue al lugar establecido para el cumplimiento de la medida de aseguramiento, la información que así lo indique será transmitida al centro de monitoreo, sin que durante el transcurso del día se haya perdido la transmisión inherente al sistema de vigilancia electrónica. Dicha comunicación se llevará a cabo vía telefónica o móvil.
 
 (Decreto 177 de 2008 artículo 5, modificado por el Decreto 1316 de 2009 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.9.5 — Reconocimiento de Voz
 
@@ -1736,15 +1494,11 @@ Es el sistema de vigilancia electrónica sustitutivo de la detención preventiva
 
 (Decreto 177 de 2008 artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.1.9.6 — Asignación de los sistemas de vigilancia electrónica
 
 La autoridad judicial competente podrá establecer el sistema de vigilancia electrónica a imponer, de acuerdo con la disponibilidad de los mismos y las fases previstas para su implementación.
 
 (Decreto 177 de 2008 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.1.9.7 — Acta de compromiso
 
@@ -1764,15 +1518,11 @@ PARÁGRAFO 2. Coadyuvará la financiación de los sistemas de vigilancia electr�
 
 (Decreto 177 de 2008 artículo 8, modificado por los Decretos 1316 de 2009, artículo 5 y 3336 de 2008 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.9.8 — Implementación
 
 Los sistemas de vigilancia electrónica se implementarán en todos los Distritos Judiciales del país, dentro de los límites de la respectiva apropiación presupuestal.
 
 (Decreto 177 de 2008 artículo 9 modificado por el Decreto 4940 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.9.9 — Protocolo de práctica para vigilancia electrónica
 
@@ -1781,8 +1531,6 @@ La implementación de los sistemas de vigilancia electrónica se desarrollará c
 El Inpec tendrá además, las funciones y actividades que le sean asignadas en el Protocolo Práctica Base.
 
 (Decreto 177 de 2008, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.1.9.10 — PAGO DEL MECANISMO DE VIGILANCIA ELECTRÓNICA
 
@@ -1822,8 +1570,6 @@ Sección 1
 
 Generalidades
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.1 — Trabajo Penitenciario
 
 El trabajo penitenciario es la actividad humana libre, material o intelectual que, de manera personal, ejecutan al servicio de otra persona las personas privadas de la libertad y que tiene un fin resocializador y dignificante. Así mismo se constituye en una actividad dirigida a la redención de pena de las personas condenadas. Las actividades laborales de las personas privadas de la libertad podrán prestarse de manera intramural y extramural. El Instituto Nacional Penitenciario y Carcelario -INPEC-, podrá ofrecer las plazas de trabajo penitenciario directamente o mediante convenios con personas públicas o privadas. En todo caso propiciará la existencia de plazas suficientes para que las personas privadas de la libertad, que así lo deseen, puedan acceder a ellas.
@@ -1832,15 +1578,11 @@ PARÁGRAFO . Todas las personas privadas de la libertad, tanto condenadas como p
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.2 — Convenios para el trabajo penitenciario
 
 El INPEC podrá celebrar convenios con personas públicas o privadas con el fin de habilitar las plazas de trabajo para las personas privadas de la libertad. Estos convenios deberán incluir las condiciones de afiliación de las personas privadas de la libertad al Sistema General de Riesgos Laborales.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.1.3 — Convenio de resocialización y trabajo penitenciario
 
@@ -1862,15 +1604,11 @@ El INPEC o la persona pública o privada, según corresponda, deberá garantizar
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.4 — Remuneración
 
 La remuneración percibida por las personas privadas de la libertad en razón a los convenios de resocialización y trabajo penitenciario, no constituye salario y no tiene los efectos prestacionales derivados del mismo. El Ministerio del Trabajo, en coordinación con el INPEC, determinará anualmente el monto mínimo de la remuneración que se pagará a las personas privadas de la libertad por el trabajo penitenciario. Esta deberá ser actualizada anualmente con base en el incremento del Índice de Precios al Consumidor y asegurando que el trabajo de las personas privadas de la libertad sea remunerado de manera equitativa.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.1.5 — Prohibición del trabajo forzado
 
@@ -1878,13 +1616,11 @@ Se prohíbe el trabajo forzado en todas sus modalidades. Las personas privadas d
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.6 — Jornada Laboral
 
 La jornada laboral para las personas privadas de la libertad no podrá, bajo ninguna circunstancia, superar las ocho (8) horas diarias y las cuarenta y ocho (48) horas semanales.
 
-Salvo en los casos previstos en el ARTÍCULO
+Salvo en los casos previstos en el
 
 ## art:2.2.1.10.2.1 — Servicio de Salud
 
@@ -1892,15 +1628,11 @@ Todas las personas privadas de la libertad accederán al servicio de salud, conf
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.2.2 — Protección a la Vejez
 
 Las personas privadas de la libertad menores de 65 años, que así lo soliciten, podrán ser afiliadas al Sistema Flexible de Protección para la Vejez constituido por los Beneficios Económicos Periódicos. El Ministerio del Trabajo determinará anualmente el monto del aporte correspondiente, el cual deberá ser descontado de la remuneración percibida por la persona privada de la libertad. El INPEC coordinará el giro de los recursos a la entidad a la cual se afilie a la persona privada de la libertad.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.2.3 — Riesgos Laborales
 
@@ -1913,8 +1645,6 @@ Si la prestación del servicio se hace en virtud de un convenio con persona púb
 Sección 3
 
 Obligaciones y prohibiciones especiales
-
-ARTÍCULO
 
 ## art:2.2.1.10.3.1 — Obligaciones y prohibiciones especiales del INPEC
 
@@ -1941,8 +1671,6 @@ Se prohíbe al INPEC en relación con el desarrollo del trabajo penitenciario:
 3. Ejecutar cualquier acto que atente contra la dignidad de las personas privadas de la libertad.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.3.2 — Obligaciones y prohibiciones especiales de las personas privadas de la libertad
 
@@ -1976,8 +1704,6 @@ Sección 4
 
 Actividades de Formación para el Trabajo
 
-ARTÍCULO
-
 ## art:2.2.1.10.4.1 — Formación para el trabajo
 
 El INPEC celebrará los convenios que sean necesarios para que las personas privadas de la libertad puedan acceder a formación en habilidades, destrezas y conocimientos técnicos para el desempeño del trabajo penitenciario.
@@ -1988,15 +1714,11 @@ PARÁGRAFO . El INPEC, en coordinación con el Servicio Nacional de Aprendizaje 
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.4.2 — Permisos para asistencia a formación
 
 El INPEC deberá garantizar que las personas privadas de la libertad que se encuentren en procesos de formación para el trabajo, cuenten con los permisos necesarios para asistir a las respectivas capacitaciones. En todo caso se observarán las medidas de seguridad que sean necesarias.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.4.3 — Convenios para formación y trabajo
 
@@ -2008,8 +1730,6 @@ Sección 5
 
 Seguridad y salud en el trabajo
 
-ARTÍCULO
-
 ## art:2.2.1.10.5.1 — Medidas de Seguridad
 
 El INPEC y la USPEC, en el marco de sus competencias, garantizarán que los espacios destinados para el trabajo penitenciario que se lleva a cabo en los establecimientos de reclusión, tengan las condiciones necesarias de seguridad y salud en el trabajo conforme a la normativa vigente en la materia.
@@ -2018,23 +1738,17 @@ PARÁGRAFO . El INPEC o la entidad contratada para desarrollar el programa corre
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.5.2 — Acceso para personas con discapacidad
 
 Todos los establecimientos de reclusión deberán contar con espacios para trabajo penitenciario adaptados para aquellas personas con algún tipo de discapacidad. La USPEC realizará las adecuaciones a que haya lugar, previo requerimiento del INPEC, de forma gradual y progresiva de conformidad con la disponibilidad presupuestal.
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.5.3 — Accidente de trabajo y enfermedad laboral
 
 Para los efectos del presente decreto se entenderán como accidente de trabajo y enfermedad laboral aquellos eventos contemplados en los artículos 3 y 4 de la Ley 1562 de 2012, respectivamente.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.5.4 — 5.4
 
@@ -2046,23 +1760,17 @@ En caso de enfermedad profesional, la USPEC, con cargo a los recursos del Fondo 
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.5.5 — Giro de recursos
 
 La USPEC llevará a cabo las gestiones administrativas que sean necesarias para el recobro de los servicios de salud que se presten a las personas privadas de la libertad en caso de accidente de trabajo o enfermedad laboral.
 
 (Decreto 1758 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.5.6 — Supervisión de las condiciones de trabajo
 
 El Ministerio del Trabajo realizará visitas periódicas a los establecimientos penitenciarios y carcelarios con el fin de determinar el cumplimiento de las normas en seguridad industrial y seguridad y salud en el trabajo en las áreas destinadas al trabajo penitenciario.
 
 (Decreto 1758 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.10.5.7 — Actividades de promoción y prevención en seguridad y salud en el trabajo
 
@@ -2078,8 +1786,6 @@ Sección 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene por objeto reglamentar el esquema para la prestación de los servicios de salud de la población privada de la libertad bajo la custodia y vigilancia del Instituto Nacional Penitenciario y Carcelario -INPEC.
@@ -2093,8 +1799,6 @@ PARÁGRAFO . La población privada de la libertad y los menores de tres (3) año
 Sin embargo, la población privada de la libertad que se encuentre afiliada al Régimen Contributivo o a regímenes exceptuados o especiales, conservará su afiliación y la de su grupo familiar mientras continúe cumpliendo con las condiciones establecidas para pertenecer a dichos regímenes en los términos definidos por la ley y sus reglamentos y podrá conservar su vinculación a un Plan Voluntario de Salud. En estos casos, las Entidades Promotoras de Salud - EPS, las entidades que administran los regímenes excepcionales y especiales y la USPEC, deberán adoptar los mecanismos financieros y operativos, necesarios para viabilizar lo dispuesto en el presente inciso, respecto de la atención intramural de los servicios de salud de la Población Privada de la Libertad a cargo del INPEC.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.1.2 — Principios
 
@@ -2120,8 +1824,6 @@ PARÁGRAFO . En todo caso, las entidades intervinientes según corresponda, adop
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.3 — Atención en salud de las personas en prisión domiciliaria
 
 La atención en salud de las personas en prisión domiciliaria será prestada atendiendo las siguientes reglas:
@@ -2140,15 +1842,11 @@ Sección 2
 
 Del Fondo Nacional de Salud de las Personas Privadas de la Libertad
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.1 — De la naturaleza del Fondo
 
 El Fondo Nacional de Salud de las Personas Privadas de la Libertad es una cuenta especial de la Nación, sin personería jurídica, con independencia patrimonial, contable y estadística, cuyos recursos serán manejados por la entidad fiduciaria estatal o de economía mixta, en la cual el Estado tenga más del 90% del capital, contratada por la Unidad Nacional de Servicios Penitenciarios y Carcelarios -USPEC.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.2 — Recursos del Fondo
 
@@ -2161,8 +1859,6 @@ El Fondo Nacional de Salud de las Personas Privadas de la Libertad, estará cons
 PARÁGRAFO . Los rendimientos financieros provenientes de las inversiones de los recursos pertenecen a la Nación.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.3 — Destinación de los recursos del Fondo
 
@@ -2202,8 +1898,6 @@ PARÁGRAFO 5. No serán financiables con cargo a los recursos del Fondo Nacional
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.4 — Estimación del costo anual de los servicios
 
 La Unidad de Servicios Penitenciarios y Carcelarios (USPEC) elaborará anualmente el anteproyecto de presupuesto del Fondo Nacional de Salud de las Personas Privadas de la Libertad y lo someterá a revisión del Consejo Directivo del Fondo Nacional de Salud de las Personas Privadas de la Libertad, para la remisión de la solicitud de asignación al Ministerio de Hacienda y Crédito Público.
@@ -2224,15 +1918,11 @@ PARÁGRAFO TRANSITORIO. El Ministerio de Salud y Protección Social apoyará la 
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.5 — Giro de los aportes
 
 El Ministerio de Hacienda y Crédito Público girará a la Unidad de Servicios Penitenciarios y Carcelarios USPEC los recursos asignados en la ley anual de presupuesto.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.6 — Consejo Directivo del Fondo
 
@@ -2242,8 +1932,6 @@ El Consejo Directivo podrá realizar reuniones no presenciales, garantizándose 
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.7 — Quórum deliberatorio y decisorio
 
 El Consejo Directivo podrá deliberar válidamente con la participación de la mayoría de sus miembros. Las decisiones se tomarán con el voto favorable de la mayoría de los miembros con voto, presentes en la sesión.
@@ -2251,8 +1939,6 @@ El Consejo Directivo podrá deliberar válidamente con la participación de la m
 De cada una de las reuniones se levantará un acta que será suscrita por el Presidente y el Secretario, previa aprobación del Consejo Directivo. Las decisiones que en el seno del Consejo se adopten se denominarán Acuerdos y deberán llevar las firmas del Presidente y del Secretario. Actuará como secretario del Consejo el director general de la USPEC.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.8 — Reglamento Interno
 
@@ -2264,8 +1950,6 @@ Sección 3
 
 De las funciones de la Unidad de Servicios Penitenciarios y Carcelarios -USPEC- y del Instituto Nacional Penitenciario y Carcelario -INPEC- en relación con los servicios de salud de la población privada de la libertad
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.1 — Contratación de los servicios de salud
 
 El reglamento del Consejo Directivo del Fondo Nacional de Salud de las Personas Privadas de la Libertad definirá las contrataciones que deberán someterse al análisis y recomendación directa de sus miembros y los lineamientos generales que deberán atenderse para las demás contrataciones.
@@ -2275,8 +1959,6 @@ La entidad fiduciaria, de acuerdo con las instrucciones que le sean impartidas p
 PARÁGRAFO . Para la contratación de la atención en salud a la población privada de la libertad a cargo del INPEC se dará prioridad a esquemas regionales que garanticen la prestación de servicios de salud intramurales y extra murales a través de un prestador de servicios de salud, Entidades Promotoras de Salud, Cajas de Compensación Familiar con programas de salud, o una asociaciones entre éstos. Cuando sea una EPS o un programa de salud de una Caja de Compensación Familiar la que opere el modelo de atención para la población a que hace referencia este capítulo, no estará obligada a cumplir las normas de habilitación financiera previstas en el Decreto 780 de 2016, con respecto a esta población.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.3.2 — Funciones de la USPEC
 
@@ -2304,8 +1986,6 @@ En desarrollo de las funciones previstas en el Decreto-ley 4150 de 2011 y demás
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.3 — Funciones del Instituto Nacional Penitenciario y Carcelario - INPEC
 
 En desarrollo de las funciones previstas en el Decreto-ley 4151 de 2011 y demás leyes que fijen sus competencias, corresponde al Instituto Nacional Penitenciario y Carcelario (INPEC), en relación con la prestación de los servicios de salud de la población privada de la libertad:
@@ -2328,15 +2008,11 @@ En desarrollo de las funciones previstas en el Decreto-ley 4151 de 2011 y demás
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.4 — Manuales técnicos administrativos para la prestación de servicios de salud
 
 Los manuales técnicos administrativos serán elaborados conjuntamente por la Unidad de Servicios Penitenciarios y Carcelarios -USPEC- y el Instituto Nacional Penitenciario y Carcelario -INPEC. Deberán guardar plena armonía con el Modelo de Atención en Salud para la Población Privada de la Libertad y los lineamientos definidos por el Consejo Directivo del Fondo Nacional de Salud de las Personas Privadas de la Libertad, y serán de obligatorio cumplimiento por quienes presten los servicios de salud. Estos manuales serán tantos como sean necesarios, de acuerdo con los factores diferenciales de los establecimientos de reclusión.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.3.5 — Sistemas de Información
 
@@ -2354,15 +2030,11 @@ Subsección 1
 
 Atributos de la entidad fiduciaria y de los prestadores de servicios de salud
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.1 — Atributos de la entidad fiduciaria para la administración de recursos del fondo
 
 La entidad fiduciaria con la que se celebre el contrato de fiducia mercantil para la administración de los recursos del Fondo Nacional de Salud de las Personas Privadas de la Libertad deberá tener la capacidad e idoneidad para realizar la contratación, desembolsos y demás actividades administrativas que se requieran para la prestación de servicios de salud de las personas privadas de la libertad bajo la custodia y vigilancia del Instituto Nacional Penitenciario y Carcelario -INPEC., de conformidad con el Modelo de Atención en Servicios de Salud.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.2 — Atributos de los prestadores de los servicios de salud
 
@@ -2376,8 +2048,6 @@ Subsección 2
 
 Modelo de Atención en Salud para la Población Privada de la Libertad
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.2.1 — Finalidad y contenido del Modelo de Atención en Salud para la Población Privada de la Libertad
 
 El Ministerio de Salud y Protección Social y la Unidad de Servicios Penitenciarios y Carcelarios (Uspec) diseñarán el Modelo de Atención en Salud especial, integral y diferenciado y con perspectiva de género para la Población Privada de la Libertad, y tendrá como mínimo una atención intramural, extramural y una política de atención primaria en salud. El modelo establecerá la organización de los establecimientos y recursos para la atención en salud, dirigida a la integralidad de las acciones y la consiguiente orientación de las actividades de salud.
@@ -2387,8 +2057,6 @@ En tal medida, y sin perjuicio de lo que estimen el Ministerio de Salud y Protec
 Así mismo, incluirá todas las fases de la prestación de servicios de salud para la población privada de la libertad, como son: el diagnóstico, la promoción de la salud; la gestión del riesgo; el tratamiento y rehabilitación, así como las intervenciones colectivas e individuales en salud pública, los cuales serán desarrollados en el respectivo Manual Técnico Administrativo de Atención establecido para tal fin.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.2.2 — Atención intramural
 
@@ -2404,8 +2072,6 @@ PARÁGRAFO 3. La supervisión y el seguimiento a la prestación de los servicios
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.2.3 — Atención extramural a personas no internas en establecimientos de reclusión
 
 Los prestadores de servicios de salud contratados garantizarán la atención domiciliaria y/o en sus respectivos centros de atención a las personas no internas en establecimientos de reclusión.
@@ -2413,8 +2079,6 @@ Los prestadores de servicios de salud contratados garantizarán la atención dom
 El Modelo de Atención en Salud y los respectivos manuales técnicos administrativos preverán los procedimientos para hacer efectivo el acceso a la salud de las personas que se encuentren en la situación descrita en este artículo.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.2.4 — Atención extramural a personas internas en establecimientos de reclusión
 
@@ -2432,8 +2096,6 @@ Sección 5
 
 Salud Pública
 
-ARTÍCULO
-
 ## art:2.2.1.11.5.1 — Implementación de acciones en materia de salud pública
 
 Los prestadores de servicios de salud, en coordinación con el Instituto Nacional Penitenciario y Carcelario -INPEC y la autoridad sanitaria del territorio, deberán garantizar la implementación de las intervenciones colectivas e individuales de alta externalidad en salud, que permitan atenuar los riesgos y proteger la salud de la población privada de la libertad.
@@ -2441,8 +2103,6 @@ Los prestadores de servicios de salud, en coordinación con el Instituto Naciona
 PARÁGRAFO . El Instituto Nacional Penitenciario y Carcelario -INPEC, conforme con lo dispuesto en el numeral 16 del artículo 2 del Decreto Ley 4151 de 2011, deberá implementar estrategias permanentes que mejoren las condiciones del hábitat, del saneamiento básico, de calidad del agua, del aire y control de las enfermedades endemoepidémicas, con el fin de proteger y mantener la salud de la población privada de la libertad.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.5.2 — Seguimiento a la (sic) acciones de salud pública
 
@@ -2454,15 +2114,11 @@ Sección 6
 
 Tratamiento Diferenciado
 
-ARTÍCULO
-
 ## art:2.2.1.11.6.1 — Atención en salud para las mujeres
 
 En los establecimientos destinados a la reclusión de mujeres, se deberá garantizar el acceso a medicina especializada en obstetricia y ginecología.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.6.2 — Atención a niños y niñas menores de tres (3) años y de mujeres gestantes y lactantes
 
@@ -2472,15 +2128,11 @@ En todo caso, la atención integral en salud a niños y niñas menores de tres (
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.6.3 — Atención para el adulto mayor
 
 Los adultos mayores que se encuentren privados de la libertad, serán sujetos de especial protección por parte de los prestadores de la oferta intramural y de los prestadores de salud contratados por la sociedad fiduciaria como oferta extramural. En todo caso se garantizará la asistencia geriátrica en los eventos en los que se requiera.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.6.4 — Asistencia médica de especiales afecciones de salud
 
@@ -2488,15 +2140,11 @@ Los manuales técnicos administrativos deberán incluir los procedimientos espec
 
 (Decreto 2245 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.11.6.5 — Atención para la población con patologías mentales
 
 Se garantizará la atención especializada en salud mental de las personas con trastorno mental permanente o transitorio con base patológica y personas con trastorno mental sobreviniente, en los términos del artículo 16 de la Ley 1709 que modifica el artículo 24 de la Ley 65 de 1993, y su normatividad reglamentaria.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.6.6 — Atención de personas consumidoras de sustancias psicoactivas -SPA
 
@@ -2508,8 +2156,6 @@ Sección 7
 
 Otras disposiciones sobre los servicios de salud
 
-ARTÍCULO
-
 ## art:2.2.1.11.7.1 — Continuidad en el acceso a la prestación de los servicios de salud
 
 Cuando una persona destinataria de las disposiciones de este capítulo deje de ser sujeto de custodia y vigilancia por parte del Instituto Nacional Penitenciario y Carcelario - INPEC, el municipio o distrito en donde dicha población esté domiciliada deberá revisar su clasificación en el SISBEN o el instrumento que haga sus veces y, en caso de cumplir los requisitos para pertenecer a este régimen, deberá garantizarse su afiliación conforme a las reglas del régimen subsidiado.
@@ -2517,8 +2163,6 @@ Cuando una persona destinataria de las disposiciones de este capítulo deje de s
 Mientras esta afiliación se realiza, los servicios de salud que requiera esta población serán financiados por la entidad territorial con cargo a los recursos destinados a la atención de la población pobre en lo no cubierto con subsidios a la demanda.
 
 (Decreto 2245 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.7.2 — Inspección y vigilancia
 
@@ -2529,8 +2173,6 @@ La inspección y vigilancia del cumplimiento de las disposiciones establecidas e
 Sección 8
 
 Normas transitorias
-
-ARTÍCULO
 
 ## art:2.2.1.11.8.1 — Gradualidad y transitoriedad
 
@@ -2556,15 +2198,11 @@ Sección 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene por objeto definir las competencias asignadas por la Ley 1709 de 2014 a la Unidad de Servicios Penitenciarios y Carcelarios (USPEC) y al Instituto Nacional Penitenciario y Carcelario (INPEC), para el adecuado funcionamiento de los servicios penitenciarios y carcelarios.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.1.2 — Principio de coordinación
 
@@ -2572,23 +2210,17 @@ La Unidad de Servicios Penitenciarios y Carcelarios (USPEC) y el Instituto Nacio
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.3 — Principio de eficiencia
 
 La Unidad de Servicios Penitenciarios y Carcelarios (USPEC) y el Instituto Nacional Penitenciario y Carcelario (INPEC) emplearán en la ejecución de sus competencias los medios más adecuados para el cumplimiento de sus objetivos, de manera que se garantice el goce efectivo de los derechos de las personas privadas de la libertad.
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.4 — Principio de progresividad
 
 Las acciones conjuntas de la Unidad de Servicios Penitenciarios y Carcelarios (USPEC) y del Instituto Nacional Penitenciario y Carcelario (INPEC) suponen el compromiso con los derechos fundamentales de las personas privadas de la libertad, reconociendo unos contenidos mínimos de satisfacción de esos derechos y la obligación de acrecentarlos paulatinamente de tal forma que se asegure la sostenibilidad fiscal y observando el marco fiscal de mediano plazo.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.1.5 — Infraestructura
 
@@ -2600,8 +2232,6 @@ Sección 2
 
 Definición de competencias
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.1 — Bloqueo e inhibición de dispositivos de comunicación no autorizados a personas privadas de la libertad
 
 Para efectos de lo dispuesto en el artículo 16A de la Ley 65 de 1993, adicionado por el artículo 9 de la Ley 1709 de 2014, se observará lo siguiente:
@@ -2611,8 +2241,6 @@ El Instituto Nacional Penitenciario y Carcelario (INPEC) realizará los estudios
 Para efectos de lo dispuesto en el inciso segundo del artículo 16A de la Ley 65 de 1993, la Unidad de Servicios Penitenciarios y Carcelarios (USPEC), tendrá en cuenta, en lo que corresponda, los estudios del INPEC de que trata el inciso anterior, para el diseño y construcción de los nuevos establecimientos de reclusión, así como para la adecuación de los existentes.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.2 — 2.2
 
@@ -2638,8 +2266,6 @@ PARÁGRAFO 3. Conforme a lo dispuesto en el artículo 30A de la Ley 65 de 1993, 
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.3 — 2.3
 
 Locaciones físicas para audiencias judiciales y diligencias de órganos de control dentro de los establecimientos de reclusión. La Unidad de Servicios Penitenciarios y Carcelarios (USPEC) construirá, adecuará y mantendrá los espacios requeridos por el INPEC para la realización directa y presencial de audiencias judiciales y diligencias de los organismos de control. Este espacio podrá coincidir con aquel destinado a la realización de audiencias virtuales.
@@ -2652,15 +2278,11 @@ Las entidades que conforman el Sistema Nacional Penitenciario y Carcelario, a pe
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.4 — Preferencia por audiencias virtuales
 
 Las autoridades judiciales preferirán la celebración de audiencias virtuales a las presenciales, por lo cual deberán justificar la negación de las primeras cuando el centro de reclusión cuente con salas virtuales disponibles
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.5 — 2.5
 
@@ -2678,8 +2300,6 @@ PARÁGRAFO 2. La interoperabilidad del SISIPEC con otros sistemas de informació
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.6 — Infraestructura para la efectiva prestación de los servicios penitenciarios y carcelarios
 
 La infraestructura para la efectiva vigilancia, custodia, atención y tratamiento de las personas privadas de la libertad, compuesta, entre otros, por las celdas, los puestos y mecanismos electrónicos de control y vigilancia, los espacios requeridos para el trabajo, el estudio y la enseñanza, así como las áreas administrativas de los centros de reclusión, estará a cargo de la Unidad de Servicios Penitenciarios y Carcelarios (USPEC).
@@ -2687,8 +2307,6 @@ La infraestructura para la efectiva vigilancia, custodia, atención y tratamient
 PARÁGRAFO . La lista de los elementos mencionados en el presente artículo es meramente ilustrativa y no excluye bienes y servicios que se requieran para el funcionamiento del sistema penitenciario y carcelario, de acuerdo a las competencias de cada entidad.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.7 — Dotación de elementos para la atención, rehabilitación y tratamiento de los internos
 
@@ -2702,8 +2320,6 @@ PARÁGRAFO 2. La lista de los elementos mencionados en el presente artículo es 
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.8 — Dotación de elementos para la función de custodia y vigilancia
 
 La dotación de los elementos necesarios para el cumplimiento de la función de custodia y vigilancia, tales como camarotes, elementos de cama, chalecos, armas, municiones y casilleros para uso del personal de guardia; así como los vehículos destinados al transporte y vigilancia y custodia de internos, el mantenimiento periódico de estos y los repuestos requeridos; los equipos de seguridad electrónica, como cámaras, sillas y arcos scanner, rayos X, entre otros, corresponde a la Unidad de Servicios Penitenciarios y Carcelarios (USPEC).
@@ -2711,8 +2327,6 @@ La dotación de los elementos necesarios para el cumplimiento de la función de 
 PARÁGRAFO . La lista de los elementos mencionados en el presente artículo es meramente ilustrativa y no excluye bienes y servicios que se requieran para el funcionamiento del sistema penitenciario y carcelario, de acuerdo a las competencias de cada entidad.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.9 — Operación y mantenimiento de bienes
 
@@ -2724,8 +2338,6 @@ PARÁGRAFO . El titular de los derechos reales de dominio de los bienes inmueble
 
 (Decreto 204 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.10 — Servicio de telefonía fija
 
 El Instituto Nacional Penitenciario y Carcelario (INPEC) garantizará la prestación del servicio de telefonía fija en los establecimientos de reclusión para la comunicación de los internos con su núcleo social y familiar.
@@ -2735,8 +2347,6 @@ La operación, seguimiento y monitoreo de este servicio corresponderá al Instit
 PARÁGRAFO . Lo dispuesto en este artículo no impedirá la estructuración de mecanismos contractuales que permitan la adquisición de bienes o servicios mediante la explotación económica del servicio de telefonía fija.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.11 — Mantenimiento y dotación de áreas administrativas del Instituto Nacional Penitenciario y Carcelario (INPEC)
 
@@ -2748,15 +2358,11 @@ Sección 3
 
 Coordinación y seguimiento interinstitucional
 
-ARTÍCULO
-
 ## art:2.2.1.12.3.1 — Seguimiento a las funciones y competencias en materia penitenciaria y carcelaria
 
 Créase el Comité de Coordinación de Funciones y Competencias INPEC-USPEC encargado de verificar el estado de la ejecución de las competencias de cada entidad, según sus funciones legales y reglamentarias, evaluar las dificultades en el cumplimiento de las mismas, crear planes de mejoramiento y definir acciones conjuntas para el buen funcionamiento del sistema y la protección de los derechos fundamentales de la población privada de la libertad.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.2 — Integración del Comité de Coordinación de Funciones y Competencias INPEC-USPEC
 
@@ -2771,8 +2377,6 @@ El Comité de Coordinación de Funciones y Competencias INPEC-USPEC estará inte
 PARÁGRAFO . Los miembros del Comité de Coordinación de Funciones y Competencias INPECUSPEC solo podrán delegar su representación en funcionarios públicos del nivel directivo y asesor en los términos del artículo 9 de la Ley 489 de 1988.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.3 — Secretaría Técnica del Comité de Coordinación de Funciones y Competencias INPEC-USPEC
 
@@ -2793,8 +2397,6 @@ La secretaría técnica del comité la ejercerán de manera rotativa la Oficina 
 El Comité se reunirá ordinariamente una vez cada cuatro (4) meses o de manera extraordinaria cuando sea requerido, a solicitud de cualquiera de sus integrantes. Los integrantes tendrán el acompañamiento de sus respectivos equipos directivos y/o asesores, según los temas por tratar en cada sesión.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.4 — Funciones del Comité de Coordinación de Funciones y Competencias INPEC-USPEC
 
@@ -2822,15 +2424,11 @@ Sección 4
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.1.12.4.1 — Priorización de obras, bienes y servicios
 
 De conformidad con el plan de necesidades remitido por el Instituto Nacional Penitenciario y Carcelario (INPEC) para la elaboración del anteproyecto de presupuesto de la siguiente vigencia fiscal, la Unidad de Servicios Penitenciarios y Carcelarios (USPEC) formulará los proyectos respectivos y definirá el alcance de la intervención, de acuerdo con el presupuesto asignado y aprobado a la entidad.
 
 (Decreto 204 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.12.4.2 — Entrega de obras, bienes y servicios al Instituto Nacional Penitenciario y Carcelario (INPEC)
 
@@ -2852,19 +2450,13 @@ Sección 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.1.13.1.1 — Respeto de los derechos fundamentales con enfoque diferencial
 
 En los establecimientos que se encuentren regulados por este capítulo, se respetarán y garantizarán los derechos fundamentales con enfoque diferencial de las personas privadas de la libertad, sin más restricciones que las necesarias para el cumplimiento efectivo de la medida de seguridad o de la pena y sin discriminación alguna fundada en motivos de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica, u otro criterio análogo.
 
-ARTÍCULO
-
 ## art:2.2.1.13.1.2 — Interpretación
 
 Para la interpretación y aplicación de las disposiciones contenidas en este capítulo se tendrán en cuenta los principios y normas constitucionales; los Tratados y Convenios Internacionales sobre Derechos Humanos ratificados por Colombia; las Reglas Mínimas para el Tratamiento de los Reclusos adoptadas por el Primer Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente, las normas del Código Penitenciario y Carcelario, y las disposiciones que las modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.1.13.1.3 — Especificaciones de infraestructura
 
@@ -2880,8 +2472,6 @@ PARÁGRAFO 2. Lo ordenado en este artículo se cumplirá en concordancia con lo 
 
 PARÁGRAFO 3. El Instituto Nacional Penitenciario y Carcelario (INPEC) tendrá especial consideración del principio de enfoque diferencial de que trata el artículo 3A de la Ley 65 de 1993, adicionado por el artículo 2 de la Ley 1709 de 2014, en la determinación de necesidades de infraestructura dispuesta en este artículo.
 
-ARTÍCULO
-
 ## art:2.2.1.13.1.4 — Prestación de los servicios de salud
 
 Para la prestación de los servicios de salud de la población objeto del presente capítulo, se aplicará el esquema previsto en el Capítulo 11 del Título 1 de la Parte 2 del Libro 2 del presente decreto, en caso que se trate de población privada de la libertad en establecimientos de reclusión a cargo del Instituto Penitenciario y Carcelario INPEC.
@@ -2889,8 +2479,6 @@ Para la prestación de los servicios de salud de la población objeto del presen
 Sección 2
 
 Centros de arraigo transitorio
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.1 — Implementación de los Centros de arraigo transitorio
 
@@ -2906,13 +2494,9 @@ PARÁGRAFO 1. Los costos de construcción, operación y mantenimiento de los cen
 
 PARÁGRAFO 2. Para la construcción de los centros de que trata el presente artículo, los departamentos, los municipios y las áreas metropolitanas deberán incluir en sus presupuestos de rentas y gastos, las partidas necesarias correspondientes al cumplimiento de esta obligación, en concordancia con el artículo 17 de la Ley 65 de 1993, previa definición del proyecto de construcción del respectivo centro de arraigo transitorio. La consecución y gestión de los predios para la construcción de centros de arraigo transitorio corresponden a la respectiva entidad territorial.
 
-ARTÍCULO
-
 ## art:2.2.1.13.2.2 — Destinatarios
 
 A los centros de arraigo transitorio deberán ser remitidas las personas afectadas por medida de aseguramiento privativa de la libertad respecto de quienes las autoridades judiciales determinen que exista la probabilidad de su no comparecencia al proceso por falta de arraigo del sindicado, imputado o acusado, que afecte el cabal desarrollo de la investigación.
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.3 — Centros de arraigo transitorio conjuntos
 
@@ -2922,15 +2506,11 @@ Sección 3
 
 Establecimientos y pabellones de reclusión de alta seguridad
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.1 — Finalidad
 
 La finalidad del régimen de los establecimientos y pabellones de reclusión de alta seguridad es la de permitir el adecuado tratamiento de las personas privadas de la libertad con miras a su resocialización y reinserción social, así como la custodia de los mismos con pleno respeto a sus derechos fundamentales y con acceso a las prestaciones que les debe el Estado en materia de sanidad y salubridad, educación, disciplina, trabajo, vestuario, equipos de trabajo y demás aspectos relacionados con sus necesidades.
 
 De la misma manera, el régimen de los establecimientos y pabellones de reclusión de alta seguridad debe procurar la convivencia pacífica de las personas que se encuentran en dichos establecimientos en calidad de detenidos, condenados, servidores públicos, personal de custodia y vigilancia, directores, o personas que por cualquier motivo visiten estos establecimientos.
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.2 — Establecimientos y pabellones de reclusión de alta seguridad
 
@@ -2954,8 +2534,6 @@ El riesgo especial de seguridad se determinará según los siguientes criterios:
 
 PARÁGRAFO . El Director del Instituto Nacional Penitenciario y Carcelario (INPEC), con base en los criterios antes enunciados y en las decisiones judiciales dictadas en contra de un interno, deberá emitir concepto previo sobre la procedencia de recluirlo en un establecimiento o pabellón de reclusión de alta seguridad.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.3 — Régimen interno
 
 Los establecimientos y pabellones de reclusión de alta seguridad tendrán un régimen administrativo adecuado a la población que deban albergar.
@@ -2966,15 +2544,11 @@ En los establecimientos y pabellones de reclusión de alta seguridad no se recib
 
 El Director del Instituto Penitenciario y Carcelario (INPEC) determinará las personas privadas de la libertad que por condiciones de seguridad y riesgo especial deben cumplir la detención preventiva o la pena en establecimientos o pabellones de alta seguridad.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.4 — Creación de establecimientos de reclusión de alta seguridad
 
 La Unidad de Servicios Penitenciarios y Carcelarios (USPEC), en coordinación con el Instituto Nacional Penitenciario y Carcelario (INPEC) deberá, iniciar progresivamente, con la creación de establecimientos o pabellones de reclusión de alta seguridad en los distritos judiciales de Bogotá D.C., Medellín, Cali, Barranquilla y Bucaramanga, previa disponibilidad presupuestal.
 
 A medida que sea necesario, se podrán crear establecimientos de reclusión o pabellones de alta seguridad en otras ciudades del país.
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.5 — Diseño arquitectónico
 
@@ -2982,21 +2556,15 @@ La Unidad de Servicios Penitenciarios y Carcelarios (USPEC) establecerá lineami
 
 En los establecimientos y pabellones de reclusión de alta seguridad las celdas deberán ser individuales y bipersonales. En este último caso, el INPEC tomará en cuenta el perfil de los internos, de manera que se garantice su seguridad e integridad personal.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.6 — Medios tecnológicos de vigilancia
 
 Los establecimientos y pabellones de reclusión de alta seguridad contarán, en la medida de lo posible, con sistemas tecnológicos de seguridad para la vigilancia permanente de los internos, sin vulnerar sus derechos a la dignidad e intimidad.
 
 La Unidad de Servicios Penitenciarios y Carcelarios (USPEC), deberá incorporar esta exigencia en los diseños de los establecimientos y pabellones de reclusión de alta seguridad.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.7 — Restricción y suministro de alimentos y bebidas por razones de salud, religiosas o culturales
 
 En los establecimientos y pabellones de reclusión de alta seguridad no se permitirá el ingreso de alimentos o bebidas destinadas al consumo exclusivo de una o varias personas privadas de la libertad. Si alguna de ellas requiere alimentación especial por razones de salud, cultura, o religión, la dirección del establecimiento adelantará las gestiones necesarias para proveerla en la forma y con las condiciones que imponga el dictamen médico o las reglas culturales o religiosas, de conformidad con lo estipulado en el artículo 67 de la ley 65 de 1993, modificado por el artículo 48 de la ley 1709 de 2004
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.8 — Contacto con el exterior
 
@@ -3006,27 +2574,19 @@ Para estos efectos, en cada establecimiento se pondrán a disposición de acuerd
 
 En todo caso, la correspondencia que los internos dirijan o reciban de autoridades públicas en ejercicio de sus funciones, o de su apoderado, no podrá ser sujeta a interceptación o registro y se garantizará que el interno o la entidad competente la reciba oportunamente.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.9 — Extranjeros
 
 Sin perjuicio de lo dispuesto en el artículo 2.2.1.13.3.8. cuando un extranjero sea recluido en un establecimiento de alta seguridad, el director dará aviso inmediato a la oficina consular del país de origen o de un país amigo y le permitirá el contacto con su agente consular.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.10 — Manejo de la Información
 
 En los establecimientos y pabellones de reclusión de alta seguridad se garantizará a los internos el acceso a los medios de comunicación disponibles, con la debida supervisión de las autoridades penitenciarias.
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.11 — Apoyo a los Consejos de Evaluación y Tratamiento
 
 Para el ejercicio de sus competencias, los Consejos de Evaluación y Tratamiento podrán solicitar asesoría de expertos en salud mental, trabajadores sociales, organizaciones sociales, religiosas o políticas debidamente reconocidas por el Estado colombiano o por una organización internacional, como también de las instituciones de educación superior.
 
 PARÁGRAFO . En los establecimientos y pabellones de reclusión de alta seguridad se dará prioridad al sistema de teletrabajo, de conformidad con la reglamentación vigente al respecto.
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.12 — Reglamento General
 
@@ -3036,13 +2596,9 @@ En el reglamento general se especificarán las condiciones y medidas para garant
 
 El régimen de estos establecimientos limitará las actividades en grupo y estará dirigido a garantizar un mayor control y vigilancia sobre las personas privadas de la libertad, sin afectar las condiciones mínimas para el goce de sus derechos fundamentales.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.13 — Custodia y Vigilancia especial
 
 El personal de custodia y vigilancia de los establecimientos de alta seguridad estará integrado por funcionarios del Instituto Nacional Penitenciario y Carcelario (INPEC) especialmente capacitados en este tipo de establecimientos, así corno en el manejo de situaciones de crisis de seguridad
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.14 — Restricciones de ingreso
 
@@ -3054,15 +2610,11 @@ En situaciones particulares podrán ingresar personas distintas a las mencionada
 
 PARÁGRAFO . - Para garantizar el derecho a la defensa y la asistencia jurídica adecuada, se permitirá el ingreso a los abogados, investigadores y demás integrantes del equipo de la defensa judicial, en horarios amplios comprendidos en los días hábiles.
 
-ARTÍCULO
-
 ## art:2.2.1.13.3.15 — Visitas
 
 Las personas privadas de la libertad en establecimientos de reclusión de alta seguridad sólo podrán recibir visita de su cónyuge, compañero/a permanente, familiares y amigos cada siete (7) días calendario. Solo podrán ingresar las personas previamente autorizadas por el director del establecimiento de reclusión, siempre que lo autorice la persona privada de la libertad.
 
 Las visitas se autorizarán de conformidad con el reglamento de que trata el artículo 2.2.1.12.3.13. de este Decreto. En todo caso la visita se hará en condiciones que garanticen la seguridad de las personas privadas de la libertad, del personal de custodia y vigilancia, de los visitantes y del centro penitenciario y carcelario.
-
-ARTÍCULO
 
 ## art:2.2.1.13.3.16 — Tenencia de elementos de uso personal, educación, esparcimiento y salud
 
@@ -3076,8 +2628,6 @@ Sección 4
 
 Establecimientos de reclusión para inimputables por trastorno mental permanente o transitorio con base patológica y personas con trastorno mental sobreviniente
 
-ARTÍCULO
-
 ## art:2.2.1.13.4.1 — Establecimientos de reclusión para inimputables por trastorno mental
 
 La Unidad de Servicios Penitenciarios y Carcelarios - USPEC, deberá de manera progresiva, de acuerdo con la disponibilidad presupuestal, el plan de necesidades emitido por el Instituto Nacional Penitenciario y Carcelario -INPEC y cumpliendo con los estándares de calidad definidos por el Ministerio de Salud y Protección Social, gestionar el procedimiento de contratación correspondiente para la construcción de los establecimientos de reclusión para inimputables por trastorno mental permanente o transitorio con base patológica, con medida de seguridad consistente en internación, o trastorno mental sobreviniente a la privación de la libertad, que sean objeto de una medida de aseguramiento o de una condena a pena privativa de la libertad.
@@ -3086,19 +2636,13 @@ Estos establecimientos deberán estar situados por fuera de los establecimientos
 
 PARÁGRAFO . - Una vez construidos y puestos en funcionamiento los establecimientos en mención, los anexos o pabellones psiquiátricos hoy llamados unidades de salud mental, serán reemplazados de manera gradual y los inimputables que presenten trastorno mental permanente o transitorio con base patológica serán remitidos a dichos establecimientos.
 
-ARTÍCULO
-
 ## art:2.2.1.13.4.2 — Requisitos de internamiento
 
 En los centros para inimputables por trastorno mental solamente se podrán recluir personas que padezcan alguna perturbación mental, según decisión del juez de conocimiento o el de ejecución de penas y medida de seguridad, según corresponda, previo dictamen pericial del Instituto Nacional de Medicina Legal y Ciencias Forenses, conforme las disposiciones previstas en el artículo 24 de la Ley 65 de 1993, modificado por el artículo 16 de la Ley 1709 de 2014.
 
-ARTÍCULO
-
 ## art:2.2.1.13.4.3 — Aislamiento
 
 En los establecimientos de reclusión para inimputables por trastorno mental permanente o transitorio con base patológica, o trastorno mental sobreviniente a la privación de la libertad, se destinarán áreas especiales para el internamiento de quienes lo requieran por especiales condiciones de salud, de manera que no afecten el normal funcionamiento del establecimiento ni afecten el ejercicio de los derechos fundamentales de las personas privadas de la libertad.
-
-ARTÍCULO
 
 ## art:2.2.1.13.4.4 — Personal de vigilancia
 
@@ -3106,21 +2650,15 @@ Los establecimientos de reclusión para inimputables por trastorno mental perman
 
 Cuando se requiera trasladar a una de las personas recluidas por cualquier causa, el personal especializado en salud mental deberá ir acompañado del personal de custodia y vigilancia necesario para preservar su seguridad e integridad.
 
-ARTÍCULO
-
 ## art:2.2.1.13.4.5 — Vigilancia
 
 La vigilancia del perímetro externo de los establecimientos de reclusión para inimputables por trastorno mental permanente o transitorio con base patológica, o trastorno mental sobreviniente a la privación de la libertad estará a cargo del Instituto Nacional Penitenciario y Carcelario (INPEC).
 
 El personal de vigilancia podrá ingresar a los sitios donde se preste la asistencia médica a las personas privadas de la libertad, cuando sea necesario por razones extraordinarias de seguridad y cuando así lo solicite el talento humano en salud a cargo de la atención.
 
-ARTÍCULO
-
 ## art:2.2.1.13.4.6 — Actividades de trabajo, estudio y enseñanza
 
 Los establecimientos de reclusión para inimputables por trastorno mental permanente o transitorio con base patológica, o trastorno mental sobreviniente a la privación de la libertad, deberán contar con lugares destinados a la realización de actividades de trabajo, estudio y enseñanza.
-
-ARTÍCULO
 
 ## art:2.2.1.13.4.7 — Tratamiento extramural
 
@@ -3422,15 +2960,11 @@ Sección 1
 
 Aspectos Generales
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.1 — Alcance de la palabra drogadicción
 
 Para la aplicación de la Ley 30 de 1986, el sentido de las palabras adicción o drogadicción comprende tanto la dependencia física como la dependencia psíquica.
 
 (Decreto 3788 de 1986, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.2 — Alcance de la expresión planta
 
@@ -3438,15 +2972,11 @@ Para los efectos previstos en el Estatuto Nacional de Estupefacientes cuando se 
 
 (Decreto 3788 de 1986, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.3 — Dosis terapéutica
 
 La cantidad de droga o medicamento que como dosis terapéutica se prescriba respondiendo a las necesidades clínicas de los pacientes, debe sujetarse a la reglamentación que en tal sentido expida el Ministerio de Salud y Protección Social.
 
 (Decreto 3788 de 1986 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.4 — Sanción
 
@@ -3454,15 +2984,11 @@ Cuando la cantidad de estupefacientes no supere la indicada como dosis para uso 
 
 (Decreto 3788 de 1986 artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.5 — Facultad del Instituto de Medicina Legal y ciencias forenses
 
 Cuando se trata de una sustancia estupefaciente distinta de marihuana, hachís, cocaína o metacualona, el Instituto de Medicina Legal determinará la cantidad que constituye dosis para uso personal.
 
 (Decreto 3788 de 1986 artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.6 — Cantidades
 
@@ -3471,8 +2997,6 @@ Cuando únicamente se encuentren hojas de plantas de las que pueden extraerse su
 Igualmente, se considera que doscientos gramos de hojas de coca pueden producir un gramo de cocaína.
 
 (Decreto 3788 de 1986 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.7 — 1.7
 
@@ -3484,8 +3008,6 @@ Sección 2
 
 De los Consejos Seccionales
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1 — Actividad de Coordinación
 
 El Consejo Nacional de Estupefacientes coordinará y vigilará las actividades de los consejos seccionales.
@@ -3493,8 +3015,6 @@ El Consejo Nacional de Estupefacientes coordinará y vigilará las actividades d
 Dentro de las políticas trazadas por el Consejo Nacional de Estupefacientes, los consejos seccionales desarrollarán las actividades y campañas que en las distintas regiones sea necesario y conveniente adelantar para impedir el narcotráfico y evitar que la población, particularmente la juventud, resulte víctima de la farmacodependencia.
 
 (Decreto 3788 de 1986 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2 — Campañas contra la fármaco dependencia
 
@@ -3504,15 +3024,11 @@ Semestralmente el Consejo Nacional y los consejos seccionales harán la evaluaci
 
 (Decreto 3788 de 1986 artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3 — Campañas de difusión
 
 El Consejo Nacional de Estupefacientes a iniciativa propia o de un consejo seccional, de común acuerdo con el Ministerio de las Tecnologías de la Información y de las Comunicaciones señalará las campañas a realizar por las estaciones de radiodifusión sonora y televisión con indicación de la duración y la periodicidad de las emisiones.
 
 (Decreto 3788 de 1986 artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.4 — Reuniones
 
@@ -3520,15 +3036,11 @@ Los consejos seccionales de estupefacientes se reunirán en forma ordinaria la s
 
 (Decreto 3788 de 1986 artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.5 — Secretaría técnica
 
 La secretaría de los consejos seccionales de estupefacientes le corresponderá al respectivo Jefe del Servicio Seccional de Salud.
 
 (Decreto 3788 de 1986 artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.6 — Comités Cívicos
 
@@ -3540,15 +3052,11 @@ Sección 3
 
 De la Importación, Exportación, Fabricación Distribución y Venta de Drogas, Medicamentos Materias Primas o Precursores.
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.1 — Importación de drogas y medicamentos de control especial
 
 La importación de drogas y medicamentos de control especial, materias primas o precursores utilizados en su fabricación, sólo podrá hacerse por la Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y Protección Social o a través de éste; deberán ser tenidas en cuenta de manera especial las drogas incluidas en la Convención Única de Estupefacientes de 1961 y en la Convención sobre sustancias psicotrópicas de 1971 con sus modificaciones posteriores. Los principios activos que constituyen la materia prima determinante para la inclusión de medicamentos en la lista de control especial se importan por ese Fondo o a través suyo.
 
 (Decreto 3788 de 1986 artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.2 — Inscripción para efectos de la importación
 
@@ -3556,23 +3064,17 @@ Para importar, adquirir, procesar, sintetizar, elaborar y distribuir medicamento
 
 (Decreto 3788 de 1986 artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.3 — Límites a la importación
 
 Cuando se autorice la importación de materia prima de control especial a solicitud de un laboratorio farmacéutico, dicha importación se hará de acuerdo con los límites fijados por la Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y la Protección Social, previo estudio de las necesidades según análisis que hará en cada caso.
 
 (Decreto 3788 de 1986 artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.4 — Cuadro de necesidades
 
 Los laboratorios farmacéuticos que realicen importaciones de las antes señaladas están obligados a presentar anualmente un cuadro de las necesidades que en este sentido tendrán durante el año siguiente, lo cual se hará en fecha y términos que señale el Ministerio de Salud y Protección Social.
 
 (Decreto 3788 de 1986 artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.5 — Límite a las existencias de drogas
 
@@ -3582,15 +3084,11 @@ Las negociaciones que en caso de fuerza mayor deban hacer los laboratorios entre
 
 (Decreto 3788 de 1986 artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.6 — Intercambio de información
 
 El Ministerio de Comercio Industria y Turismo y la Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y la Protección Social mensualmente intercambiarán información, conforme a los mecanismos que se acuerden, con el fin de establecer un control efectivo.
 
 (Decreto 3788 de 1986 artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.7 — Requisitos para los laboratorios farmacéuticos
 
@@ -3604,15 +3102,11 @@ c) Informar por escrito a la Unidad Administrativa Especial del Fondo Nacional d
 
 (Decreto 3788 de 1986 artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.8 — Libro de registro de movimientos
 
 Los laboratorios fabricantes que utilicen materias primas controladas están obligadas a llevar un libro de registro de movimientos, el cual será foliado y registrado por la Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y Protección Social y delegados suyos los revisarán periódicamente. Dichos laboratorios deben disponer de medios de almacenamiento adecuados e independientes de los demás depósitos.
 
 (Decreto 3788 de 1986 artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.9 — Deber de información
 
@@ -3620,15 +3114,11 @@ Los laboratorios fabricantes de medicamentos de control especial están obligado
 
 (Decreto 3788 de 1986 artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.10 — Lista de distribución exclusiva
 
 El Ministerio de Salud y Protección Social señalará, dentro de la lista de medicamentos de control especial, cuáles serán elaborados y distribuidos exclusivamente por la Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y Protección Social; para ello y para cualquier modificación se requiere la aprobación previa del Instituto Nacional de Vigilancia de Medicamentos y Alimentos INVIMA, a través de la Comisión Revisora de Productos Farmacéuticos
 
 (Decreto 3788 de 1986 artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.11 — Reglamentación de la Distribución de medicamentos
 
@@ -3636,15 +3126,11 @@ La reglamentación de la distribución y venta de los medicamentos de control es
 
 (Decreto 3788 de 1986 artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.12 — Libro de movimiento de productos sujetos a control especial
 
 Todo establecimiento farmacéutico legalmente autorizado para fabricar, distribuir o vender medicamentos de control especial llevarán un libro foliado y registrado en el Servicio Seccional de Salud respectivo, para anotar el movimiento de esos productos; además, dispondrán de medios de almacenamiento seguros, adecuados e independientes de los demás medicamentos.
 
 (Decreto 3788 de 1986 artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.13 — Denuncia
 
@@ -3654,8 +3140,6 @@ Nacional de Estupefacientes del Ministerio de Salud y Protección Social
 
 (Decreto 3788 de 1986 artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.14 — Actualización de listas
 
 Los servicios seccionales de salud mantendrán actualizadas las listas de establecimientos legalmente autorizados para manejar medicamentos de control especial y recibirán informes periódicos de la Unidad
@@ -3664,15 +3148,11 @@ Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de 
 
 (Decreto 3788 de 1986 artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.15 — Formulario oficial de medicamentos
 
 El Ministerio de Salud y Protección Social elaborará el formulario oficial de medicamentos de control especial, el cual se suministrará periódicamente a los Servicios Seccionales de Salud.
 
 (Decreto 3788 de 1986 artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.16 — Inscripción en el servicio seccional de salud
 
@@ -3680,15 +3160,11 @@ Los médicos y odontólogos graduados y en ejercicio legal de la profesión debe
 
 (Decreto 3788 de 1986 artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.17 — Registro seccional de fármaco dependencia
 
 La Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y la Protección Social establecerá un registro nacional de farmacodependencia, el cual será confidencial y sus datos solo se utilizarán para prevenir el narcotráfico y la farmacodependencia. Los Servicios Seccionales de Salud establecerán esos registros en su jurisdicción y enviarán esa información a dicha Unidad Administrativa Especial.
 
 (Decreto 3788 de 1986 artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.18 — Aplicación de convenios internacionales
 
@@ -3700,23 +3176,17 @@ Sección 4
 
 De los programas educativos.
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.1 — Planes educativos de prevención
 
 En los programas de educación primaria, secundaria, media vocacional y educación no formal, el Ministerio de Educación Nacional, diseñará los lineamientos generales para introducir en los planes curriculares contenidos y actividades para la prevención de la drogadicción e información sobre riesgos de la farmacodependencia.
 
 (Decreto 3788 de 1986 artículo 34)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.2 — Información sobre farmacodependencia
 
 A nivel de postsecundaria, el Ministerio de Educación Nacional y el Ministerio de Salud y Protección Social, trazarán los lineamientos generales para incluir información sobre la farmacodependencia en los programas académicos.
 
 (Decreto 3788 de 1986 artículo 35)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.3 — Campañas de prevención de farmacodependencia
 
@@ -3726,15 +3196,11 @@ El Instituto Colombiano para el Fomento de la Educación Superior -ICFES- reglam
 
 (Decreto 3788 de 1986 artículo 36)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.4 — Responsabilidad de la Secretaría de educación
 
 Las Secretarías de Educación en cada unidad territorial, serán responsables del desarrollo de los programas de prevención de la drogadicción, en cumplimiento de las políticas trazadas por el Ministerio de Educación Nacional y el Consejo Nacional de Estupefacientes, directamente o a través de los consejos seccionales de estupefacientes.
 
 (Decreto 3788 de 1986 artículo 37)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.5 — 4.5
 
@@ -3742,23 +3208,17 @@ Organizaciones creativas juveniles e infantiles Como estrategias de prevención 
 
 (Decreto 3788 de 1986 artículo 38)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.6 — Vigilancia y control
 
 El Ministerio de Educación Nacional implementará mecanismos de vigilancia y control para verificar el cumplimiento de lo aquí previsto.
 
 (Decreto 3788 de 1986 artículo 39)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.7 — Lineamientos para el servicio gratuito de consultorio clínico
 
 Los Ministerios de Educación y de Salud y Protección Social señalarán los lineamientos y orientaciones que servirán de base para que las instituciones universitarias públicas y privadas estructuren el servicio obligatorio gratuito de consultorios clínicos para la atención del farmacodependiente, de conformidad con el artículo 12 de la Ley 30 de 1986.
 
 (Decreto 3788 de 1986 artículo 40)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.8 — De las campañas contra el consumo de alcohol y del tabaco
 
@@ -3769,8 +3229,6 @@ Las autoridades competentes dispondrán las medidas conducentes para que las emp
 Sección 5
 
 Control de exportación de sustancias químicas controladas
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.1 — Implementación del mecanismo de prenotificación
 
@@ -3926,8 +3384,6 @@ Aplica para thinner
 
 (Decreto 2530 de 2009, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.2 — Vigilancia
 
 La vigilancia a la observancia del requisito específico para las solicitudes de autorización previa a las exportaciones de las substancias relacionadas en el artículo 2.2.2.1.5.1., de este capítulo será ejercida por el Ministerio de Justicia y del Derecho.
@@ -3938,15 +3394,11 @@ Sección 6
 
 De otras disposiciones.
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.1 — Consignación de la multa
 
 El valor de toda multa que se imponga en virtud del Estatuto Nacional de Estupefacientes debe consignarse a órdenes de la Unidad Administrativa Especial del Fondo Nacional de Estupefacientes del Ministerio de Salud y Protección Social.
 
 (Decreto 3788 de 1986 artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.2 — Informes
 
@@ -3954,15 +3406,11 @@ La Secretaría Ejecutiva del Consejo Nacional de Estupefacientes solicitará los
 
 (Decreto 3788 de 1986 artículo 48)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.3 — Reuniones
 
 El Consejo Nacional de Estupefacientes se reunirá en forma ordinaria la primera y tercera semanas de cada mes y podrá tener reuniones extraordinarias cuando su presidente lo convoque.
 
 (Decreto 3788 de 1986 artículo 50)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.4 — Certificado de carencia de informes
 
@@ -4002,8 +3450,6 @@ e. Si se trata de personas jurídicas extranjeras sin ánimo de lucro, el corres
 
 (Decreto 3788 de 1986 artículo 51)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.5 — Certificado dirigido al Ministerio de Comercio Industria y Turismo o al Ministerio de Salud y Protección Social
 
 (Derogado por el Decreto 585 de 2018, art. 2). Cuando el certificado se requiera con destino al Ministerio de Comercio Industria y Turismo o al Ministerio de Salud y Protección Social, la solicitud contendrá, a más de lo anterior:
@@ -4022,23 +3468,17 @@ Cuando no estén domiciliadas en Bogotá, se les indicará en cada caso por la S
 
 (Decreto 3788 de 1986 artículo 52)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.6 — Aprobación de licencias del personal aeronáutico
 
 Para los efectos del numeral 8, literal f), del artículo 93 del Estatuto, se expedirá el certificado sobre carencia de informes por narcotráfico a la tripulación que solicite licencia de piloto, ingeniero de vuelo, navegante o auxiliar de vuelo, así como para su adición o renovación.
 
 (Decreto 3788 de 1986 artículo 54)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.7 — Sesiones del comité Técnico Asesor
 
 El Comité Técnico Asesor de Prevención Nacional de la Farmacodependencia se reunirá ordinariamente dos veces al mes, según convocatoria que hará su presidente, por lo menos con cuarenta y ocho horas de antelación y en forma extraordinaria cuando lo cite el Consejo Nacional de Estupefacientes.
 
 (Decreto 3788 de 1986 artículo 55)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.8 — Contravención por falta de aviso a las autoridades
 
@@ -4060,15 +3500,11 @@ g) Use indicativos, letras o números distintos a los que corresponden a la matr
 
 (Decreto 3788 de 1986 artículo 57)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.9 — Inutilización de Pistas de aterrizaje
 
 Cuando existan o se encuentren pistas de aterrizaje sin autorización del Departamento Administrativo de la Aeronáutica Civil, habrá lugar a su inutilización.
 
 (Decreto 3788 de 1986 artículo 58)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.10 — Término para dictar la resolución
 
@@ -4084,13 +3520,11 @@ Sección 1.
 
 Disposiciones generales.
 
-ARTÍCULO
+## art:2.2.2.2.1.1 — 
 
 . 2.2.2.2.1.1. Objeto. El presente capítulo tiene por objeto sistematizar, coordinar y reglamentar algunas disposiciones de los Códigos Nacional de Policía, Sanitario, Penitenciario y Carcelario, Sustantivo del Trabajo y otras normas que establecen limitaciones al porte y al consumo de estupefacientes y sustancias psicotrópicas y fijar los criterios para adelantar programas educativos y de prevención sobre dicha materia.
 
 (Decreto 1108 de 1994, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.2.1.2 — Materias reglamentadas
 
@@ -4122,8 +3556,6 @@ Sección 2
 
 En relación con el código educativo.
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.1 — Prohibición de consumo en establecimientos educativos
 
 Para efectos de los fines educativos, se prohíbe en todos los establecimientos educativos del país, estatales y privados, el porte y consumo de estupefacientes o sustancias psicotrópicas.
@@ -4131,8 +3563,6 @@ Para efectos de los fines educativos, se prohíbe en todos los establecimientos 
 Será obligación de los directivos, docentes y administrativos de los establecimientos educativos que detecten casos de tenencia o consumo de estupefacientes y sustancias psicotrópicas, informar de ello a la autoridad del establecimiento educativo; tratándose de un menor deberá comunicarse tal situación a los padres y al defensor de familia, y se procederá al decomiso de tales productos.
 
 (Decreto 1108 de 1994, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.2 — Reglamentos y manuales de convivencia
 
@@ -4142,15 +3572,11 @@ Es responsabilidad de las secretarías de educación de las entidades territoria
 
 (Decreto 1108 de 1994, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.3 — Deber de información
 
 Los directores y docentes de los establecimientos educativos que detecten entre sus educandos casos de tenencia, tráfico o consumo de sustancias que produzcan dependencia, están obligados a informar a los padres y al defensor de familia para que adopten las medidas de protección correspondientes. El incumplimiento de esta obligación será sancionada en la forma prevista en el Código Educativo y en el Estatuto Docente, según sea el caso.
 
 (Decreto 1108 de 1994, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.4 — Proyectos educativos institucionales
 
@@ -4159,8 +3585,6 @@ Todo establecimiento educativo, estatal o privado deberá incluir en su proyecto
 Para tal efecto se desarrollarán en las instituciones educativas planes de formación a través de seminarios, talleres, encuentros, eventos especiales, foros, pasantías, que posibiliten la reflexión, movilización, participación y organización en torno al fenómeno cultural de las drogas y el desarrollo de propuestas y proyectos escolares y comunitarios como alternativas de prevención integral.
 
 (Decreto 1108 de 1994, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.5 — Procesos de formación en prevención integral
 
@@ -4172,15 +3596,11 @@ PARÁGRAFO . Las instituciones de educación superior desarrollarán además de 
 
 (Decreto 1108 de 1994, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.6 — Procesos de prevención integral
 
 El Ministerio de Educación Nacional fortalecerá, promoverá y orientará en forma permanente y continua procesos de prevención integral a través del sistema educativo y proveerá los recursos humanos físicos y financieros para ello.
 
 (Decreto 1108 de 1994, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.7 — Seguimiento
 
@@ -4191,8 +3611,6 @@ En ejercicio de la facultad de inspección y vigilancia y de conformidad con lo 
 Sección 3
 
 En relación con el Código Nacional de Policía.
-
-ARTÍCULO
 
 ## art:2.2.2.2.3.1 — Prohibición de consumo en lugares públicos o abiertos al público
 
@@ -4206,8 +3624,6 @@ PARÁGRAFO . En todo caso y con independencia del lugar donde se realice la cond
 
 (Decreto 1108 de 1994, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.2.2.3.2 — Deberes de los dueños y administradores de establecimientos públicos o abiertos al público
 
 El dueño, administrador o director del establecimiento público o abierto al público expulsará a quien consuma estupefacientes o sustancias psicotrópicas en tales lugares. En caso de requerir apoyo para tal efecto, acudirá a la respectiva autoridad de policía. Tratándose de menores, se avisará a la autoridad competente para efecto de la aplicación de las medidas a que haya lugar.
@@ -4220,8 +3636,6 @@ En caso de reincidencia se suspenderá el permiso o licencia del establecimiento
 
 (Decreto 1108 de 1994, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.2.2.3.3 — Deberes de información
 
 Los propietarios, gerentes, administradores o concesionarios de hoteles, restaurantes, clubes, bares, hospitales, clínicas y otros establecimientos abiertos al público están obligados a informar a las autoridades competentes sobre la presencia de personas que posean o consuman estupefacientes o sustancias psicotrópicas.
@@ -4229,8 +3643,6 @@ Los propietarios, gerentes, administradores o concesionarios de hoteles, restaur
 (Suprimido por el Art. 7 del Decreto 541 de 2023)
 
 (Decreto 1108 de 1994, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3.4 — Sanciones
 
@@ -4242,8 +3654,6 @@ En caso de reincidencia se dispondrá el cierre definitivo del establecimiento.
 
 (Decreto 1108 de 1994, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.2.2.3.5 — Medidas correctivas
 
 Las autoridades de policía impondrán las medidas correctivas correspondientes a las personas que realicen en lugares o recintos privados reuniones en donde se consuman estupefacientes o sustancias psicotrópicas, que alteren la tranquilidad pública.
@@ -4252,8 +3662,6 @@ Las autoridades de policía impondrán las medidas correctivas correspondientes 
 
 (Decreto 1108 de 1994, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.2.2.3.6 — Medidas transitorias
 
 Las personas que por efecto del consumo de estupefacientes o sustancias psicotrópicas se encuentren en estado de grave excitación que pueda dar lugar a la comisión de una infracción de acuerdo con lo previsto en el Código Nacional de Policía, serán retenidas transitoriamente por la respectiva autoridad de policía.
@@ -4261,8 +3669,6 @@ Las personas que por efecto del consumo de estupefacientes o sustancias psicotr�
 (Suprimido por el Art. 7 del Decreto 541 de 2023)
 
 (Decreto 1108 de 1994, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3.7 — Publicidad
 
@@ -4276,15 +3682,11 @@ Sección 4.
 
 En relación con la Ley 18 de 1991.
 
-ARTÍCULO
-
 ## art:2.2.2.2.4.1 — Prohibición de uso de estupefacientes en actividades deportivas
 
 Prohíbese en todas las actividades deportivas del país el uso de estupefacientes y sustancias psicotrópicas, cuyos efectos procuren artificialmente mejorar el rendimiento, reducir la angustia, disminuir la fatiga o incrementar el poder de los músculos de los competidores, conforme a lo preceptuado por el artículo 1o de la Ley 18 de 1991, sin perjuicio de las demás sustancias y métodos prohibidos por la ley.
 
 (Decreto 1108 de 1994, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.2.2.4.2 — Sanción
 
@@ -4293,8 +3695,6 @@ Los médicos que prescriban con los fines indicados en el artículo anterior tal
 Para los efectos disciplinarios se consideran faltas graves contra la sana competición y la disciplina deportiva, la promoción, incitación o utilización de estupefacientes y sustancias psicotrópicas en las prácticas a que se refiere el artículo 1 de la citada ley, así como la negativa a someterse a los controles exigidos por órganos o personas competentes, o cualquier omisión que impida o perturbe la correcta realización de dichos controles.
 
 (Decreto 1108 de 1994, artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.2.2.4.3 — Sometimiento al régimen sancionatorio de la Ley 18 de 1991
 
@@ -4306,15 +3706,11 @@ Sección 5.
 
 En relación con el Código Penitenciario y Carcelario.
 
-ARTÍCULO
-
 ## art:2.2.2.2.5.1 — Prohibición en los centros de reclusión
 
 Prohíbese a los internos de cualquier establecimiento de reclusión el porte y el consumo de estupefacientes y sustancias psicotrópicas, con base en lo previsto en la Ley 65 de 1993, "por la cual se expide el Código Penitenciario y Carcelario".
 
 (Decreto 1108 de 1994, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.2.2.5.2 — Tratamiento y servicio médico
 
@@ -4323,8 +3719,6 @@ Al interno de cualquier establecimiento de reclusión que porte o consuma estupe
 PARÁGRAFO . De conformidad con el artículo 122 de la Ley 65 de 1993, Código Penitenciario y Carcelario, las sustancias a que se refiere el presente artículo serán decomisadas.
 
 (Decreto 1108 de 1994, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.2.2.5.3 — Prohibición para los miembros del cuerpo de custodia y vigilancia
 
@@ -4338,8 +3732,6 @@ Sección 6.
 
 En relación con las normas sobre armas, municiones y explosivos.
 
-ARTÍCULO
-
 ## art:2.2.2.2.6.1 — Negativa al permiso
 
 De acuerdo con lo previsto en los artículos 33 y 34 del Decreto 2535 de 1993, no se otorgarán permisos para tenencia ni para porte de armas a quienes de conformidad con los resultados del examen de aptitud psicofísica resulten ser adictos a estupefacientes o sustancias psicotrópicas.
@@ -4352,15 +3744,11 @@ A quien consuma o se encuentre bajo el efecto de estupefacientes o sustancias ps
 
 (Artículo MODIFICADO por el Art. 1 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.2.2.6.3 — Reincidencia
 
 Quien reincide en tal conducta o utilice armas, municiones, explosivos o sus respectivos accesorios encontrándose bajo el influjo de estupefacientes o sustancias psicotrópicas, se le impondrá el decomiso de tales elementos y se le cancelará de manera definitiva el permiso de tenencia y porte de los mismos, teniendo en cuenta las normas aplicables del Decreto 2535 de 1993.
 
 (Decreto 1108 de 1994, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.2.2.6.4 — Trámite para sanciones
 
@@ -4372,15 +3760,11 @@ Sección 7
 
 En relación con el Código Sustantivo del Trabajo y el Régimen de los Servidores Públicos.
 
-ARTÍCULO
-
 ## art:2.2.2.2.7.1 — Prohibiciones para los trabajadores
 
 Se prohíbe a todos los empleados presentarse al sitio de trabajo bajo el influjo de estupefacientes o sustancias psicotrópicas, consumirlas o incitarlas a consumirlas en dicho sitio. La violación de esta prohibición constituirá justa causa para la terminación unilateral del contrato de trabajo por parte del patrono, según lo dispuesto por el numeral 11 del artículo 62 del Código Sustantivo del Trabajo.
 
 (Decreto 1108 de 1994, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.2.2.7.2 — Inclusión de la prohibición en los reglamentos internos de trabajo
 
@@ -4389,8 +3773,6 @@ En el reglamento interno de trabajo a que se refieren los artículos 104 a 125 d
 El incumplimiento de esta obligación ocasionará la imposición de las sanciones contempladas en el mismo código.
 
 (Decreto 1108 de 1994, artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.2.2.7.3 — Prohibición durante la jornada laboral
 
@@ -4404,8 +3786,6 @@ Sección 8.
 
 Otras disposiciones de control.
 
-ARTÍCULO
-
 ## art:2.2.2.2.8.1 — Prohibición en actividades riesgosas
 
 Aquellas personas cuya actividad implica un riesgo para los demás o que son de responsabilidad respecto de terceros no podrán usar o consumir estupefacientes o sustancias psicotrópicas durante el desarrollo de su actividad, de conformidad con las normas previstas en los reglamentos y códigos que regulan el ejercicio de la respectiva profesión u oficio.
@@ -4414,15 +3794,11 @@ Para los efectos del presente capítulo, se entiende que desempeñan ese tipo de
 
 (Decreto 1108 de 1994, artículo 41)
 
-ARTÍCULO
-
 ## art:2.2.2.2.8.2 — 8.2
 
 Sanciones La violación de la prohibición establecida en el artículo anterior, dará origen a la imposición de las sanciones de suspensión, inhabilitación, o cancelación definitiva de la licencia o permiso para el ejercicio de la respectiva profesión, actividad u oficio, de conformidad con las normas administrativas y penales que rijan la materia.
 
 (Decreto 1108 de 1994, artículo 42)
-
-ARTÍCULO
 
 ## art:2.2.2.2.8.3 — Remisión a la sanción penal
 
@@ -4436,8 +3812,6 @@ Sección 9.
 
 Prevención integral.
 
-ARTÍCULO
-
 ## art:2.2.2.2.9.1 — Prevención integral
 
 La prevención integral es el proceso de promoción y desarrollo humano y social a través de la formulación y ejecución de un conjunto de políticas y estrategias tendientes a evitar, precaver y contrarrestar las causas y consecuencias del problema de la droga.
@@ -4445,8 +3819,6 @@ La prevención integral es el proceso de promoción y desarrollo humano y social
 En desarrollo de los deberes que les corresponden concurrirán a dicha prevención integral la persona, la familia, la comunidad, la sociedad y el Estado.
 
 (Decreto 1108 de 1994, artículo 44)
-
-ARTÍCULO
 
 ## art:2.2.2.2.9.2 — Entidad encargada de la prevención integral
 
@@ -4464,15 +3836,11 @@ Con el fin de llevar a cabo un proceso de prevención integral del consumo de es
 
 (Decreto 1108 de 1994, artículo 45)
 
-ARTÍCULO
-
 ## art:2.2.2.2.9.3 — Difusión de campañas
 
 En desarrollo del artículo 10 de la Ley 30 de 1986, las estaciones de radiodifusión sonora y las programadoras de televisión que operen en el país deberán difundir campañas destinadas a combatir el tráfico y consumo de drogas que producen dependencia con la duración y periodicidad que determine el Consejo Nacional de Estupefacientes, de acuerdo con reglamentación que dicho organismo expedirá. El Ministerio de Tecnología de la Información y de las Comunicaciones continuará promoviendo y desarrollando la estrategia de comunicación para superar el problema de la droga.
 
 (Decreto 1108 de 1994, artículo 46)
-
-ARTÍCULO
 
 ## art:2.2.2.2.9.4 — Campañas de prevención
 
@@ -4483,8 +3851,6 @@ Corresponde al sector salud, por conducto del, Ministerio de Salud y Protección
 Sección 10
 
 En relación con el Código Sanitario.
-
-ARTÍCULO
 
 ## art:2.2.2.2.10.1 — Obligaciones de los empleadores
 
@@ -4504,15 +3870,11 @@ CAPÍTULO 3.
 
 ORDEN DE CAPTURA CON FINES DE EXTRADICIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.3.1 — Término para librar la orden de captura con fines de Extradición
 
 Para los efectos previstos en el artículo 64 de la Ley 1453 de 2011 que modificó el artículo 484 de la Ley 906 de 2004, a partir del momento en que la persona retenida, mediante notificación roja, sea puesta a disposición del Despacho del Fiscal General de la Nación, éste tendrá un término máximo de cinco (5) días hábiles para librar la orden de captura con fines de extradición, si fuere del caso.
 
 (Decreto 3860 de 2011 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.3.2 — Requisitos de procedibilidad de la orden de captura con fines de extradición
 
@@ -4523,8 +3885,6 @@ Se considera como requisito de procedibilidad de la orden de captura con fines d
 CAPÍTULO 4
 
 APORTES DEL FRISCO AL FONDO DE REPARACIÓN DE VÍCTIMAS
-
-ARTÍCULO
 
 ## art:2.2.2.4.1 — Recursos provenientes de procesos de extinción de dominio
 
@@ -4542,8 +3902,6 @@ PARÁGRAFO 2. El traslado de los recursos se hará a la cuenta que el Fondo para
 
 (Decreto 1366 de 2013 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2 — Actualización de porcentajes
 
 El Consejo Nacional de Estupefacientes podrá evaluar periódicamente, a instancia del Ministerio de Justicia y del Derecho, el comportamiento de las ventas de los bienes y el recibo directo de sumas de dinero, cuyo derecho de dominio haya sido extinguido a favor del Estado a través del FRISCO, con el fin de que el Gobierno Nacional ajuste el porcentaje de los recursos cuya transferencia se establece en el presente capítulo.
@@ -4553,8 +3911,6 @@ El Consejo Nacional de Estupefacientes podrá evaluar periódicamente, a instanc
 CAPÍTULO 5
 
 INVENTARIO DE BIENES INCAUTADOS
-
-ARTÍCULO
 
 ## art:2.2.2.5.1 — 5.1
 
@@ -4569,8 +3925,6 @@ Inventario de Bienes incautados El inventario que levanten las autoridades en la
 4. Mejoras y bienes muebles vinculados a éste y su descripción específica.
 
 (Decreto 306 de 1998, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2 — Medidas administrativas posteriores a la incautación
 
@@ -4670,8 +4024,6 @@ sección 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar los trámites y requisitos para el manejo de sustancias y productos químicos controlados en virtud de lo dispuesto por el Consejo Nacional de Estupefacientes que puedan ser utilizados o destinados, directa o indirectamente en la producción ilícita de drogas, de acuerdo con la normatividad nacional e internacional vigente.
@@ -4680,15 +4032,11 @@ PARÁGRAFO . Sin perjuicio de lo establecido en la presente reglamentación, el 
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.2 — Ámbito de aplicación
 
 Las reglamentaciones referidas en este capítulo se aplicarán a todas las personas naturales y jurídicas que importen, compren, distribuyan, consuman, produzcan, almacenen o realicen actividades con las sustancias y/o productos químicos controlados en virtud de lo dispuesto por el Consejo Nacional de Estupefacientes, en todo el territorio nacional.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.3 — Definiciones
 
@@ -4706,8 +4054,6 @@ Sistema de Información para el Control de Sustancias y Productos Químicos - SI
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.4 — Autoridades de control
 
 De conformidad con el artículo 81 del Decreto Ley 19 de 2012 y el artículo 23 del Decreto 1427 de 2017, el Ministerio de Justicia y del Derecho a través de la Subdirección de Control y Fiscalización de Sustancias Químicas y Estupefacientes, es la autoridad competente para expedir el CCITE y la autorización extraordinaria, para el manejo de sustancias y/o productos químicos controlados, y ejercer el componente administrativo del control.
@@ -4719,8 +4065,6 @@ La Policía Nacional es la autoridad competente para ejercer el componente opera
 Sección 2
 
 Disposiciones comunes a las solicitudes de CCITE y de autorización extraordinaria para el manejo de sustancias y/o productos químicos controlados
-
-ARTÍCULO
 
 ## art:2.2.2.6.2.1 — Presentación de la solicitud
 
@@ -4744,8 +4088,6 @@ Una vez entre en funcionamiento el referido módulo, deberán cumplir con los li
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.2 — Requerimientos
 
 Si como resultado de la revisión de la solicitud se determina que la información o documentación aportada está incompleta o que el solicitante debe realizar alguna gestión adicional necesaria para continuar con el trámite, el Ministerio de Justicia y del Derecho a través de la Subdirección de Control y Fiscalización de Sustancias Químicas y Estupefacientes, requerirá al solicitante dentro de los diez (10) días hábiles siguientes a la fecha de presentación de la solicitud para que, en un periodo máximo de un (1) mes, prorrogable hasta por un término igual a solicitud de parte, allegue la información y documentación necesaria, lapso durante el cual se suspenderá el término para decidir. Lo anterior, de conformidad con lo dispuesto por el artículo 17 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -4754,15 +4096,11 @@ PARÁGRAFO . Lo anterior, sin perjuicio de la documentación e información adic
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.3 — Desistimiento
 
 El solicitante podrá desistir de su solicitud de obtención de CCITE o de autorización extraordinaria en cualquier tiempo, mediante comunicación escrita firmada por el solicitante o representante legal, o sus apoderados, radicada ante el Ministerio de Justicia y del Derecho, momento en el cual se entenderá terminado el trámite, se procederá al archivo del mismo y en consecuencia, a la cancelación de la solicitud en el SICOQ, sin perjuicio de que el solicitante pueda volver a presentar una nueva solicitud, con el lleno de los requisitos, caso en el cual no habrá lugar a la devolución de dinero correspondiente a la tarifa.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2.4 — Decisión de los trámites
 
@@ -4776,15 +4114,11 @@ El Ministerio de Justicia y del Derecho a través de la Subdirección de Control
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.5 — Duración de los trámites
 
 El término para decidir el trámite del CCITE será de hasta sesenta (60) días hábiles contados a partir del cumplimiento de los requisitos y el trámite de expedición de la autorización extraordinaria tendrá una duración de hasta quince (15) días hábiles, contados a partir del cumplimiento de los requisitos, que podrá ser prorrogado en los términos del parágrafo del artículo 14 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2.6 — Recursos
 
@@ -4796,8 +4130,6 @@ Frente a la negación de la solicitud de autorización extraordinaria proceden t
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.7 — Periodicidad de los cupos
 
 El solicitante deberá indicar en la solicitud la periodicidad que requiere para el uso de los cupos, esto es, mensual, semestral o anual, teniendo en cuenta sus condiciones técnicas y/o comerciales debidamente justificadas. El Ministerio de Justicia y del Derecho, a través de la Subdirección de Control y Fiscalización de Sustancias Químicas y Estupefacientes, efectuará el estudio de esas condiciones y aprobará o modificará la periodicidad solicitada.
@@ -4808,8 +4140,6 @@ PARÁGRAFO 2. Para el caso del CCITE expedido a estaciones de servicio y demás 
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.8 — Duplicados del CCITE y de la autorización extraordinaria
 
 El original del CCITE y de la autorización extraordinaria será expedido en papel de seguridad y en ningún evento será transferible, transmisible o cedible a ningún título. Tampoco habrá lugar a la expedición de duplicados o copias.
@@ -4818,23 +4148,17 @@ PARÁGRAFO . En caso de pérdida del original del CCITE, el titular deberá soli
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.9 — Devolución del CCITE y de la autorización extraordinaria
 
 El documento original del CCITE, y/o de la autorización extraordinaria deberá ser devuelto a la Subdirección de Control y Fiscalización de Sustancias Químicas y Estupefacientes, en los eventos en los que el mismo pierda vigencia, se expida uno nuevo que reemplace el anterior, o cuando el usuario no vaya a continuar manejando sustancias o productos químicos controlados.
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2.10 — Concepto técnico de mezclas
 
 Para la emisión del concepto técnico de que trata el artículo 5 de la Resolución 0001 de 2015, respecto de productos químicos y mezclas que contengan en su formulación sustancias y productos químicos controlados, la documentación que se debe allegar consiste en la hoja de datos de seguridad y ficha técnica de la mezcla o producto químico que permitan verificar claramente el cien por ciento de su composición química, su presentación, usos y características físicas y químicas.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2.11 — Publicidad de la información sobre CCITE y de la autorización extraordinaria
 
@@ -4847,8 +4171,6 @@ PARÁGRAFO . De acuerdo con lo establecido por el artículo 261 de la Decisión 
 Sección 3
 
 Clases de solicitudes, requisitos, evaluación y otorgamiento del CCITE
-
-ARTÍCULO
 
 ## art:2.2.2.6.3.1 — Clases de solicitudes de CCITE
 
@@ -4869,8 +4191,6 @@ PARÁGRAFO . En todo caso, cuando se trate de cambios en las condiciones asociad
 4. Estaciones de Servicio y demás agentes de la cadena de combustibles: El CCITE expedido a estaciones de servicios y demás agentes de la cadena de combustibles registrados en el sistema de información de combustibles líquidos - SICOM aplica únicamente para aquellos ubicados en los territorios que se determinen anualmente según lo establecido en el parágrafo 1 del artículo 2 de la Resolución 0001 de 2015 expedida por el Consejo Nacional de Estupefacientes.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.3.2 — Requisitos generales para la solicitud de CCITE
 
@@ -4916,8 +4236,6 @@ PARÁGRAFO 5. En el caso de estaciones de servicio y demás agentes de la cadena
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.3.3 — Requisitos generales de indo/e técnico para la solicitud de CCITE
 
 El solicitante deberá acreditar el cumplimiento de los siguientes requisitos generales de índole técnico, para todas las clases de solicitudes, para cada sede, sustancia y/o producto químico controlado y para todas las actividades requeridas, siempre y cuando no hayan sido previamente aportados o se requiera su actualización, lo cual deberá indicarse expresamente:
@@ -4937,8 +4255,6 @@ PARÁGRAFO 1. Por cada sustancia y/o producto químico solo será aprobada una u
 PARÁGRAFO 2. Para las estaciones de servicio y demás agentes de la cadena de combustibles registrados en el sistema de información de combustibles líquidos -SICOM, el solicitante no deberá aportar los requisitos generales de índole técnico de que trata este artículo, solo deberá aportar a su solicitud los requisitos generales a los que se refiere el artículo 2.2.2.6.3.2. del presente capítulo.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.3.4 — Requisitos específicos de la solicitud por primera vez
 
@@ -4968,15 +4284,11 @@ PARÁGRAFO 3. Cuando la operación del solicitante corresponde a la disposición
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.3.5 — Requisitos de la solicitud por renovación
 
 El solicitante deberá acreditar el cumplimiento de los requisitos generales de que trata el artículo 2.2.2.6.3.2. y los requisitos generales de índole técnico establecidos en el artículo 2.2.2.6.3.3.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.3.6 — Requisitos de la solicitud por sustitución
 
@@ -4985,8 +4297,6 @@ El solicitante deberá acreditar el cumplimiento de los requisitos generales de 
 Cuando la solicitud de sustitución sea por cambios relacionados con la inclusión de una sede, aumento de cupo, inclusión de una sustancia o de una actividad, el solicitante deberá acreditar además de los requisitos indicados en el inciso anterior, los requisitos específicos establecidos en el artículo 2.2.2.6.3.4. de conformidad con las actividades solicitadas.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.3.7 — Vigencia
 
@@ -4999,8 +4309,6 @@ PARÁGRAFO . Para las estaciones de servicio y demás agentes de la cadena de co
 Sección 4
 
 Causales, requisitos, evaluación y otorgamiento de autorización extraordinaria de manejo de sustancias y/o productos químicos controlados
-
-ARTÍCULO
 
 ## art:2.2.2.6.4.1 — Causales de autorización extraordinaria
 
@@ -5028,8 +4336,6 @@ PARÁGRAFO 2. La autorización extraordinaria no procederá cuando no haya un CC
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.4.2 — Requisitos para la solicitud de Autorización Extraordinaria de manejo de sustancias y/o productos químicos controlados
 
 Se deberá presentar la solicitud en el SICOQ conforme al artículo 2.2.2.6.2.1. del presente capítulo y radicar los siguientes documentos soporte:
@@ -5042,8 +4348,6 @@ PARÁGRAFO 1. En todo caso, de conformidad con lo dispuesto por el parágrafo 1 
 
 (Decreto 585 de 2018 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.4.3 — Vigencia de la autorización extraordinaria
 
 El Ministerio de Justicia y del Derecho a través de la Subdirección de Control y Fiscalización de Sustancias Químicas y Estupefacientes asignará la vigencia de las autorizaciones extraordinarias hasta por un periodo máximo de noventa (90) días, de conformidad con la Resolución 0001 de 2015 del Consejo Nacional de Estupefacientes.
@@ -5054,15 +4358,11 @@ Sección 5
 
 Anulación unilateral del CCITE
 
-ARTÍCULO
-
 ## art:2.2.2.6.5.1 — Decisión administrativa de anulación unilateral
 
 El Ministerio de Justicia y del Derecho a través de la Subdirección de Control y Fiscalización de Sustancias Químicas y Estupefacientes decidirá sobre la anulación unilateral del CCITE que se encuentra vigente, de conformidad con lo señalado en el inciso segundo del artículo 82 del Decreto Ley 19 de 2012 y el artículo 23 de la Resolución 0001 de 2015.
 
 (Decreto 585 de 2018 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.5.2 — Recursos
 
@@ -5080,15 +4380,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.7.1.1 — Objeto
 
 El presente capítulo adopta un marco normativo especial, independiente y autónomo sobre el control del riesgo para la salud y el medio ambiente en el marco de la disposición de la destrucción de cultivos ilícitos mediante el método de aspersión aérea.
 
 PARÁGRAFO . Para efectos del presente capítulo, se entenderá que la erradicación de cultivos ilícitos mediante el método de aspersión aérea se refiere a la erradicación de cultivos ilícitos mediante aeronave tripulada.
-
-ARTÍCULO
 
 ## art:2.2.2.7.1.2 — Principios
 
@@ -5097,8 +4393,6 @@ Las actuaciones y procedimientos administrativos relacionados con la evaluación
 SECCIÓN 2
 
 De las actuaciones previas a la destrucción
-
-ARTÍCULO
 
 ## art:2.2.2.7.2.1 — De la destrucción de cultivos ilícitos
 
@@ -5110,15 +4404,11 @@ PARÁGRAFO 1. El Consejo Nacional de Estupefacientes , con el fin de verificar t
 
 PARÁGRAFO 2. Cuando la ejecución del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea sea susceptible de afectar directamente a comunidades étnicas , debe adelantarse el proceso de consulta previa en los términos establecidos en el Convenio 169 de la OIT, adoptado por el Estado colombiano mediante la Ley 21 de 1991, y las normas reglamentarias sobre la materia.
 
-ARTÍCULO
-
 ## art:2.2.2.7.2.2 — Concepto previo del organismo encargado de velar por la salud
 
 El concepto previo del organismo encargado de velar por la salud de que trata el literal g) del artículo 91 de la Ley 30 de 1986, es emitido por el Instituto Nacional de Salud (INS).
 
 Para efectos de que se pronuncie el Instituto Nacional de Salud (INS) el Ministerio de Salud y Protección Social deberá suministrarle el estudio de evaluación del riesgo en salud que tenga disponible, el cual debe cumplir los términos dispuestos en el artículo 2.2.2 .7.6. 1. del presente capítulo.
-
-ARTÍCULO
 
 ## art:2.2.2.7.2.3 — Concepto previo ambiental
 
@@ -5132,8 +4422,6 @@ SECCIÓN 3
 
 DE LA EJECUCIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.7.3.1 — Ejecución
 
 La ejecución del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea está a cargo de la Dirección de Antinarcóticos de la Policía Nacional (DIRAN).
@@ -5143,8 +4431,6 @@ La mencionada ejecución debe ser realizada de conformidad con el acto administr
 Sin perjuicio de aquellas obligaciones establecidas por ley y por reglamento a su actividad, el ejecutor del programa debe presentar mensualmente a la Autoridad Nacional de Licencias Ambientales (ANLA), al Ministerio de Salud y Protección Social, al Instituto Colombiano Agropecuario (ICA) y al Fondo Nacional de Vivienda (FONVIVIENDA), un informe de las operaciones de aspersión que se hayan realizado en el respectivo mes. Para tal efecto, tendrá en cuenta las constancias que obren relacionadas con los reportes de vuelo de localización satelital e informes parciales o finales de monitoreo del programa de erradicación de cultivos ilícitos en el territorio asperjado.
 
 El informe de que trata el presente artículo será insumo para la evaluación continua y la revisión automática de que tratan los artículos 2.2.2.7.4.1 y 2.2.2.7.5.1 del presente capítulo.
-
-ARTÍCULO
 
 ## art:2.2.2.7.3.2 — Control independiente
 
@@ -5158,15 +4444,11 @@ SECCIÓN 4
 
 DEL SEGUIMIENTO
 
-ARTÍCULO
-
 ## art:2.2.2.7.4.1 — Del seguimiento ambiental
 
 La Autoridad Nacional de Licencias Ambientales (ANLA) realiza el seguimiento a los Planes de Manejo Ambiental Específicos del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos, para, entre otros, corroborar el comportamiento de los medios bióticos, abióticos, socioeconómicos y de los recursos naturales renovables frente al desarrollo de la actividad y para verificar la eficiencia y eficacia de las medidas de manejo implementadas en relación con el plan de manejo ambiental. También, para imponer medidas ambientales adicionales a fin de prevenir, mitigar, corregir o compensar impactos no previstos en el plan de manejo ambiental de la actividad y, constatar y exigir el cumplimiento de todos los términos, obligaciones y condiciones que se deriven del Plan de Manejo Ambiental General y los Planes de Manejo Ambiental Específicos y, en general, para los fines establecidos en el artículo 2.2.2.3.9.1.del Decreto 1076 de 2015.
 
 El acto administrativo de seguimiento y control que expida la Autoridad Nacional de Licencias Ambientales (ANLA) para imponer las medidas ambientales adicionales de que trata el inciso anterior, es insumo para la evaluación continua y para la revisión automática de que tratan los artículos 2.2.2.7.4.1 y 2.2.2.7.5.1 del presente capítulo.
-
-ARTÍCULO
 
 ## art:2.2.2.7.4.2 — Seguimiento en salud
 
@@ -5176,8 +4458,6 @@ El Ministerio de salud y Protección Social y sus entidades adscritas y vinculas
 
 El Instituto Nacional de Salud (INS) realizará un informe que contenga el seguimiento en salud de que trata el presente artículo, el cual será insumo para la evaluación continua y la revisión automática de que tratan los artículos 2.2.2.7.5.1 y 2.2.2.7.7.1 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.2.7.4.3 — Apoyo
 
 Para el seguimiento de los programas de erradicación de cultivos ilícitos mediante el método de aspersión aérea, la Autoridad Nacional de Licencias Ambientales (ANLA) y las secretarías departamentales y distritales de salud o quien haga sus veces, en el marco de sus competencias, podrán desplazarse a los lugares de operación. Para tal efecto, la Policía Nacional evaluará las acciones necesarias que garanticen el traslado y la seguridad desde la base de operación más cercana hasta los polígonos de erradicación seleccionados.
@@ -5185,8 +4465,6 @@ Para el seguimiento de los programas de erradicación de cultivos ilícitos medi
 SECCIÓN 5
 
 DE LA EVALUACIÓN CONTINUA DEL RIESGO
-
-ARTÍCULO
 
 ## art:2.2.2.7.5.1 — Criterios de evaluación
 
@@ -5214,8 +4492,6 @@ SECCIÓN 6
 
 DE LA REVISIÓN DE LA LITERATURA Y DE LAS INVESTIGACIONES CIENTÍFICAS
 
-ARTÍCULO
-
 ## art:2.2.2.7.6.1 — De la revisión de la literatura sobre las investigaciones científicas
 
 El Ministerio de Salud y Protección Social y sus entidades adscritas y vinculadas, las entidades científicas adscritas y vinculadas al Ministerio de Ambiente y Desarrollo Sostenible, así como, el Ministerio de Ciencia, Tecnología e Innovación deben, en el marco de sus competencias, revisar la literatura sobre las investigaciones científicas acerca de la sustancia y sobre los efectos del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea en la salud y en el medio ambiente, de acuerdo con la metodología que cada entidad adopte. La metodología debe contar con garantías de rigor, imparcialidad y con reglas que permitan filtrar conflictos de interés.
@@ -5226,8 +4502,6 @@ En todo caso, dicha revisión no puede estar basada en un solo estudio o concept
 
 PARÁGRAFO . La revisión de la literatura de las investigaciones científicas recientes sobre la sustancia utilizada en el programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea en la salud y en el medio ambiente es insumo para las decisiones que adopte el Consejo Nacional de Estupefacientes, la evaluación continua y para la revisión automática de que tratan los artículos 2.2.2.7.2.1., 2.2.2.7.5.1 y 2.2.2.7.7.1 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.2.7.6.2 — De las investigaciones científicas
 
 El Ministerio de Salud y Protección Social y sus entidades adscritas y vinculadas, las entidades científicas adscritas y vinculadas al Ministerio de Ambiente y Desarrollo Sostenible, así como, el Ministerio de Ciencia, Tecnología e Innovación, en el marco de sus competencias, pueden realizar investigaciones científicas sobre los efectos del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea.
@@ -5237,8 +4511,6 @@ Los resultados parciales o definitivos de las investigaciones científicas de qu
 SECCIÓN 7
 
 DE LA REVISIÓN AUTOMÁTICA
-
-ARTÍCULO
 
 ## art:2.2.2.7.7.1 — Revisión de decisiones
 
@@ -5256,8 +4528,6 @@ SECCIÓN 8
 
 REGLAS GENERALES DE LOS EVENTOS EN SALUD Y LAS QUEJAS
 
-ARTÍCULO
-
 ## art:2.2.2.7.8.1 — De los eventos en salud y las quejas
 
 Los eventos en salud y las quejas que presuntamente se deriven de los efectos del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluido sus pilotos, deberán atenderse de forma imparcial, independiente y comprehensiva, de acuerdo con sus competencias, por las Instituciones Prestadoras de Servicios de Salud (IPS), la Autoridad Nacional de Licencias Ambientales (ANLA), el Instituto Colombiano Agropecuario (ICA) y el Fondo Nacional de Vivienda (FONVIVIENDA) de conformidad con lo establecido en el marco jurídico colombiano y en particular la Ley 1437 de 2011, la Ley 1381 de 2010 y el Decreto Ley 2106 de 2019, así corno las demás normas que los modifiquen o sustituyan.
@@ -5270,8 +4540,6 @@ PARÁGRAFO 2. Las quejas que se deriven de los efectos del programa de erradicac
 
 PARÁGRAFO 3. Ante la eventual necesidad de georreferenciar un predio que sea objeto de un evento en salud o queja, la georreferenciación debe ser realizada por las entidades competentes para tramitar y decidir el evento en salud o la queja.
 
-ARTÍCULO
-
 ## art:2.2.2.7.8.2 — Divulgación
 
 Las secretarías de salud o las entidades que hagan sus veces, la Autoridad Nacional de Licencias Ambientales (ANLA), el Instituto Colombiano Agropecuario (ICA) y el Fondo Nacional de Vivienda (FONVIVIENDA) deben mantener a disposición de la ciudadanía información completa y actualizada de los procedimientos para queja y atención de eventos en el marco del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea.
@@ -5280,13 +4548,9 @@ Adicionalmente, la Dirección de Política de Drogas y Actividades Relacionadas 
 
 El ejecutor del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, previo al inicio de operaciones en determinado territorio, debe divulgar la información relacionada con las características y alcance de las actividades a realizar con las comunidades presentes en el territorio determinado para la aspersión.
 
-ARTÍCULO
-
 ## art:2.2.2.7.8.3 — Consulta de información previa para la evaluación de eventos en salud y las quejas
 
 La Autoridad Nacional de Licencias Ambientales (ANLA), el Instituto Colombiano Agropecuario (ICA), el Fondo Nacional de Vivienda (FONVIVIENDA) y las secretarias de salud departamentales y distritales, consultarán en el repositorio de que trata el parágrafo 2 del artículo 2.2.2.7.5.1. la información de las operaciones de aspersión que se hayan realizado en aquellas zonas relacionadas con el quejoso o con el paciente que haya sido atendido por un evento en salud.
-
-ARTÍCULO
 
 ## art:2.2.2.7.8.4 — Contenido de las quejas por posibles afectaciones a bienes agropecuarios lícitos, viviendas y ambientales
 
@@ -5308,15 +4572,11 @@ SECCIÓN 9
 
 DE LOS EVENTOS DE SALUD
 
-ARTÍCULO
-
 ## art:2.2.2.7.9.1 — Atención de eventos en salud
 
 Para toda persona que consulte por un evento en salud, presuntamente derivado del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos, o que consulte por cualquier otro evento y que, a criterio del médico tratante, esté relacionado con el mencionado programa, se activará, por parte de este profesional, la «Ruta para la atención de situaciones de salud relacionadas con la aspersión aérea de cultivos de uso ilícito», protocolo que expedirá el Ministerio de Salud y Protección Social previo a la ejecución del programa. Igualmente, el citado profesional reportará el evento al Sistema de Vigilancia en Salud Pública (SIVIGILA) de que trata el Capítulo 1 del Título 8 de la Parte 8 del Libro 2 del Decreto 780 de 2016.
 
 Cuando cualquier autoridad conozca de un evento en salud, bien sea de un particular o de una comunidad, que pudiera estar relacionado con el programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, deberá dirigir a los presuntos afectados a cualquier institución prestadora de servicios de salud pública o privada para que sean atendidos y se gestione en los términos de la «Ruta para la atención de situaciones de salud relacionadas con la aspersión aérea de cultivos de uso ilícito».
-
-ARTÍCULO
 
 ## art:2.2.2.7.9.2 — Gestión de eventos en salud
 
@@ -5326,29 +4586,21 @@ SECCIÓN 10
 
 DE LAS QUEJAS POR PRESUNTOS INCUMPLIMIENTOS AL PLAN DE MANEJO AMBIENTAL.
 
-ARTÍCULO
-
 ## art:2.2.2.7.10.1 — Quejas por presuntos incumplimientos a las medidas contempladas en el Plan de Manejo Ambiental
 
 La Autoridad Nacional de Licencias Ambientales (ANLA) se encargará de tramitar y decidir las quejas que se presenten por presuntos incumplimientos a las medidas contempladas en el Plan de Manejo Ambiental de los programas de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos.
 
 En todo caso, la Autoridad Nacional de Licencias Ambienta les (ANLA), puede imponer al titular del plan de manejo ambiental las obligaciones que resulten necesarias para efectos de conjurar las causas que sustentan la queja.
 
-ARTÍCULO
-
 ## art:2.2.2.7.10.2 — 0.2
 
 Presentación y radicación de quejas por presuntos incumplimientos a las medidas contempladas en el Plan de Manejo Ambiental. Cualquier persona podrá poner en conocimiento de la Autoridad Nacional de Licencias Ambientales (ANLA), verbalmente, por escrito, y a través de cualquier medio idóneo para la comunicación o transferencia de datos, los presuntos incumplimientos a las medidas contempladas en el Plan de Manejo Ambiental de los programas de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos.
-
-ARTÍCULO
 
 ## art:2.2.2.7.10.3 — Verificación de las quejas por presuntos incumplimientos a las medidas contempladas en el Plan de Manejo Ambiental
 
 La Autoridad Nacional de Licencias Ambientales (ANLA) puede, entre otras actividades, realizar visitas al lugar de la queja, con el fin de corroborar técnicamente los hechos que dieron lugar a ella.
 
 Para tal efecto, la Policía Nacional adelantará las acciones necesarias que garanticen el traslado y la seguridad desde la base de operación más cercana hasta el lugar de la queja.
-
-ARTÍCULO
 
 ## art:2.2.2.7.10.4 — Respuesta a la queja por presuntos incumplimientos a las medidas contempladas en el Plan de Manejo Ambiental
 
@@ -5370,33 +4622,23 @@ SECCIÓN 11
 
 DE LAS POSIBLES AFECTACIONES A BIENES AGROPECUARIOS LÍCITOS
 
-ARTÍCULO
-
 ## art:2.2.2.7.11.1 — Quejas por posibles afectaciones a bienes agropecuarios lícitos
 
 Instituto Colombiano Agropecuario (ICA) se encargará de tramitar y decidir las quejas que se presenten, en el marco de los programas de erradicación de cultivos ilícitos mediante el método de aspersión aérea, por las eventuales afectaciones a bienes agropecuarios lícitos.
-
-ARTÍCULO
 
 ## art:2.2.2.7.11.2 — Presentación y radicación de quejas por posibles afectaciones a bienes agropecuarios lícitos
 
 Las personas que consideren que sus bienes agropecuarios lícitos han sido afectados por el programa de erradicación de cultivos ilícitos, mediante el método de aspersión aérea, incluidos sus pilotos, podrán presentar ante el Instituto Colombiano Agropecuario (ICA) la queja correspondiente verbalmente, o por escrito, y a través de cualquier medio idóneo para la comunicación o transferencia de datos.
 
-ARTÍCULO
-
 ## art:2.2.2.7.11.3 — Verificación de las quejas por posibles afectaciones a bienes agropecuarios lícitos
 
 El Instituto Colombiano Agropecuario (ICA) podrá realizar visitas al lugar de la queja, con el fin de corroborar técnicamente los hechos que dieron lugar a ella. Para tal efecto, la Policía Nacional adelantará las acciones necesarias que garanticen el traslado y la seguridad de las personas encargadas de realizar la visita desde la base de operación más cercana hasta el lugar de la queja.
-
-ARTÍCULO
 
 ## art:2.2.2.7.11.4 — Respuesta a la queja por posibles afectaciones a bienes agropecuarios lícitos
 
 La queja por posibles afectaciones a bienes agropecuarios lícitos deberá resolverse en los términos del artículo 14 de la Ley 1437 de 2011 y demás normas que lo modifiquen o sustituyan. Cuando, excepcionalmente, no fuere posible resolver la queja en el plazo señalado, el Instituto Colombiano Agropecuario (ICA) deberá informar esta circunstancia al quejoso, antes del vencimiento del término señalado, expresando los motivos de la demora y, a la vez, el plazo razonable en que se resolverá o dará respuesta, el cual no podrá exceder del doble del inicialmente previsto.
 
 PARÁGRAFO . En todo caso, el Instituto Colombiano Agropecuario (ICA) resolverá las quejas de acuerdo con lo dispuesto en la Ley 1437 de 2011 y demás normas que la modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.2.7.11.5 — Cumplimiento por parte de la Dirección de Antinarcóticos de la Policía Nacional -DIRAN
 
@@ -5406,33 +4648,23 @@ SECCIÓN 12
 
 DE LAS POSIBLES AFECTACIONES A VIVIENDAS
 
-ARTÍCULO
-
 ## art:2.2.2.7.12.1 — Quejas por posibles afectaciones a viviendas
 
 El Fondo Nacional de Vivienda (FONVIVIENDA) se encargará de tramitar y decidir las quejas que se presenten, en el marco de las operaciones del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluido sus pilotos, por las eventuales afectaciones a viviendas.
-
-ARTÍCULO
 
 ## art:2.2.2.7.12.2 — Presentación y radicación de quejas por posibles afectaciones a viviendas
 
 Las personas que consideren que sus viviendas han sido afectadas por las operaciones del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos, podrán presentar ante el Fondo Nacional de Vivienda (FONVIVIENDA) la queja correspondiente verbalmente, o por escrito, y a través de cualquier medio idóneo para la comunicación o transferencia de datos.
 
-ARTÍCULO
-
 ## art:2.2.2.7.12.3 — Verificación de las quejas por posibles afectaciones a viviendas
 
 El Fondo Nacional de Vivienda (FONVIVIENDA) podrá realizar visitas al lugar de la queja, con el fin de corroborar técnicamente los hechos que dieron lugar a ella. Para tal efecto, la Policía Nacional adelantará las acciones necesarias que garanticen el traslado y la seguridad desde la base de operación más cercana hasta el lugar de la queja.
-
-ARTÍCULO
 
 ## art:2.2.2.7.12.4 — Respuesta a la queja por posibles afectaciones a viviendas
 
 La queja por posibles afectaciones a viviendas deberá resolverse en los términos del artículo 14 de la Ley 1437 de 2011 y demás normas que lo modifiquen o sustituyan. Cuando, excepcionalmente, no fuere posible resolver la queja en el plazo señalado, el Fondo Nacional de Vivienda (FONVIVIENDA) deberá informar esta circunstancia al quejoso, antes del vencimiento del término señalado, expresando los motivos de la demora y, a la vez, el plazo razonable en que se resolverá o dará respuesta, el cual no podrá exceder del doble del inicialmente previsto.
 
 PARÁGRAFO . En todo caso, el Fondo Nacional de Vivienda (FONVIVIENDA) resolverá las quejas de acuerdo con lo dispuesto en la Ley 1437 de 2011 y demás normas que la modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.2.7.12.5 — Otorgamiento de Subsidio de Mejoramiento de Vivienda
 
@@ -5444,21 +4676,15 @@ SECCIÓN 13
 
 MECANISMOS ORDINARIOS DE PARTICIPACIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.7.13.1 — Participación efectiva
 
 La participación ciudadana efectiva deberá garantizarse antes, durante y después de la ejecución del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos. El acceso a la participación ciudadana seguirá las reglas contenidas en el ordenamiento jurídico colombiano, en particular la Ley 1437 de 2011 y demás normas que la modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.2.7.13.2 — Participación efectiva en la decisión
 
 De conformidad con lo dispuesto en el artículo 8, numeral 8, de la Ley 1437 de 2011, y con el fin de que los ciudadanos o grupos de interés, a través de opiniones, sugerencias o propuestas alternativas participen en la decisión de reanudar o no la destrucción de cultivos ilícitos mediante el método de aspersión aérea, el Consejo Nacional de Estupefacientes deberá publicar el proyecto de acto administrativo en el que se adopte tal decisión, en el sitio web que disponga la secretaría técnica del Consejo Nacional de Estupefacientes.
 
 La Dirección de Política de Drogas y Actividades Relacionadas del Ministerio de Justicia y del Derecho, en su calidad de secretaría técnica del Consejo Nacional de Estupefacientes, dará respuesta a las observaciones, a través del informe de observaciones y respuestas que será publicado durante el término que disponga el Consejo Nacional de Estupefacientes en el sitio web de todas las entidades de Gobierno nacional que forman parte del mencionado Consejo.
-
-ARTÍCULO
 
 ## art:2.2.2.7.13.3 — Participación efectiva por parte del ejecutor
 
@@ -5468,8 +4694,6 @@ Para ello, el ejecutor del programa deberá anunciar a las autoridades locales y
 
 El ejecutor del programa, una vez realizadas las operaciones de aspersión, garantizará espacios de participación efectiva con las autoridades locales y con la ciudadanía en general, en los que se permita formular sus peticiones, en relación con la operación ejecutada, las cuales serán tramitadas y atendidas en los términos del artículo 14 de la Ley 1437 de 2011, sustituida por el artículo 1 de la Ley 1755 de 2015. Las conclusiones de los espacios de participación serán incluidas en el informe mensual de que trata el artículo 2.2.2. 7.2.5 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.2.7.13.4 — Participación efectiva en el seguimiento en salud
 
 Los informes que contienen el seguimiento en salud serán publicados por el Instituto Nacional de Salud (INS) y se enviarán a las Secretarías de salud departamentales, distritales o las que hagan sus veces para que lo divulguen con los medios locales.
@@ -5478,8 +4702,6 @@ Si la ciudadanía tiene observaciones acerca de los resultados divulgados en los
 
 Los informes que contienen el seguimiento en salud serán considerados por el Instituto Nacional de Salud (INS), en el marco de la evaluación continua del riesgo de que trata el artículo 2.2.2.7.5.1 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.2.7.13.5 — Participación efectiva ante la Autoridad Nacional de Licencias Ambientales (ANLA)
 
 Los modos y procedimientos de participación establecidos en el Título IX de la Ley 99 de 1993 y desarrollados en el Decreto 1076 de 2015 serán aplicables a las decisiones administrativas que emita la Autoridad Nacional de Licencias Ambientales (ANLA) en torno a la evaluación o el seguimiento del programa de erradicación de cultivos ilícitos mediante el método de aspersión aérea, incluidos sus pilotos.
@@ -5487,8 +4709,6 @@ Los modos y procedimientos de participación establecidos en el Título IX de la
 SECCIÓN 14
 
 DE LOS RECURSOS
-
-ARTÍCULO
 
 ## art:2.2.2.7.14.1 — Recursos
 
@@ -6184,23 +5404,17 @@ Sección 1
 
 Aspectos Generales
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.1 — De los derechos protegidos por la acción de tutela
 
 De conformidad con el artículo 1 del Decreto 2591 de 1991, la acción de tutela protege exclusivamente los derechos constitucionales fundamentales, y por lo tanto, no puede ser utilizada para hacer respetar derechos que sólo tienen rango legal, ni para hacer cumplir las leyes, los decretos, los reglamentos o cualquiera otra norma de rango inferior.
 
 (Decreto 306 de 1992 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.2 — De cuando no existe amenaza de un derecho constitucional fundamental
 
 Se entenderá que no se encuentra amenazado un derecho constitucional fundamental por el sólo hecho de que se abra o adelante una investigación o averiguación administrativa por la autoridad competente con sujeción al procedimiento correspondiente regulado por la ley.
 
 (Decreto 306 de 1992 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.3 — De los principios aplicables para interpretar el procedimiento previsto por el Decreto 2591 de 1991
 
@@ -6210,8 +5424,6 @@ Cuando el juez considere necesario oír a aquél contra quien se haya hecho la s
 
 (Decreto 306 de 1992 artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.4 — De la notificación de las providencias a las partes
 
 De conformidad con el artículo 16 del Decreto 2591 de 1991 todas las providencias que se dicten en el trámite de una acción de tutela se deberán notificar a las partes o a los intervinientes. Para este efecto son partes la persona que ejerce la acción de tutela y el particular, la entidad o autoridad pública contra la cual se dirige la acción de tutela de conformidad con el artículo 13 del Decreto 2591 de 1991.
@@ -6220,23 +5432,17 @@ El juez velará porque de acuerdo con las circunstancias, el medio y la oportuni
 
 (Decreto 306 de 1992 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.5 — Del contenido del fallo de tutela
 
 De conformidad con lo dispuesto en el artículo 29, numeral 3 del Decreto 2591 de 1991, el Juez deberá señalar en el fallo el derecho constitucional fundamental tutelado, citar el precepto constitucional que lo consagra, y precisar en qué consiste, la violación o amenaza del derecho frente a los hechos del caso concreto.
 
 (Decreto 306 de 1992 artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.6 — 
 
 2.2.3.1.1.6 De los efectos de las decisiones de revisión de la corte constitucional y de las decisiones sobre las impugnaciones de fallos de tutela. Cuando el juez que conozca de la impugnación o la Corte Constitucional al decidir una revisión, revoque el fallo de tutela que haya ordenado realizar una conducta, quedarán sin efecto dicha providencia y la actuación que haya realizado la autoridad administrativa en cumplimiento del fallo respectivo.
 
 (Decreto 306 de 1992 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.7 — Imposición de sanciones
 
@@ -6247,8 +5453,6 @@ Para efectos de lo dispuesto en el artículo 52 del Decreto 2591 de 1991, cuando
 Sección 2
 
 Reglas para el reparto de la acción de tutela
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.1 — Reparto de la acción de tutela
 
@@ -6294,8 +5498,6 @@ El Defensor del Pueblo o los personeros municipales, en el marco de sus competen
 
 (Decreto 1382 de 2000 artículo 1, modificado por el artículo 1 del Decreto 1983 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.2 — Reparto en caso de existencia de varios despachos judiciales de la misma jerarquía
 
 Cuando en la localidad donde se presente la acción de tutela funcionen varios despachos judiciales de la misma jerarquía y especialidad de aquél en que, conforme al artículo anterior, resulte competente para conocer de la acción, la misma se someterá a reparto que se realizará el mismo día y a la mayor brevedad.
@@ -6308,15 +5510,11 @@ En desarrollo de la labor de reparto, el funcionario encargado podrá remitir a 
 
 (Decreto 1382 de 2000 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.3 — 
 
 2.2.3.1.2.3 Acumulación de decisiones El juez que aboque el conocimiento de varias acciones de tutela con identidad de objeto, podrá decidir en una misma sentencia sobre todas ellas, siempre y cuando se encuentre dentro del término previsto para ello.
 
 (Decreto 1382 de 2000 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.4 — 2.4
 
@@ -6327,8 +5525,6 @@ PARÁGRAFO 1. Estos reglamentos internos deberán prever los asuntos relacionado
 (Modificado por el Art. 2 del Decreto 333 de 2021)
 
 (Decreto 1382 de 2000 artículo 4 modificado por el artículo 2 del Decreto 1983 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.5 — Transitoriedad
 
@@ -6342,8 +5538,6 @@ Sección 3
 
 Reglas de reparto de acciones de tutela masivas
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.1 — Reparto de acciones de tutela masivas
 
 Las acciones de tutela que persigan la protección de los mismos derechos fundamentales, presuntamente amenazados o vulnerados por una sola y misma acción u omisión de una autoridad pública o de un particular se asignarán, todas, al despacho judicial que, según las reglas de competencia, hubiese avocado en primer lugar el conocimiento de la primera de ellas.
@@ -6353,8 +5547,6 @@ A dicho Despacho se remitirán las tutelas de iguales características que con p
 Para tal fin, la autoridad pública o el particular contra quienes se dirija la acción deberán indicar al juez competente, en el informe de contestación, la existencia de acciones de tutela anteriores que se hubiesen presentado en su contra por la misma acción u omisión, en los términos del presente artículo, señalando el despacho que, en primer lugar, avocó conocimiento, sin perjuicio de que el accionante o el juez previamente hayan podido indicar o tener conocimiento de esa situación.
 
 (Decreto 1834 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.2 — Remisión del expediente
 
@@ -6371,8 +5563,6 @@ PARÁGRAFO . Con el fin de mantener una distribución equitativa de procesos ent
 Para tal fin, el juez que reciba el proceso deberá informar del hecho a la oficina de reparto para contabilizar los expedientes a cargo del despacho.
 
 (Decreto 1834 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.3 — Acumulación y fallo
 
@@ -6396,15 +5586,11 @@ Intervención discrecional de la Agencia Nacional de Defensa Jurídica del Estad
 
 (Incluida por el artículo 2 Decreto 2137 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1 — Intervención discrecional de la Agencia Nacional de Defensa Jurídica del Estado
 
 La Agencia Nacional de Defensa Jurídica del Estado podrá intervenir en los procesos que se tramiten en cualquier jurisdicción, siempre que en ellos se controviertan intereses litigiosos de la Nación y el asunto cumpla con los criterios establecidos por el Consejo Directivo de la Agencia Nacional de Defensa Jurídica del Estado.
 
 (Decreto 1365 de 2013 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.2 — Intereses litigiosos de la Nación
 
@@ -6426,8 +5612,6 @@ PARÁGRAFO . El Secretario General de la Agencia Nacional de Defensa Jurídica d
 
 (Decreto 1365 de 2013 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.3 — Notificación de autos admisorios y de mandamientos de pago a la Agencia Nacional de Defensa Jurídica del Estado
 
 La notificación a la que se refiere el inciso 6 del artículo 612 de la Ley 1564 de 2012 de autos admisorios de demanda y de mandamientos de pago, únicamente será procedente cuando se trate de procesos donde se encuentren involucrados intereses litigiosos de la Nación, en los términos previstos en el parágrafo del artículo 2 del Decreto-ley 4085 de 2011 y el presente capítulo
@@ -6436,15 +5620,11 @@ PARÁGRAFO . Para efectos de las notificaciones personales que se deban realizar
 
 (Decreto 1365 de 2013 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.4 — Entrega de copia de solicitud de conciliación extrajudicial a la Agencia Nacional de Defensa Jurídica del Estado
 
 En desarrollo del artículo 613 de la Ley 1564 de 2012, el peticionario que solicite conciliación extrajudicial deberá acreditar la entrega de copia a la Agencia cuando el asunto involucre intereses litigiosos de la Nación, en los términos previstos en el parágrafo del artículo 2 del Decreto-ley 4085 de 2011 y el presente capítulo
 
 (Decreto 1365 de 2013 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.5 — Contenido de los conceptos sobre extensión de jurisprudencia
 
@@ -6460,8 +5640,6 @@ PARÁGRAFO . La valoración de las pruebas y la verificación de los supuestos d
 
 (Decreto 1365 de 2013 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.6 — Alcance de los conceptos sobre extensión de jurisprudencia
 
 Los conceptos que la Agencia Nacional de Defensa Jurídica del Estado rinda a una entidad pública serán aplicables a todas las demás peticiones de extensión de jurisprudencia que se presenten ante ella con base en la misma sentencia o en otra que reitere su contenido.
@@ -6469,8 +5647,6 @@ Los conceptos que la Agencia Nacional de Defensa Jurídica del Estado rinda a un
 Si la entidad pública solicita un nuevo concepto sobre el mismo fallo, la Agencia Nacional de Defensa Jurídica del Estado podrá remitirse a los conceptos anteriores, en virtud de lo dispuesto en el inciso 2o del artículo 19 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1365 de 2013 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.7 — Aplicación de la decisión extendida
 
@@ -6490,8 +5666,6 @@ Subsección 1.
 
 Mediación de conflictos entre entidades públicas del orden nacional
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.1 — Objeto de la mediación
 
 La mediación de la Agencia Nacional de Defensa Jurídica del Estado consiste en facilitar y procurar que las entidades públicas, de manera voluntaria, logren un acuerdo que ponga fin a los conflictos de carácter judicial o extrajudicial, actual o eventual, que puedan presentarse entre ellos.
@@ -6508,8 +5682,6 @@ La función de mediación será responsabilidad de la Dirección de Asesoría Le
 
 (Decreto 2137 de 2015, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.3 — Resultado de la mediación
 
 La solución del conflicto sometido a la mediación de la Agencia Nacional de Defensa Jurídica del Estado, se concretará a través de cualquier acto o negocio jurídico que la posibilite, de acuerdo con la legislación nacional vigente.
@@ -6519,8 +5691,6 @@ La solución que se adopte deberá indicar con claridad las circunstancias de ti
 Las entidades que acudan a la Agencia Nacional de Defensa Jurídica del Estado, se comprometerán a cumplir con lo acordado en la mediación y su inobservancia generará las consecuencias propias de incumplir el acto o negocio jurídico que se haya convenido para solucionar el conflicto.
 
 (Decreto 2137 de 2015, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.1.4 — Responsabilidad derivada de la mediación
 
@@ -6532,15 +5702,11 @@ La participación de la Agencia Nacional de Defensa Jurídica del Estado en la m
 
 (Decreto 2137 de 2015, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.5 — Confidencialidad
 
 Sin perjuicio de la publicidad y acceso a los documentos públicos, todos los participantes en el trámite de mediación respetarán el carácter confidencial del conflicto y, por lo tanto, no registrarán ni divulgarán las discusiones, opiniones, propuestas de acuerdo y manifestaciones realizadas dentro de las sesiones de mediación, salvo expresa disposición contraria de las partes.
 
 (Decreto 2137 de 2015, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.1.6 — Autorización y Procedencia de la mediación
 
@@ -6564,8 +5730,6 @@ SECCIÓN 3.
 
 SOLICITUD Y PUBLICIDAD DE LAS SENTENCIAS PENALES POR LA COMISIÓN DE DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA, O DE CUALQUIERA DE LOS DELITOS O FALTAS CONTEMPLADAS POR LA LEY 1474 DE 2011 Y SUS NORMAS MODIFICATORIAS O DE CUALQUIERA DE LAS CONDUCTAS DELICTIVAS CONTEMPLADAS POR LAS CONVENCIONES O TRATADOS DE LUCHA CONTRA LA CORRUPCIÓN SUSCRITOS Y RATIFICADOS POR COLOMBIA, ASÍ COMO DE LAS SANCIONES ADMINISTRATIVAS POR CONDUCTAS DE SOBORNO TRASNACIONAL.
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.1 — 3.1
 
 TRÁMITE PARA SOLICITAR LAS SENTENCIAS PENALES CONDENATORIAS Y LAS SANCIONES ADMINISTRATIVAS PROFERIDAS POR AUTORIDADES EXTRANJERAS. Cuando la Agencia Nacional de Defensa Jurídica del Estado advierta la posible inhabilidad de un proponente en los términos del literal j del artículo 8 de la ley 80 de 1993, dicha entidad pedirá formalmente al Ministerio de Relaciones Exteriores que solicite a través de canal diplomático las sentencias penales o sanciones administrativas proferidas en contra de dichas personas naturales y/o jurídicas que se presumen inmersas en las conductas contempladas en el literal j del numeral 1 del artículo 8 de la Ley 80 de 1993, así como los actos administrativos que declaran la responsabilidad de personas jurídicas por conductas de soborno transnacional.
@@ -6573,8 +5737,6 @@ TRÁMITE PARA SOLICITAR LAS SENTENCIAS PENALES CONDENATORIAS Y LAS SANCIONES ADM
 La decisión que sea remitida por el Estado al cual se elevó la solicitud, en el marco del procedimiento anterior, deberá cumplir a cabalidad con los requisitos del artículo 251 del Código General del Proceso.
 
 PARÁGRAFO . Para las solicitudes de las sentencias penales en contra de personas naturales proferidas por autoridades judiciales de Estados con los cuales la República de Colombia tiene un tratado de asistencia judicial vigente, se surtirá el trámite previsto en el respectivo instrumento. La documentación recibida por esta vía estará sujeta a las condiciones de legalización debidamente acordadas en el tratado.
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.2 — DE LA PUBLICIDAD DE LAS DECISIONES PROFERIDAS POR AUTORIDADES EXTRANJERAS
 
@@ -6588,8 +5750,6 @@ Cuando se trate de sanciones administrativas proferidas contra personas jurídic
 
 PARÁGRAFO . En caso de que la sentencia de primera instancia o la sanción administrativa, no se encuentre ejecutoriada, tal situación será informada por la Agencia Nacional de Defensa Jurídica del Estado a la Cámara de Comercio correspondiente, para efectos de la inscripción a en el Registro Único de Proponentes (RUP) a la que hace referencia el presente artículo. Cuando la Agencia Nacional de Defensa Jurídica del Estado tenga conocimiento de que las decisiones inscritas acorde con lo establecido en el presente artículo sean revocadas, solicitarán tales decisiones, observando el mismo procedimiento aquí establecido, y las remitirá a la Cámara de Comercio correspondiente, con la solicitud del levantamiento de la anotación de inhabilidad del Registro Único de Proponentes (RUP).
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.3 — DE LA PUBLICIDAD DE LAS SENTENCIAS PROFERIDAS POR JUECES PENALES COLOMBIANOS
 
 Sin perjuicio de lo establecido en el artículo 2.2.1.1.1.5. 7 del Decreto 1082 de 2015, la Agencia Nacional de Defensa Jurídica del Estado tomará las medidas necesarias para que, mediante la integración o interacción del Siste.ma Único de Gestión e Información de la actividad litigiosa de la Nación con el Sistema de Información de la Rama Judicial, se obtengan las sentencias condenatorias en primera instancia, contra personas naturales que hayan cometido delitos contra la Administración Pública o cualquiera de los delitos contemplados en la Ley 1474 de 2011 y sus normas modificatorias.
@@ -6602,13 +5762,9 @@ PARÁGRAFO 1. En caso de que la sentencia de primera instancia, no se encuentre 
 
 PARÁGRAFO 2. La información señalada en el presente artículo se entenderá solicitada en los términos del artículo 16 del Decreto Ley 2150 de 1995, modificado por el artículo 14 de la Ley 962 de 2005 y del artículo 227 de la Ley 1450 de 2011, modificado por el artículo 159 de la Ley 1753 de 2015, así como las demás normas que los modifiquen.
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.4 — COMPETENCIA OE LA SUPERINTENDENCIA DE SOCIEDADES
 
 Cuando la declaratoria de responsabilidad administrativa por haber incurrido en la conducta de soborno transnacional, de una persona jurídica o de una sucursal de sociedad extranjera con domicilio en Colombia, haya sido declarada por parte de la Superintendencia de Sociedades en los términos del artículo 2 de la Ley 1778 de 2016, el plazo de la inhabilidad será el que haya impuesto esa entidad con fundamento en el procedimiento establecido en el numeral 2 del artículo 5 y en el artículo 19 de la Ley 1778 indicada.
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.5 — INHABILIDAD SOBREVINIENTE
 
@@ -7174,8 +6330,6 @@ Subsección 2.
 
 Lista Única de Mediadores de la Agencia Nacional De Defensa Jurídica Del Estado
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.2.1 — Inclusión en la Lista Única de Mediadores
 
 Los requisitos mínimos para formar parte de la Lista Única de Mediadores son:
@@ -7191,8 +6345,6 @@ Los requisitos mínimos para formar parte de la Lista Única de Mediadores son:
 La Agencia Nacional de Defensa Jurídica del Estado mediante resolución establecerá la forma en que se conformará la Lista Única de Mediadores y demás aspectos relacionadas con ésta, incluido el procedimiento para la selección de los mediadores.
 
 (Decreto 2137 de 2015, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.2.2 — Deberes del Mediador
 
@@ -7220,23 +6372,17 @@ Subsección 3.
 
 Seguimiento y Trámite
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.2.3.1 — Seguimiento
 
 La Dirección de Defensa Jurídica de la Agencia Nacional de Defensa Jurídica del Estado realizará acompañamiento permanente a la mediación y seguimiento al cumplimiento de los acuerdos alcanzados a través de ésta por las entidades y organismos del orden nacional. Así mismo, las entidades y organismos deberán impulsar las gestiones administrativas o judiciales requeridas para dar cumplimiento a lo acordado y enviar informes oportunos a la Agencia Nacional de Defensa Jurídica del Estado para el seguimiento que corresponda.
 
 (Decreto 2137 de 2015, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.2.3.2 — Lineamientos para el trámite de mediación y la administración de la Lista Única de Mediadores
 
 La Dirección General de la Agencia Nacional de Defensa Jurídica establecerá mediante resolución la forma como se realizará la mediación, el seguimiento a las mediaciones adelantadas, así como, las reglas conforme las cuales la Dirección de Defensa Jurídica organizará y/o administrará la Lista Única de Mediadores.
 
 (Decreto 2137 de 2015, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.2.3.3 — Terminación de la mediación
 
@@ -7254,8 +6400,6 @@ CAPÍTULO 3.
 
 ASESORÍA EN LOS PROCESOS DE DEFENSA JUDICIAL
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Alcance de la asesoría
 
 En virtud del artículo 46 de la Ley 1551 de 2012, la Agencia Nacional de Defensa Jurídica del Estado brindará asesoría a los municipios de 4a, 5a y 6a categoría mediante recomendaciones generales en materia de embargos proferidos en procesos ejecutivos y contenciosos contra recursos del sistema general de participación, regalías y rentas propias con destinación específica para el gasto social. De los municipios de acuerdo con el artículo 45 de la misma Ley.
@@ -7264,15 +6408,11 @@ PARÁGRAFO : La asesoría que brinde la Agencia no se extenderá a los casos o p
 
 (Decreto 58 de 2014 artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2 — Formas de acceder a la asesoría
 
 La Agencia Nacional de Defensa Jurídica del Estado brindará a los municipios de 4a, 5a y 6a categoría la asesoría descrita en el artículo anterior, principalmente a través de un enlace especial en su página web en la que serán publicados los documentos generados por dicha entidad;
 
 (Decreto 58 de 2014 artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.3.3.3 — Grupo de Asesoría Municipal
 
@@ -7281,8 +6421,6 @@ La Agencia Nacional de Defensa Jurídica del Estado creará un grupo interno de 
 PARÁGRAFO : La creación del grupo a que hace referencia el presente artículo no implica la modificación de la actual planta de personal de la Agencia Nacional de Defensa Jurídica del Estado.
 
 (Decreto 58 de 2014 artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4 — Representación judicial
 
@@ -7298,8 +6436,6 @@ Sección 1
 
 Sistema de información litigiosa del estado
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.1 — Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado
 
 El Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado - eKOGUI es el único sistema de gestión de información del Estado para el seguimiento de las actividades y procesos inherentes a la actividad arbitral, judicial y extrajudicial del Estado, ante las autoridades nacionales e internacionales, en consecuencia, es la fuente oficial de la información sobre la actividad litigiosa del Estado.
@@ -7312,8 +6448,6 @@ Cualquier información que las entidades reporten sobre su actividad litigiosa a
 
 (Decreto 2052 de 2014 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.2 — Objetivo
 
 El Sistema Único de Gestión e Información de la Actividad Litigiosa Estado - eKOGUI tendrá como objetivo impulsar la adecuada gestión del riesgo fiscal asociado a la actividad judicial, extrajudicial y arbitral del Estado, mediante el monitoreo y gestión los procesos y casos que se deriven de aquella actividad, sin perjuicio de la función constitucional y legal atribuida a la Contraloría General de la República.
@@ -7323,8 +6457,6 @@ El Sistema brindará mecanismos focalizados para generar conocimiento, formular 
 (Modificado por el Art. 2 del Decreto 104 de 2025)
 
 (Decreto 2052 de 2014 artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.3 — Ámbito de aplicación
 
@@ -7342,8 +6474,6 @@ PARÁGRAFO 3. Las entidades fiduciarias que actúen como liquidadoras de entidad
 
 (Decreto 2052 de 2014 artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.4 — 1.4
 
 Lineamientos para control, administración y dirección del Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado -eKOGUI. Los lineamientos generales para el control, administración y dirección del Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado -eKOGUI, serán definidos por el Consejo Directivo de la Agencia Nacional de Defensa Jurídica del Estado y tendrán carácter vinculante para las entidades que y organismos deben reportar información al sistema eKOGUI.
@@ -7359,8 +6489,6 @@ Los protocolos, lineamientos e instructivos para la implementación y uso adecua
 (Modificado por el Art. 2 del Decreto 104 de 2025) 
 
 (Decreto 2052 de 2014 artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.6 — Usuarios del Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado - eKOGUI
 
@@ -7390,8 +6518,6 @@ PARÁGRAFO 2. La Agencia de Defensa Jurídica Estado podrá crear y disponer los
 
 (Decreto 2052 de 2014 artículo 6).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.7 — Responsabilidades del rol de jefe de la Oficina Asesora Jurídica de la entidad o quien haga sus veces en eKOGUI
 
 Le corresponde al(la) jefe de la Oficina Asesora Jurídica o quien haga sus veces frente al Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado - eKOGUI:
@@ -7410,8 +6536,6 @@ Fomentar en los usuarios de la entidad la capacitación en las herramientas del 
 
 (Decreto 2052 de 2014 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.8 — 1.8
 
 Responsabilidad del(la) Representante Legal de la Entidad y designación del administrador de la información reportada en Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado - eKOGUI. Los(as) representantes legales de las entidades que reportan información al Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado - eKOGUI deberán, en el marco de sus competencias relacionadas con el direccionamiento estratégico de la entidad, propender por el registro oportuno y la actualización permanente de la información relacionada con las actuaciones y estado de los procesos que reportan. Para estos efectos deberán adoptar mecanismos internos y designar un administrador del Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado -eKOGUI.
@@ -7423,8 +6547,6 @@ PARÁGRAFO. Los(as) representantes legales de las entidades y organismos del ord
 (Modificado por el Art. 2 del Decreto 104 de 2025)
 
 (Decreto 2052 de 2014 artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.9 — Responsabilidades del rol de administrador(a) de eKOGUI en la entidad
 
@@ -7449,8 +6571,6 @@ Hacer seguimiento permanente a la actualización de conciliaciones, procesos jud
 (Modificado por el Art. 2 del Decreto 104 de 2025)
 
 (Decreto 2052 de 2014 artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.10 — Responsabilidades del rol de abogados(as) que representen a la entidad en eKOGUI
 
@@ -7482,8 +6602,6 @@ PARÁGRAFO 3. La información registrada en el Sistema Único Gestión e Informa
 
 (Decreto 2052 de 2014 artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.11 — Responsabilidades de quien ejerza la secretaría técnica del Comité de Conciliación en eKOGUI
 
 Le corresponde a quien ejerza la secretaria técnica del Comité de Conciliación de la entidad pública frente al Sistema Único de Gestión e Información de la Actividad Litigiosa del Estado - eKOGUI:
@@ -7502,8 +6620,6 @@ PARÁGRAFO. Para el caso de las entidades territoriales, el registro de la Polí
 
 (Decreto 2052 de 2014 artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.12 — Responsabilidades del jefe financiero(a) o quien haga sus veces en eKOGUI
 
 Le corresponde al(la) jefe financiero(a) o quien haga sus veces frente al Sistema Único de Gestión e información la Actividad Litigiosa del Estado - eKOGUI:
@@ -7517,8 +6633,6 @@ Vigilar que la entidad tenga registrados los datos relacionados con el ciclo fin
 (Modificado por el Art. 2 del Decreto 104 de 2025) 
 
 (Decreto 2052 de 2014 artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.13 — .13
 
@@ -7535,8 +6649,6 @@ PARÁGRAFO . Dentro del marco de sus competencias funcionales, los usuarios del 
 (Modificado por el Art. 2 del Decreto 104 de 2025) 
 
 (Decreto 2052 de 2014 artículo 13).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.14 — Responsabilidades del rol de jefe de Control Interno o quien haga sus veces en eKOGUI
 
@@ -7559,8 +6671,6 @@ Los(as) representantes legales de las entidades destinatarias de este capítulo 
 (Modificado por el Art. 2 del Decreto 104 de 2025) 
 
 (Decreto 2052 de 2014 artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.16 — .16
 
@@ -7604,13 +6714,9 @@ Sección 2
 
 Información sobre procesos judiciales en entidades en liquidación
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.1 — Suprimido por el Art
 
 6, Decreto Nacional 1167 de 2016.
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.2 — Contenido del informe
 
@@ -7636,8 +6742,6 @@ El informe o inventario de procesos y reclamaciones contendrá la siguiente info
 
 (Decreto 414 de 2001, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.3 — Defensa de la entidad en liquidación
 
 De conformidad con el parágrafo 2 del artículo 25 y el inciso 2 del artículo 35 del Decreto 254 de 2000, el liquidador, como representante legal de la entidad en liquidación, continuará atendiendo los procesos judiciales y las reclamaciones, dentro del proceso de liquidación y hasta tanto se efectúe la entrega integral de los inventarios.
@@ -7646,15 +6750,11 @@ Si terminado el proceso de liquidación sobreviven a éste procesos judiciales o
 
 (Decreto 414 de 2001, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.4 — Entrega de archivos de procesos y reclamaciones
 
 Terminado el proceso de liquidación, y para la adecuada atención de los procesos judiciales o reclamaciones que le sobreviven a este, los archivos de los mismos serán remitidos a la entidad que, de conformidad con el parágrafo 1o. del artículo 52 de la Ley 489 de 1998, haya sido señalada en el acto que ordenó la liquidación como receptora de los inventarios de bienes y subrogatoria de los derechos y obligaciones de la entidad liquidada.
 
 (Decreto 414 de 2001, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.5 — Suprimido por el Art
 
@@ -7663,8 +6763,6 @@ ARTÍCULO
 CAPÍTULO 5.
 
 FACULTADES DEL JUEZ EN EL MARCO DE LA LEY 1561 DE 2012
-
-ARTÍCULO
 
 ## art:2.2.3.5.1 — Continuidad del procedimiento
 
@@ -7680,15 +6778,11 @@ En todo caso el juez podrá adelantar el proceso con la información recaudada, 
 
 (Decreto 1409 de 2014 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2 — Autoridades competentes
 
 Las autoridades competentes a que se refiere el artículo 12 de la Ley 1561 de 2012 son aquellas con jurisdicción en el lugar del inmueble objeto del proceso.
 
 (Decreto 1409 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.5.3 — Acceso gratuito a registros públicos
 
@@ -7706,15 +6800,11 @@ Sección 1
 
 Aspectos Generales
 
-ARTÍCULO
-
 ## art:2.2.3.6.1.1 — Campo de aplicación
 
 El presente capítulo aplica a los bienes o recursos de que tratan los artículos 5 y 6 de la Ley 1615 de 2013, y en general a todos los bienes administrados por el Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación (FEAB).
 
 (Decreto 696 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.2 — Administración de bienes
 
@@ -7723,8 +6813,6 @@ El Fondo Especial para la Administración de Bienes de la Fiscalía General de l
 Los sistemas de administración para tal fin, serán los que desarrolle el Fiscal General de la Nación, de conformidad con lo establecido por el artículo 16 de la mencionada ley.
 
 (Decreto 696 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.3 — Principios
 
@@ -7736,15 +6824,11 @@ Sección 2.
 
 Registro Público Nacional de Bienes.
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.1 — Administración y fines del registro público nacional de bienes
 
 Corresponde al Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación (FEAB) la administración del Registro Público Nacional de Bienes, creado por la Ley 1615 de 2013. El Registro Público tiene como finalidad servir de medio para publicitar la información de los bienes a que hacen referencia el numeral segundo y el parágrafo primero del artículo 6o de la Ley 1615 de 2013, permitiendo el control ciudadano, atendiendo entre otros, los principios constitucionales de transparencia, responsabilidad y publicidad.
 
 (Decreto 696 de 2014 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2 — Bienes susceptibles del registro público nacional de bienes
 
@@ -7762,8 +6846,6 @@ c) El producto de la enajenación, frutos, dividendos, utilidades, intereses, re
 
 (Decreto 696 de 2014 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.3 — Contenido del registro público nacional de bienes
 
 En el Registro Público Nacional de Bienes se consignará, como mínimo, la siguiente información:
@@ -7780,23 +6862,17 @@ PARÁGRAFO . El Registro Público Nacional de Bienes deberá estar soportado en 
 
 (Decreto 696 de 2014 artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.4 — Publicación del registro
 
 La Fiscalía General de la Nación debe disponer los mecanismos necesarios que permitan la consulta de la información que no tiene reserva legal, de los bienes incorporados al Registro Público Nacional de Bienes en la página web de la entidad.
 
 (Decreto 696 de 2014 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.5 — Eliminación del registro
 
 Una vez acaecidos los requisitos establecidos en el artículo 8o de la Ley 1615 de 2013 se procederá a la eliminación de la información publicada en el Registro Público Nacional de Bienes.
 
 (Decreto 696 de 2014 artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.6 — Inventario físico de los bienes por parte de la autoridad de policía judicial
 
@@ -7850,8 +6926,6 @@ En el inventario que debe levantar la autoridad responsable de hacer efectiva la
 
 (Decreto 696 de 2014 artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.7 — Recepción del bien
 
 Al momento de ingresar el bien al lugar establecido por el Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación (FEAB), el funcionario responsable de la recepción del bien debe levantar un inventario físico del mismo.
@@ -7867,8 +6941,6 @@ PARÁGRAFO . No se considerará que existen inconsistencias cuando la diferencia
 Sección 3
 
 Devolución de bienes.
-
-ARTÍCULO
 
 ## art:2.2.3.6.3.1 — Devolución de bienes
 
@@ -7886,8 +6958,6 @@ Sección 4
 
 Declaración de abandono del bien.
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.1 — Inicio de la actuación administrativa
 
 Vencido el término de los quince (15) días siguientes a la fecha de recibo de la comunicación de la orden de devolución del bien de que trata el artículo 89 de la Ley 906 de 2004, la autoridad judicial competente informará tal circunstancia al Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación (FEAB).
@@ -7898,8 +6968,6 @@ Además de la publicación de que trata el inciso anterior, el Acto Administrati
 
 (Decreto 696 de 2014 artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.2 — Comunicación a terceros
 
 Cuando el Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación (FEAB) advierta que con la decisión que se adopte en desarrollo de la actuación administrativa se puedan afectar directamente terceras personas, les comunicará la existencia de la actuación y el objeto de la misma, con el fin de que puedan intervenir en la actuación y hacer valer sus derechos.
@@ -7908,15 +6976,11 @@ La comunicación se surtirá en los términos del artículo 37 del Código de Pr
 
 (Decreto 696 de 2014 artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.3 — Pruebas
 
 Durante la actuación administrativa se podrán aportar, pedir y practicar pruebas de oficio o a petición del interesado, en los términos del artículo 40 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 696 de 2014 artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.4 — Decisión
 
@@ -7926,15 +6990,11 @@ En firme el acto administrativo que declara el abandono, deberá hacerse la anot
 
 (Decreto 696 de 2014 artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.5 — Recursos
 
 Contra el acto administrativo que declare el abandono del bien procederá únicamente el recurso de reposición en los términos del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 696 de 2014 artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.6 — Remisión normativa
 
@@ -7945,8 +7005,6 @@ Los asuntos no previstos en el presente reglamento se regularán con el Código 
 CAPÍTULO 7.
 
 REMATE POR COMISIONADO.
-
-ARTÍCULO
 
 ## art:2.2.3.7.1 — Comisionados
 
@@ -7960,8 +7018,6 @@ c) Los Martillos legalmente autorizados, de acuerdo con lo establecido en el Dec
 
 (Decreto 890 de 2003 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2 — Petición de la comisión
 
 El juez de conocimiento, a petición de quien tenga derecho a solicitar el remate - o interesado-, deberá comisionar al Notario, a la Cámara de Comercio o al Martillo legalmente autorizado, dentro o fuera de la sede del juzgado, para adelantar la diligencia de remate.
@@ -7973,8 +7029,6 @@ En la petición, el interesado deberá autorizar expresamente al juez para que d
 El juez deberá comisionar a quien se le solicite y el comisionado no podrá rechazar la comisión, salvo por causas legales. Si se presentan varias peticiones, el juez atenderá la que primero haya sido radicada en su despacho.
 
 (Decreto 890 de 2003 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.7.3 — Tarifa administrativa
 
@@ -8004,8 +7058,6 @@ La devolución del despacho comisorio, cuando fuere el caso, interrumpe el térm
 
 (Artículo MODIFICADO por el Art. 2 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.3.7.4 — Tarifa por adjudicación
 
 La Tarifa por Adjudicación a que tienen derecho los comisionados será la siguiente:
@@ -8034,8 +7086,6 @@ c) Cuando quien solicite el remate sea el acreedor de remanentes, la Tarifa por 
 
 (Artículo MODIFICADO por el Art. 3 del Decreto 2640 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.3.7.5 — Devolución del comisorio
 
 El comisionado remitirá al comitente toda la documentación relacionada con la actuación que se haya cumplido.
@@ -8043,8 +7093,6 @@ El comisionado remitirá al comitente toda la documentación relacionada con la 
 Cuando no hubiere remate por falta de postores, el comisionado remitirá inmediatamente al comitente la comisión para que este resuelva lo que corresponda.
 
 (Decreto 890 de 2003 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.7.6 — Gestión de promoción para el remate
 
@@ -8062,8 +7110,6 @@ Sección 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.1 — Intervención del defensor de familia y del Ministerio Público
 
 De conformidad con los artículos 5o. y 12 de la Ley 575 de 2000, en cualquier actuación en que se encuentren involucrados menores de edad, el defensor de familia, o en su defecto el personero municipal del lugar de ocurrencia de los hechos, deberán intervenir para lo de su competencia.
@@ -8071,8 +7117,6 @@ De conformidad con los artículos 5o. y 12 de la Ley 575 de 2000, en cualquier a
 Si de los hechos se infiere que el menor de edad ha cometido una infracción a la ley penal, se remitirá la actuación al funcionario competente una vez dictadas las medidas de protección respectivas.
 
 (Decreto 652 de 2001, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.8.1.2 — Informalidad de la petición de medida de protección
 
@@ -8082,23 +7126,17 @@ Para efecto de evaluar la idoneidad del medio utilizado de acuerdo con el princi
 
 (Decreto 652 de 2001, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.3 — Término para presentar la petición de medida de protección
 
 De conformidad con el artículo 5o. de la Ley 575 de 2000, la petición de una medida de protección por un hecho de violencia intrafamiliar, podrá presentarse a más tardar dentro de los treinta (30) días siguientes a su acaecimiento, pero cuando la víctima manifestare bajo la gravedad del juramento que por encierro, incomunicación o cualquier otro acto de fuerza o violencia proveniente del agresor, se encontraba imposibilitada para comparecer, el término empezará a correr en los hechos de violencia intrafamiliar instantáneos desde el día de la consumación y desde la perpetración del último acto en los tentados o permanentes.
 
 (Decreto 652 de 2001, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.4 — Corrección de la petición y deber de información
 
 La petición a que se refiere el artículo 10 de la Ley 294 de 1996 podrá ser corregida, actuación ésta que será comunicada al presunto agresor. El que interponga la acción deberá manifestar bajo la gravedad de juramento que no ha presentado otra respecto de los mismos hechos. Lo anterior de conformidad con lo previsto en los artículos 17 y 37 en su inciso segundo del Decreto 2591 de 1991.
 
 (Decreto 652 de 2001, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.8.1.5 — Término y trámite de la audiencia e inasistencia de las partes sin excusa válida
 
@@ -8107,8 +7145,6 @@ En ningún caso el término de la audiencia podrá exceder de diez (10) días co
 Si una o ambas partes no comparecen a la audiencia, ni presentan excusa válida de su inasistencia, ésta se celebrará, con el fin de decretar y practicar las pruebas solicitadas por las partes y las que de oficio el funcionario competente estime conducentes para el esclarecimiento de los hechos y dictará la resolución o sentencia que corresponda al finalizar la audiencia.
 
 (Decreto 652 de 2001, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.3.8.1.6 — Criterios para adelantar la conciliación y determinar la medida de protección
 
@@ -8132,8 +7168,6 @@ h) Precisar la obligación de cumplimiento de los compromisos adquiridos por los
 
 (Decreto 652 de 2001, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.7 — Prueba pericial
 
 Los dictámenes a los que se refiere el artículo 6o. de la Ley 575 de 2000, podrán solicitarse al Instituto Nacional de Medicina Legal y Ciencias Forenses, en sus diferentes sedes distribuidas en todo el territorio nacional. En los lugares donde no exista dependencia de Medicina Legal, podrán solicitarse a los médicos oficiales y del Servicio Social Obligatorio.
@@ -8144,8 +7178,6 @@ La práctica de estos dictámenes no generará ningún costo para las personas a
 
 (Decreto 652 de 2001, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.8 — Arresto
 
 De conformidad con el artículo 11 de la Ley 575 de 2000, la orden de arresto prevista se expedirá por el juez de familia o promiscuo de familia, o en su defecto por el juez civil municipal o promiscuo, mediante auto motivado, con indicación del término y lugar de reclusión.
@@ -8154,23 +7186,17 @@ Para su cumplimiento se remitirá oficio al comandante de policía municipal o D
 
 (Decreto 652 de 2001, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.9 — Cumplimiento de las medidas de protección
 
 De conformidad con el artículo 2o. de la Ley 575 de 2000, emitida una medida de protección, en orden a su cumplimiento, la autoridad que la impuso, de ser necesario, podrá solicitar la colaboración de las autoridades de policía para que se haga efectiva.
 
 (Decreto 652 de 2001, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.10 — Sanciones por incumplimiento de las medidas de protección
 
 De conformidad con el artículo 11 de la Ley 575 de 2000, el trámite de las sanciones por incumplimiento de las medidas de protección se realizará, en lo no escrito con sujeción a las normas procesales contenidas en el Decreto 2591 de 1991, en sus artículos 52 y siguientes del capítulo V de sanciones.
 
 (Decreto 652 de 2001, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.3.8.1.11 — Trámite de la apelación
 
@@ -8182,15 +7208,11 @@ Sección 2
 
 Competencias de las Comisarías de Familia, la Fiscalía General de la Nación, los Juzgados Civiles y los Jueces de Control de Garantías
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.1 — Objeto
 
 La presente sección tiene por objeto reglamentar las Leyes 294 de 1996, 575 de 2000 y 1257 de 2008, en relación con las competencias de las Comisarías de Familia, la Fiscalía General de la Nación, los Juzgados Civiles y los Jueces de Control de Garantías, de manera que se garantice el efectivo acceso de las mujeres a los mecanismos y recursos que establece la ley para su protección, como instrumento para erradicar todas las formas de violencia contra ellas.
 
 (Decreto 4799 de 2011, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.2 — Autoridades competentes
 
@@ -8204,8 +7226,6 @@ Cuando los casos lleguen a la Fiscalía General de la Nación por situaciones de
 
 (Decreto 4799 de 2011, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.3 — Deberes
 
 De conformidad con los principios y medidas consagradas en los artículos 3o. y 20 de la Ley 294 de 1996, los funcionarios competentes en la aplicación de las normas previstas para la acción de violencia intrafamiliar, deberán:
@@ -8215,8 +7235,6 @@ De conformidad con los principios y medidas consagradas en los artículos 3o. y 
 2. Informar a los intervinientes sobre los derechos de la víctima, los servicios gubernamentales y privados disponibles para la atención del maltrato intrafamiliar, así como de las consecuencias de la conducta al agresor, o del incumplimiento de las obligaciones pactadas en el acuerdo o de la medida de protección que imponga la autoridad competente, según sea la naturaleza y gravedad de los hechos.
 
 (Decreto 652 de 2001, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.4 — Medidas de protección
 
@@ -8278,15 +7296,11 @@ PARÁGRAFO 3. Decretadas las medidas de protección, la autoridad competente deb
 
 (Decreto 4799 de 2011, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.5 — Decisiones
 
 De conformidad con los artículos 2o. y 6o. de la Ley 575 de 2000, la providencia que imponga medida de protección provisional o definitiva, será motivada.
 
 (Decreto 652 de 2001, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.6 — Derecho de las mujeres a no ser confrontadas con el agresor
 
@@ -8299,8 +7313,6 @@ Con la manifestación de la mujer víctima de no conciliar quedará agotada la e
 En el trámite de las medidas de protección, este derecho se garantizará en relación con la etapa de conciliación ante cualquiera de las autoridades competentes.
 
 (Decreto 4799 de 2011, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.7 — Medidas de protección en casos de violencia en ámbitos diferentes al familiar
 
@@ -8324,8 +7336,6 @@ Las víctimas de violencia en ámbitos diferentes al familiar, tendrán derecho 
 
 (Decreto 4799 de 2011, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.8 — Incumplimiento de las medidas de protección por parte del agresor
 
 De conformidad con lo previsto en los artículos 7 y 11 de la Ley 294 de 1996, modificados por los artículos 4 y 6 de la Ley 575 de 2000, en caso de incumplimiento de las medidas de protección definitivas o provisionales, se adelantarán las siguientes acciones:
@@ -8335,8 +7345,6 @@ a) Las multas se consignarán en las tesorerías distritales o municipales, con 
 b) El arresto procederá a solicitud del Comisario de Familia y será decretado por el Juez de Familia, o en su defecto, por el Juez Civil Municipal o Promiscuo Municipal quien deberá ordenarlo en la forma prevista en el artículo 11 de la Ley 575 de 2000 en concordancia con el artículo 2.2.3.8.1.10., de este capítulo y disponer su cumplimiento, comunicando a la Policía Nacional para que proceda a la aprehensión de quien incumplió, y al posterior confinamiento en establecimiento de reclusión, sin que sea posible sustituirlo por arresto domiciliario.
 
 (Decreto 4799 de 2011, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.9 — Notificaciones
 
@@ -8350,23 +7358,17 @@ PARÁGRAFO . Las partes deberán informar a la Comisaría de Familia o Juzgado q
 
 (Decreto 4799 de 2011, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.10 — Medidas de protección y conciliación
 
 Siempre que se adelante una mediación o conciliación en las medidas de protección, en cualquier etapa del proceso, la autoridad competente podrá ordenar una o más medidas de protección, especialmente dirigidas al cumplimiento de lo acordado, a prevenir o evitar que los hechos de violencia se repitan y a la protección de la víctima, de conformidad con lo previsto por los artículos 13 de la Ley 294 de 1996 y 8 de la Ley 575 de 2000, en concordancia con el artículo 2.2.3.8.1.6., de este capítulo.
 
 (Decreto 4799 de 2011, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.11 — Comisarías de Familia
 
 Lo referente a los lineamientos técnicos en materia de competencias, procedimientos y acciones relacionados con las funciones de atención a las violencias basadas en género por parte de las Comisarías de Familia y demás autoridades administrativas con funciones jurisdiccionales, serán definidos por el Ministerio de Justicia y del Derecho de conformidad con lo estipulado en el numeral 11 del artículo 14 del Decreto Ley 2897 de 2011.
 
 (Decreto 4799 de 2011, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.12 — Interpretación
 
@@ -8382,15 +7384,11 @@ Sección 1
 
 Creación, organización y composición de las Comisarías de Familia
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.1 — Responsabilidad para la creación, composición y organización de las Comisarías de Familia
 
 Para dar cumplimiento a la obligación señalada en la Ley 1098 de 2006, para la creación, composición y organización de las Comisarías de Familia, a partir de la vigencia fiscal 2008, los distritos y municipios deberán incorporar en el Plan Operativo Anual de Inversiones y en el presupuesto de la entidad territorial, un rubro que asegure el desarrollo del objeto misional de la Comisaría de Familia.
 
 (Decreto 4840 de 2007, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.2 — Financiación de las Comisarías de Familia
 
@@ -8405,8 +7403,6 @@ PARÁGRAFO 1. Dentro de la autonomía prevista en los numerales 1 y 6 del artíc
 PARÁGRAFO 2. Corresponderá al Departamento Administrativo de la Función Pública asistir técnicamente y capacitar a las entidades territoriales en la organización e implementación de las Comisarías de Familia, en la creación de esta dependencia, la modificación de la planta de personal, el ajuste a los manuales de funciones y competencias laborales, conforme a la normativa vigente, en particular a la Ley 909 de 2004, el Decreto-ley 785 de 2005 y los Decretos 1227 y 2239 de 2005 y las normas que los compilen sustituyan, modifiquen o adicionen.
 
 (Decreto 4840 de 2007, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.3 — Clasificación de los municipios por densidad de población
 
@@ -8426,8 +7422,6 @@ Segunda categoría. Todos aquellos distritos o municipios con población compren
 
 (Decreto 4840 de 2007, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.4 — Número de Comisarías de Familia en proporción a la densidad de población
 
 Para atender eficientemente las necesidades del servicio, los distritos y municipios contarán con Comisarías de Familia según la densidad de población, así:
@@ -8445,8 +7439,6 @@ Los municipios de mediana y menor densidad de población contarán al menos con 
 PARÁGRAFO . El número de Comisarías de Familia de los distritos o municipios a que se refiere el presente artículo deberá aumentarse atendiendo a otros factores relacionados con las necesidades del servicio, tales como dispersión de la población, recurrencia de la problemática de violencia intrafamiliar, maltrato infantil u otros aspectos asociados a las problemáticas sociales, que corresponderá determinar a cada entidad territorial dentro de su autonomía.
 
 (Decreto 4840 de 2007, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.5 — Comisarías de Familia en los municipios de menor densidad de población
 
@@ -8476,8 +7468,6 @@ PARÁGRAFO 4. Los departamentos, en cumplimiento de los principios de subsidiari
 
 (Decreto 4840 de 2007, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.6 — Inscripción de las Comisarías de Familia
 
 Los distritos y municipios inscribirán ante las Oficinas de los Directores Regionales y Seccionales del Instituto Colombiano de Bienestar Familiar, las Comisarías de Familia que se encuentren funcionando en su territorio y las que se creen o implementen en cumplimiento del artículo 84 parágrafo 2 de la Ley 1098 de 2006, indicando la naturaleza distrital, municipal o intermunicipal de las mismas, lugar de ubicación, personal que las integra, modalidad de funcionamiento y horarios de atención.
@@ -8491,8 +7481,6 @@ PARÁGRAFO . Los municipios no podrán suprimir las Comisarías de Familia que h
 Sección 2
 
 Funcionamiento y competencias de las Defensorías de Familia y de las Comisarías de Familia
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.1 — Competencias del Defensor de Familia y del Comisario de Familia
 
@@ -8518,8 +7506,6 @@ PARÁGRAFO 3. Toda actuación administrativa que pueda obstaculizar, retardar o 
 
 (Decreto 4840 de 2007, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.2 — Conciliación extrajudicial en materia de familia
 
 De conformidad con lo establecido en el artículo 47 de la Ley 23 de 1991, 31 de la Ley 640 de 2001 y 30 del Decreto 1818 de 1998, la conciliación extrajudicial en derecho de familia podrá ser adelantada ante los conciliadores de los centros de conciliación, ante los defensores y comisarios de familia, los delegados regionales y seccionales de la Defensoría del Pueblo, los agentes del Ministerio Público ante las autoridades judiciales y administrativas en asuntos de familia y ante los notarios en los siguientes asuntos:
@@ -8542,15 +7528,11 @@ PARÁGRAFO . A falta de las anteriores autoridades en el respectivo municipio, l
 
 (Decreto 4840 de 2007, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.3 — Función de articulación
 
 Los lineamientos técnicos que fije el Instituto Colombiano de Bienestar Familiar de conformidad con la responsabilidad que le señala la ley, servirán de guía y serán un instrumento orientador en la aplicación del Código de Infancia y Adolescencia, y una vez adoptados por acto administrativo son vinculantes para las autoridades administrativas competentes en el restablecimiento de los derechos de niños, niñas y adolescentes.
 
 (Decreto 4840 de 2007, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.4 — Funciones de apoyo de los equipos interdisciplinarios de las Defensorías de Familia y de las Comisarías de Familia
 
@@ -8562,8 +7544,6 @@ b) Realizar las entrevistas a que se refiere el artículo 105 de la Ley 1098 de 
 
 (Decreto 4840 de 2007, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.5 — Seguimiento de las medidas de protección o de restablecimiento
 
 En los términos del inciso 2 del artículo 96 de la Ley 1098 de 2006, para el seguimiento de las medidas de protección o de restablecimiento de derechos adoptadas por los Defensores de Familia o Comisarios de Familia, estos deberán remitir de manera inmediata al Coordinador del Centro Zonal o Seccional del Instituto Colombiano de Bienestar Familiar, o quien haga sus veces, información y copia de la decisión correspondiente debidamente ejecutoriada.
@@ -8571,8 +7551,6 @@ En los términos del inciso 2 del artículo 96 de la Ley 1098 de 2006, para el s
 La anterior se entiende sin perjuicio de la obligación que les asiste a los Defensores y Comisarios de Familia para hacer seguimiento y evaluación de las medidas definitivas de restablecimiento de derechos, que adopten en desarrollo de sus funciones.
 
 (Decreto 4840 de 2007, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.6 — Modificado por el Art
 
@@ -8592,23 +7570,17 @@ Sección 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.3.10.1.1 — Objeto
 
 El presente capítulo tiene como objeto regular los procedimientos para el recaudo e inversión de los recursos que integran el Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, en los términos de la Ley 1743 de 2014.
 
 (Decreto 272 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.10.1.2 — Ámbito de aplicación
 
 El presente capítulo aplicará a las entidades obligadas por la Ley 1743 de 2014 a realizar actuaciones en relación con el Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, en especial al Consejo Superior de la Judicatura, el Banco Agrario de Colombia S.A., el Ministerio de Justicia y del Derecho y la Unidad de Servicios Penitenciarios y Carcelarios USPEC.
 
 (Decreto 272 de 2015, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.10.1.3 — Liquidación de intereses
 
@@ -8622,8 +7594,6 @@ Sección 2
 
 Reporte y reclamación de depósitos judiciales
 
-ARTÍCULO
-
 ## art:2.2.3.10.2.1 — Reporte del Banco Agrario sobre los depósitos judiciales en condición especial y depósitos judiciales no reclamados
 
 De manera periódica durante los primeros cinco (5) días hábiles de cada mes, el Banco Agrario de Colombia S.A., enviará un reporte al Consejo Superior de la Judicatura en el que indique:
@@ -8633,8 +7603,6 @@ De manera periódica durante los primeros cinco (5) días hábiles de cada mes, 
 2. La información que posea sobre la fecha en que fue constituido el depósito judicial, el despacho judicial que conoció del proceso, el nombre y número de identificación del demandante y demandado y el número de radicado del proceso.
 
 (Decreto 272 de 2015, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.3.10.2.2 — 2.2
 
@@ -8664,8 +7632,6 @@ PARÁGRAFO 3. Los valores de los depósitos judiciales que a la fecha de entrada
 
 (Decreto 272 de 2015, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.10.2.3 — 2.3
 
 Transferencia de los recursos correspondientes a los depósitos judiciales en condición especial y depósitos judiciales no reclamados. Dentro del mes siguiente a la fecha de recibo del formato de conversión de que trata el numeral 4 del artículo anterior, el Banco Agrario de Colombia S.A. deberá transferir a las cuentas bancarias que para tal efecto determine el Consejo Superior de la Judicatura para la administración del Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, los montos de todos los depósitos judiciales que, de acuerdo con el formato de conversión de depósitos judiciales enviado por el Consejo Superior de la Judicatura, prescribieron de pleno derecho a favor de la Nación - Rama Judicial.
@@ -8675,8 +7641,6 @@ Transferencia de los recursos correspondientes a los depósitos judiciales en co
 Sección 3
 
 Recaudo de multas
-
-ARTÍCULO
 
 ## art:2.2.3.10.3.1 — Cobro coactivo de multas impuestas con anterioridad a la Ley 1743 de 2014
 
@@ -8688,8 +7652,6 @@ Sección 4
 
 Impuesto de remate
 
-ARTÍCULO
-
 ## art:2.2.3.10.4.1 — Captación del impuesto de remate
 
 El valor del impuesto de remate deberá ser captado por la entidad rematadora, la cual deberá consignar, dentro de los tres (3) primeros días hábiles de cada mes, el dinero recaudado por este concepto en el mes inmediatamente anterior, en la cuenta bancaria que para tal efecto determine el Consejo Superior de la Judicatura para la administración del Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, so pena de que se causen intereses de mora sobre todas las sumas debidas, a la tasa de interés establecida por el artículo 3 de la Ley 1066 de 2006.
@@ -8699,8 +7661,6 @@ El valor del impuesto de remate deberá ser captado por la entidad rematadora, l
 Sección 5
 
 Sanción por exceso en el juramento estimatorio
-
-ARTÍCULO
 
 ## art:2.2.3.10.5.1 — Consignación y pago
 
@@ -8714,8 +7674,6 @@ Sección 6
 
 Contribución Especial Arbitral
 
-ARTÍCULO
-
 ## art:2.2.3.10.6.1 — Reportes para la Dirección de Métodos Alternativos de Solución de Conflictos
 
 Los centros de arbitraje y los árbitros ad hoc enviarán el informe previsto en el artículo 23 de la Ley 1743 de 2014 a más tardar el 31 de julio de 2015. En adelante deberán enviar informes semestrales el 31 de enero y 31 de julio de cada año, con cortes a diciembre y junio respectivamente, de acuerdo con los instrumentos de reporte que defina el Ministerio de Justicia y del Derecho.
@@ -8726,8 +7684,6 @@ La Dirección de Métodos Alternativos de Solución de Conflictos del Ministerio
 
 (Decreto 272 de 2015, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.3.10.6.2 — Pago de la contribución arbitral especial por los árbitros
 
 En cumplimiento del artículo 22 de la Ley 1743 de 2014, el presidente del tribunal arbitral descontará del pago del saldo final de los honorarios, el dos por ciento (2%) del valor total pagado a cada árbitro, y la suma que resulte la consignará en la cuenta del Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, dentro de los tres (3) días hábiles siguientes a la fecha de ejecutoria del laudo o de la providencia que decida sobre su aclaración, corrección o complementación.
@@ -8737,8 +7693,6 @@ En cumplimiento del artículo 22 de la Ley 1743 de 2014, el presidente del tribu
 Sección 7
 
 Distribución de los recursos e incorporación al proyecto de presupuesto
-
-ARTÍCULO
 
 ## art:2.2.3.10.7.1 — Distribución de recursos
 
@@ -8751,8 +7705,6 @@ Para la programación de los recursos del Fondo para la Modernización, Desconge
 3. Los recursos restantes se destinarán a los fines previstos en el inciso primero del artículo 2 de la Ley 1743 de 2014.
 
 (Decreto 272 de 2015, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.3.10.7.2 — Incorporación al presupuesto
 
@@ -8768,8 +7720,6 @@ PARÁGRAFO . Para efectos del proceso de programación presupuestal el Consejo S
 
 (Decreto 272 de 2015, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.3.10.7.3 — Traslado de recursos
 
 Una vez se incorporen los recursos de que trata el artículo anterior al Presupuesto General de la Nación, el Banco Agrario de Colombia S.A., los transferirá, previa instrucción del Consejo Superior de la Judicatura, a la Dirección de Crédito Público y del Tesoro Nacional, de conformidad con el parágrafo primero del artículo 3 de la ley 1743 de 2014.
@@ -8781,8 +7731,6 @@ En caso de que los recaudos excedan el valor incorporado en el presupuesto y gir
 Sección 8
 
 Informes
-
-ARTÍCULO
 
 ## art:2.2.3.10.8.1 — Informe trimestral por el Banco Agrario
 
@@ -8798,8 +7746,6 @@ Sin perjuicio de los extractos bancarios periódicos que ordena la ley, durante 
 
 (Decreto 272 de 2015, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.3.10.8.2 — Informe semestral de inversión
 
 El Consejo Superior de la Judicatura presentará los informes previstos en el artículo 24 de la Ley 1743 de 2014 dentro de los primeros diez (10) días hábiles de cada periodo legislativo.
@@ -8809,8 +7755,6 @@ El Consejo Superior de la Judicatura presentará los informes previstos en el ar
 Sección 9
 
 Seguimiento de procesos en el exterior por la Agencia Nacional de Defensa Jurídica del Estado
-
-ARTÍCULO
 
 ## art:2.2.3.10.9.1 — Seguimiento acuerdos de compartición de bienes
 
@@ -8828,15 +7772,11 @@ PARÁGRAFO . En todo caso, la autoridad del Estado colombiano que haya sido desi
 
 (Decreto 272 de 2015, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.3.10.9.2 — Consignación en el Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia
 
 Una vez los bienes producto de la compartición ingresen a los activos del Estado Colombiano, la Agencia Nacional de Defensa Jurídica del Estado vigilará que los mismos sean consignados de manera efectiva en el Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, para lo cual podrá realizar requerimientos a las autoridades competentes y hacer uso de los mecanismos y competencias previstos en el ordenamiento jurídico para estos efectos.
 
 (Decreto 272 de 2015, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.3.10.9.3 — Mesas de coordinación y seguimiento
 
@@ -8848,8 +7788,6 @@ Sección 10
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.3.10.10.1 — Procesos de cobro coactivo
 
 Todos los procesos de cobro coactivo que estén siendo adelantados por el Ministerio de Justicia y del Derecho, y que versen sobre multas impuestas en procesos judiciales con ocasión de la comisión de delitos por infracción al Estatuto Nacional de Estupefacientes, serán transferidos al Consejo Superior de la Judicatura a más tardar el 17 de agosto de 2015.
@@ -8859,8 +7797,6 @@ Todos los procesos de cobro coactivo que estén siendo adelantados por el Minist
 CAPÍTULO 11
 
 PAGO DE SENTENCIAS, CONCILIACIONES Y SOLUCIONES AMISTOSAS PROFERIDAS POR ÓRGANOS INTERNACIONALES
-
-ARTÍCULO
 
 ## art:2.2.3.11.1 — Pago de sentencias, acuerdos conciliatorios y/o soluciones amistosas
 
@@ -8872,8 +7808,6 @@ Sección 1
 
 Trámite para el pago de indemnizaciones de la Ley 288 de 1996
 
-ARTÍCULO
-
 ## art:2.2.3.11.1.1 — Asunción del trámite y pago de indemnizaciones de la Ley 288
 
 De acuerdo con los criterios definidos en la presente Sección, el Comité de Ministros creado por la Ley 288 de 1996 designará la entidad que deba asumir el trámite y pago de las indemnizaciones de perjuicios de que trata dicha ley. Esta decisión se adoptará en el mismo acto administrativo en el cual se emita concepto favorable al cumplimiento de la decisión internacional de que se trate.
@@ -8881,8 +7815,6 @@ De acuerdo con los criterios definidos en la presente Sección, el Comité de Mi
 PARÁGRAFO . Para efectos de la aplicación del inciso primero del artículo 3 de la Ley 288 de 1996, el término de treinta (30) días empezará a correr a partir del día siguiente a la comunicación de la Resolución del Comité de Ministros a la entidad designada.
 
 (Decreto 507 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.11.1.2 — Criterios para la designación de la entidad encargada
 
@@ -8898,15 +7830,11 @@ PARÁGRAFO . Para la designación de la entidad encargada de asumir el trámite 
 
 (Decreto 507 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.11.1.3 — Decisión por mayoría
 
 Si hubiere discrepancia sobre la aplicación de los criterios establecidos en el artículo anterior para la designación de la entidad del Gobierno Nacional encargada del trámite y pago, el Comité de Ministros adoptará la decisión por mayoría simple.
 
 (Decreto 507 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.11.1.4 — Criterio subsidiario
 
@@ -8918,8 +7846,6 @@ b. El Ministerio de Relaciones Exteriores, en relación con los casos de recomen
 
 (Decreto 507 de 2016, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.11.1.5 — Referencias al Gobierno Nacional
 
 Las actividades a cargo del Gobierno Nacional señaladas en la Ley 288 de 1996, serán adelantadas por la entidad designada por el Comité de Ministros para asumir el trámite y pago de las indemnizaciones a las que se refiere la misma ley.
@@ -8927,8 +7853,6 @@ Las actividades a cargo del Gobierno Nacional señaladas en la Ley 288 de 1996, 
 De lo establecido en el inciso anterior, se exceptúa la actividad prevista en el artículo 15 de la Ley 288 de 1996, la cual será adelantada por el Ministerio de Relaciones Exteriores, salvo cuando se trate de informes de la Comisión Interamericana de Derechos Humanos proferidos conforme al artículo 50 de la Convención, los cuales estarán a cargo de la Agencia Nacional de Defensa Jurídica del Estado.
 
 (Decreto 507 de 2016, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.11.1.6 — Apoyo
 
@@ -8942,13 +7866,9 @@ PARÁGRAFO 2. Los actos administrativos del Comité de Ministros de la Ley 288 d
 
 CAPÍTULO 12
 
-ARTÍCULO
-
 ## art:2.2.3.12.1 — Objeto
 
 El presente capítulo regula la presentación, radicación y constancia de todas aquellas peticiones presentadas verbalmente en forma presencial, por vía telefónica, por medios electrónicos o tecnológicos o a través de cualquier otro medio idóneo para la comunicación o transferencia de la voz.
-
-ARTÍCULO
 
 ## art:2.2.3.12.2 — Centralización de la recepción de peticiones verbales
 
@@ -8957,8 +7877,6 @@ Todas las autoridades deberán centralizar en una sola oficina o dependencia la 
 Las autoridades deberán centralizar en su línea de atención al cliente, la recepción y constancia de radicación de las peticiones presentadas telefónicamente.
 
 Así mismo, las autoridades, deberán habilitar los medios, tecnológicos o electrónicos disponibles que permitan la recepción de las peticiones verbales en los términos y condiciones establecidas en el artículo 2.2.3.12.3. del presente decreto, aun por fuera de las horas de atención al público
-
-ARTÍCULO
 
 ## art:2.2.3.12.3 — Presentación y radicación de peticiones verbales
 
@@ -8988,15 +7906,11 @@ PARÁGRAFO 1. Si el peticionario lo solicita, se le entregará copia de la const
 
 PARÁGRAFO 2. Las autoridades serán responsables de la gestión de las constancias de las peticiones verbales presentadas y de la administración de sus archivos, para lo cual diseñaran, implementaran o adecuarán los sistemas o herramientas que permitan la debida organización y conservación, de acuerdo con los parámetros y lineamientos generales establecidos por el Archivo General de la Nación.
 
-ARTÍCULO
-
 ## art:2.2.3.12.4 — Respuesta al derecho de petición verbal
 
 La respuesta al derecho de petición verbal deberá darse en los plazos establecidos en la ley. En el evento que se dé repuesta verbal a la petición, se deberá indicar de manera expresa la respuesta suministrada al peticionario en la respectiva constancia de radicación.
 
 No será necesario dejar constancia ni radicar el derecho de petición de información cuando la respuesta al ciudadano consista en una simple orientación del servidor público, acerca del lugar al que aquél puede dirigirse para obtener la información solicitada.
-
-ARTÍCULO
 
 ## art:2.2.3.12.5 — 2.5
 
@@ -9006,13 +7920,9 @@ Para las peticiones relacionadas con trámites y servicios del Estado, de confor
 
 En todos los casos, las autoridades deberán informar previamente a los ciudadanos e interesados, a través de su sede electrónica y otros canales, los tipos de solicitudes que deberán ser presentadas por escrito.
 
-ARTÍCULO
-
 ## art:2.2.3.12.6 — Turnos
 
 Las autoridades deberán garantizar un sistema de tumos acorde con las necesidades del servicio y las nuevas tecnologías para una ordenada atención de peticiones verbales, sin perjuicio de lo señalado en el numeral 6 del artículo 5 de la Ley 1437 de 2011.
-
-ARTÍCULO
 
 ## art:2.2.3.12.7 — Falta de competencia
 
@@ -9022,15 +7932,11 @@ No obstante, el peticionario podrá insistir en que se radique la petición, cas
 
 En todo caso, la autoridad registrará en la constancia de recepción del derecho de petición el tipo de orientación que se le dio al peticionario.
 
-ARTÍCULO
-
 ## art:2.2.3.12.8 — Inclusión social
 
 Para la recepción y radicación de las peticiones presentadas verbalmente, cada autoridad deberá, directamente o a través mecanismos idóneos, adoptar medidas que promuevan la inclusión social de personas en situación de vulnerabilidad o por razones de discapacidad, especial protección, género y edad.
 
 En ese sentido, las autoridades podrán adoptar medidas como, conceder atención prioritaria y diferencial, disponer de personal especializado para recepcionar y apoyar en el desarrollo y precisión de la petición, entre otras.
-
-ARTÍCULO
 
 ## art:2.2.3.12.9 — Peticiones verbales en otra lengua nativa o dialecto oficial de Colombia
 
@@ -9038,19 +7944,13 @@ Las personas que hablen una lengua nativa o un dialecto oficial de Colombia podr
 
 Cuando las entidades no cuenten con intérpretes en su planta de personal para traducir directamente la petición, dejarán constancia de ese hecho y grabarán el derecho de petición en cualquier medio tecnológico o electrónico, con el fin de proceder a su posterior traducción y respuesta.
 
-ARTÍCULO
-
 ## art:2.2.3.12.10 — Respuesta a solicitud verbal de acceso a información
 
 La respuesta a las peticiones de acceso a información presentadas verbalmente, una vez se surta la radicación y constancia, deberá darse por escrito, de acuerdo a lo establecido en el artículo 26 de la Ley 1712 de 2014, corregido por el artículo 4 del Decreto 1494 de 2015.
 
-ARTÍCULO
-
 ## art:2.2.3.12.11 — Reglamentación interna
 
 Las autoridades deberán reglamentar de acuerdo al artículo 22 de la Ley 1437 de 2011 sustituido por el artículo 1 de la Ley 1755 de 2015, la tramitación interna de las peticiones verbales que les corresponda resolver, y la manera de atenderlas para garantizar el buen funcionamiento de los servicios a su cargo y en cumplimiento de los términos legales.
-
-ARTÍCULO
 
 ## art:2.2.3.12.12 — Accesibilidad
 
@@ -9058,13 +7958,9 @@ Las autoridades divulgarán en un lugar visible de acceso al público, así como
 
 En todo caso, el funcionario encargado de la recepción de las peticiones verbales deberá indicar al ciudadano la posibilidad de presentarlas y no podrá negar su recepción y radicación con la excusa de la exigencia de un documento escrito, salvo que la petición así lo requiera. En este caso, pondrá a disposición de los interesados formularios y otros instrumentos estandarizados para facilitar su diligenciamiento, sin costo, a menos que una ley señale expresamente lo contrario.
 
-ARTÍCULO
-
 ## art:2.2.3.12.13 — Seguridad de los datos personales
 
 El tratamiento de los datos personales y protección de la información de quienes presentan verbalmente sus peticiones se someterá a los principios rectores establecidos en el artículo 4 de la Ley 1581 de 2012.
-
-ARTÍCULO
 
 ## art:2.2.3.12.14 — Término para la implementación o adecuación de reglamentos internos
 
@@ -9080,8 +7976,6 @@ Sección 1
 
 Adopción del Plan Decenal de Justicia 2017-2027
 
-ARTÍCULO
-
 ## art:2.2.3.13.1.1 — Plan Decenal del Sistema de Justicia
 
 Adóptese el Plan Decenal del Sistema de Justicia 2017-2027, contenido en el Anexo Técnico que forma parte integral del presente Decreto, que servirá como lineamiento de los proyectos, programas y demás acciones que en materia de justicia adopte el Gobierno y la Rama Judicial, y particularmente las instituciones que participaron en su formulación, así como de las demás entidades públicas o privadas que intervengan en su funcionamiento; unas y otras en el ámbito de sus competencias y obligaciones constitucionales y legales.
@@ -9092,15 +7986,11 @@ PARÁGRAFO 2. El Anexo Técnico contentivo del Plan Decenal del Sistema de Justi
 
 (Decreto 979 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.13.1.2 — Responsabilidades de las entidades, implementación y ejecución
 
 Las instituciones formuladoras del Plan Decenal del Sistema de Justicia, dentro de la órbita de sus competencias constitucionales y legales, implementarán y adaptarán el Plan Decenal del Sistema de Justicia, a través de sus planes de inversiones, de acción y de desarrollo, y coordinarán la implementación en su área de influencia de conformidad con los lineamientos que para el efecto definan las instancias interadministrativas que se crean en el presente Decreto.
 
 (Decreto 979 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.13.1.3 — Comité Directivo del Plan Decenal del Sistema de Justicia
 
@@ -9125,8 +8015,6 @@ Como instancia encargada del seguimiento al Plan Decenal del Sistema de Justicia
 El Comité Directivo, por medio de la Secretaría Técnica, podrá invitar a sus sesiones a las Altas Cortes, a asesores expertos, a los Comités Técnicos o a otras instituciones públicas o privadas, quienes asistirán con derecho a voz pero sin voto.
 
 (Decreto 979 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.13.1.4 — Funciones del Comité Directivo
 
@@ -9154,8 +8042,6 @@ Son funciones del Comité Directivo:
 
 (Decreto 979 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.13.1.5 — Sesiones
 
 El Comité Directivo se reunirá, ordinariamente, cada cuatro (4) meses, previa citación de la Secretaría Técnica; y extraordinariamente por convocatoria del Presidente, a solicitud de cualquiera de los miembros.
@@ -9165,8 +8051,6 @@ El Comité Directivo podrá deliberar con la mitad de sus integrantes, y las dec
 La convocatoria la realizará la Secretaria Técnica, de conformidad con las instrucciones que imparta el Presidente del Comité Directivo.
 
 (Decreto 979 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.13.1.6 — Comités Técnicos del Plan Decenal del Sistema de Justicia
 
@@ -9193,8 +8077,6 @@ Los comités técnicos podrán sesionar y decidir de manera conjunta cuando la n
 PARÁGRAFO . Los Comités Técnicos entrarán en funcionamiento dentro del mes siguiente a la vigencia del presente Decreto, y le son aplicables las reglas de funcionamiento establecidas para el Comité Directivo, que le sean compatibles.
 
 (Decreto 979 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.13.1.7 — Funciones Generales de los Comités Técnicos
 
@@ -9232,8 +8114,6 @@ PARÁGRAFO . Las Oficinas de Planeación de todas las instituciones formuladoras
 
 (Decreto 979 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.13.1.8 — Secretaría Técnica
 
 Para efectos del seguimiento al Plan Decenal del Sistema de Justicia, y en los términos del inciso primero del artículo 108 de la Ley 1753 de 2015, la Secretaría Técnica del Comité Directivo y de los Comités Técnicos la ejercerá el Ministerio de Justicia y del Derecho, a través del Viceministro de Promoción de la Justicia o su delegado, y tendrá como funciones las siguientes:
@@ -9256,15 +8136,11 @@ Para efectos del seguimiento al Plan Decenal del Sistema de Justicia, y en los t
 
 (Decreto 979 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.13.1.9 — Presupuesto e indicadores
 
 Los presupuestos plurianuales o la proyección de los costos y fuentes de financiación de los principales programas y proyectos que hacen parte del Plan Decenal del Sistema de Justicia, que realicen los Comités Técnicos, dentro de los seis (6) meses siguientes contados a partir de la entrada en vigencia de esta norma, tendrán un carácter indicativo. Dentro del mismo plazo se definirán los indicadores y metas de impacto y resultado.
 
 (Decreto 979 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.13.1.10 — Alianza para la formación del talento humano y para la difusión del Plan Decenal del Sistema de Justicia
 
@@ -9273,8 +8149,6 @@ Las escuelas e institutos de formación que pertenecen a las entidades formulado
 Este grupo articulará su trabajo con el Comité de Gestión del Sistema de Justicia, del Talento Humano, de las Condiciones para la Prestación del Servicio de Justicia y de Información Pública y TIC's, al cual presentarán un Plan de Trabajo Especial, institucional e interinstitucional, que desarrolle las acciones previstas en el Plan Decenal del Sistema de Justicia, relacionadas con la formación del talento humano.
 
 (Decreto 979 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.13.1.11 — Divulgación del Plan Decenal del Sistema de Justicia
 
@@ -9294,15 +8168,11 @@ Sección 1
 
 Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia
 
-ARTÍCULO
-
 ## art:2.2.3.14.1.1 — Naturaleza jurídica del Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia
 
 El Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, creado mediante la Ley 1285 de 2009, modificada por las Leyes 1743 de 2014 y 1819 de 2016, es un fondo especial o fondo-cuenta, sin personería jurídica, constituido como un sistema de cuentas presupuestales, financieras y contables para el manejo de los recursos y rentas recaudados con destino al citado Fondo, administrado por el Consejo Superior de la Judicatura o quien haga sus veces, quien actuará como Administrador del Fondo.
 
 (Decreto 1482 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.14.1.2 — Objeto y objetivos del Fondo
 
@@ -9320,8 +8190,6 @@ PARÁGRAFO TRANSITORIO: La destinación de los recursos y rentas ya recaudados y
 
 (Decreto 1482 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.14.1.3 — Criterios orientadores para inversión de los recursos y rentas del Fondo
 
 Para determinar la inversión de los recursos y rentas del Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, en una actividad, programa o proyecto específico, se considerarán los siguientes criterios:
@@ -9338,8 +8206,6 @@ Para determinar la inversión de los recursos y rentas del Fondo para la Moderni
 
 (Decreto 1482 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.14.1.4 — Comité Asesor del Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia
 
 El Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, podrá contar con un Comité Asesor, el cual realizará sugerencias, planteará iniciativas y formulará propuestas al Administrador del Fondo respecto del estudio, aprobación y ejecución de los planes, programas y proyectos que se realicen con los recursos y rentas del Fondo, en atención a los objetivos del mismo, a lo ordenado en disposiciones legales, a las políticas generales definidas para el cumplimiento de la función jurisdiccional y a la planeación estratégica de la Rama Judicial.
@@ -9349,8 +8215,6 @@ El Administrador del Fondo podrá solicitar concepto al Comité Asesor del Fondo
 El Comité Asesor del Fondo estará integrado por la Corte Constitucional, el Consejo de Estado y la Corte Suprema de Justicia, según la reglamentación que para el efecto sea expedido por estas Altas Corporaciones.
 
 (Decreto 1482 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.14.1.5 — Banco Único de Proyectos del Fondo
 
@@ -9621,15 +8485,11 @@ CAPÍTULO 1
 
 CASAS DE JUSTICIA Y CENTROS DE CONVIVENCIA
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — Objeto general
 
 Adoptase el Programa Nacional Casas de Justicia, que tiene por objeto facilitar a la comunidad el acceso a la justicia, prioritariamente en las zonas marginales, en las cabeceras municipales y en centros poblados de los corregimientos de más 2.500 habitantes.
 
 (Decreto 1477 de 2000, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2 — Objetivos y funciones específicas
 
@@ -9665,8 +8525,6 @@ El Programa Nacional de las Casas de Justicia tendrá los siguientes objetivos y
 
 (Decreto 1477 de 2000, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3 — Servicios
 
 En las Casas de Justicia se prestarán los siguientes servicios:
@@ -9686,8 +8544,6 @@ En las Casas de Justicia se prestarán los siguientes servicios:
 7. Todos los demás servicios que se consideren necesarios para el cumplimiento de los objetivos del Programa de Casas de Justicia.
 
 (Decreto 1477 de 2000, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.4 — Entidades participantes
 
@@ -9725,8 +8581,6 @@ Podrán participar en el Programa Casas de Justicia las siguientes entidades:
 
 (Decreto 1477 de 2000, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.1.5 — Obligaciones de las entidades participantes
 
 En desarrollo del objeto del Programa Nacional Casas de Justicia cada entidad participante, dentro de su ámbito de competencia, estará obligada a prestar los servicios autorizados por ley. Además de esos servicios, deberán concurrir y colaborar en la prestación de los servicios integrales de las Casas de Justicia.
@@ -9736,8 +8590,6 @@ La forma y el alcance de las obligaciones de cada una de las entidades participa
 PARÁGRAFO . Los alcaldes municipales o distritales concurrirán con las entidades del orden local en los gastos de instalación y funcionamiento de las Casas de Justicia en los términos que establezcan los respectivos convenios y el manual de funciones.
 
 (Decreto 1477 de 2000, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.1.6 — Funciones especiales del Ministerio de Justicia y del Derecho
 
@@ -9783,8 +8635,6 @@ Sección 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene por objeto reglamentar los requisitos que deben cumplir las entidades interesadas en la creación de Centros de Conciliación o Arbitraje y en la obtención de aval para impartir formación en conciliación extrajudicial en derecho; las obligaciones a cargo de los Centros; el marco tarifario para los servicios de conciliación y arbitraje; el manejo de la información relacionada con los trámites conciliatorios; el Programa de Formación que deben cursar y aprobar los conciliadores extrajudiciales en derecho; las funciones de inspección, vigilancia y control del Ministerio de Justicia y del Derecho sobre Centros y Entidades Avaladas para impartir formación en conciliación extrajudicial en derecho.
@@ -9795,23 +8645,17 @@ Sección 2
 
 Creación de Centros
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1 — Personas facultadas para solicitar la creación de Centros de Conciliación
 
 Las personas jurídicas sin ánimo de lucro, las entidades públicas y los consultorios jurídicos de las facultades de derecho podrán solicitar al Ministerio de Justicia y del Derecho la autorización para la creación de Centros de Conciliación, previo cumplimiento de los requisitos establecidos en este capítulo.
 
 (Decreto 1829 de 2013, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.2 — Personas facultadas para solicitar la creación de Centros de Arbitraje
 
 Las personas jurídicas sin ánimo de lucro, las facultades de derecho de las universidades y las entidades públicas podrán solicitar al Ministerio de Justicia y del Derecho la autorización para la creación de Centros de Arbitraje, previo cumplimiento de los requisitos establecidos en este capítulo
 
 (Decreto 1829 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3 — Contenido de la Solicitud de creación de Centros
 
@@ -9822,8 +8666,6 @@ Las entidades interesadas en la creación de Centros deberán presentar al Minis
 2. La información relativa a los recursos financieros necesarios para la dotación y puesta en funcionamiento del Centro, así como para su adecuada operación.
 
 (Decreto 1829 de 2013, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4 — Anexos de la Solicitud
 
@@ -9851,8 +8693,6 @@ g) Los documentos que acrediten la existencia de recursos financieros necesarios
 
 (Decreto 1829 de 2013, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.5 — Reglamento del Centro de Conciliación
 
 El Reglamento del Centro de Conciliación solo entrará a regir cuando el Ministerio de Justicia y del Derecho haya impartido la aprobación de que trata el presente capítulo.
@@ -9874,8 +8714,6 @@ f) Los mecanismos de información al público en general, sobre los trámites de
 g) Un código interno de ética al que deberán someterse todos los conciliadores inscritos en la lista oficial del Centro, que garantice la transparencia e imparcialidad del servicio;
 
 (Decreto 1829 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.6 — Reglamento del Centro de Arbitraje
 
@@ -9919,8 +8757,6 @@ d) La inclusión de una alternativa que le permita a los usuarios la posibilidad
 
 (Decreto 1829 de 2013, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.7 — Requisitos especiales para las solicitudes formuladas por entidades sin ánimo de lucro
 
 Cuando la solicitud provenga de una entidad sin ánimo de lucro cuyo objeto social comprenda la facultad para ofrecer servicios de conciliación, arbitraje o amigable composición, además de los requisitos y anexos previstos en los artículos anteriores, la solicitud deberá contener:
@@ -9930,8 +8766,6 @@ a) Diagnóstico de conflictividad y tipología de conflicto del municipio o dist
 b) El proyecto de reglamento según el tipo de Centro de que se trata, de conformidad con lo previsto en los artículos 2.2.4.2.2.5 y 2.2.4.2.2.6., de este capítulo.
 
 (Decreto 1829 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.8 — Procedimiento para la autorización de creación de Centros
 
@@ -9946,8 +8780,6 @@ Contra las decisiones adoptadas por la Dirección de Métodos Alternativos de So
 Sección 3
 
 Obligaciones de los Centros de Conciliación o Arbitraje
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.1 — Principios
 
@@ -9965,8 +8797,6 @@ e) Gratuidad. Son gratuitos los trámites que se celebren ante los Centros de Co
 
 (Decreto 1829 de 2013, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.2 — Principios especiales de los Centros de Conciliación
 
 Además de lo dispuesto en el artículo anterior, los Centros de Conciliación deberán desarrollar sus funciones de acuerdo con los siguientes principios:
@@ -9977,8 +8807,6 @@ b) Informalidad. Las actuaciones de los conciliadores y de los Centros de Concil
 
 (Decreto 1829 de 2013, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.4 — Modificaciones en las condiciones de funcionamiento del Centro
 
 La Entidad está obligada a mantener las condiciones de funcionamiento del Centro que fueron desarrolladas en la solicitud de autorización de funcionamiento. Cualquier modificación a las condiciones mínimas previstas en los artículos 2.2.4.2.2.4., 2.2.4.2.2.5.,
@@ -9986,8 +8814,6 @@ La Entidad está obligada a mantener las condiciones de funcionamiento del Centr
 2.2.4.2.2.6., y 2.2.4.2.2.7., debe ser previamente aprobada por la Dirección de Métodos Alternativos de Solución de Conflictos del Ministerio de Justicia y del Derecho.
 
 (Decreto 1829 de 2013, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.5 — Listas de conciliadores, árbitros y secretarios
 
@@ -10002,8 +8828,6 @@ PARÁGRAFO . Independientemente de la forma en que, de acuerdo con lo dispuesto 
 Lo anterior, no aplicará para las audiencias de conciliación que puedan darse con ocasión de los daños materiales en accidentes de tránsito, de que trata el artículo 143 de la Ley 769 de 2002, cuya atención podrá realizarse en el lugar de los hechos, según se determine en el protocolo de atención del respectivo centro, como tampoco para los casos excepcionales previamente autorizados por el director del centro» (Subrogado Decreto 2462 de 2015, artículo1)
 
 (Decreto 1829 de 2013, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.6 — Renovación de las listas de conciliadores
 
@@ -10021,15 +8845,11 @@ e) Conocimiento y habilidades en materia de conciliación o arbitraje, según se
 
 (Decreto 1829 de 2013, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.7 — Códigos de identificación
 
 Los Centros deberán adoptar los códigos de identificación asignados por el Ministerio de Justicia y del Derecho, que serán generados de manera automática por el Sistema de Información de la Conciliación, el Arbitraje y la Amigable Composición, previo trámite del Centro. El Centro deberá informar por escrito a cada conciliador, acerca del código que este deberá usar en sus actuaciones.
 
 (Decreto 1829 de 2013, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.8 — Educación continuada
 
@@ -10041,15 +8861,11 @@ Sección 4
 
 Uso de Tecnologías de la Información y las Comunicaciones y el Arbitraje Virtual
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.1 — Utilización de medios electrónicos
 
 Los Centros de Arbitraje y cualquier interviniente en un arbitraje podrán utilizar medios electrónicos en todas las actuaciones, sin que para ello se requiera de autorización previa y, en particular, para llevar a cabo todas las comunicaciones, tanto del Tribunal con las partes como con terceros, para la notificación de las providencias, la presentación de memoriales y la realización de audiencias, así como para la guarda de la versión de las mismas y su posterior consulta.
 
 (Decreto 1829 de 2013, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.2 — Notificaciones por medios electrónicos
 
@@ -10067,15 +8883,11 @@ La notificación por medios electrónicos podrá realizarse a través del correo
 
 (Decreto 1829 de 2013, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.3 — Listas de árbitros para el Arbitraje Virtual
 
 Los Centros de Arbitraje que ofrezcan el servicio de Arbitraje Virtual podrán tener una lista especial conformada con los árbitros que se dediquen a esta forma de arbitraje.
 
 (Decreto 1829 de 2013, artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.4 — Remisión de documentos y Comunicaciones
 
@@ -10083,15 +8895,11 @@ La presentación de memoriales, las notificaciones, los traslados, y en general 
 
 (Decreto 1829 de 2013, artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.5 — Audiencias
 
 Las audiencias en el Arbitraje Virtual se realizarán íntegramente a través de videoconferencia, teleconferencia o por cualquier otro medio de comunicación simultánea, según lo determine el tribunal o el árbitro único. El Centro de Arbitraje dispondrá lo pertinente para la grabación y conservación de las audiencias que se surtan a través de estos medios.
 
 (Decreto 1829 de 2013, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.6 — Cobertura del Arbitraje Virtual
 
@@ -10102,8 +8910,6 @@ Para efectos de lo dispuesto en el artículo 12 de la Ley 1563 de 2012, se enten
 Sección 5
 
 Función social de la Conciliación y del Arbitraje
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.1 — Casos gratuitos de conciliación, arbitraje y amigable composición
 
@@ -10118,8 +8924,6 @@ La atención de estos casos se coordinará con el Ministerio de Justicia y del D
 PARÁGRAFO . Recibidas las solicitudes de audiencia de conciliación, el Centro o el notario deberán dar prelación en la atención a aquellas presentadas por familias beneficiadas por la estrategia del Gobierno Nacional para la superación de la pobreza extrema.»
 
 (Decreto 1829 de 2013, artículo 24, Subrogado Decreto 2462 de 2015, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.2 — Centros de Conciliación de Consultorio Jurídico
 
@@ -10138,8 +8942,6 @@ Régimen tarifario
 Subsección 1
 
 Conciliación
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.1.1 — Tarifas máximas para los centros de conciliación y las notarías
 
@@ -10225,8 +9027,6 @@ PARÁGRAFO . La tarifa máxima permitida para la prestación del servicio de con
 
 (Decreto 1829 de 2013, artículo 26, Subrogado Decreto 2462 de 2015, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.1.2 — Liquidación de la tarifa
 
 La tarifa deberá ser liquidada y cobrada al solicitante al momento de presentar la solicitud de conciliación. Las tarifas de conciliación no dependen del resultado de la misma. Con todo, en el evento en que la parte convocada no asista a la audiencia de conciliación, el Centro devolverá al convocante como mínimo el
@@ -10236,8 +9036,6 @@ La tarifa deberá ser liquidada y cobrada al solicitante al momento de presentar
 En caso de segunda convocatoria, el porcentaje mínimo de devolución será del 60% de la tarifa cancelada, según lo disponga el Reglamento.
 
 (Decreto 1829 de 2013, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.1.3 — Reliquidación de la tarifa de conciliación
 
@@ -10257,15 +9055,11 @@ Cuando se trate de asuntos de cuantía indeterminada o que no tengan cuantía, e
 
  Tarifa en asuntos de cuantía indeterminada y sin cuantía. Cuando se trate de asuntos de cuantía indeterminada o que no tengan cuantía, el valor del trámite será máximo de catorce salarios mínimos legales diarios vigentes (14 smldv). No obstante, si en el desarrollo de la conciliación se determina la cuantía de las pretensiones, se deberá reliquidar la tarifa conforme a lo establecido en el 2.2.4.2.6.1.3 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.1.5 — Encuentros adicionales de la audiencia de conciliación
 
 Si las partes en conflicto y el conciliador, de mutuo acuerdo realizan más de cuatro (4) encuentros de la audiencia de conciliación, podrá cobrarse por cada encuentro adicional hasta un diez por ciento (10%) adicional sobre la tarifa inicialmente señalada, que se liquidará conforme a lo establecido en el artículo 2.2.4.2.6.1.1., del presente capítulo.
 
 (Decreto 1829 de 2013, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.1.6 — Tarifas de conciliaciones de mutuo acuerdo
 
@@ -10276,8 +9070,6 @@ Cuando la solicitud sea presentada de común acuerdo por dos o más partes, se s
 Subsección 2
 
 Arbitraje
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.2.1 — Honorarios de los árbitros
 
@@ -10361,8 +9153,6 @@ PARÁGRAFO 3º. Los honorarios del secretario serán la mitad de los de un árbi
 
 (Decreto 1829 de 2013, artículo 32)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.2.2 — Gastos Iniciales
 
 Con la presentación de cualquier convocatoria a Tribunal de Arbitral, la parte convocante deberá cancelar a favor del centro, los siguientes valores:
@@ -10389,8 +9179,6 @@ Estos valores se imputarán a los gastos administrativos que decrete el Tribunal
 
 (Decreto 1829 de 2013, artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.2.3 — Gastos del Centro de Arbitraje
 
 Los gastos del Centro de Arbitraje corresponderán al cincuenta por ciento (50%) de los honorarios de un árbitro y en todo caso no podrán ser superiores a doce mil.
@@ -10409,15 +9197,11 @@ Las anteriores cifras no comprenden las que adicionalmente decrete el Tribunal p
 
 (Decreto 1829 de 2013, artículo 34)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.2.4 — Fijación de honorarios y gastos
 
 Fracasada en todo o en parte la conciliación, en la misma audiencia el tribunal fijará los honorarios y gastos mediante auto susceptible de recurso de reposición, que será resuelto inmediatamente.
 
 (Decreto 1829 de 2013, artículo 35)
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.2.5 — Tarifas en asuntos con cuantía indeterminada
 
@@ -10437,8 +9221,6 @@ Cuando no fuere posible determinar la cuantía de las pretensiones, los árbitro
 
 (Decreto 1829 de 2013, artículo 36)
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.2.6 — Tarifas en asuntos con conciliación dentro del proceso arbitral
 
 Cuando el proceso de arbitraje culmine por conciliación, se cancelará el monto establecido para los trámites conciliatorios.
@@ -10448,8 +9230,6 @@ Cuando el proceso de arbitraje culmine por conciliación, se cancelará el monto
 Sección 7
 
 Manejo de información de la conciliación
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.1 — Actas y constancias
 
@@ -10461,8 +9241,6 @@ Las actas y constancias de las que tratan los artículos 1 y 2 de la Ley 640 de 
 
 (Decreto 1829 de 2013, artículo 38)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.2 — Gestión Documental
 
 Los Centros, notarios y servidores públicos habilitados por ley para fungir como conciliadores garantizarán la custodia, conservación y disponibilidad de la documentación relacionada con la prestación de sus servicios, de acuerdo con lo establecido en la Ley General de Archivo.
@@ -10471,15 +9249,11 @@ También deberán garantizar la custodia, conservación y disponibilidad de los 
 
 (Decreto 1829 de 2013, artículo 39)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.3 — Deterioro
 
 Los documentos que se deterioren serán archivados y sustituidos por una reproducción exacta de ellos, con anotación del hecho y su oportunidad, la cual será suscrita por el Director del Centro o la del funcionario o notario conciliador.
 
 (Decreto 1829 de 2013, artículo 40)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.4 — Pérdida
 
@@ -10487,15 +9261,11 @@ En caso de pérdida de algún documento, se procederá a su reconstrucción con 
 
 (Decreto 1829 de 2013, artículo 41)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.5 — Traslado y remisión de información
 
 En el evento en que se revoque la autorización de funcionamiento del Centro de Conciliación, este remitirá el archivo documental de los trámites de conciliación y de insolvencia que ante él se llevaron a cabo, al Ministerio de Justicia y del Derecho, el cual designará otro centro para la custodia de ese archivo.
 
 (Decreto 1829 de 2013, artículo 42)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.6 — Reporte de información
 
@@ -10504,8 +9274,6 @@ Los Centros y las Entidades Avaladas, deberán registrar en el SICAAC, los datos
 La información deberá ser registrada a más tardar dentro de los cinco (5) días siguientes a aquel en que el Centro asume conocimiento del caso o a la generación de la respectiva documentación, según sea el caso.
 
 (Decreto 1829 de 2013, artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.7 — Procedimiento para el registro y archivo de actas de conciliación
 
@@ -10519,15 +9287,11 @@ El Director del Centro hará constar en las copias de las actas si se trata de l
 
 (Decreto 1829 de 2013, artículo 44)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.8 — Criterios de calidad
 
 Los Centros de conciliación deberán implementar y satisfacer los requisitos generales del servicio contemplados en la Norma Técnica de Calidad 5906 o aquella que la modifique o sustituya. Los Centros voluntariamente se someterán a los procesos de certificación de calidad basados en la Norma Técnica.
 
 (Decreto 1829 de 2013, artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.9 — Papelería del Centro
 
@@ -10538,8 +9302,6 @@ Los Centros deberán incluir en su promoción y divulgación por cualquier medio
 Sección 8
 
 Programa de formación en conciliación extrajudicial en derecho
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.1 — Requisitos para solicitar el Aval
 
@@ -10559,23 +9321,17 @@ PARÁGRAFO . Las Universidades podrán ofrecer a sus estudiantes la formación e
 
 (Decreto 1829 de 2013, artículo 47)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.2 — Solicitud
 
 La solicitud de Aval deberá presentarse en escrito firmado por el representante legal de la entidad y acompañarse de los documentos que acrediten el lleno de los requisitos señalados en el artículo anterior, así como del contenido del Programa de Formación, el desarrollo de los objetivos y el planteamiento del sistema de evaluación de cada módulo, tanto para docentes como para alumnos.
 
 (Decreto 1829 de 2013, artículo 48)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.3 — Contenido del Programa de Formación
 
 El Ministerio de Justicia y del Derecho fijará mediante resolución los contenidos mínimos que debe comprender el Programa de Formación. Este se dividirá en tres módulos: básico, entrenamiento y pasantía. La aprobación de cada módulo será requisito para continuar la capacitación. Tanto el módulo básico como el módulo de entrenamiento, tendrán una duración mínima de sesenta (60) horas. La pasantía comprenderá un mínimo de dos (2) audiencias acompañadas por un docente conciliador.
 
 (Decreto 1829 de 2013, artículo 49)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.4 — Procedimiento de otorgamiento de Aval
 
@@ -10589,15 +9345,11 @@ Contra las decisiones adoptadas por la Dirección de Métodos Alternativos de So
 
 (Decreto 1829 de 2013, artículo 50)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.5 — Capacitación virtual y a distancia
 
 Las Entidades Avaladas procurarán utilizar herramientas que permitan el mayor acceso de los alumnos a la capacitación. Para ello podrán realizar cursos virtuales y a distancia.
 
 (Decreto 1829 de 2013, artículo 51)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.6 — Certificados
 
@@ -10617,8 +9369,6 @@ f) Firma del Director.
 
 (Decreto 1829 de 2013, artículo 52)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.7 — Registro de capacitados en el Sistema de Información de la Conciliación, el Arbitraje y la Amigable Composición
 
 La Entidad Avalada deberá registrar en el SICAAC los datos de quienes hayan cursado y aprobado el Programa de Formación.
@@ -10629,15 +9379,11 @@ Sección 9
 
 Inspección, vigilancia y control del Ministerio de Justicia y del Derecho a los Centros
 
-ARTÍCULO
-
 ## art:2.2.4.2.9.1 — Objetivo
 
 El Ministerio de Justicia y del Derecho podrá solicitar la información que estime pertinente y efectuar visitas a las instalaciones en que funcionan sus vigilados, para procurar, exigir y verificar el cumplimiento de las obligaciones legales y reglamentarias a cargo de estos, con el propósito de garantizar el acceso a la justicia a través de los Mecanismos Alternativos de Solución de Conflictos.
 
 (Decreto 1829 de 2013, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.4.2.9.2 — Diligencias preliminares
 
@@ -10646,8 +9392,6 @@ Cuando por cualquier medio el Ministerio de Justicia y del Derecho conozca la ex
 El Director de Métodos Alternativos de Solución de Conflictos designará mediante auto a un funcionario de esa dependencia para que practique la visita de inspección, vigilancia y control al Centro o a la Entidad Avalada.
 
 (Decreto 1829 de 2013, artículo 55)
-
-ARTÍCULO
 
 ## art:2.2.4.2.9.3 — Actas de visita
 
@@ -10673,23 +9417,17 @@ i) Firma de quienes participaron en la visita de inspección.
 
 (Decreto 1829 de 2013, artículo 56)
 
-ARTÍCULO
-
 ## art:2.2.4.2.9.4 — Requerimientos
 
 Si como resultado de la visita se encuentran hechos o situaciones que pudieren constituir faltas distintas de las establecidas en el artículo 2.2.4.2.9.7., del presente capítulo, lo requerirá para que adopte los correctivos que sean del caso. El Centro tendrán un plazo máximo de treinta (30) días calendario siguientes al requerimiento para presentar ante el Ministerio de Justicia y del Derecho las constancias, documentos y demás información que demuestre que se han efectuado los ajustes solicitados.
 
 (Decreto 1829 de 2013, artículo 57)
 
-ARTÍCULO
-
 ## art:2.2.4.2.9.5 — Apertura de investigación y procedimiento
 
 Cuando en concepto del Ministerio de Justicia y del Derecho no se han adoptado los correctivos a que se refiere el artículo anterior, el Centro correspondiente no presenta la documentación que sustenta la adopción de correctivos en el plazo correspondiente o el Centro incurra en alguna de las conductas a que se refiere el artículo 2.2.4.2.9.7., del presente capítulo, se abrirá un proceso sancionatorio el cual se sujetará a lo dispuesto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo para el procedimiento administrativo sancionatorio.
 
 (Decreto 1829 de 2013, artículo 58)
-
-ARTÍCULO
 
 ## art:2.2.4.2.9.6 — Sanciones
 
@@ -10721,8 +9459,6 @@ El Ministerio de Justicia y del Derecho, una vez comprobada la infracción y pre
 
 (Decreto 1829 de 2013, artículo 59)
 
-ARTÍCULO
-
 ## art:2.2.4.2.9.7 — Revocatoria de la autorización de funcionamiento
 
 El Ministerio de Justicia y del Derecho cancelará la autorización de creación del Centro en cualquiera de los siguientes eventos:
@@ -10741,8 +9477,6 @@ PARÁGRAFO . Cuando a los Centros se les haya cancelado la autorización de func
 
 (Decreto 1829 de 2013, artículo 60)
 
-ARTÍCULO
-
 ## art:2.2.4.2.9.8 — Publicación de Sanciones
 
 Las sanciones impuestas por el Ministerio de Justicia y del Derecho a un Centro, una vez en firme, serán publicadas en SICAAC.
@@ -10753,8 +9487,6 @@ Sección 10
 
 Pacto arbitral en contratos de adhesión
 
-ARTÍCULO
-
 ## art:2.2.4.2.10.1 — Opción de pacto arbitral
 
 En todo contrato, y en particular, en el de adhesión o contenido predispuesto, se podrá incluir el pacto arbitral como cláusula de opción en los términos del artículo 23 de la Ley 51 de 1918. La estipulación debe ser clara, precisa e informarse explícitamente al celebrarse el contrato.
@@ -10764,8 +9496,6 @@ La parte a cuyo favor se concede la opción de pacto arbitral, podrá aceptarla 
 Salvo estipulación expresa en contrario, el término de vigencia de la opción es de un (1) año, contabilizado a partir de la celebración del contrato.
 
 (Decreto 1829 de 2013, artículo 80)
-
-ARTÍCULO
 
 ## art:2.2.4.2.10.2 — Condiciones
 
@@ -10811,8 +9541,6 @@ Sección 11
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.4.2.11.1 — Régimen de transición
 
 Los Centros que se encuentren en funcionamiento, se regirán por lo previsto en el presente capítulo a partir del 27 de agosto de 2013 y deberán modificar, en lo pertinente, su Reglamento y ajustar sus condiciones a lo aquí previsto, so pena de que su autorización sea cancelada.
@@ -10839,15 +9567,11 @@ Subsección 1.
 
 Conciliación extrajudicial en asuntos de lo contencioso administrativo
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.1 — Objeto
 
 Las normas de la (sic) presente capítulo se aplicarán a la conciliación extrajudicial en asuntos de lo contencioso administrativo.
 
 (Decreto 1716 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.1.2 — Modificado por el Art
 
@@ -10869,8 +9593,6 @@ PARÁGRAFO 4. El agotamiento de la conciliación como requisito de procedibilida
 
 (Decreto 1716 de 2009, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.3 — Suspensión del término de caducidad de la acción
 
 La presentación de la solicitud de conciliación extrajudicial ante los agentes del Ministerio Público suspende el término de prescripción o de caducidad, según el caso, hasta:
@@ -10889,23 +9611,17 @@ PARÁGRAFO . Las partes por mutuo acuerdo podrán prorrogar el término de tres 
 
 (Decreto 1716 de 2009, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.4 — Impedimentos y recusaciones
 
 La intervención del agente del Ministerio Público en cumplimiento de las atribuciones que le son propias en la conciliación extrajudicial, no dará lugar a impedimento ni recusación por razón del desempeño de tal cargo, respecto de las actuaciones posteriores que deba cumplir ante la Jurisdicción Contencioso Administrativa.
 
 (Decreto 1716 de 2009, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.5 — Derecho de postulación
 
 Los interesados, trátese de personas de derecho público, de particulares o de personas jurídicas de derecho privado, actuarán en la conciliación extrajudicial por medio de apoderado, quien deberá ser abogado inscrito y tener facultad expresa para conciliar.
 
 (Decreto 1716 de 2009, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.1.6 — Petición de conciliación extrajudicial
 
@@ -10947,8 +9663,6 @@ Cuando el agente del Ministerio Público, en razón del factor territorial o por
 
 (Decreto 1716 de 2009, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.7 — Audiencia de conciliación extrajudicial
 
 Dentro de los diez (10) días siguientes al recibo de la solicitud, el agente del Ministerio Público, de encontrarla procedente, fijará fecha y hora para la celebración de la audiencia de conciliación, la cual tendrá lugar dentro de los treinta (30) días siguientes.
@@ -10956,8 +9670,6 @@ Dentro de los diez (10) días siguientes al recibo de la solicitud, el agente de
 El agente del Ministerio Público citará a los interesados a la audiencia por el medio que considere más expedito y eficaz (telegrama, fax, correo electrónico) con una antelación no inferior a 15 días a la realización de la misma; indicando sucintamente el objeto de la conciliación y las consecuencias jurídicas de la no comparecencia.
 
 (Decreto 1716 de 2009, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.1.8 — Pruebas
 
@@ -10974,8 +9686,6 @@ PARÁGRAFO . Cuando exista ánimo conciliatorio, el agente del Ministerio Públi
 Igualmente, cuando exista ánimo conciliatorio, el agente del Ministerio Público podrá solicitar el apoyo técnico de la Dirección Nacional de Investigaciones Especiales de la Procuraduría General de la Nación, así como de las entidades públicas competentes para el efecto, con el objeto de valorar los medios de prueba aportados por las partes.
 
 (Decreto 1716 de 2009, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.1.9 — Desarrollo de la audiencia de conciliación
 
@@ -11007,15 +9717,11 @@ Si el agente del Ministerio Público no está de acuerdo con la conciliación re
 
 (Decreto 1716 de 2009, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.10 — Suspensión de la Audiencia de Conciliación
 
 La Audiencia de Conciliación es susceptible de suspensión por solicitud expresa de ambas partes y siempre que el agente del Ministerio Público encontrare elementos de juicio respecto de la existencia de ánimo conciliatorio.
 
 (Decreto 1716 de 2009, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.1.11 — Culminación del trámite de conciliación por inasistencia de las partes
 
@@ -11023,23 +9729,17 @@ Señalada la fecha para la realización de la audiencia sin que esta se pueda ll
 
 (Decreto 1716 de 2009, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.12 — Aprobación judicial
 
 El agente del Ministerio Público remitirá, dentro de los tres (3) días siguientes a la celebración de la correspondiente audiencia, el acta de conciliación, junto con el respectivo expediente al juez o corporación competente para su aprobación.
 
 (Decreto 1716 de 2009, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1.13 — Mérito ejecutivo del acta de conciliación
 
 El acta de acuerdo conciliatorio total o parcial adelantado ante el agente del Ministerio Público y el correspondiente auto aprobatorio debidamente ejecutoriado, prestarán mérito ejecutivo y tendrán efecto de cosa juzgada.
 
 (Decreto 1716 de 2009, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.1.14 — Inasistencia injustificada
 
@@ -11051,8 +9751,6 @@ Subsección 2.
 
 Comités de Conciliación
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.1 — Campo de aplicación
 
 Las normas sobre comités de conciliación contenidas en el presente capítulo son de obligatorio cumplimiento para las entidades de derecho público, los organismos públicos del orden nacional, departamental, distrital, los municipios que sean capital de departamento y los entes descentralizados de estos mismos niveles.
@@ -11063,8 +9761,6 @@ PARÁGRAFO . Las entidades de derecho público de los demás órdenes podrán co
 
 (Decreto 1716 de 2009, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.2 — Comité de Conciliación
 
 El Comité de Conciliación es una instancia administrativa que actúa como sede de estudio, análisis y formulación de políticas sobre prevención del daño antijurídico y defensa de los intereses de la entidad.
@@ -11074,8 +9770,6 @@ Igualmente decidirá, en cada caso específico, sobre la procedencia de la conci
 PARÁGRAFO . La decisión del Comité de Conciliación acerca de la viabilidad de conciliar no constituye ordenación de gasto.
 
 (Decreto 1716 de 2009, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.2.3 — Modificado por el Art
 
@@ -11099,8 +9793,6 @@ PARÁGRAFO 3. En lo que se refiere a la integración de los comités de concilia
 
 (Decreto 1716 de 2009, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.4 — Sesiones y votación
 
 El Comité de Conciliación se reunirá no menos de dos veces al mes, y cuando las circunstancias lo exijan.
@@ -11110,8 +9802,6 @@ Presentada la petición de conciliación ante la entidad, el Comité de Concilia
 El Comité podrá sesionar con un mínimo de tres de sus miembros permanentes y adoptará las decisiones por mayoría simple.
 
 (Decreto 1716 de 2009, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.2.5 — Funciones
 
@@ -11143,8 +9833,6 @@ PARÁGRAFO . En aquellas entidades donde no exista la obligación de constituir 
 
 (Decreto 1716 de 2009, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.6 — Secretaría Técnica
 
 Son funciones del Secretario del Comité de Conciliación las siguientes:
@@ -11163,15 +9851,11 @@ Son funciones del Secretario del Comité de Conciliación las siguientes:
 
 (Decreto 1716 de 2009, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.7 — Indicador de gestión
 
 La prevención del daño antijurídico será considerada como un indicador de gestión y con fundamento en él se asignarán las responsabilidades en el interior de cada entidad.
 
 (Decreto 1716 de 2009, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.2.8 — Apoderados
 
@@ -11179,27 +9863,19 @@ Las decisiones adoptadas por el Comité de Conciliación o por el representante 
 
 (Decreto 1716 de 2009, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.9 — Asesoría
 
 La Agencia Nacional de Defensa Jurídica del Estado asesorará a los respectivos entes en la conformación y funcionamiento de los comités y en el diseño y desarrollo de las políticas integrales de defensa de los intereses públicos en litigio y de las de prevención del daño antijurídico estatal.
 
 (Decreto 1716 de 2009, artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.10 — Suprimido por el Art
 
 6, Decreto Nacional 1167 de 2016.
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.11 — Suprimido por el Art
 
 6, Decreto Nacional 1167 de 2016.
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.2.12 — Modificado por el Art
 
@@ -11211,21 +9887,15 @@ PARÁGRAFO . La Oficina de Control Interno de las entidades o quien haga sus vec
 
 (Decreto 1716 de 2009, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.13 — Llamamiento en garantía con fines de repetición
 
 Los apoderados de los entes públicos deberán presentar informe al Comité de Conciliación para que este pueda determinar la procedencia del llamamiento en garantía para fines de repetición en los procesos judiciales de responsabilidad patrimonial. Lo anterior, sin perjuicio de la obligación contenida en el artículo anterior.
 
 (Decreto 1716 de 2009, artículo 27)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2.14 — Suprimido por el Art
 
 6, Decreto Nacional 1167 de 2016.
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.2.15 — Publicación
 
@@ -11237,19 +9907,13 @@ Sección 2
 
 De la conciliación laboral
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.1 — Asuntos conciliables en materia laboral
 
-Para los efectos del ARTÍCULO
-
-## art:65 — 
+Para los efectos del
 
 65 de la Ley 446 de 1998, se entienden como asuntos conciliables, todos los conflictos jurídicos de trabajo que se tramitan como procesos ordinarios de única o de primera instancia.
 
 (Decreto 2511 de 1998, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.2 — Casos en los que no es necesaria la audiencia de conciliación
 
@@ -11257,15 +9921,11 @@ Cuando se presenta demanda y ya se hubiere intentado conciliar la controversia, 
 
 (Decreto 2511 de 1998, artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.3 — Conciliación durante el juicio
 
 También podrá efectuarse la conciliación en cualquiera de las instancias, siempre que las partes, de común acuerdo, lo soliciten.
 
 (Decreto 2511 de 1998, artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.4 — De la solicitud de conciliación
 
@@ -11291,8 +9951,6 @@ Si durante el trámite de la audiencia se observare que no es procedente la conc
 
 (Decreto 2511 de 1998, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.5 — Comparecencia de las partes
 
 El conciliador velará porque se logre la comparecencia de las partes, por cualquier medio idóneo para que se surta la citación.
@@ -11301,23 +9959,17 @@ Si ello no fuere posible, el conciliador si es funcionario administrativo o judi
 
 (Decreto 2511 de 1998, artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.6 — Suspensión de la audiencia de conciliación
 
 La audiencia de conciliación es susceptible de suspensión por solicitud expresa de ambas partes, si el funcionario o conciliador encontrare elementos de juicio de ánimo conciliatorio.
 
 (Decreto 2511 de 1998, artículo 27)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.7 — De las pruebas
 
 Durante la celebración de la audiencia, los interesados podrán aportar las pruebas que estimen necesarias. Con todo, el funcionario o conciliador podrán considerar los elementos de juicio que sean útiles para la conformación del acuerdo, trámite que no dará lugar a la ampliación de términos.
 
 (Decreto 2511 de 1998, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.8 — Mérito ejecutivo del acta de conciliación
 
@@ -11329,15 +9981,11 @@ CAPÍTULO 4.
 
 PROCEDIMIENTO DE INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE
 
-ARTÍCULO
-
 ## art:2.2.4.4.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar los requisitos con los que deben cumplir los operadores de la insolvencia para conocer de los procedimientos de negociación de deudas y convalidación de acuerdos privados de los que trata el Título 4 de la Sección 3 del Libro 3 del Código General del Proceso, los requisitos que deben llenar las entidades que busquen obtener aval para formar conciliadores en insolvencia, las tarifas que pueden cobrarse por conocer de tales procedimientos, la forma de integrar las listas de conciliadores en insolvencia y liquidadores que actuarán en los procedimientos de insolvencia de la persona natural no comerciante, el tratamiento de los bienes del deudor constituidos como patrimonio de familia inembargable o afectados a vivienda familiar en los procedimientos de insolvencia, y otras disposiciones referidas a la debida ejecución del referido Título.
 
 (Decreto 2677 de 2012, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.4.1.2 — Ámbito de aplicación
 
@@ -11349,15 +9997,11 @@ En lo no previsto en el Título 4 de la Sección 3 del Libro 3 del Código Gener
 
 Competencia y requisitos de los Centros de Conciliación y de las Notarías
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.1 — Competencia de los Centros de Conciliación para conocer de los Procedimientos de insolvencia
 
 Los Centros de Conciliación solo podrán conocer de los Procedimientos de Insolvencia cuando cuenten con autorización por parte del Ministerio de Justicia y del Derecho.
 
 (Decreto 2677 de 2012, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2.2 — Competencia de los Centros de Conciliación Gratuitos
 
@@ -11367,15 +10011,11 @@ Los estudiantes conciliadores de los centros de conciliación de los consultorio
 
 (Decreto 2677 de 2012, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.3 — Competencia de los Centros de Conciliación Remunerados
 
 Los Centros de Conciliación Remunerados podrán conocer de los Procedimientos de Insolvencia sin límite de cuantía, siempre y cuando cuenten con la autorización expresa del Ministerio de Justicia y del Derecho, de la que trata el artículo siguiente.
 
 (Decreto 2677 de 2012, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2.4 — 2.4
 
@@ -11395,8 +10035,6 @@ El Ministerio de Justicia y del Derecho decidirá sobre la solicitud dentro de l
 
 (Decreto 2677 de 2012, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.5 — Competencia de las Notarías
 
 Las Notarías podrán conocer de los Procedimientos de Insolvencia a través de los notarios, sin necesidad de autorización previa, o de los conciliadores inscritos en la lista que aquellos hayan constituido para el efecto.
@@ -11405,8 +10043,6 @@ Cuando el notario conforme la lista de conciliadores en insolvencia para atender
 
 (Decreto 2677 de 2012, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.6 — Responsabilidad del notario y de los conciliadores de su lista
 
 En caso de que el notario avoque directamente el conocimiento de los Procedimientos de Insolvencia, será responsable por sus actuaciones como conciliador.
@@ -11414,8 +10050,6 @@ En caso de que el notario avoque directamente el conocimiento de los Procedimien
 Cuando el notario designe un conciliador de la lista que haya conformado para el efecto, este último responderá por las actuaciones que desarrolle en el trámite de insolvencia.
 
 (Decreto 2677 de 2012, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2.7 — Obligaciones del notario
 
@@ -11447,8 +10081,6 @@ La Superintendencia de Notariado y Registro ejercerá orientación en el cumplim
 
 (Decreto 2677 de 2012, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.4.4.3.1 — Conciliadores habilitados para conocer de los procedimientos de insolvencia
 
 Podrán actuar como conciliadores para conocer de los procedimientos de insolvencia:
@@ -11462,8 +10094,6 @@ Podrán actuar como conciliadores para conocer de los procedimientos de insolven
 PARÁGRAFO . Los promotores que cumplan con los requisitos de que trata el numeral 2 del presente artículo no requerirán tener la calidad de abogado, ni haber cursado el Programa de Formación en Insolvencia previsto en el presente capítulo.
 
 (Decreto 2677 de 2012, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.4.4.3.2 — Integración de las listas de conciliadores en insolvencia
 
@@ -11481,8 +10111,6 @@ Sección 4
 
 Programa de Formación en Insolvencia
 
-ARTÍCULO
-
 ## art:2.2.4.4.4.1 — Programa de Formación en Insolvencia
 
 El aspirante a formar parte de las listas de conciliadores en insolvencia deberá acreditar ante el Centro de Conciliación o ante el notario, haber aprobado el Programa de Formación en Insolvencia, condición que acreditará con copia del certificado expedido por la Entidad Avalada que la haya impartido.
@@ -11491,23 +10119,17 @@ Quienes hubieren cursado y aprobado el curso de formación en insolvencia para l
 
 (Decreto 2677 de 2012, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.4.4.4.2 — Instituciones autorizadas para impartir el Programa de Formación en Insolvencia
 
 Podrán impartir programas de formación de conciliadores en insolvencia las Entidades Avaladas para ello por el Ministerio de Justicia y del Derecho. Dichas entidades podrán ofrecer el Programa de Formación en Insolvencia por fuera de su sede o de forma virtual, en colaboración con otras entidades, en virtud de convenios que cuenten con la autorización previa del Ministerio de Justicia y del Derecho.
 
 (Decreto 2677 de 2012, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.4.4.4.3 — Contenido del Programa de Formación
 
 El Ministerio de Justicia y del Derecho fijará mediante resolución los contenidos mínimos que debe comprender el Programa de Formación. Este deberá tener una duración no inferior a ciento veinte (120) horas, de las cuales por lo menos una tercera parte deberá destinarse al módulo práctico.
 
 (Decreto 2677 de 2012, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.4.4.4.4 — Procedimiento de otorgamiento del Aval
 
@@ -11522,8 +10144,6 @@ Si la solicitud satisface los requisitos exigidos para otorgar el Aval, el Minis
 PARÁGRAFO . El Ministerio de Justicia y del Derecho velará por la implementación del trámite virtual para solicitar el aval para impartir los Programas de Formación.
 
 (Decreto 2677 de 2012, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.4.4.4.5 — Certificados
 
@@ -11541,8 +10161,6 @@ e) Firma del Director.
 
 (Decreto 2677 de 2012, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.4.4.4.6 — Registro de capacitados en el Sistema de Información de Conciliación
 
 La Entidad Avalada deberá registrar en el Sistema de Información de la Conciliación del Ministerio de Justicia y del Derecho, los datos de quienes han cursado y aprobado la formación respectiva.
@@ -11551,15 +10169,11 @@ La Superintendencia de Sociedades dispondrá lo pertinente para que los promotor
 
 (Decreto 2677 de 2012, artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.4.4.4.7 — Educación continuada
 
 Cada dos (2) años el conciliador y el liquidador deberán acreditar la realización de cursos de educación continuada por un número mínimo de cuarenta (40) horas. El cumplimiento de este requisito se acreditará mediante certificado de la institución que haya impartido el curso, foro, seminario o evento similar, que se presentará ante el Centro de Conciliación o Notaría en que el conciliador se halle inscrito.
 
 (Decreto 2677 de 2012, artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.4.4.5.1 — Procedimiento de selección del conciliador en insolvencia
 
@@ -11569,8 +10183,6 @@ Si dentro del término previsto en el artículo 541 del Código General del Proc
 
 (Decreto 2677 de 2012, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.4.4.5.2 — Causales de impedimento
 
 El conciliador designado por el Centro de Conciliación o por el notario, deberá manifestar bajo la gravedad del juramento que acepta el cargo por no encontrarse incurso en alguna de las causales de impedimento previstas en la ley para los jueces, que se le aplicarán en lo pertinente.
@@ -11578,8 +10190,6 @@ El conciliador designado por el Centro de Conciliación o por el notario, deber�
 El juramento se entenderá prestado por el Notario cuando avoca directamente el conocimiento de los procedimientos de insolvencia.
 
 (Decreto 2677 de 2012, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.4.4.5.3 — Trámite de la recusación
 
@@ -11598,8 +10208,6 @@ Cuando el notario avoque conocimiento del Procedimiento de Insolvencia de manera
 Sección 6
 
 Sanciones y cesación de funciones
-
-ARTÍCULO
 
 ## art:2.2.4.4.6.1 — Remoción y sustitución
 
@@ -11623,8 +10231,6 @@ El Centro de Conciliación o el notario removerá al conciliador y lo excluirá 
 
 (Decreto 2677 de 2012, artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.4.4.6.2 — Cesación de funciones y sustitución
 
 El conciliador cesará en sus funciones y será sustituido, sin necesidad de trámite incidental ni revisión judicial dentro del Procedimiento de Insolvencia, en los siguientes eventos:
@@ -11647,15 +10253,11 @@ En los casos previstos en los numerales 2 a 6, en el mismo acto que ordena la ce
 
 (Decreto 2677 de 2012, artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7.1 — Base para calcular las tarifas en los Procedimientos de Insolvencia
 
 En los Procedimientos de Insolvencia, los Centros de Conciliación Remunerados estimarán las tarifas según el valor total del monto de capital de los créditos a cargo del deudor, de conformidad con la relación de acreedores que se presente como anexo de la solicitud.
 
 (Decreto 2677 de 2012, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.2 — Tarifas máximas aplicables a los Centros de Conciliación Remunerados
 
@@ -11887,15 +10489,11 @@ PARÁGRAFO 2º. Los Centros de Conciliación deberán establecer criterios objet
 
 (Decreto 2677 de 2012, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7.3 — Tarifas máximas aplicables a las notarías
 
 La Superintendencia de Notariado y Registro determinará mediante resolución las tarifas a cobrar por los notarios para conocer de los Procedimientos de Insolvencia, dentro de los topes máximos fijados por el artículo anterior. Para la fijación de los montos, tendrá en cuenta que estas deben constituir una equitativa retribución del servicio y que no pueden gravar en exceso a quienes acceden a los Procedimientos de Insolvencia. Dichas tarifas serán revisadas anualmente.
 
 (Decreto 2677 de 2012, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.4 — Determinación de la tarifa
 
@@ -11905,15 +10503,11 @@ En el caso de las Notarías, la tarifa será fijada y comunicada al deudor por e
 
 (Decreto 2677 de 2012, artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7.5 — Rechazo de la solicitud
 
 Cuando la tarifa no sea cancelada dentro de los cinco (5) días siguientes a aquel en que el deudor reciba la comunicación de que trata el artículo anterior, el conciliador o el notario rechazará la solicitud. Contra dicha decisión solo procederá el recurso de reposición, en los mismos términos y condiciones previstos para el proceso civil.
 
 (Decreto 2677 de 2012, artículo 29)
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.6 — Reliquidación de la tarifa
 
@@ -11925,15 +10519,11 @@ Si, como consecuencia de las objeciones, la cuantía del capital de las obligaci
 
 (Decreto 2677 de 2012, artículo 30)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7.7 — Sesiones adicionales
 
 Si en el procedimiento de negociación de deudas o de convalidación del acuerdo privado se realizan más de cuatro (4) sesiones con el conciliador o el Notario, podrá cobrarse hasta un diez por ciento (10%) adicional sobre la tarifa inicialmente estimada de conformidad con lo establecido en el artículo 2.2.4.4.7.2. del presente capítulo, con independencia del número de sesiones adicionales que se realicen.
 
 (Decreto 2677 de 2012, artículo 31)
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.8 — Tarifas en caso de audiencia de reforma del acuerdo de pago
 
@@ -11942,8 +10532,6 @@ Cuando se solicite la reforma del acuerdo de pago, de conformidad con lo dispues
 La nueva tarifa deberá ser sufragada por el deudor o por el grupo de acreedores que hubieren solicitado la reforma, dentro de los cinco (5) días siguientes al recibo de la comunicación de la nueva tarifa. Vencido dicho término, y si se hubiese cancelado el monto indicado, el conciliador o el notario fijará fecha y hora para audiencia de reforma. En caso de que no sea cancelada la nueva tarifa en el término mencionado, el conciliador o el notario rechazará la solicitud de reforma.
 
 (Decreto 2677 de 2012, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.9 — Tarifas en caso de audiencia por incumplimiento del acuerdo
 
@@ -11955,15 +10543,11 @@ El acreedor que hubiese pagado la tarifa prevista en este artículo podrá repet
 
 (Decreto 2677 de 2012, artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7.10 — Tarifas en caso de nulidad del acuerdo de pago
 
 No habrá lugar al cobro de tarifas por la audiencia que se convoque para corregir el acuerdo de pago cuando el Juez Civil Municipal haya declarado su nulidad, según lo previsto en el artículo 557 del Código General del Proceso.
 
 (Decreto 2677 de 2012, artículo 34)
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.11 — Registro y radicación del acta
 
@@ -11974,8 +10558,6 @@ El operador de insolvencia deberá radicar el acta que contenga el acuerdo de pa
 Sección 8
 
 Información y Cauciones
-
-ARTÍCULO
 
 ## art:2.2.4.4.8.1 — Información de los Procedimientos de Insolvencia
 
@@ -11991,15 +10573,11 @@ Sección 9
 
 Disposiciones especiales relativas al patrimonio de familia inembargable y a la afectación a vivienda familiar
 
-ARTÍCULO
-
 ## art:2.2.4.4.9.1 — Relación de bienes constituidos como patrimonio de familia inembargable o afectados a vivienda familiar
 
 El deudor, en la solicitud de negociación de deudas o de convalidación de acuerdos privados deberá incluir los bienes que haya constituido como patrimonio de familia inembargable o que haya afectado a vivienda familiar, dentro de la relación de bienes de que trata el numeral 4 del artículo 539 del Código General del Proceso.
 
 (Decreto 2677 de 2012, artículo 37)
-
-ARTÍCULO
 
 ## art:2.2.4.4.9.2 — Negociación sobre los bienes constituidos como patrimonio de familia inembargable
 
@@ -12017,8 +10595,6 @@ PARÁGRAFO . Cuando sobre el inmueble se haya constituido hipoteca para garantiz
 
 (Decreto 2677 de 2012, artículo 38)
 
-ARTÍCULO
-
 ## art:2.2.4.4.9.3 — Negociación sobre los bienes afectados a vivienda familiar
 
 El deudor y sus acreedores podrán disponer, en los acuerdos de pago, de los bienes del deudor afectados a vivienda familiar, siempre y cuando se cuente con los siguientes requisitos:
@@ -12032,8 +10608,6 @@ El deudor y sus acreedores podrán disponer, en los acuerdos de pago, de los bie
 PARÁGRAFO . Cuando sobre el inmueble se haya constituido hipoteca para garantizar créditos otorgados para la adquisición, remodelación, subdivisión, reparación, mejora o construcción del bien afectado a vivienda familiar, se respetarán la prelación y los privilegios señalados en la Ley 258 de 1996.
 
 (Decreto 2677 de 2012, artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.4.4.9.4 — Exclusión de la masa
 
@@ -12049,8 +10623,6 @@ PARÁGRAFO . Sin perjuicio de lo dispuesto en el presente artículo, el liquidad
 
 (Decreto 2677 de 2012, artículo 40)
 
-ARTÍCULO
-
 ## art:2.2.4.4.9.5 — 9.5
 
 Presentación del crédito garantizado con el bien constituido como patrimonio de familia inembargable o afectado a vivienda familiar. Según lo previsto por el artículo 565 del Código General del Proceso, los créditos relacionados en el artículo anterior se harán exigibles en virtud de la apertura de la liquidación patrimonial. Sus titulares deberán hacerse parte del procedimiento, en la oportunidad fijada en el artículo 566 del Código General del Proceso, y deberán acompañar a su solicitud prueba siquiera sumaria de la existencia del crédito reclamado y del cumplimiento de alguno de los requisitos señalados en el artículo anterior.
@@ -12058,8 +10630,6 @@ Presentación del crédito garantizado con el bien constituido como patrimonio d
 Los hechos constitutivos de excepciones de mérito se presentarán y tramitarán como objeciones al crédito presentado y serán resueltas por el Juez en el auto que cite a audiencia de adjudicación.
 
 (Decreto 2677 de 2012, artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.4.4.9.6 — Adjudicación del bien constituido como patrimonio de familia inembargable o afectado a vivienda familiar
 
@@ -12083,15 +10653,11 @@ PARÁGRAFO . Dentro del término para consignar el mayor valor del bien, el acre
 
 (Decreto 2677 de 2012, artículo 42)
 
-ARTÍCULO
-
 ## art:2.2.4.4.9.7 — Insuficiencia del bien constituido como patrimonio de familia inembargable o afectado a vivienda familiar
 
 De quedar saldos insolutos una vez adjudicada la garantía, estos serán pagados con la masa de la liquidación, respetando el orden de prelación de créditos y la igualdad con los demás acreedores involucrados. Si con posterioridad a la adjudicación de los bienes de la masa de la liquidación subsistieren saldos insolutos, procederán los efectos dispuestos en el numeral 1 del artículo 571 del Código General del Proceso.
 
 (Decreto 2677 de 2012, artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.4.4.9.8 — Procesos ejecutivos
 
@@ -12102,8 +10668,6 @@ Tampoco podrán iniciarse ni continuarse procesos ejecutivos para cobrar las obl
 Con todo, los procesos ejecutivos podrán continuarse con los terceros garantes o codeudores, en los términos del artículo 547 del Código General del Proceso.
 
 (Decreto 2677 de 2012, artículo 44)
-
-ARTÍCULO
 
 ## art:2.2.4.4.9.9 — Levantamiento de la afectación a vivienda familiar
 
@@ -12119,15 +10683,11 @@ Sección 10
 
 Disposiciones varias
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.1 — Régimen aplicable a los liquidadores
 
 Los liquidadores se sujetarán, en lo pertinente, al régimen de sanciones y cesación de funciones previstas en el Decreto 962 de 2009 o las normas que lo compilen, adicionen, modifiquen o sustituyan.
 
 (Decreto 2677 de 2012, artículo 46)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.2 — Listas de liquidadores
 
@@ -12136,8 +10696,6 @@ Los jueces nombrarán los liquidadores que intervendrán en los procedimientos d
 PARÁGRAFO . Los procesos de liquidación patrimonial de la persona natural no comerciante no contarán para la aplicación del límite de procesos de que trata el artículo 67 de la Ley 1116 de 2006.
 
 (Decreto 2677 de 2012, artículo 47)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.3 — Nuevos créditos a cargo del deudor
 
@@ -12149,8 +10707,6 @@ El incumplimiento de cualquiera de las obligaciones adquiridas durante la negoci
 
 (Decreto 2677 de 2012, artículo 48)
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.4 — Servicios públicos domiciliarios
 
 Las empresas prestadoras de servicios públicos domiciliarios que hubieren suspendido la prestación de tales servicios al deudor por mora ocurrida con posterioridad al inicio del Procedimiento de Insolvencia, no estarán obligadas a reconectarlos como consecuencia de la apertura de la liquidación patrimonial.
@@ -12160,8 +10716,6 @@ Las obligaciones en mora causadas entre el inicio del Procedimiento de Insolvenc
 El deudor que entre en liquidación patrimonial podrá solicitar el restablecimiento del servicio, cuando haya pagado todos los saldos y gastos de reinstalación o reconexión causadas con posterioridad a la apertura de la liquidación.
 
 (Decreto 2677 de 2012, artículo 49)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.5 — Deudores en concordato, liquidación obligatoria y otros procedimientos de insolvencia
 
@@ -12181,13 +10735,9 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.5.1.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar el trámite ante Centros de Conciliación y Notarios para la formalización de acuerdos de apoyo y directivas anticipadas, de acuerdo con lo establecido en la Ley 1996 de 2019.
-
-ARTÍCULO
 
 ## art:2.2.4.5.1.2 — Ámbito de aplicación
 
@@ -12196,8 +10746,6 @@ Las disposiciones establecidas en el presente capitulo serán observadas por los
 SECCIÓN 2
 
 DE LA FORMALIZACIÓN DE ACUERDOS DE APOYO Y DIRECTIVAS ANTICIPADAS ANTE CENTROS DE CONCILIACIÓN Y NOTARIOS
-
-ARTÍCULO
 
 ## art:2.2.4.5.2.1 — Obligaciones de los Centros de Conciliación y Notarios
 
@@ -12229,8 +10777,6 @@ En el caso de los Notarios, la Superintendencia de Notariado y Registro, en el e
 
 12. Expedir copias del acta o escritura de formalización del acuerdo de apoyo o directiva anticipada, a quienes las suscribieron.
 
-ARTÍCULO
-
 ## art:2.2.4.5.2.2 — Obligaciones de los Conciliadores Extrajudiciales en Derecho y Notarios
 
 Para la implementación de la Ley 1996 de 2019, deberán:
@@ -12246,8 +10792,6 @@ Para la implementación de la Ley 1996 de 2019, deberán:
 5. Manifestar las consecuencias de las declaraciones efectuadas por la persona titular del acto, al igual que la repercusión de su inobservancia.
 
 6. Exponer al titular del acto jurídico y a la persona de apoyo, el trámite para la modificación, finalización, revocación o sustitución del acuerdo de apoyo o directiva anticipada, y cerciorarse de su comprensión.
-
-ARTÍCULO
 
 ## art:2.2.4.5.2.3 — Trámite para la formalización de acuerdos de apoyo o directivas anticipadas ante los Centros de Conciliación
 
@@ -12305,8 +10849,6 @@ K. La firma de la persona titular del acto jurídico, la persona o personas de a
 
 PARÁGRAFO . El acuerdo de apoyo o la directiva anticipada deberá ser archivado en el Centro de Conciliación, y su director procederá dentro de los tres (3) días siguientes a la suscripción del mismo, a realizar el registro en el Sistema de Información de la Conciliación, el Arbitraje y la Amigable Composición (SICAAC), administrado por el Ministerio de Justicia y del Derecho. El Centro entregará a las partes copia del acta suscrita.
 
-ARTÍCULO
-
 ## art:2.2.4.5.2.4 — Trámite para la formalización de acuerdos de apoyo o directivas anticipadas ante las Notarías
 
 El trámite para la formalización de acuerdos de apoyo o directivas anticipadas de personas mayores de edad con discapacidad previsto en la Ley 1996 de 2019, podrá realizarse ante el Notario y se formalizará mediante escritura pública. El trámite será el siguiente:
@@ -12355,8 +10897,6 @@ G. El medio a través del cual, de ser el caso, la persona de apoyo comunicará 
 
 8, Publicidad. Dentro de los ocho (8) días siguientes a la autorización de la escritura pública de formalización del acuerdo de apoyo o de las directivas anticipadas, el Notario incorporará el trámite en el Sistema de Información de la Conciliación, el Arbitraje y la Amigable Composición (SICAAC}, administrado por el Ministerio de Justicia y del Derecho.
 
-ARTÍCULO
-
 ## art:2.2.4.5.2.5 — Terminación del Acuerdo de Apoyos
 
 Además de las causales previstas por los parágrafos 1o y 2o del artículo 20 de la Ley 1996 de 2019, el acuerdo de apoyos podrá terminar por consenso de quienes participaron en su formalización o por decisión unilateral de cualquiera de las partes.
@@ -12381,19 +10921,13 @@ Si el acta de terminación del acuerdo se suscribe ante un centro de conciliaci�
 
 El Centro de Conciliación incorporará el acto en el Sistema de Información de la Conciliación, el Arbitraje y la Amigable Composición (SICAAC), administrado por el Ministerio de Justicia y del Derecho, dentro de los tres (3) días siguientes.
 
-ARTÍCULO
-
 ## art:2.2.4.5.2.6 — Modificación del Acuerdo de Apoyos
 
 El titular del acto jurídico y la persona de apoyo podrán modificar el acuerdo de apoyos, por consenso, mediante escritura pública o acta de conciliación, para cuyo efecto se agotará el mismo trámite establecido para su formalización.
 
-ARTÍCULO
-
 ## art:2.2.4.5.2.7 — Modificación, Sustitución y Revocación de las Directivas Anticipadas
 
 Cuando se solemnice la modificación, sustitución o revocación de las directivas anticipadas ante Notario además de observar los requisitos establecidos por el artículo 31 de la Ley 1996 de 2019, se atenderá lo regulado en el artículo 2.2.4.5.2.5. de este decreto sobre la nota de referencia que se debe estampar en la matriz de la escritura pública primigenia y la incorporación del acto en el Sistema de Información de la Conciliación, el Arbitraje y la Amigable Composición (SICAAC), administrado por el Ministerio de Justicia y del Derecho.
-
-ARTÍCULO
 
 ## art:2.2.4.5.2.8 — Régimen tarifario
 
@@ -12406,8 +10940,6 @@ Cuando el trámite se adelante ante el Notario causará por concepto de derechos
 SECCIÓN 3
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.4.5.3.1 — Lugar de prestación de los servicios
 
@@ -12427,8 +10959,6 @@ Sección 1
 
 Marco General.
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.1 — Naturaleza del proceso penal especial de justicia y paz
 
 El proceso penal especial consagrado en la Ley 975 de 2005 es un mecanismo de justicia transicional, de carácter excepcional, a través del cual se investigan, procesan, juzgan y sancionan crímenes cometidos en el marco del conflicto armado interno por personas desmovilizadas de grupos armados organizados al margen de la ley que decisivamente contribuyen a la reconciliación nacional y que han sido postuladas a este proceso por el Gobierno Nacional, únicamente por hechos cometidos durante y con ocasión a su pertenencia al grupo. Este proceso penal especial busca facilitar la transición hacia una paz estable y duradera con garantías de no repetición, el fortalecimiento del Estado de Derecho, la reincorporación individual o colectiva a la vida civil de miembros de grupos armados organizados al margen de la ley, y la garantía de los derechos de las víctimas.
@@ -12437,15 +10967,11 @@ La contribución a la consecución de la paz nacional, la colaboración con la j
 
 (Decreto 3011 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.2 — Coherencia externa de los mecanismos de justicia transicional
 
 Los mecanismos de justicia transicional en Colombia incluyen, entre otros, los previstos en el artículo 66 transitorio de la Constitución Política de Colombia, el proceso penal especial de justicia y paz, el procedimiento de contribución al esclarecimiento de la verdad por parte de los desmovilizados creado a través de la Ley 1424 de 2010, y los programas de reparación administrativa y restitución de tierras creados por la Ley 1448 de 2011. La interpretación que se haga de las disposiciones que regulan el proceso penal especial de justicia y paz debe guardar coherencia con las demás normas de justicia transicional, con el fin de garantizar los derechos de las víctimas y contribuir al logro de una paz estable y duradera con garantías de no repetición.
 
 (Decreto 3011 de 2013, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.3 — Participación de las víctimas
 
@@ -12473,15 +10999,11 @@ PARÁGRAFO 3. En todos los casos en los que con anterioridad al 26 de diciembre 
 
 (Decreto 3011 de 2013, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.4 — La investigación y el juzgamiento en el proceso penal especial de justicia y paz
 
 En procesos penales especiales de justicia y paz, la investigación y el juzgamiento de los casos deberán tener en cuenta el contexto, la gravedad y representatividad de los hechos, el grado de afectación a los distintos bienes jurídicos, el grado de responsabilidad del presunto responsable y la configuración de un patrón de macrocriminalidad.
 
 (Decreto 3011 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.5 — Enfoque diferencial
 
@@ -12495,8 +11017,6 @@ Las autoridades públicas que participan en el proceso penal especial velarán p
 
 (Decreto 3011 de 2013, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.6 — Marco interpretativo
 
 La interpretación y aplicación de las disposiciones previstas en la Ley 975 de 2005 y en la Ley 1592 de 2012, deberán realizarse de conformidad con las normas constitucionales y el bloque de constitucionalidad.
@@ -12505,15 +11025,11 @@ En lo no previsto de manera específica por la Ley 975 de 2005 y por la Ley 1592
 
 (Decreto 3011 de 2013, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.7 — 
 
 2.2.5.1.1.7 Obligación general de las entidades públicas de informar sobre el cumplimiento de los requisitos de elegibilidad en el marco de sus competencias. Las entidades públicas están obligadas a informar a las autoridades competentes sobre el cumplimiento de los requisitos de elegibilidad en el marco de sus competencias. En caso de que dichas entidades tuvieren pruebas legales que desvirtúen lo afirmado bajo la gravedad del juramento por las personas postuladas sobre el cumplimiento de los mismos, deberán adjuntarlas para que sean valoradas por los fiscales delegados y las autoridades judiciales respectivas, sin perjuicio de que estas puedan solicitar los informes adicionales y la colaboración de las demás autoridades públicas para estos fines.
 
 (Decreto 3011 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.8 — Retiro de las salas de audiencias
 
@@ -12521,15 +11037,11 @@ Las autoridades judiciales competentes podrán ordenar el retiro de la Sala de q
 
 (Decreto 315 de 2007, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.9 — Deberes de las autoridades de policía
 
 Las autoridades de Policía velarán por el estricto cumplimiento de las instrucciones impartidas por el Fiscal Delegado de la Unidad de Justicia y Paz de la Fiscalía General de la Nación a fin de controlar el acceso a la sala dispuesta para estos efectos, la seguridad interna y el orden de la misma. Asimismo todas las entidades y autoridades públicas deberán prestar su concurso para el cumplimiento del procedimiento reglamentado por medio del presente decreto.
 
 (Decreto 315 de 2007, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.10 — Transmisión de las audiencias
 
@@ -12539,15 +11051,11 @@ En caso de que la Comisión Nacional de Televisión decida aprobar la asignació
 
 (Decreto 315 de 2007, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.11 — Deberes de la Fiscalía General de la Nación
 
 El Fiscal deberá adoptar las medidas adecuadas para proteger la seguridad, el bienestar físico y psicológico, la dignidad y la vida privada de las víctimas y los testigos. Con este fin, el Fiscal tendrá en cuenta todos los factores pertinentes, incluidos la edad, el género y la salud, así como la índole de la conducta punible, en particular cuando este entrañe violencia sexual o por razones de género o violencia contra menores de edad. En especial, el Fiscal adoptará estas medidas en el curso de la investigación de tales conductas.
 
 (Decreto 315 de 2007, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.12 — Imparcialidad del juicio
 
@@ -12559,8 +11067,6 @@ Sección 2
 
 Procedimiento Penal Especial de Justicia y Paz
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1 — Procedimiento penal especial de justicia y paz
 
 El procedimiento especial de justicia y paz se divide en una etapa administrativa y una etapa judicial. La etapa administrativa inicia con la solicitud de postulación por parte del desmovilizado y culmina con la presentación del Gobierno Nacional de las listas de postulados a la Fiscalía General de la Nación. Una vez recibidas dichas listas por parte de la Fiscalía General de la Nación, inicia la etapa judicial.
@@ -12571,8 +11077,6 @@ Subsección 1
 
 Etapa Administrativa
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1.1 — Postulados por desmovilizaciones colectivas
 
 Quienes se hayan desmovilizado de manera colectiva con anterioridad al 26 de agosto de 2008 y hayan solicitado su postulación al procedimiento penal especial de justicia y paz con anterioridad al 31 de diciembre de 2012, podrán ser postulados por el Gobierno Nacional hasta el 31 de diciembre de 2014. Las listas de postulados por desmovilizaciones colectivas que remita el Gobierno Nacional a consideración de la Fiscalía General de la Nación solo podrán integrarse con los nombres e identidades de los miembros de los grupos armados organizados al margen de la ley que se hayan desmovilizado colectivamente de conformidad con la Ley 418 de 1997 y las normas que la modifican y prorrogan.
@@ -12580,8 +11084,6 @@ Quienes se hayan desmovilizado de manera colectiva con anterioridad al 26 de ago
 En este caso será necesario que los desmovilizados hayan manifestado por escrito ante el Alto Comisionado para la Paz su voluntad de ser postulados al procedimiento penal especial de justicia y paz, y declaren bajo la gravedad del juramento su compromiso de cumplir con todos los requisitos previstos en la Ley 975 de 2005.
 
 (Decreto 3011 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.1.2 — Postulados por desmovilizaciones individuales
 
@@ -12593,23 +11095,17 @@ Así mismo será necesario que los desmovilizados hayan manifestado por escrito 
 
 (Decreto 3011 de 2013, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1.3 — Trámite ante el Ministerio de Justicia y del Derecho
 
 La lista de aspirantes a la aplicación del procedimiento penal especial de justicia y paz será enviada al Ministerio de Justicia y del Derecho por la Oficina del Alto Comisionado para la Paz o por el Ministerio de Defensa Nacional, según sea el caso. El Ministerio de Justicia y del Derecho las remitirá formalmente, en nombre del Gobierno Nacional, a la Fiscalía General de la Nación.
 
 (Decreto 3011 de 2013, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1.4 — Identificación e individualización
 
 La Registraduría Nacional del Estado Civil, así como los demás organismos estatales competentes, deberán apoyar el proceso de identificación e individualización de la persona desmovilizada solicitante de la postulación al proceso penal especial de justicia y paz.
 
 (Decreto 3011 de 2013, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.1.5 — Postulación única
 
@@ -12621,23 +11117,17 @@ Subsección 2
 
 Etapa Judicial
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.1 — Requisitos
 
 La verificación del cumplimiento de los requisitos de elegibilidad contemplados en los artículos 10 y 11 de la Ley 975 de 2005, corresponderá a las autoridades judiciales, quienes contarán con la colaboración que deberán prestar los demás organismos del Estado, dentro del ámbito de sus funciones. En todo caso, la Sala de Justicia y Paz del Tribunal Superior de Distrito Judicial es la instancia competente para evaluar si procede la aplicación de la pena alternativa contemplada en la Ley 975 de 2005.
 
 (Decreto 3011 de 2013, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.2 — Definición de contexto
 
 Para efectos de la aplicación del procedimiento penal especial de justicia y paz, el contexto es el marco de referencia para la investigación y juzgamiento de los delitos perpetrados en el marco del conflicto armado interno, en el cual se deben tener en cuenta aspectos de orden geográfico, político, económico, histórico, social y cultural. Como parte del contexto se identificará el aparato criminal vinculado con el grupo armado organizado al margen de la ley y sus redes de apoyo y financiación.
 
 (Decreto 3011 de 2013, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.3 — Definición de patrón de macrocriminalidad
 
@@ -12646,8 +11136,6 @@ Es el conjunto de actividades criminales, prácticas y modos de actuación crimi
 La identificación del patrón de macrocriminalidad debe buscar el adecuado esclarecimiento de la verdad sobre lo ocurrido en el marco del conflicto armado interno, así como determinar el grado de responsabilidad de los integrantes del grupo armado organizado al margen de la ley y de sus colaboradores.
 
 (Decreto 3011 de 2013, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.4 — Elementos para la identificación del patrón de macrocriminalidad
 
@@ -12673,8 +11161,6 @@ La constatación de la existencia de un patrón de macrocriminalidad deberá con
 
 (Decreto 3011 de 2013, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.5 — Actuaciones previas a la recepción de la versión libre
 
 Quince (15) días hábiles previos a la realización de la versión libre individual o conjunta, el fiscal delegado deberá citar a la versión libre, por los medios más idóneos posibles, que sean accesibles y en lenguaje claro y sencillo, a las presuntas víctimas de la estructura del grupo armado organizado al margen de la ley a la que perteneció el postulado. Antes del inicio de la versión, las víctimas presentes en la sala deberán ser informadas integralmente por la Fiscalía General de la Nación de todos los derechos de los cuales son titulares en el proceso penal especial de justicia y paz, así como de las diferentes etapas que componen el proceso, su posibilidad de participar en las mismas y el objetivo de cada etapa.
@@ -12682,8 +11168,6 @@ Quince (15) días hábiles previos a la realización de la versión libre indivi
 PARÁGRAFO . El Plan Integral de Investigación Priorizada, en la medida de lo posible, clasificará para cada una de las estructuras y subestructuras, las víctimas acreditadas que correspondan a los patrones de macrocriminalidad que serán investigados.
 
 (Decreto 3011 de 2013, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.6 — 2.6
 
@@ -12694,8 +11178,6 @@ Una vez recopiladas las copias de los expedientes, el fiscal delegado de justici
 PARÁGRAFO . El Fiscal delegado solicitará a las autoridades judiciales correspondientes copia de los expedientes de procesos en curso o condenas por delitos comunes con el fin de nutrir la información del expediente del postulado, especialmente frente al tema de bienes no entregados y delitos cometidos con posterioridad a la desmovilización.
 
 (Decreto 3011 de 2013, artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.7 — Versión libre y confesión
 
@@ -12729,15 +11211,11 @@ PARÁGRAFO 4. Cuando el desmovilizado que no registre orden o medida restrictiva
 
 (Decreto 3011 de 2013, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.8 — Conocimiento de los procesos por parte de la magistratura de justicia y paz
 
 El Consejo Superior de la Judicatura podrá distribuir las competencias de las Salas de los Tribunales de Justicia y Paz de acuerdo a los bloques y frentes del grupo armado organizado al margen de la ley, con el fin de lograr un mayor esclarecimiento de las distintas estructuras y evitar conflictos de competencias entre las distintas Salas de los Tribunales de Justicia y Paz.
 
 (Decreto 3011 de 2013, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.9 — Formulación de la imputación
 
@@ -12753,8 +11231,6 @@ PARÁGRAFO . La confesión del postulado será soporte de la imputación siempre
 
 (Decreto 3011 de 2013, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.10 — Actuaciones previas a la audiencia concentrada
 
 El fiscal delegado, teniendo en cuenta el Plan Integral de Investigación Priorizada, deberá utilizar los medios idóneos para comunicar, de manera clara y sencilla, a las presuntas víctimas de cada patrón de macrocriminalidad, de la fecha en la que iniciará la audiencia concentrada, con el objetivo de que asistan al incidente de reparación integral. Para este fin, las víctimas deberán estar plenamente acreditadas antes del inicio de la audiencia concentrada.
@@ -12764,8 +11240,6 @@ La Defensoría del Pueblo informará a las víctimas sobre el objeto de este inc
 PARÁGRAFO . Con el fin de garantizar la participación de las víctimas en la audiencia concentrada y optimizar el tiempo en el desarrollo de las diligencias, la Sala de Conocimiento, si lo estima necesario, podrá previo al inicio de la audiencia requerir a los intervinientes para determinar la forma en que deberán presentar la información.
 
 (Decreto 3011 de 2013, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.11 — Formulación y aceptación de cargos
 
@@ -12803,8 +11277,6 @@ En los casos en los que el postulado no acepte los cargos, la Sala ordenará com
 
 (Decreto 3011 de 2013, artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.12 — Acumulación de procesos y de penas
 
 De conformidad con el artículo 20 de la Ley 975 de 2005, para efectos procesales, se acumularán todos los procesos que se hallen en curso y las penas contenidas en sentencias ejecutoriadas por hechos delictivos cometidos durante y con ocasión de la pertenencia del desmovilizado a un grupo armado organizado al margen de la ley. En ningún caso procederá la acumulación por conductas punibles cometidas antes o después de la pertenencia del postulado al grupo armado organizado al margen de la ley.
@@ -12812,8 +11284,6 @@ De conformidad con el artículo 20 de la Ley 975 de 2005, para efectos procesale
 Admitida la aceptación de los cargos por la Sala en la sentencia, las actuaciones procesales suspendidas se acumularán definitivamente al proceso penal especial de justicia y paz, respecto del postulado. Mientras el proceso judicial ordinario se encuentre suspendido no correrán los términos de prescripción de la acción penal. En caso de que el imputado no acepte los cargos o se retracte de los admitidos, inmediatamente se avisará al funcionario judicial competente para la reanudación del proceso suspendido.
 
 (Decreto 3011 de 2013, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.13 — Demostración del daño directo
 
@@ -12833,8 +11303,6 @@ e) Certificación que acredite o demuestre el parentesco con la víctima, en los
 
 (Decreto 315 de 2007, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.14 — Mecanismos para la reparación de las víctimas
 
 Las víctimas de los delitos cometidos por los miembros de los grupos armados organizados al margen de la ley a quienes se aplique la Ley 975 de 2005, tienen derecho a la reparación del daño sufrido. La reparación comprende las acciones que propendan por la restitución, indemnización, rehabilitación, satisfacción y las garantías de no repetición, y podrá tener carácter individual, colectiva o simbólica, según lo establecido en la Ley 975 de 2005. En consecuencia, el carácter integral de la reparación no se establecerá en función exclusiva de las acciones de naturaleza económica.
@@ -12842,8 +11310,6 @@ Las víctimas de los delitos cometidos por los miembros de los grupos armados or
 En concordancia con lo dispuesto en el inciso 8 del artículo 8 de la Ley 975 de 2005, tratándose de comunidades afectadas por la ocurrencia de hechos de violencia masiva o sistemática, la reparación colectiva de la población afectada es el mecanismo especial e idóneo que comporta resarcimiento para todas y cada una de las víctimas de tales comunidades, además de encontrarse orientado a su reconstrucción sico-social.
 
 (Decreto 3399 de 2006, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.15 — Incidente de Reparación Integral
 
@@ -12875,8 +11341,6 @@ PARÁGRAFO 7. El Ministerio de Justicia y del Derecho tomará las medidas corres
 
 (Decreto 3011 de 2013, artículo 27)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.16 — Dimensión colectiva del Daño
 
 La Procuraduría General de la Nación, representará a las víctimas indeterminadas en el marco del incidente de Reparación Integral. Así mismo, la Procuraduría General de la Nación podrá presentar las conclusiones de los estudios realizados sobre la dimensión colectiva del Daño, e igualmente, las remitirá a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas para que esta entidad las tenga en consideración en lo relevante para la elaboración de los Programas de Reparación Colectiva Administrativa, de acuerdo a lo consagrado en el artículo 2.2.5.1.3.4 del presente capítulo.
@@ -12884,8 +11348,6 @@ La Procuraduría General de la Nación, representará a las víctimas indetermin
 En caso de que las víctimas que participan en el incidente de Reparación Integral o sus representantes judiciales manifiesten la existencia de un daño de carácter colectivo, se enviará de manera inmediata copia de la información referida a las violaciones a los Derechos Humanos, e infracciones al DIH ocurridas con ocasión del conflicto armado interno, así como la identificación de los daños colectivos a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas para que se determine de manera preferente si se trata o no de un sujeto de reparación colectiva de conformidad con los artículos 151 y 152 de la Ley 1448 de 2011.
 
 (Decreto 3011 de 2013, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.17 — De la responsabilidad de reparar a las víctimas
 
@@ -12897,8 +11359,6 @@ La respectiva sentencia proferida por la Sala del Tribunal Superior de Distrito 
 
 (Decreto 3391 de 2007, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.18 — Decisión del incidente de Reparación Integral en la sentencia
 
 El incidente de Reparación Integral se fallará en la sentencia, en la cual se establecerá el nombre de cada una de las víctimas reconocidas, el tipo y número de identificación, la información de contacto y la identificación del hecho victimizante. Adicionalmente, de ser posible, el fallo incluirá información relacionada con el núcleo familiar de las víctimas o su red de apoyo; cuando se tratare de menores de edad o personas con discapacidad, información sobre su red de apoyo y sobre el tutor, curador o intérprete si lo tuviere; la información sobre el sexo, edad, etnia, estrato socioeconómico; y la información relacionada con la situación y tipo de discapacidad si se conoce alguna. Para efectos de preservar la reserva de la información personal de las víctimas, esta se incorporará a la sentencia a través de un anexo reservado.
@@ -12908,8 +11368,6 @@ Igualmente, se dejará constancia de los casos en los que las víctimas hayan ma
 Además de lo dicho por las víctimas en esta audiencia, la Sala, de considerarlo adecuado y garantizando la reserva de la información personal de las víctimas, a menos que ellas se manifiesten en sentido contrario, podrá incorporar en el fallo lo dicho por ellas en las diferentes etapas del proceso, especialmente lo dicho en las entrevistas de las diligencias de versión libre.
 
 (Decreto 3011 de 2013, artículo 29)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.19 — Lectura de sentencia
 
@@ -12925,15 +11383,11 @@ El recurso de apelación contra la sentencia solo podrá ser interpuesto y suste
 
 (Decreto 3011 de 2013, artículo 30)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.20 — Imposición, cumplimiento y seguimiento de la pena alternativa y de la libertad a prueba
 
 La pena ordinaria impuesta en la sentencia condenatoria conserva su vigencia durante el cumplimiento de la pena alternativa y el período de libertad a prueba, y únicamente podrá declararse extinguida cuando se encuentren cumplidas todas las obligaciones legales que sirvieron de base para su imposición, las señaladas en la sentencia y las relativas al período de la libertad a prueba. En consecuencia, la inobservancia de cualquiera de tales obligaciones conlleva la revocatoria de la pena alternativa y en su lugar el cumplimiento de la pena ordinaria inicialmente determinada en la sentencia.
 
 (Decreto 3011 de 2013, artículo 31)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.21 — Jueces competentes para la supervisión de la ejecución de la sentencia
 
@@ -12943,15 +11397,11 @@ Para tales efectos, la Sala Administrativa del Consejo Superior de la Judicatura
 
 (Decreto 3011 de 2013, artículo 32)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2.22 — Extinción de la pena ordinaria
 
 Una vez cumplida totalmente la pena alternativa, transcurrido el periodo de libertad a prueba y satisfechas las obligaciones establecidas en la respectiva sentencia de acuerdo con la Ley 975 de 2005, se declarará extinguida la pena ordinaria inicialmente determinada en la misma y hará tránsito a cosa juzgada, no habiendo lugar al inicio de nuevos procesos judiciales originados en los hechos delictivos allí juzgados.
 
 (Decreto 3011 de 2013, artículo 33)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2.23 — Revocatoria del beneficio de la pena alternativa
 
@@ -12970,8 +11420,6 @@ En los eventos señalados, se revocará la pena alternativa y en su lugar se har
 Subsección 3.
 
 Formas de terminación del procedimiento.
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.3.1 — Aplicación de las causales de terminación del proceso penal especial de justicia y paz
 
@@ -12992,8 +11440,6 @@ PARÁGRAFO 3. Frente al auto que defina la renuncia del postulado al procedimien
 PARÁGRAFO 4. En lo relacionado con el inciso 5o del artículo 11A de la Ley 975 de 2005, cuando los hechos por los cuales la persona continúe siendo investigada en la justicia ordinaria revistan el carácter de crímenes internacionales, el término de prescripción no se reactivará, de conformidad con los tratados internacionales.
 
 (Decreto 3011 de 2013, artículo 35)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.3.2 — Terminación anticipada del proceso
 
@@ -13033,8 +11479,6 @@ Subsección 4.
 
 Sustitución de la medida de aseguramiento.
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.4.1 — Evaluación del cumplimiento de requisitos para la sustitución de la medida de aseguramiento
 
 Para la solicitud de la sustitución de la medida de aseguramiento, el postulado deberá presentar los documentos o pruebas que respalden el cumplimiento de los requisitos contemplados en el artículo 18A de la Ley 975 de 2005.
@@ -13048,8 +11492,6 @@ Frente al requisito contenido en el numeral 5, si al momento de la solicitud de 
 PARÁGRAFO . La sustitución de la medida de aseguramiento procederá con la sola verificación de los requisitos establecidos en el artículo 18A de la Ley 975 de 2005.
 
 (Decreto 3011 de 2013, artículo 37)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.4.2 — Términos para la sustitución de la medida de aseguramiento
 
@@ -13068,8 +11510,6 @@ El magistrado con funciones de control de garantías podrá conceder la sustituc
 5. Para los postulados que se desmovilizaron individualmente estando privados de la libertad en un establecimiento de reclusión sujeto integralmente a las normas jurídicas sobre control penitenciario, por delitos cometidos durante y con ocasión de su pertenencia al grupo armado organizado al margen de la ley, el término de ocho (8) años de reclusión será contado a partir de su postulación.
 
 (Decreto 3011 de 2013, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.4.3 — Condiciones que podrá imponer la autoridad judicial para la sustitución de la medida de aseguramiento
 
@@ -13101,8 +11541,6 @@ PARÁGRAFO 2. En la misma audiencia en la que haya decidido favorablemente sobre
 
 (Decreto 3011 de 2013, artículo 39)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.4.4 — Revocatoria de la sustitución de la medida de aseguramiento
 
 Para la revocatoria de la sustitución de la medida de aseguramiento de que trata el artículo 18A de la Ley 975 de 2005, el fiscal delegado deberá demostrar ante el magistrado con funciones de control de garantías el incumplimiento por parte del postulado de cualquiera de las condiciones impuestas en la decisión de sustitución de la medida de aseguramiento.
@@ -13119,15 +11557,11 @@ Subsección 5.
 
 Normas procesales de carácter transitorio.
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.5.1 — 5.1
 
 Procesos en los que con anterioridad al 27 de diciembre de 2013 se haya solicitado audiencia de formulación de la imputación. En los casos en los que con anterioridad al 27 de diciembre de 2013 el fiscal delegado haya solicitado citar la audiencia de formulación de imputación y esta no se ha realizado, este podrá retirar dicha solicitud con el fin de complementar la formulación de imputación de conformidad con lo establecido en el artículo 2.2.5.1.2.2.9., del presente capítulo.
 
 (Decreto 3011 de 2013, artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.5.2 — 5.2
 
@@ -13135,15 +11569,11 @@ Procesos en los que con anterioridad al 27 de diciembre de 2013 se formuló impu
 
 (Decreto 3011 de 2013, artículo 42)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.5.3 — Procesos en los que con anterioridad al 27 de diciembre de 2013 se hayan formulado cargos
 
 En aquellos casos en los que con anterioridad al 27 de diciembre de 2013 se formularon cargos pero aún no han sido legalizados, la Sala de Conocimiento podrá solicitar a la Fiscalía General de la Nación que amplíe la información contenida en la formulación de cargos, con el objetivo de que la sentencia a proferir incorpore todos los elementos contemplados en la Ley 1592 de 2012.
 
 (Decreto 3011 de 2013, artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.5.4 — Procesos en los que con anterioridad al 27 de diciembre de 2013 haya habido aceptación de cargos
 
@@ -13151,15 +11581,11 @@ Cuando con anterioridad al 27 de diciembre de 2013 la audiencia de formulación 
 
 (Decreto 3011 de 2013, artículo 44)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.5.5 — Término para la corrección de actuaciones
 
 Cuando de conformidad con las normas establecidas en esta subsección, el fiscal delegado deba ajustar su actuación para adecuarla a la Ley 1592 de 2012 y al presente capítulo, este contará con un término adicional equivalente al término ordinario para realizar la actuación que corresponda.
 
 (Decreto 3011 de 2013, artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.5.6 — Registro automático de las víctimas reconocidas en la decisión que acepta la legalización de cargos
 
@@ -13171,15 +11597,11 @@ Subsección 6.
 
 Representación de las víctimas en los procesos de Justicia y Paz
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.6.1 — Intervención en diligencias
 
 En los eventos en que la víctima no contare con los servicios profesionales de un abogado particular, previa solicitud y comprobación sumaria de la necesidad, la Fiscalía General de la Nación solicitará a la Defensoría del Pueblo la asignación de un defensor público para que las represente.
 
 (Decreto 315 de 2007, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.6.2 — Facultades de las víctimas
 
@@ -13201,15 +11623,11 @@ A las salas de víctimas de que trata el presente artículo, también tendrán a
 
 (Decreto 315 de 2007, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.6.3 — Representación por asociaciones u organizaciones de víctimas
 
 Cuando la ley no exija la presencia de un abogado, las víctimas también podrán hacerse representar en las audiencias de que trata este decreto, por asociaciones u organizaciones de víctimas, en cuyo caso lo harán por intermedio del representante legal de la respectiva entidad. En estos eventos, sólo podrá participar dicho representante o el abogado.
 
 (Decreto 315 de 2007, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.6.4 — Poder con presentación personal
 
@@ -13220,8 +11638,6 @@ Las víctimas que deleguen su representación para los efectos del presente cap�
 Sección 3.
 
 Reparación Integral de las Víctimas.
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.1 — Principio general de reparación administrativa
 
@@ -13234,8 +11650,6 @@ No obstante, el acceso preferente de las víctimas de los procesos penales espec
 PARÁGRAFO . La Defensoría del Pueblo deberá prestar acompañamiento a las víctimas para el acceso al programa de reparación administrativa.
 
 (Decreto 3011 de 2013, artículo 47)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.2 — Acceso preferente al programa de reparación individual por vía administrativa
 
@@ -13261,8 +11675,6 @@ PARÁGRAFO . Las entidades públicas del orden nacional y territorial están obl
 
 (Decreto 3011 de 2013, artículo 48)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.3 — Tránsito de la reparación judicial a la reparación por la vía administrativa
 
 En relación con las indemnizaciones correspondientes a hechos victimizantes no contemplados en el artículo 3o de la Ley 1448 de 2011 (artículo 149 del Decreto 4800 de 2011 y las normas que lo compilen, adicionen, modifiquen o complementen) a víctimas que sean reconocidas en el marco del proceso penal especial de justicia y paz, los montos se pagarán por destinatario reconocido en la sentencia así:
@@ -13274,8 +11686,6 @@ En relación con las indemnizaciones correspondientes a hechos victimizantes no 
 3. Otros hechos no contemplados en el artículo 3o de la Ley 1448 de 2011: hasta diez (10) salarios mínimos legales mensuales vigentes.
 
 (Decreto 3011 de 2013, artículo 49)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.4 — Acceso preferente al programa de reparación colectiva administrativa
 
@@ -13292,8 +11702,6 @@ La Unidad Administrativa Especial para la Atención y Reparación Integral a las
 3. Implementación del plan de reparación colectiva. En cumplimiento de los objetivos establecidos en la Ley 1448 de 2011 y los Decretos-ley 4633, 4634 y 4635 de 2011, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas coordinará el acceso de las víctimas a la oferta de las entidades que conforman el Sistema Nacional de Atención y Reparación Integral a las Víctimas a nivel nacional y territorial para que estas accedan a las medidas de reparación establecidas en los planes de reparación colectiva a cargo de otras entidades. Cada una de las entidades involucradas, deberá garantizar la ejecución de las medidas incluidas en el plan de acuerdo con sus competencias, bajo la coordinación de la Unidad para la Atención y Reparación Integral a las Víctimas.
 
 (Decreto 3011 de 2013, artículo 50)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.5 — Régimen de transición para efectos de la reparación integral
 
@@ -13317,8 +11725,6 @@ Subsección 1.
 
 Medidas Cautelares.
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.1.1 — Solicitud de audiencia
 
 Una vez que la fiscalía recibe la información sobre los bienes ofrecidos o denunciados por los postulados, o los identifica oficiosamente, en los casos en los que haya lugar de acuerdo con lo establecido en el presente capítulo, esta programará las labores de alistamiento de tales bienes con la Unidad Administrativa Especial para a Atención y Reparación Integral de las Víctimas Fondo para la Reparación de las Víctimas, en las que se recolectará la información necesaria para la elaboración del informe técnico de vocación reparadora que deberá presentarse por esas entidades en la audiencia de imposición de medidas cautelares.
@@ -13329,8 +11735,6 @@ A la audiencia de solicitud y decisión de medidas cautelares deberá convocarse
 
 (Decreto 3011 de 2013, artículo 52)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.1.2 — Recepción de bienes objeto de medidas cautelares
 
 Una vez haya sido impuesta la medida cautelar de embargo, secuestro y/o suspensión del poder dispositivo sobre el bien ofrecido, entregado o denunciado, este se pondrá a disposición de la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas Fondo para la Reparación de las Víctimas y la Unidad Administrativa Especial para la Gestión de Restitución de Tierras Despojadas, quienes podrán autorizar, conforme a las normas legales que las rigen, a un operador para su recepción y administración. Los bienes a recibir por parte de la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas Fondo para la Reparación de las Víctimas deberán tener vocación reparadora.
@@ -13339,15 +11743,11 @@ Las medidas cautelares sobre bienes que tengan solicitud de restitución se regi
 
 (Decreto 3011 de 2013, artículo 53)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.1.3 — Medidas cautelares sobre predios con solicitud de restitución
 
 Los bienes solicitados para efectos de restitución ante la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas que hayan sido entregados, ofrecidos o denunciados por los postulados o identificados por la Fiscalía General de la Nación con posterioridad a la entrada en vigencia de la Ley 1592 de 2012, serán objeto de medida cautelar de conformidad con lo dispuesto en el parágrafo 3o del artículo 17B de la Ley 975 de 2005. En estos casos la fiscalía solicitará la suspensión del poder dispositivo del respectivo bien al Magistrado con funciones de control de garantías y convocará a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas a la audiencia preliminar para la solicitud y decisión de la medida cautelar.
 
 (Decreto 3011 de 2013, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.1.4 — Recepción de bienes previo a la imposición de medida cautelar
 
@@ -13355,15 +11755,11 @@ De manera excepcional, la Unidad Administrativa Especial para la Atención y la 
 
 (Decreto 3011 de 2013, artículo 55)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.1.5 — Facultades de los magistrados con funciones de control de garantías en incidentes procesales
 
 En los incidentes de oposición, aclaración, levantamiento o traslado de la medida cautelar propuestos por terceros, de que trata el artículo 17C de la Ley 975 de 2005, el Magistrado con funciones de control de garantías de la Sala competente, además de las facultades previstas en dicha norma y en el artículo 39 de la Ley 1592 de 2012, podrá decretar y practicar las pruebas solicitadas por los intervinientes, de las cuales correrá el correspondiente traslado a las partes e intervinientes. Dicho período probatorio no podrá tener un término superior a un (1) mes. Vencido este término el magistrado adoptará la decisión y dispondrá las medidas a que haya lugar.
 
 (Decreto 3011 de 2013, artículo 56)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.1.6 — Convocatoria a la audiencia de levantamiento de medidas cautelares
 
@@ -13375,8 +11771,6 @@ Subsección 2.
 
 Alistamiento, recepción de bienes y determinación de la vocación reparadora.
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.2.1 — Alistamiento de bienes
 
 El alistamiento de bienes consiste en el diagnóstico y la preparación física, jurídica, social y económica de un bien ofrecido, entregado o denunciado por un postulado al procedimiento penal especial de justicia y paz o aquellos que la Fiscalía General de la Nación haya identificado pese a que no se hayan ofrecido o denunciado por los postulados, para su eventual recepción, según tenga o no vocación de reparación, de conformidad con la decisión del Magistrado con funciones de control de garantías en la audiencia en la que se decida sobre la imposición de medidas cautelares.
@@ -13385,15 +11779,11 @@ La Unidad Administrativa Especial para la Atención y la Reparación Integral a 
 
 (Decreto 3011 de 2013, artículo 58)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.2.2 — Diligencias de alistamiento
 
 La Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas Fondo para la Reparación de las Víctimas, deberá participar en las diligencias de alistamiento de bienes ofrecidos, entregados, detectados oficiosamente o denunciados, que provengan de los postulados al procedimiento penal especial de justicia y paz o a miembros del bloque o frente con el fin de establecer las condiciones físicas, jurídicas, sociales y económicas que permitan al Magistrado con funciones de control de garantías determinar si el bien tiene vocación reparadora. El deber de alistamiento se extiende a los bienes entregados a través de la Sociedad de Activos Especiales, SAE, que deberá garantizar la entrega del bien.
 
 (Decreto 3011 de 2013, artículo 59)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.2.3 — Trámite de alistamiento
 
@@ -13408,8 +11798,6 @@ Los pasivos de los bienes entregados a la Unidad Administrativa Especial para la
 En caso de ser necesario se realizará la actualización del alistamiento de acuerdo con el parágrafo 6o del artículo 17B de la Ley 975 de 2005. Esta actualización procederá únicamente en aquellos casos en que existan elementos fácticos sobrevinientes que permitan inferir una modificación de las variables de vocación reparadora que incidan sustantivamente sobre esta.
 
 (Decreto 3011 de 2013, artículo 60)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.2.4 — Informe de alistamiento de bienes
 
@@ -13433,8 +11821,6 @@ PARÁGRAFO . Las empresas de servicios públicos, administraciones de copropieda
 
 (Decreto 3011 de 2013, artículo 61)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.2.5 — Vocación reparadora de los bienes ofrecidos, entregados o denunciados
 
 Si la Fiscalía General de la Nación y la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas con fundamento en el informe de alistamiento coinciden en que el bien no tiene vocación reparadora, podrán solicitarlo así en audiencia preliminar ante el Magistrado con funciones de control de garantías. En esta audiencia, el Magistrado con funciones de control de garantías se pronunciará sobre la vocación reparadora o no del bien en cuestión.
@@ -13442,8 +11828,6 @@ Si la Fiscalía General de la Nación y la Unidad Administrativa Especial para l
 PARÁGRAFO . A los bienes inmuebles rurales y a los bienes solicitados en restitución por la vía prevista en la Ley 1448 de 2011 no se les valorará la vocación reparadora y tampoco se les aplicarán las restricciones establecidas en el artículo 11C de la Ley 975 del 2005 para el ingreso de los bienes al Fondo para la Reparación de Víctimas y, en este caso, al Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas.
 
 (Decreto 3011 de 2013, artículo 62)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.2.6 — Bienes que amenacen deterioro
 
@@ -13461,8 +11845,6 @@ Subsección 3
 
 Saneamiento de pasivos, gravámenes y limitaciones.
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.3.1 — Reglamentación de los mecanismos especiales de saneamiento de pasivos
 
 En cumplimiento de lo dispuesto en el artículo 46B de la Ley 975 de 2005 corresponderá a los concejos municipales y distritales, así como a las asambleas departamentales, reglamentar lo relacionado con la compensación y condonación de los impuestos, intereses y sanciones que afecten los bienes entregados para la reparación de las víctimas y recibidos por la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas -Fondo para la Reparación de las Víctimas- o la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, incluso causados con anterioridad al 27 de diciembre de 2013.
@@ -13479,8 +11861,6 @@ Los administradores de impuestos municipales, distritales, departamentales y/o n
 
 (Decreto 3011 de 2013, artículo 64)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.3.2 — Cancelación de gravámenes y limitaciones sobre bienes sujetos a registro
 
 En caso de que los bienes entregados se encuentren afectados con algún tipo de gravamen o limitación constituido para la obtención de créditos con el sector financiero, el Magistrado con funciones de control de garantías competente oficiará al registrador de instrumentos públicos respectivo, para que proceda al levantamiento de tales cargas, previa verificación de los derechos de los terceros de buena fe exenta de culpa.
@@ -13490,8 +11870,6 @@ Si la anotación registral corresponde a una medida preventiva de protección de
 Si la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas no incluye el bien en el Registro de Tierras Despojadas o Forzosamente Abandonadas cuando este tuviere medida de protección por ruta individual, la decisión será puesta en conocimiento de la autoridad competente para que decida sobre el levantamiento de la medida.
 
 (Decreto 3011 de 2013, artículo 65)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.3.3 — Condonación de pasivos por parte de empresas de servicios públicos domiciliarios
 
@@ -13505,15 +11883,11 @@ Subsección 4.
 
 Transferencia de bienes y expedientes a la unidad administrativa especial de gestión de restitución de tierras despojadas.
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.4.1 — Prohibición de monetización de bienes con solicitud de restitución
 
 Los bienes administrados o que llegue a administrar la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas -Fondo para la Reparación de las Víctimas-, sobre los cuales exista solicitud de restitución en el marco de la Ley 1448 de 2011 o que sean inmuebles rurales no podrán ser objeto de monetización. Previamente a la enajenación de bienes, la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas -Fondo para la Reparación de las Víctimas-, verificará por escrito ante la Fiscalía General de la Nación y la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas si el bien puede ser objeto de monetización.
 
 (Decreto 3011 de 2013, artículo 67)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.4.2 — Remisión de expedientes de restitución tramitados en el marco de los procesos penales especiales de justicia y paz
 
@@ -13525,8 +11899,6 @@ La Fiscalía General de la Nación se abstendrá de tramitar solicitudes de rest
 
 (Decreto 3011 de 2013, artículo 68)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.4.3 — Predios con medidas cautelares y solicitud de restitución
 
 En atención a lo dispuesto en el parágrafo 2o del artículo 17B de la Ley 975 de 2005, los predios vinculados a procesos penales especiales de justicia y paz que administre el Fondo para la Reparación de las Víctimas, respecto de los cuales se haya decretado una medida cautelar y con posterioridad se haya solicitado su restitución, deberán ser entregados por este a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas. La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas administrará los inmuebles que reciba del Fondo para la Reparación de las Víctimas, y podrá autorizar, conforme a las normas legales que rigen a la entidad, a un operador para su recepción y administración.
@@ -13536,8 +11908,6 @@ La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despoja
 PARÁGRAFO . En los casos en los que se hayan decretado medidas cautelares respecto de bienes administrados por la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas -Fondo para la Reparación de las Víctimas-, que deban ser entregados a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, esta solicitará al magistrado de control de garantías que se levante la medida cautelar con fines de reparación, se imponga la medida cautelar con fines de restitución, y se ponga el bien a disposición de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas.
 
 (Decreto 3011 de 2013, artículo 69)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.4.4 — 4.4
 
@@ -13551,8 +11921,6 @@ PARÁGRAFO . No se transferirán a la Unidad Administrativa Especial de Gestión
 
 (Decreto 3011 de 2013, artículo 70)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.4.5 — Asignación definitiva de inmuebles con extinción del dominio
 
 La Unidad Administrativa Especial para la Atención y la Reparación a las Víctimas asignará al Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas los bienes con extinción del derecho de dominio que tengan solicitud de restitución y los bienes inmuebles rurales que esta última le solicite para la compensación, de acuerdo a los criterios de entrega previstos en el artículo 2.2.5.1.4.4.2., del presente capítulo.
@@ -13560,8 +11928,6 @@ La Unidad Administrativa Especial para la Atención y la Reparación a las Víct
 Una vez notificada la resolución de asignación definitiva a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y verificada la inscripción en el Registro de Instrumentos Públicos, los predios transferidos ingresarán al patrimonio del Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y su administración se hará conforme a lo previsto en el respectivo manual técnico operativo.
 
 (Decreto 3011 de 2013, artículo 71)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.4.6 — 4.6
 
@@ -13573,15 +11939,11 @@ Subsección 5.
 
 Bienes objeto de la acción de extinción de dominio.
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.5.1 — Bienes objeto de extinción de dominio
 
 Podrá extinguirse el derecho de dominio de los bienes, aunque sean objeto de sucesión por causa de muerte o su titularidad esté en cabeza de los herederos de los postulados o de los miembros de los grupos armados organizados al margen de la ley que fallecieron durante el proceso de desmovilización colectiva.
 
 (Decreto 3011 de 2013, artículo 73)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.5.2 — Bienes involucrados en procesos de extinción de dominio
 
@@ -13592,8 +11954,6 @@ Decretada la medida cautelar, el fiscal o el juez que conoce del proceso de exti
 En el evento en que en el proceso que se adopte la improcedencia estén involucrados otros bienes que no fueron objeto de medida cautelar dentro del proceso de justicia y paz, el proceso continuará su curso respecto de esos bienes.
 
 (Decreto 3011 de 2013, artículo 74)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.5.3 — Requisitos para la entrega de bienes administrados por la Sociedad de Activos Especiales S.A.E
 
@@ -13606,8 +11966,6 @@ En ese sentido, deberá poner a disposición de la entidad a la que pretenda ent
 Los rendimientos financieros, frutos, o cualquier ganancia, generados por los bienes administrados por la Sociedad de Activos Especiales S.A.E., serán transferidos a la entidad correspondiente a la que se entregue el bien, previa deducción de los pasivos y/o gastos de administración que haya generado el bien, a más tardar dentro de los treinta (30) días siguientes a la entrega material del bien.
 
 (Decreto 3011 de 2013, artículo 75)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.5.4 — Bienes entregados por postulados excluidos
 
@@ -13705,8 +12063,6 @@ Subsección 1.
 
 Comité de coordinación interinstitucional de justicia y paz.
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.1.1 — Comité de coordinación interinstitucional de justicia y paz
 
 En desarrollo del principio de colaboración armónica entre las ramas del poder público, funcionará el Comité de Coordinación Interinstitucional de Justicia y Paz. Este Comité tendrá como función propiciar la articulación y coordinación de la actuación de las entidades estatales que intervienen en el proceso penal especial de justicia y paz. Adicionalmente, el Comité velará por la articulación de las medidas de verdad, justicia y reparación en lo relacionado con el proceso penal especial de justicia y paz con el objetivo de lograr la mayor satisfacción de los derechos de las víctimas.
@@ -13716,8 +12072,6 @@ El Comité se reunirá con la periodicidad que acuerden sus miembros o cuando lo
 La secretaría técnica del Comité estará a cargo de la Dirección de Justicia Transicional del Ministerio de Justicia y del Derecho.
 
 (Decreto 3011 de 2013, artículo 77)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.1.2 — Composición
 
@@ -13763,8 +12117,6 @@ Subsección 2.
 
 Sistema de información interinstitucional de justicia transicional.
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2.1 — Sistema de información interinstitucional de justicia transicional
 
 Transfórmese el Sistema de Información Interinstitucional de Justicia y Paz (SIIJYP) en el Sistema de Información Interinstitucional de Justicia Transicional (SIIJT) que tendrá como objetivo registrar, monitorear, verificar y analizar la información que servirá para hacer seguimiento, evaluar y definir la política de justicia transicional.
@@ -13774,8 +12126,6 @@ PARÁGRAFO 1. Dicho sistema deberá permitir, cuando técnicamente sea posible, 
 PARÁGRAFO 2. Este sistema contemplará los estándares mínimos establecidos por la estrategia Gobierno en Línea del Ministerio de Tecnologías de la Información y las Comunicaciones para el Intercambio de la Información en materia de seguridad, confidencialidad y reserva de la información.
 
 (Decreto 3011 de 2013, artículo 79)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.2.2 — Administrador general del SIIJT
 
@@ -13789,8 +12139,6 @@ PARÁGRAFO 2. Cada entidad será responsable de la autenticidad y completitud de
 
 (Decreto 3011 de 2013, artículo 80)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2.3 — Articulación con la red nacional de información de víctimas
 
 El Ministerio de Justicia y del Derecho, a través de la Dirección de Justicia Transicional, tendrá la responsabilidad de articularse con la Red Nacional de Información de que trata la Ley 1448 de 2011, con el fin de recibir los lineamientos, políticas y demás procedimientos para la interoperabilidad, trazabilidad y flujo eficiente de la información de las víctimas de que trata el artículo 3 de la Ley 1448 de 2011.
@@ -13798,8 +12146,6 @@ El Ministerio de Justicia y del Derecho, a través de la Dirección de Justicia 
 PARÁGRAFO . La información de las víctimas de que trata el artículo 3 de la Ley 1448 de 2011 que sea registrada en el Sistema de Información Interinstitucional de Justicia Transicional SIIJT deberá seguir los lineamientos, mecanismos, procesos y procedimientos definidos por la Red Nacional de Información para la Atención y Reparación Integral según lo establecido en el Decreto 4800 de 2011 o las normas que lo compilen, modifiquen, adicionen o complementen.
 
 (Decreto 3011 de 2013, artículo 81)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.2.4 — Subcomité técnico del SIIJT
 
@@ -13853,8 +12199,6 @@ PARÁGRAFO 2. A partir del 27 de diciembre de 2013, el Ministerio de Justicia y 
 
 (Decreto 3011 de 2013, artículo 82)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2.5 — Obligación de compartir información
 
 Las entidades que conforman el Subcomité Técnico del SIIJT lo alimentarán y lo mantendrán actualizado de conformidad con los protocolos que para tal efecto expida el Subcomité Técnico, los cuales, a su vez, deberán responder a las directrices del Comité de Coordinación Interinstitucional. Cada una de las entidades que hacen parte del SIIJT contará por lo menos con un responsable del mismo, quien estará a cargo de asistir al Subcomité Técnico, coordinar el acopio de información y del suministro de la misma al sistema. El sistema será para uso exclusivo de las entidades que lo integran y respetará la confidencialidad de la información.
@@ -13865,8 +12209,6 @@ PARÁGRAFO . Para la definición de los protocolos a los que se refiere el prese
 
 (Decreto 3011 de 2013, artículo 83)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2.6 — Información sometida a reserva
 
 La información que por ley tenga carácter de reservada, o que por algún motivo ponga en riesgo los derechos fundamentales de las personas, deberá conservar su carácter reservado. En consecuencia, la misma solo podrá ser suministrada a las entidades pertenecientes al SIIJT, quienes garantizarán esta reserva.
@@ -13876,8 +12218,6 @@ Dicha información podrá igualmente ser utilizada para efectos estadísticos.
 PARÁGRAFO . Protección de datos. Con el propósito de garantizar la reserva y confidencialidad de la información, el Subcomité Técnico definirá los mecanismos de seguridad y control de acceso al SIIJT.
 
 (Decreto 3011 de 2013, artículo 84)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.2.7 — Articulación del SIIJT con sistemas de información relevantes
 
@@ -13891,15 +12231,11 @@ PARÁGRAFO . En el caso de que alguna de las entidades que conforman el SIIJT ca
 
 (Decreto 3011 de 2013, artículo 85)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2.8 — Presupuesto para el SIIJT
 
 Cada entidad que compone el SIIJT deberá asegurar la sostenibilidad presupuestal del mismo, en lo que le corresponda, programando la asignación de rubros para tal efecto dentro del marco de la Ley de Presupuesto.
 
 (Decreto 3011 de 2013, artículo 86)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.2.9 — 2.9
 
@@ -13908,8 +12244,6 @@ Cruce de información entre la unidad administrativa especial de atención y rep
 La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, dentro de un plazo de quince (15) días hábiles, contados a partir de la remisión de los listados de bienes por parte de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas, informará cuáles bienes tienen solicitud de restitución, con el propósito de que se asegure su destinación a la restitución en caso de que el juez llegare a ordenarla. La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas detallará el estado del proceso y en especial, si el bien ya fue inscrito en el Registro de Tierras Despojadas y Abandonadas.
 
 (Decreto 3011 de 2013, artículo 87)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.2.10 — Envío de información a la Fiscalía General de la Nación
 
@@ -13923,8 +12257,6 @@ Subsección 3.
 
 Cooperación judicial internacional.
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.3.1 — Coordinación interinstitucional para la cooperación judicial internacional
 
 El Ministerio de Justicia y del Derecho será la entidad encargada de coordinar con todas las entidades del Estado las gestiones pertinentes que se deban llevar a cabo con las autoridades judiciales extranjeras para facilitar la participación de postulados extraditados en cualquier proceso de justicia transicional. Para efectos de procesos de justicia transicional el Ministerio de Justicia y del Derecho es el único interlocutor oficial con las autoridades judiciales extranjeras.
@@ -13937,8 +12269,6 @@ Sección 6.
 
 Disposiciones sobre régimen penitenciario y carcelario.
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.1 — Programa especial de resocialización de los postulados al proceso de justicia y paz a cargo del INPEC
 
 De conformidad con el artículo 66 de la Ley 975 de 2005, el Instituto Nacional Penitenciario y Carcelario (Inpec) diseñará y ejecutará un programa especial para la resocialización de los postulados privados de la libertad en establecimientos penitenciarios o carcelarios, bien se trate de personas condenadas o detenidas preventivamente.
@@ -13947,15 +12277,11 @@ Los objetivos del programa incluirán, entre otros, la no repetición de las con
 
 (Decreto 3011 de 2013, artículo 90)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.2 — Resocialización en los pabellones de justicia y paz
 
 Sin perjuicio del régimen de seguridad dentro de los pabellones y establecimientos penitenciarios de justicia y paz en los cuales se encuentren los postulados y condenados en el marco de este proceso, se autorizará la salida de sus pabellones a otros espacios al interior del establecimiento penitenciario con el fin de desarrollar las actividades de resocialización a través de trabajo, estudio, enseñanza y otras que estén incorporadas en el programa especial. Bajo estos supuestos las actividades de resocialización no estarán enmarcadas dentro del Plan de Acción y Sistema de Oportunidades (PASO), sino que atenderán a los fines y características del proceso penal especial de justicia y paz. Lo anterior tendrá como objetivo dar cumplimiento a las obligaciones requeridas para obtener la pena alternativa y reintegración a la vida civil.
 
 (Decreto 3011 de 2013, artículo 91)
-
-ARTÍCULO
 
 ## art:2.2.5.1.6.3 — Resocialización especial para los internos dentro del proceso penal especial de justicia y paz
 
@@ -13963,15 +12289,11 @@ Dentro de las actividades de trabajo, estudio, enseñanza, o las que se determin
 
 (Decreto 3011 de 2013, artículo 92)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.4 — Atención especial para resocialización
 
 El Instituto Nacional Penitenciario y Carcelario asegurará el acceso a una atención especial a los internos postulados y condenados que requieran apoyo en casos de consumo de sustancias psicoactivas, alcoholismo y otros eventos en los cuales se vea afectada su salud física y mental, que pueda poner en riesgo la seguridad de los demás postulados y condenados, y especialmente que afecte el proceso de resocialización en desarrollo. Para ello, el Instituto Nacional Penitenciario y Carcelario podrá contar con el apoyo de entidades especializadas para iniciar estos tratamientos.
 
 (Decreto 3011 de 2013, artículo 93)
-
-ARTÍCULO
 
 ## art:2.2.5.1.6.5 — Condiciones de privación de la libertad de los postulados al proceso penal especial de justicia y paz
 
@@ -13983,8 +12305,6 @@ Sección 7.
 
 Proceso de reintegración de postulados.
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.1 — Proceso de reintegración
 
 Una vez el postulado se encuentre en libertad, en virtud de una sustitución de la medida de aseguramiento de detención preventiva o por cumplimiento de la pena alternativa, este deberá vincularse y cumplir con el proceso de reintegración que para tal efecto disponga la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas, conforme a los criterios dispuestos en el artículo 66 de la Ley 975 de 2005.
@@ -13995,23 +12315,17 @@ PARÁGRAFO . La Agencia Colombiana para la Reintegración de Personas y Grupos A
 
 (Decreto 3011 de 2013, artículo 95)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.2 — Integralidad del programa especial de resocialización y del proceso de reintegración de postulados
 
 Para el cumplimiento de las competencias dispuestas en la Ley 1592 de 2012, el programa especial de resocialización que disponga el Instituto Nacional Penitenciario y Carcelario, incorporará los componentes necesarios que permitan al postulado desarrollar su proceso de reintegración una vez se encuentre en libertad, acorde con los criterios definidos por la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas.
 
 (Decreto 3011 de 2013, artículo 96)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.3 — Monitoreo y seguimiento
 
 Conforme a su competencia, la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas realizará el monitoreo y seguimiento del proceso de reintegración de la población desmovilizada, para lo cual las autoridades administrativas y judiciales deberán suministrar la información necesaria que permita adelantar esta actividad.
 
 (Decreto 3011 de 2013, artículo 97)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.4 — Atención excepcional
 
@@ -14025,8 +12339,6 @@ BENEFICIO DE INDULTO
 
 INDAGACIÓN SOBRE SITUACIÓN JUDICIAL PENAL DEL SOLICITANTE.
 
-ARTÍCULO
-
 ## art:2.2.5.2.1 — Indagación sobre situación judicial penal del solicitante
 
 Para efectos de la aplicación de las normas contenidas en el Título 3 de la Primera Parte de la Ley 418 de 1997, y demás normas que la prorrogan, modifican y/o adicionan, la autoridad judicial o administrativa correspondiente que evalúe la solicitud del respectivo beneficio jurídico, requerirá a la Fiscalía General de la Nación, a la Policía Nacional y/o a las demás autoridades que centralicen información sobre anotaciones y antecedentes judiciales, a fin de indagar sobre la posible existencia de investigaciones, procesos y/o sentencias penales en firme en contra del solicitante.
@@ -14035,15 +12347,13 @@ En el evento de que el solicitante haya sido condenado mediante sentencia ejecut
 
 Para efectos del trámite que corresponde al Gobierno Nacional frente a las solicitudes de indulto, si contra el solicitante existieren investigaciones o procesos judiciales en los que no se haya proferido sentencia, por delitos respecto de los cuales se proscribe el indulto, el Gobierno Nacional no decidirá sobre la concesión del beneficio hasta tanto sea proferida y cobre ejecutoria la decisión judicial correspondiente. Si el solicitante resultare absuelto, el Gobierno decidirá sobre la solicitud de indulto por los delitos políticos y conexos, una vez recibida copia de la decisión en firme por parte de la autoridad judicial correspondiente. En caso contrario, se negará de plano.
 
-PARÁGRAFO 1. Si con posterioridad a la concesión del respectivo beneficio jurídico, el solicitante llegare a ser condenado por algún delito cometido durante y con ocasión de su pertenencia al grupo armado organizado al margen de la ley y respecto del cual se proscribe el indulto, o por cualquier delito doloso cometido dentro del término establecido en el artículo 63 de la Ley 418 de 1997 prorrogado por el artículo 1, de la Ley 548 de 1999, modificado por el artículo 21 de la Ley 782 de 2002, prorrogado por el artículo 1, de la Ley 1106 de 2006, y prorrogado en su vigencia por el ARTÍCULO
+PARÁGRAFO 1. Si con posterioridad a la concesión del respectivo beneficio jurídico, el solicitante llegare a ser condenado por algún delito cometido durante y con ocasión de su pertenencia al grupo armado organizado al margen de la ley y respecto del cual se proscribe el indulto, o por cualquier delito doloso cometido dentro del término establecido en el artículo 63 de la Ley 418 de 1997 prorrogado por el artículo 1, de la Ley 548 de 1999, modificado por el artículo 21 de la Ley 782 de 2002, prorrogado por el artículo 1, de la Ley 1106 de 2006, y prorrogado en su vigencia por el
 
-## art:1 — de la Ley 1738 de 2014, y demás normas que la modifican, prorrogan y/o adicionan, se revocará el beneficio concedido
+1 de la Ley 1738 de 2014, y demás normas que la modifican, prorrogan y/o adicionan, se revocará el beneficio concedido.
 
 PARÁGRAFO 2. Para efectos de garantizar la celeridad en el procedimiento de que trata el presente artículo, los organismos que registran anotaciones y antecedentes penales darán prioridad a las solicitudes de las autoridades judiciales y administrativas correspondientes, y facilitarán los medios de comunicación electrónica. En todo caso, la respuesta deberá otorgarse dentro de los cinco (5) días hábiles siguientes a la fecha en que sea recibida la solicitud.
 
 (Decreto 4619 de 2010 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.2 — Buena fe y celeridad
 
@@ -14056,8 +12366,6 @@ PARÁGRAFO . El hallazgo de cualquier tipo de falsedad documental, material o id
 CAPÍTULO 3.
 
 EXTRADICIÓN DIFERIDA
-
-ARTÍCULO
 
 ## art:2.2.5.3.1 — Entrega Diferida
 
@@ -14075,8 +12383,6 @@ El Gobierno, en uso de la facultad discrecional, diferirá su entrega hasta por 
 
 (Decreto 2288 de 2010 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.5.3.2 — Eventos en que no se difiere la entrega
 
 El Gobierno no diferirá la entrega en Extradición en los siguientes presupuestos:
@@ -14093,8 +12399,6 @@ PARÁGRAFO . Teniendo en cuenta que la facultad de conceder o no la extradición
 
 (Decreto 2288 de 2010 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.3.3 — Estudio de casos
 
 Para los efectos contenidos en el presente capítulo y teniendo en cuenta el deber constitucional de colaboración armónica entre las Ramas del Poder Público, cada caso en particular será debidamente estudiado. Lo anterior, sin perjuicio de la facultad discrecional del Gobierno Nacional en materia de extradición.
@@ -14105,15 +12409,11 @@ CAPÍTULO 4
 
 BENEFICIOS DE LA LEY 782 DE 2002
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — Grupo organizado al margen de la ley
 
 Para los efectos de los beneficios legales consagrados en los artículos 19 y 24 de la Ley 782 de 2002, modificados respectivamente por los artículos 11 y 17 de la Ley 1421 de 2010, cuya vigencia fue prorrogada por la Ley 1738 de 2014, se entiende por grupo armado organizado al margen de la ley, el grupo de guerrilla o de autodefensas que reúna las características señaladas en el inciso 2o del artículo 1o de la Ley 975 de 2005 y el parágrafo 1o del artículo 3o de la Ley 782 de 2002.
 
 (Decreto 4436 de 2006 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2 — Beneficiarios
 
@@ -14122,8 +12422,6 @@ Podrán obtener los beneficios establecidos en los artículos 19 y 24 de la Ley 
 PARÁGRAFO . En todo caso, la concesión de estos beneficios requerirá que la autoridad judicial competente, en sentencia ejecutoriada o en resolución de cesación de procedimiento, preclusión o inhibitoria, según el caso, haya calificado tales conductas como constitutivas de alguno de los delitos previstos en la Ley 782 de 2002 para su otorgamiento.
 
 (Decreto 4436 de 2006 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3 — No acceso a beneficios
 
@@ -14141,8 +12439,6 @@ Sección 1
 
 Otorgamiento de beneficios de la Ley 1820 de 2016 y Decreto Ley 277 de 2017.
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.1 — Términos para decidir respecto de beneficios de la Ley 1820 de 2016
 
 El trámite completo hasta la decisión judicial, de cualquiera de los beneficios de la Ley 1820 de 2016, no podrá ser mayor a diez (10) días, contados a partir del momento en que se presente la solicitud del beneficio.
@@ -14159,8 +12455,6 @@ PARÁGRAFO . Cuando se ha decretado la conexidad para efectos de decidir sobre a
 
 (Decreto 1252 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.2 — Remisión de información con fines de conexidad
 
 En los casos en los que el solicitante cuente con múltiples procesos y/o condenas, el funcionario que reciba la solicitud del beneficio requerirá a las otras autoridades judiciales la remisión de las correspondientes piezas procesales que considere necesarias para efectos de decretar la conexidad.
@@ -14171,15 +12465,11 @@ PARÁGRAFO . Los documentos aportados por el, solicitante tendrán el valor prob
 
 (Decreto 1252 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.3 — Conexidad de actuaciones en distintos estadios procesales
 
 En el evento que contra el solicitante se adelanten simultáneamente uno o varios procesos penales, y registre además una o varias condenas en firme o no, independientemente del régimen procesal y del estado de la actuación respectiva en que se encuentre, la competencia para tramitar y decidir sobre la conexidad y resolver sobre los supuestos de la Ley 1820 de 2016, será de la autoridad que tenga asignado un asunto en el cual el peticionario esté afectado con medida de aseguramiento privativa de la libertad o privación de la libertad. En caso ser varias autoridades las que hayan ordenado la privación de la libertad del solicitante, será competente para decidir sobre todos los procedimientos aquella autoridad ante quien primero se haga la solicitud de libertad.
 
 (Decreto 1252 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.4 — Listado y acreditación para la concesión de beneficios
 
@@ -14189,15 +12479,11 @@ En caso de que la autoridad judicial valore la concesión de alguno de los benef
 
 (Decreto 1252 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.5 — Acta formal de compromiso
 
 El término para la suscripción del acta formal de compromiso para la libertad condicionada, una vez que la autoridad judicial ha concedido el respectivo beneficio, no será mayor a siete (7) días contados a partir de la comunicación de la concesión del beneficio a la Secretaría Ejecutiva de la Jurisdicción Especial para la Paz. Con el fin de llevar a cabo la respectiva suscripción, la Secretaría Ejecutiva de la Jurisdicción Especial para la Paz podrá delegar para esta labor a la persona o autoridad que considere pertinente.
 
 (Decreto 1252 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.6 — Efectos y publicidad de las decisiones
 
@@ -14207,15 +12493,11 @@ La autoridad judicial que conceda la libertad condicionada, deberá dejar sin ef
 
 (Decreto 1252 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.7 — Requisito de 5 años de privación de la libertad para la concesión del beneficio de la libertad condicionada
 
 Las personas que estén privadas de la libertad por delitos que no son objeto de la amnistía de iure, que estén vinculadas a varios procesos y/o sentencias cometidas todas en el marco del conflicto armado, serán objeto de la libertad condicionada, siempre y cuando hayan permanecido cuando menos cinco (5) años de privación efectiva de la libertad por uno o varios procesos o sentencias vigentes. Además de lo anterior, deberán cumplir los demás requisitos para acceder a la libertad condicionada establecidos en la Ley 1820 de 2016.
 
 (Decreto 1252 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.8 — Perentoriedad de los términos
 
@@ -14226,8 +12508,6 @@ Los términos establecidos en este Capítulo son perentorios. El incumplimiento 
 Sección 2
 
 Otorgamiento de beneficios de la Ley 1820 de 2016 a miembros de la Fuerza Pública.
-
-ARTÍCULO
 
 ## art:2.2.5.5.2.1 — Términos para decidir respecto de beneficios de la Ley 1820 de 2016 para miembros de la Fuerza Pública
 
@@ -14247,8 +12527,6 @@ PARÁGRAFO . Cuando se haya determinado, prima facie, que el delito ha sido come
 
 (Decreto 1269 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.2.2 — 2.2
 
 Remisión de información para la consolidación de listados por parte del Ministerio de Defensa Nacional de los miembros de la Fuerza Pública que prima facie, cumplan con los requisitos para la aplicación de beneficios. En los casos en que contra el miembro o ex miembro de la Fuerza Pública existan múltiples procesos y/o condenas, el Ministerio de Defensa Nacional requerirá a las autoridades judiciales la remisión de las correspondientes piezas procesales que considere necesarias para efectos de determinar, prima facie, el cumplimiento de los requisitos establecidos en la Ley 1820 de 2016.
@@ -14256,8 +12534,6 @@ Remisión de información para la consolidación de listados por parte del Minis
 Dicha remisión se efectuará en un tiempo no mayor a quince (15) días. Para ello, se utilizará el medio más expedito posible, preferiblemente digitalizando la información y remitiéndola por correo electrónico.
 
 (Decreto 1269 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.2.3 — Valor probatorio de los documentos aportados por el solicitante de los beneficios contemplados en la Ley 1820 de 2016
 
@@ -14267,15 +12543,11 @@ PARÁGRAFO . Los documentos aportados por el solicitante tendrán el valor proba
 
 (Decreto 1269 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.2.4 — Agrupación de actuaciones en distintos estados procesales para efectos de los supuestos de la Ley 1820 de 2016
 
 En el evento que contra el solicitante se adelanten simultáneamente uno o varios procesos penales, y registre además una o varias condenas en firme o no, independientemente del régimen procesal y del estado de la actuación respectiva en que se encuentre, la competencia para tramitar y decidir sobre la agrupación y resolver sobre los supuestos de la Ley 1820 de 2016, será de la autoridad que tenga asignado un asunto en el cual la persona esté afectada con medida de aseguramiento privativa de la libertad o privación de la libertad. En caso de que varias autoridades hayan ordenado la privación de la libertad del solicitante, será competente para decidir sobre todos los procedimientos aquella autoridad ante quien primero se haga la solicitud de libertad. Lo anterior, previo cumplimiento del procedimiento dispuesto en el artículo 53 de la Ley 1820 de 2016.
 
 (Decreto 1269 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.2.5 — Efectos y publicidad de las decisiones
 
@@ -14283,15 +12555,11 @@ La autoridad judicial que conceda la libertad transitoria, condicionada y antici
 
 (Decreto 1269 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.2.6 — 2.6
 
 Procedencia del beneficio de la libertad transitoria, condicionada y anticipada, para miembros de la Fuerza Pública con menos de 5 años de privación de la libertad. El miembro o exmiembro de la Fuerza Pública que haya sido procesado o condenado por delitos distintos a los establecidos en el numeral 2 del artículo 52 de la Ley 1820 de 2016, no estará sujeto al requisito correspondiente al tiempo igualo superior a cinco (5) años de privación de la libertad para acceder a la libertad transitoria, anticipada y condicionada.
 
 (Decreto 1269 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.2.7 — 2.7
 
@@ -14300,8 +12568,6 @@ Requisito de 5 años de privación de la libertad para la concesión del benefic
 El miembro o exmiembro de la Fuerza Pública que haya sido procesado y/o condenado por los delitos establecidos en el numeral 2 del artículo 52 de la Ley 1820 de 2016, que esté privado de la libertad y que esté vinculado a varios procesos y/o sentencias por hechos cometidos por causa, con ocasión o en relación directa o indirecta con el conflicto armado, podrá acceder a la libertad transitoria, condicionada y anticipada, siempre y cuando haya permanecido cuando menos cinco (5) años de privación efectiva de la libertad por uno o varios procesos o sentencias vigentes. Además de lo anterior, deberá cumplir los demás requisitos para acceder a libertad transitoria, condicionada y anticipada, según sea el caso, establecidos en la Ley 1820 de 2016
 
 (Decreto 1269 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.2.8 — Perentoriedad de los términos
 
@@ -14315,8 +12581,6 @@ Sección 3
 
 Solicitudes de Amnistía de que trata la Ley 1820 de 2016
 
-ARTÍCULO
-
 ## art:2.2.5.5.3.1 — Solicitudes de amnistía
 
 Los solicitantes de la amnistía a que se refiere el artículo 18 de la Ley 1820 de 2016 deberán presentar su solicitud a la Sala de Amnistía e Indulto de la Jurisdicción Especial para la Paz aportando para ello:
@@ -14326,8 +12590,6 @@ Los solicitantes de la amnistía a que se refiere el artículo 18 de la Ley 1820
 2. La certificación sobre pertenencia a las Fuerzas Armadas Revolucionarias de Colombia (FARC-EP) expedida por la Oficina del Alto Comisionado para la Paz o una providencia judicial que le condene, procese o investigue por pertenencia o colaboración con las FARC-EP.
 
 (Decreto 522 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.3.2 — Solicitudes de amnistía presentadas por personas privadas de la libertad
 
@@ -14339,8 +12601,6 @@ Cuando el solicitante se encuentre privado de la libertad al momento de realizar
 
 (Decreto 522 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.5.3.3 — Decisión de .las solicitudes de amnistía
 
 Las solicitudes de amnistía de las personas que tengan las condiciones que tratan los numerales 1 y 2 del artículo 17 de la Ley 1820 de 2016, que se presenten ante la Sala de Amnistía e Indulto, se resolverán en el término de tres (3) meses a que se refiere el artículo 21 de la Ley 1820 de 2016, conforme a la normatividad interna definida por' la Jurisdicción Especial para la Paz y siempre que el solicitante haya concluido el proceso de dejación de armas de que trata el artículo 18 de la citada Ley.
@@ -14348,8 +12608,6 @@ Las solicitudes de amnistía de las personas que tengan las condiciones que trat
 Únicamente en los eventos en los cuales el solicitante ha acreditado en debida forma los requisitos mencionados en los artículos 2.2.5.5.3.1 y 2.2.5.5.3.2 de esta Sección, la Sala de Amnistía o Indulto resolverá la solicitud. Si la solicitud de amnistía es presentada sin cumplir los requisitos establecidos en esta Sección, podrá requerir al solicitante para que los complete.
 
 (Decreto 522 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.3.4 — Ampliación de la información
 
@@ -14365,15 +12623,11 @@ Sección 1
 
 Elaboración y entrega del inventario de bienes y activos
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1 — Entrega del inventario al Gobierno Nacional
 
 Una vez las FARC - EP hayan hecho la entrega del inventario definitivo a la Misión de las Naciones Unidas y al Mecanismo de Monitoreo y Verificación, este será entregado al Gobierno Nacional, el cual estará representado por el Ministro del Interior. Esta entrega al Gobierno Nacional se formalizará mediante acta debidamente suscrita por el representante de la Misión de las Naciones Unidas, del Mecanismo de Monitoreo y Verificación y por el Ministro del Interior.
 
 (Decreto 1364 de 2017 corregido por el Decreto 1787 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.2 — Custodia del inventario por parte del Gobierno Nacional
 
@@ -14391,15 +12645,11 @@ Sección 1
 
 Sistema Autónomo de Asesoría y Defensa Gratuita
 
-ARTÍCULO
-
 ## art:2.2.5.7.1.1 — Finalidad del Sistema Autónomo de Asesoría y Defensa Gratuita
 
 El Sistema Autónomo de Asesoría y Defensa Gratuita - SAAD- tendrá por finalidad la prestación de un servicio gratuito de defensa jurídica, asistencia, asesoría y representación legal, respecto de los trámites y actuaciones previstos en la Ley 1820 de 2016 y de todos aquellos que sean de conocimiento de los diversos componentes del Sistema Integral de Verdad, Justicia, Reparación y No Repetición -SIVJRNR, en especial ante la Jurisdicción Especial para la Paz -JEP.
 
 (Decreto 1166 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.7.1.2 — Beneficiarios del SAAD
 
@@ -14431,8 +12681,6 @@ El SAAD atenderá, entre otros, los siguientes principios:
 
 (Decreto 1166 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.7.1.4 — Administración del SAAD
 
 El SAAD será administrado por la dependencia que para el efecto determine la Jurisdicción Especial para la Paz (JEP) en su Secretaría Ejecutiva, dependencia que definirá los criterios y mecanismos necesarios para el funcionamiento e integración del SAAD.
@@ -14445,8 +12693,6 @@ Lo anterior, sin perjuicio de los convenios de financiación que con este mismo 
 
 (Decreto 1166 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.7.1.5 — Prestación del servicio gratuito de asesoría y defensoría jurídica
 
 Los servicios de que trata el artículo 2.2.5.7.1.1 del presente Decreto. serán prestados por el Estado a través del SAAD, el cual dispondrá de un programa especializado de asistencia, defensa y asesoría jurídica, cuya metodología, planes, herramientas y acciones serán definidas por la dependencia que para el efecto sea creada en la Secretaría Ejecutiva de la JEP y serán desarrolladas e implementadas por el personal profesional y técnico especializado, debidamente cualificado, y los equipos que dicha dependencia considere pertinentes y necesarios para tales efectos. El mencionado programa estará destinado única y exclusivamente a la asistencia, asesoría y defensa de los beneficiarios del SAAD.
@@ -14456,8 +12702,6 @@ PARÁGRAFO 1. La Secretaría Ejecutiva de la JEP determinará los requisitos de 
 PARÁGRAFO 2. La Secretaría Ejecutiva de la JEP determinará y fijará los protocolos para garantizar el acceso a los medios técnicos que permitan el ejercicio del derecho a la defensa de manera idónea y oportuna.
 
 (Decreto 1166 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.7.1.6 — Asignaciones presupuestares
 
@@ -14475,17 +12719,15 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.5.8.1.1 — Objeto
 
 Las disposiciones previstas en el presente capítulo tienen como objeto brindar alternativas de retorno a la legalidad de manera individual a los integrantes de los grupos armados organizados (GAO), que efectúen presentación voluntaria con fines de sometimiento ante cualquier autoridad militar, de policía, administrativa y judicial.
 
 PARÁGRAFO . Las disposiciones establecidas en el presente decreto no serán aplicables a los grupos armados organizados al margen de la ley (GAO ELN) que cumplan con los requisitos establecidos en el Decreto 128 de 2003, compilado en el Decreto 1081 de 2015, Decreto Reglamentario Único del Sector Presidencia de la República.
 
-## art:2.2.5.8 — 1.2
+## art:2.2.5.8.1.2 — Definiciones
 
-Definiciones. Para efectos de la aplicación del siguiente decreto se deben tener en cuenta las siguientes definiciones:
+Para efectos de la aplicación del siguiente decreto se deben tener en cuenta las siguientes definiciones:
 
 GAO: Se consideran Grupos Armados Organizados (GAO), conforme a lo establecido por la Ley 1908 de 2018, los que, bajo la dirección de un mando responsable, ejerzan sobre una parte del territorio un control tal que les permita realizar operaciones militares sostenidas y concertadas.
 
@@ -14511,8 +12753,6 @@ Certificación del CISIL: Documento que expide el Comité Interinstitucional de 
 
 Grupo familiar: Para aquellos beneficios, diferentes a salud, que involucren la familia, se entiende como grupo familiar, el (la) cónyuge o el (la) compañero (a) permanente, los hijos y, a falta de cualquiera de los anteriores, los padres. Cuando se trate de compañeros permanentes su unión debe ser superior a los dos años en los términos de la Ley 54 de 1990
 
-ARTÍCULO
-
 ## art:2.2.5.8.1.3 — Fases de la ruta de sometimiento
 
 Se desarrolla en dos (2) fases:
@@ -14524,8 +12764,6 @@ Se desarrolla en dos (2) fases:
 SECCIÓN 2
 
 FASE DE PRESENTACIÓN
-
-ARTÍCULO
 
 ## art:2.2.5.8.2.1 — Presentación
 
@@ -14545,13 +12783,9 @@ El Ministerio de Defensa Nacional informará al exintegrante del Grupo Armado Or
 
 PARÁGRAFO : En caso de que el integrante del GAO tenga un requerimiento judicial pendiente y se presente ante una autoridad judicial, la unidad de policía o militar más cercana se acercará al lugar de reclusión para levantar el acta de sometimiento de que trata el presente artículo, y se continuará con el procedimiento establecido en la Ley 600 de 2000 o 906 de 2004.
 
-ARTÍCULO
-
 ## art:2.2.5.8.2.2 — Asistencia jurídica
 
 Los integrantes del grupo armado organizado (GAO) antes de suscribir el acta de sometimiento, deberán estar asistidos y asesorados por un abogado. En el caso de no contar con un defensor de confianza, la Defensoría del Pueblo lo proveerá, previa solicitud del Ministerio de Defensa Nacional, o del integrante. El acta de sometimiento individual será suscrita conjuntamente por los intervinientes en la diligencia. -
-
-ARTÍCULO
 
 ## art:2.2.5.8.2.3 — Recepción
 
@@ -14565,8 +12799,6 @@ PARÁGRAFO 2. El acogimiento a lo previsto en este capítulo no excluye el cumpl
 
 PARÁGRAFO 3. Los elementos ilícitos del grupo armado organizado (GAO) que sean entregados, serán recibidos por el Ministerio de Defensa Nacional o quien este designe, lo cual constará en un acta. En todo caso, la recepción se hará de acuerdo con los manuales de cadena de custodia y deberán ser entregados de manera inmediata a la Fiscalía General de la Nación, para lo de su competencia.
 
-ARTÍCULO
-
 ## art:2.2.5.8.2.4 — 2.4
 
 Beneficios preliminares: El integrante del Grupo Armado Organizado (GAO) que inicia la fase de sometimiento individual, recibirá con su grupo familiar, los siguientes beneficios:
@@ -14576,8 +12808,6 @@ Beneficio de atención psicosocial: a los integrantes de los Grupos Armados Orga
 Beneficio de Atención en Salud: la persona que se presente de manera voluntaria con fines de sometimiento individual recibirá los servicios de salud básicos a través de la red pública hospitalaria, para lo cual bastará certificación expedida por el Ministerio de Defensa Nacional. En caso que la persona sea certificada por el Comité Interinstitucional de Sometimiento Individual a la Legalidad -CISIL-, y se presente para la fase del proceso de atención diferencial, la ARN realizará la gestión de afiliación al Sistema General de Seguridad Social en Salud.
 
 Beneficios de protección y seguridad: El Ministerio de Defensa Nacional y la Fiscalía General de la Nación, según corresponda, adelantará las medidas de coordinación necesarias para brindar seguridad al integrante del Grupo Armado Organizado (GAO) que inicie la fase de sometimiento individual, así como a su grupo familiar.
-
-ARTÍCULO
 
 ## art:2.2.5.8.2.5 — Beneficios por colaboración
 
@@ -14590,8 +12820,6 @@ PARÁGRAFO 2. La información que la Fuerza Pública reciba de la persona que se
 SECCIÓN 3
 
 COMITÉ INTERINSTITUCIONAL DE SOMETIMIENTO INDIVIDUAL A LA LEGALIDAD (CISIL)
-
-ARTÍCULO
 
 ## art:2.2.5.8.3.1 — Comité Interinstitucional de Sometimiento Individual a la Legalidad (CISIL)
 
@@ -14617,8 +12845,6 @@ PARÁGRAFO 2. Cuando se reúna el Comité y se traten casos de Niños, Niñas y 
 
 PARÁGRAFO 3. Participación con voz y sin voto. El Comité podrá invitar a sus sesiones a funcionarios públicos, contratistas o expertos que estime necesario, de acuerdo con los temas específicos a tratar, quienes asistirán con voz pero sin voto.
 
-ARTÍCULO
-
 ## art:2.2.5.8.3.2 — Funciones
 
 El Comité Interinstitucional de sometimiento Individual a la Legalidad -CISIL-, sesionará de manera permanente y cumplirá las siguientes funciones:
@@ -14639,13 +12865,9 @@ PARÁGRAFO 4. Copia de la decisión del Comité, será remitida por la Secretar�
 
 PARÁGRAFO 5. Sobre la gestión mensual del Comité Interinstitucional de sometimiento Individual a la Legalidad -CISIL-, se informará al Secretario Técnico de la Comisión Nacional de Garantías de Seguridad, para efectos de adelantar el seguimiento de las acciones en materia de desmantelamiento de organizaciones criminales, conforme lo dispuesto en el artículo 3 numeral 6 del Decreto Ley 154 de 2018.
 
-ARTÍCULO
-
 ## art:2.2.5.8.3.3 — Efectos de la Certificación
 
 La certificación que expide el Comité Interinstitucional de sometimiento Individual a la Legalidad -CISIL- permite el ingreso de la persona al proceso de atención preferencial que diseñe y establezca la Agencia para la Reincorporación y la Normalización -ARN- siempre y cuando se encuentre en libertad y el otorgamiento a su favor, de los beneficios jurídicos a que haya lugar.
-
-ARTÍCULO
 
 ## art:2.2.5.8.3.4 — Beneficios Jurídicos
 
@@ -14663,23 +12885,17 @@ SECCIÓN 4
 
 FASE DE PROCESO DE ATENCIÓN DIFERENCIAL Y BENEFICIOS SOCIOECONÓMICOS
 
-ARTÍCULO
-
 ## art:2.2.5.8.4.1 — 4.1
 
 Beneficios socioeconómicos: Los integrantes del Grupo Armado Organizado (GAO) que sean certificados por el Comité Interinstitucional de sometimiento Individual a la Legalidad -CISIL- que se encuentren en libertad podrán acceder, a los beneficios especiales que serán establecidos por la Agencia para la Reincorporación y la Normalización (ARN), mediante resolución de carácter general de conformidad con los límites establecidos en este capítulo.
 
 La Agencia para la Reincorporación y la Normalización (ARN) podrá realizar un trabajo de articulación con el Instituto Nacional Penitenciario y Carcelario (INPEC) para preparar la recepción del integrante de GAO.
 
-ARTÍCULO
-
 ## art:2.2.5.8.4.2 — Apoyo económico de sometimiento
 
 Consiste en un beneficio económico que se otorga a los integrantes del Grupo Armado Organizado (GAO) que sean certificados por el Comité Interinstitucional de sometimiento Individual a la Legalidad-CISIL- previa disponibilidad presupuestal y sujeto a los requisitos y términos que establezca la ARN. No será considerado fuente de generación de ingresos y no podrá ser otorgado de forma indefinida.
 
 El integrante del GAO, podrá recibir mensualmente un apoyo econom1co de hasta cuatrocientos ochenta mil pesos ($480.000) de conformidad con el cumplimiento de los requisitos que establezca la ARN.
-
-ARTÍCULO
 
 ## art:2.2.5.8.4.3 — Estímulo económico de sometimiento
 
@@ -14693,8 +12909,6 @@ Consiste en un beneficio económico que se otorga a los integrantes del Grupo Ar
 
 El estímulo económico de sometimiento corresponderá a un monto de hasta ocho millones de pesos ($8.000.000), podrá entregarse por una sola vez, previa disponibilidad presupuestal y estará supeditado al cumplimiento de los requisitos que establezca la Agencia para la Reincorporación y la Normalización (ARN).
 
-ARTÍCULO
-
 ## art:2.2.5.8.4.4 — Situaciones en las que no se reconocerán beneficios
 
 No se reconocerán los beneficios establecidos en la presente sección:
@@ -14703,15 +12917,11 @@ No se reconocerán los beneficios establecidos en la presente sección:
 
 3. Cuando se profiera sentencia ejecutoriada por delitos dolosos cometidos con posterioridad a la certificación del CISIL
 
-ARTÍCULO
-
 ## art:2.2.5.8.4.5 — Apoyo económico para traslado por riesgo
 
 Es el apoyo económico que se entrega al integrante del GAO certificado por el CISIL con el objeto de cubrir sus gastos de traslado, dentro del territorio nacional, cuando la autoridad competente acredite la existencia de un nivel de riesgo extraordinario extremo concepto de riesgo inminente por trámite de emergencia. El monto por concepto de este apoyo será de hasta por dos punto cinco (2.5) salarios mínimos legales mensuales vigentes, y se concederá por una sola vez. Este apoyo estará a cargo de la Agencia para la Reincorporación y la Normalización (ARN).
 
 Este beneficio se otorgará únicamente a los exintegrantes de GAO certificados por el CISIL que ingresen al proceso de atención diferencial que diseñe la ARN.
-
-ARTÍCULO
 
 ## art:2.2.5.8.4.6 — Póliza de seguro de vida
 
@@ -14723,8 +12933,6 @@ SECCIÓN 5
 
 PROTECCIÓN Y ATENCIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES
 
-ARTÍCULO
-
 ## art:2.2.5.8.5.1 — Certificación de desvinculación de niños, niñas y adolescentes
 
 En los casos de desvinculación de niños, niñas y adolescentes se dará aplicación a lo dispuesto en el Decreto Ley 1081 de 2015, en la sentencia C-069 de 2016 y especialmente en el Decreto Ley 671 de 2017, en lo referente a la certificación de desvinculación que expide el Comité Operativo para la Dejación de las Armas (CODA), sin importar el grupo armado ilegal al que perteneció.
@@ -14733,13 +12941,9 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.5.8.6.1 — Recursos
 
 El Ministerio de Hacienda y Crédito Público asignará los recursos financieros requeridos para la ejecución de las disposiciones contenidas en el presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.5.8.6.2 — Difusión
 
@@ -15139,8 +13343,6 @@ Sección 1
 
 Aspectos Generales
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.1 — Servicio público notarial
 
 El notariado es un servicio público e implica el ejercicio de la fe notarial. La fe pública o notarial otorga plena autenticidad a las declaraciones emitidas ante el notario y a lo expresado por éste respecto de los hechos percibidos en el ejercicio de sus funciones, en los casos y con los requisitos que la ley establece.
@@ -15149,15 +13351,11 @@ El notariado es un servicio público e implica el ejercicio de la fe notarial. L
 
 (Decreto 2148 de 1983, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.2 — Ejercicio de funciones
 
 El notario ejercerá sus funciones a solicitud de los interesados, quienes tienen el derecho de elegirlo libremente, salvo lo estipulado para el reparto.
 
 (Decreto 2148 de 1983, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.3 — No autorización de actos
 
@@ -15167,23 +13365,17 @@ De los demás vicios que afecten el acto objeto del contrato advertirá a los co
 
 (Decreto 2148 de 1983, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.4 — Gestión de negocios ajenos
 
 Entiéndese por gestión de negocios ajenos todo acto de representación, disposición o administración que ejecute un notario en nombre de otra persona, salvo los atinentes al ejercicio de la patria potestad.
 
 (Decreto 2148 de 1983, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.5 — Pertenencia a juntas directivas
 
 Con las limitaciones establecidas en la ley, el notario podrá ser miembro de juntas o consejos directivos de entidades oficiales siempre y cuando no interfiera el ejercicio de su función.
 
 (Decreto 2148 de 1983, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.6 — Ejercicio de la academia
 
@@ -15192,8 +13384,6 @@ El notario podrá ejercer cargos docentes, académicos o de beneficencia en esta
 (Suprimido por el Art. 3 del Decreto 541 de 2023)
 
 (Decreto 2148 de 1983, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.7 — Dependencias de la notaría
 
@@ -15209,23 +13399,17 @@ Subsección 1
 
 De las escrituras públicas
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.1 — Transcripción en la escritura pública
 
 Cuando por disposición legal o por voluntad de las partes deba elevarse a escritura pública un documento, el texto de éste se transcribirá en la escritura copiándolo íntegramente.
 
 (Decreto 2148 de 1983, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.2 — Firma numeración y fecha de la escritura
 
 La escritura será firmada, numerada y fechada en un mismo acto. Sin perjuicio de las normas especiales previstas en la ley para los testamentos, excepcionalmente y por causa debidamente justificada, el notario podrá aceptar su otorgamiento en diferentes momentos sin que por esto se afecte su unidad formal. Procederá entonces a numerarla y fecharla con la firma del primer otorgante y una vez suscrita por los demás comparecientes, la autorizará. En este caso sus efectos se retrotraen al momento de la primera firma.
 
 (Decreto 2148 de 1983, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.3 — Falta de firma de uno de los otorgantes
 
@@ -15235,15 +13419,11 @@ Cuando transcurridos dos meses desde la fecha de la firma del primer otorgante n
 
 Comparecencia
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.4 — Identificación en caso de urgencia
 
 En caso de urgencia, calificada por el notario, el compareciente que carezca de documento de identificación legal pertinente, podrá identificarse con otros documentos auténticos, o mediante la fe de conocimiento personal del notario.
 
 (Decreto 2148 de 1983, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.5 — Suscripción de instrumentos fuera de la sede la notaría
 
@@ -15251,23 +13431,17 @@ Los representantes legales de las entidades oficiales y particulares que tengan 
 
 (Decreto 2148 de 1983, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.6 — Prueba del ejercicio del cargo
 
 El ejercicio del cargo de funcionario público se acreditará con la correspondiente constancia o certificación.
 
 (Decreto 2148 de 1983, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.7 — Poder en documento privado
 
 El poder otorgado por documento privado deberá ser presentado personalmente o reconocido ante juez o notario, con las formalidades de ley.
 
 (Decreto 2148 de 1983, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.8 — Poder para enajenar inmuebles
 
@@ -15277,8 +13451,6 @@ Quien otorgue poder especial para enajenar, grabar o limitar un inmueble, lo ide
 
 (Decreto 2148 de 1983, artículo 15, modificado el Decreto 231 de 1985, art 1).
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.9 — Poder otorgado en el exterior
 
 El poder o la sustitución del mismo, conferido en el exterior para realizar actos notariales en Colombia, deberá ser autenticado en la forma indicada en los artículos 65 y 259 del Código de Procedimiento Civil o las normas que lo deroguen, adicionen, modifiquen o complementen.
@@ -15287,23 +13459,17 @@ El poder o la sustitución del mismo, conferido en el exterior para realizar act
 
 De las estipulaciones
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.10 — Obligación de los notarios frente a las estipulaciones de las partes
 
 El notario al revisar las declaraciones de los otorgantes velará porque no sean contradictorias y se ajusten a la ley.
 
 (Decreto 2148 de 1983, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.11 — Segregación de un inmueble
 
 Cuando en una escritura se segreguen una o más porciones de un inmueble, se identificarán y alinderarán los predios segregados y el de la parte restante. Si se expresa la cabida se indicará la de cada unidad por el sistema métrico decimal.
 
 (Decreto 2148 de 1983, artículo 18 modificado el Decreto 2157 de 1995, art 8)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.12 — Englobamiento de dos o más predios
 
@@ -15313,15 +13479,11 @@ Cuando en una escritura se engloben dos o más predios, se individualizarán y a
 
 De los comprobantes fiscales
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.13 — Análisis de los comprobantes fiscales
 
 El notario deberá examinar los comprobantes fiscales que se le presentan cuando un certificado de paz y salvo aparezca con enmendaduras, tachaduras o adulteraciones, debe retenerlo y enviarlo al administrador de impuestos respectivo, sin autorizar la escritura.
 
 (Decreto 2148 de 1983, artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.14 — Casos en los que no se requieren comprobantes fiscales
 
@@ -15331,15 +13493,11 @@ En los casos de participación material del inmueble no se exigirá la presentac
 
 Del otorgamiento y de la autorización
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.15 — Lectura de la escritura pública
 
 Extendida la escritura será leída en su totalidad por el notario o por los otorgantes o por la persona designada por éstos. Si se tratare de personas sordas, la lectura será hecha por ellas mismas, y si son ciegas o mudas que no puedan darse a entender por escrito únicamente por el notario, quien debe establecer de manera inequívoca el asentimiento del otorgante. Si el sordo no supiere leer, el contenido de la escritura le será dado a conocer por medio de un intérprete designado por él. En todos los casos el notario dejará constancia de lo ocurrido.
 
 (Decreto 2148 de 1983, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.16 — Asesoría con intérpretes
 
@@ -15349,23 +13507,17 @@ El intérprete será designado por el otorgante que no entienda el idioma o en s
 
 (Decreto 2148 de 1983, artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.17 — Cumplimiento del requisito de la edad del testigo
 
 Se entiende por cumplido el requisito de indicar la edad del testigo que firma a ruego con la afirmación que se haga de ser mayor de edad, de conformidad con lo dispuesto en el artículo 26 del Decreto-Ley 0960 de 1970.
 
 (Decreto 2148 de 1983, artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.18 — Definición de situación militar
 
 El notario no permitirá el otorgamiento del instrumento cuando no se le compruebe la definición de la situación militar por los comparecientes que de acuerdo con normas legales deban cumplir este requisito, salvo en lo relacionado exclusivamente con el estado civil. Cuando se actúe por poder, tal circunstancia debe constar en él certificada por quien lo autentique, a menos que se acredite en el momento de suscribir la escritura.
 
 (Decreto 2148 de 1983, artículo 25, suprimido por el Decreto 1526 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.19 — Comprobantes fiscales
 
@@ -15377,8 +13529,6 @@ Subsección 2
 
 De las cancelaciones
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.2.1 — Protocolización de documentos
 
 El causahabiente del crédito o el representante del acreedor deberán protocolizar con la escritura de cancelación de la hipoteca, copia de los documentos pertinentes con los cuales compruebe su calidad.
@@ -15389,23 +13539,17 @@ Subsección 3
 
 De la guarda, apertura y publicación del testamento cerrado
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.1 — Obligación del notario en la apertura y publicación del testamento cerrado
 
 En la apertura y publicación del testamento cerrado, el notario quien lo autorice advertirá de la formalidad del registro, tal como se procede para el testamento abierto.
 
 (Decreto 2148 de 1983, artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.2 — Formalidades para la revocatoria del testamento
 
 La escritura que contenga la simple declaración del otorgante de revocar su testamento, deberá llenar las mismas formalidades del testamento.
 
 (Decreto 2148 de 1983, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.3 — Guarda del testamento
 
@@ -15415,23 +13559,17 @@ El notario llevará una relación de testamentos cerrados en la cual anotará el
 
 (Decreto 2148 de 1983, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.4 — Obligación del notario a quien se le pide la apertura de testamento
 
 El notario a quien se pidiera la apertura y publicación de un testamento cerrado, dispondrá que se cite a los testigos, señalando el día y hora en que deban comparecer ante él.
 
 (Decreto 2148 de 1983, artículo 32)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.5 — Acta
 
 Toda actuación notarial referente a la apertura y publicación del testamento cerrado se hará constar en acta que será suscrita por quienes intervengan en la diligencia.
 
 (Decreto 2148 de 1983, artículo 33)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.6 — Transición
 
@@ -15443,8 +13581,6 @@ Subsección 4
 
 Del reconocimiento de documentos privados
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.4.1 — Diligencia de reconocimiento privado
 
 En la diligencia de reconocimiento de un documento privado el notario dejará constancia de la manifestación del interesado, suscrita por éste, de que el contenido de aquél es cierto. Para tal efecto podrá utilizar un sello en donde se exprese de manera inequívoca esta declaración. Si el documento contiene varias hojas, sellará y rubricará cada una de ellas. Esta diligencia será firmada por el notario en último lugar. En igual forma se procederá para el reconocimiento de la firma.
@@ -15454,8 +13590,6 @@ En la diligencia de reconocimiento de un documento privado el notario dejará co
 Subsección 5
 
 De las autenticaciones
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.5.1 — Diligencia de autenticación
 
@@ -15467,8 +13601,6 @@ Las diligencias de autenticación serán suscritas por el notario con firma aut�
 
 (Decreto 2148 de 1983, artículo 35)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.5.2 — Autenticación de copia mecánica o literal
 
 La copia mecánica o literal de un documento tomada de una copia, podrá ser autenticada por el notario y en la respectiva diligencia se indicará que es copia de copia. Y si fuere de copia autenticada así lo expresará.
@@ -15479,23 +13611,17 @@ Subsección 6
 
 De las copias
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.6.1 — Ejemplares de una escritura
 
 Si en una misma escritura constaren obligaciones hipotecarias en favor de dos o más personas, el notario expedirá sendos ejemplares de la primera copia y expresará en cada una de ellas el número del ejemplar de que se trata y el mérito ejecutivo para el acreedor a quien se le expide.
 
 (Decreto 2148 de 1983, artículo 38)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.6.2 — Copia sustitutiva
 
 La copia sustitutiva de aquélla que presta mérito ejecutivo, sea que se expida por solicitud de las partes mediante escritura pública otorgada después de su destrucción o por orden judicial, contendrá la nota de su expedición con el número de orden que le corresponda, la cantidad de hojas en que se compulsa, la constancia de ser sustitutiva de la primera y el nombre del acreedor en favor de quien se expide.
 
 (Decreto 2148 de 1983, artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.6.3 — Escritura de bienes sometidos a propiedad horizontal
 
@@ -15504,8 +13630,6 @@ En la escritura por medio de la cual se enajene o traspase la propiedad sobre un
 En caso contrario se protocolizará con esta copia auténtica de la parte pertinente del reglamento que sólo contendrá la determinación de áreas y linderos de unidades sobre las cuales verse el traspaso y de las que tengan el carácter de bienes afectados al uso común.
 
 (Decreto 2148 de 1983, artículo 40)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.6.4 — Corrección de errores u omisiones
 
@@ -15517,8 +13641,6 @@ Subsección 7
 
 De los certificados
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.7.1 — Numeración de los certificados
 
 Todo certificado que expida el notario tendrá numeración continua que se iniciará en el respectivo año.
@@ -15528,8 +13650,6 @@ Todo certificado que expida el notario tendrá numeración continua que se inici
 Subsección 8
 
 De las notas de referencia
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.8.1 — Certificados con destino a otra notaría
 
@@ -15541,8 +13661,6 @@ Subsección 9
 
 De los testimonios especiales
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.9.1 — Prueba de la comparecencia
 
 Cuando se trate de comprobar que una persona concurrió a la notaría a otorgar una escritura prometida, el notario dará testimonio escrito de la comparecencia mediante acta o escritura pública, a elección del interesado. En todos los casos el notario dejará constancia de los documentos presentados por el compareciente.
@@ -15552,8 +13670,6 @@ Cuando se trate de comprobar que una persona concurrió a la notaría a otorgar 
 Subsección 10
 
 De los depósitos
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.10.1 — Depósitos
 
@@ -15567,8 +13683,6 @@ Subsección 11
 
 Identificación de inmuebles
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.11.1 — Plano definitivo del inmueble
 
 En desarrollo de lo dispuesto en el artículo 317 del Decreto Ley 960 de 1970, para efectos de identificar los inmuebles por sus linderos, se podrá acudir al plano definitivo expedido por la autoridad catastral correspondiente resultante de los procesos de formación, actualización y conservación catastral, el cual se protocolizará con la escritura pública respectiva.
@@ -15581,8 +13695,6 @@ PARÁGRAFO 2. Tratándose de inmuebles sobre los cuales se constituya régimen d
 
 (Decreto 2157 de 1995, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.11.2 — Protocolización del plano en caso de segregación
 
 En los casos previstos en esta Subsección cuando se segreguen una o más porciones de un inmueble, se protocolizará con la escritura tanto el plano resultante de los procesos de formación, actualización y conservación catastral del lote de mayor extensión, como el plano de las unidades segregadas y el correspondiente a la parte restante, estos últimos elaborados con base en el plano catastral por autoridad catastral o por un agrimensor, topógrafo o ingeniero con matrícula profesional vigente.
@@ -15593,23 +13705,17 @@ PARÁGRAFO . Cuando para los fines previstos en este artículo, la autoridad cat
 
 (Decreto 2157 de 1995 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.11.3 — Protocolización del plano en la escritura de aclaración
 
 Cuando la identificación del predio se haya realizado con el plano expedido por la autoridad catastral, la escritura pública de aclaración y/o actualización de los linderos requerirá de la protocolización del nuevo plano catastral correspondiente.
 
 (Decreto 2157 de 1995, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.11.4 — Contenido del plano
 
 En los planos a que hace referencia la presente Subsección, se indicará el número de éstos, el área del terreno, la localización, la nomenclatura cuando fuere el caso, las coordenadas planas de los puntos o letras utilizados, el número único de identificación predial o en su defecto el número catastral y cuando se trate de planos catastrales resultantes del proceso de formación, actualización y conservación catastral, la certificación de la autoridad catastral sobre dicha circunstancia.
 
 (Decreto 2157 de 1995, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.11.5 — Inscripción en el folio de Matrícula inmobiliaria
 
@@ -15619,15 +13725,11 @@ PARÁGRAFO . Para el archivo de la Oficina de Registro de Instrumentos Públicos
 
 (Decreto 2157 de 1995, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.11.6 — Aplicación del sistema de identificación
 
 Cuando las personas naturales y jurídicas y las Entidades Públicas se acojan al sistema establecido por la presente Subsección, en los sucesivos actos de disposición de los inmuebles a los cuales se haya aplicado dicho procedimiento, los mismos deberán identificarse por sus linderos con base en el plano catastral correspondiente.
 
 (Decreto 2157 de 1995, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.11.7 — Procesos de titulación
 
@@ -15636,8 +13738,6 @@ La exigencia de identificación o determinación de los linderos de la parte res
 En estos casos, la actualización del área y los linderos de la parte restante del predio se efectuará con base en otra escritura pública con la cual se protocolizará el plano correspondiente.
 
 (Decreto 2157 de 1995, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.11.8 — Derecho de terceros
 
@@ -15653,8 +13753,6 @@ Subsección 1
 
 De los instrumentos no autorizados
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.1.1 — Documentos no autorizados
 
 El instrumento que no haya sido autorizado por el notario no adquiere la calidad de escritura pública y es inexistente como tal. Empero, cuando en un instrumento solamente faltare la firma del notario y la omisión se debiere a causas diferentes de las que justifican la negativa de la autorización, la Superintendencia de Notariado y Registro, con conocimiento de causa, podrá disponer mediante resolución motivada que el instrumento se suscriba por quien esté ejerciendo el cargo. A la solicitud se allegará certificación expedida por el notario en la cual conste que el instrumento reúne todos los requisitos legales con excepción de la autorización.
@@ -15664,8 +13762,6 @@ El instrumento que no haya sido autorizado por el notario no adquiere la calidad
 Subsección 2
 
 De la corrección de errores
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.2.1 — Cambio de inmueble objeto de la escritura pública
 
@@ -15677,8 +13773,6 @@ Sólo procede escritura de aclaración de la de constitución de sociedades, cua
 
 (Decreto 2148 de 1983, artículo 48, modificado por el Decreto 231 de 1985 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.2.2 — Errores de nomenclatura, denominación o descripción del inmueble
 
 Cuando se trate del otorgamiento de escritura aclaratoria para corrección de errores en la nomenclatura, denominación o descripción de un inmueble, en la cita de su cédula o registro catastral, en la de sus títulos antecedentes y sus inscripciones en el registro, o en los nombres o apellidos de los otorgantes, podrá suscribirla el actual titular del derecho presentando los documentos con los cuales acrediten tal calidad y el notario dejará constancia de ellos en la escritura.
@@ -15687,15 +13781,11 @@ El error en los linderos que no configure cambio en el objeto del contrato, se a
 
 (Decreto 2148 de 1983, artículo 49)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.2.3 — Errores aritméticos
 
 Los errores aritméticos cometidos en la escritura y advertidos después de expedidas las copias se corregirán en la forma establecida en el artículo 103 del Decreto-Ley 0960 de 1970. En la copia el notario transcribirá la declaración de los otorgantes corrigiendo el error y las firmas respectivas.
 
 (Decreto 2148 de 1983, artículo 50)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.2.4 — Error en la fecha o número de la escritura
 
@@ -15704,8 +13794,6 @@ El error manifiesto en la fecha o número de la escritura o denominación del fu
 Si la copia hubiere sido registrada se expedirá además un certificado para que en el registro se haga la corrección a que hubiere lugar.
 
 (Decreto 2148 de 1983, artículo 51)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.2.5 — Falta de anotación de comprobante fiscal
 
@@ -15721,23 +13809,17 @@ Subsección 1
 
 De la guarda y conservación de los archivos
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.1.1 — Consulta de los archivos
 
 Toda persona podrá consultar los archivos notariales, con el permiso y bajo la vigilancia del notario o del subalterno autorizado por éste. Para tal fin son hábiles todos los días, en las horas que determine el notario.
 
 (Decreto 2148 de 1983, artículo 53)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.1.2 — Suspensión de la consulta de archivos
 
 La consulta de los archivos de la notaría podrá suspenderse para un determinado grupo de documentos por lapsos no superiores a treinta días con el fin de encuadernarlos con miras a la mayor seguridad e integridad del protocolo. El notario llevará una relación de los números con las escrituras enviadas a empaste y de la fecha de iniciación y terminación del trabajo.
 
 (Decreto 2148 de 1983, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.1.3 — Libro de actas
 
@@ -15748,8 +13830,6 @@ El notario, además de los libros que constituyen el archivo, tendrá el de acta
 Subsección 2
 
 De la entrega y recibo de los archivos
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.2.1 — Propiedad de libros y archivos
 
@@ -15765,8 +13845,6 @@ Subsección 1
 
 De los círculos notariales
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.1.1 — Deber de comunicación
 
 Cuando se construya un nuevo municipio el respectivo gobernador, comunicará este hecho a la Superintendencia de Notariado y Registro, adjuntado copia del acto de su creación, para los fines indicados en el artículo 128 del Decreto-Ley 0960 de 1970.
@@ -15777,15 +13855,11 @@ Subsección 2
 
 De los notarios
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.2.1 — Cargo de notario
 
 El cargo de notario se asume por la designación, la confirmación si fuere el caso, y la posesión.
 
 (Decreto 2148 de 1983, artículo 58)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.2.2 — Acreditación del cargo de notario o registrador
 
@@ -15794,8 +13868,6 @@ El hecho de haber sido notario o registrador se acredita con certificación de l
 Esta entidad calificará la práctica o experiencia notarial, registral o judicial que la ley exige.
 
 (Decreto 2148 de 1983, artículo 59)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.2.3 — Requisitos para la posesión
 
@@ -15817,8 +13889,6 @@ Subsección 3
 
 De la provisión, permanencia y período de los notarios
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.1 — Confirmación del nombramiento
 
 La Superintendencia de Notariado y Registro confirmará los notarios de círculos de la primera categoría y los gobernadores, los de la segunda y tercera.
@@ -15827,23 +13897,17 @@ PARÁGRAFO . Copia de las providencias de nombramiento y confirmación, y del ac
 
 (Decreto 2148 de 1983, artículo 61)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.2 — Acumulación de calidades
 
 Las calidades de que tratan los artículos 153 y 154 del Decreto-Ley 0960 de 1970 son acumulables, en su orden, para el lleno de los requisitos legales.
 
 (Decreto 2148 de 1983, artículo 62)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.3 — Comunicación de la designación
 
 Dentro de los cinco (5) días siguientes a la designación de un notario, los gobernadores, la comunicarán al Consejo Superior, por intermedio de la Superintendencia de Notariado y Registro.
 
 (Decreto 2148 de 1983, artículo 63)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.4 — Posesión
 
@@ -15855,15 +13919,11 @@ En este caso, el término para tomar posesión empezará a contarse una vez efec
 
 (Decreto 2148 de 1983 artículo 64, adicionado por el Decreto 2235 de 1994, art 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.5 — Notarios de carrera
 
 Es notario de carrera quien desempeñe el cargo en propiedad.
 
 (Decreto 2148 de 1983, artículo 65)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.6 — Propiedad, interinidad o encargo
 
@@ -15883,23 +13943,17 @@ c) Por falta absoluta del titular.
 
 (Decreto 2148 de 1983, artículo 66)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.7 — Nombramiento en interinidad
 
 El notario interino que reúna los requisitos legales exigidos para la categoría, tiene derecho a permanecer en el cargo hasta el vencimiento del período, salvo que se provea en propiedad o asuma sus funciones el titular.
 
 (Decreto 2148 de 1983, artículo 67)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.8 — Designación de notario ad hoc
 
 Cuando el notario no pueda autorizar actos por tener interés directo o por ser otorgantes su cónyuge o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil, será designado un notario ad hoc por la Superintendencia de Notariado y Registro si se trata de notario único de círculos de la primera categoría y por la respectiva autoridad nominadora si pertenecieren a la segunda o tercera.
 
 (Decreto 2148 de 1983, artículo 68)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.9 — Falta absoluta del notario
 
@@ -15923,15 +13977,11 @@ PARÁGRAFO . Cuando fuere suprimida una notaría y el notario titular pertenecie
 
 (Decreto 2148 de 1983, artículo 71)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.10 — Aceptación de la renuncia
 
 Cuando se le acepte la renuncia a un notario, si éste desea que se le reemplace inmediatamente, el nominador lo hará designando notario encargado o interino.
 
 (Decreto 2148 de 1983, artículo 72)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.11 — Destitución del cargo
 
@@ -15939,15 +13989,11 @@ Los casos de destitución del cargo se regularán por lo dispuesto en el Decreto
 
 (Decreto 2148 de 1983, artículo 73)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.12 — Edad e incapacidad física o mental
 
 Son causales de retiro forzoso la edad o la incapacidad física o mental permanente.
 
 (Decreto 2148 de 1983, artículo 74)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.13 — Retiro forzoso
 
@@ -15955,15 +14001,11 @@ ARTÍCULO
 
 (Decreto 2148 de 1983 artículo 75 modificado por el Decreto 3047 de 1989, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3.14 — Nueva designación
 
 El notario retirado forzosamente por incapacidad física o mental podrá ser designado nuevamente siempre que acredite plenamente su completa recuperación o rehabilitación con certificado expedido por la Junta Regional de Calificación de Invalidez que no ha cumplido la edad de retiro forzoso y que reúne los requisitos propios del cargo.
 
 (Decreto 2148 de 1983, artículo 76)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.15 — Abandono del cargo
 
@@ -15972,8 +14014,6 @@ Se considera que hay abandono del cargo cuando el notario, sin la correspondient
 El abandono del cargo será declarado por la autoridad nominadora, de oficio o a solicitud de quien tenga conocimiento del hecho.
 
 (Decreto 2148 de 1983, artículo 77)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3.16 — Deber de comunicación
 
@@ -15985,15 +14025,11 @@ Subsección 4
 
 Del Consejo Superior para la Carrera Notarial
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.4.1 — Reuniones
 
 El Consejo Superior se reunirá cada vez que fuere convocado por su presidente. Sus decisiones se tomarán por mayoría absoluta de los miembros presentes y formarán quórum para deliberar y decidir la mitad más uno de sus integrantes.
 
 (Decreto 2148 de 1983, artículo 80)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.4.2 — Secretaría Técnica
 
@@ -16001,15 +14037,11 @@ El Jefe de la Oficina Asesora Jurídica de la Superintendencia de Notariado y Re
 
 (Decreto 2148 de 1983, artículo 81)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.4.3 — Gastos
 
 Los gastos que demande funcionamiento del consejo superior y los concursos se harán con cargo al presupuesto de la Superintendencia de Notariado y Registro, la cual le proporcionará además los servicios técnico-administrativos que requiera para su funcionamiento.
 
 (Decreto 2148 de 1983, artículo 82)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.4.4 — Recursos
 
@@ -16021,8 +14053,6 @@ Subsección 5
 
 De la carrera notarial
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.5.1 — Objeto
 
 La carrera notarial tiene por objeto mejorar el servicio en la función notarial, seleccionar los notarios mediante la comprobación de su capacidad intelectual y moral, garantizar su estabilidad en el cargo y su promoción o ascenso.
@@ -16031,15 +14061,11 @@ Para el ingreso y permanencia en la carrera no podrá hacerse distingo alguno po
 
 (Decreto 2148 de 1983, artículo 95)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.5.2 — Exclusión de la Carrera notarial
 
 El notario dejará de pertenecer a la carrera en cualquier caso en que se produzca falta absoluta y en el previsto en el artículo 202 del Decreto-Ley 960 de 1970.
 
 (Decreto 2148 de 1983, artículo 102)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.5.3 — Aplicación
 
@@ -16051,23 +14077,17 @@ Subsección 6
 
 De las situaciones administrativas
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.1 — Servicio activo
 
 El notario se encuentra en servicio activo, cuando debidamente posesionado ejerce sus funciones.
 
 (Decreto 2148 de 1983, artículo 104)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.2 — Licencia
 
 El notario está en licencia cuando con la debida autorización, se separa transitoriamente del ejercicio del cargo por solicitud propia, por enfermedad o por maternidad.
 
 (Decreto 2148 de 1983, artículo 105)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.6.3 — Entidad que concede las licencias
 
@@ -16083,8 +14103,6 @@ c) Cuando el término de la licencia no exceda de quince días y el notario no r
 
 (Decreto 2148 de 1983, artículo 106)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.4 — Licencias ordinarias
 
 Los notarios tienen derecho a licencias ordinarias hasta por noventa días continuos o discontinuos, de cada año.
@@ -16095,23 +14113,17 @@ PARÁGRAFO . El tiempo de estas licencias no es computable como tiempo de servic
 
 (Decreto 2148 de 1983, artículo 107)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.5 — Renuncia de la licencia
 
 La licencia no puede ser revocada unilateralmente pero es renunciable por el notario.
 
 (Decreto 2148 de 1983, artículo 108)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.6 — Prohibiciones durante la licencia
 
 Durante el lapso de la licencia, el notario está cobijado por las prohibiciones legales, especialmente por las señaladas en el artículo 10 del Decreto-Ley 960 de 1970.
 
 (Decreto 2148 de 1983, artículo 109)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.6.7 — Licencia por incapacidad física
 
@@ -16121,15 +14133,11 @@ El tiempo de estas licencias no interrumpe el de servicio.
 
 (Decreto 2148 de 1983, artículo 110)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.8 — Licencia por enfermedad
 
 En caso de licencia por enfermedad, mientras se expide la certificación correspondiente, el notario puede solicitar licencia ordinaria y una vez obtenida aquella, la remitirá a la Superintendencia de Notariado y Registro o a la entidad nominadora según el caso, para que se modifique la resolución que concedió la licencia.
 
 (Decreto 2148 de 1983, artículo 111)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.6.9 — Permiso
 
@@ -16137,23 +14145,17 @@ El notario puede solicitar permiso hasta por tres días cuando medie justa causa
 
 (Decreto 2148 de 1983, artículo 112)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.10 — Uso de la licencia y el permiso
 
 El notario no podrá hacer uso de permisos ni licencias sino una vez posesionado su reemplazo y deberá enviar copia de la providencia que los conceda y del acta de posesión del encargado a la Superintendencia de Notariado y Registro.
 
 (Decreto 2148 de 1983, artículo 113)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6.11 — Reemplazo
 
 En todos los casos de licencia y permiso, el notario puede indicar la persona que deba reemplazarlo bajo la responsabilidad, facultad que conserva si considera necesario solicitar su relevo.
 
 (Decreto 2148 de 1983, artículo 114)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.6.12 — Suspensión del cargo
 
@@ -16169,15 +14171,11 @@ Subsección 1
 
 De la responsabilidad en el ejercicio de la función
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1.1 — Autonomía en el ejercicio del cargo
 
 La autonomía del notario en el ejercicio de su función implica que dentro del marco de sus atribuciones interpreta la ley de acuerdo con las reglas establecidas en el Código Civil y no depende de un superior jerárquico que le revise sus actuaciones para reformarlas, confirmarlas o revocarlas, sino que actúa bajo su personal responsabilidad.
 
 (Decreto 2148 de 1983, artículo 116)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.1.2 — Responsabilidad disciplinaria
 
@@ -16185,15 +14183,11 @@ Independientemente de la responsabilidad civil o penal que le pueda corresponder
 
 (Decreto 2148 de 1983, artículo 117)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1.3 — Creación de empleos
 
 Bajo su responsabilidad el notario podrá crear los empleos que requiera el eficaz funcionamiento de la oficina a su cargo, tendrá especial cuidado en la selección de los empleados, velará por su capacitación y por el buen desempeño de sus funciones y cumplirá las obligaciones que para con sus subalternos les señalan las normas legales.
 
 (Decreto 2148 de 1983, artículo 118)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.1.4 — Cuotas partes de carácter patronal
 
@@ -16201,15 +14195,11 @@ Las cuotas o aportes de carácter patronal sólo se causan cuando el notario ten
 
 (Decreto 2148 de 1983, artículo 119)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1.5 — Acción de repetición
 
 En los casos en que la Nación sea condenada por falla en la prestación del servicio notarial, podrá ejercitar la acción de repetición correspondiente.
 
 (Decreto 2148 de 1983, artículo 120)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.1.6 — Responsabilidad en el ejercicio de funciones
 
@@ -16229,8 +14219,6 @@ De conformidad con las normas legales, el incumplimiento de estas obligaciones c
 
 (Decreto 2148 de 1983, artículo 121)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1.7 — Pago de Recaudos aportes y cuotas
 
 Dentro de los primeros quince días de cada mes el notario deberá pagar a la Superintendencia de Notariado y Registro, al Fondo Cuenta Especial del Notariado y a las entidades de seguridad o previsión social, los recaudos, aportes y cuotas según el caso, correspondientes al mes inmediatamente anterior.
@@ -16239,15 +14227,11 @@ PARÁGRAFO . El notario con derecho a subsidio podrá autorizar al Fondo Cuenta 
 
 (Decreto 2148 de 1983, artículo 122)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1.8 — Informe sobre número de escrituras autorizadas
 
 El notario enviará mensualmente a la Superintendencia de Notariado y Registro y al Fondo Cuenta Especial del Notariado informe sobre el número de escrituras autorizadas por él en el mes inmediatamente anterior. Además, a la superintendencia las cuentas de ingresos y egresos dentro del mismo término.
 
 (Decreto 2148 de 1983, artículo 123)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.1.9 — Subsidio
 
@@ -16259,15 +14243,11 @@ Subsección 2
 
 De las faltas
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.2.1 — Responsabilidad del notario
 
 El notario ejercerá su función con la cumplida dignidad de quien sirve un encargo público. En consecuencia, responderá de todas las conductas que atentan contra el cumplimiento de la función y la calidad del servicio.
 
 (Decreto 2148 de 1983, artículo 125)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.2.2 — Prohibiciones
 
@@ -16277,23 +14257,17 @@ En ningún caso, se podrá insertar propaganda de índole comercial en las cará
 
 (Decreto 2148 de 1983, artículo 126)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.2.3 — Requisito sustancial
 
 Para efectos del artículo 198, ordinal 8, del Decreto-Ley 0960 de 1970, entiéndese por requisito sustancial aquel cuya omisión acarrea nulidad, invalidez o ineficacia del acto o afecta en materia grave el ejercicio de la función notarial.
 
 (Decreto 2148 de 1983, artículo 127)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.2.4 — Cierre de la notaría
 
 Constituye falta disciplinaria del notario cerrar la oficina sin motivo legal o fuerza mayor, según lo previsto en el artículo 198 del Decreto Ley 0960 de 1970.
 
 (Decreto 2148 de 1983, artículo 128)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.2.5 — Renuencia del notario
 
@@ -16304,8 +14278,6 @@ Se considera renuencia a cumplir las orientaciones de la vigilancia notarial el 
 Subsección 3
 
 De la vigilancia notarial
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.3.1 — Ejercicio de la vigilancia
 
@@ -16325,8 +14297,6 @@ Subsección 1
 
 De la obligatoriedad del pago
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.1.1 — Aplicación del estatuto notarial
 
 Las normas referentes al pago de derechos notariales consagradas en el Decreto-Ley 0960 de 1970, se aplicarán a falta de estipulación diferente de los interesados.
@@ -16334,8 +14304,6 @@ Las normas referentes al pago de derechos notariales consagradas en el Decreto-L
 En los actos en que concurran los particulares con la Nación, los departamentos, y los municipios, aquellos pagarán la totalidad de los derechos y no valdrá estipulación en contrario, salvo disposición legal.
 
 (Decreto 2148 de 1983, artículo 142)
-
-ARTÍCULO
 
 ## art:2.2.6.1.7.1.2 — No autorización por falta de pago
 
@@ -16347,8 +14315,6 @@ Sección 8
 
 Del Reparto
 
-ARTÍCULO
-
 ## art:2.2.6.1.8.1.1 — Reparto
 
 Los actos de las entidades de que trata el artículo 15 de la Ley 29 de 1973 que deban celebrarse por medio de escritura pública, cuando en el círculo de que se trate haya más de una notaría, se repartirán entre las que existan.
@@ -16356,8 +14322,6 @@ Los actos de las entidades de que trata el artículo 15 de la Ley 29 de 1973 que
 Se exceptúan los establecimientos bancarios oficiales o semioficiales cuando no tengan por objeto principal de sus actividades desarrollar planes de vivienda y negocios de finca raíz.
 
 (Decreto 2148 de 1983, artículo 144)
-
-ARTÍCULO
 
 ## art:2.2.6.1.8.1.2 — Acta
 
@@ -16369,8 +14333,6 @@ Sección 9
 
 Disposiciones finales.
 
-ARTÍCULO
-
 ## art:2.2.6.1.9.1 — Asistencia en la promoción de estudios
 
 La Superintendencia de Notariado y Registro y el Fondo Cuenta Especial del Notariado prestarán la asistencia técnica necesaria para la promoción de estudios e investigaciones sobre organización y funcionamiento de los servicios notariales, para el fomento del estudio de las disciplinas profesionales en forma directa y en coordinación con las universidades y, en general, para el mejoramiento de nivel académico, técnico y moral de todos sus miembros.
@@ -16381,23 +14343,17 @@ CAPÍTULO 2
 
 NOTARIO INTERINO
 
-ARTÍCULO
-
 ## art:2.2.6.2.1 — Concepto previo
 
 Para el nombramiento de notarios en interinidad, el nominador deberá contar con el concepto previo de la Superintendencia de Notariado y Registro sobre las notarías respecto de las cuales es viable efectuar designaciones con ese carácter, en el correspondiente departamento o a nivel nacional, según el caso.
 
 (Decreto 2874 de 1994, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.2 — Remisión de documentos
 
 Para los efectos establecidos en el artículo 5o. del Decreto Ley 2163 de 1970, una vez efectuado el nombramiento y antes de proceder a la confirmación, el nominador enviará a la Superintendencia de Notariado y Registro copia del respectivo acto, acompañado de los documentos que lo soportan, a fin de que esta entidad conceptúe previamente, en lo de su conocimiento sobre la inexistencia de circunstancias que impidan el ejercicio de la función notarial.
 
 (Decreto 2874 de 1994, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3 — Periodo del notario interino
 
@@ -16413,8 +14369,6 @@ Sección 1
 
 Objeto y Ámbito de Aplicación.
 
-ARTÍCULO
-
 ## art:2.2.6.3.1.1 — Objeto y Ámbito de Aplicación
 
 El presente capítulo tiene por objeto reglamentar la forma en que los notarios que han ingresado a la carrera notarial procederán a ejercer el derecho de preferencia previsto en el numeral 3 del artículo 178 del Decreto-ley 960 de 1970.
@@ -16427,8 +14381,6 @@ Sección 2
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.6.3.2.1 — Ingreso a la Carrera Notarial
 
 Se entenderá que ha ingresado a la carrera notarial, aquel aspirante que por el hecho de superar todas las etapas de un concurso público y abierto de méritos y en consecuencia Encontrarse incluido en la lista de elegibles vigente conformada para un determinado círculo notarial, sea nombrado en propiedad como Notario, acepte su designación y tome posesión del cargo.
@@ -16436,8 +14388,6 @@ Se entenderá que ha ingresado a la carrera notarial, aquel aspirante que por el
 (Suprimido por el Art. 4 del Decreto 541 de 2023)
 
 (Decreto 2054 de 2014, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.3.2.2 — Circunscripción Político-Administrativa
 
@@ -16448,8 +14398,6 @@ PARÁGRAFO . Los notarios del Círculo Notarial de Bogotá, D. C., solo podrán 
 (Suprimido por el Art. 4 del Decreto 541 de 2023)
 
 (Decreto 2054 de 2014, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.3.2.3 — Vacante
 
@@ -16481,8 +14429,6 @@ Sección 3
 
 Solicitud y Trámite
 
-ARTÍCULO
-
 ## art:2.2.6.3.3.1 — Procedencia de la solicitud
 
 El ejercicio del derecho de preferencia será procedente en aquellos eventos en los que el notario se encuentre en carrera notarial y en consecuencia solicite ocupar, dentro de la misma circunscripción política administrativa, otra notaría de la misma categoría que se encuentre vacante.
@@ -16499,8 +14445,6 @@ PARÁGRAFO 3. En los eventos en que para un determinado círculo notarial exista
 
 (Decreto 2054 de 2014, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.6.3.3.2 — Requisitos de la solicitud
 
 Las solicitudes de ejercicio del derecho de preferencia deberán ser dirigidas al Consejo Superior a través de su Secretario Técnico. Para que dicha solicitud sea procedente deberá cumplir como mínimo con los siguientes requisitos:
@@ -16516,8 +14460,6 @@ PARÁGRAFO . Podrá ejercerse el derecho de preferencia sobre varias notarías, 
 (Suprimido por el Art. 4 del Decreto 541 de 2023)
 
 (Decreto 2054 de 2014, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.3.3.3 — Trámite de la solicitud
 
@@ -16539,8 +14481,6 @@ PARÁGRAFO 2. El nombramiento en ejercicio del derecho de preferencia no implica
 
 (Decreto 2054 de 2014, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.6.3.3.4 — Agotamiento de la solicitud
 
 El derecho de preferencia se entenderá agotado frente a una determinada notaría con la manifestación de aceptación, rechazo expreso o tácito derivado del hecho de no emitir respuesta en el término concedido al notario o con la expedición del acto administrativo de nombramiento.
@@ -16555,8 +14495,6 @@ Sección 4
 
 Disposiciones transitorias
 
-ARTÍCULO
-
 ## art:2.2.6.3.4.1 — Solicitudes actuales
 
 Las solicitudes presentadas con anterioridad al 16 de octubre de 2014 solo serán tenidas en cuenta respecto de aquellas notarías que a la fecha se encuentren vacantes de conformidad con lo establecido en el artículo 2.2.6.3.2.3 del presente capítulo.
@@ -16570,8 +14508,6 @@ En todo caso para efectos de determinar la prelación entre las solicitudes se d
 CAPÍTULO 4
 
 ELECCIÓN DE LOS MIEMBROS DEL CONSEJO SUPERIOR DE LA CARRERA NOTARIAL
-
-ARTÍCULO
 
 ## art:2.2.6.4.1 — Convocatoria
 
@@ -16591,15 +14527,11 @@ PARÁGRAFO . La convocatoria se realizará, dentro de los tres (3) meses anterio
 
 (Decreto 2053 de 2014, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.4.2 — Publicidad
 
 El acto que convoque a elección de los notarios miembros del Consejo Superior con sus respectivos suplentes personales, deberá ser publicado en la página web de la Superintendencia de Notariado y Registro, en un link accesible y visible al público.
 
 (Decreto 2053 de 2014, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.4.3 — Recursos
 
@@ -16607,23 +14539,17 @@ Los gastos que demande la convocatoria, publicación, votación, escrutinio y de
 
 (Decreto 2053 de 2014, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.4.4 — Apoyo Administrativo
 
 La operación administrativa que requiera la elección de los notarios miembros del Consejo Superior con sus respectivos suplentes personales estarán a cargo de la Superintendencia de Notariado y Registro, con el apoyo directo de la Secretaría Técnica del Consejo Superior de la Carrera Notarial.
 
 (Decreto 2053 de 2014, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.6.4.5 — Candidatos
 
 Se deberá contar al menos con dos candidatos notarios, uno de ellos de primera categoría, con sus respectivos suplentes personales.
 
 (Decreto 2053 de 2014, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.6.4.6 — Escrutinio
 
@@ -16637,8 +14563,6 @@ PARÁGRAFO 2. Copia del Acta de escrutinio y la declaración de elección conten
 
 (Decreto 2053 de 2014, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.6.4.7 — Disposiciones Finales
 
 En caso de que no se presenten candidatos a la elección, deberá ampliarse el término de la inscripción tantas veces como sea necesario hasta que se presente al menos un candidato con su respectivo suplente por cada uno de los representantes.
@@ -16651,8 +14575,6 @@ CAPÍTULO 5
 
 PARÁMETROS Y PROCEDIMIENTOS DENTRO DE LOS CUALES SE DESARROLLA EL CONCURSO PÚBLICO Y ABIERTO PARA EL NOMBRAMIENTO DE NOTARIOS EN PROPIEDAD
 
-ARTÍCULO
-
 ## art:2.2.6.5.1 — Requisitos generales
 
 Podrán participar en el concurso para el ingreso a la Carrera Notarial los ciudadanos que reúnan y acrediten, en la fecha de la inscripción las condiciones generales descritas en el artículo 132 del Decreto-ley 960 de 1970, y los requisitos a que se refieren los artículos 153, 154 y 155 del mismo decreto según la categoría de notaría a que aspire.
@@ -16661,15 +14583,11 @@ PARÁGRAFO . No podrán participar quienes se encuentren dentro de las causales 
 
 (Decreto 3454 de 2006, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2 — Estructura del concurso
 
 El concurso se compone de las siguientes fases: (1) convocatoria; (2) inscripción y presentación de los documentos con los que el aspirante pretenda acreditar el cumplimiento de requisitos; (3) análisis de requisitos y antecedentes; (4) calificación de la experiencia; (5) prueba de conocimientos; (6) entrevista, y (7) publicación y conformación de la lista de elegibles.
 
 (Decreto 3454 de 2006, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.5.3 — Convocatoria
 
@@ -16699,8 +14617,6 @@ PARÁGRAFO . En el acuerdo el Consejo Superior reglamentará los criterios y con
 
 (Decreto 3454 de 2006, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.5.4 — Inscripción
 
 La inscripción se realizará por vía electrónica en el sitio web que indique el Consejo Superior, en la fecha que determine el reglamento.
@@ -16714,8 +14630,6 @@ Simultáneamente con la inscripción, el aspirante deberá remitir a los lugares
 PARÁGRAFO . Quienes deseen participar en el concurso, una vez diligenciado el formulario de inscripción, deberán remitir, además de los requisitos señalados en este artículo, los siguientes documentos: certificación sobre conducta y antecedentes en donde conste la situación o definición de los procesos penales en que el aspirante hubiere sido enjuiciado o condenado; certificado de antecedentes disciplinarios expedido por la Procuraduría General de la Nación; certificado de vigencia de la cedula de ciudadanía expedida por la Registraduría Nacional del Estado Civil; certificado de antecedentes fiscales expedido por la Contraloría General de la Republica, y copia del pasado judicial expedido por la autoridad competente.
 
 (Decreto 3454 de 2006, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.5.5 — Documentación exigida para acreditar requisitos
 
@@ -16739,15 +14653,11 @@ h) Para acreditar estudios de postgrado, en los términos del artículo 10 de la
 
 (Decreto 3454 de 2006, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.6.5.6 — Análisis de requisitos y antecedentes
 
 Con base en los documentos a que se refiere el artículo anterior, el Consejo Superior, con la colaboración de las entidades que señale el reglamento, evaluará si el aspirante cumple los requisitos para aspirar al cargo o que está impedido para hacerlo, en cuyo caso será eliminado del concurso mediante decisión motivada que se publicitará a través de los mecanismos que prevea el reglamento de conformidad con la ley. En ningún caso los aspirantes podrán aportar documentación adicional a la originalmente remitida.
 
 (Decreto 3454 de 2006, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.5.7 — Calificación de la experiencia
 
@@ -16756,8 +14666,6 @@ Durante esta fase, los aspirantes podrán obtener hasta cincuenta (50) de los ci
 La calificación a que se refiere este artículo será efectuada por quien indique el Consejo Superior de la Carrera Notarial, el cual expedirá y publicará la lista con las calificaciones obtenidas por cada uno de los aspirantes en un término máximo de treinta (30) días calendario contados a partir de la fecha del informe sobre análisis de requisitos y antecedentes a que se refiere el artículo anterior.
 
 (Decreto 3454 de 2006, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.6.5.8 — Prueba de conocimientos
 
@@ -16771,15 +14679,11 @@ La prueba de conocimientos, tendrá un valor de 40 puntos, de los 100 del concur
 
 (Decreto 3454 de 2006, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.6.5.9 — Realización de la prueba
 
 La realización de la prueba será contratada por el Consejo Superior de la Carrera Notarial con una entidad de reconocida experiencia en realización de pruebas de aptitudes y conocimientos. El formulario de la prueba será elaborado por dicha entidad de manera aleatoria y de acuerdo a las técnicas propias de este tipo de pruebas con base en un banco de preguntas que le aportará el Consejo Superior y que este, a su turno, recaudará entre las entidades y organismos que él determine. El cuestionario tendrá carácter secreto y reservado.
 
 (Decreto 3454 de 2006, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.5.10 — Entrevista
 
@@ -16788,8 +14692,6 @@ La entrevista se realizará en forma presencial, en los lugares y con los criter
 La entrevista deberá grabarse en medio magnetofónico u otro que ofrezca seguridad suficiente, grabación que se conservará en el archivo del concurso por un término no inferior a seis (6) meses, contados a partir de la fecha de expedición de la lista de elegibles.
 
 (Decreto 3454 de 2006, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.6.5.11 — Conformación y publicación de la lista de elegibles
 
@@ -16801,15 +14703,11 @@ En todo caso la lista de elegibles tendrá la vigencia prevista en el artículo 
 
 (Decreto 3454 de 2006, artículo 11, modificado por el Decreto 926 de 2007, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.5.12 — De los empates
 
 En el evento en que se presentare empate entre un aspirante al concurso con quien esté ejerciendo el cargo de notario al momento de la apertura del mismo, este se decidirá en favor del segundo. En los demás casos se decidirá por aquel que haya obtenido mayor puntaje en la prueba de conocimientos, en caso de persistir, se convocará a audiencia ante el Consejo Superior para que se dirima mediante el sistema de balotas.
 
 (Decreto 3454 de 2006, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.6.5.13 — Concurso desierto
 
@@ -16827,8 +14725,6 @@ CAPÍTULO 6
 
 DE LA SOLICITUD DE LA DECLARACIÓN REGULAR DE POSESIÓN ANTE NOTARIO
 
-ARTÍCULO
-
 ## art:2.2.6.6.1 — Reparto
 
 Los poseedores materiales de inmuebles urbanos de estratos uno y dos, que carezcan de título inscrito, podrán solicitar ante notario donde se encuentre localizado el inmueble, el otorgamiento de escritura pública de declaración de la calidad de poseedores regulares de dichos bienes a fin de quedar habilitados para adquirir su dominio por prescripción ordinaria, teniendo en cuenta el siguiente procedimiento en caso de que en el municipio haya una o más notarías.
@@ -16843,8 +14739,6 @@ Efectuado el reparto y/o presentada la solicitud ante el notario correspondiente
 
 (Decreto 2742 de 2008 artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.6.2 — Certificación de zonas en riesgo, suelo de protección y desarrollos no legalizados
 
 Los interesados deberán presentar con la solicitud de declaración de posesión regular, certificado de la autoridad de planeación municipal o Distrital correspondiente, en el que se manifieste: i) que el inmueble no se encuentra situado en zonas de protección ambiental o de alto riesgo no mitigable; ii) que el inmueble no se encuentra ubicado en desarrollos no autorizados por las autoridades de planeación y; iii) que el inmueble cuya declaración de posesión se solicita, no se trate de un bien de uso público o fiscal. Dicha certificación se protocolizará junto con los documentos previstos en el artículo 6 de la Ley 1183 de 2008.
@@ -16857,8 +14751,6 @@ Si la autoridad de planeación no se pronuncia dentro del plazo fijado, el notar
 
 (Decreto 2742 de 2008 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.6.3 — Excepciones a la inscripción de declaración de posesión regular
 
 El Notario deberá indagar al interesado acerca de si la posesión cuya declaración busca el peticionario fue adquirida mediante violencia, engaño, testaferrato o desplazamiento forzado.
@@ -16868,8 +14760,6 @@ El notario no autorizará el instrumento cuando quiera que el contenido de las d
 El Registrador de Instrumentos Públicos se abstendrá de inscribir la escritura pública de declaración de posesión regular, si en el folio de matrícula se encuentra inscrita prohibición de enajenar proveniente de los Comités de atención a población desplazada o por solicitud individual del desplazado de conformidad con lo establecido en la Ley 1152 de 2007.
 
 (Decreto 2742 de 2008 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.6.4 — Efectos de la declaración de posesión regular
 
@@ -16883,8 +14773,6 @@ CAPÍTULO 7
 
 CERTIFICADO DE EXENCIÓN DE DERECHOS NOTARIALES Y DE REGISTRO
 
-ARTÍCULO
-
 ## art:2.2.6.7.1 — Certificación de exención de Derechos Notariales y de Registro
 
 Para efectos de emitir la certificación de exención de que tratan los artículos 33 y 34 de la Ley 1537 de 2012, modificados por los artículo 108 y 109 de la Ley 1687 de 2013, en relación con aquellos proyectos que se desarrollen con el Subsidio Familiar de Vivienda otorgado por el Gobierno Nacional, de acuerdo con la normatividad aplicable, las Oficinas de Registro de Instrumentos Públicos deberán corroborar que los negocios jurídicos sometidos a calificación e inscripción, correspondan a viviendas de interés prioritario.
@@ -16892,8 +14780,6 @@ Para efectos de emitir la certificación de exención de que tratan los artícul
 PARÁGRAFO . En concordancia con lo establecido en el artículo 3 de la Ley 1537 de 2012, los Municipios, Distritos y/o Departamentos deberán expedir certificación donde se garantice que la vivienda es de interés prioritario, documento que deberá adjuntarse a la solicitud de certificación de exención de derechos notariales o de registro y al acto sometido a calificación y registro.
 
 (Decreto 2088 de 2012, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.7.2 — Procedimientos internos
 
@@ -16905,15 +14791,11 @@ CAPÍTULO 8
 
 EL DIVORCIO ANTE NOTARIO, O LA CESACIÓN DE LOS EFECTOS CIVILES DE LOS MATRIMONIOS RELIGIOSOS.
 
-ARTÍCULO
-
 ## art:2.2.6.8.1 — El Divorcio ante Notario, o la cesación de los efectos civiles de los matrimonios religiosos
 
 El divorcio del matrimonio civil, o la cesación de los efectos civiles de los matrimonios religiosos, por mutuo acuerdo de los cónyuges, podrán tramitarse ante el Notario del círculo que escojan los interesados y se formalizará mediante escritura pública.
 
 (Decreto 4436 de 2005, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.8.2 — La petición, el acuerdo y sus anexos
 
@@ -16939,8 +14821,6 @@ d) Los anexos siguientes:
 
 (Decreto 4436 de 2005, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.8.3 — Intervención del Defensor de Familia
 
 Habiendo hijos menores de edad, el Notario le notificará al Defensor de Familia del lugar de residencia de aquellos, mediante escrito, el acuerdo al que han llegado los cónyuges, en los términos del artículo anterior. El Defensor de Familia deberá emitir su concepto en los quince (15) días siguientes a la notificación. Si en dicho plazo el Defensor de Familia no ha allegado su concepto, el Notario dejará constancia de tal circunstancia, autorizará la Escritura y le enviará una copia a costa de los interesados.
@@ -16949,15 +14829,11 @@ Las observaciones legalmente sustentadas que hiciere el Defensor de Familia refe
 
 (Decreto 4436 de 2005, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.8.4 — Desistimiento
 
 Se considerará que los interesados han desistido de la solicitud de divorcio o de la cesación de efectos civiles del matrimonio religioso ante Notario, si transcurren dos (2) meses desde la fecha en que el instrumento fue puesto a su disposición, sin que concurran a su otorgamiento.
 
 (Decreto 4436 de 2005, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.8.5 — Protocolización de los anexos y autorización
 
@@ -16967,15 +14843,11 @@ Una vez satisfechos los requisitos sustanciales y formales exigidos en la ley y 
 
 (Decreto 4436 de 2005, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.6.8.6 — Registro de la escritura de divorcio o de la cesación de efectos civiles de los matrimonios religiosos
 
 Una vez inscrita la Escritura de divorcio o de la cesación de efectos civiles del matrimonio religioso en el Libro Registro de Varios, el Notario comunicará la inscripción al funcionario competente del Registro del Estado Civil, quien hará las anotaciones del caso, a costa de los interesados.
 
 (Decreto 4436 de 2005, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.8.7 — Tarifa
 
@@ -16986,8 +14858,6 @@ El trámite del divorcio o de la cesación de efectos civiles del matrimonio rel
 CAPÍTULO 9
 
 CONSTITUCIÓN DEL PATRIMONIO DE FAMILIA INEMBARGABLE
-
-ARTÍCULO
 
 ## art:2.2.6.9.1 — Constitución del patrimonio de familia inembargable
 
@@ -17005,15 +14875,11 @@ PARÁGRAFO . El patrimonio de familia de que trata este capítulo es el de cará
 
 (Decreto 2817 de 2006, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2 — Inembargabilidad
 
 El patrimonio de familia es inembargable.
 
 (Decreto 2817 de 2006, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.9.3 — Beneficiarios
 
@@ -17026,8 +14892,6 @@ b) De una familia compuesta únicamente por un hombre y una mujer, y
 c) De un menor de edad, o de dos o más que estén entre sí dentro del segundo grado de consanguinidad legítima o extramatrimonial, con los constituyentes.
 
 (Decreto 2817 de 2006, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4 — La petición y sus anexos
 
@@ -17051,8 +14915,6 @@ b) Copia o certificado de la inscripción en el Registro del Estado Civil del Ma
 
 (Decreto 2817 de 2006, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.6.9.5 — Emplazamiento y publicaciones
 
 Si el escrito de la petición llena las exigencias precedentes, el Notario dispondrá el emplazamiento por medio de un edicto que debe fijarse por el término de quince (15) días, en lugar visible, para el público, de la Notaría, de todas aquellas personas que quieran oponerse a la constitución del patrimonio de familia por ser lesivo de sus derechos como acreedores del constituyente. También ordenará la publicación por una (1) vez, dentro del anterior período de quince (15) días, en un periódico de amplia circulación del lugar.
@@ -17060,8 +14922,6 @@ Si el escrito de la petición llena las exigencias precedentes, el Notario dispo
 Practicadas las diligencias anteriores y desfijado el edicto, si hay oposición de uno o más acreedores, y no se obtuviere consentimiento de parte de este, para la constitución del patrimonio, el Notario dejará constancia de ello en un acta y dará por terminada la actuación.
 
 (Decreto 2817 de 2006, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.6.9.6 — La Escritura Pública
 
@@ -17087,8 +14947,6 @@ CAPÍTULO 10
 
 INVENTARIO DE BIENES DE MENORES
 
-ARTÍCULO
-
 ## art:2.2.6.10.1 — Inventario de bienes de menores bajo patria potestad en caso de matrimonio o de unión libre de sus padres
 
 Sin perjuicio de la competencia judicial, quien pretenda contraer matrimonio ante Notario deberá presentar ante este, antes del matrimonio, un inventario solemne de los bienes pertenecientes a sus hijos menores, cuando esté administrándolos.
@@ -17096,8 +14954,6 @@ Sin perjuicio de la competencia judicial, quien pretenda contraer matrimonio ant
 Igual obligación en relación con la confección y presentación del inventario mencionado ante Notario tendrá quien pretenda conformar una unión libre de manera estable.
 
 (Decreto 2817 de 2006, artículo 7, Derogado por el Decreto 1664 de 2015, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.10.2 — La petición y sus anexos
 
@@ -17111,8 +14967,6 @@ c) El nombre de la persona con quien contraerá nupcias, la fecha del matrimonio
 
 (Decreto 2817 de 2006, artículo 8, Derogado por el Decreto 1664 de 2015, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.10.3 — Nombramiento del curador
 
 Si la petición reúne los requisitos el Notario solicitará al Juez de Familia del lugar, o quien haga sus veces, la designación de un curador y la fijación de sus honorarios.
@@ -17123,8 +14977,6 @@ Para la aceptación y discernimiento del cargo, el Notario tendrá en cuenta lo 
 
 (Decreto 2817 de 2006, artículo 9, Derogado por el Decreto 1664 de 2015, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.10.4 — Inventario
 
 El inventario deberá presentarlo el curador, ante el Notario, de manera personal, por escrito y bajo la gravedad del juramento que se entenderá prestado por el hecho de la firma.
@@ -17133,23 +14985,17 @@ Una vez en firme el inventario, se procederá a la extensión y otorgamiento de 
 
 (Decreto 2817 de 2006, artículo 10, Derogado por el Decreto 1664 de 2015, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.10.5 — Vigencia del inventario
 
 Si el matrimonio no se llevare a cabo dentro de los seis (6) meses siguientes a la autorización de la Escritura Pública del inventario solemne de bienes este deberá actualizarse. Esta actualización implica presentar una nueva solicitud de inventario.
 
 (Decreto 2817 de 2006, artículo 11, Derogado por el Decreto 1664 de 2015, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.10.6 — Otros actos notariales
 
 Las capitulaciones, la constitución, disolución y liquidación de la sociedad patrimonial de compañeros permanentes, continuarán realizándose ante Notario, mediante Escritura Pública, en la forma prevista en las Leyes 54 de 1990 y 979 de 2005.
 
 (Decreto 2817 de 2006, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.6.10.7 — Tarifas
 
@@ -17161,15 +15007,11 @@ CAPÍTULO 11
 
 DEBER DE INFORMACIÓN DE LOS NOTARIOS
 
-ARTÍCULO
-
 ## art:2.2.6.11.1 — Reporte de información
 
 De conformidad con lo previsto en la Ley 526 de 1999, los notarios están obligados a reportar a la Unidad de Información y Análisis Financiero, UIAF, adscrita al Ministerio de Hacienda y Crédito Público, la realización de los actos jurídicos autorizados por ellos que, según instructivo emitido por la Superintendencia de Notariado y Registro, se consideren encaminados a la ejecución del delito de lavado de activos. Autorizado el acto jurídico a que se refiere el inciso anterior, deberá ser reportado inmediatamente a la UIAF.
 
 (Decreto 1957 de 2001, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.11.2 — Instructivo para el reporte de la información
 
@@ -17177,15 +15019,11 @@ La Superintendencia de Notariado y Registro, en coordinación con la UIAF, emiti
 
 (Decreto 1957 de 2001, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.11.3 — Remisión normativa
 
 El incumplimiento de la obligación prevista en el presente capítulo se sujetará a lo establecido en la Ley 734 de 2002, sin perjuicio de las sanciones penales a que hubiere lugar.
 
 (Decreto 1957 de 2001, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.11.4 — Reserva
 
@@ -17200,8 +15038,6 @@ DEL REGISTRO CIVIL DE NACIMIENTO
 Sección 1
 
 Aspectos Generales
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.1 — Forma de efectuar el registro
 
@@ -17225,8 +15061,6 @@ La violación por el encargado de registro civil, de lo dispuesto en este parág
 
 (Decreto 1873 de 1971 artículo 1, modificado por el Decreto 278 de 1972, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.2 — Presentación de la persona a inscribir
 
 Los encargados del registro del estado civil de las personas solo pueden efectuar los registros de nacimiento cuando sea presentada, por los interesados, la persona de cuya inscripción se trata, a fin de que pueda darse cumplimiento al requisito de toma de huellas para plena identificación.
@@ -17234,8 +15068,6 @@ Los encargados del registro del estado civil de las personas solo pueden efectua
 Las huellas digitales se tomarán a todos los registrados exceptuando los menores de un mes nacidos que presenten dificultades técnicas para dicha toma. Mientras se proceden los elementos y sistemas adecuados para la implantación generalizada de las huellas plantares, éstas se tomarán feliz mente para los registrados menores de un año de edad.
 
 (Decreto 1873 de 1971, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.3 — Puestos para el registro
 
@@ -17249,8 +15081,6 @@ En dichos centros podrá también atenderse a quienes, no habiendo nacido en la 
 
 (Decreto 1873 de 1971, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.4 — Deberes de la Superintendencia de Notariado y Registro
 
 La Superintendencia de Notariado y Registro gestionará la destinación de locales adecuados en clínicas y hospitales para la prestación del servicio de registro de que trata este capítulo.
@@ -17258,8 +15088,6 @@ La Superintendencia de Notariado y Registro gestionará la destinación de local
 (Suprimido por el Art. 2 del Decreto 541 de 2023)
 
 (Decreto 1873 de 1971, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.5 — Remisión de información
 
@@ -17271,15 +15099,11 @@ PARÁGRAFO . Igualmente, dentro de los cinco (5) primeros días de cada mes, se 
 
 (Decreto 1873 de 1971, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.6 — Formas de envío
 
 El Director Nacional de Registro Civil, podrá determinar que los envíos a que hace referencia el artículo anterior, se efectúen por vía diferente a la del correo, o con periodicidad distinta, en casos especiales y con miras a obtener la mejor prestación del servicio.
 
 (Decreto 1873 de 1971, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.7 — Trámite
 
@@ -17288,8 +15112,6 @@ Tan pronto como reciba el duplicado del folio de registro de nacimiento, el Serv
 Si el inscrito ya lo hubiere sido previamente, el Servicio Nacional de Inscripción no lo clasificará y dará aviso escrito a la Superintendencia de Notariado y Registro, para que esta entidad adopte las medidas tendientes a decretar la cancelación del registro civil y a investigar y sancionar a quienes resultaren responsables.
 
 (Decreto 1873 de 1971, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.8 — Certificado de registro civil
 
@@ -17305,15 +15127,11 @@ PARÁGRAFO . La Superintendencia de Notariado y Registro aplicará de oficio o a
 
 (Decreto 1873 de 1971, artículo 8, modificado por el artículo 1 del Decreto 278 de 1972)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.9 — Modelos de certificado
 
 Las certificaciones sobre el registro de nacimiento y demás inscripciones relativas al estado civil se expedirán en modelos especiales diseñados al efecto, que serán autorizados por la Superintendencia de Notariado y Registro y deberán obligatoriamente adoptarse, tanto por los Notarios y demás encargados del registro civil, como por el Servicio nacional de Inscripción.
 
 (Decreto 1873 de 1971, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.10 — Unificación de los actos y hechos relativos al registro civil
 
@@ -17323,15 +15141,11 @@ La unificación de que trata este artículo será obligatoria para los nacidos a
 
 (Decreto 1873 de 1971, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.11 — Obligación de remitir información
 
 De conformidad con lo dispuesto en el parágrafo del artículo 14 del Decreto Ley 2158 de 1970, que modifica los artículos 25, 64, 66, 71 y 72 del Decreto Ley 1260 del mismo año, los Notarios y demás funcionarios encargados del registro civil de las personas, solo estarán obligados a enviar informaciones y duplicados de las inscripciones que efectúen en sus folios o registros, al Servicio Nacional de Estadística.
 
 (Decreto 1873 de 1971, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.12 — Obligación de jueces y funcionarios administrativos
 
@@ -17339,15 +15153,11 @@ Los Jueces y funcionarios administrativos que dicten una providencia sobre algun
 
 (Decreto 1873 de 1971, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.13 — Información por parte otras autoridades
 
 Además de los datos mencionados en el artículo 52 del Decreto Ley número 1260 de 1970, los interesados en el registro civil de nacimientos estarán en la obligación de suministrar a los encargados de la inscripción, los datos de carácter estadístico que señale el Departamento Administrativo Nacional de Estadística en el duplicado del registro de nacimientos que deben remitirse al Servicio nacional de Inscripción. Quienes resultaren responsables de la omisión de lo preceptuado en este artículo serán sancionados por la autoridad competente.
 
 (Decreto 1873 de 1971, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.14 — Vigilancia de las inscripciones
 
@@ -17355,15 +15165,11 @@ La vigilancia de las inscripciones sobre el registro civil de nacimientos y sobr
 
 (Decreto 1873 de 1971, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.15 — .15
 
 Inspección Los archivos del Servicio Nacional de Inscripciones relativos al registro de nacimientos, pueden ser inspeccionados por la Superintendencia de Notariado y Registro con las mismas facultades que tiene en la actualidad para la vigilancia del registro civil y de los funcionarios encargados de llevarlo.
 
 (Decreto 1873 de 1971, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.16 — Remisión de información a la Superintendencia de notariado y Registro
 
@@ -17373,15 +15179,11 @@ El Superintendente de Notariado y la Dirección Nacional de Registro Civil podr�
 
 (Decreto 1873 de 1971, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.6.12.1.17 — Capacitación del personal
 
 El personal subalterno que en la actualidad cumple las funciones de registro civil en la Notarías y demás oficinas encargadas de la prestación de dicho servicio, será instruido en las características del nuevo sistema por los Notarios y demás funcionarios encargados, quienes pueden solicitar al efecto la colaboración de la Superintendencia de Notariado y Registro o del Servicio nacional de Inscripción.
 
 (Decreto 1873 de 1971, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.6.12.1.18 — Contenido de los formatos de tarjetas de registro civil
 
@@ -17393,15 +15195,11 @@ Sección 2
 
 Inscripción de registro civil por correo
 
-ARTÍCULO
-
 ## art:2.2.6.12.2.1 — Inscripción de nacimiento por correo
 
 Para inscribir extemporáneamente en el registro civil de nacimiento ocurrido en el territorio nacional de personas residentes en el exterior o en lugares apartados del territorio patrio o cuando por motivos justificados sea inconveniente la comparecencia de aquellas se puede recurrir a la inscripción de nacimiento por correo, previa calificación de la solicitud y del documento acompañado como antecedente por parte del Notario o del Registrador Municipal del Estado Civil, dentro del territorio nacional y en el exterior del Cónsul Colombiano de la vecindad del interesado, en la forma prevista en los artículos subsiguientes.
 
 (Decreto 1379 de 1972 artículo 6, modificado por el Decreto 158 de 1994, art 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.2.2 — Solicitud de inscripción por correo
 
@@ -17413,8 +15211,6 @@ Para acreditar el hecho de nacimiento, a la solicitud de inscripción se acompa�
 
 (Decreto 1379 de 1972 artículo 7, modificado por el Decreto 158 de 1994 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.12.2.3 — Reconocimiento y firma de la solicitud
 
 Con la solicitud de inscripción de nacimiento por correo, diligenciada en original y copia deben comparecer a la Notaría, Registraduría Municipal del Estado Civil, al Consulado de Colombia en el Exterior de su domicilio, el denunciante para que reconozca el contenido y firma de la solicitud y la persona cuyo nacimiento se solicita inscribir, a efecto de que se le tomen las huellas dactilares, de acuerdo a lo dispuesto en el artículo 2.2.6.12.1.2., inciso 2o. de este capítulo. Dichas huellas se imprimirán al dorso de la solicitud de inscripción, tanto en su original como en la copia.
@@ -17424,8 +15220,6 @@ Previamente al reconocimiento del contenido y firma de la solicitud y la toma de
 PARÁGRAFO . Recibidos los documentos por el Notario o el Registrador del Estado Civil competentes para efectuar la inscripción del nacimiento, dicho funcionario procederá a diligenciar el serial respectivo y a autorizarlo con su firma y sello. Como antecedente del registro conservará el original de la solicitud de inscripción y el documento aportado para acreditar el nacimiento, en tanto que deberá remitir en su debida oportunidad al Servicio Nacional de Inscripción de la Registraduría Nacional del Estado Civil tanto el duplicado del registro civil como la copia de la solicitud. Igualmente debe despachar al solicitante, a la dirección y sitio que éste haya indicado las copias que del registro hubiere solicitado junto con el desprendible o comprobante de inscripción.
 
 (Decreto 1379 de 1972 artículo 8, modificado por el Decreto 158 de 1994 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.12.2.4 — Expósito
 
@@ -17439,15 +15233,11 @@ PARÁGRAFO . Cuando la inscripción la soliciten la Superintendencia de Notariad
 
 (Decreto 1379 de 1972 artículo 9, modificado por el Decreto 158 de 1994, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.6.12.2.5 — Constancia de inexistencia de registro anterior
 
 La constancia de inexistencia de registro anterior que debe expedir el Servicio Nacional de Inscripción como requisito para la inscripción del nacimiento de los mayores de siete (7) años, no se exigirá por los funcionarios encargados del registro civil sino a partir de la fecha que determine la Superintendencia de Notariado y Registro.
 
 (Decreto 1379 de 1972, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.6.12.2.6 — 2.6
 
@@ -17462,8 +15252,6 @@ Sección 3
 TRÁMITE PARA LA INSCRIPCIÓN EXTEMPORÁNEA DE NACIMIENTO EN EL
 
 REGISTRO CIVIL
-
-ARTÍCULO
 
 ## art:2.2.6.12.3.1 — Trámite para la inscripción extemporánea de nacimiento en el Registro Civil
 
@@ -17499,23 +15287,17 @@ Remitir a la Unidad Administrativa Especial Migración Colombia la información 
 
 (Decreto 356 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.12.3.2 — Inscripción en el Registro Civil de nacimiento de una persona nacida en el extranjero hija de padre o madre colombiano
 
 Cuando el nacimiento hubiere ocurrido en el extranjero, es indispensable que al menos uno de los padres se encuentre debidamente identificado como nacional colombiano de conformidad con lo dispuesto en los artículos 1, 2 y 3 de Ley 43 de 1993. De lo contrario, no podrá inferirse el cumplimiento de lo establecido en el numeral 3 del artículo 44 del Decreto Ley 1260 de 1970.
 
 (Decreto 356 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.12.3.3 — Negación de la inscripción
 
 Si analizada la solicitud en su integridad y verificada la información con las autoridades competentes se concluye que la misma no corresponde a la realidad, el funcionario encargado del registro civil se abstendrá de elaborar y autorizar la inscripción. Lo mismo sucederá en caso que se corrobore que el solicitante ya tiene cédula de ciudadanía o tarjeta de identidad, para el cual previamente utilizó registro civil de nacimiento.
 
 (Decreto 356 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.3.4 — Deber de denuncia
 
@@ -17524,8 +15306,6 @@ Si derivado del análisis de la solicitud y de la verificación de la informaci�
 La omisión de denuncia por parte del funcionario se entenderá como una falta a sus deberes.
 
 (Decreto 356 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.3.5 — 3.5
 
@@ -17555,8 +15335,6 @@ PARÁGRAFO 3: Cuando se pretenda el registro de un nacimiento de forma extempor�
 
 (Decreto 356 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.12.3.6 — Formato único de Registro Civil
 
 Los funcionarios encargados del registro civil expedirán copias y certificados de tas actas, folios y seriales que reposan en la base de datos de la Registraduría Nacional del Estado Civil, en el formato único que contenga las especificaciones mínimas que para el efecto determine este organismo,
@@ -17566,8 +15344,6 @@ El Registrador Nacional del Estado Civil podrá tomar las medidas e impartir las
 PARÁGRAFO : La Registraduría Nacional del Estado Civil podrá expedir copias y certificados de los registros civiles que se encuentren digitalizados en el archivo central.
 
 (Decreto 356 de 2017, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.3.7 — Inscripción digital del registro civil
 
@@ -17579,23 +15355,17 @@ Sección 4
 
 Corrección del componente sexo
 
-ARTÍCULO
-
 ## art:2.2.6.12.4.1 — Objeto
 
 La presente sección reglamenta el trámite previsto en los artículos 91 y 95 del Decreto Ley 1260 de 1970, cuando una persona quiere corregir el componente sexo en el Registro del Estado Civil.
 
 (Decreto 1227 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.12.4.2 — Ámbito de aplicación
 
 Las disposiciones de esta sección se aplicarán a las personas que busquen corregir el componente sexo de su Registro Civil de Nacimiento. También se aplicarán a los notarios y autoridades administrativas que tengan competencias relacionadas con el Registro del Estado Civil.
 
 (Decreto 1227 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.4.3 — Alcance de la corrección
 
@@ -17604,8 +15374,6 @@ La corrección del componente sexo en el Registro Civil de Nacimiento podrá con
 El Número Único de Identificación Personal (NUIP) no se modificará con la corrección del componente sexo en el Registro Civil. En el caso de las cédulas otorgadas con anterioridad a marzo del año 2000, se realizará la cancelación del cupo numérico a fin de que sea asignado un Número Único de Identificación Personal (NUIP) de diez (10) dígitos.
 
 (Decreto 1227 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.4.4 — Requisitos de la solicitud
 
@@ -17616,8 +15384,6 @@ La solicitud deberá presentarse por escrito y contendrá:
 2. Nombre y cédula de ciudadanía de la persona solicitante.
 
 (Decreto 1227 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.4.5 — Documentación necesaria
 
@@ -17635,15 +15401,11 @@ PARÁGRAFO 2. No se podrá exigir ninguna documentación o prueba adicional a la
 
 (Decreto 1227 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.12.4.6 — Límites a la corrección del componente sexo en el Registro del Estado Civil
 
 La persona que haya ajustado el componente sexo en el Registro Civil de Nacimiento no podrá solicitar una corrección dentro de los diez (10) años siguientes a la expedición de la Escritura Pública por parte del Notario. Solo podrá corregirse el componente sexo hasta en dos ocasiones.
 
 (Decreto 1227 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.12.4.7 — Reglas de la corrección
 
@@ -17661,8 +15423,6 @@ PARÁGRAFO . Si la escritura pública se otorgare en una notaría u oficina dife
 
 (Decreto 1227 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.12.4.8 — Tarifa
 
 Para efectos de la expedición de la Escritura Pública a que hace referencia la presente sección, causará el derecho a favor de la Notaría referente a la
@@ -17677,8 +15437,6 @@ Sección 1
 
 Del papel de seguridad
 
-ARTÍCULO
-
 ## art:2.2.6.13.1.1 — Uso del papel de seguridad
 
 Todos los actos que deban celebrarse por escritura pública de conformidad con la ley, así como las copias que según la ley debe expedir el notario de los instrumentos y demás documentos que reposen en el protocolo, deberán expedirse en papel de seguridad.
@@ -17692,8 +15450,6 @@ Tarifas
 Subsección 1
 
 Actuaciones Notariales
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.1.1 — Autorización
 
@@ -17727,8 +15483,6 @@ PARÁGRAFO . En relación con los literales a), b) y c) del presente artículo, 
 
 (Decreto 188 de 2013 artículo 2, actualizado por la Resolución 641 de 2015, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.1.2 — Protocolización
 
 Los derechos notariales que causa la protocolización de documentos, se liquidarán teniendo en cuenta lo previsto en los ordinales a) y b) del artículo 2.2.6.13.2.1.1.de este capítulo, según el caso.
@@ -17741,8 +15495,6 @@ PARÁGRAFO 2. La protocolización de los expedientes de los tribunales de arbitr
 
 439
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.1.3 — Certificaciones
 
 Las certificaciones que según la ley corresponde expedir a los Notarios causarán los siguientes derechos:
@@ -17752,8 +15504,6 @@ a) Las certificaciones relacionadas con actos o hechos que consten en instrument
 b) Las notas de referencia en la escritura pública afectada por nuevas declaraciones de voluntad, mil trescientos pesos ($1.300,00), salvo las correspondientes a las situaciones contempladas en los artículos 52, 53 y 54 del Decreto Ley 960 de 1970.
 
 (Decreto 188 de 2013 artículo 4, actualizado por la Resolución 641 de 2014, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.1.4 — Copias
 
@@ -17768,8 +15518,6 @@ Lo anterior sin perjuicio de lo establecido para las copias del Registro Civil.
 PARÁGRAFO 1. Si dentro del servicio notarial que solicita el usuario requiere la impresión de certificados tomados de páginas web de diferentes entidades estatales, tal impresión causará derechos por la suma de dos mil ochocientos pesos ($2.800.00).
 
 (Decreto 188 de 2013 artículo 5, actualizado por la Resolución 641 de 2015, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.1.5 — Testimonio notarial
 
@@ -17791,15 +15539,11 @@ El de los hechos o testimonios relacionados con el ejercicio de sus funciones, p
 
 (Decreto 188 de 2013 artículo 6, modificado por el Decreto 1000 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.1.6 — Declaración extraproceso
 
 Cuando sea procedente la declaración extraproceso, esta causará la suma de diez mil ochocientos pesos ($10.800,00), independientemente del número de declarantes.
 
 (Decreto 188 de 2013 artículo 7, actualizado por la Resolución 641 de 2015, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.1.7 — Constancias en escrituras públicas
 
@@ -17811,15 +15555,11 @@ Subsección 2
 
 Asuntos de Familia
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.2.1 — Inventario de bienes de menores
 
 La escritura pública del inventario solemne de bienes del menor causará derechos calculados sobre el valor de los bienes inventariados.
 
 (Decreto 188 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.2.2 — Capitulaciones matrimoniales
 
@@ -17829,15 +15569,11 @@ Los bienes incluidos en las capitulaciones matrimoniales siempre deben tener un 
 
 (Decreto 188 de 2013, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.2.3 — Matrimonio civil
 
 La celebración del matrimonio civil en la sede de la Notaría, incluida la extensión, otorgamiento y autorización de la correspondiente escritura pública causará la suma de treinta y cinco mil cien pesos ($35.100, oo). Si el matrimonio se celebra por fuera del despacho notarial, los derechos respectivos serán de noventa y cuatro mil setecientos pesos ($94.700, oo).
 
 (Decreto 188 de 2013 artículo 11, actualizado por la Resolución 641 de 2015 artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.2.4 — Disolución y liquidación de la sociedad conyugal y de la unión marital de hecho
 
@@ -17857,15 +15593,11 @@ A las sumas que excedan el valor antes señalado se les aplicará la tarifa úni
 
 (Decreto 188 de 2013 artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.2.5 — Testamento cerrado
 
 La diligencia de apertura y publicación del testamento cerrado y la protocolización de lo actuado por el notario, causará los derechos establecidos para los actos sin cuantía.
 
 (Decreto 188 de 2013 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.2.6 — Protocolización del proceso judicial de sucesión
 
@@ -17885,8 +15617,6 @@ A las sumas que excedan el valor antes señalado se les aplicará la tarifa úni
 
 (Decreto 188 de 2013 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.2.7 — Actas de admisión o devolución en trámites sucesorales
 
 Estas actas de admisión o devolución causarán la suma de diez mil ochocientos pesos ($10.800,00) por cada una.
@@ -17900,8 +15630,6 @@ Sociedades y Actos Mercantiles
 Sociedades
 
 Reforma, Fusión, Escisión, Cambio Razón Social, Liquidación, Empresas Industriales y Comerciales del Estado, Sociedades de Economía Mixta.
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.3.1 — Sociedades
 
@@ -17921,8 +15649,6 @@ f) Liquidación de sociedades. En las escrituras públicas de liquidación de so
 
 (Decreto 188 de 2013, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.3.2 — Constitución y reformas estatutarias de empresas industriales y comerciales del estado
 
 Los derechos notariales que se causen por la escritura de constitución de empresas industriales y comerciales del Estado del orden nacional, departamental o municipal, se liquidarán sobre la base de los aportes de las entidades no exentas que intervengan en el acto, las cuales pagarán en proporción a sus aportes.
@@ -17930,8 +15656,6 @@ Los derechos notariales que se causen por la escritura de constitución de empre
 En las escrituras referentes a reformas estatutarias que impliquen incremento de capital, la asunción del pago de los respectivos derechos estará a cargo de las Empresas Industriales y Comerciales del Estado, tomando como base el incremento dado.
 
 (Decreto 188 de 2013, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.3.3 — Constitución y reformas estatutarias de sociedades de economía mixta
 
@@ -17943,8 +15667,6 @@ Subsección 4
 
 Negocio Fiduciario
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.4.1 — Fiducia Mercantil
 
 En las escrituras públicas contentivas del negocio jurídico de fiducia mercantil y que impliquen transferencia de bienes, se tendrá como acto con cuantía y se cobrará de conformidad con lo dispuesto en el literal b) del artículo 2.2.6.13.2.1.1., de este capítulo.
@@ -17953,15 +15675,11 @@ PARÁGRAFO 1. La cuantía del acto será la correspondiente al valor de los bien
 
 (Decreto 188 de 2013, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.4.2 — Fiducia en garantía
 
 La escritura pública de fiducia en garantía causará por derechos notariales los ordenados para las hipotecas. Cuando se trate de escrituras públicas de restitución de bienes se causarán los derechos propios de la cancelación hipotecaria, previstos en este capítulo.
 
 (Decreto 188 de 2013, artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.4.3 — Fiducia de administración
 
@@ -17977,8 +15695,6 @@ Subsección 5
 
 Leasing
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.5.1 — Leasing
 
 Los derechos notariales en el contrato de leasing se liquidarán, así: cuando las obligaciones emanadas de lo declarado consistan en prestaciones periódicas de plazo determinable con base en los datos consignados en el instrumento, los derechos notariales se liquidarán teniendo en cuenta la cuantía total de tales prestaciones. Si el plazo fuere indeterminado la base de la liquidación será el monto de la misma en cinco (5) años.
@@ -17986,8 +15702,6 @@ Los derechos notariales en el contrato de leasing se liquidarán, así: cuando l
 Cuando el beneficiario, usuario o tomador ejerza la opción de compra, se tomará como base para la liquidación de los derechos notariales el saldo que le reste por pagar, el cual deberá estipularse en el contrato de leasing constituido.
 
 (Decreto 188 de 2013, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.5.2 — Contrato de leasing sin escritura pública
 
@@ -18001,15 +15715,11 @@ Constitución de Garantías
 
 Hipotecas - Constitución - Cancelación
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.6.1 — Hipotecas abiertas con límite de cuantía
 
 Siempre que se constituyan hipotecas abiertas en donde se fijen las cuantías máximas de la obligación que garantiza el gravamen, los derechos notariales se liquidarán con base en dicha cuantía.
 
 (Decreto 188 de 2013, artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.6.2 — Hipotecas sin límite de cuantía
 
@@ -18021,15 +15731,11 @@ No obstante lo anterior, cuando en la escritura pública se fije el valor del co
 
 (Decreto 188 de 2013, artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.6.3 — Venta con hipoteca abierta sin límite de cuantía
 
 En los casos de venta con hipoteca abierta sin límite de cuantía, los derechos notariales correspondientes a la hipoteca se liquidarán con base en el precio de la venta, cuando en el instrumento no se señale la parte del precio garantizado con la hipoteca.
 
 (Decreto 188 de 2013, artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.6.4 — Cancelación de hipotecas abiertas
 
@@ -18037,15 +15743,11 @@ Los derechos notariales correspondientes a la cancelación de hipotecas abiertas
 
 (Decreto 188 de 2013, artículo 27)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.6.5 — Cancelaciones parciales de hipotecas
 
 Los derechos correspondientes a las cancelaciones parciales otorgadas con fines de liberar unidades de una propiedad horizontal, se liquidarán con base en el coeficiente que tenga el inmueble hipotecado en el respectivo régimen de propiedad horizontal.
 
 (Decreto 188 de 2013, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.6.6 — Cancelación de deuda e hipoteca
 
@@ -18058,8 +15760,6 @@ Subsección 7
 Tarifas Especiales
 
 Función Fuera de la Notaría
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.7.1 — Función notarial fuera del despacho
 
@@ -18077,8 +15777,6 @@ d) Excepción. No habrá lugar al cobro adicional de que trata el ordinal anteri
 
 Vivienda Interés Social
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.7.2 — Compraventa e hipoteca de vivienda de interés social
 
 En los contratos de compraventa e hipoteca referente a la adquisición de Vivienda de Interés Social en los términos previstos en las Leyes 9ª de 1989, 3ª de 1991 y 388 de 1997 y las demás que las modifiquen, adicionen o complementen, en que intervengan personas particulares, naturales o jurídicas, se causarán derechos notariales equivalentes a la mitad de los ordinarios señalados en la tarifa.
@@ -18091,15 +15789,11 @@ PARÁGRAFO 3. En los casos de compraventa de vivienda de interés social, cuando
 
 (Decreto 188 de 2013 artículo 31, actualizado por la Resolución 641 de 2015 artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.7.3 — Sistema especializado de financiación de vivienda
 
 En la constitución o modificación de hipoteca para la adquisición de vivienda individual con crédito a favor de un participante en el sistema especializado de financiación de vivienda, causará derechos notariales equivalentes al 70% de la tarifa ordinaria aplicable.
 
 (Decreto 188 de 2013, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.7.4 — Constitución o modificación de gravámenes hipotecarios en vivienda de interés social subsidiable y no subsidiable
 
@@ -18107,15 +15801,11 @@ En la constitución o modificación de gravámenes hipotecarios, a favor de un p
 
 (Decreto 188 de 2013, artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.7.5 — Protocolización de certificados
 
 Para los créditos otorgados en el sistema especializado de vivienda deberá protocolizarse con la escritura que contenga el acto sin costo alguno para el usuario, la certificación de que el crédito se destina para la adquisición y/o construcción de vivienda.
 
 (Decreto 188 de 2013, artículo 34)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.7.6 — Fundaciones de asistencia o beneficencia pública reconocidas por el Estado
 
@@ -18126,8 +15816,6 @@ Las fundaciones de asistencia o beneficencia pública reconocidas por el Estado,
 Subsección 8
 
 Actos sin cuantía
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.8.1 — Actos sin cuantía
 
@@ -18152,8 +15840,6 @@ g) Sustitución y cancelación voluntaria del patrimonio de familia inembargable
 Subsección 9
 
 Actos exentos
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.9.1 — Actos exentos
 
@@ -18285,15 +15971,11 @@ Subsección 10
 
 Particulares y entidades exentas. Particulares y entidades no exentas. Límite de la remuneración notarial.
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.10.1 — De la pluralidad de actos o contratos solemnizados en un mismo instrumento
 
 Siempre que en una misma escritura pública se consignen dos o más actos o contratos, se causarán los derechos correspondientes a cada uno de ellos en su totalidad. Sin embargo, no se cobrarán derechos adicionales por la protocolización de los documentos necesarios para el otorgamiento de los actos o contratos que contenga la escritura, ni cuando se trate de garantías accesorias que se pacten entre las mismas partes para asegurar el cumplimiento de las obligaciones surgidas de los actos o contratos celebrados.
 
 (Decreto 188 de 2013, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.10.2 — Concurrencia de los Particulares con Entidades Exentas y límite de la remuneración notarial
 
@@ -18302,8 +15984,6 @@ En los actos o contratos en que concurran los particulares con entidades exentas
 De los derechos que se causen por este concepto, el Notario solo podrá percibir como remuneración por sus servicios hasta tres millones quinientos sesenta y siete mil novecientos pesos ($3.567.900, oo). El excedente constituye aporte especial del Gobierno al fondo o sistema especial de manejo de cuentas administrado por la Superintendencia de Notariado y Registro y se remitirá a este dentro de los cinco (5) días siguientes a aquel en que lo perciba del usuario.
 
 (Decreto 188 de 2013 artículo 39, actualizado por la Resolución 641 de 2015 artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.10.3 — Actos entre particulares o entre entidades no exentas y límite de la remuneración notarial
 
@@ -18317,8 +15997,6 @@ Subsección 11
 
 Actuaciones notariales en el registro del estado civil de las personas. Cambio de nombre. Correcciones. Expedición copias y certificados. Actuaciones fuera de la notaría
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.11.1 — Cambio de nombre y corrección de Registro del Estado Civil de las personas
 
 La escritura pública para el cambio de nombre causará por concepto de derechos notariales la suma de treinta y cinco mil cien pesos ($35.100,00).
@@ -18327,15 +16005,11 @@ La escritura pública de corrección de errores u omisiones en el Registro del E
 
 (Decreto 188 de 2013 artículo 41, actualizado por la Resolución 641 de 2015 artículo 41)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.11.2 — 1.2
 
 Valor de las copias y certificados de Registros Civiles que expiden los notarios debidamente autorizados por el Registrador Nacional del Estado Civil. En los términos del artículo 4 de la Ley 1163 de 2007, el valor de cada copia y certificación del Registro Civil que expiden los notarios se cobrará de conformidad con lo establecido por el Registrador Nacional del Estado Civil.
 
 (Decreto 188 de 2013, artículo 42)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.11.3 — Actuaciones notariales fuera de la notaría
 
@@ -18353,8 +16027,6 @@ Función notarial en el exterior (cónsules)
 
 Escrituras públicas en el extranjero. Matrimonio civil. Sociedades. Distribución de derechos. Copias y certificados.
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.12.1 — Escrituras públicas autorizadas en el extranjero
 
 Las escrituras públicas que se otorguen en país extranjero, ante Cónsul de Colombia, causarán los derechos ordinarios actualizados en este capítulo, en dólares, euros o libras esterlinas, según se trate, los que se distribuirán de la siguiente manera y con el destino enseguida indicado: el 50% para el fondo o sistema especial de manejo de cuentas administrado por la Superintendencia de Notariado y Registro y el otro 50% para la Administración de
@@ -18363,15 +16035,11 @@ Justicia.
 
 (Decreto 188 de 2013, artículo 44)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.12.2 — Matrimonio Civil en el Exterior
 
 La escritura de protocolización del matrimonio civil celebrado en el extranjero causará por concepto de derechos notariales la suma de treinta y cinco mil cien pesos ($35.100, oo), o su equivalente en dólares, euros o libras esterlinas, según se trate.
 
 (Decreto 188 de 2013 artículo 45, actualizado por la Resolución 641 de 2015 artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.6.13.2.12.3 — Escritura de sociedades en país extranjero
 
@@ -18391,8 +16059,6 @@ f) Liquidación de sociedades. En las escrituras públicas de liquidación de so
 
 (Decreto 188 de 2013, artículo 46)
 
-ARTÍCULO
-
 ## art:2.2.6.13.2.12.4 — 2.4
 
 Derechos por expedición de copias y certificados de actas, inscripciones y folios de registro del estado civil que reposan en los archivos de los consulados colombianos. En los términos del artículo 4 de la Ley 1163 de 2007, el valor de cada copia y certificación del Registro Civil que expiden los cónsules se cobrarán de conformidad con lo establecido por el Registrador Nacional del Estado Civil.
@@ -18408,8 +16074,6 @@ Subsección 1
 Aportes
 
 Tabla de rangos, cómputos, excepciones y exenciones.
-
-ARTÍCULO
 
 ## art:2.2.6.13.3.1.1 — Aportes
 
@@ -18665,8 +16329,6 @@ PARÁGRAFO 3º. Escrituras públicas sin cuantía, de corrección y aclaración.
 
 (Decreto 188 de 2013 artículo 48, actualizado por la Resolución 641 de 2015 artículo 48)
 
-ARTÍCULO
-
 ## art:2.2.6.13.3.1.2 — Actuaciones que no generan aportes
 
 Los actos escriturarios exentos del pago de derechos notariales no deberán hacer aportes al fondo o sistema especial de manejo de cuentas que administra la Superintendencia de Notariado y Registro.
@@ -18676,8 +16338,6 @@ Los actos escriturarios exentos del pago de derechos notariales no deberán hace
 Subsección 2
 
 Recaudos. Distribución. Exenciones.
-
-ARTÍCULO
 
 ## art:2.2.6.13.3.2.1 — Recaudos
 
@@ -18861,8 +16521,6 @@ Subsección 3
 
 Normas generales
 
-ARTÍCULO
-
 ## art:2.2.6.13.3.3.1 — De la determinación de la cuantía
 
 a) Del avalúo catastral. Cuando la cuantía del acto o contrato convenida por las partes sea inferior a la del avalúo catastral, al autoavalúo, o al valor del remate, los derechos se liquidarán con base en cualquiera de estos conceptos que presente el mayor valor.
@@ -18879,23 +16537,17 @@ Subsección 4
 
 Interpretación, publicidad y vigencia
 
-ARTÍCULO
-
 ## art:2.2.6.13.3.4.1 — No aplicabilidad
 
 Las disposiciones del presente decreto no se aplicarán para los casos previstos en los Decretos número 2158 de 1995 y 371 de 1996, relativos a vivienda de interés social, salvo lo dispuesto en el parágrafo 3 del artículo 2.2.6.13.2.7.2., de este capítulo.
 
 (Decreto 188 de 2013, artículo 52)
 
-ARTÍCULO
-
 ## art:2.2.6.13.3.4.2 — Obligación de exhibir las tarifas
 
 El notario deberá exhibir este decreto en lugar visible para el público de la notaría.
 
 (Decreto 188 de 2013, artículo 53)
-
-ARTÍCULO
 
 ## art:2.2.6.13.3.4.3 — De las facturas de pago
 
@@ -18907,15 +16559,11 @@ Subsección 5
 
 De los futuros incrementos
 
-ARTÍCULO
-
 ## art:2.2.6.13.3.5.1 — 5.1
 
 Incrementos Los valores absolutos de las tarifas notariales, se incrementarán anualmente el día primero (1) de enero de 2016 y años subsiguientes, en el mismo porcentaje del Índice de Precios al Consumidor (IPC) del año inmediatamente anterior, certificado por el DANE.
 
 (Decreto 188 de 2013, artículo 55)
-
-ARTÍCULO
 
 ## art:2.2.6.13.3.5.2 — Reajuste
 
@@ -18926,8 +16574,6 @@ El Superintendente de Notariado y Registro estará facultado para reajustar anua
 CAPÍTULO 14
 
 CONSERVACIÓN DE LA CALIDAD DE ACREEDOR HIPOTECARIO EN EL MARCO DE OPERACIONES DE TITULARIZACIÓN
-
-ARTÍCULO
 
 ## art:2.2.6.14.1 — Definiciones
 
@@ -18963,8 +16609,6 @@ n. Titularización: Es la operación por medio de la cual se emiten títulos rep
 
 (Decreto 1310 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.14.2 — Supuestos de la conservación de la calidad de acreedor hipotecario
 
 La conservación de la calidad de acreedor hipotecario sólo procederá, de acuerdo con lo dispuesto en el artículo 3 de la Ley 1555 de 2012, en aquellos casos en los que al momento de la titularización se cumpla con los siguientes supuestos:
@@ -18981,8 +16625,6 @@ PARÁGRAFO 2. En cualquier caso, la conservación de la calidad de acreedor hipo
 
 (Decreto 1310 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.14.3 — Presentación y requisitos de la solicitud
 
 La solicitud deberá ser presentada ante la misma notaría donde se otorgó la escritura constitutiva de la garantía hipotecaria, y consistirá en un escrito firmado por el representante legal del acreedor cedente, en el que indique el número y fecha de expedición de la escritura pública constitutiva de la garantía hipotecaria y el número del folio de matrícula inmobiliaria del Inmueble. Con la solicitud, deberá acompañarse los siguientes documentos:
@@ -18993,23 +16635,17 @@ b. Certificado de tradición del Inmueble expedido con una anterioridad no super
 
 (Decreto 1310 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.14.4 — Requerimiento para completar la solicitud
 
 Si la solicitud está incompleta, pero la actuación puede continuar sin oponerse a la ley, el notario requerirá al peticionario dentro de los diez (10) días siguientes para que la complete en el término máximo de un (1) mes que comenzará a correr a partir del día siguiente al de la comunicación del requerimiento. Si en dicho plazo el interesado no satisface lo requerido, se entenderá que ha desistido de su solicitud.
 
 (Decreto 1310 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.14.5 — Expedición de la copia
 
 Si la solicitud cumple con la totalidad de los requisitos, o si el acreedor cedente la completa en el término previsto en el artículo anterior, el notario expedirá copia de la escritura pública de hipoteca con destino al acreedor cedente. En ella anotará, con arreglo a lo dispuesto en el artículo 80 del Decreto Ley 960 de 1970, que presta mérito ejecutivo de acuerdo a la prelación o grado que le corresponda. Así mismo, anotará en el protocolo la expedición de la copia respectiva.
 
 (Decreto 1310 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.14.6 — Estudio de la documentación y anotación en el folio de matrícula inmobiliaria
 
@@ -19019,15 +16655,11 @@ Si de dicho estudio resulta que se cumplen los requisitos legales, hará la anot
 
 (Decreto 1310 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.14.7 — Constancia de anotación y remisión a la notaría
 
 Dentro de los cinco (5) días hábiles siguientes al recibo de la documentación y una vez surtida la anotación, la Oficina de Registro de Instrumentos Públicos expedirá la constancia de que trata el artículo 21 de la Ley 1579 de 2012.
 
 (Decreto 1310 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.14.8 — Impuesto y derechos de registro
 
@@ -19040,8 +16672,6 @@ En consecuencia, en los términos del artículo 226 de la Ley 223 de 1995, el pr
 Para efectos de derechos de registro, la anotación prevista en este Decreto se considerará como acto sin cuantía.
 
 (Decreto 1310 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.14.9 — Cancelación
 
@@ -19057,23 +16687,17 @@ Sección 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.2.6.15.1.1 — Derecho de postulación
 
 Las personas que hayan de comparecer a los trámites reglamentados por el presente Decreto podrán hacerlo por sí mismas, por medio de sus representantes legales, o por conducto de apoderado o abogado legalmente autorizado. De igual manera, podrán comparecer todos los herederos reconocidos, cónyuge o compañero sobreviviente.
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.1.2 — Auxiliares de la justicia
 
 Cuando en el curso del trámite haya de designarse curadores, u otros sujetos que tengan la condición de auxiliares de la justicia, el notario podrá designar a quienes aparezcan relacionados en la lista de auxiliares de la justicia del Consejo Superior de la Judicatura.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.1.3 — Notificaciones
 
@@ -19083,15 +16707,11 @@ Cuando la carga de realizar la notificación corresponda al solicitante, el nota
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.1.4 — Terminación anormal del trámite
 
 Habrá lugar a la terminación anormal del trámite en los mismos supuestos de desistimiento expreso o tácito el cual se entenderá transcurridos dos (2) meses contados a partir de la fecha en que debe dar cumplimiento a una carga o a un acto que corresponda realizar una de las partes.
 
 En los anteriores casos, el notario extenderá un acta que no generará derecho notarial alguno, en la cual expresará tales circunstancias y dispondrá la devolución de la solicitud y sus anexos a los interesados. (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.1.5 — Oposición y remisión al juez competente
 
@@ -19111,8 +16731,6 @@ Subsección 1
 
 De la autorización notarial para enajenar bienes de los incapaces, sean estos mayores o menores de edad
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.1.1 — Solicitud de autorización para enajenar bienes de incapaces
 
 Sin perjuicio de la competencia judicial, la solicitud y trámite correspondiente de autorización para enajenar bienes o cuotas partes de estos, cuya propiedad sea de menores de edad o de incapaces mayores de edad podrá hacerse por escritura pública, ante notario. La solicitud la suscribirán los padres del menor o los guardadores según el caso.
@@ -19120,8 +16738,6 @@ Sin perjuicio de la competencia judicial, la solicitud y trámite correspondient
 PARÁGRAFO : La solicitud en ningún caso podrá formularse para enajenar una universalidad de bienes del incapaz.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.1.2 — Requisitos de la solicitud
 
@@ -19143,8 +16759,6 @@ La solicitud deberá cumplir con los siguientes requisitos:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.1.3 — Anexos a la Solicitud
 
 A la solicitud se anexarán:
@@ -19157,8 +16771,6 @@ A la solicitud se anexarán:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.1.4 — Trámite
 
 Recibida la solicitud, el notario verificará, en primer término, su competencia y, luego, si los requisitos y anexos establecidos en este decreto están completos y ajustados a la ley.
@@ -19169,8 +16781,6 @@ Cuando el concepto del Defensor de Familia o del Personero Distrital o Municipal
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.1.5 — Escritura Pública
 
 La Escritura Pública de autorización contendrá, en lo pertinente, los mismos elementos de la solicitud y con ella se protocolizarán sus anexos y todo lo actuado. Será otorgada por los solicitantes quienes podrán hacerlo a través de apoderado. En todo caso, declararán que el producto de la enajenación autorizada será destinado de conformidad con las razones que justificaron la necesidad de la enajenación.
@@ -19178,8 +16788,6 @@ La Escritura Pública de autorización contendrá, en lo pertinente, los mismos 
 El Notario dejará constancia expresa que por haberse cumplido con los requisitos legales, procede a la autorización para la enajenación directa, la cual tendrá una vigencia de seis (6) meses a partir de su otorgamiento. Vencido éste término se extinguirá la autorización.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.1.6 — Derechos Notariales
 
@@ -19191,15 +16799,11 @@ Subsección 2
 
 De la declaración de mera ausencia del desaparecido y del nombramiento de su administrador mientras dure la ausencia
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.2.1 — Declaración de mera ausencia del desaparecido
 
 Sin perjuicio de la competencia judicial, la declaración de mera ausencia de una persona que haya desaparecido de su domicilio, ignorándose su paradero, podrá hacerse por escritura pública. El trámite se adelantará en la notaría del círculo que corresponda al último domicilio del desaparecido en el territorio nacional, y si éste tenía varios, al del asiento principal de sus negocios.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.2.2 — Requisitos de la solicitud
 
@@ -19229,8 +16833,6 @@ PAR¿GRAFO: Si el ausente hubiere constituido poder a un tercero o tuviere repre
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.2.3 — Anexos la solicitud
 
 Con la solicitud deberá adjuntarse:
@@ -19255,8 +16857,6 @@ PARÁGRAFO : En el poder todos los solicitantes manifestarán bajo la gravedad d
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.2.4 — 2.4
 
 Recibida la solicitud, el Notario verificará si los requisitos y anexos están completos y ajustados a la ley, en cuyo caso, dará inicio al trámite y ordenará:
@@ -19277,15 +16877,11 @@ Vencidos los anteriores términos y transcurridos 10 días hábiles contados a p
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.2.5 — Obligaciones especiales del administrador
 
 Además de las obligaciones consignadas en la Ley para la administración por mandato, éste deberá presentar trimestralmente a los interesados o a la persona que ellos designen, informes por escrito de su gestión. Igualmente lo deberá hacer al finalizar su encargo.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.2.6 — Escritura pública
 
@@ -19303,15 +16899,11 @@ Si después de autorizada la escritura pública aparece el ausente, se proceder�
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.2.7 — Inscripciones
 
 Autorizada la escritura pública, el notario dispondrá su inscripción en el Libro de Varios y la consignación de la nota marginal en el respectivo Registro Civil de Nacimiento del ausente.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.2.8 — Derechos Notariales
 
@@ -19323,8 +16915,6 @@ Subsección 3
 
 Del inventario solemne de bienes propios de menores bajo patria potestad o mayores discapacitados, en los casos de matrimonio, declaración de unión marital de hecho o de sociedad patrimonial de hecho de uno de los padres, así como la declaración de inexistencia de bienes propios del menor o del mayor discapacitado cuando fuere el caso, de conformidad con lo establecido en los artículos 169 y 170 del código civil
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.3.1 — 3.1
 
 Inventario solemne de bienes de menores bajo patria potestad y mayores discapacitados en caso de matrimonio, declaración de unión marital de hecho o sociedad patrimonial de hecho de uno de los padres.
@@ -19334,8 +16924,6 @@ Sin perjuicio de la competencia judicial, quien, teniendo hijos menores de edad 
 PARÁGRAFO . Si el menor de edad o mayor incapaz es hijo de la misma pareja que pretende casarse, declarar la unión marital de hecho o la sociedad patrimonial de hecho, no se requiere del inventario ni de la declaración de inexistencia de que trata el presente artículo.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.3.2 — Requisitos de la solicitud
 
@@ -19353,8 +16941,6 @@ PARÁGRAFO : En caso de inexistencia de bienes, además de la declaración en ta
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.3.3 — Anexos a la solicitud
 
 Con la solicitud se anexará:
@@ -19365,8 +16951,6 @@ Con la solicitud se anexará:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.3.4 — Curador especial
 
 Presentada la solicitud, el notario designará un Curador Especial de la lista oficial de auxiliares de la justicia conformada por el Consejo Superior de la Judicatura para estos efectos. En el mismo acto de designación se señalarán los honorarios de acuerdo a las tarifas establecidas por dicho Consejo.
@@ -19374,8 +16958,6 @@ Presentada la solicitud, el notario designará un Curador Especial de la lista o
 El cargo de auxiliar de la justicia es de obligatoria aceptación para quienes estén inscritos en la lista oficial. Cuando el auxiliar designado no acepte el cargo dentro de los cinco (5) días siguientes a la comunicación de su nombramiento, se excuse de prestar el servicio, no concurra a la diligencia, no cumpla el encargo en el término otorgado, o incurra en causal de exclusión de la lista, será relevado inmediatamente.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.3.5 — Inventario
 
@@ -19385,23 +16967,17 @@ En los casos de inexistencia de bienes, el curador deberá así manifestarlo med
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.3.6 — Escritura pública
 
 Aprobado el inventario, el notario procederá a extender la escritura pública.
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.3.7 — Vigencia del inventario o de la declaración
 
 Los inventarios solemnes de los bienes pertenecientes a menores o mayores incapaces y las declaraciones de inexistencia de bienes tendrán una vigencia de seis (6) meses.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.3.8 — Derechos Notariales
 
@@ -19415,8 +16991,6 @@ De la custodia del hijo menor o del mayor discapacitado y la regulación de visi
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.4.1 — Custodia y regulación de visitas
 
 Sin perjuicio de la competencia judicial y de la notarial en materia de conciliación extrajudicial en derecho, de común acuerdo y por escritura pública, los padres de sus hijos menores o mayores incapaces, podrán convenir la custodia y regulación de visitas de éstos.
@@ -19424,8 +16998,6 @@ Sin perjuicio de la competencia judicial y de la notarial en materia de concilia
 Tratándose de mayores con discapacidad mental se adjuntará la copia auténtica del folio del Libro Varios donde conste la inscripción de la sentencia de interdicción y copia auténtica del registro civil de nacimiento.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.4.2 — Requisitos de la solicitud
 
@@ -19439,8 +17011,6 @@ La solicitud deberá cumplir con los siguientes requisitos:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.4.3 — Anexos de la solicitud
 
 A la solicitud se anexarán:
@@ -19453,15 +17023,11 @@ A la solicitud se anexarán:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.4.4 — Escritura pública
 
 Verificados los requisitos señalados en los artículos anteriores, el notario procederá a extender la escritura pública, la cual contendrá una síntesis de la solicitud y de lo actuado, el acuerdo sobre la custodia y la regulación de visitas, según el caso.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.4.5 — Derechos Notariales
 
@@ -19472,8 +17038,6 @@ La autorización de la escritura pública causará por concepto de derechos nota
 Subsección 5
 
 De las declaraciones de constitución, disolución y liquidación de la sociedad patrimonial de hecho y de la existencia y cesación de efectos civiles de la unión marital de hecho entre compañeros permanentes, de común acuerdo
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.5.1 — Declaración de existencia de la unión marital de hecho
 
@@ -19487,8 +17051,6 @@ La solicitud deberá formularse en forma conjunta por los interesados, e indicar
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.5.2 — Anexos de la solicitud
 
 A la solicitud se anexarán:
@@ -19498,8 +17060,6 @@ A la solicitud se anexarán:
 2. En el evento de que los solicitantes tengan hijos, inventario solemne de los bienes propios de los menores bajo patria potestad o de los mayores incapaces en caso de que los esté administrando o declaración de inexistencia de los mismos.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.5.3 — Declaración de cesación de los efectos civiles de la unión marital de hecho
 
@@ -19515,8 +17075,6 @@ La solicitud deberá formularse en forma conjunta por los interesados, mediante 
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.5.4 — Anexos de la solicitud
 
 A la solicitud se anexarán:
@@ -19531,8 +17089,6 @@ A la solicitud se anexarán:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.5.5 — Intervención del Defensor de Familia
 
 En caso de que con la solicitud no se anexe concepto previo del Defensor de Familia, habiendo hijos menores de edad, el Notario le notificará al Defensor de Familia del lugar de residencia de aquellos, mediante escrito, el acuerdo al que han llegado los compañeros permanentes.
@@ -19542,8 +17098,6 @@ El Defensor de Familia deberá emitir su concepto en los quince (15) días sigui
 Las observaciones legalmente sustentadas que hiciere el Defensor de Familia referidas a la protección de los hijos menores de edad, se incorporarán al acuerdo, de ser aceptadas por los compañeros permanentes. En caso contrario se entenderá que existe controversia y el notario remitirá las actuaciones al juez competente.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.5.6 — Declaración de constitución de Sociedad Patrimonial de Hecho
 
@@ -19557,8 +17111,6 @@ La solicitud deberá formularse por escrito ante el notario por los interesados,
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.5.7 — Anexos de la solicitud
 
 A la solicitud se anexarán:
@@ -19569,15 +17121,11 @@ A la solicitud se anexarán:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.5.8 — Disolución y Liquidación de la Sociedad Patrimonial de Hecho
 
 A la liquidación de la sociedad patrimonial entre compañeros permanentes, se aplicarán las normas contenidas en el Libro 4o., Título XXII, Capítulos I al VI del Código Civil.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.5.9 — Escrituras Públicas
 
@@ -19585,15 +17133,11 @@ Las Escrituras Públicas a las que se refiere el presente capítulo contendrán,
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.5.10 — Concurrencia de trámites
 
 Los trámites regulados en el presente capítulo podrán formularse en la misma solicitud y consignarse en una misma escritura pública, conforme a lo dispuesto en el artículo 220 del Decreto Ley 960 de 1970.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.5.11 — Derechos Notariales
 
@@ -19607,8 +17151,6 @@ Subsección 6
 
 De la declaración de bienes de la sociedad patrimonial de hecho no declarada, ni liquidada que ingresan a la sociedad conyugal
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.6.1 — Declaración de bienes de la sociedad patrimonial que ingresan a la sociedad conyugal
 
 Quienes tengan entre sí unión marital de hecho y sociedad patrimonial no declarada ni liquidada y pretendan celebrar matrimonio, podrán declarar, por escritura pública, que han tenido unión marital de hecho y sociedad patrimonial entre ellos y que es su voluntad que los bienes integrantes de esta sociedad ingresen a la sociedad conyugal que surge por el hecho del matrimonio.
@@ -19617,13 +17159,9 @@ Los declarantes relacionarán e identificarán todos los bienes habidos en la so
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.6.2 — Escritura Pública
 
 La Escritura Pública de autorización contendrá, en lo pertinente, los mismos elementos de la solicitud y con ella se protocolizarán sus anexos y todo lo actuado. (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.6.3 — Derechos Notariales
 
@@ -19635,8 +17173,6 @@ Subsección 7
 
 De la cancelación de hipoteca en mayor extensión, en los casos de subrogación
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.7.1 — Cancelación de Hipoteca en mayor extensión, en los casos de subrogación
 
 Cuando existiere un gravamen hipotecario sobre el inmueble de mayor extensión que se sometió al régimen de propiedad horizontal, el propietario inicial deberá solicitar el levantamiento del gravamen, en la proporción que afecte a la unidad privada.
@@ -19644,8 +17180,6 @@ Cuando existiere un gravamen hipotecario sobre el inmueble de mayor extensión q
 La cancelación de la hipoteca de mayor extensión podrá realizarse dentro del mismo acto jurídico de transferencia de dominio de la unidad privada, o en solicitud independiente.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.7.2 — Requisitos de la solicitud
 
@@ -19661,8 +17195,6 @@ La solicitud deberá formularse por escrito ante el notario por los interesados,
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.7.3 — Anexos de la solicitud
 
 Quien solicite la cancelación de la hipoteca de mayor extensión deberá anexar a la solicitud copia del contrato de hipoteca en el que el acreedor hipotecario se obliga a liberar los lotes o construcciones que se vayan enajenando, mediante el pago proporcional del gravamen que afecte cada lote o construcción. En su defecto, aportará una certificación del acreedor hipotecario en la que se obliga a levantar la proporción de dicho gravamen que afecta a la unidad privada objeto del acto.
@@ -19673,15 +17205,11 @@ El notario no podrá autorizar el otorgamiento de esta escritura ante la falta d
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.7.4 — Escritura pública
 
 Verificado el cumplimiento de los requisitos legales, el notario autorizará la escritura pública en la que constará la cancelación del gravamen hipotecario en mayor extensión frente a la unidad privada; dará fe, con fundamento en los documentos allegados con la solicitud, de la calidad con que actuó el solicitante y atenderá lo dispuesto en el artículo 52 del Decreto Ley 960 de 1970.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.7.5 — Certificaciones
 
@@ -19693,8 +17221,6 @@ Así mismo expedirá certificación sobre la cancelación de hipoteca en mayor e
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.7.6 — Derechos notariales
 
 Los derechos correspondientes a las cancelaciones parciales otorgadas con fines de liberar unidades de una propiedad horizontal, se liquidarán con base en el coeficiente que tenga el inmueble hipotecado en el respectivo régimen de propiedad horizontal, de conformidad con lo dispuesto por el artículo 2.2.6.13.2.6.5 del presente decreto.
@@ -19705,15 +17231,11 @@ Subsección 8
 
 De la solicitud de copia sustitutiva de la primera que presta mérito ejecutivo
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.8.1 — De la solicitud de copia sustitutiva de la primera que presta mérito ejecutivo
 
 Quien tenga un interés legítimo, ya sea por haber sido parte en la relación jurídica o su beneficiario podrá solicitar copias sustitutivas de las primeras copias que prestan mérito ejecutivo extraviadas, perdidas, hurtadas o destruidas, previos el trámite reglamentado en este capítulo.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.8.2 — Requisitos de la solicitud
 
@@ -19735,15 +17257,11 @@ La solicitud, que deberá formularse por escrito, contendrá:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.8.3 — Trámite
 
 El Notario verificará el interés legítimo del solicitante, y en caso de no existir controversia, expedirá copia autentica de la escritura con la anotación de ser sustitutiva de la primera copia que presta mérito ejecutivo, y el nombre del interesado en favor de quien se expida.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.8.4 — Modificado por el Art
 
@@ -19755,15 +17273,11 @@ Subsección 9
 
 De las correcciones de errores en los registros civiles
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.9.1 — Corrección de errores
 
 Podrán solicitar que se corrijan los errores que consten en los registros civiles, las personas a las que ellos se refieren, directamente, o por medio de sus representantes legales o sus herederos, sin perjuicio de lo dispuesto en la Sección 4, Capítulo 12, Título 6, Parte 2 del Libro 2 del Decreto 1069 de 2015.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.9.2 — Requisitos de la solicitud
 
@@ -19777,8 +17291,6 @@ La solicitud deberá presentarse por escrito y contendrá:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.9.3 — Anexos de la solicitud
 
 A la solicitud se anexarán:
@@ -19791,8 +17303,6 @@ No será necesario aportar como anexo los documentos que reposen en los archivos
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.9.4 — Trámite de la corrección
 
 Verificado el cumplimiento de los requisitos legales y de no existir controversia, el notario corregirá el error mecanográfico, ortográfico o aquel que se establezca con la comparación del documento antecedente o con la sola lectura del folio, mediante la apertura de uno nuevo donde se consignarán los datos correctos. Los folios llevarán notas de recíproca referencia.
@@ -19802,8 +17312,6 @@ Los errores en la inscripción distintos de los mencionados en el inciso anterio
 PARÁGRAFO . Si la escritura pública se otorgare en una notaría u oficina diferente en la cual reposa el registro civil objeto de la corrección, el notario respectivo procederá a expedir a costa del interesado, copia de la escritura, con destino al funcionario competente del registro civil, para que se haga la correspondiente sustitución de folio.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.9.5 — Derechos notariales
 
@@ -19817,15 +17325,11 @@ Subsección 10
 
 De la cancelación y de la sustitución voluntaria del patrimonio de familia inembargable
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.10.1 — Sustitución y cancelación voluntaria del patrimonio de familia inembargable
 
 Los notarios podrán sustituir o cancelar mediante escritura pública el patrimonio de familia constituido sobre un bien inmueble, para lo cual se seguirán las reglas previstas en los artículos 84 a 88 del Decreto Ley 019 de 2012.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.10.2 — Derechos notariales
 
@@ -19836,8 +17340,6 @@ La escritura pública de sustitución o cancelación voluntaria del patrimonio d
 Subsección 11
 
 De la partición del patrimonio en vida
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.11.1 — Solicitud de partición del patrimonio en vida
 
@@ -19851,8 +17353,6 @@ La solicitud de partición del patrimonio que espontáneamente quiera efectuar u
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.11.2 — Anexos de la solicitud
 
 A la solicitud se anexarán:
@@ -19863,15 +17363,11 @@ A la solicitud se anexarán:
 
 (Decreto 1664 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.15.2.11.3 — Competencia
 
 Sera competente para tramitar la solicitud el notario del domicilio del adjudicante.
 
 (Decreto 1664 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.15.2.11.4 — Derechos notariales
 
@@ -19883,15 +17379,11 @@ CAPÍTULO 16
 
 APERTURA DE MATRÍCULA INMOBILIARIA DE BIENES BALDÍOS
 
-ARTÍCULO
-
 ## art:2.2.6.16.1 — Objeto
 
 El presente capítulo tiene por objeto establecer la asignación e identificación registral a bienes baldíos sin antecedente registral, mediante la apertura de folios de matrícula inmobiliaria.
 
 (Decreto 1858 de 2015, Artículo1, Modificado por el Decreto 1961 de 2015, Artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.16.2 — Inicio
 
@@ -19901,8 +17393,6 @@ Este acto administrativo se comunicará, dentro de los diez (10) días siguiente
 
 (Decreto 1858 de 2015, Artículo 1, Modificado por el Decreto 1961 de 2015, Artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.16.3 — Pruebas
 
 El Instituto Colombiano de Desarrollo Rural INCODER, o quien haga sus veces, pedirá y practicará las pruebas que considere pertinentes en atención a lo dispuesto en el artículo 40 de la Ley 1437 de 2011 y, en todos los casos, solicitará certificado al Instituto Geográfico Agustín Codazzi (IGAC) o a los catastros descentralizados o a quien haga sus veces, en el que se describan los predios a los que se refiera el presente capítulo, con cédula catastral, georreferenciación, señalando cabida y linderos, y la información de relación jurídica del bien que obre en sus bases de datos.
@@ -19910,8 +17400,6 @@ El Instituto Colombiano de Desarrollo Rural INCODER, o quien haga sus veces, ped
 Del mismo modo, solicitará a la Oficina de Registro de Instrumentos Públicos correspondiente certificado en el que se indique la carencia de antecedentes registrales inmobiliarios asociados a derechos reales sobre estos predios.
 
 (Decreto 1858 de 2015, Artículo 1, Modificado por el Decreto 1961 de 2015, Artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.16.4 — Acto administrativo que ordena apertura de folio de matrícula inmobiliaria
 
@@ -19921,23 +17409,17 @@ PARÁGRAFO . En los casos en que la administración del baldío, por disposició
 
 (Decreto 1858 de 2015, Artículo 1, Modificado por el Decreto 1961 de 2015, Artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.16.5 — Publicidad del acto administrativo
 
 El acto administrativo proferido por el INCODER, o quien haga sus veces, mediante el cual se ordene la apertura de matrícula inmobiliaria de predios baldíos de propiedad de la Nación será publicitado de conformidad con lo establecido en el artículo 65 y siguientes de la Ley 1437 de 2011.
 
 (Decreto 1858 de 2015, Artículo 1, Modificado por el Decreto 1961 de 2015, Artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.16.6 — Oposición
 
 En cualquier etapa de la actuación y antes de la ejecutoria del acto administrativo mediante el cual se ordene la apertura de matrícula inmobiliaria, cuando se presenten terceros que aleguen derechos de pleno dominio sobre estos predios, el INCODER o quien haga sus veces, terminará la actuación administrativa de que trata el presente capítulo e iniciará de manera inmediata el respectivo proceso de clarificación de la propiedad.
 
 (Decreto 1858 de 2015, Artículo 1, Modificado por el Decreto 1961 de 2015, Artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.6.16.7 — Predios baldíos al interior del Sistema de Parques Nacionales Naturales
 
@@ -19949,8 +17431,6 @@ PARÁGRAFO 2. Lo anterior sin perjuicio de la competencia establecida en materia
 
 (Decreto 1858 de 2015, Artículo 1, Modificado por el Decreto 1961 de 2015, Artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.16.8 — Identificación física de predios baldíos rurales
 
 Los linderos, georreferenciación y cabida superficiaria de los bienes inmuebles baldíos rurales, deberán identificarse haciendo uso del plano predial catastral o documento cartográfico oficial expedido por la autoridad catastral competente.
@@ -19961,8 +17441,6 @@ CAPÍTULO 17
 
 REGISTRO ÚNICO DE LOS PROPIETARIOS URBANOS DE LA DESAPARECIDA CIUDAD DE ARMERO
 
-ARTÍCULO
-
 ## art:2.2.6.17.1 — Responsables del Registro Único de Propietarios
 
 -RUPU-. La elaboración del Registro Único de Propietarios Urbanos -RUPU-, corresponde al Instituto Geográfico Agustín Codazzi, -IGAC-, en coordinación con la Oficina de Registro de Instrumentos Públicos de la ciudad de Honda (Tolima).
@@ -19970,8 +17448,6 @@ ARTÍCULO
 PARÁGRAFO . La Superintendencia de Notariado y Registro en el marco de sus funciones proporcionará el apoyo administrativo necesario para la estructuración del RUPU, en lo que corresponde a las Oficinas de Registro de Instrumentos Públicos.
 
 (Decreto 2205 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.17.2 — Objeto y alcance del Registro Único de Propietarios - RUPU-
 
@@ -19988,8 +17464,6 @@ El Registro Único de Propietarios Urbanos, -RUPU-, corresponde a la base de dat
 PARÁGRAFO . El trámite administrativo que se adelante para la apertura y reconstrucción de folios de matrícula y para la identificación de bienes baldíos, que correspondan a los terrenos urbanos que hacen parte de la desaparecida ciudad de Armero, se hará de conformidad con lo dispuesto en la Leyes 137 de 1959, 388 de 1997 y 1437 de 2011, en particular en relación con la publicación y notificación de las decisiones que se emitan con ocasión de dicho trámite.
 
 (Decreto 2205 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.17.3 — Estructuración del RUPU
 
@@ -20015,15 +17489,11 @@ PARÁGRAFO 2. El Registro Único de Propietarios Urbanos (RUPU) deberá constitu
 
 (Decreto 2205 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.17.4 — Inicio
 
 Una vez el Instituto Geográfico Agustín Codazzi, -IGAC- en el desarrollo de sus funciones, identifique e individualice los bienes inmuebles que hacen parte del casco urbano de la desaparecida ciudad de Armero, la Oficina de Registro de Instrumentos Públicos del círculo registral correspondiente, mediante acto administrativo dará inicio oficiosamente al respectivo trámite administrativo para la apertura o reconstrucción de los folios de matrícula inmobiliaria que harán parte integral del Registro Único de Propietarios Urbanos, -RUPU.
 
 (Decreto 2205 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.17.5 — Pruebas
 
@@ -20045,15 +17515,11 @@ PARÁGRAFO 1. En todo caso se guardará la debida observancia al derecho de acce
 
 (Decreto 2205 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.17.6 — Consolidación del RUPU
 
 Una vez la Oficina de Registro de Instrumentos Públicos del círculo registral correspondiente, culmine los trámites administrativos para la apertura o reconstrucción de los folios de matrícula inmobiliaria de los terrenos urbanos de la desaparecida ciudad de Armero, remitirá al Instituto Geográfico Agustín Codazzi, -IGAC- los respectivos folios de matrícula inmobiliaria creados o reconstruidos para que junto con los existentes y la identificación de los bienes baldíos estructure el Registro Único de Propietarios Urbanos, -RUPU.
 
 (Decreto 2205 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.17.7 — Publicación del Registro Único de Propietarios - RUPU-
 
@@ -20099,15 +17565,11 @@ CAPÍTULO 1
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.7.1.1 — Tarjeta profesional
 
 La Tarjeta Profesional de Abogado es documento público.
 
 (Decreto 1137 de 1971, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2 — Forma de llevar el Registro Nacional de Abogados
 
@@ -20118,8 +17580,6 @@ El Registro Nacional de Abogados se llevará por Distritos Judiciales y con índ
 CAPÍTULO 2
 
 CONSULTORIOS JURÍDICOS
-
-ARTÍCULO
 
 ## art:2.2.7.2.1 — Requisitos
 
@@ -20137,8 +17597,6 @@ Si el consultorio tuviere más de cien (100) alumnos, deberá constar igualmente
 
 (Decreto 765 de 1971, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2 — Trámite de aprobación
 
 El funcionamiento de los consultorios deber ser aprobado por el La Sala Administrativa del Consejo Superior de Judicatura, previo el cumplimiento del siguiente trámite:
@@ -20148,8 +17606,6 @@ El funcionamiento de los consultorios deber ser aprobado por el La Sala Administ
 2 Recibida la solicitud por la Sala Administrativa del Consejo Superior de la Judicatura éste procederá a su estudio, y si la encontrare correcta, ordenará practicar visita al consultorio para verificar el cumplimiento de los requisitos señalados en el artículo anterior. Si de acuerdo con la documentación y la visita encontrare que se cumplen los requisitos exigidos por las disposiciones vigentes al momento de formularse la solicitud, le impartirá su aprobación, decisión que comunicará a la facultad respectiva, al Ministerio de Justicia y del Derecho y al Instituto Colombiano para el Fomento de la Educación Superior, ICFES.
 
 (Decreto 765 de 1971, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.7.2.3 — Práctica en el consultorio jurídico
 
@@ -20169,8 +17625,6 @@ CAPÍTULO 1
 
 Disposiciones transitorias para la puesta en funcionamiento de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición
 
-ARTÍCULO
-
 ## art:2.2.8.1.1 — Del Primer Certificado de Disponibilidad Presupuestal
 
 El primer certificado de disponibilidad presupuestal para proveer los cargos de Presidente, Comisionados y Secretario General de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición será expedido por el jefe de presupuesto o quien haga sus veces del Ministerio de Justicia y del Derecho, con cargo a los recursos de dicha Comisión.
@@ -20179,8 +17633,6 @@ Hasta tanto el Secretario General de la Comisión para el Esclarecimiento de la 
 
 (Decreto 761 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.1.2 — 1.2
 
 De la posesión de los Comisionados y del Secretario General de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición. Los comisionados de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición, incluyendo el presidente de la misma, como parte del SIVJRNR, se posesionarán ante el Presidente de la República para dar inicio al ejercicio formal de sus funciones y designarán en Sala Plena al Secretario General de la entidad, quien asumirá las funciones y competencias asignadas mediante el Decreto Ley 588 de 2017.
@@ -20188,8 +17640,6 @@ De la posesión de los Comisionados y del Secretario General de la Comisión par
 PARÁGRAFO . La vinculación de los comisionados y de los demás servidores de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición se hará conforme a las normas del derecho privado.
 
 (Decreto 761 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.1.3 — Bienes y servicios de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición
 
@@ -20207,8 +17657,6 @@ CAPÍTULO 1
 
 Disposiciones transitorias para la implementación de la Ley 1908 de 2018 relacionada con la investigación y judicialización de organizaciones criminales, se adoptan medidas para su sujeción a la justicia
 
-ARTÍCULO
-
 ## art:2.2.9.1.1 — Recepción y verificación formal de las solicitudes de sujeción
 
 El Gobierno Nacional a través del Ministerio de Justicia y del Derecho recibirá las solicitudes de sujeción colectiva suscritas por el representante o delegado de los Grupos Armados Organizados, así como de las actas de sujeción individual que hagan sus miembros, y verificará el cumplimiento formal de los requisitos de conformidad con los artículos 35 y 39 de la Ley 1908 de 2018.
@@ -20218,8 +17666,6 @@ PARÁGRAFO 1. El Ministerio de Justicia y del Derecho será el encargado de reco
 PARÁGRAFO 2. El Ministerio de Justicia y del Derecho comunicará de la solicitud de sujeción al Consejo de Seguridad Nacional para que de conformidad a lo dispuesto en el parágrafo del artículo 2 de la Ley 1908 de 2018 manifieste si se trata de un Grupo Armado Organizado.
 
 (Decreto 1455 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.2 — Admisión o rechazo de las solicitudes de sujeción
 
@@ -20235,23 +17681,17 @@ PARÁGRAFO 2. El Ministerio de Justicia y del Derecho consolidará y registrará
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.3 — Publicación del inicio del proceso de sujeción
 
 Una vez sea admitida la solicitud de sujeción colectiva y las actas de sujeción individual, el Ministerio de Justicia y del Derecho dará a conocer a la comunidad y a las víctimas, por cualquier medio idóneo, el inicio del proceso de sujeción a la justicia del Grupo Armado Organizado.
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.4 — Delegación del Gobierno Nacional
 
 De conformidad con lo dispuesto en el artículo 36 de la Ley 1908 de 2018, el delegado del Gobierno Nacional para realizar los acercamientos con las organizaciones es el Ministro de Justicia y del Derecho. Lo anterior, sin perjuicio de que el Presidente de la República mediante acto administrativo nombre uno o varios delegados para desarrollar las funciones establecidas en el artículo 37 de la Ley 1908.
 
 (Decreto 1455 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.5 — Zonas y fechas de reunión
 
@@ -20262,8 +17702,6 @@ El Consejo de Seguridad Nacional, recibidas fas propuestas, de que trata el inci
 El Gobierno Nacional, por conducto del Ministerio de Defensa Nacional, definirá las zonas y las fechas de reunión, atendiendo a las recomendaciones presentadas, en todo caso, las zonas de reunión deberán cumplir con los requisitos del artículo 40 de la Ley 1908 de 2018.
 
 (Decreto 1455 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.6 — Seguridad en las zonas de reunión
 
@@ -20279,23 +17717,17 @@ PARÁGRAFO 2. La Policía Nacional, dentro de sus roles y misiones, a través de
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.7 — Coordinación
 
 El Gobierno Nacional, a través del Ministerio de Justicia y de Derecho, será el encargado de coordinar con las entidades involucradas todo lo necesario para el correcto desarrollo del proceso de sujeción colectiva de los Grupos Armados Organizados.
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.8 — Gerencia de las zonas de reunión
 
 La gerencia, entendida como la coordinación con las instituciones competentes para la prestación de los servicios y ejecución de las actividades a desarrollarse al interior de las zonas de reunión estará a cargo de un delegado del Presidente de la República.
 
 (Decreto 1455 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.9 — Construcción, adecuación, dotación y logística de las zonas de reunión
 
@@ -20307,8 +17739,6 @@ PARÁGRAFO 2. El Gobierno Nacional, por conducto de la Unidad de Servicios Penit
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.10 — Suspensión de órdenes de captura
 
 Una vez definidas las zonas y fechas de reunión, el Ministerio de Justicia y del Derecho remitirá el listado de los miembros admitidos en el proceso de sujeción colectiva al Consejo de Seguridad Nacional, quien solicitará a la Fiscalía General de la Nación la suspensión de las órdenes de captura expedidas o que hayan de expedirse en contra de dichas personas.
@@ -20318,8 +17748,6 @@ La suspensión de las órdenes de captura tendrá aplicación exclusiva en las z
 PARÁGRAFO . La Policía Nacional, a través de la Dirección de Investigación Criminal e INTERPOL, procederá a actualizar la base de datos de órdenes de captura y registrará la suspensión de la misma dispuesta por la Fiscalía General de la Nación.
 
 (Decreto 1455 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.11 — Salud
 
@@ -20337,8 +17765,6 @@ PARÁGRAFO 3. En las zonas de reunión se podrán implementar medidas transitori
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.12 — Recepción de elementos ilícitos
 
 El Ministerio de Defensa Nacional, como delegado del Gobierno Nacional, recibirá en las zonas de reunión los elementos ilícitos en poder de los miembros del Grupo Armado Organizado, para lo cual emitirá los lineamientos correspondientes.
@@ -20349,8 +17775,6 @@ PARÁGRAFO . El Ministerio de Defensa Nacional, en coordinación con la Fiscalí
 
 (Decreto 1455 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.13 — Verificación de la identidad de las personas que ingresan a las zonas de reunión
 
 El Ministerio de Defensa Nacional, en coordinación con las autoridades competentes, identificará las personas que lleguen a las zonas de reunión.
@@ -20360,8 +17784,6 @@ La identificación tendrá por objeto establecer preliminarmente que quienes se 
 Esta identificación deberá actualizarse periódicamente, y reportarse al Ministerio de Justicia y del Derecho y a la Fiscalía General de la Nación, indicando las novedades que se presenten.
 
 (Decreto 1455 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.14 — Asignaciones presupuestales
 
@@ -20377,8 +17799,6 @@ PARTE I
 
 Derogatoria y Vigencia
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al Sector Justicia y del Derecho que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -20391,8 +17811,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -20404,91 +17822,3 @@ Dado en Bogotá, D. C., a los 26 días del mes de mayo de 2015.
 YESID REYES ALVARADO
 
 MINISTRO DE JUSTICIA Y DEL DERECHO
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

@@ -7,7 +7,7 @@ ramas: [laboral, seguridad-social, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — El Ministerio del Trabajo
@@ -22,15 +22,11 @@ El Ministerio de Trabajo fomenta políticas y estrategias para la generación de
 
 ÓRGANOS SECTORIALES DE ASESORÍA Y COORDINACIÓN
 
-ARTÍCULO
-
 ## art:1.1.2.1 — Comisión permanente de concertación de políticas salariales y laborales
 
 De conformidad con lo previsto en el artículo 1 de la Ley 278 de 1996, la comisión permanente a que se refiere el artículo 56 de la Constitución Política se denominará "comisión permanente de concertación de políticas salariales y laborales". Estará adscrita al Ministerio de Trabajo y Seguridad Social y contará con una sede principal en la capital de la República y unas subcomisiones departamentales. También podrán, crearse, cuando las circunstancias así lo demanden, comités asesores por sectores económico.
 
 (Ley 278 de 1996, art 1)
-
-ARTÍCULO
 
 ## art:1.1.2.2 — Comisión lntersectorial del Régimen de Prima Media con Prestación Definida del Sistema General de Pensiones
 
@@ -38,23 +34,17 @@ La Comisión lntersectorial del Régimen de Prima Media con Prestación Definida
 
 (Decreto 2380 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:1.1.2.3 — Comisión lntersectorial para la Gestión del Recurso Humano
 
 La Comisión lntersectorial para la Gestión del Recurso Humano tiene a su cargo la orientación y articulación de las políticas, planes, programas y acciones necesarias para la ejecución de la Estrategia Nacional de Gestión del Recurso Humano.
 
 (Decreto 1953 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.2.4 — Comisión lntersectorial del Sector de la Economía Solidaria
 
 La Comisión lntersectorial del Sector de la Economía Solidaria tiene como fin la coordinación de las acciones de las entidades públicas que formulan e implementan la política del sector de la Economía Solidaria y armonizar la regulación y políticas sectoriales pertinentes.
 
 (Decreto 4672 de 2010, art. 1)
-
-ARTÍCULO
 
 ## art:1.1.2.5 — Comisión lntersectorial Para Promover la Formalización del Trabajo Decente en el Sector Público
 
@@ -64,15 +54,11 @@ La Comisión lntersectorial para Promover la Formalización del Trabajo Decente 
 
 (Ver Decreto 611 de 2018)
 
-ARTÍCULO
-
 ## art:1.1.2.6 — Consejo Nacional de Riesgos Laborales
 
 El Consejo Nacional de Riesgos Laborales es un organismo adscrito al Ministerio del Trabajo, de dirección del Sistema General de Riesgos Laborales, de carácter permanente, entre cuyas funciones se encuentran recomendar la formulación de las estrategias y programas para el Sistema General de Riesgos Laborales y aprobar el presupuesto general de gastos del Fondo de Riesgos Laborales.
 
 (Decreto Ley 1295 de 1994, arts. 69, 70)
-
-ARTÍCULO
 
 ## art:1.1.2.7 — Consejo Nacional de Mitigación del Desempleo
 
@@ -80,15 +66,11 @@ De conformidad con lo previsto en la Ley 1636 de 2013, el Consejo Nacional de Mi
 
 (Ley 1636 de 2013, art. 22)
 
-ARTÍCULO
-
 ## art:1.1.2.8 — Comisión de la Calidad de la Formación para el Trabajo - CCAFT
 
 La Comisión de la Calidad de la Formación para el Trabajo, "CCAFT", estará encargada de definir las políticas de operación, evaluación y control del Sistema de la Calidad de la Formación para el Trabajo.
 
 (Decreto 2020 de 2006, arts. 6 y 7)
-
-ARTÍCULO
 
 ## art:1.1.2.9 — Consejo Nacional de Economía Solidaria
 
@@ -96,15 +78,11 @@ El Consejo Nacional de Economía Solidaría (CONES) es un organismo autónomo y 
 
 (Decreto 1714 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.2.10 — Consejo Superior del Subsidio Familiar
 
 Como entidad asesora del Ministerio del Trabajo, en materia de subsidio familiar, créase el Consejo Superior Familiar.
 
 (Ley 21 de 1982, artículo 81)
-
-ARTÍCULO
 
 ## art:1.1.2.11 — Comité lnterinstitucional para la Erradicación del Trabajo Infantil y la Protección del Menor Trabajador
 
@@ -113,8 +91,6 @@ El Comité lnterinstitucional para la Erradicación del Trabajo Infantil y la Pr
 (Decreto 859 de 1995, arts. 1 y 3)
 
 FONDOS ESPECIALES
-
-ARTÍCULO
 
 ## art:1.1.3.1 — Fondo de Riesgos Laborales
 
@@ -128,15 +104,11 @@ SECTOR DESCENTRALIZADO
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Servicio Nacional de Aprendizaje - SENA
 
 El Servicio Nacional de Aprendizaje, SENA, es un establecimiento público del orden nacional con personería jurídica, patrimonio propio e independiente, y autonomía administrativa, adscrito al Ministerio del Trabajo. Está encargado de cumplir la función que corresponde al Estado de invertir en el desarrollo social y técnico de los trabajadores colombianos; ofreciendo y ejecutando la formación profesional integral para la incorporación y el desarrollo de las personas en actividades productivas que contribuyan al desarrollo social, económico y tecnológico del país.
 
 (Ley 119 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Unidad Administrativa Especial de Organizaciones Solidarias
 
@@ -146,8 +118,6 @@ Tiene como objetivo diseñar, adoptar, dirigir, coordinar y ejecutar los program
 
 (Decreto 4122 de 2011, arts. 1 y 3)
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Unidad Administrativa Especial del Servicio Púbico de Empleo
 
 La Unidad Administrativa. Especial del Servicio Público de Empleo es una entidad administrativa del orden nacional con personería jurídica, patrimonio propio, autonomía administrativa y financiera, adscrita al Ministerio del Trabajo, razón por la cual hace parte del Sector Administrativo del Trabajo.
@@ -156,15 +126,11 @@ La Unidad Administrativa Especial del Servicio Público de Empleo tiene por obje
 
 (Decreto 2521 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:1.2.1.4 — Superintendencia del Subsidio Familiar
 
 La Superintendencia del Subsidio Familiar es una entidad adscrita al Ministerio del Trabajo, que tiene a su cargo la supervisión de las cajas de compensación familiar, organizaciones y entidades recaudadoras y pagadoras del subsidio familiar en cuanto al cumplimiento de este servicio y sobre las entidades que constituyan o administren una o varias entidades sometidas a su vigilancia, con el fin de preservar la estabilidad, seguridad y confianza del sistema del subsidio familiar para que los servicios sociales a su cargo lleguen a la población de trabajadores afiliados y sus familias bajo los principios de eficiencia, eficacia, efectividad y solidaridad en los términos señalados en la ley.
 
 (Ley 25 de 1981, art. 1 y Decreto 2595 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:1.2.1.5 — Juntas Regionales y Nacional de Calificación de Invalidez
 
@@ -174,8 +140,6 @@ Las Juntas Regionales y Nacional de Calificación de invalidez son organismos de
 
 ENTIDADES VINCULADAS
 
-ARTÍCULO
-
 ## art:1.2.2.1 — Administradora Colombiana de Pensiones - COLPENSIONES
 
 La Administradora Colombiana de Pensiones - COLPENSIONES es una Empresa Industrial y Comercial del Estado organizada como entidad financiera de carácter especial, vinculada al Ministerio de Trabajo, para que ejerza las funciones señaladas en el Decreto 4121 de 2011 y en las disposiciones legales vigentes, con la finalidad de otorgar los derechos y beneficios establecidos por el sistema general de seguridad social consagrado en el artículo 48 de la Constitución Política.
@@ -184,23 +148,17 @@ La Administradora Colombiana de Pensiones - COLPENSIONES es una Empresa Industri
 
 ORGANISMOS DE ARTICULACIÓN SECTORIAL
 
-ARTÍCULO
-
 ## art:1.2.3.1 — De la conformación de la red de comités de seguridad y salud en el trabajo
 
 La red de comités de seguridad y salud en el trabajo, encabezada y liderada por el comité nacional de seguridad y salud en el trabajo, está conformada por la totalidad de los comités seccionales y locales de salud ocupacional, con el objeto de establecer las relaciones jerárquicas, garantizar el funcionamiento armónico, orientar y sistematizar la información y servir de canal informativo para el cabal funcionamiento de los comités de seguridad y salud en el trabajo en el territorio nacional y del sistema general de riesgos laborales.
 
 (Decreto 16 de 1997. art. 2)
 
-ARTÍCULO
-
 ## art:1.2.3.2 — Red Nacional de Formalización laboral
 
 La Red Nacional de Formalización laboral es el conjunto de actores, procesos, recursos, políticas y normas que, para realizar los postulados del trabajo decente y de la seguridad social para todos, ejecuta acciones en los campos de la promoción, la capacitación, la orientación, el acompañamiento, la intervención en la afiliación, el seguimiento y el control de los proyectos, estrategia y actividades orientadas a la formalización laboral de los trabajadores en Colombia incluyendo la vinculación al Sistema de Protección Social.
 
 (Decreto 567 de 2014, art 1)
-
-ARTÍCULO
 
 ## art:1.2.3.3 — Red Nacional de Observatorios Regionales del Mercado de Trabajo - Red Ormet
 
@@ -209,8 +167,6 @@ La Red Nacional de Observatorios Regionales del Mercado de Trabajo, que se denom
 (Decreto 1444 de 2014, art 1)
 
 FONDOS ESPECIALES
-
-ARTÍCULO
 
 ## art:1.2.4.1 — Fondo emprender - FE
 
@@ -228,13 +184,9 @@ DISPOSICIONES GENERALES
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad vigente del sector Trabajo, expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para para la cumplida ejecución de las leyes.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de Aplicación
 
@@ -250,8 +202,6 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES SOBRE EL CONTRATO INDIVIDUAL DE TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.1.1.1 — Renovación automática contratos mayores a 30 días
 
 Los contratos de trabajo cuya duración fuere superior a treinta (30) días e inferior a un (1) año se entenderán renovados por un término igual al inicialmente pactado, si antes de la fecha del vencimiento ninguna de las partes avisare por escrito a la otra la determinación de no prorrogarlo, con una antelación no inferior a treinta (30) días.
@@ -260,15 +210,11 @@ Estos contratos podrán prorrogarse hasta por tres (3) períodos iguales o infer
 
 (Decreto 1127 de 1991, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2 — Contratos iguales o inferiores a 30 días
 
 Los contratos de trabajo cuya duración sea igual o inferior a 30 días no requieren preaviso alguno para su terminación. No obstante, las partes, de común acuerdo, podrán pactar su prórroga en los términos previstos en el ordinal 2 del artículo 3 de la Ley 50 de 1990.
 
 (Decreto 1127 de 1991, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3 — Procedimiento terminación unilateral por rendimiento deficiente
 
@@ -280,19 +226,13 @@ Para dar aplicación al numeral 9) del artículo 7o. del Decreto 2351 de 1965, e
 
 3. Si el empleador no quedare conforme con las justificaciones del trabajador, así se lo hará saber por escrito dentro de los ocho (8) días siguientes.
 
-ARTÍCULO
-
 ## art:2.2.1.1.4 — Terminación del contrato por reconocimiento de pensión
 
 La justa causa para terminar el contrato de trabajo por reconocimiento al trabajador de la pensión de jubilación estando al servicio del empleador, sólo procederá cuando se trate de la pensión plena, de acuerdo con la ley, la convención, el pacto colectivo o el laudo arbitral.
 
-ARTÍCULO
-
 ## art:2.2.1.1.5 — Terminación del contrato por incapacidad de origen común superiora 180 días
 
 De acuerdo con el numeral 15) del artículo 7o. del Decreto 2351 de 1965, es justa causa para dar por terminado unilateralmente el contrato de trabajo por parte del empleador, la enfermedad contagiosa o crónica del trabajador, que no tenga carácter laboral, así como cualquier otra enfermedad o lesión que lo incapacite para el trabajo, cuya curación no haya sido posible durante ciento ochenta (180) días. El despido por esta causa no podrá efectuarse sino al vencimiento de dicho lapso, sin perjuicio de la obligación prevista en el artículo 16 del Decreto 2351 de 1965, cuando a ello haya lugar, y no exime al empleador de las prestaciones e indemnizaciones legales y convencionales derivadas de la enfermedad.
-
-ARTÍCULO
 
 ## art:2.2.1.1.6 — Cierre de empresa
 
@@ -300,21 +240,15 @@ ARTÍCULO
 
 2. Cuando previamente se compruebe ante el Ministerio del Trabajo que el empleador en forma ilegal ha retenido o disminuido colectivamente los salarios de los trabajadores, la cesación de actividades de éstos será imputable a aquel, y dará derecho a los trabajadores para reclamar los salarios correspondientes al tiempo de suspensión de labores.
 
-ARTÍCULO
-
 ## art:2.2.1.1.7 — Sanción disciplinaria al trabajador
 
 Antes de aplicarse una sanción disciplinaria, el empleador debe oír al trabajador inculpado, directamente, y si éste es sindicalizado deberá estar asistido de dos (2) representantes de la organización sindical a que pertenezca. No producirá efecto alguno la sanción disciplinaria impuesta con violación de este trámite.
-
-ARTÍCULO
 
 ## art:2.2.1.1.8 — Firma electrónica del contrato de trabajo
 
 El contrato individual de trabajo de que habla el artículo 39 del Código Sustantivo del Trabajo podrá ser firmado electrónicamente por cualquiera de las partes o por ambas. Se entenderá firmado el contrato por el empleador y por el trabajador, cuando cumpla las condiciones de firma electrónica o digital, establecidas en la Ley 527 de 1999 o en el Decreto 1074 de 2015 o en las disposiciones que los modifiquen, complementen o sustituyan.
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.9 — Requisitos del contrato de trabajo firmado electrónicamente
 
@@ -323,8 +257,6 @@ El contrato de trabajo firmado electrónicamente deberá cumplir con los requisi
 PARÁGRAFO . Para la celebración del contrato de trabajo firmado electrónicamente, el acuerdo sobre el uso del mecanismo de firma electrónica previsto en el Artículo 2.2.2.47.7 del Decreto Único Reglamentario 1074 de 2015, se regirá por lo señalado en el Artículo 2.2.1.1.13 del presente decreto y por las disposiciones adicionales que las partes encuentren procedente convenir en el contrato mismo.
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10 — Firmas
 
@@ -340,8 +272,6 @@ PARÁGRAFO 2. La firma electrónica tendrá los mismos efectos que la firma manu
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.11 — Provisión de medíos necesario para el uso de la firma electrónica
 
 En caso de que un empleador opte por la celebración del contrato de trabajo firmado electrónicamente, deberá proveer al trabajador de los medios necesarios para el uso de la firma electrónica, mediante desarrollos tecnológicos propios o contratados con terceros, siempre que cumplan con las condiciones previstas en el artículo 2.2.2.47.4 del Decreto Único Reglamentario 1074 de 2015 o la norma que lo modifique, complemente o sustituya.
@@ -349,8 +279,6 @@ En caso de que un empleador opte por la celebración del contrato de trabajo fir
 La imposibilidad de firmar electrónicamente un contrato individual de trabajo no será una barrera de acceso al empleo.
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.12 — Conservación y acceso al contrato de trabajo suscrito de firma electrónica
 
@@ -363,8 +291,6 @@ Adicionalmente, en los casos en que sea necesario, los empleadores deberán sumi
 Los empleadores garantizarán la gestión documental digital de los contratos de trabajo firmados electrónica o digitalmente protegiendo su autenticidad, integridad y disponibilidad, por tanto, los contratos de trabajo suscritos con firma digital o electrónica deberán estar disponibles para posterior consulta en el formato en el que han sido creados.
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.13 — Reglas para el uso de la firma electrónica
 
@@ -380,15 +306,11 @@ PARÁGRAFO . El empleador garantizará que el mecanismo utilizado para la firma 
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.14 — Tratamiento de datos personales
 
 En la aplicación del presente decreto se deberá dar pleno cumplimiento a las disposiciones contenidas en la Ley 1581 de 2012, o a las normas que la modifiquen, complementen o sustituyan, respecto a la protección y tratamiento de datos personales.
 
 (Adicionado por el Art. 1 del Decreto 526 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.15 — Inspección, vigilancia y control
 
@@ -404,8 +326,6 @@ SECCIÓN 1
 
 JORNADA Y TRABAJO SUPLEMENTARIO
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1 — Autorización para desarrollar trabajo suplementario
 
 1. Ni aún con el consentimiento expreso de los trabajadores, los empleadores podrán, sin autorización especial del Ministerio del Trabajo, hacer excepciones a la jornada máxima legal de trabajo.
@@ -418,23 +338,17 @@ ARTÍCULO
 
 (Decreto 995 de 1968, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2 — Registro del trabajo suplementario
 
 En las autorizaciones que se concedan se exigirá al empleador llevar diariamente, por duplicado, un registro del trabajo suplementario de cada trabajador, en el que se especifique: nombre de éste, edad, sexo, actividad desarrollada, número de horas laboradas, con indicación de si son diurnas o nocturnas, y la liquidación de la sobre-remuneración correspondiente. El duplicado de tal registro será entregado diariamente por el empleador al trabajador, firmado por aquel o por su representante. Si el empleador no cumpliere con este requisito se le revocará la autorización.
 
 (Decreto 995 de 1968, art.2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3 — Excepciones en casos especiales
 
 El límite máximo de horas de trabajo previsto en el artículo i 61 del Código Sustantivo del Trabajo, puede ser elevado por orden del empleador y sin permiso del Ministerio del Trabajo, por razón de fuerza mayor, caso fortuito, de amenazar u ocurrir algún accidente, o cuando sean indispensables trabajos de urgencia que deban efectuarse en las máquinas o en la dotación de la empresa; pero únicamente se permite el trabajo en la medida necesaria para evitar que la marcha normal del establecimiento sufra una perturbación grave. El empleador debe anotar en un registro ciñéndose a las indicaciones anotadas en el artículo anterior, las horas extraordinarias efectuadas de conformidad con el presente artículo.
 
 (Decreto 995 de 1968, art.3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4 — Actividades ininterrumpidas
 
@@ -446,8 +360,6 @@ SECCIÓN 2
 
 VACACIONES
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Indicación fecha para tomar las vacaciones
 
 1. La época de las vacaciones debe ser señalada por el empleador a más tardar dentro del año siguiente y ellas deben ser concedidas oficiosamente o a petición del trabajador, sin perjudicar el servicio y la efectividad del descanso.
@@ -457,8 +369,6 @@ ARTÍCULO
 3. Todo empleador debe llevar un registro especial de vacaciones, en el que anotará la fecha en que ha ingresado al establecimiento cada trabajador, la fecha en que toma sus vacaciones anuales y en que las termina y la remuneración recibida por las mismas.
 
 (Decreto 995 de 1968, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2 — Acumulación
 
@@ -472,8 +382,6 @@ ARTÍCULO
 
 (Decreto 995 de 1968, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3 — Prohibición acumulación para menores de edad
 
 1. Quedan prohibidas la acumulación y la compensación, aún parcial de las vacaciones de los trabajadores menores de diez y ocho (18) años durante la vigencia del contrato de trabajo, quienes deben disfrutar de la totalidad de sus vacaciones en tiempo, durante el año siguiente a aquel en que se hayan causado.
@@ -486,8 +394,6 @@ SECCIÓN 3
 
 ACTIVIDADES RECREATIVAS, CULTURALES O DE CAPACITACIÓN DENTRO DE LA JORNADA DE TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1 — Acumulación de horas para actividades recreativas, culturales o de capacitación
 
 Para efectos de dar cumplimiento a lo establecido en el artículo 21 de la Ley 50 de 1990, las dos (2) horas de la jornada de cuarenta y ocho (48) semanales a que esta norma se refiere, podrán acumularse hasta por un (1) año.
@@ -495,8 +401,6 @@ Para efectos de dar cumplimiento a lo establecido en el artículo 21 de la Ley 5
 En todo caso, los trabajadores tendrán derecho a un número de horas equivalente a dos (2) semanales en el período del programa respectivo dentro de la jornada de trabajo.
 
 (Decreto 1127de 1991, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2 — Programas recreativos, culturales o de capacitación
 
@@ -506,8 +410,6 @@ Dichos programas estarán dirigidos a la realización de actividades recreativas
 
 (Decreto 1127 de 1991, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3 — Obligación de asistir
 
 La asistencia de los trabajadores a las actividades programadas por el empleador es de carácter obligatorio.
@@ -515,8 +417,6 @@ La asistencia de los trabajadores a las actividades programadas por el empleador
 Los empleadores podrán organizar las actividades por grupos de trabajadores en número tal que no se vea afectado el normal funcionamiento de la empresa.
 
 (Decreto 1127de 1991, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.4 — Ejecución de los programas
 
@@ -528,13 +428,9 @@ CAPÍTULO 3
 
 CESANTÍAS
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Base de liquidación cesantías
 
 1. Para liquidar el auxilio de cesantía se toma como base el último salario mensual devengado por el trabajador, siempre que no haya tenido variación en los tres (3) últimos meses. En el caso contrario y en el de los salarios variables, se tomará como base el promedio de lo devengado en el último año de servicio o en todo el tiempo servido si fuere menor de un (1) año.
-
-ARTÍCULO
 
 ## art:2.2.1.3.2 — Cesantías parciales
 
@@ -551,8 +447,6 @@ Los trabajadores podrán, igualmente, exigir el pago parcial de sus auxilios de 
 Aprobados debidamente los planes generales de vivienda de los empleadores o de los trabajadores, no se requerirá nueva autorización para cada pago de liquidaciones parciales del auxilio de cesantía o préstamos sobre estas.
 
 (Decreto 2076 de 1967, art.1)
-
-ARTÍCULO
 
 ## art:2.2.1.3.3 — Destinación de las cesantías parciales
 
@@ -584,8 +478,6 @@ PARÁGRAFO 3. Cuando se trate de retiros para financiación de vivienda por part
 
 (Parágrafo adicionado por el Art. 1 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4 — Intereses de cesantías
 
 Todo empleador obligado a pagar cesantía a sus trabajadores, les reconocerá y pagará intereses del 12% anual sobre los saldos que en 31 de diciembre de cada año, o en las fechas de retiro definitivo del trabajador, o de liquidación parcial de cesantía, tengan a su favor por concepto de cesantía.
@@ -595,8 +487,6 @@ Los intereses de que trata el inciso anterior deberán pagarse en el mes de ener
 En todo caso, se procederá en forma que no haya lugar a liquidar intereses de intereses.
 
 (Decreto 116 de 1976, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5 — Liquidación y pago de intereses de cesantías
 
@@ -610,15 +500,11 @@ En la misma forma se procederá cuando el trabajador se retire dentro del año e
 
 (Decreto 116 de 1976, art.2)
 
-ARTÍCULO
-
 ## art:2.2.1.3.6 — Pago de los intereses en caso de muerte del trabajador
 
 En caso de muerte los intereses causados se pagarán a las mismas personas a quienes corresponda el auxilio de cesantía del trabajador.
 
 (Decreto 116 de 1976, art.3)
-
-ARTÍCULO
 
 ## art:2.2.1.3.7 — Saldos básicos para el cálculo de intereses
 
@@ -626,15 +512,11 @@ Para determinar los saldos básicos del cálculo de los intereses, se aplicarán
 
 (Decreto 116 de 1976, art.4)
 
-ARTÍCULO
-
 ## art:2.2.1.3.8 — Indemnización por no pago de los intereses
 
 Si el empleador no pagare los intereses dentro de los plazos señalados en el presente capítulo, deberá pagar al trabajador, a título de indemnización y por cada vez que incumpla, una suma adicional igual a dichos intereses, salvo los casos de retención autorizados por la ley o convenidos por las partes.
 
 (Decreto 116 de 1976, art.5)
-
-ARTÍCULO
 
 ## art:2.2.1.3.9 — Información al trabador respecto a las cesantías
 
@@ -654,23 +536,17 @@ Los funcionarios del Ministerio del Trabajo investidos de la función de policí
 
 (Decreto 116 de 1976, art.
 
-ARTÍCULO
-
 ## art:2.2.1.3.11 — Acogida voluntaria régimen especial de cesantías
 
 Los trabajadores vinculados mediante contratos de trabajo celebrados con anterioridad al 1 de enero de 1991 que, de conformidad con lo estipulado en el parágrafo del artículo 98 de la Ley 50 de 1990, se acojan voluntariamente al régimen especial del auxilio de cesantía previsto en los artículos 99 y siguientes de la misma ley, comunicarán por escrito al respectivo empleador la fecha a partir de la cual se acogen a dicho régimen.
 
 (Decreto 1176 de 1991, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.3.12 — Liquidación en caso de acogida al régimen especial de cesantía
 
 Recibida la comunicación de que trata el artículo anterior, el empleador deberá efectuar la liquidación definitiva del auxilio de cesantía, junto con sus intereses legales, hasta la fecha señalada por el trabajador, sin que por ello se entienda terminado el contrato de trabajo.
 
 (Decreto 1176 de 1991, art.2)
-
-ARTÍCULO
 
 ## art:2.2.1.3.13 — Consignación cesantías y pago intereses de cesantías
 
@@ -682,15 +558,11 @@ PARÁGRAFO . La liquidación definitiva del auxilio de cesantía de que trata el
 
 (Decreto 1176 de 1991, art.3)
 
-ARTÍCULO
-
 ## art:2.2.1.3.14 — Irrevocabilidad acogida a régimen de cesantías
 
 La decisión de acogerse al régimen especial de cesantía previsto en los artículos 99 y siguientes de la Ley 50 de 1990, será irrevocable.
 
 (Decreto 1176 de 1991, art.5)
-
-ARTÍCULO
 
 ## art:2.2.1.3.15 — Retiro de cesantías por terminación del contrato de trabajo
 
@@ -702,8 +574,6 @@ PARÁGRAFO . En el caso de los empleados públicos o trabajadores oficiales afil
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.16 — Entrega de cesantías por muerte del trabajador
 
 Terminado el contrato de trabajo por muerte del trabajador, el responsable del pago de las cesantías entregará las sumas correspondientes con sujeción a lo previsto en los artículos 212 y concordantes del Código Sustantivo del Trabajo.
@@ -711,8 +581,6 @@ Terminado el contrato de trabajo por muerte del trabajador, el responsable del p
 El respectivo pago se deberá realizar dentro de los cinco (5) días hábiles siguientes a la fecha en la cual se haya acreditado el cumplimiento de todos los requisitos señalados por las normas vigentes para el retiro de las cesantías.
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.3.17 — Retiro en caso de sustitución de empleadores
 
@@ -722,8 +590,6 @@ El responsable del pago deberá realizarlo dentro de los cinco (5) días hábile
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.18 — Retiro en caso de prestar servicio militar
 
 En caso de llamamiento ordinario o convocatoria de reservas para prestar el servicio militar, el trabajador podrá retirar el auxilio de cesantía causado hasta la fecha de la suspensión del contrato, de conformidad con lo dispuesto en el artículo 255 del Código Sustantivo del Trabajo. Para tal efecto, el trabajador deberá presentar la solicitud correspondiente ante el responsable del pago del auxilio de cesantías presentando prueba sumaria de su llamamiento ordinario o convocatoria de reservas para prestar el servicio militar.
@@ -731,8 +597,6 @@ En caso de llamamiento ordinario o convocatoria de reservas para prestar el serv
 El responsable del pago deberá realizarlo dentro de los cinco (5) días hábiles siguientes a la fecha en la cual se haya acreditado el cumplimiento de todos los requisitos señalados por las normas vigentes para el retiro de las cesantías.
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.3.19 — Retiro parcial para estudio
 
@@ -754,15 +618,11 @@ PARÁGRAFO 3. Cuando se trate de solicitudes presentadas ante el Fondo Nacional 
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.20 — Incumplimiento del término para el pago de las cesantías
 
 En caso de incumplimiento del término para el desembolso por parte del empleador, del Fondo de Cesantías o del Fondo Nacional del Ahorro, el ejercicio de la inspección, vigilancia y control se adelantará en los términos señalados en la ley, sin perjuicio de las funciones que oficiosamente deban realizar las autoridades competentes.
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.3.21 — Retiro parcial para ahorro programado o seguro educativo
 
@@ -773,8 +633,6 @@ Los Fondos de Cesantías, debidamente constituidos y reconocidos, estarán habil
 Las figuras de ahorro programado o seguro educativo serán diseñadas y estructuradas por entidades legalmente constituidas en Colombia que tengan autorizado los productos antes descritos.
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.3.22 — Requisitos para retiro parcial para ahorro programado o seguro educativo
 
@@ -792,23 +650,17 @@ Para el pago parcial con destino a las entidades que ofrezcan el producto de aho
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.23 — Retiro parcial de cesantías en el Fondo Nacional del Ahorro para ahorro programado o seguro educativo
 
 El afiliado al Fondo Nacional del Ahorro por concepto de cesantías podrá retirar anticipadamente las sumas abonadas por concepto de cesantías para destinarlas al pago de educación superior propia, de su cónyuge, compañero permanente o de sus hijos, a través de la figura de ahorro programado o seguro educativo, según su preferencia y capacidad, previo cumplimiento de los requisitos establecidos en el artículo 2.2.1.3.22 del presente Decreto, sin perjuicio de los gravámenes o limitaciones que existan en normas especiales sobre la disponibilidad de esos recursos.
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.24 — Retiro para acciones
 
 Las personas naturales podrán retirar sus cesantías acumuladas con el objeto de adquirir acciones de propiedad del Estado, en los términos y condiciones establecidas en la Ley 226 de 1995. El Fondo de Cesantías o el Fondo Nacional del Ahorro según sea el caso, deberá liquidar y entregar los recursos de cesantías en las condiciones establecidas en el programa de enajenación respectivo, dentro de los cinco (5) días hábiles siguientes a la fecha en la cual se haya presentado debidamente la solicitud.
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.3.25 — Término de traslado
 
@@ -820,8 +672,6 @@ PARÁGRAFO . Lo anterior sin perjuicio de lo previsto en el inciso 4 del artícu
 
 (Adicionado por el Art. 2 del Decreto 1562 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.3.26 — Virtualización de trámites
 
 Los tramites referidos en el presente Capítulo se podrán adelantar a través de los canales virtuales habilitados por el Fondo de Cesantías o el Fondo Nacional del Ahorro"
@@ -832,8 +682,6 @@ CAPÍTULO 4
 
 Calzado y Overoles para trabajadores
 
-ARTÍCULO
-
 ## art:2.2.1.4.1 — Calzado y vestido de labor
 
 Para efectos de la obligación consagrada en el artículo 230 del Código Sustantivo del Trabajo, se considera como calzado y vestido de labor el que se requiere para desempeñar una función o actividad determinada.
@@ -842,23 +690,17 @@ El overol o vestido de trabajo de que trata el artículo 230 del Código Sustant
 
 (Decreto 982 de 1984, art.1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2 — Favorabilidad respecto a la dotación de calzado y vestido
 
 Cuando la convención o pacto colectivo u arbitral, contrato sindical, contratado individual o prestación igual o similar a la señalada en el artículo 10 de la Ley 11 de 1984, se aplicara integralmente la más favorable al trabajador, de acuerdo a lo señalado en el artículo 21 del Código Sustantivo del Trabajo.
 
 (Decreto 982 de 1984, art.2)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3 — Prohibición de exigencia simultánea
 
 De ninguna manera podrán exigirse independientemente las obligaciones contenidas en el artículo anterior y las contempladas en el artículo 7o. de la Ley 11 de 1984.
 
 (Decreto 982 de 1984, art.3)
-
-ARTÍCULO
 
 ## art:2.2.1.4.4 — Eximente para proporcionar elementos por no uso de los mismos
 
@@ -872,15 +714,11 @@ CAPÍTULO 5
 
 Teletrabajo
 
-ARTÍCULO
-
 ## art:2.2.1.5.1 — Objeto y ámbito de aplicación
 
 Las normas contenidas en el presente capítulo tienen por objeto establecer las condiciones laborales especiales del teletrabajo que regirán las relaciones entre empleadores y teletrabajadores y que se desarrolle en el sector público y privado en relación de dependencia.
 
 (Decreto 884 de 2012, art.1)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2 — Teletrabajo y teletrabajador
 
@@ -889,8 +727,6 @@ Para efectos del presente capítulo el teletrabajo es una forma de organización
 El teletrabajador es la persona que en el marco de la relación laboral dependiente, utiliza las tecnologías de la información y comunicación como medio o fin para realizar su actividad laboral fuera del local del empleador, en cualquiera de las formas definidas por la ley.
 
 (Decreto 884 de 2012, art.2)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3 — Contrato o vinculación de teletrabajo
 
@@ -908,8 +744,6 @@ El contrato laboral o acto administrativo de vinculación que se genere en esta 
 
 (Artículo MODIFICADO por el Art. 1 del decreto 1227 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4 — Igualdad de trato
 
 El empleador debe promover la igualdad de trato en cuanto a remuneración, capacitación, formación, acceso a mejores oportunidades laborales y demás derechos fundamentales laborales, entre teletrabajadores y demás trabajadores de la empresa privada o entidad pública.
@@ -922,15 +756,11 @@ La implementación del teletrabajo no requerirá adición al Reglamento Interno 
 
 (Artículo MODIFICADO por el Art. 1 del decreto 1227 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.1.5.6 — Manuales de funciones de las entidades públicas
 
 Para los servidores públicos las entidades deberán adaptar los manuales de funciones y competencias laborales, con el fin de permitir y facilitar la implementación del teletrabajo como una forma de organización laboral.
 
 (Decreto 884 de 2012, art.6)
-
-ARTÍCULO
 
 ## art:2.2.1.5.7 — Aportes al Sistema de Seguridad Social Integral
 
@@ -939,8 +769,6 @@ Los teletrabajadores deben estar afiliados al Sistema de Seguridad Social Integr
 Los teletrabajadores en relación de dependencia, durante la vigencia de la relación laboral, deben ser afiliados por parte del empleador al Sistema de Seguridad Social, Salud, Pensiones y Riesgos Laborales, de conformidad con las disposiciones contenidas en la Ley 100 de 1993 y las normas que la modifiquen, adicionen o sustituyan o las disposiciones que regulen los regímenes especiales, así como a las Cajas de Compensación Familiar en los términos y condiciones de la normatividad que regula dicha materia.
 
 (Decreto 884 de 2012, art.7)
-
-ARTÍCULO
 
 ## art:2.2.1.5.8 — 5.8
 
@@ -998,8 +826,6 @@ El teletrabajador tiene las siguientes obligaciones:
 
 (Artículo MODIFICADO por el Art. 1 del decreto 1227 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.1.5.9 — Obligaciones de las Administradoras de Riesgos Laborales
 
 Las Administradoras de Riesgos Laborales tienen las siguientes obligaciones:
@@ -1024,8 +850,6 @@ Las demás obligaciones señaladas en el artículo 85 del Decreto - Ley 1295 de 
 
 (Artículo MODIFICADO por el Art. 1 del decreto 1227 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.1.5.10 — Auxilio de transporte, horas extras, dominicales y festivos para los teletrabajadores
 
 Cuando las actividades laborales no demanden gastos de movilidad al teletrabajador, no habrá lugar al auxilio de transporte.
@@ -1034,15 +858,11 @@ Cuando el teletrabajo sea ejecutado donde sea verificable el tiempo laborado y e
 
 (Decreto 884 de 2012, art.10)
 
-ARTÍCULO
-
 ## art:2.2.1.5.11 — Evaluación del teletrabajador
 
 Para los empleados públicos la Comisión Nacional del Servicio Civil deberá adoptar un instrumento que permita medir el desempeño laboral del teletrabajador, para los fines previstos en las disposiciones vigentes.
 
 (Decreto 884 de 2012, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.5.12 — Red Nacional de Fomento al Teletrabajo
 
@@ -1055,8 +875,6 @@ El Ministerio del Trabajo como Coordinador General de la Red Nacional de Fomento
 3. Fomentará la posibilidad que las empresas adopten el contrato de teletrabajo, para las mujeres antes de entrar a licencia de maternidad y durante la etapa de lactancia, con el ánimo de flexibilizar el sistema y fomentar la equidad de género en el ámbito laboral.
 
 (Decreto 884 de 2012, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.5.13 — Acciones del Ministerio de Tecnologías de la Información y las Comunicaciones
 
@@ -1071,8 +889,6 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones trabajará
 4. Apoyar al Ministerio del Trabajo en la formulación de planes y programas que incentiven la implementación de prácticas de teletrabajo.
 
 (Decreto 884 de 2012, art.13)
-
-ARTÍCULO
 
 ## art:2.2.1.5.14 — Tecnologías de la Información y las Comunicaciones para el teletrabajo
 
@@ -1198,15 +1014,11 @@ SECCIÓN 1
 
 CONDUCTORES DEL SERVICIO PÚBLICO DE TRANSPORTE TERRESTRE AUTOMOTOR INDIVIDUAL DE PASAJEROS EN VEHÍCULOS TAXI
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.1 — Objeto
 
 Las normas contenidas en la presente sección tienen por objeto adoptar medidas para garantizar el cumplimiento de las obligaciones establecidas en el artículo 34 de la Ley 336 de 1996, respecto del acceso universal a la seguridad social de los conductores de los equipos destinados al Servicio Público de Transporte Terrestre Automotor Individual de Pasajeros en Vehículos Taxi y facilitar el cumplimiento de los estándares de servicio requeridos por el ordenamiento jurídico.
 
 (Decreto 1047 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.2 — Seguridad social para conductores
 
@@ -1214,15 +1026,11 @@ Los conductores de los equipos destinados al Servicio Público de Transporte Ter
 
 (Decreto 1047 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.3 — Normativa aplicable y Riesgo Ocupacional
 
 La afiliación y pago de la cotización a la seguridad social de los conductores de servicio público de transporte terrestre automotor individual de pasajeros en vehículos tipo taxi, se regirá por las normas generales establecidas para el Sistema General de Seguridad Social. El riesgo ocupacional de los conductores, para efectos del Sistema General de Riesgos Laborales, se clasifica en el nivel cuatro (IV).
 
 (Decreto 1047 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.4 — Requisitos
 
@@ -1232,15 +1040,11 @@ PARÁGRAFO . Las entidades administradoras del Sistema de Riesgos Laborales, no 
 
 (Decreto 1047 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.5 — PILA
 
 El Ministerio de Salud y Protección Social expedirá las disposiciones para actualizar en lo necesario, la Planilla Integrada de Liquidación de Aportes (PILA) y permitir la identificación en ella de los conductores cubiertos por las normas del presente capítulo.
 
 (Decreto 1047 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.6 — Inspección, vigilancia y control
 
@@ -1252,23 +1056,17 @@ SECCIÓN 2
 
 MANO DE OBRA LOCAL A PROYECTOS DE EXPLORACIÓN Y PRODUCCIÓN DE HIDROCARBUROS
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.1 — Objeto
 
 La presente sección tiene por objeto establecer medidas especiales con el propósito de facilitar y fortalecer la contratación de mano de obra local en los municipios en los que se desarrollen proyectos de exploración y producción de hidrocarburos.
 
 (Decreto 1668 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.2 — Alcance
 
 Las medidas previstas en la presente sección aplicaran en todos los municipios donde se desarrollen proyectos de exploración y producción de hidrocarburos y cobijaran a todos los empleadores que vinculen personal a los mismos.
 
 (Decreto 1668 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.2.3 — Definiciones
 
@@ -1288,8 +1086,6 @@ Para el caso de perfiles no estandarizados, serán considerados como calificados
 
 (Decreto 1668 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.4 — Priorización en la contratación de mano de obra local
 
 La totalidad de la mano de obra no calificada contratada para prestar sus servicios en proyectos de exploración y producción de hidrocarburos, en principio, será residente en el área de influencia del proyecto de exploración y producción de hidrocarburos.
@@ -1303,8 +1099,6 @@ Cuando el proyecto se encuentre en ejecución a la entrada en vigencia de las pr
 PARÁGRAFO 2. Para efectos de calcular los porcentajes de contratación de mano de obra se incluirán las vacantes de los cargos a que se refiere el parágrafo 3 del artículo 2.2.6.1.2.12. del presente Decreto.
 
 (Decreto 1668 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.2.5 — Proceso de priorización de mano de obra local
 
@@ -1326,15 +1120,11 @@ PARÁGRAFO . Para efectos del presente artículo el empleador registrará sus va
 
 (Decreto 1668 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.6 — Procesos a cargo de los prestadores
 
 La Unidad del Servicio Público de Empleo establecerá a través de resolución las funcionalidades y procesos que deberán implementar los prestadores del Servicio Público de Empleo para cumplir con la presente sección
 
 (Decreto 1668 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.2.7 — Obligaciones de empleadores
 
@@ -1356,8 +1146,6 @@ PARÁGRAFO 2. Las empresas del sector de hidrocarburos podrán coadyuvar a los p
 
 (Decreto 1668 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.8 — Seguimiento, vigilancia y control
 
 Las empresas operadoras de contratos celebrados con la Agencia Nacional de Hidrocarburos -ANH- o contratos de asociación suscritos con Ecopetrol S.A., harán seguimiento a la vinculación de mano de obra local por parte de sus contratistas y, de forma conjunta con estos, reportarán semestralmente información relacionada con
@@ -1378,8 +1166,6 @@ PARÁGRAFO 3. La información de los numerales 1 y 2 del presente artículo se p
 
 (Decreto 1668 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.9 — Reportes
 
 La Unidad del Servicio Público de Empleo rendirá informe semestral al Ministerio del Trabajo sobre la forma en que se implementen las medidas establecidas en esta sección.
@@ -1389,8 +1175,6 @@ La Unidad del Servicio Público de Empleo rendirá informe semestral al Minister
 SECCIÓN 3
 
 NORMAS LABORALES RELACIONADAS CON DETERMINADOS TRABAJADORES EMPLEADOS A BORDO DE BUQUES DE BANDERA COLOMBIANA EN SERVICIO INTERNACIONAL
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.1 — Campo de aplicación
 
@@ -1416,8 +1200,6 @@ Definiciones. Para efectos de la presente sección, a la gente de mar se le apli
 
 (Decreto 1015 de 1995, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.2 — Contrato de enrolamiento
 
 Es aquel por el cual una persona que pertenezca a la clasificación de gente de mar, se obliga a prestar un servicio personal en un buque bajo la continua dependencia o subordinación del empleador y mediante remuneración.
@@ -1430,15 +1212,11 @@ Tal como lo dispone el Decreto-Ley 2324 de 1984, en las naves de matrícula colo
 
 (Decreto 1015 de 1995, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.3 — Competencia jurisdiccional
 
 Se entenderá por no escritas en el contrato las cláusulas por las que las partes convengan de antemano en separarse de las reglas normales de la competencia jurisdiccional, salvo lo dispuesto en el Código Sustantivo del Trabajo en lo relacionado con el arbitraje.
 
 (Decreto 1015 de 1995, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.4 — Licencia de navegación
 
@@ -1448,15 +1226,11 @@ A fin de permitir que la gente de mar conozca la naturaleza y alcance de sus der
 
 (Decreto 1015 de 1995, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.5 — Modalidades del contrato
 
 El contrato de enrolamiento podrá celebrarse por viaje, por duración determinada o por duración indeterminada.
 
 (Decreto 1015 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.6 — Contenido del contrato
 
@@ -1488,8 +1262,6 @@ Las vacaciones anuales o proporcionales que conceden a la Gente de Mar al servic
 
 (Decreto 1015 de 1995, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.7 — Terminación del contrato de duración indeterminada
 
 El contrato de enrolamiento por duración indeterminada podrá darse por terminado, por cualquiera de las partes, en un puerto de carga o descarga del buque, a condición de que se haya dado el aviso previo convenio, por escrito, el cual no podrá ser inferior a veinticuatro (24) horas. Copia del aviso deberá ser firmado por el destinatario y el incumplimiento de esas condiciones dejará sin efecto el aviso.
@@ -1497,8 +1269,6 @@ El contrato de enrolamiento por duración indeterminada podrá darse por termina
 El aviso formulado en forma regular no surtirá efecto si las partes se ponen de acuerdo en restablecer íntegramente las condiciones contractuales.
 
 (Decreto 1015 de 1995, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.8 — Duración del contrato
 
@@ -1509,8 +1279,6 @@ Si el plazo previsto para la duración del contrato expira durante la travesía 
 El personal que según el contrato de enrolamiento deba ser regresado a un lugar determinado o desembarcado en él será en todo caso conducido a dicho lugar.
 
 (Decreto 1015 de 1995, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.9 — Causales de terminación del contrato independientemente de su duración
 
@@ -1527,8 +1295,6 @@ Terminación unilateral, en los casos contemplados en los artículos 2.2.1.6.3.1
 Suspensión del servicio del buque por falta de utilización del mismo, siempre que dicha suspensión sea mayor de noventa (90) días.
 
 (Decreto 1015 de 1995, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.10 — Terminación del contrato con justa causa por parte del empleador
 
@@ -1550,8 +1316,6 @@ Negarse la gente de mar a cumplir temporalmente funciones diversas de las propia
 
 (Decreto 1015 de 1995, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.11 — Terminación del contrato con justa causa por parte de la gente de mar
 
 Además de los eventos de justas causas de terminación del contrato de trabajo, la gente de mar podrá solicitar su desembarco inmediatamente en los siguientes casos:
@@ -1564,8 +1328,6 @@ Cuando el empleador no cumpla con las medidas de seguridad, salud, e higiene pre
 
 (Decreto 1015 de 1995, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.12 — Certificación de servicios prestados
 
 Cualquiera que sea la causa de terminación del contrato, el empleador deberá entregar a la gente de mar una certificación que contenga la relación de sus servicios a bordo.
@@ -1574,19 +1336,15 @@ Requerimiento que se entiende cumplido con las anotaciones en la libreta de emba
 
 (Decreto 1015 de 1995, art. 12)
 
-ARTÍCULO
+## art:2.2.1.6.3.13 — 
 
-## art:2.2.1.6.3.13 — .13
-
-Abandono del empleo por obtención de uno de mayor categoría.
+2.2.1.6.3.13. Abandono del empleo por obtención de uno de mayor categoría.
 
 1. Si la gente de mar prueba al armador o a su representante que tiene la posibilidad de obtener el mando de un buque, el empleo de oficial, el de oficial mecánico, o cualquier otro empleo de mayor categoría que el que ocupa, ya que, por circunstancias surgidas después de su contrato, el abandono de su empleo presenta para ella interés capital, podrá pedir su licenciamiento, a condición de que asegure su substitución por una persona competente, aceptada por el armador o su representante, sin que ello signifique nuevos gastos para el armador.
 
 2. En este caso, la gente de mar tiene derecho a percibir los salarios correspondientes a la duración del servicio prestado.
 
 (Decreto 1015 de 1995, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.14 — Inspección, vigilancia y control
 
@@ -1598,15 +1356,11 @@ SECCIÓN 4
 
 TRABAJADORES DEPENDIENTES QUE LABORAN POR PERÍODOS INFERIORES A UN MES
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.1 — Objeto
 
 Las normas contenidas en la presente sección tienen por objeto adoptar el esquema financiero y operativo que permita la vinculación de los trabajadores dependientes que laboren por períodos inferiores a un mes, a los Sistemas de Pensiones, Riesgos Laborales y Subsidio Familiar, con el fin de fomentar la formalización laboral.
 
 (Decreto 2616 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.2 — Campo de aplicación
 
@@ -1622,15 +1376,11 @@ PARÁGRAFO . Las normas incluidas en la presente sección no se aplicarán a los
 
 (Decreto 2616 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.3 — Afiliación a los sistemas de pensiones, riesgos laborales y subsidio familiar
 
 La afiliación del trabajador a los Sistemas de Pensiones, Riesgos Laborales y Subsidio Familiar será responsabilidad del empleador y se realizará en los términos que establecen las normas generales que rigen los diferentes sistemas, a través de las Administradoras de Pensiones, Administradoras de Riesgos Laborales y Cajas de Compensación Familiar autorizadas para operar.
 
 (Decreto 2616 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.4 — Selección y afiliación
 
@@ -1640,8 +1390,6 @@ Para la afiliación al Sistema General de Riesgos Laborales y del Subsidio Famil
 
 (Decreto 2616 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.5 — 4.5
 
 Base de cotización mínima semanal a los sistemas de seguridad social para los trabajadores dependientes que laboran por períodos inferiores a un mes. En el Sistema de Pensiones, el ingreso base para calcular la cotización mínima mensual de los trabajadores a quienes se les aplican las normas contenidas en la presente sección, será el correspondiente a una cuarta parte (1/4) del salario mínimo mensual legal vigente, el cual se denominará cotización mínima semanal.
@@ -1649,8 +1397,6 @@ Base de cotización mínima semanal a los sistemas de seguridad social para los 
 Para el Sistema de Riesgos Laborales, el ingreso base de cotización será el salario mínimo legal mensual vigente.
 
 (Decreto 2616 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.6 — Monto de las cotizaciones al sistema general de pensiones, subsidio familiar y riesgos laborales
 
@@ -1680,15 +1426,11 @@ Los valores semanales citados en este artículo, se refieren al valor mínimo se
 
 (Decreto 2616 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.7 — Porcentaje de cotización
 
 El monto de cotización que le corresponderá al empleador y al trabajador, se determinará aplicando los porcentajes establecidos en las normas generales que regulan los Sistemas de Pensiones, Riesgos Laborales y Subsidio Familiar.
 
 (Decreto 2616 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.8 — Tablas
 
@@ -1726,15 +1468,11 @@ PARÁGRAFO 2. El porcentaje de cotización al Sistema General de Riesgos Laboral
 
 (Decreto 2616 de 2013, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.9 — Contabilización de las semanas en el sistema general de pensiones
 
 Para efectos de la contabilización de las semanas en el Sistema General de Pensiones, las administradoras reconocerán como una (1) semana el rango entre un (1) día y siete (7) días laborados, tomados para el cálculo del monto de la cotización. Si el empleador toma cuatro (4) días laborados para el cálculo, el sistema reconocerá una (1) semana; si toma ocho (8) días laborados, el sistema reconocerá dos (2) semanas y así sucesivamente.
 
 (Decreto 2616 de 2013, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.10 — Mecanismos de recaudo
 
@@ -1742,15 +1480,11 @@ El mecanismo de recaudo en los Sistemas de Pensiones, Riesgos Laborales y Cajas 
 
 (Decreto 2616 de 2013, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.11 — Oportunidad para el pago de las cotizaciones
 
 La cotización a los Sistemas de Pensiones, Riesgos Laborales y Subsidio Familiar se realizará en los plazos establecidos en las normas generales que los rigen. El empleador realizará las cotizaciones reportando el número de días que laboró el trabajador durante el mes correspondiente; para el Sistema de Riesgos Laborales la cotización será mensual.
 
 (Decreto 2616 de 2013, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.12 — Multiplicidad de empleadores
 
@@ -1758,15 +1492,11 @@ Cuando un trabajador tenga simultáneamente más de un contrato de trabajo, cada
 
 (Decreto 2616 de 2013, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.13 — Prohibición de multiafiliación
 
 En el evento en que el trabajador cuente con más de una relación laboral deberá informar a sus empleadores la administradora de pensiones seleccionada, con el fin de que estos últimos realicen su afiliación y cumplan sus obligaciones en una única administradora de pensiones.
 
 (Decreto 2616 de 2013, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.14 — Control a la evasión y la elusión
 
@@ -1774,23 +1504,17 @@ El Gobierno Nacional deberá adoptar los controles que permitan detectar cuando 
 
 (Decreto 2616 de 2013, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.15 — Beneficios y servicios
 
 La cotización a los sistemas de que trata la presente sección, otorga derecho a los beneficios y servicios en los términos regulados en las respectivas leyes y normas reglamentarias.
 
 (Decreto 2616 de 2013, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.16 — Mínimo de derechos y garantías de los trabajadores a que hace referencia la presente sección
 
 Las normas sobre salarios, jornada de trabajo, prestaciones sociales, vacaciones y demás que les sean aplicables en virtud de lo establecido en el Código Sustantivo del Trabajo, constituyen el mínimo de derechos y garantías consagradas en favor de los trabajadores a tiempo parcial, por lo tanto no produce efecto alguno cualquier estipulación que pretenda afectar o desconocer tales derechos.
 
 (Decreto 2616 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.17 — Medidas especiales
 
@@ -1808,8 +1532,6 @@ Se deben incluir además, la realización de investigaciones y la difusión de i
 
 (Decreto 2616 de 2013, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.18 — Traslado voluntario de las sumas cotizadas al sistema general de pensiones al mecanismo BEPS
 
 Si la persona que ha realizado cotizaciones mínimas semanales al Sistema General de Pensiones en los términos de la presente sección, no logra cumplir los requisitos para obtener una pensión, si lo decide voluntariamente, los recursos por concepto de devolución de saldos o indemnización sustitutiva, según aplique, podrán ingresar al mecanismo de beneficios económicos periódicos BEPS con el fin de obtener la suma periódica, de conformidad con las normas que regulan dicho mecanismo.
@@ -1817,8 +1539,6 @@ Si la persona que ha realizado cotizaciones mínimas semanales al Sistema Genera
 Los recursos de la indemnización sustitutiva o la devolución de saldos se tendrán en cuenta para el cálculo del subsidio periódico, siempre que permanezcan por lo menos tres (3) años en el Servicio Social Complementario de los BEPS.
 
 (Decreto 2616 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.19 — Verificación de semanas cotizadas por parte del empleado y el empleador
 
@@ -1830,15 +1550,11 @@ SECCIÓN 5
 
 VINCULACIÓN LABORAL DE LAS MADRES COMUNITARIAS CON LAS ENTIDADES ADMINISTRADORAS DEL PROGRAMA DE HOGARES COMUNITARIOS DE BIENESTAR
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.1 — Objeto y campo de aplicación
 
 La presente sección reglamenta la vinculación laboral de las Madres Comunitarias con las entidades administradoras del Programa de Hogares Comunitarios de Bienestar.
 
 (Decreto 289 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.6.5.2 — Modalidad de vinculación
 
@@ -1846,23 +1562,17 @@ Las Madres Comunitarias serán vinculadas laboralmente mediante contrato de trab
 
 (Decreto 289 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.3 — Calidad de las madres comunitarias
 
 De conformidad con el artículo 36 de la Ley 1607 de 2012, las Madres Comunitarias no tendrán la calidad de servidoras públicas. Sus servicios se prestarán a las entidades administradoras del Programa de Hogares Comunitarios, las cuales tienen la condición de único empleador, sin que se pueda predicar solidaridad patronal con el ICBF.
 
 (Decreto 289 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.4 — Empleadores
 
 Podrán ser empleadores de las madres comunitarias, las entidades administradoras del Programa de Hogares Comunitarios de Bienestar que hayan sido constituidas legalmente, con capacidad contractual, personería jurídica y que cumplan los lineamientos establecidos por el ICBF.
 
 (Decreto 289 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.6.5.5 — 5.5
 
@@ -1872,8 +1582,6 @@ PARÁGRAFO . En caso que las entidades administradoras del Programa de Hogares C
 
 (Decreto 289 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.6 — Coordinación en actividades de promoción y prevención
 
 Las Cajas de Compensación Familiar y las Administradoras de Riesgos Laborales coordinarán de manera directa o mediante apoyo de terceros especializados, la prestación articulada de servicios para asegurar mejores condiciones de trabajo, seguridad y salud en el trabajo y bienestar laboral.
@@ -1882,8 +1590,6 @@ Las Cajas de Compensación Familiar, conforme a los programas sociales que brind
 
 (Decreto 289 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.7 — Calidad del servicio
 
 El ICBF inspeccionará, vigilará y supervisará la gestión de las entidades administradoras del Programa de Hogares Comunitarios de Bienestar en sus diferentes formas de atención, con el fin de que se garantice la calidad en la prestación del servicio y el respeto por los derechos de los niños beneficiarios del programa, atendiendo la naturaleza especial y esencial del servicio público de Bienestar Familiar.
@@ -1891,8 +1597,6 @@ El ICBF inspeccionará, vigilará y supervisará la gestión de las entidades ad
 PARÁGRAFO . Para los fines indicados en el presente artículo, la selección de las Madres Comunitarias estará a cargo de su respectivo empleador.
 
 (Decreto 289 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.6.5.8 — Apoyo al proceso de formalización
 
@@ -2030,6 +1734,12 @@ El empleador y el trabajador podrán, de mutuo acuerdo pactar el valor mensual d
 ## art:2.2.1.6.6.11 — Implementación de horarios flexibles
 
 El empleador y el trabajador, de mutuo acuerdo, podrán acordar la posibilidad de desarrollar la labor contratada a través de horarios flexibles, siempre y cuando se dé cumplimiento a la jornada laboral semanal, para lo cual, el empleador podrá implementar mecanismos propios de las tecnologías de la información para determinar el cumplimiento de la jornada semanal y proteger el derecho a la desconexión laboral durante los días laborales.
+
+ARTÍCULO 2.2.1.6.6.11. Política pública del trabajo remoto. El Ministerio del Trabajo, creará un Comité para el diseño e implementación de la Política Pública de Trabajo Remoto; establecerá los componentes básicos para lograr una adecuada entrada en funcionamiento e implementación del trabajo remoto, a través de campañas de socialización, charlas a empleadores y trabajadores y demás actividades que permitan la aplicación de las disposiciones relacionadas con el trabajo remoto. Para tal fin, dentro del término de los tres (3) meses siguientes a la entrada en vigencia de la presente sección, el Ministerio del Trabajo proferirá el acto administrativo correspondiente.
+
+Este Comité realizará como mínimo una sesión trimestral e invitará al Ministerio de Tecnologías de la Información y las Comunicaciones, así como a los representantes de las diferentes asociaciones del sector, empleadores y Confederaciones de Trabajadores.
+
+La Secretaría Técnica del Comité para el diseño e implementación de la Política Pública de Trabajo Remoto será ejercida por el Ministerio del Trabajo.
 
 ## art:2.2.1.6.6.12 — Inspección, Vigilancia y Control
 
@@ -2183,15 +1893,11 @@ CAPÍTULO 1
 
 SINDICATOS
 
-ARTÍCULO
-
 ## art:2.2.2.1.1 — Comunicación de cambios en Juntas Directivas, Subdirectivas o Comités Seccionales
 
 Los cambios totales o parciales en las juntas directivas, subdirectivas o comités seccionales de las organizaciones sindicales, deberán ser comunicados por escrito una vez realizada la asamblea de elección, por cualquier miembro de la junta entrante o saliente, al respectivo empleador y al inspector de trabajo de la correspondiente jurisdicción o, en su defecto, a la primera autoridad política del lugar, con indicación de los nombres identificación de cada uno de los directivos elegidos. El inspector o el alcalde, a su vez, pasarán igual comunicación inmediatamente al empleador o empleadores.
 
 (Decreto 1194 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2 — Registro de cambios en Juntas Directivas, Subdirectivas o Comités Seccionales
 
@@ -2207,8 +1913,6 @@ PARÁGRAFO . Se presume que la elección de juntas directivas sindicales, se efe
 
 (Decreto 1194 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3 — Procedimiento para la inscripción de Juntas Directivas Sindicales
 
 La inscripción de las juntas directivas sindicales corresponde a los funcionarios que para el efecto designe el Ministerio del Trabajo.
@@ -2221,15 +1925,11 @@ PARÁGRAFO . Se entenderá que se ha desistido de la solicitud de inscripción, 
 
 (Decreto 1194 de 1994, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4 — Causales para negación de la inscripción
 
 Constituye causal para negar la inscripción de las juntas directivas de las organizaciones sindicales, el que la elección sea contraria a la Constitución Política, a la ley o a los estatutos, o que producido el auto de objeciones no se dé cumplimiento a lo que en él se dispone.
 
 (Decreto 1194 de 1994, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5 — Improcedencia de impugnaciones durante el trámite
 
@@ -2237,15 +1937,11 @@ Durante el trámite de inscripción de una junta directiva no procede ningún ti
 
 (Decreto 1194 de 1994, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6 — Ausencia de pronunciamiento por parte del Ministerio
 
 Vencidos los términos de que trata el artículo 2.2.2.1.3. del presente Decreto, sin que el Ministerio del Trabajo se pronuncie sobre la solicitud, la junta directiva se entenderá inscrita en el registro correspondiente, sin perjuicio de las sanciones en que incurra el funcionario responsable de la omisión. En este evento, el funcionario procederá a ordenar la inscripción y notificará a los jurídicamente interesados, advirtiéndoles que contra este acto proceden los recursos de ley, interpuestos en la forma prevista en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1194 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.1.7 — Anotación en el archivo sindical
 
@@ -2253,19 +1949,13 @@ Dentro de los tres (3) días siguientes a la ejecutoria de la providencia que de
 
 (Decreto 1194 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.1.8 — Subdirectivas y Comités Seccionales
 
 Todo sindicato podrá prever en sus estatutos la creación de subdirectivas seccionales, en aquellos municipios distintos al de su domicilio principal y en el que tenga un número no inferior a veinticinco (25) miembros. Igualmente se podrá prever la creación de comités seccionales en aquellos municipios distintos al del domicilio principal o el domicilio de la subdirectiva y en el que se tenga un número de afiliados no inferior a doce (12) miembros. No podrá haber más de una subdirectiva o comité por municipio.
 
-ARTÍCULO
-
 ## art:2.2.2.1.9 — Protección en caso de presentación de pliego de peticiones
 
 La protección a que se refiere el artículo 25 del Decreto 2351 de 1965, comprende a los trabajadores afiliados al sindicato o a los no sindicalizados que hayan presentado un pliego de peticiones, desde el momento de su presentación al empleador hasta que se haya solucionado el conflicto colectivo mediante la firma de la convención o del pacto, o quede ejecutoriado el laudo arbitral, si fuere el caso.
-
-ARTÍCULO
 
 ## art:2.2.2.1.10 — Depósito del Pacto Colectivo
 
@@ -2273,15 +1963,11 @@ El pacto colectivo debe celebrarse por escrito y se extenderá en tantos ejempla
 
 (Decreto 1469 de 1978, art. 59)
 
-ARTÍCULO
-
 ## art:2.2.2.1.11 — Presentación de pliego de peticiones cuando hay Pacto Colectivo
 
 En ningún caso la existencia de un pacto colectivo en una empresa impedirá al sindicato de sus trabajadores presentar pliego de peticiones y suscribir convención colectiva de trabajo. Tampoco la existencia del pacto colectivo podrá alterar la aplicación del principio según el cual a trabajo igual desempeñado en puesto jornada y condiciones de eficiencia también iguales, debe corresponder salario igual.
 
 (Decreto 1469 de 1978, art. 61)
-
-ARTÍCULO
 
 ## art:2.2.2.1.12 — De la convocatoria a la asamblea
 
@@ -2293,23 +1979,17 @@ Si en la empresa no existiere sindicato, la convocatoria la pueden hacer los del
 
 (Decreto 2519 de 1993, art. 1; modificado por el Decreto 801 de 1998, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.13 — Desarrollo de la asamblea
 
 Cumplidos los requisitos previstos en los artículos anteriores, el empleador deberá abstenerse de ejecutar actos tendientes a impedir o dificultar la celebración de la asamblea, y los trabajadores de afectar con ella el desarrollo de las actividades de la empresa.
 
 (Decreto 2519 de 1993, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.14 — De la asistencia del funcionario
 
 La asistencia del funcionario de trabajo a la asamblea tendrá como objeto exclusivo presenciar y comprobar la votación. El informe pertinente deberá rendirlo al inmediato superior dentro de las veinticuatro (24) horas siguientes.
 
 (Decreto 2519 de 1993, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.15 — Del tribunal de arbitramento durante el desarrollo de la huelga
 
@@ -2319,15 +1999,11 @@ Para tal efecto deberán presentar al Ministerio del Trabajo, en el primer caso,
 
 (Decreto 2519 de 1993, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.16 — Definición
 
 El contrato sindical es el que celebran uno o varios sindicatos de trabajadores con uno o varios empleadores o sindicatos patronales para la prestación de servicios o la ejecución de una obra por medio de sus afiliados. Es de naturaleza colectiva laboral, solemne, nominado y principal.
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17 — Afiliados vinculados para la ejecución del contrato
 
@@ -2335,15 +2011,11 @@ La actividad de los trabajadores que se vinculan a una empresa como afiliados de
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.18 — Adecuación a la ley
 
 El sindicato que suscribe un contrato sindical para prestar servicios o ejecutar obras, lo hará en el marco del cumplimiento de la Constitución Nacional, la Ley y el Decreto Reglamentario Único del Sector Trabajo. De no cumplir con las obligaciones legales, las Direcciones Territoriales del Ministerio del Trabajo impondrán las sanciones previstas en las normas aplicables
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.19 — Autorización para la celebración del contrato sindical
 
@@ -2351,15 +2023,11 @@ La celebración de un contrato sindical por parte de un sindicato será autoriza
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.20 — Responsabilidad del sindicato
 
 El sindicato de trabajadores que haya suscrito un contrato sindical responde por las obligaciones directas que surjan del mismo y por el cumplimiento de las que se estipulen a favor de los afiliados vinculados para su ejecución.
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.21 — Existencia previa y afiliados del sindicato
 
@@ -2375,23 +2043,17 @@ Para la celebración de un contrato sindical debe acreditarse:
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.22 — Acciones y representación
 
 El sindicato de trabajadores que haya suscrito un contrato sindical tiene personería para ejercer tanto los derechos y acciones que le correspondan directamente, como la representación de los afiliados vinculados para su ejecución.
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.23 — Garantías de cumplimiento
 
 Para garantizar las obligaciones directas, las que surjan del contrato sindical, el cumplimiento de las obligaciones legales y las que se estipulen para amparar a los afiliados vinculados para su ejecución, cada una de las partes contratantes debe constituir caución suficiente que constará en el contrato. Si no se constituyere, se entiende que el patrimonio de cada contratante responde por las respectivas obligaciones.
 
 (Artículo modificado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.24 — Obligaciones de los contratantes
 
@@ -2417,15 +2079,11 @@ Por la organización sindical que suscribe el contrato sindical
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.25 — De la suscripción del contrato sindical
 
 El contrato sindical será suscrito por los representantes legales del sindicato y de la empresa de acuerdo con lo establecido en la Ley y en sus estatutos.
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.26 — Requisitos del contrato sindical
 
@@ -2447,8 +2105,6 @@ El contrato sindical deberá constar por escrito y contendrá como mínimo:
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.27 — Asamblea anual
 
 El sindicato que celebra un contrato sindical deberá realizar al menos una vez al año una asamblea con los afiliados vinculados para la ejecución del contrato sindical donde se les informe como mínimo los siguientes asuntos:
@@ -2462,8 +2118,6 @@ El sindicato que celebra un contrato sindical deberá realizar al menos una vez 
 - Proyección del siguiente ejercicio fiscal del correspondiente contrato sindical.
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.28 — Reglamento del contrato sindical
 
@@ -2487,15 +2141,11 @@ El sindicato de trabajadores que suscribe un contrato sindical debe elaborar un 
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.29 — Contabilidad del contrato sindical
 
 El sindicato firmante de un contrato sindical deberá establecer en su contabilidad general una subcuenta para cada uno de los contratos sindicales suscritos, de manera que se puedan constatar claramente los movimientos propios de cada contrato.
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.30 — Depósito del contrato sindical
 
@@ -2503,15 +2153,11 @@ Uno de los ejemplares del contrato sindical con su correspondiente reglamento de
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.31 — Solución de controversias
 
 Las controversias que se originen entre las partes contratantes en virtud del contrato sindical podrán ser resueltas por arbitramento voluntario u otros mecanismos alternativos, si así lo acuerdan las partes, o en su defecto por la jurisdicción laboral y de la seguridad social.
 
 (Artículo adicionado por el Decreto 036 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.32 — Disolución del sindicato o de la empresa contratante
 
@@ -2524,8 +2170,6 @@ En caso de disolución y liquidación de la empresa que hace parte del contrato 
 CAPÍTULO 2
 
 PROHIBICIONES Y SANCIONES
-
-ARTÍCULO
 
 ## art:2.2.2.2.1 — Suspensión del trabajo
 
@@ -2541,15 +2185,11 @@ PARÁGRAFO . Para que la disminución en el ritmo de ejecución del trabajo pued
 
 (Decreto 2486 de 1973, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — Vínculo sindical
 
 La terminación del contrato de trabajo no extingue, por ese solo hecho, el vínculo sindical del trabajador.
 
 (Decreto 1469 de 1978, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Limitación a suscripción de pactos colectivos
 
@@ -2560,8 +2200,6 @@ Las empresas que hubieren firmado o que firmen convenciones colectivas de trabaj
 CAPÍTULO 3
 
 CUOTAS SINDICALES
-
-ARTÍCULO
 
 ## art:2.2.2.3.1 — Recaudo de las cuotas sindicales
 
@@ -2577,15 +2215,11 @@ Con el fin de garantizar que las organizaciones sindicales puedan recaudar oport
 
 (Decreto 2264 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.3.2 — Prueba de la calidad de afiliado a un sindicato
 
 La certificación de la Tesorería del sindicato sobre la deducción del valor de la cuota o las cuotas, de los miembros de la respectiva organización sindical, constituye prueba frente al empleador y la Autoridad Administrativa Laboral de la calidad de afiliado a uno o a varios sindicatos.
 
 (Decreto 2264 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.3.3 — Prueba de la calidad de afiliado a Federación o Confederación
 
@@ -2593,15 +2227,11 @@ La certificación de la Tesorería de la Federación, Confederación o Central S
 
 (Decreto 2264 de 2013, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.3.4 — Coincidencia de las certificaciones
 
 Las certificaciones a que aluden los artículos anteriores deben ser coincidentes con las de los bancos o cajas de ahorros en los cuales deben estar los fondos de las organizaciones sindicales por disposición del artículo 396 del CST.
 
 (Decreto 2264 de 2013, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.3.5 — Ámbito de aplicación
 
@@ -2998,15 +2628,11 @@ Capítulo 5, modificado y adicionado por el Art. 1 del Decreto 344 de 2021
 
 PERMISOS SINDICALES
 
-ARTÍCULO
-
 ## art:2.2.2.5.1 — Permisos sindicales para los representantes sindicales y servidores públicos sindicalizados
 
 Los representantes sindicales de los servidores públicos tienen derecho a que las entidades públicas de todas las Ramas del Estado, sus Órganos Autónomos y sus Organismos de Control, la Organización Electoral, las Universidades Públicas, las entidades descentralizadas y demás entidades y dependencias públicas del orden nacional, departamental, distrital y municipal, les concedan permisos sindicales remunerados, razonables y de acuerdo al grado de la organización, proporcional al número de afiliados y necesarios para el cumplimiento de su gestión, teniendo en cuenta la estructura nacional y territorial con que cuente la organización sindical, lo anterior sin perjuicio de los permisos ya concedidos para los dirigentes de las organizaciones sindicales.
 
 (Modificado por el Art. 1 del Decreto 720 de 2024)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2 — Beneficiarios de los permisos sindicales
 
@@ -3015,8 +2641,6 @@ Las organizaciones sindicales de servidores públicos son titulares de la garant
 PARÁGRAFO. Para el otorgamiento de los permisos sindicales a los afiliados que no tengan el carácter de directivo sindical, se tendrá en cuenta los criterios establecidos en el artículo 2.2.2.5.1. de razonabilidad, proporcionalidad y debida prestación del servicio.
 
 (Modificado por el Art. 1 del Decreto 720 de 2024)
-
-ARTÍCULO
 
 ## art:2.2.2.5.3 — Reconocimiento de los permisos sindicales
 
@@ -3027,8 +2651,6 @@ Constituye una obligación de las entidades públicas de que trata el artículo 
 PARÁGRAFO. Igualmente se podrá otorgar permiso sindical a los afiliados y dirigentes de las organizaciones sindicales de servidores públicos elegidos para que los representen en jornadas de capacitación y formación relacionada con su actividad sindical.
 
 (Modificado por el Art. 1 del Decreto 720 de 2024)
-
-ARTÍCULO
 
 ## art:2.2.2.5.4 — Términos para el otorgamiento de permisos sindicales
 
@@ -3046,13 +2668,9 @@ PARÁGRAFO 2. Para la participación de los empleados públicos sindicalizados e
 
 (Modificado por el Art. 1 del Decreto 720 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.2.5.5 — Solicitud incompleta
 
 Cuando la solicitud no cumpla con los requisitos señalados en el artículo 2.2.2.5.3. del presente decreto, se devolverá al día siguiente de su radicación a la organización sindical indicando la información que falta por suministrar. Recibida nuevamente la solicitud de manera completa, la administración deberá pronunciarse de fondo en los términos señalados en el artículo anterior.
-
-ARTÍCULO
 
 ## art:2.2.2.5.6 — Efectos de los permisos sindicales
 
@@ -3064,15 +2682,11 @@ CAPÍTULO 6
 
 FEDERACIONES Y CONFEDERACIONES
 
-ARTÍCULO
-
 ## art:2.2.2.6.1 — Número mínimo para la constitución o subsistencia de las federaciones de trabajadores
 
 Toda federación local o regional de trabajadores necesita para constituirse o subsistir, un número no inferior a diez sindicatos, y toda federación nacional, profesional o industrial, no menos de veinte sindicatos.
 
 (Decreto 1469 de 1978, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2 — Requisitos para la constitución de las federaciones de trabajadores
 
@@ -3082,8 +2696,6 @@ PARÁGRAFO . Las federaciones y confederaciones legalmente constituidas con ante
 
 (Decreto 1469 de 1978, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.6.3 — Prohibiciones de las confederaciones
 
 Ninguna confederación podrá admitir a federaciones, sindicatos, subdirectivas, seccionales o comités de sindicatos que se encuentren afiliados a otra confederación de la misma índole. Ninguna federación podrá admitir a sindicatos, subdirectivas, seccionales o comités de sindicatos que se encuentren afiliados a otra federación de la misma naturaleza.
@@ -3092,15 +2704,11 @@ PARÁGRAFO . Las subdirectivas, seccionales o comités de sindicatos no podrán 
 
 (Decreto 1469 de 1978, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.2.6.4 — Asesorías de las organizaciones sindicales
 
 Toda organización sindical de segundo o tercer grado puede asesorar a sus organizaciones afiliadas ante los respectivos empleadores en la tramitación de los conflictos individuales o colectivos. También podrán ejercer el derecho de asesoría ante los funcionarios del Ministerio del Trabajo, ante las demás autoridades o ante terceros, respecto de cualquiera reclamación.
 
 (Decreto 1469 de 1978, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.2.6.5 — Requisitos para acceder a las asesorías de las organizaciones sindicales
 
@@ -3252,8 +2860,6 @@ CAPÍTULO 8
 
 Fuero sindical
 
-ARTÍCULO
-
 ## art:2.2.2.8.1 — Permiso para despedir trabajadores con fuero sindical
 
 Dispuesta la supresión de cargos de la entidad en liquidación conforme lo prevé el artículo 80 del Decreto-ley 254 de 2000, el liquidador procederá a solicitar permiso al juez laboral, para retirar a los servidores amparados por fuero sindical.
@@ -3271,8 +2877,6 @@ Capítulo adicionado por el Decreto 017 de 2016
 ## art:2.2.2.9.1 — Procedimiento de convocatoria e integración de tribunales de arbitramento
 
 El presente capitulo establece el procedimiento para la convocatoria e integración de Tribunales de Arbitramento que diriman los conflictos colectivos laborales.
-
-ARTÍCULO
 
 ## art:2.2.2.9.2 — Solicitud de convocatoria del tribunal de arbitramento
 
@@ -3314,8 +2918,6 @@ Documentos anexos a la solicitud de los empleadores
 
 7. La manifestación en caso de considerarla conveniente de ser notificados electrónicamente conforme el artículo 56 de la Ley 1437 de 2011.
 
-ARTÍCULO
-
 ## art:2.2.2.9.3 — Convocatoria e integración del tribunal de arbitramento
 
 El Ministerio del Trabajo, dentro de las tres (3) días siguientes al recibo de los documentos con el pleno de requisitos solicitados a las partes, dejara constancia de la fecha a partir de la cual se comenzaran a contar los términos para el trámite de Convocatoria e Integración del Tribunal de Arbitramento.
@@ -3325,8 +2927,6 @@ Inmediatamente a la emisión de la constancia se procederá a comunicar a los á
 Una vez se cumpla con las requisitos dispuestos para la convocatoria del tribunal de arbitramento y se encuentren designados y posesionados las tres árbitros, el Viceministro de Relaciones Laborales e Inspección expedirá Resolución de convocatoria e integración del tribunal de arbitramento, en donde indicara a las árbitros que deberán instalar el tribunal en un término no mayor a ocho (8) días contados a partir de la comunicación de la mencionada Resolución.
 
 Contra esta Resolución de convocatoria e integración de tribunal de arbitramento obligatorio no procederán recursos por tratarse de un acto administrativo de trámite.
-
-ARTÍCULO
 
 ## art:2.2.2.9.4 — Unidad en la integración de los tribunales de arbitramento
 
@@ -3339,8 +2939,6 @@ De no mediar acuerdo sobre la designación del árbitro en representación de la
 En caso de una pluralidad de pliegos de peticiones presentados a diferentes empleadores por un mismo sindicato con peticiones coincidentes, se integrará un solo tribunal de arbitramento previo acuerdo de las partes, para lo cual los empleadores en consenso deberán designar un solo árbitro.
 
 Las partes contaran con tres (3) días para informar el nombre del árbitro que los representara, de lo contrario el árbitro será designado por el Ministerio del Trabajo.
-
-ARTÍCULO
 
 ## art:2.2.2.9.5 — Designación de los árbitros en caso de renuencia de las partes
 
@@ -3356,8 +2954,6 @@ Existirá renuencia de las partes cuando:
 
 3. Designados los árbitros de las partes, no se posesionen dentro de los tres días siguientes a su designación.
 
-ARTÍCULO
-
 ## art:2.2.2.9.6 — Designación de los árbitros por parte del Ministerio del Trabajo
 
 El Viceministerio de Relaciones Laborales e Inspección designará de la lista de árbitros enviada por la Sala Laboral de la Corte Suprema de Justicia el árbitro correspondiente, así:
@@ -3372,8 +2968,6 @@ El Viceministerio de Relaciones Laborales e Inspección designará de la lista d
 
 5. Si el árbitro designado no acepta el encargo, se realizara un nuevo sorteo para designar su reemplazo.
 
-ARTÍCULO
-
 ## art:2.2.2.9.7 — Impedimentos y recusaciones
 
 La persona a quien se comunique su nombramiento como árbitro deberá informar, antes de posesionarse ante el Ministerio del Trabajo, si coincide o ha coincidido con alguna de las partes o sus apoderados en otros procesos arbitrales o judiciales, trámites administrativos o cualquier otro asunto profesional en los que él o algún miembro de la oficina de abogados a la que pertenezca o haya pertenecido, intervenga o haya intervenido como árbitro, apoderado, consultor, asesor, secretario o auxiliar de la justicia en el curso de los dos (2) ultimas años.
@@ -3382,15 +2976,11 @@ Igualmente, deberá indicar cualquier relación de carácter familiar o personal
 
 Si durante el curso del proceso se llegare a establecer que el árbitro no revelo información que debió suministrar al memento de posesionarse, por ese solo hecho quedara impedido, y así deberá declararlo.
 
-ARTÍCULO
-
 ## art:2.2.2.9.8 — Control disciplinario
 
 En los términos de la Ley Estatutaria de la Administración de Justicia, el control disciplinario de los árbitros y los secretarios se regirá por las normas disciplinarias de los servidores judiciales y auxiliares de la justicia.
 
 El Ministerio del Trabajo compulsará copias de oficio a la Comisión Nacional de Disciplina Judicial o la autoridad disciplinaria que corresponda en caso de evidenciar la renuencia sistemática de los árbitros designados y/o posesionados que podría constituir la falta contemplada en el numeral 1 o artículo 30 de la Ley 1123 de 2007, cuando estos fueren abogados.
-
-ARTÍCULO
 
 ## art:2.2.2.9.9 — Utilización de medios electrónicos
 
@@ -3399,8 +2989,6 @@ En el trámite de convocatoria e integración del tribunal de arbitramento se ut
 La comunicación transmitida por medios electrónicos se considerara recibida el día en que se envió, salvo que se trate de la comunicación de la Resolución de convocatoria e integración del tribunal de arbitramento obligatorio, caso en el cual se considerara hecha el día que se reciba en la dirección electrónica del destinatario.
 
 La formación y guarda del expediente podrá llevarse íntegramente a través de medios electrónicos o magnéticos.
-
-ARTÍCULO
 
 ## art:2.2.2.9.10 — Actuaciones administrativas
 
@@ -3412,15 +3000,11 @@ INSPECCIÓN, VIGILANCIA Y CONTROL
 
 CAPÍTULO 1
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Objeto
 
 El objeto del presente capítulo es reglamentar el ejercicio del poder preferente otorgado al Viceministro de Relaciones Laborales del Ministerio del Trabajo, frente a las investigaciones y actuaciones que se adelanten dentro del contexto del Sistema de Inspección, Vigilancia y Control en todo el Territorio Nacional.
 
 (Decreto 34 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2 — Ámbito de aplicación
 
@@ -3432,8 +3016,6 @@ Las disposiciones del presente capítulo serán de obligatoria aplicación:
 
 (Decreto 34 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.1.3 — Poder preferente
 
 Para los efectos legales establecidos en el artículo 32 de la Ley 1562 de 2012, el Viceministro de Relaciones Laborales e Inspección del Ministerio del Trabajo es titular del ejercicio preferente del poder investigativo y sancionador, el cual será desarrollado a través de la Dirección de Inspección, Vigilancia, Control y Gestión Territorial.
@@ -3441,8 +3023,6 @@ Para los efectos legales establecidos en el artículo 32 de la Ley 1562 de 2012,
 En ejercicio del poder preferente, el Viceministro de Relaciones Laborales e Inspección, mediante decisión motivada, podrá intervenir, suspender, comisionar, reasignar o vigilar toda actuación administrativa de competencia de las Direcciones Territoriales, Oficinas Especiales, Coordinaciones de los Grupos o Inspecciones del Ministerio del Trabajo, en cualquier etapa en que se encuentre.
 
 (Decreto 34 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.1.4 — Criterios para la aplicación del poder preferente
 
@@ -3455,8 +3035,6 @@ El ejercicio del poder preferente procederá de oficio o a solicitud de parte, s
 PARÁGRAFO 1. Cuando se vislumbre la posible ocurrencia de alguna de las circunstancias que justificarían el ejercicio del poder preferente, el Viceministro de Relaciones Laborales e Inspección podrá solicitar la elaboración de un informe en el cual se efectúe el análisis de las situaciones de hecho que podrían dar origen a una actuación administrativa, si esta no se ha iniciado; o de la respectiva actuación, cuando ya esté en curso, previa revisión del expediente. Dicho informe servirá de sustento para adoptar la decisión de ejercer o no el poder preferente.
 
 (Decreto34 de 2013, art.4)
-
-ARTÍCULO
 
 ## art:2.2.3.1.5 — Actuación
 
@@ -3474,8 +3052,6 @@ PARÁGRAFO 1. Para los efectos señalados en los numerales 1 y 2 del presente ar
 
 (Decreto 34 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6 — Recurso de Apelación
 
 La Dirección de Inspección, Vigilancia, Control y Gestión Territorial decidirá en segunda instancia los recursos frente a las actuaciones administrativas por incumplimiento de las normas laborales, resueltas en primera instancia por la Unidad de Investigaciones Especiales. Corresponderá a la Dirección de Riesgos Laborales, resolver la segunda instancia de las investigaciones por violación al Sistema de Riesgos Laborales.
@@ -3484,23 +3060,17 @@ PARÁGRAFO . Cuando el ejercicio del poder preferente implique reasignación de 
 
 (Decreto 34 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.1.7 — Control
 
 El Viceministro de Relaciones Laborales e Inspección, puede solicitar en cualquier momento informes o cualquier otra actuación que estime conveniente para los fines del poder conferido en el artículo 32 de la Ley 1562 de 2012.
 
 (Decreto 34 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.1.8 — Validez de las actuaciones
 
 Tendrán plena validez todas las actuaciones surtidas y las pruebas recaudadas hasta el momento de la comunicación de la decisión por la cual se somete el asunto al poder preferente, siempre que hubieren sido adelantadas en legal forma.
 
 (Decreto 34 de 2013, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.1.9 — Actuaciones administrativas en curso
 
@@ -3514,43 +3084,29 @@ Capítulo Adicionado por el Ar.t 1 del Decreto 120 de 2020
 
 FONDO PARA EL FORTALECIMIENTO DE LA INSPECCIÓN, VIGILANCIA Y CONTROL DEL TRABAJO Y LA SEGURIDAD SOCIAL - FIVICOT.
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Naturaleza Jurídica
 
 El Fondo para el Fortalecimiento de la Inspección, Vigilancia y Control del Trabajo y de Seguridad Social - FIVICOT, es una cuenta especial de la Nación, sin personería jurídica y adscrita al Ministerio del Trabajo, cuyos recursos se destinarán a fortalecer la Inspección, Vigilancia y Control del Trabajo y la Seguridad Social.
-
-ARTÍCULO
 
 ## art:2.2.3.2.2 — Objetivo del fondo
 
 El Fondo para el Fortalecimiento de la Inspección, Vigilancia y Control del Trabajo y de Seguridad Social - FIVICOT, tendrá como objetivo fortalecer las funciones de inspección, vigilancia y control del trabajo y la seguridad social.
 
-ARTÍCULO
-
 ## art:2.2.3.2.3 — Comité evaluador
 
 El Ministerio del Trabajo creará un Comité Evaluador responsable de evaluar la viabilidad de los programas, proyectos, actividades, estudios, campañas y demás asuntos que deban ser presentados a consideración del Fondo, con la debida sustentación técnica al ordenador del gasto del Fondo. El Comité estará conformado por: i) el Ministro del Trabajo o su delegado; ii) el Viceministro de Relaciones Laborales e Inspección y, iii) el Director de Inspección, Vigilancia, Control y Gestión Territorial.
-
-ARTÍCULO
 
 ## art:2.2.3.2.4 — Origen de los recursos
 
 Los recursos del Fondo para el fortalecimiento de la Inspección, Vigilancia y Control de las Normas del Trabajo y de la Seguridad Social, serán aquellos que se recauden por concepto de las multas que se impongan por las autoridades administrativas del trabajo a partir del primero (1) de enero de 2020, por la violación de las normas laborales y condiciones de trabajo, así como a la protección de los trabajadores en el ejercicio de su profesión y del derecho de libre asociación sindical. Igualmente, las transferencias ordinarias para el funcionamiento del Fondo en el Ministerio del Trabajo.
 
-ARTÍCULO
-
 ## art:2.2.3.2.5 — Cobro y recaudo
 
 El cobro y recaudo de las multas de que trata el artículo anterior estará a cargo de la respectiva área del Ministerio del Trabajo a la cual se le haya asignado tal función y de la herramienta financiera elegida para tal fin. En el evento en que el Ministerio del Trabajo, en cumplimiento de los parámetros legales respectivos lo considere pertinente, podrá contar con la intervención de un tercero para adelantar las labores de apoyo en el cobro persuasivo y coactivo.
 
-ARTÍCULO
-
 ## art:2.2.3.2.6 — Dirección, administración y ordenación del gasto
 
 La dirección, administración y ordenación del gasto del Fondo estará a cargo del Ministro del Trabajo o de quien este delegue, que en todo caso deberá ser del nivel directivo. Para efectos de la ejecución de los recursos, se atenderán las directrices que señale el Comité Evaluador del FIVICOT.
-
-ARTÍCULO
 
 ## art:2.2.3.2.7 — Funciones de Dirección, administración y ordenación del gasto
 
@@ -3570,19 +3126,13 @@ La dirección, administración y ordenación del gasto del Fondo para el fortale
 
 7. Las demás inherentes a la administración y observación del gasto del Fondo.
 
-ARTÍCULO
-
 ## art:2.2.3.2.8 — Funcionamiento
 
 Los gastos de funcionamiento del Fondo para el fortalecimiento de la Inspección, Vigilancia y Control de las Normas del Trabajo y de la Seguridad Social - FIVICOT, serán asumidos con los mismos recursos recaudados y/o por el Ministerio del Trabajo.
 
-ARTÍCULO
-
 ## art:2.2.3.2.9 — Ejecución
 
 Los programas, proyectos, actividades, estudios y campañas serán ejecutados por el Ministerio del Trabajo o por quien este determine con observancia de los parámetros legales correspondientes.
-
-ARTÍCULO
 
 ## art:2.2.3.2.10 — Multas impuestas antes del 1 de enero de 2020
 
@@ -3656,8 +3206,6 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES EN RIESGOS LABORALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — Entidades Administradoras de Riesgos Laborales
 
 Para adelantar las labores de prevención, promoción, y control previstas en el Decreto Ley 1295 de 1994, las ARL deberán acreditar semestralmente ante la Dirección de Riesgos Laborales:
@@ -3678,15 +3226,11 @@ PARÁGRAFO . Debe discriminar esta información por cada departamento del país,
 
 (Decreto 1530 de 1996, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2 — Desarrollo de programas y acciones de prevención
 
 En el formulario de afiliación de la empresa, la Administradora de Riesgos Laborales se comprometerá para con la respectiva empresa a anexar un documento en el que se especifiquen los programas y las acciones de prevención que en el momento se detecten y requieran desarrollarse a corto y mediano plazo.
 
 (Decreto 1530 de 1996, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3 — Contratación de los Sistemas de Gestión de Seguridad y Salud en el Trabajo por parte de las empresas
 
@@ -3696,23 +3240,17 @@ No obstante lo anterior, el diseño y desarrollo del Sistema de Gestión de Segu
 
 (Decreto 1530 de 1996, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.4.1.4 — Conformación de comisiones
 
 El Ministerio del Trabajo reglamentará y fomentará la conformación de comisiones nacionales integradas por representantes de los trabajadores, los empleadores, entidades estatales y otras organizaciones vinculadas con el Sistema General de Riesgos Laborales, cuyo objeto será la de hacer de instancias operativas de las políticas y orientaciones del Sistema para la promoción y prevención de los Riesgos Laborales por actividades de la economía nacional o por interés de tipo sectorial.
 
 (Decreto 1530 de 1996, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.4.1.5 — Prestación de los servicios de salud
 
 Las prestaciones asistenciales en el Sistema General de Riesgos Laborales, se otorgarán en las mismas condiciones medias de calidad fijadas por la Comisión de Regulación en Salud, que han de prestar las entidades promotoras de salud a sus afiliados del régimen contributivo.
 
 (Decreto 1771 de 1994, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.1.6 — Accidente de trabajo y enfermedad laboral con muerte del trabajador
 
@@ -3723,8 +3261,6 @@ Dentro de los diez (10) días hábiles siguientes a la emisión del concepto por
 La Dirección de Riesgos Laborales del Ministerio del Trabajo en cualquier tiempo podrá solicitar los informes de que trata este artículo.
 
 (Decreto 1530 de 1996, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.7 — Reporte de accidentes y enfermedades a las Direcciones Territoriales y Oficinas Especiales
 
@@ -3740,8 +3276,6 @@ SECCIÓN 1
 
 REGLAS GENERALES SOBRE AFILIACIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1 — Selección
 
 Los empleadores que tengan a su cargo uno o más trabajadores deben estar afiliados al Sistema General de Riesgos Laborales.
@@ -3750,15 +3284,11 @@ La selección de la entidad administradora de riesgos laborales es libre y volun
 
 (Decreto 1772 de 1994, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.2 — Formulario de afiliación
 
 Efectuada la selección el empleador deberá adelantar el proceso de vinculación con la respectiva entidad administradora, mediante el diligenciamiento de un formulario provisto para el efecto por la entidad administradora seleccionada, establecido por el Ministerio de Salud y Protección Social.
 
 (Decreto 1772 de 1994, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.3 — Efectos de la afiliación
 
@@ -3767,8 +3297,6 @@ De conformidad con el literal k) del artículo 4 del Decreto Ley 1295 de 1994, l
 Lo anterior, sin perjuicio de la facultad que asiste a la entidad administradora de riesgos laborales de determinar, con posterioridad a la afiliación, si esta corresponde o no a la clasificación real, de conformidad con lo previsto en el artículo 29 del Decreto Ley 1295 de 1994.
 
 (Decreto 1772 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.4 — Cambio de entidad administradora de riesgos laborales
 
@@ -3782,8 +3310,6 @@ La empresa que se traslada conserva la clasificación y el monto de la cotizaci�
 
 (Decreto 1772 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.5 — Obligación especial del empleador
 
 Los empleadores deben informar a sus trabajadores, mediante comunicación individual o colectiva, la entidad administradora de riesgos laborales a la cual están afiliados.
@@ -3791,8 +3317,6 @@ Los empleadores deben informar a sus trabajadores, mediante comunicación indivi
 Igualmente deberá transmitir dicha información, por escrito, a la entidad o entidades promotoras de salud a la que estén afiliados sus trabajadores.
 
 (Decreto 1772 de 1994, art.8)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.6 — Contenido del formulario de novedades
 
@@ -3818,8 +3342,6 @@ Durante el período de duración de la novedad no se causan cotizaciones a cargo
 
 (Decreto 1772 de 1994, art. 19; modificado por el Decreto 1528 de 2015, art.1)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.7 — Afiliación colectiva en el Sistema General de Riesgos Laborales
 
 La afiliación colectiva al Sistema General de Riesgos Laborales, solo podrá realizarse a través de las entidades, entendidas estas como las definidas en el numeral 2.1. del artículo 2 del Decreto 3615 de 2005, o la norma que lo modifique o sustituya.
@@ -3842,15 +3364,11 @@ SECCIÓN 2
 
 AFILIACIÓN, COBERTURA Y EL PAGO DE APORTES DE LAS PERSONAS VINCULADAS A TRAVÉS DE CONTRATO DE PRESTACIÓN DE SERVICIOS
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1 — Objeto
 
 La presente sección tiene por objeto establecer reglas para llevar a cabo la afiliación, cobertura y el pago de aportes en el Sistema General de Riesgos Laborales de las personas vinculadas a través de contrato formal de prestación de servicios con entidades o instituciones públicas o privadas, tales como contratos civiles, comerciales o administrativos y de los trabajadores independientes que laboren en actividades de alto riesgo.
 
 (Decreto 723 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.2 — Campo de aplicación
 
@@ -3862,15 +3380,11 @@ PARÁGRAFO 2. Se entiende como contrato formal de prestación de servicios, aque
 
 (Decreto 723 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3 — Actividades de alto riesgo
 
 Para efectos de la presente sección, se asimilan como de alto riesgo, aquellas actividades correspondientes a las clases IV y V a que hace referencia el Decreto-ley 1295 de 1994 y la clasificación de actividades económicas establecidas en el Decreto 1607 de 2002 o la norma que lo modifique, adicione o sustituya.
 
 (Decreto 723 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4 — Selección de la Administradora de Riesgos Laborales
 
@@ -3880,15 +3394,11 @@ Las personas a las que se les aplica la presente sección, para efectos de su af
 
 PARÁGRAFO . El trabajador dependiente que simultáneamente suscriba uno o más contratos de prestación de servicios civiles, comerciales o administrativos, entre otros, en calidad de contratista, debe seleccionar la misma Administradora de Riesgos Laborales en la que se encuentre afiliado como trabajador dependiente.
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.5 — Afiliación por intermedio del contratante
 
 El contratante debe afiliar al Sistema General de Riesgos Laborales a los contratistas objeto de la presente sección, de conformidad con lo establecido en el parágrafo 3 del artículo 2 de la Ley 1562 de 2012. El incumplimiento de esta obligación, hará responsable al contratante de las prestaciones económicas y asistenciales a que haya lugar.
 
 (Decreto 723 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.6 — Inicio y finalización de la cobertura
 
@@ -3898,15 +3408,11 @@ La finalización de la cobertura para cada contrato corresponde a la fecha de te
 
 (Decreto 723 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.7 — Documentos o soportes para la afiliación
 
 Para la afiliación ante la Administradora de Riesgos Laborales, el contratante debe presentar el formulario físico o electrónico establecido para tal fin por el Ministerio de Salud y Protección Social, así como los soportes que se requieran. El formulario debe contener como mínimo, el valor de los honorarios, las circunstancias de tiempo, modo, lugar y la clase de riesgo.
 
 (Decreto 723 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.8 — Novedades en el Sistema General de Riesgos Laborales
 
@@ -3916,8 +3422,6 @@ La declaración de novedades por parte de los contratantes deberá hacerse media
 
 (Decreto 723 de 2013, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.9 — Afiliación cuando existen varios contratos
 
 Cuando los contratistas a los que les aplica la presente sección celebren o realicen simultáneamente varios contratos, deben estar afiliados al Sistema General de Riegos Laborales por la totalidad de los contratos suscritos, en una misma Administradora de Riesgos Laborales.
@@ -3926,15 +3430,11 @@ El contratista debe informar al contratante, la Administradora de Riesgos Labora
 
 (Decreto 723 de 2013, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.10 — Cobertura de las prestaciones económicas y asistenciales
 
 Los contratistas afiliados al Sistema General de Riesgos Laborales, tienen derecho a las prestaciones económicas y asistenciales establecidas en la legislación vigente.
 
 (Decreto 723 de 2013, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.11 — Cotización según clase de riesgo
 
@@ -3950,8 +3450,6 @@ PARÁGRAFO 2. La Administradora de Riesgos Laborales deberá verificar la clasif
 
 (Decreto 723 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.12 — Ingreso base de cotización
 
 La base para calcular las cotizaciones de las personas a las que les aplica de la presente sección no será inferior a un (1) salario mínimo legal mensual vigente, ni superior a veinticinco (25) salarios mínimos legales mensuales vigentes y debe corresponder a la misma base de cotización para los Sistemas de Salud y Pensiones.
@@ -3961,8 +3459,6 @@ Cuando las personas objeto de la aplicación de la presente sección perciban in
 En el evento de simultaneidad de contratos, el ingreso base de cotización para el reconocimiento de las prestaciones económicas por parte de la Administradora de Riesgos Laborales, será igual a la sumatoria de los ingresos base de cotización de la totalidad de los contratos, sin que supere el límite al que hace referencia el presente artículo.
 
 (Decreto 723 de 2013, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.13 — Pago de la cotización
 
@@ -3976,15 +3472,11 @@ PARÁGRAFO . El contratante deberá realizar la retención y giro de los aportes
 
 (Decreto 723 de 2013, art. 13; Modificado por el Decreto 1273 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.14 — Ingreso base de liquidación
 
 El ingreso base de liquidación para las prestaciones económicas que deban ser reconocidas a las personas objeto de aplicación de la presente sección, se calculará de acuerdo con lo establecido en el artículo 5 de la Ley 1562 de 2012 o la norma que lo modifique, sustituya o adicione y tendrá en cuenta el Ingreso Base de Cotización, según lo previsto en la presente sección.
 
 (Decreto 723 de 2013, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.15 — Obligaciones del contratante
 
@@ -4012,8 +3504,6 @@ El contratante debe cumplir con las normas del Sistema General de Riesgos Labora
 
 (Decreto 723 de 2013, art. 15; Modificado por el Decreto 1273 de 2018, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.16 — Obligaciones del contratista
 
 El contratista debe cumplir con las normas del Sistema General de Riesgos Laborales, en especial, las siguientes:
@@ -4033,8 +3523,6 @@ El contratista debe cumplir con las normas del Sistema General de Riesgos Labora
 6. Informar oportunamente a los contratantes toda novedad derivada del contrato.
 
 (Decreto 723 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.17 — Obligaciones de la Administradora de Riesgos Laborales
 
@@ -4062,8 +3550,6 @@ Las obligaciones de las Administradoras de Riesgos Laborales para con sus trabaj
 
 (Decreto 723 de 2013, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.18 — Exámenes médicos ocupacionales
 
 En virtud de lo establecido en el parágrafo 3 del artículo 2 de la Ley 1562 de 2012, la entidad o institución contratante deberá establecer las medidas para que los contratistas sean incluidos en sus Sistemas de Vigilancia Epidemiológica, para lo cual podrán tener en cuenta los términos de duración de los respectivos contratos. El costo de los exámenes periódicos será asumido por el contratante.
@@ -4073,8 +3559,6 @@ A partir del 15 de abril de 2013, las personas que tengan contrato formal de pre
 Este examen tendrá vigencia máxima de tres (3) años y será válido para todos los contratos que suscriba el contratista, siempre y cuando se haya valorado el factor de riesgo más alto al cual estará expuesto en todos los contratos. En el caso de perder su condición de contratista por un periodo superior a seis (6) meses continuos, deberá realizarse nuevamente el examen.
 
 (Decreto 723 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.19 — Alternativas de ejecución de las actividades de promoción y prevención a cargo de la Administradora de Riesgos Laborales
 
@@ -4088,15 +3572,11 @@ Las actividades de promoción y prevención realizadas por la Administradora de 
 
 (Decreto 723 de 2013, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.20 — Estadísticas de accidentalidad
 
 El contratante debe incluir dentro de sus estadísticas, los accidentes de trabajo y las enfermedades laborales que sufran las personas a las que se les aplica la presente sección en ejercicio de la actividad contratada, las cuales deben ser tenidas en cuenta para determinar el índice de lesión incapacitante y de siniestralidad.
 
 (Decreto 723 de 2013, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.21 — Inspección, vigilancia y control
 
@@ -4110,23 +3590,17 @@ Para efectos de la aplicación de la presente sección, la inspección, vigilanc
 
 (Decreto 723 de 2013, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.22 — Mecanismos de seguimiento y control
 
 En virtud de lo establecido en el parágrafo 3 del artículo 7 de la Ley 1562 de 2012, las entidades Administradoras de Riesgos Laborales deberán acoger las instrucciones y criterios técnicos que establezca la Unidad de Gestión Pensional y Contribuciones Parafiscales, UGPP, para el cumplimiento de sus funciones de cobro de los aportes, cobro persuasivo y recaudo y enviarán a dicha Unidad con la periodicidad y condiciones técnicas que esta determine, la información relativa al desarrollo de tales funciones sobre las obligaciones en mora que se hayan originado con acciones propias o hallazgos remitidos por dicha entidad.
 
 (Decreto 723 de 2013, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.23 — Normas complementarias
 
 En los aspectos no regulados en la presente sección se aplicarán las disposiciones contenidas en el Decreto-ley 1295 de 1994, las Leyes 776 de 2002, 1562 de 2012 y demás disposiciones que las modifiquen, adicionen o sustituyan.
 
 (Decreto 723 de 2013, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.24 — Otras disposiciones
 
@@ -4138,15 +3612,11 @@ SECCIÓN 3
 
 AFILIACIÓN DE ESTUDIANTES AL SISTEMA GENERAL DE RIESGOS LABORALES
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.1 — Objeto
 
 La presente sección tiene por objeto establecer las reglas para la afiliación y el pago de aportes al Sistema General de Riesgos Laborales de los estudiantes que cumplen con las condiciones expresamente señaladas en el literal a) numeral 4 del artículo 13 del Decreto-ley 1295 de 1994, modificado por el artículo 2 de la Ley 1562 de 2012.
 
 (Decreto 55 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.2 — Ámbito de aplicación
 
@@ -4166,8 +3636,6 @@ PARÁGRAFO 2. La afiliación y obligaciones en el Sistema General de Riesgos Lab
 
 (Decreto 55 de 2015, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.3 — Definiciones
 
 Para los efectos de la presente sección, se manejarán las siguientes definiciones:
@@ -4177,8 +3645,6 @@ Riesgo Ocupacional. Entiéndase como la probabilidad de exposición a cualquiera
 Fuente de Ingreso. Entiéndase como aquellos valores recibidos y/o causados a favor de la institución de educación como resultado de las actividades desarrolladas por estudiantes, en cumplimiento del objeto social de la misma.
 
 (Decreto 55 de 2015, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.4 — Afiliación y pago de aportes al Sistema General de Riesgos Laborales
 
@@ -4212,15 +3678,11 @@ PARÁGRAFO 4. Para el caso de la educación superior y de la educación para el 
 
 (Decreto 55 de 2015, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.5 — Cobertura del Sistema General de Riesgos Laborales
 
 La cobertura del Sistema General de Riesgos Laborales se iniciará el día calendario siguiente al de la afiliación y se mantendrá por todo el tiempo que dure la práctica o actividad.
 
 (Decreto 55 de 2015, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.6 — Cotización y pago de aportes al Sistema General de Riesgos Laborales
 
@@ -4229,8 +3691,6 @@ La cotización al Sistema General de Riesgos Laborales de los estudiantes de que
 El pago de los aportes al Sistema se realizará a través de la Planilla Integrada de Liquidación de Aportes (PILA), en las fechas establecidas para las personas jurídicas. La tarifa a pagar por la cobertura se determinará de acuerdo con la actividad económica principal o el centro de trabajo de la entidad, empresa o institución pública o privada donde se realice la práctica.
 
 (Decreto 55 de 2015, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.7 — Garantías de seguridad, protección y bienestar de los estudiantes
 
@@ -4250,8 +3710,6 @@ PARÁGRAFO . Las garantías establecidas en el presente artículo serán respons
 
 (Decreto 55 de 2015, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.8 — Responsabilidades de los estudiantes durante la realización de la práctica o actividad
 
 Los estudiantes de que trata la presente sección tendrán las siguientes responsabilidades en su calidad de afiliados al Sistema General de Riesgos Laborales:
@@ -4266,8 +3724,6 @@ Los estudiantes de que trata la presente sección tendrán las siguientes respon
 
 (Decreto 55 de 2015, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.9 — Obligaciones del responsable de la afiliación y pago
 
 La entidad territorial certificada en educación, la institución de educación, la escuela normal superior o la empresa o institución pública o privada que afilia y paga los aportes al Sistema General de Riesgos Laborales del estudiante, tendrán las siguientes obligaciones:
@@ -4281,8 +3737,6 @@ La entidad territorial certificada en educación, la institución de educación,
 4. Reportar los accidentes y las enfermedades ocurridas con ocasión de la práctica o actividad, a la Administradora de Riesgos Laborales y a la Entidad Promotora de Salud respectiva del estudiante.
 
 (Decreto 55 de 2015, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.10 — Obligaciones de la entidad, empresa o institución pública o privada en donde se realice la práctica
 
@@ -4300,8 +3754,6 @@ La entidad, empresa o institución pública o privada en donde se realice la pr�
 
 (Decreto 55 de 2015, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.11 — Obligaciones de la institución de educación
 
 Corresponde a las instituciones de educación a las que pertenezcan los estudiantes, que deban ser afiliados al Sistema General de Riesgos Laborales de conformidad con la presente sección:
@@ -4312,15 +3764,11 @@ Corresponde a las instituciones de educación a las que pertenezcan los estudian
 
 (Decreto 55 de 2015, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.12 — Supervisión de la práctica
 
 La entidad, empresa o institución pública o privada en la que el estudiante realice su práctica podrá designar una persona que verifique el cumplimiento de las condiciones de prevención, higiene y seguridad industrial y de las labores formativas asignadas al estudiante.
 
 (Decreto 55 de 2015, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.13 — Protección y prevención a cargo de las Administradoras de Riesgos Laborales
 
@@ -4330,15 +3778,11 @@ Frente a los accidentes ocurridos con ocasión de la práctica o actividad de lo
 
 (Decreto 55 de 2015, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.14 — Prestaciones económicas y asistenciales del Sistema General de Riesgos Laborales
 
 Los estudiantes de que trata la presente sección, tendrán todas las prestaciones económicas y asistenciales del Sistema General de Riesgos Laborales establecidas en el Decreto-ley 1295 de 1994, en la Ley 776 de 2002, en la Ley 1562 de 2012 y en las demás normas que las modifiquen, adicionen o sustituyan.
 
 (Decreto 55 de 2015, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.15 — De la responsabilidad y sanciones
 
@@ -4347,8 +3791,6 @@ El incumplimiento de los deberes consagrados en la presente sección, dará luga
 La inspección, vigilancia y control será ejercida por la Superintendencia Financiera de Colombia, por la Superintendencia Nacional de Salud y por el Ministerio del Trabajo, de acuerdo con las normas vigentes.
 
 (Decreto 55 de 2015, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.16 — Disposiciones complementarias
 
@@ -4360,8 +3802,6 @@ SECCIÓN 4
 
 RIESGOS LABORALES EN EMPRESAS DE SERVICIOS TEMPORALES
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.1 — Afiliación de trabajadores de las empresas de servicios temporales
 
 Los trabajadores permanentes y en misión de las empresas de servicios temporales deberán ser afiliados por éstas a una Administradora de Riesgos Laborales.
@@ -4369,8 +3809,6 @@ Los trabajadores permanentes y en misión de las empresas de servicios temporale
 PARÁGRAFO . Igualmente deberán ser afiliados los trabajadores a los Sistemas General de Pensiones y Salud, a través de las Empresas Promotoras de Salud y Administradoras del Fondo de Pensiones que ellos elijan.
 
 (Decreto 1530 de 1996, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.2 — Sistema de Gestión de la Seguridad y Salud en el Trabajo SG- SST
 
@@ -4386,15 +3824,11 @@ PARÁGRAFO . El cumplimiento de lo ordenado en este artículo no constituye vín
 
 (Decreto 1530 de 1996, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.3 — Pago de las cotizaciones
 
 Las empresas de servicios temporales tendrán a su cargo el pago de las cotizaciones para el Sistema General de Riesgos Laborales de sus trabajadores a la correspondiente ARL donde los hayan afiliado.
 
 (Decreto 1530 de 1996, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.4 — Cotización de las empresas de servicios temporales
 
@@ -4405,8 +3839,6 @@ Para los trabajadores de planta según la clase de riesgo en que se encuentre cl
 Para los trabajadores en misión, según la clase de riesgo en que se encuentre clasificada la empresa usuaria o centro de trabajo.
 
 (Decreto 1530 de 1996, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.5 — Reporte de accidente de trabajo y enfermedad laboral
 
@@ -4422,13 +3854,9 @@ AFILIACIÓN VOLUNTARIA AL SISTEMA GENERAL DE RIESGOS LABORALES
 
 Sección adicionado por el Decreto 1563 de 2016
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.1 — Objeto y ámbito de aplicación
 
 La presente sección tiene por objeto establecer las reglas para la afiliación voluntaria de los trabajadores independientes que devenguen uno (1) o más salarios mínimos mensuales legales vigentes y el pago de aportes al sistema general de riesgos laborales, a través de las administradoras de riesgos laborales y mediante el uso de la planilla integrada de liquidación de aportes PILA
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.2 — Reglas de afiliación al sistema general de riesgos Laborales
 
@@ -4460,27 +3888,19 @@ La afiliación voluntaria al sistema general de riesgos laborales realizada por 
 
 (Artículo MODIFICADO por el Art. 20 del decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.4 — Iniciación de la cobertura del sistema general de riesgos laborales
 
 La cobertura del sistema general de riesgos laborales se iniciará el día calendario siguiente al de la afiliación.
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.5 — Ingreso base de cotización
 
 El ingreso base de cotización al sistema general de riesgos laborales de las personas de que trata esta sección, deberá ser el mismo con el que aportan a los sistemas generales de salud y pensiones y en todo caso no podrá ser inferior a un (1) salario mínimo legal mensual vigente, ni superior a veinticinco (25) salarios mínimos legales mensuales vigentes.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.6 — Cotización y pago de aportes al sistema general de riesgos laborales
 
 La cotización al sistema general de riesgos laborales se efectuará por períodos mensuales completos y se pagará mes vencido, conforme a lo dispuesto en el artículo 135 de la Ley 1753 de 2015. Para efectos del pago se atenderán los plazos establecidos en el Título 2 de la Parte 2 del Libro 3 del Decreto 780 de 2016, Único Reglamentario del Sector Salud y Protección Social y se utilizará la planilla integrada de liquidación de aportes PILA.
 
 Cuando la persona ejerza simultáneamente varias ocupaciones u oficios deberá cotizar por el valor de la clase de riesgo más alta.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.7 — Tabla de cotizaciones mínimas y máximas
 
@@ -4542,15 +3962,11 @@ Las personas a quienes aplica la presente sección cotizarán al sistema general
 
 3. Clase de riesgo V, valor correspondiente a la sección 8.
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.8 — Variación de la cotización
 
 Los porcentajes señalados en la "Tabla de Cotizaciones Mínimas y Máximas" de que trata el artículo 2.2.4.2.5.7, del presente Decreto, podrán ser modificados teniendo en cuenta el análisis del comportamiento de la siniestralidad.
 
 Las administradoras de riesgos laborales realizarán la caracterización de la siniestralidad de acuerdo con lo establecido por los Ministerios del Trabajo y de Salud y Protección Social, quienes recopilarán la información pertinente respecto a la población objeto de esta sección.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.9 — Tabla de clasificación de ocupaciones u oficios más representativos
 
@@ -4564,8 +3980,6 @@ PARÁGRAFO . La tabla de ocupaciones u oficios a que hace referencia el presente
 
 (Ver Decreto 768 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.10 — Efectos de la mora en las cotizaciones
 
 El no pago de dos (2) períodos consecutivos de las cotizaciones de las personas de que trata la presente sección dará lugar a la suspensión de la afiliación por parte de la administradora de riesgos laborales.
@@ -4573,8 +3987,6 @@ El no pago de dos (2) períodos consecutivos de las cotizaciones de las personas
 Para tal efecto, la entidad administradora de riesgos laborales deberá enviar a la última dirección conocida del afiliado una comunicación por correo certificado en un plazo no mayor a un (1) mes después del no pago de los aportes, señalando la situación de incumplimiento y las consecuencias que le acarrea. La comunicación constituirá al afiliado en mora.
 
 Durante el período de suspensión no habrá lugar al reconocimiento y pago de las prestaciones económicas del sistema general de riesgos laborales.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.11 — Obligaciones de los afiliados voluntarios al Sistema General de Riesgos Laborales
 
@@ -4605,8 +4017,6 @@ Las personas a que aplica esta sección tendrán las siguientes obligaciones:
 12, Acoger y poner en práctica las recomendaciones que en materia de prevención del riesgo imparta la administradora de riesgos laborales.
 
 13. Disponer y asumir el costo de los elementos de protección personal necesarios y utilizarlos para ejecutar su ocupación u oficio.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.12 — Obligaciones a cargo de las administradoras de riesgos laborales
 
@@ -4640,8 +4050,6 @@ Las administradoras de riesgos laborales deberán implementar y desarrollar a fa
 
 Frente a los accidentes graves ocurridos con ocasión de la ocupación u oficio de las personas a quienes aplica esta sección, afiliadas al sistema general de riesgos laborales, la administradora de riesgos laborales realizará la investigación en un término no superior a treinta (30) días hábiles contados a partir del reporte del evento y recomendará las acciones de prevención conforme a las causas analizadas.
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.13 — Accidente de trabajo y enfermedad laboral
 
 Para efecto de la presente sección, la determinación del origen del accidente, la enfermedad o la muerte, el grado de pérdida de la capacidad laboral, la fecha de estructuración, así como el informe que se debe rendir sobre su ocurrencia y las consecuencias por no reportarlas en los tiempos establecidos, se regirán por lo dispuesto en el Decreto Ley 1295 de 1994, fa Ley 776 de 2002, la Ley 1 562 de 201 2, y las demás normas que las modifiquen, sustituyan.
@@ -4650,19 +4058,13 @@ PARÁGRAFO . En caso de que el afiliado se encuentre imposibilitado para hacer e
 
 Si se trata de un trabador afiliado a través de una agremiación, el reporte lo deberá efectuar ésta dentro de los dos (2) días hábiles siguientes a la ocurrencia del accidente o al diagnóstico de la enfermedad.
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.14 — Prestaciones económicas y asistenciales del sistema general de riesgos laborales
 
 Las personas de que trata la presente sección tendrán derecho al reconocimiento y pago de las prestaciones económicas y asistenciales del sistema general de riesgos laborales establecidas en el Decreto Ley 1295 de 1994, en la Ley 776 de 2002, en la Ley 1562 de 2012 y en las demás normas que las modifiquen o sustituyan.
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.15 — Ingreso base de liquidación
 
 El ingreso base de liquidación para las prestaciones económicas que deban ser reconocidas a la población objeto de la presente sección, se calculará conforme al artículo 5 de la Ley 1562 de 2012.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.16 — .16
 
@@ -4674,13 +4076,9 @@ Inspección, vigilancia y control El incumplimiento de los deberes consagrados e
 
 3. A la Superintendencia Financiera de Colombia le compete ejercer la respectiva vigilancia y control a las administradoras de riesgos laborales en relación con los niveles de patrimonio, reservas, inversiones, control financiero y cuando estas incurran en conductas tendientes a dilatar injustificadamente el pago de las prestaciones económicas.
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.17 — Fiscalización del pago de aportes
 
 La Unidad de Gestión Pensional y Parafiscales - UGPP, realizará, conforme con la normatividad vigente las tareas de seguimiento y determinación del oportuno y correcto pago de los aportes al Sistema de la Protección Social por parte del afiliado voluntario.
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.18 — Disposiciones complementarias
 
@@ -4691,8 +4089,6 @@ Los aspectos no previstos en la presente sección se regirán por las demás nor
 CAPÍTULO 3
 
 COTIZACIONES EN EL SISTEMA DE RIESGOS LABORALES
-
-ARTÍCULO
 
 ## art:2.2.4.3.1 — Determinación de la cotización
 
@@ -4706,8 +4102,6 @@ Las cotizaciones al Sistema General de Riesgos Laborales se determinan de acuerd
 
 (Decreto 1772 de 1994, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2 — Obligatoriedad de las cotizaciones
 
 Durante la vigencia de la relación laboral, los empleadores deberán efectuar cotizaciones obligatorias al Sistema General de Riesgos Laborales.
@@ -4715,8 +4109,6 @@ Durante la vigencia de la relación laboral, los empleadores deberán efectuar c
 PARÁGRAFO . En aquellos casos en los cuales el afiliado perciba salario de dos o más empleadores, las cotizaciones correspondientes serán efectuadas en forma proporcional al salario base de cotización a cargo de cada uno de ellos.
 
 (Decreto 1772 de 1994, art.
-
-ARTÍCULO
 
 ## art:2.2.4.3.3 — Base de Cotización
 
@@ -4728,15 +4120,11 @@ Igual que para el Sistema General de pensiones, la base de cotización estará l
 
 (Decreto 1772 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.3.4 — Monto de las cotizaciones
 
 El monto de las cotizaciones a cargo de los empleadores, no podrá ser inferior al 0.348%, ni superior al 8.7%, de la base de cotización de los trabajadores a cargo del respectivo empleador.
 
 (Decreto 1772 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.3.5 — Tabla de Cotizaciones Mínimas y Máximas
 
@@ -4786,8 +4174,6 @@ Toda empresa que ingrese por primera vez al Sistema General de Riesgos Laborales
 
 (Decreto 1772 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.4.3.6 — Formulario de novedades
 
 Las entidades administradoras de riesgos laborales deben suministrar los formularios de novedades, establecidos por la Superintendencia Financiera.
@@ -4798,8 +4184,6 @@ Las demás novedades pueden informarse mensualmente, junto con la Autoliquidaci�
 
 (Decreto 1772 de 1994, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.4.3.7 — Plazo para el pago de las cotizaciones
 
 Los empleadores son responsables del pago de las cotizaciones al Sistema General de Riesgos Laborales, y deberán consignarlas dentro de los diez (10) primeros días comunes del mes siguiente a aquel objeto de la cotización.
@@ -4808,8 +4192,6 @@ Las entidades administradoras podrán aceptar la modalidad de pago de cotizacion
 
 (Decreto 1772 de 1994, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.4.3.8 — Acciones de cobro
 
 Corresponde a las entidades administradoras de riesgos laborales entablar las acciones de cobro contra los empleadores, por las cotizaciones que se encuentren en mora, así como por los intereses de mora que se generen, pudiendo repetir contra los respectivos empleadores por los costos que haya demandado el trámite pertinente.
@@ -4817,8 +4199,6 @@ Corresponde a las entidades administradoras de riesgos laborales entablar las ac
 Los honorarios correspondientes a recaudos extrajudiciales solo podrán ser cobrados a los deudores morosos cuando este cobro se adelante por terceros.
 
 (Decreto 1772 de 1994, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.4.3.9 — Centro de trabajo
 
@@ -4836,8 +4216,6 @@ PARÁGRAFO . Las unidades de radiodiagnóstico y de radioterapia de los centros 
 
 (Decreto 1530 de 1996, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.3.10 — Fundamento de la reclasificación
 
 La reclasificación de centros de trabajo que implique para ellos una cotización diferente a aquella que le corresponde a la actividad principal de la empresa, deberá ser sustentada con estudios técnicos completos, realizados por entidades o profesionales reconocidos legalmente y verificables por la entidad Administradora de Riesgos Laborales correspondiente o el Ministerio del Trabajo.
@@ -4845,8 +4223,6 @@ La reclasificación de centros de trabajo que implique para ellos una cotizació
 PARÁGRAFO . La reclasificación se podrá realizar sobre Centros de Trabajo y en ninguna circunstancia por puestos de trabajo.
 
 (Decreto 1530 de 1996, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.3.11 — Remisión de los estudios de reclasificación
 
@@ -4862,23 +4238,17 @@ CAPÍTULO 4
 
 REEMBOLSOS
 
-ARTÍCULO
-
 ## art:2.2.4.4.1 — Campo de aplicación
 
 El presente Capítulo se aplica a todos los afiliados al Sistema General de Riesgos Laborales, organizado por el Decreto 1295 de 1994.
 
 (Decreto 1771 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2 — Reembolso de la atención inicial de urgencias
 
 Las entidades administradoras de riesgos laborales deberán reembolsar los costos de la atención inicial de urgencias prestada a sus afiliados, y que tengan origen en un accidente de trabajo o una enfermedad laboral, de conformidad con los artículos 168 y 208 de la Ley 100 de 1993 y sus reglamentos.
 
 (Decreto 1771 de 1994, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.4.3 — Reembolso por prestaciones asistenciales
 
@@ -4893,8 +4263,6 @@ Las empresas promotoras de salud deberán incluir en la respectiva historia clí
 PARÁGRAFO . Lo anterior sin perjuicio de que las Entidades Promotoras de Salud y las entidades administradoras de riesgos laborales convengan el reembolso en virtud de cuentas globales elaboradas con base en estimativos técnicos. En este caso no se requerirá diligencia el formulario establecido por la Superintendencia Nacional de Salud.
 
 (Decreto 1771 de 1994, art. 3; modificado por el Decreto 455 de 1999)
-
-ARTÍCULO
 
 ## art:2.2.4.4.4 — Formulario de reembolso
 
@@ -4930,8 +4298,6 @@ PARÁGRAFO . Hasta tanto la Superintendencia Nacional de Salud determine el form
 
 (Decreto 1771 de 1994, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.4.5 — Reembolsos entre entidades administradoras de riesgos laborales
 
 Las prestaciones derivadas de la enfermedad laboral serán pagadas en su totalidad por la entidad administradora de riesgos laborales a la cual esté afiliado el trabajador al momento de requerir la prestación.
@@ -4941,8 +4307,6 @@ La entidad administradora de riesgos laborales que atienda las prestaciones econ
 La entidad administradora de riesgos laborales que asuma las prestaciones económicas, podrá solicitar los reembolsos a que haya lugar dentro del mes siguiente a la fecha en que cese la incapacidad temporal, se pague la indemnización por incapacidad permanente, o se reconozca definitivamente la presión de invalidez o de sobrevivientes.
 
 (Decreto 1771 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.4.6 — Procedimiento para efectuar los reembolsos
 
@@ -4958,8 +4322,6 @@ Los reembolsos a que se refiere este artículo se harán dentro del mes siguient
 
 (Decreto 1771 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7 — Subrogación
 
 La entidad administradora de riesgos laborales podrá repetir, con sujeción a las normas pertinentes, contra el tercero responsable de la contingencia laboral, hasta por el monto calculado de las prestaciones a cargo de dicha entidad administradora, con sujeción en todo caso al límite de responsabilidad del tercero.
@@ -4971,8 +4333,6 @@ Lo dispuesto en el inciso anterior no excluye que la víctima, o sus causahabien
 CAPÍTULO 5
 
 DEL CONSEJO NACIONAL DE RIESGOS LABORALES
-
-ARTÍCULO
 
 ## art:2.2.4.5.1 — Modificaciones de los planes de inversión del fondo de riesgos laborales
 
@@ -4986,15 +4346,11 @@ CAPÍTULO 6
 
 SISTEMA DE GESTIÓN DE LA SEGURIDAD Y SALUD EN EL TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.4.6.1 — Objeto y campo de aplicación
 
 El presente capítulo tiene por objeto definir las directrices de obligatorio cumplimiento para implementar el Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), que deben ser aplicadas por todos los empleadores públicos y privados, los contratantes de personal bajo modalidad de contrato civil, comercial o administrativo, las organizaciones de economía solidaria y del sector cooperativo, las empresas de servicios temporales y tener cobertura sobre los trabajadores dependientes, contratistas, trabajadores cooperados y los trabajadores en misión.
 
 (Decreto 1443 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.6.2 — Definiciones
 
@@ -5088,15 +4444,11 @@ PARÁGRAFO 2. Conforme al parágrafo anterior se entenderá el Comité Paritario
 
 (Decreto 1443 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.6.3 — Seguridad y salud en el trabajo (SST)
 
 La Seguridad y Salud en el Trabajo (SST) es la disciplina que trata de la prevención de las lesiones y enfermedades causadas por las condiciones de trabajo, y de la protección y promoción de la salud de los trabajadores. Tiene por objeto mejorar las condiciones y el medio ambiente de trabajo, así como la salud en el trabajo, que conlleva la promoción y el mantenimiento del bienestar físico, mental y social de los trabajadores en todas las ocupaciones.
 
 (Decreto 1443 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.6.4 — Sistema de gestión de la seguridad y salud en el trabajo (SG-SST)
 
@@ -5112,15 +4464,11 @@ PARÁGRAFO 2. Dentro de los parámetros de selección y evaluación de proveedor
 
 (Decreto 1443 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.6.5 — Política de seguridad y salud en el trabajo (SST)
 
 El empleador o contratante debe establecer por escrito una política de Seguridad y Salud en el Trabajo (SST) que debe ser parte de las políticas de gestión de la empresa, con alcance sobre todos sus centros de trabajo y todos sus trabajadores, independiente de su forma de contratación o vinculación, incluyendo los contratistas y subcontratistas. Esta política debe ser comunicada al Comité Paritario o Vigía de Seguridad y Salud en el Trabajo según corresponda de conformidad con la normatividad vigente.
 
 (Decreto 1443 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.6.6 — Requisitos de la política de seguridad y salud en el trabajo (SST)
 
@@ -5138,8 +4486,6 @@ La Política de SST de la empresa debe entre otros, cumplir con los siguientes r
 
 (Decreto 1443 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.6.7 — Objetivos de la política de seguridad y salud en el trabajo (SST)
 
 La Política de SST de la empresa debe incluir como mínimo los siguientes objetivos sobre los cuales la organización expresa su compromiso:
@@ -5151,8 +4497,6 @@ La Política de SST de la empresa debe incluir como mínimo los siguientes objet
 3. Cumplir la normatividad nacional vigente aplicable en materia de riesgos laborales.
 
 (Decreto 1443 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.4.6.8 — Obligaciones de los empleadores
 
@@ -5196,15 +4540,11 @@ PARÁGRAFO . Por su importancia, el empleador debe identificar la normatividad n
 
 (Decreto 1443 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.6.9 — Obligaciones de las administradoras de riesgos laborales (ARL)
 
 Las Administradoras de Riesgos Laborales - ARL, dentro de las obligaciones que le confiere la normatividad vigente en el Sistema General de Riesgos Laborales, capacitarán al Comité Paritario o Vigía de Seguridad y Salud en el Trabajo - COPASST o Vigía en Seguridad y Salud en el Trabajo en los aspectos relativos al SG-SST y prestarán asesoría y asistencia técnica a sus empresas y trabajadores afiliados, en la implementación del presente capítulo.
 
 (Decreto 1443 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4.6.10 — Responsabilidades de los trabajadores
 
@@ -5224,8 +4564,6 @@ Los trabajadores, de conformidad con la normatividad vigente tendrán entre otra
 
 (Decreto 1443 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.4.6.11 — Capacitación en seguridad y salud en el trabajo - SST
 
 El empleador o contratante debe definir los requisitos de conocimiento y práctica en seguridad y salud en el trabajo necesarios para sus trabajadores, también debe adoptar y mantener disposiciones para que estos los cumplan en todos los aspectos de la ejecución de sus deberes u obligaciones, con el fin de prevenir accidentes de trabajo y enfermedades laborales. Para ello, debe desarrollar un programa de capacitación que proporcione conocimiento para identificar los peligros y controlar los riesgos relacionados con el trabajo, hacerlo extensivo a todos los niveles de la organización incluyendo a trabajadores dependientes, contratistas, trabajadores cooperados y los trabajadores en misión, estar documentado, ser impartido por personal idóneo conforme a la normatividad vigente.
@@ -5235,8 +4573,6 @@ PARÁGRAFO 1. El programa de capacitación en seguridad y salud en el trabajo -S
 PARÁGRAFO 2. El empleador proporcionará a todo trabajador que ingrese por primera vez a la empresa, independiente de su forma de contratación y vinculación y de manera previa al inicio de sus labores, una inducción en los aspectos generales y específicos de las actividades a realizar, que incluya entre otros, la identificación y el control de peligros y riesgos en su trabajo y la prevención de accidentes de trabajo y enfermedades laborales.
 
 (Decreto 1443 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.4.6.12 — Documentación
 
@@ -5284,8 +4620,6 @@ PARÁGRAFO 3. El trabajador tiene derecho a consultar los registros relativos a 
 
 (Decreto 1443 de 2014, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.4.6.13 — Conservación de los documentos
 
 El empleador debe conservar los registros y documentos que soportan el Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST de manera controlada, garantizando que sean legibles, fácilmente identificables y accesibles, protegidos contra daño, deterioro o pérdida. El responsable del SG-SST tendrá acceso a todos los documentos y registros exceptuando el acceso a las historias clínicas ocupacionales de los trabajadores cuando no tenga perfil de médico especialista en seguridad y salud en el trabajo. La conservación puede hacerse de forma electrónica de conformidad con lo establecido en el presente capítulo siempre y cuando se garantice la preservación de la información.
@@ -5306,8 +4640,6 @@ Para los demás documentos y registros, el empleador deberá elaborar y cumplir 
 
 (Decreto 1443 de 2014, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.4.6.14 — Comunicación
 
 El empleador debe establecer mecanismos eficaces para:
@@ -5319,8 +4651,6 @@ El empleador debe establecer mecanismos eficaces para:
 3. Disponer de canales que permitan recolectar inquietudes, ideas y aportes de los trabajadores en materia de seguridad y salud en el trabajo para que sean consideradas y atendidas por los responsables en la empresa.
 
 (Decreto 1443 de 2014, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.4.6.15 — Identificación de peligros, evaluación y valoración de los riesgos
 
@@ -5341,8 +4671,6 @@ PARÁGRAFO 3. El empleador debe informar al Comité Paritario o Vigía de Seguri
 PARÁGRAFO 4. Se debe identificar y relacionar en el Sistema de Gestión de la Seguridad y Salud en el Trabajo los trabajadores que se dediquen en forma permanente a las actividades de alto riesgo a las que hace referencia el Decreto 2090 de 2003, o la norma que lo modifique o sustituya.
 
 (Decreto 1443 de 2014, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.4.6.16 — Evaluación inicial del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
@@ -5376,8 +4704,6 @@ PARÁGRAFO 3. El empleador o contratante debe facilitar mecanismos para el autor
 
 (Decreto 1443 de 2014, art, 16)
 
-ARTÍCULO
-
 ## art:2.2.4.6.17 — Planificación del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
 El empleador o contratante debe adoptar mecanismos para planificar el Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST, basado en la evaluación inicial y otros datos disponibles que aporten a este propósito.
@@ -5410,8 +4736,6 @@ PARÁGRAFO 2. El plan de trabajo anual debe ser firmado por el empleador y conte
 
 (Decreto 1443 de 2014, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.4.6.18 — Objetivos del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
 Los objetivos deben expresarse de conformidad con la política de seguridad y salud en el trabajo establecida en la empresa y el resultado de la evaluación inicial y auditorías que se realicen.
@@ -5431,8 +4755,6 @@ Estos objetivos deben tener en cuenta entre otros aspectos, los siguientes:
 6. Ser revisados y evaluados periódicamente, mínimo una (1) vez al año y actualizados de ser necesario.
 
 (Decreto 1443 de 2014, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.4.6.19 — Indicadores del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
@@ -5455,8 +4777,6 @@ Cada indicador debe contar con una ficha técnica que contenga las siguientes va
 7. Personas que deben conocer el resultado.
 
 (Decreto 1443 de 2014, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.4.6.20 — Indicadores que evalúan la estructura del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
@@ -5485,8 +4805,6 @@ Para la definición y construcción de los indicadores que evalúan la estructur
 11. La definición de un plan de capacitación en seguridad y salud en el trabajo.
 
 (Decreto 1443 de 2014, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.4.6.21 — Indicadores que evalúan el proceso del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
@@ -5518,8 +4836,6 @@ Para la definición y construcción de los indicadores que evalúan el proceso, 
 
 (Decreto 1443 de 2014, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.4.6.22 — Indicadores que evalúan el resultado del sistema de gestión de la seguridad y salud en el trabajo SG-SST
 
 Para la definición y construcción de los indicadores que evalúan el resultado, el empleador debe considerar entre otros:
@@ -5546,15 +4862,11 @@ Para la definición y construcción de los indicadores que evalúan el resultado
 
 (Decreto 1443 de 2014, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.4.6.23 — Gestión de los peligros y riesgos
 
 El empleador o contratante debe adoptar métodos para la identificación, prevención, evaluación, valoración y control de los peligros y riesgos en la empresa.
 
 (Decreto 1443 de 2014, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.4.6.24 — Medidas de prevención y control
 
@@ -5579,8 +4891,6 @@ PARÁGRAFO 3. El empleador debe desarrollar acciones de vigilancia de la salud d
 PARÁGRAFO 4. El empleador o contratante debe corregir las condiciones inseguras que se presenten en el lugar de trabajo, de acuerdo con las condiciones específicas y riesgos asociados a la tarea.
 
 (Decreto 1443 de 2014, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.4.6.25 — Prevención, preparación y respuesta ante emergencias
 
@@ -5620,8 +4930,6 @@ PARÁGRAFO 2. El diseño del plan de prevención, preparación y respuesta ante 
 
 (Decreto 1443 de 2014, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.4.6.26 — Gestión del cambio
 
 El empleador o contratante debe implementar y mantener un procedimiento para evaluar el impacto sobre la seguridad y salud en el trabajo que puedan generar los cambios internos (introducción de nuevos procesos, cambio en los métodos de trabajo, cambios en instalaciones, entre otros) o los cambios externos (cambios en la legislación, evolución del conocimiento en seguridad y salud en el trabajo, entre otros).
@@ -5632,15 +4940,11 @@ PARÁGRAFO . Antes de introducir los cambios internos de que trata el presente a
 
 (Decreto 1443 de 2014, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.4.6.27 — Adquisiciones
 
 El empleador debe establecer y mantener un procedimiento con el fin de garantizar que se identifiquen y evalúen en las especificaciones relativas a las compras o adquisiciones de productos y servicios, las disposiciones relacionadas con el cumplimiento del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST por parte de la empresa.
 
 (Decreto 1443 de 2014, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.4.6.28 — Contratación
 
@@ -5664,8 +4968,6 @@ PARÁGRAFO . Para los efectos del Sistema de Gestión de la Seguridad y Salud en
 
 (Decreto 1443 de 2014, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.4.6.29 — Auditoría de cumplimiento del sistema de gestión de la seguridad y salud en el trabajo
 
 SG-SST. El empleador debe realizar una auditoría anual, la cual será planificada con la participación del Comité Paritario o Vigía de Seguridad y Salud en el Trabajo. Si la auditoría se realiza con personal interno de la entidad, debe ser independiente a la actividad, área o proceso objeto de verificación.
@@ -5675,8 +4977,6 @@ PARÁGRAFO . El programa de auditoría debe comprender entre otros, la definici�
 Los resultados de la auditoría deben ser comunicados a los responsables de adelantar las medidas preventivas, correctivas o de mejora en la empresa.
 
 (Decreto 1443 de 2014, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.4.6.30 — Alcance de la auditoria de cumplimiento del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST)
 
@@ -5709,8 +5009,6 @@ El proceso de auditoría de que trata el presente capítulo, deberá abarcar ent
 13. La evaluación por parte de la alta dirección.
 
 (Decreto 1443 de 2014, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.4.6.31 — Revisión por la alta dirección
 
@@ -5772,8 +5070,6 @@ PARÁGRAFO . Los resultados de la revisión de la alta dirección deben ser docu
 
 (Decreto 1443 de 2014, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.4.6.32 — Investigación de incidentes, accidentes de trabajo y enfermedades laborales
 
 La investigación de las causas de los incidentes, accidentes de trabajo y enfermedades laborales, debe adelantarse acorde con lo establecido en el presente Decreto, la Resolución número 1401 de 2007 expedida por el entonces Ministerio de la Protección Social, hoy Ministerio del Trabajo, y las disposiciones que los modifiquen, adicionen o sustituyan. El resultado de esta investigación, debe permitir entre otras, las siguientes acciones:
@@ -5792,8 +5088,6 @@ PARÁGRAFO 2. Para las investigaciones de que trata el presente artículo, el em
 
 (Decreto 1443 de 2014, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.4.6.33 — Acciones preventivas y correctivas
 
 El empleador debe garantizar que se definan e implementen las acciones preventivas y correctivas necesarias, con base en los resultados de la supervisión y medición de la eficacia del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), de las auditorías y de la revisión por la alta dirección.
@@ -5809,8 +5103,6 @@ PARÁGRAFO 1. Cuando se evidencie que las medidas de prevención y protección r
 PARÁGRAFO 2. Todas las acciones preventivas y correctivas deben estar documentadas, ser difundidas a los niveles pertinentes, tener responsables y fechas de cumplimiento.
 
 (Decreto 1443 de 2014, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.4.6.34 — Mejora continua
 
@@ -5832,15 +5124,11 @@ El empleador debe dar las directrices y otorgar los recursos necesarios para la 
 
 (Decreto 1443 de 2014, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.4.6.35 — Capacitación obligatoria
 
 Los responsables de la ejecución de los Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), deberán realizar el curso de capacitación virtual de cincuenta (50) horas sobre el Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST) que defina el Ministerio del Trabajo en desarrollo de las acciones señaladas en el literal a) del artículo 12 de la Ley 1562 de 2012, y obtener el certificado de aprobación del mismo.
 
 (Decreto 1443 de 2014, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.4.6.36 — Sanciones
 
@@ -5849,8 +5137,6 @@ El incumplimiento a lo establecido en el presente capítulo y demás normas que 
 PARÁGRAFO . Las Administradoras de Riesgos Laborales realizarán la vigilancia delegada del cumplimiento de lo dispuesto en el presente capítulo e informarán a las Direcciones Territoriales del Ministerio del Trabajo los casos en los cuales se evidencia el no cumplimiento del mismo por parte de sus empresas afiliadas.
 
 (Decreto 1443 de 2014, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.4.6.37 — Transición
 
@@ -5916,8 +5202,6 @@ El Ministerio del Trabajo podrá verificar en cualquier momento el cumplimiento 
 
 (Decreto 52 de 2017, art.1)
 
-ARTÍCULO
-
 ## art:2.2.4.6.38 — Constitución del Plan Nacional de Seguridad y Salud en el Trabajo
 
 Las actividades de Seguridad y Salud en el Trabajo que realicen todas las entidades, tanto públicas como privadas, deberán ser contempladas dentro del Plan Nacional de Seguridad y Salud en el Trabajo.
@@ -5938,23 +5222,17 @@ PARÁGRAFO . Las entidades y empresas públicas se considerarán incluidas en el
 
 (Decreto 614 de 1984, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.4.6.39 — Sujeción de otras entidades gubernamentales
 
 Las demás entidades gubernamentales que ejerzan acciones de Seguridad y Salud en el Trabajo, igualmente deberán integrarse al Plan de Seguridad y Salud en el Trabajo y, por tanto, se ajustarán a las normas legales para la ejecución de sus actividades en esta área.
 
 (Decreto 614 de 1984, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.6.40 — Servicios privados de Seguridad y Salud en el Trabajo
 
 Cualquier persona natural o jurídica podrá prestar servicios de Seguridad y Salud en el Trabajo a empleadores o trabajadores, sujetándose a la supervisión y vigilancia del Ministerio de Salud y Protección Social o de la entidad en que éste delegue.
 
 (Decreto 614 de 1984, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.4.6.41 — Responsabilidades de los servicios privados de Salud y Seguridad en el Trabajo
 
@@ -5968,8 +5246,6 @@ Las personas o empresas que se dediquen a prestar servicios de Seguridad y Salud
 
 (Decreto 614 de 1984, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.4.6.42 — Contratación de Servicios de Seguridad y Salud en el Trabajo
 
 La contratación, por parte del empleador de los Servicios de Seguridad y Salud en el Trabajo con una empresa especialmente dedicada de este tipo de servicios, no implica en ningún momento, el traslado de las responsabilidades del empleador al contratista.
@@ -5982,15 +5258,11 @@ CAPÍTULO 7
 
 SISTEMA DE GARANTÍA DE CALIDAD DEL SISTEMA GENERAL DE RIESGOS LABORALES
 
-ARTÍCULO
-
 ## art:2.2.4.7.1 — Objeto
 
 El objeto del presente capítulo es establecer el Sistema de Garantía de Calidad del Sistema General de Riesgos Laborales.
 
 (Decreto 2923 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.7.2 — Campo de aplicación
 
@@ -6022,8 +5294,6 @@ PARÁGRAFO 2. La calidad de los servicios de las Instituciones Prestadoras de Se
 
 (Decreto 2923 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.7.3 — Características del sistema de garantía de calidad del sistema general de riesgos laborales
 
 Las acciones que desarrolle el sistema se orientarán a la mejora de los resultados de la atención en seguridad y salud en el trabajo, centrados en el mejoramiento de las condiciones de trabajo y salud, que van más allá de la verificación de la existencia de estructura o de la documentación de procesos, los cuales sólo constituyen prerrequisito para alcanzar los mencionados resultados.
@@ -6041,8 +5311,6 @@ Para efectos de evaluar y mejorar la calidad de la atención en seguridad y salu
 5. Continuidad. Es el grado en el cual los trabajadores y empleadores realizan y reciben los servicios de seguridad y salud en el trabajo y riesgos laborales requeridos, mediante una secuencia lógica y racional de actividades, basada en el conocimiento científico, sin dilaciones que afecten la efectividad de tales servicios en ninguna de sus fases.
 
 (Decreto 2923 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.7.4 — Componentes
 
@@ -6062,8 +5330,6 @@ PARÁGRAFO 2. La Unidad Sectorial de Normalización en Salud será la instancia 
 
 (Decreto 2923 de 2011, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.7.5 — Sistema de Estándares Mínimos
 
 Es el conjunto de normas, requisitos y procedimientos de obligatorio cumplimiento, mediante los cuales se establece, registra, verifica y controla el cumplimiento de las condiciones básicas de capacidad tecnológica y científica; de suficiencia patrimonial y financiera; y de capacidad técnico-administrativa, indispensables para el funcionamiento, ejercicio y desarrollo de actividades de los diferentes actores en el Sistema General de Riesgos Laborales, los cuales buscan dar seguridad a los usuarios frente a los potenciales riesgos asociados a la atención, prestación, acatamiento de obligaciones, derechos, deberes, funciones y compromisos en seguridad y salud en el trabajo y riesgos laborales.
@@ -6074,8 +5340,6 @@ La verificación del cumplimiento de los estándares mínimos de suficiencia pat
 
 (Decreto 2923 de 2011, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.7.6 — Auditoría para el mejoramiento de la calidad de la atención en seguridad y salud en el trabajo y riesgos laborales
 
 Es el mecanismo sistemático y continuo de evaluación del cumplimiento de estándares de calidad complementarios a los estándares mínimos, conforme a los programas de auditoría, que deberán ser concordantes con la intencionalidad de los estándares de acreditación y superiores a los que se determinan como básicos en el Sistema de Estándares Mínimos según lo determine el Ministerio del Trabajo, o quien haga sus veces.
@@ -6083,8 +5347,6 @@ Es el mecanismo sistemático y continuo de evaluación del cumplimiento de está
 Los procesos de auditoría serán obligatorios para todos los integrantes del Sistema General de Riesgos Laborales mencionados en el artículo 2.2.4.7.2. del presente Decreto.
 
 (Decreto 2923 de 2011, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.7.7 — Sistema de acreditación
 
@@ -6096,8 +5358,6 @@ Será requisito para la acreditación, el cumplimiento de los estándares mínim
 
 (Decreto 2923 de 2011, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.7.8 — Sistema de Información para la Calidad
 
 El Ministerio del Trabajo o quien haga sus veces diseñará e implementará un Sistema de Información para la Calidad con el objeto de estimular la competencia por calidad entre los actores del Sistema General de Riesgos Laborales que al mismo tiempo permita orientar a los trabajadores y empleadores en el conocimiento de las características del sistema, en el ejercicio de sus derechos y deberes y en los niveles de calidad de los integrantes del Sistema General de Riesgos Laborales mencionados en el artículo 2.2.4.7.2. del presente Decreto, de manera que puedan tomar decisiones informadas en el momento de ejercer los derechos que para ellos contempla el Sistema General de Riesgos Laborales.
@@ -6105,8 +5365,6 @@ El Ministerio del Trabajo o quien haga sus veces diseñará e implementará un S
 El Ministerio del Trabajo o, quien haga sus veces, incluirá en su página web los datos del Sistema de Información para la Calidad con el propósito de facilitar al público el acceso en línea sobre esta materia.
 
 (Decreto 2923 de 2011, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.7.9 — Objetivos del Sistema de Información para la Calidad
 
@@ -6122,8 +5380,6 @@ Son objetivos del Sistema de Información para la Calidad, los siguientes:
 
 (Decreto 2923 de 2011, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.4.7.10 — Suministro de información
 
 Los integrantes del Sistema General de Riesgos Laborales, las Direcciones Territoriales de Trabajo o, quienes hagan sus veces, y las Direcciones Departamentales y Distritales de Salud están obligados a generar y suministrar los datos requeridos para el funcionamiento del Sistema de Garantía de Calidad del Sistema General de Riesgos Laborales, de conformidad con las directrices que imparta el Ministerio del Trabajo o, quien haga sus veces.
@@ -6131,8 +5387,6 @@ Los integrantes del Sistema General de Riesgos Laborales, las Direcciones Territ
 PARÁGRAFO . El Ministerio del Trabajo o quien haga sus veces, establecerá los indicadores de calidad del Sistema de Garantía de Calidad del Sistema General de Riesgos Laborales que serán de obligatorio reporte por parte de las instituciones obligadas al cumplimiento del presente capítulo.
 
 (Decreto 2923 de 2011, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.4.7.11 — Características del Sistema de Información para la Calidad
 
@@ -6152,8 +5406,6 @@ Son principios del Sistema de Información para la Calidad, los siguientes:
 
 (Decreto 2923 de 2011, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.7.12 — Competencias en la organización del Sistema de Garantía de Calidad del Sistema General de Riesgos Laborales
 
 El Sistema de Garantía de Calidad del Sistema General de Riesgos Laborales, tendrá los siguientes niveles de competencia:
@@ -6172,8 +5424,6 @@ Las Direcciones Territoriales, o quienes hagan sus veces, y la Dirección de Rie
 
 (Decreto 2923 de 2011, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.4.7.13 — Sanciones
 
 Corresponde a la Superintendencia Financiera, la Superintendencia Nacional de Salud, las Direcciones Departamentales y Distritales de Salud y a las Direcciones Territoriales o quienes hagan sus veces, de conformidad con las competencias asignadas en las normas legales vigentes, imponer las sanciones frente al incumplimiento de las disposiciones del Sistema de Garantía de Calidad del Sistema General de Riesgos Laborales.
@@ -6184,8 +5434,6 @@ CAPÍTULO 8
 
 FONDO DE RIESGOS LABORALES
 
-ARTÍCULO
-
 ## art:2.2.4.8.1 — Administración del fondo
 
 De conformidad con el literal h) del artículo 70 del Decreto Ley 1295 de 1994, el Consejo Nacional de Riesgos Laborales debe aprobar al presupuesto general de gastos del Fondo de Riesgos Laborales.
@@ -6193,8 +5441,6 @@ De conformidad con el literal h) del artículo 70 del Decreto Ley 1295 de 1994, 
 Los recursos del Fondo de Riesgos Laborales sólo podrán ser administrados en encargo fiduciario. Para estos efectos, el Ministerio del Trabajo, podrá elegir una de las sociedades fiduciarias autorizadas que le presenten propuestas, mediante el proceso de contratación autorizado en el artículo 32 de la Ley 80 de 1993.
 
 (Decreto 1833 de 1994, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.8.2 — Obligaciones de las entidades administradores del fondo de riesgos laborales
 
@@ -6216,8 +5462,6 @@ Las entidades fiduciarias que administren los recursos del Fondo de Riesgos Labo
 
 (Decreto 1833 de 1994, art. 4. Numeral 2 modificado por el Decreto 676 de 1995, art. 1; Numeral 6 modificado por el Decreto 676 de 1995, art 2)
 
-ARTÍCULO
-
 ## art:2.2.4.8.3 — Recursos del fondo de riesgos laborales
 
 Los recursos del Fondo de Riesgos Laborales son los definidos en el artículo 89 del Decreto Ley 1295 de 1994, a saber:
@@ -6234,15 +5478,11 @@ Los recursos del Fondo de Riesgos Laborales son los definidos en el artículo 89
 
 (Decreto 1833 de 1994, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.8.4 — Recaudo de los recursos por parte de las entidades administradoras de riesgos laborales
 
 Las entidades administradoras de riesgos laborales transferirán dentro de los cinco (5) días hábiles siguientes a su recaudo, los recursos del Fondo de Riesgos Laborales provenientes de los aportes de los empleadores.
 
 (Decreto 1833 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.8.5 — Recaudo de los recursos por parte de la Sociedad Fiduciaria
 
@@ -6262,15 +5502,11 @@ PARÁGRAFO . El cobro coactivo de las multas de que trata el numeral 4o. de este
 
 (Decreto 1833 de 1994, art. 7; modificado por el Decreto 676 de 1995, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.8.6 — Intereses moratorios
 
 Vencido el término establecido en el artículo 2.2.4.8.4. de este Decreto sin que se hayan efectuado los traslados correspondientes, o cuando se hayan realizado por un monto inferior, se causarán intereses de mora iguales a los que rigen sobre el impuesto de renta y complementarios, a cargo de las entidades administradoras de riesgos laborales, sin perjuicio de las sanciones que pueda imponer la Superintendencia Financiera a dichas entidades por el incumplimiento de esta obligación legal.
 
 (Decreto 1833 de 1994, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.8.7 — Ausencia de insinuación
 
@@ -6288,21 +5524,15 @@ SECCIÓN 1
 
 GENERALIDADES SOBRE EL SISTEMA DE COMPENSACIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.1 — Objeto
 
 Créase un mecanismo de compensación monetaria con el objeto de corregir los efectos de la concentración de riesgos en el Sistema General de Riesgos Laborales y sus consecuencias financieras, así como adoptar medidas para mitigar la concentración de riesgos en dicho Sistema.
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.2 — Obligatoriedad de afiliación
 
 Las Administradoras de Riesgos Laborales están en la obligación de aceptar las afiliaciones de todos los empleadores y sus trabajadores y de los trabajadores independientes, de conformidad con lo previsto en la Ley 1562 de 2012, sin sujeción a la clase de riesgo o actividad económica que desarrollen.
 
 (Decreto 1442 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.3 — Implementación
 
@@ -6314,19 +5544,13 @@ SECCIÓN 2
 
 TÉRMINOS Y CONDICIONES ESPECÍFICAS DEL SISTEMA DE COMPENSACIÓN MONETARIA
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.1 — Objeto
 
 La presente Sección tiene por objeto señalar los términos y condiciones específicos del mecanismo de compensación monetaria al que se hace referencia en la Sección 1 del presente Capítulo.
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.2 — Ámbito de aplicación
 
 La presente Sección aplica a las entidades aseguradoras autorizadas por la Superintendencia Financiera de Colombia para operar el ramo de Riesgos Laborales, a la Superintendencia Financiera de Colombia, al Ministerio del Trabajo y al Ministerio de Hacienda y Crédito Público.
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.3 — Términos y condiciones del mecanismo de compensación
 
@@ -6362,15 +5586,11 @@ El cálculo de la compensación se realizará dentro de los quince (15) días ca
 
 (Anexo)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.4 — Giro de los recursos
 
 Las Administradoras de Riesgos Laborales con valores de compensación a cargo deberán realizar el giro de los recursos, de acuerdo con lo establecido en el Estatuto Orgánico del Sistema Financiero, dentro del mes siguiente al registro contable, con base en los resultados a que se refiere el numeral 6 del artículo 2.2.4.9.2.3. del presente Decreto.
 
 PARÁGRAFO . Los recursos de la compensación a favor se contabilizarán en la cuenta correspondiente a la reserva de siniestros ocurridos no avisados del ramo de Riesgos Laborales. Los recursos de la compensación a cargo se contabilizarán, de conformidad con las instrucciones que para tal efecto imparta la Superintendencia Financiera de Colombia, dentro de los ocho (8) días calendario siguientes a la expedición del Decreto por medio del cual se hace la presente modificación al Decreto 1072 de 2015, Decreto Único Reglamentario del Sector Trabajo.
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.5 — Seguimiento, Inspección y Vigilancia
 
@@ -6382,8 +5602,6 @@ CAPÍTULO 10
 
 INTERMEDIARIOS DE SEGUROS
 
-ARTÍCULO
-
 ## art:2.2.4.10.1 — Intermediarios de seguros
 
 De conformidad con el inciso 4 del artículo 81 del Decreto Ley 1295 de 1994, en ningún caso la ARL sufragará el monto de honorarios o comisiones cuando la intermediación sea contratada por el empleador para la selección de la ARL.
@@ -6391,8 +5609,6 @@ De conformidad con el inciso 4 del artículo 81 del Decreto Ley 1295 de 1994, en
 Las Administradoras de Riesgos Laborales podrán contratar intermediarios de seguros para la afiliación de empresas al Sistema General de Riesgos Laborales.
 
 (Decreto 1530 de 1996, art. 5; modificado por el Decreto 1528 de 2015, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.10.2 — Idoneidad e infraestructura humana y operativa de los intermediarios de seguros
 
@@ -6412,8 +5628,6 @@ PARÁGRAFO . Cuando exista un cambio en la regulación del Sistema General de Ri
 
 (Decreto 1637 de 2013, art. 1; modificado por el Decreto 1117 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.10.3 — Inscripción para ejercer la labor de intermediación en el ramo de riesgos laborales
 
 El Ministerio del Trabajo creará y administrará un Registro Único de Intermediarios del Sistema General de Riesgos Laborales, donde deberán registrarse los corredores de seguros, las agencias y los agentes de seguros que acrediten los requisitos a que se refiere el artículo 2.2.4.10.2. del presente Decreto.
@@ -6430,8 +5644,6 @@ PARÁGRAFO 4. Los corredores, agencias y agentes de seguros que se hayan inscrit
 
 (Decreto 1637 de 2013, art. 2; modificado por el Decreto 1117 de 2016, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.10.4 — Prohibiciones
 
 En materia de intermediación se tendrán como prohibiciones las siguientes:
@@ -6442,15 +5654,11 @@ En materia de intermediación se tendrán como prohibiciones las siguientes:
 
 (Decreto 1637 de 2013, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.10.5 — Transición
 
 Se concede hasta el 30 de junio de 2017 para que los corredores de seguros, las agencias y agentes de seguros acrediten los requisitos en materia de idoneidad profesional e infraestructura humana y operativa y para que se registren en el Registro Único de Intermediarios - RUI."
 
 (Decreto 1507 de 2015, art. 1; modificado por el Decreto 1117 de 2016, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.10.6 — Estándares para revelación de información financiera de Administradoras de Riesgos Laborales
 
@@ -6458,15 +5666,11 @@ Para la revelación de la información financiera de las Administradoras de Ries
 
 (Decreto 301 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.10.7 — Reporte y revelación de Información de las Administradoras de Riesgos Laborales
 
 La Superintendencia Financiera de Colombia definirá los mecanismos de reporte y revelación de información específico para las Administradoras de Riesgos Laborales, teniendo en cuenta las disposiciones establecidas en el artículo 2.2.4.10.6 del presente Decreto.
 
 (Decreto 301 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.10.8 — Alcance de la Intermediación
 
@@ -6480,8 +5684,6 @@ La labor de intermediación no podrá ser utilizada para propiciar la concentrac
 
 (Decreto 1117 de 2016, art 4)
 
-ARTÍCULO
-
 ## art:2.2.4.10.9 — Ofertas comerciales
 
 Los corredores, agencias y agentes de seguros tendrán a disposición de las autoridades competentes las cotizaciones realizadas y la totalidad de ofertas comerciales que en respuesta de las mismas presenten las Administradoras de Riesgos Laborales para lograr una afiliación, así como la oferta sobre la cual se concreta la misma.
@@ -6492,23 +5694,17 @@ CAPÍTULO 11
 
 CRITERIOS DE GRADUACIÓN DE LAS MULTAS POR INFRACCIÓN A LAS NORMAS DE SEGURIDADY SALUD EN EL TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.4.11.1 — Objeto
 
 Las normas del presente capítulo tienen por objeto establecer los criterios de graduación de las multas por infracción a las normas de Seguridad y Salud en el Trabajo y Riesgos Laborales, señalar las garantías mínimas que se deben respetar para garantizar el derecho fundamental al debido proceso a los sujetos objeto de investigación administrativa, así como establecer normas para ordenar la clausura del lugar de trabajo y la paralización o prohibición inmediata de trabajos o tareas por inobservancia de la normativa de prevención de riesgos laborales, cuando existan condiciones que pongan en peligro la vida, la integridad y la seguridad personal de las y los trabajadores.
 
 (Decreto 472 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.11.2 — Campo de aplicación
 
 Las normas del presente capítulo se aplican a las actuaciones administrativas que adelanten los Inspectores del Trabajo y Seguridad Social, las Direcciones Territoriales, Oficinas Especiales del Ministerio del Trabajo, la Unidad de Investigaciones Especiales, y la Dirección de Riesgos Laborales de ese mismo Ministerio por infracción a las normas de Seguridad y Salud en el Trabajo y Riesgos Laborales.
 
 (Decreto 472 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.11.3 — Principios
 
@@ -6535,8 +5731,6 @@ Todas las autoridades deberán interpretar y aplicar las disposiciones que regul
 - Proporcionalidad y razonabilidad. La sanción deberá ser proporcional a la infracción y corresponderá a la gravedad de la falta cometida.
 
 (Decreto 472 de 2015, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.11.4 — Criterios para graduarlas multas
 
@@ -6565,8 +5759,6 @@ Las multas por infracciones a las normas de Seguridad y Salud en el Trabajo y Ri
 11. la muerte del trabajador.
 
 (Decreto 472 de 2015, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.11.5 — Criterio de proporcionalidad y razonabilidad para la cuantía de la sanción a los empleadores
 
@@ -6640,15 +5832,11 @@ PARÁGRAFO. Dentro del procedimiento administrativo sancionatorio en lo no previ
 
 (Artículo MODIFICADO por el Art. 21 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.4.11.6 — Obligatoriedad de incluir los criterios para graduar las multas
 
 Las Direcciones Territoriales y las Oficinas Especiales en primera instancia y la Dirección de Riesgos Laborales del Ministerio del Trabajo en segunda instancia, así como la Unidad de Investigaciones Especiales, deberán incluir en el acto administrativo que imponga la sanción, los criterios aplicables al momento de graduar las multas, de conformidad con lo establecido en los artículos 2.2.4.11.4. y 2.2.4.11.5. del presente Decreto.
 
 (Decreto 472 de 2015, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.11.7 — Plan de mejoramiento
 
@@ -6660,8 +5848,6 @@ PARÁGRAFO 2. El incumplimiento o cumplimiento parcial del Plan de Mejoramiento 
 
 (Decreto 472 de 2015, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.11.8 — Términos para la clausura o cierre del lugar de trabajo por parte del Inspector de Trabajo
 
 Los Inspectores de Trabajo y Seguridad Social, en desarrollo de la potestad de policía administrativa, mediante Auto debidamente motivado, podrán ordenar el cierre o clausura del lugar de trabajo cuando existan condiciones que pongan en peligro la vida, la integridad y la seguridad personal de los trabajadores, así:
@@ -6672,23 +5858,17 @@ Los Inspectores de Trabajo y Seguridad Social, en desarrollo de la potestad de p
 
 (Decreto 472 de 2015, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.11.9 — 1.9
 
 Términos de tiempo para suspensión de actividades o cierre definitivo de empresa por parte de los Directores Territoriales. En caso de que continúen los hechos que originaron la medida de cierre hasta por un término de treinta (30) días calendario, o haya reincidencia, el Inspector de Trabajo y Seguridad Social trasladara el caso al Director Territorial, quien conforme al artículo 13 de la Ley 1562 de 2012, podrá imponer la medida hasta por un término de ciento veinte (120) días hábiles o proceder al cierre definitivo de la empresa.
 
 (Decreto 472 de 2015, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.4.11.10 — Procedimiento para la imposición de la medida de cierre o suspensión de actividades
 
 Las medidas de cierre o suspensión de actividades de que trata el presente capítulo serán impuestas mediante auto debidamente motivado, y su ejecución se llevará a cabo mediante la imposición de sellos oficiales del Ministerio del Trabajo que den cuenta de la infracción cometida.
 
 (Decreto 472 de 2015, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.4.11.11 — Contenido de la decisión
 
@@ -6708,15 +5888,11 @@ PARÁGRAFO . Para dar aplicación a lo dispuesto en el presente artículo las au
 
 (Decreto 472 de 2015, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.11.12 — Paralización o prohibición inmediata de trabajos y tareas
 
 Sin perjuicio de lo establecido en este capítulo, los Inspectores de Trabajo y Seguridad Social podrán ordenar la paralización o prohibición inmediata de trabajos o tareas por inobservancia de la normativa sobre prevención de riesgos laborales, de concurrir riesgo grave e inminente para la seguridad o salud de los trabajadores, hasta tanto se supere la inobservancia de la normatividad, de conformidad con lo establecido en el artículo 11 de la Ley 1610 de 2013.
 
 (Decreto 472 de 2015, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.11.13 — Respeto de los derechos laborales y prestaciones sociales
 
@@ -6730,23 +5906,17 @@ En ningún caso la suspensión de actividades o cierre del lugar de trabajo pued
 
 PROGRAMA DE PREVENCIÓN DE ACCIDENTES MAYORES
 
-ARTÍCULO
-
 ## art:2.2.4.12.1 — Objeto
 
 El presente capítulo tiene por objeto adoptar el Programa de Prevención de Accidentes Mayores - PPAM, para contribuir a incrementar los niveles de seguridad de las instalaciones clasificadas de que trata este capítulo, con el fin de proteger los trabajadores, la población, el ambiente y la infraestructura, mediante la gestión del riesgo.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.2 — Ámbito de aplicación
 
 El presente capítulo aplica en todo el territorio nacional a las personas naturales o jurídicas responsables de instalaciones clasificadas, existentes y nuevas, de acuerdo con lo definido en este mismo capítulo.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3 — Instalaciones clasificadas
 
@@ -6755,8 +5925,6 @@ Serán consideradas como instalaciones clasificadas aquellas con presencia de su
 PARÁGRAFO . Para la clasificación de las instalaciones, el responsable de la instalación deberá identificar las sustancias químicas presentes en la instalación usando primero el listado de sustancias químicas específicas identificadas con su nombre y número CAS, tal como se establece en la parte 2 del Anexo 3 del presente capítulo y usar la cantidad umbral correspondiente cuando aplique. En caso de no encontrarse la sustancia química en dicho listado, el responsable de la instalación deberá buscar en el listado de peligros con base en su clasificación según el SGA y usar la respectiva cantidad umbral cuando aplique. Este mismo proceso se realizará para la aplicación de la regla de la suma.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.4 — Exclusiones
 
@@ -6773,8 +5941,6 @@ Las instalaciones y actividades relacionadas a continuación quedarán excluidas
 5. Los rellenos sanitarios y rellenos o celdas de seguridad.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.5 — Definiciones
 
@@ -6830,8 +5996,6 @@ Sustancia química peligrosa: designa toda sustancia o mezcla que, en razón de 
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.6 — Programa de Prevención de Accidentes Mayores - PPAM
 
 El Programa de Prevención de Accidentes Mayores - PPAM, que se adopta en el presente capítulo, y cuya coordinación y control está bajo el Ministerio del Trabajo, son todas aquellas acciones, procedimientos e intervenciones integrales que se realizan con el fin de incrementar los niveles de protección de la población y el ambiente, mediante la gestión del riesgo en instalaciones clasificadas. El Programa de Prevención de Accidentes Mayores estará compuesto por los siguientes elementos:
@@ -6862,8 +6026,6 @@ El Programa de Prevención de Accidentes Mayores - PPAM, que se adopta en el pre
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.7 — Listado de sustancias químicas asociadas a accidentes mayores y cantidades umbral
 
 El listado de sustancias químicas asociadas a accidentes mayores y sus cantidades umbral se incluye en el Anexo 3 del presente capítulo. Dicho listado está constituido por dos (2) partes, así:
@@ -6873,8 +6035,6 @@ Parte 1. Listado de peligros con base en el Sistema Globalmente Armonizado de cl
 Parte 2. Listado de sustancias químicas específicas identificadas por su nombre y número CAS.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.8 — Registro de instalaciones clasificadas
 
@@ -6887,8 +6047,6 @@ PARÁGRAFO 1. El Ministerio del Trabajo definirá la información que deberán r
 PARÁGRAFO 2. El Ministerio del Trabajo en cumplimiento de sus funciones de inspección, vigilancia y control podrá realizar visitas a las instalaciones para verificar la realización de la auto-clasificación y si esta se ajusta a los parámetros definidos en el Artículo 2.2.4.12.7.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.9 — Sistema de gestión de la seguridad para la prevención de accidentes mayores
 
@@ -6932,8 +6090,6 @@ PARÁGRAFO . El Ministerio del Trabajo emitirá los lineamientos y guías para e
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.10 — Plan de emergencias y contingencias PEC
 
 El responsable de la instalación clasificada debe incluir en su PEC los escenarios de accidente mayor, con el fin de mitigar, reducir o controlar flujos de peligros sobre elementos vulnerables presentes en la instalación y el entorno. Se deben incluir los mecanismos de organización, coordinación, funciones, competencias, responsabilidades, los recursos disponibles y necesarios para garantizar la atención efectiva de las emergencias que se puedan presentar, así como los procedimientos de actuación, y se deberá elaborar con la participación del personal de la instalación.
@@ -6943,8 +6099,6 @@ PARÁGRAFO 1. El Ministerio del Trabajo en coordinación con el Ministerio de Am
 PARÁGRAFO 2. Una instalación clasificada a través de su Plan de Emergencia y Contingencia PEC, llevará a cabo el proceso de manejo del desastre, establecido en el Plan de Gestión del Riesgo de Desastres de las Entidades Públicas y Privadas PGRDEPP para la instalación clasificada con riesgo de accidente mayor, en el marco del Capítulo 5 del Título 1 de la Parte 3 del Libro 2 del Decreto 1081 de 2015, Único Reglamentario del Sector de la Presidencia de la República, adicionado por el Decreto 2157 de 2017 o las normas que lo modifiquen, adicionen o sustituyan ..
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.11 — Informe de seguridad
 
@@ -6960,8 +6114,6 @@ PARÁGRAFO 4. Un establecimiento que cuente con más de una instalación clasifi
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.12 — Registro y reporte de incidentes y accidentes mayores
 
 Los responsables de las instalaciones clasificadas deberán llevar registro de los incidentes y reportar la ocurrencia de cualquier accidente mayor en un término no superior a las veinticuatro (24) horas siguientes de la ocurrencia del evento. El reporte deberá ampliarse progresivamente hasta finalizar la respuesta a la emergencia, conforme a las características del evento y a los lineamientos que se definan al respecto.
@@ -6970,8 +6122,6 @@ PARÁGRAFO . El Ministerio del Trabajo, con base en el apoyo técnico suministra
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.13 — Investigación de incidentes y accidentes mayores
 
 Cuando se presente un incidente o accidente mayor, el responsable de la instalación clasificada deberá entregar al Ministerio del Trabajo un informe detallado en el que se analice la causa raíz del incidente o accidente, se indiquen las consecuencias inmediatas in situ, así como las medidas adoptadas para mitigar los efectos. El Ministerio del Trabajo podrá requerir la ampliación o mayor profundidad de la investigación adelantada por este. Lo anterior sin perjuicio de las investigaciones que corresponda adelantar a las autoridades competentes del orden nacional o territorial, en el marco de sus competencias.
@@ -6979,8 +6129,6 @@ Cuando se presente un incidente o accidente mayor, el responsable de la instalac
 PARÁGRAFO . El Ministerio del Trabajo en coordinación con los Ministerios de Ambiente y Desarrollo Sostenible y de Salud y Protección Social definirá los lineamientos para la investigación de incidentes y accidentes mayores, así como el proceso de entrega de los informes de las investigaciones, por parte de los responsables de las instalaciones clasificadas.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.14 — Inspección, vigilancia y control
 
@@ -6994,8 +6142,6 @@ PARÁGRAFO 3. El Ministerio del Trabajo con el apoyo de los Ministerios de Ambie
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.15 — Información disponible al público
 
 Los responsables de las instalaciones clasificadas deberán suministrar al Ministerio del Trabajo información sobre los riesgos, estrategias, acciones y el comportamiento a adoptar en caso de accidentes mayores. Esta información será considerada como información disponible al público sin solicitud, la cual se pondrá a disposición del mismo a través del Sistema Nacional de Información para la Gestión del Riesgo de Desastres (SNIGRD) dispuesto en la Ley 1523 de 2012.
@@ -7004,15 +6150,11 @@ PARÁGRAFO . El Ministerio del Trabajo con el apoyo de la Unidad Nacional para l
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.16 — Intercambio de información relacionada con accidentes mayores que puedan tener impacto transfronterizo
 
 El Ministerio del Trabajo entregará al Ministerio de Relaciones Exteriores la información a ser intercambiada con otros Estados en relación con la prevención, reporte y respuesta a accidentes mayores que puedan tener impacto transfronterizo, de conformidad con lo establecido en la Ley 1950 de 2019.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.17 — Información con fines de gestión territorial del riesgo
 
@@ -7022,8 +6164,6 @@ PARÁGRAFO . La Unidad Nacional para la Gestión del Riesgo de Desastres definir
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.18 — Información con fines de ordenamiento territorial
 
 Los responsables de las instalaciones clasificadas entregarán información específica con fines de ordenamiento territorial, referente a los análisis técnicos de riesgos de accidentes mayores que forman parte del informe de seguridad, a la Alcaldía Municipal o Distrital correspondiente con el propósito de que las autoridades realicen la incorporación de esta información en los procesos de ordenamiento territorial.
@@ -7031,8 +6171,6 @@ Los responsables de las instalaciones clasificadas entregarán información espe
 PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio definirá, los lineamientos para la incorporación del riesgo de accidentes mayores, en el ordenamiento territorial.
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.19 — Obligaciones del responsable de la instalación clasificada
 
@@ -7064,8 +6202,6 @@ El responsable de la instalación clasificada deberá:
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.20 — Obligaciones de los trabajadores
 
 En una instalación clasificada, los trabajadores deberán:
@@ -7078,15 +6214,11 @@ En una instalación clasificada, los trabajadores deberán:
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.21 — Mesa Interinstitucional de Apoyo al Programa de Prevención de Accidentes Mayores - MIPPAM
 
 Créase la Mesa Técnica lnterinstitucional de Apoyo al Programa de Prevención de Accidentes Mayores - MIPPAM, cuyo objeto es contribuir a generar insumos técnicos para orientar y coordinar el seguimiento de la implementación de lo establecido en el Capítulo 12 del Título 4 de la Parte 2 del Libro 2 del Decreto 1072 de 2015, Único Reglamentario del Sector Trabajo".
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.22 — .22
 
@@ -7110,8 +6242,6 @@ PARÁGRAFO 3. La Secretaría Técnica de la Mesa estará en cabeza del Ministeri
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.23 — Funciones de la Mesa Técnica lnterinstitucional de Apoyo al Programa de Prevención de Accidentes Mayores - MIPPAM
 
 La Mesa tendrá las siguientes funciones:
@@ -7130,8 +6260,6 @@ La Mesa tendrá las siguientes funciones:
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.24 — Secretaría Técnica
 
 La Mesa Técnica lnterinstitucional de Apoyo al Programa de Prevención de Accidentes Mayores - MIPPAM contará con una secretaría técnica que será ejercida por el Ministerio del Trabajo a través de la Dirección de Riesgos Laborales o la dependencia que haga sus veces.
@@ -7148,8 +6276,6 @@ Serán funciones de la secretaría técnica:
 
 (Adicionado por el Art. 1 del Decreto 1347 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.25 — Régimen de transición
 
 Las instalaciones clasificadas existentes contarán con un plazo de dos (2) años a partir de la expedición del lineamiento previsto en el artículo 2.2.4.12.11 del Decreto 1072 de 2015 para presentar el informe de seguridad al Ministerio del Trabajo. En caso de que el Ministerio del Trabajo defina que el informe de seguridad no incluya todos los requisitos establecidos por dicho lineamiento, el responsable de la instalación clasificada contará con un plazo de un (1) año para presentar un plan de mejoramiento que debe ser aprobado por el Ministerio del Trabajo."
@@ -7161,8 +6287,6 @@ JUNTAS DE CALIFICACIÓN DE INVALIDEZ
 CAPÍTULO 1
 
 DISPOSICIONES GENERALES
-
-ARTÍCULO
 
 ## art:2.2.5.1.1 — Campo de aplicación
 
@@ -7218,8 +6342,6 @@ PARÁGRAFO . Se exceptúan de su aplicación el régimen especial de las Fuerzas
 
 (Decreto 1352 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2 — Personas interesadas
 
 Para efectos del presente capítulo, se entenderá como personas interesadas en el dictamen y de obligatoria notificación o comunicación como mínimo las siguientes:
@@ -7238,8 +6360,6 @@ Para efectos del presente capítulo, se entenderá como personas interesadas en 
 
 (Decreto 1352 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3 — Principios rectores
 
 La actuación de los integrantes de las juntas de calificación de invalidez estará regida por los principios establecidos en la Constitución Política, entre ellos, la buena fe, el debido proceso, la igualdad, la moralidad, la eficiencia, la eficacia, la economía, la celeridad, la imparcialidad, la publicidad, la integralidad y la unidad.
@@ -7247,8 +6367,6 @@ La actuación de los integrantes de las juntas de calificación de invalidez est
 Su actuación también estará regida por la ética profesional, las disposiciones manual único de calificación de invalidez o norma que lo modifique o adicione, así como las contenidas en el presente capítulo y demás normas que complementen.
 
 (Decreto 1352 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4 — Naturaleza de las juntas regionales y nacional de calificación de invalidez
 
@@ -7264,8 +6382,6 @@ PARÁGRAFO 3. Sin perjuicio del dictamen pericial que el juez laboral pueda orde
 
 (Decreto 1352 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5 — Certificación de no vinculación con entidades de seguridad social o de vigilancia y control
 
 Los integrantes principales de las juntas de calificación de invalidez no podrán tener vinculación alguna, ni realizar actividades relacionadas con la calificación del origen, fecha de estructuración y grado de pérdida de la capacidad laboral o labores administrativas o comerciales en las entidades administradoras del sistema de seguridad social integral, ni con sus entidades de dirección, vigilancia y control.
@@ -7275,8 +6391,6 @@ Para el efecto, se deberá radicar en la dirección territorial del Ministerio d
 PARÁGRAFO . - Dicha certificación no les será exigible a los integrantes suplentes que designe el Ministerio del Trabajo, salvo que sea designado como integrante principal de manera permanente, caso en el cual deberá allegar la certificación antes de posesionarse como integrante permanente de la junta.
 
 (Decreto 1352 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.5.1.6 — Funciones comunes de las juntas de calificación de invalidez
 
@@ -7320,8 +6434,6 @@ Son funciones de las juntas regionales y nacional de calificación de invalidez,
 
 (Decreto 1352 de 2013, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7 — Funciones de los integrantes de la junta de calificación de invalidez
 
 Los integrantes de las juntas regionales y nacional de calificación de invalidez, tendrán las siguientes funciones:
@@ -7351,8 +6463,6 @@ Los integrantes de las juntas regionales y nacional de calificación de invalide
 12. Las demás que establezca el manual de procedimientos para el funcionamiento de las juntas de calificación de invalidez expedido por el Ministerio del Trabajo.
 
 (Decreto 1352 de 2013, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.5.1.8 — Funciones del director administrativo y financiero de la junta de calificación de invalidez
 
@@ -7412,8 +6522,6 @@ Ministerio del Trabajo.
 
 (Decreto 1352 de 2013, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.5.1.9 — Funciones exclusivas de la junta nacional de calificación de invalidez
 
 Además de las comunes, son funciones exclusivas de la junta nacional de calificación de invalidez, las siguientes:
@@ -7430,8 +6538,6 @@ Además de las comunes, son funciones exclusivas de la junta nacional de calific
 
 (Decreto 1352 de 2013, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10 — Funciones exclusivas de las juntas regionales de calificación de invalidez
 
 Además de las comunes, son funciones de las juntas regionales de calificación de invalidez, las siguientes:
@@ -7444,8 +6550,6 @@ Además de las comunes, son funciones de las juntas regionales de calificación 
 
 (Decreto 1352 de 2013, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.5.1.11 — Renuncias
 
 En caso de renuncia de cualquiera de los integrantes, se procederá a su reemplazo durante el período de vigencia faltante, por el suplente si lo hubiere, o en ausencia de este por quien designe el Ministerio del Trabajo de conformidad con el presente capítulo y de acuerdo con la lista de elegibles y según las bases del concurso.
@@ -7457,8 +6561,6 @@ La permanencia en el cargo del integrante que presente renuncia se extiende hast
 PARÁGRAFO . - En caso de renuncia de alguno de los integrantes principales de la junta de calificación de invalidez, por motivos de fuerza mayor o caso fortuito, el Ministerio del Trabajo designará un integrante ad hoc hasta tanto se designe su reemplazo, por el periodo de vigencia faltante de la junta.
 
 (Decreto 1352 de 2013, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.5.1.12 — Actuación de suplentes
 
@@ -7476,8 +6578,6 @@ PARÁGRAFO 2. Siendo la función de las juntas de calificación de invalidez un 
 
 (Decreto 1352 de 2013, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.5.1.13 — Designaciones ad hoc
 
 Cuando por cualquier razón no pueda actuar el integrante principal ni el suplente designado por el Ministerio del Trabajo y como consecuencia de ello no exista quórum decisorio para proferir el dictamen, el director administrativo y financiero de la junta de calificación de invalidez solicitará a la dirección de riesgos laborales del Ministerio del Trabajo la designación de un integrante ad hoc, quien actuará exclusivamente en el caso para el cual se solicita.
@@ -7487,8 +6587,6 @@ PARÁGRAFO 1. Los integrantes ad hoc se nombrarán de la lista de elegibles y de
 PARÁGRAFO 2. En todos los casos en los que actúe como ad hoc, este tendrá derecho al pago de honorarios correspondientes a los dictámenes emitidos y notificados, según lo dispuesto en el presente capítulo o la norma que lo modifique, adicione o sustituya.
 
 (Decreto 1352 de 2013, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.5.1.14 — Equipo interconsultor externo de las juntas de calificación de invalidez
 
@@ -7510,8 +6608,6 @@ PARÁGRAFO 2. Si la solicitud de dictamen la realizó la entidad promotora de sa
 
 (Decreto 1352 de 2013, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.5.1.15 — Presupuesto de la junta de calificación de invalidez
 
 El director administrativo y financiero de la junta, presentará y aprobará el presupuesto anual, frente al cual podrá recibir sugerencias y aportes de los integrantes principales de la junta, así mismo presentará a dichos integrantes un informe trimestral de su ejecución y deberá contar con la revisión del respectivo revisor fiscal. Por ningún caso las juntas pueden cerrar un año con pérdida para lo cual se deben tomar las medidas financieras correspondientes.
@@ -7519,8 +6615,6 @@ El director administrativo y financiero de la junta, presentará y aprobará el 
 En el presupuesto anual se deberán tener en cuenta las provisiones, tales como el no pago o pago parcial de honorarios, devoluciones de honorarios de conformidad con lo establecido en el presente capítulo, cambios de períodos de vigencia e integración de la junta, traslado de dictámenes a otras juntas conformadas, gastos que se originen en demandas ante la justicia ordinaria, entre otras.
 
 (Decreto 1352 de 2013, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.5.1.16 — Honorarios
 
@@ -7560,8 +6654,6 @@ Los dictámenes de pérdida de capacidad laboral que se expidan bajo los paráme
 
 (Decreto 1352 de 2013, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.5.1.17 — Distribución de honorarios a los integrantes y miembros de las juntas de calificación de invalidez
 
 El director administrativo y financiero de la respectiva junta de calificación de invalidez, según sea el < caso, distribuirá mensualmente los honorarios correspondientes a los dictámenes emitidos, de la siguiente forma:
@@ -7575,8 +6667,6 @@ Las juntas tendrán un solo el director administrativo y financiero, sin importa
 La distribución de los honorarios de los integrantes de la junta será supervisada por el revisor fiscal quien deberá reportar de manera inmediata a las autoridades todas las anomalías detectadas.
 
 (Decreto 1352 de 2013, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.5.1.18 — Gastos de administración de las juntas de calificación de invalidez
 
@@ -7594,8 +6684,6 @@ PARÁGRAFO 2. El Ministerio del Trabajo podrá fijar un límite a los gastos de 
 
 (Decreto 1352 de 2013, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.5.1.19 — Remanentes juntas calificación de invalidez
 
 Los remanentes de los gastos de administración a 30 de junio y a 31 de diciembre de cada año, una vez atendidos todos los gastos de operación y administración, se deberán invertir con criterios de seguridad, liquidez y rentabilidad en entidades financieras autorizadas por la Superintendencia Financiera de Colombia, que cuenten con calificación por una sociedad calificadora de riesgos autorizada en el país. En consideración a que los recursos que administra la junta de calificación de invalidez corresponden a un portafolio de carácter no especulativo, serán preferibles las inversiones en títulos emitidos o con respaldo del Gobierno Nacional.
@@ -7607,8 +6695,6 @@ Las inversiones o adquisiciones de la junta de calificación de invalidez no son
 PARÁGRAFO . La utilización de los remanentes serán supervisados por el revisor fiscal quien deberá reportar de manera inmediata a las autoridades todas las anomalías detectadas.
 
 (Decreto 1352 de 2013, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.5.1.20 — Manejo de las cuentas bancarias
 
@@ -7627,8 +6713,6 @@ En el presupuesto anual se deberán tener en cuenta las provisiones, tales como 
 PARÁGRAFO . Las juntas regionales y nacional de calificación de invalidez que al 26 de junio de 2013 tengan bienes, dineros, títulos valores o inversiones deberán constituirlos o colocarlos a nombre de la respectiva junta, por ser organismos del sistema de la seguridad social integral del orden nacional, de creación legal, adscritas al Ministerio del Trabajo con personería jurídica, de derecho privado, sin ánimo de lucro de conformidad con el artículo 16 de la Ley 1562 de 2012.
 
 (Decreto 1352 de 2013, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.5.1.21 — Funciones del revisor fiscal de las juntas de calificación de invalidez
 
@@ -7659,8 +6743,6 @@ Son funciones del revisor fiscal las establecidas en la ley y las definidas a co
 12. Cumplir las demás atribuciones que le señalen la normatividad vigente.
 
 (Decreto 1352 de 2013, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.5.1.22 — Archivo
 
@@ -7702,8 +6784,6 @@ La junta deberá mantener organizado un archivo, el cual estará a disposición 
 
 (Decreto 1352 de 2013, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.5.1.23 — Inventarios y entrega de bienes, elementos y expedientes a cargo de las juntas de calificación de invalidez
 
 Las juntas de calificación de invalidez deberán mantener actualizado el inventario de bienes y adquisiciones.
@@ -7744,8 +6824,6 @@ Para la entrega se seguirán los siguientes procedimientos:
 
 (Decreto 1352 de 2013, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.5.1.24 — Presentación de la solicitud
 
 La solicitud ante la junta podrá ser presentada por:
@@ -7778,8 +6856,6 @@ PARÁGRAFO . La solicitud se deberá presentar a la junta regional de calificaci
 
 (Decreto 1352 de 2013, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.5.1.25 — Casos en los cuales se puede recurrir directamente ante las juntas regionales de calificación de invalidez
 
 El trabajador o su empleador, el pensionado por invalidez o aspirante a beneficiario podrán presentar la solicitud de calificación o recurrir directamente a la junta de calificación de invalidez en los siguientes casos:
@@ -7798,8 +6874,6 @@ PARÁGRAFO 2. En estos casos el director administrativo y financiero dará aviso
 
 (Decreto 1352 de 2013, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.5.1.26 — Condiciones que deben reunir las entidades que califican la pérdida de la capacidad laboral
 
 Cada una de las entidades administradoras de riesgos laborales, de las Entidades Promotoras de Salud y de las Administradoras del Régimen Subsidiado, deberán disponer de un equipo interdisciplinario para realizar la calificación por pérdida de la capacidad laboral, el cual deberá contar con un médico con experiencia mínima específica en medicina laboral de un (1) año, un médico especialista en medicina física y rehabilitación con experiencia mínima específica de dos (2) años y un profesional diferente a las áreas de la medicina con formación en áreas afines a la seguridad y salud en el trabajo, con una experiencia relacionada de dos (2) años. Este equipo deberá efectuar el estudio y seguimiento de los afiliados y posibles beneficiarios, recopilar pruebas, valoraciones, emitir conceptos de rehabilitación en cada caso y definir el origen y grado de pérdida de la capacidad laboral. Así mismo, deberá diligenciar el formulario autorizado por el Ministerio del Trabajo para notificar el dictamen correspondiente, en el cual se deberá señalar al notificado la oportunidad de acudir ante la Junta Regional de Calificación de Invalidez, término para presentar la reclamación, e informar que es la entidad administradora la que asume el costo de dicho trámite.
@@ -7807,8 +6881,6 @@ Cada una de las entidades administradoras de riesgos laborales, de las Entidades
 El equipo interdisciplinario de las entidades administradoras de riesgos laborales deberá ser registrado en las Direcciones Territoriales de Trabajo del Ministerio del Trabajo, anexando las respectivas hojas de vida de sus integrantes e informando las modificaciones que sucedan al respecto.
 
 (Decreto 2463 de 2001; artículo 5, incisos 1 y 2)
-
-ARTÍCULO
 
 ## art:2.2.5.1.27 — Calificación del origen del accidente, la enfermedad o la muerte
 
@@ -7821,8 +6893,6 @@ PARÁGRAFO 2. Cuando se haya determinado en primera instancia el origen de una c
 El incumplimiento de la obligación de que trata el presente artículo dará lugar a imposición de sanciones, de conformidad con lo previsto en el artículo 91 del Decreto-ley 1295 de 1994 o norma que los sustituya, modifique o adicione.
 
 (Decreto 2463 de 2001, artículo 6, inciso 2 y parágrafos 2 y 4)
-
-ARTÍCULO
 
 ## art:2.2.5.1.28 — .28
 
@@ -8038,8 +7108,6 @@ PARÁGRAFO 6. En las calificaciones de primera oportunidad debe estar el nombre 
 
 (Decreto 1352 de 2013, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.5.1.29 — Solicitudes incompletas ante las Juntas de Calificación de Invalidez
 
 Cuando la solicitud no esté acompañada de los documentos señalados en el artículo 2.2.5.1.28 del presente Decreto, que son los requisitos mínimos que debe contener la calificación en primera oportunidad para solicitar el dictamen ante la Junta Regional y Nacional de Calificación de Invalidez, la correspondiente Junta, indicará al solicitante cuáles son los documentos faltantes a través de una lista de chequeo.
@@ -8064,8 +7132,6 @@ PARÁGRAFO 5. En el caso que por una misma calificación dada a una persona en p
 
 (Decreto 1352 de 2013, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.5.1.30 — Prohibición de realizar y allegar doble Calificación ante las Juntas de Calificación de Invalidez
 
 Ningún expediente debe llegar con doble calificación a las Juntas de Calificación de Invalidez, en caso de encontrar dicha situación la JUNTA deberá informarlo a la autoridad competente para que se investigue a la entidad que realizó la segunda calificación y se impongan sanciones por esta anomalía. En el caso de las Administradoras de Riesgos Laborales se informará a la Dirección Territorial del Ministerio del Trabajo correspondiente.
@@ -8073,8 +7139,6 @@ Ningún expediente debe llegar con doble calificación a las Juntas de Calificac
 En el caso que la controversia se hubiera presentado por la primera calificación la Junta entrará a dar trámite a la solicitud de conformidad con lo establecido el presente capítulo. Si por el contrario la controversia se hubiera presentado por la segunda calificación la Junta no emitirá dictamen sino procederá a devolver el expediente de conformidad con lo establecido en el artículo denominado devolución de expedientes, correspondiente al 2.2.5.1.31 del presente Decreto.
 
 (Decreto 1352 de 2013, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.5.1.31 — Devolución de expedientes
 
@@ -8100,8 +7164,6 @@ PARÁGRAFO 2. La comunicación de devolución deberá ser remitida con copia a t
 
 (Decreto 1352 de 2013, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.5.1.32 — Pago de gastos de traslado, valoraciones por especialistas y exámenes complementarios
 
 Todos los gastos que se requieran para el traslado de los integrantes de la Junta de conformidad con el presente capítulo, del afiliado, pensionado por invalidez o beneficiario objeto de dictamen, así como de su acompañante dentro o fuera de la ciudad de conformidad con el concepto médico, estarán a cargo de la entidad Administradora de Riesgos Laborales, Administradoras del Sistema General de Pensiones, el empleador correspondiente, de esta manera:
@@ -8119,8 +7181,6 @@ PARÁGRAFO 2. Cuando la persona objeto de dictamen solicite la práctica de exá
 PARÁGRAFO 3. Las entidades de seguridad social anteriormente mencionadas realizarán los respectivos recobros una vez el dictamen quede en firme.
 
 (Decreto 1352 de 2013, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.5.1.33 — Recepción y radicación de solicitudes ante la Junta de Calificación de Invalidez
 
@@ -8146,8 +7206,6 @@ PARÁGRAFO 2. El número de radicación que se asigna a cada solicitud debe ser 
 
 (Decreto 1352 de 2013, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.5.1.34 — Reparto
 
 Radicadas las solicitudes, dentro de los dos (2) días hábiles siguientes, el director administrativo y financiero procederá a efectuar el reparto entre los médicos integrantes de la correspondiente Junta de manera proporcional.
@@ -8158,15 +7216,11 @@ En la finalización de periodos de las Juntas, por traslado de jurisdicción a o
 
 (Decreto 1352 de 2013, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.5.1.35 — Reuniones de las Juntas de Calificación de Invalidez
 
 Las Juntas de Calificación de Invalidez tendrán sus audiencias privadas de decisión en la sede de la Junta como mínimo tres (3) veces por semana, de conformidad con el número de solicitudes allegadas, de modo que se dé cumplimiento a los términos establecidos en el presente capítulo.
 
 (Decreto 1352 de 2013, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.5.1.36 — Sustanciación y ponencia
 
@@ -8200,8 +7254,6 @@ PARÁGRAFO 5. Los términos de tiempo establecidos en el presente artículo ser�
 
 (Decreto 1352 de 2013, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.5.1.37 — Quórum y decisiones
 
 Las Juntas de Calificación de Invalidez adoptarán sus decisiones en audiencia privada, donde asistirán de manera presencial todos los integrantes principales de la respectiva sala, sin participación de las partes interesadas, entidades de seguridad social o apoderados; la decisión se tomará con el voto favorable de la mayoría de ellos y votarán todos los integrantes de la Junta.
@@ -8211,8 +7263,6 @@ En caso de no existir quórum, el director administrativo y financiero de la Jun
 Tanto el voto como la ponencia deberán surtirse en forma escrita; de lo actuado en la audiencia privada se deberá elaborar acta y de todo lo anterior se dejará constancia en el expediente correspondiente.
 
 (Decreto 1352 de 2013, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.5.1.38 — Dictamen
 
@@ -8232,8 +7282,6 @@ PARÁGRAFO . Los dictámenes emitidos por las Juntas de Calificación de Invalid
 
 (Decreto 1352 de 2013, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.5.1.39 — Notificación del dictamen
 
 Dentro de los dos (2) días calendario siguientes a la fecha de celebración de la audiencia privada, la Junta Regional de Calificación de Invalidez citará a través de correo físico que deje constancia del recibido a todas las partes interesadas para que comparezcan dentro de los cinco (5) días hábiles al recibo de la misma para notificarlas personalmente.
@@ -8250,8 +7298,6 @@ PARÁGRAFO . En los casos en los que la solicitud de dictamen sea realizada a tr
 
 (Decreto 1352 de 2013, art. 41)
 
-ARTÍCULO
-
 ## art:2.2.5.1.40 — Aclaración y corrección de los dictámenes
 
 Las Juntas de Calificación de Invalidez pueden corregir errores tipográficos, ortográficos o aritméticos que no modifiquen el fondo de la decisión, previa demostración de su fundamento, el cual quedará consignado en el acta y en el expediente correspondiente. La aclaración deberá ser comunicada a los interesados y no admite recursos.
@@ -8261,8 +7307,6 @@ Para lo anterior, dentro de los tres (3) días hábiles siguientes a la notifica
 En el caso de aclaración o corrección de la Junta Regional, no se excluye el derecho que tienen los interesados a presentar los recursos de reposición y/o apelación frente al dictamen, de conformidad con el artículo denominado recurso de reposición y apelación, correspondiente al artículo 2.2.5.1.41. del presente Decreto.
 
 (Decreto 1352 de 2013, art. 42)
-
-ARTÍCULO
 
 ## art:2.2.5.1.41 — Recurso de reposición y apelación
 
@@ -8292,8 +7336,6 @@ PARÁGRAFO 6. Cuando existan varios apelantes sobre un dictamen emitido por la J
 
 (Decreto 1352 de 2013, art. 43)
 
-ARTÍCULO
-
 ## art:2.2.5.1.42 — Controversias sobre los dictámenes de las Juntas de Calificación de Invalidez
 
 Las controversias que se susciten en relación con los dictámenes emitidos en firme por las Juntas de Calificación de Invalidez, serán dirimidas por la justicia laboral ordinaria de conformidad con lo previsto en el Código Procesal del Trabajo y de la Seguridad Social, mediante demanda promovida contra el dictamen de la Junta correspondiente. Para efectos del proceso judicial, el director administrativo y financiero representará a la Junta como entidad privada del Régimen de Seguridad Social Integral, con personería jurídica, y autonomía técnica y científica en los dictámenes.
@@ -8301,8 +7343,6 @@ Las controversias que se susciten en relación con los dictámenes emitidos en f
 PARÁGRAFO . Frente al dictamen proferido por las Junta Regional o Nacional solo será procedente acudir a la justicia ordinaria cuando el mismo se encuentre en firme.
 
 (Decreto 1352 de 2013, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.5.1.43 — Firmeza de los dictámenes
 
@@ -8316,8 +7356,6 @@ Los dictámenes adquieren firmeza cuando:
 
 (Decreto 1352 de 2013, art. 45)
 
-ARTÍCULO
-
 ## art:2.2.5.1.44 — Competencia del Ministerio del Trabajo
 
 El Ministerio del Trabajo realizará visitas de supervisión, inspección y control administrativo, operativo y de gestión financiera de las Juntas de Calificación de Invalidez, y verificará, entre otros aspectos, los tiempos de resolución de casos, la notificación y participación de las partes involucradas en los procesos de calificación, violación de los términos de tiempo y procedimientos del presente capítulo y de la reglamentación del Sistema General de Riesgos Laborales.
@@ -8328,15 +7366,11 @@ La primera instancia de las sanciones e investigaciones administrativas correspo
 
 (Artículo MODIFICADO por el Art. 28 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.5.1.45 — Aplicación del Código Disciplinario Único
 
 Los integrantes de las Juntas de Calificación de Invalidez son particulares que ejercen funciones públicas, razón por la cual están sujetos al control disciplinario de Procuraduría General de la Nación y les será aplicable el Código Disciplinario Único, advertencia que se les hará en el momento de la posesión.
 
 (Decreto 1352 de 2013, art. 47)
-
-ARTÍCULO
 
 ## art:2.2.5.1.46 — Incompatibilidades e inhabilidades
 
@@ -8347,8 +7381,6 @@ En el evento que el Ministerio del Trabajo conozca que alguno de los integrantes
 PARÁGRAFO . Para los suplentes y ad hoc esta incompatibilidad procede solo en los casos que requieran tomar posesión para ser integrante principal.
 
 (Decreto 1352 de 2013, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.5.1.47 — Impedimentos y recusaciones
 
@@ -8368,8 +7400,6 @@ El integrante principal y suplente de la Junta de Calificación de Invalidez, no
 
 (Decreto 1352 de 2013, art. 49)
 
-ARTÍCULO
-
 ## art:2.2.5.1.48 — Demandas o denuncias contra las Juntas de Calificación de Invalidez y sus integrantes de período vigente o anteriores
 
 El director administrativo y financiero contratará los servicios de defensa judicial y asumirá como parte de los gastos de administración, aquellos que se generen como consecuencia del proceso.
@@ -8377,8 +7407,6 @@ El director administrativo y financiero contratará los servicios de defensa jud
 Cuando hay una condena en contra de la Junta de Calificación de Invalidez, esta repetirá contra el integrante o miembro de la misma el pago de honorarios del abogado, indemnizaciones y costas derivados del proceso judicial o administrativo, siempre que la condena se haya producido como consecuencia de la conducta dolosa o gravemente culposa de dicho miembro o integrante.
 
 (Decreto 1352 de 2013, art. 50)
-
-ARTÍCULO
 
 ## art:2.2.5.1.49 — Fundamentos tenidos en cuenta para la calificación
 
@@ -8390,15 +7418,11 @@ Toda calificación que llegue a las Juntas Regionales de Calificación de Invali
 
 (Decreto 1352 de 2013, art. 51)
 
-ARTÍCULO
-
 ## art:2.2.5.1.50 — Procedimiento aplicado para la calificación integral de la invalidez
 
 Las solicitudes que lleguen a las Juntas Regionales de Calificación de Invalidez y la Nacional por parte de las Administradoras de Riesgos Laborales o las Administradoras de Fondos de Pensiones, las Entidades Promotoras de Salud o las compañías de seguros que asuman el riesgo de invalidez y muerte, las Administradoras del Sistema General de Pensiones, deben contener la calificación integral para la invalidez de conformidad la Sentencia C-425 de 2005 de la honorable Corte Constitucional y su precedente jurisprudencial, esto mismo aplicará para el correspondiente dictamen por parte de las Juntas de Calificación de Invalidez Regional o Nacional.
 
 (Decreto 1352 de 2013, art. 52)
-
-ARTÍCULO
 
 ## art:2.2.5.1.51 — .51
 
@@ -8413,8 +7437,6 @@ El dictamen se realizará teniendo en cuenta la fecha de estructuración, y las 
 Para el caso de las Fuerzas Militares y de la Policía Nacional, las Juntas actúan como peritos ante los Jueces Administrativos, y deben calificar con los manuales y tablas de dicho régimen especial.
 
 (Decreto 1352 de 2013, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.5.1.52 — De la actuación como perito por parte de las Juntas Regionales de Calificación de Invalidez
 
@@ -8434,8 +7456,6 @@ PARÁGRAFO . Los dictámenes emitidos en las actuaciones como perito no tienen v
 
 (Decreto 1352 de 2013, art. 54)
 
-ARTÍCULO
-
 ## art:2.2.5.1.53 — Revisión de la calificación de incapacidad permanente parcial o de la Calificación de Invalidez
 
 La revisión de la calificación de incapacidad permanente parcial o de la invalidez requiere de la existencia de una calificación o dictamen previo que se encuentre en firme, copia del cual debe reposar en el expediente.
@@ -8454,8 +7474,6 @@ PARÁGRAFO 2. En caso de detectarse en la revisión de una incapacidad permanent
 
 (Decreto 1352 de 2013, art. 55)
 
-ARTÍCULO
-
 ## art:2.2.5.1.54 — Cesación de la invalidez
 
 Sin perjuicio de las sanciones legales correspondientes, en cualquier tiempo, cuando se pruebe ante la Junta de Calificación de Invalidez que ha cesado o no ha existido el estado de invalidez del afiliado, del pensionado por invalidez o del beneficiario, la Junta procederá a declarar la cesación o inexistencia del estado de invalidez, según el caso, indicando la fecha de cesación.
@@ -8463,8 +7481,6 @@ Sin perjuicio de las sanciones legales correspondientes, en cualquier tiempo, cu
 Cuando se detecte que no existió el estado de invalidez, la entidad responsable del pago de la pensión dará aviso a las autoridades correspondientes.
 
 (Decreto 1352 de 2013, art. 56)
-
-ARTÍCULO
 
 ## art:2.2.5.1.55 — Responsabilidades del Ministerio del Trabajo
 
@@ -8474,15 +7490,11 @@ El Ministerio del Trabajo podrá actualizar cada tres (3) años y en cada perío
 
 (Decreto 1352 de 2013, art. 57)
 
-ARTÍCULO
-
 ## art:2.2.5.1.56 — Sanciones
 
 Corresponde a las Direcciones Territoriales del Ministerio del Trabajo, de conformidad con el artículo 91 del Decreto-Ley 1295 de 1994, y el artículo 20 de la Ley 1562 de 2012, o las normas que los modifiquen, adicionen o sustituyan, imponer las sanciones por incumplimiento de lo dispuesto en este capítulo por parte de los empleadores y Administradoras de Riesgos Laborales.
 
 (Decreto 1352 de 2013, art. 58)
-
-ARTÍCULO
 
 ## art:2.2.5.1.57 — Transición
 
@@ -8498,15 +7510,11 @@ CAPÍTULO 2
 
 JUNTA DE CALIFICACIÓN DE INVALIDEZ DE AVIADORES
 
-ARTÍCULO
-
 ## art:2.2.5.2.1 — Campo de aplicación
 
 El presente capítulo se aplica a los aviadores civiles que estén cobijados por el régimen de transición y las normas especiales previstas en el Decreto Ley 1282 de 1994.
 
 (Decreto 1557 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.2 — Junta Especial de Calificación de Invalidez
 
@@ -8514,15 +7522,11 @@ La integración y el funcionamiento de la Junta Especial de Calificación de Inv
 
 (Decreto 1557 de 1995, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.3 — Determinación de la invalidez
 
 El estado de Invalidez será determinado, en única instancia, por la Junta Especial de Calificación de Invalidez, de conformidad con lo previsto en el Manual Único para la Calificación de la Invalidez.
 
 (Decreto 1557 de 1995, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.5.2.4 — Invalidez
 
@@ -8530,23 +7534,17 @@ Se considera inválido un aviador civil que por cualquier causa sin importar su 
 
 (Decreto 1557 de 1995, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.2.5 — Naturaleza de la Junta
 
 De conformidad con el artículo 12. del Decreto Ley 1282 de 1994, la Junta Especial de Calificación de Invalidez es un organismo independiente y sin personería jurídica. Sus integrantes son designados por el Ministerio del Trabajo, y sus decisiones son de carácter obligatorio.
 
 (Decreto 1557 de 1995, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.5.2.6 — Secretario de la Junta especial de Calificación de Invalidez
 
 La Junta Especial de Calificación de Invalidez, tendrá un (1) secretario, quien deberá ser abogado titulado, con seis (6) años de experiencia profesional. Será nombrado por el Ministro del Trabajo de ternas presentadas por la Asociación Colombiana de Aviadores Civiles ACDAC y la Asociación de Transportadores Aéreos Colombianos - ATAC -.
 
 (Decreto 1557 de 1995, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.5.2.7 — Participación de otras personas en las audiencias privadas de la Junta especial de Calificación de Invalidez
 
@@ -8558,8 +7556,6 @@ Un representante de ACDAC - CAXDAC de profesión médico.
 
 (Decreto 1557 de 1995, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.5.2.8 — Solicitud
 
 Las solicitudes de calificación dirigidas a la Junta Especial de Calificación de Invalidez podrán ser presentadas por intermedio de la CAJA DE AUXILIOS Y PRESTACIONES ACDAC - CAXDAC, el aviador civil activo o pensionado por invalidez, o la persona que demuestre que aquel está imposibilitado, LA CAJA DE AUXILIOS Y PRESTACIONES ACDAC - CAXDAC-.
@@ -8567,8 +7563,6 @@ Las solicitudes de calificación dirigidas a la Junta Especial de Calificación 
 Dentro de los diez (10) días hábiles siguientes a la presentación de la solicitud, la Caja de Auxilios y Prestaciones ACDAC - CAXDAC deberá remitirla a la Junta Especial de Calificación de Invalidez.
 
 (Decreto 1557 de 1995, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.5.2.9 — Requisitos de la solicitud
 
@@ -8579,8 +7573,6 @@ Historia clínica o epicrisis del aviador civil activo o del pensionado por inva
 Exámenes clínicos o para - clínicos, o evaluaciones técnicas que determinen el estado de salud del aviador civil activo o pensionado por invalidez.
 
 (Decreto 1557 de 1995, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.5.2.10 — Honorarios de los miembros de la Junta
 
@@ -8600,15 +7592,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.1 — Objeto de reglamentación
 
 El presente capítulo tiene como objeto la reglamentación del Mecanismo de Protección al Cesante creado por la Ley 1636 de 2013, específicamente en los componentes relacionados con el Servicio Público de Empleo, la capacitación para la inserción laboral y el reconocimiento de las prestaciones económicas de seguridad social.
 
 (Decreto 2852 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.2 — Asignación de subsidios al desempleo
 
@@ -8624,8 +7612,6 @@ SERVICIO PÚBLICO DE EMPLEO
 
 Modificado por el Art. 1 del Decreto 1823 de 2020
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1 — Objeto del Servicio Público de Empleo
 
 De conformidad con el artículo 25 de la Ley 1636 de 2013, el Servicio Público de Empleo tiene por función esencial lograr la mejor organización posible del mercado de trabajo, para lo cual ayudará a los trabajadores a encontrar un empleo conveniente, y a los empleadores a contratar trabajadores apropiados a sus necesidades.
@@ -8635,8 +7621,6 @@ El servicio público de empleo podrá ser prestado por personas jurídicas de de
 Todas las personas jurídicas que deseen ejercer las actividades de gestión y colocación de empleo de que trata el artículo 29 de la Ley 1636 de 2013, deberán sujetarse a las reglas establecidas en el presente capítulo para su ejercicio.
 
 (Decreto 2852 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.2 — Principios
 
@@ -8660,23 +7644,17 @@ El Servicio Público de Empleo se prestará con sujeción a los siguientes princ
 
 (Decreto 2852 de 2013, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3 — Respeto a la intimidad y dignidad
 
 El Servicio Público de Empleo se prestará con respeto a la dignidad de los usuarios y al derecho a la intimidad en el tratamiento de sus datos, conforme a lo dispuesto en la Constitución Política y las leyes y decretos que la desarrollan.
 
 (Decreto 2852 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.4 — Gratuidad
 
 Las actividades básicas de gestión y colocación referidas en el artículo 2.2.6.1.2.17. del presente Decreto, serán prestadas siempre de forma gratuita para el trabajador.
 
 (Decreto 2852 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.5 — De la Dirección y Regulación del Servicio Público de Empleo
 
@@ -8688,8 +7666,6 @@ Como coordinador del Sistema de Gestión de Empleo para la Productividad, el Min
 
 (Decreto 2852 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.6 — Del Consejo Nacional de Mitigación del Desempleo
 
 En desarrollo de las funciones previstas en el artículo 22 de la Ley 1636 de 2013, el Consejo Nacional de Mitigación del Desempleo deberá garantizar la coordinación intersectorial de las políticas de empleo y realizar el seguimiento al debido funcionamiento del Servicio Público de Empleo, para lo cual podrá crear mesas sectoriales de seguimiento, evaluación y discusión.
@@ -8697,8 +7673,6 @@ En desarrollo de las funciones previstas en el artículo 22 de la Ley 1636 de 20
 Adicionalmente, el Consejo Nacional de Mitigación del Desempleo promoverá la creación o utilización de las instancias existentes en el orden territorial para la promoción de la política pública de empleo y de mitigación del desempleo.
 
 (Decreto 2852 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.7 — De la administración del Servicio Público de Empleo
 
@@ -8708,8 +7682,6 @@ PARÁGRAFO . En el ejercicio de sus funciones como administradora del Servicio P
 
 (Decreto 2852 de 2013, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.8 — Conectividad y reportes
 
 Para garantizar el debido funcionamiento del Servicio Público de Empleo y, en particular, la debida ejecución de las funciones de dirección y coordinación del Servicio Público de Empleo, la Unidad Administrativa Especial del Servicio Público de Empleo garantizará al Ministerio del Trabajo el acceso directo, ilimitado y continuo al Sistema de Información del Sistema Público de Empleo y presentará los informes periódicos que le sean requeridos.
@@ -8717,8 +7689,6 @@ Para garantizar el debido funcionamiento del Servicio Público de Empleo y, en p
 PARÁGRAFO . Igualmente, las demás entidades públicas con información relevante del mercado de trabajo, deberán entregarla oportunamente al Ministerio del Trabajo o a la Unidad Administrativa Especial del Servicio Público de Empleo, cuando la misma sea requerida.
 
 (Decreto 2852 de 2013, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.9 — Del Sistema de Información del Servicio Público de Empleo
 
@@ -8735,8 +7705,6 @@ Este Sistema es la fuente oficial de información en materia de intermediación 
 (Modificado por el Art. 2 del Decreto 1823 de 2020)
 
 (Decreto 2852 de 2013, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.10 — Registro de oferentes
 
@@ -8758,8 +7726,6 @@ PARÁGRAFO 4. Los registros realizados con anterioridad a la expedición de la L
 
 (Decreto 2852 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.11 — Registro Único de Empleadores
 
 El Sistema de Información del Servicio Público de Empleo contará con un Registro Único de Empleadores. Los empleadores deberán realizar el respectivo registro ante cualquiera de los prestadores autorizados del Servicio Público de Empleo. Adicionalmente, este Registro será alimentado con la información que semestralmente envíen las Cajas de Compensación Familiar a la Unidad Administrativa Especial del Servicio Público de Empleo, en los formatos que esta determine para tal fin. Dicho registro solo podrá ser consultado por el Ministerio del Trabajo para efectos estadísticos y de generación de política y regulación y por la Unidad Administrativa Especial del Servicio Público de Empleo, como administradora del Servicio Público de Empleo.
@@ -8767,8 +7733,6 @@ El Sistema de Información del Servicio Público de Empleo contará con un Regis
 PARÁGRAFO . El Ministerio del Trabajo establecerá mediante resolución el contenido mínimo de la información que tendrá el Registro Único de Empleadores.
 
 (Decreto 2852 de 2013, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.12 — Del Registro de Vacantes
 
@@ -8790,8 +7754,6 @@ PARÁGRAFO 4. El Gobierno Nacional reglamentará el reporte de vacantes y su rel
 
 (Decreto 2852 de 2013, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.13 — Disponibilidad de la información en el Sistema de Información del Servicio Público de Empleo
 
 La información de la vacante contenida en el Sistema de Información del Servicio Público de Empleo sobre los requisitos de educación, experiencia, y salario, deberá estar disponible para quien desee consultarla en dicho Sistema y en el prestador autorizado en el que se haya realizado el correspondiente registro.
@@ -8800,8 +7762,6 @@ Los datos mínimos de la hoja de vida, de conformidad con la Ley Estatutaria 126
 
 (Decreto 2852 de 2013, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.14 — Objetivo de la Red de Prestadores del Servicio Público de Empleo
 
 La Red de Prestadores del Servicio Público de Empleo de que trata el artículo 25 de la Ley 1636 de 2013, tiene por objetivo integrar y conectar las acciones en materia de gestión y colocación de empleo que realicen las entidades públicas, privadas, y las alianzas público-privadas conforme a lo señalado en el artículo 30 de la Ley 1636 de 2013.
@@ -8809,8 +7769,6 @@ La Red de Prestadores del Servicio Público de Empleo de que trata el artículo 
 El Ministerio del Trabajo evaluará y fijará en forma periódica los lineamientos de suficiencia de la red de prestadores para garantizar la adecuada cobertura del Servicio, bajo criterios de eficiencia en su prestación, niveles de actividades, dinámicas del mercado de trabajo, zonas especiales, economía regional y los demás que se consideren necesarios a partir de las recomendaciones que formule la Unidad Administrativa del Servicio Público de Empleo. La autorización de prestadores tomará en cuenta la evaluación y la fijación de los lineamientos en materia de suficiencia de la red.
 
 (Decreto 2852 de 2013, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.15 — De los Prestadores del Servicio Público de Empleo
 
@@ -8822,15 +7780,11 @@ Son prestadores del Servicio Público de Empleo la Agencia Pública de Empleo a 
 
 (Decreto 2852 de 2013, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.16 — Del Registro de Prestadores del Servicio Público de Empleo
 
 Entiéndase como el Registro de Prestadores del Servicio Público de Empleo, la anotación formal, histórica y consecutiva de los datos relacionados con los prestadores de servicios de gestión y colocación autorizados de que trata el artículo 32 de la Ley 1636 de 2013. Corresponde a la Unidad Administrativa Especial del Servicio Público de Empleo llevar el Registro de Prestadores del Servicio Público de Empleo. El Ministerio del Trabajo determinará por resolución las condiciones básicas y el procedimiento de operación de dicho Registro.
 
 (Decreto 2852 de 2013, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.17 — .17
 
@@ -8849,8 +7803,6 @@ Los servicios especializados son los dirigidos a mejorar las condiciones de empl
 (Modificado por el Art. 4 del Decreto 1823 de 2020)
 
 (Decreto 2852 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.18 — De la autorización de los Prestadores de Servicios de Gestión y Colocación de empleo
 
@@ -8871,8 +7823,6 @@ PARÁGRAFO 2. Los términos antes establecidos se aplicarán para el trámite de
 (Modificado por el Art. 5 del Decreto 1823 de 2020)
 
 (Decreto 2852 de 2013, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.19 — Requisitos para la obtención de la autorización
 
@@ -8901,8 +7851,6 @@ PARÁGRAFO 4,El prestador autorizado queda obligado a mantener las condiciones j
 (Parágrafo MODIFICADO por el Art. 22 del Decreto 2642 de 2022)
 
 (Decreto 2852 de 2013, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.20 — Obligaciones de los Prestadores del Servicio Público de Empleo
 
@@ -8944,8 +7892,6 @@ Los prestadores del Servicio Público de Empleo señalados en el artículo 2.2.6
 
 (Decreto 2852 de 2013, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.21 — Del Sistema de Información propio de los Prestadores del Servicio Público de Empleo
 
 Para desarrollar los servicios de gestión y colocación de empleo, los Prestadores del Servicio Público de Empleo deberán disponer de un sistema de información especializado o podrán hacer uso del Sistema de Información del Servicio Público de Empleo.
@@ -8956,8 +7902,6 @@ PARÁGRAFO . La Unidad Administrativa Especial del Servicio Público de Empleo, 
 
 (Decreto 2852 de 2013, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.22 — De las funciones del Sistema de Información propio de los Prestadores del Servicio Público de Empleo
 
 En caso de que la persona jurídica cuente con un sistema de información propio, éste deberá tener las características funcionales y técnicas, así corno los mecanismos de interoperabilidad y compatibilidad con el Sistema de Información del Servicio Público de Empleo, los cuales deberán ser definidos por la Unidad Administrativa Especial del Servicio Público de Empleo.
@@ -8965,8 +7909,6 @@ En caso de que la persona jurídica cuente con un sistema de información propio
 (Modificado por el Art. 9 del Decreto 1823 de 2020)
 
 (Decreto 2852 de 2013, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.23 — .23
 
@@ -8976,15 +7918,11 @@ De la interoperabilidad y compatibilidad del Sistema de Información de los pres
 
 (Decreto 2852 de 2013, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.24 — Del Reglamento de Prestación de Servicios de Gestión y Colocación de Empleo
 
 Los prestadores del Servicio Público de Empleo deberán tener un reglamento que contenga las condiciones de prestación de los servicios y los derechos y deberes de los usuarios, el cual será público y deberá darse a conocer a quien lo requiera.
 
 (Decreto 2852 de 2013, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.25 — Del contenido del Reglamento de Prestación de Servicios de Gestión y Colocación de Empleo
 
@@ -9011,8 +7949,6 @@ PARÁGRAFO . Las tarifas establecidas para la prestación de los servicios, cuan
 Las tarifas para los servicios asociados, relacionados o complementarios se definirán por mutuo acuerdo entre los operadores y los beneficiarios de aquellos.
 
 (Decreto 2852 de 2013, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.26 — Actos prohibidos en la prestación de servicios de gestión y colocación de empleo
 
@@ -9042,8 +7978,6 @@ Queda prohibido a los prestadores del servicio público de empleo:
 
 (Decreto 1668 de 2016, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.27 — Clases de agencias
 
 Las agencias públicas y privadas de gestión y colocación de empleo pueden ser:
@@ -9062,15 +7996,11 @@ PARÁGRAFO 2. Las Agencias de Gestión y Colocación de Empleo podrán contar co
 
 (Decreto 2852 de 2013, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.28 — Cobro por servicios básicos
 
 Las agencias privadas que realicen labores de gestión y colocación de empleo podrán cobrar al demandante de mano de obra una comisión por la prestación de los servicies básicos, cuando esta proceda, de conformidad con lo establecido en el reglamento de prestación de servicios.
 
 (Decreto 2852 de 2013, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.29 — Cobro por Servicios Especializados
 
@@ -9080,8 +8010,6 @@ Las agencias podrán cobrar a demandantes y oferentes por los servicios especial
 
 (Decreto 2852 de 2013, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.30 — De la Agencia Pública de Empleo del SENA y sus centros de atención
 
 En desarrollo de su función de Agencia Pública de Empleo, el Servicio Nacional de Aprendizaje (SENA) podrá celebrar convenios y alianzas con personas de derecho público y privado sin ánimo de lucro, con el propósito de extender los servicios de gestión y colocación de empleo a localidades y sectores que carezcan de los mismos.
@@ -9089,8 +8017,6 @@ En desarrollo de su función de Agencia Pública de Empleo, el Servicio Nacional
 El Servicio Nacional de Aprendizaje, SENA prestará los servicios de promoción y ejecución de la gestión y colocación pública de empleo, en todas las Direcciones Regionales de la entidad.
 
 (Decreto 2852 de 2013, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.31 — De los servicios de la Agencia Pública de Empleo a cargo del Servicio Nacional de Aprendizaje, SENA
 
@@ -9108,8 +8034,6 @@ PARÁGRAFO . Todos los oferentes inscritos en el Sistema de Información del Ser
 
 (Decreto 2852 de 2013, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.32 — .32
 
 Del Sistema de Información Propio para la Prestación de los Servicios de Gestión y Colocación de Empleo en relación con la Agencia Pública de Empleo. Además de las funciones previstas en el artículo 2.2.6.1.2.22. del presente Decreto, el Sistema de Información propio de los prestadores autorizados para la Prestación de los Servicios de Gestión y Colocación deberá registrar las actividades complementarias y demás actuaciones de la Agencia Pública de Empleo a cargo del SENA
@@ -9117,8 +8041,6 @@ Del Sistema de Información Propio para la Prestación de los Servicios de Gesti
 (Modificado por el Art. 14 del Decreto 1823 de 2020)
 
 (Decreto 2852 de 2013, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.33 — Las Cajas de Compensación Familiar prestadoras de servicios de gestión y colocación de empleo
 
@@ -9130,15 +8052,11 @@ En el evento en que los servicios no sean prestados directamente por la correspo
 
 (Decreto 2852 de 2013, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.34 — Territorialidad
 
 Las Cajas de Compensación Familiar prestarán los servicios de gestión y colocación de que trata el parágrafo del artículo 29 de la Ley 1636 de 2013, a cualquier demandante u oferente de empleo que se lo solicite dentro del ámbito territorial de su competencia. Cuando los servicios de gestión y colocación de empleo sean prestados utilizando exclusivamente medios electrónicos, la autorización se entenderá otorgada para todo el territorio nacional.
 
 (Decreto 2852 de 2013, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.35 — .35
 
@@ -9147,8 +8065,6 @@ De las obligaciones de las Agencias de Gestión y Colocación de Empleo constitu
 El cobro por servicios asociados y adicionales deberá estar registrado en el correspondiente reglamento y ser informado a la Unidad Administrativa Especial del Servicio Público de Empleo.
 
 (Decreto 2852 de 2013, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.36 — Bolsas de Empleo
 
@@ -9160,15 +8076,11 @@ PARÁGRAFO . Las bolsas de empleo podrán cobrar a los potenciales empleadores, 
 
 (Decreto 2852 de 2013, art. 37)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.37 — Bolsas de empleo de instituciones de educación superior
 
 Las instituciones de educación superior que en desarrollo de lo dispuesto por el numeral 6 de las "condiciones de calidad de carácter institucional" del artículo 2 de la Ley 1188 de 2008 y de la obligación contenida en el numeral 6.5 del artículo 6 del Decreto número 1295 de 2010 o el que lo sustituya, modifique o adicione, organicen bolsas de empleo para la prestación de servicios de gestión y colocación de empleo para sus estudiantes y egresados, deberán obtener la autorización de que trata el artículo 2.2.6.1.2.18. del presente Decreto.
 
 (Decreto 2852 de 2013, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.38 — Servicios prestados por las bolsas de empleo
 
@@ -9178,15 +8090,11 @@ Las bolsas de empleo deberán prestar como mínimo los servicios básicos de ges
 
 (Decreto 2852 de 2013, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.39 — Del reglamento de prestación de servicios de las bolsas de empleo
 
 En el reglamento de prestación de servicios de que trata el artículo 2.2.6.1.2.24. del presente Decreto, las bolsas de empleo deberán determinar la población específica de oferentes o demandantes a los que prestarán sus servicios.
 
 (Decreto 2852 de 2013, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.40 — De las prohibiciones de las bolsas de empleo
 
@@ -9202,8 +8110,6 @@ Queda prohibido a las bolsas de empleo:
 
 (Decreto 2852 de 2013, art. 41)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.41 — Bolsas de empleo para proyectos especiales
 
 Para la atención de requerimientos de mano de obra frente a la ejecución de un proyecto especial, una persona jurídica sin ánimo de lucro podrá prestar servicios de gestión y colocación para el grupo específico de empresas ejecutoras del proyecto, previa la autorización de que trata el artículo 2.2.6.1.2.18. del presente Decreto. La prestación de los servicios de gestión y colocación de empleo por las bolsas de empleo, será gratuita para oferentes y demandantes usuarios de los servicios.
@@ -9211,8 +8117,6 @@ Para la atención de requerimientos de mano de obra frente a la ejecución de un
 Para efectos de la actividad de remisión de los oferentes la bolsa deberá consultar el registro de oferentes del Sistema de Información del Servicio Público de Empleo y remitir los candidatos que corresponda a los requerimientos de los demandantes.
 
 (Decreto 2852 de 2013, art. 42)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.42 — De la inspección, vigilancia y control del Servicio Público de Empleo
 
@@ -9226,8 +8130,6 @@ PARÁGRAFO . El régimen sancionatorio establecido en los artículos 38 y 39 de 
 
 (Decreto 2852 de 2013, art. 43)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.43 — Competencia y procedimiento de Vigilancia y Control
 
 De conformidad con lo dispuesto en los artículos 38 y 39 de la Ley 1636 de 2013, el Ministerio del Trabajo aplicará las sanciones de multa o suspensión o cancelación de la autorización, cuando se presente, por única vez o en forma reiterada, el ejercicio irregular de la gestión y colocación de empleo o la inobservancia de los principios o incumplimiento de las obligaciones en la prestación de los servicios de gestión y colocación de empleo.
@@ -9239,8 +8141,6 @@ PARÁGRAFO . El funcionario administrativo competente deberá incluir en el acto
 (Modificado por el Art. 18 del Decreto 1823 de 2020)
 
 (Decreto 2852 de 2013, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.44 — Informe de incumplimiento
 
@@ -9262,8 +8162,6 @@ Las prestaciones económicas que serán reconocidas a la población cesante que 
 
 (Decreto 2852 de 2013, art. 45; modificado por el Decreto 582 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.2 — Certificación sobre cesación laboral expedida por el empleador
 
 En los términos de lo dispuesto por la Ley 1636 de 2013, todos los empleadores están en la obligación de expedir al término de la relación laboral, certificación escrita en la que conste dicha circunstancia, especificando fecha exacta de la terminación de la relación laboral, última remuneración del trabajador y causa de la terminación. Dicha certificación será entregada personalmente al trabajador al momento de la suscripción de la liquidación o remitida por correo certificado a la dirección registrada de este.
@@ -9275,8 +8173,6 @@ PARÁGRAFO . En el caso de los trabajadores independientes contratistas, la cert
 Para los demás trabajadores independientes la certificación de cesación se entenderá como la manifestación que realicen bajo declaración juramentada al respecto en el Formulario Único de Postulación.
 
 (Decreto 2852 de 2013, art. 46)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.3 — Acreditación de requisitos de acceso al Mecanismo de Protección al Cesante
 
@@ -9298,8 +8194,6 @@ PARÁGRAFO 3. En ningún caso la mora en los aportes dará lugar al no pago de l
 
 (Decreto 2852 de 2013, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.4 — Aporte de trabajadores independientes a las Cajas de Compensación Familiar
 
 En desarrollo de lo dispuesto en el parágrafo 1 del artículo 9 de la Ley 1636 de 2013, los trabajadores independientes que accedan voluntariamente al Mecanismo de Protección al Cesante, deberán realizar aportes a las Cajas de Compensación Familiar de conformidad con lo establecido en el parágrafo 1 del artículo 19 de la Ley 789 de 2002, a través de la Planilla Integrada de Liquidación de Aportes (PILA), cancelando el 2% sobre el ingreso base de cotización al Sistema Integral de Seguridad Social.
@@ -9307,8 +8201,6 @@ En desarrollo de lo dispuesto en el parágrafo 1 del artículo 9 de la Ley 1636 
 PARÁGRAFO . Los cesantes acreditarán el requisito de afiliación previa al Sistema de Subsidio Familiar para acceder a las prestaciones económicas del Mecanismo de Protección al Cesante en la calidad que les resulte favorable o mediante la sumatoria de los tiempos de cotización al Sistema de Subsidio Familiar en condición de dependiente y de independiente.
 
 (Decreto 2852 de 2013, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.5 — Procedimiento transitorio para validación de requisitos
 
@@ -9328,8 +8220,6 @@ PARÁGRAFO . El cruce y consulta de información de las que trata el presente ar
 
 (Decreto 2852 de 2013, art. 49)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.6 — Decisión sobre reconocimiento de prestaciones económicas
 
 Una vez radicado el Formulario Único de Postulación ante la última Caja de Compensación Familiar a la que estuvo afiliado el cesante, esta contará con el término improrrogable de quince (15) días hábiles para decidir sobre el reconocimiento.
@@ -9346,15 +8236,11 @@ El término para decidir de fondo sobre la postulación se contará a partir del
 
 (Decreto 2852 de 2013, art. 50)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.7 — Recurso de reposición
 
 En caso de negarse el acceso a los beneficios del Mecanismo de Protección al Cesante por no cumplir alguno de los requisitos, el cesante contará con diez (10) días hábiles para interponer recurso de reposición ante la respectiva Caja de Compensación Familiar, el cual deberá ser resuelto dentro de los cinco (5) días hábiles siguientes a la presentación del mismo.
 
 (Decreto 2852 de 2013, art. 51)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.8 — Del Registro de Beneficiarios
 
@@ -9365,8 +8251,6 @@ Cuando se acrediten los requisitos, la Caja de Compensación Familiar deberá in
 (Modificado por el Art. 3 del Decreto 1493 de 2022)
 
 (Decreto 2852 de 2013, art. 52)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.9 — Pago de los aportes de Seguridad Social en Salud y Pensiones
 
@@ -9392,8 +8276,6 @@ PARÁGRAFO 4. Los cesantes disfrutarán del pago de los aportes de Seguridad Soc
 
 (Decreto 2852 de 2013, art. 53)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.10 — Improcedencia de las prestaciones del Mecanismo de Protección al Cesante
 
 No podrán acceder a las prestaciones económicas del Mecanismo de Protección al Cesante quienes:
@@ -9415,8 +8297,6 @@ PARÁGRAFO. En todo caso, los beneficios con cargo al Fondo de Solidaridad de Fo
 (Modificado por el Art. 5 del Decreto 1493 de 2022)
 
 (Decreto 2852 de 2013, art. 54)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.11 — Pérdida de las prestaciones
 
@@ -9450,8 +8330,6 @@ PARÁGRAFO 4. Los beneficios otorgados por el FOSFEC tendrán una vigencia de tr
 
 (Decreto 2852 de 2013, art.
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.12 — Administración de los recursos
 
 La administración de los recursos del Fondo de Solidaridad de Fomento al Empleo y Protección al Cesante a Cargo de las Cajas de Compensación Familiar se regirá por las siguientes reglas:
@@ -9484,8 +8362,6 @@ PARÁGRAFO 2. Bajo la facultad otorgada al Gobierno Nacional a través del artí
 
 (Decreto 454 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.13 — .13
 
 Apropiación y destinación por parte de las Cajas de Compensación Familiar de los recursos del Fondo de Solidaridad de Fomento al Empleo y Protección al Cesante. Las Cajas de Compensación Familiar en su condición de administradoras del FOSFEC, tendrán a su cargo el pago y reconocimiento de las prestaciones económicas del Mecanismo de Protección al Cesante contra los recursos de dicho Fondo.
@@ -9501,8 +8377,6 @@ En desarrollo de lo anterior, a partir del 1 de enero de 2015, los recursos del 
 PARÁGRAFO . Las Cajas de Compensación Familiar deberán definir procedimientos y establecer mecanismos para atender y resolver las quejas y reclamos presentados por los cesantes en relación con el Mecanismo de Protección al Cesante, los cuales serán auditados por la Superintendencia de Subsidio Familiar.
 
 (Decreto 2852 de 2013, art. 57)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.14 — Comisión por labor administrativa y gastos operativos y de administración
 
@@ -9520,23 +8394,17 @@ Son de administración todos aquellos gastos relacionados directa y esencialment
 
 (Decreto 2852 de 2013, art. 58)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.15 — Del proceso de compensación entre Cajas
 
 El Ministerio del Trabajo, con base en los informes financieros generados por las Cajas de Compensación Familiar, definirá los criterios para efectuar el proceso de compensación entre Cajas y los giros a que haya lugar, de los recursos correspondientes al pago de salud y pensión, cuota monetaria por cesante e incentivo económico por ahorro voluntario de cesantías del Mecanismo de Protección al Cesante, servicios de gestión y colocación del empleo y a programas de capacitación que no se hubieren ejecutado por las Cajas de Compensación Familiar dentro del período anual.
 
 (Decreto 2852 de 2013, art. 59)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.16 — Compensación extraordinaria de recursos del FOSFEC
 
 El Ministerio del Trabajo podrá definir los criterios y realizar procesos de compensación extraordinaria, en los términos previstos en el artículo 2.2.6.1.3.15. de este Decreto, cuando por circunstancias especiales los recursos que correspondan a una Caja de Compensación Familiar, sean insuficientes para atender la demanda de servicios, sin perjuicio de lo establecido por el literal c) del artículo 4 de la Ley 1636 de 2013.
 
 (Decreto 1508 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.17 — Del Fondo para el Fomento del Empleo y Protección del Desempleo (FONEDE)
 
@@ -9552,8 +8420,6 @@ Los recursos que bajo la vigencia del parágrafo 20 del artículo 60 de la Ley 7
 
 (Decreto 454 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.18 — Transferencia económica
 
 Para efectos de la presente Sección, entiéndase por transferencia económica aquella prestación monetaria destinada a cubrir los gastos o prioridades de consumo de cada cotizante de categorías "a" y "b" del Sistema de Subsidio Familiar durante un período de cesantía determinado.
@@ -9565,8 +8431,6 @@ PARÁGRAFO. La Caja de Compensación Familiar, deberá realizar el pago de la tr
 (Subrogado por el Art. 7 del Decreto 1493 de 2022)
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.19 — Financiación de la transferencia económica
 
@@ -9580,8 +8444,6 @@ PARÁGRAFO 2. La nación no será garante del pago de la transferencia económic
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.20 — Requisitos de acceso a los bonos de alimentación
 
 Podrán acceder a los bonos de alimentación quienes cumplan los requisitos establecidos en los numerales 1, 2, 3 y 4 del artículo 13 de la Ley 1636 de 2013.
@@ -9589,8 +8451,6 @@ Podrán acceder a los bonos de alimentación quienes cumplan los requisitos esta
 (Derogado por el Art. 9 del Decreto 1493 de 2022)
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.21 — Esquema de operación y entrega del beneficio de bonos de alimentación
 
@@ -9604,8 +8464,6 @@ Las agencias de gestión y colocación de las cajas de compensación familiar re
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.22 — Seguimiento
 
 Las agencias de gestión y colocación de las cajas de compensación familiar realizaran el seguimiento al esquema de operación y entrega del bono de alimentación y enviaran esta información al Ministerio del Trabajo a través de reportes periódicos de conformidad con las directrices impartidas por esta entidad para el efecto.
@@ -9613,8 +8471,6 @@ Las agencias de gestión y colocación de las cajas de compensación familiar re
 (Derogado por el Art. 9 del Decreto 1493 de 2022)
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.23 — Perdida del beneficio de bono de alimentación
 
@@ -9624,8 +8480,6 @@ El beneficiario perderá el bono de alimentación por la ocurrencia de alguna de
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.24 — Cesación del beneficio de bono de alimentación
 
 El beneficio de bono de alimentación cesara en caso de que se configure alguna de las causales previstas en los artículos 15 y 16 de la Ley 1636 de 2013.
@@ -9634,8 +8488,6 @@ El beneficio de bono de alimentación cesara en caso de que se configure alguna 
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.25 — Financiación de los bonos de alimentación
 
 Las cajas de compensación familiar dispondrán de los recursos de la subcuenta de prestaciones económicas del Fonda de Solidaridad de Fomento al Empleo y Protección al Cesante - FOSFEC para atender a la población beneficiaria del bono de alimentación en sus territorios, sin desatender las demás obligaciones con cargo de esta subcuenta. Para ello la Superintendencia de Subsidio Familiar deberá generar un rubro al interior de dicha subcuenta para registrar los recursos que se destinaran para el desembolso de los bonos de alimentación.
@@ -9643,8 +8495,6 @@ Las cajas de compensación familiar dispondrán de los recursos de la subcuenta 
 (Derogado por el Art. 9 del Decreto 1493 de 2022)
 
 (Artículo adicionado por el Decreto 582 de 2016, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.26 — Esquema de transición de actuales beneficiarios de prestaciones económicas
 
@@ -9658,8 +8508,6 @@ SECCIÓN 4
 
 CAPACITACIÓN PARA LA INSERCIÓN LABORAL
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.1 — Objeto del Servicio de Capacitación
 
 De conformidad con lo dispuesto en el artículo 41 de la Ley 1636 de 2013, la capacitación para la inserción laboral es el proceso de aprendizaje dirigido a preparar, desarrollar y complementar las capacidades de las personas para el desempeño de funciones específicas.
@@ -9667,8 +8515,6 @@ De conformidad con lo dispuesto en el artículo 41 de la Ley 1636 de 2013, la ca
 La prestación de los programas de capacitación deberá sujetarse a los lineamientos de pertinencia, oportunidad, cobertura y calidad establecidos por el Ministerio del Trabajo.
 
 (Decreto 2852 de 2013, art. 61)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.2 — Definiciones
 
@@ -9700,8 +8546,6 @@ Para efectos de la aplicación e interpretación de esta sección se utilizarán
 
 (Decreto 2852 de 2013, art. 62)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.3 — Lineamientos sobre la Oferta
 
 Los programas de capacitación para la inserción y reinserción laboral obedecerán a los siguientes lineamientos:
@@ -9716,8 +8560,6 @@ Los programas de capacitación para la inserción y reinserción laboral obedece
 
 (Decreto 2852 de 2013, art. 63)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.4 — Programas de capacitación para la inserción o reinserción laboral
 
 La capacitación para la inserción o reinserción laboral se impartirá a través de módulos. La duración total de la capacitación dependerá de los perfiles ocupacionales y las condiciones particulares de empleabilidad de la población objeto de atención de los prestadores del Servicio Público de Empleo que trata este capítulo, mediante mecanismos flexibles, innovadores y adaptables conforme a la ruta de empleabilidad.
@@ -9727,8 +8569,6 @@ PARÁGRAFO 1. Con el propósito de construir un perfil individual para cada trab
 PARÁGRAFO 2. El Ministerio del Trabajo publicará información de referencia para la estructuración y diseño curricular de los programas de capacitación de inserción y reinserción laboral, de acuerdo con los lineamientos de política y los requerimientos ocupacionales en términos de cualificaciones y competencias.
 
 (Decreto 2852 de 2013, art. 64)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.5 — Oferentes de los programas
 
@@ -9742,8 +8582,6 @@ PARÁGRAFO 2. El Ministerio del Trabajo implementará un banco de oferentes de p
 
 (Decreto 2852 de 2013, art. 65)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.6 — Organización de los servicios de capacitación e inserción y reinserción laboral
 
 Las Cajas de Compensación Familiar que operen los beneficios del FOSFEC mediante las Agencias de Gestión y Colocación de Empleo, deberán constituir una red de entidades autorizadas y programas de capacitación para la inserción o reinserción laboral.
@@ -9756,8 +8594,6 @@ PARÁGRAFO 3. Las Cajas de Compensación reportarán anualmente al Ministerio de
 
 (Decreto 2852 de 2013, art. 66)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.7 — Financiamiento de la capacitación para la inserción y reinserción laboral
 
 Los programas de inserción y reinserción laboral serán financiados con los recursos del FOSFEC y del Servicio Nacional de Aprendizaje (SENA), que establece el presente capítulo.
@@ -9768,8 +8604,6 @@ PARÁGRAFO . El Ministerio del Trabajo determinará los topes máximos por cesan
 
 (Decreto 2852 de 2013, art. 67)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.8 — Exenciones
 
 Los casos de fuerza mayor a que se refiere el parágrafo 1 del artículo 2.2.6.1.3.11. del presente Decreto, serán aceptados por las Cajas de Compensación Familiar como exención a la pérdida del beneficio de capacitación en los eventos de incumplimiento de los mínimos de asistencia requerida o de no culminación del respectivo módulo.
@@ -9778,8 +8612,6 @@ PARÁGRAFO . Los oferentes de la capacitación deberán reportar al FOSFEC, con 
 
 (Decreto 2852 de 2013, art. 68)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.9 — Capacitación impartida por el Servicio Nacional de Aprendizaje (SENA)
 
 El Servicio Nacional de Aprendizaje (SENA), con los recursos dispuestos en el artículo 40 de la Ley 1636 de 2013 y las partidas adicionales que defina su Consejo Directivo, dispondrá de recursos para programas de capacitación para la inserción y reinserción laboral a su cargo. Anualmente el Consejo Directivo del Servicio Nacional de Aprendizaje (SENA) aprobará el monto de recursos destinados para financiar la capacitación para la inserción o reinserción laboral impartida por dicha entidad.
@@ -9787,8 +8619,6 @@ El Servicio Nacional de Aprendizaje (SENA), con los recursos dispuestos en el ar
 PARÁGRAFO . El SENA reportará anualmente al Ministerio del Trabajo la oferta de programas de capacitación para la inserción o reinserción ofertados en cada una de las regionales y el listado de los beneficiarios incluidos y atendidos en el año inmediatamente anterior.
 
 (Decreto 2852 de 2013, art. 69)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.10 — Reconocimientos de saberes previos de la población cesante
 
@@ -9802,23 +8632,17 @@ SECCIÓN 5
 
 AHORRO VOLUNTARIO Y BENEFICIO MONETARIO
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.1 — Objeto
 
 La presente sección tiene por objeto desarrollar el esquema de ahorro voluntario de cesantías para trabajadores dependientes e independientes del sector privado y público, y establecer el beneficio monetario proporcional que recibirán los trabajadores que ahorren parte o la totalidad de sus cesantías para el Mecanismo de Protección al Cesante.
 
 (Decreto 135 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.2 — Campo de aplicación
 
 Esta sección aplica a los empleadores, a los trabajadores dependientes e independientes, a las Cajas de Compensación Familiar como administradoras del FOSFEC, a las Administradoras de Fondos de Cesantías del sector público (Fondo Nacional del Ahorro) y privado.
 
 (Decreto 135 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.3 — Destinación parcial o total de las cesantías con destino al Mecanismo de Protección al Cesante
 
@@ -9827,8 +8651,6 @@ Los trabajadores dependientes podrán destinar parcial o totalmente las cesantí
 Los trabajadores independientes podrán en forma libre y voluntaria afiliarse a las Administradoras de Fondos de Cesantías y destinar parcial o totalmente los recursos ahorrados, en el marco del Mecanismo de Protección al Cesante. El mismo esquema se aplicará a los trabajadores remunerados bajo la modalidad de salario integral.
 
 (Decreto 135 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.4 — Forma y modalidades de destinación
 
@@ -9844,8 +8666,6 @@ PARÁGRAFO 2. La destinación parcial de las cesantías se expresará en porcent
 
 (Decreto 135 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.5 — Formato para manifestar la voluntad sobre ahorro de cesantías para el Mecanismo de Protección al Cesante
 
 El trabajador expresará su voluntad de destinar para ahorro en el Mecanismo de Protección al Cesante, parte o la totalidad de las cesantías causadas o por causar, a través de un formato físico o electrónico.
@@ -9860,8 +8680,6 @@ PARÁGRAFO 2. Las Administradoras de Fondos de Cesantías adoptarán los mecanis
 
 (Decreto 135 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.6 — Promoción del ahorro para el Mecanismo de Protección al Cesante
 
 Las Administradoras de Fondos de Cesantías divulgarán y promoverán en sus canales de servicio la destinación libre y voluntaria de parte o la totalidad de las cesantías para la financiación del Mecanismo de Protección al Cesante. Especialmente, durante el primer trimestre de cada anualidad, dispondrán campañas y acciones orientadas a explicar a sus afiliados la operación del Mecanismo de Protección al Cesante.
@@ -9874,15 +8692,11 @@ PARÁGRAFO 2. Está prohibida cualquier forma de coacción que ejerzan los emple
 
 (Decreto 135 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.7 — Coexistencia de contratos laborales
 
 Cuando el trabajador labore para varios empleadores tendrá derecho a destinar las cesantías, que correspondan a cada una de las relaciones laborales. En estos casos, se aplicarán las regulaciones de la presente sección con respecto a cada una de las relaciones.
 
 (Decreto 135 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.8 — Revocatoria total de la destinación de cesantías para ahorro en el Mecanismo de Protección al Cesante
 
@@ -9892,15 +8706,11 @@ Lo dispuesto en el presente artículo, aplicará igualmente para el caso en que 
 
 (Decreto 135 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.9 — No aplicación del ahorro de cesantías para el Mecanismo de Protección al Cesante por pago anticipado
 
 No procede la aplicación del ahorro de cesantías para el Mecanismo de Protección al Cesante, cuando conforme al régimen legal, corresponda el pago de cesantías al empleador por terminación de la relación laboral.
 
 (Decreto 135 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.10 — Beneficio monetario proporcional por ahorro de cesantías para el Mecanismo de Protección al Cesante
 
@@ -10014,15 +8824,11 @@ PARÁGRAFO 2. La revocatoria de la destinación de recursos de ahorro de cesant�
 
 (Decreto 135 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.11 — Afiliación para independientes y trabajadores con salario integral
 
 Los trabajadores independientes y los trabajadores con salario integral que, conforme las normas legales vigentes, se afilien a las Administradoras de Fondos de Cesantías, podrán acceder al beneficio monetario por ahorro del Mecanismo de Protección al Cesante, siempre y cuando cumplan las condiciones establecidas en el presente capítulo.
 
 (Decreto 135 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.12 — Beneficio monetario proporcional por ahorro de cesantías
 
@@ -10031,8 +8837,6 @@ El beneficio monetario proporcional por ahorro para los trabajadores independien
 Para efectos de determinar el ahorro mínimo que deben realizar los trabajadores independientes y los trabajadores con salario integral para tener derecho al beneficio, se tendrá en cuenta el promedio de los ingresos reportados en el último año a la Caja de Compensación Familiar, de acuerdo con lo establecido en numeral 5 del artículo 13 de la Ley 1636 de 2013.
 
 (Decreto 135 de 2014, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.13 — .13
 
@@ -10052,15 +8856,11 @@ PARÁGRAFO. En caso de cese o pérdida de las prestaciones que se reconocen al c
 
 (Decreto 135 de 2014, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.14 — Consulta de información entre las Cajas de Compensación Familiar y las Administradoras de Fondos de Cesantías
 
 Las Administradoras de Fondos de Cesantías y las Calas de Compensación Familiar desarrollarán herramientas de información y consulta sobre las condiciones de los beneficiarios del Mecanismo de Protección al Cesante, en particular sobre el registro de estos para el acceso a los beneficios consultando los criterios de seguridad y protección de datos que sean aplicables.
 
 (Decreto 135 de 2014, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.15 — Traslado de Administradora de Fondos de Cesantías
 
@@ -10068,15 +8868,11 @@ En caso de traslado de un trabajador de Administradora de Fondos de Cesantías, 
 
 (Decreto 135 de 2014, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.16 — .16
 
 Disposición del ahorro de cesantías para el Mecanismo de Protección al Cesante cuando el trabajador no acredite requisitos para ser beneficiario. Cuando un trabajador esté en condición de cesante y haya dispuesto ahorro de cesantías para el Mecanismo de Protección al Cesante pero no acredite la condición de beneficiario del mismo, podrá retirar los recursos ahorrados en forma voluntaria, directamente ante la Administradora de Fondos de Cesantías, presentando la certificación expedida por la Caja de Compensación Familiar administradora del FOSFEC ante la cual haya gestionado el beneficio, en la cual se acredite que no fue incorporado al registro de beneficiarios. También podrá mantener los recursos en su cuenta de cesantías para aplicarlos a los fines de ley.
 
 (Decreto 135 de 2014, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.17 — .17
 
@@ -10086,8 +8882,6 @@ En el caso del Régimen de Ahorro Individual con Solidaridad, el trabajador debe
 
 (Decreto 135 de 2014, art.
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.18 — Obligaciones del empleador que incumpla la consignación de las cesantías
 
 En caso que el empleador incumpla la consignación de las cesantías dentro del plazo de ley, la Caja de Compensación Familiar pagará el beneficio monetario que corresponda y recobrará el monto de este al empleador, con destino al FOSFEC.
@@ -10096,15 +8890,11 @@ La Administradora de Fondos de Cesantías iniciará las acciones de cobro que pr
 
 (Decreto 135 de 2014, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.19 — Reporte de información
 
 Conforme las instrucciones del Ministerio del Trabajo y la operatividad del Sistema de Información del Mecanismo de Protección al Cesante, las Cajas de Compensación Familiar reportarán sobre el reconocimiento del beneficio monetario a que se refiere el presente capítulo.
 
 (Decreto 135 de 2014, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.20 — Contabilización de los recursos de ahorro de cesantías para el Mecanismo de Protección al Cesante
 
@@ -10118,15 +8908,11 @@ SECCIÓN 6
 
 DISPOSICIONES VARIAS RELATIVAS A LOS MECANISMOS DE PROTECCIÓN AL CESANTE
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1 — De la obligación de promoción y divulgación del Mecanismo de Protección al Cesante
 
 El Ministerio del Trabajo, en cumplimiento de sus obligaciones como director y coordinador del Mecanismo de Protección al Cesante, determinará, mediante instructivos, la forma en que los diferentes participantes de los componentes del Mecanismo, colaborarán en la labor de promoción y divulgación del mismo.
 
 (Decreto 2852 de 2013, art. 72)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.2 — Cobertura del Mecanismo de Protección al Cesante en eventos de suspensión involuntaria del contrato de trabajo
 
@@ -10134,23 +8920,17 @@ El Mecanismo de Protección al Cesante cobija en los mismos términos previstos 
 
 (Decreto 1508 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.3 — Reporte de la suspensión
 
 El empleador que se encuentre en suspensión del contrato de trabajo por las causales señaladas en el artículo anterior, deberá remitir certificación a la Caja de Compensación Familiar a la que se encuentre afiliado por cada trabajador, en la cual informe la causal de suspensión y el periodo de la misma, para los fines previstos por los artículos 2.2.6.1.3.2. y 2.2.6.1.3.3 del presente Decreto.
 
 (Decreto 1508 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.4 — Particularidades del régimen de prestaciones y beneficios
 
 Las cotizaciones a los Sistemas de Seguridad Social en Salud y Pensiones serán pagadas por el empleador en las condiciones establecidas por el Decreto número 806 de 1998 o el que lo sustituya, modifique o adicione, quien podrá recobrar al FOSFEC, a través de la Caja de Compensación Familiar que haya atendido al trabajador suspendido, las sumas que correspondan a las cotizaciones, sobre un (1) salario mínimo mensual legal vigente durante el periodo de protección que corresponda.
 
 (Decreto 1508 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.5 — Servicios sociales de las Cajas de Compensación Familiar para trabajadores suspendidos
 
@@ -10164,19 +8944,13 @@ FINANCIACIÓN DE PRÁCTICA LABORAL, JUDICATURA Y RELACIÓN DOCENCIA DE SERVICIO 
 
 Sección adicionada por el Decreto 1376 de 2016
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.1 — Objeto de la Sección
 
 La presente Sección tiene por objeto establecer las reglas que deben seguirse para efectos de financiar prácticas laborales, judicatura y relación docencia de servicio en el área de la salud con cargo al Fondo de Solidaridad de Fomento al Empleo y Protección al Cesante - FOSFEC, administrado por las Cajas de Compensación Familiar, en el marco de lo previsto en el parágrafo 3 del artículo 13 de la Ley 1780 de 2016.
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.2 — Prácticas laborales en el marco del Mecanismo de Protección al Cesante
 
 A través del Mecanismo de Protección al Cesante y con cargo al FOSFEC, podrán financiarse la práctica laboral, la judicatura y la relación docencia de servicio en el área de la salud, como herramientas para que los jóvenes adquieran experiencia laboral relacionada con su campo de estudio.
-
-ARTÍCULO
 
 ## art:2.2.6.1.7.3 — 7.3
 
@@ -10190,8 +8964,6 @@ PARÁGRAFO 1. El Ministerio del Trabajo definirá mediante resolución debidamen
 
 PARÁGRAFO 2. En los eventos y condiciones que determine el Ministerio del Trabajo, las Cajas de Compensación Familiar, como administradoras del FOSFEC, realizarán el pago de los aportes a los subsistemas de seguridad social de los practicantes, judicantes y estudiantes en relación docencia de servicio en el área de la salud, en el marco de lo dispuesto en el parágrafo 3 del artículo 13 de la Ley 1780 de 2016.
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.4 — Recursos destinados al desarrollo de programas para promover escenarios de práctica laboral en entidades públicas
 
 Los programas a que se refiere el artículo 2.2.6.1.7.3. del presente Decreto, se financiarán con cargo a la subcuenta de servicios de gestión y colocación para la inserción laboral del FOSFEC de que trata el artículo 2.2.6.1.3.12. de este Decreto. Lo anterior, sin perjuicio de las otras destinaciones de los recursos que integran dicho Fondo, en los términos de la Ley 1636 de 2013.
@@ -10200,21 +8972,15 @@ PARÁGRAFO 1. Al momento de definir los programas a que refiere el artículo 2.2
 
 PARÁGRAFO 2. Los recursos destinados a financiar los programas a que refiere el artículo 2.2.6.1.7.3. del presente Decreto, deberán tener un manejo contable separado del resto de los recursos de la subcuenta de servicios de gestión y colocación para la inserción laboral del FOSFEC. La Superintendencia de Subsidio Familiar deberá generar un rubro dentro de esta subcuenta con el fin de registrar los recursos que se destinarán para financiar los programas a que refiere esta Sección.
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.5 — Manejo de los recursos
 
 Los recursos destinados a financiar los programas a que refiere el artículo 2.2.6.1.7.3 de este Decreto seguirán los mismos procesos relacionados con su disposición y administración que el resto de recursos de la subcuenta de servicios de gestión y colocación para la inserción laboral del FOSFEC en cuanto a su ejecución, manejo de saldos y los procesos de compensación entre Cajas de Compensación Familiar.
-
-ARTÍCULO
 
 ## art:2.2.6.1.7.6 — Regulación aplicable a la judicatura y relación docencia de servicio en el área de la salud
 
 Los programas a que refiere el artículo 2.2.6.1.7.3. del presente Decreto beneficiarán a los practicantes, judicantes y estudiantes en relación docencia de servicio en el área de la salud definidos en el parágrafo 3 del artículo 13 de la Ley 1780 de 2016, sin embargo la práctica de judicatura del programa de derecho y las prácticas de la relación docencia de servicio en el área de la salud continuarán rigiéndose en sus generalidades según lo establece la normatividad especial vigente
 
 (Decreto 1376 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.7.7 — 7.7
 
@@ -10232,15 +8998,11 @@ PARÁFRAFO 1. La afiliación al Subsistema General de Riesgos Laborales, se real
 
 (Decreto 1669 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.8 — Inexistencia de relación laboral
 
 En los términos establecidos por el inciso primero del artículo 15 la Ley 1780 de 2016, las afiliaciones y cotizaciones a los Subsistemas de Seguridad Social en Salud, Pensiones y Riesgos Laborales que realicen las Cajas de Compensación Familiar como administradoras del Fondo de Solidaridad de Fomento al Empleo y Protección al Cesante "FOSFEC", en el marco de la presente sección, no generan relación laboral con el estudiante.
 
 (Decreto 1669 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.7.9 — Pago y monto de la cotización a los Subsistemas de Seguridad Social
 
@@ -10254,15 +9016,11 @@ PARÁGRAFO 2. El pago de cotización se realizará mes anticipado para el' subsi
 
 (Decreto 1669 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.7.10 — Prevención en la entidad pública
 
 El Sistema de Gestión de Seguridad y Salud en el Trabajo de la entidad pública donde se realice la práctica laboral o la judicatura, comprenderá a los estudiantes señalados en el artículo 2.2.6.1.7.7 del presente decreto; por lo tanto, el estudiante y la entidad pública se asimilan, a la condición de trabajador dependiente y empleador respectivamente, para la realización, con especial énfasis, en las actividades de prevención, promoción y seguridad y salud en el trabajo.
 
 (Decreto 1669 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.7.11 — Prestaciones económicas y asistenciales
 
@@ -10278,8 +9036,6 @@ PROMOCIÓN DEL EMPRENDIMIENTO Y DESARROLLO EMPRESARIAL EN EL MECANISMO DE PROTEC
 
 Sección Adicionada por el Decreto 454 de 2017, art. 3
 
-ARTÍCULO
-
 ## art:2.2.6.1.8.1 — Objeto del componente de Promoción del Emprendimiento y Desarrollo Empresarial
 
 De conformidad con el artículo 10 de la Ley 1780 de 2016, la promoción del emprendimiento y desarrollo empresarial, como componente del Mecanismo de Protección al Cesante, es la herramienta para impulsar y financiar emprendimientos, iniciativas de autoempleo, innovación social para el emprendimiento a micro y pequeñas empresas que requieran apoyo para su desarrollo.
@@ -10290,8 +9046,6 @@ A través del componente de Promoción del Emprendimiento y Desarrollo Empresari
 
 (Decreto 454 de 2017, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.8.2 — Beneficiarios del componente de Promoción del emprendimiento y empresarial
 
 Podrán ser beneficiarias de este componente todas las personas que deseen crear emprendimientos5 iniciativas de autoempleo, de innovación social para el emprendimiento o fortalecer micro y pequeñas empresas que requieran apoyo para su desarrollo. Para acceder deberán inscribirse ante las Cajas de Compensación Familiar y manifestar su interés de realizar un emprendimiento, tener una iniciativa de autoempleo o de innovación social o para el fortalecimiento de una micro o pequeña empresa.
@@ -10301,8 +9055,6 @@ Para el otorgamiento de recursos destinados a financiar emprendimientos, iniciat
 (Subrogrado por el Art. 2 del Decreto 689 de 2021)
 
 (Decreto 454 de 2017, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.8.3 — Actividades de promoción del emprendimiento y desarrollo empresarial
 
@@ -10330,8 +9082,6 @@ PARÁGRAFO 2. Las Cajas de Compensación Familiar podrán ejecutar las actividad
 
 (Decreto 454 de 2017, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.8.4 — Financiación del componente
 
 Los programas y proyectos enfocados a impulsar y financiar emprendimientos, iniciativas de autoempleo e innovación social para el emprendimiento o fortalecer micro y pequeñas empresas que requieran apoyo para su desarrollo, serán financiados con cargo a la subcuenta de promoción del emprendimiento y desarrollo empresarial.
@@ -10339,8 +9089,6 @@ Los programas y proyectos enfocados a impulsar y financiar emprendimientos, inic
 (Subrogrado por el Art. 2 del Decreto 689 de 2021)
 
 (Decreto 454 de 2017, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.8.5 — Instrumentos de financiación para emprendimientos
 
@@ -10362,8 +9110,6 @@ PARÁGRAFO 3. El Ministerio del Trabajo definirá las líneas de inversión sobr
 
 (Decreto 454 de 2017, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.8.6 — Informes y reportes
 
 Las Cajas de Compensación Familiar reportarán al Ministerio del Trabajo y a la Superintendencia de Subsidio Familiar la relación de información sobre los beneficiarios del componente de promoción del emprendimiento y desarrollo empresarial, atendiendo a los lineamientos de seguimiento y monitoreo que para el efecto expida el Ministerio de Trabajo.
@@ -10380,8 +9126,6 @@ FINANCIACIÓN Y DESARROLLO DE PROGRAMAS Y PROYECTOS CON CARGO AL FONDO DE SOLIDA
 
 Sección Adicionada por el Decreto 454 de 2017, art. 4
 
-ARTÍCULO
-
 ## art:2.2.6.1.9.1 — Objeto de la Sección
 
 La presente sección tiene por objeto establecer las reglas que deben seguirse para efectos de financiar y desarrollar programas y proyectos que promuevan el empleo y el emprendimiento en zonas rurales y de posconflicto con cargo al Fondo de Solidaridad de Fomento al Empleo y Protección al Cesante - FOSFEC, en el marco de lo previsto en el parágrafo 2 del artículo 9 de la Ley 1780 de 2016.
@@ -10389,8 +9133,6 @@ La presente sección tiene por objeto establecer las reglas que deben seguirse p
 (Derogado por el Art. 3 del Decreto 689 de 2021)
 
 (Decreto 454 de 2017, art.
-
-ARTÍCULO
 
 ## art:2.2.6.1.9.2 — 9.2
 
@@ -10420,8 +9162,6 @@ PARÁGRAFO 2. Además de lo anterior, las Cajas de Compensación Familiar podrá
 
 (Decreto 454 de 2017, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.9.3 — Recursos destinados al desarrollo de programas y proyectos en zonas rurales y de posconflicto
 
 Los recursos destinados a financiar programas, y proyectos en zonas rurales y de posconflicto serán apropiados en cada una de las subcuentas del Fondo de Solidaridad de Fomento al Empleo y Protección al Cesante FOSFEC definidas en el artículo 2.2.6.1.3.12. del Decreto 1072 de 2015, Decreto Único Reglamentario del Sector Trabajo, según corresponda y de acuerdo al tipo de iniciativa a financiar.
@@ -10440,8 +9180,6 @@ PARÁGRAFO 4. Para los efectos previstos en el parágrafo 2 del artículo 9 de l
 
 (Decreto 454 de 2017, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.9.4 — Alianzas para impulsar el desarrollo económico y social en zonas rurales y de posconflicto
 
 En los términos del artículo 61 de la Ley 21 de 1982 y de los numerales 1 y 4 del artículo 16 de la Ley 789 de 2002, las Cajas de Compensación Familiar podrán ejecutar conjuntamente o a través de entidades especializadas públicas o privadas, conforme las disposiciones que regulen la materia, los programas y proyectos a que refiere esta sección.
@@ -10449,8 +9187,6 @@ En los términos del artículo 61 de la Ley 21 de 1982 y de los numerales 1 y 4 
 (Derogado por el Art. 3 del Decreto 689 de 2021)
 
 (Decreto 454 de 2017, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.6.1.9.5 — 9.5
 
@@ -10670,8 +9406,6 @@ SECCIÓN 1
 
 SISTEMA DE CALIDAD DE LA FORMACIÓN PARA EL TRABAJO - SCAFT
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.1 — Definiciones
 
 Para efectos de la aplicación e interpretación de la presente sección se utilizarán las siguientes definiciones:
@@ -10696,8 +9430,6 @@ Para efectos de la aplicación e interpretación de la presente sección se util
 
 (Decreto 2020 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.2 — Sistema de Calidad de la Formación para el Trabajo - SCAFT
 
 Es el conjunto de mecanismos de promoción y aseguramiento de la calidad, orientados a certificar que la oferta de formación para el trabajo cuenta con los medios y la capacidad para ejecutar procesos formativos que respondan a los requerimientos del sector productivo y reúnen las condiciones para producir buenos resultados. Está conformado por las siguientes instancias:
@@ -10718,15 +9450,11 @@ PARÁGRAFO 2: El Servicio Nacional de Aprendizaje SENA, mantendrá actualizado u
 
 (Decreto 2020 de 2006, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.3 — Características de la certificación de calidad de la formación para el trabajo
 
 La certificación a que se refiere la presente sección está dirigida a los programas y las instituciones oferentes de formación para el trabajo, con el objeto de obtener un reconocimiento público de su calidad. Es de carácter voluntario y está a cargo de organismos de tercera parte, especializados y reconocidos públicamente que actúan de acuerdo con criterios estándares, procesos e instrumentos establecidos específicamente por la CCAFT y las disposiciones de este capítulo. Es de carácter temporal y debe ser renovada periódicamente, conforme con los reglamentos que expida este organismo, sin perjuicio de las autorizaciones y certificaciones requeridos por las disposiciones vigentes.
 
 (Decreto 2020 de 2006, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.4 — Programas e instituciones objeto de certificación
 
@@ -10744,23 +9472,17 @@ Serán objeto de certificación de calidad de la formación para el trabajo:
 
 (Decreto 2020 de 2006, art. 4, modificado por el artículo 1 del Decreto 3756 de 2009)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.5 — Condiciones para la certificación de calidad
 
 Para acceder a la certificación de calidad, los programas e instituciones de formación para el trabajo, diferentes al SENA, deberán someterse a un proceso de evaluación en el cual un organismo de tercera parte verifica y certifica el cumplimiento de las normas técnicas de calidad, ya sea de programas o de instituciones según el caso, sin perjuicio de las autorizaciones y certificaciones requeridas por las disposiciones vigentes. Los programas técnicos profesionales y tecnológicos de educación superior que sean de formación para el trabajo se entienden certificados una vez cuenten con el registro calificado otorgado por el Ministerio de Educación Nacional.
 
 (Decreto 2020 de 2006, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.6 — De los organismos de tercera parte
 
 Son exclusivamente los organismos acreditados responsables de la certificación de calidad, tanto de los programas como de las instituciones de formación para el trabajo.
 
 (Decreto 2020 de 2006, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.7 — Funciones de los organismos de tercera parte
 
@@ -10776,15 +9498,11 @@ Los Organismos de Tercera Parte tendrán las siguientes funciones:
 
 (Decreto 2020 de 2006, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.8 — Certificación de calidad de formación para el trabajo
 
 Las instituciones objeto de certificación de calidad de la formación para el trabajo que al 30 de septiembre de 2009 cuenten con la certificación de calidad bajo la norma "Sistemas de gestión de la calidad. Requisitos". ISO 9001:2000 otorgado por un organismo de tercera parte acreditado por una entidad acreditadora reconocida por el Gobierno Nacional, no requerirán certificar a la institución en la norma NTC 5555 "Sistema de Gestión de Calidad para Instituciones de Formación para el Trabajo. Requisitos".
 
 (Decreto 3 756 de 2009, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.9 — Equivalencia de certificación para obtener los beneficios del contrato de aprendizaje
 
@@ -10794,8 +9512,6 @@ Para la obtención del beneficio la institución debe encontrarse a paz y salvo 
 
 (Decreto 3756 de 2009, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.10 — Equivalencias de los modelos de gestión de Calidad
 
 Los modelos de reconocimiento de gestión de calidad "European Foundation for Quality Management (EFQM) y los esquemas de acreditación de tipo de la "Comisión on lnternational and TransRegional Accreditation" (CITA) y asociaciones afiliadas o de la "New England Association of Schools and Colleges" (NEASC), entre otros, serán equivalentes a la certificación de calidad de la formación para el trabajo establecida en este capítulo.
@@ -10804,15 +9520,11 @@ Para que el modelo de reconocimiento de gestión de calidad sea reconocido como 
 
 (Decreto 3756 de 2009, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.11 — De la contratación del SENA
 
 La contratación que realice el SENA con programas e instituciones externas para capacitación de formación para el trabajo deberá realizarse con las instituciones y programas certificados en el marco del SCAFT.
 
 (Decreto 2020 de 2006, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.12 — De la contratación con el Estado
 
@@ -10820,15 +9532,11 @@ Las entidades estatales en procesos de contratación de servicios de formación 
 
 (Decreto 2020 de 2006, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.13 — Del uso de la certificación de calidad de la formación para el trabajo
 
 Los programas e instituciones de formación para el trabajo, certificados en el marco del SCAFT podrán utilizar esta certificación con fines publicitarios, indicando con claridad el alcance y vigencia de la misma.
 
 (Decreto 2020 de 2006, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.14 — De la participación en programas de promoción y aseguramiento
 
@@ -10840,23 +9548,17 @@ SECCIÓN 2
 
 NORMAS SOBRE SISTEMA DE FORMACIÓN PROFESIONAL INTEGRAL QUE IMPARTE EL SERVICIO NACIONAL DE APRENDIZAJE - SENA
 
-ARTÍCULO
-
 ## art:2.2.6.2.2.1 — Autonomía de la Educación no formal
 
 Los niveles de formación, titulación, acreditación, homologación, validación, certificación y reconocimiento del Servicio Nacional de Aprendizaje, SENA, dentro de los campos de la Formación Profesional Integral, que se enmarcan en la educación no formal, serán autónomos, sin sujeción a registros o convalidaciones de otras autoridades o instituciones educativas y sólo requieren para su expedición y validez, que estén incluidos en el estatuto de la Formación Profesional Integral que adopte el Consejo Directivo Nacional del Organismo.
 
 (Decreto 359 de 2000, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.2.2 — Ingreso a la Educación Superior
 
 Los egresados del Servicio Nacional de Aprendizaje, SENA, en los campos a que se refiere el artículo 2.2.6.2.2.1. del presente Decreto podrán ingresar a los programas de la educación superior, directamente, acorde con la autonomía de las instituciones de educación superior o a través de acuerdos o alianzas suscritos con el SENA, sin perjuicio de las disposiciones de la Ley 30 de 1992 y demás normas legales aplicables, que consagren requisitos mínimos de ingreso a la educación superior.
 
 (Decreto 359 de 2000, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.2.2.3 — Creación de programas para el ingreso a la Educación Superior
 
@@ -10867,8 +9569,6 @@ En todo caso para efectos de las funciones de inspección, control y vigilancia 
 PARÁGRAFO . Los programas que al 6 de marzo de 2000 hubiesen sido notificados al Icfes sin que todavía se encuentren registrados, se sujetarán para su ofrecimiento y desarrollo a lo dispuesto en este capítulo. Los programas que se notificaron y fueron objeto de observación o negación de registro debidamente comunicado al SENA, deberán ajustarse y continuar su trámite con sujeción a las disposiciones legales aplicables antes del 6 de marzo de 2000.
 
 (Decreto 359 de 2000, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.2.2.4 — Centros de Formación Profesional
 
@@ -10882,15 +9582,11 @@ SECCIÓN 3
 
 REENTRENAMIENTO LABORAL Y LA FORMACIÓN A LO LARGO DE LA VIDA
 
-ARTÍCULO
-
 ## art:2.2.6.2.3.1 — Objeto
 
 La presente sección tiene por objeto la creación del Programa de Reentrenamiento Laboral y Formación a lo largo de la Vida de los trabajadores y demás personal de la cadena productiva, a cargo del SENA y fijar las condiciones generales para su ejecución y funcionamiento.
 
 (Decreto 681 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3.2 — Programa de Formación a lo largo de la Vida
 
@@ -10900,8 +9596,6 @@ PARÁGRAFO . El Ministerio del Trabajo y el SENA reglamentarán, de acuerdo con 
 
 (Decreto 681 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.6.2.3.3 — Ejecución
 
 El Ministerio del Trabajo, cuando lo considere necesario, autorizará al SENA para la celebración de Convenios de Asociación con entidades sin ánimo de lucro y de reconocida idoneidad para ejecutar el Programa de Reentrenamiento Laboral y Formación a lo largo de la Vida, relacionado con el objeto de la presente sección.
@@ -10909,8 +9603,6 @@ El Ministerio del Trabajo, cuando lo considere necesario, autorizará al SENA pa
 PARÁGRAFO . En los convenios de asociación a los que se refiere el presente artículo, se determinará con precisión su objeto, término de duración, obligaciones de las partes, aportes, coordinación y todos aquellos aspectos que se consideren pertinentes.
 
 (Decreto 681 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3.4 — Fuente de financiación
 
@@ -10921,8 +9613,6 @@ PARÁGRAFO . Las Entidades sin ánimo de lucro participantes en estos convenios,
 Las entidades a las que hace referencia el presente parágrafo, no podrán participar simultáneamente en los convenios que tengan origen en los recursos a los que se aplican, por cumplimiento de lo establecido en el artículo 16 de la Ley 344 de 1996, modificado por el artículo 32 de la Ley 1607 de 2012.
 
 (Decreto 681 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3.5 — Sistemas de administración
 
@@ -10936,13 +9626,9 @@ Sección, adicionada por el Art. 1 del Decreto 154 de 2021
 
 UNIDADES VOCACIONALES DE APRENDIZA"IE EN EMPRESA - UVAE
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.1 — Objeto
 
 La presente sección tiene por objeto reglamentar la capacitación para la inserción o reinserción laboral de que tratan los artículos 41 y 42 de la Ley 1636 de 2013, que podrá ser impartida por el empleador a través de las Unidades Vocacionales de Aprendizaje en Empresa - UVAE, de manera gratuita, a sus trabajadores, sus aprendices con contrato de aprendizaje y sus practicantes, en las actividades que desarrollan dentro de la empresa, mejorando las competencias de las personas y la productividad laboral.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.2 — Ámbito de aplicación
 
@@ -10950,13 +9636,9 @@ La presente sección aplica a las empresas que impartan capacitación laboral pa
 
 PARÁGRAFO . Las Unidades Vocacionales de Aprendizaje en Empresa - UVAE podrán crearse por grupos de empresas que, mediante acuerdos de cooperación y apoyo, realicen formación del talento humano del sector económico al cual pertenecen. Estas UVAE estarán sujetas a las condiciones establecidas en la presente sección, especialmente a las contempladas en los artículos 2.2.6.2.4.14. a 2.2.6.2.4.18. del presente decreto.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.3 — Unidad Vocacional de Aprendizaje en Empresa - UVAE
 
 La Unidad Vocacional de Aprendizaje en Empresa - UVAE, es un mecanismo de capacitación, comprendido por espacios, bienes y servicios implementados en una empresa que permiten el desarrollo y fortalecimiento de capacidades para el desempeño laboral, mediante procesos internos de formación.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.4 — Definiciones
 
@@ -10986,8 +9668,6 @@ Para efectos de la aplicación e interpretación de la presente sección se util
 
 12. Plan de capacitación: Entendido como la estructura del programa de capacitación, que debe incluir las metas, los recursos involucrados, los métodos pedagógicos y las herramientas de evaluación.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.5 — 4.5
 
 Capacitación impartida por las empresas mediante las Unidades Vocacionales de Aprendizaje en Empresa - UVAE: La capacitación impartida en la Unidad Vocacional de Aprendizaje en Empresa - UVAE se denominará capacitación laboral. La oferta de capacitación que se ofrezca en las Unidades Vocacionales de Aprendizaje en Empresa - UVAE debe orientarse bajo los siguientes principios:
@@ -11000,13 +9680,9 @@ Capacitación impartida por las empresas mediante las Unidades Vocacionales de A
 
 4. Oportunidad: La capacitación ofrecida a través de la Unidad Vocacional de Aprendizaje en Empresa - UVAE deberá atender oportunamente una necesidad concreta del ciclo productivo, destinado a mejorar los procesos y procedimientos de la empresa, para generar mayor productividad laboral.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.6 — Beneficiarios de la capacitación laboral
 
 Podrán recibir capacitación a través de las Unidades Vocacionales de Aprendizaje en Empresa - UVAE los trabajadores que presten sus servicios a la empresa responsable de la respectiva Unidad Vocacional de Aprendizaje en Empresa - UVAE, en especial aquellos en proceso de inducción; así mismo, podrán ser beneficiarios los aprendices con contrato de aprendizaje o practicantes, en desarrollo de su función productiva.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.7 — Procesos de capacitación laboral
 
@@ -11020,13 +9696,9 @@ PARÁGRAFO 2. Los procesos de capacitación laboral obedecerán a lineamientos d
 
 PARÁGRAFO 3. Los procesos de capacitación laboral impartidos por las Unidades Vocacionales de Aprendizaje en Empresa - UVAE desarrollarán y certificarán competencias que hacen parte de una cualificación en el Subsistema de Formación para el Trabajo en el Marco del Sistema Nacional de Cualificaciones.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.8 — Duración máxima de la capacitación laboral
 
 Los procesos de capacitación impartidos por las Unidades Vocacionales de Aprendizaje en Empresa - UVAE no podrán superar las ciento cincuenta y nueve (159) horas, en el marco de la formación complementaria. La duración total de la capacitación dependerá de los perfiles ocupacionales y las condiciones particulares de cada empresa o actividad económica, de tal forma que permita contar con mecanismos flexibles, innovadores y adaptables.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.9 — Diseño de los procesos de capacitación laboral
 
@@ -11042,8 +9714,6 @@ Los procesos de capacitación que impartan las Unidades Vocacionales de Aprendiz
 
 7. Plan de seguimiento.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.10 — Finalidad de los procesos de capacitación laboral
 
 Además de lo dispuesto en el artículo 2.2.6.2.4.7. del presente Decreto, los procesos de capacitación impartidos por las Unidades Vocacionales de Aprendizaje en Empresa - UVAE deben:
@@ -11052,15 +9722,13 @@ Además de lo dispuesto en el artículo 2.2.6.2.4.7. del presente Decreto, los p
 
 2. Satisfacer las necesidades de las empresas y del sector productivo teniendo en cuenta los perfiles ocupacionales definidos por las empresas.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.11 — Evaluación de la capacitación laboral
 
 Las empresas que cuentan con Unidad Vocacional de Aprendizaje en Empresa - UVAE deberán diseñar e implementar instrumentos que permitan medir el grado en que las personas en capacitación logran alcanzar los resultados previstos. De la evaluación mantendrán evidencia documental física o digital, disponible para la expedición de copias y para el requerimiento de las autoridades administrativas.
 
 PARÁGRAFO . Las empresas que cuentan con Unidad Vocacional de Aprendizaje en Empresa - UVAE planificarán los procesos de capacitación que impartan, de modo que logren asegurar la transferencia del conocimiento mediante la adopción de mecanismos de seguimiento y evaluaciones permanentes debidamente documentadas. Así mismo verificarán los resultados de aprendizaje y su aplicación específica en la actividad económica.
 
-## art:2.2.6.2.4 — 12. Perfil de los entrenadores
+## art:2.2.6.2.4.12 — Perfil de los entrenadores
 
 Para impartir los procesos de capacitación laboral, las Unidades Vocacionales de Aprendizaje en Empresa - UVAE deberán contar con personal idóneo de acuerdo con la actividad económica que desarrolla la empresa, para tal efecto deberán acreditar título o certificación del entrenador en el tema respectivo.
 
@@ -11070,19 +9738,37 @@ La capacitación impartida a través de las Unidades Vocacionales de Aprendizaje
 
 (Modificado por el Art. 1 del Decreto 048 de 2022)
 
+## art:2.2.6.2.4.14 — Registro de las Unidades Vocacionales de Aprendizaje en Empresa - UVAE
+
+Todas las empresas que implementen el mecanismo de capacitación de Unidad Vocacional de Aprendizaje en Empresa - UVAE, deberán registrarla en el aplicativo virtual dispuesto para tal fin por el Ministerio del Trabajo.
+
+Para el registro de la Unidad Vocacional de Aprendizaje en Empresa - UVAE, la empresa deberá adjuntar los siguientes documentos:
+
+1. Solicitud suscrita por el representante legal.
+
+2. Copia del certificado de existencia y representación expedido por la Cámara de Comercio respectiva, con vigencia máxima de tres (3) meses.
+
+3. Documento que describa el ambiente de aprendizaje (incluyendo estructura física especial, si se requiere).
+
+4. Documento con el diseño de los procesos, de acuerdo con lo dispuesto en los artículos 2.2.6.2.4.7., 2.2.6.2.4.9. y 2.2.6.2.4.10. del presente Decreto.
+
+5. Para cada entrenador, deberá aportarse el título o certificación emitida por el SENA, la Institución de Educación Superior o la Institución de Educación para el Trabajo y el Desarrollo Humano, según corresponda, que lo certifique en el tema respectivo.
+
+6. Convenio o acuerdo, en el caso que la capacitación laboral sea impartida a través de alianzas.
+
+## art:2.2.6.2.4.15 — Verificación documental
+
+La Dirección de Movilidad y Formación para el Trabajo del Ministerio del Trabajo o quien haga sus veces, dentro de los quince (15) días hábiles posteriores a la recepción de la solicitud de registro de la Unidad Vocacional de Aprendizaje en Empresa - UVAE, verificará el cumplimiento o no de las condiciones establecidas en la presente sección para la inscripción en el registro, con base en los documentos cargados en el aplicativo virtual referido en el artículo 2.2.6.2.4.14. del presente Decreto. Si es del caso, esta dependencia solicitará las adiciones o aclaraciones que considere necesarias para que proceda dicha inscripción.
+
 ## art:2.2.6.2.4.16 — Inscripción en el registro
 
 Verificado el cumplimiento de las condiciones exigidas, la Dirección de Movilidad y Formación para el Trabajo del Ministerio del Trabajo o quien haga sus veces, procederá a la inscripción de la Unidad Vocacional de Aprendizaje en Empresa - UVAE en el registro virtual de que trata el artículo 2.2.6.2.4.14. del presente Decreto y comunicará lo pertinente al representante legal de la empresa.
 
 PARÁGRAFO . La Unidad Vocacional de Aprendizaje en Empresa - UVAE podrá capacitar a sus trabajadores, sus aprendices con contrato de aprendizaje y sus practicantes y expedir las certificaciones correspondientes, únicamente a partir de la fecha en que el Ministerio del Trabajo, a través de la Dirección de Movilidad y Formación para el Trabajo o quien haga sus veces, la inscriba en el registro virtual.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.17 — Permanencia en el registro
 
 Para permanecer en el registro, las Unidades Vocacionales de Aprendizaje en Empresa - UVAE deberán mantener las condiciones jurídicas, operativas y técnicas señaladas en la presente sección y en las normas que las complementen, modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.18 — Seguimiento y evaluación
 
@@ -11091,8 +9777,6 @@ El Ministerio del Trabajo realizará revisiones a la información cargada al apl
 Transcurrido cualquiera de los términos anteriores sin que la empresa presente o implemente el plan de mejoramiento, según corresponda, su registro será suspendido en el aplicativo.
 
 Cuando la empresa certifique el cumplimiento de las condiciones consignadas en el plan de mejoramiento se habilitará nuevamente su registro.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.19 — Certificación de los procesos de capacitación laboral
 
@@ -11124,13 +9808,9 @@ Las Unidades Vocacionales de Aprendizaje en Empresa - UVAE registradas ante el M
 
 PARÁGRAFO . Las Unidades Vocacionales de Aprendizaje en Empresa - UVAE deberán cargar en el aplicativo virtual señalado en el artículo 2.2.6.2.4.14. de este Decreto, los listados de sus trabajadores, sus aprendices con contrato de aprendizaje y sus practicantes que cursaron y aprobaron el proceso de capacitación, dentro de los cinco (5) días hábiles siguientes a la terminación del curso, para que estos certificados puedan ser consultados a través del mencionado aplicativo virtual.
 
-ARTÍCULO
-
 ## art:2.2.6.2.4.20 — Divulgación
 
 El Ministerio del Trabajo publicará periódicamente en su página web las Unidades Vocacionales de Aprendizaje en Empresa - UVAE, procesos y personas certificadas que se encuentren registradas en el aplicativo.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.21 — Inspección, vigilancia y control
 
@@ -11142,15 +9822,11 @@ Sección, Adicionada por el Art. 1 del Decreto 616 de 2021
 
 EQUIVALENCIA DE EXPERIENCIA PROFESIONAL PREVIA
 
-ARTÍCULO
-
 ## art:2.2.6.2.5.1 — Objeto
 
 La presente sección tiene por objeto reglamentar la equivalencia de experiencia profesional previa de estudiantes a la que se refiere el artículo 2 de la Ley 2039 de 2020, para que sea acreditable y válida en sus procesos de inserción laboral en el sector privado.
 
 (Adicionado por el Art. 1 del Decreto 616 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.5.2 — Ámbito de aplicación
 
@@ -11163,8 +9839,6 @@ PARÁGRAFO 2. En interpretación sistemática del artículo 229 del Decreto Ley 
 PARÁGRAFO 3. Para efectos de la presente sección y de conformidad con lo contemplado por el inciso cuarto del artículo 194 de la Ley 1955 de 2019 y el artículo 15 de la Ley 1780 de 2016, entiéndase como práctica laboral todas aquellas actividades formativas desarrolladas por un estudiantes de educación superior de pregrado y posgrado, en sus niveles técnico profesional, tecnológico y universitario; estudiantes de educación para el trabajo y desarrollo humano; estudiantes de formación profesional integral del Servicio Nacional de Aprendizaje - SENA; estudiantes de escuelas normales superiores; o estudiantes de la oferta de formación por competencias, en el cual aplica y desarrolla actitudes, habilidades y competencias necesarias para desempeñarse en el entorno laboral sobre los asuntos relacionados con el programa académico o plan de estudios que cursa y que sirve como opción para culminar el proceso educativo y obtener un título que Jo acreditará para el desempeño laboral. De esta manera, en el concepto de práctica laboral se encuentran incluidas las pasantías y las demás alternativas de etapa productiva de la formación profesional integral del SENA y la educación para el trabajo y desarrollo humano, siempre y cuando se trate de temas relacionados directamente con el programa formativo cursado.
 
 (Adicionado por el Art. 1 del Decreto 616 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.5.3 — Requisitos para la equivalencia de experiencia profesional previa
 
@@ -11179,8 +9853,6 @@ Para solicitar la equivalencia de experiencia profesional previa, se debe cumpli
 PARÁGRAFO . El ejercicio de las profesiones seguirá siendo regido por las disposiciones vigentes sobre la materia y la equivalencia de experiencia profesional previa no habilitará al titular de esta para ejercer la profesión respectiva.
 
 (Adicionado por el Art. 1 del Decreto 616 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.5.4 — 5.4
 
@@ -11198,8 +9870,6 @@ PARÁGRAFO 2. No se requiere agotar el procedimiento señalado en el literal "a"
 
 (Adicionado por el Art. 1 del Decreto 616 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.2.5.5 — Procedimiento de equivalencia de experiencia profesional previa en grupos de investigación
 
 En el caso de los grupos de investigación, la autoridad competente para expedir la respectiva certificación será el Ministerio de Ciencia, Tecnología e Innovación al igual que las entidades públicas y privadas parte del Sistema Nacional de Ciencia, Tecnología e Innovación, SNCTel. En el caso de la investigación aplicada de la formación profesional integral del SENA, la certificación será emitida por esta institución.
@@ -11208,15 +9878,11 @@ PARÁGRAFO 1. Para emitir dicha certificación, se deberá verificar que la inve
 
 (Adicionado por el Art. 1 del Decreto 616 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.2.5.6 — Porcentaje de equivalencia de experiencia profesional previa
 
 De conformidad con el inciso tercero del artículo 2 de la Ley 2039 de 2020, el valor asignado a la experiencia previa será menor a aquella experiencia posterior a la obtención del respectivo título. Por lo tanto, los certificados de equivalencia de experiencia profesional previa reconocerán el ochenta por ciento (80%) de la intensidad horaria dedicada a la actividad reconocida como experiencia profesional válida.
 
 (Adicionado por el Art. 1 del Decreto 616 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.5.7 — Obligación de reconocimiento de la equivalencia de experiencia profesional previa
 
@@ -11230,15 +9896,11 @@ Sección, Adicionada por el Art. 1 del Decreto 654 de 2021
 
 CLASIFICACIÓN ÚNICA DE OCUPACIONES PARA COLOMBIA - CUOC
 
-ARTÍCULO
-
 ## art:2.2.6.2.6.1 — Objeto
 
 Adáptese la Clasificación Única de Ocupaciones para Colombia - CUOC, como referente para la identificación y uso de ocupaciones del mercado laboral colombiano, a partir de la adaptación realizada por el DANE de la Clasificación Internacional Uniforme de Ocupaciones CIUO de la OIT vigente.
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.6.2 — Definiciones
 
@@ -11302,8 +9964,6 @@ Los usuarios podrán dar sugerencias que tengan sobre la clasificación de ocupa
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.2.6.3 — Funciones del Ministerio del Trabajo
 
 El Ministerio del Trabajo tendrá las siguientes funciones:
@@ -11319,8 +9979,6 @@ El Ministerio del Trabajo tendrá las siguientes funciones:
 5) Hacer seguimiento al uso e implementación de la Clasificación Única de Ocupaciones para Colombia - CUOC.
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.6.4 — Funciones del DANE
 
@@ -11344,8 +10002,6 @@ PARÁGRAFO . El Departamento Administrativo Nacional de Estadística - DANE a tr
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.2.6.5 — Funciones del SENA
 
 El Servicio Nacional de Aprendizaje - SENA tendrá las siguientes funciones:
@@ -11360,15 +10016,11 @@ El Servicio Nacional de Aprendizaje - SENA tendrá las siguientes funciones:
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.2.6.6 — Proveedores de información
 
 Son proveedores de información para el mantenimiento de la Clasificación Única de Ocupaciones para Colombia - CUOC: el Ministerio de Educación Nacional, el Ministerio del Trabajo, el Departamento Administrativo Nacional de Estadística - DANE, el Departamento Administrativo de la Función Pública - DAFP, la Unidad Administrativa Especial del Servicio Público de Empleo, el Servicio Nacional de Aprendizaje - SENA, y demás entidades públicas y privadas que reglamenten ocupaciones, generen o tengan acceso a información ocupacional.
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.6.7 — Usos de la Clasificación Única de Ocupaciones para Colombia - CUOC
 
@@ -11404,15 +10056,11 @@ PARÁGRAFO . En todo caso, la CUOC podrá ser utilizada para otros fines que res
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.2.6.8 — Mantenimiento
 
 El Departamento Administrativo Nacional de Estadística - DANE, realizará el mantenimiento periódico anual de la Clasificación Única de Ocupaciones para Colombia - CUOC, el índice de ocupaciones y los perfiles ocupacionales de acuerdo con la metodología que él mismo establezca y deberá socializarlo mediante acto administrativo a los usuarios. Los usuarios deberán emplear la Clasificación Única de Ocupaciones para Colombia - CUOC en la versión que se encuentre vigente y según el mantenimiento que se realice.
 
 (Adicionado por el Art. 1 del Decreto 654 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.2.6.9 — Periodo de implementación
 
@@ -12464,8 +11112,6 @@ PARÁGRAFO 1. Los elementos de seguridad industrial y vestuario se determinarán
 
 CAPITULO 4
 
-ARTÍCULO
-
 ## art:2.2.6.4.1 — Definición de Aprendices
 
 Para efectos del presente capítulo, entiéndase por aprendices, los alumnos de los programas de formación tituladas y los alumnos de los programas "Jóvenes Rurales" y "Jóvenes en Acción" cuya formación imparta directamente el Servicio Nacional de Aprendizaje, Sena.
@@ -12473,8 +11119,6 @@ Para efectos del presente capítulo, entiéndase por aprendices, los alumnos de 
 También se consideran aprendices los estudiantes universitarios que contemplen práctica empresarial en el desarrollo del pensum de su carrera profesional.
 
 (Decreto 934 de 2003, art. 3, modificado por el art. 1 del decreto 3930 de 2006)
-
-ARTÍCULO
 
 ## art:2.2.6.4.2 — Criterios para la financiación de proyectos o iniciativas empresariales
 
@@ -12494,15 +11138,11 @@ PARÁGRAFO . El Servicio Nacional de Aprendizaje, Sena, deberá elaborar el Manu
 
 (Decreto 934 de 2003, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.6.4.3 — Órgano de decisión de financiación
 
 La decisión de financiación de los proyectos o iniciativas empresariales será adoptada por el Consejo Directivo del Servicio Nacional de Aprendizaje, Sena, en su calidad de Consejo de Administración del Fondo.
 
 (Decreto 934 de 2003, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.6.4.4 — Recursos del Fondo Emprender - FE
 
@@ -12528,8 +11168,6 @@ Los recursos del Fondo Emprender - FE estarán constituidos por:
 
 (Decreto 934 de 2003, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.6.4.5 — Giro de los recursos provenientes de la Cuota de Monetización
 
 El Servicio Nacional de Aprendizaje, Sena, definirá los mecanismos de recaudo de la cuota de monetización y establecerá el giro directo del ochenta por ciento (80%) de la respectiva cuota, a la cuenta especial del Fondo Emprender - FE.
@@ -12538,23 +11176,17 @@ PARÁGRAFO . Hasta tanto el Servicio Nacional de Aprendizaje, Sena, establezca l
 
 (Decreto 934 de 2003, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.6.4.6 — Sistema de manejo de los recursos
 
 De acuerdo con lo dispuesto en la ley y las directrices que imparta el Consejo de Administración del Fondo, el Director General del Servicio Nacional de Aprendizaje, Sena, podrá contratar total o parcialmente el manejo de los recursos del Fondo, mediante encargo fiduciario, fondos fiduciarios, contratos de fiducia, contratos de administración de recursos y de proyectos, de mandato y los demás negocios jurídicos que sean necesarios, para la correcta administración de los recursos del Fondo.
 
 (Decreto 934 de 2003, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.6.4.7 — Destinación de los recursos
 
 De conformidad con lo dispuesto en el inciso primero del artículo 40 de la Ley 789 de 2002, los recursos del Fondo Emprender - FE se dedicarán exclusivamente a financiar las iniciativas o proyectos empresariales presentados y desarrollados por los beneficiarios del mismo, de conformidad con la política del Ministerio del Trabajo en materia de empleo, prevención, mitigación y superación de los riesgos socioeconómicos.
 
 (Decreto 934 de 2003, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.6.4.8 — Régimen jurídico de los actos y contratos del Fondo Emprender - FE
 
@@ -12563,8 +11195,6 @@ De conformidad con lo previsto en el inciso segundo del artículo 40 de la Ley 7
 Los recursos del Fondo Emprender - FE no estarán sujetos a inversiones forzosas. Su portafolio será manejado atendiendo exclusivamente criterios de rentabilidad y seguridad de los recursos.
 
 (Decreto 934 de 2003, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.6.4.9 — Recurso humano
 
@@ -12576,23 +11206,17 @@ CAPÍTULO 5
 
 SERVICIO TEMPORAL
 
-ARTÍCULO
-
 ## art:2.2.6.5.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente capítulo se aplicarán en el territorio nacional, a todas las personas naturales o jurídicas involucradas en la actividad de servicio temporal.
 
 (Decreto 4369 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2 — Definición de Empresa de Servicios Temporales
 
 Empresa de Servicios Temporales "EST" es aquella que contrata la prestación de servicios con terceros beneficiarios para colaborar temporalmente en el desarrollo de sus actividades, mediante la labor desarrollada por personas naturales, contratadas directamente por la Empresa de Servicios Temporales, la cual tiene con respecto de estas el carácter de empleador.
 
 (Decreto 4369 de 2006, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.5.3 — Razón social
 
@@ -12602,8 +11226,6 @@ La Empresa de Servicios Temporales dispone de dos (2) meses contados a partir de
 
 (Decreto 4369 de 2006, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.5.4 — Trabajadores de planta y en misión
 
 Los trabajadores vinculados a las Empresas de Servicios Temporales son de dos (2) categorías: Trabajadores de planta y trabajadores en misión. Los trabajadores de planta son los que desarrollan su actividad en las dependencias propias de las Empresas de Servicios Temporales.
@@ -12612,8 +11234,6 @@ Trabajadores en misión son aquellos que la Empresa de Servicios Temporales env�
 
 (Decreto 4369 de 2006, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.5.5 — Derechos de los trabajadores en misión
 
 Los trabajadores en misión tendrán derecho a un salario ordinario equivalente al de los trabajadores de la empresa usuaria que desempeñen la misma actividad, aplicando para el efecto las escalas de antigüedad vigentes en la empresa. Igualmente, tendrán derecho a gozar de los beneficios que el usuario tenga establecidos para sus trabajadores en el lugar de trabajo, en materia de transporte, alimentación y recreación.
@@ -12621,8 +11241,6 @@ Los trabajadores en misión tendrán derecho a un salario ordinario equivalente 
 Se entiende por lugar de trabajo, el sitio donde el trabajador en misión desarrolla sus labores, junto con trabajadores propios de la empresa usuaria.
 
 (Decreto 4369 de 2006, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.6.5.6 — Casos en los cuales las empresas usuarias pueden contratar servicios con las Empresas de Servicios Temporales
 
@@ -12637,8 +11255,6 @@ Los usuarios de las Empresas de Servicios Temporales sólo podrán contratar con
 PARÁGRAFO . Si cumplido el plazo de seis (6) meses más la prórroga a que se refiere el presente artículo, la causa originaria del servicio específico objeto del contrato subsiste en la empresa usuaria, esta no podrá prorrogar el contrato ni celebrar uno nuevo con la misma o con diferente Empresa de Servicios Temporales, para la prestación de dicho servicio.
 
 (Decreto 4369 de 2006, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.6.5.7 — Trámite de autorización
 
@@ -12666,8 +11282,6 @@ Las Direcciones Territoriales del Ministerio del Trabajo mantendrán actualizada
 
 (Decreto 4369 de 2006, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.6.5.8 — Contratos entre la Empresa de Servicios Temporales y la empresa usuaria
 
 Los contratos que celebren la Empresa de Servicios Temporales y la usuaria deben suscribirse siempre por escrito y en ellos se hará constar que la Empresa de Servicios Temporales se sujetará a lo establecido en el Código Sustantivo de Trabajo para efecto del pago de salarios, prestaciones sociales y demás derechos de los trabajadores. Igualmente, deberá indicar el nombre de la compañía aseguradora, número de la póliza, vigencia y monto de la misma, con la cual se garantizan las obligaciones laborales de los trabajadores en misión.
@@ -12678,15 +11292,11 @@ Cuando se celebre un solo contrato, este regulará el marco de la relación, la 
 
 (Decreto 4369 de 2006, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.6.5.9 — Sucursales
 
 El funcionamiento de las sucursales de las Empresas de Servicios Temporales no requerirá autorización por parte del Ministerio del Trabajo. Para efectos de ejercer las acciones de inspección, vigilancia y control respecto de dichas sucursales, la Empresa de Servicios Temporales, dentro del mes siguiente a la inscripción de la sucursal en el registro mercantil, informará de este hecho a la Dirección Territorial del Ministerio del Trabajo que le otorgó autorización de funcionamiento, la que, a su vez, informará de este hecho a la Dirección Territorial del domicilio de la respectiva sucursal.
 
 (Modificado por el Art. 1 del Decreto 2280 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.6.5.10 — Prohibiciones
 
@@ -12694,23 +11304,17 @@ No podrán ejercer la actividad propia de las Empresas de Servicios Temporales, 
 
 (Decreto 4369 de 2006, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.6.5.11 — Constitución de póliza de garantía
 
 Las Empresas de Servicios Temporales están obligadas a constituir una póliza de garantía con una compañía de seguros legalmente establecida en Colombia, a favor de los trabajadores en misión, para asegurar el pago de sus salarios, prestaciones sociales e indemnizaciones, en caso de iliquidez de la Empresa de Servicios Temporales, la cual deberá depositarse en el Ministerio del Trabajo.
 
 (Decreto 4369 de 2006, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.6.5.12 — Afiliación de trabajadores al Sistema de Seguridad Social Integral
 
 Las Empresas de Servicios Temporales están obligadas a afiliar y a pagar los aportes parafiscales y los aportes a los Sistemas de Seguridad Social en Salud, Pensiones y Riesgos Laborales, de acuerdo con las disposiciones legales que regulan la materia.
 
 (Decreto 4369 de 2006, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.6.5.13 — Información sobre afiliación y pago de aportes al Sistema de Seguridad Social Integral de trabajadores en misión
 
@@ -12722,15 +11326,11 @@ La omisión de este deber hará solidariamente responsable a la usuaria en el pa
 
 (Decreto 4369 de 2006, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.6.5.14 — Seguridad y Salud en el Trabajo
 
 La Empresa de Servicios Temporales es responsable de la seguridad y salud en el trabajo de los trabajadores de planta y en misión, en los términos previstos en el Libro 2, Título 4, del presente Decreto.
 
 (Decreto 4369 de 2006, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.6.5.15 — Informes estadísticos
 
@@ -12738,15 +11338,11 @@ Los informes estadísticos a que se refiere el artículo 88 de la Ley 50 de 1990
 
 (Decreto 4369 de 2006, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.6.5.16 — Informe de reformas estatutarias
 
 Las Empresas de Servicios Temporales deberán comunicar las reformas estatutarias a la Dirección Territorial del Ministerio del Trabajo del domicilio principal, dentro de los treinta (30) días siguientes a su protocolización, anexando el certificado de existencia y representación legal expedido por la Cámara de Comercio.
 
 (Decreto 4369 de 2006, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.6.5.17 — Póliza de garantía
 
@@ -12788,8 +11384,6 @@ PARÁGRAFO 2. La póliza de garantía deberá constituirse por un año. Se entie
 
 (Decreto 4369 de 2006, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.6.5.18 — Efectividad de la póliza de garantía
 
 La póliza de garantía se hará efectiva a solicitud de los trabajadores en misión, cuando la Empresa de Servicios Temporales se encuentre en iliquidez la cual se presumirá, sin necesidad de estudios económicos, cuando ocurra uno o más de los siguientes eventos:
@@ -12809,8 +11403,6 @@ Cuando un grupo de trabajadores presente queja formal por presunta iliquidez de 
 Determinado el estado de iliquidez, sea por la ocurrencia de uno de los hechos descritos en el presente artículo o a través del estudio económico, el funcionario competente procederá por solicitud de los trabajadores en misión, a hacer efectiva la póliza de garantía, mediante acto administrativo que declara el siniestro y ordenará directamente a la compañía de seguros realizar el pago de salarios, prestaciones sociales e indemnizaciones, con base en las liquidaciones que para el efecto elabore el Inspector de Trabajo del lugar donde se prestó el servicio.
 
 (Decreto 4369 de 2006, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.6.5.19 — Funciones
 
@@ -12840,8 +11432,6 @@ Las Direcciones Territoriales del Ministerio del Trabajo tendrán las siguientes
 
 (Decreto 4369 de 2006, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.6.5.20 — Multas
 
 El Ministerio del Trabajo impondrá mediante acto administrativo contra el cual proceden los recursos de reposición y apelación, multas diarias sucesivas hasta de 2.631,30 UVT, por cada infracción mientras esta subsista, en los siguientes casos.'
@@ -12855,8 +11445,6 @@ Cuando se contraten servicios para el suministro de trabajadores en misión con 
 Cuando la Empresa de Servicios Temporales preste sus servicios con violación a las normas que regulan la actividad, siempre y cuando no originen una sanción superior, como la suspensión o cancelación de la autorización de funcionamiento.
 
 (Artículo MODIFICADO por el Art. 30 del Decreto 2642 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.6.5.21 — Suspensión de la autorización de funcionamiento
 
@@ -12879,8 +11467,6 @@ La Dirección Territorial competente del Ministerio del Trabajo sancionará con 
 8. Cuando venza el plazo establecido en el artículo 2.2.6.5.3. del presente Decreto para que la Empresa de Servicios Temporales cambie el nombre, sin que este se haya producido.
 
 (Decreto 4369 de 2006, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.6.5.22 — Cancelación de la autorización de funcionamiento
 
@@ -12908,8 +11494,6 @@ Lo anterior, sin perjuicio del levantamiento de la sanción, en el evento de que
 
 (Decreto 4369 de 2006, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.6.5.23 — Informe sobre evasión y elusión
 
 Toda persona o autoridad que tenga conocimiento sobre conductas de evasión o elusión en el pago de aportes parafiscales o al Sistema de Seguridad Social Integral en las Empresas de Servicios Temporales, deberá informarlo de manera inmediata al Ministerio del Trabajo o a la Superintendencia Nacional de Salud, según sea el caso, conforme lo dispone el artículo 5 de la Ley 828 de 2003.
@@ -12920,15 +11504,11 @@ CAPÍTULO 6
 
 EXCLUSIÓN DE APORTES AL RÉGIMEN DEL SUBSIDIO FAMILIAR, SERVICIO NACIONAL DE APRENDIZAJE, SENA, E INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR, ICBF
 
-ARTÍCULO
-
 ## art:2.2.6.6.1 — Objeto
 
 El presente capítulo tiene por objeto establecer el procedimiento de acreditación de las características o condiciones para la exclusión del pago de los correspondientes aportes al Régimen del Subsidio Familiar, Servicio Nacional de Aprendizaje, SENA, e Instituto Colombiano de Bienestar Familiar, ICBF, por parte de los empleadores, de conformidad con el artículo 13 de la Ley 789 de 2002.
 
 (Decreto 2286 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.6.2 — Acreditación de condiciones de los trabajadores adicionales
 
@@ -12945,8 +11525,6 @@ Los empleadores que vinculen trabajadores adicionales a los que tenían en prome
 5. La condición de jefes cabeza de hogar desempleados, se acreditará conforme a lo establecido en el parágrafo 5o del artículo 13 de la Ley 789 de 2002. Para tal efecto, se deberá diligenciar el formulario que establezca el Gobierno Nacional, el cual deberá ser suministrado por las Cajas de Compensación Familiar.
 
 (Decreto 2286 de 2003, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.6.3 — Acreditación de condiciones de las empresas beneficiarias
 
@@ -12966,8 +11544,6 @@ PARÁGRAFO 2. Cuando el pago de los aportes al Instituto Colombiano de Bienestar
 
 (Decreto 2286 de 2003, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.6.4 — Aplicación del beneficio de exclusión de aportes
 
 El beneficio de la exclusión de aportes se aplicará siempre y cuando la tasa de desempleo en la región en la que funcione la Caja de Compensación Familiar supere el doce por ciento (12%), de acuerdo con el parágrafo 4o del artículo 13 de la Ley 789 de 2002.
@@ -12975,8 +11551,6 @@ El beneficio de la exclusión de aportes se aplicará siempre y cuando la tasa d
 Para tal efecto, la Caja de Compensación Familiar a la cual se encuentre afiliada la empresa, deberá solicitar la certificación expedida por el Departamento Administrativo Nacional de Estadística, DANE, en la que conste la tasa de desempleo de la región donde funcione la respectiva Caja de Compensación Familiar.
 
 (Decreto 2286 de 2003, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.6.6.5 — Registro y procedimiento para la exclusión en el pago de aportes
 
@@ -13002,23 +11576,17 @@ PARÁGRAFO 2. En todo caso, con respecto al contenido del numeral 1 del presente
 
 (Decreto 2286 de 2003, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.6.6.6 — Efectos del beneficio de la exclusión del pago de aportes
 
 Los trabajadores adicionales por los cuales se aplica el beneficio de exclusión del pago de aportes de que trata el presente capítulo, gozarán de las mismas prestaciones sociales o beneficios que otorga la Caja de Compensación Familiar, el Servicio Nacional de Aprendizaje, SENA, y el Instituto Colombiano de Bienestar Familiar, ICBF, a los demás trabajadores.
 
 (Decreto 2286 de 2003, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.6.6.7 — Verificación de las condiciones y requisitos para la exclusión del pago aportes
 
 Corresponde a las Cajas de Compensación Familiar, mientras dure la exclusión del pago de los aportes, verificar mensualmente el cumplimiento por parte de los empleadores, de las condiciones y requisitos que para tal efecto señala el presente capítulo.
 
 (Decreto 2286 de 2003, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8 — Supervisión y control
 
@@ -13032,15 +11600,11 @@ Sección, Adicionada por el Art. 2 del Decreto 1346 de 2020
 
 INCENTIVO PARA LA GENERACIÓN DE EMPLEO - NO APORTE A CAJAS DE COMPENSACIÓN FAMILIAR
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.1 — Objeto
 
 La presente Sección tiene por objeto establecer los parámetros que permitan hacer efectiva la aplicación de la exoneración a los empleadores de no realizar el pago de aportes a las Cajas de Compensación Familiar, de que trata el artículo 16 de la Ley 1979 de 2019, por el nuevo personal que al inicio del contrato de trabajo tenga entre 18 y 40 años y ostenten la calidad de Veteranos de la Fuerza Pública conforme al artículo 2 literal a) de la Ley 1979 de 2019, durante los dos (2) primeros años de vinculación.
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.6.6.1.2 — Ámbito de Aplicación
 
@@ -13051,8 +11615,6 @@ Los empleadores estarán exentos de realizar aportes a las Cajas de Compensació
 PARÁGRAFO . Los trabajadores afiliados mediante este mecanismo gozarán de los servicios sociales referentes a recreación, turismo social y capacitación organizados por parte de las Cajas de Compensación Familiar durante los tres (3) primeros años de vinculación. A partir del cuarto (4) año gozarán de la plenitud de los servicios, programas y subsidios del Sistema de Subsidio Familiar conforme a las normas vigentes.
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.6.6.1.3 — Requisitos para acceder al beneficio
 
@@ -13072,15 +11634,11 @@ PARÁGRAFO . Las Cajas de Compensación Familiar deberán informar a los emplead
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.4 — 1.4
 
 Financiación de los beneficios del Sistema de Subsidio Familiar otorgados al Veterano trabajador dependiente por el cual el empleador no hace su aporte. Las Cajas de Compensación Familiar financiarán los beneficios de recreación, turismo social y capacitación con cargo a los recursos destinados a cada una de las cuentas de los programas o subsidios definidos por las correspondientes normas vigentes del Sistema de Subsidio Familiar. Los beneficiarios accederán a los servicios prestados por las Cajas de Compensación Familiar de acuerdo con la tarifa establecida según su categoría de afiliación.
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.6.6.1.5 — Adecuación de los Formularios y Sistemas de Información
 
@@ -13094,8 +11652,6 @@ PARÁGRAFO 2. El presente beneficio entrará en operación una vez se adecúe la
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.6 — Pérdida de los beneficios
 
 Quienes suministren información falsa con el propósito de obtener la exoneración prevista en el artículo 16 de la Ley 1979 de 2019, una vez sea probada dicha situación por parte de la Unidad Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP), perderán de manera inmediata el beneficio y deberán pagar el valor de las exenciones a las que hayan accedido con los respectivos intereses moratorias, sin perjuicio de las acciones penales a que haya lugar.
@@ -13105,8 +11661,6 @@ La restitución del valor de las exenciones a las que accedió el empleador sin 
 PARÁGRAFO . El Ministerio del Trabajo, en ejercicio de sus funciones de Inspección, Vigilancia y Control, podrá adelantar investigaciones administrativas sobre el cumplimiento de las empresas con la afiliación y el pago de aportes al Sistema de Seguridad Social Integral, de conformidad con el artículo 198 del Código Sustantivo del Trabajo y las normas que lo modifiquen y el numeral 12 del artículo 30 del Decreto 4108 de 2011.
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.6.6.1.7 — Exclusión de la aplicación de los beneficios
 
@@ -13122,8 +11676,6 @@ No podrán acceder a los beneficios de que trata el artículo 16 de la Ley 1979 
 
 (Adicionado por el Art. 2 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.8 — Vigilancia y control a la elusión y evasión
 
 La Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP), en observancia de sus funciones, velará por el cumplimiento de lo previsto en esta sección.
@@ -13134,23 +11686,17 @@ CAPITULO 7
 
 EQUIDAD DE GÉNERO EN EL EMPLEO
 
-ARTÍCULO
-
 ## art:2.2.6.7.1 — Objeto
 
 El presente capítulo tiene por objeto definir las acciones necesarias para promover el reconocimiento social y económico del trabajo de las mujeres, implementar mecanismos para hacer efectivo el derecho a la igualdad salarial y desarrollar campañas de erradicación de todo acto de discriminación y violencia contra las mujeres en el ámbito laboral.
 
 (Decreto 4463 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.7.2 — Ámbito de aplicación
 
 Las disposiciones del presente capítulo se aplican a todos empleadores y/o contratantes del sector público o privado, a las Administradoras de Riesgos Laborales y a la totalidad de las trabajadoras sin distinción de la forma de vinculación laboral y/o forma de trabajo.
 
 (Decreto 4463 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.7.3 — Acciones
 
@@ -13218,15 +11764,11 @@ Este Sello de reconocimiento o exaltación, dará al empleador reputación admin
 
 (Decreto 4463 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.7.4 — Inspección, Vigilancia y Control
 
 El Ministerio del Trabajo en el marco de sus competencias, generará acciones de inspección, vigilancia y control en cuanto a la vulneración de los derechos laborales de las trabajadoras.
 
 (Decreto 4463 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.6.7.5 — Seguimiento
 
@@ -13242,15 +11784,11 @@ SECCIÓN 1
 
 AFILIACIÓN DE COLOMBIANOS EN EL EXTERIOR
 
-ARTÍCULO
-
 ## art:2.2.6.8.1.1 — Afiliación al Sistema de Subsidio Familiar
 
 Los colombianos residentes en el exterior podrán vincularse en calidad de afiliados facultativos al Sistema de Subsidio Familiar, e incluir a su grupo familiar domiciliado en Colombia, conforme las reglas de dicho Sistema.
 
 (Decreto 682 de 2014, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.6.8.1.2 — Condiciones de la afiliación al Sistema de Subsidio Familiar de los colombianos residentes en el exterior
 
@@ -13260,8 +11798,6 @@ El ingreso base de cotización del aporte será la suma que en moneda legal naci
 
 (Decreto 682 de 2014, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.8.1.3 — Prestaciones reconocidas por el Sistema de Subsidio Familiar
 
 La afiliación del colombiano residente en el exterior generará al afiliado y a los miembros de su grupo familiar en Colombia, el derecho a la totalidad de prestaciones y servicios sociales de que gozan los afiliados obligatorios al Sistema de Subsidio Familiar, excepto el reconocimiento de cuota monetaria de subsidio familiar y las prestaciones del Mecanismo de Protección al Cesante.
@@ -13269,8 +11805,6 @@ La afiliación del colombiano residente en el exterior generará al afiliado y a
 PARÁGRAFO . Los Consejos Directivos de las Cajas de Compensación Familiar adoptarán las medidas que correspondan, para asegurar que los servicios ofrecidos por aquellas sean prestados a las familias vinculadas por los colombianos residentes en el exterior.
 
 (Decreto 682 de 2014, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.6.8.1.4 — Mecanismo para el pago de aportes por los colombianos residentes en el exterior
 
@@ -13280,8 +11814,6 @@ PARÁGRAFO . Las Administradoras de Pensiones de ambos regímenes y las Cajas de
 
 (Decreto 682 de 2014, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.6.8.1.5 — Programas especiales para los afiliados
 
 Las Cajas de Compensación Familiar promoverán la ejecución de programas y servicios sociales para las familias de los colombianos residentes en el exterior.
@@ -13290,8 +11822,6 @@ COLPENSIONES adoptará las medidas que estime pertinentes para extender la cober
 
 (Decreto 682 de 2014, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.6.8.1.6 — Promoción de la afiliación
 
 Las administradoras de pensiones de ambos regímenes y las Cajas de Compensación Familiar, promoverán la vinculación de los colombianos residentes en el exterior y sus familias en Colombia y realizarán la divulgación, capacitación y el acompañamiento que fuere necesario para tal fin.
@@ -13299,8 +11829,6 @@ Las administradoras de pensiones de ambos regímenes y las Cajas de Compensació
 El Ministerio del Trabajo, mediante sus canales de orientación al público y a través de los medios que considere convenientes, dispondrá los mecanismos para estimular la vinculación a la protección social de la población a que se refiere la presente sección. Así mismo, podrá impartir las instrucciones y celebrar los convenios pertinentes para extender a dicha población servicios adicionales, especialmente en materia de ahorro, crédito y formación.
 
 (Decreto 682 de 2014, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.6.8.1.7 — Programas especiales de acogida
 
@@ -13312,23 +11840,17 @@ SECCIÓN 2
 
 INSTRUMENTO ANDINO DE MIGRACIÓN LABORAL
 
-ARTÍCULO
-
 ## art:2.2.6.8.2.1 — Objeto
 
 El objeto de la presente sección es adoptar la Guía para la implementación de la Decisión 545 de la Comunidad Andina - CAN - "Instrumento Andino de Migración Laboral", contenida en el Anexo que forma parte integral del presente Decreto.
 
 (Decreto 46 de 2013, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.8.2 — Acciones del Ministerio del Trabajo
 
 El Ministerio del Trabajo reglamentará lo relacionado con la expedición de la documentación que califique la condición de Trabajador Migrante Andino, la supervisión de la situación laboral de los Trabajadores Migrantes Andinos, sus condiciones de trabajo y el cabal cumplimiento de las normas laborales.
 
 (Decreto 46 de 2013, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.8.2.3 — 2.3
 
@@ -13494,13 +12016,9 @@ Sección Adicionada por el Art. 1 del Decreto 117 de 2020
 
 PERMISO ESPECIAL DE PERMANENCIA PARA EL FOMENTO DE LA FORMALIZACIÓN (PEPFF)
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.1 — Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF)
 
 Créase el Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) corno un mecanismo excepcional y transitorio dirigido a facilitar la regularidad migratoria de los nacionales venezolanos en territorio colombiano, mediante el acceso, de manera alternativa según corresponda en cada caso, a contratos laborales o a contratos de prestación de servicios.
-
-ARTÍCULO
 
 ## art:2.2.6.8.3.2 — Condiciones
 
@@ -13526,13 +12044,9 @@ En cualquier caso, la oferta deberá presentarse mediante formulario web conteni
 
 PARÁGRAFO . Las condiciones establecidas en los numerales 1, 2, 3, 4 y 5 serán verificadas por la Unidad Administrativa Especial Migración Colombia. La información a la que se refiere el numeral 6 será validada por el Ministerio del Trabajo por medio de la Dirección de Movilidad y Formación para el Trabajo o quien haga sus veces.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.3 — Presentación de la solicitud
 
 Para solicitar la expedición del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF), se deberá acreditar el cumplimiento de los requisitos dispuestos en el artículo 2.2.6.8.3.4. del presente Decreto, por medio del aplicativo dispuesto para tal fin por el Ministerio del Trabajo.
-
-ARTÍCULO
 
 ## art:2.2.6.8.3.4 — Requisitos de la solicitud
 
@@ -13550,8 +12064,6 @@ El empleador o contratante, según corresponda en cada caso, deberá presentar p
 
 4. Si el empleador o contratante es persona jurídica, el Ministerio del Trabajo deberá verificar la existencia o representación legal del mismo por medio de una consulta al Registro Único Empresarial y Social - RUES. En caso de no estar obligado a estar inscrito en este sistema, el empleador o contratante, deberá aportar el documento respectivo que dé cuenta de su existencia y representación.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.5 — Validación por parte del Ministerio del Trabajo
 
 La Dirección de Movilidad y Formación para el Trabajo del Ministerio del Trabajo o quien haga sus veces, revisará la información presentada en la solicitud respecto a los numerales 1, 3 y 4 del artículo 2.2.6.8.3.4. del presente Decreto, mediante el aplicativo previsto para tal fin.
@@ -13566,8 +12078,6 @@ A través del aplicativo, la Unidad Administrativa Especial Migración Colombia 
 
 Si el empleador o contratante, según corresponda en cada caso, no cumple con las condiciones y requisitos señalados en el presente artículo, el Ministerio del Trabajo rechazará la solicitud e informará al solicitante dentro los cinco (5) días hábiles siguientes a la radicación de la solicitud, mediante el aplicativo dispuesto para tal fin. Contra dicha decisión no procede recurso alguno.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.6 — Validación por parle de la Unidad Administrativa Especial Migración Colombia
 
 El ciudadano venezolano que pretenda ocupar la oferta sobre la cual el Ministerio del Trabajo haya dado su aprobación, ya sea de contratación laboral o de prestación de servicios, según corresponda en cada caso, de acuerdo con lo establecido en la presente sección, debe presentarse personalmente ante uno de los Centros Facilitadores de Servicios Migratorios de cualquiera de las regionales de la Unidad Administrativa Especial Migración Colombia.
@@ -13578,8 +12088,6 @@ PARÁGRAFO 1. El Permiso Especial de Permanencia para el Fomento de la Formaliza
 
 PARÁGRAFO 2. El Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF), dada su naturaleza jurídica, está dirigido a regularizar a los ciudadanos nacionales venezolanos temporalmente que se encuentren en el territorio nacional sin la intención de establecerse , y que obtengan una oferta de termino fijo o determinado, ya sea de contratación laboral o de prestación de servicios, según corresponda en cada caso, razón por la cual no equivale a una Visa, no presupone domicilio, ni tiene efectos en el cómputo de tiempo para la Visa de Residencia tipo "R", de conformidad con la normatividad vigente.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.7 — Expedición
 
 El Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) será expedido por la Unidad Administrativa Especial Migración Colombia, en atención a la existencia de una oferta en Colombia, según corresponda en cada caso, de:
@@ -13589,8 +12097,6 @@ El Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) 
 2. Contratación de prestación de servicios, previamente validada dentro del ámbito de su competencia por el Ministerio del Trabajo.
 
 Es competencia discrecional del Gobierno, fundado en el princ1p10 de soberanía del Estado, autorizar el ingreso, permanencia y salida de extranjeros del territorio nacional, por lo tanto, el cumplimiento de los requisitos no garantiza la expedición del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) y en todo caso, su otorgamiento será potestativo de la Unidad Administrativa Especial Migración Colombia.
-
-ARTÍCULO
 
 ## art:2.2.6.8.3.8 — Vigencia del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF)
 
@@ -13608,8 +12114,6 @@ En caso de presentarse cesión por parte del contratante en los contratos de pre
 
 En los dos casos señalados en el presente parágrafo, el permiso que estuviere vigente se mantendrá en vigor hasta la expedición de uno nuevo, si la solicitud fue presentada dentro de los términos establecidos en este parágrafo. Por el contrario, si la solicitud del nuevo permiso es presentada de manera extemporánea o si se niega por la Unidad Administrativa Especial Migración Colombia, el permiso anterior perderá vigencia de forma automática.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.9 — Actividades autorizadas
 
 El titular del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF), quedará autorizado para ejercer únicamente la actividad u oficio establecido en el formulario web sobre la oferta de contratación, presentado por el empleador o contratante, según corresponda en cada caso. Cualquier infracción a esta disposición causará la terminación automática e inmediata del permiso.
@@ -13620,15 +12124,11 @@ Si la solicitud del nuevo permiso es presentada de manera extemporánea o si se 
 
 PARÁGRAFO 2. La expedición del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) se hará sin perjuicio del cumplimiento de las normas establecidas para el ejercicio de profesiones reguladas en el país y la normatividad establecida en normas las laborales o las civiles y comerciales, según la modalidad contractual de que se trate.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.10 — Reporte en los sistemas de información para extranjeros
 
 Los contratantes o empleadores que contraten o vinculen, según corresponda en cada caso, a un titular de un Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF), deben hacer el registro de los ciudadanos venezolanos ante la autoridad migratoria ingresando la información por medio de las plataformas que la Unidad Administrativa Especial Migración Colombia y el Ministerio del Trabajo dispongan para el efecto, de conformidad con lo dispuesto en el artículo 2.2.1.11.5. 1. del Decreto 1067 de 2015, la Resolución 1238 de 2018 de dicha Unidad Administrativa, la Resolución 4386 de 2018 del mencionado Ministerio y demás normas que las modifiquen, adicionen o sustituyan.
 
 PARÁGRAFO . Los contratantes y empleadores, según corresponda en cada caso, deberán informar al Ministerio del Trabajo y a la Unidad Administrativa Especial Migración Colombia, por medio de las plataformas que la Unidad Administrativa Especial Migración Colombia y el Ministerio del Trabajo dispongan para el efecto, la terminación del contrato y cualquier otra modificación que afecte la información reportada en los mencionados sistemas, lo anterior dentro de los quince (15) días calendario posteriores a la ocurrencia de la novedad.
-
-ARTÍCULO
 
 ## art:2.2.6.8.3.11 — Uso del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF)
 
@@ -13637,8 +12137,6 @@ El Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) 
 PARÁGRAFO 1. La Unidad Administrativa Especial Migración Colombia dispondrá de un aplicativo web que permita verificar la vigencia del permiso y obtener la respectiva certificación.
 
 PARÁGRAFO 2. El Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) no genera facultades para realizar trámites registrales de las personas.
-
-ARTÍCULO
 
 ## art:2.2.6.8.3.12 — Cancelación
 
@@ -13670,13 +12168,9 @@ PARÁGRAFO 3. La Unidad Administrativa Especial Migración Colombia dispone de q
 
 PARÁGRAFO 4. La cancelación del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF) se realizará sin perjuicio de las actuaciones administrativas sancionatorias en materia migratoria o judiciales a que haya lugar.
 
-ARTÍCULO
-
 ## art:2.2.6.8.3.13 — Instructivo
 
 La Dirección de Movilidad y Formación para el Trabajo del Ministerio del Trabajo elaborará un instructivo en el que se especificará la forma en que se desarrollará el trámite de solicitud del Permiso Especial de Permanencia para el Fomento de la Formalización (PEPFF).
-
-ARTÍCULO
 
 ## art:2.2.6.8.3.14 — Inspección, vigilancia y control
 
@@ -13692,15 +12186,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.6.9.1.1 — Objeto
 
 Adoptar y reglamentar el Subsistema de Formación para el Trabajo - SFT y su Aseguramiento de Calidad - ACFT en Colombia; para implementar con oportunidad, calidad y pertinencia, sus programas de formación para el trabajo.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.1.2 — Definiciones
 
@@ -13758,15 +12248,11 @@ SECCIÓN 2
 
 DISPOSICIONES DEL SUBSISTEMA DE FORMACIÓN PARA EL TRABAJO COMO UNA VÍA DE CUALIFICACIÓN Y SU ASEGURAMI ENTO DE LA CALIDAD SFT - ACFT
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.1 — Ámbito de aplicación
 
 Las normas de la presente sección desarrollan los aspectos relacionados con el Subsistema de Formación para el Trabajo y su Aseguramiento de la Calidad, tienen cobertura nacional y aplican a las Instituciones oferentes y a sus programas de formación para el trabajo; a los que aprenden; a los que forman; y, a los que gestionan los programas.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.2.2 — Subsistema de Formación para el Trabajo - SFT
 
@@ -13774,15 +12260,11 @@ Conjunto de normas, políticas, instituciones, actores, procesos, instrumentos y
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.3 — Aseguramiento de la Calidad del Subsistema de Formación para el Trabajo - ACFT
 
 Conjunto de políticas, normas, condiciones y mecanismos destinados: (i) al logro y la promoción de la excelencia en los resultados de los programas de la formación para el trabajo y su impacto social en las personas certificadas, (ii) el reconocimiento en el mercado laboral de los certificados del Subsistema de Formación para el Trabajo - SFT, (iii) la mejora continua en la gestión, implementación e impacto de los resultados de los programas del Subsistema de Formación para el Trabajo.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.2.4 — Objetivos del Subsistema de Formación para el Trabajo y su Aseguramiento de la calidad
 
@@ -13800,15 +12282,11 @@ El Subsistema de Formación para el Trabajo y su Aseguramiento de la Calidad de 
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.5 — 2.5
 
 Articulación del Subsistema de Formación para el Trabajo y su Aseguramiento de la Calidad con el Sistema Nacional de Cualificaciones - SNC. El Subsistema de Formación para el Trabajo y su Subsistema de la Calidad de la Formación para el Trabajo hacen parte del Sistema Nacional de Cualificaciones - SNC, y deben crear condiciones y mecanismos para articularse con los componentes del SNC, y las otras vías de cualificación.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.2.6 — 2.6
 
@@ -13816,15 +12294,11 @@ Articulación del Subsistema de Formación para el Trabajo y su Aseguramiento de
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.7 — Niveles de la oferta de programas del Subsistema de Formación para el Trabajo - SFT
 
 La oferta de programas del Subsistema de Formación para el Trabajo - SFT estará en correspondencia con las cualificaciones diseñadas de los niveles 1 al 7 del Marco Nacional de Cualificaciones - MNC. Las cualificaciones de los niveles 1, 2, 3 y 4 corresponden a los niveles iniciales y las de los 5, 6 y 7 a los niveles avanzados.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.2.8 — Denominaciones
 
@@ -13846,8 +12320,6 @@ Nivel 7, Técnico Experto.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.9 — Requisitos de ingreso a los programas del Subsistema de Formación para el Trabajo -SFT
 
 Para ingresar a un programa del Subsistema de Formación para el Trabajo - SFT en cualquiera de sus niveles, el aspirante deberá cumplir con los requisitos legales y los de la institución donde quiere matricularse de acuerdo con la normatividad vigente.
@@ -13866,8 +12338,6 @@ PARÁGRAFO 6. Para ingresar a los programas del nivel 7, de la oferta del Subsis
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.10 — Modalidades de la oferta de los programas de formación del Subsistema de Formación para el Trabajo - SFT
 
 La oferta de los programas de formación del Subsistema de Formación para el Trabajo - SFT, puede ser presencial, a distancia, virtual, en alternancia, combinada y otros desarrollos que integren las anteriores modalidades, cumpliendo con criterios de calidad de la modalidad seleccionada, de acuerdo con la reglamentación que para el efecto se expida.
@@ -13876,15 +12346,11 @@ PARÁGRAFO . La modalidad de formación combinada no es una opción, sino un ref
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.2.11 — Cualificaciones reconocidas mediante certificados en el Subsistema de Formación para el Trabajo - SFT
 
 Las cualificaciones alcanzadas por las personas luego de haber cursado un programa de formación del Subsistema de Formación para el Trabajo - SFT, y haber superado la respectiva prueba de evaluación; serán reconocidas mediante certificados de los que trata el artículo 2.2.6.9.2.12, mencionando la denominación de la respectiva cualificación y el nivel del Marco Nacional de Cualificaciones - MNC al que corresponde dicha cualificación.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.2.12 — Certificados del Subsistema de Formación para el Trabajo - SFT
 
@@ -13912,8 +12378,6 @@ SECCIÓN 3
 
 NORMAS ESPECÍFICAS DEL SUBSISTEMA DE FORMACIÓN PARA EL TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.1 — Fines de la oferta y los programas del Subsistema de Formación para el Trabajo - SFT
 
 La Formación para el Trabajo responde a los siguientes fines específicos:
@@ -13925,8 +12389,6 @@ La Formación para el Trabajo responde a los siguientes fines específicos:
 3. Aprender a Ser: Se orienta al actuar de las personas, al desarrollo de actitudes acordes con la dignidad y proyección solidaria hacia los demás y hacia el mundo.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.3.2 — Principios del Subsistema de Formación para el Trabajo - SFT
 
@@ -13944,8 +12406,6 @@ El Subsistema de Formación para el Trabajo - SFT debe orientarse bajo los sigui
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.3 — Oferta de programas del Subsistema de Formación para el Trabajo -SFT
 
 El Servicio Nacional de Aprendizaje - SENA, las Instituciones de Educación Superior - IES y las Instituciones de Educación para el Trabajo y Desarrollo Humano IETDH, podrán ofertar los programas de formación para el trabajo, del nivel 1 al nivel 7, del Marco Nacional de Cualificaciones, en la medida en que las cualificaciones sean aprobadas por el Comité Ejecutivo del Marco Nacional de Cualificaciones y cumplan con las disposiciones del presente decreto.
@@ -13960,8 +12420,6 @@ PARÁGRAFO 4. Las instituciones oferentes de programas de Formación para el Tra
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.4 — Investigación e innovación en el Subsistema de Formación para el Trabajo - SFT
 
 Las instituciones oferentes de programas de Formación para el Trabajo podrán desarrollar procesos de investigación aplicada, en el marco de los objetivos del Subsistema de Formación para el Trabajo y su Aseguramiento de la Calidad. Estos procesos se adelantarán de conformidad con los lineamientos del
@@ -13970,15 +12428,11 @@ Sistema Nacional de Ciencia, Tecnología e Innovación.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.5 — Fomento al crecimiento y desarrollo de los programas del Subsistema de Formación para el Trabajo - SFT
 
 Corresponde al Ministerio del Trabajo en desarrollo de sus políticas de empleo, fomentar en el país, el crecimiento y desarrollo de los programas de formación del Subsistema de Formación para el Trabajo como una vía de cualificación.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.3.6 — Fomento al emprendimiento
 
@@ -13986,23 +12440,17 @@ El Ministerio del Trabajo, en coordinación con otras entidades competentes y la
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.7 — 3.7
 
 Rectoría del Subsistema de Formación para el Trabajo: El Ministerio del Trabajo es el órgano rector del Subsistema de Formación para el Trabajo - SFT.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.8 — Comité Consultivo del Subsistema de Formación para el Trabajo - SFT
 
 Se crea el comité consultivo sobre la organización y prestación del servicio del Subsistema de Formación para el Trabajo - SFT, como la instancia encargada de asesorar el diseño de las políticas públicas y los lineamientos para la estructuración y operación del Subsistema de Formación para el Trabajo.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.3.9 — 3.9
 
@@ -14038,8 +12486,6 @@ PARÁGRAFO 3. El Comité Consultivo del Subsistema de Formación para el Trabajo
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.10 — Funciones del Comité Consultivo del Subsistema de Formación para el Trabajo
 
 El Comité Consultivo de Formación para el Trabajo tendrá las siguientes funciones:
@@ -14054,15 +12500,11 @@ PARÁGRAFO . El Comité Consultivo del Subsistema de Formación para el Trabajo 
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.3.11 — Secretaría técnica
 
 La Dirección de Movilidad y Formación para el Trabajo, ejercerá la secretaría técnica del Comité Consultivo sobre el Subsistema de Formación para el Trabajo - SFT.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.3.12 — Funciones de la secretaría técnica del Comité consultivo del Subsistema de formación para el trabajo
 
@@ -14084,8 +12526,6 @@ SECCIÓN 4
 
 NORMAS ESPECÍFICAS DEL ASEGURAMIENTO DE LA CALIDAD DEL SUBSISTEMA DE FORMACIÓN PARA EL TRABAJO - ACFT
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.1 — 4.1
 
 Principios del Aseguramiento de la Calidad del Subsistema de Formación para el Trabajo - ACFT: El Subsistema de la Formación para el Trabajo - SFT tendrá como principios de Aseguramiento de la Calidad los siguientes:
@@ -14102,15 +12542,11 @@ Principios del Aseguramiento de la Calidad del Subsistema de Formación para el 
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.2 — 4.2
 
 Condiciones para ofertar programas de formación del Subsistema de Formación para el Trabajo - SFT: El Servicio Nacional de Aprendizaje - SENA, las Instituciones de Educación para el Trabajo y Desarrollo Humano - IETDH, y las Instituciones de Educación Superior - IES, para ofertar programas del Subsistema de Formación para el Trabajo, deben estar habilitadas según su propia naturaleza jurídica y tramitar su inscripción y la de la (s) sede(s) que ofertarán los programas, ante la Dirección de Movilidad y Formación para el Trabajo, del Ministerio del Trabajo o quien haga sus veces.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4.3 — Referentes obligatorios de los programas de formación del Subsistema de Formación para el Trabajo
 
@@ -14126,8 +12562,6 @@ Son referentes o reglas de obligatorio cumplimiento para la habilitación, dise�
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.4 — Componentes del Aseguramiento de Calidad de la Formación para el Trabajo
 
 El Aseguramiento de Calidad de la Formación para el Trabajo - ACFT se organiza en un modelo que integra indicadores de cuatro componentes así: de insumo, de proceso, de resultado y de impacto.
@@ -14142,8 +12576,6 @@ PARÁGRAFO 4. Hacen parte del componente de impacto del aseguramiento de la cali
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.5 — Habilitación de las instituciones oferentes de programas del Subsistema de Formación para el Trabajo -SFT
 
 Para ofertar e implementar programas de la formación para el trabajo, las Instituciones oferentes deben contar con la habilitación institucional de su propia naturaleza jurídica.
@@ -14151,8 +12583,6 @@ Para ofertar e implementar programas de la formación para el trabajo, las Insti
 PARÁGRAFO . Las Instituciones de Educación para el Trabajo y Desarrollo Humano, IETDH, que aspiran a ofertar programas del Subsistema de Formación para el Trabajo, deben contar con la norma técnica de Calidad (NTC 5555) sobre el Sistema de Gestión de la Calidad para Instituciones de formación para el Trabajo, o las consideradas por el Comité Consultivo del Aseguramiento de la Calidad.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4.6 — Condiciones habilitantes para ofertar programas del Subsistema de la Formación para el Trabajo
 
@@ -14192,8 +12622,6 @@ Las condiciones habilitantes de los programas del Subsistema de la Formación pa
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.7 — 
 
 2.2.6.9.4.7 Condiciones habilitantes para ofertar programas del Subsistema de la Formación para el Trabajo - SFT en los niveles 5, 6 y 7. Para ofertar programas del Subsistema de la Formación para el Trabajo - SFT, en los niveles 5, 6 y 7, las Instituciones oferentes, además de las condiciones señaladas en el artículo 2.2.6.9.4.6 del presente decreto, deberán cumplir con los siguientes requisitos adicionales
@@ -14208,8 +12636,6 @@ PARÁGRAFO . Para ofertar programas del Subsistema de Formación para el Trabajo
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.8 — Procedimiento para la habilitación de la oferta de programas del Subsistema de Formación para el Trabajo
 
 El proceso de habilitación de la oferta de los programas del Subsistema de Formación para el Trabajo - SFT, conforme lo establecen los artículos 2.2.6.9.4.6. y 2.2.6.9.4.7 del presente Decreto tendrán tres etapas: a) radicación de la documentación que evidencie las condiciones habilitantes definidas en el presente decreto ante el Ministerio del Trabajo, en la Dirección de Movilidad y Formación para el Trabajo; b) verificación de acuerdo con los procedimientos establecidos y, c) autorización para la oferta del programa mediante el acto administrativo que corresponda.
@@ -14218,15 +12644,11 @@ PARÁGRAFO . El trámite para habilitar la oferta de programas del Subsistema de
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.9 — Certificación de calidad de los programas de formación del Subsistema de la Formación para el Trabajo -SFT
 
 La certificación de calidad de los programas de formación del Subsistema de Formación para el Trabajo - SFT se entiende como el resultado de un proceso de verificación para determinar un Índice Sintético de Calidad a partir de indicadores que dan cuenta de los resultados de aprendizaje a través del programa y del impacto de sus certificados en el mercado laboral.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4.10 — .10
 
@@ -14244,8 +12666,6 @@ Indicadores de calidad de los programas de formación del Subsistema de la Forma
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.11 — 
 
 2.2.6.9.4.11 Índice Sintético de la Calidad de los Programas de Formación del Subsistema de Formación para el Trabajo: Es el valor numérico que se asignará a un programa o grupo de programas de Formación del Subsistema de Formación para el Trabajo - SFT; en una escala numérica predeterminada donde uno de los extremos, el mayor, es la nota máxima de calidad. Ese valor se obtiene al procesar los valores individuales y pesos de cada uno de los indicadores que lo conforman.
@@ -14256,23 +12676,17 @@ PARÁGRAFO 2. El Ministerio del Trabajo y el Ministerio de Educación Nacional p
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.12 — Procedimiento de la certificación de calidad de los programas del Subsistema de Formación para el Trabajo
 
 El procedimiento para la certificación de calidad de los programas incluye las siguientes etapas: a) registro por parte de las instituciones oferentes de la información relacionada con los indicadores de calidad de cada programa y cohorte en los sistemas y con los procedimientos que serán reglamentados; b) procesamiento de los indicadores y cálculo del índice sintético de calidad; c) publicación del resultado del índice sintético de la calidad de los programas del Subsistema la Formación para el Trabajo - SFT.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.13 — Institucionalidad del Aseguramiento de la Calidad del Subsistema de Formación para el Trabajo
 
 Los ministros de Trabajo y Educación Nacional son la cabeza del Aseguramiento de la Calidad del Subsistema la Formación para el Trabajo - SFT y adoptarán las decisiones por consenso de acuerdo con los lineamientos del Sistema Nacional de Cualificaciones - SNC.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4.14 — .14
 
@@ -14300,9 +12714,9 @@ PARÁGRAFO 3. Los integrantes del Comité Consultivo del Aseguramiento de la Cal
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-## art:2.2.6.9.4 — 
+## art:2.2.6.9.4.15 — 
 
-15. Funciones del Comité Consultivo del Aseguramiento de la Calidad de la Formación para el Trabajo: El Comité Consultivo tendrá las siguientes funciones:
+Funciones del Comité Consultivo del Aseguramiento de la Calidad de la Formación para el Trabajo: El Comité Consultivo tendrá las siguientes funciones:
 
 1. Asesorar al Ministerio del Trabajo y al Ministerio de Educación Nacional para adoptar o modificar normas, lineamientos y prácticas del Aseguramiento de la Calidad del Subsistema de Formación para el Trabajo - SFT.
 
@@ -14318,8 +12732,6 @@ PARÁGRAFO . El Comité Consultivo del Aseguramiento de la Calidad de la formaci
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.16 — Secretaría Técnica del Comité Consultivo del Aseguramiento de la Calidad de la Formación para el Trabajo
 
 La secretaría técnica, por su alcance y funciones, será colegiada entre las Direcciones de Movilidad y Formación para el Trabajo y Dirección Generación y Protección del Empleo y Subsidio Familiar del Ministerio del Trabajo; y las Direcciones de Fomento a la Educación Superior y de Calidad de la Educación Superior, del Ministerio de Educación Nacional.
@@ -14329,8 +12741,6 @@ PARÁGRAFO 1. La coordinación de la Secretaría Técnica del Comité Consultivo
 PARÁGRAFO 2. Los Ministerios del Trabajo y Educación Nacional garantizarán el funcionamiento del Comité y los medios técnicos requeridos.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4.17 — Funciones de la Secretaría Técnica
 
@@ -14346,23 +12756,17 @@ La Secretaría Técnica tendrá las siguientes funciones:
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.18 — .18
 
 Operación del Aseguramiento de la Calidad de la oferta de los programas del Subsistema de Formación para el Trabajo - SFT. El Ministerio del Trabajo tendrá a su cargo la operación del Aseguramiento de la Calidad de los programas de la Formación para el Trabajo - SFT, a través de la Plataforma de Información del Sistema Nacional de Cualificaciones u otro medio, temporal o definitivo, que se disponga.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.6.9.4.19 — Costos
 
 Las instituciones privadas oferentes de programas del Subsistema de Formación para el Trabajo - SFT deberán presentar una propuesta de precios de matrícula durante el primer año de la oferta del programa, acompañada de estudio de costos, proyección financiera y presupuesto que demuestren su sostenibilidad para un período no inferior a tres años; estas condiciones serán renovadas periódica de mente cada tres años.
 
 (Adicionado por el Art. 1 del Decreto 1650 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.6.9.4.20 — Inspección, Vigilancia y Control
 
@@ -15269,8 +13673,6 @@ SECCIÓN 1
 
 CONSTITUCIÓN
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.1 — Constitución de Cajas de Compensación Familiar
 
 La constitución de una caja de compensación familiar, deberá hacerse con arreglo a lo dispuesto en los artículos 39, 40 y 41 de la Ley 21 de 1982. Los interesados deberán reunirse y suscribir el acta de constitución respectiva.
@@ -15293,8 +13695,6 @@ La existencia y representación de las personas jurídicas constituyentes será 
 
 (Decreto 341 de 1988, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.2 — Reconocimiento de Personería Jurídica
 
 El director administrativo provisional, efectuará los trámites correspondientes para la aprobación y reconocimiento de la personería jurídica de la corporación ante la Superintendencia del Subsidio Familiar a la cual remitirá la siguiente documentación:
@@ -15306,8 +13706,6 @@ El director administrativo provisional, efectuará los trámites correspondiente
 3. Estudio de factibilidad.
 
 (Decreto 341 de 1988, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.7.1.1.3 — Estudio de factibilidad
 
@@ -15327,8 +13725,6 @@ El estudio de factibilidad deberá contener:
 
 (Decreto 341 de 1988, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.4 — Estudio de la Solicitud
 
 Recibida la solicitud de aprobación y reconocimiento de la personería jurídica de la corporación por parte de la Superintendencia del Subsidio Familiar, esta dispondrá del término de un mes para estudiar la petición.
@@ -15341,8 +13737,6 @@ Las peticiones que fueron objeto de corrección o adición oportuna, serán deci
 
 (Decreto 341 de 1988, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.5 — Vigencia y Efectos del Reconocimiento de Personería Jurídica
 
 La resolución que apruebe y reconozca la personería jurídica de una corporación, tendrá vigencia y surtirá efectos a partir de la publicación en el Diario Oficial, por cuenta de la respectiva entidad.
@@ -15351,8 +13745,6 @@ Toda la documentación se conservará en los archivos de la Superintendencia.
 
 (Decreto 341 de 1988, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.6 — Convocatoria a la Asamblea para la elección de miembros del Consejo Directivo y Revisor Fiscal
 
 Ejecutoriada la resolución de aprobación y reconocimiento de personería jurídica de una corporación, la entidad convocará a asamblea general dentro de los dos (2) meses siguientes, en la cual se elegirán los miembros del consejo directivo que fueren de su competencia y revisor fiscal y suplente.
@@ -15360,8 +13752,6 @@ Ejecutoriada la resolución de aprobación y reconocimiento de personería jurí
 Dentro del mismo término, el Ministerio del Trabajo procederá a designar los miembros del consejo directivo, representantes de los trabajadores.
 
 (Decreto 341 de 1988, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.7.1.1.7 — Dirección de las Cajas de Compensación Familiar
 
@@ -15373,23 +13763,17 @@ SECCIÓN 2
 
 Asamblea General
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.1 — La Asamblea General
 
 La asamblea general está conformada por la reunión de los afiliados hábiles o de sus representantes debidamente acreditados. Es la máxima autoridad de la corporación, sus decisiones son obligatorias y cumple las funciones que les señalan la ley y los estatutos.
 
 (Decreto 341 de 1988, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.2 — Reuniones de la Asamblea General
 
 Las reuniones de la asamblea general pueden ser ordinarias o extraordinarias y se realizarán de conformidad con lo dispuesto en el presente capítulo y los estatutos de la respectiva caja de compensación.
 
 (Decreto 341 de 1988, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.3 — Convocatoria de la Asamblea General
 
@@ -15399,15 +13783,11 @@ La convocatoria debe indicar el orden del día propuesto, el sitio, la fecha, la
 
 (Decreto 341 de 1988, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.4 — Información de la Convocatoria
 
 Las cajas de compensación familiar informarán mediante comunicación dirigida al superintendente del subsidio familiar, con no menos de tres (3) días hábiles de anticipación, toda convocatoria a asamblea general, en la forma como haya sido efectuada a los afiliados, con el fin de que dicha entidad si lo estima conveniente designe un delegado.
 
 (Decreto 341 de 1988, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.5 — Convocatoria de las Asambleas Ordinarias
 
@@ -15418,8 +13798,6 @@ Las asambleas ordinarias serán convocadas así:
 2. Por orden de la Superintendencia del Subsidio Familiar en caso de no haberse efectuado la reunión en la forma contemplada en el numeral anterior.
 
 (Decreto 341 de 1988, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.6 — Asuntos de la Asamblea Ordinaria
 
@@ -15435,8 +13813,6 @@ La asamblea general ordinaria deberá realizarse anualmente y ocuparse entre otr
 
 (Decreto 341 de 1988, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.7 — Las Actas de la Asamblea General
 
 Lo ocurrido en las reuniones de la asamblea general de afiliados se hará constar en el libro de actas respectivo. Cada una de las actas será aprobada por la asamblea en la misma sesión o por una comisión designada para tal efecto dentro de los diez días siguientes a su celebración. Las actas se firmarán por el presidente de la asamblea y el secretario.
@@ -15444,8 +13820,6 @@ Lo ocurrido en las reuniones de la asamblea general de afiliados se hará consta
 Cada acta se encabezará con el número de orden correspondiente y deberá indicar el lugar, la fecha y la hora de la reunión: la forma de convocatoria; el número de miembros o afiliados hábiles presentes, con indicación de los casos de representación; los asuntos tratados; las decisiones adoptadas; las proposiciones aprobadas, negadas o aplazadas, con indicación del número de votos emitidos a favor, en contra, en blanco o nulos; las constancias escritas presentadas por los asistentes durante la reunión; las designaciones efectuadas; la fecha y hora de terminación, y en general, todas las circunstancias que suministren una información clara y completa sobre el desarrollo de la asamblea.
 
 (Decreto 341 de 1988, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.8 — Del libro de actas y las copias de las mismas
 
@@ -15455,15 +13829,11 @@ El director administrativo enviará a la Superintendencia del Subsidio Familiar,
 
 (Decreto 341 de 1988, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.9 — Reuniones extraordinarias de la Asamblea
 
 Las reuniones extraordinarias se realizarán por convocatoria que haga el consejo directivo, el director administrativo, el revisor fiscal o por solicitud escrita de un número plural de afiliados que represente por lo menos una cuarta parte del total de los miembros hábiles de la corporación.
 
 (Decreto 341 de 1988, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.10 — Reunión extraordinaria convocada por el Superintendente
 
@@ -15471,23 +13841,17 @@ El Superintendente del Subsidio Familiar podrá convocar a reunión extraordinar
 
 (Decreto 341 de 1988, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.11 — Decisiones de la Asamblea
 
 Las decisiones que adopte la asamblea requiere, por regla general, la mayoría simple de votos de los afiliados hábiles presentes en la reunión, sin perjuicio de las mayorías calificadas que establezcan las normas legales y estatutarias.
 
 (Decreto 341 de 1988, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.12 — Quórum
 
 La asamblea general de afiliados podrá sesionar válidamente y adoptar decisiones con el quórum que los estatutos indiquen. En silencio de estos se requerirá el 25% de los afiliados hábiles.
 
 (Decreto 341 de 1988, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.13 — Incumplimiento del Quórum
 
@@ -15496,8 +13860,6 @@ Transcurrida la hora señalada para la reunión si no hay quórum para deliberar
 Pasada la oportunidad anterior, si no se realiza la asamblea general, será necesario proceder a nueva convocatoria.
 
 (Decreto 341 de 1988, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.14 — Derecho de Voto
 
@@ -15509,23 +13871,17 @@ En todo caso deberá tenerse en cuenta el número de trabajadores beneficiarios 
 
 (Decreto 341 de 1988, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.15 — Obligatoriedad de las decisiones de la Asamblea
 
 Las decisiones que adopte la asamblea general con plena observancia de los requisitos de convocatoria y quórum deliberatorio y decisorio, exigidos por las normas legales y estatutarias, obligan a todos los miembros o afiliados de la caja de compensación familiar, siempre y cuando tengan carácter general y guarden armonía con la ley y con los estatutos.
 
 (Decreto 341 de 1988, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.16 — Invalidez de las decisiones de la Asamblea
 
 Las decisiones que se adopten sin observancia de los requisitos de convocatoria y quórum, sin el número de votos establecido legal o estatutariamente o excediendo el objeto legal de las cajas de compensación familiar, no serán válidas, previa calificación de la Superintendencia del Subsidio Familiar. El cumplimiento de las adoptadas con carácter individual no podrá exigirse a los afiliados ausentes o disidentes.
 
 (Decreto 341 de 1988, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.17 — Representación mediante Poderes
 
@@ -15539,15 +13895,11 @@ Cuando la caja tenga oficinas en diferentes municipios los poderes podrán ser p
 
 (Decreto 341 de 1988, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.7.1.2.18 — De la Calidad de Afiliado Hábil
 
 Para efectos de las asambleas generales de las cajas de compensación familiar, son afiliados hábiles aquéllos que al momento de la celebración de la reunión ordinaria o extraordinaria, se hallen en pleno goce de los derechos que su calidad les otorga de conformidad con la ley y los estatutos de la respectiva corporación y se encuentren a paz y salvo con ésta por todo concepto, en relación con las obligaciones exigibles.
 
 (Decreto 341 de 1988, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.19 — Objeción de las Decisiones
 
@@ -15559,21 +13911,15 @@ SECCIÓN 3
 
 CONSEJO DIRECTIVO
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.1 — Elección de Consejeros
 
 La elección de consejeros en representación de los empleadores se efectuará mediante el sistema de cuociente electoral. Cuando se trate de la provisión de un solo renglón, se elegirá por el mayor número de votos.
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.2 — Preferencia en la Elección de Consejeros
 
 En caso de presentarse empate en la votación para la elección de Consejeros directivos se preferirá para la designación al afiliado que ocupe un mayor número de trabajadores beneficiarios.
 
 (Decreto 341 de 1988, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.3 — Inscripción de listas para la elección de Consejo Directivo
 
@@ -15583,8 +13929,6 @@ Las listas deben inscribirse ante la Secretaría de la respectiva caja de compen
 
 (Decreto 341 de 1988, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.4 — Periodo del Consejo Directivo
 
 Los estatutos de las cajas señalarán el período de los consejos directivos junto con la fecha de iniciación del mismo.
@@ -15592,8 +13936,6 @@ Los estatutos de las cajas señalarán el período de los consejos directivos ju
 Sin embargo, el ejercicio de las funciones de los miembros de los consejos directivos requiere la previa posesión en el cargo en los términos del artículo 25 de la Ley 25 de 1981, y hasta entonces habrá prórroga automática de quienes estén desempeñándolos.
 
 (Decreto 341 de 1988, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.5 — Vacancia de miembros del Consejo Directivo
 
@@ -15603,15 +13945,11 @@ La vacante de un miembro principal y su suplente será llenada por la asamblea g
 
 (Decreto 341 de 1988, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.6 — Vacancia de la representación de los empleadores afiliados
 
 La representación de los empleadores afiliados en los consejos directivos de las cajas de compensación familiar, se entenderá vacante por desafiliación del respectivo patrono.
 
 (Decreto 341 de 1988, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.7 — Objeto de la representación
 
@@ -15621,15 +13959,11 @@ En consecuencia, las personas que ejerzan dicha representación están sujetas a
 
 (Decreto 1531 de 1990, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.8 — Intereses de la representación
 
 Los representantes de los trabajadores beneficiarios del subsidio familiar en los consejos directivos en las Cajas de Compensación Familiar, representaran solamente los intereses de la comunidad de beneficiarios pertenecientes a la respectiva corporación, excluyendo cualquier interés particular relacionado con la persona designada, el empleador a que esté vinculada, la organización sindical, política, religiosa o de cualquier otro tipo a que pertenezca.
 
 (Decreto 1531 de 1990, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.9 — Legitimidad en la representación
 
@@ -15637,15 +13971,11 @@ Los representantes de los trabajadores beneficiarios del Subsidio Familiar ejerc
 
 (Decreto 1531 de 1990, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.10 — Inhabilidades e incompatibilidades
 
 En ningún caso podrán incluirse trabajadores beneficiarios que tengan contrato de trabajo o de otra clase con la corporación para la cual son nominados, de acuerdo al régimen de inhabilidades e incompatibilidades vigentes para los miembros de los consejos directivos.
 
 (Decreto 1531 de 1990, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.11 — Prohibición de pertenecer a más de un consejo
 
@@ -15655,23 +13985,17 @@ Los empleadores afiliados a las cajas de compensación familiar deberán permiti
 
 (Decreto 1531 de 1990, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.12 — Perdida de la calidad de representantes
 
 La calidad de representantes de los trabajadores se perderá en el caso de terminar la vinculación laboral del consejero con empleador afiliado a la respectiva Caja o por pérdida de la calidad del miembro o afiliado por parte del empleador.
 
 (Decreto 1531 de 1990, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.13 — Los consejeros suplentes
 
 Los consejeros suplentes sólo actuarán en las reuniones del Consejo Directivo, en ausencia del respectivo principal.
 
 (Decreto 341 de 1988, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.14 — Prohibición de parentesco
 
@@ -15685,8 +14009,6 @@ SECCIÓN 4
 
 REVISOR FISCAL
 
-ARTÍCULO
-
 ## art:2.2.7.1.4.1 — Informe del Revisor Fiscal
 
 El Revisor Fiscal presentará a la asamblea general un informe que deberá expresar:
@@ -15698,8 +14020,6 @@ El Revisor Fiscal presentará a la asamblea general un informe que deberá expre
 3. Si hay y son adecuadas las medidas de control interno y de conservación y custodia de los bienes de la caja de compensación familiar o de terceros, recibidos a título no traslaticio de dominio.
 
 (Decreto 341 de 1988, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.7.1.4.2 — Informe sobre los estados financieros
 
@@ -15727,8 +14047,6 @@ SECCIÓN 1
 
 CLASIFICACIÓN DE AFILIADOS Y ASPECTOS GENERALES SOBRE LA AFILIACIÓN AL RÉGIMEN DEL SUBSIDIO FAMILIAR
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.1 — Afiliados al régimen del subsidio familiar
 
 Son afiliados al régimen del Subsidio Familiar:
@@ -15738,8 +14056,6 @@ Son afiliados al régimen del Subsidio Familiar:
 2. Los pensionados que se hayan incorporado o que se incorporen en los términos de la Ley 71 de 1988.
 
 (Decreto 784 de 1989, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.2 — Clasificación de los afiliados al Régimen del Subsidio Familiar
 
@@ -15755,8 +14071,6 @@ Los afiliados al régimen del Subsidio Familiar, se clasifican así:
 
 (Decreto 784 de 1989, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.3 — Empleadores afiliados
 
 Son afiliados a una caja de compensación familiar los empleadores que por cumplir los requisitos establecidos y los respectivos estatutos de la Corporación, hayan sido admitidos por su Consejo Directivo o por su Director Administrativo, cuando le haya sido delegada tal facultad.
@@ -15767,23 +14081,17 @@ Los estatutos de las cajas de compensación señalarán los derechos y las oblig
 
 (Decreto 341 de 1988, Art. 42)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.4 — Publicación de los requisitos de afiliación
 
 Las cajas de compensación familiar fijarán en sus sedes, en lugares visibles al público, los requisitos de afiliación de que trata el presente título, con indicación del lugar donde recibirá la documentación, así como del término para resolver la solicitud.
 
 (Decreto 341 de 1988, Art. 40)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.5 — Prohibición de competencia desleal
 
 Las cajas de compensación familiar no podrán destinar recursos, ni efectuar campañas para promover la desafiliación de empleadores afiliados a otras cajas o que impliquen competencia desleal.
 
 (Decreto 341 de 1988, Art. 41)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.6 — Afiliados
 
@@ -15795,8 +14103,6 @@ Los estatutos de las cajas de compensación señalarán los derechos y las oblig
 
 (Decreto 341 de 1988, Art. 42)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.7 — Territorialidad de las Cajas de Compensación
 
 Para efectos de la aplicación del artículo 15 de la Ley 21 de 1982, se entiende que sólo en ausencia de una caja de compensación familiar que funcione en la ciudad o localidad donde se causen los salarios, el empleador podrá optar por una caja que funcione dentro de la ciudad o localidad más próxima dentro de los límites de los respectivos departamentos, intendencias o comisarías.
@@ -15804,8 +14110,6 @@ Para efectos de la aplicación del artículo 15 de la Ley 21 de 1982, se entiend
 Se entiende que una caja opera en una localidad cuando cumpla con las funciones señaladas en el artículo 41 de la Ley 21 de 1982, especialmente en lo que respecta al pago de subsidio en dinero, especie y servicios a los trabajadores beneficiarios.
 
 (Decreto 341 de 1988, Art. 43)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.8 — Determinación Caja de Compensación más cercana
 
@@ -15821,15 +14125,11 @@ SECCIÓN 2
 
 DE LA AFILIACIÓN DE LOS TRABAJADORES
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.1 — Afiliados a Cajas de Compensación Familiar
 
 La afiliación de los trabajadores se entiende con relación a una determinada Caja de Compensación Familiar en cuanto el respectivo empleador haya sido aceptado y permanezca vigente en vinculación por no haber sido objeto de retiro voluntario debidamente aceptado, expulsión o suspensión de conformidad con lo previsto en el artículo 45 de la citada Ley 21 de 1982. La afiliación de los pensionados permanece vigente desde su aceptación hasta su retiro voluntario, suspensión o pérdida de su calidad por el no pago de los aportes.
 
 (Decreto 784 de 1989, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.7.2.2.2 — Obligaciones de los empleadores sobre afiliación
 
@@ -15837,23 +14137,17 @@ Todos los empleadores tienen la obligación de informar oportunamente todo hecho
 
 (Decreto 784 de 1989, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.3 — Obligaciones de las Cajas para expedir carné de afiliación
 
 Las Cajas de Compensación Familiar tienen la obligación de expedir a todo afiliado un carné que lo identifique como tal.
 
 (Decreto 784 de 1989, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.4 — Efectos del carné de afiliación
 
 El carné de afiliación de la respectiva Caja de Compensación Familiar, dará derecho al afiliado a reclamar subsidio en especie y a la utilización de los servicios sociales de la respectiva entidad en los términos de sus reglamentos generales, así como los de aquellas otras Cajas con las cuales exista convenio para el intercambio de servicios.
 
 (Decreto 784 de 1989, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.7.2.2.5 — Contenido del carné de afiliación
 
@@ -15873,23 +14167,17 @@ El carné de afiliación al Régimen del Subsidio Familiar deberá contener la s
 
 (Decreto 784 de 1989, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.6 — Renovación del carné de afiliación
 
 El carné de afiliación, será renovado por lo menos una vez al año.
 
 (Decreto 784 de 1989, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.7 — Prórroga automática del carné de afiliación
 
 Terminado o suspendido el vínculo de afiliación del trabajador con la respectiva Caja, este podrá hacer uso de los programas sociales durante los dos (2) meses siguientes: La vigencia del carné de afiliación se prorrogará automáticamente por igual período.
 
 (Decreto 784 de 1989, Art. 9)
-
-ARTÍCULO
 
 ## art:2.2.7.2.2.8 — Indebida o fraudulenta utilización del carné de afiliación
 
@@ -15901,8 +14189,6 @@ SECCIÓN 3
 
 DE LA DESAFILIACIÓN
 
-ARTÍCULO
-
 ## art:2.2.7.2.3.1 — Desafiliación a las cajas de compensación
 
 El afiliado de una caja de compensación familiar puede desafiliarse mediante aviso escrito dirigido al Consejo Directivo. Las cajas de compensación familiar no podrán exigir un término superior a tres meses para efectos de desafiliación, contados a partir de la fecha de presentación de la solicitud correspondiente.
@@ -15910,8 +14196,6 @@ El afiliado de una caja de compensación familiar puede desafiliarse mediante av
 En los casos de suspensión por mora o de expulsión de afiliado, las cajas informarán por escrito al Inspector de Trabajo que tenga competencia en el domicilio del empleador, indicando el número de mensualidades adeudadas, a efecto de que se adopten las providencias del caso.
 
 (Decreto 341 de 1988, Art. 48)
-
-ARTÍCULO
 
 ## art:2.2.7.2.3.2 — Suspensión del afiliado
 
@@ -15921,8 +14205,6 @@ Las cajas de compensación familiar, mientras subsista la suspensión, podrán p
 
 (Decreto 341 de 1988, Art. 46)
 
-ARTÍCULO
-
 ## art:2.2.7.2.3.3 — Perdida de la calidad de afiliado
 
 La calidad de afiliado se pierde por retiro voluntario o por expulsión mediante decisión motivada del Consejo Directivo de la caja de compensación familiar, fundada en causa grave.
@@ -15930,8 +14212,6 @@ La calidad de afiliado se pierde por retiro voluntario o por expulsión mediante
 Corresponde al Consejo Directivo adoptar el procedimiento para la expulsión de afiliados.
 
 (Decreto 341 de 1988, Art. 47)
-
-ARTÍCULO
 
 ## art:2.2.7.2.3.4 — Pago de aportes adeudados
 
@@ -15941,23 +14221,17 @@ En igual obligación estará la caja cuando afilie empleadores que paguen aporte
 
 (Decreto 341 de 1988, Art. 49)
 
-ARTÍCULO
-
 ## art:2.2.7.2.3.5 — Nómina de salarios
 
 Los empleadores tienen obligación de enviar la respectiva nómina de salarios, cuando lo solicite la caja a que estuvieren afiliados y deben permitirle la revisión de las mismas en la sede de la empresa, o domicilio del patrono.
 
 (Decreto 341 de 1988, Art. 50)
 
-ARTÍCULO
-
 ## art:2.2.7.2.3.6 — Trámite judicial para el cumplimiento de las obligaciones
 
 Las cajas de compensación, el Servicio Nacional de Aprendizaje (SENA), la Escuela Superior de Administración Pública y los trabajadores beneficiarios del empleador desafiliado por mora en el pago de sus aportes, podrán exigir judicialmente el cumplimiento de la obligación.
 
 (Decreto 341 de 1988, Art. 51)
-
-ARTÍCULO
 
 ## art:2.2.7.2.3.7 — Factor para la liquidación de aportes
 
@@ -15973,23 +14247,17 @@ SECCIÓN 1
 
 AFILIACIÓN SERVICIO DOMÉSTICO
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.1 — Afiliación de empleadores de servicio doméstico
 
 Las personas naturales que ostenten la condición de empleadores de trabajadores del servicio doméstico, deberán afiliarse a una Caja de Compensación Familiar, de acuerdo con el procedimiento consagrado en el artículo 57 de la Ley 21 de 1982, modificado por el artículo 139 del Decreto-ley 019 de 2012.
 
 (Decreto 721 de 2013, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.2 — Afiliación de trabajadores del servicio doméstico
 
 Los trabajadores del servicio doméstico deberán ser afiliados por la persona natural para quien prestan sus servicios, a la Caja de Compensación Familiar que esta seleccione y que opere en el departamento dentro del cual se presten los servicios.
 
 (Decreto 721 de 2013, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.3 — Afiliación cuando existen varios empleadores
 
@@ -15999,15 +14267,11 @@ Cuando los servicios se presten en varios departamentos, aplicará el mismo prin
 
 (Decreto 721 de 2013, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.4 — Declaración y pago de aportes por conducto de la Planilla Integrada de Liquidación de Aportes
 
 Los empleadores realizarán la declaración y el pago de los aportes al Sistema de Compensación Familiar, en relación con los trabajadores del servicio doméstico, por conducto de la Planilla Integrada de Liquidación de Aportes. Para este fin, se mantendrá y actualizará por los Operadores de Información el registro de las categorías correspondientes.
 
 (Decreto 721 de 2013, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.5 — Base para la liquidación de aportes al Sistema de Compensación Familiar
 
@@ -16017,15 +14281,11 @@ PARÁGRAFO . La caja de compensación familiar, para efectos de reconocer las pr
 
 (Decreto 721 de 2013, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.6 — Cotización al Sistema de Compensación Familiar
 
 En el caso de trabajadores del servicio doméstico que laboren para un empleador por períodos inferiores a un mes, los empleadores realizarán el pago de los aportes al Sistema de Compensación Familiar conforme a las reglas generales. En el caso de establecerse el mecanismo de cotización por semanas, se aplicará para este tipo de trabajadores las disposiciones que en él se contengan.
 
 (Decreto 721 de 2013, Art. 7)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.7 — Derechos y beneficios de los trabajadores del servicio doméstico
 
@@ -16033,23 +14293,17 @@ Los trabajadores del servicio doméstico podrán acceder a todos los derechos y 
 
 (Decreto 721 de 2013, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.8 — Acceso a programas ofrecidos por las cajas de compensación familiar
 
 Las Cajas de Compensación Familiar promoverán el acceso a los servicios a su cargo para los trabajadores del servicio doméstico, en condiciones de igualdad y respecto de los demás trabajadores afiliados. Los Consejos Directivos de las Cajas de Compensación Familiar adoptaran la política de servicios y acceso para trabajadores domésticos, dentro de la cual podrán incorporarse programas específicos para la atención en servicio social de aquellos, así como esquemas de promoción de la afiliación.
 
 (Decreto 721 de 2013, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.9 — Coordinación en programas de seguridad y salud en el trabajo
 
 Las Cajas de Compensación Familiar y las ARL coordinarán de manera directa o mediante apoyo de terceros especializados, la prestación articulada de servicios para asegurar las mejores condiciones de trabajo y bienestar laboral, dentro de los lineamientos del Plan Nacional de Seguridad y Salud en el Trabajo.
 
 (Decreto 721 de 2013, Art. 10)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.10 — Inspección, vigilancia y control
 
@@ -16059,15 +14313,11 @@ PARÁGRAFO . El Ministerio del Trabajo podrá adoptar mecanismos de incentivo pa
 
 (Decreto 721 de 2013, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.11 — Condición para la aplicación del régimen contenido en el artículo 332 del Estatuto Tributario
 
 Para obtener los beneficios del régimen contenido en el artículo 332 del Estatuto Tributario, modificado por el artículo 10 de la Ley 1607 de 2012, es requisito indispensable que el empleador previamente se afilie a una Caja de Compensación Familiar.
 
 (Decreto 721 de 2013, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.12 — Obligación especial de la Unidad de Gestión de Pagos Pensiones y Contribuciones Parafiscales UGPP
 
@@ -16079,23 +14329,17 @@ SECCIÓN 2
 
 AFILIACIÓN DE LOS PENSIONADOS
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.1 — Objeto
 
 La presente sección tiene por objeto señalar los términos y condiciones del acceso de los pensionados a los servicios sociales ofrecidos por las Cajas de Compensación Familiar, para ampliar su cobertura y la protección de los adultos mayores.
 
 (Decreto 867 de 2014, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.2 — Ámbito de aplicación
 
 La presente sección aplica a los pensionados por vejez, invalidez, sobrevivientes a los que se refiere la Ley 1643 de 2013 y a su grupo familiar, a las Cajas de Compensación Familiar, las Administradoras de Fondos de Pensiones, las Administradoras de Riesgos Laborales y demás entidades públicas o privadas que reconocen y pagan pensiones.
 
 (Decreto 867 de 2014, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.3 — Afiliación
 
@@ -16113,15 +14357,11 @@ PARÁGRAFO 2. Las Cajas de Compensación Familiar identificarán las nuevas cate
 
 (Decreto 867 de 2014, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.4 — Permanencia de la afiliación y novedades
 
 El pensionado mantendrá su afiliación a la Caja de Compensación Familiar mientras ostente tal condición y tendrá la obligación de reportar a la Caja correspondiente cualquier circunstancia que modifique su condición de afiliación, en especial, la reliquidación de su mesada pensional o los cambios relacionados con su núcleo familiar cubierto, sin perjuicio de la verificación que adelantarán las Cajas.
 
 (Decreto 867 de 2014, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.5 — Obligaciones de las entidades pagadoras de pensiones
 
@@ -16135,8 +14375,6 @@ Colpensiones, la UGPP, las Administradoras de Fondos de Pensiones, las Administr
 
 (Decreto 867 de 2014, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.6 — Promoción de la afiliación
 
 Las Cajas de Compensación Familiar promoverán a través de los diferentes medios disponibles y mediante los acuerdos que celebren con las entidades pagadoras de pensiones, la afiliación de los pensionados y divulgarán las condiciones y los servicios sociales a que podrán acceder.
@@ -16145,15 +14383,11 @@ Los Consejos Directivos de las Cajas de Compensación Familiar deberán adoptar 
 
 (Decreto 867 de 2014, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.7 — Documentación para acreditarla condición de pensionado
 
 Los pensionados que se afilien a las Cajas de Compensación Familiar acreditarán su condición pensional por cualquier medio idóneo, entre otros, mediante certificación expedida por la entidad encargada del pago de la mesada pensionar, desprendible de pago de mesada pensional o el acto de reconocimiento del derecho pensional.
 
 (Decreto 867 de 2014, Art. 7)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.8 — Identificación del afiliado
 
@@ -16161,15 +14395,11 @@ Una vez afiliado el pensionado, accederá a los servicios mediante la presentaci
 
 (Decreto 867 de 2014, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.9 — Condiciones de los servicios para pensionados con mesada de hasta uno y medio (1.5) smlmv
 
 Los pensionados con mesada pensional de hasta uno y medio (1.5) SMLMV tendrán derecho de acceder a todos los servicios de recreación, deporte y cultura que ofrezcan las Cajas de Compensación Familiar, en las mismas condiciones de los trabajadores activos afiliados, sin pago de cotización alguna.
 
 (Decreto 867 de 2014, Art. 9)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.10 — Recursos para la atención de los servicios para pensionados con mesada de hasta uno y medio (1.5) smlmv
 
@@ -16179,23 +14409,17 @@ Las Cajas de Compensación Familiar establecerán mecanismos de seguimiento a la
 
 (Decreto 867 de 2014, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.11 — .11
 
 Aportes voluntarios de los pensionados con mesadas de hasta uno y medio (1.5) smlmv para acceder a los servicios distintos de recreación, deporte y cultura. Los pensionados con mesadas de hasta uno punto cinco (1.5) smlmv voluntariamente podrán aportar a las Cajas de Compensación Familiar el cero punto seis por ciento (0.6%) sobre la correspondiente mesada pensionar, para acceder adicionalmente a los servicios de turismo y capacitación, o el dos por ciento (2%) sobre la misma, para acceder a todas las prestaciones a que tienen derecho los trabajadores activos, excepto la cuota monetaria.
 
 (Decreto 867 de 2014, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.12 — Aporte para la afiliación voluntaria de pensionados con mesadas superiores a uno y medio (1.5) smlmv
 
 Los pensionados con mesadas superiores a uno y medio (1.5) smlmv, en su condición de afiliados voluntarios a las Cajas de Compensación Familiar, aportarán el cero punto seis por ciento (0.6%) sobre la correspondiente mesada pensionar, para acceder a los servicios de recreación, turismo y capacitación, o el dos por ciento (2%) sobre la misma, para acceder a todas las prestaciones a que tienen derecho los trabajadores activos, excepto la cuota monetaria de subsidio.
 
 (Decreto 867 de 2014, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.13 — Tarifas
 
@@ -16212,8 +14436,6 @@ TARIFAS, BENEFICIARIOS Y SERVICIOS DE LAS CAJAS DE COMPENSACIÓN FAMILIAR
 SECCIÓN 1
 
 CATEGORÍAS TARIFARIAS
-
-ARTÍCULO
 
 ## art:2.2.7.4.1.1 — Categorías tarifarías para los servicios sociales de las cajas de compensación familiar
 
@@ -16233,15 +14455,11 @@ PARÁGRAFO 1. Las Cajas de Compensación Familiar en la Categoría C podrán est
 
 (Decreto 827 de 2003, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.4.1.2 — Aplicación de categorías tarifarías para trabajadores dependientes del régimen especial de aportes
 
 Se deberán incluir en la Categoría B a los trabajadores dependientes, incluyendo las personas a su cargo, sobre los cuales su empleador cancele el 0.6%, no obstante la exención prevista en el artículo 13 de la Ley 789 de 2002. El trabajador dependiente que aporte la diferencia hasta completar el 2% tendrá los mismos derechos que se señalan en el parágrafo 10 del artículo 19 de la Ley 789 de 2002.
 
 (Decreto 827 de 2003, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.7.4.1.3 — 
 
@@ -16249,15 +14467,11 @@ ARTÍCULO
 
 (Decreto 827 de 2003, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.7.4.1.4 — Aplicación de categorías tarifarías para desempleados
 
 Los desempleados, de que trata el parágrafo 1 del artículo 19 de la Ley 789 de 2002, incluyendo las personas a su cargo, que aporten el dos por ciento (2%) de la cotización, sobre un ingreso base de cotización de dos (2) salarios mínimos legales mensuales vigentes, tendrán los mismos derechos que tienen los demás afiliados, salvo el subsidio monetario. Para efecto de las tarifas se entenderá que estas personas se encuentran en la categoría (B).
 
 (Decreto 827 de 2003, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.7.4.1.5 — Aplicación de categorías tarifarias para pensionados
 
@@ -16269,15 +14483,11 @@ SECCIÓN 2
 
 DE LA CALIDAD DE BENEFICIARIO DEL SUBSIDIO FAMILIAR Y DE LAS PERSONAS A CARGO
 
-ARTÍCULO
-
 ## art:2.2.7.4.2.1 — Subsidios en especie
 
 Los subsidios en especie deberán brindarse en forma general e igualdad de condiciones para los beneficiarios.
 
 (Decreto 341 de 1988, Art. 54)
-
-ARTÍCULO
 
 ## art:2.2.7.4.2.2 — Parentesco y convivencia
 
@@ -16285,15 +14495,11 @@ La convivencia con los hijos legítimos, naturales, adoptivos e hijastros, con l
 
 (Decreto 341 de 1988, Art. 56)
 
-ARTÍCULO
-
 ## art:2.2.7.4.2.3 — Límite de remuneración
 
 Para efectos del límite de remuneración a que hace referencia el artículo 20 de la ley 21 de 1982, en el caso de trabajadores que prestan sus servicios a más de un empleador, se tendrá en cuenta la suma de los valores recibidos en los distintos empleos.
 
 (Decreto 341 de 1988, Art. 58)
-
-ARTÍCULO
 
 ## art:2.2.7.4.2.4 — Jornada fija diaria
 
@@ -16302,8 +14508,6 @@ En el evento del artículo 24 de la Ley 21 de 1982, si el trabajador tiene jorna
 En los casos de horario variable cuando deban demostrarse 96 horas de labor al mes para tener derecho al subsidio familiar, se tendrán como laboradas en los días de descanso, el promedio de las horas que figuren en las planillas de control llevadas por el empleador.
 
 (Decreto 341 de 1988, Art. 59)
-
-ARTÍCULO
 
 ## art:2.2.7.4.2.5 — Del pago del valor adicional a los trabajadores del sector agropecuario
 
@@ -16317,23 +14521,17 @@ SECCIÓN 3
 
 PROGRAMAS SOCIALES
 
-ARTÍCULO
-
 ## art:2.2.7.4.3.1 — Campo de aplicación de los programas sociales
 
 Las obras y programas sociales que organicen las Cajas de Compensación Familiar conforme a los artículos 62 y 77 de la Ley 21 de 1982, tienen como finalidad el reconocimiento y pago del Subsidio Familiar en servicios o en especie a los afiliados, beneficiarios, personas a cargo y a la comunidad en general, en los campos y orden de prioridades previstos por la Ley.
 
 (Decreto 784 de 1989, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.7.4.3.2 — Objeto de los programas sociales
 
 La organización de programas sociales de las Cajas, a través del subsidio en especie y en servicios, tiene por objeto restablecer o aliviar el desequilibrio económico familiar que producen hechos tales como el embarazo, el nacimiento, la desnutrición, la crianza y educación de los hijos, los problemas de adolescencia, el matrimonio, la enfermedad, la invalidez, la muerte, la orfandad, el abandono y demás causas de desprotección.
 
 (Decreto 784 de 1989, Art. 13)
-
-ARTÍCULO
 
 ## art:2.2.7.4.3.3 — Administración de los programas sociales
 
@@ -16361,8 +14559,6 @@ SECCIÓN 4
 
 MODALIDADES DE PAGO DEL SUBSIDIO EN SERVICIOS
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.1 — Modalidades para la prestación de los servicios de salud
 
 Los servicios de salud que organicen las cajas de compensación familiar, podrán tener las siguientes modalidades, utilizando preferencialmente la capacidad instalada disponible.
@@ -16376,8 +14572,6 @@ Los servicios de salud que organicen las cajas de compensación familiar, podrá
 4. Contratación de profesionales u otras instituciones especializadas en la prestación de servicios de salud.
 
 (Decreto 784 de 1989, Art. 20)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.2 — Finalidades de los servicios de salud
 
@@ -16403,8 +14597,6 @@ Los servicios de salud que presten las Cajas de Compensación Familiar estarán 
 
 (Decreto 784 de 1989, Art. 21)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.3 — Los servicios sociales de nutrición y mercadeo
 
 Los programas de nutrición y mercadeo social que desarrollen las cajas de compensación familiar estarán orientados a las siguientes finalidades principales:
@@ -16423,8 +14615,6 @@ Los programas de nutrición y mercadeo social que desarrollen las cajas de compe
 
 (Decreto 784 de 1989, Art. 24)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.4 — Actividad de mercadeo
 
 La actividad de mercadeo que desarrollan las Cajas de Compensación Familiar en todo el territorio nacional, deberá ejecutarse bajo el criterio de autosostenibilidad, (sic) de tal manera que se garantice que los ingresos provenientes de dicha actividad, absorban plenamente sus egresos.
@@ -16432,8 +14622,6 @@ La actividad de mercadeo que desarrollan las Cajas de Compensación Familiar en 
 Para este fin, podrán asociarse entre sí o con terceros, así como vincular en calidad de accionistas a los trabajadores afiliados al sistema de compensación.
 
 (Decreto 2889 de 2007, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.5 — Requisitos para adelantar actividades de mercadeo
 
@@ -16445,23 +14633,17 @@ Cuando las Cajas de Compensación Familiar financien las actividades de mercadeo
 
 (Decreto 2889 de 2007, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.6 — No autorización para recaudo de parafiscales
 
 Las actividades de mercadeo que desarrollen las Cajas de Compensación Familiar, no las autoriza para afiliar y recaudar los aportes parafiscales del subsidio familiar, fuera de su jurisdicción departamental.
 
 (Decreto 2889 de 2007, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.7 — Régimen de Transparencia
 
 Las Cajas de Compensación Familiar deberán atender las disposiciones previstas en el Régimen de Transparencia previsto en el artículo 21 de la Ley 789 de 2002.
 
 (Decreto 2889 de 2007, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.8 — Inspección, vigilancia y control
 
@@ -16471,15 +14653,11 @@ En todo caso, la Superintendencia de Subsidio Familiar podrá ejercer el control
 
 (Decreto 2889 de 2007, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.9 — Mercadeo de las Cajas de Compensación Familiar
 
 Las Cajas que realicen actividades de mercadeo tendrán que acreditar independencia contable financiera y operativa, sin que puedan comprometer con su operación de expansión o mantenimiento, los recursos provenientes de los aportes parafiscales o de cualquier otra unidad o negocio de la Caja de Compensación Familiar. Esta actividad podrá financiarse, con los remanentes de los ejercicios financieros, con las utilidades derivadas de otras unidades de negocio, con recursos de crédito o aportes de capital de terceras personas, con alianzas estratégicas que lleven a cabo o con cualquier otro mecanismo que permita la viabilidad del negocio y garantice no subsidiar la operación con los recursos del 4%.
 
 (Decreto 827 de 2003, Art. 22)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.10 — Los programas de educación
 
@@ -16496,8 +14674,6 @@ Los programas de Formación para el Trabajo y el Desarrollo Humano que adelanten
 5. Organizar eventos científicos y culturales a los cuales tengan acceso los afiliados, sus familias y la comunidad en general.
 
 (Decreto 784 de 1989, Art. 26)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.11 — Los programas sociales de vivienda
 
@@ -16517,8 +14693,6 @@ Los programas sociales de vivienda que organicen las cajas de compensación fami
 
 (Decreto 784 de 1989, Art. 27)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.12 — Los servicios de crédito de fomento
 
 Los servicios de crédito de fomento para industrias familiares que otorguen las cajas de compensación familiar, estarán orientados por las siguientes finalidades principales:
@@ -16537,8 +14711,6 @@ Los servicios de crédito de fomento para industrias familiares que otorguen las
 
 (Decreto 784 de 1989, Art. 28)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.13 — Los servicios de recreación social
 
 Los servicios de recreación social que adelanten las cajas de compensación familiar, estarán orientados por las siguientes finalidades principales:
@@ -16555,8 +14727,6 @@ PARÁGRAFO . Las cajas de compensación familiar auspiciarán la utilización de
 
 (Decreto 784 de 1989, Art. 29)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.14 — Programas especiales de vacaciones
 
 Las cajas de compensación familiar podrán convenir con los empleadores o trabajadores afiliados la realización de programas especiales de vacaciones para estos y sus familias.
@@ -16564,8 +14734,6 @@ Las cajas de compensación familiar podrán convenir con los empleadores o traba
 Para los efectos anteriores, los trabajadores podrán autorizar a su respectivo empleador para que haga descuentos sobre salarios o gire directamente auxilios, bonificaciones o primas de carácter especial para abonar o cancelar obligaciones contraídas con las cajas de compensación familiar.
 
 (Decreto 784 de 1989, Art. 30)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.15 — Reglamentación de la utilización de los servicios sociales
 
@@ -16577,8 +14745,6 @@ Los convenios celebrados entre cajas de compensación familiar para la atención
 
 (Decreto 784 de 1989, Art. 31)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.16 — Programas de educación básica y media
 
 Las Cajas de compensación Familiar deben ofrecer a las personas a cargo de los trabajadores beneficiarios programas de educación básica y media, administrados en forma directa o contratados con una institución educativa legalmente reconocida por el Estado, de acuerdo con su proyecto educativo institucional.
@@ -16588,8 +14754,6 @@ En los programas respectivos se indicarán los criterios de selección de los al
 PARÁGRAFO . Las Cajas de Compensación Familiar que al 5 de agosto de 1994 venían prestando el servicio de educación básica y media a través de establecimientos educativos de su propiedad, deberán garantizar que éste se brinde en forma prioritaria a los hijos de sus trabajadores beneficiarios.
 
 (Decreto 1902 de 1994, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.17 — Destinación de recursos para los programas de educación básica y media
 
@@ -16601,8 +14765,6 @@ Pueden estar representados por otorgamiento de becas, cupos gratuitos en estable
 
 (Decreto 1902 de 1994, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.18 — Destinatarios del subsidio familiar en especie para los programas de educación básica y media
 
 Para hacerse acreedores al subsidio familiar educativo en especie, los trabajadores beneficiarios deberán demostrar ante la respectiva Caja de Compensación Familiar que los ingresos familiares son inferiores a cuatro (4) salarios mínimos legales.
@@ -16611,15 +14773,11 @@ Las pruebas y procedimientos para tales efectos será reguladas por la Superinte
 
 (Decreto 1902 de 1994, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.7.4.4.19 — Modalidades de los programas de educación básica y media
 
 Las Cajas de Compensación Familiar pueden ofrecer los programas de educación básica y media en forma presencial o semiescolarizada, propiciando la culminación de la educación básica y media a los hijos de los trabajadores afiliados a las cajas.
 
 (Decreto 1902 de 1994, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.7.4.4.20 — Inspección y vigilancia de los programas de educación básica y media
 
@@ -16689,15 +14847,11 @@ SECCIÓN 5
 
 MODALIDADES DE PAGO DEL SUBSIDIO EN ESPECIE
 
-ARTÍCULO
-
 ## art:2.2.7.4.5.1 — El subsidio familiar en especie
 
 Las Cajas de Compensación Familiar, conforme al artículo 5 de la Ley 21 de 1982, podrán reconocer subsidio familiar en especie, consistente en alimentos, vestidos, becas de estudio, textos escolares, drogas y demás frutos o géneros diferentes al dinero.
 
 (Decreto 784 de 1989, Art. 14)
-
-ARTÍCULO
 
 ## art:2.2.7.4.5.2 — Forma de reconocimiento del subsidio familiar en especie
 
@@ -16706,8 +14860,6 @@ El subsidio en especie podrá ser reconocido y entregado directamente en artícu
 Las órdenes o cualquier otro medio que fuere utilizable para estos efectos, no serán redimibles en dinero, ni transferibles.
 
 (Decreto 784 de 1989, Art. 15)
-
-ARTÍCULO
 
 ## art:2.2.7.4.5.3 — Modalidades del subsidio en especie
 
@@ -16741,8 +14893,6 @@ El subsidio familiar en especie, podrá consistir en el suministro de:
 
 (Decreto 784 de 1989, Art. 16)
 
-ARTÍCULO
-
 ## art:2.2.7.4.5.4 — Igualdad en los Subsidios en especie
 
 Los Subsidios en especie deberán brindarse en forma general y en igualdad de condiciones para los beneficiarios.
@@ -16757,15 +14907,11 @@ SECCIÓN 1
 
 ACTIVOS
 
-ARTÍCULO
-
 ## art:2.2.7.5.1.1 — Depreciación de Activos fijos
 
 Los activos fijos de las entidades vigiladas se depreciarán de conformidad con las disposiciones legales vigentes.
 
 (Decreto 341 de 1988, Art. 63)
-
-ARTÍCULO
 
 ## art:2.2.7.5.1.2 — Destinación activos fijos
 
@@ -16773,23 +14919,17 @@ El valor de los activos fijos que no se destinen específicamente a programas y 
 
 (Decreto 341 de 1988, Art. 64)
 
-ARTÍCULO
-
 ## art:2.2.7.5.1.3 — Adquisición de Activos Fijos
 
 Para los efectos del artículo 2.2.7.5.1.2. del presente Decreto, la adquisición de los activos fijos que no se destinen específicamente a programas y servicios sociales de las cajas de compensación familiar deberá hacerse calculando que el valor de la depreciación que correspondería al activo en el respectivo ejercicio, no genere un exceso sobre el porcentaje autorizado en la ley para gastos de instalación, administración y funcionamiento.
 
 (Decreto 341 de 1988, Art. 65)
 
-ARTÍCULO
-
 ## art:2.2.7.5.1.4 — Sanciones
 
 El exceso en que incurran las Corporaciones sobre el porcentaje autorizado en el artículo 43, ordinal 2o, de la Ley 21 de 1982, dará lugar a la aplicación de las sanciones legales correspondientes.
 
 (Decreto 341 de 1988, Art. 66)
-
-ARTÍCULO
 
 ## art:2.2.7.5.1.5 — Apropiaciones de Rendimientos y productos líquidos
 
@@ -16805,8 +14945,6 @@ SECCIÓN 2
 
 DE LA RESERVA LEGAL
 
-ARTÍCULO
-
 ## art:2.2.7.5.2.1 — Reserva legal
 
 La reserva legal de las cajas de compensación familiar será hasta del 3% de sus recaudos por concepto de Subsidio Familiar obtenido en el semestre inmediatamente anterior, de conformidad con lo dispuesto en el numeral 3, del artículo 43 de la Ley 21 de 1982.
@@ -16819,15 +14957,11 @@ Disminuida o agotada la reserva deberá conformarse nuevamente en los títulos c
 
 SECCIÓN 3
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.1 — Objeto
 
 El objeto de la presente sección es establecer el régimen de autorización para los planes, programas y proyectos de inversión en obras o servicios sociales que desarrollen las Cajas de Compensación Familiar, fijar condiciones sobre la utilización de los recursos parafiscales bajo su administración y sobre aquellos de otra naturaleza, y dictar normas para asegurar el adecuado uso de los recursos destinados por estas corporaciones a la ejecución de los servicios sociales a su cargo, con prioridad para la atención de los trabajadores afiliados beneficiarios y sus familias.
 
 (Decreto 1053 de 2014, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.7.5.3.2 — Afectación de los recursos administrados por las cajas de compensación familiar
 
@@ -16842,8 +14976,6 @@ En la contabilidad de las Cajas de Compensación Familiar se deberán registrar 
 Los activos que hayan sido adquiridos con recursos parafiscales pertenecen al sector de los trabajadores y su titularidad corresponderá a las Cajas de Compensación Familiar en condición de administradoras.
 
 (Decreto 1053 de 2014, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.7.5.3.3 — Régimen de autorización para planes, programas y proyectos de inversión en obras o servicios sociales
 
@@ -16873,8 +15005,6 @@ PARÁGRAFO 2. Los proyectos deberán ser presentados en forma integral y corresp
 
 (Decreto 1053 de 2014, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.4 — Autorización previa para planes, programas y proyectos de inversión en obras o servicios sociales
 
 Los planes, programas y proyectos de inversión en obras o servicios sociales cuya ejecución no encuadre dentro de los supuestos señalados en el artículo 2.2.7.5.3.3. del presente Decreto, requerirán de autorización previa por parte de la Superintendencia del Subsidio Familiar.
@@ -16885,23 +15015,17 @@ PARÁGRAFO . La ejecución de proyectos podrá comprometer recursos correspondie
 
 (Decreto 1053 de 2014, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.5 — Control sobre los planes, programas y proyectos de inversión para obras o servicios sociales
 
 La Superintendencia del Subsidio Familiar ejercerá control sobre los planes, programas y proyectos de inversión para obras o servicios sociales ejecutados por las Cajas de Compensación Familiar. Para ello adoptará anualmente un plan de trabajo que permita validar que los mismos se hayan ejecutado conforme al marco legal vigente. En especial, verificará que el objeto de aquellos atienda las necesidades prioritarias de la población afiliada, con énfasis en la cobertura para los trabajadores beneficiarios y sus familias.
 
 (Decreto 1053 de 2014, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.6 — 3.6
 
 Permisos, licencias o autorizaciones para la ejecución de los planes, programas y proyectos de inversión para obras o servicios sociales. Cuando se trate de actividades o programas que requieran autorizaciones o permisos, se entenderá como responsabilidad de la respectiva Caja o entidad a través de la cual se realice la operación, la consecución de los permisos, licencias o autorizaciones, sin los cuales no se puede llevar adelante la ejecución de las actividades o programas.
 
 (Decreto 1053 de 2014, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.7.5.3.7 — De los recursos para el desarrollo de los planes, programas y proyectos de inversión para obras o servicios sociales
 
@@ -16910,8 +15034,6 @@ Los recursos que provengan de los aportes parafiscales administrados por las Caj
 Las obras o servicios sociales que se ejecuten con recursos que provengan de aportes obligatorios podrán cobijar a población no afiliada solamente cuando exista norma que así lo permita y en las condiciones que ella disponga, sin que en ningún caso puedan aplicarse tales aportes para subsidiar a trabajadores no beneficiarios o a población no afiliada.
 
 (Decreto 1053 de 2014, Art. 7)
-
-ARTÍCULO
 
 ## art:2.2.7.5.3.8 — 3.8
 
@@ -16931,8 +15053,6 @@ PARÁGRAFO . El Ministerio del Trabajo adoptará los criterios generales de prio
 
 (Decreto 1053 de 2014, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.9 — 3.9
 
 Intervención de la Superintendencia del Subsidio Familiar en relación con los recursos para el desarrollo de los planes, programas y proyectos de inversión para obras o servicios sociales. La Superintendencia del Subsidio Familiar ejercerá de preferencia sus funciones de inspección, vigilancia y control sobre la administración de los recursos a que se refiere el artículo 2.2.7.5.3.7. del presente Decreto, para verificar que se cumpla con los criterios señalados en el artículo 2.2.7.5.3.8. del presente Decreto, con las directrices contables que ella imparta y con la realización de los fines del sistema de subsidio familiar.
@@ -16940,8 +15060,6 @@ Intervención de la Superintendencia del Subsidio Familiar en relación con los 
 Así mismo adoptará las instrucciones administrativas y contables que se requieran, disponiendo los mecanismos de control pertinentes sobre las cuentas en que se gestionen los recursos referidos, sin perjuicio de aplicar los principios de eficiencia y eficacia para el adecuado manejo financiero de las Cajas de Compensación Familiar.
 
 (Decreto 1053 de 2014, Art. 9)
-
-ARTÍCULO
 
 ## art:2.2.7.5.3.10 — Solicitud para la aprobación de planes y programas de inversión y servicios sociales
 
@@ -16961,8 +15079,6 @@ La solicitud para aprobación de planes y programas de inversión o de organizac
 
 (Decreto 341 de 1988, Art. 73)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.11 — Negociación de inmuebles
 
 Para efectos de la negociación de, bienes inmuebles, las Cajas de Compensación Familiar, deberán acreditar ante la Superintendencia del Subsidio Familiar o la entidad que haga sus veces, lo siguiente:
@@ -16979,8 +15095,6 @@ Una vez presentada ante la Superintendencia del Subsidio Familiar o la entidad q
 
 (Decreto 827 de 2003, Art. 21)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.12 — Estudio de la solicitud de programas de inversión
 
 Recibida la solicitud de aprobación de un programa de inversión, la Superintendencia deberá estudiarla dentro de los 30 días siguientes a su presentación.
@@ -16993,8 +15107,6 @@ La petición respectiva deberá estudiarse y resolverse dentro de los quince (15
 
 (Decreto 341 de 1988, Art. 76)
 
-ARTÍCULO
-
 ## art:2.2.7.5.3.13 — De los recursos originados en fuentes diferentes a los aportes obligatorios
 
 Los Consejos Directivos de las Cajas de Compensación Familiar definirán la aplicación de los recursos que administren aquellas y que provengan de fuentes diferentes a los aportes obligatorios de naturaleza parafiscal. Dichos recursos serán empleados para los fines que la ley y los estatutos asignan a las Cajas de Compensación Familiar y están afectos al sector trabajo. Su aplicación se hará para fortalecer las obras y servicios sociales dentro de la protección social, conforme lo previsto por el artículo 16 de la Ley 789 de 2002, en desarrollo de su naturaleza corporativa y no podrán bajo modalidad alguna distraerse o excluirse del patrimonio de la corporación.
@@ -17004,8 +15116,6 @@ Los Consejos Directivos de las Cajas de Compensación Familiar definirán la apl
 SECCIÓN 4
 
 PRESUPUESTOS DE LAS CAJAS DE COMPENSACIÓN FAMILIAR
-
-ARTÍCULO
 
 ## art:2.2.7.5.4.1 — Presupuesto de las Cajas de Compensación Familiar
 
@@ -17039,23 +15149,17 @@ SECCIÓN 5
 
 CONTROL A LA EVASIÓN Y RÉGIMEN DE TRANSPARENCIA
 
-ARTÍCULO
-
 ## art:2.2.7.5.5.1 — Acuerdos de pago
 
 Para efectos de lo previsto en el artículo 50 parágrafo 3 de la Ley 789 de 2002 y con el fin facilitar el cumplimiento de las obligaciones relacionadas con el control de la evasión en materia de recursos parafiscales, el paz y salvo de aportes otorgado por parte de las Cajas de Compensación Familiar, podrá ser reemplazado con los acuerdos de pago que hayan celebrado estas con los empleadores atrasados en el pago de aportes. El acuerdo de que trata este artículo deberá estar debidamente firmado por los representantes legales tanto de la Caja como del empleador y este deberá encontrarse al día en el cumplimiento de sus obligaciones.
 
 (Decreto 827 de 2003, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.7.5.5.2 — Régimen de transparencia
 
 De conformidad con lo dispuesto por el artículo 21, numeral 5 de la Ley 789 de 2002, está totalmente prohibida la devolución, reintegro o cualquier tipo de compensación de aportes en favor de una empresa mediante servicios o beneficios que no se otorguen a todas las empresas afiliadas. Están igualmente prohibidos los convenios u operaciones especiales que se realicen en condiciones especiales de privilegio frente a algunas de las empresas afiliadas. En consecuencia, a partir de la vigencia de la Ley 789 de 2002, se deberá efectuar el desmonte inmediato de tales operaciones, sin perjuicio de las sanciones a que hubiere lugar cuando con las actuaciones mencionadas se hubiesen desconocido disposiciones anteriores.
 
 (Decreto 827 de 2003, Art. 11)
-
-ARTÍCULO
 
 ## art:2.2.7.5.5.3 — Operaciones no representativas
 
@@ -17069,8 +15173,6 @@ Para efectos de la aplicación del artículo 21, numeral 2 de la Ley 789 de 2002
 
 FONDO PARA LA ATENCIÓN INTEGRAL DE LA NIÑEZ Y LA JORNADA ESCOLAR COMPLEMENTARIA (FONIÑEZ)
 
-ARTÍCULO
-
 ## art:2.2.7.6.1 — Fondo para la Atención Integral de la Niñez y Jornada Escolar Complementaria, Foniñez
 
 Las Cajas de Compensación Familiar destinarán los recursos o porcentajes previstos en el literal b) del artículo 64 de la Ley 633 de 2000 al Fondo para la Atención Integral de la Niñez y Jornada Escolar Complementaria (FONIÑEZ), creado por el artículo 16 numeral 8 de la Ley 789 de 2002, sin necesidad de ser trasladados al Fondo de Vivienda de Interés Social (FOVIS).
@@ -17082,8 +15184,6 @@ Los recursos del FONIÑEZ se destinarán de forma exclusiva a la prestación de 
 (Modificado por el Art. 1 del Decreto 1786 de 2021)
 
 (Decreto 1729 de 2008, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.7.6.2 — Beneficiarios
 
@@ -17101,8 +15201,6 @@ PARÁGRAFO 2. Las Cajas de Compensación Familiar efectuarán el reporte de info
 
 (Decreto 1729 de 2008, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.7.6.3 — Objetivo general de los programas de FONIÑEZ
 
 Los programas y servicios que ejecuten las Cajas de Compensación Familiar para la Atención Integral a la Primera Infancia y de Jornada Escolar Complementaria, deben contribuir con el desarrollo integral de los niños, niñas y adolescentes, y contar con la participación de la comunidad y de la familia en su seguimiento, enmarcado en las políticas públicas de desarrollo integral de la primera infancia, la infancia y la adolescencia.
@@ -17112,8 +15210,6 @@ PARÁGRAFO . Para los niños, niñas y adolescentes con discapacidad, las entida
 (Modificado por el Art. 1 del Decreto 1786 de 2021)
 
 (Decreto 1729 de 2008, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.7.6.4 — Objetivos de los Programas de Atención Integral a la Primera Infancia
 
@@ -17138,8 +15234,6 @@ PARÁGRAFO 2. Las Cajas de Compensación Familiar desarrollarán los programas d
 (Modificado por el Art. 1 del Decreto 1786 de 2021)
 
 (Decreto 1729 de 2008, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.7.6.5 — Objetivos del Programa Jornada Escolar Complementaria
 
@@ -17171,8 +15265,6 @@ PARÁGRAFO 3. Los programas de Jornada Escolar Complementaria se desarrollarán 
 
 (Decreto 1729 de 2008, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.6.6 — Asistencia Técnica para el desarrollo de programas y servicios con cargo a los recursos del FONIÑEZ
 
 El Ministerio del Trabajo con base en las orientaciones técnicas dadas por las entidades que integran la Comisión lntersectorial para la Atención Integral de la Primera Infancia, y la instancia que corresponda para infancia y adolescencia, en lo referido los programas y servicios en el marco de la de Atención Integral a la Primera Infancia, la infancia y la adolescencia, y con el Ministerio de Educación Nacional en lo referido a la jornada escolar complementaria (JEC), en articulación con las Cajas de Compensación Familiar, expedirá los lineamientos técnicos para el desarrollo de los programas financiados con los recursos del FONIÑEZ, dentro de los seis {6) meses siguientes a la expedición del presente decreto.
@@ -17184,8 +15276,6 @@ PARÁGRAFO . Para la estructuración de las Jornadas Escolares Complementarias, 
 (Modificado por el Art. 1 del Decreto 1786 de 2021)
 
  (Decreto 1729 de 2008, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.7.6.7 — Planes Operativos para la Ejecución de los Recursos del FONIÑEZ
 
@@ -17199,8 +15289,6 @@ La Superintendencia del Subsidio Familiar remitirá esta información consolidad
 
  (Decreto 1729 de 2008, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.7.6.8 — Convenios
 
 Los programas financiados con cargo al FONIÑEZ se podrán ejecutar mediante convenios suscritos entre las Cajas de Compensación Familiar y las entidades competentes del orden nacional, departamental, distrital o municipal, o entidades privadas idóneas para el desarrollo de estos, en los términos del régimen especial previsto en el numeral 3 del artículo 41 de la Ley 21 de 1982 y los numerales 1, 5 y 6 del artículo 16 de la Ley 789 de 2002.
@@ -17211,15 +15299,11 @@ PARÁGRAFO . Los Programas de Atención Integral de la Primera Infancia y Jornad
 
 (Decreto 1729 de 2008, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.6.9 — Inspección, Vigilancia y Control
 
 Los programas de Atención Integral a la Primera Infancia y de Jornada Escolar Complementaria tendrán inspección, vigilancia y control por parte de la Superintendencia de Subsidio Familiar, conforme a los lineamientos establecidos en los artículos .2.7.6.4, 2.2.7.6.5, 2.2.7.6.6, 2.2.7.6.10 del presente decreto.
 
 (Modificado por el Art. 1 del Decreto 1786 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.7.6.10 — Periodo de transición
 
@@ -17231,23 +15315,17 @@ CAPITULO 7
 
 CONTROL DE LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR
 
-ARTÍCULO
-
 ## art:2.2.7.7.1 — Inspección, vigilancia y control
 
 Corresponde a la Superintendencia del Subsidio Familiar ejercer la inspección y vigilancia de las entidades encargadas de recaudar los aportes y pagar las asignaciones del subsidio familiar, con el propósito de que su constitución y funcionamiento se ajusten a las leyes, los decretos y a los mismos estatutos internos de la entidad vigilada.
 
 (Decreto 341 de 1988, Art. 77)
 
-ARTÍCULO
-
 ## art:2.2.7.7.2 — Facultades de la Superintendencia del Subsidio Familiar en el régimen de transparencia
 
 Para efectos del cumplimiento del artículo 2.2.7.7.1. del presente Decreto y en general para los fines contenidos en el régimen de transparencia consagrado en el artículo 21 de la Ley 789 de 2002, la Superintendencia del Subsidio Familiar o la entidad que haga sus veces, podrá imponer sanciones o multas, a los Directores Administrativos, a los funcionarios de las Cajas, a los empleadores y a los revisores fiscales, que incurran en cualquiera de las conductas señaladas como contrarias a la ley y al régimen de transparencia.
 
 (Decreto 827 de 2003, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.7.7.3 — Control administrativo, financiero y contable
 
@@ -17256,8 +15334,6 @@ El Control administrativo, financiero y contable que ejerza el Superintendente d
 PARÁGRAFO . La Superintendencia del Subsidio Familiar podrá solicitar la información correspondiente en los modelos diseñados para tal efecto.
 
 (Decreto 341 de 1988, Art. 78)
-
-ARTÍCULO
 
 ## art:2.2.7.7.4 — Visitas de la Superintendencia de Subsidio Familiar
 
@@ -17269,8 +15345,6 @@ Serán visitas especiales las realizadas para verificar aspectos específicos de
 
 (Decreto 341 de 1988, Art. 79)
 
-ARTÍCULO
-
 ## art:2.2.7.7.5 — Visitas Ordinarias
 
 Durante las visitas ordinarias se verificarán entre otros aspectos, los relacionados con la situación general de la entidad vigilada, el cumplimiento de los porcentajes legales en el manejo de los recursos, la adecuada prestación de los servicios a su cargo, y el acatamiento al régimen de inhabilidades e incompatibilidades.
@@ -17279,15 +15353,11 @@ La Superintendencia podrá formular recomendaciones tendientes a preservar el bu
 
 (Decreto 341 de 1988, Art. 80)
 
-ARTÍCULO
-
 ## art:2.2.7.7.6 — Visitas de oficio o a petición de parte
 
 Las visitas que efectúe la Superintendencia del Subsidio Familiar podrán realizarse de oficio o a petición de parte.
 
 (Decreto 341 de 1988, Art. 81)
-
-ARTÍCULO
 
 ## art:2.2.7.7.7 — Orden para practicarlas visitas
 
@@ -17303,15 +15373,11 @@ Para ordenar la práctica de las visitas a las entidades vigiladas, el Superinte
 
 (Decreto 341 de 1988, Art. 82)
 
-ARTÍCULO
-
 ## art:2.2.7.7.8 — Documentos base de orden de visita a petición de parte
 
 Cuando la Superintendencia del Subsidio Familiar adelante visitas a las entidades vigiladas, motivadas en quejas de parte interesada, se informará al representante legal de la entidad, de las peticiones, documentos allegados, y demás circunstancias que sirvieron de base para ordenar la visita.
 
 (Decreto 341 de 1988, Art. 83)
-
-ARTÍCULO
 
 ## art:2.2.7.7.9 — Comisión de visitadores
 
@@ -17319,23 +15385,17 @@ Para integrar la comisión de visitadores, la Superintendencia tendrá en cuenta
 
 (Decreto 341 de 1988, Art. 84)
 
-ARTÍCULO
-
 ## art:2.2.7.7.10 — Practica de las visitas
 
 Para la práctica de las visitas a los entes vigilados por la Superintendencia del Subsidio Familiar, los funcionarios comisionados se presentarán en horas hábiles ante el representante legal de la entidad y darán a conocer el objeto de su comisión.
 
 (Decreto 341 de 1988, Art. 85)
 
-ARTÍCULO
-
 ## art:2.2.7.7.11 — Objeto de las visitas
 
 Los funcionarios comisionados por el Superintendente del Subsidio Familiar deberán limitarse estrictamente al objeto de la visita de conformidad con el acto administrativo que la ordene y mantendrán la reserva debida en el manejo de la información.
 
 (Decreto 341 de 1988, Art. 86)
-
-ARTÍCULO
 
 ## art:2.2.7.7.12 — Solicitud formal de documentos
 
@@ -17345,15 +15405,11 @@ Las copias de la documentación que sea procedente anexar al expediente, deberá
 
 (Decreto 341 de 1988, Art. 87)
 
-ARTÍCULO
-
 ## art:2.2.7.7.13 — Acta de las visitas
 
 De las visitas practicadas por la Superintendencia del Subsidio Familiar a las entidades por ella vigiladas, se levantará acta en la que se especificarán las situaciones investigadas, las constancias que quieran dejarse, y demás pormenores pertinentes de lo realizado. El acta será firmada por quienes hayan intervenido en la visita. Una copia de la misma deberá ser entregada al representante de la entidad visitada.
 
 (Decreto 341 de 1988, Art. 88)
-
-ARTÍCULO
 
 ## art:2.2.7.7.14 — Informe de las visitas
 
@@ -17375,8 +15431,6 @@ El informe deberá contener:
 
 (Decreto 341 de 1988, Art. 89)
 
-ARTÍCULO
-
 ## art:2.2.7.7.15 — Apertura de Pliego de Cargos
 
 Si del informe presentado se concluye que hay violación de normas legales o estatutarias, el Jefe de la Sección de Visitaduría de la Superintendencia del Subsidio Familiar, o la dependencia que haga sus veces, dentro de los diez (10) días siguientes correrá pliego de cargos a los presuntos responsables, quienes dispondrán de un término de diez (10) días para presentar los respectivos descargos y las pruebas que pretendan hacer valer.
@@ -17384,8 +15438,6 @@ Si del informe presentado se concluye que hay violación de normas legales o est
 Recibido los descargos y practicadas las pruebas que se consideren conducentes, el Jefe de la Sección de Visitaduría o quien haga sus veces, rendirá informe evaluativo al Superintendente del Subsidio Familiar, o la dependencia que haga sus veces, dentro de los diez (10) días siguientes, quien dentro de los quince (15) días siguientes tomará las medidas administrativas a que haya lugar, de conformidad con los artículos 13 del Decreto 2463 de 1981 y 15 de la Ley 25 de 1981 y las normas que los sustituyan, modifiquen o adicionen. Si no hubiere mérito para imponer sanciones, ordenará el archivo del expediente.
 
 (Decreto 341 de 1988, Art. 90)
-
-ARTÍCULO
 
 ## art:2.2.7.7.16 — Informe Evaluativo
 
@@ -17398,8 +15450,6 @@ El informe evaluativo que presente el Jefe la Sección de Visitaduría, o la dep
 -Las normas que considere infringidas.
 
 (Decreto 341 de 1988, Art. 91)
-
-ARTÍCULO
 
 ## art:2.2.7.7.17 — Casos de grave violación
 
@@ -17415,8 +15465,6 @@ Son casos de grave violación los siguientes:
 
 (Decreto 341 de 1988, Art. 92)
 
-ARTÍCULO
-
 ## art:2.2.7.7.18 — Intervención
 
 La intervención a que se refiere el artículo 15 de la Ley 25 de 1981, tiene por objeto la adopción de las medidas administrativas que fueren necesarias para subsanar los hechos que hayan dado lugar a aquélla.
@@ -17425,15 +15473,11 @@ Además, cuando se requiera puede encargar temporalmente la dirección de la ent
 
 (Decreto 341 de 1988, Art. 93)
 
-ARTÍCULO
-
 ## art:2.2.7.7.19 — Levantamiento de la Intervención
 
 Superada la situación que dio lugar a la intervención, ésta debe levantarse en forma inmediata, de oficio o a solicitud de parte.
 
 (Decreto 341 de 1988, Art. 94)
-
-ARTÍCULO
 
 ## art:2.2.7.7.20 — Suspensión o cancelación de personería jurídica
 
@@ -17443,15 +15487,11 @@ En este último evento, ordenará la consiguiente liquidación.
 
 (Decreto 341 de 1988, Art. 95)
 
-ARTÍCULO
-
 ## art:2.2.7.7.21 — Motivación de las Decisiones
 
 Toda decisión que adopte la Superintendencia del Subsidio Familiar en relación con las entidades sometidas a su vigilancia deberá efectuarla mediante resolución debidamente motivada, de conformidad con el Código Contencioso Administrativo.
 
 (Decreto 341 de 1988, Art. 96)
-
-ARTÍCULO
 
 ## art:2.2.7.7.22 — Obligaciones Generales
 
@@ -17465,15 +15505,11 @@ CAPITULO 1
 
 FORMAS ASOCIATIVAS DE ECONOMÍA SOLIDARIA
 
-ARTÍCULO
-
 ## art:2.2.8.1.1 — Campo de aplicación
 
 Las disposiciones del presente capítulo se aplicarán en el territorio nacional, a todas las personas jurídicas que ostenten la calidad de Cooperativas y Precooperativas de Trabajo Asociado.
 
 (Decreto 4588 de 2006, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.1.2 — 1.2
 
@@ -17481,23 +15517,17 @@ Objeto.- El presente capítulo regula el trabajo asociado cooperativo, precisa s
 
 (Decreto 4588 de 2006, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.1.3 — Naturaleza de las cooperativas y precooperativas de trabajo asociado
 
 Son organizaciones sin ánimo de lucro pertenecientes al sector solidario de la economía, que asocian personas naturales que simultáneamente son gestoras, contribuyen económicamente a la cooperativa y son aportantes directos de su capacidad de trabajo para el desarrollo de actividades económicas, profesionales o intelectuales, con el fin de producir en común bienes, ejecutar obras o prestar servicios para satisfacer las necesidades de sus asociados y de la comunidad en general.
 
 (Decreto 4588 de 2006, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.1.4 — Número de asociados para su constitución
 
 Las Cooperativas de Trabajo Asociado se constituirán con un mínimo de diez (10) asociados, y las que tengan menos de veinte (20), en los estatutos o reglamentos deberán adecuar los órganos de administración y vigilancia a las características particulares de la cooperativa, especialmente al tamaño del grupo asociado, a las posibilidades de división del trabajo y a la aplicación de la democracia directa, así como también a las actividades específicas de la cooperativa. De conformidad con lo previsto en el artículo 2 del Decreto 1333 de 1989 o el que lo sustituya, modifique o adicione, las Precooperativas de Trabajo Asociado se constituirán con un número mínimo de cinco (5) asociados fundadores.
 
 (Decreto 4588 de 2006, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.8.1.5 — Objeto social de las cooperativas y precooperativas de trabajo asociado
 
@@ -17507,15 +15537,11 @@ PARÁGRAFO . Las Cooperativas de Trabajo Asociado cuya actividad sea la prestaci
 
 (Decreto 4588 de 2006, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.8.1.6 — Condiciones para contratar con terceros
 
 Las Cooperativas y Precooperativas de Trabajo Asociado podrán contratar con terceros la producción de bienes, la ejecución de obras y la prestación de servicios, siempre que respondan a la ejecución de un proceso total en favor de otras cooperativas o de terceros en general, cuyo propósito final sea un resultado específico. Los procesos también podrán contratarse en forma parcial o por subprocesos, correspondientes a las diferentes etapas de la cadena productiva, siempre atados al resultado final.
 
 (Decreto 4588 de 2006, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.8.1.7 — De los medios de producción y/o de labor de las cooperativas y precooperativas de trabajo asociado
 
@@ -17525,15 +15551,11 @@ Si dichos medios de producción y/o de labor son de propiedad de los asociados, 
 
 (Decreto 4588 de 2006, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.8.1.8 — Plazo para adecuar los estatutos y regímenes
 
 Las Cooperativas y Precooperativas de Trabajo Asociado deberán adaptar sus estatutos, el Régimen de Trabajo Asociado y el Régimen de Compensaciones a las disposiciones aquí contenidas.
 
 (Decreto 4588 de 2006, Art. 9)
-
-ARTÍCULO
 
 ## art:2.2.8.1.9 — Trabajo Asociado Cooperativo
 
@@ -17541,15 +15563,11 @@ El trabajo asociado cooperativo es la actividad libre, autogestionaria, física,
 
 (Decreto 4588 de 2006, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.8.1.10 — Acuerdo cooperativo de trabajo asociado
 
 Es el contrato que se celebra por un, número determinado de personas, con el objeto de crear y organizar una persona jurídica de derecho privado, denominada Cooperativa o Precooperativa de Trabajo Asociado, cuyas actividades deberán cumplirse con fines de interés social y sin ánimo de lucro. Este acuerdo debe surgir de la manifestación libre y voluntaria de fa persona natural que participa en la creación de la Cooperativa o Precooperativa de Trabajo Asociado, o que posteriormente se adhiere suscribiendo el acuerdo cooperativo correspondiente. Este acuerdo obliga al asociado a cumplir con los Estatutos, el Régimen de Trabajo y de Compensaciones y el trabajo personar de conformidad con sus aptitudes, habilidades, capacidades y requerimientos en la ejecución de labores materiales e intelectuales, sin que este vínculo quede sometido a la legislación laboral.
 
 (Decreto 4588 de 2006, Art. 11)
-
-ARTÍCULO
 
 ## art:2.2.8.1.11 — Actos cooperativos
 
@@ -17557,15 +15575,11 @@ Son actos cooperativos los realizados entre sí por las cooperativas, o entre é
 
 (Decreto 4588 de 2006, Art. 12)
 
-ARTÍCULO
-
 ## art:2.2.8.1.12 — Naturaleza especial y regulación de la relación entre los asociados y la cooperativa
 
 Las relaciones entre la Cooperativa y Precooperativa de Trabajo Asociado y sus asociados, por ser de naturaleza cooperativa y solidaria, estarán reguladas por la legislación cooperativa, los estatutos, el Acuerdo Cooperativo y el Régimen de Trabajo Asociado y de Compensaciones.
 
 (Decreto 4588 de 2006, Art. 13)
-
-ARTÍCULO
 
 ## art:2.2.8.1.13 — Condición especial para ser trabajador asociado
 
@@ -17574,8 +15588,6 @@ Las personas naturales que aspiren a tener la condición de trabajador asociado,
 La entidad acreditada que les imparta el curso deberá presentar resolución expedida por el DANSOCIAL, la Unidad Administrativa Especial de Organizaciones Solidarias, o la entidad que haga sus veces, que demuestre énfasis o aval en trabajo asociado. El curso de educación cooperativa podrá realizarse antes del ingreso del asociado y a más tardar en los tres (3) primeros meses, posteriores a dicho ingreso.
 
 (Decreto 4588 de 2006, Art. 14)
-
-ARTÍCULO
 
 ## art:2.2.8.1.14 — Excepciones al trabajo asociado
 
@@ -17589,15 +15601,11 @@ Las Cooperativas y Precooperativas de Trabajo Asociado no podrán vincular perso
 
 (Decreto 4588 de 2006, Art. 15)
 
-ARTÍCULO
-
 ## art:2.2.8.1.15 — Desnaturalización del trabajo asociado
 
 El asociado que sea enviado por la Cooperativa y Precooperativa de Trabajo Asociado a prestar servicios a una persona natural o jurídica, configurando la prohibición contenida en el artículo 2.2.8.1.16. del presente Decreto, se considerará trabajador dependiente de la persona natural o jurídica que se beneficie con su trabajo.
 
 (Decreto 4588 de 2006, Art. 16)
-
-ARTÍCULO
 
 ## art:2.2.8.1.16 — Prohibición para actuar como intermediario o empresa de servicios temporales
 
@@ -17605,23 +15613,17 @@ Las Cooperativas y Precooperativas de Trabajo Asociado no podrán actuar como em
 
 (Decreto 4588 de 2006, Art. 17)
 
-ARTÍCULO
-
 ## art:2.2.8.1.17 — Prohibición para quienes contraten con las cooperativas y precooperativas de trabajo asociado
 
 Sin perjuicio de lo previsto en los artículos 92 a 97 de la Ley 79 de 1988, las personas naturales o jurídicas que contraten con las Cooperativas y Precooperativas de Trabajo Asociado no podrán ser miembros, ni intervenir directa o indirectamente en su organización y funcionamiento.
 
 (Decreto 4588 de 2006, Art. 18)
 
-ARTÍCULO
-
 ## art:2.2.8.1.18 — Prohibición de actuar como entidades de afiliación colectiva
 
 Las Cooperativas y Precooperativas de Trabajo Asociado sólo podrán afiliar al Sistema de Seguridad Social Integral a sus trabajadores asociados y no podrán actuar como asociaciones o como agremiaciones para la afiliación colectiva de trabajadores independientes al Sistema de Seguridad Social, ni como asociaciones mutuales para los mismos efectos. La Cooperativa y Precooperativa que viole esta prohibición se hará acreedora a las sanciones establecidas en el presente capítulo y demás normas sobre la materia.
 
 (Decreto 4588 de 2006, Art. 19)
-
-ARTÍCULO
 
 ## art:2.2.8.1.19 — Prohibición para cooperativas diferentes a las de trabajo asociado
 
@@ -17631,15 +15633,11 @@ Las Cooperativas a que hace referencia en el inciso primero de este artículo, c
 
 (Decreto 4588 de 2006, Art. 20)
 
-ARTÍCULO
-
 ## art:2.2.8.1.20 — Prohibición para las entidades promotoras de precooperativas
 
 Las entidades promotores que, so pretexto de propiciar la asociación de personas en forma Precooperativa, (sic) orienten o utilicen a las Precooperativas de Trabajo Asociado, para obtener beneficios en provecho lucrativo de sí mismas, serán sancionadas por la Superintendencia de la Economía Solidaria o el Ministerio del Trabajo, dentro del marco de sus competencias.
 
 (Decreto 4588 de 2006, Art. 21)
-
-ARTÍCULO
 
 ## art:2.2.8.1.21 — Obligatoriedad y autorización
 
@@ -17647,15 +15645,11 @@ Las Cooperativas y Precooperativas de Trabajo Asociado tendrán un Régimen de T
 
 (Decreto 4588 de 2006, Art. 22)
 
-ARTÍCULO
-
 ## art:2.2.8.1.22 — Obligación de los asociados de acatar el régimen de trabajo y de compensaciones
 
 Acordado el Régimen de Trabajo Asociado y de Compensaciones por los asociados de conformidad con lo establecido en el presente capítulo y autorizado por el Ministerio del Trabajo, los trabajadores asociados quedan obligados a acatarlo y a cumplir sus disposiciones como expresión de sujeción a las decisiones colectivas adoptadas.
 
 (Decreto 4588 de 2006, Art. 23)
-
-ARTÍCULO
 
 ## art:2.2.8.1.23 — Contenido del régimen de trabajo asociado
 
@@ -17677,8 +15671,6 @@ El Régimen de Trabajo Asociado deberá contener los siguientes aspectos:
 
 (Decreto 4588 de 2006, Art. 24)
 
-ARTÍCULO
-
 ## art:2.2.8.1.24 — Régimen de compensaciones
 
 Compensaciones son todas las sumas de dinero que recibe el asociado, pactadas como tales, por la ejecución de su actividad material o inmaterial, las cuales no constituyen salario. Las compensaciones se deberán establecer buscando retribuir de manera equitativa el trabajo, teniendo en cuenta el tipo de labor desempeñada, el rendimiento y la cantidad aportada. El asociado podrá autorizar de manera escrita que su aporte sea descontado de la compensación que recibirá durante el respectivo periodo. En caso de que su aporte resulte superior a la compensación recibida, el asociado deberá asumir la diferencia, de igual manera se procederá en caso de que no se reciba compensación durante ese período. El Régimen de Compensaciones de las Cooperativas y Precooperativas de Trabajo Asociado deberá contener, cuando menos, los siguientes aspectos:
@@ -17693,8 +15685,6 @@ Compensaciones son todas las sumas de dinero que recibe el asociado, pactadas co
 
 (Decreto 4588 de 2006, Art. 25)
 
-ARTÍCULO
-
 ## art:2.2.8.1.25 — Responsabilidad de las cooperativas y precooperativas de trabajo asociado frente al sistema de seguridad social integral
 
 La Cooperativa y Precooperativa de Trabajo Asociado será responsable de los trámites administrativos necesarios para realizar el proceso de afiliación y el pago de los aportes al Sistema de Seguridad Social Integral y para tales efectos le serán aplicables todas las disposiciones legales vigentes establecidas sobre la materia. Está obligada a contribuir de esta manera a afiliar a sus asociados al Sistema de Seguridad Social Integral mientras dure el contrato de asociación. La Cooperativa no suplirá su obligación de afiliación al Sistema, a la que se refiere el presente artículo, por el hecho de que sus asociados aparezcan como beneficiarios en el régimen contributivo en salud, como cotizantes a un régimen excepcional tanto en salud como en pensiones, como beneficiarios de un régimen excepcional en salud, como afiliado dependiente por otra empresa o como afiliado a salud y pensiones por otros ingresos diferentes a los derivados del contrato de asociación, como beneficiario afiliado al Régimen Subsidiado en Salud, o porque hayan presentado su clasificación por la encuesta del SISBEN.
@@ -17702,8 +15692,6 @@ La Cooperativa y Precooperativa de Trabajo Asociado será responsable de los tr�
 PARÁGRAFO . En los aspectos no previstos en el presente capítulo, relacionados con el Sistema de Seguridad Social Integral, se aplicarán las disposiciones contenidas en la ley 100 de 1993 y las normas que la reglamentan, modifican o adicionan.
 
 (Decreto 4588 de 2006, Art. 26)
-
-ARTÍCULO
 
 ## art:2.2.8.1.26 — Afiliación e ingreso base de cotización en materia de salud, pensiones y riesgos laborales
 
@@ -17713,23 +15701,17 @@ PARÁGRAFO . En aquellos casos en que el trabajador asociado además de las comp
 
 (Decreto 4588 de 2006, Art. 27)
 
-ARTÍCULO
-
 ## art:2.2.8.1.27 — Presupuesto de recursos para la seguridad social integral
 
 Las Cooperativas y Precooperativas de Trabajo Asociado deberán prever en sus presupuestos, además de todos los costos y gastos necesarios para el desarrollo de sus actividades, lo relativo a los aportes para atender los pagos de la seguridad social integral, conforme a lo establecido en sus estatutos, los cuales deberán prever la posibilidad de que la cooperativa contribuya con el asociado en el pago de dichos aportes, en los porcentajes que se determinen. Igualmente, podrá crear fondos especiales vía excedentes, por decisión de la Asamblea encaminados a garantizar el pago oportuno de los aportes y cotizaciones al sistema. Y podrán destinar partidas especiales buscando incrementos progresivos de este fondo que garanticen la existencia de los recursos necesarios para atender estas actividades.
 
 (Decreto 4588 de 2006, Art. 28)
 
-ARTÍCULO
-
 ## art:2.2.8.1.28 — Pago de la cotización en materia de salud, pensiones y riesgos laborales
 
 La Cooperativa y Precooperativa de Trabajo Asociado incluirá en el presupuesto del ejercicio económico respectivo, los gastos necesarios para el pago de las cotizaciones a la Seguridad Social Integral. Para tal efecto, deberá recaudar los aportes y pagarlos al Sistema de Seguridad Social Integral, asumiendo la responsabilidad por el incumplimiento en el pago, por lo que le serán aplicables las sanciones previstas en la ley 100 de 1993 y los decretos que la reglamentan. Para efecto del pago de las cotizaciones, en los Estatutos se deberá determinar la forma como los trabajadores asociados contribuirán al pago de las mismas. Lo anterior, sin perjuicio de destinar para estos fines los recursos del Fondo de Solidaridad.
 
 (Decreto 4588 de 2006, Art. 29)
-
-ARTÍCULO
 
 ## art:2.2.8.1.29 — Trámites administrativos de afiliación
 
@@ -17741,15 +15723,11 @@ Para que las Cooperativas y Precooperativas de Trabajo Asociado, puedan cumplir 
 
 (Decreto 4588 de 2006, Art. 30)
 
-ARTÍCULO
-
 ## art:2.2.8.1.30 — Participación de las cooperativas en los sistemas de información del sistema de seguridad social integral
 
 Para efectos de los sistemas de información del Sistema de Seguridad Social Integral, las Cooperativas y Precooperativas de Trabajo Asociado deberán cumplir con las obligaciones establecidas para los aportantes.
 
 (Decreto 4588 de 2006, Art. 31)
-
-ARTÍCULO
 
 ## art:2.2.8.1.31 — .31
 
@@ -17759,8 +15737,6 @@ De igual manera, los representantes legales de las Cooperativas y Precooperativa
 
 (Decreto 4588 de 2006, Art. 32)
 
-ARTÍCULO
-
 ## art:2.2.8.1.32 — Control concurrente
 
 Sin perjuicio de la inspección y vigilancia que ejerce la Superintendencia de la Economía Solidaria y las demás Superintendencias de acuerdo con la actividad ejercida por la Cooperativa y Precooperativa de Trabajo Asociado, el Ministerio del Trabajo, en los términos del Decreto 205 de 2003 y de normas que lo modifiquen, sustituyan o adicionen, está igualmente facultado para efectuar la inspección y vigilancia sobre la regulación y condiciones de trabajo desarrollado por los asociados. Los inspectores de trabajo y seguridad social atenderán las reclamaciones que se presenten en relación con el cumplimiento de las obligaciones generales en virtud del trabajo asociativo y podrán actuar como conciliadores en las eventuales discrepancias que se presenten.
@@ -17769,15 +15745,11 @@ PARÁGRAFO . El Ministerio del Trabajo y la Superintendencia respectiva de acuer
 
 (Decreto 4588 de 2006, Art. 33)
 
-ARTÍCULO
-
 ## art:2.2.8.1.33 — Control de prácticas no autorizadas o prohibidas
 
 Toda Cooperativa y Precooperativa de Trabajo Asociado que desarrolle actividades que sean contrarias a su naturaleza, previa investigación será sancionada por parte de la Superintendencia de Economía Solidaria, o la Superintendencia competente conforme a lo previsto en el artículo 36 de la Ley 454 de 1998 y demás normas vigentes o que la modifiquen o sustituyan, y para tales efectos podrán Imponer sanciones administrativas personales y multas entre otras sanciones.
 
 (Decreto 4588 de 2006, Art. 34)
-
-ARTÍCULO
 
 ## art:2.2.8.1.34 — Multas
 
@@ -17789,15 +15761,11 @@ PARÁGRAFO . Las sanciones de que trata el presente artículo se aplicarán sin 
 
 (Decreto 4588 de 2006, Art. 35)
 
-ARTÍCULO
-
 ## art:2.2.8.1.35 — Sanción para usuarios o terceros beneficiarios del trabajo prestado por las cooperativas de trabajo asociado
 
 El Ministerio del Trabajo a través de las Direcciones Territoriales, impondrá las sanciones a que se refiere el artículo 2.2.8.1.34. del presente Decreto, a los usuarios o terceros beneficiarios que contraten con las Cooperativas y Precooperativas de Trabajo Asociado el envío de trabajadores en misión o la intermediación laboral.
 
 (Decreto 4588 de 2006, Art. 36)
-
-ARTÍCULO
 
 ## art:2.2.8.1.36 — Sistema de información
 
@@ -17805,15 +15773,11 @@ El Ministerio del Trabajo, a más tardar dentro de los seis (6) meses siguientes
 
 (Decreto 4588 de 2006, Art. 37)
 
-ARTÍCULO
-
 ## art:2.2.8.1.37 — Formas de solución de conflictos de trabajo
 
 Las diferencias que surjan entre las Cooperativas y Precooperativas de Trabajo Asociado y sus asociados en virtud de actos cooperativos de trabajo, se someterán en primer lugar a los procedimientos de arreglo de conflictos por vía de conciliación estipulados en los estatutos. Agotada esta instancia, si fuera posible, se someterán al procedimiento arbitral de que trata el Código de Procedimiento Civil, o a la jurisdicción laboral ordinaria.
 
 (Decreto 4588 de 2006, Art. 38)
-
-ARTÍCULO
 
 ## art:2.2.8.1.38 — Compensación Ordinaria
 
@@ -17821,15 +15785,11 @@ Para efecto de la aplicación de la Ley 1233 de 2008, se entiende por compensaci
 
 (Decreto 3553 de 2008, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.1.39 — Compensación extraordinaria
 
 Los demás pagos mensuales adicionales a la Compensación Ordinaria que recibe el asociado como retribución por su trabajo.
 
 (Decreto 3553 de 2008, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.8.1.40 — Excepción al pago de contribuciones especiales
 
@@ -17838,8 +15798,6 @@ Para los efectos del artículo 10 de la Ley 1233 del 22 de 2008, las cooperativa
 Para ser beneficiario de la excepción, las cooperativas y Precooperativas de trabajo asociado deberán demostrar al Ministerio del Trabajo y a la correspondiente Superintendencia, dentro de los diez (10) primeros días calendario de cada año, que la facturación causada en el año inmediatamente anterior fue igual o inferior a cuatrocientos treinta y cinco (435) salarios mínimos legales mensuales vigentes, mediante certificación expedida por el revisor fiscal o por el representante legal, cuando se encuentre autorizado.
 
 (Decreto 3553 de 2008, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.8.1.41 — Intermediación Laboral
 
@@ -17857,15 +15815,11 @@ PARÁGRAFO . En el caso de las sociedades por acciones simplificadas -SAS-, enun
 
 (Decreto 2025 de 2011, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.1.42 — Prohibición de contratar procesos o actividades misiones con Cooperativas o Precooperativas
 
 A partir de la entrada en vigencia del artículo 63 de la Ley 1429 de 2010, las instituciones o empresas públicas y/o privadas no podrán contratar procesos o actividades misionales permanentes con Cooperativas o Precooperativas de Trabajo Asociado.
 
 (Decreto 2025 de 2011, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.8.1.43 — Conductas que merecen sanciones
 
@@ -17893,8 +15847,6 @@ Las Cooperativas y Precooperativas de Trabajo Asociado y el tercero que contrate
 
 (Decreto 2025 de 2011, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.1.44 — Sanciones
 
 Cuando se establezca que una Cooperativa o Precooperativa de Trabajo Asociado ha incurrido en intermediación laboral, o en una o más de las conductas descritas en el artículo anterior, se impondrán sanciones consistentes en multas hasta de 131.565 UVT, a través de las Direcciones Territoriales del Ministerio del Trabajo, de conformidad con lo previsto en el artículo 63 de la Ley 1429 de 2010.
@@ -17917,15 +15869,11 @@ A una Cooperativa o Precooperativa de Trabajo Asociado se le impondrá una multa
 
 (Artículo MODIFICADO por el Art. 26 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.8.1.46 — Destinación de Multas al SENA
 
 El valor de las multas señalado en los artículos 2.2.8.1.44. y 2.2.8.1.45. del presente Decreto, se destinarán al Servicio Nacional de Aprendizaje SENA.
 
 (Decreto 2025 de 2011, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.8.1.47 — Falta grave para Servidores Públicos
 
@@ -17933,15 +15881,11 @@ Los servidores públicos que contraten con Cooperativas o Precooperativas de Tra
 
 (Decreto 2025 de 2011, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.8.1.48 — Retribución a trabajadores no asociados
 
 Sin perjuicio de los derechos mínimos irrenunciables previstos en el artículo 3o de la Ley 1233 de 2008, las Precooperativas y Cooperativas de Trabajo Asociado, a partir de la fecha de entrada en vigencia del artículo 63 de la Ley 1429 de 2010, retribuirán de conformidad con lo establecido en el Código Sustantivo del Trabajo, a los trabajadores no asociados por las labores realizadas.
 
 (Decreto 2025 de 2011, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.8.1.49 — Parámetros para la imposición de Multas
 
@@ -17971,8 +15915,6 @@ Las sanciones anteriormente establecidas se impondrán en la misma proporción a
 
 (Artículo MODIFICADO por el Art. 27 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.8.1.50 — Reducción de Sanciones
 
 Sin perjuicio del contrato de trabajo realidad que se configure entre el verdadero empleador y el trabajador, como lo establece el artículo 53 de la Constitución Política, a los terceros contratantes que contraten procesos o actividades misionales permanentes prohibidas por la ley, cuando voluntariamente formalicen mediante un contrato escrito una relación laboral a término indefinido, se les reducirá la sanción en un veinte por ciento (20%) de su valor por cada año que dicha relación se mantenga, con un cien por ciento (100%) de condonación de la misma luego del quinto año.
@@ -17983,15 +15925,11 @@ CAPÍTULO 2
 
 EMPRESAS ASOCIATIVAS DE TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.8.2.1 — Alcance
 
 Se entiende por producción de bienes básicos de consumo familiar, el proceso de aplicación del trabajo en la transformación de los recursos naturales, insumos, productos semielaborados y en elaboración, en cualquier rama de la actividad económica, para generar bienes destinados a la satisfacción de las necesidades del núcleo familiar o individual. Por servicio se entiende toda actividad humana manual, técnica, tecnológica, profesional y científica encaminada a la producción, comercialización, y distribución de los bienes de consumo familiar y a la prestación del esfuerzo individual o asociativo para facilitar el bienestar de la sociedad.
 
 (Decreto 1100 de 1992, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2 — Número de socios
 
@@ -17999,23 +15937,17 @@ Las Empresas Asociativas de Trabajo se integraran con un número no inferior a t
 
 (Decreto 1100 de 1992, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.2.3 — Razón social
 
 La razón social deberá ir acompañadas de la denominación de "Empresa Asociativa de Trabajo", la cual es exclusiva de este tipo de empresas.
 
 (Decreto 1100 de 1992, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.2.4 — Personería jurídica
 
 Toda Empresa Asociativa de Trabajo deberá inscribirse en la Cámara de Comercio de su domicilio. Al efecto, deberá acreditar los requisitos señalados en la Ley 10 de 1991, a partir de esta inscripción tendrá personería Jurídica.
 
 (Decreto 1100 de 1992, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.8.2.5 — Registro
 
@@ -18024,8 +15956,6 @@ La Personería Jurídica de la Empresa Asociativa de Trabajo será registrada en
 PARÁGRAFO . Las dependencias Regionales del Ministerio del Trabajo podrán recibir la documentación relacionada con las solicitudes de registro de las Empresas Asociativas de Trabajo, previo cumplimiento de lo dispuesto en el artículo 5o. de la Ley 10 de 1991, y remitirá dentro de los dos (20 (sic) días hábiles siguientes a las Subdirección de Trabajo Asociativo e Informal, o a la dependencia que haga sus veces, para efectos de registro, control y vigilancia.
 
 (Decreto 1100 de 1992, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.8.2.6 — Aportes
 
@@ -18041,15 +15971,11 @@ En las Empresas Asociativas de Trabajo, los aportes que se llevarán en registro
 
 (Decreto 1100 de 1992, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.8.2.7 — Arrendamiento de bienes
 
 Los asociados podrán dar a la Empresa asociativa de Trabajo, a título de arrendamiento, bienes muebles o inmuebles en las condiciones establecidas en contrato comercial escrito, el cual debe ser aprobado por la junta de asociados y especificar los bienes, formas de uso, termino, valor y condiciones de pago.
 
 (Decreto 1100 de 1992, Art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.2.8 — Reservas
 
@@ -18063,23 +15989,17 @@ PARÁGRAFO . Sí durante el primer ejercicio se registran operacionales, de esta
 
 (Decreto 1100 de 1992, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.8.2.9 — Utilidad liquida
 
 El excedente líquido a distribuir entre los asociados en proporción a sus aportes, está conformado por la diferencia entre valor de las ventas y los costos respectivos, menos en valor por los impuestos, contribuciones de seguridad social, intereses, gastos de administración, contribuciones a los organismos de segundo grado a que este afiliada a la empresa y las reservas.
 
 (Decreto 1100 de 1992, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.8.2.10 — Disolución
 
 Son causales de disolución de las Empresas Asociativas de Trabajo: a. Las previstas en el artículo 18 de la Ley 10 de 1991; b. Las contempladas en el artículo 218 del Código del Comercio.
 
 (Decreto 1100 de 1992, Art. 10)
-
-ARTÍCULO
 
 ## art:2.2.8.2.11 — Liquidación
 
@@ -18091,15 +16011,11 @@ PARÁGRAFO 2. Copia del acta de liquidación debidamente aprobada, se registrara
 
 (Decreto 1100 de 1992, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.8.2.12 — Régimen tributario
 
 Las Empresas Asociativas de Trabajo, legalmente constituidas que cumplan las exigencias de las disposiciones tributarias y demás normas a que se refiere el presente capítulo, estarán exentas de los impuestos de renta y complementarios. Igualmente estarán exentos de los mismos impuestos: a. Participaciones. El cincuenta por ciento (50%) del valor de las participaciones de los asociados, provenientes de los aportes laborales y los aportes laborales adicionales, sin perjuicio de que se apliquen normas generales de carácter tributario más favorables; b. Arrendamientos. El treinta y cinco por ciento (35%) del valor de los cánones de los bienes dados en arrendamiento.
 
 (Decreto 1100 de 1992, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.2.13 — Avances
 
@@ -18107,23 +16023,17 @@ Cuando de conformidad con sus estatutos, las Empresas Asociativa de Trabajo, rea
 
 (Decreto 1100 de 1992, Art. 13)
 
-ARTÍCULO
-
 ## art:2.2.8.2.14 — Nombramientos y reformas
 
 Todo nombramiento y reforma de estatutos de la Empresa Asociativa de Trabajo, deben ser Registrados en la Cámara de Comercio de domicilio Social.
 
 (Decreto 1100 de 1992, Art. 14)
 
-ARTÍCULO
-
 ## art:2.2.8.2.15 — Responsabilidad
 
 De acuerdo con lo previsto en el artículo 4o. de la Ley 10 de 1991, en materia de responsabilidad se aplicara en las normas de sociedades.
 
 (Decreto 1100 de 1992, Art. 15)
-
-ARTÍCULO
 
 ## art:2.2.8.2.16 — Capacitación
 
@@ -18155,15 +16065,11 @@ Asistencia técnica. Las actividades dirigidas a solucionar problemas durante el
 
 (Decreto 1100 de 1992, Art. 16)
 
-ARTÍCULO
-
 ## art:2.2.8.2.17 — Plan operativo
 
 Para los efectos de capacitación, asesoría, asistencia, técnica y consultoría, el Servicio Nacional de Aprendizaje SENA, presentará anualmente un plan operativo de apoyo a las Empresas Asociativas de Trabajo, lo mismo que informes de evaluación y seguimiento anual, al Ministerio del Trabajo.
 
 (Decreto 1100 de 1992, Art. 17)
-
-ARTÍCULO
 
 ## art:2.2.8.2.18 — Apoyo en capacitación por otras entidades
 
@@ -18171,15 +16077,11 @@ Sin perjuicio de la capacitación que prestará el servicio nacional de Aprendiz
 
 (Decreto 1100 de 1992, Art. 18)
 
-ARTÍCULO
-
 ## art:2.2.8.2.19 — Promoción
 
 El Ministerio del Trabajo, en coordinación con entidades y organismos públicos y privados, apoyará y promoverá el desarrollo de Empresas Asociativas de Trabajo.
 
 (Decreto 1100 de 1992, Art. 19)
-
-ARTÍCULO
 
 ## art:2.2.8.2.20 — Crédito y financiación
 
@@ -18189,23 +16091,17 @@ PARÁGRAFO . Sin perjuicio de lo estipulado en el párrafo precedente, las Entid
 
 (Decreto 1100 de 1992, Art. 20)
 
-ARTÍCULO
-
 ## art:2.2.8.2.21 — Sistema de información
 
 El Ministerio del Trabajo creará un sistema de información sobre el mercado de bienes y servicios de que trata el artículo 2.2.8.2.1. del presente Decreto, formalizando acciones con entidades competentes que puedan aportar información básica para apoyar el objetivo de las Empresas Asociativas de Trabajo.
 
 (Decreto 1100 de 1992, Art. 21)
 
-ARTÍCULO
-
 ## art:2.2.8.2.22 — Vigilancia y control
 
 El Ministerio del Trabajo, a través de las Direcciones Regionales de Trabajo, vigilará que las Empresas Asociativas de Trabajo cumplan con las disposiciones de la Ley 10 de 1991, las del presente capítulo y los respectivos estatutos. Para esos efectos, los funcionarios del Ministerio del Trabajo podrán solicitar informes, balances, libros y demás documentos que consideren necesarios para su labor y practicar visitas a las Empresas Asociativas de Trabajo, cuando lo consideren necesario.
 
 (Decreto 1100 de 1992, Art. 22)
-
-ARTÍCULO
 
 ## art:2.2.8.2.23 — Prohibiciones
 
@@ -18221,15 +16117,11 @@ PARÁGRAFO . La función de intermediación descrita en el artículo 26 de la Le
 
 (Decreto 1100 de 1992, Art. 23)
 
-ARTÍCULO
-
 ## art:2.2.8.2.24 — Sanciones
 
 El incumplimiento a lo establecido en los numerales 1 y 2 del artículo anterior dará lugar a que el Ministerio del Trabajo solicite a la Cámara de Comercio del domicilio la cancelación de la inscripción en el respectivo registro, previa disolución que ordenará el Ministerio del Trabajo, mediante acto administrativo en el cual se indicará un plazo no inferior a dos (2) meses, contado a partir de la ejecutoria de la providencia, para efectuar la correspondiente liquidación, acto contra el cual procederán los recursos previstos en el artículo 50 del Código Contencioso Administrativo.
 
 (Decreto 1100 de 1992, Art. 24)
-
-ARTÍCULO
 
 ## art:2.2.8.2.25 — Aplicación de las sanciones
 
@@ -18243,8 +16135,6 @@ CAPÍTULO 3
 
 PRESTACIÓN DE SERVICIOS DE LAS CAJAS DE COMPENSACIÓN FAMILIAR A COOPERATIVAS Y PRECOOPERATIVAS DE TRABAJO ASOCIADO
 
-ARTÍCULO
-
 ## art:2.2.8.3.1 — 3.1
 
 Procedimiento que deben cumplir las Cajas de Compensación Familiar para ofrecer a las Cooperativas y Precooperativas de trabajo Asociado sus servicios. Las Cajas de Compensación Familiar que brinden sus beneficios a las Cooperativas y Precooperativas de Trabajo Asociado, deberán tener aprobación previa de su Consejo Directivo que deberá constar en un acta donde se refleje en forma expresa la manifestación que los ofrecerán a quienes soliciten su afiliación sin que pueda dar lugar a selección adversa o discriminatoria de las mismas, siempre y cuando cumplan con los requisitos señalados en el presente capítulo.
@@ -18252,8 +16142,6 @@ Procedimiento que deben cumplir las Cajas de Compensación Familiar para ofrecer
 Copia de esta decisión deberá ser remitida a la Superintendencia del Subsidio Familiar.
 
 (Decreto 400 de 2008, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.3.2 — 3.2
 
@@ -18271,15 +16159,11 @@ Requisitos que deben exigirse a las Cooperativas y Precooperativas de Trabajo As
 
 (Decreto 400 de 2008, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.3.3 — Cobertura
 
 En aplicación de los principios de eficiencia, universalidad, solidaridad, integralidad, unidad y participación, las cajas de compensación familiar que ofrezcan servicios a las cooperativas y precooperativas de trabajo asociado, deberán prever mecanismos para garantizar la prestación de los mismos a nivel nacional, tales como alianzas, convenios, etc., a efecto de que si estas tienen sedes en diferentes departamentos, todos sus asociados puedan beneficiarse de los servicios.
 
 (Decreto 400 de 2008, Art. 3, Modificado por el Decreto 1570 de 2008)
-
-ARTÍCULO
 
 ## art:2.2.8.3.4 — Beneficios
 
@@ -18289,15 +16173,11 @@ PARÁGRAFO . Las Cooperativas y Precooperativas de Trabajo Asociado, así como s
 
 (Decreto 400 de 2008, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.8.3.5 — Pago de aportes
 
 El pago de aportes para el subsidio familiar a cargo de las cooperativas y precooperativas de trabajo asociado se realizará de conformidad con lo establecido en el artículo 15 de la Ley 21 de 1982 y demás normas que lo modifiquen, adicionen o sustituyan.
 
 (Decreto 1570 de 2008, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.3.6 — Prohibición
 
@@ -18310,8 +16190,6 @@ DISPOSICIONES VARIAS
 CAPÍTULO 1
 
 TRABAJADORES SOCIALES
-
-ARTÍCULO
 
 ## art:2.2.9.1.1 — Definición de Trabajo Social
 
@@ -18331,23 +16209,17 @@ En los términos de la Ley 53 de 1977 se entiende por trabajo social la profesi�
 
 (Decreto 2833 de 1981, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.2 — Ejercicio de la profesión de Trabajo Social
 
 Solamente pueden ejercer la profesión de trabajo social quienes posean títulos de trabajador social, o su equivalente, expedido de conformidad con la ley por una institución de educación superior debidamente reconocida por el Estado y además hayan obtenido su inscripción en el Consejo Nacional de Trabajo Social.
 
 (Decreto 2833 de 1981, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.9.1.3 — Registro de títulos
 
 El registro de los títulos obtenidos en el país se regirán por las disposiciones del Decreto 2725 de 1980, y las disposiciones que lo adicionen, modifiquen o sustituyan. Los títulos obtenidos en el exterior, requieren la convalidación y registro por parte del Instituto Colombiano para el Fomento de la Educación Superior, ICFES, de acuerdo con el Decreto 1074 de 1980 y las normas que lo adicionen, modifiquen o sustituyan.
 
 (Decreto 2833 de 1981, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.9.1.4 — Inscripción ante el Consejo Nacional de Trabajo Social
 
@@ -18359,23 +16231,17 @@ Para la inscripción ante el Consejo Nacional de Trabajo Social, se requiere la 
 
 (Decreto 2833 de 1981, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.9.1.5 — Decisión de la solicitud de inscripción
 
 El Consejo Nacional de Trabajo Social decidirá en un plazo máximo de treinta (30) días hábiles sobre la solicitud de inscripción. Si ella es aceptada expedirá el documento que así lo certifique.
 
 (Decreto 2833 de 1981, Art. 5)
 
-ARTÍCULO
-
 ## art:2.2.9.1.6 — Vigilancia y Control
 
 La vigilancia y control del cumplimiento de los artículos 3 y 4 de la Ley 53 de 1977, así como los pertinentes del presente capítulo se ejercerá por el Ministerio del Trabajo.
 
 (Decreto 2833 de 1981, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.9.1.7 — Sanciones
 
@@ -18387,15 +16253,11 @@ Las sanciones a que se refiere el literal a) del artículo 8 de la Ley 53 de 197
 
 (Decreto 2833 de 1981, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.9.1.8 — Recurso de Reposición
 
 Contra las providencias dictadas por el Consejo Nacional de Trabajo Social, sólo procede por la vía gubernativa el recurso de reposición previsto en la Ley 1437 de 2011.
 
 (Decreto 2833 de 1981, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.9.1.9 — Deber de contratación de trabajadores sociales
 
@@ -18403,23 +16265,17 @@ Las empresas están obligadas a contratar trabajadores sociales en la proporció
 
 (Decreto 2833 de 1981, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.9.1.10 — Decisiones del Consejo Nacional de Trabajo Social
 
 Las decisiones del Consejo Nacional de Trabajo Social requieren el voto favorable de la mayoría absoluta de sus miembros.
 
 (Decreto 2833 de 1981, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.9.1.11 — Títulos otorgados por Instituciones de Educación Superior
 
 Los títulos de trabajador social y de Especializado, Magíster y Doctor en Trabajo Social sólo podrán ser otorgados por instituciones de educación superior debidamente autorizadas para ello por el Estado.
 
 (Decreto 2833 de 1981, Art. 11)
-
-ARTÍCULO
 
 ## art:2.2.9.1.12 — Presupuesto
 
@@ -18431,15 +16287,11 @@ CAPÍTULO 2
 
 DE LOS ACUERDOS DE REESTRUCTURACIÓN DE QUE TRATA LA LEY 550 DE 1999
 
-ARTÍCULO
-
 ## art:2.2.9.2.1 — Competencia
 
 Será competente para conocer del proceso de designación del representante de los pensionados en los acuerdos de reestructuración, el Director Territorial del Ministerio del Trabajo del domicilio principal de la empresa.
 
 (Decreto 63 de 2002, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.2.2 — Relación de pensionados
 
@@ -18448,8 +16300,6 @@ Para los efectos de acreditar el valor del pasivo pensional, junto con los docum
 El cálculo actuarial y el listado de pensionados de que trata el inciso anterior serán entregados al promotor a más tardar dentro del mes siguiente a la fecha de inscripción del aviso que informe acerca de la promoción del acuerdo. Vencido este plazo, y sin que haya sido entregada la información, el promotor deberá convocar a la reunión de que trata el artículo 28 de la Ley 550 de 1999.
 
 (Decreto 63 de 2002, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.9.2.3 — Convocatoria
 
@@ -18467,8 +16317,6 @@ PARÁGRAFO . Cuando exista asociación de pensionados se le deberá remitir copi
 
 (Decreto 63 de 2002, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.9.2.4 — Quórum y mayorías
 
 La reunión podrá realizarse sí concurren por lo menos la mitad más uno de la totalidad de los pensionados a cargo de la empresa.
@@ -18479,8 +16327,6 @@ Del desarrollo de la reunión se levantará un acta que deberá ser suscrita por
 
 (Decreto 63 de 2002, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.9.2.5 — Falta de quórum o de mayorías
 
 Cuando a la reunión no concurriere la mitad más uno de la totalidad de los pensionados o la elección no pueda realizarse por falta de acuerdo de la mayoría absoluta de los asistentes, el funcionario del Ministerio del Trabajo que la preside informará de este hecho al Director Territorial del Trabajo, quien de inmediato designará el representante de los pensionados. Contra esta decisión no procede recurso alguno.
@@ -18488,8 +16334,6 @@ Cuando a la reunión no concurriere la mitad más uno de la totalidad de los pen
 Para la designación se tendrán en cuenta la asistencia a la reunión, o que sea directivo o miembro de la asociación pensional si existiere.
 
 (Decreto 63 de 2002, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.9.2.6 — Representación de los trabajadores
 
@@ -18501,8 +16345,6 @@ Cuando existan trabajadores no sindicalizados, el convenio laboral temporal espe
 
 (Decreto 63 de 2002, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.9.2.7 — Procedimiento para la concertación de condiciones laborales temporales especiales
 
 Cuando los acuerdos de reestructuración incluyan convenios laborales temporales especiales, estos deben ser concertados previamente entre el empleador y los trabajadores sindicalizados o los no sindicalizados según sea el caso, sin que pueda darse un tratamiento diferente para unos y otros.
@@ -18511,15 +16353,11 @@ Para la ejecución de estos convenios se requiere de la autorización previa del
 
 (Decreto 63 de 2002, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.9.2.8 — Capitalización de los pasivos laborales
 
 La capitalización de los pasivos laborales podrá realizarla el acreedor del crédito, previa autorización del correspondiente Director Territorial del Ministerio del Trabajo, quien verificará que el acuerdo se realice de conformidad con lo previsto en el inciso cuarto del artículo 40 de la Ley 550 de 1999.
 
 (Decreto 63 de 2002, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.9.2.9 — Derecho de veto
 
@@ -18533,23 +16371,17 @@ CAPÍTULO 3
 
 DEDUCCIONES TRIBUTARIAS EN VIRTUD DE LA VINCULACIÓN DE MUJERES VÍCTIMAS DE LA VIOLENCIA
 
-ARTÍCULO
-
 ## art:2.2.9.3.1 — Objeto
 
 El presente capítulo tiene por objeto establecer los requisitos necesarios para hacer efectiva la deducción de que trata el artículo 23 de la Ley 1257 de 2008.
 
 (Decreto 2733 de 2012, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.3.2 — Ámbito de aplicación
 
 El presente capítulo aplica a los contribuyentes obligados a presentar declaración de impuesto sobre la renta y complementarios que en su condición de empleadores ocupen trabajadoras mujeres víctimas de la violencia comprobada, y procede por un término máximo de tres (3) años a partir de la fecha en que se inicia la relación laboral.
 
 (Decreto 2733 de 2012, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.9.3.3 — Definiciones
 
@@ -18575,15 +16407,11 @@ Para dar aplicación a lo previsto en el presente capítulo, se adoptan las sigu
 
 (Decreto 2733 de 2012, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.9.3.4 — Confidencialidad
 
 Los empleadores que hagan uso de la deducción a que se refiere el presente capítulo, están obligados a mantener la confidencialidad sobre las situaciones de violencia que han afectado a las mujeres víctimas contratadas.
 
 (Decreto 2733 de 2012, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.9.3.5 — Procedencia de la deducción
 
@@ -18598,8 +16426,6 @@ Para la procedencia de la deducción deben tenerse en cuenta los siguientes crit
 4. Es necesario que las decisiones y medidas en favor de la mujer víctima de la violencia, señaladas en el numeral 1 del artículo 2.2.9.3.3. del presente Decreto, hayan sido dictadas con posterioridad a la expedición de la Ley 1257 de 2008 y que la vinculación laboral se haya iniciado después de la adopción de las mismas.
 
 (Decreto 2733 de 2012, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.9.3.6 — Requisitos para la procedencia de la deducción
 
@@ -18618,8 +16444,6 @@ Los empleadores que soliciten la deducción establecida en el artículo 23 de la
 6. Acreditar el cumplimiento de lo previsto en el artículo 108 del Estatuto Tributario y los demás requisitos para la procedibilidad de las deducciones.
 
 (Decreto 2733 de 2012, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.9.3.7 — Control
 
@@ -18653,13 +16477,9 @@ DÍA DEL TRABAJO DECENTE EN COLOMBIA
 
 Capítulo adicionado por el Decreto 2362 de 2015
 
-ARTÍCULO
-
 ## art:2.2.9.4.1 — Día del trabajo decente en Colombia
 
 Se establece el día siete (7) de octubre de cada año como fecha para la celebración del "Día del Trabajo Decente en Colombia", con el objetivo de congregar a todos los actores del mundo del trabajo en torno a las políticas, planes, programas, proyectos y acciones en trabajo decente, para que se adelanten en dicha fecha, programas y actividades de promoción, divulgación, capacitación y prestación de servicios en relación al trabajo decente a nivel nacional, regional, departamental, municipal y distrital.
-
-ARTÍCULO
 
 ## art:2.2.9.4.2 — Objetivos de la celebración del día del trabajo decente
 
@@ -18677,8 +16497,6 @@ En la celebración del "Día del Trabajo en Colombia", se adelantaran programas 
 
 6. Sensibilizar a las empresas, trabajadores y ciudadanía en general sobre la importancia del Trabajo Decente para el logro vidas dignas de los trabajadores colombianos y sus familias.
 
-ARTÍCULO
-
 ## art:2.2.9.4.3 — Ejes temáticos de la celebración del día del trabajo decente
 
 La celebración del "Día del Trabajo en Colombia", se realizará teniendo en cuenta los siguientes temáticos:
@@ -18690,8 +16508,6 @@ La celebración del "Día del Trabajo en Colombia", se realizará teniendo en cu
 3. Extensión de la protección social. Promover la ampliación de la cobertura en protección social, velando por la inclusión social, la productividad de las empresas propiciando que las mujeres y hombres disfruten de condiciones de trabajo que proporcionen tiempo libre y descanso adecuado, que tenga en cuenta los valores familiares y sociales, que contemplen una retribución adecuada en caso de pérdida o reducción de los ingresos y así mismo, permitan el acceso a una asistencia apropiada.
 
 4. Promoción del diálogo social Velar, propiciar y fomentar la participación de organizaciones de trabajadores y de empleadores, sólidas e independientes para elevar la productividad y solucionar de manera efectiva los conflictos que se presenten en el trabajo, así como para crear sociedades cohesionadas.
-
-ARTÍCULO
 
 ## art:2.2.9.4.4 — Del desarrollo e implementación de actividades en el día del trabajo decente
 
@@ -18712,8 +16528,6 @@ En la celebración del "Día del Trabajo Decente en Colombia", se presentaran ba
 4. Formalización.
 
 5. Protección a la vejez
-
-ARTÍCULO
 
 ## art:2.2.9.4.5 — Entidades o instituciones participantes en la celebración del día del trabajo decente en Colombia
 
@@ -18761,15 +16575,11 @@ Para la celebración del día del Trabajo Decente en Colombia", se debe a todos 
 
 23. Red Nacional de Formalización Laboral.
 
-ARTÍCULO
-
 ## art:2.2.9.4.6 — Financiación de la agenda para la celebración del día del trabajo decente
 
 El diseño de la agenda para la celebración del "Día del Trabajo Decente en Colombia", será coordinado por el Viceministerio de Relaciones Laborales e Inspección del Ministerio del Trabajo y la financiación de seminarios, eventos, feria de servicios y demás actividades adelantadas en este marco, se hará con recursos de los diferentes actores del Sector Trabajo que se relacionen con el trabajo decente, según su presupuesto y las políticas de los planes de desarrollo de las diferentes entidades territoriales de acuerdo con lo prescrito en el artículo 74 de la Ley 1753 de 2015.
 
 Conforme a la autonomía, recursos y políticas financieras de la respectiva entidad o institución, se podrán realizar las actividades y programas de celebración del "Día del Trabajo Decente en Colombia"
-
-ARTÍCULO
 
 ## art:2.2.9.4.7 — Coordinación de las actividades para la celebración del día del trabajo decente
 
@@ -18783,23 +16593,17 @@ CONDICIONES DE ACCESO A LA PRESTACIÓN HUMANITARIA PERIÓDICA PARA LAS VÍCTIMAS
 
 (Capítulo Adicionado por el Decreto 600 de 2017, art.
 
-ARTÍCULO
-
 ## art:2.2.9.5.1 — Objeto
 
 El presente capítulo tiene por objeto establecer e responsable del reconocimiento, las condiciones de acceso, el procedimiento operativo y la fuente de recursos de la prestación humanitaria periódica para las víctimas del conflicto armado prevista en el artículo 46 de la Ley 418 de 1997.
 
 (Decreto 600 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.2 — Ámbito de aplicación
 
 El presente capítulo aplica a las víctimas que con posterioridad a la entrada en vigencia de la Ley 418 de 1997, es decir el 26 de diciembre de 1997, hubieren sufrido una pérdida de capacidad laboral igual o superior al 50% como consecuencia de un acto de violencia suscitado en el marco del conflicto armado interno.
 
 (Decreto 600 de 2017, art.
-
-ARTÍCULO
 
 ## art:2.2.9.5.3 — Requisitos
 
@@ -18823,8 +16627,6 @@ PARÁGRAFO : Para los fines del presente capítulo tienen la calidad de víctima
 
 (Decreto 600 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.4 — Características de la prestación humanitaria periódica
 
 La prestación regulada en este capítulo se entregará directamente a la persona beneficiaria como una ayuda para su subsistencia y tendrá las siguientes características:
@@ -18843,8 +16645,6 @@ PARÁGRAFO . Las personas a quienes a la entrada en vigencia del presente capít
 
 (Decreto 600 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.5 — Reconocimiento de la calidad de beneficiario de la prestación humanitaria periódica
 
 La persona que aspire al reconocimiento de la prestación humanitaria periódica para las víctimas del conflicto armado y cumpla con los requisitos establecidos en este capítulo, deberá dirigirse al Ministerio del Trabajo para que se inicie el trámite de acreditación y reconocimiento de la correspondiente prestación.
@@ -18861,8 +16661,6 @@ Para el efecto deberá presentar la siguiente documentación:
 
 (Decreto 600 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.6 — Trámite de reconocimiento
 
 El Ministerio del Trabajo directamente o a través de un encargo fiduciario o de convenio interadministrativo que suscriba para tal efecto, deberá estudiar la solicitud de reconocimiento de la prestación humanitaria periódica y determinará si la persona se hace o no acreedora a dicha prestación. La solicitud deberá ser resuelta en un término que no podrá superar los 4 meses.
@@ -18875,8 +16673,6 @@ PARÁGRAFO 2. La Unidad para la Atención y Reparación Integral a las Victimas 
 
 (Decreto 600 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.7 — Financiación y pago de la prestación humanitaria periódica
 
 Los recursos que se requieran para el pago de la prestación de que trata el presente capítulo provendrán del Presupuesto General de la Nación. Para el efecto, el Ministerio de Hacienda y Crédito Público apropiará anualmente los recursos que sean necesarios en el presupuesto del Ministerio del Trabajo y éste a su vez deberá realizar todas las actuaciones administrativas y presupuestales que correspondan para garantizar el pago de dicha prestación.
@@ -18886,8 +16682,6 @@ PARÁGRAFO TRANSITORIO . El Fondo de Solidaridad Pensional continuará con el pa
 Colpensiones, dentro de los tres (3) meses siguientes a la entrada en vigencia del presente capítulo hará entrega al Ministerio del Trabajo de toda la información relacionada con las pensiones como víctimas de la violencia a trasladar y al Fondo de Solidaridad Pensional de los pagos que venga efectuando por las mismas. En todo caso Colpensiones debe garantizar la continuidad del pago de la pensión como víctimas de la violencia hasta tanto se concrete el paso del pago a quién corresponda.
 
 (Decreto 600 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.5.8 — Obligaciones del Ministerio del Trabajo
 
@@ -18904,8 +16698,6 @@ Con relación a la prestación humanitaria periódica para las víctimas de la v
 5. Ejercer la defensa judicial en los casos relacionados con la prestación humanitaria periódica.
 
 (Decreto 600 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.5.9 — 5.9
 
@@ -18931,8 +16723,6 @@ PARÁGRAFO : Las autoridades administrativas garantizarán en este evento el deb
 
 (Decreto 600 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.10 — Información
 
 El Ministerio del Trabajo deberá crear una base de datos en la que se encuentren plenamente identificadas todas las personas a las que se les haya reconocido como beneficiarias de la prestación humanitaria periódica prevista en el presente capítulo, la cual pondrá a disposición del Ministerio de Hacienda y Crédito Público y la Unidad para la Atención y Reparación Integral a las de Victimas - UARIV o quien haga sus veces para las acciones a que haya lugar.
@@ -18940,8 +16730,6 @@ El Ministerio del Trabajo deberá crear una base de datos en la que se encuentre
 PARÁGRAFO . Para los efectos del intercambio de información que se requiere conforme a lo previsto en este capítulo se dará aplicación a lo dispuesto en el artículo 159 de la Ley 1753 de 2015.
 
 (Decreto 600 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.5.11 — Presentación de solicitud para calificación de pérdida de capacidad laboral
 
@@ -19169,8 +16957,6 @@ PARTE 1
 
 Derogatoria y Vigencia
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este Decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector Trabajo que versen sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -19207,8 +16993,6 @@ Decreto 1507 de 2014, ''por el cual se expide el Manual Único para la Calificac
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -19220,91 +17004,3 @@ Dado en Bogotá D.C., a los 26 días del mes mayo del año 2015
 LUIS EDUARDO GARZÓN
 
 EL MINISTRO DEL TRABAJO
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

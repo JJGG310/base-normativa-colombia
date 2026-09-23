@@ -7,7 +7,7 @@ ramas: [electoral, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_2241_1986.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — 
@@ -72,7 +72,7 @@ ubicacion: TITULO I. NORMAS GENERALES
 
 El Presidente de la República, los Ministros y Viceministros del Despacho, los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado, el Contralor General de la República, el Procurador General de la Nación, los Jefes de departamentos administrativos y el Registrador Nacional del Estado Civil, no podrán ser elegidos miembros del Congreso sino un año después de haber cesado en el ejercicio de sus funciones. 
 
-<Ver Notas del Editor> Tampoco podrán ser elegidos miembros del congreso o Diputados los Gobernadores, los Alcaldes de capitales de departamento o de ciudades con más de trescientos mil habitantes, los Contralores Departamentales y los Secretarios de Gobernación, sino un año después de haber cesado en el ejercicio de sus funciones; ni tampoco cualquier otro funcionario que seis meses antes de la elección haya ejercido jurisdicción o autoridad civil, política o militar en la Circunscripción electoral respectiva. 
+ Tampoco podrán ser elegidos miembros del congreso o Diputados los Gobernadores, los Alcaldes de capitales de departamento o de ciudades con más de trescientos mil habitantes, los Contralores Departamentales y los Secretarios de Gobernación, sino un año después de haber cesado en el ejercicio de sus funciones; ni tampoco cualquier otro funcionario que seis meses antes de la elección haya ejercido jurisdicción o autoridad civil, política o militar en la Circunscripción electoral respectiva. 
 
 Dentro del mismo período constitucional nadie podrá ser elegido Senador y Representante, ni elegido tampoco por más de una Circunscripción Electoral para los mismos cargos. La infracción de este precepto vicia de nulidad ambas elecciones. (Artículo 32 del acto Legislativo número 1 de 1968).
 
@@ -108,7 +108,7 @@ EL Consejo Nacional Electoral ejercerá las siguientes funciones:
 
 1. <Numeral derogado por la Ley 1134 de 2007, Ver Sentencia C-230A-08>
 
-2. <Numeral CONDICIONALMENTE exequible, aparte tachado INEXEQUIBLE> Remover al Registrador Nacional del Estado Civil por parcialidad política o por cualesquiera de las causales establecidas en la Ley.
+2. <Numeral CONDICIONALMENTE exequible, aparte tachado INEXEQUIBLE> Remover al Registrador Nacional del Estado Civil [TACHADO: por parcialidad política o] por cualesquiera de las causales establecidas en la Ley.
 
 3. Designar sus delegados para que realicen los escrutinios generales en cada Circunscripción Electoral. 
 
@@ -132,7 +132,7 @@ EL Consejo Nacional Electoral ejercerá las siguientes funciones:
 
 PARAGRAFO. El Consejo Nacional Electoral cumplirá las funciones que otras Le yes asignaban o asignen a la Corte Electoral.
 
-## art:13 — Ver Notas del Editor
+## art:13 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 El Consejo Nacional electoral será cuerpo consultivo del Gobierno en materia electoral y como tal podrá recomendarle proyectos de acto legislativo, de Ley y de Decreto.
@@ -146,49 +146,49 @@ El Consejo Nacional Electoral, antes de resolver en ejercicio de dicha atribuci�
 
 El Consejo, antes de resolver, oirá a las partes en audiencia pública para la sustentación de sus recursos y éstas podrán dejar un resumen escrito de sus intervenciones. Oídas las partes, el Consejo convocará a audiencia pública para notificar en estrados su Acuerdo, una vez que haya sido discutido y aprobado en audiencias privadas por sus miembros.
 
-## art:15 — Ver Notas del Editor
+## art:15 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 El Consejo Nacional Electoral estará integrado por siete (7) miembros, elegidos así: Tres (3) por cada uno de los partidos que hubieren obtenido mayor número de votos en la última elección del Congreso, y uno (1) por el partido distinto de los anteriores que les siga en votación. 
 
 Al acreditar las calidades para la confirmación del nombramiento, los Consejeros presentarán atestación juramentada de pertenecer al partido político a cuyo nombre fueron elegidos.
 
-## art:16 — Ver Notas del Editor
+## art:16 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 Los miembros del Consejo Nacional Electoral serán elegidos por el Consejo de Estado en pleno para un período de cuatro años que comenzará al primero de septiembre inmediatamente siguiente a la iniciación de cada uno de los respectivos períodos constitucionales del Congreso y no podrán ser reelegidos para el período inmediatamente siguiente. Los miembros del Consejo Nacional Electoral tomarán posesión de su cargo ante el Presidente del Consejo de Estado.
 
-## art:17 — Ver Notas del Editor
+## art:17 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 Para ser miembro del Consejo Nacional Electoral se requieren las mismas calidades que para ser Magistrado de la Corte Suprema de Justicia; no haber sido elegido para corporación popular ni haber actuado como miembro de directorio político, en los dos años anteriores a su nombramiento; ni ser él o su cónyuge pariente de alguno de los Consejeros de Estado que tengan derecho a intervenir en la elección hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil.
 
-## art:18 — Ver Notas del Editor
+## art:18 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 Los miembros del Consejo Nacional Electoral ejercerán sus funciones en forma permanente, sin sujeción a jornada ni a remuneración fija mensual y estarán sometidos a la prohibición del ejercicio de toda actividad partidista y de todo cargo público. No estarán sujetos a la edad de retiro forzoso.
 
-## art:19 — Ver Notas del Editor
+## art:19 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 El Consejo Nacional Electoral se reunirá por convocatoria de su Presidente, de la mayoría de sus miembros o por solicitud del Registrador Nacional del Estado Civil, y lo hará por lo menos una vez al mes.
 
-## art:20 — Ver Notas del Editor
+## art:20 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 En las reuniones del Consejo Nacional Electoral el quórum para deliberar será el de la mitad más uno de los miembros que integran la corporación, y las decisiones en todos los casos se adoptarán por las dos terceras partes de los integrantes de la misma.
 
-## art:21 — Ver Notas del Editor
+## art:21 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 El Consejo de Estado elegirá un cuerpo de conjueces del Consejo Nacional Electoral, igual al doble de sus miembros en forma que refleje la composición política de éste. Cuando se presenten empates, impedimentos o recusaciones aceptados por el Consejo Nacional, o cuando no haya decisión, éste sorteará conjueces. En casos de impedimento o recusaciones, el conjuez será de la misma filiación política del Consejero separado.
 
-## art:22 — Ver Notas del Editor
+## art:22 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 Los miembros del Consejo Nacional Electoral no podrán ser elegidos para cargos de elección popular durante el período para el cual fueron nombrados, ni dentro del año siguiente, contado a partir del día en que hayan cesado en el ejercicio de sus funciones.
 
-## art:23 — Ver Notas del Editor
+## art:23 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 Durante el período para el cual sean designados y hasta un año después de haber cesado en el ejercicio de sus funciones, los miembros del consejo Nacional Electoral estarán inhabilitados; 
@@ -199,12 +199,12 @@ b) Para celebrar por sí o por Interpuesta persona contratos con el Estado, y
 
 c) Para ser Presidente de la República, Ministro o Viceministro del Despacho, Contralor General de la República, Procurador General de la Nación, Jefe de Departamento Administrativo, miembro del Congreso Nacional o Gobernador de Departamento.
 
-## art:24 — Ver Notas del Editor
+## art:24 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 Los miembros del Consejo Nacional Electoral son responsables de sus actuaciones ante la Sala Penal de la Corte Suprema de Justicia o de la entidad que haga sus veces y se les aplicará el mismo régimen de impedimentos y recusaciones que rige para los Magistrados de dicha Corte.
 
-## art:25 — Ver Notas del Editor
+## art:25 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO II. CONSEJO NACIONAL ELECTORAL
 
 El Gobierno Nacional, mediante Decreto ejecutivo, señalará anualmente los honorarios y viáticos que ha de devengar los miembros del Consejo Nacional Electoral. 
@@ -230,9 +230,9 @@ El Registrador Nacional del Estado Civil tendrá las siguientes funciones:
 
 6. Actuar como Secretario del Consejo Nacional Electoral y como clavero del arca triclave de la misma corporación. 
 
-7. <Aparte tachado INEXEQUIBLE> Crear, fusionar, suprimir cargos y señalar las asignaciones correspondientes, con aprobación del Consejo Nacional Electoral. 
+7. <Aparte tachado INEXEQUIBLE> Crear, fusionar, suprimir cargos y señalar las asignaciones correspondientes, [TACHADO: con aprobación del Consejo Nacional Electoral]. 
 
-8. <Numeral CONDICIONALMENTE exequible. Apartes tachados INEXEQUIBLES> Nombrar al Secretario General, quien será de distinta filiación política a la suya, así como a los Visitadores Nacionales, Delegados del Registrador Nacional del Estado Civil y Registradores Distritales de Bogotá, con aprobación del Consejo Nacional Electoral, y a los demás empleados de las oficinas centrales. Tanto el Secretario General como los Visitadores Nacionales deberán reunir las calidades de Magistrado del Tribunal Superior, o haber desempeñado uno de estos cargos por un periodo no menor de dos años. 
+8. <Numeral CONDICIONALMENTE exequible. Apartes tachados INEXEQUIBLES> Nombrar al Secretario General, [TACHADO: quien será de distinta filiación política a la suya], así como a los Visitadores Nacionales, Delegados del Registrador Nacional del Estado Civil y Registradores Distritales de Bogotá, [TACHADO: con aprobación del Consejo Nacional Electoral], y a los demás empleados de las oficinas centrales. Tanto el Secretario General como los Visitadores Nacionales deberán reunir las calidades de Magistrado del Tribunal Superior, o haber desempeñado uno de estos cargos por un periodo no menor de dos años. 
 
 9. Aprobar los nombramientos de Registradores de las capitales de departamentos y de aquellas ciudades que tengan más de cien mil (100.00) cédulas vigentes. 
 
@@ -248,7 +248,7 @@ El Registrador Nacional del Estado Civil tendrá las siguientes funciones:
 
 15.Elaborar el presupuesto de la Registraduría. 
 
-16. <Aparte tachado INEXEQUIBLE> Fijar, con aprobación del Consejo Nacional Electoral, los viáticos para las comisiones escrutadoras distritales, municipales y auxiliares, los jurados de votación cuando presten el servicio fuera del lugar donde residen y los empleados de la Registraduría del Estado Civil. 
+16. <Aparte tachado INEXEQUIBLE> Fijar, [TACHADO: con aprobación del Consejo Nacional Electoral], los viáticos para las comisiones escrutadoras distritales, municipales y auxiliares, los jurados de votación cuando presten el servicio fuera del lugar donde residen y los empleados de la Registraduría del Estado Civil. 
 
 17.Autorizar el pago de viáticos y gastos de transporte y reconocer y ordenar el pago de los demás gastos, a nivel nacional, que afecten el presupuesto de la Registraduría Nacional del Estado Civil. 
 
@@ -262,17 +262,17 @@ El Registrador Nacional del Estado Civil tendrá las siguientes funciones:
 
 22.Las demás que le señale el Consejo Nacional Electoral.
 
-## art:27 — Ver Notas del Editor
+## art:27 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO III. REGISTRADOR NACIONAL DEL ESTADO CIVIL
 
 El Registrador Nacional del Estado Civil será elegido para un período de (4) años, que comenzará a contarse a partir del día primero (1) de octubre de mil novecientos noventa (1990).
 
-## art:28 — Ver Notas del Editor
+## art:28 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO III. REGISTRADOR NACIONAL DEL ESTADO CIVIL
 
 Para ser Registrador Nacional del Estado Civil se requieren las mismas calidades para ser miembro del Consejo Nacional Electoral o haber desempeñado aquel cargo en propiedad.
 
-## art:29 — Ver Notas del Editor
+## art:29 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO III. REGISTRADOR NACIONAL DEL ESTADO CIVIL
 
 La elección de Registrador Nacional del Estado Civil no podrá recaer en quien haya aceptado candidatura a una corporación de elección popular en los dos años anteriores a la elección o hubiere hecho parte de un directorio político en el mismo lapso, ni el cónyuge de éste o aquél, o quien sea pariente él o su cónyuge de alguno de los miembros del Consejo Nacional Electoral o del Consejo de Estado, hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil.
@@ -290,7 +290,7 @@ El Registrador Nacional del Estado Civil tendrá la misma remuneración que la L
 ## art:32 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO IV. DELEGADOS DEL REGISTRADOR NACIONAL
 
-En cada Circunscripción Electoral habrá dos (2) Delegados del Registrador Nacional del Estado Civil, de filiación política distinta, quienes tendrán la responsabilidad y vigilancia de la organización electoral, lo mismo que el funcionamiento de las dependencias de la Registraduría Nacional, a nivel seccional.
+En cada Circunscripción Electoral habrá dos (2) Delegados del Registrador Nacional del Estado Civil, [TACHADO: de filiación política distinta], quienes tendrán la responsabilidad y vigilancia de la organización electoral, lo mismo que el funcionamiento de las dependencias de la Registraduría Nacional, a nivel seccional.
 
 ## art:33 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO IV. DELEGADOS DEL REGISTRADOR NACIONAL
@@ -360,7 +360,7 @@ Los Delegados del Registrador Nacional del Estado Civil y los Registradores Dist
 ## art:40 — Aparte tachado INEXEQUIBLE
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO V. REGISTRADORES DISTRITALES
 
-En el Distrito Especial de Bogotá habrá dos (2) Registradores Distritales, de filiación política distinta, quienes tendrán la responsabilidad y vigilancia de la organización electoral, lo mismo que del funcionamiento de las dependencias de la Registraduría Distrital.
+En el Distrito Especial de Bogotá habrá dos (2) Registradores Distritales, [TACHADO: de filiación política distinta], quienes tendrán la responsabilidad y vigilancia de la organización electoral, lo mismo que del funcionamiento de las dependencias de la Registraduría Distrital.
 
 ## art:41 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO V. REGISTRADORES DISTRITALES
@@ -413,19 +413,7 @@ Las decisiones de los Registradores Distritales serán tomadas de común acuerdo
 ## art:43 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO V. REGISTRADORES DISTRITALES
 
-Los Registradores Distritales deberán tener las mismas calidades de los Delegados del Registrador Nacional del Estado Civil. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Los Registradores Distritales deberán tener las mismas calidades de los Delegados del Registrador Nacional del Estado Civil.
 
 ## art:44 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO V. REGISTRADORES DISTRITALES
@@ -447,7 +435,7 @@ ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO VI. REGISTRADORES MUNICI
 
 En cada municipio habrá un (1) Registrador Municipal del Estado Civil, quien tendrá la responsabilidad y vigilancia de la organización electoral, lo mismo que del funcionamiento de las dependencias de la Registraduría Municipal. 
 
-PARAGRAFO. <Aparte tachado INEXEQUIBLE> En las ciudades que tengan más de cien mil (100.000) cédulas vigentes, habrá dos (2) Registradores Municipales de distinta filiación política.
+PARAGRAFO. <Aparte tachado INEXEQUIBLE> En las ciudades que tengan más de cien mil (100.000) cédulas vigentes, habrá dos (2) Registradores Municipales [TACHADO: de distinta filiación política].
 
 ## art:48 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO VI. REGISTRADORES MUNICIPALES Y AUXILIARES
@@ -605,7 +593,7 @@ c) Expedición de la cédula a un menor de edad;
 
 d) Expedición de la cédula a un extranjero que no tenga carta de naturaleza; 
 
-e) <Aparte tachado INEXEQUIBLE> Pérdida de la ciudadanía por haber adquirido carta de naturaleza en otro país, y 
+e) <Aparte tachado INEXEQUIBLE> Pérdida de la ciudadanía [TACHADO: por haber adquirido carta de naturaleza en otro país], y 
 
 f) Falsa identidad o suplantación.
 
@@ -673,7 +661,7 @@ No surtirán efecto las inscripciones que se efectúen sin el lleno de los requi
 ## art:79 — Aparte tachado INEXEQUIBLE
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
 
-La Registraduría Nacional del Estado Civil, previo concepto del Consejo Nacional Electoral, señalará los municipios con más de veinte mil (20.000) cédulas aptas para votar que deben ser divididos en zonas destinadas a facilitar las inscripciones, votaciones y escrutinios.
+La Registraduría Nacional del Estado Civil, [TACHADO: previo concepto del Consejo Nacional Electoral], señalará los municipios con más de veinte mil (20.000) cédulas aptas para votar que deben ser divididos en zonas destinadas a facilitar las inscripciones, votaciones y escrutinios.
 
 ## art:80 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
@@ -707,7 +695,7 @@ ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUF
 ## art:85 — Aparte tachado INEXEQUIBLE
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
 
-<Artículo modificado por el artículo 9 de la Ley 6 de 1990. El nuevo texto es el siguiente:> La Registraduría Nacional, previo concepto favorable del Consejo Nacional Electoral, fijará el número de ciudadanos que podrán sufragar en las distintas mesas de votación. La Registraduría Nacional del Estado Civil elaborará, para cada mesa, las listas de cédulas aptas para votar en las cabeceras municipales, corregimientos e inspecciones de policía donde funcionen mesas de votación. Si después de elaboradas las listas se cancelaren o excluyeren una o más cédulas, el correspondiente Registrador del Estado Civil o su Delegado enviarán a la respectivas mesas de votación la lista de cédulas con las que no se puede sufragar.
+<Artículo modificado por el artículo 9 de la Ley 6 de 1990. El nuevo texto es el siguiente:> La Registraduría Nacional, [TACHADO: previo concepto favorable del Consejo Nacional Electoral], fijará el número de ciudadanos que podrán sufragar en las distintas mesas de votación. La Registraduría Nacional del Estado Civil elaborará, para cada mesa, las listas de cédulas aptas para votar en las cabeceras municipales, corregimientos e inspecciones de policía donde funcionen mesas de votación. Si después de elaboradas las listas se cancelaren o excluyeren una o más cédulas, el correspondiente Registrador del Estado Civil o su Delegado enviarán a la respectivas mesas de votación la lista de cédulas con las que no se puede sufragar.
 
 ## art:86 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
@@ -721,35 +709,35 @@ ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUF
 
 De cada una de las listas de sufragantes se sacarán tres (3) ejemplares: Uno para el archivo del respectivo Registrador del Estado Civil o de su Delegado, otro para la mesa de votación y el otro para fijar en lugar público inmediato a dicha mesa.
 
-## art:88 — Ver Notas del Editor
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+## art:88 — Artículo modificado por el artículo 4 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
-<Artículo modificado por el artículo 4 de la Ley 62 de 1988. El nuevo texto es el siguiente:> El término para la inscripción de candidatos a la distintas corporaciones de elección popular vence a las seis (6) de la tarde del primer lunes del correspondiente mes de abril.
+El término para la inscripción de candidatos a la distintas corporaciones de elección popular vence a las seis (6) de la tarde del primer lunes del correspondiente mes de abril.
 
 ## art:89 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 Si al vencimiento de los términos señalados en el artículo anterior, el funcionario electoral no ha recibido la aceptación escrita de una candidatura, se entenderá que el candidato no la acepta, y, por consiguiente, podrá ser reemplazado por los inscriptores, conforme el artículo 94 de este Código.
 
 ## art:90 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 Las candidaturas a la Presidencia de la República serán inscritas ante el Registrador Nacional del Estado Civil. Las listas de candidatos para el Senado de la República, Cámara de Representantes, Asambleas Departamentales y Consejos Intendenciales se inscribirán ante los correspondiente Delegados del Registrador Nacional del Estado Civil; las listas de candidatos para los Consejos Comisariales se inscribirán ante el Registrador del Estado Civil de la capital de la Comisaría y las de los Concejos Distrital y Municipales ante los respectivos Registradores Distritales y Municipales.
 
 ## art:91 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 Los candidatos a la Presidencia de la República deberán acreditar ante la Sala de Consulta y Servicio Civil del Consejo de Estado, que reúnen las calidades constitucionales requeridas para el cargo. Esta Sala expedirá, dentro de los seis (6) días siguientes a la petición del candidato, una certificación al respecto que se acompañará a la solicitud que se le formule al Registrador Nacional para la inscripción de la candidatura presidencial. Los miembros de la Sala incurrirán en causal de mala conducta si no expidieren la mencionada certificación dentro del término señalado en este artículo.
 
 ## art:92 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 Las constancias escritas de aceptación de los candidatos deberán acompañarse a la solicitud de inscripción o presentarse antes del vencimiento del término de dicha inscripción, y en el caso del artículo 94 de este Código, las constancias escritas de aceptación de los candidatos reemplazantes deberán acompañarse a la solicitud de modificación de las listas de candidatos. 
 
 <Inciso derogado>
 
-## art:93 — Ver Notas del Editor
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+## art:93 — 
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 En la solicitud de inscripción debe hacerse mención expresa del partido o movimiento político por el cual se inscribe una candidatura o lista de candidatos, y los inscriptores harán ante el respectivo funcionario electoral, bajo juramento, la declaración de que son afiliados a ese partido o movimiento político. Para los candidatos tal juramento se entiende prestado por su firma en el memorial de aceptación de la candidatura. 
 
@@ -759,30 +747,30 @@ El incumplimiento de esta disposición es causal de mala conducta que implica p�
 
 <Inciso adicionado por el artículo 5 de la Ley 62 de 1988. El nuevo texto es el siguiente:> En la solicitud de inscripción de candidatos a la Presidencia de la República se hará mención expresa del partido o movimiento político por el cual se inscribe junto con los símbolos, emblemas, color, colores o combinación de colores que se usarán para identificar la tarjeta electoral respectiva. Los inscriptores y los candidatos harán ante el respectivo funcionario electoral declaración bajo juramento de que son afiliados a ese partido o movimiento político. Sin embargo los candidatos podrán prestar el juramento con la manifestación escrita en ese sentido en el memorial de aceptación de la respectiva candidatura.
 
-## art:94 — Ver Notas del Editor
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+## art:94 — 
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 En caso de muerte, pérdida de los derechos políticos, renuncia o no aceptación de alguno o algunos de los candidatos, podrán modificarse las listas por la mayoría de los que hayan inscrito a más tardar quince (15) días calendario antes de la fecha de las votaciones.
 
-## art:95 — Ver Notas del Editor
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+## art:95 — Artículo modificado por el artículo 6 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
-<Artículo modificado por el artículo 6 de la Ley 62 de 1988. El nuevo texto es el siguiente:> En caso de muerte o renuncia de alguno o algunos de los candidatos a la Presidencia de la República, podrá inscribirse el nuevo candidato a más tardar en veinte (20) días calendario antes de la fecha de la elección. En este caso, las calidades constitucionales las acreditará ante el Registrador Nacional de el Estado Civil en el acto de inscripción. 
+En caso de muerte o renuncia de alguno o algunos de los candidatos a la Presidencia de la República, podrá inscribirse el nuevo candidato a más tardar en veinte (20) días calendario antes de la fecha de la elección. En este caso, las calidades constitucionales las acreditará ante el Registrador Nacional de el Estado Civil en el acto de inscripción. 
 
 PARAGRAFO. Si se produjere la muerte o incapacidad física permanente del candidato a la Presidencia de la república después del término señalado anteriormente podrá inscribirse el nuevo candidato a más tardar ocho (8) días antes de la fecha de la elección. En tal evento la Registraduría Nacional del Estado Civil autorizará la votación por medio de papeletas.
 
 ## art:96 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 La muerte sólo podrá acreditarse con la partida de defunción y la pérdida de los derechos políticos con la certificación expedida por la competente autoridad jurisdiccional. La renuncia a la candidatura deberá formularse por escrito presentado personalmente por el renunciante al funcionario electoral correspondiente, quien hará constar esta circunstancia, o mediante comunicación dirigida por el mismo renunciante al respectivo funcionario con nota de presentación personal ante un juez, notario o agente consular.
 
 ## art:97 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 <Artículo derogado por el artículo 14 de la Ley 6 de 1990>
 
 ## art:98 — 
-ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 Los Delegados del Registrador Nacional del Estado Civil comunicarán a éste las listas de candidatos inscritos para Congreso, Asambleas y Consejo Intendencial, inmediatamente venza el término para la modificación de éstas. 
 
@@ -805,7 +793,7 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO I. MESAS DE VOTACION
 ## art:101 — Apartes tachados INEXEQUIBLES
 ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
 
-<Ver Notas del Editor> Los Registradores Distritales y Municipales integrarán a más tardar quince (15) días calendario antes de la respectiva elección, los jurados de votación, a razón de cuatro (4) principales y cuatro (4) suplentes para cada mesa, con ciudadanos no mayores de sesenta y cinco (65) años, pertenecientes a diferentes partidos políticos, en forma tal que no existan jurados homogéneos, aún en aquellos lugares donde únicamente haya afiliados a una sola agrupación partidista. En este caso se nombrarán como jurados de otros partidos a ciudadanos de lugares próximos y para ello podrá requerirse la colaboración de las autoridades y de las directivas políticas. 
+Los Registradores Distritales y Municipales integrarán a más tardar quince (15) días calendario antes de la respectiva elección, los jurados de votación, a razón de cuatro (4) principales y cuatro (4) suplentes para cada mesa, con ciudadanos no mayores de sesenta y cinco (65) años, [TACHADO: pertenecientes a diferentes partidos políticos], en forma tal que no existan jurados homogéneos, [TACHADO: aún en aquellos lugares donde únicamente haya afiliados a una sola agrupación partidista].[TACHADO: En este caso se nombrarán como jurados de otros partidos a ciudadanos de lugares próximos y para ello podrá requerirse la colaboración de las autoridades y de las directivas políticas]. 
 
 Los jurados de votación recibirán en las oficinas del Registrador del Estado Civil o de sus Delegados las instrucciones necesarias para el correcto desempeño de sus funciones. 
 
@@ -816,7 +804,7 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
 
 <Artículo INEXEQUIBLE>
 
-## art:103 — Ver Notas del Editor
+## art:103 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
 
 La Registraduría Nacional del Estado Civil divulgará instrucciones para el cabal desempeño de las funciones de jurado de votación. La televisora y la radio nacional estarán obligadas a transmitir programas preparados por la Registraduría Nacional en este sentido.
@@ -835,7 +823,7 @@ Los jurados de votación deberán fijar en lugar visible y adheridos a la urna r
 
 <Aparte subrayado declarado CONDICIONALMENTE exequible> Los jurados de votación que trabajen en el sector público o privado tendrán derecho a un (1) día compensatorio de descanso remunerado dentro de los cuarenta y cinco (45) días siguientes a la votación. 
 
-<Ver Notas de Vigencia> Las personas que sin justa causa no concurran a desempeñar las funciones de jurados de votación o las abandonen, se harán acreedoras a la destitución del cargo que desempeñen, si fueren empleados oficiales; y si no lo fueren, a una multa de cinco mil pesos ($ 5.000.00), mediante resolución dictada por el Registrador del Estado Civil.
+ Las personas que sin justa causa no concurran a desempeñar las funciones de jurados de votación o las abandonen, se harán acreedoras a la destitución del cargo que desempeñen, si fueren empleados oficiales; y si no lo fueren, a una multa de cinco mil pesos ($ 5.000.00), mediante resolución dictada por el Registrador del Estado Civil.
 
 ## art:106 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
@@ -907,7 +895,7 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
 <Artículo derogado por el artículo 14 de la Ley 6 de 1990>
 
-## art:116 — Ver Notas del Editor
+## art:116 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
 Los ciudadanos también podrán sufragar en el exterior para Presidente de la República, en las Embajadas, Consulados y demás locales que para el efecto habilite el Gobierno, previa inscripción de la cédula de ciudadanía o pasaporte vigente, hecha ante la respectiva Embajada o Consulado, a más tardar quince (15) días antes de las elecciones. 
@@ -930,7 +918,7 @@ La Registraduría Nacional dispondrá qué funcionarios de la organización elec
 ## art:118 — Aparte tachado INEXEQUIBLE
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
-El Presidente del Jurado ordenará que se retiren las personas que en cualquier forma perturben el ejercicio del sufragio. Si no obedecieren, podrá ordenar que sean retenidas en la cárcel o en algún cuerpo de guardia hasta el día siguiente de las elecciones.
+El Presidente del Jurado ordenará que se retiren las personas que en cualquier forma perturben el ejercicio del sufragio. [TACHADO: Si no obedecieren, podrá ordenar que sean retenidas en la cárcel o en algún cuerpo de guardia hasta el día siguiente de las elecciones].
 
 ## art:119 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
@@ -944,14 +932,14 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
 <Artículo derogado por el artículo 14 de la Ley 6 de 1990>
 
-## art:121 — Ver Notas del Editor
+## art:121 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
 Para garantizar la pureza y publicidad de las votaciones, los directorios o movimientos políticos que hayan inscrito candidatos tendrán derecho a presentar ante los Registradores del Estado Civil listas de personas de reconocida honorabilidad para que actúen como testigos electorales a razón de uno (1) por cada mesa de votación. 
 
 Los Registradores del Estado Civil les expedirán una credencial, que les permita el ejercicio de esa función pública transitoria y las autoridades estarán obligadas a prestarles la debida colaboración.
 
-## art:122 — Ver Notas del Editor
+## art:122 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
 Los testigos electorales supervigilarán las elecciones y podrán formular reclamaciones escritas cuando el número de sufragantes de una mesa exceda el número de ciudadanos que podían votar en ella; cuando aparezca de manifiesto que en las actas de escrutinios se incurrió en error aritmético al computar los votos; cuando, con base en las papeletas de votación y en las diligencias de inscripción, aparezca de manera clara e inequívoca que en el acta de escrutinio se incurrió en error al anotar el nombre o apellidos de uno o más candidatos; y cuando los cuatro (4) ejemplares de las actas de escrutinio de los jurados de votación estén firmados por menos de tres (3) de éstos. Tales reclamaciones se adjuntarán a los documentos electorales y sobre ellas se resolverá en los escrutinios. Las reclamaciones que tuvieren por objeto solicitar el recuento de papeletas, serán atendidas en forma inmediata por los jurados de votación, quienes dejarán constancia en el acta del recuento practicado. 
@@ -994,7 +982,7 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO VI. CONVOCATORIA A NUEVAS ELECCIONES
 
 En caso de grave perturbación del orden público que haga imposible el desarrollo de las votaciones, el respectivo Gobernador, Intendente o Comisario, con aprobación del Gobierno Nacional, diferirá las elecciones y comunicará a la Registraduría Nacional y al público, con un (1) mes de anticipación, por lo menos, la nueva fecha en que deban verificarse.
 
-## art:129 — Ver Notas del Editor
+## art:129 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO VI. CONVOCATORIA A NUEVAS ELECCIONES
 
 Cuando por sentencia ejecutoriada se declare nula la elección de la mitad o más de los Senadores de la República, o de los Representantes a la Cámara, o de los Diputados a la Asamblea, o de los Consejeros Intendenciales, correspondientes a determinada Circunscripción Electoral, y en caso de que, por faltas absolutas de principales y suplentes, los Senadores, Representantes, Diputados o Consejeros Intendenciales de una Circunscripción Electoral queden reducidos a la mitad o menos del número correspondientes, el Gobierno convocará a elecciones para llenar las plazas vacantes, y fijará la fecha en que deban verificarse. 
@@ -1004,19 +992,7 @@ Servirán para esta elección las mismas listas de sufragantes que se utilizaron
 ## art:130 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO VI. CONVOCATORIA A NUEVAS ELECCIONES
 
-Si ya se hubieren iniciado las sesiones del último año del período de los Senadores, Representantes, Diputados, Consejeros Intendenciales o Concejales Municipales, cuyas plazas quedan vacantes, no se convocará a nuevas elecciones. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Si ya se hubieren iniciado las sesiones del último año del período de los Senadores, Representantes, Diputados, Consejeros Intendenciales o Concejales Municipales, cuyas plazas quedan vacantes, no se convocará a nuevas elecciones.
 
 ## art:131 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO VI. CONVOCATORIA A NUEVAS ELECCIONES
@@ -1139,9 +1115,9 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO II. ARCAS TRICLAVES Y CLAVEROS
 
 Si hubiere varios jueces municipales actuará como clavero el Juez Civil Municipal y, en su defecto, el Penal o el Promiscuo Municipal. Si hubiere varios Jueces de la misma categoría el primero de ellos. 
 
-Si habiendo varios Jueces Municipales, el Alcalde y el Registrador del Estado Civil fueren de la misma filiación política del Juez que debe actuar como clavero, hará entonces sus veces un Juez Municipal de filiación distinta a la de aquéllos, dentro del orden de precedencia señalado en el inciso anterior. 
+[TACHADO: Si habiendo varios Jueces Municipales, el Alcalde y el Registrador del Estado Civil fueren de la misma filiación política del Juez que debe actuar como clavero, hará entonces sus veces un Juez Municipal de filiación distinta a la de aquéllos, dentro del orden de precedencia señalado en el inciso anterior. ]
 
-En el caso de que los claveros municipales sean de la misma filiación política, el Gobernador, Intendente o Comisario designará para este solo efecto un Alcalde ad hoc, de filiación distinta a la de los dos (2) claveros restantes. 
+[TACHADO: En el caso de que los claveros municipales sean de la misma filiación política, el Gobernador, Intendente o Comisario designará para este solo efecto un Alcalde ad hoc, de filiación distinta a la de los dos (2) claveros restantes. ]
 
 La falta de asistencia de uno de los claveros será suplida por un ciudadano de reconocida honorabilidad, que escogerán de común acuerdo los otros dos, en forma tal que los tres (3) claveros no pertenezcan a un mismo partido.
 
@@ -1201,7 +1177,7 @@ Los empleados de comunicaciones así como los claveros y delegados municipales q
 ## art:157 — Aparte tachado INEXEQUIBLE
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNICIPALES Y ZONALES
 
-Diez (10) días antes de las correspondientes elecciones, los Tribunales Superiores de Distrito Judicial deberán designar, en Sala Plena, las comisiones escrutadoras distritales y municipales formadas por dos (2) ciudadanos de distinta filiación política, que sean jueces, notarios o registradores de instrumentos públicos en el respectivo distrito judicial. 
+Diez (10) días antes de las correspondientes elecciones, los Tribunales Superiores de Distrito Judicial deberán designar, en Sala Plena, las comisiones escrutadoras distritales y municipales formadas por dos (2) ciudadanos [TACHADO: de distinta filiación política], que sean jueces, notarios o registradores de instrumentos públicos en el respectivo distrito judicial. 
 
 Los términos se suspenderán en los despachos de los jueces designados durante el tiempo en que cumplan su comisión de escrutadores. 
 
@@ -1223,14 +1199,14 @@ Cuando los designados como escrutadores sean empleados públicos, la multa mient
 
 Los Delegados del Registrador Nacional del Estado Civil podrán exonerar del pago de la multa y de la causal de mala conducta a quienes acrediten que su incumplimiento se debió a alguna de las causales establecidas en los literales a) y b) del artículo 108 de este Código, demostrada en la forma prevista en esta disposición.
 
-## art:160 — Ver Notas del Editor
+## art:160 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNICIPALES Y ZONALES
 
 Las comisiones escrutadoras distritales, municipales y auxiliares comenzarán el escrutinio a las nueve (9) de la mañana del martes siguiente a las elecciones en el local que la respectiva Registraduría previamente señale. 
 
 Cuando no sea posible terminar el escrutinio antes de las nueve (9) de la noche del citado día, se continuará a las nueve (9) de la mañana del día siguiente en forma permanente, y si tampoco termina, se proseguirá durante los días calendario subsiguientes y en las horas indicadas hasta concluirlo.
 
-## art:161 — Ver Notas del Editor
+## art:161 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNICIPALES Y ZONALES
 
 Los miembros de las comisiones escrutadoras deberán estar en la sede del escrutinio, a más tardar el lunes siguiente a las elecciones, activarán la entrega de los pliegos electorales de los corregimientos, inspecciones de policía y sectores rurales que no se hayan introducido en el arca triclave al empezar el escrutinio, verificarán cuidadosamente el día, la hora y el estado de los mismos al ser entregados, de todo lo cual se dejará constancia en el acta de introducción que suscriben los claveros. 
@@ -1323,52 +1299,52 @@ Terminados los escrutinios distritales y municipales, los Registradores, acompa�
 Los testigos electorales tendrán el derecho de acompañar al Registrador y a la fuerza pública en el acto del transporte y ninguna autoridad podrá impedir la vigilancia ejercida por tales testigos, y la violación de ese derecho implicará causal de mala conducta.
 
 ## art:175 — Inciso 1o. modificado por el artículo 13 de la Ley 62 de 1988. El nuevo texto es el siguiente:
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 El Consejo Nacional Electoral formará, hasta treinta (30) días antes de cada elección, una lista de ciudadanos en número equivalente al doble de los departamentos, a fin de practicar los escrutinios de los votos para Senadores, Representantes, Diputados, consejeros intendenciales y Comisariales, según el caso, y computar los votos para Presidente de la República y Alcaldes Municipales. Dicha lista estará formada por ciudadanos pertenecientes a los partidos que tengan mayor representación en el Congreso y que hayan sido Magistrados de la Corte Suprema de Justicia, Consejero de Estado, miembro del Consejo Nacional Electoral ,Magistrado del Tribunal Superior o Contencioso Administrativo o sean o hayan sido profesores de Derecho. 
 
 Dentro de los quince (15) días anteriores a cada elección, el Consejo procederá a escoger por sorteo y para cada departamento, de la lista a que se refiere el inciso anterior, dos (2) ciudadanos de distinta filiación política, encargados de verificar, por delegación y a nombre del Consejo, dichos escrutinios y cómputos de votos.
 
 ## art:176 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 El cargo de Delegado del Consejo Nacional Electoral es de forzosa aceptación. Los que no concurran a despachar sus funciones pagarán una multa de quince mil pesos ($ 15.000.00), que será impuesta por el Consejo Nacional Electoral. Este podrá exonerar del pago de la referida multa a quien compruebe que su incumplimiento se debió a alguna de las causales a) y b) señaladas en el artículo 108 de este Código, siempre y cuando las acrediten dentro del término y en la forma prevista en la misma disposición. 
 
 El Consejo Nacional Electoral fijará los viáticos, gastos de representación y transporte a que tienen derecho sus delegados, los que se les entregarán anticipadamente por la Registraduría Nacional del Estado Civil.
 
-## art:177 — Ver Notas del Editor
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+## art:177 — 
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Los escrutinios generales que deben realizar los Delegados del Consejo Nacional Electoral se iniciarán a las nueve (9) de la mañana del domingo siguiente a las elecciones, en la capital del respectivo departamento. 
 
 Los delegados del Consejo deberán iniciar y adelantar el escrutinio general, aunque no se haya recibido la totalidad de los pliegos electorales de los municipios que integran la circunscripción electoral.
 
 ## art:178 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Cuando faltare alguno de los Delegados del Consejo Nacional Electoral, los Delegados del Registrador Nacional y el Delegado del Consejo que se haya hecho presente, designarán a quien deba reemplazar al ausente. 
 
 Cuando faltaren los dos (2) Delegados del Consejo Nacional Electoral los reemplazos serán designados por los dos (2) Delegados del Registrador Nacional del Estado Civil y por el Presidente del Tribunal Superior.
 
 ## art:179 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Los Delegados del Consejo Nacional Electoral podrán solicitar, cuando lo estimen necesario, las actas de escrutinios que conserven los funcionarios o corporaciones, los cuales deberán enviarlas inmediatamente, dejando para sí copias autenticadas. También podrán solicitar cualquier otro documento que consideren indispensable.
 
 ## art:180 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Si se presentare apelación contra las decisiones de los Delegados del Consejo o hubiere desacuerdo entre ellos, éstos se abstendrán de hacer la declaratoria de elección y de expedir las credenciales; en tales casos está función corresponderá al Consejo Nacional Electoral, de acuerdo con los resultados que arroje la revisión que practique la Corporación. 
 
 Las apelaciones que se presenten contra las decisiones de los Delegados del Consejo o los desacuerdos que ocurran entre ellos, no los exime de la obligación de hacer el cómputo total de votos, el que anotarán en las actas de escrutinio.
 
 ## art:181 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Los respectivos Delegados del Registrador Nacional del Estado Civil actuarán como Secretarios en los escrutinios realizados por los Delegados del Consejo Nacional Electoral.
 
 ## art:182 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 El procedimiento para estos escrutinios será el siguiente: Los secretarios darán lectura a las actas de introducción de los documentos electorales en el arca triclave departamental y las pondrán de manifiesto a los Delegados del Consejo Nacional Electoral. 
 
@@ -1377,22 +1353,22 @@ Los resultados de las actas de escrutinios elaboradas por las comisiones escruta
 En los escrutinios generales sólo procederá el recuento de los votos emitidos en una mesa, cuando la comisión escrutadora distrital o municipal respectiva se hubiere negado a hacerlo, su decisión hubiere sido apelada oportunamente y los Delegados del Consejo Nacional electoral hallaren fundada la apelación.
 
 ## art:183 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Si el número de votos a favor de dos (2) o más candidatos o listas fuere igual, la elección se decidirá a la suerte, para los cual, colocadas en una urna las papeletas con los nombres de los candidatos o de quienes encabezan las listas que hubiesen obtenido igual número de votos, un ciudadano designado por la corporación escrutadora extraerá de la urna una de las papeletas. El nombre que ésta contuviere será el del candidato o lista a cuyo favor se declara la elección.
 
 ## art:184 — Artículo modificado por el artículo 14 de la Ley 62 de 1988. El nuevo texto es el siguiente:
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Terminando el escrutinio general y hecho el computo total de los votos válidos que se hayan emitido por cada una de las listas y candidatos, municipio por municipio, se procederá a hacer constar los resultados en actas, expresando en letra y números los votos obtenidos por cada lista o candidato; realizando lo cual se aplicaran los cuocientes electorales para la declaratoria de elección de Consejeros Intendenciales o Comisariales, según el caso, de Diputados, Representantes y Senadores y se expedirán las correspondientes credenciales.
 
 ## art:185 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Firmadas las actas correspondientes y expedidas las credenciales, por los Delegados del Consejo y sus Secretarios, todos los documentos que se hayan tenido presente, junto con los originales de los registros y actas para ellos producidos, se conservarán y custodiarán en el archivo de la Delegación Departamental, bajo la responsabilidad solidaria de los Delegados del Registrador Nacional del Estado Civil. Pero aquellos documentos que se relacionen con las apelaciones concedidas en dicho escrutinio serán entregados al Consejo Nacional Electoral por uno de los Delegados del Registrador Nacional del Estado Civil.
 
 ## art:186 — 
-ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Tanto el acta general como de cada una de las actas parciales se sacarán seis (6) ejemplares, que se destinarán así: Presidente del Consejo Nacional Electoral, Presidente del Consejo de Estado, Ministro de Gobierno, Presidente del Tribunal Contencioso Administrativo, Delegados del Registrador Nacional y Gobernador del Departamento, Intendente o Comisario. De las actas parciales, las relativas a los escrutinios para Senadores y Representantes y la de los cómputos de votos para Presidente de la República, serán enviadas al Presidente del Consejo de Estado, y las concernientes a los escrutinios para Diputados, Consejeros Intendenciales y Comisariales, deberán remitirse al respectivo Tribunal Contencioso Administrativo.
 
@@ -1422,7 +1398,7 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO VI. ESCRUTINIOS DEL CONSEJO NACION
 
 A medida que los claveros del Consejo Nacional Electoral vayan recibiendo los documentos a que hace referencia el artículo 185 de este Código y los pliegos provenientes del exterior en las votaciones para Presidente de la República, los irán guardando en el arca triclave, previa anotación en un registro. 
 
-<Ver Notas del Editor> El Consejo señalará y publicará la fecha de iniciación de los escrutinios presidenciales.
+ El Consejo señalará y publicará la fecha de iniciación de los escrutinios presidenciales.
 
 ## art:191 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO VI. ESCRUTINIOS DEL CONSEJO NACIONAL ELECTORAL
@@ -1504,7 +1480,7 @@ ubicacion: TITULO VIII. DELEGADOS PRESIDENCIALES, Y DE LOS GOBERNADORES, INTENDE
 
 <Artículo derogado por el artículo 14 de la Ley 6 de 1990>
 
-## art:199 — Ver Notas de Vigencia
+## art:199 — 
 ubicacion: TITULO IX. OTRAS SANCIONES
 
 El que entorpezca u obstaculice actuaciones de las autoridades encargadas de preparar o realizar las elecciones, o impida o dificulte a un ciudadano la inscripción de su cédula o la realización de cualquier acto indispensable para el ejercicio del derecho a sufragar, incurrirá en prisión de seis (6) meses a dos (2) años. En la misma sanción incurrirá quien invite a las autoridades electorales al incumplimiento de sus funciones o promueva la realización de actos que conduzcan al mismo fin. 
@@ -1526,12 +1502,12 @@ Las anteriores sanciones serán impuestas por el Registrador Nacional del Estado
 
 Si los autores son empleados públicos, serán destituidos de sus cargos de acuerdo con solicitud que, al efecto, formule la Registraduría Nacional.
 
-## art:201 — Ver Notas de Vigencia
+## art:201 — 
 ubicacion: TITULO IX. OTRAS SANCIONES
 
 El funcionario o empleado público que forme parte de comités, juntas o directorios políticos, o intervenga en debates o actividades de este carácter, será sancionado disciplinariamente, con la pérdida del empleo aunque pertenezca a una carrera de servicio y sin perjuicio de la sanción prevista en el artículo 158 del Código Penal.
 
-## art:202 — Ver Notas de Vigencia
+## art:202 — 
 ubicacion: TITULO IX. OTRAS SANCIONES
 
 Los funcionarios electorales, permanentes o transitorios, que tengan conocimiento de la comisión de un delito contra el sufragio, lo denunciarán inmediatamente ante la autoridad competente y acompañarán a su denuncia todos los documentos pertinentes, indicando, además, los nombres y direcciones, en lo posible, de los testigos que tengan conocimiento del hecho. 
@@ -1631,15 +1607,3 @@ BELISARIO BETANCUR
 El Ministro de Gobierno
 
 JAIME CASTRO
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.

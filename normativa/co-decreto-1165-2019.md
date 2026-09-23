@@ -8,7 +8,7 @@ ramas: [aduanero, comercial, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1165_2019.htm
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — ALCANCE
@@ -826,12 +826,12 @@ Los nuevos titulares de registro como usuario aduanero cuyo acto administrativo 
 ## art:29 — OBJETO
 ubicacion: TÍTULO 1. DISPOSICIONES GENERALES. > CAPÍTULO 8. GARANTÍAS.
 
-Toda garantía global constituida ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) deberá tener como objeto asegurable el de garantizar el pago de los tributos aduaneros, sanciones e intereses a que haya lugar, como consecuencia del incumplimiento de las obligaciones y responsabilidades consagradas en la normatividad aduanera. En el caso de las garantías específicas, además, deberá indicarse en cada caso, la correspondiente disposición legal que contiene la obligación que ampara
+Toda garantía global constituida ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) deberá tener como objeto asegurable el de garantizar el pago de los tributos aduaneros, sanciones e intereses a que haya lugar, como consecuencia del incumplimiento de las obligaciones y responsabilidades consagradas en la normatividad aduanera. En el caso de las garantías específicas, además, deberá indicarse en cada caso, la correspondiente disposición legal que contiene la obligación que ampara.
 
 ## art:30 — CONSTITUCIÓN, VIGENCIA Y RENOVACIÓN DE LAS GARANTÍAS
 ubicacion: TÍTULO 1. DISPOSICIONES GENERALES. > CAPÍTULO 8. GARANTÍAS.
 
-<Artículo modificado por el artículo 9 del Decreto 360 de 2021. El nuevo texto es el siguiente:> La garantía deberá constituirse desde la fecha en que surge la obligación y deberá mantenerse vigente mientras dure la autorización, habilitación, reconocimiento e inscripción, régimen u obligación que deba ser amparada, de conformidad con lo establecido en el presente decreto. 
+La garantía deberá constituirse desde la fecha en que surge la obligación y deberá mantenerse vigente mientras dure la autorización, habilitación, reconocimiento e inscripción, régimen u obligación que deba ser amparada, de conformidad con lo establecido en el presente decreto. 
 
 Para el efecto se debe considerar lo siguiente: 
 
@@ -1492,7 +1492,7 @@ En el caso de las personas jurídicas constituidas en el mismo año en que prese
 
 PARÁGRAFO 1o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), mediante resolución de carácter general, determinará los montos de reducción gradual en la renovación de las garantías, en los casos en que no presenten incumplimientos en determinados períodos de tiempo en las obligaciones propias de las Sociedades de Comercialización Internacional. 
 
-<Ver Notas del Editor> Cuando la Sociedad de Comercialización Internacional sea además Usuario Aduanero Permanente, la garantía global constituida en calidad de este último, cubrirá el pago de los tributos aduaneros y de las sanciones a que haya lugar por el incumplimiento de las obligaciones y responsabilidades consagradas en este decreto para las Sociedades de Comercialización Internacional. 
+ Cuando la Sociedad de Comercialización Internacional sea además Usuario Aduanero Permanente, la garantía global constituida en calidad de este último, cubrirá el pago de los tributos aduaneros y de las sanciones a que haya lugar por el incumplimiento de las obligaciones y responsabilidades consagradas en este decreto para las Sociedades de Comercialización Internacional. 
 
 PARÁGRAFO 2o. La persona jurídica que haya obtenido la autorización como Sociedad de Comercialización Internacional de que trata el Decreto número 1451 de 2017, deberá constituir la garantía en los términos y condiciones allí establecidos.
 
@@ -1522,7 +1522,7 @@ Las personas jurídicas autorizadas como Sociedades de Comercialización Interna
 
 5. Reportar a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) o a las autoridades competentes, las operaciones sospechosas que detecten en el ejercicio de su actividad, relacionadas con evasión, contrabando, lavado de activos e infracciones cambiarias. 
 
-6. <Ver Notas de Vigencia> Exportar las mercancías dentro de los seis (6) meses siguientes a la fecha de expedición del correspondiente certificado al proveedor. 
+6. Exportar las mercancías dentro de los seis (6) meses siguientes a la fecha de expedición del correspondiente certificado al proveedor. 
 
 7. Presentar en la forma y condiciones establecidas por el Ministerio de Comercio, Industria y Turismo, los informes de compras, importaciones y exportaciones, debidamente suscritos por el representante legal y el revisor fiscal. 
 
@@ -1644,12 +1644,12 @@ En el acto de habilitación de los muelles o puertos para la entrada y salida de
 
 PARÁGRAFO 1o. Para la habilitación de que trata este artículo, el solicitante deberá cumplir con los requisitos establecidos en el artículo 119 del presente decreto y los que determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución de carácter general. 
 
-PARÁGRAFO 2o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá abstenerse de estudiar nuevas habilitaciones de muelles o puertos de servicio público o privado, cuando a criterio de la entidad las necesidades de comercio exterior se encuentren cubiertas en una determinada jurisdicción
+PARÁGRAFO 2o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá abstenerse de estudiar nuevas habilitaciones de muelles o puertos de servicio público o privado, cuando a criterio de la entidad las necesidades de comercio exterior se encuentren cubiertas en una determinada jurisdicción.
 
 ## art:78 — GARANTÍA GLOBAL PARA PUERTOS O MUELLES PÚBLICOS O PRIVADOS Y DEPÓSITOS PÚBLICOS O PRIVADOS
 ubicacion: TÍTULO 3. ZONAS PRIMARIAS ADUANERAS. > CAPÍTULO 1. HABILITACIÓN DE LUGARES PARA EL INGRESO Y SALIDA DE MERCANCÍAS Y/O VIAJEROS BAJO CONTROL ADUANERO.
 
-<Artículo modificado por el artículo 22 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las personas jurídicas titulares de la habilitación como muelle o puerto público o privado deberán constituir una garantía global bancaria o de compañía de seguros, por el valor establecido en el artículo 77 del presente decreto, la cual amparará la habilitación como depósito público o privado del mismo titular, siempre y cuando se encuentren ubicados dentro del mismo municipio. 
+Las personas jurídicas titulares de la habilitación como muelle o puerto público o privado deberán constituir una garantía global bancaria o de compañía de seguros, por el valor establecido en el artículo 77 del presente decreto, la cual amparará la habilitación como depósito público o privado del mismo titular, siempre y cuando se encuentren ubicados dentro del mismo municipio. 
 
 Para las disminuciones de que trata el numeral 2 del artículo 30 del presente decreto, se tendrán en cuenta las sanciones y deudas exigibles en materia tributaria, aduanera o cambiaria de todas las habilitaciones amparadas con la garantía. 
 
@@ -2096,13 +2096,13 @@ El monto de la siguiente renovación y de las posteriores será del cero punto c
 
 Cuando exista una resolución de sanción en firme o se establezca la existencia de deudas en materia tributaria, aduanera o cambiaria, se perderán los beneficios anteriormente señalados, y dentro del mes siguiente a la ejecutoria del acto administrativo sancionatorio o de la verificación de la existencia de deudas, se deberá ajustar la garantía al uno por ciento (1%) del valor en aduana de las mercancías almacenadas durante el año inmediatamente anterior. En caso de no ajustar la garantía, quedará sin efecto la correspondiente habilitación del depósito, sin acto administrativo que así lo declare. 
 
-<Ver Notas del Editor> La garantía global constituida por los Usuarios Aduaneros Permanentes cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto. 
+ La garantía global constituida por los Usuarios Aduaneros Permanentes cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto. 
 
 3. Depósitos privados transitorios: Garantía específica por un monto equivalente al veinte por ciento (20%) del valor en aduana de las mercancías que proyecta almacenar. 
 
 4. Depósitos privados para transformación y/o ensamble: El uno por ciento (1%) del valor en aduana de las mercancías que se proyecte almacenar durante el primer año de operaciones, o el uno por ciento (1%) del valor en aduana de las mercancías almacenadas durante el año inmediatamente anterior, para la renovación de la garantía. 
 
-<Ver Notas del Editor> Cuando el titular de la habilitación del depósito sea un Usuario Aduanero Permanente, la garantía global constituida en tal calidad, cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto. 
+ Cuando el titular de la habilitación del depósito sea un Usuario Aduanero Permanente, la garantía global constituida en tal calidad, cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto. 
 
 5. <Numeral modificado por el artículo 32 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Depósitos privados para procesamiento industrial: La garantía constituida con ocasión de la autorización como usuario aduanero con trámite simplificado a que se refiere el numeral 1 del artículo 773-6 del presente decreto, cubrirá sus obligaciones como depósito privado para procesamiento industrial, sin que se requiera la constitución de otra garantía para el efecto. 
 
@@ -2110,11 +2110,11 @@ Esta garantía además amparará el cumplimiento de las obligaciones de que trat
 
 Si el titular del depósito privado para procesamiento industrial es un Operador Económico Autorizado (OEA) tipo de usuario importador o tipo exportador, no deberá constituir garantía global para amparar las obligaciones relacionadas con este registro aduanero.
 
-6. <Ver Notas del Editor> Depósitos privados para distribución internacional: La garantía global constituida por el Usuario Aduanero Permanente con ocasión de su reconocimiento e inscripción, cubrirá sus obligaciones como depósito privado para distribución internacional, sin que se requiera la constitución de otra garantía para el efecto. 
+6. Depósitos privados para distribución internacional: La garantía global constituida por el Usuario Aduanero Permanente con ocasión de su reconocimiento e inscripción, cubrirá sus obligaciones como depósito privado para distribución internacional, sin que se requiera la constitución de otra garantía para el efecto. 
 
 7. Depósitos privados aeronáuticos: El valor del patrimonio líquido requerido en el numeral 1 del artículo 86 del presente decreto durante el primer año de operaciones, o el uno por ciento (1%) del valor en aduana de las mercancías almacenadas durante el año inmediatamente anterior, cuando se trate de la renovación de la garantía. 
 
-<Ver Notas del Editor> La garantía global constituida por los Usuarios Aduaneros Permanentes cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto. 
+ La garantía global constituida por los Usuarios Aduaneros Permanentes cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto. 
 
 8. Depósitos para envíos urgentes: La garantía constituida con ocasión de la inscripción como intermediario de la modalidad de tráfico postal y envíos urgentes, cubrirá sus obligaciones como depósito habilitado, sin que se requiera la constitución de otra garantía para el efecto.
 
@@ -2197,15 +2197,24 @@ Sin perjuicio de la responsabilidad frente a terceros de conformidad con las nor
 
 Los depósitos habilitados serán responsables ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) por el pago de los tributos aduaneros de las mercancías sustraídas o perdidas en sus recintos.
 
+## art:113 — INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
+
+Se requerirá de inscripción para desarrollar las actividades de intermediación bajo la modalidad de tráfico postal y envíos urgentes; transporte de mercancías bajo control aduanero y para actuar como usuarios aduaneros permanentes* y usuarios altamente exportadores*. 
+
+Se deberá contar con autorización para desarrollar las actividades como agencia de aduanas; agente de carga internacional y para actuar como observador en las operaciones de importación; y para hacer uso de los tratamientos como usuarios aduaneros con trámite simplificado. 
+
+Se requerirá de habilitación para realizar actividades de depósito de mercancías; puntos para la importación y/o exportación por poliductos y/u oleoductos, energía eléctrica o gas; puertos, muelles y aeropuertos para el ingreso y/o salida de mercancías y/o viajeros bajo control aduanero del territorio aduanero nacional; puntos de exportación para reaprovisionamiento de buques o aeronaves; lugares para la exportación de café y zonas de verificación para la modalidad de tráfico postal y envíos urgentes.
+
 ## art:114 — OBSERVADORES EN LAS OPERACIONES DE IMPORTACIÓN
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá autorizar la presencia de observadores de las operaciones de importación en determinados lugares de arribo habilitados, seleccionados de listas de elegibles de candidatos presentados por los gremios, aprobadas por la Comisión Nacional Mixta de Gestión Tributaria y Aduanera. La función del observador de la operación de importación consistirá en observar de cerca las operaciones de trámite de importación de un determinado tipo de mercancías pudiendo, a solicitud del funcionario competente de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), rendir informe técnico sobre clasificación arancelaria, descripción, identificación, cantidad, peso y valor u otros aspectos de la mercancía. 
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) reglamentará mediante resolución de carácter general los requisitos de inscripción y de participación en los procesos de control.
 
 ## art:115 — AGENTE DE CARGA INTERNACIONAL
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Es la persona jurídica autorizada para actuar en el modo de transporte marítimo y/o aéreo, cuyo objeto social incluye, entre otras, las siguientes actividades: Coordinar y organizar embarques, consolidar carga de exportación, desconsolidar carga de importación y emitir o recibir del exterior los documentos de transporte propios de su actividad, cuando corresponda. 
 
@@ -2216,7 +2225,7 @@ Para obtener la autorización como agente de carga internacional en el modo mar�
 Para obtener la autorización como agente de carga internacional en el modo aéreo, se deberá contar con la autorización de las autoridades competentes, cuando a ello hubiere lugar y acreditar los requisitos previstos en el artículo 120 del presente decreto. El monto de la garantía global será el previsto en el artículo 134 del presente decreto.
 
 ## art:116 — PUNTOS PARA LA IMPORTACIÓN Y/O EXPORTACIÓN POR POLIDUCTOS Y/O OLEODUCTOS
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Los puntos para el ingreso y salida de petróleo y/o combustibles líquidos derivados del petróleo que se importen o exporten a través de poliductos y/o oleoductos, bajo control aduanero, son lugares previamente habilitados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), para cuyo efecto se deberán cumplir los requisitos establecidos en el artículo siguiente. 
 
@@ -2225,7 +2234,7 @@ La autoridad aduanera podrá fijar medidas de limitación al ingreso o salida de
 PARÁGRAFO. La habilitación a que se refiere este artículo puede coexistir con el área declarada como zona franca en los términos y condiciones que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
 
 ## art:117 — DISPOSICIONES ESPECIALES
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Para la habilitación del punto de ingreso y/o salida para la importación y/o exportación por poliductos y/o oleoductos, el titular del mismo deberá acreditar los siguientes requisitos y obligaciones: 
 
@@ -2318,14 +2327,14 @@ Para la habilitación de un punto de ingreso y/o salida para la importación y/o
 Cuando no se hayan realizado operaciones de importación y exportación, el monto será del dos por ciento (2%) de la proyección de importaciones y exportaciones durante un (1) año, sin que en ningún caso sea inferior a nueve mil (9.000) Unidades de Valor Tributario (UVT).
 
 ## art:118 — REGISTRO ADUANERO Y DEPENDENCIA COMPETENTE
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 El registro aduanero consiste en el otorgamiento y administración de la inscripción, autorización o habilitación a los usuarios aduaneros, para el cumplimiento de los trámites aduaneros y de comercio exterior. La competencia para realizar las autorizaciones, inscripciones, habilitaciones, modificaciones y homologaciones es de la Subdirección de Gestión de Registro Aduanero de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), salvo para la habilitación y modificación de los depósitos privados transitorios, cuya competencia será de la Dirección Seccional de Aduanas o de Impuestos y Aduanas con jurisdicción donde se encuentren ubicados estos, y en los demás eventos establecidos en este decreto. 
 
 En el acto de registro se deberá dejar constancia expresa del alcance de las obligaciones del usuario aduanero según corresponda.
 
 ## art:119 — REQUISITOS GENERALES PARA OBTENER INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Los usuarios o auxiliares de la función aduanera que se encuentren sujetos a inscripción, autorización o habilitación para realizar actividades bajo control aduanero, además de los requisitos especiales señalados en este decreto, deberán cumplir con los siguientes: 
 
@@ -2353,12 +2362,12 @@ PARÁGRAFO. <Parágrafo modificado por el artículo 36 del Decreto 360 de 2021. 
 
 Los centros de distribución logística internacional, los lugares para exportación de café, usuarios aduaneros con trámite simplificado y los observadores en las operaciones de importación, no deberán acreditar los requisitos previstos en el presente artículo.
 
-PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 15 del Decreto 659 de 2024. El nuevo texto es el siguiente:> El requisito de patrimonio líquido, para la inscripción, autorización o habilitación para ejercer actividades bajo control aduanero, no aplicará para las entidades de derecho público previstas en el numeral 8 del artículo 32 de este decreto o las entidades cobijadas por convenios internacionales ratificados y vigentes. Esta excepción no aplica a las empresas industriales y comerciales del Estado ni a las sociedades de economía mixta
+PARÁGRAFO 3o. <Parágrafo adicionado por el artículo 15 del Decreto 659 de 2024. El nuevo texto es el siguiente:> El requisito de patrimonio líquido, para la inscripción, autorización o habilitación para ejercer actividades bajo control aduanero, no aplicará para las entidades de derecho público previstas en el numeral 8 del artículo 32 de este decreto o las entidades cobijadas por convenios internacionales ratificados y vigentes. Esta excepción no aplica a las empresas industriales y comerciales del Estado ni a las sociedades de economía mixta.
 
-## art:120 — 
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+## art:120 — REQUISITOS GENERALES PARA LA HABILITACIÓN DE ZONAS DE VERIFICACIÓN PARA LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
-REQUISITOS GENERALES PARA LA HABILITACIÓN DE ZONAS DE VERIFICACIÓN PARA LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES. <Título e inciso 1 modificados por el artículo 37 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Para obtener el registro aduanero como zona de verificación para la modalidad de tráfico postal y envíos urgentes, los solicitantes deberán, además de los requisitos especiales señalados en este decreto, cumplir con los requisitos generales que se señalan a continuación, en las condiciones que indique la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN):
+Para obtener el registro aduanero como zona de verificación para la modalidad de tráfico postal y envíos urgentes, los solicitantes deberán, además de los requisitos especiales señalados en este decreto, cumplir con los requisitos generales que se señalan a continuación, en las condiciones que indique la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN):
 
 1. Estar domiciliados o representados legalmente en el país e inscritos en el Registro Único Tributario (RUT), o registro que haga sus veces. 
 
@@ -2393,7 +2402,7 @@ PARÁGRAFO 2o. El requisito de que trata el numeral 11 del presente artículo se
 PARÁGRAFO 3o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá establecer mediante resolución de carácter general requisitos especiales para obtener la autorización o habilitación.
 
 ## art:121 — REQUISITOS ESPECIALES PARA LA HABILITACIÓN DE LAS ZONAS DE VERIFICACIÓN PARA LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Para la habilitación de estos lugares, las personas jurídicas titulares de estas zonas, además del cumplimiento de los requisitos generales previstos en el artículo 120 de este decreto, deberán cumplir con: 
 
@@ -2422,12 +2431,12 @@ Para la habilitación de estos lugares, las personas jurídicas titulares de est
 5. Disponer de un área de reconocimiento de los envíos y de las áreas necesarias para el montaje de las instalaciones de las entidades competentes para ejercer el control y vigilancia de las actividades propias de la zona de verificación.
 
 ## art:122 — REQUISITOS ESPECIALES PARA LA HABILITACIÓN DE LAS ZONAS DE CONTROL COMUNES A VARIOS PUERTOS O MUELLES
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 <Artículo derogado por el artículo 148 del Decreto 360 de 2021>
 
 ## art:123 — VINCULACIÓN ECONÓMICA
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Se entiende que existe vinculación económica cuando se concrete cualquiera de las siguientes situaciones: 
 
@@ -2468,7 +2477,7 @@ La vinculación se predica de todas las sociedades y vehículos o entidades no s
 Las figuras jurídicas contenidas en este artículo, se entienden conforme con lo establecido en el Código de Comercio y la Ley 80 de 1993, o norma que la modifique o sustituya.
 
 ## art:124 — VIGENCIA DE LAS INSCRIPCIONES, AUTORIZACIONES O HABILITACIONES
-ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. ARTÍCULO 113. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN. <Artículo modi
+ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 1. DE LA INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN.
 
 Las inscripciones, autorizaciones y habilitaciones que otorgue la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), a los usuarios aduaneros tendrán un término indefinido, salvo lo establecido para los Usuarios Aduaneros Permanentes*, los Usuarios Altamente Exportadores* y los depósitos privados de carácter transitorio. 
 
@@ -2500,12 +2509,12 @@ ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS AD
 
 La solicitud de inscripción, autorización o habilitación deberá resolverse en el término de un (1) mes, contado a partir de la fecha de presentación de la respectiva solicitud en debida forma. 
 
-El término anterior podrá suspenderse cuando se requiera la práctica de inspección ocular al inmueble objeto de habilitación, o cuando se requiera la verificación de la información suministrada por el peticionario en los archivos o bases de datos de la entidad o de otras entidades y durante el lapso que duren tales diligencias, sin que el término de suspensión supere los dos (2) meses
+El término anterior podrá suspenderse cuando se requiera la práctica de inspección ocular al inmueble objeto de habilitación, o cuando se requiera la verificación de la información suministrada por el peticionario en los archivos o bases de datos de la entidad o de otras entidades y durante el lapso que duren tales diligencias, sin que el término de suspensión supere los dos (2) meses.
 
 ## art:129 — CONTENIDO DEL ACTO ADMINISTRATIVO DE INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN
 ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 2. TRÁMITE DE LAS SOLICITUDES DE INSCRIPCIÓN, AUTORIZACIÓN, HABILITACIÓN O RENOVACIÓN DE USUARIOS Y AUXILIARES DE LA FUNCIÓ
 
-<Título e inciso 1 modificados por el artículo 39 del Decreto 360 de 2021. El nuevo texto es el siguiente:> La autorización, inscripción o habilitación se otorgará mediante resolución motivada expedida por la autoridad aduanera, una vez se verifique el cumplimiento de los requisitos señalados en la normatividad vigente.
+La autorización, inscripción o habilitación se otorgará mediante resolución motivada expedida por la autoridad aduanera, una vez se verifique el cumplimiento de los requisitos señalados en la normatividad vigente.
 
 En el acto administrativo que otorgue la inscripción, autorización o habilitación se deberán consignar los alcances del respectivo permiso, las obligaciones y deberes que adquiere el solicitante y demás precisiones que considere conveniente establecer la autoridad aduanera, e indicar la obligación de constituir la garantía correspondiente en caso de que se requiera, en un término que no podrá ser superior a un (1) mes, contado a partir del día siguiente a la ejecutoria del respectivo acto administrativo. 
 
@@ -2526,7 +2535,7 @@ ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS AD
 ## art:132 — ZONAS DE VERIFICACIÓN PARA LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES
 ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 3. TRÁMITE DE LAS SOLICITUDES DE HABILITACIÓN DE LOS CENTROS DE DISTRIBUCIÓN LOGÍSTICA INTERNACIONAL Y ZONAS DE VERIFICACIÓ
 
-<Artículo modificado por el artículo 41 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Son zonas de verificación para la modalidad de tráfico postal y envíos urgentes aquellos lugares de servicio público habilitados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), en los lugares habilitados para el ingreso y/o salida de mercancías bajo control aduanero de los aeropuertos internacionales, donde los intermediarios de la modalidad de tráfico postal y envíos urgentes que no tengan depósito en dicho lugar, llevarán a cabo la verificación del cumplimiento de los requisitos y de las prohibiciones establecidas para esta modalidad. En estas zonas se efectuarán los controles aduaneros, cuando haya lugar a ello. 
+Son zonas de verificación para la modalidad de tráfico postal y envíos urgentes aquellos lugares de servicio público habilitados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), en los lugares habilitados para el ingreso y/o salida de mercancías bajo control aduanero de los aeropuertos internacionales, donde los intermediarios de la modalidad de tráfico postal y envíos urgentes que no tengan depósito en dicho lugar, llevarán a cabo la verificación del cumplimiento de los requisitos y de las prohibiciones establecidas para esta modalidad. En estas zonas se efectuarán los controles aduaneros, cuando haya lugar a ello. 
 
 Las zonas de verificación para la modalidad de tráfico postal y envíos urgentes no pueden ser consideradas como depósitos y, por tanto, los envíos no podrán ser almacenados en dicho lugar. 
 
@@ -2540,12 +2549,12 @@ Obtenida la habilitación, el titular debe constituir una garantía por un monto
 
 PARÁGRAFO 1o. Antes de iniciar la operación se deberá constituir un Comité de Seguimiento conformado por los delegados de las autoridades de control que convergen en esta zona, el delegado de la zona y un delegado de los intermediarios de la modalidad de tráfico postal y envíos urgentes el cual realizará reuniones mensuales de acuerdo con su propio reglamento y formulará las recomendaciones de mejoramiento y cumplimiento correspondientes con copia a las Direcciones de Gestión de Fiscalización y de Aduanas para lo pertinente. 
 
-PARÁGRAFO 2o. Lo previsto en el presente artículo no aplicará para los envíos de correspondencia y los envíos que lleguen al territorio nacional por la red oficial de correos
+PARÁGRAFO 2o. Lo previsto en el presente artículo no aplicará para los envíos de correspondencia y los envíos que lleguen al territorio nacional por la red oficial de correos.
 
 ## art:133 — SOLICITUD DE HABILITACIÓN
 ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 3. TRÁMITE DE LAS SOLICITUDES DE HABILITACIÓN DE LOS CENTROS DE DISTRIBUCIÓN LOGÍSTICA INTERNACIONAL Y ZONAS DE VERIFICACIÓ
 
-<Artículo modificado por el artículo 42 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Para la habilitación de un usuario aduanero, el interesado deberá presentar una solicitud ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), y acreditar el cumplimiento de los requisitos generales y específicos. 
+Para la habilitación de un usuario aduanero, el interesado deberá presentar una solicitud ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), y acreditar el cumplimiento de los requisitos generales y específicos. 
 
 Recibida la solicitud de habilitación, el funcionario competente deberá realizar el examen de la misma, así como de los documentos anexos, con el propósito de verificar el cumplimiento de los requisitos previstos en el presente decreto y en las normas que lo reglamenten, en el término de quince (15) días, contados a partir del día siguiente a la fecha de recepción de la solicitud. 
 
@@ -2570,23 +2579,23 @@ La garantía se debe presentar dentro del término señalado, acreditando el cum
 
 Cuando se deba subsanar algún requisito, se tendrá hasta un (1) mes a partir de la fecha del acuse de recibo del requerimiento. Una vez satisfecho el requerimiento y presentada la garantía en debida forma, la autoridad aduanera contará con un plazo máximo de un (1) mes para pronunciarse sobre la aprobación de la misma. Si la autoridad aduanera no se pronuncia dentro de este plazo, se entenderá que la garantía ha sido aprobada. 
 
-Si no se cumple con lo previsto en los incisos anteriores la habilitación quedará automáticamente sin efecto, sin necesidad de acto administrativo que así lo declare; hecho que se comunicará al interesado mediante oficio o por correo electrónico cuando así se hubiere autorizado
+Si no se cumple con lo previsto en los incisos anteriores la habilitación quedará automáticamente sin efecto, sin necesidad de acto administrativo que así lo declare; hecho que se comunicará al interesado mediante oficio o por correo electrónico cuando así se hubiere autorizado.
 
 ## art:135 — VIGENCIA DE HABILITACIÓN
 ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 3. TRÁMITE DE LAS SOLICITUDES DE HABILITACIÓN DE LOS CENTROS DE DISTRIBUCIÓN LOGÍSTICA INTERNACIONAL Y ZONAS DE VERIFICACIÓ
 
-<Artículo modificado por el artículo 44 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las habilitaciones que conceda la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) como centro de distribución logística internacional y zona de verificación para la modalidad de tráfico postal y envíos urgentes, tendrán un término indefinido. 
+Las habilitaciones que conceda la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) como centro de distribución logística internacional y zona de verificación para la modalidad de tráfico postal y envíos urgentes, tendrán un término indefinido. 
 
 Cuando alguno de estos usuarios esté sujeto a concesión o autorización por parte de otras autoridades, deberá presentar la renovación de la respectiva concesión o autorización de tales autoridades como requisito para mantener la vigencia indefinida ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
 La vigencia de que trata el presente artículo está sujeta al mantenimiento de los requisitos y, en especial, a la vigencia de las garantías exigibles. 
 
-PARÁGRAFO. La autoridad aduanera podrá, en cualquier momento, verificar el mantenimiento de los requisitos exigidos para la habilitación y tomar las acciones correspondientes en caso de incumplimiento
+PARÁGRAFO. La autoridad aduanera podrá, en cualquier momento, verificar el mantenimiento de los requisitos exigidos para la habilitación y tomar las acciones correspondientes en caso de incumplimiento.
 
 ## art:136 — MODIFICACIONES POSTERIORES A LA HABILITACIÓN
 ubicacion: TÍTULO 4. INSCRIPCIÓN, AUTORIZACIÓN O HABILITACIÓN DE USUARIOS ADUANEROS. > CAPÍTULO 3. TRÁMITE DE LAS SOLICITUDES DE HABILITACIÓN DE LOS CENTROS DE DISTRIBUCIÓN LOGÍSTICA INTERNACIONAL Y ZONAS DE VERIFICACIÓ
 
-<Artículo modificado por el artículo 45 del Decreto 360 de 2021. El nuevo texto es el siguiente:> En casos especiales debidamente justificados, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), podrá autorizar la ampliación del área habilitada como zona de verificación para la modalidad de tráfico postal y envíos urgentes a instalaciones no adyacentes, siempre que la zona sobre la cual se pretende otorgar la ampliación se encuentre ubicada dentro del mismo lugar habilitado para el ingreso y/o salida de mercancías bajo control aduanero de los aeropuertos internacionales y se cumplan los requisitos en materia de seguridad e infraestructura. 
+En casos especiales debidamente justificados, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), podrá autorizar la ampliación del área habilitada como zona de verificación para la modalidad de tráfico postal y envíos urgentes a instalaciones no adyacentes, siempre que la zona sobre la cual se pretende otorgar la ampliación se encuentre ubicada dentro del mismo lugar habilitado para el ingreso y/o salida de mercancías bajo control aduanero de los aeropuertos internacionales y se cumplan los requisitos en materia de seguridad e infraestructura. 
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), señalará las condiciones que deban establecerse para el control aduanero de las mercancías. El traslado entre las zonas habilitadas debe realizarse con la utilización de dispositivos de trazabilidad de carga. 
 
@@ -2867,12 +2876,10 @@ PARÁGRAFO 5o. <Parágrafo adicionado por el artículo 16 del Decreto 659 de 202
 
 PARÁGRAFO 6o. <Parágrafo adicionado por el artículo 16 del Decreto 659 de 2024. El nuevo texto es el siguiente:> El intermediario de la modalidad de Tráfico Postal y Envíos Urgentes será responsable de presentar a través de los Servicios Informáticos Electrónicos de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), el informe de descargue e inconsistencias de la carga consolidada, en los términos y condiciones previstos en el presente artículo.
 
-PARÁGRAFO 7o. <Parágrafo adicionado por el artículo 16 del Decreto 659 de 2024. El nuevo texto es el siguiente:> Es un comportamiento esperado del transportador permitir la consulta en sus servicios informáticos, de la fecha de zarpe o del despegue del medio de transporte para la actualización de la declaración anticipada, a través del sistema que el transportador o el agente de carga tenga dispuesto para ello o como lo determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)
+PARÁGRAFO 7o. <Parágrafo adicionado por el artículo 16 del Decreto 659 de 2024. El nuevo texto es el siguiente:> Es un comportamiento esperado del transportador permitir la consulta en sus servicios informáticos, de la fecha de zarpe o del despegue del medio de transporte para la actualización de la declaración anticipada, a través del sistema que el transportador o el agente de carga tenga dispuesto para ello o como lo determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
 
 ## art:152 — JUSTIFICACIÓN DE INCONSISTENCIAS
 ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 1. LLEGADA DE LA MERCANCÍA AL TERRITORIO ADUANERO NACIONAL.
-
-<Título modificado por el artículo 51 del Decreto 360 de 2021> 
 
 Cuando en el informe de descargue, se registren diferencias entre la carga manifestada o la carga consolidada y la efectivamente descargada, el transportador o los Agentes de Carga Internacional, según sea el caso, disponen de cinco (5) días, contados a partir de la presentación de dicho informe, para entregar los documentos que justifiquen el exceso o sobrante y faltante o defecto detectado o para justificar la llegada de mercancía soportada en documentos de transporte no relacionados en el manifiesto de carga, o de dos (2) meses para demostrar la llegada de la mercancía en un embarque posterior. 
 
@@ -3327,9 +3334,12 @@ En ningún caso los errores meramente formales o de diligenciamiento de la prueb
 
 9.<Numeral modificado por el artículo 58 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Cuando practicada inspección aduanera física o documental, se establezca que la declaración de importación, incorpora mercancías en mayor cantidad, sobrantes o en exceso, o con errores u omisiones en la descripción, respecto de las consignadas en el documento de transporte, siempre y cuando la totalidad de las mercancías declaradas se encuentren soportadas en la factura y demás documentos de la operación comercial, y debidamente descritas en la declaración, y se hayan liquidado y pagado los tributos aduaneros por la totalidad de la mercancía declarada. En este evento se entenderá que la mercancía ha sido presentada y declarada en debida forma.
 
-10. <Numeral adicionado por el artículo 58 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Cuando se establezca la falta de la certificación de origen no preferencial o que la misma no reúne los requisitos legales, y el declarante la subsana acreditando la certificación de origen no preferencial en debida forma o corrigiendo la declaración presentada, liquidando los tributos aduaneros que corresponda, dentro de los cinco (5) días siguientes. En este evento no se aplica sanción alguna. 
+10. <Numeral adicionado por el artículo 58 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Cuando se establezca la falta de la certificación de origen no preferencial o que la misma no reúne los requisitos legales, y el declarante la subsana acreditando la certificación de origen no preferencial en debida forma o corrigiendo la declaración presentada, liquidando los tributos aduaneros que corresponda, dentro de los cinco (5) días siguientes. En este evento no se aplica sanción alguna.
 
-ARTÍCULO 185-1. PAGO DE TRIBUTOS ADUANEROS. <Artículo adicionado por el artículo 27 del Decreto 659 de 2024. Consultar artículo 67 sobre su entrada en vigor. El nuevo texto es el siguiente:> Presentada y aceptada la declaración, y autorizado el pago de los tributos aduaneros, sanciones, rescate y demás obligaciones a que haya lugar, el mismo deberá efectuarse a través de los bancos y entidades financieras autorizadas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) dentro del plazo establecido en el artículo 171 del presente decreto o dentro del plazo para presentar la declaración de corrección, declaración de legalización, declaración de modificación o declaración consolidada de pagos.
+## art:185-1 — PAGO DE TRIBUTOS ADUANEROS
+ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 4. IMPORTACIÓN ORDINARIA.
+
+<Artículo adicionado por el artículo 27 del Decreto 659 de 2024. Consultar artículo 67 sobre su entrada en vigor. El nuevo texto es el siguiente:> Presentada y aceptada la declaración, y autorizado el pago de los tributos aduaneros, sanciones, rescate y demás obligaciones a que haya lugar, el mismo deberá efectuarse a través de los bancos y entidades financieras autorizadas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) dentro del plazo establecido en el artículo 171 del presente decreto o dentro del plazo para presentar la declaración de corrección, declaración de legalización, declaración de modificación o declaración consolidada de pagos.
 
 PARÁGRAFO 1o. El valor a pagar por concepto de cada uno de los tributos aduaneros y sanciones, liquidados en las declaraciones de aduanas deberán aproximarse al múltiplo de mil (1.000) más cercano.
 
@@ -3756,7 +3766,7 @@ ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 9. IMPORTACIÓN TEMP
 
 La salida de los medios de transporte importados temporalmente podrá hacerse por cualquier Aduana del país. En caso de salir por una diferente a la de ingreso, la Aduana de salida deberá informar inmediatamente a la de ingreso, para la terminación de la importación temporal. 
 
-<Ver Nota del Editor> Si una vez vencido el término autorizado para la importación temporal del medio de transporte, no se ha producido su reexportación, procederá la medida cautelar de inmovilización hasta el correspondiente pago de una sanción de multa, equivalente a veinte (20) Unidades de Valor Tributario (UVT), por cada mes de retardo o fracción de mes, según sea el caso. El pago de la sanción deberá efectuarse dentro de los cinco (5) días hábiles siguientes a la inmovilización del medio de transporte y en ningún caso generará el pago de intereses moratorios. 
+ Si una vez vencido el término autorizado para la importación temporal del medio de transporte, no se ha producido su reexportación, procederá la medida cautelar de inmovilización hasta el correspondiente pago de una sanción de multa, equivalente a veinte (20) Unidades de Valor Tributario (UVT), por cada mes de retardo o fracción de mes, según sea el caso. El pago de la sanción deberá efectuarse dentro de los cinco (5) días hábiles siguientes a la inmovilización del medio de transporte y en ningún caso generará el pago de intereses moratorios. 
 
 Cancelada la sanción, se ordenará y realizará la entrega del medio de transporte dentro de los dos (2) días hábiles siguientes a la fecha de pago, mediante acto administrativo que deberá ser notificado de conformidad con lo previsto en el artículo 761 del presente Decreto debiendo efectuarse la reexportación del mismo dentro de los cinco (5) días siguientes a su notificación. 
 
@@ -3878,7 +3888,7 @@ ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 10. IMPORTACIÓN TEM
 
 Quienes importen mercancías bajo la modalidad de importación temporal en desarrollo de los Sistemas Especiales de Importación-Exportación, están obligados a: 
 
-1. <Ver Notas del Editor> Demostrar ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), la terminación de la modalidad, en los términos establecidos en este Decreto; 
+1. Demostrar ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), la terminación de la modalidad, en los términos establecidos en este Decreto; 
 
 2. Permitir y facilitar la práctica de las diligencias ordenadas por la autoridad aduanera. 
 
@@ -4024,21 +4034,21 @@ Es la modalidad bajo la cual se importan temporalmente materias primas e insumos
 
 Los importadores y exportadores citados, para utilizar esta modalidad, deberán presentar la declaración de importación indicando la modalidad para procesamiento industrial y sin el pago de tributos aduaneros. 
 
-La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) impartirá las instrucciones para el desarrollo de esta modalidad y habilitará el depósito dentro del cual se realizarán las operaciones de procesamiento industrial
+La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) impartirá las instrucciones para el desarrollo de esta modalidad y habilitará el depósito dentro del cual se realizarán las operaciones de procesamiento industrial.
 
 ## art:245 — IMPORTACIÓN TEMPORAL PARA PROCESAMIENTO INDUSTRIAL POR IMPORTADORES
 ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 10. IMPORTACIÓN TEMPORAL PARA PERFECCIONAMIENTO ACTIVO.
 
-<Artículo modificado por el artículo 65 del Decreto 360 de 2021. El nuevo texto es el siguiente:> En concordancia con lo establecido en el artículo 89 del presente decreto, para utilizar la modalidad de importación temporal para procesamiento industrial, los importadores deberán cumplir con las obligaciones previstas en los artículos 246 a 249 del presente decreto, salvo en lo relativo al monto de las exportaciones de los bienes resultantes de la transformación. 
+En concordancia con lo establecido en el artículo 89 del presente decreto, para utilizar la modalidad de importación temporal para procesamiento industrial, los importadores deberán cumplir con las obligaciones previstas en los artículos 246 a 249 del presente decreto, salvo en lo relativo al monto de las exportaciones de los bienes resultantes de la transformación. 
 
 Los bienes resultantes de la transformación, procesamiento o manufactura industrial efectuada por los importadores, deberán destinarse por lo menos en el treinta por ciento (30%) a la exportación, en la oportunidad que hubiere señalado la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
-El incumplimiento de las obligaciones de la modalidad de importación temporal para procesamiento industrial por parte de los importadores dará lugar a la aplicación de las sanciones de que tratan los numerales 2.7 y 3.5 del artículo 615 de este decreto. Para el usuario aduanero con trámite simplificado conllevará la pérdida de tal autorización
+El incumplimiento de las obligaciones de la modalidad de importación temporal para procesamiento industrial por parte de los importadores dará lugar a la aplicación de las sanciones de que tratan los numerales 2.7 y 3.5 del artículo 615 de este decreto. Para el usuario aduanero con trámite simplificado conllevará la pérdida de tal autorización.
 
 ## art:246 — OBLIGACIONES DEL EXPORTADOR
 ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 10. IMPORTACIÓN TEMPORAL PARA PERFECCIONAMIENTO ACTIVO.
 
-<Artículo modificado por el artículo 66 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Los bienes resultantes de la transformación, procesamiento o manufactura industrial, deberán destinarse en su totalidad a la exportación en la oportunidad que hubiere señalado la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
+Los bienes resultantes de la transformación, procesamiento o manufactura industrial, deberán destinarse en su totalidad a la exportación en la oportunidad que hubiere señalado la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
 Los exportadores deberán entregar a la aduana con la periodicidad que establezca dicha entidad, un informe del desarrollo de sus operaciones de importación y exportación, identificando las declaraciones que hubieren tramitado durante el periodo correspondiente y los saldos iniciales y finales de materias primas, insumos, productos en proceso y bienes terminados. 
 
@@ -4800,12 +4810,12 @@ Las resoluciones de clasificación arancelaria podrán ser:
 
 Para la expedición de las resoluciones de clasificación arancelaria, no es vinculante la calificación de las mercancías que realicen otras entidades en cumplimiento de sus funciones.
 
-La ausencia de resolución de clasificación arancelaria, emitida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), no impide la clasificación de una mercancía por aplicación de manera directa del Arancel de Aduanas
+La ausencia de resolución de clasificación arancelaria, emitida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), no impide la clasificación de una mercancía por aplicación de manera directa del Arancel de Aduanas.
 
 ## art:305 — TÉRMINO PARA RESOLVER UNA SOLICITUD DE CLASIFICACIÓN ARANCELARIA ORDINARIA
 ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 17. CLASIFICACIÓN, ORIGEN Y VALORACIÓN.
 
-<Artículo modificado por el artículo 41 del Decreto 659 de 2024. El nuevo texto es el siguiente:> La administración aduanera tendrá dos (2) meses contados a partir de la fecha de la radicación de la solicitud, para expedir la resolución de clasificación arancelaria ordinaria de que trata el numeral 2 del artículo 304 de este decreto.
+La administración aduanera tendrá dos (2) meses contados a partir de la fecha de la radicación de la solicitud, para expedir la resolución de clasificación arancelaria ordinaria de que trata el numeral 2 del artículo 304 de este decreto.
 
 Una vez expedida la respectiva resolución será notificada conforme con lo previsto en el presente decreto. Contra el acto administrativo que decida de fondo la solicitud de clasificación arancelaria procederá el recurso de apelación en los términos previstos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
@@ -4844,12 +4854,12 @@ Cuando se requiera información relacionada con la mercancía, para efectos de l
 
 Vencido este término sin que se haya suministrado de manera integral la información requerida, habrá lugar a la sanción prevista en el artículo 4o del decreto número 920 de 2023 para el importador, exportador o productor según corresponda.
 
-Las resoluciones que unifican el criterio de clasificación arancelaria derogarán las resoluciones en firme que en ellas se incorporan y las que le sean contrarias
+Las resoluciones que unifican el criterio de clasificación arancelaria derogarán las resoluciones en firme que en ellas se incorporan y las que le sean contrarias.
 
 ## art:306 — VIGENCIA Y OBLIGATORIEDAD DE LAS RESOLUCIONES DE CLASIFICACIÓN ARANCELARIA
 ubicacion: TÍTULO 5. RÉGIMEN DE IMPORTACIÓN. > CAPÍTULO 17. CLASIFICACIÓN, ORIGEN Y VALORACIÓN.
 
-<Artículo modificado por el artículo 43 del Decreto 659 de 2024. El nuevo texto es el siguiente:> Las resoluciones de clasificación arancelaria comenzarán a regir así:
+Las resoluciones de clasificación arancelaria comenzarán a regir así:
 
 1. Las resoluciones anticipadas y las ordinarias:
 
@@ -5177,9 +5187,12 @@ La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (
 ## art:342 — ADUANAS Y RUTAS PARA EXPORTACIONES ESPECIALES
 ubicacion: TÍTULO 6. RÉGIMEN DE EXPORTACIÓN. > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
-La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá disponer que determinadas mercancías solo puedan ser exportadas por aduanas especialmente designadas para el efecto y señalar las rutas para realizar el transporte cuando a ello hubiere lugar. 
+La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá disponer que determinadas mercancías solo puedan ser exportadas por aduanas especialmente designadas para el efecto y señalar las rutas para realizar el transporte cuando a ello hubiere lugar.
 
-ARTÍCULO 342-1. SALIDA DE AERONAVES. <Artículo adicionado por el artículo 86 del Decreto 360 de 2021. El nuevo texto es el siguiente:> En casos debidamente justificados referentes a salida de bienes para ayuda médica, humanitaria y auxilio para damnificados, la autoridad aduanera podrá autorizar la salida al exterior de aeronaves de aviación general por aeropuertos no habilitados como zona primaria aduanera, con el cumplimiento de los requisitos que establezca, mediante resolución, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) para garantizar el control aduanero de estas operaciones.
+## art:342-1 — SALIDA DE AERONAVES
+ubicacion: TÍTULO 6. RÉGIMEN DE EXPORTACIÓN. > CAPÍTULO 1. DISPOSICIONES GENERALES.
+
+En casos debidamente justificados referentes a salida de bienes para ayuda médica, humanitaria y auxilio para damnificados, la autoridad aduanera podrá autorizar la salida al exterior de aeronaves de aviación general por aeropuertos no habilitados como zona primaria aduanera, con el cumplimiento de los requisitos que establezca, mediante resolución, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) para garantizar el control aduanero de estas operaciones.
 
 ## art:343 — MODALIDADES DE EXPORTACIÓN
 ubicacion: TÍTULO 6. RÉGIMEN DE EXPORTACIÓN. > CAPÍTULO 1. DISPOSICIONES GENERALES.
@@ -6015,7 +6028,7 @@ Toda operación de tránsito aduanero deberá estar amparada con las garantías 
 
 1. Garantía a cargo del declarante, para respaldar el pago de tributos aduaneros y sanciones a que haya lugar.
 
-<Ver Notas del Editor> Cuando el declarante sea una Agencia de Aduanas, un Usuario Aduanero Permanente o un Usuario Altamente Exportador*, la garantía global constituida con ocasión de su autorización o reconocimiento e inscripción, respaldará el cumplimiento de sus obligaciones como declarante en el régimen de tránsito aduanero. 
+ Cuando el declarante sea una Agencia de Aduanas, un Usuario Aduanero Permanente o un Usuario Altamente Exportador*, la garantía global constituida con ocasión de su autorización o reconocimiento e inscripción, respaldará el cumplimiento de sus obligaciones como declarante en el régimen de tránsito aduanero. 
 
 En los demás casos, el declarante deberá otorgar garantía específica equivalente al cuarenta por ciento (40%) del valor FOB de la mercancía. 
 
@@ -7759,14 +7772,14 @@ ubicacion: TÍTULO 13. CONTROLES ADUANEROS. > CAPÍTULO 4. FISCALIZACIÓN.
 Cuando en ejercicio del control se encuentren hechos que puedan constituir delito, estos serán puestos en conocimiento de la Fiscalía, siguiendo para el efecto la reglamentación Interna de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
 
 ## art:602 — ÁMBITO DE APLICACIÓN
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 El presente título, establece las infracciones administrativas aduaneras en que pueden incurrir los sujetos responsables de las obligaciones que se consagran en el presente decreto. Así mismo, establece las sanciones aplicables por la comisión de dichas infracciones. 
 
 Para que un hecho u omisión constituya infracción administrativa aduanera, deberá estar previsto en la forma en que se establece en el presente Título. No procede la aplicación de sanciones por interpretación extensiva de la norma.
 
 ## art:603 — CLASES DE SANCIONES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 Las infracciones administrativas aduaneras de que trata el presente Título serán sancionadas con multas, suspensión o cancelación de la autorización, inscripción o habilitación para ejercer actividades, según corresponda a la naturaleza de la infracción y a la gravedad de la falta. De acuerdo con lo anterior, las faltas se califican como leves, graves y gravísimas, respectivamente. 
 
@@ -7777,19 +7790,19 @@ La sanción de suspensión surtirá efecto para la realización de operaciones p
 Las sanciones previstas en este Título, se impondrán sin perjuicio del pago de los tributos aduaneros a que haya lugar en cada caso.
 
 ## art:604 — RESERVA DE LAS INVESTIGACIONES ADMINISTRATIVAS
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 La información contenida dentro de la respectiva investigación que tenga carácter reservado en los términos de ley, conservará dicha calidad en el procedimiento aduanero.
 
 ## art:605 — SUSPENSIÓN PROVISIONAL DE LA AUTORIZACIÓN, HABILITACIÓN O REGISTRO
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 Es una medida cautelar que se adopta excepcionalmente dentro de un proceso sancionatorio, cuando exista prueba fehaciente de la existencia de los hechos que constituyen una infracción que da lugar a la cancelación de la autorización, habilitación o registro. 
 
 De la medida de suspensión provisional se tomará nota en la dependencia que concedió la autorización, habilitación o registro, así como en el Registro Único Tributario.
 
 ## art:606 — PROCEDIMIENTO PARA ORDENAR LA SUSPENSIÓN PROVISIONAL
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 La suspensión provisional se ordenará en el requerimiento especial aduanero, con la motivación de los hechos, las normas y las pruebas que sustentan la medida. 
 
@@ -7802,7 +7815,7 @@ El presunto responsable, dentro de la respuesta al requerimiento especial aduane
 La suspensión provisional se mantendrá mientras se profiere la decisión de fondo en el proceso administrativo sancionatorio, y operará respecto de las operaciones de comercio exterior que se presenten con posterioridad a la notificación del auto que incorpora al expediente el visto bueno del Comité de Fiscalización. Por lo tanto, el usuario aduanero podrá continuar interviniendo en las operaciones aduaneras en las que ya estaba actuando al momento de notificársele el requerimiento especial que impone la medida.
 
 ## art:607 — GRADUALIDAD
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 En los siguientes eventos, la sanción se graduará como se indica en cada caso: 
 
@@ -7815,7 +7828,7 @@ Dicho incremento también procederá cuando todas las infracciones en que se inc
 3. La comisión de la misma infracción por un usuario aduanero, sancionada mediante acto administrativo en firme o aceptada en virtud del allanamiento a su comisión, en el curso de los últimos cinco (5) años, dará lugar a incrementos sucesivos en un veinte por ciento (20%) del monto de la multa, sin que tales incrementos superen el cien por ciento (100%) de la multa base del cálculo. Estos incrementos no convertirán la infracción en grave.
 
 ## art:608 — INTERVENCIÓN DEL COMITÉ DE FISCALIZACIÓN FRENTE A LA REINCIDENCIA EN INFRACCIONES GRAVES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 <Artículo modificado por el artículo 107 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Para efectos de determinar la reincidencia, y, por tanto, la posible aplicación de la sanción de cancelación, en sustitución de multa, en caso de que el usuario aduanero sujeto a registro aduanero con autorización, habilitación y/o registro vigente incurra en una nueva infracción grave, se reportará este hecho a la Secretaría Técnica del Comité de Fiscalización, si del primero (1) de enero al treinta y uno (31) de diciembre del año inmediatamente anterior, quedan en firme como mínimo tres (3) actos administrativos que imponen sanciones por infracciones graves a un usuario aduanero, que asciendan al cero punto cinco por ciento (0.5%) o más del total de las operaciones de comercio exterior realizadas durante el mismo periodo. 
 
@@ -7834,7 +7847,7 @@ PARÁGRAFO 1o. Para efectos de la reincidencia prevista en este artículo, no se
 PARÁGRAFO 2o. En aquellos casos en que la normatividad aduanera contemple la aplicación de la sanción de suspensión o cancelación, en sustitución de la sanción de multa, la misma deberá ordenarse en el requerimiento especial aduanero, para lo cual deberá tenerse en cuenta para efectos de la determinación de la gravedad del perjuicio causado a los intereses del Estado, aspectos tales como: la naturaleza de los hechos, el impacto de la medida sobre el comercio exterior, los antecedentes del infractor, transgresión de procedimientos aduaneros por acción u omisión, incidencia penal de la conducta o cualquier otro hecho relevante acreditado en la investigación; en todo caso, se deberá contar con el visto bueno del Comité de Fiscalización de que trata el presente artículo, en la forma y momento que se determine, mediante resolución de carácter general.
 
 ## art:609 — REDUCCIÓN DE LA SANCIÓN
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 El valor de la sanción de multa se reducirá en los siguientes eventos: 
 
@@ -7847,7 +7860,7 @@ El valor de la sanción de multa se reducirá en los siguientes eventos:
 La reducción de la sanción por las causales contempladas en los numerales 2 y 3 del presente artículo será al ochenta por ciento (80%) del valor inicial de la sanción. Esta reducción es susceptible de acumularse con la reducción por allanamiento.
 
 ## art:610 — ALLANAMIENTO
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 <Artículo modificado por el artículo 108 del Decreto 360 de 2021. El nuevo texto es el siguiente:> El presunto infractor podrá allanarse y reconocer la comisión de la infracción, en cuyo caso las sanciones de multa establecidas en este decreto se reducirán a los siguientes porcentajes, sobre el valor establecido en cada caso: 
 
@@ -7864,7 +7877,7 @@ La dependencia que esté conociendo de la actuación administrativa será la com
 PARÁGRAFO. Lo dispuesto en este artículo no será aplicable a los valores liquidados por intereses de mora, ni a la sanción de multa cuando no sea posible aprehender la mercancía, ni a los valores de rescate.
 
 ## art:611 — CADUCIDAD DE LA ACCIÓN ADMINISTRATIVA SANCIONATORIA
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 La facultad que tiene la autoridad aduanera para imponer sanciones, caduca en el término de tres (3) años contados a partir de la comisión del hecho o de la omisión constitutiva de infracción administrativa aduanera, término dentro del cual el acto administrativo que impone la sanción debe haber sido expedido y notificado. Dicho acto sancionatorio es diferente de los actos que resuelven los recursos, los cuales deberán ser decididos dentro del término que para ello prevé el presente decreto. 
 
@@ -7875,12 +7888,12 @@ En los eventos en que una autoridad judicial deba pronunciarse sobre la responsa
 Lo dispuesto en el presente artículo no aplica a las infracciones cuya sanción se impone dentro de una liquidación oficial; en tales eventos, la caducidad se someterá a los términos y condiciones previstos para la firmeza de la declaración.
 
 ## art:612 — PRESCRIPCIÓN DE LA SANCIÓN
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 La facultad para hacer efectivas las sanciones contempladas en el presente Título, prescribe en el término de cinco (5) años contados a partir de la ejecutoria de la providencia que impone la sanción.
 
 ## art:613 — ERRORES FORMALES NO SANCIONABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 Se entenderá por errores formales no sancionables, los siguientes: 
 
@@ -7891,7 +7904,7 @@ Se entenderá por errores formales no sancionables, los siguientes:
 3. Los errores de transcripción de la información entregada a través de los Servicios Informáticos Electrónicos que no corresponda con la contenida en los documentos que la soportan.
 
 ## art:614 — CAUSALES DE EXONERACIÓN DE RESPONSABILIDAD
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 1. DISPOSICIONES GENERALES.
 
 Los usuarios aduaneros que hayan incurrido en alguna de las infracciones previstas en este decreto, estarán exonerados de responsabilidad cuando hayan cometido la Infracción bajo alguna de las siguientes circunstancias, debidamente demostradas ante la autoridad aduanera: 
 
@@ -7910,7 +7923,7 @@ Los usuarios aduaneros que hayan incurrido en alguna de las infracciones previst
 7. Cuando se trate de infracciones generadas por contingencias en los Servicios Informáticos Electrónicos.
 
 ## art:615 — INFRACCIONES ADUANERAS DE LOS DECLARANTES EN EL RÉGIMEN DE IMPORTACIÓN Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 <Artículo modificado por el artículo 109 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las infracciones aduaneras en que pueden incurrir los declarantes del régimen de importación y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -7983,7 +7996,7 @@ PARÁGRAFO. Las infracciones aduaneras previstas en los numerales 2.5 y 3.4 del 
 La infracción administrativa aduanera prevista en el numeral 2.2 del presente artículo y la sanción correspondiente, se aplicará al importador, salvo en el evento previsto en el parágrafo del artículo 53 del presente decreto.
 
 ## art:616 — INFRACCIONES ADUANERAS DE LOS DECLARANTES EN EL RÉGIMEN DE IMPORTACIÓN TEMPORAL PARA REEXPORTACIÓN EN EL MISMO ESTADO
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 1.1 No terminar modalidad de la Importación Temporal para reexportación en el mismo Estado antes del vencimiento del plazo de la importación y no pagar oportunamente las cuotas de los tributos aduaneros. 
 
@@ -8000,7 +8013,7 @@ La sanción aplicable será de ciento sesenta y cinco (165) Unidades de Valor Tr
 Las infracciones y sanciones de que trata este artículo serán aplicables únicamente al importador.
 
 ## art:617 — INFRACCIONES ADUANERAS DE LOS DECLARANTES EN EL RÉGIMEN DE EXPORTACIÓN Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 <Artículo modificado por el artículo 110 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las infracciones aduaneras en que pueden incurrir los declarantes del régimen de exportación y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8063,7 +8076,7 @@ La sanción aplicable será de multa equivalente a ciento sesenta y cinco (165) 
 PARÁGRAFO. Las infracciones aduaneras y las sanciones previstas en los numerales 3.4 y 3.5 del presente artículo solo se aplicarán al exportador.
 
 ## art:618 — INFRACCIONES EN LAS OPERACIONES ADUANERAS POR POLIDUCTOS Y/O OLEODUCTOS
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 1. Gravísimas 
 
@@ -8080,7 +8093,7 @@ La sanción aquí prevista se aplicará, siempre y cuando, los hechos no estén 
 Lo dispuesto en este artículo se cumplirá sin perjuicio de la aplicación de las demás disposiciones del régimen sancionatorio y, en general, del control aduanero que en lo pertinente deba aplicarse a las operaciones aduaneras.
 
 ## art:619 — INFRACCIONES ADUANERAS DE LOS DECLARANTES EN EL RÉGIMEN DE TRÁNSITO Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 <Artículo modificado por el artículo 111 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las infracciones aduaneras en que pueden incurrir los declarantes del régimen de tránsito y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8097,7 +8110,7 @@ Graves
 PARÁGRAFO. La infracción administrativa aduanera prevista en el numeral 1 del presente artículo y la sanción correspondiente, se aplicará al importador, salvo en el evento previsto en el parágrafo del artículo 53 del presente decreto.
 
 ## art:620 — INFRACCIONES RELACIONADAS CON EL TRÁFICO FRONTERIZO
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 Sin perjuicio de las infracciones correspondientes a los declarantes, importadores o exportadores, a quien incurra en una de las siguientes infracciones, se le aplicará la sanción que en cada caso se indica: 
 
@@ -8106,7 +8119,7 @@ Sin perjuicio de las infracciones correspondientes a los declarantes, importador
 2. Superar la frecuencia con la que se ingresan las mercancías al territorio fronterizo. La sanción a imponer será de multa equivalente a veinte Unidades de Valor Tributario (20 UVT).
 
 ## art:621 — INFRACCIONES ADUANERAS DE LOS BENEFICIARIOS DE PROGRAMAS ESPECIALES DE EXPORTACIÓN, PEX
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 2. INFRACCIONES ADMINISTRATIVAS ADUANERAS DE LOS DECLARANTES EN LOS REGÍMENES ADUANEROS.
 
 Las infracciones aduaneras en que pueden incurrir los beneficiarios de los Programas Especiales de Exportación, PEX, y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8145,7 +8158,7 @@ La sanción aplicable será multa de ciento sesenta y cinco (165) Unidades de Va
 PARÁGRAFO. Para la imposición de las sanciones previstas en el presente artículo, se aplicará el procedimiento establecido en los artículos 680 y siguientes del presente decreto.
 
 ## art:622 — INFRACCIONES ADUANERAS DE LAS AGENCIAS DE ADUANAS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 3. INFRACCIONES ADUANERAS DE LOS DECLARANTES AUTORIZADOS, RECONOCIDOS O INSCRITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 3. INFRACCIONES ADUANERAS DE LOS DECLARANTES AUTORIZADOS, RECONOCIDOS O INSCRITOS.
 
 <Artículo modificado por el artículo 112 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Además de las infracciones aduaneras y sanciones previstas en los artículos 615, 617 y 619 del presente decreto, las agencias de aduanas y los almacenes generales de depósito, cuando actúen como agencias de aduanas, serán sancionados por la comisión de las siguientes infracciones aduaneras: 
 
@@ -8234,7 +8247,7 @@ Lo anterior sin perjuicio de las acciones penales a que haya lugar.
 PARÁGRAFO 2o. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) sancionará con multa equivalente a mil doscientos ocho (1.208) Unidades de Valor Tributario (UVT), a quienes ostentaban la calidad de representantes legales de las agencias de aduanas que habiendo perdido dicha calidad, por cualquier circunstancia, no entreguen a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) o a los importadores o exportadores, dentro del término legalmente establecido, los documentos que de conformidad con el artículo 51 del presente decreto, se encuentren obligados a conservar.
 
 ## art:623 — INFRACCIONES ADUANERAS DE LOS USUARIOS ADUANEROS PERMANENTES Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 3. INFRACCIONES ADUANERAS DE LOS DECLARANTES AUTORIZADOS, RECONOCIDOS O INSCRITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 3. INFRACCIONES ADUANERAS DE LOS DECLARANTES AUTORIZADOS, RECONOCIDOS O INSCRITOS.
 
 Además de las infracciones aduaneras y sanciones previstas en los artículos 615, 617 y 619 del presente decreto cuando actúen como declarantes, los Usuarios Aduaneros Permanentes serán sancionados por la comisión de las siguientes infracciones aduaneras, según se indica a continuación: 
 
@@ -8266,12 +8279,12 @@ La sanción aplicable a las infracciones contenidas en los numerales 2.1 a 2.3 s
 
 3.4. No presentar, o presentar extemporáneamente la Declaración Consolidada de Pagos a la Aduana. 
 
-3.5. <Ver Notas del Editor> Utilizar un código de registro diferente al asignado al Usuario Aduanero Permanente para adelantar trámites y refrendar documentos ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
+3.5. Utilizar un código de registro diferente al asignado al Usuario Aduanero Permanente para adelantar trámites y refrendar documentos ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
 La sanción aplicable a las infracciones contenidas en los numerales 3.1 a 3.5 será de multa equivalente a ciento sesenta y nueve (169) Unidades de Valor Tributario (UVT), por cada infracción.
 
 ## art:624 — INFRACCIONES ADUANERAS DE LOS USUARIOS ALTAMENTE EXPORTADORES Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 3. INFRACCIONES ADUANERAS DE LOS DECLARANTES AUTORIZADOS, RECONOCIDOS O INSCRITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 3. INFRACCIONES ADUANERAS DE LOS DECLARANTES AUTORIZADOS, RECONOCIDOS O INSCRITOS.
 
 Además de las infracciones aduaneras y sanciones previstas en los artículos 615, 617 y 619 del presente decreto, cuando actúen como declarantes, los Usuarios Altamente Exportadores serán sancionados por la comisión de las siguientes infracciones aduaneras, según se indica a continuación: 
 
@@ -8306,7 +8319,7 @@ La sanción aplicable a las infracciones contenidas en los numerales 2.1 y 2.2 s
 La sanción aplicable a las infracciones contenidas en los numerales 3.1 a 3.5 será de multa equivalente a ciento sesenta y nueve (169) Unidades de Valor Tributario (UVT) por cada infracción.
 
 ## art:625 — INFRACCIONES ADUANERAS DE LOS USUARIOS OPERADORES DE LAS ZONAS FRANCAS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 4. INFRACCIONES ADUANERAS DE LOS USUARIOS DE LAS ZONAS FRANCAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 4. INFRACCIONES ADUANERAS DE LOS USUARIOS DE LAS ZONAS FRANCAS.
 
 Constituyen infracciones aduaneras en que pueden incurrir los usuarios operadores de las Zonas Francas y las sanciones asociadas con su comisión, las siguientes: 
 
@@ -8365,7 +8378,7 @@ Dependiendo de la gravedad del perjuicio causado a los intereses del Estado, par
 PARÁGRAFO. La imposición de la sanción por inexactitud prevista en el artículo 647 del Estatuto Tributario como consecuencia de procesos de determinación oficial de impuestos administrados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), cuando el valor de la inexactitud supere el diez por ciento (10%) del total de los ingresos brutos del respectivo periodo gravable que se le imponga al Usuario Operador constituye una infracción aduanera gravísima sancionable con la cancelación de la autorización.
 
 ## art:626 — INFRACCIONES ADUANERAS DE LOS USUARIOS INDUSTRIALES DE BIENES, INDUSTRIALES DE SERVICIOS Y USUARIOS COMERCIALES DE LAS ZONAS FRANCAS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 4. INFRACCIONES ADUANERAS DE LOS USUARIOS DE LAS ZONAS FRANCAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 4. INFRACCIONES ADUANERAS DE LOS USUARIOS DE LAS ZONAS FRANCAS.
 
 Constituyen infracciones aduaneras en que pueden incurrir los usuarios industriales y los usuarios comerciales de las Zonas Francas, según corresponda, y las sanciones asociadas a su comisión, las siguientes: 
 
@@ -8408,7 +8421,7 @@ Para las faltas previstas en los numerales 2.3 y 2.4, se aplicará lo señalado 
 3.6. Destruir mercancías sin el cumplimiento de los términos y condiciones establecidos en el presente Decreto. La sanción será de multa equivalente a doscientas (200) Unidades de Valor Tributario (UVT).
 
 ## art:627 — INFRACCIONES ADUANERAS DE LOS USUARIOS ADMINISTRADORES Y DE LOS USUARIOS EXPOSITORES DE LAS ZONAS FRANCAS TRANSITORIAS
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 4. INFRACCIONES ADUANERAS DE LOS USUARIOS DE LAS ZONAS FRANCAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 4. INFRACCIONES ADUANERAS DE LOS USUARIOS DE LAS ZONAS FRANCAS.
 
 Constituyen infracciones aduaneras en que pueden incurrir los usuarios administradores y Expositores de Zonas Francas Transitorias en cuanto se aplique a sus respectivas obligaciones y las sanciones asociadas a su comisión, las siguientes: 
 
@@ -8425,7 +8438,7 @@ Constituyen infracciones aduaneras en que pueden incurrir los usuarios administr
 3.1. Impedir u obstaculizar la práctica de las diligencias ordenadas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). La sanción será de multa equivalente a ciento veintiún (121) Unidades de Valor Tributario (UVT).
 
 ## art:628 — INFRACCIONES ADUANERAS DE LOS DEPÓSITOS PÚBLICOS Y PRIVADOS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
 
 Las infracciones aduaneras en que pueden incurrir los depósitos públicos, los depósitos privados, privados transitorios, privados para transformación y/o ensamble, privados para procesamiento industrial, públicos para distribución internacional ubicados en el Departamento de San Andrés, Providencia y Santa Catalina, privados para distribución internacional y privados aeronáuticos y las sanciones asociadas a su comisión, en cuanto les sean aplicables de acuerdo con el carácter de la habilitación, son las siguientes: 
 
@@ -8488,7 +8501,7 @@ Dependiendo de la gravedad del perjuicio causado a los intereses del Estado, par
 3.5 Impedir u obstaculizar la práctica de las diligencias ordenadas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). La sanción aplicable será de multa equivalente a doscientas noventa (290) Unidades de Valor Tributario (UVT).
 
 ## art:629 — INFRACCIONES DE LOS CENTROS DE DISTRIBUCIÓN LOGÍSTICA INTERNACIONAL
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
 
 Los titulares de centros de distribución logística internacional responderán por la comisión de las siguientes infracciones, sin perjuicio de la responsabilidad que se derive de su actuación en otra calidad de usuario aduanero que pueda tener: 
 
@@ -8529,7 +8542,7 @@ La sanción a imponer será de multa equivalente a cien Unidades de Valor Tribut
 17. <Numeral derogado por el artículo 148 del Decreto 360 de 2021>
 
 ## art:630 — INFRACCIONES ADUANERAS DE LOS DEPÓSITOS Y DE LOS TITULARES DE LAS ZONAS DE VERIFICACIÓN DE LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
 
 A los Depósitos para Tráfico Postal y Envíos Urgentes les serán aplicables, en lo pertinente, las mismas sanciones por la comisión de las infracciones aduaneras contempladas en el artículo 628 del presente decreto. 
 
@@ -8560,7 +8573,7 @@ A los titulares de las zonas de verificación, sin perjuicio de la responsabilid
 12. No controlar el acceso y circulación de vehículos y personas mediante la aplicación de sistemas de identificación de los mismos, dentro del lugar habilitado. La sanción será de multa equivalente a doscientas Unidades de Valor Tributario (200 UVT).
 
 ## art:631 — INFRACCIONES ADUANERAS DE LOS DEPÓSITOS FRANCOS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
 
 A los depósitos francos les serán aplicables, en lo pertinente, las mismas sanciones por la comisión de las infracciones aduaneras contempladas en el artículo 628 del presente decreto. 
 
@@ -8593,7 +8606,7 @@ No presentar el informe bimestral de la entrada y salida de mercancías durante 
 La sanción aplicable será de multa equivalente a cien unidades de valor tributario (100 UVT).
 
 ## art:632 — INFRACCIONES ADUANERAS DE LOS DEPÓSITOS DE PROVISIONES DE A BORDO PARA CONSUMO Y PARA LLEVAR Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 5. INFRACCIONES ADUANERAS DE LOS DEPÓSITOS.
 
 A los depósitos de provisiones de a bordo para consumo y para llevar les serán aplicables, en lo pertinente, las sanciones contempladas en el artículo 628 del presente decreto por la comisión de las infracciones aduaneras allí previstas. 
 
@@ -8624,7 +8637,7 @@ No presentar bimestralmente a la autoridad aduanera un informe del movimiento de
 La sanción aplicable será de multa equivalente a doscientas noventa (290) Unidades de Valor Tributario (UVT).
 
 ## art:633 — INFRACCIONES ADUANERAS DE LOS TITULARES DE LOS PUERTOS Y MUELLES DE SERVICIO PÚBLICO Y PRIVADO HABILITADOS PARA LA ENTRADA Y SALIDA DE MERCANCÍAS Y/O VIAJEROS DEL TERRITORIO ADUANERO NACIONAL Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 6. INFRACCIONES ADUANERAS DE LOS TITULARES DE PUERTOS Y MUELLES DE SERVICIO PÚBLICO Y PRIVADO.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 6. INFRACCIONES ADUANERAS DE LOS TITULARES DE PUERTOS Y MUELLES DE SERVICIO PÚBLICO Y PRIVADO.
 
 Los titulares de los puertos y muelles de servicio público y privado habilitados para la entrada y salida de mercancías y/o viajeros del territorio aduanero nacional, podrán ser sancionados por la comisión de las siguientes infracciones:
 
@@ -8679,7 +8692,7 @@ Tratándose de puertos y muelles de servicio público, no permitir la inspecció
 PARÁGRAFO. Las infracciones previstas en los numerales 2.6, 2.7, 2.8 y 3 del presente artículo no son aplicables a los Titulares de los Puertos y Muelles de servicio público y privado habilitados para la entrada y salida de Viajeros.
 
 ## art:634 — INFRACCIONES ADUANERAS RELATIVAS AL USO DE LOS SERVICIOS INFORMÁTICOS ELECTRÓNICOS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 7. INFRACCIONES ADUANERAS RELATIVAS AL USO DE LOS SERVICIOS INFORMÁTICOS ELECTRÓNICOS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 7. INFRACCIONES ADUANERAS RELATIVAS AL USO DE LOS SERVICIOS INFORMÁTICOS ELECTRÓNICOS.
 
 Las infracciones aduaneras en que pueden incurrir los usuarios de los Servicios Informáticos Electrónicos y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8708,7 +8721,7 @@ Tratándose de usuarios autorizados, inscritos o habilitados por la autoridad ad
 2.3 No entregar a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), luego de restablecidos los Servicios Informáticos y a través de los mismos, la información relacionada con las operaciones que fueron realizadas manualmente. La sanción será de multa equivalente a doscientas Unidades de Valor Tributario (200 UVT).
 
 ## art:635 — INFRACCIONES ADUANERAS DE LOS INTERMEDIARIOS DE LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 8. INFRACCIONES ADUANERAS DE LOS INTERMEDIARIOS DE LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 8. INFRACCIONES ADUANERAS DE LOS INTERMEDIARIOS DE LA MODALIDAD DE TRÁFICO POSTAL Y ENVÍOS URGENTES.
 
 Las infracciones aduaneras en que pueden incurrir los intermediarios de la modalidad de tráfico postal y envíos urgentes y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8761,7 +8774,7 @@ La sanción aplicable para las infracciones señaladas en los numerales 2.1 a 2.
 La sanción aplicable para las infracciones señaladas en los numerales 3.1 a 3.7 será de multa equivalente a ciento sesenta y nueve (169) Unidades de Valor Tributario (UVT) por cada infracción.
 
 ## art:636 — INFRACCIONES ADUANERAS DE LOS TRANSPORTADORES Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 9. INFRACCIONES ADUANERAS DE LOS TRANSPORTADORES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 9. INFRACCIONES ADUANERAS DE LOS TRANSPORTADORES.
 
 <Artículo modificado por el artículo 115 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las infracciones aduaneras en que pueden incurrir las empresas transportadoras y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8846,7 +8859,7 @@ La sanción a imponer será de multa equivalente cincuenta al (50%) por ciento d
 PARÁGRAFO. A los transportadores en las modalidades de tránsito, cabotaje, transbordo y en las operaciones de transporte multimodal, les serán aplicables en lo pertinente, las sanciones previstas en el numeral 3 del presente artículo.
 
 ## art:637 — INFRACCIONES ADUANERAS DE LOS AGENTES DE CARGA INTERNACIONAL Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 10. INFRACCIONES ADUANERAS DE LOS AGENTES DE CARGA INTERNACIONAL.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 10. INFRACCIONES ADUANERAS DE LOS AGENTES DE CARGA INTERNACIONAL.
 
 Las infracciones aduaneras en que pueden incurrir los agentes de carga internacional y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -8877,7 +8890,7 @@ La sanción será de multa equivalente al veinte por ciento (20%) del valor de l
 3.2. No expedir la planilla de envío que relacione las mercancías transportadas que serán introducidas a un depósito o a una zona franca. La sanción será de multa equivalente a cien unidades de valor tributario (100 UVT).
 
 ## art:638 — INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 11. INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 11. INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES.
 
 Las infracciones aduaneras en materia de valoración aduanera y las sanciones aplicables por su comisión son las siguientes: 
 
@@ -8904,7 +8917,7 @@ La sanción aplicable será el diez por ciento (10%) de la diferencia que result
 7. <Numeral adicionado por el artículo 116 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Incurrir en inexactitudes en la declaración andina del valor, que impidan la correcta aplicación de la técnica de la valoración aduanera. La sanción a imponer será de multa equivalente cincuenta unidades de valor tributario (50 UVT).
 
 ## art:639 — INFRACCIONES ADUANERAS EN MATERIA DE ORIGEN Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 11. INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 11. INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES.
 
 <Inciso modificado por el artículo 117 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las infracciones que se presenten, con ocasión del incumplimiento de normas de origen, se impondrán sin perjuicio de lo establecido en los acuerdos comerciales aprobados y ratificados por Colombia. En los eventos donde estos no los prevean, se aplicarán las siguientes sanciones:
 
@@ -8923,7 +8936,7 @@ ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del
 4.3. Cuando no se liquidaron los derechos antidumping o compensatorios o los derechos establecidos como medida de salvaguardia habiendo lugar a ello. La sanción será del 100% de los derechos antidumping o compensatorios o los derechos establecidos como medida de salvaguardia dejados de pagar, sin perjuicio del pago de los tributos aduaneros a que haya lugar.
 
 ## art:640 — INFRACCIONES EN MATERIA DE RESOLUCIONES ANTICIPADAS O DE AJUSTE DE VALOR PERMANENTE
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 11. INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 11. INFRACCIONES ADUANERAS EN MATERIA DE VALORACIÓN DE MERCANCÍAS Y SANCIONES APLICABLES.
 
 Al peticionario o al beneficiario de una resolución anticipada o de ajuste de valor permanente que incurra en una de las siguientes infracciones se le impondrá la sanción que en cada caso se indica: 
 
@@ -8938,7 +8951,7 @@ La sanción será de multa equivalente a ciento cincuenta Unidades de Valor Trib
 4. Quien suministre información inexacta para sustentar una resolución anticipada o de ajuste de valor permanente. La sanción será de multa equivalente a ciento cincuenta unidades de valor tributario (150 UVT).
 
 ## art:641 — INFRACCIONES ADUANERAS DE LOS COMERCIANTES DE LAS ZONAS DE RÉGIMEN ADUANERO ESPECIAL DE LA REGIÓN DE URABÁ, TUMACO Y GUAPI Y DE MAICAO, URIBIA Y MANAURE Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
 
 Los comerciantes domiciliados en las Zonas de Régimen Aduanero Especial de Urabá, Tumaco y Guapi y de Maicao, Uribia y Manaure que incurran en alguna de las siguientes infracciones, serán sancionados así: 
 
@@ -8955,7 +8968,7 @@ Los comerciantes domiciliados en las Zonas de Régimen Aduanero Especial de Urab
 6. Introducir al resto del territorio aduanero nacional mercancías importadas al amparo del Régimen Aduanero Especial, sin el cumplimiento de los requisitos previstos en las normas aduaneras. La sanción a imponer será de multa equivalente al cincuenta por ciento (50%) del avalúo de las mercancías. Para tal efecto, las mercancías serán inmovilizadas mientras se adelanta el proceso sancionatorio.
 
 ## art:642 — INFRACCIONES ADUANERAS DE LOS COMERCIANTES DEL PUERTO LIBRE DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA Y DE LA ZONA DE RÉGIMEN ADUANERO ESPECIAL DE LETICIA Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
 
 1. Los comerciantes domiciliados en el Puerto Libre de San Andrés, Providencia y Santa Catalina, que incurran en alguna de las siguientes infracciones, serán sancionados así: 
 
@@ -8974,7 +8987,7 @@ ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del
 2.4. Introducir al resto del territorio aduanero nacional mercancías importadas al amparo del Régimen Aduanero Especial, sin el cumplimiento de los requisitos previstos en las normas aduaneras. La sanción aplicable será de multa equivalente a ciento veintiún (121) Unidades de Valor Tributario (UVT).
 
 ## art:643 — INFRACCIONES ADUANERAS DE LAS SOCIEDADES DE COMERCIALIZACIÓN INTERNACIONAL Y SANCIONES APLICABLES
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
 
 Las infracciones aduaneras en que pueden incurrir las Sociedades de Comercialización Internacional y las sanciones asociadas con su comisión son las siguientes: 
 
@@ -9019,7 +9032,7 @@ Para las infracciones previstas en los numerales 3.1 y 3.2, la sanción a impone
 PARÁGRAFO. Las Sociedades de Comercialización Internacional, o los socios, administradores o representantes legales de Sociedades de Comercialización Internacional que hayan sido sancionados con la cancelación de la autorización, podrán volver a inscribirse ante el Ministerio de Comercio, Industria y Turismo, pasados cinco (5) años contados desde la ejecutoria del acto administrativo sancionatorio.
 
 ## art:644 — INFRACCIONES ADUANERAS EN EL RÉGIMEN DE ADMISIÓN TEMPORAL EN DESARROLLO DE LOS SISTEMAS ESPECIALES DE IMPORTACIÓN-EXPORTACIÓN
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
 
 Las infracciones aduaneras, en que pueden incurrir los titulares de un programa autorizado en desarrollo de la modalidad de importación temporal para perfeccionamiento activo de sistemas especiales de importación-exportación de bienes o de servicios y las sanciones asociadas a su comisión, son las siguientes: 
 
@@ -9036,7 +9049,7 @@ Las infracciones aduaneras, en que pueden incurrir los titulares de un programa 
 Para las infracciones previstas en los numerales 2.1 y 2.2, la sanción a imponer será de multa de veinte (20) Unidades de Valor Tributario - UVT, por cada infracción.
 
 ## art:645 — INFRACCIONES ADUANERAS EN LA INTERNACIÓN TEMPORAL DE VEHÍCULOS AUTOMOTORES AL AMPARO DE LA LEY 191 DE 1995
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
 
 Las infracciones aduaneras en que pueden incurrir los residentes de las Unidades Especiales de Desarrollo Fronterizo, que internen temporalmente vehículos, motocicletas y embarcaciones fluviales menores con matrícula de un país vecino serán: 
 
@@ -9059,7 +9072,7 @@ La salida deberá realizarse a más tardar dentro de los cinco (5) días hábile
 Vencidos estos términos, sin que se hubiere pagado la multa, o si habiendo pagado no se hubiere efectuado la salida definitiva del mismo, procederá su aprehensión y decomiso.
 
 ## art:646 — OTRAS INFRACCIONES DE LOS USUARIOS ADUANEROS
-ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Ver Notas del Editor> <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
+ubicacion: TÍTULO 14. RÉGIMEN SANCIONATORIO. <Notas del Editor> > CAPÍTULO 12. OTRAS INFRACCIONES ADMINISTRATIVAS ADUANERAS.
 
 Las infracciones aduaneras en que pueden incurrir los usuarios aduaneros, y las sanciones asociadas a su comisión son las siguientes: 
 
@@ -9180,12 +9193,10 @@ Esta medida no se aplicará en aquellos eventos en los que dichos elementos deba
 
 44. Cuando en la modalidad de tránsito aduanero o en la operación de transporte multimodal, la mercancía objeto de hurto haya sido recuperada por autoridad competente y el importador, dentro de los 10 días siguientes a partir de la entrega de la misma, no traslade la mercancía a un depósito habilitado y no la someta a una modalidad de importación, o no la introduzca a una zona franca, a un depósito habilitado dentro de la zona de régimen aduanero especial o a un depósito franco, a los que estaba destinada, previa autorización de la autoridad aduanera, y de conformidad con lo establecido en el artículo 446 de este Decreto. 
 
-45. Las demás causales de aprehensión y decomiso previstas en normas especiales
+45. Las demás causales de aprehensión y decomiso previstas en normas especiales.
 
 ## art:648 — SANCIÓN A APLICAR CUANDO NO SEA POSIBLE APREHENDER LA MERCANCÍA
 ubicacion: TÍTULO 15. CAUSALES DE APREHENSIÓN Y DECOMISO DE LAS MERCANCÍAS.
-
-<Artículo derogado por el artículo 155 del Decreto Ley 920 de 2023 a partir del 9 de junio de 2023> 
 
 <Inciso modificado por el artículo 119 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Cuando no sea posible aprehender la mercancía porque no se haya puesto a disposición de la autoridad aduanera, procederá la aplicación de una sanción de multa equivalente al doscientos por ciento (200%) del valor en aduanas, o, en su defecto, del avalúo de la misma, que se impondrá al importador y al poseedor o tenedor, según corresponda.
 
@@ -9294,14 +9305,14 @@ Cuando de la práctica de la inspección administrativa se derive una actuación
 Cuando la inspección se practique antes de promoverse el proceso administrativo correspondiente, el término para realizarla será de dos (2) meses, prorrogable por un periodo igual, contado a partir del acto que ordena la diligencia.
 
 ## art:659 — ÁMBITO DE APLICACIÓN
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 El proceso de decomiso se adelantará con el fin de establecer el cumplimiento de los trámites aduaneros en la introducción y permanencia de las mercancías extranjeras al país; y solo procederá cuando se tipifique alguna de las causales de aprehensión establecidas en este Decreto. Excepcionalmente procederá respecto de mercancías que se pretenden someter a exportación. 
 
 Salvo los casos especialmente previstos, el procedimiento a seguir será el del decomiso Ordinario.
 
 ## art:660 — ACTA DE APREHENSIÓN
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Establecida la existencia de una causal de aprehensión y decomiso de mercancías, la administración aduanera expedirá un acta, con la cual se inicia el proceso de decomiso. Dicha acta contendrá, entre otros aspectos: la dependencia que la práctica; el lugar y fecha de la diligencia; la causal o causales de aprehensión; identificación del medio de transporte en que se moviliza la mercancía, cuando a ello hubiere lugar; identificación y dirección de las personas que intervienen en la diligencia y de las que aparezcan como titulares de derechos o responsables de las mercancías involucradas; descripción de las mercancías en forma tal que se identifiquen plenamente por su naturaleza, marca, referencia, serial, cantidad, peso cuando se requiera, avalúo unitario y total; y la Dirección Seccional donde continuará el proceso de decomiso. Así mismo, cuando no se incorporen al acta de hechos, en el acta de aprehensión se registrarán las objeciones presentadas por el interesado durante la diligencia y la relación de las pruebas aportadas por el interesado. 
 
@@ -9316,12 +9327,12 @@ Cuando no hubiere lugar a la aprehensión, se levantará un acta de hechos.
 PARÁGRAFO. <Parágrafo adicionado por el artículo 120 del Decreto 360 de 2021. El nuevo texto es el siguiente:> A fin de determinar la procedencia de la vinculación del transportador en el proceso administrativo de decomiso, se deberán evaluar las condiciones logísticas y operativas propias del contrato de transporte celebrado.
 
 ## art:661 — EFECTOS DEL ACTA DE APREHENSIÓN
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 El levante otorgado a las mercancías constituye una autorización, cuya vigencia está sometida a la satisfacción continua de los requisitos que dieron lugar a su otorgamiento. En consecuencia, con la aprehensión queda automáticamente suspendido el levante, en relación con las mercancías objeto de la medida, mientras se resuelve si procede o no su decomiso.
 
 ## art:662 — GARANTÍA EN REEMPLAZO DE APREHENSIÓN
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 <Artículo modificado por el artículo 121 del Decreto 360 de 2021. El nuevo texto es el siguiente:> La autoridad aduanera podrá autorizar la entrega de las mercancías aprehendidas, antes de la decisión de fondo, cuando sobre estas no existan restricciones legales o administrativas para su importación, o cuando se acredite el cumplimiento del respectivo requisito, previo el otorgamiento, dentro del término para presentar el documento de objeción a la aprehensión de una garantía equivalente al cien por ciento (100%) del valor FOB de la misma, cuyo objeto será garantizar que la mercancía aprehendida que fue entregada sea puesta a disposición en el lugar y termino que se indique, cuando la autoridad aduanera la exija por haber sido decomisada. 
 
@@ -9336,7 +9347,7 @@ Cuando en el proceso administrativo se establezca que no hay lugar al decomiso, 
 No procederá la garantía en reemplazo de aprehensión cuando no sea procedente el rescate de las mercancías aprehendidas, en los términos previstos en este decreto.
 
 ## art:663 — RECONOCIMIENTO Y AVALÚO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 El reconocimiento y avalúo definitivo se hará dentro de la misma diligencia de aprehensión, salvo cuando se trate de mercancías que requieran conceptos o análisis especializados; caso en el cual, dentro de los veinte (20) días hábiles siguientes a la fecha de notificación del acta de aprehensión, se efectuará la diligencia de reconocimiento y avalúo definitivo. No obstante, en este último caso se fijará un avalúo provisional, mientras se establece el definitivo. El avalúo que se realice con posterioridad al Acta de Aprehensión se notificará por estado; y las objeciones que se presenten contra él se resolverán dentro de la resolución de Decomiso. El avalúo provisional podrá servir de base para la constitución de la garantía en reemplazo de la aprehensión. 
 
@@ -9345,7 +9356,7 @@ Para efectuar el avalúo se tomará el valor declarado de la mercancía o el que
 La autoridad aduanera podrá, oficiosamente, revisar la cuantía del avalúo definitivo fijado en el acta de aprehensión cuando sus valores disten ostensiblemente de los que resultan de aplicar el procedimiento de avalúo establecido en el reglamento. Este avalúo se notificará por correo y contra él procede el recurso de reposición, el cual deberá interponerse dentro de los cinco (5) días hábiles siguientes a su notificación y deberá resolverse dentro los cinco (5) días hábiles siguientes a su interposición en debida forma.
 
 ## art:664 — DOCUMENTO DE OBJECIÓN A LA APREHENSIÓN
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Dentro de los quince (15) días hábiles siguientes a la notificación del acta de aprehensión, el titular de derechos o responsable de la mercancía aprehendida deberá presentar el documento de objeción a la aprehensión, donde se expondrán las objeciones respecto de la aprehensión o del reconocimiento y avalúo de la mercancía. A él se anexarán las pruebas que acrediten la legal introducción o permanencia de las mercancías en el territorio aduanero nacional, o se solicitará practicar las que fueren pertinentes y necesarias. Este documento deberá cumplir con los siguientes requisitos, so pena de tenerse por no presentado: 
 
@@ -9358,7 +9369,7 @@ Dentro de los quince (15) días hábiles siguientes a la notificación del acta 
 4. Exponer los hechos, razones y las pruebas que tenga a su favor en relación con la imposición de la sanción accesoria de cierre de establecimiento de comercio, si esta se hubiere propuesto en el acta de aprehensión.
 
 ## art:665 — PERIODO PROBATORIO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Una vez vencido el término para presentar el documento de objeción a la aprehensión, del último notificado del acta de aprehensión, dentro de los diez (10) días hábiles siguientes se procederá a establecer si hay lugar o no a la corrección de la causal de aprehensión, para los efectos previstos en el artículo 652 de este Decreto. Si no hubiere lugar a tal corrección se ordenará, mediante auto motivado, la práctica de las pruebas solicitadas o que se decreten de oficio. 
 
@@ -9369,7 +9380,7 @@ Ejecutoriado el auto que decreta pruebas, el término para su práctica será de
 Vencido el periodo probatorio o antes de ello, cuando se hubieren practicado todas las pruebas decretadas, mediante auto se ordenará el cierre de dicho periodo. Contra este auto no procede recurso alguno. Dentro de los cinco (5) días hábiles siguientes a la notificación de dicha providencia, el interesado podrá presentar, a manera de alegatos de conclusión, un escrito donde se pronuncie en relación con las pruebas allegadas al proceso; sin que ello dé lugar a la suspensión de los términos procesales.
 
 ## art:666 — ACTO ADMINISTRATIVO QUE DECIDE DE FONDO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 La autoridad aduanera dispondrá de cuarenta y cinco (45) días hábiles para decidir de fondo el proceso de decomiso y sobre su avalúo si a esto hubiere lugar, mediante resolución motivada. 
 
@@ -9416,7 +9427,7 @@ Si hubiere lugar a imponer la sanción accesoria de cierre de establecimiento de
 Los términos para decidir de fondo no incluyen los requeridos para efectuar la notificación.
 
 ## art:667 — DECOMISO DIRECTO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 El decomiso directo es el que se realiza simultáneamente con la aprehensión y sólo procederá cuando la causal o causales de aprehensión surgen respecto de las siguientes mercancías: 
 
@@ -9441,7 +9452,7 @@ El decomiso directo es el que se realiza simultáneamente con la aprehensión y 
 10. Mercancías que se encuentren en los demás casos expresamente previstos en el presente Decreto.
 
 ## art:668 — PROCEDIMIENTO DEL DECOMISO DIRECTO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Dentro de la misma diligencia de decomiso directo, el interesado deberá aportar los documentos que amparen la mercancía de procedencia extranjera, que demuestren su legal importación e impidan su decomiso. 
 
@@ -9450,17 +9461,17 @@ El acta de decomiso directo es una decisión de fondo y contra la misma procede 
 Cuando el Decomiso recaiga sobre mercancías sometidas al impuesto al consumo de que trata la Ley 223 de 1995, una vez en firme, copia del acta de decomiso se remitirá al fisco regional del lugar donde se practicó el mismo.
 
 ## art:669 — ADECUACIÓN DEL TRÁMITE
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Si antes de encontrarse en firme el decomiso directo se advierte que el procedimiento a seguir era el decomiso ordinario, mediante auto se ordenará retrotraer la actuación al momento de la notificación del acta de decomiso, y a partir de allí continuar con el procedimiento de decomiso ordinario. Por el contrario, si estando en curso el procedimiento de decomiso ordinario, se encontrare que el trámite a seguir era el decomiso directo, se continuará con el procedimiento ordinario, sin que haya lugar a efectuar ninguna modificación.
 
 ## art:670 — DEVOLUCIÓN DE LA MERCANCÍA
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 En cualquier estado del proceso, y hasta antes de quedar en firme el acto administrativo de decomiso, de oficio o a petición de parte, cuando se desvirtúe la causal o causales que originaron la aprehensión o cuando se hubieren rescatado las mercancías mediante la declaración correspondiente, que tenga levante, pago de los tributos aduaneros, sanciones y el valor de rescate que corresponda, la dependencia que esté conociendo de la actuación, mediante acto administrativo motivado, ordenará la terminación del proceso, la devolución inmediata de las mercancías y el archivo del expediente.
 
 ## art:671 — MERCANCÍAS APREHENDIDAS BAJO CUSTODIA DEL INTERESADO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Las mercancías aprehendidas podrán dejarse en depósito, a quien demuestre ser el titular o responsable de las mismas, en los siguientes casos: 
 
@@ -9473,7 +9484,7 @@ Las mercancías aprehendidas podrán dejarse en depósito, a quien demuestre ser
 Para otorgarse la custodia, salvo el caso previsto en el numeral uno de este artículo, en los demás eventos habrá lugar a constituir una garantía equivalente al cien por ciento (100%) del valor FOB de las mercancías, por parte del interesado, para garantizar su entrega a la autoridad aduanera en caso de ordenarse su decomiso. En tales eventos se advertirá al depositario que no podrá modificar, consumir, ni disponer, ni cambiar la ubicación de las mercancías, sin autorización de la autoridad aduanera, so pena de hacerse efectiva la garantía, de lo cual se dejará constancia en el acto administrativo que autoriza la custodia.
 
 ## art:672 — SANCIÓN DE CIERRE DEL ESTABLECIMIENTO DE COMERCIO
-ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Ver Notas del Editor> <Notas del Editor>
+ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 3. DECOMISO. <Notas del Editor>
 
 Cuando dentro de un establecimiento de comercio se encuentren mercancías consistentes en materias primas, activos o bienes que forman parte del inventario o mercancías recibidas en consignación o depósito, cuyo avalúo supere las quinientas unidades de valor tributario (500 UVT), no presentadas o no declaradas o de prohibida importación, se impondrá dentro del mismo acto administrativo de decomiso la sanción de cierre del establecimiento de comercio, por el término de tres (3) días calendario, la cual se hará efectiva dentro de los diez (10) días hábiles siguientes a la firmeza en sede administrativa. 
 
@@ -9611,7 +9622,7 @@ La autoridad aduanera dispondrá de cuarenta y cinco (45) días para expedir el 
 
 El acto administrativo que decide de fondo será motivado y resolverá sobre los demás aspectos a que hubiere lugar, tales como la efectividad de la garantía y la finalización del régimen aduanero, si esto fuere procedente. 
 
-<Aparte tachado NULO> Dentro de los términos para decidir de fondo no se incluyen los requeridos para efectuar la notificación de dicho acto administrativo.
+<Aparte tachado NULO> Dentro de los términos para decidir de fondo [TACHADO: no] se incluyen los requeridos para efectuar la notificación de dicho acto administrativo.
 
 El término para expedir la liquidación oficial de corrección correrá a partir del vencimiento del término para responder el requerimiento especial. 
 
@@ -9976,7 +9987,7 @@ El término para decidir el recurso de reconsideración será de cuatro (4) mese
 
 Dicho término se suspenderá por el mismo tiempo que dura el periodo probatorio, contado a partir de la fecha de ejecutoria del auto que decreta las pruebas. 
 
-<Aparte tachado NULO> Dentro del término para decidir de fondo no se incluye el requerido para efectuar la notificación de dicho acto administrativo.
+<Aparte tachado NULO> Dentro del término para decidir de fondo [TACHADO: no] se incluye el requerido para efectuar la notificación de dicho acto administrativo.
 
 ## art:706 — EFECTOS DE LA DECISIÓN DEL RECURSO DE RECONSIDERACIÓN
 ubicacion: TÍTULO 16. PROCEDIMIENTOS ADMINISTRATIVOS. > CAPÍTULO 11. RECURSO DE RECONSIDERACIÓN.
@@ -10476,7 +10487,10 @@ PARÁGRAFO 2o. La Unidad Administrativa Especial Dirección de Impuestos y Aduan
 
 PARÁGRAFO TRANSITORIO: El trámite de las solicitudes y manifestaciones de interés para aceptación de donaciones por parte de los cabildos y comunidades indígenas, negras, afrocolombianas, raizales, palenqueras y Rrom, comenzará a regir una vez se encuentren en funcionamiento los servicios de información que la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) disponga para el efecto mediante resolución de carácter general.
 
-ARTÍCULO 743-1. CONTROLES AL USO O DESTINACIÓN DE LAS MERCANCÍAS DONADAS E INFORMES. <Artículo adicionado por el artículo 61 del Decreto 659 de 2024. El nuevo texto es el siguiente:> Las entidades que resulten beneficiarias de la donación serán responsables de su correcta destinación y deberán hacer público el reconocimiento de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) como entidad donante.
+## art:743-1 — CONTROLES AL USO O DESTINACIÓN DE LAS MERCANCÍAS DONADAS E INFORMES
+ubicacion: TÍTULO 20. NORMAS SOBRE LA DISPOSICIÓN DE MERCANCÍAS APREHENDIDAS, DECOMISADAS O ABANDONADAS. > CAPÍTULO 2. DISPOSICIÓN DE MERCANCÍAS.
+
+Las entidades que resulten beneficiarias de la donación serán responsables de su correcta destinación y deberán hacer público el reconocimiento de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) como entidad donante.
 
 Bajo ningún concepto la mercancía donada podrá ser comercializada o vendida por parte de la entidad beneficiaría de la donación, salvo que deba darse de baja por obsolescencia o cuando ya no se requiera para su servicio, caso en el cual la mercancía deberá ser desnaturalizada y comercializarse como chatarra, bajo su responsabilidad, so pena de no hacerse acreedor de donaciones futuras.
 
@@ -10486,12 +10500,12 @@ Cuando la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacio
 
 De igual manera la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) remitirá dentro de los primeros cinco (5) días de cada mes un informe a los entes de control, que contenga la relación de los actos administrativos de mercancías donadas, la descripción genérica de las mismas, los valores y los nombres de los beneficiarios, para los controles a que hubiere lugar.
 
-Las entidades beneficiarias deberán reportar en sus estados financieros, la contabilización del ingreso y el egreso de dichas mercancías en sus inventarios, información que puede ser solicitada por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) en cualquier momento con los soportes que considere necesarios
+Las entidades beneficiarias deberán reportar en sus estados financieros, la contabilización del ingreso y el egreso de dichas mercancías en sus inventarios, información que puede ser solicitada por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) en cualquier momento con los soportes que considere necesarios.
 
 ## art:744 — PROCEDIMIENTO ESPECIAL DE DONACIÓN PARA MERCANCÍAS APREHENDIDAS
 ubicacion: TÍTULO 20. NORMAS SOBRE LA DISPOSICIÓN DE MERCANCÍAS APREHENDIDAS, DECOMISADAS O ABANDONADAS. > CAPÍTULO 2. DISPOSICIÓN DE MERCANCÍAS.
 
-<Artículo modificado por el artículo 62 del Decreto 659 de 2024. El nuevo texto es el siguiente:> Cuando se trate de las mercancías a que se refiere el artículo 737 de este decreto, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá donarlas directamente a las entidades públicas señaladas en el parágrafo 2 del artículo 53 de la Ley 1762 de 2015.
+Cuando se trate de las mercancías a que se refiere el artículo 737 de este decreto, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) podrá donarlas directamente a las entidades públicas señaladas en el parágrafo 2 del artículo 53 de la Ley 1762 de 2015.
 
 En este evento, el acto administrativo de donación solo podrá expedirse previa solicitud del representante legal de la entidad interesada en recibir los bienes, o previa aceptación por parte de éste del ofrecimiento directo efectuado por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) a través de las Direcciones Seccionales cuando se trate de mercancías perecederas y altamente perecederas. En ambos casos se deberá señalar la necesidad funcional y/o para el desarrollo de los programas públicos que pretende satisfacer con las mercancías solicitadas en donación y las razones que justifican su solicitud.
 
@@ -10554,12 +10568,12 @@ En ningún caso las mercancías señaladas en el inciso anterior podrán ser tra
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), mediante resolución de carácter general establecerá el procedimiento abreviado de destrucción.
 
-PARÁGRAFO. Cuando se trate de mercancías aprehendidas consistentes en cigarrillos, una vez se hayan agotado los términos y surtido los procedimientos de levantamiento de la cadena de custodia de que trata el artículo 53 de la Ley 1762 de 2015, la destrucción de dichas mercancías debe realizarse en un plazo no mayor a quince (15) días
+PARÁGRAFO. Cuando se trate de mercancías aprehendidas consistentes en cigarrillos, una vez se hayan agotado los términos y surtido los procedimientos de levantamiento de la cadena de custodia de que trata el artículo 53 de la Ley 1762 de 2015, la destrucción de dichas mercancías debe realizarse en un plazo no mayor a quince (15) días.
 
 ## art:750 — DACIÓN EN PAGO
 ubicacion: TÍTULO 20. NORMAS SOBRE LA DISPOSICIÓN DE MERCANCÍAS APREHENDIDAS, DECOMISADAS O ABANDONADAS. > CAPÍTULO 2. DISPOSICIÓN DE MERCANCÍAS.
 
-<Artículo modificado por el artículo 135 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Las mercancías aprehendidas, decomisadas o abandonadas a favor de la nación podrán usarse para el pago de las deudas adquiridas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) en desarrollo del proceso de administración y disposición de las mercancías.
+Las mercancías aprehendidas, decomisadas o abandonadas a favor de la nación podrán usarse para el pago de las deudas adquiridas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) en desarrollo del proceso de administración y disposición de las mercancías.
 
 ## art:751 — TRÁMITES ANTE AUTORIDADES DE TRÁNSITO PARA LA APREHENSIÓN Y DISPOSICIÓN DE VEHÍCULOS
 ubicacion: TÍTULO 20. NORMAS SOBRE LA DISPOSICIÓN DE MERCANCÍAS APREHENDIDAS, DECOMISADAS O ABANDONADAS. > CAPÍTULO 2. DISPOSICIÓN DE MERCANCÍAS.
@@ -10644,7 +10658,7 @@ Cuando se tratare de decomiso directo y no fuere posible notificar personalmente
 ## art:759 — NOTIFICACIÓN ELECTRÓNICA
 ubicacion: TÍTULO 21. NOTIFICACIONES.
 
-<Artículo modificado por el artículo 137 del Decreto 360 de 2021. El nuevo texto es el siguiente:> La notificación electrónica es la forma de notificación que se surte de manera electrónica a través de la cual la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) pone en conocimiento de los usuarios aduaneros o de sus apoderados los actos administrativos en materia aduanera y los recursos que proceden sobre los mismos. 
+La notificación electrónica es la forma de notificación que se surte de manera electrónica a través de la cual la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) pone en conocimiento de los usuarios aduaneros o de sus apoderados los actos administrativos en materia aduanera y los recursos que proceden sobre los mismos. 
 
 La notificación a la que se refiere el presente artículo se aplicará de manera preferente para las actuaciones administrativas en materia aduanera, de conformidad con lo que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), mediante resolución de carácter general. 
 
@@ -10709,7 +10723,7 @@ El estado se fijará por el término de tres (3) días hábiles en un lugar visi
 ## art:766 — TRATAMIENTO PARA LOS USUARIOS ADUANEROS PERMANENTES Y USUARIOS ALTAMENTE EXPORTADORES
 ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 1. DISPOSICIONES TRANSITORIAS.
 
-<Artículo modificado por el artículo 138 del Decreto 360 de 2021. El nuevo texto es el siguiente:> A los Usuarios Aduaneros Permanentes (UAP) y a los usuarios altamente exportadores (ALTEX), que con ocasión de la expedición del Decreto número 436 de 2020, se les hubiere prorrogado su reconocimiento e inscripción como usuario aduanero permanente - UAP o usuario altamente exportador (ALTEX), conservarán su condición mientras se mantenga la emergencia sanitaria declarada por el Ministerio de Salud y Protección Social por causa del nuevo coronavirus Covid 19, sin necesidad de trámite de homologación alguno, siempre y cuando se mantenga la vigencia, renovación y certificación de las garantías exigibles, en las condiciones y términos previstos en el presente decreto. 
+A los Usuarios Aduaneros Permanentes (UAP) y a los usuarios altamente exportadores (ALTEX), que con ocasión de la expedición del Decreto número 436 de 2020, se les hubiere prorrogado su reconocimiento e inscripción como usuario aduanero permanente - UAP o usuario altamente exportador (ALTEX), conservarán su condición mientras se mantenga la emergencia sanitaria declarada por el Ministerio de Salud y Protección Social por causa del nuevo coronavirus Covid 19, sin necesidad de trámite de homologación alguno, siempre y cuando se mantenga la vigencia, renovación y certificación de las garantías exigibles, en las condiciones y términos previstos en el presente decreto. 
 
 Los Usuarios Aduaneros Permanentes (UAP) y los usuarios altamente exportadores (ALTEX) a los que se les hubiere prorrogado su reconocimiento e inscripción en los términos del Decreto número 436 de 2020, mantendrán las prerrogativas y obligaciones previstas en el presente decreto, derivadas de su condición como Usuario Aduanero Permanente (UAP) y usuario altamente exportador -ALTEX, mientras se mantenga la emergencia sanitaria declarada por el Ministerio de Salud y Protección Social por causa del nuevo coronavirus Covid 19. 
 
@@ -10764,12 +10778,12 @@ La presentación y trámite de la declaración de corrección o de modificación
 
 Las resoluciones de clasificación arancelaria que hayan sido emitidas con anterioridad a la vigencia del presente decreto, mantendrán su aplicabilidad mientras no cambien las condiciones bajo las cuales fueron expedidas o no hayan sido expresamente derogadas por otra. 
 
-PARÁGRAFO. Cuando una operación aduanera se haya iniciado en vigencia de la normatividad anterior a la fecha en que entre a regir el presente decreto, el régimen de obligaciones, infracciones y sanciones aplicable, será el establecido en la norma vigente al momento de su inicio, sin perjuicio de la aplicación del principio de favorabilidad en materia sancionatoria
+PARÁGRAFO. Cuando una operación aduanera se haya iniciado en vigencia de la normatividad anterior a la fecha en que entre a regir el presente decreto, el régimen de obligaciones, infracciones y sanciones aplicable, será el establecido en la norma vigente al momento de su inicio, sin perjuicio de la aplicación del principio de favorabilidad en materia sancionatoria.
 
 ## art:770 — APLICACIÓN DE LAS DISPOSICIONES REFERENTES A LOS USUARIOS ADUANEROS
 ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 1. DISPOSICIONES TRANSITORIAS.
 
-<Artículo modificado por el artículo 139 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Para los agentes de carga internacional en el modo marítimo que solicitaron ampliación al modo aéreo, continuará vigente la garantía para cubrir las actividades desarrolladas en el modo marítimo, sin necesidad de modificación de la garantía ya certificada. 
+Para los agentes de carga internacional en el modo marítimo que solicitaron ampliación al modo aéreo, continuará vigente la garantía para cubrir las actividades desarrolladas en el modo marítimo, sin necesidad de modificación de la garantía ya certificada. 
 
 PARÁGRAFO. Las solicitudes de habilitación de las zonas de verificación para envíos de entrega rápida o mensajería expresa que a la entrada en vigencia del presente decreto se encuentren en trámite, se les aplicará lo previsto en este decreto para las zonas de verificación para la modalidad de tráfico postal y envíos urgentes.
 
@@ -10802,9 +10816,15 @@ PARÁGRAFO. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas 
 
 Cualquier referencia en este decreto o en disposiciones reglamentarias a "dispositivo electrónico de seguridad" deberá entenderse referida también a '"dispositivo de trazabilidad de carga para mercancías sujetas a control aduanero.
 
-ARTÍCULO 773-1. USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO. <Artículo adicionado por el artículo 140 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Son los usuarios aduaneros autorizados para hacer uso de los tratamientos otorgados por la Unidad Administrativa Especial Dirección de impuestos y Aduanas Nacionales (DIAN), previo el cumplimiento de las condiciones que se establecen en el artículo 773-2 del presente decreto.
+## art:773-1 — USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO
+ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 2. OTRAS DISPOSICIONES.
 
-ARTÍCULO 773-2. CONDICIONES PARA LA AUTORIZACIÓN COMO USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO. <Artículo adicionado por el artículo 141 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Para ser autorizado como usuario aduanero con trámite simplificado, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) verificará que los importadores y/o exportadores sean considerados aptos de acuerdo con los criterios de gestión de riesgo de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
+Son los usuarios aduaneros autorizados para hacer uso de los tratamientos otorgados por la Unidad Administrativa Especial Dirección de impuestos y Aduanas Nacionales (DIAN), previo el cumplimiento de las condiciones que se establecen en el artículo 773-2 del presente decreto.
+
+## art:773-2 — CONDICIONES PARA LA AUTORIZACIÓN COMO USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO
+ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 2. OTRAS DISPOSICIONES.
+
+Para ser autorizado como usuario aduanero con trámite simplificado, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) verificará que los importadores y/o exportadores sean considerados aptos de acuerdo con los criterios de gestión de riesgo de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
 Así mismo, no podrán tener deudas exigibles a favor de la entidad, ni ser objeto de devoluciones y/o compensaciones improcedentes, ni sanciones en firme en materia tributaria o cambiaria o graves o gravísimas en materia aduanera. 
 
@@ -10826,9 +10846,12 @@ La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (
 
 6. Volumen de operaciones y su relación directa con su actividad generadora de renta". 
 
-PARÁGRAFO. Las entidades de derecho público o sociedades de economía mixta, se entenderán autorizados como usuarios aduaneros con trámite simplificado, sin necesidad de acto administrativo que así lo declare. 
+PARÁGRAFO. Las entidades de derecho público o sociedades de economía mixta, se entenderán autorizados como usuarios aduaneros con trámite simplificado, sin necesidad de acto administrativo que así lo declare.
 
-ARTÍCULO 773-3. TRATAMIENTO PARA EL USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO. <Artículo adicionado por el artículo 142 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Los usuarios aduaneros con trámite simplificado, podrán: 
+## art:773-3 — TRATAMIENTO PARA EL USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO
+ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 2. OTRAS DISPOSICIONES.
+
+Los usuarios aduaneros con trámite simplificado, podrán: 
 
 1. Efectuar el pago consolidado de los tributos aduaneros, sanciones, intereses y valor del rescate, para lo cual se deberá constituir, presentar y tener aprobada una garantía global. 
 
@@ -10846,13 +10869,19 @@ ARTÍCULO 773-3. TRATAMIENTO PARA EL USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO.
 
 8. Acceder al régimen de tránsito aduanero el cual podrá finalizar en depósito público o privado
 
-ARTÍCULO 773-4. PAGO CONSOLIDADO DE TRIBUTOS ADUANEROS Y SANCIONES. <Artículo adicionado por el artículo 143 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Dentro de los primeros cinco (5) días hábiles de cada mes, los usuarios aduaneros con trámite simplificado estarán obligados a realizar el pago consolidado de los tributos aduaneros a la importación, sanciones, intereses y valor del rescate de las declaraciones aduaneras que cuenten con autorización de levante durante el mes inmediatamente anterior. 
+## art:773-4 — PAGO CONSOLIDADO DE TRIBUTOS ADUANEROS Y SANCIONES
+ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 2. OTRAS DISPOSICIONES.
+
+Dentro de los primeros cinco (5) días hábiles de cada mes, los usuarios aduaneros con trámite simplificado estarán obligados a realizar el pago consolidado de los tributos aduaneros a la importación, sanciones, intereses y valor del rescate de las declaraciones aduaneras que cuenten con autorización de levante durante el mes inmediatamente anterior. 
 
 Para realizar el pago consolidado se deberá presentar y tener aprobada una garantía global de que trata el artículo 773-6 del presente decreto y actualizado el Registro Único Tributario -RUT. 
 
-<Inciso derogado por el artículo 68 del Decreto 659 de 2024> 
+<Inciso derogado por el artículo 68 del Decreto 659 de 2024>
 
-ARTÍCULO 773-5. PÉRDIDA DE LA AUTORIZACIÓN COMO USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO. <Artículo adicionado 144 por el artículo del Decreto 360 de 2021. El nuevo texto es el siguiente:> Además de las causales señaladas en el artículo 139 de este decreto, la autorización como usuario aduanero con trámite simplificado se perderá, en cualquier momento, en los siguientes eventos: 
+## art:773-5 — PÉRDIDA DE LA AUTORIZACIÓN COMO USUARIO ADUANERO CON TRÁMITE SIMPLIFICADO
+ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 2. OTRAS DISPOSICIONES.
+
+Además de las causales señaladas en el artículo 139 de este decreto, la autorización como usuario aduanero con trámite simplificado se perderá, en cualquier momento, en los siguientes eventos: 
 
 1. Por el incumplimiento de las obligaciones que se derivan de los tratamientos otorgados en el presente decreto. 
 
@@ -10876,7 +10905,10 @@ PARÁGRAFO 1o. Cuando se hubiere constituido la garantía prevista en los numera
 
 PARÁGRAFO 2o. Cuando se haya perdido la autorización como usuario aduanero con trámite simplificado, este deberá constituir las garantías especificas a que haya lugar dentro de los diez (10) días siguientes al recibo de la comunicación en tal sentido. Lo anterior sin perjuicio de los incumplimientos y sanciones a que haya lugar.
 
-ARTÍCULO 773-6. GARANTÍA GLOBAL DE LOS USUARIOS ADUANEROS CON TRÁMITE SIMPLIFICADO. <Artículo adicionado por el artículo 145 del Decreto 360 de 2021. El nuevo texto es el siguiente:> Para el uso de los tratamientos señalados en los numerales 1, 2, 3 y 7 del artículo 773-3 del presente decreto, se deberá presentar una garantía global, en los términos señalados en los artículos 30 y 129 de este decreto según corresponda, por los siguientes montos: 
+## art:773-6 — GARANTÍA GLOBAL DE LOS USUARIOS ADUANEROS CON TRÁMITE SIMPLIFICADO
+ubicacion: TÍTULO 22. DISPOSICIONES FINALES. > CAPÍTULO 2. OTRAS DISPOSICIONES.
+
+Para el uso de los tratamientos señalados en los numerales 1, 2, 3 y 7 del artículo 773-3 del presente decreto, se deberá presentar una garantía global, en los términos señalados en los artículos 30 y 129 de este decreto según corresponda, por los siguientes montos: 
 
 1. Para el uso de los tratamientos señalados en los numerales 1, 3 y 7 del artículo 773-3 del presente decreto, el monto de la garantía global será del dos por ciento (2%) del valor FOB de las importaciones y el uno por mil (1x1000) de las exportaciones realizadas durante los doce (12) meses calendario inmediatamente anteriores a la presentación de la garantía inicial o de la renovación según corresponda, como usuario aduanero con trámite simplificado.
 

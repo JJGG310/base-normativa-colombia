@@ -7,7 +7,7 @@ ramas: [tributario, financiero, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72893
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Hacienda y Crédito Público
@@ -23,6 +23,12 @@ UNIDADES ADMINISTRATIVAS ESPECIALES SIN PERSONERÍA JURÍDICA
 La Unidad de Proyección Normativa y Estudios de Regulación Financiera (URF), tendrá por objeto, dentro del marco de política fijado por el Ministerio de Hacienda y Crédito Público y sin perjuicio de las atribuciones de la Junta Directiva del Banco de la República, la preparación de la normativa para el ejercicio de la facultad de reglamentación en materia cambiaria, monetaria y crediticia y de las competencias de regulación e intervención en las actividades financiera, bursátil, aseguradora y cualquiera otra relacionada con el manejo, aprovechamiento e inversión de los recursos captados del público, para su posterior expedición por el Gobierno nacional.
 
 (Art. 2 Decreto 4172 de 2011)
+
+ARTÍCULO 1.1.2.1. Agencia del Inspector General de Tributos, Rentas y Contribuciones. Es Unidad Administrativa Especial del orden nacional de la Rama Ejecutiva, adscrita al Ministerio de Hacienda y Crédito Público, sin personería jurídica, con autonomía administrativa y patrimonio independiente.
+
+(Creación mediante Decreto Ley 4173 de 2011)
+
+COMISIONES INTERSECTORIALES
 
 ## art:1.1.3.1 — Comisión Intersectorial para la coordinación de la reinstitucionalización del Régimen de Prima Media a través de la UGPP
 
@@ -78,13 +84,9 @@ Comisión Intersectorial de Coordinación del Subsector de la Economía Solidari
 
 ORGANOS SECTORIALES DE ASESORÍA Y COORDINACIÓN
 
-ARTÍCULO
-
 ## art:1.1.4.1 — Consejo Superior de Política Fiscal - CONFIS
 
 (Decreto 411 de 1990)
-
-ARTÍCULO
 
 ## art:1.1.4.2 — 4.2
 
@@ -92,13 +94,9 @@ Comité de Seguimiento al Sistema Financiero
 
 (Creador por el Art. 92 de la Ley 795 de 2003 y Art 11.1.1.1.1 Decreto 2555 de 2010)
 
-ARTÍCULO
-
 ## art:1.1.4.3 — Consejo Macroeconómico
 
 (Decreto 2036 de 1991)
-
-ARTÍCULO
 
 ## art:1.1.4.4 — 4.4
 
@@ -106,19 +104,13 @@ Consejo Nacional de Juegos de Suerte y Azar (CNJSA)
 
 (Decreto 4144 de 2011)
 
-ARTÍCULO
-
 ## art:1.1.4.5 — Comité Autónomo de la Regla Fiscal
 
 El Comité Autónomo de la Regla Fiscal se someterá a las siguientes reglas:
 
-ARTÍCULO
-
 ## art:1.1.4.5.1 — Sistema de alternancia de presidentes de las Comisiones de Asuntos Económicos
 
 Dos (2) de los presidentes de las Comisiones de Asuntos Económicos. del Congreso de la República serán miembros del CARF. La alternancia entre las distintas Comisiones será definida por ellos mismos, garantizando que no se repita más de una vez su participación durante el periodo legislativo.
-
-ARTÍCULO
 
 ## art:1.1.4.5.2 — Frecuencia y convocatoria de las reuniones del Comité Autónomo de la Regla Fiscal
 
@@ -126,13 +118,9 @@ El CARF deberá reunirse de manera ordinaria al menos una (1) vez por cada trime
 
 Las reuniones del CARF se podrán desarrollar de forma presencial, semipresencial o virtual.
 
-ARTÍCULO
-
 ## art:1.4.5.3 — Presidente del Comité Autónomo de la Regla Fiscal
 
 El Presidente del Comité Autónomo será uno de sus miembros expertos y será elegido' por mayoría simple entre todos los miembros para periodos de (1) un año que podrán ser prorrogables.
-
-ARTÍCULO
 
 ## art:1.1.4.5.4 — Funciones del Presidente del Comité Autónomo de la Regla Fiscal
 
@@ -150,8 +138,6 @@ Serán funciones del Presidente:
 
 Las demás funciones que se requieran para el ejercicio de las funciones del Comité para el cumplimiento de sus funciones, en el marco de lo establecido por la Ley 2155 de 2021.
 
-ARTÍCULO
-
 ## art:1.1.4.5.5 — Invitación de externos a las reuniones del Comité Autónomo de la Regla Fiscal
 
 Los miembros del CARF podrán invitar a expertos externos a las reuniones que se lleven a cabo, de acuerdo con los lineamientos especificados en el reglamento interno del Comité y teniendo en cuenta la disponibilidad del rubro presupuestal que, dentro de los gastos de funcionamiento de la sección presupuestal del Ministerio de Hacienda y Crédito Público, garanticen la operación del CARF, en los términos establecidos por el artículo 61 de la Ley 2155 de 2021. Cualquier invitado, incluyendo los miembros permanentes, estará sujeto a la reserva de la información que se presente en cada sesión.
@@ -162,13 +148,9 @@ Reglamento operativo del CARF. En un término no mayor a tres (3) meses contados
 
 Cualquier modificación que se proponga a este reglamento debe ser aprobado por la mayoría de los miembros del CARF, después de ser sometido a consideración de este por parte de su Presidente.
 
-ARTÍCULO
-
 ## art:1.1.4.5.7 — Apoyo administrativo y financiero al CARF
 
 El Ministerio de Hacienda y Crédito Público en virtud del principio de colaboración, brindará el soporte necesario para facilitar el ejercicio de las funciones administrativas del Comité Autónomo de la Regla Fiscal.
-
-ARTÍCULO
 
 ## art:1.1.4.5.8 — ; Composición del equipo técnico y perfil de sus miembros
 
@@ -206,8 +188,6 @@ El equipo técnico del Comité Autónomo de la Regla Fiscal estará conformado p
 
 PARÁGRAFO . La conformación del equipo técnico se efectuará de acuerdo con la disponibilidad presupuestal, y de conformidad con el Marco de Gasto de Mediano Plazo.
 
-ARTÍCULO
-
 ## art:1.1.4.5.9 — Funciones del Director Técnico del Equipo Técnico del Comité Autónomo de la Regla Fiscal
 
 El Director Técnico del Equipo Técnico del CARF tendrá las siguientes funciones:
@@ -222,19 +202,13 @@ El Director Técnico del Equipo Técnico del CARF tendrá las siguientes funcion
 
 5. Las demás que le sean asignadas por el Comité Autónomo de la Regla Fiscal.
 
-ARTÍCULO
-
 ## art:1.1.4.5.10 — Supervisión del equipo técnico
 
 El CARF tendrá a su cargo la supervisión de los contratos de su equipo técnico, la cual podrá recaer en cualquiera de sus miembros. Así mismo, el Comité podrá adoptar las decisiones administrativas pertinentes, con el fin de lograr el cumplimiento de los objetos contractuales.
 
-ARTÍCULO
-
 ## art:1.1.4.5.11 — Contratación de estudios especializados
 
 La contratación de los estudios especializados que se requieran por parte del CARF para el ejercicio de su objeto y funciones, se efectuará por parte del Ministerio de Hacienda y Crédito Público de acuerdo con la disponibilidad presupuestal, y de conformidad con el Marco de Gasto de Mediano Plazo, así como con las normas que rijan en materia de Contratación Estatal.
-
-ARTÍCULO
 
 ## art:1.1.4.5.12 — Seguimiento a la activación de la cláusula de escape
 
@@ -248,15 +222,11 @@ Estos pronunciamientos deberán estar incluidos dentro del informe que presente 
 
 (Decreto 1790 de 2012)
 
-ARTÍCULO
-
 ## art:1.1.4.6 — 4.6
 
 Mecanismo de Participación de Expertos para la Discusión y Revisión de la Metodología para el Cálculo de la Rentabilidad Mínima
 
 (Decreto 2837 de 2013)
-
-ARTÍCULO
 
 ## art:1.1.4.7 — Comité para riesgos políticos y extraordinarios
 
@@ -714,8 +684,6 @@ Delegase en el Ministro de Hacienda y Crédito Público la facultad de celebrar 
 
 (Art. 3 Decreto 2540 de 2000)
 
-ARTÍCULO
-
 ## art:2.2.1.6 — Emisión de Conceptos
 
 Para emitir los conceptos que les corresponden, el Consejo Nacional de Política Económica y Social - CONPES, el Departamento Nacional de Planeación - DNP y el Ministerio de Hacienda y Crédito Público, tendrán en cuenta, entre otros, la adecuación de las respectivas operaciones a la política del Ministerio de Hacienda y Crédito Público en materia de crédito público y su conformidad con el Programa Macroeconómico y el Plan Financiero aprobados por el Consejo Nacional de Política Económica y Social- CONPES, y el Consejo Superior de Política Fiscal - CONFIS.
@@ -927,8 +895,6 @@ CONPES, y
 b) Concepto de la Comisión Interparlamentaria de Crédito Público.
 
 (Art. 2 Decreto 3996 de 2008)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.3 — Líneas de Crédito de Emergencia a Entidades Estatales diferentes a la Nación
 
@@ -1310,7 +1276,7 @@ Las operaciones de crédito público y asimiladas, las operaciones de manejo de 
 
 Para la selección de los contratistas se aplicarán los principios de economía, transparencia y selección objetiva contenidos en la Ley 80 de 1993, según lo dispuesto en este Capítulo en desarrollo de lo previsto en el parágrafo 2 del artículo 24 de la citada Ley, y en las normas que la modifiquen adicionen o sustituyan.
 
-## art:2.2.1.5.2 — Evaluación de formas de financiamiento
+## art:2.2.1.5.2 — - Evaluación de formas de financiamiento
 
 Previa la celebración de operaciones de crédito público y las asimiladas, las de manejo de la deuda pública y las conexas con las anteriores, las entidades estatales deberán evaluar diferentes formas de financiamiento y la conveniencia financiera y fiscal de realizar tales operaciones frente al financiamiento con recursos diferentes del crédito.
 
@@ -2564,8 +2530,6 @@ Para los efectos previstos en los Capítulos 3 a 5 del presente título, se enti
 
 (Art. 55 Decreto 1525 de 2008)
 
-ARTÍCULO
-
 ## art:2.3.3.2 — Ofrecimiento de los excedentes de liquidez a la Dirección General de Crédito Público y Tesoro Nacional
 
 Las entidades financieras que manejen excedentes de liquidez de las entidades estatales a que se refiere el Capítulo 3 del presente título mediante contratos de administración delegada de recursos, negocios fiduciarios o patrimonios autónomos, con excepción de aquellas que administren recursos de la seguridad social, deberán ofrecer a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, el 100% de los excedentes de liquidez que se generen en virtud de dicha administración.
@@ -2668,23 +2632,17 @@ CAPÍTULO 2
 
 ESTABLECIMIENTOS PÚBLICOS Y ENTIDADES ESTATALES DEL ORDEN NACIONAL QUE CONFORMAN EL PRESUPUESTO GENERAL DE LA NACIÓN
 
-ARTÍCULO
-
 ## art:2.3.3.2.1 — Ámbito de aplicación
 
 os recursos de los establecimientos públicos y las entidades estatales del orden nacional que conforman el Presupuesto General de la Nación serán administrados por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público a través del sistema de Cuenta Única Nacional conforme lo previsto por el Título 1 de la Parte 3 Libro 2 del presente Decreto
 
 PARÁGRAFO . El presente Capítulo no aplicará a los Fondos Especiales que tengan definido un régimen especial de inversión de sus recursos en 1a respectiva ley de creación de los mismos, sin perjuicio del cumplimiento de la finalidad establecida para cada fondo en sus respectivas normas de creación".
 
-ARTÍCULO
-
 ## art:2.3.3.2.2 — Disponibilidad en cuenta corriente
 
 Sin perjuicio del cumplimiento de lo dispuesto en el artículo anterior, cualquier excedente de liquidez podrá permanecer en cuenta corriente por un tiempo superior al de cinco (5) días hábiles, establecido en el artículo 2.3.2.26, o en depósitos de ahorro o certificados de ahorro a término, cuando así se haya convenido como reciprocidad a servicios especiales que preste el establecimiento financiero.
 
 Los convenios deberán constar por escrito y determinarse en elfos los servicios, modalidad, monto y tiempo de la reciprocidad, que en ningún caso podrá exceder del tercer (3) día hábil anterior al cierre del mes respectivo; además, deberán guardar equilibrio entre el servicio prestado por la entidad financiera y la retribución pactada
-
-ARTÍCULO
 
 ## art:2.3.3.2.3 — Fondo para la redención anticipada de títulos valores emitidos por la Nación
 
@@ -2791,8 +2749,6 @@ Las subastas para la constitución de certificados de depósito y de ahorro a t�
 ## art:2.3.3.3.10 — Subasta tipo oferta
 
 Se denomina subasta tipo oferta aquella mediante la cual las entidades ofrecen recursos para constituir certificados de depósito y de ahorro a término y se adjudica a los emisores idóneos que presenten las propuestas en las mejores condiciones de mercado.
-
-ARTÍCULO
 
 ## art:2.3.3.3.11 — Estas subastas deberán ser organizadas y realizadas directamente por las entidades
 
@@ -3844,8 +3800,6 @@ Cuando la sociedad titular de los pasivos de que habla el presente capítulo ent
 
 DE LA ADMINISTRACIÓN DE LOS RECURSOS DEL SIMPLE
 
-ARTÍCULO
-
 ## art:2.3.4.6.1 — Distribución del impuesto de industria y comercio consolidado a los distritos y municipios
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN, informará, a través del Sistema Integrado de Información Financiera -SIIF, al Ministerio de Hacienda y Crédito Público -Dirección General de Crédito Público y Tesoro Nacional -DGCPTN, la distribución del impuesto de industria y comercio consolidado a los distritos y municipios dentro de los dos (2) días hábiles siguientes al reporte que le hagan las entidades recaudadoras y la Dirección General de Crédito Público y Tesoro Nacional -DGCPTN ordenará el giro de los recursos correspondientes dentro de los diez (10) hábiles siguientes al reporte de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN. En todo caso, el giro a los entes territoriales se debe realizar en un término máximo de doce (12) días hábiles contados desde el día siguiente al pago del contribuyente, siempre que el municipio o distrito hubiese suministrado la cuenta bancaria para la transferencia de estos recursos y adoptado la tarifa del impuesto de industria y comercio consolidado atendiendo los requisitos previstos en las normas vigentes.
@@ -3862,15 +3816,11 @@ PARÁGRAFO . A más tardar el día treinta y uno (31) de diciembre de 2020 los d
 
 Cualquier cambio en la cuenta deberá ser informado a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN al menos con treinta (30) días de anticipación remitiendo el certificado de que trata el inciso anterior.
 
-ARTÍCULO
-
 ## art:2.3.4.6.2 — Transferencia de los recursos del impuesto de industria y comercio consolidado
 
 El Ministerio de Hacienda y Crédito Público - Dirección General de Crédito Público y Tesoro Nacional transferirá a partir del año 2020 a los municipios y/o distritos que adoptaron la tarifa del impuesto de industria y comercio consolidado en el año 2019, el valor del impuesto de industria y comercio consolidado recaudado de acuerdo con lo establecido en el artículo 2.3.4.6.1. del presente Decreto. A los demás municipios y/o distritos se les transferirá el valor del impuesto de industria y comercio consolidado a partir del año 2021.
 
 Únicamente en el primer anticipo presentado por el contribuyente en el recibo electrónico del SIMPLE, el valor a transferir será el componente ICA territorial de cada municipio o distrito, disminuido por las retenciones en la fuente y las autorretenciones a título de este impuesto que le practicaron o practicó el contribuyente, respectivamente, durante el periodo gravable antes de optar al SIMPLE en cada jurisdicción.
-
-ARTÍCULO
 
 ## art:2.3.4.6.3 — 6.3
 
@@ -4086,8 +4036,6 @@ Las entidades que administren recursos de la Nación, observarán la metodologí
 
 (Art. 1, Decreto 1853 de 2015)
 
-ARTÍCULO
-
 ## art:2.3.5.3 — Metodología de Liquidación
 
 Los rendimientos financieros al día t (RFt) se obtendrán de restar al Portafolio de inversiones admisibles, valorado al día t (Pt), el valor del saldo del capital entregado en administración al día t (Kt), así:
@@ -4265,8 +4213,6 @@ Se someten al régimen obligatorio de contingencias estatales consagrado por la 
 10. Las sociedades públicas.
 
 (Art. 9 Decreto 423 de 2001)
-
-ARTÍCULO
 
 ## art:2.4.1.9 — Sectores de riesgo
 
@@ -4508,8 +4454,6 @@ Esta declaración podrá hacerla el funcionario competente de la entidad aportan
 
 (Art. 38 Decreto 423 de 2001)
 
-ARTÍCULO
-
 ## art:2.4.1.1.21 — Desembolsos
 
 La fiduciaria La Previsora S.A., efectuará el pago debido por una entidad aportante a su contratista, por concepto de una obligación contingente, cuando sea requerida para ello, con los recursos que haya aportado la entidad al Fondo de contingencias contractuales de las entidades estatales en relación con el contrato que dio origen a la obligación y hasta concurrencia de la suma aportada con tal objeto.
@@ -4521,8 +4465,6 @@ En el caso de las obligaciones contingentes originadas en los contratos celebrad
 (Modificado por el Art. 2 del Decreto 108 de 2021)
 
 (Art. 39 Decreto 423 de 2001)
-
-ARTÍCULO
 
 ## art:2.4.1.1.22 — Titularidad del cobro
 
@@ -4603,8 +4545,6 @@ Inclusión en la base única de datos del Ministerio de Hacienda y Crédito Púb
 CAPÍTULO 3
 
 ASPECTOS PRESUPUESTALES
-
-ARTÍCULO
 
 ## art:2.4.1.3.1 — Preparación de los presupuestos
 
@@ -4820,13 +4760,9 @@ TÍTULO 4
 
 CONTINGENCIAS JUDICIALES DE LAS ENTIDADES ESTATALES
 
-ARTÍCULO
-
 ## art:2.4.4.1 — Pasivos Contingentes Judiciales
 
 Para los efectos del presente Título, se entiende por pasivos contingentes Judiciales, las obligaciones pecuniarias que surgen por las sentencias y conciliaciones judiciales desfavorables de las Entidades Estatales a las que les aplica el presente decreto.
-
-ARTÍCULO
 
 ## art:2.4.4.2 — Ámbito de aplicación
 
@@ -4836,39 +4772,27 @@ PARÁGRAFO 1. Los procesos judiciales que se encuentren notificados con anterior
 
 PARÁGRAFO 2. El presente Título no se aplica a conciliaciones pre-judiciales, controversias internacionales, acciones populares y acciones de grupo, las cuales seguirán rigiéndose por las normas aplicables, en especial, por lo dispuesto en la Ley 472 de 1998.
 
-ARTÍCULO
-
 ## art:2.4.4.3 — Valoración de los Pasivos Contingentes Judiciales
 
 Las pérdidas probables anuales en que puedan incurrir las Entidades Estatales por sentencias y conciliaciones judiciales, se estimarán de acuerdo con la metodología de valoración que expida la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
 
 PARÁGRAFO . La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, cuando lo considere pertinente, actualizará las metodologías de valoración de Pasivos Contingentes Judiciales y de Aportes al Fondo de Contingencias de las Entidades Estatales, con miras a mantenerlas en consonancia con las necesidades reales de defensa judicial del Estado.
 
-ARTÍCULO
-
 ## art:2.4.4.4 — Aprobación de la valoración del Pasivo Contingente Judicial
 
 Las Entidades Estatales valorarán su Pasivo Contingente Judicial y con base en dicha valoración determinarán el Plan de Aportes al Fondo de Contingencias de las Entidades Estatales. La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público aprobará las valoraciones de los pasivos contingentes judiciales.
-
-ARTÍCULO
 
 ## art:2.4.4.5 — 4.5
 
 Aprobación del Plan de Aportes al Fondo de Contingencias de las Entidades Estatales por concepto del Pasivo Contingente Judicial Las Entidades Estatales deberán allegar el Plan de Aportes a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público para su aprobación, para lo cual deberán tener en cuenta la metodología determinada por dicha Dirección. Los montos de los aportes aprobados se transferirán al Fondo de Contingencias de las Entidades Estatales.
 
-ARTÍCULO
-
 ## art:2.4.4.6 — Apropiaciones Presupuestales de los Aportes al Fondo de Contingencias de las Entidades Estatales
 
 Las Entidades Estatales de que trata el artículo 2.4.4.2 de este Título, deberán apropiar en su presupuesto anual, en el rubro de Servicio de la Deuda, las partidas necesarias para dar cumplimiento al Plan de Aportes aprobado por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
 
-ARTÍCULO
-
 ## art:2.4.4.7 — Aportes al Fondo de Contingencias de las Entidades Estatales
 
 Las Entidades Estatales deberán realizar anualmente los aportes al Fondo de Contingencias de las Entidades Estatales por procesos judiciales, en concordancia con el Plan de Aportes aprobado por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público. Los aportes se entenderán ejecutados una vez sean transferidos al Fondo de conformidad con lo previsto en el artículo 4 de la Ley 448 de 1998 o las normas que la complementen, modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.4.4.8 — Administración de los Aportes
 
@@ -4876,27 +4800,19 @@ Los aportes de las Entidades Estatales sujetas al presente Título se administra
 
 En los demás aspectos no regulados en el presente Titulo, la administración de los recursos se regirá por lo previsto en el Título 1 de la Parte 4 del Libro 2 del Decreto 1068 de 2015.
 
-ARTÍCULO
-
 ## art:2.4.4.9 — Obligación de mantener los Aportes realizados en el Fondo de Contingencias de las Entidades Estatales
 
 Dados los altos niveles de riesgo a los que las Entidades Estatales están expuestas por procesos judiciales en su contra, y con el fin de preservar los objetivos del Fondo y que las Entidades Estatales mantengan su solvencia financiera y presupuestal que sustente su capacidad de pago, los aportes efectuados deberán mantenerse en la subcuenta "Procesos Judiciales" del Fondo de Contingencias de las Entidades Estatales, con el fin de poder atender oportuna y permanentemente las contingencias actuales y futuras provenientes de procesos judiciales.
 
 La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público podrá autorizar la reducción del Plan de Aportes a cargo de las Entidades Estatales, cuando el valor total de los aportes efectuados sea igual o superior al total de sus contingencias por procesos judiciales.
 
-ARTÍCULO
-
 ## art:2.4.4.10 — De la existencia de recursos en el Fondo de Contingencias de las Entidades Estatales o en otros mecanismos de ahorro
 
 Si las Entidades Estatales han constituido algún mecanismo de ahorro con el objeto de cubrir las contingencias derivadas por procesos judiciales, podrán destinar esos recursos a la subcuenta "Procesos Judiciales", con el fin de dar cumplimiento a los Planes de Aportes que requieran ejecutar según lo dispuesto en este Título.
 
-ARTÍCULO
-
 ## art:2.4.4.11 — Inversión de los recursos
 
 Los recursos administrados por el Fondo de Contingencias de las Entidades Estatales en virtud de lo señalado en el presente Título serán invertidos en depósitos remunerados administrados por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
-
-ARTÍCULO
 
 ## art:2.4.4.12 — De los rendimientos y costos de administración
 
@@ -4904,13 +4820,9 @@ Los rendimientos que genere la inversión de los recursos procedentes de los Apo
 
 PARÁGRAFO . En ningún caso, podrá exigirse de las entidades aportantes la transferencia de suma alguna con destino al administrador por concepto de costos de administración.
 
-ARTÍCULO
-
 ## art:2.4.4.13 — Del registro de los Aportes
 
 El administrador del Fondo de Contingencias de las Entidades Estatales llevará un registro de los Planes de Aportes con el propósito de requerir a las Entidades Estatales el giro correspondiente en los montos y fechas previstas.
-
-ARTÍCULO
 
 ## art:2.4.4.14 — Reconocimiento de la contingencia
 
@@ -4922,8 +4834,6 @@ PARÁGRAFO 1. La Entidad Estatal correspondiente será responsable por la veraci
 
 PARÁGRAFO 2. En aquellos eventos en que la providencia que imponga la condena o apruebe la conciliación judicial no disponga la liquidación por tratarse de una condena en abstracto, la Entidad Estatal allegará al administrador del Fondo de Contingencias de las Entidades Estatales, notificación sobre la condena en contra, cuya contingencia fue provisionada, en el plazo máximo de diez (10) días hábiles contados a partir de la notificación de la providencia. Una vez se obtenga la liquidación de la condena en abstracto, la Entidad Estatal allegará al administrador del Fondo dicha liquidación junto con la respectiva resolución ejecutoriada emitida por el funcionario competente de la Entidad Estatal, mediante la cual se reconoce la suma de dinero que se imponga en la liquidación.
 
-ARTÍCULO
-
 ## art:2.4.4.15 — Desembolsos
 
 Los desembolsos consecuencia de la activación de la contingencia serán hasta por el monto de los aportes y los rendimientos de los recursos existentes en la subcuenta "Procesos Judiciales" del Fondo de Contingencias de las Entidades Estatales, que la correspondiente Entidad Estatal haya aportado. La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, mediante acto administrativo de carácter general, determinará el procedimiento operativo para el giro efectivo de los recursos.
@@ -4931,8 +4841,6 @@ Los desembolsos consecuencia de la activación de la contingencia serán hasta p
 PARÁGRAFO 1. Cuando los recursos de cada Entidad Estatal aportante existentes en la subcuenta "Procesos Judiciales" del Fondo sean insuficientes para el pago de sus obligaciones contingentes, se efectuará el pago parcial hasta por la totalidad de los aportes de cada Entidad Estatal aportante. En consecuencia, cada Entidad Estatal tendrá la responsabilidad de procurar los recursos necesarios para atender el saldo de la obligación que no alcanza a ser cubierto con recursos del Fondo, mediante el uso de otros mecanismos presupuestales.
 
 PARÁGRAFO 2. Los pagos realizados por el Fondo de Contingencias de las Entidades Estatales provenientes de la subcuenta "Procesos Judiciales", en nombre de las correspondientes Entidades, a los beneficiarios de las sentencias y conciliaciones judiciales ejecutoriadas en contra de ellas, no constituirán una afectación presupuestal de gasto para las Entidades Estatales, y solo deberán realizar los registros contables a los que haya lugar.
-
-ARTÍCULO
 
 ## art:2.4.4.16 — Obligaciones de pagos solidarios y/o conjuntos en los procesos judiciales
 
@@ -4945,8 +4853,6 @@ Si la sentencia ejecutoriada determina que, entre las Entidades Estatales conden
 Para el efecto, las Entidades Estatales aportantes deben presentarle al administrador del Fondo, un documento por medio del cual indican el consenso de pagos en la proporción que le corresponda, indicando el monto de los Aportes a trasladar a la subcuenta de la Entidad Estatal.
 
 PARÁGRAFO : Las Entidades Estatales aportantes podrán solicitar al administrador del Fondo el traslado de recursos entre subcuentas en caso de que una de estas realice el pago de forma solidaria o conjunta, en proporción mayor a la que le corresponde. Esto procederá, según instrucción de las Entidades Estatales y con el debido acto administrativo de pago ejecutoriado.
-
-ARTÍCULO
 
 ## art:2.4.4.17 — Titularidad del cobro
 
@@ -5031,8 +4937,6 @@ Lo anterior sin perjuicio de las funciones de inspección y vigilancia que ejerc
 TÍTULO 2
 
 MOVILIZACIÓN DE ACTIVOS, PLANES DE ENAJENACIÓN ONEROSA Y ENAJENACIÓN DE PARTICIPACIONES MINORITARIAS
-
-ARTÍCULO
 
 ## art:2.5.2.1 — 2.1
 
@@ -5324,8 +5228,6 @@ PARÁGRAFO 1. Los actos administrativos de que trata el presente artículo deber
 
 PARÁGRAFO 2. El procedimiento del plan de enajenación onerosa previsto en el presente artículo no se aplica a los bienes inmuebles que amparen pasivos pensionales de propiedad de las entidades públicas, cuyo objeto o misión sea la administración o monetización de dichos activos, ni a los bienes de las entidades cuyo objeto es o fue de administradoras y/o pagadoras de pensiones.
 
-ARTÍCULO
-
 ## art:2.5.2.4.3 — Sanciones
 
 La omisión, la información incorrecta o el incumplimiento por parte de los responsables de la ejecución de lo previsto en el presente título, acarreará las sanciones disciplinarias y fiscales que establezca la ley.
@@ -5410,8 +5312,6 @@ Los honorarios de los miembros de juntas de socios o consejos directivos de las 
 
 (Art. 3 Decreto 1486 de 1999)
 
-ARTÍCULO
-
 ## art:2.5.3.1.4 — Criterios para la fijación de honorarios
 
 Para la fijación de los honorarios de los miembros de juntas o consejos directivos, comités o comisiones de las mismas, a que se refieren los Artículos anteriores, deberán tenerse en cuenta los siguientes criterios:
@@ -5484,15 +5384,11 @@ CAPÍTULO 3
 
 GESTIÓN DE LA PROPIEDAD ESTATAL EN EMPRESAS Y SOCIEDADES RECEPTORAS
 
-ARTÍCULO
-
 ## art:2.5.3.3.1 — Objeto
 
 Los capítulos 3, 4, 5, 6 y 7 incorporados al Título 3 de la Parte 5 del libro 2 del Decreto 1068 de 2015 Único Reglamentario del Sector Hacienda y Crédito Público, tienen como objeto establecer reglas para la gestión de la propiedad de la Nación y de las entidades territoriales en empresas y sociedades, con la finalidad de generar valor económico y social, garantizar el uso eficiente y adecuado de los recursos de inversión y fomentar mejores prácticas de gobierno corporativo.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.2 — Ámbito de aplicación
 
@@ -5501,8 +5397,6 @@ Los capítulos 3, 4, 5, 6 y 7 incorporados al Título 3 de la Parte 5 del libro 
 PARÁGRAFO : Los Gestores de Propiedad propenderán por que las Empresas Receptoras adopten códigos de propiedad, de conformidad con lo dispuesto en el Capítulo 4 del presente Título, con el fin de establecer reglas aplicables a la administración y la gestión de su propia participación en sus filiales, y en general en las empresas o sociedades donde las respectivas Empresas Receptoras tengan participación accionaria, de forma directa o indirecta
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.3.3 — Definiciones
 
@@ -5528,8 +5422,6 @@ CAPÍTULO 4.
 
 CÓDIGO DE PROPIEDAD
 
-ARTÍCULO
-
 ## art:2.5.3.4.1 — Código de propiedad
 
 El código de propiedad es un documento público de obligatoria adopción por parte de las Entidades Propietarias el cual contendrá criterios generales y específicos que guíen las decisiones que adopten estas Entidades, a través de los Gestores de Propiedad con el objetivo de que gestionen correctamente los recursos invertidos por éstas en las Empresas Receptoras, conforme a lo dispuesto en este Capítulo.
@@ -5538,23 +5430,17 @@ Sin perjuicio de que existan múltiples Códigos de Propiedad, los Gestores de P
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.4.2 — Publicidad
 
 Los códigos de propiedad y sus modificaciones deberán ser claros, y no serán confidenciales salvo la información cuya revelación esté expresamente prohibida por la ley. Cada Entidad Propietaria deberá divulgar el código de propiedad que haya adoptado, a través de medios electrónicos o por cualquier medio público que permita su fácil entendimiento y aplicación, y atenderá las peticiones, observaciones o consultas que en relación con su contenido formule la ciudadanía.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.4.3 — Progresividad y modificaciones
 
 Al momento de expedir o ajustar su código de propiedad, cada Entidad Propietaria establecerá, con el apoyo de los Gestores de Propiedad, medidas tendientes a incrementar gradualmente sus objetivos de generación de valor económico y social en relación con sus inversiones en las Empresas Receptoras.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.4.4 — Contenido mínimo de los códigos de propiedad
 
@@ -5576,23 +5462,17 @@ PARÁGRAFO . Cada Entidad Propietaria podrá establecer criterios adicionales en
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.4.5 — Gestión financiera
 
 La inversión de recursos públicos en Empresas Receptoras deberá tener como objetivo principal la generación de valor económico. Los códigos de propiedad reconocerán esta finalidad y contendrán los lineamientos necesarios a los Gestores de Propiedad, con el fin de que estos procuren que las decisiones de las Empresas Receptoras contribuyan con el objetivo de generación de valor económico.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.4.6 — Planificación
 
 Los códigos de propiedad - contendrán lineamientos para los Gestores de Propiedad que tengan la calidad de administradores en Empresas Receptoras, con el fin de que estos procuren que los planes financieros de largo plazo de estas empresas sean consistentes con, por lo menos: i) los planes de desarrollo del respectivo orden y ii) los planes de ordenamiento territorial. Para el efecto, las Entidades Propietarias promoverán la participación de las Empresas Receptoras en los procesos de planificación territorial.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.4.7 — Gestión de riesgos
 
@@ -5604,15 +5484,11 @@ Los Gestores de Propiedad propenderán por que la gestión integral del riesgo d
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.4.8 — Política de sostenibilidad
 
 De acuerdo con lo dispuesto para el efecto en los códigos de propiedad, los Gestores de Propiedad propenderán por que las Empresas Receptoras adopten estándares de producción sostenibles y se comprometan con la búsqueda y el fomento del desarrollo de estrategias de sostenibilidad. Para este fin se podrán utilizar estándares internacionales que permitan el reporte de resultados en esta materia.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.4.9 — Responsabilidad social
 
@@ -5621,8 +5497,6 @@ Los códigos de propiedad deberán contener lineamientos dirigidos a los Gestore
 Para el sector de agua potable y saneamiento básico se entiende que el valor social incluye incrementar indicadores de cobertura, calidad y continuidad del servicio.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.4.10 — Lineamientos frente al gobierno corporativo de las Empresas Receptoras
 
@@ -5636,15 +5510,11 @@ CAPÍTULO 5
 
 POLÍTICA DE BUEN GOBIERNO CORPORATIVO
 
-ARTÍCULO
-
 ## art:2.5.3.5.1 — Inducción y capacitación de los miembros de juntas y consejos directivos
 
 Los Gestores de Propiedad que hagan parte de juntas o consejos directivos en representación de Entidades Propietarias deberán recibir la inducción correspondiente, por parte de la Empresa Receptora, sobre i) el rol que deberán desempeñar como miembros del correspondiente órgano, ii) el sector al que esta pertenece, y iii) la situación de la Empresa Receptora.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.5.2 — Reglamento de la Asamblea General de Accionistas o juntas de socios
 
@@ -5653,8 +5523,6 @@ Los Gestores de Propiedad adelantarán acciones para que las asambleas generales
 En los códigos de propiedad se incluirán las orientaciones necesarias para que los Gestores de Propiedad promuevan la implementación, y si es del caso la profundización y la ampliación, de las disposiciones reglamentarias a las que se refiere el artículo siguiente, y en general la adopción de las mejores prácticas de gobierno corporativo para las empresas con participación estatal, incluyendo las recomendaciones que produzcan de tiempo en tiempo las instancias nacionales e internacionales especializadas en esta materia.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.5.3 — Reglamento de Junta Directiva
 
@@ -5689,8 +5557,6 @@ Los Gestores de Propiedad adelantarán acciones para que las Empresas Receptoras
 (xiv) Contar con una política de sucesión y remuneración adecuada.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.5.4 — Buenas prácticas para la conformación de las juntas o consejos directivos u otros Órganos de Dirección y Administración
 
@@ -5727,8 +5593,6 @@ En la medida que sea posible, cada Gestor de Propiedad utilizará canales oficia
 PARÁGRAFO . Los actos de delegación o nominación de Gestores de Propiedad se harán constar por escrito mediante acta firmada por la autoridad que delega o nomina, según sea el caso. El original del acta de delegación o nominación reposará en los archivos de la Entidad Propietaria. La Empresa Receptora respectiva deberá conservar una copia del acta de delegación o nominación. La Entidad Propietaria y la Empresa Receptora garantizarán la consulta posterior del acta o su copia.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.5.5 — Código de Gobierno Corporativo
 
@@ -5786,8 +5650,6 @@ CAPÍTULO 6.
 
 TRANSPARENCIA Y CONFLICTOS DE INTERÉS
 
-ARTÍCULO
-
 ## art:2.5.3.6.1 — Relaciones entre la Entidad Propietaria y la Empresa Receptora
 
 La Entidad Propietaria deberá facilitar el flujo transparente y verificable de la información entre esta y la Empresa Receptora, con el fin de impedir potenciales conflictos de interés, facilitar la adopción de decisiones estratégicas, facilitar el control, y asegurar el cumplimiento del objetivo de generación de valor económico y social.
@@ -5795,8 +5657,6 @@ La Entidad Propietaria deberá facilitar el flujo transparente y verificable de 
 Las Entidades Propietarias, a través de los Gestores de Propiedad, propenderán porque las Empresas Receptoras, de acuerdo con su régimen jurídico, cuenten con políticas de transparencia y contratación que contengan por lo menos: i) Políticas de contratación y publicidad; ii) Manejo de conflictos de interés, incluyendo la definición y clasificación de conflictos de interés y los lineamientos para el manejo de situaciones de conflictos de interés; iii) Revelación de partes contratantes; iv) Facultades claras para suscribir contratos; v) Buenas prácticas en contratación, incluyendo encuestas a los participantes en los procesos de contratación sobre la transparencia de los mismos. Estas encuestas se harán de forma tal que no sea posible identificar a las personas que las respondan, y sus resultados serán públicos; vi) Políticas de reporte y divulgación de información, que deberá contener la información relevante de la respectiva Empresa Receptora, en la medida en que su revelación no esté prohibida por la ley, o pueda afectar su posición competitiva en el mercado o la viabilidad de sus planes estratégicos.; vii) Mecanismos de denuncia; xiii) Política anticorrupción; x) Políticas, normas, sistemas y principios éticos que orientan la actuación de los trabajadores, miembros de juntas directivas y contratistas, y xi) Responsabilidad de los directivos y de cualquier funcionario de la Empresa Receptora.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.6.2 — Revelación de potenciales conflictos de interés
 
@@ -5806,15 +5666,11 @@ Los Gestores de Propiedad deberán propender porque los administradores de la Em
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
 
-ARTÍCULO
-
 ## art:2.5.3.6.3 — Canal de denuncias
 
 Los Gestores de Propiedad deberán propender porque las Empresas Receptora adopten mecanismos y procedimientos adecuados e independientes de denuncia, que permitan que los miembros de las Empresas Receptoras, así como sus clientes, proveedores y grupos de interés en general, pongan en conocimiento de los órganos de auditoría, de vigilancia, de los órganos de control o de las demás autoridades competentes, los actos u omisiones que lleguen a su conocimiento que puedan ser considerados como presuntamente ilícitos o contrarios a los estatutos, protocolos, reglamentos internos, códigos de conducta y normativa en general.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.6.4 — Divulgación oportuna de información
 
@@ -5838,15 +5694,11 @@ CAPÍTULO 7.
 
 FORMAS DE RELACIÓN ENTRE ENTIDAD PROPIETARIA Y LA EMPRESA RECEPTORA
 
-ARTÍCULO
-
 ## art:2.5.3.7.1 — Relación de prestación entre la Entidad Propietaria y la Empresa Receptora
 
 Cuando determinada Entidad Propietaria sea usuario o beneficiario de algún servicio prestado por la Empresa Receptora, la Entidad Propietaria se sujetará a las mismas condiciones de servicio que se ofrezcan a los demás usuarios o clientes, y apropiará los recursos necesarios para el pago oportuno de la remuneración que aplique. Todas las operaciones entre la Entidad Propietaria y la Empresa Receptora se realizarán en las mismas condiciones de mercado que las que haga la Empresa Receptora con terceros. En todo caso, la Entidad Propietaria deberá hacer explícito su compromiso de impedir la creación de cualquier privilegio o subsidio en su favor por fuera de los previstos en la ley.
 
 (Adicionado por el Art. 1 del Decreto 1510 de 2021)
-
-ARTÍCULO
 
 ## art:2.5.3.7.2 — Relación de autoridad
 
@@ -6117,8 +5969,6 @@ PARÁGRAFO 2. En las medidas cautelares sobre vehículos de transporte público 
 En atención a las facultades que la ley de Extinción de Dominio le asigna a la Fiscalía General de la Nación a efectos de decretar medidas cautelares sobre bienes respecto de los cuales se inicie proceso de extinción de dominio, corresponderá a dicha entidad reportar al Administrador del FRISCO con la adecuada antelación, la ejecución de las diligencias en virtud de las cuales se deberá efectuar la aprehensión material de dichos bienes.
 
 (Art. 1, Decreto 2136 de 2015)
-
-ARTÍCULO
 
 ## art:2.5.5.2.1.3 — Materialización de las medidas cautelares sobre sociedades
 
@@ -7044,8 +6894,6 @@ PARÁGRAFO : Los recursos que se obtengan de la comercialización de los predios
 
 (Adicionado por el Art. 31 del Decreto 1760 de 2019)
 
-ARTÍCULO
-
 ## art:2.5.5.11.9 — Administración de los bienes rurales en proceso de extinción de dominio
 
 Se entenderá como bienes sin la vocación descrita en el artículo 91 de Ley 1708 de 2014, aquellos que la Agencia Nacional de Tierras -ANT determine como no aptos para el desarrollo de proyectos de generación de acceso a tierras o proyectos productivos y competitivos en los términos del Decreto Ley 902 de 2017, por sus condiciones físicas, jurídicas, urbanísticas, de uso del suelo, orden público.
@@ -7084,13 +6932,9 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.5.5.13.1.1 — Objeto
 
 El presente capitulo tiene por objeto establecer los plazos y condiciones para la transferencia de predios rurales a la que se refiere el parágrafo 4 del artículo 91 de la Ley 1708 de 2014, adicionado por el artículo 283 de la Ley 1955 de 2019, consagrando el ámbito de aplicación, definiciones y el desarrollo del procedimiento de transferencia.
-
-ARTÍCULO
 
 ## art:2.5.5.13.1.2 — Ámbito de Aplicación
 
@@ -7099,8 +6943,6 @@ Los predios rurales susceptibles de transferencia en el marco de lo establecido 
 Para efectos de transferir el dominio a los beneficiarios objeto del presente capítulo, el administrador del Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado (FRISCO), tendrá en cuenta la excepción establecida en el artículo 283 de la Ley 1955 de 2019.
 
 PARÁGRAFO 1. No podrán ser objeto de transferencia los bienes rurales extintos cuya causa de investigación dentro del proceso de extinción de dominio se derive de actividades delictivas relacionadas con los exintegrantes de las FARC-EP.
-
-ARTÍCULO
 
 ## art:2.5.5.13.1.3 — DEFINICIONES
 
@@ -7116,8 +6958,6 @@ Para efectos del presente capítulo un predio rural podrá ser susceptible de tr
 
 4- Proyecto productivo en el marco del proceso de reincorporación: para efectos del presente capítulo, es el conjunto de objetivos, actividades y metas, que el beneficiario se propone adelantar, con el fin de apalancar la generación de ingresos, rentabilidad económica y mejorar sus condiciones socioeconómicas.
 
-ARTÍCULO
-
 ## art:2.5.5.13.1.4 — Listado de bienes
 
 Para efectos del presente capítulo el administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO), remitirá mensualmente a la Agencia para la Reincorporación y la Normalización (ARN), el listado de los bienes rurales extintos junto con un diagnóstico físico y jurídico de los mismos.
@@ -7128,8 +6968,6 @@ El administrador del Fondo para la Rehabilitación Inversión Social y Lucha Con
 
 En todo caso una vez transferida la titularidad del bien a los beneficiarios según el presente capítulo, no podrá hacerse exigible al administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO) la solicitud de entrega de este bien a otra población conforme a lo descrito por el artículo 91 de la Ley 1708 de 2014.
 
-ARTÍCULO
-
 ## art:2.5.5.13.1.5 — Saneamiento de los bienes con declaratoria de extinción de dominio judicial
 
 Conforme a lo establecido en el presente capítulo, la Agencia para la Reincorporación y la Normalización (ARN) podrá solicitar al administrador del Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado (FRISCO), la transferencia de aquellos bienes con declaratoria de extinción del dominio judicial que sirvan a los propósitos de reincorporación establecidos en el parágrafo 4 del artículo 91 de la Ley 1708 de 2014, adicionado por el artículo 283 de la Ley 1955 de 2019. Para ello tendrá en cuenta que estén completamente saneados en los aspectos financiero, físico y administrativo, lo cual, entre otras, implica que estén libres de deudas, de perturbaciones a la tenencia y posesión, de gravámenes o procesos judiciales pendientes de ser resueltos. Para tal efecto la Sociedad de Activos Especiales (SAE) como administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO) hará uso de las facultades de otorgadas en los artículos 91 parágrafo 3 y 92 parágrafo 6 de la Ley 1708 de 2014.
@@ -7138,13 +6976,9 @@ SECCIÓN 2
 
 PROCEDIMIENTO DE TRANSFERENCIA
 
-ARTÍCULO
-
 ## art:2.5.5.13.2.1 — Requisito para la transferencia
 
 En el marco de lo establecido en el presente capítulo, para poder acceder a la transferencia del derecho de dominio, los beneficiarios deberán contar con la aprobación previa de un proyecto productivo por parte de la Agencia para la Reincorporación y la Normalización (ARN) en el caso de proyectos productivos individuales o del Consejo Nacional de Reincorporación (CNR) en el caso de proyectos productivos colectivos.
-
-ARTÍCULO
 
 ## art:2.5.5.13.2.2 — Solicitud de predio para el desarrollo de proyectos productivos
 
@@ -7156,13 +6990,9 @@ Los beneficiarios a los que alude el presente capitulo deberán indicar en la so
 
 PARÁGRAFO . También podrá solicitarse la transferencia del predio para el desarrollo de un proyecto productivo cuando a la entrada en vigencia del presente capítulo el proyecto ya hubiese sido aprobado o se encuentre en fase de aprobación. En estos eventos se tendrán en cuenta los procedimientos que establezca la Agencia para la Reincorporación y la Normalización (ARN) y el Consejo Nacional de Reincorporación (CNR), según se trate de proyectos productivos individuales o colectivos respectivamente.
 
-ARTÍCULO
-
 ## art:2.5.5.13.2.3 — Disponibilidad del predio solicitado
 
 La Agencia para la Reincorporación y la Normalización (ARN) verificará la disponibilidad del predio solicitado, de acuerdo con el listado remitido por el administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO) según el artículo 2.5.5.13.1.4. del presente Decreto, para lo cual contará con un término de un (01) mes.
-
-ARTÍCULO
 
 ## art:2.5.5.13.2.4 — Verificación Técnica del proyecto
 
@@ -7174,8 +7004,6 @@ PARÁGRAFO . Cuando se trate de proyectos productivos que se encuentren en fase 
 
 Una vez superada la verificación técnica, la Agencia para la Reincorporación y la Normalización (ARN) informará los beneficiarios al administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO) dentro del mes siguiente, con el fin que se inicie el trámite de transferencia condicionada del predio.
 
-ARTÍCULO
-
 ## art:2.5.5.13.2.5 — Transferencia de dominio
 
 La transferencia del derecho de dominio de los bienes en favor de la población en proceso de reincorporación o de las asociaciones u organizaciones cooperativas conformadas por exintegrantes de las FARC-EP a que se refiere el presente capítulo, se realizará mediante acto administrativo expedido por el administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO) a título de traslaticio de dominio para la implementación de proyectos productivos. El acto administrativo deberá ser expedido durante el mes siguiente a la solicitud de transferencia realizada por la Agencia para la Reincorporación y la Normalización (ARN), será inscrito en la Oficina de Instrumentos Públicos correspondiente y estará exento del pago de derechos que surjan por la prestación del servicio registral.
@@ -7185,8 +7013,6 @@ La transferencia del derecho de dominio a que se refiere el presente capítulo.s
 Cuando se trate de la modalidad de derecho común y proindiviso, el administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO) asignará la facultad a los futuros propietarios para asumir a su cargo las gestiones de desenglobe jurídico y catastral de dichos bienes en el acto administrativo de transferencia. La Agencia para la Reincorporación y la Normalización (ARN) en el marco de sus competencias acompañará estas gestiones.
 
 Las reclamaciones que surjan del proceso de transferencia serán resueltas por el administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO).
-
-ARTÍCULO
 
 ## art:2.5.5.13.2.6 — Condición resolutoria
 
@@ -7202,15 +7028,11 @@ En caso de evidenciarse el incumplimiento de las anteriores obligaciones, el adm
 
 Las reclamaciones que surjan del proceso de transferencia serán resueltas por el administrador del Fondo para la Rehabilitación Inversión Social y Lucha Contra el Crimen Organizado (FRISCO).
 
-ARTÍCULO
-
 ## art:2.5.5.13.2.7 — Gastos -
 
 Además de los requisitos establecidos en las normas vigentes, la formulación del proyecto productivo deberá contener el presupuesto para sufragar los gastos de los trámites que se generen del levantamiento topográfico, definición de parcelas, áreas y linderos y demás que se deban acreditar para la transferencia del bien, cuando esta se realice bajo la modalidad de titulación individual.
 
 De igual forma, los gastos que se generen por concepto de contribuciones, tasas o impuestos derivadas del proceso de transferencia en cualquiera de sus modalidades estarán a cargo a los beneficiarios.
-
-ARTÍCULO
 
 ## art:2.5.5.13.2.8 — Seguimiento
 
@@ -7317,8 +7139,6 @@ Un veinte por ciento (20%) será destinado a los programas especiales que el Gob
 (Modificado por el Art.1 del Decreto 1736 de 2021)
 
 (Art. 1, Decreto 1787 de 2017)
-
-ARTÍCULO
 
 ## art:2.5.7.3 — Distribución del 20% del Gobierno Nacional
 
@@ -7514,23 +7334,17 @@ Sexta
 
 (Art.8 Decreto 192 de 2001, modificado por el Art.1 del Decreto 735 de 2001)
 
-ARTÍCULO
-
 ## art:2.6.1.1.9 — Ingresos de las entidades descentralizadas
 
 Los ingresos de las entidades descentralizadas del nivel territorial, no hacen parte del cálculo de los ingresos de libre destinación para categorizar los Departamentos, Municipios o Distritos. Tampoco harán parte de la base del cálculo para establecer el límite de gastos de Asambleas, Concejos, Contralorías y Personerías.
 
 (Art. 9 Decreto 192 de 2001)
 
-ARTÍCULO
-
 ## art:2.6.1.1.10 — Transferencias a las Contralorías
 
 La transferencia de los Departamentos, Municipios o Distritos, sumada a la cuota de fiscalización de las entidades descentralizadas, realizadas a las contralorías, no podrán superar los límites de gasto ni de crecimiento establecidos en la Ley 617 de 2000.
 
 (Art. 10 Decreto 192 de 2001)
-
-ARTÍCULO
 
 ## art:2.6.1.1.11 — Programas de Saneamiento Fiscal y Financiero
 
@@ -7552,15 +7366,11 @@ CAPÍTULO 2
 
 INFORMES SOBRE VIABILIDAD FINANCIERA Y PROGRAMAS DE SANEAMIENTO FISCAL Y FINANCIERO DE LOS MUNICIPIOS
 
-ARTÍCULO
-
 ## art:2.6.1.2.1 — Presentación de informes sobre viabilidad financiera de municipios
 
 Las oficinas de planeación departamental o los organismos que hagan sus veces presentarán a los gobernadores y a las asambleas departamentales respectivas un informe donde expongan la situación financiera de los municipios, el cual deberá relacionar aquellas entidades que hayan incumplido los límites de gasto dispuestos por los artículos 6 y 10 de la Ley 617 de 2000. Tal informe deberá presentarse el primer día de sesiones ordinarias correspondiente al segundo período de cada año.
 
 (Art. 1 Decreto 4515 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.1.2.2 — Verificación del cumplimiento de los límites al gasto
 
@@ -7569,8 +7379,6 @@ Para la elaboración del informe de que trata el artículo anterior, las Oficina
 Los alcaldes acompañarán las certificaciones con información suficiente y necesaria para determinar el cumplimiento de los límites dispuestos por los artículos 6 y 10 de la Ley 617 de 2000.
 
 (Art. 2 Decreto 4515 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.1.2.3 — Procedimientos establecidos por el artículo 19 de la Ley 617 de 2000
 
@@ -7584,8 +7392,6 @@ PARÁGRAFO . La obligación de estructurar y ejecutar los programas de saneamien
 
 (Art. 3 Decreto 4515 de 2007)
 
-ARTÍCULO
-
 ## art:2.6.1.2.4 — Programas de saneamiento fiscal y financiero de los municipios
 
 Los programas de saneamiento fiscal y financiero adoptados por los municipios de manera obligatoria, se estructurarán en los términos del artículo 2.6.1.1.11. del presente título. La verificación del cumplimiento del programa de saneamiento fiscal y financiero corresponde a las oficinas de planeación o a los organismos que hagan sus veces.
@@ -7593,8 +7399,6 @@ Los programas de saneamiento fiscal y financiero adoptados por los municipios de
 PARÁGRAFO . La omisión de la entidad territorial en la adopción o ejecución del programa de saneamiento a que se refiere el presente artículo, no elimina la verificación del cumplimiento de los límites al gasto establecidos en los artículos 6 y 10 de la Ley 617 de 2000, como presupuesto para continuar el proceso y la consecuente adopción de los programas de saneamiento de que tratan los artículos siguientes del presente capítulo.
 
 (Art. 4 Decreto 4515 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.1.2.5 — 2.5
 
@@ -7606,8 +7410,6 @@ PARÁGRAFO . En presencia del incumplimiento de los límites de gasto, la omisi�
 
 (Art. 5 Decreto 4515 de 2007)
 
-ARTÍCULO
-
 ## art:2.6.1.2.6 — Adopción de los programas de saneamiento fiscal y financiero ordenados por las asambleas departamentales
 
 Los programas de saneamiento ordenados por las asambleas departamentales deberán ser adoptados por los municipios dentro de los dos meses siguientes a la expedición de las ordenanzas de que trata el artículo anterior, sin perjuicio de la expedición de los actos administrativos a que haya lugar en cabeza de las autoridades municipales en consideración a las particulares medidas que se hayan establecido en el correspondiente programa de saneamiento.
@@ -7615,8 +7417,6 @@ Los programas de saneamiento ordenados por las asambleas departamentales deberá
 PARÁGRAFO . La omisión de las autoridades locales respecto a la adopción y ejecución del programa ordenado por la asamblea departamental, no elimina la verificación del cumplimiento de los límites al gasto durante las vigencias que haya establecido la corporación administrativa departamental, como presupuesto para continuar el procedimiento y la verificación de la viabilidad financiera de la respectiva entidad territorial.
 
 (Art. 6 Decreto 4515 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.1.2.7 — Acceso a apoyos financieros de la Nación
 
@@ -7628,15 +7428,11 @@ CAPÍTULO 3
 
 CONTABILIDAD PÚBLICA DEPARTAMENTAL
 
-ARTÍCULO
-
 ## art:2.6.1.3.1 — Contabilidad pública departamental
 
 La contabilidad pública departamental está conformada, además de la contabilidad del Sector Central del departamento, por la de las entidades u organismos descentralizados territorialmente o por servicios, que lo integran, y la de cualquier otra entidad que tenga a su cargo el manejo o administración de recursos del departamento y sólo en lo relacionado con estos.
 
 (Art. 1 Decreto 3730 de 2003)
-
-ARTÍCULO
 
 ## art:2.6.1.3.2 — Contador general del departamento
 
@@ -7645,8 +7441,6 @@ Para todos los efectos del presente capítulo, el Contador General del departame
 Dicho servidor cumplirá las funciones relacionadas con los procesos de consolidación, asesoría y asistencia técnica, capacitación y divulgación y demás actividades necesarias para el desarrollo del Sistema Nacional de Contabilidad Pública y control interno contable, en el sector central y descentralizado de las entidades departamentales y municipales.
 
 (Art. 2 Decreto 3730 De 2003)
-
-ARTÍCULO
 
 ## art:2.6.1.3.3 — Funciones
 
@@ -7692,8 +7486,6 @@ CAPÍTULO 1
 
 PROCEDIMIENTO PARA LA REESTRUCTURACIÓN DE PASIVOS DE LAS ENTIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.6.2.1.1 — Procedimiento para dar trámite a los acuerdos de reestructuración de entidades del nivel territorial
 
 Para tramitar una solicitud o promoción oficiosa de un acuerdo de reestructuración de una entidad del nivel territorial, que esté sometida a inspección y vigilancia estatal, independientemente de que tenga el carácter de empresa industrial y comercial, de economía mixta o cualquier forma de asociación, con personalidad jurídica, cuyo objeto sea el desarrollo de actividades empresariales, se deberá previamente establecer, por parte de la Superintendencia que ejerza dicha supervisión, si la entidad se encuentra incursa en alguna de las causales legales establecidas para la toma de posesión o intervención por parte de la Superintendencia que la vigila, evento en el cual se procederá a dar aplicación a las normas que regulan esta materia.
@@ -7701,8 +7493,6 @@ Para tramitar una solicitud o promoción oficiosa de un acuerdo de reestructurac
 PARÁGRAFO . Cuando una entidad de las que trata el presente artículo, sea objeto de un acuerdo de reestructuración, el departamento, municipio o distrito titular de más del cincuenta por ciento (50%) del capital de la misma, podrá simultáneamente someterse al proceso de reestructuración previsto en la Ley 550 de 1999.
 
 (Art. 1 Decreto 694 de 2000)
-
-ARTÍCULO
 
 ## art:2.6.2.1.2 — Promotores y peritos
 
@@ -7717,8 +7507,6 @@ PARÁGRAFO . Los honorarios que se puedan generar por la designación de peritos
 En caso que el perito designado sea funcionario de una entidad pública, no podrá devengar remuneración adicional a la que perciba en su condición de servidor público.
 
 (Art. 2 Decreto 694 de 2000)
-
-ARTÍCULO
 
 ## art:2.6.2.1.3 — Actividad de la entidad territorial durante la negociación del acuerdo
 
@@ -7742,8 +7530,6 @@ Con base en el artículo 17 y el numeral 10 del artículo 58 de la Ley 550 de 19
 
 (Art. 3 Decreto 694 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.4 — Estado de relación de acreedores, acreencias e inventarios
 
 Para los efectos previstos en el artículo 20 de la Ley 550 de 1999, el gobernador, alcalde o representante legal de la entidad, entregará al promotor una relación de los acreedores y acreencias, y un estado de inventario elaborado con base en los registros contables y en las normas y procedimientos expedidos por la Contaduría General de la Nación.
@@ -7766,8 +7552,6 @@ PARÁGRAFO 3. La entidad territorial pondrá a disposición del promotor, todos 
 
 (Art. 4 Decreto 694 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.5 — Representación de la Nación
 
 Cuando la Nación sea acreedora de una entidad territorial o del nivel territorial, objeto de un acuerdo de reestructuración, dichas acreencias estarán representadas por el Ministerio de Hacienda y Crédito Público a través de la Dirección General de Crédito Público y del Tesoro Nacional, salvo el caso de las acreencias relativas a impuestos nacionales, evento en el cual la representación la tendrá a través de la Dirección de Impuestos y Aduanas Nacionales.
@@ -7775,8 +7559,6 @@ Cuando la Nación sea acreedora de una entidad territorial o del nivel territori
 (Art. 5 Decreto 694 de 2000)
 
 SECCIÓN 1. OBLIGACIONES FISCALES
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1 — Determinación de las obligaciones fiscales
 
@@ -7790,8 +7572,6 @@ c) Los intereses de mora causados de conformidad con lo previsto en los artícul
 
 (Art. 1 Decreto 2249 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.2 — Plazos para el pago de obligaciones fiscales en acuerdos de reestructuración
 
 De conformidad con lo establecido en los artículos 55 inciso segundo y 56 de la Ley 550 de 1999, los plazos que se estipulen en el acuerdo de reestructuración para el pago de las obligaciones fiscales susceptibles de negociación en los términos del artículo 52 de la referida ley, podrán ser superiores a los plazos máximos previstos en el artículo 814 del Estatuto Tributario.
@@ -7799,8 +7579,6 @@ De conformidad con lo establecido en los artículos 55 inciso segundo y 56 de la
 PARÁGRAFO . Sin perjuicio de la causación de intereses y de la actualización de que trata el artículo 867-1 del Estatuto Tributario, para la realización de pagos de las obligaciones fiscales se podrá acordar período de gracia hasta por un plazo máximo de dos años, que se graduará en atención al monto de la deuda, de la situación de la empresa deudora y de la viabilidad de la misma, siempre que los demás acreedores acuerden un período de gracia igual o superior al de las obligaciones fiscales.
 
 (Art. 2 Decreto 2249 de 2000)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.3 — Intereses de plazo de las obligaciones fiscales
 
@@ -7828,8 +7606,6 @@ PARÁGRAFO 2. Lo dispuesto en el presente artículo no aplica para los nuevos cr
 
 (Art. 3 Decreto 2249 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.4 — Intereses en caso de incumplimiento
 
 Cuando en ejecución de un acuerdo de reestructuración se incumpla el pago de alguna de las obligaciones fiscales reestructuradas, respecto de la totalidad de los saldos adeudados de dichas obligaciones se aplicará una tasa de interés equivalente a la más alta entre:
@@ -7846,15 +7622,11 @@ PARÁGRAFO . Para los intereses de mora de las obligaciones fiscales que no son 
 
 (Art. 4 Decreto 2249 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.5 — Ventajas previstas en el acuerdo
 
 Las ventajas o compensaciones que lleguen a acordarse a favor de cualquier otro acreedor en función de la recuperación de la empresa y de la mejora de su capacidad de pago, deberán reconocerse igualmente a los acreedores fiscales en forma proporcional por la estipulación de plazos, tasas de interés y períodos de gracia en los términos previstos en esta sección.
 
 (Art. 5 Decreto 2249 de 2000)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.6 — Otorgamiento de garantías
 
@@ -7862,15 +7634,11 @@ El otorgamiento de garantías para las obligaciones fiscales susceptibles de neg
 
 (Art. 6 Decreto 2249 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.7 — Determinación de los derechos de voto de los acreedores
 
 Para efectos de la determinación de votos, las obligaciones fiscales se actualizarán de conformidad con el numeral primero del artículo 22 de la Ley 550 de 1999.
 
 (Art. 7 Decreto 2249 de 2000)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.8 — Acuerdo de pago respecto de obligaciones fiscales
 
@@ -7880,8 +7648,6 @@ De conformidad con el inciso anterior, y con el artículo 52 de la Ley 550 de 19
 
 (Art. 8 Decreto 2249 de 2000)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.9 — Autorización para adelantar acuerdos de pago IVA y retenciones en la fuente
 
 Se entenderá que existe urgencia, conveniencia y necesidad, para efectos de la autorización consagrada en el inciso tercero del artículo 17 de la Ley 550 de 1999, cuando cualquiera de los sujetos de que trata el artículo 125 de la Ley 1116 de 2006 que adelante un acuerdo de reestructuración solicite autorización para efectuar pagos o celebrar acuerdos o facilidades de pago, respecto de las sumas que adeude por concepto de Impuesto a las Ventas, IVA, y retenciones en la fuente de cualquiera de los impuestos nacionales, así como los intereses, sanciones o actualizaciones que se deriven exclusivamente de estos conceptos.
@@ -7889,8 +7655,6 @@ Se entenderá que existe urgencia, conveniencia y necesidad, para efectos de la 
 Igualmente, se entenderá que existe urgencia, conveniencia y necesidad, cualquiera de los sujetos de que trata el inciso anterior solicite autorización para llevar a cabo las compensaciones de que trata el artículo 815 del Estatuto Tributario, con el fin de efectuar los pagos respecto de las sumas que adeude por concepto de Impuesto a las Ventas, IVA, y retenciones en la fuente de cualquiera de los impuestos nacionales, así como los intereses, sanciones o actualizaciones que se deriven exclusivamente de estos conceptos.
 
 (Art. 1 Decreto 806 de 2000)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.10 — Pagos o acuerdos de pagos a la DIAN
 
@@ -7906,15 +7670,11 @@ CAPÍTULO 1
 
 ACTIVIDADES DE MONITOREO
 
-ARTÍCULO
-
 ## art:2.6.3.1.1 — Actividades de monitoreo
 
 Las actividades de monitoreo de que trata el numeral 3.1 del artículo 3 del Decreto 028 de 2008, comprenden la recopilación sistemática de información en los sectores de educación, salud, agua potable y saneamiento básico, y en las actividades de inversión financiadas con recursos de propósito general y asignaciones especiales del Sistema General de Participaciones; su consolidación, análisis y verificación para el cálculo de indicadores específicos y estratégicos de cada sector, que permitan identificar acciones u omisiones por parte de las entidades territoriales que puedan poner en riesgo la adecuada utilización de los recursos del Sistema General de Participaciones y/o el cumplimiento de las metas de calidad, cobertura y continuidad en la prestación de los servicios financiados con cargo a estos recursos.
 
 (Art. 1 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.1.2 — Entidades responsables
 
@@ -7924,15 +7684,11 @@ PARÁGRAFO . Para el desarrollo de las actividades de monitoreo en el sector sal
 
 (Art. 2 Decreto 168 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.1.3 — Coordinación de las actividades de monitoreo
 
 Corresponde al Ministerio de Hacienda y Crédito Público, en desarrollo de lo dispuesto por el numeral 6.2 del artículo 6 del Decreto 028 de 2008, a través del sistema de información que adopte, consolidar y evaluar de manera integral los resultados de la actividad de monitoreo realizada por el Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio y el Departamento Nacional de Planeación. Para este efecto, formulará orientaciones al Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio y al Departamento Nacional de Planeación acerca de los procedimientos y metodologías empleados para la captura, procesamiento, análisis y remisión de los resultados de las actividades de monitoreo.
 
 (Art. 3 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.1.4 — Periodicidad y reporte
 
@@ -7944,8 +7700,6 @@ Las actividades de monitoreo se realizarán de manera continua y el reporte al M
 
 (Art. 4 Decreto 168 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.1.5 — Recopilación de la información
 
 La recopilación de información requerida para el ejercicio de las actividades de monitoreo en los sectores de educación, salud, agua potable y saneamiento básico y en las actividades de inversión financiadas con recursos de propósito general y asignaciones especiales del Sistema General de Participaciones, se efectuará por parte del Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación, según el caso, a través del Formato Único Territorial, FUT, o los instrumentos de recopilación adoptados por el Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación, conforme con los parámetros y sistemas de información definidos para este efecto.
@@ -7954,23 +7708,17 @@ PARÁGRAFO . La metodología para la consolidación y análisis de la informaci�
 
 (Art. 5 Decreto 168 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.1.6 — Verificación
 
 El Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación, en el ámbito de sus competencias, podrá realizar visitas de campo con el fin de confrontar la información suministrada sobre la ejecución de los recursos del Sistema General de Participaciones, y brindar asistencia técnica para mejorar la consistencia y calidad de la información reportada.
 
 (Art. 6 Decreto 168 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.1.7 — Información complementaria
 
 El Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación, en el ámbito de sus competencias, podrán solicitar a las entidades territoriales la información adicional a la descrita en el presente título, para el ejercicio de la actividad de monitoreo y, a su vez, podrán suministrarla al Ministerio de Hacienda y Crédito Público para definir las medidas a las que haya lugar.
 
 (Art. 7 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.1.8 — Coordinación con otras entidades
 
@@ -7979,8 +7727,6 @@ Con el propósito de asegurar que las actividades de monitoreo permitan identifi
 PARÁGRAFO . El Departamento Nacional de Planeación, si lo considera necesario, podrá suscribir convenios con entidades nacionales y de control para asegurar la remisión de la información que requiera para el ejercicio de las actividades de monitoreo de los recursos del Sistema General de Participaciones de propósito general y asignaciones especiales.
 
 (Art. 8 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.1.9 — Actividades de los departamentos
 
@@ -7992,23 +7738,17 @@ CAPÍTULO 2
 
 ACTIVIDADES DE SEGUIMIENTO
 
-ARTÍCULO
-
 ## art:2.6.3.2.1 — Actividades de seguimiento
 
 Las actividades de seguimiento de que trata el numeral 3.2 del artículo 3 del Decreto 028 de 2008, se realizarán en los sectores de salud, educación, agua potable y saneamiento básico y las actividades de inversión financiadas con los recursos de propósito general y las asignaciones especiales del Sistema General de Participaciones, por parte del Ministerio de Hacienda y Crédito Público, a través de auditorías realizadas directamente o mediante la contratación de personas naturales o jurídicas, o mediante los procedimientos necesarios que permitan evidenciar los eventos de riesgo.
 
 (Art. 9 Decreto 168 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.2.2 — Objeto de las actividades de seguimiento
 
 Las actividades de seguimiento que adelante el Ministerio de Hacienda y Crédito Público, comprenden la evaluación y análisis de los procesos administrativos, institucionales, fiscales, presupuestales, contractuales y sectoriales de las entidades territoriales, las cuales permiten evidenciar y cualificar la existencia de eventos de riesgo que afecten o puedan llegar a afectar la ejecución de los recursos, el cumplimiento de las metas de continuidad, cobertura y calidad en la prestación de servicios.
 
 (Art. 10 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.2.3 — Ámbito de aplicación de las actividades de auditoría
 
@@ -8017,8 +7757,6 @@ La auditoría podrá realizarse en forma integral a los procesos y actividades q
 (Art. 11 Decreto 168 de 2009)
 
 CAPÍTULO 3
-
-ARTÍCULO
 
 ## art:2.6.3.3.1 — Acciones a adelantar
 
@@ -8037,8 +7775,6 @@ Con sujeción a los resultados de las actividades de monitoreo y/o seguimiento y
 6. Previa recomendación del Conpes Social, la adopción por parte del Ministerio de Hacienda y Crédito Público, de la medida de asunción temporal de la competencia en cualquiera de los sectores financiados con cargo a los recursos del Sistema General de Participaciones.
 
 (Art. 12 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.3.2 — Criterios de calificación de eventos de riesgo
 
@@ -8061,8 +7797,6 @@ b) Indicadores cualitativos, los cuales presentan dos posibles calificaciones:
 2. No cumple
 
 (Art. 13 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.3.3 — Condiciones generales para calificación de eventos de riesgo
 
@@ -8614,15 +8348,11 @@ PARÁGRAFO 2. En todo caso, la presencia de dos o más eventos de riesgo podrá 
 
 (Art. 14 Decreto 168 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.3.4 — Identificación del riesgo relacionado con el Sisbén
 
 La identificación del riesgo definido en el numeral 9.11 del artículo 9 del Decreto 028 de 2008, en lo relacionado con el Sistema de Identificación de Potenciales Beneficiarios de Programas Sociales, Sisbén, se realizará mediante listados definidos por el Departamento Nacional de Planeación remitidos antes del 30 de junio de cada año, al Ministerio de Hacienda y Crédito Público, respecto de las entidades territoriales que: a) no dispongan de dicho sistema; b) no lo tengan actualizado, o c) cuyo sistema no esté operando bajo parámetros de calidad. En este evento, el Departamento Nacional de Planeación apoyará al Ministerio de Hacienda y Crédito Público en la realización de auditorías cuando sea necesario.
 
 (Art. 15 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.3.5 — Cumplimiento de metas
 
@@ -8634,8 +8364,6 @@ CAPÍTULO 4
 
 ACTIVIDADES DE CONTROL - ADOPCIÓN DE MEDIDAS PREVENTIVAS O CORRECTIVAS
 
-ARTÍCULO
-
 ## art:2.6.3.4.1 — Procedimiento para la adopción de medidas
 
 La adopción de las medidas preventivas o correctivas de que trata el Decreto 028 de 2008, se efectuará mediante acto administrativo debidamente motivado, expedido por el Ministerio de Hacienda y Crédito Público, previa consulta al ministerio respectivo o al Departamento Nacional de Planeación en los sectores de salud, educación, agua potable y saneamiento básico, propósito general y asignaciones especiales.
@@ -8644,8 +8372,6 @@ La adopción de las medidas correctivas se adelantará atendiendo a las disposic
 
 (Art. 1 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2 — Término para consulta
 
 Una vez efectuada la consulta previa a que se refiere el artículo anterior, por parte del Ministerio de Hacienda y Crédito Público al Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación, la entidad respectiva dispondrá de un término máximo de diez (10) días hábiles, contado a partir del día siguiente a su radicación, para pronunciarse sobre la medida a adoptar. Si transcurrido este término, el Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación no se han pronunciado, el Ministerio de Hacienda y Crédito Público adoptará la correspondiente medida preventiva o correctiva.
@@ -8653,8 +8379,6 @@ Una vez efectuada la consulta previa a que se refiere el artículo anterior, por
 En ningún caso, el contenido de la respuesta dada por el Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o el Departamento Nacional de Planeación a la consulta efectuada, resulta obligatorio para el Ministerio de Hacienda y Crédito Público el que, sin embargo, deberá expresar las razones por las cuales acepta o rechaza la respuesta dada por el ministerio respectivo o el Departamento Nacional de Planeación.
 
 (Art. 19 Decreto 168 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.4.3 — Fundamento para la adopción de las medidas
 
@@ -8670,15 +8394,11 @@ PARÁGRAFO . En todo caso, conforme lo prevé el artículo 14 del Decreto 028 de
 
 (Art. 2 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.4 — Continuidad de medidas
 
 Las medidas de seguimiento y control adoptadas por el Ministerio de Educación Nacional, el Ministerio de Salud y Protección Social, el Ministerio de Vivienda Ciudad y Territorio o la Superintendencia Nacional de Salud, de acuerdo con lo dispuesto por las Leyes 715 de 2001 y 1122 de 2007, continuarán aplicándose en la medida en que los informes sectoriales determinen su cumplimiento por parte de la respectiva entidad territorial. En caso contrario, la reformulación o adopción de nuevas medidas, se rige por lo dispuesto en el Decreto 028 de 2008, sin perjuicio de las competencias de inspección, vigilancia, y control a cargo de la Superintendencia Nacional de Salud.
 
 (Art. 25 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.5 — Apoyo en el desarrollo de medidas
 
@@ -8691,8 +8411,6 @@ De igual manera, los Departamentos podrán solicitar al Ministerio de Hacienda y
 SECCIÓN 1.
 
 MEDIDAS PREVENTIVAS
-
-ARTÍCULO
 
 ## art:2.6.3.4.1.1 — Contenido del plan de desempeño
 
@@ -8712,8 +8430,6 @@ PARÁGRAFO 2. Para el caso del sector salud, cuando la entidad territorial tenga
 
 (Art. 3 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.1.2 — Revisión y aprobación del plan de desempeño
 
 Una vez presentado el correspondiente plan de desempeño por parte del representante legal de la entidad territorial, el Ministerio de Hacienda y Crédito Público, en coordinación con el ministerio sectorial o el Departamento Nacional de Planeación, determinará los ajustes a introducir al contenido del mismo, las medidas de seguimiento a su ejecución, los indicadores y criterios de evaluación acerca de su cumplimiento, y los términos, oportunidad y contenido de la información que la entidad territorial ha de entregar para estos efectos y que formarán parte integral del plan de desempeño.
@@ -8722,8 +8438,6 @@ Una vez presentado el respectivo plan de desempeño y efectuadas las correccione
 
 (Art. 4 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.1.3 — Coordinador del plan de desempeño
 
 El Ministerio de Hacienda y Crédito Público determinará y tendrá a su cargo la designación y financiación del coordinador del plan de desempeño quien verificará que la entidad territorial cumpla con las medidas y actividades previstas en el plan de desempeño y formulará los informes y recomendaciones correspondientes.
@@ -8731,8 +8445,6 @@ El Ministerio de Hacienda y Crédito Público determinará y tendrá a su cargo 
 En ningún caso el coordinador es responsable por la adopción, ejecución o cumplimiento de las medidas o actividades adoptadas por la entidad territorial en el plan de desempeño. La entidad territorial, a través de su representante legal y demás funcionarios responsables, deberá brindar la asistencia, apoyo técnico y entrega de información que requiera el coordinador para el ejercicio de sus funciones.
 
 (Art. 5 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.1.4 — Evaluación del plan de desempeño
 
@@ -8754,15 +8466,11 @@ SECCIÓN 2.
 
 MEDIDAS CORRECTIVAS
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.1 — Adopción de medidas correctivas
 
 Las medidas correctiva, por su naturaleza cautelar, se podrá adoptar de manera simultánea a la iniciación y comunicación del procedimiento respectivo. La medida se surtirá mediante la publicación del acto administrativo en la página Web del Ministerio de Hacienda y Crédito Público, y se entenderá surtida en la fecha de publicación
 
 (Art. 8 Decreto 2613 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.2 — Adopción de las medidas suspensión de giros y giro directo
 
@@ -8774,23 +8482,17 @@ PARÁGRAFO 2. El Ministerio de Hacienda y Crédito Público podrá adoptar de ma
 
 (Art. 7 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.3 — Suspensión de giros
 
 La medida de suspensión de giros será adoptada por el Ministerio de Hacienda y Crédito Público, según el caso, cuando su imposición no afecte la continuidad en la prestación del servicio, la prestación de servicios a la comunidad o ponga en riesgo la vida de los usuarios del Sistema General de Seguridad Social en Salud. La adopción de la medida se hará previa consulta con el ministerio sectorial.
 
 (Art. 8 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.4 — Coordinación ejercicio de medidas sector agua potable y saneamiento básico
 
 Conforme con lo señalado por el artículo 7 del Decreto 028 de 2008, el Ministerio de Hacienda y Crédito Público adoptará las medidas preventivas o correctivas de suspensión de giros o giro directo, con sujeción a lo dispuesto en el presente capítulo, articulando su ejercicio con la Superintendencia de Servicios Públicos Domiciliarios.
 
 (Art. 24 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.5 — Giro directo
 
@@ -8800,15 +8502,11 @@ PARÁGRAFO . Sin perjuicio de lo dispuesto en el presente artículo y en atenci�
 
 (Art. 9 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.6 — Proceso integral
 
 En la medida de giro directo, la entidad territorial es la encargada de realizar los compromisos y efectuar la respectiva ordenación del gasto. La entidad fiduciaria hará el proceso integral de verificación y aprobación de las cuentas ordenadas por la entidad territorial, para concluir el proceso con su pago. El Ministerio de Hacienda y Crédito Público expedirá concepto antes de dicho pago. Dicho concepto se referirá al cumplimiento del proceso descrito en este artículo y al giro de los respectivos recursos a la fiducia pública.
 
 (Art. 10 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.7 — Suministro de información para giro directo
 
@@ -8818,15 +8516,11 @@ Si la entidad territorial no suministra la información requerida o lo hace de m
 
 (Art. 11 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.8 — Verificación de información
 
 La entidad fiduciaria contratada para el efecto, verificará la oportunidad, integridad y calidad de la información requerida para la aplicación de la medida de giro directo. En los casos en que se detecte suministro extemporáneo o inexacto, o cualquier otra irregularidad se le informará por escrito al representante legal de la entidad territorial de las observaciones sobre la información reportada. Si transcurridos cinco (5) días hábiles, contados a partir de la fecha del recibo de la referida comunicación la entidad territorial no ha radicado la respuesta en la entidad fiduciaria, o la respuesta es incompleta o insatisfactoria, se deberá informar de tal situación a la Procuraduría General de la Nación.
 
 (Art. 12 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.9 — Informe de giro efectuado
 
@@ -8840,15 +8534,11 @@ PARÁGRAFO . Conforme con el numeral 13.2 del artículo 13 del Decreto 028 de 20
 
 (Art. 13 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.10 — Constitución subsidiaria de la fiducia
 
 En el evento en que la entidad territorial respecto de la cual se adopta la medida correctiva de giro directo de recursos, no constituya la fiducia pública a que hace referencia el numeral 13.2 del artículo 13 del Decreto 028 de 2008, el Ministerio de Hacienda y Crédito Público, en orden a garantizar la continuidad en la prestación de los servicios a cargo de la entidad territorial, evitar su paralización y/o prevenir perjuicios a terceros, podrá constituir la respectiva fiducia pública. Lo anterior, sin perjuicio de la responsabilidad legal que recae sobre el representante legal de la entidad territorial por su omisión de constituir la fiducia citada.
 
 (Art. 14 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.11 — Procedimiento para el pago de la fiducia
 
@@ -8858,8 +8548,6 @@ El Ministerio de Hacienda y Crédito Público o quien administra los recursos gi
 
 (Art. 15 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.12 — Levantamiento de las medidas de suspensión de giro y/o giro directo
 
 El levantamiento de las medidas de suspensión de giro y/o giro directo se hará mediante acto administrativo debidamente motivado, suscrito por Ministerio de Hacienda y Crédito Público, una vez se superen los eventos que motivaron la adopción de la medida.
@@ -8868,15 +8556,11 @@ PARÁGRAFO . Para tomar la decisión de levantamiento de las medidas de suspensi
 
 (Art. 16 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.13 — Asunción temporal de competencia por la Nación
 
 De manera excepcional, y cuando los departamentos no tengan la capacidad suficiente para asumir la competencia temporal respecto a los servicios a cargo de los municipios sujetos de la medida, corresponderá a la Nación la asunción de dicha competencia. Para estos efectos la determinación de la insuficiencia corresponderá al ministerio respectivo.
 
 (Art. 7 Decreto 2613 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.14 — Fundamento para la adopción de la medida de asunción temporal de la competencia
 
@@ -8889,8 +8573,6 @@ La determinación de la medida correctiva de asunción temporal de competencia l
 3. De manera directa cuando se evidencien situaciones que presenten inminente riesgo en la utilización de los recursos o en la prestación del servicio.
 
 (Art. 17 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.15 — Procedimiento para la adopción de la medida de asunción temporal de la competencia
 
@@ -8906,8 +8588,6 @@ Para la adopción de la medida de asunción temporal de la competencia, el Minis
 
 (Art. 18 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.16 — Recomendación Conpes Social
 
 Con sujeción a la información suministrada por el Ministerio de Hacienda y Crédito Público, el Conpes Social recomendará:
@@ -8922,15 +8602,11 @@ Con sujeción a la información suministrada por el Ministerio de Hacienda y Cr�
 
 (Art. 19 Decreto 2911 de 2008)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.17 — Aplicación de la medida de asunción temporal de competencia
 
 La medida correctiva de asunción temporal de competencia se efectuará, una vez se expida la respectiva recomendación del Conpes Social, mediante acto administrativo debidamente motivado, suscrito por el Ministerio de Hacienda y Crédito Público, conforme al procedimiento dispuesto en el artículo 208 del Estatuto Orgánico del Sistema Financiero, atendiendo a lo dispuesto por el artículo 2.6.3.4.1 de este capítulo.
 
 (Art. 20 Decreto 2911 de 2008)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.18 — Atribuciones y medidas financieras, presupuestales y contables
 
@@ -8946,8 +8622,6 @@ La Nación o el departamento, según el caso, llevará contabilidad separada de 
 
 (Art. 1 Decreto 2613 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.19 — Alcance de las medidas adoptadas en el marco de la asunción temporal de competencia
 
 Las atribuciones en materia de programación presupuestal, ordenación del gasto, competencia contractual y nominación del personal, lo mismo que la adopción de las medidas administrativas institucionales, presupuestales, financieras, contables y contractuales a las que hacen referencia los numerales 13.3.1 y 13.3.2 del artículo 13 del Decreto 28 de 2008, comprende los recursos del Sistema General de Participaciones que de conformidad con las disposiciones legales vigentes corresponden a la entidad territorial respecto de la cual se adopta la medida correctiva.
@@ -8960,15 +8634,11 @@ PARÁGRAFO . Para efectos de lo previsto en el presente artículo, a las entidad
 
 (Art. 2 Decreto 2613 de 2009, Parágrafo incorporado por el Art. 1 del Decreto 3979 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.20 — Asunción del pasivo
 
 La asunción temporal de la competencia por parte de la Nación o el departamento, según el caso, no implica solidaridad alguna respecto a las obligaciones a cargo de la entidad sobre la que recae la medida correctiva, existentes o causadas con anterioridad o con posterioridad a la adopción de la medida, y generadas en el correspondiente sector o servicio. El pasivo originado en el servicio o sector se mantendrá a cargo de la entidad territorial sujeta de la medida, el cual deberá ser financiado con cargo a sus recursos propios o a los apropiados con destinación específica para el servicio o sector según el caso, pero, atendiendo las particulares normas que gobiernen este aspecto.
 
 (Art. 3 Decreto 2613 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.21 — Administración de plantas de personal
 
@@ -8981,8 +8651,6 @@ Ascensos, reintegros y las demás señaladas en la ley. En todo caso y dependien
 PARÁGRAFO . En caso de que la entidad sujeta a la medida correctiva cuente con planta de personal financiada con recursos propios complementando la prestación de los servicios, dicha planta será administrada a través de la entidad que asuma temporalmente la competencia y su pago será garantizado por la entidad territorial a la cual pertenece.
 
 (Art. 4 Decreto 2613 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.22 — Facultades y deberes del administrador designado
 
@@ -9002,8 +8670,6 @@ PARÁGRAFO 1. Las facultades propias del jefe del organismo intervenido se refie
 
 (Art. 5 Decreto 2613 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.23 — Representación judicial y extrajudicial
 
 En el evento de asunción temporal de la competencia, la representación judicial y extrajudicial por actuaciones u omisiones generadas en desarrollo de la aplicación de la medida correctiva, estará a cargo de la entidad que asuma temporalmente la competencia.
@@ -9014,15 +8680,11 @@ Excepcionalmente a juicio de la Nación o del departamento, según el caso, y co
 
 (Art. 6 Decreto 2613 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.3.4.2.24 — Rendición de cuentas
 
 Cuando la Nación o el departamento asuma el ejercicio de la medida de asunción temporal de la competencia, deberá registrar la totalidad de transacciones celebradas con cargo a los recursos que administra y presentar informes a las autoridades competentes y a la entidad territorial respecto de la cual se adopta la medida correctiva, para que esta consolide y genere de manera integral los reportes a cargo de la entidad.
 
 (Art. 9 Decreto 2613 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.3.4.2.25 — Levantamiento de la medida de asunción temporal de competencia
 
@@ -9033,8 +8695,6 @@ El levantamiento de la medida se hará mediante acto administrativo debidamente 
 (Art. 21 Decreto 2911 de 2008)
 
 FORMULARIO ÚNICO TERRITORIAL - FUT
-
-ARTÍCULO
 
 ## art:2.6.4.1 — Formulario Único Territorial- FUT -
 
@@ -9048,8 +8708,6 @@ PARÁGRAFO . Se entenderá como información oficial básica, aquella de natural
 
 La información de ejecución presupuestal de ingresos y gastos reportada a través del FUT, deberá ser consistente y coherente con la información contable reconocida y revelada en los términos definidos en el Régimen de Contabilidad Pública.
 
-ARTÍCULO
-
 ## art:2.6.4.2 — Ámbito de aplicación del FUT
 
 El FUT será de obligatorio diligenciamiento Y presentación por parte del sector central de los Departamentos. Distritos. Municipios, de sus respectivos establecimientos públicos, de las entidades asimiladas a estos, y de los Territorios Y Resguardos Indígenas certificados y/o Asociaciones de estos últimos, a los que se refiere el Decreto 1953 de 2014 o la norma que lo modifiqu, adicione o sustituya.
@@ -9057,8 +8715,6 @@ El FUT será de obligatorio diligenciamiento Y presentación por parte del secto
 Las Gobernaciones Y Alcaldías deberán consolidar y reportar al FUT la información básica territorial correspondiente únicamente a la administración central Y a sus unidades ejecutoras, a las asambleas y concejos, a las personerías y, a los órganos de control fiscal. Los establecimientos públicos de cada entidad territorial o las entidades asimiladas a estos enviarán por aparte sus reportes de información oficial básica territorial, incluidas aquellas operaciones de recaudo de ingresos tributarios y no tributarios de propiedad de las administraciones centrales que se deleguen en ellos. También los representantes de los Territorios y Resguardos Indígenas certificados, y de las Asociaciones de éstos últimos, deberán consolidar y reportar en el FUT sus datos oficiales básicos.
 
 PARÁGRAFO TRANSITORIO. Mientras se ponen a su disposición las utilidades de captura de datos a través de las cuales deban reportar los establecimientos públicos adscritos a las entidades territoriales, o las entidades asimiladas a estos, la información básica territorial que presenten las Gobernaciones y las Alcaldías contendrá el reporte de todos los sectores de su competencia, aunque se atiendan a través de tales establecimientos públicos.
-
-ARTÍCULO
 
 ## art:2.6.4.3 — Presentación de informes a través del FUT
 
@@ -9078,21 +8734,15 @@ PARÁGRAFO 2. La fecha límite de presentación de los informes con corte a dici
 
 PARÁGRAFO 3. Únicamente con fines de ampliación de la cobertura estadística pero sin que ello produzca otros efectos y en todo caso cuando se trate de información diferente a aquella requerida! para el cálculo del Producto Interno Bruto PIB, las entidades territoriales, sus establecimientos públicos, las entidades asimilados a éstos, y los Territorios y Resguardos Indígenas certificados o Asociaciones de estos últimos, podrán reportar su información de manera extemporánea conforme a la resolución que emita la entidad que ejerza la Secretaría Técnica de la Comisión Intersectorial del FUT.
 
-ARTÍCULO
-
 ## art:2.6.4.4 — Funcionarios responsables de los informes que deben presentarse a través del FUT
 
 El cumplimiento de las obligaciones relacionadas con la presentación y certificación de la: información del Formulario Único Territorial será de responsabilidad del Gobernador, o el Alcalde, o el Director, o Representante Legal del establecimiento público o de la entidad asimilada a este, o los representantes legales de los Territorios y Resguardos Indígenas certificados o Asociaciones de estos últimos, según el caso.
 
 Los representantes legales de las entidades incluidas en el ámbito de aplicación de este decreto deberán adoptar formalmente las medidas y procedimientos pertinentes para que las Asambleas, los Concejos, las Personerías, las Contralorías y demás unidades ejecutoras, incluidas las Secretarías de Educación y Salud y las unidades de servicios públicos que hagan parte de las administraciones centrales municipales, concilien con las dependencias responsables de reportar al FUT la información necesaria para su diligenciamiento. En los Departamentos, Distritos y Municipios, los Gobernadores y Alcaldes ordenarán el reporte de sus establecimientos públicos, y el Jefe de Control Interno, o quien haga sus 'veces en cada entidad obligada a reportar, verificará de forma semestral la adopción y cumplimiento de los procedimientos y de las obligaciones de cada jefe de dependencia respecto del reporte al FUT y elaborará un informe de evaluación y recomendaciones; para la mejora.
 
-ARTÍCULO
-
 ## art:2.6.4.5 — Control de cumplimiento de los reportes del FUT
 
 El incumplimiento en el reporte de la información de que trata el presente Título generará las sanciones disciplinarias a que haya lugar. Para tal efecto, el FUT informará a la Procuraduría General de la Nación el listado de las entidades obligadas a reportar que incumplieron, con el fin de que se inicie el respectivo proceso disciplinario.
-
-ARTÍCULO
 
 ## art:2.6.4.6 — Información adicional para fines específicos
 
@@ -9104,19 +8754,13 @@ Siempre que las entidades del orden nacional requieran información oficial bás
 
 PROGRAMAS DE SANEAMIENTO FISCAL Y FINANCIERO DE LAS EMPRESAS SOCIALES DEL ESTADO
 
-ARTÍCULO
-
 ## art:2.6.5.1 — OBJETO
 
 El presente título tiene por objeto reglamentar los parámetros de elaboración, presentación, adopción, viabilidad, ejecución, manejo y administración de los recursos, monitoreo, seguimiento y evaluación de los Programas de Saneamiento Fiscal y Financiero, que en cumplimiento de lo dispuesto por el artículo 8 de la Ley 1966 de 2019 deben adoptar las Empresas Sociales del Estado del nivel territorial, categorizadas en riesgo medía o alto.
 
-ARTÍCULO
-
 ## art:2.6.5.2 — ELABORACIÓN DEL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO
 
 Los Gerentes de las Empresas Sociales del Estado categorizadas en riesgo medio o alto elaborarán y presentarán a su respectiva Junta Directiva la propuesta de los Programas de Saneamiento Fiscal y Financiero en coordinación con las Direcciones Departamentales y Distritales de Salud, teniendo en cuenta los parámetros generales de contenidos, seguimiento y evaluación establecidos en el presente Decreto y en la Guía Metodológica que para el efecto dispongan los Ministerios de Hacienda y Crédito Público y Salud y Protección Social.
-
-ARTÍCULO
 
 ## art:2.6.5.3 — PRESENTACIÓN DEL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO ANTE EL MINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO
 
@@ -9126,13 +8770,9 @@ PARÁGRAFO . Para todos los efectos, incluido lo dispuesto por el artículo 9 de
 
 El Ministerio de Hacienda y Crédito Público emitirá un mensaje de datos al remitente acusando el recibo de la comunicación entrante indicando la fecha y hora de la misma y el número de radicado asignado, el cual constituye prueba tanto de la presentación efectuada por el respectivo Departamento o Distrito, como de su recepción por el Ministerio de Hacienda y Crédito Público, de conformidad con lo dispuesto por los artículos 61 y 62 de la Ley 1437 de 2011.
 
-ARTÍCULO
-
 ## art:2.6.5.4 — PLAZOS PARA LA ELABORACIÓN, PRESENTACIÓN Y ADOPCIÓN DEL PROGRAIVIA DE SANEAMIENTO FISCAL Y FINANCIERO
 
 Los plazos para la elaboración, presentación y adopción de las propuestas de Programas de Saneamiento Fiscal y Financiero de las Empresas Sociales del Estado categorizadas en riesgo medio o arto serán definidos y comunicados mediante oficio, al respectivo Gobernador o Alcalde Distrital por el Ministerio de Hacienda y Crédito Público.
-
-ARTÍCULO
 
 ## art:2.6.5.5 — CRITERIOS DE VIABILIDAD DEL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO
 
@@ -9148,8 +8788,6 @@ Certificado o documento a través del cual la Junta Directiva y el Gerente de la
 
 (Modificado por el Art 1 , del decreto 460 de 2024)
 
-ARTÍCULO
-
 ## art:2.6.5.6 — VIABILIDAD DEL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO
 
 Cuando la propuesta de Programa de Saneamiento Fiscal y Financiero presentada cumpla con los criterios establecidos en el artículo anterior, el Ministerio de Hacienda y Crédito Público emitirá pronunciamiento sobre su viabilidad. En el evento en que dicho Ministerio formule observaciones a la propuesta de Programa presentada, el Gerente de la Empresa Social del Estado a través del respectivo Gobernador o Alcalde Distrital, deberá efectuar los correspondientes ajustes y presentar nuevamente la propuesta de Programa en aras de obtener su viabilidad.
@@ -9157,8 +8795,6 @@ Cuando la propuesta de Programa de Saneamiento Fiscal y Financiero presentada cu
 Los plazos para efectuar los ajustes y presentar nuevamente la propuesta de Programa de Saneamiento Fiscal y Financiero serán definidos y comunicados mediante Oficio, al respectivo Gobernador o Alcalde Distrital por el Ministerio de Hacienda y Crédito Público.
 
 Una vez viabilizada la propuesta de Programa de Saneamiento Fiscal y Financiero por parte del Ministerio de Hacienda y Crédito Público, la Junta Directiva de la correspondiente Empresa Social del Estado deberá proceder con su adopción.
-
-ARTÍCULO
 
 ## art:2.6.5.7 — NO VIABILIDAD DE LOS PROGRAMAS DE SANEAMIENTO FISCAL Y FINANCIERO
 
@@ -9172,8 +8808,6 @@ PARÁGRAFO 3. Las Empresas Sociales del Estado categorizadas en riesgo medio o a
 
 Las Empresas Sociales del Estado categorizadas en riego medio o alto incursas en la presente situación, podrán presentar para viabilidad una propuesta de Programa de Saneamiento Fiscal y Financiero ante el Ministerio de Hacienda y Crédito Público, siempre y cuando el Programa Territorial de Reorganización, Rediseño y Modernización de Redes de ESE actualizado establezca su funcionamiento dentro de la red y sea viabilizado por el Ministerio de Salud y Protección Social.
 
-ARTÍCULO
-
 ## art:2.6.5.8 — EJECUCIÓN DE LOS RECURSOS DEL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO
 
 Los recursos destinados al Programa de Saneamiento Fiscal y Financiero se ejecutarán a partir de: I) la celebración y legalización del contrato de encargo fiduciario de administración y pagos o la apertura de una cuenta maestra: y ii) modificación del presupuesto de conformidad con el escenario financiero del Programa; previa viabilización del mismo por parte del Ministerio de Hacienda y Crédito Público y su adopción por la Junta Directiva de la Empresa Social del Estado
@@ -9184,8 +8818,6 @@ PARÁGRAFO 2. Los recursos de excedentes de cuentas maestras del régimen subsid
 
 (Modificado por el Art 2 , del decreto 460 de 2024)
 
-ARTÍCULO
-
 ## art:2.6.5.9 — MONITOREO, SEGUIMIENTO Y EVALUACIÓN DE LOS PROGRAMAS DE SANEAMIENTO FISCAL Y FINANCIERO
 
 El monitoreo de los Programas de Saneamiento Fiscal y Financiero viabilizados estará a cargo de la respectiva Empresa Social del Estado; el seguimiento estará a cargo del correspondiente Departamento o Distrito, y la evaluación estará a cargo del Ministerio de Hacienda y Crédito Público. El monitoreo, seguimiento y evaluación se ejercerá sobre el cumplimiento de las medidas y metas previstas en relación con la recuperación, el restablecimiento de la solidez económica y financiera y el fortalecimiento institucional de la Empresa Social del Estado, sin perjuicio del control fiscal que ejercen los órganos de control.
@@ -9195,8 +8827,6 @@ Para este efecto, el Gobernador o Alcalde Distrital deberá remitir informes de 
 PARÁGRAFO 1. Con base en los resultados de la evaluación anual de los Programas de Saneamiento Fiscal y Financiero, el Ministerio de Hacienda y Crédito Público elaborará y publicará en su página web un escalafón de desempeño de las Empresas Sociales del Estado y de compromiso de las entidades territoriales frente a las medidas propuestas en los Programas.
 
 PARÁGRAFO 2. En desarrollo de las disposiciones legales vigentes, el Ministerio de Salud y Protección Social, como órgano rector del sector salud, verificará periódicamente la articulación de las Empresas Sociales del Estado que ejecutan Programas de Saneamiento Fiscal y Financiero viabilizados, con la operación y sostenibilidad de la red de prestación de servicios y la continuidad de la prestación de servicios de salud.
-
-ARTÍCULO
 
 ## art:2.6.5.10 — RECURSOS PARA EL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO
 
@@ -9218,19 +8848,13 @@ PARÁGRAFO 1. Los saldos, remanentes, rendimientos y los recursos no distribuido
 
 PARÁGRAFO 2. De acuerdo con lo dispuesto el artículo 10 de la Ley 1966 de 2019, los recursos dispuestos por las Leyes 1438 de 2011, 1608 de 2013 y 1797 de 2016, o la norma que las modifique, adicione o sustituya, deberán destinarse prioritariamente a la financiación de los Programas de Saneamiento Fiscal y Financiero de las Empresas Sociales del Estado de nivel l.
 
-ARTÍCULO
-
 ## art:2.6.5.11 — CATEGORIZACIÓN DEL RIESGO
 
 La categorización del riesgo de las Empresas Sociales del Estado del nivel territorial que realice anualmente el Ministerio de Salud y Protección Social, tendrá en cuenta el concepto del Ministerio de Hacienda y Crédito Público sobre el cumplimiento de los Programas de Saneamiento Fiscal y Financiero; en todo caso las Empresas Sociales del Estado cuyos Programas de Saneamiento Fiscal y Financiero se encuentren en proceso de viabilidad o debidamente viabilizados por el Ministerio de Hacienda y Crédito Público, no serán objeto de categorización del riesgo por parte del Ministerio de Salud y Protección Social, hasta tanto el Programa se encuentre culminado .
 
-ARTÍCULO
-
 ## art:2.6.5.12 — DECISIONES DE LA JUNTA DIRECTIVA
 
 Las decisiones en materia fiscal y financiera, que deba tomar la Junta Directiva de las Empresas Sociales del Estado del nivel territorial, que se encuentren ejecutando un Programa de Saneamiento Fiscal y Financiero, requerirán el voto favorable y expreso del presidente de la Junta Directiva, o su respectivo delegado, según el caso.
-
-ARTÍCULO
 
 ## art:2.6.5.13 — PROGRAMACION DE PRESUPUESTO
 
@@ -9240,15 +8864,11 @@ Lo anterior, sin perjuicio, de los ajustes que procedan al presupuesto de acuerd
 
 PARÁGRAFO . Será responsabilidad del Consejo de Política Fiscal territorial o quien haga sus veces, aprobar el presupuesto de las Empresas Sociales del Estado y sus respectivas modificaciones en los términos, plazos y condiciones establecidos en el presente artículo.
 
-ARTÍCULO
-
 ## art:2.6.5.14 — INCUMPLIMIENTO DEL PROGRAMA DE SANEAMIENTO FISCAL Y FINANCIERO
 
 En virtud del parágrafo 4 del artículo 77 de la Ley 1955 de 2019, el Ministerio de Hacienda y Crédito Público remitirá a la Superintendencia Nacional de Salud, la información de las Empresas Sociales del Estado que, de acuerdo con las evaluaciones realizadas por el Ministerio incumplan el Programa de Saneamiento Fiscal y Financiero, para que la Superintendencia Nacional de Salud adelante las actuaciones a que haya lugar, en el marco de sus competencias.
 
 PARÁGRAFO . Las Empresas Sociales del Estado que de acuerdo con el presente artículo sean remitidas a la Superintendencia Nacional de Salud, no podrán volver a presentar un Programa de Saneamiento Fiscal y Financiero ante el Ministerio de Hacienda y Crédito Público; situación que será informada al Ministerio de Salud y Protección Social para efectos de la no aplicación de la metodología de categorización del riesgo de éstas, hasta tanto la Superintendencia Nacional de Salud en ejercicio de sus competencias, realice la respectiva intervención de la Empresa Social del Estado y emita pronunciamiento en relación con la culminación satisfactoria de la misma.
-
-ARTÍCULO
 
 ## art:2.6.5.15 — .15
 
@@ -9264,13 +8884,9 @@ PARÁGRAFO 4°. . Las Empresas Sociales del Estado que con ocasión al incumplim
 
 (Modificado por el Art 3 , del decreto 460 de 2024)
 
-ARTÍCULO
-
 ## art:2.6.5.16 — MODIFICACIÓN DE LOS PROGRAMAS DE SANEAMIENTO FISCAL Y FINANCIERO
 
 Los Programas de Saneamiento Fiscal y Financiero podrán ser modificados de conformidad con los plazos y condiciones que establezca para el efecto el Ministerio de Hacienda y Crédito Público.
-
-ARTÍCULO
 
 ## art:2.6.5.17 — .17
 
@@ -9284,13 +8900,9 @@ PARÁGRAFO 3. Las Empresas Sociales del Estado incursas en la situación del par
 
 PARÁGRAFO 4. Las anteriores situaciones serán informadas al Ministerio de Salud y Protección Social para efectos de la no aplicación de la metodología de categorización del riesgo de éstas, hasta tanto la Superintendencia Nacional de Salud en ejercicio de sus competencias, emita pronunciamiento en relación con la culminación del Acuerdo de Reestructuración de Pasivos y la medida de intervención forzosa administrativa para administrar.
 
-ARTÍCULO
-
 ## art:2.6.5.18 — EMPRESAS SOCIALES DEL ESTADO EN MEDIDA DE VIGILANCIA ESPECIAL ANTE LA SUPERINTENDENCIA NACIONAL DE SALUD
 
 Las Empresas Sociales del Estado categorizadas en riesgo medio o alto, que se encuentren en Medida de Vigilancia Especial ante la Superintendencia Nacional de Salud, no se encuentran habilitadas para presentar Programa de Saneamiento Fiscal y Financiero ante el Ministerio de Hacienda y Crédito Público hasta tanto, la Superintendencia Nacional de Salud certifique que la medida de vigilancia se dio por culminada.
-
-ARTÍCULO
 
 ## art:2.6.5.19 — TRANSICIÓN
 
@@ -9298,15 +8910,11 @@ Las Empresas Sociales del Estado categorizadas en riesgo medio o alto que se enc
 
 PRESUPUESTO ENTIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.6.6.1 — Inembargabilidad recursos del Sistema General de Participaciones
 
 Los recursos del Sistema General de Participaciones, por su destinación social constitucional, no pueden ser objeto de embargo. En los términos establecidos en la Ley 715 de 2001, los recursos del Sistema General de Participaciones no harán unidad de Caja con los demás recursos del presupuesto y su administración deberá realizarse en cuentas separadas de los recursos de la entidad y por sectores.
 
 (Artículo 1 del Decreto 1101 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.6.2 — Obligatoriedad trámite de desembargo
 
@@ -9316,15 +8924,11 @@ En caso de que se llegare a efectuar un embargo de los recursos del Sistema Gene
 
 (Artículo 2 del Decreto 1101 de 2007)
 
-ARTÍCULO
-
 ## art:2.6.6.3 — Constancia de inembargabilidad de recursos
 
 El servidor público una vez recibida la orden de embargo sobre los recursos de transferencias que hace la Nación a las Entidades Territoriales, solicitará a la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público, la constancia sobre la naturaleza de estos recursos; la constancia de inembargables de los recursos, será solicitada a más tardar dentro de los tres (3) días siguientes a su recibo.
 
 (Artículo 3 del Decreto 1101 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.6.4 — Plazo de expedición constancia de inembargabilidad
 
@@ -9332,15 +8936,11 @@ La Dirección General del Presupuesto Público Nacional del Ministerio de Hacien
 
 (Artículo 4 del Decreto 1101 de 2007)
 
-ARTÍCULO
-
 ## art:2.6.6.5 — Requisitos de la solicitud de constancia de inembargabilidad
 
 La solicitud de constancia de inembargabilidad debe indicar el tipo de proceso, las partes involucradas, el despacho judicial que profirió las medidas cautelares y el origen de los recursos que fueron embargados.
 
 (Artículo 5 del Decreto 1101 de 2007)
-
-ARTÍCULO
 
 ## art:2.6.6.6 — 6.6
 
@@ -9351,8 +8951,6 @@ Trámite de la constancia de inembargabilidad de cuentas maestras o cuentas de l
 CAPÍTULO 1
 
 VIGENCIAS FUTURAS EXCEPCIONALES PARA ENTIDADES TERRITORIALES
-
-ARTÍCULO
 
 ## art:2.6.6.1.1 — Declaración de importancia estratégica
 
@@ -9369,8 +8967,6 @@ d) Que el proyecto se encuentre viabilizado dentro del Banco de Programas y Proy
 e) Sin perjuicio de los estudios técnicos que deben tener todos los proyectos, los proyectos de infraestructura, energía y comunicaciones el estudio técnico deben incluir la definición de obras prioritarias e ingeniería de detalle, aprobado por la oficina de planeación de la entidad territorial o quien haga sus veces. Para el caso de proyectos de Asociación Público Privada, se cumplirá con los estudios requeridos en la Ley 1508 de 2012 y sus decretos reglamentarios.
 
 (Artículo 1 del Decreto 2767 de 2012)
-
-ARTÍCULO
 
 ## art:2.6.6.1.2 — Contenido de los estudios técnicos
 
@@ -9400,25 +8996,17 @@ CAPÍTULO 2
 
 MANEJO PRESUPUESTAL DE LOS FONDOS DE DESARROLLO LOCAL DE LOSDISTRITOS ESPECIALES
 
-ARTÍCULO
-
 ## art:2.6.6.2.1 — Ámbito de Aplicación
 
 Las disposiciones contenidas en el presente Capítulo, son aplicables a todos los Distritos Especiales creados y que se creen, a excepción del Distrito Capital de Bogotá
-
-ARTÍCULO
 
 ## art:2.6.6.2.2 — Régimen presupuestal de los Fondos de Desarrollo Local
 
 A los Fondos de Desarrollo Local les serán aplicables las reglas del Sistema Presupuestal de la Ley 1617 de 2013, las contenidas en el presente capítulo y en lo no regulado en éste, les serán aplicadas las reglas dispuestas en el Decreto 115 de 1996 o las normas que lo modifiquen o deroguen, en lo que resulten pertinentes.
 
-ARTÍCULO
-
 ## art:2.6.6.2.3 — Exclusión del presupuesto distrital
 
 Dentro de los presupuestos distritales no están comprendidos los presupuestos de los Fondos de Desarrollo Local.
-
-ARTÍCULO
 
 ## art:2.6.6.2.4 — Ingresos corrientes para asignación de recursos a las localidades
 
@@ -9436,8 +9024,6 @@ En el concepto de rentas específicas al que hace referencia este artículo se i
 
 PARÁGRAFO . Para dar cumplimiento al porcentaje de asignación de gasto dispuesto en el artículo 64 de la Ley 1617 de 2013, los Distritos Especiales podrán, dentro de tal porcentaje, computar las inversiones físicas que con recursos corrientes de libre destinación realicen en las localidades, siempre y cuando con ello no se afecte el funcionamiento de éstas.
 
-ARTÍCULO
-
 ## art:2.6.6.2.5 — Asignación de recursos a las localidades
 
 En el presupuesto de gastos del Distrito Especial se incorporará la transferencia para las localidades de manera agregada, y una vez ésta sea aprobada por el Concejo Distrital en el acuerdo de presupuesto, el Secretario Distrital, o quien haga sus veces, distribuirá y comunicará la transferencia correspondiente a cada uno de los Fondos de Desarrollo Local, con base en los índices de distribución que anualmente se establezcan.
@@ -9450,13 +9036,9 @@ PARÁGRAFO 2. Atendiendo los criterios establecidos en el inciso 1 del artículo
 
 PARÁGRAFO 3. La falta de asignación a las localidades de la totalidad de los ingresos correspondientes al porcentaje mínimo o al mayor porcentaje establecido por el Distrito Especial para dicha vigencia de conformidad con el artículo 64 de la Ley 1617 de 2013, no significa la desaparición de la obligación de transferir dichas sumas a cargo del correspondiente Distrito Especial y por tal motivo, el saldo se deberá asignar en la siguiente vigencia fiscal.
 
-ARTÍCULO
-
 ## art:2.6.6.2.6 — Principios presupuesta/es de los fondos de desarrollo local
 
 El sistema presupuestal de los Fondos de Desarrollo Local se fundará en los principios de transparencia, legalidad y planificación y, los demás que, contenidos en el Estatuto Orgánico de Presupuesto, rigen el sistema presupuestal.
-
-ARTÍCULO
 
 ## art:2.6.6.2.7 — Presupuesto de los fondos de desarrollo local
 
@@ -9470,21 +9052,15 @@ De acuerdo con el artículo 71 de la Ley 1617 de 2013, el presupuesto anual de l
 
 PARÁGRAFO . Los Fondos de Desarrollo Local no podrán realizar operaciones de crédito público y, por lo tanto, dentro de su presupuesto de rentas e ingresos, no podrán incorporar recursos del crédito y, dentro de su presupuesto gastos, no podrán incorporar servicio la deuda.
 
-ARTÍCULO
-
 ## art:2.6.6.2.8 — Clasificación del presupuesto gastos de inversión
 
 Proyecto de presupuesto de Gastos de Inversión se presentará a la Junta Administradora Local clasificado en programas y subprogramas.
-
-ARTÍCULO
 
 ## art:2.6.6.2.9 — Aprobación del presupuesto ingresos y gastos de los Fondos de Desarrollo Local
 
 De conformidad con lo establecido en el artículo 74 de la Ley 1617 2013, el Alcalde Local presentará el presupuesto de ingresos y gastos de la localidad para aprobación de la Junta Administradora Local dentro (3) del inicio del período de sesiones ordinarias de enero de cada vigencia.
 
 La Junta Administradora Local deberá darle trámite, y aprobación a más tardar el último de sesiones de período. En caso de tener observaciones al proyecto, formulará al respectivo Alcalde Local, quien deberá en un término no superior a tres (3) días hábiles. De no haber aprobación del presupuesto por parte de la Junta Administradora Local dentro de este periodo de sesiones, el Alcalde lo expedirá mediante
-
-ARTÍCULO
 
 ## art:2.6.6.2.10 — Ejecución presupuesto los Fondos de Desarrollo Local
 
@@ -9498,8 +9074,6 @@ Igualmente, estos compromisos deberán contar con registro presupuestal para que
 
 No se podrán tramitar o legalizar actos administrativos u obligaciones que afecten el presupuesto de gastos cuando no reúnan los requisitos legales o se configuren como hechos cumplidos.
 
-ARTÍCULO
-
 ## art:2.6.6.2.11 — Reducción del presupuesto de las localidades
 
 En cualquier mes del año fiscal, el Alcalde Distrital, previo concepto Consejo Gobierno, podrá, mediante decreto, reducir o aplazar total o parcialmente las apropiaciones presupuesta les inicialmente aprobadas para cubrir las asignaciones con destino a las localidades con cargo a los ingresos corrientes de que trata el artículo 2.6.6.2.4 del presente capítulo, en caso de ocurrir uno de los siguientes eventos:
@@ -9511,8 +9085,6 @@ En cualquier mes del año fiscal, el Alcalde Distrital, previo concepto Consejo 
 En uno y otro caso, de los ingresos corrientes ajustados deberán realizarse las asignaciones con destino a las localidades con base en el diez por ciento (10%) mínimo o en el mayor porcentaje establecido por el respectivo Distrito Especial, de conformidad con el artículo 64 de la Ley 1617 de 2013.
 
 Una vez efectuada la reducción de las apropiaciones con destino a las localidades, el Secretario de Hacienda informará de tal situación a los Alcaldes Locales, quienes procederán a afectar, inmediatamente y a través de aplazamiento, el presupuesto del Fondo de Desarrollo Local. Lo anterior, sin perjuicio de que los Alcaldes Locales convoquen inmediatamente a la Junta Administradora Local para la presentación del proyecto de acuerdo de reducción del presupuesto.
-
-ARTÍCULO
 
 ## art:2.6.6.2.12 — Vigencias futuras ordinarias para localidades
 
@@ -9526,19 +9098,13 @@ En las localidades, las Juntas Administradoras Locales, a iniciativa del Alcalde
 
 La autorización impartida por las Juntas Administradoras Locales para comprometer presupuesto con cargo a vigencias futuras en ningún caso podrá superar el respectivo período de gobierno.
 
-ARTÍCULO
-
 ## art:2.6.6.2.13 — Distribución de ingresos corrientes entre localidades
 
 Dentro de los índices que las entidades distritales deben construir para efectos de la asignación de recursos entre las localidades, se podrá tener en consideración aquel referido a la participación porcentual de la población de cada una de ellas dentro del total de la población del correspondiente Distrito Especial.
 
-ARTÍCULO
-
 ## art:2.6.6.2.14 — Cálculo de ingresos corrientes de libre destinación para efectos de la Ley 617 de 2000
 
 Para efectos del cálculo de los ingresos corrientes de libre destinación de los Distritos Especiales no se deberá descontar el diez por ciento (10%) de los ingresos corrientes que en virtud de la Ley 1617 de 2013 y del presente capítulo se dispongan como asignaciones a las localidades.
-
-ARTÍCULO
 
 ## art:2.6.6.2.15 — Aplicación de las disposiciones financieras de los Fondos de Desarrollo Local para los Distritos Especiales que se creen
 
@@ -9548,15 +9114,11 @@ CAPÍTULO 2
 
 MANEJO PRESUPUESTAL DE LOS FONDOS DE DESARROLLO LOCAL DE LOS DISTRITOS ESPECIALES
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.1 — Ámbito de Aplicación
 
 Las disposiciones contenidas en el presente Capítulo, son aplicables a todos los Distritos Especiales creados y que se creen, a excepción del Distrito Capital de Bogotá.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.2 — Régimen presupuestal de los Fondos de Desarrollo Local
 
@@ -9564,15 +9126,11 @@ A los Fondos de Desarrollo Local les serán aplicables las reglas del Sistema Pr
 
 (Art. 1. Decreto 2388 de 2015)
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.3 — Exclusión del presupuesto distrital
 
 Dentro de los presupuestos distritales no están comprendidos los presupuestos de los Fondos de Desarrollo Local.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.4 — Ingresos corrientes para asignación de recursos a las localidades
 
@@ -9592,8 +9150,6 @@ PARÁGRAFO . Para dar cumplimiento al porcentaje de asignación de gasto dispues
 
 (Art. 1. Decreto 2388 de 2015)
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.5 — Asignación de recursos a las localidades
 
 En el presupuesto de gastos del Distrito Especial se incorporará la transferencia para las localidades de manera agregada, y una vez ésta sea aprobada por el Concejo Distrital en el acuerdo de presupuesto, el Secretario Distrital, o quien haga sus veces, distribuirá y comunicará la transferencia correspondiente a cada uno de los Fondos de Desarrollo Local, con base en los índices de distribución que anualmente se establezcan.
@@ -9608,15 +9164,11 @@ PARÁGRAFO 3. La falta de asignación a las localidades de la totalidad de los i
 
 (Art. 1. Decreto 2388 de 2015)
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.6 — Principios presupuestales de los fondos de desarrollo local
 
 El sistema presupuestal de los Fondos de Desarrollo Local se fundará en los principios de transparencia, legalidad y planificación y, los demás que, contenidos en el Estatuto Orgánico de Presupuesto, rigen el sistema presupuestal.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.7 — Presupuesto de los fondos de desarrollo local
 
@@ -9632,15 +9184,11 @@ PARÁGRAFO . Los Fondos de Desarrollo Local no podrán realizar operaciones de c
 
 (Art. 1. Decreto 2388 de 2015)
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.8 — Clasificación del presupuesto de gastos de inversión
 
 El proyecto de presupuesto de Gastos de Inversión se presentará a la Junta Administradora Local clasificado en programas y subprogramas.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.9 — Aprobación del presupuesto ingresos y gastos de los Fondos de Desarrollo Local
 
@@ -9649,8 +9197,6 @@ De conformidad con lo establecido en el artículo 74 de la Ley 1617 de 2013, el 
 La Junta Administradora Local deberá darle trámite, y aprobación a más tardar el último día de sesiones de este período. En caso de tener observaciones al proyecto, las formulará al respectivo Alcalde Local, quien deberá atenderlas en un término no superior a tres (3) días hábiles. De no haber aprobación del presupuesto por parte de la Junta Administradora Local dentro de este periodo de sesiones, el Alcalde Local lo expedirá mediante decreto.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.10 — Ejecución del presupuesto de los Fondos de Desarrollo Local
 
@@ -9661,8 +9207,6 @@ Todos los actos administrativos y contratos que afecten las apropiaciones presup
 Esta operación es un requisito de existencia y perfeccionamiento de tales actos administrativos. No se podrán tramitar o legalizar actos administrativos u obligaciones que afecten el presupuesto de gastos cuando no reúnan los requisitos legales o se configuren como hechos cumplidos.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.11 — Reducción del presupuesto de las localidades
 
@@ -9675,8 +9219,6 @@ En cualquier mes del año fiscal, el Alcalde Distrital, previo concepto del Cons
 Una vez efectuada la reducción de las apropiaciones con destino a las localidades, el Secretario de Hacienda informará de tal situación a los Alcaldes Locales, quienes procederán a afectar, inmediatamente y a través de aplazamiento, el presupuesto del Fondo de Desarrollo Local. Lo anterior, sin perjuicio de que los Alcaldes Locales convoquen inmediatamente a la Junta Administradora Local para la presentación del proyecto de acuerdo de reducción del presupuesto.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.12 — Vigencias futuras ordinarias para localidades
 
@@ -9692,23 +9234,17 @@ La autorización impartida por las Juntas Administradoras Locales para compromet
 
 (Art. 1. Decreto 2388 de 2015)
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.13 — Distribución de ingresos corrientes entre localidades
 
 Dentro de los índices que las entidades distritales deben construir para efectos de la asignación de recursos entre las localidades, se podrá tener en consideración aquel referido a la participación porcentual de la población de cada una de ellas dentro del total de la población del correspondiente Distrito Especial.
 
 (Art. 1. Decreto 2388 de 2015)
 
-ARTÍCULO
-
 ## art:2.10.1.5.3.14 — Cálculo de ingresos corrientes de libre destinación para efectos de la Ley 617 de 2000
 
 Para efectos del cálculo de los ingresos corrientes de libre destinación de los Distritos Especiales no se deberá descontar el diez por ciento (10%) de los ingresos corrientes que en virtud de la Ley 1617 de 2013 y del presente capítulo se dispongan como asignaciones a las localidades.
 
 (Art. 1. Decreto 2388 de 2015)
-
-ARTÍCULO
 
 ## art:2.10.1.5.3.15 — Aplicación de las disposiciones financieras de los Fondos de Desarrollo Local para los Distritos Especiales que se creen
 
@@ -9724,15 +9260,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES APLICABLES A LAS OPERACIONES DE REDESCUENTO
 
-ARTÍCULO
-
 ## art:2.6.7.1.1 — Financiación y Asesoría
 
 La financiación y la asesoría en lo referente a diseño, ejecución y administración de proyectos o programas de inversión contenidos en el artículo 1 de la Ley 57 de 1989 y el artículo 268 del Estatuto Orgánico del Sistema Financiero que tiene como función a su cargo FINDETER, se enmarcan estrictamente en la estructuración financiera del crédito, acorde con su objeto social.
 
 (Art. 1 Decreto 3411 de 2009)
-
-ARTÍCULO
 
 ## art:2.6.7.1.2 — Función Técnica de asesoría, apoyo y supervisión
 
@@ -9744,23 +9276,17 @@ PARÁGRAFO . Dada su naturaleza financiera, no corresponde a los Intermediarios 
 
 (Art. 2 Decreto 3411 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.7.1.3 — Responsabilidad de Supervisión
 
 La Entidad que viabilice los proyectos de financiación con tasa compensada de FINDETER, será la responsable de la supervisión de los mismos.
 
 (Art. 3 Decreto 3411 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.7.1.4 — Autorización a la Junta Directiva de la Financiera de Desarrollo Territorial S.A
 
 FINDETER. La Junta Directiva de la Financiera de Desarrollo Territorial SA FINDETER, señalará la tasa de redescuento mínima en las líneas de redescuento con tasa compensada en los casos que esta adquiera un valor negativo.
 
 (Art. 1 Decreto 3595 de 2010)
-
-ARTÍCULO
 
 ## art:2.6.7.1.5 — Aclaración respecto de las operaciones de redes cuento consolidadas durante la vigencia de decretos no compilados
 
@@ -9774,15 +9300,11 @@ CAPÍTULO 2
 
 LÍNEA DE REDESCUENTO CON TASA COMPENSADA DEL SECTOR INFRAESTRUCTURA EN GENERAL
 
-ARTÍCULO
-
 ## art:2.6.7.2.1 — Objeto
 
 La Financiera de Desarrollo Territorial S.A. - FINDETER, de conformidad con lo establecido en el parágrafo del literal b) del numeral 3 del artículo 270 del Estatuto Orgánico del Sistema Financiero y en relación con las actividades de que tratan los literales a) y I) del numeral 2 del artículo 268 del mencionado Estatuto, podrá ofrecer una línea de redescuento con tasa compensada destinada al Financiamiento de todas las inversiones relacionadas con la infraestructura para el desarrollo sostenible de las Regiones, en los sectores energético, transporte, desarrollo urbano, construcción y vivienda, salud, educación, medio ambiente y desarrollo sostenible, tecnologías de la información y la comunicación -TIC, y deporte, recreación y cultura.
 
 (Art. 1 Decreto 2048 de 2014)
-
-ARTÍCULO
 
 ## art:2.6.7.2.2 — Beneficiarios
 
@@ -9796,8 +9318,6 @@ Los recursos de esta línea se destinarán a financiar todas las inversiones rel
 
 (Modificado por el Art. 1 del Decreto 2622 de 2022)
 
-ARTÍCULO
-
 ## art:2.6.7.2.4 — Tasa de redescuento
 
 La Financiera de Desarrollo Territorial S.A. -FINDETER ofrecerá a los intermediarios financieros, una tasa de redescuento del DTF menos tres puntos por ciento, trimestre anticipado (DTF - 3.0% T.A.) o IPC menos uno por ciento, efectivo anual (IPC - 1.0% E.A.) o IBR menos dos punto ochenta por ciento, mes vencido (IBR -2.80% M.V.), o IBR menos dos punto ochenta por ciento, trimestre vencido (IBR -2.80% T.V.); con un plazo de amortización de hasta doce (12) años,*incluido hasta dos (2) años de gracia a capital.
@@ -9805,8 +9325,6 @@ La Financiera de Desarrollo Territorial S.A. -FINDETER ofrecerá a los intermedi
 La tasa de interés final será hasta del DTF más un punto por ciento trimestre anticipado (DTF+ 1.0% T.A.) con un plazo de amortización de hasta doce (12) años, y hasta dos (2) años de gracia a capital, o hasta el IPC más tres puntos por ciento efectivo anual, (IPC + 3.0% E.A.) con un plazo de amortización de hasta doce (12) años, y hasta dos (2) años de gracia a capital, o hasta IBR más uno punto dos por ciento, mes vendido, (IBR + 1.2% M.V) con un plazo de amortización de hasta doce (12) años, y hasta dos (2) años de gracia a capital”.
 
 (Modificado por el Art. 2 del Decreto 2622 de 2022)
-
-ARTÍCULO
 
 ## art:2.6.7.2.5 — Recursos de redescuento
 
@@ -9817,8 +9335,6 @@ PARÁGRAFO 1. La metodología para determinar la tasa de captación promedio de 
 PARÁGRAFO 2. Para efecto de lo establecido en el presente artículo, la Financiera de Desarrollo Territorial S.A. FINDETER, presentará a la Dirección General de Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público, durante la programación y preparación del proyecto anual del Presupuesto General de la Nación, la información relacionada con el valor de la diferencia entre la tasa de captación promedio de la Financiera de Desarrollo Territorial S.A. FINDETER, más los costos en que ésta incurra durante la vigencia de los redescuentos otorgados, con el fin de incluir las partidas necesarias en el mencionado proyecto.
 
 (Art. 5 Decreto 2048 de 2014)
-
-ARTÍCULO
 
 ## art:2.6.7.2.6 — Viabilidad y seguimiento
 
@@ -9832,8 +9348,6 @@ PARÁGRAFO 2. Los Órganos Colegiados de Administración y Decisión OCAD serán
 
 (Decreto 1460 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.6.7.2.7 — 2.7
 
 Transitorio para solicitudes tramitadas conforme con los Decretos 4808 del 2010, 2762 del 2012, 2048 del 2014, 1460 del 2017, 1020 del 2018, 1980 del 2018, 755 del 2019 y 766 del 2022, compilados en el Decreto 1068 de 2015 Único Reglamentario del Sector Hacienda y Crédito Público en el Capítulo 2, Título 7, Parte 6, Libro 2. Las viabilidades que hayan sido otorgadas por los Ministerios, así como los saldos pendientes por desembolsar de las operaciones de crédito aprobadas desde el primero (1) de mayo de 2015 y hasta el treinta y uno (31)'de diciembre de'2026) se financiarán con cargo a esta línea.
@@ -9845,8 +9359,6 @@ Las solicitudes para acceder a la línea de redescuento establecida en los Decre
 CAPÍTULO 3
 
 LÍNEA DE REDESCUENTO CON TASA COMPENSADA PARA REDES PÚBLICAS E INFRAESTRUCTURA PARA LA PRESTACIÓN DEL SERVICIO DE SALUD
-
-ARTÍCULO
 
 ## art:2.6.7.3.1 — Línea de redescuento con tasa compensada
 
@@ -9862,15 +9374,11 @@ PARÁGRAFO . Las entidades antes referidas que accedan a estos créditos, deber�
 
 (Art. 1 Decreto 2551 de 2012)
 
-ARTÍCULO
-
 ## art:2.6.7.3.2 — Vigencia y monto de las operaciones de redescuento
 
 Las operaciones de redescuento enunciadas en el presente capítulo, se podrán otorgar únicamente hasta el 31 de diciembre de 2018, hasta por un monto total de DOSCIENTOS MIL MILLONES DE PESOS MONEDA CORRIENTE ($ 200.000.000.000).
 
 (Art. 2 Decreto 2551 de 2012, modificado por el Art.1 de Decreto 2460 de 2014)
-
-ARTÍCULO
 
 ## art:2.6.7.3.3 — Tasa de interés
 
@@ -9878,15 +9386,11 @@ La tasa de interés final de la línea de redescuento con tasa compensada de que
 
 (Art. 3 Decreto 2551 de 2012)
 
-ARTÍCULO
-
 ## art:2.6.7.3.4 — Tasa de redescuento
 
 La Financiera de Desarrollo Territorial S.A. FINDETER, ofrecerá a los intermediarios financieros una tasa de redescuento del DTF menos dos puntos por ciento trimestre anticipado (DTF -2.0% T.A.) para todos los plazos.
 
 (Art. 4 Decreto 2551 de 2012)
-
-ARTÍCULO
 
 ## art:2.6.7.3.5 — Recursos para el redescuento
 
@@ -9898,23 +9402,17 @@ PARÁGRAFO 2. Para efecto de lo establecido en el presente artículo, la Financi
 
 (Art. 5 Decreto 2551 de 2012)
 
-ARTÍCULO
-
 ## art:2.6.7.3.6 — Transferencia de recursos
 
 Durante el mes de enero de cada año y a lo largo de la vigencia de las operaciones de redescuento, el Ministerio de Hacienda y Crédito Público, cuando sea necesario, transferirá a la Financiera de Desarrollo Territorial SA FINDETER, el valor requerido para compensar la tasa, sin superar el valor apropiado en el presupuesto para la respectiva vigencia fiscal, a fin de dar cumplimiento a lo establecido en el artículo 2.6.7.3.5 del presente capítulo, sujeto al Programa Anualizado de Caja.
 
 (Art. 6 Decreto 2551 de 2012)
 
-ARTÍCULO
-
 ## art:2.6.7.3.7 — Respaldo de las Entidades Territoriales
 
 Las Entidades Territoriales con sujeción a las normas presupuestales, podrán respaldar las deudas correspondientes a las operaciones de redescuento, suscritas por las Instituciones Prestadoras de Servicios de Salud Públicas, adscritas a la correspondiente entidad.
 
 (Art. 7 Decreto 2551 de 2012)
-
-ARTÍCULO
 
 ## art:2.6.7.3.8 — Beneficiarias de la línea de redescuento con tasa compensada
 
@@ -9944,8 +9442,6 @@ En todo caso, los proyectos sujetos de financiación definidos en los ítems 1 y
 
 (Art. 8 Decreto 2551 de 2012)
 
-ARTÍCULO
-
 ## art:2.6.7.3.9 — Seguimiento al cumplimiento de condiciones
 
 El Ministerio de Salud y Protección Social, realizará el seguimiento al cumplimiento de las condiciones establecidas en el presente capítulo.
@@ -9956,8 +9452,6 @@ CAPÍTULO 4
 
 LÍNEAS DE REDESCUENTO CON TASA COMPENSADA PARA PROGRAMAS Y PROYECTOS EN EL SECTOR DE AGUA Y SANEAMIENTO BÁSICO.
 
-ARTÍCULO
-
 ## art:2.6.7.4.1 — Objeto
 
 La Financiera de Desarrollo Territorial S.A. -
@@ -9966,23 +9460,17 @@ FINDETER, de conformidad con lo establecido en el parágrafo del literal b) del 
 
 (Art. 1 Decreto 1300 de 2014)
 
-ARTÍCULO
-
 ## art:2.6.7.4.2 — Beneficiarios
 
 Serán beneficiarios de la línea de redescuento con tasa compensada los Departamentos, Distritos, Municipios, Entidades Descentralizadas del Orden Territorial, Corporaciones Autónomas Regionales, o el fideicomiso que se constituya para sustituir la deuda contraída por los Municipios, y los demás aportantes que destinen recursos para el desarrollo y ejecución de la preinversión y/o inversión requerida por dichos planes, así como las Empresas prestadoras de los servicios de Acueducto, Alcantarillado y Aseo.
 
 (Art. 2 Decreto 1300 de 2014)
 
-ARTÍCULO
-
 ## art:2.6.7.4.3 — Destinación de recursos
 
 Los recursos de esta línea se destinarán a financiar todas las inversiones relacionadas con estudios y diseños, construcción, reconstrucción, reparación, interventoría, mejoramiento, ampliación y equipamiento en el sector de Agua y Saneamiento Básico, así como aquellos nuevos planes, programas o políticas que se implementen por el Gobierno Nacional en el Sector de Agua y Saneamiento Básico.
 
 (Art. 3 Decreto 1300 de 2014)
-
-ARTÍCULO
 
 ## art:2.6.7.4.4 — Plazo y monto
 
@@ -9998,8 +9486,6 @@ La Financiera de Desarrollo Territorial S.A. - FINDETER ofrecerá a los intermed
 
 (Modificado por el Decreto 1532 de 2022)
 
-ARTÍCULO
-
 ## art:2.6.7.4.6 — Recursos de redescuento
 
 Con fundamento en lo establecido en el parágrafo del literal b) del numeral 3 del artículo 270 del Estatuto Orgánico del Sistema Financiero, el Gobierno Nacional a través del Ministerio de Hacienda y Crédito Público, destinará anualmente en el Presupuesto General de la Nación, los recursos necesarios para subsidiar a la Financiera de Desarrollo Territorial S.A. - FINDETER, la diferencia entre la tasa de captación promedio de FINDETER más los costos en que ésta incurra durante la vigencia de los redescuentos otorgados, en desarrollo de lo previsto en el artículo 2.6.7.4.1 del presente capítulo y la tasa de redescuento mencionada en el artículo 2.6.7.4.5 del presente capítulo.
@@ -10010,15 +9496,11 @@ PARÁGRAFO Segundo. Para efecto de lo establecido en el presente artículo, la F
 
 (Art. 6 Decreto 1300 de 2014)
 
-ARTÍCULO
-
 ## art:2.6.7.4.7 — Transferencia de recursos
 
 Durante el mes de enero de cada año y a lo largo de la vigencia de las operaciones de redescuento, el Ministerio de Hacienda y Crédito Público, cuando sea necesario, transferirá a la Financiera de Desarrollo Territorial S.A. -FINDETER, el valor requerido para compensar la tasa sin superar el valor apropiado en el presupuesto para la respectiva vigencia fiscal, a fin de dar cumplimiento a lo establecido en el artículo 2.6.7.4.6. anterior, sujeto al Programa Anualizado de Caja.
 
 (Art. 7 Decreto 1300 de 2014)
-
-ARTÍCULO
 
 ## art:2.6.7.4.8 — Viabilidad y seguimiento
 
@@ -10032,15 +9514,11 @@ CAPÍTULO 5
 
 LÍNEAS DE REDESCUENTO CON TASA COMPENSADA PARA PROYECTOS DE VIP Y VIS
 
-ARTÍCULO
-
 ## art:2.6.7.5.1 — Objeto
 
 De conformidad con lo establecido en el parágrafo del literal b) del numeral 3 del artículo 270 del Estatuto Orgánico del Sistema Financiero, la Financiera de Desarrollo Territorial S.A. FINDETER, implementará líneas de redescuento en pesos con tasa compensada destinadas a la financiación de proyectos de Vivienda de Interés Prioritario -VIP- y Viviendas de Interés Social -VIS-, previa reglamentación por parte de su Junta Directiva.
 
 (Art. 1 Decreto 254 de 2013)
-
-ARTÍCULO
 
 ## art:2.6.7.5.2 — Disponibilidad de recursos
 
@@ -10051,8 +9529,6 @@ PARÁGRAFO 1. De acuerdo con su naturaleza jurídica, las entidades señaladas e
 PARÁGRAFO 2. Estos recursos serán destinados a cubrir la diferencia entre la tasa de redescuento compensada que se defina y la tasa de redescuento sin subsidio, vigente a la fecha de desembolso de cada uno de los créditos, aplicada al sector de vivienda para el mismo plazo de amortización y gracia.
 
 (Art. 2 Decreto 254 de 2013)
-
-ARTÍCULO
 
 ## art:2.6.7.5.3 — Condiciones Financieras
 
@@ -10067,8 +9543,6 @@ IPC o IBR; el plazo podrá ser hasta de quince (15) años, incluidos hasta tres 
 CAPÍTULO 6
 
 OPERACIONES DE REDESCUENTO PARA OPERADORES DE VEHÍCULOS DE TRANSPORTE
-
-ARTÍCULO
 
 ## art:2.6.7.6.1 — Operaciones de redescuento para operadores de vehículos de transporte
 
@@ -10088,25 +9562,17 @@ CAPÍTULO 7
 
 LÍNEA DE REDESCUENTO CON TASA COMPENSADA PARA LA FINANCIACIÓN DE INSTITUCIONES DE EDUCACIÓN SUPERIOR
 
-ARTÍCULO
-
 ## art:2.6.7.7.1 — Objeto
 
 De conformidad con lo establecido en el parágrafo del literal b) del numeral 3 del artículo 270 del Estatuto Orgánico del Sistema Financiero, autorícese a la Financiera de Desarrollo Territorial S.A., -Findeter, a crear una línea de redescuento en pesos con tasa compensada destinada a financiar total o parcialmente los rubros más representativos de la operación de las instituciones de educación superior públicas o privadas, que ofrezcan planes de incentivos, becas o descuentos a las matrículas para la permanencia estudiantil, con el fin de prevenir la deserción de estudiantes que pueda generarse como consecuencia de la crisis económica generada por el COVID-19.
-
-ARTÍCULO
 
 ## art:2.6.7.7.2 — Vigencia y Monto de la línea
 
 La aprobación de las operaciones de redescuento realizadas bajo la línea de crédito de redescuento en pesos con tasa compensada de las que trata el presente capítulo se podrán otorgar hasta por un monto de DOSCIENTOS MIL MILLONES DE PESOS ($200.000.000.000) M/CTE. Teniendo en cuenta que la emergencia por COVID 19 afectará especialmente el segundo semestre académico de 2020 y el primero de 2021, para todos los efectos las operaciones de redescuento enunciadas en el presente capítulo, se podrán otorgar únicamente durante el período comprendido entre la entrada en vigencia del presente decreto y hasta 30 de junio de 2021.
 
-ARTÍCULO
-
 ## art:2.6.7.7.3 — Disponibilidad de recursos
 
 Para la creación de la línea de redescuento con tasa compensada que trata el artículo 2.6. 7.7.1 del presente capítulo, los recursos equivalentes al monto del subsidio requerido provendrán de las asignaciones que se hagan en el Presupuesto General de la Nación al Ministerio de Educación Nacional. Los recursos que no sean colocados al 30 de junio de 2021, serán reintegrados a la Dirección General de Crédito Público y Tesoro Nacional dentro de los tres (3) meses siguientes.
-
-ARTÍCULO
 
 ## art:2.6.7.7.4 — Condiciones financieras
 
@@ -10136,8 +9602,6 @@ Admisibles e Idóneas en el evento en que se solicite su constitución
 
 PARÁGRAFO : La Financiera de Desarrollo Territorial, S.A. Findeter acordará con el Ministerio de Educación, mediante la suscripción de un convenio interadministrativo, las condiciones específicas de la respectiva línea de redescuento con tasa compensada, así como las demás condiciones de la operación y requisitos necesarios para su implementación; el convenio deberá ser suscrito dentro del mes siguiente a la expedición del presente decreto.
 
-ARTÍCULO
-
 ## art:2.6.7.7.5 — Beneficiarios
 
 Podrán ser beneficiarios de la línea de redescuento con tasa compensada de que trata el presente capítulo, las instituciones de educación superior privadas o públicas de las que trata el artículo 16 de la Ley 30 de 1992, con excepción de aquellas con categoría especial de conformidad con los términos del artículo 137 de la Ley 30 de 1992, cuyo plan de incentivos, becas o descuentos a las matrículas para la permanencia estudiantil, haya sido aprobado por el Ministerio de Educación Nacional.
@@ -10145,8 +9609,6 @@ Podrán ser beneficiarios de la línea de redescuento con tasa compensada de que
 PARÁGRAFO PRIMERO: Los créditos y montos máximos se aprobarán a cada beneficiario de conformidad con los criterios y requisitos aprobados por la Junta Directiva de la Financiera de Desarrollo Territorial S.A., -Findeter, así como el Reglamento para Operaciones de Redescuento de FINDETER.
 
 PARÁGRAFO SEGUNDO. Conforme a lo previsto en el artículo 137 de la Ley 30 de 1992, pertenecen a una categoría especial las Instituciones de Educación Superior públicas que se encuentran presupuestalmente adscritas a sectores diferentes al de Educación y por lo tanto no reciben directamente recursos del Presupuesto General de la Nación.
-
-ARTÍCULO
 
 ## art:2.6.7.7.6 — Plan de Incentivos, becas o descuentos a las matrículas para la permanencia estudiantil
 
@@ -10174,13 +9636,9 @@ El plan deberá contener como mínimo la siguiente información:
 
 PARÁGRAFO : Si una institución de educación superior decide optar por solicitar recursos de crédito de la presente línea de redescuento de tasa compensada tanto para el segundo semestre de 2020, como para el primer semestre de 2021, deberá presentar planes de incentivos diferentes y ajustando la información a cada período.
 
-ARTÍCULO
-
 ## art:2.6.7.7.7 — Aprobación y seguimiento de los planes de incentivos, becas o descuentos a las matrículas y permanencia estudiantil
 
 El Ministerio de Educación Nacional aprobará, mediante acto administrativo el procedimiento a seguir para la aprobación y seguimiento a los planes de incentivos, becas o descuentos a las matrículas y permanencia estudiantil.
-
-ARTÍCULO
 
 ## art:2.6.7.7.8 — Intercambio de información en relación con las aprobaciones de planes y solicitudes de créditos
 
@@ -10274,8 +9732,6 @@ CAPÍTULO 9
 
 LÍNEA DE CRÉDITO DIRECTO CON TASA COMPENSADA PARA LA FINANCIACIÓN DE GASTOS Y/O PROYECTOS DE INVERSIÓN DESTINADOS A LAS ENTIDADES TERRITORIALES.
 
-ARTÍCULO
-
 ## art:2.6.7.9.1 — Objeto
 
 De conformidad con lo establecido en el parágrafo del literal b) del numeral 3 del artículo 270 del Estatuto Orgánico del Sistema Financiero y lo dispuesto en el artículo 33 de la Ley 2155 de 2021, autorícese a la Financiera de Desarrollo Territorial S.A., - Findeter, a crear una línea de crédito directo con tasa compensada, destinada a financiar proyectos y/o gastos de inversión de las entidades territoriales, a efectos de mitigar la crisis de la pandemia originada por el COVID-19.
@@ -10287,8 +9743,6 @@ De conformidad con lo establecido en el parágrafo del literal b) del numeral 3 
 La aprobación de las operaciones, realizadas dentro de esta línea de crédito directo con tasa compensada establecida en el artículo 2.6.7.9.1. del presente decreto, se podrán otorgar hasta por un monto de cuatro billones cincuenta mil millones de pesos moneda corriente ($4.050.000.000.000). Para todos los efectos, las operaciones de crédito directo enunciadas se podrán otorgar hasta el agotamiento de los recursos destinados a la línea"
 
 (Modificado por el Art. 1 el Decreto 1495 de 2024)
-
-ARTÍCULO
 
 ## art:2.6.7.9.3 — Disponibilidad de recursos
 
@@ -10329,8 +9783,6 @@ Vigencia
 Hasta agotar recursos
 
 (Modificado por el Art. 2 el Decreto 1495 de 2024)
-
-ARTÍCULO
 
 ## art:2.6.7.9.5 — Beneficiarios
 
@@ -10881,15 +10333,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.7.1.1.1 — Objeto
 
 El presente título tiene por objeto reglamentar la explotación, organización, administración, operación, control y fiscalización del juego de lotería tradicional de billetes de que trata el Capítulo III de la Ley 643 de 2001, modificada por la Ley 1393 de 2010.
 
 (Art. 1 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.1.2 — Ámbito de aplicación
 
@@ -10898,8 +10346,6 @@ Las disposiciones contenidas en el presente título se aplican a todas las Entid
 La totalidad de las rentas y recursos obtenidos por la Lotería de la Cruz Roja Colombiana, en la explotación del juego de lotería estarán destinadas exclusivamente a los servicios de salud que se atiendan por esa entidad.
 
 (Art. 2 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.1.3 — Definiciones
 
@@ -10933,8 +10379,6 @@ Se calculan multiplicando la cantidad de billetes o fracciones vendidos por el p
 
 (Art. 3 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.1.4 — Sorteos promocionales
 
 Las empresas operadoras del juego de lotería tradicional que pretendan realizar juegos de suerte y azar promocionales se consideran dentro de las excepciones previstas en el inciso tercero del artículo 5 de la Ley 643 de 2001, y en tal calidad deberán solicitar y obtener de la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar (Coljuegos) o de la respectiva Sociedad de Capital Público Departamental (SCPD), según el ámbito de operación de que se trate, concepto mediante el cual se establezca dicha circunstancia, para lo cual deberá acreditar los requisitos establecidos para el efecto.
@@ -10946,8 +10390,6 @@ PARÁGRAFO . El valor de los premios pagados en los sorteos promocionales de las
 CAPÍTULO 2
 
 CONDICIONES QUE DEBEN CUMPLIR LOS OPERADORES Y PLAN DE PREMIOS
-
-ARTÍCULO
 
 ## art:2.7.1.2.1 — Costos y gastos de administración y operación
 
@@ -10968,8 +10410,6 @@ PARÁGRAFO 1. En la determinación de los gastos máximos de administración y o
 PARÁGRAFO 2. En todo caso la reducción de los costos y gastos de administración y operación de qué trata el presente artículo, deberá reflejarse integralmente en los excedentes de las empresas.
 
 (Art. 4 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.2 — Excedentes mínimos de las empresas operadoras de loterías, en la operación directa del juego
 
@@ -10997,8 +10437,6 @@ PARÁGRAFO 2. Los ingresos, costos y gastos que se generen por la operación de 
 
 (Art. 5 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.2.3 — Contabilidad de otros juegos o negocios
 
 Las empresas del juego de lotería tradicional o de billetes que administren u operen otros juegos, o que obtengan ingresos en negocios distintos a la operación del juego de lotería tradicional o de billetes, deberán preparar un estado de resultados para cada negocio, Para el efecto, en el estado de resultados se reconocerán por separado los ingresos, gastos y costos propios de cada negocio y se asignarán Los gastos generales de administración y operación, entre tos negocios, de acuerdo con los diferentes métodos de costeo, técnicamente reconocidos y debidamente soportados.
@@ -11006,8 +10444,6 @@ Las empresas del juego de lotería tradicional o de billetes que administren u o
 PARÁGRAFO . Los gastos generales de operación y administración de la empresa operadora se deberán asignar a cada negocio proporcionalmente a sus ingresos, hasta por el valor de su utilidad operativa, y únicamente cuando esta se haya producido.
 
 (Art. 6 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.4 — Relación entre emisión y ventas de billetería
 
@@ -11027,8 +10463,6 @@ PARÁGRAFO . Cuándo la relación ventas emisión de una entidad operadora del j
 
 (Art. 7 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.2.5 — Reservas técnicas para pago de premios
 
 Las empresas operadoras del juego de lotería tradicional observarán el régimen de reservas técnicas para garantizar el pago de premios que determine Consejo Nacional de Juegos de Suerte y Azar. Estas reservas s e crearán cargo a la diferencia entre el de ventas brutas Y el valor de los premios en poder del público de cada sorteo.
@@ -11042,8 +10476,6 @@ PARÁGRAFO 1. El incumplimiento del régimen de liquidación, causación y depó
 PARÁGRAFO 2. Las empresas operadoras del juego de lotería tradicional o de billetes que pretendan cambiar su plan de premios deberán acreditar ante el Consejo Nacional de Juegos de Suerte y Azar, que desde la adopción del plan de premios que tienen en ejecución, han constituido, causado y depositado las reservas técnicas de conformidad con las normas establecidas por el mismo Consejo. Cualquier manejo de las reservas técnicas por fuera de las normas del régimen propio dará lugar a remitir el asunto a las autoridades correspondientes para que procedan a determinar la responsabilidad administrativa, fiscal, disciplinaria y penal a que hubiere lugar.
 
 (Art. 8 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.6 — Formulación de los planes de premios
 
@@ -11071,8 +10503,6 @@ PARÁGRAFO TRANSITORIO. Durante la vigencia 2021, los operadores del juego de lo
 
 (Art. 9 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.2.7 — Estudio de mercado
 
 Las empresas operadoras del juego de lotería tradicional o de billetes definirán las características de sus planes de premios, por medio de un estudio de mercado.
@@ -11095,15 +10525,11 @@ PARÁGRAFO . El estudio de mercado podrá contratarse con una firma externa o po
 
 (Art. 10 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.2.8 — Estudio técnico de administración del riesgo
 
 Las empresas operadoras del juego de lotería tradicional o de billetes deberán establecer y cuantificar los riesgos de mercado, de entorno económico y de estructura probabilística del plan de premios, que pretendan ofrecer al público.
 
 (Art. 11 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.9 — Estudio financiero
 
@@ -11112,8 +10538,6 @@ Para consolidar la información financiera propia del estudio de mercado y del e
 La proyección de las ventas se presentará detallando, para cada sorteo efectuado en su horizonte, el valor del descuento en ventas, la renta o derechos de explotación, el impuesto a foráneas, los premios y reservas y los gastos de administración y operación.
 
 (Art. 12 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.10 — Elementos del plan de premios
 
@@ -11149,15 +10573,11 @@ PARÁGRAFO 3. De conformidad con las condiciones que establezca el Consejo Nacio
 
 (Art. 13 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.2.11 — Pago de premios
 
 Los operadores del juego de lotería tradicional o de billetes deberán pagar los premios obtenidos por los apostadores dentro de los treinta (30) días calendario siguientes a la presentación del documento de juego ganador, conforme lo señala el inciso 2 del artículo 12 de la Ley 1393 de 2010.
 
 (Art. 14 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.12 — Vigencia de los planes de premios de los sorteos ordinarios y extraordinarios
 
@@ -11166,8 +10586,6 @@ Los planes de premios de las empresas operadoras del juego de lotería tradicion
 (Modificado por el Art. 2 del Decreto 1494 de 2021)
 
 (Art. 15 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.2.13 — Información al ente de vigilancia
 
@@ -11178,8 +10596,6 @@ Dentro de los cinco (5) días posteriores a su aprobación, el plan de premios s
 SECCIÓN 1
 
 MECANISMO DE USO DE LA RESERVA TÉCNICA PARA EL PAGO DE PREMIOS E INCENTIVO EN EL JUEGO DE LOTERÍAS
-
-ARTÍCULO
 
 ## art:2.7.1.2.1.1 — Mecanismo de uso de la reserva técnica para el pago de premios
 
@@ -11195,8 +10611,6 @@ PARÁGRAFO 2. Los recursos que se obtengan producto de la apropiación para la r
 
 Si producto de una caída de et fondo de reserva para pago de premios cae por debajo del nivel óptimo que determinó el estudio, la entidad deberá dejar de apropiar los recursos para la reserva del premio acumulado y destinarlos al fondo de reservas para pago de premios, situación que deberá ser informada de forma inmediata y se verificará por el Consejo Nacional de Juegos de Suerte y Azar a través de su Secretaría Técnica,
 
-ARTÍCULO
-
 ## art:2.7.1.2.1.2 — 1.2
 
 Incentivos en el juego de loterías: Las entidades operadoras del juego de Lotería tradicional o de billetes podrán ofrecer al público incentivos en especie con cobro para impulsar las ventas del juego de lotería tradicional. El incentivo no puede ser comercializado como un producto independiente del juego de lotería tradicional o de billetes y solo puede ser obtenido por el público si se realiza la compra del billete o fracción del juego. Dei cobro de los incentivos se financiarán los gastos y costos de la operación del mismo y los respectivos premios
@@ -11211,8 +10625,6 @@ CAPÍTULO 3
 
 CRONOGRAMA DE SORTEOS
 
-ARTÍCULO
-
 ## art:2.7.1.3.1 — Periodicidad de los sorteos ordinarios
 
 Las empresas operadoras del juego de lotería tradicional o de billetes efectuarán sus sorteos ordinarios de conformidad con el cronograma que el Consejo Nacional de Juegos de Suerte y Azar expida anualmente y de acuerdo con las siguientes reglas:
@@ -11225,8 +10637,6 @@ Cuando el día del sorteo coincida con un festivo, la entidad operadora podrá o
 
 (Art. 17 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.3.2 — Reasignación de los días habituales de los sorteos ordinarios
 
 Sin perjuicio de los criterios señalados en el artículo anterior, las tres cuartas partes de los operadores del juego de lotería, podrán solicitar, mediante comunicación escrita dirigida a la Secretaría Técnica del Consejo Nacional de Juegos de Suerte y Azar, que se elabore el cronograma de sorteos ordinarios del juego de lotería aplicando el siguiente procedimiento:
@@ -11236,8 +10646,6 @@ a) El número de sorteos diarios será determinado por cociente con base en el t
 b) En caso de que el número de propuestas para realizar sorteos en un mismo día supere el determinado por el cociente al que se refiere el literal anterior, se preferirá, entre las entidades que posean idéntica pretensión, a la que haya registrado el mayor porcentaje de transferencias al sector salud con respecto a sus ventas, en la vigencia anual anterior.
 
 (Art. 18 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.3.3 — Programación de los sorteos extraordinarios
 
@@ -11250,8 +10658,6 @@ b) Si la operación del sorteo extraordinario se realiza a través de una asocia
 c) La asignación de fechas se sujetará a las propuestas formuladas por las empresas operadoras. En caso de que dos o más de estas coincidan respecto de la realización de un sorteo en una misma semana o día, se asignará la fecha sugerida a la entidad que en el último año registre un mayor porcentaje de transferencias al sector salud respecto de sus ventas, causadas y giradas en la misma vigencia. Tal decisión se comunicará por cualquier medio a los interesados cuya propuesta fue descartada, a fin de que estos, en el término de tres (3) días, indiquen la fecha en la que pretendan realizar el sorteo. Si no se obtuviere respuesta o si la misma no se ajusta a lo contemplado en el presente título, el Consejo Nacional de Juegos de Suerte y Azar fijará el día del sorteo con sujeción a las reglas aquí previstas.
 
 (Art. 19 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.3.4 — Criterios para la elaboración del cronograma de sorteos extraordinarios
 
@@ -11266,8 +10672,6 @@ c) No se podrá programar más de un sorteo durante una misma semana;
 d) Fijado el cronograma, la modificación posterior de días y fechas de los sorteos se regirá por lo dispuesto en el artículo siguiente.
 
 (Art. 20 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.3.5 — Elaboración del cronograma de los sorteos ordinarios
 
@@ -11289,15 +10693,11 @@ CAPÍTULO 4
 
 CONDICIONES MÍNIMAS PARA EFECTUAR LOS SORTEOS
 
-ARTÍCULO
-
 ## art:2.7.1.4.1 — Condiciones para efectuar los sorteos
 
 Las empresas operadoras del juego de lotería tradicional efectuarán sus sorteos con arreglo a los requisitos de seguridad calidad para las organizaciones que realizan actividades de presorteo y sorteo de juegos de suerte y azar, contenidos en la Norma Técnica Colombiana que para el efecto expida el Instituto Colombiano de Normas Técnicas y Certificación (Icontec), sin perjuicio de la aplicación de las medidas de seguridad y los procedimientos establecidos en el presente título, así como de las definiciones técnicas, de seguridad y de transparencia que expida el Consejo Nacional de Juegos de Suerte y Azar. Adicionalmente, se tendrán en cuenta los procedimientos de aseguramiento de calidad de cada entidad, garantizando que los sorteos se ajusten al principio de transparencia consagrado en el literal b) del artículo 3 de la Ley 643 de 2001 y en las normas que la modifiquen, sustituyan o adicionen. Estas condiciones rigen para los sorteos del juego de lotería tradicional o de billetes, para sus sorteos promocionales y para los sorteos de los juegos que se autoricen a los operadores del juego de apuestas permanentes.
 
 (Art. 23 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.4.2 — Autoridades que deben presenciar el sorteo
 
@@ -11327,8 +10727,6 @@ PARÁGRAFO TRANSITORIO: Hasta tanto no se flexibilicen las medidas en materia de
 
 (Art. 24 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.4.3 — Pruebas previas al sorteo
 
 Previamente y en presencia de las personas que deben asistir al sorteo, se realizará un número aleatorio de sorteos de prueba, no menor de 5 ni mayor de 10, el cual se calculará mediante alguna rutina de software, lo anterior para determinar que el sistema y los elementos de sorteo estén exentos de fraudes, vicios o intervenciones tendientes a alterar la probabilidad de acertar o de sustraerla del azar. Si se observa tendencia hacia un resultado determinado se realizarán los cambios requeridos.
@@ -11337,15 +10735,11 @@ Los resultados de estas pruebas serán registrados en el acta del sorteo.
 
 (Art. 25 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.4.4 — Seguridad del lugar y elementos del sorteo
 
 La empresa operadora deberá garantizar y mantener la seguridad en el lugar de permanencia y custodia de los elementos y sistemas utilizados para realizar el sorteo, los cuales permanecerán en un lugar cerrado con sellos de seguridad.
 
 (Art. 26 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.4.5 — Elementos y sistemas para realizar el sorteo
 
@@ -11363,15 +10757,11 @@ PARÁGRAFO . El Consejo Nacional de Juegos de Suerte y Azar podrá definir norma
 
 (Art. 27 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.4.6 — Transporte de los elementos y sistemas de sorteo
 
 En el evento que se requiera desplazamiento de los elementos del sorteo hasta el sitio de transmisión del sorteo por televisión, este movimiento requerirá de todas las garantías de seguridad y vigilancia en el transporte de las urnas selladas que los contengan.
 
 (Art. 28 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.4.7 — Acta del sorteo
 
@@ -11395,8 +10785,6 @@ Por cada sorteo de la lotería tradicional se deberá elaborar un acta que debe 
 
 (Art. 29 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.4.8 — Publicidad de los sorteos
 
 Los sorteos de loterías, por ser de interés público nacional, deberán transmitirse por un canal de televisión público nacional y/o regional en el día hora y lugar señalado en el cronograma de sorteos. La transmisión por televisión se hará en vivo y en directo, y no pueden hacerse en diferido.
@@ -11404,8 +10792,6 @@ Los sorteos de loterías, por ser de interés público nacional, deberán transm
 PARÁGRAFO . Las empresas operadoras registrarán en video en forma continua las pruebas previas y los sorteos respectivos. Esta grabación se deberá mantener a disposición de las diferentes autoridades.
 
 (Art. 30 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.4.9 — Seguridad de los billetes
 
@@ -11416,8 +10802,6 @@ Los billetes preimpresos deberán contar con un código de barras que valide que
 PARÁGRAFO . Las condiciones de seguridad descritas en el presente artículo deberán constar en el respectivo contrato de impresión y suministro de billetería. Los impresores o contratistas que suministren los billetes de lotería deberán acreditar certificación de calidad.
 
 (Art. 31 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.4.10 — Devolución de los billetes preimpresos no vendidos y reporte a los operadores
 
@@ -11437,8 +10821,6 @@ Para el ejercicio de vigilancia sobre los sorteos, fa empresa operadora del jueg
 
 (Art. 32 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.4.11 — Bloqueo de venta de billetes electrónicos y expedidos por máquinas o terminales electrónicas
 
 Previa la realización del sorteo los distribuidores y/o los operadores del juego de lotería tradicional, bloquearán la venta de billetes expedidos por máquinas o terminales electrónicas, o por cualquier otro medio autorizado, treinta (30) minutos antes de la realización del sorteo, a través de su sistema de gestión de juego.
@@ -11451,15 +10833,11 @@ CAPÍTULO 5
 
 DERECHOS DE EXPLOTACIÓN, IMPUESTOS Y GIRO DE RECURSOS POR LOS OPERADORES
 
-ARTÍCULO
-
 ## art:2.7.1.5.1 — Derechos de explotación
 
 En la operación por intermedio de terceros, los derechos de explotación serán, como mínimo, del diecisiete por ciento (17%) de los ingresos brutos del juego, con arreglo a lo dispuesto en los artículos 7, 8 y 49 de la Ley 643 de 2001.
 
 (Art. 34 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.5.2 — Declaración y pago de los derechos de explotación
 
@@ -11468,8 +10846,6 @@ En los casos en que el juego se opere por intermedio de terceros, dentro de los 
 La declaración se presentará en los formularios diseñados por la Secretaría Técnica del Consejo Nacional de Juego de Suerte y Azar, o por la entidad que haga sus veces, los cuales serán suministrados por la entidad concedente. El pago de los derechos de explotación se acreditará con copia de un comprobante válido expedido por el concedente.
 
 (Art. 35 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.5.3 — Anticipo
 
@@ -11485,23 +10861,17 @@ En el evento de que el valor total de los derechos de explotación del período 
 
 (Art. 36 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.5.4 — Impuesto a ganadores
 
 Las empresas operadoras del juego de lotería liquidarán, retendrán, declararán y girarán dentro de los diez (10) primeros días hábiles de cada mes, a sus titulares, el impuesto a ganadores de premios del juego de lotería tradicional o de billetes establecido en el artículo 48 de la Ley 643 de 2001. Este impuesto será retenido por las empresas operadoras al momento de pagar el premio.
 
 (Art. 37 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.5.5 — Impuesto de loterías foráneas
 
 Dentro de los primeros diez (10) días de cada mes, las empresas operadoras del juego de lotería liquidarán, declararán y pagarán a los departamentos y al Distrito Capital el impuesto de loterías foráneas establecido en el artículo 48 de la Ley 643 de 2001. Este impuesto se liquidará sobre el valor nominal de cada billete o fracción vendido y no se causará en la jurisdicción de la entidad territorial que explote la respectiva lotería ni en los departamentos o el Distrito Capital, según el caso, con los que aquella se encuentre asociada para administrar u operar el juego.
 
 (Art. 38 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.5.6 — 5.6
 
@@ -11510,8 +10880,6 @@ Formularios de declaración y liquidación de derechos de explotación, de impue
 (Modificado por el Art. 5 del Decreto 1494 de 2021)
 
 (Art. 39 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.5.7 — Transferencia de las rentas al sector salud
 
@@ -11527,8 +10895,6 @@ c) Valor de la renta generada y transferida por las ventas realizadas de acuerdo
 
 (Art. 40 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.5.8 — Interés de mora y sanciones
 
 El incumplimiento de los plazos previstos para el pago o giro de los recursos de que trata este título, causará intereses moratorios a favor de quien debió recibirlos, liquidados a la tasa de interés moratorio establecida para los tributos administrados por la Dirección de Impuestos y Aduanas Nacionales (DIAN); en lo que sea pertinente se aplicará lo dispuesto por el Decreto Ley 1281 de 2002 y las normas que lo modifiquen, adicionen o sustituyan y, en general, por aquellas que se expidan sobre el flujo de recursos del sector salud.
@@ -11539,8 +10905,6 @@ CAPÍTULO 6
 
 OPERACIÓN DEL JUEGO DE LOTERÍA TRADICIONAL O DE BILLETES
 
-ARTÍCULO
-
 ## art:2.7.1.6.1 — Modalidades de operación del juego de lotería tradicional o de billetes por parte de entidades territoriales
 
 En los términos de los artículos 7 y 16 de la Ley 643 de 2001, las entidades territoriales podrán operar el juego de lotería tradicional o de billetes directamente o mediante asociación o a través de terceros. Para la operación directa, las entidades territoriales lo harán a través de Empresas Industriales y Comerciales del Estado y para la operación asociada, mediante la constitución de Sociedades de Capital Público Departamental.
@@ -11550,8 +10914,6 @@ Para la operación por medio de terceros, las entidades territoriales podrán en
 En este último evento, en el convenio que se celebre se determinarán, entre otros, los criterios de distribución de los derechos de explotación que genere la operación del juego entre las entidades territoriales concedentes que hagan parte del respectivo convenio, del impuesto a ganadores, el nombre comercial del juego de lotería y los mecanismos para adelantar el proceso de selección, adjudicación y celebración del respectivo contrato de concesión.
 
 (Art. 42 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.2 — Iniciación de la operación
 
@@ -11575,8 +10937,6 @@ PARÁGRAFO 2. En todo caso, las entidades que inicien la operación del juego de
 
 (Art. 43 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.6.3 — Estudio de factibilidad
 
 Las entidades territoriales a través de la entidad administradora del monopolio, aplicando el método de formulación y evaluación de proyectos, determinarán si la operación de la lotería generará rentabilidad social y económica de manera sostenible, todo lo cual se deberá realizar a través de un estudio de factibilidad que deberá contener lo siguiente:
@@ -11592,8 +10952,6 @@ d) Evaluación económica;
 e) Análisis y administración del riesgo.
 
 (Art. 44 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.4 — Estudio de mercado
 
@@ -11615,8 +10973,6 @@ Para analizar la información obtenida de las fuentes primarias se efectuará el
 
 (Art. 45 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.6.5 — Estudio técnico
 
 Las entidades administradoras del monopolio deberán realizar un estudio técnico que permita establecer si desde el punto de vista tecnológico y organizacional es viable la introducción de la lotería, determinando el tamaño de la organización empresarial, los elementos para el juego, los recursos tecnológicos requeridos; si los costos que se generan son financiables con cargo a la fracción de los ingresos brutos destinados para gastos de administración de la empresa operadora. Dicho estudio determinará como mínimo:
@@ -11628,8 +10984,6 @@ b) Clase y tamaño de la organización y de su planta de personal;
 c) Si se trata de una asociación de departamentos se requiere además un estudio de localización.
 
 (Art. 46 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.6 — Estudio económico
 
@@ -11651,8 +11005,6 @@ e) Valor del patrimonio técnico requerido.
 
 (Art. 47 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.6.7 — Evaluación económica
 
 Las entidades administradoras del monopolio deberán realizar una evaluación económica que determine la conveniencia de la operación, de conformidad con los siguientes indicadores:
@@ -11669,23 +11021,17 @@ PARÁGRAFO . Los flujos netos de caja se obtendrán de los estados de resultados
 
 (Art. 48 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.6.8 — Análisis y administración del riesgo
 
 Las entidades que pretendan operar el juego de lotería deberán establecer los riesgos de mercado, de entorno económico y de estructura probabilística del plan de premios, mediante la medición del riesgo técnico y la suficiencia del régimen de reservas y margen de solvencia requerido para gestionarlo, para lo cual deberán determinar el nivel de provisiones requerido de acuerdo con el riesgo del operador.
 
 (Art. 49 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.6.9 — Requisitos de eficiencia
 
 Las entidades que pretendan operar el juego de lotería tradicional se someterán a los criterios de eficiencia de que tratan los artículos 50 y 51 de la Ley 643 de 2001 y a las disposiciones que expida el Consejo Nacional de Juegos de Suerte y Azar sobre la materia.
 
 (Art. 50 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.10 — Operación por medio de terceros
 
@@ -11698,8 +11044,6 @@ PARÁGRAFO 2. Los terceros que pretendan operar el juego de lotería deberán ac
 PARÁGRAFO 3. No podrán ser operadoras de juegos de loterías aquellas empresas que utilicen los resultados de otros juegos, ni empresas cuyos socios tengan propiedad accionaria en empresas que utilicen los resultados de otros juegos.
 
 (Art. 51 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.11 — Requisitos de capacidad financiera
 
@@ -11717,15 +11061,11 @@ e) Requisitos de liquidez. Las entidades que pretendan operar el juego de loter�
 
 (Art. 52 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.6.12 — Requisitos de experiencia
 
 Para participar en el proceso de selección de concesionario del juego de lotería tradicional, las empresas acreditarán experiencia de cuando menos tres (3) años en la operación del juego en Colombia o en otro país, en las modalidades de lotería tradicional, instantánea o tipo loto.
 
 (Art. 53 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.13 — Eficiencia contractual en la operación por medio de terceros
 
@@ -11734,8 +11074,6 @@ En los documentos y estudios previos del proceso licitatorio para la escogencia 
 Las personas jurídicas que pretendan participar en el proceso de selección deberán efectuar sus propios estudios y evaluaciones técnicas, financieras, de mercado y de análisis de riesgos, de manera que, previa a su participación en el proceso de selección, determinen si pueden cumplir con las obligaciones de la operación del juego, incluyendo el porcentaje de derechos de explotación que deberán transferir y el valor mínimo de ventas exigido en los términos de referencia. La sola participación en el proceso de selección constituye prueba de que los proponentes manifiestan su libre y expresa aceptación sobre esas obligaciones, ventas mínimas y porcentajes a transferir, sin que haya lugar a reclamaciones o indemnizaciones posteriores por esta razón, en caso de resultar adjudicatarios.
 
 (Art. 54 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.14 — Documentación adicional
 
@@ -11748,8 +11086,6 @@ b) Declaración expresa del operador de no encontrarse incurso en el régimen de
 PARÁGRAFO . Cuando se trata de operadores públicos deberán cumplir además con los requisitos establecidos en la Ley 489 de 1998, referidos a la creación de Empresas Industriales y Comerciales del Estado y Sociedades de Capital Público.
 
 (Art. 55 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.6.15 — Trámite y Concepto del Consejo Nacional de Juegos de Suerte y Azar
 
@@ -11765,15 +11101,11 @@ CAPÍTULO 7
 
 INSPECCIÓN, VIGILANCIA Y CONTROL DE LAS AUTORIDADES
 
-ARTÍCULO
-
 ## art:2.7.1.7.1 — Juegos prohibidos y prácticas no autorizadas
 
 Quedan prohibidas y constituyen prácticas no autorizadas la explotación, administración u operación del juego de lotería tradicional o de billetes que se adelanten en contravención a los mandatos contenidos en la Ley 643 de 2001 y las disposiciones del presente título. En tales eventos, conforme se dispone en el artículo 4 de la citada ley, la autoridad de control competente podrá suspender esas actividades y adoptar las medidas preventivas y de intervención que resulten necesarias, sin perjuicio del ejercicio de las funciones de inspección, vigilancia y control correspondientes y de las acciones de tipo penal que deba adelantar la autoridad competente, por ejercicio ilícito de actividad monopolística.
 
 (Art. 57 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.7.2 — Indicadores de gestión y eficiencia
 
@@ -11783,23 +11115,17 @@ De la misma manera, establecerá los eventos y situaciones que obligan a los ope
 
 (Art. 58 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.7.3 — 7.3
 
 Calificación de la gestión, eficiencia y rentabilidad de las entidades operadoras del juego de lotería tradicional o de billetes. El Consejo Nacional de Juegos de Suerte y Azar calificará anualmente la gestión y eficiencia de los operadores públicos o privados del juego de lotería tradicional o de billetes, con base en los indicadores de gestión, eficiencia y rentabilidad y en el procedimiento señalado para el efecto.
 
 (Art. 59 Decreto 3034 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.1.7.4 — Planes de desempeño
 
 Los operadores públicos o privados del juego de lotería tradicional o de billetes, que obtengan calificación insatisfactoria o que incurran en eventos y situaciones que comprometan su viabilidad financiera e institucional, se someterán a un plan de desempeño en las condiciones que establezca el Consejo Nacional de Juegos de Suerte y Azar en desarrollo de las facultades que le fueron concedidas en el artículo 47 de la Ley 643 de 2001, modificado por el artículo 2 del Decreto 4144 de 2011.
 
 (Art. 60 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.7.5 — Deber de suministrar información
 
@@ -11808,8 +11134,6 @@ Las personas naturales y jurídicas, públicas y privadas que en cualquier forma
 El incumplimiento de esta obligación dará lugar a la imposición de las sanciones a que haya lugar, en concordancia con lo dispuesto en los artículos 116 y 131 de la Ley 1438 de 2011.
 
 (Art. 61 Decreto 3034 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.1.7.6 — Formatos y formularios
 
@@ -11823,15 +11147,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.7.2.1.1 — Ámbito de aplicación
 
 Las disposiciones del presente título se aplican a las entidades territoriales, a las Empresas Industriales y Comerciales del Estado de cualquier orden, Sociedades de Capital Público Departamental y demás personas jurídicas, que de conformidad con lo dispuesto en la Ley 643 del 2001 exploten, administren u operen el juego de apuestas permanentes o chance al que se refiere el Capítulo IV de la Ley 643 del 2001.
 
 (Art. 1 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.1.2 — Definiciones
 
@@ -11869,7 +11189,7 @@ CAPÍTULO 2
 
 PLAN DE PREMIOS E INCENTIVOS EN EL JUEGO DE APUESTAS PERMANENTES O CHANCE
 
-ARTÍCULO
+## art:2.7.2.2.1 — 
 
 .
 
@@ -11891,8 +11211,6 @@ PARÁGRAFO SEGUNDO. Cuando la apuesta corresponda a cualquiera de las dos modali
 
 (Mod Art 1 del decreto 1390 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.2.2.2 — Pago de premios
 
 Los premios deberán ser pagados por el concesionario a la presentación del documento de juego para su cobro, previas las retenciones de impuestos a que haya lugar.
@@ -11901,15 +11219,11 @@ En ningún caso el premio podrá ser pagado en especie, ni en cuotas partes.
 
 (Art. 4 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.2.3 — Información de aciertos
 
 Los formularios que resultaren premiados dentro del ejercicio de la apuesta deberán ser reportados a la entidad concedente, dentro de los cinco (5) días siguientes a la fecha de realización del sorteo.
 
 (Derogado por Art 2 del decreto 1390 de 2024)
-
-ARTÍCULO
 
 ## art:2.7.2.2.4 — Reservas técnicas, fondos o cuentas para el pago de premios
 
@@ -11922,8 +11236,6 @@ Cuando se trate de operación asociada del plan de premios doble acierto o de op
 (Modificado por el Art. 8 del Decreto 1494 de 2021)
 
 (Art. 7 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.2.5 — Incentivos en el juego de apuestas permanentes o chance
 
@@ -11938,8 +11250,6 @@ En todo caso, para acceder al premio generado por concepto del incentivo, no se 
 (Modificado por el Art. 9 del Decreto 1494 de 2021)
 
 (Art. 8 Decreto 3535 de 2005, modificado por el Art.4 del 4643 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.2.2.6 — 2.6
 
@@ -11962,8 +11272,6 @@ f) Et concesionario deberá presentar con la solicitud de autorización a la ent
 g) La autorización debe ser otorgada por la Entidad concedente mediante acto administrativo debidamente motivado, Deberá ser remitido dentro de los 5 días hábiles siguientes a su firmeza al Consejo Nacional de Juegos de Suerte y Azar o a quien haga sus veces, para lo de su competencia.
 
 (Art. 9 Decreto 3535 de 2005, modificado por el Art. 5 del 4643 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.2.2.7 — Condiciones de operación de los incentivos
 
@@ -11997,8 +11305,6 @@ PARÁGRAFO . El monto del incentivo correspondiente a la modalidad de cuatro (4)
 
 (Art. 10 Decreto 3535 de 2005, modificado por el Art. 6 del 4643 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.2.8 — Desconocimiento del régimen de incentivos
 
 El otorgamiento de incentivos por parte de los concesionarios en contravención a las disposiciones vigentes, de conformidad con lo establecido en el artículo 4 de la Ley 643 de 2001, constituye práctica ilegal y no autorizada y, por consiguiente configura la causal de inhabilidad, para operar juegos de suerte y azar por cinco (5) años, prevista en el artículo 44 del mismo estatuto; lo anterior sin perjuicio de las demás consecuencias que ello genere.
@@ -12008,8 +11314,6 @@ El otorgamiento de incentivos por parte de los concesionarios en contravención 
 SECCIÓN 1
 
 PLANES DE PREMIOS ADICIONALES PARA EL JUEGO DE APUESTAS PERMANENTES O CHANCE
-
-ARTÍCULO
 
 ## art:2.7.2.2.1.1 — Plan de premios para la modalidad de chance de doble acierto con premio acumulado
 
@@ -12051,8 +11355,6 @@ CAPÍTULO 3
 
 FORMULARIO ÚNICO DE APUESTAS PERMANENTES O CHANCE
 
-ARTÍCULO
-
 ## art:2.7.2.3.1 — Contenido del formulario único de apuestas permanentes o chance
 
 El formulario único para el juego de apuestas permanentes o chance deberá contener como mínimo la siguiente información:
@@ -12082,15 +11384,11 @@ PARÁGRAFO 2 El término para la conservación del formulario único del juego d
 
 (Modificado por el Art. 3 del Decreto 1390 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.2.3.2 — Formato del formulario único manual
 
 Los formularios para el juego de apuestas permanentes o chance que sean diligenciados manualmente, deberán ser impresos en papel de seguridad, con un color para el original y el otro para la copia, agruparse en talonarios de cincuenta (50) unidades en original y una copia y su tamaño será determinado por la entidad concedente.
 
 (Derogado Art 4 del decreto 1390 de 2024
-
-ARTÍCULO
 
 ## art:2.7.2.3.3 — Operación sistematizada y electrónica
 
@@ -12118,23 +11416,17 @@ CAPÍTULO 4
 
 CONDICIONES Y OBLIGACIONES EN LA OPERACIÓN DE LOS JUEGOS DE APUESTAS PERMANENTES O CHANCE
 
-ARTÍCULO
-
 ## art:2.7.2.4.1 — Operación a través de terceros del Juego de Apuestas Permanentes o Chance
 
 El Juego de Apuestas Permanentes o Chance, de conformidad con lo previsto, en el artículo 22 de la Ley 643 de 2001, sólo podrá operarse a través de terceros seleccionados mediante licitación pública.
 
 (Art. 4 Decreto 3535 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.4.2 — Régimen aplicable al contrato de concesión
 
 El contrato de concesión del juego de apuestas permanentes o chance, se regirá por la Ley de Régimen Propio de los Juegos de Suerte y Azar, el Estatuto General de Contratación de la Administración Pública, y las normas reglamentarias de dichos ordenamientos.
 
 (Art. 12 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.4.3 — Inhabilidades de los concesionarios
 
@@ -12143,8 +11435,6 @@ Sin perjuicio de las inhabilidades a que se refiere el artículo 10 de la Ley 64
 El concedente, una vez conocida la causal de inhabilidad iniciará inmediatamente las acciones correspondientes e informará a su junta Directiva y al Gobernador o Alcalde Mayor de Bogotá, D. C., según el caso, para efectos del cumplimiento de estas medidas.
 
 (Art. 6 Decreto 3535 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.2.4.4 — Estudios de Mercado
 
@@ -12162,8 +11452,6 @@ La Superintendencia Nacional de Salud podrá contratar estudios de mercado selec
 
 (Art. 2 Decreto 3535 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.4.5 — Publicidad estudios de mercado
 
 Los estudios de mercado de que trata el artículo 23 de la Ley 643 de 2001 y el artículo anterior, forman parte integrante de los pliegos de condiciones de los procesos licitatorios que tienen por objeto adjudicar mediante concesión la operación del juego de apuestas permanentes o chance en una determinada jurisdicción territorial y de los respectivos contratos de concesión y, por tanto deberán sujetarse a los requisitos de publicidad de que trata la Ley 80 de 1993, y su reglamentación compilada en el Decreto Único del sector de Planeación Nacional.
@@ -12171,8 +11459,6 @@ Los estudios de mercado de que trata el artículo 23 de la Ley 643 de 2001 y el 
 (Derogado por el Art. 28 del Decreto 1494 de 2021)
 
 (Art. 2 Decreto 4643 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.2.4.6 — Revisión estudios de mercado
 
@@ -12184,8 +11470,6 @@ Si como resultado de dicho estudio se determina un aumento o disminución del mo
 
 (Art. 3 Decreto 4643 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.4.7 — Registro diario de apuestas permanentes o chance
 
 De acuerdo con lo dispuesto por el artículo 26 de la Ley 643 de 2001 0 la norma que la modifique o adicione, los concesionarios del juego de apuestas permanentes o chance llevarán un registro en el sistema del juego, de sus operaciones diarias de apuestas; cuyos valores estarán en concordancia con los consignados en el formulario único de apuestas permanentes o chance.
@@ -12195,8 +11479,6 @@ Dicho registro deberá mantenerse actualizado y disponible en forma permanente p
 En el registro diario de apuestas permanentes o chance se consignará toda la información que requiera la Superintendencia Nacional de Salud para el reporte en su plataforma SIVICAL o aplicativo que esta disponga, así como, la requerida por fa autoridad competente.
 
 (Mod Art 5 del decreto 1390 de 2024)
-
-ARTÍCULO
 
 ## art:2.7.2.4.8 — Requisitos para la operación del juego de apuestas permanentes o chance
 
@@ -12217,8 +11499,6 @@ En el juego de apuestas permanentes o chance que se registre en forma sistematiz
 
 (Mod Art 6 del decreto 1390 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.2.4.9 — Porcentajes mínimos de operaciones en línea y en tiempo real
 
 Los contratos de concesión para la operación del juego de apuestas permanentes o chance deberán establecer como una de las obligaciones a cargo del concesionario, la de efectuar operaciones de colocación de apuestas permanentes o chance en la respectiva jurisdicción territorial a través del mecanismo de explotación sistematizado en línea y en tiempo real en el 100%.
@@ -12233,15 +11513,11 @@ PARÁGRAFO 2. Las obligaciones del concesionario sobre el mecanismo de explotaci
 
 (Mod Art 7 del decreto 1390 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.2.4.10 — Participación de los concesionarios en la cabal y eficiente explotación del juego de apuestas permanentes o chance
 
 Corresponde a los concesionarios del juego de apuestas permanentes o chance adoptar las medidas indispensables para garantizar la explotación cabal y eficiente del juego en los términos de los artículos 3 y 4 de la Ley 643 de 2001, poner en conocimiento de la entidad concedente cualquier irregularidad que se presente en la explotación del mismo y colaborar activamente con las entidades administradoras de juegos de suerte y azar y con las autoridades de policía para corregir dichas prácticas.
 
 (Art. 9 Decreto 4643 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.2.4.11 — Inscripción en el registro nacional público de vendedores de juegos de suerte y azar
 
@@ -12252,8 +11528,6 @@ La omisión de la inscripción en el Registro Nacional Público de Vendedores de
 PARÁGRAFO . Cuando la Cámara de Comercio no tenga sede en el lugar donde desarrolla la actividad el vendedor, la inscripción se efectuará en la alcaldía de la localidad que cuente con la delegación respectiva.
 
 (Art. 21 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.4.12 — Deberes de los colocadores de apuestas permanentes o chance
 
@@ -12275,8 +11549,6 @@ CAPÍTULO 5
 
 DERECHOS DE EXPLOTACIÓN Y GIRO DE RECURSOS POR LOS OPERADORES
 
-ARTÍCULO
-
 ## art:2.7.2.5.1 — Declaración, liquidación y pago de los derechos de explotación, gastos de administración e intereses
 
 Los concesionarios deberán declarar, liquidar y pagar dentro delos primeros cinco (5) días hábiles de cada mes, a título de derechos de explotación, el doce por ciento (12%) de los ingresos brutos causados en el mes anterior, de conformidad con lo previsto por el artículo 23 de la Ley 643 de 2001, modificado por el artículo 57 del Decreto Ley 2106 de 2019, el artículo 16 de la Ley 1393 de 2010, y el literal l) del artículo 67 de la Ley 1753 de 2015.
@@ -12293,15 +11565,11 @@ PARÁGRAFO 2. Los concesionarios que no cancelen oportunamente los derechos de e
 
 (Art. 14 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.5.2 — Derechos de explotación
 
 Los derechos de explotación, inclusive para los contratos vigentes y firmados con anterioridad al 19 de abril de 2010, corresponden al 12% de los Ingresos Brutos obtenidos según lo establecido en el artículo 23 de la Ley 643 de 2001.
 
 (Art. 1 Decreto 1289 de 2010)
-
-ARTÍCULO
 
 ## art:2.7.2.5.3 — Pago de anticipos
 
@@ -12313,8 +11581,6 @@ Si los operadores de apuestas permanentes no se encuentran en línea o en tiempo
 
 (Art. 3 Decreto 1289 de 2010)
 
-ARTÍCULO
-
 ## art:2.7.2.5.4 — Rentabilidad mínima del juego de apuestas permanentes o chance
 
 De conformidad con el artículo 24 de la Ley 643 de 2001, modificado por el artículo 60 de la Ley 1955 de 2019, la rentabilidad mínima del juego de apuestas permanentes o chance para cada concesionario será el valor pagado por concepto de derechos de explotación en el año contractual inmediatamente anterior, para lo cual, la única referencia serán los ingresos brutos del juego. El Consejo Nacional de Juegos de Suerte y Azar (CNJSA), expedirá el formulario para el cálculo de la rentabilidad mínima".
@@ -12322,8 +11588,6 @@ De conformidad con el artículo 24 de la Ley 643 de 2001, modificado por el art�
 (Modificado por el Art. 13 del Decreto 1494 de 2021)
 
 (Art. 3 Decreto 3535 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.2.5.5 — Formulario de declaración, liquidación y pago de los derechos de explotación, gastos de administración e intereses
 
@@ -12365,8 +11629,6 @@ PARÁGRAFO . El Consejo Nacional de Juegos de Suerte y Azar (CNJSA), expedirá e
 
 (Art. 15 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.5.6 — Compensación contractual
 
 De conformidad con el artículo 24 de la Ley 643 de 2001, modificado por el artículo 60 de la Ley 1955 de 2019, cuando el monto de los derechos de explotación de un año contractual resulte inferior al valor absoluto pagado durante el año contractual inmediatamente anterior, el concesionario estará obligado al pago de la diferencia a título de compensación contractual. El CNJSA, expedirá el formulario para la declaración, liquidación y pago correspondiente".
@@ -12374,8 +11636,6 @@ De conformidad con el artículo 24 de la Ley 643 de 2001, modificado por el art�
 (Modificado por el Art. 15 del Decreto 1494 de 2021)
 
 (Art. 16 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.5.7 — Giro de los recursos del monopolio
 
@@ -12389,8 +11649,6 @@ PARÁGRAFO . El giro efectuado por la entidad concesionaria deberá ser comunica
 
 (Art. 17 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.5.8 — Giro directo a los Fondos de Salud de las Entidades Territoriales
 
 En caso de que las empresas que administren el juego de Lotería Tradicional tengan, por cualquier concepto, deudas pendientes por transferir a los correspondientes fondos de salud de las entidades territoriales, el concesionario del Juego de Apuestas Permanentes o Chance girará la rentabilidad del contrato directamente al respectivo fondo de salud, y a la lotería, lo correspondiente a los gastos de administración.
@@ -12401,8 +11659,6 @@ Para efectos de dar aplicación a esta norma, corresponderá al Gobernador del D
 
 (Art. 11 Decreto 3535 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.5.9 — Intereses moratorias
 
 Los intereses moratorios que se causen por el incumplimiento de los plazos para el pago y giro de los derechos de explotación que deben efectuar los concesionarios a las entidades concedentes y estas al sector salud, se liquidarán por cada día calendario de retardo en el pago, a la tasa de interés moratorio, prevista para los tributos administrados por la Dirección de Impuestos y Aduanas Nacionales, DIAN".
@@ -12410,8 +11666,6 @@ Los intereses moratorios que se causen por el incumplimiento de los plazos para 
 (Modificado por el Art. 17 del Decreto 1494 de 2021)
 
 (Art. 18 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.5.10 — Cobro coactivo
 
@@ -12425,15 +11679,11 @@ CAPÍTULO 6
 
 INSPECCIÓN, VIGILANCIA Y CONTROL
 
-ARTÍCULO
-
 ## art:2.7.2.6.1 — Modelo de Inspección, vigilancia y control
 
 Con la información recaudada por el sistema implementado y por los demás instrumentos de control, la Superintendencia Nacional de Salud deberá realizar y desarrollar un modelo de inspección, vigilancia y control que permita determinar entre otros, el cumplimiento de las obligaciones contractuales, así como el cumplimiento del régimen propio y de garantías al apostador.
 
 (Art. 5 Decreto 4867 de 2008)
-
-ARTÍCULO
 
 ## art:2.7.2.6.2 — Escrutinios
 
@@ -12442,8 +11692,6 @@ En ejercicio de las facultades de vigilancia y control del monopolio de los jueg
 Las entidades de vigilancia y control y las administradoras del monopolio en ejercicio de sus funciones, deberán observar las normas o condiciones de seguridad señaladas por el concesionario.
 
 (Art. 23 Decreto 1350 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.2.6.3 — Resultados de los juegos autorizados
 
@@ -12455,15 +11703,11 @@ El concesionario deberá remitir la correspondiente información a la Superinten
 
 (Art. 24 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.6.4 — Conexión con Superintendencia Nacional de Salud
 
 A más tardar el 31 de diciembre de 2009 los concesionarios que realicen el juego de apuestas permanentes en línea y tiempo real tendrán que estar en conexión con la Superintendencia Nacional de Salud; en caso contrario, se dará aplicación a lo señalado en el artículo 2.7.2.6.10. del presente capítulo.
 
 (Art. 2 Decreto 4867 de 2008)
-
-ARTÍCULO
 
 ## art:2.7.2.6.5 — Condiciones técnicas y operativas de conexión
 
@@ -12511,15 +11755,11 @@ g) Cuando exista falla en los elementos del sistema responsabilidad de la Superi
 
 (Art. 3 Decreto 4867 de 2008)
 
-ARTÍCULO
-
 ## art:2.7.2.6.6 — Gastos conexión en línea
 
 Los gastos que genere la conexión en línea y en tiempo real que sean responsabilidad de la Superintendencia Nacional de Salud, serán asumidos con recursos de la tasa creada por el artículo 98 de la Ley 488 de 1998 y la norma que lo modifique adicione o sustituya, los demás gastos serán sufragados directamente por el concesionario de apuestas permanentes.
 
 (Art. 6 Decreto 4867 de 2008)
-
-ARTÍCULO
 
 ## art:2.7.2.6.7 — Interventoría especial sobre explotación del Juego de Apuestas Permanentes o Chance
 
@@ -12533,8 +11773,6 @@ La Superintendencia Nacional de Salud presentará al Ministro de Salud y Protecc
 
 (Art. 5 Decreto 3535 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.6.8 — Información a los Gobernadores y al Alcalde Mayor de Bogotá, D.C
 
 La Superintendencia Nacional de Salud en el momento en que detecte alguna irregularidad en la contratación, o con ocasión de la operación del Juego de Apuestas Permanentes o Chance, o que los recursos que correspondan a la salud no se están girando en su monto u oportunidad, deberá poner en conocimiento del respectivo Gobernador y el Alcalde Mayor de Bogotá, D. C., según el caso, en su calidad de Presidente de la Junta Directiva de la entidad administradora del juego, de estas situaciones con el fin de que se adopten las medidas correctivas necesarias para que los recursos se giren efectivamente a los fondos territoriales de salud.
@@ -12543,23 +11781,17 @@ Lo anterior, sin perjuicio de la responsabilidad que les cabe a los representant
 
 (Art. 7 Decreto 3535 de 2005)
 
-ARTÍCULO
-
 ## art:2.7.2.6.9 — Sanciones
 
 De conformidad con los artículos 44 y 55 de la Ley 643 de 2001 o la norma que los modifique o adicione, a los concesionarios y colocadores que incumplan con las normas que rigen la operación del juego de apuestas permanentes o chance, les serán aplicables las sanciones allí previstas, sin perjuicio de las demás establecidas en el contrato de concesión y en las normas pertinentes.
 
 (Art. 20 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.6.10 — Causal de Terminación unilateral del contrato
 
 Sin perjuicio de las sanciones penales y las demás a que hubiere lugar, cuando se evidencie que el concesionario ha efectuado apuestas fuera del sistema sin haber solicitado autorización de la Superintendencia Nacional de Salud, será causal de terminación unilateral del contrato.
 
 (Art. 4 Decreto 4867 de 2008)
-
-ARTÍCULO
 
 ## art:2.7.2.6.11 — Intervención o toma de posesión
 
@@ -12583,8 +11815,6 @@ Son causales para la intervención o toma de posesión de las empresas administr
 
 (Art. 25 Decreto 1350 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.2.6.12 — Publicidad de los recursos a la salud generados por el Juego de Apuestas Permanentes o Chance
 
 La Superintendencia Nacional de Salud publicará en la página web de la institución una relación mensual, por departamento y Distrito Capital, del valor recaudado en el sector de la salud por concepto de derechos de explotación del Juego de Apuestas Permanentes o Chance.
@@ -12592,8 +11822,6 @@ La Superintendencia Nacional de Salud publicará en la página web de la institu
 (Art. 12 Decreto 3535 de 2005)
 
 RIFAS
-
-ARTÍCULO
 
 ## art:2.7.3.1 — Definición
 
@@ -12613,8 +11841,6 @@ Generador de Número Aleatorio (GNA): Sistema de hardware y/o software que gener
 
 (Adiciona Art 1 del decreto 1486 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.3.2 — Prohibiciones
 
 Prohibiciones. Está prohibida la realización de rifas de carácter permanente, entendidas como aquellas que realicen los gestores personas naturales o jurídicas, por sí o por interpuesta persona, en más de dos (2) fechas al mes, para uno o varios sorteos y para la totalidad o parte de los bienes o premios a que se tiene derecho a participar por razón de la rifa.
@@ -12631,8 +11857,6 @@ PARÁGRAFO TRANSITORIO. El gestor podrá solicitar directamente a la entidad com
 
 (Modifica Art 2 del decreto 1486 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.3.3 — Competencia para la explotación y autorización de las rifas
 
 Corresponde a los municipios y al Distrito Capital la explotación de las rifas que operen dentro de su jurisdicción.
@@ -12644,8 +11868,6 @@ Cuando la rifa opere en dos o más departamentos o en un departamento y el Distr
 PARÁGRAFO 1. Cuando concurran en una Entidad Territorial las funciones de Sociedad de Capital Público Departamental (SCPD) y la administración de Loterías, o no exista SCPD o Entidad encargada de sus funciones, la autorización para que operen rifas de jurisdicción departamental se otorgará directamente por el Gobernador en aplicación de la competencia descrita en el numeral 2 del artículo 305 de la Constitución Política.
 
 (Art. 3 Decreto 1968 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.3.4 — Modalidades de operación de las rifas
 
@@ -12661,8 +11883,6 @@ Resultados a través de un Generador de Números Aleatorios (GNA). El GNA defini
 PARÁGRAFO TRANSITORIO. Las rifas podrán realizarse por los gestores, con boletas físicas y de manera manual, previa autorización y/o aprobación de la entidad competente mientras se encuentre vigente el periodo de transición previsto en la presente modificación. Los requisitos serán los previstos en el presente reglamento y el procedimiento corresponderá al que disponga cada entidad competente. En este caso, tos resultados contra los cuales se cursarán las rifas de comercialización manual serán los definidos en el numeral 1 del presente artículo
 
 (Modifica Art 3 del decreto 1486 de 2024)
-
-ARTÍCULO
 
 ## art:2.7.3.5 — Requisitos para la operación
 
@@ -12687,8 +11907,6 @@ La solicitud debe presentarse con el cumplimiento de los requisitos exigidos con
 PARÁGRAFO TRANSITORIO. Las rifas podrán realizarse por los gestores, de manera manual, previa autorización y/o aprobación de la entidad competente mientras se encuentre vigente el periodo de transición previsto en la presente modificación. Los requisitos serán los previstos en el presente reglamento y el procedimiento corresponderá al que disponga cada entidad competente. En este caso, los resultados contra los cuales se realizarán las rifas de comercialización manual serán tos definidos en el numeral 1 del artículo 2.7.3.4
 
 (Modifica Art 4 del decreto 1486 de 2024)
-
-ARTÍCULO
 
 ## art:2.7.3.6 — 3.6
 
@@ -12718,8 +11936,6 @@ PARÁGRAFO. En el caso de que el operador de las rifas sea un concesionario del 
 
 (Modifica Art 5 del decreto 1486 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.3.7 — Pago de los derechos de explotación
 
 Al momento de la autorización, el gestor de la rifa deberá a través del operador acreditar el pago de los derechos de explotación de las rifas que realicen, equivalentes al catorce por ciento (14%) de los ingresos brutos los cuales corresponden al ciento por ciento (100%) del valor de las boletas emitidas.
@@ -12737,8 +11953,6 @@ Realizada la rifa se ajustará el pago de los derechos de explotación al valor 
 PARÁGRAFO 2. Cuando la rifa se realice por terceros no concesionarios del juego de apuestas permanentes o de las entidades que operen la lotería tradicional o de billetes, se deberá enviar a la Entidad Administradora del Monopolio Rentístico que autoriza el juego, a más tardar el día hábil anterior a la realización del sorteo, el reporte de las boletas emitidas, de las boletas vendidas, las boletas que no participan en el sorteo, es decir, las boletas no vendidas y las invalidadas, En todo caso, el día del sorteo, el operador de la rifa no puede comercializar las boletas reportadas como no vendidas e inhabilitadas el día anterior al sorteo.
 
 (Modifica Art 6 del decreto 1486 de 2024)
-
-ARTÍCULO
 
 ## art:2.7.3.8 — Realización del sorteo
 
@@ -12762,8 +11976,6 @@ La boleta ganadora es considerada un documento al portador del premio sorteado, 
 
 (Modifica Art 9 del decreto 1486 de 2024)
 
-ARTÍCULO
-
 ## art:2.7.3.11 — Verificación de la entrega del premio
 
 El gestor deberá presentar ante la autoridad competente a través del operador, máximo dentro de los cinco (5) días hábiles siguientes a la entrega de los premios, la declaración jurada ante notario por la persona o personas favorecidas con el premio o premios de la rifa realizada en la cual conste que recibieron los mismos a entera satisfacción. La inobservancia de este requisito impide al gestor tramitar y obtener autorización para la realización de futuras rifas
@@ -12771,8 +11983,6 @@ El gestor deberá presentar ante la autoridad competente a través del operador,
 PARÁGRAFO. En el caso de que las rifas se operen por los concesionarios del juego de apuestas permanentes o por las entidades que operen la Lotería tradicional o de billetes, la declaración jurada de la entrega del premio ante notario podrá ser reemplazada por acta suscrita por el ganador y certificación del revisor fiscal o contador y representante legal de la respectiva empresa.
 
 (Modifica Art 10 del decreto 1486 de 2024)
-
-ARTÍCULO
 
 ## art:2.7.3.12 — Valor de la emisión y del plan de premios
 
@@ -12784,15 +11994,11 @@ PARÁGRAFO. Los actos administrativos que se expidan por las autoridades compete
 
 JUEGOS PROMOCIONALES
 
-ARTÍCULO
-
 ## art:2.7.4.1 — Solicitud de autorización
 
 Las personas naturales o jurídicas que pretendan organizar y operar juegos de suerte y azar con el fin de publicitar o promocionar bienes o servicios, establecimientos, empresas o entidades, en los cuales se ofrezca un premio al público, sin que para acceder al juego se pague directamente, deberán previamente solicitar y obtener autorización de las entidades competentes.
 
 (Art. 1 Decreto 493 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.4.2 — Autorización para la operación de juegos promocionales
 
@@ -12801,8 +12007,6 @@ Las personas naturales o jurídicas, que pretendan organizar y operar juegos de 
 Para estos efectos, se entiende que un juego promocional es de carácter nacional, cuando el mismo se opera en la jurisdicción de dos o más departamentos, bien sea que cobije a todo el departamento, o solamente a algunos de sus municipios y distritos. Por el contrario, un juego promocional es de carácter departamental, cuando su operación se realiza únicamente en jurisdicción de un solo departamento y es de carácter distrital o municipal, cuando opera únicamente en jurisdicción de un solo distrito o municipio.
 
 (Art. 2 Decreto 493 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.4.3 — Requisitos de la solicitud de autorización
 
@@ -12828,15 +12032,11 @@ PARÁGRAFO SEGUNDO. En los casos en que se haya efectuado el pago de derechos de
 
 (Art. 3 Decreto 493 de 2001)
 
-ARTÍCULO
-
 ## art:2.7.4.4 — Valor del plan de premios
 
 El valor total del plan de premios deberá estimarse por su valor comercial, incluido el IVA. Así mismo, cuando se ofrezcan premios en los cuales la persona natural o jurídica que realiza el sorteo promocional asume el pago de los impuestos correspondientes, el valor de dicho impuesto o impuestos deberá adicionarse al valor comercial del plan de premios, para efecto de cálculo de los derechos de explotación.
 
 (Art. 4 Decreto 493 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.4.5 — Trámite de la solicitud
 
@@ -12852,8 +12052,6 @@ PARÁGRAFO TRANSITORIO: Los juegos promocionales autorizados o vigentes durante 
 
 (Art. 5 Decreto 493 de 2001)
 
-ARTÍCULO
-
 ## art:2.7.4.6 — Concepto desfavorable y desistimiento
 
 Si del examen de la solicitud de autorización, Coljuegos o la respectiva Sociedad de Capital Público Departamental SCPD según corresponda emite concepto desfavorable, así lo hará conocer al interesado mediante acto administrativo susceptible de recursos en los términos del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -12864,8 +12062,6 @@ Lo anterior no impide la presentación de posteriores solicitudes
 
 (Art. 6 Decreto 493 de 2001)
 
-ARTÍCULO
-
 ## art:2.7.4.7 — Modificación del calendario de sorteos
 
 En el evento en el cual la persona autorizada para realizar los sorteos promocionales no pudiera adelantarlos en la fecha o fechas previstas en el calendario de sorteos, por presentarse fuerza mayor o caso fortuito, deberá informarlo inmediatamente a la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, o a la respectiva Sociedad de Capital Público Departamental, SCPD, acreditando las circunstancias que impidieron la realización del sorteo y señalando la fecha en que éste se realizará.
@@ -12874,15 +12070,11 @@ La Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentí
 
 (Art. 7 Decreto 493 de 2001)
 
-ARTÍCULO
-
 ## art:2.7.4.8 — Premios en dinero y en especie
 
 Con excepción de los juegos promocionales que se autoricen a las entidades financieras y aseguradoras, no se podrán ofrecer o entregar premios en dinero. En consecuencia, los premios deberán consistir en bienes muebles o inmuebles o servicios. Se excluyen de los bienes muebles, los títulos valores y similares.
 
 (Art. 8 Decreto 493 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.4.9 — Autorizaciones y regulaciones especiales
 
@@ -12891,8 +12083,6 @@ Cuando para la realización de los juegos de suerte y azar promocionales se pret
 Además de lo señalado en el presente título, las entidades pertenecientes al sector financiero y asegurador deberán cumplir con lo dispuesto por el Parte 2, Libro 24, Título 1 del Decreto 2555 de 2010.
 
 (Art. 9 Decreto 493 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.4.10 — Plazo para la entrega de premios
 
@@ -12908,15 +12098,11 @@ PARÁGRAFO 3. Coljuegos o la respectiva Sociedad de Capital Público Departament
 
 (Art. 10 Decreto 493 de 2001)
 
-ARTÍCULO
-
 ## art:2.7.4.11 — Aplicación restrictiva de las excepciones
 
 Toda persona natural o jurídica que pretenda realizar juegos de suerte y azar promocionales que considere se encuentra dentro de las excepciones previstas en el inciso tercero del artículo 5 de la Ley 643 de 2001, deberá solicitar y obtener de la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, o de la respectiva Sociedad de Capital Público Departamental, SCPD, según el ámbito de operación de que se trate, concepto mediante el cual se establezca dicha circunstancia, para lo cual deberá acreditar los requisitos establecidos en la citada disposición.
 
 (Art. 11 Decreto 493 de 2001)
-
-ARTÍCULO
 
 ## art:2.7.4.12 — Modificación del plan de premios de juegos promocionales
 
@@ -12934,23 +12120,17 @@ PARÁGRAFO . Los operadores de juegos promocionales que soliciten la modificaci�
 
 JUEGOS DE SUERTE Y AZAR LOCALIZADOS
 
-ARTÍCULO
-
 ## art:2.7.5.1 — Ámbito de aplicación
 
 Las disposiciones del presente título se aplicarán a Coljuegos y a las personas jurídicas que operen el monopolio rentístico de los juegos de suerte y azar localizados.
 
 (Art. 1 Decreto 1278 de 2014)
 
-ARTÍCULO
-
 ## art:2.7.5.2 — Requisitos para la operación
 
 Podrán operar los juegos de suerte y azar localizados las personas jurídicas que obtengan autorización de Coljuegos y suscriban el correspondiente contrato de concesión.
 
 (Art. 2 Decreto 1278 de 2014)
-
-ARTÍCULO
 
 ## art:2.7.5.3 — Autorización
 
@@ -12992,23 +12172,17 @@ PARÁGRAFO 5. Mientras Coljuegos establece las actividades comerciales o de serv
 
 (Art. 1 Decreto 1570 de 2017)
 
-ARTÍCULO
-
 ## art:2.7.5.4 — Del contrato de concesión
 
 Una vez en firme el acto administrativo de otorgamiento de la autorización para la operación a través de terceros de los juegos de suerte y azar localizados de que trata el presente título, se procederá a la suscripción del contrato de concesión, el cual se regirá en su orden por lo dispuesto en las Leyes 643 de 2001, 80 de 1993 y 1150 de 2007 y sus decretos reglamentarios y en las demás normas que las adicionen o modifiquen, así como por lo que disponga Coljuegos, para la adecuada ejecución del objeto contractual.
 
 (Art. 4 Decreto 1278 de 2014)
 
-ARTÍCULO
-
 ## art:2.7.5.5 — Término para la suscripción del contrato de concesión
 
 En el acto de autorización se señalará la fecha límite para la suscripción del contrato. Cuando sin justa causa el autorizado no suscriba el respectivo contrato en dicho plazo, el acto de autorización perderá sus efectos. Hasta tanto no se suscriba y se cumplan los requisitos de ejecución del contrato de que trata el artículo anterior del presente título, no podrá iniciarse la operación del juego.
 
 (Art. 5 Decreto 1278 de 2014)
-
-ARTÍCULO
 
 ## art:2.7.5.6 — Declaración, liquidación y pago de los derechos de explotación, gastos de administración e intereses moratorios
 
@@ -13024,8 +12198,6 @@ PARÁGRAFO 2. Para efectos del presente título, los ingresos brutos que sirven 
 
 (Art. 6 Decreto 1278 de 2014)
 
-ARTÍCULO
-
 ## art:2.7.5.7 — Garantías
 
 El operador deberá constituir a favor de la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar (Coljuegos), por intermedio de una compañía de seguros o de un banco legalmente establecido en Colombia, una garantía única que ampare como mínimo los siguientes riesgos:
@@ -13040,8 +12212,6 @@ PARÁGRAFO . La indivisibilidad de la garantía en los contratos de concesión p
 
 (Art. 7 Decreto 1278 de 2014)
 
-ARTÍCULO
-
 ## art:2.7.5.8 — Giro de los recursos del monopolio
 
 Constituyen rentas del monopolio cedidas por la Nación a las entidades territoriales, los derechos de explotación, los intereses de mora y los rendimientos financieros, provenientes de la operación de los juegos de suerte y azar localizados a que se refiere este título.
@@ -13050,8 +12220,6 @@ Dichas rentas deberán ser giradas mensualmente por Coljuegos a los municipios y
 
 (Art. 8 Decreto 1278 de 2014)
 
-ARTÍCULO
-
 ## art:2.7.5.9 — Función de Policía Judicial
 
 De conformidad con las facultades otorgadas en la Ley 643 de 2001, Coljuegos ejercerá las funciones previstas en el numeral cuatro del artículo 202 de la Ley 906 de 2004.
@@ -13059,8 +12227,6 @@ De conformidad con las facultades otorgadas en la Ley 643 de 2001, Coljuegos eje
 PARÁGRAFO . En desarrollo de estas funciones, Coljuegos, dentro del ámbito de su competencia, realizará las actividades tendientes a brindar el apoyo necesario a las autoridades de investigación en la recolección del material probatorio y su aseguramiento para el desarrollo eficaz de la investigación y actuará coordinadamente con dichas autoridades en los casos que se considere pertinente.
 
 (Art. 9 Decreto 1278 de 2014)
-
-ARTÍCULO
 
 ## art:2.7.5.10 — Gradualidad de la confiabilidad
 
@@ -13082,23 +12248,17 @@ PARÁGRAFO 2. Teniendo en cuenta la afectación a los juegos localizados, deriva
 
 APUESTAS EN EVENTOS DEPORTIVOS, GALLÍSTICOS, CANINOS Y SIMILARES
 
-ARTÍCULO
-
 ## art:2.7.6.1 — Ámbito de aplicación
 
 Las disposiciones del presente título se aplican a las apuestas en eventos deportivos, gallísticos, caninos, y similares de que trata el artículo 36 de la Ley 643 de 2001, operados a través de terceros.
 
 (Art. 1 Decreto 2482 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.6.2 — Operación a través de terceros
 
 La operación del juego de apuestas en eventos deportivos, gallísticos, caninos, y similares, a través de terceros, es aquella que se realiza por personas jurídicas, mediante contratos de concesión celebrados con la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, en los términos de la Ley 80 de 1993.
 
 (Art. 2 Decreto 2482 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.6.3 — Reglamento del juego
 
@@ -13108,23 +12268,17 @@ Dicho reglamento, determinará el monto de los derechos de explotación aplicabl
 
 (Art. 3 Decreto 2482 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.6.4 — Derechos de explotación
 
 Para la liquidación de los Derechos de Explotación, se entiende por Ingresos Brutos del Juego, el valor total de las apuestas sin incluir el valor del impuesto sobre las ventas.
 
 (Art. 4 Decreto 2482 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.6.5 — Gastos de administración y operación
 
 Los Operadores de los Juegos de que trata el presente título, deberán pagar a título de gastos de administración un porcentaje no superior al uno por ciento (1%) de los derechos de explotación, o aquel porcentaje que por ley posterior se determine.
 
 (Art. 5 Decreto 2482 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.6.6 — 6.6
 
@@ -13133,8 +12287,6 @@ Declaración, liquidación y pago de los derechos de explotación, de los gastos
 Dentro del mismo término, el operador deberá consignar a la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, los valores liquidados en los Bancos y Entidades Financieras autorizadas.
 
 (Art. 6 Decreto 2482 de 2003)
-
-ARTÍCULO
 
 ## art:2.7.6.7 — Formulario de declaración, liquidación y pago de los derechos de explotación y gastos de administración
 
@@ -13168,8 +12320,6 @@ PARÁGRAFO . El operador deberá adjuntar como anexo al formulario, el respectiv
 
 (Art. 7 Decreto 2482 de 2003)
 
-ARTÍCULO
-
 ## art:2.7.6.8 — Giro de los recursos del monopolio
 
 Constituyen rentas del monopolio y son de propiedad de las entidades territoriales, los derechos de explotación, los intereses de mora y los rendimientos financieros, provenientes de la operación de los juegos a que se refiere este título.
@@ -13182,23 +12332,17 @@ Igualmente, remitirá dentro de los cinco (5) días siguientes a la fecha de con
 
 MODALIDAD DE JUEGOS NOVEDOSOS
 
-ARTÍCULO
-
 ## art:2.7.7.1 — Ámbito de aplicación
 
 Las disposiciones del presente título se aplican a los juegos novedosos de que trata el artículo 38 de la Ley 643 de 2001, operados a través de terceros.
 
 (Art. 1 Decreto 2121 de 2004)
 
-ARTÍCULO
-
 ## art:2.7.7.2 — Operación a través de terceros
 
 La operación de los juegos novedosos a través de terceros, es aquella que se realiza por personas jurídicas, mediante contratos de concesión celebrados con ellas por la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, en los términos definidos por la Ley de Régimen Propio de los Juegos de Suerte y Azar, el Estatuto General de Contratación de la Administración Pública y las normas reglamentarias de dichos ordenamientos o las disposiciones que las modifiquen o sustituyan.
 
 (Art. 2 Decreto 2121 de 2004)
-
-ARTÍCULO
 
 ## art:2.7.7.3 — Reglamento del juego
 
@@ -13207,8 +12351,6 @@ Con anterioridad a la iniciación del proceso contractual que tiene como fin esc
 El reglamento determinará el monto de los derechos de explotación aplicable a cada juego, el cual en ningún caso podrá ser inferior al diecisiete (17%) de los ingresos brutos del juego, de conformidad con lo establecido en el artículo 49 de la Ley 643 de 2001.
 
 (Art. 3 Decreto 2121 de 2004)
-
-ARTÍCULO
 
 ## art:2.7.7.4 — Liquidación de los derechos de explotación
 
@@ -13220,15 +12362,11 @@ PARÁGRAFO TRANSITORIO. En virtud de lo previsto por el artículo 5 del Decreto 
 
 (Art. 4 Decreto 2121 de 2004)
 
-ARTÍCULO
-
 ## art:2.7.7.5 — Gastos de administración reconocidos a Coljuegos
 
 Los concesionarios de los juegos de que trata el presente título, deberán pagar a Coljuegos a título de gastos de administración un porcentaje definido por Coljuegos no superior al uno por ciento (1%) de los derechos de explotación o aquel porcentaje que por ley posterior se determine.
 
 (Art. 5 Decreto 2121 de 2004)
-
-ARTÍCULO
 
 ## art:2.7.7.6 — 7.6
 
@@ -13237,8 +12375,6 @@ Declaración, liquidación y pago de los derechos de explotación, de los gastos
 Dentro del mismo término, el concesionario deberá consignar a la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, los valores liquidados en los bancos y entidades financieras autorizadas.
 
 (Art. 6 Decreto 2121 de 2004)
-
-ARTÍCULO
 
 ## art:2.7.7.7 — Formulario de declaración, liquidación y pago de los derechos de explotación, gastos de administración e intereses
 
@@ -13272,8 +12408,6 @@ PARÁGRAFO . El concesionario deberá adjuntar como anexo al formulario, el resp
 
 (Art. 7 Decreto 2121 de 2004)
 
-ARTÍCULO
-
 ## art:2.7.7.8 — Giro de recursos del monopolio
 
 Constituyen rentas del monopolio y son de propiedad de las entidades territoriales, los derechos de explotación, los intereses de mora y los rendimientos financieros, provenientes de la operación de los juegos a que se refiere el presente título.
@@ -13286,15 +12420,11 @@ Igualmente, remitirá dentro de los cinco (5) días siguientes a la fecha de con
 
 FISCALIZACIÓN Y CONTROL A LA EXPLOTACIÓN DE JUEGOS DE SURTE Y AZAR
 
-ARTÍCULO
-
 ## art:2.7.8.1 — Facultades de fiscalización y control a la explotación de juegos de suerte y azar
 
 Sin perjuicio de las facultades propias de la Superintendencia Nacional de Salud, corresponde a los municipios, al Distrito Capital, a los departamentos y a las demás entidades administradoras de juegos de suerte y azar de que trata la Ley 643 de 2001, ejercer oportuna y efectivamente las facultades de fiscalización y control previstas en los artículos 4, 43 y 44 del mencionado estatuto, teniendo en cuenta la competencia funcional de la respectiva entidad administradora y el ámbito territorial en el cual se opera la respectiva modalidad de juegos de suerte y azar, así como imponer las sanciones correspondientes, a fin de evitar la explotación ilegal de juegos de suerte y azar, la proliferación de juegos no autorizados y en general de prácticas contrarias al régimen propio del monopolio. La omisión o extralimitación en el ejercicio de dichas facultades compromete la responsabilidad personal e institucional de las referidas entidades de acuerdo con lo dispuesto en la Constitución Política y en la Ley.
 
 (Art. 8 Decreto 4643 de 2005)
-
-ARTÍCULO
 
 ## art:2.7.8.2 — Manuales y protocolos de fiscalización
 
@@ -13310,8 +12440,6 @@ CAPÍTULO 1
 
 DISTRIBUCIÓN DE LOS RECURSOS PROVENIENTES DE LOS JUEGOS DE SUERTE Y AZAR
 
-ARTÍCULO
-
 ## art:2.7.9.1.1 — Distribución de los recursos provenientes de los juegos de suerte y azar localizados
 
 Los recursos provenientes de juegos de suerte y azar localizados en ciudades de menos de cien mil (100.000) habitantes, incluidos los rendimientos financieros generados por ellos, se destinarán al municipio generador de los mismos y los generados en los demás, se distribuirán el cincuenta por ciento (50%) acorde con la jurisdicción donde se generaron los derechos o regalías y el otro cincuenta por ciento (50%), se distribuirá entre los municipios, los distritos y el Distrito Capital, con base en el porcentaje de participación de la distribución efectuada para cada uno de ellos en el total de los recursos del sistema general de participaciones para el sector salud.
@@ -13326,15 +12454,11 @@ El procedimiento para efectuar la distribución de los recursos acorde con el po
 
 (Art. 1 del Decreto 1659 de 2002)
 
-ARTÍCULO
-
 ## art:2.7.9.1.2 — 1.2
 
 Distribución de los recursos provenientes de los juegos de suerte y azar novedosos diferentes al lotto en línea, lotería preimpresa y lotería instantánea. La distribución del cincuenta por ciento (50%) del veinte por ciento (20%) de los recursos correspondientes a los departamentos se realizará de acuerdo con la participación de la asignación de cada departamento, en el total de la asignación nacional total departamental del sistema general de participaciones para el sector salud.
 
 (Art. 2 del Decreto 1659 de 2002)
-
-ARTÍCULO
 
 ## art:2.7.9.1.3 — 1.3
 
@@ -13342,23 +12466,17 @@ Distribución de los recursos provenientes de la explotación del lotto en líne
 
 (Art. 3 del Decreto 1659 de 2002)
 
-ARTÍCULO
-
 ## art:2.7.9.1.4 — Distribución de recursos de rifas, juegos promocionales, eventos deportivos, gallísticos, caninos y similares
 
 Los recursos por concepto de rifas, juegos promocionales, eventos deportivos, gallísticos, caninos y similares, explotados por la Empresa Industrial y Comercial del Estado Administradora del Monopolio Rentístico de los Juegos de Suerte y Azar Coljuegos, incluidos sus rendimientos financieros, se distribuirán entre los municipios, distritos y el Distrito Capital, aplicando el porcentaje de participación en la distribución total de los recursos del sistema general de participaciones para el sector salud, calculado de acuerdo con la metodología descrita en el artículo 2.7.9.1.1. del presente capítulo, previa deducción del siete por ciento (7%) con destino al Fondo de Investigaciones en Salud.
 
 (Art. 4 del Decreto 1659 de 2002)
 
-ARTÍCULO
-
 ## art:2.7.9.1.5 — Distribución de los recursos provenientes de los eventos hípicos
 
 Los recursos derivados de las apuestas hípicas y sus rendimientos financieros, explotados por los departamentos y Distritos previa deducción del siete por ciento (7%) con destino al Fondo de Investigaciones en Salud, son de propiedad de los municipios, distritos y el Distrito Capital, según su localización, por lo tanto su distribución se efectuará a la entidad territorial que los generó.
 
 (Art. 5 del Decreto 1659 de 2002)
-
-ARTÍCULO
 
 ## art:2.7.9.1.6 — Periodicidad en la distribución y giro de los recursos
 
@@ -13380,15 +12498,11 @@ PARÁGRAFO 3. Los recursos provenientes de la lotería instantánea, la lotería
 
 (Art. 6 del Decreto 1659 de 2002)
 
-ARTÍCULO
-
 ## art:2.7.9.1.7 — 1.7
 
 Información sobre el porcentaje de participación que corresponde a cada municipio, distrito, distrito capital y departamento. El Departamento Nacional de Planeación informará al Administrador del Monopolio Rentístico de los Juegos de Suerte y Azar de cada uno de los juegos, previa solicitud de esta última, durante los primeros diez (10) días hábiles a la fecha de aprobación del Conpes Social en el que se asignen los recursos del sistema general de participaciones para el sector salud, los porcentajes de distribución que corresponden a cada municipio, distrito, Distrito Capital y departamento, que se aplicará a la distribución y giro de lo recaudado durante la correspondiente vigencia fiscal, conforme a lo dispuesto en el presente capítulo.
 
 (Art. 7 del Decreto 1659 de 2002)
-
-ARTÍCULO
 
 ## art:2.7.9.1.8 — Informes sobre la distribución y giros
 
@@ -13401,8 +12515,6 @@ El Administrador del Monopolio Rentístico de los Juegos de Suerte y Azar de cad
 3) Valor girado a la respectiva entidad territorial.
 
 (Art. 8 del Decreto 1659 de 2002)
-
-ARTÍCULO
 
 ## art:2.7.9.1.9 — Distribución de los recursos provenientes de los incentivos de premio inmediato del juego territorial
 
@@ -13436,8 +12548,6 @@ SECCIÓN 1.
 
 REGLAS PARTICULARES PARA LOS RECURSOS DE LOTTO EN LÍNEA
 
-ARTÍCULO
-
 ## art:2.7.9.1.1.1 — Financiación del pasivo pensional del sector salud con recursos del FONPET por concepto del lotto en línea
 
 Los Departamentos, Municipios y Distritos que posean recursos en el FONPET derivados de recaudos por concepto del Lotto en Línea y respecto de los cuales existan obligaciones pendientes relacionadas con la financiación de pasivos pensionales del sector salud, causado a 31 de diciembre de 1993, podrán hacer uso de ellos como fuente de financiación de la concurrencia a su cargo, en la siguiente forma:
@@ -13448,8 +12558,6 @@ b) Los entes territoriales con los cuales ya se han suscrito contratos de concur
 
 (Art. 1 Decreto 4812 de 2011)
 
-ARTÍCULO
-
 ## art:2.7.9.1.1.2 — Giro de los recursos del FONPET
 
 Para efecto del giro de los recursos del FONPET a los patrimonios autónomos o encargos fiduciarios constituidos para la administración de los recursos de la concurrencia, la entidad territorial presentará solicitud del giro de los recursos a la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público, señalando la cuenta a la cual deben girarse los recursos de acuerdo con lo establecido en el contrato de concurrencia. Para el caso de las entidades territoriales contempladas en los artículos 2.7.9.1.1.3. y siguientes la solicitud deberá incluir la certificación de la cuenta a la que se deben girar los recursos destinados a la atención de los servicios de salud.
@@ -13459,8 +12567,6 @@ La Dirección General de Regulación Económica de la Seguridad Social del Minis
 Las entidades territoriales deberán realizar por su cuenta las operaciones presupuestales necesarias para efectos de la transferencia de los recursos de que trata la presente sección.
 
 (Art. 2 Decreto 4812 de 2011)
-
-ARTÍCULO
 
 ## art:2.7.9.1.1.3 — Destinación de los recursos acumulados provenientes del Lotto en Línea
 
@@ -13478,8 +12584,6 @@ PARÁGRAFO . Es responsabilidad del representante legal de la entidad territoria
 
 (Art. 1 Decreto 728 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.9.1.1.4 — Destinación de los recursos provenientes del Lotto en Línea
 
 Los recursos provenientes del Lotto en Línea que se generen en nombre de la entidad territorial con posterioridad a la fecha en que se determine la inexistencia de obligaciones pensionales de estas entidades con el sector salud o que se establezca que dichas obligaciones se encuentran plenamente financiadas, se destinarán a la cofinanciación del Régimen Subsidiado de salud de la respectiva entidad territorial.
@@ -13492,8 +12596,6 @@ PARÁGRAFO . La aplicación de los recursos según lo previsto en el presente ar
 
 (Art. 2 Decreto 728 de 2013)
 
-ARTÍCULO
-
 ## art:2.7.9.1.1.5 — Giro de los recursos del Lotto en Línea
 
 Con base en las solicitudes de las entidades territoriales al FONPET y una vez acreditados los términos y condiciones del 2.7.9.1.1.1 de la presente sección, el Ministerio de Hacienda y Crédito Público, en su calidad de administrador del FONPET, girará los recursos del Lotto en Línea destinados a la cofinanciación del aseguramiento en el Régimen Subsidiado al mecanismo de recaudo y giro a que refiere el Decreto 4962 de 2011 o aquella norma que lo modifique o compile, para que sean contabilizados como parte de la cofinanciación a cargo del municipio o del departamento, según el caso, de lo cual, se informará por parte del Ministerio de Hacienda y Crédito Público a la respectiva entidad territorial.
@@ -13503,8 +12605,6 @@ Para los recursos que se generen en nombre de la entidad territorial, con poster
 Para el pago de las deudas por contratos del Régimen Subsidiado, el Ministerio de Hacienda y Crédito Público en su calidad de administrador del FONPET y previa solicitud de las entidades territoriales, procederá al giro de los recursos acumulados del Lotto a la fecha de la solicitud, al mecanismo de recaudo y giro a que refiere el Decreto 4962 de 2011 o aquella norma que lo modifique o compile, para que este proceda a girarlos aplicando en lo pertinente, el procedimiento previsto en el Decreto 1080 de 2012 o aquella norma que lo modifique o compile,. Así mismo, cuando estos recursos se usen en virtud de lo establecido en los programas de saneamiento fiscal y financiero, los recursos se girarán a las Instituciones Prestadoras de Servicios de Salud en el marco de los programas respectivos. En los casos de la inversión en infraestructura, los recursos se girarán a la Entidad Territorial respectiva o al Prestador correspondiente dependiendo del tipo de inversión que se realice.
 
 (Art. 3 Decreto 728 de 2013)
-
-ARTÍCULO
 
 ## art:2.7.9.1.1.6 — Registros contables y presupuestales
 
@@ -13516,15 +12616,11 @@ CAPÍTULO 2
 
 COMPENSACIÓN POR DISMINUCIONES EN EL RECAUDO DE DERECHOS DE EXPLOTACIÓN DEL JUEGO DE LAS APUESTAS PERMANENTES O CHANCE
 
-ARTÍCULO
-
 ## art:2.7.9.2.1 — Compensación
 
 El presente capítulo tiene por objeto definir el procedimiento para llevar a cabo la compensación de que trata el parágrafo del artículo 4 de la Ley 1393 de 2010, cuyas previsiones aplicarán a los Departamentos y al Distrito Capital cuando presenten disminuciones en términos constantes del recaudo por concepto de derechos de explotación del juego de las apuestas permanentes o chance, frente a lo recaudado por este mismo concepto en el año 2009.
 
 (Art. 1 Decreto 2550 de 2012)
-
-ARTÍCULO
 
 ## art:2.7.9.2.2 — Procedimiento para efectuar la compensación
 
@@ -13546,15 +12642,11 @@ PARÁGRAFO . Validación de la información. Para efectos de aplicar el procedim
 
 (Art. 2 Decreto 2550 de 2012)
 
-ARTÍCULO
-
 ## art:2.7.9.2.3 — Financiamiento de la compensación
 
 El Ministerio de Hacienda y Crédito Público, realizará la compensación de que trata este capítulo a más tardar dentro de los dos (2) meses siguientes a la fecha de las certificaciones de que trata el artículo anterior, con cargo a los recursos recaudados por concepto del IVA aplicable al juego de las apuestas permanentes o chance.
 
 (Art. 3 Decreto 2550 de 2012)
-
-ARTÍCULO
 
 ## art:2.7.9.2.4 — Giro de los recursos
 
@@ -13570,8 +12662,6 @@ RÉGIMEN PRESUPUESTAL
 
 REGLAMENTACIÓN DE LAS LEYES ORGÁNICAS DE PRESPUESTO
 
-ARTÍCULO
-
 ## art:2.8.1.1 — Campo de aplicación
 
 El presente título rige para los órganos nacionales que conforman la cobertura del Estatuto Orgánico del Presupuesto.
@@ -13582,8 +12672,6 @@ CAPITULO 1
 
 SISTEMA PRESUPUESTAL
 
-ARTÍCULO
-
 ## art:2.8.1.1.1 — Objetivos y Conformación del Sistema Presupuestal
 
 Son objetivos del Sistema Presupuestal: El equilibrio entre los ingresos y los gastos públicos que permita la sostenibilidad de las finanzas públicas en el mediano plazo; la asignación de los recursos de acuerdo con las disponibilidades de ingresos y las prioridades de gasto y la utilización eficiente de los recursos en un contexto de transparencia.
@@ -13591,8 +12679,6 @@ Son objetivos del Sistema Presupuestal: El equilibrio entre los ingresos y los g
 El Sistema Presupuestal está constituido por el Plan Financiero, incluido en el Marco Fiscal de Mediano Plazo; el Presupuesto Anual de la Nación y el Plan Operativo Anual de Inversiones.
 
 (Art. 2 Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.1.2 — Plan Financiero
 
@@ -13604,8 +12690,6 @@ El plan deberá ser aprobado antes de la presentación del proyecto de Presupues
 
 (Art. 2 Decreto 568 de 1996; Modificado por el Decreto 412 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.8.1.1.3 — Seguimiento al Marco Fiscal de Mediano Plazo
 
 El CONFIS velará por el cumplimiento del Marco Fiscal de Mediano Plazo, para lo cual hará un seguimiento detallado de manera que, si hay cambios en las condiciones económicas, recomiende la adopción de las medidas necesarias para propender por el equilibrio macroeconómico.
@@ -13613,8 +12697,6 @@ El CONFIS velará por el cumplimiento del Marco Fiscal de Mediano Plazo, para lo
 El seguimiento se realizará de manera independiente y detallada de acuerdo con la metodología que para el efecto establezca el CONFIS.
 
 (Art. 3 Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.1.4 — Proyecciones Sectoriales
 
@@ -13629,8 +12711,6 @@ Adicionalmente, el Marco de Gasto de Mediano Plazo propondrá reglas para la dis
 CAPÍTULO 2
 
 EL CICLO PRESUPUESTAL
-
-ARTÍCULO
 
 ## art:2.8.1.2.1 — Ciclo Presupuestal
 
@@ -13650,15 +12730,11 @@ El ciclo presupuestal comprende:
 
 (Art. 5 Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.2.2 — Divulgación del Ciclo Presupuestal
 
 La programación, aprobación, modificación y ejecución, seguimiento y evaluación así como los informes periódicos y finales del ciclo presupuestal, son de conocimiento público.
 
 (Art. 6 Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.2.3 — Sistemas de Clasificación Presupuestal
 
@@ -13671,8 +12747,6 @@ El Catálogo de Clasificación Presupuestal es la base de todos los sistemas de 
 Para efectos del ciclo presupuestal se podrá utilizar los sistemas de clasificación funcional y económica, sin perjuicio de lo dispuesto en el artículo 2.8.1.4.2. del presente título.
 
 (Art. 7 Decreto 4730 de 2005; Modificado por el Decreto 412 de 2018, art. 2))
-
-ARTÍCULO
 
 ## art:2.8.1.2.4 — Clasificación económica
 
@@ -13688,8 +12762,6 @@ La clasificación económica incluirá los siguientes componentes:
 
 (Art. 8 Decreto 4730 de 2005; Modificado por el Decreto 412 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.8.1.2.5 — Catálogo Único de clasificación Presupuestal Territorial
 
 El Ministerio de Hacienda y Crédito Público expedirá y actualizará el Catálogo de Clasificación Presupuestal para Entidades Territoriales y sus Descentralizadas - CCPET, que detalle los ingresos y los gastos en armonía con estándares internacionales y con el nivel nacional.
@@ -13703,8 +12775,6 @@ PARÁGRAFO 2: El Ministerio de Hacienda y Crédito Público establecerá un serv
 CAPÍTULO 3
 
 PROGRAMACIÓN DEL ANTEPROYECTO Y PROYECTO DE PRESUPUESTO GENERAL DE LA NACIÓN
-
-ARTÍCULO
 
 ## art:2.8.1.3.1 — Remisión de anteproyectos de presupuesto al Ministerio de Hacienda y Crédito Público
 
@@ -13722,15 +12792,11 @@ PARÁGRAFO 3. La Comisión para el Esclarecimiento de la Verdad, la Convivencia 
 
 (Art. 3 Decreto 761 de 2018)
 
-ARTÍCULO
-
 ## art:2.8.1.3.2 — Envío al Congreso de Anteproyecto de Presupuesto
 
 El Gobierno Nacional, a través del Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Nacional- enviará los anteproyectos de presupuesto de rentas y gastos elaborados por cada órgano a las comisiones económicas de Senado y Cámara durante la primera semana del mes de abril de cada año.
 
 (Art. 13 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.3.3 — Comités Sectoriales de Presupuesto
 
@@ -13740,8 +12806,6 @@ En las discusiones de los Comités Sectoriales, se consultará las evaluaciones 
 
 (Art. 9 Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.3.4 — Elaboración del Marco de Gasto de Mediano Plazo
 
 Antes del 15 de julio de cada vigencia fiscal, el Ministerio de Hacienda y Crédito Público, en coordinación con el Departamento Nacional de Planeación, elaborará y someterá el Marco de Gasto de Mediano Plazo para aprobación por parte del Consejo Nacional de Política Económica y Social, Conpes, sesión a la cual deberán asistir todos los Ministros del Despacho.
@@ -13750,23 +12814,17 @@ El proyecto de Presupuesto General de la Nación coincidirá con las metas del p
 
 (Art. 10 Decreto 4730 de 2005, modificado por el Art. 4 del Decreto 1957 de 2007)
 
-ARTÍCULO
-
 ## art:2.8.1.3.5 — Elaboración del Plan Operativo Anual de Inversiones
 
 Antes del 15 de julio, el Departamento Nacional de Planeación, en coordinación con el Ministerio de Hacienda y Crédito Público y las secciones presupuestales, presentarán el Plan Operativo Anual de Inversiones para su aprobación por el CONPES. El Plan será elaborado con base en los resultados de los Comités Sectoriales de que trata el artículo 2.8.1.3.3., incluyendo los proyectos debidamente inscritos y evaluados en el Banco de Proyectos de Inversión y guardará consistencia con el Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo.
 
 (Art. 11 Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.3.6 — Recursos de Crédito Interno y Externo - Incorporación al Presupuesto
 
 Los recursos del crédito interno y externo con vencimiento mayor a un año se incorporarán al Presupuesto General de la Nación de acuerdo con los cupos autorizados por el Congreso de la República y las estimaciones de la Dirección General de Crédito Público del Ministerio de Hacienda.
 
 (Art. 11 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.3.7 — Recursos Administrados por Terceros
 
@@ -13777,8 +12835,6 @@ La Dirección General del Presupuesto Nacional y el Departamento Nacional de Pla
 CAPÍTULO 4
 
 PRESENTACIÓN DEL PROYECTO DE PRESUPUESTO AL CONGRESO DE LA REPÚBLICA
-
-ARTÍCULO
 
 ## art:2.8.1.4.1 — Mensaje Presidencial
 
@@ -13800,15 +12856,11 @@ Adicionalmente, se podrá presentar anexos con otras clasificaciones, siguiendo 
 
 (Art. 14 Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.4.2 — Clasificación del Proyecto de presupuesto
 
 El proyecto de presupuesto de Gastos se presentará al Congreso de la República clasificado en secciones presupuestales distinguiendo entre cada una los gastos de funcionamiento, servicio de la deuda pública y los gastos de inversión. Los gastos de inversión se clasificarán en Programas y subprogramas.
 
 (Art. 14 Decreto 568 de 1996; Modificado por el Decreto 412 de 2018, art. 5)
-
-ARTÍCULO
 
 ## art:2.8.1.4.3 — Objetivos de gasto
 
@@ -13817,8 +12869,6 @@ En desarrollo de lo dispuesto en el artículo 7 de la Ley 819 de 2003, la ley qu
 PARÁGRAFO . El Gobierno Nacional en la presentación del Proyecto de Ley Anual de Presupuesto, incluirá un anexo donde se evalúe el cumplimiento de los objetivos establecidos en leyes que autorizaron la creación de rentas de destinación específica. Si los objetivos se han cumplido, se propondrá un proyecto de ley en el que se proponga derogar la ley que creó la renta de destinación específica.
 
 (Art. 13 Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.4.4 — Proyecto de Presupuesto Presentado
 
@@ -13830,8 +12880,6 @@ CAPITULO 5
 
 LIQUIDACIÓN DEL PRESUPUESTO
 
-ARTÍCULO
-
 ## art:2.8.1.5.1 — Decreto de Liquidación del Presupuesto
 
 La Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público preparará el decreto de liquidación del presupuesto el cual contendrá un anexo que incluirá el detalle desagregado de la composición de las rentas y apropiaciones aprobados por el Congreso de la República. Adicionalmente, se podrá incluir un documento con las metas que deben cumplir las entidades con las apropiaciones asignadas.
@@ -13840,8 +12888,6 @@ Cuando las partidas se incorporen en numerales rentísticos, secciones, programa
 
 (Art. 15 Decreto 4730 de 2005, Inciso 3 derogado por el artículo 33 el Decreto 2844 de 2010)
 
-ARTÍCULO
-
 ## art:2.8.1.5.2 — Anexo del Decreto de Liquidación
 
 El anexo del decreto de liquidación del presupuesto en lo correspondiente a gastos incluirá, además de las clasificaciones contempladas en el artículo 2.8.1.4.2, la desagregación para el caso de inversión, identificando los proyectos asociados a los programas de inversión y para el caso de funcionamiento y servicio de la deuda de acuerdo a las cuentas, subcuentas y objetos de gasto que determine el Catálogo de Clasificación Presupuestal - CCP que establezca la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público con sujeción a lo establecido en el Estatuto Orgánico de Presupuesto y en armonía con el estándar internacional de finanzas públicas.
@@ -13849,8 +12895,6 @@ El anexo del decreto de liquidación del presupuesto en lo correspondiente a gas
 Igualmente, la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público establecerá las Unidades Ejecutoras Especiales, que se identifiquen
 
 (Art. 16 Decreto 568 de 1996; Modificado por el artículo 1 del Decreto 2260 de 1996, modificado por el Art. 16 del Decreto 4730 de 2005; el literal a) modificado parcialmente por el Art. 1 del Decreto 3487 de 2007; y el numeral 7 del literal d) modificado parcialmente por el Art. 1 del Decreto 315 de 2008; Modificado por el Decreto 412 de 2018, art. 6)
-
-ARTÍCULO
 
 ## art:2.8.1.5.3 — Desagregación de Gastos
 
@@ -13862,23 +12906,17 @@ Asimismo, los recursos y sus correspondientes códigos de identificación que ap
 
 (Art. 18 Decreto 568 de 1996, modificado en el inciso primero por el Art. 2 del Decreto 2260 de 1996; Modificado por el Decreto 412 de 2018, art. 7).
 
-ARTÍCULO
-
 ## art:2.8.1.5.4 — Registros Internos
 
 Las entidades que se encuentren en capacidad de estructurar e identificar la información presupuestal relacionada con los gastos de personal y generales y de subprogramas de inversión, atendiendo a la clasificación contable de gastos de administración y de operación, los primeros, y de formación bruta de capital y gastos operativos, los segundos, pueden manejarla a nivel de registros internos, sin afectar el marco legal y general que rige para los efectos de la liquidación y ejecución presupuestal.
 
 (Art. 4 Decreto 2260 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.5.5 — Ajuste al valor de rentas constitutivas de recursos de capital
 
 El Ministro de Hacienda y Crédito Público, tomando en cuenta el comportamiento de las rentas y previo concepto del CONFIS, podrá ajustar mediante resolución el valor de las rentas constitutivas de los recursos de capital sin exceder el monto de estos aprobado en la ley anual de presupuesto para la respectiva vigencia fiscal.
 
 (Art. 1 Decreto 3245 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.5.6 — Modificaciones al Detalle del Gasto
 
@@ -13902,15 +12940,11 @@ Lo anterior, para continuar el trámite de estas operaciones presupuestales ante
 
 (Adicionado por el Art. 1 del Decreto 0313 de 2024)
 
-ARTÍCULO
-
 ## art:2.8.1.5.7 — Clasificación de los Ingresos
 
 Los conceptos de ingreso del presupuesto de rentas y recursos de capital del Presupuesto General de la Nación, Ingresos de la Nación, contribuciones parafiscales de que trata el artículo 29 del Estatuto Orgánico del Presupuesto - EOP, fondos especiales de que trata el artículo 30 del EOP y los ingresos de los establecimientos públicos nacionales de que trata el artículo 34 del EOP se clasificarán y desagregarán de acuerdo al Catálogo de Clasificación Presupuestal - CCP que establezca la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público con sujeción a lo establecido en el EOP, en armonía con el estándar internacional de finanzas públicas, siempre y cuando cumplan con las autorizaciones normativas para obtener recursos de las respectivas fuentes señaladas en el presente artículo, por lo que su utilización se sujeta a la aprobación de la solicitud de autorización de la entidad ante la Dirección General del Presupuesto Público Nacional.
 
 (Art. 9, Decreto 412 de 2018)
-
-ARTÍCULO
 
 ## art:2.8.1.5.8 — Administración del Catálogo de Clasificación Presupuestal - CCP
 
@@ -13930,15 +12964,11 @@ Las solicitudes de administración del catálogo hechas por las entidades a la D
 
 (Art. 10, Decreto 412 de 2018)
 
-ARTÍCULO
-
 ## art:2.8.1.5.9 — Servicios Compartidos
 
 Cuando las entidades que conforman el Presupuesto General de la Nación realicen convenios interadministrativos que comprendan la realización de servicios compartidos para el desarrollo y administración de actividades de gestión de programación o ejecución del presupuesto, deberán garantizar el cumplimiento de la normativa y de las metodologías establecidas por el Estatuto Orgánico de Presupuesto, las normas que lo reglamentan y las instrucciones de la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público y la Dirección de Inversiones y Finanzas Públicas del Departamento Nacional de Planeación para cada una de las entidades y las que de manera expresa se señalen para el efecto, de manera que en el convenio debe indicarse por lo menos los procedimientos, trámites, clasificaciones, cronogramas y capacidad institucional de las partes, sus responsabilidades y garantía de información en calidad y oportunidad dentro de los tiempos establecidos "
 
 (Art. 11, Decreto 412 de 2018)
-
-ARTÍCULO
 
 ## art:2.8.1.5.10 — Periodo de transición
 
@@ -13947,8 +12977,6 @@ La aplicación del Catálogo de Clasificación Presupuestal - CCP de que trata e
 La programación del presupuesto que se realice durante la vigencia 2018 deberá efectuarse de acuerdo con lo establecido por la Dirección General del Presupuesto Público Nacional para la implementación del Catálogo de Clasificación Presupuestal - CCP de que trata el presente decreto.
 
 (Art. 12, Decreto 412 de 2018)
-
-ARTÍCULO
 
 ## art:2.8.1.5.11 — Normas transitorias relacionadas con el Catálogo de Clasificación Presupuestal - CCP
 
@@ -13964,8 +12992,6 @@ CAPÍTULO 6
 
 INEMBARGABILIDAD DE RENTAS Y RECURSOS INCORPORADOS EN EL PRESUPUESTO GENERAL DE LA NACIÓN
 
-ARTÍCULO
-
 ## art:2.8.1.6.1 — Inembargabilidad
 
 Las rentas y recursos incorporados en el Presupuesto General de la Nación son inembargables.
@@ -13978,8 +13004,6 @@ SECCIÓN 1.
 
 INEMBARGABILIDAD DE LOS RECURSOS DEPOSITADOS POR LA NACIÓN EN CUENTAS ABIERTAS EXCLUSIVAMENTE A FAVOR DE LA NACIÓN
 
-ARTÍCULO
-
 ## art:2.8.1.6.1.1 — Inembargabilidad en cuentas abiertas a favor de la Nación
 
 Cuando un embargo de recursos incorporados en el Presupuesto General de la Nación sea ordenado con fundamento en lo dispuesto por el artículo 192 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, sólo se podrá practicar sobre la cuenta o cuentas corrientes que reciban recursos del presupuesto nacional, abiertas a favor de la entidad u organismo condenado en la sentencia respectiva.
@@ -13988,15 +13012,11 @@ PARÁGRAFO . En ningún caso procederá el embargo de los recursos depositados p
 
 (Art. 2 Decreto 1807 de 1994, modificado por Art. 1 Decreto 3861 de 2004)
 
-ARTÍCULO
-
 ## art:2.8.1.6.1.2 — Informe a la Contraloría General de la República
 
 El establecimiento de crédito que reciba una orden de embargo en contravención a lo dispuesto por el presente capítulo, deberá informar inmediatamente a la Contraloría General de la República para que inicie un juicio fiscal contra el funcionario judicial que ordenó el embargo.
 
 (Art. 3 Decreto 1807 de 1994)
-
-ARTÍCULO
 
 ## art:2.8.1.6.1.3 — Medidas cautelares originadas en procesos ejecutivos
 
@@ -14007,8 +13027,6 @@ Así mismo la entidad demandada deberá comunicar a la Contraloría General de l
 El representante legal de la entidad demandada será el responsable de adelantar las gestiones establecidas en la presente sección, sin perjuicio de la obligación de cada órgano de defender los intereses del Estado, debiendo realizar todas las actuaciones procesales necesarias en el curso de los procesos en procura del desembargo de los citados recursos, entre ellas, solicitar al respectivo despacho judicial el cumplimiento de lo previsto en el artículo 594 del Código General del Proceso.
 
 (Art. 5 Decreto 1807 de 1994 adicionado por el Art. 2 Decreto 3861 de 2004)
-
-ARTÍCULO
 
 ## art:2.8.1.6.1.4 — Ejecutoriedad de la sentencia
 
@@ -14024,8 +13042,6 @@ PARÁGRAFO . La Dirección General de Crédito Público y Tesoro Nacional del Mi
 
 (Art. 6 Decreto 1807 de 1994 adicionado por el Art. 3 Decreto 3861 de 2004)
 
-ARTÍCULO
-
 ## art:2.8.1.6.1.5 — Medida cautelar improcedente y levantamiento
 
 Cuando el funcionario judicial considere que la medida cautelar era improcedente y en consecuencia ordene el levantamiento de la misma, la entidad demandada deberá proceder a consignar los recursos embargados, en la cuenta que para el efecto indique la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público. Así mismo deberá reversar el registro contable de reconocimiento del embargo, cancelando la obligación para con la Dirección General de Crédito Público y Tesoro Nacional, conforme al procedimiento establecido por la Contaduría General de la Nación.
@@ -14036,8 +13052,6 @@ CAPÍTULO 7
 
 EJECUCIÓN DEL PRESUPUESTO
 
-ARTÍCULO
-
 ## art:2.8.1.7.1 — Requisitos para afectar el presupuesto
 
 Ningún órgano del Presupuesto General de la Nación podrá efectuar gasto público con cargo al Tesoro o transferir crédito alguno que no figure en el presupuesto, o en exceso del saldo disponible, para lo cual, previo a contraer compromisos, se requiere la expedición de un certificado de disponibilidad presupuestal.
@@ -14045,8 +13059,6 @@ Ningún órgano del Presupuesto General de la Nación podrá efectuar gasto púb
 El certificado de disponibilidad y el registro presupuestal, podrán expedirse a través de medios electrónicos, de conformidad con lo señalado en la Ley 527 de 1999, bajo la entera responsabilidad del funcionario competente, por motivos previamente definidos en la ley, y con las formalidades legales establecidas.
 
 (Art. 18 del Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.7.2 — Certificado de Disponibilidad Presupuestal
 
@@ -14056,15 +13068,11 @@ Este documento afecta preliminarmente el presupuesto mientras se perfecciona el 
 
 (Art. 19 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.3 — Registro Presupuestal
 
 El registro presupuestal es la operación mediante la cual se perfecciona el compromiso y se afecta en forma definitiva la apropiación, garantizando que ésta no será desviada a ningún otro fin. En esta operación se debe indicar claramente el valor y el plazo de las prestaciones a las que haya lugar.
 
 (Art. 20 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.4 — Sistema Único Presupuestal
 
@@ -14080,8 +13088,6 @@ PARÁGRAFO 2. La gestión presupuestal y financiera de los recursos de La Comisi
 
 (Art. 4 Decreto 761 de 2018)
 
-ARTÍCULO
-
 ## art:2.8.1.7.5 — Registro de la ejecución presupuestal en el sistema integrado de información financiera
 
 El registro de la ejecución del presupuesto de rentas y recursos de capital y del presupuesto de gastos del Presupuesto General de la Nación en el Sistema Integrado de Información Financiera SIIF Nación, deberá hacerse de conformidad con el Catálogo de Clasificación Presupuestal - CCP que establezca la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público y en los tiempos que permitan conocer la situación de las finanzas con mayor cercanía al momento de generarse el hecho económico.
@@ -14089,8 +13095,6 @@ El registro de la ejecución del presupuesto de rentas y recursos de capital y d
 PARÁGRAFO . El Departamento Nacional de Planeación para lo de su competencia, tomará la información financiera de la ejecución de la inversión por proyecto y su respectiva relación con los rubros del catálogo de clasificación presupuestal, a través del Sistema Integrado de Información Financiera SIIF Nación
 
 (Art. 5 Decreto 4836 de 2011; Modificado por el Decreto 412 de 2018, art. 14)
-
-ARTÍCULO
 
 ## art:2.8.1.7.6 — Ejecución compromisos presupuestales
 
@@ -14106,23 +13110,17 @@ PARÁGRAFO 2.- Las entidades ejecutoras del Presupuesto General de la Nación de
 
 (Art. 1 Decreto 1957 de 2007, modificado por el art. 3 del Decreto 4836 de 2011; Modificado por el Decreto 412 de 2018, art. 15)
 
-ARTÍCULO
-
 ## art:2.8.1.7.7 — Recursos entregados a través de negocios jurídicos que no desarrollan objeto de la apropiación
 
 Los recursos entregados para ser manejados a través de negocios jurídicos que no desarrollen el objeto de la apropiación, no se constituyen en compromisos presupuestales que afecten la apropiación respectiva, con excepción de la remuneración pactada por la prestación de este servicio.
 
 (Art. 21 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.8 — Ejecución de recursos entregados a entidades fiduciarias
 
 Los órganos públicos fideicomitentes para la celebración de contratos o expedición de actos administrativos con cargo a los recursos que manejen las entidades fiduciarias, deberán realizar todos los trámites presupuestales, incluyendo los certificados de disponibilidad, los registros presupuestales y la solicitud de vigencias futuras.
 
 (Art. 22 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.9 — Vigilancia de los órganos de control interno en las conciliaciones
 
@@ -14131,8 +13129,6 @@ Las oficinas de control interno de los diferentes órganos públicos ejercerán 
 Los órganos que hacen parte del Presupuesto Nacional para cancelar los créditos judicialmente reconocidos, conciliaciones y laudos arbitrales proferidos antes del 30 de abril de 1995, deberán contar con una certificación expedida por el Ministerio de Hacienda y Crédito Público, en la cual conste que éstos no han sido cancelados ni se encuentra en trámite ninguna solicitud de pago.
 
 (Art. 23 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.10 — Fondo de Compensación Interministerial
 
@@ -14148,8 +13144,6 @@ SECCIÓN 1.
 
 VIGENCIAS FUTURAS
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.1 — Autorizaciones de Vigencias futuras ordinarias en ejecución de contratos
 
 De conformidad con el artículo 10 de la Ley 819 de 2003, el Confis o su delegado podrá autorizar la asunción de obligaciones que afecten presupuestos de vigencias futuras con el fin de adicionar los contratos que se encuentren en ejecución, sin que se requiera expedir un nuevo certificado de disponibilidad presupuestal.
@@ -14160,15 +13154,11 @@ La autorización para comprometer vigencias futuras procederá siempre y cuando 
 
 (Art. 8 Decreto 4836 de 2011)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.2 — Validación del Impacto Fiscal de la Declaratoria de Importancia Estratégica
 
 La declaratoria de importancia estratégica por parte del CONPES a que se refiere el artículo 10 de la Ley 819 de 2003, requerirá del concepto previo y favorable del CONFIS, donde se valide la consistencia con el Marco de Gasto de Mediano Plazo y el Marco Fiscal de Mediano Plazo.
 
 (Art. 21 del Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.7.1.3 — Viabilidad fiscal para la aprobación de vigencias futuras excepcionales
 
@@ -14178,8 +13168,6 @@ La presente disposición se aplica a las Empresas Industriales y Comerciales del
 
 (Art. 23 del Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.4 — Excepción a las Vigencias Futuras
 
 Los contratos de empréstito, la emisión, suscripción y colocación de títulos de deuda pública, los créditos de proveedores, las asunciones de deuda pública y las contrapartidas que se estipulen, no requieren de autorización por parte del CONFIS para asumir obligaciones que afecten presupuestos de vigencias futuras. Dichos contratos se regirán por las normas que regulan las operaciones de crédito público.
@@ -14188,23 +13176,17 @@ La presente disposición se aplica a las Empresas Industriales y Comerciales del
 
 (Art. 22 del Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.5 — Operaciones de Crédito Público
 
 Para efectos del artículo 3 de la Ley 225 de 1995, se entiende por contratos de empréstito las operaciones de crédito público definidas en el parágrafo 2 del artículo 41 de la Ley 80 de 1993.
 
 (Art. 5 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.6 — Créditos de proveedores
 
 Para la suscripción de los créditos de proveedores se tendrán en cuenta los mismos requisitos presupuestales establecidos para los contratos de empréstito. Su ejecución se realizará de conformidad con los requisitos establecidos en cada contrato en particular.
 
 (Art. 8 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.1.7 — Vigencias Futuras Negocios fiduciarios
 
@@ -14214,23 +13196,17 @@ El anterior requisito será igualmente necesario en caso de la adición, prórro
 
 (Art. 3 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.8 — Autorización de Vigencias Futuras sin especificar su valor
 
 El Consejo Superior de Política Fiscal - CONFIS- o quien éste delegue podrá autorizar la asunción de compromisos que afecten presupuestos de vigencias futuras sin especificar su valor, cuando se trate de la administración de fondos especiales o contribuciones parafiscales sujetos al monto de las apropiaciones presupuestales que se hagan en la respectiva vigencia.
 
 (Art. 4 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.9 — Reducción o eliminación de las autorizaciones de vigencias futuras
 
 El Consejo Superior de Política Fiscal - CONFIS- cuando lo considere conveniente por razones de coherencia macroeconómica o por cambios en las prioridades sectoriales, podrá reducir o eliminar las autorizaciones de vigencias futuras. En estos casos, el CONFIS no podrá reducir o eliminar las autorizaciones de vigencias futuras que amparen compromisos perfeccionados.
 
 (Art. 6 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.1.10 — Caducidad de las vigencias futuras y los avales fiscales
 
@@ -14240,15 +13216,11 @@ Las entidades con avales fiscales otorgados deberán tramitar solicitud de autor
 
 (Art. 7 Decreto 568 de 1996; Modificado por el Decreto 412 de 2018, art. 16)
 
-ARTÍCULO
-
 ## art:2.8.1.7.1.11 — Vigencias futuras en procesos de selección
 
 Los procesos de selección amparados con vigencias futuras excepcionales que no se adjudiquen en la vigencia fiscal en que se autorizaron, requerirán una nueva autorización, antes de su perfeccionamiento, sin que sea necesario reiniciar el proceso de selección.
 
 (Art. 2 del Decreto 3629 de 2004).
-
-ARTÍCULO
 
 ## art:2.8.1.7.1.12 — .12
 
@@ -14257,8 +13229,6 @@ Afectación del presupuesto para procesos de selección en trámite: Cuando quie
 Lo previsto en el inciso anterior sólo procederá cuando los ajustes presupuestales requeridos para tal fin impliquen modificaciones al anexo del decreto de liquidación que no modifiquen en cada sección presupuestal el monto total de sus apropiaciones de funcionamiento, o los subprogramas de inversión aprobados por el Congreso.
 
 (Art. 3 Decreto 1957 de 2007)
-
-ARTÍCULO
 
 ## art:2.8.1.7.1.13 — .13
 
@@ -14273,8 +13243,6 @@ En dichos contratos no se podrán pactar pagos por montos superiores a las respe
 SECCIÓN 2.
 
 PROGRAMA ANUAL MENSUALIZADO DE CAJA - PAC
-
-ARTÍCULO
 
 ## art:2.8.1.7.2.1 — Programa Anual Mensualizado de Caja
 
@@ -14292,23 +13260,17 @@ Los desembolsos de los contratos celebrados por los órganos que conforman el Pr
 
 (Art. 26 del Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.7.2.2 — Aprobación del PAC
 
 El CONFIS con fundamento en las metas máximas de pago establecidas en el Plan Financiero aprobará el Programa Anual de Caja, PAC, con recursos de la Nación. Las juntas o consejos directivos o el representante legal del órgano, si no existen juntas o consejos directivos, aprobarán el PAC y sus modificaciones con ingresos propios de los establecimientos públicos, con fundamento en las metas globales de pagos fijadas por el CONFIS.
 
 (Art. 24 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.2.3 — Aplicación específica disposiciones PAC
 
 Las disposiciones establecidas en el presente capítulo que hacen referencia a las competencias de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público con relación al Programa Anual Mensualizado de Caja - PAC se aplican únicamente a los recursos del Presupuesto Nacional.
 
 (Art. 25 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.2.4 — Clasificación de los Recursos Nación en el PAC
 
@@ -14322,15 +13284,11 @@ c) Gastos de inversión.
 
 (Art. 26 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.2.5 — Ajustes al PAC
 
 Cuando se efectúen traslados presupuestales con cargo al Fondo de Compensación Interministerial, la Dirección General de Crédito Público y Tesoro Nacional hará de oficio los ajustes al programa anual mensualizado de caja y los comunicará a los órganos afectados. Igual procedimiento se aplicará cuando se efectúen las distribuciones del Presupuesto Nacional autorizadas por las disposiciones generales de la ley anual del presupuesto.
 
 (Art. 27 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.2.6 — Expedición Manual de Tesorería PAC
 
@@ -14338,15 +13296,11 @@ La Dirección General de Crédito Público y Tesoro Nacional expedirá un Manual
 
 (Art. 28 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.2.7 — Solicitud de PAC a la Dirección General de Crédito Público y Tesoro Nacional
 
 Los órganos presentarán su solicitud de PAC a la Dirección General de Crédito Público y Tesoro Nacional antes del 20 de diciembre, diferenciando los pagos que correspondan a recursos del crédito externo y donaciones del exterior, cuando en éstos se haya estipulado mecanismos especiales de ejecución.
 
 (Art. 29 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.2.8 — Modificaciones PAC
 
@@ -14354,15 +13308,11 @@ Las solicitudes de modificación al PAC, deberán ser presentadas por los órgan
 
 (Art. 31 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.2.9 — Límite Desembolsos de Contratos
 
 Los desembolsos de los contratos celebrados por los órganos que forman parte del Presupuesto General de la Nación deberán pactarse hasta la cuantía de los montos aprobados en el Programa Anual Mensualizado de Caja, PAC.
 
 (Art. 33 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.2.10 — Seguimiento al Programa Anual Mensualizado de Caja
 
@@ -14374,8 +13324,6 @@ SECCIÓN 3.
 
 RESERVAS PRESUPUESTALES Y CUENTAS POR PAGAR
 
-ARTÍCULO
-
 ## art:2.8.1.7.3.1 — Reservas presupuestales y cuentas por pagar
 
 A través del Sistema Integrado de Información Financiera SIIF Nación se definirán, cada vigencia y con corte a 31 de diciembre de la vigencia fiscal anterior, las reservas presupuestales y cuentas por pagar de cada una de las secciones del Presupuesto General de la Nación.
@@ -14383,8 +13331,6 @@ A través del Sistema Integrado de Información Financiera SIIF Nación se defin
 Las reservas presupuestales corresponderán a la diferencia entre los compromisos y las obligaciones, y las cuentas por pagar a la diferencia entre las obligaciones y los pagos.
 
 (Art. 6 Decreto 4836 de 2011)
-
-ARTÍCULO
 
 ## art:2.8.1.7.3.2 — Constitución de reservas presupuestales y cuentas por pagar
 
@@ -14396,23 +13342,17 @@ Las cuentas por pagar y las reservas presupuestales que no se hayan ejecutado a 
 
 (Art. 7 Decreto 4836 de 2011; Modificado por el Decreto 412 de 2018, art. 17)
 
-ARTÍCULO
-
 ## art:2.8.1.7.3.3 — Fenecimiento de Reservas Presupuestales y Cuentas por pagar
 
 Las reservas presupuestales y cuentas por pagar constituidas por los órganos que conforman el Presupuesto General de la Nación, que no se ejecuten durante el año de su vigencia fenecerán.
 
 (Art. 38 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.7.3.4 — 3.4
 
 Extinción del compromiso u obligación fundamento de Reservas Presupuestales y Cuentas por pagar.Si durante el año de la vigencia de la reserva o cuenta por pagar desaparece el compromiso u obligación que las originó, el ordenador del gasto y el jefe de presupuesto elaborarán un acta, la cual será enviada a la Dirección General de Crédito Público y Tesoro Nacional para los ajustes respectivos.
 
 (Art. 39 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.7.3.5 — Reducción al Presupuesto de acuerdo con el monto de reservas presupuestales
 
@@ -14426,8 +13366,6 @@ CAPÍTULO 8
 
 SEGUIMIENTO Y EVALUACIÓN
 
-ARTÍCULO
-
 ## art:2.8.1.8.1 — Seguimiento y Evaluación Presupuestal
 
 El Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional realizará el seguimiento y evaluación del Presupuesto General de la Nación, con base en la información registrada en el Sistema Integrado de Información Financiera SIIF Nación. Lo anterior, sin perjuicio de la información adicional que la Dirección solicite y que no se encuentre disponible en el sistema.
@@ -14437,8 +13375,6 @@ El Departamento Nacional de Planeación realizará el seguimiento y evaluará la
 Cuando los órganos que conforman el Presupuesto General de la Nación no registren la información en el Sistema Integrado de Información Financiera SIIF Nación, o en el Sistema Unificado de Inversión y Finanzas Públicas, o no reporten la información que requiera la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público y/o la Dirección de Inversiones y Finanzas Públicas del Departamento Nacional de Planeación para dar cumplimiento a lo establecido en el artículo 92 del Estatuto Orgánico del Presupuesto, estos podrán abstenerse de adelantar los trámites presupuestales que dichos órganos presenten para su aprobación o concepto favorable.
 
 (Art. 34 del Decreto 4730 de 2005 modificado por el art. 2 del Decreto 4836 de 2011; Modificado por el Decreto 412 de 2018, art. 18)
-
-ARTÍCULO
 
 ## art:2.8.1.8.2 — Seguimiento del CONFIS
 
@@ -14450,8 +13386,6 @@ CAPÍTULO 9
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.8.1.9.1 — Inversiones del Fondo de Superávit de la Nación
 
 Las inversiones de los recursos del fondo de superávit de la Nación, constituido de acuerdo con lo dispuesto en el artículo 22 del Estatuto Orgánico del Presupuesto, se harán por la Dirección General de Crédito Público y Tesoro Nacional, de acuerdo con las atribuciones que le confieren el Estatuto Orgánico de Presupuesto y demás normas concordantes y pertinentes.
@@ -14460,15 +13394,11 @@ Podrán constituirse inversiones financieras en el país, siempre y cuando no af
 
 (Art. 32 Decreto 568 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.1.9.2 — Gastos funcionamiento CONFIS
 
 El Ministerio de Hacienda y Crédito Público con cargo a su presupuesto atenderá los gastos que ocasione el funcionamiento del Consejo Superior de Política Fiscal CONFIS.
 
 (Art. 40 Decreto 568 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.1.9.3 — Modificaciones a las plantas de personal
 
@@ -14492,23 +13422,17 @@ PARÁGRAFO 2. El Secretario General de la Comisión para el Esclarecimiento de l
 
 (Art. 2 Decreto 761 de 2018)
 
-ARTÍCULO
-
 ## art:2.8.1.9.4 — Liquidación de Rentas de destinación específica
 
 Las liquidaciones de las rentas de destinación específica de que tratan los numerales 2 y 3 del artículo 359 de la Constitución Política, se harán efectivas una vez descontadas las transferencias territoriales de que tratan los artículos 356 y 357 de la Constitución Política, en los términos establecidos en el artículo 7 de la Ley 225 de 1995.
 
 (Art. 1 Decreto 2305 de 2004)
 
-ARTÍCULO
-
 ## art:2.8.1.9.5 — Liquidación de Excedentes Financieros de los Establecimientos Públicos
 
 Los excedentes financieros se calcularán con fundamento en los estados financieros a 31 de diciembre del año inmediatamente anterior, y serán iguales al patrimonio descontando el capital, la reserva legal y las donaciones. Adicionalmente, se tendrá en cuenta la situación de liquidez para determinar la cuantía que se trasladará a la Nación como recursos de capital.
 
 (Art. 25 del Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.9.6 — Modificaciones Presupuestales
 
@@ -14524,8 +13448,6 @@ En caso de que ninguno de los requisitos antes previstos se cumplan, y se requie
 
 (Art. 28 del Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.1.9.7 — Créditos Judicialmente Reconocidos, Laudos Arbitrales y Conciliaciones
 
 Las providencias que se profieran en contra de los Establecimientos Públicos deben ser atendidas con cargo a sus rentas propias y de manera subsidiaria con aportes de la Nación.
@@ -14533,8 +13455,6 @@ Las providencias que se profieran en contra de los Establecimientos Públicos de
 Las proferidas contra cualquier tipo de empresa en las que la Nación o una de sus entidades tengan participación en su capital, serán asumidas con sus propias rentas y activos, sólo se podrán atender subsidiariamente con aportes de la Nación y hasta el monto de su participación en la empresa.
 
 (Art. 32 del Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.1.9.8 — Rendimientos Financieros
 
@@ -14545,8 +13465,6 @@ Los rendimientos financieros originados con recursos de la Nación, incluidos lo
 CAPÍTULO 10
 
 ORDENACIÓN DEL GASTO EN EL CONGRESO DE LA REPÚBLICA
-
-ARTÍCULO
 
 ## art:2.8.1.10.1 — Pasajes aéreos o terrestres
 
@@ -14560,8 +13478,6 @@ Igualmente, la Secretaría General de Senado y de Cámara de Representantes envi
 
 (Art. 4 Decreto 870 de 1989, modificado parcialmente por el Decreto 299 de 2005, modificado por el Art 1. del Decreto 3727 de 2010)
 
-ARTÍCULO
-
 ## art:2.8.1.10.2 — Requisitos para la expedición de pasajes aéreos
 
 La expedición de pasajes aéreos para empleados del honorable Senado de la República y de la honorable Cámara de Representantes, cuando en cumplimiento de sus funciones deban trasladarse fuera de Bogotá, requiere solicitud justificada del inmediato superior y resolución de la Mesa Directiva.
@@ -14572,15 +13488,11 @@ PARÁGRAFO . Los Secretarios Generales de Senado y Cámara, previa autorización
 
 (Art. 5 Decreto 870 de 1989)
 
-ARTÍCULO
-
 ## art:2.8.1.10.3 — Viáticos
 
 El Director Administrativo de cada Cámara, señalará viáticos a los empleados que en cumplimiento de sus funciones deban trasladarse fuera de Bogotá, para ello, se requerirá autorización previa de la Comisión de la Mesa de la respectiva corporación, la cual se otorgará mediante resolución debidamente motivada (artículo 12 de la Ley 52 de 1978).
 
 (Art. 6 Decreto 870 de 1989)
-
-ARTÍCULO
 
 ## art:2.8.1.10.4 — Comisiones al exterior
 
@@ -14588,15 +13500,11 @@ Las comisiones al exterior se tramitarán de acuerdo con las resoluciones que au
 
 (Art. 7 Decreto 870 de 1989)
 
-ARTÍCULO
-
 ## art:2.8.1.10.5 — Régimen de Contratación
 
 La compra de bienes muebles, prestación de servicios y obras públicas y demás contratos necesarios que se requieran para el desempeño de las funciones administrativas, se regirán por lo previsto en la Ley 80 de 1993, y demás normas que lo modifiquen y/o adicionen.
 
 (Art. 8 Decreto 870 de 1989)
-
-ARTÍCULO
 
 ## art:2.8.1.10.6 — Aplicación de la normativa del Presupuesto General de la Nación
 
@@ -14605,8 +13513,6 @@ La ordenación del gasto prevista en el presente capítulo , deberá sujetarse a
 (Art. 14 Decreto 870 de 1989)
 
 PRESUPUESTO DE CONTRIBUCIONES PARAFISCALES
-
-ARTÍCULO
 
 ## art:2.8.2.1 — Campo de aplicación
 
@@ -14626,8 +13532,6 @@ PARÁGRAFO . De conformidad con el inciso tercero del artículo 12 de la Ley 179
 
 (Artículo 1 del Decreto 3035 de 2013, modificado artículo 1 Decreto 1298 de 2014 que elimina el literal f)
 
-ARTÍCULO
-
 ## art:2.8.2.2 — Elaboración y publicación de Presupuestos
 
 Las entidades administradoras de las contribuciones parafiscales a que se refiere el artículo anterior elaborarán sus presupuestos, conforme a la normatividad que les aplique, los cuales deberán ser aprobados por sus órganos directivos en primera instancia, antes de ser sometidos a la aprobación del Consejo Superior de Política Fiscal - CONFIS.
@@ -14636,15 +13540,11 @@ Para garantizar la publicidad y transparencia en la administración de las menci
 
 (Artículo 2 del decreto 3035 de 2013)
 
-ARTÍCULO
-
 ## art:2.8.2.3 — Aprobación y modificación de presupuestos
 
 Corresponde al Consejo Superior de Política Fiscal - CONFIS, establecer las normas y procedimientos para el trámite de aprobación y modificación de los presupuestos de los órganos a los que se refiere el inciso tercero del artículo 12 de la Ley 179 de 1994, modificado por el artículo 81 de la Ley 1687 de 2013.
 
 (Artículo 3 del decreto 3035 de 2013)
-
-ARTÍCULO
 
 ## art:2.8.2.4 — Responsabilidad de Gerentes, Presidentes y Directores
 
@@ -14656,15 +13556,11 @@ Asistirán, en calidad de invitados a las sesiones de aprobación, el Ministro o
 
 PRESUPUESTOS DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO Y DE LAS SOCIEDADES DE ECONOMÍA MIXTA SUJETAS AL RÉGIMEN DE AQUELLAS, DEDICADAS A ACTIVIDADES NO FINANCIERAS
 
-ARTÍCULO
-
 ## art:2.8.3.1 — Campo de aplicación
 
 El presente título se aplica a las Empresas Industriales y Comerciales del Estado y a las Sociedades de Economía Mixta sujetas al régimen de aquellas, del orden nacional dedicadas a actividades no financieras, y a aquellas entidades del orden nacional que la ley les establezca para efectos presupuestales el régimen de Empresas Industriales y Comerciales del Estado. En adelante se denominarán empresas en este título.
 
 (Art. 1 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.2 — Principios presupuestales
 
@@ -14672,15 +13568,11 @@ Los principios presupuestales son: la planificación, la anualidad, la universal
 
 (Art. 2 Decreto 115 de 1996, modificado tácitamente por el artículo 8 de la Ley 1473 de 2011)
 
-ARTÍCULO
-
 ## art:2.8.3.3 — Planificación
 
 El presupuesto deberá guardar concordancia con los contenidos del Plan Nacional de Desarrollo, del Plan de Inversiones, del Plan Financiero y del Plan Operativo Anual de Inversiones.
 
 (Art. 3 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.4 — Anualidad
 
@@ -14688,23 +13580,17 @@ El año fiscal comienza el 1 de enero y termina el 31 de diciembre de cada año.
 
 (Art. 4 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.5 — Universalidad
 
 El presupuesto contendrá la totalidad de los gastos públicos que se espere realizar durante la vigencia fiscal respectiva. En consecuencia ninguna autoridad podrá efectuar gastos públicos, erogaciones con cargo al Tesoro o transferir crédito alguno, que no figuren en el presupuesto.
 
 (Art. 5 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.6 — Unidad de caja
 
 Con el recaudo de todas las rentas y recursos de capital se atenderá el pago oportuno de las apropiaciones autorizadas en el presupuesto.
 
 (Art. 6 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.7 — Programación integral
 
@@ -14714,15 +13600,11 @@ El programa presupuestal incluye las obras complementarias que garanticen su cab
 
 (Art. 7 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.8 — Especialización
 
 Las apropiaciones deben referirse en cada empresa a su objeto y funciones, y se ejecutarán estrictamente conforme al fin para el cual fueron programadas.
 
 (Art. 8 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.9 — Coherencia macroeconómica
 
@@ -14730,15 +13612,11 @@ El presupuesto debe ser compatible con las metas macroeconómicas fijadas por el
 
 (Art. 9 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.10 — Sostenibilidad y estabilidad fiscal
 
 El presupuesto tendrá en cuenta que el crecimiento del gasto debe ser acorde con la evolución de los ingresos de largo plazo a estructurales de la economía y debe ser una herramienta de estabilización del ciclo económico, a través de una regla fiscal de conformidad con el artículo 7 de la Ley 1437 de 2011.
 
 (Art. 10 Decreto 115 de 1996 modificado tácitamente por el artículo 8 de la Ley 1437 de 2011)
-
-ARTÍCULO
 
 ## art:2.8.3.11 — Autonomía Presupuestal
 
@@ -14748,8 +13626,6 @@ Las empresas tienen capacidad para contratar y ordenar el gasto en los términos
 
 CAPÍTULO 1
 
-ARTÍCULO
-
 ## art:2.8.3.1.1 — Presupuesto de Ingresos
 
 El presupuesto de ingresos comprende la disponibilidad inicial, los ingresos corrientes que se esperan recaudar durante la vigencia fiscal y los recursos de capital.
@@ -14757,8 +13633,6 @@ El presupuesto de ingresos comprende la disponibilidad inicial, los ingresos cor
 El presupuesto de las empresas podrá incluir la totalidad de los cupos de endeudamiento autorizados por el Gobierno.
 
 (Art. 12 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.1.2 — Presupuesto de Gastos
 
@@ -14769,8 +13643,6 @@ La causación del gasto debe contar con la apropiación presupuestal correspondi
 Los compromisos y obligaciones pendientes de pago a 31 de diciembre, deberán incluirse en el presupuesto del año siguiente como una cuenta por pagar y su pago deberá realizarse en dicha vigencia fiscal.
 
 (Art. 13 Decreto 115 de 1996, modificado por el Art. 10 del Decreto 4836 de 2011)
-
-ARTÍCULO
 
 ## art:2.8.3.1.3 — Títulos de gasto
 
@@ -14786,23 +13658,17 @@ d) Las normas que organizan las empresas.
 
 (Art. 14 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.1.4 — Disponibilidad final
 
 La disponibilidad final corresponde a la diferencia existente entre el presupuesto de ingresos y el presupuesto de gastos.
 
 (Art. 15 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.1.5 — Envío de anteproyectos de presupuesto
 
 Las empresas enviarán a la Dirección General del Presupuesto Nacional del Ministerio de Hacienda y al Departamento Nacional de Planeación el anteproyecto de presupuesto antes del 31 de octubre de cada año.
 
 (Art. 16 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.1.6 — Consulta y concepto favorable para la preparación del presupuesto
 
@@ -14812,15 +13678,11 @@ El concepto del Departamento Nacional de Planeación para las Empresas Industria
 
 (Art. 17 Decreto 115 de 1996, adicionado el último inciso por el Art. 1 del Decreto 353 de 1998).
 
-ARTÍCULO
-
 ## art:2.8.3.1.7 — Marco Fiscal de Mediano Plazo
 
 El Marco Fiscal de Mediano Plazo servirá de base para la aprobación y modificación del presupuesto de las Empresas en cada vigencia fiscal. Para tales efectos, la Secretaría Técnica del CONFIS comunicará a más tardar la primera semana de noviembre, los parámetros fijados en el Marco Fiscal de Mediano Plazo.
 
 (Art. 35 del Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.3.1.8 — Presentación y aprobación del Presupuesto
 
@@ -14829,8 +13691,6 @@ La Dirección General del Presupuesto Público Nacional presentará al Consejo S
 El CONFIS o quien éste delegue, aprobará por resolución el presupuesto y sus modificaciones.
 
 (Art. 18 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.1.9 — Delegación
 
@@ -14846,8 +13706,6 @@ El CONFIS verificará el cumplimiento de lo previsto en este artículo a través
 
 (Art. 36 del Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.3.1.10 — Desagregación del presupuesto
 
 La responsabilidad de la desagregación del presupuesto de ingresos y gastos, conforme a las cuantías aprobadas por el CONFIS o quien éste delegue, será de los gerentes, presidentes o directores, quienes presentarán un informe de la desagregación a la Junta o Consejo Directivo, para sus observaciones, modificaciones y refrendación mediante resolución o acuerdo, antes del 1 de febrero de cada año.
@@ -14857,8 +13715,6 @@ En la distribución se dará prioridad a los sueldos de personal, prestaciones s
 La ejecución del presupuesto podrá iniciarse con la desagregación efectuada por los gerentes, presidentes o directores de las empresas. El presupuesto distribuido se remitirá al Ministerio de Hacienda y Crédito Público-Dirección General del Presupuesto Público Nacional y al Departamento Nacional de Planeación a más tardar el 15 de febrero de cada año.
 
 (Art. 19 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.1.11 — Definición apropiación
 
@@ -14870,8 +13726,6 @@ CAPÍTULO 2
 
 EJECUCION PRESUPUESTAL
 
-ARTÍCULO
-
 ## art:2.8.3.2.1 — Disponibilidad y Registro Presupuestal
 
 Todos los actos administrativos que afecten las apropiaciones presupuestales, deberán contar con los certificados de disponibilidad previos que garanticen la existencia de apropiación suficiente para atender estos gastos.
@@ -14881,8 +13735,6 @@ Igualmente, estos compromisos deberán contar con registro presupuestal para que
 En consecuencia, no se podrán contraer obligaciones sobre apropiaciones inexistentes, o en exceso del saldo disponible, con anticipación a la apertura del crédito adicional correspondiente, o con cargo a recursos del crédito cuyos contratos no se encuentren perfeccionados, o sin que cuenten con el concepto de la Dirección General de Crédito Público y Tesoro Nacional para comprometerlos antes de su perfeccionamiento, o sin la autorización para comprometer vigencias futuras por el Consejo Superior de Política Fiscal, CONFIS o quien éste delegue. El funcionario que lo haga responderá personal y pecuniariamente de las obligaciones que se originen.
 
 (Art. 21 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.2.2 — Autorización de Vigencias Futuras
 
@@ -14900,8 +13752,6 @@ Los procesos de selección amparados con vigencias futuras excepcionales que no 
 
 (Art. 11 Decreto 115 de 1996, adicionado el último inciso por el Art. 1 del Decreto 4336 de 2004)
 
-ARTÍCULO
-
 ## art:2.8.3.2.3 — Modificación de Apropiaciones
 
 El detalle de las apropiaciones podrá modificarse, mediante Acuerdo o Resolución de las Juntas o
@@ -14912,8 +13762,6 @@ Una vez aprobada la modificación, deberá reportarse en los diez (10) días sig
 
 (Art. 23 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.2.4 — Adiciones, traslados o reducciones
 
 Las adiciones, traslados o reducciones que modifiquen el valor total de los gastos de funcionamiento, gastos de operación comercial, servicio de la deuda y gastos de inversión serán aprobados por el Consejo Superior de Política Fiscal, CONFIS, o quien éste delegue. Para estos efectos se requiere del concepto del Ministerio respectivo. Para los gastos de inversión se requiere adicionalmente el concepto favorable del Departamento Nacional de Planeación.
@@ -14921,8 +13769,6 @@ Las adiciones, traslados o reducciones que modifiquen el valor total de los gast
 La Dirección General del Presupuesto Público Nacional y el Departamento Nacional de Planeación podrán solicitar la información que se requiera para su estudio y evaluación.
 
 (Art. 24 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.2.5 — Requisitos para adiciones, traslados o reducciones y cruce de cuentas
 
@@ -14934,15 +13780,11 @@ Para adelantar las operaciones de cruce de cuentas se requerirá además de los 
 
 (Art. 25 Decreto 115 de 1996, modificado por el Art. 1 del Decreto 1786 de 2001)
 
-ARTÍCULO
-
 ## art:2.8.3.2.6 — Asignaciones y/o Distribuciones
 
 Cuando los órganos que hacen parte del Presupuesto General de la Nación efectúen asignaciones y/o distribuciones que afecten el presupuesto de las empresas, las juntas o consejos directivos harán los ajustes presupuestales correspondientes sin variar la destinación de los recursos, mediante acuerdo o resolución. Estos actos administrativos deben enviarse a la Dirección General del Presupuesto Público Nacional para su información y seguimiento, y además al Departamento Nacional de Planeación cuando se trate de proyectos de inversión.
 
 (Art. 26 Decreto 115 de 1996 modificado tácitamente por el Art. 37 del Decreto 4730 de 2005)
-
-ARTÍCULO
 
 ## art:2.8.3.2.7 — Modificaciones al Presupuesto de Gastos cuya fuente de financiación sean recursos de crédito previamente autorizados
 
@@ -14950,15 +13792,11 @@ Las modificaciones al presupuesto de gastos de inversión que tengan como fuente
 
 (Art. 27 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.2.8 — Suspensión, reducción o modificación del presupuesto
 
 El Consejo Superior de Política Fiscal, CONFIS, o quien éste delegue podrá suspender, reducir o modificar el presupuesto cuando la Dirección General del Presupuesto Público Nacional estime que los recaudos del año pueden ser inferiores al total de los gastos presupuestados; o cuando no se perfeccionen los recursos del crédito; o cuando la coherencia macroeconómica así lo exija; o cuando el Departamento Nacional de Planeación lo determine, de acuerdo con los niveles de ejecución de la inversión.
 
 (Art. 28 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.2.9 — Prohibiciones
 
@@ -14970,15 +13808,11 @@ CAPÍTULO 3
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.8.3.3.1 — Modificaciones a las plantas de personal
 
 Las modificaciones a las plantas de personal requerirán de viabilidad presupuestal expedida por la Dirección General del Presupuesto Público Nacional, para lo cual podrá solicitar la información que considere necesaria.
 
 (Art. 29 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.3.2 — Provisión de vacantes
 
@@ -14986,23 +13820,17 @@ Cuando se provean vacantes se requerirá de la certificación de su previsión e
 
 (Art. 30 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.3.3 — Rendición de Cuentas
 
 Los resultados y desempeño de las Empresas Industriales y Comerciales del Estado y Sociedades de Economía Mixta sometidas al régimen de aquellas, serán de conocimiento público y se incorporarán en el informe anual al Congreso de la República del Ministro del sector al cual pertenezca dicha empresa.
 
 (Art. 38 del Decreto 4730 de 2005, modificado por el Art. 7 del Decreto 1957 de 2007)
 
-ARTÍCULO
-
 ## art:2.8.3.3.4 — Excedentes Financieros
 
 Los excedentes financieros de las Empresas Industriales y Comerciales del Estado, no societarias se liquidarán de acuerdo con el régimen previsto para las sociedades comerciales.
 
 (Art. 39 del Decreto 4730 de 2005, modificado por el Art. 8 del Decreto 1957 de 2007)
-
-ARTÍCULO
 
 ## art:2.8.3.3.5 — Convenios
 
@@ -15012,15 +13840,11 @@ Cuando en desarrollo de tales contratos o convenios se generen rendimientos fina
 
 (Art. 40 del Decreto 4730 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.3.3.6 — Información presupuestal
 
 Las empresas enviarán a la Dirección General del Presupuesto Público Nacional y a la Dirección de Inversiones y Finanzas Públicas del Departamento Nacional de Planeación toda la información que sea necesaria para la programación, ejecución y seguimiento financiero de sus presupuestos, con la periodicidad y el detalle que determinen a este respecto.
 
 (Art. 32 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.3.7 — Suspensión de Trámites por incumplimientos
 
@@ -15028,15 +13852,11 @@ El Ministerio de Hacienda y Crédito Público -Dirección General del Presupuest
 
 (Art. 33 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.3.8 — Recaudo de ingresos de otras entidades
 
 Cuando una empresa esté facultada para recaudar ingresos que pertenecen a otras entidades no realizará operación presupuestal alguna, sin perjuicio de la vigilancia que deban ejercer los correspondientes órganos de control.
 
 (Art. 34 Decreto 115 de 1996)
-
-ARTÍCULO
 
 ## art:2.8.3.3.9 — Rendimientos Financieros
 
@@ -15044,23 +13864,17 @@ Los rendimientos financieros originados con recursos del presupuesto nacional, i
 
 (Art. 35 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.3.10 — Aportes de la Nación
 
 La Nación podrá hacer aportes a las Empresas durante la vigencia fiscal para atender gastos relacionados con su objeto social.
 
 (Art. 36 Decreto 115 de 1996)
 
-ARTÍCULO
-
 ## art:2.8.3.3.11 — Cajas Menores
 
 Las empresas podrán constituir cajas menores y hacer avances previa autorización de los gerentes, siempre que se constituyan las fianzas y garantías que éstos consideren necesarias.
 
 (Art. 37 Decreto 115 de 1996, inciso final derogado parcialmente por el Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.3.3.12 — Destinación de utilidades
 
@@ -15078,15 +13892,11 @@ CAPÍTULO 1
 
 AMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.8.4.1.1 — Campo de aplicación
 
 Se sujetan a la regulación de este título, salvo en lo expresamente aquí exceptuando, los organismos, entidades, entes públicos, y personas jurídicas que financien sus gastos con recursos del Tesoro Público.
 
 (Art. 1 Decreto 1737 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.1.2 — Medidas para las entidades territoriales
 
@@ -15098,8 +13908,6 @@ CAPÍTULO 2
 
 COMISIONES AL EXTERIOR
 
-ARTÍCULO
-
 ## art:2.8.4.2.1 — Comisiones al exterior
 
 Las comisiones de servicio al exterior de los servidores públicos de los órganos adscritos o vinculados serán conferidas por el jefe del órgano público respectivo.
@@ -15108,15 +13916,11 @@ Todas las demás comisiones, incluidas las del jefe del órgano adscrito o vincu
 
 (Art. 16 Decreto 26 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.2.2 — Comisiones para cumplir compromisos en representación del gobierno
 
 Las comisiones para cumplir compromisos en representación del Gobierno colombiano, con organismos o entidades internacionales de las cuales Colombia haga parte, deberán comunicarse previamente al Ministerio de Relaciones Exteriores, con el fin de actuar coordinadamente en el exterior y mejorar la gestión diplomática del Gobierno. Las que tengan por objeto negociar o tramitar empréstitos requerirán autorización previa del Ministerio de Hacienda y Crédito Público.
 
 (Art. 17 Decreto 26 de 1998, modificado por art. 1 del Decreto 2411 de 2007)
-
-ARTÍCULO
 
 ## art:2.8.4.2.3 — Reembolso de pasajes
 
@@ -15128,15 +13932,11 @@ CAPÍTULO 3
 
 CONTRATACIÓN ADMINISTRATIVA
 
-ARTÍCULO
-
 ## art:2.8.4.3.1 — Desembolsos sujetos al PAC
 
 En los contratos no se podrán pactar desembolsos en cuantías que excedan el programa anual de caja aprobado por el Consejo Superior de Política Fiscal o las metas de pago establecidas por éste.
 
 (Art. 20 Decreto 26 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.3.2 — Reservas presupuestales y perfeccionamiento de contratos
 
@@ -15146,15 +13946,11 @@ Para efectos de la previsión contenida en el inciso precedente, constituirán c
 
 (Art. 21 Decreto 26 de 1998, modificado por el art. 1 del Decreto 2676 de 1999)
 
-ARTÍCULO
-
 ## art:2.8.4.3.3 — Oferta más favorable
 
 Sin perjuicio de lo dispuesto en la Ley 80 de 1993 y demás normas que lo modifiquen, para las compras que se realicen sin licitación o concurso de méritos, los órganos públicos tendrán en cuenta las condiciones que el mercado ofrezca y escogerán la más eficiente y favorable para el Tesoro Público.
 
 (Art. 22 Decreto 26 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.3.4 — Prohibiciones para el suministro, adquisición, mantenimiento o reparación de bienes muebles
 
@@ -15164,8 +13960,6 @@ PARÁGRAFO . El Ministerio de Relaciones Exteriores quedará exento de la aplica
 
 (Art. 20 Decreto 1737 de 1998, adicionado por el art. 1 del Decreto 1202 de 1999)
 
-ARTÍCULO
-
 ## art:2.8.4.3.5 — 3.5
 
 Contratación o renovación de contratos de suministro, mantenimiento o reparación de bienes muebles.Sólo se podrán iniciar trámites para la contratación o renovación de contratos de suministro, mantenimiento o reparación de bienes muebles y para la adquisición de bienes inmuebles, cuando el Secretario General, o quien haga sus veces, determine en forma motivada que la contratación es indispensable para el normal funcionamiento de la entidad o para la prestación de los servicios a su cargo.
@@ -15173,8 +13967,6 @@ Contratación o renovación de contratos de suministro, mantenimiento o reparaci
 (Art. 21 Decreto 1737 de 1998, modificado por el Art. 9 del Decreto 2209 de 1998)
 
 SECCIÓN 1. CONTRATOS O CONVENIOS CON TERCEROS PARA LA ADMINISTRACIÓN DE RECURSOS
-
-ARTÍCULO
 
 ## art:2.8.4.3.1.1 — Envío de información de contratos y convenios con terceros para la administración de recursos
 
@@ -15194,15 +13986,11 @@ e) Las solicitudes de contrataciones en curso dirigidas por los organismos que f
 
 (Art. 1 Decreto 1738 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.3.1.2 — Envío de información a la DIAN
 
 Los Secretarios Generales de los órganos que financien gastos con recursos del Tesoro Público, o quien haga sus veces deberán entregar semestralmente a la Dirección de Impuestos y Aduanas Nacionales la información correspondiente a los pagos efectuados en los dos últimos años con cargo a los recursos entregados para administración por terceros. La información se deberá entregar en forma discriminada para cada beneficiario de pagos, incluyendo la identificación de cada uno de ellos, el monto de cada pago y la fecha o fechas de pago.
 
 (Art. 2 Decreto 1738 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.3.1.3 — Autorizaciones
 
@@ -15210,23 +13998,17 @@ La celebración, perfeccionamiento, renovación, ampliación, modificación o pr
 
 (Art. 4 Decreto 1738 de 1998, modificado por el Art.13 del Decreto 2209 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.3.1.4 — Cumplimiento de las disposiciones
 
 Las dependencias encargadas del control interno en cada entidad velarán especialmente por el cumplimiento de las disposiciones contenidas en esta sección.
 
 (Art. 7 Decreto 1738 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.3.1.5 — Adopción de medidas
 
 Los representantes del Presidente de la República y del Gobierno Nacional en las entidades descentralizadas que no estén comprendidas en la presente sección, deben proponer y propender a la mayor brevedad por la adopción de medidas similares a las dispuestas en la presente sección, a través de los órganos de dirección en los cuales tengan representación.
 
 (Art. 8 Decreto 1738 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.3.1.6 — Contratos de Asistencia Técnica
 
@@ -15238,15 +14020,11 @@ CAPÍTULO 4
 
 ADMINISTRACIÓN DE PERSONAL, CONTRATACIÓN DE SERVICIOS PERSONALES
 
-ARTÍCULO
-
 ## art:2.8.4.4.1 — Provisión de vacantes de personal
 
 Cuando se provean vacantes de personal se requerirá de la certificación de disponibilidad suficiente de recursos por todos los conceptos en el presupuesto de la vigencia fiscal del respectivo año.
 
 (Art. 2 Decreto 26 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.4.2 — Convenciones o Pactos Colectivos
 
@@ -15254,15 +14032,11 @@ Las convenciones o pactos colectivos se ajustarán a las pautas generales fijada
 
 (Art. 3 Decreto 26 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.4.3 — Horas extras y comisiones
 
 La autorización de horas extras y comisiones sólo se hará cuando así lo impongan las necesidades reales e imprescindibles de los órganos públicos, de conformidad con las normas legales vigentes.
 
 (Art. 4 Decreto 26 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.4.4 — Provisión y desvinculación de cargos
 
@@ -15271,8 +14045,6 @@ Los jefes de los órganos públicos velarán porque la provisión y desvinculaci
 En consecuencia, para los empleados de libre nombramiento y remoción quedan abolidas todas las autorizaciones previas para su provisión o su desvinculación.
 
 (Art. 5 Decreto 26 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.4.5 — Condiciones para contratar la prestación de servicios
 
@@ -15283,8 +14055,6 @@ Se entiende que no existe personal de planta en el respectivo organismo, entidad
 Tampoco se podrán celebrar estos contratos cuando existan relaciones contractuales vigentes con objeto igual al del contrato que se pretende suscribir, salvo autorización expresa del jefe del respectivo órgano, ente o entidad contratante. Esta autorización estará precedida de la sustentación sobre las especiales características y necesidades técnicas de las contrataciones a realizar
 
 (Art. 3 Decreto 1737 de 1998, modificado por el art.1 del Decreto 2209 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.4.6 — Prohibición de contratar prestación de servicios de forma continúa
 
@@ -15300,8 +14070,6 @@ PARÁGRAFO 4. Se entiende por servicios altamente calificados aquellos requerido
 
 (Art. 4 Decreto 1737 de 1998, modificado por el Art.2 del Decreto 2209 de 1998, modificado por el art. 1 del Decreto 2785 de 2011)
 
-ARTÍCULO
-
 ## art:2.8.4.4.7 — Vinculación de supernumerarios
 
 La vinculación de supernumerarios sólo podrá hacerse cuando no exista personal de planta suficiente para atender las actividades requeridas. En este caso, deberá motivarse la vinculación, previo estudio de las vacantes disponibles en la planta de personal.
@@ -15312,15 +14080,11 @@ CAPÍTULO 5
 
 PUBLICIDAD Y PUBLICACIONES
 
-ARTÍCULO
-
 ## art:2.8.4.5.1 — Actividades de divulgación
 
 De acuerdo con lo establecido en el artículo 10 de la Ley 1474 de 2011, las entidades públicas podrán adelantar directa o indirectamente, actividades de divulgación de sus programas y políticas, para dar cumplimiento a la finalidad de la respectiva entidad en un marco de austeridad en el gasto y reducción real de costos, acorde con los criterios de efectividad, transparencia y objetividad.
 
 (Art. 1 Decreto 4326 de 2011)
-
-ARTÍCULO
 
 ## art:2.8.4.5.2 — Actividades no comprendidas
 
@@ -15336,23 +14100,17 @@ d) La información de orden legal que sea de interés general para la ciudadaní
 
 (Art. 2 Decreto 4326 de 2011)
 
-ARTÍCULO
-
 ## art:2.8.4.5.3 — Papelería
 
 La papelería de cada uno de los órganos públicos deberá ser uniforme en su calidad, preservando claros principios de austeridad en el gasto, excepto la que utiliza el jefe de cada órgano público, los miembros del Congreso de la República y los Magistrados de las Altas Cortes.
 
 (Art. 11 Decreto 26 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.5.4 — Avisos institucionales
 
 Solamente se publicarán los avisos institucionales que sean requeridos por la ley. En estas publicaciones se procurará la mayor limitación, entre otros, en cuanto a contenido, extensión tamaño y medios de publicación, de tal manera que se logre la mayor austeridad en el gasto y la reducción real de costos.
 
 (Art. 7 Decreto 1737 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.5.5 — Impresión de folletos, informes y textos institucionales
 
@@ -15368,8 +14126,6 @@ PARÁGRAFO 3. El Departamento Administrativo de la Presidencia de la República 
 
 (Art. 8 Decreto 1737 de 1998, modificado por los artículos 4 del Decreto 2209 de 1998, Art 2 decreto 212 de 1996, adicionado por el 1 del Decreto 85 de 1999, modificado por los artículos 1 del Decreto 950 de 1999, 1 del Decreto 2445 de 2000, 1 del Decreto 2465 de 2000 y 1 del Decreto 3667 de 2006)
 
-ARTÍCULO
-
 ## art:2.8.4.5.6 — Prohibición de aplausos y /o censura
 
 Las entidades objeto de la regulación de este título no podrán en ningún caso difundir expresiones de aplauso, censura, solidaridad o similares, o publicitar o promover la imagen de la entidad o sus funcionarios con cargo a recursos públicos.
@@ -15377,8 +14133,6 @@ Las entidades objeto de la regulación de este título no podrán en ningún cas
 Lo dispuesto en el inciso anterior no será aplicable al Departamento Administrativo de la Presidencia de la República cuando en ejercicio de las actividades de protocolo inherentes al desempeño de la misión presidencial, requiera la ordenación de publicación de avisos de condolencia por el fallecimiento de altos dignatarios y personajes de la vida nacional o sus familiares y de dignatarios o personajes extranjeros.
 
 (Art. 9 Decreto 1737 de 1998, modificado el art. 1 del Decreto 2672 de 2001)
-
-ARTÍCULO
 
 ## art:2.8.4.5.7 — Tarjetas de navidad, presentación, conmemoración
 
@@ -15390,15 +14144,11 @@ CAPÍTULO 6
 
 SERVICIOS ADMINISTRATIVOS
 
-ARTÍCULO
-
 ## art:2.8.4.6.1 — Cuotas a clubes y pagos de tarjetas de crédito
 
 Está prohibida la utilización de recursos públicos para relaciones públicas para afiliación o pago de cuotas de servidores públicos a clubes sociales o para el otorgamiento y pago de tarjetas de crédito a dichos servidores
 
 (Art. 10 Decreto 1737 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.6.2 — Alojamiento y alimentación
 
@@ -15414,8 +14164,6 @@ Tampoco se encuentran dentro del ámbito de regulación de esta disposición, la
 
 (Art. 11 Decreto 1737 de 1998, modificado por el art. 5 del Decreto 2209 de 1998)
 
-ARTÍCULO
-
 ## art:2.8.4.6.3 — Celebración de recepciones, fiestas, agasajos o conmemoraciones
 
 Está prohibida la realización de recepciones, fiestas, agasajos o conmemoraciones de las entidades con cargo a los recursos del Tesoro Público.
@@ -15424,15 +14172,11 @@ Se exceptúan de la anterior disposición, los gastos que efectúen el Departame
 
 (Art. 12 Decreto 1737 de 1998, modificado por el artículo 6 del Decreto 2209 de 1998, modificado por el art. 2 del Decreto 2445 de 2000)
 
-ARTÍCULO
-
 ## art:2.8.4.6.4 — Asignación de códigos para llamadas
 
 Los organismos, entidades, entes públicos y entes autónomos sujetos a esta reglamentación deberán, a través del área administrativa correspondiente, asignar códigos para llamadas internacionales, nacionales y a líneas celulares. Los jefes de cada área, a los cuales se asignarán teléfonos con código, serán responsables del conocimiento de dichos códigos y, consecuentemente, de evitar el uso de teléfonos con código para fines personales por parte de los funcionarios de las respectivas dependencias.
 
 (Art. 14 Decreto 1737 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.6.5 — Asignación de Teléfonos celulares
 
@@ -15542,8 +14286,6 @@ El secretario general del Ministerio de Relaciones Exteriores podrá asignar veh
 
 ( Artículo modificado, por el Art. 1 del Decreto 0050 de 2024)
 
-ARTÍCULO
-
 ## art:2.8.4.6.7 — Vehículos operativos
 
 En los órganos, organismos, entes y entidades enumeradas en el artículo anterior se constituirá un grupo de vehículos operativos administrados directamente por la dependencia administrativa que tenga a su cargo las actividades en materia de transportes. Su utilización se hará de manera exclusiva y precisa para atender necesidades ocasionales e indispensables propias de las funciones de cada órgano y en ningún caso se podrá destinar uno o más vehículos al uso habitual y permanente de un servidor público distinto de los mencionados en el artículo anterior.
@@ -15551,8 +14293,6 @@ En los órganos, organismos, entes y entidades enumeradas en el artículo anteri
 Será responsabilidad de los secretarios generales, o quienes hagan sus veces, observar el cabal cumplimiento de esta disposición. De igual modo, será responsabilidad de cada conductor de vehículo, de acuerdo con las obligaciones de todo servidor público, poner en conocimiento de aquél la utilización de vehículos operativos no ajustada a estos parámetros.
 
 (Art. 18 Decreto 1737 de 1998, inciso 1 derogado por el Decreto 2710 de 2014, artículo 41, literal A, numeral 2.1)
-
-ARTÍCULO
 
 ## art:2.8.4.6.8 — Traslado de servidores públicos fuera de la sede
 
@@ -15566,15 +14306,11 @@ CAPÍTULO 7
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.8.4.8.1 — Pagos conciliaciones judiciales
 
 Los apoderados de los órganos públicos deben garantizar que los pagos de las conciliaciones judiciales, las transacciones y todas las soluciones alternativas de conflictos sean oportunos, con el fin de evitar gastos adicionales para el Tesoro Público.
 
 (Art. 6 Decreto 26 de 1998)
-
-ARTÍCULO
 
 ## art:2.8.4.8.2 — Verificación de cumplimiento de disposiciones
 
@@ -15588,8 +14324,6 @@ El informe de austeridad que presenten los Jefes de Control Interno podrá ser o
 
 (Art. 22 Decreto 1737 de 1998, modificado por el art. 1 del Decreto 984 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.4.8.3 — Responsabilidades asignadas a Secretarios Generales
 
 Las responsabilidades asignadas a los secretarios generales referentes a la austeridad del gasto serán cumplidas por éstos, o por los funcionarios que hagan sus veces.
@@ -15598,15 +14332,11 @@ Las responsabilidades asignadas a los secretarios generales referentes a la aust
 
 CONSTITUCIÓN Y FUNCIONAMIENTO DE LAS CAJAS MENORES
 
-ARTÍCULO
-
 ## art:2.8.5.1 — Campo de aplicación
 
 Quedan sujetos a las disposiciones del presente título los órganos que conforman el Presupuesto General de la Nación y las entidades nacionales con régimen presupuestal de Empresa Industriales y Comerciales del Estado y Sociedades de Economía Mixta con el régimen de aquellas con carácter no financiero, respecto de los recursos que le asigna la Nación.
 
 (Art. 1 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.2 — Constitución
 
@@ -15620,8 +14350,6 @@ Las cajas menores deberán ajustarse a las necesidades de cada entidad, siendo r
 
 (Art. 2 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.3 — Número de Cajas Menores
 
 El Representante Legal, de acuerdo con los requerimientos de la entidad, deberá establecer el número de cajas menores y autorizar su creación con base en las reglas aquí establecidas.
@@ -15630,8 +14358,6 @@ La justificación técnica y económica deberá quedar anexa a la respectiva res
 
 (Art. 3 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.4 — Cuantía
 
 La cuantía de cada una de las cajas menores se establecerá de acuerdo con la siguiente clasificación de los órganos, dentro de cada vigencia fiscal:
@@ -15639,8 +14365,6 @@ La cuantía de cada una de las cajas menores se establecerá de acuerdo con la s
 Los órganos que requieran una mayor cuantía deberán justificarlo mediante escrito motivado por el jefe de cada órgano, el cual deberá quedar anexo a la resolución.
 
 (Art. 4 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.5 — Destinación
 
@@ -15654,15 +14378,11 @@ En el Departamento Administrativo de la Presidencia de la República los gastos 
 
 (Art. 5 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.6 — Fianzas y Garantías
 
 El Ordenador del Gasto deberá constituir las fianzas y garantías que considere necesarias para proteger los recursos del Tesoro Público.
 
 (Art. 6 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.7 — Legalización
 
@@ -15671,8 +14391,6 @@ La legalización de los gastos de la caja menor deberá efectuarse durante los c
 No se podrán entregar nuevos recursos a un funcionario, hasta tanto no se haya legalizado el gasto anterior.
 
 (Art. 7 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.8 — Prohibiciones
 
@@ -15698,8 +14416,6 @@ PARÁGRAFO . Cuando por cualquier circunstancia una caja menor quede inoperante,
 
 (Art. 8 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.9 — Manejo del dinero
 
 El manejo del dinero de caja menor se hará a través de una cuenta corriente de acuerdo con las normas legales vigentes. No obstante, se podrá manejar en efectivo hasta cinco (5) salarios mínimos legales mensuales vigentes.
@@ -15712,15 +14428,11 @@ PARÁGRAFO . Cuando el responsable de la caja menor se encuentre en vacaciones, 
 
 (Art. 9 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.10 — Registro de creación en el SIIF
 
 Una vez suscrita la resolución de constitución de la caja menor, previa expedición del certificado de disponibilidad presupuestal, el órgano ejecutor procederá al registro de creación de la Caja Menor en el SIIF Nación, así como el registro de la gestión financiera que se realice a través de las mismas.
 
 (Art. 10 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.11 — Primer giro
 
@@ -15732,8 +14444,6 @@ Se efectuará con base en los siguientes requisitos:
 
 (Art. 11 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.12 — Registro de Operaciones
 
 Todas las operaciones que se realicen a través de la caja menor deben ser registradas por el responsable de la caja menor en el SIIF Nación. Esto incluye los procesos relacionados con la apertura, ejecución, reembolso y de legalización para el cierre de la caja menor.
@@ -15741,8 +14451,6 @@ Todas las operaciones que se realicen a través de la caja menor deben ser regis
 Con el fin de garantizar que las operaciones estén debidamente sustentadas, que los registros sean oportunos y adecuados y que los saldos correspondan, las oficinas de control interno, deberán efectuar arqueos periódicos y sorpresivos independientemente de la verificación por parte de las dependencias financieras de los diferentes órganos y de las oficinas de auditoría. En todas las revisiones se debe tener en cuenta que la información oficial es la que se encuentra registrada en el SIIF Nación.
 
 (Art. 12 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.13 — Legalización
 
@@ -15762,8 +14470,6 @@ La legalización definitiva de las cajas menores, constituidas durante la vigenc
 
 (Art. 13 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.14 — Reembolso
 
 Los reembolsos se harán en la cuantía de los gastos realizados, sin exceder el monto previsto en el respectivo rubro presupuestal, en forma mensual o cuando se haya consumido más de un setenta por ciento (70%), lo que ocurra primero, de algunos o todos los valores de los rubros presupuestales afectados.
@@ -15772,23 +14478,17 @@ En el reembolso se deberán reportar los gastos realizados en todos los rubros p
 
 (Art. 14 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.15 — Cambio de Responsable
 
 Cuando se cambie el responsable de la caja menor, deberá hacerse una legalización efectuando el reembolso total de los gastos realizados con corte a la fecha.
 
 (Art. 15 Decreto 2768 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.5.16 — Cancelación de la Caja menor
 
 Cuando se decida la cancelación de una caja menor, su titular la legalizará en forma definitiva, reintegrando el saldo de los fondos que recibió. En este caso, se debe saldar la cuenta corriente.
 
 (Art. 16 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.17 — Vigilancia
 
@@ -15797,8 +14497,6 @@ Corresponde a la Contraloría General de la República ejercer la vigilancia y e
 Los responsables de las cajas menores deberán adoptar los controles internos que garanticen el adecuado uso manejo de los recursos, independientemente de las evaluaciones y verificaciones que compete adelantar a las oficinas de auditoría o control interno.
 
 (Art. 17 Decreto 2768 de 2012)
-
-ARTÍCULO
 
 ## art:2.8.5.18 — Responsabilidad
 
@@ -15812,21 +14510,15 @@ CAPÍTULO 1
 
 PAGO DE SENTENCIAS CON RECURSOS DEL PRESUPUESTO GENERAL DE LA NACIÓN
 
-ARTÍCULO
-
 ## art:2.8.6.1.1 — Remisión al órgano condenado u obligado
 
 A partir del 1 de marzo de 1995 los créditos judicialmente reconocidos, las conciliaciones y los laudos arbitrales deben ser remitidos por la autoridad judicial o la administrativa que los reciba, al órgano condenado u obligado.
 
 Cuando dos o más entidades públicas resulten obligadas a pagar sumas de dinero y no se especifique en la respectiva providencia la forma y el porcentaje con que cada entidad deberá asumir el pago, la obligación dineraria será atendida conforme a las siguientes reglas:
 
-ARTÍCULO
-
 ## art:2.8.6.4.1 — 4.1
 
 En conflictos de naturaleza laboral, el pago deberá atenderse en su totalidad con cargo al presupuesto de la entidad en la que preste o prestó el servicio en forma personal y remunerada el servidor público beneficiario de la sentencia, laudo o conciliación derivada de la relación laboral.
-
-ARTÍCULO
 
 ## art:2.8.6.4.2 — 4.2
 
@@ -15835,8 +14527,6 @@ En conflictos de naturaleza contractual, deberá afectarse el presupuesto de la 
 Cuando la causa de la condena proviniere del ejercicio de las potestades excepcionales al derecho común consagradas en la Ley 80 de 1993 o en normas posteriores que la modifiquen, adicionen o complementen, deberá afectarse el presupuesto de la entidad que expidió el respectivo acto administrativo.
 
 A falta de cualquiera de las anteriores hipótesis, el cumplimiento del pago de la condena deberá estar a cargo de la entidad que se benefició con la prestación contractual.
-
-ARTÍCULO
 
 ## art:2.8.6.4.3 — 4.3
 
@@ -15848,8 +14538,6 @@ PARÁGRAFO 2. En los procesos de ejecución de sentencias en contra de entidades
 
 (Art. 37 Decreto 359 de 1995, modificado por el Art 1 del Decreto 4689 de 2005)
 
-ARTÍCULO
-
 ## art:2.8.6.1.2 — Trámite de las tutelas
 
 Los fallos de tutela seguirán tramitándose y atendiéndose de la misma manera que se venía haciendo a 31 de diciembre de 1994.
@@ -15859,8 +14547,6 @@ Los fallos de tutela seguirán tramitándose y atendiéndose de la misma manera 
 CAPÍTULO 2
 
 COMPENSACIÓN DE OBLIGACIONES
-
-ARTÍCULO
 
 ## art:2.8.6.2.1 — Sentencias y conciliaciones judiciales
 
@@ -15880,8 +14566,6 @@ Esta información será remitida por el obligado al pago de la sentencia o conci
 
 (Art 1 Decreto 2126 de 1997)
 
-ARTÍCULO
-
 ## art:2.8.6.2.2 — Trámite a cargo de la Dirección de Impuestos y Aduanas Nacionales
 
 La Subdirección de Gestión de Recaudo y Cobranzas de la DIAN, luego de establecer el domicilio de los beneficiarios de las providencias o conciliaciones, remitirá toda la información descrita en el artículo anterior a la Administración de Impuestos y Aduanas Nacionales, donde ésta exista, o en los demás casos, a la Administración de Impuestos Nacionales de la jurisdicción del beneficiario, con el objeto de que ésta realice las inspecciones necesarias tendientes a cuantificar el valor de las obligaciones tributarias, aduaneras o cambiarias exigibles, que puedan ser objeto de compensación.
@@ -15890,15 +14574,11 @@ PARÁGRAFO . La inspección consistirá en la verificación a nivel nacional, de
 
 (Art 2 Decreto 2126 de 1997)
 
-ARTÍCULO
-
 ## art:2.8.6.2.3 — Obligaciones objeto de compensación
 
 Las obligaciones tributarias, aduaneras o cambiarias objeto de compensación, serán aquellas que estén contenidas en liquidaciones privadas, liquidaciones oficiales y demás actos de la Dirección de Impuestos y Aduanas Nacionales, que fijen sumas líquidas de dinero a favor del fisco nacional, debidamente ejecutoriadas, y las garantías o cauciones prestadas a favor de la Nación para afianzar el pago de obligaciones tributarias, aduaneras o cambiarias, una vez ejecutoriada la providencia que declare su incumplimiento o la exigibilidad de las obligaciones garantizadas.
 
 (Art 3 Decreto 2126 de 1997)
-
-ARTÍCULO
 
 ## art:2.8.6.2.4 — Trámite
 
@@ -15919,8 +14599,6 @@ PARÁGRAFO . Cuando se compensen obligaciones exigibles por diferentes administr
 CAPÍTULO 3
 
 PAGO DE SENTENCIAS Y CONCILIACIONES MEDIANTE BONOS
-
-ARTÍCULO
 
 ## art:2.8.6.3.1 — Reconocimiento de sentencias y conciliaciones judiciales mediante bonos
 
@@ -15948,8 +14626,6 @@ Inicio del procedimiento de pago oficioso. El abogado que haya sido designado co
 
 PARÁGRAFO . La comunicación deberá contener la siguiente información: a) nombres y apellidos o razón social completos del beneficiario de la sentencia, laudo arbitral o conciliación; b) tipo y número de identificación del beneficiario; c) dirección de los beneficiarios de la providencia, laudo arbitral o conciliación que se obtenga del respectivo expediente; d) número de 23 dígitos que identifica el proceso judicial; e) copia de la sentencia, laudo arbitral o auto de aprobación de la conciliación con la correspondiente fecha de su ejecutoria. Con la anterior información la entidad deberá expedir I resolución de pago y proceder al mismo.
 
-ARTÍCULO
-
 ## art:2.8.6.5.1 — Solicitud de pago
 
 Sin perjuicio del pago de oficio por parte de la entidad pública, quien fuere beneficiario de una obligación dineraria a cargo de la Nación establecida en una sentencia, laudo arbitral o conciliación, o su apoderado, podrá presentar la solicitud de pago ante la entidad condenada para que los dineros adeudados le sean consignados en su cuenta bancaria. Esta solicitud deberá ser presentada mediante escrito donde se afirme bajo la gravedad de juramento que no se ha presentado otra solicitud de pago por el mismo concepto, ni se ha intentado el cobro ejecutivo. Para tales efectos se anexará a la solicitud, la siguiente información:
@@ -15972,8 +14648,6 @@ CAPÍTULO 6
 
 TASAS DE INTERÉS Y FÓRMULA DE CÁLCULO PARA EL PAGO DE SENTENCIAS, CONCILIACIONES Y LAUDOS ARBITRALES
 
-ARTÍCULO
-
 ## art:2.8.6.6.1 — Tasa de interés moratoria
 
 La tasa de interés moratoria que se aplicará dentro del plazo máximo con el que cuentan las entidades públicas para dar cumplimiento a condenas consistentes en el pago o devolución de una suma de dinero será la DTF mensual vigente certificada por el Banco de la República. Para liquidar el último mes o fracción se utilizará la DTF mensual del mes inmediatamente anterior. Luego de transcurridos los diez (10) meses señalados en el ARTÍCULO 192 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, se aplicará la tasa comercial, de conformidad con lo establecido en el numeral 4 del ARTÍCULO 195 del Código de ProcedimientoAdministrativo y de lo Contencioso Administrativo.
@@ -15981,8 +14655,6 @@ La tasa de interés moratoria que se aplicará dentro del plazo máximo con el q
 En todo caso, una vez liquidado el crédito y puesta a disposición del beneficiario la suma de dinero que provea el pago, cesa la causación de intereses. Si dentro de los tres (3) meses siguientes a la ejecutoria no se presenta solicitud de pago y no ha operado el pago oficioso, cesa el pago de intereses hasta tanto se reciba la solicitud de pago, de conformidad con el inciso 5 del ARTÍCULO 192 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 PARÁGRAFO . La liquidación se realizará con la tasa de interés moratorio y comercial establecido en el artículo 177 del Decreto 01 de 1984,cuando la sentencia judicial así lo señale en la ratio decidendi de la parte considerativa o en el decisum de su parte resolutiva.
-
-ARTÍCULO
 
 ## art:2.8.6.6.2 — Tasas de interés y fórmula de cálculo de los intereses de mora
 
@@ -16016,8 +14688,6 @@ CAPÍTULO 4
 
 TRÁMITE DE PAGO OFICIOSO
 
-ARTÍCULO
-
 ## art:2.8.6.5.2 — Resolución de pago
 
 Vencido el término anterior y en un término máximo de dos meses, contados a partir de la ejecutoria del fallo, laudo arbitral o providencia que apruebe la conciliación, la entidad obligada procederá a expedir una resolución mediante la cual se liquiden las sumas adeudadas, se ordene su pago y se adopten las medidas para el cumplimiento de la resolución de pago según lo establecido en el artículo 65 de la Ley 179 de 1994, salvo los casos en los que exista la posibilidad de compensación. Dicha resolución deberá señalar expresamente en su parte resolutiva que se trata de un acto de ejecución no susceptible de recursos y será notificada al beneficiario de conformidad con lo previsto en los artículos 67 a 71 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo. En ningún caso la entidad deberá esperar a que el acreedor presente la solicitud de pago para cumplir con este trámite. Si durante la ejecución de este trámite el acreedor presenta la solicitud de pago, este se efectuará en la cuenta que el acreedor indique.
@@ -16029,8 +14699,6 @@ PARÁGRAFO . En caso de que la entidad no cuente con disponibilidad presupuestal
 CAPÍTULO 5
 
 PAGO DE SENTENCIAS, LAUDOS ARBITRALES Y CONCILIACIONES POR SOLICITUD DEL BENEFICIARIO
-
-ARTÍCULO
 
 ## art:2.8.7.1 — Recursos necesarios para el ingreso a la OCDE
 
@@ -16058,8 +14726,6 @@ j. Los eventos de capacitación de los funcionarios colombianos por parte de la 
 
 (Art. 1 Decreto 1192 de 2012)
 
-ARTÍCULO
-
 ## art:2.8.7.2 — Certificado de disponibilidad presupuestal
 
 Con cargo al rubro que se especifique para los efectos atrás descritos, se atenderán los gastos establecidos en el artículo anterior del presente título, para lo cual al inicio de cada vigencia fiscal se expedirá el correspondiente certificado de disponibilidad presupuestal que amparará los compromisos necesarios para el cumplimiento de la preparación para el ingreso y aceptación de Colombia en dicha Organización.
@@ -16076,23 +14742,17 @@ CAPÍTULO 1
 
 CARÁCTERÍSITCAS GENERALES Y ESTRUCTURA DEL SIIF
 
-ARTÍCULO
-
 ## art:2.9.1.1.1 — Objeto
 
 El presente título determina el marco para la administración, implantación, operatividad, uso y aplicabilidad del Sistema Integrado de Información Financiera (SIIF) Nación.
 
 (Art. 1 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.1.2 — Definición
 
 El Sistema Integrado de Información Financiera (SIIF) Nación es un sistema que coordina, integra, centraliza y estandariza la gestión financiera pública nacional, con el fin de propiciar una mayor eficiencia y seguridad en el uso de los recursos del Presupuesto General de la Nación y de brindar información oportuna y confiable.
 
 (Art. 2 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.3 — Campo de aplicación
 
@@ -16102,15 +14762,11 @@ Para las Corporaciones Autónomas Regionales y las Empresas Industriales y Comer
 
 (Art. 3 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.1.4 — Información del Sistema
 
 El SIIF Nación reflejará el detalle, la secuencia y el resultado de la gestión financiera pública registrada por las entidades y órganos que conforman el Presupuesto General de la Nación, especialmente la relacionada con la programación, liquidación, modificación y ejecución del presupuesto; la programación, modificación y ejecución del Programa Anual Mensualizado de Caja (PAC), la gestión contable y los recaudos y pagos realizados por la Cuenta Única Nacional y demás tesorerías.
 
 (Art. 4 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.5 — Obligatoriedad de utilización del Sistema
 
@@ -16121,8 +14777,6 @@ El Comité Directivo del SIIF Nación, de que trata el artículo 2.9.1.1.8 del p
 PARÁGRAFO . Para efectos del presente título se entiende por línea y tiempo real, que las aplicaciones se puedan conectar directamente al SIIF Nación y que los registros se efectúen cuando los hechos económicos y financieros se generen.
 
 (Art. 5 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.6 — Alcance de la información registrada en el SIIF Nación
 
@@ -16164,8 +14818,6 @@ PARÁGRAFO . Las aplicaciones administradas por las entidades y órganos que hac
 
 (Art. 6 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.1.7 — Estructura del SIIF Nación
 
 El Sistema Integrado de Información Financiera, (SIIF) Nación estará conformado por los siguientes órganos de dirección y administración:
@@ -16179,8 +14831,6 @@ c) Un Administrador del Sistema;
 d) Un funcionario responsable del SIIF en cada entidad usuaria del aplicativo.
 
 (Art. 7 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.8 — Composición del Comité Directivo del SIIF Nación
 
@@ -16199,8 +14849,6 @@ e) El Director de Tecnología del Ministerio de Hacienda y Crédito Público;
 f) El Administrador del SIIF Nación quien será el Secretario Técnico.
 
 (Art. 8 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.9 — Funciones del Comité Directivo
 
@@ -16224,8 +14872,6 @@ PARÁGRAFO . Las decisiones adoptadas por el Comité Directivo, respecto al SIIF
 
 (Art. 9 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.1.10 — Composición del Comité Operativo y de Seguridad del SIIF Nación
 
 El Comité Operativo y de Seguridad del SIIF Nación, estará conformado por:
@@ -16247,8 +14893,6 @@ PARÁGRAFO . El Contralor Delegado para Economía y Finanzas de la Contraloría 
 De igual manera, asistirá el Jefe de la Oficina de Control Interno del Ministerio de Hacienda y Crédito Público con voz pero sin voto.
 
 (Art. 10 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.11 — Funciones del Comité Operativo y de Seguridad del SIIF Nación
 
@@ -16286,15 +14930,11 @@ o) Las demás que le determine el Comité Directivo respecto de la seguridad y o
 
 (Art. 11 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.1.12 — Administrador del SIIF Nación
 
 El Viceministerio General del Ministerio de Hacienda y Crédito Público es la dependencia encargada de la administración del SIIF Nación. Para tal fin, el Viceministro General de Hacienda designará a un funcionario de alto nivel de la planta de personal de su despacho como Administrador del Sistema, quien tendrá a su cargo un grupo de apoyo.
 
 (Art. 12 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.13 — Funciones del Administrador del SIIF Nación
 
@@ -16330,8 +14970,6 @@ n) Presentar al Comité Directivo propuestas de cambios funcionales que modifiqu
 
 (Art. 13 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.1.14 — Funcionario responsable del SIIF en la entidad
 
 Los Secretarios Generales o quien haga sus veces, designarán un funcionario del nivel directivo o asesor para que ejerza las funciones de Coordinador SIIF Entidad, quien será el enlace oficial entre la Entidad y el Administrador del Sistema.
@@ -16339,8 +14977,6 @@ Los Secretarios Generales o quien haga sus veces, designarán un funcionario del
 En el evento que la entidad tenga más de una unidad ejecutora, se podrá designar un Coordinador SIIF Entidad por cada una de ellas.
 
 (Art. 14 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.1.15 — Responsabilidades de la coordinación del SIIF en la Entidad
 
@@ -16368,8 +15004,6 @@ CAPÍTULO 2
 
 REGLAS SOBRE LA UTILIZACIÓN DEL SIIF
 
-ARTÍCULO
-
 ## art:2.9.1.2.1 — Pago a beneficiario final
 
 Las entidades y órganos ejecutores del SIIF Nación efectuarán el pago de sus obligaciones directamente a los beneficiarios a través de dicho aplicativo con abono a una cuenta bancaria previamente registrada y validada en el mismo.
@@ -16378,8 +15012,6 @@ En los casos que expresamente determine el Comité Operativo y de Seguridad del 
 
 (Art. 16 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.2 — Registro de cuentas bancarias de beneficiarios
 
 Las entidades y órganos deberán registrar previamente en el SIIF Nación, la cuenta bancaria a través de la cual efectuarán el pago de las obligaciones reconocidas a favor de cada beneficiario, para que sean prenotificadas a través del sistema Cenit del Banco de la República. Dicha cuenta se requerirá para el cumplimiento del acto administrativo que afecte las apropiaciones presupuestales.
@@ -16387,8 +15019,6 @@ Las entidades y órganos deberán registrar previamente en el SIIF Nación, la c
 El Comité Directivo del SIIF Nación reglamentará el procedimiento y los requisitos para el registro de las cuentas bancarias en el SIIF Nación.
 
 (Art. 17 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.2.3 — Responsabilidad del pago a beneficiario final
 
@@ -16404,8 +15034,6 @@ Igualmente, no serán responsables las Tesorerías o Pagadurías de las entidade
 
 (Art. 18 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.4 — Exclusividad del pago a beneficiario final
 
 El pago a beneficiario final se efectuará únicamente al beneficiario y a la cuenta bancaria registrados por medio de la cual se afectan las apropiaciones presupuestales, salvo en los eventos definidos por el Comité Operativo y de Seguridad del SIIF Nación, en cumplimiento de lo dispuesto en el artículo 2.9.1.1.11 del presente título.
@@ -16414,15 +15042,11 @@ Las entidades usuarias del SIIF Nación son responsables por las modificaciones 
 
 (Art. 19 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.5 — Requisitos para el registro de usuarios
 
 El Comité Operativo y de Seguridad del SIIF Nación reglamentará el procedimiento y los requisitos para la creación de los usuarios de la aplicación.
 
 (Art. 20 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.2.6 — Registro del anexo del decreto de liquidación del Presupuesto General de la Nación y de sus modificaciones
 
@@ -16432,8 +15056,6 @@ Las modificaciones al decreto de liquidación y al registro, se podrán realizar
 
 (Modificado por el Art. 2 del Decreto 0313 de 2024)
 
-ARTÍCULO
-
 ## art:2.9.1.2.7 — 7.
 
 Desagregación para la ejecución del presupuesto a través del SIIF Nación: Con el fin de vincular la gestión presupuestal de los ingresos y de los gastos a la gestión contable, las entidades usuarias del SIIF Nación deberán desagregar el presupuesto, al máximo nivel de detalle del Catálogo de Clasificación Presupuestal CCP establecido por la Dirección General del Presupuesto Público Nacional.
@@ -16441,8 +15063,6 @@ Desagregación para la ejecución del presupuesto a través del SIIF Nación: Co
 Cuando una entidad usuaria requiera para su gestión el empleo de un mayor detalle al Catálogo de Clasificación Presupuestal CCP establecido por dicha Dirección, deberá realizar la solicitud de acuerdo con lo establecido en el artículo 2.8.1.5.9. sobre Administración del Catálogo de Clasificación Presupuestal - CCP y los procedimientos que se establezcan para el efecto.
 
 (Art. 22 Decreto 2674 de 2012; Modificado por el Decreto 412 de 2018, art. 19)
-
-ARTÍCULO
 
 ## art:2.9.1.2.8 — 2.8
 
@@ -16454,23 +15074,17 @@ Con base en la información de las reservas presupuestales y de las cuentas por 
 
 (Art. 23 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.9 — Del registro de los ingresos en el SIIF Nación
 
 Los órganos encargados de generar la información sobre los ingresos de las entidades y órganos que conforman el Presupuesto General de la Nación deberán reconocer y clasificar a través del SIIF Nación, los recaudos por cada uno de los conceptos que los originen de conformidad con las normas presupuestales y contables vigentes, dentro de las fechas que defina la Dirección General del Presupuesto Público Nacional.
 
 (Art. 24 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.10 — Soportes documentales para el registro de la gestión financiera en el SIIF Nación
 
 Todo registró que realicen las entidades usuarias en el SIIF Nación, asociado con la gestión financiera y presupuestal, debe estar soportado en documentos legalmente expedidos, los cuales serán parte integral del acto administrativo o del contrato por medio del cual se causan los ingresos y se comprometen las apropiaciones.
 
 (Art. 25 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.2.11 — Obligaciones del Ministerio de Hacienda y Crédito Público como Administrador del SIIF Nación
 
@@ -16504,8 +15118,6 @@ f) Las demás actividades realizadas por los usuarios del Sistema que no sean de
 
 (Art. 26 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.12 — Obligaciones de las entidades y de los usuarios del SIIF Nación
 
 Con el fin de propender por un registro de la gestión financiera pública, basado en criterios de oportunidad, veracidad, confiabilidad, confidencialidad e integridad, son obligaciones del representante legal y de los usuarios del SIIF Nación las siguientes:
@@ -16528,8 +15140,6 @@ h) Establecer los procedimientos de control interno, administrativos, financiero
 
 (Art. 27 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.13 — Responsabilidades de las entidades y de los usuarios del SIIF Nación
 
 El representante legal de las entidades y los usuarios del SIIF Nación serán responsables por:
@@ -16548,15 +15158,11 @@ f) El registro de los beneficiarios y de las cuentas bancarias que se requieran 
 
 (Art. 28 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.14 — Obligatoriedad de adopción del modelo de seguridad para la interoperación de aplicaciones con el SIIF Nación
 
 Las entidades y órganos que hacen parte del Presupuesto General de la Nación a las que el Comité Directivo les haya aprobado el uso de aplicaciones misionales que deban interoperar con el SIIF Nación, deberán adoptar el modelo de seguridad que el Comité Directivo defina para tal fin.
 
 (Art. 29 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.2.15 — Del período de ajustes previos al cierre definitivo del sistema
 
@@ -16566,23 +15172,17 @@ Igualmente, el sistema tendrá un período de transición contable, con el fin d
 
 (Art. 30 Decreto 2674 de 2012; Modificado por el Decreto 412 de 2018, art. 20)
 
-ARTÍCULO
-
 ## art:2.9.1.2.16 — Cumplimiento de las normas que rigen la gestión financiera pública
 
 El uso del SIIF Nación no exime a los usuarios de las responsabilidades en el cumplimiento de las disposiciones orgánicas, legales y reglamentarias en relación con la programación, aprobación, modificación y ejecución de sus presupuestos, así como de la aplicación de las normas contables vigentes.
 
 (Art. 31 Decreto 2674 de 2012)
 
-ARTÍCULO
-
 ## art:2.9.1.2.17 — Solicitud de información
 
 Cuando los entes de control y seguimiento soliciten información que esté registrada en el SIIF Nación, las entidades en línea la extraerán del mismo para su presentación. Tales entes si lo consideran conveniente, podrán solicitar, de acuerdo a los procedimientos establecidos, su vinculación como usuarios del Sistema con un perfil especial de consulta, con el fin de obtener la información requerida.
 
 (Art. 32 Decreto 2674 de 2012)
-
-ARTÍCULO
 
 ## art:2.9.1.2.18 — Restricciones a la adquisición y utilización de software financiero
 
@@ -16598,8 +15198,6 @@ POLÍTICA MACROECONÓMICA
 
 FONDO PARA LA ESTABILIZACIÓN DE LA CARTERA HIPOTECARIA (FRECH)
 
-ARTÍCULO
-
 ## art:2.10.1.1 — Disposición aclaratoria de vigencia
 
 Las normas de los Capítulos 4 y 5 de este título se compilan para efectos de aplicarlas, según corresponda, a las coberturas previamente otorgadas en su oportunidad y que se encuentran vigentes.
@@ -16608,15 +15206,11 @@ CAPÍTULO 1
 
 FONDO PARA LA ESTABILIZACIÓN DE LA CARTERA HIPOTECARIA (FRECH) PARA COBERTURA DE TASA DTF Y UVR
 
-ARTÍCULO
-
 ## art:2.10.1.1.1 — Fondo de Reserva para la Estabilización de la Cartera Hipotecaria (FRECH)
 
 En desarrollo de la autorización prevista en el artículo 48 de la Ley 546 de 1999, créase el Fondo de Reserva para la Estabilización de la Cartera Hipotecaria - FRECH, administrado por el Banco de la República, como un fondo-cuenta de la Nación.
 
 (Art. 1 del Decreto 2670 de 2000, modificado por el Art. 1 del Decreto 1163 de 2001, modificado por el Art. 1 del Decreto 2587 de 2004)
-
-ARTÍCULO
 
 ## art:2.10.1.1.2 — Manejo presupuestal de los recursos del FRECH
 
@@ -16634,8 +15228,6 @@ Los movimientos que se realicen solo pueden corresponder a la operación del FRE
 
 (Art. 2 del Decreto 2670 de 2000, numeral 1 modificado por el Art. 2 del Decreto 2587 de 2004 y parágrafo modificado por el Art. 3 del Decreto 2587 de 2004)
 
-ARTÍCULO
-
 ## art:2.10.1.1.3 — Administración de los recursos del FRECH
 
 Para la debida administración del FRECH, el Ministerio de Hacienda y Crédito Público y el Banco de la República convendrán la forma como se darán las instrucciones para su administración, mediante la suscripción de un convenio en donde se establecerán las condiciones específicas para tal efecto, teniendo en cuenta los siguientes lineamientos:
@@ -16650,23 +15242,17 @@ Para la debida administración del FRECH, el Ministerio de Hacienda y Crédito P
 
 (Art. 6 del Decreto 2670 de 2000, modificado por el Art. 22 del decreto 343 de 2007)
 
-ARTÍCULO
-
 ## art:2.10.1.1.4 — Contabilidad
 
 El Banco de la República llevará una contabilidad separada del FRECH, sujetándose a los principios y normas que rigen para el Banco, que pondrá a disposición de la Nación, Ministerio de Hacienda y Crédito Público, luego de finalizar cada semestre calendario. Aunque los pagos de las obligaciones generadas en los contratos a los que se refiere el presente capítulo se realicen anualmente, cada mes se contabilizarán las posiciones pasivas o activas de cada una de las partes.
 
 (Art. 8 del Decreto 2670 de 2000, modificado por el Art 5 del decreto 1163 de 2001, modificado por el Art 6 del Decreto 2587 de 2004)
 
-ARTÍCULO
-
 ## art:2.10.1.1.5 — Inversión de los recursos del FRECH
 
 El Banco de la República invertirá los recursos del FRECH con criterios de seguridad, liquidez y rentabilidad, en los términos y condiciones que establezca el Comité de Inversiones del FRECH de que trata el artículo siguiente.
 
 (Art. 5 del decreto 2670 de 2000, modificado por el Art. 5 del decreto 2587 de 2004)
-
-ARTÍCULO
 
 ## art:2.10.1.1.6 — Comité de Inversiones
 
@@ -16688,8 +15274,6 @@ CAPÍTULO 2
 
 FRECH SUBCUENTA FONDO DE GARANTÍAS DE INSTITUCIONES FINANCIERAS - FOGAFÍN
 
-ARTÍCULO
-
 ## art:2.10.1.2.1 — Subcuenta especial del Fondo de Reserva para la Estabilización de la Cartera Hipotecaria - FRECH
 
 De conformidad con el parágrafo del artículo 96 de la Ley 795 de 2003, el Banco de la República, en su calidad de Administrador del Fondo de Reserva para la Estabilización de la Cartera Hipotecaria - FRECH mantendrá una subcuenta especial en el citado Fondo por valor de cincuenta mil millones de pesos ($50.000.000.000), cuyos recursos se utilizarán por Fondo de Garantías de Instituciones Financieras - Fogafín para otorgar la cobertura a los créditos individuales de vivienda a largo plazo frente al riesgo de variación de la UVR respecto a una tasa determinada, cuya reglamentación se prevé en los artículos 11.3.3.1.1 y subsiguientes del Decreto 2555 de 2010 y demás normas que lo modifiquen o adicionen. La subcuenta deberá estar separada y totalmente diferenciada de los demás recursos del FRECH.
@@ -16697,8 +15281,6 @@ De conformidad con el parágrafo del artículo 96 de la Ley 795 de 2003, el Banc
 PARÁGRAFO . El Banco de la República, en su calidad de administrador del FRECH continuará administrando los recursos de la subcuenta.
 
 (Art. 1 del Decreto 1269 de 2003, parágrafo adicionado en compilación del Art. 2 del Decreto 1269 de 2003)
-
-ARTÍCULO
 
 ## art:2.10.1.2.2 — Inversión y utilización de los recursos
 
@@ -16726,8 +15308,6 @@ CAPÍTULO 3
 
 FRECH MEJORAMIENTO DE VIVIENDA CON GARANTÍA DEL FNG
 
-ARTÍCULO
-
 ## art:2.10.1.3.1 — Garantía de créditos destinados al mejoramiento de vivienda
 
 El Banco de la República en su calidad de administrador de los recursos del Fondo de Reserva para la Estabilización de Cartera Hipotecaria - FRECH - transferirá al Fondo Nacional de Garantías, con cargo a los recursos del FRECH, doce mil quinientos millones de pesos ($12.500.000.000), para que garantice créditos otorgados por establecimientos de crédito dirigidos a financiar el mejoramiento de vivienda en los términos del presente capítulo. Para tal efecto, el Banco de la República como administrador del FRECH transferirá los mencionados recursos al Fondo Nacional de Garantías de conformidad con las instrucciones que imparta el Viceministerio Técnico del Ministerio de Hacienda y Crédito Público.
@@ -16735,8 +15315,6 @@ El Banco de la República en su calidad de administrador de los recursos del Fon
 La ejecución del programa se hará de acuerdo con las políticas generales que para el efecto defina la Junta Directiva del Fondo Nacional de Garantías.
 
 (Art 1 Decreto 1142 de 2009, modificado por el Art 1 del Decreto 2731 de 2009, modificado por el Art 1 del Decreto 2497 de 2010)
-
-ARTÍCULO
 
 ## art:2.10.1.3.2 — Condiciones de los créditos garantizados
 
@@ -16764,15 +15342,11 @@ PARÁGRAFO 2. La Junta Directiva del Fondo Nacional de Garantías establecerá l
 
 (Art 2 Decreto 1142 de 2009, literales e) y f) adicionados por el Decreto 2497 de 2010)
 
-ARTÍCULO
-
 ## art:2.10.1.3.3 — Direccionamiento del crédito cubierto por la garantía
 
 La utilización de los recursos de crédito otorgados con la garantía contemplada en el presente capítulo en propósitos distintos del mejoramiento de vivienda, conllevará la terminación inmediata de la garantía, así como las consecuencias previstas en el artículo 311 del Código Penal, sobre "Aplicación fraudulenta de crédito oficialmente regulado”.
 
 (Art. 3 del Decreto 1142 de 2009)
-
-ARTÍCULO
 
 ## art:2.10.1.3.4 — Restitución de recursos
 
@@ -16783,8 +15357,6 @@ El Viceministerio Técnico del Ministerio de Hacienda y Crédito Público, defin
 CAPÍTULO 4
 
 FRECH I - COBERTURA CONDICIONADA A LA TASA DE INTERES PARA CRÉDITOS INDIVIDUALES DE VIVIENDA
-
-ARTÍCULO
 
 ## art:2.10.1.4.1 — Cobertura para créditos individuales de vivienda
 
@@ -16801,8 +15373,6 @@ PARÁGRAFO . La Resolución 954 de 2009 expedida por el Ministerio de Hacienda y
 En todo caso, el Banco de la República, en su calidad de administrador del FRECH, podrá contratar con un tercero la operación del esquema de cobertura previsto en el presente capítulo, con cargo a los recursos del FRECH.
 
 (Art 1 Decreto 1143 de 2009)
-
-ARTÍCULO
 
 ## art:2.10.1.4.2 — Condiciones generales para quienes accedieron a la cobertura
 
@@ -16850,8 +15420,6 @@ SECCIÓN 1.
 
 COBERTURA DE TASA DE INTERÉS PARA LA FINANCIACIÓN DE VIVIENDA NUEVA
 
-ARTÍCULO
-
 ## art:2.10.1.5.1.1 — Cobertura de tasa de interés para la financiación de vivienda nueva
 
 El Gobierno Nacional, a través del Fondo de Reserva para la Estabilización de Cartera Hipotecaria (FRECH), administrado por el Banco de la República, ofreció coberturas de tasa de interés para facilitar la financiación de vivienda nueva, a través de créditos para la compra de vivienda y contratos de leasing habitacional, de acuerdo con la focalización, condiciones y términos establecidos en el presente capítulo, y la reglamentación que para el efecto ha expedido el Ministerio de Hacienda y Crédito Público.
@@ -16868,8 +15436,6 @@ El Ministerio de Hacienda y Crédito Público, por medio de la Resolución 1263 
 
 (Art. 1 Decreto 701 de 2013)
 
-ARTÍCULO
-
 ## art:2.10.1.5.1.2 — Graduación de la cobertura
 
 La cobertura prevista en el presente capítulo es graduada de acuerdo con el valor de la vivienda financiada a los deudores del crédito o locatarios del leasing habitacional que la soliciten, según los siguientes segmentos:
@@ -16884,8 +15450,6 @@ En el evento que por cualquier circunstancia el establecimiento de crédito cobr
 
 (Art. 2 Decreto 701 de 2013)
 
-ARTÍCULO
-
 ## art:2.10.1.5.1.3 — Condiciones para quienes accedieron a la cobertura
 
 Los deudores del crédito o locatarios del contrato de leasing habitacional, para acceder a la cobertura debían cumplir la siguiente condición, además de las previstas en este capítulo y en la reglamentación que se ha expedido para el efecto.
@@ -16897,8 +15461,6 @@ Los beneficiarios deben haber manifestado por escrito al establecimiento de cré
 Los establecimientos de crédito deben verificar y controlar lo relativo a la condición de acceso a la cobertura establecida en el presente artículo, de conformidad con lo previsto en el artículo 2.10.1.5.6.1 del presente capítulo.
 
 (Art. 3 Decreto 701 de 2013)
-
-ARTÍCULO
 
 ## art:2.10.1.5.1.4 — Créditos o Contratos de Leasing Habitacional que eran elegibles
 
@@ -16930,8 +15492,6 @@ Cuando se trate de créditos y contratos de leasing habitacional denominados en 
 
 (Art. 4 Decreto 701 de 2013, numeral 4 modificado por el Art. 2 del Decreto 154 de 2014)
 
-ARTÍCULO
-
 ## art:2.10.1.5.1.5 — Límite de Coberturas
 
 El número de coberturas disponibles definidas por el Ministerio de Hacienda y Crédito Público, al que se refiere el artículo 2.10.1.5.1.2. de la presente sección, que podían ser objeto del beneficio previsto en este Capítulo 5, no podía superar 12.600 coberturas para los créditos desembolsados o contratos de leasing habitacional iniciados a partir de febrero 5 de 2014, siempre y cuando existiera disponibilidad presupuestal para el efecto.
@@ -16941,8 +15501,6 @@ El número de coberturas disponibles definidas por el Ministerio de Hacienda y C
 SECCIÓN 2.
 
 TERMINACIÓN ANTICIPADA DE LA COBERTURA
-
-ARTÍCULO
 
 ## art:2.10.1.5.2.1 — Terminación anticipada de la cobertura
 
@@ -16984,8 +15542,6 @@ SECCIÓN 3.
 
 RECURSOS PARA LA COBERTURA
 
-ARTÍCULO
-
 ## art:2.10.1.5.4.1 — Inversión de los recursos del FRECH
 
 El Banco de la República invertirá los recursos del FRECH con criterios de seguridad, liquidez y rentabilidad, en los términos y condiciones que establezca el Comité de Inversiones del FRECH de que trata el artículo 2.10.1.1.6 del Capítulo 1 del presente Título.
@@ -16995,8 +15551,6 @@ El Banco de la República invertirá los recursos del FRECH con criterios de seg
 SECCIÓN 5.
 
 CONTRATOS MARCO DE PERMUTA FINANCIERA DE TASAS DE INTERÉS
-
-ARTÍCULO
 
 ## art:2.10.1.5.5.1 — Contratos marco de permuta financiera de tasas de interés
 
@@ -17044,8 +15598,6 @@ SECCIÓN 6.
 
 RESPONSABILIDAD DE LOS ESTABLECIMIENTOS DE CRÉDITO.
 
-ARTÍCULO
-
 ## art:2.10.1.5.6.1 — Responsabilidad de los establecimientos de crédito
 
 Los establecimientos de crédito son los únicos responsables de verificar el cumplimiento de los requisitos y condiciones establecidos para el acceso, vigencia, y terminación anticipada de la cobertura de tasa de interés a los créditos o contratos de leasing habitacional de que trata el presente capítulo; así como de la veracidad de la información presentada al FRECH - Contracíclico 2013 y del cumplimiento de las obligaciones contenidas en el contrato marco que suscriba con el Banco de la República.
@@ -17076,8 +15628,6 @@ CAPÍTULO 6
 
 ACCESO A MECANISMOS DE LIQUIDEZ CON CARGO A RECURSOS DEL FRECH
 
-ARTÍCULO
-
 ## art:2.10.1.6.1 — Nuevas entidades que pueden realizar operaciones de tesorería con los recursos del FRECH
 
 Las Sociedades Fiduciarias, Sociedades Comisionistas de Bolsa y Sociedades Administradoras de Inversión, así como los fondos de inversión colectiva por ellas administrados, podrán realizar operaciones de tesorería, con cargo a los recursos disponibles del Fondo de Reserva para la Estabilización de la Cartera Hipotecaria - FRECH. Los términos y condiciones de estas operaciones serán definidas por el Comité de Inversiones previsto en el artículo 2.10.1.1.6.del Capítulo 1 del presente título.
@@ -17093,8 +15643,6 @@ FRECH PARA LA FINANCIACIÓN DE VIVIENDA URBANA NUEVA - FRECH NOVIS
 SECCIÓN 1.
 
 COBERTURA CONDICIONADA DE TASA DE INTERÉS PARA CRÉDITOS DE VIVIENDA Y CONTRATOS DE LEASING HABITACIONAL EN EL MARCO DEL PROGRAMA FRECH NO VIS
-
-ARTÍCULO
 
 ## art:2.10.1.7.1.1 — Cobertura condicionada de Tasa de Interés para créditos de vivienda y contratos de leasing habitacional -FRECH NO VIS
 
@@ -17123,8 +15671,6 @@ PARÁGRAFO 1. El Ministerio de Hacienda y Crédito Público, señalará al Banco
 PARÁGRAFO 2. Para la aplicación de lo dispuesto en el presente Capítulo, las cajas de compensación familiar deberán cumplir las condiciones establecidas para el efecto por el Ministerio de Vivienda, Ciudad y Territorio reglamentadas en el artículo 1 de la Resolución 0178 del 2 de abril de 2020 y demás normas que la modifiquen, adicionen, complementen o sustituyan
 
 (Parágrafo 2, Adicionado por el Art. 1 del Decreto 1233 de 2020)
-
-ARTÍCULO
 
 ## art:2.10.1.7.1.2 — Cobertura y segmentos de vivienda
 
@@ -17170,8 +15716,6 @@ PARÁGRAFO 3. Tratándose de la cobertura establecida en el numeral 2 del presen
 
 (Modificado por el Art. 2 del Decreto 1233 de 2020)
 
-ARTÍCULO
-
 ## art:2.10.1.7.1.3 — Condiciones para el acceso a la cobertura
 
 Para acceder a la cobertura, los potenciales deudores del crédito o locatarios del contrato de leasing habitacional, además de lo previsto en este Capítulo y la reglamentación que se expida para el efecto por el Ministerio de Hacienda y Crédito Público, se sujetarán a lo siguiente:
@@ -17196,8 +15740,6 @@ PARÁGRAFO 2. Para la cobertura a que hace referencia el Parágrafo 3 del artíc
 
 (Par 2., adicionado por el Art. 2 del Decreto 1727 de 2021)
 
-ARTÍCULO
-
 ## art:2.10.1.7.1.4 — Créditos o Contratos de Leasing Habitacional elegibles
 
 La cobertura se aplicará a los créditos o contratos de leasing habitacional que cumplan, como mínimo, con las condiciones que a continuación se relacionan y las demás que se prevean en el presente Capítulo y demás normas que lo reglamenten, modifiquen, adicionen, sustituyan o complementen.
@@ -17217,8 +15759,6 @@ En cualquier caso, no se considerarán elegibles para efectos de la cobertura lo
 (Numeral 2, Modificado por el Art. 4 del Decreto 1233 de 2020)
 
 3. Unicidad: La cobertura se otorgará por una sola vez y se aplicará a todos los deudores del crédito o locatarios, a cualquier título.
-
-ARTÍCULO
 
 ## art:2.10.1.7.1.5 — Terminación anticipada de la cobertura
 
@@ -17264,15 +15804,11 @@ SECCIÓN 2.
 
 RECURSOS PARA LA COBERTURA
 
-ARTÍCULO
-
 ## art:2.10.1.7.2.1 — Recursos para la cobertura
 
 Los recursos requeridos para el otorgamiento y pago de las coberturas previstas en este Capítulo así como los gastos de gestión en que incurra el Banco de la República en la realización de la permuta financiera, serán apropiados en el Presupuesto General de la Nación, y serán comprometidos con cargo al presupuesto del Ministerio de Hacienda y Crédito Público a favor del FRECH NO VIS, dando cumplimiento a las disposiciones legales aplicables en materia presupuestal.
 
 La apropiación de estos recursos deberá guardar concordancia con la disponibilidad fiscal establecida tanto en el Marco de Gasto de Mediano Plazo del sector, así como en el Marco Fiscal de Mediano Plazo.
-
-ARTÍCULO
 
 ## art:2.10.1.7.2.2 — Giro de los recursos
 
@@ -17291,8 +15827,6 @@ PARÁGRAFO . Los gastos en que incurra el Banco de la República en la realizaci
 ARTÍCULO Restitución de los recursos de la cobertura. Las sumas provenientes de las restituciones de recursos que deban realizar los establecimientos de crédito y las cajas de compensación familiar al FRECH NO VIS respecto de créditos de vivienda o contratos de leasing habitacional cuyos deudores o locatarios no tengan derecho a la cobertura o que se haya entregado en exceso, o por haber perdido la posibilidad de realizar el intercambio de flujos de la cobertura, o cualquier otra suma que deba restituirse, serán reintegradas a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público. El Viceministerio Técnico del Ministerio de Hacienda y Crédito Público impartirá las instrucciones para el reintegro de estos recursos.".
 
 (Modificado por el Art 6 del Decreto 1233 de 2020)
-
-ARTÍCULO
 
 ## art:2.10.1.7.2.4 — Límite de Coberturas
 
@@ -17350,8 +15884,6 @@ PARÁGRAFO . En todo caso el registro y pago de la cobertura estará condicionad
 
 (Modificado por el Art. 8 del Decreto 1233 de 2020)
 
-ARTÍCULO
-
 ## art:2.10.1.7.3.2 — Responsabilidad de los establecimientos de crédito y las cajas de compensación familiar
 
 Los establecimientos de crédito y las cajas de compensación familiar serán los únicos responsables de verificar el cumplimiento de los requisitos y condiciones establecidos para el acceso, vigencia, y terminación anticipada de la cobertura de tasa de interés a los créditos de vivienda o contratos de leasing habitacional de que trata el presente Capítulo; así como de la veracidad de la información presentada al FRECH NO VIS y del cumplimiento de las obligaciones contenidas en el contrato marco que suscriba con el Banco de la República.
@@ -17386,8 +15918,6 @@ SECTOR SOLIDARIO
 
 NIVELES DE SUPERVISIÓN A QUE ESTÁN SOMETIDOS LAS ENTIDADES BAJO INSPECCIÓN, CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA DE LA ECONOMÍA SOLIDARIA
 
-ARTÍCULO
-
 ## art:2.11.1.1 — Clasificación de las entidades vigiladas en niveles de supervisión
 
 Las entidades sujetas a la inspección, control y vigilancia de la Superintendencia de la Economía Solidaria, se clasificarán en tres niveles de supervisión, de acuerdo con su nivel de activos y el desarrollo o no de actividad financiera.
@@ -17395,8 +15925,6 @@ Las entidades sujetas a la inspección, control y vigilancia de la Superintenden
 PARÁGRAFO . Los parámetros de supervisión que se señalan en el presente título, para los diferentes niveles de supervisión, deberán ser cumplidos de manera permanente por parte de las entidades vigiladas.
 
 (Art. 1 Decreto 2159 de 1999)
-
-ARTÍCULO
 
 ## art:2.11.1.2 — Primer nivel de supervisión
 
@@ -17438,8 +15966,6 @@ Para esta labor se aplicarán especialmente los parámetros que a continuación 
 
 (Art. 2 Decreto 2159 de 1999)
 
-ARTÍCULO
-
 ## art:2.11.1.3 — Reportes de las entidades del primer nivel de supervisión
 
 La periodicidad de los reportes que deben enviar, a la Superintendencia de la Economía Solidaria, las cooperativas del primer nivel de supervisión será trimestral, sin perjuicio de que la Superintendencia de la Economía Solidaria establezca períodos inferiores, para el reporte de determinados indicadores. La información será enviada en los formatos que para el efecto determine la Entidad de inspección, vigilancia y control.
@@ -17463,8 +15989,6 @@ PARÁGRAFO 1. La Superintendencia de la Economía Solidaria, mediante instruccio
 PARÁGRAFO 2. La Superintendencia de la Economía Solidaria, mediante instrucciones de carácter general, podrá establecer para las cooperativas de categoría básica e intermedia de que trata el Título 13 de la Parte 11 del Libro 2 del presente Decreto, períodos de reporte de información superiores al trimestral previsto en el primer inciso del presente artículo, sin que estos sean mayores a un (1) año. lo previsto en el presente parágrafo, no aplicará en aquellos casos en que los reportes de información se requieran para el ejercicio de la supervisión basada en riesgos.".
 
 (Adiciona Art 1 del decreto 1544 de 2024)
-
-ARTÍCULO
 
 ## art:2.11.1.4 — 1.4
 
@@ -17496,8 +16020,6 @@ Para esta labor se aplicarán especialmente los parámetros que a continuación 
 
 (Art. 4 Decreto 2159 de 1999)
 
-ARTÍCULO
-
 ## art:2.11.1.5 — Reportes de las entidades del segundo nivel de supervisión
 
 La periodicidad de los reportes que deben enviar a la Superintendencia de la Economía Solidaria, las entidades de la economía solidaria del segundo nivel de supervisión será semestral, sin perjuicio de que la Superintendencia de la Economía Solidaria establezca períodos inferiores, para el reporte de determinados indicadores. La información será enviada en los formatos que para el efecto establezca la entidad de inspección, vigilancia y control.
@@ -17511,8 +16033,6 @@ Los reportes a que hace referencia este artículo son los que se relacionan a co
 - Cualquier otro informe que la Superintendencia considere necesario solicitar.
 
 (Art. 5 Decreto 2159 de 1999)
-
-ARTÍCULO
 
 ## art:2.11.1.6 — Tercer nivel de supervisión
 
@@ -17542,23 +16062,17 @@ PARÁGRAFO 2. La periodicidad de los reportes, que deben enviar las organizacion
 
 (Art. 6 Decreto 2159 de 1999)
 
-ARTÍCULO
-
 ## art:2.11.1.7 — Funciones del Superintendente para los niveles de supervisión
 
 El Superintendente de la Economía Solidaria ejercerá todas las funciones que se le asignan en el artículo 36 de la Ley 454 de 1998 para todos los niveles de supervisión, en el momento y periodicidad que considere conveniente, para facilitar la operación de las entidades de los tres niveles de supervisión, que se definen en el presente título.
 
 (Art. 7 Decreto 2159 de 1999)
 
-ARTÍCULO
-
 ## art:2.11.1.8 — Modificación Nivel de Supervisión
 
 Cuando a juicio del Superintendente de la Economía Solidaria la situación jurídica, financiera o administrativa de alguna de las entidades vigiladas así lo requiera, en ejercicio de las atribuciones previstas en el numeral 19 del artículo 36 de la ley 454 de 1998, éste podrá someter a cualquier entidad a un nivel de supervisión más elevado y aplicar los principios de supervisión que corresponda.
 
 (Art. 8 Decreto 2159 de 1999)
-
-ARTÍCULO
 
 ## art:2.11.1.9 — Ajuste
 
@@ -17568,15 +16082,11 @@ Los valores absolutos indicados en este título se ajustarán anual y acumulativ
 
 PLAZOS PARA SUBSANAR CAUSALES DE DISOLUCIÓN EN ORGANIZACIONES DE ECONOMÍA SOLIDARIA
 
-ARTÍCULO
-
 ## art:2.11.2.1 — Plazo para subsanar causales de disolución
 
 La Superintendencia de la Economía Solidaria dará a las organizaciones de la economía solidaria bajo su supervisión, que se encuentren en las causales de disolución previstas en los numerales 2, 3 y 6 del artículo 107 de la Ley 79 de 1988 y en los numerales 2 y 4 del artículo 56 del Decreto Ley 1480 de 1989, un plazo hasta de seis (6) meses para que subsanen la causal de disolución respectiva o para que en el mismo plazo convoquen a asamblea general con el fin de acordar la disolución.
 
 (Art. 1 Decreto 1934 de 2002)
-
-ARTÍCULO
 
 ## art:2.11.2.2 — Procedimiento en caso de vencimiento del plazo
 
@@ -17586,15 +16096,11 @@ Si vencido el plazo anterior, dichas organizaciones de la economía solidaria no
 
 NORMAS DE POSESIÓN Y LIQUIDACIÓN APLICABLES A ENTIDADES SOLIDARIAS QUE ADELANTAN ACTIVIDADES DIFERENTES A LA FINANCIERA
 
-ARTÍCULO
-
 ## art:2.11.3.1 — Ámbito de aplicación
 
 El presente título será aplicable a las organizaciones solidarias sometidas a la vigilancia de la Superintendencia de la Economía Solidaria, diferentes de las cooperativas de ahorro y crédito y cooperativas multiactivas o integrales con sección de ahorro y crédito, a las cuales les será aplicable lo dispuesto en el Decreto 756 de 2000 o las disposiciones que lo modifiquen o compilen.
 
 (Art. 1 Decreto 455 de 2004)
-
-ARTÍCULO
 
 ## art:2.11.3.2 — Normas aplicables
 
@@ -17604,23 +16110,17 @@ Estatuto Orgánico del Sistema Financiero: Artículos 114, 116, 117, 291, 293, 2
 
 (Art. 2 Decreto 455 de 2004, derogado el numeral 2 por el Art. 64 del Decreto 2211 de 2004)
 
-ARTÍCULO
-
 ## art:2.11.3.3 — Regímenes Especiales
 
 A los Fondos de Empleados, las Asociaciones Mutualistas, las Cooperativas de Trabajo Asociado y en general a las entidades que de acuerdo con la ley pueden captar ahorro, diferentes de las cooperativas de ahorro y crédito y multiactivas con sección de ahorro y crédito, le serán aplicables, además de las previstas en sus disposiciones especiales, las señaladas en el artículo 2.11.3.2 del presente título, así como de las normas que las modifiquen o adicionen.
 
 (Art. 3 Decreto 455 de 2004)
 
-ARTÍCULO
-
 ## art:2.11.3.4 — Remisión normativa
 
 En lo no previsto en el presente título y siempre que por virtud de la naturaleza de las entidades solidarias sus disposiciones no sean contrarias a las normas que rigen este tipo de entidades, se aplicarán las normas sobre procesos de toma de posesión y liquidación forzosa administrativa para entidades financieras previstas en el Estatuto Orgánico del Sistema Financiero y en especial lo establecido en la Ley 510 de 1999, Parte 9, Libro 1, Título 1, Capítulo 1 del Decreto 2555 de 2010, así como lo previsto en las disposiciones que las adicionen o modifiquen.
 
 (Art. 4 Decreto 455 de 2004)
-
-ARTÍCULO
 
 ## art:2.11.3.5 — Menciones
 
@@ -17629,8 +16129,6 @@ Las menciones a la Superintendencia Financiera de Colombia, o al Fondo de Garant
 (Art. 5 Decreto 455 de 2004)
 
 REACTIVACIÓN DE COOPERATIVAS EN LIQUIDACIÓN
-
-ARTÍCULO
 
 ## art:2.11.4.1 — Reactivación
 
@@ -17662,8 +16160,6 @@ PARÁGRAFO 4. Las disposiciones del presente título no serán aplicables si no 
 
 (Art. 1 del Decreto 4030 de 2006, modificado el parágrafo y adicionado un parágrafo por el Art. 1 del Decreto 1538 de 2007, modificado el inciso 4 por el Art.1 del Decreto 1533 de 2008, adicionado el parágrafo 4 por el Art.1 del Decreto 557 de 2009)
 
-ARTÍCULO
-
 ## art:2.11.4.2 — Contenido mínimo de los acuerdos de acreedores internos para la reactivación de la entidad
 
 El acuerdo de acreedores internos para la reactivación de la entidad deberá contener un plan de reorganización, el cual contemplará para cada caso particular la reestructuración financiera, administrativa, operativa y jurídica, entre otros, según sea el caso, conducentes a solucionar los hechos que dieron origen a la toma de posesión y para poner a la entidad en condiciones de desarrollar en forma adecuada su objeto social. En el acuerdo se incluirá un cronograma preciso de actividades dirigidas a enervar cualquier posible causal de toma de posesión.
@@ -17671,8 +16167,6 @@ El acuerdo de acreedores internos para la reactivación de la entidad deberá co
 Los recursos en exceso de los aportes deberán constituirse como reserva patrimonial, no susceptible de repartición.
 
 (Art. 2 del Decreto 4030 de 2006)
-
-ARTÍCULO
 
 ## art:2.11.4.3 — Aprobación del acuerdo y levantamiento de la medida de toma de posesión
 
@@ -17686,8 +16180,6 @@ El funcionamiento de la entidad reactivada estará sujeto a las normas que de co
 
 (Art. 3 del Decreto 4030 de 2006)
 
-ARTÍCULO
-
 ## art:2.11.4.4 — Fracaso de la audiencia
 
 De no lograrse el acuerdo de acreedores internos para la reactivación de la entidad, el liquidador deberá proceder a la devolución de aportes, a dar cumplimiento a las previsiones del artículo 121 de la Ley 79 de 1988 y a la terminación de la existencia de la persona jurídica.
@@ -17700,8 +16192,6 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.11.5.1.1 — Objeto
 
 Las disposiciones contenidas en el presente título se expiden con el fin de:
@@ -17712,13 +16202,9 @@ b. Dotar a los Fondos de Empleados de la regulación prudencial adecuada para la
 
 c. Proveer a las autoridades que ejercen labores de supervisión y regulación de os Fondos de Empleados, de mecanismos de información oportuna sobre la existencia y constitución de dichas organizaciones.
 
-ARTÍCULO
-
 ## art:2.11.5.1.2 — Ámbito de aplicación
 
 El presente título aplica a los Fondos de Empleados que se encuentren desarrollando operaciones o se propongan adelantarlas, bajo la forma asociativa prevista en el Decreto Ley 1481 de 1989 modificado por la Ley 1391 de 2010.
-
-ARTÍCULO
 
 ## art:2.11.5.1.3 — Categoría de Fondos de Empleados para la aplicación de normas prudenciales
 
@@ -17748,13 +16234,9 @@ SECCIÓN 1
 
 REGLAS SOBRE PATRIMONIO
 
-ARTÍCULO
-
 ## art:2.11.5.2.1.1 — Objetivo y ámbito de aplicación
 
 Con el fin de proteger la confianza del público en el sector y asegurar su desarrollo en condiciones de seguridad y competitividad, los Fondos de Empleados de la categoría plena deberán cumplir las normas sobre niveles adecuados de patrimonio e indicador de solidez en los términos previstos en la presente sección.
-
-ARTÍCULO
 
 ## art:2.11.5.2.1.2 — Indicador de solidez
 
@@ -17764,13 +16246,9 @@ El indicador de solidez mínimo de los Fondos de Empleados de categoría plena s
 
 La Superintendencia de la Economía Solidaria establecerá la periodicidad en la que verificará el cumplimiento del indicador de solidez mínimo. Independientemente de las fechas de reporte, las entidades deberán cumplir con los niveles mínimos del indicador de solidez en todo momento.
 
-ARTÍCULO
-
 ## art:2.11.5.2.1.3 — Patrimonio técnico
 
 El cumplimiento del indicador de solidez se efectuará con base en el patrimonio técnico que refleje cada Fondo de Empleados, calculado mediante la suma del patrimonio básico neto de deducciones y el patrimonio adicional, de acuerdo con las reglas contenidas en los artículos siguientes.
-
-ARTÍCULO
 
 ## art:2.11.5.2.1.4 — Patrimonio básico
 
@@ -17790,8 +16268,6 @@ f. Los aportes sociales amortizados o readquiridos por el fondo de empleados en 
 
 (Literal adicionado por el Decreto 962 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.11.5.2.1.5 — Deducciones del patrimonio básico
 
 Se deducirán del patrimonio básico los siguientes conceptos.
@@ -17805,8 +16281,6 @@ Los aportes que los Fondos de Empleados de categoría plena posean en otras orga
 c. Los activos intangibles registrados.
 
 d. El cálculo actuarial del pasivo pensional.
-
-ARTÍCULO
 
 ## art:2.11.5.2.1.6 — Patrimonio adicional
 
@@ -17826,13 +16300,9 @@ d. El valor de las provisiones de carácter general constituidas por el Fondo de
 
 PARÁGRAFO . El valor total del patrimonio adicional no podrá exceder del cien por ciento (100%) del patrimonio básico neto de deducciones.
 
-ARTÍCULO
-
 ## art:2.11.5.2.1.7 — Activos ponderados por nivel de riesgo crediticio
 
 Para determinar el valor de los activos ponderados por nivel de riesgo crediticio, los Fondos de Empleados de categoría plena tendrán en cuenta sus activos y contingencias. Para el efecto, se multiplicará el valor del respectivo activo o contingencia, por un porcentaje de ponderación de su valor según corresponda de acuerdo con la clasificación en las categorías señaladas en los artículos 2.11.5.2.1.8. y 2.11.5.2.1.9. de este decreto.
-
-ARTÍCULO
 
 ## art:2.11.5.2.1.8 — Clasificación y ponderación de activos por nivel de riesgo
 
@@ -17854,8 +16324,6 @@ PARÁGRAFO 2. El fondo de liquidez de que trata el Capítulo 11 del Título 7 de
 
 (Modificado por el Decreto 704 de 2019, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.5.2.1.9 — Clasificación y ponderación de las contingencias
 
 Las contingencias ponderarán, para efectos de la aplicación de lo previsto en la presente sección, según se determina a continuación:
@@ -17870,13 +16338,9 @@ Las otras contingencias, tienen un factor de conversión crediticio del cero por
 
 b. El monto resultante se computará de acuerdo con las categorías señaladas en el artículo 2.11.5.2.1.8. de este decreto, teniendo en cuenta las características de la contraparte.
 
-ARTÍCULO
-
 ## art:2.11.5.2.1.10 — Detalle de la clasificación de activos y contingencias
 
 La Superintendencia de la Economía Solidaria impartirá las instrucciones necesarias para facilitar la debida clasificación de la totalidad de los activos y las contingencias dentro de las categorías determinadas en los artículos precedentes y de acuerdo con los criterios allí señalados.
-
-ARTÍCULO
 
 ## art:2.11.5.2.1.11 — Valoraciones y provisiones
 
@@ -17888,8 +16352,6 @@ SECCIÓN 2
 
 LÍMITES A LOS CUPOS INDIVIDUALES DE CRÉDITO Y LA CONCENTRACIÓN DE OPERACIONES
 
-ARTÍCULO
-
 ## art:2.11.5.2.2.1 — Objetivo y ámbito de aplicación
 
 Los límites de exposición establecidos en la presente sección serán de obligatorio cumplimiento para los Fondos de Empleados que pertenezcan a la categoría plena, con el fin de mitigar la pérdida máxima que podría resultar del incumplimiento de las operaciones realizadas con un mismo asociado o grupo conectado de asociados.
@@ -17900,8 +16362,6 @@ PARÁGRAFO . Las organizaciones podrán exceptuar del concepto de grupo conectad
 
 (Decreto 962 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.11.5.2.2.2 — Cuantía máxima del cupo individual
 
 Ningún Fondo de Empleados de categoría plena podrá realizar con un mismo asociado o grupo conectado de asociados, directa o indirectamente, operaciones activas de crédito, que conjunta o separadamente excedan del diez por ciento (10%) del patrimonio técnico de la entidad, si la única garantía de la operación es el patrimonio del deudor. Sin embargo, cuando las operaciones respectivas cuenten con garantías o seguridades admisibles suficientes, las operaciones de que trata el presente artículo pueden alcanzar hasta el veinte por ciento (20%) del patrimonio técnico de la entidad.
@@ -17909,8 +16369,6 @@ Ningún Fondo de Empleados de categoría plena podrá realizar con un mismo asoc
 Para el efecto, se computarán los créditos desembolsados y aprobados por desembolsar, los contratos de apertura de créditos y demás operaciones activas de crédito, que se celebren con un mismo asociado o grupo conectado de asociados. El valor de cada uno de los créditos se computará neto de provisiones, y de los aportes sociales y ahorro permanente del respectivo asociado, de acuerdo a lo previsto en el artículo 2.11 .5.2.1.11. del presente decreto.
 
 (Decreto 962 de 2018, art. 4)
-
-ARTÍCULO
 
 ## art:2.11.5.2.2.3 — Garantías admisibles y no admisibles
 
@@ -17924,8 +16382,6 @@ No serán admisibles las garantías o seguridades que consistan en la entrega de
 
 Tampoco serán admisibles para un Fondo de Empleados los títulos valores, certificados de depósito a término, o cualquier otro documento de su propio crédito o que haya sido emitido por una entidad subordinada a él.
 
-ARTÍCULO
-
 ## art:2.11.5.2.2.4 — Información al Comité de control social y Junta Directiva
 
 Toda situación de concentración de cupo individual superior al diez por ciento (10%) del patrimonio técnico, cualesquiera que sean las garantías que se presenten, deberá ser reportado mensualmente por el representante legal al Comité de control social y a la Junta Directiva de la respectiva entidad.
@@ -17936,15 +16392,11 @@ PARÁGRAFO . Para el cumplimiento de lo previsto en el presente artículo, la ju
 
 (Parágrafo adicionado por el Decreto 962 de 2018, art. 5)
 
-ARTÍCULO
-
 ## art:2.11.5.2.2.5 — Concentración de aportes sociales y captaciones
 
 La Superintendencia de la Economía Solidaria impartirá las instrucciones necesarias para la identificación, medición, control y monitoreo del riesgo de liquidez de los Fondos de Empleados de categoría plena. derivado de la concentración de aportes sociales y captaciones en depósitos de ahorro a la vista, a término, contractual, y demás modalidades de captación, en un sólo asociado o grupo conectado de asociados.".
 
 (Modificado por el Decreto 704 de 2019, art. 2)
-
-ARTÍCULO
 
 ## art:2.11.5.2.2.6 — Periodicidad del reporte
 
@@ -17953,8 +16405,6 @@ La Superintendencia de la Economía Solidaria establecerá la periodicidad en la
 SECCIÓN 3
 
 IDONEIDAD PARA LA PRESTACIÓN DE SERVICIOS DE AHORRO Y CRÉDITO
-
-ARTÍCULO
 
 ## art:2.11.5.2.3.1 — Reporte inicial de idoneidad
 
@@ -17982,8 +16432,6 @@ PARÁGRAFO 1. Se entenderá cumplido el procedimiento de presentación de docume
 
 PARÁGRAFO 2. La Superintendencia de la Economía Solidaria fijará las condiciones conforme las cuales se dará cumplimiento a lo previsto en el presente artículo.
 
-ARTÍCULO
-
 ## art:2.11.5.2.3.2 — Reporte extraordinario de idoneidad
 
 La Superintendencia de la Economía Solidaria podrá, en cualquier momento, requerir particularmente a un Fondo de Empleados el reporte de idoneidad de que trata el artículo 2.11.5.2.3.1. del presente decreto con toda o parte de la información y documentación que corresponda de acuerdo a la categoría en que se clasifique el respectivo Fondo. En todo caso, conforme lo dispuesto en el artículo 9 del Decreto Ley 019 de 2012, no se podrán exigir documentos o información con los que cuente dicha Superintendencia.
@@ -17991,8 +16439,6 @@ La Superintendencia de la Economía Solidaria podrá, en cualquier momento, requ
 Adicionado por Decreto 961 de 2018, art. 1)
 
 TOMA DE POSESIÓN DE LAS COOPERATIVAS DE AHORRO Y CRÉDITO Y COOPERATIVAS MULTIACTIVAS O INTEGRALES CON SECCIÓN DE AHORRO Y CRÉDITO
-
-ARTÍCULO
 
 ## art:2.11.6.1.1 — Remisión normativa
 
@@ -18009,8 +16455,6 @@ NORMAS SOBRE LA GESTIÓN Y ADMINISTRACIÓN DE RIESGO DE LIQUIDEZ DE LAS COOPERAT
 CAPITULO I
 
 Principios y procedimientos aplicables al riesgo de liquidez
-
-ARTÍCULO
 
 ## art:2.11.7.1.1 — Definición de riesgo de liquidez
 
@@ -18048,8 +16492,6 @@ PARÁGRAFO . Se entiende por vencimiento esperado aquel que es necesario estimar
 
 (Modificado por el Decreto 704 de 2019, art. 5)
 
-ARTÍCULO
-
 ## art:2.11.7.1.4 — Comité Interno de Administración del Riesgo de Liquidez
 
 Las entidades deben contar con un comité interno de administración de riesgo de liquidez, cuya estructura se definirá de conformidad con el esquema organizacional de la institución y dependerá del Consejo de Administración o quien haga sus veces, el cual será el responsable del nombramiento de sus integrantes.
@@ -18075,8 +16517,6 @@ CAPITULO II
 Fondo de liquidez para cooperativas de ahorro y crédito, cooperativas multiactivas e integrales con sección de ahorro y crédito, fondos de empleados y asociaciones mutuales"
 
 (Título modificado por el Decreto 704 de 2019, art. 8)
-
-ARTÍCULO
 
 ## art:2.11.7.2.1 — Monto exigido
 
@@ -18136,15 +16576,11 @@ En todo caso, la respectiva entidad de supervisión deberá efectuar, un seguimi
 
 (Modificado por el Decreto 704 de 2019, art. 13)
 
-ARTÍCULO
-
 ## art:2.11.7.3.2 — Sanciones
 
 El incumplimiento de lo previsto en el presente Título, acarreará las sanciones personales e institucionales pertinentes por parte de la Superintendencia de la Economía Solidaria.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.7.3.3 — Armonización de terminología
 
@@ -18158,8 +16594,6 @@ Adicionado por Decreto 961 de 2018, art. 1)
 
 SERVICIOS FINANCIEROS PRESTADOS POR LAS COOPERATIVAS DE AHORRO Y CRÉDITO Y LAS COOPERATIVAS MULTIACTIVAS E INTEGRALES CON SECCIÓN DE AHORRO Y CRÉDITO A TRAVÉS DE CORRESPONSALES
 
-ARTÍCULO
-
 ## art:2.11.8.1 — Servicios prestados por medio de corresponsales
 
 Las cooperativas de ahorro y crédito y las cooperativas multiactivas e integrales con sección de ahorro y crédito que cumplan con los requisitos previstos en este Título, podrán prestar, bajo su plena responsabilidad, los servicios a que se refiere el artículo 2 .36.9.1.4 del Decreto 2555 de 2010 con excepción de aquellos que no están expresamente autorizados por su régimen legal, a través de terceros corresponsales, quienes actuarán en todo caso por cuenta de tales cooperativas, en los términos del presente Título.
@@ -18172,8 +16606,6 @@ Los interesados deberán ser informados además, de los costos inherentes a la a
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.8.2 — Disposiciones aplicables
 
 A las cooperativas de que trata el presente Título y a los corresponsales que estas contraten, les será aplicable el régimen previsto en el Título 9 del Libro 36 de la Parte 2 del Decreto 2555 de 2010, correspondiéndole a la Superintendencia de la Economía Solidaria las funciones previstas en éste para la Superintendencia Financiera de Colombia.
@@ -18181,8 +16613,6 @@ A las cooperativas de que trata el presente Título y a los corresponsales que e
 Sin embargo, las instrucciones sobre calidades de los corresponsales, administración de riesgos implícitos tales como el operativo y de lavado de activos, las especificaciones mínimas que deberán tener los medios electrónicos que se utilicen para la prestación de los servicios y las pertinentes para la realización de las distintas operaciones previstas en el artículo 2.36.9.1.4 del Decreto 2555 de 2010, serán las mismas impartidas por la Superintendencia Financiera de Colombia para las entidades sometidas a su vigilancia, con el fin de asegurar que la prestación de servicios financieros por parte de los establecimientos de crédito y las cooperativas de que trata este Título por medio de corresponsales, se realice en igualdad de condiciones.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.8.3 — Requisitos para prestar servicios financieros a través de corresponsales
 
@@ -18202,23 +16632,17 @@ Adicionado por Decreto 961 de 2018, art. 1)
 
 CAPTACIÓN DE COOPERATIVAS DE AHORRO Y CRÉDITO Y SECCIONES DE AHORRO Y CRÉDITO DE COOPERATIVAS MULTIACTIVAS O INTEGRALES A TRAVÉS DE AHORRO CONTRACTUAL
 
-ARTÍCULO
-
 ## art:2.11.9.1 — Captación de recursos a través del ahorro contractual
 
 Las cooperativas de ahorro y crédito y las multiactivas o integrales con sección de ahorro y crédito autorizadas por la Superintendencia de la Economía Solidaria para adelantar actividad financiera e inscritas en el Fondo de Garantías de Entidades Cooperativas, pueden celebrar contratos con sus asociados con el objeto de pagar, en el tiempo que se convenga, depósitos de sumas fijas, hechos a intervalos regulares, con sus respectivos intereses, o pagar dichos depósitos cuando, con los réditos acreditados, igualen una suma determinada.
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.9.2 — Contratos de ahorro contractual
 
 Los contratos que celebren las cooperativas con sus asociados, de acuerdo con el artículo anterior, no podrán estipular la pérdida de las sumas depositadas en caso de que no se hagan los pagos convenidos; no obstante, podrá pactarse la pérdida para el depositante de los intereses devengados con anterioridad a dicho incumplimiento.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.9.3 — Prueba de los contratos
 
@@ -18234,15 +16658,11 @@ CAPÍTULO I
 
 Reglas sobre patrimonio
 
-ARTÍCULO
-
 ## art:2.11.10.1.1 — Patrimonio adecuado
 
 Las cooperativas de ahorro y crédito y las cooperativas multiactivas e integrales con sección de ahorro y crédito, deberán cumplir las normas sobre niveles adecuados de patrimonio y relación mínima de solvencia contemplados en este Título, con el fin de proteger la confianza del público en el sistema y asegurar su desarrollo en condiciones de seguridad y competitividad.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.1.2 — Relación de solvencia
 
@@ -18254,15 +16674,11 @@ PARÁGRAFO . Para las cooperativas de ahorro y crédito y las cooperativas multi
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.10.1.3 — Patrimonio técnico
 
 El cumplimiento de la relación de solvencia se efectuará con base en el patrimonio técnico que refleje cada cooperativa, calculado mediante la suma del patrimonio básico neto de deducciones y el patrimonio adicional, de acuerdo con las reglas contenidas en los artículos siguientes.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.1.4 — Patrimonio básico
 
@@ -18286,8 +16702,6 @@ h) Las demás reservas y fondos permanentes de orden patrimonial creados de acue
 
 (Decreto 961 de 2018, art. 1; Literal h adicionado por el Decreto 962 de 2018, art. 6)
 
-ARTÍCULO
-
 ## art:2.11.10.1.5 — Deducciones del patrimonio básico
 
 Se deducirán del patrimonio básico los siguientes conceptos:
@@ -18303,8 +16717,6 @@ c) Los activos intangibles registrados.
 d) El valor no amortizado del cálculo actuaria! del pasivo pensional.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.1.6 — Patrimonio adicional
 
@@ -18324,8 +16736,6 @@ PARÁGRAFO . El valor total del patrimonio adicional no podrá exceder del cien 
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.10.1.7 — Activos ponderados por nivel de riesgo crediticio
 
 Se entiende por riesgo crediticio la posibilidad de que una cooperativa incurra en pérdidas y se disminuya el valor de su patrimonio técnico como consecuencia de que sus deudores fallen en el cumplimiento oportuno de sus obligaciones o cumplan imperfectamente las obligaciones financieras en los términos acordados.
@@ -18333,8 +16743,6 @@ Se entiende por riesgo crediticio la posibilidad de que una cooperativa incurra 
 Para determinar el valor de los activos ponderados por nivel de riesgo crediticio, las cooperativas tendrán en cuenta sus activos y contingencias. Para el efecto, se multiplicará el valor del respectivo activo o contingencia, por un porcentaje de ponderación de su valor según corresponda de acuerdo con la clasificación en las categorías señaladas en los artículos 2.11.10.1.8. y 2.11.10.1.9. de este Decreto.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.1.8 — Clasificación y ponderación de activos por nivel de riesgo
 
@@ -18356,8 +16764,6 @@ PARÁGRAFO 2. El fondo de liquidez de que trata el Capítulo 2 del Título 7 de 
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.10.1.9 — Clasificación y ponderación de las contingencias
 
 Las contingencias ponderarán, para efectos de la aplicación de lo previsto en el presente Título, según se determina a continuación:
@@ -18374,15 +16780,11 @@ b) El monto resultante se computará de acuerdo con las categorías señaladas e
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.10.1.10 — Detalle de la clasificación de activos y contingencias
 
 La Superintendencia de la Economía Solidaria impartirá las instrucciones necesarias para facilitar la debida clasificación de la totalidad de los activos y las contingencias dentro de las categorías determinadas en los artículos precedentes y de acuerdo con los criterios allí señalados.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.1.11 — Valoraciones y provisiones
 
@@ -18394,15 +16796,11 @@ CAPÍTULO II
 
 Límites a los cupos individuales de crédito y la concentración de operaciones
 
-ARTÍCULO
-
 ## art:2.11.10.2.1 — Cuantía máxima del cupo individual
 
 Ninguna de las cooperativas a que se refiere el presente decreto podrá realizar con una misma persona natural o jurídica, directa o indirectamente, operaciones activas de crédito, que conjunta o separadamente excedan del diez por ciento (10%) del patrimonio técnico de la entidad, si la única garantía de la operación es el patrimonio del deudor. Sin embargo, cuando las operaciones respectivas cuenten con garantías o seguridades admisibles suficientes, las operaciones de que trata el presente artículo pueden alcanzar hasta el veinte por ciento (20%) del patrimonio técnico de la entidad.
 
 (Decreto 961 de 2018, art. 1; Modificado por el Decreto 962 de 2018, art. 7)
-
-ARTÍCULO
 
 ## art:2.11.10.2.2 — Información a las Juntas de Vigilancia y Consejos de Administración
 
@@ -18414,23 +16812,17 @@ PARÁGRAFO . Para el cumplimiento de lo previsto en el presente artículo, el co
 
 (Decreto 961 de 2018, art. 1; Parágrafo adicionado por el Decreto 962 de 2018, art. 8)
 
-ARTÍCULO
-
 ## art:2.11.10.2.3 — Remisión normativa
 
 Las cooperativas de ahorro y crédito y las multiactivas o integrales con sección de ahorro y crédito, se continuarán sujetando en los demás aspectos a las disposiciones del Título 2 y 3 del Libro 1 de la Parte 2 del Decreto 2555 de 2010 y las que lo modifiquen, adicionen o complementen.
 
 (Decreto 961 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.10.2.4 — Límites a las inversiones
 
 Las inversiones de capital de las cooperativas de ahorro y crédito y de las secciones de ahorro y crédito de las cooperativas multiactivas o integrales se deben sujetar a lo dispuesto en el parágrafo 1 del artículo 50 de la Ley 454 de 1998, modificado por el artículo 107 de la Ley 795 de 2003.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.2.5 — Límite individual a las captaciones
 
@@ -18441,8 +16833,6 @@ Para el efecto, se computarán las captaciones en depósitos de ahorro a la vist
 PARÁGRAFO . Para los fines del presente artículo, los recaudos por concepto de servicios públicos se exceptuarán del cómputo de límite individual a las captaciones.
 
 (Decreto 961 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.10.2.6 — Acumulación en personas naturales
 
@@ -18455,8 +16845,6 @@ PARÁGRAFO . Las organizaciones podrán exceptuar del concepto de grupo conectad
 CAPÍTULO III
 
 Otras disposiciones
-
-ARTÍCULO
 
 ## art:2.11.10.3.1 — Sanciones
 
@@ -18472,8 +16860,6 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.11.11.1.1 — Ámbito de aplicación
 
 Las disposiciones del presente Título serán aplicables a las cooperativas de ahorro y crédito, las cooperativas multiactivas e integrales con sección de ahorro y crédito, y los fondos de empleados de categoría plena de que trata el artículo 2.11.5.1.3. del presente decreto.
@@ -18481,8 +16867,6 @@ Las disposiciones del presente Título serán aplicables a las cooperativas de a
 PARÁGRAFO . Los fondos de empleados de categoría básica e intermedia, las asociaciones mutuales, y los organismos de segundo y tercer grado y las instituciones auxiliares del cooperativismo que, respectivamente, agrupen o sean creadas por las organizaciones de que trata el presente artículo, adoptarán facultativamente las disposiciones previstas en este Título.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.1.2 — Instrumentos de formalización
 
@@ -18494,15 +16878,11 @@ CAPÍTULO 2
 
 INFORMACIÓN A LOS ASOCIADOS, CONVOCATORIA Y POLÍTICAS MÍNIMAS PARA LA ASAMBLEA GENERAL
 
-ARTÍCULO
-
 ## art:2.11.11.2.1 — Objeto
 
 Las disposiciones contenidas en el presente capítulo tienen por objeto establecer algunos instrumentos de información y fortalecer la implementación de iniciativas que motiven la participación plural y democrática de los asociados en los órganos de administración, la toma de decisiones, la gestión de riesgos y el desarrollo de buenas prácticas de gobierno de las organizaciones.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.2.2 — Información permanente a los asociados
 
@@ -18515,8 +16895,6 @@ Las organizaciones deberán establecer requisitos de información a los asociado
 3. Los canales de comunicación de que dispone la organización, a través de los cuales se puede acceder a la información de la entidad.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.2.3 — Convocatoria a Asamblea General
 
@@ -18532,8 +16910,6 @@ PARÁGRAFO 1. Para la aplicación del numeral 2 del presente artículo, previo a
 
 PARÁGRAFO 2. La postulación de candidatos a miembros de órganos de administración, control y vigilancia se realizará de forma separada para los diferentes órganos, de manera que en una misma asamblea cada candidato se postule solamente a uno de ellos.
 
-ARTÍCULO
-
 ## art:2.11.11.2.4 — Información sobre la asamblea general
 
 Las organizaciones adoptarán políticas de comunicación e información dirigidas a los asociados sobre las decisiones tomadas en asamblea general. Entre estas políticas se establecerán canales de comunicación para todos los asociados, incluyendo aquellos que no hayan participado en la asamblea.
@@ -18544,15 +16920,11 @@ CAPÍTULO 3
 
 NOMBRAMIENTO DE DELEGADOS
 
-ARTÍCULO
-
 ## art:2.11.11.3.1 — Objeto
 
 Las disposiciones contenidas en el presente capítulo tienen por objeto fortalecer las relaciones de representación de los asociados con sus delegados, con base en políticas de comunicación que aseguren información completa y permanente sobre las decisiones adoptadas en la asamblea general o con la participación de los delegados.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.3.2 — Elección de delegados
 
@@ -18570,15 +16942,11 @@ CAPÍTULO 4
 
 ELECCIÓN DEL CONSEJO DE ADMINISTRACIÓN O JUNTA DIRECTIVA
 
-ARTÍCULO
-
 ## art:2.11.11.4.1 — Objeto
 
 Las disposiciones contenidas en el presente capítulo tienen por objeto establecer mecanismos que procuren la idoneidad de los miembros del consejo de administración o junta directiva, como medida de fortalecimiento del sector y de estabilidad de las organizaciones.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.4.2 — Elección de miembros de consejo de administración o junta directiva
 
@@ -18597,8 +16965,6 @@ PARÁGRAFO 2. Será requisito de postulación la manifestación expresa del cand
 PARÁGRAFO 3. Las organizaciones fijarán el nivel de los requisitos previstos en los numerales 1 y 2 del presente artículo, considerando sus características y la complejidad de sus operaciones. En todo caso, deberán propender por la formación y capacitación de todos sus asociados, especialmente en relación con estos requisitos.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.4.3 — Conformación y retribución del consejo de administración o junta directiva
 
@@ -18626,15 +16992,11 @@ CAPÍTULO 5
 
 LA GERENCIA
 
-ARTÍCULO
-
 ## art:2.11.11.5.1 — Objeto
 
 Las disposiciones contenidas en el presente capítulo tienen por objeto fortalecer el proceso de selección de los gerentes de las organizaciones y su relación con el consejo de administración o junta directiva.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.5.2 — Selección del gerente
 
@@ -18649,8 +17011,6 @@ El gerente de las organizaciones será nombrado en forma indelegable por el cons
 PARÁGRAFO . El consejo de administración o junta directiva verificará el cumplimiento de los requisitos previstos en el presente artículo, siguiendo los procedimientos de calificación del perfil y de decisión previamente establecidos en los reglamentos.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.5.3 — Relación con otros órganos de administración, control o vigilancia
 
@@ -18670,15 +17030,11 @@ CAPÍTULO 6
 
 JUNTA DE VIGILANCIA O COMITÉ DE CONTROL SOCIAL
 
-ARTÍCULO
-
 ## art:2.11.11.6.1 — Objeto
 
 Las disposiciones contenidas en el presente capítulo tienen por objeto propiciar que las organizaciones generen prácticas de coordinación entre sus órganos de administración y sus órganos de control o vigilancia, garantizando independencia y adecuada distribución funcional en aras del apropiado desarrollo del objeto social.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.6.2 — Funciones de la junta de vigilancia o comité de control social
 
@@ -18689,8 +17045,6 @@ De acuerdo con lo previsto en el artículo 59 de la Ley 454 de 1998, las funcion
 La función de control social debe tratarse de un control técnico ejercido con fundamento en criterios de investigación, valoración y procedimientos previamente establecidos y formalizados, que no deberá desarrollarse sobre materias que sean de competencia de los órganos de administración.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.6.3 — Elección de miembros de la junta de vigilancia o comité de control social
 
@@ -18707,8 +17061,6 @@ PARÁGRAFO 1. Será requisito de postulación la manifestación expresa del cand
 PARÁGRAFO 2. Las organizaciones fijarán el nivel de los requisitos previstos en los numerales 1 y 2 del presente artículo, considerando sus características y la complejidad de sus operaciones. En todo caso, deberán propender por la formación y capacitación de todos sus asociados, especialmente en relación con estos requisitos.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.6.4 — Conformación de la junta de vigilancia o comité de control social
 
@@ -18732,8 +17084,6 @@ PARÁGRAFO . Los miembros de la junta de vigilancia o comité de control social 
 
 (Decreto 962 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.11.6.5 — Sesiones de la junta de vigilancia o comité de control social
 
 La junta de vigilancia o comité de control social, se reunirá por lo menos con periodicidad trimestral, o extraordinariamente cuando los hechos o circunstancias los exijan.
@@ -18744,8 +17094,6 @@ CAPÍTULO 7
 
 REVISORÍA FISCAL
 
-ARTÍCULO
-
 ## art:2.11.11.7.1 — Objeto
 
 Las disposiciones previstas en el presente capitulo tienen por objeto asegurar la independencia de la función de revisoría fiscal con fines de control de la calidad de la información financiera.
@@ -18754,8 +17102,6 @@ La función de revisoría fiscal debe considerarse una función preventiva y de 
 
 (Decreto 962 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.11.11.7.2 — Período del revisor fiscal
 
 Con sujeción a los requisitos previstos en los artículos 41, 42 y 43 de la Ley 79 de 1988, y 41 del Decreto Ley 1481 de 1989, los estatutos sociales deberán contener el período de nombramiento del revisor fiscal y su suplente, y criterios de rotación que garanticen su independencia.
@@ -18763,8 +17109,6 @@ Con sujeción a los requisitos previstos en los artículos 41, 42 y 43 de la Ley
 La forma de retribución y evaluación de la revisoría fiscal deberá ser aprobada por la asamblea general.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.7.3 — Prestación de servicios adicionales
 
@@ -18776,15 +17120,11 @@ CAPÍTULO 8
 
 CONFLICTOS DE INTERÉS Y TRANSACCIONES CON PARTES RELACIONADAS
 
-ARTÍCULO
-
 ## art:2.11.11.8.1 — Objetivo
 
 Las disposiciones del presente capítulo tienen por objetivo promover la adecuada administración de conflictos de interés y la revelación correcta de información sobre las transacciones realizadas con partes relacionadas.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.8.2 — Políticas y procedimientos de administración de conflictos de interés
 
@@ -18795,8 +17135,6 @@ Las organizaciones contarán con políticas y procedimientos de administración 
 La Superintendencia de la Economía Solidaria impartirá instrucciones de carácter general sobre las condiciones mínimas de identificación, evaluación, control y monitoreo para el cumplimiento de lo previsto en el presente artículo.
 
 (Decreto 962 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.11.11.8.3 — Partes relacionadas
 
@@ -18950,8 +17288,6 @@ DISPOSICIONES TRANSVERSALES AL SISTEMA GENERAL DE SEGURIDAD SOCIAL
 
 FISCALIZACION DE LAS CONTRIBUCIONES PARAFISCALES DE LA PROTECCIÓN SOCIAL
 
-ARTÍCULO
-
 ## art:2.12.1.1 — Definiciones
 
 Las expresiones contenidas en este título tendrán los siguientes alcances:
@@ -18970,8 +17306,6 @@ Las expresiones contenidas en este título tendrán los siguientes alcances:
 
 (Art. 1 Decreto 3033 de 2013)
 
-ARTÍCULO
-
 ## art:2.12.1.2 — 1.2
 
 Control a la adecuada, completa y oportuna liquidación y pago de las Contribuciones Parafiscales de la Protección Social por parte de la UGPP. La Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP) efectuará las labores de determinación y cobro de las contribuciones parafiscales de la protección social, en los casos de omisión, inexactitud y mora por acción preferente.
@@ -18982,8 +17316,6 @@ PARÁGRAFO . Los procesos de determinación y cobro en materia de inexactitud in
 
 (Art. 2 Decreto 3033 de 2013)
 
-ARTÍCULO
-
 ## art:2.12.1.3 — 1.3
 
 Control a la adecuada, completa y oportuna liquidación y pago de las Contribuciones Parafiscales de la Protección Social por parte de las administradoras. Las entidades administradoras del Sistema de la Protección Social deberán verificar la exactitud y consistencia de la información contenida en las declaraciones de autoliquidación de aportes de las contribuciones que estas entidades administran, para lo cual solicitarán de los aportantes, afiliados o beneficiarios las explicaciones y correcciones sobre las inconsistencias detectadas.
@@ -18992,15 +17324,11 @@ Si realizadas estas acciones los aportantes no corrigen las inconsistencias dete
 
 (Art. 3 Decreto 3033 de 2013)
 
-ARTÍCULO
-
 ## art:2.12.1.4 — Determinación del número de empleados para la aplicación de la sanción por omisión en la afiliación y/o vinculación
 
 Para efectos de la sanción prevista en el numeral 1 del artículo 179 de la Ley 1607 de 2012, entiéndase que el número de empleados que la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP) deberá tener en cuenta para la imposición de la sanción, será el número de trabajadores que estuvieren vinculados en el respectivo periodo mensual en que se configuró la falta, sean estos trabajadores permanentes u ocasionales, con independencia del tiempo laborado en el periodo correspondiente.
 
 (Art. 4 Decreto 3033 de 2013)
-
-ARTÍCULO
 
 ## art:2.12.1.5 — Del procedimiento para la liquidación y cobro por no suministro de información
 
@@ -19009,8 +17337,6 @@ La sanción de cinco (5) UVT por cada día de retraso en la entrega de la inform
 No obstante lo anterior, se harán liquidaciones parciales de esta sanción por periodos consecutivos no mayores a 180 días hasta la entrega de la información respectiva sin que el plazo total supere el término de caducidad aplicable a la Unidad, según lo dispuesto en el parágrafo 2 del artículo 178 de la Ley 1607 de 2012 o las normas que la modifiquen o la sustituyan.
 
 (Art. 5 Decreto 3033 de 2013)
-
-ARTÍCULO
 
 ## art:2.12.1.6 — Selección de la administradora en el caso de requerirse afiliación transitoria
 
@@ -19024,15 +17350,11 @@ PARÁGRAFO 2. Los afiliados transitorios podrán ejercer su derecho al traslado 
 
 (Art. 6 Decreto 3033 de 2013)
 
-ARTÍCULO
-
 ## art:2.12.1.7 — Mecanismo de pago de las Contribuciones Parafiscales de la Protección Social
 
 El pago de los recursos correspondientes a las Contribuciones Parafiscales de la Protección Social y las sanciones correspondientes se realizará haciendo uso de la Planilla Integrada de Liquidación de Aportes (PILA). La entidad que tenga a su cargo la administración de la planilla, debe implementar los ajustes y cambios solicitados, a más tardar dentro de los treinta (30) días calendario siguientes a la fecha de radicación de la respectiva solicitud por parte de la UGPP.
 
 (Art. 7 Decreto 3033 de 2013)
-
-ARTÍCULO
 
 ## art:2.12.1.8 — 1.8
 
@@ -19050,8 +17372,6 @@ e) Los recursos que correspondan al SENA e ICBF, se girarán a cada una de estas
 
 (Art. 8 Decreto 3033 de 2013)
 
-ARTÍCULO
-
 ## art:2.12.1.9 — 1.9
 
 Responsabilidad de los obligados aportantes por las contingencias prestacionales que se presenten como consecuencia de la evasión por omisión, inexactitud o mora. Los pagos que realicen los obligados aportantes, con ocasión de las acciones de determinación y cobro, de las Contribuciones Parafiscales de la Protección Social que adelante la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP) en ejercicio de sus funciones, no los exime de la responsabilidad por las contingencias prestacionales que se presenten como consecuencia de la evasión por omisión, inexactitud o mora, conforme con las disposiciones legales vigentes.
@@ -19061,8 +17381,6 @@ Responsabilidad de los obligados aportantes por las contingencias prestacionales
 (Título, Sustituido por el Art. 1 del Decreto 1377 de 2020)
 
 PRESUNCIÓN DE COSTOS, SITUACIÓN JURÍDICA CONSOLIDADA POR PAGO, REVOCATORIA DIRECTA Y TERMINACIÓN POR MUTUO ACUERDO, OFERTA DE REVOCATORIA EN LAS CONCILIACIONES JUIDICIALES Y PROCEDIMIENTO PARA SU APLICACIÓN.
-
-ARTÍCULO
 
 ## art:2.12.2.1 — Aplicación del esquema de presunción de costos
 
@@ -19076,8 +17394,6 @@ PARÁGRAFO 2. Cuando se trate de procesos que se encuentren en trámite de exped
 
 PARÁGRAFO 3. Lo dispuesto en el presente artículo es aplicable hasta el vencimiento de las (2) dos legislaturas ordinarias siguientes, contadas a partir de la notificación de la Sentencia C-068 de 19 de febrero de 2020 que declaró la inexequibilidad del artículo 244 de la Ley 1955 de 2019, adicionado por el artículo 139 de la Ley 2010 de 2019, sin perjuicio de la aplicación del esquema de presunción de costos en la terminación por mutuo acuerdo y en la conciliación judicial, dentro de los términos previstos en los artículos 118,119 y 139 de la Ley 2010 de 2019, los primeros, modificados por el artículo 3 del Decreto Legislativo 688 de 2020.
 
-ARTÍCULO
-
 ## art:2.12.2.2 — Verificación de la situación jurídica consolidada por pago
 
 Previamente a la aplicación del esquema de presunción de costos de que trata el artículo 244 de la Ley 1955 de 2019, adicionado por el artículo 139 de la Ley 2010 de 2019, o a la presentación de la oferta de revocatoria en las conciliaciones de que trata el artículo 118 de la Ley 2010 de 2019, la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, verificará que no se haya efectuado el pago del valor total mensual por concepto de aportes, incluido el valor de intereses, determinados en el respectivo acto administrativo .
@@ -19086,23 +17402,17 @@ En aquellos periodos en los que el aportante hubiere pagado aportes, intereses y
 
 A los periodos mensuales donde se haya consolidado la situación jurídica por pago, no les resulta aplicable el esquema de presunción de costos de que trata el artículo 244 de la Ley 1955 de 2019, adicionado por el artículo 139 de la Ley 2010 de 2019.
 
-ARTÍCULO
-
 ## art:2.12.2.3 — Revocatoria directa y terminación por mutuo acuerdo
 
 En las terminaciones por mutuo acuerdo de que trata el artículo 119 de la Ley 2010 de 2019, la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, podrá previamente revocar directamente en los casos en que resulte procedente, los actos administrativos expedidos, en los términos del parágrafo 2del artículo 244 de la Ley 1955 de 2019, adicionado por el artículo 139 de la Ley 201 de 2019 , y aplicar el esquema de presunción de costos, previa aprobación del Comité de Conciliación y Defensa Judicial de la entidad .
 
 PARÁGRAFO : La terminación por mutuo acuerdo de que trata el artículo 119 de la Ley 2010 de 2019, no será aplicable a los intereses generados con ocasión a la determinación de los aportes del Sistema General de Pensiones, para lo cual los aportantes deberán acreditar el pago del 100% de los mismos o del cálculo actuarial cuando sea el caso.
 
-ARTÍCULO
-
 ## art:2.12.2.4 — Oferta de revocatoria en las conciliaciones del artículo 118 de la Ley 2010 de 2019
 
 En las conciliaciones de que trata el artículo 118 de la Ley 2010 de 2019, la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, podrá ofertar la revocatoria contra los actos impugnados con la aplicación del esquema de presunción de costos, conforme con lo previsto en el inciso 3 del parágrafo 8 del artículo 118 de la Ley 2010 de 2019, y demás disposiciones consonantes y aplicables, previa aprobación del Comité de Conciliación y Defensa Judicial de la entidad .
 
 PARÁGRAFO : La conciliación de que trata el artículo 118 de la Ley 2010 de 2019, no será aplicable a los intereses generados con ocasión a la determinación de los aportes del Sistema General de Pensiones, para lo cual los aportantes deberán acreditar el pago del 100% de los mismos o del cálculo actuarial cuando sea el caso.
-
-ARTÍCULO
 
 ## art:2.12.2.5 — Presentación de la oferta de revocatoria en las conciliaciones de que trata el artículo 118 de la Ley 2010 de 2019
 
@@ -19120,8 +17430,6 @@ La oferta de revocatoria en las conciliaciones de que trata el artículo 118 de 
 
 6. Informar que la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP o el aportante, según el caso, cumplirán con el requisito de presentación oportuna ante la autoridad contencioso-administrativa para su aprobación, del acta de conciliación debidamente suscrita.
 
-ARTÍCULO
-
 ## art:2.12.2.6 — 2.6
 
 Procedimiento para la conciliación del artículo 118 de la Ley 2010 de 2019 con posterioridad a la aceptación de la oferta de revocatoria. Una vez aceptada por el demandante la oferta de revocatoria de que trata el artículo 2. 12.2.5. del presente decreto y determinadas las obligaciones por la autoridad judicial, el demandante, para acceder a la conciliación respecto del acto ofertado, podrá acreditar lo siguiente:
@@ -19134,11 +17442,9 @@ Una vez aceptada la oferta de revocatoria por el demandante y aceptada la concil
 
 PARÁGRAFO : La presentación de la oferta de revocatoria para la aplicación del esquema de presunción de costos no suspende el término señalado en el artículo 118 de la Ley 2010 de 2019, para solicitar la conciliación judicial.
 
-## art:2.12.2 — 7. Acta de no conciliación por incumplimiento de requisitos
+## art:2.12.2.7 — Acta de no conciliación por incumplimiento de requisitos
 
 Cuando el Comité de Conciliación y Defensa Judicial de la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP evidencie que no se cumplen los requisitos señalados en el artículo 118 de la Ley 2010 de 2019, sus disposiciones reglamentarias, y en el presente título, expedirá un acta de no conciliación por incumplimiento de requisitos, que será presentada ante la autoridad contencioso administrativa, por cualquiera de las partes, para su conocimiento, dentro de los diez (10) días hábiles siguientes a su suscripción, acompañando los documentos que acreditan el incumplimiento de los requisitos legales.
-
-ARTÍCULO
 
 ## art:2.12.2.8 — 2.8
 
@@ -19149,8 +17455,6 @@ En el caso de los contribuyentes con actividades económicas especialmente afect
 CAPÍTULO 2
 
 CONCILIACION CONTENCIOSO ADMINISTRATIVA TRIBUTARIA
-
-ARTÍCULO
 
 ## art:2.12.2.2.1 — Procedencia de la Conciliación Contencioso Administrativa Tributaria
 
@@ -19184,8 +17488,6 @@ En estos casos la Unidad Administrativa Especial de Gestión Pensional y Contrib
 
 (Art. 1 Decreto 1302 de 2015)
 
-ARTÍCULO
-
 ## art:2.12.2.2.2 — Determinación de los Valores a Conciliar en los Procesos Contenciosos administrativos tributarios
 
 El valor objeto de conciliación en los procesos contenciosos administrativos tributarios, se determinará de la siguiente forma:
@@ -19201,8 +17503,6 @@ Para los efectos del presente numeral se entenderá que el proceso se encuentra 
 4. En los procesos contra un acto administrativo mediante el cual se imponga sanción por incumplimiento a los estándares de cobro fijados en la Resolución 444 de junio de 2013 de la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, se podrá conciliar el cincuenta por ciento (50%) de las sanciones siempre y cuando la administradora del Sistema de la Protección Social pague el cincuenta por ciento (50%) del valor de la sanción.
 
 (Art. 1 Decreto 1302 de 2015)
-
-ARTÍCULO
 
 ## art:2.12.2.2.3 — Solicitud de Conciliación Contencioso Administrativa Tributaria
 
@@ -19232,8 +17532,6 @@ PARÁGRAFO . Los interesados podrán radicar la solicitud directamente en los pu
 
 (Art. 1 Decreto 1302 de 2015)
 
-ARTÍCULO
-
 ## art:2.12.2.2.4 — Presentación de la fórmula de Conciliación
 
 La fórmula conciliatoria debe acordarse y suscribirse a más tardar el treinta (30) de julio de 2015 y deberá ser presentada para su aprobación ante la autoridad contencioso administrativa que conozca del proceso, por cualquiera de las partes dentro de los diez (10) días hábiles siguientes a su suscripción, anexando los documentos que acrediten el cumplimiento de los requisitos legales.
@@ -19247,8 +17545,6 @@ El término previsto en el presente artículo no aplicará para los aportantes q
 CAPÍTULO 3
 
 TERMINACION POR MUTUO ACUERDO DE LOS PROCESOS ADMINISTRATIVOS DE DETERMINACION Y SANCIONATORIOS
-
-ARTÍCULO
 
 ## art:2.12.2.3.1 — 3.1
 
@@ -19284,8 +17580,6 @@ En estos casos la Unidad Administrativa Especial de Gestión Pensional y Contrib
 
 (Art. 1 Decreto 1302 de 2015)
 
-ARTÍCULO
-
 ## art:2.12.2.3.2 — Determinación de los Valores a Terminar por Mutuo Acuerdo en los Procesos Administrativos Tributarios
 
 El valor objeto de transacción en los procesos administrativos tributarios, se determinará de la siguiente forma:
@@ -19297,8 +17591,6 @@ El valor objeto de transacción en los procesos administrativos tributarios, se 
 3. En los procesos contra un acto administrativo mediante el cual se imponga sanción por incumplimiento a los estándares de cobro fijados en la Resolución 444 de junio de 2013 de la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, o su respectivo recurso, las administradoras del sistema de la protección social podrán transar el cincuenta por ciento (50%) de las sanciones siempre y cuando paguen el cincuenta por ciento (50%) del valor de la sanción propuesta o determinada.
 
 (Art. 1 Decreto 1302 de 2015)
-
-ARTÍCULO
 
 ## art:2.12.2.3.3 — Solicitud de Terminación por Mutuo Acuerdo
 
@@ -19326,8 +17618,6 @@ PARÁGRAFO 2. El funcionario asignado para el estudio de la solicitud de termina
 
 (Art. 1 Decreto 1302 de 2015)
 
-ARTÍCULO
-
 ## art:2.12.2.3.4 — Presentación de la Solicitud
 
 La solicitud de terminación por mutuo acuerdo, podrá ser presentada hasta el treinta (30) de junio de 2015, directamente por los aportantes u obligados con el Sistema de la Protección Social o a través de sus apoderados con facultades expresas para adelantar el trámite correspondiente. Cuando se trate de personas jurídicas deberá acreditarse la facultad para transar en cabeza del representante legal.
@@ -19344,8 +17634,6 @@ La solicitud de terminación por mutuo acuerdo no suspende los términos de firm
 
 (Art. 1 Decreto 1302 de 2015)
 
-ARTÍCULO
-
 ## art:2.12.2.3.5 — Suscripción de la Fórmula de Transacción
 
 En todos los casos, el acta de terminación por mutuo acuerdo deberá suscribirse y aprobarse dentro del mes siguiente a su presentación en debida forma, y en todo caso a más tardar el treinta (30) de junio de 2015.
@@ -19357,8 +17645,6 @@ Una vez transados los valores propuestos o determinados en los actos administrat
 CAPÍTULO 4
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.12.2.4.1 — Pago del valor objeto de la Conciliación Contencioso Administrativa o de la Terminación por Mutuo Acuerdo
 
@@ -19372,15 +17658,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.12.3.1.1 — Fondo Nacional de Pensiones de las Entidades Territoriales
 
 El Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), creado por el artículo 3 de la Ley 549 de 1999 es un fondo sin personería jurídica, administrado por el Ministerio de Hacienda y Crédito Público. El Fonpet tendrá por objeto recaudar de la Nación y de las entidades territoriales los recursos definidos en la Ley 549, asignarlos en las cuentas respectivas, y administrarlos a través de patrimonios autónomos en los términos del presente capítulo.
 
 (Artículo 1 Decreto número 1044 de 2000)
-
-ARTÍCULO
 
 ## art:2.12.3.1.2 — Administración de recursos
 
@@ -19389,8 +17671,6 @@ Los recursos del Fonpet serán administrados a través de patrimonios autónomos
 El Ministerio de Hacienda y Crédito Público, en su condición de administrador del Fonpet, seleccionará los administradores de dichos patrimonios mediante un proceso de licitación pública que se desarrollará de conformidad con las reglas de la Ley 80 de 1993, sus normas reglamentarias, y el presente capítulo. Así mismo, el Ministerio celebrará los contratos respectivos.
 
 (Artículo 2 Decreto número 1044 de 2000)
-
-ARTÍCULO
 
 ## art:2.12.3.1.3 — Calidades de los administradores
 
@@ -19409,8 +17689,6 @@ En los casos en que durante la ejecución del contrato, el margen o índice de s
 3. Los recursos del Fonpet podrán ser administrados a través de uniones temporales o consorcios por dos o más entidades de las mencionadas en el numeral 1) de este artículo. En tal caso, se dará aplicación al artículo 2.5.3.1.4. del Decreto número 2555 de 2010.
 
 (Artículo 3 Decreto número 1044 de 2000; numeral 2 modificado por el artículo 1 Decreto número 1266 de 2001)
-
-ARTÍCULO
 
 ## art:2.12.3.1.4 — Administración de recursos
 
@@ -19446,8 +17724,6 @@ Cuando concurra la administración transitoria por parte de la Dirección Genera
 
 (Parágrafo adicionado por el Art. 1 del Decreto 967 de 2023)
 
-ARTÍCULO
-
 ## art:2.12.3.1.5 — Administración de cuentas de las entidades territoriales
 
 Corresponderá a las entidades administradoras, directamente o mediante los mecanismos que para el efecto se establezcan en el pliego de condiciones y en los contratos respectivos, realizar el registro de los recursos asignados por la Nación a cada entidad territorial y los que se reciban de las mismas, de acuerdo con la ley, así como de los rendimientos obtenidos.
@@ -19466,8 +17742,6 @@ Para el cumplimiento de este artículo el Ministerio de Hacienda y Crédito Púb
 
 (Artículo 7 Decreto número 1044 de 2000)
 
-ARTÍCULO
-
 ## art:2.12.3.1.6 — Otras obligaciones de las administradoras
 
 Además de las responsabilidades establecidas en la ley, el presente capítulo y en los contratos respectivos, las entidades administradoras tendrán las siguientes responsabilidades en materia de recolección, procesamiento y suministro de información:
@@ -19477,8 +17751,6 @@ Además de las responsabilidades establecidas en la ley, el presente capítulo y
 2. Suministrar la información requerida por la Superintendencia Financiera de Colombia y el Ministerio de Hacienda y Crédito Público en materia de saldo de recursos, composición de los portafolios y demás que se establezca en los términos de referencia, con la periodicidad que allí mismo se determine. Así mismo, los términos de referencia podrán prever el mecanismo y periodicidad con los cuales deberá suministrarse información a las entidades territoriales.
 
 (Artículo 8 Decreto número 1044 de 2000)
-
-ARTÍCULO
 
 ## art:2.12.3.1.7 — Recaudo de los recursos
 
@@ -19492,8 +17764,6 @@ Cuando las entidades territoriales hubieren celebrado convenios para el recaudo 
 
 (Artículo 9 Decreto número 1044 de 2000, numeral 2 modificado por el artículo 1 Decreto número 4478 de 2006)
 
-ARTÍCULO
-
 ## art:2.12.3.1.8 — Retiro de recursos por las entidades territoriales
 
 Sin perjuicio de lo establecido en el artículo 5 de la Ley 549, no se podrán retirar recursos de la cuenta de cada entidad territorial en el Fonpet hasta tanto, sumado el monto acumulado en la cuenta territorial en el Fondo Nacional de Pasivos de las Entidades Territoriales con los recursos que tengan en sus fondos territoriales de pensiones o en sus Patrimonios Autónomos o en las reservas legalmente constituidas por las entidades descentralizadas o demás entidades del nivel territorial, en los términos de la Ley 549, se haya cubierto el ciento por ciento (100%) del pasivo pensional, de conformidad con el respectivo cálculo actuarial.
@@ -19504,15 +17774,11 @@ Mientras la suma de estos saldos, no cubra dicho cálculo, la entidad deberá cu
 
 (Artículo 10 Decreto número 1044 de 2000)
 
-ARTÍCULO
-
 ## art:2.12.3.1.9 — Responsabilidad de la Nación y del Fonpet
 
 En ningún caso el Fonpet se hará cargo del pago directo de pensiones ni asumirá responsabilidades diferentes de las que le incumben en su condición de administrador de los recursos. En consecuencia, ni la Nación ni el Fonpetasumirán las responsabilidades que en condición de empleadores y únicos responsables de los pasivos pensionales corresponden a las entidades territoriales.
 
 (Artículo 11 Decreto número 1044 de 2000)
-
-ARTÍCULO
 
 ## art:2.12.3.1.10 — Comité Directivo del Fonpet
 
@@ -19542,15 +17808,11 @@ CAPÍTULO 2
 
 RECAUDO DE LOS RECURSOS DEL FONPET
 
-ARTÍCULO
-
 ## art:2.12.3.2.1 — Recaudo de los Recursos
 
 Corresponde a la Dirección General de Crédito Público y del Tesoro Nacional del Ministerio de Hacienda y Crédito Público el recaudo de los recursos de que tratan los numerales 1, 2, 3, 4 y 11 del artículo 2 de la Ley 549 de 1999.
 
 (Artículo 1 Decreto número 2757 de 2000)
-
-ARTÍCULO
 
 ## art:2.12.3.2.2 — Manejo de los recursos
 
@@ -19574,15 +17836,11 @@ PARÁGRAFO 2. Para dar cumplimiento al manejo independiente a que hace referenci
 
 (Artículo 2 Decreto 2757 de 2000, numeral 3 modificado por el artículo 1 Decreto 4755 de 2005.)
 
-ARTÍCULO
-
 ## art:2.12.3.2.3 — Operaciones
 
 La Dirección General de Crédito Público y del Tesoro Nacional con los recursos del Fonpet podrá realizar todas aquellas operaciones a ella legalmente autorizadas para el manejo de sus excedentes y de los fondos que administre. El manejo de los recursos deberá efectuarse teniendo en cuenta los criterios de seguridad, liquidez, rentabilidad y realizarse en condiciones de mercado.
 
 (Artículo 3 Decreto 2757 de 2000)
-
-ARTÍCULO
 
 ## art:2.12.3.2.4 — Incumplimiento
 
@@ -19594,15 +17852,11 @@ CAPÍTULO 3
 
 CÁLCULO ACTUARIAL DE REFERENCIA
 
-ARTÍCULO
-
 ## art:2.12.3.3.1 — Cálculos actuariales
 
 Mientras se termina el proceso que permitirá obtener los cálculos actuariales a que hace referencia el artículo 9 de la Ley 549 de 1999, el Ministerio de Hacienda y Crédito Público con base en la información que le sea remitida por cada entidad territorial, elaborará un cálculo de referencia, el cual enviará a las respectivas entidades territoriales, para que en un plazo no mayor a un mes, a partir de su recibo, realice las observaciones pertinentes sobre el mismo. Si el Ministerio recibe observaciones, ajustará el cálculo si es procedente, y lo adoptará como dato de referencia. Vencido este plazo sin observaciones, el cálculo efectuado por el Ministerio de Hacienda y Crédito Público se tomará como dato de referencia para los diferentes aspectos de la administración del Fonpet.
 
 (Artículo 5 Decreto 1266 de 2001)
-
-ARTÍCULO
 
 ## art:2.12.3.3.2 — Distribución de transferencias
 
@@ -19616,15 +17870,11 @@ CAPÍTULO 4
 
 RECURSOS DEL SITUADO FISCAL Y DE LA PARTICIPACIÓN DE LOS MUNICIPIOS EN LOS INGRESOS CORRIENTES DE LA NACIÓN, RECURSOS DEL SISTEMA GENERAL DE PARTICIPACIONES Y OTROS RECURSOS
 
-ARTÍCULO
-
 ## art:2.12.3.4.1 — Recursos del situado fiscal y de la participación de los municipios en los ingresos corrientes de la Nación
 
 Para la distribución de los recursos correspondientes al situado fiscal y a la participación de los municipios en los ingresos corrientes de la Nación a que se refieren los numerales 1 y 2 del artículo 2 de la Ley 549 de 1999, que se hayan causado a favor del Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), durante los años 2000 y 2001, se aplicará la distribución que se realizó para cada uno de dichos conceptos por parte del Departamento Nacional de Planeación para cada uno de estos años. Los recursos se trasladarán al Fonpet y se abonarán en las cuentas de las entidades territoriales, una vez se efectúen las operaciones presupuestales a que haya lugar.
 
 (Artículo 1 Decreto 1584 de 2002)
-
-ARTÍCULO
 
 ## art:2.12.3.4.2 — Otros recursos
 
@@ -19636,23 +17886,17 @@ Los recursos a los que se refiere el numeral 10 del artículo 2 de la Ley 549 de
 
 (Artículo 3 Decreto 1584 de 2002)
 
-ARTÍCULO
-
 ## art:2.12.3.4.3 — Inversión en títulos que tengan por finalidad la financiación de vivienda
 
 De conformidad con el numeral 7 del artículo 7 de la Ley 549 de 1999, el Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), invertirá hasta el treinta por ciento (30%) de los recursos que administra en los bonos y títulos de que tratan los artículos 9 y 12 de la Ley 546 de 1999, cuyos emisores u originadores sean establecimientos de crédito.
 
 (Artículo 4 Decreto 1584 de 2002)
 
-ARTÍCULO
-
 ## art:2.12.3.4.4 — Ingresos corrientes de libre destinación de los departamentos
 
 Para los efectos del numeral 9 del artículo 2 de la Ley 549 de 1999 se entiende por ingresos corrientes de libre destinación de los departamentos todos los ingresos corrientes de los departamentos o la porción de los mismos que no hayan sido asignados por la Constitución, la ley o las ordenanzas departamentales a una finalidad específica antes de la entrada en vigencia de la Ley 549 de 1999.
 
 (Artículo 5 Decreto 1584 de 2002)
-
-ARTÍCULO
 
 ## art:2.12.3.4.5 — Traslado de recursos al Fonpet
 
@@ -19666,8 +17910,6 @@ CAPÍTULO 5
 
 ANTICIPOS PARA PAGO DE MESADAS PENSIONALES ATRASADAS
 
-ARTÍCULO
-
 ## art:2.12.3.5.1 — Anticipo para el pago de mesadas atrasadas
 
 De conformidad con el parágrafo 6 del artículo 2 de la Ley 549 de 1999, el Gobierno nacional anticipará a los departamentos, distritos y municipios que tengan pendientes de pago mesadas atrasadas al 30 de octubre de 1999, el valor correspondiente para cubrir dicha deuda pensional, descontando el valor del anticipo o del mismo año o en los años subsiguientes de los recursos que deba girar la Nación al Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), en la parte que corresponda a la respectiva cuenta de las entidades territoriales, tomando en consideración la destinación de estos recursos.
@@ -19677,8 +17919,6 @@ De conformidad con el parágrafo 6 del artículo 2 de la Ley 549 de 1999, el Gob
 CAPÍTULO 6
 
 CUMPLIMIENTO DE REQUISITOS
-
-ARTÍCULO
 
 ## art:2.12.3.6.1 — Distribución de los recursos que aporta la Nación al FONPET
 
@@ -19710,8 +17950,6 @@ Para ejecutar las anteriores operaciones se efectuarán los correspondientes aju
 
 PARÁGRAFO. Para los efectos del presente Capítulo se entiende por recursos nacionales distintos a las transferencias constitucionales, los establecidos en los numerales 4, 5, 6 y 11 del Artículo 2 de la Ley 549 de 1999”.
 
-ARTÍCULO
-
 ## art:2.12.3.6.2 — Cumplimiento de las normas relativas al régimen pensional
 
 A efectos de verificar el cumplimiento de las normas relativas al régimen pensional por parte de las entidades territoriales, para los fines del parágrafo 3° del artículo 2° de la Ley 549 de 1999, las entidades deberán acreditar que se encuentran cumpliendo con los siguientes requisitos:
@@ -19729,8 +17967,6 @@ PARÁGRAFO. La certificación correspondiente al año 2011 se emitirá dentro de
 (Modificado por el Art. 4 del Decreto 1919 de 2023)
 
 (Artículo 2 Decreto 1308 de 2003, modificado por el artículo 2 Decreto 32 de 2005; modificado por el artículo 1 Decreto 4597 de 2011, modificado por el artículo 2 Decreto 2029 de 2012)
-
-ARTÍCULO
 
 ## art:2.12.3.6.3 — Cumplimiento de la Ley 549 de 1999
 
@@ -19762,8 +17998,6 @@ PARÁGRAFO TRANSITORIO 4. Las entidades territoriales que hayan cumplido, por lo
 
 (Parágrafos adicionados por el Decreto 2326 de 2022)
 
-ARTÍCULO
-
 ## art:2.12.3.6.4 — Efectos de los acuerdos de reestructuración o de pagos
 
 Cuando quiera que se celebren acuerdos de reestructuración en desarrollo de la Ley 550 de 1999 a partir de la suscripción de dichos acuerdos y en tanto los mismos se cumplan en las oportunidades en ellos previstas se considerará que la entidad no se encuentra en mora respecto de dichas obligaciones y por ello, siempre que se cumplan las demás obligaciones, la entidad tendrá derecho a que a partir de la fecha de suscripción del acuerdo se le abonen recursos nacionales en la forma establecida en la ley. La entidad que haya celebrado acuerdos de pago o de reestructuración no tendrá derecho a que se le abonen recursos nacionales que correspondan a los períodos en que hubiera estado en mora, con anterioridad a los acuerdos de pago o de reestructuración.
@@ -19771,8 +18005,6 @@ Cuando quiera que se celebren acuerdos de reestructuración en desarrollo de la 
 PARÁGRAFO . En desarrollo de lo previsto en el artículo 41 de la Ley 550 de 1999, como parte de la normalización del pasivo pensional, en los acuerdos de reestructuración deberá contemplarse expresamente la forma y las condiciones como se pagará la deuda pendiente con el Fonpet, tanto por capital como por intereses.
 
 (Artículo 5 Decreto 1308 de 2003)
-
-ARTÍCULO
 
 ## art:2.12.3.6.5 — Abono a las cuentas de las entidades territoriales
 
@@ -19785,8 +18017,6 @@ En el evento en que el Ministerio de Hacienda y Crédito Público llegare a veri
 CAPÍTULO 7
 
 DESTINACIÓN RECURSOS DEL SISTEMA GENERAL DE REGALÍAS CON DESTINO AL FONPET
-
-ARTÍCULO
 
 ## art:2.12.3.7.1 — Recursos del Sistema General de Regalías
 
@@ -19806,8 +18036,6 @@ SECCIÓN 1
 
 SALDO EN CUENTA
 
-ARTÍCULO
-
 ## art:2.12.3.8.1.1 — Saldo en cuenta de la entidad territorial en el Fonpet
 
 Para la determinación del saldo en cuenta de la entidad territorial que sirve de base para el cálculo de los recursos disponibles para el retiro de recursos del Fondo de Pensiones de las Entidades Territoriales (Fonpet), de que trata el artículo 6 de la Ley 549 de 1999 y 51 de la Ley 863 de 2003, se tendrá en cuenta el siguiente procedimiento:
@@ -19820,15 +18048,11 @@ El saldo en cuenta para retiros se calculará anualmente y será la base para es
 
 (Artículo 1 Decreto 4105 de 2004, parágrafo 1 modificado por el artículo 4 del Decreto 4810 de 2010. Modificado en su integridad por el artículo 5 del Decreto 2191 de 2013)
 
-ARTÍCULO
-
 ## art:2.12.3.8.1.2 — Distribución de retiros entre las administradoras
 
 Los retiros de recursos de que trata el presente capítulo se distribuirán entre las administradoras del Fonpet a prorrata de su participación en el total de recursos de capital administrados a la fecha de autorización del desembolso. A partir de la fecha de autorización de la entrega de recursos, las administradoras tendrán un plazo de diez (10) días hábiles para efectuar los desembolsos. Para la asignación de nuevos recursos recaudados entre las administradoras se utilizarán los mecanismos de asignación de recursos previstos en los contratos respectivos.
 
 (Artículo 2 Decreto 4105 de 2004, modificado por el artículo 1 Decreto 690 de 2005, modificado por el artículo 4 del Decreto 4478 de 2006, modificado por el artículo 2 Decreto 2176 de 2007)
-
-ARTÍCULO
 
 ## art:2.12.3.8.1.3 — Contabilización de los retiros
 
@@ -19838,15 +18062,11 @@ En todo caso, las solicitudes de retiros y las autorizaciones de las mismas se r
 
 (Artículo 3 Decreto 4105 de 2004)
 
-ARTÍCULO
-
 ## art:2.12.3.8.1.4 — Registro de los pasivos pensionales de las entidades territoriales en el Sistema de Información del Fonpet
 
 Los pasivos pensionales de las entidades territoriales correspondientes a los sectores Salud, Educación y Propósito General, actualizados a 31 de diciembre de la vigencia anterior, deberán ser registrados en el Sistema de Información del Fonpet a más tardar el 31 de mayo de cada vigencia. A partir de esta fecha, se podrá determinar los recursos excedentes por Sector para cada entidad territorial.
 
 (Artículo 6 Decreto 630 de 2016)
-
-ARTÍCULO
 
 ## art:2.12.3.8.1.5 — Registros contables y presupuestales
 
@@ -19854,15 +18074,11 @@ La aplicación de los recursos según lo previsto en el presente título, deber�
 
 (Artículo 15 Decreto 630 de 2016)
 
-ARTÍCULO
-
 ## art:2.12.3.8.1.6 — Certificación sobre el cumplimiento de la ley
 
 Para el retiro de los recursos de que trata el presente capítulo, las entidades territoriales deberán acreditar ante el Ministerio de Hacienda y Crédito Público-Dirección de Regulación Económica de la Seguridad Social, el cumplimiento de los requisitos establecidos en el Capítulo 6 del presente título, y las normas que lo modifiquen o adicionen.
 
 (Artículo 4 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.8.1.7 — Sujeción a las apropiaciones presupuestales
 
@@ -19874,8 +18090,6 @@ SECCIÓN 2
 
 AUTORIZACIÓN PARA EL RETIRO DE RECURSOS
 
-ARTÍCULO
-
 ## art:2.12.3.8.2.1 — Solicitud de la entidad territorial
 
 Para efectos de la autorización de los retiros de que trata el artículo 5 de la Ley 549 de 1999, la entidad territorial deberá presentar una solicitud escrita al Ministerio de Hacienda y Crédito Público - Dirección de Regulación Económica de la Seguridad Social. La solicitud deberá contener el monto del retiro solicitado, descripción de los activos que se entregarán a cambio de los recursos y su correspondiente avalúo, así como del esquema del negocio fiduciario que se propone para su administración y venta.
@@ -19883,8 +18097,6 @@ Para efectos de la autorización de los retiros de que trata el artículo 5 de l
 El Ministerio de Hacienda y Crédito Público - Dirección de Regulación Económica de la Seguridad Social, evaluará la solicitud presentada por la entidad territorial y solicitará las aclaraciones e información adicional que considere pertinentes.
 
 (Artículo 6 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.2 — Parámetros para la autorización de retiros
 
@@ -19902,8 +18114,6 @@ De conformidad con el artículo 5 de la Ley 549 de 1999, el Comité Directivo de
 
 (Artículo 7 Decreto 4105 de 2004)
 
-ARTÍCULO
-
 ## art:2.12.3.8.2.3 — Valor de los activos
 
 Los activos serán recibidos por su valor de mercado, el cual se establecerá de acuerdo con avalúos emitidos según las disposiciones legales aplicables. En ningún caso el valor de mercado de los activos podrá ser superior al valor en libros registrado en la contabilidad de la entidad territorial para la vigencia inmediatamente anterior. El valor de mercado de los activos recibidos deberá revisarse anualmente por parte de la entidad territorial y dicha revisión deberá ser comunicada al Fonpet por la entidad administradora de los activos.
@@ -19913,8 +18123,6 @@ En cualquier evento en que el valor de mercado de los activos sea inferior a aqu
 La liquidez de los activos deberá ser garantizada por la entidad territorial mediante la pignoración de rentas de su propiedad, la cual deberá constar en el contrato de encargo fiduciario de que trata el artículo 2.12.3.8.2.4. Dicha pignoración deberá cubrir además la diferencia resultante del menor valor de los activos de que trata el inciso anterior.
 
 (Artículo 8 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.4 — Constitución de encargo fiduciario
 
@@ -19930,15 +18138,11 @@ Corresponderá a la entidad administradora de los activos verificar que la entid
 
 (Artículo 9 Decreto 4105 de 2004)
 
-ARTÍCULO
-
 ## art:2.12.3.8.2.5 — Destinación de los retiros
 
 Los recursos cuyo retiro se autoriza de conformidad con la presente sección solamente podrán destinarse al pago de las obligaciones pensionales de la entidad territorial en el sector correspondiente. Sin perjuicio de las sanciones previstas en las normas legales aplicables, la destinación de los recursos a otros fines implica el incumplimiento de la Ley 549 de 1999, para todos los efectos previstos en las disposiciones pertinentes.
 
 (Artículo 10 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.6 — Utilización de los recursos acumulados en el Sector Salud del Fonpet para financiar Contratos de Concurrencia
 
@@ -19958,8 +18162,6 @@ Una vez se suscriba el respectivo contrato de concurrencia se tendrán en cuenta
 
 (Artículo 1 Decreto 630 de 2016)
 
-ARTÍCULO
-
 ## art:2.12.3.8.2.7 — 
 
 2.12.3.8.2.7.Giro de los recursos acumulados en el Sector Salud del Fonpet, diferentes a los de Lotto en Línea, para financiar Contratos de Concurrencia. El giro de los recursos acumulados en el Sector Salud del Fonpet, diferentes a los de Lotto en Línea, para financiar el valor comprometido por la entidad territorial en los Contratos de Concurrencia, deberá realizarse a los patrimonios autónomos o a los encargos fiduciarios constituidos para administrar los recursos de la concurrencia o a los Fondos Territoriales de Pensiones.
@@ -19967,8 +18169,6 @@ ARTÍCULO
 Para estos efectos, la entidad territorial presentará la solicitud de retiro de los recursos en los formatos establecidos para tal fin por la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público, quien la revisará, y si la encuentra conforme a las normas vigentes, autorizará el giro de los recursos comprometidos con base en el monto de recursos registrados en el Sistema de Información del Fonpet a 31 de diciembre de la vigencia inmediatamente anterior.
 
 (Artículo 2 Decreto 630 de 2016)
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.8 — 2.8
 
@@ -19986,15 +18186,11 @@ PARÁGRAFO 2. Las entidades territoriales también podrán financiar con los rec
 
 PARÁGRAFO 3. Para estos efectos, la entidad territorial deberá enviar a la Dirección General de Regulación Económica de la Seguridad Social -DGRESS del Ministerio de Hacienda y Crédito Público, el acto administrativo de reconocimiento y asunción de las otras obligaciones pensionales con el Sector Salud, de que trata este Artículo. Adem4s, deberán incluirse los bonos pensionales en el Sistema de Certificación Electrónica de Tiempos Laborados -CETIL-, y las mesadas pensionales y las cuotas partes pensionales, dentro de la base de datos enviada por las entidades territoriales al Programa PASIVOCOL del Ministerio de Hacienda y Crédito Público”.
 
-ARTÍCULO
-
 ## art:2.12.3.8.2.9 — Cálculo del pasivo pensional de las otras obligaciones pensionales asumidas por las entidades territoriales
 
 Para efectos de realizar el cálculo actuarial del pasivo pensional asumido por las entidades territoriales de que trata el artículo 2.12.3.8.2.8. de este decreto, estas deberán registrar la información de las historias laborales de los funcionarios activos, pensionados, beneficiarios y retirados de la Institución o Instituciones Hospitalarias, en el Programa Pasivocol, del Ministerio de Hacienda y Crédito Público.
 
 (Artículo 4 Decreto 630 de 2016)
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.10 — .10
 
@@ -20003,8 +18199,6 @@ Giro de los recursos acumulados en el Sector Salud del Fonpet, diferentes a los 
 Para estos efectos, la entidad territorial presentará la solicitud de retiro de los recursos a la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público, quien deberá revisarla y si la encuentra conforme a las normas vigentes, autorizará el giro de los recursos comprometidos, con base en el monto de recursos registrados en el Sistema de Información del Fonpet a 31 de diciembre de la vigencia inmediatamente anterior.
 
 (Artículo 5 Decreto 630 de 2016)
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.11 — .11
 
@@ -20023,8 +18217,6 @@ PARÁGRAFO TRANSITORIO 2. Para las vigencias 2022 y 2023, la Dirección General 
 (Modificado por el Decreto 2326 de 2022)
 
 jurisprudencia72893_1670946882688
-
-ARTÍCULO
 
 ## art:2.12.3.8.2.12 — Pago de mesadas Pensionales corrientes
 
@@ -20052,8 +18244,6 @@ SECCIÓN 3
 
 OBLIGACIÓN DE CUBRIMIENTO DEL PASIVO PENSIONAL
 
-ARTÍCULO
-
 ## art:2.12.3.8.3.1 — Cubrimiento del pasivo pensional
 
 Teniendo en cuenta la obligación de cobertura integral del pasivo pensional prevista en el artículo 1 de la Ley 549 de 1999, para efectos de establecer el cubrimiento del ciento por ciento (100%) del pasivo pensional de que trata el artículo 6 de la misma ley, se calculará, en términos porcentuales, la proporción existente entre las reservas y los pasivos de las entidades territoriales y sus descentralizadas así:
@@ -20080,8 +18270,6 @@ PARÁGRAFO . Para los efectos del presente artículo, las entidades territoriale
 
 (Artículo 11 Decreto 4105 de 2004)
 
-ARTÍCULO
-
 ## art:2.12.3.8.3.2 — Cesación de obligaciones
 
 Mientras el cubrimiento del pasivo pensional sea inferior al ciento por ciento (100%), la entidad territorial deberá continuar realizando aportes al Fonpet con las fuentes a su cargo previstas en el artículo 2 de la Ley 549 de 1999 y las disposiciones que lo modifiquen o adicionen.
@@ -20093,8 +18281,6 @@ Asimismo, cesará la obligación de la Nación de transferir a la cuenta de la e
 En cualquier evento en que se demuestre que la entidad territorial ha asumido nuevas obligaciones pensionales o el monto de cubrimiento del pasivo es inferior al inicialmente previsto, se reiniciará su obligación de realizar aportes al Fonpet y, correlativamente, la Nación reiniciará la transferencia de recursos de origen nacional. Para estos efectos, el Ministerio de Hacienda y Crédito Público - Dirección de Regulación Económica de la Seguridad Social, realizará la actualización anual de los cálculos actuariales y la revisión de las reservas existentes.
 
 (Artículo 12 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.8.3.3 — Retiro de recursos
 
@@ -20114,23 +18300,17 @@ Cuando la entidad territorial tenga obligaciones pendientes por aportes al Fonpe
 
 (Artículo 13 Decreto 4105 de 2004, parágrafo adicionado por el artículo 4 Decreto 2948 de 2010)
 
-ARTÍCULO
-
 ## art:2.12.3.8.3.4 — Nuevas entidades territoriales
 
 El cubrimiento del pasivo pensional por parte de las nuevas entidades territoriales será verificado por el Ministerio de Hacienda y Crédito Público-Dirección de Regulación Económica de la Seguridad Social, con base en el acto de creación y en cruces de información que realice con la Contaduría General de la Nación, los organismos de control y las entidades de las cuales las nuevas entidades fueren segregadas.
 
 (Artículo 14 Decreto 4105 de 2004)
 
-ARTÍCULO
-
 ## art:2.12.3.8.3.5 — Destinación específica
 
 Los recursos entregados de acuerdo con el presente capítulo deberán destinarse exclusivamente al pago de obligaciones pensionales de la misma entidad territorial, de acuerdo con el artículo 2.12.3.8.3.1., numeral 2 de este decreto. Si la entidad territorial no tuviere pasivos a cargo, los recursos previstos en los numerales 1 y 2 del artículo 2 de la Ley 549 de 1999 y los recursos del Sistema General de Participaciones conservarán en todo caso la destinación prevista en la Constitución y en la ley.
 
 (Artículo 15 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.8.3.6 — 3.6
 
@@ -20142,8 +18322,6 @@ A su vez, cuando las entidades territoriales tienen pasivo pensional con el Sect
 
 (Artículo 9 Decreto 630 de 2016)
 
-ARTÍCULO
-
 ## art:2.12.3.8.3.7 — Retiro de los recursos excedentes acumulados en el Sector Educación del Fonpet
 
 Las entidades territoriales que no tengan obligaciones pensionales con el Sector Educación o que las tengan plenamente financiadas, en los términos del artículo 2.12.3.9.2. del presente decreto, una vez trasladados los recursos al Fondo de Prestaciones Sociales del Magisterio (Fomag), destinarán los recursos excedentes acumulados en el Sector Educación del Fonpet para la financiación de proyectos de inversión y atenderá la destinación específica de la fuente de que provengan estos recursos.
@@ -20151,8 +18329,6 @@ Las entidades territoriales que no tengan obligaciones pensionales con el Sector
 Para estos efectos la entidad territorial presentará la solicitud de retiro de los recursos excedentes del Sector Educación a la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público, quien la revisará, y si la encuentra conforme, autorizará el giro de los recursos solicitados en retiro, con base en el monto de recursos registrados en el Sistema de Información del Fonpet a 31 de diciembre de la vigencia inmediatamente anterior.
 
 (Artículo 10 Decreto 630 de 2016)
-
-ARTÍCULO
 
 ## art:2.12.3.8.3.8 — Retiro de los recursos excedentes acumulados en el Sector Propósito General
 
@@ -20166,8 +18342,6 @@ TRANSFERENCIAS DE RECURSOS PARA AMORTIZACIÓN DE LA DEUDA CONSOLIDADA CON EL FON
 
 DEL MAGISTERIO
 
-ARTÍCULO
-
 ## art:2.12.3.9.1 — Saldo consolidado de la deuda
 
 De conformidad con el parágrafo 4 del artículo 18 de la Ley 715 de 2001, el valor del cálculo actuarial por concepto de pensiones que representa el saldo consolidado de la deuda, de que trata el mismo artículo se establecerá en la forma prevista en el artículo 2.4.4.2.1.4 del Decreto 1075 de 2015 y se verificará por el Ministerio de Hacienda y Crédito Público - Dirección de Regulación Económica de la Seguridad Social. Para establecer el saldo consolidado de la deuda se tendrán en cuenta los aportes y amortizaciones de deuda realizados por la entidad territorial, los cuales se actualizarán de conformidad con el parágrafo 1 del artículo 2.4.4.2.1.5. del Decreto 1075 de 2015.
@@ -20177,8 +18351,6 @@ El valor del cálculo actuarial deberá actualizarse anualmente, con el fin de m
 Mientras se establece el valor del cálculo actuarial por concepto de pensiones, se tendrá en cuenta como saldo consolidado de la deuda el valor del pasivo que por este concepto se encuentre registrado en el SIF.
 
 (Artículo 16 Decreto 4105 de 2004)
-
-ARTÍCULO
 
 ## art:2.12.3.9.2 — Transferencia de recursos por el Fonpet
 
@@ -20202,8 +18374,6 @@ CAPÍTULO 10
 
 RETIRO DE RECURSOS PARA EL PAGO DE BONOS PENSIONALES Y CUOTAS PARTES DE BONOS PENSIONALES
 
-ARTÍCULO
-
 ## art:2.12.3.10.1 — Procedimiento
 
 Para el retiro de recursos con destino al pago de bonos pensionales y cuotas partes de bonos pensionales previsto en el artículo 51 de la Ley 863 de 2003 deberán cumplirse los siguientes requisitos:
@@ -20218,8 +18388,6 @@ Para el retiro de recursos con destino al pago de bonos pensionales y cuotas par
 
 (Artículo 18 del Decreto 4105 de 2004).
 
-ARTÍCULO
-
 ## art:2.12.3.10.2 — Pago de intereses de mora
 
 Los recursos del Fonpet no podrán destinarse al pago de intereses de mora por concepto de bonos pensionales o cuotas partes de bonos pensionales. Si dichos intereses llegaren a causarse, deberán ser pagados con recursos propios de la entidad territorial. La administradora de pensiones deberá en todo caso certificar que los recursos entregados por este concepto se destinaron exclusivamente en la forma prevista en el presente artículo.
@@ -20229,8 +18397,6 @@ Los recursos del Fonpet no podrán destinarse al pago de intereses de mora por c
 CAPÍTULO 11
 
 CONDICIONES PARA EL PAGO Y COBRO COACTIVO
-
-ARTÍCULO
 
 ## art:2.12.3.11.1 — Condiciones de pago y cobro coactivo
 
@@ -20256,8 +18422,6 @@ Una vez resuelta la controversia, si resulta un mayor valor a cargo de la entida
 
 (Artículo 20, Decreto 4105 de 2004, modificado por el artículo 3 Decreto 4478 de 2006, y modificado por el artículo 2 del Decreto 2948 de 2010).
 
-ARTÍCULO
-
 ## art:2.12.3.11.2 — Comisiones de administración
 
 (Derogado por el Decreto 1913 de 2018, art. 12). Teniendo en cuenta lo dispuesto en el numeral 6 del artículo 72 de la Ley 549 de 1999, para el pago de las comisiones de administración de los patrimonios autónomos del Fonpet, la distribución de los recursos del Presupuesto General de la Nación que se realice por parte del Ministerio de Hacienda y Crédito Público incluirá el valor de las comisiones que las entidades administradoras deban descontar de los rendimientos obtenidos en las cuentas de las entidades territoriales en el Fonpet.
@@ -20269,8 +18433,6 @@ Para estos efectos, las entidades administradoras distribuirán el valor de las 
 CAPÍTULO 12
 
 CONSIDERACIONES POR VENTA DE ACTIVOS
-
-ARTÍCULO
 
 ## art:2.12.3.12.1 — Enajenación de acciones y activos de las entidades territoriales
 
@@ -20284,23 +18446,17 @@ CAPÍTULO 13
 
 ADMINISTRACIÓN DE LOS RECURSOS DEL FONPET
 
-ARTÍCULO
-
 ## art:2.12.3.13.1 — Patrimonios autónomos
 
 De conformidad con lo previsto en el artículo 3 de la Ley 549 de 1999, los recursos del Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), serán administrados a través de patrimonios autónomos. Los recursos que se destinen al Fonpet por las entidades aportantes deberán haber sido apropiados con dicho objeto y su entrega constituirá ejecución de la respectiva partida presupuestal. En consecuencia, en caso de prórroga de los contratos de administración o para adelantar procesos de selección y posterior suscripción y ejecución de los mismos, no requerirán el certificado de disponibilidad presupuestal ni la autorización de vigencias futuras.
 
 (Artículo 1, Decreto 4758 de 2005.)
 
-ARTÍCULO
-
 ## art:2.12.3.13.2 — Rendimientos financieros
 
 Los rendimientos financieros obtenidos en la gestión de los recursos del Fonpet tendrán el mismo tratamiento establecido en la excepción que para los recursos de los órganos de previsión y seguridad social establece el parágrafo 2 del artículo 16 del Estatuto Orgánico del Presupuesto y no se incorporarán al Presupuesto General de la Nación ni a los presupuestos de las entidades territoriales, mientras no se haya autorizado su retiro.
 
 (Artículo 2, Decreto 4758 de 2005).
-
-ARTÍCULO
 
 ## art:2.12.3.13.3 — Comisiones de administración
 
@@ -20322,8 +18478,6 @@ CAPÍTULO 14
 
 REEMBOLSO POR PAGO DE BONOS PENSIONALES
 
-ARTÍCULO
-
 ## art:2.12.3.14.1 — Pago de bonos pensionales y reembolso
 
 En desarrollo de lo previsto en el artículo 51 de la Ley 863 de 2003, las entidades territoriales podrán utilizar hasta el cincuenta por ciento (50%) del saldo disponible en la cuenta del Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), aun cuando la reserva constituida no haya alcanzado el ciento por ciento (100%) del pasivo pensional, con destino al cubrimiento de las obligaciones por concepto de bonos pensionales y cuotas partes de bonos pensionales.
@@ -20333,8 +18487,6 @@ El Fonpet reembolsará a las entidades territoriales los pagos de bonos pensiona
 Al reembolso de que trata el presente capítulo no se aplicará el procedimiento previsto en los artículos 2.12.3.10.1 y 2.12.3.10.2 del presente decreto. No obstante, estará sometido al límite de que trata el artículo 51 de la Ley 863 de 2003, en concordancia con lo establecido en el artículo 2.12.3.8.1.1 del presente decreto.
 
 (Artículo 1, Decreto 946 de 2006).
-
-ARTÍCULO
 
 ## art:2.12.3.14.2 — Solicitud para el reembolso
 
@@ -20358,8 +18510,6 @@ CAPÍTULO 15
 
 ADMINISTRACIÓN DE TÍTULO DE TESORERÍA
 
-ARTÍCULO
-
 ## art:2.12.3.15.1 — Representante de los pensionados en el Comité Directivo del Fonpet
 
 Para efectos de lo dispuesto en el artículo 8 de la Ley 549 de 1999, el Ministerio del Trabajo publicará un aviso en un diario de amplia circulación nacional, invitando a los Presidentes de las Agremiaciones de Pensionados de las Entidades Territoriales que se encuentren debidamente registradas en las diferentes Direcciones Territoriales del Ministerio del Trabajo, para que postulen candidatos ante dicho ministerio con el fin de elegir el representante de los pensionados en el Fonpet. En el aviso se establecerá el plazo para la postulación, la fecha de la elección, la forma del escrutinio, y todas las demás condiciones para llevar a cabo la elección.
@@ -20368,8 +18518,6 @@ El candidato que haya obtenido el mayor número de votos será declarado elegido
 
 (Artículo 5, Decreto 4478 de 2006).
 
-ARTÍCULO
-
 ## art:2.12.3.15.2 — Recursos de que trata el artículo 48 de la Ley 863 de 2003
 
 Los recursos correspondientes al 5% de las regalías directas de que trata el artículo 48 de la Ley 863 de 2003, se trasladarán al Fonpet con la misma periodicidad y oportunidad prevista en las normas pertinentes para el traslado de los recursos al Fondo Nacional de Regalías y a las entidades territoriales beneficiarias de las mismas, respectivamente, por parte de las entidades recaudadoras de estos recursos.
@@ -20377,8 +18525,6 @@ Los recursos correspondientes al 5% de las regalías directas de que trata el ar
 Los recursos por concepto de regalías que no se hubieren transferido al Fonpet por parte de las entidades recaudadoras, se trasladarán a más tardar dentro del mes siguiente al 15 de diciembre de 2006 junto con los rendimientos financieros netos que se hubieren causado hasta la fecha de traslado de acuerdo con la certificación que para el efecto expida el representante legal de la entidad recaudadora de las regalías.
 
 (Artículo 6 Decreto 4478 de 2006, inciso primero derogado parcialmente por el artículo 6, Decreto 3250 de 2011).
-
-ARTÍCULO
 
 ## art:2.12.3.15.3 — Administración transitoria de recursos por la Dirección General de Crédito Público y del Tesoro Nacional
 
@@ -20389,8 +18535,6 @@ Si hubiere lugar al traslado de disponibilidades de caja, la mencionada Direcci�
 El proceso de entrega de los títulos respectivos deberá constar en un acta de recibo, que en señal de aceptación deberá suscribir la Dirección de Crédito Público y del Tesoro Nacional junto con el representante legal de las entidades y los supervisores de los contratos.
 
 (Artículo 8, Decreto 4478 de 2006).
-
-ARTÍCULO
 
 ## art:2.12.3.15.4 — Inversiones de la Dirección de Crédito Público y del Tesoro Nacional
 
@@ -20406,8 +18550,6 @@ CAPÍTULO 16
 
 EXCLUSIÓN DE REALIZAR APORTES AL FONPET
 
-ARTÍCULO
-
 ## art:2.12.3.16.1 — Entidades excluidas de la obligación de realizar aportes por concepto de regalías, derechos o compensaciones al Fonpet
 
 De conformidad con el artículo 48 de la Ley 863 de 2003 las entidades territoriales que hayan cubierto el ciento por ciento (100%) de las provisiones del pasivo pensional en los términos previstos en la Ley 549 de 1999, están excluidas de la obligación de realizar aportes al Fonpet por concepto de regalías, derechos o compensaciones provenientes de la explotación de recursos no renovables, de acuerdo con la certificación que expida al efecto el Ministerio de Hacienda y Crédito Público.
@@ -20415,8 +18557,6 @@ De conformidad con el artículo 48 de la Ley 863 de 2003 las entidades territori
 Para efectos de la expedición de la certificación a que hace referencia el presente artículo, el Ministerio de Hacienda y Crédito Público tendrá en cuenta las disposiciones que respecto del cubrimiento del pasivo pensional se establecen en el artículo 2.12.3.16.3. del presente decreto. Copia de esta certificación se remitirá a las entidades responsables del recaudo de los aportes.
 
 (Artículo 1, Decreto 055 de 2009).
-
-ARTÍCULO
 
 ## art:2.12.3.16.2 — 6.2
 
@@ -20427,8 +18567,6 @@ Para las entidades que no tengan pasivo pensional, la Dirección de Regulación 
 Para las entidades que se encuentren en acuerdo de reestructuración, la Dirección General de Apoyo Fiscal del Ministerio de Hacienda y Crédito Público remitirá a la Dirección de Regulación Económica de la Seguridad Social copia de la certificación que expida con destino al Departamento Nacional de Planeación, en la cual se manifieste que se han reorientado recursos del Sistema General de Participaciones para financiar el acuerdo de reestructuración.
 
 (Artículo 2, Decreto 055 de 2009).
-
-ARTÍCULO
 
 ## art:2.12.3.16.3 — Cubrimiento del pasivo pensional
 
@@ -20462,8 +18600,6 @@ Para los efectos de la aplicación del presente parágrafo, el porcentaje de cob
 
 (Artículo 3, Decreto 055 de 2009, parágrafo adicionado por el artículo 13 Decreto 630 de 2016).
 
-ARTÍCULO
-
 ## art:2.12.3.16.4 — Reducción o suspensión de aportes al Fonpet con base en el modelo de administración financiera
 
 De acuerdo con lo establecido en el parágrafo 8 del artículo 2 de la Ley 549 de 1999, las entidades territoriales que cumplan las metas señaladas en el modelo de administración financiera de aportes al Fonpet adoptado por el Ministerio de Hacienda y Crédito Público, podrán solicitar a dicho ministerio la reducción o suspensión de los aportes al Fonpet con cargo a los ingresos de origen territorial.
@@ -20480,8 +18616,6 @@ Cuando quiera que los recursos disponibles en el Fondo Territorial de Pensiones 
 
 (Artículo 4 Decreto 055 de 2009)
 
-ARTÍCULO
-
 ## art:2.12.3.16.5 — Cubrimiento del Pasivo Pensional por Sector del Fonpet
 
 Se entenderá cubierto el pasivo pensional de la entidad territorial, cuando para cada sector se cumplan las condiciones establecidas en el artículo 2.12.3.16.3. del presente decreto.
@@ -20492,8 +18626,6 @@ Para calcular el cubrimiento del pasivo pensional por cada sector, las entidades
 
 (Artículo 7 Decreto 630 de 2016)
 
-ARTÍCULO
-
 ## art:2.12.3.16.6 — Distribución de recursos
 
 Las entidades responsables del giro de recursos al Fonpet en cumplimiento de lo dispuesto en el artículo 2 de la Ley 549 de 1999 y el artículo 48 de la Ley 863 de 2003, y el Ministerio que haya elaborado el programa de enajenación de que trata el artículo 6 de la Ley 226 de 1995, para el caso de las privatizaciones de que trata el numeral 4 del artículo 2 de la Ley 549 de 1999, deberán expedir un acto administrativo motivado en el cual se distribuyan porcentualmente los recursos entre las cuentas de las entidades territoriales en el Fonpet y se explique el mecanismo utilizado para este propósito.
@@ -20502,15 +18634,11 @@ Para el caso de los aportes al Fonpet que estén incorporados en el Presupuesto 
 
 (Artículo 6 Decreto 055 de 2009)
 
-ARTÍCULO
-
 ## art:2.12.3.16.7 — Saldo en cuenta para retiros
 
 Para los efectos de la Sección 2, Capítulo 8 del presente título, el saldo en cuenta para retiros incluirá las fuentes de recursos previstas en el numeral 7 del artículo 2 de la Ley 549 de 1999 que se encuentren acreditadas en la cuenta de Fonpeta la fecha de la solicitud.
 
 (Artículo 7 Decreto 055 de 2009)
-
-ARTÍCULO
 
 ## art:2.12.3.16.8 — Autorización de retiro
 
@@ -20521,8 +18649,6 @@ La autorización del retiro de recursos del Fonpet a que se refieren el artícul
 CAPÍTULO 17
 
 REGLAMENTACIÓN PARCIAL DEL ARTÍCULO 48 DE LA LEY 863 DE 2003
-
-ARTÍCULO
 
 ## art:2.12.3.17.1 — Distribución de los recursos
 
@@ -20536,23 +18662,17 @@ PARÁGRAFO . Los recursos señalados serán distribuidos entre las entidades ter
 
 (Artículo 1 Decreto 3250 de 2011)
 
-ARTÍCULO
-
 ## art:2.12.3.17.2 — Certificación del monto a distribuir
 
 La distribución anual de los recursos, convertidos a Unidades Fonpet, con corte a 31 de diciembre de cada vigencia, se hará con base en el monto de reservas acumuladas, registrado con cargo a las fuentes “Fondo Nacional de Regalías” en el sistema de información del Fonpet, sobre el 50% de los recursos del FNR que ingresaron al Fonpet, en los términos señalados por el inciso 3 del artículo 48 de la Ley 863 de 2003. Esta información será suministrada por la Dirección General de Regulación Económica de la Seguridad Social (DRESS) del Ministerio de Hacienda y Crédito Público al Departamento Nacional de Planeación.
 
 (Artículo 2 Decreto 3250 de 2011)
 
-ARTÍCULO
-
 ## art:2.12.3.17.3 — Certificación del monto total del pasivo pensional y su composición
 
 El Ministerio de Hacienda y Crédito Público a través de la Dirección General de Regulación Económica de la Seguridad Social (DRESS), a más tardar el último día hábil del mes de junio de cada vigencia, certificará de conformidad con el anterior capítulo al Departamento Nacional de Planeación, junto con lo requerido en el artículo anterior, el monto total del pasivo pensional a 31 de diciembre de la vigencia inmediatamente anterior y los porcentajes de composición de los pasivos por grupos de entidades territoriales mencionados en el artículo 2.12.3.17.1. del presente decreto. Así mismo, certificará el monto individual del pasivo pensional de cada entidad territorial y su porcentaje de cobertura del pasivo pensional a la fecha en que se esté suministrando la información.
 
 (Artículo 3 Decreto 3250 de 2011)
-
-ARTÍCULO
 
 ## art:2.12.3.17.4 — Información y abono
 
@@ -20563,8 +18683,6 @@ El Departamento Nacional de Planeación, establecerá, mediante acto administrat
 CAPÍTULO 18
 
 GASTOS ADMINISTRATIVOS DEL FONPET
-
-ARTÍCULO
 
 ## art:2.12.3.18.1 — Gastos administrativos
 
@@ -20607,8 +18725,6 @@ jurisprudencia72893_1670947077819
 CAPÍTULO 19
 
 LA RENTABILIDAD MÍNIMA DEL FONPET Y OTRAS DISPOSICIONES
-
-ARTÍCULO
 
 ## art:2.12.3.19.1 — Régimen de inversiones aplicable
 
@@ -20666,8 +18782,6 @@ En todo caso, el portafolio de referencia deberá tener en cuenta los límites e
 
 (Parágrafo adicionado por el Art. 2 del Decreto 967 de 2023)
 
-ARTÍCULO
-
 ## art:2.12.3.19.2 — 9.2
 
 Gobierno corporativo Las entidades administradoras de los patrimonios autónomos del Fondo Nacional de Pensiones de las Entidades Territoriales - FONPET y otros patrimonios autónomos públicos destinados a la garantía y pago de pensiones deberán cumplir las reglas de gobierno corporativo comunes al proceso de inversión previstas en el Título 13 del Libro 6 de la Parte 2 del Decreto número 2555 de 2010, que resulten aplicables.
@@ -20675,8 +18789,6 @@ Gobierno corporativo Las entidades administradoras de los patrimonios autónomos
 Cuando los recursos sean administrados mediante consorcios o uniones temporales, deberán definirse claramente las reglas que se aplicarán internamente para el cumplimiento de lo previsto del Título 13 del Libro 6 de la Parte 2 del Decreto número 2555 de 2010. En los contratos de administración de los recursos, se deben establecer los procedimientos y controles para verificar el cumplimiento de las reglas de gobierno corporativo requeridas por este artículo.
 
 (Artículo 2 Decreto 1861 de 2012; Modificado por el Decreto 1913 de 2018, art. 10)
-
-ARTÍCULO
 
 ## art:2.12.3.19.3 — Régimen de transición
 
@@ -20686,15 +18798,11 @@ El plan de ajuste o de desmonte se deberá ejecutar dentro de un plazo no superi
 
 (Artículo 3 Decreto 1861 de 2012, modificado por el artículo 1 del Decreto 2581 de 2012)
 
-ARTÍCULO
-
 ## art:2.12.3.19.4 — Criterios para la realización de las inversiones
 
 Sin perjuicio de las reglas y límites establecidos en el artículo 2.12.3.19.1. de este decreto, la constitución, administración, redención y liquidación de las inversiones con cargo a los recursos de los patrimonios autónomos previstos en el presente capítulo, deberá realizarse en condiciones de mercado, de acuerdo con los deberes de diligencia y responsabilidad profesionales propios de esta actividad, atendiendo a criterios de seguridad, rentabilidad y liquidez, y teniendo en cuenta la destinación especial de los recursos y el carácter público de los patrimonios.
 
 (Artículo 4 Decreto 1861 de 2012)
-
-ARTÍCULO
 
 ## art:2.12.3.19.5 — Determinación de la rentabilidad mínima del Fonpet
 
@@ -20714,8 +18822,6 @@ El Ministerio de Hacienda y Crédito Público establecerá mediante resolución 
 
 (Artículo 5 Decreto 1861 de 2012)
 
-ARTÍCULO
-
 ## art:2.12.3.19.6 — Verificación y período de cálculo de la rentabilidad mínima del Fonpet
 
 La Superintendencia Financiera de Colombia calculará, verificará e informará la rentabilidad mínima obligatoria de los recursos del Fonpet.
@@ -20723,8 +18829,6 @@ La Superintendencia Financiera de Colombia calculará, verificará e informará 
 La verificación del cumplimiento de la rentabilidad mínima se efectuará trimestralmente, con corte al 31 de marzo, al 30 de junio, al 30 de septiembre y al 31 de diciembre, para períodos de cálculo de los últimos treinta y seis (36) meses. La primera verificación se hará cuando las administradoras lleven por lo menos dieciocho (18) meses administrando recursos, momento en el cual el período de cálculo será el transcurrido entre la fecha de inicio de la administración y la fecha de corte, y de allí en adelante se incorporará un trimestre adicional hasta completar los treinta seis (36) meses.
 
 (Artículo 6 Decreto 1861 de 2012)
-
-ARTÍCULO
 
 ## art:2.12.3.19.7 — Reserva de estabilización del Fonpet
 
@@ -20735,8 +18839,6 @@ Cuando la rentabilidad acumulada en términos efectivos anuales obtenida por alg
 (Modificado por el Art. 3 del Decreto 1919 de 2023)
 
 (Artículo 7 Decreto 1861 de 2012)
-
-ARTÍCULO
 
 ## art:2.12.3.19.8 — 9.8
 
@@ -20756,8 +18858,6 @@ PARÁGRAFO 1. Las administradoras de los recursos del Fondo Nacional de Pensione
 
 (Decreto 1913 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.12.3.19.9 — Límites máximos de inversión por emisión
 
 Con el valor de los recursos administrados del Fondo Nacional de Pensiones de las Entidades Territoriales - FONPET y para cada uno de los demás patrimonios autónomos públicos destinados a la garantía y pago de pensiones, no podrán adquirirse más del treinta por ciento (30%) de cualquier emisión de títulos. Quedan exceptuadas de este límite las inversiones en Certificados de Depósito a Término (CDT) y de Ahorro a Término (CDAT) emitidos por establecimientos de crédito y las inversiones en los instrumentos descritos en los numerales 1 y 2 del artículo 2.12.3.19.1. del presente decreto, así como los titules de deuda emitidos o garantizados por el Fondo de Garantías de Instituciones Financieras -FOGAFIN y el Fondo de Garantías de Entidades Cooperativas -FOGACOOP.
@@ -20765,8 +18865,6 @@ Con el valor de los recursos administrados del Fondo Nacional de Pensiones de la
 Tratándose de la inversión en Fondos de Capital Privado, los recursos del Fondo Nacional de Pensiones de las Entidades Territoriales -FONPET y otros patrimonios autónomos públicos destinados a la garantía y pago de pensiones, no podrá mantener una participación que exceda el cincuenta por ciento (50%) del patrimonio del fondo de inversión colectiva.
 
 (Decreto 1913 de 2018, art. 4)
-
-ARTÍCULO
 
 ## art:2.12.3.19.10 — Inversiones en títulos inscritos en el Registro Nacional de Valores y Emisores y mecanismos de transacción
 
@@ -20778,8 +18876,6 @@ Toda transacción de las inversiones a las que se refieren los numerales 1, 2, 3
 
 (Decreto 1913 de 2018, art. 5)
 
-ARTÍCULO
-
 ## art:2.12.3.19.11 — Mecanismo de registro de operaciones
 
 Las Administradoras de los recursos del Fondo Nacional de Pensiones de las Entidades Territoriales -FONPET y otros patrimonios autónomos públicos destinados a la garantía y pago de pensiones deberán implementar un mecanismo que permita identificar de manera completa, clara y suficiente el portafolio para el cual se efectúa la operación. Los efectos y/o resultados de las operaciones realizadas, directamente o a través de un intermediario de valores, no podrán afectar el portafolio administrado distinto del que se haya identificado en dicho mecanismo, ni a la administradora.
@@ -20789,8 +18885,6 @@ PARÁGRAFO 1. La Superintendencia Financiera de Colombia establecerá, mediante 
 PARÁGRAFO 2. Los sistemas de negociación de valores y los sistemas de registro de valores deberán adoptar las medidas necesarias para permitir la identificación del portafolio al momento de la recepción de las órdenes o la información sobre las operaciones realizadas. La Superintendencia Financiera, mediante instrucciones de carácter general, definirá las condiciones requeridas para el efecto.
 
 (Decreto 1913 de 2018, art. 6)
-
-ARTÍCULO
 
 ## art:2.12.3.19.12 — Excesos en las inversiones u operaciones
 
@@ -20805,8 +18899,6 @@ En todo caso, no se podrán realizar nuevas inversiones en la clase de activos q
 PARÁGRAFO . Cuando en el caso de las inversiones descritas en el numeral 17 del artículo 2.12.3.19.1 se presenten llamados de capital o distribuciones de capital que generen excesos en los límites previstos en el presente decreto, se procederá como lo establece el inciso primero del presente artículo. En estos casos no se aplicará lo establecido en el inciso cuarto del presente artículo.
 
 (Decreto 1913 de 2018, art. 7)
-
-ARTÍCULO
 
 ## art:2.12.3.19.13 — Custodia
 
@@ -20828,15 +18920,11 @@ ii. Que el custodio no puede prestar los activos de los portafolios ni usar los 
 
 (Decreto 1913 de 2018, art. 8)
 
-ARTÍCULO
-
 ## art:2.12.3.19.14 — Ajuste en los portafolios de inversiones
 
 Si como efecto de la aplicación del artículo 2.12.3.19.1 del presente decreto se hiciere necesario acordar un ajuste en los portafolios de inversiones, las administradoras de los recursos podrán dentro de los treinta (30) días hábiles siguientes a la fecha de entrada en vigencia del presente régimen de inversión, convenir con la Superintendencia Financiera de Colombia, un plan de ajuste o de desmonte con los respectivos análisis de riesgo e impacto, cuando de acuerdo con las condiciones particulares de determinada clase de inversión se requiera.
 
 (Decreto 1913 de 2018, art. 9)
-
-ARTÍCULO
 
 ## art:2.12.3.19.15 — Supervisión de los sistemas de administración de riesgos
 
@@ -20845,8 +18933,6 @@ Las administradoras de los recursos del Fondo Nacional de Pensiones de las Entid
 (Decreto 1913 de 2018, art. 11)
 
 CAPÍTULO 20
-
-ARTÍCULO
 
 ## art:2.12.3.20.1 — Destinación del Impuesto de Registro
 
@@ -20864,8 +18950,6 @@ CAPÍTULO 21
 
 DISPOSICIONES PARA LA DISTRIBUCIÓN DE RECURSOS DEL FONPET
 
-ARTÍCULO
-
 ## art:2.12.3.21.1 — Certificaciones para la distribución de recursos nacionales
 
 El Ministerio de Hacienda y Crédito Público podrá requerir, por una sola vez, a las entidades territoriales que al 29 de agosto de 2013 no hubieran allegado a esa entidad la certificación de que tratan los artículos 2.12.3.6.1., 2.12.3.6.2., 2.12.3.6.3. de este decreto, con el fin de que cumplan con dicho requisito en un plazo que no podrá exceder de tres (3) meses contados a partir de la fecha del requerimiento.
@@ -20875,8 +18959,6 @@ El Ministerio de Hacienda y Crédito Público podrá requerir, por una sola vez,
 CAPÍTULO 22
 
 COMPENSACIÓN Y/O PAGO DE CUOTAS PARTES PENSIONALES CON RECURSOS DEL FONPET
-
-ARTÍCULO
 
 ## art:2.12.3.22.1 — Compensación y/o pago de cuotas partes pensionales entre entidades territoriales con recursos del FONPET
 
@@ -20892,8 +18974,6 @@ PARÁGRAFO 1. La compensación y/o pago de cuotas partes pensionales corrientes 
 
 PARÁGRAFO 2. Durante la vigencia fiscal, las entidades territoriales deberán registrar presupuestalmente estas operaciones y realizar el respectivo registro contable con base en la información que les suministre la Unidad de Gestión del FONPET
 
-ARTÍCULO
-
 ## art:2.12.3.22.2 — Acuerdos de pago de cuotas partes pensionales entre entidades territoriales
 
 Para efectos de la autorización de compensación y/o pago que debe expedir el Ministerio de Hacienda y Crédito Público, en su condición de administrador del Fonpet, las entidades territoriales que soliciten las compensaciones y/o pagos de que trata el artículo 2.12.3.22.1. de este decreto, deberán remitir anexo a la solicitud un Acuerdo de Pago suscrito por los representantes legales de cada una de las entidades territoriales involucradas, en el cual deberá constar el valor actuarial de las cuotas partes pensionales, o el valor exigible dentro de los tres años inmediatamente anteriores al perfeccionamiento del Acuerdo, teniendo en cuenta el tipo de interés y el término de prescripción establecidos en el artículo 4 de la Ley 1066 de 2006. Dicho valor incluirá las obligaciones respecto de las cuales se hubiere interrumpido o suspendido la prescripción de acuerdo con las disposiciones legales vigentes. Lo anterior se implementará de conformidad con el Instructivo Operativo y los Formatos que se expidan para el efecto, según lo previsto en el artículo 2.12.3.22.6. del presente decreto.
@@ -20908,15 +18988,11 @@ El Ministerio de Hacienda y Crédito Público verificará que el Acuerdo de Pago
 
 Compensación y/o pagos de cuotas partes pensionales entre entidades territoriales y otras entidades públicas con recursos del FONPET. De conformidad con lo previsto en el Artículo 357 de la Ley 1819 de 20J6 y el Artículo 199 de la Ley 1955 de 2019, , las cuotas partes pensionales causadas, corrientes y/o valor del cálculo actuarial adeudadas entre entidades territoriales con otras entidades públicas, se podrán compensar y/o pagar con recursos del FONPET, en los mismos términos definidos para compensaciones y/o pagos entre entidades territoriales, excepto, que en este caso, los recursos se girarán a la cuenta bancaria que indiquen las entidades acreedoras de este tipo de obligaciones pensionales, incluidas las sociedades fiduciarias o cualquier otra entidad que administre cuotas partes pensionales en nombre de entidades del orden territorial o nacional.
 
-ARTÍCULO
-
 ## art:2.12.3.22.4 — Priorización de recursos
 
 El Ministerio de Hacienda y Crédito Público solo podrá autorizar la utilización de los recursos del Fonpet para el pago o compensación de cuotas partes, en el caso de los departamentos, cuando dicha entidad demuestre haber agotado, para la respectiva vigencia fiscal, los recursos de que trata el inciso 3 del artículo 25 de la Ley 1450 de 2011, provenientes del impuesto de registro y destinados al pago de cuotas partes pensionales, de acuerdo con certificación expedida por la respectiva entidad territorial.
 
 (Artículo 4 Decreto 2191 de 2013).
-
-ARTÍCULO
 
 ## art:2.12.3.22.5 — Recursos disponibles en la cuenta de la entidad territorial para el retiro de recursos del Fonpet
 
@@ -20940,8 +19016,6 @@ El Sistema de Información del Fonpet suministrará los saldos en cuenta y los s
 
 (Artículo 6 Decreto 2191 de 2013. Numeral 5 modificado por el artículo 1 Decreto 2689 de 2014 y numeral 6 adicionado por el artículo 2 Decreto 2689 de 2014).
 
-ARTÍCULO
-
 ## art:2.12.3.22.6 — Instructivo
 
 Los Ministerios de Hacienda y Crédito Público y del Trabajo, expedirán de manera conjunta el instructivo operativo de que trata el presente decreto.
@@ -20954,8 +19028,6 @@ CAPÍTULO 1
 
 NORMAS RELATIVAS A LA SUPRESIÓN DEL FONDO
 
-ARTÍCULO
-
 ## art:2.12.4.1.1 — Supresión del fondo
 
 El ejercicio de las competencias relacionadas con el fondo del pasivo prestacional para el sector salud, cuya supresión fue ordenada a través del artículo 61 de la Ley 715 de 2001, se efectuará por el Ministerio de Hacienda y Crédito Público a través de la Dirección General de Regulación Económica de la Seguridad Social que será la responsable de la preparación técnica y actuarial de los convenios de concurrencia, así como de su revisión y actualización.
@@ -20966,8 +19038,6 @@ Al Ministerio de Hacienda y Crédito Público como sección presupuestal, le cor
 
 (Artículo 1 Decreto 1338 de 2002).
 
-ARTÍCULO
-
 ## art:2.12.4.1.2 — Responsables
 
 El traslado de la totalidad de la información, expedientes, actos administrativos, corte de cuentas de los recursos administrados por el Ministerio de Salud y de Protección Social y demás documentos del Fondo del Pasivo Prestacional del Sector Salud, así como su contenido, será responsabilidad del Ministerio de Salud.
@@ -20976,23 +19046,17 @@ Respecto de los convenios ya suscritos y en ejecución, el Ministerio de Haciend
 
 (Artículo 3 Decreto 1338 de 2002).
 
-ARTÍCULO
-
 ## art:2.12.4.1.3 — Traslado de recursos
 
 El Fondo Nacional de Ahorro trasladará a la Dirección General de Crédito Público y del Tesoro Nacional del Ministerio de Hacienda y Crédito Público, a la cuenta que para tal efecto señale la mencionada dirección, los recursos junto con sus rendimientos transferidos a esa entidad por parte del Ministerio de Salud y Protección Social, correspondientes al fondo del pasivo prestacional para el sector salud, suprimido por el artículo 61 de la Ley 715 de 2001.
 
 (Artículo 6 Decreto 1338 de 2002).
 
-ARTÍCULO
-
 ## art:2.12.4.1.4 — Unidad de caja
 
 La Dirección General de Crédito Público y del Tesoro Nacional deberá aplicar el principio de unidad de caja al manejo de los recursos recibidos, en virtud de lo dispuesto en el presente capítulo.
 
 (Artículo 9 Decreto 1338 de 2002).
-
-ARTÍCULO
 
 ## art:2.12.4.1.5 — Giro en desarrollo de los convenios de concurrencia
 
@@ -21004,15 +19068,11 @@ CAPÍTULO 2
 
 PROCEDIMIENTO PARA EL RECONOCIMIENTO Y PAGO DEL PASIVO PRESTACIONAL DEL SECTOR SALUD
 
-ARTÍCULO
-
 ## art:2.12.4.2.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar el procedimiento general para el reconocimiento y pago del Pasivo Prestacional del Sector Salud causado a diciembre 31 de 1993 por concepto de cesantías netas y reservas requeridas para el pago de pensiones legalmente reconocidas de las instituciones de salud públicas o privadas, en cuya financiación deban contribuir en virtud de la Ley 715 de 2001, la Nación a través del Ministerio de Hacienda y Crédito Público y los entes territoriales cuando a ello hubiere lugar.
 
 (Artículo 1 Decreto 306 de 2004).
-
-ARTÍCULO
 
 ## art:2.12.4.2.2 — Pasivo prestacional
 
@@ -21031,8 +19091,6 @@ PARÁGRAFO . Igualmente se incluyen dentro del pasivo prestacional las obligacio
 Para determinar las obligaciones correspondientes al pasivo prestacional, se considerarán los requisitos consagrados en las disposiciones legales y convencionales vigentes en el momento de causarse el derecho sobre cesantías y pensiones de jubilación, de acuerdo con la modalidad de vinculación del funcionario o servidor público.
 
 (Artículo 2 Decreto 306 de 2004).
-
-ARTÍCULO
 
 ## art:2.12.4.2.3 — Reconocimiento del pasivo prestacional
 
@@ -21054,8 +19112,6 @@ PARÁGRAFO . El Ministerio de Hacienda y Crédito Público podrá reconocer, sus
 
 (Artículo 3 Decreto 306 de 2004).
 
-ARTÍCULO
-
 ## art:2.12.4.2.4 — Cesantías
 
 El procedimiento para el reconocimiento y pago de las cesantías se desarrollará conforme a los siguientes parámetros:
@@ -21067,8 +19123,6 @@ La Nación a través del Ministerio de Hacienda y Crédito Público se abstendr�
 Cuando la negligencia imputable al empleador en el pago oportuno de los aportes para cesantías de sus trabajadores dé origen a la cancelación de intereses de mora, estos no podrán ser cancelados con la concurrencia a cargo de las entidades que colaboran en la financiación del pasivo prestacional del sector salud.
 
 (Artículo 4 Decreto 306 de 2004).
-
-ARTÍCULO
 
 ## art:2.12.4.2.5 — Administración de los recursos por concepto de cesantías
 
@@ -21084,19 +19138,15 @@ A la terminación de los contratos de administración, los recursos deberán man
 
 Si la entidad empleadora hubiere realizado pagos del auxilio de cesantía en la porción correspondiente a la concurrencia de la Nación o de las entidades territoriales, en el contrato de concurrencia deberá preverse el cruce de cuentas.
 
-(ARTÍCULO
+(
 
-## art:5 — Decreto 306 de 2004)
-
-ARTÍCULO
+5 Decreto 306 de 2004).
 
 ## art:2.12.4.2.6 — Pensiones
 
 Para garantizar el pago de las pensiones de los servidores públicos y trabajadores privados jubilados o retirados con derecho a pensión a cargo de las instituciones hospitalarias frente al cual se deba concurrir para su financiación, las instituciones deberán establecer alguno de los mecanismos previstos en el presente capítulo, para que se les puedan girar los recursos que les permitan constituir la respectiva reserva pensional.
 
 (Artículo 6 Decreto 306 de 2004).
-
-ARTÍCULO
 
 ## art:2.12.4.2.7 — Beneficiarios
 
@@ -21112,8 +19162,6 @@ Serán considerados como beneficiarios los trabajadores del sector salud que a d
 
 (Artículo 8 Decreto 306 de 2004).
 
-ARTÍCULO
-
 ## art:2.12.4.2.8 — Reconocimiento de nuevos beneficiarios
 
 El Ministerio de Hacienda y Crédito Público solo podrá reconocer como nuevos beneficiarios a quienes reúnan los requisitos legalmente establecidos, siempre y cuando se encuentren en alguna de las siguientes situaciones:
@@ -21128,8 +19176,6 @@ PARÁGRAFO . Si realizada la revisión por parte del Ministerio de Hacienda y Cr
 
 (Artículo 9 Decreto 306 de 2004).
 
-ARTÍCULO
-
 ## art:2.12.4.2.9 — Contratos de concurrencia
 
 El Ministerio de Hacienda y Crédito Público al revisar los contratos de concurrencia en ejecución y suscribir los nuevos contratos según lo establecido en la ley, determinará la concurrencia para la colaboración a las instituciones públicas de salud a cuyo cargo esté el pasivo prestacional causado a 31 de diciembre de 1993, que fueron reconocidas como beneficiarías del extinto Fondo del Pasivo Prestacional del Sector Salud, de conformidad con las ejecuciones presupuestales de cada institución de los últimos cinco (5) años anteriores al 1 de enero de 1994, tal como lo señala el presente capítulo.
@@ -21142,23 +19188,17 @@ Adicionalmente, el Ministerio de Hacienda y Crédito Público deberá comprobar 
 
 (Artículo 11 Decreto 306 de 2004).
 
-ARTÍCULO
-
 ## art:2.12.4.2.10 — Ordenador del gasto
 
 El ordenador del gasto para el giro de los recursos correspondientes a la concurrencia a cargo de la Nación será el Ministro de Hacienda y Crédito Público.
 
 (Artículo 12 Decreto 306 de 2004).
 
-ARTÍCULO
-
 ## art:2.12.4.2.11 — Financiación del pasivo prestacional del sector salud
 
 La financiación del pasivo causado hasta el 31 de diciembre de 1993 por concepto de cesantías y pensiones de los trabajadores del sector salud que hubieren sido reconocidos como beneficiarios del extinto Fondo del Pasivo Prestacional del Sector Salud, es responsabilidad de la Nación y de las entidades territoriales.
 
 (Artículo 1 Decreto 700 de 2013).
-
-ARTÍCULO
 
 ## art:2.12.4.2.12 — Determinación de las concurrencias
 
@@ -21176,8 +19216,6 @@ CAPÍTULO 3
 
 PASIVO PENSIONAL DE LOS EXTRABAJADORES DEL SAN JUAN DE DIOS RETIRADOS A 31 DE DICIEMBRE DE 1993
 
-ARTÍCULO
-
 ## art:2.12.4.3.1 — Cálculo actuarial
 
 Es responsabilidad del liquidador de la Fundación San Juan de Dios en Liquidación, elaborar el cálculo actuarial de las obligaciones pensionales causadas a treinta y uno (31) de diciembre de 1993, antes de la culminación del proceso liquidatorio, en lo que corresponda al personal retirado de la entidad y por los tiempos no incluidos dentro del cálculo actuarial inicialmente elaborado del personal activo desde su vinculación laboral.
@@ -21187,8 +19225,6 @@ Para el efecto el Ministerio de Hacienda y Crédito Público deberá aprobar el 
 La elaboración del referido cálculo actuarial, y su posterior aprobación deberá quedar finiquitada antes de la terminación del proceso liquidatorio.
 
 (Artículo 1 Decreto 1970 de 2016).
-
-ARTÍCULO
 
 ## art:2.12.4.3.2 — Reconocimiento y pago de los bonos pensionales y cuotas partes de bonos pensionales
 
@@ -21200,8 +19236,6 @@ PARÁGRAFO 2. La Fundación San Juan de Dios en Liquidación elaborará y llevar
 
 (Artículo 2 Decreto 1970 de 2016).
 
-ARTÍCULO
-
 ## art:2.12.4.3.3 — Certificación laboral y cálculo actuarial posterior al cierre de liquidación
 
 La Fundación San Juan de Dios en Liquidación deberá expedir las certificaciones de Historia Laboral que se requieran conforme a lo establecido en el Decreto 1833 de 2016 y en la Circular número 013 de 2007 del Ministerio de Hacienda y Crédito Público y Ministerio de Trabajo y las demás normas que así los dispongan, hasta la fecha de su liquidación.
@@ -21211,8 +19245,6 @@ PARÁGRAFO 1. Una vez se efectúe la liquidación la entidad responsable de emit
 PARÁGRAFO 2. Terminado el proceso liquidatorio, la entidad que sea designada para emitir las certificaciones laborales, será la encargada de la elaboración del cálculo actuarial del personal no incluido en la actual cuantificación, para que a través de la Oficina de Bonos Pensionales sea pagado el respectivo bono reclamado.
 
 (Artículo 3 Decreto 1970 de 2016).
-
-ARTÍCULO
 
 ## art:2.12.4.3.4 — Traslado de títulos pensionales del personal activo
 
@@ -21224,13 +19256,9 @@ CAPÍTULO 4
 
 PROCEDIMIENTO PARA EL CÁLCULO Y PAGO DEL PASIVO PENSIONAL DEL SECTOR SALUD CAUSADO A TREINTA Y UNO (31) DE DICIEMBRE DE 1993, DEL PERSONAL CERTIFICADO corv10 RETIRADO DE LAS INSTITUCIONES DE SALUD BENEFICIARIAS DEL FONDO DEL PASIVO PRESTACIONAL DEL SECTOR SALUD
 
-ARTÍCULO
-
 ## art:2.12.4.4.1 — Objeto
 
 El presente decreto tiene por objeto, establecer el procedimiento para el cálculo del pasivo pensional del sector salud, generado por el personal retirado a treinta y uno (31) de dici2.embre de 1993, que haya sido certificado por el extinto Fondo del Pasivo Prestacional del Sector Salud, así como el procedimiento para el pago de las reservas asociadas a dicho pasivo y establecer presupuestos para la suscripción de los contratos de concurrencia, la administración y giro de estos recursos y la responsabilidad de las instituciones hospitalarias y los entes territoriales.
-
-ARTÍCULO
 
 ## art:2.12.4.4.2 — 4.2
 
@@ -21254,13 +19282,9 @@ El Ministerio de Hacienda y Crédito Público, previo agotamiento del trámite e
 
 7. Contra el acto administrativo que se profiera para determinar el monto total del pasivo a concurrír por parte de la Nación, Ministerio de Hacienda y Crédito Público, y de las entidades territoriales, en el financiamiento del pasivo prestacional causado al treinta y uno (31) de diciembre de 1993, de las instituciones hospitalarias por su personal retirado certificado como beneficiario conforme con lo dispuesto en el artículo 2,12.4.27. del presente Decreto y determinar los porcentajes de concurrencia, procederá el recurso de reposición en los términos del artículo 74 de la Ley 1437 de 2011.
 
-ARTÍCULO
-
 ## art:2.12.4.4.3 — Envío anual de la información
 
 con posterioridad al envío de la información a la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público, dentro del término previsto en el artículo 2.12.4.4.2. del presente Decreto, los representantes legales de las instituciones hospitalarias y de las entidades territoriales, o los funcionarios que se deleguen para tal fin, deberán seguir entregando a más tardar el treinta y uno (31) de marzo de cada año la respectiva información.
-
-ARTÍCULO
 
 ## art:2.12.4.4.4 — Contratos de concurrencia
 
@@ -21270,21 +19294,15 @@ PARÁGRAFO 1. Los pagos efectuados por concepto de bonos pensionales, cuotas par
 
 PARÁGRAFO 2: En aquellos casos en que no se haya efectuado el corte de cuentas, ni suscrito el contrato de concurrencia o sus adiciones o modificaciones, se deberá dar aplicación a lo consagrado en el inciso quinto 5 del artículo 242 de la Ley 100 de 1993.
 
-ARTÍCULO
-
 ## art:2.12.4.4.5 — Anticipo a la concurrencia
 
 En el evento en que no se haya suscrito el contrato de concurrencia, el Departamento, Municipio o Distrito, podrá efectuar anticipos a su concurrencia con los recursos acumulados en el Fondo Nacional de Pensiones de las Entidades Territoriales (FONPET), abonados en el sector salud, de conformidad con lo establecido en el artículo 147 de la Ley 1753 de 2015, el artículo 2.12.3.8.2.6. del presente Decreto y demás normas reglamentarias vigentes.
 
 Para tal efecto es necesario que se efectúe el corte de cuentas de que trata el artículo 242 de la Ley 100 de 1993.
 
-ARTÍCULO
-
 ## art:2.12.4.4.6 — Administración y giro de los recursos
 
 Una vez suscrito el contrato de concurrencia, la Nación Ministerio de Hacienda y Crédito Público y las entidades territoriales, girarán los recursos correspondientes a la reserva de retirados conforme con lo establecido en el contrato, al encargo fiduciario, al patrimonio autónomo, a las administradoras de pensiones, a los fondos de que trata el artículo 23 del Decreto Ley 1299 de 1994, o a los fideicomisos a que se refiere el artículo 19, numeral 3 del mismo Decreto Ley, para que éstos a su vez realicen el pago a la entidad que reconoció la pensión.
-
-ARTÍCULO
 
 ## art:2.12.4.4.7 — Responsabilidad de las entidades territoriales y las instituciones hospitalarias
 
@@ -21300,8 +19318,6 @@ CAPÍTULO 1
 
 CONCURRENCIA EN EL PASIVO PENSIONAL DE LAS UNIVERSIDADES PÚBLICAS
 
-ARTÍCULO
-
 ## art:2.12.5.1.1 — Concurrencia en el pago del pasivo pensional
 
 La Nación concurrirá en el pago del pasivo pensional de las universidades estatales del orden nacional, en los términos de la Ley 1371 de 2009, y de conformidad con el presente reglamento.
@@ -21313,8 +19329,6 @@ El pasivo objeto de concurrencia estará conformado por las pensiones de vejez o
 Las obligaciones por bonos pensionales también incluirán las obligaciones relacionadas con las personas que hubieran cumplido los requisitos para pensión a la fecha de entrada en vigencia del presente capítulo, y que no se les hubiere reconocido la prestación.
 
 (Artículo 1 Decreto 530 de 2012).
-
-ARTÍCULO
 
 ## art:2.12.5.1.2 — Estimación de la concurrencia
 
@@ -21328,8 +19342,6 @@ Los Recursos para Pensiones del Año Base serán certificados para cada una de l
 
 (Artículo 2 Decreto 530 de 2012).
 
-ARTÍCULO
-
 ## art:2.12.5.1.3 — Pago de la concurrencia
 
 La concurrencia de que trata el artículo 2.12.5.1.2 se calculará por anualidades, y se pagará por cuatrimestre anticipado mediante el giro de los recursos respectivos al Fondo, de acuerdo con el mecanismo previsto para la elaboración y aprobación de las proyecciones de pago de las obligaciones pensionales de que trata el artículo siguiente.
@@ -21340,8 +19352,6 @@ La concurrencia a cargo de la Nación se pagará con los recursos destinados en 
 
 (Artículo 3 Decreto 530 de 2012)
 
-ARTÍCULO
-
 ## art:2.12.5.1.4 — Cálculo actuarial y proyecciones anuales
 
 Para la estimación del pasivo pensional la universidad deberá elaborar un cálculo actuarial, con corte a 31 de diciembre de 2011, de acuerdo con los estándares y especificaciones técnicas establecidas en las normas aplicables, el cual deberá someterse a la aprobación del Ministerio de Hacienda y Crédito Público. El cálculo actuarial inicial se presentará por parte de la universidad durante los tres meses siguientes a la entrada en vigencia del presente decreto, el Ministerio de Hacienda enviará a la universidad sus observaciones dentro de los tres (3) meses siguientes al recibo del cálculo. En todo caso, el cálculo actuarial permitirá distinguir con claridad el valor total de las obligaciones de que trata el artículo 2.12.5.1.1. y dentro de ellas, las obligaciones pensionales que son objeto de revisión administrativa y judicial, de acuerdo con el inciso 2 del artículo 2.12.5.1.5. del presente decreto.
@@ -21350,8 +19360,6 @@ Durante el primer semestre de cada año, la universidad presentará ante el Mini
 
 (Artículo 4 Decreto 530 de 2012)
 
-ARTÍCULO
-
 ## art:2.12.5.1.5 — Convenios interadministrativos de concurrencia
 
 La concurrencia en el pago del pasivo pensional de que trata este decreto se instrumentará en un convenio interadministrativo de concurrencia que suscribirán para el efecto la Nación - Ministerios de Hacienda y Crédito Público y de Educación, y la universidad. El convenio tendrá por objeto realizar las acciones necesarias para la determinación y pago del monto del pasivo pensional total y de la concurrencia anual de las partes, así como la organización del Fondo para el Pago del Pasivo Pensional, e incluirá las actividades a cargo de cada una de las partes para la debida ejecución de dicho objeto.
@@ -21359,8 +19367,6 @@ La concurrencia en el pago del pasivo pensional de que trata este decreto se ins
 El convenio interadministrativo de concurrencia definirá los mecanismos para la revisión administrativa y judicial de las pensiones, de acuerdo con el artículo 19 de la Ley 797 de 2003, los instrumentos que utilizará la Nación para financiar transitoriamente el pago de estas obligaciones a través del Fondo mientras se profieren las decisiones judiciales respectivas, los mecanismos de seguimiento y control que deberán instaurarse en protección de los recursos públicos, entre otros.
 
 (Artículo 5 Decreto 530 de 2012)
-
-ARTÍCULO
 
 ## art:2.12.5.1.6 — Fondos para el Pago del Pasivo Pensional
 
@@ -21371,8 +19377,6 @@ El Fondo se organizará como una cuenta especial sin personería jurídica de la
 La sociedad fiduciaria y el Fondo estarán sometidos a las disposiciones aplicables en materia de administración de pasivos pensionales y a la gestión de recursos públicos destinados al mismo fin.
 
 (Artículo 6, Decreto 530 de 2012)
-
-ARTÍCULO
 
 ## art:2.12.5.1.7 — Recursos de los Fondos para el Pago del Pasivo Pensional
 
@@ -21394,8 +19398,6 @@ Los recursos y los rendimientos del Fondo tendrán destinación específica para
 
 (Artículo 7, Decreto 530 de 2012)
 
-ARTÍCULO
-
 ## art:2.12.5.1.8 — Sustitución en el pago de obligaciones
 
 Colpensiones, podrá sustituir a la universidad en el pago de las obligaciones pensionales a su cargo, a cambio de la transferencia del valor del cálculo actuarial correspondiente a dichas obligaciones y previa celebración de un contrato con dicho objeto entre ambas partes. Si existiera un valor en revisión administrativa o judicial, de acuerdo con lo previsto en el inciso 1 del artículo 2.12.5.1.4. del presente decreto, dicho valor deberá seguir siendo pagado por la universidad con cargo a la misma fuente de recursos de que trata el numeral 1 del artículo 2.12.5.1.2. del presente decreto.
@@ -21408,8 +19410,6 @@ CAPÍTULO 2
 
 CONCURRENCIA DE LA NACIÓN
 
-ARTÍCULO
-
 ## art:2.12.5.2.1 — Contrato de concurrencia
 
 Para la ejecución del mecanismo de concurrencia previsto en el artículo 131 de la Ley 100 de 1993, en aquellos eventos en los cuales dicho pasivo se encuentra a cargo de las cajas de previsión territoriales o quienes las hubieren sustituido, será necesario que el departamento o el fondo territorial de pensiones que hubiere sustituido a la caja de previsión suscriba con la universidad y la Nación un contrato de concurrencia en el que se establezcan las obligaciones a cargo de cada una de las partes, previa aprobación del cálculo actuarial respectivo, y de las proyecciones correspondientes, por parte de la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público.
@@ -21417,8 +19417,6 @@ Para la ejecución del mecanismo de concurrencia previsto en el artículo 131 de
 Para los efectos anteriores, se entenderá que si la universidad territorial venía cumpliendo integralmente con las disposiciones legales aplicables antes y después de la entrada en vigencia de la Ley 100 de 1993, no tiene a su cargo obligaciones pensionales y por tanto no está obligada a concurrir financieramente en el pago del pasivo pensional. Si la universidad incumplió con el deber de afiliar oportunamente a sus servidores al Sistema General de Pensiones o reconoció pensiones de manera irregular, deberá asumir estas obligaciones por su cuenta.
 
 (Artículo 1, Decreto 3734 de 2008)
-
-ARTÍCULO
 
 ## art:2.12.5.2.2 — Régimen de transición
 
@@ -21434,8 +19432,6 @@ En dicho convenio deberán preverse además las condiciones para la entrega de l
 
 (Artículo 2 Decreto 3734 de 2008)
 
-ARTÍCULO
-
 ## art:2.12.5.2.3 — Sustitución de obligaciones por Colpensiones
 
 Colpensiones, podrá sustituir a la universidad en el pago de las obligaciones pensionales legales, a cambio de la transferencia del valor del cálculo actuarial correspondiente a dichas obligaciones.
@@ -21450,15 +19446,11 @@ CAPÍTULO 3
 
 FONDO PARA EL PAGO DEL PASIVO PENSIONAL DE LAS UNIVERSIDADES OFICIALES
 
-ARTÍCULO
-
 ## art:2.12.5.3.1 — Objeto
 
 El presente capítulo tiene por objeto establecer el régimen general para el reconocimiento del pasivo pensional de las universidades oficiales y de las instituciones oficiales de educación superior de naturaleza territorial.
 
 (Artículo 1 Decreto 2337 de 1996)
-
-ARTÍCULO
 
 ## art:2.12.5.3.2 — Reconocimiento del pasivo pensional
 
@@ -21471,8 +19463,6 @@ Con respecto al pago de las cotizaciones recibidas o causadas entre la fecha de 
 PARÁGRAFO 2. Las cajas con personería jurídica, declaradas solventes y autorizadas por la autoridad competente para administrar el régimen solidario de Prima Media con prestación definida, lo harán mientras subsistan y con respecto a los afiliados que tenían a 30 de junio de 1995 o en la fecha en la cual entró en vigencia el Sistema General de Pensiones en la respectiva universidad o institución oficial de naturaleza territorial y se regirán por lo dispuesto en el Decreto 1888 de 1994.
 
 (Artículo 2 Decreto 2337 de 1996)
-
-ARTÍCULO
 
 ## art:2.12.5.3.3 — Naturaleza de los fondos para el pago del pasivo pensional
 
@@ -21489,8 +19479,6 @@ Este fondo para pago de pasivo pensional que deben constituir cada una de las un
 4. Subcuenta para las cotizaciones: Comprende las cotizaciones dejadas de pagar desde la entrada en vigencia del sistema y la fecha en que efectivamente los trabajadores de la respectiva universidad o institución de educación superior se afiliaron al sistema, en los términos del Decreto 1642 de 1995; y las cotizaciones que deban realizarse al sistema de acuerdo con la Ley 100 de 1993, para los trabajadores de estas entidades.
 
 (Artículo 3 Decreto 2337 de 1996)
-
-ARTÍCULO
 
 ## art:2.12.5.3.4 — Funciones de los fondos para pagar el pasivo pensional
 
@@ -21528,8 +19516,6 @@ En la fecha en que dichos afiliados soliciten la emisión de su respectivo bono 
 
 (Artículo 4 Decreto 2337 de 1996)
 
-ARTÍCULO
-
 ## art:2.12.5.3.5 — Inversión de los recursos
 
 Los recursos, sus rendimientos financieros y las inversiones de estos, serán administrados mediante encargo fiduciario, en el cual se mantendrán debidamente separados los recursos correspondientes a cada subcuenta, con las características previstas en la Ley 100 de 1993.
@@ -21544,8 +19530,6 @@ Los Bonos de Valor Constante, en todo caso, solo se emitirán siempre y cuando s
 
 (Artículo 5 Decreto 2337 de 1996, modificado por los artículos 1 y 6 Decreto 3088 de 1997, modificado por el artículo 1 del Decreto 1181 de 1998, modificado por el artículo 1 Decreto 93 de 2001)
 
-ARTÍCULO
-
 ## art:2.12.5.3.6 — Cajas de las universidades y de las instituciones de educación superior
 
 De conformidad con lo establecido en el parágrafo 2 del artículo 2.12.5.3.2. del presente decreto, las cajas de las instituciones que tenían personería jurídica antes del 23 de diciembre de 1993 y fueron declaradas solventes, podrán administrar el régimen de Prima Media con Prestación Definida, y sus afiliados con anterioridad a la fecha de entrada en vigencia el sistema General de Pensiones en la entidad territorial o institución, según el caso, podrán continuar vinculados a dicha caja, mientras no se ordene su liquidación. Se regirán por lo establecido en el Decreto 1888 de 1994, y los artículos compilados el decreto 1833 de 2016, con respecto al decreto 1068 de 1995 y demás normas que lo complementen o adicionen.
@@ -21558,13 +19542,9 @@ Los bonos pensionales que deberá emitir la respectiva caja a aquellos empleados
 
 El régimen legal de las cajas de las universidades oficiales y de las instituciones oficiales de educación superior, autorizadas para administrar el Régimen de Prima Media con Prestación Definida de que trata este artículo, será el establecido para dichas cajas por la Ley 100 de 1993 y en sus decretos reglamentarios para todos los efectos.
 
-(ARTÍCULO
-
-## art:6 — 
+(
 
 6 Decreto 2337 de 1996)
-
-ARTÍCULO
 
 ## art:2.12.5.3.7 — 3.7
 
@@ -21598,11 +19578,9 @@ PARÁGRAFO 3. Como modalidades de pago de las obligaciones contenidas en los bon
 
 El acuerdo sobre estas modalidades de pago deberá constar en el contrato de concurrencia o en sus modificaciones. Cuando se acuerden compensaciones el contrato de concurrencia deberá prever los mecanismos que aseguren el pago completo y oportuno de las obligaciones pensionales, los cuales serán verificados y aprobados por el Ministerio de Hacienda y Crédito Público.
 
-(ARTÍCULO
+(
 
-## art:7 — Decreto 2337 de 1996, parágrafo 3 Adicionado por el artículo 10 Decreto 1050 de 2007)
-
-ARTÍCULO
+7 Decreto 2337 de 1996, parágrafo 3 Adicionado por el artículo 10 Decreto 1050 de 2007).
 
 ## art:2.12.5.3.8 — Características de los Bonos de Valor Constante (BVC)
 
@@ -21630,13 +19608,9 @@ En el evento de que la Nación Ministerio de Hacienda y Crédito Público determ
 
 10. Los títulos de la “Serie A” podrán fraccionarse en múltiplos de cien millones de pesos ($100.000.000).
 
-(ARTÍCULO
-
-## art:8 — 
+(
 
 8 Decreto 2337 de 1996, numeral 4 modificado por el artículo 7 Decreto 3088 de 1997, numerales 8, 9 y 10 adicionado por el artículo 5 Decreto 3088 de 1997).
-
-ARTÍCULO
 
 ## art:2.12.5.3.9 — Contratos
 
@@ -21656,11 +19630,9 @@ Una vez determinada la responsabilidad financiera de las entidades de que trata 
 
 7. Los mecanismos definidos entre las partes para asegurar el cumplimiento de las obligaciones derivadas del Sistema General de Pensiones por parte de los empleadores, tales como las derivadas de la subcuenta para las cotizaciones de que trata el artículo 2.12.5.3.3 del presente decreto al sistema de qué trata la subcuenta de cotizaciones.
 
-(ARTÍCULO
+(
 
-## art:9 — Decreto 2337 de 1996)
-
-ARTÍCULO
+9 Decreto 2337 de 1996).
 
 ## art:2.12.5.3.10 — .10
 
@@ -21670,13 +19642,11 @@ De acuerdo con el literal k) del artículo 13 y el artículo 52 de la Ley 100 de
 
 La vigilancia y control de los patrimonios autónomos y encargos fiduciarios que administran las reservas destinadas a la emisión y redención de bonos pensionales y del pago de las cuotas partes correspondientes, estará a cargo de la Superintendencia Financiera de Colombia, por virtud de lo dispuesto en el literal a) del numeral 2 del artículo 325 del Estatuto Orgánico del Sistema Financiero, en concordancia con el artículo 23 del Decreto 1299 de 1994.
 
-(ARTÍCULO
+(
 
-## art:10 — Decreto 2337 de 1996)
+10 Decreto 2337 de 1996).
 
 DEL REGISTRO ÚNICO DE APORTANTES (RUA)
-
-ARTÍCULO
 
 ## art:2.12.6.1 — Órgano de Administración del RUA
 
@@ -21686,35 +19656,27 @@ La Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafis
 
 La Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP) con base en los recursos que le sean apropiados, deberá adelantar los procesos contractuales que sean necesarios para la administración del Registro Único de Aportantes (RUA).
 
-(ARTÍCULO
+(
 
-## art:1 — , Decreto 2128 de 2011)
-
-ARTÍCULO
+1, Decreto 2128 de 2011).
 
 ## art:2.12.6.2 — Registro Derecho de Autor
 
 La Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP), deberá continuar con los trámites de registro de derecho de autor ante las autoridades competentes, para formalizar el derecho patrimonial sobre el Registro Único de Aportantes (RUA). Para tal efecto, el Ministerio de Hacienda y Crédito Público deberá proporcionarle toda la documentación que reposa en sus archivos y que sea necesaria para adelantar los trámites ante dichas autoridades.
 
-(ARTÍCULO
+(
 
-## art:2 — , Decreto 2128 de 2011)
-
-ARTÍCULO
+2, Decreto 2128 de 2011).
 
 ## art:2.12.6.3 — Ajustes Presupuestales
 
 El Gobierno nacional realizará los traslados y ajustes presupuestales que permitan atender el traslado de la función que se deriva del presente Título según lo previsto en el artículo 86 del Estatuto Orgánico de Presupuesto compilado en el Decreto 111 de 1996.
 
-(ARTÍCULO
-
-## art:3 — 
+(
 
 3, Decreto 2128 de 2011)
 
 SUMINISTRO A LA UNIDAD DE GESTIÓN PENSIONAL Y CONTRIBUCIONES PARAFICALES DE LA PROTECCIÓN SOCIAL -UGPP DE INFORMACIÓN DE OPERADORES PÚBLICOS Y PRIVADOS DE BANCOS DE INFORMACION YIO BASES DE DATOS
-
-ARTÍCULO
 
 ## art:2.12.7.1 — Obligados a reportar información
 
@@ -21724,7 +19686,9 @@ La información relevante requerida por la Unidad Administrativa Especial de Ges
 
 Para efectos del presente artículo se entienden como operadores de bancos de información y/o bases de datos, los definidos en el artículo 3 de la Ley 1266 de 2008, entre los que se encuentran, las entidades públicas, privadas, financieras, centrales de riesgos, empresas de telefonía celular, y demás personas naturales o jurídicas que administren o dispongan de información.
 
-(ARTÍCULO
+(
+
+1, Decreto 2438 de 2018)
 
 ## art:2.12.7.2 — 7.2
 
@@ -21732,7 +19696,9 @@ Definición de la información relevante a suministrar a la Unidad Administrativ
 
 Contribuciones Parafiscales de la Protección Social -UGPP para el control a la evasión y a la elusión de los aportes parafiscales al Sistema de Protección Social.
 
-(ARTÍCULO
+(
+
+1, Decreto 2438 de 2018)
 
 ## art:2.12.7.3 — Características y especificaciones técnicas de la información
 
@@ -21740,25 +19706,45 @@ Conforme con las condiciones y términos previstos en el presente Título, la Un
 
 La información aquí prevista deberá ser suministrada a través de medios magnéticos y/o electrónicos, o mediante la habilitación del acceso a las bases de datos a favor de la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP cuando a ello haya lugar.
 
-(ARTÍCULO
+(
+
+1, Decreto 2438 de 2018)
 
 ## art:2.12.7.4 — 7.4
 
 Término para el suministro de la información relevante a la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social-UGPP. Las personas naturales y jurídicas obligadas al suministro de la información de que trata el presente Título, deberán suministrar la información relevante requerida por la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social-UGPP, a más tardar dentro del mes siguiente, contado a partir de la fecha del recibo de la solicitud enviada por la Unidad.
 
-(ARTÍCULO
+(
+
+1, Decreto 2438 de 2018)
 
 ## art:2.12.7.5 — Calidad en la entrega de la información
 
 Los operadores públicos y privados de bancos de información y/o bases de datos deberán suministrar la información relevante a la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social-UGPP, atendiendo las características, especificaciones técnicas y términos previstos en los artículos 2.12.7.3. y 2.12.7.4 del presente Título de manera completa y exacta.
 
-(ARTÍCULO
+(
+
+1, Decreto 2438 de 2018)
 
 ## art:2.12.7.6 — Protección, reserva y confidencialidad de la información
 
 La Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, garantizará la protección, reserva y la confidencialidad de la información relevante suministrada y recibida, conforme con los protocolos de seguridad y control de acceso al sistema de información previstos por la entidad y atendiendo las instrucciones que se impartan a los usuarios de la información.
 
-(ARTÍCULO
+(
+
+1, Decreto 2438 de 2018)
+
+El uso de la información reportada a la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social -UGPP, se efectuará conforme con lo previsto en las disposiciones constitucionales, legales y reglamentarias vigentes, en especial el artículo 15 de la Constitución Política y el artículo 4 de la Ley 1581 de 2012.
+
+(
+
+1, Decreto 2438 de 2018)
+
+PARTE 13
+
+DISPOSICIONES ESPECÍFICAS AL FONDO ADAPTACIÓN
+
+CONTRATACIÓN
 
 ## art:2.13.1.1 — Régimen contractual
 
@@ -21767,8 +19753,6 @@ Los contratos que celebre el Fondo Adaptación para la construcción y reconstru
 Los demás contratos estarán sometidos al Estatuto General de Contratación de la Administración Pública, contenido en las Leyes 80 de 1993 y 1150 de 2007 y las normas que los modifiquen o adicionen.
 
 (Art.1 Decreto 203 de 2015, modificado por el Art. 1 del Decreto 2387 de 2015)
-
-ARTÍCULO
 
 ## art:2.13.1.2 — Modalidades de Selección
 
@@ -21816,8 +19800,6 @@ PARÁGRAFO 2. Las reglas para la ejecución de cada una de las modalidades de se
 
 (Art.2 Decreto 203 de 2015, modificado por el Art. 2 del Decreto 2387 de 2015)
 
-ARTÍCULO
-
 ## art:2.13.1.3 — Determinación de garantías o seguros
 
 El Fondo Adaptación, establecerá las garantías o seguros que debe exigir a los contratistas para la ejecución de sus contratos teniendo en cuenta para cada caso, la naturaleza y objeto del contrato, las condiciones de ejecución del mismo y los riesgos identificados, que deban ser cubiertos.
@@ -21826,15 +19808,11 @@ Para los efectos previstos en el presente artículo el Fondo Adaptación podrá 
 
 (Art.3 Decreto 203 de 2015, modificado por el Art. 3 del Decreto 2387 de 2015)
 
-ARTÍCULO
-
 ## art:2.13.1.4 — Autorización
 
 Se requerirá autorización del Consejo Directivo para la contratación directa prevista en las causales contenidas en los literales b), d), f), e i) del numeral 3 del artículo 2.13.1.2 del presente decreto, en aquellos casos en que la cuantía del futuro contrato, supere los 20.000 SMLMV.
 
 (Art.4 Decreto 203 de 2015, modificado por el Art. 4 del Decreto 2387 de 2015)
-
-ARTÍCULO
 
 ## art:2.13.1.5 — Del régimen sancionatorio
 
@@ -21860,8 +19838,6 @@ PARTE 14
 
 DISPOSICIONES RELACIONADAS CON LA UNIDAD DE INFORMACIÓN Y ANÁLISIS FINANCIERO-UIAF
 
-ARTÍCULO
-
 ## art:2.14.1 — Información solicitada a entidades públicas
 
 En desarrollo del artículo 9 de la Ley 526 de 1999, la Unidad de Información y Análisis Financiero podrá solicitar a cualquier entidad pública, salvo la información reservada en poder de la Fiscalía General de la Nación, la información que considere necesaria para el cumplimiento de sus funciones.
@@ -21871,8 +19847,6 @@ Las entidades públicas y sus funcionarios deberán prestar toda su colaboració
 PARÁGRAFO . En todo caso, las Superintendencias y la Dirección de Impuestos y Aduanas Nacionales, DIAN, informarán a la Unidad de Información y Análisis Financiero sobre las operaciones que puedan estar vinculadas al lavado de activos de las que tengan conocimiento por virtud de sus funciones.
 
 (Art. 1 Decreto 1497 de 2002)
-
-ARTÍCULO
 
 ## art:2.14.2 — Sectores económicos obligados a informar sobre operaciones
 
@@ -21884,8 +19858,6 @@ PARÁGRAFO 2. Las entidades que administren sistemas de tarjetas de crédito, de
 
 (Art. 2 Decreto 1497 de 2002)
 
-ARTÍCULO
-
 ## art:2.14.3 — Características de la información
 
 De acuerdo con el artículo 11 de la Ley 526 de 1999, las entidades dedicadas a la actividad financiera, aseguradora o propias del mercado de valores, las entidades obligadas a cumplir con lo previsto en los artículos 102 a 107 del Estatuto Orgánico del Sistema Financiero, así como las entidades incorporadas en el artículo 2.14.2 de la presente Parte, deben reportar en forma inmediata y suficiente a la Unidad de Información y Análisis Financiero cualquier información relevante sobre manejo de fondos cuya cuantía o características no guarden relación con la actividad económica de sus clientes o sobre transacciones de sus usuarios que por su número, por las cantidades transadas o por las características particulares de las mismas, puedan conducir razonablemente a sospechar que los mismos están usando a la entidad para transferir, manejar, aprovechar o invertir dineros o recursos provenientes de actividades delictivas.
@@ -21894,15 +19866,11 @@ Las entidades de que trata el artículo 2.14.2 de la presente Parte deberán inf
 
 (Art. 3 Decreto 1497 de 2002)
 
-ARTÍCULO
-
 ## art:2.14.4 — Información adicional
 
 Las entidades obligadas a cumplir con lo previsto en los artículos 102 a 107 del Estatuto Orgánico del Sistema Financiero y las incorporadas en el artículo 2.14.2 de la presente Parte, deberán aportar la información adicional que requiera la Unidad de Información y Análisis Financiero, en el plazo y con las especificaciones que establezca dicha Unidad. Las entidades y funcionarios que incumplan con los plazos o especificaciones de la solicitud, serán responsables administrativamente ante los órganos competentes, de acuerdo con las normas que rigen la materia.
 
 (Art. 4 Decreto 1497 de 2002)
-
-ARTÍCULO
 
 ## art:2.14.5 — Reserva de información
 
@@ -21912,8 +19880,6 @@ La información remitida a la Unidad de Información y Análisis Financiero en d
 
 (Art. 5 Decreto 1497 de 2002)
 
-ARTÍCULO
-
 ## art:2.14.6 — Información a autoridades
 
 En desarrollo de lo dispuesto en el numeral 9 del artículo 4 y en el artículo 9 de la Ley 526 de 1999, la Unidad de Información y Análisis Financiero podrá abstenerse de entregar información a autoridades diferentes a la Fiscalía General de la Nación y de las entidades legitimadas para ejercitar la acción de extinción del dominio, no obstante que dichas autoridades cuenten con funciones relacionadas con el lavado de activos, cuando de la evaluación efectuada se concluya que no existe fundamento jurídico para acceder a la solicitud.
@@ -21921,8 +19887,6 @@ En desarrollo de lo dispuesto en el numeral 9 del artículo 4 y en el artículo 
 Por lo anterior, las autoridades que soliciten información a la Unidad de Información y Análisis Financiero, deberán indicar claramente la función para cuyo ejercicio requieren de la misma y la norma legal que se las atribuye, con el fin de que la Unidad de Información y Análisis Financiero establezca su pertinencia.
 
 (Art. 6 Decreto 1497 de 2002)
-
-ARTÍCULO
 
 ## art:2.14.7 — Bases de datos de entidades financieras
 
@@ -21951,8 +19915,6 @@ La UIAF deberá garantizar que el flujo y tratamiento de la información, cumpli
 (Adicionado por el Art. 1 del Decreto 435 de 2026)
 
 INFORMACIÓN DE CLUBES DEPORTIVOS
-
-ARTÍCULO
 
 ## art:2.14.1.1 — Verificación de información
 
@@ -21996,8 +19958,6 @@ PARTE 15
 
 DISPOSICIONES ESPECÍFICAS AL FONDO PARA EL DESARROLLO DEL PLAN TODOS SOMOS PAZCÍFICO
 
-ARTÍCULO
-
 ## art:2.15.1 — Naturaleza del Fondo para el Desarrollo del Plan Todos Somos PAZcífico
 
 El Fondo para el Desarrollo del Plan Todos Somos PAZcífico (en adelante el Fondo), creado mediante el artículo 185 de la Ley 1753 de 2015 es un patrimonio autónomo administrado por el Ministerio de Hacienda y Crédito Público o por la entidad o entidades que éste defina.
@@ -22007,8 +19967,6 @@ PARÁGRAFO 1. El Ministerio de Hacienda y Crédito Público en uso de la faculta
 PARÁGRAFO 2. La Entidad Ejecutora y la Entidad Fiduciaria tendrán que definir a través de un reglamento (en adelante Reglamento Operativo), las condiciones en las que se desarrollará la relación entre ambas entidades para la realización de las funciones y obligaciones asignadas a cada una en esta Parte 15 (en adelante Parte), incluyendo la definición de la comisión fiduciaria.
 
 (Art. 1, Decreto 2121 de 2015)
-
-ARTÍCULO
 
 ## art:2.15.2 — Objeto del Fondo
 
@@ -22120,8 +20078,6 @@ Podrán ser beneficiarios directos del Fondo las entidades territoriales que hag
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.3 — Recursos del Fondo
 
 Los recursos del Fondo estarán constituidos por:
@@ -22166,8 +20122,6 @@ Para efectos de la transferencia de los respectivos recursos, la Entidad Fiducia
 
 En todo caso, la vigilancia y responsabilidad de la ejecución de los recursos y proyectos, estará a cargo de la Entidad Ejecutora, sin perjuicio de las obligaciones que le corresponden a la Entidad Fiduciaria como vocera del Fondo y responsable de la conservación y transferencia de los recursos.
 
-ARTÍCULO
-
 ## art:2.15.4 — Órganos del Fondo
 
 Para la ejecución de los planes, programas y proyectos, así como su funcionamiento, el Fondo contará con los siguientes órganos:
@@ -22181,8 +20135,6 @@ Para la ejecución de los planes, programas y proyectos, así como su funcionami
 4. Entidad Fiduciaria.
 
 (Art. 1, Decreto 2121 de 2015)
-
-ARTÍCULO
 
 ## art:2.15.5 — Junta Administradora del Fondo
 
@@ -22207,8 +20159,6 @@ PARÁGRAFO 3. La Junta se reunirá por lo menos una vez cada seis (6) meses y po
 La Junta podrá sesionar de manera presencial o no presencial.
 
 (Art. 1, Decreto 2121 de 2015)
-
-ARTÍCULO
 
 ## art:2.15.6 — Elección de alcaldes y gobernadores que harán parte de la Junta
 
@@ -22242,8 +20192,6 @@ PARÁGRAFO . La Secretaría Técnica convocará a la primera elección de alcald
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.7 — Funciones de la Junta Administradora del Fondo
 
 La Junta tendrá las siguientes funciones:
@@ -22276,15 +20224,11 @@ PARÁGRAFO 2. Serán Instancias Sectoriales para efecto de lo establecido en est
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.8 — Dirección Ejecutiva del Fondo
 
 El Director Ejecutivo del Fondo, será designado por la Junta, quien podrá removerlo cuando lo considere pertinente.
 
 (Art. 1, Decreto 2121 de 2015)
-
-ARTÍCULO
 
 ## art:2.15.9 — Funciones del Director Ejecutivo del Fondo
 
@@ -22312,15 +20256,11 @@ El Director Ejecutivo del Fondo tendrá las siguientes funciones:
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.10 — Entidad Ejecutora
 
 La Entidad Ejecutora será la entidad definida por el Ministerio de Hacienda y Crédito Público para la ejecución de los recursos del Fondo y la ordenación de su gasto.
 
 (Art. 1, Decreto 2121 de 2015)
-
-ARTÍCULO
 
 ## art:2.15.11 — Funciones de la Entidad Ejecutora
 
@@ -22358,8 +20298,6 @@ La Entidad Ejecutora tendrá las siguientes funciones:
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.12 — Entidad Fiduciaria
 
 La Entidad Fiduciaria será la entidad definida por el Ministerio de Hacienda y Crédito Público para la conservación y transferencia de los recursos y la vocería del Fondo, según lo dispuesto en las normas que regulan lo correspondiente a las obligaciones y deberes fiduciarios de las sociedades administradoras de patrimonios autónomos y según lo señalado en esta Parte.
@@ -22378,8 +20316,6 @@ La Entidad Fiduciaria expedirá las certificaciones de las donaciones recibidas.
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.13 — Aspectos que se regularán en el Reglamento Operativo
 
 El Reglamento Operativo que acuerden la Entidad Ejecutora y la Entidad Fiduciaria, deberá recoger lo dispuesto en esta Parte para la administración y ejecución de los recursos, y el desarrollo del objeto del Fondo, así como todo aquello que sea necesario para la adecuada regulación de la relación entre tales entidades, incluyendo lo relativo a las instrucciones que se otorguen en desarrollo de dicha relación, la forma y tiempos en que se le dará cumplimiento a tales instrucciones, las obligaciones y derechos de cada entidad de conformidad con las actividades y competencias propias de cada una de ellas, incluyendo la comisión fiduciaria, el comité fiduciario, la forma en que se efectuarán los pagos, los desembolsos y transferencias de bienes, instancias de comunicación entre ambas entidades y demás aspectos que se requieran.
@@ -22388,15 +20324,11 @@ PARÁGRAFO . La Entidad Fiduciaria transferirá el dominio de los bienes para su
 
 (Art. 1, Decreto 2121 de 2015)
 
-ARTÍCULO
-
 ## art:2.15.14 — Prohibición de pago de obligaciones de la Nación o de las entidades territoriales
 
 Con los recursos del Fondo no podrán hacerse pagos de obligaciones de la Nación o de las entidades territoriales.
 
 (Art. 1, Decreto 2121 de 2015)
-
-ARTÍCULO
 
 ## art:2.15.15 — Liquidación del Fondo
 
@@ -22414,27 +20346,19 @@ CAPITULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.16.1.1.1 — Garantía de la Nación sobre riesgos políticos y extraordinarios
 
 La Nación garantizará las operaciones de seguro de crédito a la exportación que amparen riesgos políticos y extraordinarios, cuando el Banco de Comercio Exterior de Colombia, en adelanteBancoldex, constituya o sea socio de la entidad aseguradora autorizada para explotar el seguro de crédito a la exportación, o contrate la prestación del seguro con una entidad aseguradora autorizada para explotar el ramo.
 
 Para estos efectos, la Nación celebrara con las entidades aseguradoras autorizadas para explotar el seguro de crédito a la exportación, un contrato de administración de la garantía otorgada por aquella, sobre los riesgos políticos y extraordinarios propios de las operaciones de seguro de crédito a la exportación, de conformidad con lo previsto en el presente Titulo.
 
-ARTÍCULO
-
 ## art:2.16.1.1.2 — Manto de la garantía sobre los riesgos políticos y extraordinarios
 
 El monto anual de la garantía de la Nación, equivaldrá al total del valor de las exportaciones aseguradas contra riesgos políticos y extraordinarios, durante el respectivo ario.
 
-ARTÍCULO
-
 ## art:2.16.1.1.3 — Cubrimiento de la garantía
 
 La garantía de la Nación sobre las operaciones de seguro de crédito a la exportación que amparen riesgos políticos y extraordinarios, solamente se hará efectiva cuando resulte insuficiente o se agote la reserva técnica a la cual se refiere el artículo 2.16.1.4.1. del presente decreto.
-
-ARTÍCULO
 
 ## art:2.16.1.1.4 — Partida presupuestal para atender la garantía sobre riesgos políticos y extraordinarios
 
@@ -22452,8 +20376,6 @@ a) Si existieren remanentes de los fondos situados a Bancoldex, este las reinteg
 
 b) Si existieren sumas a favor de Bancoldex, estas le serán reembolsadas por la Nación junta con sus intereses, con cargo a la apropiación presupuestal correspondiente, a más tardar dentro de la vigencia fiscal inmediatamente siguiente a aquella dentro de la cual haya terminado el contrato.
 
-ARTÍCULO
-
 ## art:2.16.1.1.5 — Pago de la garantía
 
 En las términos del contrato interadministrativo que para el efecto suscriban la Nación - Ministerio de Hacienda y Crédito Publico y Bancoldex, este último atenderá las obligaciones que surjan a cargo de la Nación con las entidades aseguradoras para el pago de las siniestros derivados de las riesgos políticos y extraordinarios en las términos contractuales, así como las costos de las acciones judiciales o extrajudiciales para procurar el recobro de las montos pagados a los beneficiarios de las respectivas pólizas, a título de indemnización, sumas que serán reembolsadas junta con sus intereses con cargo al Presupuesto General de la Nación.
@@ -22461,8 +20383,6 @@ En las términos del contrato interadministrativo que para el efecto suscriban l
 CAPÍTULO 2
 
 COMITE PARA RIESGOS POLITICOS Y EXTRAORDINARIOS
-
-ARTÍCULO
 
 ## art:2.16.1.2.1 — Comité para Riesgos Políticos y Extraordinarios
 
@@ -22479,8 +20399,6 @@ d) un experto en seguros designado por el Presidente de la Republica.
 e) el Presidente de Bancoldex o su delegado que será un Vicepresidente designado por este, y
 
 f) dos delegados designados por la entidad o entidades aseguradoras que exploten el ramo de seguro de crédito a la exportación, en las cuales participe Bancoldex en los términos previstos en la ley.
-
-ARTÍCULO
 
 ## art:2.16.1.2.2 — Reuniones y funciones del Comité para Riesgos Políticos y Extraordinarios
 
@@ -22506,8 +20424,6 @@ i) Darse su propio reglamento y elaborar y aprobar un manual de operación del s
 
 j) Aprobar la modalidad de la identificación de riesgos de que trata el literal a) del presente artículo. Tal aprobación deberá contar con el vista bueno del Ministro de Hacienda y Crédito Público.
 
-ARTÍCULO
-
 ## art:2.16.1.2.3 — Identificación de los riesgos políticos y extraordinarios
 
 En la identificación de los riesgos políticos y extraordinarios el Comité deberá seguir los siguientes parámetros:
@@ -22520,8 +20436,6 @@ c) Los riesgos políticos son, en general, las asociados a medidas adoptadas par
 
 PARÁGRAFO . Constituirá riesgo de tasa de cambio aquel que da lugar a pérdidas económicas en una transacción denominada en moneda extranjera, par razón de variaciones en la cotización de las monedas.
 
-ARTÍCULO
-
 ## art:2.16.1.2.4 — Solicitud de información
 
 El Comité para Riesgos Políticos y Extraordinarias podrá solicitar a las entidades aseguradoras, que cuenten con la garantía de la Nación prevista en este Título, toda clase de informaciones respecto al trámite de expedición de pólizas y manejo de siniestros y hacer observaciones al respecto.
@@ -22530,19 +20444,13 @@ CAPÍTULO 3
 
 OPERACIÓN DEL SISTEMA DE SEGURO DE CRÉDITO A LA EXPORTACIÓN
 
-ARTÍCULO
-
 ## art:2.16.1.3.1 — Operación del sistema de seguro de crédito a la exportación
 
 Las entidades aseguradoras que operen el seguro de crédito a la exportación en los términos establecidos en el presente Titulo se encargaran de la expedición de las respectivas pólizas, de la selección de riesgos de acuerdo con las políticas trazadas por el Comité para Riesgos Políticos y Extraordinarios, del reconocimiento y aceptación de siniestros y de las demás funciones administrativas inherentes a la actividad aseguradora.
 
-ARTÍCULO
-
 ## art:2.16.1.3.2 — Elaboración de las pólizas
 
 La elaboración de las pólizas, en el caso de seguros que cuenten con garantía de la Nación, estará a cargo de la entidad o entidades aseguradoras en las cuales Bancoldex participe en los términos previstos en el artículo 2.16.1.1.1. del presente decreto, las cuales se sujetaran en todo a lo previsto en las disposiciones legales vigentes. En lo relacionado con los riesgos políticos y extraordinarios, las pólizas deberán ajustarse a la identificación de estos riesgos realizada por el Comité para Riesgos Políticos y Extraordinarios.
-
-ARTÍCULO
 
 ## art:2.16.1.3.3 — Contratos
 
@@ -22558,8 +20466,6 @@ En este contrato debe estipularse que basta con que la póliza haya sido expedid
 
 Igualmente deberá establecerse que no habrá garantía de la Nación y el asegurador responderá con sus propios recursos en los casos en que por culpa leve haya asumido obligaciones, dentro de la operación del seguro de crédito a la exportación por riesgos políticos y extraordinarios, que no correspondan legalmente, por no haberse afectado el riesgo realmente asumido o por mediar una causal de ineficacia del contrato de seguro o, en general, por haberse hecho un pago de lo no debido.
 
-ARTÍCULO
-
 ## art:2.16.1.3.4 — Gastos de administración
 
 Las entidades aseguradoras emisoras de las pólizas mediante las cuales se cubran riesgos políticos y extraordinarios, devengarán el veintisiete por ciento (27%) del total de las primas emitidas por este concepto con el fin de sufragar los costos de administración y expedición.
@@ -22568,15 +20474,11 @@ CAPITULO 4
 
 RESERVAS TECNICAS
 
-ARTÍCULO
-
 ## art:2.16.1.4.1 — Reserva de riesgos en curso sobre riesgos políticos y extraordinarios garantizados por la Nación
 
 Las entidades aseguradoras emisoras de las pólizas deberán constituir una reserva de riesgos en curso, mediante la utilización del sistema de póliza a. Esta reserva se constituirá en la fecha de emisión de la póliza con el setenta y tres por ciento (73%) de la prima emitida en cada póliza. y se calculará hasta la fecha de fin de vigencia de la póliza, como la multiplicación del setenta y tres por ciento (73%) de la prima emitida por una fracción de riesgo no corrida. Para los efectos de este artículo, se entenderá que la fracción de riesgo no corrida, se comporta coma una función de distribución uniforme.
 
 Los recursos de esta reserva se liberaran para el pago de siniestros, para la devolución de primas no devengadas o conforme a las características del modelo póliza a póliza con destino a la reserva de riesgos catastróficos en las condiciones estipuladas en el artículo 2.16.1.4.2. del presente decreto.
-
-ARTÍCULO
 
 ## art:2.16.1.4.2 — Reserva de riesgos catastróficos sobre riesgos políticos y extraordinarios
 
@@ -22594,13 +20496,9 @@ d) A los gastos por custodia, compensación y liquidación provenientes de la ne
 
 e) El pago de la comisión por desempeño al administrador de las inversiones de las reservas, siempre y cuando dicho esquema de remuneración haya sido aprobado por el Comité para Riesgos Políticos y Extraordinarios. El Comité deberá definir, igualmente, el monto de esta comisión y la forma y condiciones para su pago.
 
-ARTÍCULO
-
 ## art:2.16.1.4.3 — Rendimientos de la inversión de las reservas
 
 Los rendimientos que genere la inversión de las reservas de que tratan los artículos anteriores del presente capítulo, serán sumados a las mismas, y por tanto no constituirán ingresos de la aseguradora.
-
-ARTÍCULO
 
 ## art:2.16.1.4.4 — Traslado de la reserva a la Nación
 
@@ -22610,8 +20508,6 @@ Si no fuere posible esta transferencia, las reservas técnicas constituidas por 
 
 CAPÍTULO 5
 
-ARTÍCULO
-
 ## art:2.16.1.5.1 — Régimen de inversiones
 
 Las reservas técnicas constituidas para los amparos de riesgos políticos y extraordinarios garantizados por la Nación, se sujetarán a lo previsto eh el artículo 2.31.3.1.8 del Decreto 2555 de 2010. No obstante, las reservas no podrán ser invertidas en los activos descritos en los subnumerales 1.10, 1.11, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10 y 3.5 del artículo 2.31.3.1.2 del Decreto 2555 de 2010.
@@ -22619,8 +20515,6 @@ Las reservas técnicas constituidas para los amparos de riesgos políticos y ext
 CAPÍTULO 6
 
 IMPUTACION DE RECOBROS POR PARTE DE LAS ASEGURADORAS
-
-ARTÍCULO
 
 ## art:2.16.1.6.1 — Imputación de sumas objeto de recobros por parte de las aseguradoras
 
@@ -22641,8 +20535,6 @@ PARTE 17
 DISPOSICIONES EN MATERIA DE CAMBIOS INTERNACIONALES Y REGIMEN GENERAL DE INVERSIONES DE CAPITAL DEL EXTERIOR EN COLOMBIA Y DE CAPITAL COLOMBIANO EN EL EXTERIOR
 
 DISPOSICIONES EN MATERIA DE CAMBIOS INTERNACIONALES
-
-ARTÍCULO
 
 ## art:2.17.1.1 — Operaciones de Cambio
 
@@ -22666,8 +20558,6 @@ Defínanse como operaciones de cambio todas las comprendidas dentro de las categ
 
 (Art. 1 Decreto 1735 de 1993)
 
-ARTÍCULO
-
 ## art:2.17.1.2 — Definición de residencia para fines cambiarios
 
 Sin perjuicio de lo establecido en tratados internacionales y leyes especiales, para efectos del régimen cambiario:
@@ -22688,15 +20578,11 @@ c) Otras entidades que no tengan personería jurídica ni domicilio dentro del t
 
 (Artículo MODIFICADO por el Art. 1 del Decreto 119 de 2017)
 
-ARTÍCULO
-
 ## art:2.17.1.3 — Operaciones Internas
 
 Salvo autorización expresa en contrario, ningún contrato, convenio u operación que se celebre entre residentes se considerará operación de cambio. En consecuencia, las obligaciones que se deriven de tales contratos, convenios u operaciones, deberán cumplirse en moneda legal colombiana.
 
 (Art. 3 Decreto 1735 de 1993)
-
-ARTÍCULO
 
 ## art:2.17.1.4 — Negociación de Divisas
 
@@ -23118,8 +21004,6 @@ GARANTÍA CARTERA HIPOTECARIA Y LEASING HABITACIONAL
 
  GARANTÍA CARTERA VIS SUBSIDIABLE
 
-ARTÍCULO
-
 ## art:2.18.1.1 — Garantía Cartera VIS Subsidiable
 
 Modificado por Decreto 2215 de 2015 La Nación-Ministerio de Hacienda y Crédito Público, a través del Fondo de Garantías de Instituciones Financieras, Fogafín, otorgará su garantía a los bonos hipotecarios para financiar cartera VIS subsidiable y a los títulos emitidos en procesos de titularización de cartera VIS subsidiable, que se emitan sobre cartera originada por los establecimientos de crédito, de conformidad con lo dispuesto en los artículos 9, 10 y 12 la Ley 546 de 1999 con sujeción a lo previsto en el presente título.
@@ -23129,8 +21013,6 @@ PARÁGRAFO 1. Las garantías a que se refiere el presente artículo se otorgará
 PARÁGRAFO 2. El monto liberado del cupo de la garantía por el valor de los títulos recomprados, bien sea por las amortizaciones o por el prepago de las carteras subyacentes de dichos títulos, operará de forma rotativa y podrá ser utilizado de nuevo para el otorgamiento de garantías dentro del plazo establecido por el Gobierno Nacional.
 
 (Art. 1 Decreto 2782 de 2001, modificado por el Art. 1 del Decreto 576 de 2004, modificado por el Art 1 del Decreto 2753 de 2005, modificado por el Art. 1 del Decreto 2717 de 2006. El Art. 1 del Decreto 2322 de 2010, modificado por el Art.1 del Decreto 2711 de 2012, modificado por el Art.1 del Decreto 2215 de 2015)
-
-ARTÍCULO
 
 ## art:2.18.1.2 — Recursos
 
@@ -23144,15 +21026,11 @@ c) Otros recursos que obtenga directamente el Fondo de Garantías de Institucion
 
 (Art. 2 Decreto 2782 de 2001)
 
-ARTÍCULO
-
 ## art:2.18.1.3 — Alcance de la Garantía
 
 La garantía se otorgará a los bonos hipotecarios para financiar cartera VIS subsidiable y a los títulos emitidos en procesos de titularización de cartera VIS subsidiable que cumplan con lo previsto en los artículos 9 y 12 de la Ley 546 de 1999 y las normas que los desarrollen.
 
 (Art. 3 Decreto 2782 de 2001)
-
-ARTÍCULO
 
 ## art:2.18.1.4 — Requisitos
 
@@ -23162,15 +21040,11 @@ El establecimiento de crédito emisor de los bonos hipotecarios o el agente de m
 
 (Art. 4 Decreto 2782 de 2001)
 
-ARTÍCULO
-
 ## art:2.18.1.5 — Comisión
 
 La comisión por el otorgamiento de la garantía será fijada de conformidad con lo establecido en el literal b), numeral 2 del artículo 318 del Estatuto Orgánico del Sistema Financiero, teniendo en cuenta, entre otros criterios, el valor en riesgo y los costos y gastos de administración de la garantía. El Fondo de Garantías de Instituciones Financieras, Fogafín podrá establecer la información y documentación que requiera como condición para solicitar el acceso a la garantía y verificar el comportamiento de las emisiones.
 
 (Art. 5 Decreto 2782 de 2001)
-
-ARTÍCULO
 
 ## art:2.18.1.6 — Disponibilidad de Recursos
 
@@ -23181,8 +21055,6 @@ Para tal efecto, el Fondo de Garantías de Instituciones Financieras, Fogafín d
 Cuando los recursos de la reserva especial y separada a que alude el artículo 2.18.1.2 del presente título no sean suficientes para pagar las garantías, el Ministerio de Hacienda y Crédito Público deberá suministrar los recursos que permitan pagar a los tenedores de Bonos y Títulos, mediante la entrega de títulos de deuda pública.
 
 (Art. 6 Decreto 2782 de 2001)
-
-ARTÍCULO
 
 ## art:2.18.1.7 — Convenio
 
@@ -23261,8 +21133,6 @@ PARÁGRAFO. Una vez se efectúe la transferencia establecida en el artículo 2.1
 (Adicionado por el Art. 2 del Decreto 347 de 2023)
 
 CAPTACIÓN MASIVA DE FONDOS
-
-ARTÍCULO
 
 ## art:2.18.2.1 — Definición
 
@@ -23550,8 +21420,6 @@ PARTE 19
 
 FONDO NACIONAL PARA EL DESARROLLO DE LA INFRAESTRUCTURA
 
-ARTÍCULO
-
 ## art:2.19.1 — ADMINISTRACIÓN Y NATURALEZA JURÍDICA
 
 El Fondo Nacional para el Desarrollo de la Infraestructura (FONDES) es un patrimonio autónomo que será administrado por la Financiera de Desarrollo Nacional S.A. (en adelante la "FDN"), en los términos del contrato de fiducia mercantil (en adelante el "Contrato") que se suscriba para el efecto con la entidad administradora.
@@ -23560,15 +21428,11 @@ La administración del FONDES, así como los demás asuntos necesarios para su f
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
 
-ARTÍCULO
-
 ## art:2.19.2 — OBJETO DEL FONDES
 
 El FONDES tendrá por objeto la inversión y el financiamiento de proyectos de infraestructura, así como la inversión en el capital social de empresas de servicios públicos mixtas u oficiales.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.3 — RECURSOS DEL FONDES
 
@@ -23592,13 +21456,9 @@ El patrimonio del FONDES estará constituido, entre otras, por las siguientes fu
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
 
-ARTÍCULO
-
 ## art:2.19.4 — Consejo de administración del fondes
 
 El FONDES tendrá un Consejo de Administración, el cual constituye el máximo órgano de dirección del FONDES, y tendrá las facultades, funciones y obligaciones que se establecen en esta Parte, en El Contrato y el Reglamento del FONDES.
-
-ARTÍCULO
 
 ## art:2.19.5 — COMPOSICIÓN DEL CONSEJO DE ADMINISTRACIÓN DEL FONDES
 
@@ -23617,8 +21477,6 @@ PARÁGRAFO . Los miembros independientes deberán cumplir como mínimo con las s
 PARÁGRAFO TRANSITORIO. En caso de que, el Consejo de Administración no cuente con la designación de los miembros necesarios para conformar el quórum decisorio establecido en su Reglamento a la fecha de inicio de ejecución del FONDES, el Ministerio de Hacienda y Crédito Público, durante los primeros seis (6) meses siguientes a la citada fecha, podrá: i) designar y/o delegar funcionarios de nivel directivo en los reglones establecidos para los miembros independientes o; ii) asumir de forma directa las funciones del Consejo de Administración. La fecha de inicio de ejecución del FONDES será aquella que se defina en el Contrato.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.6 — FUNCIONES DEL CONSEJO DE ADMINISTRACIÓN DEL FONDES
 
@@ -23650,8 +21508,6 @@ PARÁGRAFO . Los miembros del Consejo de Administración recibirán remuneració
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
 
-ARTÍCULO
-
 ## art:2.19.7 — ADMINISTRADOR DEL FONDES
 
 La FDN será la entidad encargada de ejercer la administración, vocería y representación del FONDES, incluyendo las decisiones particulares de inversión de sus recursos que no le correspondan al Consejo de Administración o a otro órgano de gobierno del FONDES, en las condiciones establecidas en el Contrato y en el Reglamento. Las obligaciones de la FDN bajo el Contrato serán de medio y no de resultado.
@@ -23659,8 +21515,6 @@ La FDN será la entidad encargada de ejercer la administración, vocería y repr
 La FDN llevará además la personería del patrimonio autónomo FONDES en todas las actuaciones procesales de carácter administrativo o jurisdiccional que deban realizarse para proteger y defender los bienes que lo conforman, o para ejercer los derechos y acciones que le correspondan en desarrollo del Contrato, todo lo cual se realizará con los recursos del FONDES, conforme lo establecido en el Contrato y/o el Reglamento. En su calidad de vocero y administrador, la FDN actuará como el ordenador del gasto del FONDES, a través del Gerente del FONDES o de sus representantes legales.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.8 — CONTRATO DEL FONDES
 
@@ -23676,15 +21530,11 @@ PARÁG RAFO. La FDN aplicará su propio régimen de contratación a los actos y 
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
 
-ARTÍCULO
-
 ## art:2.19.9 — REGLAMENTO DEL FONDES
 
 El Reglamento inicial del FONDES será aprobado por el Ministerio de Hacienda y Crédito Público y sus modificaciones posteriores serán aprobadas por el Consejo de Administración, el cual deberá desarrollar todos los aspectos operativos, administrativos y logísticos para la gestión de las operaciones del FONDES, incluyendo entre otros, el régimen y características generales de la inversión de los recursos. Lo anterior conforme a las operaciones autorizadas al FONDES en esta Parte, así como los órganos y comités que se requieran para su operación, y los diferentes manuales y guías que sea necesario adoptar.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.10 — .10
 
@@ -23734,15 +21584,11 @@ PARÁGRAFO 7. La estrategia de asignación de recursos del FONDES en sus diferen
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
 
-ARTÍCULO
-
 ## art:2.19.12 — Operaciones pasivas del fondes
 
 El FONDES podrá, en virtud de lo dispuesto en el literal e del artículo 2.19.3 de esta Parte, efectuar operaciones pasivas de financiamiento interno o externo a su nombre.
 
 Previo a la celebración de las operaciones pasivas de financiamiento y las asimiladas a éstas por parte del FONDES, se requerirá de la autorización del Ministerio de Hacienda y Crédito Público, previa aprobación de la operación por parte de la Dirección General de Crédito Público y Tesoro Nacional. La mencionada autorización podrá otorgarse una vez se cuente con el concepto favorable del CONPES frente a la importancia estratégica de tal endeudamiento para el cumplimiento del objeto de FONDES.
-
-ARTÍCULO
 
 ## art:2.19.13 — Garantías para las operaciones del fondes
 
@@ -23756,8 +21602,6 @@ c) Autorización para celebrar el contrato de garantía impartida por el Ministe
 
 Cuando alguna obligación de pago del FONDES sea garantizada por la Nación, éste deberá aportar al Fondo de Contingencias de las Entidades Estatales de acuerdo con lo establecido por el Título 2 de la Parte 4 del Libro 2 del Decreto 1068 de 2015 o las normas que lo modifiquen, sustituyan o adicionen.
 
-ARTÍCULO
-
 ## art:2.19.14 — Separación de activos
 
 Los bienes del FONDES forman un patrimonio autónomo, distinto al de la Nación y al de la FDN. Entre los recursos de la Nación, los de la FDN, y los del FONDES, se mantendrá una absoluta separación, de modo que todos los costos y gastos del FONDES se financien con sus propios recursos y no con los de la Nación ni con los de la FDN. Cada vez que la FDN actúe por cuenta del FONDES, se considerará que compromete única y exclusivamente los bienes del FONDES.
@@ -23766,21 +21610,15 @@ Los bienes del FONDES no hacen parte del patrimonio de la FDN. Por consiguiente 
 
 En consecuencia, los bienes del FONDES no constituyen prenda general de los acreedores de la FDN ni de la Nación y están excluidos de la masa de bienes que pueda conformarse, para efectos de cualquier procedimiento de insolvencia, o de otras acciones legales que puedan afectar a la FDN o a la Nación.
 
-ARTÍCULO
-
 ## art:2.19.15 — Contabilidad del fondes
 
 La FDN deberá llevar la contabilidad del FONDES de manera separada de su contabilidad.
-
-ARTÍCULO
 
 ## art:2.19.16 — CUENTA ESPECIAL FONDES
 
 Los recursos producto de enajenaciones de participaciones accionarias de la Nación, que sean destinados al FONDES, ingresarán a la Cuenta Especial FONDES según lo dispuesto en el artículo 144 de la Ley 1753 de 2015, modificado por el artículo 56 de la ley 1955 de 2019.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.17 — INVERSIONES ADMISIBLES DE LA CUENTA ESPECIAL FONDES
 
@@ -23792,15 +21630,11 @@ PARÁGRAFO 2. Los títulos emitidos por la FDN que computen en su capital regula
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
 
-ARTÍCULO
-
 ## art:2.19.18 — INCLUSIÓN DE LOS RECURSOS DEL PATRIMONIO AUTÓNOMO FONDES EN EL PRESUPUESTO GENERAL DE LA NACIÓN
 
 Los recursos que conformen el FONDES se mantendrán en dicho patrimonio autónomo hasta que se incorporen en el Presupuesto General de la Nación. El monto de los recursos del FONDES que vayan a ser incorporados en el Presupuesto General de la Nación en cada vigencia fiscal, será determinado previamente por el Consejo Superior de Política Fiscal - CONFIS. En todo caso, previa determinación por parte del CONFIS, el Consejo de Administración del FONDES deberá conceptuar favorablemente en el sentido que el monto a ser incluido en el Presupuesto General de la Nación no afecta los compromisos y/o el presupuesto de gastos del FONDES.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.19 — TRASLADO DE RECURSOS DE LA CUENTA ESPECIAL AL PATRIMONIO AUTÓNOMO FONDES
 
@@ -23811,8 +21645,6 @@ PARÁGRAFO 1. Conforme a lo dispuesto en el artículo 144 de la Ley 1753 de 2015
 PARÁGRAFO 2. El traslado de los recursos o activos podrá efectuarse a través de la transferencia y/o aporte a favor del FONDES de los derechos que la Cuenta Especial FONDES tenga sobre títulos emitidos por la FDN, sin que dicho traslado deba ser aprobado de manera previa por el Consejo de Administración.
 
 (Modificado por el Art. 1 del Decreto 277 de 2020)
-
-ARTÍCULO
 
 ## art:2.19.20 — VIGENCIA Y LIQUIDACIÓN DEL FONDES
 
@@ -23936,13 +21768,9 @@ PARTE 20
 
 DISPOSICIONES ESPECÍFICAS AL FONDO DIAN PARA COLOMBIA
 
-ARTÍCULO
-
 ## art:2.20.1 — Naturaleza del Fondo DIAN para Colombia
 
 El Fondo DIAN para Colombia (en adelante el "Fondo"), creado mediante el artículo 55 de la Ley 1955 de 2019, es un patrimonio autónomo administrado por el Ministerio de Hacienda y Crédito Público o por la entidad o entidades que éste decida.
-
-ARTÍCULO
 
 ## art:2.20.2 — Administración del Fondo
 
@@ -23955,8 +21783,6 @@ Para efectos de la operatividad y funcionamiento del Fondo, la administración d
 PARÁGRAFO 1. En uso de la facultad otorgada por el artículo 55 de la Ley 1955 de 2019, el Ministerio de Hacienda y Crédito Público establece que la Entidad Ejecutora del Fondo será la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (en adelante la "DIAN").
 
 PARÁGRAFO 2. La Entidad Ejecutora y la Entidad Fiduciaria definirán, mediante un reglamento (en adelante el "Reglamento Operativo"), las condiciones en las que se desarrollará la relación entre ambas entidades, para la realización de las funciones y obligaciones asignadas a cada una de éstas en esta Parte 20 (en adelante la "Parte"), incluyendo la definición de la comisión fiduciaria.
-
-ARTÍCULO
 
 ## art:2.20.3 — Objeto del Fondo
 
@@ -23973,8 +21799,6 @@ El Fondo tendrá por objeto la financiación y/o la inversión del programa de m
 5. Otras actividades necesarias para la ejecución de los numerales 1 al 4 del presente artículo.
 
 PARÁGRAFO . En desarrollo de su objeto, el Fondo podrá realizar cualquiera de las actividades descritas en los numerales 1 a 5 del artículo 55 de la Ley 1955 de 2019.
-
-ARTÍCULO
 
 ## art:2.20.4 — Recursos del Fondo
 
@@ -24020,8 +21844,6 @@ Para efectos de la transferencia de los respectivos recursos, la Entidad Fiducia
 
 En todo caso, la vigilancia y responsabilidad de la ejecución de los recursos y proyectos, estará a cargo de .la Entidad Ejecutora, sin perjuicio de las obligaciones que le corresponden a la Entidad Fiduciaria como vocera del Fondo y responsable de la conservación y transferencia de los recursos.
 
-ARTÍCULO
-
 ## art:2.20.5 — Órganos del Fondo
 
 Para la ejecución de los planes, programas y proyectos del Fondo, así como su funcionamiento, éste contará con los siguientes órganos:
@@ -24031,8 +21853,6 @@ Para la ejecución de los planes, programas y proyectos del Fondo, así como su 
 2. Entidad Ejecutora; y
 
 3. Entidad Fiduciaria
-
-ARTÍCULO
 
 ## art:2.20.6 — Junta Administradora del Fondo
 
@@ -24049,8 +21869,6 @@ PARÁGRAFO 2. El representante legal de la Entidad Ejecutora asistirá a las ses
 A las sesiones de la Junta podrán invitarse representantes de otras entidades públicas o privadas, y quienes, a juicio unánime de los integrantes de la Junta, puedan aportar elementos sobre las materias o asuntos que deban ser decididos por la misma.
 
 PARÁGRAFO 3. La Junta se reunirá por lo menos una vez cada seis (6) meses y podrá ser convocada, de forma extraordinaria, siempre que se estime necesario por parte de su Presidente y/o la Entidad Ejecutora. La Junta sesionará con la asistencia de sus tres (3) miembros, y podrá adoptar decisiones con el voto favorable de la mayoría de los miembros asistentes. La Junta podrá sesionar de manera presencial o no presencial.
-
-ARTÍCULO
 
 ## art:2.20.7 — Funciones de la Junta Administradora del Fondo
 
@@ -24077,8 +21895,6 @@ La Junta tendrá las siguientes funciones:
 10. Aprobar las operaciones de financiamiento interno o externo, sin perjuicio de los demás requisitos necesarios para su celebración, dispuestos en la Ley y en esta Parte.
 
 11. Las demás que se requieran para el cabal cumplimiento del objeto del Fondo, y las que se definan en el Reglamento de la Junta.
-
-ARTÍCULO
 
 ## art:2.20.8 — Funciones de la Entidad Ejecutora del Fondo
 
@@ -24118,8 +21934,6 @@ La Entidad Ejecutora del Fondo tendrá las siguientes funciones:
 
 17. Las demás que le sean asignadas por la Junta, enmarcadas dentro de su objeto.
 
-ARTÍCULO
-
 ## art:2.20.9 — Funciones de la Entidad Fiduciaria del Fondo
 
 La Entidad Fiduciaria del Fondo tendrá las siguientes funciones:
@@ -24140,8 +21954,6 @@ PARÁGRAFO 2. La Entidad Fiduciaria celebrará de manera diligente y eficiente t
 
 PARÁGRAFO 3. La Entidad Fiduciaria expedirá las certificaciones de las donaciones recibidas.
 
-ARTÍCULO
-
 ## art:2.20.10 — Reglamento Operativo
 
 El Reglamento Operativo que definan la Entidad Ejecutora y la Entidad Fiduciaria deberá recoger lo dispuesto en esta Parte en relación con:
@@ -24152,13 +21964,9 @@ El Reglamento Operativo que definan la Entidad Ejecutora y la Entidad Fiduciaria
 
 3. Todo aquello que sea necesario para la adecuada regulación de la relación entre la Entidad Ejecutora y la Entidad Fiduciaria, incluyendo lo relativo a las instrucciones que se otorguen en desarrollo de dicha relación, la forma y tiempos en que se dará cumplimiento a tales instrucciones, las obligaciones y derechos de la Entidad Ejecutora y la Entidad Fiduciaria, de conformidad con las actividades y competencias propias de cada una de ellas, incluyendo la comisión fiduciaria, el comité fiduciario, la forma en que se efectuarán los pagos, los desembolsos y transferencias de bienes, instancias de comunicación entre ambas entidades y demás aspectos que se requieran.
 
-ARTÍCULO
-
 ## art:2.20.11 — Prohibición de pago de obligaciones de la Nación o de las entidades territoriales
 
 Con los recursos del Fondo no podrán efectuarse pagos en relación con obligaciones de la Nación o de las entidades territoriales.
-
-ARTÍCULO
 
 ## art:2.20.12 — Liquidación del Fondo
 
@@ -24170,13 +21978,9 @@ Cumplido el propósito del Fondo, el Ministerio de Hacienda y Crédito Público 
 
 FONDO DE SOSTENIBILIDAD FINANCIERA DEL SECTOR ELÉCTRICO - FONSE
 
-ARTÍCULO
-
 ## art:2.21.1 — Naturaleza
 
 El Fondo de Sostenibilidad Financiera del Sector Eléctrico - FONSE es un patrimonio autónomo, adscrito al Ministerio de Hacienda y Crédito Público, administrado por este o la entidad que este designe.
-
-ARTÍCULO
 
 ## art:2.21.2 — Objeto
 
@@ -24185,8 +21989,6 @@ El FONSE tendrá por objeto la inversión de recursos en instrumentos de capital
 Adicionalmente, el FONSE podrá otorgar créditos directos al Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios para destinarlos a solventar las necesidades de recursos asociadas a la implementación de esquemas de solución de largo plazo derivados de los procesos de toma de posesión de las empresas de servicios públicos domiciliarios, los cuales se hayan visto afectados por la situación de emergencia sanitaria declarada por el Ministerio de Salud y Protección Social y que por tanto requieran del apoyo del Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios para garantizarlos. . Dichos créditos podrán otorgarse desde la entrada en vigencia del presente Decreto y hasta el 31 de diciembre de 2020.
 
 PARÁGRAFO . Los recursos a los que se refiere el inciso segundo podrán destinarse a financiar los compromisos y aspectos que sean necesarios para la implementación y buen fin de los esquemas de solución a largo plazo adoptados en el marco de un proceso de toma de posesión, aun cuando el receptor final de esos recursos, que en todo caso deberá ser una empresa de servicios públicos domiciliarios de las que trata el artículo 14 de la Ley 142 de 1994, no sea la empresa en toma de posesión. Lo anterior, siempre que con dicha financiación se propenda por la ejecución del esquema de solución correspondiente que mantenga viable la continuidad en la prestación del servicio público domiciliario.
-
-ARTÍCULO
 
 ## art:2.21.3 — Recursos
 
@@ -24200,8 +22002,6 @@ Los recursos del FONSE podrán provenir de las siguientes fuentes:
 
 PARÁGRAFO . Los recursos del FONSE serán administrados por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público en un portafolio independiente, con el propósito de garantizar su disponibilidad.
 
-ARTÍCULO
-
 ## art:2.21.4 — Uso de los Recursos
 
 Los recursos del FONSE se podrán usar para:
@@ -24213,8 +22013,6 @@ Otorgar créditos directos al Fondo Empresarial de la Superintendencia de Servic
 2. Efectuar operaciones de tesorería que estén autorizadas en el régimen de administración de los recursos de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
 
 3. Los demás usos que permitan el cumplimiento del objeto del FONSE.
-
-ARTÍCULO
 
 ## art:2.21.5 — Administración del FONSE
 
@@ -24231,8 +22029,6 @@ El Ministerio de Hacienda y Crédito Público, a través de sus dependencias com
 4. Las demás inherentes a la administración y ordenación del gasto del FONSE.
 
 PARÁGRAFO . Las decisiones sobre los recursos del FONSE deberán ser evaluadas de forma conjunta, no por el desempeño de una operación individual sino como parte de una política integral orientada a garantizar la continuidad en la prestación de servicios públicos domiciliarios. Por tanto, se podrán efectuar operaciones aun cuando al momento de su realización se esperen resultados financieros adversos, o que tengan rendimientos iguales a cero o negativos.
-
-ARTÍCULO
 
 ## art:2.21.6 — 1.6
 
@@ -24252,8 +22048,6 @@ Los créditos del FONSE al Fondo Empresarial de la Superintendencia de Servicios
 
 En el evento en que los recursos a ser entregados en préstamo no sean requeridos o por cualquier razón se liberen, el Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios deberá de forma inmediata reintegrar al FONSE dichos recursos.
 
-ARTÍCULO
-
 ## art:2.21.7 — Condiciones de los créditos que se otorguen al Fondo Empresarial
 
 Los créditos que se otorguen al Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios tendrán las siguientes condiciones generales:
@@ -24265,8 +22059,6 @@ Los créditos que se otorguen al Fondo Empresarial de la Superintendencia de Ser
 3. Renovación: Se podrán novar por periodos de 12 meses a solicitud de la Superintendencia de Servicios Públicos Domiciliarios como ordenadora del gasto del Fondo Empresarial, cuando las condiciones de la operación así lo requieran, sin superar en ningún caso el 31 de diciembre de 2022;
 
 4. Fuente de pago y garantías: En cumplimiento del artículo 2 del Decreto Legislativo 809 de 2020, deberán pignorarse a favor del FONSE la totalidad de los recursos provenientes de la sobretasa por kilovatio/hora consumido de que trata el artículo 313 de la Ley 1955 de 2019 y de la contribución adicional prevista en el artículo 314 de la Ley 1955 de 2019. A medida que el Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios reciba estos recursos, deberá consignarlos de manera inmediata en la cuenta que para el efecto determine el administrador del FONSE. Esta operación no requerirá garantías adicionales a tas establecidas.
-
-ARTÍCULO
 
 ## art:2.21.8 — Liquidación del FONSE
 
@@ -24282,19 +22074,13 @@ CAPÍTULO 1
 
 FONDO DE ESTABILIZACIÓN DEL INGRESO FISCAL - FEIF
 
-ARTÍCULO
-
 ## art:2.22.1.1 — Naturaleza
 
 El Fondo de Estabilización del Ingreso Fiscal -FEIF-, es un fondo sin personería jurídica, adscrito al Ministerio de Hacienda y Crédito Público y administrado por éste.
 
-ARTÍCULO
-
 ## art:2.22.1.2 — Objeto
 
 El Fondo de Estabilización del Ingreso Fiscal - FEIF tendrá por objeto propender por la estabilización del ingreso fiscal de la Nación proveniente de la producción y/o comercialización del petróleo a través de la gestión, adquisición y/o celebración de instrumentos y/o contratos que permitan el aseguramiento y/o cubrimiento de tales ingresos fiscales, con entidades extranjeras especializadas en este tipo de operaciones.
-
-ARTÍCULO
 
 ## art:2.22.1.3 — Recursos
 
@@ -24310,8 +22096,6 @@ Los recursos del Fondo de Estabilización del Ingreso Fiscal - FEIF provendrán 
 
 PARÁGRAFO : El Fondo de Estabilización del Ingreso Fiscal - FEIF no podrá realizar operaciones de crédito público y sus asimiladas.
 
-ARTÍCULO
-
 ## art:2.22.1.4 — 1.4
 
 Uso de recursos: Los recursos del Fondo de Estabilización del Ingreso Fiscal - FEIF se podrán usar previa aprobación del Comité de Gestión de Pasivos y Coberturas de la Nación del que trata el Capítulo 2 de la presente Parte para:
@@ -24322,8 +22106,6 @@ Uso de recursos: Los recursos del Fondo de Estabilización del Ingreso Fiscal - 
 
 3. Efectuar operaciones de tesorería para la administración de excedentes de liquidez conforme a las operaciones autorizadas para la administración de los recursos de la Dirección General de Crédito Público y Tesoro Nacional.
 
-ARTÍCULO
-
 ## art:2.22.1.5 — Administración del Fondo
 
 El Ministerio de Hacienda y Crédito Público administrará el Fondo de Estabilización del Ingreso Fiscal - FEIF, con plena observancia de los principios previstos en el artículo 209 de la Constitución Política y de forma independiente a los demás fondos y recursos administrados por el mismo.
@@ -24333,8 +22115,6 @@ El Ministerio de Hacienda y Crédito Público adelantará los trámites contract
 PARÁGRAFO 1. Las operaciones de cobertura del Fondo de Estabilización del Ingreso Fiscal - FEIF se podrán contratar y administrar por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público a través de la Cuenta de Coberturas del Fondo de Estabilización del Ingreso Fiscal - FEIF de la que trata el artículo 2 .22 .1.7. del presente Decreto mientras son incorporadas al Fondo de Estabilización del Ingreso Fiscal - FEIF.
 
 PARÁGRAFO 2. Por la naturaleza de la cobertura, en algunos períodos determinados por condiciones adversas del mercado, se podrán observar operaciones o estrategias de cobertura cuyos resultados sean iguales a cero o negativos. Dichas operaciones o estrategias deberán ser evaluadas de forma conjunta y en contexto con los ingresos y egresos de la Nación asociados al petróleo, no por el desempeño de una operación individual sino como parte de una estrategia integral de estabilidad fiscal que refleje las condiciones de mercado.
-
-ARTÍCULO
 
 ## art:2.22.1.6 — Funciones de Dirección, Administración y Ordenación del Gasto del FEIF
 
@@ -24352,8 +22132,6 @@ El Ministerio de Hacienda y Crédito Público, a través de sus dependencias com
 
 6. Las demás inherentes a la administración y ordenación del gasto del Fondo de Estabilización del Ingreso Fiscal - FEIF.
 
-ARTÍCULO
-
 ## art:2.22.1.7 — Cuenta de Coberturas del Fondo de Estabilización del Ingreso Fiscal - FEIF
 
 La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público creará una cuenta de liquidez denominada "Cuenta de Coberturas del Fondo de Estabilización del Ingreso Fiscal - FEIF'', destinada a administrar los recursos líquidos necesarios para la contratación de las operaciones de cobertura y los generados por éstas .
@@ -24364,15 +22142,11 @@ PARÁGRAFO 2. Los derechos y obligaciones financieras de las operaciones de cobe
 
 PARÁGRAFO 3. Con los recursos de la Cuenta de Coberturas del Fondo de Estabilización del Ingreso Fiscal - FEIF, la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público podrá realizar todas aquellas operaciones a ella legalmente autorizadas para el manejo de sus recursos y de los fondos que administre. El manejo de los recursos deberá efectuarse teniendo en cuenta los criterios de seguridad, liquidez, transparencia y realizarse en condiciones de mercado.
 
-ARTÍCULO
-
 ## art:2.22.1.8 — Incorporación de recursos al Presupuesto General de la Nación
 
 En los eventos en los cuales la Cuenta de Coberturas del Fondo de Estabilización del Ingreso Fiscal - FEIF reciba pago por concepto de la liquidación de los instrumentos adquiridos y/o los contratos celebrados a los que se refiere este Capítulo, el Comité de Gestión de Pasivos y Coberturas de la Nación adoptará las decisiones necesarias para que sean incorporados en los estados financieros del Fondo de Estabilización del Ingreso Fiscal - FEIF para posterior utilización de los mismos para ajustar el valor de las rentas constitutivas de recursos de capital de ingresos del Presupuesto General de la Nación en la misma vigencia o sean incorporados en el Proyecto de Ley Anual de Presupuesto General de la Nación para la siguiente vigencia, tomando en consideración la estimación del impacto de la variación de los precios del petróleo en los ingresos fiscales.
 
 Para lo anterior , la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público presentará al Comité de Gestión de Pasivos y Coberturas de la Nación la propuesta para su incorporación en la vigencia en curso y siguiente, de acuerdo con las necesidades presupuestarias que se requieran, así como para la constitución de una reserva con destino a la Cuenta de Coberturas del Fondo de Estabilización del Ingreso Fiscal - FEIF para atender la adquisición de instrumentos o celebración de contratos en el futuro .
-
-ARTÍCULO
 
 ## art:2.22.1.9 — Liquidación del Fondo de Estabilización del Ingreso Fiscal - FEIF
 
@@ -24382,21 +22156,15 @@ CAPÍTULO 2
 
 ESTRATEGIA DE COBERTURA
 
-ARTÍCULO
-
 ## art:2.22.2.1 — Comité de Gestión de Pasivos y Coberturas de la Nación
 
 Se crea el Comité de Gestión de Pasivos y Coberturas de la Nación, como una instancia administrativa encargada de coordinar, asesorar y conceptuar sobre las políticas de gestión de pasivos y aprobar la estrategia de coberturas de la Nación.
-
-ARTÍCULO
 
 ## art:2.22.2.2 — Aprobación de la Estrategia de Cobertura de Precios de Petróleo
 
 El Comité de Gestión de Pasivos y Coberturas de la Nación, aprobará la estrategia de coberturas para la protección de los ingresos y egresos de recursos públicos relacionados con la producción y/o comercialización del petróleo y combustibles líquidos, estrategia que se materializará a través de la gestión, adquisición y/o celebración de instrumentos y/o contratos que permitan el aseguramiento y/o cubrimiento a través del Fondo de Estabilización de Ingreso Fiscal - FEIF - y del Fondo de Estabilización de Precios de los Combustibles - FEPC.
 
 Para el efecto, por lo menos una vez al año, la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público preparará y someterá a consideración y decisión del Comité de Gestión de Pasivos y Coberturas de la Nación el documento técnico justificativo que contemple la estrategia de coberturas de la que trata el inciso anterior.
-
-ARTÍCULO
 
 ## art:2.22.2.3 — Comité de Gestión de Pasivos y Coberturas de la Nación
 
@@ -24415,8 +22183,6 @@ El Comité de Gestión de Pasivos y Coberturas de la Nación estará integrado p
 La secretaría técnica del Comité de Gestión de Pasivos y Coberturas de la Nación estará en cabeza de la Subdirección de Riesgo de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
 
 PARÁGRAFO : El Comité de Gestión de Pasivos y Coberturas de la Nación podrá invitar a las reuniones en las que se adopten decisiones sobre la estrategia de cobertura a las entidades, instituciones y expertos que se considere adecuado para tal fin. Dichas instituciones participarán en condición de invitados, con voz pero sin voto.
-
-ARTÍCULO
 
 ## art:2.22.2.4 — Funciones del Comité de Gestión de Pasivos y Coberturas de la Nación
 
@@ -24438,8 +22204,6 @@ PARÁGRAFO 1. Para la correcta administración de los recursos de la Nación, la
 
 PARÁGRAFO 2. El ejercicio de la función establecida en el numeral 2 del presente artículo se realizará sin perjuicio de las funciones que se encuentran en cabeza del Comité Directivo del Fondo de Estabilización de Precios de los Combustibles - FEPC del que trata el artículo 2.3.4.1.10 del presente decreto.
 
-ARTÍCULO
-
 ## art:2.22.2.5 — Seguimiento de las operaciones de cobertura
 
 El seguimiento del comportamiento de la estrategia y de las operaciones de cobertura lo realizará la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público de acuerdo con la naturaleza de las operaciones de cobertura adquiridas de forma conjunta y en contexto con los ingresos y egresos de la Nación asociados al petróleo y combustibles, no por el desempeño de una operación individual, el precio de un subyacente o divisa, o los resultados de un fondo sino como parte de una estrategia global de estabilidad fiscal.
@@ -24452,8 +22216,6 @@ El seguimiento de los efectos fiscales de las operaciones de cobertura será rea
 
 DISPOSICIONES RELACIONADAS CON EL FONDO NACIONAL DE GARANTIAS S.A. -FNG
 
-ARTÍCULO
-
 ## art:2.23.1 — Recursos para el pago del subsidio a la comisión del Fondo Nacional de Garantías S.A
 
 -FNG. Los recursos apropiados en el Presupuesto General de la Nación para el pago del subsidio a la comisión del Fondo Nacional de Garantías S.A., en relación con las garantías, operaciones de reafianzamiento y otros instrumentos que emita el Fondo Nacional de Garantías S.A. -FNG focalizados en personas naturales y jurídicas que hayan sufrido efectos adversos en su actividad económica causados por la pandemia del nuevo coronavirus COVID -19, serán ejecutados por medio de resolución expedida por el Ministerio de Hacienda y Crédito Público - Viceministerio Técnico, y transferidos por el Ministerio de Hacienda y Crédito Público - Dirección General de Crédito Público y Tesoro Nacional - a una cuenta especial administrada por la Dirección General de Crédito Público y Tesoro Nacional. Hasta la fecha de traslado de los recursos al Fondo Nacional de Garantías S.A. - FNG, los rendimientos generados por el manejo de los recursos disponibles en dicha cuenta especial pertenecen a la Nación.
@@ -24463,8 +22225,6 @@ PARÁGRAFO . Para efectos de la constitución de las reservas requeridas por el 
 (Modificado por el Art. 1 del Decreto 1841 de 2021)
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
-
-ARTÍCULO
 
 ## art:2.23.2 — Transferencia de recursos del subsidio a la comisión
 
@@ -24476,15 +22236,11 @@ PARÁGRAFO . Para el giro de las necesidades de caja de que trata este artículo
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
 
-ARTÍCULO
-
 ## art:2.23.3 — Revisión semestral de la estimación de los siniestros
 
 El Fondo Nacional de Garantías S.A. -FNG llevará a cabo una revisión semestral de sus estimaciones de los siniestros e informará al Comité de Garantías o a quien este delegue sobre los valores actualizados de la reserva y de la caja requerida que resulte de dicha revisión.
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
-
-ARTÍCULO
 
 ## art:2.23.4 — Respaldo de siniestros con recursos del fortalecimiento patrimonial del Fondo Nacional de Garantías S.A
 
@@ -24496,15 +22252,11 @@ PARÁGRAFO 1. El Ministerio de Hacienda y Crédito Público -Dirección General 
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
 
-ARTÍCULO
-
 ## art:2.23.5 — Respaldo de la Nación al Fondo Nacional de Garantías S.A
 
 -FNG. Sin perjuicio de lo dispuesto por los artículos 2.23.1 y 2.23.4 de este decreto y luego de agotarse los recursos del subsidio a la comisión y las fuentes de capitalización del Fondo Nacional de Garantías S.A. -FNG en los términos del Decreto Legislativo 492 de 2020, el Gobierno nacional, a través del Ministerio de Hacienda y Crédito Público, durante la programación y preparación del proyecto anual de Presupuesto General de la Nación, incluirá los recursos necesarios para cubrir las necesidades de recursos adicionales correspondientes al cubrimiento de los siniestros de las garantías, operaciones de reafianzamiento y otros instrumentos que emita el Fondo Nacional de Garantías S.A. -FNG.
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
-
-ARTÍCULO
 
 ## art:2.23.6 — Implementación y seguimiento
 
@@ -24512,15 +22264,11 @@ El Ministerio de Hacienda y Crédito Público a través del Viceministerio Técn
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
 
-ARTÍCULO
-
 ## art:2.23.7 — Excepción para la ponderación da activos garantizado por el Fondo Nacional de Garantías S.A
 
 - FNG. A partir de la entrada en vigencia del presente decreto y hasta el treinta y uno (31) de diciembre de 2020, para los activos garantizados o avalados por el Fondo Nacional de Garantías S.A. -FNG correspondientes a líneas de garantía y otros instrumentos destinados a responder a los efectos adversos generados por la pandemia del nuevo coronavirus COVlD-19, no se requerirá el cumplimiento de la condición establecida en el literal e) del parágrafo 1del artículo 2.1.1.3.2 del Decreto 2555 de 2010 para el uso de la ponderación establecida en el numeral 2) del mismo artículo.
 
 (Adicionado por el Art. 1 del Decreto 1806 de 2020)
-
-ARTÍCULO
 
 ## art:2.23.8 — Movilización de Activos
 
@@ -24539,8 +22287,6 @@ Por su parte, la Central de Inversiones S.A. -CISA deberá girar el producto del
 (Parte, Adicionada por el Art. 1 del Decreto 1137 de 2021, el cual corrige el Decreto 223 de 2021)
 
 FONDO DE FUENTES ALTERNATIVAS DE PAGO PARA EL DESARROLLO DE INFRAESTRUCTURA -FIP
-
-ARTÍCULO
 
 ## art:2.24.1 — Definiciones
 
@@ -24570,15 +22316,11 @@ PARÁGRAFO 2. El Consejo Directivo del Fondo de Fuentes Alternativas de Pago par
 
 (Modificado por el Art. 1 del Decreto 0267 de 2024)
 
-ARTÍCULO
-
 ## art:2.24.3 — Objeto del Fondo
 
 El Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) tendrá por objeto la administración y gestión de recursos que podrán destinarse como fuente de pago para el desarrollo de proyectos de infraestructura. El Fondo podrá entregar a cualquier título los recursos a las entidades concedentes para el desarrollo de proyectos de infraestructura, de acuerdo con las condiciones que se definan en el correspondiente contrato de fiducia mercantil y el reglamento del Fondo.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.4 — Recursos del Fondo
 
@@ -24614,23 +22356,17 @@ PARÁGRAFO . Las operaciones de las que trata el numeral 4 del presente artícul
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.5 — Administración y separación de recursos del Fondo
 
 El administrador del Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) podrá crear las subcuentas necesarias para garantizar que los recursos aportados por un sector o entidad territorial, según sea el caso, sean usados como fuente de pago para el desarrollo de infraestructura en este mismo sector o entidad territorial. Los recursos provenientes de las operaciones de crédito público, financiamiento y/o tesorería a que haya lugar, también serán usados como fuente de pago para el desarrollo de infraestructura en el mismo sector o entidad territorial. Lo anterior conforme lo determine el contrato de fiducia mercantil y el reglamento del Fondo.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.6 — Mecanismos de segregación patrimonial
 
 El administrador del Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) podrá acudir a cualquier mecanismo para garantizar la segregación patrimonial de los recursos en la ejecución y atención de las operaciones de crédito público, de financiamiento interno o externo y de tesorería que se efectúen. Estos mecanismos podrán consistir, entre otros, en la constitución de patrimonios autónomos independientes, universalidades autónomas o en cualquier otro mecanismo autorizado por las normas vigentes. Sus flujos de caja deberán estar destinados únicamente al pago de las operaciones que dieron origen a su creación, conforme a lo establecido en el reglamento del Fondo y las condiciones de la operación.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.7 — Órganos de Dirección
 
@@ -24639,8 +22375,6 @@ El Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (
 Para efectos del cumplimiento del objeto del Fondo, el Consejo Directivo podrá crear comités técnicos sectoriales y financieros para la toma de decisiones, así como designar a sus miembros, asignarle las funciones respectivas y establecer la remuneración de sus miembros en caso de considerarlo pertinente.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.8 — Composición del Consejo Directivo
 
@@ -24665,8 +22399,6 @@ PARÁGRAFO 1. Los miembros independientes serán nombrados por un periodo fijo d
 PARÁGRAFO 2. El Consejo Directivo podrá invitar a las entidades estatales y/o entidades territoriales cuando así lo requiera, para que asistan con voz, pero sin voto.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.9 — Funciones del Consejo Directivo
 
@@ -24701,8 +22433,6 @@ PARÁGRAFO 1. Los miembros del Consejo Directivo recibirán una remuneración co
 PARÁGRAFO 2. Los proyectos de infraestructura que contemplen como fuente de pago recursos del Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP), deberán ser presentados por el ministerio cabeza de sector o quien haga las veces de órgano de planeación del respectivo sector. Para el caso de proyectos que provengan de entidades territoriales, los proyectos deberán ser presentados por la secretaria de planeación de la entidad territorial o quien haga sus veces como órgano de planeación. Estos proyectos deberán estar enmarcados y ser consistentes con el plan de desarrollo respectivo.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.10 — Administrador del Fondo
 
@@ -24742,8 +22472,6 @@ El administrador del Fondo llevará además la personería del patrimonio autón
 
 (Modificado por el Art. 3 del Decreto 0267 de 2024)
 
-ARTÍCULO
-
 ## art:2.24.12 — Reglamento
 
 El Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) contará con un reglamento el cual será aprobado por el Consejo Directivo, así como sus modificaciones. Este reglamento deberá desarrollar, como mínimo, todos los aspectos operativos, administrativos y logísticos para la gestión de las operaciones del Fondo, incluyendo entre otros, las características generales de las operaciones de crédito público y tesorería que realice, que en todo caso deberán cumplir con lo dispuesto en el artículo 2.24.19 del presente decreto.
@@ -24752,15 +22480,11 @@ PARÁGRAFO . El administrador aplicará su propio régimen de contratación a lo
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.13 — Auditoría
 
 El administrador del Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) contratará, con cargo a los recursos del Fondo, una auditoría externa que tendrá, como mínimo, la obligación de hacer seguimiento a la utilización de los recursos del Fondo por parte del administrador del mismo, así como de presentar informes al Consejo Directivo sobre el funcionamiento, gestión y operación del Fondo.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.14 — Uso de los recursos
 
@@ -24788,15 +22512,11 @@ PARÁGRAFO . En desarrollo de los usos previstos en el artículo 149 de la Ley 2
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.15 — Registro de valores emitidos
 
 Los valores emitidos por el Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) o por cualquiera de los mecanismos de segregación patrimonial de que trata el artículo 2.24.6. del presente decreto, se entenderán inscritos en el Registro Nacional de Valores y Emisores - RNVE y autorizada su oferta pública siempre que, de manera previa a la realización de la misma, se envíe, con destino al Registro Nacional de Valores y Emisores - RNVE, los documentos previstos en el artículo 5.2.1.1.3 del Decreto 2555 de 2010.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.16 — Separación de activos
 
@@ -24808,15 +22528,11 @@ En consecuencia, los bienes del Fondo de Fuentes Alternativas de Pago para el De
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.17 — Contabilidad del Fondo
 
 El administrador del Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) deberá llevar la contabilidad del Fondo de manera separada de su contabilidad.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.18 — Costos y gastos de administración
 
@@ -24824,15 +22540,11 @@ Los costos y gastos de administración del Fondo de Fuentes Alternativas de Pago
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.19 — Operaciones de crédito público
 
 El Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) podrá, en virtud de lo dispuesto en el literal d) del artículo 149 de la Ley 2010 de 2019 y en el numeral 4 del artículo 2.24.4 del presente decreto, efectuar operaciones de crédito público, de financiamiento interno o externo y de tesorería a su nombre. Para la realización de dichas operaciones se deberá cumplir con los requisitos establecidos en el Capítulo 2 del Título 1 de la Parte 2 del Libro 2 del presente decreto para las operaciones que realicen las entidades descentralizadas del orden nacional, de acuerdo con la operación que se proyecte realizar. Estas operaciones no contarán con garantía de la Nación.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.20 — Trámite presupuestal de recursos y giros
 
@@ -24840,15 +22552,11 @@ Las entidades estatales a las cuales se les entregue y/o sean beneficiarias de r
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
 
-ARTÍCULO
-
 ## art:2.24.21 — .21
 
 Cesión de derechos: Las entidades estatales que tengan la propiedad de los recursos que serán transferidos al Fondo de Fuentes Alternativas de Pago para el Desarrollo de Infraestructura (FIP) en cumplimiento del artículo 149 de la Ley 2010 de 2019, cederán los derechos económicos con el fin de materializar los usos de los recursos del Fondo de que trata el artículo 2.24.14 del presente decreto. Para lo anterior, las entidades estatales, independientemente del orden al que pertenezcan, deberán suscribir un convenio o contrato con el Fondo a través de su administrador o expedir cualquier otro acto administrativo que permita la cesión de derechos, según corresponda, en el cual se establezca como mínimo las condiciones y el tiempo para efectuar la cesión de los derechos económicos al Fondo y los derechos de tales entidades como aportantes del mismo.
 
 (Corregido por el Art. 1 del Decreto 1137 de 2021)
-
-ARTÍCULO
 
 ## art:2.24.22 — Vigencia y trámite para liquidación del Fondo
 
@@ -25090,8 +22798,6 @@ LIBRO 3.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:3.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector de Hacienda y Crédito Público que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -25103,8 +22809,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 3) Tampoco quedan derogadas las disposiciones a que se refieren los artículos 3.2. y 3.3.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.2 — Normas adicionales que no quedan derogadas
 
@@ -25122,15 +22826,11 @@ No quedan derogadas ni han sido compiladas en este Decreto Único las disposicio
 
 PARÁGRAFO . El Decreto 1609 de 2013 por el cual se aprueba el programa de enajenación de las acciones que la Nación - Ministerio de Hacienda y Crédito Público posee en Isagen S. A. E.S.P. y sus modificaciones contenidas en los Decretos 1512 de 2014 y 2316 de 2013, que se encuentran en debate jurídico ante la jurisdicción de lo Contencioso Administrativo, no han sido compilados ni se derogan por este Decreto Único Reglamentario.
 
-ARTÍCULO
-
 ## art:3.3 — Vigencia del Decreto 2555 de 2010
 
 El Decreto 2555 de 2010 compila las normas en materia del sector financiero, asegurador y del mercado de valores y por lo tanto ninguna disposición allí contenida es derogada ni ha sido compilada por este Decreto Único Reglamentario.
 
 Los Decretos 790 de 2003, 2280 de 2003, 3965 de 2006, 2058 de 2009, 37 de 2015 y 756 de 2000 que se refieren a reglamentación sobre cooperativas que realizan actividad financiera, y el Decreto 712 de 2004, modificado por el Decreto 1266 de 2005, que regula el numeral 1 del artículo 48 del Estatuto Orgánico del Sistema Financiero, no se consideran derogados por el presente Decreto Único.
-
-ARTÍCULO
 
 ## art:3.4 — Vigencia
 
@@ -25142,92 +22842,4 @@ Dado en Bogotá D.C., a los 26 días del mes de mayo de 2015
 
 EL MINISTRO DE HACIENDA Y CRÉDITO PÚBLICO
 
-MAURICIO CÁRDENAS SANTAMARIA 
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso
+MAURICIO CÁRDENAS SANTAMARIA

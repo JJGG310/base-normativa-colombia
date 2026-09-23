@@ -7,7 +7,7 @@ ramas: [datos-personales, comercial, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — OBJETO
@@ -239,12 +239,12 @@ El reporte de información negativa sobre incumplimiento de obligaciones de cual
 
 En todo caso, las fuentes de información podrán efectuar el reporte de la información transcurridos veinte (20) días calendario siguientes a la fecha de envío de la comunicación en la última dirección de domicilio del afectado que se encuentre registrada en los archivos de la fuente de la información y sin perjuicio, si es del caso, de dar cumplimiento a la obligación de informar al operador, que la información se encuentra en discusión por parte de su titular, cuando se haya presentado solicitud de rectificación o actualización y esta aún no haya sido resuelta.
 
-PARÁGRAFO. <Parágrafo adicionado por el artículo 6 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> El incumplimiento de la comunicación previa al titular de la información, en los casos en que la obligación o cuota ya haya sido extinguida, dará lugar al retiro inmediato del reporte negativo. En los casos en que se genere el reporte sin el cumplimiento de la comunicación y no se haya extinguido la obligación o cuota, se deberá retirar el reporte y cumplir con la comunicación antes de realizarlo nuevamente
+PARÁGRAFO. <Parágrafo adicionado por el artículo 6 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> El incumplimiento de la comunicación previa al titular de la información, en los casos en que la obligación o cuota ya haya sido extinguida, dará lugar al retiro inmediato del reporte negativo. En los casos en que se genere el reporte sin el cumplimiento de la comunicación y no se haya extinguido la obligación o cuota, se deberá retirar el reporte y cumplir con la comunicación antes de realizarlo nuevamente.
 
 ## art:13 — PERMANENCIA DE LA INFORMACIÓN
 ubicacion: TITULO IV. DE LOS BANCOS DE DATOS DE INFORMACION FINANCIERA, CREDITICIA, COMERCIAL, DE SERVICIOS Y LA PROVENIENTE DE TERCEROS PAISE
 
-<Artículo modificado por el artículo 3 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> La información de carácter positivo permanecerá de manera indefinida en los bancos de datos de los operadores de información. Los datos cuyo contenido haga referencia al tiempo de mora, tipo de cobro, estado de la cartera y, en general, aquellos datos referentes a una situación de incumplimiento de obligaciones, se regirán por un término máximo de permanencia, vencido el cual deberá ser retirada de los bancos de datos por el operador, de forma que los usuarios no puedan acceder o consultar dicha información. El término de permanencia de ésta información será el doble del tiempo de la mora, máximo cuatro (4) años contados a partir de la fecha en que sean pagadas las cuotas vencidas o sea extinguida la obligación.
+La información de carácter positivo permanecerá de manera indefinida en los bancos de datos de los operadores de información. Los datos cuyo contenido haga referencia al tiempo de mora, tipo de cobro, estado de la cartera y, en general, aquellos datos referentes a una situación de incumplimiento de obligaciones, se regirán por un término máximo de permanencia, vencido el cual deberá ser retirada de los bancos de datos por el operador, de forma que los usuarios no puedan acceder o consultar dicha información. El término de permanencia de ésta información será el doble del tiempo de la mora, máximo cuatro (4) años contados a partir de la fecha en que sean pagadas las cuotas vencidas o sea extinguida la obligación.
 
 PARÁGRAFO 1o. El dato negativo y los datos cuyo contenido haga referencia al tiempo de mora, tipo de cobro, estado de la cartera y, en general, aquellos datos referentes a una situación de incumplimiento de obligaciones caducarán una vez cumplido el término de ocho (8) años, contados a partir del momento en que entre en mora la obligación; cumplido este término deberán ser eliminados de la base de datos.
 
@@ -374,7 +374,10 @@ e) La renuencia o desacato a cumplir, con las órdenes impartidas por la Superin
 
 f) El reconocimiento o aceptación expresos que haga el investigado sobre la comisión de la infracción antes de la imposición de la sanción a que hubiere lugar.
 
-ARTÍCULO 19A. RESPONSABILIDAD DEMOSTRADA. <Artículo adicionado por el artículo 12 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> Los operadores, fuentes y usuarios de información financiera, crediticia, comercial y de servicios deben ser capaces de demostrar que han implementado medidas apropiadas, efectivas y verificables para cumplir con las obligaciones establecidas en la Ley 1266 de 2008 y sus normas reglamentarias, en una manera que sea proporcional a lo siguiente: 
+## art:19a — RESPONSABILIDAD DEMOSTRADA
+ubicacion: TITULO VI. VIGILANCIA DE LOS DESTINATARIOS DE LA LEY.
+
+Los operadores, fuentes y usuarios de información financiera, crediticia, comercial y de servicios deben ser capaces de demostrar que han implementado medidas apropiadas, efectivas y verificables para cumplir con las obligaciones establecidas en la Ley 1266 de 2008 y sus normas reglamentarias, en una manera que sea proporcional a lo siguiente: 
 
 1. La naturaleza jurídica del operador, fuente y usuario de información y, cuando sea del caso, su tamaño empresarial, teniendo en cuenta si se trata de una micro, pequeña, mediana o gran empresa, de acuerdo con la normativa vigente. 
 
@@ -384,9 +387,12 @@ ARTÍCULO 19A. RESPONSABILIDAD DEMOSTRADA. <Artículo adicionado por el artícul
 
 4. Los riesgos potenciales que el referido tratamiento podrían causar sobre los derechos de los titulares. 
 
-Quienes efectúen el tratamiento de los datos personales deberán suministrar evidencia sobre la implementación efectiva de las medidas útiles y pertinentes para cumplir la presente ley. 
+Quienes efectúen el tratamiento de los datos personales deberán suministrar evidencia sobre la implementación efectiva de las medidas útiles y pertinentes para cumplir la presente ley.
 
-ARTÍCULO 19B. POLÍTICAS INTERNAS EFECTIVAS. <Artículo adicionado por el artículo 13 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> En cada caso, de acuerdo con las circunstancias mencionadas en los numerales 1, 2, 3 y 4 del artículo anterior, las medidas efectivas y apropiadas implementadas por los operadores, fuentes y usuarios de información deberán garantizar: 
+## art:19b — POLÍTICAS INTERNAS EFECTIVAS
+ubicacion: TITULO VI. VIGILANCIA DE LOS DESTINATARIOS DE LA LEY.
+
+En cada caso, de acuerdo con las circunstancias mencionadas en los numerales 1, 2, 3 y 4 del artículo anterior, las medidas efectivas y apropiadas implementadas por los operadores, fuentes y usuarios de información deberán garantizar: 
 
 1. La existencia de una organización administrativa proporcional a la estructura y tamaño empresarial del operador, fuente y usuario de información para la adopción e implementación de políticas consistentes con la Ley 1266 de 2008. 
 
@@ -416,33 +422,3 @@ El beneficio previsto en este artículo se perderá en caso que el titular de la
 ubicacion: TITULO VII. DE LAS DISPOSICIONES FINALES.
 
 Esta ley rige a partir de la fecha de publicación y deroga las disposiciones que le sean contrarias.
-
-El Presidente del honorable Senado de la República,
-
-HERNÁN FRANCISCO ANDRADE SERRANO.
-
-El Secretario General del honorable Senado de la República,
-
-EMILIO RAMÓN OTERO DAJUD.
-
-El Presidente de la honorable Cámara de Representantes,
-
-GERMÁN VARÓN COTRINO.
-
-El Secretario General de la honorable Cámara de Representantes,
-
-JESÚS ALFONSO RODRÍGUEZ CAMARGO.
-
-REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL
-
-Publíquese y cúmplase.
-
-Dada en Bogotá, D. C., a 31 de diciembre de 2008.
-
-ÁLVARO URIBE VÉLEZ
-
-El Director del Departamento Administrativo de la Presidencia de la República, Encargado de las funciones del Despacho del Ministro del Interior y de Justicia,
-
-BERNARDO MORENO VILLEGAS.
-
-* * *

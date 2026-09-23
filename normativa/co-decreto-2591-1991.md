@@ -8,7 +8,7 @@ ramas: [constitucional, procesal]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_2591_1991.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — OBJETO
@@ -321,11 +321,11 @@ ubicacion: CAPITULO III. TUTELA CONTRA PARTICULARES
 
 La acción de tutela procederá contra acciones u omisiones de particulares en los siguientes casos: 
 
-1. <Aparte tachado INEXEQUIBLE> Cuando aquél contra quien se hubiere hecho la solicitud esté encargado de la prestación del servicio público de educación para proteger los derechos consagrados en los artículos 13, 15, 16, 19, 20, 23, 27, 29, 37 y 38 de la Constitución. 
+1. <Aparte tachado INEXEQUIBLE> Cuando aquél contra quien se hubiere hecho la solicitud esté encargado de la prestación del servicio público de educación [TACHADO: para proteger los derechos consagrados en los artículos 13, 15, 16, 19, 20, 23, 27, 29, 37 y 38 de la Constitución]. 
 
-2. <Aparte tachado INEXEQUIBLE> Cuando aquél contra quien se hubiere hecho la solicitud esté encargado de la prestación del servicio público de salud para proteger los derechos a la vida, a la intimidad, a la igualdad y a la autonomía. 
+2. <Aparte tachado INEXEQUIBLE> Cuando aquél contra quien se hubiere hecho la solicitud esté encargado de la prestación del servicio público de salud [TACHADO: para proteger los derechos a la vida, a la intimidad, a la igualdad y a la autonomía]. 
 
-3. <Aparte tachado INEXEQUIBLE> Cuando aquél contra quien se hubiere hecho la solicitud esté encargado de la prestación de servicios públicos domiciliarios. 
+3. <Aparte tachado INEXEQUIBLE> Cuando aquél contra quien se hubiere hecho la solicitud esté encargado de la prestación de servicios públicos [TACHADO: domiciliarios]. 
 
 4. Cuando la solicitud fuere dirigida contra una organización privada, contra quien la controla efectivamente o fuere el beneficiario real de la situación que motivó la acción, siempre y cuando el solicitante tenga una relación de subordinación o indefensión con tal organización. 
 
@@ -337,7 +337,7 @@ La acción de tutela procederá contra acciones u omisiones de particulares en l
 
 8. Cuando el particular actúe o deba actuar en ejercicio de funciones públicas, en cuyo caso se aplicará el mismo régimen que a las autoridades públicas. 
 
-9. <Aparte tachado INEXEQUIBLE> Cuando la solicitud sea para tutelar la vida o la integridad de quien se encuentre en situación de subordinación o indefensión respecto del particular contra el cual se interpuso la acción. Se presume la indefensión del menor que solicite la tutela.
+9. <Aparte tachado INEXEQUIBLE> Cuando la solicitud sea para tutelar [TACHADO: la vida o la integridad de] quien se encuentre en situación de subordinación o indefensión respecto del particular contra el cual se interpuso la acción. Se presume la indefensión del menor que solicite la tutela.
 
 ## art:43 — TRAMITE
 ubicacion: CAPITULO III. TUTELA CONTRA PARTICULARES
@@ -357,19 +357,7 @@ No se podrá conceder la tutela contra conductas legítimas de un particular.
 ## art:46 — LEGITIMACION
 ubicacion: CAPITULO IV. LA TUTELA Y EL DEFENSOR DEL PUEBLO
 
-El Defensor del Pueblo podrá, sin perjuicio del derecho que asiste a los interesados, interponer la acción de tutela en nombre de cualquier persona que se lo solicite o que esté en situación de desamparo e indefensión. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El Defensor del Pueblo podrá, sin perjuicio del derecho que asiste a los interesados, interponer la acción de tutela en nombre de cualquier persona que se lo solicite o que esté en situación de desamparo e indefensión.
 
 ## art:47 — PARTE
 ubicacion: CAPITULO IV. LA TUTELA Y EL DEFENSOR DEL PUEBLO
@@ -399,9 +387,9 @@ El colombiano que resida en el exterior, cuyos derechos fundamentales estén sie
 ## art:52 — DESACATO
 ubicacion: CAPITULO V. SANCIONES
 
-<Ver Notas del Editor> La persona que incumpliere una orden de un juez proferida con base en el presente Decreto incurrirá en desacato sancionable con arresto hasta de seis meses y multa hasta de 20 salarios mínimos mensuales salvo que en este Decreto ya se hubiere señalado una consecuencia jurídica distinta y sin perjuicio de las sanciones penales a que hubiere lugar.
+La persona que incumpliere una orden de un juez proferida con base en el presente Decreto incurrirá en desacato sancionable con arresto hasta de seis meses y multa hasta de 20 salarios mínimos mensuales salvo que en este Decreto ya se hubiere señalado una consecuencia jurídica distinta y sin perjuicio de las sanciones penales a que hubiere lugar.
 
-<Aparte tachado INEXEQUIBLE> La sanción será impuesta por el mismo juez mediante trámite incidental y será consultada al superior jerárquico quien decidirá dentro de los tres días siguientes si debe revocarse la sanción. La consulta se hará en el efecto devolutivo.
+<Aparte tachado INEXEQUIBLE> La sanción será impuesta por el mismo juez mediante trámite incidental y será consultada al superior jerárquico quien decidirá dentro de los tres días siguientes si debe revocarse la sanción. [TACHADO: La consulta se hará en el efecto devolutivo].
 
 ## art:53 — SANCIONES PENALES
 ubicacion: CAPITULO V. SANCIONES
@@ -432,16 +420,4 @@ HUMBERTO DE LA CALLE LOMBANA
 
 El Ministro de Justicia, 
 
-FERNANDO CARRILLO FLOREZ 
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+FERNANDO CARRILLO FLOREZ

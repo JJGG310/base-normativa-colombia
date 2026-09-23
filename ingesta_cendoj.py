@@ -28,6 +28,8 @@ from datetime import date
 
 import fitz  # PyMuPDF — solo para las providencias que la Corte no publica en .docx
 
+from ingesta_relatoria import fecha_en
+
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 API = "https://consultaprovidenciasbk.cortesuprema.gov.co/api"
 CABECERAS = {"Content-Type": "application/json", "Accept": "application/json",
@@ -45,6 +47,37 @@ RE_TITULO = re.compile(r"^([A-Z]{2,4})(\d+)\s*-\s*(\d{4})")
 RE_RADICADO = re.compile(r"[\[(]([0-9\-]+)[\])]")
 # El fallo cierra con el bloque de firma electrónica: no es parte de la decisión.
 RE_FIRMA = re.compile(r"Este documento fue generado con firma electrónica.*$", re.S | re.I)
+# Los PDF de la Sala Laboral repiten en cada página el pie «SCLAJPT-10 V.00» (con
+# variantes de OCR: SCLAPT, SCLA3PT, SCLAJ PT- 10, SCLAJPT-IO V.OO) seguido del número de página («17», «I 8»),
+# y el encabezado «Radicación n.° 70555». Metidos en el texto parten las frases.
+RE_PIE = re.compile(r"(?m)^[ \t]*(?:L\s+)?SCLA[^\n]{0,10}?[\dIO.]{1,4}\s*[Vv][ .,]*[\dOoD]{1,3}[ \t]*(?:\n|$)"
+                    r"(?:[ \t]*[\dIl]{1,3}(?:[ \t]+[\dIl]{1,2})?[ \t]*(?:\n|$))?")
+RE_RAD = re.compile(r"(?m)^[ \t]*Radicaci[óo]n\s*n\s*[.°º ]*\s*[\d\-]+[ \t]*(?:\n|$)")
+# El ponente encabeza la providencia: «LUIS ANTONIO HERNÁNDEZ BARBOSA\nMagistrado ponente».
+RE_PONENTE = re.compile(r"(?m)^[ \t]*([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ.]+(?:[ \t]+[A-ZÁÉÍÓÚÑ.]+){1,5})[ \t]*\n"
+                        r"\s*Magistrad[oa] [Pp]onente")
+
+
+def sin_cabeceras(texto):
+    """Quita pie y encabezado de página; la primera «Radicación» es la del
+    encabezado de la providencia y se queda. Sin pie SCLA no se toca nada: en los
+    .docx civiles «Radicación n.° …» encabeza de verdad cada salvamento y aclaración."""
+    t = RE_PIE.sub("", texto)
+    if t == texto:
+        return texto
+    m = RE_RAD.search(t)
+    return t[:m.end()] + RE_RAD.sub("", t[m.end():]) if m else t
+
+
+def decision_de(parte):
+    """`casa` / `no-casa` solo cuando la resolutiva lo dice sin ambigüedad. Otras
+    decisiones (revisión infundada, confirma, inadmite…) no están en el vocabulario de
+    esquema.md §4 y quedan vacías; si dice ambas cosas, también."""
+    parte = parte[:1500]
+    no = re.search(r"(?i)\bno\s+casa(?:r)?\b", parte)
+    si = re.search(r"(?i)\bcasa(?:r)?\s+(?:\w+mente\s+)?(?:la|el|parcialmente|totalmente)\b",
+                   re.sub(r"(?i)\bno\s+casa(?:r)?\b", "", parte))
+    return "" if bool(no) == bool(si) else ("no-casa" if no else "casa")
 
 
 def consultar(query):
@@ -94,7 +127,7 @@ def contenido(doc_path):
         return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
     if crudo[:4] == b"%PDF":
         doc = fitz.open(stream=crudo, filetype="pdf")
-        t = "\n".join(p.get_text() for p in doc)
+        t = sin_cabeceras("\n".join(p.get_text() for p in doc))
         return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
     return ""
 
@@ -133,17 +166,23 @@ def resuelve(texto):
 def ficha(res, sala, texto):
     sid, radicado = identificar(res["title"])
     cuerpo = RE_FIRMA.sub("", texto).strip()
+    parte = resuelve(cuerpo)
+    # La fecha sale del encabezado del texto, no de `fechaCreacion` del API: esa es la
+    # de publicación en el portal y no coincidía en 1.942 de 2.322 providencias.
+    fecha = fecha_en(cuerpo[:8000], sid.rsplit(":", 1)[-1])
+    ponente = re.sub(r"^Dr[a]?\.\s*", "", (res.get("doctor") or "").strip())
+    if not ponente:
+        m = RE_PONENTE.search(cuerpo[:3000])
+        ponente = " ".join(m.group(1).split()).title() if m else ""
     fm = ["---", "id: " + sid, "tipo: " + ("auto" if res.get("autoSentencia") == "AUTO"
                                            else "sentencia"),
           "corporacion: corte-suprema", "sala: " + sala.lower(),
           "titulo: %s de %s — Corte Suprema, Sala de Casación %s"
           % (sid.split(":")[2].upper().replace("-", " "), res.get("ano", ""), sala.title()),
-          "ponente: " + re.sub(r"^Dr[a]?\.\s*", "", (res.get("doctor") or "").strip()),
-          "fecha: " + (res.get("fechaCreacion") or "")[:10],
+          "ponente: " + ponente, "fecha: " + fecha, "decision: " + decision_de(parte),
           "expediente: " + radicado, "ramas: [%s]" % RAMAS.get(sala, ""),
           "afectaciones: no-aplica", "fuente: " + PORTAL,
           "verificado: " + date.today().isoformat(), "---", ""]
-    parte = resuelve(cuerpo)
     if parte:
         fm += ["## resuelve", "", parte, ""]
     fm += ["## texto", "", cuerpo, ""]
@@ -201,8 +240,7 @@ def main():
                 with open(ruta, "w", encoding="utf-8") as fh:
                     fh.write(md)
                 escritas += 1
-                print("  %s  %s  %d KB" % (sid, (res.get("fechaCreacion") or "")[:10],
-                                           len(md) // 1024))
+                print("  %s  %d KB" % (sid, len(md) // 1024))
                 if escritas >= a.limite:
                     break
             secas = 0 if any(x["title"].lower().endswith((".docx", ".pdf")) for x in resultados) else secas + 1
@@ -273,12 +311,30 @@ def check():
     sid, md = ficha({"title": "SL1234-2025 [2020-00111-01].pdf", "doctor": "Dra. Ana Ruiz",
                      "fechaCreacion": "2025-03-04T10:00:00Z", "ano": 2025,
                      "autoSentencia": "SENTENCIA"}, "LABORAL",
-                    "Texto.\n\nRESUELVE\n\nCASAR.\n\n"
+                    "Bogotá, D. C., cuatro (4) de marzo de dos mil veinticinco (2025).\n"
+                    "Texto.\n\nRESUELVE\n\nCASAR la sentencia.\n\n"
                     "Este documento fue generado con firma electrónica y código 123")
     assert sid == "co:csj:sl-1234:2025", sid
     assert "ponente: Ana Ruiz" in md and "expediente: 2020-00111-01" in md, md
     assert "firma electrónica" not in md, "el bloque de firma no se limpió"
     assert "## resuelve" in md and "## texto" in md, md
+    assert "fecha: 2025-03-04" in md and "decision: casa" in md, md
+
+    pdf = ("SCLA.IPT 10 V O\nANA RUIZ\nMagistrada ponente\nSL1-2023\nRadicación n.° 95988\n"
+           "Bogotá, D. C., veinte (20) de septiembre de dos mil\nveintitrés (2023).\n"
+           "la reliquidación de las\nSCLA3PT-10 V.00\nI 8\n\nRadicación n.° 95988\nprestaciones")
+    t = sin_cabeceras(pdf)
+    assert "SCLA" not in t and "I 8" not in t and t.count("Radicación") == 1, t
+    assert fecha_en(t, "2023") == "2023-09-20", fecha_en(t, "2023")
+    assert fecha_en(t, "2022") == "", "si el año no es el del ID, no hay fecha"
+    assert fecha_en("Acta 16\n\nSincelejo, diecisiete (17) de mayo de dos mil veintitrés\n(2023).",
+                    "2023") == "2023-05-17", "sesión fuera de Bogotá"
+    assert RE_PONENTE.search(t).group(1) == "ANA RUIZ"
+    assert decision_de("RESUELVE\nNO CASA la sentencia") == "no-casa"
+    assert decision_de("Primero. Casar la sentencia proferida") == "casa"
+    assert decision_de("CASA PARCIALMENTE la sentencia") == "casa"
+    assert decision_de("NO CASA la sentencia. CASA la otra") == "", "ambas: vacío"
+    assert decision_de("Declarar infundado el recurso de revisión") == ""
     print("check OK")
 
 

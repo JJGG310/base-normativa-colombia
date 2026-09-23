@@ -7,7 +7,7 @@ ramas: [cultura, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76833
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — 
@@ -26,8 +26,6 @@ Fondo Mixto de Promoción de la Cultura y de las Artes
 
 (Ley 397 de 1997, Artículo 63)
 
-ARTÍCULO
-
 ## art:1.1.2.2 — 2.2
 
 Fondo Mixto de Promoción Cinematográfica
@@ -36,15 +34,11 @@ Fondo Mixto de Promoción Cinematográfica
 
 ORGANOS SECTORIALES DE ASESORIA Y COORDINACIÓN
 
-ARTÍCULO
-
 ## art:1.1.3.1 — 3.1
 
 Consejo Nacional de Cultura
 
 397 de 1997, Artículo 58 y Decreto 1782 de 2003)
-
-ARTÍCULO
 
 ## art:1.1.3.2 — 
 
@@ -52,15 +46,11 @@ ARTÍCULO
 
 (Resolución 2275 de 2013 del ministerio de cultura)
 
-ARTÍCULO
-
 ## art:1.1.3.3 — 3.3
 
 Comité de Coordinación de control Interno
 
 (Decreto 1746 de 2003 artículo 5 modificado por el artículo 1 del decreto 4827 de 2008)
-
-ARTÍCULO
 
 ## art:1.1.3.4 — 3.4
 
@@ -68,23 +58,17 @@ Comité de Defensa Judicial y Conciliación
 
 (Decreto 1716 de 2009)
 
-ARTÍCULO
-
 ## art:1.1.3.5 — 3.5
 
 Comisión de Personal
 
 (Decreto 1746 de 2003 artículo 5 modificado por el artículo 1 del decreto 4827 de 2008)
 
-ARTÍCULO
-
 ## art:1.1.3.6 — 3.6
 
 Comité de Convivencia Laboral
 
 1010 de 2006 y Resolución 3366 de 2014)
-
-ARTÍCULO
 
 ## art:1.1.3.7 — 
 
@@ -642,6 +626,26 @@ f) Elaborar y suscribir, junto con el Presidente del Consejo, las Actas de las r
 
 (Decreto 3600 de 2004, Artículo 12)
 
+ARTÍCULO 2.2.1.37. Funciones del Consejo Nacional de las Artes y la Cultura en Cinematografía. Funciones del Consejo Nacional de las Artes y la Cultura en Cinematografía. El Consejo Nacional de las Artes y la Cultura en Cinematografía es el encargado de la dirección del Fondo para el Desarrollo Cinematográfico y ejercerá además de las funciones señaladas en la ley y para los demás Consejos Nacionales de las Artes y la Cultura, las siguientes:
+
+1. Dirigir el Fondo para el Desarrollo Cinematográfico.
+
+2. Aprobar el presupuesto del Fondo para el Desarrollo Cinematográfico para cada vigencia anual.
+
+3. Establecer, dentro de los dos (2) últimos meses de cada año mediante acto de carácter general (acuerdo), las actividades, porcentajes, montos, límites, modalidades de concurso o solicitud directa y demás requisitos y condiciones necesarias para acceder a los beneficios, estímulos y créditos asignables con los recursos del Fondo para el Desarrollo Cinematográfico en el año fiscal siguiente.
+
+4. Decidir y asignar sobre la destinación de los recursos del Fondo para el Desarrollo
+
+Cinematográfico.
+
+5. Establecer cuando lo considere necesario, subcomités para efectos de la evaluación y selección técnica y financiera de los proyectos que participen para acceder a los beneficios, estímulos y créditos asignables con los recursos del Fondo para el Desarrollo Cinematográfico.
+
+6. Apoyar al Ministerio de Cultura para que sus proyectos y actividades tengan el mayor cubrimiento y el máximo impacto en el avance del sector cinematográfico.
+
+7. Mantener informado permanentemente al sector de las decisiones que tome, a través de medios electrónicos o cualquiera otro idóneo.
+
+(Decreto 2291 de 2003, Artículo 1)
+
 ## art:2.2.1.38 — Composición
 
 El Consejo Nacional de las Artes y la Cultura en Cinematografía -CNACC- estará integrado por los siguientes miembros:
@@ -846,15 +850,11 @@ CAPÍTULO I
 
 NATURALEZA, FINANCIACIÓN Y FUNCIONAMIENTO DE FONCULTURA
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Naturaleza jurídica de FONCULTURA
 
 El Fondo para la Promoción del Patrimonio, la Cultura, las Artes y la Creatividad - FONCULTURA, según lo establecido en el artículo 3 de la Ley 2070 de 2020, es una cuenta especial, sin personería jurídica, que se conformará en el Presupuesto del Ministerio de Cultura, con los recursos a los que hace referencia el artículo 7 de la misma Ley.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2 — Destinación de los recursos de FONCULTURA
 
@@ -863,8 +863,6 @@ Los recursos de FONCULTURA se destinarán a la viabilización y ejecución de pr
 Los proyectos a los cuales se destinen los recursos de FONCULTURA deben ser compatibles con las políticas culturales de la Nación, definidas por el Ministerio de Cultura, y enmarcarse en alguna de las líneas de política a que se refiere el artículo 9 de la Ley 2070 de 2020.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3 — Administración de los recursos y ordenación del gasto
 
@@ -878,23 +876,17 @@ PARÁGRAFO . Según lo previsto en el parágrafo 2 del artículo 4 de la Ley 207
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.1.4 — Gastos administrativos
 
 Con cargo a los rendimientos financieros de FONCULTURA se sufragarán los costos en que se incurra para la administración, manejo y control de los recursos, los gastos de operación y cualquier otro costo o gasto que se requiera para el desarrollo, seguimiento y divulgación de las actividades asignadas al Fondo en la Ley 2070 de 2020 o las normas que la modifiquen o sustituyan. En caso de que tales sumas resulten insuficientes, de conformidad con lo dispuesto en el artículo 6, numeral 4, de la misma ley, el Comité Directivo podrá autorizar los traslados presupuestales de recursos entre las subcuentas existentes, de acuerdo a las necesidades del FONCULTURA, para sufragar dichos gastos administrativos.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.1.5 — Rendimientos financieros
 
 De acuerdo con lo establecido en el artículo 8 de la Ley 2070 de 2020, previa aprobación del Comité Directivo de FONCULTURA , los rendimientos financieros que generen los recursos de FONCULTURA podrán destinarse a la ejecución de las actividades a cargo del Fondo, o al pago de los costos y gastos administrativos a los que se refiere el artículo 2.2.3.1.4.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6 — 1.6
 
@@ -913,8 +905,6 @@ e) Suscribir convenios y contratos con la entidad designada para la administraci
 f) Las demás que se requieran para la debida conformación y funcionamiento del Fondo.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.1.7 — Fuentes de Financiación de FONCULTURA
 
@@ -942,8 +932,6 @@ j) Rendimientos de los recursos administrados en el FONCULTURA.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.1.8 — 1.8
 
 Apropiación de los recursos de FONCULTURA: Para efectos de la apropiación de los recursos del Fondo, se tendrá en cuenta lo siguiente:
@@ -962,8 +950,6 @@ PARÁGRAFO . El Ministerio de Cultura recopilará y consolidará la información
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.1.9 — Recursos con destinación específica
 
 De acuerdo con lo establecido en el parágrafo 1 del artículo 7 de la Ley 2070 de 2020, los recursos provenientes de las fuentes de financiación a que se refieren los literales c) y d) del artículo 2.2.3.1.7 de este decreto tendrán destinación específica para proyectos y acciones encaminadas a la protección, conservación, preservación, salvaguardia y sostenibilidad del patrimonio cultural, en atención a los lineamientos que para el efecto defina el Ministerio de Cultura.
@@ -973,8 +959,6 @@ El monto de los referidos recursos y sus rendimientos, así como el monto a que 
 El Ministerio de Cultura determinará mediante resolución qué otros recursos tendrán destinación específica, enmarcados en alguna de las líneas de política a que se refiere el artículo 9 de la Ley 2070 de 2020, y señalando en cada caso las vigencias fiscales en las que aplicará la misma.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.1.10 — Priorización en la asignación de recursos
 
@@ -996,8 +980,6 @@ CAPÍTULO II
 
 CONDICIONES PARA LA ADMINISTRACIÓN, INVERSIÓN Y EJECUCIÓN DE LOS RECURSOS DEL FONCULTURA
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Entrega de los recursos para su administración
 
 Para dar cumplimiento a lo dispuesto en el artículo 4 de la Ley 2070 de 2020, el Ministerio de Cultura - FONCULTURA, podrá suscribir directamente convenios o contratos con COCREA.
@@ -1005,8 +987,6 @@ Para dar cumplimiento a lo dispuesto en el artículo 4 de la Ley 2070 de 2020, e
 En el(los) convenio(s) o contrato(s) que se suscriba(n) entre el Ministerio de Cultura - FONCULTURA y COCREA, con el objeto de administrar los recursos del Fondo, se deberán indicar las condiciones para la transferencia, administración, inversión, ejecución y seguimiento de los recursos de FONCULTURA, sin perjuicio de los lineamientos y orientaciones que emita el Comité Directivo de FONCULTURA para el efecto.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2 — Inversión de recursos de FONCULTURA a través de esquemas fiduciarios
 
@@ -1032,15 +1012,11 @@ h) Las demás obligaciones necesarias para dar cumplimiento al objeto del contra
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.2.3 — Costos y gastos de los fideicomisos
 
 Con cargo a los recursos de FONCULTURA se podrán pagar las comisiones fiduciarias y otros costos y gastos requeridos para la administración de los recursos, así como para la evaluación y/o selección de los proyectos a ser ejecutados con cargo a los recursos del Fondo, siempre y cuando así se indique en el(los) convenio(s) o contrato(s) que se suscriban entre el Ministerio de Cultura - FONCULTURA y COCREA.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.2.4 — Rendición de cuentas por parte de COCREA
 
@@ -1053,8 +1029,6 @@ En todo caso, COCREA deberá rendir cuentas al Comité Directivo cada vez que é
 CAPÍTULO III
 
 CONFORMACIÓN Y OPERACIÓN DEL COMITÉ DIRECTIVO DE FONCULTURA
-
-ARTÍCULO
 
 ## art:2.2.3.3.1 — Integrantes del Comité Directivo
 
@@ -1088,8 +1062,6 @@ PARÁGRAFO 4. Sin perjuicio de lo dispuesto en I Reglamento que adopte el Comit�
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2 — Funciones
 
 El Comité Directivo de FONCULTURA cumplirá las funciones establecidas en el artículo 6 de la Ley 2070 de 2020. En el marco de sus funciones, podrá emitir Manuales de Operación o Procedimientos relacionados con el desarrollo de las actividades a cargo de FONCULTURA, y de COCREA en su condición de administradora de los recursos del Fondo.
@@ -1098,15 +1070,11 @@ El representante de COCREA deberá señalar al Comité Directivo cuando alguno d
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3 — Reglamento Operativo
 
 El Comité Directivo de FONCULTURA adoptará su reglamento, en el cual indicará las condiciones para la convocatoria del Comité, la periodicidad de sus reuniones, el quórum para deliberar y decidir, el contenido mínimo de las actas de las sesiones, y otros aspectos que considere necesarios para su funcionamiento.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4 — Conformación de Comités Técnicos
 
@@ -1115,8 +1083,6 @@ Según lo indicado en el parágrafo del artículo 6 de la Ley 2070 de 2020, el C
 En la sesión que se autorice la conformación del(los) Comité(s) Técnico(s), el Comité Directivo decidirá, al menos, cómo estará(n) conformado(s), cuáles serán sus funciones y cuáles son los informes que deberán presentar al Comité Directivo, así como la periodicidad de los mismos.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.3.5 — Secretaría Técnica
 
@@ -1127,8 +1093,6 @@ La Secretaría Técnica del Comité Directivo de FONCULTURA estará a cargo del 
 CAPÍTULO IV
 
 DESARROLLO DE CONVOCATORIAS Y PRESENTACIÓN DE INICIATIVAS A SER FINANCIADAS CON CARGO A LOS RECURSOS DE FONCULTURA.
-
-ARTÍCULO
 
 ## art:2.2.3.4.1 — Banco de iniciativas financiables con recursos de FONCULTURA
 
@@ -1149,8 +1113,6 @@ f) La forma, plazos y condiciones en que se recibirán las iniciativas remitidas
 PARÁGRAFO . El Banco de Iniciativas financiables con recursos de FONCULTURA, a que se refiere el presente artículo estará a cargo de COCREA, sin perjuicio de las directrices que imparta el Ministerio de Cultura. En los contratos o convenios que se suscriban entre el Ministerio y COCREA, se precisarán las actividades a desarrollar por parte de COCREA, en relación con el Banco de iniciativas.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2 — 4.2
 
@@ -1174,15 +1136,11 @@ h) Las garantías exigidas para el manejo de los recursos, cuando sea el caso.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.4.3 — Selección de proyectos
 
 El administrador de los recursos de FONCULTURA podrá contratar, con cargo a los recursos a que se refiere el artículo 2.2.3.1.4 de este decreto, un tercero evaluador, de acuerdo con las condiciones que se definan en el(los) convenio(s) que se suscriba(n) para el efecto. En todo caso, y sin perjuicio de lo anterior, la evaluación y/o calificación de los proyectos o iniciativas presentadas podrá realizarla el Ministerio de Cultura, a través de quien se designe para el efecto.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4 — Veracidad de la información presentada en las convocatorias
 
@@ -1193,8 +1151,6 @@ Independientemente de quien se designe o contrate para la evaluación de los pro
 CAPÍTULO V
 
 EJECUCIÓN DE LOS RECURSOS DE FONCULTURA
-
-ARTÍCULO
 
 ## art:2.2.3.5.1 — Esquemas de ejecución de recursos
 
@@ -1210,15 +1166,11 @@ d) Cualquier otro esquema permitido por las normas vigentes.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2 — Ejecución a través de otras entidades públicas
 
 En el evento que se defina que la ejecución de los recursos de FONCULTURA se realizará mediante su desembolso por parte de COCREA a otras entidades públicas nacionales o territoriales, competentes para el desarrollo del proyecto o iniciativa, los esquemas o procesos utilizados por dichas entidades públicas para la ejecución del proyecto, deberán someterse a las normas vigentes que les sean aplicables y se adelantarán bajo la responsabilidad de la respectiva entidad pública y de acuerdo con el régimen de contratación aplicable a la misma.
 
 (Adicionado por el Art. 1 del Decreto 880 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.5.3 — Esquemas de seguimiento y otras garantías
 
@@ -1231,8 +1183,6 @@ PARTE III
 SISTEMA NACIONAL DE PATRIMONIO CULTURAL DE LA NACIÓN - SNPCN-.
 
 ASPECTOS GENERALES
-
-ARTÍCULO
 
 ## art:2.3.1.1 — Sistema Nacional de Patrimonio Cultural de la Nación
 
@@ -1520,6 +1470,30 @@ PARÁGRAFO 4. En caso que el representante en ejercicio se desvincule de la univ
 
 (Decreto 1313 de 2008, artículo 3, Modificado por el Decreto 3322 de 2008, Artículo 1)
 
+ARTÍCULO 2.3.2.2-1. Elección del representante de Is sociedad civil a través del programa vigías del patrimonio. El representante de las vigías del patrimonio a que se refiere el numeral 15 del artículo 2.3.2. 1. será designado por un término de un (1) ano. Para la elección de este representante se seguirá el siguiente procedimiento:
+
+1. El Ministerio de Cultura efectuará una convocatoria mediante la publicación de un aviso en su página web. En esta convocatoria se especificarán los requisitos que deberán cumplir los grupos de vigías del patrimonio cultural que presenten candidatos, los requisitos que deberán cumplir los candidatos, la modalidad de inscripción a la convocatoria y los documentos necesarios para presentarse a esta.
+
+2. Los grupos de vigías del patrimonio que se encuentren debidamente registrados y acreditados en el año anterior a la elección, según la convocatoria y los requisitos de acreditación que defina el Ministerio de Cultura, podrán proponer, a través de sus coordinadores, a sus candidatos en el término máximo de quince (15) días hábiles a partir de la convocatoria.
+
+Las propuestas de candidatos serán recibidas y consolidadas por la Dirección de Patrimonio del Ministerio de Cultura, quien verificará en cada una el cumplimiento de los requisitos establecidos.
+
+3. Dentro de los diez (10) días hábiles siguientes al plazo descrito en el numeral anterior, el Ministerio de Cultura publicará en su página web los nombres de los candidatos postulados por cada grupo de vigías, a efectos de que por vía electrónica o mediante documento escrito, los coordinadores de los grupos de vigías registrados ante el Ministerio de Cultura aceptados por cumplir con los requisitos exigidos emitan su voto.
+
+4. La emisión del voto se efectuará durante los cinco (5) días hábiles siguientes al plazo descrito en el numeral anterior, al cabo de los cuales el Ministerio de Cultura publicará el resultc1do en su página web y se lo comunicará al vigía del patrimonio elegido.
+
+5. El vigía del patrimonio elegido deberá expresar mediante escrito dirigido a la Dirección de Patrimonio del Ministerio de Cultura, en los tres (3) días hábiles siguientes, su aceptación de la designación.
+
+PARÁGRAFO 1. En caso de que se presente un empate en la votación, el. representante será elegido por el ministro de cultura.
+
+PARÁGRAFO 2. El postulado por cada grupo de vigías debe ser elegido de manera democrática a través de los espacios de participación que cada grupo de vigías defina. Los soportes del resultado de la elección del postulado deberán ser anexados en el punto con el numeral 2 del presente artículo.
+
+PARÁGRAFO 3 . El representante de los vigías en ejercicio cumplirá sus actividades hasta que se elija el nuevo representante.
+
+PARÁGRAFO 4. En caso de que el representante en ejercicio se desvincule de la del grupo de vigías que lo presentó, se efectuará una nueva convocatoria.
+
+(Adicionado por el Art. 7 del Decreto 2358 de 2019)
+
 ## art:2.3.2.3 — Funciones
 
 Son funciones del Consejo Nacional de Patrimonio Cultural, las siguientes:
@@ -1706,8 +1680,6 @@ PARÁGRAFO . Un bien puede reunir todos o algunos de los valores o basarse en un
 
 (Decreto 763 de 2009; Artículo 6)
 
-ARTÍCULO
-
 ## art:2.4.1.3 — Procedimiento para declarar BIC
 
 El procedimiento que deberá seguir la autoridad competente en todos los casos para declarar BIC, es el establecido en el artículo 8 de la Ley 397 de 1997, modificado por el artículo 5 de la Ley 1185 de 2008.
@@ -1715,8 +1687,6 @@ El procedimiento que deberá seguir la autoridad competente en todos los casos p
 Las declaratorias de BIC que se lleven a cabo sin seguir el procedimiento definido en la referida ley y reglamentado en este decreto, estarán viciadas de nulidad conforme a lo previsto en el Código Contencioso Administrativo. La solicitud de nulidad podrá formularla cualquier instancia o persona.
 
 (Decreto 763 de 2009; Artículo 7)
-
-ARTÍCULO
 
 ## art:2.4.1.4 — Lista Indicativa de Candidatos a Bienes de Interés Cultural
 
@@ -1754,8 +1724,6 @@ El Consejo respectivo emitirá su concepto sobre la declaratoria y aprobación d
 
 (Decreto 763 de 2009; Artículo 10)
 
-ARTÍCULO
-
 ## art:2.4.1.7 — Principio de coordinación
 
 De conformidad con lo previsto en el artículo 8 de la Ley 397 de 1997, modificado por el artículo5 de la Ley 1185 de 2008, para la declaratoria y manejo de los BIC se aplicará el principio de coordinación entre los niveles nacional, departamental, distrital, municipal o de los territorios indígenas y de las comunidades negras de que trata la Ley 70 de 1993.
@@ -1773,8 +1741,6 @@ Los actos de declaratoria o revocatoria de BIC son actos administrativos en los 
 La actuación administrativa consiste en el procedimiento previsto en el artículo 5 de la Ley 1185 de 2008, modificatorio del artículo 8 de la Ley 397 de 1997, sin perjuicio de los términos reglamentados en este decreto.
 
 (Decreto 763 de 2009; Artículo 12)
-
-ARTÍCULO
 
 ## art:2.4.1.9 — Contenido del acto administrativo de declaratoria
 
@@ -1947,8 +1913,6 @@ Los partiiculares propietarios de bienes declarados BIC o incluidos en la LIC-BI
 ## art:2.4.1.1.4 — Competencia para la definición de contenidos de los PEMP
 
 El Ministerio de Cultura podrá desarrollar las etapas de los PEMP, a través de la definición de aspectos técnicos y administrativos.
-
-ARTÍCULO
 
 ## art:2.4.1.1.5 — Competencias para la implementación de los PEMP
 
@@ -2493,8 +2457,6 @@ Los bienes muebles declarados como bienes de interés cultural, para efectos de 
 2. Monumentos en espacio público: se refiere a los monumentos ubicados en espacios públicos como vías, plazas y parques.
 
 3. Bienes muebles asociados a inmuebles: bien o conjunto de bienes adosados o destinados a un bien inmueble y que forman parte integral del mismo.
-
-ARTÍCULO
 
 ## art:2.4.1.3.3 — PEMP para bienes muebles
 
@@ -3432,7 +3394,7 @@ Contenido del Acto Administrativo que decide la inclusión de una manifestación
 
 Plan Especial de Salvaguardia -PES- El plan especial de salvaguardia -PES es un acuerdo social y administrativo, concebido como un instrumento de gestión del patrimonio cultural de la Nación, mediante el cual se establecen acciones y lineamientos encaminados a garantizar la salvaguardia del PCI.
 
-## art:2.5.2.11 — Contenido del PES
+## art:2.5.2.11c — ontenido del PES
 
 El Plan Especial de Salvaguardia debe contener:
 
@@ -4587,8 +4549,6 @@ PROGRAMA DE ARQUEOLOGÍA PREVENTIVA
 
 El Programa de Arqueología Preventiva es el conjunto de procedimientos de obligatorio cumplimiento cuyo fin es garantizar la protección del patrimonio arqueológico.
 
-ARTÍCULO
-
 ## art:2.6.5.2 — Ámbito de aplicación
 
 El Programa de Arqueología Preventiva deberá formularse y desarrollarse en:
@@ -4693,8 +4653,6 @@ Lo anterior, sin perjuicio de las consecuencias penales y policivas a que haya l
 
 El ICANH formulará las denuncias de carácter penal y policivo sobre conductas de las que tenga conocimiento que afecten el patrimonio arqueológico.
 
-ARTÍCULO
-
 ## art:2.6.6.3 — Suspensión de actividades que puedan afectar el patrimonio arqueológico
 
 El ICANH podrá ordenar la suspensión inmediata de las actividades que puedan afectar el patrimonio arqueológico o que se adelanten sin la respectiva autorización, para lo cual las autoridades de policía quedan obligadas a prestar su concurso inmediato a efectos de hacer efectiva la medida que así se ordene.
@@ -4735,7 +4693,7 @@ PATRIMONIO CULTURAL SUMERGIDO
 
 ALCANCE
 
-## art:2 — 7 .1.1
+## art:2.7 — 1.1
 
 Alcance. La presente reglamentación no aplica a los bienes que en espacios terrestres se encuentren por debajo del nivel freático. Tampoco aplica a aquellos bienes que se encuentren en áreas o terrenos de bajamar.
 
@@ -4749,19 +4707,13 @@ Las actividades de buceo recreativo y deportivo no requieren de autorizaciones e
 
 (Decreto 1698 de 2014, Artículo 1)
 
-ARTÍCULO
-
 ## art:2.7.1.3 — Objeto
 
 (Adicionado por el Art. 1 del Decreto 204 de 2022). El presente decreto tiene por objeto reglamentar las competencias, trámites y actividades que deben adelantar las autoridades nacionales competentes para garantizar la protección del Patrimonio Cultural Sumergido.
 
-ARTÍCULO
-
 ## art:2.7.1.4 — Definiciones
 
 (Adicionado por el Art. 2 del Decreto 204 de 2022). Para los efectos del Patrimonio Cultural Sumergido, se utilizarán las definiciones técnicas de aguas internas, fluviales y lacustres, mar territorial, zona contigua, zona económica exclusiva y plataforma continental e insular, y otras áreas delimitadas por líneas de base que se encuentran en la Ley 10 de 1978, en el Decreto Ley 2324 de 1984 y en particular en los Artículos 2.2.2.1.1 y siguientes del Decreto 1067 de 2015, o las normas que los adicionen, modifiquen o deroguen.
-
-ARTÍCULO
 
 ## art:2.7.1.5 — De la protección legal y constitucional del patrimonio cultural sumergido
 
@@ -4773,15 +4725,11 @@ CAPÍTULO I
 
 Instituciones relativas al patrimonio cultural sumergido
 
-ARTÍCULO
-
 ## art:2.7.1.1.1 — Propiedad del patrimonio cultural sumergido
 
 La Nación es la propietaria del Patrimonio Cultural Sumergido. En ningún caso una autorización o contrato de exploración o de intervención generará derechos de propiedad u otros derechos para el beneficiario de la licencia o el contratista, sobre los bienes y contextos arqueológicos del Patrimonio Cultural Sumergido, en los términos del artículo 1 del Decreto 833 de 2002.
 
 (Decreto 1698 de 2014, Artículo 3)
-
-ARTÍCULO
 
 ## art:2.7.1.1.2 — Inscripción de hallazgos en el registro nacional de los bienes del patrimonio cultural sumergido
 
@@ -4801,15 +4749,11 @@ PARÁGRAFO 2. El ICANH fijará los lineamientos relativos a los objetivos a medi
 
 (Decreto 1698 de 2014, Artículo 4)
 
-ARTÍCULO
-
 ## art:2.7.1.1.3 — Información sobre bienes del Patrimonio Cultural Sumergido
 
 Toda autoridad civil que sea informada de la existencia de bienes y contextos relacionados con el Patrimonio Cultural Sumergido, deberá remitir dicha información de manera inmediata al Instituto Colombiano de Antropología e Historia (ICANH) y a la Dirección General Marítima (Dimar).
 
 (Decreto 1698 de 2014, Artículo 5)
-
-ARTÍCULO
 
 ## art:2.7.1.1.4 — Reglamentación técnica de las naves y artefactos navales
 
@@ -4817,7 +4761,11 @@ La Dirección General Marítima (Dimar) establecerá la reglamentación técnica
 
 (Decreto 1698 de 2014, Artículo 6)
 
-ARTÍCULO
+## art:2.7.1.1.5 — Vigilancia y control
+
+La Armada Nacional ejercerá vigilancia y control, en la medida de sus capacidades, sobre los contextos arqueológicos y los bienes sumergidos consignados en el Registro Nacional de los Bienes del Patrimonio Cultural Sumergido a fin de garantizar su integridad.
+
+(Decreto 1698 de 2014, Artículo 7)
 
 ## art:2.7.1.1.6 — Comisión de Antigüedades Náufragas
 
@@ -4825,21 +4773,15 @@ La Comisión de Antigüedades Náufragas creada por el Decreto 29 de 1984, conti
 
 (Decreto 1698 de 2014, Artículo 8)
 
-ARTÍCULO
-
 ## art:2.7.1.1.7 — Definición del registro nacional de los bienes del patrimonio cultural sumergido
 
 (Adicionado por el Art. 5 del Decreto 204 de 2022). El Registro Nacional de los Bienes del Patrimonio Cultural Sumergido es el registro oficial de la Nación en materia de Patrimonio Cultural Sumergido.
 
 El Registro se constituye en un instrumento que permite llevar un inventario que posibilite la identificación, documentación y la visibilización del Patrimonio Cultural Sumergido, con miras a garantizar su conocimiento, protección, gestión y conservación.
 
-ARTÍCULO
-
 ## art:2.7.1.1.8 — Información básica del registro nacional de los bienes del patrimonio cultural sumergido
 
 (Adicionado por el Art. 6 del Decreto 204 de 2022). El registro deberá contener la información que determine el ICANH de acuerdo con la naturaleza del hallazgo.
-
-ARTÍCULO
 
 ## art:2.7.1.1.9 — Procedimiento para el registro
 
@@ -4849,13 +4791,9 @@ El ICANH deberá informar al Ministerio de Cultura y a la DIMAR respecto de los 
 
 En el caso de no registrar el hallazgo, el ICANH mediante oficio motivado expondrá al interesado las razones por las cuales decide no realizar el registro. Este oficio se comunicará al Ministerio de Cultura.
 
-ARTÍCULO
-
 ## art:2.7.1.1.10 — Incorporación del registro nacional de los bienes del patrimonio cultural sumergido al ordenamiento marino costero
 
 (Adicionado por el Art. 8 del Decreto 204 de 2022). El Patrimonio Cultural Sumergido contenido en el Registro Nacional de los Bienes del Patrimonio Cultural Sumergido será incorporado en el instrumento de ordenamiento marino costero de la Dirección General Marítima.
-
-ARTÍCULO
 
 ## art:2.7.1.1.11 — Fortalecimiento institucional
 
@@ -4867,15 +4805,11 @@ CAPÍTULO II
 
 Programas de Arqueología Preventiva
 
-ARTÍCULO
-
 ## art:2.7.1.2.1 — Deber de informar
 
 (Modificado por el Art. 10 del Decreto 204 de 2022). Cualquier persona, natural o jurídica, pública o privada que por cualquier razón tenga conocimiento de la existencia de un bien que pueda pertenecer al Patrimonio Cultural Sumergido, y que no guarde relación con intervenciones sobre el patrimonio arqueológico debidamente autorizadas por el ICANH, deberá informar en el curso de las veinticuatro (24) horas siguientes del regreso a tierra a la autoridad civil o marítima más cercana, y estas a su vez deberán dar aviso inmediato al Instituto Colombiano de Antropología e Historia (ICANH), remitiendo toda la información relacionada de la que disponga con el hallazgo respectivo, según lo establecido en el Artículo 7 de la Ley 1675 de 2015. Dicho hallazgo se regirá por el Protocolo de Hallazgos Fortuitos adoptado por el ICANH.
 
 *jurisprudencia*
-
-ARTÍCULO
 
 ## art:2.7.1.2.2 — Programa Arqueología Preventiva
 
@@ -4886,8 +4820,6 @@ El Instituto Colombiano de Antropología e Historia (ICANH) debe establecer los 
 *jurisprudencia*
 
 (Decreto 1698 de 2014, Artículo 10)
-
-ARTÍCULO
 
 ## art:2.7.1.2.3 — Formulación de Plan de Manejo Arqueológico
 
@@ -4917,15 +4849,11 @@ PARÁGRAFO . Cuando el titular de licencias o contratos con la Nación o con org
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.7.1.2.4 — Aprobación del Plan de Manejo
 
 El plan de manejo que resultare del programa de arqueología preventiva será aprobado por el Ministerio de Cultura, previo visto bueno del Instituto Colombiano de Antropología e Historia (ICANH), exclusivamente si se demuestra que queda garantizada la integridad física de los bienes patrimoniales y la debida recolección de datos del contexto arqueológico.
 
 (Decreto 1698 de 2014, Artículo 12)
-
-ARTÍCULO
 
 ## art:2.7.1.2.5 — Seguimiento a programas de arqueología preventiva
 
@@ -4937,23 +4865,17 @@ CAPÍTULO III
 
 Exploración
 
-ARTÍCULO
-
 ## art:2.7.1.3.1 — Autorización de exploración
 
 Toda exploración en aguas marinas, lacustres o fluviales que tenga por objeto la identificación de contextos y objetos pertenecientes al Patrimonio Cultural Sumergido, debe tener autorización o contrato suscrito por el Ministerio de Cultura.
 
 (Decreto 1698 de 2014, Artículo 14)
 
-ARTÍCULO
-
 ## art:2.7.1.3.2 — Capacidad Estatal de exploración y demás actividades sobre el patrimonio sumergido
 
 El Ministerio de Cultura podrá autorizar al Instituto Colombiano de Antropología e Historia (ICANH), para realizar actividades de exploración, intervención, aprovechamiento económico, conservación y curaduría de los bienes pertenecientes o asociados al patrimonio cultural sumergido. Para tal efecto el Instituto Colombiano de Antropología e Historia (ICANH) podrá suscribir convenios con otras entidades gubernamentales que cuenten con capacidad técnica, económica y conocimiento histórico para realizar dichas actividades referidas al Patrimonio Cultural Sumergido.
 
 (Decreto 1698 de 2014, Artículo 15)
-
-ARTÍCULO
 
 ## art:2.7.1.3.3 — Requisitos de las propuestas
 
@@ -5021,23 +4943,17 @@ El proyecto de exploración deberá cumplir con los siguientes requisitos mínim
 
 (Decreto 1698 de 2014, Artículo 16)
 
-ARTÍCULO
-
 ## art:2.7.1.3.4 — Prohibición especial
 
 Las actividades de exploración se enmarcan dentro de la aplicación de acciones no intrusivas que no implican intervención, alteración o modificación de sus condiciones físicas ni del contexto del sitio en que se hallan los bienes, tales como remoción de partes, cortes o desplazamientos. Los contratos pueden autorizar la toma de muestras en la exploración.
 
 (Decreto 1698 de 2014, Artículo 17)
 
-ARTÍCULO
-
 ## art:2.7.1.3.5 — Área máxima de exploración
 
 El área máxima sobre la cual se expedirá una autorización de exploración sobre el Patrimonio Cultural Sumergido será determinada por el Ministerio de Cultura y la Dirección General Marítima (Dimar) mediante un Polígono georreferenciado.
 
 (Decreto 1698 de 2014, Artículo 18)
-
-ARTÍCULO
 
 ## art:2.7.1.3.6 — Duración de las autorizaciones
 
@@ -5047,8 +4963,6 @@ Para que proceda la prórroga deberá acreditarse la inversión de al menos el 5
 
 (Decreto 1698 de 2014, Artículo 19)
 
-ARTÍCULO
-
 ## art:2.7.1.3.7 — Exclusividad del polígono
 
 El Ministerio de Cultura se abstendrá de suscribir contratos de exploración en los polígonos ya asignados durante el tiempo en que exista otro contrato.
@@ -5057,23 +4971,17 @@ No se otorgará más de un contrato o licencia de exploración en el mismo perio
 
 (Decreto 1698 de 2014, Artículo 20)
 
-ARTÍCULO
-
 ## art:2.7.1.3.8 — Permisos ante la Dirección General Marítima (Dimar)
 
 Cada una de las naves o artefactos navales vinculados al proyecto deberá contar con los respectivos certificados y permisos expedidos por la Dirección General Marítima (Dimar).
 
 (Decreto 1698 de 2014, Artículo 21)
 
-ARTÍCULO
-
 ## art:2.7.1.3.9 — Garantía de Cumplimiento
 
 Sin perjuicio de las garantías ordenadas por la ley o los reglamentos para la contratación pública, quien obtenga la autorización para la exploración deberá otorgar pólizas de seguros, garantía bancaria o patrimonio autónomo de acuerdo con lo previsto en el Decreto 1510 de 2013 o las normas que lo modifiquen, adicionen o sustituyan, que garanticen el cumplimiento de las obligaciones derivadas de la autorización o contrato.
 
 (Decreto 1698 de 2014, Artículo 22)
-
-ARTÍCULO
 
 ## art:2.7.1.3.11 — Informe
 
@@ -5099,8 +5007,6 @@ Toda exploración deberá presentar al término de esta un informe al Ministerio
 
 (Decreto 1698 de 2014, Artículo 24)
 
-ARTÍCULO
-
 ## art:2.7.1.3.12 — Incorporación al Registro Nacional de los Bienes del Patrimonio Cultural Sumergido
 
 Los bienes que se encuentren como resultado de la exploración serán incorporados al Registro Nacional de los Bienes del Patrimonio Cultural Sumergido, pero se mantendrá reserva sobre su ubicación en los términos del artículo 17 de la Ley 1675 de 2013.
@@ -5111,8 +5017,6 @@ CAPÍTULO IV
 
 Intervención en patrimonio cultural
 
-ARTÍCULO
-
 ## art:2.7.1.4.1 — Definición de prioridades
 
 Oída la Comisión de Antigüedades Náufragas, el Ministerio de Cultura debe evaluar las características e importancia de los naufragios o contextos arqueológicos sumergidos, haciendo énfasis en su localización, estado de conservación, registro gráfico y fotográfico e información histórica disponible, definiendo prioridades y posibilidades para la intervención.
@@ -5120,8 +5024,6 @@ Oída la Comisión de Antigüedades Náufragas, el Ministerio de Cultura debe ev
 El Ministerio de Cultura debe dar prioridad a los Procesos de Contratación sobre bienes del Patrimonio Cultural Sumergido que estén amenazados o en inminente riesgo de destrucción por factores naturales o humanos, y puede tomar las medidas necesarias para su preservación prioritaria.
 
 (Decreto 1698 de 2014, Artículo 26)
-
-ARTÍCULO
 
 ## art:2.7.1.4.2 — Requisitos para la contratación
 
@@ -5155,15 +5057,11 @@ El Contratista debe estar a cargo del transporte, almacenamiento, seguros, conse
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.7.1.4.3 — Descripción completa del yacimiento arqueológico
 
 Toda intervención en Patrimonio Cultural Sumergido debe realizar la planimetría completa del yacimiento arqueológico, en donde se deberá registrar el conjunto de bienes asociados, su disposición y su estructura.
 
 (Decreto 1698 de 2014, Artículo 28)
-
-ARTÍCULO
 
 ## art:2.7.1.4.4 — Disposiciones especiales
 
@@ -5301,8 +5199,6 @@ La delimitación deberá hacerse señalando coordenadas específicas de las áre
 
 (Decreto 1698 de 2014, Artículo 43)
 
-ARTÍCULO
-
 ## art:2.7.2.2 — Plan Especial de Manejo y Protección
 
 (Modificado por el Art. 14 del Decreto 204 de 2022). El área arqueológica protegida del patrimonio cultural sumergido deberá contar con un Plan de Manejo Arqueológico que defina las acciones necesarias para garantizar su protección y conservación.
@@ -5313,19 +5209,13 @@ PARÁGRAFO 2: El ICANH delimitará las áreas, establecerá los niveles de inter
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.7.2.3 — Definición de área arqueológica protegida del patrimonio cultural sumergido
 
 (Adicionado por el Art. 15 del Decreto 204 de 2022). Área Arqueológica Protegida es un área de especial interés arqueológico declarada por el Instituto Colombiano de Antropología. e Historia (ICANH), que cuenta con evidencias excepcionales en el ámbito nacional e internacional, según corresponda, que brindan un aporte significativo al conocimiento de procesos sociales pasados, sobre la cual se aplican medidas especiales de protección que buscan regular, controlar y definir los niveles de intervención, con el propósito de garantizar su preservación a largo plazo para adelantar acciones de investigación, divulgación y conservación del Patrimonio Sumergido.
 
-ARTÍCULO
-
 ## art:2.7.2.4 — Complementariedad de las medidas
 
 (Adicionado por el Art. 16 del Decreto 204 de 2022). Cuando la declaratoria de Área Arqueológica Protegida se superponga, en todo o en parte, con una zona declarada como Área Protegida del Sistema Nacional de Áreas Protegidas - SINAP o con ecosistemas estratégicos o con un bien de interés cultural o con figuras e instrumentos de ordenamiento marino o territorial existentes o Planes Especiales de Manejo y Protección - PEMP, el Plan de Manejo Arqueológico debe armonizarse de acuerdo con el régimen legal y el plan de manejo o instrumento del área protegida o ecosistema estratégico y el régimen propio del bien de interés cultural a través de la mesa interinstitucional correspondiente.
-
-ARTÍCULO
 
 ## art:2.7.2.5 — Incorporación en los instrumentos de ordenamiento territorial
 
@@ -5705,7 +5595,7 @@ Capítulo III
 
 Consejo Nacional del Libro
 
-## art:2.8.1.3.1 — lntegración del Consejo Nacional del Libro
+## art:2.8.1.3.1 — -lntegración del Consejo Nacional del Libro
 
 El Consejo Nacional del Libro, en su condición órgano asesor y consultivo del Gobierno Nacional a través del Ministerio las Culturas, Artes y los Saberes estará integrado así:
 
@@ -8547,6 +8437,20 @@ El incumplimiento de las disposiciones del presente decreto dará lugar a las ac
 
 (Decreto 1515 de 2013, Artículo 22)
 
+ARTÍCULO 2.8.10.19. Reglamentación. El Archivo General de la Nación, de acuerdo con su competencia podrá reglamentar el presente Decreto
+
+(Decreto 106 de 2015, Artículo 47)
+
+PARTE IX
+
+FOMENTO A LAS ARTES Y ACTIVIDADES CULTURALES
+
+ESPECTÁCULOS PÚBLICOS
+
+CAPÍTULO I
+
+Objeto
+
 ## art:2.9.1 — Inscripción de productores de espectáculos públicos de las artes escénicas
 
 La inscripción de los productores de espectáculos públicos de artes escénicas deberá ser realizada virtualmente a través de la página web del Ministerio de Cultura, diligenciando el formulario digital previsto para efecto, al cual se deberán adjuntar los siguientes documentos:
@@ -8701,8 +8605,6 @@ El incumplimiento de lo establecido en los parágrafos 1 y 2 del artículo 2.9.1
 
 Las disposiciones contenidas en los artículos 2.9.1.2.5 y 2.9.1.2.6 del presente decreto entrarán en vigencia una vez el Ministerio de Cultura, mediante resolución, adopte e implemente los mecanismos tecnológicos necesarios para capturar y sistematizar la información de afectaciones al registro de productores de espectáculos públicos de las artes escénicas. Artículo 3. Vigencia. El presente decreto rige a partir de la fecha de su publicación.
 
-ARTÍCULO
-
 ## art:2.9.1.2.11 — Lineamientos para la clasificación de los productores de espectáculos públicos de las artes escénicas
 
 Los productores tendrán la facultad de autocalificarse como ocasionales o permanentes, sin perjuicio de la facultad de reclasificación ejercida por el Ministerio de Cultura consagrada en el artículo 10 de la Ley 1493 de 2011.
@@ -8727,8 +8629,6 @@ c) Productor de espectáculos públicos de pequeño formato: se denominarán pro
 
 TRÁMITES Y REQUISITOS PARA LA REALIZACIÓN DE ESPECTÁCULOS PÚBLICOS DE LAS ARTES ESCÉNICAS EN ESPACIOS CULTURALES
 
-ARTÍCULO
-
 ## art:2.9.1.3.1 — Escenarios o espacios culturales para las artes escénicas
 
 Corresponde a las entidades responsables de cultura del ámbito municipal y distrital identificar y reconocer los espacios o escenarios culturales, entendidos como aquellos que tienen como finalidad principal y giro habitual la presentación o circulación de espectáculos públicos de las artes escénicas.
@@ -8742,8 +8642,6 @@ PARÁGRAFO 2. No podrán ser calificados como escenarios culturales para las art
 PARÁGRAFO 3. Las entidades responsables de cultura en los municipios y distritos informarán a las secretarias de gobierno o entidades que hagan sus veces, los escenarios qué en su respectiva jurisdicción han sido identificados y reconocidos como espacios culturales para las artes escénicas. Este reconocimiento es condición necesaria pero no suficiente para el funcionamiento de los espacios o escenarios culturales, por cuanto los mismos deberán dar cumplimiento a lo establecido en la Ley 1493 de 2011 y en los artículos 2.9.1.3.2 y 2.9.1.3.3. de este decreto.
 
 PARÁGRAFO 4. El reconocimiento de los escenarios o espacios culturales para las artes escénicas de que trata este artículo es un paso previo a la radicación prevista en el artículo 2.9.1.3.2. de este decreto.
-
-ARTÍCULO
 
 ## art:2.9.1.3.2 — Requisitos de los escenarios culturales para las artes escénicas
 
@@ -8769,8 +8667,6 @@ PARÁGRAFO 2. Corresponderá a cada alcaldía regular las condiciones en las que
 
 PARÁGRAFO 3. Las alcaldías obligadas a contar con la ventanilla única de atención y registro de que trata el artículo 18 de la Ley 1493 de 2011 y aquellas que la hayan implementado, deberán adecuar dicha ventanilla para permitir el cargue de la información de que trata este artículo, que será de obligatorio diligenciamiento por parte de los responsables de los escenarios o espacios culturales para las artes escénicas. .
 
-ARTÍCULO
-
 ## art:2.9.1.3.3 — 3.3
 
 Responsabilidades de los productores de espectáculos públicos y responsables de escenarios culturales para las artes escénicas. Los productores de espectáculos públicos de las artes escénicas que realicen este tipo de eventos en escenarios reconocidos como "Escenarios culturales para las artes escénicas", serán responsables de lo siguiente para cada espectáculo público que organicen, sin que esto implique tramitar un permiso o autorización previa ante la Secretaría de Gobierno o la entidad que haga sus veces:
@@ -8792,8 +8688,6 @@ El Ministerio de Cultura podrá verificar lo previsto en este artículo y solici
 Las secretarías de gobierno, o entidades que hagan sus veces en las alcaldías, revisarán el cumplimiento de estos requisitos y reportarán mensualmente al Ministerio de Cultura y demás autoridades competentes, las presuntas inconsistencias o incumplimientos identificados, sin perjuicio de que adelanten las actuaciones administrativas a que haya lugar.
 
 PARÁGRAFO . Las alcaldías obligadas a contar con la ventanilla única de atención y registro de que trata el artículo 18 de la Ley 1493 de 2011 y aquellas que la hayan implementado, deberán adecuar dicha ventanilla para permitir el cargue de la información de que trata este artículo, que será de obligatorio diligenciamiento por parte de los productores. En el caso de las alcaldías que no estén obligadas a tener dicha ventanilla, podrán realizar la radicación de dichos documentos en la secretaria de gobierno o la entidad que haga sus veces. En todos los casos, los productores deberán remitir o radicar esta información antes de la realización del evento.
-
-ARTÍCULO
 
 ## art:2.9.1.3.4 — Verificación de los requisitos en escenarios culturales para las artes escénicas
 
@@ -8817,8 +8711,6 @@ CAPÍTULO V
 
 TRÁMITES Y REQUISITOS PARA LA REALIZACIÓN DE ESPECTÁCULOS PÚBLICOS DE LAS ARTES ESCÉNICAS EN LUGARES DIFERENTES A LOS ESCENARIOS CULTURALES, E INTEGRACIÓN DE VENTANILLAS ÚNICAS
 
-ARTÍCULO
-
 ## art:2.9.1.5.1 — 
 
 2.9.1.5.1 Requisitos para realización de espectáculos públicos de las artes escénicas en lugares diferentes a los escenarios culturales como parques, estadios y escenarios deportivos. Los productores de espectáculos públicos de las artes escénicas que realicen este tipo de eventos en espacios diferentes a los escenarios culturales de que trata la Ley 1493 de 2011 y este Decreto, deberán solicitar autorización o permiso para cada evento, función o temporada ante la Secretarla de Gobierno o la entidad que haga sus veces, mínimo quince (15) días hábiles previos a la realización del evento.
@@ -8831,8 +8723,6 @@ El acto administrativo 'por medio del cual se otorgue el respectivo permiso o au
 
 PARÁGRAFO . De conformidad con lo establecido en la Ley 1523 de 2012 y el Decreto reglamentario 2157 de 2017 el Plan de Gestión del Riesgo o plan de emergencias y contingencias incluirá, entre otros aspectos, el análisis específico de riesgo que considere los posibles efectos de eventos de origen natural, socio-natural, tecnológico, biosanitario o humano no intencional sobre la infraestructura y aquellos que se deriven de los daños de la misma en su área de influencia de posible afectación.
 
-ARTÍCULO
-
 ## art:2.9.1.5.2 — Ventanilla única
 
 Para la creación de la ventanilla única de registro y atención a los productores de los espectáculos públicos de las artes escénicas de que trata el artículo 18 de la Ley 1493 de 2011, las capitales de departamento y demás municipios y distritos que opten por este mecanismo, tendrán en cuenta los siguientes lineamientos generales:
@@ -8844,8 +8734,6 @@ Para la creación de la ventanilla única de registro y atención a los producto
 2. En virtud de los principios de colaboración entre las entidades públicas y de eficiencia de la gestión administrativa, las entidades municipales y distritales competentes en el trámite de autorización de espectáculos públicos de las artes escénicas, compartirán la información registrada con las autoridades competentes del Gobierno nacional, sin exigir documentación o información adicional al productor del espectáculo, de conformidad con lo ordenado por los artículos 13 y 26 del Decreto-ley 2150 de 1995.
 
 3. Mediante la utilización de la ventanilla única y el trámite electrónico, los solicitantes y las entidades municipales y distritales competentes en el trámite de autorización de espectáculos públicos de las artes escénicas, dispondrán del número de radicación del respectivo trámite, y podrán consultar virtualmente el estado del procedimiento, recibiendo por este medio las comunicaciones, observaciones y conceptos pertinentes.
-
-ARTÍCULO
 
 ## art:2.9.1.5.3 — Integración de ventanillas únicas
 
@@ -9141,8 +9029,6 @@ CAPÍTULO IV
 
 Giro de la Contribución Parafiscal de los Espectáculos Públicos de las Artes Escénicas
 
-ARTÍCULO
-
 ## art:2.9.2.4.1 — 4.1
 
 Giro de la contribución parafiscal de los espectáculos públicos de las artes escénicas:
@@ -9158,8 +9044,6 @@ PARÁGRAFO 2 El recaudo proveniente de la contribución parafiscal de los espect
 PARÁGRAFO 3. Los municipios y distritos que reciban la contribución parafiscal de recursos provenientes de espectáculos públicos de las artes escénicas que aún no se han realizado, no podrán disponer de los mismos hasta tanto tenga(n) lugar dichos espectáculos, en caso de cancelación del/los mismo(s) se dará cumplimiento a lo previsto en el artículo "Devolución de la contribución parafiscal de los espectáculos públicos de las artes escénicas en caso de cancelación de eventos" del presente decreto.
 
 (Decreto 1240 de 2013, Artículo 1)
-
-ARTÍCULO
 
 ## art:2.9.2.4.2 — Destinación específica de la contribución parafiscal
 
@@ -9210,8 +9094,6 @@ PARÁGRAFO 1.- La ejecución de los recursos de la contribución parafiscal de l
 (Modificado por el Art. 1 del Decreto 639 de 2021)
 
 (Decreto 1240 de 2013, Artículo 2)
-
-ARTÍCULO
 
 ## art:2.9.2.4.3 — 4.3
 
@@ -9317,8 +9199,6 @@ PARÁGRAFO 4.- Los recursos de la contribución parafiscal no podrán sustituir 
 
 (Decreto 537 de 2017, Artículo 7)
 
-ARTÍCULO
-
 ## art:2.9.2.4.4 — 4.4
 
 Devolución de la contribución parafiscal de los espectáculos públicos de las artes escénicas en caso de cancelación de eventos.
@@ -9381,8 +9261,6 @@ PARÁGRAFO 2. Los municipios o distritos que hayan recibido recursos proveniente
 
 (Decreto 1240 de 2013, Artículo 5)
 
-ARTÍCULO
-
 ## art:2.9.2.5.2 — Periodo de ejecución de los recursos
 
 De acuerdo con lo establecido en el artículo 13-1 de la Ley 1493 de 2011, adicionado por el artículo 13 de la Ley 2070 de 2020, las alcaldías municipales y distritales podrán ejecutar los recursos de la contribución parafiscal cultural desde el momento de la recepción del giro realizado por el Ministerio de Cultura y hasta el final de la vigencia fiscal siguiente a la transferencia, atendiendo lo dispuesto en el parágrafo 3 del artículo 2.9.2.4.1 de este decreto, una vez se cuente con el proyecto registrado por el Ministerio de Cultura en la plataforma PULEP de acuerdo con lo establecido en el numeral 9 del Artículo 2.9.2.4.3 del presente Decreto.
@@ -9404,8 +9282,6 @@ PARÁGRAFO .- Los recursos derivados de la contribución parafiscal de los espec
 Según las competencias asignadas al Ministerio de Cultura y a los entes territoriales en los artículos 7 y 20 de la Ley 1493 de 2011, y con fundamento en el principio de coordinación establecido en el artículo 113 de la Constitución Política en concordancia con el artículo 6 de la Ley 489 de 1998, para efectos de verificación y monitoreo a la contribución parafiscal de los espectáculos públicos de las artes escénicas, el Ministerio de Cultura podrá adelantar, en coordinación con las alcaldías municipales o distritales, las verificaciones pertinentes a fin de establecer la veracidad de los reportes de ventas de los productores.
 
 (Decreto 1240 de 2013, Artículo 7)
-
-ARTÍCULO
 
 ## art:2.9.2.5.4 — Reporte de información
 
@@ -9541,8 +9417,6 @@ PARÁGRAFO . La Dirección de Cinematografía podrá conformar comités profesio
 
 (Decreto 358 de 2000, Artículo 3, Modificado por el Decreto 255 de 2013, Artículo 8)
 
-ARTÍCULO
-
 ## art:2.10.1.2 — Reconocimiento de la nacionalidad colombiana de las obras cinematográficas
 
 Corresponde al Ministerio de Cultura a través de la Dirección de Audiovisuales, Cine y Medios Interactivos certificar el carácter de producto nacional de la obra cinematográfica, trámite que se realizará a través de la plataforma digital que se disponga para ello.
@@ -9562,8 +9436,6 @@ La salida y posterior ingreso al país de los elementos de tiraje o películas c
 Compete al Ministerio de Cultura, mediante resolución de carácter general, fijar los requisitos formales y documentación que debe aportar el solicitante de la certificación o reconocimiento.
 
 (Decreto 358 de 2000, Artículo 5)
-
-ARTÍCULO
 
 ## art:2.10.1.4 — Trámite de reconocimiento del carácter de producto nacional de la obra cinematográfica
 
@@ -9588,8 +9460,6 @@ PARÁGRAFO 4: Contra el acto administrativo que resuelva sobre el Certificado de
 (Modificado por el Art. 2 del Decreto 525 de 2021)
 
 (Decreto 358 de 2000, Artículo 6)
-
-ARTÍCULO
 
 ## art:2.10.1.5 — Participación artística colombiana en las producciones nacionales de largometraje
 
@@ -9708,8 +9578,6 @@ PARÁGRAFO 1. Las personas con las cuales se acredita la participación a la que
 (Modificado por el Art. 3 del Decreto 525 de 2021)
 
 (Decreto 358 de 2000, Artículo 8, Modificado por el Decreto 255 de 2013, Artículo 1)
-
-ARTÍCULO
 
 ## art:2.10.1.6 — Participación técnica colombiana en las producciones nacionales de largometraje
 
@@ -9834,8 +9702,6 @@ PARÁGRAFO 1. Las personas con las cuales se acredita la participación a la que
 (Modificado por el Art. 4 del Decreto 525 de 2021)
 
 (Decreto 358 de 2000, Artículo 9, Modificado por el Decreto 255 de 2013, Artículo 2)
-
-ARTÍCULO
 
 ## art:2.10.1.7 — Participación artística y técnica colombiana en coproducciones nacionales de largometraje
 
@@ -10067,8 +9933,6 @@ PARÁGRAFO . Las personas con las cuales se acredita la participación a la que 
 
 (Decreto 358 de 2000, Artículo 10, Modificado por el Decreto 255 de 2013, Artículo 3)
 
-ARTÍCULO
-
 ## art:2.10.1.8 — Trayectoria o competencia del personal artístico colombiano en las coproducciones nacionales de largometraje
 
 La trayectoria o la competencia del personal artístico en las coproducciones nacionales a que se refiere el numeral 3 del artículo 44 de la Ley 397 de 1997, se acreditará con la presentación de una certificación suscrita por el coproductor colombiano indicando la trayectoria previa de los integrantes del personal artístico. En caso de haber varios coproductores colombianos, la declaración la realizará el mayoritario entre ellos.
@@ -10079,15 +9943,11 @@ En caso de que uno, varios o todos los integrantes del personal artístico no cu
 
 (Decreto 358 de 2000, Artículo 11)
 
-ARTÍCULO
-
 ## art:2.10.1.9 — Cobertura de la acreditación de calidad artística
 
 La acreditación prevista en el artículo anterior puede ser referida a la totalidad del aporte artístico colombiano o a cada artista colombiano, a elección del solicitante
 
 (Decreto 358 de 2000, Artículo 12)
-
-ARTÍCULO
 
 ## art:2.10.1.10 — Participación artística y técnica en las producciones y coproducciones nacionales de cortometraje nacional
 
@@ -10158,8 +10018,6 @@ Para que un cargo sea válido, en caso de que sea compartido, será necesario qu
 La incidencia en la película de un actor secundario debe revestir una relevancia narrativa esencial para la obra.
 
 (Decreto 255 de 2013, Artículo 5)
-
-ARTÍCULO
 
 ## art:2.10.1.13 — Homologación de cargos
 
@@ -10441,6 +10299,14 @@ Se entiende por complejo un local o establecimiento integrado por una o más sal
 
 (Decreto 763 de 2009, Artículo 67; parágrafo adicionado por el Decreto 120 de 2014, Artículo 1)
 
+ARTÍCULO 2.10.2.5.2. Reportes. El administrador del Fondo para el Desarrollo Cinematográfico establecido en la ley 814 de 2003, generará los reportes pertinentes a la autoridad de fiscalización y cobro en caso de que se aplicare la reducción de la cuota parafiscal por algún exhibidor en contravención de lo señalado en el artículo anterior.
+
+(Decreto 763 de 2009, Artículo 68)
+
+CAPÍTULO VI
+
+Beneficios tributarios para la producción cinematográfica colombiana
+
 ## art:2.10.2.6.1 — Aprobación de proyectos
 
 Los proyectos cinematográficos susceptibles de ser beneficiarios de donaciones o inversiones, que den derecho a la deducción tributaria prevista en el artículo 16 de la ley 814 de 2003, modificado por el artículo 195 de la ley 1607 de 2012, deberán ser previamente aprobados por el Ministerio de Cultura a través de la Dirección de Cinematografía de conformidad con el procedimiento que este establezca y con los siguientes criterios mínimos:
@@ -10557,13 +10423,13 @@ Así mismo podrá exigir y formar parte de los comités fiduciarios de los corre
 
 (Decreto 255 de 2013, Artículo 14)
 
-## art:2.10.2.6.7 — Deducción por mantenimiento y conservación de obras audiovisuales declaradas como bienes de interés cultural
+## art:2.10.2.6.7 — -Deducción por mantenimiento y conservación de obras audiovisuales declaradas como bienes de interés cultural
 
 De conformidad con lo dispuesto en el Artículo 56 de la Ley 397 de 1997, los propietarios de obras audiovisuales nacionales declaradas de interés cultural, pueden deducir del impuesto de renta la totalidad de los gastos en que incurran para el mantenimiento y conservación de dichos bienes, aunque no guarden relación de causalidad con la actividad productora de renta.
 
 (Decreto 358 de 2000, Artículo 21)
 
-## art:2.10.2.6.8 — Gastos sobre los que operan la deducción
+## art:2.10.2.6.8 — -Gastos sobre los que operan la deducción
 
 Son deducibles todos los gastos que realice el propietario nacional de la obra audiovisual declarada como bien de interés cultural, para la conservación y mantenimiento directos del respectivo soporte material de fijación, entendiéndose por éstos la adquisición de insumos o equipos y los que efectúe para contratar servicios especializados de preservación del soporte, tales como almacenaje en condiciones ambientales y demás técnicamente requeridas, duplicación, restauración, o acciones de intervención similares.
 
@@ -10580,8 +10446,6 @@ PARÁGRAFO 3. Son deducibles los gastos que se efectúen, para la expedición de
 PARÁGRAFO 4 -En todos los casos, son deducibles sólo los gastos que efectúe el propietario nacional para la duplicación de obras de interés cultural, para la conservación y mantenimiento de los elementos de tiraje de su propiedad o en la proporción de propiedad que tenga en los mismos.
 
 (Decreto 358 de 2000, Artículo 22)
-
-ARTÍCULO
 
 ## art:2.10.2.6.9 — Plan de conservación y mantenimiento
 
@@ -10670,6 +10534,28 @@ Conforme a lo previsto en los Artículos 4 y 5, numeral 2, de la Ley 1556 de 201
 La cobertura de costos administrativos del contrato o convenio respectivo no podrá superar un 10% del presupuesto anual del FFC. Estos costos incluyen entre otros, los que ocasione la administración fiduciaria y los de control del FFC.
 
 (Decreto 437 de 2013, Artículo 1)
+
+## art:2.10.3.1.2 — Estipulaciones mínimas
+
+En el caso de que el Ministerio de Comercio, Industria y Turismo opte por contratar bajo el régimen del Artículo 96 de la Ley 489 de 1998 según lo dispuesto en el Artículo anterior, además de los aspectos que conforme a la mencionada norma se consideren pertinentes, estipulará los siguientes:
+
+1. El régimen de los Contratos Filmación Colombia que celebre la entidad respectiva con los productores cinematográficos que se acojan a la contraprestación establecida en la Ley 1556 de 2012.
+
+2. Condiciones de los Contratos Filmación Colombia y de los desembolsos de la contraprestación de la Ley 1556 de 2012.
+
+3. La posibilidad de constitución de patrimonios autónomos si así lo autoriza el Comité Promoción Fílmica Colombia según lo establecido en el Artículo 3, parágrafo 1, de la Ley 1556 de 2012.
+
+4. La reinversión de excedentes del Fondo Fílmico Colombia en actividades propias del mismo conforme al convenio de asociación, o a la constitución de los patrimonios autónomos que defina el Comité Promoción Fílmica Colombia.
+
+5. Cubrimiento de costos administrativos relativos al manejo del Fondo Fílmico Colombia.
+
+6. Manejo separado de los recursos del Fondo Fílmico Colombia, respecto de los demás que pertenezcan, administre o ejecute la entidad respectiva.
+
+(Decreto 437 de 2013, Artículo 2)
+
+CAPÍTULO II
+
+Comité Promoción Fílmica Colombia
 
 ## art:2.10.3.2.1 — Comité Promoción Fílmica Colombia
 
@@ -10947,8 +10833,6 @@ El ingreso obtenido por el productor extranjero por la transferencia del Certifi
 
 PARÁGRAFO . El Certificado de Inversión Audiovisual en Colombia podrá ser negociado en el mercado de valores, o transferido mediante endoso por la empresa productora titular del proyecto audiovisual. El adquirente del Certificado de Inversión Audiovisual en Colombia podrá aplicarlo en su declaración de renta del período gravable en el cual se emita el Certificado correspondiente o para el pago de las autorretenciones de los periodos del año en el cual se emita el Certificado."
 
-ARTÍCULO
-
 ## art:2.10.3.5.10 — .10
 
 Términos y Condiciones de los Certificados de Inversión Audiovisual en Colombia: Los Certificados de Inversión Audiovisual en Colombia tendrán los siguientes términos y condiciones:
@@ -11092,8 +10976,6 @@ Exclusivamente para lo relacionado con el cumplimiento de sus funciones, con la 
 Mediante acto de carácter general, el Ministro de Cultura establecerá las funciones a cargo de la secretaría del Comité, las cuales deben procurar una fácil y pronta gestión administrativa en la materia.
 
 (Decreto 358 de 2000, Artículo 29)
-
-ARTÍCULO
 
 ## art:2.10.5.1.5 — Procedimiento para la clasificación de películas
 
@@ -11315,27 +11197,25 @@ CAPÍTULO I
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.12.1.1.1 — Objeto
 
 Este Título reglamenta las condiciones de las Áreas de Desarrollo Naranja (ADN) en el territorio nacional.
-
-ARTÍCULO
 
 ## art:2.12.1.1.2 — Áreas de Desarrollo Naranja
 
 Las Áreas de Desarrollo Naranja (ADN) son espacios geográficos delimitados y reconocidos a través de instrumentos de ordenamiento territorial, en particular en los Planes de Ordenamiento Territorial conforme con lo previsto en la Ley 388 de 1997; o configurados mediante decisiones administrativas adoptadas por la alcaldía municipal o distrital.
 
-ARTÍCULO
+## art:2.12.1.1.3 — Propósito de las Áreas de Desarrollo Naranja
+
+Las Áreas de Desarrollo Naranja (ADN), tienen como propósito incentivar y fortalecer las actividades culturales y creativas previstas en el artículo 2 de la Ley 1834 de 2017, en sectores como los editoriales, audiovisuales, fonográficos, artes visuales, artes escénicas y espectáculos, de turismo y patrimonio cultural material e inmaterial, educación artística y cultural, diseño, publicidad, contenidos multimedia, software de contenidos y servicios audiovisuales interactivos, moda, agencias de noticias y servicios de información, y educación creativa.
+
+Mediante estas actividades, las Áreas de Desarrollo Naranja (ADN) deberán operar como centros de actividad económica y creativa, que contribuyan a la renovación urbana y al mejoramiento del área de ubicación, .al emprendimiento, el empleo, el turismo, la recuperación del patrimonio cultural construido, la conservación medioambiental, la transferencia de conocimientos, el sentido de pertenencia, la inclusión social y el acceso ciudadano a la oferta cultural y creativa.
 
 ## art:2.12.1.1.4 — Caracterización sectorial
 
 Los sectores enunciados en el artículo anterior comprenden campos macro de acción artística y cultural e involucran, a título enunciativo, cine, tv, videojuegos, animación, publicidad, publicidad digital, música, producción de contenidos digitales, medios de comunicación, así como la cadena de valor desde los procesos de formación, creación, desarrollo, producción, postproducción, circulación, distribución hasta la comunicación pública de los bienes, servicios, obras o contenidos respectivos.
 
 Cada Área de Desarrollo Naranja (ADN) puede focalizarse en una de estas actividades 9 tener carácter intersectorial cuando involucre varias.
-
-ARTÍCULO
 
 ## art:2.12.1.1.5 — Caracterización espacial
 
@@ -11346,8 +11226,6 @@ Las Áreas de Desarrollo Naranja (ADN) pueden constituirse como una zona geográ
 2. Espacios circunscritos a inmuebles determinados, declarados como Bien de Interés Cultural (BIC) del ámbito nacional o territorial en la categoría del Grupo Urbano - Sector Urbano (fracción del territorio de una población dotada de fisionomía, características y de rasgos distintivos que le confieran cierta unidad y particularidad), o del Grupo Arquitectónico (construcciones de arquitectura habitacional, institucional, comercial, industrial, militar, religiosa, o para. el transporte y obras de energía), según la caracterización descrita en el artículo 2.4.1.1.2 de este decreto. Se requiere en este último caso que la declaratoria contemple la zona de influencia del Bien de Interés Cultural (BIC) y que este dinamice una propuesta a nivel económico, social y cultural que impacte su área de influencia o el área geográfica específica.
 
 PARÁGRAFO . Si el bien o conjunto de bienes contare con un Plan Especial de Manejo y Protección (PEMP), la definición del Área de Desarrollo Naranja (ADN) deberá preservar los lineamientos allí establecidos. En todo caso, el respectivo Plan Especial de Manejo y Protección (PEMP) puede revisarse siguiendo el procedimiento fijado en las Leyes 397 de 1997 y 1185 de 2008, y en el presente decreto, en función de apoyar la vocación de la respectiva Área de Desarrollo Naranja (ADN).
-
-ARTÍCULO
 
 ## art:2.12.1.1.6 — Autonomía territorial
 
@@ -11361,15 +11239,11 @@ De acuerdo con las facultades que otorga el artículo 179 de la Ley 1955 de 2019
 
 En los procesos de identificación y registro que lleven a cabo las entidades territoriales competentes se seguirá un criterio de gratuidad y no establecimiento de nuevos trámites o requisitos. La identificación y registro de las actividades y beneficiarios se hará mediante la consulta por parte de las entidades territoriales del listado de códigos CIIU de la Cuenta Satélite de Cultura y Economía Naranja a cargo del Ministerio de Cultura y el Departamento Administrativo Nacional de Estadística -DANE.
 
-ARTÍCULO
-
 ## art:2.12.1.1.7 — Constitución e identificación de Áreas de Desarrollo Naranja (ADN)
 
 La constitución e identificación precisa de las Áreas de Desarrollo Naranja (ADN) está comprendida dentro de la órbita de competencia de las entidades territoriales, conforme con las iniciativas de los particulares, las -entidades públicas y las asociaciones público - privadas.
 
 En las peticiones que formulen los ciudadanos o comunidades en cuanto a Áreas de Desarrollo Naranja las autoridades competentes atenderán lo dispuesto en la Ley 1755 de 2015,
-
-ARTÍCULO
 
 ## art:2.12.1.1.8 — Guía metodológica
 
@@ -11381,13 +11255,9 @@ CAPÍTULO I
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.12.2.1.1 — Incentivo tributario a proyectos de economía creativa
 
 De conformidad con lo establecido en el artículo 180 de la Ley 1955 de 2019, este Título reglamenta las condiciones mediante las cuales podrá aplicarse el incentivo tributario de deducción por inversiones y donaciones a proyectos de economía creativa establecido en el artículo 196 de la Ley 1607 de 2012 con ocasión de las inversiones o donaciones que se hagan a proyectos de economía creativa.
-
-ARTÍCULO
 
 ## art:2.12.2.1.2 — Campos elegibles
 
@@ -11401,13 +11271,9 @@ Los campos de actividad creativa y cultural elegibles para ser amparados con el 
 
 PARÁGRAFO . Dentro de los campos antes descritos la convocatoria de aplicación del incentivo, definirá las tipologías de proyectos que pueden concursar.
 
-ARTÍCULO
-
 ## art:2.12.2.1.3 — Alcance del beneficio
 
 El monto real invertido o donado en dinero efectivo, con destino exclusivo a los proyectos que resulten seleccionados en la convocatoria de aplicación, darán derecho al inversionista o donante a una deducción de su renta correspondiente al ciento sesenta y: cinco por ciento (165%) del valor real invertido o donado por el periodo gravable en que se realice la inversión o donación, si cumple con todos los parámetros y condiciones establecidos en los artículos 179 y 180 de la Ley 1955 de 2019, en este Título y en la convocatoria de aplicación.
-
-ARTÍCULO
 
 ## art:2.12.2.1.4 — Cupo anual amparado con el incentivo
 
@@ -11416,8 +11282,6 @@ El Consejo Nacional de la Economía Naranja creado en la Ley 1834 de 2017 y regl
 CAPITULO II
 
 CONVOCATORIA DE APLICACIÓN
-
-ARTÍCULO
 
 ## art:2.12.2.2.1 — Convocatoria de aplicación
 
@@ -11438,8 +11302,6 @@ La apertura de la convocatoria de aplicación se realizará en los primeros cuat
 6. Suscripción de documentos y compromisos para ejecución del proyecto.
 
 *jurisprudencia*
-
-ARTÍCULO
 
 ## art:2.12.2.2.2 — Contenido
 
@@ -11467,19 +11329,13 @@ Sin perjuicio de otros parámetros que defina la. convocatoria. de aplicación, 
 
 PARÁGRAFO . La convocatoria de aplicación tendrá como base el monto o cupo máximo de inversión o donación susceptible de ser amparada con el incentivo tributario de deducción por inversiones y donaciones a proyectos de economía creativa de que trata el artículo 180 de la Ley 1955 de 2019, fijado por el Consejo Nacional de la Economía Naranja para cada vigencia.
 
-ARTÍCULO
-
 ## art:2.12.2.2.3 — Proyectos de los programas nacionales de Estímulos y Concertación
 
 La convocatoria de aplicación considerará positivamente en los parámetros de evaluación, la circunstancia de que los proyectos en curso hubieran sido seleccionados dentro de los programas nacionales de Estímulos y Concertación del Ministerio de Cultura.
 
-ARTÍCULO
-
 ## art:2.12.2.2.4 — Proyectos de ADN
 
 Los proyectos postulados que hagan parte de Áreas de Desarrollo Naranja (AON), en la forma establecida en el Título I de este decreto, podrán ser beneficiarios del incentivo tributario de deducción por inversiones y donaciones a proyectos de economía creativa de que trata el artículo 180 de la Ley 1955 de 2019, reglamentado en el presente Título. La convocatoria de aplicación definirá, del mismo modo, las condiciones de postulación.
-
-ARTÍCULO
 
 ## art:2.12.2.2.5 — Otros campos
 
@@ -11499,8 +11355,6 @@ La convocatoria de aplicación definirá cuáles proyectos no corresponden a los
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.12.2.2.7 — Seguimiento
 
 La convocatoria de aplicación determinará, del mismo modo, la forma de seguimiento al cumplimiento estricto de los proyectos avalados. El seguimiento cobijará aspectos de ejecución, impactos esperados, y componentes financieros, incluido el uso efectivo del incentivo reglamentado en este Título.
@@ -11513,8 +11367,6 @@ CAPÍTULO III
 
 APLICACIÓN DEL INCENTIVO
 
-ARTÍCULO
-
 ## art:2.12.2.3.1 — Destinatarios
 
 Los destinatarios del incentivo tributario de deducción por inversiones y donaciones a proyectos de economía creativa de que trata el artículo 180 de la Ley 1955 de 2019, reglamentado en este Título, pueden ser:
@@ -11524,8 +11376,6 @@ Los destinatarios del incentivo tributario de deducción por inversiones y donac
 2. Micro, pequeñas y medianas empresas cuyo objeto social sea de carácter cultural, creativo o social, que hagan inversiones en proyectos propios asociados a las industrias culturales o creativas.
 
 Las inversiones o donaciones que pretendan ser objeto del incentivo tributario de que trata este Título serán exclusivamente en dinero.
-
-ARTÍCULO
 
 ## art:2.12.2.3.2 — Cobertura
 
@@ -11540,8 +11390,6 @@ Lo dispuesto en el inciso anterior aplica en proyectos de inversión propia de m
 PARÁGRAFO 1. Los proyectos postulados a la convocatoria no podrán exceder los tres (3) años de ejecución. Para el segundo (2) año en adelante no será necesario participar nuevamente en la convocatoria de aplicación sino acreditar el cumplimiento del proyecto. En los proyectos que utilicen el mecanismo de patrimonio autónomo se debe acreditar la vigencia de este para cada año del proyecto.
 
 *jurisprudencia*
-
-ARTÍCULO
 
 ## art:2.12.2.3.3 — Manejo fiduciario
 
@@ -11567,8 +11415,6 @@ PARÁGRAFO . No es obligatorio la constitución de una fiducia mercantil en proy
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.12.2.3.4 — Emisión de Certificados de Inversión o Donación en Proyectos de Economía Creativa
 
 Modificado pr el Art. 5 del Decreto 624 de 2022. La emisión de los Certificados de Inversión o Donación en Proyectos de Economía Creativa está a cargo del Ministerio de Cultura, basándose en las acreditaciones que le presente la entidad. que realice la convocatoria de aplicación sobre el desembolso y destinación de los recursos.
@@ -11576,8 +11422,6 @@ Modificado pr el Art. 5 del Decreto 624 de 2022. La emisión de los Certificados
 Los Certificados de Inversión y Donación - CID podrán emitirse y circular de manera desmaterializada según lo defina el Ministerio de Cultura, caso en el cual, la entidad que realice la convocatoria celebrará el respectivo contrato con un Depósito Central de Valores y cuyos costos serán cubiertos por el porcentaje definido para cubrir los costos de la convocatoria, de acuerdo con lo dispuesto en el parágrafo 1° del Artículo 180 de la ley 1955 de 2019."
 
 *jurisprudencia*
-
-ARTÍCULO
 
 ## art:2.12.2.3.5 — Contenido de los Certificados de Inversión o Donación en Proyectos de Economía Creativa
 
@@ -11605,8 +11449,6 @@ PARÁGRAFO 2. Las donaciones efectuadas a entidades sin ánimo de lucro que haya
 
 *jurisprudencia*
 
-ARTÍCULO
-
 ## art:2.12.2.3.6 — 3.6
 
 Características de los Certificados de Inversión y Donación en Proyectos de Economía Creativa: Los Certificados de Inversión y Donación en Proyectos de Economía Creativa que se generen para amparar el incentivo serán a la orden negociables en el mercado y por lo tanto tendrán las siguientes características:
@@ -11629,19 +11471,13 @@ f) Vigencia. Tienen vigencia máxima de dos (2) años a partir de su entrega efe
 
 g) Fraccionamiento. Los Certificados de Inversión y Donación en Proyectos de Economía Creativa podrán ser fraccionados y utilizados de manera parcial antes de su vencimiento.
 
-ARTÍCULO
-
 ## art:2.12.2.3.7 — No concurrencia de beneficios
 
 En ningún caso podrá ser tratada como deducción por el inversionista o donante el valor contenido en un título cuando éste sea negociado. Cuando los certificados de inversión o donación hayan sido negociados, sólo podrá hacer uso de la deducción dentro del término previsto en el presente decreto, el adquirente del respectivo valor a la orden denominado en moneda legal colombiana.
 
-ARTÍCULO
-
 ## art:2.12.2.3.8 — Fiscalización
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, en ejercicio de las amplias facultades de fiscalización prevista en el artículo 684 del Estatuto Tributario y .demás disposiciones concordantes, adelantan los procesos de fiscalización y sancionatorios, cuando hubiere lugar a ello, para asegurar el efectivo cumplimiento de las normas sustanciales, y en especial la correcta aplicación de los artículos 179 y 180 de la Ley 1955 de 2019 y las disposiciones reglamentarias del presente decreto.
-
-ARTÍCULO
 
 ## art:2.12.2.3.9 — Responsabilidad de las entidades fiduciarias
 
@@ -11659,15 +11495,11 @@ CAPÍTULO IV
 
 OPERATIVIDAD DEL INCENTIVO
 
-ARTÍCULO
-
 ## art:2.12.2.4.1 — Implementación del Incentivo
 
 La entidad encargada de implementar las condiciones para la aplicación del incentivo tributario de deducción por inversiones y donaciones a proyectos de economía creativa regulado en este Título es el Ministerio de Cultura.
 
 El Ministerio de Cultura establecerá mediante Resolución los aspectos específicos del mismo, así como los requisitos para expedición de los certificados de inversión o donación correspondientes, dentro de los parámetros previstos en los artículos 179 y 180 de la Ley 1955 de 2019 y en este Título, y efectuará las delegaciones internas que sean pertinentes de acuerdo con las competencias institucionales previstas en el Decreto 2120 de 2018 y las normas que lo modifiquen, sustituyan, desarrollen o complementen.
-
-ARTÍCULO
 
 ## art:2.12.2.4.2 — Convenio de asociación
 
@@ -11683,13 +11515,9 @@ PARÁGRAFO 3. Los excedentes y los rendimientos financieros de los recursos menc
 
 (Modificado por el Art. 6 del Decreto 1702 de 2020)
 
-ARTÍCULO
-
 ## art:2.12.3.1.3 — Líneas de la política
 
 De acuerdo con lo establecido en el artículo 5 de la Ley 1834 de 2017 "por medio de la cual se fomenta la economía creativa ley naranja" que establece la estrategia de la gestión pública de la economía creativa a través de las 7i, para efectos de la Política Integral Naranja y el presente Decreto se desarrollan como 7 líneas estratégicas.
-
-ARTÍCULO
 
 ## art:2.12.3.1.4 — Línea 1 Información
 
@@ -11705,8 +11533,6 @@ La implementación de esta línea se realizará a través de las siguientes acci
 
 3. Organizar, sistematizar y divulgar la información y el conocimiento sectorial.
 
-ARTÍCULO
-
 ## art:2.12.3.1.5 — Línea 2
 
 Instituciones. Línea que se denomina fortalecimiento y articulación institucional, financiación e incentivos. Esta línea busca la coordinación de la gestión administrativa que permita involucrar al sector público, privado, mixto y no gubernamental, que permita articular de forma adecuada los postulados de la Economía Creativa.
@@ -11720,8 +11546,6 @@ La implementación de esta línea se realizará a través de las siguientes acci
 2. Consolidar, ofertar y gestionar instrumentos de financiación pertinentes para las necesidades y modelos de negocio o emprendimiento del sector.
 
 3. Priorizar las acciones de la política a nivel territorial.
-
-ARTÍCULO
 
 ## art:2.12.3.1.6 — Línea 3 Industria
 
@@ -11739,8 +11563,6 @@ La implementación de esta línea se realizará a través de las siguientes acci
 
 4. Dar a conocer y fomentar el acceso a instrumentos que benefician de manera transversal todo el sector Cultural y Creativo.
 
-ARTÍCULO
-
 ## art:2.12.3.1.7 — Línea 4 Infraestructura
 
 Esta línea busca el desarrollo de la infraestructura necesaria para que, en el marco de las competencias del Gobierno nacional y los gobiernos locales, se privilegie la inversión en infraestructura física e infraestructura virtual, así como a su acceso inclusivo. La política establece la línea territorios e infraestructuras sostenibles para el despliegue de los procesos creativos.
@@ -11754,8 +11576,6 @@ La implementación de esta línea se realizará a través de las siguientes acci
 2. Estimular el desarrollo de Áreas de Desarrollo Naranja (ADN) en todo el territorio nacional (artículo 179 de la ley 1955 de 2019).
 
 3. Fortalecer el uso de los instrumentos de financiación existente para la construcción o el mejoramiento de la infraestructura cultural y creativa.
-
-ARTÍCULO
 
 ## art:2.12.3.1.8 — Línea 5 Integración
 
@@ -11775,8 +11595,6 @@ La implementación de esta línea se realizará a través de las siguientes acci
 
 5. Poner en marcha las proyectos de interés nacional estratégicos de vocación naranja - PINES Naranja.
 
-ARTÍCULO
-
 ## art:2.12.3.1.9 — Línea 6 Inclusión
 
 Esta línea busca que las industrias creativas se conviertan en vehículos de integración y resocialización como generadoras de oportunidades laborales y económicas. Plantea el desarrollo de capacidades, inclusión y acceso a oportunidades.
@@ -11792,8 +11610,6 @@ La implementación de esta línea se realizará a través de las siguientes acci
 3. Fortalecer el desarrollo integral de habilidades y competencias propias del saber artístico, cultural y tecnológico en la educación básica y media.
 
 4. Implementar el Sistema Nacional de Educación, Formación Artística y Cultural SINEFAC
-
-ARTÍCULO
 
 ## art:2.12.3.1.10 — Línea 7 Inspiración
 
@@ -11815,15 +11631,11 @@ CAPITULO II
 
 IMPLEMENTACIÓN, SEGUIMIENTO, EVALUACIÓN Y OTRAS CONSIDERACIONES
 
-ARTÍCULO
-
 ## art:2.12.3.2.1 — Implementación
 
 El Ministerio de Cultura y el Consejo Nacional de Economía Naranja liderarán de manera conjunta la implementación de la Política Integral Naranja.
 
 PARÁGRAFO : Las entidades responsables de la ejecución de la Política Integral Naranja estarán definidas en el plan de acción que adopte el Comité Técnico, sin perjuicio de lo dispuesto en el presente Decreto.
-
-ARTÍCULO
 
 ## art:2.12.3.2.2 — Comité Técnico
 
@@ -11837,8 +11649,6 @@ Con base en lo dispuesto en el artículo 6 del Decreto 1935 de 2018, se conforma
 
 4. Las demás necesarias para llevar a cabo la implementación de la Política Integral Naranja.
 
-ARTÍCULO
-
 ## art:2.12.3.2.3 — Plan de Acción
 
 Dentro de los tres (3) meses siguientes a la entrada en vigencia del presente Decreto, se formulará el Plan de Acción que concrete los ejes, líneas de acción, responsables, metas e indicadores para dar cumplimiento a la Política que se adopta.
@@ -11847,21 +11657,15 @@ PARÁGRAFO 1.- El Plan de Acción deberá ser formulado en coordinación con las
 
 PARÁGRAFO 2.- Una vez formulado el Plan de Acción, deberá ser puesto en consideración y aprobado por el Consejo Nacional de Economía Naranja para proceder a su implementación.
 
-ARTÍCULO
-
 ## art:2.12.3.2.4 — Participación
 
 El Comité Técnico podrá generar espacios de participación de actores públicos y privados que permitan, realizar aportes e integrar elementos que permitan propiciar la implementación del Plan de Acción.
-
-ARTÍCULO
 
 ## art:2.12.3.2.5 — 
 
 2.12.3.2.5.- Seguimiento y evaluación, el Ministerio de Cultura, de manera conjunta con el Consejo Nacional de Economía Naranja serán los encargados de adelantar el proceso de seguimiento del Plan de Acción de la política de acuerdo con la metodología de indicadores que se defina en el mismo.
 
 El comité técnico señalado en el artículo 2.12 .3.2.2. del presente Decreto deberá presentar los reportes sobre el estado del cumplimiento del plan de acción que requieran el Ministerio de Cultura o el Consejo Nacional de Economía Naranja para la correspondiente evaluación de la Política Integral Naranja. De igual manera, le corresponde al comité presentar un informe anual en la última sesión del Consejo Nacional de Economía Naranja en el que se consolide el registro de las labores de implementación de la política; la efectividad y eficiencia de las acciones desplegadas; y el estado de logros obtenidos en la vigencia y las recomendaciones para la acción de implementación de la política.
-
-ARTÍCULO
 
 ## art:2.12.3.2.6 — Financiación
 
@@ -12052,91 +11856,3 @@ Dado en Bogotá, D.C., a los 26 días del mes de mayo del año 2015
 MARIANA GÁRCES CÓRDOBA
 
 LA MINISTRA DE CULTURA
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

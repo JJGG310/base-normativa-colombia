@@ -7,7 +7,7 @@ ramas: [transicional, penal, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1957_2019.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — GARANTÍA DE LOS DERECHOS DE LAS VÍCTIMAS
@@ -389,18 +389,6 @@ La Sala de Definición de Situaciones Jurídicas también tendrá la función de
 
 Las competencias de la Sala de Definición de Situaciones Jurídicas previstas en los artículos 84 y 85 de esta ley también se aplicarán en lo pertinente a los agentes del Estado para hacer efectivo lo establecido en el presente título.
 
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:44 — MECANISMOS DE TRATAMIENTO ESPECIAL DIFERENCIADO PARA AGENTES DEL ESTADO
 ubicacion: TÍTULO III. TRATAMIENTOS PENALES ESPECIALES DIFERENCIADOS PARA AGENTES DEL ESTADO. > CAPÍTULO II. MECANISMOS DE TRATAMIENTO ESPECIAL DIFERENCIADO PARA AGENTES DEL ESTADO.
 
@@ -428,7 +416,7 @@ El agente del Estado que solicite la aplicación de este mecanismo deberá acomp
 
 Cuando el procedimiento se inicie de oficio, la Sala de Definición de Situaciones Jurídicas recaudará los elementos de juicio que considere necesarios para determinar que la conducta fue cometida por causa, con ocasión o en relación directa o indirecta con el conflicto armado.
 
-<Aparte subrayado CONDICIONALMENTE constitucional> Determinado lo anterior, la sala ordenará la renuncia a la persecución penal siempre que no se trate de conductas constitutivas de delitos de lesa humanidad, el genocidio, los crímenes de guerra, la toma de rehenes u otra privación grave de la libertad, la tortura, las ejecuciones extrajudiciales, la desaparición forzada, el acceso carnal violento y otras formas de violencia sexual, la sustracción de menores, el desplazamiento forzado, además del reclutamiento de menores conforme a lo establecido en el Estatuto de Roma, ni de delitos contra el servicio, la disciplina, los intereses de la Fuerza Pública, el honor y la seguridad de la Fuerza Pública, contemplados en el Código Penal Militar.
+<Aparte subrayado CONDICIONALMENTE constitucional> Determinado lo anterior, la sala ordenará la renuncia a la persecución penal siempre que no se trate de conductas constitutivas de delitos de lesa humanidad, el genocidio, los crímenes de guerra, la toma de rehenes u otra privación grave de la libertad, la tortura, las ejecuciones extrajudiciales, la desaparición forzada, el acceso carnal violento y otras formas de violencia sexual, la sustracción de menores, el desplazamiento forzado, además del [TACHADO: reclutamiento de menores conforme a lo establecido en el Estatuto de Roma], ni de delitos contra el servicio, la disciplina, los intereses de la Fuerza Pública, el honor y la seguridad de la Fuerza Pública, contemplados en el Código Penal Militar.
 
 Una vez proferida la resolución que otorgue la renuncia a la persecución penal, será remitida a la autoridad judicial que esté conociendo de la causa penal, para que dé cumplimiento a lo decidido por la Sala de Definición de Situaciones Jurídicas y materialice los efectos de extinción de la acción penal, de la responsabilidad penal y de la sanción penal según corresponda.
 
@@ -744,12 +732,12 @@ ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PA
 El Procurador General de la Nación, por sí o por sus delegados y agentes, podrá intervenir en las actuaciones y los procesos que se surtan en la JEP, de conformidad con el artículo 277 de la Constitución Política, en defensa de los derechos de las víctimas y el orden jurídico. La ley establecerá la estructura y los recursos requeridos para que la Procuraduría General de la Nación cumpla con lo establecido en el Acto Legislativo número 01 de 2017 y la presente ley.
 
 ## art:78 — COMPOSICIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La conformación de la JEP es la prevista en el artículo transitorio 7o del Acto Legislativo número 01 de 2017.
 
 ## art:79 — FUNCIONES DE LA SALA DE RECONOCIMIENTO
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sala de reconocimiento de verdad y responsabilidad y de determinación de los hechos y conductas tendrá las siguientes funciones:
 
@@ -808,7 +796,7 @@ u) Cuando tres meses antes de presentar la resolución de conclusiones, a juicio
 PARÁGRAFO. <Parágrafo CONDICIONALMENTE constitucional> En las resoluciones de conclusiones que remita a las demás Salas y Secciones de la JEP, así como a la Unidad de Investigación y Acusación, la Sala de Reconocimiento identificará a la persona que se reconoce como indígena siempre que esta lo solicite, e identificará los hechos victimizantes que involucren a pueblos indígenas o a sus integrantes.
 
 ## art:80 — RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 El reconocimiento de verdad y responsabilidad por la realización de las conductas podrá hacerse de manera individual o colectiva, de forma oral o mediante escrito remitido a la Sala de Reconocimiento de Verdad y Responsabilidad de la JEP, desde que se hayan recibido los informes mencionados en el artículo 79 de esta ley y una vez instalada la Sala.
 
@@ -821,7 +809,7 @@ La Sala podrá acordar que el reconocimiento de verdad y responsabilidad se efec
 2. SALA DE AMNISTÍA O INDULTOS.
 
 ## art:81 — SALA DE AMNISTÍA O INDULTOS
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sala de amnistía o indultos aplicará estos tratamientos jurídicos especiales por los delitos amnistiables o indultables, teniendo a la vista las recomendaciones de la Sala de Reconocimiento de Verdad y Responsabilidad y determinación de los hechos.
 
@@ -832,7 +820,7 @@ Concedida la amnistía, indulto o renuncia a la acción penal, la Sala de Amnist
 A efectos de conceder amnistía, realizará la calificación de la relación de la conducta con relación al ejercicio de la rebelión y otros delitos políticos, conforme a lo previsto en la Ley 1820 de 2016 y en esta ley.
 
 ## art:82 — PRINCIPIOS APLICABLES POR LA SALA DE AMNISTÍA E INDULTO
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 A la terminación de las hostilidades la amnistía para los rebeldes únicamente estará condicionada a la finalización de la rebelión de las respectivas organizaciones armadas y al cumplimiento de lo establecido en el Acuerdo Final, sin perjuicio de lo dispuesto en el inciso 1 y el parágrafo 2 del artículo 40 de esta ley. La finalización de la rebelión a efecto de acceder a la amnistía o indulto, se apreciará conforme a lo definido en el Acuerdo Final.
 
@@ -843,7 +831,7 @@ Se aplicará el artículo 6.5 del Protocolo II de los Convenios de Ginebra, del 
 <Aparte subrayado CONDICIONALMENTE constitucional> Conforme a la anterior disposición, se amnistiarán e indultarán los delitos políticos y conexos cometidos en el desarrollo de la rebelión por las personas que formen parte de los grupos rebeldes con los cuales se firme un acuerdo de paz. Respetando, lo establecido en el Acuerdo Final, en la Ley 1820 de 30 de diciembre de 2016, y en la presente ley, para la aplicación de la amnistía se tendrán en cuenta de manera clara y precisa los delitos amnistiables o indultables y los criterios de conexidad. La pertenencia al grupo rebelde será determinada, previa entrega de un listado por dicho grupo, conforme a lo que se estableció entre las partes para su verificación en el Acuerdo Final. Entre los delitos políticos y conexos se incluyen todos los indicados como, tales en la Ley 1820 de 30 de diciembre de 2016, además de otros delitos que la Sala de Amnistía e Indulto considere conexos al delito político.
 
 ## art:83 — CRITERIOS PARA DETERMINAR LA CONEXIDAD CON EL DELITO POLÍTICO DE DISTINTAS CONDUCTAS PERPETRADAS EN EL EJERCICIO DE LA REBELIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La conexidad con el delito político comprenderá dos criterios, uno de tipo incluyente y otro de tipo restrictivo. Ei primer criterio consistirá en incluir como conexos: 1.- aquellos delitos relacionados específicamente con el desarrollo de la rebelión cometidos con ocasión del conflicto armado, como es por ejemplo la aprehensión de combatientes efectuada en operaciones militares; 2.- los delitos en los cuales el sujeto pasivo de la conducta es el Estado y su régimen constitucional vigente; y 3.- las conductas dirigidas a facilitar, apoyar, financiar u ocultar el desarrollo de la rebelión, para lo cual deberán definirse cada uno de los contenidos de las anteriores conductas. Se entenderá como conducta dirigida a financiar la rebelión todas aquellas conductas ilícitas de las que no se haya derivado enriquecimiento personal de los rebeldes ni sean consideradas crimen de lesa humanidad, crimen de guerra o genocidio.
 
@@ -854,7 +842,7 @@ La Sala de Amnistía e Indulto determinará la conexidad con el delito político
 3. SALA DE DEFINICIÓN DE SITUACIONES JURÍDICAS.
 
 ## art:84 — FUNCIONES DE LA SALA DE DEFINICIÓN DE SITUACIONES JURÍDICAS
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sala de definición de situaciones jurídicas tendrá las siguientes funciones:
 
@@ -885,21 +873,21 @@ k) Proferir resoluciones de renuncia a la persecución penal, cesación de proce
 l) Conceder a los agentes del Estado la renuncia a la persecución penal, de conformidad con lo establecido en el Título III, Capítulo II de la Presente Ley Estatutaria.
 
 ## art:85 — CESACIÓN DE PROCEDIMIENTOS
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sala de definición de situaciones jurídicas podrá aplicar mecanismos de cesación de procedimientos con miras a la extinción de la responsabilidad o podrá remitir dicha información a la Sala de Amnistía e indulto para lo de su competencia, cuando se trate de contextos relacionados con el ejercicio del derecho a la protesta o disturbios internos. Las autoridades estatales, las organizaciones sociales, sindicales, de derechos humanos y procesos que hacen parte de la Cumbre Agraria, Étnica y Popular allegarán la información a la Sala cuando se trate de los siguientes delitos: asonada, obstrucción de vías públicas, lanzamiento de sustancias peligrosas, violencia contra servidor público, perturbación del servicio de transporte público, daños en bien ajeno, lesiones personales y demás delitos ocasionados en el marco de la Ley de Seguridad Ciudadana. Las autoridades y organizaciones indígenas, así como la Comisión de Derechos Humanos de los Pueblos Indígenas también podrán allegar dicha información.
 
 4. UNIDAD DE INVESTIGACIÓN Y ACUSACIÓN.
 
 ## art:86 — COMPETENCIA
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 Corresponde a la Unidad de Investigación y Acusación realizar las investigaciones y adelantar el ejercicio de la acción penal ante el Tribunal para la Paz respecto a todas las conductas competencias de la JEP cuando se den los supuestos establecidos en el artículo 79 literal a) de esta ley respecto de los casos que conforme a esta ley le deban ser remitidos, para lo cual podrá solicitar la colaboración de la Defensoría del Pueblo, de la Fiscalía General de la Nación, de otros órganos del Estado, y de las organizaciones de víctimas y de derechos humanos colombianas. Valorará la información recibida por las anteriores instituciones y podrá establecer acuerdos de cooperación con todas ellas.
 
 La Unidad de Investigación y Acusación mantendrá una comunicación fluida con los representantes de las víctimas. El Director de la Unidad elaborará un protocolo para el efecto.
 
 ## art:87 — FUNCIONES DE LA UNIDAD DE INVESTIGACIÓN Y ACUSACIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Unidad de Investigación y Acusación será el órgano que satisfaga el derecho de las víctimas a la justicia cuando no haya reconocimiento colectivo o individual de responsabilidad. Tendrá las siguientes funciones:
 
@@ -925,37 +913,25 @@ j) Articular y coordinar con la Jurisdicción Especial Indígena sobre asuntos d
 
 k) Las demás que establezca la ley de procedimiento de la JEP.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:88 — FUNCIONES DE POLICÍA JUDICIAL DE LA JEP Y DIRECCIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 Tendrán funciones permanentes de policía judicial, los analistas e investigadores de la Unidad de Investigación y Acusación, y, aquellos que eventualmente sean asignados a cada una de las salas y secciones de la JEP, quienes deberán tener las condiciones y calidades exigidas para los miembros de policía judicial de la Fiscalía General de la Nación. El Director de la Unidad de Investigación y Acusación, será el máximo director de la policía judicial de la JEP. Los magistrados de las Salas podrán comisionar a cualquier autoridad para la práctica de pruebas, mientras los magistrados de las Secciones y los fiscales de la JEP solo podrán hacerlo para la recolección de elementos materiales probatorios y evidencia física.
 
 ## art:89 — UNIDAD DE GESTIÓN Y JERARQUÍA
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 Los fiscales, investigadores y funcionarios de la Unidad de Investigación y Acusación están sujetos al principio de unidad de gestión y jerarquía. El reglamento de la JEP al que se refiere el artículo transitorio 12 del Acto Legislativo número 01 de 2017, contendrá los parámetros a partir de los cuales el director de la unidad debe expedir las normas tendientes a garantizar la materialización de este principio al interior de la Unidad.
 
 5. TRIBUNAL PARA LA PAZ.
 
 ## art:90 — CONFORMACIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 El Tribunal para la Paz, será conformado según lo previsto en el artículo transitorio 7o del Acto Legislativo número 01 de 2017, y será el órgano de cierre de la jurisdicción especial para la paz que se crea en el SIVJRNR.
 
 ## art:91 — SECCIONES DEL TRIBUNAL
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 El Tribunal para la Paz tendrá distintas Secciones.
 
@@ -972,7 +948,7 @@ PARÁGRAFO. Después de que el Tribunal para la Paz haya concluido sus funciones
 <Incisos INCONSTITUCIONALES>
 
 ## art:92 — SECCIÓN DE PRIMERA INSTANCIA PARA CASOS DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sección de primera instancia del Tribunal para la Paz para casos de reconocimiento de verdad y responsabilidad, tendrá las siguientes funciones:
 
@@ -989,7 +965,7 @@ e) Antes de imponer sanciones propias, verificar el cumplimiento de las condicio
 f) Las demás que establezca la ley de procedimiento de la JEP.
 
 ## art:93 — SECCIÓN DE PRIMERA INSTANCIA PARA CASOS DE AUSENCIA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sección de Primera Instancia del Tribunal para la Paz para casos de ausencia de reconocimiento de verdad y responsabilidad, tendrá las siguientes funciones:
 
@@ -1010,17 +986,17 @@ f) Al adoptar las decisiones el Tribunal podrá declarar que la conducta analiza
 g) Las demás que establezca la ley de procedimiento de la JEP y que no sean contrarias a lo establecido en el Punto 5.1.2 del Acuerdo Final.
 
 ## art:94 — REMISIÓN DE SENTENCIAS A LA COMISIÓN PARA EL ESCLARECIMIENTO DE LA VERDAD, LA CONVIVENCIA Y LA NO REPETICIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 Las sentencias en firme que profiera el Tribunal para la Paz se remitirán de inmediato a la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición.
 
 ## art:95 — PÉRDIDA DE EFECTOS DE LA AMNISTÍA O LA EXCLUSIÓN DE LA ACCIÓN PENAL
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 Cualquier decisión adoptada por un órgano jurisdiccional u otra autoridad que pretenda dejar sin efecto la amnistía, el indulto u otra medida adoptada en el sistema, tendrá que ser sometida al Tribunal para la Paz, para que este verifique si dicha decisión conculca los principios y normas del SIVJRNR.
 
 ## art:96 — SECCIÓN DE APELACIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 Son funciones de la Sección de apelación:
 
@@ -1033,7 +1009,7 @@ c) Decidir en segunda instancia las acciones de tutela instauradas en contra de 
 d) Las demás que establezca la ley de procedimiento de la JEP, siempre que no sean contrarias al Acto Legislativo número 01 de 2017 y a la presente ley.
 
 ## art:97 — SECCIÓN DE REVISIÓN
-ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DE
+ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
 La Sección de revisión del Tribunal para la paz tendrá las siguientes funciones:
 
@@ -1442,18 +1418,6 @@ Las sanciones propias de la JEP, que se impondrán a todos quienes reconozcan re
 
 El periodo máximo de cumplimiento de sanciones propias, por la totalidad de las sanciones impuestas, incluidos los concursos de delitos, será de ocho años. Comprenderán restricciones efectivas de libertades y derechos, tales como la libertad de residencia y movimiento, que sean necesarias para su ejecución, y además deberán garantizar la no repetición.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:127 — RESTRICCIÓN EFECTIVA
 ubicacion: TÍTULO IX. SANCIONES.
 
@@ -1796,51 +1760,3 @@ PARÁGRAFO 2o. Conforme a lo establecido en el artículo transitorio 20 del Acto
 ubicacion: TÍTULO XII.
 
 La presente ley tiene vigencia a partir de su promulgación, y deroga expresamente el numeral 11 del artículo 5o del Decreto número 898 de 2017.
-
-El Presidente del Honorable Senado de la República,
-
-Ernesto Macías Tovar.
-
-El Secretario General del Honorable Senado de la República,
-
-Gregorio Eljach Pacheco.
-
-El Presidente de la Honorable Cámara de Representantes,
-
-Alejandro Carlos Chacón Camargo.
-
-El Secretario General de la Honorable Cámara de Representantes,
-
-Jorge Humberto Mantilla Serrano.
-
-REPÚBLICA DE COLOMBIA - GOBIERNO NACIONAL
-
-Publíquese y ejecútese.
-
-Dada en Bogotá, D. C., a 6 de junio de 2019.
-
-IVÁN DUQUE MÁRQUEZ
-
-La Ministra del Interior,
-
-Nancy Patricia Gutiérrez Castañeda.
-
-El Viceministro de Política Criminal y Justicia Restaurativa, encargado del Empleo de Ministro de Justicia y del Derecho,
-
-Juan Francisco Espinosa Palacios.
-
-El Ministro de Defensa Nacional,
-
-Guillermo Botero Nieto
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.

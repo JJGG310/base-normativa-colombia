@@ -8,7 +8,7 @@ ramas: [ambiental, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_2811_1974.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — 
@@ -225,7 +225,7 @@ ubicacion: TITULO II. ACCION EDUCATIVA, USO DE MEDIOS DE COMUNICACION SOCIAL Y S
 
 Para ayudar a formar y mantener en la comunidad conocimiento y convicción suficientes sobre la necesidad de proteger el medio ambiente y de mantener bien los recursos naturales renovables, el gobierno, en los contratos sobre espacios de televisión o frecuencias de radiodifusión, estipulará cláusulas concernientes a su colaboración con las otras partes contratantes, en programas educativos y de divulgación apropiados para el cumplimiento de esos fines.
 
-## art:17 — Ver Notas del Editor
+## art:17 — 
 ubicacion: TITULO II. ACCION EDUCATIVA, USO DE MEDIOS DE COMUNICACION SOCIAL Y SERVICIO NACIONAL AMBIENTAL
 
 Créase el Servicio Nacional Ambiental Obligatorio que no excederá de un año y que será prestado gratuitamente. 
@@ -384,19 +384,7 @@ ubicacion: TITULO III. DE LOS RESIDUOS, BASURAS, DESECHOS Y DESPERDICIOS
 
 Los municipios deberán organizar servicios adecuados de recolección, transporte y disposición final de basuras. 
 
-La prestación de este servicio por personas naturales o jurídicas de derecho privado requerirá autorización ajustada a los requisitos y condiciones que establezca el gobierno. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La prestación de este servicio por personas naturales o jurídicas de derecho privado requerirá autorización ajustada a los requisitos y condiciones que establezca el gobierno.
 
 ## art:38 — 
 ubicacion: TITULO III. DE LOS RESIDUOS, BASURAS, DESECHOS Y DESPERDICIOS
@@ -627,7 +615,7 @@ c). El incumplimiento del concesionario a las condiciones impuestas o pactadas;
 
 d). El incumplimiento grave o reiterado de las normas sobre preservación de recursos, salvo fuerza mayor debidamente comprobadas, siempre que el interesado de aviso dentro de los quince días siguientes al acaecimiento de la misma; 
 
-e). <Ver Notas del Editor> No usar la concesión durante dos años; 
+e). No usar la concesión durante dos años; 
 
 f). La disminución progresiva o el agotamiento del recurso; 
 
@@ -700,19 +688,7 @@ Para los servicios de captación, almacenamiento y tratamiento de las aguas que 
 ## art:71 — 
 ubicacion: TITULO VII. RESTRICCIONES Y LIMITACIONES AL DOMINIO PRIVADO Y AL USO DE LOS RECURSOS NATURALES RENOVABLES DE INTERES SOCIAL O UTILID > CAPITULO II. DE LA ADQUISICION DE BIENES PARA DEFENSA DE RECURSOS NATURALES
 
-Para los efectos del inciso tercero del artículo 30 de la Constitución Nacional decláranse de utilidad pública e interés social los fines especificados en los dos artículos inmediatamente anteriores. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Para los efectos del inciso tercero del artículo 30 de la Constitución Nacional decláranse de utilidad pública e interés social los fines especificados en los dos artículos inmediatamente anteriores.
 
 ## art:72 — 
 ubicacion: TITULO VII. RESTRICCIONES Y LIMITACIONES AL DOMINIO PRIVADO Y AL USO DE LOS RECURSOS NATURALES RENOVABLES DE INTERES SOCIAL O UTILID > CAPITULO II. DE LA ADQUISICION DE BIENES PARA DEFENSA DE RECURSOS NATURALES
@@ -991,22 +967,22 @@ Para imponer servidumbres de acueducto en interés privado de quien tenga derech
 En la misma forma se procederá cuando sea necesario modificar las condiciones de una servidumbre ya existente.
 
 ## art:108 — 
-ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Ca
+ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS
 
 Todo predio está sujeto a la servidumbre de desagüe en favor de otro predio público o privado que la necesite para dar salida y dirección a las aguas sobrantes.
 
 ## art:109 — 
-ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Ca
+ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS
 
 Al fijarse la indemnización en favor del dueño del predio que se grava con una servidumbre de desagüe, se tendrá en cuenta, el beneficio que al predio sirviente le reporte, y podrá imponerse a su propietario la obligación de contribuir a la conservación de los canales, si se beneficia con ellos.
 
 ## art:110 — 
-ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Ca
+ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS
 
 La servidumbre natural de recibir aguas se regirá por el artículo 891 del Código Civil.
 
 ## art:111 — 
-ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Ca
+ubicacion: TITULO IV. DE LAS SERVIDUMBRES > CAPITULO III. DE LA SERVIDUMBRE DE DESAGÜE Y DE RECIBIR AGUAS
 
 Para imponer las servidumbres a que se refiere el presente capítulo, se aplicarán las normas del capítulo I de este título.
 
@@ -1266,32 +1242,32 @@ ubicacion: TITULO VI. DEL USO, CONSERVACION Y PRESERVACION DE LAS AGUAS > CAPITU
 El dueño, poseedor o tenedor de un predio puede servirse de las aguas lluvias que caigan o se recojan en este mientras por el discurran. Podrán, en consecuencia, construir dentro de su propiedad las obras adecuadas para almacenarlas y conservarlas, siempre que con ellas no cause perjuicios a terceros.
 
 ## art:149 — 
-ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS
 
 Para los efectos de este título, se entiende por aguas subterráneas las subálveas y las ocultas debajo de la superficie del suelo o del fondo marino que brotan en forma natural, como las fuentes y manantiales captados en el sitio de afloramiento o las que requieren para su alumbramiento obras como pozos, galerías filtrantes u otras similares.
 
 ## art:150 — 
-ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS
 
 Se organizará la protección y aprovechamiento de aguas subterráneas.
 
 ## art:151 — 
-ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS
 
 El dueño poseedor o tenedor tendrá derecho preferente en el aprovechamiento de las aguas subterráneas existentes en su predio, de acuerdo con sus necesidades. Se podrá otorgar concesión de aprovechaminto de aguas subterráneas en terreno distinto al del peticionario, para los usos domésticos y de abrevadero, previa la constitución de servidumbres, cuando se demuestre que no existen en el suyo en profundidad razonable y cuando su alumbramiento no contraviniere alguna de las condiciones establecidas en este título. La concesión se otorgará sin perjuicio del derecho preferente del dueño, tenedor o poseedor del terreno en donde se encuentran las aguas, que podrá oponerse a la solicitud en cuanto lesione ese derecho, siempre que esté haciendo uso actual de las aguas o se obligue a hacerlo en un término que se le fijará según el tipo y la naturaleza de las obras necesarias y en cuanto el caudal subterráneo no exceda las necesidades de agua del predio.
 
 ## art:152 — 
-ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS
 
 Cuando se compruebe que las aguas del subsuelo de una cuenca o de una zona se encuentran en peligro de agotamiento o de contaminación o en merma progresiva y sustancial en cantidad o calidad, se suspenderá definitiva o temporalmente, el otorgamiento de nuevas concesiones en la cuenca o zona; se podrá decretar la caducidad de las ya otorgadas o limitarse el uso, o ejecutarse, por cuenta de los usuarios, obras y trabajos necesarios siempre que medie el consentimiento de dichos usuarios, y si esto no fuere posible, mediante la ejecución de la obra por el sistema de valorización.
 
 ## art:153 — 
-ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS
 
 Las concesiones de aprovechamiento de aguas subterráneas podrán ser revisadas o modificadas o declararse su caducidad, cuando haya agotamiento de tales aguas o las circunstancias hidrogeológicas que se tuvieron en cuenta para otorgarlas hayan cambiado sustancialmente.
 
 ## art:154 — 
-ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LAS AGUAS SUBTERRANEAS
 
 El titular de concesión de aguas subterráneas está obligado a extraerlas de modo que no se produzcan sobrantes.
 
@@ -1560,19 +1536,7 @@ Salvo autorización y siempre con la obligación de reemplazarla adecuada e inme
 ## art:187 — 
 ubicacion: TITULO II. DE LOS USOS NO AGRICOLAS DE LA TIERRA > CAPITULO I. USOS URBANOS, HABITACIONALES E INDUSTRIALES
 
-Se planeará el desarrollo urbano determinando, entre otros, sectores residenciales, cívicos, comerciales, industriales y de recreación así como zonas oxigenantes y amortiguadoras y contemplando la necesaria arborización ornamental. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Se planeará el desarrollo urbano determinando, entre otros, sectores residenciales, cívicos, comerciales, industriales y de recreación así como zonas oxigenantes y amortiguadoras y contemplando la necesaria arborización ornamental.
 
 ## art:188 — 
 ubicacion: TITULO II. DE LOS USOS NO AGRICOLAS DE LA TIERRA > CAPITULO I. USOS URBANOS, HABITACIONALES E INDUSTRIALES
@@ -1708,7 +1672,7 @@ ubicacion: TITULO III. DE LOS BOSQUES
 
 Se entiende por área forestal protectora - productora la zona que debe ser conservada permanentemente con bosques naturales o artificiales para proteger los recursos naturales renovables y que, además, puede ser objeto de actividades de producción sujeta necesariamente al mantenimiento del efecto protector.
 
-## art:206 — Ver Notas del Editor
+## art:206 — 
 ubicacion: TITULO III. DE LOS BOSQUES > CAPITULO I. DE LAS AREAS DE RESERVA FORESTAL
 
 Se denomina área de reserva forestal la zona de propiedad pública o privada reservada para destinarla exclusivamente al establecimiento o mantenimiento y utilización racional de áreas forestales productoras, protectoras o productoras - protectoras.
@@ -1857,19 +1821,7 @@ Toda empresa forestal deberá obtener permiso.
 ## art:228 — 
 ubicacion: TITULO III. DE LOS BOSQUES > CAPITULO III. DE LAS INDUSTRIAS FORESTALES
 
-Las empresas forestales y de transporte están obligadas a suministrar información sobre registros de producción y acarreo y datos estadísticos. Igualmente deberán permitir a los funcionarios la inspección de instalaciones, lugares de almacenamiento, procesamiento y explotación. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las empresas forestales y de transporte están obligadas a suministrar información sobre registros de producción y acarreo y datos estadísticos. Igualmente deberán permitir a los funcionarios la inspección de instalaciones, lugares de almacenamiento, procesamiento y explotación.
 
 ## art:229 — 
 ubicacion: TITULO III. DE LOS BOSQUES > CAPITULO IV. DE LA REFORESTACION
@@ -2003,7 +1955,7 @@ Las normas de este título tienen por objeto asegurar la conservación, fomento 
 ## art:248 — Aparte tachado INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO I. DISPOSICIONES GENERALES
 
-La fauna silvestre que se encuentra en el territorio nacional pertenece a la Nación, salvo las especies de los zoocriaderos y cotos de caza de propiedad particular.
+La fauna silvestre que se encuentra en el territorio nacional pertenece a la Nación, salvo las especies de los zoocriaderos [TACHADO: y cotos de caza de propiedad particular].
 
 ## art:249 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
@@ -2029,13 +1981,13 @@ a). Caza de subsistencia o sea que sin ánimo de lucro tiene como objeto exclusi
 
 b). Caza comercial, o sea la que se realiza por personas naturales o jurídicas para obtener benéfico económico; 
 
-c) <Literal INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2021> Caza deportiva, o sea la que se hace como recreación y ejercicio, sin otra finalidad que su realización misma;
+c) <Literal INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2021> [TACHADO: Caza deportiva, o sea la que se hace como recreación y ejercicio, sin otra finalidad que su realización misma;]
 
 d). Caza científica, o sea la que se practica únicamente con fines de investigación o estudios realizados dentro del país; 
 
 e). Caza de control, os ea la que se realiza con el propósito de regular la población de una especie cuando así lo requieran circunstancias de orden social, económico y ecológico; 
 
-f). <Aparte tachado INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020> Caza de fomento o sea la que se realiza con el exclusivo propósito de adquirir ejemplares para el establecimiento de zoocriaderos o cotos de caza.
+f). <Aparte tachado INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020> Caza de fomento o sea la que se realiza con el exclusivo propósito de adquirir ejemplares para el establecimiento de zoocriaderos [TACHADO: o cotos de caza].
 
 ## art:253 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
@@ -2055,7 +2007,7 @@ Es reserva de caza el área que se reserva y alinda con fines de conservación, 
 ## art:256 — Artículo INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
 
-Se entiende por coto de caza el área destinada al mantenimiento, fomento y aprovechamiento de especies de la fauna silvestre para caza deportiva.
+[TACHADO: Se entiende por coto de caza el área destinada al mantenimiento, fomento y aprovechamiento de especies de la fauna silvestre para caza deportiva. ]
 
 ## art:257 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
@@ -2157,19 +2109,7 @@ DE LOS RECURSOS HIDROBIOLOGICOS
 ## art:266 — 
 ubicacion: TITULO I. DE LA FAUNA Y FLORA ACUATICAS Y DE LA PESCA > CAPITULO I. DISPOSICIONES GENERALES
 
-Las normas de esta parte tienen por objeto asegurar la conservación, el fomento y el aprovechamiento racional de los recursos hidrobiológicos y del medio acuático, y lograr su disponibilidad permanente y su manejo racional según técnicas ecológicas económicas y sociales. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las normas de esta parte tienen por objeto asegurar la conservación, el fomento y el aprovechamiento racional de los recursos hidrobiológicos y del medio acuático, y lograr su disponibilidad permanente y su manejo racional según técnicas ecológicas económicas y sociales.
 
 ## art:267 — 
 ubicacion: TITULO I. DE LA FAUNA Y FLORA ACUATICAS Y DE LA PESCA > CAPITULO I. DISPOSICIONES GENERALES
@@ -2536,7 +2476,7 @@ ubicacion: TITULO I. DE LOS PODERES POLICIVOS > CAPITULO I. DE LOS FUNCIONARIOS
 El incendio, inundación, contaminación u otro caso semejante, que amenace perjudicar los recursos naturales renovables o el ambiente se adoptarán las medidas indispensables para evitar, contener o reprimir el daño, que durarán lo que dure el peligro.
 
 ## art:307 — 
-ubicacion: TITULO I. DE LOS PODERES POLICIVOS > CAPITULO II. DE LA COLABORACION DE LA FUERZA PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edito
+ubicacion: TITULO I. DE LOS PODERES POLICIVOS > CAPITULO II. DE LA COLABORACION DE LA FUERZA PUBLICA
 
 Los miembros de la Policía Nacional cooperarán permanentemente en las medidas destinadas a contener, prevenir o reprimir cualquier atentado contra la defensa, conservación, preservación y utilización de los recursos naturales renovables y del ambiente, y en coordinar las labores de las diversas organizaciones existentes en la comunidad, encaminadas a dicha protección y defensa.
 
@@ -2873,16 +2813,4 @@ El Ministro de Comunicaciones
 
 HUMBERTO SALCEDO COLLANTE 
 
-El Ministro de Obras Públicas 
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El Ministro de Obras Públicas

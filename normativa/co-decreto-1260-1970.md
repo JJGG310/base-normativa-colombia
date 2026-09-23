@@ -7,7 +7,7 @@ ramas: [civil, familia, notarial]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_1260_1970.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — <DEFINICIÓN>
@@ -280,19 +280,7 @@ En el registro de nacimientos se inscribirán:
 
 3. Los nacimientos que ocurran en el extranjero, de personas hijas de padre o madre colombianos de nacimiento o por adopción, o de extranjeros residentes en el país, caso de que lo solicite un interesado. 
 
-4. Los reconocimientos de hijo natural, legitimaciones, adopciones, alteraciones de la patria potestad, emancipaciones, habilitaciones de edad, matrimonios, capitulaciones matrimoniales, interdicciones judiciales, discernimientos de guarda, rehabilitaciones, nulidades de matrimonio, divorcios, separaciones de cuerpos y de bienes, cambios de nombre, declaraciones de seudónimo, declaraciones de ausencia, defunciones y declaraciones de presunción de muerte, y en general, todos los hechos y actos relacionados con el estado civil y la capacidad de las personas. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+4. Los reconocimientos de hijo natural, legitimaciones, adopciones, alteraciones de la patria potestad, emancipaciones, habilitaciones de edad, matrimonios, capitulaciones matrimoniales, interdicciones judiciales, discernimientos de guarda, rehabilitaciones, nulidades de matrimonio, divorcios, separaciones de cuerpos y de bienes, cambios de nombre, declaraciones de seudónimo, declaraciones de ausencia, defunciones y declaraciones de presunción de muerte, y en general, todos los hechos y actos relacionados con el estado civil y la capacidad de las personas.
 
 ## art:45 — <DENUNCIANTES DE LOS NACIMIENTOS>
 ubicacion: TITULO VI. DEL REGISTRO DE NACIMIENTOS
@@ -635,19 +623,7 @@ ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 
 Una vez realizada la inscripción del estado civil, el funcionario encargado del registro, a solicitud escrita del interesado, corregirá los errores mecanográficos, ortográficos y aquellos que se establezcan con la comparación del documento antecedente o con la sola lectura del folio, mediante la apertura de uno nuevo donde se consignarán los datos correctos. Los folios llevarán notas de recíproca referencia. Los errores en la inscripción, diferentes a los señalados en el inciso anterior, se corregirán por escritura pública en la que expresará el otorgante las razones de la corrección y protocolizará los documentos que la fundamenten. Una vez autorizada la escritura, se procederá a la sustitución del folio correspondiente. En el nuevo se consignarán los datos correctos y en los dos se colocarán notas de referencia recíproca. 
 
-Las correcciones a que se refiere el presente artículo se efectuarán con el fin de ajustar la inscripción a la realidad y no para alterar el estado civil. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las correcciones a que se refiere el presente artículo se efectuarán con el fin de ajustar la inscripción a la realidad y no para alterar el estado civil.
 
 ## art:92 — 
 ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
@@ -856,16 +832,4 @@ CARLOS LLERAS RESTREPO
 
 Ministro de Justicia 
 
-FERNANDO HINESTROSA 
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+FERNANDO HINESTROSA

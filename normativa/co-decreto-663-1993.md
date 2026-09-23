@@ -8,7 +8,7 @@ ramas: [financiero, comercial, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1348
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — Estructura General
@@ -24,8 +24,6 @@ c. Sociedades de capitalización.
 d. Entidades aseguradoras.
 
 e. Intermediarios de seguros y reaseguros.
-
-ARTÍCULO
 
 ## art:2 — Establecimientos de Crédito
 
@@ -77,8 +75,6 @@ PARÁGRAFO . También son instituciones financieras los organismos cooperativos 
 
 7. Adicionado por el art. 5, Ley 510 de 1999.
 
-ARTÍCULO
-
 ## art:3 — Sociedades de Servicios Financieros
 
 Modificado por el art. 35, Ley 1328 de 2009 El nuevo texto es el siguiente:
@@ -93,11 +89,9 @@ Texto anterior:
 
 2. Naturaleza. Las sociedades de servicios financieros tienen el carácter de instituciones financieras.
 
-## art:4 — Sociedades de Capitalización
+## art:4 — - Sociedades de Capitalización
 
 Las sociedades de capitalización, son instituciones financieras cuyo objeto consiste en estimular el ahorro mediante la constitución, en cualquier forma, de capitales determinados, a cambio de desembolsos únicos o periódicos, con posibilidad o sin ella de reembolsos anticipados por medio de sorteos.
-
-ARTÍCULO
 
 ## art:5 — Entidades Aseguradoras e Intermediarios
 
@@ -110,8 +104,6 @@ ARTÍCULO
 CAPÍTULO. II
 
 ESTABLECIMIENTOS BANCARIOS
-
-ARTÍCULO
 
 ## art:6 — Definiciones
 
@@ -126,8 +118,6 @@ a. Sección Bancaria para la ejecución de negocios bancarios y comerciales.
 b. Sección de Ahorros para recibir, reconociendo intereses, depósitos a la vista o a término, con sujeción a lo previsto en este Estatuto, en el Código de Comercio y en las reglamentaciones que con carácter general dicte el Gobierno Nacional.
 
 c. La sección comercial de un banco hipotecario es aquella que hace el negocio de recibir fondos de otros en depósito general y de usar éstos junto con su propio capital, para prestarlos y para comprar o descontar pagarés, giros o letras de cambio.
-
-ARTÍCULO
 
 ## art:7 — Operaciones
 
@@ -169,8 +159,6 @@ n. Adicionado por el art. 1, Ley 795 de 2003
 
 o. Adicionado por el art. 26, Ley 1328 de 2009
 
-ARTÍCULO
-
 ## art:8 — Inversiones Autorizadas
 
 1. Inversiones en corporaciones financieras. Derogado por el art. 123, Ley 510 de 1999. Los bancos comerciales podrán adquirir y conservar acciones de las corporaciones financieras.
@@ -183,8 +171,6 @@ ARTÍCULO
 
 5. Inversiones especiales en títulos del Banco Internacional de Reconstrucción y Fomento. Los bancos nacionales podrán invertir en bonos emitidos o garantizados por el Banco Internacional de Reconstrucción y Fomento o emitidos o garantizados por el Gobierno Nacional de acuerdo con cualquier contrato de empréstito celebrado con el citado Banco Internacional hasta el diez por ciento (10%) de su capital y reservas.
 
-ARTÍCULO
-
 ## art:9 — Otras Inversiones Admisibles
 
 1. Inversiones admisibles. Todo establecimiento bancario, con sujeción a las restricciones y limitaciones impuestas por las leyes, podrá efectuar las siguientes inversiones:
@@ -194,8 +180,6 @@ a. Comprar, poseer y vender toda clase de obligaciones que devenguen intereses, 
 b. Comprar, poseer y vender bonos u otras obligaciones que devenguen intereses, emitidas por el Gobierno Nacional o por Gobiernos extranjeros, por compañías ferroviarias o industriales, pero ningún Banco comercial invertirá más del diez por ciento (10%) de su capital pagado y reservas en bonos de cualquier gobierno o compañía, excepción hecha del Gobierno Nacional;
 
 c. Comprar, poseer y vender cédulas que devenguen intereses, emitidas por Bancos hipotecarios, que hagan negocio en Colombia y que no se hayan puesto en mora para pagar capital e intereses, durante los diez años anteriores a la fecha en que se haga la compra. El monto total invertido en cédulas de todos los Bancos hipotecarios, no excederá del treinta por ciento (30%) del capital y fondo de reserva del banco que haga la inversión.
-
-ARTÍCULO
 
 ## art:10 — Prohibiciones y Limitaciones
 
@@ -221,8 +205,6 @@ CAPÍTULO. III
 
 CORPORACIONES FINANCIERAS
 
-ARTÍCULO
-
 ## art:11 — Modificado por el art
 
 11, Ley 510 de 1999. Objeto. El nuevo texto es el siguiente:
@@ -242,8 +224,6 @@ Texto anterior:
 De las empresas a que se refiere el presente artículo se exceptúan las instituciones sometidas al control y vigilancia de la Superintendencia Bancaria, salvo las sociedades de servicios financieros y los establecimientos de crédito. En relación con los establecimientos de crédito se podrán celebrar las operaciones señaladas en el artículo 15 inciso 1 de este Estatuto.
 
 2. Operaciones con cooperativas y asociaciones. Las cooperativas o asociaciones cuyo objeto sea la comercialización de bienes de origen nacional producidos por la pequeña y mediana industria y agroindustria podrán obtener financiación por parte de las corporaciones financieras.
-
-ARTÍCULO
 
 ## art:12 — Operaciones Autorizadas con las Empresas
 
@@ -283,8 +263,6 @@ m. Actuar como representante de los tenedores de bonos, salvo en los casos de la
 
 n. Derogado por el art. 123, Ley 510 de 1999. Recibir depósitos de ahorro, siempre y cuando su capital pagado y reserva legal sea igual o superior al capital mínimo exigido para los establecimientos bancarios existentes a la entrada en vigencia de la Ley 45 de 1990; las corporaciones que tengan un capital pagado y reserva legal inferior a dicho monto sólo podrán recibir depósitos de ahorro en las condiciones y con los límites que fije el Gobierno Nacional.
 
-ARTÍCULO
-
 ## art:13 — Otras Operaciones Autorizadas
 
 Las corporaciones financieras también podrán efectuar las siguientes operaciones:
@@ -298,8 +276,6 @@ c. Obtener crédito del Banco de la República en los términos y condiciones qu
 d. Aprobar préstamos a personas naturales o jurídicas para financiar la adquisición de acciones y bonos obligatoriamente convertibles en acciones de sociedades anónimas nacionales. Respecto de acciones de entidades vigiladas por la Superintendencia Bancaria, tal clase de préstamos sólo podrán otorgarse para la suscripción de incrementos de capital o en procesos de privatización de entidades públicas, y
 
 e. Derogado por el art. 123, Ley 510 de 1999. Las corporaciones financieras también podrán conceder crédito a las compañías de financiamiento comercial especializadas en leasing para la adquisición de bienes que se colocarán en arrendamiento financiero.
-
-ARTÍCULO
 
 ## art:14 — Inversiones de Capital
 
@@ -327,8 +303,6 @@ Cuando las inversiones se realicen para crear una nueva empresa, se computarán 
 
 7. Sanciones. La Superintendencia Bancaria impondrá a las corporaciones financieras que presenten defectos en las inversiones de capital una multa equivalente al uno por ciento (1%) del valor del defecto, la cual se continuará liquidando en forma mensual durante los primeros seis meses, mientras el mismo persista. Si el incumplimiento del requerido de inversión se prolonga por más de seis (6) meses la multa mensual antes señalada se incrementará al dos por ciento (2%) sobre el valor del defecto.
 
-ARTÍCULO
-
 ## art:15 — Inversiones en Sociedades de Servicios Financieros y en Establecimientos de Crédito
 
 Derogado por el art. 123, Ley 510 de 1999. Las corporaciones financieras podrán adquirir y conservar acciones y bonos obligatoriamente convertibles en acciones de establecimientos de crédito y en sociedades de servicios financieros.
@@ -336,8 +310,6 @@ Derogado por el art. 123, Ley 510 de 1999. Las corporaciones financieras podrán
 Las inversiones de capital que realicen las corporaciones financieras en las sociedades de servicios financieros serán computables para el cumplimiento de la proporción establecida en el artículo 14 y se someterán a la limitación señalada en la letra b) del numeral 1 del artículo 119 del presente Estatuto.
 
 Las inversiones de capital que realicen las corporaciones financieras en establecimientos de crédito no computarán dentro de la base para establecer el porcentaje mínimo que debe cumplirse conforme al artículo 14 de este Estatuto.
-
-ARTÍCULO
 
 ## art:16 — Coeficiente de Definición
 
@@ -375,8 +347,6 @@ PARÁGRAFO .- Las corporaciones financieras de creación legal en las cuales la 
 
 Las corporaciones financieras que a la fecha de entrada en vigencia del Decreto 1135 de 1992 se encontraban exceptuadas de la obligación de demostrar el cumplimiento del coeficiente dispondrán de un plazo de dos (2) años para acreditar que satisfacen la exigencia legal.
 
-ARTÍCULO
-
 ## art:17 — Derogado por el art
 
 24, Decreto Nacional 2360 de 1993 Límite a la Concentración de Riesgo.
@@ -391,8 +361,6 @@ CAPÍTULO. IV
 
 CORPORACIONES DE AHORRO Y VIVIENDA
 
-ARTÍCULO
-
 ## art:18 — Objeto
 
 Modificado por el art. 14, Ley 510 de 1999. El nuevo texto es el siguiente: Las corporaciones de ahorro y vivienda tienen como finalidad promover el ahorro privado y canalizarlo hacia la industria de la construcción.
@@ -404,8 +372,6 @@ Las corporaciones de ahorro y vivienda tienen como finalidad promover el ahorro 
 El Gobierno, a través de sus organismos competentes, fomentará el ahorro con el propósito de canalizar parte de él hacia la actividad de la construcción.
 
 Para los fines previstos en este artículo, el Gobierno coordinará las actividades de las personas o instituciones que tengan por objeto el manejo y la inversión de los fondos provenientes del ahorro privado, y fomentará la creación de corporaciones de ahorro y vivienda. Texto subrayado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-700 de 1999.
-
-ARTÍCULO
 
 ## art:19 — Operaciones Activas de Crédito
 
@@ -429,8 +395,6 @@ h. Préstamos para inversión garantizados con hipoteca sobre vivienda o con hip
 
 i. Las corporaciones de ahorro y vivienda podrán otorgar créditos de consumo sin hipoteca, previa autorización que impartirá el Gobierno Nacional, a partir del 1 de julio de 1993, hasta los límites y con las condiciones que señale el mismo, preservando su especialización en el financiamiento de vivienda y de la construcción.
 
-ARTÍCULO
-
 ## art:20 — Inversiones
 
 ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-700 de 1999.
@@ -440,8 +404,6 @@ ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C
 2. Inversiones en sociedades de servicios financieros. Derogado por el art. 123, Ley 510 de 1999. Las corporaciones de ahorro y vivienda también podrán efectuar inversiones en sociedades de servicios financieros en los mismos términos y condiciones autorizados a los establecimientos de crédito.
 
 3. Inversiones en bonos de vivienda de interés social. Las corporaciones de ahorro y vivienda podrán efectuar inversiones voluntarias en los Bonos de Vivienda de Interés Social que emita el Banco Central Hipotecario en desarrollo de las facultades establecidas en el presente Estatuto.
-
-ARTÍCULO
 
 ## art:21 — Operaciones Pasivas
 
@@ -459,8 +421,6 @@ b. El certificado de ahorro de valor constante, el cual no podrá ser expedido a
 
 4. Depósitos ordinarios. Las corporaciones de ahorro y vivienda están autorizadas para recibir depósitos ordinarios, en los cuales no se estipulará corrección monetaria alguna. Igualmente están autorizadas las corporaciones de ahorro y vivienda para abrir y mantener, con este propósito, una sección especial que se denominará "Sección de Depósitos Ordinarios".
 
-ARTÍCULO
-
 ## art:22 — Otras Operaciones Autorizadas
 
 ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-700 de 1999.
@@ -477,8 +437,6 @@ Cada corporación de ahorro y vivienda sólo podrá emitir bonos en desarrollo d
 
 5. Adicionado por el art. 15, Ley 510 de 1999.
 
-ARTÍCULO
-
 ## art:23 — Prohibiciones y Limitaciones
 
 ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-700 de 1999.
@@ -492,8 +450,6 @@ ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C
 CAPÍTULO. V
 
 COMPAÑÍAS DE FINANCIAMIENTO COMERCIAL
-
-ARTÍCULO
 
 ## art:24 — Operaciones Autorizadas
 
@@ -525,15 +481,11 @@ Realizar operaciones de leasing hasta el porcentaje máximo que señale el Gobie
 
 k. Adicionado por el art. 3, Ley 795 de 2003 , Reglamentado por el Decreto Nacional 710 de 2003
 
-ARTÍCULO
-
 ## art:25 — Inversiones
 
 Derogado por el art. 123, Ley 510 de 1999. Las compañías de financiamiento comercial podrán invertir en acciones de sociedades anónimas inscritas en bolsa de valores o de entidades vigiladas por la Superintendencia Bancaria.
 
 La inversión en sociedades anónimas inscritas en bolsa y en entidades vigiladas por la Superintendencia Bancaria, diferentes de establecimientos de crédito y sociedades de servicios financieros, no podrá exceder del diez por ciento (10%) de su capital y reservas patrimoniales. La inversión en sociedades de servicios financieros se sujetará al límite consagrado en la letra b) del numeral 1 del artículo 119 del presente Estatuto.
-
-ARTÍCULO
 
 ## art:26 — Modificado por el art
 
@@ -553,8 +505,6 @@ Sustituido por el art. 57, Ley 454 de 1998
 
 ORGANISMOS COOPERATIVOS DE GRADO SUPERIOR DE CARÁCTER FINANCIERO
 
-ARTÍCULO
-
 ## art:27 — Operaciones Autorizadas
 
 1. Captación. Corregido por el art. 1, Decreto Nacional 867 de 1993. Los organismos cooperativos de grado superior de carácter financiero ejercerán la actividad financiera por medio de secciones de ahorro, a través de las cuales realizarán las operaciones señaladas en el numeral siguiente de este Estatuto y las permitidas a las secciones de ahorro de los bancos comerciales, bajo el régimen y disposiciones propias de éstos y del régimen cooperativo en lo pertinente.
@@ -573,8 +523,6 @@ c. Inversión en instrumentos representativos de captaciones emitidos por establ
 
 5. Servicio de asistencia técnica, educación, capacitación y solidaridad. Los servicios de asistencia técnica, educación, capacitación y solidaridad que en desarrollo de las actividades previstas en los estatutos o por disposición de la Ley Cooperativa puedan establecer y desarrollar las entidades cooperativas de carácter financiero, autorizadas por la Superintendencia Bancaria, se prestarán directamente o mediante convenios con otras entidades. En todo caso tales servicios no podrán comprometer los depósitos de la sección de ahorros, fondos, reservas y demás recursos captados en la actividad financiera.
 
-ARTÍCULO
-
 ## art:28 — Inversiones
 
 Los organismos cooperativos de grado superior de carácter financiero podrán efectuar inversiones en las siguientes instituciones:
@@ -588,8 +536,6 @@ PARÁGRAFO . Los organismos cooperativos de segundo grado superior e institucion
 CAPÍTULO. VII
 
 SOCIEDADES FIDUCIARIAS
-
-ARTÍCULO
 
 ## art:29 — Operaciones Autorizadas
 
@@ -631,8 +577,6 @@ CAPÍTULO. VIII
 
 SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTÍA
 
-ARTÍCULO
-
 ## art:30 — Objeto y Definiciones
 
 1. Objeto. Las sociedades administradoras de fondos de cesantía, también denominadas en este Estatuto administradoras, tienen por objeto exclusivo la administración y manejo de los fondos de cesantía que se constituyan en desarrollo de lo previsto en el artículo 99 de la Ley 50 de 1990.
@@ -644,8 +588,6 @@ No obstante, de conformidad con lo dispuesto en el artículo 119 del presente Es
 3. Denominación social. La denominación social de las administradoras no podrá incluir nombres o siglas que puedan inducir a equívocos respecto de su responsabilidad patrimonial o administrativa.
 
 4. Participantes. Toda persona que tenga capacidad para invertir en el capital de personas jurídicas podrá participar en la organización de una sociedad administradora.
-
-ARTÍCULO
 
 ## art:31 — Obligaciones de las Sociedades Administradoras de Fondos de Cesantía
 
@@ -675,8 +617,6 @@ i. Mantener sobre su propio patrimonio una adecuada estructura de liquidez para 
 
 j. Adicionado por el art. 58, Ley 1328 de 2009.
 
-ARTÍCULO
-
 ## art:32 — Alcance de la Responsabilidad de la Administradora
 
 Las administradoras deberán velar por la adecuada rentabilidad de sus inversiones respondiendo hasta por la culpa leve por los perjuicios que el incumplimiento de esta obligación causarse al fondo que administran.
@@ -684,8 +624,6 @@ Las administradoras deberán velar por la adecuada rentabilidad de sus inversion
 CAPÍTULO. IX
 
 ALMACENES GENERALES DE DEPÓSITO
-
-ARTÍCULO
 
 ## art:33 — Objeto y Funciones
 
@@ -703,15 +641,11 @@ Los créditos sólo se otorgarán con recursos propios del almacén, el cual deb
 
 PARÁGRAFO . La certificación que expida la Superintendencia Bancaria sobre la existencia y el monto de los saldos que resulten a favor de los almacenes por cualquiera de los anteriores conceptos prestará mérito ejecutivo, sin perjuicio de los derechos de retención y privilegio consagrados en el numeral 3 del artículo 176 del presente Estatuto.
 
-ARTÍCULO
-
 ## art:34 — Responsabilidad por su Gestión
 
 Los almacenes generales de depósito serán responsables por la conservación, custodia y oportuna restitución de las mercancías que les hayan sido depositadas, pero en ningún caso responsables por pérdidas, mermas o averías que se causen por fuerza mayor o caso fortuito; ni por pérdidas, daños, mermas o deterioros que provengan de vicios propios de las mismas mercancías, salvo que el depósito sea a granel; en silos o recipientes análogos; ni serán responsables por el lucro cesante que ocasione la pérdida, daño, merma o avería de las mercancías quedando limitada, su obligación a restituir especies iguales, cuando fuere el caso, en igual cantidad y calidad a las depositadas, o si así lo prefieren los almacenes, el valor por el cual dichas especies se hubieren registrado en su contabilidad.
 
 PARÁGRAFO . En caso de que el almacén general de depósito opte por pagar el valor por el cual las mercancías se encuentren registradas en su contabilidad, puede hacer el pago por consignación, depositándolo en un banco legalmente autorizado para recibir depósitos judiciales, que funcione en el lugar donde debe hacerse el pago, o con obligación de dar aviso al beneficiario.
-
-ARTÍCULO
 
 ## art:35 — Inversiones
 
@@ -725,13 +659,9 @@ CAPÍTULO. X
 
 SOCIEDADES DE CAPITALIZACIÓN
 
-ARTÍCULO
-
 ## art:36 — Objeto
 
 Las sociedades de capitalización tienen por objeto estimular el ahorro mediante la constitución, en cualquier forma, de capitales determinados, a cambio de desembolsos únicos o periódicos, con posibilidad o sin ella de reembolsos anticipados por medio de sorteos.
-
-ARTÍCULO
 
 ## art:37 — Prohibiciones
 
@@ -742,8 +672,6 @@ Tampoco podrán dichas sociedades hacer rebajas o concesiones de ningún género
 CAPÍTULO. XI
 
 ENTIDADES ASEGURADORAS
-
-ARTÍCULO
 
 ## art:38 — Aspectos Generales
 
@@ -762,8 +690,6 @@ El objeto social de las reaseguradoras consistirá exclusivamente en el desarrol
 5. Organismos cooperativos que prestan servicios de seguros. Los organismos de carácter cooperativo que presten servicios de seguros deberán ser especializados y cumplirán la actividad aseguradora principalmente en interés de sus propios asociados y de la comunidad vinculada a ellos.
 
 Sin perjuicio de lo dispuesto en el artículo 56 de la Ley 79 de 1988, cuando los servicios de previsión y solidaridad a que se refiere el artículo 65 de la misma Ley requieran de una base técnica que los asimile a seguros, deberán ser contratados con organismos cooperativos especializados en este ramo, o con otras entidades aseguradoras legalmente establecidas; las entidades que actualmente los presten podrán continuar haciéndolo a menos que, requeridas por el organismo correspondiente del Estado, no demuestren su competencia técnica y económica para hacerlo.
-
-ARTÍCULO
 
 ## art:39 — Personas no Autorizadas
 
@@ -795,8 +721,6 @@ CAPÍTULO. XII
 
 INTERMEDIARIOS DE SEGUROS
 
-ARTÍCULO
-
 ## art:40 — Sociedades Corredoras de Seguros
 
 1. Definición. De acuerdo con el artículo 1347 del Código de Comercio, son corredores de seguros las empresas constituidas o que se constituyan como sociedades comerciales, colectivas o de responsabilidad limitada, cuyo objeto social sea exclusivamente ofrecer seguros, promover su celebración y obtener su renovación a título de intermediarios entre el asegurado y el asegurador.
@@ -806,8 +730,6 @@ ARTÍCULO
 3. Condiciones para el ejercicio. De acuerdo con el artículo 1351 del Código de Comercio, sólo podrán usar el título de corredores de seguros y ejercer esta profesión las sociedades debidamente inscritas en la Superintendencia Bancaria, que tengan vigente el certificado expedido por dicho organismo.
 
 4. Adicionado por el art. 62, Ley 1328 de 2009.
-
-ARTÍCULO
 
 ## art:41 — Agentes y Agencias
 
@@ -845,8 +767,6 @@ e. Los directores, gerentes y funcionarios de compañías de seguros o de capita
 
 NOTA: Entra a regir el 15 de julio de 2013.
 
-ARTÍCULO
-
 ## art:42 — Facultades de la Agencia de Seguros
 
 Toda agencia de seguros debe tener por lo menos las siguientes facultades otorgadas por la compañía o compañías que represente:
@@ -858,8 +778,6 @@ b. Inspeccionar riesgos;
 c. Intervenir en salvamentos, y
 
 d. Promover la celebración de contratos de seguro por si misma o por medio de agentes colocadores que la compañía mandante ponga bajo su dependencia, de acuerdo con su sistema propio de promoción de negocios.
-
-ARTÍCULO
 
 ## art:43 — Condiciones de Funcionamiento
 
@@ -877,8 +795,6 @@ CAPÍTULO. XIII
 
 INTERMEDIARIOS DE REASEGUROS
 
-ARTÍCULO
-
 ## art:44 — 
 
 44. Aspectos Generales
@@ -891,8 +807,6 @@ La Superintendencia Bancaria determinará las reglas relativas a la organizació
 
 3. Régimen legal. A los intermediarios de reaseguros les serán aplicables el numeral 1 del artículo 54, los numerales 2 y 3 del artículo 206 y 1 y 3 del artículo 207 del presente Estatuto, este último referido a la intermediación de reaseguros en lo que resulte pertinente.
 
-ARTÍCULO
-
 ## art:45 — Condición para el Ejercicio de la Actividad
 
 Ninguna sociedad corredora de reaseguros podrá iniciar las actividades propias de su objeto social antes de la expedición del certificado de inscripción por parte de la Superintendencia Bancaria.
@@ -903,21 +817,21 @@ Adicionado por el art. 65, Ley 1328 de 2009
 
 SUCURSALES DE BANCOS Y COMPAÑÍAS DE SEGUROS DEL EXTERIOR
 
-ARTÍCULO
+## art:45a — Adicionado por el art
 
-45A. Adicionado por el art. 65, Ley 1328 de 2009.
-
-NOTA: Entra a regir el 15 de julio de 2013.
-
-ARTÍCULO
-
-45B. Adicionado por el art. 65, Ley 1328 de 2009.
+65, Ley 1328 de 2009.
 
 NOTA: Entra a regir el 15 de julio de 2013.
 
-ARTÍCULO
+## art:45b — Adicionado por el art
 
-45C. Adicionado por el art. 65, Ley 1328 de 2009.
+65, Ley 1328 de 2009.
+
+NOTA: Entra a regir el 15 de julio de 2013.
+
+## art:45c — Adicionado por el art
+
+65, Ley 1328 de 2009.
 
 NOTA: Entra a regir el 15 de julio de 2013.
 
@@ -926,8 +840,6 @@ PARTE SEGUNDA
 INTERVENCIÓN EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA
 
 CAPÍTULO ÚNICO
-
-ARTÍCULO
 
 ## art:46 — Objetivos de la Intervención
 
@@ -967,13 +879,9 @@ p. Adicionado por el art. 23, Ley 1328 de 2009
 
 PARÁGRAFO . Corregido por el art. 2, Decreto Nacional 867 de 1993. El Gobierno Nacional ejercerá las facultades que le otorga esta Ley con base en el principio de la economía y preservando la estabilidad en la regulación.
 
-ARTÍCULO
-
 ## art:47 — Coordinación de Políticas
 
 En el ejercicio de la intervención regulada en la parte segunda de este Estatuto, el Gobierno Nacional tendrá en cuenta los objetivos de las políticas monetaria, cambiaria y crediticia y la política económica general.
-
-ARTÍCULO
 
 ## art:48 — Instrumentos de la Intervención
 
@@ -1033,8 +941,6 @@ PARÁGRAFO 1. Las funciones de intervención previstas en este artículo se ejer
 
 PARÁGRAFO 2. El Gobierno Nacional dictará las normas necesarias para la aplicación de las disposiciones que se expidan conforme a este artículo, tomando en cuenta la naturaleza específica de las instituciones financieras cooperativas.
 
-ARTÍCULO
-
 ## art:49 — Democratización del Crédito
 
 El Gobierno Nacional intervendrá para promover la democratización del crédito. Para este efecto fijará a las entidades objeto de intervención límites máximos de crédito o de concentración de riesgo para cada persona natural o jurídica, en forma directa o indirecta, y las reglas para su cálculo.
@@ -1042,8 +948,6 @@ El Gobierno Nacional intervendrá para promover la democratización del crédito
 Además, el Gobierno Nacional podrá dictar normas con el fin de evitar que el otorgamiento de crédito por parte de las instituciones sometidas a la inspección y vigilancia de la Superintendencia Bancaria se empleen prácticas discriminatorias relacionadas con sexo, religión, filiación política y raza u otras situaciones distintas a las vinculadas directamente con el riesgo de la operación y la capacidad de pago del solicitante.
 
 Para este mismo propósito, el Gobierno Nacional podrá definir y prohibir prácticas que constituyan exigencia de reciprocidades con el fin de evitar que a través de las mismas se impida injustificadamente el acceso al crédito o a los demás servicios financieros.
-
-ARTÍCULO
 
 ## art:50 — Orientación de los Recursos del Sistema Financiero
 
@@ -1055,8 +959,6 @@ PARÁGRAFO 1. El Gobierno Nacional deberá actuar en coordinación con la Junta 
 
 PARÁGRAFO 2. Cuando se fijen límites específicos a los préstamos o inversiones de los establecimientos de crédito con destino a la vivienda de interés social, el Gobierno Nacional deberá hacerlo en igualdad de condiciones para todas las entidades que otorguen créditos hipotecarios de largo plazo para vivienda.
 
-ARTÍCULO
-
 ## art:51 — Límites a las Facultades de Intervención
 
 En ejercicio de las facultades de regulación otorgadas en la Ley 35 de 1993, el Gobierno Nacional no podrá modificar las normas relativas a la estructura del sistema financiero, la constitución, objeto principal, forma societaria y causales y condiciones de disolución, toma de posesión y liquidación de las entidades autorizadas para desarrollarlas las actividades financieras, inclusive las desarrolladas por entidades financieras cooperativas, aseguradora y de las demás entidades cuya actividad se relacione con el manejo, aprovechamiento e inversión de recursos captados del público.
@@ -1064,8 +966,6 @@ En ejercicio de las facultades de regulación otorgadas en la Ley 35 de 1993, el
 En la aplicación de este artículo, el Gobierno Nacional no podrá desconocer la naturaleza y principios propios de las entidades cooperativas autorizadas para desarrollar las actividades financiera, aseguradora, o cualesquiera actividades que se relacionen con el manejo, aprovechamiento e inversión de recursos captados del público sin perjuicio del cumplimiento de las normas de regulación prudencial que le sean aplicables a las entidades financieras y aseguradoras.
 
 Lo dispuesto en el presente artículo no obsta para que el Gobierno Nacional dicte disposiciones orientadas a regular la constitución de sociedades cuando durante dicha constitución o como paso previo a ella se efectúe una oferta pública de valores.
-
-ARTÍCULO
 
 ## art:52 — Sanciones
 
@@ -1078,8 +978,6 @@ NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS
 CAPÍTULO. I
 
 CONSTITUCIÓN
-
-ARTÍCULO
 
 ## art:53 — Procedimiento
 
@@ -1165,8 +1063,6 @@ El Superintendente Bancario expedirá el certificado de autorización dentro de 
 
 8. Prueba de la existencia y representación de las entidades vigiladas. De acuerdo con las modalidades propias de la naturaleza y estructura de las entidades vigiladas, la certificación sobre su existencia deberá expedirla la Superintendencia Bancaria.
 
-ARTÍCULO
-
 ## art:54 — Normas Especiales sobre la Constitución de Intermediarios de Seguros
 
 1. Intermediarios de seguros. Lo dispuesto en el presente capítulo no se aplica a los intermediarios de seguros, cuya constitución se somete a las normas generales del Código de Comercio.
@@ -1183,8 +1079,6 @@ CAPÍTULO. II
 
 FUSIÓN DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS
 
-ARTÍCULO
-
 ## art:55 — Aspectos Generales de la Fusión
 
 1. Campo de aplicación. La fusión de entidades financieras o aseguradoras vigiladas por la Superintendencia Bancaria se regirá por las normas especiales contenidas en este capítulo. En lo no previsto, se aplicarán las demás normas de carácter especial y lo dispuesto en el Código de Comercio y en la Ley 79 de 1988, según el caso.
@@ -1192,8 +1086,6 @@ ARTÍCULO
 Para efectos de las cooperativas a las cuales este Estatuto resulte aplicable, el término fusión incluirá los procesos de incorporación.
 
 PARÁGRAFO TRANSITORIO. Lo dispuesto en este capítulo en materia de fusiones en las cuales participen instituciones financieras o entidades aseguradoras, se aplicará a las fusiones que se inicien a partir del 5 de abril de 1993. Sin embargo, las entidades podrán acogerse al mismo para el caso de las fusiones que se encuentren en curso.
-
-ARTÍCULO
 
 ## art:56 — 
 
@@ -1215,8 +1107,6 @@ PARÁGRAFO .- Para los efectos del artículo 173 del Código de Comercio, bastar
 
 3. Procedimiento abreviado. El aviso anticipado podrá ser enviado a la Superintendencia Bancaria con no menos de un (1) mes de antelación, cuando la solicitud respectiva sea suscrita por los accionistas de las entidades que representen una mayoría superior al noventa y cinco por ciento (95%) del capital de las entidades interesadas.
 
-ARTÍCULO
-
 ## art:57 — Aviso a los Accionistas o Aportantes
 
 Cuando los representantes legales de las entidades interesadas hayan dado un aviso anticipado de fusión a la Superintendencia Bancaria deberán también poner en conocimiento de los accionistas o aportantes de las mismas, mediante comunicación telegráfica o por aviso que se publicará en uno de los principales diarios de circulación nacional, un resumen de la información a que hacen referencia las letras a) y c) del numeral 2 del artículo anterior con dos (2) meses de antelación a la fecha prevista para la reunión de asambleas a cuya consideración se someterá el compromiso de fusión. A partir de ese momento, los libros de contabilidad y demás comprobantes exigidos por la ley deberán ponerse a disposición de los accionistas en las oficinas de la administración hasta la asamblea que estudie la fusión.
@@ -1224,8 +1114,6 @@ Cuando los representantes legales de las entidades interesadas hayan dado un avi
 Conjuntamente con este aviso se podrá convocar la asamblea que decidirá sobre la fusión, sin perjuicio de lo que al respecto establezcan los estatutos de la entidad.
 
 PARÁGRAFO .- Este aviso podrá efectuarse con un (1) sólo mes de antelación en el evento previsto en el numeral 3 del artículo anterior.
-
-ARTÍCULO
 
 ## art:58 — Facultad de Objeción
 
@@ -1251,8 +1139,6 @@ PARÁGRAFO 1.- Serán ineficaces las fusiones que se formalicen a pesar de haber
 
 PARÁGRAFO 2.- Para los efectos del artículo 4 de la Ley 155 de 1959, se entenderá que el Superintendente Bancario ejerce la función allí prevista en relación con la fusión mediante las atribuciones que se le otorgan en este artículo.
 
-ARTÍCULO
-
 ## art:59 — Procedencia del Aviso de Aprobación del Compromiso
 
 El aviso al público del cual trata el artículo 174 del Código de Comercio se efectuará antes de la formalización del acuerdo de fusión, para los fines del artículo 175 del mismo código, cuando haya expirado el término para objetar sin que el Superintendente Bancario hubiere formulado objeción.
@@ -1260,8 +1146,6 @@ El aviso al público del cual trata el artículo 174 del Código de Comercio se 
 Este aviso no será necesario cuando la entidad absorbente o nueva cumpla con los niveles adecuados de patrimonio o las normas de solvencia vigentes, en cuyo caso tampoco procederá lo dispuesto en el artículo 175 del Código de Comercio.
 
 PARÁGRAFO .- Cuando una entidad cooperativa, incorporante o nueva, no cumpla con los niveles adecuados de patrimonio o las normas de solvencia vigentes, se deberá efectuar un aviso que contendrá lo dispuesto en los numerales 1 y 2 del artículo 174 del Código de Comercio y los acreedores podrán exigir las garantías a las que se refiere el artículo 175 del mismo Estatuto, caso en el cual, se seguirá el procedimiento allí previsto.
-
-ARTÍCULO
 
 ## art:60 — Procedimiento de Formalización y Efectos de la Fusión
 
@@ -1307,15 +1191,11 @@ Dicha emisión sólo podrá efectuarse una vez formalizada y registrado el acuer
 
 8. Obligaciones. La entidad adquiriente deberá convenir con la Superintendencia Bancaria, tan pronto concluya la fusión, un programa de adecuación de las operaciones al régimen propio de la institución correspondiente, si a ello hubiere lugar.
 
-ARTÍCULO
-
 ## art:61 — Fusión de Entidades de Propiedad Gubernamental
 
 Cuando el Estado posea directa o indirectamente más del noventa y cinco por ciento (95%) de la propiedad de todas las entidades participantes en un proceso de fusión, no se aplicará lo dispuesto en el artículo 58 de este Estatuto.
 
 En estos casos, la relación de intercambio entre las acciones de cada una de las entidades podrá establecerse sobre la base del valor intrínseco de las mismas o por cualquier otro método convenido en el acuerdo de fusión.
-
-ARTÍCULO
 
 ## art:62 — Derechos de los Accionistas Minoritarios
 
@@ -1341,8 +1221,6 @@ CAPÍTULO. III
 
 ADQUISICIONES
 
-ARTÍCULO
-
 ## art:63 — Aspectos Generales de la Adquisición
 
 1. Normas aplicables. La adquisición de entidades financieras y aseguradoras se sujetarán a las normas de este capítulo y, en lo no previsto a las demás normas de este Estatuto.
@@ -1359,8 +1237,6 @@ PARÁGRAFO 1.- Las acciones de que sea titular la entidad, conforme a lo previst
 
 PARÁGRAFO 2.- El plazo de que trata el inciso 2 de este numeral será de un (1) año en el evento en que el valor total de los activos de las entidades que intervienen en la misma sea o exceda de un millón de salarios mínimos mensuales.
 
-ARTÍCULO
-
 ## art:64 — Aviso y Objeción
 
 El Superintendente Bancario podrá objetar la adquisición de entidades financieras y aseguradoras a la cual se refiere el numeral 2 del artículo 63 del presente Estatuto, previamente a la iniciación de la misma, por las razones previstas para objetar fusiones. En este caso, será necesario oír el concepto previo del Consejo Asesor, y obtener la aprobación del Ministro de Hacienda y Crédito Público cuando sea pertinente.
@@ -1370,8 +1246,6 @@ Para estos efectos, el representante legal de la entidad adquiriente deberá sie
 El Superintendente Bancario dispondrá de un plazo de dos (2) meses para formular objeciones, contado desde el aviso presentado en debida forma, pero podrá declarar que no hay lugar a ellas antes del vencimiento de este plazo.
 
 Serán ineficaces las adquisiciones que se produzcan a pesar de que hayan sido objetadas o sin que haya transcurrido el plazo para que el Superintendente Bancario objete.
-
-ARTÍCULO
 
 ## art:65 — Procedimiento de Formalización y Efectos de la Adquisición
 
@@ -1399,8 +1273,6 @@ CAPÍTULO. IV
 
 CONVERSIÓN Y ESCISIÓN DE INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS
 
-ARTÍCULO
-
 ## art:66 — Aspectos Generales de la Conversión
 
 1. Presupuestos para la procedencia de la conversión. Todo establecimiento de crédito podrá convertirse en cualquiera otra de las especies de establecimientos de crédito. Para autorizar la conversión el Superintendente Bancario deberá verificar que la institución cumpla los requisitos legales propios de la nueva clase de entidad, además de las otras condiciones que se prevén en el presente Estatuto.
@@ -1410,8 +1282,6 @@ La conversión deberá ser adoptada como reforma estatutaria y no producirá sol
 2. Conversión de entidades diferentes de establecimientos de crédito. Los establecimientos de crédito existentes que no estén comprendidos en las categorías previstas en el artículo 2 de este Estatuto, podrán convertirse en los términos del presente artículo, conservando su naturaleza civil, comercial o cooperativa.
 
 3. Capital mínimo requerido para la conversión. Para la determinación del capital mínimo que han de satisfacer las entidades que proyecten convertirse, conforme a lo previsto en el presente artículo, se tendrá en cuenta, además de los montos de capital pagado y reserva legal a que se alude en el numeral 4 del artículo 80 del presente Estatuto, el superávit por donaciones, teniendo en cuenta para el efecto las reglas contables que conforme a sus facultades expida la Superintendencia Bancaria.
-
-ARTÍCULO
 
 ## art:67 — Escisión
 
@@ -1426,8 +1296,6 @@ La escisión se someterá, en lo pertinente, a las normas contempladas en el Cap
 CAPÍTULO. V
 
 CESIÓN DE ACTIVOS, PASIVOS Y CONTRATOS
-
-ARTÍCULO
 
 ## art:68 — 
 
@@ -1453,8 +1321,6 @@ CAPÍTULO. VI
 
 CESIÓN DE CARTERA DE LAS SOCIEDADES DE CAPITALIZACIÓN Y ENTIDADES ASEGURADORAS
 
-ARTÍCULO
-
 ## art:69 — Aspectos Generales de la Cesión de Cartera de las Sociedades de Capitalización
 
 1. Procedencia. Las sociedades de capitalización podrán transferir sus negocios mediante la cesión de su cartera, junto con la reserva matemática correspondiente, a otra sociedad autorizada conforme a este Estatuto.
@@ -1479,8 +1345,6 @@ Los tenedores de títulos que no estuvieren conformes con la cesión podrán res
 
 6. Cesión de porcentaje superior al 25% de los activos y pasivos. Cuando la cesión comprenda más del veinticinco por ciento (25%) de los activos y pasivos de una sociedad de capitalización, se aplicarán las normas previstas en el artículo anterior.
 
-ARTÍCULO
-
 ## art:70 — Aspectos generales de la cesión de cartera de las entidades aseguradoras
 
 Las entidades aseguradoras podrán transferir sus contratos de seguro, total o parcialmente, a otra que explote el ramo correspondiente. Cuando la cesión se efectúe sobre el veinticinco por ciento (25%) o más de la cartera de un mismo ramo se requerirá de la aprobación previa de la Superintendencia Bancaria. Para impartir la autorización la Superintendencia verificará el pago de las reclamaciones presentadas por los asegurados o beneficiarios ante la compañía cedente.
@@ -1490,8 +1354,6 @@ De la cesión deberá informarse previamente a los asegurados y en ningún caso 
 CAPÍTULO. VII
 
 NORMAS RELATIVAS A LOS CAPÍTULOS ANTERIORES
-
-ARTÍCULO
 
 ## art:71 — 
 
@@ -1524,8 +1386,6 @@ En caso de fusiones y adquisiciones el aviso al público de que trata el present
 CAPÍTULO. VIII
 
 DIRECCIÓN, ADMINISTRACIÓN Y CONTROL
-
-ARTÍCULO
 
 ## art:72 — Modificado por el art
 
@@ -1621,8 +1481,6 @@ PARÁGRAFO TRANSITORIO. Las entidades de que trata el numeral primero del presen
 
 (Parágrafo Transitorio, Adicionado por el Art. 347 de la Ley 2294 de 2023)
 
-ARTÍCULO
-
 ## art:74 — Representación Legal
 
 1. Facultades. La persona que ejerza la gerencia de un establecimiento bancario, corporación financiera, corporación de ahorro y vivienda, compañía de financiamiento comercial, sociedad de capitalización o sociedad de servicios financieros, sea como gerente o subgerente, tendrá la personería para todos los efectos legales y se presume, en el ejercicio de su cargo, que tiene autorización de la respectiva junta directiva para llevar la representación legal y obligar a la entidad frente a terceros, aunque no exhiba la constancia de tal autorización, sin perjuicio de la responsabilidad en que pueda incurrir para con dicha entidad, si hubiera procedido sin facultad suficiente cuando ha debido tenerla.
@@ -1636,8 +1494,6 @@ La misma regla se aplicará sobre la persona que ejerza la agencia de una sucurs
 4. Adicionado por el art. 14, Ley 795 de 2003, Modificado por el art. 66, Decreto Nacional 019 de 2012. El nuevo texto es el siguiente: Quienes tengan la representación legal de las instituciones vigiladas, excepto los gerentes de sucursales, una vez nombrados o elegidos y antes de desempeñar dicha función, deberán posesionarse y prestar juramento por el cual se obliguen, mientras estén en el ejercicio de sus funciones, a administrar diligentemente los negocios de la entidad, a cumplir con las obligaciones legales que les correspondan en desarrollo de las mismas y a cumplir las normas, órdenes e instrucciones que expida la Superintendencia Financiera de Colombia en el ejercicio de sus atribuciones.
 
 Los representantes legales de las instituciones vigiladas cuya designación corresponda al Presidente de la República o su delegado, no requieren posesión ante el Superintendente.
-
-ARTÍCULO
 
 ## art:75 — Régimen de Incompatibilidades e Inhabilidades de los Establecimientos Bancarios
 
@@ -1659,8 +1515,6 @@ Los directores y gerentes de los establecimientos bancarios podrán hacer parte 
 
 5. Excepciones relativas a las compañías de financiamiento comercial. Los directores y gerentes de las compañías de financiamiento comercial podrán hacer parte de las juntas directivas de los establecimientos de crédito de las cuales sean accionistas.
 
-ARTÍCULO
-
 ## art:76 — Régimen de Incompatibilidades e Inhabilidades de las Sociedades de Servicios Financieros
 
 1. Régimen aplicable a las sociedades de servicios financieros y comisionistas de bolsa. Modificado por el art. 62, Ley 510 de 1999. El nuevo texto es el siguiente: Los administradores y representantes legales de las sociedades de servicios financieros y comisionistas de bolsa no podrán ser administradores o empleados del establecimiento matriz. Sin embargo, podrán formar parte de sus juntas directivas los directores de la matriz o sus representantes legales, aun en aquellos eventos en que la matriz posea títulos inscritos en bolsa.
@@ -1676,8 +1530,6 @@ a. No podrán ser directores, administradores, representantes o empleados de otr
 b. No podrán ser directores, administradores, representantes legales y empleados de entidades que sean directa o indirectamente accionistas o aportantes de capital de otras sociedades administradoras de fondos de pensiones y de cesantía, y
 
 c. No podrán ser directores, administradores, representantes legales o empleados de comisionistas de bolsa, comisionistas de valores o de sociedades administradoras de fondos de inversión, ni tampoco poseer directa o indirectamente participación superior al cinco por ciento (5%) del capital de éstas.
-
-ARTÍCULO
 
 ## art:77 — Régimen de Incompatibilidades e Inhabilidades de las Sociedades de Capitalización, Aseguradoras e Intermediarios
 
@@ -1703,13 +1555,9 @@ d. Cuando el director de la agencia o alguno de los socios o administradores de 
 
 4. Excepciones relativas a las sociedades de capitalización. Los directores y gerentes de las sociedades de capitalización que tengan inversiones de capital en corporaciones de ahorro y vivienda podrán hacer parte de los organismos directivos de tales corporaciones.
 
-ARTÍCULO
-
 ## art:78 — Régimen Aplicable a las Sociedades de Servicios Técnicos o Administrativos
 
 Los administradores y representantes legales de las sociedades de servicios técnicos o administrativos, constituidas como filiales de entidades sometidas al control y vigilancia de la Superintendencia Bancaria, no podrán ser al propio tiempo administradores o representantes legales del establecimiento matriz. No obstante podrán formar parte de su junta directiva los administradores de la matriz.
-
-ARTÍCULO
 
 ## art:79 — Revisoría Fiscal
 
@@ -1730,8 +1578,6 @@ La posesión sólo se efectuará una vez el Superintendente Bancario se cerciore
 CAPÍTULO. IX
 
 RÉGIMEN PATRIMONIAL
-
-ARTÍCULO
 
 ## art:80 — Capital
 
@@ -1795,8 +1641,6 @@ PARÁGRAFO .- El valor pagado de los bonos obligatoriamente convertibles en acci
 
 6. Sanciones. Los establecimientos de crédito a que se refiere el numeral anterior que no acrediten, dentro del término señalado para ellos, los niveles de capital y reserva requeridos, serán sancionados con una multa equivalente al tres punto cinco (3.5%) sobre el valor del defecto, que será impuesta por la Superintendencia Bancaria por cada mes de mora en el ajuste.
 
-ARTÍCULO
-
 ## art:81 — Pago y Representación del Capital
 
 1. Pago del capital inicial. En las entidades sometidas al control y vigilancia de la Superintendencia Bancaria, con excepción de los intermediarios de seguros, a lo menos el cincuenta por ciento (50%) del capital suscrito deberá pagarse en dinero al tiempo de la constitución, como requisito para que le sea expedido el certificado de autorización, sin perjuicio del monto de capital mínimo que deben acreditar.
@@ -1810,8 +1654,6 @@ En las sociedades intermediarias de seguros y de títulos de capitalización los
 3. Información sobre el capital. Cuando los establecimientos bancarios, corporaciones financieras, corporaciones de ahorro y vivienda, compañías de financiamiento comercial, sociedades de capitalización y sociedades de servicios financieros den a conocer en cualquier forma el capital suscrito, deberán indicar, a la vez, la cifra del capital pagado.
 
 4. Representación del capital. Los títulos de acciones de los establecimientos bancarios, corporaciones financieras, corporaciones de ahorro y vivienda, compañías de financiamiento comercial, sociedades de capitalización y sociedades de servicios financieros serán nominativos.
-
-ARTÍCULO
 
 ## art:82 — Disposiciones Relativas a los Márgenes de Solvencia o Niveles de Patrimonio Adecuado
 
@@ -1851,8 +1693,6 @@ El incumplimiento de la orden de capitalización podrá ser sancionado con la re
 
 6. Límites al volumen de activos de las sociedades de capitalización. El Gobierno Nacional, por conducto del Ministerio de Hacienda y Crédito Público, señalará las normas sobre patrimonio técnico y límite al volumen de activos ponderados por riesgo a las cuales deben someterse las sociedades de capitalización.
 
-ARTÍCULO
-
 ## art:83 — Sanciones por Incumplimiento en Márgenes de Solvencia o Niveles Adecuados de Patrimonio
 
 1. Establecimientos de crédito. Corregido por el art. 4, Decreto Nacional 867 de 1993. Derogado por el art. 17, Decreto Nacional 673 de 1999. Por los defectos en que incurran los establecimientos bancarios, corporaciones financieras, corporaciones de ahorro y vivienda, compañías de financiamiento comercial y organismos cooperativos de grado superior de carácter financiero, respecto de las relaciones máximas de activos a patrimonio señaladas en las disposiciones vigentes, la Superintendencia Bancaria impondrá una multa a favor del Tesorero Nacional por el equivalente al tres punto cinco por ciento (3.5%) del defecto patrimonial que presenten mensualmente, sin exceder, respecto de cada cumplimiento, del uno punto cinco por ciento (1.5%) del patrimonio requerido para dar cumplimiento a dichas relaciones. Lo dispuesto en este artículo se entenderá sin perjuicio de las sanciones que puede imponer la Superintendencia Bancaria en desarrollo del artículo 207 del presente Estatuto.
@@ -1864,8 +1704,6 @@ ARTÍCULO
 En el programa deberá quedar determinada la forma en que la sanción correspondiente aumentará paulatinamente en los porcentajes que sean señalados hasta alcanzar el tope del tres punto cinco por ciento (3.5%) dentro del plazo ya establecido y sin que en ningún caso la cuantía de la sanción exceda del uno punto cinco por ciento (1.5%) del patrimonio requerido para el cumplimiento de la relación.
 
 4. Adicionado por el art. 18, Ley 795 de 2003
-
-ARTÍCULO
 
 ## art:84 — Variación de Capital por Acto de Autoridad
 
@@ -1883,15 +1721,11 @@ La Superintendencia Bancaria podrá hacer reducir el capital de los establecimie
 
 El Gobierno Nacional está facultado para celebrar con el Banco de la República los contratos que sean necesarios para el desarrollo del presente numeral.
 
-ARTÍCULO
-
 ## art:85 — Reserva Legal
 
 Los establecimientos de crédito, sociedades de servicios financieros y sociedades de capitalización deberán constituir una reserva legal que ascenderá por lo menos al cincuenta por ciento (50%) del capital suscrito, formada con el diez por ciento (10%) de las utilidades líquidas de cada ejercicio.
 
 Sólo será procedente la reducción de la reserva legal cuando tenga por objeto enjugar pérdidas acumuladas que excedan del monto total de las utilidades obtenidas en el correspondiente ejercicio y de las no distribuidas de ejercicios anteriores o cuando el valor liberado se destine a capitalizar la entidad mediante la distribución de dividendo en acciones.
-
-ARTÍCULO
 
 ## art:86 — Cómputo de Bonos Obligatoriamente Convertibles en Acciones
 
@@ -1911,8 +1745,6 @@ La deducción a que se refiere el presente artículo se efectuará en cada oport
 
 4. Rendimientos financieros. Para los efectos de los numerales precedentes se entiende por rendimientos financieros de los bonos, además de la tasa de interés reconocida, toda remuneración que tenga derecho a recibir el tenedor del bono, originada en la suscripción del mismo, cualquiera sea su denominación.
 
-ARTÍCULO
-
 ## art:87 — Período de Dividendos
 
 Se denomina período de dividendo el tiempo comprendido entre la fecha en que se declaró el último dividendo y la señalada para la declaración del próximo; o el período comprendido entre la fecha en que empiece la existencia de la respectiva entidad y la fecha en que se decrete el primer dividendo.
@@ -1920,8 +1752,6 @@ Se denomina período de dividendo el tiempo comprendido entre la fecha en que se
 CAPÍTULO. X
 
 PROPIEDAD ACCIONARIA
-
-ARTÍCULO
 
 ## art:88 — Negociación de Acciones
 
@@ -1943,8 +1773,6 @@ Inciso. Adicionado por el art. 20, Ley 795 de 2003
 
 4. Adicionado por el art. 3, Ley 510 de 1999
 
-ARTÍCULO
-
 ## art:89 — Democratización de las Acciones de las Administradoras
 
 Las sociedades administradoras de fondos de pensiones y de cesantía deberán ofrecer en pública suscripción, a más tardar dentro de los dos (2) años siguientes a la fecha en que la Superintendencia expida el correspondiente certificado de autorización, un número de acciones que permita a terceros inversionistas adquirir a lo menos un veinticinco por ciento (25%) del capital de la sociedad.
@@ -1952,8 +1780,6 @@ Las sociedades administradoras de fondos de pensiones y de cesantía deberán of
 La oferta respectiva se hará con sujeción al valor intrínseco de la acción.
 
 Las acciones que no sean colocadas mediante la oferta pública correspondiente, podrán ser suscritas por los accionistas con sujeción al derecho de preferencia.
-
-ARTÍCULO
 
 ## art:90 — Restricciones a la Participación en las Sociedades Corredoras de Reaseguros
 
@@ -1969,8 +1795,6 @@ En las sociedades corredoras de reaseguros no podrán participar como socios:
 
 PARÁGRAFO .- Para efectos del presente artículo se entiende por participación indirecta la inversión que se realice, cualquiera que fuere su modalidad, a través de una sociedad subordinada, en los términos del artículo 260 del Código de Comercio.
 
-ARTÍCULO
-
 ## art:91 — Inversión Extranjera
 
 1. Participación de inversionistas extranjeros. Los inversionistas extranjeros podrán participar en el capital de las instituciones sometidas al control y vigilancia de la Superintendencia Bancaria, suscribiendo o adquiriendo acciones, bonos obligatoriamente convertibles en acciones o aportes sociales de carácter cooperativo, en cualquier proporción.
@@ -1983,8 +1807,6 @@ CAPÍTULO. XI
 
 RÉGIMEN DE OFICINAS
 
-ARTÍCULO
-
 ## art:92 — Régimen de Oficinas de Entidades Vigiladas
 
 Las entidades vigiladas sólo podrán abrir o cerrar sucursales o agencias, en el territorio nacional, previa autorización de la Superintendencia Bancaria.
@@ -1992,8 +1814,6 @@ Las entidades vigiladas sólo podrán abrir o cerrar sucursales o agencias, en e
 La Superintendencia Bancaria podrá impartir la mencionada autorización de manera general o individual, para lo cual deberá cerciorarse de que la conveniencia pública se verá fomentada.
 
 Tratándose de inversiones de capital en sucursales o agencias domiciliadas en el exterior, éstas sólo podrán efectuarse previa aprobación de la Superintendencia Bancaria, con sujeción a las regulaciones que dicten las autoridades competentes.
-
-ARTÍCULO
 
 ## art:93 — Red de Oficinas
 
@@ -2016,8 +1836,6 @@ PARÁGRAFO .- La remuneración pactada deberá ser correspondiente con el servic
 CAPÍTULO XII
 
 OFICINAS DE REPRESENTACIÓN
-
-ARTÍCULO
 
 ## art:94 — Oficinas de Representación de Instituciones Financieras y Compañías de Seguros y Reaseguros del Exterior
 
@@ -2055,8 +1873,6 @@ CAPÍTULO XIII
 
 RÉGIMEN DE LA INFORMACIÓN FINANCIERA Y COMERCIAL
 
-ARTÍCULO
-
 ## art:95 — Contabilidad
 
 1. Régimen general. Modificado por el art. 38, Ley 510 de 1999. El nuevo texto es el siguiente: La Superintendencia Bancaria se encuentra facultada para dictar las normas generales que en materia contable deban observar las entidades vigiladas, sin perjuicio de la autonomía de estas últimas para escoger y utilizar métodos accesorios, de conformidad con la ley. Numeral declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-452 de 2003.
@@ -2066,8 +1882,6 @@ Texto anterior:
 Las entidades vigiladas deberán observar las reglas generales que en materia contable dicte la Superintendencia Bancaria, sin perjuicio de su autonomía para escoger y utilizar métodos accesorios, siempre que éstos no se opongan, directa o indirectamente, a las instrucciones generales impartidas por la Superintendencia.
 
 2. Régimen de las agencias colocadoras de seguros y de títulos de capitalización. Toda agencia deberá tener una organización técnica y contable con sujeción a las normas que dicte al efecto la Superintendencia Bancaria. Numeral declarado EXEQUIBLE por la Corte Constitucional mediante SentenciaC-452 de 2003.
-
-ARTÍCULO
 
 ## art:96 — Conservación de Archivos y Documentos
 
@@ -2080,8 +1894,6 @@ Las historias laborales de los ex funcionarios de las entidades financieras púb
 Texto anterior:
 
 Los establecimientos bancarios, las corporaciones financieras, las corporaciones de ahorro y vivienda, las compañías de financiamiento comercial y las sociedades de servicios financieros deben conservar las constancias de sus asientos definitivos y sus tiquetes de depósito por un período no menor de seis (6) años, desde la fecha del último asiento.
-
-ARTÍCULO
 
 ## art:97 — Información
 
@@ -2108,8 +1920,6 @@ Tratándose de las entidades aseguradoras, publicará, además, en forma periód
 CAPÍTULO XIV
 
 REGLAS RELATIVAS A LA COMPETENCIA Y A LA PROTECCIÓN DEL CONSUMIDOR
-
-ARTÍCULO
 
 ## art:98 — Reglas Generales
 
@@ -2153,15 +1963,11 @@ Igualmente, en la celebración de las operaciones propias de su objeto dichas in
 
 6. Adicionado por el art. 26, Ley 795 de 2003.
 
-ARTÍCULO
-
 ## art:99 — Publicidad y Promoción Comercial mediante Incentivos
 
 1. Programas publicitarios. Los programas publicitarios de las entidades vigiladas deberán contar con la autorización general o individual de la Superintendencia Bancaria, con el fin de que se ajusten a las normas vigentes, a la realidad jurídica y económica del servicio promovido y para prevenir la propaganda comercial que tienda a establecer competencia desleal.
 
 2. Promoción de servicios mediante incentivos. Todas las instituciones financieras y aseguradoras podrán ofrecer directa o indirectamente y mediante su responsabilidad premios por sorteo, establecer planes de seguros de vida a cargo de compañías de seguros debidamente autorizadas para el efecto u otros incentivos, con el fin de promover su imagen, sus productos o servicios, de manera gratuita y exclusivamente entre sus clientes, en las condiciones que señale el Gobierno Nacional. Este deberá dictar normas con el fin de evitar que el costo de los premios o seguros se traduzca en mayores cargas o en menores rendimientos o retribuciones al ahorrador o usuario del producto o servicio promocionado. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-332 de 2000.
-
-ARTÍCULO
 
 ## art:100 — Régimen de Protección a Tomadores de Seguros y Asegurados
 
@@ -2178,8 +1984,6 @@ Tampoco constituirá práctica restrictiva de la competencia la celebración de 
 CAPÍTULO XV
 
 REGLAS ESPECIALES SOBRE ASEGURAMIENTO DE BIENES
-
-ARTÍCULO
 
 ## art:101 — Reglas Especiales
 
@@ -2200,8 +2004,6 @@ Las entidades aseguradoras en las cuales partícipe el capital estatal, en un po
 CAPÍTULO XVI
 
 PREVENCIÓN DE ACTIVIDADES DELICTIVAS
-
-ARTÍCULO
 
 ## art:102 — Régimen General
 
@@ -2241,8 +2043,6 @@ Este organismo podrá en cualquier tiempo formular observaciones a las instituci
 
 4. Alcance y cobertura del control. Los mecanismos de control y auditoría de que se trata este artículo podrán versar exclusivamente sobre las transacciones, operaciones o saldos cuyas cuantías sean superiores a las que se fijen como razonables y suficientes. Tales cuantías se establecerán en el mecanismo que adopte cada entidad atendiendo al tipo de negocios que realiza, amplitud de su red, los procedimientos de selección de clientes, el mercadeo de sus productos, capacidad operativa y nivel de desarrollo tecnológico.
 
-ARTÍCULO
-
 ## art:103 — Control de las Transacciones en Efectivo
 
 1. Transacciones sujetas a control. Toda institución financiera deberá dejar constancia, en formulario especialmente diseñado al efecto, de la información relativa a las transacciones en efectivo que realice, en moneda legal o extranjera cuyo valor sea superior a las cuantías que periódicamente señale la Superintendencia Bancaria.
@@ -2273,8 +2073,6 @@ Las transacciones realizadas entre instituciones financieras sujetas a control y
 
 2. Control de múltiples transacciones en efectivo. Cuando el giro ordinario de los negocios de un cliente determinado implique la realización corriente de numerosas transacciones en efectivo, la entidad financiera respectiva podrá llevar un registro de transacciones en efectivo en lugar del formulario individual al que se refiere el numeral anterior, en el cual se anotará, por lo menos, toda la información que debe consignarse en dicho formulario, salvo por lo previsto en el numeral 1 de la letra a. de la presente disposición. Las entidades financieras que decidan llevar dichos registros deberán informar mensualmente a la Superintendencia Bancaria las personas que sean objeto de este procedimiento.
 
-ARTÍCULO
-
 ## art:104 — Información Periódica
 
 Modificado por el art. 25, Ley 365 de 1997, Modificado por el art. 27, Ley 795 de 2003. El nuevo texto es el siguiente: Toda institución financiera deberá informar a la Unidad de Información y Análisis Financiero (UIAF), la totalidad de las transacciones en efectivo de que trata el artículo anterior, conforme a las instrucciones que al efecto imparta la Superintendencia Bancaria, en aplicación del artículo 10 de la Ley 526 de 1999.
@@ -2282,8 +2080,6 @@ Modificado por el art. 25, Ley 365 de 1997, Modificado por el art. 27, Ley 795 d
 Texto anterior:
 
 Toda institución financiera deberá informar periódicamente a la Superintendencia Bancaria el número de transacciones en efectivo a las que se refiere el numeral anterior y su localización geográfica conforme a las instrucciones que al efecto imparta ese organismo.
-
-ARTÍCULO
 
 ## art:105 — Reserva sobre la Información Reportada
 
@@ -2301,13 +2097,9 @@ Las autoridades que tengan conocimiento de las informaciones y documentos a que 
 
 Las entidades y sus funcionarios no podrán dar a conocer a las personas que hayan efectuado o intenten efectuar operaciones sospechosas, que han comunicado a la Fiscalía General de la Nación información sobre las mismas, y deberán guardar reserva sobre dicha información.
 
-ARTÍCULO
-
 ## art:106 — Modificación de Normas sobre Control
 
 Con el fin de asegurar el cumplimiento de las obligaciones establecidas en el numeral 1 del artículo 102 y numeral 1 del artículo 103 del presente Estatuto, el Gobierno Nacional podrá modificar las disposiciones de este capítulo relacionadas con los requisitos y procedimientos que deben adoptar con tal propósito las entidades sometidas al control y vigilancia de la Superintendencia Bancaria.
-
-ARTÍCULO
 
 ## art:107 — Sanciones
 
@@ -2316,8 +2108,6 @@ El incumplimiento de lo dispuesto en los artículos anteriores por la no adopci�
 CAPÍTULO XVII
 
 EJERCICIO ILEGAL DE LAS ACTIVIDADES FINANCIERA Y ASEGURADORA
-
-ARTÍCULO
 
 ## art:108 — Principios Generales
 
@@ -2351,8 +2141,6 @@ Los contratos y operaciones celebrados en contravención a lo dispuesto en este 
 
 5. Utilización de la palabra ahorros. Ningún banco, individuo, sociedad, compañía colectiva o corporación distinta de una entidad debidamente autorizada para usar la palabra ahorros, podrá hacer uso de las palabras "ahorro" o "ahorros", o sus equivalentes, en sus negocios o poner cualquier aviso o señal escrita que contenga las palabras "ahorro" o "ahorros", o sus equivalente ni podrá ninguna persona natural o jurídica distinta de una entidad debidamente autorizada solicitar o recibir en forma alguna depósitos de ahorros.
 
-ARTÍCULO
-
 ## art:109 — Limitaciones en la Publicidad
 
 Ninguna persona o sociedad, excepto el Banco de la República y aquellas debidamente autorizadas por el Superintendente Bancario, podrá hacer uso de ningún aviso de oficina en el lugar donde haga sus negocios, que contenga un nombre artificial u otras palabras que indiquen que aquel lugar u oficina corresponde a un banco, corporación financiera, corporación de ahorro y vivienda, compañía de financiamiento comercial, sociedad de servicios financieros o sociedad de capitalización, ni podrá persona alguna usar o circular membretes, encabezamiento de facturas, esqueletos en blanco, documentos, recibos, certificados, circulares o cualquier papel escrito o impreso en todo o en parte, que contengan un nombre artificial o de entidad, u otra palabra o palabras que indiquen que tales negocios son los de una de las entidades mencionadas.
@@ -2360,8 +2148,6 @@ Ninguna persona o sociedad, excepto el Banco de la República y aquellas debidam
 CAPÍTULO. XVIII
 
 OTRAS INVERSIONES Y OPERACIONES DE LAS INSTITUCIONES FINANCIERAS
-
-ARTÍCULO
 
 ## art:110 — Inversiones
 
@@ -2409,8 +2195,6 @@ Todo bien raíz que compre o adquiera una de tales entidades, conforme a las let
 
 9. Adicionado por el art. 14, Ley 1735 de 2014.
 
-ARTÍCULO
-
 ## art:111 — Otras Operaciones
 
 1. Operaciones de cambio. De conformidad con el artículo 8 de la Ley 9 de 1991, las instituciones financieras autorizadas para operar como intermediarios del mercado cambiario, podrán realizar las operaciones de cambio, en las condiciones y con los requisitos que determinen las autoridades competentes.
@@ -2426,8 +2210,6 @@ Lo dispuesto en el presente artículo no se aplicará respecto de las acciones o
 CAPÍTULO XIX
 
 INVERSIONES OBLIGATORIAS
-
-ARTÍCULO
 
 ## art:112 — INVERSIÓN EN TÍTULOS DE DESARROLLO AGROPECUARIO
 
@@ -2455,8 +2237,6 @@ PARÁGRAFO . Adicionado por el art. 79, Ley 1450 de 2011.
 CAPÍTULO. XX
 
 INSTITUTOS DE SALVAMENTO Y PROTECCIÓN DE LA CONFIANZA PÚBLICA
-
-ARTÍCULO
 
 ## art:113 — Medidas Preventivas de la Toma de Posesión
 
@@ -2504,8 +2284,6 @@ CAPÍTULO. XXI
 
 TOMA DE POSESIÓN
 
-ARTÍCULO
-
 ## art:114 — Causales
 
 Modificado por el art. 20, Ley 510 de 1999
@@ -2548,8 +2326,6 @@ Inciso. Adicionado por el art. 34, Ley 795 de 2003.
 
 b). Cuando haya expirado el plazo para presentar programas de recuperación o no se cumplan las metas de los mismos, en los casos que de manera general señale el Gobierno Nacional, de conformidad con el artículo 48, literal i).
 
-ARTÍCULO
-
 ## art:115 — Procedencia de la Medida
 
 Modificado por el art. 21, Ley 510 de 1999. El nuevo texto es el siguiente: El Superintendente Bancario, previo concepto del Consejo Asesor y con la aprobación del Ministro de Hacienda y Crédito Público, podrá tomar inmediata posesión de los bienes, haberes y negocios de una institución vigilada.
@@ -2563,8 +2339,6 @@ Texto anterior:
 El Superintendente Bancario, previo concepto del Consejo Asesor y con la aprobación del Ministro de Hacienda y Crédito Público, podrá tomar inmediata posesión de los bienes, haberes y negocios de una institución vigilada para su administración o para su liquidación.
 
 Cuando se trate de la toma de posesión para administrar una institución vigilada, con el objeto de colocarla en condiciones de desarrollar su objeto social de acuerdo con las disposiciones legales, así deberá consignarlo expresamente el Superintendente Bancario en la respectiva resolución.
-
-ARTÍCULO
 
 ## art:116 — Toma de Posesión para Liquidar
 
@@ -2632,8 +2406,6 @@ i. Los contratos de seguros, cualquiera que a su clase, celebrados por una entid
 
 4. Responsabilidad de directores y administradores. Todo director o gerente de una institución vigilada que viole a sabiendas o permita que se violen las disposiciones legales, será responsable de las pérdidas que cualquier individuo o corporación sufra por tales infracciones, sin perjuicio de las demás sanciones que señala la ley.
 
-ARTÍCULO
-
 ## art:117 — Modificado por el art
 
 23, Ley 510 de 1999. El nuevo texto es el siguiente: Liquidación como consecuencia de la toma de posesión
@@ -2676,8 +2448,6 @@ CAPÍTULO. I
 
 DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS
 
-ARTÍCULO
-
 ## art:118 — Operaciones Especiales
 
 1. Operaciones fiduciarias autorizadas. A partir de la vigencia de la Ley 45 de 1990, los establecimientos de crédito no podrán prestar servicios fiduciarios, salvo tratándose de operaciones de recaudo y transferencia de fondos que sean complementarias o vinculadas a sus actividades o cuando obren como agentes de transferencia y registro de valores o como depositarios. En ningún caso, la actuación como depositario en desarrollo del presente numeral podrá implicar la recepción de moneda corriente, divisas o de cheques, giros y letras de cambio u otros documentos análogos para su cobro.
@@ -2687,8 +2457,6 @@ No se aplicará lo dispuesto en este numeral a las instituciones financieras de 
 PARÁGRAFO .- Sin perjuicio de lo dispuesto en el presente numeral, los establecimientos de crédito conservarán plena capacidad para ejecutar hasta su culminación los contratos de fiducia de administración o disposición, celebrados con anterioridad a la vigencia de la ley en mención, cuya finalidad sea la de garantizar o pagar pasivos. Para el efecto, el establecimiento de crédito podrá ejercer las mismas facultades y estará sometido a las mismas obligaciones previstas en la ley y en el contrato.
 
 2. Nuevas operaciones financieras. Las operaciones y servicios financieros nuevos que no versen sobre actividades propias de entidades vigiladas por la Superintendencia de Valores podrán prestarse por los establecimientos de crédito, previa autorización de su junta directiva. En todo caso, los establecimientos deberán informar a la Superintendencia Bancaria las características de la operación o servicio con una antelación no menor de quince (15) días a la fecha en que vayan a iniciar su prestación. Una vez recibida esta información, la Superintendencia Bancaria suministrará copia de la misma a la Junta Directiva del Banco de la República cuando ésta lo solicite. Dicha Superintendencia podrá ordenar la suspensión de las mencionadas operaciones de oficio o a petición de la Junta Directiva del Banco de la República, cuando impliquen desviaciones al marco propio de las actividades de tales instituciones o por razones de política monetaria o crediticia.
-
-ARTÍCULO
 
 ## art:119 — Régimen de Filiales de Servicios Financieros y Comisionistas de Bolsa
 
@@ -2738,8 +2506,6 @@ PARÁGRAFO 2. Adicionado por el art. 5, Ley 1735 de 2014.
 
 4. Autonomía de las filiales. La actividad de las filiales de entidades sometidas al control y vigilancia de la Superintendencia Bancaria deberá realizarse en condiciones de independencia y autonomía administrativa, de modo que tengan suficiente capacidad de decisión propia para realizar las operaciones que constituyen su objeto.
 
-ARTÍCULO
-
 ## art:120 — Normas Aplicables a las Operaciones Activas de Crédito
 
 1. Información requerida para el otorgamiento de crédito. Derogado por el art. 101, Ley 1328 de 2009. De conformidad con el artículo 620 del Decreto 624 de 1989 (Estatuto Tributario), para efectos del otorgamiento de préstamos las entidades de crédito deberán fundamentarse en la información contenida en la declaración de renta y complementarios del solicitante, correspondiente al último período gravable.
@@ -2772,8 +2538,6 @@ La Caja de Crédito Agrario, Industrial y Minero y demás entidades financieras 
 
 El Gobierno dispondrá en el reglamento la forma de realizar el registro de los actos a que se refiere el presente numeral.
 
-ARTÍCULO
-
 ## art:121 — Sistemas de Pago e Intereses
 
 1. Capitalización de intereses en operaciones de largo plazo. En operaciones de largo plazo los establecimientos de crédito podrán utilizar sistemas de pago que contemplen la capitalización de intereses, de conformidad con las reglamentaciones que para el efecto expida el Gobierno Nacional. Texto subrayado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-747 de 1999.
@@ -2792,8 +2556,6 @@ En cualquier sistema de interés compuesto o de capitalización de intereses se 
 
 PARÁGRAFO .- Toda tasa de interés legal o convencional en la cual no se indique una periodicidad de pago determinada se entenderá expresada en términos de interés efectivo anual.
 
-ARTÍCULO
-
 ## art:122 — Limitaciones a las Operaciones Activas de Crédito
 
 1. Operaciones con socios o administradores y sus parientes. Modificado por el art. 36, Ley 795 de 2003 Las operaciones activas de crédito que celebren las entidades vigiladas por la Superintendencia Bancaria con sus accionistas titulares del cinco por ciento (5%) o más del capital suscrito, con sus administradores, así como las que celebren con los cónyuges y parientes de sus socios y administradores dentro del segundo grado de consanguinidad o de afinidad, o único civil, requerirán para su aprobación del voto unánime de los miembros de la junta directiva. En el acta de la correspondiente reunión de la junta directiva se dejará constancia, además, de haberse verificado el cumplimiento de las normas sobre límites al otorgamiento de crédito o cupos máximos de endeudamiento vigentes en la fecha de aprobación de la operación.
@@ -2801,8 +2563,6 @@ ARTÍCULO
 En estas operaciones no podrán convenirse condiciones diferentes a las que generalmente utiliza la entidad para con el público, según el tipo de operación, salvo las que se celebren con los administradores para atender sus necesidades de salud, educación, vivienda y transporte.
 
 2. Sanciones institucionales por violación a las normas sobre límites de crédito. Sin perjuicio de las sanciones de carácter personal previstas en la ley, la violación por parte de las entidades sometidas a control y vigilancia de la Superintendencia Bancaria, con excepción de los intermediarios de seguros, de lo dispuesto en las normas sobre límites a las operaciones activas de crédito podrá dar lugar, por cada infracción, a la imposición de una multa a favor del Tesoro Nacional, hasta por el doble del exceso sobre el límite señalado, que impondrá la Superintendencia Bancaria.
-
-ARTÍCULO
 
 ## art:123 — Régimen de Algunas Operaciones Pasivas
 
@@ -2822,8 +2582,6 @@ CAPÍTULO. II
 
 DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS BANCARIOS
 
-ARTÍCULO
-
 ## art:124 — Aspectos Generales
 
 1. Restricciones en la emisión de obligaciones. Ningún establecimiento bancario podrá emitir obligaciones que puedan o deban circular como moneda.
@@ -2833,8 +2591,6 @@ ARTÍCULO
 Si transcurridos veinte (20) días después de vencido el plazo de una obligación garantizada con prenda, el deudor no hubiere cancelado, podrá el banco, previo aviso al deudor, hacer rematar la prenda en un martillo, debiendo entregar al prestatario lo que sobre, deducido del producto del remate el capital, intereses y gastos.
 
 3. Destinación regional preferente de los depósitos. Derogado por el art. 101, Ley 1328 de 2009. Los depósitos de una sucursal bancaria servirán preferentemente para atender a las solicitudes de préstamos de la región respectiva. Para los efectos de ese numeral, el Superintendente Bancario dividirá el territorio de la República en zonas bancarias.
-
-ARTÍCULO
 
 ## art:125 — Normas sobre Cuentas Corrientes Bancarias
 
@@ -2847,8 +2603,6 @@ El crédito así concedido ganará intereses en los términos previstos en el ar
 3. Negociabilidad interbancaria de cheques fiscales. En los eventos de negociabilidad interbancaria de cheques fiscales, de acuerdo con el artículo 2 de la Ley 1 de 1980, el banco consignatario deberá dejar constancia en el reverso del cheque de la cuenta de la entidad pública a la cual ha sido abonado el importe respectivo.
 
 4. Responsabilidad por pago irregular de cheques fiscales. De conformidad con el artículo 5 de la Ley 1 de 1980, los establecimientos bancarios que pagaren o negociaren o en cualquier forma violaren lo prescrito en dicha ley, responderán en su totalidad por el pago irregular y sus empleados responsables quedarán sometidos a las sanciones legales y reglamentarias del caso.
-
-ARTÍCULO
 
 ## art:126 — Normas Sobre Secciones de Ahorros
 
@@ -2867,8 +2621,6 @@ Tales contratos no estipularán pérdida alguna de las sumas depositadas en caso
 a. Inversiones u operaciones de crédito ordinarias o de fomento, y
 
 b. En valores de renta fija emitidos por entidades de derecho público, establecimientos de crédito o sociedades anónimas nacionales.
-
-ARTÍCULO
 
 ## art:127 — Condiciones de los Depósitos de Ahorros
 
@@ -2896,8 +2648,6 @@ La junta directiva de cualquier establecimiento bancario puede en sus reglamento
 
 7. Entrega de depósitos sin juicio de sucesión. Modificado por el art. 119, Ley 1395 de 2010, Modificado por el art. 5, Ley 1555 de 2012. Si muriere una persona dejando una cuenta en la sección de ahorros cuyo saldo a favor de aquella no exceda del límite que se determine de conformidad con el reajuste anual ordenado en el artículo 29 del Decreto 2349 de 1965, y no hubiera albacea nombrado o administrador de los bienes de la sucesión, el establecimiento bancario puede, a su juicio, pagar el saldo de dicha cuenta al cónyuge sobreviviente, o a los herederos, o a uno y otros conjuntamente, según el caso, sin necesidad de juicio de sucesión. Como condición de este pago el establecimiento bancario puede requerir declaraciones juradas respecto a las partes interesadas, la presentación de las debidas renuncias, la expedición de un documento de garantía por la persona a quien el pago se haga y el recibo del caso, como constancia de pago. Por razón de tal pago, hecho de acuerdo con este numeral, el establecimiento bancario no tendrá responsabilidad para con el albacea o el administrador nombrados después.
 
-ARTÍCULO
-
 ## art:128 — Tasas de Interés en Operaciones Pasivas
 
 1. Tasas de interés de los depósitos de ahorro, comunes y a término. De acuerdo con los artículos 1 y 3 del Decreto 2994 de 1990, las tasas de interés que ofrezcan reconocer los bancos comerciales por la captación de recursos mediante depósitos de ahorro, comunes y a término, así como su forma de liquidación, serán fijadas libremente por la entidad depositaria e informadas al público, de acuerdo con la reglamentación que para el efecto expida la Superintendencia Bancaria.
@@ -2905,8 +2655,6 @@ ARTÍCULO
 2. Variación de la tasa fijada. Las tasas de interés que se fijen conforme al numeral anterior, no podrán ser variadas durante el período de liquidación del respectivo depósito.
 
 3. Tasas de interés de los certificados de depósito de ahorro a término. De acuerdo con el artículo 2 del Decreto 2994 de 1990 las secciones de ahorro de los bancos comerciales podrán convenir libremente con los depositantes las tasas de interés en las captaciones de ahorro que efectúen a través de certificados de depósito de ahorro a término.
-
-ARTÍCULO
 
 ## art:129 — 
 
@@ -2934,8 +2682,6 @@ Los bancos hipotecarios podrán recibir depósitos de sumas fijas, a intervalos 
 
 6. Libertad en la estipulación de condiciones sobre sus operaciones. Los bancos hipotecarios tendrán libertad para estipular los intereses, comisiones y cuotas de amortización que hayan de cobrar y pagar, así como los plazos de sus obligaciones activas y pasivas y el modo de cumplirlas.
 
-ARTÍCULO
-
 ## art:130 — Disposiciones Relativas a las Cédulas Hipotecarias
 
 1. Naturaleza de las cédulas. Las cédulas emitidas por los bancos hipotecarios serán únicamente cédulas hipotecarias, con el carácter de documentos de inversión.
@@ -2962,8 +2708,6 @@ Además de los sorteos ordinarios, los bancos pueden hacer sorteos extraordinari
 
 Las cédulas de su emisión que recobren los bancos hipotecarios por reembolso de préstamo, se considerarán fuera de circulación, para el efecto de establecer la proporción entre las cédulas que se hallen en circulación y el importe de los créditos hipotecarios vigentes. Las cédulas recibidas en reembolso por concepto de capital de préstamos, deberán amortizarse.
 
-ARTÍCULO
-
 ## art:131 — Inversiones de los Bancos Cooperativos
 
 En materia de inversiones a los bancos cooperativos les será aplicable la disposición consagrada en la letra b) del artículo 28 del presente Estatuto y las normas generales dictadas para establecimientos bancarios, en cuanto estas últimas resulten compatibles con su naturaleza.
@@ -2971,8 +2715,6 @@ En materia de inversiones a los bancos cooperativos les será aplicable la dispo
 CAPÍTULO. III
 
 DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LAS CORPORACIONES FINANCIERAS
-
-ARTÍCULO
 
 ## art:132 — Aspectos Generales
 
@@ -2989,8 +2731,6 @@ d. La transformación es el cambio de forma social que experimenta una sociedad 
 e. La expansión es la ampliación de la capacidad productiva de una empresa;
 
 f. El patrimonio de una corporación será aquel que se haya definido para las relaciones o márgenes de solvencia en este tipo de entidades.
-
-ARTÍCULO
 
 ## art:133 — Régimen de la Emisión de Bonos de Garantía General
 
@@ -3060,8 +2800,6 @@ h. Manifestación acerca de que, además, las condiciones del título se rigen p
 
 5. Procedimiento de reposición, cancelación y reivindicación. Para efectos de la reposición, cancelación o reivindicación de los bonos de garantía general emitidos por las corporaciones financieras, se aplicará lo dispuesto en los artículos 802 y siguientes del Código de Comercio cuando los títulos se expidan a la orden. En el evento de ser nominativos se adelantará para los efectos previstos en esta norma, el procedimiento establecido en el artículo 402 del Código de Comercio.
 
-ARTÍCULO
-
 ## art:134 — 
 
 134. Unidad de Poder Adquisitivo Constante - UPAC -
@@ -3078,19 +2816,15 @@ En desarrollo del principio de valor constante de ahorros y préstamos consagrad
 
 A los depósitos que se efectúen y retiren en la misma fecha no se les reconocerá corrección monetaria. ARTÍCULO declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia C-700 de 1999.
 
-ARTÍCULO
-
 ## art:135 — Amortización de Créditos con Cesantía
 
 Los beneficiarios de créditos para la adquisición o construcción de vivienda propia, que tenga derecho al auxilio de cesantía, podrán destinarlo total o parcialmente, para abonar sus obligaciones. El empleador correspondiente deberá, con base en un acuerdo escrito de pignoración, girar a la respectiva corporación de ahorro y vivienda en el mes de enero de cada año el valor de las cesantías causadas y comprometidas hasta el 31 de diciembre del año inmediatamente anterior, bastando únicamente para ello la certificación escrita de la corporación sobre el saldo de la obligación vigente. ARTÍCULO declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia C-700 de 1999.
 
-## art:136 — Inversiones en Sociedades de Servicios Financieros
+## art:136 — - Inversiones en Sociedades de Servicios Financieros
 
 Las corporaciones de ahorro y vivienda podrán participar en el capital de sociedades fiduciarias y de fondos de pensiones y de cesantía. ARTÍCULO declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia C-700 de 1999.
 
 PARÁGRAFO .- Las inversiones a que hace referencia el presente artículo estarán sujetas a las previsiones establecidas en el artículo 119, numerales 1, 2 y 3 del presente Estatuto.
-
-ARTÍCULO
 
 ## art:137 — Tasas de Interés
 
@@ -3099,8 +2833,6 @@ ARTÍCULO
 2. Tasa de interés por captaciones. Las corporaciones de ahorro y vivienda podrán pactar libremente con los depositantes la tasa de interés que reconocerán sobre depósitos respecto de los cuales expidan certificados a término.
 
 3. Oferta de tasas. Las tasas de interés que ofrezcan reconocer las corporaciones de ahorro y vivienda por concepto de depósitos en cuenta de ahorros de valor constante o de los depósitos ordinarios serán informadas al público en la forma y términos que establezca la Superintendencia Bancaria. ARTÍCULO declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia C-700 de 1999.
-
-ARTÍCULO
 
 ## art:138 — Condiciones de los Depósitos Ordinarios y de Ahorro
 
@@ -3112,13 +2844,9 @@ ARTÍCULO
 
 4. Entrega de depósitos sin juicio de sucesión e inembargabilidad. En razón de lo dispuesto por el artículo 213 del presente Estatuto la entrega por parte de las corporaciones de ahorro y vivienda de los saldos de depósitos en cuenta de ahorros y de depósitos ordinarios, así como la inembargabilidad de los mismos, se sujetará a las disposiciones contenidas en los artículos 126 numeral 4 y 127 numeral 7 de este Estatuto. ARTÍCULO declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia C-700 de 1999.
 
-ARTÍCULO
-
 ## art:139 — Cobro de los Servicios Ofrecidos a los Depositantes
 
 Las corporaciones de ahorro y vivienda podrán cobrar por todos los servicios que presten a sus depositantes, tales como suministros de libretas de cuentas de ahorro, transferencias de fondos y uso de los sistemas electrónicos de depósito y retiro. Artículo declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia C-700 de 1999.
-
-ARTÍCULO
 
 ## art:140 — Restricciones
 
@@ -3132,8 +2860,6 @@ CAPÍTULO. V
 
 DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LAS COMPAÑÍAS DE FINANCIAMIENTO COMERCIAL
 
-ARTÍCULO
-
 ## art:141 — Condiciones de Algunas Operaciones de las Compañías de Financiamiento Comercial
 
 1. Otorgamiento de aceptaciones. Las compañías de financiamiento comercial sólo podrán otorgar aceptaciones previa presentación de documentos que reflejen que la relación causal que ha dado lugar a la emisión del título valor es una compraventa cierta de mercaderías, con identificación plena del girador y del tenedor inicial de aquél.
@@ -3143,8 +2869,6 @@ Las compañías de financiamiento comercial deberán dejar constancia en los reg
 2. Desarrollo de la operación de leasing por parte de las Compañías de Financiamiento Comercial. Derogado por el art. 123, Ley 510 de 1999. Las compañías de financiamiento comercial existentes o que se constituyan podrán realizar a su vez operaciones de leasing, desde el 1 de julio de 1993, hasta el porcentaje máximo que señale el Gobierno Nacional.
 
 El porcentaje máximo de operaciones de arrendamiento financiero que se autorice a las compañías de financiamiento comercial será igual al que se fije a las compañías especializadas en leasing para realizar operaciones activas de crédito.
-
-ARTÍCULO
 
 ## art:142 — 
 
@@ -3160,21 +2884,15 @@ CAPÍTULO. VI
 
 DISPOSICIONES ESPECIALES RELATIVAS A LOS ORGANISMOS FINANCIEROS DE GRADO SUPERIOR DE CARÁCTER FINANCIERO
 
-ARTÍCULO
-
 ## art:143 — Capital Mínimo para Mantener Sección de Ahorros
 
 Suprimido por el art. 57, Ley 454 de 1998. Sin perjuicio de la existencia de aportes mínimos no reducibles, conforme a la Ley 79 de 1998, en los estatutos deberá establecerse el capital destinado para la sección de ahorros, el cual no podrá ser inferior al monto que fije el Gobierno Nacional y también tendrá el carácter de mínimo e irreducible.
-
-ARTÍCULO
 
 ## art:144 — Préstamos a Administradores
 
 Suprimido por el art. 57, Ley 454 de 1998. De conformidad con el artículo 15 del Decreto 1111 de 1989, en ningún caso las personas con cargo de dirección, administración o vigilancia en las entidades cooperativas podrán obtener para sí o para las entidades que representan, préstamos u otros beneficios por fuera de las reglamentaciones generales establecidas para el común de los asociados, so pena de incurrir en la pérdida del cargo y sin perjuicio de las otras sanciones a que hubiere lugar.
 
 Los organismos cooperativos de grado superior de carácter financiero, además observarán las limitaciones generales que sobre operaciones activas de crédito dicte el Gobierno Nacional para las instituciones financieras.
-
-ARTÍCULO
 
 ## art:145 — Tasas de Interés de Captación
 
@@ -3191,8 +2909,6 @@ DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVI
 CAPÍTULO. I
 
 DISPOSICIONES RELATIVAS A LAS OPERACIONES DE LAS SOCIEDADES FIDUCIARIAS
-
-ARTÍCULO
 
 ## art:146 — Normas Generales de las Operaciones Fiduciarias
 
@@ -3218,8 +2934,6 @@ Las sociedades fiduciarias, podrán constituir y administrar simultáneamente va
 
 PARÁGRAFO . Mientras el Gobierno Nacional señala los límites a que hace referencia este artículo, el valor total de los recursos recibidos por una sociedad fiduciaria para la integración del fondo común ordinario no podrá exceder de cuarenta y ocho (48) veces el monto de su capital pagado y reserva legal, ambos saneados.
 
-ARTÍCULO
-
 ## art:147 — Modificado por el art
 
 8, Ley 510 de 1999. Inversiones Autorizadas con Recursos Propios. Las sociedades fiduciarias podrán participar en el capital de sociedades administradoras de fondos de pensiones y de cesantía.
@@ -3227,8 +2941,6 @@ ARTÍCULO
 PARÁGRAFO . Las inversiones a que hace referencia el presente artículo estarán sujetas a las previsiones establecidas en los numerales 1, 2 y 3 del artículo 119 del presente Estatuto.
 
 No obstante, la inversión autorizada a las sociedades fiduciarias no estará sometida al requisito contemplado en la letra c, numeral 1 del artículo 119 del presente Estatuto, en cuanto el capital de la sociedad administradora de fondos de pensiones y cesantías pertenezca cuando menos en un noventa por ciento (90%) a las mismas
-
-ARTÍCULO
 
 ## art:148 — Garantía de la Gestión Fiduciaria
 
@@ -3243,8 +2955,6 @@ Las sociedades fiduciarias que hayan depositado tales seguridades ante el Superi
 2. Custodia de las seguridades. Todas las seguridades depositadas por cualquier entidad, en manos del Superintendente, de acuerdo con las prescripciones legales, serán colocadas por éste en el Banco de la República, como depósito de confianza, en nombre del Superintendente y de la entidad que deposite la seguridad. El Banco de la República suministrará al Superintendente Bancario, de modo gratuito, una o más cajas de seguridad en sus bóvedas adecuadas para el fin indicado y provistas de doble cerradura o combinación y procurará el acceso común y el control del Superintendente y del empleado del banco autorizado para tener la otra llave o combinación sobre las seguridades así depositadas.
 
 Mientras dicho establecimiento continúe solvente y cumpla con las leyes de la República, el Superintendente le pagará o le permitirá que reciba los intereses devengados por tales seguridades.
-
-ARTÍCULO
 
 ## art:149 — Fiducia para la Emisión de Títulos
 
@@ -3267,8 +2977,6 @@ De otra parte, el monto de la emisión no se sujetará a los límites previstos 
 3. Emisión de títulos de deuda. Según lo previsto en el artículo 26 de la Ley 3 de 1991, cuando se utilice la fiducia en garantía para respaldar obligaciones derivadas de créditos destinados a la financiación de proyectos inmobiliarios, las entidades fiduciarias podrán emitir títulos de deuda como los considerados en la Ley 9 de 1989, tomando como base un razonable porcentaje del mayor valor que con el tiempo adquiera el inmueble.
 
 Tales títulos se expedirán a solicitud del fideicomitente y otorgarán al beneficiario los mismos derechos derivados del contrato de fiducia mercantil.
-
-ARTÍCULO
 
 ## art:150 — Representación de Tenedores de Bonos
 
@@ -3302,8 +3010,6 @@ CAPÍTULO. II
 
 NORMAS SOBRE EL FIDEICOMISO DE INVERSIÓN
 
-ARTÍCULO
-
 ## art:151 — 
 
 151. Normas Comunes a los Fideicomisos de Inversión.
@@ -3329,8 +3035,6 @@ En consecuencia, las sociedades fiduciarias se abstendrán de garantizar, por cu
 CAPÍTULO. III
 
 REGLAMENTACIÓN ESPECÍFICA DE LOS FONDOS COMUNES ORDINARIOS DE INVERSIÓN
-
-ARTÍCULO
 
 ## art:152 — Aspectos Generales del Fondo Común Ordinario
 
@@ -3363,8 +3067,6 @@ e. Los demás que ocasione la operación normal del fondo.
 PARÁGRAFO . Los recursos del fondo podrán destinarse a la celebración de operaciones activas de reporto, siempre que éstas se realicen sobre los títulos a que se refiere el presente artículo.
 
 4. Liquidación. En caso de liquidación definitiva de un fondo común de inversión, el administrador fiduciario podrá previa autorización de la Superintendencia Bancaria, pagar a los constituyentes y adherentes o a los beneficiarios designados por ellos el valor de los derechos que les correspondan en el respectivo fondo mediante la distribución en especie de los activos que lo integran, de acuerdo con el avalúo técnico que de los mismos se practique para el efecto.
-
-ARTÍCULO
 
 ## art:153 — Derogado por el art
 
@@ -3410,8 +3112,6 @@ p. Una exposición clara acerca de la política de inversión que seguirá el fo
 
 PARÁGRAFO . Toda modificación o adición que se pretenda introducir al reglamento de administración deberá ser previamente sometida a la aprobación de la Superintendencia Bancaria.
 
-ARTÍCULO
-
 ## art:154 — Derechos de los Constituyentes o Adherentes al Fondo Común Ordinario
 
 Derogado por el art. 111, Decreto Nacional 2175 de 2007. Los constituyentes y adherentes o los beneficiarios designados por ellos, tendrán además de los expresamente pactados, y de aquellos que la ley les asigne según el tipo de contrato fiduciario celebrado, los siguientes derechos:
@@ -3423,8 +3123,6 @@ b. Examinar los documentos relacionados con el fondo, con excepción de los que 
 c. Ceder sus derechos en el fondo, siempre y que no se haya pactado en contra dentro del contrato, y
 
 d. Solicitar la redención total o parcial de los derechos que les correspondan en el fondo, de conformidad con el reglamento del mismo, sin perjuicio de lo previsto en la letra g numeral 2 del artículo 153 de este Estatuto, respecto del preaviso que debe pactarse a favor del fiduciario.
-
-ARTÍCULO
 
 ## art:155 — Obligaciones Especiales del Fiduciario en el Fondo Común Ordinario
 
@@ -3445,8 +3143,6 @@ f. Consagrar su actividad de administración exclusivamente en favor de los inte
 g. Velar porque el fondo mantenga una adecuada estructura de liquidez, particularmente en lo concerniente a la atención de las redenciones de los derechos de los constituyentes o adherentes, y
 
 h. Cumplir las disposiciones fiscales que sean aplicables a los negocios de fideicomiso de inversión.
-
-ARTÍCULO
 
 ## art:156 — Derogado por el art
 
@@ -3488,8 +3184,6 @@ m. Aceptar los contratos fiduciarios de inversión o los derechos en ellos conte
 
 n. Invertir los recursos del fondo en títulos emitidos, aceptados, avalados o garantizados en cualquier otra forma por la propia institución fiduciaria.
 
-ARTÍCULO
-
 ## art:157 — Límites a los Fondos Comunes Ordinarios
 
 Derogado por el art. 111, Decreto Nacional 2175 de 2007.
@@ -3505,8 +3199,6 @@ PARÁGRAFO .- Quedan exceptuados de la limitación porcentual establecida en el 
 CAPÍTULO. IV
 
 DISPOSICIONES RELATIVAS A LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTÍA
-
-ARTÍCULO
 
 ## art:158 — Normas Especiales de las Sociedades Administradoras de Fondos de Pensiones y de Cesantía
 
@@ -3524,8 +3216,6 @@ CAPÍTULO. V
 
 RÉGIMEN DE LOS FONDOS DE CESANTÍA
 
-ARTÍCULO
-
 ## art:159 — Aspectos Generales
 
 1. Definición. El fondo de cesantía es un patrimonio autónomo independiente del de la sociedad administradora, constituido con el aporte del auxilio de cesantía previsto en el capítulo VII, título VIII, parte primera, del Código Sustantivo del Trabajo, en los artículos 98 a 106 de la Ley 50 de 1990 y en el presente capítulo de este Estatuto.
@@ -3538,8 +3228,6 @@ b. Garantizar que la mayor parte de los recursos captados pueda orientarse hacia
 
 3. Inembargabilidad de los aportes. Serán inembargables las unidades en que se expresa el valor del patrimonio del fondo, salvo aquellas originadas en los depósitos voluntarios a que se refiere el numeral 2 del artículo 164 del presente Estatuto, sin perjuicio de lo dispuesto en el artículo 344 del Código Sustantivo del Trabajo.
 
-ARTÍCULO
-
 ## art:160 — Reglamento
 
 Todo fondo de cesantía deberá tener un reglamento de funcionamiento, aprobado de manera general o individual por la Superintendencia Bancaria, el cual debe contener, a lo menos, las siguientes previsiones:
@@ -3549,8 +3237,6 @@ a. Los derechos y deberes de los afiliados y de la administradora;
 b. El régimen de gastos y comisiones conforme a las disposiciones que establezca la Superintendencia Bancaria, y
 
 c. Las causales de disolución del fondo.
-
-ARTÍCULO
 
 ## art:161 — Aspectos Financieros
 
@@ -3569,8 +3255,6 @@ e. Cualquier otro ingreso que resulte a favor del fondo.
 2. Utilidades del fondo. El valor del fondo de cesantía se expresará en unidades de igual monto y características. El valor de la cuota se determinará diariamente de conformidad con lo que sobre el particular disponga la Superintendencia Bancaria.
 
 3. Garantía de los fondos de cesantía. Los fondos de cesantía tendrán la garantía del Fondo de Garantías de Instituciones Financieras. Las sumas destinadas al pago de dicha garantía constituyen un gasto del fondo, pero no se tendrán en cuenta para efectos de determinar la rentabilidad mínima del mismo. Además, en ningún caso se cancelarán con cargo del patrimonio de la administradora, bien sea directamente o a través de la reserva de estabilización de los rendimientos.
-
-ARTÍCULO
 
 ## art:162 — Rentabilidad Mínima
 
@@ -3606,8 +3290,6 @@ Cuando el monto correspondiente a la reserva de estabilización de rendimientos 
 
 6. Comisión de manejo. Siempre que se supere la rentabilidad mínima a que se refiere el numeral 1 del presente artículo, la administradora tendrá derecho a una comisión de manejo de acuerdo con lo que sobre el particular señale el Gobierno Nacional. En todo caso, la comisión no podrá afectar la rentabilidad mínima señalada.
 
-ARTÍCULO
-
 ## art:163 — Inversiones y Limitaciones a las Operaciones
 
 1. Inversiones autorizadas. La Superintendencia de Valores podrá autorizar a las sociedades administradoras de fondos de cesantía para que inviertan un porcentaje de sus recursos en los títulos inscritos en el Registro Nacional de Valores que, en los casos previstos por la ley, emitan los empleadores o las organizaciones en que participen los trabajadores afiliados como cooperativas y fondos de empleados, entre otros.
@@ -3636,8 +3318,6 @@ j. Realizar operaciones entre los fondos que administran.
 
 PARÁGRAFO .- Las prohibiciones a que se refieren los literales a y c del presente numeral no se extienden a que las sociedades administradoras utilicen los recursos de los fondos de cesantía para realizar operaciones de reporto activas, o comprar y mantener cartera avalada o garantizada por entidades sometidas al control y vigilancia de la Superintendencia Bancaria autorizadas para el efecto.
 
-ARTÍCULO
-
 ## art:164 — Relación de los Fondos de Cesantía con sus Afiliados
 
 1. Afiliación. Todo trabajador particular vinculado mediante contrato de trabajo celebrado a partir del 1 de enero de 1991 deberá afiliarse a un fondo de cesantía, administrado por una sociedad debidamente autorizada por la Superintendencia Bancaria.
@@ -3655,8 +3335,6 @@ La primera cotización efectuada por las personas mencionadas a una administrado
 4. Consignación de los auxilios de cesantía. El valor que anualmente liquide el empleador por concepto de auxilio de cesantía deberá consignarlo, acompañado de la respectiva liquidación detallada, antes del quince (15) de febrero del año siguiente, en cuenta de capitalización individual a nombre del trabajador en el fondo de cesantía correspondiente. No obstante, dicha fecha podrá ser anticipada de común acuerdo por trabajadores y empleadores.
 
 El empleador que incumpla el plazo antes señalado deberá pagar a favor del trabajador un día de salario por cada día de retardo.
-
-ARTÍCULO
 
 ## art:165 — Relaciones de la Sociedad Administradora con el Empleador
 
@@ -3678,8 +3356,6 @@ Lo anterior debe entenderse sin perjuicio de las acciones legales pertinentes y,
 
 4. Retención de cesantía. En aquellos eventos en los que un empleador esté autorizado para retener la cesantía, o abonar a gravámenes o préstamos a su pago, solicitará a la administradora la retención correspondiente y su entrega, previo el cumplimiento de los requisitos que señalen las disposiciones laborales sobre el particular.
 
-ARTÍCULO
-
 ## art:166 — Retiro de Sumas Abonadas
 
 1. Procedencia ordinaria del retiro. El trabajador afiliado a un fondo de cesantía sólo podrá retirar las sumas abonadas en su cuenta en los siguientes casos:
@@ -3695,8 +3371,6 @@ c. Para financiar los pagos por concepto de matrículas del trabajador, su cóny
 3. Traslado a otra administradora. La permanencia de un trabajador en un fondo de cesantía será voluntaria. En consecuencia, todo afiliado puede transferir el valor de sus unidades a otra administradora, previo aviso a aquella en la cual se encuentre afiliado y a su empleador, en la forma y plazo que determine el reglamento.
 
 PARÁGRAFO .- El Gobierno fijará el procedimiento que deba seguirse para efectos del traslado de los saldos de cesantía por parte de todo trabajador de un fondo a otro de la misma naturaleza.
-
-ARTÍCULO
 
 ## art:167 — Disposiciones Relativas a la Cesión de Fondos Administrados
 
@@ -3722,8 +3396,6 @@ CAPÍTULO. VI
 
 DISPOSICIONES APLICABLES A LOS FONDOS DE PENSIONES DE JUBILACIÓN E INVALIDEZ
 
-ARTÍCULO
-
 ## art:168 — Reglas Relativas a las Sociedades que Administran Fondos de Pensiones
 
 1. Sociedades con capacidad de administrar fondos de pensiones. Los fondos de pensiones de jubilación e invalidez sólo podrán ser administrados por sociedades fiduciarias y compañías de seguros, previa autorización de la Superintendencia Bancaria, la cual se podrá otorgar cuando la sociedad acredite capacidad técnica de acuerdo con la naturaleza del fondo que se pretende administrar.
@@ -3745,8 +3417,6 @@ Los acreedores de los beneficiarios sólo podrán embargar las prestaciones prov
 6. Información financiera del fondo de pensiones. Trimestralmente las sociedades administradoras deberán elaborar los estados financieros del fondo respectivo, certificados por el revisor fiscal designado a tal efecto por la comisión de control del fondo. Anualmente se elaborará además, una memoria de la administración y un informe de valuación actuarial sobre el desarrollo del plan o planes de pensiones de jubilación e invalidez y la suficiencia de los sistemas actuariales y financieros. Estos documentos serán sometidos a la aprobación de la comisión de control del fondo y la autorización de la Superintendencia Bancaria. Una vez aprobados y autorizados se enviará copia de los mismos a la dirección registrada de cada partícipe dentro del plazo que señale la Superintendencia Bancaria.
 
 La Superintendencia Bancaria podrá exigir que los documentos a que se refiere este numeral se elaboren con una periodicidad mayor y que se publiquen en un diario de amplia circulación nacional.
-
-ARTÍCULO
 
 ## art:169 — Constitución y Régimen General del Fondo
 
@@ -3794,7 +3464,7 @@ b. Renuncia de la sociedad administradora por las causas previstas en el reglame
 
 c. Solicitud de la sociedad administradora previa aceptación de la comisión de control del fondo y presentación de la entidad que deba remplazarla. En este caso, la comisión de control podrá exigir las garantías necesarias para responder por el cumplimiento de las obligaciones de la sociedad administradora.
 
-## art:170 — Operaciones del Fondo
+## art:170 — - Operaciones del Fondo
 
 1. Inversiones autorizadas. Los recursos de los fondos de pensiones de jubilación o invalidez se invertirán en:
 
@@ -3828,7 +3498,7 @@ Tampoco podrán realizar otras operaciones con las entidades mencionadas en el i
 
 4. Inversiones forzosas. Los fondos de pensiones no estarán sujetos al régimen de inversiones forzosas previstos para las sociedades que los administren. En consecuencia, el monto de los aportes al fondo de pensiones no se tomará en cuenta para determinar la cuantía de las inversiones forzosas de las mismas.
 
-## art:171 — Prohibiciones y Limitaciones
+## art:171 — - Prohibiciones y Limitaciones
 
 1. Límites de inversión. Las inversiones de los fondos de pensiones de jubilación e invalidez están sujetas a los siguientes límites:
 
@@ -3868,7 +3538,7 @@ j. Realizar operaciones, distintas a la celebración del contrato de mandato, co
 
 PARÁGRAFO .- Para los efectos de la presente norma se entiende por socio principal aquel que sea titular de más del veinte por ciento (20%) del capital social.
 
-## art:172 — Aspectos Financieros
+## art:172 — - Aspectos Financieros
 
 1. Garantía de la sociedad administradora por su gestión. El patrimonio de la sociedad administradora del fondo de pensiones será garantía de la correcta administración del mismo.
 
@@ -3878,7 +3548,7 @@ Los créditos que tengan los partícipes en un plan de pensiones contra el fondo
 
 3. Custodia de los valores del fondo. Los valores que integran el fondo de pensiones de jubilación e invalidez deberán ser entregados en depósito a un banco o a otra entidad facultada legalmente para recibir depósitos de valores. La sociedad administradora no podrá tener la calidad de depositaria de los valores del fondo que administra.
 
-## art:173 — Normas Reguladoras de los Planes de Pensiones
+## art:173 — - Normas Reguladoras de los Planes de Pensiones
 
 1. Definición de Plan de Pensiones. Es un acuerdo por el cual se establece la obligación de contribuir a un fondo de pensiones de jubilación e invalidez y el derecho de las personas, a cuyo favor se celebra, de percibir una prestación en la forma prevista por este Estatuto.
 
@@ -3934,7 +3604,7 @@ Si, como consecuencia de dicha valuación, fuere necesario efectuar ajustes, és
 
 8. Autorización previa de la Superintendencia Bancaria. Todo plan de pensiones de jubilación e invalidez debe ser autorizado por la Superintendencia Bancaria. A la solicitud respectiva se acompañará el estudio actuarial que respalde el plan.
 
-## art:174 — Control del Fondo de Pensiones
+## art:174 — - Control del Fondo de Pensiones
 
 1. Comisión de control del fondo. Respecto de cada fondo de pensiones de jubilación e invalidez existirá una comisión de control que estará integrada por representantes de las entidades patrocinadoras y de los partícipes, estos últimos tendrán la mayoría de votos.
 
@@ -3968,7 +3638,7 @@ j. Las demás que le señale el reglamento del fondo.
 
 ## art:175 — 
 
-Disposiciones Relativas a la Intervención, Disolución, Liquidación o Quiebra de los Fondos de Pensiones y de las Sociedades que los Administran.
+- Disposiciones Relativas a la Intervención, Disolución, Liquidación o Quiebra de los Fondos de Pensiones y de las Sociedades que los Administran.
 
 1. Intervención administrativa de la administradora o la depositaria al fondo de pensiones. En caso de intervención administrativa de la sociedad administradora o de la depositaria, la Superintendencia Bancaria, previo concepto de la comisión de control del fondo, podrá disponer que el fondo o los valores que lo integran sean entregados a otra sociedad administradora o depositaria.
 
@@ -3992,7 +3662,7 @@ CAPÍTULO VII
 
 DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ALMACENES GENERALES DE DEPÓSITO
 
-## art:176 — Reglas de Funcionamiento
+## art:176 — - Reglas de Funcionamiento
 
 1. Registro de los certificados. Los certificados de depósito y los bonos de prenda se extenderán en libros talonarios y se expedirán formando un solo cuerpo, pero de manera que puedan separarse, y serán numerados en orden continuo y fechado.
 
@@ -4006,7 +3676,7 @@ Los títulos así expedidos tendrán plena validez respecto del producto obtenid
 
 Los derechos de retención y privilegio que tiene el almacén general, de acuerdo con el anterior inciso, sólo podrán ejercitarse contra el depositante o dueño de las mercancías.
 
-## art:177 — Vigilancia y Control
+## art:177 — - Vigilancia y Control
 
 Los almacenes generales de depósito continuarán sometidos a la inspección y vigilancia de la Superintendencia Bancaria, la que dictará las normas reglamentarias conducentes al eficaz ejercicio de esta facultad, y tendrá especialmente las siguientes atribuciones que ejercerá por medio de resoluciones motivadas:
 
@@ -4046,7 +3716,7 @@ CAPÍTULO I
 
 ASPECTOS RELATIVOS A LA ACTIVIDAD CAPITALIZADORA
 
-## art:178 — Condiciones Generales para el Ejercicio de la Actividad Capitalizadora
+## art:178 — - Condiciones Generales para el Ejercicio de la Actividad Capitalizadora
 
 1. Autorización de planes. Los planes y proyectos de contratos, así como las bases técnicas, tarifas, fórmulas para el cálculo de las cuotas, reservas matemáticas, valores de rescate, participación de beneficios y sorteos de amortización y demás elementos técnicos de las sociedades de capitalización deben someterse a la aprobación del Superintendente Bancario sin la cual no podrán ponerse en vigencia.
 
@@ -4064,7 +3734,7 @@ Si de la investigación que se lleve a cabo apareciere que se ha violado la proh
 
 4. Colocación de un plan con engaño. La sociedad capitalizadora incurrirá en multa cuando se pruebe que un agente acreditado ha ofrecido un contrato bajo un plan determinado, y lo ha sustituido por otro, con engaño para el cliente.
 
-## art:179 — Condiciones Relativas a los Contratos
+## art:179 — - Condiciones Relativas a los Contratos
 
 1. Requisitos básicos. Los contratos que celebren las sociedades de capitalización deberán ser de condiciones equitativas y redactados en forma clara y en idioma castellano.
 
@@ -4088,7 +3758,7 @@ c. El suscriptor favorecido, después de recibir el premio, podrá perseverar en
 
 d. El premio de cada sorteo no podrá ser superior al valor que correspondería al título a su vencimiento.
 
-## art:180 — Condiciones de los Títulos de Capitalización y Acciones
+## art:180 — - Condiciones de los Títulos de Capitalización y Acciones
 
 1. Clases de títulos. Los títulos de capitalización serán al portador o nominativos.
 
@@ -4100,13 +3770,13 @@ d. El premio de cada sorteo no podrá ser superior al valor que correspondería 
 
 5. Caducidad y derecho de rehabilitación. Para el caso de caducidad por falta de pago de las cuotas respectivas, no habiendo rescate del título o sustitución del mismo, deberá reconocerse el derecho de rehabilitación, en condiciones equitativas, en cualquier tiempo antes de la fecha del vencimiento del contrato.
 
-## art:181 — Reservas y Quebranto de Capital
+## art:181 — - Reservas y Quebranto de Capital
 
 1. Reservas técnicas. Las sociedades de capitalización deberán formar y mantener reservas técnicas correspondientes a su responsabilidad para con los depositantes, cuya cuantía será calculada de acuerdo con las normas que establezca el Gobierno Nacional.
 
 2. Quebranto de capital. Tiénese como quebranto grave de capital de las sociedades de capitalización, para los efectos del artículo 114 del presente Estatuto, el que reduzca a menos del setenta y cinco por ciento (75%) el capital pagado.
 
-## art:182 — Régimen de Inversión de las Sociedades de Capitalización
+## art:182 — - Régimen de Inversión de las Sociedades de Capitalización
 
 1. Inversiones admisibles. El capital y reservas o fondos en general de las sociedades de capitalización deberán invertirse en la siguiente forma:
 
@@ -4162,7 +3832,7 @@ CAPÍTULO II
 
 NORMAS ESPECIALES RELATIVAS A LAS COMPAÑÍAS DE SEGUROS
 
-## art:183 — Operaciones Autorizadas
+## art:183 — - Operaciones Autorizadas
 
 1. Financiación de primas. Las entidades aseguradoras podrán financiar el pago de las primas de los contratos de seguros que expidan, con sujeción a los términos y condiciones que disponga la Superintendencia Bancaria.
 
@@ -4178,7 +3848,7 @@ El Gobierno nacional podrá establecer condiciones adicionales para el funcionam
 
 (Numeral 4, Adicionado por el Art. 241 de la Ley 2294 de 2023)
 
-## art:184 — Régimen de Pólizas y Tarifas
+## art:184 — - Régimen de Pólizas y Tarifas
 
 1. Modelos de pólizas y tarifas. Modificado por el art. 42, Ley 795 de 2003 El nuevo texto es el siguiente: La autorización previa de la Superintendencia Bancaria de los modelos de las pólizas y tarifas será necesaria cuando se trate de la autorización inicial a una entidad aseguradora o para la explotación de un nuevo ramo.
 
@@ -4208,7 +3878,7 @@ c. Ser el producto del respaldo de reaseguradores de reconocida solvencia técni
 
 4. Incumplimiento de exigencias legales. La ausencia de cualquiera de los anteriores requisitos será causal para que por parte de la Superintendencia Bancaria se prohíba la utilización de la póliza o tarifa correspondiente hasta tanto se acredite el cumplimiento del requisito respectivo o, incluso, pueda suspenderse el certificado de autorización de la entidad, cuando tales deficiencias resulten sistemáticas, aparte de las sanciones legales procedentes.
 
-## art:185 — Condiciones Especiales aplicables al Contrato de Seguro
+## art:185 — - Condiciones Especiales aplicables al Contrato de Seguro
 
 1. Pago de indemnización. El plazo para el pago de la indemnización por el asegurador podrá extenderse, mediante convenio expreso entre las partes, hasta un término no mayor a sesenta (60) días hábiles, únicamente cuando se trate de seguros de daños en los cuales el asegurado sea persona jurídica y la suma asegurada en la respectiva póliza sea superior al equivalente a 15.000 salarios mínimos legales mensuales vigentes al momento de su suscripción. En este caso, las partes también podrán convenir la tasa de interés de mora en el pago del siniestro.
 
@@ -4216,7 +3886,7 @@ c. Ser el producto del respaldo de reaseguradores de reconocida solvencia técni
 
 3. Riesgos de la actividad financiera. En los seguros que tengan por objeto el amparo de los riesgos propios de la actividad financiera, se podrán asegurar, mediante convenio expreso, los hechos pretéritos cuya ocurrencia es desconocida por tomador y asegurador.
 
-## art:186 — Régimen de Reservas Técnicas e Inversiones
+## art:186 — - Régimen de Reservas Técnicas e Inversiones
 
 Modificado por el art. 43, Ley 795 de 2003. El nuevo texto es el siguiente: Las entidades aseguradoras y las que administren el Sistema General de Riesgos Profesionales, cualquiera que sea su naturaleza, deberán constituir, entre otras, las siguientes reservas técnicas, de acuerdo con las normas de carácter general que para el efecto expida el Gobierno Nacional:
 
@@ -4242,7 +3912,7 @@ c. Reserva para siniestros pendientes, y
 
 d. Reserva de desviación de siniestralidad.
 
-## art:187 — Régimen de Inversiones
+## art:187 — - Régimen de Inversiones
 
 1. Inversiones de las reservas. El cuarenta por ciento (40%) de las reservas técnicas deberá estar respaldado por inversiones efectuadas en títulos emitidos o garantizados por la Nación o por el Banco de la República, o en otros títulos de renta fija o variable de alta seguridad, liquidez y rentabilidad, según la reglamentación del Gobierno Nacional. Dicha reglamentación, en todo caso, no podrá señalar títulos específicos en los cuales se deba invertir y preverá porcentajes máximos de inversión individual, conforme a los cuales se asegure una adecuada dispersión de las inversiones.
 
@@ -4276,7 +3946,7 @@ l. Las demás autorizadas por el Gobierno Nacional.
 
 3. Inversiones en sociedades de servicios financieros y comisionistas de bolsa. Las disposiciones consagradas en el artículo 119 numeral 1, con excepción de lo previsto en la letra b, serán aplicables a las entidades aseguradoras, conforme a lo previsto en el numeral 2 del presente artículo.
 
-## art:188 — Prohibiciones y Limitaciones
+## art:188 — - Prohibiciones y Limitaciones
 
 Derogado por el art. 101, Ley 1328 de 2009, a partir del 15 de julio de 2013.
 
@@ -4316,7 +3986,7 @@ c. Las inversiones en los rubros de que tratan las letras g y h no podrán efect
 
 d. Las inversiones en los demás instrumentos no estarán sujetas a límites individuales.
 
-## art:189 — Revocación o Suspensión del Certificado de Autorización
+## art:189 — - Revocación o Suspensión del Certificado de Autorización
 
 La revocatoria o suspensión del certificado de autorización concedido a una entidad aseguradora podrá ser decretada por la Superintendencia Bancaria en los siguientes casos, mediante providencia debidamente motivada:
 
@@ -4336,8 +4006,6 @@ g. Por disolución de la sociedad.
 
 La suspensión o revocatoria del certificado de autorización supone la inmediata interrupción de las actividades de la entidad y la liquidación de los ramos de seguros afectados o de la empresa social, según el caso, con arreglo a lo previsto en las disposiciones relativas a la liquidación de sociedades.
 
-ARTÍCULO
-
 ## art:190 — Disolución
 
 Derogado por el art. 114, Ley 795 de 2003. Además de las causales establecidas en la ley, será causal de disolución de las entidades aseguradoras, enervable dentro del término legal, no alcanzar el mínimo del fondo de garantía requerido.
@@ -4345,8 +4013,6 @@ Derogado por el art. 114, Ley 795 de 2003. Además de las causales establecidas 
 CAPÍTULO III
 
 SEGUROS OBLIGATORIOS
-
-ARTÍCULO
 
 ## art:191 — - Creación de Seguros Obligatorios
 
@@ -4356,7 +4022,7 @@ CAPÍTULO IV
 
 RÉGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRÁNSITO
 
-## art:192 — Aspectos Generales
+## art:192 — - Aspectos Generales
 
 1. Obligatoriedad. Para transitar por el territorio nacional todo vehículo automotor debe estar amparado por un seguro obligatorio vigente que cubra los daños corporales que se causen a las personas en accidentes de tránsito. Quedan comprendidos dentro de lo previsto por este numeral los automotores extranjeros en tránsito por el territorio nacional.
 
@@ -4386,7 +4052,7 @@ b. Los vehículos agrícolas e industriales siempre y cuando no circulen por ví
 
 5. Adicionado por el art. 244 numeral 1, Ley 100 de 1993.
 
-## art:193 — Aspectos Específicos Relativos a la Póliza
+## art:193 — - Aspectos Específicos Relativos a la Póliza
 
 Coberturas y cuantías. Modificado por el art. 112, Decreto Nacional 019 de 2012. El nuevo texto es el siguiente: La póliza incluirá las siguientes coberturas:
 
@@ -4462,7 +4128,7 @@ Por tratarse de un seguro obligatorio, de forzosa contratación, la Superintende
 
 En todo caso, en la determinación de las tarifas se observarán los principios de equidad, suficiencia y moderación y se podrán establecer rangos diferenciales según la naturaleza de los riesgos.
 
-## art:194 — Pago de Indemnizaciones
+## art:194 — - Pago de Indemnizaciones
 
 1. Prueba de los daños. En el seguro de que trata este capítulo todo pago indemnizatorio se efectuará con la demostración del accidente y de sus consecuencias dañosas para la víctima.
 
@@ -4504,7 +4170,7 @@ Con todo, la compañía aseguradora podrá repetir contra el tomador por cualqui
 
 Cuando en los accidentes participen dos o más vehículos y entre ellos haya asegurados y no asegurados o no identificados, se procederá según lo previsto en el presente numeral para el caso de vehículos asegurados, pero el importe correspondiente a la indemnización de los ocupantes del vehículo o vehículos no asegurados o no identificados y el pago que a los terceros correspondería estará a cargo del Fondo de que trata el artículo 198 numeral 1 del presente Estatuto.
 
-## art:195 — Atención de las Víctimas
+## art:195 — - Atención de las Víctimas
 
 1. Obligatoriedad. Los establecimientos hospitalarios o clínicos y las entidades de seguridad y previsión social de los subsectores oficial y privado del sector salud están obligados a prestar la atención médica, quirúrgica, farmacéutica u hospitalaria por daños corporales causados a las personas en accidentes de tránsito.
 
@@ -4538,7 +4204,7 @@ Una vez se entregue la reclamación, acompañada de las pruebas del accidente y 
 
 6. Adicionado por el art. 244 numeral 6, Ley 100 de 1993.
 
-## art:196 — Entidades Aseguradoras Habilitadas para Ofrecer el Seguro Obligatorio de Accidentes de Tránsito
+## art:196 — - Entidades Aseguradoras Habilitadas para Ofrecer el Seguro Obligatorio de Accidentes de Tránsito
 
 1. Entidades aseguradoras habilitadas para ofrecer el seguro. Estarán habilitadas para otorgar el seguro de que trata el artículo 192 numeral 1 de este Estatuto:
 
@@ -4562,7 +4228,7 @@ La información estadística y técnica derivada de la operación del seguro obl
 
 6. Restricción a las entidades aseguradoras que operen el seguro obligatorio de daños corporales. Las entidades aseguradoras actualmente autorizadas para operar el seguro obligatorio de daños corporales causados a las personas en accidentes de tránsito que no obtengan la autorización a que alude el numeral 2 del presente artículo, quedarán imposibilitadas para ofrecer y comercializar dicho seguro a partir del 1 de julio de 1991. En todo caso, estarán sujetas, en los términos previstos en los contratos válidamente celebrados antes de dicha fecha, al pago de las obligaciones que se deriven de ellos.
 
-## art:197 — Control y Actualización del Seguro Obligatorio de Daños Corporales por Accidentes de Tránsito
+## art:197 — - Control y Actualización del Seguro Obligatorio de Daños Corporales por Accidentes de Tránsito
 
 1. Control de la existencia del seguro. Para la expedición del certificado de movilización previsto en el Decreto Ley 1809 de 1990 será necesario acreditar la vigencia del seguro al cual se refiere el presente capítulo.
 
@@ -4584,7 +4250,7 @@ CAPÍTULO V
 
 RÉGIMEN DEL FONDO DE SEGURO OBLIGATORIO DE ACCIDENTES DE TRÁNSITO
 
-## art:198 — Creación y Reglas de Funcionamiento
+## art:198 — - Creación y Reglas de Funcionamiento
 
 1. Fondo del seguro obligatorio de accidentes de tránsito "FONSAT". Créase el Fondo del Seguro Obligatorio de Accidentes de Tránsito "FONSAT" como una cuenta especial de la Nación, con independencia patrimonial, administrativa, contable y estadística, con fines de interés público, para el pago de siniestros ocasionados por vehículos no identificados o no asegurados y como instrumento de apoyo para la Red de Atención de Urgencias del Sistema Nacional de Salud.
 
@@ -4596,7 +4262,7 @@ Para tal efecto, el Gobierno Nacional celebrará el contrato de carácter intera
 
 3. Régimen de inversiones. Los recursos del Fondo del Seguro Obligatorio de Accidentes de Tránsito "FONSAT" estarán libres de inversiones forzosas y obligatorias.
 
-## art:199 — Aspectos Financieros
+## art:199 — - Aspectos Financieros
 
 1. Recursos del "FONSAT" El Fondo del Seguro Obligatorio de Accidentes de Tránsito "FONSAT" contará con los siguientes recursos:
 
@@ -4652,7 +4318,7 @@ PARÁGRAFO .- En todo caso, la entidad encargada de administrar el "FONSAT" enta
 
 5. Designación sobreviniente de la entidad pública administradora del fondo. En caso de disolución, liquidación o intervención administrativa de la entidad pública que administre el Fondo del Seguro Obligatorio de Accidentes de Tránsito "FONSAT", o de terminación del contrato correspondiente, el Fondo será administrado por una entidad pública de similares características que determine el Gobierno Nacional, previo concepto de la Junta Asesora.
 
-## art:200 — Órganos de Dirección y Control
+## art:200 — - Órganos de Dirección y Control
 
 1. Junta Asesora del Fondo. El Fondo del Seguro Obligatorio de Accidentes de Tránsito "FONSAT", contará con una Junta Asesora, integrada de la siguiente manera:
 
@@ -4686,7 +4352,7 @@ CAPÍTULO VI
 
 SEGUROS ESPECIALES
 
-## art:201 — Seguros de Vida de Ahorro con Participación
+## art:201 — - Seguros de Vida de Ahorro con Participación
 
 1. Definición. Entiéndese por seguros de ahorro con participación, aquellos contratos en los cuales la compañía aseguradora se obliga a retornar al asegurado no menos del setenta por ciento (70%) de la utilidad originada en la inversión de sus reservas matemáticas y técnicas, determinada en la forma prevista en el numeral siguiente.
 
@@ -4702,7 +4368,7 @@ b. Aumento de valores asegurados mediante aplicación a la adquisición de segur
 
 c. Abono a una cuenta con intereses, que tendrá el mismo tratamiento de la reserva matemática.
 
-## art:202 — Seguro de Vida para Funcionarios y Empleados de la Rama Jurisdiccional y del Ministerio Público
+## art:202 — - Seguro de Vida para Funcionarios y Empleados de la Rama Jurisdiccional y del Ministerio Público
 
 1. Naturaleza y destinatarios. Establécese el seguro de vida para los funcionarios y empleados de la Rama Jurisdiccional, del Ministerio Público y para las personas que transitoriamente desempeñen funciones jurisdiccionales, que por causa o con ocasión del ejercicio de sus funciones pierdan la vida en hechos violentos. El seguro de que trata el presente artículo comprende los gastos funerarios.
 
@@ -4738,8 +4404,6 @@ c. Si la incapacidad laboral es o excede del cincuenta por ciento (50%), sin sob
 
 Este auxilio no será reconocido en los casos previstos en el numeral 2 del presente artículo.
 
-ARTÍCULO
-
 ## art:203 — - Seguro de Manejo o de Cumplimiento
 
 1. Objeto del seguro. Dentro de los seguros de manejo o de cumplimiento habrá uno que tendrá por objeto garantizar el correcto manejo de fondos o valores de cualquier clase que se confíen a los empleados públicos o a los particulares, en favor de las entidades o personas ante las cuales sean responsables; y podrá extenderse también al pago de impuestos, tasas y derechos y al cumplimiento de obligaciones que emanen de leyes o de contratos.
@@ -4750,13 +4414,13 @@ Las Asambleas Departamentales, y los Concejos Municipales podrán disponer que l
 
 3. Subrogación de la entidad aseguradora. Por el hecho de pagar el seguro la entidad aseguradora se subroga en los derechos de la entidad o persona asegurada contra la persona cuyo manejo o cumplimiento estaba garantizado, con todos sus privilegios y accesorios.
 
-## art:204 — Seguros en Divisas
+## art:204 — - Seguros en Divisas
 
 De conformidad con las regulaciones del Gobierno Nacional podrán contratarse seguros denominados en divisas sobre personas y sobre aquellos bienes que, con carácter general, se califiquen como riesgos especiales.
 
 Las reservas técnicas correspondientes a estos seguros podrán ser invertidas en títulos representativos de divisas, conforme a las regulaciones del Gobierno.
 
-## art:205 — Seguro de Crédito a la Exportación
+## art:205 — - Seguro de Crédito a la Exportación
 
 1. Organización y amparos. El Gobierno Nacional establecerá un sistema de seguros a la exportación, destinado a cubrir los riesgos comerciales, políticos y extraordinarios inherentes a esta clase de operaciones.
 
@@ -4778,7 +4442,7 @@ CAPÍTULO VII
 
 INTERMEDIARIOS DE SEGUROS
 
-## art:206 — Condiciones del Ejercicio de la Actividad de Intermediación
+## art:206 — - Condiciones del Ejercicio de la Actividad de Intermediación
 
 1. Representación de diversas compañías. La Superintendencia Bancaria se abstendrá de expedir una nueva autorización a las agencias o agentes que hayan sido previamente designados por otra compañía, a menos que no haya objeción de ésta o que la agencia o el agente respectivos hayan renunciado al derecho de continuar colocando seguros o títulos de capitalización para las compañías que inicialmente solicitaron su inscripción.
 
@@ -4786,7 +4450,7 @@ INTERMEDIARIOS DE SEGUROS
 
 3. Idoneidad. La Superintendencia Bancaria podrá en cualquier tiempo examinar los conocimientos de las personas que dirijan sociedades corredoras o agencias colocadoras o de los administradores de sociedades que representen compañías de seguros o de los agentes colocadores, respecto de las pólizas que puedan ofrecer válidamente al público.
 
-## art:207 — Disposiciones Relativas a su Actividad y Operaciones
+## art:207 — - Disposiciones Relativas a su Actividad y Operaciones
 
 1. Disposiciones especiales. Corregido por el art. 6, Decreto Nacional 867 de 1993. Son aplicables a los intermediarios de seguros el numeral 1 del artículo 91, 1 y 2 del artículo 98 y el artículo 75 de la Ley 45 de 1990.
 
@@ -4805,8 +4469,6 @@ REGIMEN SANCIONATORIO
 CAPÍTULO. I
 
 REGLAS GENERALES
-
-ARTÍCULO
 
 ## art:208 — Reglas Generales
 
@@ -5002,7 +4664,7 @@ CAPITULO II
 
 RÉGIMEN PERSONAL
 
-## art:209 — Sustituido por el art
+## art:209 — - Sustituido por el art
 
 45, Ley 795 de 2003. El nuevo texto es el siguiente. Sanciones Administrativas Personales. La Superintendencia Bancaria podrá imponer las sanciones previstas en el presente Estatuto a los directores, administradores, representantes legales, revisores fiscales u otros funcionarios o empleados de una institución sujeta a su vigilancia cuando incurran en cualquiera de los siguientes eventos:
 
@@ -5024,7 +4686,7 @@ Las multas previstas en este artículo, podrán ser sucesivas mientras subsista 
 
 PARÁGRAFO . Adicionado por el art. 21, Ley 365 de 1997
 
-## art:210 — Responsabilidad Civil
+## art:210 — - Responsabilidad Civil
 
 Sustituido por el art. 45, Ley 795 de 2003. El nuevo texto es el siguiente: Todo director, administrador, representante legal, funcionario de una institución vigilada por la Superintendencia Bancaria que viole a sabiendas o permita que se violen las disposiciones legales será personalmente responsable de las pérdidas que cualquier persona natural o jurídica sufra por razón de tales infracciones, sin perjuicio de las demás sanciones civiles o penales que señala la ley y de las medidas que conforme a sus atribuciones pueda imponer la Superintendencia Bancaria.
 
@@ -5036,7 +4698,7 @@ CAPÍTULO III
 
 RÉGIMEN INSTITUCIONAL
 
-## art:211 — Sustituido por el art
+## art:211 — - Sustituido por el art
 
 45, Ley 795 de 2003. El nuevo texto es el siguiente: Sanciones Administrativas Institucionales.
 
@@ -5074,7 +4736,7 @@ CAPÍTULO IV
 
 INTERESES SOBRE SANCIONES
 
-## art:212 — Intereses
+## art:212 — - Intereses
 
 Sustituido por el art. 45, Ley 795 de 2003. El nuevo texto es el siguiente:
 
@@ -5100,7 +4762,7 @@ SISTEMAS ESPECIALES DE REMISIÓN
 
 ## art:213 — 
 
-Normas Aplicables a los Establecimientos de Crédito, Sociedades de Servicios Financieros y otras Instituciones Financieras. Modificado por el art. 55, Ley 454 de 1998, Modificado por el art. 46, Ley 795 de 2003. El nuevo texto es el siguiente: Serán aplicables a las corporaciones financieras, compañías de financiamiento comercial, cooperativas financieras, sociedades de servicios financieros y sociedades de capitalización las normas que regulan los establecimientos bancarios, en todo lo que no resulte contrario a sus disposiciones especiales.
+- Normas Aplicables a los Establecimientos de Crédito, Sociedades de Servicios Financieros y otras Instituciones Financieras. Modificado por el art. 55, Ley 454 de 1998, Modificado por el art. 46, Ley 795 de 2003. El nuevo texto es el siguiente: Serán aplicables a las corporaciones financieras, compañías de financiamiento comercial, cooperativas financieras, sociedades de servicios financieros y sociedades de capitalización las normas que regulan los establecimientos bancarios, en todo lo que no resulte contrario a sus disposiciones especiales.
 
 Además de las normas especiales que regulan su actividad, le serán aplicables las siguientes normas a las entidades aseguradoras, corredores de seguros y corredores de reaseguros: artículo 10 literales b), c), g); artículo 73 numerales 1, 2, 4, 5 y 6; artículo 74; artículo 81 numerales 1, 2, 3 y 4; artículo 84 numerales 1 y 2; y artículo 85 del Estatuto Orgánico del Sistema Financiero.
 
@@ -5110,11 +4772,11 @@ Texto anterior:
 
 Serán aplicables a las corporaciones financieras, corporaciones de ahorro y vivienda, compañías de financiamiento comercial, organismos cooperativos de grado superior de carácter financiero actualmente existentes, y sociedades de servicios financieros, las normas que regulan los establecimientos bancarios, en todo lo que no resulte contrario a sus disposiciones especiales.
 
-## art:214 — Normas Aplicables a las Sociedades de Capitalización
+## art:214 — - Normas Aplicables a las Sociedades de Capitalización
 
 Serán aplicables a las sociedades de capitalización las normas que regulan los establecimientos bancarios y compañías de seguros, en todo lo que no resulte contrario a sus disposiciones especiales.
 
-## art:215 — Normas Aplicables a las Entidades Financieras de Naturaleza Cooperativa
+## art:215 — - Normas Aplicables a las Entidades Financieras de Naturaleza Cooperativa
 
 De conformidad con el artículo 98 de la Ley 79 de 1988 las entidades que se constituyan bajo la naturaleza jurídica cooperativa, se regirán por las disposiciones propias de las entidades financieras que constituyan, en concordancia con las del régimen cooperativo.
 
@@ -5132,11 +4794,11 @@ CAPÍTULO I
 
 SISTEMA NACIONAL DE CRÉDITO AGROPECUARIO
 
-## art:216 — Creación y Objeto
+## art:216 — - Creación y Objeto
 
 Para proveer y mantener un adecuado financiamiento de las actividades del sector agropecuario, de conformidad con las políticas sectoriales establecidas en los planes y programas de desarrollo que adopte el Congreso o el Gobierno, según el caso, la Ley 16 de 1990 creó el Sistema Nacional de Crédito Agropecuario, cuyos objetivos principales son la formulación de la política de crédito para el sector agropecuario y la coordinación y racionalización del uso de sus recursos financieros. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
-## art:217 — Entidades Integrantes del Sistema Nacional de Crédito Agropecuario
+## art:217 — - Entidades Integrantes del Sistema Nacional de Crédito Agropecuario
 
 Modificado por el art. 1, Ley 1094 de 2006. El nuevo texto es el siguiente: Forman parte del Sistema Nacional de Crédito Agropecuario, los bancos y las demás entidades financieras, creadas o que se creen en el futuro, que tengan por objeto principal el financiamiento de las actividades agropecuarias. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
@@ -5146,7 +4808,7 @@ Texto anterior:
 
 Forman parte del Sistema Nacional de Crédito Agropecuario los bancos, los fondos ganaderos y las demás entidades financieras, creadas o que creen en el futuro, que tengan por objeto principal el financiamiento de las actividades agropecuarias. También hará parte del Sistema Nacional de Crédito Agropecuario el Fondo para el Financiamiento del Sector Agropecuario, Finagro, de que trata el capítulo I de la Parte Décima de este Estatuto.
 
-## art:218 — Comisión Nacional de Crédito Agropecuario
+## art:218 — - Comisión Nacional de Crédito Agropecuario
 
 1. Integración. La administración del Sistema Nacional de Crédito Agropecuario estará a cargo de la Comisión Nacional de Crédito Agropecuario, la cual se integrará de la siguiente manera:
 
@@ -5230,7 +4892,7 @@ r. Reglamentar las condiciones de las colocaciones sustitutivas de la inversión
 
 ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
-## art:219 — Crédito de Fomento Agropecuario y Criterios para su Programación
+## art:219 — - Crédito de Fomento Agropecuario y Criterios para su Programación
 
 De conformidad con lo dispuesto por la Ley 16 de 1990, entiéndese por crédito de fomento agropecuario el que se otorga a favor de personas naturales o jurídicas, para ser utilizado en las distintas fases del proceso de producción y/o comercialización de bienes originados directamente o en forma conexa o complementaria, en la explotación de actividades agropecuarias, piscícolas, apícolas, avícolas, forestales, afines o similares, y en la acuicultura. El crédito agropecuario se otorgará para la financiación de capital de trabajo, la inversión nueva o los ensanches requeridos en las actividades indicadas.
 
@@ -5238,7 +4900,7 @@ El crédito de fomento se destinará primordialmente para impulsar la producció
 
 ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
-## art:220 — Destinación de los Recursos del Crédito Agropecuario
+## art:220 — - Destinación de los Recursos del Crédito Agropecuario
 
 La Comisión Nacional de Crédito Agropecuario definirá las líneas de crédito que otorgarán las entidades que integran el Sistema Nacional de Crédito Agropecuario, y las instituciones bancarias y financieras debidamente autorizadas por la Superintendencia Bancaria, para conceder créditos con destino al sector agropecuario, afines y similares, tales como:
 
@@ -5268,7 +4930,7 @@ l. Para investigación en aspectos pecuarios, agrícolas, piscícolas y de acuic
 
 PARÁGRAFO .- Corresponde a la Comisión Nacional de Crédito Agropecuario definir los bienes y servicios que podrán financiarse con cada una de las clases de crédito de que trata el presente artículo. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
-## art:221 — Beneficiarios del Crédito Agropecuario
+## art:221 — - Beneficiarios del Crédito Agropecuario
 
 Podrán ser beneficiarios del crédito que se otorgue a través del Sistema Nacional de Crédito Agropecuario las personas naturales o jurídicas que desarrollen las actividades a que se refiere el artículo 219 del presente Estatuto, así como las cooperativas de primero y segundo grado cuyo objeto sea financiar renglones de producción y comercialización agropecuarias. Igualmente, serán sujetos del crédito las cooperativas de productores del sector agropecuario. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
@@ -5276,7 +4938,7 @@ También serán beneficiarios del crédito para comercialización de productos a
 
 A las cooperativas agropecuarias no se aplicarán limitaciones en su endeudamiento distintas a las que rigen para los demás beneficiarios del crédito.
 
-## art:222 — Obligaciones de las Entidades que Integran el Sistema Nacional de Crédito Agropecuario
+## art:222 — - Obligaciones de las Entidades que Integran el Sistema Nacional de Crédito Agropecuario
 
 1. Asistencia Técnica y Control de Inversiones. La asistencia técnica y el control de inversiones en los créditos agropecuarios serán de carácter obligatorio. Los mismos estarán a cargo de las entidades que conforman el Sistema Nacional de Crédito Agropecuario u otras entidades crediticias o gremiales que previamente autorice para ello la Comisión Nacional de Crédito Agropecuario y se sujeten para el efecto a las condiciones que ésta les señale. Tales entidades prestarán dichos servicios bajo la supervisión del Instituto Colombiano Agropecuario (ICA), bien directamente o mediante contratos de prestación de servicios técnicos que celebren con profesionales o firmas especializadas independientes, pero, en este último caso, continuarán siendo responsables ante el respectivo prestatario.
 
@@ -5296,19 +4958,19 @@ c. Los recursos propios aportados por dichos bancos, en los créditos redesconta
 
 PARÁGRAFO 2.- Cuando durante un trimestre, el valor de la cartera agropecuaria de los Bancos Ganadero y Cafetero sea inferior al valor de los recursos que deben destinar al crédito agropecuario, cada banco en su caso, suscribirá la diferencia, durante el siguiente trimestre, en los Títulos de Desarrollo Agropecuario de que trata el artículo 229, numeral 2 del presente Estatuto. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
-## art:223 — Prohibición a las Entidades que integran el Sistema Nacional de Crédito Agropecuario
+## art:223 — - Prohibición a las Entidades que integran el Sistema Nacional de Crédito Agropecuario
 
 A partir de la vigencia de la Ley 16 de 1990, ninguna entidad integrante del Sistema Nacional de Crédito Agropecuario o del sector público agropecuario podrá destinar fondos para garantizar créditos agropecuarios sin autorización de la Comisión Nacional de Crédito Agropecuario. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266de 2000.
 
-## art:224 — Recursos Complementarios del Sistema Nacional de Crédito Agropecuario
+## art:224 — - Recursos Complementarios del Sistema Nacional de Crédito Agropecuario
 
 Serán recursos complementarios para el crédito agropecuario los que mediante contratos, y para fines específicos, pongan a disposición de cualquiera de las entidades integrantes del Sistema Nacional de Crédito Agropecuario organismos públicos o privados y en particular el Incora, el DRI o el Fondo Nacional del Café, instituciones estas últimas que a partir de la vigencia de la Ley 16 de 1990 no podrán otorgar créditos directamente. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
 ## art:225 — 
 
-Vigilancia y Control Sin perjuicio de las funciones que para fines de vigilancia de las entidades financieras le han sido asignadas, la Superintendencia Bancaria controlará el cumplimiento de las obligaciones especiales de las entidades que integran el Sistema Nacional de Crédito Agropecuario e impondrá las sanciones a que hubiere lugar en caso de incumplimiento de tales obligaciones. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
+- Vigilancia y Control Sin perjuicio de las funciones que para fines de vigilancia de las entidades financieras le han sido asignadas, la Superintendencia Bancaria controlará el cumplimiento de las obligaciones especiales de las entidades que integran el Sistema Nacional de Crédito Agropecuario e impondrá las sanciones a que hubiere lugar en caso de incumplimiento de tales obligaciones. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1266 de 2000.
 
-## art:226 — Disposiciones Finales
+## art:226 — - Disposiciones Finales
 
 1. Ámbito de aplicación. Las disposiciones contenidas en el capítulo I de la Parte Décima de este Estatuto serán aplicadas a las entidades que integran el Sistema Nacional de Crédito Agropecuario en cuanto otorguen crédito agropecuario.
 
@@ -5322,7 +4984,7 @@ CAPÍTULO I
 
 FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO - FINAGRO
 
-## art:227 — Organización
+## art:227 — - Organización
 
 1. Naturaleza jurídica. El Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, creado por la Ley 16 de 1990, es una sociedad de economía mixta del orden nacional, organizada como establecimiento de crédito, vinculada al Ministerio de Agricultura, con patrimonio propio y autonomía administrativa.
 
@@ -5332,7 +4994,7 @@ Finagro podrá, a través de contratos y/o convenios interadministrativos celebr
 
 (Inciso Adicionado por el Art. 92 de la Ley 2294 de 2023)
 
-## art:228 — Dirección y Administración
+## art:228 — - Dirección y Administración
 
 1. Órganos de dirección y administración. La dirección y administración de FINAGRO estará a cargo de:
 
@@ -5374,7 +5036,7 @@ Al aprobar tales políticas se tendrá en cuenta que corresponde a FINAGRO anali
 
 5. Representante legal. El presidente de FINAGRO será el representante legal de la entidad y su designación corresponderá al Presidente de la República.
 
-## art:229 — Régimen Patrimonial y Financiero
+## art:229 — - Régimen Patrimonial y Financiero
 
 1. Capital. El capital del Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, estará constituido por:
 
@@ -5410,7 +5072,7 @@ Si de la operación de FINAGRO resultaren pérdidas, éstas se cubrirán con las
 
 6. Relación de apalancamiento. Los pasivos de FINAGRO para con el público, excluida la inversión forzosa de que trata el numeral 2 de este artículo, no podrán exceder de veinte (20) veces su capital pagado y reservas patrimoniales.
 
-## art:230 — Operaciones
+## art:230 — - Operaciones
 
 1. Operaciones autorizadas. En su condición de organismo financiero y de redescuento y para desarrollar su objeto social, FINAGRO podrá:
 
@@ -5432,7 +5094,7 @@ e. Adicionado por el art. 77, Ley 1450 de 2011.
 
 (Numeral 9, Adicionado por el Art. 219 de la Ley 2294 de 2023)
 
-## art:231 — Fondo Agropecuario de Garantías
+## art:231 — - Fondo Agropecuario de Garantías
 
 1. Naturaleza y administración. El Fondo Agropecuario de Garantías, creado por la Ley 21 de 1985, será administrado por FINAGRO y funcionará como una cuenta especial, sujeta a la vigilancia y control de la Superintendencia Bancaria.
 
@@ -5456,7 +5118,7 @@ El pago al Banco de la República se hará con recursos del Presupuesto Nacional
 
 5. Monto de las obligaciones a cubrir. El monto máximo de las obligaciones a respaldar por el Fondo Agropecuario de Garantías será definido periódicamente por la Comisión Nacional de Crédito Agropecuario.
 
-## art:232 — Disposiciones Finales
+## art:232 — - Disposiciones Finales
 
 1. Obligaciones y cartera del Fondo Financiero Agropecuario. El Banco de la República cederá a FINAGRO la totalidad de la cartera del Fondo Financiero Agropecuario creado por la Ley 5 de 1973, existente al entrar en vigencia la Ley 16 de 1990, quedando a cargo de FINAGRO el monto total de las obligaciones del Fondo Financiero Agropecuario en la misma fecha. De igual manera, el Banco de la República cederá a FINAGRO la totalidad de los intereses por recibir, correspondientes a la cartera del Fondo Financiero Agropecuario, siendo de cargo de FINAGRO la totalidad de los intereses por pagar con cargo al mismo Fondo.
 
@@ -5478,17 +5140,17 @@ CAPÍTULO II
 
 CAJA DE CRÉDITO AGRARIO, INDUSTRIAL Y MINERO
 
-## art:233 — 
+## art:233 — - Modificado por el art
 
-Modificado por el art. 47, Ley 795 de 2003 El nuevo texto es el siguiente: Naturaleza Jurídica. El Banco Agrario de Colombia S.A. (Banagrario) es una sociedad de economía mixta del orden nacional, sujeta al régimen de empresa industrial y comercial del Estado, organizado como establecimiento de crédito bancario y vinculado al Ministerio de Agricultura y Desarrollo Rural.
+47, Ley 795 de 2003 El nuevo texto es el siguiente: Naturaleza Jurídica. El Banco Agrario de Colombia S.A. (Banagrario) es una sociedad de economía mixta del orden nacional, sujeta al régimen de empresa industrial y comercial del Estado, organizado como establecimiento de crédito bancario y vinculado al Ministerio de Agricultura y Desarrollo Rural.
 
 Texto anterior:
 
 Organización. La Caja de Crédito Agrario, Industrial y Minero, creada por la Ley 57 de 1931, organizada por los Decretos 1754 y 1998 del mismo año, es una sociedad anónima de economía mixta, del orden nacional, perteneciente al sector agropecuario y vinculada al Ministerio de Agricultura. La Caja de Crédito Agrario, Industrial y Minero tendrá una vigencia indefinida, salvo que haya una causa legal para su disolución y liquidación.
 
-## art:234 — 
+## art:234 — - Modificado por el art
 
-Modificado por el art. 47, Ley 795 de 2003. El nuevo texto es el siguiente: Objeto Social. El objeto del Banco consiste en financiar, en forma principal pero no exclusiva, las actividades relacionadas con las actividades rurales, agrícolas, pecuarias, pesqueras, forestales y agroindustriales.
+47, Ley 795 de 2003. El nuevo texto es el siguiente: Objeto Social. El objeto del Banco consiste en financiar, en forma principal pero no exclusiva, las actividades relacionadas con las actividades rurales, agrícolas, pecuarias, pesqueras, forestales y agroindustriales.
 
 Modificado por el art. 76, Ley 1450 de 2011. En desarrollo de su objeto social, el Banco Agrario de Colombia S.A. (Banagrario) podrá celebrar todas las operaciones autorizadas a los establecimientos de crédito bancarios.
 
@@ -5514,9 +5176,9 @@ d. Un representante designado por la Comisión Nacional de Crédito Agropecuario
 
 La Caja Agraria en ejercicio de su autonomía administrativa, tomará las medidas conducentes a la reducción de sus actividades actuales, adecuando su planta física y de personal solo para los requerimientos de las funciones a que se refiere el numeral 1 del artículo 236 de este Estatuto.
 
-## art:235 — 
+## art:235 — - Modificado por el art
 
-Modificado por el art. 47, Ley 795 de 2003. El nuevo texto es el siguiente: Cuando por disposición legal o reglamentaria, o por solicitud del Gobierno Nacional, el Banco deba realizar operaciones en condiciones de rentabilidad inferiores a las del mercado, o que no garanticen el equilibrio financiero para la entidad, o destinadas a subsidiar un sector específico, este las llevará a cabo únicamente cuando cuente con las asignaciones presupuestales respectivas.
+47, Ley 795 de 2003. El nuevo texto es el siguiente: Cuando por disposición legal o reglamentaria, o por solicitud del Gobierno Nacional, el Banco deba realizar operaciones en condiciones de rentabilidad inferiores a las del mercado, o que no garanticen el equilibrio financiero para la entidad, o destinadas a subsidiar un sector específico, este las llevará a cabo únicamente cuando cuente con las asignaciones presupuestales respectivas.
 
 PARÁGRAFO . La presente disposición entrará en vigencia a partir del 1 de enero del 2004.
 
@@ -5526,7 +5188,7 @@ Capital. Las acciones de la Caja de Crédito Agrario, Industrial y Minero se div
 
 PARÁGRAFO .- A fin de democratizar el capital, la Junta Directiva de la Caja Agraria podrá autorizar la emisión de acciones de la Clase "D" a fin de colocarlas entre los usuarios del crédito, los empleados de la entidad u otros accionistas privados.
 
-## art:236 — Operaciones
+## art:236 — - Operaciones
 
 1. Operaciones permanentes. La Caja Agraria, como sociedad anónima de economía mixta, del orden nacional, perteneciente al sector agropecuario y vinculada al Ministerio de Agricultura, cumplirá las siguientes actividades:
 
@@ -5554,13 +5216,13 @@ Tales actividades solo se mantendrán en la medida en que el Gobierno Nacional o
 
 El producto de la realización de los activos se destinará en primer término a la satisfacción de los pasivos originados en aquellas actividades, en cuanto fueren exigibles. El remanente constituirá recursos para el desarrollo de las actividades bancarias y de seguros, según lo determine la Junta Directiva de la Caja Agraria.
 
-## art:237 — Inversiones en Filiales
+## art:237 — - Inversiones en Filiales
 
 La Caja de Crédito Agrario, Industrial y Minero está autorizada para que, mediante reglamentaciones de su junta directiva y con la previa aprobación del Gobierno Nacional constituya empresas filiales, en las cuales podrán participar entidades nacionales adscritas o vinculadas al Ministerio de Agricultura u otras que desarrollen actividades en el sector agropecuario. Esas empresas deberán obedecer, en su estructuración y en su manejo, cuando ello fuere viable de la junta directiva de la Caja de Crédito Agrario, Industrial y Minero, a sanas políticas de descentralización y equilibrio regional.
 
 ARTÍCULO TRANSITORIO.- La Caja de Crédito Agrario, Industrial y Minero está autorizada para computar como encaje los recursos que como inversión forzosa realiza esta entidad con los bonos de deuda pública interna, previstos en la Ley 21 de 1963.
 
-## art:238 — Privilegios Procesales
+## art:238 — - Privilegios Procesales
 
 Dentro del procedimiento civil adoptado por los Decretos Leyes 1400, 2019 de 1970 y demás normas que lo modifican, la Caja de Crédito Agrario, Industrial y Minero conservará las garantías instituidas para el ejercicio de sus acciones, antes de entrar en vigencia el nuevo código, y en especial las siguientes:
 
@@ -5570,7 +5232,7 @@ b. Tratándose de prenda agraria e industrial, la interrupción de la prescripci
 
 c. Si el deudor incumpliere las obligaciones inherentes al contrato de prenda agraria o industrial, la Caja de Crédito Agrario, Industrial y Minero podrá obtener la entrega inmediata de los bienes pignorados, mediante solicitud al juez competente. El juez, sin notificación previa, decretará la entrega de plano y procederá a efectuarla dentro de las setenta y dos (72) horas siguientes a la fecha del auto respectivo, el cual se notificará después de cumplida la entrega de la cosa pignorada a la caja.
 
-## art:239 — Finalidad de las Disposiciones
+## art:239 — - Finalidad de las Disposiciones
 
 Las disposiciones contenidas en el numeral 2, e inciso final del numeral 3 del artículo 234, artículo 235 y numerales 1, 3 y 4 del artículo 236 del presente Estatuto tienen por finalidad procurar la viabilidad financiera y operativa de la Caja de Crédito Agrario, Industrial y Minero, como entidad de apoyo al sector agropecuario y al desarrollo económico del país.
 
@@ -5582,9 +5244,9 @@ Texto anterior:
 
 BANCO POPULAR
 
-## art:240 — 
+## art:240 — - Modificado por el art
 
-Modificado por el art. 48, Ley 795 de 2003. El nuevo texto es el siguiente: Organización.
+48, Ley 795 de 2003. El nuevo texto es el siguiente: Organización.
 
 1. Naturaleza Jurídica. El Fondo Nacional de Garantías S.A., cuya denominación social podrá girar bajo la sigla "FNG S.A.", es una sociedad anónima de carácter mercantil y de economía mixta del orden nacional, cuya creación fue autorizada mediante el Decreto 3788 del 29 de diciembre de 1981 y vinculada al Ministerio de Desarrollo Económico. El Fondo Nacional de Garantías S.A. se someterá a la supervisión de la Superintendencia Bancaria y a las reglas prudenciales sobre margen de solvencia, patrimonio técnico, constitución de reservas técnicas y demás normas que determine el Gobierno Nacional a partir del 1o. de enero de 2004.
 
@@ -5606,7 +5268,7 @@ Naturaleza Jurídica.
 
 El Banco Popular cuya creación fue autorizada por el Decreto 2143 de junio 30 de 1950, es una sociedad de economía mixta vinculada al Ministerio de Hacienda y Crédito Público.
 
-## art:241 — En desarrollo de su objeto social el Fondo Nacional de Garantías S.A
+## art:241 — - En desarrollo de su objeto social el Fondo Nacional de Garantías S.A
 
 podrá realizar las siguientes operaciones:
 
@@ -5640,9 +5302,9 @@ l) Actuar como garante en emisión de valores de naturaleza negociable, así com
 
 2. Revisoría fiscal. El revisor Fiscal será elegido por la Asamblea General de Accionistas, DE una terna presentada por el Gobierno Nacional. El período del Revisor Fiscal será de dos (2) años, y su elección se verificará en la primera reunión anual de la Asamblea General Ordinaria correspondiente.
 
-## art:242 — 
+## art:242 — - Modificado por el art
 
-Modificado por el art. 48, Ley 795 de 2003. El nuevo texto es el siguiente: Dirección y Administración del Fondo Nacional de Garantías (FNG) S.A. La dirección y administración del Fondo Nacional de Garantías S.A., estará a cargo de la Asamblea General de Accionistas, la Junta Directiva, el Presidente quien será su representante legal y demás órganos que prevean sus estatutos.
+48, Ley 795 de 2003. El nuevo texto es el siguiente: Dirección y Administración del Fondo Nacional de Garantías (FNG) S.A. La dirección y administración del Fondo Nacional de Garantías S.A., estará a cargo de la Asamblea General de Accionistas, la Junta Directiva, el Presidente quien será su representante legal y demás órganos que prevean sus estatutos.
 
 La Junta Directiva del Fondo Nacional de Garantías S.A. estará constituida por:
 
@@ -5684,7 +5346,7 @@ En los lugares donde no exista oficina del Banco Popular, el depósito de que tr
 
 (Derogado por el Art. 12 del Decreto 1962 de 2023)
 
-## art:243 — . Modificado por el art
+## art:243 — -. Modificado por el art
 
 48, Ley 795 de 2003. El nuevo texto es el siguiente: Disposiciones finales.
 
@@ -5714,9 +5376,9 @@ CAPÍTULO IV
 
 BANCO CENTRAL HIPOTECARIO B.C.H.
 
-## art:244 — 
+## art:244 — - Modificado por el art
 
-Modificado por el art. 49, Ley 795 de 2003. El nuevo texto es el siguiente: Naturaleza Jurídica. El Banco Central Hipotecario es una sociedad de economía mixta, vinculada al Ministerio de Hacienda y Crédito Público, en liquidación.
+49, Ley 795 de 2003. El nuevo texto es el siguiente: Naturaleza Jurídica. El Banco Central Hipotecario es una sociedad de economía mixta, vinculada al Ministerio de Hacienda y Crédito Público, en liquidación.
 
 De acuerdo con lo previsto en el artículo 52 de la Ley 489 de 1998, el régimen del Banco Central Hipotecario será el previsto en el Decreto que ordenó su liquidación, o en las normas que lo modifiquen o adicionen.
 
@@ -5732,7 +5394,7 @@ Además, como banco hipotecario podrá emitir bonos de crédito industrial de ga
 
 3. Régimen legal. Las operaciones del Banco Central Hipotecario se sujetarán a las normas del derecho privado y a la jurisdicción ordinaria.
 
-## art:245 — Dirección y Administración
+## art:245 — - Dirección y Administración
 
 1. Órganos de dirección y administración. La dirección y administración del Banco Central Hipotecario corresponderá a la Asamblea General de Accionistas, la Junta Directiva y el Presidente, quien será su representante legal.
 
@@ -5744,7 +5406,7 @@ Las anteriores funciones de Junta Directiva las tendrá este órgano, mientras e
 
 4. Revisor fiscal. El Revisor Fiscal será designado por el Gobierno Nacional, mientras el Banco se halle sometido al régimen de empresa industrial y comercial del Estado de acuerdo con los Decretos - Leyes 3130 de 1968 y 130 de 1976.
 
-## art:246 — Régimen Patrimonial
+## art:246 — - Régimen Patrimonial
 
 1. Naturaleza y clase de las acciones. Las acciones del Banco Central Hipotecario serán nominativas y estarán divididas en dos (2) clases: Las acciones clase A pertenecerán a la Nación, al Banco de la República y a los Bancos e instituciones de crédito que tengan el carácter de empresas industriales y comerciales del Estado o de sociedades de economía mixta. Las acciones clase B podrán pertenecer a personas naturales o jurídicas distintas de las anteriores.
 
@@ -5756,7 +5418,7 @@ El Banco Central Hipotecario podrá inscribir sus acciones en Bolsa de Valores.
 
 2. Provisión para recompensas y jubilaciones. Antes de las utilidades líquidas, el Banco Central Hipotecario destinará no menos del cuatro por ciento (4%) para formar un fondo de recompensas y jubilaciones.
 
-## art:247 — Operaciones Autorizadas
+## art:247 — - Operaciones Autorizadas
 
 En desarrollo de su objeto social el Banco Central Hipotecario, podrá efectuar las siguientes operaciones:
 
@@ -5874,13 +5536,13 @@ a. Restricción a la Asunción de Costos no Trasladables o al Otorgamiento de Su
 
 b. Exención de los Impuestos de Anotación y Registro. Las escrituras que se otorguen a favor del Banco Central Hipotecario (BCH) gozarán de exención de los impuestos de anotación y registro.
 
-## art:248 — Inversiones y Encaje
+## art:248 — - Inversiones y Encaje
 
 1. Inversiones en el IFI. El Banco Central Hipotecario (BCH) podrá suscribir hasta $1.000.000,oo en acciones del Instituto de Fomento Industrial.
 
 2. Encaje sobre depósitos en otros bancos. El Banco Central Hipotecario podrá computar en el cincuenta por ciento (50%) de su encaje los depósitos que tiene en otros bancos.
 
-## art:249 — Sección de Ahorro y Vivienda
+## art:249 — - Sección de Ahorro y Vivienda
 
 1. Autorización para crearla. De conformidad con el artículo 1 del Decreto 2404 de 1974 se autorizó al BCH para abrir y mantener una sección especial destinada a la captación de ahorro y a otorgar créditos hipotecarios dentro del sistema de valor constante.
 
@@ -5894,9 +5556,9 @@ CAPÍTULO V
 
 INSTITUTO DE FOMENTO INDUSTRIAL IFI
 
-## art:250 — 
+## art:250 — - Modificado por el art
 
-Modificado por el art. 16, Decreto Nacional 1164 de 1999, Modificado por el art. 50, Ley 795 de 2003. El nuevo texto es el siguiente: Organización. El objeto principal del Instituto de Fomento Industrial S.A. (IFI) creado por el Decreto 1157 de 1940, es prospectar y promover la fundación de nuevas empresas, colaborar en el establecimiento de las de iniciativa particular y pública, y contribuir al desarrollo y reorganización de las ya existentes, a través de las operaciones de redescuento. Estas empresas deberán estar dedicadas principalmente a la explotación de industrias básicas y de transformación de materias primas nacionales, que la iniciativa y el capital particulares no desarrollen satisfactoriamente, así como las demás actividades de desarrollo económico que el país requiera y que no estén siendo atendidas suficientemente y de forma directa por el sistema financiero.
+16, Decreto Nacional 1164 de 1999, Modificado por el art. 50, Ley 795 de 2003. El nuevo texto es el siguiente: Organización. El objeto principal del Instituto de Fomento Industrial S.A. (IFI) creado por el Decreto 1157 de 1940, es prospectar y promover la fundación de nuevas empresas, colaborar en el establecimiento de las de iniciativa particular y pública, y contribuir al desarrollo y reorganización de las ya existentes, a través de las operaciones de redescuento. Estas empresas deberán estar dedicadas principalmente a la explotación de industrias básicas y de transformación de materias primas nacionales, que la iniciativa y el capital particulares no desarrollen satisfactoriamente, así como las demás actividades de desarrollo económico que el país requiera y que no estén siendo atendidas suficientemente y de forma directa por el sistema financiero.
 
 Texto anterior:
 
@@ -5908,9 +5570,9 @@ El Gobierno podrá directamente aportar capital para el establecimiento o ensanc
 
 PARÁGRAFO .- En lo no previsto en este capítulo el Instituto de Fomento Industrial, IFI, se regirá por las disposiciones de las corporaciones financieras.
 
-## art:251 — 
+## art:251 — - Modificado por el art
 
-Modificado por el art. 51, Ley 795 de 2003 El nuevo texto es el siguiente: Dirección y Administración.
+51, Ley 795 de 2003 El nuevo texto es el siguiente: Dirección y Administración.
 
 1. Junta Directiva. La Junta Directiva del Instituto de Fomento Industrial S.A. (IFI), estará conformada así:
 
@@ -5942,7 +5604,7 @@ Para ser miembro de la junta directiva del Instituto se requiere ser ciudadano c
 
 2. Incompatibilidades. Salvo lo dispuesto en el numeral anterior del presente Estatuto, no podrán ser miembros de la junta directiva del Instituto de Fomento Industrial, IFI, personas que pertenezcan a las juntas directivas o que sean presidentes, gerentes ejecutivos de corporaciones financieras, de bancos comerciales privados o de compañías de seguros.
 
-## art:252 — Régimen Patrimonial
+## art:252 — - Régimen Patrimonial
 
 1. Capital. El capital del Instituto de Fomento Industrial, Instituto de Fomento Industrial, IFI, podrá aumentar mediante la suscripción de acciones por los bancos comerciales y por individuos o entidades, oficiales o particulares.
 
@@ -5956,9 +5618,9 @@ De las partidas anuales que el Gobierno Nacional destine para el Instituto de Fo
 
 4. Adicionado por el art. 52, Ley 795 de 2003
 
-## art:253 — 
+## art:253 — - Modificado por el art
 
-Modificado por el art. 53, Ley 795 de 2003 El nuevo texto es el siguiente: Operaciones.
+53, Ley 795 de 2003 El nuevo texto es el siguiente: Operaciones.
 
 1. Operaciones autorizadas. El Instituto de Fomento Industrial S.A. (IFI) en desarrollo de su objeto social podrá:
 
@@ -6022,9 +5684,9 @@ PARÁGRAFO 2.- El Instituto podrá utilizar los servicios del Banco Central Hipo
 
 4. Requisitos para adelantar la organización, promoción o financiación de una industria. Cuando el Instituto de Fomento Industrial, IFI, decida organizar, promover o financiar una industria, deberá invitar públicamente a todas las personas domiciliadas en el Departamento en donde vaya a establecerse la factoría o industria, a fin de darles ocasión de invertir sus ahorros en accionistas de ella, según la reglamentación que para el efecto dictará el Gobierno Nacional y en forma tal que se logre dar facilidades de inversión a los pequeños capitalistas y a las rentas menores.
 
-## art:254 — 
+## art:254 — - Modificado por el art
 
-Modificado por el art. 54, Ley 795 de 2003 El nuevo texto es el siguiente: Régimen jurídico de los actos y contratos. Las operaciones, cualquiera que sea su naturaleza y modalidad, que celebre el Instituto de Fomento Industrial S.A. (IFI), incluidos los actos y contratos que las instrumenten, se regirán por las normas del derecho privado exclusivamente.
+54, Ley 795 de 2003 El nuevo texto es el siguiente: Régimen jurídico de los actos y contratos. Las operaciones, cualquiera que sea su naturaleza y modalidad, que celebre el Instituto de Fomento Industrial S.A. (IFI), incluidos los actos y contratos que las instrumenten, se regirán por las normas del derecho privado exclusivamente.
 
 Texto anterior:
 
@@ -6046,9 +5708,9 @@ Estas inversiones las hará el Instituto preferencialmente en zonas que presente
 
 e. Invertir, sin limitaciones de capital, en la Corporación Financiera de Desarrollo.
 
-## art:255 — 
+## art:255 — - Modificado por el art
 
-Modificado por el art. 55, Ley 795 de 2003 El nuevo texto es el siguiente: Actividades Transitorias. El Instituto de Fomento Industrial S.A. (IFI), continuará desarrollando, con carácter transitorio y hasta su culminación, aquellas actividades distintas de las previstas en esta ley, que ha venido cumpliendo por determinación legal, tales como el mantenimiento y realización de operaciones que impliquen riesgos directos para su patrimonio, siempre y cuando las mismas impliquen derechos adquiridos o consolidados en cabeza de terceros que puedan hacerse exigibles al Instituto.
+55, Ley 795 de 2003 El nuevo texto es el siguiente: Actividades Transitorias. El Instituto de Fomento Industrial S.A. (IFI), continuará desarrollando, con carácter transitorio y hasta su culminación, aquellas actividades distintas de las previstas en esta ley, que ha venido cumpliendo por determinación legal, tales como el mantenimiento y realización de operaciones que impliquen riesgos directos para su patrimonio, siempre y cuando las mismas impliquen derechos adquiridos o consolidados en cabeza de terceros que puedan hacerse exigibles al Instituto.
 
 Texto anterior:
 
@@ -6058,13 +5720,13 @@ La participación del Instituto de Fomento Industrial, IFI, en una misma empresa
 
 PARÁGRAFO .- Cuando medien circunstancias de interés nacional que así lo justifiquen el Instituto de Fomento Industrial, IFI, podrá superar como accionista y/o acreedor estos porcentajes, previo concepto favorable del Consejo Nacional de Política Económica y Social, CONPES.
 
-## art:256 — Vigilancia y Control
+## art:256 — - Vigilancia y Control
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999. El Instituto de Fomento Industrial, IFI, está sometido a la inspección y vigilancia de la Superintendencia Bancaria. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-496 de 1998.
 
 NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:257 — Disposiciones Finales
+## art:257 — - Disposiciones Finales
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 
@@ -6075,8 +5737,6 @@ Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 CAPÍTULO VI
 
 FINANCIERA ENERGÉTICA NACIONAL - FEN -
-
-ARTÍCULO
 
 ## art:258 — - Modificado por el art
 
@@ -6106,9 +5766,9 @@ Texto anterior:
 
 3. Socios. Podrán ser socios de la Financiera Energética Nacional S.A., FEN, la Nación, las entidades descentralizadas de los órdenes nacional, departamental, distrital, municipal del sector energético y las demás entidades públicas y privadas que deseen participar.
 
-## art:259 — 
+## art:259 — - Modificado por el art
 
-Modificado por el art. 5, Decreto 4174 de 2011. El nuevo texto es el siguiente: Órganos de Dirección y Administración. Serán órganos de dirección y administración de la Financiera de Desarrollo Nacional S. A.:
+5, Decreto 4174 de 2011. El nuevo texto es el siguiente: Órganos de Dirección y Administración. Serán órganos de dirección y administración de la Financiera de Desarrollo Nacional S. A.:
 
 La asamblea de accionistas,
 
@@ -6202,7 +5862,7 @@ b. Además de las que consagran los estatutos de la Financiera Energética Nacio
 
 4. Representante legal. El gerente general de la Financiera Energética Nacional S.A., FEN, será su representante legal.
 
-## art:260 — Régimen Patrimonial
+## art:260 — - Régimen Patrimonial
 
 1. Capital. El capital de la Financiera Energética Nacional S.A., FEN, estará constituido, entre otros, por los siguientes bienes:
 
@@ -6223,8 +5883,6 @@ b. La colocación de títulos valores en el mercado externo, y
 c. Los empréstitos internos o externos que contrate.
 
 PARÁGRAFO .- El Gobierno Nacional podrá ordenar a las entidades del sector energético del orden nacional y a otras entidades públicas nacionales, previo concepto del Conpes, efectuar inversiones en títulos valores emitidos por la Financiera Energética Nacional S.A., FEN, en las condiciones financieras de los títulos valores emitidos para captar ahorro privado.
-
-ARTÍCULO
 
 ## art:261 — - Operaciones
 
@@ -6260,7 +5918,7 @@ Así mismo, corresponde a la Financiera la administración fiduciaria de los rec
 
 7. Crédito interbancario. Para atender requerimientos transitorios de liquidez, la Financiera Energética Nacional S.A., FEN, podrá obtener y otorgar a otros establecimientos de crédito préstamos a corto plazo, en moneda legal, sin exceder del tope que fije la Junta Directiva del Banco de la República.
 
-## art:262 — Vigilancia y Control
+## art:262 — - Vigilancia y Control
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999. La Superintendencia Bancaria ejercerá las funciones de inspección y vigilancia de las operaciones que realice la Financiera Energética Nacional S.A., FEN, con iguales facultades a las concedidas y que en el futuro le conceda la Ley en relación con las entidades del sistema financiero.
 
@@ -6268,7 +5926,7 @@ Durante los primeros tres meses de cada año, la Contraloría General de la Rep�
 
 NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:263 — Disposiciones finales
+## art:263 — - Disposiciones finales
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 
@@ -6302,9 +5960,9 @@ CAPÍTULO VII
 
 BANCO CAFETERO
 
-## art:264 — 
+## art:264 — - Modificado por el art
 
-Modificado por el art. 78, Ley 510 de 1999 El nuevo texto es el siguiente: Organización.
+78, Ley 510 de 1999 El nuevo texto es el siguiente: Organización.
 
 1. Naturaleza jurídica. Transformase el Banco Cafetero, empresa industrial y comercial del Estado, creada por el Decreto 2314 de 1953, en sociedad de economía mixta del orden nacional vinculada al Ministerio de Agricultura.
 
@@ -6326,7 +5984,7 @@ Texto anterior:
 
 4. Domicilio. El domicilio de la sociedad será la ciudad de Santa Fe de Bogotá, Distrito Capital, pero podrá tener sucursales y agencias en todo el territorio nacional. Dando cumplimiento a las disposiciones previstas para la inversión del sector financiero en el exterior, podrá invertir en instituciones financieras fuera del país.
 
-## art:265 — Dirección y Administración
+## art:265 — - Dirección y Administración
 
 1. Órganos de dirección y administración. La dirección y administración del Banco Cafetero, corresponderá a la Asamblea General de Accionistas, la Junta Directiva y el Presidente, quien será su representante legal. Numeral declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-360 de 1994.
 
@@ -6350,7 +6008,7 @@ Los miembros de la Junta Directiva elegidos en representación de las acciones a
 
 ## art:266 — 
 
-Régimen Patrimonial
+- Régimen Patrimonial
 
 1. Estructura del capital. En el capital del Banco podrán participar, la Federación Nacional de Cafeteros, como Administradora del Fondo Nacional del Café y con recursos tomados de éste; la Federación Nacional de Cafeteros de Colombia, con recursos propios y como persona jurídica de derecho privado, los productores de café, las Cooperativas de Caficultores y demás empresas de carácter gremial vinculadas al sector cafetero, los exportadores y comercializadores nacionales de café, quienes les sucedan en sus derechos a cualquier título y el público en general. Numeral declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-308 de 1994.
 
@@ -6366,15 +6024,13 @@ PARÁGRAFO .- Los Bonos obligatoriamente convertibles en acciones podrán ser de
 
 Esta valoración deberá ser tenida en cuenta por el Comité Nacional de Cafeteros cuando fije, con el visto bueno del Ministro de Hacienda y Crédito Público, el precio mínimo de venta de las acciones de la clase "B" y de los Bonos obligatoriamente convertibles en acciones, en la emisión ordenada en el numeral 3 de este artículo.
 
-## art:267 — Operaciones Autorizadas
+## art:267 — - Operaciones Autorizadas
 
 El Banco Cafetero realizar todas las operaciones propias de los establecimientos bancarios de carácter comercial.
 
 CAPÍTULO VIII
 
 FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER -
-
-ARTÍCULO
 
 ## art:268 — - Organización
 
@@ -6418,7 +6074,7 @@ o. Adquisición de equipos y realización de operaciones de mantenimiento, relac
 
 Los Consejos Regionales de Planificación podrán disponer, con cargo a los recursos de los Fondos de Inversión para el Desarrollo Regional, aportes al capital de la Financiera de Desarrollo Territorial S.A., Findeter, los cuales se contabilizarán por partes iguales a nombre de los Departamentos y el Distrito Capital de Santa Fe de Bogotá, que conformen cada región, o de las entidades descentralizadas que sean socias en su lugar. NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:269 — Dirección y Administración
+## art:269 — - Dirección y Administración
 
 1. Órganos de dirección y administración. Serán órganos de dirección y administración de la Financiera de Desarrollo Territorial S.A., Findeter;
 
@@ -6452,7 +6108,7 @@ b. Además de las funciones que consagren los estatutos, serán funciones de la 
 
 4. Representante legal. El Presidente de Findeter, quien será designado por el Presidente de la República, será el representante legal de la entidad.
 
-## art:270 — Operaciones
+## art:270 — - Operaciones
 
 1. Operaciones Autorizadas. La Financiera de Desarrollo Territorial S.A., Findeter, es una entidad financiera de descuento, que en desarrollo de su objeto social podrá realizar las siguientes actividades:
 
@@ -6546,9 +6202,9 @@ Los contratos de empréstito que se celebren conforme al inciso anterior requeri
 
 PARÁGRAFO (TRANSITORIO). Modificado por el art. 16, Decreto Nacional 1164 de 1999. Para efectos de lo previsto en el inciso 1 del presente numeral, el Banco de la República transferirá los recursos correspondientes a la Financiera de Desarrollo Territorial S.A., Findeter, y cederá a ésta los contratos de administración fiduciaria que haya celebrado con las entidades bancarias o financieras oficiales que hayan señalado los Consejos Regionales de Planificación. NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:271 — 
+## art:271 — - Modificado por el art
 
-Modificado por el art. 57, Ley 795 de 2003, Modificado por el art. 30, Ley 1328 de 2009. El nuevo texto es el siguiente: Inversiones, Encaje y Utilidades. La Financiera de Desarrollo Territorial S.A. -Findeter-, no estará sometida a inversiones forzosas y no distribuirá utilidades en dinero efectivo entre sus socios. Así mismo, estará sujeta al régimen de encaje y de seguro de depósito cuando las captaciones que realice se encuentren bajo las condiciones que para el efecto señale el Gobierno Nacional.
+57, Ley 795 de 2003, Modificado por el art. 30, Ley 1328 de 2009. El nuevo texto es el siguiente: Inversiones, Encaje y Utilidades. La Financiera de Desarrollo Territorial S.A. -Findeter-, no estará sometida a inversiones forzosas y no distribuirá utilidades en dinero efectivo entre sus socios. Así mismo, estará sujeta al régimen de encaje y de seguro de depósito cuando las captaciones que realice se encuentren bajo las condiciones que para el efecto señale el Gobierno Nacional.
 
 Las entidades públicas de desarrollo regional no estarán sometidas al régimen de encajes, ni a inversiones forzosas y no distribuirán utilidades entre sus socios.
 
@@ -6556,17 +6212,17 @@ Texto anterior:
 
 La Financiera de Desarrollo Territorial S.A., Findeter, lo mismo que las Entidades Públicas de Desarrollo Regional, no estará sometida al régimen de encajes, ni a inversiones forzosas, y no distribuirá utilidades entre sus socios.
 
-## art:272 — Restricciones y Limitaciones
+## art:272 — - Restricciones y Limitaciones
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999. El Gobierno Nacional determinará la relación pasivos a capital de la Financiera de Desarrollo Territorial S.A., Findeter, y podrá disponer que organice un fondo de liquidez. NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:273 — Vigilancia y Control
+## art:273 — - Vigilancia y Control
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999. La Superintendencia Bancaria ejercerá las funciones de vigilancia y control de las operaciones que realice la Financiera de Desarrollo Territorial S.A., Findeter, con iguales facultades a las concedidas y que en el futuro le conceda la ley en relación con las entidades del sistema financiero. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-496de 1998.
 
 Durante los primeros tres meses de cada año, la Contraloría General de la República examinará, mediante auditor especial, el ejercicio y los estados financieros de la vigencia del año inmediatamente anterior. NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:274 — Disposiciones Finales
+## art:274 — - Disposiciones Finales
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 
@@ -6582,11 +6238,11 @@ CAPÍTULO IX
 
 FIDUCIARIA LA PREVISORA
 
-## art:275 — Organización
+## art:275 — - Organización
 
 La Sociedad Fiduciaria La Previsora, cuya constitución fue autorizada por el artículo 3 del Decreto 1547 de 1984, recibió la calificación de Empresa Industrial y Comercial del Estado, vinculada al Ministerio de Hacienda y Crédito Público, en virtud de lo dispuesto por el artículo 70 del Decreto 919 de 1989.
 
-## art:276 — Operaciones
+## art:276 — - Operaciones
 
 1. Operaciones autorizadas. En desarrollo de su objeto social, la sociedad fiduciaria podrá ejecutar las siguientes operaciones de carácter especial:
 
@@ -6684,8 +6340,6 @@ CAPÍTULO X
 
 INSTITUTO COLOMBIANO DE CRÉDITO EDUCATIVO Y ESTUDIOS TÉCNICOS EN EL EXTERIOR - ICETEX
 
-ARTÍCULO
-
 ## art:277 — - Adicionado por el Artículo 2 de la Ley 1002 de 2005
 
 Operaciones
@@ -6754,7 +6408,7 @@ El Gobierno Nacional reglamentará el régimen de recompra anticipada de los Tí
 
 9. Adicionado por el parágrafo 1 del art. 2, Ley 1002 de 2005.
 
-## art:278 — Vigilancia y Control
+## art:278 — - Vigilancia y Control
 
 Las captaciones a que se refieren los numerales 1 y 2 del artículo anterior del presente Estatuto, quedarán bajo el control de la Superintendencia Bancaria, de acuerdo con las disposiciones legales vigentes sobre la materia. Inciso declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-496 de 1998.
 
@@ -6764,7 +6418,7 @@ CAPÍTULO XI
 
 BANCO DE COMERCIO EXTERIOR S.A.
 
-## art:279 — Naturaleza Jurídica
+## art:279 — - Naturaleza Jurídica
 
 1. Naturaleza jurídica. Modificado por el art. 58, Ley 795 de 2003, El nuevo texto es el siguiente: El Banco de Comercio Exterior, creado por el artículo 21 de la Ley 7a. de 1991, es una sociedad de economía mixta del orden nacional, organizada como establecimiento de crédito bancario, vinculada al Ministerio de Comercio Exterior. El Banco de Comercio Exterior de Colombia S.A., (Bancoldex), continuará sometiéndose exclusivamente al régimen propio de las sociedades de economía mixta no asimilado al de las empresas industriales y comerciales del Estado, independientemente de la participación del capital público en su patrimonio.
 
@@ -6788,7 +6442,7 @@ Inciso Adicionado por el art. 113, Ley 795 de 2003.
 
 4. Domicilio. El Banco de Comercio Exterior tendrá su domicilio principal en Santa Fe de Bogotá y podrá establecer sucursales o agencias en otros lugares del país o del exterior, según determine su Junta Directiva y con sujeción a las normas aplicables en la materia.
 
-## art:280 — Proceso de Organización
+## art:280 — - Proceso de Organización
 
 1. Asunción de los derechos y obligaciones del Fondo de Promoción de Exportaciones. A partir del momento en el que inicie actividades, el Banco de Comercio Exterior asumirá todos los derechos y obligaciones del Fondo de Promoción de Exportaciones, respecto de toda clase de bienes, de pleno derecho, sin que sea necesario cambio de registro o pago de impuesto alguno en relación con aquellos bienes que los habrían requerido de acuerdo con otras normas. En consecuencia, los actos y contratos comerciales, civiles o administrativos, emanados del Fondo de Promoción de Exportaciones, continuarán en vigor en los términos que ellos establecen, o hasta que sean revocados o modificados por las autoridades del Banco, cuando éstas tengan la facultad de hacerlo.
 
@@ -6850,7 +6504,7 @@ Los demás particulares no podrán recibir condiciones iguales o superiores a la
 
 12. Fin de la etapa de transformación. Solemnizados e inscritos los estatutos sociales, y posesionados los directores y administradores, la junta elegirá al Presidente del Banco. De todo ello se dará aviso al público en la forma prescrita en el numeral 6, del artículo 71 del presente Estatuto.
 
-## art:281 — Dirección y Administración
+## art:281 — - Dirección y Administración
 
 1. Administración del Banco. La administración del Banco estará a cargo de la Asamblea General de Accionistas, la Junta Directiva, el Presidente y los demás órganos que prevean sus estatutos.
 
@@ -6890,7 +6544,7 @@ Los estatutos señalarán las funciones del Presidente del Banco y podrán autor
 
 6. Revisoría Fiscal. El Revisor Fiscal será elegido por la Asamblea General de Accionistas, para períodos de dos años.
 
-## art:282 — Funciones del Banco
+## art:282 — - Funciones del Banco
 
 El Banco cumplirá las siguientes funciones:
 
@@ -6916,7 +6570,7 @@ PARÁGRAFO . 1.- Prohíbese al Banco hacer gastos distintos de los que pertenece
 
 PARÁGRAFO 2.- (transitorio). Durante el año siguiente a la entrada en vigencia del Decreto 2505 de 1991, el Banco podrá seguir ejerciendo algunas de las funciones propias del Fondo de Promoción de Exportaciones, en cuanto ello resulte absolutamente indispensable que la transformación de una entidad en la otra no implique perjuicio del interés público, daño injustificado a terceros, o detrimento grave en el patrimonio del Banco.
 
-## art:283 — Promoción de Exportaciones
+## art:283 — - Promoción de Exportaciones
 
 1. Contrato de fiducia para promoción de exportaciones. Con el objeto de desarrollar la función de promoción de las exportaciones prevista en el artículo 21 de la Ley 7 de 1991, el Banco queda obligado a constituir o a hacerse socio de una sociedad fiduciaria, y a celebrar con ella, en representación de la Nación, un contrato para formar un patrimonio autónomo con los bienes a los que se refiere el literal a del numeral 4 del artículo 280 de este Decreto, con destino a la promoción de exportaciones. Tal sociedad quedará facultada para realizar, entre otros, el contrato que aquí se describe.
 
@@ -7000,11 +6654,11 @@ PARÁGRAFO 2.- Prohíbese a los agregados comerciales hacer gastos o asumir obli
 
 7. Destino de los recursos del fideicomiso. Al terminar por cualquier motivo el fideicomiso para promoción de que tratan los numerales anteriores, los bienes resultantes, después de cancelar sus obligaciones, se entregarán a la Nación como beneficiaria, sin que sobre ellos tengan derechos el Banco o sus demás accionistas.
 
-## art:284 — Disolución y Liquidación
+## art:284 — - Disolución y Liquidación
 
 La disolución y liquidación del Banco se harán por las mismas causales y en la misma oportunidad y forma previstas en la ley para los demás establecimientos bancarios.
 
-## art:285 — Disposiciones Finales
+## art:285 — - Disposiciones Finales
 
 1. Régimen para el ejercicio de las funciones de los servidores del Banco. Salvo en cuanto la Constitución Política o este capítulo dispongan expresamente otra cosa, los servidores del Banco ejercerán sus funciones, y asumirán responsabilidades, con sujeción a las normas aplicables a los particulares.
 
@@ -7018,7 +6672,7 @@ CAPÍTULO XII
 
 FONDO FINANCIERO DE PROYECTOS DE DESARROLLO FONADE
 
-## art:286 — Organización
+## art:286 — - Organización
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 
@@ -7028,7 +6682,7 @@ Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 
 3. Régimen legal. El Fondo Financiero de Proyectos de Desarrollo -FONADE- se regirá por las disposiciones contenidas en el Decreto 2168 del 30 de diciembre de 1992, por las normas relativas a las empresas industriales y comerciales del Estado y por sus estatutos. NOTA: El Decreto Nacional 1164 de 1999 fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-969 de 1999.
 
-## art:287 — Dirección y Administración
+## art:287 — - Dirección y Administración
 
 1. Dirección y administración. Los órganos de dirección y administración del Fondo Financiero de Proyectos de Desarrollo -FONADE- son la Junta Directiva y el Gerente.
 
@@ -7084,7 +6738,7 @@ f. Las demás que le asignen los estatutos.
 
 PARÁGRAFO .- Los estatutos determinarán las funciones que pueden ser delegadas por el Gerente.
 
-## art:288 — Funciones
+## art:288 — - Funciones
 
 1. Funciones. En desarrollo de su objeto el Fondo Financiero de Proyectos de Desarrollo -FONADE- podrá realizar las siguientes funciones:
 
@@ -7110,7 +6764,7 @@ i. Celebrar los contratos de fomento de actividades científicas, tecnológicas 
 
 3. Financiamiento no reembolsable. A partir del año de 1994, el financiamiento no reembolsable se hará contra apropiaciones del presupuesto nacional o con las utilidades liquidadas y asignadas a la entidad sin deteriorar su patrimonio en términos reales.
 
-## art:289 — Vigilancia y Control
+## art:289 — - Vigilancia y Control
 
 Modificado por el art. 16, Decreto Nacional 1164 de 1999.
 
@@ -7126,7 +6780,7 @@ CAPÍTULO. I
 
 TOMA DE POSESIÓN Y LIQUIDACIÓN FORZOSA ADMINISTRATIVA
 
-## art:290 — Ámbito de Aplicación
+## art:290 — - Ámbito de Aplicación
 
 Por las disposiciones de esta parte se regirá el procedimiento administrativo de toma de posesión de los bienes, haberes y negocios de una institución vigilada por la Superintendencia Bancaria y el adelantamiento de los respectivos procesos liquidatorios.
 
@@ -7136,9 +6790,9 @@ CAPÍTULO II
 
 TOMA DE POSESIÓN
 
-## art:291 — 
+## art:291 — - Modificado por el art
 
-Modificado por el art. 24, Ley 510 de 1999, Reglamentado parcialmente por el Decreto Nacional 4030 de 2006. El nuevo texto es el siguiente: Principios que rigen la toma de Posesión
+24, Ley 510 de 1999, Reglamentado parcialmente por el Decreto Nacional 4030 de 2006. El nuevo texto es el siguiente: Principios que rigen la toma de Posesión
 
 Corresponde al Presidente de la República, en ejercicio de las funciones que le otorga el numeral 25 del artículo 189 de la Constitución Política, señalar la forma como se desarrollará el proceso de toma de posesión, y en particular la forma como se procederá a liquidar los activos de la entidad, a realizar los actos necesarios para colocarla en condiciones de desarrollar su objeto social o a realizar los actos necesarios para obtener mejores condiciones para el pago total o parcial de las acreencias de los ahorradores, depositantes e inversionistas; la forma y oportunidad en la cual se deben presentar los créditos o reclamaciones; las sumas que se pueden cancelar como gastos de administración; la forma como se reconocerán y pagarán los créditos, se decidirán las objeciones, se restituirán los bienes que no deban formar parte de la masa, y en general, los actos que en desarrollo de la toma de posesión se pueden o se deben realizar.
 
@@ -7208,7 +6862,7 @@ g. La designación de quien asumirá la representación legal de la intervenida.
 
 3. Inventarios. Dentro de los quince (15) días siguientes a la fecha en que el Superintendente haya tomado posesión de una institución vigilada, el administrador designado por él hará un inventario detallado de sus activos y pasivos.
 
-## art:292 — Toma de Posesión para Liquidar
+## art:292 — - Toma de Posesión para Liquidar
 
 Derogado por el art. 123, Ley 510 de 1999.
 
@@ -7250,7 +6904,7 @@ CAPÍTULO III
 
 PROCESO DE LIQUIDACIÓN FORZOSA ADMINISTRATIVA
 
-## art:293 — Naturaleza y Normas Aplicables de la Liquidación Forzosa Administrativa
+## art:293 — - Naturaleza y Normas Aplicables de la Liquidación Forzosa Administrativa
 
 1. Naturaleza y objeto del proceso. El proceso de liquidación forzosa administrativa de una entidad vigilada por la Superintendencia Bancaria es un proceso concursal y universal, tiene por finalidad esencial la pronta realización de los activos y el pago gradual y rápido del pasivo externo a cargo de la respectiva entidad hasta la concurrencia de sus activos, preservando la igualdad entre los acreedores sin perjuicio de las disposiciones legales que confieren privilegios de exclusión y preferencia a determinada clase de créditos.
 
@@ -7262,11 +6916,11 @@ La realización de activos y de los demás actos de gestión se regirán por las
 
 PARÁGRAFO .- Los instructivos que fueron expedidos por la Superintendencia Bancaria y el Fondo de Garantías de Instituciones Financieras en relación con los procesos de liquidación, servirán de criterios auxiliares a los liquidadores en su gestión.
 
-## art:294 — Competencia para la liquidación
+## art:294 — - Competencia para la liquidación
 
 De acuerdo con lo dispuesto por el artículo 19 de la Ley 35 de 1993, a partir de la vigencia de dicha Ley es competencia de los liquidadores adelantar bajo su inmediata dirección y responsabilidad los procesos de liquidación forzosa administrativa de entidades vigiladas por la Superintendencia Bancaria.
 
-## art:295 — Régimen Aplicable al Liquidador y al Contralor
+## art:295 — - Régimen Aplicable al Liquidador y al Contralor
 
 1. Naturaleza de las funciones del liquidador. El liquidador designado por el Fondo de Garantías de Instituciones Financieras o por los acreedores reconocidos, ejercerá funciones públicas administrativas transitorias, sin perjuicio de la aplicabilidad de las reglas del derecho privado a los actos de gestión que deba ejecutar durante el proceso de liquidación.
 
@@ -7390,7 +7044,7 @@ Las sanciones impuestas a los liquidadores por delitos, contravenciones u otras 
 
 11. Adicionado por el art. 59, Ley 795 de 2003
 
-## art:296 — Intervención del Fondo de Garantías en el Proceso de Liquidación Forzosa Administrativa
+## art:296 — - Intervención del Fondo de Garantías en el Proceso de Liquidación Forzosa Administrativa
 
 1. Atribuciones generales. En los procesos de liquidación forzosa administrativa de entidades vigiladas por la Superintendencia Bancaria, corresponderá al Fondo de Garantías de Instituciones Financieras:
 
@@ -7414,7 +7068,7 @@ d. Objetar e impugnar en vía gubernativa o judicialmente los actos del liquidad
 
 Para llevar a cabo el seguimiento previsto en este numeral, el Fondo podrá cuando lo considere necesario contar con la asistencia de entidades especializadas.
 
-## art:297 — Rendición de Cuentas
+## art:297 — - Rendición de Cuentas
 
 1. Deber y oportunidad de la rendición de cuentas. El liquidador deberá rendir cuentas comprobadas de su gestión mediante una exposición razonada y detallada de los actos de gestión de los negocios, bienes y haberes de la entidad intervenida, y del pago de las acreencias y la restitución de bienes y sumas excluidas de la masa de la liquidación.
 
@@ -7444,7 +7098,7 @@ Los documentos y comprobantes que permitan la verificación de las cuentas estar
 
 Los estados financieros se prepararán de acuerdo con las normas generales vigentes en materia contable.
 
-## art:298 — Junta de Acreedores
+## art:298 — - Junta de Acreedores
 
 Se reglamentó la integración de ésta junta mediante el Decreto Nacional 2375 de 1993
 
@@ -7472,7 +7126,7 @@ e. Asesorar al liquidador cuando éste se lo solicite, en cuestiones relacionada
 
 f. Requerir al liquidador para que presente las cuentas comprobadas de su gestión cuando éste se abstenga de hacerlo.
 
-## art:299 — Masa de la Liquidación
+## art:299 — - Masa de la Liquidación
 
 1. Masa de la liquidación. Integran la masa de la liquidación todos los bienes actuales y futuros de la entidad intervenida.
 
@@ -7504,9 +7158,9 @@ PARÁGRAFO . Adicionado por el art. 26, Ley 510 de 1999.
 
 Ver el art. 2, Decreto Nacional 606 de 1998
 
-## art:300 — 
+## art:300 — - Reglamentado parcialmente por el Decreto Nacional 606 de 1998, Modificado por el art
 
-Reglamentado parcialmente por el Decreto Nacional 606 de 1998, Modificado por el art. 25, Ley 510 de 1999. El nuevo texto es el siguiente: Etapas del Proceso Liquidatorio
+25, Ley 510 de 1999. El nuevo texto es el siguiente: Etapas del Proceso Liquidatorio
 
 1. En caso de liquidación, los créditos serán pagados siguiendo las reglas de prelación previstas por la ley. En todo caso, si el Fondo de Garantías de Instituciones Financieras paga el seguro de depósito o una garantía, el mismo tendrá derecho a obtener el pago de las sumas que haya cancelado, en las mismas condiciones que los depositantes o ahorradores.
 
@@ -7686,7 +7340,7 @@ La existencia y representación de la entidad en liquidación se acreditará con
 
 19. Gastos de administración de la liquidación. Los créditos que se causen durante el curso de la liquidación por concepto de salarios, prestaciones sociales y aquellos en los que se incurra para la realización o recuperación de activos y conservación de archivos, no se tomarán en cuenta para la aplicación de las reglas previstas en este Estatuto y se pagarán de preferencia como gastos de administración de la liquidación.
 
-## art:301 — Otras Disposiciones
+## art:301 — - Otras Disposiciones
 
 1. Acuerdos de acreedores. En cualquier estado del proceso se podrá inducir o promover entre los acreedores acuerdos que se someterán, en lo que resulte pertinente, al régimen concordatorio previsto en la ley; para su perfeccionamiento se requerirá del consentimiento de la mayoría absoluta de los acreedores reconocidos en la resolución que decidió sobre las reclamaciones, que a la vez represente no menos del setenta y cinco por ciento (75%) de los créditos reconocidos. En estos casos las decisiones podrán estar orientadas al restablecimiento de la intervenida, en cuyo caso el Fondo presentará a la Superintendencia Bancaria la respectiva solicitud. Igualmente se podrá acordar:
 
@@ -7750,7 +7404,7 @@ Será responsabilidad del liquidador constituir, con recursos de la intervenida,
 
 ## art:302 — 
 
-Disposiciones Finales
+- Disposiciones Finales
 
 1. Disposiciones transitorias. En ejercicio de las facultades conferidas por el artículo 69 y siguientes del Código Contencioso Administrativo, el liquidador no podrá revocar directamente los actos administrativos expedidos dentro del proceso liquidatorio por la Superintendencia Bancaria o el Fondo de Garantías de Instituciones Financieras, sin perjuicio de las acciones que puedan existir contra los actos de tales autoridades conforme a las leyes, y de lo establecido en el numeral 16 del artículo 300 del presente Estatuto.
 
@@ -7770,7 +7424,7 @@ CAPÍTULO I
 
 PARTICIPACIÓN ESTATAL
 
-## art:303 — Privatización de Entidades con Participación Estatal
+## art:303 — - Privatización de Entidades con Participación Estatal
 
 1. Privatización de entidades con participación del Fondo de Garantías de Instituciones Financieras en su capital. Cuando no se produzca fusión o absorción por otras entidades, en un plazo razonable, contado desde la suscripción o adquisición por el Fondo de Garantías de Instituciones Financieras de las acciones de una institución financiera y en condiciones suficientes de publicidad y concurrencia y sin perjuicio de lo establecido en el numeral 5 del artículo 113 del presente Estatuto, el Fondo ofrecerá en venta las acciones adquiridas, decidiendo a favor de quien presente condiciones de adquisición más ventajosas.
 
@@ -7792,7 +7446,7 @@ CAPÍTULO II
 
 PROCEDIMIENTO
 
-## art:304 — Aprobación del Programa
+## art:304 — - Aprobación del Programa
 
 En desarrollo de las previsiones contenidas en el artículo 60 de la Constitución Política y para los solos fines de la presente Ley, cuando la Nación, una entidad descentralizada o el Fondo de Garantías de Instituciones Financieras, enajenen su participación en instituciones financieras o entidades aseguradoras, deberán hacerlo según el programa de enajenación que apruebe en cada caso el Consejo de Ministros. En el programa que se adopte se tomarán las medidas conducentes para democratizar la participación estatal y se otorgarán condiciones especiales a los trabajadores, sus organizaciones y a las organizaciones solidarias, conforme a las reglas de este capítulo. Inciso declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-452 de 1995.
 
@@ -7812,13 +7466,13 @@ PARÁGRAFO 3.- Lo dispuesto en el Capítulo II de esta parte no será aplicable 
 
 PARÁGRAFO 4.- Las comisiones que se originen en las operaciones de martillo de que trata este artículo, no podrá exceder de los límites que fije el Gobierno Nacional. PARÁGRAFO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-452 de 1995.
 
-## art:305 — Requisito Previo de Adquisición
+## art:305 — - Requisito Previo de Adquisición
 
 Respecto de las transacciones que se produzcan en desarrollo de lo previsto en el artículo anterior deberá obtenerse la aprobación de la Superintendencia Bancaria cuando, como resultado de una de tales transacciones, se adquiera, directa o indirectamente, el 5% o más de las acciones suscritas o de los bonos obligatoriamente convertibles en acciones de la correspondiente entidad o cuando teniendo un porcentaje igual o superior al antes indicado pueda incrementarse como consecuencia de dicha transacción, ya se realice mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas. La Superintendencia Bancaria, en tal caso, examinará la idoneidad, responsabilidad y carácter de las personas interesadas en efectuar las adquisiciones. Para las transacciones de acciones y de bonos obligatoriamente convertibles en acciones no contemplados en el presente artículo se continuará aplicando la disposición contenida en el numeral 1 del artículo 88 de este Estatuto.
 
 La aprobación de la Superintendencia Bancaria a que se refiere este artículo no será necesaria cuando las personas interesadas en comprar acciones o bonos obligatoriamente convertibles en acciones de la misma institución hayan obtenido dicha aprobación dentro de los tres (3) años anteriores a la fecha de la correspondiente transacción, siempre que en el interregno no hayan sido objeto de sanción alguna por parte de las Superintendencias, Bancaria, de Valores, o de Sociedades ni se les haya dictado medida de aseguramiento o condena dentro de un proceso penal e informen previamente la operación proyectada.
 
-## art:306 — Contenido del Programa
+## art:306 — - Contenido del Programa
 
 En la propuesta del programa a que se refiere el artículo 304 del presente Estatuto se indicará el precio mínimo de colocación de las acciones, el cual deberá fundarse en un concepto técnico financiero detallado en función de la rentabilidad de la institución, del valor comercial de sus activos y pasivos, de los apoyos de la Nación, de la entidad descentralizada o del Fondo de Garantías de Instituciones Financieras que se mantengan, y de las condiciones del mercado. Inciso declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-452 de 1995.
 
@@ -7830,11 +7484,11 @@ Las acciones que se destinen a las personas indicadas en el inciso anterior se o
 
 PARÁGRAFO .- Para la determinación del precio mínimo se tomará en consideración la rentabilidad actual y futura de la institución, el valor de sus activos y pasivos y los apoyos recibidos de la Nación y del Fondo de Garantías de Instituciones Financieras. PARÁGRAFO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-452 de 1995.
 
-## art:307 — Divulgación
+## art:307 — - Divulgación
 
 Sin perjuicio de la reserva bancaria, se establecerán mecanismos que otorguen amplia y completa divulgación de la condición financiera de la entidad cuyas acciones se encuentren en proceso de enajenación conforme al artículo 304 del presente Estatuto, información a la cual puedan acceder los interesados en igualdad de condiciones.
 
-## art:308 — Participación de Suscriptores Profesionales
+## art:308 — - Participación de Suscriptores Profesionales
 
 Con el objeto de facilitar el acceso de las personas a la propiedad de las instituciones financieras y aseguradoras autorizase a participar en el martillo a suscriptores profesionales que mediante operaciones en firme o al mejor esfuerzo, se comprometan a colocar entre el público y de manera amplia y democrática la totalidad o parte de las acciones o bonos obligatoriamente convertibles en acciones dentro de las condiciones que se aprueben en el programa de enajenación en el plazo que se señale para el efecto. La capacidad financiera y administrativa de tales suscriptores será calificada previamente por el Fondo de Garantías de Instituciones Financieras, entidad que señalará igualmente las garantías de seriedad que tales suscriptores deben constituir.
 
@@ -7842,7 +7496,7 @@ Los suscriptores profesionales y los compradores definitivos de tales acciones o
 
 Serán admisibles como suscriptores profesionales para los efectos de este artículo exclusivamente las corporaciones financieras, los comisionistas de bolsa y las sociedades fiduciarias. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-211 de 1994.
 
-## art:309 — Procedimientos Alternativos
+## art:309 — - Procedimientos Alternativos
 
 Cuando se emplee el martillo para la enajenación de las acciones y la totalidad o parte de éstas no logren colocarse en el mercado, se utilizará cualquier otro procedimiento que asegure suficiente publicidad y libre concurrencia, previa aprobación del Consejo de Ministros.
 
@@ -7850,7 +7504,7 @@ Si agotado el procedimiento anterior no se obtiene la colocación total de las a
 
 PARÁGRAFO .- Si en todo caso no se coloca la totalidad de las acciones, las pendientes de colocar deberán entregarse al Fondo de Garantías de Instituciones Financieras en fideicomiso irrevocable de venta, para que se coloquen totalmente conforme a los procedimientos señalados en este capítulo. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-211 de 1994.
 
-## art:310 — Funciones del Fondo de Garantías de Instituciones Financieras
+## art:310 — - Funciones del Fondo de Garantías de Instituciones Financieras
 
 Cuando se trate de instituciones financieras que haya contribuido a capitalizar, el Fondo de Garantías de Instituciones Financieras presentará la propuesta de programa de enajenación de las acciones y bonos a que se refiere el artículo 304 de este Estatuto, una vez la Superintendencia Bancaria certifique que el estado de saneamiento patrimonial de la entidad permite proceder a su enajenación.
 
@@ -7862,7 +7516,7 @@ La Nación o sus entidades descentralizadas podrán contratar con el Fondo de Ga
 
 PARÁGRAFO .- Lo previsto en este artículo será aplicable a toda enajenación de acciones o bonos que realice la Nación, sus entidades descentralizadas o el Fondo de Garantías de Instituciones Financieras, a menos que haya lugar a la fusión o absorción de instituciones financieras o entidades aseguradoras en que aquellas tengan participación accionaria. ARTÍCULO declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-452 de 1995.
 
-## art:311 — Acciones de Instituciones Financieras y Entidades Aseguradoras del Estado
+## art:311 — - Acciones de Instituciones Financieras y Entidades Aseguradoras del Estado
 
 En el proceso de enajenación o privatización de entidades en las cuales la participación conjunta de los particulares de una misma entidad financiera sea igual o superior al 10% del capital suscrito y pagado de la correspondiente institución, y cuando a ello haya lugar, se dará estricta aplicación en primer término a las precisiones del artículo 407 del Código de Comercio reservando el porcentaje mínimo indicado en el artículo 306 de este Estatuto. No podrán reformarse los estatutos de manera que se desmejoren los derechos aquí consagrados a favor de los accionistas particulares.
 
@@ -7882,7 +7536,7 @@ PARÁGRAFO 3.- Derogado por el art. 26, Ley 226 de 1995. Lo dispuesto en este ca
 
 PARÁGRAFO 4.- Las obligaciones derivadas de los acuerdos de pago celebrados por la Nación en desarrollo del proceso de privatización de la Corporación Financiera del Transporte, podrán compensarse y extinguirse automáticamente con otras obligaciones a favor de la Nación y demás entidades y organismos del orden nacional.
 
-## art:312 — Régimen de las Instituciones Financieras Privatizadas
+## art:312 — - Régimen de las Instituciones Financieras Privatizadas
 
 Las instituciones financieras privatizadas, no estarán sujetas a las obligaciones o restricciones establecidas por razón de la participación estatal en dichas instituciones, ni gozarán de las prerrogativas que les han sido concedidas en función de tal participación.
 
@@ -7892,7 +7546,7 @@ CAPÍTULO III
 
 DISPOSICIONES TRANSITORIAS
 
-## art:313 — Efectos de la Resolución que decreta la Nacionalización
+## art:313 — - Efectos de la Resolución que decreta la Nacionalización
 
 La resolución que decreta la nacionalización de una entidad sometida al control de la Superintendencia Bancaria, produce los siguientes efectos:
 
@@ -7918,11 +7572,11 @@ d. Reglamentado por el Decreto Nacional 2512 de 2005. La Nación garantizará a 
 
 e. La institución, previo concepto motivado del Superintendente Bancario, podrá rechazar o dilatar el cumplimiento de obligaciones adquiridas en favor de administradores o accionistas, o de personas estrechamente vinculadas con ellos, cuando éstas hubieren sido adquiridas en operaciones ilegales, inseguras o sin buena fe que hayan dado origen a la nacionalización de la entidad; podrá también hacer exigibles de inmediato las obligaciones a cargo de éstos, adquiridas en esas operaciones.
 
-## art:314 — Relaciones Laborales de la Entidad Nacionalizada
+## art:314 — - Relaciones Laborales de la Entidad Nacionalizada
 
 Las relaciones laborales en las instituciones financieras nacionalizadas, seguirán rigiéndose por las normas del Código Sustantivo del Trabajo, y por las disposiciones legales y convencionales vigentes, sin que los derechos sociales de los trabajadores puedan ser desmejorados como consecuencia de la nacionalización. Se atenderá especialmente a los intereses de los trabajadores, para proteger a quienes están cumpliendo correctamente sus deberes.
 
-## art:315 — Administración
+## art:315 — - Administración
 
 Las instituciones financieras que se nacionalicen estando sujetas a la intervención de la Superintendencia Bancaria, o que hayan sido objeto de convenciones fiduciarias autorizadas por ésta, continuarán bajo dicho régimen hasta cuando, a juicio del Superintendente Bancario, convenga entregar la administración a la nueva junta directiva y al nuevo representante legal.
 
@@ -7936,7 +7590,7 @@ CAPÍTULO I
 
 FONDO DE GARANTÍAS DE INSTITUCIONES FINANCIERAS
 
-## art:316 — Organización
+## art:316 — - Organización
 
 1. Naturaleza jurídica. El Fondo de Garantías de Instituciones Financieras, creado por el artículo 1 de la Ley 117 de 1985, es una persona jurídica autónoma de derecho público y de naturaleza única, sometida a la vigilancia de la Superintendencia Bancaria.
 
@@ -7970,7 +7624,7 @@ Texto anterior:
 
 Asumir temporalmente la administración de instituciones financieras, para lograr su recuperación económica.
 
-## art:317 — Instituciones Afiliadas
+## art:317 — - Instituciones Afiliadas
 
 1. Instituciones que deben inscribirse. Modificado por el art. 30, Ley 510 de 1999, Modificado por el art. 42, Ley 1328 de 2009. Deberán inscribirse obligatoriamente en el Fondo de Garantías de Instituciones Financieras, previa calificación hecha por este, los bancos, las corporaciones financieras, las compañías de financiamiento, las sociedades administradoras de Fondos de Pensiones, las sociedades administradoras de Fondos de Cesantías, las compañías de seguros de vida que operan los ramos de pensiones previstas en la Ley 100 de 1993, seguros previsionales de invalidez y sobrevivencia, riesgos profesionales y planes alternativos de pensiones y las demás entidades cuya constitución sea autorizada por la Superintendencia Financiera de Colombia y respecto de las cuales la ley establezca la existencia de una garantía por parte del Fondo de Garantías de Instituciones Financieras.
 
@@ -7988,7 +7642,7 @@ PARÁGRAFO .- Derogado por el art. 114, Ley 795 de 2003 El costo de la garantía
 
  3. Adicionado por el art. 30, Ley 510 de 1999.
 
-## art:318 — Dirección y Administración
+## art:318 — - Dirección y Administración
 
 1. Junta Directiva. La junta directiva del Fondo de Garantías de Instituciones Financieras estará compuesta así:
 
@@ -8050,7 +7704,7 @@ c. Las demás que se establezcan en los estatutos del Fondo.
 
 4. Adicionado por el art. 43, Ley 1328 de 2009
 
-## art:319 — Régimen Patrimonial
+## art:319 — - Régimen Patrimonial
 
 1. Recursos del Fondo. El Fondo de Garantías de Instituciones Financieras contará con los siguientes recursos que destinará al objeto señalado en el numeral 2 artículo 316 del presente Estatuto:
 
@@ -8078,7 +7732,7 @@ PARÁGRAFO .- Todos los recursos del Fondo podrán destinarse al cumplimiento de
 
 3. Adicionado por el art. 31, Ley 510 de 1999.
 
-## art:320 — Operaciones
+## art:320 — - Operaciones
 
 Reglamentado Parcialmente por el Decreto Nacional 910 de 2000
 
@@ -8196,11 +7850,11 @@ b. Otorgar capital garantía con carácter temporal, en cuyo caso podrá promove
 
 12. Adicionado por el art. 67, Ley 795 de 2003
 
-## art:321 — Inversiones
+## art:321 — - Inversiones
 
 El Fondo de Garantías de Instituciones Financieras podrá destinar los recursos que excedan los requerimientos que tenga para el desempeño de sus funciones, a inversiones en títulos emitidos por el Banco de la República o por el Gobierno Nacional. Tales operaciones deberán realizarse con sujeción a los objetivos propios del Fondo y conforme a los criterios de rentabilidad y eficiencia que señale la Junta Directiva del Banco de la República de esa entidad.
 
-## art:322 — Prerrogativas y Limitaciones
+## art:322 — - Prerrogativas y Limitaciones
 
 1. Prerrogativas del Fondo. Para el conveniente y eficaz logro de sus objetivos, el Fondo de Garantías de Instituciones Financieras gozará de las siguientes prerrogativas:
 
@@ -8228,7 +7882,7 @@ c. Derogado por Art. 38, Decreto 2331 de 1998. Derogado por el art. 123, Ley 510
 
 5. Adicionado por el art. 68, Ley 795 de 2003
 
-## art:323 — Seguro de Depósitos
+## art:323 — - Seguro de Depósitos
 
 La junta directiva del Fondo de Garantías de Instituciones Financieras podrá organizar el seguro de depósitos con base en los siguientes principios:
 
@@ -8262,9 +7916,9 @@ PARÁGRAFO 2. Adicionado por el art. 34, Ley 510 de 1999.
 
 PARÁGRAFO 3. Adicionado por el art. 34, Ley 510 de 1999.
 
-## art:324 — 
+## art:324 — - Modificado por el art
 
-Modificado por el art. 70, Ley 795 de 2003. El nuevo texto es el siguiente: Vigilancia. La inspección, control y vigilancia del Fondo de Garantías de Instituciones Financieras estará a cargo de la Superintendencia Bancaria, la cual ejercerá la mencionada función de acuerdo con las facultades que le otorga la ley en lo referente a las instituciones financieras, teniendo en cuenta la naturaleza especial del Fondo y el objeto que el mismo cumple con arreglo a la ley.
+70, Ley 795 de 2003. El nuevo texto es el siguiente: Vigilancia. La inspección, control y vigilancia del Fondo de Garantías de Instituciones Financieras estará a cargo de la Superintendencia Bancaria, la cual ejercerá la mencionada función de acuerdo con las facultades que le otorga la ley en lo referente a las instituciones financieras, teniendo en cuenta la naturaleza especial del Fondo y el objeto que el mismo cumple con arreglo a la ley.
 
 Texto anterior:
 
@@ -8273,8 +7927,6 @@ Vigilancia y Régimen Disciplinario. La inspección, control, vigilancia y régi
 CAPÍTULO II
 
 SUPERINTENDENCIA BANCARIA
-
-ARTÍCULO
 
 ## art:325 — - Sustituido por el art
 
@@ -8331,8 +7983,6 @@ PARÁGRAFO 2. Derogado por el art. 75, Ley 964 de 2005. Se encuentran sujetos a 
 3. Representación legal. Modificado por el artículo 73 de la Ley 795 de 2003. El nuevo texto es el siguiente: La representación legal de la Superintendencia Bancaria corresponde al Superintendente Bancario, quien la podrá delegar en los términos establecidos en la ley.
 
 4. Numeral adicionado por el art. 74, Ley 795 de 2003
-
-ARTÍCULO
 
 ## art:326 — - Sustituido por el art
 
@@ -8591,8 +8241,6 @@ PARÁGRAFO 3. En firme la decisión de la Superintendencia de Industria y Comerc
 9. Adicionado por el artículo 45, Ley 510 de 1999, con el siguiente texto: Con el fin de asegurar que la supervisión pueda desarrollarse de manera consolidada, la Superintendencia Bancaria promoverá mecanismos de intercambio de información con organismos de supervisión de otros países en los cuales entidades financieras colombianas desarrollen operaciones o tengan filiales, o en los cuales estén domiciliadas entidades financieras matrices de entidades financieras colombianas. Cuando la información que se suministre tenga carácter confidencial, la Superintendencia Bancaria podrá entregarla con el compromiso de que la misma sea conservada por la autoridad de supervisión con tal carácter. Igualmente, la Superintendencia Bancaria podrá permitir que en las visitas o inspecciones que realice a sus vigiladas participen agentes de organismos de supervisión de otros países en los cuales tengan su sede entidades vinculadas a entidades sujetas a la inspección y vigilancia de la Superintendencia Bancaria, siempre y cuando se reconozca a esta entidad esa misma posibilidad.
 
 Inciso. Adicionado por el art. 81. Ley 1328 de 2009.
-
-ARTÍCULO
 
 ## art:327 — - Sustituido por el art
 
@@ -8868,8 +8516,6 @@ m). Las demás que se le asignen de acuerdo con la naturaleza de la dependencia.
 
 Ver Sentencia de la Corte Constitucional C-465 de 1993
 
-ARTÍCULO
-
 ## art:328 — - Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005
 
 (Según artículo 3, Decreto Nacional 3552 de 2005). De las Funciones.
@@ -8885,8 +8531,6 @@ ARTÍCULO
 5. Funciones del Director Técnico. Corresponderá al Director Técnico la función de certificación de que trata el literal b) del numeral 2 del artículo 1o del presente decreto, así como la función de certificar las demás tasas que deba expedir la Superintendencia Bancaria.
 
 6. Adicionado por el art. 2, Decreto Nacional 1577 de 2002.
-
-ARTÍCULO
 
 ## art:329 — - Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005
 
@@ -8929,8 +8573,6 @@ g). Ejercer supervisión especial sobre las instituciones financieras cuyas difi
 h). Vigilar la publicidad de las instituciones bajo su control;
 
 i). Las demás funciones que se les asigne.
-
-ARTÍCULO
 
 ## art:330 — 
 
@@ -9045,8 +8687,6 @@ l). Preparar y presentar los informes que en materia disciplinaria requieran las
 m). Brindar asesoría a las demás dependencias de la entidad sobre la aplicación de las normas disciplinarias;
 
 n). Las demás que se le asignen de acuerdo con la naturaleza de la dependencia.
-
-ARTÍCULO
 
 ## art:331 — - Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005
 
@@ -9170,8 +8810,6 @@ e). Rendir los informes que sean solicitados, además de los que normalmente deb
 
 7. ORGANIZACION DE LAS DIVISIONES DE LAS AREAS DE SUPERVISION. Las Áreas de Supervisión de la Superintendencia Bancaria contarán en su totalidad con 18 Divisiones. Estas Divisiones serán Divisiones Integrales de Supervisión y/o Divisiones Especializadas de Supervisión, según que deban ejercer el conjunto de las funciones señaladas en los numerales anteriores o que sólo les correspondan algunas de ellas. El Superintendente Bancario, mediante acto administrativo, determinará y adscribirá a los despachos de los Superintendentes Delegados de las Áreas de Supervisión las Divisiones correspondientes y distribuirá las funciones que a ellas compete, según los objetivos, planes, programas y necesidades del servicio.
 
-ARTÍCULO
-
 ## art:332 — - Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005
 
 Sustituido por el Artículo 8 del Decreto Nacional 2359 de 1993. (Según el ARTÍCULO 6, Decreto Nacional 3552 de 2005). De las Áreas de Apoyo.
@@ -9285,8 +8923,6 @@ o). Asesorar a las distintas dependencias de la Superintendencia Bancaria en el 
 p). Dirigir y coordinar las funciones de las divisiones de sistemas, de operaciones y de organización y métodos;
 
 q). Las demás que se le asignen de acuerdo con la naturaleza de la dependencia.
-
-ARTÍCULO
 
 ## art:333 — - Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005
 
@@ -9512,8 +9148,6 @@ h). Remitir al Departamento Nacional de Planeación los informes que le sean req
 
 i). Las demás que se le asignen de acuerdo con la naturaleza de la dependencia.
 
-ARTÍCULO
-
 ## art:334 — - Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005
 
 Sustituido por el Artículo 10 del Decreto Nacional 2359 de 1993. (Según el art. 2, Decreto Nacional 3552 de 2005). Órganos de Asesoría y Coordinación.
@@ -9544,9 +9178,9 @@ PARÁGRAFO 3. Las actas del Consejo Asesor del Superintendente Bancario y los do
 
 4. De la Junta de Adquisiciones y Licitaciones. La Junta de Adquisiciones y Licitaciones de la Superintendencia Bancaria asesorará en materia de compras y contratación y estará conformada por el Secretario General de la Superintendencia Bancaria, quien la presidirá, el Subdirector Administrativo y Financiero de la Superintendencia Bancaria y los demás funcionarios que para el efecto designe el Superintendente Bancario y cumplirá las funciones previstas en las normas legales y reglamentarías vigentes.
 
-## art:335 — 
+## art:335 — - Modificado por el art
 
-Modificado por el art. 87, Ley 795 de 2003. El nuevo texto es el siguiente: Contra los actos administrativos de carácter particular expedidos por la Superintendencia Bancaria sólo procederá el recurso de reposición interpuesto en la forma establecida en el Código Contencioso Administrativo.
+87, Ley 795 de 2003. El nuevo texto es el siguiente: Contra los actos administrativos de carácter particular expedidos por la Superintendencia Bancaria sólo procederá el recurso de reposición interpuesto en la forma establecida en el Código Contencioso Administrativo.
 
 Las medidas cautelares y de toma de posesión que en ejercicio de sus funciones adopte la Superintendencia Bancaria, serán de aplicación inmediata. En consecuencia, el recurso de reposición que proceda contra las mismas no suspenderá la ejecutoriedad del acto administrativo.
 
@@ -9610,7 +9244,7 @@ Tratándose de la imposición de sanciones pecuniarias, el correspondiente recur
 
 10. Medidas cautelares. De conformidad con el numeral 3 del artículo 325 del presente Estatuto, las medidas cautelares que en ejercicio de sus funciones adopte la Superintendencia Bancaria, serán de aplicación inmediata. En consecuencia, el recurso de reposición que proceda contra las mismas no suspenderá la ejecutoriedad del acto administrativo.
 
-## art:336 — Caja de Previsión Social de la Superintendencia Bancaria
+## art:336 — - Caja de Previsión Social de la Superintendencia Bancaria
 
 1. Naturaleza jurídica. La Caja de Previsión Social de la Superintendencia Bancaria "CAPRESUB" es un establecimiento público del orden nacional, dotado de personería jurídica, autonomía administrativa y patrimonio independiente, adscrito al Ministerio de Hacienda y Crédito Público.
 
@@ -9620,7 +9254,7 @@ Tratándose de la imposición de sanciones pecuniarias, el correspondiente recur
 
 4. Régimen de contratación. Continua vigente el Decreto 1940 de 1986 y demás normas que se relacionen con la materia.
 
-## art:337 — Disposiciones Varias
+## art:337 — - Disposiciones Varias
 
 1. Nacionalidad del Superintendente Bancario. Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005. El Superintendente Bancario debe ser ciudadano colombiano.
 
@@ -9700,11 +9334,11 @@ Una vez adoptado el sistema de planta global, el Superintendente Bancario o el f
 
 12. Adicionado por el art. 90, Ley 795 de 2003
 
-## art:338 — Incorporación de las Normas Dictadas en Desarrollo de las Facultades Otorgadas por la Ley 35 de 1993
+## art:338 — - Incorporación de las Normas Dictadas en Desarrollo de las Facultades Otorgadas por la Ley 35 de 1993
 
 Sin perjuicio de lo dispuesto en el artículo siguiente, el presente Estatuto incorpora y sustituye los Decretos 654, 655 y 656, todos del 1 de abril de 1993, en virtud de los cuales se ejercieron las facultades extraordinarias otorgadas al Gobierno Nacional por los artículos 19, 36 y 38 de la Ley 35 de 1993.
 
-## art:339 — Vigencia y Derogatorias
+## art:339 — - Vigencia y Derogatorias
 
 El presente Decreto rige a partir del 2 de mayo de 1993, y sustituye e incorpora la Ley 35 de 1993, y los Decretos Leyes 436 de 1990; 1032, 1033, 1034, 1063, 1731, 1732, 1733, 1748, 1755, 2055, 2197, 2505, 2576, 2772, 2773, 2815, 2822, 2843, 2864, 2876 de 1991; 57, 195, 678, 718, 1089, 1135, 1456, 1763, 1783, 1828, 1872, 1984, 2179, 2180 de 1992; y 2 de 1993, en lo que corresponde al sistema financiero y a las entidades aseguradoras.
 
@@ -9721,91 +9355,3 @@ EL MINISTRO DE HACIENDA Y CRÉDITO PÚBLICO,
 RUDOLF HOMMES RODRIGUEZ
 
 NOTA: Publicado en el Diario Oficial No. 40.820, 5 de 5 abril 1993
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

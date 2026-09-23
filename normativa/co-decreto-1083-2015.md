@@ -7,7 +7,7 @@ ramas: [administrativo, laboral]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62866
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Departamento Administrativo de la Función Pública
@@ -30,8 +30,6 @@ TITULO 1
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Escuela Superior de Administración Pública
 
 La Escuela Superior de Administración Pública, ESAP, es un Establecimiento Público, de carácter universitario, cuyo objeto es la capacitación, formación y desarrollo, desde el contexto de la investigación, docencia y extensión universitaria, de los valores, capacidades y conocimientos de la administración y gestión de lo público que propendan a la transformación del Estado y ciudadano.
@@ -50,13 +48,9 @@ TITULO 1
 
 OBJETO Y AMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El presente decreto compila en un sólo cuerpo normativo los decretos reglamentarios vigentes de competencia del sector de la función pública, incluidos los atinentes a las siguientes materias: empleo público; funciones, competencias y requisitos generales para los empleos públicos de los distintos niveles jerárquicos de los organismos y entidades del orden nacional y territorial; administración de personal, situaciones administrativas; capacitación; sistema de estímulos; retiro del servicio; reformas de las plantas de empleos; gerencia pública; comisiones de personal; Sistema de Información y Gestión del Empleo Público - SIGEP; sistemas específicos de carrera de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, DIAN, de las Superintendencias y de la Unidad Administrativa Especial de Aeronáutica Civil, AEROCIVIL; Sistema de Control Interno; Modelo Integrado de Planeación y Gestión; Sistema de Gestión de Calidad; Trámites; Premio Nacional de Alta Gerencia y Banco de Éxitos; régimen de los servidores de las sociedades de economía mixta en las cuales el aporte de la Nación, entidades territoriales y entidades descentralizadas, sea igual o superior al noventa por ciento (90%) del capital social, estándares mínimos para elección de personeros municipales; designación de los directores o gerentes regionales o seccionales o quienes hagan sus veces en los establecimientos públicos de la Rama Ejecutiva del orden nacional; designación del comisionado de la Comisión Nacional del Servicio Civil; normas relativas al trabajador oficiales; y cesantías para los Congresistas.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — 
 
@@ -71,8 +65,6 @@ ESTRUCTURA DEL EMPLEO PÚBLICO
 CAPÍTULO 1
 
 EMPLEOS DE CARÁCTER TEMPORAL
-
-ARTÍCULO
 
 ## art:2.2.1.1.1 — Definición
 
@@ -92,8 +84,6 @@ El régimen salarial, prestacional y demás beneficios salariales de los empleos
 
 (Decreto 1227 de 2005, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3 — Provisión del empleo de carácter temporal
 
 El nombramiento en un empleo de carácter temporal se efectuará teniendo en cuenta las listas que hagan parte del Banco Nacional de Listas de Elegibles y que correspondan a un empleo de la misma denominación, código y asignación básica del empleo a proveer. Para el análisis del perfil y de las competencias requeridas, la entidad deberá consultar las convocatorias que le suministre la Comisión Nacional del Servicio Civil.
@@ -103,8 +93,6 @@ Cuando, excepcionalmente, no existan listas de elegibles vigentes que permitan l
 El ingreso a empleos de carácter temporal no genera el retiro de la lista de elegibles ni derechos de carrera.
 
 (Derogado Decreto 648 de 2017, art 19)
-
-ARTÍCULO
 
 ## art:2.2.1.1.4 — 
 
@@ -128,23 +116,17 @@ PLANTAS DE EMPLEOS DE CARÁCTER TEMPORAL EN LAS EMPRESAS SOCIALES DEL ESTADO DEL
 
 (Ver Guía para establecer empleos de carácter temporal en las Empresas Sociales del Estado E.S.E - Versión 4 - Abril 2018)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1 — Objeto
 
 El presente capítulo tiene por objeto fijar los mecanismos para la estructuración de las plantas de empleos de carácter temporal en las Empresas Sociales del Estado y la suscripción de los Acuerdos de Formalización Laboral en desarrollo de lo previsto en el artículo 13 de la Ley 1610 de 2013.
 
 (Decreto 1376 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2 — Campo de aplicación
 
 El presente capítulo aplica a las Empresas Sociales del Estado del orden nacional y territorial.
 
 (Decreto 1376 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3 — Estructuración de las plantas de empleos de carácter temporal
 
@@ -166,8 +148,6 @@ f. Proyecto de Manual de Funciones y de Competencias requerido para el desempeñ
 
 (Decreto 1376 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4 — Aprobación e Implementación de la planta de empleos de carácter temporal a nivel territorial
 
 Elaborado el estudio o justificación técnica y financiera para la creación de la planta de empleo de carácter temporal de la Empresa Social del Estado del orden territorial deberá someterse a la aprobación de la respectiva junta directiva, la cual expedirá el acuerdo de creación. La justificación técnica y financiera, así como el acuerdo, se remitirá a la Entidad Departamental o Distrital de Salud para su aval. Una vez cumplido este trámite el Gerente de la entidad debe proceder a implementarla en la institución.
@@ -180,15 +160,11 @@ PARÁGRAFO 3. Los departamentos y distritos que hayan avalado la creación de pl
 
 (Decreto 1376 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.2.5 — Aprobación e Implementación de la planta de empleos de carácter temporal a nivel nacional
 
 Las Empresas Sociales del Estado del orden nacional que vayan a crear plantas de empleos de carácter temporal, deberán sustentarse en una justificación técnica y financiera y contar con la aprobación y adopción por parte del Gobierno Nacional, previo concepto favorable del Departamento Administrativo de la Función Pública - DAFP y viabilidad presupuestal de la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público.
 
 (Decreto 1376 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.2.6 — Forma de provisión de los empleos de carácter temporal
 
@@ -206,8 +182,6 @@ PARÁGRAFO 2. Para la provisión de los empleos de carácter temporal se deberá
 
 (Decreto 1376 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.2.7 — Acuerdos de formalización
 
 Para dar cumplimiento a lo señalado en el Capítulo Segundo de la Ley 1610 del 2013, las Empresas Sociales del Estado deberán presentar de oficio o a petición del Director Territorial del Ministerio del Trabajo, la propuesta para la suscripción del Acuerdo de Formalización laboral de que trata el artículo 13 de la citada ley, la cual, para el caso de estas Empresas, además de la justificación técnica y financiera descrita en el artículo 2.2.1.2.3 del presente decreto, deberá contener:
@@ -224,8 +198,6 @@ PARÁGRAFO . En el caso de las Empresas Sociales del Estado de orden nacional, e
 
 (Decreto 1376 de 2014, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.2.8 — Suscripción del Acuerdo de Formalización
 
 Una vez otorgado el visto bueno al Acuerdo de Formalización por parte del Despacho del Viceministerio de Relaciones laborales e Inspección del Ministerio del Trabajo, se procederá a la firma del Acuerdo por parte del Director Territorial del Ministerio del Trabajo y el representante legal de la Empresa Social del Estado.
@@ -234,15 +206,11 @@ PARÁGRAFO . El Acuerdo de Formalización deberá contener las fechas en las cua
 
 (Decreto 1376 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.2.9 — Seguimiento al cumplimiento del Acuerdo de Formalización
 
 Una vez suscrito el Acuerdo de Formalización Laboral, las Empresas Sociales del Estado deberán presentar al Ministerio del Trabajo a través de la respectiva Dirección Territorial, con la periodicidad señalada en el Acuerdo, un informe que contenga la relación de las personas vinculadas a los empleos de carácter temporal, indicando el nombre y cédula del servidor, el empleo en el cual fueron nombrados, el número de resolución y la vigencia de los mismos.
 
 (Decreto 1376 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.2.10 — Efectos de los Acuerdos de Formalización Laboral en los Procesos Administrativos Sancionatorios
 
@@ -256,23 +224,17 @@ PARÁGRAFO . EI no cumplimiento de los Acuerdos de Formalización Laboral por pa
 
 (Decreto 1376 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.2.11 — Necesidad en la prestación de servicios
 
 Las Empresas Sociales del Estado que suscriban Acuerdos de Formalización Laboral y por necesidades del servicio requieran continuar con las plantas de empleos de carácter temporal, deberán informarlo a la Dirección Territorial correspondiente del Ministerio del Trabajo.
 
 (Decreto 1376 de 2014, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.2.12 — Adopción de la planta de empleos permanente
 
 Independientemente de la creación de las plantas de empleos de carácter temporal, las Empresas Sociales del Estado deberán adelantar estudios que determinen los requerimientos y necesidades de empleos para soportar los procesos de apoyo administrativo y financiero de la entidad, los cuales deben cumplirse a través de cargos de carácter permanente.
 
 (Decreto 1376 de 2014, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.2.13 — Operación con terceros
 
@@ -283,8 +245,6 @@ Las Empresas Sociales del Estado en los casos en que lo requieran, podrán desar
 CAPÍTULO 3
 
 EMPLEOS DE TIEMPO COMPLETO, MEDIO TIEMPO Y DE TIEMPO PARCIAL
-
-ARTÍCULO
 
 ## art:2.2.1.3.1 — Dedicación de los empleos
 
@@ -302,8 +262,6 @@ Los empleos de medio tiempo y de tiempo parcial se remunerarán en forma proporc
 
 (Ver Ley 909 de 2004, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2 — Nomenclatura y clasificación
 
 Los empleos de medio tiempo o de tiempo parcial deberán sujetarse a la nomenclatura y clasificación de empleos vigentes para los empleos de tiempo completo en la respectiva entidad.
@@ -316,8 +274,6 @@ PARÁGRAFO . Las disposiciones del presente decreto no aplicarán a las entidade
 
 (Adicionado por el Art. 1 del Decreto 400 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4 — Sistema de turnos
 
 Cuando la necesidad del servicio lo requiera, el jefe del organismo o su delegado, dentro del límite máximo de las cuarenta y cuatro (44) horas semanales de trabajo establecidas en el Decreto Ley 1042 de 1978, podrá implementar jornadas laborales por el sistema de turnos, los cuales podrán ser diurnos, nocturnos o mixtos, atendiendo los siguientes criterios: i) el trabajo por turnos implica una forma de organización de la jornada laboral bajo horarios previamente establecidos o acordados para un grupo de trabajadores, ii) en consideración al tiempo, el turno es sucesivo, continuo, iii) los turnos se hacen necesarios en actividades, servicios, empresas con procesos productivos continuos o labores que deban prestarse sin solución de continuidad, por lo que implica que el trabajo se realice habitualmente en todas las horas, días y semanas, incluidos domingos y festivos y, iv) se deben respetar las jornadas laborales ordinarias y los descansos correspondientes.
@@ -325,8 +281,6 @@ Cuando la necesidad del servicio lo requiera, el jefe del organismo o su delegad
 El registro de los turnos se podrá llevar en planillas que deberán contener como mínimo: nombre de la entidad, período de turno indicando si es en jornada diurna, nocturna o mixta, fecha para cumplirlos, relación detallada de la asignación por empleado y la identificación del empleo que desempeña el servidor. Los turnos podrán ser resultado de la concertación con los empleados o con las organizaciones sindicales.
 
 (Adicionado por el Art. 1 del Decreto 400 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5 — Límites de la jornada laboral para los turnos
 
@@ -339,8 +293,6 @@ b) La jornada ordinaria laboral nocturna se desarrolla entre las 6:00 p.m. y las
 c) La jornada ordinaria laboral mixta tiene lugar cuando el tiempo ordinario transcurre tanto en jornada diurna como en nocturna.
 
 (Adicionado por el Art. 1 del Decreto 400 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.6 — Aspectos a tener en cuenta en la jornada por sistema de turnos.(Modificado por el art
 
@@ -374,8 +326,6 @@ Cualquiera que sea la modalidad de turnos que se adopte no podrá exceder la jor
 
 (Adicionado por el Art. 1 del Decreto 400 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.7 — Remuneración del trabajo en sistema por turnos
 
 De conformidad con lo señalado en el Decreto Ley 1042 de 1978, los empleados públicos que trabajen por el sistema por turnos en jornadas mixtas, es decir, cuando las labores se desarrollen habitual y permanentemente en jornadas que incluyan horas diurnas y nocturnas, tendrán derecho a que la parte del tiempo laborado durante estas últimas se remunere con un recargo del treinta y cinco por ciento (35%)
@@ -383,8 +333,6 @@ De conformidad con lo señalado en el Decreto Ley 1042 de 1978, los empleados p�
 Quienes deban trabajar en jornada nocturna tendrán derecho a recibir un recargo del treinta y cinco por ciento (35%) sobre el valor de la asignación mensual.
 
 (Adicionado por el Art. 1 del Decreto 400 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.8 — Trabajo suplementario o de horas extras
 
@@ -398,8 +346,6 @@ El reconocimiento y pago del trabajo suplementario o de horas extras en las jorn
 
 (Adicionado por el Art. 1 del Decreto 400 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.9 — Medidas de salud, seguridad y adaptación en el sitio de trabajo en jornadas nocturnas
 
 Las entidades deberán adoptar las medidas de salud y seguridad en el trabajo para los empleados que trabajen en jornadas por el sistema de turnos, tomando entre otras acciones la distribución o alternación de cargas de trabajo equitativas y proporcionales."
@@ -411,8 +357,6 @@ CAPITULO 4
 ACTUALIZACIÓN DE LAS PLANTAS GLOBALES DE EMPLEO
 
 (Capítulo adicionado por el Art. 1 del Decreto 1800 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.4.1 — Actualización de plantas de empleo
 
@@ -435,8 +379,6 @@ PARÁGRAFO 1. Si efectuados los análisis anteriores se determina que hay faltan
 PARÁGRAFO 2. Las ampliaciones de planta se adelantarán teniendo en cuenta las normas presupuestales vigentes en los términos del artículo 71 del Decreto 111 de 1996 y las medidas de racionalización del gasto. En cualquier caso, estas modificaciones, y los traslados presupuestales de recursos de inversión a funcionamiento relacionados, no podrán generar costos adicionales.
 
 PARÁGRAFO 3. Las Empresas Sociales del Estado darán cumplimiento a lo establecido en el presente Capítulo, una vez se expida el régimen laboral especial aplicable a sus servidores públicos.
-
-ARTÍCULO
 
 ## art:2.2.1.4.2 — Mesa
 
@@ -482,8 +424,6 @@ PARÁGRAFO 3°. En las entidades territoriales las autoridades competentes podr�
  
  VIGENCIA ANTERIOR
 
- ARTÍCULO
-
 ## art:2.2.1.4.5 — Funciones de la Mesa
 
 La Mesa tendrá las siguientes funciones:
@@ -498,15 +438,11 @@ La Mesa tendrá las siguientes funciones:
 
 PARÁGRAFO . Es deber de las entidades suministrar de manera oportuna la información solicitada por la Mesa.
 
-ARTÍCULO
-
 ## art:2.2.1.4.6 — Sesiones
 
 La Mesa se reunirá una vez al mes, durante los primeros seis meses contados a partir de fecha de instalación, vencido el sexto mes se reunirá ordinariamente cada dos meses, previa convocatoria realizada por la Secretaria Técnica y, extraordinariamente, a solicitud de los miembros de la misma.
 
 Las sesiones serán presenciales, sin perjuicio de la posibilidad de realizar sesiones virtuales cuando las circunstancias así lo ameriten, de acuerdo con el reglamento.
-
-ARTÍCULO
 
 ## art:2.2.1.4.7 — Secretaría Técnica
 
@@ -530,13 +466,9 @@ INGRESO DE LOS JÓVENES AL SERVICIO PÚBLICO
 
 (Capítulo Adicionado por el Art. 1 del Decreto 2365 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.1.5.1 — Objeto
 
 El presente Capítulo tiene por objeto fijar los lineamientos para que las entidades del Estado den cumplimiento a lo establecido en el artículo 196 de la Ley 1955 de 2019, relacionado con la vinculación al servicio público de los jóvenes entre 18 y 28 años, que no acrediten experiencia, con el fin de mitigar las barreras de entrada al mercado laboral de esta población.
-
-ARTÍCULO
 
 ## art:2.2.1.5.2 — Lineamientos para la modificación de las plantas de personal
 
@@ -552,15 +484,11 @@ Las entidades públicas para dar cumplimiento a lo señalado en el artículo 196
 
 Cuando se vayan a proveer empleos de la planta temporal ya existentes, y se haya agotado el procedimiento establecido en los artículos 2.2.1.2.6 y 2.2.5.3.5 del Decreto 1083 de 2015 respecto de su provisión, respectivamente, en condiciones de igualdad se deberá dar prelación a los jóvenes entre 18 y 28 años, que cumplan con los requisitos para su desempeño.
 
-ARTÍCULO
-
 ## art:2.2.1.5.3 — Prioridad para los jóvenes del Sistema Nacional de Bienestar Familiar
 
 De conformidad con el parágrafo 4 del artículo 196 de la Ley 1955 de 2019, cuando la respectiva entidad adelante modificaciones a la planta de personal permanente o cree una planta temporal, en el marco del presente Capitulo, se deberá dar prioridad, en condiciones de igualdad, a los jóvenes entre los 18 y 28 años que estuvieron bajo custodia y protección del Sistema Nacional de Bienestar Familiar, siempre que reúnan los requisitos para el desempeñe de los cargos.
 
 PARÁGRAFO 1. Para los efectos de este Decreto, entiéndase por jóvenes entre los 18 y 28 años que estuvieron bajo custodia y protección del Sistema Nacional de Bienestar Familiar a aquellos que siendo niños, niñas, adolescentes y Jóvenes estuvieron bajo medida de protección del Instituto Colombiano de Bienestar Familiar - ICBF en las modalidades de internado u hogar sustituto; ingresaron al Sistema de Responsabilidad Penal para Adolescentes y cumplen con los criterios de certificación establecidos por ICBF o quienes hicieron parte de la oferta de atención en prevención con énfasis en la garantía del derecho al trabajo protegido, de acuerdo con las certificación expedida por el ICBF como entidad rectora del Sistema Nacional de Bienestar Familiar.
-
-ARTÍCULO
 
 ## art:2.2.1.5.4 — Asesoría y seguimiento
 
@@ -576,8 +504,6 @@ CAPÍTULO 1
 
 ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.1.1 — Ámbito de aplicación
 
 El presente Título rige para los empleos públicos pertenecientes a los Ministerios, Departamentos Administrativos, Superintendencias, Establecimientos Públicos, Unidades Administrativas Especiales, Corporaciones Autónomas Regionales y de Desarrollo Sostenible, Entes Universitarios Autónomos, Empresas Sociales del Estado, Empresas Industriales y Comerciales del Estado y Sociedades de Economía Mixta sometidas al régimen de dichas empresas, del Orden Nacional.
@@ -591,8 +517,6 @@ El presente Título no se aplica a los organismos y entidades cuyas funciones y 
 CAPÍTULO 2
 
 FUNCIONES DE LOS EMPLEOS SEGÚN EL NIVEL JERÁRQUICO
-
-ARTÍCULO
 
 ## art:2.2.2.2.1 — Nivel Directivo
 
@@ -620,8 +544,6 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 
 (Decreto 1785 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — 
 
 2.2.2.2.2 Nivel Asesor.Agrupa los empleos cuyas funciones consisten en asistir, aconsejar y asesorar directamente a los empleados públicos de la alta dirección de la Rama Ejecutiva del orden nacional.
@@ -641,8 +563,6 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 6. Las demás que les sean asignadas por autoridad competente, de acuerdo con el área de desempeño y la naturaleza del empleo.
 
 (Decreto 1785 de 2014 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — 
 
@@ -668,8 +588,6 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 
 (Decreto 1785 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.2.4 — Nivel Técnico
 
 Comprende los empleos cuyas funciones exigen el desarrollo de procesos y procedimientos en labores técnicas misionales y de apoyo, así como las relacionadas con la aplicación de la ciencia y la tecnología.
@@ -691,8 +609,6 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 7. Las demás que les sean asignadas por autoridad competente, de acuerdo con el área de desempeño y la naturaleza del empleo.
 
 (Decreto 1785 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.2.5 — Nivel Asistencial
 
@@ -716,8 +632,6 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 
 (Decreto 1785 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.2.6 — Descripción de funciones
 
 Para la descripción de funciones esenciales de los empleos en el respectivo manual específico de funciones y de competencias laborales, se deberán tener en cuenta las funciones generales enunciadas en el presente Título.
@@ -732,23 +646,17 @@ CAPÍTULO 3
 
 FACTORES Y ESTUDIOS PARA LA DETERMINACIÓN DE LOS REQUISITOS
 
-ARTÍCULO
-
 ## art:2.2.2.3.1 — Factores
 
 Los factores que se tendrán en cuenta para determinar los requisitos generales serán la educación formal, la formación para el trabajo y desarrollo humano y la experiencia.
 
 (Decreto 1785 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.3.2 — Estudios
 
 Se entiende por estudios los conocimientos académicos adquiridos en instituciones públicas o privadas, debidamente reconocidas por el Gobierno Nacional, correspondientes a la educación básica primaria, básica secundaria, media vocacional; superior en los programas de pregrado en las modalidades de formación técnica profesional, tecnológica y profesional, y en programas de postgrado en las modalidades de especialización, maestría, doctorado y postdoctorado.
 
 (Decreto 1785 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.3.3 — Certificación Educación Formal
 
@@ -760,8 +668,6 @@ De no acreditarse en ese tiempo, se aplicará lo previsto en el artículo 5 de l
 
 (Decreto 1785 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.3.4 — Títulos y certificados obtenidos en el exterior
 
 Los estudios realizados y los títulos obtenidos en el exterior requerirán para su validez, de la homologación y convalidación por parte del Ministerio de Educación Nacional o de la autoridad competente.
@@ -772,15 +678,11 @@ Esta disposición no prorroga el término de los trámites que a la fecha de exp
 
 (Decreto 1785 de 2014, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.3.5 — Programas específicos de educación para el trabajo y el desarrollo humano
 
 De acuerdo con la especificidad de las funciones de algunos empleos y con el fin de lograr el desarrollo de determinados conocimientos, aptitudes o habilidades, se podrán exigir programas específicos de educación para el trabajo y el desarrollo humano orientados a garantizar su desempeño, de conformidad con la Ley 1064 de 2006 y demás normas que la desarrollen o reglamenten.
 
 (Decreto 1785 de 2014, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6 — Certificación de los programas específicos de educación para el trabajo y el desarrollo humano
 
@@ -797,8 +699,6 @@ Los programas de educación para el trabajo y el desarrollo humano se acreditar�
 PARÁGRAFO . La intensidad horaria de los programas se indicará en horas. Cuando se exprese en días deberá señalárseles el número total de horas por día.
 
 (Decreto 1785 de 2014, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.3.7 — Experiencia
 
@@ -823,8 +723,6 @@ Cuando para desempeñar empleos pertenecientes a los niveles Directivo, Asesor y
 En el evento de empleos comprendidos en el nivel Profesional y niveles superiores a este, la experiencia docente deberá acreditarse en instituciones educativas debidamente reconocidas y con posterioridad a la obtención del correspondiente título profesional.
 
 (Decreto 1785 de 2014, art. 14; Último inciso Modificado por el Decreto 051 de 2018, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.3.8 — Certificación de la experiencia
 
@@ -852,15 +750,11 @@ CAPÍTULO 4
 
 REQUISITOS GENERALES PARA EL EJERCICIO DE LOS EMPLEOS
 
-ARTÍCULO
-
 ## art:2.2.2.4.1 — Requisitos de los empleos por niveles jerárquicos y grados salariales
 
 Los requisitos de estudios y de experiencia que se fijan en el presente decreto para cada uno de los grados salariales por cada nivel jerárquico, servirán de base para que los organismos y entidades a quienes se aplica elaboren sus manuales específicos de funciones y de competencias laborales para los diferentes empleos que conforman su planta de personal.
 
 (Decreto 1785 de 2014, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2 — 
 
@@ -986,8 +880,6 @@ PARÁGRAFO . En este nivel no podrá ser compensado el Título Profesional.
 
 (Decreto 1785 de 2014, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.4.3 — Requisitos del nivel asesor
 
 Serán requisitos para los empleos del nivel asesor, los siguientes:
@@ -1071,8 +963,6 @@ Título profesional, Título de postgrado en la modalidad de maestría y cincuen
 PARÁGRAFO . En este nivel no podrá ser compensado el Título Profesional.
 
 (Decreto 1785 de 2014, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.2.4.4 — 
 
@@ -1182,8 +1072,6 @@ PARÁGRAFO . En este nivel no podrá ser compensado el título profesional.
 
 (Decreto 1785 de 2014, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.2.4.5 — Requisitos del nivel técnico.Serán requisitos para los empleos del nivel técnico, los siguientes
 
 Grados
@@ -1267,8 +1155,6 @@ PARÁGRAFO . Los estudios de educación superior que se exijan, deberán referir
 Cuando se trate de un empleo clasificado en los grados 01 a 08, cuyas funciones correspondan a un oficio específico, se podrá compensar cada año de educación por un (1) año de experiencia en la especialidad funcional.
 
 (Decreto 1785 de 2014, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.2.4.6 — 
 
@@ -1408,8 +1294,6 @@ PARÁGRAFO 4. Las personas que se vinculen deberán cumplir con los demás requi
 
 (Adicionado por el Decreto 303 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.7 — 
 
 2.2.2.4.7 Requisitos especiales Cuando las funciones de un empleo correspondan al ámbito de la música o de las artes, los requisitos de estudios exigibles podrán ser compensados por la comprobación de experiencia y producción artísticas, así:
@@ -1485,8 +1369,6 @@ Aprobación de cuatro (4) años de educación básica secundaria y cuarenta y oc
 Diploma de bachiller y veinticuatro (24) meses de experiencia relacionada.
 
 (Decreto 1785 de 2014, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.4.8 — Requisitos especiales de Médicos y Odontólogos
 
@@ -1652,8 +1534,6 @@ Título profesional en odontología, Título de postgrado en la modalidad de esp
 
 (Decreto 1785 de 2014, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.2.4.9 — Disciplinas académicas o profesiones
 
 Para el ejercicio de los empleos que exijan como requisito el título o la aprobación de estudios en educación superior, las entidades y organismos identificarán en el manual específico de funciones y de competencias laborales, los Núcleos Básicos del Conocimiento NBC que contengan las disciplinas académicas o profesiones, de acuerdo con la clasificación establecida en el Sistema Nacional de Información de la Educación Superior -SNIES, tal como se señala a continuación:
@@ -1798,8 +1678,6 @@ PARÁGRAFO 4. Los procesos de selección que se encontraban en curso al 17 de se
 
 (Decreto 1785 de 2014, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.4.10 — Requisitos determinados en normas especiales
 
 Para ejercer el empleo de Ministro o Director de Departamento Administrativo se requiere acreditar los requisitos señalados en el artículo 207 de la Constitución Política.
@@ -1818,7 +1696,7 @@ Para efectos de las equivalencias de los empleos antes mencionados, podrán apli
 
 (Decreto 1785 de 2014, art. 25)
 
-## art:2.2.2.4 — 11 Requisitos ya acreditados de los niveles asistencial y técnico
+## art:2.2.2.4.11 — Requisitos ya acreditados de los niveles asistencial y técnico
 
 A los servidores públicos del nivel asistencial y técnico que hayan sido vinculados con anterioridad a la expedición de los Decretos 770 y 785 de 2005 que participen en procesos de selección, se les exigirán como requisitos para el cargo al que concursan, los mismos que se encontraban vigentes al momento de su vinculación, esto siempre que dichos servidores concursen para el mismo empleo en que fueron vinculados. La entidad deberá hacer la precisión en el momento de reportar los cargos en la Oferta Pública de Empleos de Carrera-OPEC que administra la Comisión Nacional del Servicio Civil entidad que viabilizará su participación
 
@@ -1827,8 +1705,6 @@ A los servidores públicos del nivel asistencial y técnico que hayan sido vincu
 CAPÍTULO 5
 
 EQUIVALENCIAS ENTRE ESTUDIOS Y EXPERIENCIA
-
-ARTÍCULO
 
 ## art:2.2.2.5.1 — Equivalencias
 
@@ -1896,15 +1772,11 @@ PARÁGRAFO 5. En todo caso, cuando se trate de equivalencias para los empleos pe
 
 (Decreto 1785 de 2014, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.5.2 — Prohibición de compensar requisitos
 
 Cuando para el desempeño de un empleo se exija una profesión, arte u oficio debidamente reglamentados, los grados, títulos, licencias, matrículas o autorizaciones previstas en las normas sobre la materia no podrán compensarse por experiencia u otras calidades, salvo cuando la ley así lo establezca.
 
 (Decreto 1785 de 2014, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.5.3 — Acreditación de formación de nivel superior
 
@@ -1917,8 +1789,6 @@ CAPÍTULO 6
 MANUALES ESPECÍFICOS DE FUNCIONES Y DE COMPETENCIAS LABORALES.
 
 (Ver Circular Interna 100-001 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1 — Expedición
 
@@ -1942,8 +1812,6 @@ PARÁGRAFO 3. La administración antes de publicar el acto administrativo que ad
 
 (Ver Concepto del Consejo de Estado - Sala de Consulta y Servicio Civil 2307 de 2016)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2 — Contenido del manual específico de funciones y de competencias laborales
 
 El manual específico de funciones y de competencias laborales deberá contener como mínimo:
@@ -1962,8 +1830,6 @@ CAPÍTULO 7
 
 DISPOSICIONES ESPECIALES
 
-ARTÍCULO
-
 ## art:2.2.2.7.1 — Manuales específicos de las entidades con sistemas especiales
 
 Los lineamientos señalados serán tenidos en cuenta por las entidades públicas del orden nacional con sistemas especiales de nomenclatura y clasificación de empleos que no se rigen por el presente Título cuando se trate de elaborar, actualizar, o modificar sus manuales específicos, sin perjuicio de sus disposiciones específicas sobre la materia.
@@ -1971,8 +1837,6 @@ Los lineamientos señalados serán tenidos en cuenta por las entidades públicas
 Corresponde al jefe de personal o quien haga sus veces, efectuar la verificación del cumplimiento de lo dispuesto en el presente artículo.
 
 (Decreto 1785 de 2014, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.2.7.2 — 
 
@@ -2058,8 +1922,6 @@ Asistencial 01
 
 (Decreto 1785 de 2014, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.2.7.3 — Empleos pertenecientes a la Carrera Diplomática y Consular del servicio exterior del Ministerio de Relaciones Exteriores
 
 Las personas designadas en provisionalidad en cargos de Carrera Diplomática y Consular del servicio exterior del Ministerio de Relaciones Exteriores, deberán cumplir las condiciones contempladas en el artículo 61 del Decreto Ley 274 de 2000.
@@ -2142,15 +2004,11 @@ PARÁGRAFO 2. Cuando la persona designada en provisionalidad sea adscrita en una
 
 (Decreto 1785 de 2014, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.2.7.4 — Compensación de requisitos en casos excepcionales
 
 Para la provisión de empleos de libre nombramiento y remoción, en casos excepcionales, el Presidente de la República podrá autorizar la compensación de los requisitos señalados en este decreto, para lo cual se deberá surtir el trámite señalado en el artículo 11 del Decreto Ley 770 de 2005.
 
 (Decreto 1785 de 2014, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.2.7.5 — Ajuste del manual específico de funciones y de competencias laborales
 
@@ -2160,15 +2018,11 @@ Los Jefes de Personal o quienes hagan sus veces de los organismos y entidades a 
 
 (Decreto 1785 de 2014, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.2.7.6 — Requisitos ya acreditados
 
 A quienes al 17 de septiembre de 2014 estaban desempeñando empleos de conformidad con normas anteriores, para todos los efectos legales, y mientras permanezcan en los mismos empleos, o sean trasladados o incorporados a cargos equivalentes o de igual denominación y grado de remuneración, no se les exigirán los requisitos establecidos en el presente Título.
 
 (Decreto 1785 de 2014, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.2.7.7 — Requisitos para el desempeño del empleo de Ministro Consejero del Presidente de la República
 
@@ -2180,23 +2034,17 @@ CAPÍTULO 8
 
 FUNCIONES Y LOS REQUISITOS GENERALES PARA LOS DIFERENTES EMPLEOS PÚBLICOS DEL DEPARTAMENTO ADMINISTRATIVO - DIRECCIÓN NACIONAL DE INTELIGENCIA Y SE DICTAN OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.2.8.1 — Campo de aplicación
 
 La descripción de las funciones y los requisitos generales que se establecen en el presente Capítulo, rige para los empleos públicos pertenecientes a la planta de personal al Departamento Administrativo - Dirección Nacional de Inteligencia.
 
 (Decreto 4882 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.8.2 — Requisitos de los empleos por niveles jerárquicos y grados salariales
 
 Los requisitos de estudios y de experiencia que se fijan en el presente Capítulo para cada uno de los grados salariales por cada nivel jerárquico, servirán de base para que el Departamento Administrativo - Dirección Nacional de Inteligencia elabore su manual específico de funciones y de requisitos para los diferentes empleos que conforman su planta de personal.
 
 (Decreto 4882 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.8.3 — Requisitos del Nivel Directivo
 
@@ -2230,8 +2078,6 @@ PARÁGRAFO . En este nivel no podrá ser compensado el título profesional.
 
 (Decreto 4882 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.8.4 — Requisitos del Nivel Asesor
 
 Son requisitos para los empleos del nivel asesor, los siguientes:
@@ -2257,8 +2103,6 @@ Título profesional, Título de posgrado en la modalidad de especialización y c
 PARÁGRAFO . En este nivel no podrá ser compensado el título profesional.
 
 (Decreto 4882 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.8.5 — Requisitos del Nivel de Gestión
 
@@ -2314,8 +2158,6 @@ PARÁGRAFO . En este nivel no podrá ser compensado el título profesional.
 
 (Decreto 4882 de 2011, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.8.6 — Requisitos del Nivel Técnico
 
 Son requisitos para los empleos del nivel técnico, los siguientes:
@@ -2343,8 +2185,6 @@ Título de formación técnica profesional o tecnológica o tres (3) años de ed
 PARÁGRAFO . Los estudios de educación superior que se exijan, deberán referirse a una misma disciplina académica. En este nivel solo se podrá compensar hasta tres (3) años de educación superior, siempre y cuando se acredite el diploma de bachiller. Para los grados 01 al 02, el diploma de bachiller podrá compensarse siempre y cuando se acredite la aprobación de cuatro (4) años de educación básica secundaria.
 
 (Decreto 4882 de 2011, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.8.7 — Requisitos Nivel Operativo
 
@@ -2378,8 +2218,6 @@ PARÁGRAFO . Los estudios de educación superior que se exijan, deberán referir
 
 (Decreto 4882 de 2011, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.8.8 — De las disciplinas académicas
 
 Para el ejercicio de los empleos que exijan como requisito el título o la aprobación de estudios en educación superior en cualquier modalidad, en el manual específico se determinarán las disciplinas académicas teniendo en cuenta la naturaleza de las funciones del empleo o el área de desempeño.
@@ -2390,15 +2228,11 @@ PARÁGRAFO . En las convocatorias a concurso para la provisión de los empleos d
 
 (Decreto 4882 de 2011, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.8.9 — Requisitos determinados en normas especiales
 
 Para el ejercicio de los empleos correspondientes a los diferentes niveles jerárquicos, que tengan requisitos establecidos en la Constitución Política o en la ley, se acreditarán los allí señalados.
 
 (Decreto 4882 de 2011, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.8.10 — Equivalencias
 
@@ -2409,8 +2243,6 @@ Para efectos de la aplicación de las equivalencias entre estudios y experiencia
 PARÁGRAFO . De acuerdo con las necesidades del servicio, el Departamento Administrativo - Dirección Nacional de Inteligencia determinará en su manual específico o en acto administrativo separado, las equivalencias para los empleos de su planta de personal que lo requieran, de conformidad con los lineamientos establecidos en el presente Capítulo.
 
 (Decreto 4882 de 2011, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.8.11 — Manual específico de funciones y de competencias laborales
 
@@ -2424,8 +2256,6 @@ Corresponde a la unidad de personal del Departamento Administrativo - Dirección
 
 (Decreto 4882 de 2011, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.8.12 — De otras disposiciones
 
 En lo no previsto en el presente Capítulo, se aplicarán las disposiciones establecidas en el Título 2 de la Parte 2 del Libro 2 del presente Decreto y demás disposiciones que lo modifiquen, adicionen o sustituyan.
@@ -2438,23 +2268,17 @@ FUNCIONES Y REQUISITOS GENERALES PARA LOS DIFERENTES EMPLEOS PÚBLICOS DE LAS AG
 
 DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.2.9.1 — Campo de aplicación
 
 El presente Capítulo establece las funciones y requisitos generales para los diferentes empleos públicos que sean desempeñados por empleados públicos de las Agencias Estatales de Naturaleza Especial, del sector descentralizado de la Rama Ejecutiva del Orden Nacional, denominadas Agencia Nacional de Hidrocarburos - ANH, Agencia Nacional de Minería - ANM y Agencia Nacional de Infraestructura - ANI y de las Agencias Nacionales de Defensa Jurídica del Estado y de Contratación Pública Colombia Compra Eficiente.
 
 (Decreto 509 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.9.2 — Requisitos de los empleos por niveles jerárquicos y grados salariales
 
 Los requisitos de estudios y de experiencia que se fijan en el presente Capítulo para cada uno de los grados salariales por cada nivel jerárquico, servirán de base para que los organismos y entidades a quienes se aplica este Capítulo, elaboren sus manuales específicos de funciones y de competencias laborales para los diferentes empleos que conforman su planta de personal.
 
 (Decreto 509 de 2012, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.9.3 — Requisitos del Nivel Directivo
 
@@ -2499,8 +2323,6 @@ Título profesional, título de posgrado en la modalidad de maestría y ochenta 
 PARÁGRAFO . En este nivel no podrá ser compensado el Título Profesional.
 
 (Decreto 509 de 2012, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.9.4 — Requisitos del Nivel Asesor
 
@@ -2553,8 +2375,6 @@ Título profesional, Título de posgrado en la modalidad de maestría y cincuent
 PARÁGRAFO . En este nivel no podrá ser compensado el Título Profesional.
 
 (Decreto 509 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.9.5 — Requisitos del Nivel Profesional
 
@@ -2644,8 +2464,6 @@ PARÁGRAFO . En este nivel no podrá ser compensado el Título Profesional.
 
 (Decreto 509 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6 — Requisitos del Nivel Técnico
 
 Serán requisitos para los empleos del nivel técnico, los siguientes:
@@ -2704,15 +2522,11 @@ Título de formación técnica profesional y seis (6) meses de experiencia relac
 
 (Decreto 509 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.9.7 — Equivalencias
 
 Los requisitos de que trata el presente Capítulo no podrán ser disminuidos ni aumentados. Sin embargo, de acuerdo con la jerarquía, las funciones, las competencias y las responsabilidades de cada empleo, las autoridades competentes al fijar los requisitos específicos de estudio y de experiencia para su ejercicio, podrán prever la aplicación excepcional, de las equivalencias establecidas en el Capítulo 5 del Título 2 y demás normas que lo modifiquen, sustituyan o adicionen.
 
 (Decreto 509 de 2012, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.9.8 — Manuales específicos de funciones y de requisitos
 
@@ -2727,8 +2541,6 @@ Corresponde a las unidades de personal de las Agencias o quien haga sus veces, a
 Para estos efectos, el Departamento Administrativo de la Función Pública prestará la asesoría técnica necesaria y señalará las pautas e instrucciones de carácter general.
 
 (Decreto 509 de 2012, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.9.9 — Contenido
 
@@ -2748,8 +2560,6 @@ Además de la descripción de las funciones y de las competencias laborales a ni
 
 (Decreto 509 de 2012, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.9.10 — Requisitos ya acreditados
 
 A los empleados públicos que al 9 de marzo de 2012 estuvieren desempeñando empleos de conformidad con lo señalado en el Decreto-ley 770 de 2005 y en el Título 2, para todos los efectos legales, y mientras permanezcan en los mismos empleos, o sean trasladados o incorporados a cargos equivalentes o de igual denominación y grado de remuneración, no se les exigirán los requisitos establecidos en el presente decreto.
@@ -2760,15 +2570,11 @@ TITULO 3
 
 REQUISITOS GENERALES PARA LOS EMPLEOS PÚBLICOS DE LOS DISTINTOS NIVELES JERÁRQUICOS DE LOS ORGANISMOS Y ENTIDADES DEL ORDEN TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.3.1 — Ámbito de aplicación
 
 El presente Título es aplicable a los organismos y entidades del nivel territorial que se rigen en materia de nomenclatura, clasificación de empleos, de funciones y de requisitos generales por lo previsto en el Decreto Ley 785 de 2005.
 
 (Decreto 2484 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2 — Factores para determinar los requisitos
 
@@ -2776,15 +2582,11 @@ Los factores que se tendrán en cuenta para determinar los requisitos específic
 
 (Decreto 2484 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.3 — Programas específicos de educación para el trabajo y el desarrollo humano
 
 De acuerdo con la especificidad de las funciones de algunos empleos de las instituciones del orden territorial y con el fin de obtener determinados conocimientos, aptitudes o habilidades, se podrá exigir la acreditación de programas específicos de educación para el trabajo y el desarrollo humano de conformidad con la Ley 1064 de 2006.
 
 (Decreto 2484 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.4 — Certificación de la experiencia
 
@@ -2793,8 +2595,6 @@ Para efectos de las certificaciones de experiencia cuando la persona aspire a oc
 Cuando las certificaciones indiquen una jornada laboral inferior a ocho (8) horas diarias, el tiempo de experiencia se establecerá sumando las horas trabajadas y dividiendo el resultado por ocho (8).
 
 (Decreto 2484 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.5 — Disciplinas académicas
 
@@ -2940,23 +2740,17 @@ Para las nuevas convocatorias que se adelanten a partir del 2 de diciembre de 20
 
 (Decreto 2484 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.6 — Requisitos determinados en normas especiales
 
 Para el ejercicio de los empleos correspondientes a los diferentes niveles jerárquicos, que tengan requisitos establecidos en la Constitución Política o en la ley, se acreditarán los allí señalados, sin que sea posible modificarlos o adicionarlos en los manuales específicos de funciones y de competencias laborales.
 
 (Decreto 2484 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.7 — Acreditación de formación de nivel superior al exigido
 
 Cuando para el desempeño de un empleo se exija titulación en una modalidad de educación de pregrado o de formación avanzada o de posgrado, se entenderá cumplido el requisito de formación académica correspondiente cuando se acredite título académico en un nivel de formación superior al exigido en el respectivo manual de funciones y de competencias laborales.
 
 (Decreto 2484 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.8 — Contenido del Manual Específico de Funciones y de Competencias Laborales
 
@@ -2972,15 +2766,11 @@ El manual específico de funciones y de competencias laborales deberá contener 
 
 (Decreto 2484 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3.9 — Ajuste del Manual Específico de Funciones y de Competencias Laborales
 
 Los organismos y entidades de orden territorial ajustarán sus manuales específicos de funciones y de competencias laborales, hasta el 1 de junio de 2015. Los manuales específicos vigentes, continuarán rigiendo hasta que se ajusten total o parcialmente.
 
 (Decreto 2484 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.10 — Requisitos ya acreditados
 
@@ -2992,23 +2782,17 @@ TITULO 4
 
 COMPETENCIAS LABORALES GENERALES PARA LOS EMPLEOS PÚBLICOS DE LOS DISTINTOS NIVELES JERÁRQUICOS
 
-ARTÍCULO
-
 ## art:2.2.4.1 — Campo de aplicación
 
 El presente Título determina las competencias laborales comunes a los empleados públicos y las generales de los distintos niveles jerárquicos en que se agrupan los empleos de las entidades a las cuales se aplica los Decretos Ley 770 y 785 de 2005.
 
 (Decreto 2539 de 2005, art. 1; Modificado por el Decreto 815 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.2 — Definición de competencias
 
 Las competencias laborales se definen como la capacidad de una persona para desempeñar, en diferentes contextos y con base en los requerimientos de calidad y resultados esperados en el sector público, las funciones inherentes a un empleo; capacidad que está determinada por los conocimientos, destrezas, habilidades, valores, actitudes y aptitudes que debe poseer y demostrar el empleado público.
 
 (Decreto 2539 de 2005, art. 2; Modificado por el Decreto 815 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.3 — Componentes
 
@@ -3022,8 +2806,6 @@ Las competencias laborales se determinarán con base en el contenido funcional d
 
 (Decreto 2539 de 2005, art. 3; Modificado por el Decreto 815 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.4 — Contenido funcional del empleo
 
 Con el objeto de identificar las responsabilidades y competencias exigidas al titular de un empleo, deberá describirse el contenido funcional de éste, teniendo en cuenta los siguientes aspectos:
@@ -3033,8 +2815,6 @@ Con el objeto de identificar las responsabilidades y competencias exigidas al ti
 2. Las funciones esenciales del empleo con las cuales se garantice el cumplimiento del propósito principal o razón de ser del mismo.
 
 (Decreto 2539 de 2005, art. 4; Modificado por el Decreto 815 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.5 — Competencias funcionales
 
@@ -3049,8 +2829,6 @@ Las competencias funcionales precisarán y detallarán lo que debe estar en capa
 4. Las evidencias requeridas que demuestren las competencias laborales de los empleados.
 
 (Decreto 2539 de 2005, art. 5; Modificado por el Decreto 815 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.6 — Competencias comportamentales
 
@@ -3503,8 +3281,6 @@ TÍTULO 5
 
 ADMINISTRACIÓN DE PERSONAL Y SITUACIONES ADMINISTRATIVAS DE LOS EMPLEADOS PÚBLICOS DE LAS ENTIDADES DE LOS ÓRDENES NACIONAL Y TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.5.1 — Objeto
 
 El presente Título tiene por objeto reglamentar el régimen de administración de personal,la competencia y procedimiento para el nombramiento, posesión y revocatoria del nombramiento, vacancia y formas de provisión de los empleos, movimientos de personaly las situaciones administrativas en las que se pueden encontrar los empleados públicos de la Rama Ejecutiva del Poder Público en los órdenes nacional y territorial.
@@ -3512,8 +3288,6 @@ El presente Título tiene por objeto reglamentar el régimen de administración 
 PARÁGRAFO . Las disposiciones contenidas en el presente Título no son aplicables a los trabajadores oficiales, quienes se rigen en su relación laboral por su contrato de trabajo, convención colectiva, pacto colectivo o reglamento interno de trabajo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.2 — Ámbito de aplicación
 
@@ -3524,8 +3298,6 @@ Las disposiciones del presente Título regirán los empleos públicos pertenecie
 CAPÍTULO 1
 
 NOMBRAMIENTO Y POSESIÓN
-
-ARTÍCULO
 
 ## art:2.2.5.1.1 — Facultad para nombrar en la Rama Ejecutiva del orden Nacional
 
@@ -3547,8 +3319,6 @@ Corresponde a los ministros, directores de departamentos administrativos, presid
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2 — Facultad para nombrar en la Rama Ejecutiva del orden Territorial
 
 Corresponde a los gobernadores y alcaldes nombrar a:
@@ -3565,8 +3335,6 @@ Corresponde a los directores, presidentes o gerentes de las entidades del sector
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3 — Formalidad para el nombramiento
 
 Los nombramientos de competencia del Presidente de la República, gobernadores y alcaldes se harán mediante decreto; los de competencia de los ministros, directores de departamento administrativo, directores o presidentes del sector central o descentralizado de las entidades de los órdenes nacional y territorial mediante resolución; y de las entidades descentralizadas nacionales conforme a sus estatutos.
@@ -3580,8 +3348,6 @@ PARÁGRAFO . En la provisión de los empleos de libre nombramiento y remoción d
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
 Nota: (Ver Decreto 1466 de 2018); (Ver Decreto 1622 de 2018)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4 — Requisitos para el nombramiento y ejercer el empleo
 
@@ -3607,8 +3373,6 @@ Para ejercer un empleo de la Rama Ejecutiva de los órdenes nacional y territori
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5 — Procedimiento para la verificación del cumplimiento de los requisitos
 
 Corresponde al jefe de la unidad de personal o quien haga sus veces, antes que se efectúe el nombramiento:
@@ -3631,23 +3395,17 @@ PARÁGRAFO 4. Los nombramientos tendrán efectos fiscales a partir de la fecha d
 
 (Nota: Ver numeral 2 del Art. 6 de la Ley 2097 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6 — Comunicación y término para aceptar el nombramiento
 
 El acto administrativo de nombramiento se comunicará al interesado por escrito, a través de medios físicos o electrónicos, indicándole que cuenta con el término de diez (10) días para manifestar su aceptación o rechazo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7 — Plazos para la posesión
 
 Aceptado el nombramiento, la persona designada deberá tomar posesión del empleo dentro de los diez (10) días hábiles siguientes. Este término podrá prorrogarse, por escrito, hasta por noventa días (90) hábiles más, si el designado no residiere en el lugar de ubicación del empleo, o por causa justificada a juicio de la autoridad nominadora.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.1.8 — Posesión
 
@@ -3669,8 +3427,6 @@ Al tomar posesión de un cargo como servidor público en todas las entidades del
 
 (Nota: Ver numeral 2 del Art. 6 de la Ley 2097 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.9 — Declaración de bienes y rentas y hoja de vida
 
 Previo a la posesión de un empleo público, la persona deberá haber declarado bajo juramento el monto de sus bienes y rentas en el formato adoptado para el efecto por el Departamento Administrativo de la Función Pública, a través del Sistema de Información y Gestión del Empleo Público - SIGEP, de acuerdo con las condiciones señaladas en el Título 16 de la Parte 2 del Libro 2 del presente Decreto.
@@ -3680,8 +3436,6 @@ La anterior información sólo podrá ser utilizada para los fines y propósitos
 Así mismo, deberá haber diligenciado el formato de hoja de vida adoptado para el efecto por el Departamento Administrativo de la Función Pública, a través del Sistema de Información y Gestión del Empleo Público - SIGEP.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.1.10 — Eventos en los cuales no puede darse posesión
 
@@ -3701,8 +3455,6 @@ No podrá darse posesión cuando:
 
 (Nota: Ver numeral 2 del Art. 6 de la Ley 2097 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.11 — Modificación o aclaración del nombramiento
 
 La autoridad nominadora podrá modificar, aclarar o corregir un nombramiento cuando:
@@ -3716,8 +3468,6 @@ La autoridad nominadora podrá modificar, aclarar o corregir un nombramiento cua
 4. Se requiera corregir errores formales, de digitación o aritméticos.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.1.12 — Derogatoria del nombramiento
 
@@ -3733,8 +3483,6 @@ La autoridad nominadora deberá derogar el nombramiento, cuando:
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.1.13 — Revocatoria del nombramiento
 
 La autoridad nominadora deberá revocar el nombramiento en un cargo, cuando recaiga en una persona que no reúna los requisitos señalados para el desempeño del mismo.
@@ -3742,8 +3490,6 @@ La autoridad nominadora deberá revocar el nombramiento en un cargo, cuando reca
 Ante este evento la administración inmediatamente advierta el hecho procederá de conformidad con lo señalado en el artículo 5 de la Ley 190 de 1995 y la Ley 1437 de 2011 y demás disposiciones que las reglamenten, modifiquen, adicionen o sustituyan.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.1.14 — Inhabilidad sobreviniente al acto de nombramiento o posesión
 
@@ -3756,8 +3502,6 @@ Cuando la inhabilidad o incompatibilidad sobreviniente no se haya generado por d
 CAPÍTULO 2
 
 VACANCIA DE LOS EMPLEOS
-
-ARTÍCULO
 
 ## art:2.2.5.2.1 — Vacancia definitiva
 
@@ -3797,8 +3541,6 @@ El empleo queda vacante definitivamente, en los siguientes casos:
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2 — Vacancia temporal
 
 El empleo queda vacante temporalmente cuando su titular se encuentre en una de las siguientes situaciones:
@@ -3827,8 +3569,6 @@ CAPÍTULO 3
 
 FORMAS DE PROVISIÓN DE EMPLEO
 
-ARTÍCULO
-
 ## art:2.2.5.3.1 — Provisión de las vacancias definitivas
 
 Las vacantes definitivas en empleos de libre nombramiento y remoción serán provistas mediante nombramiento ordinario o mediante encargo, previo cumplimiento de los requisitos exigidos para el desempeño del cargo.
@@ -3840,8 +3580,6 @@ Mientras se surte el proceso de selección, el empleo de carrera vacante de mane
 Las vacantes definitivas en empleo de periodo o de elección se proveerán siguiendo los procedimientos señalados en las leyes o decretos que los regulan.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.3.2 — Orden para la provisión definitiva de los empleos de carrera
 
@@ -3881,8 +3619,6 @@ PARÁGRAFO 4. La administración antes de ofertar los empleos a la Comisión Nac
 
 (Ver Sentencia del Consejo de Estado 00849 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.3.3 — Provisión de las vacancias temporales
 
 Las vacantes temporales en empleos de libre nombramiento y remoción podrán ser provistas mediante la figura del encargo, el cual deberá recaer en empleados de libre nombramiento y remoción o de carrera administrativa, previo cumplimiento de los requisitos exigidos para el desempeño del cargo.
@@ -3895,8 +3631,6 @@ PARÁGRAFO . Los encargos o nombramientos que se realicen en vacancias temporale
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.3.4 — Terminación de encargo y nombramiento provisional
 
 Antes de cumplirse el término de duración del encargo, de la prórroga o del nombramiento provisional, el nominador, por resolución motivada, podrá darlos por terminados.
@@ -3906,8 +3640,6 @@ Antes de cumplirse el término de duración del encargo, de la prórroga o del n
 (Ver Sentencias del Consejo de Estado SU-556 de 2014 y SU-054 de 2015)
 
 (Ver Concepto Marco 09 de 2018 Departamento Administrativo de la Función Pública);
-
-ARTÍCULO
 
 ## art:2.2.5.3.5 — Provisión de empleos temporales
 
@@ -3925,8 +3657,6 @@ CAPÍTULO 4
 
 MOVIMIENTOS DE PERSONAL
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — Movimientos de personal
 
 A los empleados que se encuentren en servicio activo se les podrá efectuar los siguientes movimientos de personal:
@@ -3942,8 +3672,6 @@ A los empleados que se encuentren en servicio activo se les podrá efectuar los 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
 (Ver Sentencia de la Corte Constitucional T-095 de 2018)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2 — Traslado o permuta
 
@@ -3965,8 +3693,6 @@ El traslado o permuta procede entre organismos del orden nacional y territorial.
 
 (Ver Concepto 20186000047871 Dirección Jurídica del Departamento Administrativo de la Función Pública)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3 — Reglas generales del traslado
 
 El traslado se podrá hacer por necesidades del servicio, siempre que ello no implique condiciones menos favorables para el empleado.
@@ -3975,15 +3701,11 @@ El traslado podrá hacerse también cuando sea solicitado por los empleados inte
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.4.4 — El traslado por razones de violencia o seguridad
 
 El traslado de los empleados públicos por razones de violencia o seguridad se regirá por lo establecido en la Ley 387 de 1997, 909 de 2004 y 1448 de 2011 y demás normas que regulen el tema.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.4.5 — Derechos del empleado trasladado
 
@@ -3992,8 +3714,6 @@ El empleado público de carrera administrativa trasladado conserva los derechos 
 Cuando el traslado implique cambio de sede, el empleado tendrá derecho al reconocimiento y pago de los gastos que demande el traslado, es decir, tendrá derecho al reconocimiento de pasajes para él y su cónyuge o compañero (a) permanente, y sus parientes hasta en el primer grado de consanguinidad, así como también los gastos de transporte de sus muebles.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.4.6 — Reubicación
 
@@ -4005,15 +3725,11 @@ La reubicación del empleo podrá dar lugar al pago de gastos de desplazamiento 
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.4.7 — Encargo
 
 Los empleados podrán ser encargados para asumir parcial o totalmente las funciones de empleos diferentes de aquellos para los cuales han sido nombrados, por ausencia temporal o definitiva del titular, desvinculándose o no de las propias de su cargo, en los términos señalados en el siguiente capítulo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.4.8 — Ascenso
 
@@ -4028,8 +3744,6 @@ DE LAS SITUACIONES ADMINISTRATIVAS
 (Ver Concepto Marco Departamento Administrativo de la Función Pública 01 de 2014)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1 — Situaciones administrativas
 
@@ -4057,8 +3771,6 @@ El empleado público durante su relación legal y reglamentaria se puede encontr
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.2 — Servicio activo
 
 Un empleado se encuentra en servicio activo cuando ejerce las funciones del empleo del cual ha tomado posesión
@@ -4066,8 +3778,6 @@ Un empleado se encuentra en servicio activo cuando ejerce las funciones del empl
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.3 — Licencia
 
@@ -4103,15 +3813,11 @@ PARÁGRAFO . Durante las licencias el empleado conserva su calidad de servidor p
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.4 — Competencia para conceder las licencias
 
 Las licencias se deben conferir por el nominador respectivo o su delegado, o las personas que determinen las normas internas de la entidad.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.5 — Licencia ordinaria
 
@@ -4130,8 +3836,6 @@ La licencia ordinaria una vez concedida no es revocable por la autoridad que la 
 (Ver Concepto 20186000129741Dirección Jurídica del Departamento Administrativo de la Función Pública)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.6 — Licencia no remunerada para adelantar estudios
 
@@ -4153,8 +3857,6 @@ PARÁGRAFO . La licencia no remunerada para adelantar estudios una vez concedida
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.7 — Cómputo y remuneración del tiempo de servicio en licencias no remuneradas
 
 El tiempo que duren las licencias no remuneradas no es computable como tiempo de servicio activo y durante el mismo no se pagará la remuneración fijada para el empleo.
@@ -4162,8 +3864,6 @@ El tiempo que duren las licencias no remuneradas no es computable como tiempo de
 No obstante, durante el tiempo de la licencia no remunerada la entidad deberá seguir pagando los aportes al Sistema Integral de Seguridad Social, en la proporción que por ley le corresponde.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.8 — Licencia para actividades deportivas
 
@@ -4175,15 +3875,11 @@ Las licencias se concederán por el tiempo solicitado por el Departamento Admini
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.9 — Cómputo y remuneración del tiempo de servicio en licencia para actividades deportivas
 
 El tiempo que dure la licencia para actividades deportivas es computable como tiempo de servicio activo y durante el mismo se cancelará la remuneración fijada para el empleo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.10 — Licencias por enfermedad, maternidad o paternidad
 
@@ -4201,8 +3897,6 @@ Las licencias a cargo de las Administradoras de Riesgos Laborales se regirán en
 
 (Ver Sentencia de la Corte Constitucional T-278 de 2018)
 
-ARTÍCULO
-
 ## art:2.2.5.5.11 — Otorgamiento de la licencia por enfermedad
 
 La licencia por enfermedad se autorizará mediante acto administrativo motivado,de oficio o a solicitud de parte, previa la certificación expedida por autoridad competente.
@@ -4215,15 +3909,11 @@ PARÁGRAFO . El trámite para el reconocimiento de incapacidades por enfermedad 
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.12 — Duración de licencias por enfermedad y riesgos laborales y de la licencia de maternidad o paternidad
 
 La duración de la licencia por enfermedad y riesgos laborales y de la licencia de maternidad o paternidad, será por el término que se determine en el certificado médico de incapacidad, o por el fijado directamente por la ley que las regula, sin que dicho plazo pueda ser aumentado o disminuido por el servidor o por el empleador.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.13 — 
 
@@ -4235,15 +3925,11 @@ Cuando la licencia por enfermedad general sea igual o inferior a dos (2) días s
 
 (Ver Sentencia de la Corte Constitucional T-499A de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.14 — Cómputo del tiempo en las licencias por enfermedad y de la licencia de maternidad o paternidad
 
 El tiempo que dure la licencia por enfermedad y maternidad o paternidad es computable como tiempo de servicio activo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.15 — Licencia por luto
 
@@ -4259,8 +3945,6 @@ Una vez ocurrido el hecho que genere la licencia por luto el empleado deberá in
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.16 — Cómputo y remuneración del tiempo en la licencia por luto
 
 El tiempo que dure la licencia por luto es computable como tiempo de servicio activo y el empleado tendrá derecho a la remuneración del empleo que esté desempeñando.
@@ -4268,8 +3952,6 @@ El tiempo que dure la licencia por luto es computable como tiempo de servicio ac
 La licencia por luto interrumpe las vacaciones, la licencia ordinaria y lalicencia no remunerada para adelantar estudios, si el empleado se encuentra en estas situaciones administrativas. Una vez cumplida la misma, se reanudarán las diferentes situaciones administrativas en la que se encontraba el servidor.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.17 — Permiso remunerado
 
@@ -4287,8 +3969,6 @@ PARÁGRAFO . Cuando un Ministro o Director de Departamento Administrativo deba s
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.18 — Permiso sindical
 
 El empleado puede solicitar los permisos sindicales remunerados necesarios para el cumplimiento de su gestión, en los términos establecidos en el Capítulo 5 del Título 2 de la Parte 2 del Libro 2 del Decreto 1072 de 2015, Único Reglamentario del Sector Trabajo y las normas que lo modifiquen, sustituyan o adicionen.
@@ -4301,8 +3981,6 @@ Durante el período de permiso sindical, el empleado público mantendrá los der
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.19 — Permiso académico compensado
 
 Al empleado público se le podrá otorgar permiso académico compensado de hasta dos (2) horas diarias o hasta cuarenta (40) horas mensuales, por dos (2) años, prorrogables por un (1) año, para adelantar programas académicos de educación superior en la modalidad de posgrado en instituciones legalmente reconocidas. El otorgamiento del permiso estará sujeto a las necesidades del servicio, a juicio del jefe del organismo. En el acto que se confiere el permiso se deberá consagrar la forma de compensación del tiempo que se utilice para adelantar los estudios, para lo cual se le podrá variar la jornada laboral del servidor dentro de los límites señalados en la ley.
@@ -4311,15 +3989,11 @@ Al empleado público se le podrá otorgar permiso académico compensado de hasta
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.20 — Permiso para ejercer la docencia universitaria
 
 Al empleado público se le podrá otorgar permiso remunerado para ejercer la docencia universitaria en hora cátedra hasta por cinco (5) horas semanales. El otorgamiento del permiso estará sujeto a las necesidades del servicio a juicio del jefe del organismo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.21 — Comisión
 
@@ -4330,8 +4004,6 @@ El empleado se encuentra en comisión cuando cumple misiones, adelanta estudios,
 (Ver Concepto Marco Departamento Administrativo de la Función Pública 01 de 2014)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.22 — Clases de comisión
 
@@ -4347,8 +4019,6 @@ Las comisiones pueden ser:
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.23 — Competencia para conceder las comisiones
 
 Cuando el funcionario comisionado sea un Ministro o Director de Departamento Administrativo, la comisión se conferirá mediante decreto ejecutivo.
@@ -4360,8 +4030,6 @@ Las comisiones de estudio o de servicio al exterior que se otorguen a servidores
 Toda comisión de estudios o de servicios fuera del país, que se vaya a conferir a empleados de la Rama Ejecutiva del orden nacional, con o sin cargo al erario público, requerirá de la previa autorización del Director del Departamento Administrativo de la Presidencia de la República. Las comisiones de estudio y de servicio al exterior de los superintendentes, gerentes, directores, presidentes o rectores de entidades centralizadas y descentralizadas de la rama ejecutiva del orden nacional, cuyo nombramiento sea de competencia del Presidente de la República, serán conferidas por el ministro o director de departamento administrativo cabeza de sector.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.24 — Contenido del acto administrativo que confiere la comisión
 
@@ -4381,8 +4049,6 @@ Este último requisito no se exigirá cuando la comisión no demande erogaciones
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.25 — Comisiones de servicios
 
 La comisión de servicios se puede conferir al interior o al exterior del país, no constituye forma de provisión de empleos, se otorga para ejercer las funciones propias del empleo en un lugar diferente al de la sede del cargo, cumplir misiones especiales conferidas por los superiores, asistir a reuniones, conferencias o seminarios, realizar visitas de observación que interesen a la administración y que se relacionen con el ramo en que presta sus servicios el empleado.
@@ -4399,8 +4065,6 @@ PARÁGRAFO . Se podrá otorgar comisión de servicios a los líderes sindicales 
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.26 — Duración de la comisión de servicios
 
 Las comisiones al exterior, se conferirán por el término estrictamente necesario para el cumplimiento de su objeto, más uno de ida y otro de regreso, salvo en los casos en que quien autoriza la comisión, considere que éstos no son suficientes para el desplazamiento al sitio donde deba cumplirse y su regreso al país, en cuyo caso podrá autorizar el término mínimo que considere necesario.
@@ -4412,8 +4076,6 @@ No estará sujeta al término antes señalado la comisión de servicio que se ot
 Queda prohibida toda comisión de servicio de carácter permanente.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.27 — Derechos del empleado en comisión de servicios
 
@@ -4427,8 +4089,6 @@ Si los gastos que genera la comisión son asumidos de forma parcial por otro org
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.28 — Suministro de pasajes
 
 A los comisionados al exterior se les podrá suministrar pasajes, aéreos, marítimos o terrestres solo en clase económica.
@@ -4441,8 +4101,6 @@ PARÁGRAFO . Los Embajadores y Embajadores en Misiones Especiales podrán viajar
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.29 — Informe de la comisión de servicios
 
 Los servidores públicos, con excepción de los Ministros y Directos de Departamento Administrativo, deberán presentar ante su superior inmediato y dentro de los tres (3) días siguientes a la finalización de la comisión que le haya sido conferida, un informe ejecutivo sobre las actividades desplegadas en desarrollo de la misma.
@@ -4450,8 +4108,6 @@ Los servidores públicos, con excepción de los Ministros y Directos de Departam
 Así mismo, todas las entidades objeto del ámbito de aplicación del presente decreto, deberán remitir bimestralmente al Director del Departamento Administrativo de la Presidencia de la República, la relación de las comisiones otorgadas y el valor pagado por ellas con cargo al Tesoro Público.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.30 — De las prohibiciones
 
@@ -4462,8 +4118,6 @@ El desconocimiento de ésta prohibición hará incurrir al empleado en falta dis
 Para garantizar la transparencia en la gestión pública, no podrán conferirse comisiones al interior ni al exterior cuyos gastos sean sufragados por particulares que tengan interés directo o indirecto en la gestión.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.31 — Requisitos para otorgar la comisión de estudios
 
@@ -4482,8 +4136,6 @@ Para el otorgamiento de la comisión de estudios, el empleado deberá cumplir lo
 (Ver Concepto Marco Departamento Administrativo de la Función Pública 01 de 2014)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.32 — Derechos en la comisión de estudios
 
@@ -4507,8 +4159,6 @@ PARÁGRAFO 2. La comisión de estudios no incluirá el pago de inscripción, mat
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.33 — Obligaciones del empleado en la comisión de estudios
 
 El empleado público que se le confiera comisión de estudios al interior o al exterior deberá suscribir convenio mediante el cual se comprometa a:
@@ -4523,15 +4173,11 @@ El empleado público que se le confiera comisión de estudios al interior o al e
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.34 — Dedicación de las comisiones de estudios al interior
 
 Las comisiones de estudios al interior del país, podrán concederse en dedicación de tiempo completo o por medio tiempo.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.35 — Duración de la comisión de estudios
 
@@ -4549,15 +4195,11 @@ La suscripción del convenio no implica fuero de inamovilidad del servicio, ni d
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.36 — Terminación anticipada de la comisión de estudios
 
 La comisión de estudios podrá ser terminada en cualquier momento cuando, por cualquier medio, aparezca demostrado que el rendimiento en el estudio, la asistencia o la disciplina no son satisfactorios, o se han incumplido las obligaciones pactadas. En este caso, el empleado deberá reintegrarse a sus funciones en el plazo que le sea señalado y prestar sus servicios por el doble del tiempo de duración de la comisión, so pena de hacerse efectiva la garantía, lo anterior sin perjuicio de las sanciones disciplinarias a que haya lugar.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.37 — Provisión de empleo vacante temporalmente por otorgamiento de la comisión de estudios
 
@@ -4565,15 +4207,11 @@ El empleo vacante temporalmente porque su titular se encuentra en comisión de e
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.5.5.38 — Soportes de la comisión de estudios
 
 Al vencimiento de la comisión y en el término que señale el convenio, el comisionado deberá presentar los respectivos soportes y certificaciones que acrediten los estudios adelantados.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.39 — Comisión para desempeñar empleos de libre nombramiento y remoción o de periodo
 
@@ -4591,8 +4229,6 @@ La comisión para desempeñar un empleo de libre nombramiento y remoción o peri
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.40 — De las invitaciones de gobiernos extranjeros
 
 Las normas de este Decreto se aplicarán sin perjuicio del permiso previsto en los artículos 129 y 189 ordinal 18 de la Constitución Política. Tratándose de estos eventos, al proyecto de acto de autorización se acompañará la correspondiente invitación con la discriminación de los gastos que serán sufragados.
@@ -4600,8 +4236,6 @@ Las normas de este Decreto se aplicarán sin perjuicio del permiso previsto en l
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.41 — Encargo
 
@@ -4619,15 +4253,11 @@ El encargo no interrumpe el tiempo de servicio para efectos de la antigüedad en
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.42 — Encargo en empleos de carrera
 
 El encargo en empleos de carrera que se encuentren vacantes de manera temporal o definitiva se regirá por lo previsto en la Ley 909 de 2004 y en las normas que la modifiquen, adicionen o reglamenten y por las normas que regulan los sistemas específicos de carrera.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.43 — Encargo en empleos de libre nombramiento y remoción
 
@@ -4645,15 +4275,11 @@ En caso de vacancia definitiva el encargo será hasta por el término de tres (3
 
 (Ver Art. 24 de la Ley 909 de 2004)
 
-ARTÍCULO
-
 ## art:2.2.5.5.44 — Diferencia salarial
 
 El empleado encargado tendrá derecho al salario señalado para el empleo que desempeña temporalmente, siempre que no deba ser percibido por su titular.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.45 — Encargo interinstitucional
 
@@ -4665,15 +4291,11 @@ El encargo interinstitucional puede recaer en un empleado de carrera o de libre 
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.46 — Reintegro al empleo al vencimiento del encargo
 
 Al vencimiento del encargo la persona que lo venía ejerciendo cesará automáticamente en el desempeño de las funciones de éste y asumirá las del empleo del cual es titular, en caso de no estarlos desempeñando simultáneamente.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.47 — Suspensión en ejercicio del cargo
 
@@ -4688,8 +4310,6 @@ El tiempo que dure la suspensión no es computable como tiempo de servicio para 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
 (Nota: Ver numeral 2 del Art. 6 de la Ley 2097 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.5.48 — Reintegro al empleo y reconocimiento y pago de salarios dejados de percibir como consecuencia de la suspensión
 
@@ -4707,8 +4327,6 @@ El empleado con derechos de carrera administrativa que supere un concurso para u
 
 (Ver Concepto 20186000027541 Dirección Jurídica del Departamento Administrativo de la Función Pública)
 
-ARTÍCULO
-
 ## art:2.2.5.5.50 — Vacaciones
 
 Las vacaciones se regirán por lo dispuesto en el Decreto Ley 1045 de 1978 y las normas que lo modifiquen, adicionen o reglamenten.
@@ -4725,8 +4343,6 @@ Cuando el empleado disfruta de vacaciones, en el empleo del cual es titular se g
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.51 — Descanso compensado
 
 Al empleado público se le podrá otorgar descanso compensado para semana santa y festividades de fin de año, siempre y cuando haya compensado el tiempo laboral equivalente al tiempo del descanso, de acuerdo con la programación que establezca cada entidad, la cual deberá garantizar la continuidad y no afectación en la prestación del servicio.
@@ -4738,8 +4354,6 @@ La vacancia temporal del empleo se extenderá por los días hábiles compensados
 (Modificado por el Art. 1 del Decreto 648 de 2017)
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
-
-ARTÍCULO
 
 ## art:2.2.5.5.52 — Asignación de funciones
 
@@ -4757,15 +4371,11 @@ El empleado a quien se le asignen las funciones no tendrá derecho al pago de la
 
 (Ver Guía de Administración Pública - ABC de situaciones administrativas)
 
-ARTÍCULO
-
 ## art:2.2.5.5.53 — Horarios flexibles para empleados públicos
 
 Los organismos y entidades de la Rama Ejecutiva de los órdenes nacional y territorial podrán implementar mecanismos que, sin afectar la jornada laboral y de acuerdo con las necesidades del servicio, permitan establecer distintos horarios de trabajo para sus servidores.
 
 (Modificado por el Art. 1 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.54 — Fomento al teletrabajo para empleados públicos
 
@@ -4776,8 +4386,6 @@ Los jefes de los organismos y entidades de la Rama Ejecutiva de los órdenes nac
 (Ver Sentencia de la Corte Constitucional T-254 de 2016)
 
 (Ver Sentencia del Consejo de Estado 00538 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.5.5.55 — Comisiones al exterior para misiones especiales en la Dirección Nacional de Inteligencia
 
@@ -4804,8 +4412,6 @@ La comisión al exterior para misiones especiales se rige además por las siguie
 PARÁGRAFO . La remuneración de los servidores de la Dirección Nacional de Inteligencia en comisión al exterior para misiones especiales, será la correspondiente a la categoría del servicio exterior a la cual se asimile en las denominaciones de ministro consejero, consejero de relaciones exteriores o primer secretario de relaciones exteriores, de conformidad con lo señalado en el Decreto ley 274 de 2000 y en el Decreto 2348 de 2014.
 
 (Adicionado por el Decreto 1377 de 2017, art.1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.56 — Pago de la remuneración de los servidores públicos
 
@@ -4853,15 +4459,11 @@ EQUIVALENCIA DE EXPERIENCIA PREVIA AL TÍTULO COMO EXPERIENCIA PROFESIONAL VÁLI
 
 (Capítulo, Adicionado por el Art. 1 del Decreto 952 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1 — Objeto
 
 El objeto de este capítulo es reglamentar la equivalencia u homologación de experiencia previa al título, prevista en el artículo 2 de la Ley 2039 del 2020, por experiencia profesional válida para efectos de los procesos de inserción laboral en el sector público.
 
 (Adicionado por el Art. 1 del Decreto 952 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.6.2 — Ámbito de aplicación
 
@@ -4877,8 +4479,6 @@ PARÁGRAFO 4. De acuerdo con el parágrafo 1 del artículo 15 de la Ley 1780 de 
 
 (Adicionado por el Art. 1 del Decreto 952 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.6.3 — Reconocimiento de experiencia previa como experiencia profesional
 
 Las autoridades encargadas del desarrollo y diseño de los concursos de méritos, los directores de contratación y los jefes de talento humano o quienes hagan sus veces deberán reconocer, como experiencia profesional válida, el noventa por ciento (90%) de la intensidad horaria certificada que dediquen los estudiantes de los programas y modalidades contemplados en el artículo 2 de la Ley 2039 del 2020; al desarrollo de las actividades formativas.
@@ -4893,8 +4493,6 @@ PARÁGRAFO 4. De acuerdo con el artículo 15 de la Ley 1780 de 2016, se tendrá 
 
 (Adicionado por el Art. 1 del Decreto 952 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.6.4 — Certificación de experiencia adquirida por prácticas, pasantías y monitorias
 
 Para la acreditación del desarrollo de prácticas, pasantías y monitorias, las autoridades encargadas del diseño y desarrollo de los concursos públicos de méritos y los jefes de talento humano o quienes hagan sus veces de las entidades públicas únicamente podrán tener en cuenta las certificaciones que expida el órgano competente de la respectiva entidad de educación superior de pregrado y postgrado, educación técnica, tecnológica, universitaria, educación para el trabajo y desarrollo humano, formación profesional integral del SENA, escuelas normales superiores, así como toda la oferta de formación por competencias.
@@ -4905,8 +4503,6 @@ PARÁGRAFO 2. Para efectos de establecer si existe una relación directa entre l
 
 (Adicionado por el Art. 1 del Decreto 952 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.6.5 — Certificación de experiencia adquirida por desarrollo de contratos laborales y contratos de prestación de servicios
 
 Para acreditar la experiencia previa adquirida por contratos laborales y contratos de prestación de servicios, las autoridades encargadas del diseño y desarrollo de los concursos públicos de méritos, los directores de contratación y los jefes de talento humano o quienes hagan sus veces en las entidades públicas solo tendrán en cuenta las certificaciones de los contratos que expidan a su respecto las entidades contratantes.
@@ -4916,8 +4512,6 @@ PARÁGRAFO 1. La certificación a que se refiere este artículo deberá incluir,
 PARÁGRAFO 2. Para efectos de establecer si existe una relación directa entre las funciones u obligaciones que asume el estudiante y el pensum del programa cursado, las autoridades encargadas del diseño y desarrollo de los concursos públicos de méritos y los órganos encargados de adelantar el proceso de verificación del cumplimiento de requisitos de estudio y experiencia deberán tener en cuenta, como mínimo, los siguientes aspectos: (1) el contenido y materias del programa cursado, (2) las competencias específicas que se desarrollan en el programa cursado y (3) las funciones u obligaciones que se certifiquen.
 
 (Adicionado por el Art. 1 del Decreto 952 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.6.6 — Certificación de experiencia previa adquirida por participación en grupos de investigación
 
@@ -4930,8 +4524,6 @@ PARÁGRAFO 2. La experiencia profesional adquirida en virtud de la participació
 PARÁGRAFO 3. Para efectos de establecer si existe una relación directa entre las actividades, funciones, obligaciones o responsabilidades que asume el estudiante y el pensum del programa cursado, las autoridades encargadas del diseño y desarrollo de los concursos públicos de méritos y los órganos encargados de adelantar el proceso de verificación del cumplimiento de requisitos de estudio y experiencia deberán tener en cuenta, como mínimo, los siguientes aspectos: (1) el contenido y materias del programa de investigación, (2) las competencias específicas que se desarrollan en el programa cursado y (3) las actividades o responsabilidades que se certifiquen.
 
 (Adicionado por el Art. 1 del Decreto 952 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.6.7 — 6.7
 
@@ -5440,10 +5032,6 @@ Las Comisiones de Estudio y de Servicio al Exterior de los Superintendentes, Ger
 CAPITULO 7
 DE LA POSESIÓN
 
-## art:12 — Delegación para posesión de miembros o consejos directivos de entidades descentralizadas
-
-Delégase en los ministros y directores de departamentos administrativos la facultad de dar posesión a los miembros de los consejos directivos y de las juntas directivas de las entidades descentralizadas del orden nacional, de su respectivo sector administrativo, cuando por ley o estatutos dicha posesión deba surtirse ante el Presidente de la República”.
-
 ## art:2.2.5.10.10 — Prohibición de participar en política
 
 A los empleados en licencia les está prohibida cualquier actividad que implique intervención en política.
@@ -5520,9 +5108,7 @@ Parágrafo 1. El Ministro del Interior ejercerá la anterior función en relaci�
 
 Parágrafo 2. El Ministro de Justicia y del Derecho ejercerá esta función en relación con los servidores de la Rama Judicial, salvo los magistrados. También respecto de los servidores de la Procuraduría de la Nación, la Defensoría del Pueblo, la Contraloría General de la República y la Auditoría General de la República, con excepción del Procurador General de la Nación, el Defensor del Pueblo, el Contralor de la República y el auditor General de la República.
 
-## art:9 — Delegación para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros
-
-Delégase en los Ministros del Despacho y Directores de Departamentos Administrativos la función de conceder permiso a los empleados públicos nacionales que lo soliciten, vinculados al correspondiente sector administrativo, para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros, en los términos del numeral 18 del artículo 189 de la Constitución Política, con excepción de los cargos de viceministros, superintendentes, directores, gerentes y presidentes de entidades centralizadas y descentralizadas de la Rama Ejecutiva del nivel nacional.
+ARTÍCULO 9°. Delegación para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros. Delégase en los Ministros del Despacho y Directores de Departamentos Administrativos la función de conceder permiso a los empleados públicos nacionales que lo soliciten, vinculados al correspondiente sector administrativo, para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros, en los términos del numeral 18 del artículo 189 de la Constitución Política, con excepción de los cargos de viceministros, superintendentes, directores, gerentes y presidentes de entidades centralizadas y descentralizadas de la Rama Ejecutiva del nivel nacional.
 
 Parágrafo 1. El Ministro del Interior ejercerá esta función en relación con los servidores de la Rama Legislativa, distintos de los congresistas, y en relación con los servidores del orden territorial, con excepción de los gobernadores, alcaldes distritales y los alcaldes de las ciudades de Medellín y Santiago de Cali.
 
@@ -5539,8 +5125,6 @@ Así mismo, todas las entidades objeto del ámbito de aplicación del presente d
 TÍTULO 6
 
 DE LOS PROCESOS DE SELECCIÓN O CONCURSOS
-
-ARTÍCULO
 
 ## art:2.2.6.1 — Competencia
 
@@ -5563,8 +5147,6 @@ El proceso de selección o concurso comprende la convocatoria, el reclutamiento,
 (Decreto 1227 de 2005, art. 12)
 
 (Ver Ley 909 de 2004, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.6.3 — Convocatorias
 
@@ -5598,8 +5180,6 @@ PARÁGRAFO . Además de los términos establecidos en este decreto para cada una
 
 (Ver Ley 909 de 2004, art. 11, literal c)
 
-ARTÍCULO
-
 ## art:2.2.6.4 — Modificación de la convocatoria
 
 Antes de iniciarse las inscripciones, la convocatoria podrá ser modificada o complementada en cualquier aspecto por la Comisión Nacional del Servicio Civil, lo cual deberá ser divulgado por la entidad que adelanta el proceso de selección.
@@ -5613,8 +5193,6 @@ Las relacionadas con fechas o lugares de aplicación de las pruebas, deberán pu
 PARÁGRAFO . Corresponde a la Comisión Nacional del Servicio Civil dejar sin efecto la convocatoria cuando en ésta se detecten errores u omisiones relacionadas con el empleo objeto de concurso y/o la entidad a la cual pertenece, o con las pruebas o instrumentos de selección, cuando dichos errores u omisiones afecten de manera sustancial y grave el desarrollo del proceso de selección.
 
 (Decreto 1227 de 2005, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.6.5 — Divulgación de la convocatoria
 
@@ -5636,8 +5214,6 @@ PARÁGRAFO . En los avisos de prensa, radio y televisión se dará la informaci�
 
 (Ver Ley 909 de 2004, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.6.6 — Publicación de la convocatoria
 
 El aviso de convocatoria, en su totalidad, se publicará con una antelación no inferior a cinco (5) días hábiles a la fecha de iniciación de las inscripciones, en un lugar de fácil acceso al público de la entidad para la cual se realiza el concurso, de la gobernación y de alcaldía respectivas y en las páginas web de las mismas, si las hubiere, de la Comisión Nacional del Servicio Civil, del Departamento Administrativo de la Función Pública y de la entidad contratada para la realización del concurso.
@@ -5645,8 +5221,6 @@ El aviso de convocatoria, en su totalidad, se publicará con una antelación no 
 (Decreto 1227 de 2005, art. 16)
 
 (Ver Ley 909 de 2004, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.6.7 — Inscripciones
 
@@ -5658,8 +5232,6 @@ PARÁGRAFO . El término para las inscripciones se determinará en cada convocat
 
 (Decreto 1227 de 2005, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.6.8 — Documentos que acrediten el cumplimiento de requisitos
 
 Los documentos que respalden el cumplimiento de los requisitos de estudios y experiencia se allegarán en la etapa del concurso que se determine en la convocatoria, en todo caso antes de la elaboración de la lista de elegibles.
@@ -5670,8 +5242,6 @@ Cuando se exija experiencia relacionada, los certificados de experiencia deberá
 
 (Decreto 1227 de 2005, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.6.9 — Inscripción
 
 La inscripción se hará dentro del término previsto en la convocatoria o en el aviso de modificación, si lo hubiere, durante las horas laborales señaladas en la convocatoria que no podrán ser inferiores a cuatro (4) diarias.
@@ -5679,8 +5249,6 @@ La inscripción se hará dentro del término previsto en la convocatoria o en el
 La inscripción podrá hacerse personalmente por el aspirante o por quien fuere encargado por éste o por correo electrónico u ordinario o por fax. En todo caso, la recepción del formulario y de los documentos anexos, deberá efectuarse durante el plazo fijado.
 
 (Decreto 1227 de 2005, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.6.10 — Ampliación del plazo de inscripciones
 
@@ -5690,8 +5258,6 @@ Si agotado el procedimiento anterior no se inscribiere ningún aspirante, el con
 
 (Decreto 1227 de 2005, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.6.11 — Lista de admitidos y no admitidos
 
 Con base en el formulario de inscripción y en la documentación aportada, cuando haya lugar, se elaborará la lista de admitidos y no admitidos, indicando en este último caso los motivos de su no admisión.
@@ -5700,8 +5266,6 @@ La lista deberá ser publicada en la página web de la entidad que realiza el co
 
 (Decreto 1227 de 2005, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.6.12 — Reclamaciones
 
 Las reclamaciones que formulen los aspirantes inscritos no admitidos al concurso serán resueltas por la Comisión Nacional del Servicio Civil o por la entidad delegada, en los términos previstos en el decreto-ley que fija el procedimiento que debe surtirse ante y por la citada Comisión.
@@ -5709,8 +5273,6 @@ Las reclamaciones que formulen los aspirantes inscritos no admitidos al concurso
 (Decreto 1227 de 2005, art. 22)
 
 (Ver Ley 909 de 2004, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.6.13 — Pruebas o instrumentos de selección
 
@@ -5722,8 +5284,6 @@ PARÁGRAFO . El valor de cada prueba respecto del puntaje total del concurso ser
 
 (Decreto 1227 de 2005, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.6.14 — Entrevista
 
 Cuando en un concurso se programe entrevista, ésta no podrá tener un valor superior al quince por ciento (15%) dentro de la calificación definitiva y el jurado calificador será integrado por un mínimo de tres (3) personas, cuyos nombres deberán darse a conocer con mínimo tres (3) días de antelación a su realización.
@@ -5732,15 +5292,11 @@ La entrevista deberá grabarse en medio magnetofónico, grabación que se conser
 
 (Decreto 1227 de 2005, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.6.15 — Instrumento para valorar los estudios, publicaciones y experiencia
 
 La Comisión Nacional del Servicio Civil adoptará el instrumento para valorar los estudios, publicaciones y experiencia de los aspirantes que cumplan con los requisitos mínimos establecidos en la convocatoria
 
 (Decreto 1227 de 2005, art. 25 modificado por el Decreto 2901 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.16 — Resultados de las pruebas
 
@@ -5748,23 +5304,17 @@ Los resultados de cada prueba se consignarán en informes firmados por el respon
 
 (Decreto 1227 de 2005, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.6.17 — Reclamaciones
 
 Las reclamaciones de los participantes por inconformidad con los puntajes obtenidos en las pruebas serán tramitadas y resueltas por la Comisión Nacional del Servicio Civil o por la entidad delegada, según sea el caso, de conformidad con el decreto-ley que regule el procedimiento que debe surtirse ante y por la Comisión Nacional del Servicio Civil.
 
 (Decreto 1227 de 2005, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.6.18 — Informe de cada concurso
 
 De cada concurso la entidad que lo realice presentará un informe en los términos que señale la Comisión Nacional del Servicio Civil.
 
 (Decreto 1227 de 2005, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.6.19 — Concursos desiertos
 
@@ -5778,8 +5328,6 @@ PARÁGRAFO . Declarado desierto un concurso se deberá convocar nuevamente dentr
 
 (Decreto 1227 de 2005, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.6.20 — Lista de elegibles
 
 Dentro de un término no superior a cinco (5) meses contados a partir de la fecha de publicación de la convocatoria, con base en los resultados del concurso y en riguroso orden de mérito, la Comisión Nacional del Servicio Civil o la entidad que adelantó el concurso de acuerdo con la respectiva delegación, elaborará la lista de elegibles para los empleos objeto del concurso.
@@ -5792,15 +5340,11 @@ PARÁGRAFO . De conformidad con lo señalado en el artículo 31 de la Ley 909 de
 
 (Decreto 1227 de 2005, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.6.21 — Envío de lista de elegibles en firme
 
 En firme la lista de elegibles la Comisión Nacional del Servicio Civil enviará copia al jefe de la entidad para la cual se realizó el concurso, para que dentro de los diez (10) días hábiles siguientes al envío de la lista de elegibles y en estricto orden de mérito se produzca el nombramiento en período de prueba en el empleo objeto del concurso, el cual no podrá ser provisto bajo ninguna otra modalidad, una vez recibida la lista de elegibles.
 
 (Decreto 1227 de 2005, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.6.22 — Retiro de lista de elegibles
 
@@ -5810,23 +5354,17 @@ La posesión en un empleo de carácter temporal, efectuado con base en una lista
 
 (Decreto 1227 de 2005, art. 33, modificado por el Decreto 1894 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.6.23 — Modificación de lista de elegibles
 
 La Comisión Nacional del Servicio Civil o la entidad delegada podrán modificar la lista de elegibles por las razones y con observancia de lo establecido en el procedimiento que debe surtirse ante y por la Comisión Nacional del Servicio Civil para el cumplimiento de sus funciones.
 
 (Decreto 1227 de 2005, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.6.24 — Periodo de prueba
 
 Se entiende por período de prueba el tiempo durante el cual el empleado demostrará su capacidad de adaptación progresiva al cargo para el cual fue nombrado, su eficiencia, competencia, habilidades y aptitudes en el desempeño de las funciones y su integración a la cultura institucional. El período de prueba deberá iniciarse con la inducción en el puesto de trabajo.
 
 (Decreto 1227 de 2005, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.6.25 — Nombramiento en periodo de prueba
 
@@ -5836,8 +5374,6 @@ Si no lo aprueba, una vez en firme la calificación, su nombramiento deberá ser
 
 (Decreto 1227 de 2005, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.6.26 — Nombramiento en ascenso
 
 Cuando un empleado con derechos de carrera supere un concurso será nombrado en ascenso en período de prueba por el término de seis (6) meses. Si supera este período satisfactoriamente le será actualizada su inscripción el registro público.
@@ -5845,8 +5381,6 @@ Cuando un empleado con derechos de carrera supere un concurso será nombrado en 
 Mientras se produce la calificación del periodo de prueba, el cargo del cual es titular el empleado ascendido podrá ser provisto por encargo o mediante nombramiento provisional, conforme con las reglas que regulan la materia.
 
 (Decreto 1227 de 2005, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.6.27 — Supresión de empleo provisto con empleado en periodo de prueba
 
@@ -5858,15 +5392,11 @@ De no poder efectuarse la incorporación a un empleo igual o equivalente, el nom
 
 (Decreto 1227 de 2005, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.6.28 — Evaluación del periodo de prueba
 
 El empleado nombrado en período de prueba deberá ser evaluado en el desempeño de sus funciones al final del mismo, de acuerdo con lo establecido en el presente título.
 
 (Decreto 1227 de 2005, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.6.29 — Derechos del empleado en periodo de prueba
 
@@ -5874,23 +5404,17 @@ El empleado que se encuentre en período de prueba tiene derecho a permanecer en
 
 (Decreto 1227 de 2005, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.6.30 — Prórroga del período de prueba
 
 Cuando por justa causa haya interrupción en el período de prueba por un lapso superior a veinte (20) días continuos, este será prorrogado por igual término.
 
 (Decreto 1227 de 2005, art. 41)
 
-ARTÍCULO
-
 ## art:2.2.6.31 — Situación especial de embarazo
 
 Cuando una empleada en estado de embarazo se encuentre vinculada a un empleo en período de prueba, sin perjuicio de continuar prestando el servicio, este período se suspenderá a partir de la fecha en que dé aviso por escrito al jefe de la unidad de personal o a quien haga sus veces, y continuará al vencimiento de los tres (3) meses siguientes a la fecha del parto o de la culminación de la licencia remunerada cuando se trate de aborto o parto prematuro no viable.
 
 (Decreto 1227 de 2005, art. 42)
-
-ARTÍCULO
 
 ## art:2.2.6.32 — Actuaciones en curso a la entrada en vigencia de la Ley 1753 de 2015
 
@@ -5900,15 +5424,11 @@ En caso de que la acreditación se otorgue, ésta tendrá la vigencia determinad
 
 (Adicionado Decreto 413 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.33 — Nuevas solicitudes de acreditación para concursos o procesos de selección
 
 A partir del 9 de junio de 2015, las solicitudes de acreditación de Instituciones de Educación Superior para concursos o procesos de selección deberán presentarse ante el Ministerio de Educación Nacional, y tramitarse por esa entidad con base en el procedimiento, los criterios o condiciones y el término que fije ese Ministerio.
 
 (Adicionado Decreto 413 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.34 — Registro de los empleos vacantes de manera definitiva
 
@@ -5928,8 +5448,6 @@ TÍTULO 7
 
 REGISTRO PUBLICO DE CARRERA ADMINISTRATIVA
 
-ARTÍCULO
-
 ## art:2.2.7.1 — Responsable del Registro Público de Carrera Administrativa
 
 La Comisión Nacional del Servicio Civil es el organismo responsable de la administración, la organización, la actualización y el control del Registro Público de Carrera Administrativa, el cual estará conformado por todos los empleados actualmente inscritos o que se llegaren a inscribir en la carrera administrativa regulada por la Ley 909 de 2004.
@@ -5937,8 +5455,6 @@ La Comisión Nacional del Servicio Civil es el organismo responsable de la admin
 En el registro deberán incluirse, como mínimo, los siguientes datos: Nombres y apellidos del empleado, género, identificación, denominación del empleo, código, grado, jornada, nombre de la entidad, tipo de inscripción. Además de los datos anteriormente señalados, el registro contendrá el número de folio y de orden y fechas en las cuales se presentó la novedad que se registra y la del registro mismo y del cuadro funcional al que pertenece según el caso.
 
 (Decreto 1227 de 2005, art. 44) (Ver Ley 909 de 2004, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.7.2 — Contenido
 
@@ -5950,8 +5466,6 @@ Estas anotaciones se mantendrán hasta que se reporten las situaciones administr
 
 (Decreto 1227 de 2005, art. 45)
 
-ARTÍCULO
-
 ## art:2.2.7.3 — Presentación de solicitudes de inscripción o de actualización
 
 Las solicitudes de inscripción o de actualización serán presentadas ante la Comisión Nacional del Servicio Civil únicamente por el jefe de la unidad de personal o por quien haga sus veces de la entidad en donde el empleado presta sus servicios.
@@ -5960,23 +5474,17 @@ Las solicitudes de inscripción o de actualización serán presentadas ante la C
 
 (Ver Ley 909 de 2004, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.7.4 — Actualización de inscripción en el Registro Público
 
 Al empleado inscrito en carrera administrativa que cambie de empleo por ascenso, traslado, incorporación, reincorporación, se le deberá actualizar su inscripción en el Registro Público de Carrera Administrativa.
 
 (Decreto 1227 de 2005, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.7.5 — Capítulos especiales
 
 Del Registro Público de Carrera Administrativa harán parte, en capítulos especiales, los registros que administren las entidades con sistemas específicos de carrera. El reporte de la correspondiente información se efectuará conforme con la reglamentación que expida la Comisión Nacional del Servicio Civil.
 
 (Decreto 1227 de 2005, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.7.6 — Disposiciones especiales del Registro Público de Carrera Administrativa
 
@@ -5998,8 +5506,6 @@ CAPÍTULO 1
 
 EVALUACIÓN DEL DESEMPEÑO LABORAL
 
-ARTÍCULO
-
 ## art:2.2.8.1.1 — Definición
 
 La evaluación del desempeño laboral es una herramienta de gestión que con base en juicios objetivos sobre la conducta, las competencias laborales y los aportes al cumplimiento de las metas institucionales de los empleados de carrera y en período de prueba en el desempeño de sus respectivos cargos, busca valorar el mérito como principio sobre el cual se fundamenten su permanencia y desarrollo en el servicio.
@@ -6007,8 +5513,6 @@ La evaluación del desempeño laboral es una herramienta de gestión que con bas
 (Decreto 1227 de 2005, art. 50)
 
 (Ver Ley 909 de 2004, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.8.1.2 — Características de la evaluación del desempeño laboral
 
@@ -6020,8 +5524,6 @@ Las evaluaciones del desempeño laboral deben ser:
 
 (Decreto 1227 de 2005, art. 51)
 
-ARTÍCULO
-
 ## art:2.2.8.1.3 — Parámetros de la evaluación del desempeño laboral
 
 El desempeño laboral de los empleados de carrera administrativa deberá ser evaluado y calificado con base en parámetros previamente establecidos a partir de los planes anuales de gestión del área respectiva, de las metas institucionales y de la evaluación que sobre el área realicen las oficinas de control interno o quienes hagan sus veces, de los comportamientos y competencias laborales, habilidades y actitudes del empleado, enmarcados dentro de la cultura y los valores institucionales.
@@ -6029,8 +5531,6 @@ El desempeño laboral de los empleados de carrera administrativa deberá ser eva
 Para el efecto, los instrumentos de evaluación deberán permitir evidenciar la correspondencia entre el desempeño individual y el desempeño institucional.
 
 (Decreto 1227 de 2005, art. 52)
-
-ARTÍCULO
 
 ## art:2.2.8.1.4 — Clases de evaluación
 
@@ -6045,8 +5545,6 @@ Cuando el empleado no haya servido la totalidad del año se calificarán los ser
 Si esta calificación resultare satisfactoria, a partir de la fecha en que se produjo y el 31 de enero del siguiente año, se considerará un nuevo período de evaluación, para lo cual será necesario diligenciar nuevamente los instrumentos que estén siendo utilizados en la respectiva entidad.
 
 (Decreto 1227 de 2005, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.8.1.5 — Evaluación definitiva, evaluaciones semestrales y evaluaciones eventuales
 
@@ -6070,15 +5568,11 @@ PARÁGRAFO 2. Las ponderaciones que sea necesario realizar para obtener la evalu
 
 (Decreto 1227 de 2005, art. 54)
 
-ARTÍCULO
-
 ## art:2.2.8.1.6 — Cambio de cargo como resultado de ascenso dentro de la carrera
 
 Cuando el empleado cambie de cargo como resultado de ascenso dentro de la carrera, el desempeño laboral en el empleo anterior no será evaluado.
 
 (Decreto 1227 de 2005, art. 55)
-
-ARTÍCULO
 
 ## art:2.2.8.1.7 — Responsables de evaluar
 
@@ -6088,15 +5582,11 @@ Cuando la función de evaluar se asigne a más de un empleado deberá determinar
 
 (Decreto 1227 de 2005, art. 56)
 
-ARTÍCULO
-
 ## art:2.2.8.1.8 — Retiro del empleado responsable de evaluar
 
 Cuando el empleado responsable de evaluar se retire del servicio sin efectuar las evaluaciones que le correspondían, éstas deberán ser realizadas por su superior inmediato o por el empleado que para el efecto sea designado por el Jefe de la entidad. Si el empleado continúa en la entidad mantiene la obligación de realizarla.
 
 (Decreto 1227 de 2005, art. 57)
-
-ARTÍCULO
 
 ## art:2.2.8.1.9 — Comunicación de las evaluaciones
 
@@ -6105,8 +5595,6 @@ Las evaluaciones se comunicarán conforme con el procedimiento que debe surtirse
 Las calificaciones anual y extraordinaria que deberán ser motivadas, se notificarán conforme con el procedimiento ante y por la Comisión Nacional del Servicio Civil y contra ellas proceden los recursos de reposición y apelación, cuando se considere que se produjeron con violación de las normas que las regulan o por inconformidad con los resultados de las mismas.
 
 (Decreto 1227 de 2005, art. 58)
-
-ARTÍCULO
 
 ## art:2.2.8.1.10 — Calificación de servicios no satisfactoria
 
@@ -6120,15 +5608,11 @@ PARÁGRAFO . La declaratoria de insubsistencia del nombramiento por calificació
 
 (Ver Ley 909 de 2004, art. 43)
 
-ARTÍCULO
-
 ## art:2.2.8.1.11 — 
 
 2.2.8.1.11 Evaluación en comisión de servicios.Quienes estén cumpliendo comisión de servicios en otra entidad serán evaluados y calificados por la entidad en la cual se encuentran en comisión, con base en el sistema que rija para la entidad en donde se encuentran vinculados en forma permanente. Esta evaluación será remitida a la entidad de origen.
 
 (Decreto 1227 de 2005, art. 60)
-
-ARTÍCULO
 
 ## art:2.2.8.1.12 — Responsabilidad del jefe de personal o a quien haga sus veces frente a la evaluación del desempeño
 
@@ -6150,8 +5634,6 @@ CAPÍTULO 2
 
 EVALUACIÓN Y CALIFICACIÓN DEL PERÍODO DE PRUEBA
 
-ARTÍCULO
-
 ## art:2.2.8.2.1 — Calificación del periodo de prueba
 
 Al vencimiento del período de prueba el empleado será evaluado en su desempeño laboral y deberá producirse la calificación definitiva de servicios, para lo cual se utilizará el instrumento de evaluación del desempeño que rige para la respectiva entidad.
@@ -6159,8 +5641,6 @@ Al vencimiento del período de prueba el empleado será evaluado en su desempeñ
 Una vez en firme la calificación del período de prueba, si fuere satisfactoria, determinará la permanencia del empleado en el cargo para el cual fue nombrado y su inscripción en el Registro Público de Carrera Administrativa. En caso de ser insatisfactoria la calificación, causará el retiro de la entidad del empleado que no tenga los derechos de carrera administrativa.
 
 (Decreto 1227 de 2005, art. 62)
-
-ARTÍCULO
 
 ## art:2.2.8.2.2 — Evaluaciones parciales
 
@@ -6176,8 +5656,6 @@ PARÁGRAFO . La evaluación parcial comprenderá la totalidad del término de la
 
 (Decreto 1227 de 2005, art. 63)
 
-ARTÍCULO
-
 ## art:2.2.8.2.3 — Comunicación de la evaluación del período de prueba
 
 A las evaluaciones y calificaciones de servicios del período de prueba serán comunicadas y notificadas de acuerdo con lo previsto en el presente título.
@@ -6190,27 +5668,19 @@ EVALUACIÓN DEL DESEMPEÑO SERVIDORES SINDICALIZADOS CON OCASIÓN DEL PERMISO SI
 
 (Capítulo Adicionado por el Art. 1 del Decreto 288 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.8.3.1 — Evaluación del desempeño laboral de Directivos Sindicales o Representantes Sindicales
 
 La evaluación del desempeño de los integrantes de los comités ejecutivos, directivas y subdirectivas de confederaciones y federaciones, juntas directivas, subdirectivas y comités seccionales de los sindicatos, comisiones legales o estatutarias de reclamos, y los delegados para las asambleas sindicales y la negociación colectiva, deberá permitir armonizar los derechos relacionados con la actividad sindical y el cumplimiento de los deberes y obligaciones que corresponden al servidor público en el desempeño del empleo del cual es titular.
 
-ARTÍCULO
-
 ## art:2.2.8.3.2 — 3.2
 
 Concertación de compromisos laborales de los empleados con derechos de carrera administrativa y en periodo de prueba que tienen la calidad de directivos sindicales. En la etapa de concertación de compromisos laborales con los directivos sindicales, con excepción de los delegados para las asambleas sindicales y la negociación colectiva, que gocen de permisos sindicales y su evaluador, se deberá acordar mínimo uno (1) y máximo tres (3) compromisos funcionales y mínimo uno (1) y máximo tres (3) compromisos comportamentales, para el período anual o el período de prueba, según corresponda. En todo caso los compromisos laborales deben ser ponderados teniendo en cuenta el impacto y relevancia de cada uno de estos y el perfil ocupacional y grado de responsabilidad del servidor para desarrollarlos.
-
-ARTÍCULO
 
 ## art:2.2.8.3.3 — 3.3
 
 Evaluación del desempeño de los servidores que actúan como representantes ante las mesas de negociación y en las asambleas sindicales. Cuando el permiso sindical de los delegados para las asambleas sindicales y la negociación colectiva tenga una duración superior a treinta (30) días calendario, este periodo no se tendrá en cuenta en la evaluación del desempeño.
 
 En consecuencia, la evaluación semestral correspondiente, con relación a cada compromiso según se haya concertado para el cumplimiento durante el semestre o todo el año, equivaldrá al tiempo efectivamente laborado.
-
-ARTÍCULO
 
 ## art:2.2.8.3.4 — Instrumentos para la evaluación del desempeño de los servidores sindicalizados
 
@@ -6219,8 +5689,6 @@ La evaluación del desempeño de los servidores sindicalizados que gocen del per
 TÍTULO 9
 
 CAPACITACIÓN
-
-ARTÍCULO
 
 ## art:2.2.9.1 — Planes de capacitación
 
@@ -6234,15 +5702,11 @@ Los recursos con que cuente la administración para capacitación deberán atend
 
 (Ver Ley 909 de 2004, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.9.2 — Finalidad
 
 Los programas de capacitación deberán orientarse al desarrollo de las competencias laborales necesarias para el desempeño de los empleados públicos en niveles de excelencia.
 
 (Decreto 1227 de 2005, art. 66)
-
-ARTÍCULO
 
 ## art:2.2.9.3 — Plan Nacional de Formación y Capacitación
 
@@ -6251,8 +5715,6 @@ El Departamento Administrativo de la Función Pública, con el apoyo de la Escue
 La evaluación y el seguimiento buscarán especialmente medir el impacto y los resultados de la capacitación. Para medir el impacto se estudiarán los cambios organizacionales y para analizar los resultados se estudiarán los cambios en el desempeño de los empleados en sus áreas de trabajo como consecuencia de acciones de capacitación.
 
 (Decreto 1227 de 2005, art. 67)
-
-ARTÍCULO
 
 ## art:2.2.9.4 — Red Interinstitucional de Capacitación para Empleados Públicos
 
@@ -6264,15 +5726,11 @@ Para el desarrollo de los programas de capacitación que programe la Red, cada e
 
 (Decreto 1227 de 2005, art. 68)
 
-ARTÍCULO
-
 ## art:2.2.9.5 — Actualización del Plan Nacional de Formación y Capacitación para los Servidores Públicos
 
 Adoptar la actualización del Plan Nacional de Formación y Capacitación para los Servidores Públicos, formulado por el Departamento Administrativo de la Función Pública y la Escuela Superior de Administración Pública, ESAP.
 
 (Decreto 4665 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.6 — Proyectos de Aprendizaje por Competencias
 
@@ -6284,8 +5742,6 @@ TÍTULO 10
 
 SISTEMA DE ESTIMULOS
 
-ARTÍCULO
-
 ## art:2.2.10.1 — Programas de estímulos
 
 Las entidades deberán organizar programas de estímulos con el fin de motivar el desempeño eficaz y el compromiso de sus empleados. Los estímulos se implementarán a través de programas de bienestar social.
@@ -6293,8 +5749,6 @@ Las entidades deberán organizar programas de estímulos con el fin de motivar e
 (Decreto 1227 de 2005, art. 69)
 
 (Ver Ley 489 de 1998, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.10.2 — Beneficiarios
 
@@ -6320,8 +5774,6 @@ PARÁGRAFO 2. Para los efectos de este artículo se entenderá por familia el c�
 
 (Decreto 1227 de 2005, art. 70; Modificado por el Decreto 051 de 2018, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.10.3 — Programas de bienestar orientados a la protección y servicios sociales
 
 Los programas de bienestar orientados a la protección y servicios sociales no podrán suplir las responsabilidades asignadas por la ley a las Cajas de Compensación Familiar, las Empresas Promotoras de Salud, los Fondos de Vivienda y Pensiones y las Administradoras de Riesgos Profesionales.
@@ -6330,15 +5782,11 @@ Los programas de bienestar orientados a la protección y servicios sociales no p
 
 (Decreto 1227 de 2005, art. 71; Ver Concepto Sala De Consulta C. E. 00096 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.10.4 — Recursos de los programas de bienestar
 
 No podrán destinarse recursos dentro de los programas de bienestar para la realización de obras de infraestructura y adquisición de bienes inmuebles.
 
 (Decreto 1227 de 2005, art. 72)
-
-ARTÍCULO
 
 ## art:2.2.10.5 — Financiación de la educación formal
 
@@ -6354,15 +5802,11 @@ PARÁGRAFO . Los empleados vinculados con nombramiento provisional y los tempora
 
 (Decreto 1227 de 2005, art. 73)
 
-ARTÍCULO
-
 ## art:2.2.10.6 — Identificación de necesidades y expectativas en los programas de bienestar
 
 Los programas de bienestar responderán a estudios técnicos que permitan, a partir de la identificación de necesidades y expectativas de los empleados, determinar actividades y grupos de beneficiarios bajo criterios de equidad, eficiencia mayor cubrimiento institucional.
 
 (Decreto 1227 de 2005, art. 74)
-
-ARTÍCULO
 
 ## art:2.2.10.7 — Programas de bienestar de calidad de vida laboral
 
@@ -6384,15 +5828,11 @@ PARÁGRAFO . El Departamento Administrativo de la Función Pública desarrollar�
 
 (Decreto 1227 de 2005, art. 75)
 
-ARTÍCULO
-
 ## art:2.2.10.8 — Planes de incentivos
 
 Los planes de incentivos, enmarcados dentro de los planes de bienestar social, tienen por objeto otorgar reconocimientos por el buen desempeño, propiciando así una cultura de trabajo orientada a la calidad y productividad bajo un esquema de mayor compromiso con los objetivos de las entidades.
 
 (Decreto 1227 de 2005, art. 76)
-
-ARTÍCULO
 
 ## art:2.2.10.9 — Plan de incentivos institucionales
 
@@ -6406,8 +5846,6 @@ PARÁGRAFO . Se entenderá por equipo de trabajo el grupo de personas que labora
 
 (Ver Sentencia del Consejo de Estado 01181 de 2015)
 
-ARTÍCULO
-
 ## art:2.2.10.10 — Otorgamiento de incentivos
 
 Para otorgar los incentivos, el nivel de excelencia de los empleados se establecerá con base en la calificación definitiva resultante de la evaluación del desempeño laboral y el de los equipos de trabajo se determinará con base en la evaluación de los resultados del trabajo en equipo; de la calidad del mismo y de sus efectos en el mejoramiento del servicio; de la eficiencia con que se haya realizado su labor y de su funcionamiento como equipo de trabajo.
@@ -6416,8 +5854,6 @@ PARÁGRAFO . El desempeño laboral de los empleados de libre nombramiento y remo
 
 (Decreto 1227 de 2005, art. 78)
 
-ARTÍCULO
-
 ## art:2.2.10.11 — Procedimiento
 
 Cada entidad establecerá el procedimiento para la selección de los mejores empleados de carrera y de libre nombramiento y remoción, así como para la selección y evaluación de los equipos de trabajo y los criterios a seguir para dirimir los empates, con sujeción a lo señalado en el presente Título.
@@ -6425,8 +5861,6 @@ Cada entidad establecerá el procedimiento para la selección de los mejores emp
 El mejor empleado de carrera y el mejor empleado de libre nombramiento y remoción de la entidad, serán quienes tengan la más alta calificación entre los seleccionados como los mejores de cada nivel.
 
 (Decreto 1227 de 2005, art. 79)
-
-ARTÍCULO
 
 ## art:2.2.10.12 — Requisitos para participar de los incentivos institucionales
 
@@ -6440,8 +5874,6 @@ Los empleados deberán reunir los siguientes requisitos para participar de los i
 
 (Decreto 1227 de 2005, art. 80)
 
-ARTÍCULO
-
 ## art:2.2.10.13 — Plan de Incentivos para los equipos de trabajo
 
 Para llevar a cabo el Plan de Incentivos para los equipos de trabajo, las entidades podrán elegir una de las siguientes alternativas:
@@ -6452,8 +5884,6 @@ Para llevar a cabo el Plan de Incentivos para los equipos de trabajo, las entida
 
 (Decreto 1227 de 2005, art. 81)
 
-ARTÍCULO
-
 ## art:2.2.10.14 — Requisitos de los equipos de trabajo
 
 Los trabajos presentados por los equipos de trabajo deberán reunir los siguientes requisitos para competir por los incentivos institucionales:
@@ -6463,8 +5893,6 @@ Los trabajos presentados por los equipos de trabajo deberán reunir los siguient
 2. Los resultados del trabajo presentado deben responder a criterios de excelencia y mostrar aportes significativos al servicio que ofrece la entidad.
 
 (Decreto 1227 de 2005, art. 82)
-
-ARTÍCULO
 
 ## art:2.2.10.15 — Reglas generales para la selección de los equipos de trabajo
 
@@ -6486,15 +5914,11 @@ PARÁGRAFO 2. El plazo máximo para la selección, proclamación y entrega de lo
 
 (Decreto 1227 de 2005, art. 83)
 
-ARTÍCULO
-
 ## art:2.2.10.16 — Seccionales o regionales
 
 En las entidades donde existen seccionales o regionales se seleccionará, conforme con las reglas establecidas en este decreto, al mejor empleado de cada uno de los niveles jerárquicos que conforman la regional o seccional, quienes tendrán derecho a participar en la selección del mejor empleado de la entidad.
 
 (Decreto 1227 de 2005, art. 84)
-
-ARTÍCULO
 
 ## art:2.2.10.17 — Responsabilidad de las dependencias de recursos humanos o de quienes hagan sus veces en los programas de bienestar
 
@@ -6511,8 +5935,6 @@ CAPÍTULO 1
 CAUSALES DE RETIRO
 
 (Modificado Decreto 648 de 2017, art 2)
-
-ARTÍCULO
 
 ## art:2.2.11.1.1 — Causales de retiro del servicio
 
@@ -6570,8 +5992,6 @@ El retiro del servicio implica la cesación en el ejercicio de funciones públic
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.11.1.2 — De la declaratoria de insubsistencia
 
 En cualquier momento podrá declararse insubsistente un nombramiento ordinario, sin motivar la providencia, de acuerdo con la facultad discrecional que tiene el nominador de nombrar y remover libremente sus empleados.
@@ -6583,8 +6003,6 @@ En los empleos de libre nombramiento y remoción la designación de una nueva pe
 (Ver Sentencia de la Corte Constitucional T-686 de 2014)
 
 (Ver Sentencia del Consejo de Estado 00063 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.11.1.3 — Renuncia
 
@@ -6614,8 +6032,6 @@ Tampoco interrumpen la acción disciplinaria ni la fijación de la sanción."
 
 (Ver Sentencias del Consejo de Estado 00052 de 2013, 00098 y 02869 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.11.1.4 — Retiro por pensión
 
 El empleado que reúna los requisitos determinados para gozar de pensión de retiro por jubilación, por edad o por invalidez, cesará en el ejercicio de funciones en las condiciones y términos establecidos en la Ley 100 de 1993 y demás normas que la modifiquen, adicionen, sustituyan o reglamenten.
@@ -6629,8 +6045,6 @@ Transcurridos treinta (30) días después de que el trabajador o servidor públi
 Lo anterior, sin perjuicio de lo establecido en el artículo 2 de la Ley 1821 de 2016, para quienes hayan cumplido los requisitos para acceder a la pensión de jubilación y que voluntariamente manifiesten su decisión de permanecer en sus cargos hasta que cumplan la edad de retiro forzoso. A las personas que se acojan a la opción voluntaria de permanecer en el cargo, en los términos de la citada ley, les asiste la obligación de seguir contribuyendo al régimen de seguridad social integral y no les será aplicable lo dispuesto en el parágrafo 3 del artículo 9 de la Ley 797 de 2003.
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.11.1.5 — Reintegro al servicio de pensionados
 
@@ -6760,15 +6174,11 @@ PARÁGRAFO . La persona que se encuentre gozando de pensión de jubilación y qu
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.11.1.6 — Retiro por invalidez
 
 Teniendo en cuenta lo establecido en la Ley 100 de 1993 y demás normas que la modifiquen, adicionen y sustituyan, en los casos de retiro por invalidez, la pensión se debe desde que cese el subsidio monetario por incapacidad para trabajar y su pago se comenzará a hacer según el procedimiento señalado en la citada ley.
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.11.1.7 — Edad de retiro forzoso
 
@@ -6780,15 +6190,11 @@ Las personas que antes de la entrada en vigencia de la Ley 1821 de 2016 tuvieren
 
 (Ver Sentencia del Consejo de Estado 00942 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.11.1.8 — Retiro del servicio por destitución
 
 El retiro del servicio por destitución solo es procedente como sanción disciplinaria y con la plena observancia del procedimiento señalado en las normas disciplinarias vigentes.
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.11.1.9 — Abandono del cargo
 
@@ -6804,8 +6210,6 @@ El abandono del cargo se produce cuando un empleado público sin justa causa:
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.11.1.10 — Procedimiento para la declaratoria del empleo por abandono del cargo
 
 Con sujeción al procedimiento administrativo regulado por el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y demás normas que la modifiquen, adicionen o sustituyan, el jefe del organismo deberá establecer la ocurrencia o no de cualquiera de las conductas señaladas en el artículo anterior y las decisiones consecuentes.
@@ -6814,15 +6218,11 @@ PARÁGRAFO . Si por el abandono del cargo se perjudicare el servicio, el emplead
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.11.1.11 — Retiro por revocatoria del nombramiento por no acreditar los requisitos para el desempeño del empleo
 
 Cuando la administración verifique que se produjo un nombramiento o posesión en un cargo o empleo público sin el lleno de los requisitos exigidos, deberá contar con el previo consentimiento expreso del empleado para la revocatoria del acto. El procedimiento se adelantará en el marco del debido proceso y el respeto al principio de buena fe que rige las actuaciones administrativas, y deberá ceñirse al procedimiento previsto en la Ley 1437 de 2011 o en las normas que la modifiquen, adicionen o sustituyan.
 
 (Modificado por el Art. 2 del Decreto 648 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.11.1.12 — Retiro del servicio de los empleados de carrera
 
@@ -6833,8 +6233,6 @@ El retiro del servicio de los empleados de carrera se produce por cualquiera de 
 CAPÍTULO 2
 
 DERECHOS DE LOS EMPLEADOS DE CARRERA POR SUPRESIÓN DEL EMPLEO
-
-ARTÍCULO
 
 ## art:2.2.11.2.1 — Derechos de los empleados de carrera por supresión del empleo
 
@@ -6848,23 +6246,17 @@ PARÁGRAFO . Producida la reincorporación, el tiempo servido antes de la supres
 
 (Decreto 1227 de 2005, art. 87)
 
-ARTÍCULO
-
 ## art:2.2.11.2.2 — Incorporación
 
 Cuando se reforme total o parcialmente la planta de empleos de una entidad y los cargos de carrera de la nueva planta sean iguales o se distingan de los que conformaban la planta anterior solamente en su denominación, los titulares con derechos de carrera de los anteriores empleos deberán ser incorporados en la situación en que venían, por considerarse que no hubo supresión efectiva de estos, sin que se les exija requisitos superiores para su desempeño.
 
 (Decreto 1227 de 2005, art. 88)
 
-ARTÍCULO
-
 ## art:2.2.11.2.3 — Empleos equivalentes
 
 Se entiende que un cargo es equivalente a otro cuando tienen asignadas funciones iguales o similares, para su desempeño se exijan requisitos de estudio, experiencia y competencias laborales iguales o similares y tengan una asignación básica mensual igual o superior, sin que en ningún caso la diferencia salarial supere los dos grados siguientes de la respectiva escala cuando se trata de empleos que se rijan por la misma nomenclatura, o el 10% de la asignación básica cuando a los empleos se les aplique nomenclatura diferente.
 
 (Decreto 1227 de 2005, art. 89 modificado por el art. 1 del Decreto 1746 de 2006)
-
-ARTÍCULO
 
 ## art:2.2.11.2.4 — Indemnización
 
@@ -6892,8 +6284,6 @@ La indemnización de que trata el artículo 44 de la Ley 909 de 2004, se liquida
 
 (Decreto 1227 de 2005, art. 90)
 
-ARTÍCULO
-
 ## art:2.2.11.2.5 — Pago de la indemnización
 
 El pago de la indemnización estará a cargo de la entidad que retira al empleado y deberá cancelarse en efectivo dentro de los dos (2) meses siguientes a la fecha de liquidación de la misma. En caso de mora en el pago se causarán intereses a favor del ex empleado a la tasa variable de los depósitos a término fijo (DTF) que señale el Banco de la República, a partir de la fecha del acto de liquidación.
@@ -6902,23 +6292,17 @@ PARÁGRAFO . Los valores cancelados por concepto de indemnización no constituye
 
 (Decreto 1227 de 2005, art. 91)
 
-ARTÍCULO
-
 ## art:2.2.11.2.6 — Retiro del servicio con indemnización
 
 El retiro del servicio con indemnización de que trata este título no será impedimento para que el empleado desvinculado pueda acceder nuevamente a empleos públicos.
 
 (Decreto 1227 de 2005, art. 92)
 
-ARTÍCULO
-
 ## art:2.2.11.2.7 — Supresión de un empleo de libre nombramiento y remoción que esté siendo ejercido en comisión por un empleado de carrera
 
 Cuando se suprima un empleo de libre nombramiento y remoción que esté siendo ejercido en comisión por un empleado de carrera, este regresará inmediatamente al cargo de carrera del cual sea titular.
 
 (Decreto 1227 de 2005, art. 93)
-
-ARTÍCULO
 
 ## art:2.2.11.2.8 — Supresión de un cargo de carrera cuyo titular sea una empleada de carrera en estado de embarazo
 
@@ -6939,8 +6323,6 @@ SECCION 1
 DEFINICIONES
 
 (Adicionado por el Decreto 648 de 2017, art 3)
-
-ARTÍCULO
 
 ## art:2.2.12.1.1.1 — Definiciones
 
@@ -6964,8 +6346,6 @@ SECCIÓN 2
 
 PROTECCIÓN ESPECIAL
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.1 — Destinatarios
 
 No podrán ser retirados del servicio las madres o padres cabezas de familia sin alternativa económica, las personas con limitación física, mental, visual o auditiva, y los servidores que cumplan la totalidad de los requisitos de edad y tiempo de servicio para disfrutar de su pensión de jubilación o de vejez, en el término de tres (3) años, según las definiciones establecidas en el artículo 2.2.11.3.1.1, (sic)debe entenderse que la referencia correcta es el artículo 2.2.12.1.1.1 del presente decreto.
@@ -6975,8 +6355,6 @@ No podrán ser retirados del servicio las madres o padres cabezas de familia sin
 (Ver Sentencias de la Corte Constitucional SU-049 de 2017, T-305 y SU-040 de 2018)
 
 (Ver Sentencia del Consejo de Estado 00877 de 2017)
-
-ARTÍCULO
 
 ## art:2.2.12.1.2.2 — Tramite
 
@@ -7014,8 +6392,6 @@ PARÁGRAFO . En el caso de los organismos y entidades que cuenten con plantas te
 
 (Ver Sentencia de la Corte Constitucional T-623 de 2011)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.3 — Pérdida del derecho
 
 La estabilidad laboral a la que hace referencia este capítulo cesará cuando se constate que el ex empleado ya no hace parte del grupo de personas beneficiarias de la protección especial.
@@ -7024,15 +6400,11 @@ En todo caso, la estabilidad laboral cesará una vez finalice el proceso de supr
 
 (Adicionado por el Art. 3 del Decreto 648 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.4 — Provisión definitiva de cargos públicos a través de concursos de mérito
 
 Para el caso de la provisión definitiva de cargos públicos a través de concursos de mérito de servidores públicos vinculados mediante nombramiento provisional que les falte tres (3) años o menos para causar el derecho a la pensión de jubilación o de vejez, se deberá tener en cuenta lo establecido en el parágrafo 2 del artículo 263 de la Ley 1955 de 2019."
 
 (Adicionado por el Art. 2 del Decreto 1415 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.12.1.2.5 — De la reubicación para los servidores públicos prepensionados
 
@@ -7040,15 +6412,11 @@ En cumplimiento de la protección especial en caso de reestructuración administ
 
 (Adicionado por el Art. 3 del Decreto 1415 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.12.1.2.6 — Deberes de los servidores públicos que se encuentren en condición de protección especial
 
 Los servidores públicos que les falten tres (3) años o menos para reunir los requisitos legales para el reconocimiento de la pensión de jubilación o de vejez, así como aquellos que cuenten con algún tipo de condición de protección especial, deberán cumplir con sus responsabilidades y funciones establecidas en la normatividad vigente."
 
 (Adicionado por el Art. 4 del Decreto 1415 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.12.1 — Reformas de las plantas de empleos
 
@@ -7071,8 +6439,6 @@ PARÁGRAFO 2. La administración antes de la expedición del acto administrativo
 (Ver Directiva Presidencial 09 de 2018)
 
 (Ver Ley 760 de 2005, Art. 28)
-
-ARTÍCULO
 
 ## art:2.2.12.2 — Motivación de la modificación de una planta de empleos
 
@@ -7106,8 +6472,6 @@ Cuando se reforme total o parcialmente la planta de empleos de una entidad, no t
 
 (Ver Decreto 1227 de 2005, art. 96)
 
-ARTÍCULO
-
 ## art:2.2.12.3 — Estudios que soporten las modificaciones de las plantas de empleos
 
 Los estudios que soporten las modificaciones de las plantas de empleos deberán basarse en metodologías de diseño organizacional y ocupacional que contemplen, como mínimo, los siguientes aspectos:
@@ -7128,23 +6492,17 @@ VINCULACIÓN LABORAL DE PERSONAS CON DISCAPACIDAD EN EL SECTOR PÚBLICO
 
 (Ver Circular Conjunta 01 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.12.2.1 — Objeto
 
 Establecer el porcentaje de vinculación laboral de personas con discapacidad en las entidades del sector público.
 
 (Decreto 2011 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.12.2.2 — Campo de Aplicación
 
 El presente Capítulo se aplica a los órganos, organismos y entidades del Estado en sus tres ramas del poder público, a nivel nacional, departamental, distrital y municipal, en los sectores central y descentralizado y a los órganos autónomos e independientes.
 
 (Decreto 2011 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.12.2.3 — Porcentaje de vinculación de personas con discapacidad en el sector público
 
@@ -7210,8 +6568,6 @@ Al 31 de diciembre de 2027
 
 (Decreto 2011 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.12.2.4 — Sanciones
 
 La omisión a las obligaciones impuestas en el presente Capítulo por parte de los empleados públicos; los trabajadores oficiales: los miembros de corporaciones de elección popular; los contratistas del Estado y los particulares que cumplan funciones públicas, ,del orden nacional, departamental y municipal, en el sector central y descentralizado, y en cualquiera de las ramas del poder, se considerará falta grave en los términos del régimen disciplinario, de conformidad con lo dispuesto en el artículo 31 de la Ley 1618 de 2013".
@@ -7229,8 +6585,6 @@ CAPÍTULO 3
 ## art:2.2.12.3.2 — (Sustituido por el Art
 
 1, Decreto 859 de 2025). Ámbito de aplicación. Las disposiciones del presente Capítulo, aplican a las entidades de la Rama Ejecutiva del orden nacional y territorial.
-
-ARTÍCULO
 
 ## art:2.2.12.3.3 — (Sustituido por el Art
 
@@ -7436,8 +6790,6 @@ CAPÍTULO 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.13.1.1 — Políticas de la gestión de gerentes públicos
 
 Al Departamento Administrativo de la Función Pública le corresponde la formulación de las políticas relacionadas con el ingreso, capacitación y evaluación de la gestión de los gerentes públicos.
@@ -7446,15 +6798,11 @@ Al Departamento Administrativo de la Función Pública le corresponde la formula
 
 (Ver Ley 909 de 2004, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.13.1.2 — Provisión de empleos de gerencia pública
 
 Los empleos de libre nombramiento y remoción que hayan sido calificados por la Ley 909 de 2004 como de Gerencia Pública, sin perjuicio de la discrecionalidad que los caracteriza, se proveerán por criterios de mérito, capacidad y experiencia, mediante cualquiera de los procedimientos previstos en la mencionada ley.
 
 (Decreto 1227 de 2005, art. 99)
-
-ARTÍCULO
 
 ## art:2.2.13.1.3 — Proceso meritocrático para la selección de los gerentes públicos
 
@@ -7462,15 +6810,11 @@ El proceso meritocrático para la selección de los gerentes públicos se inicia
 
 (Decreto 1227 de 2005, art. 100)
 
-ARTÍCULO
-
 ## art:2.2.13.1.4 — Capacitación y desarrollo de los gerentes públicos
 
 Las acciones de capacitación y desarrollo de los gerentes públicos deberán establecerse a partir de la evaluación de los resultados de su gestión y orientarse a la identificación, definición y fortalecimiento de las competencias gerenciales.
 
 (Decreto 1227 de 2005, art. 101)
-
-ARTÍCULO
 
 ## art:2.2.13.1.5 — 
 
@@ -7480,23 +6824,17 @@ Evaluación de la gestión gerencial. La evaluación de la gestión gerencial se
 
 (Decreto 1227 de 2005, art. 102)
 
-ARTÍCULO
-
 ## art:2.2.13.1.6 — Acuerdo de Gestión
 
 El Acuerdo de Gestión se pactará para una vigencia anual, la cual debe coincidir con los períodos de programación y evaluación previstos en el ciclo de planeación de la entidad. Habrá períodos inferiores dependiendo de las fechas de vinculación del respectivo gerente público. Cuando un compromiso abarque más del tiempo de la vigencia del acuerdo, se deberá determinar un indicador que permita evaluarlo con algún resultado en el período anual estipulado.
 
 (Decreto 1227 de 2005, art. 103)
 
-ARTÍCULO
-
 ## art:2.2.13.1.7 — Concertación
 
 El Acuerdo de Gestión debe ser producto de un proceso concertado entre el superior jerárquico y cada gerente público, entendiendo la concertación como un espacio de intercambio de expectativas personales y organizacionales, sin que se vea afectada la facultad que tiene el nominador para decidir.
 
 (Decreto 1227 de 2005, art. 104)
-
-ARTÍCULO
 
 ## art:2.2.13.1.8 — Responsables
 
@@ -7506,23 +6844,17 @@ El jefe de recursos humanos o quien haga sus veces será el responsable de sumin
 
 (Decreto 1227 de 2005, art. 105)
 
-ARTÍCULO
-
 ## art:2.2.13.1.9 — Términos de concertación y formalización del Acuerdo de gestión
 
 En un plazo no mayor de cuatro (4) meses, contados a partir la fecha de la posesión en su cargo, el gerente público y su superior jerárquico concertarán y formalizarán el Acuerdo de Gestión, tiempo durante el cual desarrollará los aprendizajes y acercamientos necesarios para llegar a un acuerdo objetivo.
 
 (Decreto 1227 de 2005, art. 106)
 
-ARTÍCULO
-
 ## art:2.2.13.1.10 — Seguimiento
 
 Los compromisos pactados en el acuerdo de gestión deberán ser objeto de seguimiento permanente por parte del superior jerárquico. De dicho seguimiento se dejará constancia escrita de los aspectos más relevantes que servirán de soporte para la evaluación anual del Acuerdo.
 
 (Decreto 1227 de 2005, art. 107)
-
-ARTÍCULO
 
 ## art:2.2.13.1.11 — Evaluación
 
@@ -7534,8 +6866,6 @@ La función de evaluar será indelegable y se llevará a cabo dejando constancia
 
 (Decreto 1227 de 2005, art. 108)
 
-ARTÍCULO
-
 ## art:2.2.13.1.12 — Metodología para la elaboración, seguimiento y evaluación de los Acuerdos de Gestión
 
 El Departamento Administrativo de la Función Pública diseñará una metodología para la elaboración, seguimiento y evaluación de los Acuerdos de Gestión, que podrá ser adoptada por las entidades.
@@ -7545,8 +6875,6 @@ En caso de no ser adoptada, las entidades deberán desarrollar su propia metodol
 (Decreto 1227 de 2005, art. 109)
 
 (Ver Ley 909 de 2004, art. 50)
-
-ARTÍCULO
 
 ## art:2.2.13.1.13 — 
 
@@ -7558,15 +6886,11 @@ CAPÍTULO 2
 
 MERITOCRACIA EN LA PROVISIÓN DE LOS EMPLEOS DE LIBRE NOMBRAMIENTO Y REMOCIÓN DE LA RAMA EJECUTIVA DEL ORDEN NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.13.2.1 — Transparencia en los procesos de vinculación de servidores
 
 En la provisión de los empleos de libre nombramiento y remoción de la Rama Ejecutiva del orden nacional y de los niveles diferentes al técnico y al asistencial, sin perjuicio de la discrecionalidad propia de la naturaleza del empleo, se tendrán en cuenta la transparencia en los procesos de vinculación de servidores, las competencias laborales, el mérito, la capacidad y experiencia, las calidades personales y su capacidad en relación con las funciones y responsabilidades del empleo.
 
 (Decreto 4567 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.13.2.2 — Evaluación de las competencias
 
@@ -7590,8 +6914,6 @@ PARÁGRAFO . La revisión y certificación de cumplimiento de los requisitos est
 
 Nota: (Ver Decreto 1466 de 2018); (Ver Decreto 1622 de 2018)
 
-ARTÍCULO
-
 ## art:2.2.13.2.3 — Procedimiento
 
 El órgano técnico o la entidad encargada de verificar las competencias laborales indicarán al nominador si el candidato a ocupar el empleo de libre nombramiento y remoción cumple con las competencias requeridas y se ajusta al perfil del cargo.
@@ -7614,8 +6936,6 @@ PARÁGRAFO . No se requerirá la publicación de la hoja de vida de los aspirant
 
 Nota: (Ver Decreto 1466 de 2018); (Ver Decreto 1622 de 2018) (Ver Decreto 1784 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.13.2.4 — Naturaleza del empleo de libre nombramiento y remoción
 
 El proceso de qué trata el presente Capítulo no implica el cambio de la naturaleza de libre nombramiento y remoción del cargo a proveer ni genera derechos de carrera.
@@ -7629,8 +6949,6 @@ COMISIONES DE PERSONAL
 CAPÍTULO 1
 
 CONFORMACIÓN DE LAS COMISIONES DE PERSONAL
-
-ARTÍCULO
 
 ## art:2.2.14.1.1 — Conformación de la Comisión de Personal
 
@@ -7652,15 +6970,11 @@ PARÁGRAFO . Las Comisiones de Personal establecerán su reglamento de funcionam
 
 (Ver Decreto 430 de 2016, arts. 18 y 19)
 
-ARTÍCULO
-
 ## art:2.2.14.1.2 — Aplicación de las disposiciones relacionadas con las comisiones de personal
 
 De acuerdo con lo establecido en la ley 909 de 2004, las disposiciones relacionadas con las comisiones de personal serán aplicables en su integridad a los empleados públicos del Ministerio de Defensa Nacional, las entidades descentralizadas adscritas o vinculadas al Ministerio de Defensa Nacional, de las Fuerzas Militares y de la Policía Nacional y solo para los efectos previstos en el presente título, el Comando General de las Fuerzas Militares, los Comandos de Fuerza y la Policía Nacional se considerarán como una entidad.
 
 (Decreto 1228 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.14.1.3 — Secretario de la Comisión de Personal
 
@@ -7672,15 +6986,11 @@ CAPÍTULO 2
 
 REPRESENTANTES DE LOS EMPLEADOS EN LA COMISIÓN DE PERSONAL
 
-ARTÍCULO
-
 ## art:2.2.14.2.1 — Elección de los representantes de los empleados
 
 Para la elección de los representantes de los empleados en la Comisión de Personal y los suplentes, el Jefe de la entidad o de la dependencia regional o seccional, según sea el caso, convocará a elecciones con una antelación no inferior a treinta (30) días hábiles al vencimiento del respectivo periodo.
 
 (Decreto 1228 de 2005, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.14.2.2 — Convocatoria
 
@@ -7702,8 +7012,6 @@ La convocatoria se divulgará ampliamente y contendrá por lo menos la siguiente
 
 (Decreto 1228 de 2005, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.14.2.3 — Calidades de los representantes de los empleados
 
 Los aspirantes a ser representantes de los empleados en la Comisión de Personal deberán acreditar las siguientes calidades:
@@ -7714,15 +7022,11 @@ Los aspirantes a ser representantes de los empleados en la Comisión de Personal
 
 (Decreto 1228 de 2005, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.14.2.4 — Inscripciones
 
 Los candidatos a ser representantes de los empleados ante la Comisión de Personal deberán inscribirse y acreditar las calidades exigidas en el artículo anterior, ante el Jefe de la Unidad de Personal o ante quien haga sus veces en la respectiva entidad o en la dependencia regional o seccional, dentro de los cinco (5) días siguientes a la divulgación de la convocatoria. Si dentro de dicho término no se inscribieren por lo menos cuatro (4) candidatos o los inscritos no acreditaren los requisitos exigidos, este término se prorrogará por un lapso igual.
 
 (Decreto 1228 de 2005, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.14.2.5 — Divulgación de inscritos y designación de jurados
 
@@ -7733,8 +7037,6 @@ Para efectos de la respectiva elección el Jefe de la Unidad de Personal o quien
 La notificación a los jurados se efectuará mediante la publicación de la lista respectiva el día hábil siguiente al de su designación.
 
 (Decreto 1228 de 2005, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.14.2.6 — Jurados de votación
 
@@ -7756,15 +7058,11 @@ Corresponderá a los jurados de votación:
 
 (Decreto 1228 de 2005, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.14.2.7 — Lista de votantes
 
 El Jefe de la Unidad de Personal o quien haga sus veces en la entidad o en la dependencia regional o seccional publicará durante los dos (2) días anteriores a la elección, la lista general de votantes con indicación del documento de identidad y del número y ubicación de la mesa de votación en la que les corresponderá votar.
 
 (Decreto 1228 de 2005, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.14.2.8 — Votaciones
 
@@ -7776,8 +7074,6 @@ Surtido el anterior trámite la urna se abrirá públicamente y se contarán uno
 
 (Decreto 1228 de 2005, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.14.2.9 — Escrutinio
 
 Los jurados procederán a hacer el escrutinio y a anotar en la correspondiente acta el número de votos emitidos en favor de cada candidato, así como el de los votos en blanco. Los votos que no permitan identificar claramente la decisión del votante no serán computados.
@@ -7785,8 +7081,6 @@ Los jurados procederán a hacer el escrutinio y a anotar en la correspondiente a
 Una vez terminado el escrutinio se leerá el resultado en voz alta y el jurado o jurados entregarán al Jefe de la Unidad de Personal o a quien haga sus veces los votos y los demás documentos utilizados. De lo todo lo anterior se dejará constancia en el acta de escrutinio que será firmada por los miembros del jurado de votación y entregada al Jefe de la Unidad de Personal o a quien haga sus veces.
 
 (Decreto 1228 de 2005, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.14.2.10 — Reclamaciones
 
@@ -7796,15 +7090,11 @@ Resueltas las reclamaciones o solicitudes, el Jefe de Personal o quien haga sus 
 
 (Decreto 1228 de 2005, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.14.2.11 — Elección de representantes de los empleados
 
 Serán elegidos como representantes de los empleados en la Comisión de Personal, los candidatos que obtengan mayoría de votos en estricto orden. Como suplentes serán elegidos los que obtengan el tercero y cuarto lugar, quienes en su orden reemplazarán a los principales.
 
 (Decreto 1228 de 2005, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.14.2.12 — Procedimiento en caso de empate
 
@@ -7814,8 +7104,6 @@ Si el número de votos a favor de más de dos candidatos fuere igual, la elecci�
 
 (Decreto 1228 de 2005, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.14.2.13 — Periodo
 
 Los representantes de los empleados en la Comisión de Personal y sus suplentes serán elegidos para períodos de dos (2) años, que se contarán a partir de la fecha de la comunicación de la elección.
@@ -7824,15 +7112,11 @@ Los representantes de los empleados y sus suplentes no podrán ser reelegidos pa
 
 (Decreto 1228 de 2005, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.14.2.14 — Faltas
 
 Las faltas temporales de los representantes de los empleados en la Comisión de Personal serán llenadas por los suplentes. En caso de falta absoluta de un representante de los empleados el suplente asumirá tal calidad hasta el final el período. En caso de que por alguna circunstancia el número de los representantes de los empleados en la Comisión de Personal no se ajuste a lo establecido en la Ley 909 de 2004, se convocará a elecciones dentro de los cinco (5) días siguientes a la fecha en que se tenga conocimiento de tal hecho.
 
 (Decreto 1228 de 2005, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.14.2.15 — Empleados públicos de una dependencia regional o seccional
 
@@ -7840,15 +7124,11 @@ Cuando el número de empleados públicos de carrera de una dependencia regional 
 
 (Decreto 1228 de 2005, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.14.2.16 — Participación de provisionales como electores o participantes
 
 En las entidades en las cuales no haya personal de carrera administrativa, o el número de empleados de carrera no haga posible la conformación de la Comisión de Personal podrán participar como electores o aspirantes, las personas que se encuentren vinculadas en calidad de provisionales.
 
 (Decreto 1228 de 2005, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.14.2.17 — Información que requieran los representantes de los empleados ante las Comisiones de Personal
 
@@ -7857,8 +7137,6 @@ La información que requieran los representantes de los empleados ante las Comis
 De igual forma, a los representantes de los empleados ante las Comisiones de Personal se les deberá otorgar el tiempo requerido para el cumplimiento de sus funciones.
 
 (Decreto 2566 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.14.2.18 — Capacitación a los representantes de los empleados ante las Comisiones de Personal
 
@@ -7870,8 +7148,6 @@ A las actividades de capacitación que se programen podrán ser invitados como c
 
 (Decreto 2566 de 2014, art. 2; Inciso tercero Modificado por el Decreto 051 de 2018, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.14.2.19 — Permisos a los representantes de los empleados ante la Comisión de Personal
 
 Las entidades públicas deberán otorgar a los representantes de los empleados ante las Comisiones de Personal los permisos remunerados que sean necesarios para el cumplimiento de sus funciones y para que asistan a las capacitaciones establecidas en el artículo 2.2.14.2.18 del presente decreto
@@ -7881,8 +7157,6 @@ Las entidades públicas deberán otorgar a los representantes de los empleados a
 TÍTULO 15
 
 DIA DEL SERVIDOR PÚBLICO
-
-ARTÍCULO
 
 ## art:2.2.15.1 — Día nacional del servidor público
 
@@ -7896,23 +7170,17 @@ TÍTULO 16
 
 DECLARACIÓN DE BIENES Y RENTAS E INFORME DE ACTIVIDAD ECONÓMICA
 
-ARTÍCULO
-
 ## art:2.2.16.1 — Declaración de bienes y rentas
 
 Quien vaya a tomar posesión de un cargo público, deberá presentar la declaración de bienes y rentas, así como la información de la actividad económica privada.
 
 (Decreto 2232 de 1995, art 1 modificado por el Decreto 2204 de 1996, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.16.2 — Formulario único de declaración de bienes y rentas
 
 El Departamento Administrativo de la Función Pública elabora el formulario único de declaración de bienes y rentas, así como el informe de la actividad económica y sus actualizaciones de acuerdo con lo previsto en los artículos 13 y 14 de la Ley 190 de 1995, y en todo caso, considerando el artículo 24 del Decreto-Ley 2150 de 1995.
 
 (Decreto 2232 de 1995, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.16.3 — (Modificado por el Decreto Nacional 484 de 2017, Art.1) Corte de cuentas
 
@@ -7938,8 +7206,6 @@ Una vez las entidades y organismos públicos se vinculen al Sistema de Informaci
 
 (Ver Circular Externa 100-006 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.16.5 — Verificación
 
 El jefe de la unidad de personal de las entidades, será responsable de verificar el cumplimiento de la presentación tanto de la declaración como de la información de la actividad económica en cada momento.
@@ -7947,8 +7213,6 @@ El jefe de la unidad de personal de las entidades, será responsable de verifica
 El servidor público renuente a cumplir este requisito, será sancionado según el reglamento aplicable.
 
 (Decreto 2232 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.16.6 — Comprobación selectiva de veracidad
 
@@ -7960,15 +7224,11 @@ TÍTULO 17
 
 SISTEMA DE INFORMACIÓN Y GESTIÓN DEL EMPLEO PÚBLICO: SIGEP
 
-ARTÍCULO
-
 ## art:2.2.17.1 — Objeto
 
 Por medio del presente Título se establecen los criterios y directrices para la operación del Sistema General de Información Administrativa del Sector Público de que trata la Ley 909 de 2004, que en adelante corresponderá a la denominación de Sistema de Información y Gestión del Empleo Público (SIGEP).
 
 (Decreto 2842 de 2010, art. 1) (Ver Ley 489 de 1998, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.17.2 — Campo de aplicación
 
@@ -7976,15 +7236,11 @@ El presente título se aplica a todos los organismos y las entidades del sector 
 
 (Decreto 2842 de 2010, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.17.3 — Objetivos del SIGEP
 
 Los objetivos del Sistema de Información y Gestión del Empleo Público (SIGEP) son: registrar y almacenar información en temas de organización institucional y personal al servicio del Estado; facilitar los procesos, seguimiento y evaluación de la organización institucional y de los recursos humanos al interior de cada entidad, consolidando la información que sirva de soporte para la formulación de políticas y la toma de decisiones por parte del Gobierno Nacional; igualmente, permitir el ejercicio del control social, suministrando a los ciudadanos la información en la normatividad que rige a los órganos y a las entidades del Sector Público, en cuanto a su creación, estructura, plantas de personal, entre otros.
 
 (Decreto 2842 de 2010, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.17.4 — 
 
@@ -8008,15 +7264,11 @@ ARTÍCULO
 
 (Decreto 2842 de 2010, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.17.5 — Usuarios del Sistema de Información y Gestión del Empleo Público (SIGEP)
 
 Serán usuarios del SIGEP las instituciones públicas, los servidores públicos y los ciudadanos, teniendo en cuenta las restricciones de información y de acceso que sean establecidos por el Departamento Administrativo de la Función Pública.
 
 (Decreto 2842 de 2010, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.17.6 — Subsistemas
 
@@ -8030,8 +7282,6 @@ El SIGEP está organizado en los siguientes subsistemas:
 
 (Decreto 2842 de 2010, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.17.7 — 
 
 2.2.17.7 Responsabilidades de los representantes legales de las instituciones públicas que se integren al SIGEP y de los jefes de control interno. Las entidades y organismos a quienes se aplica el presente título son responsables de la operación, registro, actualización y gestión de la información de cada institución y del recurso humano a su servicio.
@@ -8041,8 +7291,6 @@ Es responsabilidad de los representantes legales de las entidades y organismos d
 Los jefes de control interno o quienes hagan sus veces, como responsables en el acompañamiento en la gestión institucional, deben realizar un seguimiento permanente para que la respectiva entidad cumpla con las obligaciones derivadas del presente título, en los términos y las condiciones en él establecidos y de acuerdo con las instrucciones que imparta el Departamento Administrativo de la Función Pública.
 
 (Decreto 2842 de 2010, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.17.8 — Fases para la operación del Sistema de Información y Gestión del Empleo Público, SIGEP
 
@@ -8056,8 +7304,6 @@ PARÁGRAFO 2. Para la asesoría, capacitación y acompañamiento que se realice 
 
 (Decreto 2842 de 2010, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.17.9 — Licenciamiento
 
 El licenciamiento para la operación del SIGEP fue adquirido por el Estado colombiano y cubre todas las entidades y organismos que integran el sector público, independientemente de su régimen jurídico. En consecuencia, las instituciones que se vinculen al Sistema no correrán con costos de uso y/o licenciamiento.
@@ -8065,8 +7311,6 @@ El licenciamiento para la operación del SIGEP fue adquirido por el Estado colom
 Sin perjuicio de lo señalado en el inciso anterior, las instituciones públicas deberán contar con los requerimientos técnicos necesarios para operar el Sistema, de acuerdo con las especificaciones que establezca el Departamento Administrativo de la Función Pública.
 
 (Decreto 2842 de 2010, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.17.10 — Formato de hoja de vida
 
@@ -8082,15 +7326,11 @@ Están obligados a diligenciar el formato único de hoja de vida, con excepción
 
 (Decreto 2842 de 2010, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.17.11 — Guarda y custodia de las hojas de vida y la declaración de bienes y rentas
 
 Continuará la obligación de mantener en la unidad de personal o de contratos o en las que hagan sus veces la información de hoja de vida y de bienes y rentas, según corresponda, aun después del retiro o terminación del contrato, y su custodia será responsabilidad del jefe de la unidad respectiva, siguiendo los lineamientos dados en las normas vigentes sobre la materia.
 
 (Decreto 2842 de 2010, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.17.12 — Régimen de transición
 
@@ -8110,8 +7350,6 @@ COMISIÓN DE PERSONAL
 
 (Título sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.1 — Calidades de los candidatos a ser representantes de los empleados ante la Comisión de Personal
 
 La Comisión de Personal de que trata el artículo 10 del Decreto ley 071 de 2020, es un organismo colegiado conformado por (2) representantes del Director General y sus suplentes, y dos (2) representantes de los empleados y sus suplentes.
@@ -8128,15 +7366,11 @@ PARÁGRAFO . En ningún caso el Subdirector de Gestión de Talento Humano o quie
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.2 — Elección y período de los representantes de los empleados ante la comisión de personal
 
 Los representantes principales y suplentes de los empleados públicos ante la Comisión de Personal serán elegidos por votación directa, universal y secreta de todos los empleados públicos que ocupen empleos de carrera de la planta de personal permanente de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, para un período de dos (2) años.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.3 — Responsables del proceso de elección
 
@@ -8144,15 +7378,11 @@ Corresponderá al Director General realizar la convocatoria al proceso para la e
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.4 — Etapas para la elección de los representantes de los empleados ante la Comisión de Personal
 
 La elección de los representantes de los empleados ante la Comisión de Personal, comprenderá las siguientes etapas: (i) Convocatoria, (ii) Inscripción de candidatos; (iii) Divulgación de los candidatos; (iv) Jornada de votación; (v) Escrutinio; (vi) Publicación de resultados; vii) Reclamaciones y viii) Declaración de integrantes.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.5 — Convocatoria a elección
 
@@ -8178,8 +7408,6 @@ La convocatoria se divulgará ampliamente a través de la intranet de la entidad
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.6 — Inscripción
 
 Los candidatos a integrar la Comisión de Personal deberán inscribirse de manera personal en fórmula junto con su respectivo suplente, dentro de los diez (10) días hábiles siguientes a la fecha de la convocatoria, en las dependencias y lugares que fije la misma, para lo cual deberán diligenciar el formato dispuesto para tal fin, manifestando la acreditación de las calidades exigidas.
@@ -8187,8 +7415,6 @@ Los candidatos a integrar la Comisión de Personal deberán inscribirse de maner
 El Subdirector de Gestión de Talento Humano verificará que los integrantes de la fórmula inscrita cumplan con las calidades exigidas para ser representantes de los empleados ante la Comisión de personal. El no cumplimiento por parte de uno o de ambos integrantes de la fórmula, será causal para no continuar en el proceso en calidad de candidatos.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.7 — Divulgación
 
@@ -8200,23 +7426,17 @@ A solicitud de los candidatos aceptados, la Subdirección de Gestión de Talento
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.8 — Lista de Electores
 
 Podrán participar como electores todos los empleados públicos que ocupen empleos de carrera de la planta de personal Humano o quien haga sus veces, publicará en la intranet durante los dos (2) días hábiles anteriores a la fecha de la elección, la lista de empleados que podrán ejercer su derecho al voto.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.9 — Comisión Escrutadora
 
 La Comisión Escrutadora estará conformada por el Director General o su delegado y un (1) representante de los electores designado por el Subdirector de Gestión de Talento Humano, tres (3) días antes de la elección. Como secretario de la Comisión Escrutadora actuará el Subdirector de Gestión de Talento Humano o quien haga sus veces.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.10 — Funciones de la Comisión Escrutadora
 
@@ -8232,8 +7452,6 @@ Corresponderá a los miembros de la Comisión Escrutadora, con fundamento en los
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.11 — Votación
 
 La votación se efectuará a través de voto electrónico, en un solo día, en forma simultánea en todo el país, y se abrirá y cerrará en las horas previstas en la convocatoria.
@@ -8241,8 +7459,6 @@ La votación se efectuará a través de voto electrónico, en un solo día, en f
 Para el efecto, los electores serán habilitados en el medio electrónico que se determine, según la información registrada en el aplicativo de administración de personal de la entidad. Los electores ejercerán su derecho al voto a través del medio habilitado para tal fin.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.12 — Escrutinio
 
@@ -8254,23 +7470,17 @@ Una vez terminado el escrutinio, se leerá el resultado y se entregarán al Subd
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.13 — Publicación
 
 El Subdirector de Gestión de Talento Humano o quien haga sus veces, publicará los resultados del escrutinio a través de la intranet de la entidad, a más tardar el día hábil siguiente de la entrega de resultados por parte de la Comisión Escrutadora.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.14 — Reclamaciones
 
 Durante el día hábil siguiente a la publicación del resultado del escrutinio, los candidatos podrán presentar reclamaciones por escrito, las cuales serán atendidas por el Subdirector de Gestión de Talento Humano o quien haga sus veces, dentro del término máximo de cinco (5) días hábiles. Resueltas las reclamaciones, la elección quedará en firme y el Subdirector de Gestión de Talento Humano o quien haga sus veces, publicará el resultado definitivo de las votaciones.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.15 — Representantes y suplentes
 
@@ -8284,8 +7494,6 @@ PARÁGRAFO 2. Cuando en el resultado de la elección de los representantes de lo
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.16 — Declaración de la Integración
 
 Publicado el resultado de la elección por parte del Subdirector de Gestión de Talento Humano o quien haga sus veces, el Director General declarará integrada la Comisión de Personal, mediante acto administrativo que dará a conocer a los empleados públicos de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN.
@@ -8294,8 +7502,6 @@ PARÁGRAFO . La Comisión de Personal, deberá comenzar a sesionar dentro de los
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.17 — Ausencia de inscripción de candidatos de los empleados públicos ante la Comisión de Personal
 
 Si dentro de los diez (10) días hábiles siguientes a la divulgación de la convocatoria para integrar la Comisión de Personal, no se inscribieren por lo menos dos (2) candidatos principales con sus respectivos suplentes o los aspirantes no acreditaren las calidades exigidas, el término para la inscripción se prorrogará por cinco (5) días hábiles.
@@ -8303,8 +7509,6 @@ Si dentro de los diez (10) días hábiles siguientes a la divulgación de la con
 Si surtido el proceso antes descrito no se completa el número de representantes requerido, el Director General procederá a designar transitoriamente a los representantes de los empleados públicos y convocará una nueva elección en un término no superior a tres meses. De no surtirse la inscripción, los representantes designados por el Director General permanecerán por un período.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.18 — Faltas Temporales y Absolutas
 
@@ -8324,15 +7528,11 @@ Se entiende por falta absoluta: i) la desvinculación de la Entidad por cualquie
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.1.19 — Impedimentos y Recusaciones
 
 A los miembros de la Comisión de Personal, les aplican las causales de impedimento y de recusación previstas en el artículo 11 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.1.20 — Secretaria Técnica
 
@@ -8343,8 +7543,6 @@ Hará las veces de secretario de la Comisión de Personal, el Subdirector de Tal
 CAPÍTULO 2
 
 EVALUACIÓN DEL DESEMPEÑO
-
-ARTÍCULO
 
 ## art:2.2.18.2.1 — Planeación institucional en la evaluación del desempeño
 
@@ -8359,8 +7557,6 @@ PARÁGRAFO 1. Las reclamaciones a las que hace referencia este artículo se pres
 PARÁGRAFO 2. Para efectos de lo establecido en el presente capítulo, el término "áreas" comprende las Direcciones del Nivel Central, las Subdirecciones, las Oficinas y las Direcciones Seccionales.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.2.2 — Componentes
 
@@ -8384,8 +7580,6 @@ PARÁGRAFO . Los pesos anteriormente mencionados, constituyen el valor porcentua
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.2.3 — Acciones para la excelencia
 
 En la etapa de concertación de la evaluación del desempeño, los funcionarios podrán acordar con su jefe inmediato acciones adicionales tendientes a superar el cumplimiento de los objetivos estratégicos y lograr alcanzar la excelencia en su gestión de desempeño; caso en cual podrá adicionarse a la calificación final hasta un 15%.
@@ -8393,8 +7587,6 @@ En la etapa de concertación de la evaluación del desempeño, los funcionarios 
 En todo caso, sólo podrá adicionarse el 15% de que trata el presente artículo, cuando la evaluación final sea igual o superior al 90%.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.2.4 — Categorías y puntajes
 
@@ -8410,8 +7602,6 @@ Excelente: Es la calificación que obtienen los funcionarios que han cumplido co
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.2.5 — Calificación definitiva
 
 La calificación definitiva del desempeño de los empleados es el resultado de la evaluación correspondiente a: i) el período anual con la ponderación de las evaluaciones parciales, si las hubiere y ii) de la evaluación extraordinaria.
@@ -8419,8 +7609,6 @@ La calificación definitiva del desempeño de los empleados es el resultado de l
 PARÁGRAFO . Si no existiera calificación, por la ocurrencia de alguna situación administrativa, o por actividad sindical debidamente autorizada, se tomará para todos los efectos legales la última calificación efectuada.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.2.6 — Comisión Interinstitucional
 
@@ -8436,8 +7624,6 @@ En lo no previsto en el presente artículo se aplicará lo dispuesto en el Códi
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.2.8 — Impedimentos y recusación
 
 Al evaluador, le aplican las causales de impedimento y de recusación previstas en el artículo 11 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -8448,15 +7634,11 @@ CAPÍTULO 3
 
 PLAN DE INCENTIVOS
 
-ARTÍCULO
-
 ## art:2.2.18.3.1 — Planes de incentivos
 
 Los planes de incentivos, que hacen parte de los planes de bienestar social, tienen por objeto otorgar reconocimientos por el buen desempeño, propiciando así una cultura de trabajo orientada a la calidad y productividad bajo un esquema de mayor compromiso con los objetivos estratégicos de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.3.2 — Plan de incentivos institucionales
 
@@ -8465,8 +7647,6 @@ El Director General de la Unidad Administrativa Especial Dirección de Impuestos
 Dicho plan se elaborará de acuerdo con los recursos institucionales disponibles para hacerlos efectivos. En todo caso los incentivos se ajustarán a lo establecido en la Constitución Política, la ley y lo dispuesto en el presente capítulo.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.3.3 — Incentivo por evaluación del desempeño
 
@@ -8478,15 +7658,11 @@ El incentivo de que trata el presente artículo se reconocerá con cargo a los r
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.3.4 — Apoyos educativos como incentivos
 
 Estos incentivos están destinados a la financiación de educación formal tanto de los funcionarios como de sus hijos y hacen parte de los programas de bienestar social dirigidos a los empleados.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.3.5 — Otorgamiento de Incentivos a los equipos de trabajo
 
@@ -8500,8 +7676,6 @@ PARÁGRAFO . Se entenderá por equipo de trabajo el grupo de personas, igual o i
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.3.6 — Requisitos de los equipos de trabajo
 
 Los trabajos presentados por los equipos de trabajo deberán reunir los siguientes requisitos para competir por los incentivos institucionales:
@@ -8511,8 +7685,6 @@ Los trabajos presentados por los equipos de trabajo deberán reunir los siguient
 2. Los resultados del trabajo presentado deben responder a criterios de excelencia y mostrar aportes significativos al servicio que ofrece la Entidad.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.3.7 — Reglas generales para la selección de los equipos de trabajo
 
@@ -8532,15 +7704,11 @@ PARÁGRAFO . La Dirección de Gestión a cargo de la planeación de la Entidad a
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.3.8 — Procedimiento
 
 El Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN o quien este delegue establecerá el procedimiento para la conformación y selección de los mejores equipos de trabajo y los criterios a seguir para dirimir los empates, con sujeción a lo señalado en el presente decreto.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.3.9 — Requisitos para participar de los incentivos institucionales
 
@@ -8744,8 +7912,6 @@ CAPÍTULO 4
 
 ACREDITACIÓN DE COMPETENCIAS LABORALES
 
-ARTÍCULO
-
 ## art:2.2.18.4.1 — Definiciones
 
 Para los efectos y fines previstos en el numeral 27.3 del artículo 27; artículo 56 y siguientes del Decreto Ley 071 de 2020 y acorde con los postulados internacionales en materia de Certificación de Competencias Laborales, para el desarrollo de esta reglamentación se entenderá por:
@@ -8768,8 +7934,6 @@ Para los efectos y fines previstos en el numeral 27.3 del artículo 27; artícul
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.4.2 — Lineamientos Técnicos de Competencias Laborales
 
 Este documento, que deberá ser revisado y actualizado cada dos años contendrá: (i) la identificación y definición de las competencias laborales, en particular las de acreditar para el concurso de ascenso como requisito habilitante; (ii) las diferentes etapas, los términos e instrumentos requeridos para la evaluación con fines de acreditación de las competencias laborales y (iii) los responsables del proceso de evaluación, acreditación y certificación de las competencias laborales.
@@ -8777,8 +7941,6 @@ Este documento, que deberá ser revisado y actualizado cada dos años contendrá
 PARÁGRAFO . La Escuela de Impuestos y Aduanas en un término no superior a un (1) mes contado a partir de la vigencia del presente decreto, propondrá al Director de Gestión Corporativa, el documento de Lineamientos Técnicos de Competencias Laborales, para efectos de someterlo a consideración y aprobación del Director General.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.4.3 — 
 
@@ -8800,15 +7962,11 @@ ARTÍCULO
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.4.4 — Recursos
 
 Contra la decisión que resuelve en forma definitiva el proceso de acreditación, proceden los recursos de reposición y en subsidio el de apelación en los términos del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.4.5 — Evaluación y Normalización de las Competencias Laborales
 
@@ -8820,8 +7978,6 @@ CAPÍTULO 5
 
 EMPLEO Y PERFIL
 
-ARTÍCULO
-
 ## art:2.2.18.5.1 — De las funciones y de los perfiles de los empleos
 
 En desarrollo de los principios consagrados en los numerales 3.4. y 3.6. del artículo 3 del Decreto Ley 071 de 2020, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, a través de la Subdirección de Talento Humano o la dependencia que haga sus veces, en coordinación con las áreas misionales y de apoyo definirá y actualizará las funciones y responsabilidades de los empleos; el perfil y las agrupaciones de los mismos según su nivel de complejidad y su consecuente ubicación en las áreas funcionales y procesos del Sistema Específico de Carrera, los cuales serán adoptados por el Director General mediante acto administrativo.
@@ -8829,8 +7985,6 @@ En desarrollo de los principios consagrados en los numerales 3.4. y 3.6. del art
 Para la actualización de los perfiles se tendrán en cuenta los cambios tecnológicos, legales, administrativos, estructurales o de los procesos de la Entidad.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.5.2 — Descripción del perfil
 
@@ -8851,8 +8005,6 @@ El perfil constituye uno de los componentes del empleo de la Unidad Administrati
 7. Impacto del cargo. Referido a la incidencia e implicaciones, cuantitativas o cualitativas que tiene el mismo en los resultados estratégicos y operacionales de la entidad.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.5.3 — Aplicación del perfil
 
@@ -8957,8 +8109,6 @@ CAPÍTULO 6
 
 PROCESO DE SELECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.18.6.1 — Convocatoria
 
 Corresponde a la Comisión Nacional del Servicio Civil iniciar los procesos de selección mediante la suscripción de la convocatoria, con base en las funciones, los requisitos y el perfil de los empleos definidos de acuerdo al Manual Especifico de Requisitos y Funciones.
@@ -8997,8 +8147,6 @@ PARÁGRAFO 2. Los exámenes médicos y de aptitudes psicofísicas establecidos e
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.6.2 — Reclamaciones
 
 Las reclamaciones que se generen durante el proceso de selección deben ser presentadas ante la Comisión Nacional del Servicio Civil o ante la entidad que esta delegue, para ser resueltas en única instancia en los términos y condiciones establecidos en el Decreto Ley 760 de 2005.
@@ -9007,15 +8155,11 @@ Las reclamaciones contra las decisiones que afecten de manera individual, partic
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.6.3 — Nombramiento en período de prueba
 
 Una vez en firme la lista de elegibles, el Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, dentro de los diez (10) días hábiles siguientes, en estricto orden de mérito, deberá efectuar el nombramiento en período de prueba en el empleo objeto del concurso, el cual no podrá ser provisto bajo ninguna otra modalidad. Lo anterior, sin perjuicio de lo previsto en el artículo 36 del Decreto Ley 071 de 2020.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.6.4 — Permanencia durante el período de prueba
 
@@ -9023,15 +8167,11 @@ El empleado que se encuentre en período de prueba tiene derecho a permanecer en
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.6.5 — Interrupción del período de prueba
 
 Cuando por justa causa haya interrupción en el período de prueba por un lapso superior a veinte (20) días continuos, este será prorrogado por igual término.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.6.6 — Situación especial de embarazo
 
@@ -9039,15 +8179,11 @@ Cuando una empleada en estado de embarazo se encuentre vinculada a un empleo en 
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.6.7 — Inscripción en el Registro Público del Sistema Específico de Carrera
 
 Aprobado el período de prueba, el empleado adquiere los derechos de carrera y deberá ser inscrito en el Registro Público Carrera del Sistema Específico de Carrera. Si el empleado no lo aprueba, una vez en firme la calificación, su nombramiento deberá ser declarado insubsistente por resolución motivada del nominador.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.6.8 — Contenido y administración del registro
 
@@ -9061,15 +8197,11 @@ Estas anotaciones se mantendrán hasta que se reporten las situaciones administr
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.18.6.9 — Capítulo especial
 
 El Registro Público Especial del Sistema Específico de Carrera de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, hará parte del Registro Público de Carrera Administrativa, como un capítulo especial. El reporte de la correspondiente información se efectuará conforme con la reglamentación que expida la Comisión Nacional del Servicio Civil.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.6.10 — Calidad de inscritos
 
@@ -9086,8 +8218,6 @@ CARGOS NACIONALES
 Los servidores públicos de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN son nombrados para todo el territorio nacional, sin embargo, para el ejercicio de sus funciones serán ubicados, dependiendo de las necesidades de los procesos y del servicio, en una dependencia o municipio específico a criterio del Director General de la Entidad.
 
 (Sustituido por el Art. 3 del Decreto 770 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.18.7.2 — 
 
@@ -9176,8 +8306,6 @@ PROVISIÓN LOS EMPLEOS.
 
 (Ver Art. 11 del Decreto Ley 775 de 2005)
 
-ARTÍCULO
-
 ## art:2.2.19.1.1 — Orden en la provisión de los empleos
 
 La provisión definitiva de los empleos del sistema específico de carrera administrativa de las superintendencias se realizará teniendo en cuenta el siguiente orden, siempre que se cumpla con los requisitos y el perfil correspondiente al cargo específico:
@@ -9193,8 +8321,6 @@ La provisión definitiva de los empleos del sistema específico de carrera admin
 De no darse las circunstancias señaladas en el presente artículo, se realizará el concurso o proceso de selección, de conformidad con lo establecido en este decreto.
 
 (Decreto 2929 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.19.1.2 — Encargos y nombramientos provisionales
 
@@ -9212,15 +8338,11 @@ CAPÍTULO 2
 
 PROCESOS DE SELECCIÓN.
 
-ARTÍCULO
-
 ## art:2.2.19.2.1 — Competencia para adelantar los procesos de selección
 
 Los procesos de selección serán adelantados por la Comisión Nacional de Servicio Civil directamente o a través de contratos o convenios suscritos con universidades públicas o privadas, instituciones de educación superior o entidades especializadas que demuestren su competencia técnica, capacidad logística y cuenten con personal con experiencia en procesos de selección. Asimismo, se podrán suscribir convenios interadministrativos para la realización de los procesos de selección, elaboración y aplicación de pruebas y apoyo logístico.
 
 (Decreto 2929 de 2005, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.19.2.2 — Modalidades de concursos
 
@@ -9232,23 +8354,17 @@ Cualquiera sea la modalidad del concurso, podrán participar todas las personas 
 
 (Decreto 2929 de 2005, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.19.2.3 — Criterios para la convocatoria
 
 Antes de suscribir la convocatoria a los concurso para proveer cargos vacantes, se deberá verificar que, además de los requisitos mínimos exigidos, el perfil de los mismos se haya diseñado para atender necesidades específicas de la Superintendencia y que las pruebas, su ponderación y calificación, conducirán a seleccionar el mejor candidato con ese perfil particular.
 
 (Decreto 2929 de 2005, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.19.2.4 — Empleo equivalente
 
 Se entenderá por empleos equivalentes aquellos que pertenezcan al mismo nivel jerárquico, cumplan funciones iguales o similares; para su desempeño se exijan los mismos o similares requisitos de experiencia y estudios e igual o similar perfil ocupacional y tengan grado salarial igual.
 
 (Decreto 2929 de 2005, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.19.2.5 — Contenido de la convocatoria
 
@@ -9278,23 +8394,17 @@ PARÁGRAFO . Cada Superintendente determinará si exige la documentación que so
 
 (Decreto 2929 de 2005, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.19.2.6 — Publicación de la lista de inscritos
 
 La lista de inscritos en cada convocatoria se deberá publicar dentro de los dos (2) días hábiles siguientes al vencimiento de la inscripción, en un lugar visible de público acceso en la Superintendencia así como en la respectiva página electrónica de la entidad.
 
 (Decreto 2929 de 2005, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.19.2.7 — Ampliación del plazo de inscripciones
 
 Cuando en los concursos del sistema específico de carrera no se inscriban candidatos o ninguno de los inscritos cumpla los requisitos, deberá ampliarse el plazo de inscripciones por un término adicional no inferior a cinco (5) días y el correspondiente aviso deberá publicarse y divulgarse de acuerdo con lo establecido en el Decreto-ley 775 de 2005. Si agotado el procedimiento anterior no se inscribiere ningún aspirante, el concurso será declarado desierto.
 
 (Decreto 2929 de 2005, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.19.2.8 — Lista de admitidos y no admitidos
 
@@ -9303,8 +8413,6 @@ Recibidos los formularios de inscripción, se verificará que los aspirantes cum
 Esta lista deberá ser fijada en lugar visible de público acceso en la superintendencia convocante y en la respectiva página electrónica, en la fecha prevista para el efecto en la convocatoria y permanecerá allí hasta la fecha de aplicación de la primera prueba.
 
 (Decreto 2929 de 2005, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.19.2.9 — Acta de concurso
 
@@ -9322,8 +8430,6 @@ De cada concurso el Secretario General remitirá al Superintendente, un acta en 
 
 (Decreto 2929 de 2005, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.19.2.10 — Valoración de las pruebas y lista de elegibles
 
 Las pruebas se valorarán en una escala de 0 a 100 puntos, cuyos resultados se ponderarán de acuerdo al peso que se le haya asignado a cada prueba dentro del proceso de selección. La lista de elegibles se conformará, en estricto orden de méritos, con los aspirantes que hayan obtenido un puntaje ponderado igual o superior a 80 puntos.
@@ -9337,8 +8443,6 @@ Quien sea nombrado y tome posesión del empleo para el cual concursó, o para un
 PARÁGRAFO . Una vez provisto el cargo objeto de concurso, las listas de elegibles resultado de un concurso general, conformadas en procesos de selección adelantados por cualquier superintendencia, podrán ser utilizadas por las demás, para proveer cargos de carrera equivalentes. En estos casos será potestativo de cada superintendente utilizar las listas de elegibles conformadas por otras superintendencias.
 
 (Decreto 2929 de 2005, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.19.2.11 — Archivo de los concursos
 
@@ -9367,8 +8471,6 @@ De todos los concursos que se realicen, el jefe de la unidad de personal o quien
 CAPÍTULO 3
 
 EVALUACIÓN DEL DESEMPEÑO LABORAL.
-
-ARTÍCULO
 
 ## art:2.2.19.3.1 — Eventos de evaluación
 
@@ -9400,15 +8502,11 @@ El resultado de la evaluación semestral será el promedio ponderado de todas la
 
 (Decreto 2929 de 2005, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.19.3.2 — Calificación del período de prueba
 
 Al vencimiento del período de prueba el empleado será evaluado en su desempeño laboral y se le efectuará la calificación definitiva de servicios, de conformidad con el instrumento que para el efecto establezca cada superintendencia.
 
 (Decreto 2929 de 2005, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.19.3.3 — Evaluaciones parciales durante el período de prueba
 
@@ -9424,15 +8522,11 @@ PARÁGRAFO . La evaluación parcial comprenderá la totalidad del término de la
 
 (Decreto 2929 de 2005, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.19.3.4 — Notificación
 
 La calificación del período de prueba y las evaluaciones parciales del mismo serán notificadas y comunicadas de acuerdo con lo previsto en el artículo 39 Decreto-ley 775 de 2005 y contra ella procederán los recursos en los términos previstos en el artículo 40 del citado decreto-ley.
 
 (Decreto 2929 de 2005, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.19.3.5 — 
 
@@ -9443,8 +8537,6 @@ ARTÍCULO
 CAPÍTULO 4
 
 COMPETENCIAS LABORALES.
-
-ARTÍCULO
 
 ## art:2.2.19.4.1 — Evaluación de competencias
 
@@ -9460,8 +8552,6 @@ El Superintendente establecerá, mediante resolución, la metodología para la e
 
 (Decreto 2929 de 2005, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.19.4.2 — Efectos de la evaluación
 
 Si una vez evaluadas las competencias de un empleado se determina que no se ajusta al perfil del cargo, o a las habilidades, destrezas, aptitudes y actividades esperadas, éste tendrá un plazo de seis (6) meses para acreditarlas, contados a partir de la comunicación del resultado, sometiéndose a un nuevo proceso de evaluación.
@@ -9473,8 +8563,6 @@ Si la evaluación insatisfactoria se mantiene, el Superintendente procederá a r
 CAPÍTULO 5
 
 RETIRO DEL SERVICIO.
-
-ARTÍCULO
 
 ## art:2.2.19.5.1 — Indemnización por supresión del cargo
 
@@ -9504,8 +8592,6 @@ La indemnización por supresión de cargo de empleados del sistema específico d
 
 (Decreto 2929 de 2005, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.19.5.2 — Retiro por supresión del empleo
 
 El retiro del servicio con indemnización por supresión del cargo de un empleado del sistema específico de carrera de las Superintendencias no será impedimento para que el empleado desvinculado pueda acceder nuevamente a empleos públicos.
@@ -9515,8 +8601,6 @@ El retiro del servicio con indemnización por supresión del cargo de un emplead
 CAPÍTULO 6
 
 CAPACITACIÓN, ESTÍMULOS Y BIENESTAR.
-
-ARTÍCULO
 
 ## art:2.2.19.6.1 — Principios básicos de la capacitación
 
@@ -9536,23 +8620,17 @@ Las Superintendencias administrarán la capacitación formal y no formal con bas
 
 (Decreto 2929 de 2005, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.19.6.2 — Cumplimiento de los deberes de capacitación
 
 El empleado designado o inscrito voluntariamente para participar en las jornadas que se desarrollen dentro del Programa Institucional de Capacitación, deberá cumplir con los requisitos de asistencia y calificación establecidos para el mismo. Cuando el servidor que haya sido designado o que se haya inscrito voluntariamente en un programa de capacitación, no cumpla con el mínimo de asistencia requerido o no obtenga calificación aprobatoria, deberá rembolsar a la superintendencia el valor monetario correspondiente al costo total del curso en el que hubiere incurrido la entidad respecto de dicho servidor.
 
 (Decreto 2929 de 2005, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.19.6.3 — Inducción, reinducción y actualización de competencias
 
 Los programas de capacitación de cada Superintendencia podrán incluir actividades de inducción, reinducción y de actualización de competencias laborales.
 
 (Decreto 2929 de 2005, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.19.6.4 — Programas especiales de capacitación y formación de supervisores e inspectores
 
@@ -9574,8 +8652,6 @@ Para el diseño, formulación, implementación y seguimiento de los programas de
 
 (Decreto 2929 de 2005, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.19.6.5 — Programa Institucional de Estímulos
 
 Cada Superintendencia elaborará anualmente un programa institucional de estímulos, el cual estará conformado por el conjunto interrelacionado y coherente de políticas, actividades, entidades, disposiciones legales y estímulos que interactúan con el propósito de reconocer y premiar los desempeños laborales sobresalientes, así como elevar los niveles de satisfacción, motivación, desarrollo y bienestar de los empleados de las superintendencias.
@@ -9583,8 +8659,6 @@ Cada Superintendencia elaborará anualmente un programa institucional de estímu
 (Decreto 2929 de 2005, art. 27)
 
 (Ver Ley 489 de 1998, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.19.6.6 — Principios básicos para los estímulos
 
@@ -9599,8 +8673,6 @@ Para el diseño, formulación, implementación y seguimiento de los planes y pro
 4. Economía: Las superintendencias deberán propender por el uso óptimo de los recursos destinados al programa de estímulos, privilegiando las alianzas estratégicas con entidades públicas y privadas que garanticen el desarrollo de acciones conjuntas.
 
 (Decreto 2929 de 2005, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.19.6.7 — Programas de estímulos
 
@@ -9632,8 +8704,6 @@ Los Superintendentes adoptarán anualmente el programa institucional de estímul
 
 (Decreto 2929 de 2005, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.19.6.8 — Consideraciones generales para la asignación de estímulos
 
 Los empleados con desempeño sobresaliente deben tener reconocimiento por parte del superior inmediato. Dicho reconocimiento se efectuará por escrito y se anexará a la hoja de vida.
@@ -9652,8 +8722,6 @@ En las Superintendencias donde existan seccionales o regionales se elegirán, de
 
 (Decreto 2929 de 2005, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.19.6.9 — Requisitos
 
 Los empleados deberán, reunir los siguientes requisitos para participar de los estímulos institucionales:
@@ -9666,8 +8734,6 @@ Los empleados deberán, reunir los siguientes requisitos para participar de los 
 
 (Decreto 2929 de 2005, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.19.6.10 — Bienestar
 
 Con los programas institucionales de bienestar se buscará intervenir en las áreas de calidad de vida laboral, entendida como las estrategias para mejorar el clima laboral, los estilos de dirección y servicios sociales, para atender las necesidades de protección, ocio, identidad y aprendizaje del empleado y su familia, con el propósito de mejorar sus niveles de salud, recreación y cultura.
@@ -9679,8 +8745,6 @@ La ejecución de los programas será realizada en forma directa o través de la 
 Se realizará una evaluación y seguimiento a los programas adelantados para verificar la eficacia de los mismos y decidir sobre su replanteamiento o continuidad.
 
 (Decreto 2929 de 2005, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.19.6.11 — Recursos Económicos
 
@@ -9698,8 +8762,6 @@ CAPÍTULO 1
 
 PROVISIÓN DE LOS EMPLEOS
 
-ARTÍCULO
-
 ## art:2.2.20.1.1 — Orden en la provisión de los empleos
 
 La provisión definitiva de los empleos de carrera en la Unidad Administrativa Especial de Aeronáutica Civil, Aerocivil, se efectuará teniendo en cuenta el siguiente orden:
@@ -9716,8 +8778,6 @@ Si agotadas las anteriores opciones no fuere posible la provisión del empleo, d
 
 (Decreto 2900 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.20.1.2 — Encargos y nombramientos provisionales
 
 Mientras se surte el proceso de selección, y una vez convocado este, los respectivos empleos podrán ser provistos mediante encargo efectuado a empleados de carrera o mediante nombramiento provisional o transitorio, de conformidad con lo establecido en el artículo 23 del Decreto-ley 790 de 2005.
@@ -9728,23 +8788,17 @@ El término de duración del encargo o del nombramiento provisional o transitori
 
 (Decreto 2900 de 2005, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.20.1.3 — Autorización de encargos y nombramientos provisionales
 
 El Consejo Administrador del Sistema Específico de Carrera podrá autorizar encargos y nombramientos provisionales o transitorios, sin previa convocatoria a concurso, cuando por razones de estricta necesidad para evitar la afectación en la prestación del servicio así lo solicite, por escrito y en forma motivada, el Director General de la Entidad. En estos casos, el concurso deberá ser convocado dentro de los seis (6) meses siguientes.
 
 (Decreto 2900 de 2005, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.20.1.4 — Nombramientos provisionales
 
 Tendrá el carácter de nombramiento provisional o transitorio aquel que se efectúe en un empleo de carrera sin haber precedido concurso o la vinculación de un empleado que ejerza un cargo de libre nombramiento y remoción que en virtud de la ley o de una decisión de la Corte Constitucional se convierta en cargo de carrera. En este último caso, tal carácter se adquiere a partir de la fecha en que opere el cambio de naturaleza del empleo, el cual deberá ser provisto teniendo en cuenta el orden de prioridad establecido en el presente Título.
 
 (Decreto 2900 de 2005, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.20.1.5 — Terminación de encargo o nombramientos provisionales
 
@@ -9756,23 +8810,17 @@ CAPÍTULO 2
 
 DE LOS PROCESOS DE SELECCIÓN O CONCURSOS
 
-ARTÍCULO
-
 ## art:2.2.20.2.1 — Competencia para adelantar los procesos de selección
 
 Los concursos para el ingreso y el ascenso en los empleos de carrera de la Aerocivil serán abiertos y su realización compete al Consejo Administrador del Sistema Específico de Carrera de la Aerocivil, el cual podrá apoyarse, para las etapas de inscripción, diseño, aplicación y evaluación de las pruebas y conformación de las listas de elegibles, en el Icfes, en las instituciones de Educación Superior, públicas o privadas, en el Centro de Estudios de Ciencias Aeronáuticas, CEA, en organismos o entidades nacionales e internacionales especializados en la materia o en las entidades acreditadas por la Comisión Nacional del Servicio Civil.
 
 (Decreto 2900 de 2005, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.20.2.2 — Fases de los procesos de selección
 
 El proceso de selección o concurso comprende la convocatoria, el reclutamiento, la aplicación de pruebas, la conformación de las listas de elegibles y el período de prueba.
 
 (Decreto 2900 de 2005, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.20.2.3 — Contenido de la convocatoria
 
@@ -9802,8 +8850,6 @@ PARÁGRAFO . Además de los términos establecidos en éste Título para cada un
 
 (Decreto 2900 de 2005, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.20.2.4 — Modificación de la convocatoria
 
 Antes de iniciarse las inscripciones, la convocatoria podrá ser modificada o complementada en cualquier aspecto por el Consejo Administrador del Sistema Específico de Carrera, lo cual deberá ser publicado por los mismos medios a través de los cuales se divulgó la convocatoria.
@@ -9817,8 +8863,6 @@ Las relacionadas con fechas o lugares de aplicación de las pruebas, deberán pu
 PARÁGRAFO . Corresponde al Consejo Administrador del Sistema Específico de Carrera dejar sin efecto la convocatoria, en cualquier etapa del proceso de selección previa al nombramiento en período de prueba, cuando en aquella se detecten errores u omisiones relacionados con el empleo objeto de concurso o con las pruebas o instrumentos de selección, cuando dichos errores u omisiones afecten de manera sustancial y grave el desarrollo del proceso de selección.
 
 (Decreto 2900 de 2005, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.20.2.5 — Divulgación de la convocatoria
 
@@ -9834,15 +8878,11 @@ PARÁGRAFO . En los avisos de prensa y de radio se dará la información básica
 
 (Decreto 2900 de 2005, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.20.2.6 — Fijación pública de la convocatoria
 
 El aviso de convocatoria, en su totalidad, se publicará con una antelación no inferior a cinco (5) días hábiles a la fecha de iniciación de las inscripciones, en un lugar de la entidad de fácil acceso al público, y en las páginas web de la Aerocivil y de la entidad contratada para la realización del concurso.
 
 (Decreto 2900 de 2005, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.20.2.7 — Inscripciones
 
@@ -9851,8 +8891,6 @@ Las inscripciones a los concursos se efectuarán ante las entidades que vayan a 
 PARÁGRAFO . El término para las inscripciones se determinará en cada convocatoria, y no podrá ser inferior a cinco (5) días.
 
 (Decreto 2900 de 2005, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.20.2.8 — Entrega y verificación de documentos
 
@@ -9864,8 +8902,6 @@ Cuando se exija experiencia relacionada, los certificados correspondientes deber
 
 (Decreto 2900 de 2005, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.20.2.9 — Inscripciones
 
 La inscripción se hará dentro del término previsto en la convocatoria o en el aviso de modificación, si lo hubiere, durante las horas laborales señaladas en la convocatoria que no podrán ser inferiores a cuatro (4) diarias.
@@ -9874,15 +8910,11 @@ La inscripción podrá hacerse personalmente por el aspirante o por quien fuere 
 
 (Decreto 2900 de 2005, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.20.2.10 — Ampliación de plazos de inscripciones
 
 Cuando en los concursos no se inscriban candidatos o ninguno de los inscritos acredite los requisitos, deberá ampliarse el plazo de inscripciones por un término igual al inicialmente previsto y el correspondiente aviso deberá publicarse y divulgarse de acuerdo con lo establecido en el presente Título para la convocatoria. Si agotado el procedimiento anterior no se inscribiere ningún aspirante, el concurso se declarará desierto por el Consejo Administrador del Sistema Específico de Carrera, caso en el cual se convocará un nuevo concurso.
 
 (Decreto 2900 de 2005, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.20.2.11 — Lista de admitidos y no admitidos
 
@@ -9892,15 +8924,11 @@ La lista deberá ser publicada en la página web de la entidad que realiza el co
 
 (Decreto 2900 de 2005, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.20.2.12 — Inconformidad por no admisión
 
 La inconformidad de los aspirantes no admitidos al concurso será manifestada por escrito durante los dos (2) días siguientes a la publicación de la respectiva lista ante la entidad que realiza el concurso, la cual responderá con una antelación no inferior a dos (2) días antes de la aplicación de la primera prueba.
 
 (Decreto 2900 de 2005, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.20.2.13 — Pruebas
 
@@ -9910,8 +8938,6 @@ PARÁGRAFO . El número de pruebas, su valor respecto del puntaje total del conc
 
 (Decreto 2900 de 2005, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.20.2.14 — Entrevista
 
 Cuando en un concurso se programe entrevista, ésta no podrá tener un valor superior al quince por ciento (15%) dentro de la calificación definitiva y el jurado calificador será integrado por un mínimo de tres (3) personas, cuyos nombres deberán darse a conocer con un mínimo tres (3) días de antelación a su realización.
@@ -9919,8 +8945,6 @@ Cuando en un concurso se programe entrevista, ésta no podrá tener un valor sup
 La entrevista deberá grabarse en medio magnetofónico, la cual se conservará en el archivo del concurso por un término no inferior a seis (6) meses, contados a partir de la fecha de expedición de la lista de elegibles. El jurado deberá dejar constancia escrita de las razones por las cuales descalifican o aprueban al entrevistado.
 
 (Decreto 2900 de 2005, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.20.2.15 — Concurso Curso y Curso-Concurso
 
@@ -9934,15 +8958,11 @@ PARÁGRAFO . El Consejo Administrador del Sistema Específico de Carrera determi
 
 (Decreto 2900 de 2005, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.20.2.16 — Análisis de antecedentes
 
 El Consejo Administrador del Sistema Específico de Carrera adoptará el instrumento para valorar los estudios, publicaciones y experiencia de los aspirantes que excedan los requisitos mínimos exigidos en la convocatoria.
 
 (Decreto 2900 de 2005, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.20.2.17 — Publicación de resultados
 
@@ -9950,23 +8970,17 @@ Los resultados de cada prueba serán publicados, en la medida en que se vayan pr
 
 (Decreto 2900 de 2005, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.20.2.18 — Reclamaciones
 
 Las reclamaciones de los participantes por inconformidad con los puntajes obtenidos en las pruebas serán presentadas ante la entidad que realiza el concurso y decididas por ésta antes de la aplicación de la siguiente prueba o de la elaboración de la lista de elegibles, según sea el caso.
 
 (Decreto 2900 de 2005, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.20.2.19 — Informe del concurso
 
 De cada concurso la entidad que lo realice presentará un informe al Consejo Administrador del Sistema Específico de Carrera en los términos en que este lo señale.
 
 (Decreto 2900 de 2005, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.20.2.20 — Concursos desiertos
 
@@ -9980,8 +8994,6 @@ PARÁGRAFO . Declarado desierto un concurso se deberá convocar nuevamente dentr
 
 (Decreto 2900 de 2005, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.20.2.21 — Lista de elegibles
 
 Con base en los resultados del concurso y en riguroso orden de mérito, la Comisión Nacional del Servicio Civil (CNSC) elaborará la lista de elegibles, la cual deberá ser divulgada en su página web y en la de la Aerocivil.
@@ -9994,15 +9006,11 @@ Previa la expedición del acto administrativo del nombramiento en período de pr
 
 (Decreto 2900 de 2005, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.20.2.22 — Envío de lista de elegibles en firme
 
 En firme la lista de elegibles, el Consejo Administrador del Sistema Específico de Carrera la enviará al Director General de la Entidad para que produzca el respectivo nombramiento dentro de un término que no podrá ser superior a treinta (30) días calendario.
 
 (Decreto 2900 de 2005, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.20.2.23 — Utilización de la lista de elegibles
 
@@ -10013,8 +9021,6 @@ PARÁGRAFO . Quien sea nombrado y tome posesión del empleo para el cual concurs
 La posesión en un empleo de inferior jerarquía o en uno de carácter temporal, efectuado con base en una lista de elegibles no causa el retiro de esta, salvo que sea retirado del servicio por cualquiera de las causales consagradas en la ley, excepto por renuncia regularmente aceptada.
 
 (Decreto 2900 de 2005, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.20.2.24 — Exclusión o modificación de la lista de elegibles
 
@@ -10040,15 +9046,11 @@ PARÁGRAFO . Las solicitudes tendientes a modificar la lista de elegibles por cu
 
 (Decreto 2900 de 2005, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.20.2.25 — Periodo de prueba
 
 El período de prueba deberá iniciarse con la inducción en el puesto de trabajo y culminará con la evaluación del desempeño laboral del empleado. Durante este período el empleado tiene derecho a permanecer en el cargo, a menos que incurra en falta disciplinaria o causa legal que ocasione su retiro, y no se le podrá efectuar ningún movimiento dentro de la planta de personal que implique el ejercicio de funciones distintas a las indicadas en la convocatoria que sirvió de base para su nombramiento o ascenso, según el caso.
 
 (Decreto 2900 de 2005, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.20.2.26 — Supresión de empleo provisto con empleado en periodo de prueba
 
@@ -10060,23 +9062,17 @@ De no poder efectuarse la incorporación a un empleo igual o equivalente, el nom
 
 (Decreto 2900 de 2005, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.20.2.27 — Prórroga del período de prueba
 
 Cuando por justa causa haya interrupción en el período de prueba por un lapso superior a veinte (20) días continuos, este será prorrogado por igual término.
 
 (Decreto 2900 de 2005, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.20.2.28 — Situación especial de embarazo
 
 Cuando una empleada en estado de embarazo se encuentre vinculada a un empleo en período de prueba, sin perjuicio de continuar prestando el servicio, este período se le suspenderá a partir de la fecha en que dé aviso de esta situación por escrito al jefe de la unidad de personal o a quien haga sus veces, y se reanudará al vencimiento de los tres (3) meses siguientes a la fecha del parto o de la culminación de la licencia remunerada cuando se trate de aborto o parto prematuro no viable.
 
 (Decreto 2900 de 2005, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.20.2.29 — Registro Público
 
@@ -10094,19 +9090,13 @@ FORMACIÓN Y CAPACITACIÓN
 
 (Capítulo sustituido por el Art. 1, del Decreto Nacional 475 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.1 — Ámbito de aplicación
 
 El presente capítulo reglamenta la capacitación y los estímulos que serán aplicables a todos los servidores de la Unidad Administrativa Especial de Aeronáutica Civil -Aerocivil.
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.2 — Capacitación
 
 La capacitación es una actividad sistemática, planificada, continua y dinámica dirigida a preparar, prolongar y complementar la educación formal y no formal, la generación de conocimientos y el desarrollo integral y continuo de las habilidades que los servidores de la Aerocivil requieran para el desempeño de sus funciones y el cumplimiento efectivo de la misión institucional, acorde con los lineamientos establecidos a nivel nacional e internacional.
-
-ARTÍCULO
 
 ## art:2.2.20.3.1.3 — Políticas que orientan la capacitación
 
@@ -10122,8 +9112,6 @@ Los planes, programas y actividades de capacitación en educación formal y no f
 
 Estas políticas se desarrollan bajo el principio de igualdad, en virtud del cual el acceso del personal de la entidad a la capacitación se deberá permitir en igualdad de condiciones, conforme a las necesidades institucionales y al cumplimiento de las exigencias establecidas en el ordenamiento jurídico para garantizar la seguridad operacional y de la aviación civil.
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.4 — Administradores de la capacitación
 
 Los responsables de dirigir Y asegurar la capacitación en educación formal y no formal de la Aerocívil, son:
@@ -10134,11 +9122,9 @@ Los responsables de dirigir Y asegurar la capacitación en educación formal y n
 
 El CEA ejecutará los planes, programas y actividades para garantizar la formación, capacitación y actualización de los servidores. Para la realización de cursos de capacitación técnica y el intercambio de información y experiencias pertinentes, el CEA podrá coordinar con personas naturales y jurídicas, de carácter público o privado, nacionales e internacionales, encargadas de impartir de manera permanente entrenamiento, formación y capacitación y que, para tal efecto, lleven a cabo actividades docentes y académicas.
 
-## art:2.2.20.3 — 1.5 Intervinientes en la capacitación
+## art:2.2.20.3.1.5 — Intervinientes en la capacitación
 
 En la capacitación de la Aerocivil intervendrá la Organización de Aviación Civil Internacional - OACI, la cual brindará asistencia y cooperación técnica, y los demás organismos, instituciones o personas naturales y jurídicas, de carácter público o privado, nacionales e internacionales, que por fuera de la organización orienten, influyan, interactúen, regulen o ejerzan control sobre el proceso de capacitación que se brinde a los servidores de la entidad.
-
-ARTÍCULO
 
 ## art:2.2.20.3.1.6 — Acceso a la capacitación
 
@@ -10146,21 +9132,15 @@ Los servidores públicos de la Aerocivil, independientemente de su tipo de vincu
 
 El personal vinculado mediante contrato de prestación de servicios podrá asistir a las actividades de difusión de temas transversales de interés para el desempeño institucional.
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.7 — Modalidades de la capacitación
 
 La capacitación se adelantará en las modalidades presencial, semipresencial con mediación virtual y virtual, mediante programas académicos, acorde con la guía de clasificación de actividades académicas emitida por el Centro de Estudios Aeronáuticos. La capacitación se impartirá bajo estrategias pedagógicas, privilegiando el uso de metodologías que hagan énfasis en la práctica y en ejercicios de simulación, en el análisis de casos concretos y en la solución de problemas específicos de la entidad y del Sector.
 
 La capacitación se desarrollará en el ámbito nacional e internacional conforme a los procesos de innovación de los estados y organizaciones promotores de las nuevas tecnologías y modelos operacionales.
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.8 — Modelo por competencias
 
 El modelo por competencias propone la identificación y elaboración de un compendio de competencias por parte de la Aerocivíl, con su descripción y criterios de actuación, adaptadas del marco de competencias de la Organización Internacional de la Aviación Civil o de la normativa nacional.
-
-ARTÍCULO
 
 ## art:2.2.20.3.1.9 — Identificación de competencias
 
@@ -10168,15 +9148,11 @@ El Centro de Estudios Aeronáuticos - CEA conformará mesas de trabajo para la i
 
 Las competencias definidas serán revisadas periódicamente, de acuerdo con los estándares nacionales e internacionales derivados de los avances en la aviación civil.
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.10 — Programas nacionales de instrucción
 
 El Centro de Estudios Aeronáuticos - CEA planificará, diseñará e implementará los programas nacionales de instrucción orientados a la cualificación de los servidores para la prestación de los servicios de navegación aérea, aeroportuarios, de reglamentación, certificación, vigilancia y control del sector, de sanción a las infracciones técnicas y de investigación de accidentes, con el propósito de desarrollar, fortalecer y mantener las competencias laborales y profesionales del personal vinculado al Sector Aeronáutico.
 
 Los planes de estudio que desarrollen los programas nacionales de instrucción incluirán un proceso de evaluación que permita medir que las competencias identificadas se hayan adquirido en el nivel de desarrollo que establezca la entidad, de acuerdo con las funciones y el perfil del empleo.
-
-ARTÍCULO
 
 ## art:2.2.20.3.1.11 — Áreas de capacitación para el cuerpo aeronáutico
 
@@ -10206,15 +9182,11 @@ El Centro de Estudios Aeronáuticos, CEA impartirá la capacitación al cuerpo a
 
 12. Certificación, Inspección, Vigilancia y Control en Seguridad Operacional y de la Aviación Civil
 
-ARTÍCULO
-
 ## art:2.2.20.3.1.12 — Capacitación de personal de vigilancia de seguridad operacional y de la aviación civil
 
 Los servidores que tienen a su cargo la vigilancia de la seguridad operacional y de la aviación civil recibirán la capacitación técnica, jurídica y administrativa necesaria para el ejercicio eficaz de sus obligaciones y responsabilidades.
 
 La entidad propenderá por el continuo desarrollo de sus competencias y pericias mediante actividades académicas iniciales, en el trabajo, periódicas y especializadas en todas las disciplinas relativas a sus responsabilidades de reglamentación, certificación, vigilancia y control. De esta manera, podrán participar en las diferentes actividades académicas y el intercambio de experiencias con expertos de otras regiones para el fortalecimiento de sus competencias.
-
-ARTÍCULO
 
 ## art:2.2.20.3.1.13 — Ciclos de la capacitación del cuerpo aeronáutico
 
@@ -10236,8 +9208,6 @@ SECCIÓN 2
 
 SISTEMA DE ESTÍMULOS
 
-ARTÍCULO
-
 ## art:2.2.20.3.2.1 — Sistema de estímulos
 
 La Unidad Administrativa Especial de Aeronáutica Civil, Aerocivil, a través de la Dirección de Talento Humano deberá implementar programas de estímulos, de acuerdo con lo dispuesto en el sistema de estímulos para los empleados del Estado, establecido en el Decreto ley 1567 de 1998 y en el Decreto 1083 de 2015 o las normas que los modifiquen o adicionen".
@@ -10245,8 +9215,6 @@ La Unidad Administrativa Especial de Aeronáutica Civil, Aerocivil, a través de
 CAPÍTULO 4
 
 DE LA EVALUACIÓN DEL DESEMPEÑO LABORAL
-
-ARTÍCULO
 
 ## art:2.2.20.4.1 — Eventos de evaluación
 
@@ -10261,8 +9229,6 @@ En el evento en que el empleado no haya servido la totalidad del año se calific
 Si esta calificación resultare satisfactoria, a partir de la fecha en que se produjo y el 31 de enero del siguiente año, se considerará un nuevo período de evaluación, para lo cual será necesario diligenciar nuevamente los instrumentos que estén siendo utilizados en la entidad.
 
 (Decreto 2900 de 2005, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.20.4.2 — Calificación definitiva
 
@@ -10286,15 +9252,11 @@ PARÁGRAFO 2. Las ponderaciones que sea necesario realizar para obtener la evalu
 
 (Decreto 2900 de 2005, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.20.4.3 — Cambio de cargo por ascenso
 
 Cuando el empleado cambie de cargo como resultado de ascenso dentro de la carrera, el desempeño laboral en el empleo anterior no será evaluado.
 
 (Decreto 2900 de 2005, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.20.4.4 — Responsables de evaluar
 
@@ -10302,15 +9264,11 @@ En la metodología y procedimientos para la aplicación de los instrumentos de e
 
 (Decreto 2900 de 2005, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.20.4.5 — Calificación no satisfactoria
 
 La declaratoria de insubsistencia del nombramiento de una empleada de carrera en estado de embarazo por calificación no satisfactoria de servicios solo podrá producirse dentro de los ocho (8) días siguientes al vencimiento de la licencia por maternidad biológica o por adopción o de la licencia correspondiente, en el caso de aborto o parto prematuro no viable.
 
 (Decreto 2900 de 2005, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.20.4.6 — Evaluación en comisión de servicios
 
@@ -10322,15 +9280,11 @@ CAPÍTULO 5
 
 DE LA EVALUACIÓN Y CALIFICACIÓN DEL PERÍODO DE PRUEBA
 
-ARTÍCULO
-
 ## art:2.2.20.5.1 — Calificación del periodo de prueba
 
 Al vencimiento del período de prueba el empleado será evaluado en su desempeño laboral y deberá producirse la calificación definitiva de servicios, para lo cual se utilizará el instrumento de evaluación del desempeño que adopte el Consejo Administrador del Sistema Específico de Carrera.
 
 (Decreto 2900 de 2005, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.20.5.2 — Evaluaciones parciales
 
@@ -10344,8 +9298,6 @@ Durante el período de prueba se surtirán evaluaciones parciales en los siguien
 
 (Decreto 2900 de 2005, art. 44)
 
-ARTÍCULO
-
 ## art:2.2.20.5.3 — Comunicación de la evaluación del período de prueba
 
 Las evaluaciones parciales durante el período de prueba serán comunicadas por escrito y la calificación definitiva de servicios del mismo período será notificada conforme con lo establecido en el artículo 32 del Decreto-ley 790 de 2005 para la notificación de la calificación definitiva anual o extraordinaria.
@@ -10356,15 +9308,11 @@ CAPÍTULO 6
 
 DEL RETIRO DEL SERVICIO
 
-ARTÍCULO
-
 ## art:2.2.20.6.1 — Derechos de los empleados de carrera por supresión del empleo
 
 De no ser posible la incorporación a un empleo de carrera igual o equivalente al suprimido, el Director de Talento Humano o quien haga sus veces así lo manifestará al ex empleado por escrito dentro de los tres (3) días siguientes a la expedición del respectivo acto administrativo de incorporación de los empleados a la nueva planta, informándole, además, el trámite que surtirá la entidad para efectos de ordenar el reconocimiento y el pago de la indemnización a que tiene derecho, según lo dispuesto en el artículo 39 del Decreto-ley 790 de 2005.
 
 (Decreto 2900 de 2005, art. 46)
-
-ARTÍCULO
 
 ## art:2.2.20.6.2 — Empleos equivalentes
 
@@ -10372,15 +9320,11 @@ Se entiende por empleos equivalentes aquellos que sean similares en cuanto a fun
 
 (Decreto 2900 de 2005, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.20.6.3 — Incorporación
 
 Cuando se reforme total o parcialmente la planta de empleos de la Aerocivil, no tendrá la calidad de nuevo nombramiento la incorporación que se efectúe en cargos iguales o equivalentes a los suprimidos a quienes los venían ejerciendo en calidad de provisionales o transitorios.
 
 (Decreto 2900 de 2005, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.20.6.4 — Aplicación del Código de Procedimiento Administrativo y de lo Contencioso Administrativo
 
@@ -10396,8 +9340,6 @@ CAPÍTULO 1
 
 CONCEPTUALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.2.21.1.1 — Definición del Sistema Nacional de Control Interno
 
 El Sistema Nacional de Control Interno es el conjunto de instancias de articulación y participación, competencias y sistemas de control interno, adoptados en ejercicio de la función administrativa por los organismos y entidades del Estado en todos sus órdenes, que de manera armónica, dinámica, efectiva, flexible y suficiente, fortalecen el cumplimiento cabal y oportuno de las funciones del Estado.
@@ -10409,8 +9351,6 @@ El Sistema Nacional de Control Interno es el conjunto de instancias de articulac
 (Ver Ley 489 de 1998, art. 27)
 
 (Ver Ley 489 de 1998, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.21.1.2 — Ámbito de aplicación
 
@@ -10424,23 +9364,17 @@ PARÁGRAFO . Las normas del presente Título serán aplicables en lo pertinente,
 
 (Ver Ley 489 de 1998, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.21.1.3 — Dirección y coordinación
 
 De conformidad con el artículo 29 de la Ley 489 de 1998, el Sistema Nacional de Control Interno será dirigido por el Presidente de la República como máxima autoridad administrativa, apoyado y coordinado por el Consejo Asesor del Gobierno Nacional en materia de Control Interno de las entidades del orden nacional y territorial, el cual será presidido por el Director del Departamento Administrativo de la Función Pública.
 
 (Decreto 2145 de 1999, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.21.1.4 — Informe ejecutivo anual
 
 Vigencia
  
  Derogado
-
- ARTÍCULO
 
 ## art:2.2.21.1.5 — Comité Institucional de Coordinación de Control Interno
 
@@ -10457,8 +9391,6 @@ Las entidades que hacen parte del ámbito de aplicación de la Ley 87 de 1993, d
 El jefe de control interno o quien haga sus veces, participará con voz pero sin voto en el mismo y ejercerá la secretaría técnica.
 
 (Adicionado Decreto 648 de 2017, art 4)
-
-ARTÍCULO
 
 ## art:2.2.21.1.6 — Funciones del Comité Institucional de Coordinación de Control Interno
 
@@ -10490,8 +9422,6 @@ PARÁGRAFO 3. En las entidades donde exista comité de auditoría éste asumirá
 
 (Ver Concepto 20175000163741 Dirección de Gestión y Desempeño Institucional del Departamento Administrativo de la Función Pública)
 
-ARTÍCULO
-
 ## art:2.2.21.1.7 — Subcomités Centrales, Regionales o Locales de Coordinación del Sistema de Control Interno
 
 Los Ministros o Directores de Departamento Administrativo podrán integrar, mediante resolución del respectivo representante de la entidad, Subcomités Centrales, Regionales o Locales de Coordinación del Sistema de Control Interno, los cuales tendrán su propio reglamento y funciones y objetivos similares a los señalados para los Comités de Coordinación del Sistema de Control Interno.
@@ -10508,15 +9438,11 @@ CAPÍTULO 2
 
 INSTANCIAS DE ARTICULACIÓN Y SUS COMPETENCIAS
 
-ARTÍCULO
-
 ## art:2.2.21.2.1 — Instancias de articulación
 
 Para lograr el funcionamiento armónico del Sistema Nacional de Control Interno se determinan las siguientes instancias de articulación, sus competencias e interrelaciones con los sistemas de control interno de las entidades públicas, de tal manera que se retroalimenten continuamente para el fortalecimiento del Sistema de Control Interno del Estado, así: responsables, reguladores, facilitadores y evaluadores.
 
 (Decreto 2145 de 1999, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.21.2.2 — Responsables
 
@@ -10548,8 +9474,6 @@ f) Comités sectoriales, departamentales y municipales de auditoría interna, so
 
 (Adicionado Decreto 648 de 2017, art 5)
 
-ARTÍCULO
-
 ## art:2.2.21.2.3 — Reguladores
 
 Los reguladores son los competentes para impartir políticas y directrices a que deben sujetarse los entes públicos en materia de Control Interno.
@@ -10565,8 +9489,6 @@ d) La Contaduría General de la Nación, a quien corresponde, en materia contabl
 e) La Contraloría General de la República a quien corresponde reglamentar los métodos y procedimientos para llevar a cabo la evaluación de los Sistemas de Control Interno de las entidades sujetas a su vigilancia.
 
 (Decreto 2145 de 1999, art. 6 modificado Decreto 2539 de 2000, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.21.2.4 — Facilitadores
 
@@ -10622,8 +9544,6 @@ b. Asesorar y apoyar a los directivos en el desarrollo y mejoramiento del Sistem
 
 (Ver Ley 87 de 1993, art 13)
 
-ARTÍCULO
-
 ## art:2.2.21.2.5 — Evaluadores
 
 Los evaluadores son los encargados de medir y evaluar la eficiencia, eficacia y economía del Sistema de Control Interno, con el fin de recomendar las mejoras pertinentes.
@@ -10650,15 +9570,11 @@ SISTEMA INSTITUCIONAL Y NACIONAL DE CONTROL INTERNO
 
 (Modificado Nombre del Capitulo por el Decreto 648 de 2017, art 7)
 
-ARTÍCULO
-
 ## art:2.2.21.3.1 — Sistema Institucional de Control Interno
 
 El Sistema Institucional de Control Interno estará integrado por el esquema de controles de la organización, la gestión de riesgos, la administración de la información y de los recursos y por el conjunto de planes, métodos, principios, normas, procedimientos, y mecanismos de verificación y evaluación adoptados por la entidad, dentro de las políticas trazadas por la dirección y en atención a las metas, resultados u objetivos de la entidad.”
 
 (Modificado Decreto 648 de 2017, art 8)
-
-ARTÍCULO
 
 ## art:2.2.21.3.2 — Elementos del Sistema Institucional de Control Interno
 
@@ -10672,15 +9588,11 @@ Los responsables de fortalecer la interrelación y funcionamiento armónico de l
 
 (Ver Ley 87 de 1993)
 
-ARTÍCULO
-
 ## art:2.2.21.3.3 — Dirección
 
 El Nivel Directivo define las políticas, objetivos y metas corporativas a alcanzar durante los períodos constitucionales y legales correspondientes, como marco de referencia para la definición de los planes indicativos y de acción.
 
 (Decreto 2145 de 1999, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.21.3.4 — Planeación
 
@@ -10706,8 +9618,6 @@ a). La Oficina de Control Interno o quien haga sus veces:Evalúa el proceso de p
 
 (Ver Ley 87 de 1993, arts. 2 y 9)
 
-ARTÍCULO
-
 ## art:2.2.21.3.5 — Organización
 
 La organización es la función básica de la gestión gerencial, que consiste en realizar la división y distribución de funciones y competencias asignadas, con miras a lograr los fines y objetivos institucionales y del Estado.
@@ -10727,8 +9637,6 @@ b). La Oficina de Control Interno o quien haga sus veces: Evalúa que estén cla
 (Decreto 2145 de 1999, art. 13)
 
 (Ver Ley 87 de 1993, art 4)
-
-ARTÍCULO
 
 ## art:2.2.21.3.6 — Ejecución
 
@@ -10750,8 +9658,6 @@ b). La Oficina de Control Interno o quien haga sus veces:
 
 (Ver Ley 87 de 1993, art 3, 4 y 9)
 
-ARTÍCULO
-
 ## art:2.2.21.3.7 — Evaluación
 
 Este componente es el complemento fundamental de la planeación, consistente en la verificación y seguimiento a la gestión dándole dinamismo al proceso planificador y facilitando la retroalimentación de las actividades, la toma de decisiones y la reorientación de las acciones para garantizar el logro de los resultados previstos.
@@ -10772,13 +9678,9 @@ d). La Oficina de Control Interno o quien haga sus veces debe evaluar el sistema
 
 (Ver Ley 87 de 1993, art 6, 8 y 9)
 
-ARTÍCULO
-
 ## art:2.2.21.3.8 — 
 
 2.2.21.3.8 (Derogado Decreto 648 de 2017, art 10)
-
-ARTÍCULO
 
 ## art:2.2.21.3.9 — Integración del Consejo Asesor del Gobierno Nacional en materia de Control Interno
 
@@ -10814,8 +9716,6 @@ PARÁGRAFO 2. A las reuniones del Consejo se podrá invitar personas de reconoci
 
 (Modificado Decreto 648 de 2017, art 11)
 
-ARTÍCULO
-
 ## art:2.2.21.3.10 — 
 
 2.2.21.3.10
@@ -10823,8 +9723,6 @@ ARTÍCULO
  Vigencia
  
  Derogado
-
- ARTÍCULO
 
 ## art:2.2.21.3.11 — Comité Interinstitucional de Control Interno - CICI del orden nacional y territorial
 
@@ -10843,8 +9741,6 @@ PARÁGRAFO 1. El CICI estará representado ante el Departamento Administrativo d
 PARÁGRAFO 2. A las reuniones del comité podrán ser invitadas personas de reconocida idoneidad en la materia, así como las entidades del sector público o privado que tengan injerencia en los asuntos de control interno
 
 (Modificado Decreto 648 de 2017, art 13)
-
-ARTÍCULO
 
 ## art:2.2.21.3.12 — Comité Técnico del Consejo Asesor de Control Interno
 
@@ -10865,8 +9761,6 @@ d. Las demás que le asigne el Consejo Asesor del Gobierno Nacional en materia d
 PARÁGRAFO . A las reuniones del comité podrán ser invitados personas de reconocida idoneidad en la materia, así como las entidades del sector público o privado que tengan injerencia en los asuntos de control interno.
 
 (Adicionado Decreto 648 de 2017, art 14)
-
-ARTÍCULO
 
 ## art:2.2.21.3.13 — Comités Sectoriales de Auditoría
 
@@ -10890,8 +9784,6 @@ PARÁGRAFO . El comité contará con una secretaría técnica ejercida por un je
 
 (Adicionado Decreto 648 de 2017, art 14)
 
-ARTÍCULO
-
 ## art:2.2.21.3.14 — Comités Departamentales, Municipales y Distritales de Auditoría
 
 A nivel departamental habrá un Comité de Auditoría del cual harán parte los jefes de control interno o quienes hagan sus veces de las entidades pertenecientes al sector central y descentralizado del departamento, así como por los de las entidades que no hagan parte de la rama ejecutiva del orden departamental, previa solicitud de éstos; el Comité estará presidido por el jefe de control interno o quien haga sus veces de la respectiva gobernación y la secretaría técnica será ejercida por el jefe de control interno elegido por mayoría simple de los miembros del Comité.
@@ -10910,8 +9802,6 @@ CAPÍTULO 4
 
 JEFE DE LA UNIDAD U OFICINA DE CONTROL INTERNO O DE QUIEN HAGA SUS VECES
 
-ARTÍCULO
-
 ## art:2.2.21.4.1 — Designación de responsable del control interno
 
 Para la verificación y evaluación permanente del Sistema de Control, el Presidente de la República designará en las entidades estatales de la Rama Ejecutiva del orden nacional al jefe de la Unidad de la oficina de control interno o quien haga sus veces, quien será de libre nombramiento y remoción.
@@ -10926,23 +9816,17 @@ El nombramiento de estos servidores deberá efectuarse teniendo en cuenta el pri
 
 (Ver Ley 87 de 1993, arts. 10 y 11)
 
-ARTÍCULO
-
 ## art:2.2.21.4.2 — 
 
 2.2.21.4.2 Delegación para proveer temporalmente las vacantes definitivas del empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces. Delegase en los Ministros y Directores de Departamento Administrativo la facultad de proveer temporalmente, mediante la figura del encargo, las vacantes definitivas que se presenten en el empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces en sus respectivos Ministerios o Departamentos Administrativos o en las entidades adscritas o vinculadas a su Sector Administrativo.
 
 (Decreto 3670 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.21.4.3 — 
 
 2.2.21.4.3 Delegación para declarar y proveer las vacantes temporales del empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces. Delegase en los Ministros y Directores de Departamento Administrativo, las funciones de declarar y proveer las vacantes temporales, cualquiera que sea la causa que las produzca, que se presenten en el cargo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces en sus respectivos Ministerios o Departamentos Administrativos o en las entidades adscritas o vinculadas a su Sector Administrativo.
 
 (Decreto 3670 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.21.4.4 — Evaluación de conocimientos y competencias gerenciales de los Jefes de Control Interno o quien haga sus veces
 
@@ -10952,23 +9836,17 @@ Las pruebas serán diseñadas y aplicadas por el Departamento Administrativo de 
 
 (Decreto 2374 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.21.4.5 — 
 
 2.2.21.4.5 Evaluación del desempeño de los jefes de control interno o quien haga sus veces.El desempeño del jefe de control interno o quien haga sus veces en las entidades de la Rama Ejecutiva del orden Nacional será evaluado anualmente, a través del instrumento que permita medir la contribución al cargo diseñado por el Departamento Administrativo de la Función Pública.
 
 (Decreto 2374 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.21.4.6 — Naturaleza del empleo en el orden nacional
 
 La evaluación que se adelante al jefe de control interno o quien haga sus veces no cambia la naturaleza de libre nombramiento y remoción del empleo.
 
 (Decreto 2374 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.21.4.7 — Relación administrativa y estratégica del Jefe de Control Interno o quien haga sus veces
 
@@ -10994,8 +9872,6 @@ PARÁGRAFO 2. Los jefes de control interno o quienes hagan sus veces que por dis
 
 (Adicionado Decreto 648 de 2017, art 16)
 
-ARTÍCULO
-
 ## art:2.2.21.4.8 — Instrumentos para la actividad de la Auditoría Interna
 
 Las entidades que hacen parte del ámbito de aplicación del presente decreto, deberán, de acuerdo con los lineamientos y modelos que para el efecto establezca el Departamento Administrativo de la Función Pública, adoptar y aplicar como mínimo los siguientes instrumentos:
@@ -11011,8 +9887,6 @@ d) Plan anual de auditoría.
 PARÁGRAFO . Las entidades vigiladas por la Superintendencia Financiera, deberán tener en cuenta los lineamientos que sobre el tema imparta dicha entidad.
 
 (Adicionado Decreto 648 de 2017, art 16)
-
-ARTÍCULO
 
 ## art:2.2.21.4.9 — Informes
 
@@ -11046,8 +9920,6 @@ CAPÍTULO 5
 
 ELEMENTOS TÉCNICOS Y ADMINISTRATIVOS QUE FORTALEZCAN EL SISTEMA DE CONTROL INTERNO DE LAS ENTIDADES Y ORGANISMOS DEL ESTADO.
 
-ARTÍCULO
-
 ## art:2.2.21.5.1 — Racionalización de la gestión institucional
 
 Las entidades y organismos del Estado implementarán acciones para el desarrollo racional de su gestión. Para tal efecto, identificarán los procesos institucionales, de tal manera que la gestión de las diferentes dependencias de la organización, se desarrollen articuladamente en torno a dichos procesos, los cuales se racionalizarán cuando sea necesario.
@@ -11056,8 +9928,6 @@ Las entidades y organismos del Estado implementarán acciones para el desarrollo
 
 (Ver Ley 87 de 1993, art 1)
 
-ARTÍCULO
-
 ## art:2.2.21.5.2 — Manuales de procedimientos
 
 Como instrumento que garantice el cumplimiento del control interno en las organizaciones públicas, éstas elaborarán, adoptarán y aplicarán manuales a través de los cuales se documentarán y formalizarán los procedimientos a partir de la identificación de los procesos institucionales.
@@ -11065,8 +9935,6 @@ Como instrumento que garantice el cumplimiento del control interno en las organi
 (Decreto 1537 de 2001, art. 2)
 
 (Ver Ley 87 de 1993, art 1 Parágrafo)
-
-ARTÍCULO
 
 ## art:2.2.21.5.3 — De las oficinas de control interno
 
@@ -11078,8 +9946,6 @@ El Departamento Administrativo de la Función Pública determinará los lineamie
 
 (Ver Ley 87 de 1993, art 9)
 
-ARTÍCULO
-
 ## art:2.2.21.5.4 — Administración de riesgos
 
 Como parte integral del fortalecimiento de los sistemas de control interno en las entidades públicas las autoridades correspondientes establecerán y aplicarán políticas de administración del riesgo. Para tal efecto, la identificación y análisis del riesgo debe ser un proceso permanente e interactivo entre la administración y las oficinas de control interno o quien haga sus veces, evaluando los aspecto tanto internos como externos que pueden llegar a representar amenaza para la consecución de los objetivos organizaciones, con miras a establecer acciones efectivas, representadas en actividades de control, acordadas entre los responsables de las áreas o procesos y las oficinas de control interno e integradas de manera inherente a los procedimientos.
@@ -11087,8 +9953,6 @@ Como parte integral del fortalecimiento de los sistemas de control interno en la
 (Decreto 1537 de 2001, art. 4)
 
 (Ver Ley 87 de 1993, art 2)
-
-ARTÍCULO
 
 ## art:2.2.21.5.5 — 
 
@@ -11180,8 +10044,6 @@ RED ANTICORRUPCION
 
 “ARTÍCULO 2.2.21.7.1. Creación de la Red Anticorrupción. Crease la Red Anticorrupción integrada por los Jefes de Control Interno o quien haga sus veces para articular acciones oportunas y eficaces en la identificación de casos o riesgos de corrupción en instituciones públicas, para generar las alertas de carácter preventivo frente a las decisiones de la administración, promoviendo la transparencia y la rendición de cuentas en la gestión pública.
 
-ARTÍCULO
-
 ## art:2.2.21.7.2 — Coordinación de la Red Anticorrupción
 
 La Red Anticorrupción será coordinada por la vicepresidenta de la Republica y por el Secretario General de la Presidencia de la Republica.
@@ -11194,8 +10056,6 @@ PARÁGRAFO . El Departamento Administrativo de la Función Publica, la Secretari
 
 (Derogado por el Art. 14 del Decreto 1188 de 2024 )
 
-ARTÍCULO
-
 ## art:2.2.21.7.3 — Acciones de la Red Anticorrupción
 
 La red anticorrupción adelantara las siguientes acciones:
@@ -11205,8 +10065,6 @@ La red anticorrupción adelantara las siguientes acciones:
 2. Proponer al Consejo Asesor del Gobierno Nacional en materia de Control Interno la adopción de acciones que promuevan el fortalecimiento de los Sistemas de Control Interno de manera preventiva y proactiva en búsqueda de una mayor transparencia administrativa y de lucha contra la corrupción con el propósito de generar mecanismos interinstitucionales y de seguimiento a los procesos de mayor exposición al riesgo de corrupción.
 
 3. Facilitar el intercambio de mejores prácticas, experiencias y metodologías que permitan mejorar la calidad, pel1inencia y el trabajo de las oficinas de control interno en la identificación de tipos de corrupción, sus causas y la forma de erradicarlas.
-
-ARTÍCULO
 
 ## art:2.2.21.7.4 — Asistencia a comités
 
@@ -11220,13 +10078,9 @@ Los representantes legales de las diferentes entidades deberán invitar a los Co
 
 COMPETENCIAS Y REQUISITOS ESPECÍFICOS PARA EL EMPLEO DE JEFE DE OFICINA, ASESOR, COORDINADOR O AUDITOR DE CONTROL INTERNO O QUIEN HAGA SUS VECES EN LAS ENTIDADES DE LA RAMA EJECUTIVA DEL ORDEN NACIONAL Y TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.21.8.1 — Objeto y campo de aplicación
 
 El presente capítulo tiene por objeto fijar las competencias y requisitos específicos para el empleo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces en las entidades de la Rama Ejecutiva del orden nacional y territorial.
-
-ARTÍCULO
 
 ## art:2.2.21.8.2 — 8.2
 
@@ -11312,8 +10166,6 @@ Fomenta la comunicación clara, directa y concreta.
 
 Mantiene la reserva de la información.
 
-ARTÍCULO
-
 ## art:2.2.21.8.3 — Evaluación de Competencias
 
 Previo a la designación en el empleo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces, al aspirante o aspirantes se les deberá evaluar las competencias requeridas para el desempeño del empleo, a través de la práctica de pruebas.
@@ -11323,8 +10175,6 @@ La evaluación de competencias de los aspirantes a ocupar los citados cargos en 
 En el nivel territorial se deberá evaluar las competencias por la misma entidad, o con la asesoría de entidades especializadas en la materia o con el Departamento Administrativo de la Función Pública, de lo cual se le informará al gobernador o alcalde, respectivo, si el aspirante cumple o no con las competencias requeridas, de lo cual se dejará evidencia.
 
 PARÁGRAFO . Por regular este artículo unas competencias específicas y un procedimiento para su evaluación, para la provisión del empleo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces, no le será aplicable el artículo 2.2.13.2.2 del Decreto 1083 de 2015, Único Reglamentario del Sector Función Pública.
-
-ARTÍCULO
 
 ## art:2.2.21.8.4 — 8.4
 
@@ -11373,8 +10223,6 @@ Rango 4. Empleos con asignación básica mensual superior a la fijada para el gr
 - Setenta y dos (72) meses de experiencia profesional relacionada en temas de control interno.
 
 PARÁGRAFO . Para desempeñar el empleo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces en las entidades de la Rama Ejecutiva del orden nacional, únicamente se podrá aplicar en los Manuales de Funciones y de Competencias Laborales, las equivalencias contempladas en el presente artículo y solo para aquellos rangos en los que está prevista.
-
-ARTÍCULO
 
 ## art:2.2.21.8.5 — 8.5
 
@@ -11426,8 +10274,6 @@ Municipios de Categorías quinta y sexta
 
 PARÁGRAFO . Para desempeñar el empleo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces en las entidades de la Rama Ejecutiva del orden territorial, únicamente se podrá aplicar en los Manuales de Funciones y de Competencias Laborales, las equivalencias contempladas en el presente artículo y solo para aquellas categorías de departamentos y municipios en los que está prevista.
 
-ARTÍCULO
-
 ## art:2.2.21.8.6 — Experiencia profesional relacionada en asuntos de control interno
 
 Se entiende por experiencia profesional relacionada en asuntos de control interno la adquirida en el ejercicio de empleos que tengan funciones similares a las del cargo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces, dentro de las cuales están las siguientes:
@@ -11452,8 +10298,6 @@ Se entiende por experiencia profesional relacionada en asuntos de control intern
 
 10. Las funciones relacionadas con el desempeño de la gestión estratégica, administrativa y/o financiera.
 
-ARTÍCULO
-
 ## art:2.2.21.8.7 — Manual Específico de Funciones y de Competencias Laborales
 
 Las entidades de que trata el presente capítulo deberán actualizar su Manual Específico de Funciones y de Competencias Laborales con las competencias y requisitos establecidos en el presente Decreto para el empleo de jefe de oficina, asesor, coordinador o auditor de control interno o quien haga sus veces, dentro de los treinta (30) días calendario, contados a partir de la fecha de publicación del presente decreto.
@@ -11468,19 +10312,13 @@ CAPÍTULO 1
 
 OBJETO E INSTANCIAS DE DIRECCIÓN Y COORDINACIÓN DEL SISTEMA DE GESTIÓN
 
-ARTÍCULO
-
 ## art:2.2.22.1.1 — Sistema de Gestión
 
 El Sistema de Gestión, creado en el artículo 133 de la Ley 1753 de 2015, que integra los Sistemas de Desarrollo Administrativo y de Gestión de la Calidad, es el conjunto de entidades y organismos del Estado, políticas, normas, recursos e información, cuyo objeto es dirigir la gestión pública al mejor desempeño institucional y a la consecución de resultados para la satisfacción de las necesidades y el goce efectivo de los derechos de los ciudadanos, en el marco de la legalidad y la integridad.
 
-ARTÍCULO
-
 ## art:2.2.22.1.2 — Dirección y Coordinación del Sistema de Gestión
 
 El Presidente de la República dirigirá el Sistema de Gestión, con el apoyo del Consejo para la Gestión y el Desempeño Institucional.
-
-ARTÍCULO
 
 ## art:2.2.22.1.3 — Consejo para la Gestión y el Desempeño Institucional
 
@@ -11513,8 +10351,6 @@ El Consejo para la Gestión y el Desempeño Institucional, presidido por Funció
 PARÁGRAFO 1. Al Consejo asistirán los representantes legales de las entidades o sus delegados del nivel directivo de las áreas técnicas correspondientes, diferentes a los jefes de las oficinas de control interno y de planeación.
 
 PARÁGRAFO 2. El Consejo sesionará al menos dos veces al año y podrá, cuando lo estime conveniente, invitar a sus sesiones a representantes de otras entidades públicas, de las asociaciones de las entidades territoriales o particulares.
-
-ARTÍCULO
 
 ## art:2.2.22.1.4 — Funciones del Consejo para la Gestión y el Desempeño Institucional
 
@@ -11550,8 +10386,6 @@ PARÁGRAFO 1. El Consejo para la Gestión y el Desempeño Institucional es la ú
 
 PARÁGRAFO 2. Las sesiones del Consejo para la Gestión y el Desempeño Institucional serán convocadas por Función Pública y la agenda deberá ser coordinada con las entidades líderes de política, dependiendo de los temas a tratar, ejerciendo conjuntamente la secretaría técnica.
 
-ARTÍCULO
-
 ## art:2.2.22.1.5 — Articulación y complementariedad con otros sistemas de gestión
 
 El Sistema de Gestión se complementa y articula, entre otros, con los Sistemas Nacional de Servicio al Ciudadano, de Gestión de la Seguridad y Salud en el Trabajo, de Gestión Ambiental y de Seguridad de la Información.
@@ -11561,8 +10395,6 @@ El Sistema de Gestión será compatible con los modelos de acreditación especí
 CAPÍTULO 2
 
 POLÍTICAS DE GESTIÓN Y DESEMPEÑO INSTITUCIONAL
-
-ARTÍCULO
 
 ## art:2.2.22.2.1 — Políticas de Gestión y Desempeño Institucional
 
@@ -11620,19 +10452,13 @@ CAPÍTULO 3
 
 MODELO INTEGRADO DE PLANEACIÓN Y GESTIÓN
 
-ARTÍCULO
-
 ## art:2.2.22.3.1 — Actualización del Modelo Integrado de Planeación y Gestión
 
 Para el funcionamiento del Sistema de Gestión y su articulación con el Sistema de Control Interno, se adopta la versión actualizada del Modelo Integrado de Planeación y Gestión - MIPG.
 
-ARTÍCULO
-
 ## art:2.2.22.3.2 — Definición del Modelo Integrado de Planeación y Gestión MIPG
 
 El Modelo Integrado de Planeación y Gestión - MIPG es un marco de referencia para dirigir, planear, ejecutar, hacer seguimiento, evaluar y controlar la gestión de las entidades y organismos públicos, con el fin de generar resultados que atiendan los planes de desarrollo y resuelvan las necesidades y problemas de los ciudadanos, con integridad y calidad en el servicio.
-
-ARTÍCULO
 
 ## art:2.2.22.3.3 — Objetivos del Modelo Integrado de Planeación y Gestión MIPG
 
@@ -11648,8 +10474,6 @@ El Modelo Integrado de Planeación y Gestión - MIPG, tendrá como objetivos:
 
 5. Promover la coordinación entre entidades públicas para mejorar su gestión y desempeño.
 
-ARTÍCULO
-
 ## art:2.2.22.3.4 — Ámbito de Aplicación
 
 El Modelo Integrado de Planeación y Gestión MIPG se adoptará por los organismos y entidades de los órdenes nacional y territorial de la Rama Ejecutiva del Poder Público. En el caso de las entidades descentralizadas con capital público y privado, el Modelo aplicará en aquellas en que el Estado posea el 90% o más del capital social.
@@ -11658,13 +10482,9 @@ Las entidades y organismos estatales sujetos a régimen especial, de conformidad
 
 (Ver Concepto 20175000257171 Dirección de Gestión y Desempeño Institucional del Departamento Administrativo de la Función Pública)
 
-ARTÍCULO
-
 ## art:2.2.22.3.5 — Manual Operativo del Modelo
 
 El Consejo para la Gestión y Desempeño Institucional adoptará y actualizará el Manual Operativo del Modelo Integrado de Planeación y Gestión - MIPG, cuyo proyecto será presentado por la Función Pública.
-
-ARTÍCULO
 
 ## art:2.2.22.3.6 — Comités Sectoriales de Gestión y Desempeño
 
@@ -11683,8 +10503,6 @@ Los Comités Sectoriales de Desarrollo Administrativos de que trataba la Ley489 
 6. Las demás que tengan relación directa con la implementación, operación, desarrollo y evaluación del Modelo en su integridad, en el respectivo sector.
 
 PARÁGRAFO . La secretaría técnica será ejercida por el jefe de la oficina de planeación, o por quien haga sus veces, del ministerio o departamento administrativo correspondiente.
-
-ARTÍCULO
 
 ## art:2.2.22.3.7 — Comités departamentales, distritales y municipales de Gestión y Desempeño
 
@@ -11705,8 +10523,6 @@ Los Comités Departamentales, Distritales y Municipales de Gestión y Desempeño
 6. Las demás que tengan relación directa con la implementación, operación, desarrollo y evaluación del Modelo en su integridad, en la respectiva jurisdicción.
 
 PARÁGRAFO . La secretaría técnica será ejercida por el jefe de planeación o quien haga sus veces en la gobernación, distrito o municipio correspondiente.
-
-ARTÍCULO
 
 ## art:2.2.22.3.8 — Comités Institucionales de Gestión y Desempeño
 
@@ -11738,13 +10554,9 @@ PARÁGRAFO 2. Las entidades que no cuenten con servidores públicos del nivel di
 
 PARÁGRAFO 3. La Oficina de control Interno o quien haga sus veces será invitada permanente con voz, pero sin voto.
 
-ARTÍCULO
-
 ## art:2.2.22.3.9 — 
 
 2.2.22.3.9 Implementación del Modelo Integrado de Planeación y Gestión en entidades autónomas, con regímenes especiales y en otras ramas del poder público. Las entidades y organismos del Estado sujetos a régimen especial en los términos del artículo 40 de la Ley 489 de 1998, las Ramas Legislativa y Judicial, la Organización Electoral, los organismos de control y los institutos científicos, que decidan adoptar el Modelo, determinarán las instancias que consideren necesarias para su implementación y evaluación.
-
-ARTÍCULO
 
 ## art:2.2.22.3.10 — Medición de la Gestión y Desempeño Institucional
 
@@ -11756,15 +10568,11 @@ El Departamento Administrativo de la Función Pública, en coordinación con los
 
 PARÁGRAFO . Las entidades que se creen con posterioridad a la expedición del presente Decreto deberán implementar el Modelo Integrado de Planeación y Gestión; el plazo para su primera medición a través del FURAG se efectuará dentro de las dos vigencias siguientes a la puesta en marcha de la entidad.
 
-ARTÍCULO
-
 ## art:2.2.22.3.11 — Criterios Diferenciales
 
 La implementación y desarrollo del Modelo Integrado de Planeación y Gestión - MIPG en las entidades del orden territorial, tal como lo prevé el artículo 133 de la Ley 1753 de 2015, se hará con criterios diferenciales atendiendo sus características y especificidades que definirán los líderes de política.
 
 PARÁGRAFO . Los líderes de las políticas de Gestión y Desempeño Institucional, dentro de los seis (6) meses siguientes a la expedición del presente Decreto, propondrán, para la adopción del Consejo para la Gestión y el Desempeño Institucional, los criterios diferenciales de sus políticas.
-
-ARTÍCULO
 
 ## art:2.2.22.3.12 — Certificación de Calidad
 
@@ -11772,13 +10580,9 @@ Las entidades y organismos públicos, que lo consideren pertinente, podrán cert
 
 Las certificaciones otorgadas de conformidad con la Norma Técnica de Calidad en la Gestión Pública NTCGP 1000 Versión 2009 continuarán vigentes hasta la fecha para la cual fueron expedidas.
 
-ARTÍCULO
-
 ## art:2.2.22.3.13 — Programas de capacitación para la implementación y desarrollo del Modelo Integrado de Planeación y Gestión
 
 La Escuela Superior de Administración Pública ESAP, bajo los lineamientos técnicos del Departamento Administrativo de la Función Pública, diseñará y ofrecerá programas o estrategias de capacitación, formación y desarrollo de competencias laborales dirigidas a los servidores públicos, con el fin de fortalecer la gestión y el desempeño en las entidades públicas.
-
-ARTÍCULO
 
 ## art:2.2.22.3.14 — Integración de los planes institucionales y estratégicos al Plan de Acción
 
@@ -11816,8 +10620,6 @@ PARÁGRAFO 2. Harán parte del Plan de Acción las acciones y estrategias a trav
 
 (Decreto 612 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.22.3.15 — Adopción de equipos transversales
 
 Adoptar como instancias para facilitar la coordinación en la aplicación de las políticas de gestión y desempeño institucional, los equipos transversales que organice e integre el Departamento Administrativo de la Función Pública."
@@ -11828,15 +10630,11 @@ Adoptar como instancias para facilitar la coordinación en la aplicación de las
 
 ARTICULACIÓN DEL SISTEMA DE GESTIÓN CON LOS SISTEMAS DE CONTROL INTERNO
 
-ARTÍCULO
-
 ## art:2.2.23.1 — Articulación del Sistema de Gestión con los Sistemas de Control Interno
 
 El Sistema de Control Interno previsto en la Ley87 de 1993 y en la Ley 489 de 1998, se articulará al Sistema de Gestión en el marco del Modelo Integrado de Planeación y Gestión MIPG, a través de los mecanismos de control y verificación que permiten el cumplimiento de los objetivos y el logro de resultados de las entidades.
 
 El Control Interno es transversal a la gestión y desempeño de las entidades y se implementa a través del Modelo Estándar de Control Interno MECI.
-
-ARTÍCULO
 
 ## art:2.2.23.2 — Actualización del Modelo Estándar de Control Interno
 
@@ -11844,21 +10642,15 @@ La actualización del Modelo Estándar de Control Interno para el Estado Colombi
 
 PARÁGRAFO . La Función Pública, previa aprobación del Consejo Asesor del Gobierno Nacional en materia de Control Interno, podrá actualizar y modificar los lineamientos para la implementación del MECI.
 
-ARTÍCULO
-
 ## art:2.2.23.3 — Medición del Modelo Estándar de Control Interno
 
 Los representantes legales y jefes de organismos de las entidades a las que les aplica la Ley 87 de 1993 medirán el estado de avance del Modelo Estándar de Control Interno. Los jefes de control interno o quienes hagan sus veces realizarán la medición de la efectividad de dicho Modelo. La Función Pública establecerá la metodología, la periodicidad y demás condiciones necesarias para tal medición y recogerá la información a través del Formulario Único de Reporte y Avance de Gestión FURAG.
 
 Los resultados de esta medición servirán de base para el informe que sobre el avance del Control Interno en el Estado presentará el Presidente de la República al Congreso de la República, al inicio de cada legislatura.
 
-ARTÍCULO
-
 ## art:2.2.23.4 — Seguimiento a la implementación y operación del Modelo Integrado de Planeación y Gestión MIPG
 
 La Procuraduría General de la Nación podrá hacer seguimiento a la implementación y operación del Modelo Integrado de Planeación y Gestión MIPG en las entidades del orden nacional y territorial.
-
-ARTÍCULO
 
 ## art:2.2.24.1 — Objeto
 
@@ -11867,8 +10659,6 @@ El presente Título tiene por objeto regular el procedimiento que debe seguirse 
 (Ver Ley 962 de 2005, art. 1)
 
 (Decreto 4669 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.24.2 — Procedimiento para establecer y modificar los trámites
 
@@ -11886,13 +10676,9 @@ e) Acreditar los costos de su implementación para los obligados a cumplirlo y l
 
 (Ver Ley 962 de 2005, art. 1)(Decreto 4669 de 2005, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.24.3 — 
 
 2.2.24.3 (Derogado Decreto 1499 de 2017, Art 5)
-
-ARTÍCULO
 
 ## art:2.2.24.4 — Funciones del GRAT
 
@@ -11916,15 +10702,11 @@ PARÁGRAFO . El Departamento Administrativo de la Función Pública, como órgan
 
 (Decreto 4669 de 2005, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.24.5 — .5
 
 El GRAT se reunirá por convocatoria del Director del Departamento Administrativo de la Función Pública o a solicitud de cualquiera de sus miembros. A las reuniones podrán asistir como invitadas las entidades del Estado que tengan relación o interés en el trámite que se vaya a estudiar.
 
 (Decreto 4669 de 2005, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.24.6 — Comités Sectoriales
 
@@ -11939,8 +10721,6 @@ PARÁGRAFO . La Coordinación de los Comités Sectoriales estará a cargo del De
 (Ver Ley 962 de 2005, art. 1)
 
 (Decreto 4669 de 2005, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.24.7 — Funciones de los Comités Sectoriales
 
@@ -11960,8 +10740,6 @@ Los Comités Sectoriales tendrán las siguientes funciones en relación con la a
 
 (Decreto 4669 de 2005, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.24.8 — De los Comités Intersectoriales
 
 Con los integrantes de los Comités Sectoriales de la Rama Ejecutiva del Orden Nacional y otras entidades estatales, nacionales o territoriales, podrán organizarse Comités Intersectoriales, según los artículos a reglamentar o las directrices a impartir, para la debida reglamentación y aplicación de la Ley 962 de 2005.
@@ -11976,21 +10754,15 @@ PREMIO NACIONAL DE ALTA GERENCIA
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.25.1.1 — Objeto
 
 El presente título tiene por objeto reglamentar la organización y funcionamiento del Premio Nacional de Alta Gerencia y del Banco de Éxitos de la Administración Pública Colombiana.
-
-ARTÍCULO
 
 ## art:2.2.25.1.2 — Ámbito de aplicación
 
 El presente Título aplica a todos los organismos y entidades de la Rama Ejecutiva del Poder Público y de la Administración Pública de los órdenes nacional y territorial.
 
 Las entidades públicas pertenecientes a las demás ramas del poder público y los organismos autónomos en virtud de mandato legal o constitucional podrán participar en la convocatoria al Premio Nacional de Alta Gerencia y postular sus experiencias al Banco de Éxitos de la Administración Pública. Sus experiencias serán tenidas en cuenta, siempre que estén enfocadas en temas relacionados con los procesos de gestión institucional.
-
-ARTÍCULO
 
 ## art:2.2.25.1.3 — Principios
 
@@ -12000,13 +10772,9 @@ CAPITULO 2
 
 PREMIO NACIONAL DE ALTA GERENCIA
 
-ARTÍCULO
-
 ## art:2.2.25.2.1 — Propósito del Premio
 
 El Premio Nacional de Alta Gerencia tiene como propósito incentivar el buen desempeño institucional en la administración pública, reconociendo la gestión destacada y el desarrollo de experiencias exitosas de gestión pública.
-
-ARTÍCULO
 
 ## art:2.2.25.2.2 — Convocatoria y periodicidad
 
@@ -12014,25 +10782,17 @@ El Departamento Administrativo de la Función Pública, anualmente, mediante act
 
 En el marco de la convocatoria del Premio, de manera permanente, se contará con una categoría, cuyo propósito será reconocer e incentivar el “Buen Desempeño Institucional”, de acuerdo con los lineamientos metodológicos emitidos por el Departamento Administrativo de la Función Pública, teniendo en cuenta, entre otros, los resultados de la medición del Índice de Desempeño Institucional- IDI.
 
-ARTÍCULO
-
 ## art:2.2.25.2.3 — Comité técnico
 
 El Departamento Administrativo de la Función Pública conformará anualmente un comité técnico integrado por servidores públicos de dicho Departamento Administrativo o de otras entidades públicas o por expertos en las temáticas definidas cada año, cuya función principal será la verificación y validación de las experiencias postuladas conforme a los requisitos de la convocatoria.
-
-ARTÍCULO
 
 ## art:2.2.25.2.4 — Jurado calificador
 
 El Departamento Administrativo de la Función Pública, en el marco de la convocatoria, integrará anualmente un jurado calificador conformado por representantes del sector empresarial, la academia, representantes de organismos multilaterales o representantes del cuerpo diplomático, que tendrá como función, dentro de la experiencias postuladas, seleccionar las experiencias a galardonar con el Premio Nacional de Alta Gerencia y las merecedoras de mención de honor, las cuales serán inscritas en el Banco de Éxitos de la Administración Pública colombiana.
 
-ARTÍCULO
-
 ## art:2.2.25.2.5 — Declaratoria de desierto
 
 El jurado calificador podrá declarar desierta alguna categoría del Premio cuando no se presenten postulaciones o ninguna reúna los requisitos señalados por el Departamento Administrativo de la Función en el documento de la convocatoria.
-
-ARTÍCULO
 
 ## art:2.2.25.2.6 — Estímulos e incentivos
 
@@ -12041,8 +10801,6 @@ Los servidores públicos que hayan participado en el diseño, planeación, ejecu
 CAPÍTULO 3
 
 BANCO DE ÉXITOS
-
-ARTÍCULO
 
 ## art:2.2.25.3.1 — Banco de Éxitos
 
@@ -12062,15 +10820,11 @@ Igualmente, se inscribirán en el Banco de Éxitos las entidades u organismos ad
 
 El Departamento Administrativo de la Función Pública adoptará estrategias para la divulgación y transferencia de las experiencias exitosas, buenas prácticas y entidades registradas en el Banco de Éxitos para promover su replicabilidad e intercambio de conocimiento con otras entidades u organismos.
 
-ARTÍCULO
-
 ## art:2.2.25.3.3 — Transferencia de conocimiento de experiencias galardonadas y buenas prácticas registradas en el Banco de éxitos
 
 Con el reconocimiento del Premio Nacional de Alta Gerencia y el registro de la experiencia galardonada o la buena práctica en 12eI Banco de Éxitos, las entidades deberán fomentar espacios, en el marco de su autonomía, para el desarrollo de procesos de transferencia de conocimientos y divulgación de la información de la experiencia o buena práctica en las demás entidades de la administración pública que la requieran.
 
 El Departamento Administrativo de la Función Pública a través de diversas estrategias aportará al proceso de transferencia del conocimiento y difusión de las experiencias exitosas y buenas prácticas.
-
-ARTÍCULO
 
 ## art:2.2.25.3.4 — Exclusión del Banco de éxitos
 
@@ -12079,8 +10833,6 @@ El Departamento Administrativo de la Función Pública, mediante acto administra
 TÍTULO 26
 
 RÉGIMEN DE LOS SERVIDORES DE LAS SOCIEDADES DE ECONOMÍA MIXTA EN LAS CUALES EL APORTE DE LA NACIÓN, ENTIDADES TERRITORIALES Y ENTIDADES DESCENTRALIZADAS, SEA IGUAL O SUPERIOR AL NOVENTA POR CIENTO (90%) DEL CAPITAL SOCIAL
-
-ARTÍCULO
 
 ## art:2.2.26.1 — Régimen aplicable
 
@@ -12096,8 +10848,6 @@ TÍTULO 27
 
 ESTÁNDARES MINIMOS PARA ELECCIÓN DE PERSONEROS MUNICIPALES
 
-ARTÍCULO
-
 ## art:2.2.27.1 — Concurso público de méritos para la elección personeros
 
 El personero municipal o distrital será elegido de la lista que resulte del proceso de selección público y abierto adelantado por el concejo municipal o distrital.
@@ -12107,8 +10857,6 @@ Los concejos municipales o distritales efectuarán los trámites pertinentes par
 El concurso de méritos en todas sus etapas deberá ser adelantado atendiendo criterios de objetividad, transparencia, imparcialidad y publicidad, teniendo en cuenta la idoneidad de los aspirantes para el ejercicio de las funciones.
 
 (Decreto 2485 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.27.2 — Etapas del concurso público de méritos para la elección de personeros
 
@@ -12134,8 +10882,6 @@ El proceso público de méritos para la elección del personero deberá comprend
 
 (Decreto 2485 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.27.3 — Mecanismos de publicidad
 
 La publicidad de las convocatorias deberá hacerse a través de los medios que garanticen su conocimiento y permitan la libre concurrencia, de acuerdo con lo establecido en el reglamento que para el efecto expida el concejo municipal o distrital y a lo señalado en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo, en lo referente a la publicación de avisos, distribución de volantes, inserción en otros medios, la publicación en la página web, por bando y a través de un medio masivo de comunicación de la entidad territorial.
@@ -12143,8 +10889,6 @@ La publicidad de las convocatorias deberá hacerse a través de los medios que g
 PARÁGRAFO . Con el fin de garantizar la libre concurrencia, la publicación de la convocatoria deberá efectuarse con no menos de diez (10) días calendario antes del inicio de la fecha de inscripciones.
 
 (Decreto 2485 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.27.4 — Lista de elegibles
 
@@ -12154,15 +10898,11 @@ Con los resultados de las pruebas el concejo municipal o distrital elaborará en
 
 (Ver Sentencia del Consejo de Estado 00219 de 2017)
 
-ARTÍCULO
-
 ## art:2.2.27.5 — Naturaleza del cargo
 
 El concurso público de méritos señalado en la ley para la designación del personero municipal o distrital no implica el cambio de la naturaleza jurídica del empleo.
 
 (Decreto 2485 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.27.6 — Convenios interadministrativos
 
@@ -12178,8 +10918,6 @@ En tales convenios, los concejos participantes unificarán los criterios de valo
 
 DESIGNACIÓN DE LOS DIRECTORES O GERENTES REGIONALES O SECCIONALES O QUIENES HAGAN SUS VECES, EN LOS ESTABLECIMIENTOS PÚBLICOS DE LA RAMA EJECUTIVA DEL ORDEN NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.28.1 — Designación
 
 El Director o Gerente Regional o Seccional o quien haga sus veces será escogido por el Gobernador del Departamento donde esté ubicada físicamente la Regional o Seccional, de terna enviada por el representante legal del establecimiento público respectivo, la cual deberá estar integrada por personas que cumplan con los requisitos exigidos en el Manual de Funciones y Requisitos de la Entidad y sean escogidos de conformidad con el proceso de selección público abierto que se establece en el presente decreto.
@@ -12189,8 +10927,6 @@ Cuando el área de influencia de una Regional o Seccional abarque dos o más dep
 (Decreto 1972 de 2002, art. 1)
 
 (Ver Ley 489 de 1998, art. 77)
-
-ARTÍCULO
 
 ## art:2.2.28.2 — Conformación de ternas
 
@@ -12204,15 +10940,11 @@ PARÁGRAFO . El proceso de selección público abierto que se realice en cumplim
 
 (Decreto 1972 de 2002, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.28.3 — Naturaleza del cargo
 
 El proceso de selección público abierto para la integración de las ternas no implica el cambio de la naturaleza jurídica de los empleos a proveer y tampoco limita la facultad discrecional del nominador.
 
 (Decreto 1972 de 2002, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.28.4 — 
 
@@ -12224,8 +10956,6 @@ Si en dichos plazos no se efectuare la selección por parte del Gobernador o de 
 
 (Decreto 1972 de 2002, art. 4 modificado por el Decreto 307 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.28.5 — Competencia para el nombramiento y remoción
 
 El nombramiento y remoción del Director o Gerente Regional o Seccional se efectuará por el representante legal del respectivo Establecimiento Público.
@@ -12233,8 +10963,6 @@ El nombramiento y remoción del Director o Gerente Regional o Seccional se efect
 En el caso de vacancia temporal del empleo, éste será provisto por el Representante Legal de cada establecimiento público, mediante la figura del encargo.
 
 (Decreto 1972 de 2002, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.28.6 — 
 
@@ -12248,15 +10976,11 @@ Así mismo, en desarrollo de su función de lucha contra la corrupción, podrá 
 
 PROCEDIMIENTO PARA LA DESIGNACIÓN DEL COMISIONADO DE LA COMISION NACIONAL DEL SERVICIO CIVIL
 
-ARTÍCULO
-
 ## art:2.2.29.1 — Requisitos de formación académica
 
 Para efectos de lo establecido en el numeral 2 del ARTÍCULO 8 de la Ley 909 de 2004, las profesiones afines a las funciones de la Comisión Nacional del Servicio Civil, de acuerdo con la certificación expedida por el Departamento Administrativo de la Función Pública, son las siguientes: Derecho, psicología, administración de empresas, administración pública, ingeniería industrial, e ingeniería administrativa.
 
 (Decreto 3232 de 2004, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.29.2 — 
 
@@ -12270,8 +10994,6 @@ En la convocatoria se informará la Universidad o la Institución de Educación 
 
 (Ver Concepto del Consejo de Estado - Sala de Consulta y Servicio Civil 2185 de 2014)
 
-ARTÍCULO
-
 ## art:2.2.29.3 — Cronograma
 
 El organismo o la entidad encargada de adelantar el proceso de selección, de acuerdo a la alternancia señalada en la ley 909 de 2004, elaborará un cronograma que será publicado dentro de los cinco días siguientes a la convocatoria por parte del Gobierno Nacional, en las páginas web del Departamento Administrativo de la Función Pública, de la Comisión Nacional del Servicio Civil y del organismo o entidad.
@@ -12283,8 +11005,6 @@ Las reclamaciones deberán presentarse dentro de los dos (2) días siguientes a 
 El proceso de selección deberá adelantarse con tres meses de antelación al vencimiento del período de cada uno de los Comisionados.
 
 (Decreto 3016 de 2008, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.29.4 — Pruebas o instrumentos de selección
 
@@ -12298,8 +11018,6 @@ En el concurso de méritos de que trata el artículo 9 de la Ley 909 de 2004, se
 
 (Decreto 3016 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.29.5 — Lista de aprobados
 
 Con base en los resultados de las pruebas y con quienes obtengan puntajes ponderados iguales o superiores al 65% del total del concurso, la entidad encargada de adelantar el proceso de selección elaborará la lista de aprobados en estricto orden de mérito.
@@ -12311,8 +11029,6 @@ En todo caso el listado de los aspirantes que superaron el proceso deberá envia
 La lista de elegibles servirá para suplir, en estricto orden de mérito, las vacancias definitivas del empleo a proveer.
 
 (Decreto 3016 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.29.6 — Convocatoria a nuevo concurso
 
@@ -12326,8 +11042,6 @@ CAPÍTULO 1
 
 PRINCIPIOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.30.1.1 — Tipos de vinculación a la administración pública
 
 Los empleados públicos están vinculados a la administración pública nacional por una relación legal y reglamentaria y los trabajadores oficiales por un contrato de trabajo.
@@ -12335,8 +11049,6 @@ Los empleados públicos están vinculados a la administración pública nacional
 En todos los casos en que el empleado se halle vinculado a la entidad empleadora por una relación legal y reglamentaria, se denomina empleado público. En caso contrario, tendrá la calidad de trabajador oficial, vinculado por una relación de carácter contractual laboral.
 
 (Decreto 1848 de 1969, art. 1, inciso 2 y 3)
-
-ARTÍCULO
 
 ## art:2.2.30.1.2 — 
 
@@ -12354,15 +11066,11 @@ CAPÍTULO 2
 
 DISPOSICIONES ESPECIALES APLICABLES A LOS CONTRATOS DE TRABAJO DE LOS TRABAJADORES OFICIALES
 
-ARTÍCULO
-
 ## art:2.2.30.2.1 — Contrato de trabajo
 
 Se entiende por contrato de trabajo la relación jurídica entre el trabajador y el empleador, en razón de la cual quedan obligados recíprocamente, el primero, a ejecutar una o varias obras o labores, o a prestar personalmente un servicio intelectual o material, en beneficio del segundo y bajo su continuada dependencia y este último a pagar a aquel cierta remuneración.
 
 (Decreto 2127 de 1945, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.30.2.2 — Elementos del contrato de trabajo
 
@@ -12376,15 +11084,11 @@ En consecuencia para que haya contrato de trabajo se requiere que concurran esto
 
 (Decreto 2127 de 1945, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.30.2.3 — Prevalencia de la realidad sobre las formas
 
 Por el contrario, una vez reunidos los tres elementos de que trata el artículo anterior, el contrato de trabajo no deja de serlo por virtud del nombre que se le dé, ni de las condiciones peculiares del empleador, ya sea persona jurídica o natural; ni de las modalidades de la labor; ni del tiempo que en su ejecución se invierta; ni del sitio en donde se realice, así sea el domicilio del trabajador; ni de la naturaleza de la remuneración, ya en dinero, ya en especie o ya en simple enseñanza; ni del sistema de pago; ni de otras circunstancias cualesquiera.
 
 (Decreto 2127 de 1945, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.30.2.4 — Régimen aplicable a los empleados públicos
 
@@ -12392,15 +11096,11 @@ No obstante lo dispuesto en los artículos anteriores, las relaciones entre los 
 
 (Decreto 2127 de 1945, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.30.2.5 — Representantes del empleador
 
 Se consideran representantes del empleador, y en tal carácter obligan a éste en sus relaciones con los demás trabajadores, los directores, gerentes, administradores y, en general las personas que en nombre de él ejerzan funciones de dirección o administración, así como los puros intermediarios que contratan los servicios de otras personas para ejecutar algún trabajo en beneficio del empleador, y por cuenta exclusivamente de éste.
 
 (Decreto 2127 de 1945, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.30.2.6 — Solidaridad entre el beneficiario de las labores y el contratista
 
@@ -12408,15 +11108,11 @@ No son simples intermediarios ni representantes, sino contratistas independiente
 
 (Decreto 2127 de 1945, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.30.2.7 — Solidaridad entre empleadores
 
 Son también solidariamente responsables, en los términos del artículo 2.2.1.8.6 del presente Decreto, las sociedades de personas y sus miembros y éstos entre sí en relación con el objeto social y sólo hasta el límite de la responsabilidad de cada socio, de acuerdo con la ley; las cooperativas de empleadores, y cada uno de sus afiliados, respecto de la actividad que aquellas coordinen o de la elaboración de los productos que unas u otros distribuyan; y los condueños o comuneros de una misma empresa, entre sí, mientras permanezcan en indivisión.
 
 (Decreto 2127 de 1945, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.30.2.8 — Derecho a elección de profesión u ocupación
 
@@ -12424,15 +11120,11 @@ Nadie podrá impedir el trabajo a los demás, ni que se dediquen a la profesión
 
 (Decreto 2127 de 1945, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.30.2.9 — Definición violación de derechos de terceros y de la sociedad
 
 Se violan los derechos de terceros cuando se trata de sustituir definitivamente a un trabajador cuyo contrato esté solamente suspendido y no extinguido, conforme a la ley, o que se haya separado temporalmente de sus labores por causa de enfermedad, de vacaciones, de fuerza mayor o con permiso, o cuando al regresar al trabajo en esos casos, se le niega o dilata su restablecimiento en el mismo puesto. Se violan los derechos de la sociedad cuando se trata de sustituir o se sustituye a un trabajador amparado por el fuero sindical, sin la debida autorización de la justicia del trabajo, o cuando, declarada y mantenida una huelga con sujeción a las normas de la ley, se trata de sustituir o se sustituye a los huelguistas en las labores suspendidas, mientras no se resuelva el conflicto, salvo en aquellas dependencias cuyo funcionamiento sea indispensable, a juicio del Gobierno, para evitar graves perjuicios a la seguridad y conservación de los talleres y elementos básicos. Esta enumeración no es exhaustiva.
 
 (Decreto 2127 de 1945, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.30.2.10 — Irrenunciabilidad de los derechos laborales
 
@@ -12444,15 +11136,11 @@ CAPÍTULO 3
 
 CELEBRACION DEL CONTRATO
 
-ARTÍCULO
-
 ## art:2.2.30.3.1 — Capacidad para celebrar el contrato de trabajo
 
 Tienen capacidad para celebrar el contrato de trabajo, para percibir la retribución convenida y para ejercer las acciones que nazcan del contrato o de la ley, todas las personas que son capaces de obligarse civilmente y, además, los menores de edad, en los términos señalados en la Ley 1098 de 2006 o la que la modifique, adicione o sustituya, entre los diez y ocho y los veintiún años. Los contratos relativos a menores de diez y ocho años y mayores de quince, deberán celebrarse con sus padres o representantes legales, y necesitarán la autorización del correspondiente Juez del Trabajo; este podrá autorizar al menor para celebrar el contrato y para ejercer las acciones respectivas, solamente cuando falten sus padres y sus representantes legales; en todo caso, la remuneración por su trabajo se pagará directamente al menor.
 
 (Decreto 2127 de 1945, art. 12. Ver art. 20 numerales 12 y 13, y art. 35 de la Ley 1098 de 2006)
-
-ARTÍCULO
 
 ## art:2.2.30.3.2 — 
 
@@ -12465,8 +11153,6 @@ En dicho contrato se hará constar la fecha desde la cual viene prestando sus se
 2. El mencionado contrato se escribirá por triplicado, con la siguiente destinación: un ejemplar para el empleador, otro para el trabajador y uno con destino a la institución de previsión social a la cual quede afiliado el trabajador oficial.
 
 (Decreto 1848 de 1969, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.30.3.3 — Contenido del contrato escrito
 
@@ -12492,23 +11178,17 @@ El contrato individual escrito se extenderá en tantos ejemplares cuantos sean l
 
 (Decreto 2127 de 1945, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.30.3.4 — Cláusulas nulas
 
 Son condiciones absolutamente nulas y no obligan a los contratantes aunque se expresen en el contrato, aquellas que desmejoren la situación del trabajador en relación con lo que establezcan la legislación del trabajo, las convenciones colectivas, los fallos arbitrales o los reglamentos de la empresa, y además, las que tiendan a limitar o entorpecer el libre ejercicio de los derechos políticos o civiles del trabajador.
 
 (Decreto 2127 de 1945, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.30.3.5 — Incorporación de cláusulas favorables al trabajador
 
 En todo contrato de trabajo se consideran incorporadas, aunque no se expresen, las disposiciones legales pertinentes, las cláusulas de las convenciones colectivas o fallos arbitrales respectivos, y las normas del reglamento interno de la entidad, las cuales, por otra parte, sustituyen de derecho las estipulaciones del contrato individual, en cuanto fueren más favorables para el trabajador.
 
 (Decreto 2127 de 1945, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.30.3.6 — Enganche colectivo en regiones y fuera del País
 
@@ -12522,15 +11202,11 @@ Por enganche colectivo se entiende la contratación simultánea de diez o más t
 
 (Decreto 2127 de 1945, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.30.3.7 — Enganche colectivo dentro del País
 
 Cuando los servicios hayan de prestarse dentro del país, pero a una distancia mayor de doscientos kilómetros de la residencia de los trabajadores, los contratos deberán constar por escrito; estipular que los gastos que implique la movilización de los trabajadores hasta el sitio del trabajo y los de su regreso al lugar de origen, serán exclusivamente de cargo del empleador, y ser aprobados por el correspondiente funcionario del Trabajo o por el Juez del Municipio en donde se realice el enganche. El Ministerio del ramo no podrá en todo tiempo, de oficio o a solicitud de los trabajadores enganchados, exigir del empleador una fianza que garantice los referidos gastos de regreso.
 
 (Decreto 2127 de 1945, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.30.3.8 — Enganches colectivos de indígenas
 
@@ -12543,8 +11219,6 @@ Mientras el Gobierno reglamenta lo relativo a la protección del trabajo de ind�
 CAPÍTULO 4
 
 OBLIGACIONES RECIPROCAS
-
-ARTÍCULO
 
 ## art:2.2.30.4.1 — Obligaciones del Empleador
 
@@ -12578,8 +11252,6 @@ Son obligaciones especiales a cargo del empleador:
 
 (Decreto 2127 de 1945, art. 26. El numeral 11 fue adicionado por el Decreto 2541 de 1945, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.30.4.2 — Prohibiciones al empleador
 
 Queda prohibido a los empleadores:
@@ -12612,8 +11284,6 @@ Queda prohibido a los empleadores:
 
 (Decreto 2127 de 1945, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.30.4.3 — Obligaciones del trabajador
 
 Son obligaciones especiales del trabajador:
@@ -12642,15 +11312,11 @@ Son obligaciones especiales del trabajador:
 
 CAPÍTULO 5
 
-ARTÍCULO
-
 ## art:2.2.30.5.1 — Reglamento Interno de Trabajo
 
 Toda entidad que tenga a su servicio más de cinco trabajadores oficiales de carácter permanente, en actividades comerciales, o más de diez en labores industriales, o más de veinte en empresas agrícolas, ganaderas o forestales, deberá elaborar y someter a la aprobación de las autoridades del ramo un "reglamento interno de trabajo".
 
 (Decreto 2127 de 1945, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.30.5.2 — Contenido del Reglamento Interno de Trabajo
 
@@ -12682,15 +11348,11 @@ El reglamento interno de trabajo contendrá, cuando menos, disposiciones normati
 
 (Decreto 2127 de 1945, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.30.5.3 — Aprobación de los Reglamentos Internos de Trabajo
 
 Corresponde a los Inspectores de Trabajo la aprobación provisional de los reglamentos internos, la cual deberá solicitarse dentro de los treinta días siguientes a la iniciación de los trabajos de la empresa acompañando tres copias del proyecto; si lo estimare necesario, el Inspector practicará una visita a los sitios de trabajo; luego hará las observaciones del caso, o impartirá la aprobación. El reglamento aprobado, con las actas, informes y documentos del caso, será remitido por el Inspector al Ministerio del ramo, para la aprobación definitiva. Esta última no priva al Gobierno de la facultad de ordenar en cualquier tiempo la revisión o modificación de los reglamentos internos, para ajustarlos a la ley.
 
 (Decreto 2127 de 1945, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.30.5.4 — Aplicación de los Reglamentos Internos de Trabajo
 
@@ -12698,15 +11360,11 @@ Los reglamentos internos solamente empezarán a regir quince días después de l
 
 (Decreto 2127 de 1945, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.30.5.5 — Cláusulas nulas en los reglamentos internos de trabajo
 
 Son absolutamente nulas las cláusulas de los reglamentos internos que desmejoren las condiciones del trabajador en relación con lo establecido por la legislación del trabajo, las convenciones individuales o colectivas o las decisiones arbitrales, las cuales, por otra parte, sustituyen de derecho las disposiciones del reglamento interno en cuanto fuere más favorable al trabajador.
 
 (Decreto 2127 de 1945, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.30.5.6 — Aplicación a modificación de reglamentos
 
@@ -12718,15 +11376,11 @@ CAPÍTULO 6
 
 DURACION DEL CONTRATO DE TRABAJO
 
-ARTÍCULO
-
 ## art:2.2.30.6.1 — Duración del contrato
 
 El contrato de trabajo puede celebrarse por tiempo determinado, por el tiempo que dure la realización de una obra o labor determinada, por tiempo indefinido, o para ejecutar un trabajo ocasional, accidental o transitorio.
 
 (Decreto 2127 de 1945, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.30.6.2 — Contrato por tiempo determinado
 
@@ -12734,15 +11388,11 @@ El contrato celebrado por tiempo determinado deberá constar siempre por escrito
 
 (Decreto 2127 de 1945, art. 38 concordado con el art. 2 de la Ley 64 de 1946 el cual modificó el ARTÍCULO 8 de la Ley 6 de 1945)
 
-ARTÍCULO
-
 ## art:2.2.30.6.3 — Contrato por duración de la obra o labor
 
 El contrato celebrado por el tiempo que dure la realización de una obra o labor determinada, como en los casos de construcciones, roserías, recolección de cosechas, etc., deberá constar por escrito.
 
 (Decreto 2127 de 1945, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.30.6.4 — Contrato indefinido
 
@@ -12750,15 +11400,11 @@ El contrato celebrado por tiempo indefinido o sin fijación de término alguno, 
 
 (Decreto 2127 de 1945, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.30.6.5 — Trabajo ocasional, accidental o transitorio
 
 Trabajo ocasional, accidental o transitorio, es el de corta duración, no mayor de un mes, que se refiera a labores distintas de las actividades normales de la empresa o negocio.
 
 (Decreto 2127 de 1945, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.30.6.6 — Revisión del contrato
 
@@ -12766,15 +11412,11 @@ Todo contrato de trabajo será revisable cuandoquiera que sobrevengan imprevisib
 
 (Decreto 2127 de 1945, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.30.6.7 — Prórroga del contrato
 
 El contrato celebrado por tiempo indefinido o sin fijación de término alguno, salvo estipulación en contrario, se entenderá prorrogado en las mismas condiciones, por períodos iguales, es decir, de seis en seis meses, por el solo hecho de continuar el trabajador prestando sus servicios al empleador, con su consentimiento, expreso o tácito, después de la expiración del plazo presuntivo. La prórroga a plazo fijo del contrato celebrado por tiempo determinado deberá constar por escrito; pero si extinguido el plazo inicialmente estipulado, el trabajador continuare prestando sus servicios al empleador, con su consentimiento, expreso o tácito, el contrato vencido se considerará, por ese solo hecho, prorrogado por tiempo indefinido, es decir, por períodos de seis meses.
 
 (Decreto 2127 de 1945, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.30.6.8 — Suspensión del contrato de trabajo
 
@@ -12800,23 +11442,17 @@ El contrato de trabajo se suspende:
 
 (Nota: Ver numeral 2 del Art. 6 de la Ley 2097 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.30.6.9 — Reanudación de trabajos suspendidos
 
 Antes de reanudarse los trabajos suspendidos, en los casos previstos en los numerales 1, 2 y 3 del artículo 2.2.30.6.8 del presente Decreto, el empleador deberá anunciar a los trabajadores, con toda oportunidad, la fecha en que deban iniciarse, por medio de nota al Inspector del Trabajo o a la primera autoridad política del lugar de los trabajos y de aviso que publicará en un periódico de la región o en el Diario Oficial, y estará obligado a reponer en sus puestos anteriores a todos los trabajadores que se presentaren dentro de los tres días siguientes a la fecha fijada.
 
 (Decreto 2127 de 1945, art. 45)
 
-ARTÍCULO
-
 ## art:2.2.30.6.10 — Efectos de la suspensión
 
 La suspensión de los contratos de trabajo no implica su extinción. Salvo convención en contrario, durante el período correspondiente se suspende para el trabajador la obligación de prestar el servicio prometido y para el empleador la de pagar los salarios de ese lapso. y la de asumir los riesgos que sobrevengan durante la suspensión, excepto el pago del seguro de vida y el auxilio funerario, a que haya lugar de acuerdo con la ley, y las prestaciones e indemnizaciones correspondientes a enfermedades o accidentes que hayan originado la suspensión. El tiempo durante el cual esté suspendido el contrato de trabajo, podrá ser descontado por el empleador del cómputo de los períodos necesarios para ciertas prestaciones, como vacaciones, auxilios de cesantía y pensiones de jubilación, pero no hará perder el derecho a tales prestaciones.
 
 (Decreto 2127 de 1945, art. 46)
-
-ARTÍCULO
 
 ## art:2.2.30.6.11 — Terminación del contrato de trabajo
 
@@ -12839,8 +11475,6 @@ El contrato de trabajo termina:
 8. Por sentencia de autoridad competente.
 
 (Decreto 2127 de 1945, art. 47)
-
-ARTÍCULO
 
 ## art:2.2.30.6.12 — Terminación del contrato por justa causa
 
@@ -12880,8 +11514,6 @@ Por parte del trabajador:
 
 (Decreto 2127 de 1945, art. 48; art. 35 de la Ley 734 de 2002)
 
-ARTÍCULO
-
 ## art:2.2.30.6.13 — Terminación con previo aviso
 
 Son justas causas para dar por terminado, unilateralmente el contrato de trabajo, con previo aviso dado por escrito a la otra parte, con antelación por lo menos igual al período que regule los pagos del salario, o mediante el pago de los salarios correspondientes a tal período:
@@ -12910,23 +11542,17 @@ Por parte del trabajador:
 
 (Decreto 2127 de 1945, art. 49)
 
-ARTÍCULO
-
 ## art:2.2.30.6.14 — Reserva de la facultad para terminar el contrato
 
 También podrán las partes reservarse la facultad de terminar unilateralmente cualquier contrato de trabajo, mediante aviso dado a la otra con una antelación que no podrá ser inferior al período que, de conformidad con el contrato o el reglamento interno, o con la costumbre de la región, regule los pagos del salario. Esta reserva solo será válida cuando conste por escrito, ya en el contrato individual, ya en la convención colectiva si la hay, o ya en el reglamento interno de trabajo aprobado por las autoridades del ramo y siempre que la facultad se otorgue a ambas partes en idéntica forma. Podrá prescindirse del aviso, pagando los salarios correspondientes al mismo período.
 
 (Decreto 2127 de 1945, art. 50)
 
-ARTÍCULO
-
 ## art:2.2.30.6.15 — Pago de salarios e indemnización por terminación
 
 Fuera de los casos a que se refieren los artículos 2.2.30.6.11,2.2.30.6.12, 2.2.30.6.13 y 2.2.30.6.14 del presente Decreto, la terminación unilateral del contrato de trabajo por parte del empleador, dará derecho al trabajador a reclamar los salarios correspondientes al tiempo que faltare para cumplirse el plazo pactado o presuntivo, además de la indemnización de perjuicios a que haya lugar.
 
 (Decreto 2127 de 1945, art. 51)
-
-ARTÍCULO
 
 ## art:2.2.30.6.16 — Condición de pago para terminación del contrato y término de suspensión para el efecto
 
@@ -12944,15 +11570,11 @@ Si transcurrido el término de noventa (90) días señalado en el inciso primero
 
 (Decreto 2127 de 1945, art. 52, ARTÍCULO subrogado por el artículo 1 del Decreto 797 de 1949)
 
-ARTÍCULO
-
 ## art:2.2.30.6.17 — Sustitución patronal
 
 La sola sustitución del empleador no interrumpe, modifica ni extingue los contratos de trabajo celebrados por el sustituido. Entiéndese por sustitución toda mutación del dominio sobre la empresa o negocio o de su régimen de administración, sea por muerte del primitivo dueño o por enajenación a cualquier título, o por transformación de la sociedad empresaria, o por contrato de administración delegada o por otras causas análogas. La sustitución puede ser total o parcial, teniéndose como parcial la que se refiere a una porción del negocio o empresa, susceptible de ser considerada y manejada como unidad económica independiente.
 
 (Decreto 2127 de 1945, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.30.6.18 — Término permanencia de solidaridad por sustitución patronal
 
@@ -12961,8 +11583,6 @@ En caso de sustitución de empleadores, el sustituto responderá solidariamente 
 (Decreto 2127 de 1945, art. 54)
 
 DISPOSICIONES COMUNES APLICABLES A LOS EMPLEADOS PÚBLICOS Y TRABAJADORES OFICIALES
-
-ARTÍCULO
 
 ## art:2.2.31.1 — 
 
@@ -12986,8 +11606,6 @@ Se presume que el despido se ha efectuado por motivo de embarazo o lactancia, cu
 
 (Decreto 1848 de 1969, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.31.3 — 
 
 2.2.31.3 Indemnización por despido.
@@ -13002,8 +11620,6 @@ b. La suma de dinero correspondiente a la licencia remunerada de ocho (8) semana
 
 (Decreto 1848 de 1969, art. 41)
 
-ARTÍCULO
-
 ## art:2.2.31.4 — 
 
 2.2.31.4 Derecho a vacaciones.
@@ -13016,8 +11632,6 @@ ARTÍCULO
 
 (Decreto 1848 de 1969, art. 43)
 
-ARTÍCULO
-
 ## art:2.2.31.5 — Descuentos prohibidos
 
 Queda prohibido a los habilitados, cajeros y pagadores, deducir suma alguna de los salarios que corresponden a los empleados oficiales.
@@ -13029,8 +11643,6 @@ a. Cuando exista un mandamiento judicial que así lo ordene en cada caso particu
 b. Cuando la autorice por escrito el empleado oficial para cada caso, a menos que la deducción afecte el salario mínimo legal o la parte inembargable del salario ordinario, casos estos en los cuales no podrá hacerse la deducción solicitada.
 
 (Decreto 1848 de 1969, art. 93)
-
-ARTÍCULO
 
 ## art:2.2.31.6 — Deducciones permitidas
 
@@ -13048,15 +11660,11 @@ e. A cubrir deudas de consumo contraídas con almacenes y servicios de las cajas
 
 (Decreto 1848 de 1969, art. 94)
 
-ARTÍCULO
-
 ## art:2.2.31.7 — Inembargabilidad del salario mínimo legal
 
 No es embargable el salario mínimo legal, excepto en los casos a que se refiere el artículo siguiente.
 
 (Decreto 1848 de 1969, art. 95)
-
-ARTÍCULO
 
 ## art:2.2.31.8 — 
 
@@ -13067,8 +11675,6 @@ ARTÍCULO
 2. En los demás casos, solamente es embargable la quinta parte de lo que exceda del valor del respectivo salario mínimo legal.
 
 (Decreto 1848 de 1969, art. 96)
-
-ARTÍCULO
 
 ## art:2.2.31.9 — Certificado de trabajo
 
@@ -13086,8 +11692,6 @@ DISPOSICIONES APLICABLES A LOS TRABAJADORES OFICIALES
 
 (Decreto 1848 de 1969, art. 52)
 
-ARTÍCULO
-
 ## art:2.2.32.2 — Derecho al seguro por muerte
 
 En caso de fallecimiento del trabajador oficial en servicio, sus beneficiarios forzosos tienen derecho a percibir el valor del seguro por muerte a que se refiere el artículo anterior, de acuerdo con la siguiente forma de distribución:
@@ -13100,15 +11704,11 @@ PARÁGRAFO . La entidad o empresa oficial a cuyo cargo esté el reconocimiento y
 
 (Decreto 1848 de 1969, art. 53)
 
-ARTÍCULO
-
 ## art:2.2.32.3 — Efectividad del seguro
 
 El seguro por muerte a que se refiere este capítulo será satisfecho por la entidad de previsión social a la cual estuvo afiliado el empleado o trabajador oficial al tiempo de su fallecimiento, dentro de los tres (3) meses siguientes, a partir de la fecha en que se ordena el reconocimiento y pago correspondiente.
 
 (Decreto 1848 de 1969, art. 54)
-
-ARTÍCULO
 
 ## art:2.2.32.4 — Tiempo a que se extiende la protección del seguro
 
@@ -13120,8 +11720,6 @@ b) Cuando la relación jurídica se extingue estando afectado el empleado por en
 
 (Decreto 1848 de 1969, art. 55)
 
-ARTÍCULO
-
 ## art:2.2.32.5 — Trámite para el pago del seguro
 
 Solicitado el pago del seguro por la persona o personas titulares del derecho y demostrada su calidad de beneficiarios, conforme a la ley, la entidad, establecimiento o empresa oficial obligado, publicará un aviso en que conste: El nombre del empleado oficial fallecido, el empleo que desempeñaba últimamente, la indicación de la persona o personas que reclaman el pago del seguro y la calidad invocada para tal efecto, con el fin de que todos los posibles beneficiarios se presenten a reclamar.
@@ -13132,15 +11730,11 @@ Transcurrido el término de un (1) mes, contado a partir de la fecha de la publi
 
 (Decreto 1848 de 1969, art. 56)
 
-ARTÍCULO
-
 ## art:2.2.32.6 — Controversia entre pretendidos beneficiarios
 
 Si se presentare controversia entre los pretendidos beneficiarios del seguro, se suspenderá el pago hasta tanto se decida judicialmente, por medio de sentencia ejecutoriada, a qué persona o personas corresponde el valor del seguro.
 
 (Decreto 1848 de 1969, art. 57)
-
-ARTÍCULO
 
 ## art:2.2.32.7 — Transmisión de derechos laborales
 
@@ -13149,8 +11743,6 @@ Al fallecimiento del empleado oficial se transmite a sus herederos el derecho al
 (Decreto 1848 de 1969, art. 58)
 
 CESANTIAS PARA LOS CONGRESISTAS
-
-ARTÍCULO
 
 ## art:2.2.33.1 — Cesantías
 
@@ -13192,8 +11784,6 @@ superintendentes enlistados en artículo 2.2.34.1.1 del presente decreto se efec
 
 (Modificado por el Art. 1 del Decreto 226 de 2026)
 
-ARTÍCULO
-
 ## art:2.2.34.1.6 — Reemplazo de los Superintendentes al final del periodo presidencial
 
 Finalizado el periodo constitucional del Presidente de la República, deberá designarse su reemplazo dentro de los tres (3) meses siguientes a la fecha de posesión del nuevo Mandatario.
@@ -13205,8 +11795,6 @@ PARÁGRAFO . El nuevo Mandatario podrá ratificar a los superintendentes que vie
 (Adicionado Decreto 1817 de 2015, art. 1; Parágrafo adicionado por el Decreto 1647 de 2018, art. 1)
 
 (Declarado nulo parcialmente mediante Sentencia 2015-00542 de 2020 Consejo de Estado)
-
-ARTÍCULO
 
 ## art:2.2.34.1.7 — Reemplazo de los Superintendentes por vacancia definitiva antes de terminar el periodo presidencial
 
@@ -13220,8 +11808,6 @@ CAPÍTULO 2
 
 RÉGIMEN DE TRANSICIÓN
 
-ARTÍCULO
-
 ## art:2.2.34.2.1 — Régimen de Transición
 
 A los actuales superintendentes no se les exigirán requisitos distintos a los acreditados en el momento de su posesión. Sin embargo, les serán aplicables las normas previstas en los artículos 2.2.34.1.5. y siguientes de este Título.
@@ -13232,23 +11818,17 @@ A los actuales superintendentes no se les exigirán requisitos distintos a los a
 
 LINEAMIENTOS PARA EL FORTALECIMIENTO INSTITUCIONAL EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
 
-ARTÍCULO
-
 ## art:2.2.35.1 — Objeto
 
 El presente Título tiene por objeto señalar los lineamientos para el fortalecimiento institucional y ejecución de los planes, programas y proyectos de tecnologías y sistemas de información en la respectiva entidad.
 
 (Adicionado Decreto 415 de 2016, art. 1 )
 
-ARTÍCULO
-
 ## art:2.2.35.2 — Ámbito de aplicación
 
 Las disposiciones del presente Título aplican a las entidades del Estado del orden nacional y territorial, los organismos autónomos y de control.
 
 (Adicionado Decreto 415 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.35.3 — Objetivos del fortalecimiento institucional
 
@@ -13288,15 +11868,11 @@ Para el fortalecimiento institucional en materia de tecnologías de la informaci
 
 (Adicionado Decreto 415 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.35.4 — Nivel Organizacional
 
 Cuando la entidad cuente en su estructura con una dependencia encargada del accionar estratégico de las Tecnologías y Sistemas de la Información y las Comunicaciones, hará parte del comité directivo y dependerán del nominador o representante legal de la misma.
 
 (Adicionado Decreto 415 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.35.5 — 5.
 
@@ -13309,8 +11885,6 @@ Para lograr el funcionamiento armónico de la dependencia o instancia ejecutora 
 PARÁGRAFO . Las dependencias de Tecnologías y Sistemas de la Información que desempeñen el rol de orientadoras ejercerán, igualmente, el rol de ejecutoras al interior de cada una de sus instituciones.
 
 (Adicionado Decreto 415 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.35.6 — Articulación de las políticas en materia de TI
 
@@ -13328,15 +11902,11 @@ CAPITULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.36.1.1 — Objeto
 
 El presente Título tiene por objeto reglamentar las disposiciones contenidas en el Decreto Ley 894 de 2017, tendientes al fortalecimiento del empleo público y la gestión del talento humano en los municipios priorizados para el aseguramiento de la implementación del Acuerdo Final para la terminación del conflicto y la construcción de una Paz estable y duradera.
 
 (Decreto 1038 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.36.1.2 — Campo de aplicación
 
@@ -13349,8 +11919,6 @@ Así mismo, el presente Título se aplicará a los municipios de categorías esp
 CAPITULO 2
 
 REQUISITOS PARA PARTICIPAR EN LOS PROCESOS DE SELECCIÓN O CONCURSO DE MERITOS PARA INGRESAR A LOS EMPLEOS DE LOS MUNICIPIOS PRIORIZADOS
-
-ARTÍCULO
 
 ## art:2.2.36.2.1 — 2.1
 
@@ -13370,23 +11938,17 @@ Para el ejercicio de los empleos no se exigirá experiencia.
 
 (Decreto 1038 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.36.2.2 — 2.2
 
 Requisitos para participar en los procesos de selección en los municipios de categorías especial, primera, segunda, tercera y cuarta. Los aspirantes a ocupar los empleos de carrera administrativa en los municipios de categorías especial, primera, segunda, tercera y cuarta identificados en el Decreto Ley 893 de 2017, que sean. convocados a proceso de selección por la Comisión Nacional del Servicio Civil en cumplimiento de lo previsto en el Decreto Ley 894 de 2017, deberán acreditar los requisitos señalados en el manual de funciones y de competencias laborales de las respectivas entidades.
 
 (Decreto 1038 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.36.2.3 — Requisitos excepcionales
 
 Los empleados a quienes se les aplicó el artículo 30 del Decreto Ley 785 de 2005, y continúen desempeñando el mismo empleo, podrán participar, por una única vez, en los procesos de selección que sean convocados por la Comisión Nacional del Servicio Civil en cumplimiento de lo previsto en el Decreto Ley 894 de 2017, para proveer los empleos que vienen ocupando sin sujeción a los requisitos que se exijan en la convocatoria.
 
 (Decreto 1038 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.36.2.4 — Requisitos especiales
 
@@ -13408,15 +11970,11 @@ CAPITULO 3
 
 REGLAS DEL PROCESO DE SELECCIÓN O CONCURSO DE MERITOS PARA INGRESAR A LOS EMPLEOS DE LOS MUNICIPIOS PRIORIZADOS
 
-ARTÍCULO
-
 ## art:2.2.36.3.1 — Operador del Proceso
 
 El proceso de selección con enfoque diferencial que tenga en cuenta las particularidades económicas, sociales, educativas y culturales de la población para ingresar a los empleos de los municipi6s priorizados, será adelantado por la Comisión Nacional del Servicio Civil, a través de la Escuela Superior de Administración Pública - ESAP, como institución acreditada ante la CNSC para ser operador del proceso. La ESAP asumirá en su totalidad el costo que genere el proceso de selección.
 
 (Decreto 1038 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.36.3.2 — Reglas y principios del proceso de selección para ingresar a la carrera administrativa en los municipios priorizados
 
@@ -13498,15 +12056,11 @@ PARÁGRAFO 2. Los representantes legales de los municipios a los que se les apli
 
 (Decreto 1038 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.36.3.3 — Aplicación de pruebas
 
 La aplicación de pruebas se regirá por lo señalado en presente Capítulo y en el acuerdo de convocatoria que expida la Comisión Nacional del Servicio Civil.
 
 (Decreto 1038 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.36.3.4 — Curso de inducción
 
@@ -13521,8 +12075,6 @@ La ESAP determinará el número de sesiones al que debe asistir el aspirante par
 CAPITULO 4
 
 PROGRAMAS DE CAPACITACION PARA LOS EMPLEADOS DE LOS MUNICIPIOS PRIORIZADOS
-
-ARTÍCULO
 
 ## art:2.2.36.4.1 — Capacitación
 
@@ -13556,8 +12108,6 @@ Los planes de acción institucional en su componente de capacitación elaborados
 
 (Decreto 1038 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.36.4.2 — Recursos
 
 La ESAP deberá garantizar anualmente los recursos para la oferta de los programas de capacitación y formación profesional, que garanticen el cierre de brechas de talento humano en materia de gestión pública y desarrollo territorial y regional.
@@ -13567,8 +12117,6 @@ La ESAP deberá garantizar anualmente los recursos para la oferta de los program
 CAPITULO 5
 
 ESTIMULOS ESPECIALES PARA LOS EMPLEADOS DE LOS MUNICIPIOS PRIORIZADOS
-
-ARTÍCULO
 
 ## art:2.2.36.5.1 — Estímulos
 
@@ -13598,15 +12146,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.37.1.1 — Objeto
 
 El presente capítulo tiene como propósito reglamentar la habilitación de trabajo en casa para el sector público, así como, las condiciones complementarias necesarias para garantizar los derechos laborales de los servidores públicos, los derechos de las entidades del Estado y los deberes de ambas partes.
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.37.1.2 — Ámbito de aplicación
 
@@ -13615,8 +12159,6 @@ El presente capítulo aplica a los servidores públicos de los organismos y enti
 PARÁGRAFO . Las disposiciones contenidas en el presente capítulo, no serán aplicables a los servidores públicos que desempeñan sus labores bajo la modalidad de teletrabajo, quienes se seguirán rigiendo por las disposiciones de la Ley 1221 de 2008.
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.37.1.3 — Habilitación para el trabajo en casa
 
@@ -13636,8 +12178,6 @@ PARÁGRAFO 2. La habilitación para el trabajo en casa no podrá ser permanente 
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.37.1.4 — Situaciones ocasionales, excepcionales o especiales
 
 Se entiende por situación ocasional, excepcional o especial, aquellas circunstancias imprevisibles o irresistibles que generan riesgos para el servidor o inconveniencia para que el servidor público se traslade hasta el lugar de trabajo o haga uso de las instalaciones de la entidad.
@@ -13652,8 +12192,6 @@ PARÁGRAFO 3. Cuando el servidor público se encuentre desempeñando sus funcion
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.37.1.5 — Terminación de la habilitación de trabajo en casa
 
 Al momento del vencimiento del plazo inicial o su prórroga, informado en el acto de habilitación, el servidor público deberá presentarse en el lugar de trabajo. En el caso de no hacerlo, aplicarán las sanciones contempladas en la normatividad vigente.
@@ -13661,8 +12199,6 @@ Al momento del vencimiento del plazo inicial o su prórroga, informado en el act
 En todo caso, la entidad podrá dar por terminado unilateralmente la habilitación de trabajo en casa, siempre y cuando desaparezcan las circunstancias ocasionales, excepcionales o especiales que dieron origen a dicha habilitación, evento en el cual deberá notificar con mínimo cinco (5) días de antelación la decisión al servidor público. En el término máximo de hasta cinco (5) días, el servidor deberá presentarse en el sitio de trabajo y en ningún caso se podrá sancionar al servidor por no presentarse al lugar de trabajo si no media la notificación previa en la que se informe sobre la terminación del trabajo en casa.
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.37.1.6 — Instrumentos para la habilitación del trabajo en casa para los servidores públicos
 
@@ -13673,8 +12209,6 @@ PARÁGRAFO 1. En el caso de que el servidor público no pueda desarrollar sus fu
 PARÁGRAFO 2. La evaluación del desempeño: laboral se aplicará de acuerdo con la normatividad vigente en la materia.
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.37.1.7 — Derechos del servidor público habilitado para el trabajo en casa
 
@@ -13718,23 +12252,17 @@ Respecto de la gestión de riesgos laborales en los casos en que se habilite el 
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.37.1.9 — Programa de bienestar
 
 Durante la habilitación del trabajo en casa, para el desarrollo de las actividades en el marco del programa de bienestar, las entidades, organismos y órganos a quienes les aplica el presente capítulo, a través de sus áreas de talento humano o quienes hagan sus veces, deberán adelantar las acciones que correspondan de manera virtual, presencial o híbrida, según su autonomía y necesidades institucionales. Para tal fin, podrán solicitar el acompañamiento de la Cajas de Compensación Familiar y de la Administradora de Riesgos Laborales.
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.37.1.10 — Programa de formación y capacitación
 
 Para el desarrollo de las actividades en el marco del Plan Institucional de Capacitación, de acuerdo con los lineamientos que establece el Plan Nacional de Formación y Capacitación vigente, las entidades, organismos y órganos a quienes les aplica el presente capítulo, a través de sus áreas de talento humano o quienes hagan sus veces, deberán en lo posible gestionar las ofertas de capacitación de manera virtual.
 
 (Adicionado por el Art. 1 del Decreto 1662 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.37.1.11 — Canales oficiales de comunicación para ciudadanos y usuarios
 
@@ -14202,8 +12730,6 @@ PARTE 1
 
 VIGENCIA Y DEROGATORIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art.3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector de Función Pública que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -14215,8 +12741,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 3) Igualmente, quedan excluidas de esta derogatoria las normas de naturaleza reglamentaria de este sector administrativo que, a la fecha de expedición del presente decreto, se encuentren suspendidas por la Jurisdicción Contencioso Administrativa, las cuales serán compiladas en este decreto, en caso de recuperar su eficacia jurídica.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -14231,91 +12755,3 @@ JUAN MANUEL SANTOS CALDERÓN
 LILIANA CABALLERO
 
 LA DIRECTORA DEPARTAMENTO ADMINISTRATIVO LA FUNCIÓN PÚBLICA
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

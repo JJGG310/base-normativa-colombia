@@ -11,6 +11,7 @@ que una IA cite un artículo derogado — el chunk no siempre llega acompañado 
 norma, pero siempre llega acompañado de su advertencia.
 """
 import json, sqlite3, sys, os
+import build
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 
@@ -20,6 +21,7 @@ ADVERTENCIA = {
     "VIGENTE_CONDICIONADO": "APLICAR SOLO EN EL SENTIDO CONDICIONADO. La Corte lo declaró exequible bajo una interpretación específica; leerlo por fuera de ella es error.",
     "VIGENTE_REFORMADO": "VERIFICAR REDACCIÓN. El artículo fue modificado o adicionado; el texto aquí debe corresponder a la última versión.",
     "VIGENTE": None,
+    "INEXEQUIBLE_PARCIAL": "NO APLICAR SIN VERIFICAR. Una sentencia declaró inexequible parte de este artículo y la base no registra qué apartes cayeron: el texto aquí puede incluir partes ya retiradas del ordenamiento. Consultar la sentencia (ver `condicionamiento`) antes de aplicar.",
     "VIGENCIA_NO_VERIFICADA": "VERIFICAR ANTES DE USAR. De esta norma todavía no se cargó el rastro de reformas y derogatorias, así que no consta que el artículo siga vigente ni que este sea su texto actual. La ausencia de afectaciones registradas no es prueba de vigencia.",
 }
 
@@ -64,7 +66,8 @@ def exportar(ramas=(), salida=None):
                 "ubicacion": f["ubicacion"] or None,
                 "ramas": rama_lista,
                 "estado": estado,
-                "advertencia": ADVERTENCIA.get(estado),
+                "advertencia": ADVERTENCIA["INEXEQUIBLE_PARCIAL"] if v and estado != "MUERTO"
+                               and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado),
                 "texto": f["texto"],
                 "afectado_por": [dict(r) for r in con.execute(
                     "SELECT tipo, origen, fecha, nota FROM relaciones WHERE destino = ? ORDER BY fecha",
@@ -86,6 +89,21 @@ def exportar(ramas=(), salida=None):
     return n
 
 
+def violaciones(ruta):
+    """Registros que contradicen su propio texto o salen sin advertencia debida."""
+    malos = []
+    for linea in open(ruta, encoding="utf-8"):
+        r = json.loads(linea)
+        if not r["seccion"].startswith("art:"):
+            continue
+        if build.marca(r["texto"]) and r["estado"] != "MUERTO":
+            malos.append("texto dice derogado/inexequible y sale %s: %s" % (r["estado"], r["id"]))
+        if r["estado"] != "MUERTO" and not r["advertencia"] and any(
+                a["tipo"] == "declara_inexequible" for a in r["afectado_por"]):
+            malos.append("inexequible parcial sin advertencia: " + r["id"])
+    return malos
+
+
 def check():
     """El registro de un artículo muerto DEBE salir con advertencia. Es el punto del archivo."""
     import build, tempfile, shutil
@@ -93,10 +111,12 @@ def check():
     os.makedirs(tmp + "/normativa"); os.makedirs(tmp + "/jurisprudencia")
     open(tmp + "/normativa/x.md", "w", encoding="utf-8").write(
         "---\nid: co:ley:1:2000\ntipo: ley\ntitulo: Ley Uno\nramas: [civil]\n"
-        "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n")
+        "fuente: http://x\nverificado: 2026-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n"
+        "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n")
     open(tmp + "/relaciones.csv", "w", encoding="utf-8").write(
         "origen,tipo,destino,fecha,nota,fuente\n"
-        "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n")
+        "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
+        "co:cc:c-3:2010,declara_inexequible,co:ley:1:2000:art:3,2010-01-01,,x\n")
     build.construir(tmp + "/index.db", tmp)
     global RAIZ
     RAIZ = tmp
@@ -106,7 +126,16 @@ def check():
     assert "NO APLICAR" in reg["advertencia"], "un artículo muerto debe salir advertido"
     assert reg["cita"] == "Art. 1, Ley Uno", reg["cita"]
     assert reg["afectado_por"][0]["tipo"] == "deroga"
+    assert not violaciones(tmp + "/c.jsonl"), violaciones(tmp + "/c.jsonl")
+    regs = [json.loads(l) for l in open(tmp + "/c.jsonl", encoding="utf-8")]
+    assert regs[1]["estado"] == "MUERTO", "marcador <Artículo INEXEQUIBLE> en el texto"
+    assert "parte" in regs[2]["advertencia"], "inexequible parcial debe salir advertido"
     shutil.rmtree(tmp)
+    RAIZ = os.path.dirname(os.path.abspath(__file__))
+    if os.path.exists(os.path.join(RAIZ, "index.db")):  # la misma regla sobre el corpus real
+        exportar(salida=tmp + ".jsonl")
+        malos = violaciones(tmp + ".jsonl"); os.remove(tmp + ".jsonl")
+        assert not malos, "%d violaciones, p. ej. %s" % (len(malos), malos[:5])
     print("check OK")
 
 

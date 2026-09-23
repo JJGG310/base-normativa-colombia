@@ -8,7 +8,7 @@ ramas: [comercial]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html
-verificado: 2026-09-10
+verificado: 2026-09-23
 ---
 
 ## art:1 — <APLICABILIDAD DE LA LEY COMERCIAL>
@@ -79,9 +79,9 @@ ubicacion: TÍTULO I. DE LOS COMERCIANTES > CAPÍTULO I. CALIFICACIÓN DE LOS CO
 
 Toda persona que según las leyes comunes tenga capacidad para contratar y obligarse, es hábil para ejercer el comercio; las que con arreglo a esas mismas leyes sean incapaces, son inhábiles para ejecutar actos comerciales. 
 
-<Ver Nota de Editor> El menor habilitado de edad puede ejercer libremente el comercio y enajenar o gravar, en desarrollo del mismo, toda clase de bienes. 
+ El menor habilitado de edad puede ejercer libremente el comercio y enajenar o gravar, en desarrollo del mismo, toda clase de bienes. 
 
-<Ver Nota de Editor> Los menores no habilitados de edad que hayan cumplido 18 años y tengan peculio profesional, pueden ejercer el comercio y obligarse en desarrollo del mismo hasta concurrencia de dicho peculio. 
+ Los menores no habilitados de edad que hayan cumplido 18 años y tengan peculio profesional, pueden ejercer el comercio y obligarse en desarrollo del mismo hasta concurrencia de dicho peculio. 
 
 Los menores adultos pueden, con autorización de sus representantes legales, ocuparse en actividades mercantiles en nombre o por cuenta de otras personas y bajo la dirección y responsabilidad de éstas.
 
@@ -276,19 +276,7 @@ El registro mercantil se llevará con sujeción a las siguientes reglas, sin per
 
 3) La inscripción se hará en libros separados, según la materia, en forma de extracto que dé razón de lo sustancial del acto, documento o hecho que se inscriba, salvo que la ley o los interesados exijan la inserción del texto completo, y 
 
-4) La inscripción podrá solicitarse en cualquier tiempo, si la ley no fija un término especial para ello; pero los actos y documentos sujetos a registro no producirán efectos respecto de terceros sino a partir de la fecha de su inscripción. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+4) La inscripción podrá solicitarse en cualquier tiempo, si la ley no fija un término especial para ello; pero los actos y documentos sujetos a registro no producirán efectos respecto de terceros sino a partir de la fecha de su inscripción.
 
 ## art:30 — <PRUEBA DE INSCRIPCIÓN EN EL REGISTRO MERCANTIL>
 ubicacion: TÍTULO III. DEL REGISTRO MERCANTIL
@@ -451,12 +439,12 @@ ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO I. LIBROS Y PAPELES
 
 Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme a Ia reglamentación del Gobierno.
 
-Los libros podrán llevarse en archivos electrónicos, que garanticen en forma ordenada Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará de acuerdo con Ia reglamentación que expida el Gobierno Nacional
+Los libros podrán llevarse en archivos electrónicos, que garanticen en forma ordenada Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará de acuerdo con Ia reglamentación que expida el Gobierno Nacional.
 
 ## art:57 — PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO
 ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO I. LIBROS Y PAPELES DEL COMERCIANTE
 
-<Artículo modificado por el artículo 26 de la Ley 2195 de 2022. El nuevo texto es el siguiente:> En los libros de comercio se prohíbe: 
+En los libros de comercio se prohíbe: 
 
 1. Alterar en los asientos, el orden o la fecha de las operaciones a que estos se refieren; 
 
@@ -511,19 +499,7 @@ Lo dispuesto en este artículo no restringirá el derecho de inspección que con
 ## art:62 — <SANCIONES POR VIOLACIÓN DE RESERVA DE LOS LIBROS>
 ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO II. RESERVA Y EXHIBICIÓN DE LIBROS DE COMERCIO
 
-El revisor fiscal, el contador o el tenedor de los libros regulados en este Título que violen la reserva de los mismos, será sancionado con arreglo al Código Penal en cuanto a la violación de secretos y correspondencia, sin perjuicio de las sanciones disciplinarias del caso. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El revisor fiscal, el contador o el tenedor de los libros regulados en este Título que violen la reserva de los mismos, será sancionado con arreglo al Código Penal en cuanto a la violación de secretos y correspondencia, sin perjuicio de las sanciones disciplinarias del caso.
 
 ## art:63 — <EXHIBICIÓN O EXAMEN DE LIBROS DE COMERCIO ORDENADO DE OFICIO>
 ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO II. RESERVA Y EXHIBICIÓN DE LIBROS DE COMERCIO
@@ -615,19 +591,19 @@ ubicacion: TÍTULO V. DE LA COMPETENCIA DESLEAL
 ## art:78 — <DEFINICIÓN DE CÁMARA DE COMERCIO>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Las cámaras de comercio son instituciones de orden legal con personería jurídica, creadas por el Gobierno Nacional, de oficio o a petición de los comerciantes del territorio donde hayan de operar. Dichas entidades serán representadas por sus respectivos presidentes
+Las cámaras de comercio son instituciones de orden legal con personería jurídica, creadas por el Gobierno Nacional, de oficio o a petición de los comerciantes del territorio donde hayan de operar. Dichas entidades serán representadas por sus respectivos presidentes.
 
 ## art:79 — ADMINISTRACIÓN Y DIRECCIÓN DE LAS CÁMARAS DE COMERCIO
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-<Artículo modificado por el artículo 1 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Las Cámaras de Comercio estarán administradas y gobernadas por los comerciantes inscritos en el registro mercantil que tengan la calidad de afiliados. 
+Las Cámaras de Comercio estarán administradas y gobernadas por los comerciantes inscritos en el registro mercantil que tengan la calidad de afiliados. 
 
-El Gobierno Nacional determinará la jurisdicción de cada Cámara, teniendo en cuenta la continuidad geográfica y los vínculos comerciales de los municipios que agrupare, dentro de la cual ejercerá sus funciones
+El Gobierno Nacional determinará la jurisdicción de cada Cámara, teniendo en cuenta la continuidad geográfica y los vínculos comerciales de los municipios que agrupare, dentro de la cual ejercerá sus funciones.
 
 ## art:80 — INTEGRACIÓN DE LA JUNTA DIRECTIVA
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-<Artículo modificado por el artículo 2 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Las Juntas Directivas de las Cámaras de Comercio estarán conformadas por afiliados elegidos y por representantes designados por el Gobierno Nacional. Los miembros serán principales y suplentes. 
+Las Juntas Directivas de las Cámaras de Comercio estarán conformadas por afiliados elegidos y por representantes designados por el Gobierno Nacional. Los miembros serán principales y suplentes. 
 
 El Gobierno Nacional estará representado en las juntas directivas de las Cámaras de Comercio hasta en una tercera parte de cada junta. 
 
@@ -645,16 +621,16 @@ ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 ## art:82 — PERÍODO
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-<Artículo modificado por el artículo 5 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Con excepción de los miembros designados por el Gobierno Nacional, los miembros de la Junta Directiva serán elegidos para un período institucional de cuatro (4) años con posibilidad de reelección inmediata por una sola vez. 
+Con excepción de los miembros designados por el Gobierno Nacional, los miembros de la Junta Directiva serán elegidos para un período institucional de cuatro (4) años con posibilidad de reelección inmediata por una sola vez. 
 
 Los miembros designados por el Gobierno Nacional no tendrán período y serán designados y removidos en cualquier tiempo. 
 
-Las impugnaciones relativas a la forma como se hubiere preparado o efectuado la elección o el escrutinio serán conocidas y decididas por la Superintendencia de Industria y Comercio. Contra la decisión procede recurso de reposición
+Las impugnaciones relativas a la forma como se hubiere preparado o efectuado la elección o el escrutinio serán conocidas y decididas por la Superintendencia de Industria y Comercio. Contra la decisión procede recurso de reposición.
 
 ## art:83 — QUÓRUM PARA DELIBERAR Y DECIDIR
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-<Artículo modificado por el artículo 6 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> La Junta Directiva sesionará, cuando menos, una vez por mes y existirá quórum para deliberar y decidir válidamente en la Junta Directiva con la mayoría absoluta de sus miembros. La designación y remoción del representante legal, así como la aprobación de las reformas estatutarias, deberán contar con el voto favorable de, por lo menos, las dos terceras partes de sus miembros.
+La Junta Directiva sesionará, cuando menos, una vez por mes y existirá quórum para deliberar y decidir válidamente en la Junta Directiva con la mayoría absoluta de sus miembros. La designación y remoción del representante legal, así como la aprobación de las reformas estatutarias, deberán contar con el voto favorable de, por lo menos, las dos terceras partes de sus miembros.
 
 ## art:84 — <VOTO PERSONAL E INDELEGABLE EN ASAMBLEAS>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
@@ -713,7 +689,7 @@ Toda cámara de comercio tendrá uno o más secretarios, cuyas funciones serán 
 ## art:90 — <INCOMPATIBILIDADES DE EMPLEADOS>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Los abogados, economistas y contadores que perciban remuneración como empleados permanentes de las cámaras de comercio, quedarán inhabilitados para ejercer su profesión en asuntos particulares mientras permanezcan en sus cargos, so pena de destitución por mala conducta y multa hasta de veinte mil pesos. Una y otra las decretará el Superintendente de Industria y Comercio.
+Los [TACHADO: abogados, economistas y contadores] que perciban remuneración como empleados [TACHADO: permanentes] de las cámaras de comercio, quedarán inhabilitados para ejercer su profesión en asuntos particulares mientras permanezcan en sus cargos, so pena de destitución por mala conducta [TACHADO: y multa hasta de veinte mil pesos]. [TACHADO: Una y otra las decretará el Superintendente de Industria y Comercio].
 
 ## art:91 — <REQUISITOS PARA LOS GASTOS>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
@@ -777,43 +753,43 @@ LIBRO SEGUNDO.
 DE LAS SOCIEDADES COMERCIALES
 
 ## art:98 — <CONTRATO DE SOCIEDAD - CONCEPTO - PERSONA JURÍDICA DISTINTA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Por el contrato de sociedad dos o más personas se obligan a hacer un aporte en dinero, en trabajo o en otros bienes apreciables en dinero, con el fin de repartirse entre sí las utilidades obtenidas en la empresa o actividad social. 
 
 La sociedad, una vez constituida legalmente, forma una persona jurídica distinta de los socios individualmente considerados.
 
 ## art:99 — <CAPACIDAD DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La capacidad de la sociedad se circunscribirá al desarrollo de la empresa o actividad prevista en su objeto. Se entenderán incluidos en el objeto social los actos directamente relacionados con el mismo y los que tengan como finalidad ejercer los derechos o cumplir las obligaciones, legal o convencionalmente derivados de la existencia y actividad de la sociedad.
 
 ## art:100 — <ASIMILACIÓN A SOCIEDADES COMERCIALES - LEGISLACIÓN MERCANTIL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Se tendrán como comerciales, para todos los efectos legales las sociedades que se formen para la ejecución de actos o empresas mercantiles. Si la empresa social comprende actos mercantiles y actos que no tengan esa calidad, la sociedad será comercial. Las sociedades que no contemplen en su objeto social actos mercantiles, serán civiles. 
 
 Sin embargo, cualquiera que sea su objeto, las sociedades comerciales y civiles estarán sujetas, para todos los efectos, a la legislación mercantil.
 
 ## art:101 — <VALIDEZ DEL CONTRATO DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Para que el contrato de sociedad sea válido respecto de cada uno de los asociados será necesario que de su parte haya capacidad legal y consentimiento exento de error esencial, fuerza o dolo, y que las obligaciones que contraigan tengan un objeto y una causa lícitos. Se entiende por error esencial el que versa sobre los móviles determinantes del acto o contrato, comunes o conocidos por las partes.
 
 ## art:102 — <VALIDEZ DE SOCIEDADES FAMILIARES-APORTE DE BIENES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Será válida la sociedad entre padres e hijos o entre cónyuges, aunque unos y otros sean los únicos asociados. Los cónyuges, conjunta o separadamente, podrán aportar toda clase de bienes a la sociedad que formen entre sí o con otras personas.
 
 ## art:103 — <SOCIOS INCAPACES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Los incapaces no podrán ser socios de sociedades colectivas ni gestores de sociedades en comandita. 
 
-<Aparte tachado INEXEQUIBLE> En los demás casos, podrán ser socios, siempre que actúen por conducto de sus representantes o con su autorización, según el caso. Para el aporte de derechos reales sobre inmuebles, bastará el cumplimiento de los requisitos previstos en el artículo 111.
+<Aparte tachado INEXEQUIBLE> En los demás casos, podrán ser socios, siempre que actúen por conducto de sus representantes o con su autorización, según el caso. [TACHADO: Para el aporte de derechos reales sobre inmuebles, bastará el cumplimiento de los requisitos previstos en el artículo 111].
 
 ## art:104 — <VICIOS EN EL CONTRATO DE SOCIEDAD-NULIDADES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Los vicios del contrato de sociedad o el defecto de los requisitos de fondo indicados en el artículo 101 afectarán únicamente la relación contractual u obligación del asociado en quien concurran. 
 
@@ -822,7 +798,7 @@ La incapacidad relativa y los vicios del consentimiento sólo producirán nulida
 Habrá objeto ilícito cuando las prestaciones a que se obliguen los asociados o la empresa, o la actividad social, sean contrarias a la ley o al orden público. Habrá causa ilícita cuando los móviles que induzcan a la celebración del contrato contraríen la ley o el orden público y sean comunes o conocidos por todos los socios.
 
 ## art:105 — <NULIDAD POR OBJETO O CAUSA ILÍCITA EN CONTRATO DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La nulidad por ilicitud del objeto o de la causa podrá alegarse como acción o como excepción por cualquiera de los asociados o por cualquier tercero que tenga interés en ello. 
 
@@ -833,19 +809,19 @@ En el caso de nulidad proveniente de objeto o causa ilícitos los asociados no p
 Los asociados y quienes actúen como administradores responderán ilimitada y solidariamente por el pasivo externo y por los perjuicios causados. Además, quedarán inhabilitados para ejercer el comercio por el término de diez años, desde la declaratoria de la nulidad absoluta.
 
 ## art:106 — <NULIDAD INSANABLE EN CONTRATO DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La nulidad proveniente de ilicitud del objeto o de la causa no podrá sanearse. No obstante, cuando la ilicitud provenga de una prohibición legal o de la existencia de un monopolio oficial, la abolición de la prohibición o del monopolio purgarán el contrato del vicio de nulidad.
 
 ## art:107 — <ERROR DE HECHO, ERROR SOBRE LA ESPECIE DE SOCIEDAD - VICIO DEL CONSENTIMIENTO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 El error de hecho acerca de la persona de uno de los asociados viciará el consentimiento cuando el contrato se celebre en consideración a la persona de los mismos, como en la sociedad colectiva respecto de cualquiera de ellos, y en la comanditaria respecto de los socios gestores o colectivos. 
 
 El error sobre la especie de sociedad solamente viciará el consentimiento cuando ésta sea distinta de la que el socio entendió contraer y, a consecuencia del error, asuma una responsabilidad superior a la que tuvo intención de asumir, como cuando entendiendo formar parte de una sociedad de responsabilidad limitada se asocie a una colectiva.
 
 ## art:108 — <RATIFICACIÓN Y PRESCRIPCIÓN COMO MEDIDAS DE SANEAMIENTO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La nulidad relativa del contrato de sociedad, y la proveniente de incapacidad absoluta, podrán sanearse por ratificación de los socios en quienes concurran las causales de nulidad o por prescripción de dos años. El término de la prescripción empezará a contarse desde la fecha en que cesen la incapacidad o la fuerza, cuando sean estas las causales, o desde la fecha del contrato de sociedad en los demás casos. 
 
@@ -854,14 +830,14 @@ Sin embargo, las causales anteriores producirán nulidad de la sociedad cuando a
 Estas nulidades no podrán proponerse como acción ni alegarse como excepción sino por las personas respecto de las cuales existan, o por sus herederos.
 
 ## art:109 — <DECLARACIÓN JUDICIAL DE UNA NULIDAD RELATIVA - EFECTOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Declarada judicialmente una nulidad relativa, la persona respecto de la cual se pronunció quedará excluida de la sociedad y, por consiguiente, tendrá derecho a la restitución de su aporte, sin perjuicio de terceros de buena fe. 
 
 Si la nulidad relativa declarada judicialmente afecta a la sociedad, ésta quedará disuelta y se procederá a su liquidación por los asociados, y en caso de desacuerdo de éstos, por la persona que designe el juez.
 
 ## art:110 — <REQUISITOS PARA LA CONSTITUCIÓN DE UNA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 La sociedad comercial se constituirá por escritura pública en la cual se expresará: 
 
@@ -894,87 +870,87 @@ La sociedad comercial se constituirá por escritura pública en la cual se expre
 14) Los demás pactos que, siendo compatibles con la índole de cada tipo de sociedad, estipulen los asociados para regular las relaciones a que da origen el contrato.
 
 ## art:111 — <INSCRIPCIÓN DE ESCRITURA PÚBLICA DE CONSTITUCIÓN EN EL REGISTRO DE LA CÁMARA DE COMERCIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Copia de la escritura social será inscrita en el registro mercantil de la cámara de comercio con jurisdicción en el lugar donde la sociedad establezca su domicilio principal. Si se abren sucursales o se fijan otros domicilios, dicha escritura deberá ser registrada también en las cámaras de comercio que correspondan a los lugares de dichas sucursales, si no pertenecen al mismo distrito de la cámara del domicilio principal. 
 
 Cuando se hagan aportes de inmuebles o de derechos reales relativos a dicha clase de bienes, o se establezcan gravámenes o limitaciones sobre los mismos, la escritura social deberá registrarse en la forma y lugar prescritos en el Código Civil para los actos relacionados con la propiedad inmueble.
 
 ## art:112 — <EFECTOS DEL NO REGISTRO DE LA SOCIEDAD ANTE LA CÁMARA DE COMERCIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Mientras la escritura social no sea registrada en la cámara correspondiente al domicilio principal de la sociedad, será inoponible el contrato a terceros, aunque se haya consumado la entrega de los aportes de los socios.
 
 ## art:113 — <OMISIÓN DE REQUISITOS EN ESCRITURA SOCIAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Si en la escritura social se ha omitido alguna de las estipulaciones indicadas en el artículo 110, o expresado en forma incompleta o en desacuerdo con el régimen legal del respectivo tipo de sociedad, podrán otorgarse escrituras adicionales, por los mismos socios, antes de que se haga la correspondiente inscripción. Tales escrituras se entenderán incorporadas al acto de constitución de la sociedad.
 
 ## art:114 — <INDETERMINACIÓN DE FACULTADES DE LOS ADMINISTRADORES DE SUCURSALES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Cuando en la misma escritura social no se determinen las facultades de los administradores de las sucursales, deberá otorgarse un poder por escritura pública, que se registrará en al cámara de comercio correspondiente a los lugares de las sucursales. A falta de dicho poder se entenderá que tales administradores están facultados, como los administradores de la principal, para obligar a la sociedad en desarrollo de todos los negocios sociales.
 
 ## art:115 — <IMPUGNACIÓN DE LA ESCRITURA SOCIAL REGISTRADA LEGALMENTE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Hecho en debida forma el registro de la escritura social, no podrá impugnarse el contrato sino por defectos o vicios de fondo, conforme a lo previsto en los artículos 104 y siguientes de este Código.
 
 ## art:116 — <REGISTRO MERCANTIL - REQUISITO PARA INICIAR ACTIVIDADES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Las sociedades no podrán iniciar actividades en desarrollo de la empresa social sin que se haga el registro mercantil de la escritura de constitución y el civil cuando haya aportes de inmuebles, ni sin haber obtenido el permiso de funcionamiento de la Superintendencia de Sociedades, cuando se trate de sociedades que conforme a la ley requieran dicho permiso antes de ejercer su objeto. 
 
 PARÁGRAFO. Los administradores que realicen actos dispositivos sin que se hayan llenado los requisitos exigidos en este artículo, responderán solidariamente ante los asociados y ante terceros de las operaciones que celebren o ejecuten por cuenta de la sociedad, sin perjuicio de las demás sanciones legales.
 
 ## art:117 — <PRUEBA DE LA EXISTENCIA, CLÁUSULAS DEL CONTRATO Y REPRESENTACIÓN DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 La existencia de la sociedad y las cláusulas del contrato se probarán con certificación de la cámara de comercio del domicilio principal, en la que constará el número, fecha y notaría de la escritura de constitución y de las reformas del contrato, si las hubiere; el certificado expresará, además, la fecha y el número de la providencia por la cual se le concedió permiso de funcionamiento y, en todo caso, la constancia de que la sociedad no se halla disuelta. 
 
 Para probar la representación de una sociedad bastará la certificación de la cámara respectiva, con indicación del nombre de los representantes, de las facultades conferidas a cada uno de ellos en el contrato y de las limitaciones acordadas a dichas facultades, en su caso.
 
 ## art:118 — <INADMISIÓN DE PRUEBAS CONTRA EL TENOR DE LAS ESCRITURAS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Frente a la sociedad y a terceros no se admitirá prueba de ninguna especie contra el tenor de las escrituras otorgadas con sujeción a los artículos 110 y 113, ni para justificar la existencia de pactos no expresados en ella.
 
 ## art:119 — <REQUISITOS DE LA PROMESA DE CONTRATO DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 La promesa de contrato de sociedad deberá hacerse por escrito, con las cláusulas que deban expresarse en el contrato, según lo previsto en el artículo 110, y con indicación del término o condición que fije la fecha en que ha de constituirse la sociedad. La condición se tendrá por fallida si tardare más de dos años en cumplirse. 
 
 Los promitentes responderán solidaria e ilimitadamente de las operaciones que celebren o ejecuten en desarrollo de los negocios de la sociedad prometida, antes de su constitución, cualquiera que sea la forma legal que se pacte para ella.
 
 ## art:120 — <TRÁNSITO DE LEGISLACIÓN VIGENTE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 Las sociedades válidamente constituidas, los derechos adquiridos y las obligaciones contraídas por tales sociedades bajo el imperio de una ley, subsistirán bajo el imperio de la ley posterior; pero la administración social y las relaciones derivadas del contrato, tanto entre los socios como respecto de terceros, se sujetarán a la ley nueva.
 
 ## art:121 — <CONSTITUCIÓN DE SOCIEDADES COLECTIVAS Y EN COMANDITA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO II. CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
 
 <Artículo derogado por el artículo 242 de la Ley 222 de 1995>
 
 ## art:122 — <CAPITAL SOCIAL-DEFINICIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 El capital social será fijado de manera precisa, pero podrá aumentarse o disminuirse en virtud de la correspondiente reforma estatutaria, aprobada y formalizada conforme a la ley. 
 
 Será ineficaz todo aumento de capital que se haga con reavalúo de activos.
 
 ## art:123 — <AUMENTO O REPOSICIÓN DE APORTE DEL SOCIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Ningún asociado podrá ser obligado a aumentar o reponer su aporte si dicha obligación no se estipula expresamente en el contrato.
 
 ## art:124 — <ENTREGA DE APORTES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los asociados deberán entregar sus aportes en el lugar, forma y época estipulados. A falta de estipulación, la entrega de bienes muebles se hará en el domicilio social, tan pronto como la sociedad esté debidamente constituida.
 
 ## art:125 — <INCUMPLIMIENTO EN LA ENTREGA DE APORTES-ARBITROS O RECURSOS EN LA NO ESTIPULACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Cuando el aporte no se haga en la forma y época convenidas, la sociedad empleará los arbitrios de indemnización estipulados en el contrato. 
 
@@ -989,57 +965,45 @@ A falta de estipulación expresa al respecto, la sociedad podrá emplear cualqui
 En los tres casos anteriores el asociado incumplido pagará a la sociedad intereses moratorios a la tasa que estén cobrando los bancos en operaciones comerciales ordinarias.
 
 ## art:126 — <APORTES EN ESPECIE-VALOR COMERCIAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los aportes en especie podrán hacerse por el género y cantidad de las cosas que hayan de llevarse al fondo social, pero estimadas en un valor comercial determinado.
 
 ## art:127 — <LEGISLACIÓN PARA APORTES EN ESPECIE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Si el aporte es de cosas determinadas sólo por su género y cantidad, la obligación del aportante se regirá por las reglas del Código Civil sobre las obligaciones de genero. Si es de cuerpo cierto, la pérdida fortuita de la cosa debida dará derecho al aportante para sustituirla por su valor estimado en dinero o para retirarse de la sociedad, a menos que su explotación constituya el objeto social, caso en el cual la sociedad se disolverá si los asociados no convienen en cambiar dicho objeto. El aportante deberá indemnizar a la sociedad por los perjuicios causados si la cosa perece por su culpa, la que se presumirá. 
 
 Respecto de las cosas aportadas en usufructo, la sociedad tendrá los mismos derechos y obligaciones del usufructuario común, y les serán aplicables las reglas del inciso anterior.
 
 ## art:128 — <CONSERVACIÓN DE COSAS OBJETO DE APORTES-RESPONSABLES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 La conservación de las cosas objeto del aporte será de cargo del aportante hasta el momento en que se haga la entrega de las mismas a la sociedad; pero si hay mora de parte de ésta en su recibo, el riesgo de dichas cosas será de cargo de la sociedad desde el momento en que el aportante ofrezca entregarlas en legal forma. 
 
 La mora de la sociedad no exonerará, sin embargo, de responsabilidad al aportante por los daños que ocurran por culpa grave o dolo de éste.
 
 ## art:129 — <ABONO EFECTIVO DE APORTES DE CRÉDITO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 El aporte de un crédito solamente será abonado en cuenta del socio cuando haya ingresado efectivamente a la caja social. 
 
 El aportante de cualquier crédito responderá de su existencia, de la legitimidad del título y de la solvencia del deudor. Dicho crédito deberá ser exigible dentro del año siguiente a la fecha del aporte. 
 
-Si el crédito no fuere totalmente cubierto dentro del plazo estipulado, el aportante deberá pagar a la sociedad su valor o el faltante, según el caso, dentro de los treinta días siguientes al vencimiento, con los intereses corrientes del monto insoluto y los gastos causados en la cobranza. Si no lo hiciere, la sociedad dará aplicación a lo dispuesto en el artículo 125. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Si el crédito no fuere totalmente cubierto dentro del plazo estipulado, el aportante deberá pagar a la sociedad su valor o el faltante, según el caso, dentro de los treinta días siguientes al vencimiento, con los intereses corrientes del monto insoluto y los gastos causados en la cobranza. Si no lo hiciere, la sociedad dará aplicación a lo dispuesto en el artículo 125.
 
 ## art:130 — <RESPONSABILIDAD EN LA SUSCRIPCIÓN Y PAGO DE APORTES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 En las sociedades por acciones, cada aportante responderá del valor total de la suscripción que haya hecho. Si el pago se hiciere por cuotas, el plazo para cancelarlas no excederá de un año; de consiguiente, las acciones que no hubieren sido íntegramente cubiertas en el respectivo ejercicio, participarán en las utilidades solamente en proporción a la suma efectivamente pagada por cada acción.
 
 ## art:131 — <APORTES DE CESIÓN DE CONTRATOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Cuando la aportación consista en la cesión de un contrato, el aportante responderá del cumplimiento de las obligaciones derivadas del mismo, salvo estipulación en contrario.
 
 ## art:132 — <APORTES EN ESPECIE POSTERIORES A LA CONSTITUCIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Cuando se constituya una sociedad que deba obtener permiso de funcionamiento, los aportes en especie se avaluarán unánimemente por los interesados constituidos en junta preliminar, y el avalúo debidamente fundamentado se someterá a la aprobación de la Superintendencia de Sociedades. 
 
@@ -1048,29 +1012,29 @@ El valor de los aportes en especie posteriores a la constitución, será fijado 
 Sin la previa aprobación por la Superintendencia del avalúo de bienes en especie, no podrá otorgarse la correspondiente escritura. El Gobierno reglamentará el procedimiento que deba seguirse ante la Superintendencia de Sociedades para la aprobación de los avalúos a que se refiere este artículo.
 
 ## art:133 — <CONSTANCIA DE LOS AVALÚOS EN ESCRITURA DE CONSTITUCIÓN O REFORMA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los avalúos se harán constar en las escrituras de constitución o de reforma, según el caso, y en ellas se insertará la providencia en que el superintendente los haya aprobado. Este requisito será indispensable para la validez de la constitución o de la reforma estatutaria. Copias de dichas escrituras serán entregadas a la Superintendencia, dentro de los quince días siguientes a su otorgamiento o de su registro, si fuere el caso.
 
 ## art:134 — <VALORACIÓN DE BIENES EN ESPECIE POR LA SUPERINTENDENCIA Y LOS INTERESADOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Cuando la Superintendencia fije el valor de los bienes en especie en una cifra inferior al aprobado por los interesados, el o los presuntos aportantes podrán optar por abonar en dinero la diferencia entre los dos justiprecios, dentro del año siguiente, o por aceptar el precio señalado por la Superintendencia, reduciéndose de inmediato el monto de la operación a dicha cifra. 
 
 Si el o los presuntos aportantes afectados no acogieren ninguna de las anteriores opciones, quedarán exonerados de hacer el aporte. Quienes insistieren en constituir la sociedad o aumentar el capital, deberán acordar unánimemente la fórmula sustitutiva.
 
 ## art:135 — <SOLIDARIDAD POR AVALÚO DE APORTES EN ESPECIE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 En las sociedades que no requieren el permiso de funcionamiento, los asociados responderán solidariamente por el valor atribuido a los aportes en especie, a la fecha de la aportación, sea que se hayan efectuado al constituirse la sociedad o posteriormente.
 
 ## art:136 — <APORTES CONSIDERADOS EN ESPECIE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los aportes de establecimientos de comercio, derechos sobre la propiedad industrial, partes de interés, cuotas o acciones, se considerarán como aportes en especie.
 
 ## art:137 — <APORTES DE INDUSTRIA O TRABAJO QUE NO SON PARTE DEL CAPITAL SOCIAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Podrá ser objeto de aportación la industria o trabajo personal de un asociado, sin que tal aporte forme parte del capital social. 
 
@@ -1079,7 +1043,7 @@ El aportante de industria participará en las utilidades sociales; tendrá voz e
 Habiéndose producido pérdidas, el socio industrial no recibirá retribución en el respectivo ejercicio.
 
 ## art:138 — <APORTES DE INDUSTRIA O TRABAJO PERSONAL CON PARTICIPACIÓN DE UTILIDADES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Cuando el aporte consista en la industria o trabajo personal estimado en un valor determinado, la obligación del aportante se considerará cumplida sucesivamente por la suma periódica que represente para la sociedad el servicio que constituya el objeto del aporte. 
 
@@ -1088,29 +1052,29 @@ Podrá, sin embargo, aportarse la industria o el trabajo personal sin estimació
 Las obligaciones del aportante se someterán en estos casos al régimen civil de las obligaciones de hacer.
 
 ## art:139 — <APORTE DE INDUSTRIA O TRABAJO PERSONAL CON VALOR ESTIMADO EN SOCIEDAD POR ACCIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 En el caso previsto en el inciso primero del artículo anterior y tratándose de sociedades por acciones, deberá amortizarse el aporte de industria con cargo a la cuenta de pérdidas y ganancias de cada ejercicio social, en la parte proporcional que a éste corresponda.
 
 ## art:140 — <PROMOTORES - CONCEPTO Y RESPONSABILIDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Son promotores quienes hayan planeado la organización de una empresa y presentado estudios técnicos de su factibilidad. Dichos promotores responderán solidaria e ilimitadamente de las obligaciones contraídas para constituir la sociedad y si ésta no se perfecciona, carecerán de toda acción contra los presuntos constituyentes.
 
 ## art:141 — <REMUNERACIONES Y VENTAJAS DE LOS PROMOTORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Las remuneraciones o ventajas particulares en favor de los promotores para compensarles sus servicios y gastos justificados, deberán constar en la escritura de constitución y solamente consistirán en una participación en las utilidades líquidas, distribuibles entre ellos en la forma prevista en los estatutos, sin exceder en total del quince por ciento de las mismas y por un lapso no mayor de cinco años, contados a partir del primer ejercicio que registre utilidades, o con estas mismas limitaciones, en un privilegio económico para las partes de interés, cuotas o acciones que ellos suscriban al tiempo de la constitución y paguen en dinero u otros bienes tangibles. Cualquier estipulación en contrario se considerará como no escrita. 
 
 En todo reglamento de colocación de acciones destinadas a ser suscritas por personas no accionistas, y mientras subsistan las ventajas o privilegios previstos en este artículo, se insertará el texto de las cláusulas estatutarias que los consagren, y en el balance general anexo se dejará constancia del plazo que falte para su extinción.
 
 ## art:142 — <EMBARGO DE ACCIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los acreedores de los asociados podrán embargar las acciones, las partes de interés o cuotas que éstos tengan en la sociedad y provocar su venta o adjudicación judicial como se prevé en este Código y en las leyes de procedimiento.
 
 ## art:143 — <RESTITUCIÓN DE APORTES DE LOS ASOCIADOS-CASOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los asociados no podrán pedir la restitución de sus aportes, ni podrá hacerlo la sociedad, sino en los siguientes casos: 
 
@@ -1121,39 +1085,39 @@ Los asociados no podrán pedir la restitución de sus aportes, ni podrá hacerlo
 3) Cuando se declare nulo el contrato social respecto del socio que solicita la restitución, si la nulidad no proviene de objeto o causa ilícitos.
 
 ## art:144 — <REEMBOLSO TOTAL O PARCIAL DE ACCIONES, CUOTAS O PARTES DE INTERÉS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Los asociados tampoco podrán pedir el reembolso total o parcial de sus acciones, cuotas o partes de interés antes de que, disuelta la sociedad, se haya cancelado su pasivo externo. El reembolso se hará entonces en proporción al valor nominal del interés de cada asociado, si en el contrato no se ha estipulado cosa distinta.
 
 ## art:145 — <AUTORIZACIÓN PARA LA DISMINUCIÓN DEL CAPITAL SOCIAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 La Superintendencia de Sociedades autorizará la disminución del capital social en cualquier compañía cuando se pruebe que la sociedad carece de pasivo externo; o que hecha la reducción los activos sociales representan no menos del doble del pasivo externo, o que los acreedores sociales acepten expresamente y por escrito la reducción, cualquiera que fuere el monto del activo o de los activos sociales. 
 
 Cuando el pasivo externo proviniere de prestaciones sociales será necesario, además, la aprobación del competente funcionario del trabajo.
 
 ## art:146 — <DISMINUCIÓN DE CAPITAL POR REEMBOLSO DE APORTES AL SOCIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Cuando en una sociedad por cuotas o partes de interés el capital se disminuya por reembolso total del interés de alguno o algunos de los socios, estos continuarán obligados por las operaciones sociales contraídas hasta el momento del retiro, dentro de los límites de la responsabilidad legal propia del respectivo tipo de sociedad.
 
 ## art:147 — <REFORMA DE CONTRATO SOCIAL POR DISMINUCIÓN DE CAPITAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 La reducción del capital se tendrá como una reforma del contrato social y deberá adoptarse y formalizarse como se ordena en este Código.
 
 ## art:148 — <PROPIEDAD PROINDIVISO DE INTERÉS CUOTA O ACCIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III APORTES DE LOS ASOCIADOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO III APORTES DE LOS ASOCIADOS
 
 Si una o más partes de interés, cuotas o acciones pertenecieren proindiviso a varias personas, estas designarán quien haya de ejercitar los derechos inherentes a las mismas. Pero del cumplimiento de sus obligaciones para con la sociedad responderán solidariamente todos los comuneros.
 
 ## art:149 — <PACTO DE INTERESES SOBRE EL CAPITAL SOCIAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 Sobre el capital social solamente podrán pactarse intereses por el tiempo necesario para la preparación de la empresa y hasta el comienzo de la explotación de la misma.
 
 ## art:150 — <DISTRIBUCIÓN DE UTILIDADES SOCIALES - PROCEDIMIENTO GENERAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 La distribución de las utilidades sociales se hará en proporción a la parte pagada del valor nominal de las acciones, cuotas o partes de interés de cada asociado, si en el contrato no se ha previsto válidamente otra cosa. 
 
@@ -1162,7 +1126,7 @@ Las cláusulas del contrato que priven de toda participación en las utilidades 
 PARÁGRAFO. A falta de estipulación expresa del contrato, el sólo aporte de industria sin estimación de su valor dará derecho a una participación equivalente a la del mayor aporte de capital.
 
 ## art:151 — <DISTRIBUCIÓN DE UTILIDADES - PROCEDIMIENTO ADICIONAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 No podrá distribuirse suma alguna por concepto de utilidades si estas no se hallan justificadas por balances reales y fidedignos. Las sumas distribuidas en contravención a este artículo no podrán repetirse contra los asociados de buena fe; pero no serán repartibles las utilidades de los ejercicios siguientes, mientras no se absorba o reponga lo distribuido en dicha forma. 
 
@@ -1171,86 +1135,74 @@ Tampoco podrán distribuirse utilidades mientras no se hayan enjugado las pérdi
 PARÁGRAFO. Para todos los efectos legales se entenderá que las pérdidas afectan el capital cuando a consecuencia de las mismas se reduzca el patrimonio neto por debajo del monto de dicho capital.
 
 ## art:152 — <REQUISITOS PARA LA DISTRIBUCIÓN DE LAS UTILIDADES SOCIALES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 <Artículo derogado por el artículo 242 de la Ley 222 de 1995.>
 
 ## art:153 — <ADMINISTRACIÓN DE NEGOCIOS SOCIALES - CONTROL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 Cuando la administración de los negocios sociales no corra a cargo de todos los asociados, los administradores presentarán un detalle completo de la cuenta de pérdidas y ganancias correspondientes a cada ejercicio social.
 
 ## art:154 — <RESERVA SOCIAL OCASIONAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 Además de las reservas establecidas por la ley o los estatutos, los asociados podrán hacer las que consideren necesarias o convenientes, siempre que tengan una destinación especial, que se aprueben en la forma prevista en los estatutos o en la ley y que hayan sido justificadas ante la Superintendencia de Sociedades. 
 
 La destinación de estas reservas sólo podrá variarse por aprobación de los asociados en la forma prevista en el inciso anterior.
 
 ## art:155 — <MAYORÍA PARA LA APROBACIÓN DE DISTRIBUCIÓN DE UTILIDADES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 <Artículo subrogado por el artículo 240 de la Ley 222 de 1995. El nuevo texto establecido por el artículo 240 mencionado es el siguiente:> Salvo que en los estatutos se fijare una mayoría decisoria superior, la distribución de utilidades la aprobará la asamblea o junta de socios con el voto favorable de un número plural de socios que representen, cuando menos, el 78% de las acciones, cuotas o partes de interés representadas en la reunión. 
 
 Cuando no se obtenga la mayoría prevista en el inciso anterior, deberá distribuirse por los menos el 50% de las utilidades líquidas o del saldo de las mismas, si tuviere que enjugar pérdidas de ejercicios anteriores.
 
 ## art:156 — <COBRO DE UTILIDADES DEBIDAS A LOS SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 Las sumas debidas a los asociados por concepto de utilidades formarán parte del pasivo externo de la sociedad y podrán exigirse judicialmente. Prestarán mérito ejecutivo el balance y la copia auténtica de las actas en que consten los acuerdos válidamente aprobados por la asamblea o junta de socios. 
 
 Las utilidades que se repartan se pagarán en dinero efectivo dentro del año siguiente a la fecha en que se decreten, y se compensarán con las sumas exigibles que los socios deban a la sociedad.
 
 ## art:157 — <SANCIONES POR FALSEDADES EN LOS BALANCES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV UTILIDADES SOCIALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
 Los administradores, contadores y revisores fiscales que ordenen, toleren, hagan o encubran falsedades cometidas en los balances, incurrirán en las sanciones previstas en el Código Penal para el delito de falsedad en documentos privados y responderán solidariamente de los perjuicios causados.
 
 ## art:158 — <REQUISITOS PARA LA REFORMA DEL CONTRATO DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 Toda reforma del contrato de sociedad comercial deberá reducirse a escritura pública que se registrará como se dispone para la escritura de constitución de la sociedad, en la cámara de comercio correspondiente al domicilio social al tiempo de la reforma. 
 
 Sin los requisitos anteriores la reforma no producirá efecto alguno respecto de terceros. Las reformas tendrán efectos entre los asociados desde cuando se acuerden o pacten conforme a los estatutos.
 
 ## art:159 — <AUTORIZACIÓN DE LA SUPERINTENDENCIA DE SOCIEDADES PARA EL REGISTRO DE ESCRITURAS DE REFORMA DE SOCIEDADES SOMETIDAS A SU CONTROL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 Las Cámaras de Comercio se abstendrán de registrar las escrituras de reforma sin la previa autorización de la Superintendencia, cuando se trate de sociedades sometidas a su control. 
 
 La violación de esta disposición será sancionada con multas de cien a quinientos mil pesos que impondrá la Su- dra <sic> la Superintendencia de Sociedades a la Cámara de Comercio responsable de la infracción.
 
 ## art:160 — <REGISTRO DE ESCRITURAS DE REFORMA SOCIAL-SUCURSALES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 Las escrituras en que consten las reformas del contrato social se registrarán también en las cámaras de comercio correspondientes a los lugares en donde la sociedad establezca sucursales.
 
 ## art:161 — <MECANISMOS DE REFORMA EN SOCIEDADES POR CUOTAS O PARTES DE INTERÉS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 En las sociedades por cuotas o partes de interés las reformas se adoptarán con el voto favorable de todos los asociados, siempre que la ley o los estatutos no prevengan otra cosa. 
 
 En las sociedades por acciones podrán adoptarse con el voto favorable de un número plural de socios con no menos del setenta por ciento de las acciones representadas, salvo que en los estatutos se exija un número mayor de votos.
 
 ## art:162 — <CLASES DE REFORMAS ESTATUTARIAS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 La disolución anticipada, la fusión, la transformación y la restitución de aportes a los asociados en los casos expresamente autorizados por la ley, son reformas estatutarias.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:163 — <DESIGNACIÓN O REVOCACIÓN DE ADMINISTRADORES O REVISORES FISCALES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 La designación o revocación de los administradores o de los revisores fiscales previstas en la ley o en el contrato social no se considerará como reforma, sino como desarrollo o ejecución del contrato, y no estará sujeta sino a simple registro en la cámara de comercio, mediante copias del acta o acuerdo en que conste la designación o la revocación. 
 
@@ -1259,52 +1211,52 @@ Las cámaras se abstendrán, no obstante, de hacer la inscripción de la designa
 La revocación o reemplazo de los funcionarios a que se refiere este artículo se hará con el quórum y la mayoría de votos prescritos en la ley o en el contrato para su designación.
 
 ## art:164 — <CANCELACIÓN DE LA INSCRIPCIÓN-CASOS QUE NO REQUIEREN NUEVA INSCRIPCIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 Las personas inscritas en la cámara de comercio del domicilio social como representantes de una sociedad, así como sus revisores fiscales, conservarán tal carácter para todos los efectos legales, mientras no se cancele dicha inscripción mediante el registro de un nuevo nombramiento o elección. 
 
 La simple confirmación o reelección de las personas ya inscritas no requerirá nueva inscripción.
 
 ## art:165 — REFORMA ESTATUTARIA POR CAMBIO DE DOMICILIO DE LA SOCIEDAD
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 Cuando una reforma del contrato tenga por objeto el cambio de domicilio de Ia sociedad y éste corresponda a un lugar comprendido dentro de Ia jurisdicción de una cámara de comercio distinta de aquella en Ia cual se haya registrado el acto de constitución, deberá registrarse únicamente Ia reforma que contiene el cambio de domicilio social en Ia cámara de comercio de origen, Ia cual procederá a hacer el respectivo traslado de las inscripciones que reposan en sus archivos, a Ia cámara de comercio del nuevo domicilio.
 
 Lo dispuesto en este artículo se aplicará también en los casos en que por alteraciones en Ia circunscripción territorial de las cámaras de comercio, el lugar del domicilio principal de una sociedad corresponda a Ia circunscripción de una cámara distinta.
 
 ## art:166 — <PRUEBA DE LA REFORMA DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
 Las reformas de la sociedad se probarán de manera igual a su constitución. 
 
 PARÁGRAFO. Entre los socios podrá probarse la reforma con la sola copia debidamente expedida del acuerdo o acta en que conste dicha reforma y su adopción. Del mismo modo podrá probarse la reforma para obligar a los administradores a cumplir las formalidades de la escritura y del registro.
 
 ## art:167 — <REFORMA DE CONTRATO SOCIAL POR TRANSFORMACIÓN DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Una sociedad podrá, antes de su disolución, adoptar cualquiera otra de las formas de la sociedad comercial reguladas en este Código, mediante una reforma del contrato social. 
 
 La transformación no producirá solución de continuidad en la existencia de la sociedad como persona jurídica, ni en sus actividades ni en su patrimonio.
 
 ## art:168 — <APROBACIÓN DE TRANSFORMACIONES QUE IMPONGAN MAYORES RESPONSABILIDADES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Cuando la transformación imponga a los socios una responsabilidad mayor que la contraída bajo la forma anterior, deberá ser aprobada por unanimidad. 
 
 En los demás casos, los asociados disidentes o ausentes podrán ejercer el derecho de retiro, dentro del mes siguiente a la fecha del acuerdo de transformación, sin disminuir su responsabilidad frente a terceros.
 
 ## art:169 — <MODIFICACIÓN DE LA RESPONSABILIDAD EN LA TRANSFORMACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Si en virtud de la transformación se modifica la responsabilidad de los socios frente a terceros, dicha modificación no afectará las obligaciones contraídas por la sociedad con anterioridad a la inscripción del acuerdo de transformación en el registro mercantil.
 
 ## art:170 — <INSERTO DE BALANCE EN ESCRITURA PÚBLICA DE TRANSFORMACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 En la escritura pública de transformación deberá insertarse un balance general, que servirá de base para determinar el capital de la sociedad transformada, aprobado por la asamblea o por la junta de socios y autorizado por un contador público.
 
 ## art:171 — <REQUISITOS PARA LA VALIDEZ DE LA TRANSFORMACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Para que sea válida la transformación será necesario que la sociedad reúna los requisitos exigidos en este Código para la nueva forma de sociedad. 
 
@@ -1313,14 +1265,14 @@ SECCIÓN II.
 FUSIÓN
 
 ## art:172 — <FUSIÓN DE LA SOCIEDAD-CONCEPTO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Habrá fusión cuando una o más sociedades se disuelvan, sin liquidarse, para ser absorbidas por otra o para crear una nueva. 
 
 La absorbente o la nueva compañía adquirirá los derechos y obligaciones de la sociedad o sociedades disueltas al formalizarse el acuerdo de fusión.
 
 ## art:173 — <APROBACIÓN Y CONTENIDO DE LA FUSIÓN DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Las juntas de socios o las asambleas aprobarán, con el quórum previsto en sus estatutos para la fusión o, en su defecto, para la disolución anticipada, el compromiso respectivo, que deberá contener: 
 
@@ -1335,7 +1287,7 @@ Las juntas de socios o las asambleas aprobarán, con el quórum previsto en sus 
 5) Copias certificadas de los balances generales de las sociedades participantes.
 
 ## art:174 — <PUBLICACIÓN DE LA FUSIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Los representantes legales de las sociedades interesadas darán a conocer al público la aprobación del compromiso, mediante aviso publicado en un diario de amplia circulación nacional. Dicho aviso deberá contener: 
 
@@ -1346,19 +1298,19 @@ Los representantes legales de las sociedades interesadas darán a conocer al pú
 3) La síntesis del anexo explicativo de los métodos de evaluación utilizados y del intercambio de partes de interés, cuotas o acciones que implicará la operación, certificada por el revisor fiscal, si lo hubiere o, en su defecto, por un contador público.
 
 ## art:175 — <TÉRMINO DE LOS ACREEDORES PARA EXIGIR GARANTÍAS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Dentro de los treinta días siguientes a la fecha de publicación del acuerdo de fusión, los acreedores de la sociedad absorbida podrán exigir garantías satisfactorias y suficientes para el pago de sus créditos. La solicitud se tramitará por el procedimiento verbal prescrito en el Código de Procedimiento Civil. Si la solicitud fuere procedente, el juez suspenderá el acuerdo de fusión respecto de la sociedad deudora, hasta tanto se preste garantía suficiente o se cancelen los créditos. 
 
 Vencido el término indicado en el artículo anterior sin que se pidan las garantías, u otorgadas éstas, en su caso, las obligaciones de las sociedades absorbidas, con sus correspondientes garantías, subsistirán solamente respecto de la sociedad absorbente.
 
 ## art:176 — <RESPONSABILIDAD MAYOR POR FUSIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Cuando la fusión imponga a los asociados una responsabilidad mayor que la contraída bajo la forma anterior, se aplicará lo prescrito en el artículo 168.
 
 ## art:177 — <CONTENIDO DE LA ESCRITURA PÚBLICA DE FUSIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Cumplido lo prescrito en los artículos anteriores, podrá formalizarse el acuerdo de fusión. En la escritura se insertarán: 
 
@@ -1373,33 +1325,33 @@ Cumplido lo prescrito en los artículos anteriores, podrá formalizarse el acuer
 5) Los balances generales de las sociedades fusionadas y el consolidado de la absorbente o de la nueva sociedad.
 
 ## art:178 — <DERECHOS Y OBLIGACIONES DE LA SOCIEDAD ABSORBENTE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 En virtud del acuerdo de fusión, una vez formalizado, la sociedad absorbente adquiere los bienes y derechos de las sociedades absorbidas, y se hace cargo de pagar el pasivo interno y externo de las mismas. 
 
 La tradición de los inmuebles se hará por la misma escritura de fusión o por escritura separada, registrada conforme a la ley. La entrega de los bienes muebles se hará por inventario y se cumplirán las solemnidades que la ley exija para su validez o para que surtan efectos contra terceros.
 
 ## art:179 — <REPRESENTANTE LEGAL DE LA SOCIEDAD FUSIONADA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 El representante legal de la nueva sociedad o de la absorbente asumirá la representación de la sociedad disuelta hasta la total ejecución de las bases de la operación, con las responsabilidades propias de un liquidador.
 
 ## art:180 — <FORMACIÓN DE NUEVA SOCIEDAD QUE CONTINUA NEGOCIOS DE LA DISUELTA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VI TRANSFORMACIÓN Y FUSIÓN DE LAS SOCIEDADES SECCIÓN I. TRANSFORMACIÓN
 
 Lo dispuesto en esta Sección podrá aplicarse también al caso de la formación de una nueva sociedad para continuar los negocios de una sociedad disuelta, siempre que no haya variaciones en el giro de sus actividades o negocios y que la operación se celebre dentro de los seis meses siguientes a la fecha de disolución.
 
 ## art:181 — <REUNIONES ORDINARIAS DE LA ASAMBLEA O JUNTA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Los socios de toda compañía se reunirán en junta de socios o asamblea general ordinaria una vez al año, por lo menos, en la época fijada en los estatutos. 
 
-Se reunirán también en forma extraordinaria cuando sean convocados por los administradores, por el revisor fiscal o por la entidad oficial que ejerza control permanente sobre la sociedad, en su caso
+Se reunirán también en forma extraordinaria cuando sean convocados por los administradores, por el revisor fiscal o por la entidad oficial que ejerza control permanente sobre la sociedad, en su caso.
 
 ## art:182 — CONVOCATORIA Y DELIBERACIÓN DE REUNIONES ORDINARIAS Y EXTRAORDINARIAS
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
-<Artículo modificado por el artículo 6 de la Ley 2069 de 2020. El nuevo texto es el siguiente:> En la convocatoria para reuniones extraordinarias se especificarán los asuntos sobre los que se deliberará y decidirá. En las reuniones ordinarias la asamblea podrá ocuparse de temas no indicados en la convocatoria, a propuesta de los directores o de cualquier asociado.
+En la convocatoria para reuniones extraordinarias se especificarán los asuntos sobre los que se deliberará y decidirá. En las reuniones ordinarias la asamblea podrá ocuparse de temas no indicados en la convocatoria, a propuesta de los directores o de cualquier asociado.
 
 La junta de socios o la asamblea se reunirá válidamente cualquier día y en cualquier lugar sin previa convocación, cuando se hallare representada la totalidad de los asociados.
 
@@ -1408,31 +1360,31 @@ Quienes conforme al artículo anterior puedan convocar a la junta de socios o a 
 PARÁGRAFO TRANSITORIO. Debido a las circunstancias de fuerza mayor que están alterando la salud pública y el orden público económico, el Gobierno Nacional podrá establecer el tiempo y la forma de la convocatoria y las reuniones ordinarias del máximo órgano social de las personas jurídicas, incluidas las reuniones por derecho propio, para el año 2021 y las disposiciones necesarias para las reuniones pendientes del ejercicio 2020.
 
 ## art:183 — <COMUNICACIÓN DE REUNIONES A LA SUPERINTENDENCIA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Las sociedades sometidas a inspección y vigilancia deberán comunicar a la Superintendencia la fecha, hora y lugar en que se verificará toda reunión de la junta de socios o de la asamblea, a fin de que se designe un delegado, si lo estimare pertinente.
 
 ## art:184 — <REPRESENTACIÓN DEL SOCIO EN ASAMBLEA O JUNTA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Todo socio podrá hacerse representar en las reuniones de la Junta de Socios o Asamblea mediante poder otorgado por escrito, en el que se indique el nombre del apoderado, la persona en quien éste puede sustituirlo, si es del caso, la fecha o época de la reunión o reuniones para las que se confiere y los demás requisitos que se señalen en los estatutos. 
 
 Los poderes otorgados en el exterior sólo requerirán las formalidades aquí previstas.
 
 ## art:185 — <INCOMPATIBILIDAD DE ADMINISTRADORES Y EMPLEADOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Salvo los casos de representación legal, los administradores y empleados de la sociedad no podrán representar en las reuniones de la asamblea o junta de socios acciones distintas de las propias, mientras estén en ejercicio de sus cargos, ni sustituir los poderes que se les confieran. 
 
 Tampoco podrán votar los balances y cuentas de fin de ejercicio ni las de la liquidación.
 
 ## art:186 — <LUGAR Y QUORUM DE REUNIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Las reuniones se realizarán en el lugar del dominio social, con sujeción a lo prescrito en las leyes y en los estatutos en cuanto a convocación y quórum. Con excepción de los casos en que la ley o los estatutos exijan una mayoría especial, las reuniones de socios se celebrarán de conformidad con las reglas dadas en los artículos 427 y 429.
 
 ## art:187 — <FUNCIONES GENERALES DE LA JUNTA O ASAMBLEA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 La junta o asamblea ejercerá las siguientes funciones generales, sin perjuicio de las especiales propias de cada tipo de sociedad: 
 
@@ -1455,14 +1407,14 @@ La junta o asamblea ejercerá las siguientes funciones generales, sin perjuicio 
 PARÁGRAFO. Las funciones anteriores podrán cumplirse lo mismo en las reuniones ordinarias que en las extraordinarias, si en el contrato social o en las leyes no se previene otra cosa.
 
 ## art:188 — <OBLIGATORIEDAD DE DECISIONES DE LA JUNTA O ASAMBLEA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Reunida la junta de socios o asamblea general como se prevé en el Artículo 186, las decisiones que se adopten con el número de votos previsto en los estatutos o en las leyes obligarán a todos los socios, aún a los ausentes o disidentes, siempre que tengan carácter general y que se ajusten a las leyes y a los estatutos. 
 
 PARÁGRAFO. El carácter general de las decisiones se entenderá sin perjuicio de los privilegios pactados con sujeción a las leyes y al contrato social.
 
 ## art:189 — <CONSTANCIA EN ACTAS DE DECISIONES DE LA JUNTA O ASAMBLEA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Las decisiones de la junta de socios o de la asamblea se harán constar en actas aprobadas por la misma, o por las personas que se designen en la reunión para tal efecto, y firmadas por el presidente y el secretario de la misma, en las cuales deberá indicarse, además, la forma en que hayan sido convocados los socios, los asistentes y los votos emitidos en cada caso. 
 
@@ -1519,24 +1471,24 @@ Concepto SUPERINDUSTRIA 3057846 de 2004
 Concepto SUPERINDUSTRIA 7269 de 2000
 
 ## art:190 — <DECISIONES INEFICACES, NULAS O INOPONIBLES TOMADAS EN ASAMBLEA O JUNTA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Las decisiones tomadas en una reunión celebrada en contravención a lo prescrito en el artículo 186 serán ineficaces; las que se adopten sin el número de votos previstos en los estatutos o en las leyes, o excediendo los límites del contrato social, serán absolutamente nulas; y las que no tengan carácter general, conforme a lo previsto en el artículo 188, serán inoponibles a los socios ausentes o disidentes.
 
 ## art:191 — <IMPUGNACIÓN DE DECISIONES DE LA ASAMBLEA O JUNTA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Los administradores, los revisores fiscales y los socios ausentes o disidentes podrán impugnar las decisiones de la asamblea o de la junta de socios cuando no se ajusten a las prescripciones legales o a los estatutos. 
 
 La impugnación sólo podrá ser intentada dentro de los dos meses siguientes a la fecha de la reunión en la cual sean adoptadas las decisiones, a menos que se trate de acuerdos o actos de la asamblea que deban ser inscritos en el registro mercantil, caso en el cual los dos meses se contarán a partir de la fecha de la inscripción.
 
 ## art:192 — <DECLARACIÓN DE NULIDAD DE UNA DECISIÓN DE LA ASAMBLEA O JUNTA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Declarada la nulidad de una decisión de la asamblea, los administradores tomarán, bajo su propia responsabilidad por los perjuicios que ocasione su negligencia, las medidas necesarias para que se cumpla la sentencia correspondiente; y, si se trata de decisiones inscritas en el registro mercantil, se inscribirá la parte resolutiva de la sentencia respectiva.
 
 ## art:193 — <PROTECCIÓN DE DERECHOS DE TERCEROS E INDEMNIZACIÓN A LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Lo dispuesto en el artículo anterior será sin perjuicio de los derechos derivados de la declaratoria de nulidad para terceros de buena fe. Pero los perjuicios que sufra la sociedad por esta causa le serán indemnizados solidariamente por los administradores que hayan cumplido la decisión, quienes podrán repetir contra los socios que la aprobaron. 
 
@@ -1545,12 +1497,12 @@ La acción de indemnización prevista en este artículo sólo podrá ser propues
 La acción podrá ser ejercida por cualquier administrador, por el revisor fiscal o por cualquier asociado en interés de la sociedad.
 
 ## art:194 — <ACCIONES DE IMPUGNACIÓN INTERPOSICIÓN Y TRÁMITE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 <Artículo derogado por el artículo 118 de la Ley 1563 de 2012. Entra a regir a partir del 12 de octubre de 2012>
 
 ## art:195 — <INSCRIPCIÓN DE REUNIONES EN LIBRO DE ACTAS Y ACCIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 La sociedad llevará un libro, debidamente registrado, en el que se anotarán por orden cronológico las actas de las reuniones de la asamblea o de la junta de socios. Estas serán firmadas por el presidente o quien haga sus veces y el secretario de la asamblea o de la junta de socios. 
 
@@ -1561,28 +1513,16 @@ SECCIÓN II.
 ADMINISTRADORES
 
 ## art:196 — <FUNCIONES Y LIMITACIONES DE LOS ADMINISTRADORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 La representación de la sociedad y la administración de sus bienes y negocios se ajustarán a las estipulaciones del contrato social, conforme al régimen de cada tipo de sociedad. 
 
 A falta de estipulaciones, se entenderá que las personas que representan a la sociedad podrán celebrar o ejecutar todos los actos y contratos comprendidos dentro del objeto social o que se relacionen directamente con la existencia y el funcionamiento de la sociedad. 
 
-Las limitaciones o restricciones de las facultades anteriores que no consten expresamente en el contrato social inscrito en el registro mercantil no serán oponibles a terceros. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las limitaciones o restricciones de las facultades anteriores que no consten expresamente en el contrato social inscrito en el registro mercantil no serán oponibles a terceros.
 
 ## art:197 — <ELECCIÓN DE JUNTA O COMISIÓN. CUOCIENTE ELECTORAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Siempre que en las sociedades se trate de elegir a dos o más personas para integrar una misma junta, comisión o cuerpo colegiado, se aplicará el sistema de cuociente electoral. Este se determinará dividiendo el número total de los votos válidos emitidos por el de las personas que hayan de elegirse. El escrutinio se comenzará por la lista que hubiere obtenido mayor número de votos y así en orden descendente. De cada lista se declararán elegidos tanto nombres cuantas veces quepa el cuociente en el número de votos emitidos por la misma, y si quedaren puestos por proveer, éstos corresponderán a los residuos más altos, escrutándolos en el mismo orden descendente. En caso de empate de los residuos decidirá la suerte. 
 
@@ -1591,7 +1531,7 @@ Los votos en blanco sólo se computarán para determinar el cuociente electoral.
 Las personas elegidas no podrán ser reemplazadas en elecciones parciales, sin proceder a nueva elección por el sistema del cuociente electoral, a menos que las vacantes se provean por unanimidad.
 
 ## art:198 — <DETERMINACIÓN DE PERIODOS Y ELECCIÓN DE ADMINISTRADORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Cuando las funciones indicadas en el artículo 196 no correspondan por ley a determinada clase de socios, los encargados de las mismas serán elegidos por la asamblea o por la junta de socios, con sujeción a lo prescrito en las leyes y en el contrato social. La elección podrá delegarse por disposición expresa de los estatutos en juntas directivas elegidas por la asamblea general. 
 
@@ -1600,12 +1540,12 @@ Las elecciones se harán para los períodos determinados en los estatutos, sin p
 Se tendrán por no escritas las cláusulas del contrato que tiendan a establecer la inamovilidad de los administradores elegidos por la asamblea general, junta de socios o por juntas directivas, o que exijan para la remoción mayorías especiales distintas de las comunes.
 
 ## art:199 — <PERÍODO Y REMOCIÓN DE OTROS FUNCIONARIOS ELEGIDOS POR ASAMBLEA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Lo previsto en los incisos segundo y tercero del artículo 198 se aplicará respecto de los miembros de las juntas directivas, revisores fiscales y demás funcionarios elegidos por la asamblea, o por la junta de socios.
 
 ## art:200 — <RESPONSABILIDAD DE ADMINISTRADORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Los administradores responderán solidaria e ilimitadamente de los perjuicios que por dolo o culpa ocasionen a la sociedad, a los socios o a terceros. 
 
@@ -1620,12 +1560,12 @@ Si el administrador es persona jurídica, la responsabilidad respectiva será de
 Se tendrán por no escritas las cláusulas del contrato social que tiendan a absolver a los administradores de las responsabilidades ante dichas o a limitarlas al importe de las cauciones que hayan prestado para ejercer sus cargos.
 
 ## art:201 — <SANCIONES PARA LOS ADMINISTRADORES POR DELITOS O CONTRAVENCIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 Las sanciones impuestas a los administradores por delitos, contravenciones u otras infracciones en que incurran no les darán acción alguna contra la sociedad.
 
 ## art:202 — <LIMITACIONES A CARGOS DIRECTIVOS EN SOCIEDADES POR ACCIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
 En las sociedades por acciones, ninguna persona podrá ser designada ni ejercer, en forma simultánea, un cargo directivo en más de cinco juntas, siempre que los hubiere aceptado. 
 
@@ -1634,7 +1574,7 @@ La Superintendencia de Sociedades sancionará con multa hasta de diez mil pesos 
 Lo dispuesto en este artículo se aplicará también cuando se trate de sociedades matrices y sus subordinadas, o de estas entre sí.
 
 ## art:203 — <SOCIEDADES QUE ESTÁN OBLIGADAS A TENER REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 Deberán tener revisor fiscal: 
 
@@ -1645,7 +1585,7 @@ Deberán tener revisor fiscal:
 3) Las sociedades en las que, por ley o por los estatutos, la administración no corresponda a todos los socios, cuando así lo disponga cualquier número de socios excluidos de la administración que representen no menos del veinte por ciento del capital.
 
 ## art:204 — <ELECCIÓN DE REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 La elección del revisor fiscal se hará por la mayoría absoluta de la asamblea o de la junta de socios. 
 
@@ -1654,7 +1594,7 @@ En las comanditarias por acciones, el revisor fiscal será elegido por la mayor�
 En las sucursales de sociedades extranjeras lo designará el órgano competente de acuerdo con los estatutos.
 
 ## art:205 — <INHABILIDADES DEL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 No podrán ser revisores fiscales: 
 
@@ -1667,12 +1607,12 @@ No podrán ser revisores fiscales:
 Quien haya sido elegido como revisor fiscal, no podrá desempeñar en la misma sociedad ni en sus subordinadas ningún otro cargo durante el período respectivo.
 
 ## art:206 — <PERIODO DEL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 En las sociedades donde funcione junta directiva el período del revisor fiscal será igual al de aquella, pero en todo caso podrá ser removido en cualquier tiempo, con el voto de la mitad más una de las acciones presentes en la reunión.
 
 ## art:207 — <FUNCIONES DEL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 Son funciones del revisor fiscal: 
 
@@ -1699,7 +1639,7 @@ Son funciones del revisor fiscal:
 PARÁGRAFO. En las sociedades en que sea meramente potestativo el cargo del revisor fiscal, éste ejercerá las funciones que expresamente le señalen los estatutos o las juntas de socios, con el voto requerido para la creación del cargo; a falta de estipulación expresa de los estatutos y de instrucciones concretas de la junta de socios o asamblea general, ejercerá las funciones indicadas en este artículo. No obstante, si no es contador público, no podrá autorizar con su firma balances generales, ni dictaminar sobre ellos.
 
 ## art:208 — <CONTENIDO DE LOS INFORMES DEL REVISOR FISCAL SOBRE BALANCES GENERALES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El dictamen o informe del revisor fiscal sobre los balances generales deberá expresar, por lo menos: 
 
@@ -1714,7 +1654,7 @@ El dictamen o informe del revisor fiscal sobre los balances generales deberá ex
 5) Las reservas o salvedades que tenga sobre la fidelidad de los estados financieros.
 
 ## art:209 — <CONTENIDO DEL INFORME DEL REVISOR FISCAL PRESENTADO A LA ASAMBLEA O JUNTA DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El informe del revisor fiscal a la asamblea o junta de socios deberá expresar: 
 
@@ -1725,53 +1665,53 @@ El informe del revisor fiscal a la asamblea o junta de socios deberá expresar:
 3) Si hay y son adecuadas las medidas de control interno, de conservación y custodia de los bienes de la sociedad o de terceros que estén en poder de la compañía.
 
 ## art:210 — <AUXILIARES DEL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 Cuando las circunstancias lo exijan, a juicio de la asamblea o de la junta de socios, el revisor podrá tener auxiliares u otros colaboradores nombrados y removidos libremente por él, que obrarán bajo su dirección y responsabilidad, con la remuneración que fije la asamblea o junta de socios, sin perjuicio de que los revisores tengan colaboradores o auxiliares contratados y remunerados libremente por ellos. 
 
 El revisor fiscal solamente estará bajo la dependencia de la asamblea o de la junta de socios.
 
 ## art:211 — <RESPONSABILIDAD DEL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El revisor fiscal responderá de los perjuicios que ocasione a la sociedad, a sus asociados o a terceros, por negligencia o dolo en el cumplimiento de sus funciones.
 
 ## art:212 — <RESPONSABILIDAD PENAL DEL REVISOR FISCAL QUE AUTORIZA BALANCES O RINDE INFORMES INEXACTOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El revisor fiscal que, a sabiendas, autorice balances con inexactitudes graves, o rinda a la asamblea o a la junta de socios informes con tales inexactitudes, incurrirá en las sanciones previstas en el Código Penal para la falsedad en documentos privados, más la interdicción temporal o definitiva para ejercer el cargo de revisor fiscal.
 
 ## art:213 — <DERECHO DE INTERVENCIÓN DEL REVISOR FISCAL EN LA ASAMBLEA Y DERECHO DE INSPECCIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El revisor fiscal tendrá derecho a intervenir en las deliberaciones de la asamblea o de la junta de socios, y en las de juntas directivas o consejos de administración, aunque sin derecho a voto, cuando sea citado a estas. Tendrá asimismo derecho a inspeccionar en cualquier tiempo los libros de contabilidad, libros de actas, correspondencia, comprobantes de las cuentas demás papeles de la sociedad.
 
 ## art:214 — <RESERVA DEL REVISOR FISCAL EN EL EJERCICIO DE SU CARGO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El revisor fiscal deberá guardar completa reserva sobre los actos o hechos de que tenga conocimiento en ejercicio de su cargo y solamente podrá comunicarlos o denunciarlos en la forma y casos previstos expresamente en las leyes.
 
 ## art:215 — <REQUISITOS PARA SER REVISOR FISCAL-RESTRICCIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El revisor fiscal deberá ser contador público. Ninguna persona podrá ejercer el cargo de revisor en más de cinco sociedades por acciones. 
 
 Con todo, cuando se designen asociaciones o firmas de contadores como revisores fiscales, éstas deberán nombrar un contador público para cada revisoría, que desempeñe personalmente el cargo, en los términos del artículo 12 de la Ley 145 de 1960. En caso de falta del nombrado, actuarán los suplentes.
 
 ## art:216 — <INCUMPLIMIENTO DE FUNCIONES DEL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 El revisor fiscal que no cumpla las funciones previstas en la ley, o que las cumpla irregularmente o en forma negligente, o que falte a la reserva prescrita en el artículo 214, será sancionado con multa hasta de veinte mil pesos, o con suspensión del cargo, de un mes a un año, según la gravedad de la falta u omisión. En caso de reincidencia se doblarán las sanciones anteriores y podrá imponerse la interdicción permanente o definitiva para el ejercicio del cargo de revisor fiscal, según la gravedad de la falta.
 
 ## art:217 — <SANCIONES IMPUESTAS AL REVISOR FISCAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO VIII. REVISOR FISCAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VIII. REVISOR FISCAL
 
 Las sanciones previstas en el artículo anterior serán impuestas por la Superintendencia de Sociedades, aunque se trate de compañías no sometidas a su vigilancia, o por la Superintendencia Bancaria, respecto de sociedades controladas por ésta. 
 
 Estas sanciones serán impuestas de oficio o por denuncia de cualquier persona.
 
 ## art:218 — <CAUSALES DE DISOLUCIÓN DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 La sociedad comercial se disolverá: 
 
@@ -1781,7 +1721,7 @@ La sociedad comercial se disolverá:
 
 3) Por reducción del número de asociados a menos del requerido en la ley para su formación o funcionamiento, o por aumento que exceda del límite máximo fijado en la misma ley; 
 
-4) <Ver Nota de Vigencia> Por la declaración de quiebra de la sociedad; 
+4) Por la declaración de quiebra de la sociedad; 
 
 5) Por las causales que expresa y claramente se estipulen en el contrato; 
 
@@ -1792,105 +1732,93 @@ La sociedad comercial se disolverá:
 8) Por las demás causales establecidas en las leyes, en relación con todas o algunas de las formas de sociedad que regula este Código.
 
 ## art:219 — <EFECTOS DE LA DISOLUCIÓN DE LA SOCIEDAD POR LOS SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 En el caso previsto en el ordinal primero del artículo anterior, la disolución de la sociedad se producirá, entre los asociados y respecto de terceros, a partir de la fecha de expiración del término de su duración, sin necesidad de formalidades especiales. 
 
-<Ver Notas del Editor> La disolución proveniente de decisión de los asociados se sujetará a las reglas previstas para la reforma del contrato social. 
+ La disolución proveniente de decisión de los asociados se sujetará a las reglas previstas para la reforma del contrato social. 
 
-<Ver Notas del Editor> Cuando la disolución provenga de la declaración de quiebra o de la decisión de autoridad competente, se registrará copia de la correspondiente providencia, en la forma y con los efectos previstos para las reformas del contrato social. La disolución se producirá entre los asociados a partir de la fecha que se indique en dicha providencia, pero no producirá efectos respecto de terceros sino a partir de la fecha de registro.
+ Cuando la disolución provenga de la declaración de quiebra o de la decisión de autoridad competente, se registrará copia de la correspondiente providencia, en la forma y con los efectos previstos para las reformas del contrato social. La disolución se producirá entre los asociados a partir de la fecha que se indique en dicha providencia, pero no producirá efectos respecto de terceros sino a partir de la fecha de registro.
 
 ## art:220 — <DECLARACIÓN DE DISOLUCIÓN DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 Cuando la disolución provenga de causales distintas de las indicadas en el artículo anterior, los asociados deberán declarar disuelta la sociedad por ocurrencia de la causal respectiva y darán cumplimiento a las formalidades exigidas para las reformas del control social. 
 
 No obstante, los asociados podrán evitar la disolución de la sociedad adoptando las modificaciones que sean del caso, según la causal ocurrida y observando las reglas prescritas para las reformas del contrato, siempre que el acuerdo se formalice dentro de los seis meses siguientes a la ocurrencia de la causal.
 
 ## art:221 — <DISOLUCIÓN DE SOCIEDAD VIGILADA POR LA SUPERINTENDENCIA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 En las sociedades sometidas a vigilancia, la Superintendencia de Sociedades podrá declarar, de oficio o a solicitud del interesado, la disolución de la sociedad cuando ocurra cualquiera de las causales previstas en los ordinales 2o., 3o., 5o. y 8o. del artículo 218, si los asociados no lo hacen oportunamente. 
 
 En las sociedades no sometidas a la vigilancia de la Superintendencia de Sociedades, las diferencias entre los asociados sobre la ocurrencia de una causal de disolución serán decididas por el juez del domicilio social, a solicitud del interesado, si no se ha pactado la cláusula compromisoria.
 
 ## art:222 — <EFECTOS POSTERIORES A LA LIQUIDACIÓN DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 Disuelta la sociedad se procederá de inmediato a su liquidación. En consecuencia, no podrá iniciar nuevas operaciones en desarrollo de su objeto y conservará su capacidad jurídica únicamente para los actos necesarios a la inmediata liquidación. Cualquier operación o acto ajeno a este fin, salvo los autorizados expresamente por la Ley, hará responsables frente a la sociedad, a los asociados y a terceros, en forma ilimitada y solidaria, al liquidador, y al revisor fiscal que no se hubiere opuesto. 
 
 El nombre de la sociedad disuelta deberá adicionarse siempre con la expresión "en liquidación". Los encargados de realizarla responderán de los daños y perjuicios que se deriven por dicha omisión.
 
 ## art:223 — <DECISIONES POSTERIORES A LA DISOLUCIÓN DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 Disuelta la sociedad, las determinaciones de la junta de socios o de la asamblea deberán tener relación directa con la liquidación. Tales decisiones se adoptarán por mayoría absoluta de votos presentes, salvo que en los estatutos o en la ley se disponga expresamente otra cosa.
 
 ## art:224 — <ABSTENCIÓN EN CASO DE CESACIÓN DE PAGOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IX DISOLUCIÓN DE LA SOCIEDAD
 
 Cuando la sociedad se encuentre en estado de cesación en los pagos, los administradores se abstendrán de iniciar nuevas operaciones y convocarán de inmediato a los asociados para informarlos completa y documentadamente de dicha situación, so pena de responder solidariamente de los perjuicios que se causen a los asociados o a terceros por la infracción de este precepto. 
 
 Los asociados podrán tomar las medidas conducentes a impedir la declaratoria de quiebra o a obtener la revocatoria de la misma.
 
 ## art:225 — <REUNIONES DURANTE LA LIQUIDACIÓN DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Durante el período de la liquidación la junta de socios o la asamblea se reunirá en las fechas indicadas en los estatutos para sus sesiones ordinarias. Asimismo, cuando sea convocada por los liquidadores, el revisor fiscal o la Superintendencia, conforme a las reglas generales.
 
 ## art:226 — <INFORMA SOBRE EL BALANCE E INVENTARIO EN LA LIQUIDACIÓN DE SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Los liquidadores presentarán en las reuniones ordinarias de la asamblea o de la junta de socios estados de liquidación, con un informe razonado sobre su desarrollo, un balance general y un inventario detallado. Estos documentos estarán a disposición de los asociados durante el término de la convocatoria.
 
 ## art:227 — <ACTUACIÓN DEL REPRESENTANTE LEGAL COMO LIQUIDADOR ANTES DEL REGISTRO DEL LIQUIDADOR>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Mientras no se haga y se registre el nombramiento de liquidadores, actuarán como tales las personas que figuren inscritas en el registro mercantil del domicilio social como representantes de la sociedad.
 
 ## art:228 — <LIQUIDACIÓN DEL PATRIMONIO SOCIAL - MECANISMOS - NOMBRAMIENTO DEL LIQUIDADOR>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 La liquidación del patrimonio social se hará por un liquidador especial, nombrado conforme a los estatutos o a la ley. 
 
 Podrán nombrarse varios liquidadores y por cada uno deberá nombrarse un suplente. Estos nombramientos se registrarán en el registro mercantil del domicilio social y de las sucursales y sólo a partir de la fecha de la inscripción tendrán los nombrados las facultades y obligaciones de los liquidadores. 
 
-<Ver Notas del Editor2> Cuando agotados los medios previstos en la ley o en el contrato para hacer la designación de liquidador, esta no se haga, cualquiera de los asociados podrá solicitar a la Superintendencia de Sociedades que se nombre por ella el respectivo liquidador. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+ Cuando agotados los medios previstos en la ley o en el contrato para hacer la designación de liquidador, esta no se haga, cualquiera de los asociados podrá solicitar a la Superintendencia de Sociedades que se nombre por ella el respectivo liquidador.
 
 ## art:229 — <LIQUIDACIÓN DIRECTA EFECTUADA POR LOS SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 No obstante lo dispuesto en el artículo anterior, en las sociedades por cuotas o partes de interés podrá hacerse la liquidación directamente por los asociados mismos, si éstos así lo acuerdan unánimemente. En ese caso todos tendrán las facultades y las obligaciones de los liquidadores para todos los efectos legales.
 
 ## art:230 — <ADMINISTRADOR DESIGNADO COMO LIQUIDADOR-EJERCICIO DEL CARGO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Quien administre bienes de la sociedad y sea designado liquidador, no podrá ejercer el cargo sin que previamente se aprueben las cuentas de su gestión por la asamblea o por la junta de socios. Si transcurridos treinta días desde la fecha en que se designó liquidador, no se hubieren aprobado las mencionadas cuentas, se procederá a nombrar nuevo liquidador.
 
 ## art:231 — <ACTUACIÓN DE CONSUMO ENTRE VARIOS LIQUIDADORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Salvo estipulación en contrario, cuando haya dos o más liquidadores actuarán de consuno, y si se presentan discrepancias entre ellos, la junta de socios o la asamblea decidirá con el voto de la mayoría absoluta de las cuotas, partes o acciones representadas en la correspondiente reunión.
 
 ## art:232 — <INFORME A LOS ACREEDORES DEL ESTADO DE LIQUIDACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Las personas que entren a actuar como liquidadores deberán informar a los acreedores sociales del estado de liquidación en que se encuentra la sociedad, una vez disuelta, mediante aviso que se publicará en un periódico que circule regularmente en el lugar del domicilio social y que se fijará en lugar visible de las oficinas y establecimientos de comercio de la sociedad.
 
 ## art:233 — <SOLICITUD A LA SUPERINTENDENCIA LA APROBACIÓN DE INVENTARIOS DEL PATRIMONIO SOCIAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 En las sociedades por acciones, los liquidadores deberán, dentro del mes siguiente a la fecha en que la sociedad quede disuelta respecto de los socios y de terceros, solicitar al Superintendente de Sociedades la aprobación del inventario del patrimonio social. 
 
@@ -1899,31 +1827,31 @@ Si los liquidadores estuvieren unánimemente de acuerdo, la Superintendencia, pr
 Si no hubiere acuerdo, el Superintendente señalará la fecha en que deba ser presentado por los liquidadores el inventario respectivo, que no será ni antes de transcurrido un mes desde la fecha de su señalamiento, ni tres meses después de la misma, y ordenará que se cite a todos los socios y acreedores de la sociedad por medio de un edicto que se fijará por quince días en la secretaría y que se publicará en un periódico que circule regularmente en el lugar del domicilio social y en los de las sucursales si las hubiere.
 
 ## art:234 — <CONTENIDO DEL INVENTARIO - AUTORIZACIÓN POR CONTADOR>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 El inventario incluirá, además de la relación pormenorizada de los distintos activos sociales, la de todas las obligaciones de la sociedad, con especificación de la prelación u orden legal de su pago, inclusive de las que sólo puedan afectar eventualmente su patrimonio, como las condicionales, las litigiosas, las fianzas, los avales, etc. 
 
 Este inventario deberá ser autorizado por un Contador Público, si el liquidador o alguno de ellos no tienen tal calidad, y presentando personalmente por éstos ante el Superintendente, bajo juramento de que refleja fielmente la situación patrimonial de la sociedad disuelta. De la presentación y de la diligencia de juramento se dejará constancia en acta firmada por el Superintendente y su secretario.
 
 ## art:235 — <TRASLADO A LOS SOCIOS Y ACREEDORES-TRÁMITE DE OBJECIONES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Presentado el inventario, como se dispone en el artículo anterior, el Superintendente ordenará correr traslado común a los socios y a los acreedores de la sociedad por un término de diez días hábiles. 
 
 El traslado se surtirá en la secretaría y durante el término del mismo y cinco días más, tanto los asociados como los acreedores podrán objetarlo por falsedad, inexactitud o error grave. Las objeciones se tramitarán como incidentes y, si prosperan, el Superintendente ordenará las rectificaciones del caso. Pero los simples errores aritméticos podrán corregirse por el Superintendente, de oficio o a instancia de parte, en cualquier tiempo y sin la tramitación indicada.
 
 ## art:236 — <APROBACIÓN DEL INVENTARIO POR LA SUPERINTENDENCIA - PROTOCOLIZACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Tramitadas las objeciones y hechas las rectificaciones a que haya lugar, o vencido el término en que puedan ser propuestas dichas objeciones sin que se hayan formulado, el Superintendente aprobará el inventario y ordenará devolver lo actuado a los liquidadores, a fin de que dichas diligencias se protocolicen con la cuenta final de la liquidación.
 
 ## art:237 — <NO OBLIGATORIEDAD DEL SUPERINTENDENTE EN EL INVENTARIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 En las sociedades por cuotas o partes de interés no será obligatoria la intervención del Superintendente en el inventario que haya de servir de base para la liquidación; pero si dicho inventario se hace como se dispone en los artículos anteriores, cesarán las responsabilidades de los socios por las operaciones sociales, si la liquidación se ajusta al inventario aprobado por el Superintendente y a lo prescrito en los artículos siguientes de este Título.
 
 ## art:238 — <FUNCIONES DE LOS LIQUIDADORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Sin perjuicio de lo dispuesto en los artículos anteriores, los liquidadores procederán: 
 
@@ -1939,69 +1867,69 @@ Sin perjuicio de lo dispuesto en los artículos anteriores, los liquidadores pro
 
 6) A llevar y custodiar los libros y correspondencia de la sociedad y velar por la integridad de su patrimonio; 
 
-7) <Ver Notas del Editor> A liquidar y cancelar las cuentas de los terceros y de los socios como se dispone en los artículos siguientes, y 
+7) A liquidar y cancelar las cuentas de los terceros y de los socios como se dispone en los artículos siguientes, y 
 
 8) A rendir cuentas o presentar estados de la liquidación, cuando lo considere conveniente o se lo exijan los asociados.
 
 ## art:239 — <SUFICIENCIA DE ACTIVOS SOCIALES PARA PAGO DEL PASIVO EXTERNO E INTERNO DE LA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Cuando los activos sociales sean suficientes para pagar el pasivo externo e interno de la sociedad, podrán prescindir los liquidadores de hacer efectivo el pago del capital suscrito no cubierto, para compensarlo con lo que corresponda a los asociados deudores en la liquidación, hasta concurrencia de las sumas debidas.
 
 ## art:240 — <BIENES SOCIALES DESTINADOS A SER DISTRIBUIDOS EN ESPECIE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Los bienes sociales destinados a ser distribuidos en especie serán también vendidos por los liquidadores cuando los demás activos sociales sean insuficientes para pagar el pasivo externo de la sociedad, salvo que los acreedores sociales o algunos de ellos expresamente acepten como deudores a sus adjudicatarios y exoneren a la sociedad.
 
 ## art:241 — <NO DISTRIBUCIÓN DE SUMAS ANTES DE LA CANCELACIÓN DEL PASIVO EXTERNO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 No podrá distribuirse suma alguna a los asociados mientras no se haya cancelado todo el pasivo externo de la sociedad. Pero podrá distribuirse entre los asociados la parte de los activos sociales que exceda del doble del pasivo inventariado y no cancelado al momento de hacerse la distribución.
 
 ## art:242 — <PAGO DE OBLIGACIONES OBSERVANDO DISPOSICIONES SOBRE PRELACIÓN DE CRÉDITOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 El pago de las obligaciones sociales se hará observando las disposiciones legales sobre prelación de créditos. 
 
 Para este y los demás efectos legales, los bienes inventariados determinarán los límites de la responsabilidad de los liquidadores como tales, respecto de los asociados y de terceros, sin perjuicio de lo dispuesto en el artículo siguiente.
 
 ## art:243 — <INSUFICIENCIA DE ACTIVOS PARA PAGO DEL PASIVO EXTERNO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Cuando se trate de sociedades por cuotas o partes de interés y sean insuficientes los activos sociales para atender al pago del pasivo externo de la sociedad, los liquidadores deberán recaudar de los socios el faltante, si la responsabilidad de los mismos es ilimitada, o la parte faltante que quepa dentro de los límites de la responsabilidad de los asociados, en caso contrario. 
 
 Para los efectos de este artículo los liquidadores tendrán acción ejecutiva contra los asociados y bastará como título ejecutivo la declaración jurada de los liquidadores. Los asociados podrán, no obstante, proponer como excepción la suficiencia de los activos sociales o el hecho de no haberse destinado estos al pago del pasivo externo de la sociedad por parte de los liquidadores.
 
 ## art:244 — <PAGO SIN INTERESES DE OBLIGACIONES A TÉRMINO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Por el hecho de la disolución se podrán pagar, sin intereses distintos de los que se hayan pactado expresamente y para los solos efectos de la liquidación todas las obligaciones a término contra la sociedad, inclusive aquellas cuyo plazo se haya pactado en favor de los acreedores.
 
 ## art:245 — <RESERVA EN PODER DE LOS LIQUIDADORES PARA ATENDER OBLIGACIONES CONDICIONALES O EN LITIGIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Cuando haya obligaciones condicionales se hará una reserva adecuada en poder de los liquidadores para atender dichas obligaciones si llegaren a hacerse exigibles, la que se distribuirá entre los asociados en caso contrario. La misma regla se aplicará en caso de obligaciones litigiosas, mientras termina el juicio respectivo. 
 
 En estos casos no se suspenderá la liquidación, sino que continuará en cuanto a los demás activos y pasivos. Terminada la liquidación sin que se haya hecho exigible la obligación condicional o litigiosa, la reserva se depositará en un establecimiento bancario.
 
 ## art:246 — <LIQUIDACIÓN Y PAGO DE PENSIONES DE JUBILACIÓN POR SU VALOR ACTUAL>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Cuando la sociedad disuelta esté obligada a pagar pensiones de jubilación hará la liquidación y pago de éstas por su valor actual, según la vida probable de cada beneficiario, conforme a las tablas acostumbradas por las compañías aseguradoras del país, o contratará con una compañía de seguros el pago periódico de la pensión por todo el tiempo en que estuviere pendiente el riesgo.
 
 ## art:247 — <DISTRIBUCIÓN DE REMANENTE ENTRE SOCIOS - PROCEDIMIENTO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Pagado el pasivo externo de la sociedad, se distribuirá el remanente de los activos sociales entre los asociados, conforme a lo estipulado en el contrato o a lo que ellos acuerden. 
 
 La distribución se hará constar en acta en que se exprese el nombre de los asociados, el valor de su correspondiente interés social y la suma de dinero o los bienes que reciba cada uno a título de liquidación. 
 
-<Ver Notas de Vigencia> Tal acta se protocolizará en una notaría del lugar del domicilio social, junto con las diligencias de inventario de los bienes sociales y con la actuación judicial en su caso. 
+ Tal acta se protocolizará en una notaría del lugar del domicilio social, junto con las diligencias de inventario de los bienes sociales y con la actuación judicial en su caso. 
 
 PARÁGRAFO. Cuando se hagan adjudicaciones de bienes para cuya enajenación se exijan formalidades especiales en la ley, deberán cumplirse éstas por los liquidadores. Si la formalidad consiste en el otorgamiento de escritura pública, bastará que se eleve a escritura la parte pertinente del acta indicada.
 
 ## art:248 — <DISTRIBUCIÓN O PRORRATEO DE REMANENTE>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 La distribución o prorrateo del remanente de los activos sociales entre los asociados se hará al tiempo para todos, si no se ha estipulado el reembolso preferencial de sus partes de interés, cuotas o acciones para algunos de ellos, caso en el cual sólo se dispondrá del remanente una vez hecho dicho reembolso. 
 
@@ -2010,75 +1938,75 @@ Hecha la liquidación de lo que a cada asociado corresponda en los activos socia
 Si hecha debidamente la convocatoria, no concurre ningún asociado, los liquidadores convocarán en la misma forma a una segunda reunión, para dentro de los diez días siguientes; si a dicha reunión tampoco concurre ninguno, se tendrán por aprobadas las cuentas de los liquidadores, las cuales no podrán ser posteriormente impugnadas.
 
 ## art:249 — <ENTREGA DE REMANENTE A SOCIOS-AVISO A AUSENTES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Aprobada la cuenta final de la liquidación, se entregará a los asociados lo que les corresponda y, si hay ausentes o son numerosos, los liquidadores los citarán por medio de avisos que se publicarán por no menos de tres veces, con intervalos de ocho a diez días, en un periódico que circule en el lugar del domicilio social. 
 
 Hecha la citación anterior y trascurridos diez días después de la última publicación, los liquidadores entregarán a la junta departamental de beneficencia del lugar del domicilio social y, a falta de esta en dicho lugar, a la junta que funcione en el lugar más próximo, los bienes que correspondan a los socios que no se hayan presentado a recibirlos, quienes sólo podrán reclamar su entrega dentro del año siguiente, trascurrido el cual los bienes pasarán a ser propiedad de la entidad de beneficencia, para lo cual el liquidador entregará los documentos de traspaso a que haya lugar.
 
 ## art:250 — <CONSTITUCIÓN DE NUEVA SOCIEDAD POR ACUERDO DE LA TOTALIDAD DE SOCIOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Por acuerdo de todos los asociados podrá prescindirse de hacer la liquidación en los términos anteriores y constituir, con las formalidades legales, una nueva sociedad que continúe la empresa social.
 
 ## art:251 — <APLICACIÓN DE LAS NORMAS DE LA FUNCIÓN Y ENAJENACIÓN PARA LA CONSTITUCIÓN DE NUEVA SOCIEDAD>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 El acto previsto en el artículo anterior se someterá a las disposiciones pertinentes sobre fusión y enajenación de establecimientos de comercio. Cumplido tal acto en esta forma, la nueva sociedad se sustituirá en todas las obligaciones de la anterior con todos sus privilegios y garantías.
 
 ## art:252 — <IMPROCEDENCIA DE ACCIÓN DE TERCERO CONTRA SOCIOS POR SUS OBLIGACIONES SOCIALES EN SOCIEDAD ANÓNIMA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 En las sociedades por acciones no habrá acción de los terceros contra los socios por las obligaciones sociales. Estas acciones sólo podrán ejercitarse contra los liquidadores y únicamente hasta concurrencia de los activos sociales recibidos por ellos. 
 
 En las sociedades por cuotas o partes de interés las acciones que procedan contra los asociados, en razón de su responsabilidad por las operaciones sociales, se ejercitarán contra los liquidadores, como representantes de los asociados, tanto durante la liquidación como después de consumada la misma, pero dichos asociados también deberán ser citados al juicio respectivo.
 
 ## art:253 — <DERECHO A REPETIR CONTRA ASOCIADOS POR EL LIQUIDADOR>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Lo dispuesto en el inciso primero del artículo anterior no impide que los liquidadores puedan repetir contra los asociados las sumas o bienes entregados antes de pagar íntegramente el pasivo externo de la sociedad.
 
 ## art:254 — <SUBROGACIÓN DE ACREEDOR EN LA ACCIÓN DE REPETICIÓN CONTRA ASOCIADOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Si los liquidadores no ejercitan la acción prevista en el artículo anterior, una vez requeridos por los acreedores sociales, éstos se subrogarán en la acción de repetición contra los asociados. 
 
 La misma regla se aplicará cuando los liquidadores no cumplan lo prescrito en el artículo 243.
 
 ## art:255 — <RESPONSABILIDAD DEL LIQUIDADOR>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Los liquidadores serán responsables ante los asociados y ante terceros de los perjuicios que se les cause por violación o negligencia en el cumplimiento de sus deberes.
 
 ## art:256 — <PRESCRIPCIÓN DE LA ACCIÓN. TÉRMINO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Las acciones de los asociados entre sí, por razón de la sociedad y la de los liquidadores contra los asociados, prescribirán en cinco años a partir de la fecha de disolución de la sociedad. 
 
 Las acciones de los asociados y de terceros contra los liquidadores prescribirán en cinco años a partir de la fecha de la aprobación de la cuenta final de la liquidación.
 
 ## art:257 — <INTERRUPCIÓN DE LA PRESCRIPCIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Las prescripciones anteriores correrán respecto de toda clase de personas y no se interrumpirán sino judicialmente, conforme a las leyes de procedimiento.
 
 ## art:258 — <IMPUGNABILIDAD DE LA LIQUIDACIÓN SE AJUSTA AL INVENTARIO>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Los terceros no podrán impugnar la liquidación si ésta se ajusta al inventario aprobado por el Superintendente de Sociedades y a las reglas señaladas en este Capítulo.
 
 ## art:259 — <REMISIÓN A OTRAS NORMAS ESPECIALES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO X. LIQUIDACIÓN DEL PATRIMONIO SOCIAL
 
 Lo dispuesto en este Título es sin perjuicio de lo que se establece en el artículo 294 y siguientes en relación con cada clase de sociedad.
 
 ## art:260 — <SUBORDINACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
 Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o controlante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
 
 ## art:261 — <PRESUNCIONES DE SUBORDINACIÓN>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
 Será subordinada una sociedad cuando se encuentre en uno o más de los siguientes casos: 
 
@@ -2093,36 +2021,24 @@ PARÁGRAFO 1o. Igualmente habrá subordinación, para todos los efectos legales,
 PARÁGRAFO 2o. Así mismo, una sociedad se considera subordinada cuando el control sea ejercido por otra sociedad, por intermedio o con el concurso de alguna o algunas de las entidades mencionadas en el parágrafo anterior.
 
 ## art:262 — <PROHIBICIÓN A LA SOCIEDAD SUBORDINADA>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
-Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
 
 ## art:263 — <DEFINICIÓN DE SUCURSALES - FACULTADES DE LOS ADMINISTRADORES>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
 Son sucursales los establecimientos de comercio abiertos por una sociedad, dentro o fuera de su domicilio, para el desarrollo de los negocios sociales o de parte de ellos, administrados por mandatarios con facultades para representar a la sociedad. 
 
 Cuando en los estatutos no se determinen las facultades de los administradores de las sucursales, deberá otorgárseles un poder por escritura pública o documento legalmente reconocido, que se inscribirá en el registro mercantil. A falta de dicho poder, se presumirá que tendrán las mismas atribuciones de los administradores de la principal.
 
 ## art:264 — <DEFINICIÓN DE AGENCIAS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
 Son agencias de una sociedad sus establecimientos de comercio cuyos administradores carezcan de poder para representarla.
 
 ## art:265 — <COMPROBACIÓN DE REALIDAD SOBRE OPERACIONES CELEBRADAS ENTRE SOCIEDAD Y VINCULADOS>
-ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
+ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
 Los respectivos organismos de inspección, vigilancia o control, podrán comprobar la realidad de las operaciones que se celebren entre una sociedad y sus vinculados. En caso de verificar la irrealidad de tales operaciones o su celebración en condiciones considerablemente diferentes a las normales del mercado, en perjuicio del Estado, de los socios o de terceros, impondrán multas y si lo consideran necesario, ordenarán la suspensión de tales operaciones. Lo anterior, sin perjuicio de las acciones de socios y terceros a que haya lugar para la obtención de las indemnizaciones correspondientes.
 
@@ -2285,7 +2201,7 @@ Si las afirmaciones falsas estuvieren destinadas a servir de prueba, se aplicar�
 Quienes aparezcan comprometidos en los hechos contemplados en este artículo, serán solidariamente responsables de los perjuicios sufridos por los asociados o por terceros.
 
 ## art:294 — <RESPONSABILIDAD DE SOCIOS EN SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 Todos los socios de la sociedad en nombre colectivo responderán solidaria e ilimitadamente por las operaciones sociales. Cualquier estipulación en contrario se tendrá por no escrita. 
 
@@ -2294,12 +2210,12 @@ Esta responsabilidad sólo podrá deducirse contra los socios cuando se demuestr
 En todo caso, los socios podrán alegar las excepciones que tenga la sociedad contra sus acreedores.
 
 ## art:295 — <SOCIEDAD MERCANTIL COMO SOCIA DE SOCIEDAD COLECTIVA - REQUISITOS>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 Cualquier sociedad mercantil podrá formar parte de sociedades colectivas, cuando lo decida la asamblea o la junta de socios con el voto unánime de los asociados. Será nulo el ingreso a la sociedad cuando se infrinja esta disposición.
 
 ## art:296 — <ACTOS QUE REQUIEREN AUTORIZACIÓN EXPRESA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 Todo socio deberá obtener autorización expresa de sus consocios para: 
 
@@ -2312,63 +2228,63 @@ Todo socio deberá obtener autorización expresa de sus consocios para:
 4) Formar parte de sociedades por cuotas o partes de interés, intervenir en su administración o en las compañías por acciones que exploten el mismo objeto social.
 
 ## art:297 — <EFECTOS POR INFRACCIÓN DE SOLICITUD DE AUTORIZACIÓN EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 Los actos que infrinjan los dos primeros ordinales del artículo anterior no producirán efecto alguno respecto de la sociedad ni de los demás socios. 
 
 La infracción de los ordinales tercero y cuarto dará derecho a los socios a la exclusión del consocio responsable, a la incorporación al patrimonio social de los beneficios que le correspondieren y al resarcimiento de los daños que ocasionare a la sociedad. Aprobada la exclusión, el representante legal de la compañía solemnizará la correspondiente reforma estatutaria.
 
 ## art:298 — <CAUSALES PARA EXCLUSIÓN DE UN ASOCIADO EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 Sin perjuicio de las sanciones establecidas en la ley penal, el socio que retire cualquier clase de bienes de la sociedad o que utilice la firma social en negocios ajenos a ella, podrá ser excluido de la compañía, perdiendo en favor de ésta su aporte y debiendo indemnizarla si fuere el caso.
 
 ## art:299 — <EMBARGO DEL INTERÉS SOCIAL EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 El interés social será embargable por los acreedores personales de los socios, pero no se enajenará en subasta pública si uno o más consocios lo adquieren por el avalúo judicial del mismo, caso en el cual el juez autorizará la cesión del interés embargado, previa consignación de su valor. 
 
 No obstante, si en la subasta pública del interés social alguno de los socios hace postura, será preferido en igualdad de condiciones. Siendo varios los socios interesados en la adquisición al mismo precio, el juez lo adjudicará a favor de todos ellos por partes iguales, si los mismos socios no solicitan que se adjudique en otra forma.
 
 ## art:300 — <PRENDA DEL INTERÉS SOCIAL EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 El interés social podrá darse en prenda mediante instrumento público o documento privado reconocido legalmente; pero la prenda no será oponible a terceros sino a partir de su inscripción en el registro mercantil.
 
 ## art:301 — <CESIÓN DEL INTERÉS SOCIAL EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 La cesión del interés social se tendrá como una reforma del contrato social, aunque se haga a favor de otro socio; pero el cedente no quedará liberado de su responsabilidad por las obligaciones sociales anteriores, sino trascurrido un año desde la fecha de la inscripción de la cesión.
 
 ## art:302 — <REUNIONES DE LA JUNTA DE SOCIOS Y DECISIONES>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO I. LOS SOCIOS
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO I. LOS SOCIOS
 
 Las reuniones de la junta de socios y las decisiones de la misma se sujetarán a lo previsto en el contrato social. A falta de estipulación expresa, podrá deliberarse con la mayoría numérica de los asociados cualquiera que sea su aporte, y podrán adoptarse las decisiones con el voto de no menos de la misma mayoría, salvas las reformas del contrato, que requerirán el voto unánime de los socios.
 
 ## art:303 — <FORMACIÓN DE LA RAZÓN SOCIAL>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 La razón social se formará con el nombre completo o el solo apellido de alguno o algunos de los socios seguido de las expresiones "y compañía", "hermanos", "e hijos", u otras análogas, si no se incluyen los nombres completos o los apellidos de todos los socios. 
 
 No podrá incluirse el nombre de un extraño en la razón social. Quien lo tolere, será responsable a favor de las personas que hubieren contratado con la sociedad.
 
 ## art:304 — <ADICIÓN DE LA PALABRA SUCESORES A LA RAZÓN SOCIAL EN CASOS DE MUERTE>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 La muerte de un socio cuyo nombre o apellido integre la razón social, no impedirá a la sociedad seguir utilizándolo cuando continúe con los herederos o cuando éstos, siendo capaces, consientan expresamente. En tales casos se agregará la palabra "sucesores".
 
 ## art:305 — <ADICIÓN DE LA PALABRA SUCESORES A LA RAZÓN SOCIAL EN CASOS DE CESIÓN DE INTERÉS>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 Cuando la razón social se forme con el nombre completo o el apellido de uno de los socios, y éste ceda la totalidad de su interés en la sociedad, podrá seguir utilizándose la misma razón social con la palabra "sucesores".
 
 ## art:306 — <AUTORIZACIÓN PARA EL USO DE LA RAZÓN SOCIAL EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 La razón o firma social sólo podrá ser utilizada por las personas facultadas para representar a la sociedad. Esta, a su vez, sólo se obligará por las operaciones que, además de corresponder al objeto social, sean autorizadas con la razón o firma social.
 
 ## art:307 — <RESPONSABILIDAD DEN EL USO DE LA RAZÓN SOCIAL EN OPERACIONES NO AUTORIZADAS>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 No obstante lo prescrito en el artículo anterior, la sociedad responderá por las operaciones no autorizadas con su firma social en los siguientes casos: 
 
@@ -2379,68 +2295,68 @@ No obstante lo prescrito en el artículo anterior, la sociedad responderá por l
 3) Cuando el tercero de buena fe prueba que la sociedad ha cumplido voluntariamente otras obligaciones contraídas de modo semejante.
 
 ## art:308 — <RESPONSABILIDAD DE LOS ADMINISTRADORES EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 Los actos ejecutados por los administradores bajo la razón social, que no estuvieren autorizados estatutariamente o fueren limitados por la ley o por los estatutos, solamente comprometerán su responsabilidad personal. Además deberán indemnizar a la sociedad por los perjuicios que le causen y, si se trata de socios, podrán ser excluidos.
 
 ## art:309 — <FORMACIÓN DE LA RAZÓN SOCIAL>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO II. LA RAZÓN SOCIAL
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO II. LA RAZÓN SOCIAL
 
 La razón social no formará parte de los establecimientos de comercio de la sociedad, y en caso de enajenación de éstos, podrá trasferirse mediante aceptación de los asociados cuyos nombres o apellidos figuren en ella, quienes seguirán respondiendo ante terceros.
 
 ## art:310 — <ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD COLECTIVA- GENERALIDAD>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 La administración de la sociedad colectiva corresponderá a todos y a cada uno de los socios, quienes podrán delegarla en sus consocios o en extraños, caso en el cual los delegantes quedarán inhibidos para la gestión de los negocios sociales. Los delegados tendrán las mismas facultades conferidas a los socios administradores por la ley o por los estatutos, salvo las limitaciones que expresamente se les impongan.
 
 ## art:311 — <FACULTADES DE LA REPRESENTACIÓN EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 La representación de la sociedad llevará implícita la facultad de usar la firma social y de celebrar todas las operaciones comprendidas dentro del giro ordinario de los negocios sociales.
 
 ## art:312 — <DELEGACIÓN DE LA ADMINISTRACIÓN EN SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 Delegada la administración a varias personas, sin determinar sus funciones y facultades, se entenderá que podrán ejercer separadamente cualquier acto de administración. Cuando se estipule que deban obrar de consuno, no podrán actuar aisladamente.
 
 ## art:313 — <REVOCACIÓN DE LA ADMINISTRACIÓN DELEGADA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 Delegada la administración de la sociedad, el o los socios que la hubieren conferido podrán reasumirla en cualquier tiempo, o cambiar a sus delegados, teniendo en cuenta lo dispuesto en el artículo 310. Cuando la delegación no conste en los estatutos, deberá otorgarse con las formalidades propias de las reformas estatutarias. Serán inoponibles a terceros la revocación, el cambio de delegado y las limitaciones de sus facultades, mientras no se llenen dichas formalidades.
 
 ## art:314 — <DERECHO DE INSPECCIÓN DE LOS SOCIOS EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 Aún delegada la administración, los socios tendrán derecho de inspeccionar, por sí mismos o por medio de representantes, los libros y papeles de la sociedad en cualquier tiempo.
 
 ## art:315 — <ASIGNACIÓN DE COADMINISTRADOR POR ABUSO O NEGLIGENCIA DE UN ADMINISTRADOR NOMBRADO DE FORMA CONDICIONAL>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 Cuando el nombramiento de un administrador en una persona determinada sea condición para la subsistencia de la sociedad, y dicha persona abuse de sus facultades o sea negligente, la junta de socios podrá designar por mayoría un co-administrador, con el fin de que obren de consuno.
 
 ## art:316 — <DECISIONES QUE REQUIEREN VOTO UNÁNIME O MAYORÍA ABSOLUTA EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 La transferencia de partes de interés, el ingreso de nuevos socios, así como cualquiera otra reforma estatutaria y la enajenación de la totalidad o de la mayor parte de los activos sociales, requerirán el voto unánime de los socios, o de sus delegados, si otra cosa no se dispone en los estatutos. Las demás decisiones se aprobarán por mayoría absoluta de votos, salvo estipulación en contrario. 
 
 Cada socio tendrá derecho a un voto.
 
 ## art:317 — <DERECHO DE VETO - RESPONSABILIDAD POR OPERACIONES EN CONTRARIO>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 Los socios podrán oponerse a cualquier operación propuesta, salvo que se refiera a la mera conservación de los bienes sociales. La oposición suspenderá el negocio mientras se decide por mayoría de votos. Si ésta no se obtiene se desistirá del acto proyectado. 
 
 Cuando fuere vetado un negocio en la forma indicada en el inciso precedente y a pesar de ello se llevare a cabo, la sociedad comprometerá su responsabilidad; pero si de la operación se derivare algún perjuicio, será indemnizada por quien la ejecutó contrariando la oposición.
 
 ## art:318 — <OBLIGACIÓN DEL ADMINISTRADOR DE RENDIR CUENTAS EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO III. ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
 
 Los administradores, sean socios o extraños, al fin de cada ejercicio social darán cuenta de su gestión a la junta de socios e informarán sobre la situación financiera y contable de la sociedad. Además, rendirán a la misma junta cuentas comprobadas de su gestión cuando ésta la solicite y, en todo caso, al separarse del cargo. 
 
 Las estipulaciones tendientes a exonerarlos de dichas obligaciones y de las responsabilidades consiguientes se tendrán por no escritas.
 
 ## art:319 — <CAUSALES DE DISOLUCIÓN EN LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
 
 La sociedad colectiva se disolverá por las causales previstas en el Artículo 218 y, en especial, por las siguientes: 
 
@@ -2455,7 +2371,7 @@ La sociedad colectiva se disolverá por las causales previstas en el Artículo 2
 5) Por renuncia o retiro justificado de alguno de los socios, si los demás no adquieren su interés en la sociedad o no aceptan su cesión a un tercero.
 
 ## art:320 — <CONDICIONES PARA CONTINUAR LA SOCIEDAD COLECTIVA CON LOS HEREDEROS>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
 
 El pacto de continuar la sociedad con los herederos de un socio fallecido, sólo podrá cumplirse cuando tales herederos tengan la capacidad requerida para ejercer el comercio. 
 
@@ -2464,17 +2380,17 @@ Habiendo entre los herederos del socio fallecido alguno o algunos que reúnan la
 Cuando la incapacidad provenga de falta de edad y el heredero pueda obtener y obtenga la habilitación de edad* antes del registro de la partición, se cumplirá el pacto de que trata este artículo.
 
 ## art:321 — <CONTINUACIÓN DE LA SOCIEDAD COLECTIVA CON SOCIOS SOBREVIVIENTES>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
 
 Cuando la sociedad no pudiere continuar con los herederos de un socio fallecido y se hubiere estipulado la continuación con los socios sobrevivientes, deberá liquidarse y pagarse de inmediato el interés de dicho socio por el valor que acuerden las partes, y en su defecto, por el que fijen peritos designados por ellas, debiéndose solemnizar la correspondiente reforma estatutaria.
 
 ## art:322 — <RENUNCIA O RETIRO DE SOCIO DE LA SOCIEDAD COLECTIVA>
-ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
+ubicacion: TÍTULO III. DE LA SOCIEDAD COLECTIVA > CAPÍTULO IV. REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA
 
 En los casos de renuncia o retiro de un socio, se aplicarán las disposiciones que al respecto consagra el Código Civil.
 
 ## art:323 — <FORMACIÓN DE SOCIEDAD EN COMANDITA - DENOMINACIÓN DE SOCIOS>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 La sociedad en comandita se formará siempre entre uno o más socios que comprometen solidaria e ilimitadamente su responsabilidad por las operaciones sociales y otro o varios socios que limitan la responsabilidad a sus respectivos aportes. Los primeros se denominarán socios gestores o colectivos y los segundos, socios comanditarios. 
 
@@ -2483,14 +2399,14 @@ Jurisprudencia Concrdante
 - Consejo de Estado, Sección Cuarta, Expediente No. 25000-23-37-000-2016-02075-01(23753) de 27 de agosto de 2020, C.P. Dr. Milton Chaves García.
 
 ## art:324 — <RAZÓN SOCIAL DE LA SOCIEDAD EN COMANDITA-RESPONSABILIDAD>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 La razón social de las comanditarias se formará con el nombre completo o el solo apellido de uno o más socios colectivos y se agregará la expresión "y compañía" o la abreviatura "& Cía.", seguida en todo caso de la indicación abreviada "S. en C." o de las palabras "Sociedad Comanditaria por Acciones" o su abreviatura "S. C. A.", si es por acciones, so pena de que para todos los efectos legales se presuma de derecho que la sociedad es colectiva. 
 
 El socio comanditario o la persona extraña a la sociedad que tolere la inclusión de su nombre en la razón social, responderá como socio colectivo.
 
 ## art:325 — <CAPITAL SOCIAL EN LA SOCIEDAD EN COMANDITA-PROHIBICIÓN DE SOCIO INDUSTRIAL>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 El capital social se formará con los aportes de los socios comanditarios o con los de éstos y los de los socios colectivos simultáneamente. 
 
@@ -2503,7 +2419,7 @@ Jurisprudencia Concrdante
 - Consejo de Estado, Sección Cuarta, Expediente No. 25000-23-37-000-2016-02075-01(23753) de 27 de agosto de 2020, C.P. Dr. Milton Chaves García.
 
 ## art:326 — <ADMINISTRACIÓN DE SOCIEDAD EN COMANDITA>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 La administración de la sociedad estará a cargo de los socios colectivos, quienes podrán ejercerla directamente o por sus delegados, con sujeción a lo previsto para la sociedad colectiva. 
 
@@ -2512,39 +2428,39 @@ Jurisprudencia Concrdante
 - Consejo de Estado, Sección Cuarta, Expediente No. 25000-23-37-000-2016-02075-01(23753) de 27 de agosto de 2020, C.P. Dr. Milton Chaves García.
 
 ## art:327 — <REPRESENTACIÓN DE SOCIOS COMANDITARIOS>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 Los comanditarios no podrán ejercer funciones de representación de la sociedad sino como delegados de los socios colectivos y para negocios determinados. En estos casos deberán indicar, al hacer uso de la razón social, que obran por poder, so pena de responder solidariamente con los gestores por las operaciones sociales que celebren o ejecuten.
 
 ## art:328 — <DERECHO DE INSPECCIÓN Y PÉRDIDA EN LA SOCIEDAD EN COMANDITA>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 El comanditario tendrá la facultad de inspeccionar en cualquier tiempo, por sí o por medio de un representante, los libros y documentos de la sociedad. 
 
 Pero si tiene un establecimiento dedicado a las mismas actividades del establecimiento de la sociedad o si forma parte de una compañía dedicada a las mismas actividades, perderá el derecho a examinar los libros sociales.
 
 ## art:329 — <CESIÓN DE INTERÉS SOCIAL DE LOS SOCIOS GESTORES DE LA SOCIEDAD EN COMANDITA>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 Los socios gestores sólo podrán ceder su interés social en la forma prevista para la cesión de las partes de interés de los socios colectivos. Esta cesión deberá otorgarse como se prevé en el Título I de este Libro para la reforma de los estatutos.
 
 ## art:330 — <CESIÓN DE CUOTAS DE SOCIOS COMANDITARIOS>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 Los socios comanditarios podrán ceder sus cuotas en la forma prevista para los socios en la sociedad de responsabilidad limitada.
 
 ## art:331 — <CESIÓN DE LAS ACCIONES Y PARTE DE INTERÉS DE LOS SOCIOS GESTORES>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 Las acciones que un socio gestor tenga en la sociedad podrán cederse separadamente de las partes de interés que tenga como gestor, e inversamente, pero con sujeción a lo previsto en los artículos anteriores.
 
 ## art:332 — <DISTRIBUCIÓN DE UTILIDADES EN LA SOCIEDAD EN COMANDITA>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 Las utilidades sociales se distribuirán entre los socios gestores y comanditarios en la forma estipulada en el contrato. A falta de estipulación, las utilidades se repartirán entre los comanditarios a prorrata de sus cuotas o acciones pagando previamente el beneficio de los socios gestores.
 
 ## art:333 — <CAUSALES DE DISOLUCIÓN EN LA SOCIEDAD EN COMANDITA>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 La sociedad en comandita se disolverá: 
 
@@ -2555,17 +2471,17 @@ La sociedad en comandita se disolverá:
 3) Por desaparición de una de las dos categorías de socios.
 
 ## art:334 — <DESIGNACIÓN Y REMOCIÓN DEL LIQUIDADOR EN UNA SOCIEDAD EN COMANDITA>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 El liquidador de una comanditaria será designado con el voto de la mayoría absoluta, tanto de los socios colectivos como de las cuotas de los comanditarios, si otra cosa no se hubiere previsto en los estatutos. La remoción del liquidador requerirá la misma mayoría.
 
 ## art:335 — <PRESUNCIÓN SOBRE LA CALIDAD DE UN SOCIO O SOBRE EL TIPO DE SOCIEDAD>
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 En caso de duda sobre la calidad de un socio, se presumirá que es colectivo; y cuando se presentare sobre la especie o tipo de la sociedad, se reputará colectiva.
 
 ## art:336 — <DECISIONES DE LA JUNTA DE SOCIOS RELATIVAS A LA ADMINISTRACIÓN - DETERMINACIÓN DE VOTOS->
-ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
 En las decisiones de la junta de socios cada gestor tendrá un voto. Los votos de los comanditarios se computarán conforme al número de cuotas o acciones de cada uno. 
 
@@ -2669,19 +2585,7 @@ ubicacion: TÍTULO V. DE LA SOCIEDAD DE RESPONSABILIDAD LIMITADA
 
 El capital social se pagará íntegramente al constituirse la compañía, así como al solemnizarse cualquier aumento del mismo. El capital estará dividido en cuotas de igual valor, cesibles en las condiciones previstas en la ley o en los estatutos. 
 
-Los socios responderán solidariamente por el valor atribuido a los aportes en especie. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Los socios responderán solidariamente por el valor atribuido a los aportes en especie.
 
 ## art:355 — <SANCIONES POR EL NO PAGO DEL TOTAL DE LOS APORTES EN LA SOCIEDAD DE RESPONSABILIDAD LIMITADA>
 ubicacion: TÍTULO V. DE LA SOCIEDAD DE RESPONSABILIDAD LIMITADA
@@ -2917,19 +2821,7 @@ El reglamento de suscripción de acciones contendrá:
 
 4) El precio a que sean ofrecidas, que no será inferior al nominal, y 
 
-5) Los plazos para el pago de las acciones. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+5) Los plazos para el pago de las acciones.
 
 ## art:387 — <CANCELACIÓN POR CUOTAS O PLAZOS PARA EL PAGO>
 ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO II. LAS ACCIONES EN LA SOCIEDAD ANÓNIMA SECCIÓN I. EMISIÓN DE ACCIONES
@@ -3203,19 +3095,7 @@ La asamblea general de accionistas ejercerá las funciones siguientes:
 
 6) Adoptar las medidas que exigiere el interés de la sociedad, y 
 
-7) Las demás que le señalen la ley o los estatutos, y las que no correspondan a otro órgano. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+7) Las demás que le señalen la ley o los estatutos, y las que no correspondan a otro órgano.
 
 ## art:421 — <MAYORÍA EN ASAMBLEA PARA APROBACIÓN DE REFORMAS ESTATUTARIAS>
 ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO III. DIRECCIÓN Y ADMINISTRACIÓN SECCIÓN I. ASAMBLEA GENERAL DE ACCIONISTAS
@@ -3516,19 +3396,7 @@ El pago del dividendo se hará en dinero efectivo, en las épocas que acuerde la
 
 No obstante, podrá pagarse el dividendo en forma de acciones liberadas de la misma sociedad, si así lo dispone la asamblea con el voto del ochenta por ciento de las acciones representadas. A falta de esta mayoría, sólo podrán entregarse tales acciones a título de dividendo a los accionistas que así lo acepten. 
 
-PARÁGRAFO. <Parágrafo adicionado por el artículo 33 de la Ley 222 de 1995. El texto es el siguiente:> En todo caso, cuando se configure una situación de control en los términos previstos en la ley, sólo podrá pagarse el dividendo en acciones o cuotas liberadas de la misma sociedad, a los socios que así lo acepten. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARÁGRAFO. <Parágrafo adicionado por el artículo 33 de la Ley 222 de 1995. El texto es el siguiente:> En todo caso, cuando se configure una situación de control en los términos previstos en la ley, sólo podrá pagarse el dividendo en acciones o cuotas liberadas de la misma sociedad, a los socios que así lo acepten.
 
 ## art:456 — <MANEJO DE PÉRDIDAS EN LA SOCIEDAD ANÓNIMA>
 ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO IV. BALANCES Y DIVIDENDOS SECCIÓN I. BALANCES GENERALES DE FIN DE EJERCICIO Y ANEXOS
@@ -3730,19 +3598,7 @@ La existencia de las sociedades domiciliadas en el exterior de que trata este T�
 ## art:487 — <CAPITAL SOCIAL DE LA SOCIEDAD EXTRANJERA>
 ubicacion: TÍTULO VIII. DE LAS SOCIEDADES EXTRANJERAS
 
-El capital destinado por la sociedad a sus negocios en el país podrá aumentarse o reponerse libremente, pero no podrá reducirse sino con sujeción a lo prescrito en este Código, interpretado en consideración a los acreedores establecidos en el territorio nacional. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El capital destinado por la sociedad a sus negocios en el país podrá aumentarse o reponerse libremente, pero no podrá reducirse sino con sujeción a lo prescrito en este Código, interpretado en consideración a los acreedores establecidos en el territorio nacional.
 
 ## art:488 — <REGISTRO DE LIBROS CONTABLES Y BALANCE GENERAL DE SOCIEDAD EXTRANJERA - CERTIFICADO DE LA CÁMARA DE COMERCIO>
 ubicacion: TÍTULO VIII. DE LAS SOCIEDADES EXTRANJERAS
@@ -3913,19 +3769,7 @@ ubicacion: TÍTULO I. EL ESTABLECIMIENTO DE COMERCIO > CAPÍTULO I. ESTABLECIMIE
 
 Siempre que haya de procederse a la enajenación forzada de un establecimiento de comercio se preferirá la que se realice en bloque o en su estado de unidad económica. Si no pudiere hacerse en tal forma, se efectuará la enajenación separada de sus distintos elementos. 
 
-En la misma forma se procederá en caso de liquidaciones de sociedades propietarias de establecimientos de comercio y de particiones de establecimientos de que varias personas sean condueñas. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+En la misma forma se procederá en caso de liquidaciones de sociedades propietarias de establecimientos de comercio y de particiones de establecimientos de que varias personas sean condueñas.
 
 ## art:518 — <DERECHO DE RENOVACIÓN DEL CONTRATO DE ARRENDAMIENTO>
 ubicacion: TÍTULO I. EL ESTABLECIMIENTO DE COMERCIO > CAPÍTULO I. ESTABLECIMIENTOS DE COMERCIO Y SU PROTECCIÓN LEGAL
@@ -4139,17 +3983,7 @@ ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO I. NUEVAS CREACION
 ## art:549 — <OTORGAMIENTO DEL TÍTULO DE PATENTE - PROCEDIMIENTO EN CASO CONTRARIO>
 ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO I. NUEVAS CREACIONES SECCIÓN I. PATENTES DE INVENCIÓN
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena>
 
 ## art:550 — <EXAMEN Y PUBLICACIÓN DE PATENTES>
 ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO I. NUEVAS CREACIONES SECCIÓN I. PATENTES DE INVENCIÓN
@@ -4373,19 +4207,7 @@ ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO II. SIGNOS DISTINT
 
 SECCIÓN II. 
 
-MARCAS DE PRODUCTOS Y DE SERVICIOS 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+MARCAS DE PRODUCTOS Y DE SERVICIOS
 
 ## art:584 — <DE QUE SE PUEDE UTILIZAR COMO MARCA>
 ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO II. SIGNOS DISTINTIVOS SECCIÓN I. DEFINICIONES
@@ -4575,19 +4397,7 @@ Para que surtan efectos frente a terceros, y sin perjuicio de lo dispuesto sobre
 ## art:617 — <CESIÓN DE LOS DERECHOS INHERENTES A LA PROPIEDAD INDUSTRIAL>
 ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO III. DISPOSICIONES VARIAS
 
-Salvo lo previsto en este Título, los derechos inherentes a la propiedad industrial podrán cederse. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Salvo lo previsto en este Título, los derechos inherentes a la propiedad industrial podrán cederse.
 
 ## art:618 — <DERECHO AL GOBIERNO PARA REGLAMENTAR NORMAS SOBRE PROPIEDAD INDUSTRIAL>
 ubicacion: TÍTULO II. DE LA PROPIEDAD INDUSTRIAL > CAPÍTULO III. DISPOSICIONES VARIAS
@@ -4783,19 +4593,7 @@ La transferencia de un título nominativo por endoso dará derecho al adquirente
 ## art:649 — <AUTENTICACIÓN DE FIRMA DEL TRANSMISOR DE TÍTULOS NOMINATIVOS>
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO II. TÍTULOS NOMINATIVOS
 
-El creador del título podrá exigir que la firma del transmisor se autentique. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El creador del título podrá exigir que la firma del transmisor se autentique.
 
 ## art:650 — <REGISTRO DE TRANSMISIÓN DE TÍTULOS NOMINATIVOS>
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO II. TÍTULOS NOMINATIVOS
@@ -4923,7 +4721,7 @@ ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO IV. TÍTULOS AL PORT
 Los títulos creados en contravención a lo dispuesto en el artículo anterior, no producirán efectos como títulos-valores.
 
 ## art:671 — <CONTENIDO DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Además de lo dispuesto en el artículo 621, la letra de cambio deberá contener:
 
@@ -4936,12 +4734,12 @@ Además de lo dispuesto en el artículo 621, la letra de cambio deberá contener
 4) La indicación de ser pagadera a la orden o al portador.
 
 ## art:672 — <FACULTAD PARA QUE LA LETRA DE CAMBIO CONTENGA CLÁUSULA DE INTERÉS Y DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La letra de cambio podrá contener cláusulas de intereses y de cambio a una tasa fija o corriente.
 
 ## art:673 — <POSIBILIDADES DE VENCIMIENTOS EN LAS LETRAS DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La letra de cambio puede ser girada: 
 
@@ -4954,32 +4752,32 @@ La letra de cambio puede ser girada:
 4) A un día cierto después de la fecha o de la vista.
 
 ## art:674 — <INTERPRETACIÓN DE LAS EXPRESIONES "PRINCIPIOS","MEDIADOS" O "FINES" EN LOS VENCIMIENTOS DE LAS LETRAS DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si se señalare el vencimiento para principios, mediados o fines de mes, se entenderá por estos términos los días primero, quince y último del mes correspondiente.
 
 ## art:675 — <INTERPRETACIÓN DE EXPRESIONES DE TIEMPO EN LOS VENCIMIENTOS DE LAS LETRAS DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Las expresiones "una semana", "dos semanas", "una quincena", o "medio mes" se entenderán, no como una o dos semanas enteras, sino como plazos de ocho o de quince días comunes o solares, respectivamente.
 
 ## art:676 — <LETRAS DE CAMBIO GIRADA A LA ORDEN DEL MISMO GIRADOR>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La letra de cambio puede girarse a la orden o a cargo del mismo girador. En este último caso, el girador quedará obligado como aceptante; y si la letra fuere girada a cierto tiempo vista, su presentación sólo tendrá el efecto de fijar la fecha de su vencimiento.
 
 ## art:677 — <DOMICILIO PARA EL PAGO DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El girador puede señalar como domicilio para el pago de la letra cualquier lugar determinado; quien allí pague se entenderá que lo hace por cuenta del principal obligado.
 
 ## art:678 — <RESPONSABILIDAD DEL GIRADOR DE UNA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El girador será responsable de la aceptación y del pago de la letra. Toda cláusula que lo exima de esta responsabilidad, se tendrá por no escrita.
 
 ## art:679 — <OBLIGACIÓN DEL TENEDOR DE UNA LETRA DE CAMBIO QUE ACOMPAÑE UN DOCUMENTO CON INDICACIÓN AL RESPECTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La inserción de las cláusulas "documentos contra aceptación" o "documentos contra pago", o de las indicaciones D/a o D/p en el texto de una letra de cambio a la que se acompañen documentos, obligará al tenedor de la letra a no entregar los documentos sino mediante la aceptación o el pago de la letra. 
 
@@ -4988,71 +4786,59 @@ SUBSECCIÓN II.
 ACEPTACIÓN
 
 ## art:680 — <PLAZO PARA LA ACEPTACIÓN DE LETRAS PAGADERAS A DÍA CIERTO DESPUÉS DE LA VISTA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Las letras pagaderas a día cierto después de la vista deberán presentarse para su aceptación dentro del año que siga a su fecha, a menos que el girador amplíe dicho plazo o prohíba su presentación antes de determinada época. Cualquiera de los obligados podrá reducir el plazo consignándolo así en la letra.
 
 ## art:681 — <PLAZO PARA LA ACEPTACIÓN DE LAS LETRAS GIRADAS A DÍA CIERTO O DÍA CIERTO DESPUÉS DE SU FECHA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-La presentación para la aceptación de las letras giradas a día cierto o a día cierto después de su fecha, será potestativa; pero el girador si así lo indica en el título, puede convertirla en obligatoria y señalar un plazo para que se realice. El girador puede, asimismo, prohibir la presentación antes de una época determinada, si lo consigna así en la letra. Cuando sea potestativa la presentación de la letra, el tenedor podrá hacerla a más tardar el último día hábil anterior al del vencimiento. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La presentación para la aceptación de las letras giradas a día cierto o a día cierto después de su fecha, será potestativa; pero el girador si así lo indica en el título, puede convertirla en obligatoria y señalar un plazo para que se realice. El girador puede, asimismo, prohibir la presentación antes de una época determinada, si lo consigna así en la letra. Cuando sea potestativa la presentación de la letra, el tenedor podrá hacerla a más tardar el último día hábil anterior al del vencimiento.
 
 ## art:682 — <LUGAR DE PRESENTACIÓN DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La letra deberá ser presentada para su aceptación en el lugar y la dirección designados en ella. A falta de indicación de lugar, la presentación se hará en el establecimiento o en la residencia del girado. Si se señalaren varios lugares, el tenedor podrá escoger cualquiera de ellos.
 
 ## art:683 — <DESIGNACIÓN DE LUGAR DE PAGO DIFERENTE AL DOMICILIO DEL GIRADOR DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si el girador indica un lugar de pago distinto al domicilio del girado, al aceptar éste deberá indicar el nombre de la persona que habrá de realizar el pago. Si no lo indicare, se entenderá que el aceptante mismo quedará obligado a realizar el pago en el lugar designado.
 
 ## art:684 — <DESIGNACIÓN DE DIRECCIÓN DE PAGO EN EL DOMICILIO DEL GIRADOR DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si la letra es pagadera en el domicilio del girado, podrá éste, al aceptarla, indicar una dirección dentro de la misma plaza para que ahí se le presente la letra para su pago, a menos que el girador haya señalado expresamente una dirección distinta.
 
 ## art:685 — <CONSTANCIA DE LA ACEPTACIÓN DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La aceptación se hará constar en la letra misma por medio de la palabra "acepto" u otra equivalente, y la firma del girado. La sola firma será bastante para que la letra se tenga por aceptada.
 
 ## art:686 — <INDICACIÓN DE FECHA DE ACEPTACIÓN DE LA LETRA DE CAMBIO - CASOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si la letra es pagadera a día cierto después de la vista o cuando, en virtud de indicación especial, deba ser presentada dentro de un plazo determinado, el aceptante deberá indicar la fecha en que aceptó y, si la omitiere, podrá consignarla el tenedor.
 
 ## art:687 — <INCONDICIONALIDAD DE LA ACEPTACIÓN DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La aceptación deberá ser incondicional, pero podrá limitarse a cantidad menor de la expresada en la letra. 
 
 Cualquiera otra modalidad introducida por el aceptante, equivaldrá a una negativa de aceptación; pero el girado quedará obligado, conforme al derecho común, en los términos de la declaración que haya suscrito.
 
 ## art:688 — <ACEPTACIÓN REHUSADA DE LA LETRA DE CAMBIO - TACHADURA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Se considera rehusada la aceptación que el girado tache antes de devolver la letra al tenedor.
 
 ## art:689 — <EFECTOS DE LA ACEPTACIÓN DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La aceptación convierte al aceptante en principal obligado. El aceptante quedará obligado cambiariamente aún con el girador; y carecerá de acción cambiaria contra éste y contra los demás signatarios de la letra, salvo en el caso previsto en el artículo 639.
 
 ## art:690 — <HECHOS QUE NO ALTERAN LA OBLIGACIÓN DEL ACEPTANTE EN LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La obligación del aceptante no se alterará por quiebra, interdicción o muerte del girador, aún en el caso de que haya acontecido antes de la aceptación. 
 
@@ -5061,32 +4847,32 @@ SUBSECCIÓN III.
 PAGO
 
 ## art:691 — <PRESENTACIÓN DE LA LETRA DE CAMBIO PARA SU PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La letra de cambio deberá presentarse para su pago el día de su vencimiento o dentro de los ocho días comunes siguientes.
 
 ## art:692 — <PRESENTACIÓN PARA EL PAGO DE LA LETRA A LA VISTA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La presentación para el pago de la letra a la vista, deberá hacerse dentro del año que siga a la fecha del título. Cualquiera de los obligados podrá reducir ese plazo, si lo consigna así en la letra. El girador podrá, en la misma forma ampliarlo y prohibir la presentación antes de determinada época.
 
 ## art:693 — <PROHIBICIÓN AL TENEDOR DE REHUSAR PAGO PARCIAL DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El tenedor no puede rehusar un pago parcial.
 
 ## art:694 — <POSIBILIDAD DEL TENEDOR PARA NO RECIBIR EL PAGO DE LA LETRA DE CAMBIO ANTES DEL VENCIMIENTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El tenedor no puede ser obligado a recibir el pago antes del vencimiento de la letra.
 
 ## art:695 — <RESPONSABILIDAD SOBRE LA VALIDEZ DEL PAGO DE LA LETRA DE CAMBIO ANTES DEL VENCIMIENTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El girado que paga antes del vencimiento será responsable de la validez del pago.
 
 ## art:696 — <DEPÓSITOS JUDICIALES SOBRE LAS LETRAS DE CAMBIO VENCIDAS NO PRESENTADAS PARA SU COBRO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si vencida la letra ésta no se presenta para su cobro dentro de los términos previstos en el artículo 691, cualquier obligado podrá depositar el importe de la misma en un banco autorizado legalmente para recibir depósitos judiciales, que funcione en el lugar donde debe hacerse el pago, a expensas y riesgo del tenedor y sin obligación de dar aviso a éste. Este depósito producirá efectos de pago. 
 
@@ -5095,52 +4881,52 @@ SUBSECCIÓN IV.
 PROTESTO
 
 ## art:697 — <UTILIZACIÓN DEL PROTESTO PARA LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El protesto sólo será necesario cuando el creador de la letra o algún tenedor inserte la cláusula "con protesto", en el anverso y con caracteres visibles.
 
 ## art:698 — <FORMALIZACIÓN ANTE NOTARIO DEL PROTESTO EN LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El protesto se practicará con intervención de notario público y su omisión producirá la caducidad de las acciones de regreso.
 
 ## art:699 — <LUGAR PARA EFECTUAR EL PROTESTO DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El protesto se hará en los lugares señalados para el cumplimiento de las obligaciones o del ejercicio de los derechos consignados en el título.
 
 ## art:700 — <DESARROLLO DE LA DILIGENCIA DE PROTESTO SOBRE UNA LETRA DE CAMBIO A PERSONA AUSENTE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si la persona contra quien haya de hacerse el protesto no se encuentra presente, así lo asentará el notario que lo practique y la diligencia no será suspendida.
 
 ## art:701 — <PROTESTO DE LETRA DE CAMBIO DE PERSONA CON DOMICILIO DESCONOCIDO - NOTARIA PÚBLICA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si se desconoce el lugar donde se encuentra la persona contra la cual deba hacerse el protesto, éste se practicará en la oficina del notario que haya de autorizarlo.
 
 ## art:702 — <VENCIMIENTO PARA EFECTUAR EL PROTESTO DE UNA LETRA DE CAMBIO POR FALTA DE PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El protesto por falta de aceptación deberá hacerse antes de la fecha del fallecimiento.
 
 ## art:703 — <VENCIMIENTO DE PROTESTO EN UNA LETRA DE CAMBIO POR FALTA DE PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El protesto por falta de pago se hará dentro de los quince días comunes siguientes al del vencimiento.
 
 ## art:704 — <PROTESTO DE LETRA DE CAMBIO POR FALTA DE ACEPTACIÓN NO REQUIERE PROTESTO POR FALTA DE PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si la letra fuere protestada por falta de aceptación, no será necesario protestarla por falta de pago.
 
 ## art:705 — <PROTESTO DE LETRA DE CAMBIO A LA VISTA SOLO POR FALTA DE PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La letra a la vista sólo se protestará por falta de pago. Lo mismo se observará si respecto de las letras cuya presentación para la aceptación fuera potestativa.
 
 ## art:706 — <CONTENIDO DEL ACTA QUE SE LEVANTA POR PROTESTO DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 En el cuerpo de la letra de hoja adherida a ella se hará constar, bajo la firma del notario, el hecho del protesto con indicación de la fecha del acta respectiva. Además el funcionario que lo practique levantará acta que contendrá: 
 
@@ -5155,7 +4941,7 @@ En el cuerpo de la letra de hoja adherida a ella se hará constar, bajo la firma
 5) La expresión del lugar, fecha y hora en que se practique el protesto y la firma del funcionario que lo autorice.
 
 ## art:707 — <AVISO DEL TENEDOR DE LETRA NO ACEPTADA O PAGADA DEL PROTESTO A LOS SIGNATARIOS - RESPONSABILIDAD POR NO AVISO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El tenedor del título cuya aceptación o pago se hubiere rehusado, deberá dar aviso de tal circunstancia a todos los signatarios del mismo cuya dirección conste en él, dentro de los cinco días comunes siguientes a la fecha del protesto o la presentación para la aceptación o el pago. 
 
@@ -5164,7 +4950,7 @@ El tenedor que omita el aviso será responsable, hasta una suma igual al importe
 También podrá darse el aviso por el notario encargado de formular el protesto.
 
 ## art:708 — <PROTESTO BANCARIO-VALIDEZ DE LA ANOTACIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si la letra se presenta por conducto de un banco, la anotación de éste respecto de la negativa de la aceptación o de pago, valdrá como protesto. 
 
@@ -5173,7 +4959,7 @@ SECCIÓN II.
 PAGARE
 
 ## art:709 — <REQUISITOS DEL PAGARÉ>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El pagaré debe contener, además de los requisitos que establece el Artículo 621, los siguientes: 
 
@@ -5186,12 +4972,12 @@ El pagaré debe contener, además de los requisitos que establece el Artículo 6
 4) La forma de vencimiento.
 
 ## art:710 — <EQUIVALENCIA DEL SUSCRIPTOR DEL PAGARÉ AL ACEPTANTE DE UNA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El suscriptor del pagaré se equipara al aceptante de una letra de cambio.
 
 ## art:711 — <APLICACIÓN AL PAGARÉ DE LAS DISPOSICIONES DE LA LETRA DE CAMBIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Serán aplicables al pagaré en lo conducente, las disposiciones relativas a la letra de cambio. 
 
@@ -5204,12 +4990,12 @@ SUBSECCIÓN I.
 CREACIÓN Y FORMA DEL CHEQUE
 
 ## art:712 — <EXPEDICIÓN DEL CHEQUE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El cheque sólo puede ser expedido en formularios impresos de cheques o chequeras y a cargo de un banco. El título que en forma de cheque se expida en contravención a éste artículo no producirá efectos de título-valor.
 
 ## art:713 — <CONTENIDO DEL CHEQUE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El cheque deberá contener, además de lo dispuesto por el artículo 621: 
 
@@ -5220,45 +5006,33 @@ El cheque deberá contener, además de lo dispuesto por el artículo 621:
 3) La indicación de ser pagadero a la orden o al portador.
 
 ## art:714 — <DISPOSICIÓN DE FONDOS SUFICIENTES Y AUTORIZACIÓN DEL BANCO PARA EXPEDIR CHEQUES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador debe tener provisión de fondos disponibles en el banco librado y haber recibido de éste autorización para librar cheques a su cargo. La autorización se entenderá concedida por el hecho de que el banco entregue los formularios de cheques o chequeras al librador.
 
 ## art:715 — <LIMITACIÓN EN LA NEGOCIABILIDAD DE LOS CHEQUES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La negociabilidad de los cheques podrá limitarse insertando en ellos una cláusula que así lo indique. 
 
 Los cheques no negociables por la cláusula correspondiente o por disposición de la ley, sólo podrán cobrarse por conducto de un banco.
 
 ## art:716 — <LIMITACIÓN DE LA NEGOCIABILIDAD DE CHEQUES GIRADOS A FAVOR DEL BANCO LIBRADO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El cheque expedido o endosado a favor del banco librado no será negociable, salvo que en él se indique lo contrario. 
 
 SUBSECCIÓN II. 
 
-PRESENTACIÓN Y PAGO 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PRESENTACIÓN Y PAGO
 
 ## art:717 — <CARÁCTER DE PAGADERO A LA VISTA DE LOS CHEQUES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El cheque será siempre pagadero a la vista. Cualquier anotación en contrario se tendrá por no puesta. El cheque postdatado será pagadero a su presentación.
 
 ## art:718 — <PRESENTACIÓN DE LOS CHEQUES PARA SU PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los cheques deberán presentarse para su pago: 
 
@@ -5271,83 +5045,83 @@ Los cheques deberán presentarse para su pago:
 4) Dentro de cuatro meses, si fueren expedidos en algún país latinoamericano para ser pagados fuera de América Latina.
 
 ## art:719 — <EFECTOS POR LA PRESENTACIÓN DE CHEQUE EN CÁMARA DE COMPENSACIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La presentación de un cheque en cámara de compensación surtirá los mismos efectos que la hecha directamente al librado.
 
 ## art:720 — <OBLIGACIÓN DEL BANCO PARA HACER PAGO DE CHEQUE O DE OFRECER SU PAGO PARCIAL HASTA EL MONTO DEL SALDO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El banco estará obligado en sus relaciones con el librador a cubrir el cheque hasta el importe del saldo disponible, salvo disposición legal que lo libere de tal obligación. 
 
 Si los fondos disponibles no fueren suficientes para cubrir el importe total del cheque, el librado deberá ofrecer al tenedor el pago parcial, hasta el saldo disponible.
 
 ## art:721 — <PAGO DEL CHEQUE DENTRO DE LOS SEIS MESES SIGUIENTES A SU FECHA DE EXPEDICIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Aún cuando el cheque no hubiere sido presentado en tiempo, el librado deberá pagarlo si tiene fondos suficientes del librador o hacer la oferta de pago parcial, siempre que se presente dentro de los seis meses que sigan a su fecha.
 
 ## art:722 — <LIBRADOR QUE SIN JUSTA CAUSA NIEGA PAGO DEL CHEQUE - SANCIONES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Cuando sin causa justa se niegue el librado a pagar un cheque o no haga el ofrecimiento de pago parcial prevenido en los artículos anteriores, pagará al librador, a título de sanción, una suma equivalente al 20% del importe del cheque o del saldo disponible, sin perjuicio de que dicho librador persiga por las vías comunes la indemnización de los daños que se le ocasionen.
 
 ## art:723 — <RECHAZO DEL TENEDOR DE PAGO PARCIAL DEL CHEQUE - PROCEDIMIENTO PARA EL BANCO >
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El tenedor podrá rechazar el pago parcial. Si el tenedor admite el pago parcial, el librado pondrá en el cheque la constancia del monto pagado y devolverá el título al tenedor.
 
 ## art:724 — <REVOCACIÓN DE UN CHEQUE POR PARTE DEL LIBRADOR - NOTIFICACIÓN AL BANCO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador podrá revocar el cheque, bajo su responsabilidad, aunque no hayan transcurrido los plazos para su presentación, sin perjuicio de lo dispuesto en el artículo 742. Notificada la revocación al banco, éste no podrá pagar el cheque.
 
 ## art:725 — <NO EXONERACIÓN DE PAGO DE CHEQUE POR MUERTE O INCAPACIDAD SOBREVINIENTE DEL LIBRADOR>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La muerte o incapacidad sobrevinientes del librador no exoneran al librado de la obligación de pagar el cheque.
 
 ## art:726 — 
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La quiebra, concurso, liquidación judicial o administrativa del librador, obligarán al librado a rehusar el pago desde que hayan hecho las publicaciones que para tales casos prevé la ley.
 
 ## art:727 — <EFECTOS DE LAS ANOTACIONES EN EL CHEQUE DE HABER SIDO PRESENTADO EN TIEMPO Y NO PAGADO TOTAL O PARCIALMENTE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La anotación que el librado o la cámara de compensación ponga en el cheque, de haber sido presentado en tiempo y no pagado total o parcialmente, surtirá los efectos del protesto.
 
 ## art:728 — <OBLIGACIONES DE LOS BANCOS A DEVOLVER LOS CHEQUES ORIGINALES PAGADOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Todo banco estará obligado a devolver al librador, junto con el extracto de su cuenta, los cheques originales que haya pagado.
 
 ## art:729 — <CADUCIDAD DE LA OPERACIÓN CAMBIARIA CONTRA EL LIBRADOR Y SUS AVALISTAS POR LA NO PRESENTACIÓN Y PROTESTO DEL CHEQUE A TIEMPO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La acción cambiaria contra el librador y sus avalistas caduca por no haber sido presentado y protestado el cheque en tiempo, si durante todo el plazo de presentación el librador tuvo fondos suficientes en poder del librado y, por causa no imputable al librador, el cheque dejó de pagarse. 
 
 La acción cambiaria contra los demás signatarios caduca por la simple falta de presentación o protesto oportunos.
 
 ## art:730 — <PRESCRIPCIÓN DE LAS ACCIONES CAMBIARIAS DERIVADAS DEL CHEQUE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Las acciones cambiarias derivadas del cheque prescriben: Las del último tenedor, en seis meses, contados desde la presentación; las de los endosantes y avalistas, en el mismo término, contado desde el día siguiente a aquel en que paguen el cheque.
 
 ## art:731 — <SANCIÓN AL LIBRADOR DE UN CHEQUE NO PAGADO POR SU CULPA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador de un cheque presentado en tiempo y no pagado por su culpa abonará al tenedor, como sanción, el 20% del importe del cheque, sin perjuicio de que dicho tenedor persiga por las vías comunes la indemnización de los daños que le ocasione.
 
 ## art:732 — <RESPONSABILIDAD DEL BANCO POR PAGO DE CHEQUE FALSO O SUMA ADULTERADA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Todo banco será responsable a un depositante por el pago que aquel haga de un cheque falso o cuya cantidad se haya aumentado, salvo que dicho depositante no notifique al banco, dentro de los tres meses después de que se le devuelva el cheque, que el título era falso o que la cantidad de él se había aumentado. 
 
 Si la falsedad o alteración se debiere a culpa del librador, el banco quedará exonerado de responsabilidad.
 
 ## art:733 — <APLICACIÓN DE LA OBJECIÓN AL PAGO DE UN CHEQUE CUANDO NO SE DA AVISO OPORTUNO AL BANCO POR PÉRDIDA DE FORMULARIOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El dueño de una chequera que hubiere perdido uno o más formularios y no hubiere dado aviso oportunamente al banco, sólo podrá objetar el pago si la alteración o la falsificación fueren notorias. 
 
@@ -5356,34 +5130,34 @@ SUBSECCIÓN III.
 CHEQUES ESPECIALES - <CHEQUE FISCAL>
 
 ## art:734 — <CARACTERÍSTICAS DEL CHEQUE CRUZADO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El cheque que el librador o el tenedor cruce con dos líneas paralelas trazadas en el anverso, sólo podrá ser cobrado por un banco y se llama "cheque cruzado".
 
 ## art:735 — <CARACTERÍSTICAS Y EFECTOS DEL CRUZAMIENTO ESPECIAL Y EL GENERAL EN LOS CHEQUES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si entre las líneas del cruzamiento aparece el nombre del banco que debe cobrarlo, el cruzamiento será especial; y será general si entre las líneas no aparece el nombre de un banco. En el último supuesto, el cheque podrá ser cobrado por cualquier banco; y en el primero, sólo por el banco cuyo nombre aparezca entre las líneas o por el banco a quien el anterior lo endosare para el cobro.
 
 ## art:736 — <NO VALIDEZ DE BORRONES O CAMBIOS EN EL CRUZAMIENTO - VALIDEZ DE CAMBIOS Y SUPRESIONES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 No se podrá borrar el cruzamiento ni el nombre del banco en él inserto. Sólo valdrán los cambios o supresiones que se hicieren bajo la firma del librador.
 
 ## art:737 — <DEFINICIONES Y EFECTOS DEL CHEQUE CERTIFICADO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador o el tenedor puede prohibir que el cheque sea pagado en efectivo, insertando la expresión "para abono en cuenta" u otra equivalente. Este cheque se denomina "para abono en cuenta". 
 
 En este caso, el librado sólo podrá pagar el cheque abonando su importe en la cuenta que lleve o abra el tenedor.
 
 ## art:738 — <RESPONSABILIDAD DEL LIBRADO POR PAGO IRREGULAR>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librado que pague en contravención a lo prescrito en los artículos anteriores, responderá por el pago irregular.
 
 ## art:739 — <DEFINICIÓN Y EFECTOS DEL CHEQUE PARA A350 EN CUENTA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador o el tenedor de un cheque puede exigir que el librado certifique la existencia de fondos disponibles para su pago. Este cheque se denomina "certificado". 
 
@@ -5392,143 +5166,81 @@ Por virtud de esta certificación, el girador y todos los endosantes quedan libr
 PARÁGRAFO. La certificación no puede ser parcial ni extenderse a cheques al portador.
 
 ## art:740 — <RESPONSABILIDAD CAMBIARIA DEL LIBRADO FRENTE AL TENEDOR EN LOS CHEQUES CERTIFICADOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La certificación hará cambiariamente responsable al librado frente al tenedor de que, el cheque será pagado a su presentación oportuna.
 
 ## art:741 — <EXPRESIONES DEL LIBRADO QUE EQUIVALEN A CERTIFICACIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La expresión "visto bueno" u otras equivalentes, suscritas por el librado, o la sola firma de éste, equivaldrán a certificación.
 
 ## art:742 — <PROHIBICIÓN DE REVOCACIÓN DE CHEQUE CERTIFICADO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador no podrá revocar el cheque certificado antes de que transcurra el plazo de presentación.
 
 ## art:743 — <EXPEDICIÓN DE CHEQUES CON PROVISIÓN GARANTIZADA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los bancos podrán entregar a sus cuenta-correntistas formularios de cheques con provisión garantizada, en los cuales conste la fecha de la entrega y, en caracteres impresos, la cuantía máxima por la cual cada cheque puede ser librado. 
 
 La entrega de los formularios respectivos producirá efectos de certificación.
 
 ## art:744 — <EXTINCIÓN DE LA GARANTÍA DE LA PREVISIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La garantía de la provisión se extinguirá si el cheque no es presentado dentro del año siguiente a la fecha de entrega de los formularios.
 
 ## art:745 — <EXPEDICIÓN DE CHEQUES POR PARTE DEL BANCO A CARGO DE SUS PROPIAS DEPENDENCIAS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los bancos podrán expedir cheques a cargo de sus propias dependencias.
 
 ## art:746 — <CARACTERÍSTICAS DE LOS CHEQUES DE VIAJERO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los cheques de viajero serán expedidos por el librador a su cargo y serán pagaderos por su establecimiento principal o por las sucursales o los corresponsales que tenga el librador en su país o en el extranjero.
 
 ## art:747 — <FORMALIDAD PARA LA NEGOCIACIÓN DE UN CHEQUE VIAJERO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El beneficiario de un cheque de viajero deberá firmarlo al recibirlo y nuevamente al negociarlo, en el espacio del título a ello destinado. El que pague o reciba el cheque, deberá verificar la autenticidad de la firma del tenedor, cotejándola con la firma puesta ante el librador.
 
 ## art:748 — <ENTREGA POR PARTE DEL LIBRADOR DE LISTADO DE SUCURSALES O CORRESPONSALES DONDE PUEDA SER COBRADO EL CHEQUE VIAJERO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El librador entregará al beneficiario una lista de las sucursales o corresponsalías en donde el cheque pueda ser cobrado.
 
 ## art:749 — <SANCIONES POR FALTA DE PAGO DE UN CHEQUE VIAJERO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La falta de pago del cheque de viajero dará acción cambiaria al tenedor para exigir, además de su importe, el pago del 25% del valor del cheque a título de sanción y a la indemnización de daños y perjuicios que podrá intentar por las vías comunes.
 
 ## art:750 — <AVALISTA DEL LIBRADOR DE UN CHEQUE VIAJERO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El corresponsal que ponga en circulación los cheques de viajero se obligará como avalista del librador.
 
 ## art:751 — <PRESCRIPCIÓN DE LAS ACCIONES SOBRE QUIEN EXPIDA CHEQUE VIAJERO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Prescribirán en diez años las acciones contra el que expida cheques de viajero. Las acciones contra el corresponsal que ponga en circulación el cheque prescribirán en cinco años. 
 
 <Mediante la Ley 1a. de 1980, publicada en el Diario Oficial No. 35.448 del 1o. de febrero de 1980, "Por la cual se crea el cheque fiscal y se dictan otras disposiciones relacionadas con la misma materia", se decreta: "Adiciónese al Libro 3o., Título III, Capítulo V, Sección 3, Subsección 3, del Código de Comercio, con los siguientes artículos:">
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
-## art:1f — 
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
-
-Denomínanse cheques fiscales, aquellos que son girados por cualquier concepto a favor de las entidades públicas definidas en el artículo 20 del Decreto 130 de 1976.
-
-Los cheques fiscales creados por la presente ley tienen las siguientes características: 
-
-1o.) El beneficiario solo podrá ser la entidad pública a la cual se haga el respectivo pago. 
-
-2o.) No podrán ser abonados en cuenta diferente a la de la entidad pública beneficiaria. 
-
-3o.) No podrán modificarse al reverso la forma de negociación ni las condiciones de los mismos establecidos en el artículo 713 del Código de Comercio. 
-
-4o.) No son negociables ni podrán ser pagados en efectivo. 
-
-A estos cheques se aplicarán en lo pertinente las normas contenidas en los artículos 737 y 738 del Código de Comercio. 
-
-PARÁGRAFO. Prohíbese a las entidades sometidas al control y vigilancia de la Superintendencia Bancaria acreditar o abonar en cuentas particulares cheques girados a nombre de las entidades públicas.
-
-## art:2f — 
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
-
-Las restricciones contenidas en el artículo anterior no impiden la negociabilidad interbancaria de tales títulos valores a través de las cámaras de compensación de acuerdo con los artículos 664 y 665 del Código de Comercio. Sin embargo, cuando esto ocurra el banco consignatario deberá dejar constancia en el reverso del cheque de la cuenta de la entidad pública, a la cual ha sido abonado el importe respectivo.
-
-## art:3f — Ver Notas del Editor en relación con la referencia a la Tesorería General de la República
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
-
-Las únicas personas autorizadas para celebrar contratos de cuenta corriente bancaria a nombre de las entidades públicas son su representante legal o jefe de la entidad respectiva y en su defecto las personas en quienes éstos deleguen, previo visto bueno de la Tesorería General de la República o las tesorerías departamentales o municipales, según el caso.
-
-Las cuentas corrientes bancarias de las entidades públicas deberán ser abiertas y mantenidas con el lleno de los requisitos legales y reglamentarios establecidos o que establezcan las autoridades fiscalizadoras del orden nacional, departamental o municipal, en forma tal, que ningún establecimiento bancario podrá abrir cuenta alguna sin el previo cumplimiento de tales requisitos.
-
-## art:4f — 
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
-
-Los funcionarios de las entidades públicas encargadas de recibir los pagos que violaren las disposiciones de la presente ley, serán destituidos del cargo, sin perjuicio de las sanciones penales correspondientes y de la responsabilidad civil ante la entidad respectiva por los daños causados a su conducta.
-
-## art:5f — 
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
-
-Los establecimientos bancarios que pagaren o negociaren o en cualquier forma violaren lo prescrito en esta ley, responderán en su totalidad por el pago irregular y sus empleados responsables quedarán sometidos a las sanciones legales y reglamentarias del caso.
-
-## art:6f — 
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
-
-Esta ley rige a partir de la fecha de su promulgación. 
-
- SECCIÓN IV. 
-
-BONOS
-
 ## art:752 — <DEFINICIÓN DE BONOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los bonos son títulos-valores que incorporan una parte alícuota de un crédito colectivo constituido a cargo de una sociedad o entidad sujetas a la inspección y vigilancia del Gobierno.
 
 ## art:753 — <TÍTULOS REPRESENTATIVOS DE BONOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los títulos representativos de los bonos constarán en una o más series numeradas. En cada serie los bonos serán de igual valor nominal. Podrán expedirse títulos representativos de varios bonos. En cada cupón se indicará el título al cual pertenece, su número, valor y fecha de su exigibilidad.
 
 ## art:754 — <CONTENIDO DE LOS BONOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los títulos de los bonos contendrán: 
 
@@ -5553,12 +5265,12 @@ Los títulos de los bonos contendrán:
 Los bonos llevarán la firma del representante legal de la sociedad o entidad emisora, o de la persona autorizada para el efecto, ya sea autógrafa o puesta por cualquier otro medio que, a juicio de la Superintendencia, garantice la autenticidad del documento.
 
 ## art:755 — <EXCEPCIÓN A LAS NORMAS APLICABLES A BONOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Las normas anteriores no se aplican en aquellos aspectos que sean contrarios a disposiciones especiales que regulan sociedades sometidas a la inspección y vigilancia de la Superintendencia Bancaria.
 
 ## art:756 — <PRESCRIPCIÓN DE LAS ACCIONES PARA COBRO DE BONOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Las acciones para el cobro de los intereses y del capital de los bonos prescribirán en cuatro años, contados desde la fecha de su expedición. 
 
@@ -5569,7 +5281,7 @@ SECCIÓN V.
 CERTIFICADO DE DEPÓSITO Y BONO DE PRENDA
 
 ## art:757 — <ALMACENES GENERALES DE DEPÓSITO - EXPEDICIÓN DE CERTIFICADOS DE DEPÓSITO Y BONOS DE PRENDA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Los almacenes generales de depósito podrán expedir, como consecuencia del depósito de mercaderías, certificados de depósito y bonos de prenda*. 
 
@@ -5578,12 +5290,12 @@ Los certificados de depósito incorporan los derechos del depositante sobre las 
 El bono de prenda* incorpora un crédito prendario sobre las mercaderías amparadas por el certificado de depósito y confiere por sí mismo los derechos y privilegios de la prenda*.
 
 ## art:758 — <ENTREGA DE FORMULARIOS DE BONO A SOLICITUD Y COSTO DEL DEPOSITANTE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El certificado y, en su caso, el formulario de bono, se entregarán por el almacén a requerimiento y costo del depositante.
 
 ## art:759 — <CERTIFICADO Y BONO DE PRENDA - REQUISITOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Además de los requisitos generales, el certificado de depósito y el bono de prenda deberán contener: 
 
@@ -5606,7 +5318,7 @@ Además de los requisitos generales, el certificado de depósito y el bono de pr
 PARÁGRAFO. El certificado de depósito contendrá, además, la estimación del valor de las mercancías depositadas.
 
 ## art:760 — <REQUISITOS ADICIONALES A LOS BONOS DE PRENDA*>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El bono de prenda contendrá, además: 
 
@@ -5619,34 +5331,34 @@ El bono de prenda contendrá, además:
 4) Las firmas del tenedor del certificado y del almacén que haya intervenido en la operación.
 
 ## art:761 — <VENCIMIENTO DEL CRÉDITO PRENDARIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El vencimiento del crédito prendario no podrá exceder al plazo del depósito.
 
 ## art:762 — <CONSTANCIA EN EL BONO DE INTERESES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si no se hiciere constar en el bono el interés pactado, se entenderá que su importe se ha descontado.
 
 ## art:763 — <CIRCULACIÓN DEL CERTIFICADO Y BONO DE PRENDA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Tanto el certificado como el bono podrán ser nominativos, a la orden o al portador.
 
 ## art:764 — <NEGOCIACIÓN CONJUNTA O SEPARADA DEL CERTIFICADO DE DEPÓSITO Y BONO DE PRENDA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El certificado de depósito y el bono de prenda serán negociables conjunta o separadamente.
 
 ## art:765 — <SITUACIÓN JURÍDICA DEL DEUDOR PRENDARIO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El tenedor del certificado que haya constituido el crédito prendario, estará en la misma situación jurídica que el aceptante de una letra de cambio o el otorgante de un pagaré negociable. 
 
 El almacén general que firme el certificado de depósito y el bono de prenda garantiza la existencia de las mercaderías, que éstas reúnen los requisitos de los artículos 1183 y 1187, y se obligará de conformidad con los artículos 1181, 1182, 1189 y 1190.
 
 ## art:766 — <APLICACIÓN DE NORMAS DE LA LETRA DE CAMBIO Y PAGARÉ PARA EL CERTIFICADO DE DEPÓSITO Y BONO DE PRENDA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Se aplicarán al certificado de depósito y al bono de prenda, en lo conducente, las disposiciones relativas a la letra de cambio o al pagaré negociable. 
 
@@ -5655,12 +5367,12 @@ SECCIÓN VI.
 CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE
 
 ## art:767 — <CARACTERÍSTICAS DE LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La carta de porte y el conocimiento de embarque tendrán el carácter de títulos representativos de las mercancías objeto del transporte.
 
 ## art:768 — <CONTENIDO DE LA CARTA DE PORTE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Sin perjuicio de lo dispuesto en el Libro V de este Código sobre transporte marítimo y aéreo, la carta de porte o el conocimiento de embarque, además de los requisitos establecidos en el artículo 621 contendrá: 
 
@@ -5687,7 +5399,7 @@ Sin perjuicio de lo dispuesto en el Libro V de este Código sobre transporte mar
 PARÁGRAFO. Si no se indicare la fecha de recibo de las cosas por el transportador, se presumirá que éste las recibió en la fecha de emisión de dichos documentos.
 
 ## art:769 — <CONTENIDO ADICIONAL DE LA CARTA DE PORTE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Si mediante un lapso entre el recibo de las mercancías y su embarque, el título deberá contener, además: 
 
@@ -5698,12 +5410,12 @@ Si mediante un lapso entre el recibo de las mercancías y su embarque, el títul
 3) El plazo fijado para el embarque.
 
 ## art:770 — <RESPONSABILIDAD DEL ENDOSANTE POR LA EXISTENCIA DE MERCANCÍAS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 El endosante responderá de la existencia de las mercancías en el momento del endoso.
 
 ## art:771 — APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 A la carta de porte y al conocimiento de embarque se aplicarán, en lo pertinente, las normas relativas a la letra de cambio y al pagaré. 
 
@@ -5712,7 +5424,7 @@ SECCIÓN VII.
 FACTURAS CAMBIARIAS
 
 ## art:772 — <FACTURA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Factura es un título valor que el vendedor o prestador del servicio podrá librar y entregar o remitir al comprador o beneficiario del servicio.
 
@@ -5723,7 +5435,7 @@ El emisor vendedor o prestador del servicio emitirá un original y dos copias de
 PARÁGRAFO. Para la puesta en circulación de la factura electrónica como título valor, el Gobierno Nacional se encargará de su reglamentación.
 
 ## art:773 — ACEPTACIÓN DE LA FACTURA
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Una vez que la factura sea aceptada por el comprador o beneficiario del servicio, se considerará, frente a terceros de buena fe exenta de culpa que el contrato que le dio origen ha sido debidamente ejecutado en la forma estipulada en el título.
 
@@ -5734,7 +5446,7 @@ El comprador o beneficiario del servicio deberá aceptar de manera expresa el co
 PARÁGRAFO. La factura podrá transferirse después de haber sido aceptada por el comprador o beneficiario del bien o servicio. Tres (3) días antes de su vencimiento para el pago, el legítimo tenedor de la factura informará de su tenencia al comprador o beneficiario del bien o servicio.
 
 ## art:774 — REQUISITOS DE LA FACTURA
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La factura deberá reunir, además de los requisitos señalados en los artículos 621 del presente Código, y 617 del Estatuto Tributario Nacional o las normas que los modifiquen, adicionen o sustituyan, los siguientes:
 
@@ -5751,12 +5463,12 @@ En todo caso, todo comprador o beneficiario del servicio tiene derecho a exigir 
 La omisión de requisitos adicionales que establezcan normas distintas a las señaladas en el presente artículo, no afectará la calidad de título valor de las facturas.
 
 ## art:775 — <FACTURA CAMBIARIA DE TRANSPORTE - DEFINICIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Factura cambiaria de transporte es un título-valor que el transportador podrá librar y entregar o enviar al remitente o cargador. No podrá librarse esta factura si no corresponde a un contrato de transporte efectivamente ejecutado.
 
 ## art:776 — <CONTENIDO DE LA FACTURA CAMBIARIA DE TRANSPORTE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 La factura cambiaria de transporte deberá contener, además de los requisitos que establece el artículo 621, los siguientes: 
 
@@ -5777,7 +5489,7 @@ La factura cambiaria de transporte deberá contener, además de los requisitos q
 PARÁGRAFO. A esta factura se aplicará lo dispuesto en el artículo 773 y en el inciso final del artículo 774.
 
 ## art:777 — PAGO POR CUOTAS DE LA FACTURA. CONTENIDO ADICIONAL
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Cuando el pago haya de hacerse por cuotas, las facturas contendrán además:
 
@@ -5792,7 +5504,7 @@ PARÁGRAFO. Los pagos parciales se harán constar en la factura original y en la
 En caso de haberse transferido la factura previamente a los pagos parciales, el emisor, vendedor, prestador del servicio o el tenedor legítimo de la factura, deberán informarle de ellos al comprador o beneficiario del servicio, y al tercero al que le haya transferido la factura, según el caso, indicándole el monto recibido y la fecha de los pagos.
 
 ## art:778 — OBLIGATORIEDAD DE ACEPTACIÓN DEL ENDOSO
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Con el solo hecho de que la factura contenga el endoso, el obligado deberá efectuar el pago al tenedor legítimo a su presentación.
 
@@ -5807,12 +5519,12 @@ PARÁGRAFO 1. <Parágrafo adicionado por el artículo 87 de la Ley 1676 de 2013.
 PARÁGRAFO 2. <Parágrafo adicionado por el artículo 87 de la Ley 1676 de 2013. Rige a partir del 20 de febrero de 2014. El nuevo texto es el siguiente:> Los administradores de las sociedades comerciales están obligados en la memoria de gestión anual, a dejar constancia de que no entorpecieron la libre circulación de las facturas emitidas por los vendedores o proveedores. El Revisor Fiscal en su dictamen anual deberá pronunciarse sobre el cumplimiento de lo anterior, por parte de la administración.
 
 ## art:779 — APLICACIÓN DE NORMAS RELATIVAS A LA LETRA DE CAMBIO
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
 Se aplicarán a las facturas de que trata la presente ley, en lo pertinente, las normas relativas a la letra de cambio.
 
 ## art:780 — <CASOS EN QUE PROCEDE LA ACCIÓN CAMBIARIA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción cambiaria se ejercitará: 
 
@@ -5823,12 +5535,12 @@ La acción cambiaria se ejercitará:
 3) Cuando el girador o el aceptante sean declarados en quiebra, o en estado de liquidación, o se les abra concurso de acreedores, o se hallen en cualquier otra situación semejante.
 
 ## art:781 — <ACCIÓN CAMBIARIA DIRECTA Y DE REGRESO >
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción cambiaria es directa cuando se ejercita contra el aceptante de una orden o el otorgante de una promesa cambiaria o sus avalistas, y de regreso cuando se ejercita contra cualquier otro obligado.
 
 ## art:782 — <ÚLTIMO TENEDOR DEL TÍTULO - CASOS DE RECLAMACIÓN PARA EL PAGO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Mediante la acción cambiaria el último tenedor del título puede reclamar el pago: 
 
@@ -5841,7 +5553,7 @@ Mediante la acción cambiaria el último tenedor del título puede reclamar el p
 4) De la prima y gastos de transferencia de una plaza a otra.
 
 ## art:783 — <OBLIGADO EN VÍA DE REGRESO - EJERCICIO DE LA ACCIÓN CAMBIARIA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El obligado en vía de regreso que pague el título, podrá exigir por medio de la acción cambiaria: 
 
@@ -5854,7 +5566,7 @@ El obligado en vía de regreso que pague el título, podrá exigir por medio de 
 4) La prima y gastos de transferencia de una plaza a otra.
 
 ## art:784 — <EXCEPCIONES DE LA ACCIÓN CAMBIARIA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Contra la acción cambiaria sólo podrán oponerse las siguientes excepciones: 
 
@@ -5885,12 +5597,12 @@ Contra la acción cambiaria sólo podrán oponerse las siguientes excepciones:
 13) Las demás personales que pudiere oponer el demandado contra el actor.
 
 ## art:785 — <TENEDOR DEL TÍTULO - EJERCICIO DE LA ACCIÓN CAMBIARIA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El tenedor del título puede ejercitar la acción cambiaria contra todos los obligados a la vez o contra alguno o algunos de ellos, sin perder en este caso la acción contra los otros y sin obligación de seguir el orden de las firmas en el título. El mismo derecho tendrá todo obligado que haya pagado el título, en contra de los signatarios anteriores.
 
 ## art:786 — <MEDIOS PARA COBRAR LO QUE EN VIRTUD DEL TÍTULO DEBAN LOS DEMÁS SIGNATARIOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El último tenedor del título así como el obligado en vía de regreso que lo haya pagado, pueden cobrar lo que en virtud del mismo deban los demás signatarios por cualquiera de estos medios: 
 
@@ -5901,7 +5613,7 @@ El último tenedor del título así como el obligado en vía de regreso que lo h
 En ambos casos el aviso o letra de cambio correspondiente deberán ir acompañados del título original, de la respectiva anotación de recibo, del testimonio o Copia autorizada del acto de protesto, en su caso y de la cuenta de los accesorios legales.
 
 ## art:787 — <CADUCIDAD DE LA ACCIÓN CAMBIARIA DE REGRESO DEL ÚLTIMO TENEDOR>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción cambiaria de regreso del último tenedor del título caducará: 
 
@@ -5910,32 +5622,32 @@ La acción cambiaria de regreso del último tenedor del título caducará:
 2) Por no haber levantado el protesto conforme a la ley.
 
 ## art:788 — <SUSPENSIÓN DE LA CADUCIDAD Y NO INTERRUPCIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Los términos de que depende la caducidad de la acción cambiaria no se suspenden sino en los casos de fuerza mayor y nunca se interrumpen.
 
 ## art:789 — <PRESCRIPCIÓN DE LA ACCIÓN CAMBIARIA DIRECTA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción cambiaria directa prescribe en tres años a partir del día del vencimiento.
 
 ## art:790 — <PRESCRIPCIÓN DE LA ACCIÓN CAMBIARIA DE REGRESO DEL ÚLTIMO TENEDOR>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción cambiaria de regreso del último tenedor prescribirá en un año contado desde la fecha del protesto o, si el título fuere sin protesto, desde la fecha del vencimiento; y, en su caso, desde que concluyan los plazos de presentación.
 
 ## art:791 — <ACCIÓN DEL OBLIGADO DE REGRESO CONTRA OBLIGADOS ANTERIORES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción del obligado del regreso contra los demás obligados anteriores prescribe en seis meses, contados a partir de la fecha del pago voluntario o de la fecha en que se le notifique la demanda.
 
 ## art:792 — <CAUSALES DE INTERRUPCIÓN DE LA PRESCRIPCIÓN - AFECTACIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Las causas que interrumpen la prescripción respecto de uno de los deudores cambiarios no la interrumpe respecto de los otros, salvo el caso de los signatarios en un mismo grado.
 
 ## art:793 — <COBRO DE TÍTULO VALOR DA LUGAR A PROCEDIMIENTO EJECUTIVO - NO RECONOCIMIENTO DE FIRMAS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El cobro de un título-valor dará lugar al procedimiento ejecutivo, sin necesidad de reconocimiento de firmas. 
 
@@ -5944,27 +5656,27 @@ SECCIÓN II.
 COBRO DEL BONO DE PRENDA
 
 ## art:794 — <COBRO DE BONO DE PRENDA ANTE EL ALMACÉN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El bono de prenda deberá presentarse para su cobro ante el almacén correspondiente.
 
 ## art:795 — <NO PROVISIÓN OPORTUNA DEL BONO AL ALMACÉN - ANOTACIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Si no se hubiere hecho provisión oportuna al almacén, éste deberá poner en el bono la anotación de falta de pago. Tal anotación surtirá efectos de protesto.
 
 ## art:796 — <ALMACÉN QUE NIEGA PONER ANOTACIÓN AL BONO-PROTESTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Si el almacén se niega a poner la anotación, deberá hacerse el protesto, en la forma prevista para las letras de cambio.
 
 ## art:797 — <EXIGENCIA AL ALMACÉN PARA SUBASTA DE BIENES DEPOSITADOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El tenedor del bono debidamente anotado o protestado podrá, dentro de los ocho días que sigan a la anotación o al protesto, exigir del almacén que proceda a la subasta de los bienes depositados.
 
 ## art:798 — <SUBASTA DE BIENES Y APLICACIÓN DE PRODUCTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El almacén subastará los bienes y su producto lo aplicará al pago de: 
 
@@ -5979,17 +5691,17 @@ El almacén subastará los bienes y su producto lo aplicará al pago de:
 El remanente conservará por el almacén a disposición del tenedor del certificado de depósito.
 
 ## art:799 — <COBRO DEL IMPORTE Y APLICACIÓN DE SEGURO EN CASO DE SINIESTRO DEL ALMACÉN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 En caso siniestro el almacén cobrará el importe del seguro y lo aplicará en los términos del artículo anterior o del inciso tercero del Artículo 1189, en su caso.
 
 ## art:800 — <ACCIÓN CAMBIARIA DEL TENEDOR POR SALDO INSOLUTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 El almacén anotará en el bono las cantidades pagadas y, por el saldo insoluto, el tenedor tendrá acción cambiaria contra el tenedor del certificado que haya constituido el crédito prendario y contra los endosantes avalistas del bono de prenda.
 
 ## art:801 — <ACCIÓN DE REGRESO DEL TENEDOR DE BONO DE PRENDA - CADUCIDAD>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Las acciones de regreso del tenedor del bono de prenda caducarán: 
 
@@ -6002,116 +5714,104 @@ SECCIÓN III.
 REPOSICION, CANCELACIÓN Y REIVINDICACIÓN DE LOS TÍTULOS-VALORES
 
 ## art:802 — <DETERIORO O DESTRUCCIÓN PARCIAL DE TÍTULOS - REPOSICION, CANCELACIÓN Y REIVINDICACIÓN >
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Si un título-valor se deteriorare de tal manera que no pueda seguir circulando, o se destruyere en parte, pero de modo que subsistan los datos necesarios para su identificación, el tenedor podrá exigir judicialmente que el título sea repuesto a su costa, si lo devuelve al principal obligado. Igualmente, tendrá derecho a que le firmen el nuevo título los suscriptores del título primitivo a quienes se pruebe que su firma inicial ha sido destruida o tachada.
 
 ## art:803 — <CANCELACIÓN Y REPOSICIÓN DE TÍTULOS-VALORES POR PÉRDIDA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Quien haya sufrido el extravío, hurto, robo, destrucción total de un título-valor nominativo o a la orden, podrá solicitar la cancelación de éste y, en su caso, la reposición.
 
 ## art:804 — <JUEZ COMPETENTE PARA CANCELACIÓN Y REPOSICIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Inciso 1o. derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha> 
 
 No obstante, en caso de pérdida del certificado de depósito o del bono de prenda, la Superintendencia Bancaria, previa comprobación del hecho, ordenará al almacén general la expedición de un duplicado en el cual aparezca visible esta circunstancia. El interesado prestará caución a satisfacción del mismo almacén, para responder de los perjuicios que puedan derivarse de la expedición del duplicado y que devolverá el título primitivo al almacén, en caso de que se recupere.
 
 ## art:805 — <DEMANDA Y PUBLICACIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:806 — <OTORGAMIENTO DE GARANTÍA SUFICIENTE POR EL ACTOR - MEDIDAS TOMADAS POR EL JUEZ>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:807 — <SUSPENSIÓN E INTERRRUPCIÓN DE LA CADUCIDAD POR LA CANCELACIÓN O REPOSICIÓN DE TÍTULOS-VALORES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:808 — <TRÁMITE>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:809 — <MEDIDAS CUANDO SE PRESENTA OPOSICIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:810 — <OPOSICIÓN DE TERCERO A LA CANCELACIÓN - EXHIBICIÓN DE TÍTULOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:811 — <EJECUCIÓN DE LA SENTENCIA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:812 — <PAGO DE TÍTULOS VENCIDOS>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:813 — <DEPÓSITO DEL IMPORTE DEL TÍTULO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:814 — <DEPÓSITO PARCIAL DEL IMPORTE DEL TÍTULO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
-<Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha> 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:815 — <DECRETO DE CANCELACIÓN DE TÍTULO NO VENCIDO - TÍTULO SUSTITUTO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:816 — <VENCIMIENTO DEL NUEVO TÍTULO>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 <Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:817 — <DERECHOS DEL TENEDOR DEL TÍTULO CANCELADO QUE NO PRESENTA OPOSICIÓN>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Aún en el caso de no haber presentado oposición, el tenedor del título cancelado conservará sus derechos contra quien obtuvo la cancelación y el cobro del título.
 
 ## art:818 — <TÍTULOS AL PORTADOR NO CANCELABLES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Los títulos al portador no serán cancelables.
 
 ## art:819 — <REIVINDICACIÓN DE TÍTULOS-VALORES EN CASO DE PÉRDIDA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Los títulos-valores podrán ser reivindicados en los casos de extravío, robo o algún otro medio de apropiación ilícita.
 
 ## art:820 — <PROCEDENCIA DE LA ACCIÓN REIVINDICATORIA>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 La acción reivindicatoria procederá contra el primer adquirente y contra cualquier tenedor ulterior que no sea de buena fe exenta de culpa.
 
 ## art:821 — <INSTRUMENTOS NEGOCIABLES>
-ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Edit
+ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
 
 Cuando en la ley o en los contratos se emplea la expresión "instrumentos negociables" se entenderá por tal los títulos-valores de contenido crediticio que tengan por objeto el pago de moneda. La protección penal de estos títulos seguirá rigiéndose por las normas respectivas del Código Penal y disposiciones complementarias. 
 
@@ -6267,19 +5967,7 @@ La ratificación del interesado, si se hace con las mismas formalidades que la l
 ## art:845 — <OFERTA ELEMENTOS ESENCIALES>
 ubicacion: TÍTULO I. DE LAS OBLIGACIONES EN GENERAL > CAPÍTULO III. OFERTA O PROPUESTA
 
-La oferta o propuesta, esto es, el proyecto de negocio jurídico que una persona formule a otra, deberá contener los elementos esenciales del negocio y ser comunicada al destinatario. Se entenderá que la propuesta ha sido comunicada cuando se utilice cualquier medio adecuado para hacerla conocer del destinatario. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La oferta o propuesta, esto es, el proyecto de negocio jurídico que una persona formule a otra, deberá contener los elementos esenciales del negocio y ser comunicada al destinatario. Se entenderá que la propuesta ha sido comunicada cuando se utilice cualquier medio adecuado para hacerla conocer del destinatario.
 
 ## art:846 — <IRREVOCABILIDAD DE LA PROPUESTA>
 ubicacion: TÍTULO I. DE LAS OBLIGACIONES EN GENERAL > CAPÍTULO III. OFERTA O PROPUESTA
@@ -6478,19 +6166,7 @@ El deudor que pague tendrá derecho a exigir un recibo y no estará obligado a c
 ## art:878 — <IMPUGNACIÓN DEL PAGO>
 ubicacion: TÍTULO I. DE LAS OBLIGACIONES EN GENERAL > CAPÍTULO V. EL PAGO
 
-Cuando el pago constituya un negocio jurídico, será susceptible de impugnación por las mismas causas que los demás negocios jurídicos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Cuando el pago constituya un negocio jurídico, será susceptible de impugnación por las mismas causas que los demás negocios jurídicos.
 
 ## art:879 — <FINIQUITO DE CUENTA PRESUNCIÓN DE PAGO>
 ubicacion: TÍTULO I. DE LAS OBLIGACIONES EN GENERAL > CAPÍTULO V. EL PAGO
@@ -6666,7 +6342,7 @@ ubicacion: TÍTULO II. DE LA COMPRAVENTA Y DE LA PERMUTA > CAPÍTULO I. GENERALI
 
 No podrán comprar directamente, ni por interpuesta persona, ni aún en pública subasta, las siguientes personas: 
 
-1) Los cónyuges no divorciados, ni el padre y el hijo de familia, entre sí; 
+1) [TACHADO: Los cónyuges no divorciados, ni] el padre y el hijo de familia, entre sí; 
 
 2) Aquellos que por la ley o por acto de autoridad pública administran bienes ajenos, como los guardadores, síndicos, secuestres, etc., respecto de los bienes que administran; 
 
@@ -6701,19 +6377,7 @@ ubicacion: TÍTULO II. DE LA COMPRAVENTA Y DE LA PERMUTA > CAPÍTULO I. GENERALI
 
 Los gastos que ocasione la celebración del contrato se dividirán por partes iguales entre los contratantes, si éstos no acuerdan otra cosa. 
 
-Salvo costumbre comercial o pacto en contrario, los gastos de entrega de la cosa vendida corresponderán al vendedor y los de recibo de la misma, al comprador. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Salvo costumbre comercial o pacto en contrario, los gastos de entrega de la cosa vendida corresponderán al vendedor y los de recibo de la misma, al comprador.
 
 ## art:910 — <DISPOSICIONES APLICABLES A LA PERMUTA>
 ubicacion: TÍTULO II. DE LA COMPRAVENTA Y DE LA PERMUTA > CAPÍTULO I. GENERALIDADES
@@ -6915,19 +6579,7 @@ Si la evicción fuere parcial y de tanta importancia que pueda deducirse que en 
 ## art:941 — <EVICCIÓN DEL COMPRADOR FRENTE A TERCEROS PRESCRIPCIÓN DE LAS ACCIONES>
 ubicacion: TÍTULO II. DE LA COMPRAVENTA Y DE LA PERMUTA > CAPÍTULO IV. OBLIGACIONES DEL VENDEDOR
 
-Las acciones concedidas por el artículo anterior son extensivas al comprador que deba pagar a terceros con legítimo derecho el precio de la cosa, en todo o en parte, o purgarla en igual forma de gravámenes desmembraciones o limitaciones del dominio. Tales acciones prescribirán en dos años contados a partir del momento en que el comprador restituye la cosa, pague el precio o purgue el gravamen, desmembraciones o limitación del dominio, y se tramitarán como incidente o por el juicio abreviado a elección del demandante. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las acciones concedidas por el artículo anterior son extensivas al comprador que deba pagar a terceros con legítimo derecho el precio de la cosa, en todo o en parte, o purgarla en igual forma de gravámenes desmembraciones o limitaciones del dominio. Tales acciones prescribirán en dos años contados a partir del momento en que el comprador restituye la cosa, pague el precio o purgue el gravamen, desmembraciones o limitación del dominio, y se tramitarán como incidente o por el juicio abreviado a elección del demandante.
 
 ## art:942 — <RESOLUCIÓN DE CONTRATO POR INCUMPLIMIENTO DEL VENDEDOR - DERECHOS DEL COMPRADOR>
 ubicacion: TÍTULO II. DE LA COMPRAVENTA Y DE LA PERMUTA > CAPÍTULO IV. OBLIGACIONES DEL VENDEDOR
@@ -7125,19 +6777,7 @@ El incumplimiento de una de las partes relativo a alguna de las prestaciones, co
 
 En ningún caso el que efectúa el suministro podrá poner fin al mismo, sin dar aviso al consumidor como se prevé en el artículo precedente. 
 
-Lo dispuesto en este artículo no priva al contratante perjudicado por incumplimiento del otro de su derecho a pedir la indemnización de perjuicios a justa tasación. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Lo dispuesto en este artículo no priva al contratante perjudicado por incumplimiento del otro de su derecho a pedir la indemnización de perjuicios a justa tasación.
 
 ## art:974 — <PACTO DE PREFERENCIA>
 ubicacion: TÍTULO III. DEL CONTRATO DE SUMINISTRO
@@ -7369,19 +7009,7 @@ El transportador que, a sabiendas, se obligue a conducir enfermos, dementes, men
 
 La responsabilidad y demás obligaciones inherentes al contrato, respecto de los enfermos, menores o dementes, sólo cesarán cuando sean confiados a quienes hayan de hacerse cargo de ellos, según las instrucciones dadas al transportador.
 
-Las cláusulas de exoneración de responsabilidad en relación con los hechos de que trata este artículo no producirán efectos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las cláusulas de exoneración de responsabilidad en relación con los hechos de que trata este artículo no producirán efectos.
 
 ## art:1006 — <ACCIONES DE LOS HEREDEROS>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO II. TRANSPORTE DE PERSONAS
@@ -7635,19 +7263,7 @@ Son partes del contrato de seguro:
 
 1) El asegurador, o sea la persona jurídica que asume los riesgos, debidamente autorizada para ello con arreglo a las leyes y reglamentos, y 
 
-2) El tomador, o sea la persona que, obrando por cuenta propia o ajena, traslada los riesgos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+2) El tomador, o sea la persona que, obrando por cuenta propia o ajena, traslada los riesgos.
 
 ## art:1038 — <SEGURO POR CUENTA DE UN TERCERO Y RATIFICACIÓN>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
@@ -7783,7 +7399,7 @@ ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A
 
 2) En los seguros de vida, en general, respecto de los valores de cesión o rescate, y 
 
-3) Transcurrido un mes contado a partir del día en el cual el asegurado o el beneficiario o quien los represente, entregue al asegurador la reclamación aparejada de los comprobantes que, según las condiciones de la correspondiente póliza, sean indispensables para acreditar los requisitos del artículo 1077, sin que dicha reclamación sea objetada de manera seria y fundada. Si la reclamación no hubiere sido objetada, el demandante deberá manifestar tal circunstancia en la demanda.
+3) Transcurrido un mes contado a partir del día en el cual el asegurado o el beneficiario o quien los represente, entregue al asegurador la reclamación aparejada de los comprobantes que, [TACHADO: según las condiciones de la correspondiente póliza], sean indispensables para acreditar los requisitos del artículo 1077, sin que dicha reclamación sea objetada [TACHADO: de manera seria y fundada]. Si la reclamación no hubiere sido objetada, el demandante deberá manifestar tal circunstancia en la demanda.
 
 ## art:1054 — <DEFINICIÓN DE RIESGO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
@@ -7872,7 +7488,7 @@ En caso de disminución del riesgo, el asegurador deberá reducir la prima estip
 ## art:1066 — <PAGO DE LA PRIMA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-<Artículo subrogado por el artículo 81 de la Ley 45 de 1990. El nuevo texto es el siguiente:> El tomador del seguro está obligado al pago de la prima. Salvo disposición legal o contractual en contrario, deberá hacerlo a más tardar dentro del mes siguiente contado a partir de la fecha de la entrega de la póliza o, si fuere el caso, de los certificados o anexos que se expidan con fundamento en ella.
+El tomador del seguro está obligado al pago de la prima. Salvo disposición legal o contractual en contrario, deberá hacerlo a más tardar dentro del mes siguiente contado a partir de la fecha de la entrega de la póliza o, si fuere el caso, de los certificados o anexos que se expidan con fundamento en ella.
 
 ## art:1067 — <LUGAR DEL PAGO DE LA PRIMA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
@@ -7920,19 +7536,7 @@ Serán también revocables la póliza flotante y la automática a que se refiere
 ## art:1072 — <DEFINICIÓN DE SINIESTRO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-Se denomina siniestro la realización del riesgo asegurado. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Se denomina siniestro la realización del riesgo asegurado.
 
 ## art:1073 — <RESPONSABILIDAD DEL ASEGURADOR SEGÚN EL INICIO DEL SINIESTRO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
@@ -8166,19 +7770,7 @@ ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS S
 
 La transmisión por causa de muerte del interés asegurado, o de la cosa a que esté vinculado el seguro, dejará subsistente el contrato a nombre del adquirente, a cuyo cargo quedará el cumplimiento de las obligaciones pendientes en el momento de la muerte del asegurado. 
 
-Pero el adjudicatario tendrá un plazo de quince días contados a partir de la fecha de la sentencia aprobatoria de la partición para comunicar al asegurador la adquisición respectiva. A falta de esta comunicación se produce la extinción del contrato. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Pero el adjudicatario tendrá un plazo de quince días contados a partir de la fecha de la sentencia aprobatoria de la partición para comunicar al asegurador la adquisición respectiva. A falta de esta comunicación se produce la extinción del contrato.
 
 ## art:1107 — <TRANSFERENCIA POR ACTO ENTRE VIVOS DEL INTERÉS ASEGURABLE>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
@@ -8406,19 +7998,7 @@ La subrogación a que se refiere el artículo 1096 no tendrá cabida en esta cla
 ## art:1140 — <CARÁCTER INDEMNIZATORIO DE LOS AMPAROS>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO III. SEGUROS DE PERSONAS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE PERSONAS
 
-Los amparos de gastos que tengan un carácter de daño patrimonial, como gastos médicos, clínicos, quirúrgicos o farmacéuticos tendrán carácter indemnizatorio y se regularán por las normas del Capítulo II cuando éstas no contraríen su naturaleza. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Los amparos de gastos que tengan un carácter de daño patrimonial, como gastos médicos, clínicos, quirúrgicos o farmacéuticos tendrán carácter indemnizatorio y se regularán por las normas del Capítulo II cuando éstas no contraríen su naturaleza.
 
 ## art:1141 — <BENEFICIARIOS A TÍTULO ONEROSO O GRATUITO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO III. SEGUROS DE PERSONAS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE PERSONAS
@@ -8608,19 +8188,7 @@ ubicacion: TÍTULO VII. DEL DEPÓSITO > CAPÍTULO I. GENERALIDADES
 
 El depositario no podrá servirse de la cosa depositada ni darla a otro en depósito sin el consentimiento del depositante, excepto cuando la costumbre lo autorice o sea necesario para la conservación de la cosa. 
 
-Si circunstancias urgentes le obligaren a custodiar la cosa en forma distinta de la pactada, deberá avisarlo inmediatamente al depositante. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Si circunstancias urgentes le obligaren a custodiar la cosa en forma distinta de la pactada, deberá avisarlo inmediatamente al depositante.
 
 ## art:1173 — <DEPÓSITO EN GARANTÍA>
 ubicacion: TÍTULO VII. DEL DEPÓSITO > CAPÍTULO I. GENERALIDADES
@@ -8816,7 +8384,7 @@ ubicacion: TÍTULO IX. DE LA PRENDA
 <Artículo derogado por el artículo 91 de la Ley 1676 de 2013. Rige a partir del 20 de febrero de 2014. Ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:1204 — <PRENDA CON TENENCIA>
-ubicacion: TÍTULO IX. DE LA PRENDA > CAPÍTULO I. PRENDA CON TENENCIA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Ley
+ubicacion: TÍTULO IX. DE LA PRENDA > CAPÍTULO I. PRENDA CON TENENCIA
 
 El contrato de prenda con tenencia se perfeccionará por el acuerdo de las partes; pero el acreedor no tendrá el privilegio que nace del gravamen, sino a partir de la entrega que de la cosa dada en prenda se haga a él o a un tercero designado por las partes. 
 
@@ -8825,14 +8393,14 @@ Si al acreedor no se le entregare la cosa, podrá solicitarla judicialmente.
 Gravada una cosa con prenda no podrá pignorarse nuevamente, mientras subsista el primer gravamen. Pero podrá hacerse extensiva la prenda a otras obligaciones entre las mismas partes.
 
 ## art:1205 — <OBLIGACIÓN DE PAGAR LOS GASTOS DE CONSERVACIÓN DE LA COSA Y DERECHO DE RETENCIÓN>
-ubicacion: TÍTULO IX. DE LA PRENDA > CAPÍTULO I. PRENDA CON TENENCIA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Ley
+ubicacion: TÍTULO IX. DE LA PRENDA > CAPÍTULO I. PRENDA CON TENENCIA
 
 El deudor estará en la obligación de pagar los gastos necesarios que el acreedor o el tercero tenedor hayan hecho en la conservación de la cosa pignorada y los perjuicios que les hubiese ocasionado su tenencia, imputables a culpa del deudor. 
 
 El acreedor tendrá derecho de retener la cosa dada en prenda en garantía del cumplimiento de esta obligación.
 
 ## art:1206 — <PRESCRIPCIÓN>
-ubicacion: TÍTULO IX. DE LA PRENDA > CAPÍTULO I. PRENDA CON TENENCIA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Ley
+ubicacion: TÍTULO IX. DE LA PRENDA > CAPÍTULO I. PRENDA CON TENENCIA
 
 La acción real del acreedor derivada de la prenda de que trata este Capítulo, prescribirá a los cuatro años de ser exigible la obligación.
 
@@ -9035,19 +8603,7 @@ El beneficiario tendrá, además de los derechos que le conceden el acto constit
 
 3) oponerse a toda medida preventiva o de ejecución tomada contra los bienes dados en fiducia o por obligaciones que no los afectan, en caso de que el fiduciario no lo hiciere, y 
 
-4) Pedir al Superintendente Bancario por causa justificada, la remoción del fiduciario y, como medida preventiva, el nombramiento de un administrador interino. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+4) Pedir al Superintendente Bancario por causa justificada, la remoción del fiduciario y, como medida preventiva, el nombramiento de un administrador interino.
 
 ## art:1236 — <DERECHOS DEL FIDUCIANTE>
 ubicacion: TÍTULO XI. DE LA FIDUCIA
@@ -9286,19 +8842,7 @@ El mandatario no podrá exceder los límites de su encargo.
 
 Los actos cumplidos más allá de dichos límites sólo obligarán al mandatario, salvo que el mandante los ratifique. 
 
-El mandatario podrá separarse de las instrucciones, cuando circunstancias desconocidas que no puedan serle comunicadas al mandante, permitan suponer razonablemente que éste habría dado la aprobación. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El mandatario podrá separarse de las instrucciones, cuando circunstancias desconocidas que no puedan serle comunicadas al mandante, permitan suponer razonablemente que éste habría dado la aprobación.
 
 ## art:1267 — <CONSULTA OBLIGATORIA AL MANDANTE EN LOS CASOS NO PREVISTOS>
 ubicacion: TÍTULO XIII. DEL MANDATO > CAPÍTULO II. DERECHOS Y OBLIGACIONES DEL MANDATARIO Y DEL MANDANTE
@@ -9501,19 +9045,7 @@ Aun en las que haga en esta forma, deberá manifestar los nombres de los comprad
 ## art:1299 — <CORRESPONDENCIA DE LAS CUENTAS RENDIDAS Y LOS ASIENTOS DE SUS LIBROS>
 ubicacion: TÍTULO XIII. DEL MANDATO > CAPÍTULO IV. COMISIÓN SECCIÓN I. GENERALIDADES
 
-Las cuentas que rinda el comisionista, deberán concordar con los asientos de sus libros. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las cuentas que rinda el comisionista, deberán concordar con los asientos de sus libros.
 
 ## art:1300 — <COBRANZA DE CRÉDITOS Y EFECTOS POR OMISIÓN O TARDANZA>
 ubicacion: TÍTULO XIII. DEL MANDATO > CAPÍTULO IV. COMISIÓN SECCIÓN I. GENERALIDADES
@@ -9668,7 +9200,7 @@ ubicacion: TÍTULO XIII. DEL MANDATO > CAPÍTULO V. AGENCIA COMERCIAL
 
 El contrato de agencia termina por las mismas causas del mandato, y a su terminación el agente tendrá derecho a que el empresario le pague una suma equivalente a la doceava parte del promedio de la comisión, regalía o utilidad recibida en los tres últimos años, por cada uno de vigencia del contrato, o al promedio de todo lo recibido, si el tiempo del contrato fuere menor. 
 
-<Aparte tachado INEXEQUIBLE> Además de la prestación indicada en el inciso anterior, cuando el empresario revoque o dé por terminado unilateralmente el contrato, sin justa causa comprobada, deberá pagar al agente una indemnización equitativa, fijada por peritos, como retribución a sus esfuerzos para acreditar la marca, la línea de productos o los servicios objeto del contrato. La misma regla se aplicará cuando el agente termine el contrato por justa causa imputable al empresario. 
+<Aparte tachado INEXEQUIBLE> Además de la prestación indicada en el inciso anterior, cuando el empresario revoque o dé por terminado unilateralmente el contrato, sin justa causa comprobada, deberá pagar al agente una indemnización equitativa, [TACHADO: fijada por peritos], como retribución a sus esfuerzos para acreditar la marca, la línea de productos o los servicios objeto del contrato. La misma regla se aplicará cuando el agente termine el contrato por justa causa imputable al empresario. 
 
 Para la fijación del valor de la indemnización se tendrá en cuenta la extensión, importancia y volumen de los negocios que el agente adelantó en desarrollo del contrato. 
 
@@ -9734,19 +9266,7 @@ A la agencia de hecho se le aplicarán las normas del presente Capítulo.
 ## art:1332 — <PREPOSICIÓN>
 ubicacion: TÍTULO XIII. DEL MANDATO > CAPÍTULO VI. PREPOSICIÓN
 
-La preposición es una forma de mandato que tiene por objeto la administración de un establecimiento de comercio o de una parte o ramo de la actividad del mismo. En este caso, el mandatario se le llamará factor. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La preposición es una forma de mandato que tiene por objeto la administración de un establecimiento de comercio o de una parte o ramo de la actividad del mismo. En este caso, el mandatario se le llamará factor.
 
 ## art:1333 — <INSCRIPCIÓN DE LA PREPOSICIÓN EN EL REGISTRO MERCANTIL>
 ubicacion: TÍTULO XIII. DEL MANDATO > CAPÍTULO VI. PREPOSICIÓN
@@ -9959,19 +9479,7 @@ ubicacion: TÍTULO XV. EL CONTRATO DE EDICIÓN
 
 En caso de que la obra perezca total o parcialmente por fuerza mayor, después de impresa, el autor tendrá derecho a los honorarios o regalías, si éstos consisten en una suma determinada sin consideración al número de ejemplares vendidos. 
 
-Cuando los honorarios o regalías se pacten por ejemplares vendidos, el autor tendrá derecho a dichos honorarios o regalías aún por los ejemplares que se hubieren destruido o perdido. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Cuando los honorarios o regalías se pacten por ejemplares vendidos, el autor tendrá derecho a dichos honorarios o regalías aún por los ejemplares que se hubieren destruido o perdido.
 
 ## art:1366 — <PRECIO DE VENTA AL PÚBLICO>
 ubicacion: TÍTULO XV. EL CONTRATO DE EDICIÓN
@@ -10017,7 +9525,7 @@ El contrato termina si, antes de la conclusión de la obra, el autor muere, qued
 
 No obstante, el autor, sus representantes o sus herederos, podrán pedir al juez que autorice encomendar a un tercero la conclusión de la obra, si esto fuere posible o publicarla ellos mismos, teniendo en cuenta la parte realizada por el autor y explotable por el editor, caso de que éste rehusare publicarla.
 
-## art:1370 — Ver Notas del Editor
+## art:1370 — 
 ubicacion: TÍTULO XV. EL CONTRATO DE EDICIÓN
 
 La quiebra del editor terminará el contrato y el autor podrá reclamar los originales o los medios que los reemplacen, cuando la obra no se hubiere impreso. En caso de impresión total o parcial, dicho contrato subsistirá hasta concurrencia de los ejemplares impresos; pero el autor tendrá el derecho de preferencia concedido a los créditos laborales, para el pago de sus honorarios o regalías.
@@ -10178,19 +9686,19 @@ ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO II. DEPÓSITO A 
 El depósito a término es por naturaleza remunerado.
 
 ## art:1396 — <REPRESENTACIÓN EN DOCUMENTOS IDÓNEOS DEL DEPÓSITO RECIBIDO>
-ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO III. DEPÓSITO DE AHORRO Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leye
+ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO III. DEPÓSITO DE AHORRO
 
 Los depósitos recibidos en cuenta de ahorros estarán representados en un documento idóneo para reflejar fielmente el movimiento de la cuenta. 
 
 Los registros hechos en el documento por el banco, serán plena prueba de su movimiento.
 
 ## art:1397 — <DISPOSICIÓN DE DEPÓSITOS RECIBIDOS EN CUENTA COLECTIVA>
-ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO III. DEPÓSITO DE AHORRO Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leye
+ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO III. DEPÓSITO DE AHORRO
 
 De los depósitos recibidos en cuenta de ahorros, a nombre de dos o más personas, podrá disponer cualquiera de ellas, a menos que se haya pactado otra cosa con el establecimiento de crédito.
 
 ## art:1398 — <RESPONSABILIDAD DEL BANCO POR REEMBOLSO DE SUMAS MAL DEPOSITADAS>
-ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO III. DEPÓSITO DE AHORRO Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leye
+ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO III. DEPÓSITO DE AHORRO
 
 Todo banco es responsable por el reembolso de sumas depositadas que haga a persona distinta del titular de la cuenta o de su mandatario.
 
@@ -10370,17 +9878,7 @@ DISPOSICIONES COMUNES
 ## art:1426 — <PARTICIPACIÓN DE CAPITAL EXTRANJERO EN EMPRESA NACIONAL AÉREA Y MILITAR DE CARÁCTER COMERCIAL>
 ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO VII. CAJILLAS DE SEGURIDAD
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Derogado tácitamente, ver Notas del Editor>.
 
 ## art:1427 — <FORMALIDADES QUE RIGEN ACTOS O CONTRATOS DE AERONAVES>
 ubicacion: TÍTULO XVII. DE LOS CONTRATOS BANCARIOS > CAPÍTULO VII. CAJILLAS DE SEGURIDAD
@@ -10618,19 +10116,7 @@ La matrícula de una nave colombiana se cancelará:
 ## art:1458 — <PROPIETARIOS DE LA NAVE COMERCIAL MATRICULADA EN COLOMBIA>
 ubicacion: TÍTULO I. DE LAS NAVES Y SU PROPIEDAD > CAPÍTULO II. PROPIETARIOS Y COPROPIETARIOS DE LAS NAVES
 
-Solo pueden ser dueños de una nave comercial matriculada en Colombia los nacionales colombianos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Solo pueden ser dueños de una nave comercial matriculada en Colombia los nacionales colombianos.
 
 ## art:1459 — <COPROPIEDAD DE NAVES COMERCIALES>
 ubicacion: TÍTULO I. DE LAS NAVES Y SU PROPIEDAD > CAPÍTULO II. PROPIETARIOS Y COPROPIETARIOS DE LAS NAVES
@@ -10893,19 +10379,7 @@ El agente marítimo debe registrarse ante la autoridad marítima nacional. Para 
 
 7) Certificado de la capitanía de puerto en que conste que tiene locales apropiados para atender la agencia marítima. 
 
-PARÁGRAFO. Deberá, además, cumplir los requisitos que fije el reglamento. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARÁGRAFO. Deberá, además, cumplir los requisitos que fije el reglamento.
 
 ## art:1492 — <OBLIGACIONES DEL AGENTE>
 ubicacion: TÍTULO III. DEL AGENTE MARÍTIMO
@@ -11266,19 +10740,7 @@ La prueba de que una pérdida o gasto debe ser admitido en avería común será 
 ## art:1522 — <GASTOS SUPLEMENTARIOS CONSIDERADOS AVERÍA>
 ubicacion: TÍTULO VI. DE LOS RIESGOS Y DAÑOS EN LA NAVEGACIÓN MARÍTIMA > CAPÍTULO I. AVERÍAS
 
-Todo gasto suplementario realizado en sustitución de otro gasto que se habría considerado avería gruesa, será reputado y admitido con este carácter sin tener en cuenta la economía eventual obtenida por los otros intereses, pero solamente hasta la concurrencia del monto del gasto de la avería gruesa que se evitó. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Todo gasto suplementario realizado en sustitución de otro gasto que se habría considerado avería gruesa, será reputado y admitido con este carácter sin tener en cuenta la economía eventual obtenida por los otros intereses, pero solamente hasta la concurrencia del monto del gasto de la avería gruesa que se evitó.
 
 ## art:1523 — <LIQUIDACIÓN DE AVERÍA - EXCEPCIONES>
 ubicacion: TÍTULO VI. DE LOS RIESGOS Y DAÑOS EN LA NAVEGACIÓN MARÍTIMA > CAPÍTULO I. AVERÍAS
@@ -11512,19 +10974,7 @@ Los daños que ocasione en este caso la conducta del capitán serán exclusivame
 ## art:1554 — <PRESCRIPCIÓN DE ACCIONES PARA EJERCITAR DERECHOS>
 ubicacion: TÍTULO VII. DE LA ASISTENCIA Y SALVAMENTO
 
-Las acciones para ejercitar los derechos consagrados en este Título prescribirán en dos años, contados desde la terminación de las labores de asistencia o salvamento. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las acciones para ejercitar los derechos consagrados en este Título prescribirán en dos años, contados desde la terminación de las labores de asistencia o salvamento.
 
 ## art:1555 — <DERECHOS QUE CONFIEREN LOS PRIVILEGIOS NAVALES>
 ubicacion: TÍTULO VIII. DEL CRÉDITO NAVAL > CAPÍTULO I. PRIVILEGIOS EN GENERAL
@@ -11785,19 +11235,7 @@ El transportador responderá de las pérdidas o daños provenientes de la falta 
 ## art:1583 — <CARÁCTER DE REPRESENTANTE MARÍTIMO DEL CAPITÁN>
 ubicacion: TÍTULO IX. DEL TRANSPORTE MARÍTIMO > CAPÍTULO I. DISPOSICIONES GENERALES
 
-El capitán de la nave en que se ejecute el contrato de transporte, tendrá el carácter de representante marítimo del transportador, en lo relativo a la ejecución del contrato. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El capitán de la nave en que se ejecute el contrato de transporte, tendrá el carácter de representante marítimo del transportador, en lo relativo a la ejecución del contrato.
 
 ## art:1584 — <IMPOSIBILIDAD DE ANCLAJE O ATRAQUE - FONDEO O REGRESO FORZOSO>
 ubicacion: TÍTULO IX. DEL TRANSPORTE MARÍTIMO > CAPÍTULO I. DISPOSICIONES GENERALES
@@ -12030,19 +11468,7 @@ ubicacion: TÍTULO IX. DEL TRANSPORTE MARÍTIMO > CAPÍTULO III. TRANSPORTE DE C
 
 En el acto del embarque de las cosas y, en todo caso, antes de la partida de la nave, el cargador deberá entregar al transportador los documentos y darle los informes a que se refiere el artículo 1011. 
 
-La omisión hará responsable al remitente por los perjuicios que de ella se deriven para el transportador, quien no estará obligado a verificar la suficiencia de los documentos ni la exactitud de las indicaciones en ellos consignadas. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La omisión hará responsable al remitente por los perjuicios que de ella se deriven para el transportador, quien no estará obligado a verificar la suficiencia de los documentos ni la exactitud de las indicaciones en ellos consignadas.
 
 ## art:1617 — <DUDA DE LA EXACTITUD SOBRE DECLARACIÓN DEL REMITENTE>
 ubicacion: TÍTULO IX. DEL TRANSPORTE MARÍTIMO > CAPÍTULO III. TRANSPORTE DE COSAS POR MAR SECCIÓN I. TRANSPORTE DE COSAS EN GENERAL
@@ -12295,19 +11721,7 @@ Las normas de esta Sección se aplicarán a la póliza de fletamento. No obstant
 
 SECCIÓN III. 
 
-TRANSPORTE A CARGA TOTAL O PARCIAL 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+TRANSPORTE A CARGA TOTAL O PARCIAL
 
 ## art:1652 — <REGLAS GENERALES SOBRE EL TRANSPORTE DE COSAS>
 ubicacion: TÍTULO IX. DEL TRANSPORTE MARÍTIMO > CAPÍTULO III. TRANSPORTE DE COSAS POR MAR SECCIÓN I. TRANSPORTE DE COSAS EN GENERAL
@@ -12520,19 +11934,7 @@ ubicacion: TÍTULO XI. DEL ARRENDAMIENTO DE LAS NAVES
 
 Serán de cargo del arrendatario el aprovisionamiento de la nave y los gastos y reparaciones, distintos de los mencionados en el artículo 1680, que ocasione el empleo de la misma en el uso previsto en el contrato. 
 
-Estará obligado, además, a reparar los deterioros y daños causados por el uso anormal o indebido de la nave. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Estará obligado, además, a reparar los deterioros y daños causados por el uso anormal o indebido de la nave.
 
 ## art:1685 — <PRÓRROGA DEL CONTRATO SI EL ARRENDATARIO CONTINUA CON LA NAVE EN SU PODER>
 ubicacion: TÍTULO XI. DEL ARRENDAMIENTO DE LAS NAVES
@@ -12740,19 +12142,7 @@ Excepto el caso de dolo, o para el efecto de determinar si se está en presencia
 ## art:1714 — <DEFINICIÓN DE PÓLIZA DE VALOR NO ESTIMADO>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO III. PÓLIZA
 
-Será póliza de valor no estimado la que no obstante indicar el valor del objeto asegurado, no se ajuste a lo previsto en el inciso primero del artículo anterior. Esta póliza admite la determinación del valor asegurable, hasta concurrencia de la suma asegurada, con arreglo a las bases estatuidas en este Título. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Será póliza de valor no estimado la que no obstante indicar el valor del objeto asegurado, no se ajuste a lo previsto en el inciso primero del artículo anterior. Esta póliza admite la determinación del valor asegurable, hasta concurrencia de la suma asegurada, con arreglo a las bases estatuidas en este Título.
 
 ## art:1715 — <GARANTÍA EN EL SEGURO MARÍTIMO-CLASES>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO IV. GARANTÍAS
@@ -12939,19 +12329,7 @@ El aviso de abandono podrá ser renunciado por el asegurador, quien no estará o
 ## art:1745 — <SUBROGACIÓN DE DERECHOS Y OBLIGACIONES DEL ASEGURADO>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABANDONO
 
-En caso de abandono válido, el asegurador se subrogará en los derechos y obligaciones del asegurado sobre los restos y remanentes del objeto asegurado y de sus accesorios, y podrá tomar posesión de los mismos. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+En caso de abandono válido, el asegurador se subrogará en los derechos y obligaciones del asegurado sobre los restos y remanentes del objeto asegurado y de sus accesorios, y podrá tomar posesión de los mismos.
 
 ## art:1746 — <EFECTOS RETROACTIVOS DEL ABANDONO>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABANDONO
@@ -13148,19 +12526,7 @@ Son aeronaves de Estado las que se utilicen en servicios militares, de aduanas y
 ## art:1776 — <UTILIDAD PÚBLICA DE LA AERONÁUTICA CIVIL>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO I. DISPOSICIONES GENERALES
 
-La aeronáutica civil se declara de utilidad pública. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La aeronáutica civil se declara de utilidad pública.
 
 ## art:1777 — <SOBERANIA COLOMBIANA DEL ESPACIO NACIONAL>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO I. DISPOSICIONES GENERALES
@@ -13376,85 +12742,85 @@ Son atribuciones del comandante de la aeronave:
 5) Determinar, en caso de emergencia, el aeropuerto en que deba aterrizar.
 
 ## art:1808 — <DEFINICIÓN DE LA INFRAESTRUCTURA AERONÁUTICA>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 La infraestructura aeronáutica es el Conjunto de instalaciones y servicios destinados a facilitar y hacer posible la navegación aérea, tales como aeródromos, señalamientos, iluminación, ayudas a la navegación, informaciones aeronáuticas, telecomunicaciones, meteorología, aprovisionamiento y reparación de aeronaves.
 
 ## art:1809 — <DEFINICIÓN DE AERODROMO>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Aeródromo es toda superficie destinada a la llegada y salida de aeronaves, incluidos todos sus equipos e instalaciones.
 
 ## art:1810 — <AERODROMOS CIVILES Y MILITARES>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Los aeródromos se clasifican en civiles y militares. Los primeros en públicos y privados.
 
 ## art:1811 — <DEFINICIÓN DE AERODROMOS PÚBLICOS Y PRIVADOS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Son aeródromos públicos los que, aún siendo de propiedad privada, están destinados al uso público; los demás son privados. 
 
 Se presumen públicos los que sean utilizados para la operación de aeronaves destinadas a prestar servicios remunerados a personas distintas del propietario.
 
 ## art:1812 — <UTILIZACIÓN DE AERODROMOS PÚBLICOS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Salvo las limitaciones establecidas la autoridad aeronáutica, los aeródromos públicos podrán ser Utilizados por cualquier aeronave, la cual, además, tendrá derecho a los servicios que allí se presten.
 
 ## art:1813 — <PERMISO DE OPERACIÓN OTORGADO POR LA AERONÁUTICA - REQUISITOS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Sin perjuicio de lo dispuesto en el artículo siguiente, ningún aeródromo podrá ser utilizado sin el permiso de operación otorgado por la autoridad aeronáutica en el cual consten, entre otros puntos, su identificación y localización, nombre del propietario, clasificación, categoría y condiciones operacionales.
 
 ## art:1814 — <UTILIZACIÓN DE AERODROMO PRIVADO TRANSITORIAMENTE>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Los aeródromos privados podrán ser utilizados transitoriamente por aeronaves de Estado, en desempeño de funciones oficiales, y por aeronaves en peligro. En este caso el explotador del aeródromo deberá tomar las medidas necesarias para el aterrizaje y la seguridad de la aeronave, obligación que se extenderá al tiempo de permanencia de la misma en el aeródromo.
 
 ## art:1815 — <CLASIFICACIÓN Y DETERMINACIÓN DE REQUISITOS DEL AERODROMO>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 La autoridad aeronáutica clasificará los aeródromos y determinará los requisitos que deba reunir cada clase, teniendo en cuenta siempre las reglamentaciones internacionales.
 
 ## art:1816 — <CONCEPTO DE EXPLOTACIÓN DE AERODROMOS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Se presume explotador al dueño de las instalaciones, equipos y servicios que constituyen el aeródromo, a menos que haya cedido la explotación por documento inscrito en el registro aeronáutico. 
 
 En los casos en que un aeródromo sea construido u operado por acción comunal, o de otra manera semejante, a falta de explotador inscrito se tendrá por tal al municipio en cuya jurisdicción se encuentre.
 
 ## art:1817 — <RESPONSABILIDAD POR DAÑOS CAUSADOS POR OPERACIONES DE LOS AERODROMOS >
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Los explotadores de aeródromos, así como las personas o entidades que presten los servicios de infraestructura aeronáutica, son responsables de los daños que cause la operación de los aeródromos o la prestación de los servicios citados. 
 
 Esta responsabilidad se rige por lo dispuesto en los artículos 1881, 1886 y 1887.
 
 ## art:1818 — <REGISTRO QUE LLEVA LA AUTORIDAD AERONÁUTICA>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 La autoridad aeronáutica llevará un registro de aeródromos en el cual se hará constar su clase y categoría, el nombre del explotador y demás datos pertinentes. 
 
 El nombre del explotador sólo podrá cambiarse a petición suya por escrito y con aceptación del nuevo explotador, en la misma forma.
 
 ## art:1819 — <COBRO DE TASAS A USUARIOS POR EL EXPLOTADOR DE AERODROMO PÚBLICO>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 El explotador de aeródromos públicos podrá cobrar tasas a los usuarios previa reglamentación y permiso de la autoridad aeronáutica.
 
 ## art:1820 — <PERMISO TRANSITORIO DE OPERACIONES DE AERONAVES FUERA DEL AERODROMO>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 La autoridad aeronáutica podrá permitir transitoriamente la operación de aeronaves en superficies que no sean aeródromos.
 
 ## art:1821 — <PERMISO PREVIO PARA CONSTITUIR Y REPARAR AERODROMOS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Para la construcción, reparación y ampliación de aeródromos se requerirá el permiso previo de la autoridad aeronáutica, la cual podrá negarlo si el respectivo proyecto no cumple con los requisitos exigidos por los reglamentos.
 
 ## art:1822 — <CASOS DE CANCELACIÓN O SUSPENSIÓN DEL PERMISO DE OPERACIÓN DE AERODROMO>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 El permiso de operaciones de un aeródromo podrá suspenderse o cancelarse en los siguientes casos: 
 
@@ -13471,24 +12837,24 @@ El permiso de operaciones de un aeródromo podrá suspenderse o cancelarse en lo
 PARÁGRAFO. Si el permiso de operación expira o es suspendido o cancelado la autoridad aeronáutica impedirá la explotación.
 
 ## art:1823 — <DEFINICIÓN DE SUPERFICIE DE DESPEJE>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Denomínanse superficies de despegue las áreas imaginarias, oblicuas y horizontales, que se extienden sobre cada aeródromo y sus inmediaciones, en las cuales está limitada la altura de los obstáculos a la circulación aérea. 
 
 La autoridad aeronáutica determinará las superficies de despeje y la altura máxima de las construcciones y plantaciones bajo dichas superficies.
 
 ## art:1824 — <PERMISO DE AUTORIDAD AERONÁUTICA PARA LEVANTAR CONSTRUCCIONES O PLANTACIONES>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Dentro de las áreas a que se refiere el inciso 2o. del artículo anterior, no se podrán levantar construcciones o plantaciones sin permiso de la autoridad aeronáutica.
 
 ## art:1825 — <OBLIGACIÓN DEL PROPIETARIO A PERMITIR SEÑALAMIENTO DE OBSTACULOS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Todo propietario de un inmueble está en la obligación de permitir el señalamiento de los obstáculos que podrían constituir un peligro para la circulación aérea a juicio de la autoridad aeronáutica. La instalación y funcionamiento de las marcas, señales o luces correrán a cargo del explotador del aeropuerto, salvo respecto de los obstáculos levantados con posterioridad al permiso de operación del aeródromo, que correrán a cargo de propietario del obstáculo.
 
 ## art:1826 — <REMOCIÓN DE OBSTACULOS QUE PERTURBEN LIBRE TRANSITO DE LAS PISTAS>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO V. INFRAESTRUCTURA AERONÁUTICA
 
 Es obligación del explotador de una aeronave, máquina o equipo que perturbe el libre tránsito de las pistas, rampas o zonas de rodamiento de un aeródromo de removerlo tan pronto la autoridad aeronáutica así lo ordene. De no hacerlo dentro de un plazo prudencial, dicha autoridad podrá disponer lo pertinente para su remoción, a expensas del explotador, dentro de lo que las circunstancias inmediatas aconsejen, y sin que a dicha autoridad le quepa responsabilidad por los daños que puedan causarse a la aeronave, máquina o equipo.
 
@@ -13589,17 +12955,17 @@ ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VI. DAÑOS A TERCEROS 
 Las disposiciones del presente Capítulo se aplican a aeronaves de Estado, en cuyo caso se entenderá que el explotador es la Nación.
 
 ## art:1841 — <CONCEPTO DE ABORDAJE>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABORDAJE Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde 19
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABORDAJE
 
 Se entiende por abordaje toda colisión o interferencia entre dos o más aeronaves en vuelo o sobre la superficie.
 
 ## art:1842 — <RESPONSABILIDAD DEL EXPLOTADOR QUE CAUSE ABORDAJE>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABORDAJE Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde 19
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABORDAJE
 
 El explotador que cause un abordaje será responsable de la muerte, lesiones o retrasos causados a personas a bordo de otras aeronaves y de la destrucción, pérdida, daños, retrasos o perjuicios a dichas aeronaves y a los bienes a bordo de las mismas, de conformidad con los artículos 1834 y 1839.
 
 ## art:1843 — <LIMITES A LA RESPONSABILIDAD DEL EXPLOTADOR POR ABORDAJE>
-ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABORDAJE Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Leyes desde 19
+ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO VII. ABORDAJE
 
 La responsabilidad del explotador por abordaje de una aeronave no excederá, por lo que se refiere a daños causados a las personas, a las otras aeronaves o a los bienes a bordo, de los siguientes límites: 
 
@@ -13771,19 +13137,7 @@ Las empresas extranjeras podrán realizar servicios de transporte aéreo interna
 ## art:1871 — <RÉGIMEN PARA AERONAVES DE TRANSPORTE PRIVADO, TURISTICO Y DEPORTIVO>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO XI. TRANSPORTE PRIVADO, ESCUELAS DE AVIACION, AERONAVES DEDICADAS AL TURISMO Y MANTENIMIENTO DE AERONAVES
 
-Las aeronaves de transporte privado, las de turismo y las deportivas, quedarán sujetas, en cuanto les sean aplicables, a las disposiciones de esta Parte y a los reglamentos que para cada actividad distinta de la comercial determine la autoridad aeronáutica. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las aeronaves de transporte privado, las de turismo y las deportivas, quedarán sujetas, en cuanto les sean aplicables, a las disposiciones de esta Parte y a los reglamentos que para cada actividad distinta de la comercial determine la autoridad aeronáutica.
 
 ## art:1872 — <PROHIBICIÓN DE REALIZAR SERVICIO PÚBLICO DE TRANSPORTE AÉREO>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO XI. TRANSPORTE PRIVADO, ESCUELAS DE AVIACION, AERONAVES DEDICADAS AL TURISMO Y MANTENIMIENTO DE AERONAVES
@@ -14027,19 +13381,7 @@ Las cantidades adeudadas al explotador por razón de las cauciones de que trata 
 ## art:1903 — <APLICACIÓN DE NORMAS DE REGISTRO MARÍTIMO AL CONTRATO DE SEGURO AÉREO>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO XIV. SEGURO
 
-Al contrato de seguro aéreo se aplicarán, en cuanto sean pertinentes, las normas relativas al seguro marítimo consignadas en este Código. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Al contrato de seguro aéreo se aplicarán, en cuanto sean pertinentes, las normas relativas al seguro marítimo consignadas en este Código.
 
 ## art:1904 — <NAVES AÉREAS HIPOTECABLES - CONTENIDO DE LA ESCRITURA DE HIPOTECA>
 ubicacion: TÍTULO XIII. DEL SEGURO MARÍTIMO > CAPÍTULO XV. HIPOTECA, EMBARGO Y SECUESTRO
@@ -14226,17 +13568,7 @@ ubicacion: TÍTULO I. DEL CONCORDATO PREVENTIVO
 ## art:1936 — <INEFICACIA DE ACTUACIONES EN DETRIMENTO DE LAS FUNCIONES ATRIBUIDAS A LAS SUPERINTENDENCIAS DE SOCIEDADES Y BANCARIA>
 ubicacion: TÍTULO I. DEL CONCORDATO PREVENTIVO
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 61 del Decreto extraordinario 350 de 1989>.
 
 ## art:1937 — <ESTADO DE QUIEBRA - CONCEPTO>
 ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO I. ESTADO DE QUIEBRA
@@ -14386,17 +13718,7 @@ ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO IV. MASA DE LA QUIEBRA
 ## art:1966 — <INSUFICIENCIA DE BIENES Y ENTORPECIMIENTO DE PAGOS - OTRAS ACCIONES>
 ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO IV. MASA DE LA QUIEBRA
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 242 de la Ley 222 de 1995.>
 
 ## art:1967 — <RESTITUCIÓN DE BIENES A LA MASA DE LA QUIEBRA POR CONTRATACIÓN DE MALA FE>
 ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO IV. MASA DE LA QUIEBRA
@@ -14556,17 +13878,7 @@ ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO VII. RÉGIMEN PENAL DE LA QUIEB
 ## art:1998 — <PENA POR ABANDONO DE LOS NEGOCIONS SIN JUSTA CAUSA>
 ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO VII. RÉGIMEN PENAL DE LA QUIEBRA
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el artículo 242 de la Ley 222 de 1995.>
 
 ## art:1999 — <DE A QUIENES SE APLICAN LAS SANCIONES EN LAS QUIEBRAS DE SOCIEDADES>
 ubicacion: TÍTULO II. DE LA QUIEBRA > CAPÍTULO VII. RÉGIMEN PENAL DE LA QUIEBRA
@@ -14726,19 +14038,7 @@ ubicacion: TÍTULO IV. DE LA REGULACIÓN POR EXPERTOS O PERITOS
 ## art:2030 — <DICTAMEN DE LOS PERITOS>
 ubicacion: TÍTULO IV. DE LA REGULACIÓN POR EXPERTOS O PERITOS
 
-<Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha> 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Artículo derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:2031 — <DECISIÓN DEL JUEZ>
 ubicacion: TÍTULO IV. DE LA REGULACIÓN POR EXPERTOS O PERITOS
@@ -14792,16 +14092,4 @@ MISAEL PASTRANA BORRERO
 
 El Ministro de Justicia, 
 
-MIGUEL ESCOBAR MENDEZ 
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+MIGUEL ESCOBAR MENDEZ

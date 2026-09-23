@@ -43,7 +43,8 @@ co:<tipo>:<numero>:<anio>[:art:<articulo>]
 | Acto legislativo | `co:acto-legislativo:1:2005` |
 | Circular | `co:circular:100-000016:2023` |
 
-Artículos con sufijo: `art:82a` (art. 82A), `art:82-1` (art. 82-1).
+Artículos con sufijo: `art:82a` (art. 82A), `art:82-1` (art. 82-1). La letra va
+pegada y en minúscula aunque la fuente escriba «82-A» o «82 A».
 Parágrafos e incisos **no** son nodos propios: van dentro del texto del artículo.
 
 **Derecho comunitario** (no lo expide el Congreso colombiano, pero aplica directo en
@@ -113,6 +114,17 @@ Cap. 4 — De la protección de los derechos» sí.
 
 **Encabezado de artículo**: `## art:<num> — <epígrafe>`. El epígrafe es el que trae
 la norma; si no tiene, se deja `## art:<num> —` y nada más. No se inventan epígrafes.
+
+**Marcas dentro del texto** (las pone la ingesta, nunca a mano):
+
+- `[TACHADO: …]` — texto que la fuente publica tachado (`<S>` en senado): ya no rige
+  (inexequible, nulo o derogado; el marcador que lo precede, p. ej.
+  `<Aparte tachado INEXEQUIBLE>`, dice cuál). Se conserva para que la cita sea
+  completa, pero no es texto vigente.
+- Los marcadores editoriales de vigencia (`<Artículo derogado por …>`,
+  `<Artículo modificado por …>`, `<Aparte tachado INEXEQUIBLE>`) se conservan. Los que
+  solo remiten a cajas que no viajan (`<Ver Notas del Editor>`, `<Ver Notas de
+  Vigencia>`) y el pie de navegación de la fuente se quitan.
 
 ---
 
@@ -217,7 +229,7 @@ origen,tipo,destino,fecha,nota,fuente
 |---|---|
 | `deroga` | Lo mata |
 | `deroga_tacitamente` | Lo mata (marcar cuando sea interpretación, no texto expreso) |
-| `subroga` | Lo mata y lo reemplaza |
+| `subroga` | Reemplaza su texto; el artículo sigue vivo con el texto nuevo (cuenta como reforma) |
 | `declara_inexequible` | Lo mata desde la fecha |
 | `declara_inexequible_parcial` | Sigue vivo, mutilado — `nota` dice qué cayó |
 | `modifica` | Sigue vivo, con otro texto |
@@ -242,12 +254,15 @@ vigencia. Los demás son navegación.
 
 `build.py` genera la vista `vigencia`. La regla, en orden:
 
-1. ¿Hay `declara_inexequible` / `deroga` / `deroga_tacitamente` / `subroga` con
-   `fecha <= hoy`? → **muerto** (con el ID de lo que lo mató).
+1. ¿Hay `deroga` / `deroga_tacitamente` con `fecha <= hoy`, `declara_inexequible`
+   total (nota «total» o marcador `<Artículo INEXEQUIBLE>` en el texto), o marcador
+   `<Artículo derogado…>` en el propio texto? → **muerto** (con el ID de lo que lo
+   mató). Un `declara_inexequible` sin evidencia de ser total → **vigente con
+   condición** («inexequible en parte, verificar»).
 2. ¿Hay `suspende` vigente? → **suspendido**.
 3. ¿Hay `declara_exequible_condicionado` o `declara_inexequible_parcial`? →
    **vigente con condición** (se devuelve la `nota`, siempre).
-4. ¿Hay `modifica` / `adiciona`? → **vigente reformado** (con la cadena).
+4. ¿Hay `modifica` / `adiciona` / `subroga`? → **vigente reformado** (con la cadena).
 5. Ninguna → **vigente**.
 
 Si un artículo no está en la base, la respuesta correcta es *«no está cargado»*,

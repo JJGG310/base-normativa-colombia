@@ -7,62 +7,12 @@ ramas: [ambiental, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
-
-## art:189 — 
-
-189 la Constitución Política,
-
-CONSIDERANDO:
-
-Que la producción normativa ocupa un espacio central en la implementación de políticas públicas, siendo el medio a través del cual se estructuran los instrumentos jurídicos que materializan en gran parte las decisiones del Estado.
-
-Que la racionalización y simplificación del ordenamiento jurídico es una de las principales herramientas para asegurar la eficiencia económica y social del sistema legal y para afianzar la seguridad jurídica.
-
-Que constituye una política pública gubernamental la simplificación y compilación orgánica del sistema nacional regulatorio.
-
-Que la facultad reglamentaria incluye la posibilidad de compilar normas de la misma naturaleza.
-
-Que por tratarse de un decreto compilatorio de normas reglamentarias preexistentes, las mismas no requieren de consulta previa alguna, dado que las normas fuente cumplieron al momento de su expedición con las regulaciones vigentes sobre la materia.
-
-Que la tarea de compilar y racionalizar las normas de carácter reglamentario implica, en algunos casos, la simple actualización de la normativa compilada, para que se ajuste a la realidad institucional y a la normativa vigente, lo cual conlleva, en aspectos puntuales, el ejercicio formal de la facultad reglamentaria.
-
-Que en virtud de sus características propias, el contenido material de este decreto guarda correspondencia con el de los decretos compilados; en consecuencia, no puede predicarse el decaimiento de las resoluciones, las circulares y demás actos administrativos expedidos por distintas autoridades administrativas con fundamento en las facultades derivadas de los decretos compilados.
-
-Que la compilación de que trata el presente decreto se contrae a la normatividad vigente al momento de su expedición, sin perjuicio de los efectos ultractivos de disposiciones derogadas a la fecha, de conformidad con el artículo 38 de la Ley 153 de 1887.
-
-Que por cuanto este decreto constituye un ejercicio de compilación de reglamentaciones preexistentes, los considerados de los decretos fuentes se entiendan incorporados a su texto, aunque no se transcriba, para lo cual en cada artículo indica el origen del mismo
-
-Que las normas que integran el Libro 1 de este Decreto no tienen naturaleza reglamentaria, como quiera que se limita a describir la estructura general administrativa del sector.
-
-Que durante el trabajo compilatorio recogido en este Decreto, el Gobierno verificó que ninguna norma compilada hubiera sido objeto de declaración de nulidad o de suspensión provisional, acudiendo para ello a la información suministrada por la Relatoría y la Secretaría General del Consejo de Estado.
-
-Que el objeto de compilar y racionalizar las normas de carácter reglamentario que rigen en el sector y contar con un instrumento jurídico único para el mismo, se hace necesario expedir el presente Decreto Reglamentario Único Sectorial.
-
-Por lo anteriormente expuesto,
-
-DECRETA:
-
-LIBRO 1
-
-ESTRUCTURA
-
-PARTE 1
-
-SECTOR CENTRAL
-
-1
-
-CABEZA SECTOR
-
-ARTÍCULO
 
 ## art:1.1.1.1 — 
 
 1.1.1.1 Ambiente Desarrollo Sostenible
-
-ARTÍCULO
 
 ## art:1.1.1.1.1 — Objetivo
 
@@ -78,11 +28,9 @@ Corresponde al Ministerio de Ambiente y Desarrollo Sostenible dirigir el Sistema
 
 UNIDADES ADMINISTRATIVAS ESPECIALES
 
-ARTÍCULO
+## art:1.1.2.1 — 
 
-## art:1.1.2.1 — Parques Nacionales Naturales Colombia
-
-ARTÍCULO
+1.1.2.1 Parques Nacionales Naturales Colombia.
 
 ## art:1.1.2.1.1 — Funciones
 
@@ -120,13 +68,9 @@ Parques Nacionales Naturales de Colombia, ejercerá las siguientes funciones:
 
 (Decreto 3572 de 2011, artículo 2)
 
-ARTÍCULO
-
 ## art:1.1.2.2 — 
 
 1.1.2.2 Autoridad Nacional Licencias Ambientales ANLA
-
-ARTÍCULO
 
 ## art:1.1.2.2.1 — Objeto
 
@@ -142,11 +86,9 @@ SECTOR DESCENTRALIZADO
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
+## art:1.2.1.1 — 
 
-## art:1.2.1.1 — Hidrología, Meteorología Ambientales (Ideam)
-
-ARTÍCULO
+1.2.1.1 Hidrología, Meteorología Ambientales (Ideam).
 
 ## art:1.2.1.1.1 — Objetivos
 
@@ -182,11 +124,9 @@ El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM-tiene c
 
 ENTIDADES VINCULADAS
 
-ARTÍCULO
+## art:1.2.2.1 — 
 
-## art:1.2.2.1 — Investigaciones Marinas Costeras Benito Andreis", Invernar
-
-ARTÍCULO
+1.2.2.1. Investigaciones Marinas Costeras Benito Andreis", Invernar.
 
 ## art:1.2.2.1.1 — Objeto
 
@@ -206,13 +146,9 @@ f) Los demás que le otorgue la ley y le fije el Ministerio del Medio Ambiente.
 
 (Decreto 1276 de 1994, Art. 2)
 
-ARTÍCULO
-
 ## art:1.2.2.2 — 2.2
 
 Investigación Recursos Biológicos "Alexander Humboldt",
-
-ARTÍCULO
 
 ## art:1.2.2.2.1 — Objeto
 
@@ -228,13 +164,9 @@ El Instituto de Investigación de Recursos Biológicos "Alexander von Humboldt" 
 
 (Decreto 1603 de 1994, art 19)
 
-ARTÍCULO
-
 ## art:1.2.2.3 — 2.3
 
 Investigaciones Ambientales Pacífico Neumann"
-
-ARTÍCULO
 
 ## art:1.2.2.3.1 — Objeto
 
@@ -242,13 +174,9 @@ El Instituto de Investigaciones Ambientales del Pacífico "John von Neumann" ten
 
 (Decreto 1603 de 1994, art 30)
 
-ARTÍCULO
-
 ## art:1.2.2.4 — 
 
 1.2.2.4 Amazónico Investigaciones Científicas, Sinchí
-
-ARTÍCULO
 
 ## art:1.2.2.4.1 — Objeto
 
@@ -259,8 +187,6 @@ El "SINCHI" tendrá como objeto especifico la realización y divulgación de est
 3
 
 ÓRGANOS, COMITÉS CONSEJOS ASESORÍA COORDINACIÓN.
-
-ARTÍCULO
 
 ## art:1.2.3.1 — Órganos, Comités Consejos Asesoría Coordinación
 
@@ -286,11 +212,9 @@ Son Órganos, Comités y Consejos de Asesoría y Coordinación del Ministerio de
 
 ESPECIALES.
 
-ARTÍCULO
+## art:1.2.4.1 — 
 
-## art:1.2.4.1 — Nacional Ambiental, “Fonam"
-
-ARTÍCULO
+1.2.4.1 Nacional Ambiental, “Fonam".
 
 ## art:1.2.4.1.1 — Objetivos
 
@@ -304,13 +228,9 @@ El FONAM financiará la ejecución de actividades, estudios, investigaciones, pl
 
 ORGANISMOS AUTÓNOMOS
 
-ARTÍCULO
-
 ## art:1.2.5.1 — 
 
 1.2.5.1 Corporaciones Autónomas Regionales Desarrollo Sostenible
-
-ARTÍCULO
 
 ## art:1.2.5.1.1 — Naturaleza jurídica
 
@@ -332,13 +252,9 @@ DISPOSICIONES GENERALES
 
 OBJETO ÁMBITO APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad expedida por el Gobierno Nacional en ejercicio de las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política, para la cumplida ejecución de las leyes del sector Ambiente.
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.2 — Ámbito Aplicación
 
@@ -359,8 +275,6 @@ FLORA
 SECCIÓN 1
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1 — Definiciones
 
@@ -474,15 +388,11 @@ SECCIÓN 2.
 
 PRINCIPIOS GENERALES BASE PARA LA APLICACIÓN INTERPRETACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.1 — Objeto
 
 El presente Capítulo tiene por objeto regular las actividades de la administración pública y de los particulares respecto al uso, manejo, aprovechamiento y conservación de los bosques y la flora silvestre con el fin de lograr un desarrollo sostenible.
 
 (Decreto 1791 de 199, Art.2).
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2 — Principios
 
@@ -503,8 +413,6 @@ f) Las plantaciones forestales cumplen una función fundamental como fuentes de 
 g) El presente reglamento se desarrollará por las entidades administradores del recurso atendiendo las particularidades ambientales, sociales, culturales y económicas de las diferentes regiones
 
 (Decreto 1791 de 1996, Art.3).
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.3 — 2.3
 
@@ -530,8 +438,6 @@ SECCIÓN 3
 
 CLASES APROVECHAMIENTO FORESTAL
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.1 — Clases aprovechamiento forestal
 
 Las clases de aprovechamiento forestal son:
@@ -548,8 +454,6 @@ SECCIÓN 4.
 
 APROVECHAMIENTOS FORESTALES
 
-ARTÍCULO
-
 ## art:2.2.1.1.4.1 — 4.1
 
 Para adelantar aprovechamientos forestales de bosques naturales ubicados en terrenos de dominio público se requiere, por lo menos, que la zona se encuentre dentro del área forestal productora o protectora alinderada por la corporación respectiva y que los interesados presenten, por lo menos:
@@ -562,15 +466,11 @@ c) Plan de manejo forestal.
 
 (Decreto 1791 de 1996 Art.6).
 
-ARTÍCULO
-
 ## art:2.2.1.1.4.2 — adquirir
 
 Los aprovechamientos forestales persistentes de bosques naturales ubicados en terrenos de dominio público se adquieren mediante concesión, asociación o permiso.
 
 (Decreto 1 1 de 1996, Art.7).
-
-ARTÍCULO
 
 ## art:2.2.1.1.4.3 — 4.3
 
@@ -584,15 +484,11 @@ c) Plan de manejo forestal
 
 (Decreto 1791 de 1996, Art.8).
 
-ARTÍCULO
-
 ## art:2.2.1.1.4.4 — Aprovechamiento
 
 Los aprovechamientos forestales persistentes de bosques naturales ubicados en terrenos de propiedad privada se adquieren mediante autorización.
 
 (Decreto 1791 de 1996, Art.9).
-
-ARTÍCULO
 
 ## art:2.2.1.1.4.5 — 4.5
 
@@ -606,8 +502,6 @@ Este inventario deberá presentarse noventa (90) días antes de iniciarse el apr
 
 (Decreto 1791 de 1996, Art.10).
 
-ARTÍCULO
-
 ## art:2.2.1.1.4.6 — Sostenibilidad recurso
 
 Los titulares de aprovechamientos forestales persistentes de bosques naturales ubicados en terrenos de dominio público o privado garantizarán la presencia de individuos remanentes en las diferentes clases diamétricas del bosque objeto de aprovechamiento, con el propósito de contribuir a la sostenibilidad del recurso.
@@ -617,8 +511,6 @@ Los titulares de aprovechamientos forestales persistentes de bosques naturales u
 SECCIÓN 5.
 
 APROVECHAMIENTOS FORESTALES ÚNICOS
-
-ARTÍCULO
 
 ## art:2.2.1.1.5.1 — Verificación
 
@@ -638,8 +530,6 @@ PARÁGRAFO 2. Cuando por razones de utilidad pública se requiera sustraer bosqu
 
 (Decreto 1791 de 1996 Art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.2 — Requisitos de trámite
 
 Para tramitar aprovechamiento forestal único de bosques naturales ubicados en terrenos de dominio público se requiere, por lo menos, que el interesado presente ante la Corporación en cuya jurisdicción se encuentre el área objeto de aprovechamiento.
@@ -652,15 +542,11 @@ c) Plan de aprovechamiento forestal, incluyendo la destinación de los productos
 
 (Decreto 1791 de 1996, Art.13).
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.3 — Aprovechamiento forestal único
 
 Los aprovechamientos forestales únicos de bosque naturales ubicados en terrenos de dominio público se adquieren mediante permiso.
 
 (Decreto 1791 de 1996, Art.14).
-
-ARTÍCULO
 
 ## art:2.2.1.1.5.4 — Otorgamiento
 
@@ -676,8 +562,6 @@ PARÁGRAFO .- En las zonas señaladas en los literales b) y c) del presente art�
 
 (Decreto 1791 de 1996, Art 15)
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.5 — 5.5
 
 Para tramitar aprovechamientos forestales únicos de bosques naturales ubicados en terrenos de propiedad privada se requiere que el interesado por lo menos:
@@ -692,15 +576,11 @@ d) Plan de aprovechamiento forestal
 
 (Decreto 1791 de 1996 Art. 16).
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.6 — Otras formas
 
 Los aprovechamientos forestales únicos de bosques naturales ubicados en terrenos de dominio privado se adquieren mediante autorización
 
 (Decreto 1791 de 1996 Art.17).
-
-ARTÍCULO
 
 ## art:2.2.1.1.5.7 — Inventario
 
@@ -712,15 +592,11 @@ SECCIÓN 6
 
 APROVECHAMIENTO FORESTAL DOMÉSTICO
 
-ARTÍCULO
-
 ## art:2.2.1.1.6.1 — público
 
 Los aprovechamientos forestales domésticos de bosques naturales ubicados en terrenos de dominio público se adquieren mediante permiso.
 
 (Decreto 1791 de 1996 Art.19).
-
-ARTÍCULO
 
 ## art:2.2.1.1.6.2 — público privado
 
@@ -730,15 +606,11 @@ El volumen del aprovechamiento forestal doméstico no podrá exceder de veinte m
 
 (Decreto 1791 de 1996 Art.20).
 
-ARTÍCULO
-
 ## art:2.2.1.1.6.3 — privado
 
 Los aprovechamientos forestales domésticos de bosques naturales ubicados en terrenos de dominio privado, se adquieren mediante autorización.
 
 (Decreto 1791 de 1996, art.21).
-
-ARTÍCULO
 
 ## art:2.2.1.1.6.4 — comunidades negras
 
@@ -750,9 +622,9 @@ SECCIÓN 7
 
 PROCEDIMIENTO
 
-## art:2.2.1.1 — 7.1
+## art:2.2.1.1.7.1 — Procedimiento Solicitud
 
-Procedimiento Solicitud. Toda persona natural o jurídica que pretenda realizar aprovechamiento de bosques naturales o productos de la flora silvestre ubicados en terrenos de dominio público o privado deberá presentar, a la Corporación competente, una solicitud que contenga:
+Toda persona natural o jurídica que pretenda realizar aprovechamiento de bosques naturales o productos de la flora silvestre ubicados en terrenos de dominio público o privado deberá presentar, a la Corporación competente, una solicitud que contenga:
 
 a) Nombre del solicitante;
 
@@ -768,13 +640,35 @@ PARÁGRAFO .- Los linderos de las áreas solicitadas para aprovechamiento forest
 
 (Decreto 1791 de 1996, Art. 23).
 
+## art:2.2.1.1.7 — 2. Criterios de Selección titular
+
+Cuando sobre una misma área se presenten varias solicitudes de aprovechamiento de bosques naturales o de productos de la flora silvestre ubicados en terrenos de dominio público, se tendrán en cuenta por lo menos los siguientes criterios para evaluar la solicitud y seleccionar al titular:
+
+a) La realización de los estudios sobre el área en las condiciones establecidas por el artículo 56 del Decreto - Ley 2811 de 1974 y lo regulado en la presente norma;
+
+b) El cumplimiento de las obligaciones previstas en los permisos o concesiones otorgadas con anterioridad al solicitante y no haber sido sancionado por infracción de las normas forestales y ambientales;
+
+c) La mejor propuesta de manejo y uso sostenible del recurso;
+
+d) Las mejores condiciones técnicas y económicas y los mejores programas de reforestación, manejo silvicultural e investigación, restauración y recuperación propuestos;
+
+e) La mejor oferta de desarrollo socioeconómico de la región;
+
+f) La eficiencia ofrecida en el aprovechamiento y en la transformación de productos forestales, el mayor valor agregado y la generación de empleo en la zona donde se aproveche el recurso;
+
+g) Las solicitudes realizadas por comunidades, etnias, asociaciones y empresas comunitarias;
+
+h) Las solicitudes de empresas que tengan un mayor porcentaje de capital nacional, en los casos regulados por el artículo 220 del Decreto - ley 2811 de 1974.
+
+PARÁGRAFO .-Los criterios enunciados en este artículo no implican orden de prelación.
+
+(Decreto 1791 de 1996 Art.24).
+
 ## art:2.2.1.1.7.3 — Contenido planes
 
 Los planes de manejo forestal y los planes de aprovechamiento forestal que se presten para áreas iguales o superiores a veinte (20) hectáreas deberán contener un capítulo sobre consideraciones ambientales en el cual se detallarán las acciones requeridas y a ejecutar para prevenir, mitigar, controlar, compensar y corregir los posibles efectos e impactos negativos causados en desarrollo del aprovechamiento forestal.
 
 (Decreto 1791 de 1996, Art.25).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.4 — Condiciones
 
@@ -786,8 +680,6 @@ PARÁGRAFO .- Los aprovechamientos por ministerio de la ley, los domésticos y l
 
 (Decreto 1791 de 1996, Art.26).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.5 — Naturaleza planes
 
 Los planes de aprovechamiento forestal y de manejo forestal no son objeto de aprobación sino de conceptos técnicos que sirven de base a la decisión que adopte la autoridad ambiental competente.
@@ -796,15 +688,11 @@ Por lo anterior, los planes no son instrumentos vinculantes ni harán parte inte
 
 (Decreto 1791 de 1996 Art.27).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.6 — Proceso aprovechamientos forestales únicos
 
 Cuando se trate de aprovechamientos forestales persistentes o únicos, una vez recibido el plan de manejo forestal o el plan de aprovechamiento, respectivamente, las Corporaciones procederán a evaluar su contenido, efectuar las visitas de campo, emitir el concepto y expedir la resolución motivada.
 
 (Decreto 1791 de 1996, Art.28).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.7 — Proceso aprovechamientos forestales doméstico
 
@@ -813,8 +701,6 @@ Cuando se trate de aprovechamiento forestal doméstico, recibida la solicitud, l
 Las Corporaciones podrán delegar en el funcionario competente que realiza la visita, el otorgamiento del aprovechamiento solicitado.
 
 (Decreto 1791 de 1996, Art.29).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.8 — Contenido la Resolución
 
@@ -842,8 +728,6 @@ j) Informes semestrales.
 
 (Decreto 1791 de 1996, Art.30).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.9 — 7.9
 
 Todos los aprovechamientos forestales de bosques naturales o de la flora silvestre deberán ser revisados por lo menos semestralmente por la Corporación competente. Para la práctica de las visitas se utilizará la cartografía disponible y se empleará el Sistema de Posicionamiento Global (GPS). De la visita se elaborará un concepto técnico en el cual se dejará constancia de lo observado en el terreno y del cumplimiento o no de las obligaciones establecidas en la providencia que otorgó el aprovechamiento forestal o de productos de la flora silvestre.
@@ -851,8 +735,6 @@ Todos los aprovechamientos forestales de bosques naturales o de la flora silvest
 En caso de incumplimiento de las obligaciones, se iniciará el procedimiento sancionatorio correspondiente, mediante acto administrativo motivado.
 
 (Decreto 1791 de 199, Art.31).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.10 — Terminación aprovechamiento
 
@@ -864,23 +746,17 @@ PARÁGRAFO .- Se considerará como abandono del aprovechamiento forestal la susp
 
 (Decreto 1791 de 1996, Art.32).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.11 — Publicidad
 
 Todo acto de inicio o ponga término a una actuación administrativa relacionada con el tema de los bosques de la flora silvestre, será notificado y publicado en la forma prevista en los Artículos 70 y 71 de la Ley 99 de 1993. Adicionalmente, se deberá enviar copia de los actos referidos a la(s) Alcaldía(s) Municipal(es) correspondiente, para que sean exhibidos en un lugar visible de éstas.
 
 (Decreto 1791 de 1996, Art.33).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.12 — Vigencia aprovechamiento
 
 La vigencia de los permisos forestales será fijada de acuerdo con la clase de aprovechamiento solicitado, la naturaleza del recurso, la oferta disponible, la necesidad de establecer medidas para asegurar se renovabilidad, la cuantía y la clase de inversiones, sin exceder el plazo máximo y las condiciones establecidas en el artículo 55 del Decreto - Ley 2811 de 1974.
 
 (Decreto 1791 de 1996, Art.34).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.13 — Características la vigencia
 
@@ -890,13 +766,17 @@ Las concesiones se regirán por lo previsto en el Decreto - ley 2811 de 197 4 y 
 
 (Decreto 1791 de 1996, Art.35).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.14 — .14
 
 Aprovechamientos forestales asociación Los aprovechamientos forestales por el modo de asociación se realizarán mediante la conformación de empresas comunitarias de escasos medíos económicos así como asociaciones de usuarios y se otorgarán por acto administrativo en el cual se determinarán las condiciones del aprovechamiento y las obligaciones de los titulares.
 
 (Decreto 1791 de 1996, Art.36).
+
+## art:2.2.1.1.7.15 — Exclusividad
+
+Las autorizaciones de aprovechamiento forestal de bosques naturales ubicados en terrenos de dominio privado, se otorgarán exclusivamente al propietario del predio.
+
+(Decreto 1791 de 1996, Art.37).
 
 ## art:2.2.1.1.7.16 — Áreas forestales
 
@@ -908,15 +788,11 @@ PARÁGRAFO .- Mientras las Corporaciones declaran las áreas mencionadas y elabo
 
 (Decreto 1791 de 1996, Art.38).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.17 — .17
 
 Guías técnicas Las Corporaciones elaborarán guías técnicas que contendrán la forma correcta de presentación de la solicitud, del plan de manejo forestal, del plan de aprovechamiento forestal y de las consideraciones ambientales, establecidas como requisito para el trámite de las diferentes clases de aprovechamiento, con el fin de orientar a los interesados en aprovechar los bosques naturales y los productos de la flora silvestre.
 
 (Decreto 1791 de 1996 Art.39).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.18 — .18
 
@@ -924,15 +800,11 @@ Términos de referencia Los términos de referencia generales para la elaboraci�
 
 (Decreto 1791 de 1996Art.40).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.19 — Monitoreos
 
 Las Corporaciones podrán contratar la realización de estudios de seguimiento e interventorías con el fin de realizar monitoreos a los aprovechamientos de bosques naturales o productos de la flora silvestre.
 
 (Decreto 1791 de 1996 Art.41).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.20 — Finalidad de los contratos
 
@@ -950,8 +822,6 @@ e) Integrar a pequeños usuarios para que vivan principalmente de la tala del bo
 
 (Decreto 1791 de 1996 Art.42).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.21 — Investigación sobre bosques
 
 Las Corporaciones, en asocio con los Institutos de Apoyo Científico del SINA, realizarán investigaciones sobre los bosques que puedan ser materia de aprovechamiento, con el fin de conocer su abundancia, densidad, endemismo, vulnerabilidad, resiliencia y rareza de las especies, los cuales servirán de soporte para permitir, autorizar, promover el uso o vedar el aprovechamiento de las especies forestales y de la flora.
@@ -960,23 +830,17 @@ Igualmente, establecerán tablas de volúmenes básicos para los cálculos volum
 
 (Decreto 1791 de 1996, Art.43).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.22 — Aprovechamiento forestal por comunidades indígenas o negras
 
 Los aprovechamientos forestales que se pretendan realizar por comunidades indígenas en áreas de resguardo o reserva indígena o por las comunidades negras de que trata la Ley 70 de 1993 se regirán por las normas especiales que regulan la administración, manejo y uso de recursos naturales renovables por parte de estas comunidades. Los aspectos que no se encuentren expresamente previstos en normas específicas, quedan sujetos al cumplimiento de lo señalado en el presente Capítulo.
 
 (Decreto 1791 de 1996 Art.44).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.23 — Posibilidad de Subclasificar
 
 Las Corporaciones, de acuerdo con las características bióticas, abióticas y socioeconómicas de cada región, podrán establecer una subclasificación por área o superficie de los aprovechamientos forestales o productos de la flora silvestre.
 
 (Decreto 1791 de 1996Art.45).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.25 — Proyectos, obras o actividades que requieran de licencia ambiental
 
@@ -985,8 +849,6 @@ Cuando el proyecto, obra o actividad se encuentre sometido al régimen de licenc
 (Decreto 1791 de 1996 Art.47).
 
 SECCIÓN 8
-
-ARTÍCULO
 
 ## art:2.2.1.1.8.1 — Permiso para el estudio de los bosques naturales
 
@@ -1004,23 +866,17 @@ d) Tiempo requerido para el estudio y cronograma de actividades.
 
 (Decreto 1791 de 1996 Art.48).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.2 — Otorgamiento
 
 Los permisos de estudio se otorgarán mediante providencia motivada, expedida por la Corporación, una vez se haya dado viabilidad técnica a la solicitud presentada por el interesado.
 
 (Decreto 1791 de 1996 Art.49).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.3 — Plazos
 
 La providencia que otorgue el permiso de estudio fijará el plazo para efectuarlo y señalará la extensión del área, la cual dependerá del tipo de aprovechamiento que se proyecte realizar, de las especies y de las condiciones económicas y sociales de la región. El término de estos permisos no podrá ser superior a dos (2) años y será determinado por la Corporación con base en las características del área y del aprovechamiento proyectado.
 
 (Decreto 1791 de 1996, Art.50).
-
-ARTÍCULO
 
 ## art:2.2.1.1.8.4 — Término para estudios
 
@@ -1030,23 +886,17 @@ Concluidos los estudios, el interesado deberá presentar a la Corporación respe
 
 (Decreto 1791 de 1996 Art.51).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.5 — No garantía de otorgamiento
 
 El otorgamiento del permiso de estudio y la fijación del plazo para realizarlo, no constituye garantía del otorgamiento del aprovechamiento en las condiciones solicitadas.
 
 (Decreto 1791 de 1996, Art.52).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.6 — Derechos y obligaciones del titular
 
 El titular de un permiso de estudio tendrá exclusividad para adelantarlo y prioridad sobre otros solicitantes mientras esté vigente dicho permiso, pero no puede ejecutar trabajos de aprovechamiento forestal dentro del área permitida, a excepción de muestras sin valor comercial previamente reportadas en el permiso de estudio para su identificación y análisis. En caso de violación de la presente disposición, la Corporación decomisará los productos, sin perjuicio de las demás sanciones a que haya lugar.
 
 (Decreto 1791 de 1996, Art.53).
-
-ARTÍCULO
 
 ## art:2.2.1.1.8.7 — Suspensión
 
@@ -1058,15 +908,11 @@ SECCIÓN 9
 
 DEL APROVECHAMIENTO DE ÁRBOLES AISLADOS
 
-ARTÍCULO
-
 ## art:2.2.1.1.9.1 — Solicitudes prioritarias
 
 Cuando se quiera aprovechar árboles aislados de bosque natural ubicado en terrenos de dominio público o en predios de propiedad privada que se encuentren caídos o muertos por causas naturales, o que por razones de orden sanitario debidamente comprobadas requieren ser talados, se solicitará permiso o autorización ante la Corporación respectiva, la cual dará trámite prioritario a la solicitud.
 
 (Decreto 1791 de 1996 Art.55).
-
-ARTÍCULO
 
 ## art:2.2.1.1.9.2 — Titular de la solicitud
 
@@ -1074,15 +920,11 @@ Si se trata de árboles ubicados en predios de propiedad privada, la solicitud d
 
 (Decreto 1791 de 1996 Art.56).
 
-ARTÍCULO
-
 ## art:2.2.1.1.9.3 — Tala de emergencia
 
 Cuando se requiera talar o podar árboles aislados localizados en centros urbanos que por razones de su ubicación, estado sanitario o daños mecánicos estén causando perjuicio a la estabilidad de los suelos, a canales de agua, andenes, calles, obras de infraestructura o edificaciones, se solicitará por escrito autorización, a la autoridad competente, la cual tramitará la solicitud de inmediato, previa visita realizada por un funcionario competente técnicamente la necesidad de talar árboles.
 
 (Decreto 1791 de 1996 Art.57).
-
-ARTÍCULO
 
 ## art:2.2.1.1.9.4 — Tala o reubicación por obra pública o privada
 
@@ -1094,15 +936,11 @@ PARÁGRAFO .- Para expedir o negar la autorización de que trata el presente Art
 
 (Decreto 1791 de 1996, Art. 58).
 
-ARTÍCULO
-
 ## art:2.2.1.1.9.5 — Productos
 
 Los productos que se obtengan de la tala o poda de árboles aislados, en las circunstancias descritas en el presente capítulo, podrán comercializarse, a criterio de la autoridad ambiental competente.
 
 (Decreto 1791 de 1996Art.59).
-
-ARTÍCULO
 
 ## art:2.2.1.1.9.6 — 9.6
 
@@ -1120,8 +958,6 @@ SUBSECCIÓN 1
 
 ASPECTO GENERAL
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.1.1 — Ámbito de aplicación
 
 La presente Sección será aplicada por las autoridades ambientales competentes y todo aquel que esté interesado en el manejo sostenible de la flora silvestre y de los productos forestales no maderables que hacen parte de los ecosistemas naturales.
@@ -1131,8 +967,6 @@ La presente Sección será aplicada por las autoridades ambientales competentes 
 SUBSECCIÓN 2
 
 MODOS DE ADQUIRIR EL DERECHO AL MANEJO SOSTENIBLE
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.2.1 — Derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables
 
@@ -1194,8 +1028,6 @@ SUBSECCIÓN 3
 
 REQUISITOS Y CLASES DE MANEJO SOSTENIBLE
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.3.1 — 
 
 2.2.1.1.10.3.1 Requisitos para adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables. Toda persona natural o jurídica, pública o privada, que pretenda adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables a través de permiso, asociación y autorización deberá diligenciar el Formato Único Nacional y allegar el estudio técnico, cuando se requiera, ante la autoridad ambiental competente, que lo otorgará o negará mediante acto administrativo.
@@ -1205,8 +1037,6 @@ PARÁGRAFO 1. Si la autoridad ambiental cuenta con el protocolo de manejo sosten
 PARÁGRAFO 2. El contenido y los lineamientos para la elaboración y evaluación del estudio técnico y del protocolo de manejo sostenible de la flora silvestre y de los productos forestales no maderables, serán desarrollados por el Ministerio de Ambiente y Desarrollo Sostenible dentro del término de seis (6) meses contados a partir de la expedición de la presente Sección.
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.3.2 — Clases de manejo sostenible de la flora silvestre y de los productos forestales no maderables
 
@@ -1246,8 +1076,6 @@ La autoridad ambiental competente podrá llevar a cabo las visitas que considere
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.3.3 — Áreas susceptibles de manejo sostenible de la flora silvestre y de los productos forestales no maderables
 
 El Ministerio de Ambiente y Desarrollo Sostenible precisará las áreas en las que podrá solicitarse el manejo sostenible de la flora silvestre y de los productos forestales no maderables.
@@ -1258,15 +1086,11 @@ SUBSECCIÓN 4
 
 TRÁMITE PARA ADQUIRIR EL DERECHO AL MANEJO SOSTENIBLE
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.4.1 — Contenido de la solicitud
 
 El interesado en adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables, deberá diligenciar el Formato Único Nacional, cuyas formalidades y contenido deberá establecer el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.4.2 — 4.2
 
@@ -1306,8 +1130,6 @@ PARÁGRAFO . Cuando la actividad sujeta a permiso, autorización, asociación o 
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.4.3 — Del manejo forestal unificado
 
 El interesado en llevar a cabo aprovechamientos domésticos, persistentes o únicos de productos forestales maderables, podrá incluir en la solicitud de aprovechamiento forestal de maderables, el manejo sostenible de la flora silvestre y de los productos forestales no maderables para la misma área o predio objeto de interés, a fin de dar un manejo integral al bosque natural.
@@ -1320,8 +1142,6 @@ PARÁGRAFO . Para lo dispuesto en el presente artículo, se seguirá el procedim
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.4.4 — Contratos y convenios
 
 Las autoridades ambientales podrán suscribir los contratos y convenios que resulten necesarios, en los términos y condiciones establecidas en las disposiciones legales vigentes.
@@ -1332,15 +1152,11 @@ SUBSECCIÓN 5
 
 OTROS ASPECTOS RELACIONADOS CON EL DERECHO AL MANEJO SOSTENIBLE
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.5.1 — Movilización y comercialización de la flora silvestre y de los productos forestales no maderables
 
 Para la movilización de la flora silvestre y de los productos forestales no maderables en primer grado de transformación, se deberá contar con el salvoconducto único nacional en línea para la movilización de especímenes de la diversidad biológica (SUNL) que expide la autoridad ambiental competente, de conformidad con lo establecido en la Resolución 1909 de 2017, y para su comercialización se atenderá lo dispuesto en la Resolución 1740 de 2016 y demás normas que la modifiquen, sustituyan o deroguen.
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.5.2 — Información sobre manejo sostenible de la flora silvestre y de los productos forestales no maderables
 
@@ -1348,15 +1164,11 @@ Las autoridades ambientales competentes reportarán anualmente al Instituto de H
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.5.3 — Vedas
 
 Para el manejo forestal de especies de la flora silvestre y de los productos forestales no maderables cuyo aprovechamiento, movilización o comercialización se encuentre en veda, la autoridad ambiental competente determinará las condiciones para su otorgamiento e impondrá en el respectivo acto administrativo las medidas que garanticen la conservación de dicha (s) especie (s).
 
 (Sustituido por el Art. 2 del Decreto 690 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.5.4 — Transición
 
@@ -1369,8 +1181,6 @@ No obstante, el usuario podrá solicitar a la autoridad ambiental competente que
 SECCIÓN 11
 
 DE LAS INDUSTRIAS O EMPRESAS FORESTALES
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.1 — Empresas forestales
 
@@ -1394,8 +1204,6 @@ PARÁGRAFO .- La comercialización a que se refiere el presente artículo involu
 
 (Decreto 1791 de 1996 Art.63).
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.2 — Objetivos de las empresas forestales
 
 Las empresas forestales deberán realizar sus actividades teniendo en cuenta, además de las políticas de desarrollo sostenible que para el efecto se definan, los siguientes objetivos;
@@ -1411,8 +1219,6 @@ d) Protección de los recursos naturales renovables y del ambiente, conforme a l
 e) Propiciar el desarrollo tecnológico de los procesos de transformación de productos forestales.
 
 (Decreto 1791 de 1996 Art.64).
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.3 — Libro de operaciones
 
@@ -1438,8 +1244,6 @@ PARÁGRAFO .- El libro a que se refiere el presente artículo deberá ser regist
 
 (Decreto 1791 de 1996, Art.65).
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.4 — 1.4
 
 Informe anual de actividades Toda empresa forestal de transformación primaria, secundaria, de comercialización o integrada que obtenga directa o indirectamente productos de los bosques naturales o de la flora silvestre, presentará un informe anual de actividades ante la Corporación donde tiene domicilio la empresa, relacionando como mínimo lo siguiente:
@@ -1456,8 +1260,6 @@ e) Tipo, uso, destino y cantidad de desperdicios;
 
 (Decreto 1791 de 1996, Art.66).
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.5 — Obligaciones de las empresas
 
 Las empresas de transformación o comercialización deben cumplir además las siguientes obligaciones:
@@ -1469,8 +1271,6 @@ b) Permitir a los funcionarios competentes de las entidades ambientales y admini
 c) Presentar informes anuales de actividades a la entidad ambiental competente.
 
 (Decreto 1791 de 1996 Art.67).
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.6 — Obligación de exigencia de salvoconducto
 
@@ -1487,8 +1287,6 @@ DE LAS PLANTACIONES FORESTALES
 SUBSECCIÓN 1
 
 CLASES
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.1 — Clases de plantaciones forestales y competencias
 
@@ -1508,8 +1306,6 @@ PARÁGRAFO 2. Las autoridades ambientales regionales en el marco de sus competen
 
 SUBSECCIÓN 2
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.2 — Del registro
 
 Las plantaciones forestales protectoras, productoras y protectoras deberán registrarse ante las autoridades ambientales regionales competentes.
@@ -1517,8 +1313,6 @@ Las plantaciones forestales protectoras, productoras y protectoras deberán regi
 El registro se realizará mediante acto administrativo, previa visita y concepto técnico.
 
 PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible implementará el formato único de registro de las Â· plantaciones forestales protectorasÂ­ productoras y protectoras, en un plazo no mayor a seis (6) meses, contado a partir de la vigencia de expedición de la presente Sección.
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.3 — Requisitos para el registro
 
@@ -1536,8 +1330,6 @@ b) Aportar los siguientes documentos:
 
 - Acreditar la propiedad del predio mediante certificado de tradición y libertad con fecha de expedición no superior a treinta (30) días calendario a la fecha de solicitud del registro. En caso de ser arrendatario, deberá presentar la autorización del titular del predio.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.4 — Formación del registro
 
 Para el registro de las plantaciones forestales mencionadas en el artículo 2.2.1.1.12.1. de la sección 12 del presente Decreto, se deberán seguir los siguientes pasos:
@@ -1552,13 +1344,9 @@ La autoridad ambiental regional competente, mediante acto administrativo motivad
 
 El trámite para el registro deberá adelantarse en máximo un mes, a partir de presentada la solicitud por parte del interesado.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.5 — Periodicidad del registro
 
 Las plantaciones forestales protectoras-productoras y protectoras se registrarán por una sola vez ante la autoridad ambiental regional con jurisdicción en el área donde se encuentren ubicadas.
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.6 — Actualización del registro
 
@@ -1572,13 +1360,9 @@ c) Cuando se presente cambio de propietario o tenedor del predio, donde se encue
 
 PARÁGRAFO . La autoridad ambiental regional competente efectuará la actualización del registro, de conformidad con la información que para el efecto allegue su titular y acorde con los pasos para el otorgamiento del registro de plantación.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.7 — Costo del Registro
 
 La expedición del registro para las Plantaciones mencionadas en el artículo 2.2.1.1.12.1 de la sección 12 del presente Decreto, no tendrá ningún costo.
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.8 — Cancelación del registro
 
@@ -1587,8 +1371,6 @@ Mediante solicitud del titular del registro de la plantación se podrá solicita
 SUBSECCIÓN 3
 
 DEL APROVECHAMIENTO
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.9 — Requisitos para el aprovechamiento
 
@@ -1608,19 +1390,13 @@ PARÁGRAFO 1. El aprovechamiento de las cercas vivas y barreras rompevientos, no
 
 En caso de requerir la movilización de los productos derivados sólo será necesaria la obtención del Salvoconducto Único Nacional en línea SUNL, de conformidad con las Resoluciones 1909 de 2017 y 081 de 2018 del Ministerio de Ambiente y Desarrollo Sostenible, o las normas que las sustituyan, modifiquen o deroguen.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.10 — Caminos o carreteables forestales
 
 Los caminos o carreteables forestales necesarios para adelantar el aprovechamiento forestal dentro de las plantaciones forestales protectoras y protectoras - productoras, son parte integrante de estas y no estarán sometidos a permisos o requisitos adicionales, salvo lo dispuesto en el artículo siguiente. Deberán ser descritos en el plan de establecimiento y manejo forestal de la correspondiente plantación y no estarán sometidos a permisos o requisitos adicionales.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.11 — Establecimientos en zonas de servidumbre de proyectos lineales
 
 En las zonas de servidumbre asociadas a proyectos lineales, que ya cuenten con la respectiva licencia ambiental, permiso o autorización de aprovechamiento forestal, no podrán ser establecidas plantaciones forestales protectoras, protectoras - productoras, cercas vivas ni barreras rompevientos, que afecten o impidan la ejecución del proyecto, obra o actividad. En caso que dentro de los proyectos mencionados se establezcan nuevas plantaciones protectoras, protectoras productoras, cercas vivas o barreras rompevientos no podrán ser registradas por la autoridad ambiental competente y para su remoción no se requerirá de permiso u autorización; bastará con radicar un informe a la autoridad ambiental regional competente por parte del interesado.
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.12 — Aprovechamiento de recursos naturales renovables
 
@@ -1630,13 +1406,9 @@ En todo caso, no podrá realizarse la remoción del bosque natural para el estab
 
 PARÁGRAFO . El mantenimiento y rehabilitación de los caminos o carreteables forestales dentro de las plantaciones forestales protectoras y protectoras - productoras, no requerirá tramitar u obtener ante las autoridades ambientales competentes autorizaciones o permisos.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.13 — Especies frutales
 
 Las especies frutales con características leñosas podrán ser objeto de aprovechamiento para obtener productos forestales, caso en el cual requerirán únicamente el Salvoconducto Único Nacional en línea SUNL, de conformidad con las Resoluciones 1909 de 2017 y 081 de 2018 del Ministerio de Ambiente y Desarrollo Sostenible.
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.14 — Aprovechamiento de Árboles Aislados y de sombrío
 
@@ -1644,19 +1416,13 @@ Los árboles aislados podrán ser objeto de aprovechamiento para obtener product
 
 PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible señalará las condiciones y requisitos para el aprovechamiento de los árboles aislados y de sombrío, en un plazo no mayor a seis (6) meses, contados a partir de la vigencia de la presente Sección.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.15 — Aprovechamiento de Especies de flora en veda
 
 Las especies forestales leñosas y de flora vascular y no vascular que se encuentren en veda y que formen parte de plantaciones forestales protectoras, protectoras - productoras, barreras rompevientos y cercas vivas, no requerirán adelantar trámite alguno de levantamiento de veda, para su aprovechamiento, movilización o comercialización.
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.16 — Aprovechamiento de plantaciones establecidas por las autoridades ambientales regionales
 
 Cuando la plantación forestal protectora o protectora - productora, haya sido establecida por una autoridad ambiental regional en predios públicos o privados, en virtud de administración directa o delegada o conjuntamente con personas naturales o jurídicas, públicas o privadas, su registro y aprovechamiento dependerá de la clase de plantación de que se trate, del área donde se encuentre, y del plan o programa previamente establecido.
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.17 — Comercialización y movilización
 
@@ -1668,8 +1434,6 @@ SUBSECCIÓN 4
 
 REPORTE DE INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.18 — Reporte de información
 
 La autoridad ambiental regional competente reportará la información estadística relacionada con las plantaciones forestales, mencionadas en el artículo 2.2.1.1.12.2. del presente Decreto.
@@ -1680,15 +1444,11 @@ SECCIÓN 13
 
 DE LA MOVILIZACIÓN DE PRODUCTOS FORESTALES Y DE LA FLORA SILVESTRE
 
-ARTÍCULO
-
 ## art:2.2.1.1.13.1 — Salvoconducto de Movilización
 
 Todo producto forestal primario de la flora silvestre, que entre, salga o se movilice en territorio nacional, debe contar con un salvoconducto que ampare su movilización desde el lugar de aprovechamiento hasta los sitios de transformación, industrialización o comercialización, o desde el puerto de ingreso al país, hasta su destino final.
 
 (Decreto 1791 de 1996 Art.74).
-
-ARTÍCULO
 
 ## art:2.2.1.1.13.2 — Contenido del salvoconducto
 
@@ -1718,15 +1478,11 @@ Cada salvoconducto se utilizará para transportar por una sola vez la cantidad d
 
 (Decreto 1791 de 1996 Art.75).
 
-ARTÍCULO
-
 ## art:2.2.1.1.13.3 — Solicitud del salvoconducto
 
 Cuando se pretenda aprovechar comercialmente una plantación forestal, árboles de cercas vivas, barreras rompevientos, de sombrío, el titular del registro de la plantación o su representante legal podrá solicitar por escrito a la respectiva Corporación la cantidad de salvoconductos que estime necesario para la movilización de los productos.
 
 (Decreto 1791 de 1996 Art. 76).
-
-ARTÍCULO
 
 ## art:2.2.1.1.13.4 — Renovación del salvoconducto
 
@@ -1736,15 +1492,11 @@ Cuando el titular del salvoconducto requiera movilizar los productos con un dest
 
 (Decreto 1791 de 1996 Art. 77).
 
-ARTÍCULO
-
 ## art:2.2.1.1.13.5 — Titular
 
 Los salvoconductos para movilización de productos forestales o de la flora silvestre se expedirán a los titulares, con base en el acto administrativo que concedió el aprovechamiento.
 
 (Decreto 1791 de 1996 Art. 78).
-
-ARTÍCULO
 
 ## art:2.2.1.1.13.6 — Expedición, cobertura y validez
 
@@ -1752,23 +1504,17 @@ Los salvoconductos para la movilización de los productos forestales o de la flo
 
 (Decreto 1791 de 1996 Art. 79).
 
-ARTÍCULO
-
 ## art:2.2.1.1.13.7 — Obligaciones de transportadores
 
 Los transportadores están en la obligación de exhibir, ante las autoridades que los requieran, los salvoconductos que amparan los productos forestales o de la flora silvestre que movilizan. La evasión de los controles dará lugar a la imposición de las sanciones y medidas preventivas señaladas por la ley.
 
 (Decreto 1791 de 1996 Art.80)
 
-ARTÍCULO
-
 ## art:2.2.1.1.13.8 — Características salvoconductos
 
 Los salvoconductos no son documentos negociables ni transferibles. Cuando con ellos se amparen movilizaciones de terceros, de otras áreas o de otras especies diferentes a las permitidas o autorizadas, el responsable se hará acreedor de las acciones y sanciones administrativas y penales a que haya lugar.
 
 (Decreto 1791 de 1996 Art.81).
-
-ARTÍCULO
 
 ## art:2.2.1.1.13.9 — Importación o introducción
 
@@ -1777,8 +1523,6 @@ La importación o introducción al país de individuos o productos de la flora s
 PARÁGRAFO .- Al Ministerio de Ambiente y Desarrollo Sostenible le corresponde la expedición de las certificaciones o permisos (CITES) cuando se trate de importar, exportar o reexportar especies o individuos que lo requieran.
 
 (Decreto 1791 de 1996 Art.82).
-
-ARTÍCULO
 
 ## art:2.2.1.1.13.10 — Protección sanitaria de la flora y de los bosques
 
@@ -1790,8 +1534,6 @@ SECCIÓN 14.
 
 CONTROL Y VIGILANCIA.
 
-ARTÍCULO
-
 ## art:2.2.1.1.14.1 — Función de control y vigilancia
 
 De conformidad con la
@@ -1800,15 +1542,11 @@ Ley 99 de 1993, corresponde a las Corporaciones, a las autoridades ambientales d
 
 (Decreto 1791 de 1996 Art.84).
 
-ARTÍCULO
-
 ## art:2.2.1.1.14.2 — Deber de colaboración
 
 El propietario del predio sobre el cual se pretenda realizar una visita técnica por parte de funcionario competente, deberá suministrar la información y los documentos necesarios para la práctica de la diligencia.
 
 (Decreto 1791 de 1996Art.85).
-
-ARTÍCULO
 
 ## art:2.2.1.1.14.3 — Control y seguimiento
 
@@ -1820,23 +1558,17 @@ SECCIÓN 15.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.1.1.15.1 — Régimen Sancionatorio
 
 El régimen sancionatorio aplicable por violación de las normas sobre protección o manejo de la flora silvestre o de los bosques, será el establecido en la Ley 1333 de 2009 la norma que lo modifique, derogue o sustituya.
 
 (Decreto 1791 de 1996 Art.87).
 
-ARTÍCULO
-
 ## art:2.2.1.1.15.2 — Condiciones adicionales
 
 Las Corporaciones, dentro de la órbita de sus funciones, competencias y principios establecidos en la Ley 99 de 1993, podrán establecer condiciones adicionales a las contempladas en este Decreto con el fin de proteger los bosques y la flora silvestre que por sus características especiales así lo requieran.
 
 (Decreto 1791 de 1996 Art.89).
-
-ARTÍCULO
 
 ## art:2.2.1.1.15.3 — Trámite de Licencia ambiental
 
@@ -1847,8 +1579,6 @@ Las normas y procedimientos establecidos en el presente decreto no se aplicarán
 SECCIÓN 16.
 
 CENTROS DE CONSERVACIÓN EX SITU, JARDINES BOTÁNICOS
-
-ARTÍCULO
 
 ## art:2.2.1.1.16.1 — Requisitos para la obtención del permiso ambiental
 
@@ -1866,15 +1596,11 @@ Para la obtención del permiso ambiental de los jardines botánicos de que trata
 
 (Decreto 331 de 1998 Art.1).
 
-ARTÍCULO
-
 ## art:2.2.1.1.16.2 — Competencia del Ministerio de Ambiente y Desarrollo Sostenible
 
 En caso de que la autoridad ambiental competente para otorgar el permiso de que trata el artículo anterior esté asociada al jardín botánico, dicho permiso deberá ser otorgado por el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 331 de 1998 Art.2).
-
-ARTÍCULO
 
 ## art:2.2.1.1.16.3 — Concepto
 
@@ -1890,15 +1616,11 @@ Para emitir el concepto previo de que trata el numeral 4 del artículo 2.2.1.1.1
 
 (Decreto 331 de 1998, Art.3).
 
-ARTÍCULO
-
 ## art:2.2.1.1.16.4 — Término para la expedición del permiso
 
 Recibida la solicitud con el lleno de los requisitos legales, la autoridad ambiental competente deberá otorgar o negar el permiso, mediante resolución motivada, dentro de los treinta (30) días hábiles siguientes.
 
 (Decreto 331 de 1998, Art.4).
-
-ARTÍCULO
 
 ## art:2.2.1.1.16.5 — Seguimiento
 
@@ -1906,15 +1628,11 @@ Los jardines botánicos deberán remitir a la autoridad ambiental que expidió e
 
 (Decreto 331 de 1998, Art.5).
 
-ARTÍCULO
-
 ## art:2.2.1.1.16.6 — Suspensión y cancelación
 
 El permiso podrá ser suspendido o cancelado mediante resolución motivada por la autoridad ambiental que le otorgó, de oficio o a petición de parte, cuando el jardín botánico haya incumplido las obligaciones señaladas en la ley o en sus reglamentos y según la gravedad de la infracción.
 
 (Decreto 331 de 1998, Art.6).
-
-ARTÍCULO
 
 ## art:2.2.1.1.16.7 — Acceso a recursos genéticos
 
@@ -1928,8 +1646,6 @@ Decisión, el Ministerio de Ambiente y Desarrollo Sostenible podrá celebrar con
 
 (Decreto 331 de 1998, Art. 7).
 
-ARTÍCULO
-
 ## art:2.2.1.1.16.8 — Formas de participación del Estado
 
 Las entidades estatales podrán participar en los planes, programas y proyectos de interés público que adelanten los jardines botánicos bajo las siguientes modalidades:
@@ -1940,15 +1656,11 @@ Las entidades estatales podrán participar en los planes, programas y proyectos 
 
 (Decreto 331 de 1998, Art.8).
 
-ARTÍCULO
-
 ## art:2.2.1.1.16.9 — Exención de impuestos
 
 Para la aplicación de las exoneraciones de que tata el artículo 14 de la Ley 299 de 1996 a los terrenos de propiedad de los jardines botánicos o destinados a estos fines, la Corporación Autónoma Regional o de Desarrollo Sostenible o la autoridad ambiental del municipio, distrito o área metropolitana cuya población urbana sea superior a 1.000.000 de habitantes con jurisdicción en el área de ubicación del jardín botánico, deberá conceptuar acerca del cumplimiento de las actividades de conservación ambiental por parte de éstos. Dicho concepto deberá acompañarse de una memoria técnica y científica y apoyarse en documentos cartográficos.
 
 (Decreto 331 de 1998, Art.9).
-
-ARTÍCULO
 
 ## art:2.2.1.1.16.10 — Expedición botánica permanente
 
@@ -1964,8 +1676,6 @@ SECCIÓN 17
 
 PRIORIDADES PARA EL USO DEL RECURSO FORESTAL
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.1 — Destinación
 
 El recurso forestal se destinará en principio a satisfacer las siguientes necesidades:
@@ -1978,23 +1688,17 @@ c) Las de atención a los requerimientos de la industria, de acuerdo con los pla
 
 (Decreto 877 de 1976, Art. 1).
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.2 — Aprovechamiento persistente
 
 Prioridades para el aprovechamiento del recurso forestal. En las áreas de reserva forestal solo podrá permitirse el aprovechamiento persistente de los bosques.
 
 (Decreto 877 de 1976, Art. 2).
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.3 — Reserva forestal
 
 Para los efectos del Artículo anterior, el territorio nacional se considera dividido en las áreas de reserva forestal establecidas por las leyes 52 de 1948 y 2a de 1959 y los decretos 2278 de 1953 y 0111 de 1959, exceptuando las zonas sustraídas con posterioridad. Se tendrán también como áreas de reserva forestal las establecidas o que se establezcan con posterioridad a las disposiciones citadas.
 
 (Decreto 877 de 1976, Art. 3).
-
-ARTÍCULO
 
 ## art:2.2.1.1.17.4 — Permiso único
 
@@ -2004,15 +1708,11 @@ Para dicha sustracción se requiere la solicitud previa Ministerio de Ambiente y
 
 (Decreto 877 de 1976, Art. 4).
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.5 — Limitaciones y condiciones al aprovechamiento forestal
 
 La autoridad ambiental competente, con base en los estudios realizados sobre áreas concretas, directamente por él o un interesado en adelantar un aprovechamiento forestal, determinará las limitaciones y condiciones al aprovechamiento forestal en las áreas forestales protectoras, protectoras - productoras y productoras que se encuentren en la zona.
 
 (Decreto 877 de 1976, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.1.17.6 — Áreas forestales protectoras
 
@@ -2038,15 +1738,11 @@ i) Las que por la abundancia y variedad de la fauna silvestre acuática y terres
 
 (Decreto 877 de 1976, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.7 — Plan de ordenación forestal
 
 Cuando con anterioridad al 13 de mayo de 1976 hubiere dado aprobación a un Plan de Ordenación Forestal en áreas que presenten las características señaladas en los literales a y b del Artículo 7 tales áreas podrán ser objeto de aprovechamiento forestal persistente, siempre y cuando el usuario del recurso de cumplimiento a las prácticas protectoras previstas en el concepto técnico aprobatorio del Plan de Ordenación Forestal.
 
 (Decreto 877 de 1976, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.1.17.8 — Áreas forestales protectoras - productoras
 
@@ -2064,8 +1760,6 @@ e) Todas las tierras que por sus condiciones de suelo hagan predominante el car�
 
 (Decreto 877 de 1976, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.9 — Áreas Forestales productoras
 
 Se consideran áreas forestales productoras:
@@ -2078,8 +1772,6 @@ c) Las áreas que estando o no cubiertas de bosques, se consideren aptas para el
 
 (Decreto 877 de 1976, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.10 — Prioridades
 
 De conformidad con lo establecido por los Artículos 56, 220 y 234 del decreto-ley 2811 de 1974, la autoridad ambiental competente, al otorgar permisos o concesiones de aprovechamiento forestal, tendrá en cuenta las siguientes prioridades:
@@ -2091,8 +1783,6 @@ b) El haber establecido la plantación forestal industrial sobre el área objeto
 c) El tener mayor proporción de capital nacional.
 
 (Decreto 877 de 1976, Art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.1.17.11 — Criterios para elección de solicitantes
 
@@ -2114,8 +1804,6 @@ f) Atención a las necesidades vitales de los moradores de la región con el fin
 
 (Decreto 877 de 1976, Art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.1.17.12 — Elección entre varias solicitudes de permiso
 
 Cuando haya lugar a elección entre varias solicitudes de permiso de aprovechamiento forestal, se considerarán como formuladas simultáneamente las peticiones presentadas al Ministerio de Ambiente y Desarrollo Sostenible, dentro de los treinta (30) días hábiles, contados a partir de la fecha en la cual se haya publicado el aviso de la primera solicitud.
@@ -2125,8 +1813,6 @@ Cuando haya lugar a elección entre varias solicitudes de permiso de aprovechami
 SECCIÓN 18
 
 CONSERVACIÓN DE LOS RECURSOS NATURALES EN PREDIOS RURALES
-
-ARTÍCULO
 
 ## art:2.2.1.1.18.1 — Protección y aprovechamiento de las aguas
 
@@ -2154,8 +1840,6 @@ En relación con la conservación, protección y aprovechamiento de las aguas, l
 
 (Decreto 1449 de 1977, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.18.2 — Protección y conservación de los bosques
 
 En relación con la protección y conservación de los bosques, los propietarios de predios están obligados a:
@@ -2176,8 +1860,6 @@ c) Los terrenos con pendientes superiores al 100% (45).
 
 (Decreto 1449 de 1977, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.18.3 — Disposiciones sobre Cobertura forestal
 
 Los propietarios de predios de más de 50 hectáreas deberán mantener en cobertura forestal por lo menos un 10% de su extensión, porcentaje que podrá variar el Ministerio de Ambiente y Desarrollo Sostenible cuando lo considere conveniente.
@@ -2186,8 +1868,6 @@ Para establecer el cumplimiento de esta obligación se tendrá en cuenta la cobe
 
 (Decreto 1449 de 1977, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.1.18.4 — Disposiciones sobre Cobertura forestal
 
 En terrenos baldíos adjudicados mayores de 50 hectáreas el propietario deberá mantener una proporción de 20% de la extensión del terreno en cobertura forestal. Para establecer el cumplimiento de esta obligación se tendrán en cuenta las mismas áreas previstas en el artículo anterior.
@@ -2195,8 +1875,6 @@ En terrenos baldíos adjudicados mayores de 50 hectáreas el propietario deberá
 El Ministerio de Ambiente y Desarrollo Sostenible podrá variar este porcentaje cuando lo considere conveniente.
 
 (Decreto 1449 de 1977, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.1.18.5 — Protección y conservación de fauna terrestre y acuática
 
@@ -2222,8 +1900,6 @@ d) La caza y pesca de especies vedadas o en tiempo o áreas vedadas, o con méto
 
 (Decreto 1449 de 1977, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.1.18.6 — Protección y Conservación de suelos
 
 En relación con la protección y conservación de los suelos, los propietarios de predios están obligados a:
@@ -2241,8 +1917,6 @@ En relación con la protección y conservación de los suelos, los propietarios 
 6. Proteger y mantener la cobertura vegetal a lado y lado de las acequias en una franja igual a dos veces al ancho de la acequia.
 
 (Decreto 1449 de 1977, Art. 7).
-
-ARTÍCULO
 
 ## art:2.2.1.1.18.7 — Obligaciones generales
 
@@ -2264,15 +1938,11 @@ SUBSECCIÓN 1
 
 ASPECTOS PREVIOS
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.1.1 — Objeto
 
 La presente Sección tiene por objeto establecer los mecanismos para (i) el saneamiento automático en la adquisición de inmuebles por motivos de utilidad pública y, (ii) la compra de mejoras al interior de las áreas del Sistema de Parques Nacionales Naturales (SPNN).
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.1.2 — Procedencia
 
@@ -2283,8 +1953,6 @@ El saneamiento automático podrá invocarse cuando la entidad estatal, en el pro
 La compra de mejoras procederá siempre que se verifique el cumplimiento de los requisitos del numeral 2 del artículo 8 de la Ley 1955 de 2019.
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.1.3 — Definiciones
 
@@ -2302,8 +1970,6 @@ SUBSECCIÓN 2
 
 DEL SANEAMIENTO AUTOMÁTICO
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.2.1 — Estudio jurídico del saneamiento automático
 
 Cuando se advierta la necesidad de aplicar el saneamiento, en el marco de los procesos de compra se realizará un estudio jurídico del predio por parte de las entidades estatales interesadas, acompañado de un estudio ecológico y de conveniencia realizado por Parques Nacionales Naturales de Colombia, de conformidad con los instrumentos de planeación y manejo de las áreas del sistema.
@@ -2314,8 +1980,6 @@ PARÁGRAFO En el evento en que no se alcance un acuerdo para la adquisición vol
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.2.2 — Inscripción de la intención de saneamiento automático
 
 La Entidad interesada en adelantar el saneamiento automático solicitará a la Oficina de Registro de Instrumentos Públicos competente la inscripción de la intención del Estado de adelantar el saneamiento, con el fin de garantizar el debido proceso y la oponibilidad de terceros. Para tal efecto se inscribirá en la columna 09 Otros del folio de matrícula inmobiliaria del predio, la intención de adelantar dicho saneamiento.
@@ -2324,23 +1988,17 @@ PARÁGRAFO . En la solicitud a la Oficina de Registro de Instrumentos Públicos 
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.2.3 — Oponibilidad
 
 Quien tenga inscritos derechos reales que afecten el dominio sobre el predio podrá oponerse al saneamiento automático hasta antes de que se emita decisión de fondo, la cual deberá ser resuelta mediante acto administrativo motivado que se notificará a los interesados de conformidad con lo consagrado en el Código de Procedimiento Administrativo y de lo Contencioso (CPACA).
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.2.4 — Reconocimiento pecuniario
 
 Sin perjuicio del saneamiento automático, las personas que consideren tener un derecho sobre el inmueble podrán solicitar administrativamente o judicialmente las acciones indemnizatorias que procedan según la ley.
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.2.5 — Declaratoria del proceso de saneamiento automático
 
@@ -2350,15 +2008,11 @@ PARÁGRAFO . Contra la decisión proceden los recursos consagrados en el Código
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.2.6 — Actualización catastral
 
 La autoridad catastral deberá actualizar la información existente en sus bases de datos o abrirá la nueva ficha predial si el predio carece de identidad catastral, en un término no mayor de dos (2) meses siguientes a la inscripción de la decisión de saneamiento automático.
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.2.7 — Efectos jurídicos del acto administrativo de saneamiento automático en el folio de matrícula inmobiliaria
 
@@ -2369,8 +2023,6 @@ En el acto administrativo que decide el saneamiento automático, se dispondrá c
 SUBSECCIÓN 3
 
 DE LA COMPRA DE MEJORAS
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.3.1 — Procedencia
 
@@ -2390,15 +2042,11 @@ PARÁGRAFO 2. Para proceder al reconocimiento y pago de indemnizaciones o mejora
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.3.2 — Colaboración entre entidades
 
 En los casos en los que se requiera, se realizará la caracterización de los predios y de los sujetos beneficiarios de la compra de mejoras, a través de procesos de articulación interinstitucional de conformidad con la normativa vigente que regule la materia para cada entidad.
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.3.3 — Oferta de compra de mejoras
 
@@ -2408,23 +2056,17 @@ PARÁGRAFO . El mejoratario deberá informar si acepta o no la oferta de compra 
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.3.4 — Obligaciones del mejoratario
 
 Además de las condiciones generales de la compraventa de mejoras se indicará: i) Compromiso de no retorno al predio objeto de compraventa de mejoras; ii) Condiciones de pago; iii) condiciones de entrega del predio.
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.19.3.5 — Perfeccionamiento
 
 La compraventa de mejoras se elevará a escritura pública.
 
 (Adicionado por el Art. 1 del Decreto 1785 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19.3.6 — Disposiciones relativas al avalúo para el saneamiento automático y la compra de mejoras
 
@@ -2440,23 +2082,17 @@ SECCIÓN 1
 
 OBJETIVOS Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1 — Objeto
 
 El presente Capítulo desarrolla el Código Nacional de los Recursos Naturales Renovables y de Protección al Medio Ambiente en materia de fauna silvestre y reglamenta por tanto las actividades que se relacionan con este recurso y con sus productos.
 
 (Decreto 1608 de 1978 Art.1).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2 — Utilidad pública e interés social
 
 De acuerdo con lo establecido por el artículo primero del Código Nacional de los Recursos Naturales Renovables y de Protección al Medio Ambiente, las actividades de preservación y manejo de la fauna silvestre son de utilidad pública e interés social.
 
 (Decreto 1608 de 1978 Art.2).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3 — Reglamentación
 
@@ -2498,15 +2134,11 @@ b. El régimen de los territorios fáunicos, reservas de caza y de los zoocriade
 
 (Decreto 1608 de 1978, Art.3).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4 — Concepto
 
 De acuerdo con el artículo 249 del Decreto Ley 2811 de 1974, por fauna silvestre se entiende el conjunto de animales que no han sido objeto de domesticación, mejoramiento genético o cría y levante regular, o que han regresado a su estado salvaje, excluidos los peces y todas las demás especies que tienen su ciclo total de vida dentro del medio acuático.
 
 (Decreto 1608 de 1978 Art.4).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.5 — Ámbito de aplicación
 
@@ -2514,23 +2146,17 @@ El manejo de especies tales como cetáceos, sirenios, pinípedos, aves marinas y
 
 (Decreto 1608 de 1978 Art.5).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.6 — Propiedad y limitaciones
 
 En conformidad con el artículo 248 del Decreto Ley 2811 de 197 4, la fauna silvestre que se encuentra en el territorio nacional pertenece a la nación, salvo las especies de zoocriaderos y cotos de caza de propiedad particular; pero en este caso los propietarios están sujetos a las limitaciones y demás disposiciones establecidas en el Código Nacional de los Recursos Naturales Renovables y de Protección al Medio Ambiente, en este decreto y en las disposiciones que los desarrollen.
 
 (Decreto 1608 de 1978 Art.6).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.7 — Dominio de la nación
 
 El dominio que ejerce la nación sobre la fauna silvestre conforme al Decreto Ley 2811 de 197 4, no implica que el Estado pueda usufructuar este recurso como bien fiscal, sino que a él corresponde a través de sus entes especializados su administración y manejo.
 
 (Decreto 1608 de 1978 Art. 7).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.8 — Aplicación
 
@@ -2542,15 +2168,11 @@ SECCIÓN 2.
 
 ADMINISTRACIÓN Y MANEJO DE LA FAUNA SILVESTRE
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Función Ministerio de Ambiente y Desarrollo Sostenible
 
 El Ministerio de Ambiente y Desarrollo Sostenible deberá formular la política ambiental y colaborar en la coordinación de su ejecución cuando esta corresponda a otras entidades.
 
 (Decreto 1608 de 1978 Art.9).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2 — Competencia En materia de fauna silvestre, a las autoridades ambientales compete su administración y manejo
 
@@ -2558,15 +2180,11 @@ A nivel nacional, y a nivel regional, a las entidades a quienes por ley haya sid
 
 (Decreto 1608 de 1978 Art.10).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3 — Finalidad
 
 Para los fines de este capítulo bajo la denominación «Entidad Administradora» se entenderá tanto al Ministerio de Ambiente y Desarrollo Sostenible, como a las corporaciones regionales a quienes por ley se haya asignado la función de administrar este recurso; cuando sólo se haya asignado la función de promover o preservar la fauna silvestre, la competencia no es extensiva al otorgamiento de permisos, licencias y autorizaciones y demás regulaciones relativas al aprovechamiento del recurso.
 
 (Decreto 1608 de 1978 Art. 11).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.4 — Competencia privativa
 
@@ -2578,15 +2196,11 @@ SECCIÓN 3
 
 REGLAS ESPECIALES PARA LA PROTECCIÓN Y MANEJO DE LA FAUNA SILVESTRE
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1 — Administración y manejo
 
 La administración y manejo de la fauna silvestre deberán estar orientados a lograr los objetivos previstos por el artículo 2o del Código Nacional de los Recursos Naturales Renovables y de Protección al Medio Ambiente, para lo cual se tendrán en cuenta las reglas y principios que ese mismo estatuto establece y los que se relacionan en este capítulo.
 
 (Decreto 1608 de 1978 Art.13).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2 — Garantía de principios
 
@@ -2594,15 +2208,11 @@ Para garantizar el reconocimiento del principio según el cual los recursos natu
 
 (Decreto 1608 de 1978 Art.14).
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3 — Áreas de reserva
 
 Cuando sea necesario adelantar programas especiales de restauración, conservación o preservación de especies de la fauna silvestre, la entidad administradora podrá delimitar y crear áreas de reserva que conforme a los artículos 253 y 255 del Decreto Ley 2811 de 1974 se denominarán territorios fáunicos o reservas de caza.
 
 (Decreto 1608 de 1978 Art. 18).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.4 — Territorio fáunico
 
@@ -2612,15 +2222,11 @@ La entidad administradora establecerá para cada una de estas áreas los planes 
 
 (Decreto 1608 de 1978 Art.19).
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.5 — Declaratoria
 
 Además de las reservas a que se refieren los artículos anteriores se podrán declarar como protectoras áreas forestales, cuando sea necesario para proteger especies en vías de extinción.
 
 (Decreto 1608 de 1978 Art.20).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.6 — 3.6
 
@@ -2630,15 +2236,11 @@ En toda actividad que se pretenda adelantar en áreas del Sistema de Parques Nac
 
 (Decreto 1608 de 1978 Art. 21).
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.7 — Vedas
 
 Con el fin de preservar y proteger la fauna silvestre la entidad administradora podrá imponer vedas temporales o periódicas o prohibiciones permanentes de caza. Cuando las necesidades de preservación o protección de la fauna silvestre a nivel nacional así lo requieran, el Ministerio de Ambiente y Desarrollo Sostenible promoverá la adopción por parte de las entidades regionales de prohibiciones o vedas y de mecanismos coordinados de control para garantizar el cumplimiento de la medida.
 
 (Decreto 1608 de 1978 Art.22).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.8 — Levantamiento de veda
 
@@ -2646,15 +2248,11 @@ Las vedas o prohibiciones que se establezcan conforme a los artículos anteriore
 
 (Decreto 1608 de 1978 Art. 23).
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.9 — Otras declaratorias
 
 Con las mismas finalidades previstas en los artículos anteriores, la entidad administradora podrá declarar especies, ejemplares o individuos que requieran un tipo especial de manejo y señalará la norma y prácticas de protección y conservación a las cuales estará obligada toda persona natural o jurídica, pública o privada y en especial los propietarios, poseedores o tenedores a cualquier título de predios en los cuales se encuentren tales especies, ejemplares o individuos o tengan su medio u hospedaje.
 
 (Decreto 1608 de 1978 Art.24).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.10 — Implicaciones de la Veda
 
@@ -2662,15 +2260,11 @@ El establecimiento de una veda o prohibición de cazar individuos de la fauna si
 
 (Decreto 1608 de 1978 Art.25).
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.11 — Registro
 
 La entidad administradora llevará un registro o inventario estricto del número de ejemplares y productos que se permite obtener en cada permiso, especialmente en el de caza comercial, de tal suerte que en todo momento se pueda disponer de estos datos para efectos del control, particularmente cuando se establezca una veda o prohibición.
 
 (Decreto 1608 de 1978 Art.26).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.12 — Tasas por aprovechamiento
 
@@ -2678,15 +2272,11 @@ En conformidad con lo dispuesto en el artículo 18 del Decreto Ley 2811 de 1974,
 
 (Decreto 1608 de 1978 Art.27).
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.13 — Obligaciones entidades administradoras
 
 Cuando la entidad administradora pretenda adelantar directamente el aprovechamiento del recurso, está igualmente obligada a realizar los estudios ambientales pertinentes.
 
 (Decreto 1608 de 1978 Art.28).
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.14 — Fomento
 
@@ -2698,15 +2288,11 @@ SECCIÓN 4.
 
 DEL APROVECHAMIENTO DE LA FAUNA SILVESTRE Y DE SUS PRODUCTOS - PRESUPUESTOS PARA EL APROVECHAMIENTO
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.1 — Eficiencia en el aprovechamiento
 
 El aprovechamiento de la fauna silvestre y de sus productos debe hacerse en forma eficiente observando las disposiciones del Decreto Ley 2811 de 1974 y de este decreto y las regulaciones que en su desarrollo establezca la entidad administradora para cada clase de uso.
 
 (Decreto 1608 de 1978 Art.30).
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2 — Modos de aprovechamiento
 
@@ -2716,15 +2302,11 @@ La caza de subsistencia no requiere permiso pero deberá practicarse en forma ta
 
 (Decreto 1608 de 1978 Art.31).
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.3 — Permiso, autorizaciones o licencias
 
 Los permisos, autorizaciones o licencias para el aprovechamiento de ejemplares o productos de la fauna silvestre son personales e intransmisibles y no autorizan el ejercicio de actividades cuyo control corresponda a otras entidades o agencias del Estado, ni menos aún la extracción de elementos, productos o bienes cuya vigilancia y control corresponda a ellas.
 
 (Decreto 1608 de 1978 Art.32).
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.4 — Características
 
@@ -2738,23 +2320,17 @@ SECCIÓN 5.
 
 EJERCICIO DE LA CAZA Y DE LAS ACTIVIDADES DE LA CAZA
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.1 — Concepto
 
 Entiéndase por caza todo acto dirigido a la captura de animales silvestres ya sea dándoles muerte, mutilándolos o atrapándolos vivos y la recolección de sus productos. Se comprende bajo la acción genérica de cazar todo medio de buscar, perseguir, acosar, aprehender o matar individuos o especímenes de la fauna silvestre o recolectar sus productos.
 
 (Decreto 1608 de 1978 Art.54).
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.2 — Actividades de caza
 
 Son actividades de caza o relacionadas con ella, la cría o captura de individuos, especímenes de la fauna silvestre y ja recolección, transformación, procesamiento, transporte, almacenamiento y comercialización de los mismos o de sus productos.
 
 (Decreto 1608 de 1978 Art.55).
-
-ARTÍCULO
 
 ## art:2.2.1.2.5.3 — 5.3
 
@@ -2772,8 +2348,6 @@ Tampoco pueden ser objeto de caza individuos, especímenes o productos, fuera de
 
 (Decreto 1608 de 1978 Art.56).
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.4 — Ejercicio de la caza
 
 Para el ejercicio de la caza se requiere permiso, el cual, atendiendo a la clasificación de caza que establece el artículo 252 del Decreto Ley 2811 de 1974, podrá ser de las siguientes clases:
@@ -2788,8 +2362,6 @@ Para el ejercicio de la caza se requiere permiso, el cual, atendiendo a la clasi
 
 (Decreto 1608 de 1978 Art.57).
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.5 — Uso de armas
 
 Solo se podrán utilizar con fines de caza las armas, pertrechos y dispositivos que determine la entidad administradora. Cuando el ejercicio de la caza requiera el uso de armas y municiones, su adquisición y tenencia lícitas, conforme a las leyes y reglamentos que regulan el comercio, porte y uso de armas, es condición indispensable que debe acreditar quien solicite el permiso.
@@ -2800,23 +2372,17 @@ SECCIÓN 6
 
 DEL EJERCICIO DE LA CAZA COMERCIAL Y SUS ACTIVIDADES CONEXAS
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.1 — Pérdida de Vigencia
 
 Cuando se establezca una veda o prohibición o cuando se incorporen áreas al Sistema de Parques Nacionales Naturales, se creen territorios fáunicos o cuando se reserve el recurso conforme lo establece el artículo 47 del Decreto-Ley 2811 de 1974, los permisos de caza otorgados pierden su vigencia y por consiguiente sus titulares no pueden ampararse en ellos para capturar individuos o productos de la fauna silvestre o para recolectar sus productos.
 
 (Decreto 1608 de 1978 Art. 70).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.2 — Inventarios
 
 Quienes en ejercicio de un permiso de caza comercial o de sus actividades conexas hubieren obtenido, con arreglo a tal permiso, con anterioridad al establecimiento de una veda o prohibición, individuos o productos de una especie comprendida en la medida, deberán presentar un inventario que contenga la relación exacta de existencias al momento de establecerse la prohibición o veda.
 
 (Decreto 1608 de 1978 Art. 71).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.3 — Salvoconducto especial
 
@@ -2825,8 +2391,6 @@ Solamente con respecto a los individuos y productos que se incluyan en el invent
 Se practicará el decomiso de todo individuo o producto que no haya sido incluido en el inventario en el término y con los requisitos que determine la entidad administradora, o que habiéndolo sido se comercialicen fuera del término establecido para ello.
 
 (Decreto 1608 de 1978 Art. 72).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.4 — Comercialización
 
@@ -2843,8 +2407,6 @@ Quienes se dediquen a la comercialización de individuos o productos de la fauna
 5. Destino de la comercialización, esto es, sí los individuos o productos van al mercado nacional o a la exportación.
 
 (Decreto 1608 de 1978 Art.73).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.5 — Datos adicionales en plan de actividades
 
@@ -2866,15 +2428,11 @@ Las personas naturales o jurídicas que se dediquen a la transformación o proce
 
 (Decreto 1608 de 1978 Art. 74).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.6 — Registro
 
 Quienes se dediquen a la taxidermia por encargo y no comercialicen las piezas taxidermizadas deberán registrarse ante la entidad administradora del recurso suministrando su nombre, domicilio e identificación y la localización del taller y del depósito. Están obligados a llevar el libro a que se refiere el 2.2.1.2.6.14 este capítulo, a cumplir las obligaciones establecidas en los artículos 2.2.1.2.6.15, 2.2.1.2.6.16 y 2.2.1.2.6.17, de este decreto.
 
 (Decreto 1608 de 1978 Art. 75).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.7 — Inventarios
 
@@ -2882,15 +2440,11 @@ Cuando se declare una veda o prohibición para el ejercicio de la caza, los titu
 
 (Decreto 1608 de 1978 Art. 76).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.8 — Solicitud
 
 Las personas que se dediquen tanto a la captura o recolección de individuos o productos de la fauna silvestre como a su transformación o a su comercialización, deberán incluir en la solicitud y en el plan de actividades los datos y documentos que se exigen para cada una de tales actividades, sin que sea necesario repetir los datos que sean comunes a todas ellas.
 
 (Decreto 1608 de 1978 Art.77).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.9 — Efectos de la veda
 
@@ -2902,8 +2456,6 @@ Para poder comercializar o transformar individuos o productos obtenidos legalmen
 
 (Decreto 1608 de 1978 Art. 78).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.10 — Permiso de caza comercial con fines científicos
 
 Se requiere permiso de caza comercial para la obtención de individuos o productos de la fauna silvestre con fines exclusivamente científicos de empresas o entidades extranjeras.
@@ -2912,15 +2464,11 @@ Para que se le otorgue el permiso, el interesado deberá anexar a la solicitud a
 
 (Decreto 1608 de 1978 Art. 79).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.11 — Exportación de individuos o productos
 
 La exportación de los individuos o productos, que se obtengan en el ejercicio de este permiso, está sujeta al cumplimiento de los requisitos y trámites, establecidos por el artículo 261 del Decreto-Ley 2811 de 1974 y por este capítulo.
 
 (Decreto 1608 de 1978 Art. 80).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.12 — Personas extranjeras
 
@@ -2928,15 +2476,11 @@ Las personas naturales o jurídicas extranjeras para obtener permiso de caza com
 
 (Decreto 1608 de 1978 Art.81).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.13 — Ejercicio
 
 El ejercicio de la caza comercial no confiere al titular del permiso derecho alguno que limite o impida el ejercicio de la caza a otras personas autorizadas en la misma zona, comprendidas entre estas últimas, aquellas que ejercen la caza por ministerio de la ley.
 
 (Decreto 1608 de 1978 Art.82).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.14 — Libro de Registro
 
@@ -2956,15 +2500,11 @@ Las personas naturales o jurídicas que se dediquen a la comercialización o al 
 
 (Decreto 1608 de 1978 Art.83).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.15 — Obligaciones
 
 Las personas de que se trata este capítulo deberán permitir las visitas de control de existencias y exhibir el libro a que se refiere el artículo anterior y demás documentos que le sean exigidos por los funcionarios de la entidad administradora facultados para ello.
 
 (Decreto 1608 de 1978 Art.84).
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.16 — Prohibiciones
 
@@ -2976,8 +2516,6 @@ Las personas a que se refieren los artículos anteriores se abstendrán de obten
 
 (Decreto 1608 de 1978 Art.85).
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.17 — Informe de actividades
 
 El titular del permiso de caza comercial o para ejercer actividades conexas a ella, incluida la taxidermia, deberá presentar durante su desarrollo y al término del mismo un informe de actividades y de los resultados obtenidos, en la forma que establezca la entidad administradora.
@@ -2988,15 +2526,11 @@ SECCIÓN 7.
 
 CAZA COMERCIAL
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.1 — Ámbito
 
 La presente sección el Código Nacional de los Recursos Naturales y de la Protección al Medio Ambiente, la Ley 99 de 1993 y la Ley 611 de 2000 en lo concerniente con las actividades de caza comercial.
 
 (Decreto 4688 de 2005 Art. 1).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.2 — Definición
 
@@ -3005,8 +2539,6 @@ Se entiende por caza comercial la que se realiza por personas naturales o juríd
 PARÁGRAFO . Para efectos del presente decreto se entiende por especímenes, los animales vivos o muertos, sus partes, productos o derivados.
 
 (Decreto 4688 de 2005 Art.2).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.3 — Del ejercicio de la caza comercial
 
@@ -3032,15 +2564,11 @@ PARÁGRAFO 3. Cuando se pretenda realizar actividades que involucren acceso a lo
 
 (Decreto 4688 de 2005 Art.3).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.4 — Del estudio de impacto ambiental
 
 El estudio de impacto ambiental que debe aportar el interesado en obtener licencia ambiental para adelantar las actividades de caza comercial, deberá corresponder en su contenido y especificidad a las características y entorno del proyecto conforme a las directrices que para el efecto establezca el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 4688 de 2005 Art.4).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.5 — De la decisión
 
@@ -3070,8 +2598,6 @@ PARÁGRAFO . La licencia ambiental no podrá tener un término superior a cinco 
 
 (Decreto 4688 de 2005 Art. 5).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.6 — De la cuota de aprovechamiento
 
 La cuota de aprovechamiento deberá ser establecida de manera anual por la corporación autónoma regional competente y deberá contemplar la cantidad y descripción de los especímenes a capturar o recolectar y las características de los individuos afectados, tales como sexo, talla, entre otros.
@@ -3086,23 +2612,17 @@ PARÁGRAFO 2. Las cuotas de aprovechamiento deberán asignarse de manera tal que
 
 (Decreto 4688 de 2005 Art.6).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.7 — Del plazo
 
 El plazo para realizar las faenas de caza será definido en cada caso por la autoridad ambiental competente de acuerdo al ciclo biológico de la especie y a los resultados de los estudios poblacionales efectuados. En todo caso, este no podrá ser superior a dos (2) meses en cada año.
 
 (Decreto 4688 de 2005 Art. 7).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.8 — Del libro de registro
 
 El titular de la licencia ambiental deberá registrar ante la autoridad ambiental competente un libro en el cual consignará como mínimo las actividades de caza realizadas, el número de especímenes obtenidos, sus características y su destinación. La autoridad ambiental competente, exigirá la presentación del libro de registro para adelantar sus labores de evaluación, control y seguimiento.
 
 (Decreto 4688 de 2005 Art. 8).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.9 — Control y seguimiento
 
@@ -3122,23 +2642,17 @@ Las corporaciones autónomas regionales realizarán el control y seguimiento de 
 
 (Decreto 4688 de 2005 Art.9).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.10 — Del monitoreo de poblaciones y ecosistemas
 
 Las corporaciones autónomas regionales desarrollarán, directamente o con el acompañamiento de los institutos de investigación científica vinculados al Ministerio de Ambiente y Desarrollo Sostenible y/o de las autoridades de apoyo técnico y científico del Sina, los estudios poblacionales y modelos que sean necesarios para monitorear el estado de las poblaciones objeto de aprovechamiento y el impacto regional de las faenas de caza comercial autorizadas sobre las demás poblaciones y ecosistemas afectados.
 
 (Decreto 4688 de 2005 Art. 10).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.11 — De la comercialización de productos par a consumo humano
 
 La carne y otros productos de consumo humano provenientes de la fauna silvestre, sólo podrán comercializarse previa la obtención del respectivo certificado sanitario expedido por la autoridad competente.
 
 (Decreto 4688 de 2005 Art. 11).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.12 — De la exportación
 
@@ -3150,15 +2664,11 @@ PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible designará los pu
 
 (Decreto 4688 de 2005 Art. 12).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.13 — De las tasas compensatorias
 
 El aprovechamiento de la fauna silvestre a través de la caza comercial estará sujeto al pago de tasas compensatorias. El recaudo que se genere por el anterior concepto será destinado a garantizar la renovabilidad del recurso.
 
 (Decreto 4688 de 2005 Art.13).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.14 — De las restricciones para la caza
 
@@ -3168,21 +2678,17 @@ Así mismo, no se podrá autorizar caza comercial en áreas en las cuales se enc
 
 (Decreto 4688 de 2005 Art. 14).
 
-ARTÍCULO
-
 ## art:2.2.1.2.7.15 — De la protección
 
 Una vez declarada veda o prohibición sobre especies o especímenes de la fauna silvestre, las autoridades ambientales regionales deberán efectuar un análisis de los permisos y licencias ambientales otorgados para el aprovechamiento de dicha especie, con el objeto de adoptar las medidas para su protección, la cual puede involucrar la revocatoria del instrumento administrativo correspondiente conforme al principio de precaución.
 
 (Decreto 4688 de 2005 Art.15).
 
-## art:2.2.1.2 — 7.16
+## art:2.2.1.2.7.16 — Del manejo extensivo o semiextensivo
 
-Del manejo extensivo o semiextensivo. Los zoo criaderos de las especies que al 22 de diciembre de 2005 hayan sido autorizados por la autoridad ambiental competente y se encuentren operando bajo sistemas de manejo extensivo o semiextensivo, deberán dar cumplimiento a lo dispuesto en el presente decreto en materia de caza comercial o a lo dispuesto en las normas que regulen los zoocriaderos con fines comerciales en ciclo cerrado, según corresponda.
+Los zoo criaderos de las especies que al 22 de diciembre de 2005 hayan sido autorizados por la autoridad ambiental competente y se encuentren operando bajo sistemas de manejo extensivo o semiextensivo, deberán dar cumplimiento a lo dispuesto en el presente decreto en materia de caza comercial o a lo dispuesto en las normas que regulen los zoocriaderos con fines comerciales en ciclo cerrado, según corresponda.
 
 (Decreto 4688 de 2005 Art.16).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.17 — .17
 
@@ -3191,8 +2697,6 @@ En los casos que existan estudios sobre especie(s) y/o ecosistema(s) relacionado
 PARÁGRAFO . En los eventos anteriores, las autoridades ambientales regionales podrán utilizar los estudios a que se refiere el presente artículo y solamente requerirán al interesado en la licencia ambiental el ajuste o complementación del estudio de impacto ambiental en los apartes que se estimen necesarios con relación a la información específica del proyecto objeto de evaluación.
 
 (Decreto 4688 de 2005 Art. 17).
-
-ARTÍCULO
 
 ## art:2.2.1.2.7.18 — Consulta
 
@@ -3203,8 +2707,6 @@ En los casos que se requiera, deberá darse cumplimiento a lo dispuesto en el ar
 SECCIÓN 8
 
 DE LA CAZA CIENTÍFICA
-
-ARTÍCULO
 
 ## art:2.2.1.2.8.1 — Caza científica
 
@@ -3218,23 +2720,17 @@ SECCIÓN 9
 
 DE LA CAZA DEPORTIVA
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.1 — Caza deportiva
 
 La caza deportiva es aquella que se practica como recreación y ejercicio, sin otra actividad que su realización misma; por tanto no puede tener ningún fin lucrativo.
 
 (Decreto 1608 de 1978 Art.94).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.2 — Exclusión de caza deportiva
 
 No pueden ser objeto de caza deportiva los individuos o productos de especies respecto de los cuales se haya declarado veda o prohibición o cuyas características no corresponden a las establecidas.
 
 (Decreto 1608 de 1978 Art. 95).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.3 — Evaluaciones y estudios
 
@@ -3243,8 +2739,6 @@ La entidad administradora del recurso realizará o complementará las evaluacion
 La entidad administradora realizará igualmente un estudio ecológico y ambiental sobre las mismas áreas, en el cual se tendrán en cuenta además de los factores físicos los de orden económico y social para determinar las incidencias que puede tener el ejercicio de la caza deportiva.
 
 (Decreto 1608 de 1978 Art.96).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.4 — Característica de la solicitud
 
@@ -3262,23 +2756,17 @@ Quien pretenda practicar la caza deportiva deberá obtener el permiso de caza de
 
 (Decreto 1608 de 1978 Art. 97).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.5 — Temporada de caza o veda
 
 Cuando se establezcan temporadas de caza, la entidad administradora determinará con anterioridad a su iniciación, un plazo para la presentación de solicitudes, con el fin de regular, de acuerdo con el total de solicitudes presentadas y los inventarios existentes, el número de individuos o productos que puede obtener cada titular de permiso de caza deportiva durante la temporada.
 
 (Decreto 1608 de 1978 Art.98).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.6 — Otorgamiento de permiso de caza deportiva
 
 El permiso de caza deportiva se otorgará mediante resolución en la cual se exprese el área en la cual se puede practicar la caza, el tiempo, que no podrá ser superior a un año ni exceder al establecido para la temporada respectiva; la especie y el número de individuos que se permite capturar, las armas o implementos que puede utilizar y las obligaciones relacionadas con la protección de la fauna silvestre y demás recursos relacionados.
 
 (Decreto 1608 de 1978 Art.99).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.7 — Obligaciones y control
 
@@ -3288,15 +2776,11 @@ La entidad administradora establecerá salvoconductos y sistemas especiales de c
 
 (Decreto 1608 de 1978 Art.100).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.8 — Carné
 
 El permiso de caza deportiva es personal e intransferible así como el carné que se expide a su titular. En caso de pérdida del carné, esta debe comunicarse inmediatamente a la oficina más cercana de la entidad que lo expidió o en su defecto ante la Alcaldía o ante la autoridad de policía del lugar. Los funcionarios que reciban la comunicación, deberán dar aviso inmediatamente a la oficina más próxima de la entidad administradora del recurso.
 
 (Decreto 1608 de 1978 Art. 101).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.9 — Uso del carné
 
@@ -3304,23 +2788,17 @@ La transferencia del carné dará lugar a la revocatoria del permiso; si quien l
 
 (Decreto 1608 de 1978 Art.102).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.10 — Excursiones de caza
 
 Sólo se podrá permitir la realización de excursiones de caza, cuando la entidad administradora del recurso haya establecido de manera general y abstracta, con base en los estudios a que se refiere el artículo 2.2.1.2.9.3 de este decreto, los animales que pueden ser objeto de caza, las áreas de caza, las temporadas y el número de individuos que pueden obtenerse.
 
 (Decreto 1608 de 1978 Art.103).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.11 — Autorización de excursiones de caza
 
 El interesado en organizar excursiones de caza deberá solicitar autorización un año antes de la fecha prevista para su realización, con el fin de que la entidad administradora pueda evaluar, conjuntamente con las demás solicitudes que se presenten y de acuerdo con los estudios a que se refiere el artículo anterior, si es viable otorgar la autorización y, en caso afirmativo, cuántas personas puedan integrarla y cuántos individuos puede cazar cada uno de ellas.
 
 (Decreto 1608 de 1978 Art.104).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.12 — Trámite de autorización a excursiones de caza
 
@@ -3340,13 +2818,19 @@ Para tramitar la autorización a que se refiere el artículo anterior, el intere
 
 (Decreto 1608 de 1978 Art.105).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.13 — Integrantes de una excursión
 
 Cada uno de los integrantes de la excursión que se autorice organizar, deberá contar con su respectivo permiso de caza deportiva, cuya obtención se tramitará conforme a lo previsto por los artículos 2.2.1.2.9.4. a 2.2.1.2.9.9 este decreto.
 
 (Decreto 1608 de 1978 Art.106).
+
+## art:2.2.1.2.9.14 — Participación de funcionarios
+
+Toda excursión deberá ser suspendida por un funcionario de la entidad administradora del recurso. Los gastos que demanden la movilización y permanencia del funcionario corren a cargo del organizador de la excursión, quien deberá depositar su valor como condición para obtener la autorización.
+
+La participación del funcionario a que se refiere este artículo en la excursión no exime de responsabilidad a ninguno de sus integrantes ni al organizador por las infracciones en que llegaren a incurrir.
+
+(Decreto 1608 de 1978 Art. 107).
 
 ## art:2.2.1.2.9.15 — Infracciones
 
@@ -3354,15 +2838,11 @@ Si los integrantes de una excursión de caza incurren en infracciones a las norm
 
 (Decreto 1608 de 1978 Art.108).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.16 — Licencia a asociaciones deportivas
 
 Todo club o asociación deportiva que promueva actividades de caza deportiva deberá inscribirse y obtener licencia de la entidad administradora del recurso en cuya jurisdicción se encuentren tanto el club como las áreas en las cuales sus socios o integrantes practican la caza.
 
 (Decreto 1608 de 1978 Art. 109).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.17 — Trámite de la Licencia para asociaciones deportivas
 
@@ -3380,8 +2860,6 @@ Para la inscripción y obtención de la licencia a que se refiere el artículo a
 
 (Decreto 1608 de 1978 Art.110).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.18 — Vigencia
 
 Los socios o integrantes de clubes o asociaciones de caza deportiva deben tener vigente su permiso de caza deportiva.
@@ -3390,15 +2868,11 @@ La entidad administradora del recurso comunicará a tales entidades la revocator
 
 (Decreto 1608de 1978 Art.111).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.19 — Instrucción a integrantes
 
 Todo club o asociación de caza deportiva debe instruir a sus integrantes sobre las normas, tanto del Código Nacional de los Recursos Naturales Renovables y de Protección al Medio Ambiente, como de este decreto y demás disposiciones que los desarrollan, en relación con la protección de la fauna silvestre y los demás recursos naturales renovables, especialmente en cuanto se refiere a vedas y prohibiciones para el ejercicio de la caza deportiva, disposiciones que deberán tener en cuenta estrictamente en sus reglamentos internos, so pena de que se cancele el registro y la licencia.
 
 (Decreto 1608 de 1978 Art. 112).
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.20 — Cancelación del registro
 
@@ -3406,13 +2880,9 @@ La cancelación del registro y de la licencia de un club o asociación de caza d
 
 (Decreto 1608 de 1978 Art.113).
 
-ARTÍCULO
-
 ## art:2.2.1.2.9.21 — .21
 
 (Derogado por el Decreto 1272 de 2016, Art.2)
-
-ARTÍCULO
 
 ## art:2.2.1.2.9.22 — Vedas o prohibiciones
 
@@ -3426,15 +2896,11 @@ SECCIÓN 10
 
 DE LA CAZA DE CONTROL
 
-ARTÍCULO
-
 ## art:2.2.1.2.10.1 — 0.1
 
 De la caza de control Caza de control es aquella que se realiza con el propósito de regular la población de una especie de la fauna silvestre, cuando así lo requieran circunstancias de orden social, económico o ecológico.
 
 (Decreto 1608 de 1978 Art.116).
-
-ARTÍCULO
 
 ## art:2.2.1.2.10.2 — Circunstancias
 
@@ -3444,8 +2910,6 @@ Los métodos que se empleen para practicar el control, serán tales que, sin men
 
 (Decreto 1608 de 1978 Art. 117).
 
-ARTÍCULO
-
 ## art:2.2.1.2.10.3 — Circunstancias de orden económico
 
 Son circunstancias de orden económico, que pueden motivar el control, aquellas determinadas por la necesidad de prevenir o controlar plagas que afecten las actividades agropecuarias.
@@ -3453,8 +2917,6 @@ Son circunstancias de orden económico, que pueden motivar el control, aquellas 
 Anualmente el Ministerio de Ambiente y Desarrollo Sostenible- y el Instituto Colombiano Agropecuario, ICA, y las entidades que tengan a su cargo la administración del recurso a nivel regional, harán un estudio conjunto para planificar el control que corresponda adelantar según la época del año, las regiones y los cultivos, y la coordinación de sus actividades para la ejecución del plan.
 
 (Decreto 1608de 1978 Art.118).
-
-ARTÍCULO
 
 ## art:2.2.1.2.10.4 — Solicitud
 
@@ -3478,8 +2940,6 @@ De acuerdo con el plan que se adelante en conformidad con el artículo anterior,
 
 (Decreto 1608 de 1978 Art.119).
 
-ARTÍCULO
-
 ## art:2.2.1.2.10.5 — Características y término
 
 La caza de control se practicará ajustándose en todo a las instrucciones de la entidad administradora y sólo podrán utilizarse los procedimientos y los productos que expresamente se autoricen como medio de control en la resolución que permite la caza de control.
@@ -3488,23 +2948,17 @@ El término del permiso será señalado en la resolución que lo otorgue y depen
 
 (Decreto 1608 de 1978 Art.120).
 
-ARTÍCULO
-
 ## art:2.2.1.2.10.6 — Circunstancias de orden ecológico
 
 Son circunstancias de orden ecológico, que pueden motivar la caza de control, aquellas determinadas por la necesidad de regular el crecimiento poblacional de determinada especie, por razones de protección de la misma o de otras especies de la fauna silvestre, o para proteger otros recursos naturales renovables relacionados.
 
 (Decreto 1608 de 1978 Art.121).
 
-ARTÍCULO
-
 ## art:2.2.1.2.10.7 — 0.7
 
 Práctica de la caza de control El control a que se refiere el artículo anterior se practicará por la entidad administradora del recurso. Cuando no se requieran conocimientos especializados para realizar las faenas de caza, se podrá autorizar a los moradores de la región, quienes deberán adelantar tales actividades bajo la supervisión de los funcionarios de la entidad administradora.
 
 (Decreto 1608 de 1978 Art. 122).
-
-ARTÍCULO
 
 ## art:2.2.1.2.10.8 — Destinación
 
@@ -3513,8 +2967,6 @@ La entidad administradora del recurso establecerá la destinación que debe dars
 Cuando el control se realice para prevenir o cambiar enfermedades o plagas la destinación o disposición de los individuos que se obtengan se hará con la autorización y supervisión del Ministerio de Salud o del Instituto Agropecuario, ICA, y de acuerdo con sus prescripciones.
 
 (Decreto 1608 de 1978 Art.123).
-
-ARTÍCULO
 
 ## art:2.2.1.2.10.9 — Posibilidad de comercialización
 
@@ -3526,15 +2978,11 @@ SECCIÓN 11
 
 DE LA CAZA DE FOMENTO
 
-ARTÍCULO
-
 ## art:2.2.1.2.11.1 — Caza de fomento
 
 Se entiende por caza de fomento aquella que se realiza con el exclusivo propósito de adquirir individuos o especímenes de la fauna silvestre para el establecimiento de zoocriaderos o cotos de caza.
 
 (Decreto 1608 de 1978 Art. 125).
-
-ARTÍCULO
 
 ## art:2.2.1.2.11.2 — Permiso de caza de fomento
 
@@ -3556,15 +3004,11 @@ Para obtener permiso de caza de fomento se requiere presentar solicitud por escr
 
 (Decreto 1608 de 1978 Art. 126).
 
-ARTÍCULO
-
 ## art:2.2.1.2.11.3 — Condiciones
 
 El otorgamiento del permiso de caza de fomento está condicionado a que el interesado haya obtenido la autorización para la experimentación o para el funcionamiento de zoocriadero o coto de caza y la aprobación de sus instalaciones conforme a lo previsto en este decreto.
 
 (Decreto 1608 de 1978 Art.127).
-
-ARTÍCULO
 
 ## art:2.2.1.2.11.4 — Contenido del permiso
 
@@ -3575,8 +3019,6 @@ En la resolución que otorga el permiso de caza de fomento se indicará el núme
 SECCIÓN 12.
 
 DE LA REPOBLACIÓN, TRASPLANTE E INTRODUCCIÓN DE ESPECIES DE LA FAUNA SILVESTRE
-
-ARTÍCULO
 
 ## art:2.2.1.2.12.1 — Repoblación
 
@@ -3592,15 +3034,11 @@ Se entiende por repoblación fáunica todo acto que conduzca a la reimplantació
 
 (Decreto 1608 de 1978Art.129).
 
-ARTÍCULO
-
 ## art:2.2.1.2.12.2 — 2.2
 
 Especie nativa Para los efectos de la aplicación de este decreto, se entiende por especie nativa la especie o subespecie taxonómica o variedad de animales cuya área de disposición geográfica se extiende al territorio nacional o a aguas jurisdiccionales colombianas o forma parte de los mismos, comprendidas las especies o subespecies que migran temporalmente a ellos, siempre y cuando no se encuentren en el país o migren a él como resultado voluntario o involuntario de la actividad humana.
 
 (Decreto 1608 de 1978 Art.130).
-
-ARTÍCULO
 
 ## art:2.2.1.2.12.3 — Plan de repoblación
 
@@ -3618,8 +3056,6 @@ Corresponde a la entidad administradora del recurso realizar y regular las activ
 
 (Decreto 1608 de 1978 Art.131).
 
-ARTÍCULO
-
 ## art:2.2.1.2.12.4 — Prohibiciones
 
 En las áreas en donde se hayan efectuado repoblaciones fáunicas se prohíbe el ejercicio de cualquier modalidad de caza sobre la especie o subespecie objeto de repoblación, hasta tanto se confirme mediante la realización de los estudios e inventarios correspondientes que se ha logrado un nivel de población estable que permita el aprovechamiento.
@@ -3627,8 +3063,6 @@ En las áreas en donde se hayan efectuado repoblaciones fáunicas se prohíbe el
 La entidad administradora del recurso podrá regular el ejercicio de actividades que puedan afectar las condiciones del medio, que lo hacen apto para la repoblación y para ello exigirá la declaración de efecto ambiental a que se refiere este decreto.
 
 (Decreto 1608 de 1978 Art.132).
-
-ARTÍCULO
 
 ## art:2.2.1.2.12.5 — Obligaciones
 
@@ -3639,8 +3073,6 @@ Si el permiso se otorga para el establecimiento de zoocriaderos o cotos de caza 
 Los titulares de permiso de caza, deberán pagar la tasa compensatoria en la cuantía y forma que determine la entidad administradora del recurso y cuando se trate de caza comercial deberán además contribuir al establecimiento de zoocriaderos en la forma que determine la entidad administradora del recurso. (Modificado por el Decreto 1272 de 2016, Art.2)
 
 (Decreto 1608 de 1978 Art.133).
-
-ARTÍCULO
 
 ## art:2.2.1.2.12.6 — Caza científica
 
@@ -3654,8 +3086,6 @@ Los titulares de permiso de caza científica deberán contribuir al establecimie
 
 (Decreto 1608 de 1978Art.134).
 
-ARTÍCULO
-
 ## art:2.2.1.2.12.7 — Repoblación
 
 Cuando se pretenda adelantar actividades susceptibles de producir deterioro de la fauna silvestre o alteración de los ecosistemas que le sirvan de hábitat a una especie que requiera tipo especial de manejo, para obtener la licencia de que trata el artículo 28 del Decreto Ley 2811 de 1974, el interesado deberá incluir en el estudio ecológico y ambiental previo, la relación de las prácticas de repoblación o traslado de la fauna representativa de las áreas que se van a afectar, a otras que sean aptas, así como aquellas actividades encaminadas a la restauración o recuperación del hábitat afectado, cuando ello sea posible.
@@ -3668,15 +3098,11 @@ SECCIÓN 13
 
 TRASPLANTE DE FAUNA
 
-ARTÍCULO
-
 ## art:2.2.1.2.13.1 — Transplante
 
 Se entiende por trasplante de fauna silvestre toda implantación de una especie o subespecie de la fauna silvestre en áreas donde no ha existido en condiciones naturales.
 
 (Decreto 1608de 1978Art.136).
-
-ARTÍCULO
 
 ## art:2.2.1.2.13.2 — Características del transplante
 
@@ -3694,8 +3120,6 @@ SECCIÓN 14
 
 INTRODUCCIÓN DE ESPECIES DE FAUNA SILVESTRE
 
-ARTÍCULO
-
 ## art:2.2.1.2.14.1 — Introducción de especies de la fauna silvestre
 
 Se entiende por introducción de especies de la fauna silvestre, todo acto que conduzca al establecimiento o implantación en el país, bien sea en medios naturales o artificiales, de especies o subespecies exóticas de la fauna silvestre.
@@ -3703,8 +3127,6 @@ Se entiende por introducción de especies de la fauna silvestre, todo acto que c
 Para los efectos de aplicación de este decreto se entiende por especie exótica la especie o subespecie toxonómica, raza o variedad cuya área natural de dispersión geográfica no se extiende al territorio nacional ni a aguas jurisdiccionales y si se encuentra en el país es como resultado voluntario o involuntario de la actividad humana.
 
 (Decreto 1608 de 1978 Art.138).
-
-ARTÍCULO
 
 ## art:2.2.1.2.14.2 — Autorización y Estudio ambiental
 
@@ -3720,15 +3142,11 @@ d. Medidas de protección de las especies nativas y métodos de control que se e
 
 (Decreto 1608 de 1978 Art.139).
 
-ARTÍCULO
-
 ## art:2.2.1.2.14.3 — Evaluación
 
 Una vez obtenida la autorización del Gobierno nacional, el interesado podrá adelantar la tramitación correspondiente para la importación.
 
 (Decreto 1608 de 1978 Art.140).
-
-ARTÍCULO
 
 ## art:2.2.1.2.14.4 — Prohibiciones o restricciones
 
@@ -3742,23 +3160,17 @@ SECCIÓN 15
 
 DE LOS ESTABLECIMIENTOS PARA EL FOMENTO DE LA FAUNA SILVESTRE. DE LOS ZOOCRIADEROS
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.1 — De los zoocriaderos
 
 En zoocriaderos el área de propiedad pública o privada que se destina al mantenimiento, fomento y aprovechamiento de especies de la fauna silvestre con fines científicos, comerciales, industriales o de repoblación ya se desarrollen estas actividades en forma extensiva, semiextensiva o intensiva, siempre y cuando sea en un área determinada.
 
 (Decreto 1608 de 1978 Art.142).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.2 — Solicitud de licencia de establecimiento del zoocriadero
 
 Toda persona natural o jurídica o privada que pretenda establecer un zoocriadero, debe presentar a la entidad administradora del recurso, en cuya jurisdicción se encuentra el área en la cual establecerá el zoocriadero, una solicitud de licencia de establecimiento del zoocriadero en su etapa de experimentación. Surtida la etapa de experimentación, de acuerdo con sus resultados, podrá obtener la licencia para el funcionamiento del zoocriadero.
 
 (Decreto 1608 de 1978 Art.143).
-
-ARTÍCULO
 
 ## art:2.2.1.2.15.3 — Requisitos
 
@@ -3788,8 +3200,6 @@ Para obtener la licencia de establecimiento del zoocriadero en su etapa de exper
 
 (Decreto 1608 de 1978 Art.144).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.4 — Otorgamiento
 
 Si la entidad administradora encuentra viable el proyecto, conforme el programa de investigación y demás datos presentados, otorgará el permiso para iniciar la experimentación.
@@ -3797,8 +3207,6 @@ Si la entidad administradora encuentra viable el proyecto, conforme el programa 
 Durante el período de experimentación el interesado elaborará el plan de actividades para el establecimiento y funcionamiento del zoocriadero, rendirá los informes que se le soliciten en relación con el desarrollo de la experimentación, y no podrá comercializar, disponer, distribuir ni devolver al medio natural los individuos, especímenes o productos objeto de la experimentación y sólo desarrollará con respecto a ellos las actividades previstas en el programa de investigación.
 
 (Decreto 1608 de 1978 Art. 145).
-
-ARTÍCULO
 
 ## art:2.2.1.2.15.5 — Informe y Plan de actividades
 
@@ -3852,8 +3260,6 @@ b. Mano de obra vinculada, labores que desarrolla y relaciones laborales.
 
 (Decreto 1608 de 1978 Art. 146).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.6 — Condicionamiento
 
 El otorgamiento de licencia de funcionamiento del zoocriadero se condiciona a la aprobación del estudio de factibilidad, a la evaluación de los demás datos suministrados en el plan de actividades y a la aprobación de las construcciones o instalaciones.
@@ -3864,15 +3270,11 @@ Cuando se pretenda criar en el zoocriadero una especie exótica de fauna silvest
 
 (Decreto 1608 de 1978 Art.147).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.7 — Obligaciones
 
 La resolución que otorgue la licencia de funcionamiento del zoocriadero debe contener las obligaciones que contrae su titular, entre ellas la de no aprovechar individuos, especímenes o productos hasta tanto se demuestre el rendimiento autosostenido de la población parental, lo cual se acreditará mediante visitas técnicas y con concepto de alguna facultad o departamento universitario a través de sus especialidades de biología, veterinaria o zootecnia.
 
 (Decreto 1608 de 1978 Art.148).
-
-ARTÍCULO
 
 ## art:2.2.1.2.15.8 — Contenido de la resolución
 
@@ -3882,15 +3284,11 @@ Se indicarán igualmente las características de los individuos o productos que 
 
 (Decreto 1608 de 1978 Art.149).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.9 — Salvoconducto
 
 El salvoconducto sólo amparará los ejemplares o productos autorizados y señalados con la marca registrada ante la entidad administradora del recurso.
 
 (Decreto 1608 de 1978 Art.150).
-
-ARTÍCULO
 
 ## art:2.2.1.2.15.10 — Obligaciones específicas
 
@@ -3920,15 +3318,11 @@ e. Número de individuos o productos procesados o transformados si el objetivo d
 
 (Decreto 1608 de 1978 Art.151).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.11 — Seguimiento
 
 La entidad administradora que ha otorgado la licencia de experimentación y funcionamiento, podrá ordenar visitas o inspecciones cuando lo estime conveniente y cancelará la licencia respectiva cuando compruebe que el programa y el plan de manejo del zoocriadero no se está cumpliendo o cuando se comercialicen, procesen, transformen o destinen a la investigación individuos o productos de fauna silvestre provenientes de áreas extrañas al zoocriadero, o cuando realicen estas actividades en la etapa de experimentación, o cuando se obtengan ejemplares o productos de características diferentes a las que se indican en la resolución, o sin el lleno de los requisitos que se exigen para cada actividad.
 
 (Decreto 1608 de 1978 Art. 152).
-
-ARTÍCULO
 
 ## art:2.2.1.2.15.12 — Permisos adicionales
 
@@ -3936,15 +3330,11 @@ Cuando el titular de licencia de funcionamiento de un zoocriadero pretenda criar
 
 (Decreto 1608 de 1978 Art. 153).
 
-ARTÍCULO
-
 ## art:2.2.1.2.15.13 — Visita técnica
 
 El titular de la licencia de funcionamiento deberá solicitar una visita técnica una vez al año, con el fin de que la entidad administradora pueda llevar o hacer el seguimiento estadístico del movimiento tanto de la producción como de la disposición de los individuos o productos. Lo anterior debe entenderse sin perjuicio de la práctica de las demás visitas y controles que la entidad administradora del recurso estime conveniente.
 
 (Decreto 1608 de 1978 Art.154).
-
-ARTÍCULO
 
 ## art:2.2.1.2.15.14 — Zoocriaderos con fines industriales
 
@@ -3966,8 +3356,6 @@ SECCIÓN 16
 
 ZOOCRÍA CON FINES COMERCIALES DE ESPECÍMENES DE LA ESPECIE HÉLIX ASPERSA
 
-ARTÍCULO
-
 ## art:2.2.1.2.16.1 — Objeto
 
 La presente sección regula los requisitos y procedimientos ambientales y zoosanitarios para la realización de las actividades de zoocría con fines comerciales de especímenes de la especie Hélix aspersa que se encuentran en el territorio nacional, en ciclo cerrado, abierto y mixto, conforme a lo dispuesto en la Ley 1011 de 2006 y demás disposiciones que regulan la materia.
@@ -3975,8 +3363,6 @@ La presente sección regula los requisitos y procedimientos ambientales y zoosan
 Lo anterior, sin perjuicio de la reglamentación que sobre el particular se expida en materia de salud pública.
 
 (Decreto 4064 de 2008 Art.1).
-
-ARTÍCULO
 
 ## art:2.2.1.2.16.2 — Definiciones
 
@@ -3998,8 +3384,6 @@ Sistema de Administración Ambiental: Es el conjunto de medidas que debe impleme
 
 (Decreto 4064 de 2008 Art.2).
 
-ARTÍCULO
-
 ## art:2.2.1.2.16.3 — Zonas de vocación helicícola
 
 Conforme a lo dispuesto en el artículo 2o de la Ley 1011 de 2006, se consideran como zonas de vocación helicícola, las regiones del país donde actualmente se encuentren individuos de la especie Hélix aspersa.
@@ -4008,15 +3392,11 @@ PARÁGRAFO . No se podrán establecer zoocriaderos con fines comerciales de la e
 
 (Decreto 4064 de 2008 Art.3).
 
-ARTÍCULO
-
 ## art:2.2.1.2.16.4 — Origen de los animales
 
 Para efectos de la aplicación del presente decreto, el pie parental o de cría para el establecimiento de zoocriaderos con fines comerciales de la especie Hélix aspersa en ciclo cerrado, abierto y mixto debe provenir únicamente de la captura de individuos que se encuentren en el medio natural, a través de la realización de actividades de caza de fomento debidamente autorizada o de la obtención a través de zoocriaderos con fines comerciales que se encuentren debidamente autorizados como predios proveedores por la autoridad ambiental competente.
 
 (Decreto 4064 de 2008, Art.4).
-
-ARTÍCULO
 
 ## art:2.2.1.2.16.5 — Establecimiento de zoocriaderos en ciclo abierto
 
@@ -4030,8 +3410,6 @@ Las actividades comerciales, solamente podrán llevarse a cabo una vez se demues
 
 (Decreto 4064 de 2008, Art. 5).
 
-ARTÍCULO
-
 ## art:2.2.1.2.16.6 — Establecimiento de zoocriaderos en cíe/o cerrado
 
 Modalidad de zoocría en los que el manejo de la especie se inicia con un pie parental obtenido del medio natural o de un zoocriadero con fines comerciales en ciclo cerrado que se encuentre previamente autorizado como predio proveedor, a partir del cual se desarrollan todas las fases de su ciclo biológico para obtener los especímenes a aprovechar.
@@ -4040,8 +3418,6 @@ Los zoocriaderos en ciclo cerrado, deberán contar con la cantidad suficiente de
 
 (Decreto 4064 de 2008, Art. 6).
 
-ARTÍCULO
-
 ## art:2.2.1.2.16.7 — Zoocriaderos en ciclo mixto
 
 Modalidad de zoocría en los que el manejo de la especie se realiza tanto en ciclo abierto como en ciclo cerrado.
@@ -4049,8 +3425,6 @@ Modalidad de zoocría en los que el manejo de la especie se realiza tanto en cic
 En el plan de manejo ambiental o en el estudio de impacto ambiental, según sea el caso, se deberán contemplar las medidas de control necesarias tendientes a evitar que al interior del zoocriadero, se presente intercambio de especímenes manejados en los ciclos abierto y cerrado. Los encierros, tanto de un ciclo como del otro, deberán estar debidamente identificados y señalizados.
 
 (Decreto 4064 de 2008, Art. 7).
-
-ARTÍCULO
 
 ## art:2.2.1.2.16.8 — Predios proveedores
 
@@ -4066,15 +3440,11 @@ SECCIÓN 17
 
 PROCEDIMIENTO PARA EL ESTABLECIMIENTO DE ZOOCRIADEROS
 
-ARTÍCULO
-
 ## art:2.2.1.2.17.1 — Autoridades competentes
 
 Para efectos del presente decreto se entenderá como autoridades competentes a las Corporaciones Autónomas Regionales y a las de Desarrollo Sostenible, al Instituto Nacional de Vigilancia de Alimentos - lnvima - las entidades territoriales de Salud, el Instituto Colombiano Agropecuario - ICA -, de conformidad con las competencias legales a ellas asignadas por la ley y los reglamentos.
 
 (Decreto 4064 de 2008 Art.9).
-
-ARTÍCULO
 
 ## art:2.2.1.2.17.2 — Zoocriaderos en funcionamiento
 
@@ -4124,15 +3494,11 @@ PARÁGRAFO 5. Lo dispuesto en el presente artículo se aplicará sin perjuicio d
 
 (Decreto 4064 de 2008, Art. 10).
 
-ARTÍCULO
-
 ## art:2.2.1.2.17.3 — Alcance del plan de manejo ambiental
 
 El Plan de Manejo Ambiental que se establezca a los zoocriaderos con fines comerciales de la especie Hélix aspersa que se encuentran en funcionamiento, contemplará las fases experimental o comercial, según el caso, de acuerdo con el estado en que se encuentre el establecimiento y la verificación que realice la autoridad ambiental. La fase de Investigación o experimental involucrará la adecuación del zoocriadero y las actividades de investigación o experimentación del proyecto. Para autorizar la fase comercial se requerirá modificación de la licencia ambiental.
 
 (Decreto 4064 de 2008, Art.11).
-
-ARTÍCULO
 
 ## art:2.2.1.2.17.4 — Nuevos zoocriaderos
 
@@ -4143,8 +3509,6 @@ PARÁGRAFO 1. En todo caso, la licencia ambiental solamente podrá otorgarse en 
 PARÁGRAFO 2. En ningún caso, para la expedición de la licencia ambiental se podrá exceder el término máximo contemplado en las normas sobre la materia
 
 (Decreto 4064 de 2008, Art. 12).
-
-ARTÍCULO
 
 ## art:2.2.1.2.17.5 — Plan de manejo zoosanitario
 
@@ -4158,15 +3522,11 @@ SECCIÓN 18
 
 RECOLECCIÓN, CULTIVO, PROCESAMIENTO, TRANSPORTE, MOVILIZACIÓN, COMERCIALIZACIÓN Y EXPORTACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.2.18.1 — Recolección, cultivo, procesamiento, transporte, comercialización y exportación
 
 La recolección, el cultivo, el procesamiento, el transporte y la comercialización nacional y/o internacional de especímenes de la especie Hélix aspersa producto de la zoocría en ciclo cerrado, abierto y mixto, en cualquiera de sus modalidades, están supeditadas a lo que sobre la materia se disponga en el Plan de Manejo Ambiental o en la licencia ambiental respectiva, según sea el caso. Las actividades de tipo comercial, solamente podrán realizarse una vez se encuentre autorizada la fase comercial por parte de la Corporación Autónoma Regional o de Desarrollo Sostenible competente y bajo los términos y condiciones allí establecidas.
 
 (Decreto 4064 de 2008, Art. 14).
-
-ARTÍCULO
 
 ## art:2.2.1.2.18.2 — Movilización
 
@@ -4176,8 +3536,6 @@ La movilización dentro del territorio nacional de especímenes vivos de la espe
 
 (Decreto 4064 de 2008, Art. 15).
 
-ARTÍCULO
-
 ## art:2.2.1.2.18.3 — Transformación y comercialización nacional
 
 Las actividades de transformación y comercialización que pretendan desarrollarse en el territorio nacional con la especie Hélix aspersa por fuera del zoocriadero, están sujetas, en lo pertinente, a las disposiciones contenidas en la normatividad única para el sector de agricultura o la norma que lo modifique o sustituya; de igual forma, se deberá cumplir con los requerimientos establecidos por el Ministerio de Salud y Protección Social.
@@ -4185,8 +3543,6 @@ Las actividades de transformación y comercialización que pretendan desarrollar
 PARÁGRAFO . Los establecimientos que por fuera de las áreas del zoocriadero, al 24 de octubre de 2008 se encuentren adelantando actividades de transformación y comercialización con la especie Hélix aspersa, deberán ajustarse a lo dispuesto en el presente artículo. Para este efecto contarán con un término máximo de seis (6) meses, contados a partir del 24 de octubre de 2008.
 
 (Decreto 4064 de 2008, Art. 16).
-
-ARTÍCULO
 
 ## art:2.2.1.2.18.4 — Comercialización internacional
 
@@ -4198,15 +3554,11 @@ PARÁGRAFO 2. Además de lo previsto en el parágrafo anterior, los productores 
 
 (Decreto 4064 de 2008 Art. 17).
 
-ARTÍCULO
-
 ## art:2.2.1.2.18.5 — Consumo humano
 
 Los productos o subproductos de especímenes de la especie Hélix aspersa destinados al consumo humano en el territorio nacional y para exportación, deberán cumplir con los requisitos que en materia sanitaria expidan las autoridades competentes.
 
 (Decreto 4064 de 2008, Art.18).
-
-ARTÍCULO
 
 ## art:2.2.1.2.18.6 — Control ambiental y zoosanitario
 
@@ -4216,15 +3568,11 @@ El Instituto Colombiano Agropecuario ICA efectuará el control zoosanitario de l
 
 (Decreto 4064 de 2008, Art.19).
 
-ARTÍCULO
-
 ## art:2.2.1.2.18.7 — Medidas preventivas y sancionatorias
 
 El incumplimiento de las obligaciones establecidas en el presente decreto y demás normas que regulan la materia, dará lugar a la imposición de las medidas preventivas y sancionatorias conforme al procedimiento establecido en las normas pertinentes.
 
 (Decreto 4064 de 2008, Art.20).
-
-ARTÍCULO
 
 ## art:2.2.1.2.18.8 — Transición
 
@@ -4240,15 +3588,11 @@ SECCIÓN 19
 
 DE LOS COTOS DE CAZA
 
-ARTÍCULO
-
 ## art:2.2.1.2.19.1 — Definición
 
 Se entiende por coto de caza el área destinada al mantenimiento, fomento y aprovechamiento de especies de fauna silvestre para caza deportiva.
 
 (Decreto 1608 de 1978, Art.156).
-
-ARTÍCULO
 
 ## art:2.2.1.2.19.2 — Propiedad privada
 
@@ -4274,15 +3618,11 @@ Para poder destinar un área de propiedad privada como coto de caza deportiva, e
 
 (Decreto 1608 de 1978 Art.157).
 
-ARTÍCULO
-
 ## art:2.2.1.2.19.3 — Destinación
 
 Con base en el inventario que presente el interesado, en las visitas técnicas que se practiquen al predio y en los estudios, inventarios y cálculos de existencias, a nivel regional y nacional, de que disponga la entidad administradora en relación con la especie o especies que serán objeto de caza deportiva en el coto de caza que se pretende establecer, se podrá permitir o negar la destinación.
 
 (Decreto 1608 de 1978 Art. 158).
-
-ARTÍCULO
 
 ## art:2.2.1.2.19.4 — Condiciones para destinación
 
@@ -4292,15 +3632,11 @@ No podrá destinarse un predio como coto de caza deportiva cuando en él se encu
 
 (Decreto 1608 de 1978 Art.159).
 
-ARTÍCULO
-
 ## art:2.2.1.2.19.5 — Obligaciones
 
 La resolución mediante la cual se permita la destinación de un predio como coto de caza deportiva deberá prever las obligaciones que adquiere el propietario con respecto de las especies de fauna silvestre que en él se encuentran y determinar con base en los inventarios y estudios a que se refieren este decreto, las épocas y el número de individuos que pueden obtenerse en ejercicio de la caza deportiva y las previsiones relativas a la repoblación.
 
 (Decreto 1608 de 1978 Art. 160).
-
-ARTÍCULO
 
 ## art:2.2.1.2.19.6 — Prohibiciones
 
@@ -4308,15 +3644,11 @@ En cotos de caza deportiva no se podrá practicar esta actividad sobre especies 
 
 (Decreto 1608 de 1978 Art.161).
 
-ARTÍCULO
-
 ## art:2.2.1.2.19.7 — Control y seguimiento
 
 La entidad administradora podrá ordenar la práctica de visitas al coto de caza con el fin de comprobar el cumplimiento de las obligaciones. Los propietarios y administradores del predio así como sus dependientes deberán prestar toda la colaboración que requieran los funcionarios que practican la visita.
 
 (Decreto 1608 de 1978 Art.162).
-
-ARTÍCULO
 
 ## art:2.2.1.2.19.8 — Limitaciones e informes
 
@@ -4332,15 +3664,11 @@ SECCIÓN 20.
 
 DE LOS TERRITORIOS FÁUNICOS Y RESERVAS DE CAZA
 
-ARTÍCULO
-
 ## art:2.2.1.2.20.1 — Definición
 
 Se entiende por territorio fáunico el área que se reserva y delimita con fines de conservación, investigación y manejo de la fauna silvestre para exhibición.
 
 (Decreto 1608 de 1978, Art.164).
-
-ARTÍCULO
 
 ## art:2.2.1.2.20.2 — Objetivos
 
@@ -4362,15 +3690,11 @@ Son objetivos de los territorios fáunicos:
 
 (Decreto 1608 de 1978 Art.165).
 
-ARTÍCULO
-
 ## art:2.2.1.2.20.3 — Aprobación
 
 La providencia mediante la cual se reserva y delimita un territorio fáunico, deberá ser aprobada por el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1608 de 1978, Art.166).
-
-ARTÍCULO
 
 ## art:2.2.1.2.20.4 — Áreas
 
@@ -4388,15 +3712,11 @@ Los territorios fáunicos podrán comprender las siguientes áreas:
 
 (Decreto 1608 de 1978, Art.167).
 
-ARTÍCULO
-
 ## art:2.2.1.2.20.5 — Delimitación
 
 La delimitación de las áreas relacionadas en el artículo anterior, se determinará con base en los estudios e investigaciones de los ecosistemas que conforman el territorio fáunico, estudios e investigaciones sobre los cuales se basará el plan de manejo.
 
 (Decreto 1608 de 1978, Art.168).
-
-ARTÍCULO
 
 ## art:2.2.1.2.20.6 — Prohibiciones
 
@@ -4426,15 +3746,11 @@ En los territorios fáunicos queda prohibido a todo particular:
 
 (Decreto 1608 de 1978, Art.169).
 
-ARTÍCULO
-
 ## art:2.2.1.2.20.7 — Sustracción territorios fáunicos
 
 Para sustraer todo o parte del sector que comprende un territorio fáunico se requerirá demostrar que ha dejado de cumplir las finalidades que motivaron su creación. La providencia que así lo declara deberá ser aprobada por el Gobierno nacional, previo concepto de la Academia Colombiana de Ciencias Exactas Físicas y Naturales.
 
 (Decreto 1608 de 1978, Art.170).
-
-ARTÍCULO
 
 ## art:2.2.1.2.20.8 — Reservas de caza
 
@@ -4444,15 +3760,11 @@ La caza se ejercitará sujetándose a los reglamentos especiales previstos en el
 
 (Decreto 1608 de 1978, Art. 171).
 
-ARTÍCULO
-
 ## art:2.2.1.2.20.9 — Prohibición a particulares
 
 La entidad administradora podrá también declarar reservado el recurso en un área determinada conforme a lo previsto por el artículo 4 7 del Decreto Ley 2811 de 197 4, con el fin de adelantar programas de restauración, conservación y preservación de la fauna silvestre y en este caso no se permitirá el ejercicio de la caza a particulares.
 
 (Decreto 1608 de 1978, Art. 172).
-
-ARTÍCULO
 
 ## art:2.2.1.2.20.10 — Declaración
 
@@ -4464,15 +3776,11 @@ SECCIÓN 21
 
 DE LOS ZOOLÓGICOS
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.1 — Zoológico
 
 Se entiende por zoológico el conjunto de instalaciones de propiedad pública o privada, en donde se mantienen individuos de fauna silvestre en confinamiento o semiconfinamiento para exhibición y con propósitos educativos y en el cual se adelantan investigaciones biológicas sobre las especies en cautividad, actividades estas que se adelantan sin propósitos comerciales, aunque se cobren tarifas al público por el ingreso en el zoológico.
 
 (Decreto 1608 de 1978 Art.180).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.2 — 1.2
 
@@ -4497,8 +3805,6 @@ Licencia de funcionamiento Toda persona natural o jurídica, pública o privada 
 9. Plan de manejo del zoológico que incluirá el plan de cría con el fin de reabastecer el propio zoológico u otros, o para suministrar individuos a la entidad administradora con fines de repoblación.
 
 (Decreto 1608 de 1978 Art. 181).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.3 — Aspectos del Plan de Manejo
 
@@ -4526,15 +3832,11 @@ Entre el personal técnico o asesor debe contar con un biólogo, zoólogo veteri
 
 (Decreto 1608 de 1978 Art.182).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.4 — Licencia Provisional
 
 De acuerdo con el estudio del plan de actividades, y las visitas técnicas que se realizarán a costa del interesado, se podrá autorizar el funcionamiento del zoológico otorgando una licencia provisional por dos (2) años al cabo de los cuales la licencia será definitiva, pero podrá revocarse en razón del incumplimiento grave o reiterado de las obligaciones estipuladas en la resolución entre ellas especialmente las relacionadas con el trato adecuado de los animales, sanidad, higiene, alimentación.
 
 (Decreto 1608 de 1978 Art.183).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.5 — Compra de animales
 
@@ -4542,15 +3844,11 @@ Para compra de animales para el zoológico debe exigirse el respectivo salvocond
 
 (Decreto 1608 de 1978 Art.184).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.6 — Salida del país
 
 Sólo se permitirá el canje que implique salida del país de individuos producidos en el zoológico. Se podrá permitir la salida de individuos no producidos en el zoológico si existen motivos de consanguinidad o esterilidad congénita que los incapacite para ser reproductores, o cuando se trate de individuos pertenecientes a especies exóticas no existentes en el país.
 
 (Decreto 1608 de 1978 Art.185).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.7 — Obligaciones
 
@@ -4558,15 +3856,11 @@ El ingreso en el país de animales con destino a zoológicos deberá hacerse con
 
 (Decreto 1608 de 1978 Art.186).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.8 — 1.8
 
 Fugas de animales Se deberá dar cuenta inmediata a la entidad administradora del recurso cuando se produzcan fugas de animales ya del zoológico o durante su movilización, se indicarán las características del animal y se prestará toda la colaboración necesaria para su captura.
 
 (Decreto 1608 de 1978 Art. 187).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.9 — Obligaciones de los propietarios
 
@@ -4584,8 +3878,6 @@ Si nacieron en el zoológico se deberá indicar la fecha de su nacimiento y sus 
 
 (Decreto 1608 de 1978 Art.188).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.10 — .10
 
 Licencia definitiva de funcionamiento La entidad administradora del recurso con base en el plan de actividades y en visitas técnicas que se practicarán a costa del interesado podrá otorgar la licencia definitiva de funcionamiento, u ordenar los cambios, ampliación o adecuación de las instalaciones, las cuales deberán realizarse so pena de que se le niegue la licencia.
@@ -4593,8 +3885,6 @@ Licencia definitiva de funcionamiento La entidad administradora del recurso con 
 La licencia que se otorgue podrá ser revocada por las mismas causas señaladas en el artículo 2.2.1.2.21.4 de este decreto.
 
 (Decreto 1608 de 1978 Art.189).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.11 — Deber de colaboración
 
@@ -4604,15 +3894,11 @@ Los propietarios, administradores y el personal al servicio del zoológico deber
 
 (Decreto 1608 de 1978 Art.190).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.12 — Otras autorizaciones
 
 Para poder liberar, vender, canjear u obsequiar animales adquiridos o nacidos en el zoológico se requiere autorización expresa de la entidad administradora del recurso, la cual expedirá el salvoconducto respectivo. Los animales que se movilicen sin este salvoconducto serán decomisados sin perjuicio de la imposición de las demás sanciones a que haya lugar.
 
 (Decreto 1608 de 1978 Art.191).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.13 — 
 
@@ -4621,8 +3907,6 @@ ARTÍCULO
 Para la movilización deberán contar con un salvoconducto que expedirá la entidad administradora del recurso en cuyo territorio se traslade.
 
 (Decreto 1608 de 1978 Art.192).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.14 — 
 
@@ -4634,23 +3918,17 @@ Sólo se autorizará la salida del país de los mismos individuos cuyo ingreso s
 
 (Decreto 1608 de 1978 Art.193).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.15 — 
 
 2.2.1.2.21.15 Fuga de animales Cuando se produzca la fuga de uno o más animales del circo, el propietario, administrador o el personal dependiente del circo deberán denunciar el hecho inmediatamente ante la entidad administradora del recurso, indicando las características del animal y colaborar en las actividades necesarias para su captura.
 
 (Decreto 1608 de 1978 Art. 194).
 
-ARTÍCULO
-
 ## art:2.2.1.2.21.16 — 
 
 2.2.1.2.21.16 Prohibición Se prohíbe todo espectáculo que implique la lucha en que participen animales de la fauna silvestre o en el cual se produzcan heridas, mutilaciones o muerte de estos.
 
 (Decreto 1608 de 1978 Art.195).
-
-ARTÍCULO
 
 ## art:2.2.1.2.21.17 — Régimen sancionatorio
 
@@ -4660,8 +3938,6 @@ SECCIÓN 22.
 
 DE LA MOVILIZACIÓN DE INDIVIDUOS, ESPECÍMENES Y PRODUCTOS DE LA FAUNA SILVESTRE
 
-ARTÍCULO
-
 ## art:2.2.1.2.22.1 — Movilización dentro del territorio nacional
 
 Toda persona que deba transportar individuos, especímenes o productos de la fauna silvestre debe proveerse del respectivo salvoconducto de movilización. El salvoconducto amparará únicamente los individuos, especímenes y productos indicados en él, será válido por una sola vez y por el tiempo indicado en el mismo.
@@ -4670,23 +3946,17 @@ El salvoconducto se otorgará a las personas naturales o jurídicas titulares de
 
 (Decreto 1608 de 1978 Art. 196).
 
-ARTÍCULO
-
 ## art:2.2.1.2.22.2 — Salvoconductos
 
 Los salvoconductos de movilización de individuos, especímenes o productos de la fauna silvestre deben determinar la clase de permiso que autorizó la obtención del individuo, espécimen o producto. Al expedirse debe anexarse una copia del salvoconducto al expediente en trámite del correspondiente permiso.
 
 (Decreto 1608 de 1978 Art.197).
 
-ARTÍCULO
-
 ## art:2.2.1.2.22.3 — Titular del salvoconducto
 
 Los salvoconductos serán expedidos a nombre del titular del permiso, indicando, bajo su responsabilidad, al conductor o transportador de los individuos, especímenes o productos, y no podrán ser cedidos o endosados por el titular del permiso o por quien, bajo su responsabilidad, efectúe la conducción o transporte.
 
 (Decreto 1608 de 1978 Art. 198).
-
-ARTÍCULO
 
 ## art:2.2.1.2.22.4 — Vigencia
 
@@ -4695,8 +3965,6 @@ Los salvoconductos ampararán únicamente los individuos, especímenes o product
 Cuando el transportador no pudiere movilizar los individuos, especímenes o productos, dentro del término de vigencia del salvoconducto, por una de ras circunstancias previstas en el artículo siguiente, tendrá derecho a que se le expida uno nuevo, previa entrega y cancelación del anterior. En el nuevo salvoconducto se dejará constancia del cambio realizado.
 
 (Decreto 1608 de 1978 Art.199).
-
-ARTÍCULO
 
 ## art:2.2.1.2.22.5 — Circunstancias
 
@@ -4708,8 +3976,6 @@ El salvoconducto de removilización a que se refiere el artículo anterior sólo
 
 (Decreto 1608 de 1978 Art.200).
 
-ARTÍCULO
-
 ## art:2.2.1.2.22.6 — Exigencias para la movilización
 
 Para la movilización de productos de la caza, incluidos los despojos, cualesquiera sea su estado físico o biológico, se debe indicar su procedencia, destino y aplicación: la carne y otros productos alimenticios provenientes de la fauna silvestre, sólo podrán comercializarse si corresponden a individuos obtenidos en ejercicio de un permiso de caza comercial o de zoocriaderos destinados a este fin y previa la obtención del respectivo certificado sanitario expedido por la autoridad competente.
@@ -4719,8 +3985,6 @@ Para la movilización de productos de la caza, incluidos los despojos, cualesqui
 SECCIÓN 23
 
 IMPORTACIÓN O INTRODUCCIÓN AL PAÍS, DE INDIVIDUOS O PRODUCTOS DE LA FAUNA SILVESTRE.
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.1 — 3.1
 
@@ -4735,8 +3999,6 @@ Importación o introducción al país, de individuos o productos de la fauna sil
 4. Que el interesado obtenga el permiso correspondiente con arreglo a este capítulo.
 
 (Decreto 1608 de 1978 Art.202).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.2 — Requisitos
 
@@ -4756,15 +4018,11 @@ Quien pretenda importar o introducir al país individuos, especímenes o product
 
 (Decreto 1608 de 1978 Art.203).
 
-ARTÍCULO
-
 ## art:2.2.1.2.23.3 — Introducción de especies
 
 Cuando la importación o introducción de individuos, especímenes o productos de fauna silvestre implique la introducción de especies, el interesado deberá cumplir los requisitos previstos en el este decreto.
 
 (Decreto 1608 de 1978 Art.204).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.4 — Fines comerciales
 
@@ -4778,15 +4036,11 @@ Cuando la importación o introducción de especies o productos de la fauna silve
 
 (Decreto 1608 de 1978 Art.205).
 
-ARTÍCULO
-
 ## art:2.2.1.2.23.5 — 3.5
 
 Comercialización, transformación o procesamiento Si el interesado en importar o introducir al país individuos o productos de la fauna silvestre, pretende comercializarlos, transformarlos o procesarlos, en su solicitud de permiso deberá adjuntar los datos pertinentes relacionados este decreto.
 
 (Decreto 1608 de 1978 Art.206).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.6 — Obligatoriedad de cumplimiento
 
@@ -4800,23 +4054,17 @@ Con el fin de garantizar el cumplimiento de las normas sobre protección de la f
 
 (Decreto 1608 de 1978, Art.207).
 
-ARTÍCULO
-
 ## art:2.2.1.2.23.7 — Del interesado en la importación
 
 La importación de animales de fauna silvestre con destino a zoológicos, colecciones de historia natural o museos, deberá hacerse directamente por los propietarios, directores o representantes legales de tales establecimientos con el cumplimiento de los requisitos establecidos en el artículo 2.2.1.2.23.2. de este decreto. Si no se realiza la importación directamente por las personas indicadas en este artículo, se considerará que se hace con fines comerciales y el interesado deberá cumplir los requisitos que se exigen en los artículos 2.2.1.2.23.4 a 2.2.1.2.23.6. de este decreto.
 
 (Decreto 1608 de 1978 Art.209).
 
-ARTÍCULO
-
 ## art:2.2.1.2.23.8 — Prohibición para la importación o introducción
 
 Con el fin de garantizar el cumplimiento de las normas sobre protección de la fauna silvestre nacional y para facilitar el control, no se permitirá la importación o introducción de individuos, especímenes o productos de fauna silvestre cuya caza se encuentre vedada o prohibida en el país, o cuando estando permitida, las tallas, sexo, edad y demás características de los individuos, especímenes o productos que se pretende introducir o importar, no correspondan a las establecidas en el país.
 
 (Decreto 1608 de 1978, Art.210).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.9 — 3.9
 
@@ -4833,8 +4081,6 @@ Para exportar individuos o productos de la fauna silvestre se requiere:
 4. Que se obtenga la autorización-Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1608 de 1978 Art.211).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.10 — Requisitos para otorgamiento del permiso
 
@@ -4854,15 +4100,11 @@ Quien pretenda exportar individuos, especímenes o productos de la fauna silvest
 
 (Decreto 1608 de 1978 Art.212).
 
-ARTÍCULO
-
 ## art:2.2.1.2.23.11 — Acreditación
 
 Si la exportación se realiza con el fin de procesar o transformar los especímenes o productos, deberá acreditarse previamente que la transformación no se puede realizar en el país, para lo cual la entidad administradora podrá exigir y allegar la información que considere necesaria.
 
 (Decreto 1608 de 1978 Art.213).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.12 — Ámbito
 
@@ -4870,15 +4112,11 @@ Las normas que regulan la movilización de individuos, especímenes o productos 
 
 (Decreto 1608 de 1978 Art.215).
 
-ARTÍCULO
-
 ## art:2.2.1.2.23.13 — .13
 
 Formulación de Política En ejercicio de la función que corresponde al Ministerio de Ambiente y Desarrollo Sostenible en la formulación de la política nacional en materia de protección ambiental y de los recursos naturales renovables, y como forma de coordinación de la ejecución de esa política se solicitará su concepto por las entidades que regulan las operaciones de importación y exportación, previamente a la modificación o expedición de disposiciones relativas a la introducción, importación, exportación o salida del país, de individuos, especímenes o productos de la fauna silvestre, así como para la celebración de contratos que tengan por objeto esas mismas materias.
 
 (Decreto 1608 de 1978 Art.216).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.14 — Cupos y Cuotas
 
@@ -4887,8 +4125,6 @@ La entidad administradora del recurso establecerá los cupos de los individuos e
 Las edades y tallas deben corresponder a las que se prescriben como reglamentarias para su obtención en el país.
 
 (Decreto 1608 de 1978 Art.217).
-
-ARTÍCULO
 
 ## art:2.2.1.2.23.15 — Prohibiciones
 
@@ -4901,8 +4137,6 @@ En las resoluciones mediante las cuales se otorgan permisos de caza comercial pa
 SECCIÓN 24.
 
 OBLIGACIONES Y PROHIBICIONES GENERALES EN RELACIÓN CON LA FAUNA SILVESTRE
-
-ARTÍCULO
 
 ## art:2.2.1.2.24.1 — 4.1
 
@@ -4940,8 +4174,6 @@ SECCIÓN 25.
 
 PROHIBICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.2.25.1 — Prohibiciones
 
 Por considerarse que atenta contra la fauna silvestre y su ambiente, se prohíben las siguientes conductas, en conformidad con lo establecido por el artículo 265 del Decreto-Ley 2811 de 1974:
@@ -4969,8 +4201,6 @@ La paralización transitoria sólo puede emplearse como método para capturar an
 10. Cazar en lugares de refugios o en áreas destinadas a la protección o propagación de especies de la fauna silvestre.
 
 (Decreto 1608 de 1978 Art.220).
-
-ARTÍCULO
 
 ## art:2.2.1.2.25.2 — Otras prohibiciones
 
@@ -5012,8 +4242,6 @@ También se prohíbe, de acuerdo con las prescripciones del Decreto-Ley 2811 de 
 
 (Decreto 1608 de 1978Art.221).
 
-ARTÍCULO
-
 ## art:2.2.1.2.25.3 — Régimen sancionatorio
 
 El régimen sancionatorio aplicable corresponderá al previsto en la Ley 1333 de 2009 o la norma que haga sus veces.
@@ -5021,8 +4249,6 @@ El régimen sancionatorio aplicable corresponderá al previsto en la Ley 1333 de
 SECCIÓN 26.
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.1.2.26.1 — Disposiciones finales
 
@@ -5035,8 +4261,6 @@ En conformidad con lo dispuesto por el artículo 38 del Decreto Ley número 133 
 3. Preparar en coordinación con el Ministerio de Agricultura, proyectos de normas relacionadas con la protección sanitaria de la fauna silvestre y con la regulación de la producción y aplicación de productos e insumos agropecuarios cuyo uso pueda afectar el recurso.
 
 (Decreto 1608 de 1978 Art.247).
-
-ARTÍCULO
 
 ## art:2.2.1.2.26.2 — Otras actividades a cargo de las autoridades ambientales
 
@@ -5076,8 +4300,6 @@ Por razones de orden ecológico, la entidad administradora del recurso podrá as
 
 (Decreto 1608 de 1978 Art.248).
 
-ARTÍCULO
-
 ## art:2.2.1.2.26.3 — Deber de colaboración
 
 A las entidades regionales que por ley sólo tengan la función de proteger y promover la fauna silvestre, les corresponde desarrollar las funciones señaladas en las letras a, e, d y g del artículo 258 del Decreto Ley 2811 de 1974 y colaborar en la vigilancia y control del cumplimiento de las normas de protección del recurso.
@@ -5085,8 +4307,6 @@ A las entidades regionales que por ley sólo tengan la función de proteger y pr
 Para desarrollar actividades de fomento del recurso tales como la repoblación, trasplante e introducción de especies deberán cumplir las disposiciones de este decreto y la política nacional que se establezca.
 
 (Decreto 1608 de 1978 Art.249).
-
-ARTÍCULO
 
 ## art:2.2.1.2.26.4 — Vigencia
 
@@ -5100,13 +4320,9 @@ SECCION 27
 
 "POR EL CUAL SE ESTABLECEN MEDIDAS PARA LA PROTECCIÓN Y CONSERVACIÓN DE TIBURONES, RAYAS MARINAS Y QUIMERAS DE COLOMBIA"
 
-ARTÍCULO
-
 ## art:2.2.1.2.27.1 — PLAN AMBIENTAL PARA LA PROTECCIÓN Y CONSERVACIÓN DE TIBURONES, RAVAS MARINAS Y QUIMERAS
 
 Crease el Plan Ambiental para la Protección y Conservación de Tiburones, Rayas Marinas y Quimeras, que tendrá por objeto garantizar la conservación y el manejo sostenible de las especies de tiburones, rayas marinas y quimeras, con el fin de disminuir la vulnerabilidad y amenazas causadas por el desarrollo de actividades antrópicas, mediante la coordinación interinstitucional, a nivel central y territorial, para promover las políticas, estrategias, planes y programas tendientes a la sostenibilidad de estas especies.
-
-ARTÍCULO
 
 ## art:2.2.1.2.27.2 — DISPOSICIONES GENERALES DEL PLAN AMBIENTAL
 
@@ -5130,13 +4346,9 @@ El Plan Ambiental para la Protección y Conservación de Tiburones, Rayas Marina
 
 9. Crear un módulo específico repositorio de información biológica para las especies de tiburones, rayas marinas y quimeras, en el sistema de información ambiental de Colombia (SIAC), tomando como base la información recolectada por las diferentes entidades que hacen parte del Sistema Nacional Ambiental (SINA) y otras organizaciones que adelantan investigación científica y monitoreo de estas especies.
 
-ARTÍCULO
-
 ## art:2.2.1.2.27.3 — ADOPCION DEL PLAN AMBIENTAL PARA LA PROTECCIÓN Y CONSERVACIÓN DE TIBURONES, RAYAS MARINAS Y QUIMERAS
 
 El Ministerio de Ambiente y Desarrollo Sostenible en el término de ocho (8) meses, contados a partir de la entrada en vigencia de la presente Sección, adoptará el Plan Ambiental para la Protección y Conservación de Tiburones, Rayas Marinas y Quimeras.
-
-ARTÍCULO
 
 ## art:2.2.1.2.27.4 — MEDIDAS DE CONTROL Y VIGILANCIA
 
@@ -5149,8 +4361,6 @@ CAPÍTULO 3.
 CITES
 
 SECCIÓN 1.
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.1 — Designación para el comercio internacional de especímenes de fauna silvestre
 
@@ -5183,8 +4393,6 @@ San Andrés
 Aéreo y Marítimo
 
 (Decreto 1909 de 2000 Art. 1).
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.2 — 1.2
 
@@ -5244,8 +4452,6 @@ PARÁGRAFO 2. En los casos en que el ingreso al país de los especímenes de la 
 
 (Decreto 197 de 2004).
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.3 — Otra designación
 
 Designase como puerto autorizado para el comercio internacional de especímenes de fauna silvestre, únicamente para la salida y respecto del espécimen enunciado, el siguiente:
@@ -5253,8 +4459,6 @@ Designase como puerto autorizado para el comercio internacional de especímenes 
 Localización Modo de transporte Espécimen Arauca Terrestre Chigüiro
 
 (Decreto 1909 de 2000 Art.3).
-
-ARTÍCULO
 
 ## art:2.1.3.3.1.4 — 1.4
 
@@ -5274,23 +4478,17 @@ Terrestre (con paso por el Puente internacional Simón Bolívar)
 
 (Decreto 1909 de 2000 Art.4).
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.5 — Deber de información
 
 Cuando se detecte un cargamento de especímenes de fauna y/o flora silvestre en un puerto marítimo, fluvial, aeropuerto u otro lugar habilitado no autorizado mediante el presente decreto o sin la respectiva licencia ambiental autorización o permiso CITES, expedidos por el Ministerio de Ambiente y Desarrollo Sostenible las autoridades competentes sin perjuicio de sus atribuciones legales, deberán informar inmediatamente a la autoridad ambiental con jurisdicción en esa localidad y al Ministerio del Ambiente y Desarrollo Sostenible con el objeto de que adopten las medidas pertinentes.
 
 (Decreto 1909 de 2000, Art.5).
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.6 — Exigencias
 
 En los casos que sea necesario, las autoridades competentes exigirán al interesado la adecuación de los puertos marítimos y fluviales, los aeropuertos y otros lugares designados mediante el presente decreto para el comercio internacional de especímenes de fauna y flora silvestre.
 
 (Decreto 1909 de 2000 Art.6).
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.7 — Trabajo interinstitucional
 
@@ -5302,9 +4500,282 @@ Los Ministerios de Transporte, Ambiente y Desarrollo Sostenible y Comercio, Indu
 
 DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL SISTEMA NACIONAL DE PROTECCIÓN Y BIENESTAR ANIMAL SINAPYBA
 
-## art:2.2.1.3 — A.1.1
+## art:2.2.1.3a.1.1 — OBJETO
 
-OBJETO. El presente capítulo tiene por objeto reglamentar la organización y funcionamiento del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, como el conjunto de políticas, orientaciones, normas, actividades, programas, instituciones y actores que permiten la protección y el bienestar animal, así como la implementación de la Política Nacional de Protección y Bienestar Animal PNPYBA.
+El presente capítulo tiene por objeto reglamentar la organización y funcionamiento del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, como el conjunto de políticas, orientaciones, normas, actividades, programas, instituciones y actores que permiten la protección y el bienestar animal, así como la implementación de la Política Nacional de Protección y Bienestar Animal PNPYBA.
+
+## art:2.2.1.3a.1.2 — DEFINICIONES
+
+Para efectos del presente capítulo se adoptan estas definiciones:
+
+Animal: Ser orgánico que vive, siente y se mueve por propio impulso.
+
+Bienestar animal:Es el estado físico y mental de un animal en relación con las condiciones en las que vive y muere; adicionalmente hace referencia al modo en que un animal afronta las condiciones de su ambiente.
+
+Prevención del maltrato en contra de los animales:Conjunto de acciones tendientes a evitar el sufrimiento injustificado, maltrato, crueldad, abandono o dolor causado a los animales directa o indirectamente por el ser humano.
+
+Promoción del bienestar animal:Conjunto de acciones tendientes a fomentar una relación armónica entre los seres humanos y los animales desde un enfoque interespecie, donde se promueva el florecimiento de las capacidades a través de los dominios del bienestar animal, según su especie.
+
+Protección animal:Conjunto de actuaciones que buscan mitigar, eliminar el daño, el sufrimiento y la crueldad hacia los animales, promover su bienestar y conservación, así como brindar la atención inmediata cuando se ha vulnerado su integridad física y/o emocional.
+
+## art:2.2.1.3a.1.3 — ÁMBITO DE APLICACIÓN
+
+El presente capítulo aplica a la organización y funcionamiento del Sistema Nacional de Protección y Bienestar Animal SINAPYBA compuesto por los siguientes integrantes:
+
+Ministerio de Agricultura y Desarrollo Rural.
+
+Ministerio de Salud y Protección Social.
+
+Ministerio de Transporte.
+
+Ministerio de Ambiente y Desarrollo Sostenible.
+
+Departamento Nacional de Planeación.
+
+Adicionalmente, aplica a los demás organismos y entidades públicas, mixtas, nacionales, regionales, locales y entidades territoriales, con injerencia en temas de protección y bienestar animal, según su misionalidad, competencias y funciones, que para el efecto del presente capítulo se denominarán actores públicos del SINAPYBA.
+
+El Sistema Nacional de Protección y Bienestar Animal SINAPYBA contará con el apoyo de los actores privados, tales como organizaciones de la sociedad civil, cooperación internacional, academia y ciudadanos, entre otros.
+
+## art:2.2.1.3a.1.4 — PRINCIPIOS RECTORES DEL SISTEMA NACIONAL DE PROTECCIÓN Y BIENESTAR ANIMAL SINAPYBA
+
+Son principios rectores del Sistema Nacional de Protección y Bienestar Animal SINAPYBA los siguientes:
+
+Principio sistémico:La Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción se implementarán a través del Sistema Nacional de Protección y Bienestar Animal SINAPYBA. El SINAPYBA promoverá la interacción entre los niveles nacional y territorial, así como entre sus integrantes, y sus actores públicos y privados, articulando sus actividades en materia de protección y bienestar animal mediante el uso de bases de acción común.
+
+Principio de coordinación:Las actuaciones de los integrantes, actores públicos de los niveles nacional y territorial y actores privados que integran o participan el Sistema Nacional de Protección y Bienestar Animal SINAPYBA deberán adelantarse de manera integrada y colaborativa, a fin de garantizar la armonía en el ejercicio de sus respectivas competencias y funciones en materia de protección y bienestar animal, así como el logro de los cometidos y objetivos del Sistema, de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción.
+
+Principio de concurrencia:Las entidades de los niveles nacional y territorial del Estado y de los actores públicos y privados que participan o integran el Sistema Nacional de Protección y Bienestar Animal SINAPYBA deberán promover la eficacia en las acciones y tareas, mediante la unión de esfuerzos y la colaboración no jerárquica, respetando las competencias y funciones en materia de protección y bienestar animal.
+
+La concurrencia podrá darse en beneficio de todas o de algunas de las entidades que integran el Sistema Nacional de Protección y Bienestar Animal SINAPYBA. El ejercicio concurrente de competencias exige el respeto de las atribuciones propias de las entidades involucradas, así como el acuerdo expreso sobre las metas comunes y cómo alcanzarlas en el marco de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción.
+
+Principio de corresponsabilidad:Conforme al ámbito de sus funciones y competencias, los integrantes y actores públicos que forman parte del Sistema Nacional de Protección y Bienestar Animal SINAPYBA tendrán una responsabilidad compartida junto con los particulares y los actores privados en materia de protección y bienestar animal, así como en la prevención del maltrato en contra de los animales presentes en el territorio nacional y en la promoción del bienestar animal.
+
+Principio de sostenibilidad en actividades con animales:Se deberán considerar medidas de sostenibilidad y cuidado en las diversas formas y actividades de relación y aprovechamiento de los animales. El Sistema Nacional de Protección y Bienestar Animal SINAPYBA no puede ser interpretado para obstaculizar, desincentivar o prohibir de facto la actividad pecuaria, pesquera o acuícola, ni las medidas de manejo permitidas por el ordenamiento jurídico vigente, ni afectar la soberanía alimentaria, ni los precios de los alimentos, de conformidad con el parágrafo 3 del artículo 31 de la Ley 2294 de 2023.
+
+Principio de enfoque ínterespecie:Las acciones derivadas del Sistema Nacional de Protección y Bienestar Animal SINAPYBA deberán tener en cuenta las necesidades particulares de cada especie animal y el reconocimiento de cada animal como individuo, promoviendo el respeto, compasión, ética, justicia e interdependencia en las relaciones del humano con los animales.
+
+## art:2.2.1.3a.1.5 — OBJETIVOS DEL SISTEMA NACIONAL DE PROTECCIÓN Y BIENESTAR ANIMAL SINAPYBA
+
+El Sistema Nacional de Protección y Bienestar Animal SINAPYBA tendrá como objetivos:
+
+Integrar la protección y el bienestar animal como uno de los componentes de las decisiones sectoriales de construcción social, ambiental, de salud pública, soberanía alimentaria del país y la convivencia ciudadana.
+
+Coordinar la gestión institucional y la respuesta articulada del Estado para la protección y el bienestar animal.
+
+Promover la formulación, implementación, seguimiento y evaluación de lineamientos, orientaciones, disposiciones, políticas, proyectos, programas y normativas en materia de protección y bienestar animal, en los ámbitos nacional y territorial.
+
+Armonizar criterios y mecanismos para la evaluación y seguimiento a las responsabilidades y compromisos en materia de protección y bienestar animal derivadas de la Política Nacional de Protección y Bienestar Animal PNPYBA.
+
+Fomentar el ejercicio de participación y educación en torno a la protección y el bienestar animal.
+
+Gestionar la información en torno a las acciones relacionadas directa o indirectamente con la protección y bienestar animal, para la generación y análisis de datos e indicadores que permitan la toma de decisiones, con el fin de mejorar la gestión a nivel nacional y territorial.
+
+Promover la articulación e implementación de la Política Nacional de Protección y Bienestar Animal PNPYBA con el nivel territorial.
+
+## art:2.2.1.3a.1.6 — DE LOS INTEGRANTES Y ACTORES DEL SISTEMA NACIONAL DE PROTECCIÓN Y BIENESTAR ANIMAL SINAPYBA
+
+El Sistema Nacional de Protección y Bienestar Animal SINAPYBA estará conformado por los integrantes previstos en el artículo 31 de la Ley 2294 de 2023, así:
+
+Ministerio de Agricultura y Desarrollo Rural.
+Ministerio de Salud y Protección Social.
+
+Ministerio de Transporte.
+
+Ministerio de Ambiente y Desarrollo Sostenible.
+
+Departamento Nacional de Planeación.
+
+Así mismo, formarán parte del Sistema Nacional de Protección y Bienestar Animal SINAPYBA los demás organismos y entidades públicas, mixtas, nacionales, regionales, locales y entidades territoriales, con injerencia en temas de protección y bienestar animal, según su misionalidad, competencias y funciones, que para el efecto del presente capítulo se denominarán actores públicos del SINAPYBA.
+
+El Sistema Nacional de Protección y Bienestar Animal SINAPYBA contará con el apoyo de los particulares y los actores privados, tales como organizaciones de la sociedad civil, cooperación internacional, academia y ciudadanos.
+
+Parágrafo. Las actuaciones de los integrantes y actores públicos del Sistema Nacional de Protección y Bienestar Animal SINAPYBA se enmarcarán en las competencias y funciones establecidas para cada uno de ellos en el ordenamiento jurídico vigente. Dichas actuaciones, así como aquellas adelantadas en cumplimiento a la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción, deberán ser reportadas a la secretaría técnica del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA de que trata el artículo 2.2.1.3A.1.10 del presente capítulo.
+
+## art:2.2.1.3a.1.7 — DEL COMITÉ NACIONAL INTERSECTORIAL DE PROTECCIÓN Y BIENESTAR ANIMAL CNPYBA
+
+Créase el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA como la instancia de articulación del SINAPYBA, integrado por:
+
+El (la) Ministro (a) de Agricultura y Desarrollo Rural, o su delegado.
+
+El (la) Ministro (a) de Salud y Protección Social, o su delegado.
+
+El (la) Ministro (a) de Transporte, o su delegado.
+
+El (la) Ministro (a) de Ambiente y Desarrollo Sostenible, o su delegado.
+
+El (la) Director (a) del Departamento Nacional de Planeación – DNP, o su delegado.
+
+Parágrafo 1. El Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA se reunirá mínimo tres (3) veces al año en sesión ordinaria, previa citación de la secretaría técnica prevista en el artículo 2.2.1.3A.1.10 del presente capítulo. Podrá reunirse de manera extraordinaria por iniciativa de la presidencia del Sistema Nacional de Protección y Bienestar Animal SINAPYBA prevista en el artículo 2.2.1.3A.1.9 del presente capítulo, o más de dos miembros, cuando se requiera.
+
+Parágrafo 2. El Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA sesionará con la asistencia de mínimo tres (3) de sus miembros y las decisiones se tomarán por mayoría simple.
+
+Parágrafo 3. La secretaría técnica del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA de que trata el artículo 2.2.1.3A.1.10 del presente capítulo podrá invitar a las sesiones a los demás actores que considere pertinente, por decisión del mismo Comité o su presidencia, dependiendo de los temas a tratar, con voz, pero sin voto.
+
+Parágrafo 4. Serán invitados permanentes al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA las siguientes entidades:
+
+Instituto Colombiano Agropecuario - ICA.
+
+Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA.
+
+Instituto Nacional de Salud - INS.
+
+Autoridad Nacional de Acuicultura y Pesca - AUNAP.
+
+Parques Nacionales Naturales de Colombia - PNN.
+
+Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD.
+
+Un representante de las corporaciones autónomas regionales y de desarrollo sostenible y demás autoridades ambientales.
+
+Un representante de las Autoridades Indígenas en materia ambiental.
+
+Tres representantes de las entidades territoriales.
+
+La determinación y forma de elección de los invitados permanentes previstos en los numerales 7 y 8 será establecida en el Manual Operativo de que trata el artículo 2.2.1.3A.1.13 del presente capítulo.
+
+## art:2.2.1.3a.1.8 — FUNCIONES DEL COMITÉ NACIONAL INTERSECTORIAL DE PROTECCIÓN Y BIENESTAR ANIMAL CNPYBA
+
+Serán funciones del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA:
+
+Evaluar, hacer seguimiento y sugerir modificaciones, actualizaciones y estrategias de implementación de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción.
+
+Formular lineamientos generales en materia de protección y bienestar animal que deberán ser tenidos en cuenta por los integrantes y actores del Sistema Nacional de Protección y Bienestar Animal SINAPYBA en el ámbito de sus competencias y funciones.
+
+Promover la formulación de los lineamientos, directrices y disposiciones en materia de protección y bienestar animal para todo el territorio nacional, así como promover estrategias de acompañamiento, evaluación y seguimiento para su cumplimiento en los niveles nacional y territorial.
+
+Definir los lineamientos de política en materia de protección y bienestar animal para los animales domésticos, en el ámbito de las competencias y funciones de los integrantes y actores del Sistema Nacional de Protección y Bienestar Animal SINAPYBA.
+
+Orientar a los integrantes y actores públicos y privados del Sistema Nacional de Protección y Bienestar Animal SINAPYBA en materia de protección y bienestar animal.
+
+Sugerir lineamientos y disposiciones en materia de protección y bienestar animal a fin de ser incluidos en los planes de desarrollo nacional y territoriales, y acompañar su implementación, en los términos del artículo 15 de la Ley 152 de 1994 y demás normas relacionadas.
+
+Promover la gestión del conocimiento y la difusión de la investigación en materia de protección y bienestar animal, en articulación con las entidades nacionales y territoriales competentes.
+
+Formular y adoptar el Manual Operativo del Sistema Nacional de Protección y Bienestar Animal SINAPYBA.
+
+Aprobar el plan de trabajo anual propuesto por cada uno de los Subcomités Técnicos de Protección y Bienestar Animal, de que trata el artículo 2.2.1.3A.1.11 del presente capítulo.
+
+Solicitar informes a los Subcomités Técnicos de Protección y Bienestar Animal de que trata el artículo 2.2.1.3A.1.11 del presente capítulo.
+
+Darse su propio reglamento.
+
+## art:2.2.1.3a.1.9 — DE LA PRESIDENCIA DEL COMITÉ NACIONAL INTERSECTORIAL DE PROTECCIÓN Y BIENESTAR ANIMAL CNPYBA
+
+El Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA tendrá una presidencia, que liderará y orientará el funcionamiento del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, cuyas funciones son:
+
+Promover y asegurar el cumplimiento de los objetivos del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, así como las disposiciones del presente capítulo.
+
+Velar por el cumplimiento de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción.
+
+Analizar y proponer los asuntos que deban ser evaluados y discutidos al interior del Comité Nacional Intersectorial Nacional de Protección y Bienestar Animal CNPYBA, por solicitud de cualquiera de los miembros del Comité.
+
+Articular el Sistema Nacional de Protección y Bienestar Animal SINAPYBA con el Sistema Nacional Ambiental SINA y todos sus componentes, así como con los demás sistemas nacionales y regionales que tengan relación directa o indirecta con la protección y el bienestar animal.
+
+Las demás previstas en el Manual Operativo de que trata el artículo 2.2.1.3A.1.13 del presente capítulo.
+
+PARÁGRAFO. La presidencia del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA se ejercerá de forma rotativa entre el Ministerio de Agricultura y Desarrollo Rural y el Ministerio de Ambiente y Desarrollo Sostenible, por períodos de dos (2) años, iniciando el Ministerio de Ambiente y Desarrollo Sostenible.
+
+## art:2.2.1.3a.1.10 — DE LA SECRETARÍA TÉCNICA DEL COMITÉ NACIONAL INTERSECTORIAL DE PROTECCIÓN Y BIENESTAR ANIMAL CNPYBA
+
+El Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA contará con una secretaría técnica que tendrá dentro de sus funciones:
+
+Citar las sesiones ordinarias del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA mínimo tres (3) veces al año.
+
+Citar las sesiones extraordinarias del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA cuando su presidencia o dos (2) de sus integrantes lo considere.
+
+Invitar a las sesiones ordinarias o extraordinarias a los demás actores públicos y privados que el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA, cuando dos (2) de sus miembros o su presidencia considere pertinente, dependiendo de los temas a tratar.
+
+Elaborar las actas de las sesiones ordinarias y extraordinarias del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA y asegurar su suscripción.
+
+Custodiar, archivar, disponer y dar publicidad a las actas de sesiones ordinarias y extraordinarias del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+Hacer seguimiento a los compromisos previstos en las actas de las sesiones ordinarias y extraordinarias del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+Compilar los reportes de las actuaciones de los integrantes y actores públicos y privados del SINAPYBA en materia de protección y bienestar animal, así como aquellas adelantadas en cumplimiento de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción.
+
+Adelantar el seguimiento al cumplimiento de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción.
+
+Operativizar los Subcomités Técnicos de Protección y Bienestar Animal previstos en el artículo 2.2.1.3A.1.11 del presente capítulo.
+
+Preparar los informes que requiera la presidencia del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+Las demás previstas en el Manual Operativo de que trata el artículo 2.2.1.3A.1.13 del presente capítulo.
+
+PARÁGRAFO. La secretaría técnica del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA se ejercerá de forma permanente por el Ministerio de Ambiente y Desarrollo Sostenible.
+
+## art:2.2.1.3a.1.11 — DE LOS SUBCOMITÉS TÉCNICOS DE PROTECCIÓN Y BIENESTAR ANIMAL
+
+El Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA contará con los siguientes Subcomités Técnicos de Protección y Bienestar Animal para el desarrollo de tareas específicas en cumplimiento de sus funciones.
+
+Subcomité de Gestión Institucional – SGI.
+
+a) Apoyar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA en la planificación, formulación, supervisión y seguimiento a la implementación de las actividades, planes de acción y lineamientos, en el marco la Política Nacional de Protección y Bienestar Animal PNPYBA.
+
+b) Apoyar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA en la articulación de los diferentes actores públicos y privados del Sistema Nacional de Protección y Bienestar Animal SINAPYBA y el acompañamiento a las instancias departamentales, municipales y distritales.
+
+c) Presentar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA actualizaciones al Manual Operativo del Sistema Nacional de Protección y Bienestar Animal SINAPYBA en el componente de Gestión Institucional.
+
+d) Formular el plan de trabajo anual en el componente de Gestión Institucional, en articulación con los integrantes, actores públicos y privados relacionados en el tema.
+
+e) Rendir los informes que requiera el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+f) Conformar mesas técnicas incidentales y temáticas con los demás integrantes, actores públicos y privados del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, para el cumplimiento de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción, o cuando se requiera.
+
+Subcomité de Gestión de Educación y Participación – SGEP.
+
+a) Apoyar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA en el diseño y propuesta de estrategias y programas que promuevan el fortalecimiento de la educación en protección y bienestar animal, así como la participación en materia de protección y bienestar animal.
+
+b) Diseñar y proponer al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA estrategias de comunicación y difusión en materia de protección y bienestar animal.
+
+c) Presentar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA actualizaciones al Manual Operativo del Sistema Nacional de Protección y Bienestar Animal SINAPYBA en el componente de Gestión de Educación y Participación.
+
+d) Formular el plan de trabajo anual en el componente de Gestión de Educación y Participación, en articulación con los integrantes, actores públicos y privados relacionados en el tema.
+
+e) Rendir los informes que requiera el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+f) Conformar mesas técnicas incidentales y temáticas con los demás integrantes, actores públicos y privados del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, para el cumplimiento de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción, o cuando se requiera.
+
+Subcomité de Gestión de la Información y Conocimiento – SGIC.
+
+a) Apoyar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA en la gestión de la información y el conocimiento generado alrededor de la protección y el bienestar animal, a nivel nacional e internacional, para la toma de decisiones en la materia.
+
+b) Diseñar indicadores y compilar la información relevante en materia de protección y bienestar animal que sustente la formulación de políticas y demás normativas relacionadas.
+
+c) Presentar al Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA actualizaciones al Manual Operativo del Sistema Nacional de Protección y Bienestar Animal SINAPYBA en el componente de Gestión de la Información y Conocimiento.
+
+d) Formular el plan de trabajo anual en el tema de Gestión de la Información y Conocimiento, en articulación con los integrantes, actores públicos y privados relacionados en el tema.
+
+e) Rendir los informes que requiera el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+f) Conformar mesas técnicas incidentales y temáticas con los demás integrantes, actores públicos y privados del SINAPYBA, para el cumplimiento de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción, o cuando se requiera.
+
+PARÁGRAFO 1. La composición y funcionamiento de estos Subcomités se establecerán en el Manual Operativo de que trata el artículo 2.2.1.3A.1.13 del presente capítulo.
+
+PARÁGRAFO 2. El Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA podrá crear, suprimir, fusionar o modificar estos Subcomités, de acuerdo con el Manual Operativo de que trata el artículo 2.2.1.3A.1.13 del presente capítulo.
+
+## art:2.2.1.3a.1.12 — ARTICULACIÓN TERRITORIAL DEL SISTEMA NACIONAL DE PROTECCIÓN Y BIENESTAR ANIMAL SINAPYBA
+
+Las entidades territoriales darán cumplimiento a sus funciones y competencias en materia de protección y bienestar animal establecidas en las normas vigentes o aquellas que las modifiquen o sustituyan, en el marco de la Política Nacional de Protección y Bienestar Animal PNPYBA, su plan de acción y de los lineamientos, directrices y disposiciones emitidos por el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA.
+
+PARÁGRAFO. Las entidades territoriales serán responsables de la ejecución de las acciones para la implementación de los planes, programas y proyectos en materia de protección y bienestar animal, en el marco de sus competencias y funciones.
+
+## art:2.2.1.3a.1.13 — MANUAL OPERATIVO DEL SISTEMA NACIONAL DE PROTECCIÓN Y BIENESTAR ANIMAL SINAPYBA
+
+En un término máximo de seis (6) meses contados a partir de la entrada en vigencia del presente capítulo, el Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA adoptará y publicará el Manual Operativo del Sistema Nacional de Protección y Bienestar Animal SINAPYBA, cuyo fin es organizar las condiciones y mecanismos de interacción entre los actores, integrantes e instancias de coordinación y articulación del Sistema.
+
+## art:2.2.1.3a.1.14 — DISPOSICIÓN FINAL
+
+En el marco de la implementación de la Política Nacional de Protección y Bienestar Animal PNPYBA y su plan de acción, el Sistema Nacional de Protección y Bienestar Animal SINAPYBA definirá los lineamientos en materia de protección y bienestar animal para los animales domésticos. Lo anterior, a través del Comité Nacional Intersectorial de Protección y Bienestar Animal CNPYBA en el ámbito de las competencias y funciones de los integrantes y actores del Sistema y en concordancia con los tratados, convenios e instrumentos internacionales de los que Colombia hace parte.
+
+PARÁGRAFO. Lo dispuesto en el presente capítulo deberá sujetarse a las disponibilidades presupuestales, al Marco Fiscal de Mediano Plazo y al Marco de Gasto de Mediano Plazo de los sectores involucrados."
+
+(Adiciona Art 1 del decreto 810 de 2025)
+
+CAPÍTULO 4.
+
+HUMEDALES
+
+SECCIÓN 1
 
 ## art:2.2.1.4.1.1 — Designación
 
@@ -5578,23 +5049,17 @@ PARÁGRAFO 2. - La cartografía oficial del presente decreto, se adopta en forma
 
 (Decreto 250 de 2017, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.2 — Régimen aplicable
 
 El manejo y gestión del humedal designado en el artículo precedente debido a su Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo del artículo 172 de la Ley 1753 de 2015 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normativa vigente, y/o la que modifique o sustituya el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estos ecosistemas estratégicos.
 
 (Decreto 250 de 2017, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.3 — CONTINUACIÓN DEL RÉGIMEN JURÍDICO DE LAS ÁREAS PROTEGIDAS
 
 El presente acto administrativo no modifica ni deroga las declaraciones y delimitaciones de las áreas protegidas nacionales o regionales localizadas al interior del humedal Ramsar Laguna del Otún.
 
 (Decreto 250 de 2017, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.4.1.4 — PLAN DE MANEJO AMBIENTAL
 
@@ -5605,8 +5070,6 @@ Las Corporaciones Autónomas Regionales del Quindío - CRQ, del Tolima - CORTOLI
 SECCIÓN 2
 
 HUMEDAL CHINGAZA
-
-ARTÍCULO
 
 ## art:2.2.1.4.2.1 — Designación
 
@@ -5750,8 +5213,6 @@ COORDENADAS PLANAS
 
 (Decreto 233 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2.2 — Régimen aplicable
 
 El manejo del humedal que se designa en el presente decreto, por ser de Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo 2 del artículo 202 de la Ley 1450 de 2011 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normatividad que expida el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estas áreas.
@@ -5759,8 +5220,6 @@ El manejo del humedal que se designa en el presente decreto, por ser de Importan
 SECCIÓN 3.
 
 HUMEDAL LAGUNA DE LA COCHA
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.1 — Designación
 
@@ -6196,15 +5655,11 @@ Esta delimitación se generó a partir de la cartografía base tipo vectorial de
 
 (Decreto 698 de 2000, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.2 — Régimen aplicable
 
 El manejo del humedal que se designa en el presente decreto, por ser de Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo 2 del artículo 202 de la Ley 1450 de 2011 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normatividad que expida el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estas áreas.
 
 SECCIÓN 4.
-
-ARTÍCULO
 
 ## art:2.2.1.4.4.1 — Designación
 
@@ -6462,15 +5917,11 @@ PARÁGRAFO 2. La cartografía oficial del presente decreto, se adopta en formato
 
 (Decreto 1275 de 2014, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.4.2 — Régimen aplicable
 
 El manejo del humedal que se designa en el presente decreto, por ser de Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo 2 del artículo 202 de la Ley 1450 de 2011 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normatividad que expida el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estas áreas.
 
 (Decreto 1275 de 2014, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.4.4.3 — Plan de Manejo Ambiental
 
@@ -6482,8 +5933,6 @@ SECCIÓN 5.
 
 DELTA DEL RÍO BAUDÓ Y DEL RÍO SAN JUAN
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.1 — Designación
 
 Se designan el Delta del río San Juan y el Delta del río Baudó, para ser incluidos en la Lista de Humedales de Importancia Internacional, los cuales se encuentran delimitados de la siguiente forma:
@@ -6494,8 +5943,6 @@ Delta del río Baudó: Presenta su límite norte en el punto conocido como panta
 
 (Decreto 1667 de 2002, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.2 — Régimen aplicable
 
 El manejo del humedal que se designa en el presente decreto, por ser de Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo 2 del artículo 202 de la Ley 1450 de 2011 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normatividad que expida el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estas áreas.
@@ -6503,8 +5950,6 @@ El manejo del humedal que se designa en el presente decreto, por ser de Importan
 SECCIÓN 6.
 
 DELTA ESTUARINO DEL RÍO MAGDALENA
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.1 — Designación
 
@@ -7874,8 +7319,6 @@ PARÁGRAFO . En virtud de lo anterior, actualícese la Ficha Informativa de los 
 
 (Decreto 3888 de 2009, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.1 — - DESIGNACIÓN
 
 Designar al Complejo de Humedales Lagos de Tarapoto para ser incluido en la Lista de Humedales de Importancia Internacional, el cual se encuentra delimitado, según los estudios elaborados por el Ministerio de Ambiente y Desarrollo Sostenible, el cual comprende un área de45.463,96 hectáreas aproximadamente de acuerdo con las siguientes coordenadas:
@@ -8136,15 +7579,11 @@ PARÁGRAFO 2.- La cartografía oficial del presente decreto, se adopta en format
 
 (Decreto 1573 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.2 — - RÉGIMEN APLICABLE
 
 El manejo y gestión del humedal designado en el artículo precedente debido a su Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo del artículo 172 de la Ley 1753 de 2015 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normativa vigente, y/o la que modifique o sustituya el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estos ecosistemas estratégicos.
 
 (Decreto 1573 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.8.3 — - PLAN DE MANEJO AMBIENTAL
 
@@ -8157,8 +7596,6 @@ SECCIÓN 9
 (Sección adicionada por el Decreto 356 de 2018, art. 1)
 
 Complejo Cenagoso de Ayapel
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.1 — - DESIGNACIÓN
 
@@ -8598,15 +8035,11 @@ PARÁGRAFO 3.- La cartografía oficial del presente decreto, se adopta en format
 
 (Decreto 356 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.2 — - RÉGIMEN APLICABLE
 
 El manejo y gestión del humedal designado en el artículo precedente debido a su Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo del artículo 172 de la Ley 1753 de 2015 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normativa vigente, y/o la que modifique o sustituya el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estos ecosistemas estratégicos.
 
 (Decreto 356 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.3 — 
 
@@ -8619,8 +8052,6 @@ SECCIÓN 10
 (Sección Adicionado por el Decreto 1190 de 2018, art. 1)
 
 Complejo Cenagoso de Zapatosa
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.1 — DESIGNACIÓN
 
@@ -9046,15 +8477,11 @@ PARÁGRAFO 3. La cartografía oficial del presente decreto, se adopta en formato
 
 (Decreto 1190 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.2 — RÉGIMEN APLICABLE
 
 El manejo y gestión del complejo de humedales designado en el artículo precedente debido a su Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo del artículo 172 de la Ley 1753 de 2015 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normativa vigente, y/o la que modifique o sustituya el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estos ecosistemas estratégicos.
 
 (Decreto 1190 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.3 — PLAN DE MANEJO AMBIENTAL
 
@@ -9067,8 +8494,6 @@ SECCIÓN 11
 (Sección adicionada por el Decreto 1235 de 2018, art. 1)
 
 Cuenca del Rio Bita
-
-ARTÍCULO
 
 ## art:2.2.1.4.11.1 — DESIGNACIÓN
 
@@ -10310,15 +9735,11 @@ PARÁGRAFO 3. La cartografía oficial del presente decreto, se adopta en formato
 
 (Decreto 1235 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.11.2 — RÉGIMEN APLICABLE
 
 El manejo y gestión del complejo de humedales designado en el artículo precedente debido a su Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, la Política Nacional para Humedales Interiores de Colombia, el parágrafo del artículo 172 de la Ley 1753 de 2015 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normativa vigente, y/o la que modifique o sustituya el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental para estos ecosistemas estratégicos.
 
 (Decreto 1235 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.11.3 — PLAN DE MANEJO AMBIENTAL
 
@@ -10331,8 +9752,6 @@ SECCIÓN 12
 (Sección adicionada por el Decreto 1468 de 2018, art. 1)
 
 HUMEDALES URBANOS DEL DISTRITO CAPITAL DE BOGOTÁ
-
-ARTÍCULO
 
 ## art:2.2.1.4.12.1 — Designación
 
@@ -10348,15 +9767,11 @@ PARÁGRAFO 4. Los límites establecidos en la presente sección podrán ser modi
 
 (Decreto 1468 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.12.2 — Régimen aplicable
 
 El manejo y gestión del complejo de humedales designado en el artículo precedente, debido a su Importancia Internacional, se regirá de acuerdo con los lineamientos y directrices emanados por la Convención Ramsar, el parágrafo del artículo 172 de la Ley 1753 de 2015 y las Resoluciones 157 de 2004, 196 de 2006, y 1128 de 2006, así como por la normativa vigente, y/o la que modifique o sustituya el Ministerio de Ambiente y Desarrollo Sostenible en materia ambiental, para estos ecosistemas estratégicos, sin perjuicio de las directrices y lineamientos que el Distrito Capital haya emitido o emita para el manejo de estos humedales, siempre y cuando las mismas no sean incompatibles con el régimen de protección asignado.
 
 (Decreto 1468 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.12.3 — Plan de manejo ambiental
 
@@ -10372,8 +9787,6 @@ SECCIÓN 1
 
 INVESTIGACIÓN CIENTÍFICA SOBRE DIVERSIDAD BIOLÓGICA.
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.1 — Ámbito de aplicación
 
 El presente capítulo se aplicará a todas las investigaciones científicas sobre diversidad biológica que se realicen en el territorio nacional, sin perjuicio de lo dispuesto por la Ley 13 de 1990 acerca de la competencia de la Autoridad nacional de Acuicultura y Pesca (AUNAP) o la entidad que haga sus veces en materia de investigación científica de recursos pesqueros, y de las competencias asignadas a la Dimar y al Ministerio de Relaciones Exteriores por el Decreto 1070 de 2015 de los artículos 2.4.5.1 a 2.4.5.24 en lo que concierne a la investigación científica o tecnológica marina".
@@ -10385,8 +9798,6 @@ PARÁGRAFO 1. Las disposiciones contenidas en el presente capítulo se aplicará
 PARÁGRAFO 2. Para la correcta interpretación el presente capítulo se adopta la definición de diversidad biológica contenida en la Ley 165 de 1994, excluidas las especies de fauna y flora doméstica y la especie humana.
 
 (Decreto 309 de 2000, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.2 — Permiso de Estudio con fines de Investigación Científica
 
@@ -10404,15 +9815,11 @@ Lo anterior, sin perjuicio de la obligación de suministrar información acerca 
 
 (Decreto 309 de 2000, art. 2).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.3 — Personas jurídicas
 
 Las personas jurídicas que pretendan adelantar dos o más proyectos de investigación en diversidad biológica y/o prácticas docentes universitarias con fines científicos, podrán solicitar a la autoridad ambiental competente la expedición de un solo permiso de estudio que ampare todos los proyectos, siempre y cuando éstos se encuentren temáticamente relacionados en programas institucionales de investigación.
 
 (Decreto 309 de 2000, art. 3).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.4 — Competencia
 
@@ -10436,15 +9843,11 @@ La autoridad ambiental que asuma el conocimiento deberá solicitar concepto a la
 
 (Decreto 309 de 2000, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.5 — Emergencia Ambiental
 
 El Ministerio de Ambiente y Desarrollo Sostenible o la autoridad ambiental que éste determine, expedirá los permisos de investigación que se requieran de manera inmediata en caso de riesgos potenciales o desastres naturales consumados.
 
 (Decreto 309 de 2000, art. 5).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.6 — Requisitos de la solicitud
 
@@ -10452,15 +9855,11 @@ El interesado en obtener permiso de estudio con fines de investigación científ
 
 (Decreto 309 de 2000, art. 6).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.7 — Extranjeros
 
 Además del cumplimiento de los requisitos de que trata el artículo anterior, las personas naturales o jurídicas extranjeras que pretendan adelantar actividades de investigación científica en diversidad biológica en el territorio colombiano, deberán presentar a consideración de la autoridad ambiental competente el nombre y hoja de vida de uno o más coinvestigadores colombianos para que participen en la respectiva investigación o contribuyan en el seguimiento y evaluación de la misma.
 
 (Decreto 309 de 2000, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.8 — Obligaciones de los Investigadores
 
@@ -10476,8 +9875,6 @@ Los investigadores de la diversidad biológica que obtengan permiso de estudio d
 
 (Decreto 309 de 2000, art. 8).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.9 — Términos
 
 Dentro de los treinta (30) días, contados a partir de la presentación de la solicitud con el lleno de los requisitos legales, la autoridad ambiental competente deberá otorgar o negar el permiso.
@@ -10486,15 +9883,11 @@ PARÁGRAFO . Lo dispuesto en este artículo se entenderá sin perjuicio de lo pr
 
 (Decreto 309 de 2000, art.9).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.10 — Vigencia de los permisos
 
 Los permisos de estudio con fines de investigación científica en diversidad biológica podrán otorgarse hasta por cinco (5) años, excepto aquellas investigaciones cuyo propósito sea proyectar obras o trabajos para el futuro aprovechamiento de los recursos naturales, en cuyo caso dicho permiso podrá otorgarse hasta por dos (2) años, de conformidad con el artículo56 del Decreto-ley 2811 de 1974. Estos términos se contarán a partir de la expedición del permiso de estudio y podrán ser renovados previa solicitud del interesado.
 
 (Decreto 309 de 2000, art. 10).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.11 — Cesión
 
@@ -10502,23 +9895,17 @@ Los titulares de permisos de estudio con fines de investigación científica en 
 
 (Decreto 309 de 2000, art. 11).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.12 — Investigaciones que involucran acceso a recursos genéticos
 
 Las investigaciones científicas para las que se requiera la obtención y utilización de recursos genéticos, sus productos derivados o sus componentes intangibles, quedarán sujetas a lo previsto en el presente capítulo y demás normas legales vigentes que regulen el acceso a recursos genéticos.
 
 (Decreto 309 de 2000, art. 15).
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.13 — Permiso de estudio con acceso a recursos genéticos
 
 Cuando además del permiso de estudio con fines de investigación a que se refiere el presente decreto, se requiera del acceso a recursos genéticos, productos derivados o componente intangible asociado al mismo, la autoridad ambiental competente otorgará el permiso de estudio y en el acto respectivo condicionará el acceso a la autorización del Ministerio de Ambiente y Desarrollo Sostenible y remitirá a este último los documentos e información sobre el particular.
 
 (Decreto 309 de 2000, art. 16).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.14 — Resultados de la investigación Las actividades mencionadas en el artículo 2.2.1.5.1.2
 
@@ -10527,8 +9914,6 @@ de este Decreto podrán adelantarse por el investigador, sin perjuicio de la aut
 PARÁGRAFO . El permiso de estudio y el desarrollo de las actividades amparadas en él, no condicionan al Ministerio de Ambiente y Desarrollo Sostenible para autorizar el acceso a recursos genéticos.
 
 (Decreto 309 de 2000, art. 17).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.15 — Autorización de exportación
 
@@ -10546,23 +9931,17 @@ COLECCIONES BIOLÓGICAS
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.1 — Autorización de importación
 
 La importación de especímenes o muestras de la diversidad biológica con fines de investigación científica requerirá autorización por parte del Ministerio de Ambiente y Desarrollo Sostenible, sin perjuicio de lo dispuesto por el artículo 52, numeral 12 de la Ley 99 de 1993.
 
 (Decreto 309 de 2000, art. 20).
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.2 — Prohibición de comercializar especímenes o muestras obtenidos con fines de Investigación Científica
 
 Los especímenes o muestras obtenidos en ejercicio del permiso de estudio con fines de investigación científica en diversidad biológica de que trata el presente decreto, no podrán ser aprovechados con fines comerciales.
 
 (Decreto 309 de 2000, art. 21).
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.3 — Suspensión o revocatoria del permiso
 
@@ -10572,15 +9951,11 @@ La revocatoria o suspensión del permiso de estudio deberá estar sustentada en 
 
 (Decreto 309 de 2000, art. 22).
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.4 — Sistema Nacional de Investigación Ambiental
 
 De conformidad con los artículos 2.2.8.9.1.1 al 2.2.8.9.2.4, de este Decreto, la información sobre los proyectos de investigación que hayan sido objeto de permiso de estudio con fines de investigación científica, deberá ser remitida por las autoridades ambientales o por, el investigador que adelante un proyecto que no requiere permiso de estudio, al Sistema de Información de Biodiversidad de Colombia a través del Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 309 de 2000, art. 23).
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.5 — Propiedad intelectual
 
@@ -10589,8 +9964,6 @@ La autoridad ambiental competente para expedir el permiso de estudio con fines d
 Cualquier información que sea aportada por el solicitante o titular del permiso de estudio conforme a lo establecido en este decreto y que sea sujeta de patente o constituya secreto industrial, será mantenida en confidencialidad por la autoridad ambiental competente, siempre y cuando dicha información reúna los requisitos para su protección conforme a las normas pertinentes y el solicitante o titular del permiso advierta respecto del carácter confidencial de dicha información por escrito al momento de aportarla.
 
 (Decreto 309 de 2000, art. 24).
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.6 — Territorios de comunidades indígenas y negras
 
@@ -10603,8 +9976,6 @@ CAPÍTULO 7.
 PAISAJE
 
 SECCIÓN 1
-
-ARTÍCULO
 
 ## art:2.2.1.7.1.1 — 1.1
 
@@ -10628,15 +9999,11 @@ SISTEMA NACIONAL DE ÁREAS PROTEGIDAS
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.1 — Objeto
 
 El objeto del presente capítulo es reglamentar el Sistema Nacional de Áreas Protegidas, las categorías de manejo que lo conforman y los procedimientos generales relacionados con este.
 
 (Decreto 2372 de 2010, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.2 — Definiciones
 
@@ -10678,15 +10045,11 @@ q) Categoría de manejo: Unidad de clasificación o denominación genérica que 
 
 (Decreto 2372 de 2010, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.3 — Sistema Nacional de Áreas Protegidas, SINAP
 
 EL Sistema Nacional de Áreas Protegidas es el conjunto de las áreas protegidas, los actores sociales e institucionales y las estrategias e instrumentos de gestión que las articulan, que contribuyen como un todo al cumplimiento de los objetivos generales de conservación del país.
 
 (Decreto 2372 de 2010, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.4 — Principios
 
@@ -10710,8 +10073,6 @@ PARÁGRAFO . Cuando en el presente capítulo se haga referencia a las Corporacio
 
 (Decreto 2372 de 2010, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.5 — Objetivos generales de conservación
 
 Son los propósitos nacionales de conservación de la naturaleza, especialmente la diversidad biológica, que se pueden alcanzar mediante diversas estrategias que aportan a su logro. Las acciones que contribuyen a conseguir estos objetivos constituyen una prioridad nacional y una tarea conjunta en la que deben concurrir, desde sus propios ámbitos de competencia o de acción, el Estado y los particulares. Los objetivos generales de conservación del país son:
@@ -10723,8 +10084,6 @@ b) Garantizar la oferta de bienes y servicios ambientales esenciales para el bie
 c) Garantizar la permanencia del medio natural, o de algunos de sus componentes, como fundamento para el mantenimiento de la diversidad cultural del país y de la valoración social de la naturaleza.
 
 (Decreto 2372 de 2010, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.6 — Objetivos de conservación de las áreas protegidas del Sinap
 
@@ -10752,8 +10111,6 @@ PARÁGRAFO . En el acto mediante el cual se reserva, alindera, delimita, declara
 
 (Decreto 2372 de 2010, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.7 — Coordinación del Sinap
 
 Corresponde a Parques Nacionales Naturales de Colombia coordinar el Sistema Nacional de Áreas
@@ -10770,8 +10127,6 @@ d) Las demás que se inscriban dentro de las anteriores o que por su naturaleza 
 
 (Decreto 2372 de 2010, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.8 — Subsistemas de gestión de áreas protegidas
 
 El SINAP contiene los siguientes subsistemas de gestión:
@@ -10783,8 +10138,6 @@ b) Subsistemas temáticos: Son el conjunto de áreas protegidas nacionales, regi
 PARÁGRAFO . Al interior de los Subsistemas regionales de áreas protegidas podrán conformarse subsistemas de áreas protegidas que obedezcan a criterios geográficos.
 
 (Decreto 2372 de 2010, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.9 — Funciones frente a los subsistemas
 
@@ -10803,8 +10156,6 @@ c) Apoyar con asistencia técnica, en la medida de sus posibilidades y recursos 
 SECCIÓN 2
 
 CATEGORÍAS DE ÁREAS PROTEGIDAS
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.1 — Áreas protegidas del Sinap
 
@@ -10830,8 +10181,6 @@ PARÁGRAFO . El calificativo de pública de un área protegida hace referencia �
 
 (Decreto 2372 de 2010, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.2 — El Sistema de Parques Nacionales Naturales
 
 El Sistema de Parques Nacionales Naturales forma parte del Sinap y está integrado por los tipos de áreas consagrados en el artículo 329 del Decreto-ley 2811 de 1974.
@@ -10841,8 +10190,6 @@ La reserva, delimitación, alinderación y declaración de las áreas del Sistem
 PARÁGRAFO . La reglamentación del Sistema de Parques Nacionales Naturales, corresponde en su integridad a lo definido en los artículos 2.2.2.1.7.1 al 2.2.2.1.16.3 del presente Decreto o la norma que lo modifique, sustituya o derogue.
 
 (Modificado por el Decreto 1956 de 2015, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.3 — Las reservas forestales protectoras
 
@@ -10858,8 +10205,6 @@ PARÁGRAFO 2. Entiéndase por frutos secundarios del bosque los productos no mad
 
 (Decreto 2372 de 2010, Art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.4 — Parque natural regional
 
 Espacio geográfico en el que paisajes y ecosistemas estratégicos en la escala regional, mantienen la estructura, composición y función, así como los procesos ecológicos y evolutivos que los sustentan y cuyos valores naturales y culturales asociados se ponen al alcance de la población humana para destinarlas a su preservación, restauración, conocimiento y disfrute.
@@ -10867,8 +10212,6 @@ Espacio geográfico en el que paisajes y ecosistemas estratégicos en la escala 
 La reserva, delimitación, alinderación, declaración y administración de los Parques Naturales Regionales corresponde a las Corporaciones Autónomas Regionales, a través de sus Consejos Directivos.
 
 (Decreto 2372 de 2010, Art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.5 — Distritos de manejo integrado
 
@@ -10880,8 +10223,6 @@ La reserva, delimitación, alinderación, declaración, administración y sustra
 
 (Decreto 2372 de 2010, Art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.6 — Áreas de recreación
 
 Espacio geográfico en los que los paisajes y ecosistemas estratégicos en la escala regional, mantienen la función, aunque su estructura y composición hayan sido modificadas, con un potencial significativo de recuperación y cuyos valores naturales y culturales asociados, se ponen al alcance de la población humana para destinarlos a su restauración, uso sostenible, conocimiento y disfrute.
@@ -10889,8 +10230,6 @@ Espacio geográfico en los que los paisajes y ecosistemas estratégicos en la es
 La reserva, delimitación, alinderación, declaración, administración y sustracción, corresponde a las Corporaciones Autónomas Regionales a través de sus Consejos Directivos.
 
 (Decreto 2372 de 2010, Art. 15)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.7 — Distritos de conservación de suelos
 
@@ -10901,8 +10240,6 @@ Esta área se delimita para someterla a un manejo especial orientado a la recupe
 La reserva, delimitación, alinderación, declaración, administración y sustracción corresponde a las Corporaciones Autónomas Regionales, mediante acuerdo del respectivo Consejo Directivo.
 
 (Decreto 2372 de 2010, Art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.8 — Reserva natural de la sociedad civil
 
@@ -10918,8 +10255,6 @@ PARÁGRAFO . Podrán coexistir áreas protegidas privadas, superpuestas con áre
 
 (Decreto 2372 de 2010, Art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.9 — Registro de reservas naturales de la sociedad civil
 
 Los propietarios privados que deseen que los predios destinados como reserva natural de la sociedad civil se incluyan como áreas integrantes del Sinap, deberán registrarlos ante Parques Nacionales Naturales de Colombia. Así mismo, en ejercicio de la autonomía de la voluntad, podrán solicitar la cancelación del registro para retirar el área del Sinap.
@@ -10927,8 +10262,6 @@ Los propietarios privados que deseen que los predios destinados como reserva nat
 El registro de estas áreas protegidas se adelantará de conformidad con lo previsto en este decreto -o la norma que la modifique, derogue o sustituya.
 
 (Decreto 2372 de 2010, Art. 18)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.10 — Determinantes ambientales
 
@@ -10940,8 +10273,6 @@ PARÁGRAFO . Cuando la presente ley se refiera a planes de ordenamiento territor
 
 (Decreto 2372 de 2010, Art. 19)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.11 — Suelo de protección
 
 Está constituido por las zonas y áreas de terrenos localizados dentro de cualquiera de las clases de suelo de que trata la Ley 388 de 1997 y que tiene restringida la posibilidad de urbanizarse debido a la importancia estratégica para la designación o ampliación de áreas protegidas públicas o privadas, que permitan la preservación, restauración o uso sostenible de la biodiversidad, de importancia municipal, regional o nacional.
@@ -10951,8 +10282,6 @@ Si bien los suelos de protección no son categorías de manejo de áreas protegi
 PARÁGRAFO . Las autoridades ambientales urbanas deberán asesorar y/o apoyar los procesos de identificación de suelos de protección por parte de los respectivos municipios o distritos, así como la designación por parte de las Corporaciones Autónomas Regionales, de las áreas protegidas bajo las categorías de manejo previstas en el presente decreto.
 
 (Decreto 2372 de 2010, Art. 20)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.12 — Articulación con procesos de ordenamiento, planes sectoriales y planes de manejo de ecosistemas
 
@@ -10964,8 +10293,6 @@ SECCIÓN 3
 
 DISPOSICIONES COMUNES
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.1 — Permanencia de las figuras de protección declaradas
 
 Las categorías de protección y manejo de los recursos naturales renovables reguladas por la Ley 2ª de 1959, el Decreto-ley 2811 de 1974, o por la Ley 99 de 1993 y sus reglamentos, existentes a la entrada en vigencia del presente decreto, con base en las cuales declararon áreas públicas o se designaron áreas por la sociedad civil, y las establecidas directamente por leyes o decretos, mantendrán plena vigencia y continuarán rigiéndose para todos sus efectos por las normas que las regulan.
@@ -10974,8 +10301,6 @@ Sin embargo, esas áreas no se considerarán como áreas protegidas integrantes 
 
 (Decreto 2372 de 2010, Art. 22)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2 — Homologación de denominaciones
 
 Las figuras de protección existentes para integrarse como áreas protegidas del Sinap, en caso de ser necesario deberán cambiar su denominación, con el fin de homologarse con las categorías definidas en el presente decreto, para lo cual deberán enmarcarse y cumplir con los objetivos de conservación, los atributos, la modalidad de uso y demás condiciones previstas para cada categoría del Sinap.
@@ -10983,8 +10308,6 @@ Las figuras de protección existentes para integrarse como áreas protegidas del
 Este procedimiento deberá adelantarse para las áreas existentes a la entrada en vigencia del presente decreto, dentro del año siguiente a la publicación del presente decreto. Vencido este plazo el Ministerio de Ambiente y Desarrollo Sostenible para el caso de las Reservas Forestales Protectoras Nacionales y la Corporación respectiva tratándose de otras áreas protegidas, deberá comunicar oficialmente a Parques Nacionales Naturales de Colombia, el listado oficial de áreas protegidas, de conformidad con las disposiciones señaladas en el presente decreto, el cual deberá acompañarse de copia de los actos administrativos en los cuales conste la información sobre sus límites en cartografía IGAC disponible, los objetivos de conservación, la categoría utilizada y los usos permitidos.
 
 (Decreto 2372 de 2010, Art. 23)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.3 — Registro único de áreas protegidas del Sinap
 
@@ -10996,8 +10319,6 @@ PARÁGRAFO . Las reservas naturales de la sociedad civil cuyo trámite de regist
 
 (Decreto 2372 de 2010, Art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.4 — Recategorización
 
 Las autoridades ambientales con competencia en la designación de áreas protegidas señaladas en el presente decreto, podrán cambiar la categoría de protección utilizada para un área determinada, de considerar que el área se ajusta a la regulación aplicable a alguna otra de las categorías integrantes del Sinap.
@@ -11005,8 +10326,6 @@ Las autoridades ambientales con competencia en la designación de áreas protegi
 Este procedimiento podrá adelantarse en cualquier tiempo y la autoridad competente deberá comunicarlo oficialmente a Parques Nacionales Naturales de Colombia, con el fin de mantener actualizado el registro único de áreas protegidas, acompañando para el efecto copia de los actos administrativos en los cuales conste la información sobre los límites del área en cartografía oficial IGAC disponible, los objetivos de conservación, la categoría utilizada y los usos permitidos.
 
 (Decreto 2372 de 2010, Art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.5 — Superposición de categorías
 
@@ -11018,15 +10337,11 @@ Cuando la superposición se presente con un área del Sistema de Parques Naciona
 
 (Decreto 2372 de 2010, Art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.6 — Integración Automática del Sistema de Parques Nacionales Naturales al Sinap
 
 Todas las áreas del Sistema de Parques Nacionales Naturales existentes, se consideran integradas al Sinap de manera automática a partir de la expedición del presente decreto.
 
 (Decreto 2372 de 2010, Art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.7 — Distinciones internacionales
 
@@ -11034,15 +10349,11 @@ Las distinciones internacionales tales como Sitios Ramsar, Reservas de Biósfera
 
 (Decreto 2372 de 2010, Art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.8 — Ecosistemas estratégicos
 
 Las zonas de páramos, subpáramos, los nacimientos de agua y las zonas de recarga de acuíferos como áreas de especial importancia ecológica gozan de protección especial, por lo que las autoridades ambientales deberán adelantar las acciones tendientes a su conservación y manejo, las que podrán incluir su designación como áreas protegidas bajo alguna de las categorías de manejo previstas en el presente decreto.
 
 (Decreto 2372 de 2010, Art. 29)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.9 — Sustracción de áreas protegidas
 
@@ -11068,8 +10379,6 @@ PARÁGRAFO . Lo aquí dispuesto aplicará salvo para aquellas áreas que la ley 
 
 (Decreto 2372 de 2010, Art. 30)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.10 — Función amortiguadora
 
 El ordenamiento territorial de la superficie de territorio circunvecina y colindante a las áreas protegidas deberá cumplir una función amortiguadora que permita mitigar los impactos negativos que las acciones humanas puedan causar sobre dichas áreas. El ordenamiento territorial que se adopte por los municipios para estas zonas deberá orientarse a atenuar y prevenir las perturbaciones sobre las áreas protegidas, contribuir a subsanar alteraciones que se presenten por efecto de las presiones en dichas áreas, armonizar la ocupación y transformación del territorio con los objetivos de conservación de las áreas protegidas y aportar a la conservación de los elementos biofísicos, los elementos y valores culturales, los servicios ambientales y los procesos ecológicos relacionados con las áreas protegidas.
@@ -11078,15 +10387,11 @@ Las Corporaciones Autónomas Regionales deberán tener en cuenta la función amo
 
 (Decreto 2372 de 2010, Art. 31)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.11 — Publicación e inscripción en el Registro de Instrumentos Públicos de áreas públicas
 
 El acto administrativo mediante el cual se reserva, delimita, declara o sustrae un área protegida pública, por ser de carácter general, debe publicarse en el Diario Oficial e inscribirse en las Oficinas de Registro de Instrumentos Públicos correspondientes, de conformidad con los códigos creados para este fin por la Superintendencia de Notariado y Registro. La inscripción citada, no tendrá costo alguno.
 
 (Decreto 2372 de 2010, Art. 32)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.12 — Función social y ecológica de la propiedad y limitación de uso
 
@@ -11101,8 +10406,6 @@ La limitación al dominio en razón de la reserva, delimitación, alinderación,
 SECCIÓN 4.
 
 ZONIFICACIÓN Y USOS PERMITIDOS
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.1 — Zonificación
 
@@ -11126,8 +10429,6 @@ b) Subzona de alta densidad de uso. Es aquella porción, en la que se permite el
 
 (Decreto 2372 de 2010, Art. 34)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.2 — Definición de los usos y actividades permitidas
 
 De acuerdo a la destinación prevista para cada categoría de manejo, los usos y las consecuentes actividades permitidas, deben regularse para cada área protegida en el Plan de Manejo y ceñirse a las siguientes definiciones:
@@ -11148,8 +10449,6 @@ PARÁGRAFO 2. En las distintas áreas protegidas que integran el Sinap se prohí
 
 (Decreto 2372 de 2010, Art. 35)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.3 — Modos de adquirir el derecho a usar los recursos naturales
 
 En las distintas áreas protegidas se pueden realizar las actividades permitidas en ellas, en los términos de los artículos anteriores, de conformidad con los modos de adquirir el derecho a usar los recursos naturales renovables regulados en el Decreto-ley 2811 de 1974, sus reglamentos y con las disposiciones del presente decreto, o las normas que los sustituyan o modifiquen.
@@ -11157,8 +10456,6 @@ En las distintas áreas protegidas se pueden realizar las actividades permitidas
 Corresponde a la autoridad ambiental competente otorgar los permisos, concesiones y autorizaciones para estos efectos, y liquidar, cobrar y recaudar los derechos, tasas, contribuciones, tarifas y multas derivados del uso de los recursos naturales renovables de las áreas, y de los demás bienes y servicios ambientales ofrecidos por estas.
 
 (Decreto 2372 de 2010, Art. 36)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.4 — Desarrollo de actividades permitidas
 
@@ -11171,8 +10468,6 @@ De esta forma, el desarrollo de las actividades permitidas en cada una de las zo
 SECCIÓN 5.
 
 DECLARATORIA DE ÁREAS PROTEGIDAS PÚBLICAS
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.1 — Criterios para la designación de áreas protegidas
 
@@ -11206,8 +10501,6 @@ PARÁGRAFO . El análisis de estos criterios no es excluyente y deberá atender 
 
 (Decreto 2372 de 2010, Art. 38)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.2 — Concepto previo favorable
 
 El proceso para la declaratoria de un área protegida deberá sustentarse en estudios de las dimensiones biofísica, socioeconómica y cultural. Para el caso de áreas protegidas de carácter nacional la declaratoria deberá contar con concepto previo de la Academia Colombiana de Ciencias Exactas Físicas y Naturales y para áreas protegidas de carácter regional el mencionado concepto deberá solicitarse a los Institutos de Investigación adscritos y vinculados al Ministerio de Ambiente y Desarrollo Sostenible atendiendo a la especialidad de las competencias asignadas por la ley.
@@ -11215,8 +10508,6 @@ El proceso para la declaratoria de un área protegida deberá sustentarse en est
 La solicitud de concepto deberá acompañarse de un documento síntesis, en el que se expongan las razones por las cuales se considera pertinente declarar el área.
 
 (Decreto 2372 de 2010, Art. 39)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.3 — Procedimiento
 
@@ -11226,15 +10517,11 @@ PARÁGRAFO . Aquellas áreas que antes del 1 de julio de 2010, hayan sido design
 
 (Decreto 2372 de 2010, Art. 40)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.4 — Solicitud de información a otras entidades
 
 En la fase de declaratoria, en los procesos de homologación y recategorización a que haya lugar, así como en la elaboración del plan de manejo, la autoridad que adelanta el proceso deberá solicitar información a las entidades competentes, con el fin de analizar aspectos como propiedad y tenencia de la tierra, presencia de grupos étnicos, existencia de solicitudes, títulos mineros o zonas de interés minero estratégico, proyectos de exploración o explotación de hidrocarburos, desarrollos viales proyectados y presencia de cultivos de uso ilícito.
 
 (Decreto 2372 de 2010, Art. 41)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.5 — Consulta previa
 
@@ -11245,8 +10532,6 @@ La declaratoria, ampliación o sustracción de áreas protegidas, así como la a
 SECCIÓN 6.
 
 ESTRUCTURA, PLANIFICACIÓN Y SISTEMA DE INFORMACIÓN DEL SINAP
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.1 — Regionalización del Sinap
 
@@ -11272,8 +10557,6 @@ PARÁGRAFO 2. La regionalización establecida en el presente decreto no obsta pa
 
 (Decreto 2372 de 2010, Art. 43)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.2 — Estructura de coordinación del Sinap
 
 Con el fin de garantizar el funcionamiento armónico, integral y coordinado del Sistema Nacional de Áreas Protegidas, se conformará un Consejo Nacional de Áreas Protegidas, el cual estará integrado por el Ministro de Ambiente y Desarrollo Sostenible o actuando como su delegado el Viceministro de Ambiente, en calidad de Presidente, el Director de Parques Nacionales Naturales de Colombia en su calidad de coordinador, el Director de Ecosistemas y un representante designado por cada uno de los subsistemas regionales de áreas protegidas señalados en el artículo anterior. Dicho Consejo atenderá los siguientes asuntos:
@@ -11298,8 +10581,6 @@ PARÁGRAFO . De manera adicional al representante designado del Subsistema Regio
 
 (Decreto 2372 de 2010, Art. 44)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.3 — Plan de acción del Sinap
 
 El plan de acción es el instrumento de planificación estratégico del Sinap, que contendrá los lineamientos de gestión para la consolidación de un sistema completo, ecológicamente representativo y eficazmente gestionado y detallará las metas, indicadores, responsables y el presupuesto requerido. El Plan de Acción del Sinap tendrá en cuenta los compromisos derivados del Convenio de Diversidad Biológica aprobado mediante Ley 165 de 1994.
@@ -11310,15 +10591,11 @@ Naturales Colombia adoptará mediante resolución el Plan de Acción del Sinap.
 
 (Decreto 2372 de 2010, Art. 45)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.4 — Planes de acción regionales
 
 Cada subsistema regional deberá contar con un Plan de Acción que es el instrumento que orienta la gestión en el mediano plazo y que desarrolla y complementa las acciones del plan de acción del Sinap. Los planes de acción regionales deberán ser armónicos y coherentes con los otros instrumentos de planeación definidos por la ley.
 
 (Decreto 2372 de 2010, Art. 46)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.5 — Plan de manejo de las áreas protegidas
 
@@ -11338,8 +10615,6 @@ PARÁGRAFO 3. La reglamentación sobre compensaciones ambientales deberá incorp
 
 (Decreto 2372 de 2010, Art. 47)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.6 — Sistema de información en áreas protegidas
 
 El Sistema Nacional de Áreas Protegidas deberá contar con un Sistema de Información, adscrito al Sistema de Información Ambiental para Colombia.
@@ -11354,23 +10629,17 @@ SUBSECCIÓN
 
 CONTENIDO Y OBJETO
 
-ARTÍCULO
-
 ## art:2.2.2.1.7.1 — Contenido
 
 Esta sección contiene los reglamentos generales aplicables al conjunto de áreas con valores excepcionales para el patrimonio nacional, que debido a sus características naturales y en beneficio de los habitantes de la nación, se reserva y declara dentro de alguno de los tipos de áreas definidas y en el artículo329 del Decreto- Ley número 2811 de 1974.
 
 (Decreto 622 de 1977, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.7.2 — Denominación
 
 Para efectos de esta sección, el conjunto de áreas a que se refiere el artículo anterior se denominará: «Sistema de Parques Nacionales Naturales».
 
 (Decreto 622 de 1977, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.7.3 — Objeto
 
@@ -11406,8 +10675,6 @@ Sistema.
 
 (Decreto 622 de 1977, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.7.4 — Entidad competente
 
 Según lo dispuesto por el Decreto- Ley 3572 de 2011, Parques Nacionales Naturales de Colombia, es la entidad competente para el manejo y administración del Sistema de Parques Nacionales Naturales, a que se refiere este Decreto.
@@ -11417,8 +10684,6 @@ Según lo dispuesto por el Decreto- Ley 3572 de 2011, Parques Nacionales Natural
 SECCIÓN 8
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.2.2.1.8.1 — Definiciones
 
@@ -11456,15 +10721,11 @@ SECCIÓN 9
 
 RESERVA Y DELIMITACIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.1 — Competencia para la Reserva y delimitación
 
 Corresponde al Ministerio de Ambiente y Desarrollo Sostenible, reservar y alindar las diferentes áreas que integran el Sistema de Parques Nacionales Naturales.
 
 (Decreto 622 de 1977, Art. 6,)
-
-ARTÍCULO
 
 ## art:2.2.2.1.9.2 — Régimen especial
 
@@ -11472,15 +10733,11 @@ No es incompatible la declaración de un parque nacional natural con la constitu
 
 (Decreto 622 de 1977, Art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.3 — Reserva y delimitación
 
 La reserva y delimitación de un área del Sistema de Parques Nacionales Naturales, se efectuará especificando la categoría correspondiente, según se cumplan los términos de las definiciones contenidas en el artículo329 del Decreto Ley número 2811 de 197 4 y una o más de las finalidades contempladas en el artículo 328 del decreto mencionado.
 
 (Decreto 622 de 1977, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.1.9.4 — Expropiación de tierras
 
@@ -11490,15 +10747,11 @@ En cada caso y cuando los interesados no accedieren a vender voluntariamente las
 
 (Decreto 622 de 1977, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.5 — Mejoras
 
 No se reconocerá el valor de las mejoras que se realicen dentro de las actuales áreas del Sistema de Parques Nacionales Naturales después del 5 de abril de 1977, ni las que se hagan con posterioridad a la inclusión de un área dentro del Sistema de Parques Nacionales Naturales.
 
 (Decreto 622 de 1977, Art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.1.9.6 — Prohibición de adjudicación de baldíos
 
@@ -11509,8 +10762,6 @@ En las zonas establecidas o que se establezcan como áreas del Sistema de Parque
 SECCIÓN 10.
 
 ADMINISTRACIÓN
-
-ARTÍCULO
 
 ## art:2.2.2.1.10.1 — Autoridad ambiental competente
 
@@ -11558,15 +10809,11 @@ Sistema de Parques Nacionales Naturales.
 
 (Decreto 622 de 1977, Art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.1.10.2 — 0.2
 
 Corresponde al Ministerio de Ambiente y Desarrollo Sostenible, delimitar para cada una de las áreas que integran el Sistema de Parques Nacionales Naturales, las zonas amortiguadoras y someterlas a manejo especial reglamentado para cada caso, limitando o restringiendo el uso por parte de sus poseedores.
 
 (Decreto 622 de 1977, Art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.1.10.3 — Actos y contratos con gobiernos extranjeros
 
@@ -11578,23 +10825,17 @@ SECCIÓN 11.
 
 MANEJO Y DESARROLLO
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.1 — Plan de manejo
 
 Las áreas que integran el Sistema de Parques Nacionales Naturales, contarán con su respectivo plan maestro donde se determinarán los desarrollos, facilidades, uso y manejo de cada una de ellas.
 
 (Decreto 622 de 1977, Art. 16)
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.2 — Denominación
 
 Para todos los efectos, las áreas que integran el Sistema de Parques Nacionales Naturales, sólo podrán ser denominadas según la nomenclatura que corresponda a su categoría dentro del Sistema.
 
 (Decreto 622 de 1977, Art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.1.11.3 — Zonificación
 
@@ -11682,15 +10923,11 @@ SECCIÓN 12
 
 CONCESIONES Y CONTRATOS
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.1 — Prestación de servicios
 
 Facultase a Parques Nacionales Naturales de Colombia para que de acuerdo con las normas legales vigentes celebre los contratos que permitan la prestación de servicios a que se refiere el punto 14, del artículo 2.2.2.1.10.1 de este decreto, contemplados en los respectivos planes maestros de las áreas que integran el Sistema de Parques Nacionales Naturales.
 
 (Decreto 622 de 1977, Art. 21)
-
-ARTÍCULO
 
 ## art:2.2.2.1.12.2 — Construcciones
 
@@ -11700,15 +10937,11 @@ Cuando los contratos de que trata el artículo precedente incluyan construccione
 
 SECCIÓN 13.
 
-ARTÍCULO
-
 ## art:2.2.2.1.13.1 — Actividades permitidas
 
 Las actividades permitidas en las distintas áreas del Sistema de Parques Nacionales Naturales, se podrán realizar siempre y cuando no sean causa de alteraciones de significación del ambiente natural.
 
 (Decreto 622 de 1977, Art. 23)
-
-ARTÍCULO
 
 ## art:2.2.2.1.13.2 — Autorizaciones
 
@@ -11716,15 +10949,11 @@ Las distintas áreas que integran el Sistema de Parques Nacionales Naturales pue
 
 (Decreto 622 de 1977, Art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.1.13.3 — Otras disposiciones de autorizaciones
 
 Las autorizaciones de que trata el artículo anterior de esta norma no confieren a sus titulares derecho alguno que pueda impedir el uso de las áreas del Sistema de Parques Nacionales Naturales por otras personas, ni implican para Parques Nacionales Naturales de Colombia ninguna responsabilidad, por tanto, los visitantes de estas áreas asumen los riesgos que puedan presentarse durante su permanencia en ellas.
 
 (Decreto 622 de 1977, Art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.1.13.4 — Temporalidad de las autorizaciones
 
@@ -11735,8 +10964,6 @@ Las personas que utilicen las áreas del Sistema de Parques Nacionales Naturales
 SECCIÓN 14.
 
 OBLIGACIONES DE LOS USUARIOS
-
-ARTÍCULO
 
 ## art:2.2.2.1.14.1 — Obligaciones de los usuarios
 
@@ -11754,8 +10981,6 @@ Los usuarios con cualquier finalidad de las áreas del Sistema de Parques Nacion
 
 (Decreto 622 de 1977, Art. 27)
 
-ARTÍCULO
-
 ## art:2.2.2.1.14.2 — Autorizaciones para investigaciones o estudios
 
 Quien obtenga autorización para hacer investigaciones o estudios en las áreas del Sistema de Parques Nacionales Naturales deberá:
@@ -11768,8 +10993,6 @@ c. Entregar a Parques Nacionales Naturales de Colombia duplicados o por lo menos
 
 (Decreto 622 de 1977, Art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.1.14.3 — 4.3
 
 Todo particular que pretenda prestar servicios de guía en las áreas del Sistema de Parques Nacionales Naturales, deberá tener autorización otorgada por Parques Nacionales Naturales de Colombia.
@@ -11779,8 +11002,6 @@ Todo particular que pretenda prestar servicios de guía en las áreas del Sistem
 SECCIÓN 15.
 
 PROHIBICIONES
-
-ARTÍCULO
 
 ## art:2.2.2.1.15.1 — Prohibiciones por alteración del ambiente natural
 
@@ -11820,8 +11041,6 @@ Prohíbanse las siguientes conductas que pueden traer como consecuencia la alter
 
 (Decreto 622 de 1977, Art. 30)
 
-ARTÍCULO
-
 ## art:2.2.2.1.15.2 — Prohibiciones por alteración de la organización
 
 Prohíbanse las siguientes conductas que puedan traer como consecuencia la alteración de la organización de las áreas del Sistema de Parques Nacionales Naturales:
@@ -11850,7 +11069,7 @@ Nacionales Naturales de Colombia
 
 11. Suministrar alimentos a los animales.
 
-ARTÍCULO
+## art:2.2.2.1.1.5.3 — 
 
 . 2.2.2.1.1.5.3 Sanciones aplicables: El régimen sancionatorio corresponderá al contenido en la Ley 1333 de 2009 o la norma que lo modifique o sustituya.
 
@@ -11860,23 +11079,17 @@ SECCIÓN 16
 
 CONTROL Y VIGILANCIA
 
-ARTÍCULO
-
 ## art:2.2.2.1.16.1 — Control y vigilancia
 
 Corresponde a Parques Nacionales Naturales de Colombia organizar sistemas de control y vigilancia para hacer cumplir las normas de este capítulo y las respectivas del Decreto- Ley 2811 de 1974 (Código Nacional de los Recursos Naturales Renovables y de Protección del Medio Ambiente).
 
 (Decreto 622 de 1977, Art. 40)
 
-ARTÍCULO
-
 ## art:2.2.2.1.16.2 — 
 
 2.2.2.1.16.2 Sanciones aplicables: El régimen sancionatorio aplicable corresponderá al previsto en la Ley 1333 de 2009 o la norma que haga sus veces
 
 (Decreto 622 de 1977, Art. 35)
-
-ARTÍCULO
 
 ## art:2.2.2.1.16.3 — Funciones policivas
 
@@ -11888,8 +11101,6 @@ SECCIÓN 17.
 
 RESERVAS DE LA SOCIEDAD CIVIL
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.1 — Definiciones
 
 Para la correcta interpretación de las normas contenidas en el presente Decreto se adoptarán las siguientes definiciones:
@@ -11900,15 +11111,11 @@ Muestra de Ecosistema Natural. Se entiende por muestra de ecosistema natural, la
 
 (Decreto 1996 de 1999, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.2 — Objetivo
 
 Las Reservas Naturales de la Sociedad Civil tendrán como objetivo el manejo integrado bajo criterios de sustentabilidad que garantice la conservación, preservación, regeneración o restauración de los ecosistemas naturales contenidos en ellas y que permita la generación de bienes y servicios ambientales.
 
 (Decreto 1996 de 1999, Art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.3 — Usos y Actividades en las Reservas
 
@@ -11938,8 +11145,6 @@ Reserva e indirectos al área de influencia de la misma.
 
 (Decreto 1996 de 1999, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.4 — Zonificación
 
 La zonificación de las Reservas Naturales de la Sociedad Civil podrán contener además de las zonas que se considere conveniente incluir, las siguientes:
@@ -11956,15 +11161,11 @@ Las Reservas Naturales de la Sociedad Civil deberán contar como mínimo, con un
 
 (Decreto 1996 de 1999, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.5 — De Registro de matrícula
 
 Toda persona propietaria de un área denominada Reserva Natural de la Sociedad Civil deberá obtener registro único a través de Parques Nacionales Naturales de Colombia
 
 (Decreto 1996 de 1999, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.6 — Solicitud de Registro
 
@@ -11988,8 +11189,6 @@ La solicitud de registro de una Reserva Natural de la Sociedad Civil deberá pre
 
 (Decreto 1996 de 1999, Art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.7 — Procedimiento
 
 Recibida la solicitud, Parques Nacionales Naturales de Colombia -evaluará la documentación aportada y registrará la reserva en el término de treinta (30) días hábiles, contados a partir de la fecha de recibo.
@@ -12003,8 +11202,6 @@ Parques Nacionales Naturales de Colombia enviará aviso del inicio del trámite 
 Parques Nacionales Naturales de Colombia podrá realizar la visita o solicitar a la autoridad ambiental con jurisdicción en la zona, la información necesaria para verificar la importancia de la muestra del ecosistema natural y la sustentabilidad de los procesos de producción y aprovechamiento llevados a cabo en el predio que se pretende registrar como reserva. Como resultado de la visita se producirá un informe.
 
 (Decreto 1996 de 1999, Art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.8 — Contenido del Acto Administrativo por el cual se registra
 
@@ -12026,15 +11223,11 @@ PARÁGRAFO .- A partir de la ejecutoria del acto administrativo por el cual se r
 
 (Decreto 1996 de 1999, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.9 — Oposiciones
 
 En el evento que un tercero se oponga al registro de la Reserva Natural de la Sociedad Civil, alegando derecho de dominio o posesión sobre el respectivo inmueble, se suspenderá dicho trámite o el registro otorgado, hasta tanto la autoridad competente resuelva el conflicto mediante providencia definitiva, debidamente ejecutoriada.
 
 (Decreto 1996 de 1999, Art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.10 — Negación del Registro
 
@@ -12043,8 +11236,6 @@ Parques Nacionales Naturales de Colombia podrá negar el registro de las Reserva
 Contra este acto administrativo procederá únicamente el recurso de reposición.
 
 (Decreto 1996 de 1999, Art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.11 — Derechos
 
@@ -12060,8 +11251,6 @@ Los titulares de las Reservas Naturales de la Sociedad Civil debidamente registr
 
 (Decreto 1996 de 1999, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.12 — Derechos de Participación en los Procesos de Planeación de Programas de Desarrollo
 
 Obtenido el Registro, los titulares de las Reservas Naturales de la Sociedad Civil serán llamados a participar, por sí o por intermedio de una organización sin ánimo de lucro, en los procesos de planeación de programas de desarrollo nacional o de las entidades territoriales, que se van a ejecutar en el área de influencia directa en donde se encuentre ubicado el bien.
@@ -12069,8 +11258,6 @@ Obtenido el Registro, los titulares de las Reservas Naturales de la Sociedad Civ
 El Departamento Nacional de Planeación o la Secretaría, Departamento Administrativo u Oficina de Planeación de las entidades territoriales, deberán enviar invitaciones por correo certificado a los titulares de las Reservas Naturales de la Sociedad Civil debidamente registradas, para participar en el análisis y discusión de los planes de desarrollo nacional o de las entidades territoriales, al interior del Consejo Nacional de Planeación, de los Consejos Territoriales de Planeación o de los organismos de la entidad territorial que cumplan las mismas funciones.
 
 (Decreto 1996 de 1999, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.13 — Consentimiento Previo
 
@@ -12094,15 +11281,11 @@ c. Solicitud de manifestar el consentimiento previo ante la autoridad ambiental 
 
 (Decreto 1996 de 1999, Art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.14 — Incentivos
 
 El Gobierno Nacional y las entidades territoriales deberán crear incentivos dirigidos a la conservación por parte de propietarios de las Reservas Naturales de la Sociedad Civil registradas ante Parques Nacionales Naturales de Colombia.
 
 (Decreto 1996 de 1999, Art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.15 — Obligaciones de los Titulares de las Reservas
 
@@ -12118,15 +11301,11 @@ Obtenido el registro, el titular de la Reserva Natural de la Sociedad Civil debe
 
 (Decreto 1996 de 1999, Art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.16 — Modificación del Registro
 
 El registro de las Reservas Naturales de la Sociedad Civil podrá ser modificado a petición de parte cuando hayan variado las circunstancias existentes al momento de la solicitud.
 
 (Decreto 1996 de 1999, Art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.1.17.17 — Cancelación del Registro
 
@@ -12142,8 +11321,6 @@ El registro de las Reservas Naturales de la Sociedad Civil ante Parques Nacional
 
 (Decreto 1996 de 1999, Art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17.18 — Promoción
 
 Con el fin de promover y facilitar la adquisición, establecimiento y libre desarrollo de áreas naturales por la sociedad civil, el Ministerio de Ambiente y Desarrollo Sostenible y demás autoridades ambientales, realizarán hasta el 21 de octubre del año 2000, una amplia campaña para su difusión y desarrollarán y publicarán en los cuatro meses siguientes a la vigencia del mismo, un manual técnico para el establecimiento, manejo y procedimiento relacionados con el registro, derechos y deberes de los titulares de las reservas.
@@ -12153,8 +11330,6 @@ Con el fin de promover y facilitar la adquisición, establecimiento y libre desa
 SECCIÓN 18
 
 DISTRITOS DE MANEJO INTEGRADO
-
-ARTÍCULO
 
 ## art:2.2.2.1.18.1 — Procedimiento para la sustracción
 
@@ -12202,8 +11377,6 @@ CAPÍTULO 2
 
 RESERVAS FORESTALES
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.2 — Vigencia
 
 Las sustracciones efectuadas por el Ministerio de Ambiente y Desarrollo Sostenible o la entidad que ejercía dicha función, seguirán vigentes bajo los términos y condiciones del respectivo acto administrativo de sustracción.
@@ -12215,8 +11388,6 @@ LICENCIAS AMBIENTALES
 SECCIÓN 1.
 
 DISPOSICIONES GENERALES
-
-ARTÍCULO
 
 ## art:2.2.2.3.1.1 — Definiciones
 
@@ -12250,8 +11421,6 @@ El plan de manejo ambiental podrá hacer parte del estudio de impacto ambiental 
 
 (Decreto 2041 de 2014, art.1)
 
-ARTÍCULO
-
 ## art:2.2.2.3.1.2 — Autoridades ambientales competentes
 
 Son autoridades competentes para otorgar o negar licencia ambiental, conforme a la ley y al presente decreto, las siguientes:
@@ -12268,8 +11437,6 @@ Las Corporaciones Autónomas Regionales y las de Desarrollo Sostenible podrán d
 
 (Decreto 2041 de 2014, art.2)
 
-ARTÍCULO
-
 ## art:2.2.2.3.1.3 — Concepto y alcance de la licencia ambiental
 
 La licencia ambiental, es la autorización que otorga la autoridad ambiental competente para la ejecución de un proyecto, obra o actividad, que de acuerdo con la ley y los reglamentos, pueda producir deterioro grave a los recursos naturales renovables o al medio ambiente o introducir modificaciones considerables o notorias al paisaje; la cual sujeta al beneficiario de esta, al cumplimiento de los requisitos, términos, condiciones y obligaciones que la misma establezca en relación con la prevención, mitigación, corrección, compensación y manejo de los efectos ambientales del proyecto, obra o actividad autorizada.
@@ -12284,8 +11451,6 @@ PARÁGRAFO . Las Corporaciones Autónomas Regionales y demás autoridades ambien
 
 (Decreto 2041 de 2014, art.3)
 
-ARTÍCULO
-
 ## art:2.2.2.3.1.4 — Licencia ambiental global
 
 Para el desarrollo de obras y actividades relacionadas con los proyectos de explotación minera y de hidrocarburos, la autoridad ambiental competente otorgará una licencia ambiental global, que abarque toda el área de explotación que se solicite.
@@ -12298,8 +11463,6 @@ La licencia ambiental global para la explotación minera, comprenderá la constr
 
 (Decreto 2041 de 2014, art.4)
 
-ARTÍCULO
-
 ## art:2.2.2.3.1.5 — La licencia ambiental frente a otras licencias
 
 La obtención de la licencia ambiental, es condición previa para el ejercicio de los derechos que surjan de los permisos, autorizaciones, concesiones, contratos y licencias que expidan otras autoridades diferentes a las ambientales.
@@ -12309,8 +11472,6 @@ La licencia ambiental es prerrequisito para el otorgamiento de concesiones portu
 Así mismo, la modificación de la licencia ambiental, es condición previa para el ejercicio de los derechos derivados de modificaciones de permisos, autorizaciones, concesiones, contratos, títulos y licencias expedidos por otras autoridades diferentes de las ambientales siempre y cuando estos cambios varíen los términos, condiciones u obligaciones contenidos en la licencia ambiental.
 
 (Decreto 2041 de 2014, art.5)
-
-ARTÍCULO
 
 ## art:2.2.2.3.1.6 — Término de la licencia ambiental
 
@@ -12322,8 +11483,6 @@ SECCIÓN 2
 
 COMPETENCIA Y EXIGIBILIDAD DE LA LICENCIA AMBIENTAL
 
-ARTÍCULO
-
 ## art:2.2.2.3.2.1 — Proyectos, obras y actividades sujetos a licencia ambiental
 
 Estarán sujetos a licencia ambiental únicamente los proyectos, obras y actividades que se enumeran en los artículos 2.2.2.3.2.2 y 2.2.2.3.2.3 del presente decreto.
@@ -12331,8 +11490,6 @@ Estarán sujetos a licencia ambiental únicamente los proyectos, obras y activid
 Las autoridades ambientales no podrán establecer o imponer planes de manejo ambiental para proyectos diferentes a los establecidos en el presente decreto o como resultado de la aplicación del régimen de transición.
 
 (Decreto 2041 de 2014, art.7)
-
-ARTÍCULO
 
 ## art:2.2.2.3.2.2 — Competencia de la Autoridad Nacional de Licencias Ambientales (ANLA)
 
@@ -12478,8 +11635,6 @@ PARÁGRAFO 5. El Ministerio de Ambiente y Desarrollo Sostenible podrá señalar 
  
  Vigencia anterior
 
- ARTÍCULO
-
 ## art:2.2.2.3.2.3 — Competencia de las Corporaciones Autónomas Regionales
 
 Las Corporaciones Autónomas Regionales, las de Desarrollo Sostenible, los Grandes Centros Urbanos y las autoridades ambientales creadas mediante la Ley 768 de 2002, otorgarán o negarán la licencia ambiental para los siguientes proyectos, obras o actividades, que se ejecuten en el área de su jurisdicción.
@@ -12603,8 +11758,6 @@ PARÁGRAFO 5. Las Corporaciones Autónomas Regionales y demás autoridades ambie
 
 PARÁGRAFO 6.(Adicionado por el art. 4, Decreto 670 de 2025). El Ministerio de Ambiente y Desarrollo Sostenible en un término máximo de seis (6) meses contados a partir de la expedición de la reglamentación sobre los requerimientos técnicos y ambientales de los Parques Tecnológicos y Ambientales que definan los Ministerios de Ambiente y Desarrollo Sostenible y de Vivienda, Ciudad y Territorio, expedirá los Términos de Referencia para la presentación de Estudios Ambientales requeridos para la obtención de la licencia ambiental para la construcción y operación de Parques Tecnológicos y Ambientales.
 
-ARTÍCULO
-
 ## art:2.2.2.3.2.4 — De los ecosistemas de especial importancia ecológica
 
 Cuando los proyectos a que se refieren los artículos 2.2.2.3.2.2 y 2.2.2.3.2.3. del presente decreto, pretendan intervenir humedales incluidos en la lista de humedales de importancia internacional (RAMSAR), páramos o manglares, la autoridad ambiental competente deberá solicitar concepto previo al Ministerio de Ambiente y Desarrollo Sostenible, sobre la conservación y el uso sostenible de dichos ecosistemas.
@@ -12613,15 +11766,11 @@ De igual manera, las autoridades ambientales deberán tener en cuenta las determ
 
 (Decreto 2041 de 2014, art.10)
 
-ARTÍCULO
-
 ## art:2.2.2.3.2.5 — De los proyectos, obras o actividades que requieren sustracción de las reservas forestales nacionales
 
 Corresponde al Ministerio de Ambiente y Desarrollo Sostenible evaluar las solicitudes y adoptar la decisión respecto de la sustracción de las reservas forestales nacionales para el desarrollo de actividades de utilidad pública e interés social, de conformidad con las normas especiales dictadas para el efecto.
 
 (Decreto 2041 de 2014, art.11)
-
-ARTÍCULO
 
 ## art:2.2.2.3.2.6 — Definición de competencias
 
@@ -12647,8 +11796,6 @@ SECCIÓN 3.
 
 ESTUDIOS AMBIENTALES
 
-ARTÍCULO
-
 ## art:2.2.2.3.3.1 — De los estudios ambientales
 
 Los estudios ambientales a los que se refiere este título son el diagnóstico ambiental de alternativas y el estudio de impacto ambiental que deberán ser presentados ante la autoridad ambiental competente.
@@ -12656,8 +11803,6 @@ Los estudios ambientales a los que se refiere este título son el diagnóstico a
 Los estudios ambientales son objeto de emisión de conceptos técnicos, por parte de las autoridades ambientales competentes.
 
 (Decreto 2041 de 2014, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.3.3.2 — De los términos de referencia
 
@@ -12681,8 +11826,6 @@ PARÁGRAFO 3: El Ministerio de Ambiente y Desarrollo Sostenible con apoyo de la 
 
 (Decreto 2041 de 2014, art.14)
 
-ARTÍCULO
-
 ## art:2.2.2.3.3.3 — Participación de las comunidades
 
 Se deberá informar a las comunidades el alcance del proyecto, con énfasis en los impactos y las medidas de manejo propuestas y valorar e incorporar en el estudio de impacto ambiental, cuando se consideren pertinentes, los aportes recibidos durante este proceso.
@@ -12690,8 +11833,6 @@ Se deberá informar a las comunidades el alcance del proyecto, con énfasis en l
 En los casos en que se requiera, deberá darse cumplimiento a lo dispuesto en el artículo76 de la Ley 99 de 1993, en materia de consulta previa con comunidades indígenas y negras tradicionales, de conformidad con lo dispuesto en las normas que regulen la materia.
 
 (Decreto 2041 de 2014, art.15)
-
-ARTÍCULO
 
 ## art:2.2.2.3.3.4 — Del Manual de Evaluación de Estudios Ambientales de Proyectos
 
@@ -12705,8 +11846,6 @@ SECCIÓN 4.
 
 DIAGNÓSTICO AMBIENTAL DE ALTERNATIVAS
 
-ARTÍCULO
-
 ## art:2.2.2.3.4.1 — Objeto del diagnóstico ambiental de alternativas
 
 El diagnóstico ambiental de alternativas (DAA), tiene como objeto suministrar la información para evaluar y comparar las diferentes opciones que presente el peticionario, bajo las cuales sea posible desarrollar un proyecto, obra o actividad. Las diferentes opciones deberán tener en cuenta el entorno geográfico, las características bióticas, abióticas y socioeconómicas, el análisis comparativo de los efectos y riesgos inherentes a la obra o actividad; así como las posibles soluciones y medidas de control y mitigación para cada una de las alternativas.
@@ -12714,8 +11853,6 @@ El diagnóstico ambiental de alternativas (DAA), tiene como objeto suministrar l
 Lo anterior con el fin de aportar los elementos requeridos para seleccionar la alternativa o alternativas que permitan optimizar y racionalizar el uso de recursos y evitar o minimizar los riesgos, efectos e impactos negativos que puedan generarse.
 
 (Decreto 2041 de 2014, art.17)
-
-ARTÍCULO
 
 ## art:2.2.2.3.4.2 — Exigibilidad del diagnóstico ambiental de alternativas
 
@@ -12761,8 +11898,6 @@ PARÁGRAFO TRANSITORIO. En los casos que las autoridades ambientales competentes
 
 (Paragrafo adicionado Decreto 2462 de 2018, art.1)
 
-ARTÍCULO
-
 ## art:2.2.2.3.4.3 — Contenido básico del diagnóstico ambiental de alternativas
 
 El diagnóstico ambiental de alternativas deberá ser elaborado de conformidad con la Metodología General para la Presentación de Estudios Ambientales de que trata el presente decreto y los términos de referencia expedidos para el efecto y contener al menos lo siguiente:
@@ -12782,8 +11917,6 @@ El diagnóstico ambiental de alternativas deberá ser elaborado de conformidad c
 7. Selección y justificación de la alternativa escogida.
 
 (Decreto 2041 de 2014, art.19)
-
-ARTÍCULO
 
 ## art:2.2.2.3.4.4 — Criterios para la evaluación del diagnóstico ambiental del alternativas-DAA
 
@@ -12808,8 +11941,6 @@ PARÁGRAFO 2. Si el interesado presenta una solicitud de Licencia Ambiental con 
 SECCIÓN 5.
 
 ESTUDIO DE IMPACTO AMBIENTAL
-
-ARTÍCULO
 
 ## art:2.2.2.3.5.1 — Del estudio de impacto ambiental (EIA)
 
@@ -12849,8 +11980,6 @@ Las actividades de importación de que tratan los numerales del 10-2 y 11 del ar
 
 (Decreto 2041 de 2014, art.21)
 
-ARTÍCULO
-
 ## art:2.2.2.3.5.2 — Criterios para la evaluación del estudio de impacto ambiental
 
 La autoridad ambiental competente evaluará el estudio con base en los criterios generales definidos en el Manual de Evaluación de Estudios Ambientales de proyectos. Así mismo deberá verificar que este cumple con el objeto y contenido establecidos en los artículos 14 y 21 del presente decreto; contenga información relevante y suficiente acerca de la identificación y calificación de los impactos, especificando cuáles de ellos no se podrán evitar o mitigar; así como las medidas de manejo ambiental correspondientes.
@@ -12860,8 +11989,6 @@ La autoridad ambiental competente evaluará el estudio con base en los criterios
 SECCIÓN 6.
 
 TRÁMITE PARA LA OBTENCIÓN DE LA LICENCIA AMBIENTAL
-
-ARTÍCULO
 
 ## art:2.2.2.3.6.1 — De la evaluación del diagnóstico ambiental de alternativas (DAA)
 
@@ -12890,8 +12017,6 @@ En todo caso, la información adicional que allegue el solicitante deberá ser e
 PARÁGRAFO . Cuando el diagnóstico ambiental de alternativas (DAA), no cumpla con los requisitos mínimos establecidos en el Manual de Evaluación de Estudios Ambientales adoptado por el Ministerio de Ambiente y Desarrollo Sostenible y los criterios fijados en el presente decreto la autoridad mediante acto administrativo dará por terminado el trámite y el solicitante podrá presentar una nueva solicitud.
 
 (Decreto 2041 de 2014, art.23)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6.2 — De la solicitud de licencia ambiental y sus requisitos
 
@@ -12930,8 +12055,6 @@ PARÁGRAFO 3. Las solicitudes de licencia ambiental para proyectos de explotaci�
 PARÁGRAFO 4. Cuando se trate de proyectos de exploración y/o explotación de hidrocarburos en los cuales se pretenda realizar la actividad de estimulación hidráulica en los pozos, el solicitante deberá adjuntar un concepto de la Agencia Nacional de Hidrocarburos (ANH), que haga constar que dicha actividad se va a ejecutar en un yacimiento convencional y/o en un yacimiento no convencional.
 
 (Decreto 2041 de 2014, art.24)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6.3 — De la evaluación del estudio de impacto ambiental
 
@@ -13003,8 +12126,6 @@ PARÁGRAFO 8 A. Transitorio. Las Autoridades Ambientales que, a la fecha de entr
 
 (Decreto 2041 de 2014, art.25)
 
-ARTÍCULO
-
 ## art:2.2.2.3.6.4 — Superposición de proyectos
 
 La autoridad ambiental competente podrá otorgar licencia ambiental a proyectos cuyas áreas se superpongan con proyectos licenciados, siempre y cuando el interesado en el proyecto a licenciar demuestre que estos pueden coexistir e identifique además, el manejo y la responsabilidad individual de los impactos ambientales generados en el área superpuesta.
@@ -13012,8 +12133,6 @@ La autoridad ambiental competente podrá otorgar licencia ambiental a proyectos 
 Para el efecto el interesado en el proyecto a licenciar deberá informar a la autoridad ambiental sobre la superposición, quien a su vez, deberá comunicar tal situación al titular de la licencia ambiental objeto de superposición con el fin de que conozca dicha situación y pueda pronunciarse al respecto en los términos de ley.
 
 (Decreto 2041 de 2014, art.26)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6.5 — De las Corporaciones Autónomas de Desarrollo Sostenible
 
@@ -13024,8 +12143,6 @@ La Autoridad Nacional de Licencias Ambientales (ANLA) en un término máximo de 
 Una vez emitido el mencionado concepto, la autoridad ambiental competente deberá decidir sobre la viabilidad del proyecto en los términos de lo dispuesto en los numerales 5 y 6 del artículo25 del presente decreto.
 
 (Decreto 2041 de 2014, art.27)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6.6 — Contenido de la licencia ambiental
 
@@ -13054,8 +12171,6 @@ SECCIÓN 7.
 MODIFICACIÓN, CESIÓN, INTEGRACIÓN, PÉRDIDA DE VIGENCIA DE LA LICENCIA AMBIENTAL, Y CESACIÓN DEL TRÁMITE DE LICENCIAMIENTO
 
 AMBIENTAL
-
-ARTÍCULO
 
 ## art:2.2.2.3.7.1 — Modificación de la licencia ambiental
 
@@ -13095,8 +12210,6 @@ PARÁGRAFO 3. Cuando la modificación consista en ampliación de áreas del proy
 
 (Decreto 2041 de 2014, art.29)
 
-ARTÍCULO
-
 ## art:2.2.2.3.7.2 — Requisitos para la modificación de la licencia ambiental
 
 Cuando se pretenda modificar la licencia ambiental se deberá presentar y allegar ante la autoridad ambiental competente la siguiente información:
@@ -13116,8 +12229,6 @@ Cuando se pretenda modificar la licencia ambiental se deberá presentar y allega
 SECCIÓN 8
 
 TRÁMITE PARA LA MODIFICACIÓN DE LA LICENCIA AMBIENTAL
-
-ARTÍCULO
 
 ## art:2.2.2.3.8.1 — 8.1
 
@@ -13183,8 +12294,6 @@ PARÁGRAFO 7 A. Transitorio. Las Autoridades Ambientales que a la fecha de entra
 
 (Decreto 2041 de 2014, art.31)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8.2 — Trámite para la modificación con el fin de incluir nuevas fuentes de materiales
 
 De conformidad con lo dispuesto en el artículo 42 de la Ley
@@ -13229,8 +12338,6 @@ PARÁGRAFO 5: En el evento en que para la fecha de la citación de la reunión d
 
 (Decreto 2041 de 2014, art.32)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8.3 — Cambio de solicitante
 
 Durante el trámite para el otorgamiento de la licencia ambiental y a petición de los interesados, podrá haber cambio de solicitante.
@@ -13238,8 +12345,6 @@ Durante el trámite para el otorgamiento de la licencia ambiental y a petición 
 El cambio de solicitante no afectará el trámite de la licencia ambiental.
 
 (Decreto 2041 de 2014, art.33)
-
-ARTÍCULO
 
 ## art:2.2.2.3.8.4 — Cesión total o parcial de la licencia ambiental
 
@@ -13263,8 +12368,6 @@ PARÁGRAFO 2. En los casos de minería y de hidrocarburos se deberá anexar a la
 
 (Decreto 2041 de 2014, art.34)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8.5 — Integración de licencias ambientales
 
 La licencia ambiental de un proyecto, obra o actividad podrá ser modificada para integrarla con otras licencias ambientales, siempre y cuando el objeto de los proyectos a integrar sea el mismo, sus áreas sean lindantes y se hubieren podido adelantar en un mismo trámite. En el caso de proyectos mineros se deberá observar lo dispuesto en el Código de Minas.
@@ -13276,8 +12379,6 @@ PARÁGRAFO 1. En todo caso, cuando sean varios los titulares del acto administra
 PARÁGRAFO 2. La integración de licencias ambientales seguirá el mismo procedimiento de que trata el artículo31 del presente decreto.
 
 (Decreto 2041 de 2014, art.35)
-
-ARTÍCULO
 
 ## art:2.2.2.3.8.6 — Requisitos para integración de licencias ambientales
 
@@ -13309,8 +12410,6 @@ g) En el caso de proyectos mineros se deberá anexar copia del acto administrati
 
 (Decreto 2041 de 2014, art.36)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8.7 — Pérdida de vigencia de la licencia ambiental
 
 La autoridad ambiental competente podrá mediante resolución motivada declarar la pérdida de vigencia de la licencia ambiental, si transcurrido cinco (5) años a partir de su ejecutoria, no se ha dado inicio a la construcción del proyecto, obra o actividad. De esta situación deberá dejarse constancia en el acto que otorga la licencia.
@@ -13323,8 +12422,6 @@ En todo caso siempre que puedan acreditarse circunstancias de fuerza mayor o cas
 
 (Decreto 2041 de 2014, art.37)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8.8 — Cesación del trámite de licencia ambiental
 
 Las autoridades ambientales competentes de oficio o a solicitud del peticionario, declararán la cesación del trámite de las actuaciones para el otorgamiento de licencia ambiental o de establecimiento o imposición de plan de manejo ambiental de proyectos, obras o actividades que conforme al presente decreto no requieran dichos instrumentos administrativos de manejo y control ambiental, y procederán a ordenar el archivo correspondiente.
@@ -13332,8 +12429,6 @@ Las autoridades ambientales competentes de oficio o a solicitud del peticionario
 Lo anterior sin perjuicio de tramitar y obtener los permisos, concesiones o autorizaciones ambientales a que haya lugar por el uso y/o aprovechamiento de los recursos naturales renovables.
 
 (Decreto 2041 de 2014, art.39)
-
-ARTÍCULO
 
 ## art:2.2.2.3.8.9 — 8.9
 
@@ -13344,8 +12439,6 @@ De la modificación, cesión, integración, pérdida de vigencia o la cesación 
 SECCIÓN 9
 
 CONTROL Y SEGUIMIENTO
-
-ARTÍCULO
 
 ## art:2.2.2.3.9.1 — Control y seguimiento
 
@@ -13383,8 +12476,6 @@ PARÁGRAFO 3. Cuando, el proyecto, obra o actividad, en cumplimiento de lo dispu
 
 (Decreto 2041 de 2014, art.40)
 
-ARTÍCULO
-
 ## art:2.2.2.3.9.2 — De la fase de desmantelamiento y abandono
 
 Cuando un proyecto, obra o actividad requiera o deba iniciar su fase de desmantelamiento y abandono, el titular deberá presentar a la autoridad ambiental competente, por lo menos con tres (3) meses de anticipación, un estudio que contenga como mínimo:
@@ -13413,8 +12504,6 @@ PARÁGRAFO 2. El titular del proyecto, obra o actividad deberá contemplar que s
 
 (Decreto 2041 de 2014, art.41)
 
-ARTÍCULO
-
 ## art:2.2.2.3.9.3 — Contingencias ambientales
 
 Si durante la ejecución de los proyectos obras, o actividades sujetos a licenciamiento ambiental o plan de manejo ambiental ocurriesen incendios, derrames, escapes, parámetros de emisión y/o vertimientos por fuera de los límites permitidos o cualquier otra contingencia ambiental, el titular deberá ejecutar todas las acciones necesarias con el fin de hacer cesar la contingencia ambiental e informar a la autoridad ambiental competente en un término no mayor a veinticuatro (24) horas.
@@ -13425,23 +12514,17 @@ Las contingencias generadas por derrames de hidrocarburos, derivados y sustancia
 
 (Decreto 2041 de 2014, art.42)
 
-ARTÍCULO
-
 ## art:2.2.2.3.9.4 — Del Manual de Seguimiento Ambiental de Proyectos
 
 Para el seguimiento de los proyectos, obras o actividades objeto de licencia ambiental o plan de manejo ambiental, las autoridades ambientales adoptaran los criterios definidos en el Manual de Seguimiento Ambiental de Proyectos expedido por el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 2041 de 2014, art.43)
 
-ARTÍCULO
-
 ## art:2.2.2.3.9.5 — Del cobro del servicio de seguimiento ambiental
 
 La tarifa para el cobro del servicio de seguimiento de las licencias ambientales y de los planes de manejo ambiental, se fijará de conformidad con el sistema y método de cálculo señalado en la normativa vigente para el caso, y los dineros recaudados por este concepto solamente se podrán destinar para el cumplimiento cabal de dicha función.
 
 (Decreto 2041 de 2014, art.44)
-
-ARTÍCULO
 
 ## art:2.2.2.3.9.6 — De la comisión de diligencias
 
@@ -13450,8 +12533,6 @@ La Autoridad Nacional de Licencias Ambientales -ANLA- podrá comisionar la prác
 Así mismo, las Corporaciones Autónomas Regionales y de Desarrollo Sostenible podrán comisionar estas diligencias en los municipios, distritos y áreas metropolitanas cuya población urbana sea superior a un millón de habitantes dentro de su perímetro urbano y en las autoridades ambientales creadas mediante la Ley 768 de 2002.
 
 (Decreto 2041 de 2014, art.45)
-
-ARTÍCULO
 
 ## art:2.2.2.3.9.7 — Delegación entre autoridades ambientales
 
@@ -13462,8 +12543,6 @@ Las autoridades ambientales podrán delegar la función del seguimiento ambienta
 SECCIÓN 10
 
 ACCESO A LA INFORMACIÓN AMBIENTAL
-
-ARTÍCULO
 
 ## art:2.2.2.3.10.1 — De la Ventanilla Integral de Trámites Ambientales en Línea -VITAL
 
@@ -13479,8 +12558,6 @@ PARÁGRAFO 2.- Las autoridades ambientales deberán desarrollar estrategias de d
 
 (Decreto 2041 de 2014, art.47)
 
-ARTÍCULO
-
 ## art:2.2.2.3.10.2 — Del Registro Único Ambiental (RUA)
 
 El Ministerio de Ambiente, y Desarrollo Sostenible, adoptará mediante acto administrativo los Protocolos para el Monitoreo y Seguimiento del Subsistema de Información Sobre Uso de Recursos Naturales Renovables a cargo de IDEAM para los diferentes sectores productivos, cuya herramienta de captura y de salida de información es el Registro Único Ambiental (RUA).
@@ -13492,8 +12569,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible, deberá adoptar los protocolo
 La información contenida en el RUA no necesitará ser incorporada en el Informe de Cumplimiento Ambiental.
 
 (Decreto 2041 de 2014, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.2.3.10.3 — Información ambiental para la toma de decisiones
 
@@ -13511,15 +12586,11 @@ La información regional o de línea base que sea publicada en el portal web, de
 
 (Decreto 2041 de 2014, art.49)
 
-ARTÍCULO
-
 ## art:2.2.2.3.10.4 — Acceso a la información
 
 Toda persona natural o jurídica tiene derecho a formular directamente petición de información en relación con los elementos susceptibles de producir contaminación y los peligros que el uso de dichos elementos pueda ocasionar a la salud humana de conformidad con el artículo16 de la Ley 23 de 1973. Dicha petición debe ser respondida en diez (10) días hábiles. Además, toda persona podrá invocar su derecho a ser informada sobre el monto y la utilización de los recursos financieros, que están destinados a la preservación del medio ambiente.
 
 (Decreto 2041 de 2014, art.50)
-
-ARTÍCULO
 
 ## art:2.2.2.3.10.5 — Declaración de estado del trámite
 
@@ -13530,8 +12601,6 @@ Cualquier persona podrá solicitar información sobre el estado del trámite de 
 SECCIÓN 11
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.2.3.11.1 — Régimen de transición
 
@@ -13557,8 +12626,6 @@ SECCIÓN 12
 
 DISPOSICIONES PARA LOS PROYECTOS DE INTERÉS NACIONAL Y ESTRATÉGICOS (PINE):
 
-ARTÍCULO
-
 ## art:2.2.2.3.12.1 — 2.1
 
 Definiciones: Para la correcta interpretación de las normas expedidas en la presente sección se adoptan las siguientes definiciones:
@@ -13568,8 +12635,6 @@ Corporaciones Autónomas Regionales: Cuando se haga referencia en la presente se
 Licencia ambiental: Cuando en la presente sección se haga referencia a licencia ambiental se entenderá que se hace mención a la autorización de que se hace alusión en el Título VIII de la Ley 99 de 1993, así como a todos los instrumentos de manejo y control ambiental para proyectos obras o actividades que se encuentran amparados por un régimen de transición de los decretos reglamentarios del mencionado título.
 
 Cuando se haga referencia en la presente sección a permiso se entenderá que se hace mención igualmente a concesiones y autorización para el uso, aprovechamiento y/o afectación de los recursos naturales renovables.
-
-ARTÍCULO
 
 ## art:2.2.2.3.12.2 — Ámbito de aplicación
 
@@ -13582,8 +12647,6 @@ La presente sección tiene por objeto reglamentar lo previsto en el artículo 51
 3. Proyectos, obras o actividades que cuenten con Licencia Ambiental o permiso, para el uso, aprovechamiento y/o afectación de los recursos naturales renovables, que se encuentren tramitando la modificación de estas autorizaciones o la obtención de un nuevo permiso ante las Corporaciones Autónomas Regionales, podrán adelantar la actuación administrativa ante la Autoridad Nacional de Â· Licencias Ambientales -ANLA.
 
 4. Proyectos, obras o actividades que a la fecha de entrada en vigencia de la presente sección se encuentren tramitando, Licencia Ambiental o permiso, para el uso, aprovechamiento y/o afectación de los recursos naturales renovables, podrán adelantar la actuación administrativa ante la Autoridad Nacional de Licencias Ambientales -ANLA.
-
-ARTÍCULO
 
 ## art:2.2.2.3.12.3 — Competencia de la Autoridad Nacional de Licencias Ambientales, ANLA
 
@@ -13607,19 +12670,13 @@ Las Corporaciones Autónomas Regionales que se encuentren tramitando, Licencia A
 
 PARÁGRAFO . Los tramites tendientes a la obtención y modificación de la licencia ambiental o de permisos, se regirán por los procedimientos especiales determinados en cada caso en el decreto 1076 de 2015.
 
-ARTÍCULO
-
 ## art:2.2.2.3.12.4 — Competencia de otras Autoridades Ambientales en los Proyectos de Interés Nacional y Estratégicos (PINE)
 
 Las decisiones concernientes al levantamiento de veda y sustracción de reservas forestales que son competencia del Ministerio de Ambiente y Desarrollo Sostenible o de las Corporaciones Autónomas Regionales, continuarán siendo de conocimiento de dichas autoridades.
 
-ARTÍCULO
-
 ## art:2.2.2.3.12.5 — 2.5
 
 Informe a la Autoridad Nacional de Licencias Ambientales (ANLA) La Comisión lntersectorial de Infraestructura y Proyectos Estratégicos -CIIPE- o quien haga sus veces, acorde a los mecanismos de divulgación que determine, informará a la Autoridad Nacional de Licencias Ambientales (ANLA) acerca de los proyectos que hayan sido validados como Proyectos de Interés Nacional y Estratégicos (PINE).
-
-ARTÍCULO
 
 ## art:2.2.2.3.12.6 — Tasas retributivas, compensatorias y por el uso del Agua
 
@@ -13635,15 +12692,11 @@ SECCIÓN 1
 
 AUDIENCIAS PÚBLICAS EN MATERIA DE LICENCIAS Y PERMISOS AMBIENTALES
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.1 — Objeto
 
 La audiencia pública ambiental tiene por objeto dar a conocer a las organizaciones sociales, comunidad en general, entidades públicas y privadas la solicitud de licencias, permisos o concesiones ambientales, o la existencia de un proyecto, obra o actividad, los impactos que este pueda generar o genere y las medidas de manejo propuestas o implementadas para prevenir, mitigar, corregir y/o compensar dichos impactos; así como recibir opiniones, informaciones y documentos que aporte la comunidad y demás entidades públicas o privadas.
 
 (Decreto 330 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.2 — Alcance
 
@@ -13652,8 +12705,6 @@ En la audiencia pública se recibirán opiniones, informaciones y documentos, qu
 PARÁGRAFO . La audiencia pública no es una instancia de debate, ni de discusión.
 
 (Decreto 330 de 2007, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.3 — Oportunidad
 
@@ -13665,15 +12716,11 @@ b) Durante la ejecución de un proyecto, obra o actividad, cuando fuere manifies
 
 (Decreto 330 de 2007, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.4 — Costos
 
 Los costos por concepto de gastos de transporte y viáticos en los que incurran las autoridades ambientales competentes en virtud de la celebración de las audiencias públicas ambientales estarán a cargo del responsable de la ejecución o interesado en el proyecto, obra o actividad sujeto a licencia, permiso o concesión ambiental, para lo cual se efectuará la liquidación o reliquidación de los servicios de evaluación o seguimiento ambiental, conforme a lo dispuesto por el artículo 96 de la Ley 633 de 2000 y sus normas reglamentarias.
 
 (Decreto 330 de 2007, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.5 — Solicitud
 
@@ -13687,8 +12734,6 @@ Si se reciben dos o más solicitudes de audiencia pública ambiental, relativas 
 
 (Decreto 330 de 2007, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.6 — Evaluación de la solicitud
 
 Dentro de los quince (15) días hábiles siguientes a la presentación de la solicitud de celebración de audiencia pública, la autoridad ambiental competente se pronunciará sobre la pertinencia o no de convocar su celebración.
@@ -13700,8 +12745,6 @@ Cuando se estime pertinente convocar la celebración de la audiencia pública, s
 PARÁGRAFO . En los casos en que se solicite la celebración de audiencia pública durante el seguimiento, la autoridad ambiental evaluará la información aportada por el solicitante y efectuará visita al proyecto, obra o actividad. Igualmente, se invitará a asistir a los entes de control. Con base en lo anterior, se determinará la pertinencia o no de celebrar la audiencia pública.
 
 (Decreto 330 de 2007, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.7 — Convocatoria
 
@@ -13735,8 +12778,6 @@ PARÁGRAFO . Los términos para decidir de fondo la solicitud de licencia o perm
 
 (Decreto 330 de 2007, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.8 — Disponibilidad de los estudios ambientales
 
 El solicitante de la licencia o permiso ambiental pondrá los estudios ambientales o los documentos que se requieran para el efecto, a disposición de los interesados para su consulta a partir de la fijación del edicto y por lo menos veinte (20) días calendario antes de la celebración de la audiencia pública, en la secretaría general o la dependencia que haga sus veces en las autoridades ambientales, alcaldías o personerías municipales en cuya jurisdicción se pretenda adelantar o se adelante el proyecto, obra o actividad y en la página web de la autoridad ambiental. Al finalizar este término se podrá celebrar la audiencia pública ambiental.
@@ -13744,8 +12785,6 @@ El solicitante de la licencia o permiso ambiental pondrá los estudios ambiental
 PARÁGRAFO . Para la celebración de audiencias públicas durante el seguimiento de licencias o permisos ambientales, además de darse cumplimiento a lo anterior, la autoridad ambiental deberá poner a disposición de los interesados para su consulta copia de los actos administrativos expedidos dentro de la actuación administrativa correspondiente y que se relacionen con el objeto de la audiencia.
 
 (Decreto 330 de 2007, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.9 — Reunión informativa
 
@@ -13757,8 +12796,6 @@ La reunión informativa será convocada a través de medios de comunicación rad
 
 (Decreto 330 de 2007, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.10 — Inscripciones
 
 Las personas interesadas en intervenir en la audiencia pública, deberán inscribirse en la secretaría general o la dependencia que haga sus veces en las autoridades ambientales, alcaldías o personerías municipales, a través del formato que para tal efecto elaborará el Ministerio de Ambiente y Desarrollo Sostenible. En todos los casos deberán anexar un escrito relacionado con el objeto de la audiencia pública.
@@ -13767,8 +12804,6 @@ PARÁGRAFO . Las personas interesadas en intervenir en la audiencia pública, po
 
 (Decreto 330 de 2007, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.11 — Lugar de celebración
 
 Deberá realizarse en la sede de la autoridad ambiental competente, alcaldía municipal, auditorios o en lugares ubicados en la localidad donde se pretende desarrollar el proyecto, obra o actividad, que sean de fácil acceso al público interesado.
@@ -13776,8 +12811,6 @@ Deberá realizarse en la sede de la autoridad ambiental competente, alcaldía mu
 Cuando se trate de proyectos lineales, entendiéndose por estos, los de conducción de hidrocarburos, líneas de transmisión eléctrica, corredores viales y líneas férreas, se podrán realizar hasta dos (2) audiencias públicas en lugares que se encuentren dentro del área de influencia del proyecto, a juicio de la autoridad ambiental competente.
 
 (Decreto 330 de 200 7, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.12 — Participantes e intervinientes
 
@@ -13815,8 +12848,6 @@ Las personas antes citadas no requerirán de inscripción previa. Por previa Ins
 
 (Decreto 330 de 2007, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.13 — Instalación y desarrollo
 
 La audiencia pública ambiental será presidida por el representante de la autoridad ambiental competente o por quien este delegue, quien a su vez hará las veces de moderador y designará un Secretario.
@@ -13837,15 +12868,11 @@ PARÁGRAFO . En las audiencias públicas que se realicen durante el seguimiento 
 
 (Decreto 330 de 2007, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.14 — Terminación
 
 Agotado el orden del día, el Presidente dará por terminada la audiencia pública ambiental. Dentro de los cinco (5) días hábiles siguientes a la celebración de la audiencia pública, la autoridad ambiental competente levantará un acta de la misma, que será suscrita por el Presidente, en la cual se recogerán los aspectos más importantes expuestos durante su realización y serán objeto de análisis y evaluación de manera expresa al momento de adoptar la decisión a que haya lugar. El acta de la audiencia pública ambiental y los documentos aportados por los intervinientes formarán parte del expediente respectivo.
 
 (Decreto 330 de 2007, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.15 — Situaciones especiales
 
@@ -13857,8 +12884,6 @@ En el evento que no se pueda celebrar la audiencia pública, el jefe de la autor
 
 (Decreto 330 de 2007, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.16 — .16
 
 Planes de manejo ambiental La celebración de audiencias públicas solicitadas para proyectos, obras o actividades sujetas al establecimiento o imposición de planes de manejo ambiental se sujetarán al procedimiento señalado en el presente decreto.
@@ -13866,8 +12891,6 @@ Planes de manejo ambiental La celebración de audiencias públicas solicitadas p
 En virtud de la convocatoria y celebración de la audiencia pública ambiental, no se suspenderán las actividades de los proyectos, obras o actividades sujetos a plan de manejo ambiental que se encuentren en operación.
 
 (Decreto 330 de 2007, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.17 — Instructivo
 
@@ -13881,8 +12904,6 @@ SECCIÓN 1
 
 ACTIVIDADES DE MEJORAMIENTO EN PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.2.2.5.1 — Objeto
 
 El presente capítulo tiene por objeto establecer el listado de las actividades de mejoramiento en proyectos de infraestructura de transporte, acorde a los estudios elaborados por los Ministerios de Transporte y Ambiente y Desarrollo Sostenible, en coordinación con la Autoridad Nacional de Licencias Ambientales:
@@ -13892,8 +12913,6 @@ El presente capítulo tiene por objeto establecer el listado de las actividades 
 SUBSECCIÓN 1.
 
 A. MODO TERRESTRE-CARRETERO
-
-ARTÍCULO
 
 ## art:2.2.2.5.1.1 — 1.1
 
@@ -13950,8 +12969,6 @@ Para el efecto, el titular deberá allegar ante la autoridad ambiental competent
 SUBSECCIÓN 2.
 
 B. MODO TERRESTRE- FÉRREO
-
-ARTÍCULO
 
 ## art:2.2.2.5.2.1 — 2.1
 
@@ -14017,8 +13034,6 @@ SUBSECCIÓN 3.
 
 C. MODO ACUÁTICO-FLUVIAL Y MODO ACUÁTICO DE INFRAESTRUCTURA PORTUARIA
 
-ARTÍCULO
-
 ## art:2.2.2.5.3.1 — 3.1
 
 Modo Acuático-Fluvial Y Modo Acuático De Infraestructura Portuaria
@@ -14043,8 +13058,6 @@ PARÁGRAFO .- Para efectos del modo acuático- fluvial, se entenderá por:
 
 (Decreto 769 de 2014, art.1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.3.2 — 3.2
 
 II. Modo acuático- infraestructura portuaria
@@ -14056,8 +13069,6 @@ II. Modo acuático- infraestructura portuaria
 SUBSECCIÓN 4
 
 D. MODO AÉREO
-
-ARTÍCULO
 
 ## art:2.2.2.5.4.1 — 4.1
 
@@ -14085,8 +13096,6 @@ PARÁGRAFO .- Las actividades listadas en el artículo 1 letra B. Modo Terrestre
 
 (Decreto 769 de 2014, art.1)
 
-ARTÍCULO
-
 ## art:2.2.2.5.4.2 — Sin licencia ambiental
 
 Las actividades listadas, son aplicables a las áreas o tramos de proyectos que de acuerdo con la normativa vigente no están sujetos a las reglas sobre licenciamiento ambiental.
@@ -14096,8 +13105,6 @@ PARÁGRAFO . En todo caso, cuando de manera particular y en el desarrollo de un 
 La ANLA dentro de los treinta (30) días siguientes a la recepción de la solicitud determinará mediante oficio si la actividad corresponde a un mejoramiento.
 
 (Decreto 769 de 2014, art.2)
-
-ARTÍCULO
 
 ## art:2.2.2.5.4.3 — Programa de Adaptación de la Guía Ambiental - PAGA
 
@@ -14131,15 +13138,11 @@ PARÁGRAFO. En caso de superposición entre proyectos de infraestructura con otr
 
 (Decreto 769 de 2014, art.3)
 
-ARTÍCULO
-
 ## art:2.2.2.5.4.4 — Sistema Nacional de Áreas Protegidas
 
 Cuando las actividades de mejoramiento que se relacionan en el presente decreto se pretendan realizar al interior de las áreas protegidas públicas que integran el Sistema Nacional de Áreas Protegidas -SINAP o las zonas amortiguadoras del Sistema de Parques Nacionales Naturales debidamente delimitadas, se deberá tramitar y obtener la correspondiente licencia ambiental, en el marco de las actividades permitidas.
 
 (Decreto 769 de 2014, art.4)
-
-ARTÍCULO
 
 ## art:2.2.2.5.4.5 — Permisos, concesiones o autorizaciones ambientales
 
@@ -14150,8 +13153,6 @@ Así mismo, cuando la actividad esté amparada por un permiso, concesión o auto
 En todo caso las autoridades ambientales no podrán exigir, establecer o imponer licencias ambientales, planes de manejo ambiental o sus equivalentes a las actividades listadas en el presente decreto.
 
 (Decreto 769 de 2014, art.5)
-
-ARTÍCULO
 
 ## art:2.2.2.5.4.6 — Trámites ambientales
 
@@ -14164,8 +13165,6 @@ CAPÍTULO 6.
 LISTADO DE CAMBIOS MENORES O AJUSTES NORMALES EN PROYECTOS DEL SECTOR DE INFRAESTRUCTURA DE TRANSPORTE
 
 SECCIÓN 1
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1 — Objeto
 
@@ -14192,8 +13191,6 @@ vii. No involucre intervenciones en playas, manglares, corales y/o pastos marino
 PARÁGRAFO . Las actividades que en el presente decreto se relacionan, cumplen con las condiciones enunciadas en este artículo, y por tanto, no requerirán de valoración adicional alguna o de pronunciamientos de las autoridades ambientales. Lo anterior, sin perjuicio de las facultades de inspección, vigilancia y control de dichas autoridades.
 
 (Decreto 770 de 2014, arl.1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.2 — Cambios menores comunes a dos o más modos
 
@@ -14224,8 +13221,6 @@ c. No implique un cambio en la competencia de la autoridad que otorgó la autori
 8. Cambio de proveedores de materiales de construcción siempre que el nuevo proveedor cuente con todos los permisos y licencias ambientales asociados a la explotación de recursos naturales no renovables, como agregados y material granular.
 
 (Decreto 770 de 2014, art.2)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.3 — Modo terrestre- carretero
 
@@ -14284,8 +13279,6 @@ Lo anterior no aplica a las zonas de extracción en los lechos de fuentes hídri
 22. Construcción y/o reubicación de estaciones de peajes.
 
 (Decreto 770 de 2014, art.3)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.4 — Modo terrestre- férreo
 
@@ -14358,8 +13351,6 @@ f. No se realicen rellenos en humedales y/o morichales y esteros.
 (Numeral 26, Adicionado por el Art. 4 del Decreto 510 de 2024)
 
 (Decreto 770 de 2014, art.4)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.5 — Modo acuático- fluvial, marítimo y de infraestructura portuaria
 
@@ -14449,8 +13440,6 @@ n. Dragado de mantenimiento de los canales y áreas de maniobra para los termina
 
 (Decreto 770 de 2014, art.5)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.6 — Modo aéreo
 
 Son cambios menores los siguientes:
@@ -14537,8 +13526,6 @@ j. Construcción, adecuación, reubicación o ampliación de barreras contra rui
 
 (Decreto 770 de 2014, art.6)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.7 — Trámite de las modificaciones menores o ajustes normales
 
 Previo a la ejecución de las actividades descritas en el artículo precedente, el titular de la Licencia Ambiental o Plan de Manejo Ambiental de cada proyecto, obra o actividad deberá presentar ante la Autoridad Ambiental un informe con destino al expediente de las actividades a ejecutar, a efectos de ser tenido en cuenta en el proceso de seguimiento y control ambiental que se realizará en los términos del artículo 39 del Decreto 2820 de 2010, o la norma que lo modifique o sustituya, el cual contendrá la siguiente información:
@@ -14553,15 +13540,11 @@ PARÁGRAFO 2. La Autoridad Ambiental, al efectuar el control y seguimiento a la 
 
 (Decreto 770 de 2014, art. 7).
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.8 — Sistema Nacional de Áreas Protegidas
 
 Cuando las actividades que se listan en el presente decreto se pretendan realizar al interior de las áreas protegidas públicas que integran el Sistema Nacional de Áreas Protegidas-SINAP o las zonas amortiguadoras del Sistema de Parques Nacionales Naturales debidamente delimitadas, se deberá tramitar y obtener la correspondiente modificación de la licencia ambiental o su instrumento equivalente, en el marco de las actividades permitidas.
 
 (Decreto 770 de 2014, art.8)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.9 — Ámbito de aplicación
 
@@ -14577,8 +13560,6 @@ SECCIÓN 1
 
 CARGUE DIRECTO
 
-ARTÍCULO
-
 ## art:2.2.2.7.1.1 — Cargue directo
 
 En todos los puertos marítimos del país, el cargue de carbón en naves se deberá hacer a través de un sistema de cargue directo, utilizando para ello bandas transportadoras encapsuladas u otro sistema tecnológico equivalente. El sitio de embarque será el más próximo a la línea de playa que evite el fondeo para cargue, mediante la ejecución de dársenas, zonas de maniobra y canales de acceso adecuados.
@@ -14589,13 +13570,11 @@ PARÁGRAFO . El interesado deberá tramitar y obtener los permisos, concesiones,
 
 (Decreto 3083 de 2007, art. 1)
 
-## art:2.2.2 — 7.1.2
+## art:2.2.2.7.1.2 — 
 
 Operación de los puertos La operación de los puertos carboníferos deberá realizarse de acuerdo con las mejores prácticas y tecnologías limpias que eviten la dispersión de partículas de carbón, incluyendo entre otros, sistemas de humectación eficientes, control de altura de pilas de almacenamiento y de descarga de carbón, reducción de inventarios y control de emisiones en puntos de transferencia. Estas operaciones contarán con barreras u otros dispositivos para el control de la dispersión de estas partículas por fuera de las zonas de manejo.
 
 (Decreto 3083 de 2007, art.2)
-
-ARTÍCULO
 
 ## art:2.2.2.7.1.3 — Obligación
 
@@ -14607,15 +13586,11 @@ SECCIÓN 2
 
 ADICIONES AL CARGUE DIRECTO
 
-ARTÍCULO
-
 ## art:2.2.2.7.2.1 — Cronograma de actividades
 
 Los puertos marítimos que realicen cargue de carbón deberán presentar, para aprobación del Ministerio de Transporte y de la autoridad ambiental competente, el cronograma que contenga las actividades necesarias para el cumplimento de la obligación de cargue directo, prevista en el decreto único del sector transporte o la norma que haga sus veces.
 
 (Decreto 4286 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.7.2.2 — Informe mensual de avance
 
@@ -14625,8 +13600,6 @@ Dentro de los cinco (5) días hábiles siguientes a la presentación del informe
 
 (Decreto 4286 de 2009, art.2)
 
-ARTÍCULO
-
 ## art:2.2.2.7.2.3 — Incumplimiento
 
 La no presentación del cronograma de actividades mencionado en el artículo 5 del informe mensual de avance previsto en el presente decreto, dará lugar a la imposición de las medidas sancionatorias por parte de la autoridad ambiental competente, establecidas en la Ley 1333 de 21 de julio de 2009.
@@ -14634,8 +13607,6 @@ La no presentación del cronograma de actividades mencionado en el artículo 5 d
 Igualmente, el incumplimiento de las actividades previstas en el cronograma de que trata el artículo primero del presente Decreto, dará lugar a la imposición de las medidas sancionatorias por parte de la autoridad ambiental competente, establecidas en la Ley 1333 de 21 de julio de 2009.
 
 (Decreto 4286 de 2009, art.3)
-
-ARTÍCULO
 
 ## art:2.2.2.7.2.4 — Cronograma de cumplimiento
 
@@ -14653,15 +13624,11 @@ INVESTIGACIÓN CIENTÍFICA
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.2.8.1.1 — Objeto
 
 Reglamentar el permiso de recolección de especímenes de especies silvestres de la diversidad biológica con fines de investigación científica no comercial.
 
 (Decreto 1376 de 2013, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.2.8.1.2 — Ámbito de aplicación
 
@@ -14685,8 +13652,6 @@ PARÁGRAFO 6. Para acceder a los recursos genéticos y/o productos derivados, co
 
 (Decreto 1376 de 2013, art. 2).
 
-ARTÍCULO
-
 ## art:2.2.2.8.1.3 — Definiciones
 
 Para efectos de la aplicación de este decreto se tendrán en cuenta las siguientes definiciones:
@@ -14709,8 +13674,6 @@ Recolección de especímenes: Consiste en los procesos de captura, remoción o e
 
 (Decreto 1376 de 2013, art. 3).
 
-ARTÍCULO
-
 ## art:2.2.2.8.1.4 — Competencia
 
 Las autoridades ambientales competentes para el otorgamiento del Permiso de Recolección son:
@@ -14722,8 +13685,6 @@ b) La Autoridad Nacional de Licencias Ambientales (ANLA), en caso de que las act
 c) Parques Nacionales Naturales de Colombia, cuando las actividades de recolección se desarrollen dentro de las áreas del Sistema de Parques Nacionales Naturales.
 
 (Decreto 1376 de 2013, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.2.8.1.5 — Modalidades
 
@@ -14739,8 +13700,6 @@ SECCIÓN 2
 
 SOLICITUD DEL PERMISO MARCO DE RECOLECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.8.2.1 — Permiso Marco de Recolección
 
 Las Instituciones Nacionales de Investigación que pretendan recolectar especímenes de especies silvestres de la diversidad biológica, para adelantar proyectos de investigación científica no comercial, deberán solicitar a la autoridad ambiental competente la expedición de un Permiso Marco de Recolección que ampare todos los programas de investigación científica, que realicen los investigadores vinculados a la respectiva institución.
@@ -14748,8 +13707,6 @@ Las Instituciones Nacionales de Investigación que pretendan recolectar especím
 PARÁGRAFO . La recolección de especímenes para fines docentes y educativos a nivel universitario deberá estar amparada por un Permiso Marco de Recolección vigente.
 
 (Decreto 1376 de 2013, art. 6).
-
-ARTÍCULO
 
 ## art:2.2.2.8.2.2 — Condiciones del solicitante
 
@@ -14764,8 +13721,6 @@ c) Contar con una dependencia responsable de la administración de los programas
 d) Contar con un sistema de información interno de registro y seguimiento de proyectos de investigación.
 
 (Decreto 1376 de 2013, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.2.8.2.3 — Solicitud
 
@@ -14782,8 +13737,6 @@ d) Relación de los investigadores vinculados a cada programa dentro de la insti
 e) Breve descripción de los programas a realizar, de acuerdo con lo requerido en el Formato de Solicitud de Permiso Marco de Recolección.
 
 (Decreto 1376 de 2013, art. 8).
-
-ARTÍCULO
 
 ## art:2.2.2.8.2.4 — Obligaciones del titular del Permiso Marco de Recolección
 
@@ -14809,15 +13762,11 @@ La autorización de recolección expedida por Parques Nacionales Naturales de Co
 
 (Decreto 1376 de 2013, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.8.2.5 — De la consulta previa
 
 En el caso en el que las actividades de recolección requieran cumplir con la consulta previa a los grupos étnicos, la Institución Nacional de Investigación será la única responsable de adelantarla conforme al trámite legal vigente. El cumplimiento de dicho requisito es obligatorio, previo al inicio de la ejecución de cada proyecto, y deberá ser reportado en los informes de que trata el presente artículo.
 
 (Decreto 1376 de 2013, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.8.2.6 — Modificación del Permiso Marco de Recolección
 
@@ -14829,15 +13778,11 @@ SECCIÓN 3
 
 SOLICITUD DEL PERMISO INDIVIDUAL DE RECOLECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.8.3.1 — Permiso Individual de Recolección
 
 Las personas naturales o jurídicas que pretendan recolectar especímenes para adelantar un proyecto de investigación científica no comercial, deberán obtener un Permiso Individual de Recolección.
 
 (Decreto 1376 de 2013, art. 12).
-
-ARTÍCULO
 
 ## art:2.2.2.8.3.2 — Solicitud
 
@@ -14861,8 +13806,6 @@ PARÁGRAFO . La autoridad ambiental competente podrá rechazar el Permiso Indivi
 
 (Decreto 1376 de 2013, art. 13).
 
-ARTÍCULO
-
 ## art:2.2.2.8.3.3 — Obligaciones del titular del Permiso Individual de Recolección
 
 Las personas naturales o jurídicas nacionales o extranjeras que obtengan Permiso Individual de Recolección, deberán cumplir con las siguientes obligaciones ante la autoridad ambiental competente:
@@ -14879,8 +13822,6 @@ e) El titular de este permiso será responsable de realizar los muestreos de for
 
 (Decreto 1376 de 2013, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.8.3.4 — Solicitud de ajustes
 
 La autoridad ambiental competente podrá solicitar al titular del Permiso Individual de Recolección, ajustar el número total de muestras, frecuencia de muestreo, sitios de muestreo, entre otros aspectos, de manera sustentada, por considerar que la recolección puedo afectar las especies o los ecosistemas en razón de la sobre-colecta, impactos en lugares críticos para la reproducción, afectación de ciclos biológicos, dieta, entre otras.
@@ -14891,15 +13832,11 @@ SECCIÓN 4
 
 INVESTIGADORES EXTRANJEROS
 
-ARTÍCULO
-
 ## art:2.2.2.8.4.1 — Investigadores de instituciones extranjeras vinculados a Permiso Marco de Recolección
 
 Los investigadores extranjeros que pretendan adelantar actividades de recolección de especímenes con fines de investigación científica no comercial, deberán estar vinculados a una Institución Nacional de Investigación que cuente con un Permiso Marco de Recolección o a una institución extranjera que tenga un acuerdo de cooperación vigente con una Institución Nacional de Investigación que cuente con dicho permiso.
 
 (Decreto 1376 de 2013, art. 16).
-
-ARTÍCULO
 
 ## art:2.2.2.8.4.2 — Solicitud del Permiso Individual para extranjeros
 
@@ -14917,15 +13854,11 @@ SECCIÓN 5
 
 TRÁMITE DE LOS PERMISOS DE RECOLECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.8.5.1 — Admisión de la solicitud
 
 Al recibir la solicitud, la autoridad ambiental competente deberá verificar si la misma está completa para poder proceder a radicarla.
 
 (Decreto 1376 de 2013, art. 18).
-
-ARTÍCULO
 
 ## art:2.2.2.8.5.2 — Trámite
 
@@ -14943,8 +13876,6 @@ Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1376 de 2013, art. 19).
 
-ARTÍCULO
-
 ## art:2.2.2.8.5.3 — Vigencia de los permisos
 
 Los Permisos Marco de Recolección podrán otorgarse hasta por diez (10) años. Estos términos se contarán a partir de la expedición del permiso.
@@ -14953,15 +13884,11 @@ Los Permiso Individuales de Recolección podrán otorgarse hasta por cinco (5) a
 
 (Decreto 1376 de 2013, art. 20).
 
-ARTÍCULO
-
 ## art:2.2.2.8.5.4 — Cesión
 
 El titular del Permiso Marco de Recolección, no podrá ceder a otras personas el permiso, sus derechos y obligaciones. El titular del Permiso Individual de Recolección podrá ceder a otras personas el permiso, sus derechos y obligaciones, previa autorización de la autoridad competente.
 
 (Decreto 1376 de 2013, art. 21).
-
-ARTÍCULO
 
 ## art:2.2.2.8.5.5 — Ventanilla Integral de Trámites Ambientales en Línea (VITAL)
 
@@ -14989,15 +13916,11 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.2.8.6.1 — Prohibición de comercializar especímenes o muestras obtenidos con fines de investigación científica
 
 Los especímenes o muestras obtenidos en ejercicio del permiso de que trata este decreto no podrán ser aprovechados con fines comerciales.
 
 (Decreto 1376 de 2013, art. 23).
-
-ARTÍCULO
 
 ## art:2.2.2.8.6.2 — Control y seguimiento
 
@@ -15005,15 +13928,11 @@ La autoridad ambiental que otorgó el Permiso de Recolección deberá verificar 
 
 (Decreto 1376 de 2013, art. 24).
 
-ARTÍCULO
-
 ## art:2.2.2.8.6.3 — Suspensión o revocatoria del permiso
 
 El Permiso de Recolección podrá ser suspendido o revocado de conformidad con el artículo 62 de la Ley 99 de 1993, mediante resolución motivada por la autoridad ambiental que lo otorgó, de oficio o a petición de parte, en los casos en que el investigador haya incumplido las obligaciones señaladas en el mismo o en la normatividad ambiental vigente. Lo anterior, sin perjuicio de las medidas preventivas y sancionatorias de que trata la Ley 1333 de 2009, y de las acciones civiles, penales y disciplinarias a que haya lugar.
 
 (Decreto 1376de 2013, art. 25).
-
-ARTÍCULO
 
 ## art:2.2.2.8.6.4 — Sanciones
 
@@ -15021,15 +13940,11 @@ En caso de incumplimiento de las disposiciones contenidas en este decreto, se da
 
 (Decreto 1376 de 2013, art. 26).
 
-ARTÍCULO
-
 ## art:2.2.2.8.6.5 — Cobro
 
 Como estímulo a la investigación científica, las autoridades competentes no realizarán ningún cobro de los servicios de evaluación y seguimiento a los Permisos de Recolección.
 
 (Decreto 1376 de 2013, art. 27).
-
-ARTÍCULO
 
 ## art:2.2.2.8.6.6 — Movilización de especímenes
 
@@ -15039,15 +13954,11 @@ PARÁGRAFO . Para la movilización de especímenes amparados por un Permiso de R
 
 (Decreto 1376 de 2013, art. 28).
 
-ARTÍCULO
-
 ## art:2.2.2.8.6.7 — Exportación de especímenes
 
 En caso de requerirse exportación de especímenes o muestras, amparadas por un Permiso Marco o Individual de Recolección, se deberá atender lo señalado en las disposiciones CITES y NO CITES.
 
 (Decreto 1376 de 2013, art. 29).
-
-ARTÍCULO
 
 ## art:2.2.2.8.6.8 — Régimen especial frente a eventos especiales
 
@@ -15060,8 +13971,6 @@ b) Adopción de medidas urgentes para la protección sanitaria de la fauna y de 
 c) Adopción de medidas urgentes en materia de salud, epidemias, índices preocupantes de enfermedad y/o morbilidad, desastres naturales.
 
 (Decreto 1376 de 2013, art. 30).
-
-ARTÍCULO
 
 ## art:2.2.2.8.6.9 — Régimen de transición
 
@@ -15077,8 +13986,6 @@ COLECCIONES BIOLÓGICAS
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.1 — Objeto
 
 El objeto apunta a desarrollar los siguientes aspectos:
@@ -15091,8 +13998,6 @@ c) El procedimiento de registro de las colecciones biológicas ante el Instituto
 
 (Decreto 1375 de 2013, art. 1).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.2 — Ámbito de aplicación
 
 Aplica a las personas naturales o jurídicas titulares de las colecciones biológicas.
@@ -15102,8 +14007,6 @@ PARÁGRAFO 1. Los zoológicos, acuarios y jardines botánicos atenderán Jo disp
 PARÁGRAFO 2. Las disposiciones contenidas en el presente decreto se aplican sin perjuicio de las normas vigentes sobre bioseguridad, salud pública, sanidad animal y vegetal.
 
 (Decreto 1375 de 2013, art. 2).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.3 — Definiciones
 
@@ -15127,8 +14030,6 @@ Titular de la Colección: Persona que registra la colección, quien será juríd
 
 (Decreto 1375 de 2013, art. 3).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.4 — Actividades a desarrollar en las colecciones biológicas
 
 Las colecciones biológicas además de ser receptores de especímenes y de adelantar actividades de curaduría para garantizar el mantenimiento y cuidado de estos podrán adelantar, entre otras:
@@ -15149,8 +14050,6 @@ PARÁGRAFO 2. Para acceder a los recursos genéticos de los especímenes deposit
 
 (Decreto 1375 de 2013, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.5 — Obligación de registrar las colecciones biológicas
 
 La persona natural o jurídica que administre una colección biológica deberá realizar el Registro Único de la Colección Biológica ante el Instituto de Investigación de Recursos Biológicos "Alexander Von Humboldt", de acuerdo con el procedimiento que se establece en el artículo 7 del presente decreto.
@@ -15158,8 +14057,6 @@ La persona natural o jurídica que administre una colección biológica deberá 
 PARÁGRAFO . El Instituto de Investigación de Recursos Biológicos "Alexander Von Humboldt" mantendrá en su página web la lista actualizada de las colecciones registradas, incluyendo información sobre los especímenes registrados en cada colección y los datos de la persona de contacto.
 
 (Decreto 1375 de 2013, art. 5).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.6 — Obligaciones de las colecciones biológicas
 
@@ -15179,8 +14076,6 @@ PARÁGRAFO . La información asociada a los especímenes que se encuentren bajo 
 
 (Decreto 1375 de 2013, art. 6).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.7 — Trámite del registro
 
 El trámite para el registro de la colección biológica es el siguiente:
@@ -15194,8 +14089,6 @@ c) En caso que la información que proporcione el interesado se encuentre incomp
 Este requerimiento interrumpirá el término con que cuenta el Instituto de Investigación de Recursos Biológicos "Alexander Von Humboldt" para decidir, y una vez el interesado cumpla con dichos requerimientos, comenzarán a correr nuevamente los términos para emitir el certificado del registro. Si transcurrido un (1) mes a partir del requerimiento de dicha información esta no ha sido aportada, se entenderá que se ha desistido de la solicitud y se procederá a su archivo o en el evento de no subsanarse las inconsistencias, el Instituto se abstendrá de efectuar e, registro de la colección.
 
 (Decreto 1375 de 2013, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.8 — 1.8
 
@@ -15217,8 +14110,6 @@ PARÁGRAFO . Cuando la colección se reserve el derecho a recibir especímenes p
 
 (Decreto 1375 de 2013, art. 8).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.9 — 1.9
 
 Movilización de especímenes en el territorio nacional La movilización de especímenes en el territorio nacional provenientes de colecciones que cuenten con el Registro Único Nacional de Colecciones Biológicas no requiere salvoconducto para su movilización, ya que actuará como tal la constancia de dicho registro expedida por el Instituto de Investigación de Recursos Biológicos "Alexander Von Humboldt", junto con certificación suscrita por el titular de la colección, en la que consten los especímenes movilizados.
@@ -15226,8 +14117,6 @@ Movilización de especímenes en el territorio nacional La movilización de espe
 PARÁGRAFO . En todo caso quien realice la movilización de especímenes de la biodiversidad tomará las medidas necesarias para garantizar la adecuada conservación de los especímenes transportados.
 
 (Decreto 1375 de 2013, art. 9).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.10 — Importación y Exportación de especímenes de las Colecciones
 
@@ -15238,8 +14127,6 @@ Los interesados en exportar especímenes vivos o muertos de colecciones biológi
 PARÁGRAFO . Los holotipos de las colecciones biológicas únicamente podrán salir del país en calidad de préstamo.
 
 (Decreto 1375 de 2013, art. 10).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.11 — Reingreso de especímenes de las Colecciones
 
@@ -15255,8 +14142,6 @@ PARÁGRAFO . Las colecciones biológicas deberán solicitar la devolución de lo
 
 (Decreto 1375 de 2013, art. 11).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.12 — Seguimiento y evaluación
 
 El Instituto de Investigación de Recursos Biológicos "Alexander Von Humboldt" realizará el seguimiento y evaluación periódica de la actualización de las colecciones en el Registro Único Nacional de Colecciones Biológicas. El Instituto de Investigación de Recursos Biológicos "Alexander Von Humboldt" podrá requerir de oficio la actualización de las colecciones no vigentes.
@@ -15265,15 +14150,11 @@ Las corporaciones autónomas regionales y las autoridades ambientales urbanas po
 
 (Decreto 1375 de 2013, art. 12).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.13 — Términos de Referencia protocolo de manejo de las colecciones biológicas
 
 El Ministerio de Ambiente y Desarrollo Sostenible deberá efectuar los Términos de Referencia para que los titulares de las colecciones elaboren los protocolos de manejo de las colecciones biológicas.
 
 (Decreto 1375 de 2013, art. 13).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.14 — Trámite en línea
 
@@ -15283,15 +14164,11 @@ Así mismo, a partir de la vigencia del presente decreto y hasta que se implemen
 
 (Decreto 1375 de 2013, art. 14).
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.15 — Sanciones
 
 En caso de incumplimiento de las disposiciones contenidas en este decreto, se dará cumplimiento a lo establecido en la Ley 1333 de 2009, o la que la modifique, sustituya o derogue, sin perjuicio de las acciones penales, civiles y disciplinarias a que haya lugar.
 
 (Decreto 1375 de 2013, art. 15).
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.16 — Régimen de Transición
 
@@ -15309,8 +14186,6 @@ PERMISO DE ESTUDIO PARA LA RECOLECCIÓN DE ESPECÍMENES DE ESPECIES SILVESTRES D
 
 ESTUDIOS AMBIENTALES
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.1 — 2.1
 
 Actividades de recolección de especímenes de especies silvestres de la diversidad biológica Toda persona que pretenda adelantar estudios en los que sea necesario realizar actividades de recolección de especímenes de especies silvestres de la diversidad biológica en el territorio nacional, con la finalidad de elaborar estudios ambientales necesarios para solicitar y/o modificar licencias ambientales o su equivalente, permisos, concesiones o autorizaciones deberá previamente solicitar a la autoridad ambiental competente la expedición del permiso que reglamenta el presente decreto.
@@ -15322,8 +14197,6 @@ PARÁGRAFO 1. Las disposiciones contenidas en el presente decreto se aplicarán 
 PARÁGRAFO 2. La obtención del permiso de que trata el presente decreto constituye un trámite previo dentro del proceso de licenciamiento ambiental y no implica la autorización de acceso y aprovechamiento a recursos genéticos.
 
 (Decreto 3016 de 2013, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.2 — Definiciones
 
@@ -15349,8 +14222,6 @@ Recolección de especímenes: Consiste en los procesos de captura y/o remoción 
 
 (Decreto 3016 de 2013, art. 2).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.3 — Competencia
 
 Las autoridades ambientales competentes para otorgar el permiso de que trata este Decreto, son:
@@ -15362,8 +14233,6 @@ Las autoridades ambientales competentes para otorgar el permiso de que trata est
 3. Parques Nacionales Naturales de Colombia, cuando 'las actividades de recolección se pretendan desarrollar exclusivamente al interior de las áreas del' Sistema de Parques Nacionales Naturales.
 
 (Decreto 3016 de 2013, art. 3).
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.4 — Requisitos de la solicitud
 
@@ -15381,8 +14250,6 @@ Los documentos que deben aportarse para la solicitud son:
 
 (Decreto 3016 de 2013, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.5 — Trámite
 
 Para obtener el permiso de estudios con fines de elaboración de estudios ambientales de que trata el presente decreto, se surtirán los siguientes trámites:
@@ -15394,8 +14261,6 @@ Para obtener el permiso de estudios con fines de elaboración de estudios ambien
 3. A partir de la ejecutoria del auto de inicio o de la recepción de la información adicional solicitada, según el caso, la autoridad ambiental contará con diez (10) días hábiles para otorgar o negar el permiso mediante resolución motivada, contra la cual procederán los recursos a que haya lugar, de conformidad con lo dispuesto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Dicha decisión se notificará en los mismos términos del citado Código.
 
 (Decreto 3016 de 2013, art. 5).
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.6 — Obligaciones
 
@@ -15421,15 +14286,11 @@ Así mismo, deberá informar el estimado de especímenes que se pretendan movili
 
 (Decreto 3016 de 2013, art. 6).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.7 — Vigencia de los permisos
 
 El permiso de que trata la presente sección podrá tener una duración hasta de dos (2) años según la índole de los estudios. El término de estos permisos podrá ser prorrogado cuando la inejecución de los estudios, dentro del lapso de su vigencia, obedezca a fuerza mayor.
 
 (Decreto 3016 de 2013, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.8 — Modificación del permiso
 
@@ -15445,23 +14306,17 @@ Cuando se pretenda cambiar o adicionar las Metodologías Establecidas, los grupo
 
 (Decreto 3016 de 2013, en. 8).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.9 — Cesión
 
 El titular del permiso de que trata el presente decreto, podrá ceder el sus derechos y obligaciones, previa autorización de la autoridad ambiental competente que expidió el permiso, cuyo efecto será la cesión de los derechos y obligaciones que de ella se derivan.
 
 (Decreto 3016 de 2013, art. 9).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.10 — Movilización de especímenes
 
 El acto administrativo que otorgue el permiso de que trata este decreto, incluirá la autorización de movilización de especímenes a recolectar dentro del territorio nacional especificando su descripción general y unidad muestra! por proyecto que se pretenda desarrollar y la información específica será tenida en cuenta para seguimiento de acuerdo con este decreto.
 
 (Decreto 3016 de 2013, art. 10).
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.11 — Trámite en Línea
 
@@ -15483,23 +14338,17 @@ Estudios Ambientales.
 
 (Decreto 3016 de 2013, art. 11).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.12 — Cobro del Seguimiento
 
 Con el objeto de realizar el seguimiento, control y verificación del cumplimiento de las obligaciones derivadas del permiso, la autoridad competente efectuará inspecciones periódicas a todos los usuarios. La autoridad ambiental competente aplicará el sistema y método de cálculo establecido internamente para tal fin.
 
 (Decreto 3016 de 2013, art. 12).
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.13 — Medidas preventivas y sancionatorias
 
 En caso de incumplimiento de los términos, condiciones y obligaciones previstas en el permiso, darán lugar a las medidas preventivas y sancionatorias de que trata la Ley 1333 de 2009.
 
 (Decreto 3016 de 2013, art. 13).
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.14 — Aplicación preferente
 
@@ -15985,8 +14834,6 @@ SECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.1 — Objeto
 
 Reglamentar:
@@ -15997,15 +14844,11 @@ Reglamentar:
 
 (Decreto 1640 de 2012, art. 1: Modificado por el Decreto 50 de 2018, art. 15).
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.2 — Ámbito de aplicación
 
 Las disposiciones del presente Capítulo son de carácter permanente y rigen en todo el Territorio Nacional y aplican a todas las personas naturales y jurídicas, en especial a las entidades del Estado con competencias al interior de la estructura definida para la planificación, ordenación y manejo de las cuencas hidrográficas y acuíferos del país, las cuales conforme a sus competencias, serán responsables de la coordinación, formulación, ejecución, seguimiento y evaluación de los instrumentos establecidos para tal fin.
 
 (Decreto 1640 de 2012, art. 2).
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.3 — Definiciones
 
@@ -16051,8 +14894,6 @@ PARÁGRAFO . Para efectos del presente Capítulo se consideran aquellas amenazas
 
 (Decreto 1640 de 2012, art. 3; Modificado por el Decreto 50 de 2018, art. 1).
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.4 — De la estructura para la planificación, ordenación y manejo de cuencas hidrográficas y acuíferos
 
 Se establece la siguiente estructura hidrográfica:
@@ -16068,8 +14909,6 @@ Se establece la siguiente estructura hidrográfica:
 PARÁGRAFO . El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM, oficializará el mapa de Zonificación Hidrográfica de Colombia a escala 1:500.000, relacionando las Áreas Hidrográficas, Zonas Hidrográficas y Subzonas Hidrográficas, con su respectiva delimitación geográfica, hidrografía, nombre y código.
 
 (Decreto 1640 de 2012, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.5 — De los instrumentos para la planificación, ordenación y manejo de las cuencas hidrográficas y acuíferos
 
@@ -16091,8 +14930,6 @@ PARÁGRAFO 1. Los acuíferos deberán ser objeto de Plan de Manejo Ambiental, cu
 
 (Decreto 1640 de 2012, art. 5).
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.6 — De las instancias para la coordinación de la planificación, ordenación y manejo de las cuencas hidrográficas y acuíferos
 
 Son instancias de coordinación:
@@ -16105,8 +14942,6 @@ Hidrográficas o Macrocuencas del país.
 
 (Decreto 1640 de 2012, art. 6).
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.7 — De las instancias de participación
 
 Son instancias de participación para la planificación, ordenación y manejo de las cuencas hidrográficas y acuíferos:
@@ -16118,8 +14953,6 @@ Son instancias de participación para la planificación, ordenación y manejo de
 Ambiental.
 
 (Decreto 1640 de 2012, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.8 — De las Evaluaciones Regionales del Agua
 
@@ -16137,8 +14970,6 @@ SECCIÓN 2.
 
 DE LOS PLANES ESTRATÉGICOS
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.1 — Del concepto
 
 Instrumento de planificación ambiental de largo plazo que con visión nacional, constituye el marco para la formulación, ajuste y/o ejecución de los diferentes instrumentos de política, planificación, planeación, gestión, existentes en cada una de ellas.
@@ -16146,8 +14977,6 @@ Instrumento de planificación ambiental de largo plazo que con visión nacional,
 PARÁGRAFO . Los planes estratégicos de las Áreas Hidrográficas o Macrocuencas, se formularán a escala 1:500.000 o un nivel más detallado cuando la información disponible lo permita.
 
 (Decreto 1640 de 2012, art. 9; Modificado por el Decreto 50 de 2018, art. 2).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.2 — Áreas Hidrográficas objeto de Plan Estratégico
 
@@ -16164,8 +14993,6 @@ Corresponde a las macrocuencas establecidas en el mapa de Zonificación Hidrogr�
 5. Pacífico
 
 (Decreto 1640 de 2012, art. 10).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.3 — De la competencia y formulación de los Planes Estratégicos
 
@@ -16186,8 +15013,6 @@ PARÁGRAFO 2. El Ministerio de Ambiente y Desarrollo Sostenible, de ser necesari
 PARÁGRAFO 3. Las entidades competentes generadoras de la información e insumos técnicos con los cuales el Ministerio de Ambiente y Desarrollo Sostenible elaborará los planes estratégicos de las macrocuencas, deberán aportar la información pertinente en los medios técnicos que para tal fin señale el Ministerio.
 
 (Decreto 1640 de 2012, art. 11).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.4 — Del alcance
 
@@ -16215,8 +15040,6 @@ PARÁGRAFO . No obstante lo señalado en los numerales 1, 2 y 3 del presente art
 
 (Decreto 1640 de 2012, art. 12).
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.5 — De la coordinación
 
 El seguimiento a los Planes Estratégicos de las macrocuencas, se realizará a través del Consejo Ambiental Regional de la Macrocuenca de cada Área Hidrográfica.
@@ -16226,8 +15049,6 @@ El seguimiento a los Planes Estratégicos de las macrocuencas, se realizará a t
 SECCIÓN 3.
 
 CONSEJOS AMBIENTALES REGIONALES DE MACROCUENCAS
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.1 — Del alcance
 
@@ -16242,8 +15063,6 @@ Son instancias de coordinación para:
 4. Promover acuerdos interinstitucionales e intersectoriales y acciones estratégicas sobre el uso, manejo y aprovechamiento de los recursos naturales renovables y desarrollo sostenible de las actividades sociales y económicas que se desarrollan en las Áreas Hidrográficas o Macrocuencas.
 
 (Decreto 1640 de 2012, art. 14).
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.2 — De la conformación
 
@@ -16283,8 +15102,6 @@ SECCIÓN 4.
 
 DEL PROGRAMA NACIONAL DE MONITOREO DEL RECURSO HÍDRICO
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.1 — Campo de acción, objetivo y definición de competencias
 
 El Programa Nacional de Monitoreo del Recurso Hídrico se adelantará a nivel de las Zonas Hidrográficas definidas en el mapa de zonificación ambiental del Instituto de Hidrología, Meteorología y Estudios Ambientales, Ideam, las cuales serán el espacio para monitorear el estado del recurso hídrico y el impacto que sobre este tienen las acciones desarrolladas en el marco de la Política Nacional para la Gestión Integral del Recurso Hídrico.
@@ -16295,8 +15112,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible con base en los insumos técni
 
 (Decreto 1640 de 2012, art. 16).
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.2 — De la Red Regional de Monitoreo del Recurso Hídrico
 
 La autoridad ambiental competente, implementará en su respectiva jurisdicción la Red Regional de Monitoreo, con el apoyo del Ideam y el Invernar, en el marco del Programa Nacional de Monitoreo del Recurso Hídrico.
@@ -16306,8 +15121,6 @@ La autoridad ambiental competente, implementará en su respectiva jurisdicción 
 SECCIÓN 5.
 
 DE LOS PLANES DE ORDENACIÓN Y MANEJO DE CUENCAS HIDROGRÁFICAS
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.1 — 5.1
 
@@ -16326,8 +15139,6 @@ PARÁGRAFO 4. No podrán realizarse aprobaciones parciales de Planes de Ordenaci
 PARÁGRAFO 5. Si las determinaciones que se profieran en el proceso de formulación de los Planes de Ordenación y Manejo de Cuencas Hidrográficas inciden de manera directa y específica sobre comunidades étnicas, se deberá realizar de manera integral y completa la consulta previa específica exigida por el bloque de constitucionalidad, de conformidad con las pautas trazadas para ello por la doctrina constitucional.
 
 (Decreto 1640 de 2012, art. 18).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.2 — De las Directrices
 
@@ -16349,8 +15160,6 @@ Ecológica.
 
 (Decreto 1640 de 2012, art. 19).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.3 — De las cuencas hidrográficas objeto de ordenación y manejo
 
 La ordenación y manejo se adelantará en las cuencas hidrográficas correspondientes a las Subzonas Hidrográficas definidas en el mapa de Zonificación Hidrográfica de Colombia o su nivel subsiguiente, en donde las condiciones ecológicas, económicas o sociales lo ameriten de acuerdo con la priorización establecida en el presente decreto.
@@ -16358,8 +15167,6 @@ La ordenación y manejo se adelantará en las cuencas hidrográficas correspondi
 PARÁGRAFO . Adopción de medidas. No obstante lo anterior, en aquellas cuencas hidrográficas donde no se ha iniciado la ordenación, las Corporaciones Autónomas Regionales y de Desarrollo Sostenible establecerán las medidas de conservación y protección del medio ambiente y de los recursos naturales renovables.
 
 (Decreto 1640 de 2012, art. 20).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.4 — De la escala cartográfica
 
@@ -16373,8 +15180,6 @@ PARÁGRAFO . Las cuencas transfronterizas, serán objeto de tratamiento especial
 
 (Decreto 1640 de 2012, art. 21).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.5 — Priorización de las cuencas hidrográficas para la ordenación y manejo
 
 Las Corporaciones Autónomas Regionales priorizarán las cuencas objeto de ordenación en la respectiva Área Hidrográfica o Macrocuenca, de acuerdo con criterios de oferta, demanda y calidad hídrica, riesgo y gobernabilidad.
@@ -16386,8 +15191,6 @@ PARÁGRAFO 2. Las Corporaciones Autónomas Regionales y de Desarrollo Sostenible
 PARÁGRAFO 3. Teniendo en cuenta las particularidades de localización geográfica, ambiental y ecológica del área de jurisdicción de la Corporación para el Desarrollo Sostenible del Archipiélago de San Andrés, Providencia y Santa Catalina (Coralina), para efectos de ordenación y manejo de sus cuencas, será objeto de manejo especial.
 
 (Decreto 1640 de 2012, art. 22).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.6 — Del Plan de Ordenación y Manejo de Cuencas Hidrográficas como determinante ambiental
 
@@ -16411,8 +15214,6 @@ SECCIÓN 6.
 
 DE LA DECLARATORIA EN ORDENACIÓN Y LA FORMULACIÓN DEL PLAN DE ORDENACIÓN Y MANEJO DE CUENCAS HIDROGRÁFICAS
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.1 — De la declaratoria
 
 Se realizará mediante resolución motivada por cada Corporación Autónoma Regional y de Desarrollo Sostenible competente, y tiene por objeto dar inicio al proceso de ordenación de la cuenca hidrográfica.
@@ -16423,15 +15224,11 @@ PARÁGRAFO .- El acto administrativo de declaratoria de inicio del proceso de or
 
 (Decreto 1640 de 2012, art. 24).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.2 — De las Autorizaciones Ambientales
 
 Durante el período comprendido entre la declaratoria en ordenación de la cuenca y la aprobación del Plan de Ordenación y Manejo, la Autoridad Ambiental Competente, podrá otorgar, modificar o renovar los permisos, concesiones y demás autorizaciones ambientales a que haya lugar, conforme a la normatividad vigente. Una vez se cuente con el plan debidamente aprobado, los permisos, concesiones y demás autorizaciones ambientales otorgadas, deberán ser ajustados a lo allí dispuesto.
 
 (Decreto 1640 de 2012, art. 25).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.3 — De las fases
 
@@ -16459,8 +15256,6 @@ PARÁGRAFO 4. Las Corporaciones Autónomas Regionales y de Desarrollo Sostenible
 
 (Decreto 1640 de 2012, art. 26).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.4 — De la publicidad
 
 La autoridad ambiental competente, dentro de los quince (15) días hábiles contados a partir de la finalización de la fase de formulación, comunicará a los interesados, mediante aviso que se publicará en un diario de circulación regional o con cobertura en la cuenca en ordenación y en su página web, con el fin que presenten las recomendaciones y observaciones debidamente sustentadas, dentro de los veinte (20) días hábiles siguientes a la publicación del aviso.
@@ -16468,8 +15263,6 @@ La autoridad ambiental competente, dentro de los quince (15) días hábiles cont
 Una vez expirado el término para la presentación de recomendaciones y observaciones la autoridad ambiental competente procederá a estudiarlas y adoptará las medidas a que haya lugar, para lo cual dispondrá de un término de hasta dos (2) meses.
 
 (Decreto 1640 de 2012, art. 27).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.5 — De la armonización de los instrumentos de planificación
 
@@ -16497,15 +15290,11 @@ Dentro de las fases de elaboración del Plan de Ordenación y Manejo de la Cuenc
 
 (Decreto 1640 de 2012, art. 28).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.6 — De la consideración de los instrumentos y planes sectoriales
 
 En las fases de diagnóstico, prospectiva y zonificación ambiental del proceso de ordenación y manejo de la cuenca hidrográfica, se deberán considerar los instrumentos sectoriales de planificación con el fin de prever la demanda de recursos naturales renovables de la cuenca, los impactos potenciales sobre los mismos, los ecosistemas y la biodiversidad.
 
 (Decreto 1640 de 2012, art. 29).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.7 — De la fase de aprestamiento
 
@@ -16516,8 +15305,6 @@ La estrategia de participación deberá identificar las personas naturales y jur
 PARÁGRAFO . En fase de aprestamiento se deberá desarrollar la preconsulta de la consulta previa a las comunidades étnicas cuando a ello haya lugar, de acuerdo con los procedimientos establecidos para tal efecto.
 
 (Decreto 1640 de 2012, art. 30).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.8 — De la fase de diagnóstico
 
@@ -16539,8 +15326,6 @@ Las áreas urbanas y las zonas costeras deberán ser consideradas como parte int
 
 (Decreto 1640 de 2012, art. 31).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.9 — De la fase prospectiva y zonificación ambiental
 
 Fase en la cual se diseñarán los escenarios futuros del uso coordinado y sostenible del suelo, de las aguas de la flora y de la fauna presente de la cuenca el cual definirá en un horizonte no menor a diez (10) años el modelo de ordenación de la cuenca, con base en el cual se formulará el Plan de Ordenación y Manejo correspondiente.
@@ -16550,8 +15335,6 @@ PARÁGRAFO 1. Como resultado de la fase de prospectiva se elaborará la zonifica
 PARÁGRAFO 2. Las categorías de uso, manejo y los criterios técnicos para la elaboración de la zonificación ambiental se desarrollarán con base en los parámetros que se definan en la Guía técnica para la formulación de los Planes de Ordenación y Manejo de Cuencas.
 
 (Decreto 1640 de 2012, art. 32).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.10 — De la fase de formulación
 
@@ -16567,15 +15350,11 @@ PARÁGRAFO . En fase de formulación se deberá desarrollar la consulta previa a
 
 (Decreto 1640 de 2012, art. 33).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.11 — Del componente programático de la fase de formulación
 
 El cual incluirá como mínimo: objetivos, estrategias, programas, proyectos, actividades, metas e indicadores, cronogramas, fuentes de financiación, mecanismos e instrumentos de seguimiento y evaluación, así como los responsables de la ejecución de las actividades allí contenidas, especificando las inversiones anuales en el corto, mediano y largo plazo.
 
 (Decreto 1640 de 2012, art. 34).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.12 — De las medidas para la administración de los recursos naturales renovables
 
@@ -16613,15 +15392,11 @@ PARÁGRAFO . En caso de que en la cuenca existan acuíferos, las medidas de mane
 
 (Decreto 1640 de 2012, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.13 — Del componente de gestión del riesgo
 
 Las autoridades ambientales competentes en la fase de formulación deberán incorporar la gestión del riesgo, para lo cual, priorizarán y programarán acciones para el conocimiento y reducción del riesgo y recuperación ambiental de territorios afectados. Las autoridades ambientales competentes desarrollarán este componente con base en los parámetros que se definan en la Guía técnica para la formulación de los Planes de Ordenación y Manejo de Cuencas.
 
 (Decreto 1640 de 2012, art. 36).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.14 — De la aprobación
 
@@ -16629,23 +15404,17 @@ El Plan de Ordenación y Manejo de la Cuenca Hidrográfica será aprobado median
 
 (Decreto 1640 de 2012, art. 37).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.15 — De la fase de ejecución
 
 Corresponde a la Corporaciones Autónomas Regionales y de Desarrollo Sostenible competentes coordinar la ejecución del Plan de Ordenación y Manejo de la Cuenca Hidrográfica, en el escenario temporal para el cual fue formulado, sin perjuicio de las competencias establecidas en el ordenamiento jurídico para la inversión y realización de las obras y acciones establecidas en la fase de formulación del Plan.
 
 (Decreto 1640 de 2012, art. 38).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.16 — De la fase de seguimiento y evaluación
 
 Las Corporaciones Autónomas Regionales y de Desarrollo Sostenible realizarán anualmente el seguimiento y evaluación del Plan de Ordenación y Manejo de la Cuenca Hidrográfica, con base en el mecanismo que para tal fin sea definido el respectivo Plan, conforme a lo contemplado en la Guía Técnica para la Formulación del Plan de Ordenación y Manejo de la Cuenca Hidrográfica.
 
 (Decreto 1640 de 2012, art. 39).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.17 — De la revisión y ajustes al Plan de Ordenación y Manejo de la Cuenca Hidrográfica
 
@@ -16656,8 +15425,6 @@ Con fundamento en los resultados anuales del seguimiento y evaluación del Plan 
 SECCIÓN 7.
 
 DE LA FINANCIACIÓN DEL PROCESO DE ORDENACIÓN Y MANEJO DE CUENCAS HIDROGRÁFICAS
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.1 — De las fuentes de financiación
 
@@ -16727,8 +15494,6 @@ PARÁGRAFO 3. Las inversiones de que trata el literal a) del numeral 3 del prese
 
 (Decreto 1640 de 2012, art. 41. En concordancia con lo dispuesto en el parágrafo primero del artículo 216 de la Ley 1450 de 2011).
 
-ARTÍCULO
-
 ## art:2.2.3.1.7.2 — Aplicación del principio de solidaridad en la financiación de los Planes de Ordenación y Manejo de Cuencas Hidrográficas
 
 En desarrollo del artículo 213 de la Ley 1450 de 2011, las autoridades ambientales competentes, las entidades territoriales y demás entidades del orden nacional, departamental o municipal, asentadas y con responsabilidades en la cuenca y su problemática ambiental, podrán en el marco de sus competencias, invertir en los programas, proyectos y actividades definidas en el aspecto programático del Plan de Ordenación y Manejo de la Cuenca Hidrográfica, sin tener en cuenta sus límites jurisdiccionales. Para estos efectos se podrán suscribir los convenios a que haya lugar de acuerdo con la Ley 1454 de 2011.
@@ -16739,15 +15504,11 @@ SECCIÓN 8.
 
 DE LAS COMISIONES CONJUNTAS
 
-ARTÍCULO
-
 ## art:2.2.3.1.8.1 — Del objeto
 
 Las comisiones Conjuntas de que trata el parágrafo 3 del artículo 33 de la Ley 99 de 1993, tienen por objeto, concertar y armonizar el proceso de ordenación y manejo de cuencas hidrográficas comunes entre dos o más Corporaciones Autónomas Regionales y de Desarrollo Sostenible.
 
 (Decreto 1640 de 2012, art. 43).
-
-ARTÍCULO
 
 ## art:2.2.3.1.8.2 — De la conformación
 
@@ -16765,15 +15526,11 @@ PARÁGRAFO 3. Una vez conformada la Comisión Conjunta, las Corporaciones Autón
 
 (Decreto 1640 de 2012, art. 44).
 
-ARTÍCULO
-
 ## art:2.2.3.1.8.3 — De las reuniones
 
 La Comisión Conjunta deberá reunirse con la periodicidad prevista en el cronograma establecido para tal fin. Podrán asistir a las reuniones de la Comisión en calidad de invitados, personas naturales y/o jurídicas, cuando lo considere pertinente la Comisión. Los invitados tendrán voz pero no voto.
 
 (Decreto 1640 de 2012, art. 45).
-
-ARTÍCULO
 
 ## art:2.2.3.1.8.4 — De las funciones
 
@@ -16823,8 +15580,6 @@ Hidrográfica común.
 
 (Decreto 1640 de 2012, art. 46).
 
-ARTÍCULO
-
 ## art:2.2.3.1.8.5 — De los comités técnicos
 
 La Comisión Conjunta constituirá comités técnicos, quienes suministrarán el soporte técnico para la toma de decisiones por parte de los miembros de la Comisión Conjunta. Podrán asistir a las reuniones del comité técnico en calidad de invitados personas naturales y jurídicas, cuando sea pertinente.
@@ -16839,8 +15594,6 @@ SECCIÓN 9.
 
 DE LOS CONSEJOS DE CUENCA
 
-ARTÍCULO
-
 ## art:2.2.3.1.9.1 — Del Consejo de Cuenca
 
 Es la instancia consultiva y representativa de todos los actores que viven y desarrollan actividades dentro de la cuenca hidrográfica.
@@ -16849,15 +15602,11 @@ PARÁGRAFO . La autoridad ambiental competente podrá apoyar los aspectos logís
 
 (Decreto 1640 de 2012, art. 48).
 
-ARTÍCULO
-
 ## art:2.2.3.1.9.2 — De la conformación
 
 Representantes de cada una de las personas jurídicas públicas y/o privadas asentadas y que desarrollen actividades en la cuenca, así como de las comunidades campesinas, e indígenas y negras, y asociaciones de usuarios, gremios, según el caso.
 
 (Decreto 1640 de 2012, art. 49).
-
-ARTÍCULO
 
 ## art:2.2.3.1.9.3 — De las funciones
 
@@ -16885,23 +15634,17 @@ Cuenca.
 
 (Decreto 1640 de 2012, art. 50).
 
-ARTÍCULO
-
 ## art:2.2.3.1.9.4 — Del período de los representantes ante el Consejo de Cuenca
 
 El periodo de los miembros de los Consejos de Cuenca será de cuatro (4) años, contados a partir de su instalación.
 
 (Decreto 1640 de 2012, art. 51).
 
-ARTÍCULO
-
 ## art:2.2.3.1.9.5 — De la secretaría
 
 Deberá ser ejercida por quien delegue el Consejo de Cuenca y se rotará conforme a lo dispuesto en su reglamento interno. Las funciones serán definidas en el reglamento interno del Consejo de Cuenca.
 
 (Decreto 1640 de 2012, art. 52).
-
-ARTÍCULO
 
 ## art:2.2.3.1.9.6 — De la participación ciudadana
 
@@ -16913,15 +15656,11 @@ SECCIÓN 10.
 
 PLANES DE MANEJO AMBIENTAL
 
-ARTÍCULO
-
 ## art:2.2.3.1.10.1 — Plan de Manejo Ambiental de Microcuencas
 
 Del objeto y la responsabilidad. Planificación y administración de los recursos naturales renovables de la microcuenca, mediante la ejecución de proyectos y actividades de preservación, restauración y uso sostenible de la microcuenca. La Autoridad Ambiental competente formulará el plan.
 
 (Decreto 1640 de 2012, art. 54).
-
-ARTÍCULO
 
 ## art:2.2.3.1.10.2 — De las microcuencas objeto de Plan de Manejo Ambiental
 
@@ -16931,15 +15670,11 @@ PARÁGRAFO . En los Planes de Manejo Ambiental de Microcuencas se deberá adelan
 
 (Decreto 1640 de 2012, art. 55).
 
-ARTÍCULO
-
 ## art:2.2.3.1.10.3 — De la escala cartográfica
 
 Los Planes de Manejo Ambiental de Microcuencas se elaborarán en escalas mayor o igual a 1: 10.000.
 
 (Decreto 1640 de 2012, art. 56).
-
-ARTÍCULO
 
 ## art:2.2.3.1.10.4 — De la selección y priorización
 
@@ -16960,8 +15695,6 @@ PARÁGRAFO 2. Una vez aprobado el Plan de Manejo Ambiental de la microcuenca el 
 PARÁGRAFO 3. No obstante lo definido en este artículo, las Autoridades Ambientales competentes impondrán las medidas de conservación, protección y uso sostenible de los recursos naturales a que haya lugar, en aquellas microcuencas que aún no han sido objeto de Plan de manejo Ambiental.
 
 (Decreto 1640 de 2012, art. 57).
-
-ARTÍCULO
 
 ## art:2.2.3.1.10.5 — De las fases
 
@@ -16985,8 +15718,6 @@ PARÁGRAFO 3. Durante el desarrollo de las fases del Plan de Manejo, la Autorida
 
 (Decreto 1640 de 2012, art. 58; Parágrafo 1 y 2 Modificados por el Decreto 50 de 2018, art. 3).
 
-ARTÍCULO
-
 ## art:2.2.3.1.10.6 — De la aprobación
 
 El Plan de Manejo Ambiental de la Microcuenca será aprobado, mediante resolución de la Autoridad Ambiental competente, dentro de los dos (2) meses siguientes a la terminación de la formulación del Plan e incorporará en su Plan de Acción los programas y proyectos a ejecutar de manera gradual.
@@ -16996,8 +15727,6 @@ Cuando una microcuenca sea compartida, y estando ella por fuera de un Plan de Or
 PARÁGRAFO . La(s) Autoridad(es) Ambiental(es) competente(s) reportará(n) al Ministerio de Ambiente y Desarrollo Sostenible, el avance en relación con la selección, priorización y formulación de los Planes de Manejo Ambiental de las microcuencas de su jurisdicción, para lo cual el Ministerio elaborará el formato y definirá la periodicidad para el respectivo reporte.
 
 (Decreto 1640 de 2012, art. 59).
-
-ARTÍCULO
 
 ## art:2.2.3.1.10.7 — De la Financiación
 
@@ -17013,8 +15742,6 @@ SECCIÓN 11
 
 PLAN DE MANEJO AMBIENTAL DE ACUÍFEROS
 
-ARTÍCULO
-
 ## art:2.2.3.1.11.1 — Del objeto y la responsabilidad
 
 Planificación y administración del agua subterránea, mediante la ejecución de proyectos y actividades de conservación, protección y uso sostenible del recurso. La autoridad ambiental competente formulará el plan.
@@ -17022,8 +15749,6 @@ Planificación y administración del agua subterránea, mediante la ejecución d
 PARÁGRAFO . En los Planes de Manejo Ambiental de Acuíferos se deberá desarrollar el mecanismo de consulta previa a las comunidades étnicas cuando a ello haya lugar, de acuerdo con los procedimientos establecidos para tal efecto.
 
 (Decreto 1640 de 2012, art. 61).
-
-ARTÍCULO
 
 ## art:2.2.3.1.11.2 — De la selección y priorización
 
@@ -17047,8 +15772,6 @@ PARÁGRAFO 3. Mesa Técnica de concertación. Cuando los límites de un acuífer
 
 (Decreto 1640 de 2012, art. 62).
 
-ARTÍCULO
-
 ## art:2.2.3.1.11.3 — De las fases
 
 Comprende las siguientes:
@@ -17069,8 +15792,6 @@ PARÁGRAFO 2. Durante el desarrollo de las fases del Plan de Manejo, la autorida
 
 (Decreto 1640 de 2012, art. 63).
 
-ARTÍCULO
-
 ## art:2.2.3.1.11.4 — De la aprobación
 
 El Plan de Manejo Ambiental del Acuífero será aprobado, mediante resolución por la(s) autoridad(es) ambiental(es) competente(s), dentro de los dos (2) meses siguientes a la terminación de la formulación del Plan e incorporará en su Plan de Acción los programas y proyectos a ejecutar de manera gradual.
@@ -17080,8 +15801,6 @@ Cuando el Acuífero sea compartido, y estando por fuera de un Plan de Ordenació
 PARÁGRAFO . Las autoridades ambientales competentes reportarán al Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam), la información correspondiente al componente Aguas Subterráneas del Sistema de Información de Recurso Hídrico (SIRH), y el avance en los procesos formulación e implementación de los Planes de Manejo de Acuíferos de su jurisdicción.
 
 (Decreto 1640 de 2012, art. 64).
-
-ARTÍCULO
 
 ## art:2.2.3.1.11.5 — De la Financiación
 
@@ -17096,8 +15815,6 @@ En desarrollo de lo dispuesto en el artículo 213 de la Ley 1450 de 2011, las in
 SECCIÓN 12.
 
 RÉGIMEN DE TRANSICIÓN
-
-ARTÍCULO
 
 ## art:2.2.3.1.12.1 — Respecto de los Planes de Ordenación y Manejo de Cuencas
 
@@ -17117,8 +15834,6 @@ SECCIÓN 13.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.3.1.13.1 — De las Sanciones
 
 El incumplimiento de lo dispuesto en el Plan de Ordenación y Manejo de la Cuenca Hidrográfica, en los Planes de Manejo Ambiental de las Microcuencas y en los Planes de Manejo Ambiental de Acuíferos, acarreará para los infractores, la imposición de las medidas preventivas y/o sancionatorias a que haya lugar de conformidad a lo establecido en el artículo 5 de la Ley 1333 de 2009 o la norma que lo modifique o sustituya.
@@ -17132,8 +15847,6 @@ USO Y APROVECHAMIENTO DEL AGUA
 SECCIÓN 1.
 
 DISPOSICIONES GENERALES
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.1 — Objeto
 
@@ -17159,8 +15872,6 @@ Para cumplir los objetivos establecidos por el artículo 2 del Decreto-Ley 2811 
 
 (Decreto 1541 de 1978, art. 1).
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.2 — Preservación, manejo y uso de las aguas
 
 La preservación y manejo de las aguas son de utilidad pública e interés social, el tenor de lo dispuesto por el artículo 1 del Decreto - Ley 2811 de 197 4:
@@ -17175,23 +15886,17 @@ SUBSECCIÓN 1
 
 PROGRAMA PARA EL USO EFICIENTE Y AHORRO DEL AGUA (PUEAA)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1.1 — Objeto y ámbito de aplicación
 
 El presente decreto tiene por objeto reglamentar la Ley 373 de 1997 en lo relacionado con el Programa para el Uso Eficiente y Ahorro de Agua y aplica a las Autoridades Ambientales, a los usuarios que soliciten una concesión de aguas y a las entidades territoriales responsables de implementar proyectos o lineamientos dirigidos al uso eficiente y ahorro del agua.
 
 (Decreto 1090 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1.2 — Uso eficiente y ahorro del agua (UEAA)
 
 Es toda acción que minimice el consumo de agua, reduzca el desperdicio u optimice la cantidad de agua a usar en un proyecto, obra o actividad, mediante la implementación de prácticas como el reúso, la recirculación, el uso de aguas lluvias, el control de pérdidas, la reconversión de tecnologías o cualquier otra práctica orientada al uso sostenible del agua.
 
 (Decreto 1090 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.1.3 — Programa para el uso eficiente y ahorro del agua (PUEAA)
 
@@ -17203,8 +15908,6 @@ PARÁGRAFO 2. Para las personas naturales que de acuerdo con los criterios técn
 
 (Decreto 1090 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1.4 — Uso eficiente y ahorro del agua en entidades territoriales y autoridades ambientales
 
 En desarrollo de lo dispuesto por el artículo 1 o de la Ley 373 de 1997, compete a las entidades territoriales incorporar en sus Planes de Desarrollo y de Ordenamiento Territorial, proyectos o lineamientos dirigidos al uso eficiente y ahorro del agua en el marco de la Política Nacional para la Gestión Integral del Recurso Hídrico, de los instrumentos de planificación ambiental de las autoridades ambientales o de los instrumentos para el manejo integral del recurso hídrico adoptados por las Autoridades Ambientales.
@@ -17213,23 +15916,17 @@ Las Autoridades Ambientales deben incluir en su Plan de Acción Cuatrienal, las 
 
 (Decreto 1090 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1.5 — Presentación del PUEAA
 
 Para efectos de lo dispuesto en los artículos 2.2.3.2.9.1 y 2.2.2.3.6.2 del presente decreto, la solicitud de concesión de aguas y la solicitud de presentación de licencia ambiental que lleve implícita la concesión de aguas deberán presentar ante la autoridad ambiental competente el Programa para el Uso Eficiente y Ahorro de Agua PUEAA.
 
 (Decreto 1090 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1.6 — Reporte de la información
 
 El reporte del resumen ejecutivo del que trata el artículo 3 de Ley 373 de 1997, corresponde a la información suministrada por la autoridad ambiental en el sistema de información del recurso hídrico (SIRH).
 
 (Decreto 1090 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.1.7 — 1.7
 
@@ -17247,8 +15944,6 @@ SECCIÓN 2.
 
 DEL DOMINIO DE LAS AGUAS, CAUCES Y RIBERAS
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1 — Clasificación de las aguas
 
 En conformidad con lo establecido por los artículos 80 y 82 del Decreto - Ley 2811 de 1974, las aguas se dividen en dos categorías: aguas de dominio público y aguas de dominio privado.
@@ -17256,8 +15951,6 @@ En conformidad con lo establecido por los artículos 80 y 82 del Decreto - Ley 2
 Para efectos de interpretación, cuando se hable de aguas, sin otra calificación, se deberá entender las de uso público.
 
 (Decreto 1541 de 1978, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.2 — Aguas de uso público
 
@@ -17281,15 +15974,11 @@ h) Las demás aguas, en todos sus estados y forman, a que se refiere el artícul
 
 (Decreto 1541 de 1978, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.3 — Aguas de dominio privado
 
 Son aguas de propiedad privada, siempre que no se dejen de usar por el dueño de la heredad por tres (3) años continuos, aquellas que brotan naturalmente y que desaparecen por infiltración o evaporación dentro de una misma heredad.
 
 (Decreto 1541 de 1978, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.4 — Dominio sobre las aguas de uso público
 
@@ -17297,23 +15986,17 @@ El dominio que ejerce la Nación sobre las aguas de uso público, conforme al ar
 
 (Decreto 1541 de 1978, art. 7).
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.5 — Usos
 
 No se puede derivar aguas fuentes o depósitos de agua de dominio público, ni usarlas para ningún objeto, sino con arreglo a las disposiciones del Decreto - Ley 2811 de 1974 y del presente reglamento.
 
 (Decreto 1541 de 1978, art. 8).
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.6 — Prescripción
 
 El dominio sobre las aguas de uso público no prescribe en ningún caso.
 
 (Decreto 1541 de 1978, art. 9).
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.7 — Objeto ilícito y nulidad
 
@@ -17329,15 +16012,11 @@ SECCIÓN 3
 
 DOMINIO DE LOS CAUCES Y RIBERAS
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.1 — Cauce natural
 
 Se entiende por cauce natural la faja de terreno que ocupan las aguas de una corriente al alcanzar sus niveles máximos por efecto de las crecientes ordinarias; y por lecho de los depósitos naturales de aguas, el suelo que ocupan hasta donde llegan los niveles ordinarios por efectos de lluvias o deshielo.
 
 (Decreto 1541 de 1978, art. 11).
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.2 — Playa fluvial
 
@@ -17347,8 +16026,6 @@ Playa lacustre es la superficie de terreno comprendida entre los más bajos y lo
 
 (Decreto 1541 de 1978, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.3 — Líneas o niveles ordinarios
 
 Para los efectos de la aplicación del artículo anterior, se entiende por líneas o niveles ordinarios las cotas promedio naturales de los últimos quince (15) años, tanto para las más altas como para las más bajas.
@@ -17356,8 +16033,6 @@ Para los efectos de la aplicación del artículo anterior, se entiende por líne
 Para determinar estos promedios se tendrá en cuenta los datos que suministren las entidades que dispongan de ellos y en los casos en que la información sea mínima o inexistentes se acudirá a la que puedan dar los particulares.
 
 (Decreto 1541 de 1978, art. 13).
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.4 — Titulación de tierras
 
@@ -17381,23 +16056,17 @@ PARÁGRAFO 3. El Ministerio de Ambiente y Desarrollo Sostenible, en ejercicio de
 
 (Decreto 1866 de 1994, art. 3).
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.5 — Del dominio
 
 Lo relacionado con la variación de un río y formación de nuevas islas se regirá por lo dispuesto en el Título V, Capítulo II del Libro 11 del Código Civil, teniendo en cuenta lo dispuesto por el artículo 83, letra d) del Decreto - Ley 2811 de 1974.
 
 (Decreto 1541 de 1978, art. 15).
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.6 — Baldíos
 
 La adjudicación de baldíos excluye la de las aguas que contengan o corran por ellos, las cuales continúan perteneciendo al dominio público.
 
 (Decreto 1541 de 1978, art. 16).
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.7 — Dominio privado y función social
 
@@ -17411,13 +16080,63 @@ SECCION 3 A
 
 DEL ACOTAMIENTO DE LAS RONDAS HIDRICAS
 
-## art:2.2.3.2.3 — A.1
+## art:2.2.3.2.3a.1 — Objeto y ámbito de aplicación
 
-Objeto y ámbito de aplicación. El presente decreto tiene por objeto establecer los criterios técnicos con base en los cuales las Autoridades Ambientales competentes realizarán los estudios para el acotamiento de las rondas hídricas en el área de su jurisdicción.
+El presente decreto tiene por objeto establecer los criterios técnicos con base en los cuales las Autoridades Ambientales competentes realizarán los estudios para el acotamiento de las rondas hídricas en el área de su jurisdicción.
 
 La ronda hídrica se constituye en una norma de superior jerarquía y determinante ambiental.
 
 (Decreto 2245 de 2017, art. 1)
+
+## art:2.2.3.2.3a.2 — Definiciones
+
+Para efectos de la aplicación e interpretación del presente decreto, se tendrán en cuenta las siguientes definiciones:
+
+1. Acotamiento: Proceso mediante el cual la Autoridad Ambiental competente define el límite físico de la ronda hídrica de los cuerpos de agua en su jurisdicción.
+
+2. Cauce permanente: Corresponde a la faja de terreno que ocupan los niveles máximos ordinarios de un cuerpo de agua sin producir desbordamiento de sus márgenes naturales.
+
+3. Línea de mareas máximas: Corresponde a la elevación máxima a la que llega la influencia del mar en los cuerpos de agua debido a la marea alta o pleamar y la marea viva o sicigial.
+
+4. Ronda Hídrica: Comprende la faja paralela a la línea de mareas máximas o a la del cauce permanente de ríos y lagos, hasta de treinta metros de ancho.
+
+Así mismo hará parte de la ronda hídrica el área de protección o conservación aferente. Tanto para la faja paralela como para el área de protección o conservación aferente se establecerán directrices de manejo ambiental, conforme a lo dispuesto en la "Guía Técnica de Criterios para el Acotamiento de las Rondas Hídricas en Colombia".
+
+(Decreto 2245 de 2017, art. 1)
+
+## art:2.2.3.2.3a.3 — De los criterios técnicos
+
+La ronda hídrica se acotará desde el punto de vista funcional y su límite se traza a partir de la línea de mareas máximas o a la del cauce permanente de ríos y lagos, considerando los siguientes criterios técnicos:
+
+1. Criterios para la delimitación de la línea de mareas máximas y la del cauce permanente:
+
+a. La franja de terreno ocupada por la línea de mareas máximas deberá considerar la elevación máxima producida por las mareas altas o pleamar y la marea viva o sicigial. La misma será la que reporte la Dirección General Marítima y Portuaria de acuerdo con lo establecido en el Decreto-Ley 2324 de 1984 o quien haga sus veces.
+
+b. El cauce permanente se delimitará desde un análisis de las formas de terreno, teniendo en cuenta que éste corresponde a la geoforma sobre la cual fluye o se acumulan el agua y sedimentos en condiciones de flujo de caudales o niveles sin que se llegue a producir desbordamiento de sus márgenes naturales.
+
+2. Criterios para la delimitación física de la ronda hídrica: El límite físico será el resultado de la envolvente que genera la superposición de mínimo los siguientes criterios: geomorfológico, hidrológico y ecosistémico.
+
+a. Criterio geomorfológico: deberá considerar aspectos morfoestructurales, morfogenéticos y morfodinámicos. Las unidades morfológicas mínimas por considerar deben ser: llanura inundable moderna, terraza reciente, escarpes, depósitos fuera del cauce permanente, islas (de llanura o de terraza), cauces secundarios, meandros abandonados, sistemas lénticos y aquellas porciones de la llanura inundable antropizadas. La estructura lateral y longitudinal del corredor aluvial debe tenerse en cuenta mediante la inclusión de indicadores morfológicos.
+
+b. Criterio hidrológico: deberá considerar la zona de terreno ocupada por el cuerpo de agua durante los eventos de inundaciones más frecuentes, de acuerdo con la variabilidad intra-anual e inter-anual del régimen hidrológico, considerando el grado de alteración morfológica del cuerpo de agua y su conexión con la llanura inundable.
+
+c. Criterio ecosistémico: deberá considerar la altura relativa de la vegetación riparia y la conectividad del corredor biológico, lo cual determina la eficacia de su estructura para el tránsito y dispersión de las especies a lo largo del mismo.
+
+En el proceso de implementación de los criterios contenidos en el presente artículo, las autoridades competentes evaluarán las situaciones particulares y concretas que hayan quedado en firme y adoptarán las decisiones a que haya lugar.
+
+PARÁGRAFO : El desarrollo de los criterios técnicos de que trata el presente artículo, será establecido en la "Guía Técnica de Criterios para el Acotamiento de las Rondas Hídricas en Colombia" que expida el Ministerio de Ambiente y Desarrollo Sostenible.
+
+(Decreto 2245 de 2017, art. 1)
+
+## art:2.2.3.2.3a.4 — A.4
+
+Priorización para el acotamiento de rondas hídricas.Las autoridades ambientales competentes deberán definir el orden de prioridades para el inicio del acotamiento de las rondas hídricas en su jurisdicción, teniendo en cuenta para el efecto lo dispuesto en la "Guía Técnica de Criterios para el Acotamiento de las Rondas Hídricas en Colombia
+
+(Decreto 2245 de 2017, art. 1)
+
+SECCIÓN 4
+
+EXTINCIÓN DEL DOMINIO PRIVADO DE LAS AGUAS
 
 ## art:2.2.3.2.4.1 — Aguas privadas
 
@@ -17425,15 +16144,11 @@ De acuerdo con los artículos 81 del Decreto - Ley 2811 de 1974 y 677 del Códig
 
 (Decreto 1541 de 1978, art. 18).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.2 — Acto traslaticio de dominio
 
 Siendo inalienable e imprescriptible el dominio sobre las aguas de uso público, éstas no perderán su carácter cuando por compra o cualquier otro acto traslaticio de dominio los predios en los cuales nacían y morían dichas aguas pasen a ser de un mismo dueño.
 
 (Decreto 1541 de 1978, art. 19).
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.3 — Audiencia declaración de extinción del dominio privado de aguas
 
@@ -17443,15 +16158,11 @@ La Autoridad Ambiental competente fijará audiencia inclusive cuando actúe de o
 
 (Decreto 1541 de 1978, art. 20).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.4 — Solicitud de pruebas
 
 En la audiencia a que se refiere el Artículo precedente, las partes deberán solicitar todas las pruebas, las cuales serán decretadas durante la misma cuando sean pertinentes y practicadas en un término que no excederá de treinta (30) días, que fijará la Autoridad Ambiental competente en la misma audiencia. Será de cargo del dueño presunto de las aguas la prueba de haberlas usado durante los tres (3) años anteriores.
 
 (Decreto 1541 de 1978, art. 21).
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.5 — Visita ocular
 
@@ -17459,15 +16170,11 @@ Se decretará la práctica de una visita ocular para verificar si existen señal
 
 (Decreto 1541 de 1978, art. 22).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.6 — Declaración extinción de dominio
 
 La declaratoria de extinción se hará previo el procedimiento establecido en los artículos precedentes, y contra ella proceden los recursos previstos por la Ley 1437 de 2011 o la norma que la modifique o sustituya Al quedar en firme la providencia que declare la extinción, se podrá iniciar el trámite de solicitudes de concesión para el aprovechamiento de tales aguas.
 
 (Decreto 1541 de 1978, art. 23).
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.7 — Publicación
 
@@ -17475,23 +16182,17 @@ La parte resolutiva de la providencia en la cual se declara la extinción del do
 
 (Decreto 1541 de 1978, art. 24).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.8 — Constancia de la publicación
 
 En todo expediente que se tramite para obtener el aprovechamiento de las aguas declaradas de dominio público, debe reposar constancia de la publicación de la providencia que declara la extinción del dominio privado.
 
 (Decreto 1541 de 1978, art. 25).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.9 — Término para la extinción del dominio
 
 El término de tres (3) años que prescribe el artículo 83 del Decreto - Ley 2811 de 1974, para la extinción del dominio sobre aguas privadas, sólo puede contarse a partir del 27 de enero de 1975.
 
 (Decreto 1541 de 1978, art. 26).
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.10 — Solicitud de declaración extinción de dominio por particulares
 
@@ -17502,8 +16203,6 @@ Los particulares que soliciten, la declaración de extinción del dominio de agu
 SECCIÓN 5
 
 DE LOS MODOS DE ADQUIRIR EL DERECHO AL USO DE LAS AGUAS Y SUS CAUCES
-
-ARTÍCULO
 
 ## art:2.2.3.2.5.1 — Disposiciones generales
 
@@ -17519,23 +16218,17 @@ d. Por asociación.
 
 (Decreto 1541 de 1978, art. 28).
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.2 — Derecho al uso de las aguas
 
 Toda persona puede usar las aguas sin autorización en los casos previstos los artículos 2.2.3.2.6.1 y 2.2.3.2.6.2 de este Decreto y tiene derecho a obtener concesión de uso de aguas públicas en los casos establecidos en el artículo 2.2.3.2. 7 .1 de este Decreto.
 
 (Decreto 1541 de 1978, art. 29).
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.3 — Concesión para el uso de las aguas
 
 Toda persona natural o jurídica, pública o privada, requiere concesión o permiso de la Autoridad Ambiental competente para hacer uso de las aguas públicas o sus cauces, salvo en los casos previstos en los artículos 2.2.3.2.6.1 y 2.2.3.2.6.2 de este Decreto.
 
 (Decreto 1541 de 1978, art. 30).
-
-ARTÍCULO
 
 ## art:2.2.3.2.5.4 — Prohibición de imposición de gravámenes
 
@@ -17547,8 +16240,6 @@ SECCIÓN 6
 
 USOS POR MINISTERIO DE LA LEY
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1 — Uso por ministerio de ley
 
 Todos los habitantes pueden utilizar las aguas de uso público mientras discurran por cauces naturales, para beber, bañarse, abrevar animales, lavar ropas y cualesquiera otros objetos similares, de acuerdo con las normas sanitarias sobre la materia y con las de protección de los recursos naturales renovables.
@@ -17557,15 +16248,11 @@ Este aprovechamiento común deber hacerse dentro de las restricciones que establ
 
 (Decreto 1541 de 1978, art. 32).
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.2 — Uso de aguas que discurren por un cauce artificial
 
 Cuando se trate de aguas que discurren por un cauce artificial, también es permitido utilizarlos a todos los habitantes para usos domésticos o de abrevadero, dentro de las mismas condiciones a que se refiere el Artículo anterior, y siempre que el uso a que se destinen las aguas no exija que se conserven en estado de pureza, ni se ocasionen daños al canal o acequia, o se imposibilite o estorbe el aprovechamiento del concesionario de las aguas.
 
 (Decreto 1541 de 1978, art. 33).
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.3 — Uso doméstico de aguas de dominio privado
 
@@ -17579,8 +16266,6 @@ c. Que previamente se haya acordado con el dueño del fundo el camino y las hora
 
 (Decreto 1541 de 1978, art. 34).
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.4 — Generalidad y gratuidad
 
 Los usos de que tratan los artículos precedentes, no confieren exclusividad y son gratuitos.
@@ -17590,8 +16275,6 @@ Los usos de que tratan los artículos precedentes, no confieren exclusividad y s
 SECCIÓN 7
 
 CONCESIONES
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.1 — 7.1
 
@@ -17631,8 +16314,6 @@ p. Otros usos similares.
 
 (Decreto 1541 de 1978, art. 36).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.2 — Disponibilidad del recurso y caudal concedido
 
 El suministro de aguas para satisfacer concesiones está sujeto a la disponibilidad del recurso, por tanto, el Estado no es responsable cuando por causas naturales no pueda garantizar el caudal concedido. La precedencia cronológica en las concesiones no otorga prioridad y en casos de escasez todas serán abastecidas a prorrata o por turnos, conforme el artículo 2.2.3.2.13.16 de este Decreto.
@@ -17645,15 +16326,11 @@ Dichas solicitudes de concesiones de aguas deben estar destinadas a los sistemas
 
 (Parágrafo Transitorio adicionado por el Art. 1 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.3 — Acto administrativo y fijación del término de las concesiones
 
 El término de las concesiones será fijado en la resolución que las otorgue, teniendo en cuenta la naturaleza y duración de la actividad, para cuyo ejercicio se otorga, de tal suerte que su utilización resulte económicamente rentable y socialmente benéfica.
 
 (Decreto 1541 de 1978, art. 38).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.4 — 7.4
 
@@ -17661,15 +16338,11 @@ Término de las concesiones Las concesiones a que se refieren los artículos ant
 
 (Decreto 1541 de 1978, art. 39).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.5 — Prórroga de las concesiones
 
 Las concesiones podrán ser prorrogadas, salvo, por razones de conveniencia pública.
 
 (Decreto 1541 de 1978, art. 40).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.6 — Orden de prioridades
 
@@ -17691,8 +16364,6 @@ h. Usos recreativos comunitarios, e i. Usos recreativos individuales.
 
 (Decreto 1541 de 1978, art. 41).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.7 — Variación del orden de prelaciones
 
 La Autoridad Ambiental competente podrá variar el orden de prelaciones establecido en el artículo anterior, atendiendo a las necesidades económico - sociales de la región, y de acuerdo con los siguientes factores:
@@ -17709,8 +16380,6 @@ e. La necesidad de mantener reservas suficientes del recurso hídrico.
 
 (Decreto 1541 de 1978, art. 42).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.8 — Prioridad del uso doméstico
 
 El uso doméstico tendrá siempre prioridad sobre los demás, los usos colectivos sobre los individuales y los de los habitantes de una región sobre los de fuera de ella.
@@ -17721,15 +16390,11 @@ SECCIÓN 8
 
 CARACTERÍSTICAS Y CONDICIONES DE LAS CONCESIONES
 
-ARTÍCULO
-
 ## art:2.2.3.2.8.1 — Facultad de uso
 
 El derecho de aprovechamiento de las aguas de uso público no confiere a su titular sino la facultad de usarlas, de conformidad con el Decreto-Ley 2811 de 1974, el presente capítulo y las resoluciones que otorguen la concesión.
 
 (Decreto 1541 de 1978, art. 44).
-
-ARTÍCULO
 
 ## art:2.2.3.2.8.2 — Concesiones y reglamentación de corrientes
 
@@ -17737,15 +16402,11 @@ Las concesiones otorgadas no serán obstáculo para que la Autoridad Ambiental c
 
 (Decreto 1541 de 1978, art. 45).
 
-ARTÍCULO
-
 ## art:2.2.3.2.8.3 — Negación de otorgamiento de concesión por utilidad pública o interés social
 
 Cuando por causa de utilidad pública o interés social la Autoridad Ambiental competente estime conveniente negar una concesión, está facultada para hacerlo mediante providencia debidamente fundamentada y sujeta a los recursos de ley, de acuerdo con lo previsto por la Ley 1437 de 2011 o la norma que la modifique o sustituya
 
 (Decreto 1541 de 1978, art. 46).
-
-ARTÍCULO
 
 ## art:2.2.3.2.8.4 — Término para solicitar prórroga
 
@@ -17759,15 +16420,11 @@ Los prestadores de servicios públicos domiciliarios de acueducto, a quienes se 
 
 (Parágrafo Adicionado por el Art. 2 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.3.2.8.5 — Obras de captación
 
 En todo caso las obras de captación de aguas deberán estar provistas de los elementos de control necesarios que permitan conocer en cualquier momento la cantidad de agua derivada por la bocatoma, de acuerdo con lo dispuesto en el artículo 121 del Decreto - Ley 2811 de 1974.
 
 (Decreto 1541 de 1978, art. 48).
-
-ARTÍCULO
 
 ## art:2.2.3.2.8.6 — Inalterabilidad de las condiciones impuestas
 
@@ -17775,15 +16432,11 @@ Toda concesión implica para el beneficiario, como condición esencial para su s
 
 (Decreto 1541 de 1978, art. 49).
 
-ARTÍCULO
-
 ## art:2.2.3.2.8.7 — Traspaso de concesión
 
 Para que el concesionario pueda traspasar, total o parcialmente, la concesión necesita autorización previa. La Autoridad Ambiental competente podrá negarla cuando por causas de utilidad pública o interés social lo estime conveniente, mediante providencia motivada.
 
 (Decreto 1541 de 1978, art. 50).
-
-ARTÍCULO
 
 ## art:2.2.3.2.8.8 — Tradición de predio y término para solicitar traspaso
 
@@ -17791,15 +16444,11 @@ En caso de que se produzca la tradición del predio beneficiario con una concesi
 
 (Decreto 1541 de 1978, art. 51).
 
-ARTÍCULO
-
 ## art:2.2.3.2.8.9 — Traspaso y facultades de la Autoridad Ambiental
 
 La Autoridad Ambiental competente está facultada para autorizar el traspaso de una concesión, conservando enteramente las condiciones originales o modificándolas.
 
 (Decreto 1541 de 1978, art. 52).
-
-ARTÍCULO
 
 ## art:2.2.3.2.8.10 — Concesión de aguas para prestación de un servicio público
 
@@ -17810,8 +16459,6 @@ El beneficiario de una concesión de aguas para prestación de un servicio públ
 SECCIÓN 9
 
 PROCEDIMIENTOS PARA OTORGAR CONCESIONES
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.1 — Solicitud de concesión
 
@@ -17841,8 +16488,6 @@ k). Los demás datos que la Autoridad Ambiental competente y el peticionario con
 
 (Decreto 1541 de 1978, art. 54).
 
-ARTÍCULO
-
 ## art:2.2.3.2.9.2 — Anexos a la solicitud
 
 Con la solicitud se debe allegar:
@@ -17855,15 +16500,11 @@ c. Certificado actualizado expedido por la Oficina de Registro de Instrumentos P
 
 (Decreto 1541 de 1978, art. 55).
 
-ARTÍCULO
-
 ## art:2.2.3.2.9.3 — Solicitud de práctica de visita ocular
 
 Presentada la solicitud, se ordenará la práctica de una visita ocular a costa del interesado. Esta diligencia se practicará con la intervención de funcionarios idóneos en las disciplinas relacionadas con el objeto de la visita.
 
 (Decreto 1541 de 1978, art. 56).
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.4 — Fijación de aviso
 
@@ -17872,8 +16513,6 @@ Por lo menos con diez (10) días de anticipación a la práctica de la visita oc
 Para mayor información, en aquellos. lugares donde existan facilidades de transmisión radial, la Autoridad Ambiental competente podrá a costa del peticionario, ordenar un comunicado con los datos a que se refiere el inciso anterior, utilizando tales medios.
 
 (Decreto 1541 de 1978, art. 57)
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.5 — Visita
 
@@ -17897,8 +16536,6 @@ h. Los demás que en cada caso la Autoridad Ambiental competente estime convenie
 
 (Decreto 1541 de 1978, art. 58).
 
-ARTÍCULO
-
 ## art:2.2.3.2.9.6 — Solicitudes concesión de aguas para prestar servicios públicos
 
 En las solicitudes para usar aguas para prestar servicios públicos deberán indicarse todos los detalles de las obras, la extensión y el número de predios o de habitantes que se proyecta beneficiar, el plazo dentro del cual se dará al servicio y la reglamentación del mismo.
@@ -17908,8 +16545,6 @@ En las solicitudes para usar aguas para prestar servicios públicos deberán ind
 PARÁGRAFO TRANSITORIO. Mientras se mantenga la declaratoria de la emergencia sanitaria por causa del coronavirus COVID-19, por parte del Ministerio de Salud y Protección Social, los términos previstos para el trámite de las concesiones de agua superficiales a que se refiere la presente Sección 9, se reducirán a una tercera parte.
 
 (Parágrafo transitorio Adicionado por el Art. 3 del Decreto 465 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.7 — Oposición
 
@@ -17921,15 +16556,11 @@ La oposición se decidirá conjuntamente en la resolución que otorgue o niegue 
 
 (Decreto 1541 de 1978, art. 60).
 
-ARTÍCULO
-
 ## art:2.2.3.2.9.8 — Término para Decidir
 
 Cumplidos los trámites establecidos en los artículos anteriores, dentro de los quince (15) días siguientes a la práctica de la visita ocular o del vencimiento del término para la prueba, si lo hubiere fijado, la Autoridad Ambiental competente decidirá mediante providencia motivada si es o no procedente otorgar la concesión solicitada.
 
 (Decreto 1541 de 1978, art. 61).
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.9 — Acto administrativo
 
@@ -17961,15 +16592,11 @@ l. Causales para la imposición de sanciones y para la declaratoria de caducidad
 
 (Decreto 1541 de 1978, art. 62).
 
-ARTÍCULO
-
 ## art:2.2.3.2.9.10 — Publicación
 
 El encabezamiento y la parte resolutiva de la resolución que otorga una concesión de aguas será publicado en el boletín de que trata el artículo 71 de la ley 99 de 1993.
 
 (Decreto 1541 de 1978, art. 63).
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.11 — Construcción de las obras hidráulicas
 
@@ -17977,15 +16604,11 @@ Para que se pueda hacer uso de una concesión de aguas se requiere que las obras
 
 (Decreto 1541 de 1978, art. 64).
 
-ARTÍCULO
-
 ## art:2.2.3.2.9.12 — Concesión de aguas para diferentes dueños
 
 Cuando una derivación vaya a beneficiar predios de distintos dueños, la solicitud concesión deberá formularse por todos los interesados.
 
 (Decreto 1541 de 1978, art. 65).
-
-ARTÍCULO
 
 ## art:2.2.3.2.9.13 — Comunidad entre beneficiarios
 
@@ -17997,15 +16620,11 @@ SECCIÓN 10
 
 CARACTERÍSTICAS ESPECIALES DE ALGUNAS CONCESIONES
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.1 — Acueducto para uso doméstico
 
 Las concesiones que la Autoridad Ambiental competente otorgue con destino a la prestación de servicios de acueducto, se sujetarán, además de lo prescrito en las secciones 7, 8 y 9 del presente capítulo, a las condiciones y demás requisitos especiales que fije el Ministerio de Salud y Protección Social y lo previsto en el régimen de prestación del servicio público domiciliario de acueducto.
 
 (Decreto 1541 de 1978, art. 67).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.2 — 0.2
 
@@ -18015,15 +16634,11 @@ La Autoridad Ambiental competente podrá imponer además, como condición de la 
 
 (Decreto 1541 de 1978, art. 68).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.3 — 0.3
 
 Uso Industrial Se entiende por uso industrial el empleo de aguas en procesos manufactureros o en los de transformación y en sus conexos o complementarios.
 
 (Decreto 1541 de 1978, art. 69).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.4 — Anexo solicitud concesión uso industrial
 
@@ -18031,23 +16646,17 @@ Las solicitudes de concesión para uso industrial, además de lo dispuesto en la
 
 (Decreto 1541 de 1978, art. 70).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.5 — Falta de construcción y puesta en marcha del sistema de tratamiento de aguas residuales
 
 La Autoridad Ambiental competente podrá suspender temporalmente o declarar la caducidad de una concesión de aprovechamiento de aguas para uso industrial, si vencido el plazo señalado no se ha construido y puesto en servicio el sistema de tratamiento de aguas residuales para verterlas en las condiciones y calidades exigidas en la providencia que otorga el permiso de vertimiento.
 
 (Decreto 1541 de 1978, art. 71).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.6 — Refrigeración de maquinarias
 
 En las solicitudes para aprovechamiento de agua para refrigeración de maquinarias, la solicitud deberá contener, además el dato exacto de la cantidad de agua que se necesita para dicho fin y la memoria descriptiva de las operaciones practicadas para determinar el caudal del río o de la corriente así como de las operaciones de lavado comprendida la periodicidad, el lugar y el sitio donde se produzca el vertimiento de las aguas servidas.
 
 (Decreto 1541 de 1978, art. 72).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.7 — Uso energético
 
@@ -18061,8 +16670,6 @@ c. Generación térmica y nuclear
 
 (Decreto 1541 de 1978, art. 73).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.8 — Requisitos adicionales en uso energético
 
 Las solicitudes de concesión de aguas para los usos previstos en el artículo anterior, además de lo establecido en las secciones 7, 8 y 9 del presente capítulo, deberán reunir los siguientes requisitos:
@@ -18073,15 +16680,11 @@ b. Especificar la potencia y la generación anual estimada;
 
 (Decreto 1541 de 1978, art. 74).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.9 — Ampliaciones de fuerza hidráulica o de plazo
 
 Para obtener ampliaciones de fuerza hidráulica o de plazo se deberá presentar solicitud, en la cual se deberá expresar la mayor cantidad de fuerza que se pretende desarrollar o el tiempo por el cual se pide la ampliación del plazo. Con la respectiva solicitud se presentarán los documentos que acrediten legalmente la existencia de la concesión.
 
 (Decreto 1541 de 1978, art. 75).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.10 — Coexistencia del uso energético del agua con otros usos
 
@@ -18089,15 +16692,11 @@ La concesión del uso de aguas para los fines previstos en este Decreto, no impi
 
 (Decreto 1541 de 1978, art. 76).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.11 — Uso energético y prestación del servicio público de distribución y suministro de electricidad
 
 La concesión de aguas para uso energético no envuelve la de prestación del servicio público de distribución y suministro de electricidad, la cual se tramitará separadamente ante la autoridad competente, de acuerdo con la legislación vigente sobre la materia.
 
 (Decreto 1541 de 1978, art. 77).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.12 — Usos mineros y petroleros
 
@@ -18105,15 +16704,11 @@ Las solicitudes de concesión de agua para esta clase de usos deberán acompaña
 
 (Decreto 1541 de 1978, art. 78).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.13 — Obligaciones adicionales
 
 Los concesionarios de aguas para uso minero y petrolero, además de sujetarse a lo dispuesto en las secciones 7, 8 y 9 de este capítulo, deberán cumplir las obligaciones establecidas por los Artículos 146 y 147 del Decreto- Ley 2811 de 1974.
 
 (Decreto 1541 de 1978, art. 79).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.14 — Concesiones de aguas para uso en mineroductos y otras autorizaciones
 
@@ -18121,15 +16716,11 @@ Las concesiones de aguas para uso en mineroductos deben gestionarse ante la Auto
 
 (Decreto 1541 de 1978, art. 80).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.15 — Explotación petrolífera
 
 Para el uso de aguas para explotación petrolífera, la Autoridad Ambiental competente otorgará concesión conforme a las secciones 7, 8 y 9 del presente capítulo.
 
 (Decreto 1541 de 1978, art. 81).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.16 — Inyecciones para recuperación secundaria de petróleo o gas natural
 
@@ -18141,15 +16732,11 @@ Los usos de agua para exploración minera y petrolera estarán igualmente condic
 
 (Decreto 1541 de 1978, art. 82).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.17 — Flotación de maderas
 
 La utilización de las aguas para el transporte de madera por flotación requiere concesión de la Autoridad Ambiental competente la cual se tramitará conforme a las secciones 7, 8 y 9 de este capítulo y se otorgará a los titulares de concesiones de aprovechamiento forestal. En la resolución que otorga la concesión se determinarán los sectores, las épocas y los volúmenes flotables y las condiciones para no perturbar otros usos de las aguas o los derechos de otros concesionarios de aguas.
 
 (Decreto 1541 de 1978, art. 83).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.18 — Balsas de flotación de maderas
 
@@ -18157,15 +16744,11 @@ La Autoridad Ambiental competente en coordinación con el Ministerio de Transpor
 
 (Decreto 1541 de 1978, art. 84).
 
-ARTÍCULO
-
 ## art:2.2.3.2.10.19 — .19
 
 Naves fluviales o lacustres que transportan sustancias capaces de producir deterioro ambiental y otorgamiento de licencias de transporte fluvial o lacustre de petróleo o sustancias tóxicas. Para determinar los lugares, la forma de lavado, las condiciones de operación de las naves fluviales o lacustres que transportan sustancias capaces de producir deterioro ambiental, así como para el otorgamiento de licencias de transporte fluvial o lacustre de petróleo o sustancias tóxicas, el Ministerio de Transporte, tendrá en cuenta, de acuerdo con lo previsto por el artículo 39 del Decreto-ley 2811 de 1974, las regulaciones que al efecto establezca el Ministerio de Ambiente y Desarrollo Sostenible y exigirá su cumplimiento por parte de quienes realicen estas actividades.
 
 (Decreto 1541 de 1978, art. 85).
-
-ARTÍCULO
 
 ## art:2.2.3.2.10.20 — Prevención de la contaminación derivada de la operación o lavado de las naves
 
@@ -18177,15 +16760,11 @@ SECCIÓN 11.
 
 ESTUDIOS DE FACTIBILIDAD SOBRE APROVECHAMIENTO DE AGUAS PARA PROYECTOS DE RIEGO
 
-ARTÍCULO
-
 ## art:2.2.3.2.11.1 — Estudios de factibilidad sobre aprovechamiento de aguas con destino a la formulación de proyectos de riego
 
 La Autoridad Ambiental competente podrá otorgar permisos especiales hasta por el término de un año, para la realización de estudios de factibilidad sobre aprovechamiento de aguas con destino a la formulación de proyectos de riego a nivel de finca o grupos de fincas, cuando el costo de tales estudios y de las obras civiles correspondientes vayan a ser financiados con recursos del Banco de la República en los términos de la Resolución número 28 de 1981 expedida por la Junta Monetaria, o de las disposiciones que se expidan con igual finalidad.
 
 (Decreto 2858 de 1981, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.3.2.11.2 — Solicitud
 
@@ -18203,8 +16782,6 @@ La solicitud será suscrita por el interesado o interesados, junto con la cual d
 
 (Decreto 2858 de 1981, art. 2).
 
-ARTÍCULO
-
 ## art:2.2.3.2.11.3 — Visita e informe
 
 Dentro de los tres días siguientes al de la fecha de recepción de la solicitud, la Autoridad Ambiental competente enviará un funcionario que se encargue de visitar la finca o fincas, para determinar si de acuerdo con la disponibilidad de aguas, sería factible otorgar la concesión requerida, una vez aprobado el crédito a favor del interesado o interesados para la construcción de las obras, y siempre que se cumplan las exigencias legales y reglamentarias que requiere tal tipo de aprovechamiento. El funcionario entregará su informe dentro de los diez días siguientes al de la fecha de la visita, señalando en él la situación general del predio y las condiciones de los recursos hídricos aprovechables para los fines solicitados.
@@ -18213,15 +16790,11 @@ Con base en el informe, la Autoridad Ambiental competente expedirá el correspon
 
 (Decreto 2858 de 1981, art. 3).
 
-ARTÍCULO
-
 ## art:2.2.3.2.11.4 — Prioridad de los titulares del permiso
 
 Los titulares del permiso tendrán la primera opción sobre otros solicitantes para la concesión de aguas, sin perjuicio de las tres primeras prioridades de uso establecidas en el presente decreto y siempre que se les otorgue el financiamiento para elaboración de estudios de factibilidad del proyecto de riego y cumplan lo dispuesto en el siguiente artículo.
 
 (Decreto 2858 de 1981, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.3.2.11.5 — Solicitud de concesión de aguas
 
@@ -18233,8 +16806,6 @@ Antes del vencimiento del permiso de estudio, su titular deberá presentar ante 
 
 (Decreto 2858 de 1981, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.2.11.6 — Término y vigencia de la concesión
 
 Las concesiones de agua en los términos del presente decreto podrán ser otorgadas hasta por veinte años, su vigencia está condicionada al otorgamiento del crédito para financiar las obras de infraestructura física.
@@ -18244,8 +16815,6 @@ Las concesiones de agua en los términos del presente decreto podrán ser otorga
 SECCIÓN 12
 
 OCUPACIÓN DE PLAYAS, CAUCES Y LECHOS
-
-ARTÍCULO
 
 ## art:2.2.3.2.12.1 — 2.1
 
@@ -18257,8 +16826,6 @@ Cuando el Ministerio Transporte deba realizar operaciones de dragado o construir
 
 (Decreto 1541 de 1978, art. 104).
 
-ARTÍCULO
-
 ## art:2.2.3.2.12.2 — Servicios de turismo, recreación o deporte
 
 El establecimiento de servicios de turismo, recreación o deporte en corrientes, lagos y demás depósitos de aguas del dominio público requieren concesión o asociación en los términos que establezca la Autoridad Ambiental competente.
@@ -18266,8 +16833,6 @@ El establecimiento de servicios de turismo, recreación o deporte en corrientes,
 La concesión se regirá por las normas previstas en las secciones 7, 8 y 9 de este capítulo y la asociación se regirá por la legislación vigente sobre la materia.
 
 (Decreto 1541 de 1978, art. 105)
-
-ARTÍCULO
 
 ## art:2.2.3.2.12.3 — Pesca de subsistencia y usos domésticos
 
@@ -18279,23 +16844,17 @@ SECCIÓN 13
 
 REGLAMENTACIÓN DEL USO DE LAS AGUAS Y DECLARACIÓN DE RESERVAS Y AGOTAMIENTO
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.1 — Reglamentación del uso de las aguas
 
 La Autoridad Ambiental competente con el fin de obtener una mejor distribución de las aguas de cada corriente o derivación, de acuerdo con lo previsto en los Artículos 156 y 157 del Decreto-ley 2811 de 1974, reglamentará cuando lo estime conveniente, de oficio o a petición de parte, el aprovechamiento de cualquier corriente o depósito de aguas públicas, así como las derivaciones que beneficien varios predios. Para ello se adelantará un estudio preliminar con el fin de determinar la conveniencia de la reglamentación, teniendo en cuenta el reparto actual, las necesidades de los predios que las utilizan y las de aquellos que puedan aprovecharlas.
 
 (Decreto 1541 de 1978, art. 107).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.2 — Conveniencia de la reglamentación
 
 Si del resultado del estudio a que se refiere el artículo anterior, se deduce la conveniencia de adelantar la reglamentación, la Autoridad Ambiental competente así lo ordenará mediante providencia motivada.
 
 (Decreto 1541 de 1978, art. 108).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.3 — Publicación acto administrativo
 
@@ -18306,8 +16865,6 @@ a. Copia de la providencia que indique la jurisdicción del lugar donde deben re
 b. Aviso por dos veces consecutivas en el periódico de mayor circulación de la región, sobre el lugar y fecha de la diligencia; si existen facilidades en la zona se publicará este aviso a través de la emisora del lugar.
 
 (Decreto 1541 de 1978, art. 109).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.4 — Visita ocular y estudios de reglamentación de una corriente
 
@@ -18341,23 +16898,17 @@ En todo caso, la Autoridad Ambiental competente podrá determinar las caracterí
 
 (Decreto 1541 de 1978, art. 110).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.5 — Proyecto de distribución de aguas y aviso
 
 Con base en los estudios y visitas a que se refieren los Artículos anteriores, se elaborará un proyecto de distribución de aguas. Este proyecto se comunicará a los interesados mediante aviso que se publicará por dos (2) veces con intervalo de diez (10) días entre uno y otro, en dos de los periódicos de mayor circulación en el Departamento o Municipio correspondiente, con el fin de que puedan presentar las objeciones que consideren pertinentes dentro de los veinte (20) días siguientes a la publicación del último aviso.
 
 (Decreto 1541 de 1978, art. 111).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.6 — Difusión aviso
 
 El aviso a que se refiere el artículo anterior se puede difundir por dos veces a través de la emisora del lugar con el mismo intervalo establecido en el artículo anterior.
 
 (Decreto 1541 de 1978, art. 112).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.7 — Objeciones, práctica de diligencias, reforma proyecto y publicación acto administrativo
 
@@ -18367,15 +16918,11 @@ Una vez practicadas estas diligencias y si fuere el caso reformado el proyecto, 
 
 (Decreto 1541 de 1978, art. 113).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.8 — Efectos reglamentación de aguas
 
 Toda reglamentación de aguas afecta los aprovechamientos existentes, es de aplicación inmediata e implica concesiones para los beneficiarios quienes quedan obligados a cumplir las condiciones impuestas en ellas y sujetos a las causales de caducidad de que trata el Decreto-ley 2811 de 1974 y el presente Decreto.
 
 (Decreto 1541 de 1978, art. 114).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.9 — Distribución, reglamentación o reparto de aguas de uso público y servidumbre de acueducto
 
@@ -18385,15 +16932,11 @@ Si se trata de terrenos baldíos, tal gravamen se presume sobre las proporciones
 
 (Decreto 1541 de 1978, art. 115).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.10 — Revisión y modificación de reglamentación de aguas de uso público
 
 Cualquier reglamentación de aguas de uso público podrá ser revisada o variada por la Autoridad Ambiental competente a petición de parte interesada o de oficio, cuando hayan cambiado las condiciones o circunstancias que se tuvieron en cuenta para efectuarla y siempre que se haya oído a las personas que pueden resultar afectadas con la modificación.
 
 (Decreto 1541 de 1978, art. 116).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.11 — Aspectos a considerar en la revisión y modificación de reglamentación de aguas de uso público
 
@@ -18402,8 +16945,6 @@ En el trámite de revisión o variación de una reglamentación de aguas de uso 
 Se tendrá, igualmente, en cuenta el cumplimiento dado por los usuarios a las normas que regulan el manejo del recurso y especialmente a las obligaciones comprendidas en la reglamentación que se pretenda variar o revisar.
 
 (Decreto 1541 de 1978, art. 117).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.12 — Declaración de reservas y agotamiento
 
@@ -18414,8 +16955,6 @@ a. La prohibición de otorgar permiso o concesión para usar determinadas corrie
 b. La prohibición de otorgar permisos o concesiones para determinados usos de corrientes, depósitos de agua o de sus lechos o cauces.
 
 (Decreto 1541 de 1978, art. 118)
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.13 — Fines de las reservas
 
@@ -18435,8 +16974,6 @@ f. Para el establecimiento de zonas de manejo especial en desarrollo de los art�
 
 (Decreto 1541 de 1978, art. 119).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.14 — Estudios
 
 La Autoridad Ambiental competente practicará estudios cuando menos sobre los aspectos contemplados por el artículo 2.2.3.2.13.4 de este Decreto, y con base en ellos hará la reserva respectiva.
@@ -18445,15 +16982,11 @@ Cuando la reserva sea declarada para restaurar la calidad de las aguas o para re
 
 (Decreto 1541 de 1978, art. 120).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.15 — Declaración de agotamiento de la fuente
 
 Cuando una fuente de agua pública hubiere sido aforada v se hubieren otorgado permisos o concesiones de uso que alcancen o excedan el caudal disponible, computadas las obras de almacenamiento que existieren, la Autoridad Ambiental competente, podrá declarar agotada está fuente, declaración que se publicará en la sede principal y en la respectiva subsede.
 
 (Decreto 1541 de 1978, art. 121).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.16 — Restricción de usos o consumos temporalmente
 
@@ -18463,8 +16996,6 @@ Los derechos de uso sobre aguas privadas también podrán limitarse temporalment
 
 (Decreto 1541 de 1978, art. 122).
 
-ARTÍCULO
-
 ## art:2.2.3.2.13.17 — Emergencia ambiental y facultades
 
 En caso de emergencia ambiental producida por inundaciones, deslizamientos de márgenes u otras catástrofes naturales relacionadas con las aguas o sus cauces o cuando existiere peligro inminente, la Autoridad Ambiental competente podrá declararla.
@@ -18472,8 +17003,6 @@ En caso de emergencia ambiental producida por inundaciones, deslizamientos de m�
 La Autoridad Ambiental competente podrá alterar el orden de prioridades para el otorgamiento de concesiones o permisos y en general dar cumplimiento a lo dispuesto por los artículos 2.2.3.2.13.16, 2.2.3.2.19.10, 2.2.3.2.19.11 y 2.2.3.2.19.12 de este Decreto; imponer restricciones al dominio y adelantar expropiaciones a que haya lugar si se da alguna de las circunstancias previstas por el artículo 69 del Decreto-ley 2811 de 1974.
 
 (Decreto 1541 de 1978, art. 123).
-
-ARTÍCULO
 
 ## art:2.2.3.2.13.18 — Facultades para la protección de fuentes o depósitos de aguas
 
@@ -18489,15 +17018,11 @@ SECCIÓN 14.
 
 RESTRICCIONES Y LIMITACIONES AL DOMINIO
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.1 — 4.1
 
 Servidumbre en interés público En concordancia con lo establecido por artículo 919 del Código Civil, toda heredad está sujeta a la servidumbre del acueducto en favor de otra heredad que carezca de las aguas necesarias para el cultivo de sementeras, plantaciones o pastos, o en favor de un pueblo que las haya menester para el servicio doméstico de los habitantes o en favor de un establecimiento industrial que las necesite para el movimiento de sus máquinas y para sus procesos industriales.
 
 (Decreto 1541 de 1978, art. 125).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.2 — Limitación de dominio o servidumbre
 
@@ -18509,8 +17034,6 @@ Se considera de utilidad pública o interés socia! la preservación y el manejo
 
 (Decreto 1541 de 1978, art. 126).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.3 — Utilidad pública e interés social de la servidumbre para la construcción de acueductos destinados al riego
 
 Se considera igualmente de utilidad pública e interés social, de conformidad con lo dispuesto por el artículo 8 de las Ley 98 de 1928 y por los artículos 1 y 2 del Decreto-Ley 407 de 1949, el establecimiento de servidumbre en la construcción de acueductos destinados al riego y toda clase de trabajos o construcciones para el aprovechamiento hidráulico, industrial o agrícola de dichas obras.
@@ -18519,23 +17042,17 @@ Para que un predio quede sujeto a servidumbre de acueducto es indispensable que 
 
 (Decreto 1541 de 1978, art. 127).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.4 — Servidumbre de acueducto
 
 Se presume gravado con servidumbre de acueducto todo predio que esté atravesado por una derivación de aguas provenientes de corrientes de uso público.
 
 (Decreto 1541 de 1978, art. 128).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.5 — Servidumbres y aprovechamiento de las aguas subterráneas
 
 Las servidumbres establecidas conforme la ley, gravan también a los predios en los cuales deben ejecutarse obras para el aprovechamiento de las aguas subterráneas y para su conducción.
 
 (Decreto 1541 de 1978, art. 129).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.6 — Condiciones para la imposición de servidumbres
 
@@ -18548,8 +17065,6 @@ b. Que el aprovechamiento de aguas que se proyecta realizar, haya sido amparado 
 c. Que la servidumbre sea indispensable para poder hacer uso del agua concedida, en forma técnica y económica.
 
 (Decreto 1541 de 1978, art. 130).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.7 — Notificación providencia y citación audiencia de conciliación
 
@@ -18569,15 +17084,11 @@ Si se lograre acuerdo, la Autoridad Ambiental competente-expedirá una resoluci�
 
 (Decreto 1541 de 1978, art. 131).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.8 — Efecto de la no conciliación
 
 Si hubiere desacuerdo en cuanto al precio y las indemnizaciones que correspondan, las partes quedan en libertad de acudir al órgano jurisdiccional para que éste decida.
 
 (Decreto 1541 de 1978, art. 132).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.9 — Visitas oculares e imposición de servidumbre
 
@@ -18587,15 +17098,11 @@ Con base en las visitas practicadas, en los planos que se hubieren levantado y e
 
 (Decreto 1541 de 1978, art. 133).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.10 — Inscripción acto administrativo
 
 La providencia administrativa que imponga la servidumbre se deberá inscribir en la correspondiente Oficina de Registro de Instrumentos Públicos y Privados.
 
 Decreto 1541 de 1978, art. 134).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.11 — Contenido acto administrativo
 
@@ -18603,15 +17110,11 @@ En la providencia que imponga la servidumbre se indicará la propiedad o propied
 
 (Decreto 1541 de 1978, art. 135).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.12 — .12
 
 Servidumbre en interés privado Previamente a la constitución de una servidumbre en interés privado a que se refieren los artículos 107 a 118 del Decreto - Ley 2811 de 1974, por la vía jurisdiccional, la Autoridad Ambiental competente a solicitud de parte y con participación de los interesados, podrá determinar la zona que va quedar afectada por la servidumbre, las características de la obra y las demás modalidades concernientes al ejercicio de aquella, de acuerdo con el plano que levante al efecto.
 
 (Decreto 1541 de 1978, art. 136).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.13 — Acuerdo entre partes
 
@@ -18621,15 +17124,11 @@ Si hubiere acuerdo se levantará un acta en la cual se señalarán las condicion
 
 (Decreto 1541 de 1978, art. 137).
 
-ARTÍCULO
-
 ## art:2.2.3.2.14.14 — Efectos del no acuerdo
 
 Si no hubiere acuerdo entre las partes, el interesado deberá recurrir a la vía jurisdiccional para que de acuerdo con lo dispuesto por el Código de Procedimiento Civil, se imponga la servidumbre respectiva.
 
 (Decreto 1541 de 1978, art. 138).
-
-ARTÍCULO
 
 ## art:2.2.3.2.14.15 — Otras normas aplicables
 
@@ -18640,8 +17139,6 @@ Las servidumbres en interés privado se rigen además por las disposiciones esta
 SECCIÓN 15.
 
 ADQUISICIÓN DE BIENES Y EXPROPIACIÓN
-
-ARTÍCULO
 
 ## art:2.2.3.2.15.1 — Requisitos y negociaciones
 
@@ -18655,8 +17152,6 @@ c. La determinación de las personas con quienes se adelantará la negociación.
 
 (Decreto 1541 de 1978, art. 140).
 
-ARTÍCULO
-
 ## art:2.2.3.2.15.2 — Enajenación voluntaria y expropiación
 
 La adquisición de bienes inmuebles por enajenación voluntaria y expropiación se regirá por lo dispuesto en la Ley 388 de 1997 o en la norma que la modifique o la sustituya.
@@ -18667,15 +17162,11 @@ SECCIÓN 16
 
 RÉGIMEN DE CIERTAS CATEGORÍAS ESPECIALES DE AGUA
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.1 — Uso de aguas lluvias sin concesión
 
 Sin perjuicio del dominio público de las aguas lluvias, y sin que pierdan tal carácter, el dueño, poseedor o tenedor de un predio puede servirse sin necesidad de concesión de las aguas lluvias que caigan o se recojan en este, mientras por este discurren.
 
 (Decreto 1541 de 1978, art. 143).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.2 — Concesión de aguas lluvias
 
@@ -18683,23 +17174,17 @@ Se requerirá concesión para el uso de las aguas lluvias cuando estas aguas for
 
 (Decreto 1541 de 1978, art. 144).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.3 — Aguas lluvias y construcción de obras
 
 La construcción de obras para almacenar conservar y conducir aguas lluvias se podrá adelantar siempre y cuando no se causen perjuicios a terceros.
 
 (Decreto 1541 de 1978, art. 145).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.4 — Aguas subterráneas, Exploración
 
 Permiso. La prospección y exploración que incluye perforaciones de prueba en busca de aguas subterráneas con miras a su posterior aprovechamiento, tanto en terrenos de propiedad privada como en baldíos, requiere permiso de la Autoridad Ambiental competente.
 
 (Decreto 1541 de 1978, art. 146).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.5 — Requisitos para la obtención del permiso
 
@@ -18721,8 +17206,6 @@ g. Los demás datos que el peticionario o la autoridad ambiental competente cons
 
 (Decreto 1541 de 1978, art. 147).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.6 — Anexos solicitud de permiso
 
 Las personas naturales o jurídicas, públicas o privadas deberán acompañar a la solicitud:
@@ -18735,15 +17218,11 @@ c. Autorización escrita con la firma autenticada del propietario o propietarios
 
 (Decreto 1541 de 1978, art. 148).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.7 — Trámite
 
 Recibida la solicitud de exploración debidamente formulada, la Autoridad Ambiental competente procederá a estudiar cada uno de los puntos relacionados en el artículo 2.2.3.2.16.5 de este Decreto, por intermedio de profesionales o técnicos en la materia.
 
 (Decreto 1541 de 1978, art. 149).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.8 — Permiso y condiciones
 
@@ -18754,8 +17233,6 @@ a. Que el área de exploración no exceda de 1.000 hectáreas, siempre y cuando 
 b. Que el período no sea mayor de un (1) año,
 
 (Decreto 1541 de 1978, art. 150).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.9 — Exploración y aspectos a considerar
 
@@ -18776,8 +17253,6 @@ En el proceso de exploración se contemplarán los siguientes aspectos para efec
 7. Compilación de datos sobre necesidad de agua existente y requerida.
 
 (Decreto 1541 de 1978, art. 151).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.10 — Informe del permisionario
 
@@ -18801,15 +17276,11 @@ g. Otros datos que la Autoridad Ambiental competente considere convenientes.
 
 (Decreto 1541 de 1978, art. 152).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.11 — Supervisión prueba de bombeo
 
 La prueba de bombeo a que se refiere el punto e) del artículo anterior deberá ser supervisada por un funcionario designado por la Autoridad Ambiental competente.
 
 (Decreto 1541 de 1978, art. 153).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.12 — Efectos del permiso de exploración
 
@@ -18817,15 +17288,11 @@ Los permisos de exploración de aguas subterráneas no confieren concesión para
 
 (Decreto 1541 de 1978, art. 154).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.13 — .13
 
 Aprovechamientos Los aprovechamientos de aguas subterráneas, tanto en predios propios como ajeno, requieren concesión de la Autoridad Ambiental competente con excepción de los que utilicen para usos domésticos en propiedad del beneficiario o en predios que éste tenga posesión o tenencia.
 
 (Decreto 1541 de 1978, art. 155).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.14 — Requisitos y trámite concesión
 
@@ -18835,15 +17302,11 @@ A solicitud se acompañará copia del permiso de exploración y certificación s
 
 (Decreto 1541 de 1978, art. 157).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.15 — Exoneración permiso y proceso de exploración
 
 Si el pozo u obra para aprovechamiento de aguas subterráneas se encuentra dentro de una cuenca subterránea ya conocido por la Autoridad Ambiental competente se podrá exonerar del permiso y el proceso de exploración.
 
 (Decreto 1541 de 1978, art. 158).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.16 — Preferencia otorgada por el permiso de exploración
 
@@ -18851,15 +17314,11 @@ El propietario, poseedor o tenedor de un predio que en ejercicio del respectivo 
 
 (Decreto 1541 de 1978, art. 159).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.17 — Concesiones para aguas sobrantes
 
 Cuando la producción de un pozo u obra de alumbramiento exceda el caudal autorizado en la concesión, sea o no el concesionario dueño del suelo donde está la obra; la Autoridad Ambiental competente podrá otorgar concesiones de las aguas que sobran a terceros que las soliciten bajo la condición de que contribuyan proporcionalmente a los costos de construcción, mantenimiento y operación del pozo u obra, y fijará en tales casos el monto porcentual de las construcciones, así como el régimen de administración del pozo u obra.
 
 (Decreto 1541 de 1978, art. 160).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.18 — Concesiones aguas subterráneas en terrenos ajenos al concesionario
 
@@ -18871,23 +17330,17 @@ b. Que ocurra el caso previsto por el artículo 2.2.3.2.16.17 de este Decreto, o
 
 (Decreto 1541 de 1978, art. 161).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.19 — Aguas alumbradas en perforaciones mineras o petroleras
 
 Las aguas alumbradas en perforaciones mineras o petroleras se concederán, en primer lugar, a quienes realicen las perforaciones hasta la concurrencia de sus necesidades, y podrán concederse a terceros si no perturbaren la explotación minera o petrolera.
 
 (Decreto 1541 de 1978, art. 162).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.20 — Otras disposiciones aplicables a sobrantes en aprovechamiento de aguas subterráneas
 
 Cuando se presenten sobrantes en cualquier aprovechamiento de aguas subterráneas tendrán aplicación las disposiciones de este Decreto relacionadas con aguas superficiales, en cuanto no fueren incompatibles. El titular de la concesión está obligado a extraerlas sin que se produzcan sobrantes. En caso de que esto sea inevitable, deberá conducir a sus expensas dichos sobrantes hasta la fuente más cercana o a facilitar su aprovechamiento para predios vecinos, caso en el cual los beneficiarios contribuirán a sufragar los costos de conducción.
 
 (Decreto 1541 de 1978, art. 163).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.21 — Contenido acto administrativo
 
@@ -18911,15 +17364,11 @@ h. La demás que considere convenientes la Autoridad Ambiental competente:
 
 (Decreto 1541 de 1978, art. 164).
 
-ARTÍCULO
-
 ## art:2.2.3.2.16.22 — Imposición de uso combinado de aguas superficiales y subterráneas
 
 La Autoridad Ambiental competente-podrá imponer a un concesionario de aguas superficiales y subterráneas el uso combinado de ellas, limitando el caudal utilizable bajo uno u otro sistema o las épocas en que puede servirse de una y otras.
 
 (Decreto 1541 de 1978, art. 165).
-
-ARTÍCULO
 
 ## art:2.2.3.2.16.23 — Transitorio
 
@@ -18937,15 +17386,11 @@ SECCIÓN 17
 
 PRESERVACIÓN Y CONTROL
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.1 — Aplicabilidad declaración de agotamiento
 
 La declaración de agotamiento autorizada por los artículos 2.2.3.2.13.15 a 2.2.3.2.13.17 de este Decreto, es aplicable para las aguas subterráneas por motivos de disponibilidad cuantitativa y cualitativa de las mismas.
 
 (Decreto 1541 de 1978, art. 166).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.2 — Otras facultades de la Autoridad ambiental
 
@@ -18957,15 +17402,11 @@ b. Construir las obras a que se refiere la letra anterior, en cuyo caso se podr�
 
 (Decreto 1541 de 1978, art. 167).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.3 — Concepto de sobrantes
 
 Para efectos de la aplicación del artículo 154 del Decreto - Ley 2811 de 1974, se entiende por "sobrantes" las aguas que, concedidas, no se utilicen en ejercicio del aprovechamiento.
 
 (Decreto 1541 de 1978, art. 168).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.4 — Distancia mínimos entre perforaciones
 
@@ -18973,15 +17414,11 @@ Para evitar la interferencia que pueda producirse entre dos o más pozos como co
 
 (Decreto 1541 de 1978, art. 169).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.5 — Régimen de aprovechamiento por concesión
 
 La Autoridad Ambiental competente fijará el régimen de aprovechamiento de cada concesión de aguas subterráneas de acuerdo con la disponibilidad del recurso y en armonía con la planificación integral del mismo en la zona.
 
 (Decreto 1541 de 1978, art. 170).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.6 — Prerrequisito de la Prueba de bombeo
 
@@ -18989,15 +17426,11 @@ Ningún aprovechamiento podrá iniciarse sin haberse practicado previamente la p
 
 (Decreto 1541 de 1978, art.171).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.7 — Obligación en estudios o explotaciones mineras o petrolíferas
 
 Quien al realizar estudios o explotaciones mineras o petrolíferas, o con cualquier otro propósito descubriese o alumbrase aguas subterráneas, está obligado a dar aviso por escrito e inmediato a la Autoridad Ambiental competente y proporcionar la información técnica de que se disponga.
 
 (Decreto 1541 de 1978, art. 172).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.8 — Reglamentación de aprovechamientos
 
@@ -19007,15 +17440,11 @@ Ambiental competente podrá reglamentar en cualquier tiempo, conforme a la secci
 
 (Decreto 1541 de 1978, art. 173).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.9 — Supervisión técnica de pozos y perforaciones
 
 La Autoridad Ambiental competente dispondrá la supervisión técnica de los pozos y perforaciones para verificar el cumplimiento de las obligaciones establecidas en las resoluciones de permiso o concesión.
 
 (Decreto 1541 de 1978, art. 174).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.10 — Permiso ambiental previo para obturación de pozos
 
@@ -19023,23 +17452,17 @@ Nadie podrá adelantar la obturación de pozos sin el previo permiso de la Autor
 
 (Decreto 1541 de 1978, art. 175).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.11 — Coordinación interinstitucional en la prevención de la contaminación
 
 Con el fin de prevenir la contaminación o deterioro de aguas subterráneas a causa de actividades que no tengan por objeto el aprovechamiento de aguas, tales como explotación de minas y canteras, trabajos de avenamiento. alumbramiento de gases o hidrocarburos, establecimiento de cementerios, depósitos de basuras o de materiales contaminantes, la Autoridad Ambiental competente desarrollará mecanismos de coordinación con las entidades competentes para otorgar concesiones, licencias o permisos relacionados con cada tipo de actividad, de tal suerte que en la respectiva providencia se prevean las obligaciones relacionadas con la preservación del recurso hídrico.
 
 (Decreto 1541 de 1978, art. 176).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.12 — Otras medidas de coordinación interinstitucional
 
 La Autoridad Ambiental competente coordinará igualmente con las entidades a que se refiere el artículo anterior, medidas tales como la realización de los estudios necesarios para identificar las fuentes de contaminación y el grado de deterioro o la restricción, condicionamiento o prohibición de actividades, con el fin de preservar o restaurar la calidad del recurso hídrico subterráneo.
 
 (Decreto 1541 de 1978, art. 177).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.13 — Aspectos a contemplar en la investigación de aguas subterráneas
 
@@ -19063,23 +17486,17 @@ La Autoridad Ambiental competente desarrollará los mecanismos adecuados para co
 
 (Decreto 1541 de 1978, art. 178).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.14 — .14
 
 Aguas minerales y termales La Autoridad Ambiental competente, tendrá a su cargo la expedición de las autorizaciones para el aprovechamiento de las aguas minero - medicinales
 
 (Decreto 1541 de 1978, art. 179).
 
-ARTÍCULO
-
 ## art:2.2.3.2.17.15 — Preferencias de destino de las aguas minero- medicinales
 
 Las aguas minero-medicinales se aprovecharán preferiblemente para destinarlas a centros de recuperación, balnearios y plantas de envase por el Estado o por particulares mediante concesión.
 
 (Decreto 1541 de 1978, art. 180).
-
-ARTÍCULO
 
 ## art:2.2.3.2.17.16 — Condición en la reversión
 
@@ -19091,8 +17508,6 @@ SECCIÓN 18.
 
 RÉGIMEN PARA EL APROVECHAMIENTO DE AGUAS Y CAUCES LIMÍTROFES
 
-ARTÍCULO
-
 ## art:2.2.3.2.18.1 — Aprovechamiento de aguas y cauces limítrofes
 
 En todo lo relacionado con el aprovechamiento y reglamentación de aguas, cauces, playas, costas y riberas limítrofes, se atenderá a lo previsto en los tratados acuerdos o convenios que se suscriban con los países limítrofes.
@@ -19103,15 +17518,11 @@ SECCIÓN 19.
 
 DE LAS OBRAS HIDRÁULICAS
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.1 — Obras hidráulicas
 
 Al tenor de lo dispuesto por el artículo 119 del Decreto - Ley 2811 de 197 4, las disposiciones de esta sección tiene por objeto promover, fomentar, encauzar y hacer obligatorio el estudio, construcción y funcionamiento de obras hidráulicas para cualquiera de los usos del recurso hídrico y para su defensa y conservación, sin perjuicio de las funciones, corresponden al Ministerio de Obras Públicas
 
 (Decreto 1541 de 1978, art. 183).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.2 — Presentación de planos e imposición de obligaciones
 
@@ -19121,15 +17532,11 @@ En la resolución que autorice la ejecución de las obras se impondrá la titula
 
 (Decreto 1541 de 1978, art. 184).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.3 — Entidades públicas y disposiciones de construcción de obras públicas
 
 El Ministerio de Transporte y las demás entidades que tengan a su cargo la construcción de obras públicas, deberán cumplir y hacer cumplir lo previsto por el artículo 26 del Decreto - Ley 2811 de 1974.
 
 (Decreto 1541 de 1978, art. 185).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.4 — Aprobación para construcción de acueductos rurales para prestar servicios de riego
 
@@ -19141,8 +17548,6 @@ Estado en el desarrollo de sus funciones.
 
 (Decreto 1541 de 1978, art. 187).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.5 — Aprobación de planos y de obras, trabajos o instalaciones
 
 Las obras, trabajos o instalaciones a que se refiere la presente sección, requieren dos aprobaciones:
@@ -19153,23 +17558,17 @@ b. La de las obras, trabajos o instalaciones una vez terminada su construcción 
 
 (Decreto 1541 de 1978, art. 188).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.6 — Obligaciones de proyectos de obras hidráulicas, públicas o privadas para utilizar aguas o sus cauces o lechos
 
 Los proyectos de obras hidráulicas, públicas o privadas para utilizar aguas o sus cauces o lechos deben incluir los estudios, planos y presupuesto de las obras y trabajos necesarios para la conservación o recuperación de las aguas y sus lechos o cauces, acompañados de una memoria, planos y presupuesto deben ser sometidos a aprobación y registro por la Autoridad Ambiental competente.
 
 (Decreto 1541 de 1978, art. 191).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.7 — 9.7
 
 Obligaciones para proyectos que incluyan construcciones como presas, diques, compuertas, vertederos, pasos de vías públicas. Los proyectos que incluyen construcciones como presas, diques, compuertas, vertederos, pasos de vías públicas, en cuya construcción sea necesario garantizar a terceros contra posibles perjuicios que puedan ocasionarse por deficiencia de diseños, de localización o de ejecución de la obra, deberán ir acompañados además de los que se requieren en el artículo 2.2.3.2.19.5, letra a) de este Decreto, de una memoria técnica detallada sobre el cálculo estructural e hidráulico de las obras.
 
 (Decreto 1541 de 1978, art. 192).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.8 — Planos y escalas
 
@@ -19187,8 +17586,6 @@ e. Para detalles de 1:10 hasta 1:50
 
 (Decreto 1541 de 1978, art. 194).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.9 — Estudio, aprobación y registro de los planos
 
 Los planos acompañados de las memorias descriptivas y cálculos hidráulicos y estructurales serán presentados a la Autoridad Ambiental competente y una vez aprobados por ésta, tanto el original como los duplicados, con la constancia de la aprobación serán registrados en la forma prevista en el capítulo 4 del presente título-
@@ -19197,15 +17594,11 @@ Para el estudio de los planos y memorias descriptivas y cálculos estructurales 
 
 (Decreto 1541 de 1978, art. 195).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.10 — Construcción de obras de defensa sin permiso
 
 Cuando por causa de crecientes extraordinarias u otras emergencias, los propietarios, poseedores, tenedores o administradores de predios o las Asociaciones de Usuarios, se vieren en la necesidad de construir obras de defensa sin permiso de la Autoridad Ambiental competente-deberán darle aviso escrito dentro de los seis (6) días siguientes a su iniciación. Dichas obras serán construidas con carácter provisional, cuidando de no causar daños a terceros y quedaran sujetas a su revisión o aprobación por parte dela Autoridad Ambiental competente.
 
 (Decreto 1541 de 1978, art. 196).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.11 — Construcción o demolición de obras para conjurar daños inminentes
 
@@ -19213,15 +17606,11 @@ En los mismos casos previstos por el artículo anterior, la Autoridad Ambiental 
 
 (Decreto 1541 de 1978, art. 197).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.12 — lnoponibilidad
 
 Ningún propietario podrá oponerse a que en las márgenes de los ríos o en los cauces o lechos de las corrientes o depósitos de agua se realicen obras de defensa para proteger a otros predios contra la acción de las privadas o públicas.
 
 (Decreto 1541 de 1978, art. 198).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.13 — Obligatoriedad de aparatos de medición
 
@@ -19229,15 +17618,11 @@ Toda obra de captación o alumbramiento de aguas deberá estar provista de apara
 
 (Decreto 1541 de 1978, art. 199).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.14 — Características de las obras colectoras y aductoras de sobrantes o desagües de riego
 
 Las obras colectoras y aductoras de sobrantes o desagües de riego deben tener capacidad suficiente para recoger y conducir las aguas lluvias de tal modo que eviten su desbordamiento en las vías públicas y en otros predios; los planos que se refiere esta sección deber incluir tales obras y sus características.
 
 (Decreto 1541 de 1978, art. 200).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.15 — De los profesionales
 
@@ -19245,15 +17630,11 @@ Los proyectos a que se refiere la presente sección serán realizados y formados
 
 (Decreto 1541 de 1978, art. 201).
 
-ARTÍCULO
-
 ## art:2.2.3.2.19.16 — Construcción de obras
 
 Aprobados los planos y memorias técnicas por la Autoridad Ambiental competente los concesionarios o permisionarios deberán construir las obras dentro del término que se fije; una vez construidas las someterá a estudio para su aprobación.
 
 (Decreto 1541 de 1978, art. 202).
-
-ARTÍCULO
 
 ## art:2.2.3.2.19.17 — Restauración de áreas pantanosas
 
@@ -19268,8 +17649,6 @@ CONSERVACIÓN Y PRESERVACIÓN DE LAS AGUAS Y SUS CAUCES
 SUBSECCIÓN
 
 PRINCIPIOS GENERALES
-
-ARTÍCULO
 
 ## art:2.2.3.2.20.1 — Clasificación de las aguas con respecto a los vertimientos
 
@@ -19295,8 +17674,6 @@ Pertenecen a la Clase II, los demás cuerpos de agua no incluidos en Clase l.
 
 (Decreto 1541 de 1978, art. 205).
 
-ARTÍCULO
-
 ## art:2.2.3.2.20.2 — Concesión y permiso de vertimientos
 
 Si como consecuencia del aprovechamiento de aguas en cualquiera de los usos previstos por el artículo 2.2.3.2.7.1 de este Decreto se han de incorporar a las aguas sustancias o desechos, se requerirá permiso de vertimiento el cual se trasmitirá junto con la solicitud de concesión o permiso para el uso del agua o posteriormente a tales actividades sobrevienen al otorgamiento del permiso o concesión.
@@ -19305,23 +17682,17 @@ Igualmente deberán solicitar este permiso los actuales titulares de concesión 
 
 (Decreto 1541 de 1978, art. 208).
 
-ARTÍCULO
-
 ## art:2.2.3.2.20.3 — Predios y obligaciones sobre práctica de conservación de aguas, bosques protectores y suelos
 
 Los propietarios, poseedores o tenedores de fundos en los cuales nazcan fuentes de aguas o predios que están atravesados por corrientes o depósitos de aguas o sean aledaños a ellos, deberán cumplir todas las obligaciones sobre práctica de conservación de aguas, bosques protectores y suelos de acuerdo con las normas vigentes.
 
 (Decreto 1541 de 1978, art. 209).
 
-ARTÍCULO
-
 ## art:2.2.3.2.20.4 — Acciones populares
 
 El Personero Municipal y cualquier persona pueden entablar las acciones populares que para preservar las aguas nacionales de uso público consagra el Título XIV del Libro II del Código Civil, sin perjuicio de las que competan a los directamente interesados.
 
 (Decreto 1541 de 1978, art. 210).
-
-ARTÍCULO
 
 ## art:2.2.3.2.20.5 — Prohibición de verter sin tratamiento previo
 
@@ -19331,15 +17702,11 @@ El grado de tratamiento para cada tipo de vertimiento dependerá de la destinaci
 
 (Decreto 1541 de 1978, art. 211).
 
-ARTÍCULO
-
 ## art:2.2.3.2.20.6 — Facultad de la autoridad ambiental frente a vertimiento que inutiliza tramo o cuerpo de agua
 
 Si a pesar de los tratamientos previstos o aplicados, el vertimiento ha de ocasionar contaminación en grado tal que inutilice el tramo o cuerpo de agua para los usos o destinación previstos por la Autoridad Ambiental competente, esta podrá denegar o declarar la caducidad de la concesión de aguas o del permiso de vertimiento.
 
 (Decreto 1541 de 1978, art. 212).
-
-ARTÍCULO
 
 ## art:2.2.3.2.20.7 — Deber de colaboración e inoponibilidad en práctica de diligencias
 
@@ -19353,15 +17720,11 @@ SECCIÓN 21.
 
 VERTIMIENTO POR USO DOMÉSTICO Y MUNICIPAL.
 
-ARTÍCULO
-
 ## art:2.2.3.2.21.1 — Normas aplicables a las concesiones para la prestación de servicio de acueducto
 
 Las concesiones que la Autoridad Ambiental competente, otorgue con destino a la prestación de servicios de acueducto se sujetarán, a lo establecido en las secciones 7, 8 y 9 del presente capítulo , sin perjuicio de lo previsto en el régimen de prestación de servicios públicos domiciliarios de alcantarillado.
 
 (Decreto 1541 de 1978, art. 220).
-
-ARTÍCULO
 
 ## art:2.2.3.2.21.2 — 1.2
 
@@ -19369,23 +17732,17 @@ Obligaciones para iniciarla construcción, ensanche o alteración de habitacione
 
 (Decreto 1541 de 1978, art. 221).
 
-ARTÍCULO
-
 ## art:2.2.3.2.21.3 — Imposibilidad de verter aguas residuales en sistemas de alcantarillado público
 
 Cuando las aguas residuales no puedan llevarse a sistemas de alcantarillado público, regirá lo dispuesto en el artículo 145 del Decreto - Ley 2811 de 1974, y su tratamiento deberá hacerse de modo que no produzca deterioro de las fuentes receptoras, los suelos, la flora o la fauna. Las obras deberán ser previamente aprobadas conforme a lo dispuesto en los artículos 2.2.3.2.20.5 al 2.2.3.2.20.7 del presente decreto.
 
 (Decreto 1541 de 1978, art. 222).
 
-ARTÍCULO
-
 ## art:2.2.3.2.21.4 — Sistema de alcantarillado y tratamiento de residuos líquidos
 
 En todo sistema de alcantarillado se deberán someter los residuos líquidos a un tratamiento que garantice la conservación de las características de la corriente receptora con relación la clasificación a que refiere el artículo 2.2.3.2.20.1 del presente Decreto.
 
 (Decreto 1541 de 1978, art. 223).
-
-ARTÍCULO
 
 ## art:2.2.3.2.21.5 — Fijación de las características del efluente
 
@@ -19397,8 +17754,6 @@ SECCIÓN 22.
 
 VERTIMIENTO POR USO AGRÍCOLA, RIEGO Y DRENA.JE
 
-ARTÍCULO
-
 ## art:2.2.3.2.22.1 — 2.1
 
 Reglas relativas a la construcción, mantenimiento y operación de las obras de captación y conducción y sistemas de desagüe, drenaje y tratamiento de sobrantes. Los desagües provenientes de riego pueden ser concedidos preferencialmente para nuevos usos en riego. La concesión puede imponer a su beneficiario la obligación de contribuir a los gastos de construcción, mantenimiento y operación de las obras de captación y conducción construidas por el concesionario original. También podrá la Autoridad Ambiental competente imponer a todos los beneficiarios la contribución para la construcción y mantenimiento de los sistemas de desagüe, drenaje y tratamiento de los sobrantes.
@@ -19409,15 +17764,11 @@ SECCIÓN 23
 
 VERTIMIENTO POR USO INDUSTRIAL.
 
-ARTÍCULO
-
 ## art:2.2.3.2.23.1 — Desagües y efluentes provenientes de las plantas industriales
 
 Los desagües y efluentes provenientes de las plantas industriales deberán evacuarse mediante redes especiales construidas para este fin, en forma que facilite el tratamiento del agua residual, de acuerdo con las características y la clasificación de la fu ente receptora.
 
 (Decreto 1541 de 1978, art. 228).
-
-ARTÍCULO
 
 ## art:2.2.3.2.23.2 — Ubicación de industrias que no puedan garantizar la calidad de las aguas dentro de los límites permisibles
 
@@ -19427,23 +17778,17 @@ Para autorizar su ubicación en zonas industriales se tendrán en cuenta el volu
 
 (Decreto 1541 de 1978, art. 229).
 
-ARTÍCULO
-
 ## art:2.2.3.2.23.3 — Vertimientos puntuales a los sistemas de alcantarillado público
 
 Las industrias sólo podrán ser autorizadas a descargar sus efluentes en el sistema de alcantarillado público, siempre y cuando cumplan la norma de vertimientos puntuales a los sistemas de alcantarillado público.
 
 (Decreto 1541 de 1978, art. 230).
 
-ARTÍCULO
-
 ## art:2.2.3.2.23.4 — Tasas ambientales
 
 Las tasas que deben cancelar los usuarios del recurso hídrico, se regirán por lo dispuesto en los artículos 42 y 43 de la Ley 99 de 1993 y sus reglamentos.
 
 (Decreto 1541 de 1978, art. 232).
-
-ARTÍCULO
 
 ## art:2.2.3.2.23.5 — 3.5
 
@@ -19452,8 +17797,6 @@ Distribución de gastos de mantenimiento de recursos, operación y conservación
 El valor de las cuotas que corresponde a cada usuario deberá ser consignado a favor de la Autoridad Ambiental competente
 
 (Decreto 1541 de 1978, art. 234).
-
-ARTÍCULO
 
 ## art:2.2.3.2.23.6 — Expedición de paz y salvo por pago de tasas
 
@@ -19464,8 +17807,6 @@ La Autoridad Ambiental competente expedirá un paz y salvo a los usuarios por co
 SECCIÓN 24.
 
 PROHIBICIONES, SANCIONES, CADUCIDAD, CONTROL Y VIGILANCIA
-
-ARTÍCULO
 
 ## art:2.2.3.2.24.1 — Prohibiciones
 
@@ -19490,8 +17831,6 @@ e. La extinción o disminución cualitativa o cuantitativa de la flora o de la f
 f. La disminución del recurso hídrico como la fuente natural de energía.
 
 (Decreto 1541 de 1978, art. 238).
-
-ARTÍCULO
 
 ## art:2.2.3.2.24.2 — Otras prohibiciones
 
@@ -19519,15 +17858,11 @@ Prohíbase también:
 
 (Decreto 1541 de 1978, art. 239).
 
-ARTÍCULO
-
 ## art:2.2.3.2.24.3 — Régimen Sancionatorio
 
 Será aplicable el régimen sancionatorio previsto en la Ley 1333 de 2009 sin perjuicio de las acciones civiles y penales y de la declaratoria de caducidad, cuando haya lugar a ella.
 
 (Decreto 1541 de 1978, art. 240).
-
-ARTÍCULO
 
 ## art:2.2.3.2.24.4 — Caducidad Serán causales de caducidad de las concesiones las señaladas en el artículo 62 del Decreto - Ley 2811 de 1974
 
@@ -19545,8 +17880,6 @@ b. En incumplimiento de las obligaciones relacionadas con la preservación de la
 
 (Decreto 1541 de 1978, art. 248).
 
-ARTÍCULO
-
 ## art:2.2.3.2.24.5 — Causales de revocatoria del permiso
 
 Son causales de revocatoria del permiso las mismas señaladas para la caducidad de las concesiones en el artículo 62 del Decreto - Ley 2811 de 1974.
@@ -19557,15 +17890,11 @@ SECCIÓN 25.
 
 CONTROL Y VIGILANCIA
 
-ARTÍCULO
-
 ## art:2.2.3.2.25.1 — Facultades policivas de las autoridades ambientales
 
 De conformidad con el artículo 305 del Decreto - Ley 2811 de 1974 a la Autoridad Ambiental competente, en virtud de sus facultades policivas, corresponde velar por el cumplimiento de las disposiciones del Código Nacional de los Recursos Naturales Renovables y de Protección al Medio Ambiente, y de las demás normas legales sobre la materia. Igualmente hará uso de los demás medios de Policía necesarios para la vigilancia y defensa de los recursos naturales renovables y del ambiente y determinará cuáles de sus funcionarios tienen facultades policivas.
 
 (Decreto 1541 de 1978, art. 253).
-
-ARTÍCULO
 
 ## art:2.2.3.2.25.2 — Sistema de control y vigilancia
 
@@ -19583,8 +17912,6 @@ En desarrollo de lo anterior y en orden de asegurar el cumplimiento de las norma
 
 (Decreto 1541 de 1978, art. 254).
 
-ARTÍCULO
-
 ## art:2.2.3.2.25.3 — Facultades en visita ocular o de inspección o de control y en peligro inminente de inundación o avenida
 
 El funcionario de la Autoridad Ambiental competente que deba practicar las visitas de que trata este Decreto, podrá en ejercicio de las facultades policivas, mediante orden escrita y firmada por el funcionario de la Autoridad Ambiental que conforme a la ley puede ordenar la práctica de la visita ocular o la inspección o control, penetrar a los predios cercados o a los establecimientos o instalaciones procurando contar con la autorización del dueño, tenedor del predio o del administrador o representante de la industria o establecimiento.
@@ -19592,8 +17919,6 @@ El funcionario de la Autoridad Ambiental competente que deba practicar las visit
 En caso de peligro inminente de inundación o avenida cuya ocurrencia o daños puedan conjurarse con la realización inmediata de obra o trabajos, los funcionarios de la región podrán asumir su realización. Los dueños de predios deberán permitir y facilitar el paso y construcción y contribuir con ellos; si no se encuentra el dueño, administrador o tenedor del predio, de ser necesario, se podrá penetrar a éste para el solo fin de conjurar el peligro o contrarrestarlo.
 
 (Decreto 1541 de 1978, art. 255).
-
-ARTÍCULO
 
 ## art:2.2.3.2.25.4 — lnoponibilidad a la práctica de la diligencia
 
@@ -19605,15 +17930,11 @@ SECCIÓN 26.
 
 REPRESENTACIÓN CARTOGRÁFICA
 
-ARTÍCULO
-
 ## art:2.2.3.2.26.1 — Representación cartográfica del recurso hídrico
 
 El Instituto Geográfico "Agustín Codazzi", IGAC, con la colaboración del Servicio Geológico Colombiano - SGC y el Instituto de Hidrología, Meteorología y Estudios Ambientales, IDEAM levantarán la representación cartográfica del recurso hídrico.
 
 (Decreto 1541 de 1978, art. 264).
-
-ARTÍCULO
 
 ## art:2.2.3.2.26.2 — Mapa general hidrogeológico del país
 
@@ -19629,15 +17950,11 @@ SUBSECCIÓN 1
 
 ASOCIACIONES DE USUARIOS DE AGUA
 
-ARTÍCULO
-
 ## art:2.2.3.2.27.1 — Asociaciones de usuarios de agua y canalistas
 
 Las asociaciones de usuarios de agua y canalistas serán auxiliares de la autoridad ambiental competente.
 
 (Decreto 1541 de 1978, art. 266).
-
-ARTÍCULO
 
 ## art:2.2.3.2.27.2 — Conformación
 
@@ -19645,23 +17962,17 @@ Las asociaciones de usuarios de aguas estarán constituidas por quienes aprovech
 
 (Decreto 1541 de 1978, art. 267).
 
-ARTÍCULO
-
 ## art:2.2.3.2.27.3 — 7.3
 
 Cuando se hubiere constituido una asociación de usuarios conforme a la presente sección, la comunidad a que refiere el artículo 162 del Decreto - Ley 2811 de 1974, quedará sustituida de pleno derecho por la Asociación de Usuarios de Aguas Canalistas.
 
 (Decreto 1541 de 1978, art. 268).
 
-ARTÍCULO
-
 ## art:2.2.3.2.27.4 — Admisión en la asociación del titular de una nueva concesión
 
 El otorgamiento de una nueva concesión o permiso para servirse del cauce o canal cuyos usuarios se hubieren constituido en asociación, otorgarán al titular el derecho a ser admitido en ella, con el cumplimiento de los requisitos estatutarios.
 
 (Decreto 1541 de 1978, art. 269).
-
-ARTÍCULO
 
 ## art:2.2.3.2.27.5 — Empresas comunitarias para el aprovechamiento de aguas cauces
 
@@ -19681,23 +17992,17 @@ En desarrollo de lo previsto por el artículo 338 del Decreto - Ley 2811 de 1974
 
 (Decreto 1541 de 1978, art. 270).
 
-ARTÍCULO
-
 ## art:2.2.3.2.27.6 — Persona de escasos recursos
 
 Para efectos del artículo anterior, entiéndase como persona de escasos recursos aquélla cuyo patrimonio no exceda de 250 veces el salario mínimo mensual legal vigente - SMMLV.
 
 (Decreto 1541 de 1978, art. 271).
 
-ARTÍCULO
-
 ## art:2.2.3.2.27.7 — Número de socios y radio de acción de las empresas comunitarias
 
 Las empresas comunitarias tendrán un número de socios no inferior a cinco (5), capital variable, tiempo de duración indefinido. Su radio de acción estará circunscrito a la corriente o cauce reglamentados o al área que determine la autoridad ambiental competente.
 
 (Decreto 1541 de 1978, art. 272).
-
-ARTÍCULO
 
 ## art:2.2.3.2.27.8 — Estatutos empresa comunitaria y personería jurídica
 
@@ -19717,23 +18022,17 @@ SUBSECCIÓN 1
 
 NOCIONES
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.1 — Objeto
 
 El presente capítulo establece las disposiciones relacionadas con los usos del recurso hídrico, el Ordenamiento del Recurso Hídrico y los vertimientos al recurso hídrico, al suelo y a los alcantarillados.
 
 (Decreto 3930 de 2010, art. 1; Modificado por el Decreto 50 de 2018, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.2 — Ámbito de aplicación
 
 El presente decreto aplica a las autoridades ambientales competentes definidas en el presente decreto, a los generadores de vertimientos y a los prestadores del servicio público domiciliario de alcantarillado.
 
 (Decreto 3930 de 2010, art. 2).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.3 — 1.3
 
@@ -19847,8 +18146,6 @@ SUBSECCIÓN 2
 
 ORDENAMIENTO DEL RECURSO HÍDRICO
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.4 — Ordenamiento del Recurso Hídrico
 
 El Ordenamiento del recurso hídrico es un proceso de planificación mediante el cual se fija la destinación y usos de los cuerpos de agua continentales superficiales y marinos, se establecen las normas, las condiciones y el programa de seguimiento para alcanzar y mantener los usos actuales y potenciales y conservar los ciclos biológicos y el normal desarrollo de las especies. Para el ordenamiento la autoridad ambiental competente deberá:
@@ -19874,8 +18171,6 @@ PARÁGRAFO 2. Para el ordenamiento de las aguas marinas se tendrá en cuenta los
 PARÁGRAFO 3. Para todos los efectos del presente capítulo, el ordenamiento del recurso hídrico excluye a las aguas subterráneas.
 
 (Decreto 050 de 2018, art. 3).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.5 — Criterios de Priorización para el Ordenamiento del Recurso Hídrico
 
@@ -19904,8 +18199,6 @@ Una vez priorizados los cuerpos de agua objeto de ordenamiento, se deberá proce
 PARÁGRAFO . Esta priorización y la gradualidad con que se desarrollará, deberán ser incluidas en el Plan de Gestión Ambiental Regional (PGAR) de la respectiva Corporación Autónoma Regional o de Desarrollo Sostenible regulado por el presente Decreto o en el instrumento de planificación de largo plazo de la Autoridad Ambiental Urbana respectiva, de acuerdo con la reglamentación vigente en la materia. Igualmente en los planes de acción de estas autoridades deberá incluirse como proyecto el ordenamiento de los cuerpos de agua.
 
 (Decreto 3930 de 2010, art. 5; Modificado por el Decreto 50 de 2018, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.6 — Aspectos mínimos del Ordenamiento del Recurso Hídrico
 
@@ -19955,8 +18248,6 @@ PARÁGRAFO 2. El ordenamiento de los cuerpos de agua deberá incluir los afluent
 
 (Decreto 3930 de 2010, art. 6; Parágrafo 2 modificado por el Decreto 50, artículos 7, 9).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.7 — De los modelos simulación de la calidad del recurso hídrico
 
 Para efectos del Ordenamiento del Recurso Hídrico, previsto en el artículo anterior y para la aplicación de modelos de simulación de la calidad del recurso, el Ministerio de Ambiente y Desarrollo Sostenible expedirá la Guía Nacional de Modelación del Recurso Hídrico, con base en los insumos que aporte el Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM).
@@ -19982,8 +18273,6 @@ PARÁGRAFO . Mientras el Ministerio de Ambiente y Desarrollo Sostenible, expide 
 9. Coliformes Totales y Coliformes Fecales.
 
 (Decreto 3930 de 2010, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.8 — Proceso de Ordenamiento del Recurso Hídrico
 
@@ -20035,8 +18324,6 @@ DE LA DESTINACIÓN GENÉRICA DE LAS AGUAS SUPERFICIALES, SUBTERRÁNEAS Y MARINAS
 
 (Título Corregido por el Decreto 703 de 1018, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.1 — Usos del agua
 
 Para los efectos del presente decreto se tendrán en cuenta los siguientes usos del agua:
@@ -20063,8 +18350,6 @@ PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible podrá definir nu
 
 (Decreto 3930 de 2010, art. 9).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2 — Uso para consumo humano y doméstico
 
 Se entiende por uso del agua para consumo humano y doméstico su utilización en actividades tales como:
@@ -20077,15 +18362,11 @@ Se entiende por uso del agua para consumo humano y doméstico su utilización en
 
 (Decreto 3930 de 2010, art. 10).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.3 — Uso para la preservación de flora y fauna
 
 Se entiende por uso del agua para preservación de flora y fauna, su utilización en actividades destinadas a mantener la vida natural de los ecosistemas acuáticos y terrestres y de sus ecosistemas asociados, sin causar alteraciones sensibles en ellos.
 
 (Decreto 3930 de 2010, art. 11).
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.4 — Uso para pesca, maricultura y acuicultura
 
@@ -20093,23 +18374,17 @@ Se entiende por uso para pesca, maricultura y acuicultura su utilización en act
 
 (Decreto 3930 de 2010, art. 12).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.5 — Uso agrícola
 
 Se entiende por uso agrícola del agua, su utilización para irrigación de cultivos y otras actividades conexas o complementarias.
 
 (Decreto 3930 de 2010, art. 13).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.6 — Uso pecuario
 
 Se entiende por uso pecuario del agua, su utilización para el consumo del ganado en sus diferentes especies y demás animales, así como para otras actividades conexas y complementarias.
 
 (Decreto 3930 de 2010, art. 14).
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.7 — Uso recreativo
 
@@ -20120,8 +18395,6 @@ Se entiende por uso del agua para fines recreativos, su utilización, cuando se 
 2. Contacto secundario, como en los deportes náuticos y la pesca.
 
 (Decreto 3930 de 2010, art. 15).
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.8 — Uso industrial
 
@@ -20141,15 +18414,11 @@ Se entiende por uso industrial del agua, su utilización en actividades tales co
 
 (Decreto 3930 de 2010, art. 16).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.9 — Navegación y transporte acuático
 
 Se entiende por uso del agua para transporte su utilización para la navegación de cualquier tipo de embarcación o para la movilización de materiales por contacto directo.
 
 (Decreto 3930 de 2010, art. 17).
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.10 — Uso estético
 
@@ -20161,23 +18430,17 @@ SECCIÓN 3.
 
 CRITERIOS DE CALIDAD PARA DESTINACIÓN DEL RECURSO
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.1 — Criterios de calidad
 
 Conjunto de parámetros y sus valores mediante los cuales se determina si un cuerpo de agua es apto para un uso específico.
 
 (Decreto 050 de 2018, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.2 — Competencia para definir los criterios de calidad del recurso hídrico
 
 El Ministerio de Ambiente y Desarrollo Sostenible definirá los criterios de calidad para el uso de las aguas superficiales, subterráneas y marinas.
 
 (Decreto 3930 de 2010, art. 20).
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.3 — Rigor subsidiario para definirlos criterios de calidad del recurso hídrico
 
@@ -20189,15 +18452,11 @@ El criterio de calidad adoptado en virtud del principio del rigor subsidiario po
 
 (Decreto 3930 de 2010, art. 21).
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.4 — Criterios de Calidad para usos múltiples
 
 En aquellos tramos del cuerpo de agua oacuífero en donde se asignen usos múltiples, los criterios de calidad para la destinación del recurso corresponderán a los valores más restrictivos de cada referencia.
 
 (Decreto 3930 de 2010, art. 22).
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.5 — Control de los criterios de calidad del recurso hídrico
 
@@ -20206,8 +18465,6 @@ La autoridad ambiental competente realizará el control de los criterios de cali
 (Decreto 3930 de 2010, art. 23).
 
 SECCIÓN 4.
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.1 — Sustancias de interés sanitario
 
@@ -20517,15 +18774,11 @@ PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible podrá considerar
 
 (Decreto 1594 de 1984, art. 20).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.2 — Usuario de interés sanitario
 
 Entiéndase por usuario de interés sanitario aquél cuyos vertimientos contengan las sustancias señaladas en el artículo anterior.
 
 (Decreto 1594 de 1984, art. 21).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.3 — Prohibiciones
 
@@ -20567,8 +18820,6 @@ No se admite vertimientos:
 
 (Decreto 050 de 2018, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4 — Actividades no permitidas
 
 No se permite el desarrollo de las siguientes actividades.
@@ -20581,15 +18832,11 @@ No se permite el desarrollo de las siguientes actividades.
 
 (Decreto 3930 de 2010, art. 25).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.5 — Requerimientos a puertos o terminales marítimos, fluviales o lacustres
 
 Los puertos deberán contar con un sistema de recolección y manejo para los residuos líquidos provenientes de embarcaciones, buques, naves y otros medios de transporte, así como el lavado de los mismos. Dichos sistemas deberán cumplir con las normas de vertimiento.
 
 (Decreto 3930 de 2010, art. 26).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.6 — De la reinyección de residuos líquidos
 
@@ -20598,8 +18845,6 @@ Solo se permite la reinyección de las aguas provenientes de la exploración y e
 El Estudio de Impacto Ambiental requerido para el otorgamiento de la licencia ambiental para las actividades de exploración y explotación petrolífera, de gas y de recursos geotérmicos, cuando a ello hubiere lugar, deberá evaluar la reinyección de las aguas provenientes de estas actividades, previendo la posible afectación al uso actual y potencial de las aguas subterráneas contenidas en el acuífero
 
 (Decreto 3930 de 2010, art. 27; Modificado por el Decreto 50 de 2018, art. 11).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.7 — Fijación de la norma de vertimiento
 
@@ -20611,8 +18856,6 @@ Igualmente, el Ministerio de Ambiente y Desarrollo Sostenible deberá establecer
 
 (Decreto 3930 de 2010, art. 28, modificado por el Decreto 4728 de 2010, art. 1).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.8 — Rigor subsidiario de la norma de vertimiento
 
 La autoridad ambiental competente, podrá fijar valores más restrictivos a la norma de vertimiento que deben cumplir los vertimientos al cuerpo de agua o al suelo.
@@ -20622,8 +18865,6 @@ Así mismo, la autoridad ambiental competente podrá exigir valores más restric
 PARÁGRAFO . En el cuerpo de agua y/o tramo del mismo o en acuíferos en donde se asignen usos múltiples, los límites a que hace referencia el presente Artículo, se establecerán teniendo en cuenta los valores más restrictivos de cada uno de los parámetros fijados para cada uso.
 
 (Decreto 3930 de 2010, art. 29; Modificado por el Decreto 50 de 2018, art. 12).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.9 — Del vertimiento al suelo
 
@@ -20705,15 +18946,11 @@ Los proyectos obras o actividades que iniciaron los trámites para la obtención
 
 (Decreto 050 de 2018, art. 6).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.10 — Soluciones individuales de saneamiento
 
 Toda edificación, concentración de edificaciones o desarrollo urbanístico, turístico o industrial, localizado fuera del área de cobertura del sistema de alcantarillado público, deberá dotarse de sistemas de recolección y tratamiento de residuos líquidos y deberá contar con el respectivo permiso de vertimiento.
 
 (Decreto 3930 de 2010, art. 31).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.11 — Control de vertimientos para ampliaciones y modificaciones
 
@@ -20723,15 +18960,11 @@ Toda ampliación o modificación del proceso o de la infraestructura física, de
 
 (Decreto 3930 de 2010, art. 32).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.12 — Reubicación de instalaciones
 
 Los usuarios que no dispongan de área apropiada para la construcción de sistemas de control de contaminación y/o que no cumplan con las normas de vertimiento, deberán reubicar sus instalaciones, cuando quiera que no puedan por otro medio garantizar la adecuada disposición de sus vertimientos.
 
 (Decreto 3930 de 2010, art. 33).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.13 — Protocolo para el Monitoreo de los Vertimientos en Aguas Superficiales, Subterráneas
 
@@ -20740,8 +18973,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible expedirá el Protocolo de moni
 PARÁGRAFO . Mientras el Ministerio de Ambiente y Desarrollo Sostenible adopta el Protocolo para el Monitoreo de los Vertimientos en Aguas Superficiales y Subterráneas, se seguirán los procedimientos establecidos en la Guía para el Monitoreo de Vertimientos, Aguas Superficiales y Subterráneas del Instituto de Hidrología, Meteorología y Estudios Ambientales - Ideam.
 
 (Decreto 3930 de 2010, art. 34, modificado por el Decreto 4728 de 2010, art. 2; Modificado por el Decreto 50 de 2018, artículos. 13. 14).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.14 — Plan de Contingencia para el Manejo de Derrames Hidrocarburos o Sustancias Nocivas
 
@@ -20763,8 +18994,6 @@ Los trámites administrativos en curso en los cuales se haya solicitado la aprob
 
 (Decreto 050 de 2018, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.15 — Suspensión de actividades
 
 En caso de presentarse fallas en los sistemas de tratamiento, labores de mantenimiento preventivo o correctivo o emergencias o accidentes que limiten o impidan el cumplimiento de la norma de vertimiento, de inmediato el responsable de la actividad industrial, comercial o de servicios que genere vertimientos a un cuerpo de agua o al suelo, deberá suspender las actividades que generan el vertimiento, exceptuando aquellas directamente asociadas con la generación de aguas residuales domésticas.
@@ -20773,15 +19002,11 @@ Si su reparación y reinicio requiere de un lapso de tiempo superior a tres (3) 
 
 (Decreto 3930 de 2010, art. 36).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.16 — Registro de actividades de mantenimiento
 
 Las actividades de mantenimiento preventivo o correctivo quedarán registradas en la minuta u hoja de vida del sistema de pretratamiento o tratamiento de aguas residuales del generador que desarrolle actividades industriales, comerciales o de servicios que generen vertimientos a un cuerpo de agua o al suelo, documento que podrá ser objeto de seguimiento, vigilancia y control por parte de la autoridad ambiental competente.
 
 (Decreto 3930 de 2010, art. 37).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.17 — Obligación de los suscriptores y/o usuarios del prestador del servicio público domiciliario de alcantarillado
 
@@ -20792,8 +19017,6 @@ Los suscriptores y/o usuarios previstos en el inciso anterior, deberán presenta
 Los usuarios y/o suscriptores del prestador del servicio público domiciliario de alcantarillado, deberán dar aviso a la entidad encargada de la operación de la planta tratamiento de residuos líquidos, cuando con un vertimiento ocasional o accidental puedan perjudicar su operación.
 
 (Decreto 3930 de 2010, art. 38; Modificado por el Decreto 50 de 2018, art. 13).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.18 — Responsabilidad del prestador del servicio público domiciliario de alcantarillado
 
@@ -20808,8 +19031,6 @@ PARÁGRAFO . El prestador del servicio público domiciliario del alcantarillado 
 El Ministerio de Ambiente y Desarrollo Sostenible expedirá el formato para la presentación de la información requerida en el presente parágrafo.
 
 (Decreto 3930 de 2010, art. 39).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.19 — Control de contaminación por agroquímicos
 
@@ -20827,15 +19048,11 @@ SECCIÓN 5.
 
 DE LA OBTENCIÓN DE LOS PERMISOS DE VERTIMIENTO Y PLANES DE CUMPLIMIENTO
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.1 — Requerimiento de permiso de vertimiento
 
 Toda persona natural o jurídica cuya actividad o servicio genere vertimientos a las aguas superficiales, marinas, o al suelo, deberá solicitar y tramitar ante la autoridad ambiental competente, el respectivo permiso de vertimientos.
 
 (Decreto 3930 de 2010, art. 41).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.2 — Requisitos del permiso de vertimientos
 
@@ -20903,8 +19120,6 @@ PARÁGRAFO 4. Los planos a que se refiere el presente artículo deberán present
 
 (Decreto 3930 de 2010, art. 42; Modificado por el Decreto 50 de 2018, art. 13).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.3 — Evaluación ambiental del vertimiento
 
 La evaluación ambiental del vertimiento deberá ser presentada por los generadores de vertimientos a cuerpos de aguas o al suelo que desarrollen actividades industriales, comerciales y/o de servicio, así como los provenientes de conjuntos residenciales y deberá contener como mínimo:
@@ -20937,8 +19152,6 @@ PARÁGRAFO 3. En los estudios ambientales de los proyectos, obras o actividades 
 
 (Decreto 050 de 2018, art. 9).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.4 — Plan de gestión del riesgo para el manejo de vertimientos
 
 Las personas naturales o jurídicas de derecho público o privado que desarrollen actividades industriales, comerciales y de servicios que generen vertimientos a un cuerpo de agua o al suelo deberán elaborar un Plan de Gestión del Riesgo para el Manejo de Vertimientos en situaciones que limiten o impidan el tratamiento del vertimiento. Dicho plan debe incluir el análisis del riesgo, medidas de prevención y mitigación, protocolos de emergencia y contingencia y programa de rehabilitación y recuperación.
@@ -20946,8 +19159,6 @@ Las personas naturales o jurídicas de derecho público o privado que desarrolle
 PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible mediante acto administrativo, adoptará los términos de referencia para la elaboración de este plan.
 
 (Decreto 3930 de 2010, art. 44).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.5 — Procedimiento para la obtención del permiso de vertimientos
 
@@ -20974,8 +19185,6 @@ PARÁGRAFO 2. Al efectuar el cobro del servicio de evaluación, la autoridad amb
 PARÁGRAFO 3. Las audiencias públicas que se soliciten en el trámite de un permiso de vertimiento se realizaran conforme a lo previsto en el capítulo 4 del título 2, parte 2, libro 2 del presente Decreto o la norma que lo adicione, modifique o sustituya.
 
 (Decreto 3930 de 2010, art. 45).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.6 — Estudio de la solicitud
 
@@ -21023,8 +19232,6 @@ PARÁGRAFO 2. Tratándose de vertimientos a cuerpos de aguas superficiales se de
 
 (Decreto 050 de 2018, art. 10).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.7 — Otorgamiento del permiso de vertimiento
 
 La autoridad ambiental competente, con fundamento en la clasificación de aguas, en la evaluación de la información aportada por el solicitante, en los hechos y circunstancias deducidos de las visitas técnicas practicadas y en el informe técnico, otorgará o negará el permiso de vertimiento mediante resolución.
@@ -21032,8 +19239,6 @@ La autoridad ambiental competente, con fundamento en la clasificación de aguas,
 El permiso de vertimiento se otorgará por un término no mayor a diez (10) años.
 
 (Decreto 3930 de 2010, art. 47).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.8 — Contenido del permiso de vertimiento
 
@@ -21081,8 +19286,6 @@ PARÁGRAFO 3. Cuando el permiso de vertimiento se haya otorgado con base en una 
 
 (Decreto 3930 de 2010, art. 48).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.9 — Modificación del permiso de vertimiento
 
 Cuando quiera que se presenten modificaciones o cambios en las condiciones bajo las cuales se otorgó el permiso, el usuario deberá dar aviso de inmediato y por escrito a la autoridad ambiental competente y solicitar la modificación del permiso, indicando en qué consiste la modificación o cambio y anexando la información pertinente.
@@ -21093,8 +19296,6 @@ El trámite de la modificación del permiso de vertimiento se regirá por el pro
 
 (Decreto 3930 de 2010, art. 49).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.10 — Renovación del permiso de vertimiento
 
 Las solicitudes para renovación del permiso de vertimiento deberán ser presentadas ante la autoridad ambiental competente, dentro del primer trimestre del último año de vigencia del permiso. El trámite correspondiente se adelantará antes de que se produzca el vencimiento del permiso respectivo.
@@ -21103,15 +19304,11 @@ Para la renovación del permiso de vertimiento se deberá observar el trámite p
 
 (Decreto 3930 de 2010, art. 50).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.11 — Revisión
 
 Los permisos de vertimiento deberán revisarse, y de ser el caso ajustarse, de conformidad con lo dispuesto en el Plan de Ordenamiento del Recurso Hídrico y/o en la reglamentación de vertimientos.
 
 (Decreto 3930 de 2010, art. 51).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.12 — Requerimiento del Plan de Cumplimiento
 
@@ -21127,8 +19324,6 @@ PARÁGRAFO 2. Los prestadores del servicio público domiciliario de alcantarilla
 
 (Decreto 3930 de 2010, art. 52, modificado por el Decreto 4728 de 2010, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.13 — Etapas de los Planes de Cumplimiento
 
 En los planes de cumplimiento se exigirá el desarrollo de las siguientes etapas:
@@ -21141,15 +19336,11 @@ En los planes de cumplimiento se exigirá el desarrollo de las siguientes etapas
 
 (Decreto 3930 de 2010, art. 53).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.14 — Plazos para la presentación de los Planes de Cumplimiento
 
 Los generadores de vertimientos que no tengan permiso de vertimiento y que estén cumpliendo con la normatividad vigente en la materia antes del 25 octubre de 2010, tendrán un plazo de hasta ocho (8) meses, contados a partir de dicha fecha para efectuar la legalización del mismo, sin perjuicio de las sanciones a las que haya lugar.
 
 Los generadores de vertimientos que no tengan permiso de vertimiento y que no estén cumpliendo con la normatividad vigente en la materia antes del 25 octubre de 2010, tendrán un plazo de hasta ocho (8) meses, contados a partir de dicha fecha, para presentar ante la autoridad ambiental competente, el Plan de Cumplimiento, sin perjuicio de las sanciones a las que haya lugar.
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.15 — Plazos para el desarrollo de los Planes de Cumplimiento
 
@@ -21163,8 +19354,6 @@ Los plazos que podrán concederse para el desarrollo de planes de cumplimiento, 
 
 (Decreto 3930 de 2010, art. 55).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.16 — Aprobación del Plan de Cumplimiento
 
 La autoridad ambiental competente tendrá un plazo de tres (3) meses, contados a partir de la radicación del Plan de Cumplimiento para pronunciarse sobre su aprobación.
@@ -21175,15 +19364,11 @@ Cuando la autoridad ambiental competente no apruebe el Plan de Cumplimiento, se 
 
 (Decreto 3930 de 2010, art. 56).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.17 — Revisión
 
 Los planes de cumplimiento deberán revisarse, y de ser el caso ajustarse de conformidad con lo dispuesto en el Plan de Ordenamiento del Recurso Hídrico y/o en la reglamentación de vertimientos.
 
 (Decreto 3930 de 2010, art. 57).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.18 — .18
 
@@ -21197,15 +19382,11 @@ PARÁGRAFO . Al efectuar el cobro de seguimiento, la autoridad ambiental compete
 
 (Decreto 3930 de 2010, art. 58).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.19 — Sanciones
 
 El incumplimiento de los términos, condiciones y obligaciones previstos en el permiso de vertimiento, Plan de Cumplimiento o Plan de Saneamiento y Manejo de Vertimientos, dará lugar a la imposición de las medidas preventivas y sancionatorias, siguiendo el procedimiento previsto en la Ley 1333 de 2009 o la norma que la adicione, modifique o sustituya.
 
 (Decreto 3930 de 2010, art. 59).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.20 — Disposición de residuos líquidos provenientes de terceros
 
@@ -21217,8 +19398,6 @@ SECCIÓN 6
 
 PLANES DE RECONVENCIÓN A TECNOLOGÍAS LIMPIAS EN GESTIÓN DE VERTIMIENTOS
 
-ARTÍCULO
-
 ## art:2.2.3.3.6.1 — De la procedencia del Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos
 
 Los generadores de vertimientos que a la entrada en vigencia de las normas de vertimiento a que hace referencia el artículo 2.2.3.3.4.7 del presente decreto, sean titulares de un permiso de vertimiento expedido con base en la norma vigente antes del 25 de octubre de 2010, podrán optar por la ejecución de un Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos.
@@ -21226,8 +19405,6 @@ Los generadores de vertimientos que a la entrada en vigencia de las normas de ve
 En este evento, el Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos deberá ser presentado ante la autoridad ambiental competente dentro del primer año del plazo previsto en el artículo 2.2.3.3.11.1 de este decreto
 
 (Modificado por el Decreto 1956 de 2015, Art. 8).
-
-ARTÍCULO
 
 ## art:2.2.3.3.6.2 — Del Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos
 
@@ -21240,8 +19417,6 @@ Mecanismo que promueve la reconversión tecnológica de los procesos productivos
 PARÁGRAFO . El Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos es parte integral del permiso de vertimientos y en consecuencia el mismo deberá ser modificado incluyendo el Plan.
 
 (Decreto 3930 de 2010, art. 62).
-
-ARTÍCULO
 
 ## art:2.2.3.3.6.3 — Contenido del Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos
 
@@ -21273,8 +19448,6 @@ PARÁGRAFO . Los generadores de vertimientos deberán presentar la caracterizaci
 
 (Decreto 3930 de 2010, art. 63).
 
-ARTÍCULO
-
 ## art:2.2.3.3.6.4 — 6.4
 
 Fijación de plazos para la presentación y aprobación de los Planes de Reconversión a Tecnologías Limpias en Gestión de Vertimientos. Los generadores de vertimientos que desarrollen actividades industriales, comerciales o de servicios previstos en el artículo 2.2.3.3.6.1 del presente decreto, tendrán un plazo de un (1) año para presentar ante la autoridad ambiental competente el Plan de Reconversión a Tecnologías Limpias en Gestión de Vertimientos. Este plazo se contará a partir de la fecha de publicación del acto administrativo mediante el cual se fijan las respectivas normas de vertimiento por parte del Ministerio de Ambiente y Desarrollo Sostenible.
@@ -21293,8 +19466,6 @@ SECCIÓN 7.
 
 REGLAMENTACIÓN DE VERTIMIENTOS.
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.1 — Procedencia de la reglamentación de vertimientos
 
 La autoridad ambiental competente con el fin de obtener un mejor control de la calidad de los cuerpos de agua, podrá reglamentar, de oficio o a petición de parte, los vertimientos que se realicen en estos, de acuerdo con los resultados obtenidos en el Plan de Ordenamiento del Recurso Hídrico.
@@ -21307,8 +19478,6 @@ En dicha resolución se especificará, la fecha lugar y hora de las visitas téc
 
 (Decreto 3930 de 2010, art. 65).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.2 — Publicidad del acto que ordena la reglamentación
 
 Con el fin de poner en conocimiento de los interesados la resolución mediante la cual se ordena la reglamentación de vertimientos, la autoridad ambiental competente, dentro de los cinco (5) días hábiles siguientes a la publicación de la resolución, procederá a:
@@ -21319,15 +19488,11 @@ Con el fin de poner en conocimiento de los interesados la resolución mediante l
 
 (Decreto 3930 de 2010, art. 66).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.3 — Efectos de la orden de reglamentar los vertimientos
 
 Los permisos de vertimiento que se otorguen durante el proceso de reglamentación previsto en el presente capítulo, deberán revisarse por parte de la autoridad ambiental competente como resultado de dicho proceso.
 
 (Decreto 3930 de 2010, art. 67).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.4 — De la visita técnica y estudio de reglamentación de vertimientos
 
@@ -21347,8 +19512,6 @@ La visita técnica y los estudios para la reglamentación de vertimientos, compr
 
 (Decreto 3930 de 2010, art. 68).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.5 — Proyecto de reglamentación de vertimientos
 
 La autoridad ambiental competente, elaborará el proyecto de reglamentación de vertimientos, dentro de los seis (6) meses siguientes contados a partir de la realización de las visitas técnicas y el estudio a que se refiere el artículo anterior.
@@ -21359,15 +19522,11 @@ Finalizado el plazo anterior, los interesados dispondrán de un plazo de veinte 
 
 (Decreto 3930 de 2010, art. 69).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.6 — Objeciones al proyecto de reglamentación de vertimientos
 
 Una vez expirado el término de objeciones la autoridad ambiental competente, procederá a estudiarlas dentro un término no superior a sesenta (60) días hábiles, en caso de que sean conducentes ordenará las diligencias pertinentes.
 
 (Decreto 3930 de 2010, art. 70).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.7 — Decisión sobre la reglamentación de los vertimientos
 
@@ -21377,15 +19536,11 @@ La reglamentación de vertimientos afecta los permisos existentes, es de aplicac
 
 (Decreto 3930 de 2010, art. 71).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.8 — De la aprobación de los sistemas de tratamiento en los procesos de reglamentación de vertimientos
 
 La autoridad ambiental competente requerirá en la resolución de reglamentación de vertimientos a los beneficiarios de la misma, la presentación de la información relacionada con la descripción de la operación del sistema, memorias técnicas y diseños de ingeniería conceptual y básica, planos de detalle del sistema de tratamiento y condiciones de eficiencia del sistema de tratamiento y señalará el plazo para su presentación.
 
 (Decreto 3930 de 2010, art. 72).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.9 — Revisión de la reglamentación de vertimientos
 
@@ -21397,8 +19552,6 @@ Cuando quiera que la revisión de la reglamentación implique la modificación d
 
 SECCIÓN 8.
 
-ARTÍCULO
-
 ## art:2.2.3.3.8.1 — Registro de los permisos de vertimiento
 
 De conformidad con lo dispuesto en el artículo 64 del Decreto 2811 de 197 4, la autoridad ambiental competente deberá llevar el registro discriminado y pormenorizado de los permisos de vertimiento otorgados, Planes de Cumplimiento y Planes de Saneamiento y Manejo de Vertimientos.
@@ -21409,8 +19562,6 @@ SECCIÓN 9.
 
 DISPOSICIONES TRANSITORIAS
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.1 — Régimen de transición
 
 El Ministerio de Ambiente y Desarrollo Sostenible fijará mediante resolución, los usos del agua, criterios de calidad para cada uso, las normas de vertimiento a los cuerpos de agua, aguas marinas, alcantarillados públicos y al suelo y el Protocolo de monitoreo de vertimientos.
@@ -21419,15 +19570,11 @@ Mientras el Ministerio de Ambiente y Desarrollo Sostenible expide las regulacion
 
 (Decreto 3930 de 2010, art. 76; Modificado por el Decreto 50 de 2018, art. 13).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.2 — TRANSITORIO
 
 Unidades. Los valores asignados a las referencias indicadas en la presente sección se entenderán expresados en miligramos por litro, mg/1, excepto cuando se indiquen otras unidades.
 
 (Decreto 1594 de 1984, art. 37).
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.3 — TRANSITORIO
 
@@ -21557,8 +19704,6 @@ PARÁGRAFO 2. No se aceptará película visible de grasas y aceites flotantes, m
 
 (Decreto 1594 de 1984, art. 38).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.4 — TRANSITORIO
 
 Desinfección y criterios de calidad para consumo humano y doméstico. Los criterios de calidad admisibles para la destinación del recurso para consumo humano y doméstico son los que se relacionan a continuación, e indican que para su potabilización se requiere sólo desinfección:
@@ -21683,8 +19828,6 @@ PARÁGRAFO . No se aceptará película visible de grasas y aceites flotantes, ma
 
 (Decreto 1594 de 1984, art. 39).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.5 — TRANSITORIO
 
 Criterios de calidad para uso agrícola. Los criterios de calidad admisibles para la destinación del recurso para uso agrícola son los siguientes:
@@ -21793,8 +19936,6 @@ f) Radionucleídos.
 
 (Decreto 1594 de 1984, art. 40).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.6 — TRANSITORIO
 
 Criterios de calidad para uso pecuario. Los criterios de calidad admisibles para la destinación del recurso para uso pecuario, son los siguientes:
@@ -21865,8 +20006,6 @@ Peso total
 
 (Decreto 1594 de 1984, art. 41).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.7 — TRANSITORIO
 
 Criterios de calidad para fines recreativos mediante contacto primario. Los criterios de calidad admisibles para la destinación del recurso para fines recreativos mediante contacto primario, son los siguientes:
@@ -21907,8 +20046,6 @@ PARÁGRAFO 2. El nitrógeno y el fósforo deberán estar en proporción que no o
 
 (Decreto 1594 de 1984, art. 42).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.8 — TRANSITORIO
 
 Criterios de calidad para fines recreativos mediante contacto secundario. Los criterios de calidad admisibles para la destinación del recurso para fines recreativos mediante contacto secundario, serán los siguientes:
@@ -21939,8 +20076,6 @@ PARÁGRAFO . Además de los criterios del presente artículo, se tendrán en cue
 
 (Decreto 1594 de 1984, art. 43).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.9 — TRANSITORIO
 
 Criterios de calidad para uso estético. Los criterios de calidad admisibles para la destinación del recurso para uso estético son los siguientes:
@@ -21952,8 +20087,6 @@ Criterios de calidad para uso estético. Los criterios de calidad admisibles par
 3) Ausencia de sustancias que produzcan olor.
 
 (Decreto 1594 de 1984, art. 44).
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.10 — TRANSITORIO Criterios de calidad para preservación de flora y fauna
 
@@ -22495,23 +20628,17 @@ PARÁGRAFO . Como criterios adicionales de calidad para los usos de que trata el
 
 (Decreto 1594 de 1984, art. 45)
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.11 — TRANSITORIO
 
 Bioensayos y NMP de coliformes totales. Corresponde a la Autoridad ambiental competente la realización de bioensayos que permitan establecer los valores de la CL9650 de los parámetros contemplados en el artículo anterior, como también el establecimiento del NMP de coliformes totales para acuacultura y los valores para temperaturas según las diversas situaciones.
 
 (Decreto 1594 de 1984, art. 46).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.12 — TRANSITORIO
 
 Usos referentes a transporte, dilución y asimilación. Para los usos referentes a transporte, dilución y asimilación no se establecen criterios de calidad, sin perjuicio del control de vertimientos correspondiente.
 
 (Decreto 1594 de 1984, art. 47).
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.13 — TRANSITORIO
 
@@ -22520,8 +20647,6 @@ Uso industrial. Para el uso industrial, no se establecen criterios de calidad, c
 PARÁGRAFO . Los criterios de calidad a que hace referencia el presente artículo se aplicarán únicamente cuando haya contacto directo.
 
 (Decreto 1594 de 1984, art. 48)
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.14 — TRANSITORIO
 
@@ -22581,8 +20706,6 @@ Carga máxima permisible (CMP), de acuerdo con lo establecido en los artículos
 
 (Decreto 1594 de 1984, art. 72).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.15 — TRANSITORIO Vertimiento al alcantarillado público y exigencias mínimas
 
 Todo vertimiento a un alcantarillado público deberá cumplir, por lo menos, con las siguientes normas:
@@ -22640,8 +20763,6 @@ Caudal máximo
 Carga máxima permisible (CMP) de acuerdo a lo establecido en los artículos 2.2.3.3.9.16 y 2.2.3.3.9.17 del presente Decreto.
 
 (Decreto 1594 de 1984, art. 73)
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.16 — TRANSITORIO
 
@@ -22775,8 +20896,6 @@ PARÁGRAFO . Cuando los usuarios, aun cumpliendo con las normas de vertimiento, 
 
 (Decreto 1594de 1984, art. 74).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.17 — TRANSITORIO
 
 Cálculo de la carga de control. La carga de control de un vertimiento que contenga las sustancias de que trata el artículo anterior, se calculará mediante la aplicación de las siguientes ecuaciones:
@@ -22803,15 +20922,11 @@ PARÁGRAFO 2. La carga máxima permisible (CMP) será el menor de los valores en
 
 (Decreto 1594 de 1984, art. 75).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.18 — TRANSITORIO
 
 Diferencia de cargas. Cuando la carga real en el vertimiento sea mayor que la carga máxima permisible (CMP), aquella se deberá reducir en condiciones que no sobrepase la carga máxima permisible.
 
 (Decreto 1594 de 1984, art. 76).
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.19 — TRANSITORIO
 
@@ -22819,15 +20934,11 @@ Reducción del caudal promedio del vertimiento. Cuando el caudal promedio del ve
 
 (Decreto 1594 de 1984, art. 77).
 
-ARTÍCULO
-
 ## art:2.2.3.3.9.20 — TRANSITORIO
 
 Control. El control del pH, temperatura (T), material flotante, sólidos sedimentables, caudal y sustancias solubles en hexano, en el vertimiento, se hará con base en unidades y en concentración. El de los sólidos suspendidos y el de la demanda bioquímica de oxígeno con base en la carga máxima permisible (CMP), de acuerdo con las regulaciones que para tal efecto sean expedidas.
 
 (Decreto 1594 de 1984, art. 78).
-
-ARTÍCULO
 
 ## art:2.2.3.3.9.21 — TRANSITORIO
 
@@ -22840,8 +20951,6 @@ Cálculos. Las normas de vertimiento correspondientes a las ampliaciones que hag
 SECCIÓN 10
 
 NORMAS TRANSITORIAS RESPECTO DE MÉTODOS DE ANÁLISIS Y DE LA TOMA DE MUESTRAS
-
-ARTÍCULO
 
 ## art:2.2.3.3.10.1 — TRANSITORIO
 
@@ -23097,8 +21206,6 @@ PARÁGRAFO . El IDEAM por razones de innovaciones en tecnología o como resultad
 
 (Decreto 1594 de 1984, art. 155; Decreto 1600 de 1994, art. 5)".
 
-ARTÍCULO
-
 ## art:2.2.3.3.10.2 — TRANSITORIO
 
 Sistemas para bioensayos acuáticos. La autoridad ambiental competente establecerá los procedimientos de conducción de bioensayos acuáticos en lo referente a técnicas de muestreo y métodos de análisis. Los sistemas utilizados para bioensayos acuáticos pueden ser, entre otros, los siguientes:
@@ -23109,23 +21216,17 @@ b) De flujo continuo.
 
 (Decreto 1594 de 1984, art. 156).
 
-ARTÍCULO
-
 ## art:2.2.3.3.10.3 — TRANSITORIO
 
 Preservación de muestras. El Ministerio de Salud y Protección Social establecerá para cada referencia los requisitos mínimos para la preservación de las muestras.
 
 (Decreto 1594 de 1984, art. 158).
 
-ARTÍCULO
-
 ## art:2.2.3.3.10.4 — TRANSITORIO
 
 Toma de muestras. La toma de muestras se hará de tal manera que se obtenga una caracterización representativa de los vertimientos y del cuerpo receptor, para lo cual el Ministerio de Salud o la autoridad ambiental competente o la entidad que haga sus veces determinarán el sitio o sitios y demás condiciones técnicas.
 
 (Decreto 1594 de 1984, art. 160).
-
-ARTÍCULO
 
 ## art:2.2.3.3.10.5 — TRANSITORIO
 
@@ -23136,8 +21237,6 @@ Toma de muestras y calidad del recurso. La toma de muestras para determinar la c
 SECCIÓN 11
 
 NORMAS TRANSITORIAS EN MATERIA DE VERTIMIENTO
-
-ARTÍCULO
 
 ## art:2.2.3.3.11.1 — Régimen de transición para la aplicación de las normas de vertimiento
 
@@ -23152,8 +21251,6 @@ En caso de optar por un Plan de Reconversión a Tecnología Limpia en Gestión d
 En caso de optar por un Plan de Reconversión a Tecnología Limpia en Gestión de Vertimientos, el plazo de que trata el presente numeral se ampliará en dos (2) años.
 
 (Decreto 3930 de 2010, art. 77, modificado por el Decreto 4728 de 2010, art. 7).
-
-ARTÍCULO
 
 ## art:2.2.3.3.11.2 — Ajuste de los Planes de Cumplimiento
 
@@ -23207,15 +21304,11 @@ En todo caso, el suministro de aguas estará sujeto a la disponibilidad del recu
 
 (Decreto 1541 de 1978, art. 257).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.2 — Suministro de información
 
 Las entidades del orden nacional departamental, regional o municipal que utilicen aguas públicas o sus cauces, deberán suministrar la información que se les solicite sobre destinaciones o uso, distribución y demás datos que sean necesarios para el registro y censo, así como para el levantamiento de inventarios y la representación cartográfica.
 
 (Decreto 1541 de 1978, art. 258).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.3 — Organización del registro
 
@@ -23223,15 +21316,11 @@ El registro será organizado por cuencas hidrográficas, subcuencas o sectores d
 
 (Decreto 1541 de 1978, art. 259).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.4 — Archivo de los planos
 
 Anexo al registro se llevará un archivo de los planos a que se refiere el artículo 2.2.3.4.1.1, letra f) de este Decreto.
 
 (Decreto 1541 de 1978, art. 260).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.5 — Declaración
 
@@ -23249,8 +21338,6 @@ e. Plano de las obras de captación, derivación y uso, que deberá ser aprobado
 
 (Decreto 1541 de 1978, art. 261).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.6 — 1.6
 
 Plazos., La autoridad ambiental competente fijará los plazos dentro de los cuales los usuarios deben suministrar los datos necesarios con destino al registro y censo establecidos en este Capítulo.
@@ -23261,8 +21348,6 @@ Los ingenieros, geólogos, hidrólogos y otros profesionales vinculados a la exp
 
 (Decreto 1541 de 1978, art. 262).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.8 — 1.8
 
 Componente de concesión de aguas, componente de autorizaciones de vertimientos y componente de uso de agua para consumo humano y doméstico en viviendas rurales dispersas y aguas residuales domésticas provenientes de soluciones individuales de saneamiento básico de viviendas rurales dispersas. El Registro de Usuarios del Recurso Hídrico para los citados componentes se regirá por lo dispuesto en los artículos 2.2.3.4.1.9. al 2.2.3.4.1.14. de dicha sección.
@@ -23270,8 +21355,6 @@ Componente de concesión de aguas, componente de autorizaciones de vertimientos 
 (Modificado por el Art. 2 del Decreto 1210 de 2020)
 
 (Decreto 303 de 2012, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.9 — Diligenciamiento de formato
 
@@ -23293,15 +21376,11 @@ Así mismo, los usuarios del recurso hídrico podrán realizar vertimientos de s
 
 (Decreto 303 de 2012, art. 2).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.10 — Del Formato de Registro
 
 Para el Registro de Usuarios del Recurso Hídrico a que hace referencia el presente decreto, la autoridad ambiental competente utilizará el formato con su respectivo instructivo, que para tal fin adopte el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 303 de 2012, art. 3).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.11 — Plazo
 
@@ -23315,23 +21394,17 @@ La autoridad ambiental competente inscribirá en el Registro de Usuarios del Rec
 
 (Decreto 303 de 2012 art. 4).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.12 — Reporte de Información
 
 La autoridad ambiental competente, deberá reportar al Instituto de Hidrología, Meteorología y Estudios Ambientales -Ideam, dentro de los cinco (5) primeros días hábiles de cada mes, la información actualizada del Registro de Usuarios del Recurso Hídrico.
 
 (Decreto 303 de 2012, art. 5).
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.13 — Consolidación de la Información
 
 La información reportada por las autoridades ambientales competentes, alimentará las correspondientes áreas temáticas del Sistema de Información del Recurso Hídrico - SIRH, de conformidad con lo estipulado en el presente decreto y deberá ser consolidada a nivel nacional por el Instituto de Hidrología, Meteorología y Estudios Ambientales -Ideam.
 
 (Decreto 303 de 2012, art. 6).
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.14 — Operación del Registro de Usuarios del Recurso Hídrico
 
@@ -23345,8 +21418,6 @@ SISTEMA DE INFORMACIÓN DEL RECURSO HÍDRICO
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.1 — Sistema de Información del Recurso Hídrico, SIRH
 
 Créase el Sistema de Información del Recurso Hídrico, SIRH como parte del Sistema de Información Ambiental para Colombia, SIAC.
@@ -23355,15 +21426,11 @@ El SIRH promoverá la integración de otros sistemas que gestionen información 
 
 (Decreto 1323 de 2007, art. 1).
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.2 — Definición
 
 El Sistema de Información del Recurso Hídrico, SIRH, es el conjunto que integra y estandariza el acopio, registro, manejo y consulta de datos, bases de datos, estadísticas, sistemas, modelos, información documental y bibliográfica, reglamentos y protocolos que facilita la gestión integral del recurso hídrico.
 
 (Decreto 1323 de 2007, art. 2).
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.3 — Alcance
 
@@ -23374,8 +21441,6 @@ a) La cantidad de agua de los cuerpos hídricos del país que comprenden las agu
 b) La calidad de los cuerpos hídricos del país que comprenden las aguas superficiales, las aguas subterráneas, las aguas marinas y las aguas estuarinas.
 
 (Decreto 1323 de 2007, art. 3).
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.4 — Objetivos
 
@@ -23399,8 +21464,6 @@ h) Aportar información que permita el análisis y la gestión de los riesgos as
 
 (Decreto 1323 de 2007, art. 4).
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.5 — Áreas temáticas
 
 Las áreas temáticas del Sistema de Información del Recurso Hídrico, SIRH, son la disponibilidad hídrica, calidad hídrica, estado actual del recurso hídrico y gestión integral del recurso hídrico. Estas áreas estarán conformadas así:
@@ -23415,8 +21478,6 @@ d) Gestión integral del recurso hídrico: Contendrá indicadores de gestión qu
 
 (Decreto 1323 de 2007, art. 5).
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.6 — 1.6
 
 Funciones del Ministerio de Ambiente y Desarrollo Sostenible - El Ministerio de Ambiente y Desarrollo Sostenible en el marco de sus competencias y como ente rector del SINA le corresponde:
@@ -23428,8 +21489,6 @@ b) Aprobar los procedimientos para el desarrollo y operación del SIRH que inclu
 c) Definir las demás orientaciones e instrumentos que sean necesarios para la adecuada implementación del SIRH.
 
 (Decreto 1323 de 2007, art. 6).
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.7 — Funciones del Ideam en el SIRH
 
@@ -23443,8 +21502,6 @@ c) Compilar la información a nivel nacional, la operación de la red básica na
 
 (Decreto 1323 de 2007, art. 7).
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.8 — Funciones del Invernaren el SIRH
 
 Al Invernar en el marco de sus competencias, le corresponde:
@@ -23457,15 +21514,11 @@ c) Apoyar a las autoridades ambientales regionales con competencia en aguas cost
 
 (Decreto 1323 de 2007, art. 8).
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.9 — Funciones de las Autoridades Ambientales Regionales y Urbanas en el SIRH
 
 Las Corporaciones Autónomas Regionales, las Corporaciones para el Desarrollo Sostenible, las Autoridades Ambientales de los Grandes Centros Urbanos, las creadas por el artículo 13 de la Ley 768 del 2002 Parques Nacionales Naturales de Colombia deberán realizar el monitoreo y seguimiento del recurso hídrico en el área de su jurisdicción, para lo cual deberán aplicar los protocolos y estándares establecidos en el SIRH.
 
 (Decreto 1323 de 2007, art. 9).
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.10 — Deberes de los titulares de licencias, permisos y concesiones en el SIRH
 
@@ -23474,8 +21527,6 @@ En los términos del artículo 23 del Decreto-ley 2811 de
 1974, los titulares de licencias, permisos o concesiones que autorizan el uso del recurso hídrico, están obligados a recopilar y a suministrar sin costo alguno la información sobre la utilización del mismo a las Autoridades Ambientales Competentes.
 
 (Decreto 1323 de 2007, art. 10).
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.11 — Implementación
 
@@ -23493,15 +21544,11 @@ DISPOSICIONES GENERALES
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.1 — Objeto y ámbito de aplicación
 
 El presente decreto tiene como objeto reglamentar las Unidades Ambientales Costeras (UAC) así como las comisiones conjuntas, establecer las reglas de procedimiento y los criterios para la restricción de ciertas actividades en pastos marinos.
 
 (Decreto 1120 de 2013, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.2 — Definiciones
 
@@ -23535,8 +21582,6 @@ SECCIÓN 1.
 
 DE LAS ZONAS COSTERAS
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1 — Tipos de zonas costeras
 
 La zona costera se clasifica en:
@@ -23569,8 +21614,6 @@ SECCIÓN 2.
 
 DE LAS UNIDADES AMBIENTALES COSTERAS (UAC).
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1 — Unidades Ambientales Costeras (UAC)
 
 Para la ordenación y manejo integrado de las zonas costeras, se delimitan las siguientes unidades ambientales costeras.
@@ -23601,8 +21644,6 @@ SECCIÓN 3.
 
 ORDENACIÓN Y MANEJO INTEGRADO DE LAS UNIDADES AMBIENTALES COSTERAS (UAC)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.1 — Plan de ordenación y manejo integrado de las unidades ambientales costeras (POMIUAC)
 
 Es el instrumento de planificación mediante el cual la Comisión Conjunta o la autoridad ambiental competente, según el caso, definen y orienta la ordenación y manejo ambiental de las unidades ambientales costeras.
@@ -23611,15 +21652,11 @@ El Pomiuac se constituye en norma de superior jerarquía y determinante ambienta
 
 (Decreto 1120 de 2013, art. 5).
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.2 — Articulación del Pomiuac con el Plan de ordenación y manejo de cuenca hidrográfica (POMCA)
 
 El Pomiuac suministrará insumos técnicos para la elaboración del Pomca. La ordenación y manejo de la cuenca en la zona costera se realizará hasta la subzona de bajamar o franja de transición, incluyéndola.
 
 (Decreto 1120 de 2013, art. 6).
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.3 — Fases del POMIUAC
 
@@ -23661,8 +21698,6 @@ PARÁGRAFO . Cada una de las fases de que trata el presente artículo se desarro
 
 (Decreto 1120 de 2013, art. 7).
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.4 — Adopción
 
 Los Pomiuac y sus respectivas modificaciones, serán adoptados por la comisión conjunta o las autoridades ambientales competentes, según el caso, previo concepto del Ministerio de Ambiente y Desarrollo Sostenible.
@@ -23674,8 +21709,6 @@ En los casos de Unidades Ambientales Costeras que no sean objeto de Comisión Co
 PARÁGRAFO .2. La modificación del Pomiuac se sujetará al procedimiento previsto para las fases de caracterización y diagnóstico, prospectiva y zonificación y formulación y adopción del Plan.
 
 (Decreto 1120 de 2013, art. 8).
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.5 — Participación
 
@@ -23689,15 +21722,11 @@ SECCIÓN 4.
 
 DE LAS COMISIONES CONJUNTAS.
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.1 — Objeto
 
 Concertar y armonizar el proceso de ordenación y manejo de las Unidades Ambientales Costeras comunes.
 
 (Decreto 1120 de 2013, art. 10).
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.2 — Conformación
 
@@ -23713,8 +21742,6 @@ PARÁGRAFO 2. Cualquiera de los miembros integrantes de la Unidad Ambiental Cost
 
 (Decreto 1120 de 2013, art. 11).
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.3 — Reuniones
 
 La Comisión Conjunta deberá reunirse con la periodicidad prevista en su reglamento interno. El Ministro o el Presidente de la Comisión podrán convocarla.
@@ -23722,8 +21749,6 @@ La Comisión Conjunta deberá reunirse con la periodicidad prevista en su reglam
 Podrán asistir a sus reuniones en calidad de invitados, personas naturales y/o jurídicas, cuando lo considere pertinente la Comisión. Los invitados tendrán voz pero no voto.
 
 (Decreto 1120de 2013, art. 12).
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.4 — Funciones
 
@@ -23745,8 +21770,6 @@ La Comisión Conjunta cumplirá las siguientes:
 
 (Decreto 1120 de 2013, art. 13).
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.5 — Comités Técnicos
 
 La Comisión Conjunta constituirá comités técnicos, quienes suministrarán el soporte técnico para la toma de decisiones por parte de la Comisión Conjunta. Podrán asistir a las reuniones del comité técnico en calidad de invitados personas naturales y jurídicas, cuando sea pertinente.
@@ -23756,8 +21779,6 @@ La Comisión Conjunta constituirá comités técnicos, quienes suministrarán el
 SECCIÓN 5.
 
 DE LAS REGLAS DE PROCEDIMIENTO Y CRITERIOS PARA REGLAMENTAR LA RESTRICCIÓN DE CIERTAS ACTIVIDADES EN ECOSISTEMAS DE PASTOS MARINOS
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.1 — Restricciones de actividades en los pastos marinos
 
@@ -23797,23 +21818,17 @@ SECCIÓN 6.
 
 DISPOSICIONES FINALES.
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.1 — Apoyo técnico y científico
 
 Los institutos de investigación a que se refiere el artículo 16 de la Ley 99 de 1993 prestarán el apoyo técnico y científico que requieran las autoridades ambientales para desarrollar las fases del Pomiuac.
 
 (Decreto 1120 de 2013, art. 16).
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.2 — Facultad de intervención
 
 El proceso de elaboración del Pomiuac, no impide que la autoridad ambiental competente, adopte las medidas de protección y conservación necesarias, para prevenir o hacer cesar los impactos ocasionados a los ecosistemas y recursos naturales renovables de la UAC.
 
 (Decreto 1120 de 2013, art. 17).
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.3 — Transición
 
@@ -23833,8 +21848,6 @@ SECCIÓN 1
 
 PROTECCIÓN Y CONTROL
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.1 — Contenido y objeto
 
 El presente capítulo contiene el Reglamento de Protección y Control de la Calidad del Aire; de alcance genera! y aplicable en todo el territorio nacional, mediante el cual se establecen las normas y principios generales para la protección atmosférica, los mecanismos de prevención, control y atención de episodios por contaminación del aire generada por fuentes contaminantes fijas y móviles, las directrices y competencias para la fijación de las normas de calidad del aire o niveles de inmisión, las normas básicas para la fijación de los estándares de emisión y descarga de contaminantes a la atmósfera, las de emisión de ruido y olores ofensivos, se regula el otorgamiento de permisos de emisión, los instrumentos y medios de control y vigilancia, y la participación ciudadana en el control de la contaminación atmosférica.
@@ -23844,8 +21857,6 @@ El presente capítulo tiene por objeto definir el marco de las acciones y los me
 -ambiente, los recursos naturales renovables y la salud humana ocasionados por la emisión de contaminantes químicos y físicos al aire; a fin de mejorar la calidad de vida de la población y procurar su bienestar bajo el principio del Desarrollo Sostenible.
 
 (Decreto 948 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.2 — Definiciones
 
@@ -23931,8 +21942,6 @@ SECCIÓN 2
 
 DISPOSICIONES GENERALES SOBRE NORMAS DE CALIDAD DEL AIRE, NIVELES DE CONTAMINACIÓN, EMISIONES CONTAMINANTES Y DE RUIDO
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1 — Tipos de contaminantes del aire
 
 Son contaminantes de primer grado, aquellos que afectan la calidad del aíre o el nivel de inmisión, tales como el ozono troposférico o smog fotoquímico y sus precursores, el monóxido de carbono, el material particulado, el dióxido de nitrógeno, el dióxido de azufre y el plomo.
@@ -23946,8 +21955,6 @@ Se entiende por contaminación primaria, la generada por contaminantes de primer
 La autoridad ambiental dará prioridad al control y reducción creciente de las emisiones de estas sustancias y de los tipos de contaminación atmosférica de que trata este artículo.
 
 (Decreto 948 de 1995, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.2 — Actividades especialmente controladas
 
@@ -23969,8 +21976,6 @@ g) Las canteras y plantas trituradoras de materiales de construcción.
 
 (Decreto 948 de 1995, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.3 — De las distintas clases de normas y estándares
 
 Las normas para la protección de la calidad del aire son:
@@ -23989,8 +21994,6 @@ Cada norma establecerá los estándares o límites permisibles de emisión para 
 
 (Decreto 948 de 1995, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.4 — De la norma de calidad del aire o nivel de inmisión
 
 La norma nacional de calidad del aire, o nivel de inmisión, será establecida para todo el territorio, en condiciones de referencia, por el Ministerio de Ambiente y Desarrollo Sostenible.
@@ -24000,8 +22003,6 @@ La norma local de calidad del aire, o nivel local de inmisión, podrá ser más 
 Las condiciones de fondo que afecten la calidad del aire en un determinado lugar, tales como las meteorológicas y las topográficas, serán tenidas en cuenta cuando se fijen normas locales de calidad del aire.
 
 (Decreto 948 de 1995, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.5 — De las clases de normas de calidad del aire o de los distintos niveles periódicos de inmisión
 
@@ -24019,15 +22020,11 @@ La norma de calidad horaria, o nivel de inmisión por hora, se expresará con ba
 
 (Decreto 948 de 1995, art. 7 modificado por el Decreto 979 de 2006 art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.6 — De las normas de emisión
 
 Las normas de emisión que expida la autoridad ambiental competente contendrán los estándares e índices de emisión legalmente admisibles de contaminantes del aire. Dichos estándares determinarán, según sea el caso, los factores de cantidad, peso, volumen y tiempo necesarios para determinar los valores permisibles.
 
 (Decreto 948 de 1995 art. 8)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.7 — Del nivel normal de concentraciones contaminantes
 
@@ -24036,8 +22033,6 @@ Se considerará Nivel Normal de concentración de contaminantes en un lugar dado
 El Nivel Normal será el grado deseable de calidad atmosférica y se tendrá como nivel de referencia para la adopción de medidas de reducción, corrección o mitigación de los impactos ambientales ocasionados por los fenómenos de contaminación atmosférica.
 
 (Decreto 948 de 1995, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.8 — De los niveles de prevención, alerta y emergencia por contaminación del aire
 
@@ -24057,8 +22052,6 @@ PARÁGRAFO 2o. En caso de que la autoridad ambiental competente en la respectiva
 
 (Decreto 948 de 1995, art. 10, modificado por el Decreto 979 de 2006 art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.9 — De las normas de emisión restrictivas
 
 La autoridad ambiental competente en el lugar en que se haya declarado alguno de los niveles de concentración de contaminantes de que tratan los artículos precedentes podrá, además de tomar las medidas que el presente Decreto autoriza, dictar para el área afectada normas de emisión, para fuentes fijas o móviles, más restrictivas que las establecidas por las normas nacionales, regionales, departamentales o locales vigentes. En tal caso, las normas más restrictivas se dictarán conforme a las reglas del Principio de Rigor Subsidiario de que trata el artículo 63 de la Ley 99 de 1993.
@@ -24067,15 +22060,11 @@ Salvo la ocurrencia de una circunstancia sobreviniente de grave peligro, ninguna
 
 (Decreto 948 de 1995, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.10 — De la fijación de los valores y tiempos para cada nivel de contaminación
 
 El Ministerio de Ambiente y Desarrollo Sostenible, mediante resolución, establecerá los límites máximos admisibles de los niveles de contaminación del aire, de que tratan los artículos anteriores, y establecerá los grados de concentración de contaminantes que permitirán a las autoridades ambientales competentes la adopción de normas de emisión más restrictivas que las vigentes para el resto del territorio nacional.
 
 (Decreto 948 de 1995, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.11 — De las emisiones permisibles
 
@@ -24084,8 +22073,6 @@ Toda descarga o emisión de contaminantes a la atmósfera sólo podrá efectuars
 Los permisos de emisión se expedirán para el nivel normal, y ampararán la emisión autorizada siempre que en el área donde la emisión se produce, la concentración de contaminantes no exceda los valores fijados para el nivel de prevención, o que la descarga contaminante no sea directa causante, por efecto de su desplazamiento, de concentraciones superiores a las fijadas para el nivel de prevención en otras áreas.
 
 (Decreto 948 de 1995, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.12 — Norma de emisión de ruido y norma de ruido ambiental
 
@@ -24096,8 +22083,6 @@ Las normas o estándares de ruido de que trata este artículo se fijarán para e
 Las regulaciones sobre ruido podrán afectar toda presión sonora que generada por fuentes móviles o fijas, aún desde zonas o bienes privados, trascienda a zonas públicas o al medio ambiente.
 
 (Decreto 948 de 1995, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.13 — Clasificación de sectores de restricción de ruido Ambiental
 
@@ -24113,8 +22098,6 @@ Para la fijación de las normas de ruido ambiental el Ministerio de Ambiente y D
 
 (Decreto 948 de 1995, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.14 — Normas de evaluación y emisión de olores ofensivos
 
 El Ministerio de Ambiente y Desarrollo Sostenible fijará las normas para establecer estadísticamente los umbrales de tolerancia de olores ofensivos que afecten a la comunidad y los procedimientos para determinar su nivel permisible, así como las relativas al registro y recepción de las quejas y a la realización de las pruebas estadísticas objetivas de percepción y evaluación de dichos olores.
@@ -24127,15 +22110,11 @@ SECCIÓN 3.
 
 DE LAS EMISIONES CONTAMINANTES
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.1 — Sustancias de emisiones prohibidas y controladas
 
 El Ministerio de Ambiente y Desarrollo Sostenible definirá las listas de sustancias de emisión prohibida y las de emisión controlada, así como los estándares de emisión de estas últimas.
 
 (Decreto 948 de 1995, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.2 — Clasificación de fuentes contaminantes
 
@@ -24151,8 +22130,6 @@ Las fuentes móviles pueden ser: aéreas, terrestres, fluviales y marítimas.
 
 (Decreto 948 de 1995, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.3 — Restricción de uso de combustibles contaminantes
 
 No podrán emplearse combustibles con contenidos de sustancias contaminantes superiores a los que establezcan los respectivos estándares, en calderas y hornos para uso comercial e industrial o para generación de energía en termoeléctricas o en motores de combustión interna de vehículos automotores.
@@ -24161,8 +22138,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible establecerá las normas y los 
 
 (Decreto 948 de 1995, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.4 — Establecimientos generadores de olores ofensivos
 
 Queda prohibido el funcionamiento de establecimientos generadores de olores ofensivos en zonas residenciales.
@@ -24170,8 +22145,6 @@ Queda prohibido el funcionamiento de establecimientos generadores de olores ofen
 Las Autoridades Ambientales competentes y en especial los municipios y distritos, determinarán las reglas y condiciones de aplicación de las prohibiciones y restricciones al funcionamiento, en zonas habitadas y áreas urbanas, de instalaciones y establecimientos industriales y comerciales generadores de olores ofensivos, así como las que sean del caso respecto al desarrollo de otras actividades causantes de olores nauseabundos.
 
 (Decreto 948 de 1995, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.5 — Restricción a nuevos establecimientos en áreas de alta contaminación
 
@@ -24187,8 +22160,6 @@ El cupo nuevo de emisión que resulte de una reducción de descargas globales se
 
 (Decreto 948 de 1995, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.6 — Materiales de desecho en zonas públicas
 
 Prohíbase a los particulares, depositar o almacenar en las vías públicas o en zonas de uso público, materiales de construcción, demolición o desecho, que puedan originar emisiones de partículas al aire.
@@ -24199,23 +22170,17 @@ En el evento en que sea necesario almacenar materiales sólidos para el desarrol
 
 (Decreto 948 de 1995, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.7 — Control a emisiones molestas de establecimientos comerciales
 
 Los establecimientos comerciales que produzcan emisiones al aire, tales como restaurantes, lavanderías, o pequeños negocios, deberán contar con ductos o dispositivos que aseguren la adecuada dispersión de los gases, vapores, partículas u olores, y que impidan causar con ellos molestia a los vecinos o a los transeúntes.
 
 (Decreto 948 de 1995, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.8 — Combustión de aceites lubricantes de desecho
 
 El Ministerio de Ambiente y Desarrollo Sostenible establecerá los casos en los cuales se permitirá el uso de los aceites lubricantes de desecho en hornos o calderas de carácter comercial o industrial como combustible, y las condiciones técnicas bajos las cuales se realizará la actividad.
 
 (Decreto 948 de 1995, art. 24; modificado por Decreto 1697 de 1997 art
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.9 — Prohibición de uso de crudos pesados
 
@@ -24225,15 +22190,11 @@ PARÁGRAFO . Sin embargo, a partir del 1 de enero del año 2001, su uso como com
 
 (Decreto 948 de 1995, art. 25; modificado por el Decreto 2107 de 1995, art 1o)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.10 — Prohibición de incineración de llantas, baterías y otros elementos que produzcan tóxicos al aire
 
 Queda prohibida la quema abierta, o el uso como combustible en calderas u hornos en procesos industriales, de llantas, baterías, plásticos y otros elementos y desechos que emitan contaminantes tóxicos al aire.
 
 (Decreto 948 de 1995, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.11 — Incineración de residuos patológicos e industriales
 
@@ -24241,15 +22202,11 @@ Los incineradores de residuos patológicos e industriales deberán contar obliga
 
 (Decreto 948 de 1995, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.12 — Quema de bosque y vegetación protectora
 
 Queda prohibida la quema de bosque natural y de vegetación natural protectora en todo el territorio nacional.
 
 (Decreto 948 de 1995, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.13 — Quemas abiertas
 
@@ -24260,8 +22217,6 @@ Ningún responsable de establecimientos comerciales, industriales y hospitalario
 Las fogatas domésticas o con fines recreativos estarán permitidas siempre que no causen molestia a los vecinos.
 
 (Decreto 948 de 1995, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.14 — Quemas abiertas en áreas rurales
 
@@ -24283,15 +22238,11 @@ Dicho protocolo será el Plan de Manejo Ambiental que contendrá las medidas que
 
 (Decreto 1470 de 2014, art.
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.15 — Técnicas de quemas abiertas controladas
 
 Los responsables de quemas abiertas controladas en zonas rurales, deberán contar con las técnicas, el equipo y el personal debidamente entrenado para controlarlas. Las características y especificaciones técnicas relacionadas con estas quemas se señalarán en la resolución que otorgue el respectivo permiso.
 
 (Decreto 948 de 1995, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.16 — Condiciones de almacenamiento de tóxicos volátiles
 
@@ -24301,23 +22252,17 @@ El Ministerio de Ambiente y Desarrollo Sostenible determinará los sistemas de c
 
 (Decreto 948 de 1995, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.17 — Prohibición de emisiones riesgosas para la salud humana
 
 El Ministerio de Ambiente y Desarrollo Sostenible, en coordinación con el Ministerio de Salud y Protección Social, regulará, controlará o prohibirá, según sea el caso, la emisión de contaminantes que ocasionen altos riesgos para la salud humana, y exigirá la ejecución inmediata de los planes de contingencia y de control de emisiones que se requieran.
 
 (Decreto 948 de 1995, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.18 — Mallas protectoras en construcción de edificios
 
 Las construcciones de edificios de más de tres plantas deberán contar con mallas de protección en sus frentes y costados, hechas en material resistente que impida la emisión al aíre de material particulado.
 
 (Decreto 948 de 1995, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.19 — Emisiones en operaciones portuarias
 
@@ -24333,23 +22278,17 @@ SECCIÓN 4.
 
 DE LAS EMISIONES CONTAMINAN TES DE FUENTES MOVILES
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.1 — Emisiones prohibidas
 
 Se prohíbe la descarga de emisiones contaminantes, visibles o no, por vehículos a motor activados por cualquier combustible, que infrinjan los respectivos estándares de emisión vigentes.
 
 (Decreto 948 de 1995, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.2 — Sustancias de emisión controlada en fuentes móviles terrestres
 
 Se prohíbe la descarga al aire, por parte de cualquier fuente móvil, en concentraciones superiores a las previstas en las normas de emisión, de contaminantes tales como monóxido de carbono (CO), hidrocarburos (HC), óxidos de nitrógeno (NOX), partículas, y otros que el Ministerio de Ambiente y Desarrollo Sostenible determine, cuando las circunstancias así lo ameriten.
 
 (Decreto 948 de 1995, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.3 — Emisiones de vehículos diésel
 
@@ -24365,15 +22304,11 @@ Exceptuase del cumplimiento de las medidas contenidas en los incisos 2o. y 3o. d
 
 (Decreto 948 de 1995, art. 38; modificado por el Decreto 1552 de 2000, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.4 — Obsolescencia del parque automotor
 
 El Ministerio de Ambiente y Desarrollo Sostenible, previa consulta con el Ministerio de Transporte, o los municipios y distritos, podrán establecer restricciones a la circulación de automotores por razón de su antigüedad u obsolescencia, cuando sea necesario para disminuir los niveles de contaminación en zonas urbanas.
 
 (Decreto 948 de 1995, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4.5 — Contenido de plomo y otros contaminantes en los combustibles
 
@@ -24387,8 +22322,6 @@ PARÁGRAFO 2. Para exceptuar a la zona atendida actualmente por la refinería de
 
 (Decreto 948 de 1995, art. 40; modificado por Decreto 1530 de 2002, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4.6 — Obligación de cubrirla carga contaminante
 
 Los vehículos de transporte cuya carga o sus residuos puedan emitir al aire, en vías o lugares públicos, polvo, gases, partículas o sustancias volátiles de cualquier naturaleza, deberán poseer dispositivos protectores, carpas o coberturas, hechos de material resistente, debidamente asegurados al contenedor o carrocería, de manera que se evite al máximo posible el escape de dichas sustancias al aire.
@@ -24399,8 +22332,6 @@ SECCIÓN 5.
 
 DE LA GENERACION Y EMISION DE RUIDO.
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.1 — Control a emisiones de ruidos
 
 Están sujetos a restricciones y control todas las emisiones, sean continuas, fluctuantes, transitorias o de impacto.
@@ -24409,15 +22340,11 @@ Las regulaciones ambientales tendrán por objeto la prevención y control de la 
 
 (Decreto 948 de 1995, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2 — Ruido en sectores de silencio y tranquilidad
 
 Prohíbase la generación de ruido de cualquier naturaleza por encima de los estándares establecidos, en los sectores definidos como A por el presente Decreto, salvo en caso de prevención de desastres o de atención de emergencias.
 
 (Decreto 948 de 1995, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.3 — Altoparlantes y amplificadores
 
@@ -24425,15 +22352,11 @@ Se prohíbe el uso de estos instrumentos en zonas de uso público y de aquellos 
 
 (Decreto 948 de 1995, art. 44)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.4 — Prohibición de generación de ruido
 
 Prohíbase la generación de ruido que traspase los límites de una propiedad, en contravención de los estándares permisibles de presión sonora o dentro de los horarios fijados por las normas respectivas.
 
 (Decreto 948 de 1995, art. 45)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.5 — Horarios de ruido permisible
 
@@ -24441,15 +22364,11 @@ Las autoridades ambientales competentes fijarán horarios y condiciones para la 
 
 (Decreto 948 de 1995, art. 46)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.6 — Ruido de maquinaria industrial
 
 Prohíbase la emisión de ruido por máquinas industriales en sectores clasificados como A y B.
 
 (Decreto 948 de 1995, art. 47)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.7 — Establecimientos industriales y comerciales ruidosos
 
@@ -24457,15 +22376,11 @@ En sectores A y B, no se permitirá la construcción o funcionamiento de estable
 
 (Decreto 948 de 1995, art. 48)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.8 — Ruido de plantas eléctricas
 
 Los generadores eléctricos de emergencia, o plantas eléctricas, deben contar con silenciadores y sistemas que permitan el control de los niveles de ruido, dentro de los valores establecidos por los estándares correspondientes.
 
 (Decreto 948 de 1995, art. 49)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.9 — Promoción de ventas con altoparlantes o amplificadores
 
@@ -24473,15 +22388,11 @@ No se permitirá la promoción de venta de productos o servicios, o la difusión
 
 (Decreto 948 de 1995, art. 50)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.10 — Obligación de impedir perturbación por ruido
 
 Los responsables de fuentes de emisión de ruido que pueda afectar el medioambiente o la salud humana, deberán emplear los sistemas de control necesarios, para garantizar que los niveles de ruido no perturben las zonas aledañas habitadas, conforme a los niveles fijados por las normas que al efecto establezca el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 948 de 1995, art. 51)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.11 — Área perimetral de amortiguación de ruido
 
@@ -24489,15 +22400,11 @@ Las normas de planificación de nuevas áreas de desarrollo industrial, en todos
 
 (Decreto 948 de 1995, art. 52)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.12 — Zonas de amortiguación de ruido de vías de alta circulación
 
 El diseño y construcción de nuevas vías de alta circulación vehicular, en áreas urbanas o cercanas a poblados o asentamientos humanos, deberá contar con zonas de amortiguación de ruido que minimicen su impacto sobre las áreas pobladas circunvecinas, o con elementos de mitigación del ruido ambiental.
 
 (Decreto 948 de 1995, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.13 — Especificaciones contra el ruido de edificaciones especialmente protegidas
 
@@ -24505,15 +22412,11 @@ A partir de la vigencia del presente Decreto, el diseño para la construcción d
 
 (Decreto 948 de 1995 art. 54)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.14 — Restricción al ruido en zonas residenciales
 
 En áreas residenciales o de tranquilidad, no se permitirá a ninguna persona la operación de parlantes, amplificadores, instrumentos musicales o cualquier dispositivo similar que perturbe la tranquilidad ciudadana, o que genere hacia la vecindad o el medio ambiente, niveles de ruido superiores a los establecidos en los estándares respectivos.
 
 (Decreto 948 de 1995, art. 55)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.15 — Operación de equipos de construcción, demolición y reparación de vías
 
@@ -24524,8 +22427,6 @@ Aún si mediare permiso del alcalde para la emisión de ruido en horarios restri
 PARÁGRAFO . Se exceptúa de la restricción en el horario de que trata el inciso 10 de este artículo, el uso de equipos para la ejecución de obras de emergencia, la atención de desastres o la realización de obras comunitarias y de trabajos públicos urgentes.
 
 (Decreto 948 de 1995, art. 56)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.16 — Ruido de aeropuertos
 
@@ -24549,8 +22450,6 @@ PARÁGRAFO 2. El Ministerio de Ambiente y Desarrollo Sostenible, en coordinació
 
 (Decreto 948 de 1995, art. 57)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.17 — Control y seguimiento de ruido de aeropuertos
 
 Las autoridades ambientales competentes, cuando lo consideren necesario, podrán exigir a los responsables del tráfico aéreo, la instalación y operación de estaciones de seguimiento de los niveles de ruido ambiental en el área de riesgo sometida a altos niveles de presión sonora; esta información deberá remitirse a solicitud de la autoridad que ejerce el control, con la periodicidad que ésta señale.
@@ -24558,8 +22457,6 @@ Las autoridades ambientales competentes, cuando lo consideren necesario, podrán
 PARÁGRAFO . La autoridad ambiental competente podrá en cualquier momento verificar los niveles de ruido y el correcto funcionamiento de los equipos instalados.
 
 (Decreto 948 de 1995, art. 58)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.18 — Claxon o bocina y ruido en vehículos de servicio público
 
@@ -24569,15 +22466,11 @@ Los vehículos de servicio público de transporte de pasajeros, tales como buses
 
 (Decreto 948 de 1995, art. 59)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.19 — Restricción de tráfico pesado
 
 El tránsito de transporte pesado, por vehículos tales como camiones, volquetas o tractomulas, estará restringido en las vías públicas de los sectores A, conforme a las normas municipales o distritales que al efecto se expidan.
 
 (Decreto 948 de 1995, art. 60)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.20 — Dispositivos o accesorios generadores de ruido
 
@@ -24587,8 +22480,6 @@ Prohíbase el uso de resonadores en el escape de gases de cualquier fuente móvi
 
 (Decreto 948 de 1995, art. 61)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.21 — Sirenas y alarmas
 
 El uso de sirenas solamente estará autorizado en vehículos policiales o militares, ambulancias y carros de bomberos. Prohíbase el uso de sirenas en vehículos particulares.
@@ -24597,15 +22488,11 @@ Serán sancionados con multas impuestas por las autoridades de policía municipa
 
 (Decreto 948 de 1995, art. 62)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.22 — Uso del silenciador
 
 Prohíbase la circulación de vehículos que no cuenten con sistema de silenciador en correcto estado de funcionamiento.
 
 (Decreto 948 de 1995, art. 63)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.23 — Indicadores
 
@@ -24616,8 +22503,6 @@ El Ministerio de Ministerio de Ambiente y Desarrollo Sostenible establecerá los
 SECCIÓN 6.
 
 FUNCIONES DE LAS AUTORIDADES AMBIENTALES EN RELACION CON LA CALIDAD Y EL CONTROL DE LA CONTAMINACION DEL AIRE.
-
-ARTÍCULO
 
 ## art:2.2.5.1.6.1 — Funciones del Ministerio de Ambiente y Desarrollo Sostenible
 
@@ -24659,8 +22544,6 @@ PARÁGRAFO 2. EI Ministerio de Ambiente y Desarrollo Sostenible establecerá los
 
 (Decreto 948 de 1995, art. 65)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.2 — Funciones de las Autoridades Ambientales
 
 Las Autoridades Ambientales competentes dentro de la órbita de su competencia, en el territorio de su jurisdicción, y en relación con la calidad y el control a la contaminación del aire, las siguientes:
@@ -24687,8 +22570,6 @@ j) Imponer las medidas preventivas y sanciones que correspondan por la comisión
 
 (Decreto 948 de 1995, art. 66)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.3 — Funciones de Los Departamentos
 
 En desarrollo de lo dispuesto por el artículo 64 y concordantes de la Ley 99 de 1993, corresponde a los departamentos, en relación con la contaminación atmosférica:
@@ -24702,8 +22583,6 @@ c) Prestar apoyo administrativo al Ministerio de Ambiente y Desarrollo Sostenibl
 d) Ejercer funciones de control y vigilancia departamental de la contaminación atmosférica ocasionada por fuentes móviles.
 
 (Decreto 948 de 1995, art. 67)
-
-ARTÍCULO
 
 ## art:2.2.5.1.6.4 — Funciones de los Municipios y Distritos
 
@@ -24727,8 +22606,6 @@ PARÁGRAFO . Corresponde a los concejos municipales y distritales el ejercicio d
 
 (Decreto 948 de 1995, art. 68)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.5 — Funciones del Ideam
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), prestará su apoyo técnico y científico a las autoridades ambientales, y en especial al Ministerio de Ambiente y Desarrollo Sostenible, en el ejercicio de sus competencias relacionadas con la protección atmosférica v adelantará los estudios técnicos necesarios para la toma de decisiones y para la expedición de las regulaciones que el Ministerio profiera sobre la materia en desarrollo de sus atribuciones.
@@ -24738,8 +22615,6 @@ Corresponde al Ideam mantener información actualizada y efectuar seguimiento co
 El IDEAM tendrá a su cargo la realización de los estudios técnicos tendientes a estandarizar los métodos, procedimientos e instrumentos que se utilicen por las autoridades ambientales, por los laboratorios de diagnóstico ambiental y por los agentes emisores, para el control, vigilancia y medición de los fenómenos de contaminación del aire, y las demás que le corresponda ejercer en relación con el control de la contaminación atmosférica y la protección de la calidad del aire, de acuerdo con la ley y los reglamentos.
 
 (Decreto 948 de 1995, art. 69)
-
-ARTÍCULO
 
 ## art:2.2.5.1.6.6 — Aplicación del principio de rigor subsidiario
 
@@ -24765,8 +22640,6 @@ c) Cuando en razón a estudios de carácter científico y técnico se compruebe 
 
 (Decreto 948 de 1995, art. 70)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6.7 — Apoyo de la fuerza pública y de otras autoridades
 
 En todos los casos en que la autoridad ambiental competente adopte medidas de restricción, vigilancia o control de episodios de contaminación, podrá solicitar el apoyo de la fuerza pública y de las demás autoridades civiles y de policía del lugar afectado, las cuales tendrán la obligación de prestárselo para garantizar la ejecución cabal de las medidas adoptadas. Incurrirá en las sanciones previstas por el régimen disciplinario respectivo, la autoridad civil, militar o de policía que rehúse injustificadamente la colaboración o apoyo debidos.
@@ -24776,8 +22649,6 @@ En todos los casos en que la autoridad ambiental competente adopte medidas de re
 SECCIÓN 7.
 
 PERMISOS DE EMISION PARA FUENTES FIJAS
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.1 — Del permiso de emisión atmosférica
 
@@ -24790,8 +22661,6 @@ PARÁGRAFO 1. El permiso puede obtenerse como parte de la licencia ambiental ún
 PARÁGRAFO 2. No se requerirá permiso de emisión atmosférica para emisiones que no sean objeto de prohibición o restricción legal o reglamentaria, o de control por las regulaciones ambientales.
 
 (Decreto 948 de 1995, art. 72)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.2 — Casos que requieren permiso de emisión atmosférica
 
@@ -24841,8 +22710,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible podrá establecer las condicio
 
 (Adicionado por el Decreto 1697 de 1997, art 3o)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.3 — Permisos colectivos de emisiones industriales
 
 Podrá conferirse permiso colectivo de emisión a las asociaciones, agremiaciones o grupos de pequeños y medianos empresarios, que conjuntamente lo soliciten y que reúnan las siguientes características comunes:
@@ -24856,8 +22723,6 @@ c) Que utilicen los mismos combustibles y generen emisiones similares al aire.
 No obstante el carácter colectivo del permiso, el cumplimiento de las obligaciones, términos y condiciones, en él establecidos, será responsabilidad individual y separada de cada uno de los agentes emisores, beneficiarios o titulares del permiso, y las sanciones derivadas del incumplimiento, o de la comisión de infracciones, afectarán solamente al respectivo infractor, a menos que se trate de obligaciones que deban cumplirse por la comunidad de los beneficiarios en su conjunto.
 
 (Decreto 948 de 1995, art. 74)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.4 — Solicitud del permiso
 
@@ -24899,8 +22764,6 @@ PARÁGRAFO 4. No se podrán exigir al solicitante sino aquellos requisitos e inf
 
 (Decreto 948 de 1995, art. 75)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.5 — Trámite del permiso de emisión atmosférica
 
 Una vez presentada, personalmente y por escrito, la solicitud del permiso se tramitará de acuerdo con las siguientes reglas:
@@ -24923,15 +22786,11 @@ PARÁGRAFO 2. La información presentada por el solicitante deberá ser veraz y 
 
 (Decreto 948 de 1995, art. 76)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.6 — Derechos de trámite y otorgamiento de los permisos
 
 Los derechos tarifarías por el trámite y otorgamiento del permiso serán fijados por la autoridad ambiental competente, de acuerdo con la escala tarifaría establecida por el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 948 de 1995, art. 77)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.7 — Contenido de la resolución de otorgamiento del permiso
 
@@ -24959,8 +22818,6 @@ El acto administrativo por el cual se otorga el permiso de emisión contendrá, 
 
 (Decreto 948 de 1995, art. 78)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.8 — Pólizas de garantía de cumplimiento
 
 Cuando quiera que se otorgue un permiso de emisión atmosférica, la autoridad ambiental competente podrá exigir al titular del mismo, el otorgamiento de una póliza de garantía de cumplimiento de las obligaciones derivadas del mismo, hasta por un valor equivalente al 30% de los costos de las obras y actividades de control de las emisiones al aire, cuando éstas se requieran para ajustar las descargas contaminantes del solicitante a los estándares vigentes. El solicitante estimará el valor de dichas obras al momento de la solicitud, para los efectos del otorgamiento de la póliza de garantía correspondiente.
@@ -24973,15 +22830,11 @@ Cuando la obra, industria o actividad requiera licencia ambiental, no será nece
 
 (Decreto 948 de 1995, art. 79)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.9 — Del permiso de emisión atmosférica para obras, industrias o actividades
 
 Todas las personas naturales o jurídicas, públicas o privadas que de conformidad con lo dispuesto por el presente Decreto, requieran permiso de emisión atmosférica para el desarrollo de sus obras, industrias o actividades, tratase de fuentes fijas de emisión existentes o nuevas deberán obtenerlo, de acuerdo con las reglas establecidas en el presente Decreto.
 
 (Decreto 948 de 1995, art. 80)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.10 — Cesión
 
@@ -24991,15 +22844,11 @@ El cesionario sustituye en todos los derechos y obligaciones al solicitante o al
 
 (Decreto 948 de 1995, art. 82)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.11 — Comercialización de cupos
 
 El Ministerio de Ambiente y Desarrollo Sostenible podrá reglamentar los mecanismos de cesión comercial de cupos de emisión.
 
 (Decreto 948 de 1995, art. 83)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.12 — Suspensión y revocatoria
 
@@ -25029,8 +22878,6 @@ La suspensión del permiso, ordenada como medida de precaución, en razón de su
 
 (Decreto 948 de 1995, art. 84)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.13 — Modificación del permiso
 
 El permiso de emisión podrá ser modificado total o parcialmente, previo concepto técnico, por la misma autoridad ambiental que lo otorgó, en los siguientes casos:
@@ -25043,9 +22890,9 @@ Cuando en un proceso industrial se introduzcan cambios en los combustibles utili
 
 (Decreto 948 de 1995, art. 85)
 
-## art:2.2.5.1 — 7.14
+## art:2.2.5.1.7.14 — Vigencia, alcance y renovación del permiso de emisión atmosférica
 
-Vigencia, alcance y renovación del permiso de emisión atmosférica. El permiso de emisión atmosférica tendrá una vigencia máxima de cinco (5) años, siendo renovable indefinidamente por períodos iguales.
+El permiso de emisión atmosférica tendrá una vigencia máxima de cinco (5) años, siendo renovable indefinidamente por períodos iguales.
 
 Las modificaciones de los estándares de emisión o la expedición de nuevas normas o estándares de emisión atmosférica, modificarán las condiciones y requisitos de ejercicio de los permisos vigentes.
 
@@ -25063,23 +22910,17 @@ PARÁGRAFO . La renovación de que trata este artículo se entiende únicamente 
 
 (Decreto 948 de 1995, art. 86)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.15 — Denegación de la renovación del permiso
 
 La renovación del permiso de emisión atmosférica se denegará si mediare la ocurrencia de alguno de los eventos previstos en los numerales 1, 2 y 3 del literal B) del artículo 2.2.5.1.7.12. del presente Decreto.
 
 (Decreto 948 de 1995, art. 87)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7.16 — Notificación y publicidad
 
 Todos los actos definitivos relativos a permisos, tales como los que los otorgan, suspenden, revocan, modifican o renuevan, están sometidos al mismo procedimiento de notificación y publicidad consagrado en el artículo 71 de la ley 99 de 1993
 
 (Decreto 948 de 1995, art. 88)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7.17 — Permisos de emisión de ruido
 
@@ -25095,15 +22936,11 @@ SECCIÓN 8
 
 MECANISMOS DE EVALUACION Y CERTIFICACION PARA FUENTES MOVILES
 
-ARTÍCULO
-
 ## art:2.2.5.1.8.1 — Clasificación de fuentes móviles
 
 El Ministerio de Ambiente y Desarrollo Sostenible determinará las fuentes móviles terrestres, aéreas, fluviales o marítimas a las que se aplicarán los respectivos estándares de emisión.
 
 (Decreto 948 de 1995, art. 90)
-
-ARTÍCULO
 
 ## art:2.2.5.1.8.2 — Certificación del cumplimiento de normas de emisión para vehículos automotores
 
@@ -25119,8 +22956,6 @@ PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible establecerá los 
 
 (Decreto 948 de 1995, art. 91)
 
-ARTÍCULO
-
 ## art:2.2.5.1.8.3 — Evaluación de emisiones de vehículos automotores
 
 El Ministerio de Ambiente y Desarrollo Sostenible, mediante resolución, establecerá los mecanismos para la evaluación de los niveles de contaminantes emitidos por los vehículos automotores en circulación, procedimiento que será dado a conocer al público en forma oportuna.
@@ -25134,8 +22969,6 @@ La evaluación de los contaminantes emitidos por las fuentes móviles, se inicia
 SECCIÓN 9.
 
 MEDIDAS PARA LA ATENCION DE EPISODIOS DE CONTAMINACION Y PLAN DE CONTINGENCIA PARA EMISIONES ATMOSFERICAS.
-
-ARTÍCULO
 
 ## art:2.2.5.1.9.1 — Medidas para la atención de episodios
 
@@ -25197,8 +23030,6 @@ PARÁGRAFO . Los Ministerios de Ambiente y Desarrollo Sostenible, de Salud y Pro
 
 (Decreto 948 de 1995, art. 93 modificado por el Decreto 979 de 2006, art 3o.)
 
-ARTÍCULO
-
 ## art:2.2.5.1.9.2 — De los planes de contingencia por contaminación atmosférica
 
 Los planes de contingencia por contaminación atmosférica, es el conjunto de estrategias, acciones y procedimientos preestablecidos para controlar y atender los episodios por emisiones atmosféricas que puedan eventualmente presentarse en el área de influencia de actividades generadoras de contaminación atmosférica, para cuyo diseño han sido considerados todos los sucesos y fuentes susceptibles de contribuir a la aparición de tales eventos contingentes.
@@ -25227,8 +23058,6 @@ El plan de contingencia deberá contener como mínimo las siguientes medidas:
 
 (Decreto 948 de 1995, art. 94; modificado por el Decreto 979 de 2006, art 4o)
 
-ARTÍCULO
-
 ## art:2.2.5.1.9.3 — Obligación de planes de contingencia
 
 sin perjuicio de la facultad de la autoridad ambiental para establecer otros casos, quienes exploren, exploten, manufacturen, refinen, transformen, procesen, transporten, o almacenen hidrocarburos o sustancias tóxicas que puedan ser nocivas para la salud, los recursos naturales renovables o el ambiente, deberán estar provistos de un plan de contingencia que contemple todo el sistema de seguridad, prevención, organización de respuesta, equipos, personal capacitado y presupuesto para la prevención y control de emisiones contaminantes y reparación de daños, que deberá ser presentado a la Autoridad Ambiental Competente para su aprobación.
@@ -25239,15 +23068,11 @@ SECCIÓN 10.
 
 VIGILANCIA Y CONTROL DEL CUMPLIMIENTO DE LAS NORMAS PARA FUENTES FIJAS
 
-ARTÍCULO
-
 ## art:2.2.5.1.10.1 — Vigilancia y control
 
 Corresponde a la autoridad ambiental competente ejercer la vigilancia, verificación y control del cumplimiento de las disposiciones del presente Decreto y tomar, cuando sea del caso, las medidas de prevención y corrección que sean necesarias.
 
 (Decreto 948 de 1995, art. 96)
-
-ARTÍCULO
 
 ## art:2.2.5.1.10.2 — Rendición del informe de estado de emisiones- oportunidad y requisitos
 
@@ -25281,8 +23106,6 @@ PARÁGRAFO 5. Será obligatorio para los titulares de permisos de emisión atmos
 
 (Decreto 948 de 1995, art. 97; modificado por Decreto 2107 de 1995, artículo 8.)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10.3 — Localización de industrias y de fuentes fijas de emisión
 
 A partir de la vigencia de este Decreto ningún municipio o distrito podrá, dentro del perímetro urbano, autorizar el establecimiento o instalación de una fuente fija de emisión de contaminantes al aire en zonas distintas de las habilitadas para usos industriales en el territorio de su jurisdicción.
@@ -25292,8 +23115,6 @@ Las industrias y demás fuentes fijas de emisión de contaminantes al aire que a
 Los municipios y distritos dentro del plazo fijado dictarán las normas de zonificación y uso del suelo y otorgarán las necesarias facilidades para efectuar de la mejor manera posible la relocalización de fuentes fijas de que trata este artículo.
 
 (Decreto 948 de 1995, art. 107)
-
-ARTÍCULO
 
 ## art:2.2.5.1.10.4 — Clasificación de 'áreas-fuente' de contaminación
 
@@ -25325,8 +23146,6 @@ PARÁGRAFO 5. La autoridad ambiental competente deberá estructurar en un plazo 
 
 (Decreto 948 de 1995, art. 108; modificado por el Decreto 979 de 2006 art 5)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10.5 — Equipos de medición y monitores de seguimiento de la contaminación del aire
 
 El Ministerio de Ambiente y Desarrollo Sostenible establecerá, por vía general, las industrias y actividades que por su alta incidencia en la contaminación del aire, deberán contar con estaciones de control y equipos de medición propios para efectuar, mediante monitores, el seguimiento constante de la contaminación atmosférica ocasionada por sus emisiones o descargas. Los resultados de tales mediciones deberán estar a disposición de la autoridad ambiental competente para su control.
@@ -25336,8 +23155,6 @@ Las autoridades ambientales podrán exigir a los agentes emisores obligados a la
 En los Planes de Reconversión a Tecnología Limpia que se celebren con agentes emisores, se podrá imponer a éstos por la autoridad ambiental competente, atendiendo a su incidencia en la contaminación del área, la obligación de disponer de equipos de medición y seguimiento de los fenómenos contaminantes que la actividad o industria correspondiente ocasione.
 
 (Decreto 948 de 1995, art. 109)
-
-ARTÍCULO
 
 ## art:2.2.5.1.10.6 — Verificación del cumplimiento de normas de emisión en procesos industriales
 
@@ -25351,8 +23168,6 @@ c) Factores emisión: Es el método de cálculo para estimar la emisión de cont
 
 (Decreto 948 de 1995, art. 110)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10.7 — Efecto burbuja
 
 Cuando en una instalación industrial se presenten varios puntos de emisión de contaminantes provenientes de calderas u hornos para generación de calor o energía que consuman el mismo combustible y descarguen el mismo contaminante, la suma de sus emisiones puntuales será la que se compare con la norma.
@@ -25364,8 +23179,6 @@ PARÁGRAFO . En los casos en que los puntos de emisión provengan de calderas u 
 Cuando los puntos de emisión provengan de procesos productivos donde se produzca el mismo producto terminado, para efectos de comparación de sus emisiones con la norma, se sumará la producción total de sus procesos.
 
 (Decreto 948 de 1995, art. 111)
-
-ARTÍCULO
 
 ## art:2.2.5.1.10.8 — Visitas de verificación de emisiones
 
@@ -25379,23 +23192,17 @@ PARÁGRAFO 3. Las autoridades ambientales podrán contratar con particulares la 
 
 (Decreto 948 de 1995, art. 112)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10.9 — Información del resultado de verificaciones
 
 Cuando quiera que la autoridad ambiental competente realice evaluación o muestreo de las emisiones para verificar el cumplimiento de las normas de emisión, deberán informar los resultados obtenidos a los responsables de las fuentes de emisión, o a cualquier persona que lo solicite.
 
 (Decreto 948 de 1995, art. 113)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10.10 — Registros del sistema de control de emisiones
 
 Los responsables de fuentes fijas que tengan sistema de control de emisiones atmosféricas, deberán llevar un registro de operación y mantenimiento del mismo. La autoridad competente podrá revisarlo en cualquier momento y solicitar modificaciones o adiciones.
 
 (Decreto 948 de 1995, art. 114)
-
-ARTÍCULO
 
 ## art:2.2.5.1.10.11 — Asistencia técnica e información
 
@@ -25407,8 +23214,6 @@ SECCIÓN 11
 
 PARTICIPACION CIUDADANA EN EL CONTROL DE LA CONTAMINACION ATMOSFERICA.
 
-ARTÍCULO
-
 ## art:2.2.5.1.11.1 — Del derecho a la intervención de los ciudadanos
 
 En los trámites para el otorgamiento de permisos de emisiones atmosféricas todo ciudadano podrá hacer uso de cualquiera de los instrumentos de participación ciudadana, previstos en el Título X de la Ley 99 de 1993. Toda persona que conozca de algún hecho que pueda ser constitutivo de una infracción al presente Decreto podrá solicitar al defensor del pueblo o a su agente en la localidad respectiva, o las autoridades ambientales competentes que inicie las actuaciones e investigaciones pertinentes.
@@ -25418,8 +23223,6 @@ En los trámites para el otorgamiento de permisos de emisiones atmosféricas tod
 SECCIÓN 12.
 
 RÉGIMEN SANCIONATORIO
-
-ARTÍCULO
 
 ## art:2.2.5.1.12.1 — Régimen Sancionatorio
 
@@ -25431,15 +23234,11 @@ MEDIDAS PARA EL CONTROL DE LAS EXPORTACIONES DE SUSTANCIAS AGOTADORAS DE LA CAPA
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.1 — Objeto
 
 El presente capítulo tiene por objeto adoptar medidas para el control de las exportaciones de sustancias agotadoras de la capa de ozono, SAO.
 
 (Decreto 423 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.2 — Campo de aplicación
 
@@ -25509,15 +23308,11 @@ Bromometano (Bromuro de Metilo)
 
 (Decreto 423 de 2005, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.3 — Cupo para exportaciones
 
 El cupo autorizado para las exportaciones de sustancias agotadoras de la capa de ozono correspondiente al conjunto de los compuestos químicos a que hace referencia el artículo anterior, será otorgado por la Autoridad Nacional de Licencias Ambientales -ANLA o la entidad que haga sus veces, para cada tipo de sustancia, teniendo en cuenta los datos de la línea base de consumo del país y el cronograma de reducción y eliminación del Protocolo de Montreal.
 
 (Decreto 423 de 2005, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.4 — Distribución del cupo de exportaciones
 
@@ -25525,15 +23320,11 @@ El cupo mencionado en el artículo anterior será asignado anualmente por la Aut
 
 (Decreto 423 de 2005, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.5 — Autorizaciones para exportación
 
 Las personas naturales o jurídicas interesadas en exportar alguna o algunas de las sustancias de que trata el presente decreto, deberán presentar la solicitud para obtener la autorización ante la Autoridad Nacional de Licencias Ambientales - ANLA a través de la ventanilla única de comercio exterior, VUCE.
 
 (Decreto 423 de 2005, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.6 — Vigilancia
 
@@ -25542,8 +23333,6 @@ La vigilancia del cumplimiento a lo previsto en el presente decreto, será ejerc
 PARÁGRAFO . Los exportadores de las sustancias agotadoras de la capa de ozono referidas en el presente decreto deben contar con los registros y archivos correspondientes a las actividades de exportación y sus responsables. Esta información debe ser útil para realizar la vigilancia, monitoreo y control del comercio de estas sustancias y debe conservarse como mínimo por un período de cinco (5) años.
 
 (Decreto 423 de 2005, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.7 — Sanciones
 
@@ -25559,23 +23348,17 @@ SECCIÓN 1
 
 OBJETO, ALCANCE Y DEFINICIONES
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.1 — Objeto
 
 En el marco de la gestión integral, el presente decreto tiene por objeto prevenir la generación de residuos o desechos peligrosos, así como regular el manejo de los residuos o desechos generados, con el fin de proteger la salud humana y el ambiente.
 
 (Decreto 4741 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.2 — Alcance
 
 Las disposiciones del presente decreto se aplican en el territorio nacional a las personas que generen, gestionen o manejen residuos desechos peligrosos.
 
 (Decreto 4741 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.3 — Definiciones
 
@@ -25615,8 +23398,6 @@ Tratamiento. Es el conjunto de operaciones, procesos o técnicas mediante los cu
 
 (Decreto 4741 de 2005, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.4 — Principios
 
 El presente decreto se rige por los siguientes principios: Gestión integral, ciclo de vida del producto, responsabilidad integral del generador, producción y consumo sostenible, precaución, participación pública, internalización de costos ambientales, planificación, gradualidad y comunicación del riesgo.
@@ -25626,8 +23407,6 @@ El presente decreto se rige por los siguientes principios: Gestión integral, ci
 SECCIÓN 2
 
 CLASIFICACIÓN, CARACTERIZACIÓN, IDENTIFICACIÓN Y PRESENTACIÓN DE LOS RESIDUOS O DESECHOS PELIGROSOS
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1 — Clasificación de los residuos o desechos peligrosos
 
@@ -25641,15 +23420,11 @@ PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible podrá mediante a
 
 (Decreto 4741 de 2005, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.2 — Características que confieren a un residuo o desecho la calidad de peligroso
 
 La calidad de peligroso es conferida a un residuo o desecho que exhiba características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas y radiactivas; definidas en el Anexo III del presente decreto.
 
 (Decreto 4741 de 2005, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3 — Procedimiento mediante el cual se puede identificar si un residuo o desecho es peligroso
 
@@ -25663,8 +23438,6 @@ c) A través de la caracterización físico-química de los residuos o desechos 
 
 (Decreto 4741 de 2005, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.4 — 2.4
 
 Referencia para procedimiento de muestreo y análisis de laboratorio para determinar la peligrosidad de un residuo o desecho peligroso. Realizar la caracterización físico-química de los mismos, conforme con lo establecido en la Resolución 0062 de 2007 del IDEAM o aquella que la modifique o sustituya.
@@ -25675,8 +23448,6 @@ PARÁGRAFO 2. Actualización de la caracterización. El generador de un residuo 
 
 (Decreto 4741 de 2005, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.5 — De la presentación de los residuos o desechos peligrosos
 
 Los residuos o desechos peligrosos se deben envasar, embalar, rotular, etiquetar y transportar en armonía con lo establecido en el Decreto N 1609 de 2002 o por aquella norma que la modifique o sustituya
@@ -25686,8 +23457,6 @@ Los residuos o desechos peligrosos se deben envasar, embalar, rotular, etiquetar
 SECCIÓN 3.
 
 DE LAS OBLIGACIONES Y RESPONSABILIDADES
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.1 — Obligaciones del Generador
 
@@ -25725,8 +23494,6 @@ PARÁGRAFO 2. Para la elaboración del plan de gestión integral de residuos o d
 
 (Decreto 4741 de 2005, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.2 — Responsabilidad del generador
 
 El generador será responsable de los residuos peligrosos que él genere. La responsabilidad se extiende a sus efluentes, emisiones, productos y subproductos, y por todos los efectos ocasionados a la salud y al ambiente.
@@ -25735,15 +23502,11 @@ PARÁGRAFO El generador continuará siendo responsable en forma integral, por lo
 
 (Decreto 4741 de 2005, art. 11 y 13)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.3 — Subsistencia de la Responsabilidad
 
 La responsabilidad integral del generador, fabricante, importador y/o transportador subsiste hasta que el residuo peligroso sea aprovechado como insumo o dispuesto finalmente en depósitos o sistemas técnicamente diseñados que no represente riesgos para la salud humana y el ambiente.
 
 (Decreto 47 41 de 2005, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.4 — Obligaciones del fabricante o importador de un producto o sustancia química con característica peligrosa
 
@@ -25759,15 +23522,11 @@ d) Comunicar el riesgo de sus sustancias o productos con propiedad peligrosa a l
 
 (Decreto 4741 de 2005, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.5 — Responsabilidad del fabricante o importador
 
 El fabricante o importador de un producto o sustancia química con propiedad peligrosa, para los efectos del presente decreto se equipara a un generador, en cuanto a la responsabilidad por el manejo de los embalajes y residuos del producto o sustancia. La responsabilidad integral subsiste hasta que el residuo o desecho peligroso sea aprovechado como insumo o dispuesto con carácter
 
 (Decreto 4741 de 2005, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.6 — Obligaciones del transportador de residuos o desechos peligrosos
 
@@ -25793,8 +23552,6 @@ PARÁGRAFO . Del Sistema de Declaración y Trazabilidad de residuos o desechos p
 
 (Decreto 4741 de 2005, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.7 — Obligaciones del Gestor o receptor
 
 Las instalaciones cuyo objeto sea prestar servicios de almacenamiento, aprovechamiento y/o valorización (incluida la recuperación, el reciclaje o la regeneración), tratamiento y/o disposición final de residuos o desechos peligrosos deberán:
@@ -25817,8 +23574,6 @@ h) Tomar todas las medidas de carácter preventivo o de control previas al cese,
 
 (Decreto 47 41 de 2005, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.8 — Responsabilidad del Gestor o receptor
 
 El gestor o receptor del residuo peligroso asumirá la responsabilidad integral del generador, una vez lo reciba del transportador y haya efectuado o comprobado el aprovechamiento o disposición final del mismo.
@@ -25828,8 +23583,6 @@ PARÁGRAFO 1. Mientras no se haya efectuado y comprobado el aprovechamiento o di
 PARÁGRAFO 2. La responsabilidad de que trata este artículo incluye el monitoreo, el diagnóstico y remediación del suelo, de las aguas superficiales y subterráneas y sus interacciones con la salud humana y el ambiente en caso de que se presente contaminación por estos residuos.
 
 (Decreto 4741 de 2005, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.9 — De la responsabilidad acerca de la contaminación y remediación de sitios
 
@@ -25842,8 +23595,6 @@ SECCIÓN 4.
 DE LA GESTIÓN Y MANEJO DE LOS EMPAQUES, ENVASES, EMBALAJES Y RESIDUOS DE PRODUCTOS O SUSTANCIAS QUÍMICAS CON PROPIEDAD O
 
 CARACTERÍSTICA PELIGROSA
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.1 — De los residuos o desechos peligrosos provenientes del consumo de productos o sustancias peligrosas
 
@@ -25877,8 +23628,6 @@ Baterías usadas plomo-Ácido.
 
 (Decreto 4741 de 2005, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.2 — De la formulación, presentación e implementación de los Planes de Gestión de Devolución de Productos Posconsumo
 
 Los fabricantes o importadores, de productos que al desecharse se convierten en los residuos o desechos peligrosos a los que hace referencia el artículo anterior, deberán presentar ante el Ministerio de Ambiente y Desarrollo Sostenible, el respectivo Plan de Gestión de Devolución de Productos Posconsumo para su conocimiento, en las fechas estipuladas para tal fin en la Tabla 1, e iniciar inmediatamente su implementación. Estos planes de devolución pueden ser formulados y desarrollados por grupos de importadores o fabricantes reunidos en torno a la naturaleza igual o similar de sus residuos. Sin embargo su presentación ante la autoridad ambiental es en forma individual.
@@ -25889,15 +23638,11 @@ PARÁGRAFO 2. El Ministerio de Ambiente y Desarrollo Sostenible establecerá pos
 
 (Decreto 4741 de 2005, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.3 — Elementos que deben ser considerados en los Planes de Gestión de Devolución de Productos Posconsumo
 
 Los elementos a ser considerados en los Planes de que trata este artículo se regirán por lo establecido en las Resoluciones 371 y 372 del año 2009 y la Resolución 1675 de 2013 expedidas por el Ministerio de Ambiente y Desarrollo Sostenible o las normas que las modifiquen o sustituyan.
 
 (Decreto 4741 de 2005, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.4 — Del consumidor o usuario final de productos o sustancias químicas con propiedad peligrosa
 
@@ -25912,8 +23657,6 @@ b) Entregar los residuos o desechos peligrosos posconsumo provenientes de produc
 SECCIÓN 5.
 
 DE LAS AUTORIDADES
-
-ARTÍCULO
 
 ## art:2.2.6.1.5.1 — De las autoridades ambientales en la gestión integral de los residuos o desechos peligrosos
 
@@ -25937,8 +23680,6 @@ h) Fomentar en el sector productivo el desarrollo de actividades y procedimiento
 
 (Decreto 4741 de 2005, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.2 — Obligaciones de los municipios
 
 Sin perjuicio de las demás obligaciones establecidas en la ley y los reglamentos, los municipios deben:
@@ -25951,8 +23692,6 @@ c) Apoyar la realización de campañas de sensibilización, divulgación, educac
 
 (Decreto 4741 de 2005, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.6.1.5.3 — Del Instituto de Hidrología, Meteorología y Estudios Ambientales - IDEAM-
 
 De conformidad con sus funciones, el IDEAM acopiará, almacenará, procesará, analizará y difundirá datos e información estadística sobre la generación y manejo de los residuos o desechos peligrosos a nivel nacional, a través del Sistema de Información Ambiental, que servirá para facilitar la toma de decisiones en materia de política ambiental, entre otros
@@ -25963,15 +23702,11 @@ SECCIÓN 6.
 
 DEL REGISTRO DE GENERADORES DE RESIDUOS O DESECHOS PELIGROSOS
 
-ARTÍCULO
-
 ## art:2.2.6.1.6.1 — Del Registro de Generadores
 
 El registro de generadores de residuos o desechos peligrosos se regirá por lo establecido en la Resolución 1362 de 2007 expedido por el Ministerio de Ambiente y Desarrollo Sostenible o la norma que la modifique o sustituya.
 
 (Decreto 4741 de 2005, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.6.1.6.2 — De la Inscripción en el Registro de Generadores
 
@@ -25997,8 +23732,6 @@ SECCIÓN 1
 
 DEL MOVIMIENTO TRANSFRONTERIZO DE RESIDUOS O DESECHOS PELIGROSOS.
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.1 — Del Movimiento Transfronterizo de Residuos o Desechos Peligrosos
 
 Todo movimiento transfronterizo de residuos o desechos peligrosos está sujeto a lo estipulado en Ley 253 de 1996, por medio de la cual se aprueba el Convenio de Basilea para el Control de los Movimientos Transfronterizos de Desechos Peligrosos y su Eliminación.
@@ -26013,8 +23746,6 @@ PARÁGRAFO 3. Exportación. Solamente podrán ser exportados del territorio naci
 
 (Decreto 4741 de 2005, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.6.2.1.2 — Del transporte de residuos o desechos peligrosos objeto de movimiento transfronterizo
 
 Conforme a lo establecido en la Ley 253 de 1996 los residuos o desechos peligrosos que sean objeto de movimiento transfronterizo deben estar embalados, etiquetados y transportados de conformidad con los reglamentos y normas internacionales generalmente aceptados y reconocidos en materia de embalaje, etiquetado y transporte, teniendo debidamente en cuenta los usos internacionales admitidos al respecto; en especial las Recomendaciones Relativas al Transporte de Mercancías Peligrosas, Decimoséptima edición revisada, Naciones Unidas, Nueva York y Ginebra 2003 o aquella que la modifique o sustituya.
@@ -26022,8 +23753,6 @@ Conforme a lo establecido en la Ley 253 de 1996 los residuos o desechos peligros
 Lo anterior, sin perjuicio de cumplir con los demás requerimientos establecidos en la normatividad nacional para el transporte de mercancías peligrosas.
 
 (Decreto 4741 de 2005, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.6.2.1.3 — De la autorización para el movimiento transfronterizo de residuos o desechos peligrosos
 
@@ -26036,8 +23765,6 @@ PARÁGRAFO . Una vez obtenida la autorización de movimiento transfronterizo, el
 SECCIÓN 2
 
 PROHIBICIONES
-
-ARTÍCULO
 
 ## art:2.2.6.2.2.1 — Prohibiciones
 
@@ -26065,8 +23792,6 @@ SECCIÓN 3
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.6.2.3.1 — De los residuos o desechos generados en la atención de salud y otras actividades
 
 Los residuos o desechos generados en la atención de salud y otras actividades se rigen por las normas vigentes especiales sobre la materia o aquellas que las modifiquen o sustituyan.
@@ -26079,15 +23804,11 @@ Para efectos de la modificación excepcional y transitoria de la licencia ambien
 
 (Parágrafo Transitorio Adicionado por el Art. 9 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.6.2.3.2 — De los residuos o desechos de plaguicidas
 
 Los residuos o desechos peligrosos de plaguicidas se rigen por las normas vigentes específicas sobre la materia o aquellas que las modifiquen o sustituyan, salvo las disposiciones que sean contrarias a las establecidas en el presente decreto.
 
 (Decreto 4741 de 2005, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3.3 — De los residuos o desechos radiactivos
 
@@ -26095,23 +23816,17 @@ Los residuos o desechos radiactivos se rigen por la normatividad ambiental vigen
 
 (Decreto 4741 de 2005, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.6.2.3.4 — De las autoridades ambientales o entidades territoriales
 
 Cualquier normativa que expidan las autoridades ambientales o las entidades territoriales en materia de residuos o desechos peligrosos, deberá ser motivada y estar sujeta a los principios de armonía regional, gradación normativa y rigor subsidiario, de acuerdo con lo establecido en el artículo 63 de la Ley 99 de 1993.
 
 (Decreto 4741 de 2005, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.6.2.3.5 — Vigilancia y Control
 
 Las autoridades ambientales competentes controlarán y vigilarán el cumplimiento de las medidas establecidas en el presente decreto en el ámbito de su competencia. Lo anterior, independientemente de las funciones de prevención, inspección, control y vigilancia que compete a las autoridades sanitarias, policivas, de comercio exterior, de aduanas y transporte, entre otras, según sea el caso.
 
 (Decreto 4741 de 2005, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3.6 — De los anexos
 
@@ -26737,15 +24452,11 @@ GENERALIDADES
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.1 — Objeto
 
 El presente título tiene por objeto establecer medidas ambientales para el manejo de los plaguicidas, y para la prevención y el manejo seguro de los desechos o residuos peligrosos provenientes de los mismos, con el fin de proteger la salud humana y el ambiente. Lo anterior sin perjuicio de la obtención de las licencias, permisos y autorizaciones a que haya lugar, de conformidad con la normatividad ambiental vigente y demás normas concordantes.
 
 (Decreto 1443 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.7.1.1.2 — Ámbito de aplicación
 
@@ -26753,15 +24464,11 @@ Las disposiciones del presente título se aplican en el territorio nacional a la
 
 (Decreto 1443 de 2004, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.3 — Principios
 
 La gestión ambiental de los plaguicidas se rige por los principios básicos de ciclo de vida integral, manejo seguro y responsable, reducción y comunicación del riesgo, precaución y prevención.
 
 (Decreto 1443 de 2004, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.7.1.1.4 — Definiciones
 
@@ -26823,11 +24530,381 @@ SECCIÓN 1
 
 GENERALIDADES
 
-## art:2.2.7 — B.1.1.1 Objeto
+## art:2.2.7b.1.1.1 — Objeto
 
 El presente capítulo tiene como objeto adoptar mecanismos y otras disposiciones para la gestión integral de las sustancias químicas de uso industrial, incluida su gestión del riesgo, que sean identificadas y clasificadas con alguna clase y categoría de peligro del Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA) de la Organización de las Naciones Unidas, conforme a lo dispuesto en el Decreto 1496 de 2018 o las normas que lo modifiquen o sustituyan.
 
 (Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.1.2 — Ámbito de aplicación
+
+Las disposiciones contenidas en el presente capítulo se aplican en todo el territorio nacional a las personas naturales y jurídicas que gestionen las sustancias a que se refiere el artículo 2.2.7B.1.1.1 del presente capítulo, en el marco de sus actividades de producción, importación, uso, comercialización, distribución o transporte.
+
+PARÁGRAFO . Conforme con los análisis de la información disponible en la materia, compilados por el Ministerio de Ambiente y Desarrollo Sostenible, las disposiciones previstas en el presente capítulo no aplican a la gestión integral de las siguientes sustancias químicas de uso industrial:
+
+1. Aquellas sustancias químicas que tengan una regulación específica para su uso, así como aquellas que en el futuro cuenten con dicha regulación.
+
+2. Sustancias de composición desconocida o variable, productos de reacción complejos o materiales biológicos - UVCB.
+
+3. Artículos.
+
+4. Impurezas.
+
+5. Sustancias de origen natural sin procesamiento químico.
+
+6. Sustancias que resultan de una reacción química como consecuencia de su exposición a factores ambientales (aire, humedad, luz solar, organismos microbianos) o del almacenamiento de otro producto, durante el uso final de otros productos que no se han fabricado, importado ni comercializado como tales.
+
+7. Sustancias que no son fabricadas, importadas o comercializadas como tales resultantes de una reacción química.
+
+8. Subproductos que no se han importado o comercializado como tales.
+
+9. Hidratos de una sustancia o iones hidratados.
+
+10. Polímeros, incluidos las unidades monoméricas y los aditivos que forman parte de los polímeros.
+
+11. Sustancias que se encuentren en tránsito aduanero.
+
+12. Sustancias intermedias no aisladas.
+
+13. Muestras sin valor comercial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.1.3 — Definiciones
+
+Para efectos de la aplicación del presente capítulo, se adoptan y adaptan las siguientes definiciones:
+
+1. Artículo: Objeto manufacturado al que se le da una forma o diseño específico durante la fabricación, que tiene funciones de uso final que dependen total o parcialmente de su forma o diseño y que no tiene ningún cambio de composición química durante su uso final o solo aquellos cambios de composición que no tienen un propósito comercial aparte del artículo, y que resultan de una reacción química que ocurre con el uso final de otras sustancias químicas, mezclas o artículos.
+
+2. Buenas Prácticas de Laboratorio (BPL) de la Organización para la Cooperación y Desarrollo Económicos (OCDE): Representan un sistema de garantía de calidad relativo al modo de organización de los estudios de seguridad no clínicos referentes a la salud y el ambiente y a las condiciones en que estos estudios se planifican, ejecutan, controlan, registran, archivan e informan.
+
+3. Estudio de seguridad no clínico: Se refiere a un ensayo o conjunto de ensayos relativo a la salud o al ambiente en los cuales un producto o sustancia s examinado bajo condiciones de laboratorio o en campo, incluyendo el trabajo realizado en invernaderos. Su objetivo es obtener los datos de sus propiedades o referentes a su seguridad, destinados a las autoridades reguladoras competentes para fines de registro.
+
+4. Gestión Integral de las sustancias químicas de uso industrial, incluida su gestión del riesgo: Se refiere al uso seguro de las sustancias químicas en todo su ciclo de vida, que permitan prevenir, reducir, mitigar o eliminar los riesgos para la salud o el ambiente.
+
+5. Impureza: Un constituyente no intencional presente en una sustancia química luego de su fabricación, pudiendo tener origen en las materias primas utilizadas o ser resultado de reacciones secundarias o incompletas durante el proceso de fabricación.
+
+6. Mezcla: Es una solución que se obtiene a partir de unir, de manera intencional, dos o más sustancias sin que se produzca reacción química.
+
+7. Sustancia química: Elemento químico y sus compuestos en estado natural u obtenidos mediante cualquier proceso de producción, incluidos los aditivos necesarios para conservar la estabilidad del producto y las impurezas que resulten del proceso utilizado y excluidos los disolventes que puedan separarse sin afectar a la estabilidad de la sustancia ni modificar su composición.
+
+8. Sustancia química de origen natural sin procesamiento químico: Sustancia presente como tal de manera natural, no procesada o procesada solo por medios manuales, mecánicos o gravitacionales; o bien por disolución en agua, por flotación, o por extracción con agua, o por destilación con vapor o por calentamiento únicamente para eliminar el agua; o que se obtiene de la atmósfera por cualquier medio.
+
+9. Sustancia química intermedia no aislada: Sustancia que se fabrica y consume o usa para procesos químicos de transformación en otra sustancia (síntesis), que durante dicho proceso no se extrae intencionalmente (excepto para tomar muestras).
+
+10. Sustancia química monoconstituyente: Es aquella en la que está presente un constituyente a una concentración mínima del 80% (p/p) y contiene hasta un 20% (p/p) de impurezas. Una sustancia monoconstituyente se denomina en función del constituyente principal.
+
+11. Sustancia química multiconstituyente: Es aquella definida por su composición cuantitativa, en cuya concentración está presente más de un constituyente > 10% (p/p) y < 80% (p/p). La sustancia multiconstituyente es el resultado de una reacción química del proceso de fabricación.
+
+12. Sustancia química nueva: Sustancia importada o fabricada en el país con posterioridad al plazo establecido en el parágrafo 6 del artículo 2.2.7B.1.2.2 del presente capítulo y que no se encuentra en el Inventario Nacional de Sustancias Químicas de Uso Industrial.
+
+13. Uso industrial: Hace referencia a toda transformación, formulación, consumo, almacenamiento, conservación, tratamiento, envasado, trasvasado, mezcla, producción de un artículo o cualquier otra utilización de una sustancia química o mezcla en la industria.
+
+14. Usuario de sustancias químicas de uso industrial: Toda persona natural o jurídica establecida en el país, que use una sustancia, ya sea monoconstituyente, multiconstituyente o en forma de mezcla, en el transcurso de sus actividades industriales.
+
+15. Uso identificado: Uso de una sustancia, como tal o en forma de mezcla, previsto por el importador o fabricante, incluyendo su uso propio, o el aceptado por el importador o fabricante conforme lo informado por un usuario de la sustancia o mezcla.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+SECCIÓN 2
+
+## art:2.2.7b.1.2.1 — Instrumentos de gestión de las sustancias químicas de uso industrial, incluida su gestión del riesgo
+
+Los instrumentos para la gestión integral de las sustancias químicas de uso industrial, son los siguientes:
+
+1. Inventario Nacional de Sustancias Químicas de Uso Industrial;
+
+2. Instrumento de Priorización de las sustancias químicas, que hacen parte del Inventario Nacional de Sustancias Químicas de Uso Industrial, de acuerdo con los criterios de selección que se definan para tal fin;
+
+3. Evaluación del riesgo para la salud o para el ambiente, de acuerdo con el uso identificado;
+
+4. Programas de reducción y manejo del riesgo para el ambiente o para la salud.
+
+PARÁGRAFO . El fabricante o importador será responsable de la información que se incluya en el marco del cumplimiento de los instrumentos de gestión establecidos en el presente artículo.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.2 — Inventario Nacional de Sustancias Químicas de Uso Industrial
+
+El Inventario Nacional de Sustancias Químicas de Uso Industrial es una base de datos de información sobre las sustancias químicas producidas o importadas en el territorio nacional que permite asociar a cada sustancia, las cantidades fabricadas o importadas, los usos identificados y la peligrosidad.
+
+Las personas naturales y jurídicas que importen o fabriquen sustancias químicas de uso industrial, ya sean monoconstituyentes, multiconstituyentes y las incorporadas en las mezclas cuyos volúmenes superen los cien (100) kilogramos anuales, estarán obligados a suministrar a través del aplicativo informático, la siguiente información:
+
+1. Datos de identificación del fabricante o importador de la sustancia química;
+
+2. Cantidad de producción o importación anual de la sustancia química. En el aplicativo informático del inventario y en su instructivo de diligenciamiento, se definirán las condiciones para el reporte de las cantidades de las sustancias químicas que hacen parte de las mezclas.
+
+3. Identificación de la sustancia química, incluyendo número CAS (cuando aplique);
+
+4. Clasificación de peligros de acuerdo con el Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos de la Naciones Unidas, conforme a lo dispuesto en el Decreto 1496 de 2018 o las normas que lo modifiquen o sustituyan;
+
+5. Usos identificados.
+
+PARÁGRAFO 1. Los Ministerios de Comercio, Industria y Turismo, del Trabajo, Salud y Protección Social y Ambiente y Desarrollo Sostenible, dispondrán de un plazo de seis (6) meses, contados a partir de la entrada en vigencia del presente capítulo para establecer un aplicativo informático y su instructivo de diligenciamiento con el fin de que los importadores y fabricantes incorporen la información en el Inventario Nacional de Sustancias Químicas de Uso Industrial.
+
+PARÁGRAFO 2. El aplicativo informático será administrado y operado por el Ministerio de Comercio, Industria y Turismo.
+
+PARÁGRAFO 3. Los importadores y fabricantes deberán actualizar anualmente la información señalada en el presente artículo y suministrar cualquier otra información cuando haya tenido un cambio frente a la información disponible en el Inventario Nacional, conforme con lo indicado en el instructivo de diligenciamiento del aplicativo informático.
+
+Cuando el fabricante o importador de la sustancia qu1m1ca de uso industrial no continúe realizando la actividad de importación o fabricación de la sustancia química, deberá informarlo, conforme con lo dispuesto en el instructivo de diligenciamiento del aplicativo informático
+
+PARÁGRAFO 4. TRANSITORIO Se dispondrá de un plazo de hasta tres (3) años, contados a partir del establecimiento del aplicativo informático y de su instructivo de diligenciamiento, para que los fabricantes e importadores cuyos volúmenes superen los cien (100) kilogramos anuales de sustancias químicas de uso industrial, ya sean monoconstituyentes, multiconstituyentes y las incorporadas en las mezclas, ingresen la información solicitada en el Inventario Nacional de Sustancias Químicas de Uso Industrial.
+
+PARÁGRAFO 5. TRANSITORIO Para efectos del Inventario Nacional a que hace referencia este artículo, los importadores o fabricantes de sustancias químicas de uso industrial de cantidades anuales inferiores a los cien (100) kilogramos o importadas o fabricadas antes del plazo de tres (3) años establecido en el presente artículo ya sean monoconstituyentes, multiconstituyentes y las incorporadas en las mezclas, podrán ingresar de manera voluntaria en el aplicativo informático la información solicitada en el presente artículo.
+
+PARÁGRAFO 6. Para las sustancias químicas de uso industrial nuevas, que superen la cantidad de cien (100) kilogramos anuales, el importador o fabricante tendrá un plazo máximo de seis (6) meses para diligenciar la información solicitada en el presente artículo.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.3 — 2.3
+
+Instrumento de Priorización de sustancias químicas que hagan parte del Inventario Nacional de Sustancias Químicas de Uso Industrial. Los Ministerios de Ambiente y Desarrollo Sostenible, de Salud y Protección Social y del Trabajo, con base en la información obtenida del Inventario Nacional, definirán los criterios y condiciones que permitan identificar las sustancias que se consideren prioritarias o de interés para la salud o el ambiente, a las cuales se les requerirá información detallada o específica adicional que permita la toma de decisiones para su gestión integral.
+
+PARÁGRAFO : La información adicional, que se requiera para las sustancias priorizadas, se capturará a través del aplicativo informático que se desarrolle para el inventario Nacional, de que trata el artículo anterior del presente capítulo.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.4 — Evaluación de riesgo para el ambiente
+
+El Ministerio de Ambiente y Desarrollo Sostenible definirá los lineamientos para la elaboración de las evaluaciones de riesgo, estableciendo aquella información que deberá estar disponible de manera permanente para los usuarios de las sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.5 — Evaluación de riesgo para la salud
+
+En relación con las evaluaciones de riesgo para la salud, el Ministerio de Salud y Protección Social definirá los lineamientos para su elaboración, estableciendo aquella información que deberá estar disponible de manera permanente para los usuarios de las sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.6 — Evaluaciones de riesgo para el ambiente o para la salud de las sustancias químicas de uso industrial nuevas
+
+Para las sustancias químicas de uso industrial nuevas que cumplan los criterios y condiciones para que se consideren como prioritarias o de interés para la salud o el ambiente, conforme con lo señalado en el instrumento a que hace referencia el artículo 2.2.7B.1.2.3, el importador o fabricante deberá llevar a cabo una evaluación de riesgo para el ambiente o para la salud de esta sustancia, que permita conocer el riesgo asociado al uso identificado en el territorio nacional.
+
+PARÁGRAFO : Si el importador o fabricante identifica un nuevo uso para una sustancia inventariada y que se considera prioritaria o de interés para la salud o el ambiente, conforme con lo señalado en el instrumento a que hace referencia el artículo 2.2.7B.1.2.3, se deberá llevar a cabo una evaluación de riesgo para el ambiente o para la salud de esta sustancia, que permita conocer el riesgo asociado al nuevo uso, identificado.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.7 — Programas de reducción y manejo de riesgo para el ambiente y para la salud por parte del importador o fabricante
+
+Para las sustancias químicas de uso industrial que cumplan los criterios y condiciones para que se consideren como prioritarias o de interés para la salud o el ambiente, conforme con lo señalado en el instrumento a que hace referencia el artículo 2.2.7B.1.2.3. y los análisis técnicos que se realicen a la información obtenida en los instrumentos de que trata el artículo 2.2.7B.1.2.1, el importador o fabricante deberá elaborar e implementar un programa de reducción y manejo del riesgo para el ambiente y para la salud, que contenga el conocimiento y manejo del riesgo asociado al uso identificado de la sustancia.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.8 — 2.8
+
+Lineamientos para la elaboración del Programa para la reducción y manejo del riesgo para el ambiente por parte del Ministerio de Ambiente y Desarrollo Sostenible. En relación con los programas de reducción y manejo del riesgo para el ambiente que establece el artículo 2.2.7B.1.2.7 del presente decreto, el Ministerio de Ambiente y Desarrollo Sostenible definirá los lineamientos para la elaboración e implementación de estos programas, estableciendo aquella información que deberá estar disponible de manera permanente para los usuarios de las sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.2.9 — 2.9
+
+Lineamientos para la elaboración del Programa para la reducción y manejo del riesgo para la salud por parte del Ministerio de Salud y Protección Social. En relación con los programas de reducción y manejo del riesgo para la salud que establece el artículo 2.2.7B.1.2.7 del presente decreto, el Ministerio de Salud y Protección Social definirá los lineamientos para la elaboración e implementación de estos programas, estableciendo aquella información que deberá estar disponible de manera permanente para los usuarios de las sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+SECCIÓN 3
+
+OBLIGACIONES
+
+## art:2.2.7b.1.3.1 — De la obligación de los importadores o fabricantes
+
+El fabricante o importador de sustancias químicas de uso industrial deberá:
+
+1. Garantizar la gestión Integral del riesgo asociado al uso industrial de las sustancias químicas en las etapas de fabricación e importación.
+
+2. Identificar, clasificar, etiquetar y elaborar la Ficha de Datos de Seguridad (FDS) de las sustancias químicas de uso industrial, de acuerdo al Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA), conforme con lo dispuesto en el Decreto 1496 de 2018 o las normas que lo modifiquen o sustituyan.
+
+3. Proporcionar la información requerida en el Inventario Nacional y su Priorización, a través del aplicativo informático.
+
+4. Tener disponible de manera permanente para los usuarios de las sustancias químicas de uso industrial, la información de las evaluaciones del riesgo y los programas de reducción y manejo del riesgo para la salud o para el ambiente:
+
+5. Proporcionar la información que requieran las autoridades competentes respecto de los instrumentos para la gestión de las sustancias químicas de uso industrial y realizar las acciones que estas soliciten como resultado del proceso de inspección, vigilancia y control.
+
+6. Apoyar y participar en los procesos de investigación sobre la gestión del riesgo asociado a las sustancias químicas de uso industrial.
+
+7. Dar cumplimiento a lo establecido en la sección 8 del capítulo 7 del título 1 del libro 2 del Decreto 1079 de 2015, Decreto Único del Sector Administrativo de Transporte o las normas que lo modifiquen, adicionen o sustituyan, para el transporte de las sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.3.2 — De las obligaciones del comercializador o distribuidor
+
+El comercializador o distribuidor de sustancias químicas de uso industrial deberá cumplir con las siguientes obligaciones:
+
+1. Garantizar la gestión Integral del riesgo asociado al uso industrial de las sustancias químicas en las etapas de comercialización o distribución
+
+2. Verificar que las sustancias químicas estén etiquetadas de acuerdo al Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA) y que cuenten con su respectiva Ficha de Datos de Seguridad (FDS), conforme con lo dispuesto en el Decreto 1496 de 2018 o las normas que lo modifiquen o sustituyan. Los comercializadores o distribuidores serán responsables a su vez de suministrar la respectiva Ficha de Datos de Seguridad a sus clientes.
+
+3. En caso de realizar reenvase, deben etiquetar las sustancias químicas de uso industrial de acuerdo con el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA), conforme a lo dispuesto en el Decreto 1496 de 2018 o las normas que lo modifiquen o sustituyan, con base en la información proporcionada por el importador o fabricante en la Ficha de Datos de Seguridad (FDS).
+
+4. Realizar las acciones que les correspondan según los programas de reducción y manejo del riesgo para el ambiente o para la salud que defina el importador o fabricante.
+
+5. Seguir las instrucciones de manejo seguro suministradas por el fabricante o importador de las sustancias químicas de uso industrial.
+
+6. Dar cumplimiento a lo establecido en la sección 8 del capítulo 7 del título 1 del libro 2 del Decreto 1079 de 2015 Único del Sector Administrativo de Transporte o las normas que lo modifiquen o sustituyan, cuando transporte sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.3.3 — De las obligaciones del transportador
+
+El transportador de sustancias químicas de uso industrial deberá dar cumplimiento a lo establecido en la sección 8 del capítulo 7 del título 1 del libro 2 del Decreto 1079 de 2015, Único del Sector Administrativo de Transporte o las normas que la modifiquen o sustituyan, cuando transporte sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.3.4 — De las obligaciones del usuario
+
+El usuario de sustancias químicas de uso industrial deberá sujetarse a lo que establezcan los programas de reducción y manejo del riesgo para el ambiente o para la salud definidos por el importador o fabricante en los casos que aplique, para lo cual cumplirá con las siguientes obligaciones:
+
+1. Verificar que las sustancias químicas estén etiquetadas de acuerdo con el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA) y que cuenten con su respectiva Ficha de Datos de Seguridad (FDS), conforme con lo dispuesto en el Decreto 1496 de 2018 o las normas que lo modifiquen o sustituyan.
+
+2. Informar al fabricante o importador, sobre los nuevos usos a que se destine la sustancia y que no se encuentren relacionados en el inventario de que trata el artículo 2.2.7B.1.2.2 del presente decreto. En el caso de ser aceptado el nuevo uso por el importador o fabricante, brindarle la información que se requiera para la formulación de la evaluación y el programa de reducción y manejo del riesgo, salvo aquella legalmente protegida.
+
+3. Solicitar al importador o fabricante de las sustancias químicas de uso industrial que requieran programas de reducción y manejo del riesgo para el ambiente o para la salud, la información adicional que considere pertinente para implementar las acciones que les correspondan en dicho programa.
+
+4. Realizar las acciones que les correspondan en los programas de reducción y manejo del riesgo para el ambiente o para la salud que defina el importador o fabricante, adaptadas a sus condiciones particulares de uso.
+
+5. Informar a las autoridades competentes cuando se evidencie que el fabricante o importador no tenga disponible de manera permanente para los usuarios de sustancias químicas de uso industrial, los programas de reducción y manejo del riesgo para el ambiente o para la salud o en el caso de encontrar inconsistencias en la información disponible. Â·
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+SECCIÓN 4
+
+MONITOREO AMBIENTAL Y DE EFECTOS EN LA SALUD
+
+## art:2.2.7b.1.4.1 — Monitoreo ambiental de las sustancias químicas de uso industrial
+
+Para efectos del monitoreo ambiental de las sustancias químicas de uso industrial, el Ministerio de Ambiente y Desarrollo Sostenible, en el marco del Sistema de Información Ambiental para Colombia (SIAC), establecerá un mecanismo de captura de información ambiental de las emisiones y transferencias de contaminantes que se generen a partir del uso de las sustancias objeto del presente decreto.
+
+La información recopilada mediante este mecanismo de captura servirá de apoyo a las actividades de seguimiento y control a cargo de las autoridades ambientales, respecto a las emisiones y transferencias de contaminantes que se generen a partir de las sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.42 — Monitoreo de los efectos en la salud por el uso de las sustancias químicas de uso industrial
+
+Para el monitoreo de los efectos en salud, créase el Sistema de Gestión Toxicológica que determinará los componentes, procesos, procedimientos y responsables de proveer la información de la identificación de peligros, la exposición y los efectos en la salud por las sustancias químicas de uso industrial.
+
+El sistema permitirá adoptar por parte de las entidades competentes, las medidas de prevención, mitigación, reducción y control de los riesgos de intoxicación, y asistir en la prevención, diagnóstico y tratamiento de los efectos adversos a la salud.
+
+PARÁGRAFO 1. El Sistema de Gestión Toxicológica estará a cargo del Ministerio de Salud y Protección Social. Para el efecto, este Ministerio desarrollará los aspectos concernientes a la definición, organización y operación, y los demás necesarios para su implementación, con el apoyo técnico del Ministerio de Trabajo en el ámbito de sus competencias.
+
+PARÁGRAFO 2. El Ministerio del Trabajo definirá los mecanismos de recopilación, validación y reporte al Sistema de Gestión Toxicológica, sobre los factores de riesgo y eventos por exposición ocupacional a sustancias químicas de uso industrial en el marco de sus competencias.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+SECCIÓN 5
+
+COORDINACIÓN INSTITUCIONAL
+
+## art:2.2.7b.1.5.1 — Grupo técnico de trabajo interministerial, de sustancias químicas de uso industrial
+
+Habrá un grupo técnico de trabajo interministerial conformado por delegados de los Ministerios de Salud y Protección Social, Trabajo, Comercio, Industria y Turismo y Ambiente y Desarrollo Sostenible, para hacer seguimiento a los resultados de la implementación de los instrumentos de gestión de sustancias químicas de uso industrial establecidos en el presente decreto y su efectividad en la gestión integral de dichas sustancias, que se reunirá al menos dos (2) veces al año.
+
+PARÁGRAFO . Corresponderá al Ministerio de Ambiente y Desarrollo Sostenible realizar la coordinación operativa del Grupo Técnico interministerial de sustancias químicas de uso industrial.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+SECCIÓN 6
+
+RÉGIMEN DE TRATAMIENTO DE LA INFORMACIÓN
+
+## art:2.2.7b.1.6.1 — De los datos confiables existentes
+
+Para efectos de todo lo dispuesto en el presente capítulo, los datos que se utilicen en los instrumentos de gestión definidos en el artículo 2.2.7B.1.2.1 deberán provenir de fuentes de información confiables que cumplan con alguno de los requisitos establecidos en los numerales 2 y 3 del artículo 5 del Decreto 1496 de 2018, o sean recomendadas por los Ministerios de Salud y Protección Social, del Trabajo y de Ambiente y Desarrollo Sostenible.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.6.2 — De la aceptación mutua de datos
+
+Cuando no se disponga de datos confiables existentes y se requiera realizar estudios de seguridad no clínicos a las sustancias químicas de uso industrial, estos deberán ser generados por una entidad de ensayo conforme a los Principios de las Buenas Prácticas de Laboratorio (BPL) de la Organización para la Cooperación y el Desarrollo Económicos -OCDE-, donde se aceptarán los métodos de ensayo de la OCDE o sus equivalentes. Las entidades de ensayo deberán ser inspeccionadas por el Organismo Nacional de Acreditación (ONAC) en el país y cuando se trate de entidades de ensayo fuera del territorio nacional estas deberán ser inspeccionadas por su autoridad nacional de monitoreo de los principios de las BPL de la OCDE, cuyo programa de monitoreo forme parte del Acuerdo de Aceptación Mutua de Datos.
+
+PARÁGRAFO . Cuando no exista en el país una entidad de ensayo con reconocimiento BPL de la Organización para la Cooperación y el Desarrollo Económicos -OCDE- para la realización de estudios de seguridad no clínicos, para los efectos del presente decreto se aceptarán los datos que se generen mediante ensayos realizados en laboratorios acreditados bajo la norma ISO/IEC 17025 por el Organismo Nacional de Acreditación de Colombia - ONAC u otros Organismos de Acreditación que hagan parte de los acuerdos de reconocimiento multilateral suscritos por el ONAC.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.6.3 — Uso de la información
+
+El uso de información por parte de terceros que se incluya en el marco del cumplimiento de los instrumentos de gestión establecidos en el artículo 2.2.7B.1.2.1 del presente decreto, el intercambio de datos y demás aspectos relacionados con el acceso, entrega y divulgación de la información de que trata el presente Capítulo, deberá ser de conformidad con las leyes y normas aplicables.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.6.4 — De la información Pública de las sustancias químicas de uso industrial
+
+La información pública de las sustancias químicas de uso industrial será la que cumpla con los requisitos y parámetros establecidos en la Ley 1712 de 2014 y en la Ley 1950 de 2019.
+
+PARÁGRAFO . La divulgación de datos no confidenciales podrá considerar las sugerencias contenidas en la Recomendación de la Organización para la Cooperación y el Desarrollo Económicos - OCDE- LEGAL/0205.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+## art:2.2.7b.1.6.5 — Del intercambio de información confidencial
+
+El Gobierno nacional podrá intercambiar la información confidencial sobre sustancias químicas de uso industrial de conformidad con las leyes y normas internacionales aplicables, así como las sugerencias contenidas en la Recomendación de la Organización para la Cooperación y el Desarrollo Económicos - OCDE - LEGAL/0204.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+SECCIÓN 7
+
+INSPECCIÓN, VIGILANCIA Y CONTROL
+
+## art:2.2.7b.1.7.1 — De la inspección, vigilancia y control
+
+La inspección, vigilancia y control al cumplimiento de las disposiciones previstas en el presente capítulo, le corresponderá a cada uno de los sectores en el ámbito de sus competencias, en materia sanitaria, de seguridad y salud en el trabajo, ambientales y de comercio, de conformidad con las normas aplicables para cada sector.
+
+Podrá darse aplicación al principio de coordinación para la ejecución de estas acciones.
+
+(Adicionado por el Art. 1 del Decreto 1630 de 2021)
+
+"TITULO 7 C
+
+(Título 7C, Adicionado por el Art, 1 del Decreto 2192 del 2023)
+
+PLÁSTICOS DE UN SOLO USO
+
+## art:2.2.7c.1 — Objeto
+
+El presente título tiene por objeto reglamentar las medidas orientadas a la reducción de la producción y consumo de plásticos de un solo uso en el territorio nacional, conforme a lo dispuesto en los artículos 12, 16 Y 34 de la Ley 2232 de 2022.
+
+## art:2.2.7c.2 — Ámbito de aplicación
+
+Las disposiciones de este título aplican a quienes introduzcan en el mercado, comercialicen, distribuyan o consuman, plásticos de un solo uso, así como a las autoridades definidas, en el marco de sus competencias.
+
+## art:2.2.7c.3 — Prohibición de ingreso de plásticos de un solo uso a áreas protegidas y Ecosistemas Sensibles
+
+La prohibición establecida en el artículo 12 de la Ley 2232 de 2022 aplica para todas las áreas pertenecientes al Sistema Nacional de Áreas Protegidas, según se determinan en el artículo 2.2.2.1.2.1 de este reglamento, al igual que para las áreas del Sistema Regional de Áreas Protegidas de acuerdo con los lineamientos que establezcan las autoridades ambientales competentes. Aplica igualmente a humedales incluidos en la lista de humedales de importancia internacional (RAMSAR), ecosistemas de páramos, ecosistemas marinos sensibles y reservas de biósfera.
+
+Las excepciones que establecen los parágrafos 2 y 3 del citado artículo 12 de la Ley 2232 de 2022, aplicarán bajo las siguientes condiciones, sujetas al control de la autoridad ambiental competente:
+
+1.Solo podrán ingresar aquellos plásticos de un solo uso necesarios para atender las necesidades personales de las comunidades y guardaparques que viven en las áreas protegidas y estos plásticos o los productos que los contengan, en ningún caso podrán ser objeto de comercialización al interior del área.
+
+2.Quien bajo el amparo de la excepción pretenda ingresar plásticos de un solo uso, deberá contar con un sistema que asegure la recolección de la totalidad de estos y su gestión fuera del área en cuestión.
+
+## art:2.2.7c.4 — Programa de Comunicación y Cultura Ciudadana
+
+Las autoridades responsables del manejo del área protegida o ecosistema estratégico que corresponda, diseñarán e implementarán un programa de comunicación y cultura ciudadana, con el objetivo de incentivar la adecuada gestión de los residuos, así como la utilización de elementos reutilizables.
+
+De igual forma, informarán de la prohibición a visitantes, funcionarios, contratistas y demás personas que realicen actividades al interior del área respectiva.
+
+En aquellas áreas con vocación turística, la autoridad responsable deberá instalar vallas o anuncios visibles en los sitios de ingreso y brindar información a través de los canales oficiales, advirtiendo sobre esta prohibición y la adecuada gestión de los residuos sólidos.
+
+ARTÍCULO.2.2.7C.5. Incorporación en los Planes de Gestión Integral de Residuos Sólidos -PGIRS. Corresponderá a los municipios y distritos, a través de los PGIRS, la incorporación de mecanismos para la promoción de la formalización y regularización de los recicladores de oficio y de las organizaciones de recicladores de oficio como actores de la cadena de valor del plástico, mediante el programa de Inclusión de Recicladores, y la incorporación de acciones dirigidas a la gestión de residuos plásticos en el Programa de Aprovechamiento, de acuerdo con lo dispuesto en el parágrafo del artículo 16 de la Ley 2232 de 2022.
+
+Para efectos de lo anterior, los Ministerios de Ambiente y Desarrollo Sostenible y de Vivienda, Ciudad y Territorio definirán la necesidad de introducir los ajustes que en este sentido correspondan a la formulación, implementación, seguimiento y actualización de estos planes.
+
+## art:2.2.7c.6 — Empresas Transformadoras
+
+En el marco de lo dispuesto en el artículo 16 de la Ley 2232 de 2022, los Ministerios de Comercio, Industria y Turismo y de Ambiente y Desarrollo Sostenible promoverán las acciones orientadas a estimular la formalización de las empresas transformadoras de plástico, así como la divulgación de la oferta programática para el desarrollo e impulso de este sector.
+
+## art:2.2.7c.7 — Definición de condiciones de Biodegradabílidad y Compostabilídad
+
+El Ministerio de Ambiente y Desarrollo Sostenible definirá las condiciones que deben cumplir los productos plásticos de un solo uso para "ser considerados biodegradables y/o compostables en condiciones ambientales naturales, de acuerdo con los criterios que para el efecto establece el articulo 34 de la Ley 2232 de 2022.
+
+Enel marco de lo anterior, este ministerio definirá las condiciones para que la industria del plástico pueda desarrollar los estudios e investigaciones técnicas para el cumplimiento de los estándares de biodegradación o compostación en condiciones ambientales naturales."
+
+CAPÍTULO 2.
+
+PLAGUICIDAS EN DESUSO
+
+SECCIÓN 1
+
+DESUSO RESPONSABILIDADES, PREVENCION DE EXISTENCIAS DE RESIDUOS O DESECHOS PROVENIENTES DE PLAGUICIDAS
 
 ## art:2.2.7.2.1.1 — Plaguicidas en desuso
 
@@ -26851,15 +24928,11 @@ h) Sus propiedades físicas han cambiado y por tanto no permite su aplicación e
 
 (Decreto 1443 de 2004, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.2 — Prohibición de enterramiento y quema de plaguicidas en desuso
 
 Los desechos y residuos peligrosos de los plaguicidas y los plaguicidas en desuso, no podrán ser enterrados ni quemados a cielo abierto, ni dispuestos en sitios de disposición final de residuos ordinarios. Solamente podrán eliminarse en condiciones de seguridad a través de instalaciones debidamente autorizadas por las autoridades competentes.
 
 (Decreto 1443 de 2004, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.3 — Responsabilidad por la generación y manejo de desechos o residuos peligrosos provenientes de los plaguicidas
 
@@ -26873,8 +24946,6 @@ El receptor de los residuos o desechos de plaguicidas y de los plaguicidas en de
 
 (Decreto 1443 de 2004, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.4 — Responsabilidad solidaria
 
 Mientras no se haya efectuado y comprobado la eliminación del desecho o residuo peligroso de plaguicidas y de los plaguicidas en desuso, el receptor es solidariamente responsable con el generador.
@@ -26883,15 +24954,11 @@ PARÁGRAFO . El generador tiene la obligación de administrar sus existencias de
 
 (Decreto 1443 de 2004, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.5 — Subsistencia de la responsabilidad
 
 La responsabilidad integral del generador, subsiste hasta que los desechos o residuos peligrosos, incluidos los plaguicidas en desuso sean dispuestos o eliminados adecuadamente con carácter definitivo por el receptor autorizado.
 
 (Decreto 1443 de 2004, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.6 — Responsabilidades del generador
 
@@ -26917,8 +24984,6 @@ i) Realizar la caracterización físico-química de los desechos o residuos peli
 
 (Decreto 1443 de 2004, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.7 — Responsabilidades del receptor
 
 De conformidad con las responsabilidades establecidas en la ley, el receptor será responsable, entre otros, de:
@@ -26928,8 +24993,6 @@ a) El manejo ambientalmente racional y seguro de los desechos o residuos peligro
 b) De la obtención de la respectiva licencia ambiental por parte de la autoridad ambiental competente de acuerdo con lo establecido en el presente título o las normas que la modifiquen o sustituyan.
 
 (Decreto 1443 de 2004, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.8 — Prevención de existencia o desechos o residuos peligrosos provenientes de los plaguicidas
 
@@ -26955,8 +25018,6 @@ DEL MANEJO INTEGRAL DE PLAGUICIDAS
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.1 — Puesta en el mercado de plaguicidas
 
 De conformidad con las obligaciones establecidas en la ley, las personas naturales o jurídicas que distribuyan o comercialicen plaguicidas, o cualquier otra persona responsable de su puesta en el mercado, serán responsables entre otros, de:
@@ -26969,8 +25030,6 @@ c) Informar a los usuarios o consumidores finales, sobre el mecanismo de retorno
 
 (Decreto 1443 de 2004, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.2 — Consumo de plaguicidas
 
 De conformidad con las obligaciones establecidas en la ley, las personas naturales o jurídicas que utilicen plaguicidas, cualquiera que sea su propósito, entre otros, deberán:
@@ -26982,8 +25041,6 @@ b) Devolver los envases y empaques de acuerdo al mecanismo de recolección que l
 c) Mantener en los mínimos posibles, las existencias de plaguicidas a ser usados.
 
 (Decreto 1443 de 2004, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.3 — Almacenamiento de plaguicidas
 
@@ -26998,8 +25055,6 @@ c) Contar con un programa de capacitación para el personal responsable del mane
 d) Entregar los residuos o desechos peligrosos, incluyendo los plaguicidas en desuso, para su eliminación final, exclusivamente a personas naturales o jurídicas que cuente con las debidas autorizaciones.
 
 (Decreto 1443 de 2004, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.4 — Transporte de plaguicidas
 
@@ -27017,23 +25072,17 @@ e) Responsabilizarse solidariamente con el remitente por el derrame o esparcimie
 
 (Decreto 1443 de 2004, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.5 — Responsabilidades de las autoridades ambientales
 
 Las autoridades ambientales controlarán y vigilarán el manejo de los plaguicidas, y de los residuos o desechos peligrosos provenientes de los mismos, de conformidad con lo consagrado en el presente título y demás normas ambientales vigentes.
 
 (Decreto 1443 de 2004, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.6 — Otras obligaciones
 
 Además de lo consagrado en el presente título- y la normatividad ambiental vigente, las personas naturales o jurídicas que manejen plaguicidas y/o los residuos o desechos peligrosos provenientes de los mismos, deberán dar cumplimiento a lo establecido en la materia por las autoridades de tránsito y transporte, salud y protección social y agricultura, entre otros.
 
 (Decreto 1443 de 2004, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.7 — Sanciones
 
@@ -27051,13 +25100,243 @@ CAPÍTULO I
 
 DISPOSICIONES GENERALES
 
+## art:2.2.7a.1.1 — Objeto
+
+El presente título tiene por objeto reglamentar la gestión integral de los residuos de aparatos eléctricos y electrónicos - RAEE, con el fin de prevenir y minimizar los impactos adversos al ambiente.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.1.2 — Ámbito de aplicación
+
+Las disposiciones de este título se aplican en todo el territorio nacional a los productores, comercializadores, usuarios o consumidores de aparatos eléctricos y electrónicos -AEE y los gestores de RAEE, así como, a las autoridades involucradas en la gestión integral de los aparatos y sus residuos.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.1.3 — Sistema de Recolección y Gestión de RAEE
+
+Instrumento de control y manejo ambiental que contiene los requisitos y condiciones para garantizar la recolección selectiva y gestión ambiental de los residuos de aparatos eléctricos y electrónicos - RAEE por parte de los productores.
+
+El Ministerio de Ambiente y Desarrollo Sostenible establecerá los lineamientos y requisitos que deberán cumplir los sistemas de recolección y gestión de RAEE a cargo de los productores y los indicadores de gestión por resultados para su evaluación y monitoreo, conforme al principio de gradualidad establecido en la Ley 1672 de 2013.
+
+(Decreto 284 de 2018, art. 1)
+
+CAPÍTULO II
+
+ALCANCE DE LAS OBLIGACIONES DE LOS ACTORES INVOLUCRADOS EN EL SISTEMA DE RECOLECCIÓN Y GESTIÓN DE RAEE
+
+## art:2.2.7a.2.1 — Del productor
+
+Teniendo en cuenta la definición de productor establecida en la Ley 1672 de 2013, asumen tal calidad y las obligaciones que le son propias, los comercializadores que desarrollen cualquier actividad de las descritas en los literales contenidos en el artículo 4 de la citada ley.
+
+Las personas naturales o jurídicas que fabriquen o importen AEE para uso propio, tendrán también la calidad de productor. El Ministerio de Ambiente y Desarrollo Sostenible establecerá las condiciones o requisitos que deberán cumplir dichas personas en el marco de lo establecido en la Ley 1672 de 2013.
+
+En desarrollo de las obligaciones del productor que establece el numeral 2 del artículo 6 de la Ley 1672 de 2013, se tendrá en cuenta lo siguiente:
+
+1. En la priorización de alternativas de aprovechamiento de los RAEE a cargo del productor establecida en el literal c) de este numeral, se buscará promover la incorporación de los componentes, partes o materiales obtenidos de los residuos en los ciclos económicos y productivos del país.
+
+2. La información a que se refiere el literal e) de dicho numeral, deberá ser suministrada por el productor siempre que le sea requerida por el gestor o alguna parte interesada.
+
+3. El diseño y la implementación de las estrategias dirigidas a los usuarios o consumidores de sus productos para lograr la eficiencia en la devolución y recolección de los RAEE, así como, las campañas informativas y de sensibilización sobre la retoma y gestión adecuada de los RAEE, de conformidad con los literales h) e i), deberán ser coordinadas con la cadena de comercialización de los AEE y las autoridades competentes.
+
+En el marco de estas mismas estrategias y en cumplimiento de lo dispuesto en el literal b) del mismo numeral, el productor deberá asegurar la implementación de puntos de recolección, centros de acopio o mecanismos equivalentes de recolección para garantizar la devolución de los RAEE por parte del usuario o consumidor, sin costo alguno a cargo de este.
+
+4. El productor deberá brindar los medios necesarios para garantizar que la información a que se refiere el literal k) del mencionado numeral 2, esté disponible y asequible para el usuario o consumidor, gestor de RAEE o autoridad interesada
+
+5. La información que debe ser suministrada por el productor a los usuarios o consumidores de los AEE, a través de las etiquetas, empaques o anexos de los productos, conforme a lo establecido en los literales f) y I) del mismo numeral, se sujetará a las condiciones y requisitos que para tal efecto establezca el Ministerio de Comercio, Industria y Turismo en coordinación con las autoridades a que haya lugar.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.2.2 — De los comercializadores
+
+En el marco del apoyo técnico y logístico que le corresponde brindar al productor sin perjuicio de las responsabilidades de este, y para el cumplimiento de las obligaciones por parte de los comercializadores de AEE, de acuerdo con el parágrafo del numeral 2 y el numeral 3 del artículo 6 de la Ley 1672 de 2013, se deberá tener en cuenta lo siguiente:
+
+1. La información dirigida a los usuarios o consumidores, sobre los parámetros para una correcta devolución y gestión de los residuos de los AEE comercializados, debe ser presentada en forma visible en sus establecimientos comerciales y a través de otros medios de difusión que los comercializadores consideren pertinentes.
+
+2. El comercializador deberá coordinar con los productores lo relativo al diseño e implementación de estrategias y campañas, informativas y de sensibilización, dirigidas a los usuarios o consumidores de los AEE comercializados, para lograr la eficiencia en la devolución y recolección de los RAEE y que faciliten el cambio hacia hábitos de consumo sostenibles.
+
+3. El comercializador deberá aceptar la devolución de los RAEE por parte del usuario o consumidor, sin costo alguno para este, teniendo en cuenta, las siguientes condiciones:
+
+3.1. Cuando venda un AEE nuevo, deberá estar en capacidad física de recibir del usuario o consumidor, en su punto de venta, un RAEE que sea de tipo equivalente y haya realizado las mismas funciones que el aparato vendido. El Ministerio de Ambiente y Desarrollo Sostenible podrá definir plazos y condiciones para asegurar el cumplimiento gradual de esta obligación.
+
+3.2. Aquellos establecimientos de comercio que vendan AEE y cuenten con una superficie total superior a 2.500 m2, deben disponer de espacios adecuados y visibles al público, para que los productores puedan instalar contenedores para la recolección y devolución de RAEE, sin costo alguno para el productor. El Ministerio de Ambiente y Desarrollo Sostenible podrá definir las condiciones bajo las cuales esta obligación podrá hacerse extensiva a establecimientos de menor tamaño.
+
+4. Entregar la totalidad de los RAEE recolectados a los respectivos sistemas de recolección y gestión de RAEE establecidos por los productores o a través de terceros que actúen en su nombre. Esta entrega se realizará de forma coordinada con el productor. Mientras no se haya realizado dicha entrega, el comercializador es responsable por la integridad y seguridad de los RAEE recolectados.
+
+PARÁGRAFO . Las autoridades competentes impondrán sanciones por el incumplimiento de estas obligaciones, sin perjuicio de las medidas que la Superintendencia de Industria y Comercio pueda tomar en virtud de sus competencias legales para la protección al consumidor.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.2.3 — De los usuarios o consumidores
+
+En desarrollo de las obligaciones establecidas en el numeral 4 del artículo 6 de la Ley 1672 de 2013, los usuarios o consumidores de AEE deben:
+
+1. Prevenir la generación de los RAEE mediante prácticas para la extensión de la vida útil de los AEE.
+
+2. Realizar una correcta separación en la fuente de los RAEE y no disponer estos junto con los demás residuos.
+
+3. Entregar los RAEE en los sitios o a través de los mecanismos que para tal fin dispongan los productores o terceros que actúen en su nombre o a través de los comercializadores.
+
+4. No desensamblar o retirar los componentes de los RAEE previamente a la entrega de los mismos a los sistemas de recolección y gestión que se establezcan.
+
+5. Seguir las instrucciones del productor o de las autoridades competentes, para una correcta devolución de los RAEE a través de los sistemas de recolección y gestión de RAEE que se establezcan.
+
+6. Contribuir en la información y concientización de los demás consumidores mediante la difusión de los mecanismos de devolución y gestión ambientalmente adecuada de los RAEE.
+
+PARÁGRAFO 1 Los usuarios o consumidores podrán entregar los RAEE a través de un gestor licenciado por la autoridad ambiental competente, siempre que no existan los medios o los mecanismos para la devolución de los mismos al productor o al comercializador.
+
+PARÁGRAFO 2. La Superintendencia de Industria y Comercio en el marco de sus competencias legales, realizará acciones tendientes a brindar la información general a los consumidores de los AEE, acerca de su deber de cumplir con la normatividad sobre la gestión integral de los RAEE y su derecho a ser informado por los productores y comercializadores sobre el adecuado manejo y devolución de los mismos. Lo anterior, podrá ser realizado en coordinación con las entidades territoriales y las autoridades ambientales de la jurisdicción respectiva.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.2.4 — De los gestores
+
+En desarrollo de las obligaciones establecidas en el numeral 5 del artículo 6 de la Ley 1672 de 2013, las personas naturales o jurídicas que presten en forma total o parcial los servicios de recolección, transporte, almacenamiento, tratamiento, aprovechamiento y/o disposición final de RAEE, deben como mínimo:
+
+1. Contar con la respectiva licencia ambiental, cuando se realicen las actividades para las que se establece el cumplimiento de este requisito. La licencia deberá especificar el (los) proceso(s) de gestión o de manejo para cada tipo de RAEE, que se efectúe(n) en la instalación.
+
+2. Gestionar las corrientes o los flujos de residuos peligrosos presentes en los RAEE de acuerdo con la normativa vigente para tal fin.
+
+3. Expedir las certificaciones de la gestión de los RAEE recibidos, correspondientes a las actividades sujetas a licencia ambiental conforme al numeral 11 del artículo 2.2.2.3.2.3. del Decreto 1076 de 2015. El Ministerio de Ambiente y Desarrollo Sostenible definirá la información que deberá contener tales certificaciones.
+
+4. Expedir las certificaciones correspondientes a las actividades de recolección y transporte de los RAEE, El Ministerio de Ambiente y Desarrollo Sostenible definirá la información que deberá contener tales certificaciones.
+
+5. Registrarse como Gestor de RAEE de conformidad con lo que se disponga para tal fin por el Ministerio de Ambiente y Desarrollo Sostenible.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.2.5 — De las autoridades ambientales
+
+Las autoridades ambientales deben:
+
+1. Promover y difundir la Política Nacional para la Gestión Integral de Residuos de Aparatos Eléctricos y Electrónicos - RAEE, así como, implementar la misma en el marco de sus competencias.
+
+2. Apoyar de manera coordinada. con los demás actores, las actividades de divulgación, promoción y educación que orienten a los usuarios o consumidores de los AEE, sobre la prevención de la generación y las prácticas para la extensión de la vida útil de los AEE, la separación en la fuente, el reciclaje y los sistemas de recolección y gestión de los RAEE.
+
+3. Divulgar a través de su sitio WEB oficial, el listado actualizado de los gestores de RAEE licenciados en el área de su jurisdicción, en el que se incluya como mínimo la siguiente información: tipos de RAEE que pueden gestionar, tipos de actividades autorizadas y acceso electrónico al respectivo acto administrativo del licenciamiento ambiental.
+
+4. Dar cumplimiento de las obligaciones que defina el Ministerio de Ambiente y Desarrollo Sostenible, en el marco de la implementación del registro de gestores que establece la Ley 1672 de 2013 y las demás que se establezcan.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.2.6 — De las entidades territoriales
+
+Los departamentos, municipios y distritos, en el marco de la gestión integral de los residuos sólidos, deberán incorporar en los planes de desarrollo territoriales acciones encaminadas a facilitar y apoyar la gestión diferenciada de los residuos de aparatos eléctricos y electrónicos - RAEE, a través de:
+
+1. El apoyo a las estrategias y la consecución de los objetivos de la Política Nacional para la Gestión Integral de Residuos de Aparatos Eléctricos y Electrónicos - RAEE.
+
+2. La realización de manera coordinada con los demás actores involucrados, de las actividades de divulgación, promoción y educación que orienten a los usuarios o consumidores de los AEE sobre la prevención de la generación y las prácticas para la extensión de la vida útil de los AEE, la separación en la fuente, el reciclaje y los sistemas de recolección y gestión de los RAEE que establezcan los productores.
+
+3. La facilitación de la implementación de los mecanismos de recolección de los RAEE a cargo de los productores,
+
+(Decreto 284 de 2018, art. 1)
+
+CAPÍTULO III
+
+DE LA INFORMACIÓN SOBRE LOS APARATOS ELECTRICOS Y ELECTRONICOS (AEE) y de los RAEE
+
+## art:2.2.7a.3.1 — Del registro de productores y comercializadores de AEE
+
+Los productores y comercializadores de AEE, deberán inscribirse en el registro de productores y comercializadores de AEE que establezca el Ministerio de Comercio, Industria y Turismo.
+
+La reglamentación que para efectos de este registro expida el Ministerio de Comercio, Industria y Turismo, contemplará como mínimo los siguientes aspectos que serán definidos de manera coordinada con el Ministerio de Ambiente y Desarrollo Sostenible:
+
+1. La información y requisitos para el control de los sistemas de recolección y gestión de RAEE, que indique el Ministerio de Ambiente y Desarrollo Sostenible.
+
+2. El registro será de forma electrónica y garantizará su interoperabilidad, con otras plataformas de información que se establezcan para la gestión de los RAEE.
+
+3. Definirá la información que deberá ser declarada y actualizada anualmente por los productores y comercializadores.
+
+PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible, la Autoridad Nacional de Licencias Ambientales, las autoridades ambientales y las demás entidades públicas que de acuerdo con sus competencias se encuentren involucradas en la gestión de los aparatos y sus residuos, tendrán libre acceso a la información del registro de productores y comercializadores que lleve el Ministerio de Comercio, Industria y Turismo.
+
+(Decreto 284 de 2018, art. 1)
+
+CAPÍTULO IV
+
+DISPOSICIONES FINALES
+
+## art:2.2.7a.4.1 — Del transporte de los RAEE
+
+El transporte de los RAEE se realizará garantizando la integridad de los mismos de forma que puedan darse las condiciones para su posterior reutilización y reciclado, evitando su rotura, exceso de apilamiento, emisión de sustancias y pérdida de materiales,
+
+Sólo aplicará lo dispuesto en los artículos 2.2.1.7.8.1 al 2.2.1.7.8.7.2 de la Sección 8 - Transporte Terrestre Automotor de Mercancías Peligrosas del Capítulo 7 - Servicio Público de Transporte Terrestre Automotor de Carga, del Título 1 - Parte 2 - Libro 2 del Decreto 1079 de 2015, Único Reglamentario del Sector Transporte, a aquellos RAEE que se clasifiquen como mercancías peligrosas.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.4.2 — De la clasificación de los AEE
+
+El Ministerio de Ambiente y Desarrollo Sostenible definirá una lista indicativa de AEE, para efectos de la gestión de sus residuos, por categorías y subcategorías, para lo cual tendrá en cuenta, entre otros aspectos, el Sistema Armonizado de Designación y Codificación de Mercancías (SA) vigente para los AEE importados y la Clasificación Central de Productos (CPC) vigente para los AEE fabricados en el país.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.4.3 — De los RAEE de las entidades públicas
+
+En el marco de las obligaciones que les compete a las entidades públicas como usuarias o consumidoras de AEE, los bienes que correspondan a AEE dados de baja y que carecen de valor comercial en razón a su obsolescencia, deterioro, daño total o cualquier otro hecho que impida su venta, de acuerdo con la normativa vigente en materia de enajenación de bienes del Estado, deberán ser entregados en calidad de RAEE, a los sistemas de recolección y gestión de RAEE que establezcan los productores o terceros que actúen en su nombre, después de haber surtido los procedimientos internos de manejo y control administrativo de bienes de la respectiva entidad.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.4.4 — De la evaluación y seguimiento a los Sistemas de Recolección y Gestión de RAEE
+
+La Autoridad Nacional de Licencias Ambientales - ANLA evaluará, aprobará y realizará el seguimiento ambiental a los sistemas de recolección y gestión de los RAEE.
+
+La ANLA implementará una herramienta informática que le permita capturar y procesar la información de los Sistemas de Recolección y Gestión de RAEE, de conformidad con la reglamentación que expida el Ministerio de Ambiente y Desarrollo Sostenible. Así mismo, la herramienta deberá facilitar la generación e intercambio de información para monitorear la operación y evaluar los resultados de los sistemas que se establezcan.
+
+PARÁGRAFO 1. La ANLA a través de la mencionada herramienta pondrá a disposición del público a través de su sitio WEB oficial, como mínimo, la siguiente información, la cual deberá ser actualizada periódicamente:
+
+1. Nombre o razón social de los productores con sistemas de recolección y gestión de RAEE aprobados, indicando información de contacto para el consumidor (domicilio, teléfono, sitio WEB, nombres de las personas de atención al consumidor u otros mecanismos de información), el tipo de sistema (individual o colectivo), las marcas de los productos comercializados y cubiertos por el sistema, nombre o razón social de los gestores de RAEE encargados de las operaciones de manejo de los RAEE y tipo de actividad que realiza, y nombre o razón social de los comercializadores involucrados en el sistema.
+
+2. Las categorías y subcategorías de los RAEE que recibe cada sistema de recolección y gestión, la ubicación geográfica de los puntos de recolección permanentes y centros de acopio y en caso de que haya mecanismos equivalentes implementados, la información sobre la operación de los mismos.
+
+3. Indicadores de gestión por resultados de los Sistemas de Recolección y Gestión de RAEE.
+
+4. Cualquier otra información que considere pertinente el Ministerio de Ambiente y Desarrollo Sostenible o la ANLA.
+
+PARÁGRAFO 2. Las competencias que en materia de evaluación y seguimiento establece este artículo en cabeza de la ANLA referidas a los sistemas de recolección y gestión de los RAEE, aplican sin perjuicio de la competencia a prevención que tienen las demás autoridades ambientales en el marco de la Ley
+
+1333 de 2009 en relación con el control y seguimiento ambiental en el área de su jurisdicción.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.4.5 — Obligaciones generales
+
+Conforme con lo establecido en la Ley 1672 de 2013, en relación con los RAEE, no se podrá:
+
+1. Disponer los RAEE en rellenos sanitarios.
+
+2. Disponer los RAEE en rellenos de seguridad o celdas de seguridad, si existen gestores o empresas autorizadas por las autoridades ambientales, con capacidad instalada suficiente para el aprovechamiento de tales residuos.
+
+3. Abandonar los RAEE en el espacio público o entregarlos a personas diferentes de aquellas que de acuerdo con lo previsto en el presente decreto y en las demás normas aplicables, no se encuentren autorizadas.
+
+4. Realizar actividades de almacenamiento, tratamiento, aprovechamiento o disposición final de los RAEE sin contar con la respectiva licencia ambiental o de acuerdo con la normativa vigente.
+
+5. La quema de los RAEE, sus partes, componentes o materiales que se hayan extraído.
+
+(Decreto 284 de 2018, art. 1)
+
+## art:2.2.7a.4.6 — Régimen sancionatorio
+
+Las autoridades ambientales en el ámbito de sus competencias impondrán las medidas preventivas y/o sancionatorias a que haya lugar, conforme a lo dispuesto en la Ley 1333 de 2009.
+
+Asimismo, todas las personas naturales y jurídicas que realicen un mal manejo o una inadecuada disposición de los RAEE, serán objeto de sanción de acuerdo con lo establecido en el artículo 111 de la Ley 1801 de 2016.
+
+De otra parte, las autoridades competentes podrán imponer multas o sanciones a las personas naturales o jurídicas que vulneren el derecho de los consumidores conforme lo establecido en la Ley 1480 de 2011
+
+(Decreto 284 de 2018, art. 1)
+
+TÍTULO 8.
+
+GESTIÓN INSTITUCIONAL
+
+CAPÍTULO 1.
+
+TRANSICIÓN INSTITUCIONAL
+
+SECCIÓN 1
+
 ## art:2.2.8.1.1.1 — Gradualidad
 
 Las Entidades del Sistema Nacional Ambiental asumirán las nuevas funciones asignadas en la Ley 99 de 1993, en la medida en que se determinen las dependencias que deben asumir esas funciones. Ese proceso se adelantará en forma gradual y coherente, de modo que no se causen traumatismos institucionales que afecten a los recursos naturales o al medio ambiente.
 
 (Decreto 632 de 1994, art. 1, inciso 1)
-
-ARTÍCULO
 
 ## art:2.2.8.1.1.2 — Reglas para asumir funciones
 
@@ -27067,15 +25346,11 @@ La asunción de funciones para el otorgamiento de concesiones, licencias, permis
 
 (Decreto 632 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.1.1.3 — Grandes centros urbanos
 
 Los Municipios, distritos y áreas metropolitanas cuya población urbana fuere igual o superior a un millón de habitantes, entrarán a ejercer, en los términos de los artículos anteriores, las funciones de que tratan los artículos 55 y 66 de la Ley 99 de 1993, para lo cual deberán organizarse administrativamente.
 
 (Decreto 632 de 1994, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.8.1.1.4 — Transitoriedad en aplicación de normas de Salud
 
@@ -27083,15 +25358,11 @@ Sin Perjuicio de lo establecido en los artículos anteriores, cuando las Corpora
 
 (Decreto 632 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.8.1.1.5 — Reglamentos
 
 En Los eventos en que la ley subordine la realización de actividades, actuaciones administrativas y en general permisos, licencias y autorizaciones a reglamentos que deba proferir el Gobierno Nacional y hasta tanto éstos se expidan, se continuarán aplicando las normas que regulan tales materias, en cuanto no sean contrarias a la Ley 99 de 1993.
 
 (Decreto 632 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.8.1.1.6 — Expedición de reglamentos, parámetros, lineamientos o cupos
 
@@ -27101,15 +25372,11 @@ Las entidades que vienen conociendo tales asuntos, deberán enviar la informaci�
 
 (Decreto 632 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.8.1.1.7 — Estudios y declaraciones de efecto ambiental
 
 Los estudios, declaraciones de efecto ambiental presentados con el fin de obtener concesiones, permisos o licencias ambientales, y que hagan parte de procedimientos en curso, se tendrán como los estudios de impacto ambiental a que hace referencia el artículo 58 de la Ley 99 de 1993, siempre que de acuerdo con los conceptos técnicos, cumplan con los requisitos establecidos en esa misma disposición.
 
 (Decreto 632 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.1.1.8 — Principios generales ambientales
 
@@ -27117,15 +25384,11 @@ Para todos los efectos, las entidades que ejerzan funciones en materia de medio 
 
 (Decreto 632 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.8.1.1.9 — Divulgación
 
 En La medida en que las entidades asuman las nuevas funciones, divulgarán ampliamente dichas circunstancias.
 
 (Decreto 632 de 1994, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.8.1.1.10 — Recepción de Información
 
@@ -27146,8 +25409,6 @@ Del Consejo Nacional Ambiental. El Consejo Nacional Ambiental creado en virtud d
 Las recomendaciones del Consejo, no son obligatorias y por lo tanto, no constituyen pronunciamientos o actos administrativos de los miembros que lo integran.
 
 (Decreto 3079 de 1997, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.2 — Miembros del Consejo
 
@@ -27209,8 +25470,6 @@ PARÁGRAFO 2. El Gobierno Nacional reglamentará la periodicidad y la forma en q
 
 (Decreto 3570 de 2011, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.3 — Funciones
 
 Son funciones del Consejo Nacional Ambiental, las siguientes:
@@ -27229,8 +25488,6 @@ Nacional.
 
 (Decreto 3570 de 2011, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.4 — Secretaría Técnica
 
 La Secretaría Técnica del Consejo Nacional Ambiental será ejercida por el Viceministro de Ambiente y Desarrollo Sostenible, el cual desarrollará, además de las incorporadas en el reglamento del Consejo Nacional Ambiental las siguientes:
@@ -27245,8 +25502,6 @@ La Secretaría Técnica del Consejo Nacional Ambiental será ejercida por el Vic
 
 (Decreto 3570 de 2011, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.5 — Sesiones
 
 El Consejo Nacional Ambiental deberá reunirse ordinariamente por lo menos una vez cada seis (6) meses previa convocatoria de la Secretaría Técnica del Consejo nacional Ambiental y extraordinariamente a solicitud de su Presidente o de la tercera parte de sus miembros.
@@ -27257,15 +25512,11 @@ El Consejo podrá invitar a cualquiera de sus sesiones a personas del sector pú
 
 (Decreto 3079 de 1997, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.6 — De las Actas
 
 Las actas de las sesiones del Consejo Nacional Ambiental serán suscritas por el Presidente y el Secretario Técnico del Consejo.
 
 (Decreto 3079 de 1997, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.7 — Del Presidente del Consejo Nacional Ambiental
 
@@ -27291,15 +25542,11 @@ Son funciones del Presidente del Consejo, las siguientes:
 
 (Decreto 3079 de 1997, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.8 — Período
 
 Los representantes de las Corporaciones Autónomas Regionales y de las Corporaciones de Desarrollo Sostenible comunidades indígenas, comunidades negras, gremios de la producción agrícola, gremios de la producción industrial, gremios de la producción minera, gremios de exportadores, organizaciones ambientales no gubernamentales, universidades, serán elegidos para un período de cuatro (4) años.
 
 (Decreto 1867 de 1994, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.9 — Elección representante de las comunidades indígenas
 
@@ -27315,8 +25562,6 @@ PARÁGRAFO Cuando ocurra falta absoluta o renuncia del representante indígena a
 
 (Decreto 1867 de 1994, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.10 — Elección representante de las comunidades negras
 
 Los representantes de las comunidades negras serán elegidos por el Ministro de Ambiente y Desarrollo Sostenible de acuerdo con las siguientes reglas:
@@ -27330,8 +25575,6 @@ Los representantes de las comunidades negras serán elegidos por el Ministro de 
 PARÁGRAFO . Cuando ocurra falta absoluta o renuncia del representante al Consejo Nacional Ambiental, lo reemplazará cualquiera de los dos candidatos restante de la terna, a elección del Ministro de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1867 de 1994, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.11 — Elección representantes de las organizaciones ambientales no gubernamentales
 
@@ -27357,8 +25600,6 @@ PARÁGRAFO 2. Cuando a la reunión no asistiere ninguna organización ambiental 
 
 (Decreto 1668 de 2002, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.12 — Faltas Temporales
 
 Son faltas temporales del representante de las organizaciones ambientales no gubernamentales, las siguientes:
@@ -27372,8 +25613,6 @@ e) Decisión emanada de autoridad competente;
 d) Licencia o vacaciones.
 
 (Decreto 1668 de 2002, art.3.)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.13 — Faltas absolutas
 
@@ -27393,15 +25632,11 @@ f) Inasistencia a más de dos reuniones seguidas del Consejo Nacional Ambiental 
 
 (Decreto 1668 de 2002, art.4.)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.14 — Forma de llenar las faltas
 
 En caso de falta temporal o absoluta del representante de las organizaciones ambientales no gubernamentales lo reemplazará su suplente por el término que dure la ausencia del principal o por el tiempo restante, según el caso.
 
 (Decreto 1668 de 2002, art. 5.)
-
-ARTÍCULO
 
 ## art:2.2.8.2.1.15 — Elección representantes gremios
 
@@ -27419,8 +25654,6 @@ PARÁGRAFO . Cuando ocurra falta absoluta o renuncia de un representante al Cons
 
 (Decreto 1867 de 1994, art. 6.)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.16 — Representante Universidades
 
 El representante de las Universidades será elegido por el Consejo Nacional de Educación Superior, CESU, de acuerdo con las siguientes reglas:
@@ -27435,8 +25668,6 @@ El representante de las Universidades será elegido por el Consejo Nacional de E
 
 (Decreto 1867 de 1994, art.9.)
 
-ARTÍCULO
-
 ## art:2.2.8.2.1.17 — Representante de las corporaciones
 
 El representante de las Corporaciones Autónomas Regionales y de las de Desarrollo Sostenible será elegido por ellas mismas, para lo cual la Asociación de Corporaciones Autónomas Regionales, de Desarrollo Sostenible y Autoridades Ambientales de Grandes Centros Urbanos adelantará la reunión pertinente.
@@ -27449,15 +25680,11 @@ CONSEJO TÉCNICO ASESOR DE POLÍTICA Y NORMATIVIDAD AMBIENTALES
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.1 — Carácter del Consejo Técnico Asesor de Política y Normatividad Ambientales
 
 El Consejo Técnico Asesor de Política y Normatividad Ambientales que crea el parágrafo 1 del artículo 11 de la Ley 99 de 1993, tiene el carácter de órgano asesor del Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 2600 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.2 — Miembros del Consejo Técnico Asesor de Política y Normatividad Ambientales
 
@@ -27477,8 +25704,6 @@ De acuerdo con el parágrafo 1 del artículo 11 de la Ley 99 de 1993, el Consejo
 
 (Decreto 2600 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.3 — Requisitos que deben cumplir los miembros del Consejo Técnico Asesor de Política y Normatividad Ambientales
 
 Los miembros del Consejo Técnico Asesor de Política y Normatividad Ambientales de que trata el artículo anterior, deben cumplir con los siguientes requisitos mínimos de formación académica y experiencia profesional:
@@ -27488,8 +25713,6 @@ Los miembros del Consejo Técnico Asesor de Política y Normatividad Ambientales
 2. Representante de los Gremios de la Producción. Experiencia mínima profesional comprobada de cinco (5) años en formulación de políticas de ambiente y recursos naturales del sector al cual pertenece el gremio que representa.
 
 (Decreto 2600 de 2009, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.4 — Funciones del Consejo Técnico Asesor de Política y Normatividad Ambientales
 
@@ -27513,8 +25736,6 @@ Las recomendaciones del Consejo se formularán por consenso. En el evento en que
 
 (Decreto 2600 de 2009, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.5 — 1.5
 
 Procedimiento de selección de los miembros del Consejo Técnico Asesor de Política y Normatividad Ambientales.Para efectos de designar a los miembros del Consejo Técnico Asesor de Política y Normatividad Ambientales se deberá seguir el siguiente procedimiento.
@@ -27535,15 +25756,11 @@ PARÁGRAFO . Los miembros del Consejo Técnico Asesor de Política y Normativida
 
 (Decreto 2600 de 2009, art. 5 modificado por el Decreto 4549 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.3.1.6 — Comités Técnicos
 
 Con el objeto de contar con una participación técnica más amplia de los sectores o grupos cuyo aporte pueda resultar beneficioso para las deliberaciones que se adelanten al interior del Consejo Técnico Asesor de Política y Normatividad Ambientales y dada la especialización de los temas que son sometidos a su consideración, este podrá conformar Comités Técnicos de apoyo, cuando por las circunstancias se requiera.
 
 (Decreto 2600 de 2009, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.7 — Invitados a las Sesiones del Consejo Técnico Asesor de Política y Normatividad Ambientales
 
@@ -27552,8 +25769,6 @@ El Presidente del Consejo podrá invitar a cualquiera de las sesiones del Consej
 De manera permanente será invitado un representante de la Superintendencia Financiera, de la Cámara de Comercio de Bogotá y de los gremios de la producción de (i) servicios públicos, (ii) de energía y (iii) de minas; para este último, si el consejero en ejercicio es del sector de minas, será invitado un representante del gremio de la producción de hidrocarburos, y en caso que el consejero en ejercicio sea de! sector hidrocarburos, será invitado un representante del gremio de la producción de minas.
 
 (Decreto 2600 de 2009, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.3.1.8 — Secretaría Técnica del Consejo Técnico Asesor de Política y Normatividad Ambientales
 
@@ -27583,11 +25798,65 @@ CAPÍTULO 3A
 
 Consejo Nacional del Agua
 
-## art:2.2.8.3 — A.1.1
+## art:2.2.8.3a.1.1 — Objeto del Consejo Nacional del Agua
 
-Objeto del Consejo Nacional del Agua. El Consejo Nacional del Agua tiene por objeto la coordinación y articulación de las políticas, planes y programas de las entidades del Estado con la Política Nacional para la Gestión Integral del Recurso Hídrico.
+El Consejo Nacional del Agua tiene por objeto la coordinación y articulación de las políticas, planes y programas de las entidades del Estado con la Política Nacional para la Gestión Integral del Recurso Hídrico.
 
 (Decreto 585 de 2017 art. 1)
+
+## art:2.2.8.3a.1.2 — Conformación
+
+El Consejo Nacional del Agua estará integrado por:
+
+. El Ministro de Ambiente y Desarrollo Sostenible o su delegado.
+
+. El Director del Departamento Nacional de Planeación o su delegado.
+
+. El Ministro de Minas y Energía o su delegado.
+
+. El Ministro de Agricultura y Desarrollo Rural o su delegado.
+
+. El Ministro de Vivienda, Ciudad y Territorio o su delegado.
+
+. El Ministro de Salud y Protección Social o su delegado.
+
+PARÁGRAFO 1. Será miembro permanente del Consejo, con voz pero sin voto, el Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM. Así mismo, a las sesiones del Consejo se podrá invitar a personas naturales o jurídicas quienes contarán con voz pero sin voto, con el fin de discutir aspectos relevantes en el desarrollo de su objeto.
+
+PARÁGRAFO 2. El Ministerio de Ambiente y Desarrollo Sostenible ejercerá la Secretaría Técnica del Consejo a través de su Director de Recurso Hídrico.
+
+(Decreto 585 de 2017 art. 1)
+
+## art:2.2.8.3a.1.3 — Funciones del Consejo Nacional del Agua
+
+Las funciones del Consejo Nacional del Agua serán las siguientes:
+
+1. Promover en coordinación con las entidades competentes, el desarrollo de planes, programas y proyectos dirigidos a la conservación y sostenibilidad del recurso hídrico, mejoramiento de la calidad del agua, el uso eficiente y ahorro del agua, la regulación hídrica, gestión del riesgo asociado al recurso hídrico y gobernanza del agua, entre otros, con el fin de elevar la calidad de vida de la población.
+
+2. Proponer lineamientos y acciones a nivel intersectorial para alcanzar los objetivos de la Política Nacional para la Gestión Integral del Recurso Hídrico.
+
+3. Promover la definición y articulación de recursos financieros por parte de las entidades que conforman el Consejo en el marco de sus competencias, para adelantar acciones prioritarias en materia de gestión integral del recurso hídrico.
+
+4. Plantear al Sistema Nacional de Gestión del Riesgo de Desastres acciones o estrategias para la identificación y manejo del riesgo de desastres relacionados con el recurso hídrico en el marco de la Política Nacional de Gestión del Riesgo de Desastres.
+
+5. Proponer a las entidades competentes, líneas de estudio e investigación enfocados a la disminución de la contaminación y el uso eficiente y ahorro del agua, entre otras, así como estrategias para su financiación,
+
+6. Crear comités técnicos que faciliten la operatividad del Consejo.
+
+7. Establecer su propio reglamento.
+
+(Decreto 585 de 2017 art. 1)
+
+## art:2.2.8.3a.1.4 — Herramientas de articulación y coordinación del Consejo Nacional del Agua
+
+El Consejo Nacional del Agua tendrá como herramientas de articulación y coordinación, los comités técnicos, integrados por delegados de las entidades miembros del Consejo e invitados, en el marco de la Política Nacional para la Gestión Integral del Recurso Hídrico.
+
+(Decreto 585 de 2017 art. 1)
+
+CAPÍTULO 4.
+
+CORPORACIONES AUTÓNOMAS REGIONALES Y DE DESARROLLO SOSTENIBLE
+
+SECCIÓN 1.
 
 ## art:2.2.8.4.1.1 — Naturaleza jurídica
 
@@ -27597,21 +25866,15 @@ PARÁGRAFO .- Para los efectos del presente capítulo las corporaciones autónom
 
 (Decreto 1768 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.2 — Normas aplicables
 
 Las corporaciones se regirán por las disposiciones de la Ley 99 de 1993, el presente capítulo y las que las sustituyan o reglamenten. En lo que fuere compatible con tales disposiciones, por ser de creación legal se les aplicarán las normas previstas para las entidades descentralizadas del orden nacional.
 
 (Decreto 1768 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.3 — Corporaciones
 
 Las corporaciones son entidades públicas relacionadas con el nivel nacional, con el departamental y con el municipal.
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.4 — Relación con las entidades territoriales
 
@@ -27619,15 +25882,11 @@ Las entidades territoriales de la jurisdicción de cada corporación son sus aso
 
 (Decreto 1768 de 1994, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.5 — Relación con el Ministerio de Ambiente y Desarrollo Sostenible
 
 Las corporaciones pertenecen al SINA y en consecuencia el Ministerio de Ambiente y Desarrollo Sostenible como organismo rector del sistema, orientará y coordinará la acción de las corporaciones de manera que resulte acorde y coherente con la política ambiental nacional, lo cual hará a través de su participación en el consejo directivo y de lineamientos y directrices que con carácter general expida, sin perjuicio de los demás mecanismos establecidos por la ley, por el presente capítulo y demás normas que lo complementen. De conformidad con lo establecido por los artículos 5 numeral 16 y 36 de la Ley 99 de 1993 el ministerio ejercerá sobre las corporaciones inspección y vigilancia, en los términos de la ley, el presente capítulo y demás normas que las complementen o modifiquen, tendiente a constatar y procurar el debido, oportuno y eficiente cumplimiento de las funciones establecidas en la Ley 99 de 1993.
 
 (Decreto 1768 de 1994, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.6 — Obligaciones generales
 
@@ -27637,15 +25896,11 @@ Los miembros de los órganos de dirección de las corporaciones actuarán consul
 
 (Decreto 1768 de 1994, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.7 — Planificación ambiental
 
 La planificación ambiental es la herramienta prioritaria y fundamental para el cumplimiento de los objetivos de las corporaciones y para garantizar la continuidad de las acciones. Deberá realizarse de manera armónica y coherente con los planes regionales y locales. Para tal fin, las corporaciones elaborarán planes y programas a corto, mediano y largo plazo y en los estatutos respectivos se establecerán los mecanismos de planificación y los que permitan evaluar su cumplimiento.
 
 (Decreto 1768 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.8 — Régimen de los actos
 
@@ -27655,15 +25910,11 @@ Los actos que las corporaciones expidan en cumplimiento de funciones administrat
 
 (Decreto 1768 de 1994, art. 8, inciso 1)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.9 — Régimen de contratos
 
 Las corporaciones sujetarán su régimen contractual a lo establecido en la Ley 80 de 1993, sus normas reglamentarias y las demás que las modifiquen o adicionen.
 
 (Decreto 1768 de 1994, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.10 — Naturaleza jurídica del patrimonio
 
@@ -27673,8 +25924,6 @@ Por ser el patrimonio de carácter público, estará sujeto a las normas que sob
 
 (Decreto 1768 de 1994, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.11 — Régimen patrimonial y presupuestal
 
 Las corporaciones tienen autonomía patrimonial. El patrimonio y rentas de las corporaciones son las definidas en el artículo 46 de la Ley 99 de 1993.
@@ -27683,8 +25932,6 @@ En el presupuesto general de la Nación se harán anualmente apropiaciones globa
 
 (Decreto 1768 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.12 — Régimen de personal
 
 Adoptase para los empleados de las Corporaciones, el sistema de nomenclatura y clasificación de los empleos establecido en el Decreto 1042 de 1978 o la norma que la modifique o sustituya, hasta tanto se adopte el sistema especial para las corporaciones.
@@ -27692,8 +25939,6 @@ Adoptase para los empleados de las Corporaciones, el sistema de nomenclatura y c
 Las personas que prestan sus servicios a las corporaciones tendrán la condición de empleados públicos por regla general. Excepcionalmente serán trabajadores oficiales aquellas personas que desarrollen las actividades de construcción y sostenimiento de obras públicas.
 
 (Decreto 1768 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.13 — Articulación con el Sistema Nacional Ambiental, SINA
 
@@ -27705,15 +25950,11 @@ El Ministerio del Medio Ambiente y Desarrollo Sostenible adoptará las medidas t
 
 (Decreto 1768 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.14 — Órganos de dirección y administración
 
 Las corporaciones tendrán como órganos principales de dirección y administración la asamblea corporativa, el consejo directivo y el director general, de acuerdo con lo dispuesto en los artículos 24 a 29 de la Ley 99 de 1993.
 
 (Decreto 1768 de 1994, art.14)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.15 — De la Asamblea Corporativa
 
@@ -27725,15 +25966,11 @@ Las decisiones de las asambleas corporativas se denominarán "acuerdos de asambl
 
 (Decreto 1768 de 1994, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.16 — Revisoría fiscal
 
 En desarrollo de la función establecida en el literal b) del artículo 25 de la Ley 99 de 1993 y en concordancia con las leyes que regulan el control interno y las normas sobre auditoría fiscal, le compete a la asamblea corporativa designar el revisor fiscal. Para el desempeño de esta labor se tendrán en cuenta esencialmente las actividades que se indiquen estatutariamente, dentro del marco establecido en el Código de Comercio para esta clase de revisorías y su vinculación será mediante un contrato de prestación de servicios.
 
 (Decreto 1768 de 1994, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.17 — De la conformación del consejo directivo
 
@@ -27753,8 +25990,6 @@ PARÁGRAFO .- Los honorarios de los miembros de los consejos directivos de las c
 
 (Decreto 1768 de 1994, art. 17 modificado por la Ley 1263 de 2008, art. 1, parágrafo 3)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.18 — Período de los miembros del consejo directivo
 
 El período de los miembros del consejo directivo que resultan de procesos de elección es el siguiente:
@@ -27764,8 +25999,6 @@ El período de los miembros del consejo directivo que resultan de procesos de el
 2. Cuatro (4) años para los representantes del sector privado, organizaciones no gubernamentales, etnias, comunidades indígenas y negras y demás representantes de la comunidad u organizaciones privadas o gremiales.
 
 (Decreto 1768 de 1994, art. 18 modificado por la Ley 1263, art.1, parágrafo 1)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.19 — Actuaciones del consejo directivo
 
@@ -27783,15 +26016,11 @@ Las comisiones al exterior de los empleados de las corporaciones y demás situac
 
 (Decreto 1768 de 1994, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.20 — Del director general
 
 El director general es el representante legal de la corporación y su primera autoridad ejecutiva. El director general no es agente de los miembros del consejo directivo y actuará en el nivel regional con autonomía técnica consultando la política nacional. Atenderá las orientaciones y directrices de los entes territoriales, de los representantes de la comunidad y el sector privado que sean dados a través de los órganos de dirección.
 
 (Decreto 1768 de 1994, art.20)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.21 — Calidades del director general
 
@@ -27806,8 +26035,6 @@ c) Experiencia profesional de 4 años adicionales a los requisitos establecidos 
 d) Tarjeta profesional en los casos reglamentados por la ley.
 
 (Decreto 1768 de 1994, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.22 — Nombramiento, plan de acción y remoción del director general
 
@@ -27847,15 +26074,11 @@ Las certificaciones sobre representación legal y vigencia del nombramiento de d
 
 (Modificado por el Art. 1 del Decreto 1540 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.23 — Jurisdicción coactiva
 
 Las corporaciones tienen jurisdicción coactiva para hacer efectivos los créditos exigibles a su favor, de acuerdo con las normas establecidas para las entidades públicas del sector nacional, en la Ley 6 de 1992 o la norma que la modifique o sustituya.
 
 (Decreto 1768 de 1994, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.24 — Estructura orgánica
 
@@ -27863,23 +26086,17 @@ La estructura orgánica básica de las corporaciones será flexible, horizontal 
 
 (Decreto 1768 de 1994, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.25 — Régimen de estímulos
 
 Los empleados de carrera o de ' libre nombramiento y remoción de las corporaciones podrán gozar del régimen de prima técnica y estímulos a la eficiencia, conforme a la normatividad vigente.
 
 (Decreto 1768 de 1994, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.8.4.1.26 — Supresión de empleos
 
 En caso de supresión de empleos inscritos y escalafonados en la carrera administrativa, de los empleados pertenecientes a las corporaciones, éstos tendrán derecho a recibir una indemnización conforme a la normativa vigente.
 
 (Decreto 1768 de 1994, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.8.4.1.27 — Comisiones al exterior
 
@@ -27891,8 +26108,6 @@ CAPÍTULO 5
 
 PROCEDIMIENTO DE ELECCIÓN DEL REPRESENTANTE Y SUPLENTE DE LAS COMUNIDADES NEGRAS ANTE LOS CONSEJOS DIRECTIVOS DE LAS CORPORACIONES AUTÓNOMAS REGIONALES
 
-ARTÍCULO
-
 ## art:2.2.8.5.1.1 — Convocatoria
 
 Para la elección del representante y suplente de las comunidades negras a que se refiere el artículo 56 de la Ley 70 de 1993, ante el Consejo Directivo de las Corporaciones Autónomas Regionales, el Director General de la respectiva Corporación formulará invitación pública a los respectivos Consejos Comunitarios, en la cual se indicarán los requisitos para participar en la elección, así como el lugar, fecha y hora para la celebración de la reunión en la cual se hará la elección.
@@ -27900,8 +26115,6 @@ Para la elección del representante y suplente de las comunidades negras a que s
 La convocatoria se publicará en una sola oportunidad en un diario de amplia circulación regional o nacional con treinta (30) días de anterioridad a la fecha de realización de la elección, y se difundirá por una sola vez por medio radial o televisivo.
 
 (Decreto 1523 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.5.1.2 — Requisitos
 
@@ -27915,23 +26128,17 @@ c) Allegar original o copia del documento en el cual conste la designación del 
 
 (Decreto 1523 de 2003, art.2)
 
-ARTÍCULO
-
 ## art:2.2.8.5.1.3 — Revisión de la documentación
 
 La Corporación Autónoma Regional revisará los documentos presentados y verificará el cumplimiento de los requisitos exigidos. Posteriormente, elaborará un informe al respecto, el cual será presentado el día de la reunión de elección.
 
 (Decreto 1523 de 2003, art.3)
 
-ARTÍCULO
-
 ## art:2.2.8.5.1.4 — Plazo para la celebración de la reunión de elección
 
 La elección del representante y suplente, de los Consejos Comunitarios ante los Consejos Directivos de las Corporaciones Autónomas Regionales, se realizará por los representantes legales de los Consejos Comunitarios y se llevará a cabo dentro de los primeros quince (15) días del mes de septiembre del año anterior a la iniciación del período respectivo.
 
 (Decreto 1523 de 2003, art.4)
-
-ARTÍCULO
 
 ## art:2.2.8.5.1.5 — Elección
 
@@ -27944,8 +26151,6 @@ PARÁGRAFO 1. En este último evento, deberá continuar asistiendo al Consejo Di
 PARÁGRAFO 2. Independientemente de la forma de elección que adopten las comunidades negras, su representante y suplente ante el Consejo Directivo de la respectiva Corporación Autónoma Regional, serán en su orden los que obtengan la mayor votación.
 
 (Decreto 1523 de 2003, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.8.5.1.6 — Trámite de la elección
 
@@ -27967,15 +26172,11 @@ PARÁGRAFO . La Corporación Autónoma Regional respectiva prestará el apoyo lo
 
 (Decreto 1523 de 2003, art.6)
 
-ARTÍCULO
-
 ## art:2.2.8.5.1.7 — Período del representante
 
 El período del representante y suplente de los Consejos Comunitarios ante el Consejo Directivo de las Corporaciones Autónomas Regionales será de cuatro (4) años. Se iniciará el 1 de enero del año siguiente al de su elección y concluirá el 31 de diciembre del cuarto año de dicho período.
 
 (Decreto 1523 de 2003, art.7)
-
-ARTÍCULO
 
 ## art:2.2.8.5.1.8 — Faltas temporales
 
@@ -27988,8 +26189,6 @@ b) Ausencia forzada e involuntaria;
 c) Decisión emanada de autoridad competente.
 
 (Decreto 1523 de 2003, art.8)
-
-ARTÍCULO
 
 ## art:2.2.8.5.1.9 — Faltas absolutas
 
@@ -28009,8 +26208,6 @@ f) Inasistencia a dos reuniones consecutivas del Consejo Directivo sin justa cau
 
 (Decreto 1523 de 2003, art.9)
 
-ARTÍCULO
-
 ## art:2.2.8.5.1.10 — Forma de suplir las faltas temporales y absolutas
 
 En casos de falta temporal del representante de las comunidades negras, lo reemplazará su suplente por el término que dure la ausencia.
@@ -28023,11 +26220,81 @@ CAPÍTULO 5ª
 
 TRÁMITE DE ELECCIÓN REPRESENTANTES DEL SECTOR PRIVADO Y SUS SUPLENTES ANTE LOS CONSEJOS DIRECTIVOS DE LAS CORPORACIONES AUTÓNOMAS REGIONALES
 
-## art:2.2.8.5 — A.1.1
+## art:2.2.8.5a.1.1 — Objeto y ámbito de aplicación
 
-Objeto y ámbito de aplicación. Los representantes del Sector Privado ante el Consejo Directivo de las Corporaciones Autónomas Regionales o de Desarrollo Sostenible, deberán ser elegidos por ellos mismos.
+Los representantes del Sector Privado ante el Consejo Directivo de las Corporaciones Autónomas Regionales o de Desarrollo Sostenible, deberán ser elegidos por ellos mismos.
 
 PARÁGRAFO . Para efectos del presente decreto las Corporaciones Autónomas Regionales y las de Desarrollo Sostenible, se denominarán Corporaciones.
+
+## art:2.2.8.5a.1.2 — Aviso
+
+Para la elección de los representantes del sector privado ante los consejos directivos de las Corporaciones, la respectiva Corporación deberá formular una invitación pública en la cual se indicará el lugar, fecha y hora límite en la que se recepcionará la documentación requerida, así como la fecha, hora y lugar para la celebración de la reunión en la cual se hará la elección.
+
+La invitación se publicará por una sola vez en un diario de amplia circulación regional o nacional, en las carteleras de las sedes y subsedes de la respectiva Corporación así como en su página web, con una antelación mínima de treinta (30) días hábiles a la fecha de la elección.
+
+## art:2.2.8.5a.1.3 — Documentación
+
+Las organizaciones del sector privado que estén interesadas en participar en la elección de sus representantes ante el Consejo Directivo, allegarán a la respectiva Corporación con una antelación mínima de quince (15) días hábiles a la fecha prevista para la reunión de elección, los siguientes documentos:
+
+1. Certificado de existencia y representación legal expedido por la Cámara de Comercio que se encuentre vigente al momento de la presentación de la documentación, donde conste que la organización privada desarrolla sus actividades en la jurisdicción durante los últimos 2 años.
+
+2. Un informe con sus respectivos soportes sobre las actividades que la organización privada desarrolla en el área de jurisdicción de la respectiva Corporación.
+
+3. En caso que deseen postular candidato, deberán ajuntar la hoja de vida con sus soportes de formación y experiencia y copia del documento de la respectiva Junta Directiva o del órgano que haga sus veces, en la cual conste la designación del candidato.
+
+## art:2.2.8.5a.1.4 — Verificación de la documentación
+
+La Corporación verificará que la documentación presentada por las organizaciones del sector privado se encuentre completa y elaborará un informe, el cual se divulgará con cinco (5) días de antelación a la fecha de la reunión de elección en la página web de la respectiva corporación y en las carteleras de su sede principal y subsedes.
+
+Así mismo este informe se presentará por la Corporación, el día y fecha señalado para la reunión de elección.
+
+## art:2.2.8.5a.1.5 — Plazo para la celebración de la reunión de elección
+
+La reunión de elección se llevará a cabo a más tardar el último día hábil del mes de noviembre del año anterior a la iniciación del periodo institucional respectivo.
+
+La forma de elección será adoptada por el sector privado en la reunión a que hace referencia este artículo.
+
+En dicha reunión el sector privado elegirá a sus representantes.
+
+Si una vez cumplido este plazo no fuere posible realizar la elección, la Corporación dejará una constancia y se procederá a publicar un nuevo aviso, aplicando las previsiones de este capítulo. En este caso y hasta tanto se elijan los representantes del sector, seguirán asistiendo como tales los que se encuentren en ejercicio de esta representación.
+
+## art:2.2.8.5a.1.6 — Trámite de la reunión
+
+El procedimiento de la reunión de elección será el siguiente:
+
+1. Los representantes del sector privado que se encuentren en ejercicio instalarán la reunión en la fecha, hora y lugar previsto en el aviso, en ausencia de los mismos, la sesión será instalada por la Corporación respectiva.
+
+2. Las organizaciones del sector privado procederán a elegir al presidente y secretario para el desarrollo de la reunión de elección.
+
+3. La Corporación presentará el informe resultante de la verificación de la documentación.
+
+4. Solo tendrán voz y voto en la reunión las organizaciones del sector privado que hayan presentado la documentación y cumplido los requisitos de que trata el presente capítulo.
+
+5. En esta reunión serán elegidos los representantes del sector privado.
+
+6. De la reunión se levantará un acta en la que conste los resultados de la elección la cual deberá ser firmada por el presidente y secretario de la misma.
+
+PARÁGRAFO . La Corporación prestará el apoyo logístico necesario para llevar a buen término la reunión.
+
+## art:2.2.8.5a.1.7 — Periodo
+
+De conformidad con el parágrafo 1 del artículo 28 de la Ley 99 de 1993 modificado por el artículo 1 de la Ley 1263 de 2008, el periodo de los representantes del sector privado ante los Consejos Directivos de las Corporaciones será de cuatro (4) años, y podrán ser reelegibles.
+
+El periodo a que hace referencia este artículo se iniciará el primero (1) de enero del año siguiente a su elección y concluirá el treinta y uno (31) de diciembre del último año del periodo institucional del Director General.
+
+## art:2.2.8.5a.1.8 — Vigencia
+
+El presente decreto rige a partir de la fecha de su publicación.
+
+(Adicionado por el Decreto 1850 de 2015, Art. 1)
+
+CAPÍTULO 6.
+
+INSTRUMENTOS DE PLANIFICACIÓN AMBIENTAL CORPORACIONES AUTÓNOMAS REGIONALES Y DE DESARROLLO SOSTENIBLE
+
+SECCIÓN 1.
+
+DISPOSICIONES GENERALES
 
 ## art:2.2.8.6.1.1.1 — De la planificación ambiental regional
 
@@ -28040,8 +26307,6 @@ La planificación ambiental regional incorpora la dimensión ambiental de los pr
 PARÁGRAFO . Para efectos del presente capítulo, cuando se haga referencia a las Corporaciones Autónomas Regionales, se entenderá que incluye las Corporaciones de Desarrollo Sostenible.
 
 (Decreto 1200 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.6.1.1.2 — Principios
 
@@ -28061,8 +26326,6 @@ SECCIÓN 2
 
 DE LA PLANIFICACIÓN AMBIENTAL
 
-ARTÍCULO
-
 ## art:2.2.8.6.2.1 — Instrumentos para la planificación ambiental regional
 
 Para el desarrollo de la Planificación Ambiental Regional en el largo, mediano y corto plazo, las Corporaciones Autónomas Regionales contarán con los siguientes instrumentos: El Plan de Gestión Ambiental Regional (PGAR), el Plan de Acción Cuatrienal -y el Presupuesto anual de rentas y gastos.
@@ -28072,8 +26335,6 @@ Para el desarrollo de la Planificación Ambiental Regional en el largo, mediano 
 SECCIÓN 3
 
 PLAN DE GESTIÓN AMBIENTAL REGIONAL, PGAR
-
-ARTÍCULO
 
 ## art:2.2.8.6.3.1 — Plan de Gestión Ambiental Regional, PGAR
 
@@ -28086,8 +26347,6 @@ Las Corporaciones Autónomas Regionales tienen la responsabilidad de la formulac
 PARÁGRAFO . Las entidades territoriales considerarán las líneas estratégicas definidas en el Plan de Gestión Ambiental Regional en la formulación y/o ajuste de los Planes de Ordenamiento Territorial de que trata la Ley 388 de 1997, así como en sus Planes de Desarrollo.
 
 (Decreto 1200 de 2004, art.4)
-
-ARTÍCULO
 
 ## art:2.2.8.6.3.2 — Componentes del plan de gestión ambiental regional
 
@@ -28121,15 +26380,11 @@ SECCIÓN 4
 
 PLAN DE ACCIÓN CUATRIENAL
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.1 — Plan de Acción Cuatrienal
 
 Es el instrumento de planeación de las Corporaciones Autónomas Regionales, en el cual se concreta el compromiso institucional de estas para el logro de los objetivos y metas planteados en el Plan de Gestión Ambiental Regional. En él se definen las acciones e inversiones que se adelantarán en el área de su jurisdicción y su proyección será de 4 años.
 
 (Decreto 1200 de 2004, art.6 y Ley 1263 de 2008, art.2)
-
-ARTÍCULO
 
 ## art:2.2.8.6.4.2 — Objeto, alcance y oportunidad de la audiencia pública
 
@@ -28138,8 +26393,6 @@ La presentación del Plan de Acción Cuatrienal en Audiencia Pública a que se r
 La audiencia pública se realizará dentro de los cuatro (4) meses siguientes, al inicio del periodo institucional
 
 (Modificado por el Art. 2 del Decreto 1540 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.8.6.4.3 — Convocatoria
 
@@ -28165,15 +26418,11 @@ Una vez fijado el aviso, se deberá difundir su contenido a través de los medio
 
 (Decreto 330 de 2005, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.4 — Disponibilidad del proyecto de Plan de Acción Cuatrienal
 
 Los Directores Generales de las Corporaciones Autónomas Regionales respectivas, pondrán el proyecto de Plan de Acción Cuatrienal, a disposición de los interesados para su consulta, por lo menos veinte (20) días calendario antes de la celebración de la audiencia pública, en la Secretaría General o la dependencia que haga sus veces de la respectiva corporación, en las sedes regionales, en las alcaldías o personerías municipales de la jurisdicción.
 
 (Decreto 330 de 2005, art.119)
-
-ARTÍCULO
 
 ## art:2.2.8.6.4.5 — Inscripciones
 
@@ -28183,8 +26432,6 @@ PARÁGRAFO . Las personas interesadas en intervenir en la audiencia pública, po
 
 (Decreto 330 de 2005, art.20)
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.6 — Lugar de celebración
 
 La audiencia pública se realizará en la sede principal de la Corporación Autónoma Regional o en las sedes regionales, alcaldías municipales, auditorios o lugares ubicados en la respectiva jurisdicción.
@@ -28192,8 +26439,6 @@ La audiencia pública se realizará en la sede principal de la Corporación Aut�
 PARÁGRAFO . El Consejo Directivo de la Corporación Autónoma Regional, podrá establecer la pertinencia de realizar más de una audiencia pública, en varios municipios de la jurisdicción.
 
 (Decreto 330 2005, art.21)
-
-ARTÍCULO
 
 ## art:2.2.8.6.4.7 — Participantes e intervinientes
 
@@ -28215,8 +26460,6 @@ A la audiencia pública ambiental podrá asistir cualquier persona que así lo d
 
 (Decreto 330 de 2005, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.8 — Instalación y desarrollo
 
 La audiencia pública será presidida por el Presidente del Consejo Directivo de la Corporación Autónoma Regional o su delegado, quien a su vez hará las veces de moderador y designará un Secretario.
@@ -28237,8 +26480,6 @@ PARÁGRAFO . En el evento en que se presenten las situaciones especiales señala
 
 (Decreto 330 de 2005, art.23)
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.9 — Terminación
 
 Agotado el orden del día, el Presidente dará por terminada la audiencia pública.
@@ -28246,8 +26487,6 @@ Agotado el orden del día, el Presidente dará por terminada la audiencia públi
 Dentro de los cinco (5) días hábiles siguientes a la celebración de la audiencia pública, el Secretario levantará un acta de la misma que será suscrita por el Presidente, en la cual se recogerán los aspectos más importantes expuestos durante su realización y serán objeto de análisis y evaluación por parte del Director General de la Corporación Autónoma Regional al elaborar el proyecto definitivo de Plan de Acción Cuatrienal, y por el Consejo Directivo al momento de su aprobación.
 
 (Decreto 330 de 2005, art.24)
-
-ARTÍCULO
 
 ## art:2.2.8.6.4.10 — Aprobación del Plan de Acción Cuatrienal
 
@@ -28261,8 +26500,6 @@ PARÁGRAFO 2. De igual forma, las Corporaciones Autónomas Regionales deberán p
 
 (Decreto 330 de 2005, art.25)
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.11 — .11
 
 Audiencias públicas de seguimiento a los Plan de Acción Cuatrienal Una vez aprobado el Plan de Acción Cuatrienal, el Director General de la Corporación Autónoma Regional convocará en el mes de abril de cada año a una audiencia pública en la cual presentará el estado de nivel de cumplimiento del Plan, en términos de productos, desempeño de la corporación, en el corto y mediano plazo y su aporte al cumplimiento del Plan de Gestión Ambiental Regional, PGAR.
@@ -28274,8 +26511,6 @@ PARÁGRAFO 2. Para la convocatoria y realización de la audiencia pública de se
 PARÁGRAFO 3. Las opiniones, comentarios, propuestas y documentos aportados por la comunidad y demás intervinientes en la audiencia pública, serán objeto de análisis y evaluación por parte del Director General y del Consejo Directivo para efectuar los ajustes a que haya lugar.
 
 (Decreto 330 de 2005, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.8.6.4.12 — .12
 
@@ -28315,8 +26550,6 @@ La proyección de gastos de inversión deberá contener la asignación de recurs
 
 (Decreto 1200 de 2004, art.7)
 
-ARTÍCULO
-
 ## art:2.2.8.6.4.13 — Presupuesto anual de rentas y gastos
 
 El presupuesto Anual de la Corporación Autónoma Regional, deberá guardar concordancia con el Plan de Acción Cuatrienal.
@@ -28327,8 +26560,6 @@ SECCIÓN 5.
 
 DEL SEGUIMIENTO Y EVALUACIÓN A LOS INSTRUMENTOS DE PLANIFICACIÓN DE LAS CORPORACIONES AUTÓNOMAS REGIONALES
 
-ARTÍCULO
-
 ## art:2.2.8.6.5.1 — Del seguimiento y evaluación
 
 El Sistema de Información Ambiental para Colombia, SIAC, compuesto por el Sistema de Información Ambiental para el seguimiento a la calidad y estado de los recursos naturales y el ambiente, SIA, y el Sistema de Información para la Planeación y Gestión Ambiental, SIPGA, se constituye en los sistemas para el seguimiento y evaluación del Plan de Gestión Ambiental Regional y el Plan de Acción Cuatrienal.
@@ -28337,8 +26568,6 @@ El diseño del Sistema de Información Ambiental para Colombia, SIAC, será lide
 
 (Decreto 1200 de 2004, art.9)
 
-ARTÍCULO
-
 ## art:2.2.8.6.5.2 — Bases para el seguimiento
 
 El seguimiento al Plan de Gestión Ambiental Regional permitirá conocer el impacto de la planificación y gestión ambiental regional en el largo plazo, sobre la calidad de vida de la población y las condiciones de desarrollo regional. Este sistema de seguimiento hará parte integral del SIA, en los ámbitos nacional y regional.
@@ -28346,8 +26575,6 @@ El seguimiento al Plan de Gestión Ambiental Regional permitirá conocer el impa
 El seguimiento y la evaluación del Plan de Acción Cuatrienal tienen por objeto establecer el nivel de cumplimiento del Plan en términos de productos, desempeño de las Corporaciones en el corto y mediano plazo y su aporte al cumplimiento del PGAR y de los objetivos de desarrollo sostenible. Este sistema de seguimiento hará parte integral del SIPGA, en el ámbito regional.
 
 (Decreto 1200 de 2004, art.10)
-
-ARTÍCULO
 
 ## art:2.2.8.6.5.3 — Indicadores mínimos
 
@@ -28371,15 +26598,11 @@ Disminuir la población en riesgo asociado a fenómenos naturales: personas afec
 
 (Decreto 1200 de 2004, art.11)
 
-ARTÍCULO
-
 ## art:2.2.8.6.5.4 — Informes
 
 El Director presentará informes periódicos ante el Consejo Directivo de la Corporación que den cuenta de los avances en la ejecución física y financiera de los programas y proyectos del Plan de Acción Cuatrienal, así mismo podrá solicitar debidamente soportado técnica y financieramente los ajustes al Plan de Acción Cuatrienal. Semestralmente deberá enviarse un informe integral de avance de ejecución del Plan de Acción Cuatrienal al Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1200 de 2004, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.6.5.5 — Régimen transitorio
 
@@ -28393,15 +26616,11 @@ CAPÍTULO 6.
 
 GESTIÓN AMBIENTAL TERRITORIAL SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.8.6.1.1 — Período de los planes de gestión ambiental regional
 
 El Período de los planes de gestión ambiental regional elaborados por las Corporaciones Autónomas Regionales y las de Desarrollo Sostenible a que se refiere el artículo anterior se harán mínimo para períodos de diez (10) años y deberán ser proferidos oportunamente por los Consejos Directivos de las Corporaciones, a más tardar en el mes de octubre del año anterior al cual inicien su vigencia.
 
 (Decreto 1865 de 1994, art.2 modificado por el Decreto 1200 de 2004, art.4)
-
-ARTÍCULO
 
 ## art:2.2.8.6.1.2 — Armonización
 
@@ -28417,8 +26636,6 @@ Para la armonización de la planificación en la gestión ambiental de los Depar
 
 (Decreto 1865 de 1994, art.3)
 
-ARTÍCULO
-
 ## art:2.2.8.6.1.3 — Programas de educación ambiental
 
 Las Corporaciones promoverán en los municipios y distritos, programas de educación ambiental y de planificación, acorde con la Constitución, la Ley 99 de 1993, la Ley 152 de 1994 y las normas que las complementen o adicionen.
@@ -28433,8 +26650,6 @@ SECCIÓN 1.
 
 INSTITUTO ADSCRITO. INSTITUTO DE HIDROLOGÍA, METEOROLOGÍA Y ESTUDIOS AMBIENTALES -IDEAM-
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.1 — Naturaleza
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- es un establecimiento público de carácter nacional adscrito al Ministerio de Ambiente y Desarrollo Sostenible, con autonomía administrativa, personería jurídica y patrimonio independiente.
@@ -28444,8 +26659,6 @@ PARÁGRAFO 1. Para todo propósito de la Ley 99 de 1993, entiéndase por Institu
 PARÁGRAFO 2. Para todo propósito del presente capítulo las Corporaciones Autónomas Regionales y las Corporaciones de Desarrollo Sostenible a que hace referencia la Ley 99 de 1993 se llamarán en adelante "Corporaciones".
 
 (Decreto 1277 de 1994, art.1)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.2 — Objeto
 
@@ -28479,23 +26692,17 @@ Ambientales -IDEAM- tiene como objeto:
 
 (Decreto 1277 de 1994, art.2)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.3 — Duración
 
 La duración del Instituto será indefinida.
 
 (Decreto 1277 de 1994, art.3)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.4 — Domicilio y Jurisdicción
 
 La jurisdicción del IDEAM se extiende a todo el territorio nacional, su domicilio es la ciudad de Bogotá D.C. y puede establecer dependencias en lugares distintos a su domicilio.
 
 (Decreto 1277 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.5 — Articulación con el Ministerio de Ambiente y Desarrollo Sostenible
 
@@ -28507,15 +26714,11 @@ b) Suministrar las bases para el establecimiento de las normas, disposiciones y 
 
 (Decreto 1277 de 1994, art.5)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.6 — Informe Anual
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- entregará al Ministerio de Ambiente y Desarrollo Sostenible un balance anual sobre el estado del medio ambiente y los recursos naturales renovables, así como recomendaciones y alternativas para el logro de un desarrollo en armonía con la naturaleza, para todo el territorio nacional. De este informe se realizará una versión educativa y divulgativa de amplia circulación.
 
 (Decreto 1277 de 1994, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.7 — Articulación con las corporaciones
 
@@ -28537,8 +26740,6 @@ g) Asesorar a las Corporaciones en el desarrollo de programas de regulación y m
 
 (Decreto 1277 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.8 — Articulación con el Sistema Nacional Ambiental
 
 Al Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- como integrante del Sistema Nacional Ambiental, le corresponde ejercer las siguientes funciones:
@@ -28553,8 +26754,6 @@ d) Servir de organismo de enlace y coordinación entre el Sistema de Informació
 
 (Decreto 1277 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.9 — Articulación con el Sistema Nacional de Ciencia y tecnología
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- se vinculará al Sistema Nacional de Ciencia y Tecnología con el objeto de coordinar acciones con el resto de entidades pertenecientes al mismo. Para ello dará apoyo técnico y científico al Ministerio de Ambiente y Desarrollo Sostenible. Asesorará al Ministerio en el ejercicio de sus funciones como Secretario Técnico del Consejo del Programa Nacional de Ciencias del Medio Ambiente y el Hábitat y en su vinculación con los demás Consejos de Programas del Sistema Nacional de Ciencia y Tecnología, así como en la Comisión Colombiana de Oceanografía. Propondrá estudios e investigaciones para ser realizadas por otras entidades y colaborará en la evaluación, seguimiento y control de aquellas que se estime pertinente.
@@ -28563,15 +26762,11 @@ De acuerdo con las pautas y directrices del Ministerio de Ambiente y Desarrollo 
 
 (Decreto 1277 de 1994, art.9)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.10 — Articulación con el Sistema Nacional de Gestión del Riesgo de Desastres
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- participará en el en el Sistema Nacional de Gestión del Riesgo de Desastres creado por la Ley 1523 de 2012 y asumirá dentro del ámbito de su competencia las funciones y tareas de carácter científico, técnico y de seguimiento que venían desempeñando el HIMAT, el IGAC, el INDERENA y el INGEOMINAS, de acuerdo con lo establecido en el artículo 17 de la Ley 99 de 1993.
 
 (Decreto 1277 de 1994, art.10 modificado por la Ley 1523 de 2012)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.11 — Articulación con los Sistemas Ambientales Internacionales
 
@@ -28587,8 +26782,6 @@ d) Apoyar al Ministerio de Ambiente y Desarrollo Sostenible para el cumplimiento
 
 (Decreto 1277 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.12 — Capacitación y estímulos a la producción científica
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM-, dará apoyo a programas de capacitación y estimulará la producción científica de los investigadores vinculados al mismo, para lo cual podrá:
@@ -28600,8 +26793,6 @@ b) Propender por el establecimiento de un sistema de estímulos a la productivid
 c) Establecer mecanismos por medio de un plan para garantizar la continuidad de las investigaciones que se destaquen por su calidad y el valor de sus resultados, con el objeto de lograr el efecto acumulativo requerido por las áreas del conocimiento y por las soluciones de mediano y largo plazo.
 
 (Decreto 1277 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.13 — Fomento y difusión de la experiencia ambiental de las culturas tradicionales
 
@@ -28615,15 +26806,11 @@ c) Programas de difusión y educación ambiental en apoyo a los diversos grupos 
 
 (Decreto 1277 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.14 — Del apoyo científico de otros centros
 
 El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- facilitará y colaborará para lograr el intercambio y apoyo mutuo, científico y técnico, de los centros de investigaciones ambientales de las universidades y entidades públicas y privadas y en especial de las establecidas en la Ley 99 de 1993. Para ello las podrá asociar en sus investigaciones, según lo establece la Ley 99 de 1993, sobre la base de la formulación de programas y proyectos conjuntos; cuando ellos se realicen facilitará el intercambio de investigadores. De común acuerdo con las universidades favorecerá el desarrollo de programas de postgrado en las áreas de su competencia, permitirá el desarrollo de tesis de grado y postgrado dentro de sus programas de investigación y apoyará la realización de cursos de educación permanente, extensión y capacitación.
 
 (Decreto 1277 de 1994, art.14)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.15 — Otras funciones
 
@@ -28655,8 +26842,6 @@ Además de las funciones previstas en este Capítulo en desarrollo de su objeto,
 
 (Decreto 1277 de 1994, art.15)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.16 — Administración de infraestructuras
 
 El IDEAM deberá diseñar, construir, operar y mantener sus infraestructuras meteorológicas, oceanográficas, mareográficas, hidrológicas, de calidad del agua y aire o de cualquier otro tipo, directamente o a través de terceros bajo cualquier modalidad de contrato, salvo el de administración delegada.
@@ -28669,23 +26854,17 @@ PARÁGRAFO 2. El IDEAM velará porque quienes construyan, administren u operen i
 
 (Decreto 1277 de 1994, art.16)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.17 — Calidad de los miembros
 
 Los miembros de la Junta Directiva, aunque ejercen funciones públicas no adquirirán, por ese solo hecho, la calidad de empleados públicos.
 
 (Decreto 1277 de 1994, art.19)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.18 — Inhabilidades e incompatibilidades de los miembros de la junta directiva y del director general
 
 Las inhabilidades e incompatibilidades de los miembros de la Junta Directiva y del Director General se regirán por lo dispuesto en las normas vigentes.
 
 (Decreto 1277 de 1994, art.20)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.19 — Reuniones de la junta directiva
 
@@ -28699,15 +26878,11 @@ La Junta Directiva podrá reunirse, deliberar y adoptar decisiones cuando a dich
 
 (Decreto 1277 de 1994, art.22)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.20 — Director general, designación y calidades del director general
 
 El IDEAM tendrá un Director General, quien será agente del Presidente de la República y será de su libre nombramiento y remoción, de acuerdo con el artículo189 de la Constitución Nacional. El Director General será el representante legal del Instituto y adicionalmente, su primera autoridad ejecutiva, responsable de su funcionamiento.
 
 (Decreto 1277 de 1994, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.21 — De los actos y decisiones del Director General
 
@@ -28715,15 +26890,11 @@ Los actos o decisiones que tome el Director General del Instituto, en ejercicio 
 
 (Decreto 1277 de 1994, art 25)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.22 — Régimen jurídico de los contratos
 
 Los contratos del Instituto serán adjudicados y celebrados por el Director General o por quien éste designe y se someterán a las normas legales y reglamentarias existentes sobre la materia, en especial a las de la Ley 80 de 1993 o normas que la reglamenten, modifiquen o sustituyan.
 
 (Decreto 1277 de 1994, art.26)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.23 — Del comité científico
 
@@ -28747,15 +26918,11 @@ g) Las demás funciones que le asignen la Junta Directiva y el Director General.
 
 (Decreto 1277 de 1994, art.27)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.24 — De la organización interna
 
 La organización interna del Instituto será definida de forma tal que la planta de personal sea global o semiglobal y flexible a nivel nacional y planificada por actividades, teniendo en cuenta las normas y directrices sobre modernización del Estado. La organización interna y los cargos serán adoptados por la Junta Directiva con base en una propuesta presentada por el Director General, para su posterior aprobación por parte del Gobierno Nacional conforme a las disposiciones legales vigentes.
 
 (Decreto 1277 de 1994, art.28)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.25 — Patrimonio y rentas
 
@@ -28775,15 +26942,11 @@ El patrimonio y las rentas del Instituto estará integrado por:
 
 (Decreto 1277 de 1994, art.29)
 
-ARTÍCULO
-
 ## art:2.2.8.7.1.26 — Clases de empleados
 
 Los cargos del IDEAM son de carrera administrativa con excepción de los de libre nombramiento y remoción establecidos de conformidad con las disposiciones legales vigentes sobre la materia.
 
 (Decreto 1277 de 1994, art.30)
-
-ARTÍCULO
 
 ## art:2.2.8.7.1.27 — Vinculación de empleados públicos
 
@@ -28791,15 +26954,11 @@ Para los nombramientos en cargos de libre nombramiento y remoción, el Director 
 
 (Decreto 1277 de 1994, art.31)
 
-ARTÍCULO
-
 ## art:2.2.8.8.7.28 — Posesión del Director General
 
 El Director General del Instituto se posesionará ante el Presidente de la República o ante el Ministro de Ambiente y Desarrollo Sostenible. Los demás funcionarios y empleados del IDEAM, lo harán ante el Director General o el funcionario a quien se delegue esta función.
 
 (Decreto 1277 de 1994, art.34)
-
-ARTÍCULO
 
 ## art:2.2.8.8.7.29 — De la prestación de los servicios públicos de hidrología y meteorología
 
@@ -28813,15 +26972,11 @@ SECCIÓN 2.
 
 INSTITUTOS VINCULADOS
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.1 — Naturaleza jurídica
 
 Los Institutos de Investigación de Recursos Biológicos "Alexander von Humboldt", el Instituto Amazónico de Investigaciones "SINCHI" y el Instituto de Investigaciones Ambientales del Pacífico "John von Neumann" son Corporaciones Civiles sin ánimo de lucro, de carácter público sometidas a las reglas de derecho privado, con autonomía administrativa, personería jurídica y patrimonio independiente, vinculadas al Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1603 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.7.2.2 — Objetivo general
 
@@ -28849,8 +27004,6 @@ Las entidades a que se refiere el artículo anterior, en adelante "los Instituto
 
 (Decreto 1603 de 1994, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.3 — Articulación con el Ministerio de Ambiente y Desarrollo Sostenible
 
 Los Institutos de acuerdo con su naturaleza, establecerán prioritariamente los estudios, investigaciones, inventarios y actividades de seguimiento y manejo de información, orientados a:
@@ -28863,15 +27016,11 @@ PARÁGRAFO . Las necesidades y prioridades a que hace referencia el presente art
 
 (Decreto 1603 de 1994, art.3)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.4 — Informe anual
 
 Los Institutos entregarán al Ministerio de Ambiente y Desarrollo Sostenible un balance anual sobre el estado del medio ambiente y los recursos naturales renovables, así como recomendaciones y alternativas para el logro de un desarrollo en armonía con la naturaleza, en las áreas geográficas o temáticas de su competencia. De este informe se realizará una versión educativa y divulgativa de amplia circulación. Este informe deberá ser entregado a más tardar el 30 de marzo de cada año.
 
 (Decreto 1603 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.2.8.7.2.5 — Articulación con las Corporaciones
 
@@ -28891,8 +27040,6 @@ PARÁGRAFO . Para todo propósito del presente capítulo las Corporaciones Autó
 
 (Decreto 1603 de 1994, art.5)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.6 — Articulación con el Sistema Nacional Ambiental
 
 Los Institutos forman parte del SINA de acuerdo con el numeral 6 del artículo 4 de la ley 99 de 1993, en desarrollo de dicha condición tienen como funciones:
@@ -28905,23 +27052,17 @@ Los Institutos forman parte del SINA de acuerdo con el numeral 6 del artículo 4
 
 (Decreto 1603 de 1994, art.6)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.7 — Articulación con el Sistema Nacional de Ciencia y Tecnología
 
 Los Institutos se vincularán al Sistema Nacional de Ciencia y Tecnología, y el Ministerio de Ambiente y Desarrollo Sostenible desempeñará la Secretaría Técnica y Administrativa del Consejo del Programa Nacional de Ciencias del Medio Ambiente y el Hábitat; colaborarán en la evaluación, seguimiento y control de aquellas investigaciones que el Consejo estime pertinente.
 
 (Decreto 1603 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.8 — Articulación con el Sistema Nacional de Gestión del Riesgo de Desastres
 
 Los Institutos participarán en el Sistema Nacional de Gestión del Riesgo de Desastres creado por la Ley 1523 de 2012 y en este ámbito asumirán las funciones y tareas de carácter científico, técnico y de seguimiento que venían desempeñando el INDERENA y la COA
 
 (Decreto 1603 de 1994, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.8.7.2.9 — Articulación con el Sistema de Información Ambiental
 
@@ -28951,8 +27092,6 @@ Nacional Ambiental -SINA-, al sector productivo y a la sociedad.
 
 (Decreto 1603 de 1994, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.10 — El manejo de información
 
 Los Institutos administrarán los datos y la información científica ambiental correspondiente al área de su especialidad y contribuirán a su análisis y difusión, de acuerdo con lo establecido en las disposiciones que regulen el Sistema de Información Ambiental.
@@ -28961,23 +27100,17 @@ PARÁGRAFO : El Ministerio en colaboración con las entidades científicas defin
 
 (Decreto 1603 de 1994, art.10)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.11 — Articulación de programas y proyectos
 
 Los Institutos coordinarán sus actividades y cooperarán entre ellos mismos; para esto participarán en el Comité Científico lnterinstitucional creado para tal efecto. Así mismo, las actividades y programas de los Institutos del Ministerio deberán ser coordinados con las instituciones o centros de investigación de otros sectores a través de los comités y consejos interministeriales o intersectoriales de acuerdo con los temas de su competencia.
 
 (Decreto 1603 de 1994, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.12 — Articulación con los Sistemas Ambientales Internacionales
 
 Los Institutos darán apoyo al Ministerio de Ambiente y Desarrollo Sostenible, a través de sus investigaciones, para lograr el desarrollo de la política ambiental internacional.
 
 (Decreto 1603 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.7.2.13 — Capacitación y estímulos a la producción científica
 
@@ -28990,8 +27123,6 @@ Los Institutos darán apoyo a programas de capacitación y estimularán la produ
 3. Establecer mecanismos para garantizar la continuidad de las investigaciones que se destaquen por su calidad y el valor de sus resultados.
 
 (Decreto 1603 de 1994, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.8.7.2.14 — Fomento y difusión del conocimiento de las culturas tradicionales sobre los recursos naturales
 
@@ -29009,8 +27140,6 @@ Lo referente a programas de educación ambiental se efectuará en concertación 
 
 (Decreto 1603 de 1994, art.14)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.15 — Del apoyo científico de otros centros y universidades
 
 Para lograr el intercambio científico y técnico, y un mejor aprovechamiento de los recursos de investigación disponibles en el país, los Institutos del Ministerio de Ambiente y Desarrollo Sostenible facilitarán y colaborarán con los Centros de Investigación de otros Ministerios, universidades públicas y privadas, organizaciones no gubernamentales y centros privados, sobre la base de formulación de programas y proyectos conjuntos. Se desarrollará una colaboración especial con el Instituto de Ciencias Naturales de la Universidad Nacional de Colombia, con la Universidad de la Amazonia, con el Instituto de Estudios del Pacífico de la Universidad del Valle, con la Universidad Tecnológica del Chocó "Diego Luis Córdoba" y con la Corporación Colombiana de Investigación Agropecuaria -CORPOICA-.
@@ -29019,8 +27148,6 @@ Los Institutos, de común acuerdo con las universidades, favorecerán el desarro
 
 (Decreto 1603 de 1994, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.8.7.2.16 — De los órganos de dirección, administración y asesoría
 
 Los órganos de dirección, administración y asesoría de los Institutos, su composición, funciones, así como las disposiciones para su convocatoria y funcionamiento, serán determinados en sus estatutos.
@@ -29028,8 +27155,6 @@ Los órganos de dirección, administración y asesoría de los Institutos, su co
 Los directores generales de los Institutos deberán acreditar calidades científicas distinguidas y tener experiencia administrativa. Los términos de su vinculación serán definidos en los estatutos.
 
 (Decreto 1603 de 1994, art.16)
-
-ARTÍCULO
 
 ## art:2.2.8.7.2.17 — Funciones del Director General
 
@@ -29057,15 +27182,11 @@ SECCIÓN 3.
 
 DEL INSTITUTO DE INVESTIGACION DE RECURSOS BIOLOGICOS "ALEXANDER VON HUMBOLDT"
 
-ARTÍCULO
-
 ## art:2.2.8.7.3.1 — Del Instituto de Investigación de Recursos Biológicos "Alexander von Humboldt"
 
 El Instituto de Investigación de Recursos Biológicos "Alexander von Humboldt" creado en el artículo 19 de la Ley 99 de 1993, se organizará como una Corporación Civil sin ánimo de lucro, de carácter público pero sometida a las reglas del derecho privado, vinculada al Ministerio de Ambiente y Desarrollo Sostenible, con autonomía administrativa, personería jurídica y patrimonio propio, organizada según lo dispuesto en la Ley 29 de 1990 y en el Decreto 393 de 1991.
 
 (Decreto 1603 de 1994, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.8.7.3.2 — 3.2
 
@@ -29080,8 +27201,6 @@ Objeto del Instituto de Investigación de Recursos Biológicos ''Alexander von H
 4. Apoyar con asesoría técnica y transferencia de tecnología a las Corporaciones Autónomas Regionales, los departamentos, los distritos, los municipios y demás entidades encargadas de la gestión del medio ambiente y los recursos naturales renovables.
 
 (Decreto 1603 de 1994, art.19)
-
-ARTÍCULO
 
 ## art:2.2.8.7.3.3 — Funciones
 
@@ -29131,15 +27250,11 @@ Corporaciones, la información que estos consideren necesaria.
 
 (Decreto 1603 de 1994, art.20)
 
-ARTÍCULO
-
 ## art:2.2.8.7.3.4 — Domicilio
 
 El Instituto de Investigación de Recursos Biológicos "Alexander von Humboldt" tendrá su sede principal en el municipio de Villa de Leyva. El Instituto podrá crear estaciones de investigación sobre la base de programas que adelante.
 
 (Decreto 1603 de 1994, art.21)
-
-ARTÍCULO
 
 ## art:2.2.8.7.3.5 — Patrimonio y rentas
 
@@ -29160,8 +27275,6 @@ El patrimonio y las rentas del Instituto de Investigación de Recursos Biológic
 7. Los demás ingresos que obtenga por cualquier otro concepto.
 
 (Decreto 1603 de 1994, art.22)
-
-ARTÍCULO
 
 ## art:2.2.8.7.3.6 — Asociados del Instituto de Investigación de Recursos Biológicos ''Alexander von Humboldt"
 
@@ -29189,23 +27302,17 @@ SECCIÓN 4
 
 DEL INSTITUTO AMAZONICO DE INVESTIGACIONES CIENTIFICAS "SINCHI"
 
-ARTÍCULO
-
 ## art:2.2.8.7.4.1 — El Instituto Amazónico de Investigaciones Científicas "SINCHI"
 
 El Instituto Amazónico de Investigaciones Científicas "SINCHI" transformado de la Corporación Colombiana para la Amazonía, Araracuara -COA-, se organizará como una corporación civil sin ánimo de lucro, de carácter público, sometida a las reglas del derecho privado, vinculada al Ministerio de Ambiente y Desarrollo Sostenible, con autonomía administrativa, personería jurídica y patrimonio propio, organizada en los términos establecidos por la Ley 29 de 1990 y el Decreto 393 de 1991.
 
 (Decreto 1603 de 1994, art.24)
 
-ARTÍCULO
-
 ## art:2.2.8.7.4.2 — Objeto del Instituto Amazónico de Investigaciones Científicas "SINCHI"
 
 El "SINCHI" tendrá como objeto específico la realización y divulgación de estudios e investigaciones científicas de alto nivel relacionados con la realidad biológica, social y ecológica de la región amazónica.
 
 (Decreto 1603 de 1994, art.25)
-
-ARTÍCULO
 
 ## art:2.2.8.7.4.3 — Funciones
 
@@ -29255,15 +27362,11 @@ Corporaciones la información que éstos consideren necesaria.
 
 (Decreto 1603 de 1994, art.26)
 
-ARTÍCULO
-
 ## art:2.2.8.7.4.4 — Domicilio
 
 El Instituto Amazónico de Investigaciones Científicas "SINCHI" tendrá su sede principal en la ciudad de Leticia y una subsede en el Departamento del Vaupés. Podrá establecer estaciones de investigación en otros lugares de la Amazonia que se desarrollarán sobre la base de programas que adelante el Instituto.
 
 (Decreto 1603 de 1994, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.8.7.4.5 — Patrimonio y rentas
 
@@ -29286,8 +27389,6 @@ Nacional conforme al del artículo 116 literal f. de la Ley 99 de 1993.
 7. Los demás ingresos que obtenga por cualquier otro concepto.
 
 (Decreto 1603 de 1994, art.28)
-
-ARTÍCULO
 
 ## art:2.2.8.7.4.6 — Asociados del Instituto Amazónico de Investigaciones Científicas "SINCHI"
 
@@ -29323,23 +27424,17 @@ SECCIÓN 5.
 
 DEL INSTITUTO DE INVESTIGACIONES AMBIENTALES DEL PACIFICO "JOHN VON NEUMANN
 
-ARTÍCULO
-
 ## art:2.2.8.7.5.1 — El Instituto de Investigaciones Ambientales del Pacífico "John von Neumann"
 
 El Instituto de Investigaciones Ambientales del Pacífico "John von Neumann" creado en el artículo 19 de la Ley 99 de 1993, se organizará como una Corporación Civil sin ánimo de lucro, de carácter público pero sometida a las reglas de derecho privado, organizada en los términos establecidos por la Ley 29 de 1990 y el Decreto 393 de 1991, vinculada al Ministerio de Ambiente y Desarrollo Sostenible con autonomía administrativa, personería jurídica y patrimonio propio.
 
 (Decreto 1603 de 1994, art.30)
 
-ARTÍCULO
-
 ## art:2.2.8.7.5.2 — Objeto del Instituto de Investigaciones Ambientales del Pacífico "John von Neumann"
 
 El Instituto de Investigaciones Ambientales del Pacífico "John von Neumann" tendrá como objeto específico realizar y divulgar estudios e investigaciones científicas relacionados con la realidad biológica, social y ecológica del Litoral Pacífico y del Chocó Biogeográfico.
 
 (Decreto 1603 de 1994, art.31)
-
-ARTÍCULO
 
 ## art:2.2.8.7.5.3 — Funciones
 
@@ -29389,15 +27484,11 @@ Biogeográfico.
 
 (Decreto 1603 de 1994, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.8.7.5.4 — Domicilio
 
 El Instituto de Investigaciones Ambientales del Pacífico "John van Neumann", tendrá su sede principal en la ciudad de Quibdó en el departamento del Chocó; el Instituto podrá establecer estaciones de investigación sobre la base de programas que adelante.
 
 (Decreto 1603 de 1994, art.33)
-
-ARTÍCULO
 
 ## art:2.2.8.7.5.5 — Patrimonio y rentas
 
@@ -29418,8 +27509,6 @@ Nacional conforme al del artículo 116 literal f. de la Ley 99 de 1993.
 6. Los demás ingresos que obtenga por cualquier concepto.
 
 (Decreto 1603 de 1994, art.34)
-
-ARTÍCULO
 
 ## art:2.2.8.7.5.6 — Asociados del Instituto de Investigaciones Ambientales del Pacífico "John von Neumann"
 
@@ -29457,15 +27546,11 @@ SECCIÓN 6
 
 INSTITUTO DE INVESTIGACIONES MARINAS Y COSTERAS "JOSÉ BENITO VIVES DE ANDREIS -INVEMAR
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.1 — Del Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis" -INVEMAR-
 
 El Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis" -INVEMAR- es una corporación civil sin ánimo de lucro, de carácter público pero sometida a las reglas del derecho privado, vinculada al Ministerio de Ambiente y Desarrollo Sostenible con autonomía administrativa, personería jurídica y patrimonio propio, organizada según lo dispuesto en la Ley 29 de 1990, en el Decreto 393 de 1991 y la Ley 99 de 1993.
 
 (Decreto 1276 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.2 — Objeto del instituto de investigaciones marinas y costeras "José Benito Vives de Andreis" -invemar-
 
@@ -29488,8 +27573,6 @@ f) Los demás que le otorgue la ley y le fije el Ministerio de Ambiente y Desarr
 Sostenible.
 
 (Decreto (Decreto 1276 de 1994, art.2)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.3 — Funciones
 
@@ -29541,17 +27624,15 @@ El Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andrei
 
 (Decreto 1276 de 1994, art.3)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.4 — Domicilio
 
 El INVEMAR tendrá su sede principal en la ciudad de Santa Marta y establecerá una sede en Coveñas, Departamento de Sucre y otra en la ciudad de Buenaventura, Departamento del Valle, en el Litoral Pacífico; estas sedes se desarrollarán sobre la base de programas que adelante el Instituto.
 
 (Decreto 1276 1603 de 1994, art.4)
 
-## art:2.2.8 — 7.6.5
+## art:2.2.8.7.6.5 — Articulación con el Ministerio de Ambiente y Desarrollo Sostenible
 
-Articulación con el Ministerio de Ambiente y Desarrollo Sostenible. El INVEMAR adelantará prioritariamente los estudios, investigaciones, inventarios y actividades de seguimiento y manejo de información, de acuerdo con su objeto, orientados a:
+El INVEMAR adelantará prioritariamente los estudios, investigaciones, inventarios y actividades de seguimiento y manejo de información, de acuerdo con su objeto, orientados a:
 
 a) Fundamentar la toma de decisiones de políticas por parte del Ministerio.
 
@@ -29561,15 +27642,11 @@ PARÁGRAFO . Las necesidades y prioridades a que hace referencia el presente art
 
 (Decreto 1276 de 1994, art.5)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.6 — Informe anual
 
 El INVEMAR entregará al Ministerio de Ambiente y Desarrollo Sostenible un balance anual sobre el estado del medio ambiente y los recursos naturales renovables, así como recomendaciones y alternativas para el logro de un desarrollo en armonía con la naturaleza, en las áreas geográficas o temáticas de su competencia. De este informe se realizará una versión educativa y divulgativa de amplia circulación.
 
 (Decreto 1276 de 1994, art.6)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.7 — Articulación con las corporaciones
 
@@ -29589,8 +27666,6 @@ PARÁGRAFO . Para todo propósito del presente Capítulo las Corporaciones Autó
 
 (Decreto 1276 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.8 — Articulación con el Sistema Nacional Ambiental
 
 El INVEMAR forma parte del SINA de acuerdo con el numeral 6 del artículo 4 de la Ley 99 de 1993 y en desarrollo de dicha condición tiene como funciones:
@@ -29603,23 +27678,17 @@ c) Suministrar información científica y técnica de su competencia para la ela
 
 (Decreto 1276 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.9 — Articulación con el Sistema Nacional de Ciencia y Tecnología
 
 El INVEMAR se vinculará al Sistema Nacional de Ciencia y Tecnología con el objeto de coordinar acciones con el resto de entidades pertenecientes al mismo. Para ello apoyará al Ministerio de Ambiente y Desarrollo Sostenible en la Secretaría Técnica y Administrativa del Consejo del Programa Nacional de Ciencias del Medio Ambienté y el Hábitat, propondrá estudios e investigaciones para ser realizadas por otras entidades y colaborará en la evaluación, seguimiento y control de aquellas que el Consejo estime pertinente.
 
 (Decreto 1276 de 1994, art.9)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.10 — Articulación con el Sistema Nacional de Gestión del Riesgo de Desastres
 
 El INVEMAR participará en el Sistema Nacional de Gestión del Riesgo de Desastres creado por la Ley 1523 de 2012 y en el ámbito de su competencia asumirá las funciones y tareas de carácter científico, técnico y de seguimiento que venían desempeñando las entidades que desaparecen o se transforman con la Ley 99 de í 993.
 
 (Decreto 1276 de 1994, art.10)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.11 — .11
 
@@ -29645,15 +27714,11 @@ h) Proveer la información disponible a las entidades pertenecientes al Sistema 
 
 (Decreto 1276 de 1994, art.11)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.12 — El Manejo de Información Ambiental
 
 El INVEMAR administrará los datos y la información ambiental correspondiente al área de su especialidad y contribuirán a su análisis y difusión, de acuerdo con lo establecido en las disposiciones que regulen el Sistema de Información Ambiental.
 
 (Decreto 1276 de 1994, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.13 — .13
 
@@ -29661,15 +27726,11 @@ Articulación de programas y proyectos entre las entidades científicas vinculad
 
 (Decreto 1276 de 1994, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.14 — Articulación con los sistemas ambientales internacionales
 
 El INVEMAR dará apoyo al Ministerio de Ambiente y Desarrollo Sostenible para lograr el desarrollo de la política ambiental internacional. Especialmente, deberá realizar estudios e investigaciones científicas para conocer la naturaleza y sus procesos, con el fin de establecer criterios y proponer modelos que permitan estudiar el cambio global y conocer las alteraciones particulares del medio ambiente en el territorio colombiano, de acuerdo con su objeto.
 
 (Decreto 1276 de 1994, art.14)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.15 — Capacitación y estímulos a la producción científica
 
@@ -29682,8 +27743,6 @@ b) Establecer un sistema de estímulos a la productividad científica de sus inv
 c) Establecer mecanismos para garantizar la continuidad de las investigaciones que se destaquen por su calidad y el valor de sus resultados, con el objeto de lograr el efecto acumulativo requerido por las áreas del conocimiento y por las soluciones de mediano y largo plazo.
 
 (Decreto 1276 de 1994, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.16 — Fomento y difusión de la experiencia ambiental de las culturas tradicionales
 
@@ -29699,8 +27758,6 @@ d) Programas de protección de los derechos de las culturas tradicionales sobre 
 
 (Decreto 1276 de 1994, art.16)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.17 — Del apoyo científico de otros centros y universidades
 
 Para lograr el intercambio científico y técnico, el INVEMAR colaborará con los centros de investigaciones ambientales de las universidades públicas y privadas y en especial con el Instituto de Ciencias Naturales de la Universidad Nacional de Colombia, con la Universidad de la Amazonía, con el Instituto de Estudios del Pacífico de la Universidad del Valle y con la Universidad Tecnológica del Chocó "Diego Luis Córdoba". Para ello las asociará en sus investigaciones según lo establece la Ley 99 de 1993 sobre la base de la formulación de programas y proyectos conjuntos, facilitando el intercambio de investigadores. Estos programas y proyectos podrán ser sometidos a consideración de los Comités del Ministerio, los Institutos o del Consejo del Programa Nacional de Ciencias del Medio Ambiente y Hábitat.
@@ -29709,8 +27766,6 @@ El I NVEMAR de común acuerdo con las universidades proporcionará el desarrollo
 
 (Decreto 1276 de 1994, art.17)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.18 — De los Órganos de dirección, administración y asesoría
 
 Los órganos de dirección, administración y asesoría del INVEMAR, su composición, funciones, disposiciones para su convocatoria y funcionamiento serán determinados en sus estatutos.
@@ -29718,8 +27773,6 @@ Los órganos de dirección, administración y asesoría del INVEMAR, su composic
 El Director del INVEMAR deberá acreditar calidades científicas distinguidas y tener experiencia administrativa. La designación se hará para un período de tres años, contados a partir de enero de 1995, siendo reelegible y removible por la Junta Directiva en la forma que establezcan los estatutos.
 
 (Decreto 1276 de 1994, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.19 — Funciones del director general
 
@@ -29747,15 +27800,11 @@ Son funciones del Director las señaladas en la ley, en los reglamentos y estatu
 
 (Decreto 1276 de 1994, art.19)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.20 — El Comité Científico
 
 El INVEMAR tendrá un Comité Científico encargado de velar por la pertinencia y calidad científica y técnica de los planes y programas del Instituto y de la coherencia de estas actividades con las necesidades del Ministerio de Ambiente y Desarrollo Sostenible y demás entidades del Sistema Nacional Ambiental, del Sistema de Investigación Ambiental y del Sistema de Información Ambiental. La constitución del Comité Científico se deberá establecer en los correspondientes estatutos.
 
 (Decreto 1276 de 1994, art.20)
-
-ARTÍCULO
 
 ## art:2.2.8.7.6.21 — Patrimonio y rentas
 
@@ -29779,8 +27828,6 @@ INVEMAR estarán integrados por:
 
 (Decreto 1276 de 1994, art.21)
 
-ARTÍCULO
-
 ## art:2.2.8.7.6.22 — Asociados del Instituto de Investigaciones Marinas y Costeras "Jase Benito Vives de Andreis" -INVEMAR-
 
 El Instituto de investigaciones Marinas y Costeras "José Benito Vives de Andreis" -INVEMAR-, podrá asociar entidades públicas v privadas, corporaciones v fundaciones sin ánimo de lucro de carácter privado y organizaciones no gubernamentales nacionales e internacionales, así como las Corporaciones que tengan jurisdicción sobre los litorales y las zonas insulares.
@@ -29793,8 +27840,6 @@ INSTRUMENTOS DE PLANIFICACIÓN PARA INSTITUTOS DE INVESTIGACIÓN VINCULADOS Y AD
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.8.8.1.1 — De la planificación de la investigación y la información en las instituciones del sistema nacional ambiental
 
 Se entiende esta planificación como el ejercicio organizado y sistemático de estrategias, programas, líneas de investigación y recursos institucionales, orientados a la producción de conocimiento ambiental y la producción de información necesaria para la gestión de todas las instituciones que componen el Sistema Nacional Ambiental, SINA.
@@ -29802,8 +27847,6 @@ Se entiende esta planificación como el ejercicio organizado y sistemático de e
 PARÁGRAFO . Para efectos del presente capítulo, cuando se haga referencia a los Institutos de Investigación del SINA, se entenderá que se trata de las entidades que brindan apoyo científico y técnico al Ministerio según los postulados del Título V de la Ley 99 de 1993.
 
 (Decreto 2370 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.8.1.2 — Principios
 
@@ -29821,15 +27864,11 @@ El proceso de planificación de la investigación y la información en el SINA, 
 
 (Decreto 2370 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.8.1.3 — Instrumentos de planificación de la investigación ambiental
 
 Para el desarrollo de la Planificación en el largo y mediano plazo, los institutos de investigación del Sistema Nacional Ambiental, SINA, contarán con los siguientes instrumentos: El Plan Estratégico Nacional de Investigación Ambiental y el Plan Institucional Cuatrienal de Investigación para cada instituto.
 
 (Decreto 2370 de 2009, art.3)
-
-ARTÍCULO
 
 ## art:2.2.8.8.1.4 — Plan estratégico nacional de investigación ambiental
 
@@ -29837,15 +27876,11 @@ El Plan Estratégico Nacional de Investigación Ambiental será el instrumento d
 
 (Decreto 2370 de 2009, art.4)
 
-ARTÍCULO
-
 ## art:2.2.8.8.1.5 — Articulación
 
 La formulación del Plan Estratégico Nacional de Investigación Ambiental se hará en articulación con los instrumentos de planificación ambiental previstos para las autoridades ambientales. De igual forma, se articulará con las políticas del Sistema Nacional de Ciencia y Tecnología y los demás planes y programas nacionales de investigación.
 
 (Decreto 2370 de 2009, art.5)
-
-ARTÍCULO
 
 ## art:2.2.8.8.1.6 — Componentes
 
@@ -29863,8 +27898,6 @@ El Plan Estratégico Nacional de Investigación Ambiental contendrá los siguien
 
 (Decreto 2370 de 2009, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.8.8.1.7 — 1.7
 
 Plan institucional cuatrienal de investigación ambiental, Es el instrumento de planificación de los Institutos de Investigación del SINA, en el cual se concreta el compromiso institucional para el logro de los objetivos y metas planteados en el Plan Estratégico Nacional de Investigación Ambiental. En él se definen las acciones e inversiones que se adelantarán en 4 años.
@@ -29874,8 +27907,6 @@ Cada uno de los Institutos de Investigación del SINA formulará con base en las
 El Director General presentará el Plan Institucional Cuatrienal de Investigación para su aprobación, dentro de los cuatro (4) meses siguientes, contados a partir del 1o de enero de 2011, ante la Junta o Consejo Directivo, quien contará con el término de un (1) mes para la aprobación del mismo.
 
 (Decreto 2370 de 2009, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.8.1.8 — 1.8
 
@@ -29895,15 +27926,11 @@ Componentes del plan institucional cuatrienal de investigación ambiental Este P
 
 (Decreto 2370 de 2009, art.8)
 
-ARTÍCULO
-
 ## art:2.2.8.8.1.9 — Programación anual
 
 Para la planificación de corto plazo los Institutos de Investigación Ambiental definirán el Plan de Acción Anual que servirá de base para elaborar el Presupuesto Anual de Ingresos, Gastos e Inversiones. Este conservará la estructura de planeación y expresará los avances anuales del Plan Institucional Cuatrienal de Investigación Ambiental.
 
 (Decreto 2370 de 2009, art.9)
-
-ARTÍCULO
 
 ## art:2.2.8.8.1.10 — Del seguimiento y evaluación
 
@@ -29914,8 +27941,6 @@ PARÁGRAFO . Los programas y líneas de investigación ambiental que se planteen
 El Ministerio de Ambiente y Desarrollo Sostenible implementará en coordinación con los Institutos de Investigación Ambiental del SINA, un sistema de seguimiento y evaluación del Plan Estratégico Nacional de Investigación Ambiental y del Plan Institucional Cuatrienal de Investigación Ambiental, que permita evidenciar el aporte a la producción de conocimiento e información, como base para la formulación, evaluación o ajuste de las políticas ambientales.
 
 (Decreto 2370 de 2009, art.10)
-
-ARTÍCULO
 
 ## art:2.2.8.8.1.11 — Informes
 
@@ -29931,15 +27956,11 @@ SECCIÓN 1.
 
 DEL SISTEMA DE INFORMACION AMBIENTAL
 
-ARTÍCULO
-
 ## art:2.2.8.9.1.1 — Del Sistema de Información Ambiental
 
 El Sistema de Información Ambiental, comprende los datos, las bases de datos las estadísticas, la información, los sistemas, los modelos, la información documental y bibliográfica las colecciones y los reglamentos y protocolos que regulen el acopio el manejo de la información, y sus interacciones. El Sistema de Información Ambiental tendrá como soporte el Sistema Nacional Ambiental. La operación y coordinación central de la información estará a cargo de los Institutos de Investigación Ambiental en las áreas temáticas de su competencia los que actuarán en colaboración con las Corporaciones las cuales a su vez implementarán y operarán el Sistema de Información Ambiental en el área de su jurisdicción en coordinación con los entes territoriales y centros poblados no mencionados taxativamente en la ley.
 
 (Decreto 1600 de 1994, art.1)
-
-ARTÍCULO
 
 ## art:2.2.8.9.1.2 — Dirección y Coordinación del Sistema de Información Ambiental
 
@@ -29979,15 +28000,11 @@ PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible tendrá acceso li
 
 (Decreto 1600 de 1994, art.2)
 
-ARTÍCULO
-
 ## art:2.2.8.9.1.3 — Del carácter de la información ambiental
 
 De conformidad con los artículos 11 y 23 del Decreto-Ley 2811 de 1974, declárase como de utilidad pública la información relativa a la calidad ambiental y a la oferta y estado de los recursos naturales renovables. En consecuencia los propietarios, usuarios, concesionarios, arrendatarios y titulares de permiso de uso sobre recursos naturales renovables y elementos ambientales están obligados a recopilar y a suministrar sin costo alguno tal información a solicitud del IDEAM tal información. Las personas naturales o jurídicas, públicas o privadas, nacionales o extranjeras, que posean o procesen información relativa a la calidad ambiental y a la oferta y estado de los recursos naturales, deberán entregarla al IDEAM para los fines que éste considere, en los términos establecidos por la ley.
 
 (Decreto 1600 de 1994, art.3)
-
-ARTÍCULO
 
 ## art:2.2.8.9.1.4 — Del manejo de la Información Ambiental
 
@@ -29996,8 +28013,6 @@ El Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) acopia
 El IDEAM y los demás Institutos de Investigación Ambiental apoyarán y contribuirán a la implantación y operación del Sistema de Información Ambiental en todo el territorio nacional y en especial en las Corporaciones, de acuerdo con el artículo 31, numerales 7, 22 y 24 y los grandes centros urbanos de acuerdo con el artículo 66 de la Ley 99 de 1993.
 
 (Decreto 1600 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.2.8.9.1.5 — De los servicios de laboratorio para apoyarla Gestión e Información Ambiental
 
@@ -30011,8 +28026,6 @@ PARÁGRAFO 3. El IDEAM coordinará los laboratorios oficiales de referencia que 
 
 (Decreto 1600 de 1994, art.5)
 
-ARTÍCULO
-
 ## art:2.2.8.9.1.6 — De las colecciones para apoyar la gestión e información ambiental
 
 Para efectos de la normalización de colecciones, muestras y especímenes biológicos y las de todo orden que sirvan de fundamento para realizar estudios sobre la naturaleza, los recursos naturales renovables y el medio ambiente, se creará una red. A ella podrán pertenecer todas las instituciones públicas o privadas que produzcan información o estudios fundamentados en este tipo de colecciones.
@@ -30024,8 +28037,6 @@ PARÁGRAFO 2. Los especímenes o ejemplares únicos deberán permanecer en Colom
 PARÁGRAFO 3. Las instituciones pertenecientes a la red se organizarán de tal forma que se asegure el mantenimiento y seguridad de las colecciones, el flujo de información y acceso a las mismas, así como la prestación de servicios entre ellas, todo ello será definido en la reglamentación que sobre el particular expida el Ministerio de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1600 de 1994, art.6)
-
-ARTÍCULO
 
 ## art:2.2.8.9.1.7 — 1.7
 
@@ -30039,15 +28050,11 @@ SECCIÓN 2
 
 DEL SISTEMA NACIONAL DE INVESTIGACION AMBIENTAL
 
-ARTÍCULO
-
 ## art:2.2.8.9.2.1 — Del Sistema Nacional de Investigación Ambiental
 
 Es el conjunto de orientaciones, normas, actividades, recursos, programas, instancias e instituciones públicas, privadas o mixtas, grupos o personas, que realizan actividades de investigación científica y desarrollo tecnológico en el campo ambiental, a que hace referencia el numeral 6 del artículo 41 de la Ley 99 de 1993 y que, por consiguiente, constituye un subsistema del SINA.
 
 (Decreto 1600 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.9.2.2 — Objetivo principal el Sistema Nacional de Investigación Ambiental
 
@@ -30063,8 +28070,6 @@ De acuerdo con el carácter y competencias de las entidades que lo conforman, te
 
 (Decreto 1600 de 1994, art.8)
 
-ARTÍCULO
-
 ## art:2.2.8.9.2.3 — Dirección y Coordinación del Sistema de Investigación Ambiental
 
 El Ministerio de Ambiente y Desarrollo Sostenible será el director y coordinador del proceso de planificación y ejecución armónica de las actividades del Sistema de Investigación Ambiental, al tenor del artículo 51 de la Ley 99 de 1993. Para ello se apoyará en las Entidades Científicas Adscritas y Vinculadas al Ministerio de Ambiente y Desarrollo Sostenible, y en los Comités Científicos del Ministerio, en los Consejos y Comités lnterministeriales o lntersectoriales que, bajo la coordinación del Ministerio, se creen para definir políticas y coordinar actividades en temas y asuntos de interés común para varios sectores de la administración pública o de la actividad social y productiva, así como en los Consejos del Sistema Nacional de Ciencia y Tecnología, como organismos asesores y consultores.
@@ -30072,8 +28077,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible será el director y coordinado
 En el Sistema de Investigación Ambiental podrán participar todas las Instituciones públicas, privadas o mixtas, Grupos o personas que demuestren capacidad para realizar actividades de Investigación y Desarrollo relacionadas con el Medio Ambiente, y por lo tanto podrán optar por los recursos disponibles para tal fin, de acuerdo con la reglamentación que se establezca al efecto.
 
 (Decreto 1600 de 1994, art.9)
-
-ARTÍCULO
 
 ## art:2.2.8.9.2.4 — Operación del Sistema Nacional de Investigación Ambiental
 
@@ -30086,8 +28089,6 @@ CAPÍTULO 10.
 CONSEJO PROFESIONAL DE ADMINISTRACIÓN AMBIENTAL
 
 SECCIÓN 1.
-
-ARTÍCULO
 
 ## art:2.2.8.10.1.1 — Conformación
 
@@ -30110,8 +28111,6 @@ PARÁGRAFO 1. Los miembros del Consejo Profesional tendrán un período de dos (
 PARÁGRAFO 2. A las reuniones del Consejo Profesional podrán ser invitados los representantes de los estudiantes de las instituciones de educación superior públicas y privadas en las que se impartan programas que otorguen el título profesional de Administrador Ambiental.
 
 (Decreto 1150 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.10.1.2 — Elección de los miembros del Consejo
 
@@ -30136,8 +28135,6 @@ c) Votación, se escogerá como integrante del Consejo a quienes obtengan la may
 PARÁGRAFO 3. Para el proceso de convocatoria y para efectos de las votaciones se podrán utilizar medios electrónicos o virtuales de conformidad con la ley, siempre y cuando garanticen la confiabilidad de las actuaciones.
 
 (Decreto 1150 de 2008, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.8.10.1.3 — Funciones
 
@@ -30167,8 +28164,6 @@ PARÁGRAFO . El Consejo Profesional de Administración Ambiental tendrá un plaz
 
 (Decreto 1150 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.10.1.4 — Requisitos para la expedición de la tarjeta profesional
 
 El Consejo Profesional de Administración Ambiental matriculará y expedirá la Tarjeta Profesional de Administrador Ambiental a la persona natural que:
@@ -30182,8 +28177,6 @@ PARÁGRAFO 2. El Consejo Profesional de Administración Ambiental contará con u
 Mientras se expide la tarjeta profesional para el ejercicio de la profesión, se deberá exhibir copia del acta de grado expedida por la respectiva institución de educación superior o del acta de convalidación expedida por el Ministerio de Educación Nacional, según sea el caso.
 
 (Decreto 1150 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.8.10.1.5 — Reconocimiento de la asociación nacional de administradores ambientales
 
@@ -30235,15 +28228,11 @@ DEPARTAMENTO DE GESTIÓN AMBIENTAL DE LAS EMPRESAS A NIVEL INDUSTRIAL
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.8.11.1.1 — Objeto
 
 El presente decreto reglamenta el Departamento de Gestión Ambiental de las empresas a nivel industrial, de conformidad con el artículo 8 de la Ley 1124 de 2007.
 
 (Decreto 1299 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.11.1.2 — Definiciones
 
@@ -30255,23 +28244,17 @@ Para todos los efectos de aplicación e interpretación del presente decreto, se
 
 (Decreto 1299 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.8.11.1.3 — Ámbito de aplicación
 
 El presente decreto se aplicará a todas las empresas a nivel industrial cuyas actividades, de acuerdo a la normatividad ambiental vigente, requieran de licencia ambiental, plan de manejo ambiental, permisos, concesiones y demás autorizaciones ambientales.
 
 (Decreto 1299 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.11.1.4 — Objeto del departamento de gestión ambiental
 
 El Departamento de Gestión Ambiental - DGA - de todas las empresas a nivel industrial tiene por objeto establecer e implementar acciones encaminadas a dirigir la gestión ambiental de las empresas a nivel industrial; velar por el cumplimiento de la normatividad ambiental; prevenir, minimizar y controlar la generación de cargas contaminantes; promover prácticas de producción más limpia y el uso racional de los recursos naturales; aumentar la eficiencia energética y el uso de combustible más limpios; implementar opciones para la reducción de emisiones de gases de efectos invernadero; y proteger y conservar los ecosistemas.
 
 (Decreto 1299 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.8.11.1.5 — Conformación del departamento de gestión ambiental
 
@@ -30294,8 +28277,6 @@ PARÁGRAFO 3. El Departamento de Gestión Ambiental de las micro y pequeñas emp
 PARÁGRAFO 4. Las empresas podrán integrar el Departamento de Gestión Ambiental junto con otros departamentos de salud ocupacional, seguridad industrial o calidad. En este caso, es necesario que las funciones en materia ambiental sean explicitas y se dé cumplimiento a los demás requerimientos establecidos en esta norma.
 
 (Decreto 1299 de 2008, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.8.11.1.6 — Funciones del departamento de gestión ambiental
 
@@ -30327,15 +28308,11 @@ Compensación de los impactos ambientales que generen.
 
 (Decreto 1299 de 2008, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.8.11.1.7 — Información sobre el Departamento de Gestión Ambiental
 
 El representante legal de la empresa a nivel industrial, deberá informar a las autoridades ambientales competentes sobre la conformación del Departamento de Gestión Ambiental, las funciones y responsabilidades asignadas.
 
 (Decreto 1299 de 2008, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.11.1.8 — Implementación
 
@@ -30351,8 +28328,6 @@ DISTINCIÓN NACIONAL DEL MEDIO AMBIENTE
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.8.12.1.1 — Creación de la distinción
 
 Créase la Distinción Nacional del Medio Ambiente como reconocimiento y exaltación de las personas naturales o jurídicas, nacionales o extranjeras que han dedicado parte de su vida o actividad a la conservación, al uso de los recursos naturales renovables en forma sostenible, a la iniciativa ciudadana en el campo ambiental y al proyecto institucional para la defensa y protección del medio ambiente.
@@ -30361,15 +28336,11 @@ Igualmente, la Distinción Nacional del Medio Ambiente se podrá otorgar a Repre
 
 (Decreto 1125 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.12.1.2 — Reconocimiento del gobierno Nacional
 
 La Distinción Nacional del Medio Ambiente la concederá el Gobierno Nacional, mediante decreto ejecutivo, a iniciativa del Presidente de la República o por postulación del Ministro del Medio Ambiente teniendo en cuenta los méritos y calidades que acrediten los candidatos que se seleccionen como merecedores de la misma.
 
 (Decreto 1125 de 1994, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.8.12.1.3 — Modalidades
 
@@ -30377,15 +28348,11 @@ La Distinción Nacional del Medio Ambiente que por este Decreto se establece, se
 
 (Decreto 1125 de 1994, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.8.12.1.4 — Canciller
 
 El Canciller de esta Distinción será el Ministro de Ambiente y Desarrollo Sostenible.
 
 (Decreto 1125 de 1994, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.8.12.1.5 — Acreditación
 
@@ -30395,23 +28362,17 @@ PARÁGRAFO .- Además del diploma, el Canciller de la distinción otorgará el a
 
 (Decreto 1125 de 1994 art. 5)
 
-ARTÍCULO
-
 ## art:2.2.8.12.1.6 — Diplomas
 
 Los diplomas serán registrados en el Ministerio de Ambiente y Desarrollo Sostenible y los refrendará la Presidencia de la República.
 
 (Decreto 1125 de 1994, art. 6
 
-ARTÍCULO
-
 ## art:2.2.8.12.1.7 — Entrega distinción
 
 La entrega de la Distinción Nacional del Medio Ambiente, a quien fuere otorgada, se hará preferiblemente el día Nacional del Medio Ambiente, en ceremonia especial con la asistencia de altas autoridades del Gobierno Nacional y representantes de las diferentes agremiaciones.
 
 (Decreto 1125 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.8.12.1.8 — Derecho a distinción
 
@@ -30425,8 +28386,6 @@ c. La violación a la legislación ambiental nacional o internacional vigente, d
 
 (Decreto 1125 de 1994, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.8.12.1.9 — Declaratoria de pérdida de distinción
 
 La pérdida de la Distinción Nacional del Medio Ambiente se declarará mediante decreto del Gobierno Nacional.
@@ -30439,8 +28398,6 @@ CONDECORACIÓN DEL RECICLADOR
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.5.13.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar el artículo 2 de la Ley 511 de 1999, mediante el cual se crea la "condecoración del reciclador", estableciendo las categorías para acceder al mencionado título honorífico, los requisitos y el procedimiento para otorgarlo a las personas naturales o jurídicas que se hayan distinguido por desarrollar una o varias actividades de recuperación y/o reciclaje de residuos.
@@ -30448,8 +28405,6 @@ El presente capítulo tiene por objeto reglamentar el artículo 2 de la Ley 511 
 PARÁGRAFO . Los alcaldes emularán el reconocimiento "Condecoración del Reciclador" a las personas naturales o jurídicas que operan y se distinguieron dentro de su respectiva jurisdicción, por desarrollar actividades en el proceso de recuperación o reciclaje de residuos.
 
 (Decreto 2395 de 2000, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.13.1.2 — Definiciones
 
@@ -30473,8 +28428,6 @@ Tratamiento. Es el conjunto de operaciones, procesos o técnicas encaminadas a l
 
 (Decreto 2395 de 2000, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.13.1.3 — Categorías de la condecoración del reciclador
 
 El título honorífico "condecoración del reciclador" se otorgará en las siguientes categorías:
@@ -30490,8 +28443,6 @@ Categoría de reciclador. Modalidad que comprende a las personas naturales no in
 Categoría de prestador del servicio público de aseo. Modalidad que comprende a las personas encargadas de realizar una o varias actividades de la prestación del servicio público domiciliario de aseo, en los términos definidos en la Ley 142 de 1994, quienes en desarrollo de dichas actividades promuevan o realicen programas de recuperación y/o reciclaje de residuos en el área de prestación del respectivo servicio.
 
 (Decreto 2395 de 2000 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.5.13.1.4 — Requisitos para obtener la condecoración
 
@@ -30537,8 +28488,6 @@ PARÁGRAFO . Quienes hayan sido distinguidos con la "condecoración del reciclad
 
 (Decreto 2395 de 2000, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.13.1.5 — Procedimiento
 
 Para el otorgamiento del título honorífico
@@ -30556,8 +28505,6 @@ PARÁGRAFO 1- En diciembre de cada año, el Ministerio de Ambiente y Desarrollo 
 PARÁGRAFO 2- Una vez realizado el acto de entrega de la "condecoración del reciclador", el Ministerio de Ambiente y Desarrollo Sostenible divulgará la lista de ganadores.
 
 (Decreto 2395 de 2000, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.5.13.1.6 — Comité técnico de evaluación
 
@@ -30585,8 +28532,6 @@ COMPARENDO AMBIENTAL
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.5.14.1.1 — Objeto
 
 Reglamentar el formato, presentación y contenido del comparendo ambiental de que trata la Ley 1259 de 2008, así como establecer los lineamientos generales para su imposición al momento de la comisión de cualquiera de las infracciones sobre aseo, limpieza y recolección de residuos sólidos, que adelante se codifican.
@@ -30594,8 +28539,6 @@ Reglamentar el formato, presentación y contenido del comparendo ambiental de qu
 PARÁGRAFO . Entiéndase por comparendo ambiental la orden formal de notificación para que el presunto infractor se presente ante la autoridad competente.
 
 (Decreto 3695 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.14.1.2 — Codificación de las infracciones
 
@@ -30667,8 +28610,6 @@ No recoger los residuos sólidos o escombros en los horarios establecidos por la
 
 (Decreto 3695 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.14.1.3 — Orientaciones de los reglamentos territoriales
 
 Al reglamentar el procedimiento y las sanciones previstas en el artículo 7 de la Ley 1259 de 2008, el respectivo Concejo Municipal o distrital tendrá en cuenta los siguientes criterios nacionales:
@@ -30697,23 +28638,17 @@ PARÁGRAFO 3. La infracción clasificada con el código 06, se aplicará una vez
 
 (Decreto 3695 de 2009, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.5.14.1.4 — Recaudo de los recursos
 
 Al tenor del artículo 12 de la Ley 1259 de 2008, la administración municipal o distrital en cabeza del alcalde deberá constituir con el recaudo del Comparendo Ambiental, un fondo o una cuenta especial con destinación específica para la ejecución del plan de acción que establecerá el Gobierno Nacional.
 
 (Decreto 3695 de 2009, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.14.1.5 — Cobro coactivo
 
 Los alcaldes municipales o distritales podrán hacer efectivas las multas por razón de las infracciones a este capítulo, a través de la jurisdicción coactiva, con arreglo a lo que sobre ejecuciones fiscales establezca la Ley 1066 de 2006 o la norma que la modifique o sustituya.
 
 (Decreto 3695 de 2009, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.5.14.1.6 — Formato
 
@@ -30743,8 +28678,6 @@ Cada comparendo constará de un original en color blanco y cuatro copias. El ori
 
 (Decreto 3695 de 2009, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.5.14.1.7 — Incorporación
 
 Las siguientes infracciones serán incorporadas por el Ministerio del Transporte en el Formulario de Comparendo Único Nacional de Tránsito, en el plazo establecido en el artículo 23 de la Ley 1259 de 2008.
@@ -30760,8 +28693,6 @@ PARÁGRAFO 1. Al tenor del artículo 10 de la Ley 1259 de 2008, el Comparendo Am
 PARÁGRAFO 2. Cuando se trate de la infracción señalada en el numeral 1 del presente Artículo, el comparendo se impondrá al pasajero infractor o en su defecto, al conductor o el propietario del vehículo.
 
 (Decreto 3695 de 2009, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.5.14.1.8 — Indicadores
 
@@ -30802,8 +28733,6 @@ Puntos críticos recuperados
 No. De puntos críticos recuperados año/No. de puntos críticos identificados al año
 
 (Decreto 3695 de 2009, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.5.14.1.9 — De los criterios del plan de acción
 
@@ -30927,8 +28856,6 @@ PORCENTAJE O SOBRETASA AMBIENTAL
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.1 — Porcentaje del impuesto predial
 
 Los consejos municipales y distritales deberán destinar anualmente a las Corporaciones Autónomas Regionales o de Desarrollo Sostenible del territorio de su jurisdicción, para la protección del medio ambiente y los recursos naturales renovables, el porcentaje ambiental del impuesto predial de que trata el artículo 44 de la Ley 99 de 1993, que se podrá fijar de cualesquiera de las dos formas que se establecen a continuación:
@@ -30938,8 +28865,6 @@ Los consejos municipales y distritales deberán destinar anualmente a las Corpor
 2. Como porcentaje del total del recaudo por concepto del impuesto predial, que no podrá ser inferior al 15% ni superior al 25,9% de tal recaudo.
 
 (Decreto 1339 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.1.2 — Sobretasa
 
@@ -30951,8 +28876,6 @@ Los intereses que se causen por mora en el pago del impuesto predial se causará
 
 (Decreto 1339 de 1994, art.2)
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.3 — Porcentaje del total del recaudo
 
 En el caso de optar el respectivo Consejo municipal o distrital por el establecimiento de un porcentaje del total del recaudo por concepto del impuesto predial, deberán destinar entre el 15% y el 25,9% de éste para las Corporaciones con jurisdicción en su territorio.
@@ -30963,15 +28886,11 @@ PARÁGRAFO . De manera excepcional, previo concepto del Ministerio del Medio Amb
 
 (Decreto 1339 de 1994, art.3)
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.4 — Adopción por los municipios y distritos
 
 Los alcaldes municipales o distritales deberán presentar oportuna y anualmente a consideración de sus respectivos Consejos, el proyecto de acuerdo en el cual se establece el porcentaje ambiental del impuesto predial a favor de las Corporaciones Autónomas Regionales o de Desarrollo Sostenible, con la determinación de su cuantía y forma en cualquiera de las modalidades a que se refiere el artículo primero de este capítulo.
 
 (Decreto 1339 de 1994, art.4)
-
-ARTÍCULO
 
 ## art:2.2.9.1.1.5 — Intereses moratorias
 
@@ -30979,23 +28898,17 @@ A partir del 30 de junio de 1994, la no transferencia oportuna de la sobretasa o
 
 (Decreto 1339 de 1994, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.6 — Asistencia técnica
 
 Sin perjuicio de la asistencia que pueden otorgar otras entidades, las Corporaciones Autónomas Regionales o de Desarrollo Sostenible podrán prestar asistencia técnica a los municipios, para la capacitación de los funcionarios encargados del recaudo del impuesto predial y apoyo logístico para el recaudo del mismo y para el levantamiento, sistematización y actualización de las bases de datos a que haya lugar para el efecto.
 
 (Decreto 1339 de 1994, art.6)
 
-ARTÍCULO
-
 ## art:2.2.9.1.1.7 — Conformidad con los planes ambientales
 
 Las Corporaciones Autónomas Regionales o de Desarrollo Sostenible ejecutarán los recursos provenientes del porcentaje ambiental que le destinen los municipios y distritos, de conformidad con los planes ambientales regionales, distritales y municipales.
 
 (Decreto 1339 de 1994, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.9.1.1.8 — Porcentaje para ciudades de más de 1.1000.000 de habitantes
 
@@ -31009,8 +28922,6 @@ TRANSFERENCIAS DEL SECTOR ELÉCTRICO
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.9.2.1.1 — Campo de aplicación
 
 El presente capítulo se aplica a todas las empresas, sean públicas, privadas o mixtas, propietarias de plantas de generación de energía hidroeléctrica o termoeléctrica, cuya potencia nominal instalada total sea superior a 10.000 kw, y sobre las ventas brutas por generación propia.
@@ -31018,8 +28929,6 @@ El presente capítulo se aplica a todas las empresas, sean públicas, privadas o
 PARÁGRAFO . Corresponde al Ministerio de Minas y Energía determinar la potencia nominal instalada total de las empresas, para efectos del artículo 45 de la Ley 99 de 1993.
 
 (Decreto 1933 de 1994, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.2.1.2 — Definiciones
 
@@ -31047,8 +28956,6 @@ Municipio donde está situada una planta termoeléctrica. Municipio o municipios
 
 (Decreto 1933 de 1994, art.2)
 
-ARTÍCULO
-
 ## art:2.2.9.2.1.3 — Delimitación de áreas
 
 Con base en las definiciones anteriores y a solicitud de la Corporación o Corporaciones Autónomas Regionales respectivas, de los municipios o distritos o de la empresa o empresas propietarias de las plantas de generación eléctrica, el Instituto Geográfico "Agustín Codazzi" o la autoridad catastral pertinente, definirá lo siguiente:
@@ -31075,8 +28982,6 @@ PARÁGRAFO 5. Para efectos de lo dispuesto en el presente artículo, Parques Nac
 
 (Parágrafo 5, adicionado por el Art. 3 del Decreto 644 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.9.2.1.4 — Liquidación y transferencias
 
 Dentro de los diez (10) primeros días de cada mes y sobre la base de las ventas brutas del mes anterior, las empresas a las que se aplica el presente Capítulo, mediante acto administrativo para el caso de las empresas públicas o mixtas, y mediante comunicación para el caso de las privadas, harán la liquidación de los valores a transferir que le correspondan a las Corporaciones Autónomas Regionales y a los municipios y distritos, y a la subcuenta para el manejo separado de los recursos presupuestales que se asignen a la administración y manejo del Sistema de Parques Nacionales del Fondo Nacional Ambiental -FONAM, según corresponda, y se las comunicará a los beneficiarios.
@@ -31088,8 +28993,6 @@ Las empresas deberán solicitar la información necesaria para el cálculo de la
 (Sustituido por el Art. 1 del Decreto 644 de 2021)
 
 (Decreto 1933 de 1994, art 4)
-
-ARTÍCULO
 
 ## art:2.2.9.2.1.5 — Distribución del porcentaje de tas ventas brutas por generación hidroeléctrica
 
@@ -31143,8 +29046,6 @@ PARÁGRAFO 4. Las áreas de qué trata el numeral 1 del presente artículo será
 
 (Decreto 1933 de 1994, art.5 modificado por la Ley 1450 de 20011, art.222)
 
-ARTÍCULO
-
 ## art:2.2.9.2.1.6 — Distribución del porcentaje de las ventas brutas por generación termoeléctrica
 
 La distribución del 4% de las ventas brutas de energía por generación propia en caso de generación termoeléctrica de que trata el artículo 45 de la Ley 99 de 1993, se hará así:
@@ -31160,8 +29061,6 @@ PARÁGRAFO 1. Se entiende por saneamiento básico y mejoramiento ambiental la ej
 PARÁGRAFO 2. En la transferencia a que hace relación este artículo está comprendido el pago por parte del sector hidroenergético, de la tasa por utilización de aguas de que habla el artículo 43 de la Ley 99 de 1993.
 
 (Decreto 1933 de 1994, art.6 modificado por la Ley 1450 de 20011, art.222)
-
-ARTÍCULO
 
 ## art:2.2.9.2.1.7 — 1.7
 
@@ -31179,8 +29078,6 @@ e) Una vez aprobada o negada la solicitud, no se podrá invocar a ningún títul
 
 (Decreto 1933 de 1994, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.9.2.1.8 — Destinación de los recursos recibidos por las Corporaciones Autónomas Regionales
 
 Los recursos que reciban las Corporaciones Autónomas Regionales por concepto de las transferencias de que trata el literal a) del numeral 3 del artículo 45 de la Ley 99 de 1993, se destinarán para la protección del medio ambiente del área donde está ubicada la planta.
@@ -31192,8 +29089,6 @@ La elaboración y ejecución de este Plan es responsabilidad de la respectiva Co
 PARÁGRAFO . Cuando en jurisdicción de una Corporación existan plantas de generación hidráulica y térmica, debe haber compatibilidad en los planes de inversión que recomienden el "Plan de Ordenación y Manejo Ambiental de la Cuenca Hidrográfica y del área de Influencia del Proyecto", para las hidráulicas y el "Plan de Manejo Ambiental del área de Influencia de la Planta Térmica".
 
 (Decreto 1933 de 1994, art.8 modificado por la Ley 1450 de 20011, art.222)
-
-ARTÍCULO
 
 ## art:2.2.9.2.1.9 — Gastos de funcionamiento
 
@@ -31207,13 +29102,9 @@ INVERSIÓN FORZOSA DE NO MENOS DEL 1%
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.1 — CAMPO DE APLICACIÓN
 
 Todo proyecto que requiera licencia ambiental y que involucre en su ejecución el uso del agua tomada directamente de fuentes naturales para cualquier actividad, deberá destinar no menos del 1% del total de la inversión para la recuperación, conservación, preservación y vigilancia de la cuenca hidrográfica que alimenta la respectiva fuente hídrica, de conformidad con lo dispuesto en el parágrafo 1 del artículo 43 de la Ley 99 de 1993.
-
-ARTÍCULO
 
 ## art:2.2.9.3.1.2 — DEFINICIONES
 
@@ -31245,8 +29136,6 @@ k. Restauración: son las acciones orientadas a restablecer parcial o totalmente
 
 l. Restauración Ecológica: son las acciones de restauración que están orientadas a restablecer el ecosistema degradado a una condición similar al ecosistema pre- disturbio respecto a su composición, estructura y funcionamiento. Además el ecosistema resultante debe ser un sistema auto-sostenible y debe garantizar la conservación de especies, del ecosistema en general así como de la mayoría de sus bienes y servicios.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.3 — DE LOS PROYECTOS SUJETOS A LA INVERSIÓN DE NO MENOS DEL 1%
 
 Para efectos de la aplicación del presente capítulo se considera que el titular de un proyecto deberá destinar no menos del 1% del total de la inversión, cuando cumpla con la totalidad de las siguientes condiciones:
@@ -31265,8 +29154,6 @@ PARÁGRAFO 1. Lo dispuesto en el presente capítulo aplica igualmente en los cas
 
 PARÁGRAFO 2. Aquellos proyectos sujetos a licenciamiento ambiental que se encuentren en alguna(s) de las siguientes condiciones: i) tomen el agua directamente de una red domiciliaria de acueducto operada por un prestador del servicio o su distribuidor, ii) hagan uso de aguas residuales tratadas o reutilizadas, iii) capten aguas lluvias, no estarán sometidos a las disposiciones contendidas en el presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.4 — ÁMBITO GEOGRÁFICO PARA LA INVERSIÓN FORZOSA DE NO MENOS DEL 1%
 
 El titular de la licencia ambiental podrá realizar la inversión de que trata el artículo 2.2.9.3.1.1 del presente capítulo, con base en el siguiente ámbito geográfico y orden de prioridades:
@@ -31281,27 +29168,19 @@ PARÁGRAFO 2. Siempre y cuando su ejecución sea compatible con los usos definid
 
 PARÁGRAFO 3. La inversión forzosa de no menos del 1% que se genere por la ejecución de proyectos lineales podrá ejecutarse en una o varias sub-zonas o zonas hidrográficas que atraviesen el proyecto, buscando maximizar los beneficios de las medidas a implementar y priorizando las áreas de importancia ecológica para la oferta y mantenimiento del recurso hídrico.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.5 — APROBACIÓN DE LAS LÍNEAS GENERALES DE INVERSIÓN DEL PLAN DE INVERSIÓN FORZOSA DE NO MENOS DEL 1%
 
 El solicitante de la licencia ambiental deberá presentar en el estudio de impacto ambiental, la propuesta de las líneas generales de inversión y el ámbito geográfico de las mismas, para aprobación de la autoridad ambiental, quien se pronunciará en el acto administrativo que otorgue la licencia ambiental.
 
 PARÁGRAFO . De conformidad con lo establecido en el Parágrafo 2 del artículo 2.2.2.3.6.2 del presente decreto, en los casos de competencia de la Autoridad Nacional de Licencias Ambientales -ANLA, el solicitante de la licencia ambiental deberá radicar ante las autoridades ambientales regionales con jurisdicción en el área de influencia del proyecto una copia del estudio de impacto ambiental, a fin de que en el concepto técnico sobre el uso, aprovechamiento y/o afectación de los recursos naturales renovables, se pronuncien sobre la pertinencia de la propuesta de las líneas generales de inversión y el ámbito geográfico de las mismas, en los términos y condiciones establecidas en el parágrafo 2 del artículo 2.2.2.3.6.3 ibídem.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.6 — LIQUIDACIÓN DE LA INVERSIÓN FORZOSA DE NO MENOS DEL 1%
 
 La liquidación de la inversión de que trata el presente capítulo, se realizará de conformidad con la inversión total del proyecto objeto de licencia ambiental.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.7 — PRESENTACIÓN DE LA LIQUIDACIÓN DE LA INVERSIÓN FORZOSA DE NO MENOS DEL 1%
 
 La liquidación de la inversión forzosa de no menos del 1% será presentada en pesos colombianos y deberá estar debidamente discriminada en términos contables, certificada por contador o revisor fiscal, según sea el caso.
-
-ARTÍCULO
 
 ## art:2.2.9.3.1.8 — APROBACIÓN DEL PLAN DE INVERSIÓN FORZOSA DE NO MENOS DEL 1%
 
@@ -31314,8 +29193,6 @@ PARÁGRAFO 1. Cuando se realicen nuevas inversiones durante la etapa de producci
 PARÁGRAFO 2. Durante la etapa de construcción y montaje del proyecto, el titular de la licencia ambiental podrá presentar ante la autoridad ambienta/ que otorgó la misma, planes parciales de inversión forzosa de no menos del 1%, acorde al monto de las inversiones realizadas, de las líneas generales de inversión y del ámbito geográfico aprobados en la licencia ambiental. Estos planes parciales serán aprobados en los términos señalados en el párrafo anterior.
 
 (Modificado por el Decreto 075 de 2017, Art, 3)
-
-ARTÍCULO
 
 ## art:2.2.9.3.1.9 — DESTINACIÓN DE LOS RECURSOS DE LA INVERSIÓN DE NO MENOS DEL 1%
 
@@ -31343,19 +29220,13 @@ PARÁGRAFO 4. Para la realización de los estudios y/o diseños respectivos dent
 
 PARÁGRAFO 5. Sin perjuicio de lo dispuesto en el numeral 1 del presente artículo y en el marco de lo dispuesto en el artículo 2.2.3.1.12.1, los recursos podrán destinarse a la actualización del Plan de Ordenación y Manejo de la Cuenca Hidrográfica en el porcentaje fijado por el Ministerio de Ambiente y Desarrollo Sostenible, siempre y cuando la autoridad ambiental administradora asegure, con otras fuentes de recursos, el financiamiento total de dicha actualización y el porcentaje restante de la inversión se destine a las actividades señaladas en los literales a, b, e y d del numeral 1 citado.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.10 — MECANISMOS DE IMPLEMENTACIÓN DE LA INVERSIÓN DE NO MENOS DEL 1%
 
 Para la implementación de las acciones de que trata el presente capítulo podrán utilizarse mecanismos, tales como el pago por servicios ambientales, los acuerdos de conservación, bancos de hábitat, así como la aplicación en iniciativas de conservación.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.11 — INFORMACIÓN
 
 Los titulares de licencias ambientales deben incluir la información sobre el cumplimiento de la inversión del 1% y de la compensación por componente biótico en los términos y condiciones que exige el Modelo de Almacenamiento Geográfico (Geodatabase) que para tal fin fue adoptada a través de la Resolución 1415 de 2012 y 188 de 2013, o la que la modifique o sustituya.
-
-ARTÍCULO
 
 ## art:2.2.9.3.1.12 — .12
 
@@ -31363,19 +29234,13 @@ AGRUPACIÓN DE LA INVERSIÓN DE NO MENOS DEL 1% CON LAS MEDIDAS DE COMPENSACIÓN
 
 Los titulares de licencias, permisos y autorizaciones ambientales estarán obligados a reportar el cumplimiento de cada una de las obligaciones objeto de agrupación de manera independiente a las autoridades ambientales respectivas.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.13 — .13
 
 ALIANZAS PARA LA IMPLEMENTACIÓN DE LA INVERSIÓN DE NO MENOS DEL 1% Y LAS MEDIDAS DE COMPENSACIÓN POR EL USO Y/O APROVECHAMIENTO DE RECURSOS NATURALES RENOVABLES. Los titulares de licencias ambientales, permisos y autorizaciones ambientales podrán generar alianzas para la implementación de las inversiones y compensaciones por el uso y/o aprovechamiento de recursos naturales renovables, en proporción a sus obligaciones, buscando maximizar los beneficios ambientales, económicos y sociales. En todo caso, los titulares de licencias, permisos y autorizaciones ambientales estarán obligados a reportar de manera independiente el cumplimiento de cada una de las obligaciones objeto de alianzas a las autoridades ambientales respectivas.
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.14 — ADOPCIÓN DE FORMATOS Y GUÍAS
 
 El Ministerio de Ambiente y Desarrollo Sostenible expedirá la guía sobre la inversión forzosa de no menos del 1% y adoptará los formatos del plan de inversión forzosa de no menos del 1% de liquidación y de actualización.
-
-ARTÍCULO
 
 ## art:2.2.9.3.1.15 — .15
 
@@ -31387,13 +29252,9 @@ PARÁGRAFO . Lo dispuesto en este artículo no aplica para aquellos proyectos su
 
 (Modificado por el Decreto 075 de 2017, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.9.3.1.16 — MODIFICACIÓN DE LOS PLANES INVERSIÓN DEL 1%
 
 El plan de inversión de no menos del 1% podrá ser modificado en cualquier momento por parte del titular de la licencia ambiental, para lo cual deberá presentar la propuesta de modificación ante la autoridad ambiental competente, quien la aprobará en los plazos establecidos en el artículo 2.2.9.3.1.8 del presente capítulo, sin que ello implique la modificación de la licencia ambiental.
-
-ARTÍCULO
 
 ## art:2.2.9.3.1.17 — RÉGIMEN DE TRANSICIÓN
 
@@ -31419,15 +29280,11 @@ FONDO NACIONAL AMBIENTAL - FONAM
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.9.4.1.1 — Naturaleza
 
 El Fondo Nacional Ambiental, Fonam, es un sistema especial de manejo de cuentas del Ministerio de Ambiente y Desarrollo Sostenible, con personería jurídica, patrimonio independiente, sin estructura.
 
 (Decreto 4317 de 2004, art.1)
-
-ARTÍCULO
 
 ## art:2.2.9.4.1.2 — Dirección y administración del Fonam
 
@@ -31447,8 +29304,6 @@ PARÁGRAFO . El Ministro de Ambiente y Desarrollo Sostenible es el representante
 
 (Decreto 4317 de 2004, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.9.4.1.3 — Funciones del Consejo de Gabinete
 
 Son funciones del
@@ -31467,8 +29322,6 @@ Consejo de Gabinete:
 
 (Decreto 4317 de 2004, art.3)
 
-ARTÍCULO
-
 ## art:2.2.9.4.1.4 — Líneas y fuentes de financiación del Fonam
 
 Para cumplir con sus objetivos, la cuenta del Fonam dispone de dos líneas de financiación:
@@ -31485,8 +29338,6 @@ PARÁGRAFO . Los recursos del Fonam, se manejarán mediante un sistema de subcue
 
 (Decreto 4317 de 2004, art.4)
 
-ARTÍCULO
-
 ## art:2.2.9.4.1.5 — Subcuentas de la línea de financiación por demanda de proyectos de inversión ambiental
 
 Las subcuentas de esta línea están destinadas a la financiación o cofinanciación de proyectos con recursos ordinarios de inversión o de empréstitos externos. Su finalidad es apoyar la formulación e implementación de la política ambiental del país.
@@ -31501,11 +29352,9 @@ Estas subcuentas son:
 
 (Decreto 4317 de 2004, art.5 modificado por Decreto 587 de 2010, art.1)
 
-ARTÍCULO
+## art:2.2.9.4.1.6 — 
 
-## art:2.2.9.4.1.6 — 1.6
-
-Subcuentas de la línea de financiación, recaudo y ejecución de recursos con destinación específica.
+2.2.9.4.1.6. Subcuentas de la línea de financiación, recaudo y ejecución de recursos con destinación específica.
 
 1. Subcuenta del Sistema de Parques Nacionales Naturales. Esta subcuenta está integrada por los recursos provenientes de la administración y manejo de las áreas del Sistema de Parques Nacionales Naturales y de ecoturismo, así como del producto de las concesiones en dichas áreas.
 
@@ -31518,8 +29367,6 @@ Con cargo a esta subcuenta, se financiarán los gastos e inversiones requeridas 
 4. Subcuenta del Fondo Ambiental de la Amazonia. Los recursos que ingresen a esta subcuenta se destinarán a la ejecución de proyectos, obras o actividades ambientales en la Amazonía colombiana.
 
 (Decreto 4317 de 2004, art.6)
-
-ARTÍCULO
 
 ## art:2.2.9.4.1.7 — Asignación de los recursos del Fonam
 
@@ -31551,8 +29398,6 @@ FONDO COMPENSACIÓN AMBIENTAL
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.9.5.1.1 — Definiciones
 
 Para efectos del presente capítulo se tendrán en cuenta las siguientes definiciones:
@@ -31573,15 +29418,11 @@ Reglamento Operativo. Documento diseñado y aprobado por el Comité del Fondo de
 
 (Decreto 954 de 1999, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.5.1.2 — Conformación
 
 El Comité del Fondo de Compensación Ambiental estará conformado por dos (2) representantes del Ministerio de Ambiente y Desarrollo Sostenible incluidos el Ministro o su delegado, un (1) representante de la Unidad de Política Ambiental del Departamento Nacional de Planeación, un (1) representante de las Corporaciones Autónomas Regionales y un (1) representante de las Corporaciones de Desarrollo Sostenible.
 
 (Decreto 954 de 1999, art.2)
-
-ARTÍCULO
 
 ## art:2.2.9.5.1.3 — Elección de Representantes de Corporaciones
 
@@ -31590,8 +29431,6 @@ Los representantes de las Corporaciones Autónomas Regionales y Corporaciones de
 La elección de dichos representantes deberá comunicarse por escrito al Ministerio de Ambiente y Desarrollo Sostenible, respaldada mediante el acta de la reunión en la cual se efectuó la elección.
 
 (Decreto 954 de 1999, art.3)
-
-ARTÍCULO
 
 ## art:2.2.9.5.1.4 — Comité del Fondo de Compensación
 
@@ -31613,8 +29452,6 @@ Ambiental, al cual se sujetará el mismo Comité.
 
 (Decreto 954 de 1999, art.4)
 
-ARTÍCULO
-
 ## art:2.2.9.5.1.5 — Secretaría Técnica del Comité
 
 El Comité del Fondo de Compensación Ambiental contará con una Secretaría Técnica, la cual será ejercida por la Oficina de Planeación del Ministerio de Ambiente y Desarrollo Sostenible y tendrá a su cargo las siguientes funciones:
@@ -31633,15 +29470,11 @@ El Comité del Fondo de Compensación Ambiental contará con una Secretaría Té
 
 (Decreto 954 de 1999, art.5)
 
-ARTÍCULO
-
 ## art:2.2.9.5.1.6 — Convocatoria del Comité
 
 El Comité del Fondo de Compensación Ambiental será convocado por el Ministro de Ambiente y Desarrollo Sostenible con 15 días calendario de anticipación a la fecha de reunión y sesionará como mínimo cuatro veces al año y cuando se convoque a reuniones extraordinarias.
 
 (Decreto 954 de 1999, art.6)
-
-ARTÍCULO
 
 ## art:2.2.9.5.1.7 — Sesiones
 
@@ -31650,8 +29483,6 @@ Las sesiones constarán en actas que deberán ser suscritas por quien presidió 
 El comité sólo podrá deliberar con la asistencia de la mayoría de sus integrantes. Las decisiones del Comité del Fondo de Compensación Ambiental se adoptarán por mayoría de los integrantes del Comité.
 
 (Decreto 954 de 1999, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.9.5.1.8 — Criterios Generales de Distribución de los Recursos
 
@@ -31663,8 +29494,6 @@ Los criterios específicos así como los montos máximos de asignación para cad
 
 (Decreto 954 de 1999, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.9.5.1.9 — Mecanismos de Recaudo
 
 Las Corporaciones deberán enviar mensualmente a la Secretaría Técnica del Comité del Fondo de Compensación Ambiental un informe que contenga los montos recaudados y los recursos destinados al Fondo definidos en el artículo 24 de la Ley 344 de 1996. Esta información deberá ser avalada por el Tesorero y el Director General de cada Corporación.
@@ -31674,8 +29503,6 @@ Estos recursos deberán ser girados a la cuenta especial designada para este fin
 El incumplimiento de las anteriores obligaciones acarreará las sanciones legales pertinentes.
 
 (Decreto 954 de 1999, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.9.5.1.10 — Disposiciones Generales
 
@@ -31699,15 +29526,11 @@ TASAS POR UTILIZACIÓN DEL AGUA
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar el artículo 43 de la Ley 99 de 1993 en lo relativo a las tasas por utilización de aguas superficiales, las cuales incluyen las aguas estuarinas, y las aguas subterráneas, incluyendo dentro de estas los acuíferos litorales. No son objeto de cobro del presente capítulo las aguas marítimas.
 
 (Decreto 155 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.2 — Definiciones
 
@@ -31741,15 +29564,11 @@ Acuíferos litorales: Son acuíferos que por su ubicación están expuestos a la
 
 (Decreto 155 de 2004, art.2)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.3 — Sujeto activo
 
 Las Corporaciones Autónomas Regionales, las Corporaciones para el Desarrollo Sostenible, las Autoridades Ambientales de los Grandes Centros Urbanos, las que se refiere el artículo 13 de la Ley 768 del 2002 y el artículo 124 de la ley 1617 de 2013 y la Unidad Administrativa Especial del Sistema de Parques Nacionales Naturales del Ministerio de Ambiente y Desarrollo Sostenible, son competentes para recaudar la tasa por utilización de agua reglamentada en este capítulo.
 
 (Decreto 155 de 2004, art.3)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.4 — Sujeto pasivo
 
@@ -31759,15 +29578,11 @@ PARÁGRAFO . La tasa por utilización de aguas se cobrará a todos los usuarios 
 
 (Decreto 155 de 2004, art. 4 modificado por la Ley 1450 de 2011, art. 216)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.5 — Hecho Generador
 
 Dará lugar al cobro de esta tasa, la utilización del agua por personas naturales o jurídicas, públicas o privadas.
 
 (Decreto 155 de 2004, art.5)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.6 — Base Gravable
 
@@ -31778,8 +29593,6 @@ PARÁGRAFO . El sujeto pasivo de la tasa por utilización de aguas que tenga imp
 Para el caso de los usuarios que no cuenten con concesión de uso de las aguas, se cobrará la tasa por el volumen de agua presumiblemente captado a partir de la mejor información disponible por parte de la autoridad ambiental competente, como la contenida en los instrumentos de planificación y administración del recurso hídrico correspondiente, en el censo de usuarios del recurso hídrico, o a partir de módulos de consumo adoptados o utilizados por la autoridad ambiental competente para los diferentes tipos de usos.
 
 (Decreto 155 de 2004, art.6 modificado por/a Ley 1450 de 2011, art.216)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.7 — Fijación de la tarifa
 
@@ -31805,23 +29618,17 @@ El volumen utilizado para el propósito previsto en el presente parágrafo trans
 
 (Parágrafos Transitorios 1 y 2 Adicionados por el Art. 5 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.8 — Tarifa mínima (TM)
 
 El Ministerio de Ambiente y Desarrollo Sostenible, mediante resolución, fijará anualmente el monto tarifario mínimo de las tasas por utilización de aguas.
 
 (Decreto 155 de 2004, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.9 — Factor regional
 
 El Factor Regional integrará los factores de disponibilidad del recurso hídrico, necesidades de inversión en recuperación de la cuenca hidrográfica y condiciones socioeconómicas de la población; mediante las variables cuantitativas de índice de Escasez, costos de inversión y el índice de Necesidades Básicas Insatisfechas, respectivamente. Cada uno de estos factores tendrá asociado un coeficiente, los cuales, a su vez, se ponderarán a través de un coeficiente adimensional que diferencie los fines de uso del recurso hídrico
 
 (Decreto 1155 de 2017, art.1)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.10 — Cálculo del Factor Regional (FR)
 
@@ -31969,8 +29776,6 @@ Para los usos diferentes al doméstico, agrícola, pecuario, acuícola y generac
 
 (Decreto 1155 de 2017, art.2)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.11 — Factor de Costo de Oportunidad
 
 (FOP EI factor de costo de oportunidad toma en cuenta si el usuario del agua se encuentra haciendo un uso consuntivo o no consuntivo, generando costos de oportunidad para los demás usuarios aguas abajo. El valor del factor de costo de oportunidad se calculará de conformidad con la siguiente fórmula:
@@ -31992,8 +29797,6 @@ PARÁGRAFO 1. El factor de costo de oportunidad no podrá tomar un valor inferio
 PARÁGRAFO 2. En el caso que el sujeto pasivo no presente el reporte con información sobre el volumen de agua captada y vertida, el factor de costo de oportunidad tomará el valor de 1.
 
 (Decreto 155 de 2004, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.12 — Cálculo del monto a pagar
 
@@ -32023,15 +29826,11 @@ T: Número de días del período de cobro,
 
 (Decreto 1155 de 2017, art.3)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.13 — Cuencas Compartidas
 
 Cuando dos o más autoridades ambientales competentes tengan jurisdicción sobre una misma cuenca hidrográfica, las Comisiones Conjuntas de que trata la sección 8, capítulo 1 del título 3, parte 2, libro 2 del presente Decreto o la norma que lo sustituya o modifique, coordinarán la implementación de la tasa por utilización de aguas en la cuenca compartida, sin perjuicio de las competencias da cada autoridad ambiental competente.
 
 (Decreto 155 de 2004, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.14 — Forma de Cobro
 
@@ -32049,15 +29848,11 @@ Las Autoridades Ambientales Competentes deberán informar a sus usuarios por los
 
 (Parágrafo Transitorio Adicionado por el Art. 7 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.15 — Período de cancelación
 
 Las facturas de cobro de las tasas por utilización de agua deberán incluir un periodo de cancelación mínimo de 30 días contados a partir de la fecha de expedición de la misma, momento a partir del cual las Autoridades Ambientales Competentes podrán cobrar los créditos exigibles a su favor a través de la jurisdicción coactiva.
 
 (Decreto 155 de 2004, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.16 — Presentación de reclamos y aclaraciones
 
@@ -32067,15 +29862,11 @@ La autoridad ambiental competente deberá llevar cuenta detallada de las solicit
 
 (Decreto 155 de 2004, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.17 — Recursos
 
 Contra el acto administrativo que resuelva el reclamo o aclaración procede el recurso de reposición.
 
 (Decreto 155 de 2004, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.18 — Destinación del recaudo de la tasa
 
@@ -32091,15 +29882,11 @@ Para cubrir gastos de implementación, monitoreo y seguimiento; la autoridad amb
 
 (Decreto 155 de 2004, art. 18 modificado por Ley 1450 de 2011, art.216)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.19 — Tasa por utilización de agua en el sector hidroenergético
 
 De conformidad con lo establecido en el parágrafo 3 del artículo 45 de la Ley 99 de 1993, dentro del porcentaje de transferencias al sector ambiental que hace el sector hidroenergético, compuesto por centrales hidráulicas y térmicas, está comprendido el pago de la tasa por utilización de aguas.
 
 (Decreto 155 de 2004, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.20 — Reporte de actividades
 
@@ -32113,15 +29900,11 @@ Con base en los reportes de las Autoridades Ambientales Competentes, el Minister
 
 (Decreto 155 de 2004, art.20)
 
-ARTÍCULO
-
 ## art:2.2.9.6.1.21 — Metodologías para el cálculo del índice de escasez
 
 Los índices de escasez para agua superficial y subterránea se calcularán con base en las metodologías establecidas por el Ministerio de Ambiente y Desarrollo Sostenible mediante las Resoluciones 865 de 2004 y 872 de 2006, respectivamente, o de la norma que las modifique o sustituya.
 
 (Decreto 155 de 2004, art.21)
-
-ARTÍCULO
 
 ## art:2.2.9.6.1.22 — Divulgación
 
@@ -32135,15 +29918,11 @@ TASAS RETRIBUTIVAS POR VERTIMIENTOS PUNTUALES AL AGUA
 
 SECCIÓN 1.
 
-ARTÍCULO
-
 ## art:2.2.9.7.1.1 — Objeto
 
 Reglamentar la tasa retributiva por la utilización directa e indirecta del recurso hídrico como receptor de vertimientos puntuales.
 
 (Decreto 2667 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.7.1.2 — Ámbito de aplicación
 
@@ -32154,8 +29933,6 @@ El presente capítulo aplica a las autoridades ambientales competentes señalada
 SECCIÓN 2.
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.2.9.7.2.1 — Definiciones
 
@@ -32209,15 +29986,11 @@ Vertimiento puntual indirecto al recurso hídrico. Es aquel vertimiento que se r
 
 (Decreto 2667 de 2012, art.3)
 
-ARTÍCULO
-
 ## art:2.2.9.7.2.2 — Autoridades ambientales competentes
 
 Son las Corporaciones Autónomas Regionales, las Corporaciones para el Desarrollo Sostenible, los Grandes Centros Urbanos a los que se refiere el artículo 66 de la Ley 99 de 1993, los establecimientos públicos ambientales creados en virtud del artículo 13 de la Ley 768 de 2002, y Parques Nacionales Naturales de Colombia, creada por el Decreto-Ley número 3572 de 2011, siempre y cuando corresponda a los usos permitidos en las áreas que integran el Sistema de Parques Nacionales Naturales.
 
 (Decreto 2667 de 2012, art.4)
-
-ARTÍCULO
 
 ## art:2.2.9.7.2.3 — Sujeto Activo
 
@@ -32225,15 +29998,11 @@ Son competentes para cobrar y recaudar la tasa retributiva por vertimientos punt
 
 (Decreto 2667 de 2012, art. 5)
 
-ARTÍCULO
-
-## art:2.2.9.7.2.4 — Sujeto Pasivo
+## art:2.2.9.7.2.4 — .Sujeto Pasivo
 
 Están obligados al pago de la tasa retributiva todos los usuarios que realicen vertimientos puntuales directa o indirectamente al recurso hídrico.
 
 (Decreto 2667 de 2012, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.9.7.2.5 — Tasa retributiva por vertimientos puntuales
 
@@ -32249,8 +30018,6 @@ SECCIÓN 3.
 
 ESTABLECIMIENTO DE METAS DE CARGA CONTAMINANTE
 
-ARTÍCULO
-
 ## art:2.2.9.7.3.1 — Meta global de carga contaminante
 
 La autoridad ambiental competente establecerá cada cinco años, una meta global de carga contaminante para cada cuerpo de agua o tramo del mismo de conformidad con el procedimiento establecido en el presente capítulo, la cual será igual a la suma de las metas quinquenales individuales y grupales establecidas en este capítulo.
@@ -32262,8 +30029,6 @@ Las autoridades ambientales establecerán la meta global que conduzca a los usua
 La determinación de la meta global en un cuerpo de agua o tramo del mismo, se hará teniendo en cuenta la línea base, las proyecciones de carga de los usuarios y carga del tramo o cuerpo de agua y la ejecución de obras previstas en el Plan de Saneamiento y Manejo de Vertimientos - PSMV, Permiso de Vertimientos y Plan de Reconversión a Tecnología Limpia en Gestión de Vertimientos, de conformidad con lo dispuesto en el capítulo 3 del título 3, parte 2, libro 2 del presente Decreto o la norma que lo modifique o sustituya.
 
 (Decreto 2667 de 2012, art.8)
-
-ARTÍCULO
 
 ## art:2.2.9.7.3.2 — Metas individuales y grupales
 
@@ -32279,8 +30044,6 @@ PARÁGRAFO . Las metas individuales y grupales, deberán establecerse bajo el pr
 
 (Decreto 2667de 2012, art.9)
 
-ARTÍCULO
-
 ## art:2.2.9.7.3.3 — Meta de carga contaminante para los prestadores del servicio de alcantarillado
 
 La meta individual de carga contaminante para los prestadores del servicio de alcantarillado, corresponderá a la contenida en el Plan de Saneamiento y Manejo de Vertimientos - PSMV, presentado por el prestador del servicio y aprobado por la autoridad ambiental competente de conformidad con la Resolución 1433 de 2004 expedida por el Ministerio de Ambiente y Desarrollo Sostenible la cual continúa vigente y podrá ser modificada o sustituida.
@@ -32292,8 +30055,6 @@ PARÁGRAFO 1. Aquellos usuarios prestadores del servicio de alcantarillado que n
 PARÁGRAFO 2. Para aquellos usuarios prestadores del servicio de alcantarillado que no cuenten con Plan de Saneamiento y Manejo de Vertimientos - PSMV aprobado y, que a su vez no presenten durante el proceso de consulta su propuesta de meta individual de carga contaminante y el número de vertimientos puntuales eliminados por cuerpo de agua, la autoridad ambiental competente, con base en la mejor información disponible, establecerá la meta de carga contaminante para dicho usuario, especificando anualmente para el quinquenio tanto la carga total contaminante como el número total de vertimientos puntuales eliminados por cuerpo de agua. Lo anterior, sin perjuicio de lo que disponga sobre la materia la autoridad ambiental competente en el Plan de Ordenamiento del Recurso Hídrico y en el Plan de Saneamiento y Manejo de Vertimientos cuando sea probado, y de la imposición de las medidas preventivas y sancionatorias a que haya lugar.
 
 (Decreto 2667 de 2012, art.10)
-
-ARTÍCULO
 
 ## art:2.2.9.7.3.4 — Información previa al establecimiento de /as metas de carga contaminante
 
@@ -32310,8 +30071,6 @@ Previo al establecimiento de las metas de carga contaminante en un cuerpo de agu
 5. Establecer objetivos de calidad de los cuerpos de agua o tramos de los mismos.
 
 (Decreto 2667 de 2012, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.9.7.3.5 — Procedimiento para el establecimiento de la meta global de carga contaminante
 
@@ -32353,8 +30112,6 @@ Adicional a lo anterior, para los usuarios prestadores del servicio público de 
 
 (Decreto 2667 de 2012, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.9.7.3.6 — Seguimiento y cumplimiento de la Meta global de carga contaminante
 
 Si al final de cada período anual no se cumple la meta global de carga contaminante, el Director General de la autoridad ambiental competente, o quien haga las veces, ajustará el factor regional de acuerdo con la información de cargas respectivas y según lo establecido en los artículos 2.2.9.7.4.3 y 2.2.9.7.4.4 del presente capítulo.
@@ -32371,8 +30128,6 @@ SECCIÓN 4.
 
 CÁLCULO DE LA TARIFA DE LA TASA RETRIBUTIVA POR VERTIMIENTOS PUNTUALES
 
-ARTÍCULO
-
 ## art:2.2.9.7.4.1 — Tarifa de la tasa retributiva (Ttr)
 
 Para cada uno de los parámetros objeto de cobro, la autoridad ambiental competente establecerá la tarifa de la tasa retributiva (Ttr) que se obtiene multiplicando la tarifa mínima (Tm) por el factor regional (Fr), así:
@@ -32383,8 +30138,6 @@ PARÁGRAFO TRANSITORIO. Mientras se mantenga la declaratoria de la emergencia sa
 
 (Parágrafo transitorio Adicionado por el Art. 6 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.9.7.4.2 — Tarifa mínima de la tasa retributiva (Tm)
 
 EI Ministerio de Ambiente y Desarrollo Sostenible establecerá anualmente mediante resolución, el valor de la tarifa mínima de la tasa retributiva para los parámetros sobre los cuales se cobrará dicha tasa, basado en los costos directos de remoción de los elementos, sustancia o parámetros contaminantes presentes en los vertimientos líquidos, los cuales forman parte de los costos de recuperación del recurso afectado.
@@ -32392,8 +30145,6 @@ EI Ministerio de Ambiente y Desarrollo Sostenible establecerá anualmente median
 PARÁGRAFO . Las tarifas mínimas de los parámetros objeto de cobro establecidas en la Resolución número 273 de 1997 actualizada por la Resolución número 372 de 1998, continuarán vigentes hasta tanto el Ministerio de Ambiente y Desarrollo Sostenible las adicione, modifique o sustituya.
 
 (Decreto 2667 de 2012, art.15)
-
-ARTÍCULO
 
 ## art:2.2.9.7.4.3 — Factor Regional (Fr)
 
@@ -32418,8 +30169,6 @@ Cc = Total de carga contaminante vertida por los sujetos pasivos de la tasa retr
 Cm = Meta global de carga contaminante para el cuerpo de agua o tramo del mismo expresada en Kg/año.
 
 (Decreto 2667de 2012, art.16)
-
-ARTÍCULO
 
 ## art:2.2.9.7.4.4 — Valor, aplicación y ajuste del factor regional
 
@@ -32461,8 +30210,6 @@ SECCIÓN 5.
 
 SOBRE EL MONTO Y RECAUDO DE LAS TASAS RETRIBUTIVAS
 
-ARTÍCULO
-
 ## art:2.2.9.7.5.1 — Cálculo del monto a cobrar por concepto de tasa retributiva
 
 La autoridad ambiental competente cobrará la tarifa de la tasa retributiva evaluando anualmente a partir de finalizado el primer año, el cumplimiento de la meta global del cuerpo de agua o tramo del mismo, así como las metas individuales y grupales, de acuerdo con lo establecido en el artículo 2.2.9.7.4.4 del presente capítulo.
@@ -32499,8 +30246,6 @@ Frai: Factor regional del parámetro i para el año anterior.
 
 (Decreto 2667 de 2012, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.9.7.5.2 — Elementos, sustancias o parámetros contaminantes objeto del cobro de tasas retributivas
 
 El Ministerio de Ambiente y Desarrollo Sostenible establecerá los elementos, sustancias o parámetros contaminantes que serán objeto del cobro de la tasa retributiva por vertimientos y la unidad de medida de las mismas.
@@ -32508,8 +30253,6 @@ El Ministerio de Ambiente y Desarrollo Sostenible establecerá los elementos, su
 Cuando el usuario vierte a una red de alcantarillado, la autoridad ambiental competente cobrará la tasa, para los elementos, sustancias o parámetros contaminantes objeto de cobro, únicamente a la entidad que presta el servicio de alcantarillado.
 
 (Decreto 2667 de 2012, art.19)
-
-ARTÍCULO
 
 ## art:2.2.9.7.5.3 — Destinación del recaudo
 
@@ -32520,8 +30263,6 @@ Para cubrir los gastos de implementación y seguimiento de la tasa, la autoridad
 Para lo anterior, las autoridades ambientales competentes deberán realizar las distribuciones en sus presupuestos de ingresos y gastos a las que haya lugar para garantizar la destinación específica de la tasa.
 
 (Decreto 2667 de 2012, art.20)
-
-ARTÍCULO
 
 ## art:2.2.9.7.5.4 — Información para el cálculo del monto a cobrar
 
@@ -32535,15 +30276,11 @@ PARÁGRAFO . En los casos en que se presenten diferencias sobre la información 
 
 (Decreto 2667 de 2012, art.21)
 
-ARTÍCULO
-
 ## art:2.2.9.7.5.5 — Monitoreo de vertimientos
 
 La caracterización se realizará de acuerdo con lo establecido en la Guía para el Monitoreo de Vertimientos, Aguas Superficiales y Subterráneas del Ideam y aplicando lo dispuesto en el parágrafo 2 del artículo 2.2.3.3.5.2 del presente decreto, o aquel que lo adicione, modifique o sustituya.
 
 (Decreto 2667 de 2012, art.22)
-
-ARTÍCULO
 
 ## art:2.2.9.7.5.6 — Verificación de las autodeclaraciones de los usuarios
 
@@ -32552,8 +30289,6 @@ En ejercicio de la función de seguimiento, la autoridad ambiental competente, p
 Cuando el usuario impida la práctica de la visita a fin de verificar la información suministrada por este, la autoridad ambiental competente podrá iniciar la investigación administrativa de carácter ambiental sancionatorio a que haya lugar. Obtenidos los resultados del proceso de verificación, en caso que estos difieran de la información suministrada en las autodeclaraciones presentadas por el usuario, la autoridad ambiental competente procederá a hacer los ajustes del caso y a efectuar la reliquidación correspondiente.
 
 (Decreto 2667 de 2012, art.23)
-
-ARTÍCULO
 
 ## art:2.2.9.7.5.7 — Forma de Cobro
 
@@ -32575,8 +30310,6 @@ Las Autoridades Ambientales Competentes deberán informar a sus usuarios por los
 
 (Parágrafo Transitorio adicionado por el Art. 8 del Decreto 465 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.9.7.5.8 — Período de cancelación
 
 Las facturas de cobro de las tasas retributivas se deberán cancelar dentro de un plazo mínimo de veinte (20) días y máximo de treinta (30) días, contados a partir de la fecha de expedición de la misma. Cumplido este término, las autoridades ambientales competentes podrán cobrar los créditos exigibles a su favor a través de la jurisdicción coactiva.
@@ -32586,8 +30319,6 @@ Las facturas de cobro de las tasas retributivas se deberán cancelar dentro de u
 SECCIÓN 6.
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.9.7.6.1 — Reporte de información
 
@@ -32601,8 +30332,6 @@ La información a reportar corresponderá al período comprendido entre el 1 de 
 
 (Decreto 2667 de 2012, art.26)
 
-ARTÍCULO
-
 ## art:2.2.9.7.6.2 — Monitoreo del recurso hídrico
 
 Las autoridades ambientales competentes deberán realizar Programas de Monitoreo de las fuentes hídricas en por lo menos, los siguientes parámetros de calidad: Temperatura ambiente y del agua in situ, 0805, SST, 000, Oxígeno Disuelto, Coliformes
@@ -32615,19 +30344,13 @@ SECCIÓN 7
 
 AJUSTE A LA TASA RETRIBUTIVA
 
-ARTÍCULO
-
 ## art:2.2.9.7.7.1 — Objeto
 
 Reglamentar las condiciones bajo las cuales las autoridades ambientales verificaran los motivos que dieron lugar al incumplimiento de las obras incluidas en el Plan de Saneamiento y Manejo de Vertimientos -PSMV, por razones no imputables a los prestadores del servicio público de alcantarillado, y que dan lugar a ajustar el cálculo de factor regional de la tasa retributiva.
 
-ARTÍCULO
-
 ## art:2.2.9.7.7.2 — Ámbito de Aplicación
 
 El presente decreto aplica a las autoridades ambientales y a los prestadores del servicio público de alcantarillado.
-
-ARTÍCULO
 
 ## art:2.2.9.7.7.3 — 7.3
 
@@ -32639,15 +30362,11 @@ Causales de no imputabilidad por incumplimiento de las obras incluidas en el Pla
 
 PARÁGRAFO : Para todos los efectos del presente decreto el prestador no podrá alegar el hecho de la víctima como causal de no imputabilidad.
 
-ARTÍCULO
-
 ## art:2.2.9.7.7.4 — Solicitud
 
 Para la verificación de los motivos, el prestador del servicio público de alcantarillado podrá presentar ante la autoridad ambiental, durante el periodo objeto de cobro anual de la tasa retributiva y hasta treinta (30) días calendario después, la solicitud que incluya los motivos que dieron lugar al retraso en las obras incluidas en el Plan de Saneamiento y Manejo de Vertimientos - PSMV y ajuste del correspondiente factor regional.
 
 En la solicitud, el prestador del servicio público de alcantarillado deberá presentar los documentos y demás elementos de juicio que la respalden.
-
-ARTÍCULO
 
 ## art:2.2.9.7.7.5 — Trámite de la solicitud para la verificación y ajuste del cálculo del factor regional de la tasa retributiva
 
@@ -32660,8 +30379,6 @@ La autoridad ambiental efectuará la facturación respectiva en los términos de
 PARÁGRAFO 1. La autoridad ambiental aplicará el ajuste del factor regional a uno (1,00) a los hechos declarados no imputables durante el periodo objeto de cobro anual de la tasa retributiva, incluyendo el periodo completo del año 2016.
 
 PARÁGRAFO 2. El ajuste del factor regional establecido en el presente decreto aplicará a las obligaciones no consolidadas posteriores a la entrada en vigencia del artículo 228 de la Ley 1753 de 2015.
-
-ARTÍCULO
 
 ## art:2.2.9.7.7.6 — Presentación del Plan de Saneamiento y Manejo de Vertimientos - PSMV ajustado
 
@@ -32685,8 +30402,6 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.1 — Objeto
 
 El presente decreto tiene por objeto reglamentar el incentivo de pago por servicios ambientales, de conformidad con lo establecido en el Decreto Ley 870 de 2017.
@@ -32695,15 +30410,11 @@ Igualmente, se implementa lo referente a pago por servicios ambientales y la adq
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.2 — Ámbito de aplicación
 
 El presente capítulo aplica a las autoridades ambientales, entidades territoriales y demás personas públicas o privadas, que promuevan, diseñen o implementen proyectos de pago por servicios ambientales financiados o cofinanciados con recursos públicos y privados, o que adelanten procesos de adquisición y mantenimiento de predios de acuerdo a las normas señaladas en el artículo anterior.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.1.3 — Cumplimiento de obligaciones ambientales mediante el pago por servicios ambientales
 
@@ -32713,15 +30424,11 @@ Corresponde a la autoridad ambiental competente realizar la evaluación y el seg
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.4 — Pago por Servicios Ambientales
 
 En concordancia con lo establecido en el Decreto Ley 870 de 2017, el pago por servicios ambientales constituye el incentivo económico en dinero o en especie que reconocen los - interesados de los servicios ambientales a los propietarios, poseedores u ocupantes de buena fe exenta de culpa por las acciones de preservación y restauración en áreas y ecosistemas estratégicos, mediante la celebración de acuerdos voluntarios entre los interesados de los servicios ambientales y beneficiarios del incentivo.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.1.5 — Beneficiarios del incentivo
 
@@ -32743,8 +30450,6 @@ SECCIÓN 2
 
 DIRECTRICES PARA EL DISEÑO DE PROYECTOS DE PAGO POR SERVICIOS AMBIENTALES
 
-ARTÍCULO
-
 ## art:2.2.9.8.2.1 — Focalización de áreas y ecosistemas estratégicos
 
 Los proyectos de pago por servicios ambientales se focalizarán en las áreas y ecosistemas estratégicos identificados en el Registro único de Ecosistemas y Áreas Ambientales - REAA o en el Registro Único Nacional de Áreas Protegidas - RUNAP, sin perjuicio de poder implementar el incentivo en cualquier parte del territorio nacional. En estas áreas y ecosistemas estratégicos, para efectos de la aplicación del incentivo se atenderán de manera predominante aquellas que cumplan una de las siguientes condiciones:
@@ -32756,8 +30461,6 @@ b) Áreas o ecosistemas estratégicos degradados y en conflicto del uso del suel
 PARÁGRAFO . Cuando las personas públicas o privadas pretendan implementar el incentivo en áreas del territorio nacional que no se encuentren incluidas en los mencionados registros, deberán acudir a la autoridad ambiental que tiene en su jurisdicción el área o ecosistema, para determinar su viabilidad e incorporación en los mismos de acuerdo a lo que establezcan las reglamentaciones para tal fin.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.2.2 — Modalidades de pago por servicios ambientales
 
@@ -32779,8 +30482,6 @@ d) Pago por servicios ambientales culturales, espirituales y de recreación: Cor
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.2.3 — Selección y priorización de predios
 
 Las personas públicas o privadas que diseñen e implementen proyectos de pago por servicios ambientales, en las modalidades descritas en el artículo anterior, seleccionarán, dentro de las áreas y ecosistemas estratégicos referidos en el artículo 2.2.9.8.2.1, prioritariamente los predios o parte de su área que contengan una o más de las siguientes características:
@@ -32794,8 +30495,6 @@ c) En los que concurran varios servicios ambientales como una expresión de riqu
 Igualmente, en la selección de los predios se tendrán en cuenta las características y servicios ambientales propios de cada modalidad de pago por servicios ambientales. Para esta actividad recibirán el apoyo técnico de las autoridades ambientales competentes cuando así lo requieran.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.2.4 — Acciones a reconocer con el pago por servicios ambientales
 
@@ -32814,8 +30513,6 @@ PARÁGRAFO 2. Los predios en proyectos de pago por servicios ambientales serán 
 PARÁGRAFO 3. En los proyectos de pago por servicios ambientales asociados a acciones de restauración priorizará el uso especies nativas, de acuerdo a las especificidades en el territorio, para la cual las autoridades ambientales competentes darán el apoyo técnico requerido.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.2.5 — Estimación del valor del incentivo de Pago por Servicios Ambientales
 
@@ -32841,8 +30538,6 @@ PARÁGRAFO 4. Un proyecto de pago por servicios ambientales podrá incluir difer
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.2.6 — Identificación de fuentes financieras y mecanismos para el manejo de recursos
 
 Se tendrán en cuenta las fuentes señaladas en los artículos 17 y 18 del Decreto Ley 870 de 2017 que, en lo que respecta a los recursos habilitados en la ley, están los artículos 108 de la Ley 99 de 1993, modificado por el artículo 174 de la Ley 1753 de 2015, y 111 de la Ley 99 de 1993 modificado por el artículo 210 de la ley 1450 de 2011.
@@ -32850,8 +30545,6 @@ Se tendrán en cuenta las fuentes señaladas en los artículos 17 y 18 del Decre
 Las personas públicas o privadas que implementen proyectos de pago por servicios ambientales establecerán los mecanismos financieros y operativos, plataformas tecnológicas y soporte de las instituciones financieras del país para que, de acuerdo a las particularidades de cada proyecto y región, se facilite la articulación de recursos provenientes de las diferentes fuentes de financiación y se desarrolle el proyecto de la maneras más idónea, eficiente y transparente para el suministro de los recursos por parte de los pagadores y la recepción de los mismos por parte de los beneficiarios del incentivo.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.2.7 — Inversión de recursos en áreas y ecosistemas estratégicos localizados fuera de la jurisdicción
 
@@ -32864,8 +30557,6 @@ Estas entidades adelantarán las inversiones preferiblemente en coordinación y 
 SECCIÓN 3
 
 DIRECTRICES PARA LA IMPLEMENTACIÓN, MONITOREO Y SEGUIMIENTO DE PROYECTOS DE PAGO POR SERVICIOS AMBIENTALES
-
-ARTÍCULO
 
 ## art:2.2.9.8.3.1 — Formalización de acuerdos
 
@@ -32890,8 +30581,6 @@ PARÁGRAFO 1. El valor del incentivo acordado, sea en dinero o en especie, se so
 PARÁGRAFO 2. Quienes implementen los proyectos deberán efectuar el seguimiento al cumplimiento de las obligaciones estipuladas. En todo caso, previo al pago del incentivo, se verificará el uso acordado del suelo en los predios objeto del incentivo.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.3.2 — Registro de los proyectos
 
@@ -32933,8 +30622,6 @@ Autoridad ambiental de la jurisdicción en donde está ubicado el área o ecosis
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.3.3 — Reportes de información de seguimiento
 
 Las personas públicas y privados que implementan proyectos de pagos por servicios ambientales deberán presentar ante la autoridad ambiental competente, información de los proyectos en diseño o implementados con corte al 31 de diciembre de cada año.
@@ -32949,8 +30636,6 @@ PARÁGRAFO . La Resolución 1781 de 2014 que trata sobre la información que deb
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.3.4 — 3.4
 
 El Ministerio de Ambiente y Desarrollo Sostenible, como parte de las funciones asignadas por el Decreto Ley 870 de 2017, y con el apoyo de las autoridades ambientales competentes, efectuará el monitoreo y seguimiento al Programa Nacional de Pago por Servicios Ambiental - PN PSA, para lo cual es fundamental los registros e información desarrollados con esta reglamentación y demás sistemas de información pertinentes.
@@ -32963,8 +30648,6 @@ Igualmente, estas personas, durante el desarrollo de los proyectos, facilitarán
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.3.5 — Gastos asociados a los pagos por servicios ambientales y a la adquisición de predios
 
 Se podrán atender los gastos directamente asociados al pago por servicios ambientales y la adquisición de predios, relacionados con el monitoreo y seguimiento, estudios de títulos, levantamientos topográficos, avalúos comerciales y gastos notariales y de registro. Para el caso de los predios adquiridos también podrá incluirse la custodia y administración de los mismos.
@@ -32974,8 +30657,6 @@ Se podrán atender los gastos directamente asociados al pago por servicios ambie
 SECCIÓN 4
 
 INVERSIONES DE QUE TRATAN LOS ARTÍCULOS 108 Y 111 DE LEY 99 DE 1993, MODIFICADOS POR LOS ARTÍCULOS 174 DE LA LEY 1753 DE 2015 Y 210 DE LA 1450 DE 2011, RESPECTIVAMENTE
-
-ARTÍCULO
 
 ## art:2.2.9.8.4.1 — Inversiones para el pago por servicios ambientales y la adquisición y mantenimiento de predios
 
@@ -32987,8 +30668,6 @@ PARÁGRAFO . Los municipios, distritos y departamentos incorporarán los ingreso
 
 (Decreto 1007 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8.4.2 — Adquisición y mantenimiento de predios
 
 El procedimiento para la adquisición de predios se regirá por lo establecido en la Ley 388 de 1997 o la norma que lo modifique, adicione, sustituya o complemente.
@@ -32998,8 +30677,6 @@ La adquisición de predios por parte de los proyectos de construcción y operaci
 El mantenimiento de predios se refiere a aquellas actividades directamente desarrolladas en los predios adquiridos por las entidades territoriales para la preservación y restauración de los ecosistemas presentes en los mismos, para lo cual la autoridad ambiental competente dará el apoyo técnico requerido por la entidad territorial.
 
 (Decreto 1007 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.8.4.3 — Transición
 
@@ -33047,7 +30724,7 @@ Es el incentivo económico, en dinero o en especie, que reconocen los interesado
 
 PARÁGRAFO. Sin perjuicio de lo anterior, las víctimas también podrán realizar las acciones de preservación y/o restauración de que trata el presente artículo, en cuyo caso, se podrá reconocer el costo de dichas acciones, de conformidad con lo establecido en el artículo 224 de la Ley 2294 de 2023.
 
-## art:2.2.9.8.5 — 7. Estimación del valor del incentivo de Pago por Servicios Ambientales para la Paz
+## art:2.2.9.8.5.7 — Estimación del valor del incentivo de Pago por Servicios Ambientales para la Paz
 
 Para los Pagos por Servicios Ambientales para la Paz, adicional a lo establecido en el artículo 2.2.9.8.2.5. del presente Decreto o la norma que lo modifique o sustituya, se podrá reconocer el costo de las acciones de preservación y/o restauración como parte del valor del incentivo, determinado con sujeción a lo señalado en el artículo 224 de la Ley 2294 de 2023 y los artículos 2.2.9.8.5.20. y 2.2.9.8.5.22. del presente Decreto.
 
@@ -33219,8 +30896,6 @@ CERTIFICADO DE INCENTIVO FORESTAL PARA CONSERVACIÓN
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.9.9.1.1 — Contenido
 
 El presente capítulo reglamenta el incentivo
@@ -33228,8 +30903,6 @@ El presente capítulo reglamenta el incentivo
 forestal con fines de conservación establecido en la Ley 139 de 1994 y el parágrafo del artículo 250 de la Ley 223 de 1995, para aquellas áreas donde existan ecosistemas naturales boscosos, poco o nada intervenidos.
 
 (Decreto 900 de 1997, art.1)
-
-ARTÍCULO
 
 ## art:2.2.9.9.1.2 — Definiciones
 
@@ -33244,8 +30917,6 @@ Ecosistema natural boscoso: Concepto que comprende un sistema ecológico poco o 
 SECCIÓN 2
 
 APLICACIÓN DEL CERTIFICADO DE INCENTIVO FORESTAL CIF PARA CONSERVACIÓN.
-
-ARTÍCULO
 
 ## art:2.2.9.9.2.1 — Áreas objeto del incentivo
 
@@ -33264,8 +30935,6 @@ No se otorgará el incentivo en áreas de propiedad de la nación, ni en aquella
 La autoridad ambiental competente deberá informar a Parques Nacionales Naturales de Colombia acerca del otorgamiento del CIF de conservación en áreas que integren el sistema de parques nacionales.
 
 (Decreto 900 de 1997, art.3)
-
-ARTÍCULO
 
 ## art:2.2.9.9.2.2 — Requisitos y procedimiento para el otorgamiento del CIF de conservación
 
@@ -33307,15 +30976,11 @@ PARÁGRAFO 2. El CIF de conservación se otorgará sin perjuicio de lo dispuesto
 
 (Decreto 900 de 1997, art.4)
 
-ARTÍCULO
-
 ## art:2.2.9.9.2.3 — Actividades y usos permitidos
 
 Se permitirá el desarrollo de las siguientes actividades en el bosque objeto del incentivo: investigación básica y/o aplicada, educación ambiental, recreación pasiva capacitación técnica y profesional en disciplinas relacionadas con medio ambiente y aprovechamiento doméstico del bosque, siempre y cuando no impliquen una alteración significativa del recurso.
 
 (Decreto 900 de 1997, art.5)
-
-ARTÍCULO
 
 ## art:2.2.9.9.2.4 — Seguimiento
 
@@ -33327,8 +30992,6 @@ SECCIÓN 3.
 
 CÁLCULO DEL VALOR DEL INCENTIVO
 
-ARTÍCULO
-
 ## art:2.2.9.9.3.1 — Valor base del certificado de incentivo forestal de conservación
 
 El valor base del certificado de incentivo forestal de conservación será de 7 salarios mínimos mensuales vigentes por hectárea de bosque y podrá ser ajustado por la autoridad ambiental competente, de acuerdo con los factores establecidos en el artículo 2.2.9.9.3.5 del presente capítulo, para obtener el valor total del incentivo.
@@ -33339,8 +31002,6 @@ En ningún caso el área total objeto del incentivo podrá superar el máximo pr
 
 (Decreto 900 de 1997, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.9.9.3.2 — Valor diferencial del certificado
 
 Se otorgará hasta el
@@ -33349,23 +31010,17 @@ Se otorgará hasta el
 
 (Decreto 900 de 1997, art.8)
 
-ARTÍCULO
-
 ## art:2.2.9.9.3.3 — Vigencia del certificado de incentivo forestal de conservación
 
 El CIF de conservación tendrá una vigencia de hasta diez (10) años.
 
 (Decreto 900 de 1997, art.9)
 
-ARTÍCULO
-
 ## art:2.2.9.9.3.4 — Forma de pago del certificado de incentivo forestal de conservación
 
 El valor total del incentivo se pagará hasta en diez (10) cuotas anuales, con base en el salario mínimo mensual vigente para el año del pago.
 
 (Decreto 900 de 1997, art.10)
-
-ARTÍCULO
 
 ## art:2.2.9.9.3.5 — Ajuste del valor base teniendo en cuenta las condiciones regionales
 
@@ -33441,23 +31096,17 @@ Más de 30 Has
 
 (Decreto 900 de 1997, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.9.9.3.6 — Póliza de cumplimiento
 
 El beneficiario constituirá una póliza anual de cumplimiento, equivalente al 10% del valor del incentivo, como garantía de conservación del ecosistema objeto del incentivo forestal, la cual será renovable cada año por todo el tiempo de duración del CIF de conservación, a favor de la autoridad ambiental competente. Sin perjuicio de lo dispuesto en el literal b) del numeral 6 del artículo 2.2.9.9.2.2 del presente capítulo, dicha póliza se hará efectiva en caso de incumplimiento de las obligaciones establecidas, la tala del bosque respectivo, o de presentación de información falsa para la obtención del incentivo.
 
 (Decreto 900 de 1997, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.9.9.3.7 — Distribución de incentivos
 
 El Conpes anualmente fijará la distribución de los recursos disponibles para otorgar el CIF de conservación.
 
 (Decreto 900 de 1997, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.9.9.3.8 — Origen de los recursos
 
@@ -33473,8 +31122,6 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.9.10.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la tasa compensatoria de que trata el artículo 42 de la Ley 99 de 1993, por la caza de la fauna silvestre nativa.
@@ -33482,8 +31129,6 @@ El presente capítulo tiene por objeto reglamentar la tasa compensatoria de que 
 La fauna silvestre nativa comprende aquellas especies, subespecies taxonómicas, razas o variedades de animales silvestres cuya área natural de dispersión geográfica se extiende al territorio nacional o aguas jurisdiccionales, o forma parte de los mismos, incluidas las especies o subespecies que migran temporalmente a ellos, y que no se encuentran en el país como producto voluntario o involuntario de la actividad humana.
 
 PARÁGRAFO . Los recursos pesqueros a los que hace referencia la Ley 13 de 1990, o la que la modifique o sustituya, no son objeto del cobro de que trata el presente capítulo.
-
-ARTÍCULO
 
 ## art:2.2.9.10.1.2 — Ámbito de aplicación
 
@@ -33493,13 +31138,9 @@ La tasa compensatoria en materia de caza científica incluye (i) los permisos de
 
 Las autoridades ambientales competentes deben examinar en cada caso concreto, si las autorizaciones en materia de caza o recolecta que se otorguen en materia de fauna silvestre, son susceptibles de afectar de manera directa y específica a comunidades étnicas, caso en el cual, se impondrá la realización del deber de la consulta previa.
 
-ARTÍCULO
-
 ## art:2.2.9.10.1.3 — Sujeto Activo
 
 Son competentes para cobrar y recaudar la tasa compensatoria por caza de fauna silvestre reglamentada en el presente capítulo, las autoridades ambientales a que se refieren el numeral 13 del artículo 31 y el artículo 66 de la Ley 99 de 1993, el artículo 13 de la Ley 768 de 2002, el numeral 9 del artículo 2 del Decreto Ley 3572 de 2011 y el artículo 124 de la Ley 1617 de 2013.
-
-ARTÍCULO
 
 ## art:2.2.9.10.1.4 — Sujeto Pasivo
 
@@ -33515,13 +31156,9 @@ SECCIÓN 2
 
 Cálculo de la tarifa de la tasa compensatoria por caza de fauna silvestre
 
-ARTÍCULO
-
 ## art:2.2.9.10.2.1 — 2.1
 
 De conformidad con el sistema y el método definidos por el artículo 42 de la Ley 99 de 1993, el cálculo de la tasa compensatoria por caza de fauna silvestre se desarrolla en las Secciones 3 y 4 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.9.10.2.2 — Tarifa de la tasa compensatoria por caza de fauna silvestre
 
@@ -33537,13 +31174,9 @@ FRi: es el factor regional determinado para cada especie í de conformidad con l
 
 PARÁGRAFO . Para efectos del presente capítulo, un espécimen de la fauna silvestre es todo animal silvestre vivo o muerto, o cualquiera de sus productos, partes o derivados; y la muestra es la unidad de recolección o de caza de organismos solitarios o coloniales, que por su pequeño tamaño corporal (microscópico o con longitud corporal máxima de 3 cm, aproximadamente) y por la naturaleza del método de captura (no selectivo), no se considera el número de individuos a recolectar o cazar, por lo que solo aplica a ciertas especies de invertebrados.
 
-ARTÍCULO
-
 ## art:2.2.9.10.2.3 — Tarifa mínima
 
 Teniendo en cuenta los costos de recuperación del recurso fauna silvestre como base para el cálculo de su depreciación, de acuerdo con las pautas y reglas establecidas por el artículo 42 de la Ley 99 de 1993, el Ministerio de Ambiente y Desarrollo Sostenible expedirá la resolución mediante la cual fijará la tarifa mínima base de la tasa compensatoria por caza de fauna silvestre, la cual se ajustará anualmente.
-
-ARTÍCULO
 
 ## art:2.2.9.10.2.4 — Factor regional
 
@@ -33567,8 +31200,6 @@ V: corresponde al Coeficiente de valoración, y toma valores entre 0,01 y 20 de 
 
 En los siguientes artículos se describen el Coeficiente biótico (Cb), el Grupo trófico (Gt) y el Coeficiente de valoración (V).
 
-ARTÍCULO
-
 ## art:2.2.9.10.2.5 — Coeficiente biótico
 
 Es el factor que integra tres elementos correspondientes a: estado de conservación de la especie, su presión por uso y el estado de conservación del hábitat de la población objeto de caza. Se determina con base en las categorías establecidas en el numeral 1 del anexo del presente capítulo, y de conformidad con lo siguiente:
@@ -33583,15 +31214,11 @@ PARÁGRAFO 1. Para el caso de los permisos de recolección con fines de investig
 
 PARÁGRAFO 2. Para el caso en que no se cuente con la información sobre el lugar de procedencia de la(s) especie(s) en el respectivo proceso sancionatorio ambiental, la variable "Estado de conservación del hábitat" tomará el valor de "Pobremente conservado".
 
-ARTÍCULO
-
 ## art:2.2.9.10.2.6 — Grupo trófico
 
 Esta variable hace referencia a la posición que un organismo de una especie ocupa en la red alimenticia, la cual está relacionada con la dieta o tipo de alimento que consume, y considera si este es invertebrado o vertebrado. El valor del Grupo trófico (Gt) se determina a partir de las categorías establecidas en el numeral 3 del anexo del presente capítulo.
 
 PARÁGRAFO . Para el caso de los permisos de recolección con fines de investigación científica no comercial y los permisos de estudio con fines de elaboración de estudios ambientales, se utilizará para el Grupo trófico (Gt) un valor de 0,15 para los invertebrados y 0,8 para los vertebrados.
-
-ARTÍCULO
 
 ## art:2.2.9.10.2.7 — Coeficiente de valoración
 
@@ -33613,8 +31240,6 @@ SECCION 3
 
 Cálculo del monto de la tasa compensatoria
 
-ARTÍCULO
-
 ## art:2.2.9.10.3.1 — Cálculo del monto a pagar
 
 El monto a pagar por cada usuario dependerá de la tarifa de la tasa compensatoria para cada especie de fauna silvestre objeto de cobro, el número de especímenes y/o muestras, y el costo de implementación, en aplicación de las pautas y reglas definidas en el artículo 42 de la Ley 99 de 1993, y que se expresa así:
@@ -33635,13 +31260,9 @@ EsÂ¡: Número de especímenes y/o muestras de la especie i de fauna silvestre 
 
 n: Total de especies de fauna silvestre objeto de cobro.
 
-ARTÍCULO
-
 ## art:2.2.9.10.3.2 — Costo de implementación
 
 El costo de implementación (CI) se determina teniendo en cuenta los costos mínimos estimados para la implementación de la tasa compensatoria por caza de fauna silvestre, como parte de los costos de recuperación del recurso. Este valor corresponde a $26.000, el cual se ajustará anualmente con el Índice de Precios al Consumidor I.P.C., determinado por el Departamento Administrativo Nacional de Estadística - DANE.
-
-ARTÍCULO
 
 ## art:2.2.9.10.3.3 — Información sobre el número de especímenes y/o muestras base para el cobro
 
@@ -33665,8 +31286,6 @@ SECCION 4
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.9.10.4.1 — Forma de Cobro y Recaudo
 
 La tasa compensatoria será cobrada y recaudada por la autoridad ambiental competente de la siguiente manera:
@@ -33681,8 +31300,6 @@ La tasa compensatoria será cobrada y recaudada por la autoridad ambiental compe
 
 PARÁGRAFO . En los casos en que la Autoridad Nacional de Licencias Ambientales - ANLA y el Ministerio de Ambiente y Desarrollo Sostenible, o quienes hagan sus veces, sean los competentes para otorgar el permiso o licencia para la caza, estos deberán remitir a las autoridades ambientales competentes para el cobro, la información relativa al permiso o licencia, conforme lo establecido en el artículo 2.2.9.10.3.3.
 
-ARTÍCULO
-
 ## art:2.2.9.10.4.2 — Destinación del recaudo
 
 Los recaudos de la tasa compensatoria por caza de fauna silvestre se destinarán a la protección y renovación del recurso fauna silvestre, lo cual comprende actividades tales como la formulación e implementación de planes y programas de conservación y de uso sostenible de especies animales silvestres, la repoblación, el control poblacional, estrategias para el control al tráfico ilegal, la restauración de áreas de importancia faunística, entre otras, así como el monitoreo y la elaboración de estudios de investigación básica y aplicada, estas últimas prioritarias para efectos de la inversión de la tasa, teniendo en cuenta las directrices del Ministerio de Ambiente y Desarrollo Sostenible.
@@ -33691,8 +31308,6 @@ Para cubrir los gastos de implementación y seguimiento de la tasa, la autoridad
 
 Las autoridades ambientales competentes deberán realizar las distribuciones en sus presupuestos de ingresos y gastos a las que haya lugar para garantizar la destinación específica de la tasa.
 
-ARTÍCULO
-
 ## art:2.2.9.10.4.3 — Reporte de información
 
 Las autoridades ambientales competentes reportarán al Ministerio de Ambiente y Desarrollo Sostenible la información relacionada con la aplicación de la tasa compensatoria por caza de fauna silvestre, de conformidad con la reglamentación que para tal fin expedirá este Ministerio.
@@ -33700,8 +31315,6 @@ Las autoridades ambientales competentes reportarán al Ministerio de Ambiente y 
 Este reporte deberá ser remitido anualmente con la información correspondiente al período comprendido entre el 1 de enero al 31 de diciembre del año inmediatamente anterior, a más tardar el 30 de abril de cada año.
 
 PARÁGRAFO . La autoridad ambiental competente deberá anualmente hacer pública la información referente a las inversiones anuales realizadas con los recursos recaudados por la tasa compensatoria por caza de fauna silvestre en la página web de la entidad y en cualquier otro medio de comunicación masiva.
-
-ARTÍCULO
 
 ## art:2.2.9.10.4.4 — Continuidad de las actuaciones
 
@@ -33717,13 +31330,9 @@ SECCIÓN 1
 
 Objeto y ámbito de aplicación
 
-ARTÍCULO
-
 ## art:2.2.9.11.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la tasa compensatoria de que trata el artículo 42 de la Ley 99 de 1993, por la utilización permanente de la Reserva Forestal Protectora Bosque Oriental de Bogotá, de predios con edificaciones ubicados en la Zona de Recuperación Ambiental definida en la Resolución 463 de 2005, expedida por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, he, Ministerio de Ambiente y Desarrollo Sostenible, o la categoría de zonificación que haga sus veces.
-
-ARTÍCULO
 
 ## art:2.2.9.11.1.2 — Ámbito de aplicación
 
@@ -33731,13 +31340,9 @@ El presente capítulo aplica a la autoridad ambiental que se refiere el artícul
 
 PARÁGRAFO . Para todos los efectos, el presente capítulo se aplicará sobre los predios con área alterada, con edificaciones existentes al 14 de abril de 2005, teniendo en cuenta lo dispuesto en la Resolución 463 de 2005, expedida por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, hoy Ministerio de Ambiente y Desarrollo Sostenible, en su artículo 3, numeral 4, literal e.
 
-ARTÍCULO
-
 ## art:2.2.9.11.1.3 — Sujeto activo
 
 Es competente para cobrar y recaudar la tasa compensatoria por la utilización permanente de la Reserva Forestal Protectora Bosque Oriental de Bogotá la Corporación Autónoma Regional de Cundinamarca, CAR, de conformidad con lo dispuesto el numeral 13, del artículo 31, de la Ley 99 de 1993.
-
-ARTÍCULO
 
 ## art:2.2.9.11.1.4 — Sujeto Pasivo
 
@@ -33746,8 +31351,6 @@ Están obligados al pago de la tasa compensatoria todos los propietarios, poseed
 SECCIÓN 2
 
 Definiciones de la tasa compensatoria
-
-ARTÍCULO
 
 ## art:2.2.9.11.2.1 — Definiciones
 
@@ -33761,13 +31364,9 @@ SECCIÓN 3
 
 Cálculo de la tarifa de la tasa compensatoria
 
-ARTÍCULO
-
 ## art:2.2.9.11.3.1 — 3.1
 
 De conformidad con el sistema y método definidos por el artículo 42 de la Ley 99 de 1993, el cálculo de la tasa compensatoria por la utilización permanente con predios localizados en la Zona de Recuperación Ambiental de la Reserva Forestal Protectora Bosque Oriental de Bogotá, se desarrolla en los artículos subsiguientes.
-
-ARTÍCULO
 
 ## art:2.2.9.11.3.2 — 3.2
 
@@ -33779,21 +31378,15 @@ Tm: Tarifa mínima: Es la tarifa de conformidad con lo establecido en el artícu
 
 : Factor diferencial socioeconómico: Coeficiente adimensional, de conformidad a lo establecido en el artículo 2.2.3.11.3.5.
 
-ARTÍCULO
-
 ## art:2.2.9.11.3.3 — 3.3
 
 Tarifa mínima (Tm): Teniendo en cuenta los costos de recuperación, sociales y ambientales, como base del cálculo de la depreciación de las coberturas arbóreas de la Reserva Forestal Protectora Bosque Oriental de Bogotá, de acuerdo con las pautas y reglas establecidas por el artículo 42 de la Ley 99 de 1993. La tarifa mínima representa los costos unitarios de las actividades necesarias para la rehabilitación ecológica, considerando los aspectos biofísicos de la Reserva Forestal Protectora Bosque Oriental de Bogotá.
 
 El Ministerio de Ambiente y Desarrollo Sostenible establecerá mediante resolución la Tarifa mínima (Tm) de la Tasa Compensatoria por la utilización permanente de la Reserva Forestal Protectora Bosque Oriental de Bogotá, la cual se ajustará anualmente.
 
-ARTÍCULO
-
 ## art:2.2.9.11.3.4 — 3.4
 
 Factor de perpetuidad (fp): Debido a que la utilización de la reserva es de forma permanente, el costo de rehabilitación ecológica, por metro cuadrado, se difiere a perpetuidad, por medio de la tasa social de descuento vigente para proyectos de inversión social en Colombia, doce por ciento (0.12), definida por el Departamento Nacional de Planeación, DNP.
-
-ARTÍCULO
 
 ## art:2.2.9.11.3.5 — 3.5
 
@@ -33837,8 +31430,6 @@ SECCIÓN 4
 
 Cálculo del monto de la tasa compensatoria
 
-ARTÍCULO
-
 ## art:2.2.9.11.4.1 — 4.1
 
 Cálculo del monto a pagar por la tasa compensatoria: El monto a pagar por los sujetos pasivos dependerá del área alterada (Aa) y la tarifa de la tasa compensatoria , en aplicación de las pautas y reglas definidas en el artículo 42 de la Ley 99 de 1993 y que se expresa así:
@@ -33857,8 +31448,6 @@ SECCIÓN 5
 
 Recaudo de la tasa compensatoria
 
-ARTÍCULO
-
 ## art:2.2.9.11.5.1 — 5.1
 
 Forma de Cobro y Recaudo: La tasa compensatoria deberá ser cobrada por la Corporación Autónoma Regional de Cundinamarca, CAR, así:
@@ -33870,8 +31459,6 @@ Forma de Cobro y Recaudo: La tasa compensatoria deberá ser cobrada por la Corpo
 3. Los usuarios tendrán derecho a presentar reclamaciones por escrito con relación al cobro de la tasa ante la Corporación Autónoma Regional de Cundinamarca, CAR, los cuales deberá hacerse dentro de los treinta (30) días calendario, siguientes a la fecha límite de pago establecido en el documento de cobro. Presentada la reclamación, la CAR deberá resolverla de conformidad con la normativa que regula el derecho de petición. Contra el acto administrativo que resuelva el reclamo, proceden los recursos previstos en la ley.
 
 4. La Corporación Autónoma Regional de Cundinamarca, CAR, deberá llevar la relación detallada de las solicitudes presentadas, del trámite y de las respuestas dadas a las reclamaciones.
-
-ARTÍCULO
 
 ## art:2.2.9.11.5.2 — 5.2
 
@@ -33885,8 +31472,6 @@ SECCIÓN 6
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.9.11.6.1 — 6.1
 
 Reporte de la información: La Corporación Autónoma Regional de Cundinamarca, CAR, reportará al Ministerio de Ambiente y Desarrollo Sostenible la información relacionada con la aplicación de la Tasa Compensatoria, de conformidad con los lineamientos que para tal fin expedirá dicho Ministerio.
@@ -33894,8 +31479,6 @@ Reporte de la información: La Corporación Autónoma Regional de Cundinamarca, 
 Este reporte deberá ser remitido anualmente con la información correspondiente al período comprendido entre el 1 de enero al 31 de diciembre del año inmediatamente anterior, a más tardar el 30 de marzo de cada año.
 
 El seguimiento de la información se realizará en el marco del seguimiento al Plan de Manejo de la Reserva Forestal Protectora Bosque Oriental de Bogotá elaborado por la Corporación Autónoma Regional de Cundinamarca, CAR y adoptado por el Ministerio de Ambiente y Desarrollo Sostenible.
-
-ARTÍCULO
 
 ## art:2.2.9.11.6.2 — 6.2
 
@@ -33913,15 +31496,11 @@ SECCIÓN 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.9.12.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la tasa compensatoria de que trata el artículo 42 de la Ley 99 de 1993, por el aprovechamiento forestal maderable en bosques naturales ubicados en terrenos de dominio público y privado.
 
 (Decreto 1390 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12.1.2 — Ámbito de aplicación
 
@@ -33931,15 +31510,11 @@ Las autoridades ambientales competentes deben examinar, en cada caso, si las sol
 
 (Decreto 1390 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.12.1.3 — Sujeto Activo
 
 Son competentes para cobrar y recaudar la Tasa Compensatoria por Aprovechamiento Forestal Maderable las autoridades ambientales a las que se refieren el artículo 31 y el artículo 66 de la Ley 99 de 1993, el artículo 13 de la Ley 768 de 2002, el numeral 9 del artículo 2 del Decreto Ley 3572 de 2011 y el artículo 124 de la Ley 1617 de 2013.
 
 (Decreto 1390 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12.1.4 — Sujeto Pasivo
 
@@ -33959,8 +31534,6 @@ SECCIÓN 2
 
 Cálculo de la tarifa de la Tasa Compensatoria por Aprovechamiento Forestal Maderable
 
-ARTÍCULO
-
 ## art:2.2.9.12.2.1 — Tarifa de la Tasa Compensatoria por Aprovechamiento Forestal Maderable (TAFM)
 
 La tarifa de la Tasa Compensatoria por Aprovechamiento Forestal Maderable para cada especie objeto de cobro, expresada en pesos por metro cúbico de madera en pie ($/m3), está compuesta por el producto de la tarifa mínima (TM) y el factor regional (FR), de acuerdo con la expresión:
@@ -33975,15 +31548,11 @@ i Es el Factor regional, determinado para cada especie Í6 de conformidad con lo
 
 (Decreto 1390 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.12.2.2 — Tarifa mínima (TM)
 
 Teniendo en cuenta los costos de recuperación del recurso forestal maderable, como base para el cálculo de su depreciación, de acuerdo con las pautas y reglas establecidas por el artículo 42 de la Ley 99 de 1993, el Ministerio de Ambiente y Desarrollo Sostenible expedirá la resolución mediante la cual fijará la tarifa mínima de la Tasa Compensatoria por Aprovechamiento Forestal Maderable, la cual se ajustará anualmente.
 
 (Decreto 1390 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12.2.3 — 2.3
 
@@ -34009,8 +31578,6 @@ CAA: Es el Coeficiente de Afectación Ambiental, adimensional, de acuerdo con lo
 
 (Decreto 1390 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.12.2.4 — Coeficiente de Uso de la Madera (CUM)
 
 Este coeficiente depende de la clase de aprovechamiento del recurso, así:
@@ -34034,8 +31601,6 @@ Doméstico
 1.25
 
 (Decreto 1390 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12.2.5 — Coeficiente de Disponibilidad Regional de Bosques (CDRB)
 
@@ -34067,8 +31632,6 @@ ATJ: Área Total de la jurisdicción de la autoridad ambiental respectiva, expre
 
 (Decreto 1390 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.12.2.6 — Coeficiente de Categoría de Especie (CCE)
 
 Este coeficiente permite clasificar y valorar las especies objeto de aprovechamiento forestal maderable, teniendo en cuenta sus características biofísicas, sus aspectos socioeconómicos y la presión antrópica ejercida sobre el recurso reflejada en el nivel de amenaza de cada especie. Los valores del Coeficiente se asignarán conforme a la categoría de cada especie, así:
@@ -34094,8 +31657,6 @@ PARÁGRAFO . La clasificación de las especies forestales maderables, en cada un
 Con base en dicha clasificación, el Ministerio de Ambiente y Desarrollo Sostenible podrá realizar los ajustes necesarios, en caso de que se requiera incorporar nuevas especies o que se cuente con nueva información técnica que exija la respectiva actualización de tabla.
 
 (Decreto 1390 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12.2.7 — Coeficiente de Afectación Ambiental (CAA)
 
@@ -34133,8 +31694,6 @@ SECCIÓN 3
 
 Cálculo del monto a pagar de la Tasa Compensatoria por Aprovechamiento Forestal Maderable
 
-ARTÍCULO
-
 ## art:2.2.9.12.3.1 — Cálculo del monto a pagar (MP)
 
 El monto a pagar por los sujetos pasivos dependerá de la tarifa de la Tasa Compensatoria por Aprovechamiento Forestal Maderable, para cada especie forestal maderable objeto de cobro y el volumen total otorgado en pie de estas. El monto a pagar se expresa en pesos y se determina mediante la siguiente expresión matemática:
@@ -34150,8 +31709,6 @@ i Volumen total otorgado en pie para la especie i objeto de cobro, expresado en 
 SECCIÓN 4
 
 Recaudo de la Tasa Compensatoria por Aprovechamiento Forestal Maderable
-
-ARTÍCULO
 
 ## art:2.2.9.12.4.1 — Forma de cobro y recaudo
 
@@ -34169,8 +31726,6 @@ PARÁGRAFO . En los casos en que la Autoridad Nacional de Licencias Ambientales 
 
 (Decreto 1390 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.12.4.2 — Destinación del recaudo
 
 Los recaudos de la Tasa Compensatoria por Aprovechamiento Forestal Maderable se destinarán a la protección y renovación de los bosques, de conformidad con los planes y programas forestales.
@@ -34185,8 +31740,6 @@ SECCIÓN 5
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.9.12.5.1 — Repone de información
 
 Las autoridades ambientales competentes reportarán al Ministerio de Ambiente y Desarrollo Sostenible y al Sistema Nacional de Información Forestal -SNIF, la información relacionada con la aplicación de la Tasa Compensatoria por Aprovechamiento Forestal Maderable, de conformidad con la reglamentación que para tal fin expedirá este Ministerio.
@@ -34196,8 +31749,6 @@ Este reporte deberá ser remitido anualmente con la información correspondiente
 PARÁGRAFO . La autoridad ambiental competente deberá hacer pública anualmente la información referente a las inversiones anuales realizadas con los recursos recaudados por la Tasa Compensatoria por Aprovechamiento Forestal Maderable en la página web de la entidad y en cualquier otro medio de comunicación masiva.
 
 (Decreto 1390 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12.5.2 — Continuidad de las actuaciones
 
@@ -34475,15 +32026,11 @@ SECCIÓN 1.
 
 IMPOSICIÓN DE SANCIONES
 
-ARTÍCULO
-
 ## art:2.2.10.1.1.1 — Objeto y ámbito de aplicación
 
 El presente decreto tiene por objeto señalar los criterios generales que deberán tener en cuenta las autoridades ambientales para la imposición de las sanciones consagradas en el artículo 40 de la Ley 1333 del 21 de julio de 2009.
 
 (Decreto 3678 de 2010, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.10.1.1.2 — Tipos de sanción
 
@@ -34513,8 +32060,6 @@ PARÁGRAFO 3. En cada proceso sancionatorio, la autoridad ambiental competente, 
 
 (Decreto 3678 de 2010, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.10.1.1.3 — Motivación del proceso de individualización de la sanción
 
 Todo acto administrativo que imponga una sanción deberá tener como fundamento el informe técnico en el que se determinen claramente los motivos de tiempo, modo y lugar que darán lugar a la sanción, detallando los grados de afectación ambiental, las circunstancias agravantes y/o atenuantes y la capacidad socioeconómica del infractor, de forma que pueda determinarse la debida aplicación de los criterios a que se refiere el presente reglamento.
@@ -34526,8 +32071,6 @@ Así mismo y en el evento en que la infracción haya generado daño ambiental, e
 SECCIÓN 2.
 
 CRITERIOS
-
-ARTÍCULO
 
 ## art:2.2.10.1.2.1 — Multas
 
@@ -34567,8 +32110,6 @@ Capacidad socioeconómica del infractor: Es el conjunto de cualidades y condicio
 
 (Decreto 3678 de 2010, art. 4
 
-ARTÍCULO
-
 ## art:2.2.10.1.2.2 — Cierre temporal o definitivo del establecimiento, edificación o servicio
 
 El cierre temporal del establecimiento, edificación o servicio se impondrá como sanción por parte de las autoridades ambientales por la existencia de hechos o conductas contrarias a las disposiciones ambientales, de acuerdo con los siguientes criterios:
@@ -34587,8 +32128,6 @@ PARÁGRAFO 3. Tanto el cierre temporal como el definitivo se podrán imponer par
 
 (Decreto 3678 de 2010, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.10.1.2.3 — Revocatoria o caducidad de la licencia, concesión, permiso, registro, o demás autorizaciones ambientales
 
 La revocatoria o caducidad de la licencia, concesión, permiso, registro o demás autorizaciones ambientales definidos en la ley o en los reglamentos, se impondrá como sanción por parte de las autoridades, de acuerdo con el siguiente criterio:
@@ -34596,8 +32135,6 @@ La revocatoria o caducidad de la licencia, concesión, permiso, registro o demá
 a) Reincidencia en el incumplimiento de las medidas establecidas en dichas autorizaciones ambientales, siempre y cuando dicho incumplimiento sea grave.
 
 (Decreto 3678 de 2010, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.10.1.2.4 — Demolición de obra a costa del infractor
 
@@ -34619,8 +32156,6 @@ PARÁGRAFO . 2. Lo anterior sin perjuicio de las competencias asignadas sobre el
 
 (Decreto 3678 de 2010, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.10.1.2.5 — 2.5
 
 Decomiso definitivo de especímenes de especies silvestres, exóticas, productos y subproductos de la fauna y la flora, elementos, medios o implementos utilizados para cometer infracciones ambientales. El decomiso definitivo de especímenes de especies silvestres, exóticas, productos y subproductos de la fauna y la flora, elementos, medios o implementos utilizados para cometer infracciones ambientales, se impondrá como sanción por parte de las autoridades ambientales, de acuerdo con los siguientes criterios:
@@ -34639,8 +32174,6 @@ La autoridad ambiental que decreta el decomiso podrá disponer los bienes decomi
 
 (Decreto 3678 de 2010, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.10.1.2.6 — Restitución de especímenes de especies de fauna y flora silvestres
 
 La restitución de especímenes de especies de fauna y flora silvestre se impondrá como sanción cuando previo estudio técnico, la autoridad ambiental determine que el mismo puede ser reincorporado a su hábitat natural de manera satisfactoria, en los términos consagrados en los Artículos 52 y 53 de la Ley
@@ -34649,8 +32182,6 @@ La restitución de especímenes de especies de fauna y flora silvestre se impond
 
 (Decreto 3678 de 2010, art. 9
 
-ARTÍCULO
-
 ## art:2.2.10.1.2.7 — Trabajo Comunitario
 
 El trabajo comunitario se impondrá como sanción por parte de las autoridades ambientales, por el incumplimiento de las normas ambientales o de los actos administrativos emanados de las autoridades ambientales competentes, siempre que el mismo no cause afectación grave al medio ambiente.
@@ -34658,8 +32189,6 @@ El trabajo comunitario se impondrá como sanción por parte de las autoridades a
 Así mismo, cuando la capacidad socioeconómica del infractor así lo amerite a juicio de la autoridad ambiental, se impondrá el trabajo comunitario como sanción sustitutiva de la multa.
 
 (Decreto 3678 de 2010, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.10.1.2.8 — Metodología para la tasación de multas
 
@@ -34677,15 +32206,11 @@ CAPÍTULO 1
 
 Organismos de verificación de reducciones de emisiones y remociones de GEI y declaraciones de verificación
 
-ARTÍCULO
-
 ## art:2.2.11.1.1 — Organismos de verificación
 
 Son terceros independientes que cumplen con los requerimientos presentados en los artículos 2.2.11.1.2 y 2.2.11.1.3 del presente Decreto, quienes se encargarán de hacer la verificación de las reducciones de emisiones y remociones de GEI provenientes de la iniciativa de mitigación. Estos organismos serán quienes emitan la declaración de verificación a efectos de demostrar el cumplimiento de las características presentadas en el artículo 2.2.11.2.1 del presente Decreto.
 
 (Decreto 926 de 2017, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.11.1.2 — Verificación bajo esquemas de acreditación ARTÍCULO 2.2.11.1.2
 
@@ -34696,8 +32221,6 @@ El organismo de verificación de emisiones de GEI deberá estar acreditado por e
 PARÁGRAFO 1. El titular de la iniciativa deberá recibir una declaración de verificación de un organismo verificador o de evaluación de la conformidad acreditado conforme a lo dispuesto en el presente artículo."
 
 (Modificado por el Art. 1 del Decreto 446 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.11.1.3 — Verificación bajo el mecanismo de desarrollo limpio (MDL) de la CMNUCC
 
@@ -34711,8 +32234,6 @@ PARÁGRAFO 2. El reporte de verificación deberá estar acompañado de los certi
 
 (Decreto 926 de 2017, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.11.1.4 — 
 
 2.2.11.1.4 Los organismos acreditados por la Junta Ejecutiva del Mecanismo de Desarrollo Limpio (MOL) como entidad operacional designada (DOE, por sus siglas en inglés), podrán realizar hasta el 31 de diciembre de 2020 procesos de validación y verificación bajo los requisitos de la norma ISO 14065, del Capítulo 7 y de la Sección 1 del Capítulo 8 del Título 1 de la Parte 2 del Libro 2 del Decreto Único 1074 de 2015, o las normas que los modifiquen o sustituyan.
@@ -34725,9 +32246,7 @@ CAPÍTULO 2
 
 Características de las reducciones de emisiones y remociones de GEI para certificar ser carbono neutro
 
-## art:2 — 2.11.2.1
-
-Características de las reducciones de emisiones y remociones de GEI para certificar ser carbono neutro. Las reducciones de emisiones o remociones de GEI elegibles para certificar ser carbono neutro deben cumplir con las siguientes características:
+ARTÍCULO 2-2.11.2.1. Características de las reducciones de emisiones y remociones de GEI para certificar ser carbono neutro. Las reducciones de emisiones o remociones de GEI elegibles para certificar ser carbono neutro deben cumplir con las siguientes características:
 
 1. Proceder de una iniciativa de mitigación de GEI desarrollada en el territorio nacional.
 
@@ -34762,8 +32281,6 @@ PARÁGRAFO 5. Las reducciones de emisiones o remociones de GEI generadas a parti
 PARÁGRAFO 6. Las reducciones de emisiones o remociones de GEI generadas por iniciativas de mitigación de GEI voluntarias, podrán ser elegibles para certificar ser carbono neutro, siempre y cuando sean verificados conforme a la metodología definida en la norma ISO 14064-2:2006 o aquella que la ajuste y actualice, mediante un organismo verificador acreditado de acuerdo con lo establecido en el artículo 2.2.11.1.2 del presente Decreto.
 
 (Decreto 926 de 2017, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.11.2.2 — Anexo Técnico
 
@@ -35125,8 +32642,6 @@ PARTEI
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al Sector de Ambiente y Desarrollo Sostenible que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -35138,8 +32653,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 3) Igualmente, quedan excluidas de esta derogatoria las normas de naturaleza reglamentaria de este sector administrativo que, a la fecha de expedición del presente decreto, se encuentren suspendidas por la Jurisdicción Contencioso Administrativa, las cuales serán compiladas en este decreto, en caso de recuperar su eficacia jurídica.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -35564,91 +33077,3 @@ Vertebrados herbívoros u omnívoros
 Vertebrados predadores
 
 1,0
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

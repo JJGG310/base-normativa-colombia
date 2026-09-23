@@ -7,7 +7,7 @@ ramas: [defensa, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76837
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — El Ministerio de Defensa Nacional
@@ -31,8 +31,6 @@ El Ministerio de Defensa Nacional tiene como objetivos primordiales la formulaci
 (Decreto 1512 de 2000 artículo 4)
 
 ÓRGANOS DE ASESORÍA Y COORDINACIÓN.
-
-ARTÍCULO
 
 ## art:1.1.2.1 — Órganos de Asesoría y Coordinación
 
@@ -76,8 +74,6 @@ CAPÍTULO 1.
 
 SUPERINTENDENCIA.
 
-ARTÍCULO
-
 ## art:1.2.1.1.1 — La Superintendencia de Vigilancia y Seguridad Privada
 
 Organismo del orden nacional, de carácter técnico, adscrito al Ministerio de Defensa Nacional, con personería jurídica, autonomía administrativa y financiera.
@@ -89,8 +85,6 @@ Le corresponde ejercer el control, inspección y vigilancia sobre la industria y
 CAPÍTULO 2.
 
 ESTABLECIMIENTOS PÚBLICOS.
-
-ARTÍCULO
 
 ## art:1.2.1.2.1 — Establecimientos Públicos
 
@@ -138,8 +132,6 @@ CAPÍTULO 1.
 
 EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO.
 
-ARTÍCULO
-
 ## art:1.2.2.1.1 — Empresas Industriales y Comerciales Del Estado
 
 Son empresas Industriales y Comerciales del Estado - Sector Defensa, las siguientes:
@@ -157,8 +149,6 @@ La Caja Promotora de Vivienda Militar y de Policía, podrá administrar las cesa
 CAPÍTULO 2.
 
 SOCIEDADES DE ECONOMÍA MIXTA.
-
-ARTÍCULO
 
 ## art:1.2.2.2.1 — Sociedades de Economía Mixta
 
@@ -179,8 +169,6 @@ SATENA S.A., seguirá cumpliendo con su aporte social, con el fin de integrar la
 (Escritura Pública No. 7589 del 12 de noviembre de 1948, modificada por las Escrituras Públicas Nos. 1407 de 2007, 1797 de 2011 y 2771 de 2012, Acuerdo 006 de 2001, art. 6)
 
 ENTIDADES DESCENTRALIZADAS INDIRECTAS.
-
-ARTÍCULO
 
 ## art:1.2.3.1 — Entidades Descentralizadas Indirectas
 
@@ -206,13 +194,9 @@ DISPOSICIONES GENERALES.
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad expedida por el Gobierno Nacional en ejercicio de las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política, para la cumplida ejecución de las leyes del sector Defensa.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de Aplicación
 
@@ -236,15 +220,11 @@ SUBSECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.1 — Objeto
 
 La presente Sección determina las competencias laborales y requisitos generales con la nomenclatura y clasificación para los diferentes empleos públicos del Sector Defensa.
 
 (Decreto 1666 de 2007 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.2 — Sector Defensa
 
@@ -256,15 +236,11 @@ SUBSECCIÓN 2.
 
 COMPETENCIAS LABORALES PARA LOS EMPLEOS DEL SECTOR DEFENSA.
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.2.1 — Definición de Competencias Laborales para los Empleos del Sector Defensa
 
 Las competencias laborales para los empleos del Sector Defensa se definen como la capacidad de una persona para desempeñar, en diferentes contextos y con base en los requerimientos y resultados esperados en el sector público y en especial en el sector defensa, las funciones inherentes a un empleo; capacidad que está determinada por los conocimientos, destrezas, valores, habilidades, actitudes y aptitudes que debe poseer y demostrar el empleado público del Sector Defensa
 
 (Decreto 1666 de 2007 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.2.2 — Elementos que Integran las Competencias Laborales para los Empleos del Sector Defensa
 
@@ -277,8 +253,6 @@ Las competencias laborales se determinarán con base en el contenido funcional d
 3. Requisitos de estudio y experiencia del empleo.
 
 (Decreto 1666 de 2007 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.2.3 — Competencias Funcionales del Empleo
 
@@ -294,8 +268,6 @@ Las competencias funcionales precisarán y detallarán lo que en forma general d
 
 (Decreto 1666 de 2007 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.2.4 — Competencias Comportamentales del Empleo
 
 Las competencias comportamentales se describirán en los manuales de funciones de los empleos del Sector Defensa, teniendo en cuenta los siguientes criterios:
@@ -305,8 +277,6 @@ Las competencias comportamentales se describirán en los manuales de funciones d
 2. Responsabilidad en el manejo de información
 
 (Decreto 1666 de 2007 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.2.5 — Competencias Comportamentales Comunes a los Empleados Públicos del Sector Defensa
 
@@ -337,8 +307,6 @@ Demuestra sentido de pertenencia con el logro de los objetivos institucionales d
 Responde en su actividad laboral y personal, manifestando entendimiento de la cultura organizacional del Sector, así como una interiorización de los valores asociados al compromiso con la Defensa y Seguridad Nacional.
 
 (Decreto 1666 de 2007 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.2.6 — Competencias Comportamentales por Nivel Jerárquico
 
@@ -530,8 +498,6 @@ Asume y acata el control de los funcionarios responsables, de las actividades as
 
 (Decreto 1666 de 2007 artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.2.7 — Requisitos de los Empleos del Sector Defensa
 
 Los requisitos de estudio y experiencia con la nomenclatura y clasificación para cada uno de los grados salariales por cada nivel jerárquico para los empleos del Sector Defensa, que se fijan en la presente Sección servirán de base para que las entidades y dependencias que integran el Sector Defensa, conformen sus plantas de personal con los respectivos manuales específicos de funciones y de requisitos.
@@ -539,8 +505,6 @@ Los requisitos de estudio y experiencia con la nomenclatura y clasificación par
 (Decreto 1666 de 2007 artículo 9)
 
 SUBSECCIÓN 3.
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.3.1 — Requisitos del Nivel Directivo
 
@@ -701,8 +665,6 @@ Título profesional
 Dieciséis (16) meses de experiencia profesional relacionada
 
 (Decreto 1666 de 2007 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.3.2 — Requisitos del Nivel Asesor del Sector Defensa
 
@@ -876,8 +838,6 @@ Dos (2) meses de experiencia profesional relacionada
 
 (Decreto 1666 de 2007 artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.3.3 — Requisitos del Nivel Profesional
 
 Los requisitos con la nomenclatura y clasificación para los diferentes empleos del nivel profesional del Sector Defensa, en las denominaciones de Profesional de Seguridad o Profesional de Defensa, serán los siguientes:
@@ -996,8 +956,6 @@ Título profesional
 
 (Decreto 1666 de 2007 artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.3.4 — Requisitos del Nivel Orientador de Defensa o Espiritual
 
 Los requisitos con la nomenclatura y clasificación para los diferentes empleos del nivel Orientador del Sector Defensa, en las denominaciones de Orientador de Defensa u Orientador Espiritual, serán los siguientes:
@@ -1095,8 +1053,6 @@ Aprobación de dos (2) años de educación básica secundaria
 Doce (12) meses de experiencia laboral relacionada
 
 (Decreto 1666 de 2007 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.3.5 — Requisitos del Nivel Técnico
 
@@ -1266,8 +1222,6 @@ Aprobación de educación básica primaria
 
 (Decreto 1666 de 2007 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.3.6 — Requisitos del Nivel Asistencial
 
 Los requisitos con la nomenclatura y clasificación para los diferentes empleos del Nivel Asistencial del Sector Defensa, en las denominaciones de Auxiliar de Servicios, Auxiliar de Inteligencia, Auxiliar de Policía Judicial, Auxiliar para Apoyo de Seguridad y Auxiliar para Apoyo de Defensa, serán los siguientes:
@@ -1426,8 +1380,6 @@ SUBSECCIÓN 4.
 
 EQUIVALENCIAS ENTRE ESTUDIO Y EXPERIENCIA.
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.4.1 — Equivalencias entre Estudio y Experiencia
 
 Los requisitos de que trata la presente Sección no podrán ser aumentados o disminuidos. Sin embargo, de acuerdo con la jerarquía, las funciones y las responsabilidades de cada empleo, las autoridades competentes por necesidades propias del servicio y sin perjuicio de la compensación de requisitos prevista en el Decreto 092 de 2007, podrá aplicar las siguientes equivalencias:
@@ -1498,8 +1450,6 @@ SUBSECCIÓN 5.
 
 DISPOSICIONES FINALES.
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5.1 — Requisitos ya Acreditados
 
 A los empleados públicos del Sector Defensa para todos los efectos legales, no les serán exigibles requisitos distintos a los acreditados al momento de su vinculación inicial, en el último lapso de tiempo de servicio continuo, ni los establecidos en la presente Sección, mientras permanezcan en los mismos empleos que desempeñan al 14 de mayo de 2007 (entrada en vigencia del Decreto 1666 de 2007), o en el equivalente según la nomenclatura especial aquí establecida.
@@ -1509,8 +1459,6 @@ A los empleados públicos del Sector Defensa para todos los efectos legales, no 
 SECCIÓN 2.
 
 DISPOSICIONES CON RELACIÓN A LOS SERVIDORES PÚBLICOS CIVILES O NO UNIFORMADOS DEL MINISTERIO DE DEFENSA NACIONAL, LAS FUERZAS MILITARES Y LA POLICÍA NACIONAL Y SE REGLAMENTA EL DECRETO-LEY 1792 DE 2000.
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.1 — Miembros de la Fuerza Pública
 
@@ -1522,15 +1470,11 @@ SECCIÓN 3.
 
 REGLAMENTACIÓN DE ALGUNAS DISPOSICIONES DEL DECRETO 1214 DE 1990, ESTATUTO Y RÉGIMEN PRESTACIONAL DEL PERSONAL CIVIL DEL MINISTERIO DE DEFENSA Y LA POLICÍA NACIONAL.
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.1 — Prima de Buceria
 
 Además de los requisitos establecidos en el Artículo 40 del Decreto 1214 de 1990, para el pago de la Prima de Buceria a los empleados públicos del Ministerio de Defensa y de la Policía Nacional, el tiempo de buceo deberá certificarse por el Comandante que lo ordenó o autorizó, mediante cuadro o planilla explicativa que debe rendirse mensualmente al Comando de la respectiva Fuerza o a la Dirección General de la Policía Nacional.
 
 (Decreto 2909 de 1991 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.2 — Requisitos para el Reconocimiento de Prima de Instalación
 
@@ -1544,15 +1488,11 @@ PARÁGRAFO 2. Cuando el traslado o comisión permanente sea al exterior o del ex
 
 (Decreto 2909 de 1991 artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.3 — Prima de Navidad en el Exterior
 
 La Prima de Navidad de que trata el parágrafo 2o. del Artículo 43 del Decreto 1214 de 1990, solo se liquidará y pagará en la forma allí establecida, cuando el empleado público que cumple la comisión permanente en el exterior, se encuentre en desempeño de ella el 30 de noviembre del respectivo.
 
 (Decreto 2909 de 1991 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.4 — Reconocimiento y Pago de la Prima de Vacaciones
 
@@ -1561,8 +1501,6 @@ El reconocimiento y pago de la prima de vacaciones de que trata el Artículo 48 
 PARÁGRAFO . El reconocimiento y pago de la prima de vacaciones de los empleados públicos del Ministerio de Defensa y Policía Nacional que desempeñen cargos en la Justicia Penal Militar y en su Ministerio Público, se regirán por las disposiciones Vigentes sobre la materia.
 
 (Decreto 2909 de 1991 artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.5 — Subsidio Familiar
 
@@ -1573,8 +1511,6 @@ a) Solicitud escrita formulada por el interesado, siguiendo el conducto regular,
 b) Acompañar la mencionada solicitud, los soportes del cónyuge o compañero permanente, o el nacimiento de cada uno de los hijos, según el caso.
 
 (Decreto 2909 de 1991 artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.6 — Disminución del Subsidio Familiar
 
@@ -1588,23 +1524,17 @@ c) Para acreditar la condición de inválido, se requerirá Certificación de la
 
 (Decreto 2909 de 1991 artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.7 — Descuento Subsidio Familiar
 
 Para aplicar lo previsto en el artículo 52 del Decreto 1214 de 1990 se ordenará previamente por el superior inmediato dentro de la línea de mando, siempre que sea oficial en servicio activo, que el empleado rinda un informe sobre la causa o causas de su omisión. Este informe, una vez conocido y conceptuado por el superior inmediato del inculpado, debe remitirse al Comando General, Secretaría General del Ministerio, Comando de Fuerza o Dirección General de la Policía Nacional, en donde se aceptarán las explicaciones dadas por el interesado, si fueren justificadas, o se elaborará la disposición de descuento, si no lo fueren. Las sumas descontadas por este concepto ingresarán al Fondo de Bienestar y Recreación del Ministerio de Defensa Nacional o al Bienestar Social de la Policía, según el caso.
 
 (Decreto 2909 de 1991 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.8 — Prohibición Pago Doble Subsidio Familiar
 
 Para hacer efectivo el cumplimiento de lo dispuesto en el Artículo 53 del Decreto 1214 de 1990, los empleados públicos deberán demostrar ante la secretaría General del Ministerio de Defensa, Comando General de las Fuerzas Militares, Comandos de Fuerza y Dirección General de la Policía Nacional, mediante declaración jurada ante autoridad competente, que su cónyuge no tiene relación legal y reglamentaria, ni contrato de trabajo con personas de derecho público En caso de existir, deberá allegarse constancia de que éste no percibe subsidio familiar.
 
 (Decreto 2909 de 1991 artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.9 — Servicios Medico-Asistenciales
 
@@ -1632,15 +1562,11 @@ PARÁGRAFO Los documentos probatorios de las situaciones de dependencia a que se
 
 (Decreto 2909 de 1991 artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.10 — Prestación de Servicios por otras Entidades
 
 Cuando la unidad médica de una Guarnición Militar o Policial, no esté en capacidad de prestar el servicio requerido, el Comandante o Jefe de ésta, podrá solicitar los servicios de profesionales de entidades particulares, previa autorización de la jefatura de sanidad respectiva, hasta por las cuantías fijadas en la escala de tarifas establecidas para el efecto por el Ministerio de Defensa Nacional.
 
 (Decreto 2909 de 1991 artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.11 — Atención Casos de Urgencia
 
@@ -1650,15 +1576,11 @@ PARÁGRAFO . Se consideran casos de urgencia los determinados por accidentes y e
 
 (Decreto 2909 de 1991 artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.12 — No Utilización de los Servicios Medico-Asistenciales
 
 Cuando los beneficiarios del personal civil no utilicen los servicios médico-asistenciales de la Sanidad Militar o Policial o de las personas o entidades particulares autorizadas para prestarlos, el Ministerio de Defensa y la Policía Nacional quedarán exonerados de toda responsabilidad y no cubrirán cuenta alguna por concepto de servicios sustitutivos de los anteriores. Se exceptúan de ésta norma los casos de urgencia que deban ser atendidos por personas o entidades diferentes, de acuerdo con lo previsto en el artículo anterior.
 
 (Decreto 2909 de 1991 artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.13 — Atención de Enfermos Especiales
 
@@ -1666,15 +1588,11 @@ Los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y a fines, d
 
 (Decreto 2909 de 1991 artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.14 — Pago por no Utilización de Servicios
 
 Serán de cargo del causante los gastos de preparación de salas de cirugía o consultorios especializados, con base en tarifas fijadas por los establecimientos hospitalarios del Ministerio de Defensa o de la Policía Nacional, o por las clínicas particulares autorizadas, cuando sin motivo plenamente justificado el paciente deje de concurrir a la cita que se le da para una intervención quirúrgica o consulta especial.
 
 (Decreto 2909 de 1991 artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.15 — Pago por Servicios Indebidos
 
@@ -1683,8 +1601,6 @@ El personal civil que por medios fraudulentos obtuviere carné para la prestaci�
 PARÁGRAFO . Para el cumplimiento de éste artículo se aplicará el Reglamento del Régimen Disciplinario para las FF.MM.
 
 (Decreto 2909 de 1991 artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.16 — Turno de Vacaciones
 
@@ -1708,8 +1624,6 @@ h. Comandos de Batallón, Base Naval o Fluvial, Unidad a flote o submarina, Apos
 
 (Decreto 2909 de 1991 artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.17 — Obligatoriedad de las Vacaciones
 
 El disfrute de vacaciones anuales tiene carácter obligatorio para todo el personal civil, quien debe hacer uso de ellas dentro del año inmediatamente siguiente a la fecha en que se cause el derecho.
@@ -1718,15 +1632,11 @@ Las entidades que de acuerdo con el Artículo anterior tienen a su cargo la prep
 
 (Decreto 2909 de 1991 artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.18 — Vacaciones de Personal en Comisión en otras Entidades
 
 El personal civil del Ministerio de Defensa y de Policía Nacional, cuando preste sus servicios en comisión en otras dependencias del Estado, disfrutará de sus vacaciones anuales acuerdo con las necesidades destino a la correspondiente de la respectiva dependencia, la cual debe expedir con autoridad nominadora, una certificación sobre la época y circunstancias en que el comisionado hace uso de tales vacaciones.
 
 (Decreto 2909 de 1991 artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.19 — Autorización Vacaciones del Personal en Comisión en el Exterior
 
@@ -1734,15 +1644,11 @@ Las vacaciones de los empleados públicos que se encuentren en comisión en el e
 
 (Decreto 2909 de 1991 artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.20 — Vacaciones Especiales
 
 Para efecto de lo dispuesto en el parágrafo del artículo 90 del Decreto 1214 de 1990, los profesionales y ayudantes cuya actividad sea la aplicación de rayos X, tendrán derecho a quince (15) días corridos de vacaciones, por cada seis (6) meses continuos de servicio.
 
 (Decreto 2909 de 1991 artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.21 — Suspensión de Vacaciones
 
@@ -1750,15 +1656,11 @@ Al empleado público que durante sus vacaciones se le excuse del servicio por la
 
 (Decreto 2909 de 1991 artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.22 — Anticipo de Cesantía
 
 El anticipo de cesantía de que trata el artículo 95 del Decreto 1214 de 1990, solo se liquidará y pagará cuando así lo autorice el Ministerio de Defensa o la Policía Nacional, con base en las correspondientes disponibilidades presupuestales y a solicitud escrita del interesado, la cual puede ser formulada directamente o por conducto de la Caja de Vivienda Militar.
 
 (Decreto 2909 de 1991 artículo 34)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.23 — Solicitud Directa de Anticipo
 
@@ -1800,8 +1702,6 @@ f) En todos los casos a que se refieren los literales anteriores se requerirá, 
 
 (Decreto 2909 de 1991 artículo 35)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.24 — Solicitud de Anticipo por Conducto de la Caja de Vivienda Militar
 
 Cuando la solicitud de liquidación del anticipo de cesantía se haga por conducto de la Caja de Vivienda Militar el interesado deberá presentar los documentos que esta Entidad exija a su vez la solicitud de la Caja de Vivienda Militar al Ministerio de Defensa, deberá ir acompañada de la siguiente documentación:
@@ -1822,15 +1722,11 @@ f) Fotocopia de la cédula de ciudadanía.
 
 (Decreto 2909 de 1991 artículo 36)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.25 — Calculo de Tiempo
 
 Para calcular el tiempo de servicio que da derecho a pensión de jubilación, solo se computarán como jornadas completas de trabajo las de cuatro (4) horas o más. Si las horas de trabajo señaladas para el respectivo empleo no llegan a ese límite, el cómputo se hará sumando las horas de trabajo real y dividiéndolas por cuatro (4); el resultado que así se obtenga se tomará como el de días laborados y se adicionará con los descansos remunerados y las vacaciones conforme a la Ley.
 
 (Decreto 2909 de 1991 artículo 37)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.26 — Pensión por Aportes
 
@@ -1838,15 +1734,11 @@ Para efectos del reconocimiento de la pensión de que trata el artículo 100 del
 
 (Decreto 2909 de 1991 artículo 38)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.27 — Exámenes de Revisión de Pensionados por Invalidez
 
 El personal civil del Ministerio de Defensa y de la Policía Nacional que esté percibiendo pensión de invalidez, deberá someterse a exámenes médicos de revisión, conforme al artículo 109 del Decreto 1214 de 1990, cada dos (2) años como mínimo; contados a partir del 30 de diciembre de 1991 (entrada en vigencia del Decreto 2909 de 1991).
 
 (Decreto 2909 de 1991 artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.28 — Afiliación Voluntaria de Familiares
 
@@ -1862,15 +1754,11 @@ PARÁGRAFO 2. Para la prestación de los servicios asistenciales de que trata el
 
 (Decreto 2909 de 1991 artículo 40)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.29 — Plazo Exámenes para Retiro
 
 Los sesenta (60) días de que trata el artículo 116 del Decreto 1214 de 1990, deben interpretarse como días hábiles.
 
 (Decreto 2909 de 1991 artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.30 — Prestaciones Económicas
 
@@ -1878,15 +1766,11 @@ Las prestaciones económicas a que se refiere el literal b) del artículo 116 de
 
 (Decreto 2909 de 1991 artículo 42)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.31 — Comprobación de Situaciones para goce de Pensión
 
 Los beneficiarios de pensiones otorgadas por el fallecimiento de empleados públicos en servicio activo o en goce de pensión, para mantener el derecho a disfrutar de tal prestación, deberán demostrar ante la correspondiente entidad pagadora, que no han incurrido en las causales de extinción previstas en el artículo 125 del Decreto 1214 de 1990, mediante declaración anual juramentada, rendida ante Juez o Notario competente.
 
 (Decreto 2909 de 1991 artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.32 — Aviso sobre Causales de Extinción
 
@@ -1894,15 +1778,11 @@ Los beneficiarios de las pensiones a que se refiere el artículo anterior, está
 
 (Decreto 2909 de 1991 artículo 44)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.33 — Pasajes y Primas de Instalación para Familiares de Personal Fallecido en el Exterior
 
 El derecho consagrado en el parágrafo del artículo 126 del Decreto 1214 de 1990, sobre pasajes y prima de instalación para el cónyuge e hijos del empleado público que falleciere en el exterior, solo se refiere a los necesarios para su regreso a Colombia, siempre y cuando hubiesen estado residiendo con el empleado en el lugar de su deceso y éste hubiere ocurrido durante el desempeño de comisión del servicio.
 
 (Decreto 2909 de 1991 artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.34 — Procedimiento en Caso de Desaparecimiento
 
@@ -1916,8 +1796,6 @@ c) Vencido el término a que se refiere el literal anterior, el instructor remit
 
 (Decreto 2909 de 1991 artículo 46)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.35 — Aparecimiento
 
 Si el presunto desaparecido apareciere o se tuviere noticias ciertas de su existencia, el Secretario General del Ministerio de Defensa, el Comandante General de las Fuerzas Militares, los Comandantes de Fuerzas o el Director General de la Policía Nacional, según el caso, ordenarán adelantar una investigación de carácter administrativo, con el objeto de precisar:
@@ -1930,8 +1808,6 @@ PARÁGRAFO . Si en la investigación administrativa se llegaren establecer accio
 
 (Decreto 2909 de 1991 artículo 47)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.36 — Sanciones por Injustificada Desaparición
 
 Si el proceso penal culmina con fallo condenatorio para la persona aparecida, se cambiará la causal de baja por presunción de muerte a que se refiere el parágrafo del artículo 130 del Decreto 1214 de 1990 por la que resulte del respectivo fallo y se dará aplicación a lo dispuesto en el artículo 131 del mismo decreto.
@@ -1941,8 +1817,6 @@ Si el fallo es absolutorio el Ministerio de Defensa o la Policía Nacional decla
 PARÁGRAFO . Cuando él reintegro dispuesto en el inciso segundo de este artículo no fuere posible por razones de fuerza mayor plenamente comprobadas, el valor correspondiente se descontará de los haberes y prestaciones sociales del causante, en la forma que determine el Ministerio de Defensa o la Policía Nacional.
 
 (Decreto 2909 de 1991 artículo 48)
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.37 — Controversia en la Reclamación
 
@@ -1958,15 +1832,11 @@ SECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1 — Selección de Defensores
 
 Las personas jurídicas y/o naturales que se vinculen como Defensores serán escogidas de acuerdo con las disposiciones legales vigentes, conforme los perfiles que para tal efecto determine el Comité Directivo del Fondo de Defensa Técnica y Especializada de los Miembros de la Fuerza Pública (Fondetec).
 
 (Decreto 0124 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2 — Creación Registro de Abogados
 
@@ -1982,23 +1852,17 @@ Consejo Superior de la Judicatura, de conformidad con la normatividad vigente.
 
 (Decreto 0124 de 2014 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3 — Auxiliares de la Justicia
 
 El Sistema de Defensa Técnica y Especializada de los Miembros de la Fuerza Pública podrá contratar auxiliares de la justicia, con el fin de apoyar la defensa técnica y especializada de los Miembros de la Fuerza Pública.
 
 (Decreto 0124 de 2014 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4 — Derecho Operacional
 
 En concordancia con el principio de especialidad consagrado en el artículo 3o de la Ley 1698 de 2013, se entiende por derecho operacional la integración de los tratados internacionales ratificados por Colombia, la legislación nacional y la jurisprudencia en materia de derechos humanos y derecho internacional humanitario al planeamiento, ejecución y seguimiento de las operaciones, operativos y procedimientos de la Fuerza Pública.
 
 (Decreto 0124 de 2014 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.5 — Obligaciones de los Defensores
 
@@ -2026,15 +1890,11 @@ SECCIÓN 2.
 
 COBERTURA Y EXCLUSIONES.
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Cobertura y Exclusiones
 
 El Servicio de Defensa Técnica y Especializada de los Miembros de la Fuerza Pública se prestará a todos aquellos Miembros activos o retirados de la Fuerza Pública que así lo soliciten, de acuerdo a la apropiación presupuestal disponible y conforme a lo previsto en el inciso 2o del artículo 2.2.1.2.2.2., del presente Capítulo en todo el territorio nacional donde se ubique un despacho judicial o disciplinario que conozca de un proceso en contra de un miembro de la Fuerza Pública y cuyo delito o falta corresponda a aquellas conductas no excluidas conforme el artículo 7o de la Ley 1698 de 2013 o a aquellas que determine el Comité Directivo de Fondetec.
 
 (Decreto 0124 de 2014 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2 — Criterios
 
@@ -2049,8 +1909,6 @@ El Ministerio de Defensa Nacional (Fondetec) asume la responsabilidad de brindar
 SECCIÓN 3.
 
 ADMINISTRACIÓN DEL FONDO.
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1 — Comité Directivo
 
@@ -2080,8 +1938,6 @@ PARÁGRAFO 3. El Comité Directivo no podrá ordenar gastos ni participar en el 
 
 (Decreto 0124 de 2014 artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2 — Sesiones y Adopción de Decisiones
 
 El Comité Directivo del Fondo de Defensa Técnica y Especializada de los Miembros de la Fuerza Pública (Fondetec) deberá reunirse, de manera ordinaria, una vez trimestralmente y, extraordinariamente, cuando así lo solicite el Presidente del Comité.
@@ -2091,8 +1947,6 @@ El Comité Directivo sesionará con la mitad más uno de sus integrantes y tomar
 PARÁGRAFO . Las sesiones podrán ser presenciales o no presenciales, de conformidad con el mecanismo que se establezca en su reglamento.
 
 (Decreto 0124 de 2014 artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.3 — Funciones del Comité Directivo
 
@@ -2117,8 +1971,6 @@ El Comité Directivo del Fondo de Defensa Técnica y Especializada de los Miembr
 9. Las demás que le asigne el Ministro de Defensa Nacional.
 
 (Decreto 0124 de 2014 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.4 — Director o Gerente
 
@@ -2150,8 +2002,6 @@ SECCIÓN 4.
 
 RECURSOS Y ADMINISTRACIÓN DEL FONDO.
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.1 — Convenios o Contratos
 
 Fondetec podrá celebrar convenios o contratos con entidades oficiales o privadas para la designación de expertos en determinada ciencia, arte, técnica u oficio, entre otros, con el fin de contar con su asesoría cuando la naturaleza de los hechos objeto de un proceso asignado a un defensor público lo requiera.
@@ -2164,19 +2014,13 @@ REGLAMENTACIÓN DE LOS CRITERIOS QUE ORIENTAN LA ASIGNACIÓN DE RECURSOS PARA LO
 
 (Decreto 1721 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.1 — Objeto
 
 El presente Decreto tiene como objeto precisar los criterios que orientan la asignación de recursos para los servicios de Defensa Técnica y Especializada de los Miembros de la Fuerza Pública con cargo a Fondetec, incluyendo criterios de distribución proporcional, cuando la demanda del servicio supere la apropiación presupuestal disponible, a fin de asegurar que se cubra la defensa de aquellos integrantes de la Fuerza Pública que no cuentan con rentas e ingresos suficientes para sufragar su defensa.
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.2 — 5.2
 
 Ámbito de Aplicación.- Las disposiciones contenidas en este Decreto son aplicables a los miembros de la Fuerza Pública activos o retirados, que solicitan el servicio de defensa técnica especializada, incursos en investigaciones que surjan por actuaciones adelantadas en cumplimiento de la misión constitucional o con ocasión de ella, en la jurisdicción penal ordinaria, penal militar, o disciplinaria del orden nacional, internacional y de terceros estados por excepción.
-
-ARTÍCULO
 
 ## art:2.2.1.2.5.3 — Criterios de Distribución
 
@@ -2192,8 +2036,6 @@ Se establecen los siguientes criterios de distribución en orden de preferencia,
 
 5. Procesos penales o disciplinarios que el Comité Directivo considere, conforme a los principios que rigen el Sistema de Defensa Técnica y Especializada de los miembros de la Fuerza Pública.
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.4 — Expedición de Reglas
 
 El Comité Directivo de FONDETEC, establecerá las reglas aplicables conforme el artículo anterior.
@@ -2204,15 +2046,11 @@ SECCIÓN 6
 
 HOMOLOGACIÓN Y/O EQUIVALENCIA DE LOS REQUISITOS DE ESTUDIO, CONOCIMIENTOS Y EXPERIENCIA DE LOS ABOGADOS DEFENSORES
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.1 — Requisitos de los Abogados Defensores
 
 Los requisitos de estudio y experiencia que se fijan en la presente Sección para los abogados defensores de que trata el artículo 3 de la Ley 1698 de 2013, servirán de base para que FONDETEC elabore sus lineamientos generales para contratistas.
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.2 — Factores para la determinación de los Requisitos
 
@@ -2224,15 +2062,11 @@ Los factores que se tendrán en cuenta para determinar los requisitos de los abo
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.3 — 6.3
 
 Estudios: Son los conocimientos académicos adquiridos y certificados por instituciones públicas o privadas, debidamente reconocidas por el Gobierno Nacional, correspondientes a la educación superior en los programas de pregrado en la modalidad de formación profesional, y en programas de postgrado en las modalidades de especialización, maestría, doctorado y postdoctorado.
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.4 — Certificación de la Experiencia
 
@@ -2250,8 +2084,6 @@ PARÁGRAFO . Cuando la persona haya asesorado en el mismo período a una o varia
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.5 — Definiciones
 
 Para efectos de interpretación y aplicación de la presente Sección, se considerarán las siguientes definiciones:
@@ -2266,8 +2098,6 @@ Para efectos de interpretación y aplicación de la presente Sección, se consid
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.6 — Requisitos Mínimos de los Abogados Defensores
 
 Se tendrán en cuenta los siguientes parámetros:
@@ -2281,8 +2111,6 @@ PARÁGRAFO 1. En todo caso, y de conformidad con el principio de "Especialidad" 
 PARÁGRAFO 2. El título profesional de abogado exigido para el objeto contractual de abogado defensor, deberá ser de conformidad con la normatividad que el Gobierno Nacional expida al respecto.
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.7 — Equivalencias entre Estudios y Experiencias
 
@@ -2304,15 +2132,11 @@ PARÁGRAFO . La equivalencia establecida para la experiencia relacionada, podrá
 
 (Adicionado por el Art. 1 del Decreto 648 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1 — Plan de Implementación
 
 Adoptar el Plan de implementación del Sistema Penal Acusatorio en la Justicia Penal Militar en cuatro (4) fases que se desarrollarán de manera gradual y sucesiva a lo largo del territorio nacional, garantizando la continuidad de los procesos vigentes, respetando el marco fiscal de mediano plazo vigente y el marco de gasto de mediano plazo vigente del sector defensa, de acuerdo con los recursos que se apropien de conformidad con lo señalado en la ley.
 
 (Decreto 2960 de 2011 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.2 — Fases
 
@@ -2340,8 +2164,6 @@ PARÁGRAFO 2. Las fases territoriales establecidas en este artículo podrán ser
 
 (Modificado por el Art. 1 del Decreto 1768 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.3 — Funciones de la Jurisdicción Especializada
 
 En la implementación de las fases del Sistema Penal Acusatorio en la Justicia Penal Militar, se tendrán en cuenta para el cumplimiento de las funciones de la Jurisdicción Especializada, los siguientes criterios y factores:
@@ -2358,8 +2180,6 @@ En la implementación de las fases del Sistema Penal Acusatorio en la Justicia P
 
 (Decreto 2960 de 2011 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.2.4 — Estudios Técnicos
 
 El Ministerio de Defensa Nacional - Dirección Ejecutiva de la Justicia Penal Militar, presentará los estudios técnicos al Departamento Administrativo de la Función Pública de conformidad con los artículos 46 de la Ley 909 de 2004 y 95 del Decreto 1227 de 2005 o las normas que lo compilen, adicionen, modifiquen complementen o sustituyan, para efectos de ajustar su planta de personal a las necesidades de la Justicia Penal Militar, de acuerdo con las fases de implementación del Sistema Penal Acusatorio previstas en este Título y los criterios y factores determinados por la ley.
@@ -2368,15 +2188,11 @@ PARÁGRAFO .-La puesta en marcha de la primera fase del Sistema Penal Acusatorio
 
 (Decreto 2960 de 2011 artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.5 — Estadística
 
 La Dirección Ejecutiva de la Justicia Penal Militar, ejercerá el control estadístico de los procesos adelantados por los despachos de la Justicia Penal Militar bajo el amparo de la Ley 522 de 1999 y tomará las decisiones necesarias para su descongestión, hasta la culminación de los mismos e ingreso de dichos despachos al nuevo Sistemas Penal Acusatorio.
 
 (Decreto 2960 de 2011 artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.2.6 — Sedes de los Despachos
 
@@ -2384,15 +2200,11 @@ La Dirección Ejecutiva de la Justicia Penal Militar determinará la sede de los
 
 (Decreto 2960 de 2011 artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.2.7 — Capacitación
 
 La Dirección Ejecutiva de la Justicia Penal Militar establecerá el plan de capacitación en el Sistema Penal Acusatorio para los funcionarios y empleados de la Jurisdicción de acuerdo con las fases de implementación, las necesidades del servicio y los recursos disponibles.
 
 (Decreto 2960 de 2011 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.2.8 — Cumplimiento de Fases
 
@@ -2486,8 +2298,6 @@ CAPÍTULO 1.
 
 DELIMITACIÓN DE LOS ORGANISMOS, DEPENDENCIAS Y PERSONAL QUE REALIZAN ACTIVIDADES DE INTELIGENCIA Y CONTRAINTELIGENCIA.
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Delimitación de los Organismos y Dependencias
 
 Llevarán a cabo actividades de inteligencia y contrainteligencia los organismos y dependencias autorizados por la ley. Estos organismos y las dependencias autorizadas desarrollarán estas actividades observando la Constitución y la Ley y serán los siguientes:
@@ -2546,8 +2356,6 @@ CAPÍTULO 2.
 
 REQUERIMIENTOS DE INTELIGENCIA Y CONTRAINTELIGENCIA.
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Plan Nacional de Inteligencia
 
 El Plan Nacional de Inteligencia, es el documento que desarrolla los requerimientos y las prioridades establecidas por el Gobierno Nacional en materia de inteligencia y contrainteligencia, y asigna responsabilidades, deberá contener como mínimo los siguientes elementos estructurales en su elaboración y adopción:
@@ -2572,8 +2380,6 @@ CAPÍTULO 3.
 
 COORDINACIÓN, COOPERACIÓN Y COLABORACIÓN.
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Coordinación y Cooperación para el Intercambio de Información
 
 En el marco del cumplimiento de sus funciones los organismos de inteligencia y contrainteligencia deberán compartir información de acuerdo con la misión constitucional, legal y conforme a las competencias y principio de especialidad. Cada entidad será responsable de manejar la información que se comparta con la debida reserva y observando los protocolos de seguridad y acceso de la información establecidos por la Junta de Inteligencia Conjunta JIC.
@@ -2588,8 +2394,6 @@ Tratándose de intercambio de información con organismos internacionales se est
 
 (Decreto 857 de 2014 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2 — Colaboración de otras Entidades Públicas y Privadas en el Suministro de Información
 
 En el marco de la colaboración y coordinación interinstitucional, con el fin de requerir información útil y necesaria para la función de inteligencia y contrainteligencia del Estado, los Jefes o Directores de los organismos de inteligencia y contrainteligencia, podrán suscribir convenios, acuerdos o protocolos interinstitucionales con otras entidades públicas y privadas, de acuerdo con lo consagrado en el artículo 42 de la Ley 1621 de 2013.
@@ -2600,8 +2404,6 @@ CAPÍTULO 4.
 
 DOCUMENTOS DE INTELIGENCIA Y CONTRAINTELIGENCIA, ÓRDENES DE OPERACIONES Y/O MISIONES DE TRABAJO.
 
-ARTÍCULO
-
 ## art:2.2.3.4.1 — Documentos de Inteligencia y Contrainteligencia
 
 Son documentos de inteligencia y contrainteligencia todos aquellos originados, procesados y/o producidos en los organismos de inteligencia y contrainteligencia con los niveles de clasificación establecidos en el presente Título. Estos documentos de conformidad con la ley están protegidos por la reserva legal.
@@ -2610,15 +2412,11 @@ Los documentos de inteligencia y contrainteligencia pueden estar contenidos en m
 
 (Decreto 857 de 2014 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2 — Protección de los Documentos de Inteligencia y Contrainteligencia
 
 De conformidad con la ley, los documentos de inteligencia y contrainteligencia estarán amparados, en todo momento, por la reserva legal en cualquiera de los niveles de clasificación que se les asigne. La difusión contenida en estos documentos de inteligencia y contrainteligencia observará los parámetros y restricciones consagrados en la Constitución, la Ley 1621 de 2013, el presente Título, los manuales y protocolos que se establezcan al interior de cada organismo para su adecuada administración, protección, custodia y seguridad de la información.
 
 (Decreto 857 de 2014 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.4.3 — Orden de Operaciones y/o Misión de Trabajo
 
@@ -2646,8 +2444,6 @@ PARÁGRAFO . Las órdenes de operaciones y/o misión de trabajo de inteligencia 
 
 (Decreto 857 de 2014 artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4 — Criterio Orientador de los Informes de Inteligencia Financiera de la U.I.A.F
 
 Sin perjuicio de la información que obtenga de las unidades homólogas de inteligencia financiera de otros países y de los reportes de operaciones sospechosas que por su naturaleza y de acuerdo con las prescripciones legales reciba la Unidad de Información y Análisis Financiero (UIAF), este organismo podrá con base en la información que reciba de los organismos que hacen parte de la comunidad de inteligencia del Estado, iniciar una misión de trabajo que dé origen a informes de inteligencia financiera como criterio orientador con destino a las fiscalías competentes, de conformidad con el parágrafo del artículo 34 de la Ley 1621 de 2013.
@@ -2657,8 +2453,6 @@ Sin perjuicio de la información que obtenga de las unidades homólogas de intel
 CAPÍTULO 5.
 
 MANUALES.
-
-ARTÍCULO
 
 ## art:2.2.3.5.1 — Manuales
 
@@ -2674,15 +2468,11 @@ CAPÍTULO 6.
 
 RESERVA LEGAL, NIVELES DE CLASIFICACIÓN, SISTEMA PARA LA DESIGNACIÓN DE LOS NIVELES DE ACCESO A LA INFORMACIÓN Y DESCLASIFICACIÓN DE DOCUMENTOS.
 
-ARTÍCULO
-
 ## art:2.2.3.6.1 — Reserva Legal
 
 En los términos del artículo 33 de la Ley 1621 de 2013, los documentos, información y elementos técnicos de los organismos de inteligencia y contrainteligencia estarán amparados por la reserva legal y se les asignará un nivel de clasificación de acuerdo con lo establecido en el siguiente artículo.
 
 (Decreto 857 de 2014 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2 — Niveles de Clasificación de la Información
 
@@ -2701,8 +2491,6 @@ PARÁGRAFO . Los documentos de inteligencia y contrainteligencia que contengan i
 Sin perjuicio de lo establecido en el artículo 34 de la Ley 1621 de 2013, a mayor nivel de clasificación de seguridad de la información, mayores serán las restricciones y controles para el acceso a la misma por parte de los receptores, las autoridades, los servidores públicos y asesores que deban conocer de ella. Estas restricciones deberán quedar establecidas en actos administrativos, manuales, protocolos, tarjetas de autorización para manejo y acceso a la información y contratos respectivos en cada uno de los organismos de inteligencia y contrainteligencia.
 
 (Decreto 857 de 2014 artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.3.6.3 — Criterios para dar Acceso a La Información
 
@@ -2728,8 +2516,6 @@ CAPÍTULO 7.
 
 SEGURIDAD Y RESTRICCIONES EN LA DIFUSIÓN DE PRODUCTOS E INFORMACIÓN DE INTELIGENCIA Y CONTRAINTELIGENCIA.
 
-ARTÍCULO
-
 ## art:2.2.3.7.1 — Seguridad y Restricciones en la Difusión de Productos de Inteligencia y Contrainteligencia
 
 Los organismos y dependencias de inteligencia y contrainteligencia deberán para los casos de difusión de productos de inteligencia y contrainteligencia a los receptores autorizados por la ley, indicar la reserva legal a la que está sometida la información y expresar, al receptor autorizado de la misma, si se trata de un producto de inteligencia o contrainteligencia "de solo conocimiento" o "de uso exclusivo", teniendo como referencia las siguientes restricciones para cada caso, así:
@@ -2747,8 +2533,6 @@ No se entregarán productos de inteligencia y contrainteligencia a aquellas auto
 El documento con el cual se traslade la reserva legal de la información, a las autoridades competentes o receptores autorizados, deberá especificar la prohibición de emitir copias o duplicados de la misma, alertando sobre las acciones penales y disciplinarias que acarrea la no observancia de lo consagrado en la ley.
 
 (Decreto 857 de 2014 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2 — Suministro de Información
 
@@ -2774,8 +2558,6 @@ CAPÍTULO 8.
 
 CENTROS DE PROTECCIÓN DE DATOS DE INTELIGENCIA Y CONTRAINTELIGENCIA.
 
-ARTÍCULO
-
 ## art:2.2.3.8.1 — Centros de Protección de Datos de Inteligencia y Contrainteligencia (CPD)
 
 Los Jefes o Directores de cada uno de los organismos de inteligencia y contrainteligencia implementarán y/o adecuarán los CPD y archivos de inteligencia y contrainteligencia, designando un responsable por cada CPD en cada una de las dependencias, según su órbita funcional, nivel de clasificación de la información, desarrollo de la función en sus actividades estratégicas, operacionales o tácticas, o sus equivalentes, en cada uno de los organismos que hacen parte de la comunidad de inteligencia.
@@ -2783,8 +2565,6 @@ Los Jefes o Directores de cada uno de los organismos de inteligencia y contraint
 Los Jefes o Directores de inteligencia y contrainteligencia implementarán un plan anual de capacitación, para el personal responsable y comprometido en el ingreso, permanencia, difusión y protección de la información de inteligencia y contrainteligencia, en los CPD y en los archivos respectivos, que permita dar cumplimiento a los fines, límites y principios de la Ley 1621 de 2013.
 
 (Decreto 857 de 2014 artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2 — Actualización, Corrección y Retiro de Datos y Archivos de Inteligencia
 
@@ -2802,8 +2582,6 @@ CAPÍTULO 9.
 
 MECANISMOS DE PROTECCIÓN DE LA INTEGRIDAD E IDENTIDAD DE LOS SERVIDORES PÚBLICOS DE LOS ORGANISMOS DE INTELIGENCIA Y CONTRAINTELIGENCIA.
 
-ARTÍCULO
-
 ## art:2.2.3.9.1 — Protección de la Identidad
 
 Para garantizar la protección de la identidad de los servidores públicos que desarrollan actividades de inteligencia y contrainteligencia, la Registraduría Nacional del Estado Civil, en coordinación con las Direcciones y Jefaturas de Inteligencia de las Fuerzas Militares, la Policía Nacional, la Dirección Nacional de Inteligencia y la Unidad de Información y Análisis Financiero, establecerán mecanismos, manuales de procedimiento, formas de llevar los registros, trámites ágiles para la expedición del documento de nueva identidad, control de archivos y bases de datos, entre otros aspectos, que permitan mantener sistemas adecuados, seguros, confiables y reservados, a la hora de asignar nueva identidad con cupo numérico a quienes deban realizar misiones y operaciones de inteligencia y contrainteligencia previamente autorizadas.
@@ -2818,15 +2596,11 @@ PARÁGRAFO . El Director o Jefe de Inteligencia y contrainteligencia será quien
 
 (Decreto 857 de 2014 artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.3.9.2 — Medidas de Seguridad
 
 La Registraduría Nacional del Estado Civil, en coordinación con los organismos de inteligencia y contrainteligencia, establecerá los protocolos, medidas de seguridad y mecanismos necesarios, incluyendo estudios de seguridad y pruebas de confiabilidad de los funcionarios responsables de la administración del sistema de nueva identidad, garantizando en todo momento y lugar la reserva legal.
 
 (Decreto 857 de 2014 artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.3.9.3 — 9.3
 
@@ -2847,8 +2621,6 @@ PARÁGRAFO 2. Las autoridades competentes que por razón de sus funciones conozc
 CAPÍTULO 10
 
 ESTUDIOS DE CREDIBILIDAD Y CONFIABILIDAD E INGRESO Y RETIRO DE PERSONAL DE LOS ORGANISMOS DE INTELIGENCIA Y CONTRAINTELIGENCIA.
-
-ARTÍCULO
 
 ## art:2.2.3.10.1 — Estudios de Credibilidad y Confiabilidad
 
@@ -2878,8 +2650,6 @@ CAPÍTULO 11.
 
 OTRAS DISPOSICIONES.
 
-ARTÍCULO
-
 ## art:2.2.3.11.1 — Programas de Formación y Capacitación del Personal de Inteligencia y Contrainteligencia
 
 Los organismos de inteligencia y contrainteligencia, en el marco de su naturaleza jurídica crearán, orientarán y/o implementarán programas académicos para formar, instruir, capacitar periódicamente a los servidores públicos que cumplan funciones relacionadas con las actividades de inteligencia y contrainteligencia, y expedirán los certificados de idoneidad y las constancias sobre el desarrollo y aprobación de dichos programas.
@@ -2887,8 +2657,6 @@ Los organismos de inteligencia y contrainteligencia, en el marco de su naturalez
 PARÁGRAFO . Para asegurar la formación, instrucción, capacitación y adiestramiento de los servidores públicos, los organismos que integran la comunidad de inteligencia podrán apoyarse entre sí o con otras entidades del orden nacional o internacional.
 
 (Decreto 857 de 2014 artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.3.11.2 — Asignación Presupuestal
 
@@ -2906,15 +2674,11 @@ SECCIÓN 1
 
 DE LA CREACIÓN DEL SISTEMA NACIONAL DE DEPURACIÓN DE DA ros Y ARCHIVOS DE INTELIGENCIA Y CONTRAINTELIGENCIA
 
-ARTÍCULO
-
 ## art:2.2.3.12.1.1 — Del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia
 
 Créase el Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia, denominado - "SND", como un conjunto de instancias, orientaciones, actividades, recursos, definiciones, programas e instituciones que permiten la aplicación de los principios generales y las disposiciones sobre actualización, corrección y retiro de datos y archivos de inteligencia y contrainteligencia
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.1.2 — Estructura del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia
 
@@ -2925,8 +2689,6 @@ El Sistema Nacional de Depuración "SND" estará conformado por un Consejo Direc
 SECCIÓN 2
 
 DEL CONSEJO DIRECTIVO
-
-ARTÍCULO
 
 ## art:2.2.3.12.2.1 — Del Consejo Directivo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia
 
@@ -2956,15 +2718,11 @@ PARÁGRAFO 4. La Procuraduría General de la Nación, la Defensoría del Pueblo 
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.2.2 — 2.2
 
 De la Secretaria Técnica del Consejo Directivo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia. El Consejo Directivo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia tendrá una secretaría técnica, a cargo del Viceministerio para las Políticas y Asuntos Internacionales del Ministerio de Defensa Nacional.
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.2.3 — 2.3
 
@@ -2992,8 +2750,6 @@ PARÁGRAFO 1. Las reuniones, deliberaciones, actos y documentos del Consejo Dire
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.2.4 — 2.4
 
 De las funciones de la Secretaria Técnica del Consejo Directivo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia. La Secretaría Técnica del Consejo Directivo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia tendrá las siguientes funciones.
@@ -3015,8 +2771,6 @@ De las funciones de la Secretaria Técnica del Consejo Directivo del Sistema Nac
 SECCIÓN 3
 
 DEL CONSEJO TÉCNICO
-
-ARTÍCULO
 
 ## art:2.2.3.12.3.1 — 3.1
 
@@ -3044,15 +2798,11 @@ PARÁGRAFO 3. La documentación que se genere con ocasión de las actividades de
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.3.2 — 3.2
 
 De la Secretaria Técnica del Consejo Técnico del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia. El Consejo Técnico del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia tendrá una secretaría técnica, a cargo del Director de Producción Estratégica DIPES, de la Jefatura de Inteligencia y Contrainteligencia Militar Conjunta del Comando General de las Fuerzas Militares o quien haga sus veces
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.3.3 — 3.3
 
@@ -3080,8 +2830,6 @@ PARÁGRAFO 1. Las reuniones, deliberaciones, actos y documentos del Consejo Téc
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.3.4 — 3.4
 
 De las funciones de la Secretaria Técnica del Consejo Técnico del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia. La Secretaría Técnica del Consejo Técnico del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia tendrá las siguientes funciones:
@@ -3103,8 +2851,6 @@ De las funciones de la Secretaria Técnica del Consejo Técnico del Sistema Naci
 SECCIÓN 4
 
 DEL CONSEJO OPERATIVO
-
-ARTÍCULO
 
 ## art:2.2.3.12.4.1 — Del Consejo Operativo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia
 
@@ -3130,15 +2876,11 @@ PARÁGRAFO 3. La documentación que se genere con ocasión de las actividades de
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.4.2 — 4.2
 
 De la Secretaria Técnica del Consejo Operativo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia. El Consejo Operativo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contra inteligencia tendrá una secretaría técnica, a cargo del responsable del Centro de Protección de Datos de la Dirección de Inteligencia Policial.
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.4.3 — 4.3
 
@@ -3168,8 +2910,6 @@ PARÁGRAFO 1. Las reuniones, deliberaciones, actos y documentos del Consejo Oper
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.4.4 — 4.4
 
 De las funciones de la Secretaria Técnica del Consejo Operativo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia. La Secretaría Técnica del Consejo Operativo del Sistema Nacional de Depuración de Datos y Archivos de Inteligencia y Contrainteligencia tendrá las siguientes funciones:
@@ -3192,23 +2932,17 @@ SECCIÓN 5
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.2.3.12.5.1 — Conformación de equipos interdisciplinarios
 
 Cada uno de los organismos de inteligencia y contrainteligencia podrá conformar equipos interdisciplinarios integrados por expertos en las siguientes disciplinas: archivística, sociología, memoria histórica, inteligencia, contrainteligencia, derecho, derechos humanos, derecho internacional humanitario, politólogos, relaciones internacionales, economía, finanzas, entre otras ciencias o disciplinas académicas que se requieran, con el fin que sirvan de apoyo al proceso de actualización, corrección y retiro, en especial, para que efectúen el estudio, revisión, evaluación y emisión del concepto correspondiente de aquellos datos o archivos que se deban retirar, así como para la construcción de las versiones editadas que sean requeridas por las autoridades competentes, cuando la información que goza de reserva legal deba ser anonimizada, en especial, fuentes, agentes, medios, métodos, procesos, procedimientos y en aquellos casos que puedan poner en riesgo la vida o integridad de los ciudadanos.
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.5.2 — Designación de los funcionarios de enlace en cada uno de los organismos de inteligencia y contrainteligencia
 
 Cada organismo de inteligencia y contrainteligencia de la comunidad de inteligencia designará un (1) funcionario responsable de las coordinaciones y enlaces que se requieran para garantizar la entrega y traslado de la reserva legal de la información, a los receptores legales, de los archivos de inteligencia y contrainteligencia que deban ser retirados.
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.5.3 — 5.3
 
@@ -3230,8 +2964,6 @@ Criterios para los procedimientos de actualización, corrección y retiro de dat
 
 8 La forma en que los procedimientos de actualización, corrección y retiro se adelanten y registren en cada organismo de inteligencia y contrainteligencia, se adoptará teniendo en cuenta los recursos humanos, científicos, técnicos, tecnológicos y presupuestales disponibles.
 
-ARTÍCULO
-
 ## art:2.2.3.12.5.4 — Protocolo para la actualización, corrección y retiro de datos y archivos de inteligencia y contrainteligencia
 
 Los organismos de inteligencia y contrainteligencia que conforman la comunidad de inteligencia deberán.
@@ -3244,15 +2976,11 @@ Los organismos de inteligencia y contrainteligencia que conforman la comunidad d
 
 (Decreto 2149 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.12.5.5 — Entrega de datos y archivos de inteligencia y contrainteligencia que sean retirados
 
 Cada uno de los organismos de inteligencia y contrainteligencia que conforman la comunidad de inteligencia deberá entregar los datos y archivos de inteligencia y contrainteligencia que sean retirados, al Archivo General de la Nación, para su administración, custodia y preservación, trasladando la reserva legal de la información retirada y protegiendo aquellos datos que puedan poner en riesgo la seguridad y defensa nacional, fuentes, agentes, medios, métodos, procesos o procedimientos de inteligencia y contrainteligencia.
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.5.6 — Recibo, acceso y protección de los datos y archivos de inteligencia y contrainteligencia que sean retirados
 
@@ -3263,8 +2991,6 @@ El Archivo General de la Nación establecerá los protocolos de seguridad y traz
 El efecto presupuestal que se deriva de la aplicación de los artículos 2.2.3.12.5.5., 2.2.3.12.5.6 y 2.2.3.12.5.7, será asumido por cada uno de los organismos que integran la comunidad de inteligencia y, cuando se requiera, cada organismo en relación con los archivos que deba retirar podrá suscribir un convenio con el Archivo General de la Nación
 
 (Decreto 2149 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.12.5.7 — Archivos de inteligencia, contrainteligencia y gastos reservados del extinto D.A.S
 
@@ -3300,8 +3026,6 @@ PARÁGRAFO 2. El permiso para porte de las armas a que se refiere el presente ar
  
  Antes de la modicación
 
- ARTÍCULO
-
 ## art:2.2.4.1.2 — Autorización
 
 Conforme al parágrafo 3o. del artículo 9o. del Decreto 2535 de 1993, el Comité de Armas del Ministerio de Defensa Nacional, podrá autorizar el porte de armas de uso restringido así:
@@ -3315,8 +3039,6 @@ c) Miembros del Nivel Ejecutivo y agentes de la Policía Nacional en servicio ac
 d) Los departamentos de Seguridad podrán tener un arma por cada cinco miembros, sin que las mismas puedan exceder cuatro por escolta, en desempeño y ejercicio de sus actividades como tal.
 
 (Decreto 1809 de 1994 artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3 — Transporte
 
@@ -3336,8 +3058,6 @@ c) Llevar el arma y proveedor descargados, en diferentes embalajes.
 
 (Decreto 1809 de 1994 artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.1.4 — Coleccionistas y Deportistas
 
 A los coleccionistas y deportistas debidamente registrados, por índole de su afición o práctica deportiva, se les expedirán permisos de tenencia.
@@ -3345,8 +3065,6 @@ A los coleccionistas y deportistas debidamente registrados, por índole de su af
 PARÁGRAFO : Para todos los efectos legales, las armas de fabricación anterior al año 1900, no requieren permiso de tenencia ni de porte, sin embargo deberán tener credencial expedida por el Comando General de las Fuerzas Militares.
 
 (Decreto 1809 de 1994 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.5 — Polígonos
 
@@ -3380,8 +3098,6 @@ Del polígono únicamente podrán hacer uso, las personas que tengan vigente el 
 
 (Decreto 1809 de 1994 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.1.6 — Sesiones
 
 El Comité de Armas del Ministerio de Defensa Nacional a que se refiere el artículo 31 del Decreto 2535 del 1993, se reunirá ordinariamente una vez al mes, previa convocatoria del Secretario del Comité y extraordinariamente, a solicitud de cualquiera de los miembros del mismo por conducto del Secretario.
@@ -3393,8 +3109,6 @@ A las sesiones del Comité, podrán asistir en calidad de invitados personas cuy
 El Comité podrá sesionar válidamente con la asistencia de cinco de sus miembros y de las decisiones se tomarán la mayoría.
 
 (Decreto 1809 de 1994 artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.1.7 — Expedición y Revalidación de Permisos
 
@@ -3413,8 +3127,6 @@ e) Recomendar políticas generales en materia de adquisición de armas y sobre l
 f) Expedir el reglamento para adelantar el control sobre los elementos requeridos para uso industrial, que sin serlo individualmente, en conjunto, conformar sustancias explosivas y sobre los elementos que sin serlo de manera original, mediante un proceso pueden transformarse en explosivos.
 
 (Decreto 1809 de 1994 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.1.8 — Certificado Médico
 
@@ -3482,8 +3194,6 @@ PARÁGRAFO : Exceptuase de certificado médico de aptitud psicofísica, al perso
 
 (Decreto 1809 de 1994 artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.1.9 — Procedimiento
 
 Para los efectos del artículo 37 del Decreto 2535 de 1993, establécese (sic) el siguiente procedimiento:
@@ -3504,15 +3214,11 @@ c) El impuesto social a las armas y municiones consagrado en el artículo 224 de
 
 (Decreto 1809 de 1994 artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.4.1.10 — Cesión de Armas
 
 Cuando se trate de la cesión de armas de uso restringido entre las personas contempladas en el parágrafo del artículo 45 del Decreto 2535 de 1993, deberá acompañarse prueba documental que acredite el parentesco.
 
 (Decreto 1809 de 1994 artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.4.1.11 — .11
 
@@ -3588,8 +3294,6 @@ d) Ubicación exacta del lugar donde se utilizarán
 
 (Decreto 1809 de 1994 artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.4.1.12 — Usuarios
 
 En desarrollo de lo previsto en el parágrafo 3o. del artículo 51 del Decreto 2535 de 1993, para efectos de control de la Nitrocelulosa que contenga no menos del 25% de alcohol por peso y no exceda del 12.6% de Nitrógeno por peso seco, o con no menos del 18% de sustancia plastificante por peso y no exceda del 12,6% de Nitrógeno por peso seco, o con no menos del 25% de agua por peso, el Departamento de Control Comercio Armas, Municiones y Explosivos del Comando General de las Fuerzas Militares, está facultado para requerir y recibir de las personas que usen o comercialicen dicho material, las siguiente información.
@@ -3626,15 +3330,11 @@ g) Lugar de almacenamiento de la Nitrocelulosa.
 
 (Decreto 1809 de 1994 artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.4.1.13 — Nitrocelulosa
 
 Los importadores, comercializadores o usuarios de la Nitrocelulosa a que se refiere el artículo anterior, están obligados a llevar un registro detallado de consumo, sí son consumidores o del Nombre, Nit, y Dirección de los compradores con las cantidades y fechas de cada venta, si son importadores o comercializadores. Estos registros deberán coincidir con sus libros oficiales de contabilidad.
 
 (Decreto 1809 de 1994 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.1.14 — Planes de Compras
 
@@ -3642,23 +3342,17 @@ Los planes anuales tanto de compras como de ventas requeridos, deberán ser envi
 
 (Decreto 1809 de 1994 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.4.1.15 — Informes de Ejecución
 
 Los informes de ejecución trimestral requeridos en el artículo 12 deberán ser enviados al Departamento de Control Comercio Armas, Municiones y Explosivos del Comando General de las Fuerzas Militares, dentro de los diez (10) primeros días de los meses de enero, abril, julio y octubre de cada año.
 
 (Decreto 1809 de 1994 artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.4.1.16 — Licencias de Importación
 
 Con el objeto de cotejar la información recibida de los importadores el Departamento de Control Comercio Armas, Municiones y Explosivos de las Fuerzas Militares, pedirá al lncomex, las licencias de importación del respectivo trimestre.
 
 (Decreto 1809 de 1994 artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.4.1.17 — Almacenamiento de Nitrocelulosa
 
@@ -3667,8 +3361,6 @@ Corresponde a los Alcaldes, como suprema autoridad de Policía de sus respectiva
 Para este fin, el Departamento de Control Comercio Armas, Municiones y Explosivos del Comando General de las Fuerzas Militares, con base en la información recibida oficiará a los Alcaldes, indicando el nombre y dirección del importador, Comercializador o usuario de la Nitrocelulosa.
 
 (Decreto 1809 de 1994 artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.4.1.18 — Transporte de Explosivos
 
@@ -3691,8 +3383,6 @@ AEREO:
 - Los mismos requisitos mencionados anteriormente y además la autorización previa de la Aeronáutica Civil, en donde en forma expresa se haga claridad de tipo de material que autoriza transportar.
 
 (Decreto 1809 de 1994 artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.4.1.19 — Importación y Exportación de Armas
 
@@ -3734,8 +3424,6 @@ b) Concepto favorable expedido por el Comandante de Brigada, Unidad Táctica, Ba
 
 (Decreto 1809 de 1994 artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.4.1.20 — Permisos de Exportación e Importación de Armas
 
 De conformidad con el artículo 58 del Decreto 2535 de 1993, el Comando General de las Fuerzas Militares, podrá expedir y revalidar permisos de exportación e importación temporal, de armas y municiones deportivas o de cacería, a tiradores que salgan o entren al país, con el propósito de participar en competencias internacionales, actividades de caza y arreglos o reparaciones de las mismas.
@@ -3743,8 +3431,6 @@ De conformidad con el artículo 58 del Decreto 2535 de 1993, el Comando General 
 PARÁGRAFO : Cuando se trate de cacería deberá contarse con la autorización previa del Ministerio del Medio Ambiente de Colombia, y acreditar la afiliación a la Federación Colombiana de Tiro y Caza, requisitos sin los cuales el Comando General de las Fuerzas Militares, se abstendrá de expedir la correspondiente autorización.
 
 (Decreto 1809 de 1994 artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.4.1.21 — Fábricas de Pólvora
 
@@ -3818,8 +3504,6 @@ PARÁGRAFO . El permiso de funcionamiento de los Talleres de Armería y Fábrica
 
 (Decreto 1809 de 1994 artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.4.1.22 — Requisitos de Afiliación para Clubes de Tiro y Caza
 
 Para la afiliación de un Club a la Federación Colombiana de Tiro y Caza, en desarrollo de lo dispuesto en el artículo 63 del Decreto 2535 de 1993, los interesados deberán adjuntar los siguientes documentos.
@@ -3852,15 +3536,11 @@ PARÁGRAFO 4. Para la construcción de Polígonos y depósitos de armamento, los
 
 (Decreto 1809 de 1994 artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.4.1.23 — Control
 
 Para los efectos de lo dispuesto en el artículo 64 del Decreto 2535 de 1993, los Comandantes de Unidades Operativas o Tácticas o sus equivalentes en la Armada Nacional o la Fuerza Aérea, anualmente inspeccionarán las armas y municiones que posean los integrantes de los Clubes de Tiro y Caza, los coleccionistas de armas y las Empresas de Vigilancia y Departamentos de Seguridad que existan en su jurisdicción, con el propósito de verificar el cumplimiento de las normas legales sobre la materia.
 
 (Decreto 1809 de 1994 artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.4.1.24 — Venta
 
@@ -3868,15 +3548,11 @@ Para efectos de lo previsto en el artículo 66 del Decreto 2535 de 1993, la vent
 
 (Decreto 1809 de 1994 artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.4.1.25 — Devolución de Armas
 
 La Federación Colombiana de Tiro y Caza, por conducto del Club de Tiro al Cual pertenezca el socio, entregará las armas y municiones autorizadas del socio suspendido o retirado, a la autoridad militar a que hace referencia el artículo 69 del Decreto 2535 de 1993.
 
 (Decreto 1809 de 1994 artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.4.1.26 — Coleccionistas
 
@@ -3899,8 +3575,6 @@ d) Concepto sobre medidas de seguridad, de acuerdo con lo estipulado en el prese
 4. Concepto favorable del Comité de Armas del Ministerio de Defensa Nacional.
 
 (Decreto 1809 de 1994 artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.4.1.27 — Medidas de Seguridad de los Coleccionistas
 
@@ -3930,8 +3604,6 @@ d) Las partes que se retiren, de acuerdo con los numerales anteriores, deberán 
 
 (Decreto 1809 de 1994 artículo 27)
 
-ARTÍCULO
-
 ## art:2.2.4.1.28 — Creación de Asociaciones
 
 Quienes pretendan crear Asociaciones de coleccionistas de Armas, en los términos del artículo 73 del Decreto 2535 del 1993, deberán presentar solicitud al Comando General de las Fuerzas Militares y obtener concepto favorable del Comité de Armas del Ministerio de Defensa, debiendo acreditar los siguientes requisitos:
@@ -3948,8 +3620,6 @@ Quienes pretendan crear Asociaciones de coleccionistas de Armas, en los término
 
 (Decreto 1809 de 1994 artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.4.1.29 — Seguridad Privada
 
 Cuando los servicios de vigilancia y seguridad privada, requieran prestar servicios de escoltas con armas de fuego, deberán acreditar ante la Superintendencia de Vigilancia y Seguridad Privada los requisitos a que se refiere el literal e) del artículo 34 del Decreto 2535 de 1993, respecto de las personas escoltadas.
@@ -3958,15 +3628,11 @@ La escolta para vehículos y mercancía se justificará, de acuerdo con las circ
 
 (Decreto 1809 de 1994 artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.4.1.30 — Venta de Munición Entidades de Seguridad Privada
 
 Las autoridades militares competentes y con el propósito de facilitar la idoneidad para el uso de armas contemplada en el artículo 78 del Decreto 2535 de 1993, podrán autorizar la venta de munición a las entidades dedicadas a la formación y entrenamiento de personal de seguridad privada, en las cantidades que para el efecto fije el Comando General de las Fuerzas Militares, en consideración a los programas y horarios de prácticas de polígono que estas programen.
 
 (Decreto 1809 de 1994 artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.4.1.31 — Multas
 
@@ -3976,15 +3642,11 @@ Las autoridades Militares o de Policía Nacional que impongan multa deben remiti
 
 (Decreto 1809 de 1994 artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.4.1.32 — Material Decomisado
 
 El material decomisado a que se refiere el artículo 93 del Decreto 2535 de 1993, deberá ser remitido al Comando General de las Fuerzas Militares, cuando el mismo no esté vinculado a proceso penal o civil alguno.
 
 (Decreto 1809 de 1994 artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.4.1.33 — Salvoconductos
 
@@ -4006,8 +3668,6 @@ d) El solicitante conservará copia del recibo de pago y el "permiso provisional
 
 (Decreto 1809 de 1994 artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.4.1.34 — Términos
 
 Los términos de días y meses señalados en este Capítulo, se contabilizarán conforme al calendario.
@@ -4017,8 +3677,6 @@ Los términos de días y meses señalados en este Capítulo, se contabilizarán 
 CAPÍTULO 2.
 
 REGLAMENTACIÓN PARCIAL DE LA LEY 80 DE 1993
-
-ARTÍCULO
 
 ## art:2.2.4.2.1 — Arma y Municiones Inservibles
 
@@ -4034,15 +3692,11 @@ CAPÍTULO 3.
 
 PORTE Y TENENCIA DE ARMAS
 
-ARTÍCULO
-
 ## art:2.2.4.3.1 — Prohibiciones
 
 Prohíbese (sic) el porte y transporte de armas en motocicletas, motocarros, y mototriciclos.
 
 (Decreto 514 de 2007 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2 — Medidas para Garantizar el Cumplimiento
 
@@ -4052,15 +3706,11 @@ PARÁGRAFO . Las autoridades de que trata este artículo podrán ampliar la proh
 
 (Decreto 514 de 2007 artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.4.3.3 — Objeto
 
 El presente Decreto tendrá como objeto la clasificación y regulación de las armas traumáticas.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4 — Regulación
 
@@ -4068,15 +3718,11 @@ Las armas traumáticas como armas menos letales se regirán estrictamente por la
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.5 — Ámbito de aplicación
 
 El presente Decreto se aplica a todas las personas naturales, personas jurídicas y a los servicios de vigilancia y seguridad privada, de conformidad con lo establecido en la presente norma, con excepción de la Fuerza Pública, en el cumplimiento de su misión Constitucional, Legal y Reglamentaria.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.6 — Armas traumáticas
 
@@ -4090,8 +3736,6 @@ Las armas traumáticas se clasificarán como:
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.7 — Permiso para la tenencia y/o porte de armas traumáticas de uso civil de defensa personal
 
 Los particulares, previo permiso de autoridad competente, podrán tener y/o portar las armas traumáticas de uso civil que están establecidas en el numeral 3 del artículo 2.2.4.3.6. del presente Decreto, y conforme a las cantidades autorizadas en los artículos 22 y 23 del Decreto Ley 2535 de 1993.
@@ -4099,8 +3743,6 @@ Los particulares, previo permiso de autoridad competente, podrán tener y/o port
 PARÁGRAFO . Se podrá solicitar permiso especial para porte conforme a la Directiva 01 de 2021 o la reglamentación que esté vigente, ante la autoridad competente en los términos establecidos en las directrices del Ministerio de Defensa Nacional, cuando exista una medida de restricción por parte del Gobierno Nacional o de la autoridad militar competente, para lo cual el arma traumática deberá contar previamente con el permiso para porte vigente.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.8 — Procedimiento de Marcaje o registro durante la Transición
 
@@ -4136,8 +3778,6 @@ PARÁGRAFO 3. El procedimiento de marcaje o registro del arma traumática hará 
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.9 — Entrega de armas traumáticas
 
 A partir de la expedición de este Decreto y hasta dentro de los 6 meses siguientes a su publicación, las personas naturales o jurídicas titulares de armas traumáticas que cumplan con las características de armas de guerra o uso privativo y de uso restringido, deberán entregarlas al Estado, so pena de su incautación y judicialización. La entrega se hará por medio del Departamento Control Comercio de Armas, Municiones y Explosivos del Comando General de las Fuerzas Militares y/o Seccionales Control Comercio de Armas a nivel nacional, sin recibir contraprestación alguna.
@@ -4148,15 +3788,11 @@ PARÁGRAFO 2. El material recibido en el Departamento Control Comercio de Armas,
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.10 — Tiempos establecidos para el marcaje o registro de las armas traumáticas
 
 Las personas naturales o jurídicas que tengan armas traumáticas deberán realizar el marcaje de estas ante la autoridad competente en un plazo de ocho (8) meses contados a partir de que entre en funcionamiento y operación el procedimiento que para ello establezca INDUMIL. Después de dicho proceso, contarán con ocho (8) meses adicionales para presentar la solicitud de permiso de tenencia y/o porte, este término se contará a partir del marcaje y registro de cada arma traumática.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.11 — Requisitos para la solicitud de permiso de porte y/o tenencia de las armas traumáticas
 
@@ -4174,15 +3810,11 @@ La autoridad militar competente verificará el cumplimiento de requisitos y la j
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.12 — Costos para el ciudadano
 
 El solicitante deberá pagar los valores asociados a la expedición del permiso de acuerdo con lo establecido en la normativa vigente.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.13 — Tiempo para entrega de permiso
 
@@ -4190,15 +3822,11 @@ Una vez el solicitante se presente el día de la cita y haya realizado el pago d
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.14 — Autorización a entregar al ciudadano
 
 El ciudadano recibirá por la realización del trámite, el respectivo permiso de tenencia y/o porte del arma traumática, cuando cumpla con todos los requisitos establecidos en el presente Decreto.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.15 — Canales de atención
 
@@ -4206,15 +3834,11 @@ Los canales de atención para realizar el trámite serán los establecidos por e
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.3.16 — Cesión
 
 Toda arma clasificada como traumática de acuerdo con lo establecido en el numeral 3 del artículo 2.2.4 .3.6. del presente Decreto, podrá ser cedida según lo dispuesto en el artículo 96 del Decreto Ley 0019 de 2012 el cual modifico el Decreto Ley 2535 de 1993.
 
 (Adicionado por el Art. 1 del Decreto 1417 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.3.17 — Régimen de transición para el comercio de las armas traumáticas
 
@@ -4822,15 +4446,11 @@ CAPITULO 1.
 
 ÁMBITO DE APLICACIÓN Y DEFINICIONES.
 
-ARTÍCULO
-
 ## art:2.2.5.1.1 — Objeto y Ámbito de Aplicación
 
 El presente Título tiene por objeto reglamentar la utilización a título protector del emblema de la Cruz Roja por parte del personal sanitario al servicio de la Fuerza Pública y del personal sanitario civil autorizado por el Ministerio de la Protección Social, así como de sus unidades y medios de transporte sanitarios destinados exclusivamente a la asistencia, búsqueda y transporte de heridos, enfermos y náufragos.
 
 (Decreto 138 de 2005 artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2 — Alcance
 
@@ -4862,8 +4482,6 @@ CAPÍTULO 2.
 
 DEL PERSONAL SANITARIO DE LA FUERZA PÚBLICA.
 
-ARTÍCULO
-
 ## art:2.2.5.2.1 — Uso del Emblema a Título Protector por parte del Personal Sanitario y Religioso
 
 En desarrollo de lo establecido en el Anexo 1, del Protocolo 1, adicional a los Convenios de Ginebra, bajo el control del Ministerio de Defensa Nacional, a través de la Dirección General de Sanidad Militar y de la Dirección de Sanidad de la Policía Nacional, el personal sanitario y religioso de la Fuerza Pública, tanto en tiempo de paz como en tiempo de conflicto armado, utilizarán el emblema de la Cruz Roja.
@@ -4871,8 +4489,6 @@ En desarrollo de lo establecido en el Anexo 1, del Protocolo 1, adicional a los 
 El personal sanitario y religioso se identificará mediante un brazalete cuyo modelo único será confeccionado en material impermeable, de color negro de 50 cms de longitud por 12 cms de ancho, que en el centro contendrá un cuadrado blanco de 9 cms de lado, en cuyo interior se bordará la Cruz Hoja de 8 cms de longitud, formada por dos bandas de las mismas dimensiones de ancho, una horizontal y otra vertical, que se cruzan por la mitad formando cinco cuadrados exactos, indicando en la parte inferior-exterior del cuadrado blanco, el nombre de la Fuerza a la cual pertenece quien lo porta.
 
 (Decreto 138 de 2005 artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.5.2.2 — Uso del Emblema a Título Protector en Unidades y Medios de Transporte Sanitario
 
@@ -4897,8 +4513,6 @@ Todo el material entregado estará sometido a los controles establecidos en el a
 7. Las unidades y medios de transporte sanitarios podrán utilizar además, señales distintivas tales como la señal luminosa, la señal de radio o la identificación por medios electrónicos.
 
 (Decreto 138 de 2005 artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.5.2.3 — Tarjeta de Identificación para el Personal Sanitario de la Fuerza Pública
 
@@ -4948,8 +4562,6 @@ e) Policía Nacional Director Sanidad Policía
 
 (Decreto 138 de 2005 artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.5.2.4 — Medidas de Control
 
 Con el fin de controlar el uso del emblema de la Cruz Roja, se adelantarán las siguientes acciones:
@@ -4974,15 +4586,11 @@ CAPÍTULO 3.
 
 USO DEL EMBLEMA DE LA CRUZ ROJA POR PARTE DEL PERSONAL SANITARIO CIVIL
 
-ARTÍCULO
-
 ## art:2.2.5.3.1 — Uso del Emblema a Título Protector por parte del Personal Sanitario Civil
 
 En tiempo de conflicto armado o en zona de conflicto armado, el personal sanitario civil autorizado por el Ministerio de la Protección Social, para portar el emblema de la Cruz Roja a título protector podrá emplearlo en brazaletes, petos, chalecos u otras prendas de vestir, siempre procurando que sea lo más visible posible.
 
 (Decreto 138 de 2005 artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.5.3.2 — Tarjeta de Identificación y Brazalete
 
@@ -5016,15 +4624,11 @@ Firma de la autoridad que expide la tarjeta.
 
 (Decreto 138 de 2005 artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.5.3.3 — Uso del Emblema a Título Protector en Unidades y Medios de Transporte Sanitarios Civiles
 
 En tiempo de conflicto armado o en zona de conflicto armado, las unidades y medíos de transporte civiles, autorizados para portar el emblema de la Cruz Roja a título protector, podrán emplearlo en banderas o en medios de fácil remoción, los cuales deberán ser visibles a distancia y en horarios nocturnos se podrán iluminar o emplear materiales reflectivos
 
 (Decreto 138 de 2005 artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.5.3.4 — De los Requisitos Técnicos
 
@@ -5034,15 +4638,11 @@ PARÁGRAFO . Para unificar la tonalidad del color rojo se recomienda tomar como 
 
 (Decreto 138 de 2005 artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.5.3.5 — De la Autorización
 
 El emblema de la Cruz Roja a título protector únicamente será autorizado expresamente, para identificar al personal, unidades y medios de transporte sanitarios civiles, en situaciones o actividades específicas, cuando realicen labores humanitarias de atención de víctimas del conflicto armado, misiones concretas de salud pública o de atención de una emergencia o desastre en zonas de conflicto armado. El Ministerio de la Protección Social, adoptará el formato para la solicitud y autorización del uso del emblema de la Cruz Roja a título protector, que hace parte integral del presente Título, que deberá incluir el tipo de actividad, las zonas geográficas a donde se realizará, el período de tiempo, nombres e identificación del personal sanitario civil, las unidades y medios de transporte sanitarios civiles involucrados.
 
 (Decreto 138 de 2005 artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.5.3.6 — Medidas de Control
 
@@ -5062,8 +4662,6 @@ CAPÍTULO 4.
 
 DISPOSICIONES FINALES.
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — Sanciones
 
 Los miembros de la Fuerza Pública, que abusen del emblema de la Cruz Roja, en los términos consagrados en el artículo 2.2.5.3.2, del presente Título, sin perjuicio de la acción penal, en su condición de servidores públicos, incurrirán, además, en falta gravísima de acuerdo con lo establecido en la Ley 1015 de 2006, por medio de la cual se expide el Régimen Disciplinario para la Policía Nacional y el numeral 34 del artículo 58 de la Ley 836, del 16 de julio de 2003 Reglamento de Régimen Disciplinario para las Fuerzas Militares en concordancia con el numeral 7, artículo 48 de la Ley 734 de 2002 Código Disciplinario Único, o las normas que hagan sus veces.
@@ -5071,8 +4669,6 @@ Los miembros de la Fuerza Pública, que abusen del emblema de la Cruz Roja, en l
 Respecto a su personal sanitario civil autorizado, el Ministerio de la Protección Social ejercerá su potestad disciplinaria en caso de uso indebido o abuso del emblema. Los servidores públicos del sector salud, que abusen del emblema de la Cruz Roja, en los términos consagrados en el presente Título, sin perjuicio de la acción penal, incurrirán, además en falta gravísima de acuerdo con lo establecido en el numeral 7, artículo 48 de la Ley 734 de 2002 Código Disciplinario Único, o las normas que hagan sus veces.
 
 (Decreto 138 de 2005 artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2 — 4.2
 
@@ -5082,15 +4678,11 @@ El Ministerio de la Protección Social continuará con sus programas de difusió
 
 (Decreto 138 de 2005 artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3 — 4.3
 
 Inclusión en la Doctrina Militar y Policial de las Normas Relativas al Uso y Protección del Emblema de la Cruz Roja y otras Señales Distintivas. El Ministerio de Defensa Nacional, a través del Comando General de las Fuerzas Militares y la Dirección General de la Policía Nacional, tomará las medidas pertinentes con el fin de incluir en la doctrina militar y policial, las normas relacionadas con el uso y protección del emblema de la Cruz Roja y otras señales distintivas. A su vez, la Dirección General de Sanidad Militar y la Dirección de Sanidad de la Policía Nacional, elaborarán un glosario de términos, de actualización permanente, relacionado con dichas normas.
 
 (Decreto 138 de 2005 artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.5.4.4 — Garantías
 
@@ -5102,15 +4694,11 @@ Las personas a que se refiere el inciso anterior, que en cumplimiento del deber 
 
 REGULACIÓN, REGISTRO Y CONTROL DE LA IMPORTACIÓN Y MOVILIZACIÓN DE LA MAQUINARIA CLASIFICABLE EN LAS SUBPARTIDAS 8429.11.00.00,8429.19.00.00, 8429.51.00.00, 8429.52.00.00, 8429.59.00.00, 8431.41.00.00,8431.42.00.00 Y 8905.10.00.00 DEL ARANCEL DE ADUANAS Y SE DICTAN OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.6.1 — Objeto
 
 El presente título establece controles a la maquinaria y sus partes clasificada bajo las subpartidas arancelarias 8429.11.00.00, 8429.19.00.00, 8429.51.00.00,8429.52.00.00, 8429.59.00.00, 8431.41.00.00, 8431.42.00.00 y 8905.10.00.00.
 
 (Decreto 723 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2 — Intercambio de información
 
@@ -5118,15 +4706,11 @@ La Dirección de Impuestos y Aduanas Nacionales - DIAN y el Ministerio de Defens
 
 (Decreto 723 de 2014, art.2)
 
-ARTÍCULO
-
 ## art:2.2.6.3 — Importación de mercancías usadas
 
 La importación de mercancías usadas clasificadas en las subpartidas mencionadas en el artículo 2.2.6.1., del presente Título estará sujeta al régimen de licencia previa en los términos del Decreto 925 de 2013, o la norma que lo compile, modifique o sustituya.
 
 (Decreto 723 de 2014, art.3)
-
-ARTÍCULO
 
 ## art:2.2.6.4 — Lugares habilitados para el ingreso de maquinaria
 
@@ -5134,15 +4718,11 @@ La DIAN establecerá mediante acto administrativo, los puertos habilitados para 
 
 (Decreto 723 de 2014, art.4)
 
-ARTÍCULO
-
 ## art:2.2.6.5 — Declaración de importación anticipada
 
 La DIAN establecerá la obligatoriedad de presentar declaración de importación anticipada, sin importar origen o procedencia, para las mercancías descritas en el artículo 2.2.6.1., del presente Título.
 
 (Decreto 723 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.6.6 — Registro de la maquinaria
 
@@ -5160,15 +4740,11 @@ PARÁGRAFO 2. La maquinaria que no cumpla con los requisitos exigidos en el pres
 
 (Decreto 723 de 2014, art.6)
 
-ARTÍCULO
-
 ## art:2.2.6.7 — Documentos soportes de la operación
 
 Se considerarán como documentos públicos y que soportan la operación del vehículo, aquellos que sean necesarios para la ejecución y cumplimiento de las disposiciones establecidas en el presente Título. El incumplimiento en el porte y presentación de los documentos a los que se hace alusión dará lugar a inmovilización.
 
 (Decreto 723 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.6.8 — Vías autorizadas
 
@@ -5180,8 +4756,6 @@ PARÁGRAFO . Los actos administrativos que hayan sido expedidos en cumplimiento 
 
 (Decreto 723 de 2014, art.8)
 
-ARTÍCULO
-
 ## art:2.2.6.9 — Guía de movilización de maquinaria
 
 El Ministerio de Transporte a través del registro único nacional de tránsito, expedirá el documento "Guía de movilización o tránsito", que habilita la movilización o tránsito de las maquinarias descritas en las subpartidas arancelarias 8429.11.00.00, 8429.19.00.00, 8429.51.00.00, 8429.52.00.00, 8429.59.00.00 y 8905.10.00.00, previo registro del propietario, identificación de la maquinaria o de sus partes, color, uso y destino en el registro único nacional de tránsito.
@@ -5189,8 +4763,6 @@ El Ministerio de Transporte a través del registro único nacional de tránsito,
 Este documento será exigible por la fuerza pública o la autoridad de tránsito competente en los puntos de control establecidos en las vías y horarios autorizados.
 
 (Decreto 723 de 2014, art.9)
-
-ARTÍCULO
 
 ## art:2.2.6.10 — Condiciones generales del sistema de posicionamiento global
 
@@ -5200,15 +4772,11 @@ Cada vez que se realice un cambio de dispositivo por cualquier causa, el propiet
 
 (Decreto 723 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.6.11 — Responsabilidad sobre la información
 
 El proveedor del servicio es responsable de la autenticidad, exactitud y validez del servicio, que deberá prestarse de forma permanente e ininterrumpida.
 
 (Decreto 723 de 2014, art.11)
-
-ARTÍCULO
 
 ## art:2.2.6.12 — Requisitos que deben cumplir los proveedores del servicio de posicionamiento global
 
@@ -5230,23 +4798,17 @@ PARÁGRAFO . En caso de incumplimiento a lo previsto en el presente artículo se
 
 (Decreto 723 de 2014, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.6.13 — Control del mercurio utilizado en actividades de minería
 
 La fuerza pública tendrá acceso a la información contenida en el registro único nacional de importadores y comercializadores autorizados de mercurio de que tratan los artículos 4 y 5 de la Ley 1658 de 2013.
 
 (Decreto 723 de 2014, art.13)
 
-ARTÍCULO
-
 ## art:2.2.6.14 — Solicitudes en trámite
 
 Las personas naturales o jurídicas que tuvieran radicadas solicitudes al día 10 de abril de 2014 en cumplimiento del artículo 2 del Decreto 2261 de 2012 no requerirán de dicha autorización y, por lo tanto, las solicitudes en trámite serán objeto de archivo.
 
 (Decreto 723 de 2014, art.14)
-
-ARTÍCULO
 
 ## art:2.2.6.15 — Instalación del sistema de monitoreo
 
@@ -5264,8 +4826,6 @@ Generalidades
 
 (Decreto 2092 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.7.1.1 — Acreditación de la calidad de beneficiario
 
 La calidad de beneficiario de la Ley 1699 de 2013 será acreditada por medio de un carnet, el cual será solicitado por los beneficiarios y entregado sin costo alguno por el Ministerio de Defensa Nacional. En fiel y estricto cumplimiento del artículo 3 de la Ley 1699 de 2013, el Grupo de Prestaciones Sociales de la Dirección Administrativa del Ministerio de Defensa Nacional y el Área de Prestaciones Sociales de la Policía Nacional determinaron el carnet como documento para la acreditación de la población beneficiaria
@@ -5275,8 +4835,6 @@ PARÁGRAFO 1. Para todos los efectos de la Ley 1699 de 2013 la presentación del
 PARÁGRAFO 2. Los hijos de los miembros de la Fuerza Pública fallecidos, según el numeral 1 del artículo 2 de la Ley 1699 de 2013, perderán su calidad de beneficiarios al cumplir los veinticinco (25) años de edad; con excepción del beneficio en educación establecido en el artículo 4 de la citada Ley; condicionado lo anterior a que se les haya otorgado el crédito educativo previo al cumplimiento de los veinticinco (25) años de edad, y que se encuentren estudiando el programa por el cual les fue otorgado el crédito.
 
 PARÁGRAFO 3. En caso de cualquier uso o destino indebido del documento de acreditación, o su utilización por cualquier persona diferente a su titular, dará lugar a la cancelación de la acreditación como beneficiario de la Ley 1699 de 2013.
-
-ARTÍCULO
 
 ## art:2.2.7.1.2 — Personal con asignación de retiro
 
@@ -5288,8 +4846,6 @@ CAPÍTULO II
 
 Beneficios en Educación
 
-ARTÍCULO
-
 ## art:2.2.7.2.1 — Fondo en administración
 
 Se creará un Fondo en Administración mediante un convenio, suscrito entre el Ministerio de Defensa Nacional y el Icetex, cuyo fin principal será el otorgamiento de créditos educativos para financiar estudios de pregrado o de educación para el trabajo y desarrollo humano, -única y exclusivamente- para las personas establecidas como beneficiarias en el artículo 2 de la Ley 1699 de 2013; y que se encuentren en cualquiera de los estratos socioeconómicos definidos como UNO (1), DOS (2) y TRES (3) conforme a lo dispuesto en el artículo 4 de la citada Ley, el presente Decreto y demás documentos que hagan parte del Fondo.
@@ -5298,15 +4854,11 @@ PARÁGRAFO . El Ministerio de Defensa Nacional y el Icetex conformarán una Junt
 
 El Ministerio de Educación Nacional será invitado permanente a las sesiones que adelante la Junta Administradora de que trata el presente artículo.
 
-ARTÍCULO
-
 ## art:2.2.7.2.2 — Convocatoria
 
 Previo al proceso de selección para la asignación de los créditos, se realizará la respectiva convocatoria la cual estará a cargo del Icetex de acuerdo con los términos señalados en el reglamento operativo del fondo. En este sentido, la publicación de la convocatoria se hará a través de los medios de comunicación que disponga la Junta Administradora del Fondo.
 
 PARÁGRAFO . Las personas que se presenten a la convocatoria y no sean seleccionadas, podrán participar nuevamente en los futuros procesos de selección que se adelanten.
-
-ARTÍCULO
 
 ## art:2.2.7.2.3 — Crédito educativo
 
@@ -5320,13 +4872,9 @@ PARÁGRAFO 3. El Fondo cubrirá la totalidad del programa académico, incluso lo
 
 PARÁGRAFO 4. El beneficiario de la Ley 1699 de 2013, al cual se le haya adjudicado un crédito mediante el Fondo en Administración creado entre el Ministerio de Defensa y el Icetex, tendrá derecho a acceder a los cuatro rubros estipulados en el artículo 2.2.7.2.3 del presente decreto.
 
-ARTÍCULO
-
 ## art:2.2.7.2.4 — Número de créditos educativos a otorgar por cada anualidad y adjudicación
 
 El número de créditos educativos a otorgar por cada período académico estará sujeto a la disponibilidad de los recursos asignados al Fondo en cada anualidad. En este sentido, el proceso de adjudicación de los créditos estará a cargo de la Junta Administradora del Fondo, a partir de la selección y calificación realizada por el Icetex entre los aspirantes con mayores puntajes. Lo anterior hasta agotar el presupuesto disponible, protegiendo siempre la sostenibilidad de los cohortes y teniendo en cuenta los compromisos adquiridos por el Fondo.
-
-ARTÍCULO
 
 ## art:2.2.7.2.5 — Requisitos mínimos de los aspirantes a los créditos educativos
 
@@ -5348,15 +4896,11 @@ Los aspirantes a los créditos educativos deberán cumplir como mínimo con los 
 
 PARÁGRAFO . Los estudiantes que deseen acceder al Fondo y que ya hayan iniciado un programa académico, deben haber aprobado el período académico inmediatamente anterior.
 
-ARTÍCULO
-
 ## art:2.2.7.2.6 — Criterios de selección y calificación
 
 Todo el proceso de selección y calificación se llevará a cabo por el Icetex, a partir de las solicitudes recibidas y de acuerdo a los criterios que la Junta Administradora defina y señale en cada convocatoria. Lo anterior en cumplimiento con los siguientes criterios de selección que estarán estipulados en el reglamento operativo del Fondo tales como: l. Mérito académico, II. Nivel de formación académica, III Estrato socioeconómico; y, IV carácter de la Institución Educativa.
 
 PARÁGRAFO . Tratándose de aspirantes a cursar programas de pregrado, el mérito académico será evaluado por el Icetex teniendo como base los resultados que hayan obtenido estas personas en el examen de Estado de la Educación Media ICFES saber 11.
-
-ARTÍCULO
 
 ## art:2.2.7.2.7 — Legalización del crédito
 
@@ -5364,37 +4908,25 @@ Adjudicados los créditos por la Junta Administradora del Fondo, los beneficiari
 
 PARÁGRAFO . Los documentos exigidos para la legalización del crédito, se encontrarán señalados expresamente en el reglamento operativo del Fondo.
 
-ARTÍCULO
-
 ## art:2.2.7.2.8 — Duración del crédito educativo
 
 El crédito tendrá una duración equivalente a la totalidad del programa académico, incluso de los períodos adicionales si fuesen necesarios, que en todo caso no podrán superar un (1) año.
-
-ARTÍCULO
 
 ## art:2.2.7.2.9 — Programas autorizados
 
 Sin perjuicio de los demás requisitos establecidos en este Decreto, solo serán elegibles los aspirantes a cursar programas académicos de pregrado que cuenten con Registro calificado vigente o programas de educación para el trabajo y desarrollo humano registrados por las entidades certificadas en educación.
 
-ARTÍCULO
-
 ## art:2.2.7.2.10 — Renovación del crédito educativo ante el Icetex
 
 Para efectos de la renovación de los créditos para un nuevo periodo académico, el beneficiario tendrá que actualizar la información y los datos que le sean solicitados dentro de los plazos establecidos.
-
-ARTÍCULO
 
 ## art:2.2.7.2.11 — Desembolso de los créditos educativos
 
 El Icetex realizará directamente a favor de las instituciones de educación superior y las instituciones de educación para el trabajo y desarrollo humano el desembolso de los créditos por concepto de matrícula y derechos de grado (en caso que aplique al programa). Así mismo, girará directamente al beneficiario el valor por concepto de apoyo de sostenimiento, mediante el mecanismo de desembolso que establezca el Icetex.
 
-ARTÍCULO
-
 ## art:2.2.7.2.12 — Condonación de los créditos educativos
 
 Los beneficiarios de los créditos educativos podrán solicitar una vez se gradúen del respectivo programa académico, la condonación de estos créditos por el noventa por ciento (90%) de su valor total; cumpliendo -previamente- y a cabalidad con los siguientes requisitos: l. carta solicitando la condonación de los créditos; II Copia del título académico obtenido y del acta de grado o sus equivalentes en caso de ser programas de educación para el trabajo y desarrollo humano.
-
-ARTÍCULO
 
 ## art:2.2.7.2.13 — Financiación de Estudios
 
@@ -5408,15 +4940,11 @@ CAPÍTULO III
 
 Beneficios en los productos básicos de primera necesidad
 
-ARTÍCULO
-
 ## art:2.2.7.3.1 — Descuentos en grandes almacenes de cadena o grandes superficies
 
 Los grandes almacenes de cadena o grandes superficies y sus respectivas filiales, subsidiarias y sucursales a nivel nacional otorgarán descuentos en los productos básicos de primera necesidad a la población beneficiaria de la Ley 1699 de 2013, en los términos y condiciones establecidos en los artículos 2 y 5 de la Ley.
 
 PARÁGRAFO . Los beneficiarios de la Ley 1699 de 2013 al momento de hacer el pago efectivo de estos productos, deberán hacerlo personalmente y presentar el carnet junto con su documento de identidad.
-
-ARTÍCULO
 
 ## art:2.2.7.3.2 — Convenios u otras modalidades de vinculación jurídica con los grandes almacenes de cadena o grandes superficies
 
@@ -5425,8 +4953,6 @@ El Ministerio de Defensa Nacional suscribirá convenios u otras modalidades de v
 PARÁGRAFO 1. La obligación de otorgar este beneficio, es decir los descuentos en los productos básicos de primera necesidad, se hará eficaz para cada gran almacén de cadena o grande superficie a partir del sexto (06) mes contado desde del momento en que se suscriba el respectivo convenio u otra modalidad de vinculación jurídica con el Ministerio de Defensa Nacional, en los términos, condiciones y restricciones que se acuerden.
 
 PARÁGRAFO 2. El porcentaje de los descuentos en los productos básicos de primera necesidad otorgados por los grandes almacenes de cadena o grandes superficies se estipulará en cada uno de los convenios u otras modalidades de vinculación jurídica que se suscriban entre los anteriores y el Ministerio de Defensa Nacional. No será obligatorio el mismo porcentaje de descuento en todos los convenios ni en todos los productos.
-
-ARTÍCULO
 
 ## art:2.2.7.3.3 — Uso no autorizado del carnet
 
@@ -5438,13 +4964,9 @@ CAPÍTULO IV
 
 Beneficios en exhibición cinematográfica en salas de cine
 
-ARTÍCULO
-
 ## art:2.2.7.4.1 — Descuentos en exhibiciones cinematográficas en salas de cine
 
 Los exhibidores cinematográficos otorgarán descuentos del cincuenta por ciento (50%) en el valor de la boletería a los beneficiarios acreditados de la Ley 1699 de 2013, de acuerdo con las condiciones y restricciones que se señalan en el presente Decreto, conforme al artículo 7 de la misma Ley.
-
-ARTÍCULO
 
 ## art:2.2.7.4.2 — Términos, condiciones y restricciones para otorgar el descuento en exhibiciones cinematográficas en salas de cine
 
@@ -5462,8 +4984,6 @@ CAPÍTULO V
 
 Tarifa diferencial en transporte aéreo
 
-ARTÍCULO
-
 ## art:2.2.7.5.1 — Tarifa diferencial en transporte aéreo
 
 Las empresas nacionales de transporte aéreo concederán a los beneficiarios de la Ley 1699 de 2013 un descuento del diez por ciento (10%) en la tarifa más económica en cualquiera de las rutas nacionales, sin incluir impuestos.
@@ -5476,8 +4996,6 @@ PARÁGRAFO 3. Las aerolíneas dispondrán y establecerán los mecanismos, proces
 
 PARÁGRAFO 4. La calidad de beneficiario no exime en ningún caso a la persona de cumplir con las normas y obligaciones que regulan este tipo de contrato de transporte ni la reglamentación en materia aeronáutica. Es decir que los términos, condiciones y restricciones serán exactamente las mismas que estén vigentes para todos los pasajeros; las cuales incluyen, el no reembolso del valor de los tiquetes cuando a ello hubiere Jugar, pago de las penalidades por cambio de fechas o pérdidas del vuelo, el pago de los impuestos sobre el valor de la tarifa, entre otros.
 
-ARTÍCULO
-
 ## art:2.2.7.5.2 — Tarifa más económica
 
 Entiéndase por tarifa más económica para la aplicación del presente Decreto, la que se encuentre disponible al momento de hacer la compra o la reserva conforme la fecha y hora requerida por el beneficiario. Si las condiciones de la tarifa más económica, considerando lo previsto anteriormente exige la compra efectiva del tiquete en un periodo de tiempo específico, el beneficiario tendrá que hacerlo de tal forma.
@@ -5488,13 +5006,9 @@ CAPÍTULO VI
 
 Tarifa diferencial en telefonía e internet fija y móvil, y televisión por cable
 
-ARTÍCULO
-
 ## art:2.2.7.6.1 — Tarifa diferencial en telefonía fija
 
 Conforme al numeral primero del artículo 9 de la Ley 1699 de 2013, los beneficiarios tendrán derecho a tarifas diferenciales con descuentos del quince por ciento (15%), única y exclusivamente en una sola línea telefónica fija por núcleo familiar; la cual tendrá que ser solicitada personalmente por el miembro de la Fuerza Pública con discapacidad o por alguno de los integrantes del núcleo familiar del miembro de la Fuerza Pública fallecido, quien deberá estar acreditado y al momento de la solicitud presentará su carnet junto con su documento de identidad.
-
-ARTÍCULO
 
 ## art:2.2.7.6.2 — Tarifa diferencial en telefonía móvil celular
 
@@ -5502,31 +5016,21 @@ Conforme al numeral segundo del artículo 9 de la Ley 1699 de 2013, los benefici
 
 PARÁGRAFO . Entiéndase que el beneficio de la tarifa diferencial con descuento no aplica en ningún caso y bajo ninguna condición para la compra de equipos terminales móviles.
 
-ARTÍCULO
-
 ## art:2.2.7.6.3 — Tarifa diferencial en internet fijo o móvil
 
 Conforme al numeral tercero del artículo 9 de la Ley 1699 de 2013, los beneficiarios tendrán derecho a tarifas diferenciales con descuentos del quince por ciento (15% ), única y exclusivamente en un solo plan de internet fijo o móvil por núcleo familiar; el cual tendrá que ser solicitado personalmente por el miembro de la Fuerza Pública con discapacidad o por alguno de los integrantes del núcleo familiar del miembro de la Fuerza Pública fallecido quien deberá estar acreditado y al momento de su solicitud presentará su carnet, junto con su documento de identidad.
-
-ARTÍCULO
 
 ## art:2.2.7.6.4 — Tarifa diferencia en televisión por cable
 
 Conforme al numeral cuarto del artículo 9 de la Ley 1699 de 2013, los beneficiarios tendrán derecho a tarifas diferenciales con descuentos del quince por ciento (15%), única y exclusivamente en un solo plan de televisión por cable por núcleo familiar; el cual tendrá que ser solicitado personalmente por el miembro de la Fuerza Pública con discapacidad o por alguno de los integrantes del núcleo familiar del miembro de la Fuerza Pública fallecido quien deberá estar acreditado y al momento de su solicitud presentará su carnet, junto con su documento de identidad.
 
-ARTÍCULO
-
 ## art:2.2.7.6.5 — De los planes
 
 Las tarifas diferenciales con descuentos del quince por ciento (15%) aplican única y exclusivamente, para nuevos planes que se contraten por el miembro de la Fuerza Pública con discapacidad o por alguno de los integrantes del núcleo familiar del miembro de la Fuerza Pública fallecido; es decir que, este beneficio no es eficaz para los planes contratados con anterioridad.
 
-ARTÍCULO
-
 ## art:2.2.7.6.6 — Irretroactividad de la tarifa diferenciación descuentos
 
 La tarifa diferencial con descuentos del quince por ciento (15%) en telefonía fija y móvil celular e internet fijo y móvil, y televisión por cable no es retroactiva. Entiéndase que éste solo se aplicará hacía futuro, es decir para el nuevo plan que contrate el miembro de la Fuerza Pública con discapacidad o alguno de los integrantes del núcleo familiar del miembro de la Fuerza Pública fallecido y se hará efectivo a partir del segundo (02) mes de facturación.
-
-ARTÍCULO
 
 ## art:2.2.7.6.7 — 6.7
 
@@ -5538,8 +5042,6 @@ PARÁGRAFO 2. No es viable la acumulación o el uso del beneficio en más de un 
 
 PARÁGRAFO 3. De llegarse a presentar el uso del beneficio en más de un plan de la misma especie, bien sea con el mismo operador o con algún otro por el miembro de la Fuerza Pública con discapacidad o el integrante del núcleo familiar del miembro de la Fuerza Pública fallecido, te será cancelada la acreditación como beneficiario de la Ley 1699 de 2013; y además, las suscripciones por et operador o los operadores con los cuales contrató el servicio respectivo.
 
-ARTÍCULO
-
 ## art:2.2.7.6.8 — Consulta de beneficiarios
 
 Los operadores del servicio público de telefonía fija y móvil celular e internet fija y móvil y televisión por cable, al momento de recibir una solicitud para contratar un nuevo plan con tarifa diferencial con descuento en virtud de este beneficio, podrán consultar y verificar por los medios que defina el Ministerio de Defensa Nacional si el beneficiario de la Ley 1699 de 2013, cumple con las condiciones para recibir y mantener el beneficio.
@@ -5547,8 +5049,6 @@ Los operadores del servicio público de telefonía fija y móvil celular e inter
 CAPÍTULOVII
 
 Operadores de hotelería
-
-ARTÍCULO
 
 ## art:2.2.7.7.1 — Tarifas diferenciales en baja temporada/ con descuentos del diez por ciento (10%) del valor de la tarifa rack
 
@@ -5564,13 +5064,9 @@ PARÁGRAFO 2. El beneficiario que solicite el descuento está sujeto a las norma
 
 PARÁGRAFO 3. De manera voluntaria, bajo su única y exclusiva responsabilidad los operadores hoteleros podrán otorgar cualquier otro tipo de descuentos o beneficios en sus servicios a los beneficiarios de la Ley 1699 de 2013. En dicho caso, tendrán plena y total autonomía para establecer los términos, condiciones y restricciones de los mismos.
 
-ARTÍCULO
-
 ## art:2.2.7.7.2 — Baja ocupación o ''baja temporada"
 
 Para efectos del presente Decreto entiéndase por baja ocupación o "baja temporada": las épocas de un año en que el movimiento turístico decae a la mínima proporción en determinado lugar de destino. ¿
-
-ARTÍCULO
 
 ## art:2.2.7.7.3 — Tarifa rack
 
@@ -5579,8 +5075,6 @@ Entiéndase por tarifa rack: la tarifa más alta de alojamiento sin "otros" desc
 CAPÍTULO VIII
 
 Sitios turísticos
-
-ARTÍCULO
 
 ## art:2.2.7.8.1 — Del ingreso a parques naturales administrados por el estado o por particulares
 
@@ -5592,8 +5086,6 @@ PARÁGRAFO 2. Los beneficiarios que soliciten el descuento, deberán acreditar l
 
 PARÁGRAFO 3. El riesgo que pueda presentarse durante la permanencia en el área protegida será asumido por el visitante y no compromete la responsabilidad de Parques Nacionales Naturales de Colombia ni del Ministerio de Defensa Nacional.
 
-ARTÍCULO
-
 ## art:2.2.7.8.2 — Sitio turístico
 
 Para efectos del presente Decreto entiéndase por "sitio turístico", el espacio, lugar o zona distinta al entorno habitual de la persona, con fines entre otros, de convenciones, culturales, eventos, negocios, ocio y salud.
@@ -5602,13 +5094,9 @@ CAPÍTULO IX
 
 Otros beneficios
 
-ARTÍCULO
-
 ## art:2.2.7.9.1 — Entrada gratuita
 
 Para que los beneficiarios puedan ingresar de manera gratuita a los establecimientos a los que hace mención el artículo 12 de la Ley 1699 de 2013, como son, museos, bienes de interés cultural y centros culturales de la Nación, de los Distritos, Municipios y otros de naturaleza privada, deberán presentar personalmente el carnet que los acredita como beneficiarios junto con su documento de identidad.
-
-ARTÍCULO
 
 ## art:2.2.7.9.2 — Ventanilla preferencial
 
@@ -5618,23 +5106,17 @@ CAPÍTULO X
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.2.7.10.1 — Plazo para la implementación
 
 Para la implementación del presente Decreto, con excepción del Capítulo III. Beneficios en los productos básicos de primera necesidad, se contará con un plazo no superior a seis (6) meses contados a partir de la fecha en que finalice la primera sesión de carnetización por parte del Ministerio de Defensa Nacional.
 
 PARÁGRAFO . Lo anterior sin perjuicio de lo dispuesto en cada uno de los convenios u otra modalidad de vinculación jurídica que se suscriban entre el Ministerio de Defensa Nacional y los grandes almacenes de cadena o grandes superficies.
 
-ARTÍCULO
-
 ## art:2.2.7.10.2 — 0.2
 
 Estructuración, consolidación, suministro y actualización de la base de datos de los beneficiarios de la Ley 1699 de 2013. El Ministerio de Defensa Nacional será el encargado de administrar y disponer de la base de datos de la población beneficiaria acreditada de la Ley 1699 de 2013.
 
 PARÁGRAFO . El Ministerio de Defensa Nacional será el encargado de mantener actualizado el registro de los beneficiarios de la Ley 1699 de 2013, así como de cancelar la acreditación de estos, en caso de verificar el uso indebido del carnet.
-
-ARTÍCULO
 
 ## art:2.2.7.10.3 — 0.3
 
@@ -5648,8 +5130,6 @@ DE LA CONVIVENCIA Y SEGURIDAD CIUDADANA
 
 (Decreto 1284 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.1 — Objeto
 
 El presente título tiene por objeto reglamentar parcialmente la Ley 1801 de 2016, a efectos de la cumplida ejecución de las disposiciones atinentes al Código Nacional de Policía y Convivencia.
@@ -5657,8 +5137,6 @@ El presente título tiene por objeto reglamentar parcialmente la Ley 1801 de 201
 CAPÍTULO I
 
 ESPACIOS FÍSICOS PARA RECEPCIÓN, ATENCIÓN Y RESOLUCIÓN DE QUEJAS, PETICIONES Y RECLAMOS
-
-ARTÍCULO
 
 ## art:2.2.8.1.1 — Definiciones
 
@@ -5678,13 +5156,9 @@ Dentro de las Regiones de Policía, Clínicas y Establecimientos de Sanidad Poli
 
 6. Accesibilidad: Condición de posibilidad de ingresar, transitar y permanecer en una edificación o parte de esta, que permita hacer uso de un servicio, independientemente de las capacidades físicas o cognitivas de los usuarios.
 
-ARTÍCULO
-
 ## art:2.2.8.1.2 — 1.2
 
 Diseño espacios físicos: Los espacios físicos de las Oficinas de Atención al Ciudadano de la Policía Nacional y de los Puntos de Atención al Ciudadano, deberán brindar a todas las personas, especialmente aquellas en condición de discapacidad, la posibilidad de hacer uso de cada uno de los espacios de manera fácil, segura, autónoma y desapercibida, debiendo suprimir las barreras de entorno físico presentes en cada una de las Oficinas de Atención al Ciudadano y Puntos de Atención al Ciudadano, con el fin de fomentar su accesibilidad a dichos espacios físicos.
-
-ARTÍCULO
 
 ## art:2.2.8.1.3 — 1.3
 
@@ -5734,8 +5208,6 @@ No deberá encontrarse ningún obstáculo que impida la aproximación, donde se 
 
 17. Evacuación: Las salidas estarán debidamente señalizadas, permitiendo una fácil visibilidad e identificación desde cualquier punto del recinto.
 
-ARTÍCULO
-
 ## art:2.2.8.1.4 — Recursos para adecuación de los espacios físicos
 
 Las autoridades departamentales, distritales o municipales, según corresponda, podrán financiar la adecuación de los espacios físicos para la recepción y atención de quejas, peticiones denuncias, reclamos, sugerencias y reconocimientos en las instalaciones de la Policía Nacional, teniendo como base, los términos que sobre infraestructura establezca dicha Institución. las erogaciones previstas en el presente artículo serán con cargo a la cuenta independiente de que trata el artículo 2.2.8.4.1, destinada para financiar programas, proyectos de inversión y actividades de cultura ciudadana, pedagogía y prevención en materia de seguridad.
@@ -5744,15 +5216,11 @@ CAPÍTULO 11
 
 OBJETIVOS, FUNCIONES Y DEMÁS ASPECTOS RELACIONADOS CON EL FUNCIONAMIENTO DE LOS CONSEJOS DE SEGURIDAD Y CONVIVENCIA.
 
-ARTÍCULO
-
 ## art:2.2.8.2.1 — Creación y naturaleza de los Consejos de Seguridad y Convivencia
 
 Para efectos de lo previsto en el artículo 19 de la ley 1801 de 2016, los Consejos de Seguridad y Convivencia son un cuerpo consultivo y de toma de decisiones en materia de prevención y reacción ante los problemas relacionados con la seguridad y la convivencia ciudadana.
 
 Constituye la instancia o espacio de coordinación interinstitucional, en los que participan las autoridades político administrativas territoriales de acuerdo con el tipo de Consejo y las autoridades nacionales a través de las unidades territoriales desconcentradas que tiene cada entidad. Estos espacios de coordinación tienen como finalidad propiciar la materialización de los principios de coordinación, concurrencia, subsidiaridad, solidaridad, planeación, complementariedad, eficiencia y responsabilidad entre las autoridades de diferentes órdenes del gobierno, que tienen competencias directas en materia de convivencia y seguridad ciudadana.
-
-ARTÍCULO
 
 ## art:2.2.8.2.2 — Objetivos de los Consejos de Seguridad y Convivencia
 
@@ -5766,13 +5234,9 @@ Propiciar la implementación conjunta, simultánea y coordinada de las estrategi
 
 PARÁGRAFO . Los integrantes de los Consejos de Seguridad y Convivencia, invocando tal calidad, no estarán facultados para solicitar recursos de las cuentas a que hace referencia la Ley 1801 de 2016, salvo expreso mandamiento legal.
 
-ARTÍCULO
-
 ## art:2.2.8.2.3 — Tipos de Consejos de Seguridad y Convivencia
 
 Se conformarán Consejos de Seguridad y Convivencia a nivel nacional, regional, departamental, distrital, municipal y metropolitano.
-
-ARTÍCULO
 
 ## art:2.2.8.2.4 — Sesiones
 
@@ -5789,8 +5253,6 @@ Se informe por escrito a todos los participantes.
 Se realice en lugares en los que se pueda garantizar el normal funcionamiento de la reunión, bajo condiciones adecuadas de seguridad para los participantes.
 
 PARÁGRAFO . A los Consejos de Seguridad y Convivencia, podrá invitarse a cualquier otra entidad del Estado, personas jurídicas de derecho privado y organizaciones internacionales o nacionales, o a particulares cuya presencia sea necesaria para el cumplimiento de las funciones propias del Consejo de Seguridad y Convivencia. Los invitados tendrán derecho a participar en las deliberaciones del Consejo con voz, pero sin voto. Para tal efecto, la Secretaría hará las correspondientes invitaciones.
-
-ARTÍCULO
 
 ## art:2.2.8.2.5 — Conformación de los Consejos de Seguridad y Convivencia Regional
 
@@ -5818,8 +5280,6 @@ PARÁGRAFO 1. Los Consejos de Seguridad y Convivencia Regionales contarán con l
 
 PARÁGRAFO 2. El Secretario del Consejo Regional de Seguridad, será el Secretario de Gobierno o Seguridad, según sea el caso, del departamento al que pertenece el gobernador que preside el Consejo.
 
-ARTÍCULO
-
 ## art:2.2.8.2.6 — Conformación de los Consejos de Seguridad y Convivencia Departamentales
 
 Los Consejos de Seguridad y Convivencia Departamentales, se conforman por las siguientes autoridades:
@@ -5843,8 +5303,6 @@ Director Seccional de la Fiscalía General de la Nación (FGN) del departamento.
 Secretario de Gobierno o Seguridad del departamento o quien haga sus veces, que tenga competencias y funciones específicas y directas en materia de convivencia y seguridad ciudadana, quien hará las veces de Secretario del Consejo Departamental de Seguridad y Convivencia.
 
 PARÁGRAFO . Los Consejos de Seguridad y Convivencia Departamentales contarán con la participación del Director Regional de Prosperidad Social o quien haga sus veces, el Director Regional del Instituto Nacional Penitenciario y Carcelario (INPEC), o su delegado y el Director del Grupo Regional de Protección de la Unidad Nacional de Protección (UNP) que atiende el departamento, como invitados cuando así se requiera, con voz pero sin voto.
-
-ARTÍCULO
 
 ## art:2.2.8.2.7 — Conformación de los Consejos de Seguridad y Convivencia de los Distritos Especiales
 
@@ -5874,8 +5332,6 @@ PARÁGRAFO 1. Los Consejos de Seguridad y Convivencia Distritales contarán con 
 
 PARÁGRAFO 2. El Alcalde Mayor del Distrito Capital de Bogotá, reglamentará la conformación y funcionamiento del Consejo de Seguridad y Convivencia del Distrito y las localidades que lo integran.
 
-ARTÍCULO
-
 ## art:2.2.8.2.8 — Conformación de los Consejos de Seguridad y Convivencia Municipales
 
 Los Consejos de Seguridad y Convivencia Municipales, se conforman por las siguientes autoridades:
@@ -5899,8 +5355,6 @@ Director Seccional de la Fiscalía General de la Nación (FGN) del departamento 
 Secretario de Gobierno o Seguridad del municipio, según sea el caso, que tenga competencias y funciones específicas y directas en materia de convivencia y seguridad, quien hará las veces de Secretario del Consejo Municipal de Seguridad y Convivencia.
 
 PARÁGRAFO . Los Consejos de Seguridad y Convivencia Municipales contarán con la participación del delegado del Instituto Nacional Penitenciario y Carcelario (INPEC), y el Director del Grupo Regional de Protección de la Unidad Nacional de Protección (UNP) que tiene jurisdicción en el departamento en el que se encuentra ubicado el municipio, como invitados cuando así se requiera, con voz pero sin voto.
-
-ARTÍCULO
 
 ## art:2.2.8.2.9 — Conformación de los Consejos de Seguridad y Convivencia de las Áreas Metropolitanas
 
@@ -5926,8 +5380,6 @@ El Director del Área Metropolitana, quien será el Secretario del Consejo de Se
 
 PARÁGRAFO . Los Consejos de Seguridad y Convivencia de las Áreas Metropolitanas contarán con la participación del delegado del Instituto Nacional Penitenciario y Carcelario (INPEC), y el Director del Grupo Regional de Protección de la Unidad Nacional de Protección (UNP) que tiene jurisdicción en el departamento en el que se encuentra ubicado el área metropolitana, como invitados cuando así se requiera, con voz pero sin voto.
 
-ARTÍCULO
-
 ## art:2.2.8.2.10 — Participación en los Consejos de Seguridad y Convivencia
 
 La participación en los diferentes Consejos de Seguridad y Convivencia, se determinará con base en los siguientes criterios:
@@ -5945,8 +5397,6 @@ Podrá invitarse a las sesiones de los Consejos de Regionales, Departamentales y
 El Presidente de la República podrá a través del Ministerio del Interior, convocar y presidir los Consejos de Seguridad y Convivencia Nacionales, Regionales, Departamentales, de los Distritos Especiales, Municipales y Metropolitanos, sin perjuicio de sus atribuciones constitucionales.
 
 El Presidente de la República, podrá asistir y presidir los Consejos de Seguridad y Convivencia Regionales, Departamentales, de los Distritos Especiales, Municipales y Metropolitanos, en su calidad de suprema autoridad administrativa y de policía en Colombia.
-
-ARTÍCULO
 
 ## art:2.2.8.2.11 — Funciones de los tipos de Consejos de Seguridad y Convivencia
 
@@ -5992,19 +5442,13 @@ Formular recomendaciones para la preservación de los derechos humanos y el cump
 
 PARÁGRAFO . Los Consejos de Seguridad y Convivencia podrán constituir grupos de trabajo que se encarguen de realizar análisis o propuestas específicas, con el fin de profundizar en la comprensión y análisis de algunos problemas públicos de convivencia y seguridad, así como de las posibles intervenciones, sin que se genere erogaciones con cargo a los recursos del FONSET o de alguna de sus cuentas.
 
-ARTÍCULO
-
 ## art:2.2.8.2.12 — Planes de seguridad y convivencia regionales y metropolitanos
 
 En el caso de las regiones y las áreas metropolitanas, se podrán diseñar, implementar, hacer seguimiento y evaluar planes integrales de seguridad y convivencia (PISCC), según sea el caso.
 
-ARTÍCULO
-
 ## art:2.2.8.2.13 — Informes
 
 Los informes que deben entregar semestralmente los representantes legales de las entidades territoriales, gobernadores y alcaldes, a la Secretaría Técnica del Consejo Superior de Política Criminal sobre las actividades delincuenciales, modalidades de delitos y factores que influyen en el aumento o disminución de la criminalidad, deben ser comunicados en el seno de los Consejos de Seguridad y Convivencia.
-
-ARTÍCULO
 
 ## art:2.2.8.2.14 — .14
 
@@ -6034,8 +5478,6 @@ Trimestral
 
 PARÁGRAFO . Se procurará el acceso y la interoperabilidad de la información a la que se refiere el presente artículo, con el fin de facilitar su consulta.
 
-ARTÍCULO
-
 ## art:2.2.8.2.15 — De las instancias de participación ciudadana en el marco de los diferentes tipos de Consejos de Seguridad y Convivencia
 
 De manera previa o posterior a la realización de sesiones ordinarias o extraordinarias de los diferentes tipos de Consejos de Seguridad y Convivencia, todos los miembros podrán convocar audiencias de participación ciudadana que permitan:
@@ -6052,15 +5494,11 @@ Articular con los Comités Civiles de Convivencia.
 
 CONSEJO NACIONAL DE SEGURIDAD Y CONVIVENCIA CIUDADANA
 
-ARTÍCULO
-
 ## art:2.2.8.2.16 — Objeto
 
 Reglamentar el Consejo Nacional de Seguridad y Convivencia Ciudadana, como un cuerpo consultivo y de decisión para la prevención y reacción ante los problemas relacionados con la seguridad y la convivencia en el nivel nacional, así como para la coordinación, implementación, evaluación y seguimiento de la Política Marco de Convivencia y Seguridad Ciudadana.
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.8.2.17 — Integración del Consejo Nacional de Seguridad y Convivencia Ciudadana
 
@@ -6100,8 +5538,6 @@ PARÁGRAFO 4. Los invitados a las sesiones del Consejo Nacional de Seguridad y C
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.8.2.18 — Funciones del Consejo Nacional de Seguridad y Convivencia Ciudadana
 
 Son funciones del Consejo, las siguientes:
@@ -6136,23 +5572,17 @@ Las demás que el presidente de la República determine y que guarden relación 
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.8.2.19 — Sesiones del Consejo Nacional de Seguridad y Convivencia Ciudadana
 
 Consejo Nacional de Seguridad y Convivencia Ciudadana sesionará de manera ordinaria cada seis (6) meses, y de manera extraordinaria, cuando las circunstancias lo ameriten, previa convocatoria realizada por la Secretaría Técnica, a solicitud del presidente de la República, o del Ministerio del Interior, del Ministerio de Defensa Nacional, y/o del Consejero Presidencial para la Seguridad Nacional.
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.8.2.20 — Secretaría Técnica del Consejo Nacional de Seguridad y Convivencia Ciudadana
 
 La Secretaría Técnica del Consejo estará a cargo de los Ministerios de Interior y de Defensa Nacional. Contará con el soporte técnico de la Policía Nacional, a través de las dependencias competentes.
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.8.2.21 — Funciones de la Secretaría Técnica
 
@@ -6174,8 +5604,6 @@ Las demás que le asigne el presidente de la República o el Consejo.
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.8.2.22 — Mesa Técnica de Apoyo
 
 Créase la Mesa Técnica de Apoyo como una instancia del Consejo Nacional de Seguridad y Convivencia Ciudadana, que se encargará de hacer recomendaciones técnicas, en el marco de la ejecución de la Política, así como de apoyar a este cuerpo con estudios e informes que se re soliciten a través de la secretaría del mismo.
@@ -6186,8 +5614,6 @@ PARÁGRAFO . Las funciones, sesiones y actividades a realizar, serán dispuestas
 
 (Adicionado por el Art. 1 del Decreto 647 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.8.2.23 — Ámbitos de coordinación y complementariedad
 
 El Consejo Nacional de Seguridad y Convivencia Ciudadana actuará de forma coordinada y complementaria con las demás instancias, consejos y comités relacionados con el desarrollo de la Política Marco de Convivencia y Seguridad Ciudadana.
@@ -6197,8 +5623,6 @@ El Consejo Nacional de Seguridad y Convivencia Ciudadana actuará de forma coord
 CAPÍTULO III
 
 REGISTRO NACIONAL DE MEDIDAS CORRECTIVAS
-
-ARTÍCULO
 
 ## art:2.2.8.3.1 — Registro Nacional de Medidas Correctivas
 
@@ -6218,21 +5642,15 @@ PARÁGRAFO 2. Para efectos de lo establecido en el artículo 183 de la Ley 1801 
 
 PARÁGRAFO 3. Los municipios que no cuenten con infraestructura tecnológica que permita la interconectividad con otros sistemas de gestión para el seguimiento, actualización y recaudo, deberán registrar y actualizar la información relacionada con la aplicación y cumplimiento de las medidas correctivas a través del sistema Registro Nacional de Medidas Correctivas (RNMC), publicado por la Policía Nacional.
 
-ARTÍCULO
-
 ## art:2.2.8.3.2 — Manual y reglamento del Registro Nacional de Medidas Correctivas
 
 La Policía Nacional como responsable del Registro Nacional de Medidas Correctivas, en coordinación con la entidad pública o privada contratada para el manejo, operatividad, actualización, control, conectividad, sistematización y seguridad informática del mencionado Registro, deberá expedir, al momento de poner en funcionamiento el sistema, un manual con las guías, protocolos y reglamento de funcionamiento del mismo.
-
-ARTÍCULO
 
 ## art:2.2.8.3.3 — Permanencia del Registro
 
 Únicamente podrá observarse por parte del interesado, la información del Registro que reporta la medida correctiva impuesta que se encuentre en firme. El reporte de la medida correctiva impuesta, permanecerá para la consulta por parte de las autoridades de policía y entidades del Estado, por un lapso de un (1) año, después de su cumplimiento, tiempo durante el cual se verificará la reincidencia con las correspondientes consecuencias contempladas en la Ley 1801 de 2016.
 
 Es deber de la autoridad de policía que impuso la medida correctiva, o quien la hizo cumplir, actualizar el Registro Nacional de Medidas Correctivas, al momento de la imposición de la misma, y la constatación de su cumplimiento.
-
-ARTÍCULO
 
 ## art:2.2.8.3.4 — Diseño, ajuste, impresión y dotación para la orden de comparendo
 
@@ -6243,8 +5661,6 @@ Las administraciones distritales o municipales imprimirán y dotarán al persona
 CAPÍTULO IV
 
 DISPOSICIONES SOBRE LA ADMINISTRACIÓN PARA El COBRO Y RECAUDO DE DINEROS POR CONCEPTO DE MULTAS
-
-ARTÍCULO
 
 ## art:2.2.8.4.1 — Recaudo y administración del dinero por concepto de multas
 
@@ -6260,13 +5676,9 @@ CAPÍTULO V
 
 SITIOS PARA El TRASLADO POR PROTECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.8.5.1 — Centros para el traslado por protección o asistencial
 
 Entiéndase por centros para el traslado por protección o asistenciales, los espacios físicos dispuestos por la administración distrital o municipal, para hacer efectivo el medio de policía establecido en el artículo 155 de la Ley 1801 de 2016, cuya implementación, adecuación y funcionamiento, deberán ser garantizados por cada alcalde distrital o municipal.
-
-ARTÍCULO
 
 ## art:2.2.8.5.2 — Centros asistenciales
 
@@ -6275,8 +5687,6 @@ Entiéndase como centros asistenciales las Instituciones Prestadoras de Servicio
 Dichos centros asistenciales, independientemente de ser públicos o privados deberán prestar la atención inmediata a las personas trasladadas por protección en procedimiento de policía cuando se trate de ciudadanos en grave estado de alteración de la conciencia por aspectos mentales, por estar bajo el efecto del consumo de bebidas alcohólicas o sustancias psicoactivas o tóxicas o que presente lesiones o afecciones en su integridad psicofísica, en los términos establecidos en la Ley Estatutaria 1751 de 2015 y sus normas reglamentarias.
 
 En caso que una de las instituciones mencionadas en el inciso primero del presente artículo, se niegue a prestar la atención necesaria para proteger la vida e integridad del trasladado por protección en procedimiento de policía, la autoridad de policía lo informará por escrito dentro de las cuarenta y ocho (48) horas siguientes al Ministerio Público, a efectos de que se adopten las medidas necesarias para prevenir hechos que atenten contra la salud de las personas en el desarrollo del traslado por protección en procedimiento policivo y para lo cual la Superintendencia de Salud, el Ministerio de Salud y Protección Social, los Tribunales Seccionales y Nacionales de Ética Médica deberán adelantar acciones en contra de quienes nieguen el servicio de salud en el marco del presente capitulo.
-
-ARTÍCULO
 
 ## art:2.2.8.5.3 — Centros de Protección
 
@@ -6312,13 +5722,9 @@ CAPÍTULO VI
 
 PARTICIPACIÓN EN PROGRAMAS COMUNITARIOS O ACTIVIDADES PEDAGÓGICAS DE CONVIVENCIA Y DIFUSIÓN DE LA LEY 1801 DE 2016
 
-ARTÍCULO
-
 ## art:2.2.8.6.1 — Programa Comunitario
 
 Entiéndase por programa comunitario, la actividad obligatoria orientada a mejorar las condiciones de seguridad, ambiente y tranquilidad en todo el territorio nacional que propenden por el interés general.
-
-ARTÍCULO
 
 ## art:2.2.8.6.2 — Clasificación
 
@@ -6334,15 +5740,11 @@ Las demás que la administración distrital o municipal establezca para tal fin.
 
 PARÁGRAFO . Aplica para los comportamientos contrarios a la convivencia que tengan como medida correctiva la participación en programa comunitario, al igual que para aquel ciudadano que conmute dentro del plazo establecido, la multa general tipo 1 o 2 por la participación en programa comunitario.
 
-ARTÍCULO
-
 ## art:2.2.8.6.3 — Actividad Pedagógica
 
 Se entenderá por actividad pedagógica, aquella participación en programas educativos determinados y desarrollados por las alcaldías distritales o municipales, como medida correctiva impuesta de conformidad con lo establecido en la Ley 1801 de 2016 y cuyo enfoque será el fortalecimiento de los principios, fines y Objeto de la convivencia, práctica de derechos y deberes aceptados por la sociedad, así como las responsabilidades que implica vivir en sociedad otorgando un reconocimiento al valor de lo público y la tranquilidad de la comunidad en general.
 
 PARÁGRAFO . Para el desarrollo de las actividades pedagógicas la alcaldía distrital o municipal, podrá destinar un lugar específico que cuente con las condiciones necesarias para la capacitación de las personas que incurran en comportamientos contrarios a la convivencia, con base en los siguientes componentes:
-
-ARTÍCULO
 
 ## art:2.2.8.6.4 — 6.4
 
@@ -6360,8 +5762,6 @@ Normatividad.
 
 Y aquellas que por el contexto de la población o la comunidad o su idiosincrasia sean pertinentes para generar comportamientos favorables a la convivencia.
 
-ARTÍCULO
-
 ## art:2.2.8.6.5 — Objetivos del programa de pedagogía
 
 El programa de pedagogía como medida correctiva, debe lograr:
@@ -6371,8 +5771,6 @@ Educar en materia de convivencia a la comunidad.
 Construcción personal en el mejoramiento progresivo del comportamiento en convivencia.
 
 Respetar los derechos y deberes de las personas.
-
-ARTÍCULO
 
 ## art:2.2.8.6.6 — Adecuación de las instalaciones
 
@@ -6390,8 +5788,6 @@ CAPÍTULO VII
 
 DISPOSICIÓN SOBRE El ACCESO A LA INFORMACIÓN A TRAVÉS DEL REGISTRO ÚNICO SOCIAL Y EMPRESARIAL DEL ESTADO - RUES
 
-ARTÍCULO
-
 ## art:2.2.8.7.1 — Informe de registro en Cámaras de Comercio
 
 Las Cámaras de Comercio garantizarán el acceso a la información, a través del Registro Único Social y Empresarial del Estado - RUES, a las administraciones distritales y municipales y la Policía Nacional, para el ejercicio de las funciones propias de inspección y vigilancia de las actividades mercantiles y de las empresas que se creen o modifiquen su actividad económica y/o su domicilio en la respectiva jurisdicción.
@@ -6401,8 +5797,6 @@ PARÁGRAFO . Las administraciones distritales o municipales y la Policía Nacion
 CAPÍTULO VIII
 
 ACTIVIDAD DE POLICÍA EN AGUAS JURISDICCIONALES COLOMBIANAS
-
-ARTÍCULO
 
 ## art:2.2.8.8.1 — Actividad de Policía en aguas jurisdiccionales colombianas
 
@@ -6416,8 +5810,6 @@ CAPÍTULO IX
 
 COMPORTAMIENTOS CONTRARIOS A LA CONVIVENCIA RELACIONADOS CON EL PORTE DE SUSTANCIAS ESTUPEFACIENTES O SICOTRÓPICAS
 
-ARTÍCULO
-
 ## art:2.2.8.9.1 — Verificación de la infracción
 
 En el marco del Proceso Único de Policía, cuando la autoridad advierta la posible infracción de la prohibición de tenencia o porte de sustancias psicoactivas ilícitas, tales como marihuana, cocaína o sustancias derivadas de la cocaína, heroína o derivados de la amapola, drogas sintéticas; cualquiera de las sustancias, naturales o sintéticas que figuran en la listas I y II de la Convención Única de 1961 sobre Estupefacientes y su Protocolo de Modificación, celebrada en Ginebra el 25 de marzo de 1972, aprobada por medio de la Ley 13 del 29 de noviembre de 1974; que se encuentren incorporadas en las listas I, II, III y IV del Convenio de las Naciones Unidas sobre sustancias sicotrópicas, aprobado por medio de la Ley 43 del 29 de diciembre de 1980; o así como cualquier otra sustancia que se encuentre legalmente prohibida, se aplicará el procedimiento establecido en el proceso verbal inmediato de que trata el artículo 222 de Ley 1801 de 2016, "por la cual se expide el Código Nacional de Policía y Convivencia".
@@ -6428,23 +5820,17 @@ El porte y tenencia de cantidades que excedan la dosis personal será judicializ
 
 (Decreto 1844 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.9.2 — Descargos
 
 En los casos previstos en el artículo anterior, la autoridad competente procederá a oír en descargos al presunto infractor.
 
 (Decreto 1844 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.8.9.3 — Consecuencia de la infracción
 
 En el evento en que el presunto infractor, una vez surtido el trámite del proceso verbal inmediato de que trata el 222 del Código Nacional de Policía y Convivencia, sea encontrado como responsable de un comportamiento contrario a la convivencia relacionado con el porte de sustancias estupefacientes o sicotrópicas, procederá a imponer, en todo caso. la medida correctiva de destrucción del bien, sin perjuicio de las demás a las que hubiere lugar.
 
 (Decreto 1844 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.8.9.4 — Protocolo del medio de policía de incautación y de la medida correctiva de destrucción del bien
 
@@ -6458,8 +5844,6 @@ CAPITULO X
 
 PÓLIZAS DE RESPONSABILIDAD CIVIL EXTRACONTRACTUAL PARA PROPIETARIOS Y TENEDORES DE CANINOS DE MANEJO ESPECIAL
 
-ARTÍCULO
-
 ## art:2.2.8.10.1 — Constitución de pólizas
 
 Los propietarios de caninos considerados de manejo especial deberán contar con una póliza de responsabilidad civil extracontractual, la cual debe tomarse con una compañía de seguros legalmente autorizada para operar en el país.
@@ -6469,8 +5853,6 @@ El seguro debe amparar la responsabilidad civil extracontractual del propietario
 PARÁGRAFO 1. Lo dispuesto en el presente artículo, no aplica para los caninos utilizados en la prestación del servicio de vigilancia privada mientras se encuentren en servicio, los cuales se regirán por la normatividad especial sobre la materia.
 
 PARÁGRAFO 2. Cuando el propietario del canino sea un menor de edad, el tomados del seguro deberá ser su representante legal.
-
-ARTÍCULO
 
 ## art:2.2.8.10.2 — Valor mínimo asegurado y vigencia de la póliza
 
@@ -6482,13 +5864,9 @@ PARÁGRAFO. Las compañías aseguradoras deberán permitir la adquisición de p�
 
 En todo caso el valor asegurado de la póliza será la máxima responsabilidad del asegurador, que se puede agotar en uno o más eventos que ocurran durante la vigencia del seguro por uno o varios caninos.
 
-ARTÍCULO
-
 ## art:2.2.8.10.3 — Notificación de la cesión de la propiedad de caninos de manejo especial
 
 Toda compra, venta, traspaso, donación o cualquier cesión del derecho de propiedad, sobre el ejemplar canino clasificado como de manejo especial, se deberá notificar a la alcaldía distrital o municipal y a la compañía de seguros que haya expedido la póliza para efectos de Io contemplado en el artículo 1107 del Código de Comercio. Para Io cual el nuevo propietario y/o tenedor deberá proceder de forma inmediata a realizar los trámites necesarios para dar cumplimiento a Io dispuesto en el artículo 2.2.8.10.1 del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.8.10.4 — Microchip de identificación
 
@@ -6504,21 +5882,15 @@ PARÁGRAFO 2. La compañía aseguradora deberá enviar mensualmente un reporte a
 
 Al realizarse cualquiera de las acciones de qué trata el artículo 131 de la Ley 1801 de 2016, se deberá indicar el código numérico único de identificación del ejemplar y la identidad del médico veterinario que Io implantó, así como el lugar donde se hizo el procedimiento. Esa misma identificación podrá utilizarse para los controles de vacunas, los incidentes de ataques y demás aspectos relacionados con el animal.
 
-ARTÍCULO
-
 ## art:2.2.8.10.5 — 0.5
 
 Término para la implantación del microchip de identificación y para la adquisición del seguro de responsabilidad civil extracontractual. Los propietarios y/o tenedores de caninos de manejo especial, tendrán seis (6) meses a partir de la entrada en vigencia del presente Decreto, para implantar el microchip de identificación en el canino y contar con la póliza de responsabilidad civil extracontractual de que trata la Ley 1801 de 2016.
-
-ARTÍCULO
 
 ## art:2.2.8.10.6 — Reporte de los centros veterinarios
 
 Los centros veterinarios que lleven a cabo la implantación del microchip de identificación, deberán reportar ante la alcaldía distrital o municipal mensualmente, los datos de cada microchip implantado, para que las Alcaldías puedan verificar que la información contenida en el mismo, corresponda con la información de la póliza reportada en el registro del canino de manejo especial, respetando Io referente a la Ley de Protección de Datos Personales.
 
 El reporte tendrá como mínimo los datos de identificación del microchip, el nombre del canino que Io porta, la raza, el propietario o tenedor.
-
-ARTÍCULO
 
 ## art:2.2.8.10.7 — Acceso a la información por parte de las Aseguradoras
 
@@ -7432,8 +6804,6 @@ Parágrafo 2. Se deberá distinguir en cada caso si la aprehensión es de animal
 
 REGISTRO DE OBJETOS LANZADOS AL ESPACIO ULTRATERRESTRE
 
-ARTÍCULO
-
 ## art:2.2.9.1 — Definiciones
 
 Para los fines pertinentes a esta reglamentación se adoptan las siguientes definiciones:
@@ -7468,15 +6838,11 @@ Vehículo de lanzamiento: Cohete utilizado para impulsar un objeto espacial desd
 
 (Decreto 2258 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.2 — Objeto
 
 Establecer las normas y procedimientos para efectuar el registro de objetos lanzados al espacio ultraterrestre en cumplimiento a lo dispuesto en la Ley 1569 de 2 de agosto de 2012.
 
 (Decreto 2258 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.3 — Ámbito de aplicabilidad
 
@@ -7490,15 +6856,11 @@ PARÁGRAFO 3. Cuando se trate de lanzamiento de objetos en territorio colombiano
 
 (Decreto 2258 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.4 — Entidad del registro
 
 Se designa como Entidad de Registro, a la Fuerza Aérea Colombiana - FAC, a quien se le confía la guarda de la integridad de los datos; dicha responsabilidad implica la creación, actualización, mantenimiento y administración de los datos de registro, así como, la emisión de informes y report.es a que haya lugar, que utilicen como fuente dichos registros.
 
 (Decreto 2258 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.5 — Responsabilidades de la entidad
 
@@ -7526,8 +6888,6 @@ PARÁGRAFO 2. Cada comunicación al Secretario General de las Naciones Unidas se
 
 (Decreto 2258 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.6 — Creación
 
 Créase el "Registro Único Colombiano de Objetos lanzados al Espacio ultraterrestre" que de aquí en adelante habrá de llamarse RUCOE, bajo responsabilidad de la Entidad del Registro.
@@ -7535,8 +6895,6 @@ Créase el "Registro Único Colombiano de Objetos lanzados al Espacio ultraterre
 PARÁGRAFO : El acceso a la información consignada en este registro, será pública y de libre consulta.
 
 (Decreto 2258 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.7 — Requisitos para el registro
 
@@ -7564,8 +6922,6 @@ iii) Apogeo.
 
 (Decreto 2258 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.8 — Obligaciones del solicitante
 
 Serán obligaciones de la (s) entidad (es) que solicite (n) el registro:
@@ -7578,23 +6934,17 @@ Serán obligaciones de la (s) entidad (es) que solicite (n) el registro:
 
 (Decreto 2258 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.9 — Información preexistente
 
 Las organizaciones, empresas o instituciones colombianas, que a la fecha de entrada en vigor del presente Decreto, contaren con información o registros sobre lanzamientos de los que trata el presente Decreto, están obligadas a comunicar tal información a la Entidad de Registro, la cual, a su vez podrá solicitar información complementaria que sea útil, necesaria o pertinente.
 
 (Decreto 2258 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.9.10 — Remisión normativa
 
 Lo que no quede expresamente reglamentado dentro de este Decreto, pero que haga parte del "Convenio sobre el Registro de Objetos Lanzados al Espacio Ultraterrestre" suscrito en 1974, o sus modificaciones o enmiendas, se tomará de dicho convenio, excepto en aquellos casos en que contraviniere las leyes nacionales colombianas
 
 (Decreto 2258 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.11 — Lanzamientos conjuntos
 
@@ -7603,8 +6953,6 @@ Cuando el lanzamiento haya de efectuarse conjuntamente con otro o más Estados d
 PARÁGRAFO. En caso que junto con Colombia el lanzamiento haya sido realizado por más Estados, se obrará de acuerdo al Artículo II, numeral 2, del 'Convenio sobre el Registro de Objetos Lanzados al Espacio Ultraterrestre' del 12 de noviembre de 1974.
 
 (Decreto 2258 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.9.12 — Registro lanzamientos conjuntos
 
@@ -7618,13 +6966,9 @@ TÍTULO 10
 
 ALCANCE Y ACCESO A LA FASE DE REHABILITACIÓN INCLUSIVA
 
-ARTÍCULO
-
 ## art:2.2.10.1 — Objeto
 
 Definir el alcance y condiciones de acceso a los planes y programas y a la Fase de Rehabilitación Inclusiva para los miembros de la Fuerza Pública y para los nuevos grupos poblacionales establecidos en el artículo 3 de la Ley 1471 de 2011, modificado por el artículo 248 de la Ley 1955 de 2019, disponibles en la Dirección Centro de Rehabilitación Inclusiva (DCRI) del Ministerio de Defensa Nacional.
-
-ARTÍCULO
 
 ## art:2.2.10.2 — Alcance de los planes y programas de la fase de rehabilitación inclusiva
 
@@ -7632,15 +6976,11 @@ Los planes y programas definidos en la Fase de Rehabilitación Inclusiva para la
 
 PARÁGRAFO . El acceso a los planes y programas para los nuevos grupos poblacionales establecidos en el artículo 3 de la Ley 1471 de 2011, modificado por el artículo 248 de la Ley 1955 de 2019, se realizará previa evaluación de necesidades individuales o colectivas cuando una cohorte así lo requiera, en el marco de la disponibilidad presupuestal.
 
-ARTÍCULO
-
 ## art:2.2.10.3 — Acceso a la fase de rehabilitación inclusiva
 
 Para efectos de la implementación del presente decreto, la Certificación de Discapacidad será requisito para acceder a la Fase de Rehabilitación Inclusiva y será emitida de acuerdo con la Resolución 583 del 28 de febrero de 2018 del Ministerio de Salud y Protección Social "Por la cual se implementa la Certificación de Discapacidad y el Registro de Localización y Caracterización de Personas con Discapacidad'' , modificada por la Resolución 246 del 31 de enero de 2019 del Ministerio de Salud y Protección Social "Por la cual se modifica el artículo 25 de la Resolución 583 de 2018", o en todo caso por aquella(s) norma{s) que modifique(n), adicione(n) o derogue(n) las referidas Resoluciones.
 
 PARÁGRAFO . Los miembros de la Fuerza Pública en actividad para poder acceder a la Fase de Rehabilitación Inclusiva, deberán contar con previa autorización de su respectiva Fuerza.
-
-ARTÍCULO
 
 ## art:2.2.10.4 — Componentes
 
@@ -7978,8 +7318,6 @@ SECCIÓN 1.
 
 DE LA CLASIFICACIÓN
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.1 — OFICIALES ESPECIALISTAS DEL CUERPO DE VUELO DE LA FUERZA AÉREA
 
 Los oficiales especialistas de vuelo, en la Fuerza Aérea se clasifican en:
@@ -8012,8 +7350,6 @@ PARÁGRAFO . Para los Oficiales de la Fuerza Aérea que fueron cambiados al Cuer
 
 (Decreto 1495 de 2002 artículo 1, parágrafo adicionado por el artículo 1 del Decreto 3188 de 2003)
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.2 — Especialidades de Oficiales y Suboficiales del Cuerpo de Seguridad y Defensa de Bases Aéreas
 
 Las especialidades correspondientes a los Oficiales y Suboficiales del Cuerpo de Seguridad y Defensa de Bases Aéreas se clasifican como:
@@ -8023,8 +7359,6 @@ a) Inteligencia;
 b) Defensa de Bases Aéreas.
 
 (Decreto 1495 de 2002 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.1.1.3 — Especialidades de Oficiales del Cuerpo Logístico
 
@@ -8072,8 +7406,6 @@ PARÁGRAFO . Los Oficiales del Cuerpo Logístico a quienes con anterioridad al 3
 
 (Decreto 1289 de 2016 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.4 — Especialidades de los Oficiales del Cuerpo Administrativo de las Fuerzas Militares
 
 Los Oficiales del Cuerpo Administrativo de las Fuerzas Militares tendrán las siguientes especialidades:
@@ -8098,15 +7430,11 @@ i) Matemáticas y Ciencias Naturales.
 
 (Decreto 1495 de 2002 artículo 4, modificado por el artículo 1 del Decreto 4494 de 2005)
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.5 — Suboficiales de las Armas del Ejército
 
 Los Suboficiales de las armas en el Ejército se clasifican dentro de las modalidades y características de: la Infantería, la Caballería, la Artillería, los Ingenieros, la Aviación, la Inteligencia, las Comunicaciones y las Fuerzas Especiales.
 
 (Decreto 1289 de 2016 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.1.1.6 — Especialidades de los Suboficiales del Cuerpo de Mar
 
@@ -8132,8 +7460,6 @@ i) Submarinista.
 
 (Decreto 1495 de 2002 artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.7 — Especialidades de Suboficiales del Cuerpo Técnico Aeronáutico de la Fuerza Aérea
 
 Los Suboficiales del Cuerpo Técnico Aeronáutico de la Fuerza Aérea, tendrán las siguientes especialidades:
@@ -8147,8 +7473,6 @@ c) Electrónica Aeronáutica;
 d) Mantenimiento Aeronáutico.
 
 (Decreto 1495 de 2002 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.1.1.8 — Especialidades de Suboficiales del Cuerpo Logístico de las Fuerzas Militares
 
@@ -8194,8 +7518,6 @@ PARÁGRAFO . Por necesidades del servicio la anterior clasificación podrá ser 
 
 (Decreto 1289 de 2016 artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.9 — Cambio de Fuerza, Arma, Cuerpo y/o Especialidad
 
 Los Oficiales y Suboficiales de las Fuerzas Militares que dentro de los límites jerárquicos establecidos en el Artículo 25 del Decreto 1790 de 2000, soliciten cambiar de Fuerza, Arma, Cuerpo y/o Especialidad deberán acreditar los siguientes requisitos para efectos de la autorización por parte de la autoridad administrativa correspondiente:
@@ -8216,15 +7538,11 @@ SECCIÓN 2.
 
 DEL ESCALAFÓN
 
-ARTÍCULO
-
 ## art:2.3.1.1.2.1 — Escalafón Militar
 
 Los Comandos de Fuerza elaborarán anualmente los Escalafones Regulares y Complementarios de Oficiales y Suboficiales, clasificados por Arma, Cuerpo y Especialidad. El Comando General de las Fuerzas Militares elaborará un Escalafón General integrado de las Fuerzas.
 
 (Decreto 1495 de 2002 artículo 10)
-
-ARTÍCULO
 
 ## art:2.3.1.1.2.2 — Requisitos para Ingreso al Escalafón Complementario
 
@@ -8248,15 +7566,11 @@ SECCIÓN 3.
 
 DEL INGRESO ASCENSO Y FORMACIÓN DE LOS OFICIALES Y SUBOFICIALES
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.1 — Período de Prueba
 
 El concepto favorable de que trata el artículo 35 del Decreto 1790 de 2000, será emitido por la Junta Clasificadora de cada Fuerza, con base en el concepto enviado a los Departamentos o Direcciones de personal por los Comandantes respectivos, dentro del mes siguiente al cumplimiento del periodo de prueba o cuando por deficiencia, falta de adaptación y de condiciones para el desempeño en el cargo, así lo amerite.
 
 (Decreto 1495 de 2002 artículo 12)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.2 — Procedencia de los Oficiales del Cuerpo Administrativo
 
@@ -8267,8 +7581,6 @@ a) Solicitud escrita al respectivo Comando de Fuerza.
 b) Encontrarse dentro de los límites de edad establecidos para el respectivo grado en el artículo 105 del Decreto 1790 de 2000.
 
 (Decreto 1495 de 2002 artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.3 — Escalafonamiento de Profesionales en el Cuerpo Administrativo
 
@@ -8296,8 +7608,6 @@ PARÁGRAFO 3. Los profesionales que acrediten especialización, maestría o doct
 
 (Decreto 1495 de 2002 artículo 14)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.4 — 3.4
 
 Escalafonamiento de Profesionales como Oficiales de las Armas y del Cuerpo Logístico en el Ejercito; del Cuerpo Ejecutivo y del Cuerpo Logístico en la Armada; del Cuerpo de Vuelo, del Cuerpo de Seguridad y Defensa de Bases Aéreas y, del Cuerpo Logístico en la Fuerza Aérea. Los aspirantes a oficiales a que se refiere el Artículo 38 del Decreto 1790 de 2000, para su Escalafonamiento como Subteniente o Teniente de Corbeta, deberán acreditar para su aceptación los siguientes requisitos:
@@ -8318,8 +7628,6 @@ g) Concepto de la Junta Asesora del Ministerio de Defensa para las Fuerzas Milit
 
 (Decreto 1495 de 2002 artículo 15)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.5 — Selección de Suboficiales para Escuelas de Formación de Oficiales
 
 Los Suboficiales de las Fuerzas Militares en servicio activo a que se refiere el Artículo 42 del Decreto 1790 de 2000, para ser aceptados como alumnos de las escuelas de formación de oficiales, requieren acreditar los siguientes requisitos:
@@ -8332,15 +7640,11 @@ c) Cumplir los requisitos para ingreso exigidos en el prospecto de la respectiva
 
 (Decreto 1495 de 2002 artículo 16)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.6 — Condición de los Suboficiales Alumnos
 
 Los Suboficiales que se destinen en comisión de estudios a las Escuelas de Formación de Oficiales, mientras permanezcan en ellas, tendrán la categoría de alumnos del respectivo instituto para efectos de uso de uniformes, denominaciones y nombramientos previstos en su reglamento de régimen interno, pero mantendrán la calidad de Suboficiales para efectos de sueldos, primas y prestaciones sociales, así como para la aplicación del Código Penal Militar, del Reglamento de Régimen Disciplinario y demás disposiciones que regulen la carrera del Suboficial.
 
 (Decreto 1495 de 2002 artículo 17)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.7 — Evaluación y Clasificación para Ascenso
 
@@ -8348,15 +7652,11 @@ Los Suboficiales a que se refiere el artículo anterior serán evaluados y clasi
 
 (Decreto 1495 de 2002 artículo 18)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.8 — Obligatoriedad de Prestación del Servicio
 
 El Suboficial que ingrese al escalafón de Oficiales después de haber cursado estudios en comisión de estudios en la correspondiente Escuela de Formación, tendrá la obligación de servir en la nueva jerarquía por un tiempo igual al doble del que hubiere durado la comisión.
 
 (Decreto 1495 de 2002 artículo 19)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.9 — Ascenso al Primer grado de la Carrera
 
@@ -8367,8 +7667,6 @@ El Comando General preparará el proyecto de decreto respectivo con base en las 
 En el caso de los cursos de formación de Suboficiales, los Directores o Comandantes de las Escuelas o Unidades que los adelanten, elevarán la propuesta de ascenso a Cabo Tercero, Marinero Segundo o Aerotécnico, al respectivo Comando de Fuerza, en donde previa verificación de que las personas propuestas han adelantado y aprobado los cursos reglamentarios, se producirá la disposición administrativa correspondiente.
 
 (Decreto 1495 de 2002 artículo 20)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.10 — Integración del Decreto de Ascenso a Subtenientes o Tenientes de Corbeta
 
@@ -8382,15 +7680,11 @@ Concluida la anterior operación, se procede a la integración de los tres (3) l
 
 (Decreto 1495 de 2002 artículo 21)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.11 — Antigüedad de los Ascendidos
 
 La antigüedad en el grado de los Oficiales ascendidos conforme a las normas de los artículos anteriores, será la determinada por el orden en que resulten colocados en el respectivo Decreto.
 
 (Decreto 1495 de 2002 artículo 22)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.12 — Prelación en Ascensos por Listas de Clasificación
 
@@ -8406,15 +7700,11 @@ b) Quedará inhabilitado para ascenso el personal que se encuentre en las condic
 
 (Decreto 1495 de 2002 artículo 23)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.13 — Tiempo Mínimo de Servicio en Unidades para Suboficiales
 
 Para ascender al grado inmediatamente superior, los Suboficiales de las Fuerzas Militares deberán acreditar un tiempo mínimo, de un (1) año de servicio en cada grado, en cargos que correspondan a su especialidad, en unidades terrestres, navales y aéreas, desde el grado de Cabo Tercero, Marinero Segundo o Aerotécnico, hasta el grado de Sargento Segundo, Suboficial Segundo o Suboficial Técnico Segundo.
 
 (Decreto 1495 de 2002 artículo 24)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.14 — Requisitos para Ejercer Comandos y Tiempos Mínimos
 
@@ -8422,15 +7712,11 @@ Los tiempos mínimos de mando de que tratan los artículos: 56, 57, 58, 59, 60, 
 
 (Decreto 1495 de 2002 artículo 25)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.15 — Otras formas de Cumplir con el Tiempo Mínimo de Mando
 
 El personal que se encuentre en la situación prevista en el parágrafo 2o. del artículo 62 del Decreto 1790 de 2000, que pierda el semestre o año lectivo respectivo, en la universidad donde adelanta estudios, perderá también, el derecho a que se le abone el tiempo como mando de tropa, sin perjuicio de la acción disciplinaria correspondiente.
 
 (Decreto 1495 de 2002 artículo 26)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.16 — Curso de Altos Estudios Militares
 
@@ -8448,8 +7734,6 @@ d) La selección de candidatos al curso se efectuará de acuerdo con el "Reglame
 
 (Decreto 3826 de 2010 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.17 — Curso Integral de Defensa Nacional
 
 El Curso Integral de Defensa Nacional de que trata el parágrafo del artículo 5 de la Ley 1405 de 2010, será realizado en la Escuela Superior de Guerra de Colombia. El programa académico del Curso será preparado por dicha Escuela y aprobado por el Comando General de las Fuerzas Militares.
@@ -8466,8 +7750,6 @@ d) La selección de candidatos al Curso Integral de Defensa Nacional se efectuar
 
 (Decreto 3826 de 2010 artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.18 — Cursos de Capacitación
 
 La programación académica de los cursos de capacitación de que trata el Artículo 70 del Decreto 1790 de 2000, deberá ser propuesta por cada uno de los Comandos de Fuerza para aprobación del Comando General de las Fuerzas Militares.
@@ -8475,8 +7757,6 @@ La programación académica de los cursos de capacitación de que trata el Artí
 PARÁGRAFO . Los Oficiales del Cuerpo Administrativo, para ascenso a los grados de Capitán o Teniente de Navío y de Mayor o Capitán de Corbeta, deberán realizar un curso de capacitación con una duración máxima de ocho (8) semanas.
 
 (Decreto 1495 de 2002 artículo 28)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3.19 — Especialidades de Combate
 
@@ -8586,8 +7866,6 @@ PARÁGRAFO 2. Las especialidades de Combate antes citadas se podrán adquirir en
 
 (Decreto 1495 de 2002 artículo 29)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.20 — Cursos y Exámenes para Ascenso de Suboficiales
 
 Para ingresar al escalafón de Suboficiales y ascender dentro de él, los interesados deben adelantar cursos de formación y capacitación, o presentar exámenes de competencia profesional, con base en directivas y programas preparados por los Comandos de Fuerza, los cuales deben contemplar por lo menos los siguientes cursos:
@@ -8602,8 +7880,6 @@ PARÁGRAFO . Los Suboficiales que con anterioridad a la vigencia del Decreto-ley
 
 (Decreto 1495 de 2002 artículo 30)
 
-ARTÍCULO
-
 ## art:2.3.1.1.3.21 — Especialidad de Combate para los Suboficiales
 
 Las especialidades de combate a que se refiere el parágrafo 2o. del artículo 54 del Decreto 1790 de 2000, como requisito para ascenso al grado de Sargento Segundo de las Armas en el Ejército, Suboficial Segundo de Infantería de Marina en la Armada y Técnico Segundo del Cuerpo Técnico de Seguridad y Defensa de Bases Aéreas en la Fuerza Aérea, serán las mismas establecidas para los Oficiales en los literales a), b), y e), del artículo 2.3.1.1.3 19 de esta Sección con las variantes apropiadas a los niveles de mando y preparación de los Suboficiales.
@@ -8614,23 +7890,17 @@ SECCIÓN 4.
 
 DE LAS DESTINACIONES, TRASLADOS, COMISIONES Y LICENCIAS
 
-ARTÍCULO
-
 ## art:2.3.1.1.4.1 — Destinaciones, Traslados y Términos
 
 Las destinaciones y traslados previstos en los literales a) y b) del artículo 82 del Decreto 1790 de 2000, se entenderán surtidos en las fechas indicadas en los actos administrativos correspondientes.
 
 (Decreto 1495 de 2002 artículo 32)
 
-ARTÍCULO
-
 ## art:2.3.1.1.4.2 — Prorroga de Comisiones
 
 Las prórrogas de las comisiones que sumadas al tiempo fijado inicialmente, excedan los límites señalados en el artículo 84 del Decreto 1790 de 2000, solo podrán ser autorizadas por quien tenga la facultad de conferir la comisión por todo el tiempo resultante de la suma de la comisión inicial y la prórroga o prórrogas.
 
 (Decreto 1495 de 2002 artículo 33)
-
-ARTÍCULO
 
 ## art:2.3.1.1.4.3 — Comisiones Diplomáticas
 
@@ -8645,8 +7915,6 @@ c) No tener solicitud de retiro pendiente.
 PARÁGRAFO . Las comisiones diplomáticas de los Oficiales de las Fuerzas Militares, podrán tener una duración hasta de veinticuatro (24) meses.
 
 (Decreto 1495 de 2002 artículo 34)
-
-ARTÍCULO
 
 ## art:2.3.1.1.4.4 — Comisiones de Estudios en el Exterior
 
@@ -8667,8 +7935,6 @@ PARÁGRAFO 1. En igualdad de condiciones, tendrán prelación para la asignació
 PARÁGRAFO 2. En la selección de candidatos para comisiones de estudios, se debe tener en cuenta que la especialidad del oficial o suboficial guarde relación con el curso que va a adelantar.
 
 (Decreto 1495 de 2002 artículo 35)
-
-ARTÍCULO
 
 ## art:2.3.1.1.4.5 — Comisiones Administrativas en el Exterior
 
@@ -8692,8 +7958,6 @@ SECCIÓN 5.
 
 DE LAS RESERVAS DE OFICIALES
 
-ARTÍCULO
-
 ## art:2.3.1.1.5.1 — Reserva de Primera Clase de Aviadores Civiles
 
 Los aviadores civiles a que hace referencia el literal f) del artículo 121 del Decreto 1790 de 2000, se les podrá conferir el grado de Teniente de Reserva, siempre y cuando cumplan los siguientes requisitos:
@@ -8703,8 +7967,6 @@ a) Haber adelantado un curso de orientación militar, de acuerdo a directiva que
 b) Tener el respectivo título profesional.
 
 (Decreto 1495 de 2002 artículo 37)
-
-ARTÍCULO
 
 ## art:2.3.1.1.5.2 — Reserva de Profesionales Egresados de la Universidad Militar
 
@@ -8722,8 +7984,6 @@ SECCIÓN 6.
 
 NORMAS PARA LOS ALUMNOS DE LAS ESCUELAS DE FORMACIÓN
 
-ARTÍCULO
-
 ## art:2.3.1.1.6.1 — Indemnización por Muerte
 
 Para los fines determinados en el artículo 145 del Decreto 1790 de 2000, las circunstancias de modo, tiempo y lugar en que se produjo la muerte del alumno de las Escuelas de Formación, deberán calificarse por el Director o Coman-dante de la respectiva Escuela.
@@ -8733,8 +7993,6 @@ Para los fines determinados en el artículo 145 del Decreto 1790 de 2000, las ci
 SECCIÓN 7.
 
 DE LOS GRADOS HONORARIOS
-
-ARTÍCULO
 
 ## art:2.3.1.1.7.1 — Grados Honorarios
 
@@ -8752,8 +8010,6 @@ SECCIÓN 8.
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.1 — Categoría de Profesores Militares
 
 Para efectos de lo dispuesto en el artículo 150 del Decreto 1790 de 2000, establécese las siguientes categorías de Profesores Militares:
@@ -8770,15 +8026,11 @@ e) Profesor Militar de Primera Categoría.
 
 (Decreto 1495 de 2002 artículo 40)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.2 — Profesores de Tiempo Completo o Incompleto
 
 Los Profesores Militares serán de tiempo completo o de tiempo incompleto, cualquiera que sea su categoría. De tiempo completo, aquellos que mediante disposición legal sean destinados a actividad exclusiva de profesorado; y de tiempo incompleto, aquellos que sean nombrados para dictar una o más asignaturas, sin perjuicio de las funciones del cargo que desempeñen.
 
 (Decreto 1495 de 2002 artículo 41)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.3 — Profesores Militares de Quinta Categoría
 
@@ -8792,8 +8044,6 @@ PARÁGRAFO . También podrán inscribirse en esta categoría, el Oficial o Subof
 
 (Decreto 1495 de 2002 artículo 42)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.4 — Profesores Militares de Cuarta Categoría
 
 Para ser profesor militar de cuarta categoría, se requiere haber dictado un mínimo de doscientas setenta (270) horas de clase en la respectiva especialidad, como Profesor de quinta categoría, en Institutos de Formación y Centros de Capacitación o Educación de las Fuerzas Militares.
@@ -8801,8 +8051,6 @@ Para ser profesor militar de cuarta categoría, se requiere haber dictado un mí
 PARÁGRAFO . Podrán inscribirse como Profesores Militares de cuarta categoría los Oficiales diplomados en Estado Mayor y los Oficiales o Suboficiales con título de formación universitaria o los técnicos especializados o tecnólogos, conforme a las normas de educación superior vigentes en todo tiempo, cuando hayan dictado un mínimo de doscientas setenta (270) horas de clase en la respectiva especialidad a que aspiran, en Institutos de Formación y Centros de Capacitación o Educación de las Fuerzas Militares, debidamente certificadas por el respectivo Director.
 
 (Decreto 1495 de 2002 artículo 43)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.5 — Profesores Militares de Tercera Categoría
 
@@ -8816,9 +8064,9 @@ PARÁGRAFO . Podrán inscribirse como profesores militares de tercera categoría
 
 (Decreto 1495 de 2002 artículo 44)
 
-## art:2.3.1 — 1.8.6
+## art:2.3.1.1.8.6 — Profesores Militares de Segunda Categoría
 
-Profesores Militares de Segunda Categoría. Para ser profesor militar de segunda categoría, se requiere cumplir los siguientes requisitos:
+Para ser profesor militar de segunda categoría, se requiere cumplir los siguientes requisitos:
 
 a) Ser diplomado en Estado Mayor o acreditar título de formación universitaria, conforme a las normas de educación superior vigentes en todo tiempo;
 
@@ -8829,8 +8077,6 @@ c) Ser autor de una monografía que sirva de texto base para el estudio de la ma
 PARÁGRAFO . Podrán inscribirse como profesores militares de segunda categoría, los oficiales o suboficiales que acrediten título de "Maestría", conforme a las normas de educación superior vigentes en todo tiempo y que hayan dictado un mínimo de quinientas (500) horas de clase en Institutos de Formación y Centros de Capacitación o Educación de las Fuerzas Militares.
 
 (Decreto 1495 de 2002 artículo 45)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.7 — Profesores Militares de Primera Categoría
 
@@ -8846,15 +8092,11 @@ PARÁGRAFO . Podrán inscribirse como profesores militares de primera categoría
 
 (Decreto 1495 de 2002 artículo 46)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.8 — Actividades Docentes en el Extranjero y en Universidades del País
 
 Los oficiales y suboficiales que desempeñen una función docente como profesores o instructores invitados en escuelas o institutos de las Fuerzas Militares extranjeras, o en universidades del país, tendrán derecho a que se les abonen las horas de clase que dicten para efectos de promoción a la categoría inmediatamente superior, previa certificación y concepto de los respectivos Comandantes, Directores o Rectores.
 
 (Decreto 1495 de 2002 artículo 4 7)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.9 — Ramas para la Especialización de Profesores
 
@@ -8862,15 +8104,11 @@ Determinase las siguientes grandes ramas para la especialización de oficiales y
 
 (Decreto 1495 de 2002 artículo 48)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.10 — Inscripción como Profesor Militar
 
 Los oficiales y suboficiales que reúnan los requisitos para ser inscritos como Profesores Militares en cualquiera de las ramas enumeradas en el artículo anterior y dentro de las categorías determinadas en el artículo 2.3.1.1.8.1., de esta Sección, deberán elevar su solicitud al Comando competente, adjuntando los documentos que acrediten el lleno de tales requisitos.
 
 (Decreto 1495 de 2002 artículo 49)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.11 — Autoridades para la Expedición de Títulos de Profesor Militar
 
@@ -8883,8 +8121,6 @@ b) Para profesores de Tercera, Cuarta y Quinta Categoría, por los respectivos C
 A los Oficiales y Suboficiales inscritos en una cualquiera de las categorías contempladas en el artículo 2.3.1.1.8.1., de esta Sección, se les expedirá el título correspondiente con indicación de la especialidad, dejando constancia de ello en los respectivos escalafones.
 
 (Decreto 1495 de 2002 artículo 50)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.12 — .12
 
@@ -8916,8 +8152,6 @@ b) A nivel Comando de Fuerza:
 
 (Decreto 1495 de 2002 artículo 51)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.13 — Funciones de las Juntas de Títulos de Profesor Militar
 
 Son funciones de las Juntas de Títulos de Profesor Militar:
@@ -8934,15 +8168,11 @@ PARÁGRAFO 2. Las Juntas de títulos académicos de profesor militar, deberán r
 
 (Decreto 1495 de 2002 artículo 52)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.14 — Validez de Títulos Anteriores
 
 Los títulos de Profesores Militar que se hayan conferido de acuerdo con normas legales anteriores al 30 de julio de 2002 (entrada en vigencia del Decreto 1495 de 2002), conservarán toda su validez.
 
 (Decreto 1495 de 2002 artículo 53)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.15 — Nombramiento y Remuneración de Profesores
 
@@ -8952,15 +8182,11 @@ PARÁGRAFO . Los Profesores Militares nombrados en la forma establecida en este 
 
 (Decreto 1495 de 2002 artículo 54)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.16 — Remuneración de Profesores de Tiempo Completo
 
 El Profesor Militar de tiempo completo, tendrá derecho a que se le pague la remuneración fijada para su categoría por cada hora de clase, cuando el número total de horas mensuales dictadas sea superior a veinte (20). La liquidación se hará por la cantidad de las horas que exceda a veinte (20) y hasta por un máximo de veinticuatro (24) horas mensuales adicionales. Para fines de remuneración por horas de clase, los Oficiales y Suboficiales de planta de Institutos de Formación y Centros de Capacitación o Educación de las Fuerzas Militares, se considerarán como Profesores de tiempo completo.
 
 (Decreto 1495 de 2002 artículo 55)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.17 — Remuneración de Profesores de Tiempo Incompleto
 
@@ -8968,23 +8194,17 @@ El Profesor Militar de tiempo incompleto tendrá derecho a que se le pague la re
 
 (Decreto 1495 de 2002 artículo 56)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.18 — Remuneración y Cómputo de Horas de Clase a Oficiales y Suboficiales no Escalafonados como Profesores Militares
 
 Los Oficiales y Suboficiales que sean nombrados para dictar clases en las Escuelas de Formación o Capacitación de las Fuerzas Militares, sin que tengan la categoría de profesores militares, se considerarán como profesores de Quinta Categoría para los efectos de remuneración y computo de horas de clase dictadas. Sí el nombramiento es para la Escuela Superior de Guerra, se considerarán como profesores de Tercera Categoría para los mismos efectos.
 
 (Decreto 1495 de 2002 artículo 57)
 
-ARTÍCULO
-
 ## art:2.3.1.1.8.19 — Distintivo de Profesor Militar
 
 El Oficial o Suboficial inscrito como Profesor Militar, podrá usar en la forma determinada por el respectivo Reglamento de Uniformes, el siguiente distintivo que será igual para todas las Fuerzas: un escudo en metal dorado de tres (3) centímetros de alto por dos y medio (21/2) centímetros de ancho, dividido en tres (3) fajas horizontales de igual altura, esmaltadas de arriba hacia abajo con los colores verde oliva, azul marino y azul celeste sobre los cuales irá convenientemente distribuida y en letras doradas la inscripción "Profesor Militar". En la parte superior y unidas al cuerpo del escudo, se colocarán pequeñas estrellas doradas de cinco (5) puntas y de cinco (5) milímetros de diámetro, que indicarán la Categoría del Profesor, así: una (1) estrella para Quinta Categoría; dos (2) para Cuarta; tres (3) para Tercera; cuatro (4) para Segunda y cinco (5) para Primera.
 
 (Decreto 1495 de 2002 artículo 58)
-
-ARTÍCULO
 
 ## art:2.3.1.1.8.20 — Profesores Militares Honorarios
 
@@ -8995,8 +8215,6 @@ El Ministerio de Defensa, mediante resolución, podrá nombrar como Profesores M
 SECCIÓN 9.
 
 REGLAMENTACIÓN DEL ARTÍCULO 11 DEL DECRETO LEY 1793 DE 2000
-
-ARTÍCULO
 
 ## art:2.3.1.1.9.1 — Suspensión por Detención Preventiva
 
@@ -9012,8 +8230,6 @@ PARÁGRAFO 4. Cuando se conceda el derecho de libertad provisional o condena de 
 
 (Decreto 2367 de 2012 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.1.9.2 — Levantamiento de la Suspensión
 
 Habrá lugar a levantar la suspensión del Soldado o Infante de Marina Profesional, con base en la comunicación de autoridad competente, a solicitud de parte, o de oficio, cuando hubiere sentencia o fallo absolutorio, se hubiesen vencido los términos de la suspensión provisional sin que se haya recibido comunicación de su prórroga, preclusión de la investigación, cesación de procedimiento o revocatoria del auto de detención.
@@ -9021,8 +8237,6 @@ Habrá lugar a levantar la suspensión del Soldado o Infante de Marina Profesion
 A partir de la fecha del levantamiento de la suspensión, el Soldado o Infante de Marina Profesional, devengará la totalidad del salario mensual devengado.
 
 (Decreto 2367 de 2012 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.1.9.3 — Utilización del Personal Suspendido
 
@@ -9040,15 +8254,11 @@ SECCIÓN 1.
 
 DE LAS ASIGNACIONES, SUBSIDIOS Y PRIMAS.
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.1 — Límite de Remuneraciones Especiales
 
 Los Oficiales y Suboficiales que se encuentren en las situaciones previstas en el artículo 77 del Decreto 1211 de 1990 tienen la obligación de informar por escrito al Comando de la respectiva Fuerza sobre los ingresos que tendrán en razón del desempeño del cargo, para hacer los ajustes necesarios en las acarreará la acción disciplinaria respectiva.
 
 (Decreto 989 de 1992 artículo 62)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.2 — Subsidio Familiar
 
@@ -9056,15 +8266,11 @@ Para los efectos del reconocimiento del Subsidio Familiar, el interesado formula
 
 (Decreto 989 de 1992 artículo 63)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.3 — Descuento del Subsidio Familiar
 
 Para aplicar el descuento previsto en el artículo 82 del Decreto 1211 de 1990 se ordenará previamente por el superior inmediato o por otro cualquiera dentro de la línea de mando que el Oficial o Suboficial infractor rinda un informe sobre la causa o causas de su omisión. Este informe, una vez conocido y conceptuado por el superior inmediato del inculpado, debe remitirse al respectivo Comando de Fuerza, en donde se calificarán las explicaciones dadas por el interesado. Si no se hallaren justificadas se elaborará la disposición de descuento para la firma del Comandante de Fuerza. Las sumas descontadas por este concepto ingresarán a la Caja de Retiro de las Fuerzas Militares.
 
 (Decreto 989 de 1992 artículo 64)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.4 — Prohibición Pago Doble Subsidio Familiar
 
@@ -9072,15 +8278,11 @@ Para hacer efectivo el cumplimiento de lo dispuesto en el artículo 83 del Decre
 
 (Decreto 989 de 1992 artículo 65)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.5 — Prima de Buceria
 
 Además de los requisitos establecidos en el artículo 88 del Decreto 1211 de 1990, para el pago de la Prima de Buceria a los Oficiales y Suboficiales de la Armada, el tiempo de buceo deberá certificarse por el Comandante que lo ordenó o autorizó, mediante cuadro o planilla explicativa que debe rendirse mensualmente al Comando de la respectiva Fuerza.
 
 (Decreto 989 de 1992 artículo 66)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.6 — Requisitos para Clasificación de Buzos
 
@@ -9116,8 +8318,6 @@ e) Para ser clasificado como Buzo Maestro:
 
 (Decreto 989 de 1992 artículo 67)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.7 — Título de Comandos
 
 Se otorgará el título de Comando Especial Terrestre en el Ejército, Comando Anfibio o de selva en la Armada y Comando Especial Aéreo en la Fuerza Aérea, a quienes hubieren adelantado y aprobado tres (3) de los siguientes cursos dentro de cada Fuerza:
@@ -9129,8 +8329,6 @@ b) En la Armada: Lancero, Paracaidista, Contraguerrillas, Reconocimiento Anfibio
 c) En la Fuerza Aérea: Lancero, Paracaidista Militar, Contraguerrillas y Fuerzas Especiales.
 
 (Decreto 989 de 1992 artículo 68)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.8 — Requisitos para Devengar la Prima de Comandos
 
@@ -9145,8 +8343,6 @@ c) Cumplir por lo menos una misión como integrante de Fuerzas Especiales durant
 PARÁGRAFO . Para la cancelación de la Prima de Comandos, las Unidades que tengan Oficiales y Suboficiales con derecho a ella, pasarán mensualmente la correspondiente relación al respectivo Comando de Fuerza para su revisión y liquidación a través de las nóminas mensuales elaboradas por la División de informática del Ministerio de Defensa.
 
 (Decreto 989 de 1992 artículo 69)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.9 — Prima de Especialista para Suboficiales
 
@@ -9164,15 +8360,11 @@ PARÁGRAFO 2. No se consideran especialidades técnicas, aquellas labores admini
 
 (Decreto 989 de 1992 artículo 70)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.10 — Suspensión de la prima de Especialista
 
 Cuando un Suboficial a quien se haya reconocido la Prima de Especialista pase a desempeñar cargos o funciones ajenas a la especialidad técnica que dio origen al reconocimiento, el Comando de la respectiva Fuerza debe dar aviso inmediato a la División de Informática del Ministerio de Defensa para que suspenda el pago de la Prima.
 
 (Decreto 989 de 1992 artículo 71)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.11 — Requisitos para el Reconocimiento de la Prima de Instalación
 
@@ -9186,15 +8378,11 @@ PARÁGRAFO . Para el reconocimiento y pago de la citada prima a los Oficiales y 
 
 (Decreto 989 de 1992 artículo 72)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.12 — Prima de Navidad en el Exterior
 
 La prima de navidad de que trata el parágrafo 2o del artículo 95 del Decreto 1211 de 1990, sólo se liquidará y pagará en la forma allí establecida, cuando el Oficial o Suboficial que cumpla la comisión permanente en el exterior se encuentre en desempeño de ella el 30 de noviembre del respectivo año.
 
 (Decreto 989 de 1992 artículo 73)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.13 — Prima para Oficiales del Cuerpo Administrativo
 
@@ -9208,8 +8396,6 @@ PARÁGRAFO . No se considerarán especialidades profesionales, aquellas labores 
 
 (Decreto 989 de 1992 artículo 74)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.14 — Suspensión de la Prima para Oficiales del Cuerpo Administrativo
 
 Los Oficiales del Cuerpo Administrativo, a quienes se reconozca la prima de que trata el artículo 96 del Decreto 1211 de 1990, están obligados a solicitar la suspensión de la misma, a partir del momento en que dejen de reunir cualquiera de los requisitos establecidos para el efecto. Quienes no cumplieren esta obligación, deberán pagar al Tesoro Público. Ministerio de Defensa Nacional, una suma igual a lo indebidamente recibido por tal concepto, sin perjuicio de la acción disciplinaria que corresponda al caso; dicha suma será descontable de los haberes o prestaciones sociales del Oficial, mediante resolución del Comando de Fuerza e ingresará a la Caja de Retiro de las Fuerzas Militares.
@@ -9218,15 +8404,11 @@ Los Comandantes o Jefes de los Oficiales que disfruten de la prima citada, deben
 
 (Decreto 989 de 1992 artículo 75)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.15 — Prima de Salto
 
 El personal de las Fuerzas Militares que como consecuencia del entrenamiento en paracaídas desde una aeronave en vuelo, ordenado por autoridad competente, se inhabilite físicamente para continuar saltando de acuerdo a concepto de la Sanidad Militar de la respectiva Fuerza y tenga contabilizados ciento veinte (120) saltos o más, tendrá derecho a seguir percibiendo esta prima, en el porcentaje que tenga reconocido, sin necesidad de efectuar salto alguno.
 
 (Decreto 989 de 1992 artículo 76)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.16 — Reconocimiento y Pago de la Prima de Vacaciones
 
@@ -9240,8 +8422,6 @@ PARÁGRAFO 2. Cuando por cualquier circunstancia el Oficial o Suboficial reciba 
 
 (Decreto 989 de 1992 artículo 77)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.17 — Dotación Anual, Inicial y Adicional de Vestuario y Equipo
 
 El Oficial o Suboficial en servicio activo, tendrá derecho a una partida anual de vestuario, así: Oficiales Generales y de Insignia el 47% del sueldo básico de un General; Oficiales Superiores el 55% del sueldo básico de un Coronel; Oficiales Subalternos el 45% del sueldo básico de un Coronel; Sargento Mayor; Suboficiales (SS., CP., CS.) el 66% del sueldo básico de un Sargento Mayor.
@@ -9249,8 +8429,6 @@ El Oficial o Suboficial en servicio activo, tendrá derecho a una partida anual 
 Esta partida es acumulable de un (1) año para otro, pero no es reconocible en dinero. El derecho a hacer uso de ella se pierde a partir de la fecha de la disposición que cause el retiro del servicio activo o la separación del Oficial o Suboficial.
 
 (Decreto 989 de 1992 artículo 78)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.18 — Compra de Elementos
 
@@ -9265,8 +8443,6 @@ DE LAS PRESTACIONES EN ACTIVIDAD, EN RETIRO, POR SEPARACIÓN, POR INCAPACIDAD E 
 SUBSECCIÓN 1.
 
 DE LAS PRESTACIONES EN ACTIVIDAD
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.1 — Servicios Médico-Asistenciales
 
@@ -9302,15 +8478,11 @@ PARÁGRAFO 3. Autorizase a los Comandos de Fuerza para exigir las pruebas comple
 
 (Decreto 989 de 1992 artículo 86)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.2 — Prestación de Servicios por otras Entidades
 
 Cuando la Unidad Médica de una guarnición militar no esté en capacidad de prestar el servicio requerido, el Ministerio de Defensa Nacional podrá contratar los servicios de profesionales o entidades particulares, para atender tales necesidades.
 
 (Decreto 989 de 1992 artículo 87)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.3 — Atención a Casos de Urgencia
 
@@ -9320,8 +8492,6 @@ PARÁGRAFO . Se consideran casos de urgencia, los determinados por accidente o e
 
 (Decreto 989 de 1992 artículo 88)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.4 — Tramitación de Cuentas de Cobro
 
 Para el reconocimiento y pago de los servicios prestados por los profesionales y las entidades particulares de que tratan los artículos 2.3.1.2.2.1.2., y 2.3.1.2.2.1.3., de la presente Subsección, deberán formularse y tramitarse las correspondientes cuentas de cobro de acuerdo con los procedimientos administrativos vigentes.
@@ -9330,15 +8500,11 @@ PARÁGRAFO . El valor de los servicios a que se refiere el presente artículo, s
 
 (Decreto 989 de 1992 artículo 89)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.5 — No Utilización de Servicios
 
 Cuando los beneficiarios del Oficial o Suboficial no utilicen los servicios asistenciales de la Sanidad Militar o de las personas o entidades particulares autorizadas para prestarlos, el Ministerio de Defensa quedará exonerado de toda responsabilidad y no cubrirá cuenta alguna por concepto de servicios substitutivos de los anteriores. Se exceptúan de esta norma, los casos de urgencias que deban ser atendidos por personas o entidades diferentes de acuerdo con lo previsto en el artículo 2.3.1.2.2.1.3., de la presente Subsección.
 
 (Decreto 989 de 1992 artículo 90)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.6 — Atención a Enfermos Especiales
 
@@ -9346,13 +8512,11 @@ Los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y afines de 
 
 (Decreto 989 de 1992 artículo 91)
 
-## art:2.3.1.2.2.1 — 7. Sanción por no Utilización de Servicios
+## art:2.3.1.2.2.1.7 — Sanción por no Utilización de Servicios
 
 Serán de cargo del causante los gastos de preparación de salas de cirugía o consultorios especializados, con base en tarifas fijadas por los establecimientos hospitalarios de las Fuerzas Militares o por las clínicas particulares autorizadas, cuando sin motivo plenamente justificado el paciente deje de concurrir a la cita que se le da para una intervención quirúrgica o consulta especial.
 
 (Decreto 989 de 1992 artículo 92)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.8 — Pago por Servicios Indebidos
 
@@ -9360,15 +8524,11 @@ El Oficial o Suboficial que obtuviere carné para la prestación de servicios as
 
 (Decreto 989 de 1992 artículo 93)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.9 — Anticipo de Cesantía
 
 El anticipo de cesantía de que trata el artículo 153 del Decreto 1211 de 1990, sólo se liquidará y pagará al Oficial o Suboficial que lo solicite cuando así lo autorice el Ministerio de Defensa con base en las correspondientes disponibilidades presupuestales y a petición escrita del interesado, la cual puede ser formulada directamente o por conducto de la Caja de Vivienda Militar.
 
 (Decreto 989 de 1992 artículo 94)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.10 — Solicitud Directa del Anticipo
 
@@ -9410,8 +8570,6 @@ PARÁGRAFO . En todos los casos a que se refieren los literales anteriores, se r
 
 (Decreto 989 de 1992 artículo 95)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.11 — Solicitud por Conducto de la Caja de Vivienda Militar
 
 Cuando la solicitud de liquidación del anticipo de cesantía se haga por conducto de la Caja de Vivienda Militar, el interesado deberá presentar los documentos que esta entidad exija; a su vez la solicitud de la Vivienda Militar al Ministerio de Defensa, deberá ir acompañada de la siguiente documentación:
@@ -9429,8 +8587,6 @@ e) Autorización conferida por el interesado a la Caja de Vivienda Militar, para
 f) Fotocopia de la cédula de ciudadanía.
 
 (Decreto 989 de 1992 artículo 96)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.12 — Preparación de los Turnos de Vacaciones
 
@@ -9456,8 +8612,6 @@ h) Comandos de Batallón, Base Naval o Fluvial, Unidad a Flote, Apostadero Naval
 
 (Decreto 989 de 1992 artículo 97)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.13 — Obligatoriedad de las Vacaciones y Tiempo para Disfrutarlas
 
 El personal de Oficiales y Suboficiales de las Fuerzas Militares podrá disfrutar sus vacaciones en cualquier momento mientras permanezcan en servicio activo. El reconocimiento y pago de las vacaciones causadas y no disfrutadas, se continuará haciendo exigible a partir de la fecha en la que los oficiales y suboficiales sean retirados o se retiren del servicio activo, sin perjuicio de lo establecido en el artículo 174 del Decreto- ley 1211 de 1990.
@@ -9465,8 +8619,6 @@ El personal de Oficiales y Suboficiales de las Fuerzas Militares podrá disfruta
 Las entidades que de acuerdo con el artículo anterior tienen a su cargo la preparación de los turnos de vacaciones y el control de su ejecución o cumplimiento, no podrán introducirles modificaciones sin la expresa autorización del respectivo Comando de Fuerza. Se exceptúa de esta norma el Comando General de las fuerzas Militares, el cual deberá en todo caso informar a la Fuerza interesada sobre las modificaciones que autorice u ordene.
 
 (Decreto 989 de 1992 artículo 98, modificado por el artículo 1 del Decreto 3663 de 2007)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.14 — Año de Servicio Cumplido o Continuo
 
@@ -9478,15 +8630,11 @@ PARÁGRAFO 2. No se consideran como de servicios, el lapso que exceda de los pri
 
 (Decreto 989 de 1992 artículo 99)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.15 — Vacaciones del Personal en Comisión en otras Entidades
 
 Los Oficiales y Suboficiales de las Fuerzas Militares en actividad, cuando presten sus servicios en comisión en otras dependencias del Estado, disfrutarán de sus vacaciones anuales de acuerdo con las necesidades de la respectiva dependencia, la cual debe expedir con destino al Comando de la Fuerza interesada una certificación sobre la época y circunstancia en que el comisionado hace uso de tales vacaciones.
 
 (Decreto 989 de 1992 artículo 100)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.16 — Suspensión, Goce de Vacaciones
 
@@ -9494,15 +8642,11 @@ Cuando por necesidades del servicio y con la autorización del Comando General o
 
 (Decreto 989 de 1992 artículo 101)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.17 — Vacaciones del Comandante General de las Fuerzas Militares, Comandantes de Fuerza y Otros
 
 El Ministro de Defensa determinará la época del año en que el Comandante General de las Fuerzas Militares puede hacer uso de vacaciones. Este último, a su vez, fijará las fechas en que deben disfrutar de vacaciones los Comandantes de Fuerza, el Jefe del Estado Mayor Conjunto el Director de la Escuela Superior de Guerra.
 
 (Decreto 989 de 1992 artículo 102)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.18 — Vacaciones del Personal en Comisión en el Exterior
 
@@ -9514,8 +8658,6 @@ SUBSECCIÓN 2.
 
 PRESTACIÓN POR RETIRO.
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.2.1 — Servicios Médico-Asistenciales en Retiro
 
 Para prestación de los servicios médico-asistenciales consagrados en el artículo 176 del Decreto 1211 de 1990, a favor de las personas allí mencionadas, regirán las mismas normas establecidas en los artículos 2.3.1.2.2.1.1., a 2.3.1.2.2.1.8., de la presente Sección, con la salvedad de que la expedición de carnés de identidad y la exigencia de las respectivas pruebas estarán a cargo de la Caja de Retiro de las Fuerzas Militares, si se trata de personas en goce de asignación de retiro, o del Fondo Asistencial de Pensionados del Ministerio de Defensa Nacional, si se trata de personas en goce de pensión pagadera por el Tesoro Público.
@@ -9526,15 +8668,11 @@ SUBSECCIÓN 3
 
 PRESTACIÓN POR MUERTE.
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.3.1 — Dependencia Económica de Beneficiarios
 
 La carencia de medios de subsistencia y la dependencia económica como condición para el reconocimiento y pago de las prestaciones a favor de los hermanos menores de 18 años de edad del Oficial o Suboficial, deberá comprobarse mediante la presentación de copia auténtica de la última declaración de renta de la persona o personas que pretendan la prestación, o certificación de la respectiva Administración de Hacienda en el sentido de que no declaran renta ni patrimonio y declaración juramentada en donde deberá expresarse que al fallecimiento del causante el peticionario dependía económicamente de éste.
 
 (Decreto 989 de 1992 artículo 105)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.3.2 — Tres Meses de Alta por Fallecimiento
 
@@ -9542,15 +8680,11 @@ El pago de los haberes correspondientes a los tres (3) meses de alta consagrados
 
 (Decreto 989 de 1992 artículo 106)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.3.3 — Pasajes y Prima de Instalación para Familiares de Personal Fallecido en el Exterior
 
 El derecho consagrado en el parágrafo del artículo 187 del Decreto 1211 de 1990, sobre pasajes y prima de instalación para el cónyuge e hijos del Oficial o Suboficial en servicio activo que falleciere en el exterior, sólo se refiere a los necesarios para su regreso a Colombia, siempre y cuando hubiesen estado residiendo con el Oficial o Suboficial en el lugar de su deceso y este hubiere ocurrido durante el desempeño de una comisión del servicio.
 
 (Decreto 989 de 1992 artículo 107)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.3.4 — Comprobación de Situaciones para Goce de Pensión
 
@@ -9568,15 +8702,11 @@ PARÁGRAFO . Los beneficiarios de las pensiones a que se refiere el presente art
 
 (Decreto 989 de 1992 artículo 108)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.3.5 — Servicios Médico-Asistenciales para Familiares de Personal Fallecido en Actividad
 
 Para la prestación de los servicios médico-asistenciales a los beneficiarios de que trata el artículo 194 del Decreto 1211 de 1990 regirán las mismas normas consignadas en los artículos 2.3.1.2.2.1.1., a 2.3.1.2.2.1.8., de la presente Sección, con la salvedad de que los servicios especiales y la expedición de carnés de identificación, estarán a cargo del Fondo Asistencial de Pensionados del Ministerio de Defensa.
 
 (Decreto 989 de 1992 artículo 110)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.3.6 — Servicios Médico-Asistenciales para Familiares de Personal Fallecido en goce de Asignación de Retiro o Pensión
 
@@ -9587,8 +8717,6 @@ Para la prestación de los servicios médico-asistenciales a los beneficiarios d
 SUBSECCIÓN 4.
 
 DESAPARECIDOS Y PRISIONEROS.
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.4.1 — Procedimiento en Caso de Desaparecimiento
 
@@ -9602,8 +8730,6 @@ c) Vencido el término a que se refiere el literal anterior, el Instructor remit
 
 (Decreto 989 de 1992 artículo 112)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.4.2 — Aparecimiento
 
 Si el presunto desaparecido, apareciere o se tuviere noticias ciertas de su existencia, el Comando de la Fuerza a que pertenece ordenará adelantar una investigación de carácter administrativo, con el objeto de precisar:
@@ -9615,8 +8741,6 @@ b) Las actividades desarrolladas por el individuo durante el tiempo comprendido 
 PARÁGRAFO . Si en la investigación administrativa se llegaren a establecer acciones u omisiones que deban ser investigadas por la Justicia Penal Militar o por la Ordinaria, se compulsará copia del expediente administrativo a fin de que se adelante el proceso a que haya lugar.
 
 (Decreto 989 de 1992 artículo 113)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.4.3 — Fallo y Sanciones
 
@@ -9636,23 +8760,17 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.1 — Objeto y Alcance
 
 El presente Capítulo, tiene por objeto regular el otorgamiento, promoción y uso de las condecoraciones militares; establecer su clasificación, precedencia y características generales, así como las circunstancias por las cuales se pierde el derecho a usarlas.
 
 (Decreto 4444 de 2010 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.2 — 1.2
 
 El propósito que se persigue al conferir las condecoraciones en las Fuerzas Militares, es el de honrar públicamente a sus integrantes y personal ajeno a ellas, que se destaquen por actos de valor y servicios distinguidos en guerra internacional, estados de excepción, virtudes militares y profesionales de carácter excepcional; consagración al estudio y a la investigación en beneficio de las instituciones militares y en servicios extraordinarios al conjunto de estas o a cualquiera de sus componentes.
 
 (Decreto 4444 de 2010 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.3 — Creación o Supresión de Condecoraciones
 
@@ -9676,15 +8794,11 @@ PARÁGRAFO 3. Para tener derecho al uso de las condecoraciones conferidas por Go
 
 (Decreto 4444 de 2010 artículo 221)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.5 — Personal al cual pueden Conferirse
 
 Las condecoraciones militares podrán conferirse a los miembros activos y retirados de las Fuerzas Militares, Policía Nacional, autoridades civiles y eclesiásticas tanto nacionales como extranjeras, unidades militares, entidades públicas o privadas, servidores públicos y a particulares, en la categoría que corresponda a cada jerarquía, dignidad, posición, acto o merecimiento, de acuerdo con lo estipulado para cada evento en este Capítulo.
 
 (Decreto 4444 de 2010 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.6 — Valor Intrínseco
 
@@ -9692,15 +8806,11 @@ Dentro de la escala de premios y distinciones, las condecoraciones ocupan el má
 
 (Decreto 4444 de 2010 artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.7 — 1.7
 
 En las Jefaturas de Desarrollo Humano de cada una de las Fuerzas, o quien haga sus veces, debe llevarse el registro de las condecoraciones conferidas y enviar copia a la Jefatura de Desarrollo Humano Conjunto J-1 del Comando General de las Fuerzas Militares, o quien haga sus veces.
 
 (Decreto 4444 de 2010 artículo 220)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.8 — Prohibición
 
@@ -9722,8 +8832,6 @@ PARÁGRAFO 2. Las medallas cívicas o de entidades públicas o privadas como Gob
 
 (Decreto 4444 de 2010 artículo 222)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.9 — Pérdida del Derecho al Uso
 
 Se pierde el derecho al uso de las condecoraciones por las siguientes causas:
@@ -9734,15 +8842,11 @@ b) Para los servidores públicos del sector Defensa y los particulares, por habe
 
 (Decreto 4444 de 2010 artículo 223)
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.10 — Uso sin Derecho
 
 El miembro de las Fuerzas Militares que sin derecho, use condecoraciones o lo haga en categorías diferentes a aquellas a las que le han sido otorgadas y que en el presente Capítulo se autorizan, incurrirá en las sanciones de conformidad con las normas legales vigentes.
 
 (Decreto 4444 de 2010 artículo 224)
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.11 — Plagios
 
@@ -10189,8 +9293,6 @@ Medalla Militar "Mérito Aeronáutico General José Delfín Torres Durán".
 
  (Adiciona art 3 del decreto 873 de 2025)
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.3 — Características Generales
 
 Las joyas de las condecoraciones y medallas militares serán del material, colores, forma y dimensiones establecidos para cada una en particular en el presente Capítulo.
@@ -10202,8 +9304,6 @@ Las veneras para condecoraciones y medallas serán metálicas, esmaltadas al fue
 SECCIÓN 3.
 
 REQUISITOS GENERALES PARA EL OTORGAMIENTO Y FECHAS DE IMPOSICIÓN
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.1 — Requisitos
 
@@ -10253,8 +9353,6 @@ PARÁGRAFO . Se exceptúa de estos requisitos, los Oficiales Generales o de Insi
 
 (Decreto 4444 de 2010 artículo 9)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.2 — Solicitud y Trámite
 
 Las solicitudes para conferir o retirar el derecho al uso de las medallas y condecoraciones se elaboran conforme al formato que para tal efecto adopten los Comandos de Fuerza; se tramitan por conducto regular y se someten a la consideración del Consejo o autoridad que la confiere, de acuerdo con las siguientes normas:
@@ -10272,8 +9370,6 @@ PARÁGRAFO 1. Las solicitudes relacionadas con las órdenes se envían al Gran C
 PARÁGRAFO 2. Las disposiciones contenidas en el presente artículo no son aplicables cuando la solicitud de la medalla o condecoración la eleve el Ministerio de Defensa Nacional.
 
 (Decreto 4444 de 2010 artículo 10)
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.3 — Solicitudes, Promociones y Requisitos
 
@@ -10305,8 +9401,6 @@ SUBSECCIÓN 1.
 
 ORDEN MILITAR DE "SAN MATEO".
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.1.1 — Origen y Categorías
 
 Creada mediante la Ley número 40 de 1913 y reglamentada por el Decreto número 349 de 1914, está destinada a exaltar a los miembros de las Fuerzas Militares que en defensa de la patria hayan prestado servicios eminentes o ejecutado actos heroicos y de valor. Ostenta tres (3) categorías:
@@ -10318,8 +9412,6 @@ b) Cruz de Segunda Clase;
 c) Cruz de Tercera Clase.
 
 (Decreto 4444 de 2010 artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.1.2 — Otorgamiento
 
@@ -10335,15 +9427,11 @@ Los servicios eminentes y los actos de valor heroico a que se refiere el artícu
 
 (Decreto 4444 de 2010 artículo 14)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.1.3 — Imposición
 
 El acto de imposición de la Orden Militar de "San Mateo" debe revestir la mayor solemnidad y para la ceremonia se conformará un destacamento con elementos de las tres (3) Fuerzas. Preside el acto el señor Presidente de la República, quien impone la condecoración; en este momento se disparan salvas de artillería y las bandas interpretan el Himno Nacional.
 
 (Decreto 4444 de 2010 artículo 15)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.1.4 — Honores
 
@@ -10351,15 +9439,11 @@ Los militares condecorados con la Orden Militar de "San Mateo", cuando la porten
 
 (Decreto 4444 de 2010 artículo 16)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.1.5 — Promoción
 
 Cuando con posterioridad al otorgamiento de la Orden Militar de "San Mateo" en la categoría de segunda o tercera clase, el militar distinguido ha ejecutado una nueva acción de valor que le dé derecho a la categoría siguiente, puede el Presidente de la República, mediante la apreciación de los hechos, decretar la promoción dentro de las formalidades establecidas en el artículo 2.3.1.3.4.1.2., del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 17)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.1.6 — Características
 
@@ -10368,8 +9452,6 @@ La joya de la Orden Militar "San Mateo" consiste en una Cruz de Malta en hierro 
 En el brazo superior de la cruz lleva un broche, del cual va suspendida por medio de una cinta de seda moaré de tres (3) centímetros de ancho y cuatro (4) de largo, con los colores nacionales; sobre esta cinta, hacia el centro, va el Escudo de Armas de la República, en relieve. En la cruz de primera clase, los brazos orlados y las esferas de las puntas son de oro brillante, lo mismo que el Escudo de Armas de la República que va sobre la cinta y el busto es de oro mate. En la cruz de segunda clase, las esferas, las orlas de los brazos y el escudo de la cinta son de plata brillante; el busto es de plata mate. En la tercera clase, todos los elementos son de hierro; inclusive el busto y el Escudo de la cinta.
 
 (Decreto 4444 de 2010 artículo 18)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.1.7 — Diploma
 
@@ -10381,8 +9463,6 @@ SUBSECCIÓN 2.
 
 MEDALLA POR SERVICIOS EN "GUERRA INTERNACIONAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.2.1 — Origen y Categorías
 
 Creada mediante Decreto número 812 de 1952, con destino a los miembros de las Fuerzas Militares que presten su contingente en guerras de esta naturaleza. La condecoración tiene dos (2) categorías a saber:
@@ -10392,8 +9472,6 @@ a) Cruz de Hierro;
 b) Estrella de Bronce.
 
 (Decreto 4444 de 2010 artículo 20)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.2.2 — Otorgamiento
 
@@ -10409,15 +9487,11 @@ El Comando General de las Fuerzas Militares, de La Jefatura de Desarrollo Humano
 
 (Decreto 4444 de 2010 artículo 21)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.2.3 — Imposición
 
 Siempre y cuando las circunstancias lo permitan, estas condecoraciones serán enviadas al teatro de operaciones para que el comandante respectivo las imponga en ceremonia especial.
 
 (Decreto 4444 de 2010 artículo 22)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.2.4 — Características
 
@@ -10440,8 +9514,6 @@ Es de cinco (5) puntas, con una separación de veinticinco (25) milímetros entr
 El Comandante General de las Fuerzas Militares determinará en cada caso, según la campaña de que se trata, las características de la cinta de la cual penden la Cruz de Hierro y la Estrella de Bronce, así como los demás detalles que deban grabarse en las condecoraciones.
 
 (Decreto 4444 de 2010 artículo 23)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.2.5 — Diplomas
 
@@ -10471,15 +9543,11 @@ SUBSECCIÓN 3.
 
 MEDALLA MILITAR "AL VALOR"
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.3.1 — Origen
 
 Creada mediante Decreto 2281 del 10 de noviembre de 1998, para premiar a los Oficiales, Suboficiales, Soldados y Civiles de las Fuerzas Militares que ejecuten actos personales de valor y arrojo, independientes de los resultados colectivos de una determinada unidad. Es en suma, una distinción a la calidad humana de la persona en cuanto tal. Tienen por tanto, un carácter humanista, predominante en el desarrollo de las tareas de mantenimiento y restablecimiento del orden público.
 
 (Decreto 4444 de 2010 artículo 25)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.3.2 — Otorgamiento
 
@@ -10488,8 +9556,6 @@ La Medalla será conferida por el Comandante General de las Fuerzas Militares y 
 PARÁGRAFO . Una vez aprobado el otorgamiento de la medalla, corresponderá al Comando de la Fuerza respectiva de la cual es orgánico el agraciado, elaborar la resolución por medio de la cual se confiere la presea.
 
 (Decreto 4444 de 2010 artículo 26)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.3.3 — Consejo de la Medalla
 
@@ -10507,15 +9573,11 @@ Fuerza, según corresponda.
 
 (Decreto 4444 de 2010 artículo 27)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.3.4 — Imposición
 
 La Medalla será impuesta en el menor tiempo posible después de sucedidos los hechos donde se hayan ejecutado los actos de valor, en ceremonia especial, de acuerdo con el reglamento de Ceremonial Militar.
 
 (Decreto 4444 de 2010 artículo 28)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.3.5 — Características
 
@@ -10523,15 +9585,11 @@ La joya consiste en una medalla de forma circular de cincuenta milímetros de di
 
 (Decreto 4444 de 2010 artículo 29)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.3.6 — Otorgamiento
 
 Cuando la medalla se confiere: Por segunda vez, en la venera en lugar del escudo, en la cinta llevará una estrella de bronce de cinco (5) puntas y cinco (5) milímetros de diámetro; cuando se confiere por tercera vez lleva dos (2) estrellas similares a la ya descrita, una de bronce y una de plata, que se colocan en forma horizontal, con cinco (5) milímetros de separación una de la otra. Al conferirse por cuarta vez, lleva tres (3) estrellas similares a las ya descritas: una de bronce, una de plata y una de oro, colocadas en la venera en forma horizontal similar a lo dispuesto por tercera vez y en la cinta están colocadas en triángulo, de tal manera que queden dos en la parte superior en sentido horizontal y la tercera cinco milímetros debajo de las anteriores. Si se llega a conferir por quinta vez, lleva cuatro (4) estrellas similares a las ya descritas; una de bronce, una de plata y dos (2) de oro, colocadas en la venera en forma horizontal, similar a la anterior y en la cinta colocadas formando un cuadro de cinco (5) milímetros de lado, de tal forma que las dos estrellas de oro queden en la base de dicho cuadro. Si la condecoración se otorga por sexta vez llevará un sol y un laurel en oro, en la parte superior; por séptima vez, dos soles con un laurel; por octava vez, tres soles con un laurel; por novena vez, cuatro soles con un laurel; por décima vez, cinco soles con un laurel, y así sucesivamente las veces que sea necesario, siempre en la parte superior.
 
 (Decreto 4444 de 2010 artículo 30)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.3.7 — Diploma
 
@@ -10543,15 +9601,11 @@ SUBSECCIÓN 4.
 
 MEDALLA MILITAR "HERIDO EN ACCIÓN"
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.4.1 — Origen
 
 La Medalla Militar "Herido en Acción" fue creada en el artículo 42 del Decreto 1816 de 2007, para reconocer a lo Oficiales, Suboficiales. Soldados, Infantes de Marina y civiles de las Fuerzas Militares que presten sus servicios en áreas en donde se desarrollen operaciones para el restablecimiento y mantenimiento del Orden Público, y sean heridos en combate o como consecuencia de la acción del enemigo.
 
 (Decreto 4444 de 2010 artículo 32)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.4.2 — Consejo de la Medalla
 
@@ -10569,8 +9623,6 @@ Fuerza, según corresponda.
 
 (Decreto 4444 de 2010 artículo 33)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.4.3 — Otorgamiento
 
 La Medalla será conferida por el Comandante General de las Fuerzas Militares o los Comandantes de Fuerza, según corresponda. Igualmente podrá ser conferida, a una misma persona tantas veces se haga acreedora a ella, en acciones diferentes.
@@ -10581,15 +9633,11 @@ PARÁGRAFO Transitorio. Al personal de Oficiales, Suboficiales, Soldados, Infant
 
 (Decreto 4444 de 2010 artículo 34)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.4.4 — Imposición
 
 La Medalla será impuesta en el menor tiempo posible después de sucedidos los hechos al agraciado en ceremonia especial, de acuerdo con el reglamento de Ceremonial Militar.
 
 (Decreto 4444 de 2010 artículo 35)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.4.5 — Características
 
@@ -10605,8 +9653,6 @@ PARÁGRAFO . La venera de que trata el presente artículo, debe portarse de form
 
 (Decreto 4444 de 2010 artículo 36)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.4.6 — Diploma
 
 El diploma que acredita el Otorgamiento de la Medalla Militar "HERIDO EN ACCIÓN" debe ser elaborado en papel pergamino o cartulina blanco, de las siguientes dimensiones: Treinta y cinco (35) centímetros de largo por veinticinco (25) centímetros de ancho, con el dibujo del anverso de la medalla al lado izquierdo superior y el reverso al lado derecho superior y en el centro la siguiente leyenda:
@@ -10617,15 +9663,11 @@ SUBSECCIÓN 5.
 
 MEDALLA SERVICIOS DISTINGUIDOS EN "ORDEN PÚBLICO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.5.1 — Origen
 
 Creada mediante Decreto número 803 de 1952 y reglamentada por los Decretos números 55 de 1963 (enero 11), 581 de 1975 (marzo 31) y Decreto 1880/88, con el fin de recompensar a los miembros de las Fuerzas Militares que, prestando sus servicios en Orden Público, en función del mismo, sobresalgan por una acción distinguida de valor, fuera del común cumplimiento del deber.
 
 (Decreto 4444 de 2010 artículo 38)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.5.2 — Otorgamiento
 
@@ -10645,8 +9687,6 @@ PARÁGRAFO 3. Cuando esta condecoración ha sido impuesta en varias oportunidade
 
 (Decreto 4444 de 2010 artículo 39)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.5.3 — Características
 
 La joya tiene las siguientes características: Es una Cruz teutónica de cuarenta y cinco (45) milímetros en sus ejes máximos. En su centro lleva un sable en banda y un fusil en barra entrelazada con una rama de laurel. Cargando sobre las figuras antes descritas va un círculo de veinticinco (25) milímetros de diámetro, cuyo campo ostenta el Escudo de Armas de la República de Colombia. El reverso lleva el mismo círculo, con la inscripción Servicios Distinguidos en "Orden Público" (las palabras Servicios Distinguidos van formando un semicírculo y en la parte inferior de este, las palabras "Orden Público" colocadas en semicírculo). Es elaborada en plata quemada para el personal de oficiales y suboficiales y en bronce para el personal de tropa. La cruz va suspendida por una cinta de color gris plomo de cuarenta (40) milímetros de ancho y cincuenta y cinco (55) milímetros de longitud y bordes de cuatro (4) milímetros con los colores de la Bandera de Colombia.
@@ -10656,8 +9696,6 @@ Cuando la medalla se confiere por segunda vez, en la venera y en la cinta lleva 
 Si la medalla se otorga por sexta vez, tanto en la venera como en la cinta, debajo de las estrellas de plata en el centro, se colocará una estrella de oro de igual magnitud, y así sucesivamente cuantas veces se otorgue, alternándolas a la derecha e izquierda en forma horizontal en una segunda hilera, para mantener la armonía.
 
 (Decreto 4444 de 2010 artículo 40)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.5.4 — Diploma
 
@@ -10691,8 +9729,6 @@ SUBSECCIÓN 6.
 
 MEDALLA MILITAR "CAMPAÑA DEL SUR"
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.6.1 — Creación
 
 La Medalla Militar "Campaña del Sur", fue creada en el artículo 36 del Decreto 1816 de 2007, en categoría única, como un reconocimiento a los Oficiales, Suboficiales, Soldados e Infantes de Marina de las Fuerzas Militares, que participen de manera sobresaliente en el planeamiento, apoyo, desarrollo y ejecución de las operaciones militares que conduce la Fuerza de Tarea Conjunta, en el área geográfica de los departamentos del Caquetá, Guaviare, Meta y sur del país.
@@ -10700,8 +9736,6 @@ La Medalla Militar "Campaña del Sur", fue creada en el artículo 36 del Decreto
 La Medalla Militar "Campaña del Sur" será otorgada al personal de Oficiales, Suboficiales, Soldados, Infantes de Marina y miembros de los Estados Mayores de la Fuerza de Tarea Conjunta, Divisiones y Brigadas que se encuentren en el campo de combate o que hayan participado en forma significativa y sobresaliente en el planeamiento, orientación, dirección, desarrollo y ejecución de las operaciones, cuyo desempeño y gestión de su cargo haya sido decisivo para el éxito de la operación, presentando resultados tangibles en contra de los grupos narcoterroristas que contribuyan al debilitamiento de su infraestructura logística, disminución de su pie de fuerza por entregas voluntarias, desmovilizaciones, capturas, o muertes en combate ante la resistencia armada enemiga y al mantenimiento del control de área.
 
 (Decreto 4444 de 2010 artículo 42)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.6.2 — Requisitos
 
@@ -10713,8 +9747,6 @@ Los requisitos mínimos necesarios para el otorgamiento de la Medalla Militar "C
 
 (Decreto 4444 de 2010 artículo 43)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.6.3 — Características
 
 La joya consiste en un campo metálico dorado que guarda la forma de la "Cruz de Hierro", con unas dimensiones equitativas de 50 milímetros, largo por ancho; en el centro en un círculo superpuesto bordeado en alto relieve de 25 milímetros de diámetro, van grabados en oro, repartidos proporcionalmente, los símbolos representativos de las Fuerzas Militares de Colombia integrando un solo escudo, siendo estos, los fusiles que hacen referencia al Ejército, el ancla a la Armada, y las alas a la Fuerza Aérea.
@@ -10722,8 +9754,6 @@ La joya consiste en un campo metálico dorado que guarda la forma de la "Cruz de
 La parte superior de la cruz está esmaltada con un tricolor nacional; la parte inferior de la cruz, dominando el cuadrante va grabada la letra griega "Omega" y de esta hacia los extremos diestro y siniestro de la cruz, salen dos rayos dorados. La joya está suspendida de una cinta calidad motre de 55 milímetros de largo y 40 milímetros de ancho, de tres colores rojo, azul primario, y azul celeste, repartidos equitativamente en sentido vertical. En el reverso de la joya sobre un círculo de iguales proporciones y características del anverso, rodeando la parte superior va la leyenda Fuerzas Militares de Colombia; en la parte central horizontalmente, va el nombre de la condecoración "Campaña del Sur" y terminando en la parte inferior bordeando el círculo, va grabado el lema "DIOS Y VICTORIA".
 
 (Decreto 4444 de 2010 artículo 44)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.6.4 — Otorgamiento
 
@@ -10741,15 +9771,11 @@ PARÁGRAFO . Una vez aprobado el otorgamiento de la medalla, corresponderá al s
 
 (Decreto 4444 de 2010 artículo 45)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.6.5 — Imposición
 
 La condecoración será impuesta en el menor tiempo posible después de sucedidos los hechos o resultados que dieron origen a su otorgamiento, en ceremonia especial, de acuerdo con el Reglamento de Ceremonial Militar.
 
 (Decreto 4444 de 2010 artículo 46)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.6.6 — Diploma
 
@@ -10778,8 +9804,6 @@ La miniatura o replica; será similar a la joya de la condecoración, pero reduc
 La venera, será un rectángulo metálico esmaltado de 40 mm de ancho x 10 mm de alto, dividida de igual forma que la cinta; en colores terracota, negro, rojo, azul reflejo, azul celeste, terracota y negro. A su vez la venera llevará estrellas de cinco puntas sobrepuestas dependiendo la vez recibida, de 6 mm de diámetro, en acabado dorado brillante y moldeado en 3D. La venera por primera vez llevará el escudo del CCOES en color dorado, la venera por segunda vez llevará una estrella de cinco puntas sobrepuesta, de 6 mm de diámetro, en acabado dorado brillante y moldeado en 3D, y así sucesivamente".
 
 (Modificado por el Articulo 3 del Decreto 1564 de 2022)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.7.3 — Otorgamiento
 
@@ -10859,15 +9883,11 @@ SUBSECCIÓN 8.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS EN OPERACIONES DE CONTRATERRORISMO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.8.1 — Creación
 
 Crease en categoría única, para premiar al personal de Oficiales, Suboficiales, Soldados e Infantes de Marina de las Fuerzas Militares y personal uniformado de la Policía Nacional, que integren la Agrupación de Fuerzas Especiales Antiterroristas Urbanas y que participe directamente en la ejecución de Operaciones de Contraterrorismo, que arrojen resultados de nivel estratégico, a personalidades nacionales y extranjeras por su destacada contribución en contra del terrorismo y con reconocimiento por parte del Gobierno Nacional y a las instituciones, que a través del tiempo se destaquen en la lucha contra el terrorismo, defensa de la soberanía, la independencia, la integridad del territorio nacional y del orden Constitucional.
 
 (Decreto 1425 de 2013 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.8.2 — Características
 
@@ -10878,8 +9898,6 @@ PARÁGRAFO 1. La miniatura o réplica será una condecoración similar a la joya
 PARÁGRAFO 2. La venera será una cinta con los colores correspondientes a las banderas de Ejército, Armada, Fuerza Aérea y Policía Nacional, simbolizando la unión y cohesión en la Agrupación de Fuerzas Especiales Antiterroristas Urbanas y el distintivo indicado para la venera.
 
 (Decreto 1425 de 2013 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.8.3 — Consejo de la Medalla
 
@@ -10894,8 +9912,6 @@ Vocales: Comandante del Comando Unificado de Operaciones Especiales. Comandante 
 Secretario: Jefe de Desarrollo Humano Comando Unificado de Operaciones Especiales.
 
 (Decreto 1425 de 2013 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.8.4 — Requisitos
 
@@ -10927,15 +9943,11 @@ El Comando de las Fuerzas Militares, Comandos de las diferentes Fuerzas, Directo
 
 (Decreto 1425 de 2013 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4.8.5 — Diploma
 
 El Diploma correspondiente a la Medalla Militar "Servicios Distinguidos en Operaciones de Contraterrorismo" llevará las firmas del Comandante General de las Fuerzas Militares, el Comandante del Comando Conjunto de Operaciones Especiales y el Jefe de Desarrollo Humano del Comando Unificado de Operaciones Especiales, con la siguiente leyenda:
 
 (Decreto 1425 de 2013 artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.8.6 — Otorgamiento
 
@@ -10944,8 +9956,6 @@ La Medalla Militar "Servicios Distinguidos en Operaciones de Contraterrorismo", 
 PARÁGRAFO . Al personal de las Fuerzas Militares que falleciere como consecuencia del cumplimiento del deber en acciones destacadas contra el terrorismo, se le podrá conceder en forma póstuma, igualmente a los miembros de la Policía Nacional que fallecieren por la misma causa, participando en operaciones conjuntas con las Fuerzas Militares.
 
 (Decreto 1425 de 2013 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.4.8.7 — Imposición
 
@@ -10958,8 +9968,6 @@ SECCIÓN 5.
 ORIGEN, CATEGORÍAS Y CARACTERÍSTICAS ESPECIALES DE LAS CONDECORACIONES POR VIRTUDES MILITARES Y PROFESIONALES DE CARÁCTER EXCEPCIONAL,
 
 DE LAS ÓRDENES Y SU CONSEJO.
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.1 — Propósitos y Categorías
 
@@ -10981,8 +9989,6 @@ f) Compañero.
 
 (Decreto 4444 de 2010 artículo 53)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.2 — Consejo de las Órdenes
 
 El Consejo de las Órdenes del Mérito Militar "Antonio Nariño", del Mérito Militar "José María Córdova", del Mérito Naval "Almirante Padilla", Cruz de la Fuerza Aérea al "Mérito Aeronáutico" y del Mérito Sanitario "José Fernández Madrid", está constituido por el Presidente de la República, el Ministro de Defensa Nacional, el Comandante General de las Fuerzas Militares, el Jefe de Estado Mayor Conjunto y los Comandantes de Fuerza. Actúa como secretario de este consejo el Jefe de Desarrollo Humano de cada una de las Fuerzas; o quien haga sus veces, como Canciller de las Órdenes "Antonio Nariño" y "José Fernández Madrid", el Jefe del Estado Mayor Conjunto y de las Órdenes "José María Córdova", "Almirante Padilla" y Cruz de la Fuerza Aérea al "Mérito Aeronáutico", los Segundos Comandantes del Ejército Nacional, la Armada Nacional y la Fuerza Aérea Colombiana, respectivamente.
@@ -10990,8 +9996,6 @@ El Consejo de las Órdenes del Mérito Militar "Antonio Nariño", del Mérito Mi
 El señor Presidente de la República tiene el título de "Gran Maestre" de las Órdenes y el Ministro de Defensa el de "Gran Canciller", el Comandante General de las Fuerzas Militares es el "Miembro Benemérito" del Consejo de las Órdenes, el Jefe de Estado Mayor Conjunto y los Comandantes del Ejército, la Armada y la Fuerza Aérea, son los vocales.
 
 (Decreto 4444 de 2010 artículo 54)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.3 — Atribuciones del Consejo
 
@@ -11063,8 +10067,6 @@ d) Firmar los respectivos Diplomas, de acuerdo con la Condecoración que corresp
 
 (Decreto 4444 de 2010 artículo 55)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.4 — Otorgamiento
 
 Las condecoraciones por virtudes militares y profesionales de carácter excepcional que corresponden a las Órdenes del Mérito Militar "Antonio Nariño", del Mérito Militar "José María Córdova", del Mérito Naval "Almirante Padilla", Cruz de la Fuerza Aérea al "Mérito Aeronáutico," Orden del Mérito Sanitario "José Fernández Madrid", podrán otorgarse a los miembros de las Fuerzas Militares, autoridades civiles o Eclesiásticas nacionales o extranjeras, a los militares extranjeros, unidades militares, terrestres. aéreas o a flote; a entidades públicas o privadas, al personal civil del Ministerio de Defensa Nacional, o a particulares prominentes de acuerdo con la categoría que les corresponda y que reúnan las condiciones establecidas para cada una en particular.
@@ -11074,8 +10076,6 @@ Las condecoraciones por virtudes militares y profesionales, serán otorgadas por
 Los Decretos que expida el ejecutivo con los cuales se confieren condecoraciones por virtudes militares y profesionales, a dignatarios y militares extranjeros llevan las firmas de los Ministros de Relaciones Exteriores y de Defensa Nacional; los de los nacionales llevan únicamente la del Ministro de Defensa Nacional.
 
 (Decreto 4444 de 2010 artículo 56)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.5 — Otorgamiento Categorías
 
@@ -11097,8 +10097,6 @@ PARÁGRAFO . Para el otorgamiento de la condecoración José Fernández Madrid, 
 
 (Decreto 4444 de 2010 artículo 57)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.6 — Otorgamiento de las Órdenes para Situaciones Especiales
 
 Las condecoraciones por méritos y virtudes militares y profesionales de carácter excepcional podrán conferirse, a quienes se encuentren en cualquiera de las siguientes situaciones:
@@ -11115,15 +10113,11 @@ PARÁGRAFO . En todo caso, las condecoraciones y medallas a que se refiere este 
 
 (Decreto 4444 de 2010 artículo 58)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.7 — La Gran Cruz del Gran Maestre
 
 Será entregada por el señor Presidente de la República saliente al señor Presidente de la República entrante cuando inicie el período de su mandato. A este acto concurrirán todos los miembros del Consejo de la Orden, el Gran Canciller presentará la venera y el diploma correspondiente.
 
 (Decreto 4444 de 2010 artículo 59)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.8 — Diplomas
 
@@ -11134,8 +10128,6 @@ Los diplomas que acreditan las Órdenes llevan la firma del Canciller y se elabo
 SUBSECCIÓN 1.
 
 ORDEN DEL MÉRITO MILITAR "ANTONIO NARIÑO"
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.1.1 — Origen
 
@@ -11157,8 +10149,6 @@ b) En la categoría Gran Cruz es similar a la de Gran Oficial, pero con una rose
 
 (Decreto 4444 de 2010 artículo 62)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.1.3 — Características
 
 En sus distintas categorías la joya tiene las siguientes características:
@@ -11177,8 +10167,6 @@ f) "Gran Cruz". Consiste en una placa de plata brillante similar a la de Gran Of
 
 (Decreto 4444 de 2010 artículo 63)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.1.4 — Diploma
 
 Las características del diploma son las establecidas en el artículo 2.3.1.3.5.8., del presente Capítulo.
@@ -11189,8 +10177,6 @@ SUBSECCIÓN 2.
 
 ORDEN DEL MÉRITO MILITAR "JOSÉ MARÍA CÓRDOVA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.2.1 — Origen
 
 Creada mediante Decreto 3950 del 28 de diciembre de 1950 y reglamentada por Decreto 805 del 27 de marzo de 1952, con destino a señalar y recompensar a los miembros del Ejército que se hayan destacado por sus actos de valor, disciplina, virtudes militares, servicios eminentes y compañerismo.
@@ -11199,8 +10185,6 @@ La condecoración ostenta las categorías enunciadas en el artículo 2.3.1.3.5.1
 
 (Decreto 4444 de 2010 artículo 65)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.2.2 — Otorgamiento
 
 La condecoración puede otorgarse, en cada categoría, a las personas que reúnan las calidades establecidas en el artículo 2.3.1.3.5.4., del presente Capítulo.
@@ -11208,8 +10192,6 @@ La condecoración puede otorgarse, en cada categoría, a las personas que reúna
 La condecoración Orden del Mérito Militar "José María Córdova" se confiere preferencialmente al personal del Ejército Nacional; sin embargo, se puede otorgar a miembros de otras Fuerzas o de la Policía Nacional cuando hayan prestado al Ejército servicios que los hacen acreedores a este honor.
 
 (Decreto 4444 de 2010 artículo 66)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.2.3 — Características
 
@@ -11229,8 +10211,6 @@ f) "Gran Cruz". Placa de plata brillante, similar a la de Gran Oficial y en su c
 
 (Decreto 4444 de 2010 artículo 67)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.2.4 — Características de las Veneras en Algunas Categorías
 
 Las veneras de esta condecoración están de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo, a excepción de:
@@ -11240,8 +10220,6 @@ a) En las categorías de Comendador y Gran Oficial es una cinta similar a la de 
 b) En la categoría Gran Cruz es similar a la de Gran Oficial, pero con una roseta esmaltada, similar a la de Oficial, en lugar de la estrella.
 
 (Decreto 4444 de 2010 artículo 68)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.2.5 — Diploma
 
@@ -11253,23 +10231,17 @@ SUBSECCIÓN 3.
 
 ORDEN DEL MÉRITO NAVAL "ALMIRANTE PADILLA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.3.1 — Origen
 
 Creada mediante Decreto 2409 del 8 de julio de 1947 y reglamentada por Decreto 805 del 27 de marzo de 1952 para recompensar los actos de valor, las acciones heroicas, los servicios eminentes y los servicios profesionales distinguidos, la disciplina ejemplar y el compañerismo del personal de la Armada. La condecoración ostenta las categorías enunciadas en el artículo 2.3.1.3.5.1., del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 70)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.3.2 — Otorgamiento
 
 La condecoración puede otorgarse en cada categoría, a las personas que reúnan las calidades establecidas en el artículo 2.3.1.3.5.4 del presente Capítulo. La condecoración Orden del Mérito Naval "Almirante Padilla", se confiere preferencialmente al personal de la Armada Nacional; sin embargo se puede otorgar a los miembros de las otras Fuerzas o de la Policía Nacional, cuando hayan prestado a la Armada, servicios que los hagan acreedores a este honor.
 
 (Decreto 4444 de 2010 artículo 71)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.3.3 — Características
 
@@ -11293,8 +10265,6 @@ f) "Gran Cruz". Similar a la de Gran Oficial, pero la placa es de plata brillant
 
 (Decreto 4444 de 2010 artículo 72)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.3.4 — Características de las Veneras en Algunas Categorías
 
 Las veneras de esta condecoración se rigen por lo estipulado en el artículo 2.3.1.3.2.3., del presente Capítulo, a excepción de:
@@ -11304,8 +10274,6 @@ a) En las categorías de Comendador y Gran Oficial la cinta es similar a la de O
 b) En la categoría de Gran Cruz es similar a la de Gran Oficial, pero con una roseta igual a la de Oficial en lugar del ancla.
 
 (Decreto 4444 de 2010 artículo 73)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.3.5 — Diploma
 
@@ -11317,8 +10285,6 @@ SUBSECCIÓN 4.
 
 CRUZ DE LA FUERZA AÉREA AL "MÉRITO AERONÁUTICO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.4.1 — 4.1
 
 Origen, Creada mediante Decreto 1068 del 20 de marzo de 1948, reglamentada por el Decreto 805 del 27 de marzo de 1952 y modificada por el Decreto 1289 del 18 de mayo de 1981, para premiar y destacar los actos de valor, las virtudes militares y los servicios eminentes prestados por el personal militar y civil de la Fuerza Aérea Colombiana, personal de otras Fuerzas o de Policía y en casos especiales a los particulares, militares y civiles extranjeros, por servicios meritorios prestados al país o a las Fuerzas Militares.
@@ -11327,15 +10293,11 @@ La condecoración ostenta las categorías enunciadas en el artículo 2.3.1.3.5.1
 
 (Decreto 4444 de 2010 artículo 75)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.4.2 — Otorgamiento
 
 La condecoración puede otorgarse, en cada categoría, a las personas que reúnan las calidades establecidas en el artículo 2.3.1.3.5.4., del presente Capítulo. La condecoración se confiere preferencialmente al personal de la Fuerza Aérea Colombiana; sin embargo, se puede otorgar a miembros de otras Fuerzas, cuando hayan prestado a la Fuerza Aérea servicios que los hacen acreedores a este honor.
 
 (Decreto 4444 de 2010 artículo 76)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.4.3 — Características
 
@@ -11355,8 +10317,6 @@ f) "Gran Cruz". Similar a la de Gran Oficial, pero la placa es de plata brillant
 
 (Decreto 4444 de 2010 artículo 77)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.4.4 — Características de las Veneras en Algunas Categorías
 
 Las veneras de esta condecoración se rigen por el artículo 2.3.1.3.2.3., del presente Capítulo, a excepción de:
@@ -11366,8 +10326,6 @@ a) En las categorías de Comendador y Gran Oficial es una cinta similar a la de 
 b) En la categoría de Gran Cruz es una cinta similar a la de Gran Oficial, pero con una roseta esmaltada, igual a la de Oficial, en lugar de la estrella.
 
 (Decreto 4444 de 2010 artículo 78)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.4.5 — Diploma
 
@@ -11379,8 +10337,6 @@ SUBSECCIÓN 5.
 
 ORDEN DEL MÉRITO SANITARIO "JOSÉ FERNÁNDEZ MADRID"
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.5.1 — Origen y Categorías
 
 Creada mediante Decreto 2423 del 22 de julio de 1950 y reglamentada por el Decreto 805 del 27 de marzo de 1952, con destino a señalar y recompensar los actos de heroísmo, los servicios eminentes, los trabajos de investigación científica, el espíritu militar y el compañerismo de los miembros de la Sanidad Militar Colombiana.
@@ -11389,15 +10345,11 @@ La condecoración ostenta las categorías enunciadas en el artículo 2.3.1.3.5.1
 
 (Decreto 4444 de 2010 artículo 80)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.5.2 — Otorgamiento
 
 La condecoración puede otorgarse, en cada categoría a las personas que reúnan las calidades establecidas en el artículo 2.3.1.3.5.4., del presente Capítulo. La condecoración se confiere preferencialmente al personal de Sanidad Militar; sin embargo, se puede otorgar a miembros de las Fuerzas Militares con otra especialidad o actividad, cuando han prestado a la Sanidad Militar servicios meritorios que los hacen acreedores a este honor.
 
 (Decreto 4444 de 2010 artículo 81)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.5.3 — Características
 
@@ -11417,8 +10369,6 @@ f) "Gran Cruz". Consiste en una placa brillante, similar a la de Gran Oficial, c
 
 (Decreto 4444 de 2010 artículo 82)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.5.4 — Características de la Venera en Algunas Categorías
 
 Las veneras de esta condecoración se rigen por lo determinado en el artículo 2.3.1.3.2.3 del presente Capítulo, a excepción de:
@@ -11428,8 +10378,6 @@ a) En las categorías de Comendador y Gran Oficial es una cinta similar a la de 
 b) En la categoría de Gran Cruz es una cinta similar a la de Gran Oficial, pero con una roseta igual a la de Oficial en vez de estrella
 
 (Decreto 4444 de 2010 artículo 83)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.5.5 — Diploma
 
@@ -11441,15 +10389,11 @@ SUBSECCIÓN 6.
 
 MEDALLA MILITAR "SOLDADO JUAN BAUTISTA SOLARTE OBANDO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.6.1 — Origen
 
 Fue establecida en el artículo 48 del Decreto 1776 de 1979, Reglamento de Régimen Disciplinario FF.MM, como premio al soldado o Infante de Marina que en cada contingente, en cada unidad militar, terrestre, aérea o a flote, se destaque por su excelente conducta, virtudes militares, aprovechamiento en la instrucción, sentido de pertenencia con la Institución, iniciativa e interés por el servicio.
 
 (Decreto 4444 de 2010 artículo 85)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.6.2 — Otorgamiento
 
@@ -11461,8 +10405,6 @@ El libro de control de estas condecoraciones, se lleva en la Jefatura de Desarro
 
 (Decreto 4444 de 2010 artículo 86)
 
-ARTÍCULO
-
 ## art:2.3.1.3.5.6.3 — Características
 
 La joya es de plata, de cuarenta (40) milímetros de diámetro. Tiene grabado en su anverso el Escudo de Colombia, encerrado en una corona de laurel y en su reverso el nombre del cuerpo de tropa, base o repartición al cual pertenezca el agraciado, la fecha y la leyenda: Medalla Militar "Soldado Juan Bautista Solarte Obando", Va suspendida de una cinta de cuarenta (40) milímetros de ancho, con los colores amarillo, azul y rojo.
@@ -11470,8 +10412,6 @@ La joya es de plata, de cuarenta (40) milímetros de diámetro. Tiene grabado en
 Las veneras y miniaturas serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 87)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5.6.4 — Diploma
 
@@ -11583,8 +10523,6 @@ Medalla Militar Ministerio de Defensa Nacional, Medalla "Servicios Distinguidos 
 
 (Adiciona Art 4 del decreto 873 de 2025)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.2 — Atribuciones y Funciones de los Consejos de las Medallas por Servicios Distinguidos prestados a la Institución Militar
 
 Los Consejos sesionarán en forma extraordinaria a solicitud de alguno de sus miembros.
@@ -11643,8 +10581,6 @@ j) Las demás que le sean asignadas por el Consejo de la Medalla.
 
 (Decreto 4444 de 2010 artículo 90 parágrafo 1 y 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.3 — Otorgamiento e Imposición de las Medallas por Servicios Distinguidos prestados a la Institución Militar
 
 Puede otorgarse por una sola vez al personal Militar o de Policía, civil y particular y a entidades oficiales o particulares previo el cumplimiento de lo establecido en el artículo 2.3.1.3.3.1 del presente Capítulo y que a consideración del Consejo de la Medalla se hagan merecedores a esta distinción, por su decisiva colaboración y apoyo al cumplimiento de la misión del Ministerio de Defensa Nacional, del Comando General de las Fuerzas Militares y de cada una de las Fuerzas Militares, así:
@@ -11677,15 +10613,11 @@ m) Para el otorgamiento de la Medalla Militar Centenario Servicios Distinguidos 
 
 (Decreto 4444 de 2010 artículo 91)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.4 — Diplomas de fas Medallas por Servicios Distinguidos prestados a la Institución Militar
 
 Deben ser elaborados en papel pergamino o cartulina blanca, de las siguientes dimensiones: Treinta y cinco (35) centímetros de largo por veinticinco (25) centímetros de ancho, con el dibujo del anverso de la medalla al lado izquierdo superior y el reverso al lado derecho superior y en el centro la siguiente leyenda:
 
 (Decreto 4444 de 2010 artículo 92)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.5 — Entidades
 
@@ -11696,8 +10628,6 @@ Las condecoraciones militares por servicios distinguidos prestados a la Instituc
 SUBSECCIÓN 1.
 
 MEDALLA MILITAR MINISTERIO DE DEFENSA NACIONAL.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.1.1 — Origen
 
@@ -11713,8 +10643,6 @@ c) En la categoría de "Servicios Distinguidos", se podrá conferir a militares,
 
 (Decreto 4444 de 2010 artículo 93)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.1.2 — Características
 
 La Medalla Militar "Ministerio de Defensa Nacional", tiene las siguientes características:
@@ -11729,15 +10657,11 @@ La venera y miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.
 
 (Decreto 4444 de 2010 artículo 94)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.1.3 — Otorgamiento
 
 La medalla será conferida a militares, policiales y civiles nacionales o extranjeros que por sus meritorios servicios prestados al Ministerio de Defensa Nacional, se hagan acreedores a ella.
 
 (Decreto 4444 de 2010 artículo 95)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.1.4 — Consejo
 
@@ -11757,15 +10681,11 @@ SUBSECCIÓN 2.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA JUSTICIA PENAL MILITAR"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.2.1 — Origen y Categorías
 
 Creada mediante Decreto 798 del 8 de mayo de 2001 para estimular a quienes se caractericen por su amor a la Institución, traducido en sobresalientes servicios personales y profesionales en ejercicio o apoyo de la función que cumple la Justicia Penal Militar.
 
 (Decreto 4444 de 2010 artículo 96)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.2.2 — Características
 
@@ -11776,8 +10696,6 @@ En la esquina superior de la placa va fijo un anillo que hace unión con la cint
 Las veneras y miniaturas serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 97)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.2.3 — Consejo
 
@@ -11799,15 +10717,11 @@ SUBSECCIÓN 3.
 
 MEDALLA MILITAR "FE EN LA CAUSA" DEL COMANDO GENERAL DE LA FUERZAS MILITARES
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.3.1 — Origen
 
 Creada mediante Decreto 932 de 2014, para premiar al personal de Oficiales, Suboficiales, Soldados y civiles, que se destaquen en la recuperación de la paz, el orden y la democracia de la Nación, así como al personal militar en uso de buen retiro, a personalidades Nacionales y Extranjeras y entidades públicas o privadas que presten sus servicios meritorios en beneficio de la Fuerzas Militares.
 
 (Decreto 0932 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.3.2 — Categorías
 
@@ -11820,8 +10734,6 @@ La Medalla Militar "FE EN LA CAUSA" del Comando General de las Fuerzas Militares
 Igualmente se podrá conferir a personalidades nacionales y extranjeras, y entidades públicas o privadas que presten sus servicios meritorios en beneficio de las Fuerzas Militares de Colombia, demostrando compromiso y trabajo a favor de las Fuerzas Militares.
 
 (Decreto 0932 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.3.3 — Características de las Joyas en cada Categoría
 
@@ -11837,8 +10749,6 @@ PARÁGRAFO 3. La joya de Categoría Extraordinaria se impondrá al cuello, con l
 
 (Decreto 0932 de 2014 artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.3.4 — Consejo
 
 El Consejo de la Medalla Militar "Fe en la Causa" del Comando General de la Fuerzas Militares, estará conformado de la siguiente manera:
@@ -11852,8 +10762,6 @@ Vocal: El Jefe de Desarrollo Humano Conjunto CGFM.
 Secretario: Ayudante General del Comando General Fuerzas Militares.
 
 (Decreto 0932 de 2014 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.3.5 — Requisitos
 
@@ -11911,15 +10819,11 @@ PARÁGRAFO . Para el otorgamiento al personal de Oficiales, Suboficiales, Soldad
 
 (Decreto 0932 de 2014 artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.3.6 — Diploma
 
 El Diploma que acredita el otorgamiento de la Medalla Militar "FE EN LA CAUSA" del Comando General de las Fuerzas Militares, debe ser elaborado en papel cartulina blanco, con las siguientes dimensiones: treinta y dos (32) centímetros de largo, por veintidós (22) centímetros de ancho, con el dibujo de la medalla al lado izquierdo superior y el reverso al lado derecho superior, en el fondo el escudo de Fe en la Causa del Comando General FF. MM.
 
 (Decreto 0932 de 2014 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.3.7 — Otorgamiento
 
@@ -11928,8 +10832,6 @@ La Medalla Militar "FE EN LA CAUSA" del Comando General de las Fuerzas Militares
 PARÁGRAFO . Al personal de las Fuerzas Militares que falleciere como consecuencia del cumplimiento del deber en actos del servicio para mantener o restablecer el orden público, se le podrá conceder en forma póstuma, igualmente a los miembros de la Policía Nacional que fallecieren por la misma causa, participando en operaciones conjuntas con las Fuerzas Militares.
 
 (Decreto 0932 de 2014 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.3.8 — Imposición
 
@@ -11941,15 +10843,11 @@ SUBSECCIÓN 4.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LAS FUERZAS MILITARES DE COLOMBIA" DEL COMANDO GENERAL DE LA FUERZAS MILITARES
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.4.1 — Origen
 
 Creada mediante el Decreto 1816 de 2007, en categoría única, para estimular y premiar al personal de la Fuerza Pública, nacionales o extranjeros, autoridades civiles y eclesiásticas, Servidores Públicos del Sector Defensa y a particulares que hayan sobresalido por sus eminentes servicios a las Fuerzas Militares.
 
 (Decreto 4444 de 2010 artículo 98)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.4.2 — Características
 
@@ -11958,8 +10856,6 @@ La joya es una cruz teutónica de color dorado de cincuenta (50) milímetros en 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 99)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.4.3 — Consejo
 
@@ -11979,15 +10875,11 @@ SUBSECCIÓN 5.
 
 MEDALLA MILITAR "ESCUELA SUPERIOR DE GUERRA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.5.1 — Origen
 
 Creada en su categoría única, mediante Decreto número 654 del 8 de abril de 1996, para estimular a quienes se hayan caracterizado por su consagración al trabajo, colaboración y servicios eminentes para con la Escuela Superior de Guerra.
 
 (Decreto 4444 de 2010 artículo 100)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.5.2 — Características
 
@@ -11996,8 +10888,6 @@ La joya es una estrella radiada de cincuenta y cinco (55) milímetros de diámet
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 101)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.5.3 — Consejo
 
@@ -12017,15 +10907,11 @@ SUBSECCIÓN 6.
 
 MEDALLA MILITAR "AL MÉRITO DE LA RESERVA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.6.1 — Origen
 
 Creada mediante Decreto 880 del 24 de mayo de 1999, para estimular y premiar al personal del Comando de Oficiales Profesionales de la Reserva que sobresalga por su dedicación, participación y capacidad profesional o técnica puestas al servicio de las Fuerzas Militares, de la Reserva en general y al cumplimiento de los objetivos del Comando de Oficiales Profesionales de la Reserva en particular, o aquellas personas o entidades privadas o públicas, que prestaren servicios meritorios a la Institución Militar.
 
 (Decreto 4444 de 2010 artículo 102)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.6.2 — Características
 
@@ -12034,8 +10920,6 @@ La Joya será una cruz simétrica de 50 mm, compuesta por cuatro aspas isóscele
 La cinta: En la parte superior de la cruz, un eslabón fijo de tres (3) milímetros, sujetará otro de cinco (5) milímetros que unirá la cruz con la cinta de la medalla, que será en seda moiré amarillo dorado de sesenta (60) milímetros de alto por cuarenta (40) milímetros de ancho, con tres franjas verticales laterales de cuatro (4) milímetros cada una de color azul marino a la derecha, rojo al centro y azul cielo a la izquierda. La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 103)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.6.3 — Consejo
 
@@ -12055,15 +10939,11 @@ SUBSECCIÓN 7.
 
 MEDALLA MILITAR "GENERAL JOSÉ HILARlO LÓPEZ VALDÉS"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.7.1 — Origen
 
 La Medalla Militar "General José Hilario López Valdés" creada mediante Decreto número 1974 del 9 de octubre de 1999, como reconocimiento al personal de la Fuerza Pública, a las personas, entidades, organizaciones e instituciones nacionales e internacionales que han dedicado sus esfuerzos profesionales a la labor y a la promoción de los derechos humanos y el derecho internacional humanitario, realizando un ingente trabajo en procura de estas disciplinas jurídicas, a favor de las distintas instancias en las que se hayan comprometidas.
 
 (Decreto 4444 de 2010 artículo 104)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.7.2 — Características
 
@@ -12076,8 +10956,6 @@ La medalla va suspendida de una argolla plateada. por medio de una cinta de sese
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 105)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.7.3 — Consejo
 
@@ -12121,8 +10999,6 @@ La venera, será un rectángulo metálico esmaltado de 40 mm de ancho x 10 mm de
 
 (Modificado por el Articulo 7 del Decreto 1564 de 2022)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.8.3 — Consejo
 
 El Consejo de la Medalla Militar "Cruz de Plata en Operaciones Especiales", estará conformado de la siguiente manera:
@@ -12139,8 +11015,6 @@ Especiales.
 
 (Decreto 1425 de 2013 artículo 14)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.8.4 — Requisitos
 
 Los requisitos establecidos en el artículo 2.3.1.3.3.1 del presente Capítulo, serán requisitos mínimos, necesarios para el Otorgamiento de la Medalla Militar "Cruz de Plata en Operaciones Especiales".
@@ -12154,8 +11028,6 @@ La Medalla Militar "Cruz de Plata en Operaciones Especiales", será otorgada med
 PARÁGRAFO. La medalla militar "Cruz de Plata en Operaciones Especiales" será conferida a un mismo individuo tantas veces como se haga acreedor a ella en acciones diferentes".
 
 (Modificado por el Articulo 8 Decreto 1564 de 2022)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.8.6 — Imposición
 
@@ -12187,8 +11059,6 @@ Comandante General de las Fuerzas Militares
 
 (Modificado por el Articulo 9 del Decreto 1564 de 2022)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.8.8 — Usos
 
 El uso de la Medalla Militar "Cruz de Plata en Operaciones Especiales", con su correspondiente descripción, así como los anexos del presente acto administrativo, deberán ser incluidos en el Reglamento de Uniformes, Insignias y Distintivos de cada una de las Fuerzas Militares.
@@ -12199,15 +11069,11 @@ SUBSECCIÓN 9.
 
 MEDALLA MILITAR "BICENTENARIO DE LOS INGENIEROS MILITARES"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.9.1 — Origen
 
 Creada mediante Decreto 1697 de 2014, en categoría única, para premiar y estimular por una sola vez al personal de Oficiales, Suboficiales, Soldados e Infantes de Marina de las Fuerzas Militares, miembros de la Policía nacional, Servidores Públicos del Sector Defensa, personal no uniformado de la Policía Nacional que con su excepcional servicio hayan sobresalido por su espíritu militar, disciplina, compañerismo, consagración al trabajo y servicios eminentes que demuestren actos de valor, arrojo, entrega, dedicación, participación y capacidad profesional o técnica puestas al servicio de las Fuerzas Militares más allá del común cumplimiento del deber, así como al Personal Militar de la Reserva Activa, a Personalidades Nacionales o Extranjeras, a Entidades Públicas y Privadas que hayan prestado sus servicios meritorios en beneficio de las Fuerzas Militares.
 
 (Decreto 1697 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.9.2 — Características de la Joya
 
@@ -12218,8 +11084,6 @@ PARÁGRAFO 1. La venera será una cinta metálica de 40 mm de largo por 10mm de 
 PARÁGRAFO 2. La miniatura o replica tiene el mismo diseño de la joya, con un diámetro de 15 mm, pende de una cinta de 15 mm de ancho y 35 mm de largo.
 
 (Decreto 1697 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.9.3 — Consejo
 
@@ -12234,8 +11098,6 @@ Vocal: Jefe Jefatura Desarrollo Humano
 Secretario: Ayudante General de las Fuerzas Militares
 
 (Decreto 1697 de 2014 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.9.4 — 9.4
 
@@ -12271,23 +11133,17 @@ Para Personalidades Nacionales o Extranjeras. Entidades Públicas y Privadas
 
 (Decreto 1697 de 2014 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.9.5 — Diploma
 
 La Medalla Militar "BICENTENARIO DE LOS INGENIEROS MILITARES" del Comando General de las Fuerzas Militares, va acompañada de un diploma credencial, el cual se elaborará en papel pergamino o cartulina blanca con medidas de 35 cm de largo, por 25 cm de ancho. En la parte superior izquierda se exhibirá el anverso de la medalla y en la parte superior derecha el reverso de la misma, igualmente lleva el escudo del Comando General en marca de agua en la parte superior y en el centro, en la parte inferior llevará las firmas del Comandante General de las Fuerzas Militares y del Jefe de Estado Mayor Conjunto de las FF.MM., con la siguiente leyenda:
 
 (Decreto 1697 de 2014 artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.9.6 — Otorgamiento
 
 La Medalla Militar "BICENTENARIO DE LOS INGENIEROS MILITARES" del Comando General de las Fuerzas Militares, será conferida por una sola vez, mediante resolución, previo cumplimiento de los requisitos establecidos para el efecto y que a consideración del consejo de la medalla se hagan merecedores de esta distinción.
 
 (Decreto 1697 de 2014 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.9.7 — Imposición
 
@@ -12301,15 +11157,11 @@ SUBSECCIÓN 10
 
 MEDALLA MILITAR "FE EN LA CAUSA" DEL EJÉRCITO NACIONAL
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.10.1 — Origen
 
 Creada mediante Decreto 2066 de 2011, en categoría única, para premiar al personal de Oficiales, Suboficiales, Soldados y Civiles, que se destaquen en la recuperación de la paz, el orden y la democracia de la Nación, así como al personal militar en uso de buen retiro, a personalidades Nacionales y Extranjeras y entidades públicas o privadas que presten sus servicios meritorios en beneficio del Ejército Nacional.
 
 (Decreto 2066 de 2011 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.10.2 — Características
 
@@ -12322,8 +11174,6 @@ PARÁGRAFO 1. Las miniaturas o réplicas serán condecoraciones similares a la j
 PARÁGRAFO 2. La venera será una cinta de color rojo rectangular de 40 mm de ancho, por 11 de alto, llevará las secciones de las ocho armas representativas del Ejército Nacional en sus respectivos colores, en esmalte al fuego, con el escudo del Ejército Nacional en el centro y en su base el lema "FE EN LA CAUSA".
 
 (Decreto 2066 de 2011 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.10.3 — Consejo
 
@@ -12340,8 +11190,6 @@ Jefe de Desarrollo Humano del Ejército Nacional
 Secretario: Director de Bienestar y Disciplina del Ejército Nacional
 
 (Decreto 2066 de 2011 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.10.4 — Requisitos
 
@@ -12389,15 +11237,11 @@ Para Instituciones de Derecho Público o Privadas:
 
 (Decreto 2066 de 2011 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.10.5 — Diploma
 
 Los diplomas correspondientes a la Medalla "Fe en la Causa" llevarán las firmas del Comandante y Jefe de Estado Mayor del Ejército Nacional.
 
 (Decreto 2066 de 2011 artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.10.6 — Otorgamiento
 
@@ -12409,8 +11253,6 @@ PARÁGRAFO 2. De igual manera, para el otorgamiento de la Medalla Fe en la Causa
 
 (Decreto 2066 de 2011 artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.10.7 — Imposición
 
 Además de lo establecido en los artículos 2.3.1.3.2.1 y 2.3.1.3.3.4., del presente Capítulo, la imposición de la Medalla Fe en la Causa revestirá la mayor solemnidad. Para la ceremonia se conformarán destacamentos de acuerdo con el reglamento de ceremonial militar y estará precedida por el señor Comandante del Ejército Nacional quien impondrá la condecoración.
@@ -12421,15 +11263,11 @@ SUBSECCIÓN 11.
 
 MEDALLA MILITAR "ESCUELA MILITAR DE CADETES"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.11.1 — Origen
 
 La Medalla Militar "Escuela Militar de Cadetes", categoría única, creada mediante Decreto número 971 del 30 de mayo de 1996, para estimular a quienes se hayan caracterizado por sus méritos militares, profesionales y servicios eminentes prestados en beneficio del Instituto.
 
 (Decreto 4444 de 2010 artículo 106)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.11.2 — Características
 
@@ -12438,8 +11276,6 @@ La Joya es una cruz de malta de color azul ultramar, con rayos de setenta (70) m
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 107)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.11.3 — Consejo
 
@@ -12459,15 +11295,11 @@ SUBSECCIÓN 12.
 
 MEDALLA MILITAR "CENTENARIO DE LA ESCUELA MILITAR DE CADETES GENERAL JOSÉ MARÍA CÓRDOVA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.12.1 — Origen
 
 La Medalla Militar "Centenario de la Escuela Militar de Cadetes General José María Córdova", fue creada en el artículo 103 del Decreto 1816 de 2007, en categoría única, para reconocer, exaltar y premiar a los alumnos eméritos, oficiales y suboficiales del Ejército Nacional y servidores públicos que con sus servicios distinguidos han contribuido al progreso, fortalecimiento, logro de los objetivos misionales, enaltecer la magna labor y nombre de la Escuela Militar de Cadetes "General José María Córdova".
 
 (Decreto 4444 de 2010 artículo 108)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.12.2 — Características
 
@@ -12476,8 +11308,6 @@ La Joya de la Medalla Militar "Centenario de la Escuela Militar de Cadetes, Gene
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 109)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.12.3 — Consejo
 
@@ -12499,15 +11329,11 @@ MEDALLA MILITAR "ESCUELA DE ARM.AS Y SERVICIOS
 
 "JOSÉ CELESTINO MUTIS BOSSIO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.13.1 — Origen
 
 Creada mediante Decreto número 1434 del 27 de julio de 1998 para estimular y premiar al personal de la Institución que sobresalga por su dedicación, capacidad Profesional, desarrollo Académico, colaboración y Servicios eminentes en beneficio de la Escuela de Armas y Servicios, y a las Entidades Públicas y Privadas que con su colaboración contribuyan al engrandecimiento de la Institución.
 
 (Decreto 4444 de 2010 artículo 110)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.13.2 — Características
 
@@ -12516,8 +11342,6 @@ La Joya de la Medalla Militar Escuela de Armas y Servicios "JOSÉ CELESTINO MUTI
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capitulo.
 
 (Decreto 4444 de 2010 artículo 8 y 111)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.13.3 — Consejo
 
@@ -12537,15 +11361,11 @@ SUBSECCIÓN 14.
 
 MEDALLA MILITAR "BATALLA DE AYACUCHO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.14.1 — Origen
 
 Creada mediante Disposición número 0019 del 17 de octubre de 1979 del Comando del Ejército y aprobada por Resolución número 2276 de 1979 del Ministerio de Defensa y reglamentada mediante Decreto 1880 de 1988, ostenta una sola categoría.
 
 (Decreto 4444 de 2010 artículo 112)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.14.2 — Características
 
@@ -12554,8 +11374,6 @@ La Joya es una cruz teutónica de color plata, con eje de cincuenta (50) milíme
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 113)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.14.3 — Consejo
 
@@ -12575,15 +11393,11 @@ SUBSECCIÓN 15.
 
 MEDALLA MILITAR "SAN JORGE"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.15.1 — Origen
 
 La Medalla "San Jorge" categoría única, creada mediante Disposición número 003 del 31 de marzo de 1955 del Comando del Ejército y reglamentada mediante Decreto 1880 de 1988, como estímulo al espíritu de arma y premio al esfuerzo de quienes al servicio de la Escuela de Caballería y unidades del arma, se han distinguido en el cumplimiento de sus deberes.
 
 (Decreto 4444 de 2010 artículo 114)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.15.2 — Características
 
@@ -12592,8 +11406,6 @@ La Joya es una medalla circular con un diámetro de cuarenta (40) milímetros, r
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 115)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.15.3 — Consejo
 
@@ -12613,15 +11425,11 @@ SUBSECCIÓN 16.
 
 MEDALLA MILITAR "SANTA BÁRBARA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.16.1 — Origen
 
 La Medalla "Santa Barbará" categoría única, creada en la Escuela de Artillería mediante la Orden del Día número 096 para el 10de septiembre de 1963 y aprobada por el Comando del Ejército con Oficio número 41991-CE-E1-184 de octubre de 1963, y reglamentada por el Decreto 1880 de 1988, para acrecentar el espíritu de cuerpo, compañerismo y estimular a quienes hayan prestado eminentes servicios al Arma de Artillería, a juicio del Consejo de la Medalla.
 
 (Decreto 4444 de 2010 artículo 116)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.16.2 — Características
 
@@ -12630,8 +11438,6 @@ La Joya es una medalla circular dorada, de cuarenta (40) milímetros de diámetr
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 117)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.16.3 — Consejo
 
@@ -12651,15 +11457,11 @@ SUBSECCIÓN 17.
 
 MEDALLA MILITAR "TORRE DE CASTILLA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.17.1 — Origen
 
 La Medalla "Torre de Castilla" categoría única, creada mediante Disposición número 00012 del Comando del Ejército, de septiembre 30 de 1981, y reglamentada por el Decreto 1880 de 1988, para acrecentar el espíritu de cuerpo y compañerismo y para estimular a quienes hayan prestado servicios eminentes al Arma de Ingenieros, de acuerdo con el concepto del Consejo de la Medalla.
 
 (Decreto 4444 de 2010 artículo 118)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.17.2 — Características
 
@@ -12672,8 +11474,6 @@ Al reverso lleva la inscripción "Vencer o Morir", lema del Arma. La joya va sus
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 119)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.17.3 — Consejo
 
@@ -12693,15 +11493,11 @@ SUBSECCIÓN 18.
 
 MEDALLA MILITAR "BRIGADIER GENERAL RICARDO CHARRY SOLANO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.18.1 — Origen
 
 Medalla "Brigadier General Ricardo Charry Solano", categoría única. Creada mediante Decreto 1880 del 16 de Septiembre de 1993, con el propósito de enaltecer a los militares, al personal civil al servicio de las Fuerzas Militares y a los particulares que se destaquen por los servicios distinguidos prestados a la Inteligencia Militar.
 
 (Decreto 4444 de 2010 artículo 120)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.18.2 — Características
 
@@ -12710,8 +11506,6 @@ La Joya es una cruz de malta irradiada, de color dorado de cuarenta y cinco (45)
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 121)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.18.3 — Consejo
 
@@ -12733,15 +11527,11 @@ MEDALLA MILITAR "AL MÉRITO LOGÍSTICO Y ADMINISTRATIVO
 
 "GENERAL FRANCISCO DE PAULA SANTANDER"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.19.1 — Origen
 
 Creada mediante Decreto 1880 del 12 de Septiembre de 1988 artículo 81, con el fin de premiar a los miembros del Ejército Nacional que hayan sobresalido en las actividades administrativas y técnicas, al igual que a funcionarios de las entidades públicas y privadas que hayan prestado eminentes servicios en beneficio de los cuerpos logístico y administrativo del Ejército.
 
 (Decreto 4444 de 2010 artículo 122)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.19.2 — Características
 
@@ -12750,8 +11540,6 @@ La joya es una cruz paté esmaltada de verde esmeralda de un tamaño de cincuent
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 123)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.19.3 — Consejo
 
@@ -12771,15 +11559,11 @@ SUBSECCIÓN 20.
 
 MEDALLA MILITAR "GUARDIA PRESIDENCIAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.20.1 — Origen
 
 Creada mediante Resolución número 3446 del 17 de agosto de 1955 del Ministerio de Guerra y reglamentada por el Decreto 1880 de 1988, destinada a recompensar la lealtad, servicios distinguidos e intachable conducta de los miembros del Batallón Guardia Presidencial. La Medalla ostenta las categorías de: Honoraria y Mérito Militar.
 
 (Decreto 4444 de 2010 artículo 124)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.20.2 — Otorgamiento
 
@@ -12795,8 +11579,6 @@ De acuerdo con lo establecido en el artículo 2.3.1.3.6.3 del presente Capítulo
 
 (Decreto 4444 de 2010 artículo 125)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.20.3 — Características
 
 La joya que se otorga en forma Honoraria es una placa dorada en forma estrellada irradiada, conformada por ocho (8) brazos principales con un diámetro de ochenta (80) milímetros en cuyo centro va una cruz de malta bifurcada de cuarenta y tres (43) milímetros de diámetro dorada y esmaltada al fuego en fondo azul con bordes blancos, rematada en sus ángulos exteriores por esferas doradas, con sus brazos entrelazados por una corona de laurel y adornada con rayos en su centro. Acolado en su corazón va un medallón de dieciséis (16) milímetros de diámetro con la figura de un león rampante esgrimiendo una espada antigua. Sobre un campo de esmalte azul circundada en esmalte blanco la leyenda: "Batallón Guardia Presidencial". Comprende además de una banda de ciento dos (102) centímetros de largo por cien (100) milímetros de ancho en seda moaré con franjas de color verde, blanco, verde, siendo el blanco el doble de ancho que el verde, rematada en un lazo del cual pende una estrella igual a la del mérito militar.
@@ -12808,8 +11590,6 @@ La cruz pende a través de un óvalo de laurel, de una cinta de cuarenta (40) mi
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 126)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.20.4 — Consejo
 
@@ -12831,15 +11611,11 @@ MEDALLA POLICÍA MILITAR
 
 "GENERAL TOMÁS CIPRIANO DE MOSQUERA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.21.1 — 1.1
 
 La Medalla Policía Militar "General Tomás Cipriano de Mosquera" categoría única, creada mediante Decreto 2544 del 17 de noviembre de 1994, categoría única, a quienes se hayan caracterizado por sus servicios eminentes en beneficio de la Policía Militar y que hayan ejecutado actos que pongan el alto en nombre de la institución militar.
 
 (Decreto 4444 de 2010 artículo 127)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.21.2 — Características
 
@@ -12848,8 +11624,6 @@ La Joya es una cruz de malta bifurcada de cuarenta y tres (43) milímetros de di
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 128)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.21.3 — Consejo
 
@@ -12869,23 +11643,17 @@ SUBSECCIÓN 22.
 
 MEDALLA MILITAR "ESCUELA DE LANCEROS"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.22.1 — Origen
 
 Creada mediante Resolución número 00236 del 4 de septiembre de 1980 del Comando del Ejército y reglamentada por el Decreto 1880 de 1988, para distinguir a quienes se hayan caracterizado por sus servicios eminentes en el mantenimiento de la mística y tradiciones que nos legaron los lanceros de la Campaña Libertadora.
 
 (Decreto 4444 de 2010 artículo 129)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.22.2 — Otorgamiento
 
 La Medalla se otorgará en forma honoraria o por méritos militares de acuerdo con lo establecido en el artículo 2.3.1.3.6.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 130)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.22.3 — Características
 
@@ -12896,8 +11664,6 @@ La venera: Consiste en una cinta metálica esmaltada al fuego de cuarenta (40) m
 La miniatura: Tiene el mismo diseño de la joya, con un diámetro de quince (15) mm, pende de una cinta de quince (15) mm de ancho por treinta y cinco (35) mm de largo similar a la de la joya.
 
 (Decreto 4444 de 2010 artículo 131)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.22.4 — Consejo
 
@@ -12917,15 +11683,11 @@ SUBSECCIÓN 23.
 
 MEDALLA MILITAR "SAN GABRIEL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.23.1 — Origen
 
 Creada mediante Decreto número 1336 del 13 de julio de 1998, para estimular y premiar al personal de la Institución que sobresalga por su dedicación y capacidad profesional al Servicio de las Comunicaciones Militares, o aquellas personas, entidades privadas o públicas que presten servicios meritorios en beneficio de las Comunicaciones Militares
 
 (Decreto 4444 de 2010 artículo 132)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.23.2 — Características
 
@@ -12936,8 +11698,6 @@ La venera. Consiste en una cinta metálica esmaltada al fuego, de cuatro (4) cm 
 La miniatura. Tiene el mismo diseño de la joya, en un diámetro de uno punto cinco (1.5) cm y penderá de una cinta de cuatro (4) cm de largo por uno punto cinco (1.5) de ancho.
 
 (Decreto 4444 de 2010 artículo 133)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.23.3 — Consejo
 
@@ -12959,15 +11719,11 @@ MEDALLA MILITAR ESCUELA DE SUBOFICIALES DEL EJÉRCITO
 
 "SARGENTO INOCENCIO CHINCÁ"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.24.1 — Origen
 
 La Medalla Militar Escuela de Suboficiales del Ejército "Sargento Inocencio Chincá" categoría única, creada mediante Decreto 2491 del ocho (8) de octubre de 1997 para estimular a quienes se hayan caracterizado por sus méritos militares, profesionales y servicios eminentes prestados en beneficio del Instituto.
 
 (Decreto 4444 de 2010 artículo 134)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.24.2 — Características
 
@@ -12978,8 +11734,6 @@ La venera: Será una cinta metálica de cuarenta (40) mm de ancho por diez (10) 
 La miniatura: O réplica, tiene el mismo diseño de la joya, con un diámetro de dieciocho (18) mm, Pende de una cinta de quince (15) mm de ancho por treinta y cinco (35) mm de longitud.
 
 (Decreto 4444 de 2010 artículo 135)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.24.3 — Consejo
 
@@ -12999,15 +11753,11 @@ SUBSECCIÓN 25.
 
 MEDALLA MILITAR "SAN MIGUEL ARCÁNGEL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.25.1 — Origen
 
 En adelante la Medalla Militar "Alas Doradas", creada mediante Decreto 1834 de 1998, se denominará Medalla Militar "San Miguel Arcángel", en categoría única, creada para estimular y premiar a quienes se hayan caracterizado por su consagración al trabajo, disciplina, colaboración y actos de valor en el desempeño de sus funciones en el Arma de la Aviación del Ejército, o aquellas personas, entidades públicas o privadas que presten servicios meritorios en beneficio de la Aviación del Ejército,
 
 (Decreto 4444 de 2010 artículo 136)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.25.2 — Características
 
@@ -13018,8 +11768,6 @@ La venera: Consiste en una cinta metálica esmaltada de cuarenta (40) mm de larg
 La miniatura: Tiene el mismo diseño de la joya, en un diámetro de dieciocho (18) mm, y pende de una cinta de quince (15) mm de ancho por treinta y cinco (35) mm de largo.
 
 (Decreto 4444 de 2010 artículo 137)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.25.3 — Consejo
 
@@ -13039,15 +11787,11 @@ SUBSECCIÓN 26.
 
 MEDALLA MILITAR "HONOR AL DEBER CUMPLIDO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.26.1 — Origen
 
 Creada en el artículo 194 del Orden del Día del 23 de febrero de 1953 del Batallón "Colombia" y consagrada como tal en el artículo 133 del Decreto 1816 de 2007, para reconocer los servicios sobresalientes prestados al país y los méritos militares de quienes en aquella contienda prolongaron el honor y gloria en tierras de Ultramar las tradiciones heroicas del pueblo colombiano. Además, se podrá conferir igualmente a los miembros de las Fuerzas Militares que hayan sobrepasado el normal cumplimiento del deber y que de su abnegación y trabajo se hayan deducido beneficios para la Unidad y crédito para el Ejército y la Patria tanto en el exterior como al interior del país, dándole la validez que le corresponde por los nobles títulos que encierra.
 
 (Decreto 4444 de 2010 artículo 138)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.26.2 — Características
 
@@ -13056,8 +11800,6 @@ La joya será circular, en el anverso tendrá, en relieve, la figura de un solda
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 139)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.26.3 — Consejo
 
@@ -13079,15 +11821,11 @@ MEDALLA MILITAR "ESCUELA DE SOLDADOS PROFESIONALES
 
 "TENIENTE GENERAL GUSTAVO ROJAS PINILLA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.27.1 — Origen
 
 La Medalla Militar de la Escuela de Formación de Soldados Profesionales "Teniente General Gustavo Rojas Pinilla", fue creada en el artículo 135 del Decreto 1816 de 2007, categoría única, para estimular a los Soldados Profesionales que se hayan caracterizado por sus Méritos Académicos, Militares y Profesionales en beneficio de la Fuerza, como también a todo el personal de Oficiales y Suboficiales que pertenezcan o hayan pertenecido a la Escuela Militar de Soldados Profesionales y hayan contribuido a acrecentar la formación académica, Militar y profesional del personal de Soldados Profesionales, como también al personal de Oficiales y Suboficiales de las Fuerzas Militares, Servidores Públicos y a todas las personas y entidades Oficiales y particulares, que se hayan destacado en tal propósito en beneficio de la Institución.
 
 (Decreto 4444 de 2010 artículo 140)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.27.2 — Características
 
@@ -13096,8 +11834,6 @@ La joya consiste en una circunferencia en esmalte plata laureado, lleva sobre su
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 141)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.27.3 — Consejo
 
@@ -13121,15 +11857,11 @@ SUBSECCIÓN 28.
 
 MEDALLA MILITAR "SERVICIOS MERITORIOS INTELIGENCIA MILITAR "GUARDIÁN DE LA PATRIA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.28.1 — Origen
 
 La Medalla Militar Servicios Meritorios Inteligencia Militar "Guardián de la Patria", fue creada en el artículo 137 del Decreto 1816 de 2007, en categoría única, la cual puede ser otorgada al personal de Oficiales, Suboficiales, Soldados y personal civil al servicio de las Fuerzas Militares, cuantas veces se hagan acreedores por sus servicios distinguidos en diferentes operaciones de Inteligencia Militar, Inteligencia Técnica y Contrainteligencia.
 
 (Decreto 4444 de 2010 artículo 142)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.28.2 — Características
 
@@ -13140,8 +11872,6 @@ La venera: La venera será una cinta rectangular de 40 mm, por 11 de ancho, llev
 La miniatura será de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 143)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.28.3 — Consejo
 
@@ -13161,8 +11891,6 @@ SUBSECCIÓN 29.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS EN OPERACIONES DE AVIACIÓN"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.29.1 — Origen
 
 Créase la Medalla Militar "Servicios Distinguidos en Operaciones de Aviación", como un reconocimiento a los Oficiales, Suboficiales, Soldados y civiles, en servicio activo miembros de una tripulación, destacados en cumplimiento de operaciones de Aviación, cuyo desempeño conlleve al logro de objetivos tácticos, operacionales y estratégicos. Así mismo, a la tripulación o miembro de la tripulación que durante el desarrollo de operaciones de Aviación y que por acción del vuelo su aeronave sufra daños que conlleven a una emergencia de la misma y que con su pericia y coraje lleve a buen término el aterrizaje, salvaguardando la vida de sus ocupantes.
@@ -13173,8 +11901,6 @@ PARÁGRAFO 2. Se concederá de manera póstuma a Oficiales, Suboficiales, Soldad
 
 (Decreto 4444 de 2010 artículo 144)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.29.2 — Características
 
 La joya consiste en una cruz forjada de color dorado mate, entrelazada por una corona de laurel con fondo azul y la cabeza de una águila dorada en el centro, con las inscripciones en semicírculo "Coraje y Pericia" en la parte superior y "En Operaciones de Aviación" en la parte inferior. En la parte posterior lleva el escudo de armas de la Aviación del Ejército Nacional. Pende de una cinta de 40 milímetros color azul con dos franjas en los extremos de diez (10) milímetros cada una con el tricolor nacional.
@@ -13182,8 +11908,6 @@ La joya consiste en una cruz forjada de color dorado mate, entrelazada por una c
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 145)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.29.3 — Consejo
 
@@ -13203,15 +11927,11 @@ SUBSECCIÓN 30.
 
 MEDALLA MILITAR CENTENARIO "SERVICIOS DISTINGUIDOS A RECLUTAMIENTO "SIMONA DUQUE DE ALZATE"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.30.1 — Origen
 
 Créase la Medalla Centenario Servicios Distinguidos a Reclutamiento "Simona Duque de Álzate", en las categorías de Comendador, Oficial y Compañero, para reconocer y honrar al personal de Oficiales, Suboficiales, Soldados e Infantes de Marina de las Fuerzas Militares, así como a Unidades militares, servidores públicos del sector defensa, personalidades Civiles y Eclesiásticas nacionales o extranjeras, militares extranjeros, y entidades públicas y privadas que presten eminentes servicios a Reclutamiento y Control Reservas y Movilización del Ejército Nacional.
 
 (Decreto 4444 de 2010 artículo 146)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.30.2 — Categorías
 
@@ -13224,8 +11944,6 @@ b) En el grado de "Oficial" se podrá conferir y promover a los Oficiales en los
 c) En el grado de "Compañero" se podrá conferir a los Suboficiales en los grados de Sargento Primero, Sargento Viceprimero, Sargento Segundo, Cabo Primero, y sus equivalentes en las Fuerzas, al personal de Soldados e Infantes de Marina y a los Servidores Públicos del Ministerio de Defensa Nacional clasificados en el nivel Asistencial, que se hayan destacado por sus servicios a Reclutamiento y Control Reservas del Ejército Nacional
 
 (Decreto 4444 de 2010 artículo 147)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.30.3 — Características
 
@@ -13240,8 +11958,6 @@ c) La joya en la categoría de "Compañero" consiste en una estrella radiada de 
 d) La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 148)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.30.4 — Consejo
 
@@ -13261,23 +11977,17 @@ SUBSECCIÓN 31.
 
 MEDALLA MILITAR "SAN RAFAEL ARCÁNGEL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.31.1 — 1.1
 
 Creada mediante Decreto 2281 de 2012, para premiar a los particulares que por su apoyo incondicional a través de hechos extraordinarios se han convertido en benefactores y protectores de los militares heridos en combate.
 
 (Decreto 2281 de 2012 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.31.2 — Categorías
 
 La Medalla Militar "SAN RAFAEL ARCANGEL", tendrá dos (2) categorías: Oficial y Comendador.
 
 (Decreto 2281 de 2012 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.31.3 — Características
 
@@ -13286,8 +11996,6 @@ La Joya será de 50 mm ancho por 50 mm de alto, irá esmaltada, con una corona c
 PARÁGRAFO . La Venera será un círculo de 25 mm de alto por 22 mm de ancho de color azul y en esmalte al fuego, con la imagen de SAN RAFAEL ARCANGEL en el centro de color dorado y lo rodea el lema "ORDEN SAN RAFAEL ARCANGEL".
 
 (Decreto 2281 de 2012 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.31.4 — Consejo
 
@@ -13305,8 +12013,6 @@ Secretario: Director de Bienestar y Disciplina del Ejército Nacional
 
 (Decreto 2281 de 2012 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.31.5 — Requisitos
 
 Son requisitos mínimos necesarios para el otorgamiento de la medalla Militar "San Rafael Arcángel", los siguientes.
@@ -13319,15 +12025,11 @@ c. Distinción excepcional, por el apoyo voluntario desinteresado y que hayan im
 
 (Decreto 2281 de 2012 artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.31.6 — Otorgamiento
 
 La medalla "San Rafael Arcángel", será conferida por una sola vez al personal postulado para dicha presea, previo cumplimiento de los requisitos establecidos en este decreto, que a consideración del Consejo de la Medalla se hagan merecedores de esta distinción, mediante Resolución expedida por el Comandante del Ejército Nacional.
 
 (Decreto 2281 de 2012 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.31.7 — Imposición
 
@@ -13341,15 +12043,11 @@ SUBSECCIÓN 32.
 
 MEDALLA MILITAR "GUARDIA DE HONOR DE COLOMBIA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.32.1 — Origen
 
 Creada mediante Decreto 1599 de 2014, para premiar al personal de Oficiales, Suboficiales, Soldados y Civiles, que por su consagración al trabajo, espíritu de cuerpo, Ética Militar y eminentes servicios a la institución, coadyuvan al fortalecimiento y grandeza de la Escuela de Fuerzas Especiales, como al mantenimiento de la Democracia a Nivel Nacional. Así mismo para el personal militar en uso de buen retiro, a personalidades nacionales y extranjeras y entidades públicas o privadas que presten sus servicios meritorios en beneficio de la Escuela de Fuerzas Especiales.
 
 (Decreto 1599 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.32.2 — Categorías
 
@@ -13383,8 +12081,6 @@ a) A los alumnos que ocupen el primer puesto general en el desarrollo del Curso 
 
 (Decreto 1599 de 2014 artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.32.3 — Características de las Joyas en cada Categoría
 
 Categoría "Honoraria", La joya consta de una estrella en esmalte dorado escoltada y protegida por dos (2) flechas cruzadas en color plata con un diámetro total de ochenta y cuatro (84) milímetros de ancho, por sesenta y cinco (65) milímetros de largo, al frente de la joya estará fijado el escudo de armas de la Escuela de Fuerzas Especiales en color bronce antiguo y al respaldo de la estrella estará fijado el distintivo de Fuerzas Especiales. La joya va suspendida de tres (3) argollas, dos de ocho (8) milímetros de diámetro y una en el medio de cuatro (4) milímetros de diámetro, a una cinta de cuarenta (40) milímetros de ancho, por cincuenta y cinco (55) milímetros de largo de color negra, en cuyo centro y en forma vertical mantendrá ocho (8) franjas verticales, representando los colores de las diferentes armas del Ejército Nacional, coronará la cinta la leyenda "COMANDO".
@@ -13398,8 +12094,6 @@ PARÁGRAFO 1. Las miniaturas o réplicas serán condecoraciones similares a las 
 PARÁGRAFO 2. La venera será metálica de cuarenta (40) milímetros de largo por diez (10) milímetros de ancho con los mismos colores y detalles de la cinta de la joya establecidos en cada una de las categorías.
 
 (Decreto 1599 de 2014 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.32.4 — Consejo
 
@@ -13417,15 +12111,11 @@ El Jefe de Desarrollo Humano de la Escuela de Fuerzas Especiales.
 
 (Decreto 1599 de 2014 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.32.5 — Requisitos
 
 La condecoración se otorgará conforme a lo establecido en el artículo 2.3.1.3.3.1., del presente Capítulo.
 
 (Decreto 1599 de 2014 artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.32.6 — Diploma
 
@@ -13433,15 +12123,11 @@ Cada medalla va acompañada de un diploma credencial correspondiente a la medall
 
 (Decreto 1599 de 2014 artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.32.7 — Otorgamiento
 
 La Medalla Militar "Guardia de Honor de Colombia" del Ejército Nacional, será conferida por una sola vez al personal postulado para dicha presea previo cumplimiento de los requisitos establecidos para el efecto y que a consideración del Concejo de la Medalla se hagan merecedores de esta distinción mediante resolución expedida por el Comandante del Ejército Nacional.
 
 (Decreto 1599 de 2014 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.32.8 — Imposición
 
@@ -13455,15 +12141,11 @@ SUBSECCIÓN 33.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS EN OPERACIONES CONTRA EL NARCOTRÁFICO EN CATEGORÍA ÚNICA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.33.1 — Origen
 
 Creada mediante Decreto 1096 de 2014 para exaltar a miembros activos y retirados de las Fuerzas Militares y de la Policía Nacional, que se hayan destacado con su participación en operaciones contra el narcotráfico; así como, a las autoridades civiles, servidores públicos, funcionarios de entidades particulares, personal militar y civil extranjero que con su trabajo, colaboración y apoyo, han coadyuvado de manera sobresaliente en el cumplimiento de la lucha contra el narcotráfico.
 
 (Decreto 1096 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.33.2 — Características
 
@@ -13474,8 +12156,6 @@ PARÁGRAFO 1. La venera será un rectángulo de 40 mm de largo por 10mm de ancho
 PARÁGRAFO 2. La miniatura será similar a la joya de la condecoración, pero reducida a un diámetro de 15mm, suspendida de una cinta similar a la de la joya, de 15mm de ancho por 35mm de largo, según el artículo 2.3.1.3.2.3., del presente Capítulo.
 
 (Decreto 1096 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.33.3 — Consejo
 
@@ -13491,8 +12171,6 @@ Secretario: El Jefe de Personal de la Brigada Especial Contra el Narcotráfico.
 
 (Decreto 1096 de 2014 artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.33.4 — Requisitos
 
 Los requisitos mínimos necesarios para el otorgamiento de la Medalla Militar "SERVICIOS DISTINGUIDOS EN OPERACIONES CONTRA EL NARCOTRÁFICO EN CATEGORÍA ÚNICA", serán los establecidos en el artículo 2.3.1.3.3.1., del presente Capítulo, y además los siguientes:
@@ -13507,23 +12185,17 @@ Para el personal Militar y de la Policía Nacional:
 
 (Decreto 1096 de 2014 artículo 7)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.33.5 — Otorgamiento
 
 La Medalla Militar "SERVICIOS DISTINGUIDOS EN OPERACIONES CONTRA EL NARCOTRÁFICO EN CATEGORÍA ÚNICA", será conferida por una sola vez, previo cumplimiento de los requisitos establecidos para el efecto, y que, a consideración del Consejo de la Medalla, se hagan merecedores a ésta distinción.
 
 (Decreto 1096 de 2014 artículo 8)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.33.6 — Imposición
 
 La imposición de la Medalla Militar "SERVICIOS DISTINGUIDOS EN OPERACIONES CONTRA EL NARCOTRÁFICO EN CATEGORÍA ÚNICA", deberá revestir de la mayor solemnidad. Para la ceremonia, se conformarán los destacamentos de acuerdo al Reglamento de Ceremonial Militar, y estará presidida por el señor Comandante del Ejército Nacional, quien impondrá la condecoración.
 
 (Decreto 1096 de 2014 artículo 9)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.33.7 — Diploma
 
@@ -13537,15 +12209,11 @@ SUBSECCIÓN 34.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA ARMADA NACIONAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.34.1 — Origen
 
 La Medalla Militar "Servicios Distinguidos a la Armada Nacional", fue creada mediante el artículo 139 del Decreto 1816 de 2007, para estimular al personal de la Institución y servidores públicos del Sector Defensa que sobresalgan por su dedicación y capacidad profesional, en cumplimiento de sus funciones o para aquellas personas particulares, entidades públicas o privadas que presten servicios meritorios en beneficio del desarrollo de la Armada Nacional.
 
 (Decreto 4444 de 2010 artículo 149)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.34.2 — Características
 
@@ -13554,8 +12222,6 @@ La joya consiste en una medalla circular dorada, con un diámetro de cuarenta (4
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 150)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.34.3 — Consejo
 
@@ -13575,15 +12241,11 @@ SUBSECCIÓN 35.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA ESCUELA NAVAL DE CADETES ALMIRANTE PADILLA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.35.1 — Origen
 
 Creada mediante Decreto 1189 de 2000 (28 de junio) para estimular y premiar al personal que haya sobresalido por sus capacidades profesionales, técnicas y dedicación, al igual que a entidades oficiales, particulares y personal que haya prestado eminentes servicios o haya participado en realizaciones de beneficio excepcional para la Escuela Naval de Cadetes "Almirante Padilla.
 
 (Decreto 4444 de 2010 artículo 151)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.35.2 — Características
 
@@ -13592,8 +12254,6 @@ La joya es una cruz de Malta de cuarenta y cinco (45) milímetros de diámetro, 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 152)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.35.3 — Consejo
 
@@ -13613,15 +12273,11 @@ SUBSECCIÓN 36.
 
 MEDALLA MILITAR "FE EN LA CAUSA" DE LA ARMADA NACIONAL
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.36.1 — Origen
 
 Creada mediante Decreto 0961 de 2012, en categoría única, en categoría única, para premiar al personal de Oficiales, Suboficiales, Infantes de Marina Profesionales, Soldados y Civiles, que se destaquen en la recuperación de la paz, el orden y la democracia de la Nación, así como al personal militar en uso de buen retiro, a personalidades Nacionales y Extranjeras y entidades públicas o privadas que presten sus servicios meritorios en beneficio de la Armada Nacional.
 
 (Decreto 0961 de 2012 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.36.2 — Características
 
@@ -13632,8 +12288,6 @@ PARÁGRAFO 1. Las miniaturas o réplicas serán condecoraciones similares a la j
 PARÁGRAFO 2. La venera será metálica esmaltada al fuego, con las características y colores de la cinta de la joya, y en el centro llevará el Escudo Heráldico de la Armada Nacional.
 
 (Decreto 0961 de 2012 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.36.3 — Consejo
 
@@ -13650,8 +12304,6 @@ Jefe de Desarrollo Humano de la Armada Nacional
 Secretario: Director de Personal de la Armada Nacional
 
 (Decreto 0961 de 2012 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.36.4 — Requisitos
 
@@ -13687,15 +12339,11 @@ Para los Servidores Públicos del Sector Defensa e Instituciones de Derecho Púb
 
 (Decreto 0961 de 2012 artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.36.5 — Diploma
 
 Los diplomas correspondientes a la Medalla "FE EN LA CAUSA" de la Armada Nacional, serán elaborados de acuerdo a lo establecido en el artículo 2.3.1.3.6.4., de este Capítulo.
 
 (Decreto 0961 de 2012 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.36.6 — Otorgamiento
 
@@ -13704,8 +12352,6 @@ La Medalla "Fe en la Causa" de la Armada Nacional será conferida por una sola v
 PARÁGRAFO . Al personal de la Armada Nacional que falleciere como consecuencia del cumplimiento del deber en actos del servicio para mantener o restablecer el orden público, se le podrá conceder en forma póstuma, igualmente a los miembros de la Policía Nacional que fallecieren por la misma causa, participando en operaciones conjuntas con la Armada Nacional.
 
 (Decreto 0961 de 2012 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.36.7 — Imposición
 
@@ -13717,15 +12363,11 @@ SUBSECCIÓN 37.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA ESCUELA NAVAL DE SUBOFICIALES"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.37.1 — Origen
 
 La Medalla Militar "Servicios Distinguidos a la Escuela Naval de Suboficiales", fue creada mediante el artículo 143 del Decreto 1816 de 2007, para estimular y premiar al personal que haya sobresalido por sus capacidades personales, profesionales, tecnológicas y dedicación, al igual que a entidades oficiales, particulares y personal que haya prestado eminentes servicios o haya participado en realizaciones de beneficio excepcional para la Escuela Naval de Suboficiales ARC Barranquilla.
 
 (Decreto 4444 de 2010 artículo 153)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.37.2 — Características
 
@@ -13734,8 +12376,6 @@ La Joya consiste en una medalla circular en bronce de 35 milímetros de diámetr
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 154)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.37.3 — Consejo
 
@@ -13755,15 +12395,11 @@ SUBSECCIÓN 38.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA FUERZA DE SUPERFICIE"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.38.1 — Origen
 
 Creada mediante Decreto 1880 del 12 de septiembre de 1988, para premiar y reconocer los méritos de quienes denoten un sobresaliente espíritu marinero y aquellos que se destaquen en el cabal cumplimiento de sus deberes en las unidades de superficie de la Armada Nacional. Ostenta una sola categoría
 
 (Decreto 4444 de 2010 artículo 155)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.38.2 — Características
 
@@ -13772,8 +12408,6 @@ La joya es una cruz de malta de cuarenta y cinco (45) milímetros de diámetro c
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 156)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.38.3 — Consejo
 
@@ -13793,15 +12427,11 @@ SUBSECCIÓN 39.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA INFANTERÍA DE MARINA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.39.1 — Origen
 
 Creada mediante Decreto 1880 del 12 de septiembre de 1988, categoría única, para estimular el Cuerpo de Infantería de Marina a fin de premiar a quienes hayan sobresalido en actividades propias de la especialidad, así como al personal militar o civil y a entidades o instituciones oficiales o particulares, nacionales o extranjeras que hayan prestado eminentes servicios al Cuerpo de Infantería de Marina.
 
 (Decreto 4444 de 2010 artículo 157)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.39.2 — Características
 
@@ -13810,8 +12440,6 @@ La joya es una cruz de malta de cuarenta y cinco (45) milímetros de diámetro, 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 158)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.39.3 — Consejo
 
@@ -13831,15 +12459,11 @@ SUBSECCIÓN 40.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA FUERZA SUBMARINA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.40.1 — Origen
 
 Creada mediante Decreto 1880 del 12 de septiembre de 1988, categoría única, para estimular y premiar a los miembros de esta especialidad que hayan sobresalido por sus capacidades profesionales y técnicas al igual que a entidades públicas o privadas y a sus funcionarios que así lo ameriten por servicios a la Fuerza Submarina.
 
 (Decreto 4444 de 2010 artículo 159)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.40.2 — Características
 
@@ -13850,8 +12474,6 @@ En los bordes laterales lleva dos franjas verticales de color dorado de un espes
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 160)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.40.3 — Consejo
 
@@ -13871,15 +12493,11 @@ SUBSECCIÓN 41.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA AVIACIÓN NAVAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.41.1 — Origen
 
 Creada mediante Decreto 1880 del 12 de septiembre de 1988, para estimular y premiar a los miembros de esta especialidad que hayan sobresalido por sus capacidades profesionales y técnicas al igual que a entidades oficiales, particulares y personal civil o particular que hayan prestado eficientes servicios en beneficio de la Aviación Naval.
 
 (Decreto 4444 de 2010 artículo 161)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.41.2 — Características
 
@@ -13888,8 +12506,6 @@ La joya es una cruz de malta de cuarenta (40) milímetros en su máxima extensi�
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 162)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.41.3 — Consejo
 
@@ -13909,15 +12525,11 @@ SUBSECCIÓN 42.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS AL CUERPO DE GUARDACOSTAS"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.42.1 — Origen
 
 Creada mediante Decreto 399 del 18 febrero de 1994, para estimular y premiar al personal que haya sobresalido por sus capacidades profesionales, técnicas y dedicación, al igual que a entidades oficiales y particulares y personal civil o particular que haya prestado eficientes servicios en beneficio del Cuerpo de Guardacostas.
 
 (Decreto 4444 de 2010 artículo 163)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.42.2 — Características
 
@@ -13926,8 +12538,6 @@ La joya es una cruz de malta de sesenta (60) milímetros en su máxima extensió
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 164)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.42.3 — Consejo
 
@@ -13947,15 +12557,11 @@ SUBSECCIÓN 43.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA ESCUELA DE FORMACIÓN DE INFANTERÍA DE MARINA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.43.1 — Origen
 
 La Medalla "Servicios Distinguidos a la Escuela de Formación de Infantería de Marina", fue creada mediante el artículo 155 del Decreto 1816 de 2007, para estimular y premiar al personal que haya sobresalido por sus capacidades profesionales, técnicas y dedicación, al igual que a entidades oficiales, particulares y personal que haya prestado eminentes servicios, propendiendo por el desarrollo y proyección de la Escuela de Formación de Infantería de Marina.
 
 (Decreto 4444 de 2010 artículo 165)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.43.2 — Características
 
@@ -13964,8 +12570,6 @@ La joya es una estrella de cinco (5) puntas, de cincuenta (50) milímetros, tant
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 166)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.43.3 — Consejo
 
@@ -13981,15 +12585,11 @@ Secretario: El Director de Personal de la Armada Nacional.
 
 (Decreto 4444 de 2010 artículo 90)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.44.1 — Origen
 
 Creada y reglamentada mediante el Decreto 1880 del 12 de septiembre de 1988, con el propósito de premiar a miembros de la Institución, personal de las Fuerzas Militares, funcionarios de entidades públicas y privadas que en una u otra forma hayan sobresalido en actividades logísticas, administrativas y técnicas que redunden en beneficio de la Armada Nacional.
 
 (Decreto 4444 de 2010 artículo 167)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.44.2 — Características
 
@@ -13998,8 +12598,6 @@ La Joya es un círculo de cincuenta (50) milímetros de diámetro encerrado por 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 168)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.44.3 — Consejo
 
@@ -14019,15 +12617,11 @@ SUBSECCIÓN 45.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA DIRECCIÓN GENERAL MARÍTIMA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.45.1 — Origen
 
 Se crea mediante Decreto 2352 del 26 de diciembre de 1996, para estimular al personal que haya sobresalido por sus capacidades profesionales, técnicas y dedicación, al igual que a entidades oficiales, particulares y personal civil o particular que haya prestado eficientes servicios en beneficio del Desarrollo Marítimo Nacional.
 
 (Decreto 4444 de 2010 artículo 169)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.45.2 — Características
 
@@ -14036,8 +12630,6 @@ La Joya es una ancla plateada de cincuenta (50) milímetros de diámetro; sobre 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 170)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.45.3 — Consejo
 
@@ -14057,15 +12649,11 @@ SUBSECCIÓN 46.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA INGENIERÍA NAVAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.46.1 — Origen
 
 La Medalla Militar "Servicios Distinguidos a la Ingeniería Naval" fue creada mediante el artículo 161 del Decreto 1816 de 2007, con el propósito de estimular y premiar al personal que haya sobresalido por sus capacidades profesionales, técnicas y dedicación, al igual que a entidades oficiales, particulares y personal civil que haya prestado eficientes servicios en beneficio de la Ingeniería Naval.
 
 (Decreto 4444 de 2010 artículo 171)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.46.2 — Características
 
@@ -14074,8 +12662,6 @@ La joya es una cruz de malta de cuarenta y cinco (45) milímetros de diámetro, 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capitulo.
 
 (Decreto 4444 de 2010 artículo 172)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.46.3 — Consejo
 
@@ -14095,15 +12681,11 @@ SUBSECCIÓN 47.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA INTELIGENCIA NAVAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.47.1 — Origen
 
 La Medalla "Servicios Distinguidos a la Inteligencia Naval", fue creada mediante el artículo 163 del Decreto 1816 de 2007, para estimular y premiar al personal que haya sobresalido por sus capacidades profesionales, técnicas y dedicación, al igual que a entidades oficiales, particulares y personal que haya prestado eminentes servicios en contribución de la Inteligencia Naval propendiendo por su desarrollo y proyección en la Armada Nacional.
 
 (Decreto 4444 de 2010 artículo 173)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.47.2 — Características
 
@@ -14112,8 +12694,6 @@ La Medalla Militar "Servicios Distinguidos a Inteligencia Naval" en su categorí
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 174)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.47.3 — Consejo
 
@@ -14135,7 +12715,7 @@ SUBSECCIÓN 48
 
 MEDALLA MILITAR MARCO FIDEL SUAREZ
 
-ARTÍCULO
+## art:2.3.1.3.6.48.1 — 
 
 . ORIGEN Y OTORGAMIENTO. Creada mediante Decreto 1880 del 12 de septiembre de 1988, en memoria y honra del Presidente Marco Fidel Suárez, quien mediante la sanción de la Ley 126 de 1919 diera origen al "Arma Aérea" precursora de la Fuerza Aérea Colombiana, con el fin de premiar y exaltar los méritos del personal militar y civil de la Institución, a oficiales y suboficiales de otras Fuerzas y a personalidades civiles que hayan contribuido en forma sobresaliente al desarrollo de la institución y al perfeccionamiento de sus especialidades con el aporte de sus conocimientos, dedicación al trabajo, espíritu de cuerpo y eminentes servicios .
 
@@ -14147,7 +12727,7 @@ b) Categoría Especial "Marco Fidel Suarez"
 
 PARÁGRAFO : La Categoría Especial "Marco Fidel Suarez", será conferida previo cumplimiento de los requisitos establecidos en el artículo 2.3.1.3.6.3 del Decreto 1070 de 2015, para premiar y exaltar los méritos del personal de Oficiales, Suboficiales, Soldados, Unidades Militares, Personal de Reserva Activa, Profesionales Oficiales de Reserva, Personal de Funcionarios Públicos del Sector Defensa, Personal de Entidades Públicas - Privadas, Personalidades Nacionales y Extranjeras, que se hayan caracterizado por sus méritos militares, profesionales, servicios eminentes prestados en beneficio de la Fuerza Aérea Colombiana, con ocasión a la celebración de los cien años.
 
-ARTÍCULO
+## art:2.3.1.3.6.48.2 — 
 
 CARACTERÍSTICAS. Las características de las joyas según la categoría son las siguientes:
 
@@ -14169,15 +12749,11 @@ SUBSECCIÓN 49.
 
 MEDALLA MILITAR "ÁGUILA DE GULES"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.49.1 — Origen
 
 Creada mediante Decreto número 786 del 12 de mayo de 1995, ostenta una sola categoría "Honor Aéreo", con el fin de enaltecer y destacar al personal de oficiales de vuelo y suboficiales técnicos de la Fuerza Aérea que desempeñen misiones como tripulantes de vuelo, que en cumplimiento de sus funciones se hayan distinguido por sus servicios prestados a las operaciones aéreas o aquellas personas o entidades que el Comando de la Fuerza Aérea considere meritorio resaltar sus aportes al cumplimiento de las operaciones aéreas.
 
 (Decreto 4444 de 2010 artículo 177)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.49.2 — Características
 
@@ -14186,8 +12762,6 @@ La Joya su base es una medalla dorada, en forma de delta de cuarenta (40) milím
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 178)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.49.3 — Consejo
 
@@ -14207,15 +12781,11 @@ SUBSECCIÓN 50.
 
 MEDALLA MILITAR "FE EN LA CAUSA" DE LA FUERZA AÉREA COLOMBIANA
 
-ARTÍCULO
-
 ## art:3.1.3.6.50.1 — Origen
 
 Creada mediante Decreto 0961 de 2012, en categoría única, en categoría única, para premiar al personal de Oficiales, Suboficiales, Infantes de Marina Profesionales, Soldados y Civiles, que se destaquen en la recuperación de la paz, el orden y la democracia de la Nación, así como al personal militar en uso de buen retiro, a personalidades Nacionales y Extranjeras y entidades públicas o privadas que presten sus servicios meritorios en beneficio de la Fuerza Aérea Colombiana.
 
 (Decreto 0961 de 2012 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.50.2 — Características
 
@@ -14226,8 +12796,6 @@ PARÁGRAFO 1. Las miniaturas o réplicas serán condecoraciones similares a la j
 PARÁGRAFO 2. La venera será metálica esmaltada al fuego, de 40 milímetros de largo por 10 milímetros de ancho con las características y colores de la cinta de la joya, y en el centro sobre la franja azul llevará el Escudo de la Fuerza Aérea Colombiana.
 
 (Decreto 0961 de 2012 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.50.3 — Consejo
 
@@ -14242,8 +12810,6 @@ Vocales: Jefe de Operaciones Aéreas de la Fuerza Aérea
 Secretario: Jefe de Desarrollo Humano de la Fuerza Aérea
 
 (Decreto 0961 de 2012 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.50.4 — Requisitos
 
@@ -14277,15 +12843,11 @@ Para los Servidores Públicos del Sector Defensa e Instituciones de Derecho Púb
 
 (Decreto 0961 de 2012 artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.50.5 — Diploma
 
 Los diplomas correspondientes a la Medalla "FE EN LA CAUSA" de la Fuerza Aérea Colombiana, serán elaborados de acuerdo a lo establecido en el artículo 2.3.1.3.6.4., de este Capítulo.
 
 (Decreto 0961 de 2012 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.50.6 — Otorgamiento
 
@@ -14294,8 +12856,6 @@ La Medalla "Fe en la Causa" de la Fuerza Aérea Colombiana será conferida por u
 PARÁGRAFO . Al personal de la Fuerza Aérea Colombiana que falleciere como consecuencia del cumplimiento del deber en actos del servicio para mantener o restablecer el orden público, se le podrá conceder en forma póstuma, igualmente a los miembros de la Policía Nacional que fallecieren por la misma causa, participando en operaciones conjuntas con la Fuerza Aérea Colombiana.
 
 (Decreto 0961 de 2012 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.50.7 — Imposición
 
@@ -14307,15 +12867,11 @@ SUBSECCIÓN 51.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA SEGURIDAD Y DEFENSA DE BASES AÉREAS"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.51.1 — Origen
 
 Creada mediante Decreto número 786 del 12 de mayo de 1995, como medalla "Servicios Distinguidos a la Infantería de Aviación", hoy especialidad de "Seguridad y Defensa de Bases Aéreas", con el fin de enaltecer y destacar al personal que en cumplimiento de sus funciones se hayan distinguido por sus servicios prestados a la Especialidad, o aquellas personas o entidades que el Comando de la Fuerza Aérea considere meritorio resaltar por sus aportes para el cumplimiento de las misiones de seguridad.
 
 (Decreto 4444 de 2010 artículo 179)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.51.2 — Características
 
@@ -14324,8 +12880,6 @@ La joya en la base está materializada por una Medalla Circular Dorada de cuaren
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 180)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.51.3 — Consejo
 
@@ -14345,15 +12899,11 @@ SUBSECCIÓN 52.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA INTELIGENCIA AÉREA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.52.1 — Origen
 
 Crease la "Medalla Servicios Distinguidos a la Inteligencia Aérea" para estimular y premiar al personal de Oficiales, Suboficiales, Soldados y Personal Civil, que se haya destacado por su participación en operaciones de Inteligencia Militar, Inteligencia Técnica y Contrainteligencia, o a quienes se hayan distinguido por su capacidad profesional, técnica o sobresaliente dedicación a esta especialidad, al igual que entidades oficiales, particulares y personal que haya prestado eminentes servicios en contribución de la inteligencia Aérea, propendiendo por su desarrollo y proyección en la Institución.
 
 (Decreto 4444 de 2010 artículo 181)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.52.2 — Características
 
@@ -14361,9 +12911,7 @@ La Joya consiste en una cruz de malta metálica dorada en cuyo centro sobre un c
 
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
-(Decreto 4444 de 2010 artículo 182) 
-
-ARTÍCULO
+(Decreto 4444 de 2010 artículo 182)
 
 ## art:2.3.1.3.6.52.3 — Consejo
 
@@ -14383,15 +12931,11 @@ SUBSECCIÓN 53.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA DEFENSA AÉREA Y NAVEGACIÓN AÉREA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.53.1 — Origen
 
 Créase la Medalla Servicios Distinguidos a la "Defensa Aérea y Navegación Aérea" para enaltecer y premiar el espíritu de consagración y esmero del personal militar y civil que labora en el aérea de Defensa Aérea o Navegación Aérea, quienes con su trabajo hayan contribuido al engrandecimiento del tránsito aéreo, meteorología, servicios de información aeronáutica y aeronavegabilidad, como partícipes de la planeación y el desarrollo de las operaciones aéreas, así como a los funcionarios, personalidades o entidades que con su gestión hayan contribuido a la evolución y mejoramiento de estas especialidades.
 
 (Decreto 4444 de 2010 artículo 183)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.53.2 — Características
 
@@ -14400,8 +12944,6 @@ La Joya consiste en una rosa de los vientos con sus ejes longitudinal y transver
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 184)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.53.3 — Consejo
 
@@ -14421,15 +12963,11 @@ SUBSECCIÓN 54.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS AL CUERPO LOGÍSTICO Y ADMINISTRATIVO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.54.1 — Origen
 
 Creada mediante Decreto número 786 del 12 de mayo de 1995, con el fin de enaltecer y destacar al personal del Cuerpo Logístico y Administrativo. que en cumplimiento de sus funciones se haya distinguido por sus servicios prestados a la Especialidad, o aquellas personas o entidades que el Comando de la Fuerza Aérea considere meritorio resaltar, por sus aportes para el cumplimiento del apoyo logístico.
 
 (Decreto 4444 de 2010 artículo 185)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.54.2 — Características
 
@@ -14438,8 +12976,6 @@ La Joya es una corona de laurel circular plateada y cerrada en señal de victori
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 186)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.54.3 — Consejo
 
@@ -14459,8 +12995,6 @@ SUBSECCIÓN 55.
 
 MEDALLA MILITAR "A LA CIENCIA Y LA TECNOLOGÍA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.55.1 — Origen
 
 Créase la "Medalla a la Ciencia y la Tecnología" por Servicios Distinguidos a la Institución Militar, para estimular, enaltecer y premiar a los miembros de las Fuerzas Militares, Servidores Públicos del Sector Defensa Particulares Prominentes o Instituciones que sobresalgan apoyando el desarrollo de la Gestión o Investigación Científica y Tecnológica en la Fuerza Aérea o a los funcionarios, personalidades o entidades, que con su gestión hayan contribuido a la evolución y mejoramiento de la misma.
@@ -14472,8 +13006,6 @@ a) Gestión Tecnológica
 b) Investigación.
 
 (Decreto 4444 de 2010 artículo 187)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.55.2 — Categorías
 
@@ -14489,8 +13021,6 @@ Se confiere al personal que haya desarrollado proyectos de investigación o sean
 
 (Decreto 4444 de 2010 artículo 188)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.55.3 — Características
 
 La Joya consiste en una circunferencia metálica dorada, rodeada por una corona de laurel abierta en la parte superior; en el centro a la derecha lleva la cabeza de un hombre desde el cuello, de perfil derecho, y en su parte posterior y superior cuatro (4) piñones de diferente tamaño engranados entre sí; atrás a la altura de la frente, un globo terráqueo y debajo de este dos tableros de reloj con números romanos y sobre estos el símbolo del átomo con su núcleo a la altura de la oreja de la figura humana. En semicírculo en la parte superior lleva la inscripción "Fuerza Aérea Colombiana" y en la parte inferior "Ciencia y Tecnología". El reverso de la joya, consiste en una circunferencia metálica dorada, rodeada por una corona de laurel abierta en la parte superior, en el centro desde el borde inferior se levanta un cohete espacial con el escudo de la Fuerza Aérea en su base y el globo terráqueo en la parte superior, el cual muestra el continente americano en color verde con el mapa de Colombia resaltado en dorado y los dos casquetes polares en color blanco. Alrededor del mundo lleva una elipse a la altura del Ecuador.
@@ -14500,8 +13030,6 @@ La joya pende de una cinta de seda de cuarenta (40) milímetros de ancho de siet
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 189)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.55.4 — Consejo
 
@@ -14521,15 +13049,11 @@ SUBSECCIÓN 55.
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS A LA ESCUELA DE SUBOFICIALES CT. ANDRÉS M. DÍAZ DÍAZ DE LA FUERZA AÉREA COLOMBIANA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.56.1 — Origen
 
 Creada mediante Decreto número 1409 de 2012, en categoría única, con el fin de honrar públicamente e incentivar al personal de los Oficiales, Suboficiales y Civiles que se destaquen por sus virtudes militares y profesionales de carácter excepcional en beneficio de la Escuela de Suboficiales y de la Fuerza Aérea Colombiana; a miembros activos y retirados de las Fuerzas Militares y de Policía Nacional, autoridades civiles y eclesiásticas, servidores públicos, así como a funcionarios de entidades oficiales o particulares que por su decisión, colaboración y apoyo hayan contribuido al cumplimiento de la Misión de la Escuela de Suboficiales "CT. ANDRES M. DIAZ DIAZ", a los alumnos de las Escuelas de Formación Suboficiales de Ejército Nacional y Armada Nacional que ocupen los primeros puestos en sus promociones; por derecho propio a los Oficiales Directores de la Escuela de Suboficiales y finalmente, a las Banderas de Guerra de las Fuerzas Militares o de Policía.
 
 (Decreto 1409 de 2012 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.56.2 — Características
 
@@ -14540,8 +13064,6 @@ PARÁGRAFO 1. Las miniaturas o replicas tienen el mismo diseño de la joya con u
 PARÁGRAFO 2. La venera será una cinta metálica de cuarenta (40) mm de ancho por diez (10) mm de longitud, con los detalles previstos por la cinta de (13) mm de la cual pende la joya y en el centro el escudo emblema de la Escuela de Suboficiales.
 
 (Decreto 1409 de 2012 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.56.3 — Consejo
 
@@ -14557,23 +13079,17 @@ Vocal: Director Escuela de Suboficiales FAC.
 
 (Decreto 1409 de 2012 artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.56.4 — Requisitos
 
 Se tendrán en cuenta los requisitos establecidos en el artículo 2.3.1.3.6.3., del presente Capítulo.
 
 (Decreto 1409 de 2012 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.56.5 — Diploma
 
 Los diplomas correspondientes a la Medalla de Servicios Distinguidos a la Escuela de Suboficiales FAC "Capitán Andrés M. Díaz Diaz", llevarán las firmas del Director de las Escuela de Suboficiales FAC y del Comandante de la Fuerza Aérea, con la siguiente leyenda:
 
 (Decreto 1409 de 2012 artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.56.6 — Otorgamiento
 
@@ -14582,8 +13098,6 @@ La Medalla Servicios Distinguidos a la Escuela de Suboficiales FAC "Capitán And
 PARÁGRAFO . De igual manera, para el otorgamiento de la Medalla Servicios Distinguidos a la Escuela de Suboficiales FAC "Capitán Andrés M. Díaz Díaz", se seguirán las normas establecidas en el ARTÍCULO 3.1.3.6.2 del presente decreto.
 
 (Decreto 1409 de 2012 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.56.7 — Imposición
 
@@ -14595,15 +13109,11 @@ SUBSECCIÓN 57.
 
 MEDALLA MILITAR "SERVICIOS MERITORIOS A LA JEFATURA JURÍDICA Y DERECHOS HUMANOS Y AL DERECHOS INTERNACIONAL HUMANITARIO DE LA FUERZA AÉREA COLOMBIANA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.57.1 — Origen
 
 Creada mediante Decreto número 2457 de 2013, en categoría única. con el fin de honrar públicamente e incentivar al personal de oficiales y suboficiales abogados de la Fuerza Aérea Colombiana que se destaquen por sus virtudes militares y/o profesionales de carácter excepcional, en beneficio del área Jurídica, los Derechos Humanos y el Derecho Internacional Humanitario; a miembros activos y retirados de las Fuerzas Militares y de la Policía Nacional, autoridades civiles, servidores públicos, así como a funcionarios de entidades oficiales o particulares que con su trabajo, colaboración y apoyo, han coadyuvado de manera sobresaliente, en el cumplimiento de la misión institucional de fortalecer la legitimidad y la primacía de los Derechos Humanos y el Derecho Internacional Humanitario en la Fuerza Aérea Colombiana.
 
 (Decreto 2457 de 2013 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.57.2 — Características
 
@@ -14612,8 +13122,6 @@ La joya consiste en una estrella de color plateado de cinco (5) puntas que repre
 PARÁGRAFO . Las miniaturas o réplicas tienen el mismo diseño de la joya con un diámetro de dieciocho (18) mm y pende de una cinta igual a la de la joya de quince (15) mm de ancho y treinta y cinco (35) mm de longitud.
 
 (Decreto 2457 de 2013 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.57.3 — Consejo
 
@@ -14631,23 +13139,17 @@ Vocal: Jefe Jefatura Jurídica y Derechos Humanos FAC.
 
 (Decreto 2457 de 2013 artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.57.4 — Requisitos
 
 Para la imposición de la medalla "Servicios Meritorios a la Jefatura Jurídica y Derechos Humanos y al Derecho Internacional Humanitario", se tendrán en cuenta los requisitos establecidos en el artículo 2.3.1.3.3.1., del presente Capítulo.
 
 (Decreto 2457 de 2013 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.57.5 — Diploma
 
 Los diplomas correspondientes a la Medalla "Servicios Meritorios a la Jefatura Jurídica y Derechos Humanos y al Derecho Internacional Humanitario", llevarán las firmas del Jefe de la Jefatura Jurídica y Derechos Humanos FAC y del Comandante de la Fuerza Aérea Colombiana, con la siguiente leyenda:
 
 (Decreto 2457 de 2013 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.57.6 — Otorgamiento
 
@@ -14656,8 +13158,6 @@ Otorgamiento. La medalla "Servicios Meritorios a la Jefatura Jurídica y Derecho
 PARÁGRAFO . De igual manera para el otorgamiento de la medalla "Servicios Meritorios a la Jefatura Jurídica y Derechos Humanos y al Derecho Internacional Humanitario", se seguirán las normas establecidas en el artículo 2.3.1 3.6.3., del presente Capítulo.
 
 (Decreto 2457 de 2013 artículo 6)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.57.7 — Imposición
 
@@ -14669,13 +13169,9 @@ Para la imposición de la medalla "Servicios Meritorios a la Jefatura Jurídica 
 
 "MEDALLA MILITAR BICENTENARIO DE LA CAMPAÑA LIBERTADORA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.59.1 — 
 
 2.3.1.3.6.59.1 Créase en única categoría la Medalla Militar "Bicentenario de la Campaña Libertadora", para premiar y estimular por una sola vez al personal de oficiales, suboficiales, soldados profesionales, servidores públicos del Ministerio de Defensa Nacional al servicio del Ejército Nacional que a fecha 07 de agosto de 2019 estén activos, así como a las Unidades Militares de la Fuerza; igualmente al personal de Oficiales Generales de la reserva que hayan ostentado el cargo de Comandante del Ejército Nacional y al personal de Oficiales y suboficiales de la Reserva postulados por los comandantes de unidades operativas mayores del Ejército Nacional, quienes con su honor, vocación de servicio y abnegada labor han contribuido de manera significativa a la preservación de la libertad, la democracia, la seguridad y la paz en todo el territorio colombiano.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.59.2 — 9.2
 
@@ -14684,8 +13180,6 @@ Características: La joya está conformada por tres piezas, la primera, una base
 PARÁGRAFO 1: La miniatura o réplica: Será similar a la joya de la condecoración, pero reducida a un diámetro de 20 mm, suspendida por una cinta similar de la joya, de 15 mm de ancho X 35 mm de alto.
 
 PARÁGRAFO 2: La venera: Será un rectángulo metálico esmaltado de 40 mm de ancho x 10 mm de alto, dividida de igual forma que la cinta; color rojo, en el centro seis franjas doradas de 2.5 mm de ancho divididas por un espacio de 3 mm.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.59.3 — 9.3
 
@@ -14698,8 +13192,6 @@ Vicepresidente: Segundo Comandante del Ejército.
 Vocal: Comandante Comando de Personal.
 
 Secretario: Director de Familia y Bienestar.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.59.4 — Requisitos
 
@@ -14717,8 +13209,6 @@ Los requisitos mínimos para el otorgamiento de la medalla militar "Bicentenario
 
 6. Oficiales y Suboficiales de la reserva postulados por los Comandantes de Unidad Operativa Mayor por una sola vez, a excepción de aquellos que hayan sido retirados por incapacidad profesional y por retiro discrecional.
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.59.5 — Diploma
 
 Será en papel Reemp Kimberly Tradit Marfil con las siguientes dimensiones: treinta y cinco (35) centímetros de largo por veinticinco (25) centímetros de ancho, tipo de letra Edwardian Script ITC, excepto las firmas en tipo de letra; Monotipe Cursiva, con el dibujo del anverso de la medalla al lado izquierdo superior y al lado superior derecho, de fondo el escudo del Ejército Nacional y en el centro la siguiente leyenda:
@@ -14731,13 +13221,9 @@ SUBSECCIÓN 60
 
 MEDALLA MILITAR "BICENTENARIO DE LA CABALLERÍA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.60.1 — Origen
 
 Créase la Medalla Militar "Bicentenario de la Caballería" en categoría única para premiar y estimular por una sola vez al personal de Ofíciales y Suboficiales del arma de Caballería, soldados profesionales, servidores públicos del Ministerio de Defensa Nacional al servicio del Ejército Nacional y de la Caballería, unidades de militares del arma; igualmente al personal de Oficiales y Suboficiales de la reserva quienes hicieron parte de la Caballería Colombiana postulados por los Comandantes de las unidades de Caballería.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.60.2 — 0.2
 
@@ -14746,8 +13232,6 @@ Características: la joya está conformada por cuatro piezas, la primera, una ba
 PARÁGRAFO 1: La miniatura o réplica; será similar a la joya de la condecoración, pero reducida a un diámetro de 20 mm, suspendida por una cinta similar de la joya, de 15 mm de ancho X 35 mm de alto.
 
 PARÁGRAFO 2: La venera; será un rectángulo metálico esmaltado de 40 mm de ancho x 10 mm de alto, dividida de igual forma que la cinta; color amarillo, en el centro cuatro franjas negras de 2,8 mm de ancho divididas por un espacio de 2,8 mm y un sobrepuesto igual al de la cinta reducido proporcionalmente a 10 mm de alto.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.60.3 — 0.3
 
@@ -14760,8 +13244,6 @@ Vicepresidente: Jefe de Estado Mayor Generador de Fuerza.
 Vocal: Director Escuela de Caballería.
 
 Secretario: Subdirector Escuela de Caballería.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.60.4 — Requisitos
 
@@ -14777,8 +13259,6 @@ Los requisitos mínimos para el otorgamiento de la Medalla Militar "Bicentenario
 
 5. Que durante los últimos tres años el citado personal no haya sido condenado por la justicia penal militar o la ordinaria.
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.60.5 — Diploma
 
 Será en papel Reemp Kimberly Tradit Marfil con las siguientes dimensiones: treinta y cinco (35) centímetros de largo por veinticinco (25) centímetros de ancho, tipo de letra Edwardian Script ITC, excepto las firmas en tipo de letra; Monotipe Cursiva, con el dibujo del anverso de la medalla al lado izquierdo superior y al lado superior derecho y en el centro la siguiente leyenda:
@@ -14793,13 +13273,9 @@ Subsección, adicionada por el Art. 1 del Decreto 093 de 2021
 
 MEDALLA MILITAR "PROTECTORES DE LA ESPADA DEL LIBERTADOR"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.61.1 — Origen
 
 Créase en única categoría la Medalla Militar "Protectores de la Espada del Libertador", para premiar y estimular por una sola vez al personal de Oficiales, Suboficiales, Soldados Profesionales y Soldados del Batallón de Infantería No. 37 "Guardia Presidencial" y al personal militar que se encuentre en comisión en la Casa Militar de la Presidencia de la República, así como a las Unidades Militares de la Fuerza que por razones del servicio sean designadas a custodiar la "Espada del Libertador" fuera de la Casa de Nariño, quienes en cumplimiento de su juramento patrio custodian y protegen la espada del Libertador el Capitán General del Ejército de la Nueva Granada Simón José Antonio de la Santísima Trinidad Bolívar Palacios como representación de la patria misma.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.61.2 — 1.2
 
@@ -14810,8 +13286,6 @@ La joya estará suspendida por una cinta de 40 mm de ancho x 55 mm de alto, con 
 PARÁGRAFO 1: La mihiatura o réplica: La miniatura o replica; será similar a la joya de la condecoración, pero reducida a un diámetro de 20 mm, suspendida por una cinta similar de la joya, de 15 mm de ancho X 35 mm de alto, según lo contemplado en el Artículo 2.3.1.3.2.3 del presente decreto.
 
 PARÁGRAFO 2: La venera: Será un rectángulo metálico esmaltado de 40 mm de ancho x 10 mm de alto, dividida de igual forma que la cinta; amarillo (Pantone 116 C), azul (Pantone 287 C) y rojo (Pantone 186 C), a su vez la lleva un sobrepuesto de la espada del Libertador, con una altura de 6 mm x 30 mm de ancho, en acabado dorado brillante y moldeada en alto relieve.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.61.3 — 1.3
 
@@ -14824,8 +13298,6 @@ Vicepresidente: Jefe de Casa Militar.
 Vocal: Comandante del Batallón de Infantería No. 37 "Guardia Presidencial"
 
 Secretario: Oficial S3 del Batallón de Infantería No. 37 "Guardia Presidencial".
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.61.4 — 1.4
 
@@ -14865,8 +13337,6 @@ Para Unidades Militares:
 
 PARÁGRAFO : Pérdida del Derecho al Uso. Se pierde el derecho al uso de la condecoración por las siguientes causas: El personal de Oficiales, Suboficiales y Soldados Profesionales de acuerdo con el Artículo 2.3. 1.3.1.9 del Decreto 1070 del 2015.
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.61.5 — Diploma
 
 Deben ser elaborados en papel pergamino o cartulina blanca, de las siguientes dimensiones; treinta y dos centímetros de ancho por veintidós de alto, con el dibujo del adverso de la medalla en la parte superior izquierda y el reverso en la parte superior derecha.
@@ -14879,15 +13349,11 @@ Subsección, adicionada por el Art. 1 del Decreto 247 de 2021
 
 MEDALLA MILITAR "SIMONA AMAYA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.62.1 — Origen
 
 Créase en única categoría la Medalla Militar "Simona Amaya", para premiar y estimular por una sola vez al personal femenino de Oficiales y Suboficiales de las Fuerzas Militares de Colombia, que con su trabajo, colaboración y apoyo se destaquen dentro del ámbito de su competencia, por ser Mujeres Militares valientes, resueltas, emprendedoras, comprometidas en el ejercicio de las misiones encomendadas, que obran con mística y convicción, profesionalismo, espíritu de superación, creativas, innovadoras, arrojadas, disciplinadas, cumplidoras de los deberes y obligaciones, respetuosas del honor militar, pundonorosas; de impoluto patriotismo y espíritu militar.
 
 La Medalla será conferida el día 27 de junio de los años venideros, en conmemoración a la Batalla de Páya en donde "Simona Amaya" lideró heroicamente el asedio, caída y toma del bastión del Tríncheron de Sangenís en el Departamento de Boyacá, fortaleza donde reposaban tropas del Ejército Español, propinando un golpe contundente al enemigo y levando la moral de los patriotas en su primera victoria como Ejército libertador, lo que le gener6'jeconocimiento, siendo ascendida al grado de Sargento. .Y
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.62.2 — Características
 
@@ -14901,8 +13367,6 @@ PARÁGRAFO 3. El anverso tendrá una flor sobrepuesta de cinco pétalos color ro
 
 PARÁGRAFO 4. En el reverso estará plasmado el escudo de armas del Comando General de las Fuerzas Militares, A su vez la cinta sostendrá a la joya por "La vesica piscis" (vejiga de pez en latín) es un símbolo hecho con dos círculos del mismo radio que se intersecan de manera que el centro de cada círculo está en la circunferencia del otro. En acabado dorado brillante y moldeado en 3D.
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.62.3 — Consejo de la Medalla
 
 El Consejo de la Medalla Militar "Simona Amaya" estará integrado así:
@@ -14914,8 +13378,6 @@ Vicepresidente: Jefe de Estado Mayor Conjunto.
 Vocales: Comandantes Ejército Nacional, Armada Nacional y de la Fuerza Aérea Colombiana.
 
 Secretario: Jefe del Departamento de Personal de Comando General.
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.62.4 — Requisitos
 
@@ -14931,8 +13393,6 @@ Los requisitos para el otorgamiento de la medalla militar "Simona Amaya" son:
 
 5. Que se distinga por sus eminentes servicios prestados a las Fuerzas Militares dentro del cumplimiento de su función en el ejercicio del cargo o prestación del servicio, por sus reconocidas virtudes militares de patriotismo, honor militar, mística, ética, liderazgo, sacrificio, voluntad, disciplina, fortaleza coraje, compromiso, lealtad y valor.
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.62.5 — Diploma
 
 Deben ser elaborados en papel Reemp Kimberly Tradit Marfil con las siguientes dimensiones: treinta y cinco (35) centímetros de largo por veinticinco (25) centímetros de ancho, tipo de letra Edwardian Script ITC, excepto las firmas en tipo de letra; Monotipe Cursiva, con el dibujo del anverso de la medalla al lado izquierdo superior y al lado superior derecho, de fondo el escudo del Comando General y en el centro la siguiente leyenda.
@@ -14945,15 +13405,11 @@ Subsección Adicionada por el Art. 1 del Decreto 1428 de 2021
 
 MEDALLA MILITAR "BICENTENARIO DE LA LOGÍSTICA MILITAR"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.63.1 — Origen
 
 Créase en única categoría la Medalla Militar "Bicentenario de la Logística Militar", para premiar y estimular por una sola vez al personal de Oficiales y Suboficiales del Cuerpo Logístico y del Cuerpo Administrativo; Personal de Soldados Profesionales y Servidores públicos del Ministerio de Defensa Nacional al servicio del Cuerpo Logístico y del Cuerpo Administrativo en el Ejército Nacional, que a fecha 12 de Junio de 2021 estaban activos, así como a las Unidades Militares creadas y activadas a la misma fecha, quienes han contribuido al progreso, fortalecimiento y alcance de los objetivos misionales, enalteciendo la magna labor y el nombre de la logística Colombiana durante estos 200 años al servicio del pueblo colombiano.
 
 (Adicionado por el Art. 1 del Decreto 1428 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.63.2 — Características
 
@@ -14966,8 +13422,6 @@ PARÁGRAFO 1. La miniatura o réplica será similar a la joya de la condecoraci�
 PARÁGRAFO 2. La venera será un rectángulo metálico esmaltado de 40 mm de ancho x 10 mm de alto, dividida de igual forma que la cinta; dos franjas laterales en color gris (Pantone 422 C), lleva 7 franjas centrales en color rojo (Pantone 186 C), amarillo (Pantone 7409 C), negro (Pantone Black 6 C), púrpura (Pantone 188 C), naranja (Pantone 152 C), azul (Pantone 2738 C) y celeste (Pantone 660 C). En el centro, tendrá como sobrepuesto el distintivo de la Logística Militar en acabado plateado y dorado brillante, pintura al fuego y moldeada en 3D.
 
 (Adicionado por el Art. 1 del Decreto 1428 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.63.3 — Consejo de la Medalla
 
@@ -14983,8 +13437,6 @@ Secretario: Director Escuela de Logística.
 
 (Adicionado por el Art. 1 del Decreto 1428 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.63.4 — Requisitos
 
 Además de los requisitos mínimos contemplados en el artículo 2.3.1.3.3.1, son necesarios los siguientes requisitos para el otorgamiento de la Medalla Militar "Bicentenario de la Logística Militar":
@@ -14998,8 +13450,6 @@ Para Oficiales, Su9oficiales, Soldados Profesionales y Servidores Públicos del 
 - Ser Oficial o Suboficial del Cuerpo Logístico y del Cuerpo Administrativo, Soldado Profesional o Servidor público del Ministerio de Defensa Nacional al servicio del Cuerpo Logístico o del Cuerpo Administrativo en el Ejército Nacional, que a fecha 12 de junio de 2021 estaban activos.
 
 (Adicionado por el Art. 1 del Decreto 1428 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.63.5 — Diploma
 
@@ -15015,8 +13465,6 @@ Subsección, Adicionada por el Art. 1 del Decreto 1429 de 2021
 
 MEDALLA MILITAR "CORAZÓN AZUL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.64.1 — Origen
 
 Créase la Medalla Militar "Corazón Azul" para premiar y estimular al personal militar de la Fuerza Aérea Colombiana y militares extranjeros que pertenezcan a la Fuerza Aérea de países con los que se lleven a cabo operaciones, ejercicios y mantenimiento de la seguridad en fronteras y espacios insulares, quienes, además, hayan participado conjuntamente en operaciones de restablecimiento del orden interno de la Nación y cuyos aportes, incluyendo la academia, entrenamiento, ciencia y tecnología, logística y apoyo operacional, arrojen resultados positivos para preservar la seguridad de la Nación.
@@ -15024,8 +13472,6 @@ Créase la Medalla Militar "Corazón Azul" para premiar y estimular al personal 
 Por ser destinada al personal de tripulaciones y combatientes, esta joya podrá ser otorgada hasta por cinco veces, quedando dicha secuencia consignada, directamente, en la cantidad de estrellas que acompañan la parte superior de la medalla.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.64.2 — Características
 
@@ -15041,8 +13487,6 @@ PARÁGRAFO 2. La venera será una figura rectangular de cuarenta (40) milímetro
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.64.3 — Consejo de la Medalla
 
 El Consejo de la Medalla Militar "Corazón Azul" estará integrado así:
@@ -15056,8 +13500,6 @@ Vocal: Comandante de Operaciones Aéreas y Espaciales.
 Secretario: Jefe de Combate y Defensa del Espacio Aéreo.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.64.4 — Requisitos
 
@@ -15077,8 +13519,6 @@ b) Para el personal militar extranjero:
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.64.5 — Diploma
 
 Será elaborado en papel pergamino o cartulina blanca, con las siguientes dimensiones: Treinta y cinco (35) centímetros de largo por veinticinco (25) centímetros de ancho, con el dibujo del anverso de la medalla al lado izquierdo superior y el reverso al lado derecho superior, y de fondo la imagen del logo institucional de la Fuerza Aérea Colombiana. El contenido en letras corresponderá al siguiente diseño:
@@ -15093,15 +13533,11 @@ Subsección, Adicionada por el Art. 1 del Decreto 1429 de 2021
 
 MEDALLA MILITAR "ALMA MATER ESCUELA MILITAR DE AVIACIÓN"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.65.1 — Origen
 
 Créase en única categoría la Medalla Militar "Alma Mater Escuela Militar de Aviación" de la Fuerza Aérea Colombiana, para estimular al personal de Oficiales, Suboficiales, Profesionales Oficiales de la Reserva, Personal de la Reserva Activa, cadetes, alféreces, Unidades Militares, Personal Civil del Sector Defensa, Personal de Entidades Públicas y Privadas, e Instituciones de derecho público, privado, particulares, personalidades nacionales y extranjeras; que se hayan caracterizado por sus méritos militares, profesionales, servicios eminentes prestados en beneficio de la Escuela Militar de Aviación.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.65.2 — Características
 
@@ -15119,8 +13555,6 @@ PARÁGRAFO 2. La venera, será un rectángulo esmaltado al fuego de cuarenta (40
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.65.3 — Consejo de la Medalla
 
 El Consejo de la Medalla Militar "Alma Mater Escuela Militar de Aviación", estará integrado así:
@@ -15134,8 +13568,6 @@ Vocal: Director de la Escuela Militar de Aviación.
 Secretario: Subdirector de la Escuela Militar de Aviación.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.65.4 — Requisitos
 
@@ -15161,8 +13593,6 @@ c) Para personal militar en uso de buen retiro, oficiales profesionales de la re
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.65.5 — Diploma
 
 Será elaborado en papel pergamino o cartulina blanca, de las siguientes dimensiones: 35 centímetros de largo por 25 centímetros de ancho, con el dibujo del anverso de la medalla al lado izquierdo superior y el reverso al lado derecho superior, y de fondo la imagen del escudo institucional de la Escuela Militar de Aviación Marco Fidel Suárez. El contenido en letras corresponderá al siguiente diseño:
@@ -15177,15 +13607,11 @@ Subsección, Adicionada por el Art. 1 del Decreto 1429 de 2021
 
 MEDALLA MILITAR "SERVICIOS DISTINGUIDOS AL DESARROLLO DE OPERACIONES Y ACTIVIDADES ESPACIALES AD ASTRA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.6.66.1 — Origen
 
 Créase en única categoría la Medalla Militar "Servicios Distinguidos al Desarrollo de Operaciones y Actividades Espaciales AD ASTRA", para estimular y reconocer al Personal de Oficiales, Suboficiales, Profesionales Oficiales de la Reserva, Personal de la Reserva Activa, Unidades Militares, Personal Civil del Sector Defensa, Personal de Entidades Públicas y Privadas, e Instituciones de derecho público, privado y particulares, personalidades nacionales y extranjeras; que se hayan caracterizado por sus méritos militares, profesionales y servicios eminentes prestados en beneficio del desarrollo espacial de la Nación y de la Fuerza Aérea Colombiana.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.66.2 — Características
 
@@ -15198,8 +13624,6 @@ PARÁGRAFO 1. La miniatura o réplica será una medalla similar a la joya de la 
 PARÁGRAFO 2. La Venera será un rectángulo esmaltado al fuego de cuarenta (40) milímetros de largo por diez (10) milímetros de ancho; sus colores y detalles serán los mismos que la joya y en el centro llevará la estrella descrita anteriormente como símbolo de la fuerza con la que el programa espacial de la Fuerza Aérea Colombiana surge y se mantiene como punta de lanza en la evolución de la institución por llegar al espacio a través de la ciencia.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.66.3 — Consejo de la Medalla
 
@@ -15214,8 +13638,6 @@ Vocal: Comandante de Operaciones Aéreas y Espaciales.
 Secretario: Jefatura Operaciones Espaciales.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.66.4 — Requisitos
 
@@ -15240,8 +13662,6 @@ c) Para personal de Profesionales Oficiales de la Reserva, Personal de la Reserv
 3. Que por su posición y méritos se hayan hecho acreedores a esta gracia.
 
 (Adicionado por el Art. 1 del Decreto 1429 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.3.6.66.5 — Diploma
 
@@ -16066,8 +14486,6 @@ SECCIÓN 7.
 
 ORIGEN, CATEGORÍAS Y CARACTERÍSTICAS ESPECIALES DE LAS CONDECORACIONES POR TIEMPO DE SERVICIO.
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.1 — Origen y Categorías
 
 La Medalla por Tiempo de Servicio creada mediante Decreto 1040 de 1929 y reglamentada por los Decretos números 1898 de 1949, 805 de 1952, 1925 de 1969, 1880 de 1988 y 1396 de 1989; como reconocimiento al tiempo de servicio continuo o discontinuo como Oficial, Suboficial, Soldado o Infante de Marina Profesional de las Fuerzas Militares. Ostenta las siguientes categorías:
@@ -16086,8 +14504,6 @@ La Medalla por Tiempo de Servicio creada mediante Decreto 1040 de 1929 y reglame
 
 (Decreto 4444 de 2010 artículo 190)
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.2 — Otorgamiento
 
 Las Medallas por tiempo de servicio se confieren así:
@@ -16101,8 +14517,6 @@ c) Para Soldados e Infantes de Marina Profesionales.
 Las Medallas de Veinte (20) y Quince (15) años de Servicio, por disposición del Comando de la respectiva Fuerza.
 
 (Decreto 4444 de 2010 artículo 191)
-
-ARTÍCULO
 
 ## art:2.3.1.3.7.3 — Características
 
@@ -16162,8 +14576,6 @@ La medalla es de color oro brillante, suspendida de una cinta de cuarenta (40) m
 
 (Decreto 4444 de 2010 artículo 192)
 
-ARTÍCULO
-
 ## art:2.3.1.3.7.4 — Diploma
 
 Debe ser elaborado en papel cartulina o pergamino blanco, de treinta y cinco (35) por veinticinco (25) centímetros de lado, con el Escudo Nacional a colores, en la parte superior y con la siguiente leyenda:
@@ -16173,8 +14585,6 @@ Debe ser elaborado en papel cartulina o pergamino blanco, de treinta y cinco (35
 SECCIÓN 8.
 
 ORIGEN, CATEGORÍAS Y CARACTERÍSTICAS ESPECIALES DE LAS MEDALLAS POR MÉRITO ACADÉMICO.
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.1 — Medallas por Mérito Académico
 
@@ -16198,8 +14608,6 @@ SUBSECCIÓN 1.
 
 MEDALLA MILITAR "FRANCISCO JOSÉ DE CALDAS"
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.1.1 — Origen
 
 Creada mediante Decreto número 3404 de 1950 y modificada por los Decretos 150 y 804 de 1952, 2862 de 1956 y 581 de 1975; y contemplada en el Decreto 1880 de 1988, su propósito es el de estimular y premiar a los miembros de las Fuerzas Militares y servidores públicos del Sector Defensa que por su consagración al estudio hayan sobresalido, ocupando el primer puesto en las escuelas de formación, en cursos de capacitación y a quienes obtengan el título de profesor militar de primera categoría.
@@ -16217,8 +14625,6 @@ d) Al Esfuerzo.
 e) A la Aplicación.
 
 (Decreto 4444 de 2010 artículo 193)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.1.2 — Otorgamiento
 
@@ -16244,8 +14650,6 @@ El Otorgamiento se efectuará mediante resolución ministerial debidamente motiv
 
 (Decreto 4444 de 2010 artículo 194)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.1.3 — Características
 
 La Medalla "Francisco José de Caldas" tiene las siguientes características:
@@ -16268,8 +14672,6 @@ La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3
 
 (Decreto 4444 de 2010 artículo 195)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.1.4 — Diploma
 
 El Diploma lleva en su parte superior la figura del prócer. Será elaborado en papel cartulina o pergamino blanco de cuarenta (40) por treinta (30) centímetros de lado, con la siguiente leyenda:
@@ -16282,23 +14684,17 @@ SUBSECCIÓN 2.
 
 MEDALLA "CADETE JOSÉ MARÍA ROSILLO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.2.1 — Origen
 
 Creada mediante el artículo 107 del Decreto 1880 de 1988 en concordancia con el artículo 4 7 del Decreto 1776 de 1979, Reglamento Régimen Disciplinario para las Fuerzas Militares, de esa época, como mérito académico para estimular a los Alumnos de la Escuela Militar de Cadetes "General José María Córdova" que se destaquen por su excelente rendimiento académico, conducta, iniciativa e interés por el servicio.
 
 (Decreto 4444 de 2010 artículo 196)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.2.2 — Otorgamiento
 
 Es concedido por el Director de la Escuela Militar de Cadetes "General José María Córdova", a los Cadetes de la Escuela que durante los cursos de formación, se destacaren por su excelente rendimiento académico, conducta, iniciativa e interés por el servicio. Su Otorgamiento se publicará por la orden del día y se impondrá en ceremonia especial al finalizar el período lectivo de cada promoción.
 
 (Decreto 4444 de 2010 artículo 197)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.2.3 — Características
 
@@ -16307,8 +14703,6 @@ La joya es una medalla plateada de cuarenta (40) milímetros de diámetro. Por e
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 198)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.2.4 — Diploma
 
@@ -16320,15 +14714,11 @@ SUBSECCIÓN 3.
 
 MEDALLA "ALUMNO DISTINGUIDO"
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.3.1 — 3.1
 
 Creada por el Decreto 1880 del 12 de septiembre de 1988, con el propósito de estimular a los alumnos de la Escuela Naval de Cadetes "Almirante Padilla" que se destaquen por su conducta, estudios y condiciones militares
 
 (Decreto 4444 de 2010 artículo 200)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.3.2 — Otorgamiento
 
@@ -16354,8 +14744,6 @@ La Medalla se puede conferir cuantas veces el alumno se haga acreedor a ella, y 
 
 (Decreto 4444 de 2010 artículo 201)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.3.3 — Características
 
 La joya es una medalla dorada de cuarenta (40) milímetros de diámetro. En su anverso lleva en relieve el Escudo de la Escuela "Almirante Padilla", en la mitad superior en forma semicircular el letrero "Fuerzas Militares de Colombia" y en la mitad inferior el letrero Armada Nacional". En el reverso lleva en la mitad superior en forma semicircular el nombre "Escuela Naval Almirante Padilla" en el centro "Alumno Distinguido" y debajo el nombre del agraciado. Va sujeta por una argolla a una cinta de cuarenta (40) milímetros de ancho, con los colores del escudo de la Escuela en franjas de las siguientes dimensiones de derecha a izquierda: azul marino veinte (20) milímetros, amarillo diez (10) milímetros y azul marino diez (10) milímetros.
@@ -16363,8 +14751,6 @@ La joya es una medalla dorada de cuarenta (40) milímetros de diámetro. En su a
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 202)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.3.4 — Diploma
 
@@ -16376,15 +14762,11 @@ SUBSECCIÓN 4.
 
 MEDALLA "ALUMNO DISTINGUIDO DE LA ESCUELA NAVAL DE SUBOFICIALES ARC - BARRANQUILLA"
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.4.1 — Origen
 
 La Medalla Militar "Alumno Distinguido de la Escuela Naval de Suboficiales" fue creada en el artículo 187 del Decreto 1816 de 2007, para estimular y premiar al personal que haya sobresalido por sus méritos académicos, conducta y aptitud naval en su desempeño como alumnos de la Escuela Naval de Suboficiales.
 
 (Decreto 4444 de 2010 artículo 204)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.4.2 — Otorgamiento e Imposición
 
@@ -16406,8 +14788,6 @@ La Medalla se puede conferir cuantas veces el alumno se haga acreedor a ella, y 
 
 (Decreto 4444 de 2010 artículo 205)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.4.3 — Características
 
 La joya consiste en una medalla dorada de 40 milímetros de diámetro. En su anverso lleva en relieve el Escudo de la Escuela Naval de Suboficiales A.R.C. "Barranquilla", en la mitad superior en forma semicircular el letrero "Fuerzas Militares de Colombia" y en la mitad inferior el letrero "Armada Nacional". En el reverso lleva en la mitad superior en forma semicircular el nombre "Escuela Naval de Suboficiales A.R.C. Barranquilla" en el centro "Alumno Distinguido". Va sujeta por una argolla a una cinta de 40 milímetros de ancho con los colores del escudo de la Escuela en franjas de las siguientes dimensiones de derecha a izquierda, azul marino 20 milímetros, blanco 10milímetros y azul marino 10 milímetros.
@@ -16415,8 +14795,6 @@ La joya consiste en una medalla dorada de 40 milímetros de diámetro. En su anv
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capítulo.
 
 (Decreto 4444 de 2010 artículo 206)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.4.4 — Diploma
 
@@ -16427,8 +14805,6 @@ La Medalla se acredita con un diploma elaborado en papel pergamino o cartulina b
 SUBSECCIÓN 5.
 
 MEDALLA MILITAR "ALUMNO DISTINGUIDO DE LA ESCUELA DE FORMACIÓN DE INFANTERÍA DE MARINA"
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.5.1 — Origen
 
@@ -16444,8 +14820,6 @@ Creada mediante decreto No. 151 del 5 de febrero de 2014, para estimular y premi
 
 (Decreto 0151 de 2014 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.5.2 — Características
 
 La Joya de la Medalla Militar "Alumno Distinguido de la Escuela de Formación de Infantería de Marina", consiste en una Medalla dorada de 50 milímetros de diámetro. En su anverso lleva en relieve el escudo de la Escuela de Formación de Infantería de Marina, en la mitad superior en forma semicircular el letrero: "FUERZAS MILITARES DE COLOMBIA" y en la mitad inferior el letrero "ARMADA NACIONAL".
@@ -16457,8 +14831,6 @@ PARÁGRAFO 1. La miniatura o réplica será una Medalla similar a la joya de la 
 PARÁGRAFO 2. La venera será metálica, esmaltada al fuego, de cuarenta (40) milímetros de largo por diez (10) milímetros de ancho. Sus colores y detalles serán los mismos de la cinta de la joya.
 
 (Decreto 0151 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.5.3 — Consejo
 
@@ -16474,15 +14846,11 @@ Secretario: Jefe de Personal de la Escuela de Formación de Infantería de Marin
 
 (Decreto 0151 de 2014 artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.5.4 — Otorgamiento
 
 La Medalla Militar "Alumno Distinguido de la Escuela de Formación de Infantería de Marina", se podrá conferir cuantas veces el alumno se haga acreedor a ella, y para efectos del uso, en la venera, se agregará una estrella plateada de cinco (5) puntas por cada vez consecutiva que le sea otorgada.
 
 (Decreto 0151 de 2014 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.5.5 — Imposición
 
@@ -16494,23 +14862,17 @@ SUBSECCIÓN 6.
 
 MEDALLA A LA VIRTUD "CAPITÁN JOSÉ EDMUNDO SANDOVAL"
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.6.1 — 6.1
 
 Creada mediante el artículo 115 del Decreto 1880 de 1988 en concordancia con el artículo 4 7 del Decreto 1776 de 1979, Reglamento Régimen Disciplinario para las Fuerzas Militares y reglamentado con el Decreto 1880 de 1988, para resaltar y honrar la memoria de uno de los más eximios oficiales que ha tenido la Fuerza Aérea Colombiana, como mérito académico, con el fin de estimular a los alumnos de la Escuela Militar de Aviación "Marco Fidel Suárez" y alumnos de la Escuela de Suboficiales CT. Andrés M. Díaz, que se destaquen por su excelente rendimiento académico y conducta, iniciativa e interés por el servicio. Ostenta una sola categoría.
 
 (Decreto 4444 de 2010 artículo 208)
 
-ARTÍCULO
-
 ## art:2.3.1.3.8.6.2 — Otorgamiento
 
 Concedida por el Director de la Escuela a solicitud del Comandante de Grupo Académico, a los Cadetes de la Escuela Militar de Aviación "Marco Fidel Suárez" y a los alumnos de la Escuela de Suboficiales que durante los cursos de formación se destacaren por su excelente rendimiento académico, iniciativa e interés por el servicio. Su otorgamiento se publicará por la orden del día y se impondrá en ceremonia especial, al finalizar el período lectivo de cada promoción. Puede ser impuesta a una misma persona cuantas veces se haga acreedora a ella
 
 (Decreto 4444 de 2010 artículo 209)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.6.3 — Características
 
@@ -16519,8 +14881,6 @@ La joya es una medalla dorada de cuarenta (40) milímetros de diámetro; en su a
 La venera y la miniatura serán de acuerdo con lo estipulado en el artículo 2.3.1.3.2.3 del presente Capitulo.
 
 (Decreto 4444 de 2010 artículo 210)
-
-ARTÍCULO
 
 ## art:2.3.1.3.8.6.4 — Diploma
 
@@ -16532,15 +14892,11 @@ SECCIÓN 9.
 
 ORIGEN, CATEGORÍAS Y CARACTERÍSTICAS ESPECIALES DE LAS CONDECORACIONES POR MÉRITO DEPORTIVO.
 
-ARTÍCULO
-
 ## art:2.3.1.3.9.1 — Origen
 
 Creada mediante Decreto 1261 del cuatro (4) de julio de 2000, para estimular y premiar la afición y esfuerzo de los integrantes de las Fuerzas Militares, Policía Nacional, Servidores Públicos del Sector Defensa que sobresalgan por sus méritos deportivos en competencias Nacionales o internacionales, así como a quienes contribuyan de la manera excepcional al fortalecimiento y desarrollo de la Federación Colombiana Deportiva Militar.
 
 (Decreto 4444 de 2010 artículo 212)
-
-ARTÍCULO
 
 ## art:2.3.1.3.9.2 — Categorías
 
@@ -16554,8 +14910,6 @@ c) Aficionado
 
 (Decreto 4444 de 2010 artículo 213)
 
-ARTÍCULO
-
 ## art:2.3.1.3.9.3 — Características
 
 La Joya consiste en una Medalla circular de cuarenta (40) milímetros de diámetro. En su anverso lleva en el borde una corona de olivo abierta, en alto relieve, de igual forma llevará formado un círculo interior la inscripción "Medalla Deportiva de la Fuerza Pública". En el centro estarán incluidos los tres (3) aros (amarillo, azul y rojo), distintivos del deporte Colombiano. En el reverso lleva en alto relieve el escudo de la República de Colombia circundado por la leyenda "El Deporte Nuestra Arma para Construir la Paz" y la categoría en que se otorga. Va suspendida de una cinta de cuarenta (40) milímetros de ancho con cuatro (4) franjas verticales de diez (10) milímetros de ancho, con colores en el siguiente orden, los correspondientes a Ejército, Armada, Fuerza Aérea y Policía Nacional.
@@ -16568,15 +14922,11 @@ Colores: La medalla de la categoría "Campeón" llevará la corona de olivo en c
 
 (Decreto 4444 de 2010 artículo 214)
 
-ARTÍCULO
-
 ## art:2.3.1.3.9.4 — Diploma
 
 La Medalla se acreditará con un diploma de papel pergamino de treinta y cinco (35 cm) por veinticinco centímetros (25 cm) de ancho, en el cual se inscribirá la razón que se tuvo para otorgarla y la categoría en que se adjudica. Los Diplomas serán firmados por el Ministro de Defensa Nacional y por el Comandante General de las Fuerzas Militares.
 
 (Decreto 4444 de 2010 artículo 215)
-
-ARTÍCULO
 
 ## art:2.3.1.3.9.5 — Otorgamiento
 
@@ -16634,8 +14984,6 @@ c) A Extranjeros Hasta 03
 
 (Decreto 4444 de 2010 artículo 216)
 
-ARTÍCULO
-
 ## art:2.3.1.3.9.6 — Consejo
 
 El consejo de la Medalla estará integrado como se indica a continuación;
@@ -16649,8 +14997,6 @@ Vocal: El Presidente de la Federación Colombiana Deportiva Militar.
 Secretario: El Vicepresidente de la Federación Deportiva Militar.
 
 (Decreto 4444 de 2010 artículo 217)
-
-ARTÍCULO
 
 ## art:2.3.1.3.9.7 — Adjudicación
 
@@ -16676,13 +15022,9 @@ SECCIÓN 1
 
 DEL SERVICIO DE RECLUTAMIENTO Y MOVILIZACIÓN.
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.1 — Función Ministerio de Defensa Nacional
 
 Corresponde al Ministro de Defensa Nacional, a través del Comando General de las Fuerzas Militares, elaborar y presentar los proyectos de ley o decretos relacionados con el servicio de Reclutamiento, Control de Reservas y la Movilización, sin perjuicio de las funciones atribuidas por otras normas legales y reglamentarias.
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.2 — Funciones del Comandante General de las Fuerzas Militares
 
@@ -16694,8 +15036,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 
 3. Aprobar los planes sobre movilización militar.
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.3 — 1.3
 
 Funciones del Director de Reclutamiento y Movilización del Comando General de las Fuerzas Militares.Son funciones del Director de Reclutamiento y Movilización del Comando General de las Fuerzas Militares:
@@ -16703,8 +15043,6 @@ Funciones del Director de Reclutamiento y Movilización del Comando General de l
 1. Recomendar y difundir las directrices sobre el reclutamiento, control de reservas y la movilización militar de personal.
 
 2. Proyectar el plan de movilización militar de personal para las Fuerzas Militares.
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.4 — 1.4
 
@@ -16721,8 +15059,6 @@ Funciones del Comandante del Comando de Reclutamiento y Control Reservas del Ej�
 5. Asesorar al Comando Superior en todo lo relacionado con el proceso de definición de la situación militar, control de las reservas y la movilización, teniendo en cuenta la normatividad vigente.
 
 6. Asesorar al mando en temas relacionados con la activación de las unidades de reserva para fines de selección, organización, capacitación, entrenamiento y empleo de estas, con el fin de cumplir con los planes de movilización y las directrices que emita el Gobierno Nacional.
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.5 — Funciones del Director de Reclutamiento del Ejército Nacional
 
@@ -16742,8 +15078,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 
 7. Disponer los cambios, aplazamientos y exoneraciones de los conscriptos que considere necesarios.
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.6 — Funciones del Director de Control Reservas del Ejército
 
 Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentarias, el Director de Control Reservas del Ejército Nacional, tendrá las siguientes funciones:
@@ -16755,8 +15089,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 3. Verificar y evaluar la organización de las unidades de reserva de la Fuerza.
 
 4. Emitir las instrucciones y directrices a los comandantes de Zonas de Reclutamiento y Control Reservas del Ejército Nacional, en lo relacionado con el control de las reservas y la movilización.
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.7 — Funciones del Comandante de Zona de Reclutamiento y Control Reservas del Ejército
 
@@ -16778,8 +15110,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 
 49 de la Ley 1861 de 2017.
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.8 — Funciones de los Comandantes de Distrito Militar de Reclutamiento del Ejército
 
 Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentarias, el Comandante de Distrito Militar de Reclutamiento del Ejército Nacional, tendrá las siguientes funciones:
@@ -16795,8 +15125,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 5. Ejecutar el plan emitido por la Dirección de Control Reservas del Ejército Nacional, para mantener el control sobre las reservas de su jurisdicción
 
 6. Conocer en primera instancia de las infracciones y sanciones de que tratan los literales c) y g) de la ley 1861 de 2017, de conformidad con el artículo 48 de la Ley 1861 de 2017.
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.9 — 1.9
 
@@ -16820,8 +15148,6 @@ Funciones del Jefe de la Oficina de Coordinación de Incorporación y Control Re
 
 9. Organizar la reserva policial de acuerdo a los parámetros establecidos en la Ley y la misión institucional.
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.10 — Funciones de los Directores de Reclutamiento y Control Reservas de la Armada y la Fuerza Aérea
 
 Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentarias, los Directores de Reclutamiento y Control Reservas de la Armada Nacional y la Fuerza Aérea Colombiana, tendrán las siguientes funciones:
@@ -16842,8 +15168,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 
 8. Verificar y evaluar la organización de las unidades de reserva de la Fuerza.
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.11 — Funciones de los Comandantes de Zona de Reclutamiento y Control Reservas de la Armada Nacional y Fuerza Aérea
 
 Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentarias, los Comandantes de Zona de Reclutamiento y Control Reservas de la Armada Nacional y de la Fuerza Aérea Colombiana, tendrán las siguientes funciones:
@@ -16855,8 +15179,6 @@ Sin perjuicio de las funciones atribuidas por otras normas legales y reglamentar
 3. Dirigir y controlar el plan emitido por la Dirección de Reclutamiento y Control Reservas de la respectiva Fuerza, para mantener el control sobre las reservas de su jurisdicción.
 
 4. Coordinar con las autoridades militares, policiales, civiles, entidades públicas y privadas de su jurisdicción, las actividades relacionadas con el proceso de reclutamiento de los ciudadanos.
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.12 — Funciones de los Comandantes de Distrito Militar en la Armada Nacional y en la Fuerza Aérea Colombina
 
@@ -16872,15 +15194,11 @@ SECCIÓN 2.
 
 DEL SERVICIO MILITAR
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.1 — Servicio militar voluntario para mujeres
 
 El servicio militar voluntario femenino, se sujetará a las necesidades que determinen los Comandantes de la Fuerza Pública y el Director del Instituto Nacional Penitenciario y Carcelario, quienes adelantarán el proceso de definición de la situación militar conforme a lo dispuesto en la Ley 1861 de 2017.
 
 PARÁGRAFO . La mujer que ingrese a filas se desacuartelará conforme a lo dispuesto en el artículo 71 de la ley 1861 de 2017.
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.2 — Acreditación causales de exoneración
 
@@ -16889,8 +15207,6 @@ Las causales de exoneración de que trata el artículo 12 de la Ley 1861 de 2017
 PARÁGRAFO 1. El ciudadano que se encuentre inmerso en la causal de exención dispuesta en el literal i) del artículo 12 de la Ley 1861 de 2017, podrá prestar el servicio militar previa valoración y concepto favorable del Comité de Aptitud Psicofísica de la respectiva Fuerza, Policía Nacional e Instituto Nacional Penitenciario y Carcelario INPEC.
 
 PARÁGRAFO 2. Los documentos necesarios para demostrar las causales de exoneración dispuestas en el artículo 12 de la Ley 1861 de 2017 y la renuncia voluntaria y autónoma de las mismas, serán fijados por la Dirección de Reclutamiento del Ejército.
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.3 — Formación laboral productiva con el Sena
 
@@ -16902,21 +15218,15 @@ PARÁGRAFO 2. Los contingentes de doce meses serán incorporados de acuerdo a la
 
 PARÁGRAFO 3. Sólo hasta antes de culminar la formación militar básica, el ciudadano incorporado en los contingentes de doce (12) meses podrá solicitar el cambio al contingente de dieciocho (18) meses.
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.4 — Reemplazos de personal
 
 Las Fuerzas Militares y la Policía Nacional a través del Ministerio de Defensa Nacional solicitarán al Ministerio de Hacienda la planta de soldados, infantes de marina y auxiliares de policía para la prestación del servicio militar obligatorio, de acuerdo con los trámites internos de la institución.
 
 PARÁGRAFO . El Presidente de la República o en quien lo delegue, podrá prorrogar el servicio militar hasta por tres (3) meses, conforme a lo previsto en el parágrafo 1 del artículo 14 de la Ley 1861 de 2017.
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.5 — Definición Servicio Ambiental
 
 Se entenderá por servicio ambiental las actividades de apoyo tendientes a la protección del ambiente y los recursos naturales renovables, en desarrollo de la misión constitucional de las Fuerzas Militares y la Policía Nacional, el cual se prestará siendo orgánico de la unidad militar o policial.
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.6 — Actividades básicas de apoyo para la protección del ambiente
 
@@ -16926,13 +15236,9 @@ PARÁGRAFO 1. El Ministerio de Defensa Nacional en coordinación con el Comando 
 
 PARÁGRAFO 2. Las actividades de apoyo para la protección del medio ambiente se adelantarán sin perjuicio de la naturaleza del servicio militar obligatorio.
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.7 — Capacitación
 
 Dentro de la formación militar o policial básica, se capacitará al personal incorporado que cumpla actividades de protección del ambiente y los recursos naturales renovables, en estos temas, de acuerdo a la misión de cada una de las Fuerzas.
-
-ARTÍCULO
 
 ## art:2.3.1.4.2.8 — Registro y control
 
@@ -16941,8 +15247,6 @@ Las Fuerzas Militares y la Policía Nacional llevarán el registro, control y ma
 SECCIÓN 3.
 
 DEFINICIÓN DE SITUACIÓN MILITAR
-
-ARTÍCULO
 
 ## art:2.3.1.4.3.1 — Registro inicial para la inscripción
 
@@ -16974,13 +15278,9 @@ SECCIÓN 4.
 
 EVALUACIÓN DE APTITUD PSICOFISICA
 
-ARTÍCULO
-
 ## art:2.3.1.4.4.1 — Comité de Evaluación de Aptitud Psicofísica
 
 El comité de Evaluación de Aptitud Psicofísica estará integrado por oficiales de sanidad o profesionales en medicina, odontología y psicología de la¿ Fuerza Pública, que se encuentren debidamente autorizados por los Directores de Reclutamiento de las Fuerzas Militares y la Oficina de Coordinación de Incorporaciones y Control Reservas de la Policía Nacional para adelantar el proceso de incorporación a la prestación del servicio militar.
-
-ARTÍCULO
 
 ## art:2.3.1.4.4.2 — Registro de antecedentes de aptitud psicofísica
 
@@ -16988,15 +15288,11 @@ Todas las circunstancias sobre la evaluación de aptitud psicofísica de los con
 
 PARÁGRAFO . Las evaluaciones de aptitud psicofísica de los ciudadanos para la prestación del servicio militar obligatorio como auxiliar del cuerpo de custodia del INPEC, serán practicadas por el Comité de Evaluación de Aptitud Psicofísica del Distrito Militar del Ejército Nacional más cercano al lugar de ubicación de la escuela regional penitenciaria. en la que se imparta la etapa de formación básica, en coordinación con profesionales de la salud del Instituto Nacional Penitenciario y Carcelario.
 
-ARTÍCULO
-
 ## art:2.3.1.4.4.3 — Practica de evaluaciones
 
 Las evaluaciones de aptitud psicofísica de que tratan los artículos 19 al 21 de la Ley 1861 de 2017, solamente podrán practicarse en los lugares y horas señalados por las Direcciones de Reclutamiento de cada una de las Fuerzas Militares, y la Oficina de Coordinación de Incorporaciones y Control Reservas de la Policía Nacional, frente a los auxiliares.
 
 PARÁGRAFO . Las evaluaciones de aptitud psicofísica deberán ajustarse a los parámetros establecidos sobre la materia y reglamentos emitidos por las autoridades de reclutamiento.
-
-ARTÍCULO
 
 ## art:2.3.1.4.4.4 — Primera evaluación
 
@@ -17004,21 +15300,15 @@ Una vez el ciudadano sea inscrito para definir su situación militar, será cita
 
 PARÁGRAFO . Los ciudadanos que en la primera evaluación resulten aplazados según los parámetros establecidos por la normatividad vigente sobre aptitud psicofísica, al presentar una condición física susceptible de recuperación, serán citados nuevamente a esta evaluación, para definir la aptitud psicofísica al servicio militar obligatorio.
 
-ARTÍCULO
-
 ## art:2.3.1.4.4.5 — Segunda evaluación
 
 Previamente a la incorporación de los conscriptos, podrá practicarse una segunda evaluación psicofísica, por determinación de las autoridades de reclutamiento o a solicitud del inscrito, para determinar causales de no aptitud psicofísica que no fueron detectadas en la primera evaluación y que puedan incidir en la prestación del servicio militar. Para tales efectos, el criterio científico de los miembros del Comité de Evaluación de Aptitud Psicofísica, prima sobre el de los médicos particulares.
 
 PARÁGRAFO . Para demostrar la no aptitud en la segunda evaluación de aptitud psicofísica, el ciudadano deberá presentar soporte médico que acredite la patología emitido por entidades prestadoras del servicio de salud reconocidas por el Estado, y que estén respaldadas en las historias clínicas correspondientes.
 
-ARTÍCULO
-
 ## art:2.3.1.4.4.6 — Evaluación de aptitud psicofísica final
 
 El resultado de la evaluación de aptitud psicofísica final practicado por el Comité de Evaluación de Aptitud Psicofísica, deberá registrarse en los documentos dispuestos para tal fin y en las bases de datos. así mismo deberá reportarse al Distrito Militar del Ejército Nacional para continuar con el proceso de definición de la situación militar.
-
-ARTÍCULO
 
 ## art:2.3.1.4.4.7 — 4.7
 
@@ -17028,8 +15318,6 @@ PARÁGRAFO : En el sorteo deben participar todos los jóvenes citados al mismo. 
 
 El resultado del sorteo se consignará en actas elaboradas por los Comandantes de los Distritos Militares de cada una de las Fuerzas, la Policía Nacional y el Instituto Nacional Penitenciario y Carcelario INPEC y los funcionarios responsables de este proceso. quienes no podrán ausentarse del lugar del sorteo, hasta tanto el acta no haya sido diligenciada y firmada por todos los que intervienen.
 
-ARTÍCULO
-
 ## art:2.3.1.4.4.8 — Concentración e Incorporación
 
 El ciudadano concentrado para la incorporación quedará bajo el control y vigilancia de las autoridades de reclutamiento, hasta su entrega a las diferentes Unidades Militares, de Policía Nacional y el INPEC.
@@ -17038,31 +15326,21 @@ SECCIÓN 5.
 
 CLASIFICACION Y CUOTA DE COMPENSACION MILITAR
 
-ARTÍCULO
-
 ## art:2.3.1.4.5.1 — Tarjeta de reservista alumnos colegios militares y policiales
 
 Los alumnos de colegios militares y policiales debidamente autorizados y que adelanten las fases de instrucción militar y aprueben el año escolar siendo menores de edad. se les expedirán tarjeta militar provisional y solo hasta cuando alcancen la mayoría de edad se expedirá la tarjeta de reservista de primera clase, previa liquidación y pago de la cuota de compensación militar.
-
-ARTÍCULO
 
 ## art:2.3.1.4.5.2 — Acreditaciones de causales de exoneración para el pago de cuota de compensación militar
 
 Los documentos necesarios para demostrar las causales de exoneración dispuestas en el artículo 26 de la Ley 1861 de 2017, serán fijados por la Dirección de Reclutamiento del Ejército Nacional.
 
-ARTÍCULO
-
 ## art:2.3.1.4.5.3 — Liquidación cuota de compensación militar
 
 La fecha de clasificación del ciudadano que no ingrese a filas conforme a lo dispuesto en el artículo 25 de la Ley 1861 de 2017, determinará el momento a partir del cual se realizará la liquidación de la cuota de compensación militar.
 
-ARTÍCULO
-
 ## art:2.3.1.4.5.4 — Documentos para la liquidación de la cuota de compensación militar
 
 Los documentos necesarios para la liquidación de la cuota de compensación militar, serán los dispuestos en la Sección 14 del presente Decreto, o la normatividad que la modifique o adicione, así como las disposiciones internas que para el efecto emita el Ministerio de Defensa Nacional.
-
-ARTÍCULO
 
 ## art:2.3.1.4.5.5 — Pago de la cuota de compensación militar
 
@@ -17076,15 +15354,11 @@ SECCIÓN 6.
 
 SITUACIONES ESPECIALES
 
-ARTÍCULO
-
 ## art:2.3.1.4.6.1 — Acreditación residencia en el exterior
 
 El Ministerio de Relaciones Exteriores en coordinación con las autoridades consulares y demás entidades competentes, emitirán el documento que permita acreditar la permanencia mínima de 3 años en el país de residencia del ciudadano, con el propósito que las autoridades de Reclutamiento definan la situación militar.
 
 PARÁGRAFO . El Ministerio de Defensa a través de la Dirección de Reclutamiento, o la que haga sus veces, definirá los documentos alternos que puedan presentarse para dar cumplimento a este requisito. En este sentido, adelantará la regulación que corresponda en coordinación con el Ministerio de Relaciones Exteriores y Migración Colombia.
-
-ARTÍCULO
 
 ## art:2.3.1.4.6.2 — Colombianos con doble nacionalidad
 
@@ -17094,15 +15368,13 @@ SECCIÓN 7.
 
 APLAZAMIENTOS
 
-## art:2.3.1.4 — 7.1
+## art:2.3.1.4.7.1 — Aplazamientos
 
-Aplazamientos. En el evento que ya no subsista la causal de aplazamiento, el conscripto deberá definir la situación militar de acuerdo con la Ley 1861 de 2017.
+En el evento que ya no subsista la causal de aplazamiento, el conscripto deberá definir la situación militar de acuerdo con la Ley 1861 de 2017.
 
 SECCIÓN 8.
 
 TARJETAS DE RESERVISTA Y PROVISIONAL MILITAR
-
-ARTÍCULO
 
 ## art:2.3.1.4.8.1 — Expedición de tarjeta de reservista militar o policial de primera clase
 
@@ -17110,21 +15382,15 @@ La tarjeta de reservista militar o policial de primera clase de los ciudadanos q
 
 PARÁGRAFO . La tarjeta de reservista militar o policial de primera clase será entregada a quienes prestaron el servicio militar, por parte del comandante de la unidad militar. policial y el director de la escuela penitenciaria nacional y escuelas regionales.
 
-ARTÍCULO
-
 ## art:2.3.1.4.8.2 — Expedición de tarjeta de reservista militar de segunda clase
 
 La tarjeta militar de reservista de segunda clase será expedida por la Dirección de Reclutamiento del Ejército Nacional, y entregada físicamente por el Comandante de Distrito Militar del Ejército Nacional correspondiente.
 
 Lo anterior hasta tanto sea puesto en funcionamiento, la constancia electrónica en el portal web destinado para tal fin, de conformidad con lo establecido en el parágrafo 1 del artículo 40 de la Ley 1861 de 2017.
 
-ARTÍCULO
-
 ## art:2.3.1.4.8.3 — Expedición tarjeta provisional militar
 
 La tarjeta provisional de que trata el artículo 38 de la Ley 1861 de 2017 será expedida por la Dirección de Reclutamiento del Ejército Nacional, y entregada físicamente al ciudadano por el Comandante de Distrito Militar del Ejército correspondiente, previo pago de los costos de elaboración dispuestos en el artículo 9 de la Ley 1184 de 2008 y hasta tanto sea implementado la constancia electrónica.
-
-ARTÍCULO
 
 ## art:2.3.1.4.8.4 — Duplicado
 
@@ -17132,19 +15398,13 @@ En caso de pérdida, hurto o deterioro de la tarjeta de reservista de primera cl
 
 PARÁGRAFO . En todo caso el reservista de primera clase podrá acceder a la constancia electrónica a través del portal web destinado para tal fin.
 
-ARTÍCULO
-
 ## art:2.3.1.4.8.5 — Entrega de tarjeta de reservista a terceros
 
 Las tarjetas de reservista de primera, segunda clase y provisional militar, serán entregadas a los interesados personalmente o a través de poder debidamente otorgado, previo pago de los costos de elaboración dispuestos en el artículo 9 de la Ley 1184 de 2008 y hasta tanto sea implementado la constancia electrónica.
 
-ARTÍCULO
-
 ## art:2.3.1.4.8.6 — Certificado digital
 
 Se entenderá por certificado digital la constancia que de manera electrónica emite la Dirección de Reclutamiento del Ejército a través del portal web dispuesto para tal fin, el cual será gratuito.
-
-ARTÍCULO
 
 ## art:2.3.1.4.8.7 — Expedición de tarjeta militar a los alumnos de escuelas de formación
 
@@ -17160,8 +15420,6 @@ PARÁGRAFO 1. Quien no complete el 50% de la formación militar o policial en ca
 
 PARÁGRAFO 2. Quien no complete el 50% de la formación militar o policial en cada una de las escuelas y no supere el año lectivo, obtendrá tarjeta militar de segunda clase, previo pago de la cuota de compensación militar correspondiente.
 
-ARTÍCULO
-
 ## art:2.3.1.4.8.8 — Expedición tarjeta de reservista a estudiantes de colegios militares o policiales
 
 Para efectos del literal d) del artículo 53 de la Ley 1861 de 2017, se les expedirá la tarjeta de reservista de primera clase a los estudiantes de colegios militares o policiales debidamente autorizados que hayan recibido y aprobado las tres fases de instrucción con orientación militar o policial y aprobado el año escolar; quienes pagarán la cuota de compensación militar dispuesta en el parágrafo 3 del artículo 2 de la Ley 1184 de 2008, sin que esta sea inferior a la cuota de compensación militar mínima establecida en la Ley 1861 de 2017.
@@ -17170,8 +15428,6 @@ SECCIÓN 9.
 
 SITUACIÓN MILITAR PARA EL TRABAJO
 
-ARTÍCULO
-
 ## art:2.3.1.4.9.1 — Situación militar para el trabajo
 
 Toda empresa nacional o extranjera, oficial o particular, establecida o que en lo sucesivo se establezca en Colombia, podrá disponer de vinculación laboral o contractual, contratación por prestación de servicios o de cualquier otra índole que existiere, con personas que hayan sido declaradas no aptas, exentas de prestar el servicio militar obligatorio o que hayan superado la edad máxima de incorporación.
@@ -17179,8 +15435,6 @@ Toda empresa nacional o extranjera, oficial o particular, establecida o que en l
 Las entidades públicas o privadas no podrán exigir al ciudadano la presentación de la tarjeta militar para la vinculación laboral o contractual, correspondiéndole al empleador la verificación de la situación militar del aspirante mediante la constancia electrónica que disponga la autoridad militar competente.
 
 Dichos ciudadanos podrán acceder a su empleo sin haber resuelto su situación militar y contarán con un plazo de dieciocho (18) meses para definirla.
-
-ARTÍCULO
 
 ## art:2.3.1.4.9.2 — Plazo para definir la situación militar
 
@@ -17202,8 +15456,6 @@ PARÁGRAFO . El ciudadano que al momento de obtener el beneficio del plazo de lo
 
 El distrito militar deberá tener acceso a las bases de datos de la Planilla Integrada de Liquidación de Aportes (PILA) del Ministerio de Salud y Protección Social, para verificar si los ciudadanos son beneficiarios del presente artículo por encontrarse afiliados a seguridad social y vinculados laboral o contractualmente a una empresa nacional o extranjera, oficial o particular y que puedan obtener los beneficios de las Jornadas Especiales de que trata el artículo 73 de la Ley 1861 de 2017.
 
-ARTÍCULO
-
 ## art:2.3.1.4.9.3 — Consulta del estado de definición de la situación militar
 
 El empleador deberá consultar el estado de definición de la situación militar con fines de vinculación laboral del ciudadano a través del portal web dispuesto por el Ministerio de Defensa Nacional - Comando de Reclutamiento y Control Reservas del Ejército Nacional, para verificar si su condición corresponde a no apto, exento o si ha superado la edad máxima de incorporación.
@@ -17214,13 +15466,9 @@ Si el ciudadano al momento de la consulta no se encuentra inscrito o su estado e
 
 El ciudadano que se encuentre apto para la prestación del servicio, no podrá acceder a los beneficios del artículo 42 de la Ley 1861 de 2017, en su lugar deberá cumplir con la obligación constitucional de prestar el servicio militar.
 
-ARTÍCULO
-
 ## art:2.3.1.4.9.4 — Ciudadano remiso
 
 El ciudadano con infracción de remiso dispuesta en el artículo 46 literal c) de la Ley 1861 de 2017 o las normas que la modifiquen, aclaren o adicionen, deberá asistir a la junta para remisos y de ser declarado no apto, exento o de haber superado la edad máxima de incorporación podrá acceder a los beneficios del artículo 42 de la Ley 1861 de 2017.
-
-ARTÍCULO
 
 ## art:2.3.1.4.9.5 — Demoras injustificadas
 
@@ -17230,13 +15478,9 @@ SECCIÓN 10.
 
 DERECHOS, PRERROGATIVAS Y ESTIMULOS
 
-ARTÍCULO
-
 ## art:2.3.1.4.10.1 — Derechos al ser incorporado
 
 El traslado del ciudadano incorporado desde el lugar de concentración al lugar de incorporación, la provisión de alimentación y alojamiento, así como el regreso a su domicilio estará a cargo de cada una de las Fuerzas, la Policía Nacional y el Instituto Nacional Penitenciario y Carcelario INPEC.
-
-ARTÍCULO
 
 ## art:2.3.1.4.10.2 — Derechos del conscripto durante la prestación del servicio militar
 
@@ -17250,8 +15494,6 @@ La bonificación mensual asignada al soldado, infante de marina, auxiliar de pol
 
 2. La dotación de vestido civil del soldado, infante de marina, auxiliar de policía y auxiliar del cuerpo de custodia, será entregada de acuerdo a sus necesidades y lugar de residencia.
 
-ARTÍCULO
-
 ## art:2.3.1.4.10.3 — Convenios para beneficios durante y después de la prestación del servicio militar obligatorio
 
 El Ministerio de Defensa Nacional, en los términos que determina la Ley 1861 de 2017, en el artículo 44 literales e), h), i) y j) y el artículo 45 literales e) f), g) y h) conformará los comités necesarios para adelantar la (sic) gestiones pertinentes con las entidades públicas y privadas, a fin de dar cumplimiento a los beneficios que tratan los artículos y literales antes mencionados.
@@ -17262,13 +15504,9 @@ INFRACCIONES Y SANCIONES
 
 ARTÍCULO S 2.3.1.4.11.1. Para los efectos del literal c) del artículo 46 de la Ley 1861 de 2017, se entenderá por remiso el ciudadano que habiendo sido citado a concentración, no se presenten en la fecha, hora, y lugar indicado por el Servicio de Reclutamiento y Movilización.
 
-ARTÍCULO
-
 ## art:2.3.1.4.11.2 — Aplicación de sanciones
 
 La autoridad competente hará efectiva la sanción de que tratan los literales d), h) e i) del artículo 46 de la Ley 1861 de 2017.
-
-ARTÍCULO
 
 ## art:2.3.1.4.11.3 — Junta para remisos
 
@@ -17278,31 +15516,21 @@ SECCIÓN 12.
 
 DE LAS RESERVAS
 
-ARTÍCULO
-
 ## art:2.3.1.4.12.1 — Actualización de la información
 
 Para efectos del control de las reserves, los oficiales, suboficiales, miembros del nivel ejecutivo, patrulleros y agentes de la Fuerza Pública de la reserve y los reservistas de primera clase, están en la obligación de actualizar su componente biográfico tan pronto ocurra algún cambio, o cuando el Gobierno Nacional lo disponga, ante los distritos militares de cada Fuerza, Oficina de coordinación de incorporación y control reserves de la Policía Nacional o mediante los sistemas de información disponibles para tal fin.
-
-ARTÍCULO
 
 ## art:2.3.1.4.12.2 — Reservas de auxiliares del cuerpo de custodia
 
 Los reservistas de primera clase que prestan el servicio militar en el Instituto Nacional Penitenciario y Carcelario, harán parte de la reserve del Ejército Nacional y podrán asignarse por las autoridades militares de control reserves al INPEC, a solicitud de este, para que apoyen los servicios misionales del cuerpo de custodia y vigilancia penitenciara nacional.
 
-ARTÍCULO
-
 ## art:2.3.1.4.12.3 — Tablas de organización y equipo de las Fuerzas Militares
 
 Las tablas. de organización y equipo (TOP) de qué trata el parágrafo del artículo 57 de la Ley 1861 de 2017, serán establecidas por cada Fuerza de acuerdo a sus necesidades y aprobadas por el Ministro de Defensa Nacional.
 
-ARTÍCULO
-
 ## art:2.3.1.4.12.4 — Tablas de organización policial
 
 La Policía Nacional atendiendo su misión constitucional implementará las tablas de organización policial (TOP) y demás aspectos logísticos y administrativos necesarios para la activación y puesta en 1 funcionamiento de sus reservas.
-
-ARTÍCULO
 
 ## art:2.3.1.4.12.5 — Unidades militares y policiales de reserva
 
@@ -17310,13 +15538,9 @@ La creación de las unidades militares y policiales de reserva, así como los as
 
 PARÁGRAFO : El Ministerio de Defensa Nacional destinará los recursos necesarios para adelantar la selección, organización, capacitación y entrenamiento, a los ciudadanos que hagan parte de la activación de las reservas de la Fuerza Pública, en caso de ser necesarias.
 
-ARTÍCULO
-
 ## art:2.3.1.4.12.6 — Activación de las unidades de reserva
 
 Las Fuerzas Militares y la Policía Nacional atendiendo su misión constitucional y legal, definirán las convocatorias para la selección del personal, organización, capacitación, entrenamiento y empleo en función de la activación de tas reservas; igualmente, como parte de la preparación para la movilización o llamamiento especial.
-
-ARTÍCULO
 
 ## art:2.3.1.4.12.7 — Reglamento interno
 
@@ -17326,25 +15550,17 @@ SECCIÓN 13.
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.3.1.4.13.1 — Interoperabilidad con entidades para fines de definición de la situación militar
 
 Con el propósito de reducir los trámites presenciales de los ciudadanos para la definición de la situación militar, se adelantarán los convenios o actos administrativos de interoperabilidad, de que trata el artículo 66 la Ley 1861 de 2017, en los términos de la Ley 489 de 1998 en concordancia con la Ley 1266 de 2008, y las demás normas relacionadas con la colaboración armónica entre las entidades del Estado, protección de datos y reserva de la información, conforme al Artículo 2.3.1.4.1.4. del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.3.1.4.13.2 — Colegios con orientación militar o policial
 
 Para efectos de la reglamentación de la orientación militar y policial en los establecimientos educativos de que trata el artículo 67 de la Ley 1861 de 2017, se realizará la revisión y actualización necesaria de las normas que regulan la materia.
 
-ARTÍCULO
-
 ## art:2.3.1.4.13.3 — 3.3
 
 Desacuartelamiento Las causales de desacuartelamiento de que trata el artículo 71 de la Ley 1861 de 2017, deben ser acreditadas y sustentadas para ser reconocidas por los funcionarios competentes para ello. El procedimiento para adelantar y resolver el trámite de desacuartelamiento será fijado por el Comandante de la Fuerza respectiva, el Director General de la Policía Nacional y el Director General del INPEC.
-
-ARTÍCULO
 
 ## art:2.3.1.4.13.4 — Jornadas especiales
 
@@ -17355,8 +15571,6 @@ Las. jornadas especiales deberán ser convocadas mediante acto administrativo qu
 SECCIÓN 14.
 
 LIQUIDACIÓN CUOTA DE COMPENSACIÓN MILITAR.
-
-ARTÍCULO
 
 ## art:2.3.1.4.14.1 — De la liquidación de la cuota de compensación militar
 
@@ -17376,8 +15590,6 @@ Lo anterior indistintamente que el clasificado, sea hijo matrimonial, o extramat
 
 (Decreto 2124 de 2008 artículo 1o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.14.2 — Sobre las condiciones clínicas graves
 
 El Ministerio de Defensa por intermedio de la Dirección General de Sanidad y la Dirección de Reclutamiento del Ejército, definirá las condiciones clínicas graves e incapacitantes a que se refiere el literal a) del parágrafo del artículo 26 de la Ley 1861 de 2017.
@@ -17386,15 +15598,11 @@ Hasta tanto esa materia no sea objeto de definición en los términos del presen
 
 (Decreto 2124 de 2008 artículo 3o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.14.3 — Suscripción de convenios
 
 El Ministerio de Defensa Nacional podrá suscribir convenios con las entidades financieras para el recaudo de los recursos de que trata la Ley 1861 de 2017.
 
 (Decreto 2124 de 2008 artículo 7o)
-
-ARTÍCULO
 
 ## art:2.3.1.4.14.4 — Documentos para liquidación de la cuota de compensación militar
 
@@ -17435,8 +15643,6 @@ Documentos para establecer ingresos:
 4. Certificado de ingresos original emitido por contador público el cual deberá estar acompañado de la tarjeta profesional y certificado de la junta central de contadores, con vigencia máxima de tres meses;
 
 (Decreto 2124 de 2008 artículo 8o)
-
-ARTÍCULO
 
 ## art:2.3.1.4.14.5 — Documentos adicionales
 
@@ -17480,15 +15686,11 @@ PARÁGRAFO 2. En todos los casos las autoridades de reclutamiento para efectos d
 
 (Decreto 2124 de 2008 artículo 9o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.14.6 — Verificación del cálculo de la cuota de compensación militar
 
 Para efectos de verificación de los ingresos y el patrimonio líquido presentados por los ciudadanos para el cálculo de la Cuota de Compensación Militar, la Dirección de Reclutamiento del Ejército Nacional dispondrá lo necesario con el fin de realizar mensualmente cruces de información financiera con la Unidad de Información y Análisis Financiero.
 
 (Decreto 2124 de 2008 artículo 10)
-
-ARTÍCULO
 
 ## art:2.3.1.4.14.7 — Recibo de liquidación
 
@@ -17498,8 +15700,6 @@ Ejecutoriado el acto administrativo por el cual se liquida la cuota de compensac
 
 (Decreto 2124 de 2008 artículo 11)
 
-ARTÍCULO
-
 ## art:2.3.1.4.14.8 — Aplazamiento por estudios
 
 Los bachilleres que al cumplimiento de la mayoría de edad, sean convocados por las autoridades de reclutamiento y no definan su situación militar por estar cursando estudios de educación superior, se les aplazará su situación hasta por dos años, mediante entrega de tarjeta provisional, al cabo de los cuales si continúan estudiando y dependiendo las necesidades de reemplazos en las fuerzas, se les podrá clasificar y definir la situación militar de manera definitiva, mediante el pago de la cuota de compensación militar que les corresponda y de la tarjeta de reservista de segunda clase.
@@ -17507,8 +15707,6 @@ Los bachilleres que al cumplimiento de la mayoría de edad, sean convocados por 
 PARÁGRAFO . Los bachilleres que definan su situación militar por intermedio de los colegios y academias militares y policiales, serán clasificados tan pronto como obtengan la certificación de la aprobación de las tres fases de instrucción por parte de la unidad militar o policial respectiva y la aprobación del año escolar. A estos bachilleres se les liquidará la cuota de compensación militar de acuerdo con las previsiones de la Ley 1184 de 2008 y tendrán derecho a que se les expida tarjeta de reservistas de primera clase.
 
 (Decreto 2124 de 2008 artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.1.4.14.9 — Descuento del Valor de la Cuota de Compensación Militar
 
@@ -17520,8 +15718,6 @@ SECCIÓN 15.
 
 EXPEDICIÓN CÉDULAS MILITARES OFICIALES, SUBOFICIALES Y SOLDADOS PROFESIONALES Y ALUMNOS DE LAS ESCUELAS DE FORMACIÓN DE OFICIALES SUBOFICIALES Y SOLDADOS PROFESIONALES.
 
-ARTÍCULO
-
 ## art:2.3.1.4.15.1 — Definiciones
 
 Para los solos efectos de la presente Sección se tendrán en cuenta las siguientes definiciones:
@@ -17532,29 +15728,21 @@ Tarjeta de Identificación Militar: Es el documento que identifica militarmente 
 
 (Decreto 0284 de 2013 artículo 1o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.15.2 — Cédula militar para personal en servicio activo
 
 La cédula militar para el caso de Oficiales, Suboficiales, Soldados Profesionales e Infantes de Marina Profesionales de las Fuerzas Militares, y la tarjeta de identificación militar para los alumnos de escuelas de formación de la Fuerzas Militares, reemplaza la respectiva tarjeta de reservista.
 
 (Decreto 0284 de 2013 artículo 2o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.15.3 — Cédula militar para personal retirado
 
 La cédula militar para el caso de Oficiales, Suboficiales, Soldados Profesionales e Infantes de Marina Profesionales de las Fuerzas Militares retirados, se expedirá conforme a los lineamientos establecidos en el artículo 2.3.1.4.15.5. del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.3.1.4.15.4 — Documento para personal retirado por separación absoluta
 
 En los casos de retiro del Oficial, Suboficial, Soldados Profesionales o Infantes de Marina Profesionales de las Fuerzas Militares por separación absoluta como consecuencia de sentencia condenatoria en materia penal o disciplinaria, se expedirá "Tarjeta de Reservista de Primera Clase" con el último grado que hubiere tenido en servicio activo y fotografía en traje de civil.
 
 (Decreto 0284 de 2013 artículo 3o)
-
-ARTÍCULO
 
 ## art:2.3.1.4.15.5 — 5.5
 
@@ -17590,15 +15778,11 @@ m) Instrucciones especiales aplicables al documento.
 
 (Decreto 0284 de 2013 artículo 4o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.15.6 — Modificación documento
 
 Los Oficiales, Suboficiales y Soldados Profesionales e Infantes de Marina Profesionales de las Fuerzas Militares que cambien de grado, bien sea por ascenso, retiro del servicio activo o promoción, solicitarán el cambio del documento de identificación militar correspondiente a su nuevo estado.
 
 (Decreto 0284 de 2013 artículo 5o)
-
-ARTÍCULO
 
 ## art:2.3.1.4.15.7 — Registro y control
 
@@ -17610,8 +15794,6 @@ SECCIÓN 16.
 
 DISPOSICIONES SOBRE IDENTIFICACIÓN DEL PERSONAL AL SERVICIO DEL MINISTERIO DE DEFENSA NACIONAL.
 
-ARTÍCULO
-
 ## art:2.3.1.4.16.1 — Salvoconducto
 
 La Cédula Militar para Oficiales y Suboficiales en servicio activo, reemplaza el Salvoconducto para el porte de armas a que se. refiere el Decreto 2535 de 1993 y normas que lo modifiquen.
@@ -17619,8 +15801,6 @@ La Cédula Militar para Oficiales y Suboficiales en servicio activo, reemplaza e
 PARÁGRAFO . La expedición de salvoconductos para porte de armas a Oficiales y Suboficiales en situación de retiro o reserva, solamente requiere la presentación de la cédula militar y la comprobación de la procedencia legal del arma.
 
 (Decreto 063 de 1991 artículo 3o)
-
-ARTÍCULO
 
 ## art:2.3.1.4.16.2 — Tarjeta de identidad para el personal civil
 
@@ -17630,23 +15810,17 @@ PARÁGRAFO . El documento de que trata este artículo únicamente presta mérito
 
 (Decreto 063 de 1991 artículo 5o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.16.3 — Costos
 
 El costo de la expedición de los documentos de que trata el presente Decreto y de sus respectivos duplicados, será fijado mediante disposición que expida el Comando General de las Fuerzas Militares.
 
 (Decreto 063 de 1991 artículo 7o)
 
-ARTÍCULO
-
 ## art:2.3.1.4.16.4 — Cambio del documento de identificación militar
 
 Los Oficiales y Suboficiales de las Fuerzas Militares y personal civil al servicio del Ministerio de Defensa Nacional que cambien de grado, bien sea por ascenso, retiro del servicio activo o promoción, están obligados a solicitar el cambio del documento de identificación militar correspondiente a su nuevo estado.
 
 (Decreto 063 de 1991 artículo 9o)
-
-ARTÍCULO
 
 ## art:2.3.1.4.16.5 — 6.5
 
@@ -17694,8 +15868,6 @@ SECCIÓN 1.
 
 DEL PROCEDIMIENTO E INSPECCIÓN.
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1 — Requisito
 
 El Comando General de las Fuerzas Militares adoptará mediante acto administrativo, los procedimientos operacionales vigentes para las actividades de desminado humanitario que realiza las Fuerzas Militares. Estos procedimientos deberán ajustarse a los principios y estándares nacionales e internacionales aplicables que regulan las actividades de desminado humanitario.
@@ -17705,8 +15877,6 @@ PARÁGRAFO 1. Los procedimientos operacionales para las actividades de desminado
 PARÁGRAFO 2. Anualmente y cuando se considere necesario el Comando General de las Fuerzas Militares deberá disponer la revisión evaluación y actualización de los procedimientos operacionales vigentes para las actividades de desminado humanitario.
 
 (Decreto 007 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.2 — Labores de Monitoreo
 
@@ -17718,15 +15888,11 @@ La Defensoría del Pueblo y la Procuraduría General de la Nación podrán desar
 
 (Decreto 007 de 2014 artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.3 — De las Inspecciones
 
 Las inspecciones de las Fuerzas Militares y la Inspección General del Comando General de las Fuerzas Militares deberán realizar inspecciones periódicas a las actividades de desminado humanitario realizadas por el componente de las Fuerzas Militares con el fin de hacer seguimiento a las observaciones realizadas por el organismo de monitoreo y formular las recomendaciones tendientes a fortalecer la efectividad, eficacia y eficiencia de esta actividad.
 
 (Decreto 007 de 2014 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.4 — Coordinaciones
 
@@ -17740,15 +15906,11 @@ SUBSECCIÓN 1.
 
 ORGANIZACIONES DE DESMINADO HUMANITARIO Y OTROS.
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.1 — Actividades de Desminado
 
 El Gobierno Nacional realizará actividades de desminado humanitario en el territorio nacional, a través del Ministerio de Defensa Nacional, y demás autoridades nacionales que tengan, o se les señala esa función. Subsidiariamente, las Organizaciones Civiles podrán realizar las actividades de Desminado Humanitario que le sean asignadas por el Gobierno Nacional, conforme a esta Subsección.
 
 (Decreto 3750 de 2011 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.2 — Procesos
 
@@ -17756,15 +15918,11 @@ Los procesos de desminado humanitario se efectuarán progresivamente en las zona
 
 (Decreto 3750 de 2011 artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.3 — Organizaciones Civiles
 
 Para efectos de la presente Subsección, se entenderán como Organizaciones Civiles de Desminado Humanitario cualquier organización no gubernamental, nacional o internacional, cuyo objeto social sea el desarrollo de tareas o actividades de desminado humanitario, siempre que cumplan con los estándares y se sometan a los procedimientos de certificación y de aval contenidos en la presente Subsección.
 
 (Decreto 3750 de 2011 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.4 — Certificación
 
@@ -17776,8 +15934,6 @@ PARÁGRAFO 2. En caso de requerirse material explosivo, la certificación que ex
 
 (Decreto 3750 de 2011 artículo 4)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.5 — Estudios de Solicitudes
 
 La Comisión intersectorial Nacional para la Acción contra Minas Antipersonal estudiará las solicitudes de aval de las Organizaciones Civiles de Desminado Humanitario, que previamente certificadas por el Ministerio de Defensa Nacional, le sean presentadas por la Secretaría Técnica de la Cinamap.
@@ -17785,8 +15941,6 @@ La Comisión intersectorial Nacional para la Acción contra Minas Antipersonal e
 La Comisión intersectorial contra las Minas Antipersonal avalará, potestativamente, las organizaciones civiles de Desminado Humanitario para que puedan realizar en el territorio nacional las actividades de desminado humanitario que le sean asignadas por la instancia interinstitucional que trata la presente Subsección.
 
 (Decreto 3750 de 2011 artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.6 — Instancia Interinstitucional
 
@@ -17812,15 +15966,11 @@ PARÁGRAFO 2. El Programa Presidencial para la Acción Integral contra las Minas
 
 (Decreto 3750 de 2011 artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.7 — Estándares
 
 El Ministerio de Defensa Nacional adoptará y modificará los Estándares de Desminado Humanitario, de conformidad con las recomendaciones emitidas por la Instancia interinstitucional de Desminado Humanitario.
 
 (Decreto 3750 de 2011 artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.8 — Tipos de Estándar
 
@@ -17854,8 +16004,6 @@ PARÁGRAFO 6. Los Estándares de Desminado Humanitario no podrán limitar las fu
 
 (Decreto 3750 de 2011 artículo 8)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.9 — Suspensión o no Renovación de Certificaciones
 
 Cuando medien razones de defensa y seguridad nacional, se vulnere la Constitución Política o la ley, o se incumplan los Estándares de Desminado Humanitario, el Ministerio de Defensa Nacional, en cualquier momento, unilateralmente o por recomendación de la Instancia interinstitucional de Desminado Humanitario, podrá suspender o no renovar la certificación expedida a las Organizaciones Civiles de Desminado Humanitario.
@@ -17863,8 +16011,6 @@ Cuando medien razones de defensa y seguridad nacional, se vulnere la Constituci�
 PARÁGRAFO . El Ministerio de Defensa Nacional informará, a través del Programa Presidencial de Acción Integral contra Minas Antipersonal (Paicma). la suspensión de la certificación a la Comisión intersectorial Nacional para la Acción contra Minas Antipersonal, para lo de su competencia, al igual que su no renovación, del que deberá también informarse a la autoridad militar de la jurisdicción y al Comando General de las Fuerzas Militares Departamento Control Comercio de Armas, Municiones y Explosivos, para lo de su cargo.
 
 (Decreto 3750 de 2011 artículo 9)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.10 — Competencia
 
@@ -17878,8 +16024,6 @@ Las actividades necesarias para realizar el Desminado Humanitario en el territor
 
 (Decreto 3750 de 2011 artículo 10)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.11 — Programas de Información
 
 El personal directivo, técnico, los líderes de unidades de desminado y los desminadores de las Organizaciones Civiles de Desminado Humanitario deberán asistir al Programa de Información relacionado con la contaminación con minas antipersonal, artefactos explosivos improvisados, municiones sin explotar, que deberá ofrecer la Escuela de Ingenieros del Ejército Nacional o quien haga sus veces.
@@ -17888,15 +16032,11 @@ En todo caso, las Organizaciones Civiles de Desminado Humanitario, de manera exc
 
 (Decreto 3750 de 2011 artículo 11)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.12 — Identificación de Zonas
 
 La Instancia interinstitucional de Desminado Humanitario identificará las zonas del territorio nacional susceptibles de ser objeto de desminado humanitario y su viabilidad bajo los siguientes criterios: seguridad; contaminación con minas antipersonal de acuerdo a la información recopilada por el Programa Presidencial para la Acción Integral contra Minas Antipersonal; la información del Sistema de Alertas Tempranas de la Defensoría del Pueblo y la información suministrada por el Comando General de las Fuerzas Militares.
 
 (Decreto 3750 de 2011 artículo 12)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.13 — Compañías Aseguradoras
 
@@ -17918,8 +16058,6 @@ PARÁGRAFO . La póliza de responsabilidad civil extracontractual deberá contem
 
 (Decreto 3750 de 2011 artículo 13, modificado por et artículo 1 del Decreto 1561 de 2013)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.14 — Valores Asegurados
 
 Los valores asegurados mínimos para los amparos de las pólizas de que trata el artículo 2.3.1.5.1.1.13 de la presente Subsección, serán los siguientes:
@@ -17934,15 +16072,11 @@ Póliza de seguros de Responsabilidad Civil extracontractual que cubra a tercero
 
 (Decreto 1561 de 2013 artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.1.5.1.1.15 — Cumplimiento
 
 La Secretaría Técnica de la Instancia interinstitucional de Desminado Humanitario, creada en el artículo 2.3.1.5.1.1.6., de esta Subsección verificará el cumplimento de los parámetros mínimos de las pólizas de que trata el artículo anterior, previo al inicio de las actividades de Desminado Humanitario por parte de las organizaciones civiles que se encuentren debidamente acreditadas.
 
 (Decreto 1561 de 2013 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.1.5.1.1.16 — Monitoreo
 
@@ -17960,15 +16094,11 @@ SECCIÓN 2
 
 IMPLEMENTACIÓN DEL ACUERDO SOBRE LIMPIEZA Y DESCONTAMINACIÓN DEL TERRITORIO DE LA PRESENCIA DE MINAS ANTIPERSONAL (MAP), ARTEFACTOS EXPLOSIVOS IMPROVISADOS (AEI) Y MUNICIONES SIN EXPLOTAR (MUSE) O RESTOS EXPLOSIVOS DE GUERRA (REG) EN GENERAL SUSCRITO EL 7 DE MARZO DE 2015 POR EL GOBIERNO NACIONAL
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1 — Objeto
 
 Por medio de la presente Sección se establecen las condiciones para implementar el "Acuerdo sobre Limpieza y Descontaminación del territorio de la presencia de Minas Antipersonal (MAP), Artefactos Explosivos Improvisados (AEl) y Municiones sin Explotar (MUSE) o Restos Explosivos de Guerra (REG) en general", suscrito el 7 de marzo de 2015 por el Gobierno Nacional.
 
 (Decreto 1019 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2 — Ejecución del proyecto piloto
 
@@ -17982,23 +16112,17 @@ SUBSECCIÓN 1
 
 DE LOS REQUISITOS PARA LA ACREDITACIÓN DE LA AYUDA POPULAR NORUEGA (APN) PARA EL PROYECTO PILOTO
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.1 — Proceso de acreditación
 
 El proceso de acreditación para el Proyecto Piloto está conformado por tres fases: l. Documental, 11. De aval y la 111. De evaluación operacional.
 
 (Decreto 1019 de 2015, artículo 3)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.2 — Fase documental
 
 La Fase Documental consiste en la evaluación de documentación relevante y apropiada suministrada por la Ayuda Popular Noruega (APN), con el fin de que la Dirección para la Acción Integral Contra Minas Antipersonal (OAICMA) determine la capacidad de la Organización en cuanto a su situación jurídica, la capacidad e idoneidad de su personal para desarrollar actividades de desminado humanitario, cumpliendo lo establecido en la presente Sección.
 
 (Decreto 1019 de 2015, artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.1.3 — Requisitos de la fase documental
 
@@ -18040,8 +16164,6 @@ La Organización deberá radicar la documentación anterior, impresa y numerada 
 
 (Decreto 1019 de 2015, artículo 5)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.4 — Términos para surtir la fase documental
 
 La Dirección para la Acción Integral contra las Minas Antipersonal (DAICMA) evaluará la solicitud de la Organización y certificará el cumplimiento de los requisitos de la Fase Documental en el término de tres (3) días hábiles, contados a partir del día hábil siguiente a la recepción de la documentación.
@@ -18052,8 +16174,6 @@ El término que tiene la Organización para adicionar o completar la informació
 
 (Decreto 1019 de 2015, artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.5 — Certificación de la fase documental
 
 La Dirección para la Acción Integral contra las Minas Antipersonal (DAICMA) certificará a la Organización una vez se verifique el cumplimiento de los requisitos de acreditación de la fase documental que trata el artículo 2.3.1.5.2.1.3, de la presente Sección y convocará en su calidad de secretaría técnica, en un término no mayor a cinco (5) días hábiles, a una sesión extraordinaria de la Comisión intersectorial Nacional para la Acción contra Minas Antipersonal (CINAMAP).
@@ -18061,8 +16181,6 @@ La Dirección para la Acción Integral contra las Minas Antipersonal (DAICMA) ce
 Esta certificación no autoriza a realizar tareas de Desminado Humanitario, hasta tanto fas unidades de trabajo de la Organización no hayan cumplido con los requisitos de la Fase de Evaluación del Proceso de Acreditación previsto en la presente Sección para la implementación del Proyecto Piloto.
 
 (Decreto 1019 de 2015, artículo 7)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.1.6 — Fase de avaí de la CINAMAP
 
@@ -18074,8 +16192,6 @@ Este aval no autoriza a realizar tareas de Desminado Humanitario, hasta tanto el
 
 (Decreto 1019 de 2015, artículo 8)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.7 — Fase de evaluación de la capacidad operacional
 
 Por la naturaleza de este Proyecto Piloto, la evaluación de la capacidad operacional será realizada por la Dirección para la Acción Integral contra Minas Antipersonal y la Inspección General de las Fuerzas Militares al personal entrenado por la Organización Civil de Desminado Humanitario para desarrollar las actividades para las cuales se solicita la acreditación.
@@ -18083,8 +16199,6 @@ Por la naturaleza de este Proyecto Piloto, la evaluación de la capacidad operac
 Esta evaluación verifica que cada una de las unidades de la Organización Civil de Desminado Humanitario ha sido entrenada y dotada para realizar las actividades de desminado humanitario, de manera idónea, segura, eficiente y eficaz, siguiendo los Procedimientos Operacionales aplicables al Plan Piloto.
 
 (Decreto 1019 de 2015, artículo 9)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.1.8 — Suscripción de pólizas para desarrollar actividades de desminado humanitario
 
@@ -18098,8 +16212,6 @@ PARÁGRAFO 2. La Dirección para la Acción Integral contra Minas Antipersonal v
 
 (Decreto 1019 de 2015, artículo 10)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.9 — Participación de organizaciones civiles en el proyecto piloto
 
 La participación de otras Organizaciones Civiles de Desminado Humanitario (OCDH) en el Proyecto Piloto de desminado humanitario, adoptado como medida de desescalamiento del conflicto armado interno está sujeta a la autorización del Gobierno Nacional.
@@ -18110,15 +16222,11 @@ Las normas dispuestas en la presente Sección solo aplican para las Organizacion
 
 (Decreto 1019 de 2015, artículo 11)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.1.10 — Suspensión o retiro de la acreditación en el proyecto piloto
 
 Cuando medien razones de defensa y seguridad nacional, se vulnere la Constitución Política o la Ley, o se incumplan los procedimientos operacionales, unilateralmente, el Gobierno Nacional podrá suspender o retirar la acreditación otorgada a una Organización en el marco del Proyecto Piloto.
 
 (Decreto 1019 de 2015, artículo 12)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.1.11 — Intervenciones de desminado humanitario en el territorio nacional
 
@@ -18130,15 +16238,11 @@ SUBSECCIÓN 2
 
 DE LA IMPLEMENTACIÓN Y EJECUCIÓN DEL PROYECTO PILOTO DE DESMINADO HUMANITARIO
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.1 — Áreas de intervención del proyecto piloto
 
 Las áreas que serán objeto de intervención del proyecto piloto de que trata la presente Sección serán informadas a la Ayuda Popular Noruega (APN) y al Batallón de Desminado Humanitario (BIDES), a través de la Dirección para la Acción Integral contra Minas Antipersonal.
 
 (Decreto 1019 de 2015, artículo 14)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2.2 — Principios para la ejecución del proyecto piloto
 
@@ -18146,23 +16250,17 @@ El proyecto piloto de Desminado Humanitario se realizará atendiendo los princip
 
 (Decreto 1019 de 2015, artículo 15)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.3 — Principio de focalización
 
 El principio de focalización implica que el proyecto piloto de Desminado Humanitario se ejecute únicamente en las áreas de intervención, de acuerdo a lo señalado en el Artículo 2.3.1.5.2.2.1., de la presente Sección.
 
 (Decreto 1019 de 2015, artículo 16)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.4 — Principio de gradualidad
 
 El principio de gradualidad requiere para la implementación del proyecto piloto estar sujeto a las capacidades que en materia técnica posea la Ayuda Popular Noruega (APN) y el Batallón de Desminado Humanitario (BIDES) para desarrollar intervenciones efectivas y escalonadas.
 
 (Decreto 1019 de 2015, artículo 17)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2.5 — Procedimientos operacionales
 
@@ -18172,8 +16270,6 @@ El Comando General de las Fuerzas Militares deberá adoptar mediante acto admini
 
 (Decreto 1019 de 2015, artículo 18)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.6 — Labores de monitoreo en el proyecto piloto
 
 Las labores de monitoreo con el fin de asegurar y controlar la calidad de las actividades de desminado humanitario realizadas en el marco del proyecto piloto serán efectuadas por la Dirección para la Acción Integral contra las Minas Antipersonal en coordinación con la Inspección General del Comando General de las Fuerzas Militares.
@@ -18181,8 +16277,6 @@ Las labores de monitoreo con el fin de asegurar y controlar la calidad de las ac
 El Gobierno Nacional podrá suscribir acuerdos de cooperación y asistencia técnica con organismos nacionales o internacionales para este propósito.
 
 (Decreto 1019 de 2015, artículo 19)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2.7 — Labores de verificación en el proyecto piloto
 
@@ -18192,15 +16286,11 @@ La labor de verificación en el marco del Proyecto Piloto se realizará con el a
 
 (Decreto 1019 de 2015, artículo 20)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.8 — Conformación de equipos de trabajo en el proyecto piloto
 
 Para la ejecución del Proyecto Piloto se conformarán los equipos que para el efecto se hayan previsto en el Acuerdo suscrito por el Gobierno Nacional. La composición de los mismos es la determinada por el Acuerdo suscrito por el Gobierno Nacional.
 
 (Decreto 1019 de 2015, artículo 21)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2.9 — Diálogo comunitario
 
@@ -18208,15 +16298,11 @@ Durante la implementación del proceso de limpieza y descontaminación se manten
 
 (Decreto 1019 de 2015, artículo 22)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.10 — Autorización Ayuda Popular Noruega (APN)
 
 El Gobierno Nacional a través de la Oficina del Alto Comisionado para la Paz, y de conformidad con lo previsto en el artículo 10 de la Ley 418 de 1997 modificada y prorrogada por la Ley 1738 de 2014, autorizará al personal acreditado de la Ayuda Popular Noruega (APN), previo cumplimiento de los requisitos señalados en la presente Sección, a mantener diálogo o interlocución, con el personal necesario, para el desarrollo del proyecto piloto de Desminado Humanitario, incluso respecto de personal que sea miembro de grupos armados organizados al margen de la ley.
 
 (Decreto 1019 de 2015, artículo 23)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2.12 — Seguridad de los participantes en el proyecto piloto
 
@@ -18224,15 +16310,11 @@ El Gobierno Nacional a través de la Fuerza Pública, y de conformidad con lo di
 
 (Decreto 1019 de 2015, artículo 25)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2.2.13 — Acompañamiento médico en el proyecto piloto
 
 El Gobierno Nacional coordinará con las entidades competentes la participación de los profesionales de la salud necesarios para que se haga acompañamiento al desarrollo del Proyecto Piloto.
 
 (Decreto 1019 de 2015, artículo 26)
-
-ARTÍCULO
 
 ## art:2.3.1.5.2.2.14 — Recursos de cooperación internacional para el proyecto piloto
 
@@ -18246,37 +16328,25 @@ DISTINCIÓN "RESERVISTA DE HONOR"
 
 (Decreto 879 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.1 — Conformación
 
 El Escalafón de Reservistas de Honor estará conformado por la lista de Oficiales, Suboficiales, Soldados, Grumetes, Infantes, Agentes y Agentes Auxiliares de las Fuerzas Militares y de la Policía Nacional respectivamente, que reúnan los requisitos contemplados en el artículo 1 de la Ley 14 de 1990 y en los Estatutos de Carrera correspondientes.
-
-ARTÍCULO
 
 ## art:2.3.1.6.2 — Remisión de información
 
 Para los efectos del artículo 2 de la Ley 14 de 1990, los Establecimientos de Educación Básica y Capacitación, los de Educación Superior, Educación Especial y Capacitación Tecnológica, informarán en el mes de agosto de cada año, al Ministerio de Defensa Nacional a través de la Comisión del Escalafón de Reservas de Honor, sobre el número e identidad de los reservistas que hayan sido admitidos en dichas instituciones.
 
-ARTÍCULO
-
 ## art:2.3.1.6.3 — Mayores plazos
 
 Los mayores plazos a que se refiere el numeral 3 del artículo 2 de la Ley 14 de 1990 serán los siguientes: a) Un 50% más, del establecido en la respectiva entidad crediticia para las obligaciones denominadas de corto plazo. b) Un 30% más, del establecido en la respectiva entidad crediticia para las obligaciones denominadas de mediano plazo. c) Un 20% más, del establecido en la respectiva entidad crediticia para las obligaciones denominadas de largo plazo.
-
-ARTÍCULO
 
 ## art:2.3.1.6.4 — Boletería espectáculos públicos
 
 Para cada uno de los espectáculos públicos que se presenten en escenarios de carácter oficial o centros culturales de igual naturaleza los responsables de los mismos destinarán el 1 % de la boletería de cada función, presentación o evento para los Reservistas de Honor, distribuidos equitativamente en las diferentes categorías y clasificaciones establecidas por el empresario o responsable de la presentación, en el recinto.
 
-ARTÍCULO
-
 ## art:2.3.1.6.5 — Reuniones comisión del escalafón de reservas de honor
 
 La Comisión del Escalafón de Reservas de Honor se reunirá trimestralmente en forma ordinaria y en forma extraordinaria, cuando lo solicite cualquiera de sus miembros. De cada reunión deberá levantarse el acta respectiva.
-
-ARTÍCULO
 
 ## art:2.3.1.6.6 — Presidencia comisión
 
@@ -18284,19 +16354,13 @@ La Comisión será presidida por el Jefe del Estado Mayor Conjunto, podrá sesio
 
 PARÁGRAFO . Los Jefes o Directores de Personal de las Fuerzas Militares y de la Policía Nacional ejercerán la función de Secretarios de la Comisión, por períodos anuales en el siguiente orden: Ejército, Armada, Fuerza Aérea y Policía Nacional.
 
-ARTÍCULO
-
 ## art:2.3.1.6.7 — Funciones de las dependencias de prestaciones sociales del ministerio de defensa y policía nacional
 
 Para el cumplimiento de lo dispuesto en el artículo 6 de la Ley 14 de 1990, los Grupos de Prestaciones Sociales del Ministerio de Defensa y la Policía Nacional o dependencias que hagan sus veces, tendrán las siguientes funciones: 1. Llevar un kárdex actualizado del personal que integra el Escalafón de Reservistas de Honor incluyendo todos los datos personales, familiares, laborales y académicos. 2. Expedir las certificaciones que soliciten los Reservistas de Honor. 3. Por su conducto tramitar todas las solicitudes, quejas e inquietudes de los Reservistas de Honor para la debida aplicación de la Ley 14 de 1990.
 
-ARTÍCULO
-
 ## art:2.3.1.6.8 — Presentación solicitud
 
 El personal de que trata este Capítulo, retirado con anterioridad a la vigencia del Decreto 1073 de 1990, y que tuviere definida su situación prestacional, deberá presentar solicitud de inscripción a través de la respectiva Fuerza o Dirección General de la Policía Nacional según el caso.
-
-ARTÍCULO
 
 ## art:2.3.1.6.9 — Funciones comandos fuerzas militares y dirección policía nacional
 
@@ -18314,13 +16378,9 @@ Son funciones de los Comandos de Fuerza y la Dirección General de la Policía N
 
 6. El Comando General de las Fuerzas Militares elabora, controla y actualiza el Escalafón de Reservistas de Honor.
 
-ARTÍCULO
-
 ## art:2.3.1.6.10 — Autoridades médicas competentes
 
 Son autoridades médicas competentes para determinar la disminución de la capacidad sicofísica, las señaladas en el Decreto Ley 94 de 1989, Decreto Ley 1796 de 2000, y las normas que los modifiquen o adicionen.
-
-ARTÍCULO
 
 ## art:2.3.1.6.11 — Personal con sanción de separación absoluta
 
@@ -18332,8 +16392,6 @@ En ningún caso podrá inscribirse en el Escalafón de "Reservistas de Honor" al
 
 (Capitulo adicionado por el Decreto 697 de 2019, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.7.1 — 7.1
 
 Uso de distintivos: El otorgamiento y uso de los distintivos del personal de las Fuerzas Militares, se regirá por el reglamento que sobre el particular expida el Comandante General de las Fuerzas Militares."
@@ -18344,15 +16402,11 @@ CAPÍTULO 1.
 
 CREACIÓN DEL ARMA DE COMUNICACIONES EN EL EJÉRCITO NACIONAL.
 
-ARTÍCULO
-
 ## art:2.3.2.1.1 — Arma de Comunicaciones en el Ejército
 
 Está conformada por los Oficiales y Suboficiales que han sido formados, entrenados y capacitados con la misión principal de dirigir las actividades propias de las comunicaciones en los diferentes organismos y niveles del Ejército y ejercer el mando de las unidades de comunicaciones.
 
 (Decreto 1474 de 1999 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.2.1.2 — Integración del Arma de Comunicaciones
 
@@ -18361,8 +16415,6 @@ Inicialmente integran el Arma de Comunicaciones del Ejército, a que se refiere 
 PARÁGRAFO . El número de Oficiales y Suboficiales del Arma de Comunicaciones se determinará por las necesidades de personal de las unidades del Ejército.
 
 (Decreto 1474 de 1999 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.2.1.3 — Tiempo Mínimo de Comando de Tropa
 
@@ -18390,15 +16442,11 @@ SECCIÓN 1
 
 ACREDITACIÓN
 
-ARTÍCULO
-
 ## art:2.3.1.8.1.1 — Acreditación de la calidad de Veterano y Beneficiario
 
 La calidad de Veterano y Beneficiario de la Ley 1979 de 2019, será acreditada sin costo alguno por el Ministerio de Defensa Nacional - Dirección de Bienestar Sectorial y Salud o la instancia que la reemplace o asuma sus funciones, a solicitud del personal que haga parte de la población señalada en el artículo 2 de la Ley 1979 de 2019.
 
 PARÁGRAFO . La acreditación de beneficiario de la Ley 1979 de 2019 solo podrá ser utilizada por el titular.
-
-ARTÍCULO
 
 ## art:2.3.1.8.1.2 — Documentos para la Acreditación
 
@@ -18412,13 +16460,9 @@ Al momento de solicitar la acreditación, el Veterano o el Núcleo Familiar del 
 
 PARÁGRAFO . Para todos los efectos de la Ley 1979 de 2019, la presentación de la acreditación emitida por el Ministerio de Defensa Nacional, será suficiente para acceder a los beneficios establecidos en la Ley. Lo anterior, sin perjuicio de las condiciones, restricciones y demás documentos adicionales que las entidades públicas requieran.
 
-ARTÍCULO
-
 ## art:2.3.1.8.1.3 — Recursos en actuación administrativa
 
 El recurso de reposición contra el acto administrativo que resuelve la acreditación, será presentado ante el Director (a) de Bienestar Sectorial y Salud del Ministerio de Defensa Nacional o quien haga sus veces, y el recurso de apelación será resuelto por el Viceministro (a) para el Grupo Social Empresarial del Sector Defensa "GSED" y Bienestar del Ministerio de Defensa Nacional, en los términos de la Ley 1437 de 2011.
-
-ARTÍCULO
 
 ## art:2.3.1.8.1.4 — Registro único de Veteranos (Base de datos consolidada)
 
@@ -18428,21 +16472,15 @@ PARÁGRAFO . En virtud de lo dispuesto en el artículo 10 de la Ley 1581 de 2012
 
 SECCIÓN 2
 
-ARTÍCULO
-
 ## art:2.3.1.8.2.1 — Honores en actos, ceremonias y eventos públicos y masivos
 
 La entidad de carácter público que presida los actos o procedimientos conmemorativos y honores a los beneficiarios de la Ley 1979 de 2019, deberá articularse con la Fuerza Pública de su Jurisdicción y podrá contar con la participación de un delegado del Consejo de Veteranos.
-
-ARTÍCULO
 
 ## art:2.3.1.8.2.2 — Monumento en conmemoración y honra de los Veteranos
 
 Para la construcción e instalación del monumento que conmemore y honre a los Veteranos, la autoridad municipal o distrital de la Capital del Departamento, coordinará con la Fuerza Pública de su jurisdicción y un delegado del Consejo de Veteranos, el tema a resaltar en el monumento.
 
 PARÁGRAFO . El día que se descubra el monumento en honor a los Veteranos, se realizará un acto, ceremonia o evento público con la participación de las autoridades civiles municipales o distritales, militares y la comunidad en general.
-
-ARTÍCULO
 
 ## art:2.3.1.8.2.3 — Día del Veterano
 
@@ -18456,8 +16494,6 @@ PARÁGRAFO 3. El núcleo familiar definido en el literal b) del artículo 2 de l
 
 PARÁGRAFO 4. Las entidades del Orden Nacional deberán izar el Pabellón Nacional como exaltación a los Veteranos.
 
-ARTÍCULO
-
 ## art:2.3.1.8.2.4 — Honores en páginas Web de medios masivos de comunicación y plataformas digitales
 
 El Ministerio de Defensa Nacional - Dirección de Comunicación Sectorial - elaborará y proporcionará un banner, pop-up o pieza digital con el material audiovisual alusivo a la importancia de los Veteranos de la Fuerza Pública, por lo menos una se dispondrá previo a la conmemoración de su día, material que será puesto a disposición a través de la página web del Ministerio de Defensa Nacional, a los canales públicos y privados de televisión, emisoras de radio públicas y privadas y medios impresos y digitales, conforme a lo establecido en la Ley.
@@ -18468,15 +16504,11 @@ PARÁGRAFO 2. El uso de las piezas comunicacionales proporcionadas o suministrad
 
 (Adicionado por el Art. 1 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:2.3.1.8.2.5 — 2.5
 
 Preservación de la Memoria Histórica El Ministerio de Defensa Nacional - Dirección de Derechos Humanos y Derecho Internacional Humanitario - Comando General de las Fuerzas Militares - Departamento de Apoyo a la Transición y Dirección de Derechos Humanos y de Derecho Internacional Humanitario y de la Subdirección General de la Policía Nacional - Área de Historia, Memoria Histórica y Victimas o las dependencias que hagan sus veces, prestarán el acompañamiento requerido al Centro Nacional de Memoria Histórica o a la entidad que lo sustituya, para la disposición de un espacio en el Museo de Memoria de Colombia donde se incorpore la memoria de los Veteranos considerados víctimas en los términos del artículo 3 de la Ley 1448 de 2011.
 
 (Adicionado por el Art. 1 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.1.8.2.6 — Programa de Derechos Humanos y Memoria Histórica
 
@@ -18484,15 +16516,11 @@ Coordínese, a través del Ministerio de Defensa Nacional - Dirección de Derech
 
 (Adicionado por el Art. 1 del Decreto 1346 de 2020)
 
-ARTÍCULO
-
 ## art:2.3.1.8.2.7 — Programa para la preservación y difusión de las memorias de los Veteranos
 
 Coordínese entre el Ministerio de Defensa Nacional - Dirección de Capital Humano, Comando General de las Fuerza Militares, Comandos del Ejército Nacional, Armada Nacional y Fuerza Aérea Colombiana, la Dirección General de la Policía Nacional y un representante del Consejo de Veteranos, el diseño de un programa para la preservación y difusión de las memorias de los Veteranos de la Fuerza Pública y el pensum académico de una cátedra que promueva el aprendizaje y estudio de las mismas, en las escuelas de formación militar y policial.
 
 (Adicionado por el Art. 1 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.1.8.2.8 — Implementación de las memorias de los Veteranos de la Fuerza Pública
 
@@ -18510,8 +16538,6 @@ SUBSECCIÓN 1
 
 BENEFICIOS CAJA PROMOTORA DE VIVIENDA MILITAR Y DE POLICIA
 
-ARTÍCULO
-
 ## art:2.3.1.8.3 — 8.3
 
 El Ministerio de Defensa Nacional - Dirección de Bienestar Sectorial y Salud o la instancia que la reemplace o asuma sus funciones, gestionará alianzas o convenios con entidades privadas de carácter deportivo, musical, teatral y artístico, en general, con el fin de que estos otorguen descuentos a los beneficiarios estipulados en el artículo 2 de la Ley 1979 de 2019.
@@ -18519,8 +16545,6 @@ El Ministerio de Defensa Nacional - Dirección de Bienestar Sectorial y Salud o 
 PARÁGRAFO . Para acceder a los beneficios el Veterano y beneficiario presentará ante la entidad pública o privada la acreditación de que trata el artículo 4 de la Ley 1979 de 2019.
 
 (Adicionado por el Art. 1 del Decreto 1346 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.1.1 — Afiliación voluntaria a la Caja Promotora de Vivienda Militar y de Policía
 
@@ -18534,8 +16558,6 @@ PARÁGRAFO 3. Los afiliados voluntarios de que trata este artículo no podrán a
 
 PARÁGRAFO 4. La Caja Promotora de Vivienda Militar y de Policía establecerá las condiciones, requisitos y políticas financieras para acceder a los servicios que la Entidad disponga.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.1.2 — Desafiliación
 
 El afiliado voluntario podrá solicitar su desafiliación en cualquier momento a la Caja Promotora de Vivienda Militar y de Policía, en los términos establecidos por la Entidad.
@@ -18546,13 +16568,9 @@ Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS EN LA LIQUIDACIÓN DE LA PENSIÓN DE INVALIDEZ
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.2.1 — Campo de aplicación
 
 Las disposiciones aquí contenidas se aplicarán al personal pensionado por invalidez, en las categorías de Soldados Profesionales e Infantes de Marina Profesionales, Soldados que prestaron el servicio militar obligatorio en las Fuerzas Militares, Auxiliares y Patrulleros de la Policía Nacional, en los términos que se señalan en el presente decreto.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.2.2 — Incremento de la Pensión de Invalidez para Soldados Profesionales e Infantes de Marina Profesionales
 
@@ -18568,15 +16586,11 @@ PARÁGRAFO 2. Para efectos del presente artículo se entiende como salario, el s
 
 PARÁGRAFO 3. En adición a las partidas específicamente señaladas en este artículo, ninguna de las demás primas, subsidios, bonificaciones, serán computables para efectos del incremento pensional.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.2.3 — Incremento de la Pensión de Invalidez para Soldados en el Servicio Militar Obligatorio en las Fuerzas Militares
 
 El personal de Soldados que presté el servicio militar obligatorio en las Fuerzas Militares, que tenga como mínimo un 50% de disminución de la capacidad laboral, originada en combate o en accidente relacionado con el mismo, o por acción directa del enemigo, en tareas de mantenimiento o restablecimiento del orden público o en conflicto internacional, tendrá derecho a partir del 25 de julio de 2019, a que la pensión de invalidez se incremente al cien por ciento (100%) del salario básico devengado, en servicio activo, por un cabo tercero o su equivalente en las Fuerzas Militares.
 
 PARÁGRAFO . Para el personal de que trata el presente artículo, que se pensione por invalidez con posterioridad al 25 de julio de 2019, el incremento pensional se hará efectivo a partir de la fecha de causación del derecho a la pensión de invalidez.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.2.4 — Incremento de la Pensión de Invalidez para Patrulleros de la Policía Nacional
 
@@ -18586,21 +16600,15 @@ PARÁGRAFO 1. El personal de Patrulleros de la Policía Nacional, que sea benefi
 
 PARÁGRAFO 2. El personal de Patrulleros de la Policía Nacional, que sea beneficiario de la Pensión por invalidez, con posterioridad al 25 de julio de 2019, el incremento pensional se realizará a partir de la fecha fiscal que disponga el reconocimiento pensional.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.2.5 — Incremento de la Pensión de Invalidez para Auxiliares de Policía en la Policía Nacional
 
 El personal de Auxiliares de Policía en la Policía Nacional, que haya sido pensionado por invalidez y tenga como mínimo un cincuenta por ciento (50%) de disminución de la capacidad laboral, originada en el servicio como consecuencia de actos meritorios del mismo, en combate o en accidente relacionado con el mismo, o por acción directa del enemigo, en tareas de mantenimiento o restablecimiento del orden público o en conflicto internacional, tendrá derecho a partir del 25 de julio de 2019, a que la pensión de invalidez se incremente al cien por ciento (100%) del salario básico devengado, en servicio activo, por un cabo segundo de la Policía Nacional.
 
 PARÁGRAFO . El personal de Auxiliares de Policía en la Policía Nacional, que sea beneficiario de la Pensión por invalidez, con posterioridad al 25 de julio de 2019, el incremento pensional se realizará a partir de la fecha fiscal que disponga el reconocimiento pensional.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.2.6 — Compatibilidad del incremento pensional
 
 El incremento previsto en el presente Decreto, es compatible con los incrementos consagrados en el artículo 31 del Decreto 4433 de 2004.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.2.7 — Pago del Incremento
 
@@ -18611,8 +16619,6 @@ SUBSECCIÓN 3
 Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIO EN TRANSPORTE PÚBLICO URBANO
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.3.1 — Beneficios en Transporte Público Urbano
 
@@ -18625,8 +16631,6 @@ SUBSECCIÓN 4
 Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS EN SALUD
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.4.1 — Atención al Veterano
 
@@ -18646,19 +16650,13 @@ Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS SOCIALES
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.5.1 — Entrada gratuita a museos
 
 Para que los beneficiarios del artículo 2 de la Ley 1979 de 2019, puedan ingresar de manera gratuita a los museos de propiedad de la Nación, deberán presentar personalmente la acreditación expedida por el Ministerio de Defensa Nacional - Dirección de Bienestar Sectorial y Salud o la instancia que la reemplace o asuma sus funciones.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.5.2 — Entrada Eventos
 
 Los alcaldes distritales y municipales podrán otorgar el ingreso gratuito al personal indicado en el artículo 2 de la Ley 1979 de 2019, a los eventos considerados de entretenimiento, recreativos, deportivos, culturales, artísticos y teatrales que se realicen en escenarios de propiedad del Municipio o Distrito.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.5.3 — Atención al Veterano
 
@@ -18666,27 +16664,19 @@ Las entidades públicas que tengan servicio de atención al público, deberán e
 
 En caso de no contar con ventanilla o fila preferencial, se deberá privilegiar la atención de los Veteranos en las ventanillas o filas habilitadas.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.5.4 — Ventanilla o fila preferencial
 
 En los aeropuertos operados por la Unidad Administrativa Especial de Aeronáutica Civil, por las gobernaciones o por los municipios, o por particulares en los que se preste atención al público en general, se deberá identificar y señalizar una ventanilla o fila preferencial para la atención de los Veteranos, que podrá coincidir con las dispuestas para las mujeres gestantes, personas con discapacidad o de la tercera edad.
 
 En caso de no contar con ventanilla o fila preferencial, se deberá privilegiar la atención de los Veteranos en las ventanillas o filas habilitadas.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.5.5 — Prioridad en el embarque
 
 Las empresas de servicios aéreos comerciales que operen en territorio colombiano, al momento de realizar el embarque deberán dar prioridad a los Veteranos, efecto para el cual podrán habilitar una fila de acceso preferencial que podrá coincidir con la de las mujeres gestantes, personas con discapacidad o de la tercera edad; o, si por la disposición del espacio esto no es posible, se les podrá convocar en un llamado inicial para embarcar previamente a los demás pasajeros; este llamado podrá coincidir con el efectuado a los miembros de los otros grupos poblacionales ya referidos.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.5.6 — Saludo el día del Veterano
 
 Las empresas de servicios aéreos comerciales colombianas, el día 10 de octubre de cada año, deberán informar sobre el día cívico del Veterano a los pasajeros y exaltar en cada vuelo la labor de los Veteranos con el siguiente anuncio a través de los sistemas de altavoz en las aeronaves: " Saludamos en su día a todos los Veteranos del Ejército Nacional, la Armada Nacional, la Fuerza Aérea Colombiana y la Policía Nacional de Colombia, como muestra de gratitud por su entrega en bien de la Patria" .
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.5.7 — Exención tasa aeroportuaria
 
@@ -18698,8 +16688,6 @@ Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS EN PROGRAMAS ASISTENCIALES
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.6.1 — Programas de emprendimiento
 
 Las entidades del Gobierno nacional que conforman la Comisión Intersectorial para la Atención Integral al Veterano que desarrollen programas de emprendimiento, incluirán dentro de estos programas, criterios de priorización para la población de que trata el artículo 2 de la Ley 1979 de 2019, sin perjuicio de la focalización específica de aquellos programas que por ley estén orientados a otras poblaciones prioritarias.
@@ -18708,13 +16696,9 @@ PARÁGRAFO 1. Las propuestas presentadas deberán cumplir con la totalidad de re
 
 PARÁGRAFO 2. El Ministerio de Agricultura y Desarrollo Rural priorizará dentro de sus programas de apoyos, capacitación e incentivos a los beneficiarios de que trata la Ley 1979 de 2019.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.6.2 — Subsidio familiar de vivienda
 
 El Gobierno nacional a través del Ministerio de Vivienda, Ciudad y Territorio, prestará acompañamiento social a los Veteranos y su núcleo familiar definidos en el artículo 2 de la Ley 1979 de 2019, con el fin de facilitar su postulación y la asignación del subsidio familiar de vivienda en todas sus modalidades.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.6.3 — Oferta institucional
 
@@ -18725,8 +16709,6 @@ SUBSECCIÓN 7
 Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS EN IMPORTACIÓN
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.7.1 — Importación Vehículos
 
@@ -18740,27 +16722,19 @@ Para acceder al beneficio de importación de un (1) vehículo nuevo con caracter
 
 PARÁGRAFO . Hasta tanto las Direcciones de Sanidad de las Fuerzas Militares y/o la Dirección de Sanidad de la Policía Nacional, reglamenten y cuenten con los equipos multidisciplinarios de conformidad con la normatividad vigente, estos certificados de discapacidad serán expedidos por los médicos tratantes.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.7.2 — Enajenación del Vehículo
 
 El vehículo importado no podrá ser enajenado por el titular antes de los cinco (5) años, contados a partir de la fecha de la matrícula.
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.7.3 — Características del Vehículo
 
 El vehículo que pretende importar el Veterano de la Fuerza Pública, deberá cumplir con las características especiales acordes con su limitación física o incapacidad permanente contemplado en el certificado de discapacidad expedido por las Direcciones de Sanidad de las Fuerzas Militares y/o la Dirección de Sanidad de la Policía Nacional, o quien haga sus veces.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.7.4 — Importación de elementos médicos, tecnológicos, estéticos o cosméticos
 
 Para efectos de la importación de elementos médicos, tecnológicos, estéticos o cosméticos, deberá obtenerse la correspondiente certificación que acredite al Veterano como importador, así como la certificación de discapacidad la cual será expedida por las Direcciones de Sanidad de las Fuerzas Militares y/o la Dirección de Sanidad de la Policía Nacional, o quien haga sus veces de conformidad con lo dispuesto en la Resolución 113 de 2020 proferida por el Ministerio de Salud y Protección Social, o las normas que la modifiquen, sustituyan o adicionen. Dicha certificación será el documento soporte adicional a los señalados en el artículo 177 del Decreto 1165 de 2019 o las normas que lo modifiquen, sustituyan, adicionen o deroguen.
 
 La pertinencia del uso de los elementos médicos, tecnológicos, estéticos o cosméticos que contribuyan a su rehabilitación integral en caso que así se requiera por parte del Veterano, deberá quedar determinada en el certificado de discapacidad correspondiente.
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.7.5 — Sanciones en materia aduanera
 
@@ -18771,8 +16745,6 @@ SUBSECCIÓN 8
 Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS INTEGRALES SECTOR PRIVADO
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.8.1 — Beneficios Integrales Sector Privado
 
@@ -18786,8 +16758,6 @@ Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 BENEFICIOS CREDITICIOS
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.9.1 — Beneficios Crediticios
 
 Las entidades bancarias, cooperativas de crédito y demás entidades del sector financiero podrán otorgar una línea de crédito especial con tasas de interés preferencial para los beneficiarios del artículo 2 de la ley 1979 de 2019.
@@ -18799,8 +16769,6 @@ SUBSECCIÓN 10
 Subsección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 DESCUENTO EN EL TRÁMITE DE ACTUALIZACIÓN DE LOS REGISTROS DE ARMAS DE FUEGO Y PERMISOS VENCIDOS
-
-ARTÍCULO
 
 ## art:2.3.1.8.3.10.1 — Descuento
 
@@ -18814,8 +16782,6 @@ Sección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 APROPIACIÓN RECURSOS REGISTRO ÚNICO DE VETERANO Y DÍA DEL VETERANO
 
-ARTÍCULO
-
 ## art:2.3.1.8.3.2.8 — Apropiación de Recursos
 
 El Ministerio de Defensa Nacional apropiará los recursos presupuestales necesarios para la implementación de la Ley 1979 de 2019, en lo referente al Registro Único de Veterano y al Día del Veterano.
@@ -18826,13 +16792,9 @@ Sección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 COMISIÓN INTERSECTORIAL PARA LA ATENCIÓN INTEGRAL AL VETERANO
 
-ARTÍCULO
-
 ## art:2.3.1.8.5.1 — Objeto
 
 La presente Sección tiene como objeto reglamentar las funciones de la Comisión Intersectorial para la Atención Integral al Veterano y su Secretaría Técnica, de conformidad con lo previsto en el artículo 26 de la Ley 1979 de 2019.
-
-ARTÍCULO
 
 ## art:2.3.1.8.5.2 — Funciones
 
@@ -18858,13 +16820,9 @@ La Comisión Intersectorial para la Atención Integral al Veterano creada median
 
 10. Las demás que sean necesarias para el cumplimiento de su objeto y que sean acordes con su naturaleza.
 
-ARTÍCULO
-
 ## art:2.3.1.8.5.3 — Secretaria Técnica
 
 La Secretaria Técnica de la Comisión Intersectorial para la Atención Integral al Veterano, estará bajo la responsabilidad del Ministerio de Defensa Nacional - Dirección de Bienestar Sectorial y Salud - y contará con un grupo de trabajo permanente y especializado.
-
-ARTÍCULO
 
 ## art:2.3.1.8.5.4 — Funciones de la Secretaria Técnica
 
@@ -18896,21 +16854,15 @@ Sección, Adicionada por el Art. 1 del Decreto 1346 de 2020
 
 CONSEJO DE VETERANOS
 
-ARTÍCULO
-
 ## art:2.3.1.8.6.1 — Objeto
 
 El Consejo de Veteranos es el órgano de consulta e interlocución entre los Veteranos y el Gobierno nacional, que tiene por objeto ser un espacio de diálogo e interacción, consulta, discusión, deliberación, participación y proposición de iniciativas relacionadas con los asuntos relevantes para los Veteranos de la Fuerza Pública.
-
-ARTÍCULO
 
 ## art:2.3.1.8.6.2 — Composición
 
 De acuerdo con el artículo 27 de la Ley 1979 de 2019, el Consejo de Veteranos se conforma en su totalidad por nueve (9) Veteranos de las diferentes organizaciones de Veteranos. Estos deberán estar acreditados como Veteranos de la Fuerza Pública conforme a la Ley 1979 de 2019.
 
 PARÁGRAFO . Las organizaciones de Veteranos deberán estar registradas ante la cámara de comercio respectiva con el fin de poder postular a sus integrantes en la elección al Consejo de Veteranos.
-
-ARTÍCULO
 
 ## art:2.3.1.8.6.3 — Integración del Consejo de Veteranos
 
@@ -18935,8 +16887,6 @@ Integran el Consejo de Veteranos los siguientes miembros:
 9. Un soldado regular o infante de marina regular pensionado por invalidez de las Fuerzas Militares
 
 PARÁGRAFO 1. Los miembros del Consejo de Veteranos no tendrán la calidad de servidores públicos.
-
-ARTÍCULO
 
 ## art:2.3.1.8.6.4 — Funciones y Deberes
 
@@ -19019,8 +16969,6 @@ SECCIÓN 1.
 
 OBJETO Y ÁMBITO DE APLICACIÓN.
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.1 — Objeto y Ámbito de Aplicación
 
 El presente Capítulo, tiene por objeto determinar, en todo el territorio nacional, el procedimiento para obtener el Certificado Médico de Aptitud Psicofísica para la Tenencia y el Porte de Armas de Fuego que debe presentar todo aspirante a obtener por primera vez y/o por revalidación, el permiso para el porte o tenencia de armas de fuego.
@@ -19031,15 +16979,11 @@ SECCIÓN 2.
 
 CERTIFICADO MÉDICO DE APTITUD PSICOFÍSICA PARA LA TENENCIA Y EL PORTE DE ARMAS DE FUEGO.
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.1 — Certificado Médico de Aptitud Psicofísica para la Tenencia y el Porte de Armas de Fuego
 
 Es el documento expedido y suscrito por un médico que actúa en nombre y representación de una Institución Especializada, dotada con los equipos y el personal necesario e inscrita en el Ministerio de Defensa Nacional-Dirección General de Sanidad Militar-Subdirección de Servicios de Salud, en el cual se certifica que el aspirante a obtener por primera vez la autorización y/o revalidación para la tenencia y el porte de armas de fuego, posee la capacidad de visión, orientación auditiva, agudeza visual y campimetría, y la coordinación integral motriz adecuada a las exigencias que se requieren para dicha actividad de alto riesgo.
 
 (Decreto 2858 de 2007 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2 — Obtención y Revalidación
 
@@ -19047,15 +16991,11 @@ Todas las personas naturales que pretendan obtener por primera vez o revalidar l
 
 (Decreto 2858 de 2007 artículo 3, modificado por el artículo 2 del Decreto 0503 de 2008)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3 — De las Instituciones Especializadas para Expedir Certificados de Aptitud Psicofísica
 
 Para efectos del presente Capítulo, las Instituciones Especializadas que expiden la Certificación de la Aptitud Psicofísica para la tenencia y el porte de Armas de Fuego, son Prestadores de Servicios de Salud, habilitados y certificados por el Sistema único de inscritos en el Sistema Obligatorio de Garantía de Calidad de la Atención de Salud, de conformidad con la reglamentación vigente o la que expida de manera particular para estos efectos el Ministerio de la Protección Social. Dichas instituciones deberán además solicitar el registro, ante el Ministerio de Defensa-Dirección General de Sanidad Militar-Subdirección de Servicios de Salud.
 
 (Decreto 2858 de 2007 artículo 4)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.4 — De la Acreditación de las Instituciones Especializadas
 
@@ -19064,8 +17004,6 @@ Las Instituciones Especializadas que pretendan certificar la aptitud psicofísic
 Las Instituciones Especializadas que hayan obtenido la acreditación bajo la norma ISO/IEC 17024:2003 de acuerdo con el presente Capítulo, deberán someterse al menos a una (1) auditoría anual completa de seguimiento por parte de la Superintendencia de Industria y Comercio.
 
 (Decreto 2858 de 2007 artículo 5)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.5 — 2.5
 
@@ -19105,8 +17043,6 @@ PARÁGRAFO 2. Todas las evaluaciones se deben realizar en la misma institución 
 
 (Decreto 2858 de 2007 artículo 6)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.6 — Expedición del Certificado Médico de Aptitud Psicofísica para la Tenencia y el Porte de Armas de Fuego
 
 El médico autorizado, en nombre y representación de la Institución Especializada donde se realizaron las pruebas, con base en los registros consignados en el Informe de Evaluación Física, Mental y de Coordinación Motriz, verificará si los resultados obtenidos por el aspirante se encuentran dentro de los rangos establecidos por el Ministerio de Defensa Nacional.
@@ -19123,15 +17059,11 @@ Este registro deberá incluir además los patrones almacenados correspondientes 
 
 (Decreto 2858 de 2007 artículo 7)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.7 — Del Certificado
 
 El Certificado Médico de Aptitud Psicofísica para la Tenencia y el Porte de Armas de Fuego deberá ajustarse a la información y al formato señalados en el documento -"Certificado Médico de Aptitud Psicofísica para la Tenencia y el Porte de Armas de Fuego"- que para el efecto determine el Ministerio de Defensa Nacional-Dirección General de Sanidad Militar - Subdirección de Servicios de Salud.
 
 (Decreto 2858 de 2007 artículo 8)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.8 — Vigencia del Certificado
 
@@ -19140,8 +17072,6 @@ El Certificado Médico de Aptitud Psicofísica para la Tenencia y el Porte de Ar
 PARÁGRAFO . La copia no renovará el tiempo de vigencia del Certificado desde el día de su expedición.
 
 (Decreto 2858 de 2007 artículo 9)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.9 — Nueva práctica del examen médico de aptitud psicofísica para el porte y tenencia de armas de fuego
 
@@ -19155,15 +17085,11 @@ SECCIÓN 3.
 
 PROCEDIMIENTO PARA LA INSCRIPCIÓN ANTE EL MINISTERIO DE DEFENSA NACIONAL.
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.1 — Cumplimiento
 
 Las Instituciones Especializadas en la certificación de la aptitud psicofísica para la tenencia y el porte de armas de fuego, deben contar con profesionales de la salud debidamente registrados ante la Secretaria de Salud. Además contar con equipos especializados en la toma de estas evaluaciones y debidamente certificados en su país de origen con por lo menos 100.000 pruebas realizadas para certificar la aptitud psicofísica de personas que manejan armas de fuego, en los campos de Psicología, Optometría u Oftalmología, y Fonoaudiología.
 
 (Decreto 2858 de 2007 artículo 10)
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.2 — 3.2
 
@@ -19191,8 +17117,6 @@ PARÁGRAFO TRANSITORIO. Las Instituciones que, a la fecha de expedición del pre
 
 (Decreto 2858 de 2007 artículo 11, modificado por el Decreto 4675 de 2011)
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.3 — De los Certificados
 
 Las instituciones Especializadas en la certificación de la aptitud Psicofísica para la tenencia y el porte de fuego, a través del médico autorizado, expedirá el certificado con fundamento en los diagnósticos de los profesionales, los cuales serán consignados en los informes de evaluación de cada aspirante.
@@ -19201,8 +17125,6 @@ PARÁGRAFO . Los certificados se diligenciarán en el formato previamente diseñ
 
 (Decreto 2858 de 2007 artículo 12)
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.4 — Almacenamiento
 
 Los Certificados Médicos de Aptitud Psicofísica para la Tenencia y el Porte de Armas de Fuego, junto con los informes de evaluación, los datos personales, la identificación biométrica de las huellas dactilares y el registro fotográfico de cada aspirante, se almacenarán de manera que estos datos no puedan ser modificables y sean recuperables en el tiempo. La Custodia, es responsabilidad de las instituciones Especializadas que se inscriben ante el Ministerio de Defensa Nacional- Dirección General de Sanidad Militar-Subdirección de Servicios de Salud.
@@ -19210,8 +17132,6 @@ Los Certificados Médicos de Aptitud Psicofísica para la Tenencia y el Porte de
 PARÁGRAFO . La información de que trata este artículo será remitida a la base de datos del Ministerio de Defensa Nacional-Dirección General de Sanidad Militar-Subdirección de Servicios de Salud.
 
 (Decreto 2858 de 2007 artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.5 — Certificaciones expedidas con Anterioridad
 
@@ -19222,8 +17142,6 @@ A quienes tengan certificaciones de aptitud psicofísica para tenencia y porte d
 SECCIÓN 4.
 
 OBLIGACIONES DE LAS INSTITUCIONES ESPECIALIZADAS ENCARGADAS DE EXPEDIR LOS CERTIFICADOS DE APTITUD PSICOFÍSICA PARA LA TENENCIA Y PORTE DE ARMAS DE FUEGO, CAUSALES DE SUSPENSIÓN O CANCELACIÓN DE LA INSCRIPCIÓN.
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.1 — Obligaciones
 
@@ -19251,15 +17169,11 @@ La operación y funcionamiento de una Institución Especializada encargada de ef
 
 (Decreto 2858 de 2007 artículo 14)
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.2 — Suspensión de la Inscripción ente el Ministerio de Defensa- Dirección General de Sanidad Militar
 
 Cuando cualquiera de las entidades de control que conozcan este proceso, tenga conocimiento del incumplimiento de cualquiera de las obligaciones establecidas en el presente Capítulo, por parte de la Institución Especializada inscrita ante el Ministerio de Defensa, para certificar la aptitud psicofísica podrá solicitar la suspensión del registro ante el Ministerio de Defensa-Dirección General de Sanidad Militar- Subdirección de Servicios de Salud, hasta por seis (6) meses.
 
 (Decreto 2858 de 2007 artículo 15)
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.3 — Cancelación del Registro
 
@@ -19275,8 +17189,6 @@ SECCIÓN 5.
 
 VIGILANCIA Y CONTROL.
 
-ARTÍCULO
-
 ## art:2.3.2.2.5.1 — Vigilancia y Control
 
 Sin perjuicio de la competencia específica de la Superintendencia Nacional de Salud, la vigilancia y control de los procedimientos que adelanten la Instituciones especializadas en la certificación de aptitud psicofísica para la tenencia y el porte de armas de fuego, corresponderá al Ministerio de Defensa Nacional-Dirección General de Sanidad Militar-Subdirección de Servicios de Salud.
@@ -19287,23 +17199,17 @@ CAPÍTULO 3.
 
 AUTORIZACIÓN TRANSITORIA PARA UNA TRANSFERENCIA DE RECURSOS DE LOS FONDOS INTERNOS DEL MINISTERIO DE DEFENSA NACIONAL ¿FUERZAS MILITARES Y DEL FONDO CUENTA DEL SUBSISTEMA DE SALUD DE LAS FUERZAS MILITARES.
 
-ARTÍCULO
-
 ## art:2.3.2.3.1 — Apoyo
 
 Con los recursos provenientes de Fondos Internos del Ministerio de Defensa Nacional Fuerzas Militares y del Fondo de Defensa Nacional, se apoyará de manera transitoria, por dos años contados a partir del 29 de octubre de 2014 (entrada en vigencia del Decreto 2181 de 2014), al Fondo Cuenta del Subsistema de Salud de las Fuerzas Militares, con el fin de garantizar la prestación del servicio de salud de sus usuarios.
 
 (Decreto 2181 de 2014 artículo 1)
 
-ARTÍCULO
-
 ## art:2.3.2.3.2 — Fondos
 
 Dicho apoyo será restituido por parte del Fondo Cuenta del Subsistema de Salud de las Fuerzas Militares a los Fondos Internos del Ministerio de Defensa Nacional -Fuerzas Militares y al Fondo de Defensa Nacional, dentro de los ocho (8) años siguientes, sin que haya lugar a tasación de interés alguno.
 
 (Decreto 2181 de 2014 artículo 2)
-
-ARTÍCULO
 
 ## art:2.3.2.3.3 — Operaciones Presupuestales
 
@@ -19315,8 +17221,6 @@ CAPÍTULO 4.
 
 DESTRUCCIÓN DE ARMAS.
 
-ARTÍCULO
-
 ## art:2.3.2.4.1 — Destrucción
 
 El Comando General de las Fuerzas Militares, previo concepto del Departamento Control, Comercio, Armas. Municiones y Explosivos, podrá autorizar a la Industria Militar lndumil, la destrucción de las armas recogidas como resultado de campañas cívicas y educativas de desarme y destinar el material resultante a la construcción de monumentos y obras alegóricas a la paz y al desarme, directamente o mediante convenios celebrados para tal fin.
@@ -19326,8 +17230,6 @@ El Comando General de las Fuerzas Militares, previo concepto del Departamento Co
 CAPÍTULO 5.
 
 SOLICITUDES AERONÁUTICA CIVIL
-
-ARTÍCULO
 
 ## art:2.3.2.5.1 — Tramites
 
@@ -19343,8 +17245,6 @@ Toda persona natural o jurídica que adelante trámites ante la autoridad aeron�
 
 (Decreto 0310 artículo 1 modificado por el Decreto 0703 de 2008)
 
-ARTÍCULO
-
 ## art:2.3.2.5.3 — Verificación
 
 En el evento en que las unidades operativas menores posean información respecto de las personas que realizan trámites ante las autoridades aeronáuticas, que permitan inferir que se encuentran envueltas con actividades ilícitas, adelantarán las acciones respectivas en coordinación con la Fiscalía General de la Nación.
@@ -19355,15 +17255,11 @@ CAPÍTULO 6.
 
 INCREMENTO DEL PRESUPUESTO PER CÁPITA PARA EL SECTOR DEFENSA (PPCD) QUE DEBE SER RECONOCIDO POR EL GOBIERNO NACIONAL PARA FINANCIAR EL PLAN DE SERVICIOS DE SANIDAD MILITAR Y SE INCREMENTA EL PORCENTAJE DEL APORTE PARA LOS SERVICIOS MÉDICOS DERIVADOS DE ACCIDENTE DE TRABAJO Y ENFERMEDAD PROFESIONAL (ATEP) PARA EL SUBSISTEMA DE SALUD DE LAS FUERZAS MILITARES.
 
-ARTÍCULO
-
 ## art:2.3.2.6.1 — Aumento del Valor del Presupuesto Per Cápita
 
 Aumentar el valor del Presupuesto Per cápita para el Sector Defensa (PPCD), del veinte por ciento (20%) al veinticinco por ciento (25%), para financiar el Plan de Servicios de Sanidad Militar de los afiliados no sometidos al régimen de cotización del Subsistema de Salud de las Fuerzas Militares, a partir de la vigencia 2015.
 
 (Decreto 2698 de 2014 artículo 1)
-
-ARTÍCULO
 
 ## art:2.3.2.6.2 — 6.2
 
@@ -19371,15 +17267,11 @@ Aumento de la diferencia entre el valor del Presupuesto Per Cápita y la Unidad 
 
 (Decreto 2698 de 2014 artículo 2)
 
-ARTÍCULO
-
 ## art:2.3.2.6.3 — Aumento del Ingreso por Concepto de Accidentes de Trabajo y Enfermedad Profesional -ATEP
 
 Aumentar el ingreso por concepto de Accidentes de Trabajo y Enfermedad Profesional - ATEP - al Subsistema de Salud de las Fuerzas Militares proveniente de la Nómina del Ministerio de Defensa, del dos por ciento (2%) al tres por ciento (3%), a partir de la vigencia 2015.
 
 (Decreto 2698 de 2014 artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.2.6.4 — Destinación Porcentajes
 
@@ -19411,13 +17303,25 @@ El presente Capítulo tiene por objeto establecer las normas y los requisitos pa
 
 (Decreto 1597 de 1988 artículo 1°)
 
+ARTÍCULO 2.4.1.1.1.1. Objeto. Establecer los niveles de responsabilidad de Gente de Mar Colombiana, los criterios generales para su Formación, Licenciamiento y Titulación, para su desempeño a bordo de naves o artefactos navales.
+
+(Modificado por el Art. 1 del Decreto 1063 de 2024)
+
+(Decreto 1597 de 1988 artículo 1)
+
 ## art:2.4.1.1.1.2 — Gente de Mar
 
 Entiéndase por Gente de Mar toda persona que forme parte de la tripulación regular de una nave, y cuyo desempeño a bordo esté acreditado por una Licencia de Navegación, expedida por la Autoridad Marítima. 
 
 (Derogado por el Art. 3 del Decreto 1063 de 2024)
 
-(Decreto 1597 de 1988 artículo 2°)
+(Decreto 1597 de 1988 artículo 2°) 
+
+ARTÍCULO 2.4.1.1.1.2. ÁMBITO DE APLICACIÓN. Las disposiciones del presente capítulo se aplicarán a la gente de mar que se desempeña a bordo de naves o artefactos navales de bandera Colombiana, y en las de bandera extranjera que operen en aguas jurisdiccionales Colombianas.
+
+(Modificado por el Art. 1 del Decreto 1063 de 2024)
+
+(Decreto 1597 de 1988 artículo 2)
 
 ## art:2.4.1.1.1.3 — Actividades
 
@@ -19439,15 +17343,19 @@ Para los efectos del presente Capítulo las actividades de la Gente de Mar se id
 
 (Derogado por el Art. 3 del Decreto 1063 de 2024)
 
+ARTÍCULO 2.4.1.1.1.3. GENTE DE MAR. Entiéndase toda persona que ejerce profesión, oficio, ocupación o función a bordo de naves o artefactos navales, con documento de navegación expedido y/o refrendado por la autoridad marítima nacional.
+
+(Modificado por el Art. 1 del Decreto 1063 de 2024)
+
+(Decreto 1597 de 1988 artículo 3)
+
 ## art:2.4.1.1.1.4 — Personal Marítimo de Tierra
 
 El personal marítimo de tierra comprende aquellas personas que desempeñan en tierra actividades estrechamente relacionadas con la construcción, reparación, reconocimiento e inspección, administración, aprovisionamiento, actividades periciales, seguros, corretajes y flotamiento de naves, y otras actividades similares. 
 
 (Decreto 1597 de 1988 artículo 4°)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.1.5 — ESPECIALIDADES DE LA GENTE DE MAR
 
@@ -19765,17 +17673,13 @@ SECCIÓN 2.
 
 DE LAS TRIPULACIONES DE LAS NAVES DEL TRANSPORTE MARÍTIMO.
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.1 — Tripulaciones de las Naves del Transporte Marítimo
 
 Lo dispuesto en la presente Sección se aplica a las tripulaciones de las naves destinadas al transporte marítimo, tanto internacional como de cabotaje, de conformidad con la Ley 35 de 1981.
 
 (Decreto 1597 de 1988 artículo 5)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.2 — Definiciones
 
@@ -19939,9 +17843,7 @@ Capacidad transportadora de un buque en unidades convencionales obtenidas median
 
 (Decreto 1597 de 1988 artículo 6)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.3 — Categorías Gente de Mar
 
@@ -19955,9 +17857,7 @@ La gente de mar está constituida por tres categorías, así:
 
 (Decreto 1597 de 1988 artículo 7)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.4 — Personal que Desempeña Actividades a Bordo
 
@@ -19971,9 +17871,7 @@ Así mismo, por la actividad desempeñada a bordo se clasifica como sigue:
 
 (Decreto 1597 de 1988 artículo 8)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.5 — Tripulantes que Desempeñan Actividades en el Buque
 
@@ -19989,9 +17887,7 @@ Por la actividad marítima a la cual se dedique el buque, se clasifica en:
 
 (Decreto 1597 de 1988 artículo 9)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.6 — Personal de Cubierta
 
@@ -19999,9 +17895,7 @@ El personal de cubierta está constituido por las personas que desempeñen a bor
 
 (Decreto 1597 de 1988 artículo 10)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.7 — Personal de Maquinas
 
@@ -20009,9 +17903,7 @@ El personal de Máquinas está constituido por los tripulantes cuyas actividades
 
 (Decreto 1597 de 1988 artículo 11)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.8 — Personal de los Servicios
 
@@ -20019,9 +17911,7 @@ El personal de los servicios está compuesto por aquellos tripulantes que se des
 
 (Decreto 1597 de 1988 artículo 12)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.9 — Personal Médico
 
@@ -20029,9 +17919,7 @@ Cuando haya Médico a bordo, éste dependerá del Primer Oficial, salvo en los c
 
 (Decreto 1597 de 1988 artículo 13)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.10 — Labores de Investigación Científica, Exploración y Exploración de los Recursos del Mar
 
@@ -20039,9 +17927,7 @@ Las naves dedicadas a labores de investigación científica, la exploración y l
 
 (Decreto 1597 de 1988 artículo 14)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.11 — Licencia de Navegación
 
@@ -20049,9 +17935,7 @@ La Licencia de Navegación es el documento que acredita la idoneidad del tripula
 
 (Decreto 1597 de 1988 artículo 15)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.12 — Libreta de Embarco
 
@@ -20059,9 +17943,7 @@ La Libreta de Embarco por su parte, acredita, además de los períodos de embarc
 
 (Decreto 1597 de 1988 artículo 16)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.13 — Exámenes Médicos
 
@@ -20069,9 +17951,7 @@ Los exámenes médicos reglamentarios, tanto iniciales como periódicos que debe
 
 (Decreto 1597 de 1988 artículo 17)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.14 — Requisitos Mínimos de Aptitud Psicofísica e Inhabilidades para la Gente de Mar
 
@@ -20079,9 +17959,7 @@ El Director General Marítimo, teniendo en cuenta lo establecido en la sección 
 
 (Decreto 1597 de 1988 artículo 18)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.15 — Embarco Transitorio de Personas
 
@@ -20089,9 +17967,7 @@ El embarco transitorio de personas que no formen parte de la tripulación regula
 
 (Decreto 1597 de 1988 artículo 19)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.16 — Clases de Licencia de Navegación
 
@@ -20109,9 +17985,7 @@ Las Dispensas para Capitanes y Maquinistas Jefes, y para Oficiales de Primera Cl
 
 (Decreto 1597 de 1988 artículo 20)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.17 — Grados de las Licencias
 
@@ -20273,9 +18147,7 @@ Enfermero, Categoría "B".
 
 (Decreto 1597 de 1988 artículo 21)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.18 — Licencias de Navegación en Especialidades Diferentes
 
@@ -20283,9 +18155,7 @@ Cuando la operación de las naves, o la tecnificación de los medios de navegaci
 
 (Decreto 1597 de 1988 artículo 22)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.19 — Requisitos Expedición Licencia de Navegación
 
@@ -20311,9 +18181,7 @@ Para obtener licencia de navegación para el transporte marítimo por primera ve
 
 (Decreto 1597 de 1988 artículo 23)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.20 — Acreditación de Idoneidad Profesional
 
@@ -20355,9 +18223,7 @@ b. Presentar el respectivo certificado de aptitud médica, en la forma dispuesta
 
 (Decreto 1597 de 1988 artículo 24)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.21 — Requisitos Cursos de Formación
 
@@ -20411,9 +18277,7 @@ b. Acreditar haber aprobado el curso de orientación marinera y profesional que 
 
 (Decreto 1597 de 1988 artículo 25)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.22 — Entrenamiento en Tierra y a Bordo
 
@@ -20423,9 +18287,7 @@ La Autoridad Marítima establecerá los mecanismos de control adecuados para gar
 
 (Decreto 1597 de 1988 artículo 26)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.23 — Validez de las Licencias de Navegación
 
@@ -20435,9 +18297,7 @@ De Clase 1 (Regulares), cinco (5) años; Clase 2 (Dispensas), seis (6) meses com
 
 (Decreto 1597 de 1988 artículo 27)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.24 — De los Requisitos para Ascenso
 
@@ -20451,9 +18311,7 @@ Para las Licencias de Navegación posteriores, se deben llenar los siguientes re
 
 (Decreto 1597 de 1988 artículo 28)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.25 — Requisitos Especiales para la Obtención de las Licencias de Navegación de Gente de Mar
 
@@ -20705,9 +18563,7 @@ a. Acreditar debidamente:
 
 (Decreto 1597 de 1988 artículo 29)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.26 — Requisitos Especiales para las Licencias del Personal de Máquinas
 
@@ -20931,9 +18787,7 @@ b. Los demás requisitos complementarios que para este grado establezca la Autor
 
 (Decreto 1597 de 1988 artículo 30)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.27 — Curso de Actualización
 
@@ -20943,9 +18797,7 @@ Sin el cumplimiento de este requisito, no se revalidarán dichas licencias.
 
 (Decreto 1597 de 1988 artículo 31)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.28 — Licencia de Navegación a Maquinistas de Primera Clase y Maquinistas Jefes, de las Categorías "A" Y "B" Y "B" Restringida
 
@@ -20953,9 +18805,7 @@ La Licencia de Navegación que se expida a los maquinistas de Primera Clase y ma
 
 (Decreto 1597 de 1988 artículo 32)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.29 — Oficiales y Marineros de Buques- Tanques Petroleros, de Productos Químicos, o de Gases Licuados
 
@@ -20977,9 +18827,7 @@ b. Haber terminado un programa de formación especializada adecuada para el cump
 
 (Decreto 1597 de 1988 artículo 33)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.30 — Requisitos para Licencia de Navegación del Personal de los Servicios
 
@@ -21105,9 +18953,7 @@ c. Los demás requisitos reglamentarios.
 
 (Decreto 1597 de 1988 artículo 34)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.31 — Adición a Requisitos
 
@@ -21115,9 +18961,7 @@ La Autoridad Marítima podrá adicionar o complementar las materias o los progra
 
 (Decreto 1597 de 1988 artículo 35)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.32 — Licencia de Navegación de Capitán y/o de Maquinista Jefe
 
@@ -21125,9 +18969,7 @@ La Autoridad Marítima queda facultada igualmente para determinar mediante Resol
 
 (Decreto 1597 de 1988 artículo 36)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.33 — Revalidación de Licencias
 
@@ -21147,9 +18989,7 @@ La revalidación de las licencias de navegación se hará mediante solicitud del
 
 (Decreto 1597 de 1988 artículo 37, modificado por el artículo 79 del Decreto Ley 019 de 2002)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.34 — Certificación de Licencia
 
@@ -21157,9 +18997,7 @@ Al presentar estos documentos, y a solicitud expresa verbal del interesado, la C
 
 (Decreto 1597 de 1988 artículo 38)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.35 — Duplicados
 
@@ -21181,9 +19019,7 @@ c. Recibo de pago por valor del duplicado.
 
 (Decreto 1597 de 1988 artículo 39)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.36 — Funciones y Obligaciones del Capitán
 
@@ -21247,15 +19083,11 @@ c. Entregar los presuntos delincuentes a la autoridad respectiva.
 
 (Decreto 1597 de 1988 artículo 40)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.37 — Perdida del Buque
 
 En el caso de que la pérdida del buque se considere inminente y el Capitán haya agotado todos los recursos para evitarla, procurará primero la salvación de los pasajeros, la tripulación, el material y los documentos de valor, en su orden, siendo el último en desembarcar.
 
 (Decreto 1597 de 1988 artículo 41)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.38 — Desempeño del Cargo
 
@@ -21263,15 +19095,11 @@ Mientras se encuentre en desempeño de su cargo, debe considerarse en servido pe
 
 (Decreto 1597 de 1988 artículo 42)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.39 — Patrones de Embarcaciones Menores
 
 En cuanto hace referencia a los Patrones de embarcaciones menores, sus obligaciones y responsabilidades serán similares a las enunciadas por los Capitanes, en la medida que corresponda al porte, tripulación y equipamiento de la nave. La Autoridad Marítima determinará en cada caso, los documentos, reglamentos y equipos que deban llevar a bordo las naves menores.
 
 (Decreto 1597 de 1988 artículo 43)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.40 — Clases de Funciones y Obligaciones de los Oficiales
 
@@ -21282,8 +19110,6 @@ Las funciones y obligaciones de los Oficiales de a bordo son de dos clases, a sa
 2. De cargo.
 
 (Decreto 1597 de 1988 artículo 44)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.41 — Funciones y Obligaciones Generales de los Oficiales
 
@@ -21304,8 +19130,6 @@ Son funciones y obligaciones generales de los Oficiales las siguientes:
 7. Los demás que le asignen la Ley y los Reglamentos.
 
 (Decreto 1597 de 1988 artículo 45)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.42 — Deberes de Cargo de los Oficiales
 
@@ -21373,8 +19197,6 @@ i. Tendrá además en cuenta y dará cumplimiento a las instrucciones adicionale
 
 (Decreto 1597 de 1988 artículo 46)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.43 — Son Funciones y Obligaciones de los Oficiales de Máquinas
 
 Son funciones y obligaciones de los Oficiales de Máquinas, las siguientes:
@@ -21441,8 +19263,6 @@ Aquellos que les asigne el Reglamento Interno del buque, el Capitán o el Maquin
 
 (Decreto 1597 de 1988 artículo 4 7)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.44 — Deberes y Obligaciones del Oficial de Guardia en el Puente
 
 Son deberes y obligaciones del Oficial de Guardia en el Puente, las siguientes;
@@ -21454,8 +19274,6 @@ Son deberes y obligaciones del Oficial de Guardia en el Puente, las siguientes;
 3. Los deberes y obligaciones adicionales contenidas en el presente Capítulo como también en el Reglamento Interno del buque.
 
 (Decreto 1597 de 1988 artículo 48)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.45 — Deberes y Obligaciones del Oficial Maquinista de Guardia
 
@@ -21469,8 +19287,6 @@ Son deberes y obligaciones del Oficial Maquinista de Guardia, las siguientes:
 
 (Decreto 1597 de 1988 artículo 49)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.46 — Funciones y Obligaciones del Oficial de Puente de Guardia en Puerto
 
 Son funciones y obligaciones del Oficial de Puente de Guardia en puerto, las siguientes:
@@ -21481,15 +19297,11 @@ Son funciones y obligaciones del Oficial de Puente de Guardia en puerto, las sig
 
 (Decreto 1597 de 1988 artículo 50)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.47 — Guardia de Puerto de Cubierta
 
 La guardia de puerto de cubierta será prestada por un Oficial si el buque tiene más de 500 T.A.B., o transporta mercancías peligrosas. Caso contrario podrá ser prestada por un Contramaestre (marinero de Primera Clase) si el Capitán lo considera competente para realizarla.
 
 (Decreto 1597 de 1988 artículo 51)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.48 — Deberes y Obligaciones del Oficial Maquinista de Guardia en Puerto
 
@@ -21503,15 +19315,11 @@ Son deberes y obligaciones del Oficial Maquinista de Guardia en puerto, las sigu
 
 (Decreto 1597 de 1988 artículo 52)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.49 — Oficial de Máquinas de Guardia en Puerto
 
 En todo buque con potencia propulsora continua total, superior a 3.000 K.W. habrá siempre un Oficial de Máquinas de guardia en puerto. En los de potencia menor de 3.000 K.W. se podrá prescindir de un Oficial maquinista de guardia en puerto, si el Capitán y el Maquinista Jefe lo consideran seguro, siempre y cuando no se transporten mercancías peligrosas a granel y haya Oficial de guardia de cubierta.
 
 (Decreto 1597 de 1988 artículo 53)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.50 — Deberes y Obligaciones de los Oficiales Auxiliares de Máquinas
 
@@ -21528,8 +19336,6 @@ Son deberes y obligaciones de los oficiales auxiliares de máquinas (electricist
 5. Las demás que le asigne el Capitán, el Maquinista Jefe o el Reglamento Interno del buque, dentro de su capacidad y competencia.
 
 (Decreto 1597 de 1988 artículo 54)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.51 — Deberes y Obligaciones de la Marinería
 
@@ -21577,8 +19383,6 @@ d. Cuidar debidamente del material a su cargo.
 
 (Decreto 1597 de 1988 artículo 55)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.52 — Obligaciones de los Pilotines
 
 Los pilotines embarcados para prácticas están obligados a:
@@ -21597,23 +19401,17 @@ Los pilotines embarcados para prácticas están obligados a:
 
 (Decreto 1597 de 1988 artículo 56)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.53 — Categoría de los Pilotines
 
 Durante su permanencia a bordo, los Pilotines tendrán categoría de Oficial en entrenamiento, sin funciones ni obligaciones específicas distintas de las enunciadas en los artículos anteriores, estando sujetos para todos los efectos, al Reglamento Interno del buque.
 
 (Decreto 1597 de 1988 artículo 57)
 
-ARTÍCULO
-
 ## art:2.4.1.1.2.54 — Capitanes y Oficiales de Puente Regionales de Categoría "B" Restringida
 
 La Dirección General Marítima podrá habilitar Capitanes y Oficiales de Puente Regionales de Categoría "B" Restringida, para desempeñar los respectivos cargos en buques hasta de 4.000 T.R.B. para el cual están facultados a bordo de buques que efectúen navegación de altura a las Islas de San Andrés y Providencia u otras Islas colombianas situadas a más de 12 millas de la Costa Continental, si previamente acreditan haber efectuado a satisfacción, un curso adecuado de navegación astronómica, aceptado por dicha Autoridad.
 
 (Decreto 1597 de 1988 artículo 58)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2.55 — Personal Naval en Servicio Activo, o en Retiro
 
@@ -21767,9 +19565,7 @@ d. Los demás requisitos reglamentarios.
 
 (Decreto 1597 de 1988 artículo 59)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.56 — Licencias de Navegación de Carácter Especial
 
@@ -21777,9 +19573,7 @@ Las Licencias de Navegación para Oficiales Superiores a que hacen referencia lo
 
 (Decreto 1597 de 1988 artículo 60)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.57 — Personal en Situación de Retiro con más de Tres Meses
 
@@ -21787,9 +19581,7 @@ El personal naval de la Armada Nacional en situación de retiro. con más de tre
 
 (Decreto 1597 de 1988 artículo 61)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.58 — Personal en Retiro con más de Cinco Años
 
@@ -21797,9 +19589,7 @@ El personal naval en retiro con más de cinco (5) años de no haberse embarcado,
 
 (Decreto 1597 de 1988 artículo 62)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.59 — Entrenamiento de Pilotines
 
@@ -21807,9 +19597,7 @@ Los Armadores colombianos cuyas naves mercantes sean consideradas aptas por la A
 
 (Decreto 1597 de 1988 artículo 63)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.60 — Calificación Entrenamiento
 
@@ -21817,9 +19605,7 @@ La calificación de aptitud de las naves mercantes para dicho entrenamiento de P
 
 (Decreto 1597 de 1988 artículo 64)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.2.61 — Embarco de Prácticas de los Pilotines
 
@@ -21835,15 +19621,11 @@ DE LOS CENTROS DE FORMACIÓN, CAPACITACIÓN Y ENTRENAMIENTO DE GENTE DE MAR.
 
 (Derogado por el Art. 3 del Decreto 1063 de 2024)
 
-ARTÍCULO
-
 ## art:2.4.1.1.3.1 — Centros de Formación, Capacitación y Entrenamiento
 
 Para que los estudios y prácticas marineras efectuadas en los Centros de Formación. Capacitación y Entrenamiento constituidos, o que se constituyan en el país, sean reconocidos por la Autoridad Marítima y sus egresados tengan derecho a obtener la correspondiente Licencia de Navegación, dichos cursos y sus programas y prácticas, incluyendo la idoneidad del profesorado respectivo, han de corresponder a las prescripciones establecidas en este Capítulo y los programas fijados por la Autoridad Marítima debiendo ser previamente reconocidos por dicha Autoridad mediante el Acto Administrativo correspondiente.
 
 (Decreto 1597 de 1988 artículo 66)
-
-ARTÍCULO
 
 ## art:2.4.1.1.3.2 — Reconocimiento
 
@@ -21851,23 +19633,17 @@ Para efectos del reconocimiento a que hace referencia el artículo anterior, el 
 
 (Decreto 1597 de 1988 artículo 67)
 
-ARTÍCULO
-
 ## art:2.4.1.1.3.3 — Verificación de Condiciones
 
 La Autoridad Marítima, si considera que en principio se satisfacen los requisitos establecidos en el presente capítulo dispondrá una visita al Centro de Formación, Capacitación y Entrenamiento, por parte de funcionarios designados para tal efecto, a fin de verificar las condiciones generales de los medios relacionados y si el resultado es satisfactorio, expedirá el respectivo "Reconocimiento de Programa".
 
 (Decreto 1597 de 1988 artículo 68)
 
-ARTÍCULO
-
 ## art:2.4.1.1.3.4 — Profesores de los Centros de Formación, Capacitación y Entrenamiento
 
 Como norma general para el profesorado de dichos Centros de Formación, Capacitación y Entrenamiento, los profesores de materias náuticas con excepción del Derecho Marítimo, Legislación Marítima, Economía Marítima y Construcción Naval, estarán en posesión de Licencia de Navegación de la clase y categoría que determine la Autoridad Marítima, según la intensidad de la materia y/o la clase de formación que se proyecte. Los demás profesores deberán acreditar su respectivo título nacional o credencial que los acredite para desempeñarse como profesores de dichas materias.
 
 (Decreto 1597 de 1988 artículo 69)
-
-ARTÍCULO
 
 ## art:2.4.1.1.3.5 — Vigilancia
 
@@ -21880,8 +19656,6 @@ SECCIÓN 4.
 DE LOS ESTUDIOS NÁUTICOS EFECTUADOS POR NACIONALES COLOMBIANOS EN EL EXTERIOR.
 
 (Derogado por el Art. 3 del Decreto 1063 de 2024)
-
-ARTÍCULO
 
 ## art:2.4.1.1.4.1 — Cursos en Escuelas Náuticas Extranjeras
 
@@ -21899,8 +19673,6 @@ Los nacionales colombianos que efectúen cursos en Escuelas Náuticas Extranjera
 
 (Decreto 1597 de 1988 artículo 71)
 
-ARTÍCULO
-
 ## art:2.4.1.1.4.2 — Reconocimiento
 
 La Autoridad Marítima solamente tendrá en cuenta los estudios náuticos efectuados en los Centros de Formación, Capacitación y Entrenamiento de reconocida idoneidad y/o con pensum y programas que correspondan con los contemplados en la Ley 35/81.
@@ -21913,15 +19685,11 @@ DE LA REFRENDACIÓN DE LICENCIAS DE NAVEGACIÓN A MARINOS EXTRANJEROS.
 
 (Derogado por el Art. 3 del Decreto 1063 de 2024)
 
-ARTÍCULO
-
 ## art:2.4.1.1.5.1 — Vinculación de Marinos Extranjeros
 
 La vinculación de marinos extranjeros a la Marina Mercante Colombiana, estará condicionada a que exista escasez real, o aparente significativa, de marinos mercantes nacionales de la especialidad y categoría respectiva.
 
 (Decreto 1597 de 1988 artículo 73)
-
-ARTÍCULO
 
 ## art:2.4.1.1.5.2 — Requisitos para Vinculación
 
@@ -21941,15 +19709,11 @@ Dicha vinculación deberá ser solicitada directamente por el Armador Nacional, 
 
 (Decreto 1597 de 1988 artículo 74)
 
-ARTÍCULO
-
 ## art:2.4.1.1.5.3 — Marino Extranjero con Licencia
 
 El armador colombiano suministrará a todo marino extranjero a quien la Autoridad Marítima le refrende su licencia, copias de la Legislación Marítima Colombiana, incluyendo el presente Capítulo, las disposiciones sobre Reconocimientos, Certificaciones, etc., responsabilizándose expresamente en su solicitud, por la adecuada inducción y cumplimiento del marino extranjero sobre estos aspectos.
 
 (Decreto 1597 de 1988 artículo 75)
-
-ARTÍCULO
 
 ## art:2.4.1.1.5.4 — Refrendaciones
 
@@ -21958,8 +19722,6 @@ La Autoridad Marítima solamente tendrá en cuenta para estas refrendaciones, la
 1. Licencias de navegación o títulos expedidos por las Administraciones Marítimas de países parte del Convenio, en virtud de tales normas.
 
 (Decreto 1597 de 1988 artículo 76)
-
-ARTÍCULO
 
 ## art:2.4.1.1.5.5 — Vigencia de Licencias
 
@@ -21970,8 +19732,6 @@ Cumplidos los requisitos establecidos bajo la presente Sección, la Autoridad Ma
 SECCIÓN 6.
 
 DE LAS INFRACCIONES, SANCIONES Y MULTAS.
-
-ARTÍCULO
 
 ## art:2.4.1.1.6.1 — Sanciones y Multas
 
@@ -21990,8 +19750,6 @@ De conformidad con lo dispuesto en el Artículo
 5. El Armador que autorice u ordene el embarco de cualquier tripulante que no tenga la correspondiente licencia colombiana vigente, incurrirá en una multa de diez (10) a sesenta (60) salarios mínimos diarios por primera vez, y entre sesenta (60) y cien (100) salarios mínimos diarios en caso de reincidencia, de conformidad con la categoría del tripulante.
 
 (Decreto 1597 de 1988 artículo 78)
-
-ARTÍCULO
 
 ## art:2.4.1.1.6.2 — Suspensión de Licencias
 
@@ -22031,15 +19789,11 @@ Serán causales de suspensión de la licencia de navegación entre seis (6) mese
 
 (Decreto 1597 de 1988 artículo 79)
 
-ARTÍCULO
-
 ## art:2.4.1.1.6.3 — Liquidación de las Multas
 
 Para la liquidación de las multas en salarios mínimos de conformidad con los artículos anteriores del presente Título, se tomará el salario mínimo diario vigente en la fecha en la cual sea cometida la infracción, o en su defecto cuando sea constatada por la Autoridad Marítima.
 
 (Decreto 1597 de 1988 artículo 80)
-
-ARTÍCULO
 
 ## art:2.4.1.1.6.4 — Cancelación de las Licencias
 
@@ -22053,15 +19807,11 @@ Son causales de la cancelación de la Licencia de Navegación las siguientes:
 
 (Decreto 1597 de 1988 artículo 81)
 
-ARTÍCULO
-
 ## art:2.4.1.1.6.5 — Competencia Investigaciones
 
 Los hechos a que se refieren los artículos 2.4.1.1.6.1., a 2.4.1.1.6.4., inclusive, serán investigados por el Capitán de Puerto que conozca de los hechos en primera instancia y su fallo tendrá los recursos que para tales casos señala la Ley.
 
 (Decreto 1597 de 1988 artículo 82)
-
-ARTÍCULO
 
 ## art:2.4.1.1.6.6 — Independencia de las Sanciones y Multas
 
@@ -22075,8 +19825,6 @@ OTRAS DISPOSICIONES COMUNES A LAS SECCIONES ANTERIORES.
 
 (Derogado por el Art. 3 del Decreto 1063 de 2024)
 
-ARTÍCULO
-
 ## art:2.4.1.1.7.1 — Libreta de Embarco
 
 Los embarcos de los Capitanes Patrones de buques serán registrados y certificados en la Libreta de Embarco por el Capitán de Puerto, mediante el siguiente procedimiento:
@@ -22089,15 +19837,11 @@ PARÁGRAFO . Cuando el desembarco del Capitán o Patrón tenga lugar en puerto e
 
 (Decreto 1597 de 1988 artículo 84)
 
-ARTÍCULO
-
 ## art:2.4.1.1.7.2 — Expedición de las Libretas de Embarco
 
 Las Libretas de embarco serán expedidas por primera vez por las Capitanías de Puerto, o por la Autoridad Marítima. En los demás casos incluyendo la expedición de duplicados, su trámite se hará en lo posible por la Capitanía de Puerto más cercana donde se encuentre el interesado. Sus registros de embarco y desembarco debidamente diligenciados, constituyen la única constancia oficial sobre tiempo de embarco para todos los efectos donde debe acreditarse un tiempo mínimo de embarco.
 
 (Decreto 1597 de 1988 artículo 85)
-
-ARTÍCULO
 
 ## art:2.4.1.1.7.3 — Materias y Programas para Cursos de Formación Complementación o Actualización
 
@@ -22105,15 +19849,11 @@ Las materias y los programas respectivos para los diferentes cursos de formació
 
 (Decreto 1597 de 1988 artículo 89)
 
-ARTÍCULO
-
 ## art:2.4.1.1.7.4 — Reconocimiento de Cursos
 
 Para que los cursos antes citados, sean reconocidos por la Autoridad Marítima, los planteles donde se realicen deberán obtener previamente de dicha Autoridad el respectivo reconocimiento de sus programas, prácticas y profesorado. Tales planteles serán inspeccionados periódica y detalladamente para constatar su idoneidad, quedando obligados a dar todas las facilidades a los inspectores designados por la Autoridad Marítima, para el cumplimiento de sus funciones.
 
 (Decreto 1597 de 1988 artículo 90)
-
-ARTÍCULO
 
 ## art:2.4.1.1.7.5 — 7.5
 
@@ -22121,23 +19861,17 @@ Capitanes Regionales Categoría "C" con Funciones de Oficiales de Puente Regiona
 
 (Decreto 1597 de 1988 artículo 91)
 
-ARTÍCULO
-
 ## art:2.4.1.1.7.6 — Capitanes de Altura, categoría "B" con Funciones de Oficiales de Puente de Altura de 1ª clase, Categoría "A"
 
 En cuanto a los Capitanes de Altura, Categoría "B", que acrediten un mínimo de un (1) año como Capitán de buque de navegación oceánica de más de 1.200 T.A.B., podrán desempeñase como Oficiales de Puente de Altura de 1ª Clase, Categoría "A", para lo cual deberán obtener previamente la correspondiente certificación de esta facultad por parte del Director General Marítimo, en su Licencia de Navegación, Clase "B".
 
 (Decreto 1597 de 1988 artículo 92)
 
-ARTÍCULO
-
 ## art:2.4.1.1.7.7 — Pilotines de altura y los Guardiamarinas
 
 Los Pilotines de Altura y los Guardiamarinas que habiendo cumplido su programa académico y embarcos de prácticas reglamentarios no se gradúen, podrán, mediante Certificación de los estudios y prácticas realizadas, por parte del Centro de Formación, Capacitación y Entrenamiento, y evaluación de las causas de su retiro por parte de la Autoridad Marítima, obtener expedición de la Licencia de Navegación de la misma categoría, en navegación regional.
 
 (Decreto 1597 de 1988 artículo 93)
-
-ARTÍCULO
 
 ## art:2.4.1.1.7.8 — Requisitos Licencia de Patrón de Bote Salvavidas
 
@@ -22151,8 +19885,6 @@ Para la obtención de la Licencia de Patrón de bote salvavidas (operador de emb
 
 (Decreto 1597 de 1988 artículo 94)
 
-ARTÍCULO
-
 ## art:2.4.1.1.7.9 — Autorizaciones Especiales
 
 El cargo de Capitán en buques de navegación regional de 2.600 o más T.A.B., serán desempeñados por Capitanes u Oficiales de Altura de Primera Clase. En igual forma, los cargos de Maquinista Jefe y Maquinista de Primera Clase, en buques de navegación regional con potencia propulsora continua mayor de 1.200 K.W., podrán desempeñarse por Maquinista Jefes o de Primera Clase, de Altura.
@@ -22160,8 +19892,6 @@ El cargo de Capitán en buques de navegación regional de 2.600 o más T.A.B., s
 Estos Oficiales de Primera Clase, deben obtener previamente la correspondiente AUTORIZACIÓN ESPECIAL de la Autoridad Marítima, para lo cual deberán acreditar debidamente haberse desempeñado como tales, un mínimo de dos (2) años, a bordo de buque de navegación oceánica.
 
 (Decreto 1597 de 1988 artículo 95)
-
-ARTÍCULO
 
 ## art:2.4.1.1.7.10 — Restauración de Idoneidad
 
@@ -22183,25 +19913,19 @@ SECCIÓN 8.
 
 DE LAS TRIPULACIONES DE LAS NAVES DE PESCA COMERCIAL, DE RECREO Y OTRAS.
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.1 — Objeto
 
 Las disposiciones de la presente Sección están relacionadas con la gente de mar vinculada a las actividades de pesca comercial, tanto industrial como artesanal; a la que tripula las naves de recreo y a la que realiza actividades deportivas marinas.
 
 (Decreto 1597 de 1988 artículo 97)
 
-(Derogado por el Art. 3 del Decreto 1063 de 2024) 
-
-ARTÍCULO
+(Derogado por el Art. 3 del Decreto 1063 de 2024)
 
 ## art:2.4.1.1.8.2 — Idoneidad
 
 Estas tripulaciones están bajo control directo de la Autoridad Marítima y para su ejercicio algunos tripulantes requerirán de una licencia de navegación que acredite su idoneidad, en la forma que más adelante se indica.
 
 (Decreto 1597 de 1988 artículo 98)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.3 — Definiciones
 
@@ -22293,8 +20017,6 @@ La realizada como recreación o deporte, sin otra finalidad que su realización 
 
 (Decreto 1597 de 1988 artículo 99)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.4 — Grados y Licencias
 
 La tripulación de las naves de pesca industrial contempla los siguientes grados y Licencias de Navegación:
@@ -22335,23 +20057,17 @@ Motorista de Pesca Regional
 
 (Decreto 1597 de 1988 artículo 100)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.5 — Tripulación Independiente
 
 Cuando por razones del tamaño de la nave pesquera, la clase de navegación que efectúe, o las características técnicas de la maquinaria o de los equipos instalados a bordo, sea necesaria una tripulación independiente para atender la navegación, ésta estará constituida por personal de pesca o del transporte comercial marítimo, de la categoría correspondiente.
 
 (Decreto 1597 de 1988 artículo 101)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.6 — Licencias de Navegación
 
 Todo tripulante de nave pesquera industrial deberá estar en posesión de una licencia de navegación expedida por la Autoridad Marítima, en la cual se indicará el grado y la idoneidad del titular para desempeñarse a bordo.
 
 (Decreto 1597 de 1988 artículo 102)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.7 — Requisitos Licencia de Navegación
 
@@ -22493,15 +20209,11 @@ n. Para Licencia de Maquinista Jefe de Pesca de Altura
 
 (Decreto 1597 de 1988 artículo 103)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.8 — Validez Licencias de Navegación
 
 La validez de las Licencias de Navegación para el personal de pesca industrial, será de cinco (5) años pero condicionada al resultado satisfactorio del examen médico bianual para tripulantes pesqueros, sin el cual la Licencia de Navegación no será válida, debiendo el Armador en tales casos, entregar la licencia a la Capitanía de Puerto, la cual la retendrá hasta tanto el tripulante no presente su examen médico satisfactorio.
 
 (Decreto 1597 de 1988 artículo 104)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.9 — Revalidación Licencias de Navegación
 
@@ -22509,15 +20221,11 @@ La revalidación dará lugar a la expedición de una licencia nueva por lo tanto
 
 (Decreto 1597 de 1988 artículo 105)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.10 — Libreta de Embarco
 
 Todo tripulante de buque de pesca industrial deberá tener su Libreta de Embarco para pescadores, expedida por la Capitanía de Puerto, en la cual se registrarán las faenas de pesca en el mar, los exámenes médicos periódicos y las vacunaciones aplicadas al tripulante.
 
 (Decreto 1597 de 1988 artículo 106)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.11 — Custodia de la Libreta
 
@@ -22525,23 +20233,17 @@ Dicha Libreta de Embarco será entregada por el tripulante al Armador al ser con
 
 (Decreto 1597 de 1988 artículo 107)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.12 — Obligación del Armador
 
 El Armador está obligado a registrar en dicha libreta, en el folio respectivo, los períodos de faenas efectivas de pesca en cada buque, constatados mediante la anotación de las fechas de zarpe y de entrada del buque a puerto después de cada faena registrando el resto de información correspondiente y firmando en la columna respectiva cada una de dichas faenas en el mar.
 
 (Decreto 1597 de 1988 artículo 108)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.13 — Libro de Registro de Faenas de Pesca
 
 Anualmente, en el mes de enero, los Armadores de naves de pesca industrial presentarán en las Capitanías de Puerto las Libretas de Embarco de todos los tripulantes pesqueros a su servicio, para control y registro de dichos embarcos en el "Libro de Registro de Faenas de Pesca" que llevará la Capitanía de Puerto. Estos registros se harán en forma global para cada tripulante, anotando el total de días de faenas en el año, y en forma parcial que deberán también ser registrados en la libreta del tripulante, en el renglón siguiente a la última anotación del Armador, siendo firmada por el Secretario de la Capitanía. Una vez diligenciadas las Libretas de Embarco de los pescadores, serán devueltas al Armador correspondiente.
 
 (Decreto 1597 de 1988 artículo 109)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.14 — Funciones y Obligaciones del Capitán de Buque de Pesca
 
@@ -22563,23 +20265,17 @@ Son funciones y obligaciones del Capitán de buque de pesca, y en la medida que 
 
 (Decreto 1597 de 1988 artículo 110)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.15 — Casos de Naufragio o Pérdida del Buque
 
 En caso de naufragio o de que la pérdida del buque sea inminente, procurará salvar los tripulantes, el material y los documentos de valor en su orden.
 
 (Decreto 1597 de 1988 artículo 111)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.16 — Desempeño del Cargo
 
 Mientras se encuentre en el desempeño de su caigo, debe considerarse en servicio permanente, sin limitaciones de ninguna clase.
 
 (Decreto 1597 de 1988 artículo 112)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.17 — Clases de Funciones y Obligaciones de los Oficiales de Pesca
 
@@ -22590,8 +20286,6 @@ Las funciones y obligaciones de los Oficiales de a bordo son de dos clases, a sa
 2. De cargo
 
 (Decreto 1597 de 1988 artículo 113)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.18 — Funciones y Obligaciones Generales de los Oficiales de Pesca
 
@@ -22611,15 +20305,11 @@ Son funciones y obligaciones generales de la Oficialidad de Pesca, las siguiente
 
 (Decreto 1597 de 1988 artículo 114)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.19 — Deberes de Cargo de los Oficiales de Pesca
 
 Los deberes de Cargo de los Oficiales de Pesca serán reglamentados por la Autoridad Marítima oportunamente. Hasta tanto dichos deberes de cargo no hayan sido asignados por la Autoridad Marítima, dichos deberes serán asignados por el Capitán o por el Armador.
 
 (Decreto 1597 de 1988 artículo 115)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.20 — Deberes y Obligaciones de la Marinería
 
@@ -22645,23 +20335,17 @@ c. Llevar a cabo las faenas de pesca de conformidad con la organización interna
 
 (Decreto 1597de 1988artículo 116)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.21 — Acreditación de Idoneidad
 
 Solamente se acreditará la idoneidad del Patrón de Pesca Artesanal. Los demás tripulantes únicamente requerirán de una tarjeta de constancia de inscripciones, en la Capitanía de Puerto. Si se trata de Nave Mayor la persona al mando de la nave deberá estar en posesión de Licencia de Capitán de Pesca Regional.
 
 (Decreto 1597 de 1988 artículo 117)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.22 — Licencia de Navegación
 
 Todo Patrón de Nave de pesca artesanal estará en posesión de su correspondiente licencia de navegación, expedida por la Autoridad Marítima. Para ello sin embargo la Autoridad Marítima dará un plazo prudencial, mientras los interesados puedan demostrar su idoneidad, no mayor de doce (12) meses, vencido el cual deberán obtener su licencia de Patrón de Pesca Artesanal, con las restricciones que fueren necesarias.
 
 (Decreto 1597 de 1988 artículo 118)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.23 — Requisitos Licencia de Patrón de Nave de Pesca Artesanal
 
@@ -22695,15 +20379,11 @@ Para obtener licencia de Patrón de nave de pesca artesanal, los interesados deb
 
 (Decreto 1597 de 1988 artículo 119)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.24 — Validez Licencia de Navegación para Patrón de Pesca Artesanal
 
 La Licencia de Navegación para Patrón de Pesca Artesanal tendrá una validez de cinco (5) años y para su revalidación será indispensable la presentación de certificado médico de aptitud para el ejercicio de la actividad, con no más de treinta (30) días de haber sido expedido.
 
 (Decreto 1597 de 1988 artículo 120)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.25 — Libreta de Embarco
 
@@ -22711,23 +20391,17 @@ El Patrón de Pesca Artesanal no requiere de Libreta de Embarco.
 
 (Decreto 1597 de 1988 artículo 121)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.26 — Certificado de Aptitud Física
 
 El certificado de aptitud física para el desempeño de actividad, al que hace referencia el artículo 2.4.1.1.8.24., consistirá en una certificación de que el examinador no sufre, o padece de novedad psicofísica que le impida desarrollar la actividad de la pesca artesanal, con seguridad y competencia, y es apto para vivir en comunidad.
 
 (Decreto 1597 de 1988 artículo 122)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.27 — Licencia de Navegación en Yates de Recreo
 
 En los yates de recreo, solamente las tripulaciones de cubierta y de máquinas requerirán de licencia de navegación expedida por la Autoridad Marítima. Al resto de tripulación de dichas naves sólo se le expedirá una Tarjeta de Autorización, expedida en la Capitanía de Puerto. En el caso de tener dicho tripulante licencia de navegación de cualquier clase, en la respectiva especialidad, no requerirá de Tarjeta de Autorización.
 
 (Decreto 1597 de 1988 artículo 123)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.28 — Grados de las Licencias
 
@@ -22757,23 +20431,17 @@ Marinero de Máquinas de Yate.
 
 (Decreto 1597 de 1988 artículo 124)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.29 — Licencia de Navegación para Naves Deportivas
 
 En las embarcaciones deportivas la única persona a bordo que requiere de licencia de navegación expedida por la Autoridad Marítima, es el Patrón de la embarcación (Patrón Deportivo), siempre y cuando que la embarcación salga a mar abierto, tenga más de 6 metros de eslora o lleve más de tres personas a bordo. En todos los casos, la idoneidad de los tripulantes auxiliares será de responsabilidad exclusiva del Patrón de la embarcación (o persona que la dirige).
 
 (Decreto 1597 de 1988 artículo 125)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.30 — Tripulaciones de Naves de Recreo, y Patrones de Embarcaciones Deportivas
 
 Tanto las tripulaciones de las naves de recreo, como los Patrones de embarcaciones deportivas, no requerirán de Libreta de Embarco.
 
 (Decreto 1597 de 1988 artículo 126)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.31 — Requisitos Licencia de Navegación como Tripulante de Nave de Recreo o Patrón de Embarcación Deportiva
 
@@ -22787,15 +20455,11 @@ Para obtener Licencia de Navegación como tripulante de nave de recreo, o Patró
 
 (Decreto 1597 de 1988 artículo 127)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.32 — Tripulantes de Naves de Transporte Comercial Marítimo
 
 Los tripulantes de naves dedicadas al transporte comercial marítimo tienen facultad para desempeñarse en naves de recreo en categorías y cargos similares a los de las naves comerciales.
 
 (Decreto 1597 de 1988 artículo 128)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.33 — Validez Licencias para Tripulantes de Embarcaciones de Recreo y Deportivas
 
@@ -22803,15 +20467,11 @@ La validez de las Licencias para tripulantes de embarcaciones de recreo y deport
 
 (Decreto 1597 de 1988 artículo 129)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.34 — Revalidación de Licencias
 
 Para revalidar la Licencia por un período, el tripulante presentará su solicitud ante la Autoridad Marítima, junto con el original de la licencia y el recibo de pago de los derechos de licencia y del formato de la misma.
 
 (Decreto 1597 de 1988 artículo 130)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.35 — Idoneidad
 
@@ -22882,8 +20542,6 @@ a. Haber navegado un mínimo de un (1) año en actividades deportivas o de cualq
 b. Aprobar el examen respectivo.
 
 (Decreto 1597de 1988 artículo 131)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.36 — Facultades
 
@@ -22987,15 +20645,11 @@ Apto para mando de nave menor deportiva
 
 (Decreto 1597 de 1988 artículo 132)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8.37 — Materias y Programas para Cursos de Formación, Capacitación y Entrenamiento
 
 La Autoridad Marítima elaborará y publicará las listas de materias y los respectivos programas, tanto para la formación (cursos de Centro de Formación, Capacitación y Entrenamiento) de la gente de mar a que se refiere el presente capítulo, como para los ascensos de dicho personal. Tales listas y programas serán establecidos por la Autoridad Marítima mediante el Acto Administrativo correspondiente.
 
 (Decreto 1597 de 1988 artículo 133)
-
-ARTÍCULO
 
 ## art:2.4.1.1.8.38 — Disposiciones Disciplinarias
 
@@ -23010,8 +20664,6 @@ DEL SERVICIO PÚBLICO DE PRACTICAJE.
 SECCIÓN 1.
 
 GENERALIDADES.
-
-ARTÍCULO
 
 ## art:2.4.1.2.1.1 — Definiciones
 
@@ -23045,8 +20697,6 @@ b) Período de sobre aviso o retén. Es el período de tiempo durante el cual el
 
 (Decreto 1466 de 2004 artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.1.2.1.2 — Áreas de Practicaje
 
 La Autoridad Marítima de acuerdo con sus competencias determinará las áreas para el ejercicio del servicio público de practicaje, en las áreas marítimas y fluviales de su jurisdicción.
@@ -23071,8 +20721,6 @@ SECCIÓN 2.
 
 DE LOS PILOTOS PRÁCTICOS.
 
-ARTÍCULO
-
 ## art:2.4.1.2.2.1 — Aptitud Sicofísica del Piloto Práctico
 
 La certificación de aptitud psicofísica es una condición esencial para la expedición de la licencia de practicaje, razón por la cual todos los pilotos prácticos deberán presentar anualmente los exámenes que acrediten su aptitud y sus condiciones psicofísicas, en los formatos determinados para tal fin por la Autoridad Marítima Nacional
@@ -23090,8 +20738,6 @@ PARÁGRAFO 3. La no presentación de la certificación en la fecha debida hará 
 PARÁGRAFO 4. En el caso de que un piloto práctico sufra una herida o enfermedad grave que le impida el desempeño de la actividad de practicaje, deberá presentar nuevamente el examen médico, así como la prueba física, con el fin de que le sea certificada su aptitud.
 
 (Decreto 1466 de 2004 artículo 3)
-
-ARTÍCULO
 
 ## art:2.4.1.2.2.2 — Piloto Práctico no Formal
 
@@ -23117,8 +20763,6 @@ SECCIÓN 3.
 
 DE LAS LICENCIAS.
 
-ARTÍCULO
-
 ## art:2.4.1.2.3.1 — Renovación de la Licencia
 
 Para la renovación de la licencia de piloto práctico en la misma categoría, el interesado deberá diligenciar el formato correspondiente anexando:
@@ -23137,8 +20781,6 @@ PARÁGRAFO . La Autoridad Marítima Nacional podrá cambiar el número de maniob
 
 (Decreto 1466 de 2004 artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.1.2.3.2 — Trámite Extemporáneo de Renovación de la Licencia de Piloto Práctico
 
 El piloto práctico que solicite renovar su licencia fuera del término establecido en el artículo 28 de la ley 658 de 2001, se le expedirá una nueva siempre y cuando acredite los requisitos establecidos para obtener una similar en la categoría que ostentaba y no haya incurrido en inactividad por más de 12 meses contados a partir de la última maniobra certificada por la Capitanía de Puerto, en vigencia de la licencia.
@@ -23146,8 +20788,6 @@ El piloto práctico que solicite renovar su licencia fuera del término establec
 PARÁGRAFO . El piloto práctico que solicite la renovación fuera del término establecido e incurra en una inactividad mayor a 12 meses contados a partir de la última maniobra certificada por la Capitanía de Puerto, en vigencia de la licencia, deberá cumplir los requisitos establecidos en el numeral 1 del artículo 24 de la Ley 658 de 2001.
 
 (Decreto 3703 de 2007 artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.1.2.3.3 — Examen de Inglés
 
@@ -23161,15 +20801,11 @@ SECCIÓN 4.
 
 DEL PROCESO DE SELECCIÓN.
 
-ARTÍCULO
-
 ## art:2.4.1.2.4.1 — Convocatorias
 
 La Autoridad Marítima Nacional recibirá solicitudes para entrenamiento de aspirantes a piloto práctico, dentro de los 10primeros días hábiles de enero, mayo y septiembre de cada año.
 
 (Decreto 1466 de 2004 artículo 7, modificado por el artículo 2 del Decreto 3703 de 2007)
-
-ARTÍCULO
 
 ## art:2.4.1.2.4.2 — Proceso de Selección para Aspirante a Piloto Práctico
 
@@ -23199,8 +20835,6 @@ PARÁGRAFO 2. Los aspirantes a piloto práctico oficial estarán sometidos al mi
 
 (Decreto 1466 de 2004 artículo 8)
 
-ARTÍCULO
-
 ## art:2.4.1.2.4.3 — Evaluación de Admisión
 
 La evaluación de admisión comprenderá los siguientes temas:
@@ -23216,8 +20850,6 @@ d) Meteorología e hidrografía.
 El examen tendrá carácter eliminatorio y será aprobado cuando se obtenga una puntuación superior al 80%.
 
 (Decreto 1466 de 2004 artículo 9)
-
-ARTÍCULO
 
 ## art:2.4.1.2.4.4 — Examen Médico y Psicológico
 
@@ -23235,15 +20867,11 @@ Cualquier otra condición que implique una incapacidad repentina o una complicac
 
 (Decreto 1466 de 2004 artículo 10)
 
-ARTÍCULO
-
 ## art:2.4.1.2.4.5 — Prueba Física
 
 Debe ser realizada por el aspirante a piloto práctico de segunda categoría que haya sido seleccionado como apto, de conformidad con los resultados de los exámenes médicos.
 
 (Decreto 1466 de 2004 artículo 11)
-
-ARTÍCULO
 
 ## art:2.4.1.2.4.6 — Validez de los Exámenes
 
@@ -23251,23 +20879,17 @@ La evaluación de admisión y el examen de inglés tendrán una validez de 12 me
 
 (Decreto 1466 de 2004 artículo 12)
 
-ARTÍCULO
-
 ## art:2.4.1.2.4.7 — Examen de Inglés
 
 El aspirante a piloto práctico de segunda categoría será evaluado en su dominio del idioma y en el conocimiento del vocabulario y frases normalizadas de la Organización Marítima internacional-OMl-para las comunicaciones marítimas, realizado por un Centro o Instituto Especializado y reconocido por la Autoridad Marítima Nacional, en el cual debe obtener una calificación igual o superior al 80%.
 
 (Decreto 1466 de 2004 artículo 13)
 
-ARTÍCULO
-
 ## art:2.4.1.2.4.8 — Maniobras de Entrenamiento
 
 Aprobadas las pruebas anteriores, el aspirante a piloto práctico, así como los pilotos prácticos por cambio de categoría y/ o de jurisdicción deberán llevar a cabo el número de maniobras requeridas para obtener la licencia en la categoría correspondiente.
 
 (Decreto 1466 de 2004 artículo 14)
-
-ARTÍCULO
 
 ## art:2.4.1.2.4.9 — Examen de Competencia
 
@@ -23284,8 +20906,6 @@ Las maniobras de evaluación se realizarán en los buques designados por el Capi
 3. Para pilotos práctico maestro: buques mayores de 50.000 T.R.B.
 
 (Decreto 1466 de 2004 artículo 15, adicionado por el artículo 3 del Decreto 3703 de 2007)
-
-ARTÍCULO
 
 ## art:2.4.1.2.4.10 — Pilotos Prácticos por Cambio de Categoría y/o Jurisdicción
 
@@ -23306,8 +20926,6 @@ SECCIÓN 5.
 DEL ENTRENAMIENTO DE ASPIRANTES A PILOTO PRÁCTICO DE SEGUNDA CATEGORÍA Y PILOTOS POR CAMBIO DE CATEGORÍA
 
 Y JURISDICCIÓN.
-
-ARTÍCULO
 
 ## art:2.4.1.2.5.1 — Procedimiento para la Solicitud y Práctica de las Maniobras que hacen parte del Entrenamiento
 
@@ -23351,8 +20969,6 @@ PARÁGRAFO . Para el entrenamiento de los pilotos prácticos oficiales, la Autor
 
 (Decreto 1466 de 2004 artículo 17, modificado por el Decreto 3703 de 2007)
 
-ARTÍCULO
-
 ## art:2.4.1.2.5.2 — Práctica de Nuevos Exámenes de Competencia
 
 El Piloto Práctico por cambio de Categoría o de Jurisdicción que no apruebe el examen de competencia práctico, que realiza la Junta Examinadora, deberá realizar diez (10) maniobras adicionales de entrenamiento, cinco (5) diurnas y cinco (5) nocturnas en un lapso máximo de dos (2) meses bajo la estricta supervisión del Piloto Práctico responsable de la Maniobra que debe ser de igual o superior categoría.
@@ -23362,8 +20978,6 @@ Cumplido lo anterior podrá solicitar a la Capitanía de Puerto correspondiente 
 Cuando el aspirante a piloto práctico o el piloto práctico por jurisdicción diferente no apruebe el examen de competencia teórico, podrá realizar una segunda y última evaluación, en un plazo máximo de tres (3) meses siguientes contados a partir de la fecha de presentación del último examen.
 
 (Decreto 1466 de 2004 artículo 18)
-
-ARTÍCULO
 
 ## art:2.4.1.2.5.3 — Maniobras de Entrenamiento para obtener licencia de Piloto Práctico y por Cambio de Categoría
 
@@ -23423,8 +21037,6 @@ PARÁGRAFO 2. Para las jurisdicciones específicas donde existan diferentes zona
 
 (Decreto 1466 de 2004 artículo 19, adicionado por el Decreto 3703 de 2007)
 
-ARTÍCULO
-
 ## art:2.4.1.2.5.4 — Licencia de Practicaje para Jurisdicción Diferente
 
 El Piloto Práctico con Licencia vigente para una jurisdicción específica para desarrollar la actividad de Practicaje en una jurisdicción específica diferente, que cumpla los requisitos establecidos en el artículo 22 de la Ley 658 de 2001, para efectos de dar aplicación a los numerales 3 y 4 del mismo artículo deberá:
@@ -23440,8 +21052,6 @@ PARÁGRAFO 1. Para las jurisdicciones específicas donde el número de maniobras
 PARÁGRAFO 2. Para las jurisdicciones específicas donde existan diferentes terminales portuarios las cincuenta (50) maniobras de que trata el presente artículo, se efectuarán mínimo en el 30% de aquellas donde ingresen buques correspondientes al tonelaje para el cual se solicita el entrenamiento.
 
 (Decreto 1466 de 2004 artículo 20, modificado por el artículo 7 del Decreto 3703 de 2007)
-
-ARTÍCULO
 
 ## art:2.4.1.2.5.5 — Procedimiento para la Solicitud y Práctica de las Maniobras que hacen parte del Entrenamiento para otra Jurisdicción
 
@@ -23485,8 +21095,6 @@ PARÁGRAFO . Para el entrenamiento de los pilotos prácticos oficiales, la Autor
 
 (Decreto 3703 de 2007 artículo 8)
 
-ARTÍCULO
-
 ## art:2.4.1.2.5.6 — Suspensión del Entrenamiento
 
 Cuando se suspenda el entrenamiento de un aspirante a Piloto Práctico o de un Piloto Práctico por cambio de categoría y/o de jurisdicción, por un tiempo superior a 2 meses, las maniobras registradas ante la Capitanía de Puerto no podrán convalidarse en fecha posterior a la de la suspensión, con el fin de tramitar la expedición de la licencia.
@@ -23497,15 +21105,11 @@ SECCIÓN 6.
 
 DEL EJERCICIO DE LA ACTIVIDAD MARÍTIMA DE PRACTICAJE.
 
-ARTÍCULO
-
 ## art:2.4.1.2.6.1 — Ejercicio del control de la Actividad Marítima de Practicaje
 
 La Autoridad Marítima Nacional a través de las Capitanías de Puerto ejercerá el control y vigilancia en la prestación del servicio público marítimo y fluvial de practicaje de manera que se garantice su prestación de forma segura, continua y eficiente, procurando que se cuente permanentemente con un número mínimo de pilotos prácticos debidamente licenciados para cada jurisdicción, con la infraestructura y equipos adecuados, que garanticen la seguridad de la vida en el mar, la seguridad de las embarcaciones, de las instalaciones portuarias, la protección del medio ambiente y el beneficio público de acuerdo con lo establecido en el presente Capítulo y en la ley.
 
 (Decreto 1466 de 2004 artículo 22)
-
-ARTÍCULO
 
 ## art:2.4.1.2.6.2 — Número Mínimo de Pilotos Prácticos por Jurisdicción
 
@@ -23515,15 +21119,11 @@ El número mínimo de pilotos por jurisdicción, se establecerá teniendo en cue
 
 (Decreto 1466 de 2004 artículo 23, modificado por el artículo 9 del Decreto 3703 de 2007)
 
-ARTÍCULO
-
 ## art:2.4.1.2.6.3 — Criterios para Determinar el Número Mínimo de Pilotos
 
 La Autoridad Marítima Nacional determinará los criterios para establecer el número mínimo de pilotos prácticos por jurisdicción, teniendo en cuenta las estadísticas de la jurisdicción correspondiente respecto al promedio de volúmenes de tráfico de buques en el último año, promedio de incremento de los volúmenes de tráfico de buques en los últimos tres (3) años y el número máximo de maniobras diarias por piloto Práctico, respetando el tiempo de descanso que determine la Autoridad Marítima.
 
 (Decreto 1466 de 2004 artículo 24, modificado por el artículo 10 del Decreto 3703 de 2007)
-
-ARTÍCULO
 
 ## art:2.4.1.2.6.4 — Habilitación como Piloto Práctico
 
@@ -23538,8 +21138,6 @@ Las maniobras aquí establecidas serán maniobras completas de entrada o salida 
 PARÁGRAFO . Para las jurisdicciones específicas donde el número de maniobras de rehabilitación, no se pueda cumplir en el tiempo aquí establecido, debido al bajo tráfico de buques, certificado por la Autoridad Marítima Nacional, la duración de las maniobras se podrá extender hasta por un periodo de seis (6) meses. La Autoridad Marítima Nacional podrá cambiar el número de maniobras y/o el tiempo de realización, para cada puerto con base en las necesidades, tráfico y dinámica del transporte marítimo.
 
 (Decreto 1466 de 2004 artículo 25)
-
-ARTÍCULO
 
 ## art:2.4.1.2.6.5 — Distribución del Servicio de Practicaje
 
@@ -23571,8 +21169,6 @@ d) Tiempo de descanso.
 
 (Decreto 1466 de 2004 artículo 26, modificado por el artículo 11 del Decreto 3703 de 2007)
 
-ARTÍCULO
-
 ## art:2.4.1.2.6.6 — Simultaneidad en el Ejercicio de la Actividad de Practicaje
 
 El término "simultaneidad" contenido en el numeral 2 del artículo 25 de la Ley 658 de 2001, se refiere a la concurrencia en una misma persona de las siguientes calidades:
@@ -23589,8 +21185,6 @@ SECCIÓN 7.
 
 DEL PERMISO ESPECIAL DE PRACTICAJE.
 
-ARTÍCULO
-
 ## art:2.4.1.2.7.1 — Permiso Especial
 
 El permiso especial de practicaje es exclusivo para un solo puerto y debe cumplir además los requisitos establecidos en el artículo 32 de la Ley 658 de 2011.
@@ -23602,8 +21196,6 @@ PARÁGRAFO . Lo anterior, sin perjuicio de que el Capitán o Patrón de un buque
 SECCIÓN 8.
 
 DE LAS MEDIDAS DE SEGURIDAD.
-
-ARTÍCULO
 
 ## art:2.4.1.2.8.1 — Uso de Remolcadores
 
@@ -23621,15 +21213,11 @@ PARÁGRAFO 3. Bajo ninguna circunstancia el número de remolcadores puede ser in
 
 (Decreto 1466 de 2004 artículo 29)
 
-ARTÍCULO
-
 ## art:2.4.1.2.8.2 — Lanchas para el Transporte de los Pilotos Prácticos
 
 Las lanchas para el transporte de los pilotos prácticos deben dar estricto cumplimiento a lo dispuesto en el artículo 57 de la Ley 658 de 2001, y a las especificaciones técnicas consagradas en las disposiciones que para el efecto determine la Autoridad Marítima Nacional de acuerdo con su competencia.
 
 (Decreto 1466 de 2004 artículo 30)
-
-ARTÍCULO
 
 ## art:2.4.1.2.8.3 — Medidas de Seguridad Preventivas
 
@@ -23647,8 +21235,6 @@ Antes de iniciar la maniobra el Piloto Práctico en compañía del Capitán del 
 
 (Decreto 1466 de 2004 artículo 31)
 
-ARTÍCULO
-
 ## art:2.4.1.2.8.4 — Uso de Amarradores
 
 Las empresas que presten el servicio público de practicaje, tienen la obligación de gestionar procedimientos de integración operativa con los amarradores que utilicen en las maniobras, en aras de garantizar la seguridad.
@@ -23661,15 +21247,11 @@ SECCIÓN 9.
 
 DE LOS TERMINALES PORTUARIOS NUEVOS Y DE OPERACIÓN TÉCNICA ESPECIAL.
 
-ARTÍCULO
-
 ## art:2.4.1.2.9.1 — Duración
 
 La condición de terminal portuario nuevo para efectos del ejercicio de la actividad marítima y fluvial de practicaje se mantendrá hasta cinco (5) años después de la entrada del primer buque de más de 2000 TRB, al terminal. Una vez cumplido el término de cinco (5) años tendrá igual tratamiento a los demás terminales del país.
 
 (Decreto 1466 de 2004 artículo 33)
-
-ARTÍCULO
 
 ## art:2.4.1.2.9.2 — Licencia para Puertos de Operación Técnica Especial
 
@@ -23685,15 +21267,11 @@ CAPITULO 1.
 
 DE LAS EMPRESAS DE PRACTICAJE Y DE LA LICENCIA DE EXPLOTACIÓN COMERCIAL.
 
-ARTÍCULO
-
 ## art:2.4.2.1.1 — Empresas de Practicaje
 
 Las empresas de practicaje que tengan licencia para operar en un puerto deberán garantizar la permanencia en la jurisdicción de un mínimo de pilotos disponibles o asegurar su desplazamiento de manera inmediata cuando se les requiera, sin que ello conlleve el incremento de las tarifas aprobadas por la Autoridad Marítima Nacional o el pago de otros servicios tales como pasajes, alojamiento, viáticos u otras denominaciones a favor del piloto práctico o de la empresa de practicaje.
 
 (Decreto 3703 de 2007 artículo 13 )
-
-ARTÍCULO
 
 ## art:2.4.2.1.2 — Integración Operativa
 
@@ -23703,23 +21281,17 @@ Se entiende por integración operativa los acuerdos y alianzas estratégicas que
 
 (Decreto 3703 de 2007 artículo 13 )
 
-ARTÍCULO
-
 ## art:2.4.2.1.3 — Requisitos para la Expedición, Registro, Renovación y/o Ampliación de la Licencia de Explotación Comercial
 
 La relación de pilotos prácticos al servicio de la empresa y del personal administrativo que aporte el representante legal de la empresa para la expedición, registro, renovación y/o ampliación de la licencia de explotación comercial, deberá expresamente certificar que ese personal es suficiente para atender las necesidades de la empresa, tal como lo dispone el numeral 4 del artículo 48 de la Ley 658 de 2001.
 
 (Decreto 3703 de 2007 artículo 13 )
 
-ARTÍCULO
-
 ## art:2.4.2.1.4 — Póliza de Cumplimiento
 
 Las empresas de practicaje debidamente autorizadas deberán constituir una póliza de responsabilidad civil extracontractual por el monto que establezca la Autoridad Marítima Nacional, que cubra los daños y perjuicios causados en ejercicio de las actividades propias de la empresa, desarrolladas por el personal administrativo y/o de los pilotos prácticos al servicio de la misma y mantenerla vigente por el mismo término que el de la respectiva licencia de explotación comercial.
 
 (Decreto 3703 de 2007 artículo 13 )
-
-ARTÍCULO
 
 ## art:2.4.2.1.5 — Reporte de Turnos y Control de Fatiga
 
@@ -23735,8 +21307,6 @@ CAPÍTULO 2.
 
 ASTILLEROS Y TALLERES DE REPARACIÓN NAVAL.
 
-ARTÍCULO
-
 ## art:2.4.2.2.1 — Construcción y Reparación Naval
 
 Para los efectos de lo dispuesto en el presente Capítulo, se entenderá por Astillero, el establecimiento que posea instalaciones para construir y reparar unidades tanto a flote como en tierra. Por taller de reparaciones marítimas, aquellos establecimientos aptos para efectuar reparaciones mientras la nave permanezca a flote.
@@ -23749,15 +21319,11 @@ En dicha licencia figurarán, además de la razón social del establecimiento, e
 
 (Decreto 1423 de 1989 artículo 33)
 
-ARTÍCULO
-
 ## art:2.4.2.2.2 — Cambio de Propiedad o Transferencia de Astillero
 
 Siempre que haya cambio de propiedad o transferencia de astillero, o taller de reparaciones navales, deberá informarse por escrito a la Autoridad Marítima, anexando copia del documento (escritura) respectivo, y el original de la licencia de Explotación Comercial dando el nombre del nuevo propietario y su razón social. Este por su parte, solicitará oportunamente a la Autoridad Marítima, la expedición de la correspondiente Licencia de Explotación Comercial a su nombre e informará sobre los cambios de personal técnico, variaciones en el equipo, etc., que se proponga efectuar.
 
 (Decreto 1423 de 1989 artículo 34)
-
-ARTÍCULO
 
 ## art:2.4.2.2.3 — Licencia de Explotación Comercial
 
@@ -23775,15 +21341,11 @@ CAPÍTULO 3.
 
 CORREDORES DE CONTRATOS DE FLETAMENTO MARÍTIMO.
 
-ARTÍCULO
-
 ## art:2.4.2.3.1 — Objeto
 
 Para efectos de este Capítulo se entenderá por Corredor de Contratos de Fletamento Marítimo, la persona natural o jurídica, que por su especial conocimiento del mercado marítimo, asesora a título de intermediario al transportador marítimo de una parte, y al fletador de otra, sin estar vinculado a las partes por relaciones de colaboración, dependencia, mandato o representación.
 
 (Decreto 1753 de 1991 artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.2.3.2 — Actos Mercantiles
 
@@ -23791,23 +21353,17 @@ Para todos los efectos legales, los actos de las personas naturales o jurídicas
 
 (Decreto 1753 de 1991 artículo 2)
 
-ARTÍCULO
-
 ## art:2.4.2.3.3 — Régimen Legal
 
 Cuando el Corredor de Contratos de Fletamento Marítimo sea una sociedad, la participación de inversión extranjera se regirá por la ley vigente en esta materia.
 
 (Decreto 1753 de 1991 artículo 3)
 
-ARTÍCULO
-
 ## art:2.4.2.3.4 — Corredores de Contratos de Fletamento Marítimo
 
 Sólo podrán desempeñarse como Corredores de Contratos de Fletamento Marítimo las personas naturales o jurídicas que soliciten y obtengan licencia de la Autoridad Marítima Nacional.
 
 (Decreto 1753 de 1991 artículo 4)
-
-ARTÍCULO
 
 ## art:2.4.2.3.5 — Licencias
 
@@ -23833,8 +21389,6 @@ b.1. Estar legalmente constituida.
 
 (Decreto 1753 de 1991 artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.2.3.6 — Requisitos
 
 Para acreditar los requisitos exigidos por el literal b), del numeral 10, y del ordinal b.1 del numeral 2 del artículo precedente, la solicitud deberá estar acompañada por los siguientes documentos:
@@ -23843,23 +21397,17 @@ Para acreditar los requisitos exigidos por el literal b), del numeral 10, y del 
 
 (Decreto 1753 de 1991 artículo 6)
 
-ARTÍCULO
-
 ## art:2.4.2.3.7 — Vigencia de la Licencia
 
 La autoridad marítima nacional otorgará licencias de Corredor de Contratos de Fletamento Marítimo por un término de vigencia hasta de dos (2) años renovable a solicitud del interesado.
 
 (Decreto 1753 de 1991 artículo 7)
 
-ARTÍCULO
-
 ## art:2.4.2.3.8 — Reembolso de Divisas
 
 El reembolso de las divisas por el pago de los fletes marítimos, con fundamento en un contrato de fletamento, se regirá por la ley vigente en esta materia.
 
 (Decreto 1753 de 1991 artículo 9)
-
-ARTÍCULO
 
 ## art:2.4.2.3.9 — Obligaciones
 
@@ -23886,8 +21434,6 @@ NAVES Y ARTEFACTOS NAVALES.
 CAPÍTULO 1.
 
 NAVES Y ARTEFACTOS NAVALES.
-
-ARTÍCULO
 
 ## art:2.4.3.1.1 — Construcción de Naves Mayores en el País
 
@@ -23919,15 +21465,11 @@ Cumplido lo anterior, la Autoridad Marítima, expedirá la autorización de cons
 
 (Decreto 1423 de 1989 artículo 2)
 
-ARTÍCULO
-
 ## art:2.4.3.1.2 — Cambio de Especificaciones de Naves Mayores
 
 Para la modificación o cambio de las especificaciones o de los planos preliminares de construcción, que tuvieren lugar durante la misma, tanto en astillero nacional como extranjero, el solicitante o el astillero, según el caso, deberá obtener previa autorización de la Dirección General Marítima, si las modificaciones afectan los materiales utilizados en la estructura, las especificaciones del casco, el número y localización de las cubiertas, la maquinaria en general, los equipos de navegación, carga, salvamento y contra incendio y los sistemas de gobierno principal y auxiliar. En los demás casos solamente deberán ser detalladas las modificaciones por el armador a primera oportunidad, antes de ser presentada la solicitud de matrícula de la nave.
 
 (Decreto 1423 de 1989 artículo 3)
-
-ARTÍCULO
 
 ## art:2.4.3.1.3 — Construcción ele Naves Menores
 
@@ -23942,8 +21484,6 @@ Cuando se trate de la construcción de naves menores o hasta de 16 metros de esl
 4. Las especificaciones correspondientes.
 
 (Decreto 1423 de 1989 artículo 4)
-
-ARTÍCULO
 
 ## art:2.4.3.1.4 — Construcción de Artefactos Navales
 
@@ -23967,8 +21507,6 @@ La Dirección General Marítima, con base en la información suministrada y si c
 
 (Decreto 1423 de 1989 artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.3.1.5 — Alteración de las Naves y Artefactos Navales
 
 Toda alteración o modificación que se vaya a efectuar en una nave o artefacto naval colombiano, deberá ser previamente autorizada por la Dirección General Marítima a solicitud del armador, indicando las causas que motivan la alteración y anexando:
@@ -23981,15 +21519,11 @@ Toda alteración o modificación que se vaya a efectuar en una nave o artefacto 
 
 (Decreto 1423 de 1989 artículo 6)
 
-ARTÍCULO
-
 ## art:2.4.3.1.6 — Documentos de Propiedad de Naves Mayores
 
 Cuando el título de propiedad de una nave mayor no constare en escritura pública otorgada en Colombia, el documento respectivo deberá ser protocolizado en una Notaría cualquiera del país antes de ser registrado en la respectiva Capitanía de Puerto.
 
 (Decreto 1423 de 1989 artículo 15)
-
-ARTÍCULO
 
 ## art:2.4.3.1.7 — Nombre de las Naves de la Marina Mercante Colombiana
 
@@ -24007,15 +21541,11 @@ El nombre de las naves mayores será reservado por el armador en su solicitud de
 
 (Decreto 1423 de 1989 artículo 26)
 
-ARTÍCULO
-
 ## art:2.4.3.1.8 — Autorización para Izar la Bandera Colombiana
 
 El derecho de izar la bandera colombiana, derivado de la matrícula y registro de las naves, tendrá carácter permanente. Cuando se lleve a cabo como consecuencia de la expedición de Pasavante otorgado por el Cónsul Colombiano, su carácter será temporal y restringido, válido para la navegación hasta el puerto de matrícula y únicamente por noventa (90) días, tal como se establece en el artículo 90 del Decreto ley 2324 de 1984.
 
 (Decreto 1423 de 1989 artículo 27)
-
-ARTÍCULO
 
 ## art:2.4.3.1.9 — Obtención del Pasavante
 
@@ -24039,15 +21569,11 @@ La documentación así constituida será anexada a la presentada por el Armador 
 
 (Decreto 1423 de 1989 artículo 28)
 
-ARTÍCULO
-
 ## art:2.4.3.1.10 — Permiso Provisional de Operación
 
 La operación provisional de la nave de que trata el parágrafo del artículo 90 del Decreto-ley 2324 de 1984, solamente se autorizará si la nave, está en posesión de los certificados de seguridad, además del certificado de cancelación de matrícula, del pasavante cuando corresponda y se compruebe su propiedad.
 
 (Decreto 1423 de 1989 artículo 29)
-
-ARTÍCULO
 
 ## art:2.4.3.1.11 — .11
 
@@ -24063,8 +21589,6 @@ Si las reparaciones que esta nave requiera no pueden ser efectuadas en la locali
 
 (Decreto 1423 de 1989 artículo 30)
 
-ARTÍCULO
-
 ## art:2.4.3.1.12 — Naves Adquiridas En Remate
 
 Para la matrícula de naves extranjeras que hayan sido adquiridas en remate público por nacionales colombianos, se observarán los requisitos contemplados en el presente Capítulo, a excepción de la presentación del pasavante.
@@ -24072,8 +21596,6 @@ Para la matrícula de naves extranjeras que hayan sido adquiridas en remate púb
 En tales casos, el armador deberá presentar el fallo de la Autoridad Judicial competente, debidamente autenticado, que elevado a escritura pública constituirá el documento de propiedad de la nave.
 
 (Decreto 1423 de 1989 artículo 31)
-
-ARTÍCULO
 
 ## art:2.4.3.1.13 — Libro de Matrícula
 
@@ -24113,23 +21635,17 @@ CAPÍTULO 2.
 
 OTRAS DISPOSICIONES.
 
-ARTÍCULO
-
 ## art:2.4.3.2.1 — Naves y Artefactos no Construidos en Astilleros
 
 Las naves o artefactos navales para transporte, pesca, o deporte que no sean construidos en astilleros navales y cuyo material sea diferente a hierro o acero y tengan menos de 100 toneladas de arqueo bruto, no requieren autorización de construcción, pero para matrícula, patente de navegación y el permiso de operación serán previamente inspeccionados y certificados por Peritos Navales o Sociedad Clasificadora acreditada por la Dirección General Marítima debiendo cumplir todos los requisitos de seguridad y equipo de acuerdo con su tonelaje y servicio a que se destinen.
 
 (Decreto 1423 de 1989 artículo 36)
 
-ARTÍCULO
-
 ## art:2.4.3.2.2 — Visitas del Capitán de Puerto
 
 La visita de la Autoridad Marítima Colombiana a las naves nacionales o extranjeras que arriben a puerto, constituye un acto de soberanía y será atendida personalmente por el Capitán de la nave. Al no cumplir con esta obligación el Capitán de Puerto o quien lo represente, o el funcionario de otra Autoridad Nacional, que en cumplimiento de acto oficial visite el buque, exigirá la presencia del Capitán de la nave. Cualquier desacato a éste respecto por parte del Capitán será sancionado.
 
 (Decreto 1423 de 1989 artículo 37)
-
-ARTÍCULO
 
 ## art:2.4.3.2.3 — Exclusividad de Naves de Bandera Colombiana para Servicios Portuarios en Aguas Jurisdiccionales
 
@@ -24147,8 +21663,6 @@ Tanto el desarrollo de esta actividad, como la nave y/o artefacto naval destinad
 
 (Decreto 1588 de 2016 artículo 1)
 
-ARTÍCULO
-
 ## art:2.4.3.2.4 — Enajenación de Naves de Bandera Colombiana
 
 El armador autorizado para prestar servicio público de transporte marítimo internacional o de cabotaje, que enajene todas sus naves de bandera colombiana, tendrá un plazo de tres (3) meses para adquirir y matricular en puerto colombiano por lo menos una nave que reúna las características mínimas de las naves objeto de venta y reanudar la prestación del servicio.
@@ -24156,8 +21670,6 @@ El armador autorizado para prestar servicio público de transporte marítimo int
 Vencido este lapso sin que se diere cumplimiento a lo anterior, la Dirección General Marítima procederá a cancelar la autorización de la ruta o servicio de que se trate.
 
 (Decreto 1423 de 1989 artículo 40)
-
-ARTÍCULO
 
 ## art:2.4.3.2.5 — Permanencia de Buques de Bandera Extranjera en Puerto Colombiano
 
@@ -24167,8 +21679,6 @@ La no presentación previa de la solicitud correspondiente, así como la permane
 
 (Decreto 1423 de 1989 artículo 41)
 
-ARTÍCULO
-
 ## art:2.4.3.2.6 — Infracción
 
 La infracción a lo previsto en la presente Capítulo constituye violación a las normas de Marina Mercante y estará sujeta a las sanciones previstas en el artículo 80 del Decreto ley 2324 de 1984.
@@ -24177,8 +21687,6 @@ La infracción a lo previsto en la presente Capítulo constituye violación a la
 
 SERVICIO DE SEGURIDAD MARÍTIMA.
 
-ARTÍCULO
-
 ## art:2.4.4.1 — Servicio de Seguridad Marítima
 
 Los buques de bandera nacional o extranjera pagarán, cada vez que entren a puerto colombiano, el servicio de seguridad marítima, conformado por aquellos procesos y procedimientos desarrollados por la Autoridad Marítima Nacional para contribuir a la seguridad de la vida humana en el mar, a la seguridad y eficacia de la navegación y/o la protección del medio marino.
@@ -24186,8 +21694,6 @@ Los buques de bandera nacional o extranjera pagarán, cada vez que entren a puer
 La Dirección General Marítima definirá y recaudará la tarifa por el servicio de seguridad marítima de conformidad con los costos que se generen por la prestación del mismo, incluyendo los proyectos de inversión. La base para el pago de la tarifa por el servicio de seguridad marítima será el arqueo bruto de la nave que se encuentre registrado en el respectivo Certificado de Matrícula y la tarifa se establecerá en salarios mínimos legales mensuales vigentes.
 
 (Decreto 2836 de 2013 artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2 — Otros Servicios
 
@@ -24209,15 +21715,11 @@ Estudios de seguridad marítima y portuaria relacionados con infraestructura por
 
 INVESTIGACIONES CIENTÍFICAS O TECNOLÓGICAS MARINAS.
 
-ARTÍCULO
-
 ## art:2.4.5.1 — Campo De Aplicación
 
 La investigación científica o tecnológica marina en los espacios marítimos jurisdiccionales colombianos solo podrá realizarse de conformidad con lo dispuesto en este Título y demás normas legales concordantes.
 
 (Decreto 0644 de 1990 artículo 1)
-
-ARTÍCULO
 
 ## art:2.4.5.2 — Solicitudes
 
@@ -24229,15 +21731,11 @@ c) Cuando la solicitud se presente como desarrollo de un convenio entre el gobie
 
 (Decreto 0644 de 1990 artículo 2)
 
-ARTÍCULO
-
 ## art:2.4.5.3 — Plazo
 
 Las solicitudes deben presentarse con seis (6) meses de anticipación como mínimo, a la fecha prevista para la iniciación de la investigación.
 
 (Decreto 0644 de 1990 artículo 3)
-
-ARTÍCULO
 
 ## art:2.4.5.4 — Deber de Proporcionar Información
 
@@ -24269,8 +21767,6 @@ k) Cupos que ofrece el solicitante para que científicos colombianos participen 
 
 (Decreto 0644 de 1990 artículo 4)
 
-ARTÍCULO
-
 ## art:2.4.5.5 — Estudio Preliminar de la Solicitud
 
 Presentada la solicitud dentro del término estipulado en el artículo 2.4.5.3., el Ministerio de Relaciones Exteriores tendrá un plazo de diez (10) días hábiles para estudiar el proyecto de investigación en los aspectos de su competencia y fijar su posición, remitiendo la documentación junto con sus recomendaciones, en forma simultánea, a las entidades que deben conocer de la misma, así:
@@ -24293,8 +21789,6 @@ PARÁGRAFO 2. Si la posición del Ministerio de Relaciones Exteriores es la de n
 
 (Decreto 0644 de 1990 artículo 5)
 
-ARTÍCULO
-
 ## art:2.4.5.6 — Estudio de Seguridad Nacional
 
 Recibida la solicitud por parte del Ministerio de Defensa Nacional, este expedir dentro de los quince (15) días hábiles siguientes un concepto en el que se determine la procedencia o improcedencia, por razones de seguridad nacional, de la realización de la investigación científica o tecnológica marina.
@@ -24305,8 +21799,6 @@ Si el Ministerio de Defensa Nacional considera procedente la realización de la 
 
 (Decreto 0644 de 1990 artículo 6)
 
-ARTÍCULO
-
 ## art:2.4.5.7 — Estudio Técnico de la Solicitud
 
 A partir de la fecha de recibo de la documentación remitida por el Ministerio de Relaciones Exteriores, las entidades señaladas en los literales b), c) y d) del artículo 2.4.5.5., del presente Título tendrán un plazo de treinta (30) días hábiles para el estudio de la misma y la expedición de los conceptos, con destino a DIMAR, sobre la viabilidad de la investigación.
@@ -24315,15 +21807,11 @@ PARÁGRAFO . Las entidades adscritas o vinculadas al Ministerio de Minas y Energ
 
 (Decreto 0644 de 1990 artículo 7)
 
-ARTÍCULO
-
 ## art:2.4.5.8 — Utilización de Naves y Artefactos Navales de Bandera Colombiana
 
 Durante el término que se señala en el artículo anterior la Dirección General Marítima estudiar el proyecto de investigación en la esfera de su competencia. Si de este estudio resultare conveniente la utilización de las naves o artefactos navales de investigación de bandera colombiana, así lo hará saber al solicitante, de conformidad con lo establecido en los artículos 2.4.5.12., 2.4.5.13., y 2.4.5.14., del presente Título.
 
 (Decreto 0644 de 1990 artículo 8)
-
-ARTÍCULO
 
 ## art:2.4.5.9 — Autorización de la Investigación y Operación de las Naves
 
@@ -24331,15 +21819,11 @@ Dentro de los diez (10) días hábiles siguientes al recibo de los conceptos de 
 
 (Decreto 0644 de 1990 artículo 9)
 
-ARTÍCULO
-
 ## art:2.4.5.10 — Prohibición de la Utilización
 
 DIMAR en ningún caso podrá autorizar la investigación y operación de las naves y artefactos navales si alguno de los conceptos expedidos por las entidades de que tratan los artículos anteriores es negativo. De igual forma, DIMAR negará la realización de la investigación proyectada cuando el solicitante tenga alguna obligación, de las relacionadas en el artículo 2.4.5.16., del presente Título, pendiente con entidades públicas colombianas y resultantes de investigaciones anteriores.
 
 (Decreto 0644 de 1990 artículo 10)
-
-ARTÍCULO
 
 ## art:2.4.5.11 — Notificación y Comunicación de la Resolución que autoriza la Investigación
 
@@ -24347,15 +21831,11 @@ Copia de la resolución expedida y sus anexos será remitida por DIMAR al Minist
 
 (Decreto 0644 de 1990 artículo 11)
 
-ARTÍCULO
-
 ## art:2.4.5.12 — Información Adicional
 
 Cuando se requiera modificar algunos términos del proyecto de investigación o información adicional sobre asuntos técnicos, procedimientos de investigación, manejo de información o tratamiento de los resultados, las entidades a que se refiere el artículo 2.4.5.5., del presente Título deberán dirigirse dentro de los treinta (30) días hábiles siguientes al recibo de la solicitud al Ministerio de Relaciones Exteriores para que este a su vez efectúe el respectivo requerimiento al interesado.
 
 (Decreto 0644 de 1990 artículo 12)
-
-ARTÍCULO
 
 ## art:2.4.5.13 — Plazo para presentar Modificaciones o Informes Adicionales
 
@@ -24365,15 +21845,11 @@ Vencido este término sin que se cumpla lo anterior se entenderá que el peticio
 
 (Decreto 0644 de 1990 artículo 13)
 
-ARTÍCULO
-
 ## art:2.4.5.14 — Plazo para Resolver
 
 Una vez presentada la solicitud modificada o la información adicional, las entidades tendrán un plazo máximo de quince (15) días hábiles para expedir y enviar a DIMAR su pronunciamiento.
 
 (Decreto 0644 de 1990 artículo 14)
-
-ARTÍCULO
 
 ## art:2.4.5.15 — Situaciones Imprevistas de Política Exterior o de Seguridad Nacional
 
@@ -24382,8 +21858,6 @@ El Ministerio de Relaciones Exteriores por razones de política exterior y el Mi
 DIMAR, por las mismas razones, modificará, suspenderá o revocará la resolución de autorización, a petición del Ministerio de Relaciones Exteriores o del Ministerio de Defensa Nacional e informará de ello a las entidades correspondientes.
 
 (Decreto 0644 de 1990 artículo 15)
-
-ARTÍCULO
 
 ## art:2.4.5.16 — Obligaciones Generales
 
@@ -24423,8 +21897,6 @@ o) Enviar al Ministerio de Relaciones Exteriores dentro de un plazo no mayor de 
 
 (Decreto 0644 de 1990 artículo 16)
 
-ARTÍCULO
-
 ## art:2.4.5.17 — Transmisión de Información
 
 El Ministerio de Relaciones Exteriores dará traslado del informe final y sus anexos a la Dirección General Marítima, dentro de los diez (10) días hábiles siguientes a su recibo, la que remitirá las copias respectivas a las entidades que participaron en el trámite de la solicitud.
@@ -24433,15 +21905,11 @@ En caso de que la información se considere incompleta se procederá de conformi
 
 (Decreto 0644 de 1990 artículo 17)
 
-ARTÍCULO
-
 ## art:2.4.5.18 — Designación de los Científicos Nacionales
 
 Las entidades señaladas en el artículo 2.4.5.5., del presente Título, designarán el personal científico que participar en la investigación.
 
 (Decreto 0644 de 1990 artículo 18)
-
-ARTÍCULO
 
 ## art:2.4.5.19 — Revista de la Inspección
 
@@ -24451,23 +21919,17 @@ Esta revisión podrá repetirse las veces que se estime conveniente. En todo mom
 
 (Decreto 0644 de 1990 artículo 19)
 
-ARTÍCULO
-
 ## art:2.4.5.20 — Retiro del Material Recolectado
 
 Solo bajo la autorización expresa de DIMAR podrá retirarse del país cualquier especie, material recolectado, filmado o registrado durante la investigación, de acuerdo con el informe suministrado por el inspector y los científicos designados.
 
 (Decreto 0644 de 1990 artículo 20)
 
-ARTÍCULO
-
 ## art:2.4.5.21 — Autorización de Zarpe
 
 La autoridad marítima local, sólo podrá autorizar el zarpe de la nave o artefacto naval o la remoción del equipo utilizado, una vez se acredite el cumplimiento de todas las obligaciones por parte del solicitante, según lo descrito en el presente Título.
 
 (Decreto 0644 de 1990 artículo 21)
-
-ARTÍCULO
 
 ## art:2.4.5.22 — Modificación, Suspensión y Revocación del Permiso
 
@@ -24481,15 +21943,11 @@ PARÁGRAFO . DIMAR podrá revocar el permiso otorgado cuando no se corrijan las 
 
 (Decreto 0644 de 1990 artículo 22)
 
-ARTÍCULO
-
 ## art:2.4.5.23 — Prorroga del Permiso Autorizado
 
 El interesado podrá solicitar ante DIMAR prórroga del permiso ya autorizado, presentando la respectiva petición con una anticipación mínima de quince (15) días hábiles al vencimiento del término inicial.
 
 (Decreto 0644 de 1990 artículo 23)
-
-ARTÍCULO
 
 ## art:2.4.5.24 — Sanciones
 
@@ -25231,8 +22689,6 @@ SECCIÓN 1.
 
 DISPOSICIONES GENERALES.
 
-ARTÍCULO
-
 ## art:2.4.6.2.3.4 — Registro del Plan de Protección
 
 La aprobación del Plan o de sus enmiendas por la Dirección General Marítima será registrada por esta en el cuerpo del plan, a menos que dicho plan se encuentre en formato electrónico, en cuyo caso su aprobación y enmiendas se registrará en soporte papel y se conservará por el término de cinco (5) años, junto con los certificados previstos en la Parte A del Código Internacional para la Protección de los Buques y las Instalaciones Portuarias, PBlP.
@@ -25243,8 +22699,6 @@ SECCIÓN 4.
 
 NIVEL DE PROTECCIÓN.
 
-ARTÍCULO
-
 ## art:2.4.6.2.5.1 — Certificado Internacional de Protección
 
 El Certificado Internacional de Protección del Buque se expedirá por la Autoridad Marítima NACIONAL POR EL TÉRMINO MÁXIMO DE CINCO (5) AÑOS, CONTADOS A PARTIR DE LA FECHA DE SU EXPEDICIÓN.
@@ -25252,8 +22706,6 @@ El Certificado Internacional de Protección del Buque se expedirá por la Autori
 PARÁGRAFO . La renovación del Certificado Internacional de Protección del Buque debe tramitarse con no menos de tres (3) meses de antelación al vencimiento del mismo.
 
 (Decreto 0730 de 2004 artículo 18)
-
-ARTÍCULO
 
 ## art:2.4.6.2.5.2 — Prórroga del Certificado Internacional de Protección
 
@@ -25265,8 +22717,6 @@ La prórroga del certificado internacional de protección del buque se podrá re
 
 (Decreto 0730 de 2004 artículo 19)
 
-ARTÍCULO
-
 ## art:2.4.6.2.5.3 — Buques no Obligados a Certificarse
 
 Los buques que no estén obligados a certificarse, que de manera voluntaria cumplan las prescripciones del Capítulo Xl-2 del Convenio Internacional para la Seguridad de la Vida Humana en el Mar- SOLAS/74-y del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, PBIP podrán solicitar su certificación en los términos del presente Título.
@@ -25276,8 +22726,6 @@ Los buques que no estén obligados a certificarse, que de manera voluntaria cump
 SECCIÓN 6.
 
 CERTIFICADO PROVISIONAL.
-
-ARTÍCULO
 
 ## art:2.4.6.2.6.1 — Certificado Provisional
 
@@ -25297,15 +22745,11 @@ SECCIÓN 7.
 
 OFICIALES DE PROTECCIÓN DEL BUQUE.
 
-ARTÍCULO
-
 ## art:2.4.6.2.7.1 — Oficial de Protección del Buque
 
 El oficial de protección del buque es la persona designada por la compañía para gestionar, mantener y evaluar continuamente el plan de protección del buque. Igualmente estará encargado de la coordinación con los Oficiales de Protección de las Instalaciones Portuarias.
 
 (Decreto 0730 de 2004 artículo 22)
-
-ARTÍCULO
 
 ## art:2.4.6.2.7.2 — Inscripción como Oficial de Protección del Buque
 
@@ -25321,15 +22765,11 @@ SECCIÓN 8.
 
 OFICIALES DE LA COMPAÑÍA PARA LA PROTECCIÓN MARÍTIMA.
 
-ARTÍCULO
-
 ## art:2.4.6.2.8.1 — Oficiales de la Compañía para la Protección Marítima
 
 El oficial de la compañía para la protección marítima es la persona designada por la compañía para garantizar y coordinar el diseño, aprobación e implementación del plan de protección en el buque o buques de la misma.
 
 (Decreto 0730 de 2004 artículo 24)
-
-ARTÍCULO
 
 ## art:2.4.6.2.8.2 — Requisitos para Oficial de la Compañía para la Protección Marítima
 
@@ -25359,15 +22799,11 @@ SECCIÓN 1.
 
 PROCEDIMIENTO PARA EL DOCUMENTO DE CUMPLIMIENTO.
 
-ARTÍCULO
-
 ## art:2.4.6.3.3.1 — Plan de Protección
 
 El Plan de Protección de la Instalación Portuaria así como sus enmiendas deberá ser aprobado por la Dirección General Marítima, Dimar, previo concepto del Ministerio de Transporte a través de la Dirección de Infraestructura o quien haga sus veces.
 
 (Decreto 0730 de 2004 artículo 28)
-
-ARTÍCULO
 
 ## art:2.4.6.3.3.2 — Combinaciones
 
@@ -25380,8 +22816,6 @@ PARÁGRAFO . La Dirección General Marítima, Dimar, previo concepto del Ministe
 SECCIÓN 4.
 
 DOCUMENTO DE CUMPLIMIENTO.
-
-ARTÍCULO
 
 ## art:2.4.6.3.4.1 — Documento de Cumplimiento
 
@@ -25397,15 +22831,11 @@ SECCIÓN 5.
 
 OFICIAL DE PROTECCIÓN DE LA INSTALACIÓN PORTUARIA.
 
-ARTÍCULO
-
 ## art:2.4.6.3.5.1 — Oficial de Protección de la Instalación Portuaria
 
 El oficial de protección de la instalación portuaria es la persona designada por la sociedad para gestionar, mantener y evaluar continuamente el plan de protección de la Instalación Portuaria. Igualmente estará encargado de la coordinación con los Oficiales de Protección del Buque.
 
 (Decreto 0730 de 2004 artículo 31)
-
-ARTÍCULO
 
 ## art:2.4.6.3.5.2 — Inscripción como Oficial de Protección de la Instalación Portuaria
 
@@ -25433,15 +22863,11 @@ CAPÍTULO 4.
 
 DECLARACIÓN DE PROTECCIÓN MARÍTIMA.
 
-ARTÍCULO
-
 ## art:2.4.6.4.3 — Elaboración Declaración de Protección Marítima
 
 Se deberá elaborar una declaración de protección marítima cuando los propios Planes de Protección de los Buques lo prevean, o los de las Instalaciones Portuarias, o cuando así lo disponga el Oficial de Protección de la Autoridad Marítima Nacional responsable de la protección en el área de la instalación portuaria o área donde opere el buque.
 
 (Decreto 0730 de 2004 artículo 35)
-
-ARTÍCULO
 
 ## art:2.4.6.4.4 — Buques con Derecho a Enarbolar la Bandera Colombiana
 
@@ -25449,23 +22875,17 @@ Respecto de los buques con derecho a enarbolar la bandera colombiana, en virtud 
 
 (Decreto 0730 de 2004 artículo 36)
 
-ARTÍCULO
-
 ## art:2.4.6.4.5 — Solicitud de Elaboración de una Declaración de Protección Marítima
 
 El Oficial de Protección de la Instalación Portuaria podrá también solicitar la elaboración de una declaración de protección marítima antes de llevar a cabo operaciones de interfaz buque-puerto cuyo interés especial se haya mencionado expresamente en la evaluación de la protección de la instalación portuaria.
 
 (Decreto 0730 de 2004 artículo 37)
 
-ARTÍCULO
-
 ## art:2.4.6.4.6 — Obligaciones
 
 En el caso de que un buque, una Instalación Portuaria, o una Autoridad Designada soliciten una declaración de protección marítima a un buque de bandera colombiana operando en jurisdicción extranjera, el Oficial de Protección del Buque deberá acusar recibo de la solicitud, examinar las medidas de protección oportunas e informar a la Autoridad Marítima Nacional por el medio y el canal que se establezca.
 
 (Decreto 0730 de 2004 artículo 38)
-
-ARTÍCULO
 
 ## art:2.4.6.4.7 — Requisitos
 
@@ -25478,8 +22898,6 @@ PARÁGRAFO . La declaración de protección marítima debe ser redactada en cast
 CAPÍTULO 5.
 
 ORGANIZACIÓN DE PROTECCIÓN RECONOCIDA.
-
-ARTÍCULO
 
 ## art:2.4.6.5.1 — Organización de Protección Reconocida
 
@@ -25498,8 +22916,6 @@ e) Capacitación de personal respecto de los planes elaborados por las OPR.
 PARÁGRAFO . El grado de funciones autorizadas a la Organización de Protección Reconocida, OPR, estará determinado por sus condiciones y capacidades financieras, de infraestructura, técnicas, operativas y administrativas.
 
 (Decreto 0730 de 2004 artículo 40)
-
-ARTÍCULO
 
 ## art:2.4.6.5.2 — Inscripción como Organización de Protección Reconocida
 
@@ -25529,8 +22945,6 @@ d) Aprobar el curso de protección marítima en las instituciones avaladas por l
 
 (Decreto 0730 de 2004 artículo 41)
 
-ARTÍCULO
-
 ## art:2.4.6.5.3 — Obligaciones de la Organización De Protección Reconocida
 
 La Organización de Protección Reconocida, OPR, tendrá las siguientes obligaciones:
@@ -25547,8 +22961,6 @@ La Organización de Protección Reconocida, OPR, tendrá las siguientes obligaci
 
 (Decreto 0730 de 2004 artículo 42)
 
-ARTÍCULO
-
 ## art:2.4.6.5.4 — Cancelación del Registro como Organización de Protección Reconocida
 
 Dará motivo de cancelación del registro como Organización de Protección Reconocida, OPR, el incurrir en una de las siguientes causales:
@@ -25561,8 +22973,6 @@ Dará motivo de cancelación del registro como Organización de Protección Reco
 
 (Decreto 0730 de 2004 artículo 43)
 
-ARTÍCULO
-
 ## art:2.4.6.5.5 — Renovación del Registro de la Organización de Protección Reconocida
 
 La renovación del registro de las Organizaciones de Protección Reconocidas, OPR, será cada tres (3) años y deberá solicitarse dentro de los treinta (30) días hábiles anteriores a la fecha de su vencimiento.
@@ -25572,8 +22982,6 @@ La renovación del registro de las Organizaciones de Protección Reconocidas, OP
 FACILITACIÓN MARÍTIMA.
 
 (Decreto 910 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.7.1 — Definiciones
 
@@ -25587,8 +22995,6 @@ Para la aplicación del Convenio para facilitar el tráfico marítimo internacio
 
 4. Autorización Anticipada de Inicio de Operaciones de Buque: Es el permiso que otorgan las Autoridades de Libre Plática a una nave o embarcación (a excepción de los cruceros o cualquier otro medio de transporte marítimo que incluya traslado de pasajeros), para iniciar las operaciones de cargue y descargue de mercancías, antes de la realización de la Visita Oficial de Arribo y en cumplimiento de las condiciones dadas por las Autoridades de Libre Plática en el presente título.
 
-ARTÍCULO
-
 ## art:2.4.7.2 — Autoridades que participan en la visita oficial de arribo
 
 Para los efectos del presente título se entenderá por autoridades de la visita oficial de arribo: La Dirección General Marítima - DIMAR, la Dirección o Entidad Territorial de Salud, el Instituto Colombiano Agropecuario - ICA y la Unidad Administrativa Especial Migración Colombia, las cuales actuarán a través de sus representantes respectivos en el terminal marítimo.
@@ -25596,8 +23002,6 @@ Para los efectos del presente título se entenderá por autoridades de la visita
 PARÁGRAFO 1. Los agentes marítimos deben garantizar en coordinación con el capitán de la nave, las condiciones de seguridad a los funcionarios que participan en la visita oficial de arribo, con el objeto de minimizar los riesgos asociados con el ejercicio de esta función, sin las cuales no se llevará a cabo dicha visita.
 
 PARÁGRAFO 2. El propietario y/o armador del buque serán los responsables de las condiciones migratorias reglamentarias de pasajeros, tripulantes y polizones dentro de la nave durante el arribo, permanencia y salida de puerto.
-
-ARTÍCULO
 
 ## art:2.4.7.3 — Autorización Anticipada de Inicio de las Operaciones de Buque
 
@@ -25607,13 +23011,9 @@ PARÁGRAFO 1. Para tales efectos, el Ministerio de Comercio, Industria y Turismo
 
 PARÁGRAFO 2. La autorización materia del presente artículo aplicará a todo tipo de naves o embarcaciones a excepción de los buques de pasajeros, o cualquier otro medio de transporte marítimo que incluya traslado de pasajeros.
 
-ARTÍCULO
-
 ## art:2.4.7.4 — Estandarización de los procedimientos de libre plática
 
 Las autoridades de la visita oficial de < arribo, emitirán de manera conjunta en el término de un (01) año siguiente a la expedición del presente título, los procedimientos armonizados y coordinados para la debida implementación.
-
-ARTÍCULO
 
 ## art:2.4.7.5 — Seguimiento al proceso de libre plática
 
@@ -25621,15 +23021,11 @@ La Dirección General Marítima DIMAR en coordinación con el Ministerio de Salu
 
 El seguimiento local, estará a cargo de la DIMAR a través de sus Capitanías de Puerto, quienes garantizarán que las medidas que se adopten en el procedimiento de libre plática se cumplan por parte de las autoridades y usuarios, en caso contrario, se deberá informar a las autoridades de libre plática de nivel central, para las acciones de su competencia,
 
-ARTÍCULO
-
 ## art:2.4.7.6 — Implementación de herramientas informáticas y Administración de la Gestión del Riesgo
 
 Las autoridades de la visita oficial de arribo, deberán coordinar la implementación de herramientas informáticas para los fines establecidos en el presente título, liderados por la Dirección General Marítima - DIMAR
 
 Las autoridades deberán implementar y mantener un sistema de administración de riesgo que les permita asegurar la cadena logística de la operación de libre plática.
-
-ARTÍCULO
 
 ## art:2.4.7.7 — Indicadores de las Operaciones
 
@@ -25705,8 +23101,6 @@ POLICÍA NACIONAL.
 
 GRADOS HONORARIOS.
 
-ARTÍCULO
-
 ## art:2.5.1.1 — Grados Honorarios
 
 Para el otorgamiento de los grados policiales honorarios a que se refiere el artículo 90 del Decreto 1791 de 2000, se tendrá en cuenta el siguiente procedimiento:
@@ -25737,8 +23131,6 @@ CAPÍTULO 1.
 
 CATEGORÍAS.
 
-ARTÍCULO
-
 ## art:2.5.2.1.1 — Categorías
 
 A los docentes policiales les será otorgada las siguientes categorías:
@@ -25758,8 +23150,6 @@ PARÁGRAFO . El Director General de la Policía Nacional otorgará la calidad de
 (Decreto 003 de 2005 artículo 1)
 
 CAPÍTULO 2.
-
-ARTÍCULO
 
 ## art:2.5.2.2.1 — Requisitos para ser Instructor
 
@@ -25783,8 +23173,6 @@ Para ser instructor se requiere:
 
 (Decreto 003 de 2005 artículo 2)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2 — Requisitos para ser Profesor Auxiliar
 
 Para ser profesor auxiliar se requiere:
@@ -25805,8 +23193,6 @@ Para ser profesor auxiliar se requiere:
 
 (Decreto 003 de 2005 artículo 3)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3 — Requisitos para ser Profesor Asistente
 
 Para ser profesor asistente se requiere:
@@ -25826,8 +23212,6 @@ Para ser profesor asistente se requiere:
 - Concepto favorable del Director de la Escuela Nacional de Policía.
 
 (Decreto 003 de 2005 artículo 4)
-
-ARTÍCULO
 
 ## art:2.5.2.2.4 — Requisitos para ser Profesor Asociado
 
@@ -25850,8 +23234,6 @@ Para ser profesor asociado se requiere:
 - Concepto favorable del Director de la Escuela Nacional de Policía.
 
 (Decreto 003 de 2005 artículo 5)
-
-ARTÍCULO
 
 ## art:2.5.2.2.5 — Requisitos para ser Profesor Titular
 
@@ -25879,8 +23261,6 @@ Para ser profesor titular se requiere:
 
 (Decreto 003 de 2005 artículo 6)
 
-ARTÍCULO
-
 ## art:2.5.2.2.6 — Categorías Profesor Policial
 
 El personal docente policial con título universitario, técnico o tecnológico según el caso y que al 13 de enero de 2005 (entrada en vigencia del Decreto 003 de 2005) se hallare escalafonado como docente policial en cualquiera de las categorías contempladas en el Decreto 400 del 5 de marzo de 1992, podrá solicitar su homologación ante el Director General de la Policía Nacional, según su categoría así:
@@ -25901,15 +23281,11 @@ CAPÍTULO 3.
 
 REMUNERACIÓN.
 
-ARTÍCULO
-
 ## art:2.5.2.3.1 — Remuneración como Instructor
 
 Los profesores a los cuales les sea otorgada la categoría como instructores, les serán reconocidas máximo veinticuatro (24) horas al mes, las cuales tendrán como máximo de remuneración el 50% de un salario mínimo legal mensual vigente, o el valor proporcional de acuerdo con las clases dictadas.
 
 (Decreto 003 de 2005 artículo 8)
-
-ARTÍCULO
 
 ## art:2.5.2.3.2 — Remuneración como Profesor Auxiliar
 
@@ -25917,23 +23293,17 @@ Los profesores a los cuales les sea otorgada la categoría como profesor auxilia
 
 (Decreto 003 de 2005 artículo 9)
 
-ARTÍCULO
-
 ## art:2.5.2.3.3 — Remuneración como Profesor Asistente
 
 Los profesores a los cuales les sea otorgada la categoría como Profesor asistente, les serán reconocidas máximo veinticuatro (24) horas al mes, las cuales tendrán como máximo de remuneración el 75% de un salario mínimo legal mensual vigente, o el valor proporcional de acuerdo con las clases dictadas.
 
 (Decreto 003 de 2005 artículo 10)
 
-ARTÍCULO
-
 ## art:2.5.2.3.4 — Remuneración como Profesor Asociado
 
 Los profesores a los cuales les sea otorgada la categoría como Profesor asociado, les serán reconocidas máximo veinticuatro (24) horas al mes, las cuales tendrán como máximo de remuneración el 87.5% de un salario mínimo legal mensual vigente, o el valor proporcional de acuerdo con las clases dictadas.
 
 (Decreto 003 de 2005 artículo 11)
-
-ARTÍCULO
 
 ## art:2.5.2.3.5 — Remuneración como Profesor Titulado
 
@@ -25943,15 +23313,11 @@ PARÁGRAFO . Las personas a las que no les haya sido otorgada la calidad de prof
 
 (Decreto 003 de 2005 artículo 12)
 
-ARTÍCULO
-
 ## art:2.5.2.3.6 — Personal Policial de Planta
 
 El personal docente policial que se encuentra de planta en las Escuelas Seccionales de la Policía Nacional y cuyo cargo tenga como única función, la dedicación exclusiva como profesor policial, quedará excluido del pago de la remuneración indicada en los artículos anteriores.
 
 (Decreto 003 de 2005 artículo 13)
-
-ARTÍCULO
 
 ## art:2.5.2.3.7 — Clasificación
 
@@ -25963,8 +23329,6 @@ Docente Policial de Apoyo. Son aquellos policiales que laboran en cualquier unid
 
 (Decreto 003 de 2005 artículo 14)
 
-ARTÍCULO
-
 ## art:2.5.2.3.8 — Remuneración
 
 La remuneración establecida en el presente Título será con cargo al rubro gastos de personal y no se aplicará para ningún efecto prestacional.
@@ -25975,15 +23339,11 @@ CAPÍTULO 4.
 
 INCENTIVOS
 
-ARTÍCULO
-
 ## art:2.5.2.4.1 — Capacitación
 
 La capacitación del personal docente de la Policía Nacional se concibe como un estímulo para incrementar la calidad del mismo y proyectar las labores docentes como investigación y extensión que correspondan a los planes de desarrollo institucional o la formación integral de los alumnos. El Director Nacional de Escuelas, fijará los criterios para la selección del personal docente policial que sea merecedor de tal incentivo.
 
 (Decreto 003 de 2005 artículo 16, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.2.4.2 — Función de la Capacitación
 
@@ -25995,8 +23355,6 @@ Las actividades de capacitación se refieren al mejoramiento del ejercicio docen
 
 (Decreto 003 de 2005 artículo 17)
 
-ARTÍCULO
-
 ## art:2.5.2.4.3 — Requisitos para Ascenso Policial
 
 Los docentes policiales de planta en los cargos de: Director de Escuela, Comandante de Compañía, Comandante de Sección, Escuadra, o cuyo cargo tenga dentro de sus funciones la dedicación exclusiva como docente policial de la Dirección Nacional de Escuelas y sus unidades desconcentradas, tendrán derecho a que se les reconozca como requisito de ascenso de acuerdo con la ley, su dedicación a labores docentes.
@@ -26004,8 +23362,6 @@ Los docentes policiales de planta en los cargos de: Director de Escuela, Comanda
 (Decreto 003 de 2005 artículo 18, modificado por el Decreto 4222 de 2006)
 
 TARJETA PROFESIONAL DE ADMINISTRADOR POLICIAL
-
-ARTÍCULO
 
 ## art:2.5.3.1 — Delegación de Funciones
 
@@ -26017,8 +23373,6 @@ De conformidad con lo establecido en el artículo 7o, de la Ley 1249 de 2008, el
 
 (Decreto 1410 de 2011 artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.3.2 — Tarjeta Profesional
 
 La Tarjeta Profesional de Administrador Policial acredita que su titular ha recibido la formación académica específica y que posee la competencia para desempeñar o ejercer las actividades propias y relacionadas con la profesión.
@@ -26026,8 +23380,6 @@ La Tarjeta Profesional de Administrador Policial acredita que su titular ha reci
 PARÁGRAFO . El Colegio Profesional de Administradores Policiales establecerá los procesos y procedimientos para la expedición de la tarjeta profesional.
 
 (Decreto 1410 de 2011 artículo 2)
-
-ARTÍCULO
 
 ## art:2.5.3.3 — Requisitos de los Integrantes del Tribunal Ético
 
@@ -26043,8 +23395,6 @@ Los integrantes del Tribunal Ético deberán cumplir con los siguientes requisit
 
 SISTEMA NACIONAL DE PARTICIPACIÓN CIUDADANA EN ASUNTOS DE POLICÍA Y COMISIONES NACIONAL, DEPARTAMENTALES, DEL DISTRITO CAPITAL Y CIUDADES CAPITALES, MUNICIPALES Y LOCALES DE POLICÍA Y PARTICIPACIÓN CIUDADANA.
 
-ARTÍCULO
-
 ## art:2.5.4.1 — Sistema Nacional de Participación Ciudadana en Asuntos de Policía
 
 El Sistema Nacional de Participación Ciudadana en asuntos de Policía se desarrollará a través de las Comisiones Nacional, Departamentales, del Distrito Capital, de Ciudades Capitales, Municipales y Locales de Policía y Participación Ciudadana, con el fin de fortalecer las relaciones entre el ciudadano, la Policía Nacional y las autoridades administrativas.
@@ -26058,8 +23408,6 @@ La Comisión Nacional es el organismo del más alto nivel encargado de orientar 
 CAPÍTULO 1.
 
 DE LA COMISIÓN NACIONAL DE POLICÍA Y PARTICIPACIÓN CIUDADANA.
-
-ARTÍCULO
 
 ## art:2.5.4.1.1 — Miembros
 
@@ -26119,8 +23467,6 @@ PARÁGRAFO 3. El Gobierno Nacional podrá invitar a las reuniones de la Comisió
 
 (Decreto 1028 de 1994 artículo 2, modificado por el Decreto 4222 de 2006)
 
-ARTÍCULO
-
 ## art:2.5.4.1.2 — Funciones de la Comisión Nacional de Policía y Participación Ciudadana
 
 Son funciones de la Comisión Nacional de Policía y Participación Ciudadana:
@@ -26151,8 +23497,6 @@ Son funciones de la Comisión Nacional de Policía y Participación Ciudadana:
 
 (Decreto 1028 de 1994 artículo 3, modificado por el Decreto 4222 de 2006)
 
-ARTÍCULO
-
 ## art:2.5.4.1.3 — Representantes
 
 Para la designación a la Comisión Nacional de Policía y Participación Ciudadana, cada una de las organizaciones, sectores o gremios señalados elegirá su representante, en un término no mayor a quince (15) días a partir del 19 de mayo de 1994 (entrada en vigencia del Decreto 1028 de 1994), por un período de dos (2) años.
@@ -26161,15 +23505,11 @@ Los representantes elegidos deberán acreditar su calidad ante la Secretaría Ej
 
 (Decreto 1028 de 1994 artículo 4)
 
-ARTÍCULO
-
 ## art:2.5.4.1.4 — Asistencia
 
 La asistencia de los miembros a las sesiones de la Comisión Nacional es de carácter personal e indelegable.
 
 (Decreto 1028 de 1994 artículo 5)
-
-ARTÍCULO
 
 ## art:2.5.4.1.5 — Reuniones
 
@@ -26180,8 +23520,6 @@ La Comisión Nacional de Policía y Participación Ciudadana se reunirá ordinar
 CAPÍTULO 2.
 
 DE LAS COMISIONES DEPARTAMENTALES DE POLICÍA Y PARTICIPACIÓN CIUDADANA
-
-ARTÍCULO
 
 ## art:2.5.4.2.1 — Miembros
 
@@ -26210,8 +23548,6 @@ PARÁGRAFO 1. Los Gobernadores velarán porque la composición de las Comisiones
 PARÁGRAFO 2. Los Gobernadores podrán invitar a las reuniones de las Comisiones Departamentales a representantes de otros sectores de la comunidad, profesionales, asesores y otros funcionarios públicos cuya intervención sea útil para el cumplimiento de las funciones que le corresponden a las Comisiones.
 
 (Decreto 1028 de 1994 artículo 7)
-
-ARTÍCULO
 
 ## art:2.5.4.2.2 — Funciones
 
@@ -26243,8 +23579,6 @@ Son funciones de las Comisiones Departamentales de Policía y Participación Ciu
 
 (Decreto 1028 de 1994 artículo 8)
 
-ARTÍCULO
-
 ## art:2.5.4.2.3 — Representantes
 
 Para la designación a las Comisiones Departamentales de Policía y Participación Ciudadana, cada una de las organizaciones, sectores o gremios señalados por el Gobernador elegirá su representante, por el término de dos (2) años.
@@ -26253,15 +23587,11 @@ Los representantes elegidos deberán acreditar su calidad ante la Secretaría Ej
 
 (Decreto 1028 de 1994 artículo 9)
 
-ARTÍCULO
-
 ## art:2.5.4.2.4 — Asistencia
 
 La asistencia de los miembros a las sesiones de las Comisiones Departamentales de Policía y Participación Ciudadana es de carácter personal e indelegable.
 
 (Decreto 1028 de 1994 artículo 10)
-
-ARTÍCULO
 
 ## art:2.5.4.2.5 — Reuniones
 
@@ -26272,8 +23602,6 @@ Las Comisiones Departamentales de Policía y Participación Ciudadana se reunir�
 CAPÍTULO 3.
 
 DE LAS COMISIONES DE POLICÍA Y PARTICIPACIÓN CIUDADANA DEL DISTRITO CAPITAL Y DE LAS CIUDADES CAPITALES.
-
-ARTÍCULO
 
 ## art:2.5.4.3.1 — Miembros
 
@@ -26305,8 +23633,6 @@ PARÁGRAFO 2. Los Alcaldes podrán invitar a las reuniones de las Comisiones del
 
 (Decreto 1028 de 1994 artículo 12)
 
-ARTÍCULO
-
 ## art:2.5.4.3.2 — Funciones
 
 Son funciones de las Comisiones de Policía y Participación Ciudadana del Distrito Capital y de las Ciudades Capitales:
@@ -26337,8 +23663,6 @@ Son funciones de las Comisiones de Policía y Participación Ciudadana del Distr
 
 (Decreto 1028 de 1994 artículo 13)
 
-ARTÍCULO
-
 ## art:2.5.4.3.3 — Representantes
 
 Para la designación a las Comisiones de Policía y Participación Ciudadana del Distrito Capital y Ciudades Capitales, cada una de las organizaciones, sectores o gremios señalados por el respectivo Alcalde elegirá su representante, por el término de dos (2) años.
@@ -26347,15 +23671,11 @@ Los representantes elegidos deberán acreditar su calidad ante la Secretaría Ej
 
 (Decreto 1028 de 1994 artículo 14)
 
-ARTÍCULO
-
 ## art:2.5.4.3.4 — Asistencia
 
 La asistencia de los miembros a las sesiones de las Comisiones de Policía y Participación Ciudadana del Distrito Capital y de Ciudades Capitales es de carácter personal e indelegable.
 
 (Decreto 1028 de 1994 artículo 15)
-
-ARTÍCULO
 
 ## art:2.5.4.3.5 — Reuniones
 
@@ -26366,8 +23686,6 @@ Las Comisiones de Policía y Participación Ciudadana del Distrito Capital y de 
 CAPÍTULO 4.
 
 DE LAS COMISIONES MUNICIPALES DE POLICÍA Y PARTICIPACIÓN CIUDADANA
-
-ARTÍCULO
 
 ## art:2.5.4.4.1 — Miembros
 
@@ -26394,8 +23712,6 @@ PARÁGRAFO 2. Los Alcaldes velarán porque la composición de las Comisiones Mun
 PARÁGRAFO 3. Los Alcaldes podrán invitar a las reuniones de las Comisiones Municipales a representantes de otros sectores de la comunidad, profesionales, asesores y otros funcionarios públicos cuya intervención sea útil para el cumplimiento de las funciones que le corresponden a las Comisiones.
 
 (Decreto 1028 de 1994 artículo 17)
-
-ARTÍCULO
 
 ## art:2.5.4.4.2 — Funciones
 
@@ -26425,15 +23741,11 @@ Son funciones de las Comisiones Municipales de Policía y Participación Ciudada
 
 (Decreto 1028 de 1994 artículo 18)
 
-ARTÍCULO
-
 ## art:2.5.4.4.3 — 4.3
 
 Los Alcaldes Municipales podrán suspender o disolver en cualquier momento las respectivas Comisiones por razones de orden público o cuando circunstancias especiales así lo ameriten.
 
 (Decreto 1028 de 1994 artículo 19)
-
-ARTÍCULO
 
 ## art:2.5.4.4.4 — Representantes
 
@@ -26443,15 +23755,11 @@ Los representantes elegidos deberán acreditar su calidad ante la Secretaría Ej
 
 (Decreto 1028 de 1994 artículo 20)
 
-ARTÍCULO
-
 ## art:2.5.4.4.5 — Asistencia
 
 La asistencia de los miembros a las sesiones de las Comisiones Municipales de Policía y Participación Ciudadana es de carácter personal e indelegable.
 
 (Decreto 1028 de 1994 artículo 21)
-
-ARTÍCULO
 
 ## art:2.5.4.4.6 — Reuniones
 
@@ -26462,8 +23770,6 @@ Las Comisiones Municipales de Policía y Participación Ciudadana se reunirán o
 CAPÍTULO 5.
 
 DE LAS COMISIONES LOCALES DE POLICÍA Y PARTICIPACIÓN CIUDADANA
-
-ARTÍCULO
 
 ## art:2.5.4.5.1 — Miembros
 
@@ -26479,15 +23785,11 @@ En el Distrito Capital y las Ciudades Capitales los Alcaldes podrán autorizar e
 
 (Decreto 1028 de 1994 artículo 23, modificado por el artículo 23 del Decreto 1028 de 1994)
 
-ARTÍCULO
-
 ## art:2.5.4.5.2 — Funciones
 
 Las Comisiones Locales tendrán por función recomendar medidas de policía tendientes a la prevención de las perturbaciones que atenten contra la seguridad y tranquilidad ciudadana en la respectiva localidad, así como la identificación de los factores irregulares que impidan el eficaz servicio de policía.
 
 (Decreto 1028 de 1994 artículo 24)
-
-ARTÍCULO
 
 ## art:2.5.4.5.3 — Representantes
 
@@ -26497,15 +23799,11 @@ Los representantes elegidos deberán acreditar su calidad ante la Secretaría Ej
 
 (Decreto 1028 de 1994 artículo 25)
 
-ARTÍCULO
-
 ## art:2.5.4.5.4 — Asistencia
 
 La asistencia de los miembros a las sesiones de las Comisiones Locales de Policía y Participación Ciudadana es de carácter personal e indelegable.
 
 (Decreto 1028 de 1994 artículo 26)
-
-ARTÍCULO
 
 ## art:2.5.4.5.5 — Reuniones
 
@@ -26519,15 +23817,11 @@ CAPÍTULO 1.
 
 GENERALIDADES.
 
-ARTÍCULO
-
 ## art:2.5.5.1.1 — Definición
 
 La Policía Cívica en la modalidad de Voluntarios, es un cuerpo no armado de carácter civil, sin ánimo de lucro constituido con el objeto de prestar servicio de apoyo para el cumplimiento de las misiones específicas de la Policía Nacional y con el propósito de fortalecer las relaciones policía-comunidad.
 
 (Decreto 1503 de 1998 artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.5.1.2 — Clasificación
 
@@ -26539,23 +23833,17 @@ La Policía Cívica en la modalidad de Voluntarios se clasifica en:
 
 (Decreto 1503 de 1998 artículo 2)
 
-ARTÍCULO
-
 ## art:2.5.5.1.3 — Funciones de la Policía Cívica de Mayores
 
 Son funciones de la Policía Cívica de Mayores, las establecidas en el artículo 3o del Decreto 355 de 1994, y las demás que tengan relación con los objetivos trazados y con sujeción al presente Título.
 
 (Decreto 1503 de 1998 artículo 3)
 
-ARTÍCULO
-
 ## art:2.5.5.1.4 — Funciones de la Policía Cívica Juvenil
 
 Son funciones de la Policía Cívica Juvenil, las establecidas en el artículo 3o del Decreto 355 de 1994, y las demás que tengan relación con los objetivos trazados y con sujeción al presente Título.
 
 (Decreto 1503 de 1998 artículo 4)
-
-ARTÍCULO
 
 ## art:2.5.5.1.5 — Domicilio
 
@@ -26567,15 +23855,11 @@ CAPÍTULO 2.
 
 DEPENDENCIA, ORGANIZACIÓN Y FUNCIONES.
 
-ARTÍCULO
-
 ## art:2.5.5.2.1 — Dependencia
 
 La Policía Cívica en la modalidad de voluntarios dependerá de la Dirección de Seguridad Ciudadana de la Policía Nacional, a través del Área que conforme a la estructura orgánica interna que se designe para el efecto, la cual cumplirá las funciones establecidas en el Decreto 4222 de 2006, o normas que lo modifiquen o adicionen.
 
 (Decreto 1503 de 1998 artículo 6, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.5.2.2 — Organización
 
@@ -26591,15 +23875,11 @@ Para su organización y funcionamiento la Policía Cívica tendrá la siguiente 
 
 (Decreto 1503 de 1998 artículo 7)
 
-ARTÍCULO
-
 ## art:2.5.5.2.3 — Responsabilidad
 
 Los Comandantes de Departamentos de Policía y Policías Metropolitanas, serán los responsables ante la de la Dirección de Seguridad Ciudadana, de la dirección, funcionamiento y disciplina de la Policía Cívica de Mayores y Juvenil en sus respectivas jurisdicciones.
 
 (Decreto 1503 de 1998 artículo 8, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.5.2.4 — Hojas de Vida
 
@@ -26607,15 +23887,11 @@ En los Departamentos de Policía y Policías Metropolitanas, el Subcomandante se
 
 (Decreto 1503 de 1998 artículo 9)
 
-ARTÍCULO
-
 ## art:2.5.5.2.5 — Control y Funcionamiento
 
 La Policía Cívica de Mayores para efectos de control y dirección funcionará preferencialmente en las capitales de los departamentos de Policía y Policías Metropolitanas y en aquellas ciudades donde las circunstancias lo permitan, previo, concepto del Jefe del Grupo Prevención y Educación Ciudadana, a solicitud de los respectivos Comandantes.
 
 (Decreto 1503 de 1998 artículo 10, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.5.2.6 — Coordinación Departamental de Policía Cívica
 
@@ -26629,8 +23905,6 @@ Para efectos de funcionamiento en los Departamentos de Policía y Policías Metr
 
 (Decreto 1503 de 1998 artículo 11)
 
-ARTÍCULO
-
 ## art:2.5.5.2.7 — Funciones de la Coordinación Departamental de Policía Cívica
 
 Son funciones de la Coordinación Departamental de Policía Cívica:
@@ -26640,8 +23914,6 @@ Son funciones de la Coordinación Departamental de Policía Cívica:
 2. Evaluar el cumplimiento de la misión y objetivos de la Policía Cívica.
 
 (Decreto 1503 de 1998 artículo 12, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.5.2.8 — Funciones del Coordinador Departamental de Policía Cívica
 
@@ -26655,8 +23927,6 @@ Son funciones propias del cargo de Coordinador Departamental de Policía Cívica
 
 (Decreto 1503 de 1998 artículo 13, modificado por el Decreto 4222 de 2006)
 
-ARTÍCULO
-
 ## art:2.5.5.2.9 — Convocatoria
 
 El Director de Seguridad Ciudadana podrá convocar a los Coordinadores Departamentales o de Metropolitana de Policía Cívica, para tratar asuntos relacionados con la buena marcha de la Policía Cívica o cuando las circunstancias lo ameriten.
@@ -26667,23 +23937,17 @@ CAPÍTULO 3.
 
 POLICÍA CÍVICA DE MAYORES
 
-ARTÍCULO
-
 ## art:2.5.5.3.1 — Definición
 
 La Policía Cívica de Mayores está constituida por personas muy representativas de la sociedad, con gran solvencia moral, iniciativa, solidaridad, espíritu cívico, compromiso y especial afecto por la Policía Nacional y que deseen apoyarla en las misiones específicas establecidas en este Título.
 
 (Decreto 1503 de 1998 artículo 15)
 
-ARTÍCULO
-
 ## art:2.5.5.3.2 — Miembros
 
 Podrán ser miembros de la Policía Cívica de Mayores, las personas residentes en el país con amplia solvencia moral, motivadas por un alto sentido cívico y afecto por la Policía Nacional, que en forma voluntaria soliciten pertenecer a ella, previo cumplimiento de los requisitos exigidos.
 
 (Decreto 1503 de 1998 artículo 16)
-
-ARTÍCULO
 
 ## art:2.5.5.3.3 — Requisitos
 
@@ -26705,15 +23969,11 @@ PARÁGRAFO . Cumplidos los requisitos anteriores, la solicitud será estudiada p
 
 (Decreto 1503 de 1998 artículo 17, modificado por el Decreto 4222 de 2006)
 
-ARTÍCULO
-
 ## art:2.5.5.3.4 — Vinculación
 
 El ingreso a la Policía Cívica es voluntario y la Dirección de Seguridad Ciudadana tiene la facultad discrecional de vincular sus miembros entre aquellos que reúnan los requisitos exigidos en este Título.
 
 (Decreto 1503 de 1998 artículo 18, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.5.3.5 — Responsabilidades
 
@@ -26727,15 +23987,11 @@ Los miembros de la Policía Cívica tendrán las siguientes responsabilidades:
 
 (Decreto 1503 de 1998 artículo 19)
 
-ARTÍCULO
-
 ## art:2.5.5.3.6 — Desvinculación
 
 La desvinculación de un miembro de la Policía Cívica es competencia de la Dirección Operativa, en forma discrecional.
 
 (Decreto 1503 de 1998 artículo 20)
-
-ARTÍCULO
 
 ## art:2.5.5.3.7 — Causales de Desvinculación
 
@@ -26763,15 +24019,11 @@ Darán lugar a desvinculación de la Policía Cívica las siguientes causales:
 
 (Decreto 1503 de 1998 artículo 21)
 
-ARTÍCULO
-
 ## art:2.5.5.3.8 — Competencia
 
 La vinculación y desvinculación de los miembros de la Policía Cívica la realiza la Dirección Operativa, una vez haya recibido del respectivo Comandante de Departamento o Policía Metropolitana, la documentación y el concepto correspondiente.
 
 (Decreto 1503 de 1998 artículo 22)
-
-ARTÍCULO
 
 ## art:2.5.5.3.9 — Retiro Voluntario
 
@@ -26781,15 +24033,11 @@ PARÁGRAFO . El Director Operativo, estudiará las condiciones de reingreso de l
 
 (Decreto 1503 de 1998 artículo 23)
 
-ARTÍCULO
-
 ## art:2.5.5.3.10 — Devolución de Elementos
 
 El miembro de la Policía Cívica desvinculado o retirado voluntariamente de la institución, hará entrega de los elementos que se le hayan asignado dentro de los ocho (8) días siguientes a la notificación de la novedad, para ello se evaluará y se le reintegrará el valor correspondiente.
 
 (Decreto 1503 de 1998 artículo 24)
-
-ARTÍCULO
 
 ## art:2.5.5.3.11 — Clasificación
 
@@ -26807,8 +24055,6 @@ CAPÍTULO 4.
 
 POLICÍA CÍVICA JUVENIL.
 
-ARTÍCULO
-
 ## art:2.5.5.4.1 — Definición
 
 La Policía Cívica Juvenil hace parte de la Policía Cívica, se encarga de apoyar las funciones preventiva, educativa y social que cumple la Policía Nacional relacionadas con la población infantil y juvenil residente en el territorio nacional.
@@ -26817,23 +24063,17 @@ PARÁGRAFO . El objeto fundamental de la Policía Cívica Juvenil es crear en la
 
 (Decreto 1503 de 1998 artículo 2 5)
 
-ARTÍCULO
-
 ## art:2.5.5.4.2 — Miembros
 
 La Policía Cívica Juvenil estará constituida por jóvenes colombianos, de excelentes condiciones morales y sociales y deseo de servir a la comunidad, cuyo ingreso será voluntario y su nombramiento se hará a través del Comando de Departamento de Policía o Policía Metropolitana.
 
 (Decreto 1503 de 1998 artículo 26)
 
-ARTÍCULO
-
 ## art:2.5.5.4.3 — Administración y Funcionamiento
 
 Para efectos de administración y funcionamiento la Policía Cívica Juvenil dependerá del Comando de Departamento de Policía, Policía Metropolitana y/o Estación de Policía a la cual pertenezca.
 
 (Decreto 1503 de 1998 artículo 27)
-
-ARTÍCULO
 
 ## art:2.5.5.4.4 — Requisitos
 
@@ -26859,8 +24099,6 @@ CAPÍTULO 5.
 
 DISPOSICIONES COMPLEMENTARIAS.
 
-ARTÍCULO
-
 ## art:2.5.5.5.1 — Condición o Carácter
 
 Los miembros de la Policía Cívica de Mayores y Policía Cívica Juvenil, no están investidos de autoridad ni tienen carácter de servidores públicos y sus actuaciones se limitan al apoyo de los miembros de la Policía Nacional, no pueden utilizar prendas ni elementos de uso privativo de la Fuerza Pública y responden personal e individualmente de sus actos.
@@ -26869,15 +24107,11 @@ PARÁGRAFO . El nombre de la Policía Cívica y el carácter que ésta impone a 
 
 (Decreto 1503 de 1998 artículo 29)
 
-ARTÍCULO
-
 ## art:2.5.5.5.2 — Servicio Voluntario
 
 No existirá ningún tipo de remuneración salarial ni prestacional para los miembros de la Policía Cívica, por tratarse de un servicio voluntario a la comunidad.
 
 (Decreto 1503 de 1998 artículo 30)
-
-ARTÍCULO
 
 ## art:2.5.5.5.3 — Carné
 
@@ -26885,15 +24119,11 @@ La elaboración y distribución del carné de Policía Cívico estará a cargo d
 
 (Decreto 1503 de 1998 artículo 31)
 
-ARTÍCULO
-
 ## art:2.5.5.5.4 — Supervisión y Evaluación
 
 La Dirección de Seguridad Ciudadana, será la encargada de supervisar y evaluar el funcionamiento de la Policía Cívica a nivel nacional, a través del Área que conforme a la estructura orgánica interna se designe para el efecto.
 
 (Decreto 1503 de 1998 artículo 32, modificado por el Decreto 4222 de 2006)
-
-ARTÍCULO
 
 ## art:2.5.5.5.5 — Prohibición
 
@@ -26901,23 +24131,17 @@ La Policía Cívica no podrá desarrollar operaciones policiales ni utilizar arm
 
 (Decreto 1503 de 1998 artículo 33)
 
-ARTÍCULO
-
 ## art:2.5.5.5.6 — Autorización
 
 Autorizase al Director General de la Policía Nacional para suspender transitoriamente el funcionamiento de la Policía Cívica cuando las circunstancias lo ameriten.
 
 (Decreto 1503 de 1998 artículo 34)
 
-ARTÍCULO
-
 ## art:2.5.5.5.7 — Facultad
 
 Facultase al Director General de la Policía Nacional para reglamentar aspectos que contribuyan a la buena marcha de la Policía Cívica.
 
 (Decreto 1503 de 1998 artículo 35)
-
-ARTÍCULO
 
 ## art:2.5.5.5.8 — Equipo de Comunicaciones
 
@@ -26926,8 +24150,6 @@ Al ingreso a la Policía Cívica y una vez aportado el equipo de comunicaciones,
 PARÁGRAFO . A partir del 9 de marzo de 1995 (entrada en vigencia del Decreto 0431 de 1995), todo miembro de la Policía Cívica deberá proveerse del correspondiente permiso para portar y utilizar el radio de acuerdo con la reglamentación del Ministerio de Comunicaciones.
 
 (Decreto 0431 de 1995 artículo 36)
-
-ARTÍCULO
 
 ## art:2.5.5.5.9 — Congreso Nacional de Policía Cívica
 
@@ -26945,23 +24167,17 @@ SECCIÓN 1.
 
 DEFINICION Y OBJETIVO DEL SERVICIO AUXILIAR.
 
-ARTÍCULO
-
 ## art:2.5.6.1.1.1 — Servicio Auxiliar
 
 El servicio auxiliar de policía establecido por la Ley 2ª de 1977 es una forma de prestar el servicio militar obligatorio.
 
 (Decreto 0750 de 1977 artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.6.1.1.2 — Especialidad de Policía
 
 Quienes presten el seN1c10 auxiliar de policía, durante el tiempo y en las condiciones previstas en este Capítulo, cumplirán con la obligación del servicio militar y formarán parte de las reservas nacionales en la especialidad de policía.
 
 (Decreto 0750 de 1977 artículo 2)
-
-ARTÍCULO
 
 ## art:2.5.6.1.1.3 — Prestación del Servicio Auxiliar
 
@@ -26973,15 +24189,11 @@ SECCIÓN 2.
 
 DE LA ORGANIZACIÓN.
 
-ARTÍCULO
-
 ## art:2.5.6.1.2.1 — Organización
 
 El cuerpo auxiliar actuará dentro de la organización que tiene la policía nacional y cumplirá las funciones que la ley asigna a los agentes de ésta.
 
 (Decreto 0750 de 1977 artículo 4)
-
-ARTÍCULO
 
 ## art:2.5.6.1.2.2 — Jurisdicción y Mando
 
@@ -26989,15 +24201,11 @@ Para todos los efectos operativos, las unidades del cuerpo auxiliar en el servic
 
 (Decreto 0750 de 1977 artículo 5)
 
-ARTÍCULO
-
 ## art:2.5.6.1.2.3 — Disciplina, Mando y Administración
 
 Los Comandantes de Unidad del cuerpo auxiliar responden ante el respectivo Comando de Departamento o Metropolitana de Policía por la disciplina, mando y administración, así como por el orden público y la prevención del delito en las áreas asignadas a su responsabilidad.
 
 (Decreto 0750 de 1977 artículo 6)
-
-ARTÍCULO
 
 ## art:2.5.6.1.2.4 — Normas Aplicables
 
@@ -27006,8 +24214,6 @@ Las normas contenidas en el estatuto orgánico de la policía nacional, son apli
 Igualmente le es aplicable el reglamento de incapacidad, invalideces e indemnizaciones para el personal de las Fuerzas Militares y de la Policía Nacional en lo concerniente al personal de soldados.
 
 (Decreto 0750 de 1977 artículo 7)
-
-ARTÍCULO
 
 ## art:2.5.6.1.2.5 — Mando y disciplina
 
@@ -27018,8 +24224,6 @@ Para efectos de mando y disciplina, los Comandantes respectivos tendrán las atr
 SECCIÓN 3.
 
 ATRIBUCIONES DEL JEFE DEL CUERPO AUXILIAR.
-
-ARTÍCULO
 
 ## art:2.5.6.1.3.1 — Atribuciones
 
@@ -27047,15 +24251,11 @@ SECCIÓN 4.
 
 DE LAS INCORPORACIONES EN EL CUERPO AUXILIAR.
 
-ARTÍCULO
-
 ## art:2.5.6.1.4.1 — Incorporaciones
 
 Serán dados de alta en el cuerpo auxiliar de Policía quienes reúnan los requisitos que determinen el estatuto y el manual de incorporación de los agentes profesionales, con el fin de que los incorporados en dicho servicio auxiliar puedan realizar adecuadamente las misiones propias de policía en todas sus modalidades.
 
 (Decreto 0750 de 1977 artículo 10)
-
-ARTÍCULO
 
 ## art:2.5.6.1.4.2 — Plantas de Personal
 
@@ -27063,15 +24263,11 @@ La incorporación se hará en las proporciones que determine la Dirección Gener
 
 (Decreto 0750 de 1977 artículo 11)
 
-ARTÍCULO
-
 ## art:2.5.6.1.4.3 — Porcentaje de Efectivos
 
 El personal de agentes del cuerpo auxiliar no podrá ser superior al treinta por ciento del total de efectivos; el resto será de agentes profesionales.
 
 (Decreto 0750 de 1977 artículo 12)
-
-ARTÍCULO
 
 ## art:2.5.6.1.4.4 — Organismo de Movilización y Reclutamiento
 
@@ -27079,15 +24275,11 @@ El personal incorporado para integrar el cuerpo auxiliar será inscrito en el se
 
 (Decreto 0750de 1977 artículo 13)
 
-ARTÍCULO
-
 ## art:2.5.6.1.4.5 — Coordinaciones Autoridades Militares
 
 En coordinación con las autoridades militares del servicio territorial, la Policía Nacional hará las incorporaciones periódicas dispuestas por la Dirección General, mediante comisiones integradas para este fin.
 
 (Decreto 0750 de 1977 artículo 14)
-
-ARTÍCULO
 
 ## art:2.5.6.1.4.6 — Duración del Servicio
 
@@ -27099,23 +24291,17 @@ SECCIÓN 5.
 
 DE LA CAPACITACIÓN DE AUXILIARES.
 
-ARTÍCULO
-
 ## art:2.5.6.1.5.1 — Capacitación
 
 La capacitación policial que reciba el cuerpo auxiliar será determinada por el Director General de la Policía Nacional, según el pensum académico elaborado por la Dirección Nacional de Escuelas.
 
 (Decreto 0750 de 1977 artículo 16)
 
-ARTÍCULO
-
 ## art:2.5.6.1.5.2 — Instrucción
 
 La estructura orgánica de las Escuelas de Formación no variará para los efectos de la instrucción del personal del cuerpo auxiliar.
 
 (Decreto 0750 de 1977 artículo 17)
-
-ARTÍCULO
 
 ## art:2.5.6.1.5.3 — Destinación
 
@@ -27127,15 +24313,11 @@ SECCIÓN 6.
 
 DE LAS PRESTACIONES.
 
-ARTÍCULO
-
 ## art:2.5.6.1.6.1 — Bonificaciones
 
 Desde la fecha de alta y hasta su licenciamiento, los auxiliares percibirán del Gobierno Nacional una bonificación mensual equivalente a tres veces la asignación en todo tiempo a un soldado de las Fuerzas Militares.
 
 (Decreto 0750 de 1977 artículo 19)
-
-ARTÍCULO
 
 ## art:2.5.6.1.6.2 — Derechos
 
@@ -27143,15 +24325,11 @@ Durante el tiempo de servicio, los Auxiliares no tendrán derecho sino a las pre
 
 (Decreto 0750 de 1977 artículo 20)
 
-ARTÍCULO
-
 ## art:2.5.6.1.6.3 — Partidas
 
 Para atender los gastos de alimentación, equipo individual y demás medíos de subsistencia de los auxiliares, la Dirección General de la Policía Nacional, mediante resolución, establecerá anualmente las partidas de dotación inicial.
 
 (Decreto 0750 de 1977 artículo 21)
-
-ARTÍCULO
 
 ## art:2.5.6.1.6.4 — Beneficios
 
@@ -27163,23 +24341,17 @@ SECCIÓN 7.
 
 DEL LICENCIAMIENTO.
 
-ARTÍCULO
-
 ## art:2.5.6.1.7.1 — Ingreso Cuerpo Profesional de la Policía Nacional
 
 El personal del servicio auxiliar deberá ser objeto, por parte de sus inmediatos superiores, de una ponderada evaluación de sus actividades y aptitudes al término de la instrucción y de su comportamiento a través del servicio policial, a fin de seleccionar a quienes soliciten ingreso al cuerpo profesional de la Policía Nacional.
 
 (Decreto 0750 de 1977 artículo 23)
 
-ARTÍCULO
-
 ## art:2.5.6.1.7.2 — Tarjetas Militares
 
 El licenciamiento de este personal se efectuará en el Departamento de Policía en donde preste su servicio, y se pasarán las listas a la sección de reclutamiento y movilización para la expedición de las tarjetas militares.
 
 (Decreto 0750 de 1977 artículo 24)
-
-ARTÍCULO
 
 ## art:2.5.6.1.7.3 — Licenciamiento
 
@@ -27190,8 +24362,6 @@ El personal del cuerpo auxiliar sólo podrá ser licenciado en las condiciones s
 SECCIÓN 8.
 
 DISPOSICIONES VARIAS.
-
-ARTÍCULO
 
 ## art:2.5.6.1.8.1 — Costos
 
@@ -27207,23 +24377,17 @@ SECCIÓN 1.
 
 DENOMINACIÓN Y OBJETIVO.
 
-ARTÍCULO
-
 ## art:2.5.6.2.1.1 — Definición
 
 El Servicio Militar Obligatorio establecido por la Ley 4ª. de 1991, para los bachilleres, es una modalidad del Servicio Militar Obligatorio, bajo la dirección y mando de la Policía Nacional.
 
 (Decreto 2853 de 1991 artículo 1)
 
-ARTÍCULO
-
 ## art:2.5.6.2.1.2 — Denominación
 
 Los Bachilleres que presten el Servicio Militar Obligatorio en la Policía Nacional, actuarán dentro de la organización y funcionamiento que la ley asigne a la Policía Nacional, con la denominación de AUXILIARES DE POLICIA BACHILLERES.
 
 (Decreto 2853 de 1991 artículo 2)
-
-ARTÍCULO
 
 ## art:2.5.6.2.1.3 — Objetivo
 
@@ -27235,15 +24399,11 @@ SECCIÓN 2.
 
 ORGANIZACIÓN Y ADMINISTRACIÓN.
 
-ARTÍCULO
-
 ## art:2.5.6.2.2.1 — Administración
 
 La Policía Nacional para la prestación del Servicio Militar Obligatorio por parte de los bachilleres, se hará cargo de la administración de personal, del apoyo logístico y de su utilización para los fines previstos en la Ley 4ª de 1991.
 
 (Decreto 2853 de 1991 artículo 4)
-
-ARTÍCULO
 
 ## art:2.5.6.2.2.2 — Jurisdicción y Mando
 
@@ -27251,15 +24411,11 @@ Los Auxiliares de Policía Bachilleres en servicio, quedarán sometidos a la jur
 
 (Decreto 2853 de 1991 artículo 5)
 
-ARTÍCULO
-
 ## art:2.5.6.2.2.3 — Normas
 
 Las normas contenidas en el Estatuto Orgánico de la Policía Nacional, son aplicables a los Auxiliares de Policía Bachilleres, en cuanto les sean pertinentes.
 
 (Decreto 2853 de 1991 artículo 6)
-
-ARTÍCULO
 
 ## art:2.5.6.2.2.4 — Lugar de Prestación del Servicio
 
@@ -27267,15 +24423,11 @@ Los Auxiliares de Policía Bachilleres, prestarán el servicio preferiblemente e
 
 (Decreto 2853 de 1991 artículo 7)
 
-ARTÍCULO
-
 ## art:2.5.6.2.2.5 — Elementos del Servicio
 
 Los Auxiliares de Policía Bachilleres, emplearán en la prestación del servicio, revólver, bastón de mando, esposas y pito.
 
 (Decreto 2853 de 1991 artículo 8)
-
-ARTÍCULO
 
 ## art:2.5.6.2.2.6 — Atribuciones del Director General
 
@@ -27295,8 +24447,6 @@ El Director General de la Policía Nacional tendrá las siguientes atribuciones 
 
 (Decreto 2853 de 1991 artículo 9)
 
-ARTÍCULO
-
 ## art:2.5.6.2.2.7 — Duración
 
 El Servicio Militar Obligatorio para Bachilleres en la Policía Nacional, tendrá una duración de doce (12) meses, de los cuales tres (3) meses serán para instrucción básica y nueve (9) para la prestación del servicio propiamente dicho.
@@ -27309,23 +24459,17 @@ SECCIÓN 3.
 
 DEL PERSONAL.
 
-ARTÍCULO
-
 ## art:2.5.6.2.3.1 — Inscripción y Reclutamiento
 
 La inscripción y reclutamiento de los colombianos bachilleres que vayan a prestar el servicio Militar Obligatorio en la Policía Nacional, se hará a través de la Dirección de Reclutamiento y Control Reservas del Ejército, la cual entregará a la Policía Nacional las cuotas requeridas en proporción de dos a uno para efectos de la selección respectiva.
 
 (Decreto 2853 de 1991 artículo 11)
 
-ARTÍCULO
-
 ## art:2.5.6.2.3.2 — Selección e Incorporación
 
 La selección de los bachilleres aspirantes a prestar el Servicio Militar Obligatorio en la Policía Nacional, la realizará la respectiva Regional de Incorporación de esa Institución, en los centros de concentración que establezca, entre el personal que sea citado por la Dirección de Reclutamiento y Control de Reservas del Ejército, previa coordinación.
 
 (Decreto 2853 de 1991 artículo 12)
-
-ARTÍCULO
 
 ## art:2.5.6.2.3.3 — Requisitos
 
@@ -27343,15 +24487,11 @@ Los bachilleres aspirantes a prestar el Servicio Militar Obligatorio en la Polic
 
 (Decreto 2853 de 1991 artículo 13)
 
-ARTÍCULO
-
 ## art:2.5.6.2.3.4 — Instrucción Básica
 
 Los Auxiliares de Policía Bachilleres recibirán instrucción básica en las Escuelas de Formación de la Policía Nacional, la cual será orientada a labores de Policía Especial, con énfasis en las funciones educativa, preventiva y social, de acuerdo con el plan de estudios que establezca la Dirección General de la Policía Nacional.
 
 (Decreto 2853 de 1991 artículo 14)
-
-ARTÍCULO
 
 ## art:2.5.6.2.3.5 — Mejor Alumno
 
@@ -27359,15 +24499,11 @@ Mientras dure el período de capacitación, el mejor alumno. en cada Centro de I
 
 (Decreto 2853 de 1991 artículo 15)
 
-ARTÍCULO
-
 ## art:2.5.6.2.3.6 — Carné de Identificación
 
 Las unidades expedirán un carné de identificación a los Auxiliares de Policía Bachilleres, para control de personal y prestación de servicios médicos, de acuerdo con el diseño que establezca la Dirección General de la Policía Nacional.
 
 (Decreto 2853 de 1991 artículo 16)
-
-ARTÍCULO
 
 ## art:2.5.6.2.3.7 — Uniformes
 
@@ -27378,8 +24514,6 @@ Los Auxiliares de Policía Bachilleres utilizarán los uniformes que establezca 
 SECCIÓN 4.
 
 FUNCIONES.
-
-ARTÍCULO
 
 ## art:2.5.6.2.4.1 — Funciones
 
@@ -27417,8 +24551,6 @@ SECCIÓN 5.
 
 PROCEDIMIENTOS.
 
-ARTÍCULO
-
 ## art:2.5.6.2.5.1 — Procedimientos
 
 El conocimiento de los asuntos o motivos de policía se efectuará a través de patrullajes apoyados permanentemente por los oficiales, suboficiales y agentes de la Policía Nacional, disponiendo de los siguientes medios de policía:
@@ -27431,8 +24563,6 @@ El conocimiento de los asuntos o motivos de policía se efectuará a través de 
 
 (Decreto 2853 de 1991 artículo 19)
 
-ARTÍCULO
-
 ## art:2.5.6.2.5.2 — Medios
 
 Para el cumplimiento de sus funciones, los Auxiliares de Policía Bachilleres emplearán solo medios autorizados por la Ley o Reglamento y escogerán siempre, entre los eficaces, aquellos que causen menor daño a la integridad de las personas y de sus bienes. Tales medios no podrán utilizarse más allá del tiempo indispensable para el mantenimiento del orden o su restablecimiento.
@@ -27442,8 +24572,6 @@ Para el cumplimiento de sus funciones, los Auxiliares de Policía Bachilleres em
 SECCIÓN 6.
 
 RÉGIMEN INTERNO Y DISCIPLINARIO.
-
-ARTÍCULO
 
 ## art:2.5.6.2.6.1 — Régimen Interno
 
@@ -27455,8 +24583,6 @@ Los auxiliares de Policía Bachilleres, quedarán sometidos al siguiente régime
 
 (Decreto 2853 de 1991 artículo 21)
 
-ARTÍCULO
-
 ## art:2.5.6.2.6.2 — Competencia
 
 De conformidad con el artículo 33 de la Ley 4ª. De 1991, a los Auxiliares de Policía Bachilleres, se les aplicará el régimen disciplinario, vigente para las Fuerzas Militares, pero la competencia para conocer y sancionar las faltas que éstos cometan, la tendrán los oficiales y suboficiales de la Policía Nacional que posean cargo equivalente al de los miembros de las Fuerzas Militares.
@@ -27466,8 +24592,6 @@ De conformidad con el artículo 33 de la Ley 4ª. De 1991, a los Auxiliares de P
 SECCIÓN 7.
 
 PRESTACIONES.
-
-ARTÍCULO
 
 ## art:2.5.6.2.7.1 — Prestaciones
 
@@ -27485,15 +24609,11 @@ Los Auxiliares de Policía Bachilleres, mientras presten el Servicio Militar Obl
 
 (Decreto 2853 de 1991 artículo 23)
 
-ARTÍCULO
-
 ## art:2.5.6.2.7.2 — Dotación
 
 A los Auxiliares de Policía Bachilleres, se les dotará de vestuario y demás elementos necesarios para el servicio, igual en todo tiempo a la dotación de un soldado de las Fuerzas Militares.
 
 (Decreto 2853 de 1991 artículo 24)
-
-ARTÍCULO
 
 ## art:2.5.6.2.7.3 — 
 
@@ -27501,15 +24621,11 @@ ARTÍCULO
 
 (Decreto 2853 de 1991 artículo 25)
 
-ARTÍCULO
-
 ## art:2.5.6.2.7.4 — Incapacidades e Indemnizaciones
 
 Para efectos de determinar, clasificar y evaluar las aptitudes, invalideces, incapacidades e indemnizaciones, los Auxiliares de Policía Bachilleres, quedarán sometidos al Régimen de la Capacidad sicofísica e Incapacidades, Invalideces e Indemnizaciones de quienes presten el Servicio Militar Obligatorio.
 
 (Decreto 2853 de 1991 artículo 26)
-
-ARTÍCULO
 
 ## art:2.5.6.2.7.5 — Prestaciones por Muerte o Desaparecimiento
 
@@ -27523,15 +24639,11 @@ SECCIÓN 8.
 
 DEL LICENCIAMIENTO.
 
-ARTÍCULO
-
 ## art:2.5.6.2.8.1 — Licenciamiento
 
 El licenciamiento de este personal se efectuará en la unidad policial donde haya prestado su servicio. El respectivo Director o Comandante remitirá las listas de los licenciados a la Dirección de Reclutamiento y Control Reservas del Ejército, para la expedición de las tarjetas de reservista.
 
 (Decreto 2853 de 1991 artículo 28)
-
-ARTÍCULO
 
 ## art:2.5.6.2.8.2 — Oportunidad
 
@@ -27543,15 +24655,11 @@ SECCIÓN 9.
 
 DISPOSICIONES VARIAS.
 
-ARTÍCULO
-
 ## art:2.5.6.2.9.1 — Gastos
 
 Para atender los gastos de equipo individual y demás medios de subsistencia de los Auxiliares de Policía Bachilleres, la Dirección General de la Policía Nacional, establecerá anualmente las partidas de dotación, de acuerdo con las asignaciones presupuestales que debe hacer el Gobierno Nacional para este efecto.
 
 (Decreto 2853 de 1991 artículo 30)
-
-ARTÍCULO
 
 ## art:2.5.6.2.9.2 — Costos
 
@@ -27559,15 +24667,11 @@ Con base en el número de incorporaciones programadas y los costos calculados an
 
 (Decreto 2853 de 1991 artículo 31)
 
-ARTÍCULO
-
 ## art:2.5.6.2.9.3 — Beneficios
 
 Los Bachilleres que hayan prestado el Servicio Militar en la Policía Nacional, tendrán prelación para ingresar a la Institución, previo el lleno de los requisitos establecidos en los respectivo Estatutos de Carrera.
 
 (Decreto 2853 de 1991 artículo 32)
-
-ARTÍCULO
 
 ## art:2.5.6.2.9.4 — Coordinaciones
 
@@ -27576,8 +24680,6 @@ El Director General de la Policía Nacional, los Comandantes de Policía Metropo
 (Decreto 2853 de 1991 artículo 33)
 
 REGLAMENTARIO DEL ARTÍCULO 6 DE LA DECISIÓN NÚMERO 774 DEL 30 DE JULIO DE 2012 DE LA COMUNIDAD ANDINA DE NACIONES Y EL ARTÍCULO 106 DE LA LEY 1450 DE 2011 EN RELACIÓN CON EL USO DE MAQUINARIA PESADA Y SUS PARTES EN ACTIVIDADES MINERAS SIN LAS AUTORIZACIONES Y EXIGENCIAS PREVISTAS EN LA LEY
-
-ARTÍCULO
 
 ## art:2.5.7.1 — 7.1
 
@@ -27588,8 +24690,6 @@ PARÁGRAFO 1. Para los efectos del presente Título entiéndase como maquinaria 
 PARÁGRAFO 2. La medida de destrucción prevista en el artículo 60 de la Decisión 774 de 2012 de la Comunidad Andina de Naciones es autónoma y no afecta las acciones penales o administrativas en curso o susceptibles de ser iniciadas.
 
 (Decreto 2235 de 2012 artículo 1)
-
-ARTÍCULO
 
 ## art:2.5.7.2 — Ejecución de la Medida de Destrucción
 
@@ -27609,8 +24709,6 @@ Con el fin de salvaguardar los derechos de quienes ejerzan la exploración o exp
 
 (Modifica Art 1, Decreto 1035 de 2024)
 
-ARTÍCULO
-
 ## art:2.5.7.4 — Registro e Informe
 
 En cada caso de ejecución de la medida de destrucción se dejará constancia mediante informe escrito que contemple, entre otros aspectos, un registro fílmico y fotográfico, así como la plena identificación de los bienes objeto de destrucción.
@@ -27627,8 +24725,6 @@ SECCIÓN 1.
 
 ASIGNACIONES PRIMAS Y SUBSIDIOS.
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.1 — Prima para Oficiales de los Servicios
 
 Para el reconocimiento y pago de la prima para Oficiales de los Servicios, consagrada en el artículo 73 del Decreto 1212 de 1990, se deberán cumplir los siguientes requisitos:
@@ -27638,8 +24734,6 @@ a) Solicitud al Director General de la Policía Nacional;
 b) Certificación del Director respectivo de la Dirección General, del Comandante de Departamento o Policía Metropolitana o Director de Escuela, según sea el caso, en que conste que el Oficial, labora en su especialidad profesional un tiempo mínimo igual al que rige para los demás Oficiales, según el Reglamento de Régimen Interno de la respectiva Unidad.
 
 (Decreto 0400 de 1992 artículo 47)
-
-ARTÍCULO
 
 ## art:2.5.8.1.1.2 — Suspensión de la Prima para Oficiales de los Servicios
 
@@ -27659,8 +24753,6 @@ e) Cuando sea enviado al exterior, por tratamiento médico.
 
 (Decreto 0400 de 1992 artículo 48)
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.3 — Reconocimiento de la Prima de Especialista
 
 Para el reconocimiento de la prima de especialista que consagra el artículo 74 del Decreto 1212 de 1990, los Suboficiales deberán llenar los siguientes requisitos:
@@ -27675,15 +24767,11 @@ PARÁGRAFO . La liquidación de la prima de especialista para los Suboficiales e
 
 (Decreto 0400 de 1992 artículo 49)
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.4 — Suspensión de la Prima de Especialista
 
 Cuando un Suboficial pase a desempeñar cargo o función ajena a la especialidad técnica que dio lugar al reconocimiento de la prima de especialista, sea llamado a adelantar curso de capacitación o sea enviado en comisión de estudios, se suspenderá el goce de dicho beneficio.
 
 (Decreto 0400 de 1992 artículo 50)
-
-ARTÍCULO
 
 ## art:2.5.8.1.1.5 — Prima de Vuelo
 
@@ -27696,8 +24784,6 @@ b) Certificación del Comando del Servicio Aéreo en que conste el número de ho
 PARÁGRAFO . Para el reconocimiento e incremento de la prima de vuelo, el Comando del Servicio Aéreo mensualmente reportará a la División de Sistemas, la relación de Oficiales y Suboficiales que hayan adquirido este derecho.
 
 (Decreto 0400 de 1992 artículo 51)
-
-ARTÍCULO
 
 ## art:2.5.8.1.1.6 — Prima de Riesgo
 
@@ -27713,15 +24799,11 @@ PARÁGRAFO . Los Directores y Comandantes respectivos reportarán a la División
 
 (Decreto 0400 de 1992 artículo 52)
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.7 — Reconocimiento de la Prima de Alojamiento en el Exterior
 
 Para el reconocimiento de la prima de alojamiento a que se refiere el inciso 1 del artículo 79 del Decreto 1212 de 1990, el Oficial o Suboficial deberá elevar solicitud a la Dirección General de la Policía Nacional, anexando constancia expedida por el Agente Consular colombiano, acreditado ante el respectivo país, sobre el traslado y alojamiento de su familia en la nueva sede.
 
 (Decreto 0400 de 1992 artículo 53)
-
-ARTÍCULO
 
 ## art:2.5.8.1.1.8 — Requisitos para el Reconocimiento de la Prima de Instalación
 
@@ -27745,23 +24827,17 @@ PARÁGRAFO 5. Si el traslado se produce del exterior al interior del país, la p
 
 (Decreto 0400 de 1992 artículo 54)
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.9 — Subsidio Familiar
 
 Para efectos del reconocimiento del subsidio familiar de que trata el artículo 82 del Decreto 1212 de 1990, el Oficial o Suboficial formulará por escrito la solicitud a la Dirección General de la Policía Nacional, acompañada de las actas de registro civil en que conste su matrimonio o el nacimiento de cada una de sus hijos, respectivamente.
 
 (Decreto 0400 de 1992 artículo 55)
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.10 — Comprobación de Excepciones
 
 Para comprobar las excepciones de que trata el parágrafo del artículo 83 del Decreto 1212 de 1990, el beneficiario deberá acreditar anualmente ante la Dirección de Personal, la condición de estudiante o inválido para continuar percibiendo el subsidio correspondiente, mediante la presentación de la constancia del establecimiento educativo respectivo o de la Sanidad de la Policía, según el caso, expedidos con anterioridad no mayor de dos (2) meses.
 
 (Decreto 0400 de 1992 artículo 56)
-
-ARTÍCULO
 
 ## art:2.5.8.1.1.11 — Descuento Subsidio Familiar
 
@@ -27771,15 +24847,11 @@ PARÁGRAFO . La División de Sistemas suspenderá automáticamente en los porcen
 
 (Decreto 0400 de 1992 artículo 57)
 
-ARTÍCULO
-
 ## art:2.5.8.1.1.12 — Pago Doble de Subsidio Familiar
 
 Para hacer efectivo el cumplimiento de lo dispuesto en el artículo 86 del Decreto 1212 de 1990, el Oficial o Suboficial de la Policía Nacional deberá informar mediante declaración jurada, rendida ante autoridad competente, si su cónyuge tiene relación laboral con el Ministerio de Defensa, la Policía Nacional o alguna entidad oficial, caso en el cual deberá allegar constancia de que éste no percibe subsidio familiar.
 
 (Decreto 0400 de 1992 artículo 58)
-
-ARTÍCULO
 
 ## art:2.5.8.1.1.13 — Partida de Alimentación
 
@@ -27791,8 +24863,6 @@ SECCIÓN 2.
 
 DOTACIONES.
 
-ARTÍCULO
-
 ## art:2.5.8.1.2.1 — Dotación Anual de Vestuario y Equipo
 
 El Ministerio de Defensa Nacional fijará anualmente la dotación de vestuario y equipo a que tienen derecho los Oficiales y Suboficiales en servicio activo.
@@ -27800,8 +24870,6 @@ El Ministerio de Defensa Nacional fijará anualmente la dotación de vestuario y
 Esta partida será acumulada de un año para otro, pero no será compensada en dinero.
 
 (Decreto 0400 de 1992 artículo 60)
-
-ARTÍCULO
 
 ## art:2.5.8.1.2.2 — Devolución de Dotaciones
 
@@ -27816,8 +24884,6 @@ DE LAS PRESTACIONES SOCIALES.
 SECCIÓN 1.
 
 PRESTACIONES EN ACTIVIDAD.
-
-ARTÍCULO
 
 ## art:2.5.8.2.1.1 — Servicios Medico - Asistenciales
 
@@ -27837,15 +24903,11 @@ Igualmente en todos los casos, deberá acompañarse copia auténtica de la decla
 
 (Decreto 0400 de 1992 artículo 67)
 
-ARTÍCULO
-
 ## art:2.5.8.2.1.2 — No Utilización de los Servicios
 
 Cuando los Oficiales, Suboficiales o sus beneficiarios sin autorización dejen de utilizar los servicios médico Asistenciales de la Sanidad de la Policía Nacional, ésta quedará exonerada de toda responsabilidad por tal concepto.
 
 (Decreto 0400 de 1992 artículo 68)
-
-ARTÍCULO
 
 ## art:2.5.8.2.1.3 — Interrupción de, Tratamiento
 
@@ -27853,15 +24915,11 @@ Cuando el Oficial o Suboficial o sus beneficiarios sin causa justificada interru
 
 (Decreto 0400 de 1992 artículo 69)
 
-ARTÍCULO
-
 ## art:2.5.8.2.1.4 — Servicios a Personas sin Derecho
 
 El Oficial o Suboficial que obtenga la prestación de servicios médico asistenciales a personas sin derecho a ellos, deberá pagar una suma equivalente al valor fijado para tales servicios en la escala de tarifas prevista por las normas correspondientes, sin perjuicio de las acciones disciplinarias y penales respectivas. Dicha suma será destinada al presupuesto de sanidad de la Policía y podrá descontarse de la asignación mensual de actividad, de retiro o pensión del causante, de conformidad con lo previsto en el artículo 154 del Decreto 1212 de 1990.
 
 (Decreto 0400 de 1992 artículo 70)
-
-ARTÍCULO
 
 ## art:2.5.8.2.1.5 — Obligatoriedad de las Vacaciones
 
@@ -27873,23 +24931,17 @@ PARÁGRAFO 2. Se considera como tiempo no servido, la licencia sin derecho a sue
 
 (Decreto 0400 de 1992 artículo 71)
 
-ARTÍCULO
-
 ## art:2.5.8.2.1.6 — Vacaciones del Personal en Comisión en otras Entidades
 
 Cuando los Oficiales y Suboficiales presten sus servicios en comisión en otras dependencias del Estado disfrutarán de vacaciones anuales, de acuerdo con las necesidades de la respectiva dependencia, la cual deberá expedir con destino a la Dirección de Personal de la Policía Nacional, una certificación sobre dicho período.
 
 (Decreto 0400 de 1992 artículo 72)
 
-ARTÍCULO
-
 ## art:2.5.8.2.1.7 — Anticipo de Cesantía
 
 El anticipo de cesantía consagrado en el artículo 136 del Decreto 1212 de 1990, sólo se liquidará y cancelará al Oficial o Suboficial cuando el Director General de la Policía lo autorice con base en las correspondientes disponibilidades presupuestales. La solicitud podrá ser formulada directamente por conducto de la Caja de Vivienda Militar o por la entidad que financie la vivienda.
 
 (Decreto 0400 de 1992 artículo 73)
-
-ARTÍCULO
 
 ## art:2.5.8.2.1.8 — Comprobación de Circunstancias para Fines de Indemnización
 
@@ -27901,8 +24953,6 @@ SECCIÓN 2.
 
 DE LAS PRESTACIONES EN RETIRO.
 
-ARTÍCULO
-
 ## art:2.5.8.2.2.1 — Reconocimiento Prima de Actividad
 
 Para los fines previstos en el artículo 142 del Decreto 1212 de 1990, la Policía Nacional y la Caja de Sueldos de Retiro de la Policía Nacional procederán de oficio a efectuar los reajustes correspondientes.
@@ -27911,15 +24961,11 @@ PARÁGRAFO . Para el reconocimiento de este derecho se tendrá en cuenta el tiem
 
 (Decreto 0400 de 1992 artículo 75)
 
-ARTÍCULO
-
 ## art:2.5.8.2.2.2 — Tiempo Doble
 
 Para efectos del parágrafo 1 del artículo 152 del Decreto 1212 de 1990 los tiempos dobles en ningún caso serán computables para el reconocimiento de prestaciones por servicios al Estado en calidad de empleado civil.
 
 (Decreto 0400 de 1992 artículo 76)
-
-ARTÍCULO
 
 ## art:2.5.8.2.2.3 — Servicios Medico - Asistenciales en Retiro
 
@@ -27931,8 +24977,6 @@ SECCIÓN 3.
 
 PRESTACIONES POR INCAPACIDAD SICOFÍSICA.
 
-ARTÍCULO
-
 ## art:2.5.8.2.3.1 — Comprobación de Circunstancias para fines de Indemnización
 
 Para efectos del reconocimiento de indemnización por incapacidad sicofísica, se aplicará lo dispuesto por el Decreto 94 de 1989, en sus artículos 35 y 36 y las demás normas concordantes con esta materia.
@@ -27942,8 +24986,6 @@ Para efectos del reconocimiento de indemnización por incapacidad sicofísica, s
 SECCIÓN 4.
 
 PRESTACIONES POR MUERTE EN ACTIVIDAD.
-
-ARTÍCULO
 
 ## art:2.5.8.2.4.1 — Informe Administrativo
 
@@ -27959,15 +25001,11 @@ PARÁGRAFO . Cuando la muerte sobrevenga en actos contra la ley o con violación
 
 (Decreto 0400 de 1992 artículo 79)
 
-ARTÍCULO
-
 ## art:2.5.8.2.4.2 — Servicios Medico - Asistenciales a Familiares de Fallecidos
 
 Para la prestación de los servicios médico - Asistenciales a los beneficiarios de que trata el artículo 168 del Decreto 1212 de 1990, regirán las mismas normas consignadas en los artículos 2.5.8.2.1.1., a 2.5.8.2.1.4., del presente Capítulo.
 
 (Decreto 0400 de 1992 artículo 80)
-
-ARTÍCULO
 
 ## art:2.5.8.2.4.3 — Tres Meses de Alta por Fallecimiento
 
@@ -27979,15 +25017,11 @@ SECCIÓN 5.
 
 PRESTACIONES POR MUERTE EN RETIRO.
 
-ARTÍCULO
-
 ## art:2.5.8.2.5.1 — Servicio Médico - Asistencial para Familiares de Fallecidos en goce de Asignación de Retiro o Pensión
 
 Para la prestación de los servicios médico- asistenciales a los beneficiarios de que trata el inciso 2 del artículo 172 del Decreto 1212 de 1990, regirán las mismas normas consagradas en los artículos 2.5.8.2.1.1., a 2.5.8.2.1.4., del presente Capítulo. La expedición de carnés de identidad estará a cargo de la Caja de Sueldos de Retiro de la Policía Nacional o de la Dirección General de la Policía, según se trate de asignaciones o pensiones pagaderas por la citada Caja o por el Tesoro Público.
 
 (Decreto 0400 de 1992 artículo 82)
-
-ARTÍCULO
 
 ## art:2.5.8.2.5.2 — Orden de Beneficiarios
 
@@ -27995,23 +25029,17 @@ Para los efectos del literal c) del artículo 173 del Decreto 1212 de 1990, se e
 
 (Decreto 0400 de 1992 artículo 83)
 
-ARTÍCULO
-
 ## art:2.5.8.2.5.3 — Dependencia Económica de los Hermanos
 
 La carencia de medios de subsistencia y dependencia económica de que trata el artículo 173 del Decreto 1212 de 1990 como condición para reconocimiento y pago de las prestaciones a favor de los hermanos menores de edad del Oficial o Suboficial, deberán comprobarse mediante la presentación de copia auténtica de la última declaración de renta o certificado de ingresos y retenciones del Oficial o Suboficial fallecido y certificado de la Administración de Impuestos Nacionales en el sentido de que no declara renta ni patrimonio.
 
 (Decreto 0400 de 1992 artículo 84)
 
-ARTÍCULO
-
 ## art:2.5.8.2.5.4 — Comprobación de Situaciones para goce de Pensión
 
 Los beneficiarios de los Oficiales o Suboficiales en goce de asignación de retiro o pensión deberán demostrar ante la entidad pagadora, que no han incurrido en las causales de extinción previstas en el artículo 174 del Decreto 1212 de 1990. Este requisito se entenderá cumplido con declaración anual juramentada, rendida ante juez competente o notario.
 
 (Decreto 0400 de 1992 artículo 85)
-
-ARTÍCULO
 
 ## art:2.5.8.2.5.5 — Avisos sobre Causales de Extinción
 
@@ -28025,8 +25053,6 @@ SECCIÓN 6.
 
 DESAPARECIDOS Y PRISIONEROS.
 
-ARTÍCULO
-
 ## art:2.5.8.2.6.1 — Procedimiento en Caso de Desaparecimiento
 
 Cuando un Oficial o Suboficial de la Policía Nacional, en servido activo, desaparezca al tenor de lo establecido en el artículo 178 del Decreto 1212 de 1990, se procederá de la siguiente manera:
@@ -28038,8 +25064,6 @@ b) El funcionario instructor dentro de un término no mayor a ocho (8) días há
 c) Vencido el término a que se refiere el literal anterior, el instructor remitirá el informativo al superior que ordenó la investigación, quien emitirá concepto dentro de los tres (3) días siguientes al recibo de las diligencias y las enviará luego a la Dirección de Personal para los efectos pertinentes.
 
 (Decreto 0400 de 1992 artículo 87)
-
-ARTÍCULO
 
 ## art:2.5.8.2.6.2 — Aparecimiento
 
@@ -28053,8 +25077,6 @@ PARÁGRAFO . Si en la investigación administrativa se llegare a establecer acci
 
 (Decreto 0400 de 1992 artículo 88)
 
-ARTÍCULO
-
 ## art:2.5.8.2.6.3 — Fallo y Sanciones
 
 Sí el proceso penal culminare con fallo condenatorio para la persona aparecida, se modificará la causal de baja por presunción de muerte a que se refiere el parágrafo del artículo 178 del Decreto 1212 de 1990, en caso de que ésta ya se hubiere producido, por la que resulte del respectivo fallo y se dará aplicación a lo dispuesto en el artículo 180 del mismo Decreto.
@@ -28067,15 +25089,11 @@ SECCIÓN 7.
 
 DISPOSICIONES VARIAS.
 
-ARTÍCULO
-
 ## art:2.5.8.2.7.1 — Cuotas Partes Pensionales
 
 Para los efectos de lo dispuesto en el inciso final del artículo 210 del Decreto 1212 de 1990, se entenderá que las cuotas partes pensionales, serán de cargo de la Policía Nacional cuando el personal que laboró en las extinguidas Policías Departamentales y Municipales hizo tránsito a la Policía Nacional.
 
 (Decreto 0400 de 1992 artículo 90)
-
-ARTÍCULO
 
 ## art:2.5.8.2.7.2 — Distintivo de Buena Conducta para Suboficiales
 
@@ -28095,23 +25113,17 @@ SECCIÓN 1.
 
 ASIGNACIONES Y PRIMAS.
 
-ARTÍCULO
-
 ## art:2.5.9.1.1.1 — Prima de Navidad
 
 Para efectos del artículo 32 del Decreto 1213 de 1990, los Agentes que no hubieren servido el año completo tendrán derecho al pago de esta prima a razón de una doceava (1/12) parte de cada mes completo de servicio, liquidada con base en los haberes devengados en el último mes.
 
 (Decreto 1022 de 1992 artículo 8)
 
-ARTÍCULO
-
 ## art:2.5.9.1.1.2 — Partida de Alimentación
 
 Para el reconocimiento y pago de la partida de alimentación de que trata el artículo 35 del Decreto 1213 de 1990, los Comandantes de Departamento de Policía reportarán mensualmente a la Unidad de Sistemas, la relación de los Agentes que tengan derecho a este beneficio, indicando los lugares y días de permanencia en las áreas señaladas por la citada disposición.
 
 (Decreto 1022 de 1992 artículo 9)
-
-ARTÍCULO
 
 ## art:2.5.9.1.1.3 — Prima de Riesgo
 
@@ -28126,8 +25138,6 @@ c) Que hayan laborado como integrantes de dichos grupos.
 PARÁGRAFO . Los Comandantes de Departamento Policía reportarán mensualmente a la Unidad de Sistemas la relación de los Agentes que tengan derecho a este beneficio.
 
 (Decreto 1022 de 1992 artículo 10)
-
-ARTÍCULO
 
 ## art:2.5.9.1.1.4 — Requisitos para el Reconocimiento de la Prima de Instalación
 
@@ -28147,23 +25157,17 @@ b) Dentro de un departamento, de un municipio a otro, en los casos establecidos 
 
 (Decreto 1022 de 1992 artículo 11)
 
-ARTÍCULO
-
 ## art:2.5.9.1.1.5 — Recompensa Quinquenal
 
 Para los efectos de lo dispuesto en el artículo 43 del Decreto 1213 de 1990, se entenderá que han observado buena conducta durante el período del quinquenio, los Agentes de la Policía Nacional a quienes no se les haya impuesto los correctivos más sancionatorios contemplados en la Ley 1015 de 2006.
 
 (Decreto 1022 de 1992 artículo 12)
 
-ARTÍCULO
-
 ## art:2.5.9.1.1.6 — Subsidio Familiar
 
 Para efectos de lo dispuesto en el artículo 46 del Decreto 1213 de 1990, el interesado formulará por escrito la solicitud correspondiente a la Dirección General de la Policía Nacional, acompañada de las actas de registro civil de matrimonio o de nacimiento de cada uno de los hijos que cause este derecho.
 
 (Decreto 1022 de 1992 artículo 13)
-
-ARTÍCULO
 
 ## art:2.5.9.1.1.7 — Disminución Subsidio Familiar
 
@@ -28172,8 +25176,6 @@ Para efectos de lo contemplado en el artículo 47 del Decreto 1213 de 1990, el i
 PARÁGRAFO . En los casos del literal d) de la citada norma, la Unidad de Sistema causará la novedad automáticamente y para comprobar las excepciones el beneficiario deberá acreditar anualmente ante la Dirección de Personal la condición de hija célibe, estudiante o inválido.
 
 (Decreto 1022 de 1992 artículo 14)
-
-ARTÍCULO
 
 ## art:2.5.9.1.1.8 — Extinción del Subsidio Familiar
 
@@ -28189,15 +25191,11 @@ SECCIÓN 1.
 
 EN ACTIVIDAD.
 
-ARTÍCULO
-
 ## art:2.5.9.2.1.1 — Servicios Medico-Asistenciales
 
 Para tener derecho a la prestación de los servicios médico-asistenciales señalados en el artículo 93 del Decreto 1213 de 1990, se requiere que tanto el afiliado como el beneficiario presenten ante la Sanidad de la Policía Nacional la tarjeta de identificación expedida por la Dirección de Personal.
 
 (Decreto 1022 de 1992 artículo 18)
-
-ARTÍCULO
 
 ## art:2.5.9.2.1.2 — No Utilización de los Servicios
 
@@ -28205,23 +25203,17 @@ Cuando los Agentes o sus beneficiarios sin autorización dejen de utilizar los s
 
 (Decreto 1022 de 1992 artículo 19)
 
-ARTÍCULO
-
 ## art:2.5.10.2.1.3 — Vacaciones
 
 Las vacaciones a que se refiere el artículo 96 del Decreto 1213 de 1990, serán concedidas por los Directores, Jefes de División, Comandantes de Departamento, Directores de Escuela y Jefes de Organismos Especializados, previo concepto del Jefe inmediato del Agente.
 
 (Decreto 1022 de 1992 artículo 21)
 
-ARTÍCULO
-
 ## art:2.5.9.2.1.4 — Obligatoriedad de las Vacaciones
 
 Las vacaciones anuales tienen carácter obligatorio para los Agentes de la Policía Nacional, quienes deben hacer uso de ellas dentro del año siguiente al de la fecha en que se cause el derecho. Por circunstancias especiales podrán acumularse vacaciones hasta sesenta (60) días.
 
 (Decreto 1022 de 1992 artículo 22)
-
-ARTÍCULO
 
 ## art:2.5.9.2.1.5 — Año de Servicio Cumplido o Continuo
 
@@ -28231,15 +25223,11 @@ PARÁGRAFO . Para los efectos de este artículo se computarán sin solución de 
 
 (Decreto 1022 de 1992 artículo 23)
 
-ARTÍCULO
-
 ## art:2.5.9.2.1.6 — Vacaciones del Personal en Comisión en otras Entidades
 
 Los Agentes de la Policía Nacional en actividad, cuando presten sus servicios en comisiones en otras dependencias del Estado, disfrutarán de sus vacaciones anuales de acuerdo con las necesidades de la respectiva dependencia, la cual debe expedir con destino a la Dirección de Personal, una certificación sobre la fecha en que el comisionado hace uso del citado beneficio.
 
 (Decreto 1022 de 1992 artículo 24)
-
-ARTÍCULO
 
 ## art:2.5.9.2.1.7 — Vacaciones del Personal en Comisión en el Exterior
 
@@ -28247,15 +25235,11 @@ Las vacaciones del personal de Agentes que se encuentre en comisión en el exter
 
 (Decreto 1022 de 1992 artículo 25)
 
-ARTÍCULO
-
 ## art:2.5.9.2.1.8 — Anticipo de Cesantía
 
 El anticipo de cesantía consagrado en el artículo 97 del Decreto 1213 de 1990, sólo se liquidará y pagará al Agente cuando así lo autorice el Director General de la Policía Nacional, con base en las correspondientes disponibilidades presupuestales. La solicitud puede ser formulada directamente o por conducto de la Caja de Vivienda Militar o entidad que financie la vivienda.
 
 (Decreto 1022 de 1992 artículo 26)
-
-ARTÍCULO
 
 ## art:2.5.9.2.1.9 — Solicitud Directa de Anticipo
 
@@ -28277,8 +25261,6 @@ c) En los casos a que se refieren los literales anteriores se requerirá, ademá
 
 (Decreto 1022 de 1992 artículo 27)
 
-ARTÍCULO
-
 ## art:2.5.9.2.1.10 — Solicitudes por conducto de la Caja de Vivienda Militar o Entidad que Financie la Vivienda
 
 Para el anticipo de la cesantía el interesado deberá presentar los documentos que la entidad exija para tramitarla a la Dirección General, acompañada de:
@@ -28295,8 +25277,6 @@ e) Autorización conferida por el interesado a la vivienda militar o entidad que
 
 (Decreto 1022 de 1992 artículo 28)
 
-ARTÍCULO
-
 ## art:2.5.9.2.1.11 — Comprobación de circunstancias para fines de Indemnización
 
 Para el reconocimiento de los derechos establecidos en el artículo 98 del Decreto 1213 de 1990, deberá aplicarse lo dispuesto en los artículos 35 y 36 del Decreto 94 de 1989 y demás que sean concordantes con esta materia.
@@ -28304,8 +25284,6 @@ Para el reconocimiento de los derechos establecidos en el artículo 98 del Decre
 (Decreto 1022 de 1992 artículo 29)
 
 SECCIÓN 2.
-
-ARTÍCULO
 
 ## art:2.5.9.2.2.1 — Reconocimiento Prima de Actividad
 
@@ -28318,8 +25296,6 @@ PARÁGRAFO . Para el reconocimiento de este reajuste se tendrá en cuenta el tie
 SECCIÓN 3.
 
 POR MUERTE EN ACTIVIDAD.
-
-ARTÍCULO
 
 ## art:2.5.9.2.3.1 — Informe Administrativo
 
@@ -28335,15 +25311,11 @@ PARÁGRAFO . Cuando la muerte sobrevenga en actos contra la ley o con violación
 
 (Decreto 1022 de 1992 artículo 31)
 
-ARTÍCULO
-
 ## art:2.5.9.2.3.2 — Servicios Medico-Asistenciales A Familiares del Fallecido
 
 Para la prestación de los servicios médico-asistenciales a los beneficiarios de que trata el artículo 126 del Decreto 1213 de 1990, regirán las mismas normas consagradas en los artículos 2.5.9.2.1.5., a 2.5.9.2.1.8., del presente Capítulo.
 
 (Decreto 1022 de 1992 artículo 32)
-
-ARTÍCULO
 
 ## art:2.5.9.2.3.3 — Tres (3) Meses de Alta por Fallecimiento
 
@@ -28353,15 +25325,11 @@ El pago de los haberes correspondientes a los tres (3) meses de alta consagrados
 
 SECCIÓN 4.
 
-ARTÍCULO
-
 ## art:2.5.9.2.4.1 — Servicio Médico-Asistencial para Familiares de Fallecidos en goce de Asignación de Retiro o Pensión
 
 Para la prestación de los servicios asistenciales a los beneficiarios de que trata el inciso segundo del artículo 130 del Decreto 1213 de 1990, regirán las mismas normas consagradas en los artículos 2.5.9.2.1.5., a 2.5.9.2.1.8., del presente Capítulo. La expedición de carnés de identidad estará a cargo de la Caja de Sueldos de Retiro de la Policía Nacional o de la Dirección General de la Policía, según se trate de asignaciones de retiro o pensión.
 
 (Decreto 1022 de 1992 artículo 34)
-
-ARTÍCULO
 
 ## art:2.5.9.2.4.2 — Comprobación de Situación para goce de Pensión
 
@@ -28371,15 +25339,11 @@ PARÁGRAFO . En todo caso los beneficiarios de la sustitución pensional tendrá
 
 (Decreto 1022 de 1992 artículo 35)
 
-ARTÍCULO
-
 ## art:2.5.9.2.4.3 — Orden de Beneficiarios
 
 Para los efectos del literal c) del artículo 132 del Decreto 1213 de 1990, se entiende que la prestación se dividirá entre cónyuge y padres, solamente cuando no hubieren existido hijos del causante.
 
 (Decreto 1022 de 1992 artículo 36)
-
-ARTÍCULO
 
 ## art:2.5.9.2.4.4 — Dependencia Económica de los Beneficiarios
 
@@ -28390,8 +25354,6 @@ La carencia de medios de subsistencia y dependencia económica de que trata el a
 SECCIÓN 5.
 
 DESAPARECIDOS Y PRISIONEROS.
-
-ARTÍCULO
 
 ## art:2.5.9.2.5.1 — Procedimiento en Caso de Desaparecimiento
 
@@ -28405,8 +25367,6 @@ c) Vencido el término a que se refiere el literal anterior, el Instructor remit
 
 (Decreto 1022 de 1992 artículo 38)
 
-ARTÍCULO
-
 ## art:2.5.9.2.5.2 — Aparecimiento
 
 Si el Agente apareciere o se tuviere noticias ciertas de su existencia, la Dirección General de la Policía Nacional, ordenará adelantar una investigación de carácter administrativo, con el objeto de precisar:
@@ -28418,8 +25378,6 @@ b) Las actividades desarrolladas por el Agente durante el tiempo comprendido ent
 PARÁGRAFO . Si en la investigación administrativa se llegaren a establecer acciones u omisiones que deban ser investigadas por la Justicia Penal Militar o por la Ordinaria, se compulsará copia del expediente administrativo con el fin de que se adelante el proceso a que haya lugar.
 
 (Decreto 1022 de 1992 artículo 39)
-
-ARTÍCULO
 
 ## art:2.5.9.2.5.3 — Fallo y Sanciones
 
@@ -28433,8 +25391,6 @@ SECCIÓN 6.
 
 DISPOSICIONES VARIAS.
 
-ARTÍCULO
-
 ## art:2.5.9.2.6.1 — Cuotas partes Pensionales
 
 Para los efectos de lo dispuesto en el inciso final del artículo 168 del Decreto 1213 de 1990, es entendido que las cuotas partes pensionales estarán a cargo de la Policía Nacional, cuando el personal que laboró en las extinguidas policías departamentales o municipales hizo tránsito a la Policía Nacional.
@@ -28445,25 +25401,17 @@ INCREMENTO DEL PRESUPUESTO PER CÁPITA PARA EL SECTOR DEFENSA (PPCD) QUE DEBE SE
 
 (Decreto 1454 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.10.1 — Aumento del Valor del Presupuesto Per Cápita
 
 Aumentar el valor del Presupuesto Per cápita para el Sector Defensa (PPCD), del veinte por ciento (20%) al veinticinco por ciento (25%), para financiar el Plan de Servicios de Sanidad Policial de los afiliados no sometidos al régimen de cotización del Subsistema de Salud de la Policía Nacional.
-
-ARTÍCULO
 
 ## art:2.5.10.2 — 
 
 2.5.10.2 Aumento de la diferencia entre el valor del Presupuesto Per Cápita y la Unidad de Pago por Capitación del Sistema de Seguridad Social en Salud. Aumentar la diferencia entre el valor del Presupuesto Per cápita para el Sector Defensa (PPCD) y la Unidad de Pago por Capitación del Sistema General de Seguridad Social en Salud de la Ley 100 de 1993 (UPC), del veinte por ciento (20%) al veinticinco por ciento (25%) para apoyar a la financiación del Plan de Servicios de Sanidad Policial de los afiliados cotizantes y sus beneficiarios del Subsistema de Salud de la Policía Nacional.
 
-ARTÍCULO
-
 ## art:2.5.10.3 — Aumento del Ingreso por Concepto de Accidentes de Trabajo y Enfermedad Profesional -ATEP
 
 Aumentar el ingreso por concepto de Accidentes de Trabajo y Enfermedad Profesional -ATEP- al Subsistema de Salud de la Policía Nacional proveniente de la Nómina de la Policía Nacional, del dos por ciento (2%) al tres por ciento (3%) de conformidad con la parte motiva del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.5.10.4 — Destinación Porcentajes
 
@@ -29163,15 +26111,11 @@ SUBSECCIÓN 1.
 
 SERVICIOS ESPECIALES DE VIGILANCIA Y SEGURIDAD PRIVADA.
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.1.1 — Definición
 
 Servicio especial de vigilancia y seguridad privada es aquel que en forma expresa, taxativa y transitoria puede autorizar la Superintendencia de Vigilancia y Seguridad Privada, a personas jurídicas de derecho público o privado, con el objeto exclusivo de proveer su propia seguridad para desarrollar actividades en áreas de alto riesgo o de interés público, que requieren un nivel de seguridad de alta capacidad.
 
 (Decreto 2974 de 1997 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.1.2 — Criterios para otorgar Licencia a los Servicios Especiales de Vigilancia y Seguridad Privada
 
@@ -29187,15 +26131,11 @@ La Superintendencia de Vigilancia y Seguridad Privada para la expedición de la 
 
 (Decreto 2974 de 1997 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.1.3 — Zonas de Conflicto
 
 La Superintendencia de Vigilancia y Seguridad Privada no autorizará servicios especiales de vigilancia en zonas de conflicto.
 
 (Decreto 2974 de 1997 artículo 3)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.1.4 — Deberes y Obligaciones
 
@@ -29261,15 +26201,11 @@ Los servicios especiales de vigilancia y seguridad privada, deberán desarrollar
 
 (Decreto 2974 de 1997 artículo 4)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.1.5 — Duración
 
 El periodo de duración del Consejo de Veeduría Comunitaria, será igual al término concedido por la Superintendencia de Vigilancia y Seguridad Privada, en la licencia de funcionamiento al servicio comunitario.
 
 (Decreto 1612 de 2002 artículo 5)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.1.6 — Dirección del Servicio Comunitario de Vigilancia y Seguridad Privada
 
@@ -29280,8 +26216,6 @@ PARÁGRAFO 1. El personal que preste el servicio de vigilancia y seguridad priva
 PARÁGRAFO 2. Los servicios comunitarios de vigilancia y seguridad privada estarán sujetos a las disposiciones contempladas en el Decreto-ley 356 de 1994 y demás normas que lo reglamenten, modifiquen o adicionen.
 
 (Decreto 1612 de 2002 artículo 6)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.1.7 — Licencia de Funcionamiento Transitoria
 
@@ -29294,8 +26228,6 @@ Tales autoridades deberán conceptuar en un término máximo de ocho (8) días c
 PARÁGRAFO 2. Si persisten las razones que dieron origen a la expedición de la licencia, previo el lleno de los requisitos de ley, la Superintendencia de Vigilancia y Seguridad Privada podrá expedir una nueva licencia.
 
 (Decreto 2974 de 1997 artículo 5)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.1.8 — Requisitos
 
@@ -29339,8 +26271,6 @@ PARÁGRAFO 2. Los servicios especiales de vigilancia y seguridad privada, sólo 
 
 (Decreto 2974 de 1997 artículo 6)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.1.9 — Comités de Seguimiento Departamentales
 
 Sin perjuicio de las atribuciones y facultades de la Superintendencia de Vigilancia y Seguridad Privada, en los departamentos donde funcionen servicios especiales de vigilancia y seguridad privada los gobernadores conformarán comités de seguimiento, que se encargarán de evaluar e informar la manera como vienen funcionando estos servicios. Con base en dicha información la Superintendencia de Vigilancia y Seguridad Privada realizará visitas y tomará los correctivos que sean necesarios.
@@ -29367,8 +26297,6 @@ SUBSECClÓN
 
 SERVICIOS COMUNITARIOS DE VIGILANCIA Y SEGURIDAD PRIVADA.
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.2.1 — Definición
 
 Se entiende por servicio comunitario de vigilancia y seguridad privada, la organización de la comunidad en forma de cooperativa, junta de acción comunal o empresa comunitaria, con el objeto de proveer vigilancia y seguridad privada a sus cooperados o miembros, dentro del área donde tiene asiento la respectiva comunidad.
@@ -29376,8 +26304,6 @@ Se entiende por servicio comunitario de vigilancia y seguridad privada, la organ
 PARÁGRAFO . Los servicios comunitarios de vigilancia y seguridad privada no podrán prestar servicios de vigilancia y seguridad privada a ningún título a personas diferentes a los cooperados o miembros, o fuera del área autorizada.
 
 (Decreto 2974 de 1997 artículo 8)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.2.2 — Criterios para Otorgar Licencia a los Servicios Comunitarios de Vigilancia y Seguridad Privada
 
@@ -29391,8 +26317,6 @@ c) Que los cooperados o miembros sean personas naturales o jurídicas residentes
 
 (Decreto 2974 de 1997 artículo 9)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.2.3 — Deberes y Obligaciones
 
 Los servicios comunitarios de vigilancia y seguridad privada deberán observar y cumplir los principios, deberes y obligaciones contemplados en el artículo 2.6.1.1.1 1.4., de la presente Sección. Además deberán:
@@ -29405,8 +26329,6 @@ Los servicios comunitarios de vigilancia y seguridad privada deberán observar y
 
 (Decreto 2974 de 1997 artículo 10)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.2.4 — Licencia de Funcionamiento
 
 La licencia de funcionamiento para los servicios comunitarios de que trata el artículo 42 del Decreto-ley 356 de 1994, se expedirá hasta por un término de cinco (5) años.
@@ -29415,15 +26337,11 @@ Para la renovación de la licencia de funcionamiento se dará cumplimiento a lo 
 
 (Decreto 2974 de 1997 artículo 11, modificado por el artículo 1 del Decreto 1612 de 2002)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.2.5 — Requisitos
 
 Para la expedición de la licencia de funcionamiento a un Servicio Comunitario de vigilancia y seguridad privada por parte de la Superintendencia de Vigilancia y Seguridad Privada se dará cumplimiento a las exigencias establecidas en los artículos 45 y 46 del Decreto-ley 356 de 1994.
 
 (Decreto 2974 de 1997 artículo 12, modificado por el artículo 2 del Decreto 1612 de 2002)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.2.6 — Consejo de Veeduría Comunitaria
 
@@ -29440,8 +26358,6 @@ d) Tres (3) representantes del servicio comunitario, elegidos por la asamblea ge
 PARÁGRAFO . El representante legal del respectivo servicio comunitario solicitará al Alcalde Municipal o local respectivo, la constitución del Consejo de Veeduría Comunitaria relacionado en el presente artículo, remitiéndole copia del acta de la asamblea general donde conste la elección de sus representantes. Para este efecto el Alcalde respectivo convocará al Consejo dentro de los 10días siguientes a la solicitud.
 
 (Decreto 2974 de 1997 artículo 13, modificado por el artículo 3 del Decreto 1612 de 2002)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.2.7 — Funciones del Consejo de Veeduría Comunitaria
 
@@ -29467,8 +26383,6 @@ SUBSECCIÓN 3.
 
 DISPOSICIONES COMUNES.
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.3.1 — Suspensión o Cancelación de la Licencia de Funcionamiento
 
 El incumplimiento de los deberes y obligaciones así como de las disposiciones establecidas en la presente Sección y demás normas vigentes sobre la materia, acarreará las sanciones previstas en el Decreto-ley 356 de 1994, sin perjuicio de las acciones penales, administrativas y disciplinarias a que hubiere lugar.
@@ -29476,8 +26390,6 @@ El incumplimiento de los deberes y obligaciones así como de las disposiciones e
 La Superintendencia de Vigilancia y Seguridad Privada regulará lo pertinente.
 
 (Decreto 2974 de 1997 artículo 15)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.3.2 — Revocatoria de la Licencia de Funcionamiento
 
@@ -29487,15 +26399,11 @@ Cuando se revoque la licencia, las armas autorizadas deberán ser devueltas en l
 
 (Decreto 2974 de 1997 artículo 16)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.3.3 — Armas y Municiones Autorizadas
 
 En el desempeño de su actividad los servicios especiales y comunitarios de vigilancia y seguridad privada sólo podrán hacer uso de armas de defensa personal.
 
 (Decreto 2974 de 1997 artículo 17)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.3.4 — Concepto previo para Armas
 
@@ -29515,23 +26423,17 @@ Para tal efecto, los servicios especiales y los servicios comunitarios de vigila
 
 (Decreto 2974 de 1997 artículo 18)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.3.5 — Medíos
 
 Los servicios especiales y los servicios comunitarios de vigilancia y seguridad privada podrán hacer uso de equipos de seguridad, comunicaciones, transporte e instalaciones necesarios para desarrollar su actividad, con las licencias y autorizaciones correspondientes.
 
 (Decreto 2974 de 1997 artículo 19)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.3.6 — Control, Inspección y Vigilancia
 
 Los servicios especiales y los servicios comunitarios de vigilancia y seguridad privada están sometidos al control, inspección y vigilancia de la Superintendencia de Vigilancia y Seguridad Privada, conforme con lo establecido en el Decreto-ley 356 de 1994 y el Decreto 2355 de 2006.
 
 (Decreto 2974 de 1997 artículo 20)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.3.7 — Capacitación
 
@@ -29540,8 +26442,6 @@ El Gobierno Nacional promoverá programas especiales de formación en Derechos H
 PARÁGRAFO . La Consejería Presidencial de Derechos Humanos será la entidad encargada de impulsar y coordinar las actividades previstas en este artículo.
 
 (Decreto 2974 de 1997 artículo 21)
-
-ARTÍCULO
 
 ## art:2.6.1.1.1.3.8 — Prohibiciones
 
@@ -29573,8 +26473,6 @@ PARÁGRAFO . A las comunidades que hayan constituido cooperativas, juntas de acc
 
 (Decreto 2974 de 1997 artículo 22)
 
-ARTÍCULO
-
 ## art:2.6.1.1.1.3.9 — Sanciones
 
 El incumplimiento de cualquiera de las anteriores disposiciones será sancionado por la Superintendencia de Vigilancia y Seguridad Privada, sin perjuicio de las acciones penales, administrativas y disciplinarias a que hubiere lugar.
@@ -29591,15 +26489,11 @@ SUBSECCIÓN 1.
 
 GENERALIDADES.
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.1.1 — Objeto
 
 La presente Sección tiene por objeto, establecer el Manual de Uniformes y Equipos para el personal que preste servicios de Vigilancia y Seguridad Privada.
 
 (Decreto 1979 de 2001 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.1.2 — Campo de Aplicación
 
@@ -29611,15 +26505,11 @@ SUBSECCIÓN 2.
 
 UNIFORMES E IDENTIFICACIONES.
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.1 — Definición Uniformes
 
 Se considera uniforme, el conjunto de prendas establecidas para el uso obligatorio durante el tiempo y el lugar de prestación del servicio, del personal de vigilancia y seguridad privada masculino y femenino.
 
 (Decreto 1979 de 2001 artículo 3)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.2.2 — Obligatoriedad
 
@@ -29631,23 +26521,17 @@ PARÁGRAFO . En todo caso, las características de los uniformes siempre deberá
 
 (Decreto 1979 de 2001 artículo 4)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.3 — Color Básico
 
 Se denomina color básico, aquel que el respectivo servicio de vigilancia y seguridad privada escoge para las prendas principales del uniforme, tales como: saco, falda, pantalón, overol y gorra.
 
 (Decreto 1979 de 2001 artículo 5)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.4 — Exclusividad
 
 Los uniformes, distintivos e identificaciones establecidos para los servicios de vigilancia y seguridad privada, son exclusivos y no podrán ser utilizados por personal de empresas o entidades diferentes a las de vigilancia y seguridad privada.
 
 (Decreto 1979 de 2001 artículo 6)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.2.5 — Suministro
 
@@ -29657,15 +26541,11 @@ PARÁGRAFO . Los servicios de vigilancia y seguridad privada, están obligados a
 
 (Decreto 1979 de 2001 artículo 7)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.6 — Utilización de Uniformes
 
 Los uniformes, distintivos, identificaciones y demás elementos del personal de vigilancia y seguridad privada a que se refiere la presente Sección, solo podrán ser utilizados durante las horas y en los lugares o sitios en los que se presta el servicio y deberán ser devueltos al servicio de vigilancia y seguridad privada cuando el personal salga de vacaciones, licencia, permiso, incapacidad o retiro.
 
 (Decreto 1979 de 2001 artículo 8)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.2.7 — Condición de los Uniformes
 
@@ -29673,15 +26553,11 @@ Los servicios de vigilancia y seguridad privada, deberán mantener a su personal
 
 (Decreto 1979 de 2001 artículo 9)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.8 — Uniforme del Personal
 
 Los uniformes que deberá utilizar el personal masculino y femenino de los servicios de vigilancia y seguridad privada, se clasifican, en uniforme de diario y overol. Las características serán establecidas por la Superintendencia de Vigilancia y Seguridad Privada, de acuerdo con la labor a realizar.
 
 (Decreto 1979 de 2001 artículo 10)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.2.9 — Supervisores, Conductores, Tripulantes y demás Cargos Operativos
 
@@ -29689,23 +26565,17 @@ El personal de supervisores, conductores, tripulantes y demás cargos operativos
 
 (Decreto 1979 de 2001 artículo 11)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.10 — Autorización
 
 Los servicios de vigilancia y seguridad privada deberán enviar a la Superintendencia de Vigilancia y Seguridad Privada, la información y las fotografías correspondientes al material, diseño, combinación y color escogidos para el uniforme del personal vinculado a ellos con et fin de que la Superintendencia proceda a su autorización y registro.
 
 (Decreto 1979 de 2001 artículo 12)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.2.11 — Prohibición
 
 El diseño de uniformes, colores y combinaciones que autorice la Superintendencia de Vigilancia y Seguridad Privada, en ningún caso podrá ser modificado sin su previa autorización. Se prohíbe el uso de universales de cuero, tapas, fuelles, galones, brazaletes, banderas, reatas, heráldicas, banderines, arnés y cualquier otro elemento, diseño o distintivo reservado a los uniformes de la Fuerza Pública y otros cuerpos oficiales armados.
 
 (Decreto 1979 de 2001 artículo 13)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.2.12 — Definición Distintivos e Identificaciones
 
@@ -29719,8 +26589,6 @@ SUBSECCIÓN 3.
 
 EQUIPO AUTOMOTOR, ARMAMENTO Y COMUNICACIONES.
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.3.1 — Clasificación Equipo Automotor
 
 Para efectos de la presente Sección, los vehículos automotores para la vigilancia y seguridad privada se clasifican en:
@@ -29733,8 +26601,6 @@ c) Vehículos blindados. Automotores con protección antibalas, con el fin de ga
 
 (Decreto 1979 de 2001 artículo 15)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.3.2 — Identificación
 
 Los vehículos de los servicios de vigilancia y seguridad privada destinados al control y vigilancia, se identificarán con los signos técnicos registrados, así como por el color, inscripciones, emblemas y siglas de las empresas, los cuales serán determinados por la Superintendencia de Vigilancia y Seguridad Privada.
@@ -29743,15 +26609,11 @@ Los vehículos blindados pertenecientes a las transportadoras de valores se iden
 
 (Decreto 1979 de 2001 artículo 16)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.3.3 — Prohibición
 
 Los vehículos de vigilancia y seguridad privada no pueden llevar avisos, propagandas, leyendas o cualquier otro motivos distintos a los señalados por la Superintendencia de Vigilancia y Seguridad Privada. Así mismo, se prohíbe en los vehículos de vigilancia privada, el empleo de sirenas, campanas o señales similares audibles o faros de luz intermitentes.
 
 (Decreto 1979 de 2001 artículo 17)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.3.4 — Capacitación
 
@@ -29759,15 +26621,11 @@ Los servicios de vigilancia y seguridad privada están en la obligación de capa
 
 (Decreto 1979 de 2001 artículo 18)
 
-ARTÍCULO
-
 ## art:2.6.1.1.2.3.5 — Armas y Municiones
 
 Las armas y municiones para el servicio de vigilancia y seguridad privada estarán sujetas a lo dispuesto en el Decreto 2535 de 1993 y demás normas que lo modifiquen o reglamenten.
 
 (Decreto 1979 de 2001 artículo 19)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2.3.6 — Comunicaciones
 
@@ -29787,15 +26645,11 @@ SUBSECCIÓN 1.
 
 ASPECTOS GENERALES.
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.1.1 — Acciones Esenciales de la Vigilancia y Seguridad Privada
 
 Son acciones esenciales de la vigilancia y seguridad privada las actividades que tienden a prevenir, detener, disminuir o disuadir las amenazas que afecten o puedan afectar la vida, integridad personal y bienes de las personas que reciban la protección o custodia que les brindan los servicios de vigilancia y seguridad privada, así adquieran éstos una denominación diferente y cuenten o no con licencia o credencial expedida por la Superintendencia de Vigilancia y Seguridad Privada.
 
 (Decreto 2187 de 2001 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.1.2 — Vigilante y Escolta de Seguridad
 
@@ -29811,15 +26665,11 @@ Esa persona natural, denominada vigilante o escolta de seguridad, debe prestar s
 
 (Decreto 2187 de 2001 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.1.3 — Renovación de la Licencia de Funcionamiento
 
 Para efectos de lo estipulado en el Decreto-ley 356 de 1994, en tratándose de la renovación de las licencias de funcionamiento para los servicios de vigilancia y seguridad privada, deberán estar a paz y salvo con la Superintendencia por multas y demás conceptos, sin perjuicio del cumplimiento de los requisitos exigidos para este fin.
 
 (Decreto 2187 de 2001 artículo 4)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.1.4 — Sucursales o Agencias
 
@@ -29835,8 +26685,6 @@ PARÁGRAFO 3. El servicio de vigilancia y seguridad privada que disponga del cie
 
 (Decreto 2187 de 2001 artículo 5)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.1.5 — Instalaciones
 
 Los servicios de vigilancia y seguridad privada deberán contar con instalaciones para uso exclusivo y específico de la actividad a desarrollar, de tal manera que brinden protección a las personas, las armas de fuego, municiones, equipos de comunicación, medios y demás elementos para la vigilancia y seguridad privada, autorizados por la Superintendencia y utilizados para el desarrollo de su actividad. Las empresas transportadoras de valores deberán contar con vehículos blindados, bóvedas y sistemas de seguridad.
@@ -29849,8 +26697,6 @@ SUBSECCIÓN 2.
 
 DE LOS SERVICIOS DE VIGILANCIA Y SEGURIDAD PRIVADA CON ARMAS.
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.2.1 — Modalidad de Escolta
 
 Para los efectos de la modalidad de escolta de que trata el inciso segundo del parágrafo del artículo 19 del Decreto 356 de 1994, la Superintendencia de Vigilancia y Seguridad Privada asignará el número máximo de escolta por persona a proteger y para la protección de vehículos y mercancías o cualquier otro objeto durante su desplazamiento. Para tal efecto, se tendrá en cuenta lo siguiente:
@@ -29861,23 +26707,17 @@ Para los efectos de la modalidad de escolta de que trata el inciso segundo del p
 
 (Decreto 2187 de 2001 artículo 7)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.2.2 — De los Departamentos de Seguridad
 
 Toda solicitud de trámites inherentes a los departamentos de seguridad, tales como: Concepto para adquisición o cesión de armas de fuego, revalidación de permisos, cambio de tenencia a porte, carnetización, que se dirija ante la Superintendencia de Vigilancia y Seguridad Privada, deberá efectuarse por la persona natural en cuyo favor se otorga la licencia, por el representante legal de las personas jurídicas o quienes hagan sus veces, por sus apoderados.
 
 (Decreto 2187 de 2001 artículo 8)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.2.3 — Término para Tomar la Póliza
 
 La póliza de seguro de responsabilidad civil extracontractual exigida por el artículo 18 del Decreto 356 de 1994, se adjuntará dentro de los diez (10) días siguientes a la notificación de la Resolución que concede licencia de funcionamiento.
 
 (Decreto 2187 de 2001 artículo 9)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.2.4 — Organización Empresarial
 
@@ -29895,15 +26735,11 @@ SUBSECCIÓN 3.
 
 DE LOS SERVICIOS DE VIGILANCIA Y SEGURIDAD PRIVADA SIN ARMAS.
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.1 — Empresas de Vigilancia y Seguridad Privada con medios Caninos
 
 Los servicios de vigilancia y seguridad privada que pretendan desarrollar su actividad con la utilización del medio canino, deberán obtener autorización de la Superintendencia de Vigilancia y Seguridad Privada, de conformidad con el artículo 48 del Decreto 356 de 1994.
 
 (Decreto 2187 de 2001 artículo 11)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.2 — Definiciones
 
@@ -29931,8 +26767,6 @@ Traílla: Elemento utilizado para el control y manejo del canino en las áreas d
 
 (Decreto 2187 de 2001 artículo 12)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.3 — Modalidades
 
 Los servicios de vigilancia y seguridad privada con medios caninos, podrán operar en las modalidades de vigilancia fija y móvil.
@@ -29942,8 +26776,6 @@ Los servicios de vigilancia y seguridad privada con medios caninos, podrán oper
 2. Modalidad móvil. Es la que se presta por el binomio manejador-perro, con objeto de dar protección a personas, bienes muebles o inmuebles en área o sector determinado.
 
 (Decreto 2187 de 2001 artículo 13)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.4 — Obligaciones
 
@@ -29955,8 +26787,6 @@ Para efectos de la prestación del servicio con medios caninos, el personal debe
 
 (Decreto 2187 de 2001 artículo 14)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.5 — Prohibiciones
 
 Se prohíbe a todos los servicios de vigilancia y seguridad privada que tengan autorizados medios caninos, prestar el servicio en lugares cerrados, tales como centros comerciales, conjuntos residenciales, estadios y demás sitios, que a criterio de la Superintendencia de Vigilancia y Seguridad Privada, ofrezcan riesgo para la seguridad ciudadana.
@@ -29964,8 +26794,6 @@ Se prohíbe a todos los servicios de vigilancia y seguridad privada que tengan a
 PARÁGRAFO . Se entiende por lugares cerrados las áreas delimitadas que tengan controladas sus salidas y/o con una alta concentración de personas.
 
 (Decreto 2187 de 2001 artículo 15)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.6 — Jornada de Trabajo
 
@@ -29975,15 +26803,11 @@ Los servicios de vigilancia y seguridad privada con caninos, que no puedan trasl
 
 (Decreto 2187 de 2001 artículo 16)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.7 — Instalaciones Físicas
 
 Los servicios de vigilancia y seguridad privada con caninos, deberán contar dentro de sus instalaciones físicas, con un sitio apropiado para la atención médico-veterinaria en primeros auxilios, con las debidas condiciones de higiene y salubridad para atender enfermedades o accidentes que sufran los perros. Para el cumplimiento de lo dispuesto se podrán realizar convenios con clínicas veterinarias legalmente autorizadas, anexando fotocopia del convenio vigente.
 
 (Decreto 2187 de 2001 artículo 17)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.8 — Caninos de Reserva
 
@@ -29993,15 +26817,11 @@ Para los casos especiales de accidente o enfermedad de los caninos, la empresa d
 
 (Decreto 2187 de 2001 artículo 18)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.9 — Prohibición de Alquiler o Arrendamiento de Caninos
 
 Los servicios de vigilancia y seguridad privada que utilicen medios caninos para prestar el servicio, deberán ser propietarios exclusivos de los animales que se destinen para el desarrollo de esta actividad; se excluye por tanto el alquiler o arrendamiento de caninos. La transgresión a lo dispuesto en esta norma acarreará las sanciones a que se refiere el artículo 76 del Decreto 356 de 1994.
 
 (Decreto 2187 de 2001 artículo 19)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.10 — Certificados de Propiedad
 
@@ -30011,8 +26831,6 @@ PARÁGRAFO . Mediante acto administrativo expedido por el Superintendente de Vig
 
 (Decreto 2187 de 2001 artículo 20)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.11 — Carnetización Personal de Manejadores
 
 La Superintendencia de Vigilancia y Seguridad Privada, determinará el trámite para la carnetización de los manejadores o personal de los perros.
@@ -30020,8 +26838,6 @@ La Superintendencia de Vigilancia y Seguridad Privada, determinará el trámite 
 PARÁGRAFO . En caso de retiro del personal de manejadores del servicio respectivo, deberá devolverse la credencial a la Superintendencia.
 
 (Decreto 2187 de 2001 artículo 21)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.12 — Código de Identificación
 
@@ -30031,15 +26847,11 @@ PARÁGRAFO . En el evento de que existan servicios con medios caninos autorizado
 
 (Decreto 2187 de 2001 artículo 22)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.13 — Curso en Ejercicio Básico de Defensa Controlada
 
 Los perros asignados para vigilancia y seguridad privada, deben ser previamente entrenados en el ejercicio básico de defensa controlada, con un curso no inferior a cuatro (4) meses, el cual se demostrará con las certificaciones que para tal efecto expida la Policía Nacional- Escuela de Formación de Guías y Adiestramiento de Perros, el Centro de Adiestramiento Canino del Ejército Nacional o por entidades debidamente autorizadas por la Superintendencia de Vigilancia y Seguridad Privada.
 
 (Decreto 2187 de 2001 artículo 23)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.14 — Capacitación Manejadores
 
@@ -30051,23 +26863,17 @@ Mientras se aprueban los programas de especialización en el área canina para l
 
 (Decreto 2187 de 2001 artículo 24)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.15 — Reentrenamientos
 
 Los caninos deberán ser reentrenados con su manejador cada cuatro (4) meses en todos los ejercicios básicos de defensa controlada, durante un lapso de diez (10) días hábiles en la Escuela de Formación de Guías y Adiestramiento de perros de la Policía Nacional, en el Centro de Adiestramiento Canino del Ejército Nacional o en entidades autorizadas por la Superintendencia de Vigilancia y Seguridad Privada, y demostrar el cumplimiento de lo aquí dispuesto.
 
 (Decreto 2187 de 2001 artículo 25)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.16 — Relevos Manejadores
 
 Si el manejador es retirado temporal o definitivamente del servicio de vigilancia y seguridad privada, el nuevo manejador deberá recibir el mismo entrenamiento de trabajo con el perro, por un período no inferior a quince (15) días, el cual deberá ser acreditado ante esta entidad adjuntando la certificación correspondiente.
 
 (Decreto 2187 de 2001 artículo 26)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.17 — Supervisión
 
@@ -30077,23 +26883,17 @@ PARÁGRAFO . La Superintendencia de Vigilancia y Seguridad Privada, impondrá la
 
 (Decreto 2187 de 2001 artículo 27)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.18 — Medidas Cautelares
 
 A las personas naturales o jurídicas que estén realizando actividades de vigilancia y seguridad privada con medios caninos sin contar con licencia de funcionamiento y/o permiso expedido por la Superintendencia de Vigilancia y Seguridad Privada, se les impondrán las medidas cautelares de que trata el artículo 75 del Decreto 356 de 1994, sin perjuicio del decomiso de los perros que estén siendo utilizados en tales actividades.
 
 (Decreto 2187 de 2001 artículo 28)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.19 — Prohibición porte de Armas para manejadores
 
 El personal de manejadores caninos no podrá portar armas de fuego en la prestación de su servicio.
 
 (Decreto 2187 de 2001 artículo 29)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.20 — Servicios con Medios Tecnológicos
 
@@ -30103,23 +26903,17 @@ Además se deberán indicar el personal de vigilancia y seguridad privada que op
 
 (Decreto 2187 de 2001 artículo 30)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.21 — Servicios de Consultoría
 
 Comprende la identificación e investigación de riesgos e incidentes en seguridad privada; la elaboración de estudios y consultorías en seguridad privada integral; la formulación, recomendación y adopción de una estrategia contenida en planes y programas relacionados con políticas, organización, métodos y procedimientos de vigilancia y seguridad privada, y la prestación de la asistencia necesaria, con el fin de ejecutar dichas estrategias, planes, programas y acciones preventivas o correctivas para satisfacer las necesidades identificadas y propender a los objetivos indicados en el Estatuto para la vigilancia y seguridad privada.
 
 (Decreto 2187 de 2001 artículo 31)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.22 — Servicios de Asesoría
 
 Consiste en la elaboración de estudios en seguridad privada integral, mediante la formulación de una estrategia contenida en planes y programas relacionados con políticas, organización, métodos y procedimientos de vigilancia y seguridad privada. Dentro de la consultoría se realiza previamente un trabajo de identificación e investigación en riesgos e incidentes en seguridad privada.
 
 (Decreto 2187 de 2001 artículo 32)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.23 — Servicios de Investigación
 
@@ -30128,8 +26922,6 @@ Comprende el estudio y análisis preventivo de riesgos y/o de las causas y funda
 En ningún caso los investigadores en seguridad privada podrán prestar servicios como detectives privados o ejercer labores de investigación judicial o realizar actividades de competencia de las entidades estatales; tampoco pueden efectuar estudios de consultoría ni asesoría en seguridad privada.
 
 (Decreto 2187 de 2001 artículo 33)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.24 — Obtención de Credenciales
 
@@ -30181,15 +26973,11 @@ PARÁGRAFO . La credencial de consultor también habilita para realizar asesorí
 
 (Decreto 2187 de 2001 artículo 34, modificado por el artículo 3 Decreto 2885 de 2009)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.25 — Pruebas
 
 La Superintendencia de Vigilancia y Seguridad Privada podrá aplicar pruebas y evaluaciones para la expedición de las licencias y credenciales de los servicios de asesoría, consultoría e investigación en seguridad.
 
 (Decreto 2187 de 2001 artículo 35)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.26 — Actividad Blindadora para la Vigilancia y Seguridad Privada
 
@@ -30209,8 +26997,6 @@ PARÁGRAFO . Las características técnicas mínimas de los diferentes tipos de 
 
 (Decreto 2187 de 2001 artículo 36)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.27 — Empresas Blindadoras
 
 Entiéndese por empresas blindadoras las sociedades legalmente constituidas cuyo objeto social consiste en la prestación remunerada de servicios de vigilancia y seguridad privada, a través de la adecuación de los tipos de blindajes señalados en el artículo anterior, para lo cual deberán obtener la licencia de funcionamiento de que trata el artículo 3o. del Decreto 356 de 1994, cuyo capital para su constitución no podrá ser inferior a 500 salarios mínimos legales mensuales vigentes.
@@ -30218,8 +27004,6 @@ Entiéndese por empresas blindadoras las sociedades legalmente constituidas cuyo
 PARÁGRAFO . Para constituir una empresa blindadora, se deberá dar cumplimiento a los requisitos del artículo 9o. del Decreto 356 de 1994.
 
 (Decreto 2187 de 2001 artículo 37)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.28 — Licencias De Funcionamiento
 
@@ -30247,15 +27031,11 @@ d) Solicitud de aprobación de instalaciones y medios por parte de la Superinten
 
 (Decreto 2187 de 2001 artículo 38)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.29 — Registro de Usuarios
 
 En cumplimiento del artículo 55 del Decreto 356 de 1994, las empresas blindadoras deberán elaborar y mantener un registro de sus usuarios y compradores, el cual contendrá la siguiente información: Nombre, documento de identidad, objeto a blindar, dirección y teléfono. Esta información se mantendrá actualizada y podrá ser solicitada por la Superintendencia de Vigilancia y Seguridad Privada, en cualquier momento.
 
 (Decreto 2187 de 2001 artículo 39)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.30 — Requisitos para Usuarios y Compradores de Equipos, Elementos y Automotores Blindados
 
@@ -30285,8 +27065,6 @@ PARÁGRAFO 2. El cumplimiento de estos requisitos, no se aplicará cuando se tra
 
 (Decreto 2187 de 2001 artículo 40)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.31 — Vehículos Blindados
 
 El comprador, usuario o tenedor de un vehículo automotor blindado o a quien se haya autorizado el blindaje, deberá tramitar ante las autoridades competentes la modificación de la tarjeta de propiedad, en donde conste o se indique la característica de blindado y el nivel de blindaje.
@@ -30295,15 +27073,11 @@ Una vez efectuado lo anterior, el usuario o comprador deberá remitir copia a la
 
 (Decreto 2187 de 2001 artículo 41)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.32 — Identificación
 
 Los propietarios o usuarios deberán portar: la tarjeta de propiedad con la indicación de blindado; copia de la resolución de la Superintendencia de Vigilancia y Seguridad Privada, en la cual se autoriza el blindaje del vehículo y una tarjeta o carné de usuario expedido por la empresa que lo acondicionó.
 
 (Decreto 2187 de 2001 artículo 42)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.33 — Aplicación otras Disposiciones
 
@@ -30311,15 +27085,11 @@ En lo no contemplado en esta Sección, a los servicios de blindajes para la vigi
 
 (Decreto 2187 de 2001 artículo 43)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.3.34 — Prohibición
 
 En ningún caso las empresas blindadoras podrán entregar automotores blindados sin que se acredite por parte del usuario la autorización correspondiente expedida por la Superintendencia de Vigilancia y Seguridad Privada. Las empresas blindadoras deberán exigir al interesado la presentación de la respectiva resolución previamente a la entrega del trabajo, so pena de incurrir en las sanciones legales previstas para los servicios de vigilancia y seguridad privada.
 
 (Decreto 2187 de 2001 artículo 44)
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.3.35 — Arrendamiento de Vehículos Blindados
 
@@ -30332,8 +27102,6 @@ PARÁGRAFO . El arrendamiento de vehículos deberá ser realizado previo el cump
 SUBSECCIÓN 4.
 
 CAPACITACIÓN Y ENTRENAMIENTO DE LAS ESCUELAS DE CAPACITACIÓN Y ENTRENAMIENTO EN VIGILANCIA Y SEGURIDAD PRIVADA.
-
-ARTÍCULO
 
 ## art:2.6.1.1.3.4.1 — Pólizas
 
@@ -30367,8 +27135,6 @@ SUBSECCIÓN 5.
 
 DE LAS DISPOSICIONES COMUNES A LOS SERVICIOS DE VIGILANCIA Y SEGURIDAD PRIVADA.
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.5.1 — Credencial de Identificación
 
 Para efectos del inciso 2o. del artículo 87 del Decreto 356 de 1994, modificado por el artículo 103 del Decreto 19 de 2012, están obligados a portar la credencial de identificación el siguiente personal vinculado a los servicios de vigilancia y seguridad privada:
@@ -30399,8 +27165,6 @@ PARÁGRAFO . Se entiende por personal directivo en los servicios de vigilancia y
 
 (Decreto 2187 de 2001 artículo 48)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3.5.2 — Prohibición Grupos de Reacción Armada
 
 En ningún caso las empresas de vigilancia y seguridad privada podrán organizar grupos de reacción armada para atender el accionar de las alarmas de usuarios que utilicen medios tecnológicos de seguridad privada.
@@ -30411,15 +27175,11 @@ SECCIÓN 4.
 
 NORMAS SOBRE CUANTÍAS MÍNIMAS DE PATRIMONIO QUE DEBERÁN MANTENER Y ACREDITAR LOS SERVICIOS DE VIGILANCIA Y SEGURIDAD PRIVADA ANTE LA SUPERINTENDENCIA DE VIGILANCIA Y SEGURIDAD PRIVADA.
 
-ARTÍCULO
-
 ## art:2.6.1.1.4.1 — Cobertura
 
 Serán sujetos de aplicación de esta Sección las empresas y cooperativas armadas y sin armas, las empresas transportadoras de valores y las escuelas de capacitación y entrenamiento, de vigilancia y seguridad privada.
 
 (Decreto 0071 de 2002 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.4.2 — Patrimonio
 
@@ -30427,15 +27187,11 @@ Los servicios de que trata el artículo 2.6.1.1.4.1., de la presente Sección de
 
 (Decreto 0071 de 2002 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.4.3 — Relación mínima de Patrimonio
 
 A partir del 24 de enero de 2002 (entrada en vigencia del Decreto 0071 de 2002) establécese como relación mínima de patrimonio el equivalente al 40% del total de sus activos.
 
 (Decreto 0071 de 2002 artículo 3)
-
-ARTÍCULO
 
 ## art:2.6.1.1.4.4 — Composición del Patrimonio
 
@@ -30445,8 +27201,6 @@ PARÁGRAFO . El capital suscrito y pagado, en todo caso, no deberá ser inferior
 
 (Decreto 0071 de 2002 artículo 4)
 
-ARTÍCULO
-
 ## art:2.6.1.1.4.5 — Cumplimiento
 
 Los servicios de vigilancia y seguridad privada, enunciados en el artículo 2.6.1.1.4.1., deberán presentar a la Superintendencia de Vigilancia y Seguridad Privada a más tardar el 30 de abril de cada año, los estados financieros consolidados a 31 de diciembre del ario inmediatamente anterior.
@@ -30454,8 +27208,6 @@ Los servicios de vigilancia y seguridad privada, enunciados en el artículo 2.6.
 PARÁGRAFO . Para efectos de controlar la relación mínima de patrimonio se deberá enviar además de los estados financieros básicos (balance general consolidado, estado de resultados y notas a los estados financieros), el estado de cambio en la situación patrimonial comparada con el año inmediatamente anterior de aquel que se informa.
 
 (Decreto 0071 de 2002 artículo 5)
-
-ARTÍCULO
 
 ## art:2.6.1.1.4.6 — Patrimonio Básico
 
@@ -30479,8 +27231,6 @@ PARÁGRAFO . La cuenta "revalorización del patrimonio" no deberá ser superior 
 
 (Decreto 0071 de 2002 artículo 6)
 
-ARTÍCULO
-
 ## art:2.6.1.1.4.7 — Deducciones del Patrimonio Básico
 
 Se deducirán del patrimonio básico los siguientes conceptos:
@@ -30490,8 +27240,6 @@ a) Las pérdidas de ejercicios anteriores y las del ejercicio en curso;
 b) La cuenta "revalorización del patrimonio" cuando ésta sea negativa.
 
 (Decreto 0071 de 2002 artículo 7)
-
-ARTÍCULO
 
 ## art:2.6.1.1.4.8 — Valoraciones y Provisiones
 
@@ -30503,15 +27251,11 @@ SECCIÓN 5.
 
 REGLAMENTACIÓN PARCIAL DEL ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA CONTENIDO EN EL DECRETO-LEY 356 DEL 11 DE FEBRERO DE 1994 Y SE DICTAN OTRAS DISPOSICIONES.
 
-ARTÍCULO
-
 ## art:2.6.1.1.5.1 — Redes de Apoyo y Solidaridad Ciudadana
 
 A partir del 30 de diciembre de 2002 (entrada en vigencia del Decreto 3222 de 2002), créanse las Redes de Apoyo y Solidaridad Ciudadana, conformadas por las personas, empresas y servicios descritos en el artículo 4o del Decreto-ley 356 de 1994.
 
 (Decreto 3222 de 2002 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.5.2 — Definición
 
@@ -30519,23 +27263,17 @@ Para los efectos de la presente Sección, se entiende por Redes de Apoyo y Solid
 
 (Decreto 3222 de 2002 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.5.3 — Coordinación General
 
 Las Redes de Apoyo y Seguridad Ciudadana a que se refiere el artículo 2.6.1.1.5.1., de la presente Sección serán coordinadas por la Policía Nacional por medio de las diferentes unidades que operan en el territorio nacional, en colaboración con la Superintendencia de Vigilancia y Seguridad Privada, quien expedirá los instructivos necesarios para dar cumplimiento a esta labor.
 
 (Decreto 3222 de 2002 artículo 3)
 
-ARTÍCULO
-
 ## art:2.6.1.1.5.4 — Objeto de las Redes de Apoyo y Seguridad Ciudadana
 
 Las Redes de Apoyo y Seguridad Ciudadana tendrán como objeto principal la obtención y canalización de información ágil, veraz y oportuna que permita prevenir, evitar y disminuir la realización de hechos punibles, en especial los relacionados con el terrorismo.
 
 (Decreto 3222 de 2002 artículo 4)
-
-ARTÍCULO
 
 ## art:2.6.1.1.5.5 — Entrega de Información
 
@@ -30545,15 +27283,11 @@ PARÁGRAFO . En todo caso, cuando la información obtenida se refiera a hechos p
 
 (Decreto 3222 de 2002 artículo 5)
 
-ARTÍCULO
-
 ## art:2.6.1.1.5.6 — Conformación Base de Datos
 
 En el marco de la coordinación que deberá existir para la operatividad de las Redes de Apoyo y Seguridad Ciudadana, la Superintendencia de Vigilancia y Seguridad Privada suministrará a la Policía Nacional, en medio magnético, la información de que disponga en sus bases de datos, relacionada con personal vinculado a los servicios de vigilancia y seguridad privada, medios autorizados y registro de equipos para la vigilancia y seguridad privadas. Dicha información será actualizada dentro de los primeros cinco (5) días hábiles de cada mes.
 
 (Decreto 3222 de 2002 artículo 6)
-
-ARTÍCULO
 
 ## art:2.6.1.1.5.7 — Capacitación
 
@@ -30562,8 +27296,6 @@ En coordinación con la Policía Nacional, el personal de los servicios de vigil
 PARÁGRAFO . Las Escuelas y Departamentos de Capacitación y Entrenamiento en Vigilancia y Seguridad Privada informarán a la Superintendencia de Vigilancia y Seguridad Privada los ajustes realizados a sus pensum.
 
 (Decreto 3222 de 2002 artículo 7)
-
-ARTÍCULO
 
 ## art:2.6.1.1.5.8 — Evaluaciones Periódicas
 
@@ -30574,8 +27306,6 @@ La Policía Nacional evaluará trimestralmente el funcionamiento de las Redes de
 SECCIÓN 6.
 
 FIJACIÓN DE LAS TARIFAS MÍNIMAS PARA EL COBRO DE LOS SERVICIOS DE VIGILANCIA Y SEGURIDAD PRIVADA PRESTADOS POR LAS EMPRESAS Y/O COOPERATIVAS DE VIGILANCIA Y SEGURIDAD PRIVADA.
-
-ARTÍCULO
 
 ## art:2.6.1.1.6.1 — Objeto
 
@@ -30603,15 +27333,11 @@ La tarifa calculada está dada sobre la base de los costos directos que incluyen
 
 (Modificado por el Articulo 2. del Decreto 1561 de 2022)
 
-ARTÍCULO
-
 ## art:2.6.1.1.6.4 — Servicios Adicionales
 
 Cuando los usuarios demanden servicios adicionales a los enunciados en los numerales 1, 2, Y 3 del artículo 2.6.1.1.6.2., de la presente Sección, estos tendrán valores adicionales. Las empresas de vigilancia y seguridad privada que ofrezcan medios tecnológicos deberán contar con la debida licencia de funcionamiento expedida por esta Entidad.
 
 (Decreto 4950 de 2007 artículo 4)
-
-ARTÍCULO
 
 ## art:2.6.1.1.6.5 — Aplicación de la Tarifa
 
@@ -30641,8 +27367,6 @@ PARÁGRAFO 2. Para los estratos residenciales 1, 2 y 3 la tarifa a cobrar deber�
 
 (Decreto 4950 de 2007 artículo 5)
 
-ARTÍCULO
-
 ## art:2.6.1.1.6.6 — Cooperativas Armadas y sin Armas con Medio Humano
 
 La tarifa se ajustará a la estructura de costos y gastos propios de estas empresas, teniendo en cuenta su régimen especial de trabajo asociado, de previsión y seguridad social y de compensaciones que les permite un manejo diferente de las empresas mercantiles.
@@ -30653,15 +27377,11 @@ PARÁGRAFO 2. Las tarifas determinadas para las cooperativas de vigilancia y seg
 
 (Decreto 4950 de 2007 artículo 6)
 
-ARTÍCULO
-
 ## art:2.6.1.1.6.7 — Horas Contratadas
 
 Cuando el servicio contratado sea inferior a veinticuatro (24) horas, la tarifa deberá ser proporcional al tiempo contratado.
 
 (Decreto 4950 de 2007 artículo 7)
-
-ARTÍCULO
 
 ## art:2.6.1.1.6.8 — Cumplimiento de la Legislación Laboral
 
@@ -30673,15 +27393,11 @@ SECCIÓN 7.
 
 REGLAMENTACIÓN DEL ARTÍCULO 76 DE LA LEY 1151 DE 2007.
 
-ARTÍCULO
-
 ## art:2.6.1.1.7.1 — Contribución a favor de la Superintendencia de Vigilancia y Seguridad Privada
 
 Las personas naturales o jurídicas sometidas a la inspección, vigilancia y control de la Superintendencia de Vigilancia y Seguridad Privada deberán pagar anualmente una contribución a favor de dicha entidad, en los términos señalados en el artículo 76 de la Ley 1151 de 2007.
 
 (Decreto 1989 de 2008 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.7.2 — Base Gravable y Tarifa
 
@@ -30697,8 +27413,6 @@ d) Para las empresas que ejerzan la actividad de arrendamiento de vehículos bli
 
 (Decreto 1989 de 2008 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.7.3 — Autoliquidación de la Contribución
 
 Las entidades sometidas a la inspección, vigilancia y control de la Superintendencia de Vigilancia y Seguridad Privada deberán efectuar una autoliquidación, con fundamento en las bases gravables y tarifas especificadas en la presente Sección. La autoliquidación que efectúen las entidades respectivas deberá ser radicada en la Superintendencia de Vigilancia y Seguridad Privada, dentro de las fechas que se establezcan anualmente por la entidad.
@@ -30706,8 +27420,6 @@ Las entidades sometidas a la inspección, vigilancia y control de la Superintend
 La autoliquidación deberá diligenciarse en el formato que para el efecto diseñe y adopte oficialmente la Superintendencia de Vigilancia y Seguridad Privada, el cual deberá ser suscriptor el obligado, tratándose de personas naturales. Cuando el contribuyente sea una persona jurídica, la autoliquidación deberá ser firmada por el representante legal y el revisor fiscal, si está obligada a tenerlo.
 
 (Decreto 1989 de 2008 artículo 3)
-
-ARTÍCULO
 
 ## art:2.6.1.1.7.4 — Pago de la Contribución
 
@@ -30719,15 +27431,11 @@ PARÁGRAFO . La Superintendencia de Vigilancia y Seguridad Privada no recibirá 
 
 (Decreto 1989 de 2008 artículo 4)
 
-ARTÍCULO
-
 ## art:2.6.1.1.7.5 — Solicitud de la Información
 
 Superintendencia de Vigilancia y Seguridad Privada solicitará la información con corte a 31 de diciembre de la vigencia anterior que considere necesaria para la determinación de las bases gravables de la contribución y las fechas en la que estos datos deben ser declarados y suministrados a la entidad.
 
 (Decreto 1989 de 2008 artículo 5)
-
-ARTÍCULO
 
 ## art:2.6.1.1.7.6 — Verificación de la Autoliquidación
 
@@ -30741,23 +27449,17 @@ PARÁGRAFO . En lo no previsto por este artículo, los procedimientos administra
 
 (Decreto 1989 de 2008 artículo 6)
 
-ARTÍCULO
-
 ## art:2.6.1.1.7.7 — Cobro Coactivo
 
 De acuerdo con lo previsto en artículo 5 de la Ley 1066 de 2006, la Superintendencia de Vigilancia y Seguridad Privada tiene jurisdicción coactiva para hacer efectivas las obligaciones derivadas de la contribución establecida a su favor y, para estos efectos, aplicará procedimiento de cobro coactivo establecido en el Estatuto Tributario.
 
 (Decreto 1989 de 2008 artículo 7)
 
-ARTÍCULO
-
 ## art:2.6.1.1.7.8 — Intereses de Mora
 
 Los contribuyentes que no cancelen oportunamente los montos correspondientes a la contribución a favor de la Superintendencia de Vigilancia y Seguridad Privada deberán liquidar y pagar intereses moratorios a la tasa prevista en el Estatuto Tributario.
 
 (Decreto 1989 de 2008 artículo 8)
-
-ARTÍCULO
 
 ## art:2.6.1.1.7.9 — Medidas para el cumplimiento
 
@@ -30769,15 +27471,11 @@ SECCIÓN 8.
 
 HOMOLOGACIÓN DE REQUISITOS PARA EX FUNCIONARIOS DEL DEPARTAMENTO ADMINISTRATIVO DE SEGURIDAD DAS.
 
-ARTÍCULO
-
 ## art:2.6.1.1.8.1 — Vigilante, Escolta, Tripulante, Manejador Canino y/o Operador de Medios Tecnológicos
 
 Los ex funcionarios cuyo cargo fue el de agente, escolta o detective en el Departamento Administrativo de Seguridad DAS, podrán homologar los requisitos de capacitación de curso básico para optar por la credencial de vigilante, escolta, tripulante, manejador canino y/o operador de medios tecnológicos que expide la Superintendencia de Vigilancia y Seguridad Privada. Para el efecto el representante legal del servicio de vigilancia y seguridad privada, adicionalmente a los demás requisitos exigidos, para el caso en particular presentará ante la Superintendencia de Vigilancia y Seguridad Privada una certificación del área de talento humano del Departamento Administrativo de Seguridad DAS, o quien haga sus veces, en la cual conste el cargo bajo el cual estuvo vinculado la persona que pretende acreditarse como vigilante, escolta, tripulante, manejador canino y/o operador de medios tecnológicos al correspondiente servicio de vigilancia y seguridad privada.
 
 (Decreto 2885 de 2009 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.8.2 — Ex Funcionarios del Departamento Administrativo de Seguridad DAS
 
@@ -30788,8 +27486,6 @@ Iguales condiciones a las establecidas en el artículo 2.6.1.1.8.1., de la prese
 SECCIÓN 9.
 
 POR EL CUAL SE REGLAMENTA PARCIALMENTE LA LEY 1539 DE 2012 Y SE DICTAN OTRAS DISPOSICIONES.
-
-ARTÍCULO
 
 ## art:2.6.1.1.9.1 — Vigilantes, Escoltas y Supervisores
 
@@ -30803,23 +27499,17 @@ PARÁGRAFO . El certificado de aptitud psicofísica señalado en el presente art
 
 (Decreto 0738 de 2013 artículo 1)
 
-ARTÍCULO
-
 ## art:2.6.1.1.9.2 — Certificados de Aptitud Psicofísica
 
 La expedición del certificado de aptitud psicofísica para el porte y tenencia de armas de fuego del personal vinculado a la actividad de vigilancia y seguridad privada vigilantes, escoltas y supervisores), sólo podrá efectuarse mediante solicitud que realice la persona jurídica licenciada por la Superintendencia de Vigilancia y Seguridad Privada ante la Administradora de Riesgos Laborales a la cual se encuentre afinada.
 
 (Decreto 0738 de 2013 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.9.3 — Guarda y Custodia
 
 La Institución Especializada con Licencia en Salud Ocupacional tendrá la guarda y custodia de la certificación de aptitud psicofísica y deberá entregar copia de la misma al trabajador.
 
 (Decreto 0738 de 2013 artículo 3)
-
-ARTÍCULO
 
 ## art:2.6.1.1.9.4 — Exámenes
 
@@ -30839,15 +27529,11 @@ PARÁGRAFO 2. La Institución Especializada debe respetar la reserva de la histo
 
 (Decreto 0738 de 2013 artículo 4)
 
-ARTÍCULO
-
 ## art:2.6.1.1.9.5 — Competencia
 
 La guarda y custodia de las certificaciones de aptitud psicofísica le compete a las Instituciones Especializadas con Licencia en Salud Ocupacional, acreditadas en ISO/ICE17024:2003 que realizaron dichas pruebas y expidieron la certificación.
 
 (Decreto 0738 de 2013 artículo 5)
-
-ARTÍCULO
 
 ## art:2.6.1.1.9.6 — Controles
 
@@ -30857,15 +27543,11 @@ Para que exista certeza sobre la identidad de los vigilantes, supervisores y esc
 
 (Decreto 0738 de 2013 artículo 6)
 
-ARTÍCULO
-
 ## art:2.6.1.1.9.7 — Investigaciones Administrativas
 
 Cuando las personas jurídicas o naturales que presten servicios de vigilancia y seguridad privada con vigilantes, escoltas o supervisores, los presten sin que estos hayan obtenido el certificado de aptitud psicofísica para porte y tenencia de armas de fuego, se les adelantarán las investigaciones administrativas del caso por parte de la Superintendencia de Vigilancia y Seguridad Privada, las cuales podrán dar lugar a la imposición de sanciones establecidas en la ley.
 
 (Decreto 0738 de 2013 artículo 7)
-
-ARTÍCULO
 
 ## art:2.6.1.1.9.8 — Plazo
 
@@ -30881,8 +27563,6 @@ POR EL CUAL SE REGLAMENTA EL SISTEMA INTEGRADO DE SEGURIDAD PARA LA EXPEDICIÓN 
 
 (Decreto 026 de 2017 artículo 1)
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.1 — Objeto
 
 El presente decreto tiene como objeto la reglamentación del sistema integrado seguridad, que deberá ser implementado en la valoración médica y expedición de certificados de aptitud psicofísica para el porte y tenencia de armas de fuego, por parte de las instituciones certificadoras de personas, de acuerdo con los mandatos contenidos en la Ley 1119 de 2006 y la Ley 1539 de 2012.
@@ -30892,8 +27572,6 @@ Este cuerpo normativo comprenderá todos los aspectos relacionados con los proto
 SUBSECCIÓN 1
 
 DEL SISTEMA INTEGRADO DE SEGURIDAD
-
-ARTÍCULO
 
 ## art:2.6.1.1.10.1.1 — Definición y obligatoriedad del Sistema Integrado de Seguridad
 
@@ -30914,8 +27592,6 @@ El Sistema tiene como propósito:
 Las instituciones que se encuentren autorizadas y habilitadas para expedir los certificados de aptitud psicofísica para el porte y tenencia de armas de fuego deberán operar bajo el Sistema Integrado de Seguridad.
 
 PARÁGRAFO 1. Las Instituciones Especializadas remitirán la información que se obtenga de los aspirantes, las pruebas y/o los resultados de los certificados de aptitud psicofísica para el porte y tenencia de armas de fuego al Ministerio de Defensa Nacional - Comando General de las Fuerzas Militares - Departamento Control Comercio de Armas, Municiones y Explosivos, Superintendencia de Vigilancia y Seguridad Privada y Dirección General de Sanidad Militar, una vez sea agotado el procedimiento establecido a través del Sistema Integrado de Seguridad, de la forma como se indique por cada entidad, garantizando la interoperabilidad de los sistemas involucrados.
-
-ARTÍCULO
 
 ## art:2.6.1.1.10.1.2 — Operación del Sistema Integrado de Seguridad
 
@@ -30971,8 +27647,6 @@ Para poder acreditar el certificado de aptitud como requisito habilitante para e
 
 20. El Sistema deberá contar con un sistema de gestión de calidad que cumpla con los requisitos de la norma técnica correspondiente, que asegure que los organismos de certificación de personas que operan los esquemas de certificación de aptitud psicofísica para el porte y tenencia de armas de fuego, se adelanten de forma coherente, comparable y confiable bajo un solo criterio y/o modelo técnico. El sistema de gestión de calidad deberá estandarizar criterios, tablas de equivalencia, técnicas de evaluación y calificación.
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.1.3 — Características generales del Sistema
 
 Adicionalmente al protocolo establecido en el artículo precedente, el Sistema Integrado de Seguridad tendrá las siguientes características y/o componentes:
@@ -30989,21 +27663,15 @@ Adicionalmente al protocolo establecido en el artículo precedente, el Sistema I
 
 6. El Sistema Integrado de Seguridad deberá disponer de un mecanismo redundante de transferencia de la información, a través de un dispositivo portátil para cada usuario aspirante, el cual, por medio de un sistema óptico, magnético, electrónico o caótico, permita almacenar, actualizar y capturar la información de este, con el fin de precaver caídas de la plataforma tecnológica o del sistema de comunicación. Este mecanismo, al ser de respaldo opera de manera temporal durante el proceso, mientras se carga la información consolidada al software de gestión.
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.1.4 — Entidades autorizadas para interactuar con el Sistema Integrado de Seguridad en la expedición de certificados de aptitud
 
 Solamente podrán interactuar con el Sistema Integrado de Seguridad las instituciones a expedir los certificados de aptitud psicofísica para el porte o tenencia de armas de fuego, que previamente cuenten con el acto administrativo de inscripción en el Registro ante el Ministerio de Defensa - Dirección General de Sanidad Militar - Subdirección de Servicios de salud, además con la inscripción en el Registro Especial de Prestadores de Servicios de Salud, que tengan habilitación vigente como prestadores de salud por las Secretarías de Salud correspondientes en la modalidad de objeto social diferente y con acreditación vigente como organismos de certificación de personas.
 
 PARÁGRAFO . Para aquellas instituciones que pretendan expedir certificados de aptitud psicofísica para el porte y tenencia de armas de fuego para vigilantes, escoltas y supervisores, se requerirá certificado de salud ocupacional.
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.1.5 — Requisito de operación del Sistema Integrado de Seguridad
 
 Para su entrada en operación, el Sistema Integrado de Seguridad, deberá respetar los derechos de propiedad industrial reconocidos mediante patente de invención o modelo de utilidad por la Superintendencia de Industria y Comercio, cumpliendo con todas las características y requisitos establecidos en el presente Decreto y con las condiciones y especificaciones técnicas complementarias, que para el efecto establezca la Superintendencia de Vigilancia y Seguridad Privada.
-
-ARTÍCULO
 
 ## art:2.6.1.1.10.1.6 — Obligaciones especiales del proveedor del Sistema Integrado de Seguridad, del software y conectividad
 
@@ -31016,8 +27684,6 @@ La empresa, entidad o persona que cumpla con los requisitos previstos en el pres
 3. Entregar un informe diario a la Superintendencia de Vigilancia y Seguridad Privada de las pruebas que dieron cumplimiento a los rangos establecidos para los certificados de aptitud psicofísica para el porte y tenencia de armas de fuego, fijados por la normatividad vigente y las autoridades competentes.
 
 4. Atender de manera oportuna los requerimientos presentados por las entidades encargadas del control y vigilancia de las instituciones certificadoras.
-
-ARTÍCULO
 
 ## art:2.6.1.1.10.1.7 — Expedición de certificados de aptitud
 
@@ -31033,13 +27699,9 @@ SUBSECCIÓN 2
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.2.1 — Acreditación de las instituciones certificadoras
 
 Las Instituciones que expidan o que pretendan expedir certificados de aptitud psicofísica para el porte y tenencia de armas de fuego, deberán ser acreditadas como organismos de certificación de personas bajo la norma ISO/IEC 17024:2003 o sus modificatorias y deberán realizar una evaluación anual de vigilancia de la acreditación doce (12) meses después de entrar en operación o de la última evaluación. Serán válidos ante el Ministerio de Defensa Nacional los certificados de acreditación expedidos por todas las entidades nacionales o internacionales con facultades de acreditación (Organismos de Acreditación), a las que el Gobierno Nacional o autoridad pública les hubiese concedido esas facultades legales, o le hubiese fijado ese ámbito de operación y que se encuentren legalmente constituidas a la fecha de promulgación del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.6.1.1.10.2.2 — Garantía de cobertura nacional
 
@@ -31047,19 +27709,13 @@ Las instituciones especializadas certificadoras, que previamente sean registrada
 
 PARÁGRAFO . Las instituciones especializadas certificadoras, deberán remitir a la Superintendencia de Vigilancia y Seguridad Privada copia de los contratos o convenios mencionados en el artículo anterior, dentro de los quince (15) días siguientes a la suscripción de los mismos.
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.2.3 — Homologación del proveedor del Sistema Integrado de Seguridad
 
 La Superintendencia de Vigilancia y Seguridad Privada determinará las condiciones y especificaciones técnicas complementarias para la homologación de los proveedores del Sistema Integrado de Seguridad. Una vez establecidas esas condiciones y especificaciones, procederá a evaluar y a homologar a los aspirantes a proveedores que cumplan con los requisitos.
 
-ARTÍCULO
-
 ## art:2.6.1.1.10.2.4 — Homologación de /os proveedores de recaudo que interactúan con el Sistema Integrado de Seguridad
 
 La Superintendencia de Vigilancia y Seguridad Privada determinará las condiciones y especificaciones técnicas complementarias para la homologación de los proveedores del recaudo que interactúen con el Sistema Integrado de Seguridad. Una vez establecidas esas condiciones y especificaciones, procederá a evaluar y a homologar a los aspirantes a proveedores que cumplan con los requisitos.
-
-ARTÍCULO
 
 ## art:2.6.1.1.10.2.5 — Garantía de no afectación del servicio
 
@@ -31077,15 +27733,11 @@ SUBSECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.1.1 — Objeto
 
 La presente Sección tiene como objeto la reglamentación del seguro de vida colectivo que ampara al personal operativo vinculado a los prestadores de servicios de vigilancia y seguridad privada, registrado ante la Superintendencia de Vigilancia y Seguridad Privada y acreditado por esta, en cumplimiento de lo dispuesto en el Artículo 5 de la Ley 1920 de 2018.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.1.2 — Personal Operativo
 
@@ -31100,8 +27752,6 @@ c) Operador de Medios Tecnológicos.
 d) Manejador Canino.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.1.3 — Prestadores de servicios de vigilancia y seguridad privada obligados
 
@@ -31121,8 +27771,6 @@ f) Los departamentos de seguridad.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.1.4 — Definiciones
 
 Para efectos de lo previsto en esta Sección, se tendrán en cuenta las siguientes definiciones:
@@ -31139,8 +27787,6 @@ SUBSECCIÓN 2
 
 SEGURO DE VIDA COLECTIVO
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.2.1 — Características
 
 El seguro de vida colectivo tendrá como finalidad amparar al personal operativo vinculado a los prestadores de servicios de vigilancia y seguridad privada obligados, registrado ante la Superintendencia de Vigilancia y Seguridad Privada y acreditado por esta, el cual tendrá las siguientes características:
@@ -31149,15 +27795,11 @@ Es un seguro obligatorio, colectivo, contratado anualmente, expedido bajo la Mod
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.2.2 — Riesgo asegurable
 
 El seguro de vida colectivo, habrá de cubrir la muerte de las personas individualmente consideradas que conforman el personal operativo vinculado a los prestadores de servicios de vigilancia y seguridad privada obligados, registrado ante la Superintendencia de Vigilancia y Seguridad Privada y acreditado por esta.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.2.3 — Interés asegurable
 
@@ -31165,15 +27807,11 @@ El interés asegurable en el seguro de vida colectivo es la vida de cada una de 
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.2.4 — Otros amparos
 
 Sin perjuicio de lo establecido en la presente Sección, los prestadores de servicios de vigilancia y seguridad privada definidos en el Artículo 2.6.1.1.12.1.3., podrán voluntariamente contratar otros amparos que favorezcan al personal operativo vinculado a estos, lo cual se regirá por las normas aplicables a la materia.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.2.5 — Vigencia
 
@@ -31181,15 +27819,11 @@ El seguro de vida colectivo tendrá vigencia anual y deberá mantenerse vigente 
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.2.6 — Asegurador
 
 Están facultadas para expedir la póliza del seguro de vida colectivo las entidades aseguradoras que se establezcan legalmente en el país y obtengan autorización específica de la Superintendencia Financiera de Colombia.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.2.7 — Tomador
 
@@ -31201,15 +27835,11 @@ PARÁGRAFO . Por ningún motivo ni por ningún medio, podrá el tomador transfer
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.2.8 — Asegurados y beneficiarios
 
 El asegurado del seguro de vida colectivo será el personal operativo vinculado a los prestadores de los servicios de vigilancia y seguridad privada obligados, registrado ante la Superintendencia de Vigilancia y Seguridad Privada y acreditado por esta. En caso de la concreción del riesgo o la ocurrencia del siniestro, serán beneficiarios de la suma asegurada aquellos designados por el asegurado, en caso contrario se aplicará lo dispuesto en el Artículo 1142 del Código de Comercio.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.2.9 — Contratación del seguro de vida colectivo
 
@@ -31225,8 +27855,6 @@ PARÁGRAFO 3. El seguro de vida colectivo es diferente e independiente a los dem
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.2.10 — Modificaciones del contrato de seguro de vida colectivo
 
 Los prestadores de servicios de vigilancia y seguridad privada obligados, podrán efectuar modificaciones al contrato de seguro de vida colectivo para el correcto aseguramiento del personal operativo, siempre que se respeten los requisitos establecidos en la presente Sección.
@@ -31236,8 +27864,6 @@ PARÁGRAFO 1. Las nuevas vinculaciones de personal operativo por parte del prest
 PARÁGRAFO 2. Los prestadores de servicios de vigilancia y seguridad privada obligados deberán reportar ante la Superintendencia de Vigilancia y Seguridad Privada toda modificación efectuada al contrato de seguro de vida colectivo.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.2.11 — Normatividad aplicable al seguro de vida colectivo obligatorio
 
@@ -31249,15 +27875,11 @@ SUBSECCIÓN 3
 
 SEGURO DE VIDA COLECTIVO COMO REQUISITO PARA OBTENER, RENOVAR O MANTENER LICENCIA DE FUNCIONAMIENTO
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.3.1 — Obtención de la licencia de funcionamiento
 
 Para efectos de la obtención de licencia de funcionamiento, el seguro de vida colectivo deberá ser aportado en el momento en que se vincule personal operativo por parte del prestador de servicios de vigilancia y seguridad privada, en concordancia con lo dispuesto en la Subsección 2.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.3.2 — Renovación de licencia de funcionamiento
 
@@ -31265,15 +27887,11 @@ Los prestadores de servicios de vigilancia y seguridad privada obligados que sol
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.1.12.3.3 — Mantenimiento de licencia de funcionamiento
 
 Los prestadores de servicios de vigilancia y seguridad privada con licencia de funcionamiento vigente, para mantener la misma, deberán contratar el seguro de vida colectivo, mantenerlo vigente ininterrumpidamente y reportarlo ante la Superintendencia de Vigilancia y Seguridad Privada. El incumplimiento de este deber legal por parte del prestador de servicios de vigilancia y seguridad privada obligado, acarreará como consecuencia las sanciones legales establecidas en las normas que regulan los servicios de vigilancia y seguridad privada.
 
 (Adicionado por el Art. 1 del Decreto 1588 de 2021)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12.3.4 — Fuerza Mayor o Caso Fortuito
 
@@ -34275,15 +30893,11 @@ SUBSECCIÓN 1.
 
 SUBSIDIO PARA VIVIENDA DE LOS SOLDADOS PROFESIONALES QUE OTORGA EL ESTADO A TRAVÉS DE LA CAJA PROMOTORA DE VIVIENDA MILITAR Y DE POLICÍA, REGLAMENTANDO PARCIALMENTE LA LEY 973 DE 2005 Y DICTANDO OTRAS DISPOSICIONES.
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.1 — Objeto
 
 La presente Subsección tiene por objeto determinar el esquema de subsidios para vivienda que otorga el Estado a través de la Caja Promotora de Vivienda Militar y de Policía, reglamentar parcialmente la Ley 973 de 2005 y dictar otras disposiciones.
 
 (Decreto 3830 de 2006 artículo 1)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.2 — Definiciones
 
@@ -34301,8 +30915,6 @@ Postulación: Es la solicitud individual de trámite para efectos de solución d
 
 (Decreto 3830 de 2006 artículo 2)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.3 — Monto y Esquema del Subsidio para Vivienda para el Personal de Soldados Profesionales
 
 Con el fin de facilitar una solución de vivienda digna al personal de soldados profesionales, la Caja Promotora de Vivienda Militar y de Policía dará a estos, acceso al subsidio para vivienda en una cuantía de veintitrés (23) salarios mínimos legales mensuales vigentes.
@@ -34315,8 +30927,6 @@ PARÁGRAFO 2. Para la vigencia fiscal de 2007 y las subsiguientes, la Caja Promo
 
 (Decreto 3830 de 2006 artículo 3)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.4 — Financiamiento del Subsidio
 
 El Gobierno Nacional apropiará anualmente un valor equivalente al 3% de la nómina de los soldados Profesionales con carácter de subsidio para vivienda de los Soldados Profesionales el cual será administrado por parte de la Caja Promotora de Vivienda Militar y de Policía a través de una Subcuenta Separada.
@@ -34325,15 +30935,11 @@ Complementariamente, la Caja Promotora de Vivienda Militar y de Policía destina
 
 (Decreto 3830 de 2006 artículo 4)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.5 — Disponibilidad Presupuestal
 
 El reconocimiento y pago de los subsidios para vivienda que otorga el Estado a través de la Caja Promotora de Vivienda Militar y de Policía, estará sujeto a la disponibilidad presupuestal que tenga la Entidad para tal efecto en la correspondiente vigencia.
 
 (Decreto 3830 de 2006 artículo 5)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.6 — Verificación de Información
 
@@ -34341,15 +30947,11 @@ Antes de proceder al reconocimiento y orden de pago del subsidio para vivienda, 
 
 (Decreto 3830 de 2006 artículo 6)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.7 — Giro del Recurso del Subsidio
 
 La Caja Promotora de Vivienda Militar y de Policía girará el valor del subsidio a quien corresponda, una vez se acredite el otorgamiento y registro de la escritura pública de adquisición o de declaración de construcción o cuando se haya acreditado la existencia del gravamen hipotecario, según la modalidad para la cual se hubiere aplicado el subsidio, debiendo el afiliado o beneficiario llenar los demás requisitos exigidos en el Formulario Único de Pago establecido por la Caja para tales efectos.
 
 (Decreto 3830 de 2006 artículo 7)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.8 — Restitución del Subsidio
 
@@ -34357,15 +30959,11 @@ Cuando de conformidad con las normas que rigen la materia haya lugar a la restit
 
 (Decreto 3830 de 2006 artículo 8)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.9 — Supervisión y Vigilancia de los Recursos del Subsidio
 
 El Gerente General de la Caja Promotora de Vivienda Militar y de Policía, definirá mecanismos para ejercer la supervisión y vigilancia sobre la adecuada destinación de los recursos que reciba el beneficiario por concepto de subsidio para vivienda.
 
 (Decreto 3830 de 2006 artículo 9)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.10 — Fondo de Solidaridad para Solución de Vivienda a Beneficiarios de Afiliados que Fallezcan o que sufran una Discapacidad
 
@@ -34389,8 +30987,6 @@ En todos los casos la Junta Directiva de la Caja, antes del mes de octubre de ca
 
 (Decreto 3830 de 2006 artículo 10)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.11 — Devolución de Aportes
 
 El personal que pierda la calidad de afiliado tendrá derecho a que se le devuelva el valor de los aportes que registre la respectiva cuenta individual, previa solicitud del afiliado, siempre y cuando dicha petición no contravenga lo dispuesto por la ley y cumpla con los procedimientos contenidos en el reglamento de cesantías expedido por la Junta Directiva de la Caja Promotora de Vivienda Militar y de Policía.
@@ -34399,8 +30995,6 @@ PARÁGRAFO . Cuando ocurra la pérdida de la calidad de afiliado, pero este cont
 
 (Decreto 3830 de 2006 artículo 11)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.12 — Desafiliación Temporal
 
 A quien se le hubiere suspendido el descuento de ahorro mensual obligatorio por un término inferior a doce (12) meses, una vez demostradas las razones que motivaron la suspensión tendrá derecho para recobrar la antigüedad de la afiliación previa solicitud elevada dentro del mismo término, a que se le active el descuento debiendo consignar en forma inmediata las cuotas dejadas de descontar liquidadas sobre el sueldo básico vigente a la fecha en que se vaya a hacer el pago.
@@ -34408,8 +31002,6 @@ A quien se le hubiere suspendido el descuento de ahorro mensual obligatorio por 
 Será rechazada la solicitud de activación que se presente por suspensión del descuento de ahorro mensual obligatorio, en un término superior a doce (12) meses. por constituirse en una causal para la pérdida de la calidad de afiliado de conformidad con lo dispuesto en el numeral 1 del artículo 17 del Decreto-ley 353 de 1994 modificado por el artículo 10 de la Ley 973 de 2005.
 
 (Decreto 3830 de 2006 artículo 12)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.13 — Reintegro de Cuotas
 
@@ -34429,8 +31021,6 @@ PARÁGRAFO 2. El cumplimiento de las condiciones fijadas en el presente artícul
 
 (Decreto 3830 de 2006 artículo 13)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.14 — Descuentos Directos por Nómina
 
 La Caja coordinará la programación de los descuentos individuales con el Ministerio de Defensa Nacional, las Fuerzas Militares, la Policía Nacional y las Cajas de Retiro, por concepto de cuotas mensuales de ahorro o amortización de créditos.
@@ -34439,15 +31029,11 @@ En caso de omisión o falla del sistema de descuento, el afiliado o deudor segú
 
 (Decreto 3830 de 2006 artículo 14)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.15 — Sustitución de Derechos
 
 En el evento de que un afiliado fallezca y haya lugar a sustitución de los derechos del causante, la Caja Promotora de Vivienda Militar y de Policía procederá con los beneficiarios reconocidos por el Ministerio de Defensa Nacional, la Dirección General de la Policía Nacional, la Caja de Retiro de las Fuerzas Militares o la Caja de Sueldos de Retiro de la Policía Nacional, según el caso, a sustituir en ellos los derechos del afiliado, salvo disposición legal en contrario, Si no hubiere anuencia entre los beneficiarios, el conflicto deberá dirimirlo la autoridad competente.
 
 (Decreto 3830 de 2006 artículo 15)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.16 — Transferencia del Dominio de la Solución de Vivienda
 
@@ -34455,15 +31041,11 @@ El beneficiario del subsidio para vivienda se obliga a no transferir el dominio 
 
 (Decreto 3830 de 2006 artículo 16)
 
-ARTÍCULO
-
 ## art:2.6.2.1.1.1.17 — Acceso al Subsidio para Vivienda en Casos Especiales
 
 En la circunstancia especial de fallecimiento de un afiliado, cuyos beneficiarios queden disfrutando de sustitución de asignación de retiro o pensión, la Caja Promotora de Vivienda Militar y de Policía podrá dar acceso al subsidio para vivienda, según la categoría del afiliado, una vez acrediten la calidad de beneficiarios, reúnan los demás requisitos exigidos y exista disponibilidad presupuestal para el efecto. Igual procedimiento se seguirá con quien sea retirado del servicio activo en razón de una discapacidad y quede con derecho al disfrute de asignación de retiro o pensión.
 
 (Decreto 3830 de 2006 artículo 17)
-
-ARTÍCULO
 
 ## art:2.6.2.1.1.1.18 — Revisión del Modelo de Financiación
 
@@ -34501,8 +31083,6 @@ SUBSECCIÓN 1
 
 SUBVENCIONES A LAS RUTAS SOCIALES DÉL SERVICIO AÉREO A TERRITORIOS NACIONALES- SATENA S.A.
 
-ARTÍCULO
-
 ## art:2.6.2.2.1.1.1 — Rutas Sociales sujetas a subvención
 
 Para efectos del otorgamiento por parte del Ministerio de Defensa Nacional de las subvenciones de que trata el artículo 240 de la Ley 1753 de 2015, modificado por el artículo 302 de la Ley 1955 de 2019, durante cada vigencia fiscal, podrán ser objeto de subvención siempre y cuando el requisito de exclusividad se mantenga, las rutas sociales en las cuales SATENA S.A. sea el único operador en ciclo completo que para los efectos determine la Unidad Administrativa Especial de la Aeronáutica Civil.
@@ -34511,7 +31091,7 @@ PARÁGRAFO . En caso de que otro operador acceda a la operación y explotación 
 
 (Modificado por el Art. 1 del Decreto 1017 de 2020)
 
-ARTÍCULO
+## art:2.6.2.2.1.1.2 — 
 
 Mecanismo de subvención. Sujeto a la disponibilidad presupuestal del Ministerio de Defensa Nacional, se reconocerá para cada vigencia fiscal, la diferencia entre los egresos incurridos y los ingresos percibidos en la prestación del servicio aéreo en las rutas sociales en las cuales SATENA S.A. sea el único operador.
 
@@ -34527,7 +31107,7 @@ PARÁGRAFO La Presidencia de SATENA S.A. deberá certificar y aprobar los valore
 
 (Modificado por el Art. 1 del Decreto 1017 de 2020)
 
-ARTÍCULO
+## art:2.6.2.2.1.1.3 — 
 
 Desembolso de la subvención. El Ministerio de Defensa Nacional desembolsará a SATENA S.A. los recursos correspondientes a las subvenciones hasta por el monto de las apropiaciones presupuestales dispuestas para dicho propósito en cada vigencia fiscal en las fechas que para ello establezca el Ministerio de Defensa Nacional.
 
@@ -34551,8 +31131,6 @@ PARTE 1
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente de conformidad con el artículo 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al Sector Defensa que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -34564,8 +31142,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 3) Igualmente, quedan excluidas de esta derogatoria las normas de naturaleza reglamentaria de este sector administrativo que, a la fecha de expedición del presente decreto, se encuentren suspendidas por la Jurisdicción Contencioso Administrativa, las cuales serán compiladas en este decreto, en caso de recuperar su eficacia jurídica.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -34586,91 +31162,3 @@ COMANDANTE DE LAS FUERZAS MILITARES
 ENCARGADO DE LAS FUNCIONES DEL DESPACHO DE MINISTRO DE DEFENSA
 
 NOTA: Publicado en el Diario Oficial 49.523 de 26 de mayo de 2015
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

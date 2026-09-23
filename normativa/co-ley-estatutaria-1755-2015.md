@@ -7,7 +7,7 @@ ramas: [administrativo, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — 
@@ -171,43 +171,3 @@ Artículo 33. Derecho de petición de los usuarios ante instituciones privadas. 
 ## art:2 — VIGENCIA
 
 La presente ley rige a partir de la fecha de su promulgación y deroga las disposiciones que le sean contrarias.
-
-El Presidente del Honorable Senado de la República,
-
-JOSÉ DAVID NAME CARDOZO.
-
-El Secretario General del Honorable Senado de la República,
-
-GREGORIO ELJACH PACHECO.
-
-El Presidente de la Honorable Cámara de Representantes,
-
-FABIO RAÚL AMÍN SALEME.
-
-El Secretario General de la Honorable Cámara de Representantes,
-
-JORGE HUMBERTO MANTILLA SERRANO.
-
-República de Colombia – Gobierno Nacional
-
-Publíquese y ejecútese.
-
-En cumplimiento de lo dispuesto en la Sentencia C-951 del cuatro (4) de diciembre de dos mil catorce (2014) - Sala Plena - Radicación: PE-041, proferido por la Honorable Corte Constitucional, se procede a la sanción del proyecto de ley, la cual ordena la remisión del expediente al Congreso de la República, para continuar el trámite de rigor y posterior envío al Presidente de la República.
-
-Dada en Bogotá, D. C., a 30 de junio de 2015.
-
-JUAN MANUEL SANTOS CALDERÓN
-
-El Ministro de Justicia y del Derecho,
-
-YESID REYES ALVARADO.
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.

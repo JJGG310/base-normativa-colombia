@@ -7,7 +7,7 @@ ramas: [constitucional, procesal, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_0270_1996.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — ADMINISTRACIÓN DE JUSTICIA
@@ -165,8 +165,17 @@ PARÁGRAFO 2o. El Fiscal General de la Nación y sus delegados tienen competenci
 
 PARÁGRAFO 3o. En las ciudades se podrán organizar los despachos judiciales en forma desconcentrada.
 
+## art:12 — DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL
+ubicacion: TÍTULO II. ESTRUCTURA GENERAL DE LA ADMINISTRACIÓN DE JUSTICIA > CAPÍTULO II. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR LAS AUTORIDADES
+
+La función jurisdiccional se ejerce como propia y habitual y de manera permanente por las corporaciones y personas dotadas de investidura legal para hacerlo, según se precisa en la Constitución Política y en la presente ley Estatutaria.
+
+<Inciso modificado por el artículo 3 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> Dicha función se ejerce por la jurisdicción constitucional, el Consejo Superior de la Judicatura, la jurisdicción de lo contencioso administrativo, la jurisdicción agraria y rural, las jurisdicciones especiales tales como: la penal militar, la indígena y la justicia de paz, y la jurisdicción ordinaria que conocerá de todos los asuntos que no estén atribuidos por la Constitución o la ley a otra jurisdicción.
+
+La Jurisdicción penal militar y la jurisdicción especial indígena ejercen función jurisdiccional pero no hacen parte de la Rama Judicial.
+
 ## art:13 — DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR OTRAS AUTORIDADES Y POR PARTICULARES
-ubicacion: TÍTULO II. ESTRUCTURA GENERAL DE LA ADMINISTRACIÓN DE JUSTICIA > CAPÍTULO II. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR LAS AUTORIDADES ARTÍCULO 12. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL
+ubicacion: TÍTULO II. ESTRUCTURA GENERAL DE LA ADMINISTRACIÓN DE JUSTICIA > CAPÍTULO II. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR LAS AUTORIDADES
 
 Ejercen función jurisdiccional de acuerdo con lo establecido en la Constitución Política:
 
@@ -257,7 +266,7 @@ ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO 
 
 Corresponde a la Sala Plena de los Tribunales Superiores de Distrito Judicial, ejercer las siguientes funciones administrativas: 
 
-1. <Ver Notas del Editor> <Numeral modificado por el artículo 3 de la Ley 585 de 2000. El nuevo texto es el siguiente:> Elegir a los Jueces del correspondiente Distrito Judicial, de listas elaboradas por la Sala Administrativa del respectivo Consejo Seccional de la Judicatura, en la calidad que corresponda, según el régimen de la carrera judicial.
+1. <Numeral modificado por el artículo 3 de la Ley 585 de 2000. El nuevo texto es el siguiente:> Elegir a los Jueces del correspondiente Distrito Judicial, de listas elaboradas por la Sala Administrativa del respectivo Consejo Seccional de la Judicatura, en la calidad que corresponda, según el régimen de la carrera judicial.
 
 2. Elegir al Presidente y al Vicepresidente de la Corporación, y a los empleados que le corresponda conforme a la ley o al reglamento. 
 
@@ -329,19 +338,7 @@ PARÁGRAFO. Los funcionarios judiciales de la Fiscalía encargados en forma excl
 ## art:28 — AUTONOMIA ADMINISTRATIVA Y PRESUPUESTAL
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO II. DE LA INVESTIGACIÓN Y ACUSACIÓN DE LOS DELITOS DE LA FISCALIA GENERAL DE LA NACIÓN.
 
-La Fiscalía General de la Nación hace parte de la Rama Judicial y tiene autonomía administrativa y presupuestal, sin perjuicio del control fiscal ejercido por el Contralor General de la Nación. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La Fiscalía General de la Nación hace parte de la Rama Judicial y tiene autonomía administrativa y presupuestal, sin perjuicio del control fiscal ejercido por el Contralor General de la Nación.
 
 ## art:29 — ELECCIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO II. DE LA INVESTIGACIÓN Y ACUSACIÓN DE LOS DELITOS DE LA FISCALIA GENERAL DE LA NACIÓN.
@@ -350,7 +347,7 @@ El Fiscal General de la Nación será elegido para un período de cuatro años p
 
 El Fiscal General deberá reunir las mismas calidades exigidas para ser Magistrado de la Corte Suprema de Justicia. 
 
-<Ver Notas del Editor> Así mismo el Fiscal General de la Nación, Vicefiscal, y los Directores Nacionales de la Fiscalía no podrán ser elegidos en ningún cargo de elección popular o como miembros de corporaciones públicas dentro de los doce (12) meses siguientes al día de la cesación de sus funciones.
+ Así mismo el Fiscal General de la Nación, Vicefiscal, y los Directores Nacionales de la Fiscalía no podrán ser elegidos en ningún cargo de elección popular o como miembros de corporaciones públicas dentro de los doce (12) meses siguientes al día de la cesación de sus funciones.
 
 ## art:30 — ESTRUCTURA ADMINISTRATIVA DE LA FISCALIA GENERAL DE LA NACIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO II. DE LA INVESTIGACIÓN Y ACUSACIÓN DE LOS DELITOS DE LA FISCALIA GENERAL DE LA NACIÓN.
@@ -383,7 +380,7 @@ PARÁGRAFO. Se exceptúa de lo dispuesto en este artículo la estructura y funci
 ## art:34 — INTEGRACIÓN Y COMPOSICIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
-<Artículo modificado por el artículo 14 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo de Estado es el máximo Tribunal de lo Contencioso Administrativo y Cuerpo Supremo Consultivo del Gobierno y estará integrado por <*> elegidos por la misma Corporación para los períodos individuales que determina la Constitución Política, de listas de diez (10) candidatos enviadas por el Consejo Superior de la Judicatura, para cada vacante que se presente, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley.
+El Consejo de Estado es el máximo Tribunal de lo Contencioso Administrativo y Cuerpo Supremo Consultivo del Gobierno y estará integrado por <*> elegidos por la misma Corporación para los períodos individuales que determina la Constitución Política, de listas de diez (10) candidatos enviadas por el Consejo Superior de la Judicatura, para cada vacante que se presente, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley.
 
 El Consejo de Estado ejerce sus funciones por medio de cuatro (4) Salas, integradas así: la Plena, por todos sus miembros; la de lo Contencioso Administrativo <*>, la de Consulta y Servicio Civil, por los cuatro (4) consejeros restantes; y la sala de Gobierno, conformada por el Presidente y el Vicepresidente del Consejo de Estado y por los Presidentes de la Sala de Consulta y Servicio Civil y de las Secciones de las Salas de lo Contencioso Administrativo y las demás que determine la ley.
 
@@ -394,9 +391,9 @@ ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO 
 
 La Sala Plena del Consejo de Estado tendrá las siguientes atribuciones administrativas: 
 
-1. <Ver Notas del Editor> Elegir los Consejeros para proveer los nuevos cargos que se creen, llenar las vacantes de conformidad con la Constitución y la ley. 
+1. Elegir los Consejeros para proveer los nuevos cargos que se creen, llenar las vacantes de conformidad con la Constitución y la ley. 
 
-2. <Ver Notas del Editor> Elegir al Secretario General, y demás empleados de la Corporación con excepción de los de las Salas, Secciones y Despachos, los cuales serán designados por cada una de aquéllas o por los respectivos Consejeros. 
+2. Elegir al Secretario General, y demás empleados de la Corporación con excepción de los de las Salas, Secciones y Despachos, los cuales serán designados por cada una de aquéllas o por los respectivos Consejeros. 
 
 3. <Numeral derogado tácitamente por el Artículo 14 del Acto Legislativo 1 de 2003, modificatorio del Artículo 264 de la Constitución Política.>
 
@@ -404,15 +401,15 @@ La Sala Plena del Consejo de Estado tendrá las siguientes atribuciones administ
 
 5. Distribuir, mediante Acuerdo, las funciones de la Sala de lo Contencioso Administrativo que no deban ser ejercidas en pleno, entre las Secciones que la constituyen, con base en un criterio de especialización y de volumen de trabajo. 
 
-6. <Ver Notas del Editor> Integrar las comisiones que deba designar, de conformidad con la ley o el reglamento. 
+6. Integrar las comisiones que deba designar, de conformidad con la ley o el reglamento. 
 
-7. <Ver Notas del Editor> Hacer la evaluación del factor cualitativo de la calificación de servicios de los Magistrados de los Tribunales Administrativos, que servirá de base para la calificación integral. 
+7. Hacer la evaluación del factor cualitativo de la calificación de servicios de los Magistrados de los Tribunales Administrativos, que servirá de base para la calificación integral. 
 
-8. <Ver Notas del Editor> Darse su propio reglamento. 
+8. Darse su propio reglamento. 
 
-9. <Ver Notas del Editor> Elegir, de terna enviada por la Corte Suprema de Justicia, para períodos de dos años, al Auditor ante la Contraloría General de la República o a quien deba reemplazarlo en sus faltas temporales o absolutas, sin que en ningún caso pueda reelegirlo; y, 
+9. Elegir, de terna enviada por la Corte Suprema de Justicia, para períodos de dos años, al Auditor ante la Contraloría General de la República o a quien deba reemplazarlo en sus faltas temporales o absolutas, sin que en ningún caso pueda reelegirlo; y, 
 
-10. <Ver Notas del Editor> Ejercer las demás funciones que le prescriban la Constitución, la ley y el reglamento.
+10. Ejercer las demás funciones que le prescriban la Constitución, la ley y el reglamento.
 
 ## art:36 — DE LA SALA DE LO CONTENCIOSO ADMINISTRATIVO
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
@@ -438,7 +435,7 @@ ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO 
 
 DEL MECANISMO DE REVISIÓN EVENTUAL EN LAS ACCIONES POPULARES Y DE GRUPO Y DE LA REGULACIÓN DE LOS RECURSOS EXTRAORDINARIOS. <Inciso CONDICIONALMENTE exequible> <Artículo adicionado por el artículo 11 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> En su condición de Tribunal Supremo de lo Contencioso Administrativo, a petición de parte o del Ministerio Público, el Consejo de Estado, a través de sus Secciones, en los asuntos que correspondan a las acciones populares o de grupo podrá seleccionar, para su eventual revisión, las sentencias o las demás providencias que determinen la finalización o el archivo del respectivo proceso, proferidas por los Tribunales Administrativos, con el fin de unificar la jurisprudencia.
 
-<Ver Notas del Editor> La petición de parte o del Ministerio Público deberá formularse dentro de los ocho (8) días siguientes a la notificación de la sentencia o providencia con la cual se ponga fin al respectivo proceso; los Tribunales Administrativos, dentro del término perentorio de ocho (8) días, contados a partir de la radicación de la petición, deberán remitir, con destino a la correspondiente Sala, Sección o Subsección del Consejo de Estado, el expediente dentro del cual se haya proferido la respectiva sentencia o el auto que disponga o genere la terminación del proceso, para que dentro del término máximo de tres (3) meses, a partir de su recibo, la máxima Corporación de lo Contencioso Administrativo resuelva sobre la selección, o no, de cada una de tales providencias para su eventual revisión. Cuando se decida sobre la no escogencia de una determinada providencia, cualquiera de las partes o el Ministerio Público podrán insistir acerca de su selección para eventual revisión, dentro del término de cinco (5) días siguientes a la notificación de aquella.
+ La petición de parte o del Ministerio Público deberá formularse dentro de los ocho (8) días siguientes a la notificación de la sentencia o providencia con la cual se ponga fin al respectivo proceso; los Tribunales Administrativos, dentro del término perentorio de ocho (8) días, contados a partir de la radicación de la petición, deberán remitir, con destino a la correspondiente Sala, Sección o Subsección del Consejo de Estado, el expediente dentro del cual se haya proferido la respectiva sentencia o el auto que disponga o genere la terminación del proceso, para que dentro del término máximo de tres (3) meses, a partir de su recibo, la máxima Corporación de lo Contencioso Administrativo resuelva sobre la selección, o no, de cada una de tales providencias para su eventual revisión. Cuando se decida sobre la no escogencia de una determinada providencia, cualquiera de las partes o el Ministerio Público podrán insistir acerca de su selección para eventual revisión, dentro del término de cinco (5) días siguientes a la notificación de aquella.
 
 PARÁGRAFO 1o. <Parágrafo CONDICIONALMENTE exequible> La ley podrá disponer que la revisión eventual a que se refiere el presente artículo también se aplique en relación con procesos originados en el ejercicio de otras acciones cuyo conocimiento corresponda a la jurisdicción de lo contencioso administrativo. En esos casos la ley regulará todos los aspectos relacionados con la procedencia y trámite de la revisión eventual, tales como la determinación de los plazos dentro de los cuales las partes o el Ministerio Público podrán elevar sus respectivas solicitudes; la insistencia que pueda presentarse respecto de la negativa de la selección; los efectos que ha de generar la selección; la posibilidad de que la revisión eventual pueda concurrir con otros recursos ordinarios o extraordinarios.
 
@@ -449,42 +446,42 @@ ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO 
 
 La Sala Plena de lo Contencioso Administrativo tendrá las siguientes funciones especiales: 
 
-1. <Ver Notas del Editor> <Numeral modificado por el artículo 12 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Resolver los conflictos de competencia entre las Secciones del Consejo de Estado.
+1. <Numeral modificado por el artículo 12 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Resolver los conflictos de competencia entre las Secciones del Consejo de Estado.
 
-2. <Ver Notas del Editor> Conocer de todos los procesos contencioso administrativos cuyo juzgamiento atribuya la ley al Consejo de Estado y que específicamente no se hayan asignado a las Secciones. 
+2. Conocer de todos los procesos contencioso administrativos cuyo juzgamiento atribuya la ley al Consejo de Estado y que específicamente no se hayan asignado a las Secciones. 
 
 3. Elaborar cada dos años listas de auxiliares de la justicia. 
 
-4. <Ver Notas del Editor> Resolver los recursos extraordinarios que sean de su competencia. 
+4. Resolver los recursos extraordinarios que sean de su competencia. 
 
-5. <Ver Notas del Editor> Resolver los asuntos que le remitan las secciones, por su importancia jurídica o trascendencia social, si por estimar fundado el motivo resuelve asumir competencia; 
+5. Resolver los asuntos que le remitan las secciones, por su importancia jurídica o trascendencia social, si por estimar fundado el motivo resuelve asumir competencia; 
 
-6. <Ver Notas del Editor> Conocer de los procesos que le remitan las secciones para cambiar o reformar las jurisprudencia de la Corporación. 
+6. Conocer de los procesos que le remitan las secciones para cambiar o reformar las jurisprudencia de la Corporación. 
 
-7. <Ver Notas del Editor> Conocer de los casos de la pérdida de investidura de los Congresistas, de conformidad con la Constitución y la ley. Las sentencias que ordenen la pérdida de la investidura deberán ser aprobadas por los miembros de la Sala Plena y por las causales establecidas taxativamente en la Constitución. 
+7. Conocer de los casos de la pérdida de investidura de los Congresistas, de conformidad con la Constitución y la ley. Las sentencias que ordenen la pérdida de la investidura deberán ser aprobadas por los miembros de la Sala Plena y por las causales establecidas taxativamente en la Constitución. 
 
-8. <Ver Notas del Editor> Conocer de los Recursos contra las sentencias dictadas por la Sección de Asuntos Electorales, en los casos en que determine la ley. 
+8. Conocer de los Recursos contra las sentencias dictadas por la Sección de Asuntos Electorales, en los casos en que determine la ley. 
 
-9. <Ver Notas del Editor> Conocer de las acciones de nulidad por inconstitucionalidad de los decretos expedidos por el Gobierno Nacional, cuya competencia no corresponda a la Corte Constitucional; y 
+9. Conocer de las acciones de nulidad por inconstitucionalidad de los decretos expedidos por el Gobierno Nacional, cuya competencia no corresponda a la Corte Constitucional; y 
 
 Ejercer las demás funciones que le prescriban la Constitución y la ley.
 
-PARÁGRAFO. <Ver Notas del Editor> <Parágrafo adicionado por el artículo 12 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Los conflictos de competencia entre los Tribunales Administrativos, entre Secciones de distintos Tribunales Administrativos, entre los Tribunales y Jueces de la Jurisdicción Contencioso-Administrativa pertenecientes a distintos distritos judiciales administrativos y entre Jueces Administrativos de los diferentes distritos judiciales administrativos, serán resueltos por las respectivas Secciones o Subsecciones del Consejo de Estado, de acuerdo con su especialidad. Los conflictos entre juzgados administrativos de un mismo circuito o entre secciones de un mismo Tribunal Administrativo serán decididos por el correspondiente Tribunal en pleno.
+PARÁGRAFO. <Parágrafo adicionado por el artículo 12 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Los conflictos de competencia entre los Tribunales Administrativos, entre Secciones de distintos Tribunales Administrativos, entre los Tribunales y Jueces de la Jurisdicción Contencioso-Administrativa pertenecientes a distintos distritos judiciales administrativos y entre Jueces Administrativos de los diferentes distritos judiciales administrativos, serán resueltos por las respectivas Secciones o Subsecciones del Consejo de Estado, de acuerdo con su especialidad. Los conflictos entre juzgados administrativos de un mismo circuito o entre secciones de un mismo Tribunal Administrativo serán decididos por el correspondiente Tribunal en pleno.
 
 ## art:38 — DE LA SALA DE CONSULTA Y SERVICIO CIVIL
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
 La Sala de Consulta y Servicio Civil tendrá las siguientes atribuciones: 
 
-1. <Ver Notas del Editor> Absolver las consultas jurídicas generales o particulares, que le formule el Gobierno Nacional. 
+1. Absolver las consultas jurídicas generales o particulares, que le formule el Gobierno Nacional. 
 
-2. <Ver Notas del Editor> Preparar los proyectos de ley y de códigos que le encomiende el Gobierno Nacional. El proyecto se entregará al Gobierno por conducto del Ministro o Director de Departamento Administrativo correspondiente, para su presentación a la consideración del Congreso. 
+2. Preparar los proyectos de ley y de códigos que le encomiende el Gobierno Nacional. El proyecto se entregará al Gobierno por conducto del Ministro o Director de Departamento Administrativo correspondiente, para su presentación a la consideración del Congreso. 
 
 3. Revisar los contratos y conceptuar sobre las cuestiones jurídicas relativas al Servicio Civil, en los casos previstos por la ley. 
 
-4. <Ver Notas del Editor> Conceptuar sobre los contratos que se proyecte celebrar con empresas privadas colombianas, escogidas por concurso público de méritos, en los casos especiales autorizados por la ley, para efectuar el control fiscal de la gestión administrativa nacional. 
+4. Conceptuar sobre los contratos que se proyecte celebrar con empresas privadas colombianas, escogidas por concurso público de méritos, en los casos especiales autorizados por la ley, para efectuar el control fiscal de la gestión administrativa nacional. 
 
-5. <Ver Notas del Editor> Verificar, de conformidad con el Código Electoral, si cada candidato a la Presidencia de la República reúne o no los requisitos constitucionales y expedir la correspondiente certificación. 
+5. Verificar, de conformidad con el Código Electoral, si cada candidato a la Presidencia de la República reúne o no los requisitos constitucionales y expedir la correspondiente certificación. 
 
 6. Ejercer las demás funciones que le prescriban la Constitución y la ley.
 
@@ -533,7 +530,7 @@ En lo que refiere a la gestión administrativa podrán compartir recursos logís
 ## art:42a — ARTÍCULO 42A
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
-CONCILIACIÓN JUDICIAL Y EXTRAJUDICIAL EN MATERIA CONTENCIOSO-ADMINISTRATIVA. <Ver Notas del Editor> <Artículo adicionado por el artículo 13 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> A partir de la vigencia de esta ley, cuando los asuntos sean conciliables, siempre constituirá requisito de procedibilidad de las acciones previstas en los artículos 85, 86 y 87 del Código Contencioso Administrativo o en las normas que lo sustituyan, el adelantamiento del trámite de la conciliación extrajudicial.
+CONCILIACIÓN JUDICIAL Y EXTRAJUDICIAL EN MATERIA CONTENCIOSO-ADMINISTRATIVA. <Artículo adicionado por el artículo 13 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> A partir de la vigencia de esta ley, cuando los asuntos sean conciliables, siempre constituirá requisito de procedibilidad de las acciones previstas en los artículos 85, 86 y 87 del Código Contencioso Administrativo o en las normas que lo sustituyan, el adelantamiento del trámite de la conciliación extrajudicial.
 
 ## art:43 — ESTRUCTURA DE LA JURISDICCIÓN CONSTITUCIONAL
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV. JURISDICCIÓN CONSTITUCIONAL
@@ -659,14 +656,14 @@ Los Juzgados Agrarios y Rurales que de conformidad con las necesidades de la adm
 PARÁGRAFO. En lo que se refiere a la gestión administrativa de los Juzgados Agrarios y Rurales, estos podrán compartir logística con las entidades de la rama ejecutiva de mayor presencia en áreas y zonas rurales, o de difícil acceso geográfico, que para ese propósito celebren un convenio interadministrativo con el Concejo Superior de la Judicatura. En las zonas rurales en donde haya poca presencia de entidades de la rama ejecutiva, el Concejo Superior de la Judicatura coordinará la creación de nuevos despachos judiciales, teniendo en cuenta las zonas localizadas por el Ministerio de Agricultura y Desarrollo Rural y el Ministerio de Justicia y del Derecho, en función de los volúmenes demográficos y rurales, las zonas PDET, pocas vías de comunicación y medios de transporte. La creación de estos despachos judiciales se realizará bajo los principios de sostenibilidad fiscal, gradualidad, progresividad, y de acuerdo a las necesidades específicas de los territorios.
 
 ## art:50 — DESCONCENTRACIÓN Y DIVISIÓN DEL TERRITORIO PARA EFECTOS JUDICIALES
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Con el objeto de desconcentrar el funcionamiento de la administración de justicia, y sin perjuicio de lo dispuesto en normas especiales, para efectos judiciales, el territorio de la Nación se divide en distritos judiciales, distritos judiciales administrativos o distritos judiciales agrarios y rurales. Los distritos judiciales administrativos y los distritos judiciales agrarios y rurales se dividen en circuitos. En la jurisdicción ordinaria, los circuitos estarán integrados por jurisdicciones municipales. 
 
 La división judicial podrá no coincidir con la división político administrativa y se hará procurando realizar los principios de fácil acceso, proporcionalidad de cargas de trabajo, proximidad y fácil comunicación entre los distintos despachos, cercanía del juez con los lugares en que hubieren ocurrido los hechos, oportunidad y celeridad del control ejercido mediante la segunda instancia y suficiencia de recursos para atender la demanda de justicia.
 
 ## art:51 — ORGANIZACIÓN BASICA DE LOS DESPACHOS JUDICIALES
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 <Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La organización básica interna de cada despacho judicial será establecida por el Consejo Superior de la Judicatura, con sujeción a los siguientes parámetros: 
 
@@ -679,12 +676,12 @@ ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO 
 Para estos efectos se considerarán los informes y estudios presentados por los respectivos Consejos Seccionales y Direcciones Seccionales de Administración Judicial.
 
 ## art:52 — ZONAS JUDICIALES ESPECIALES DE FRONTERA
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Créanse las zonas judiciales especiales de frontera. La ley determina su jurisdicción y funcionamiento.
 
 ## art:53 — ELECCIÓN DE MAGISTRADOS Y CONSEJEROS
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 <Artículo modificado por el artículo 18 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Corresponde a la Corte Suprema de Justicia y al Consejo de Estado proveer las vacantes que se presenten en la respectiva Corporación, de listas de diez (10) candidatos, enviadas por el Consejo Superior de la Judicatura, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley. Estos Magistrados no son reelegibles y tomarán posesión ante el Presidente de la República.
 
@@ -701,7 +698,7 @@ PARÁGRAFO 1o. La provisión transitoria de las vacantes se hará directamente p
 PARÁGRAFO 2o. Los funcionarios públicos en cuya postulación o designación intervinieron funcionarios de la Rama Judicial, no podrán designar, postular, nombrar, ni contratar con quienes hubieren intervenido en su postulación o designación, ni con personas con las que los postulantes o nominadores tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil. Constituye causal de mala conducta la violación a esta disposición.
 
 ## art:53a — PRINCIPIOS DE LA CONVOCATORIA PÚBLICA
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 <Artículo CONDICIONALMENTE constitucional> En el trámite de la convocatoria pública para integrar las listas y ternas de candidatos a Magistrados de la Corte Suprema de Justicia, el Consejo de Estado o la Comisión Nacional de Disciplina Judicial, se aplicarán los siguientes principios:
 
@@ -716,14 +713,17 @@ d) Mérito.
 Adicionalmente, se aplicarán los principios establecidos en el artículo 3o del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, en lo pertinente.
 
 ## art:53b — CRITERIOS DE SELECCIÓN
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 <Artículo adicionado por el artículo 20 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para la selección de integrantes de listas o ternas a Magistrados de la Corte Suprema de Justicia, del Consejo de Estado o de la Comisión Nacional de Disciplina Judicial, se emplearán los siguientes criterios: probidad, independencia, imparcialidad, responsabilidad, integridad, transparencia, prudencia, idoneidad, experiencia académica y evaluación del desempeño profesional.
 
-ARTÍCULO 53C. FASES DE LA CONVOCATORIA PÚBLICA. <Artículo adicionado por el artículo 21 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para la selección de integrantes de listas o ternas a Magistrados de la Corte Suprema de Justicia, del Consejo de Estado o de la Comisión Nacional de Disciplina Judicial, se emplearán los siguientes criterios: probidad, independencia, imparcialidad, responsabilidad, integridad, transparencia, prudencia, idoneidad, experiencia académica y evaluación del desempeño profesional.
+## art:53c — FASES DE LA CONVOCATORIA PÚBLICA
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
+
+Para la selección de integrantes de listas o ternas a Magistrados de la Corte Suprema de Justicia, del Consejo de Estado o de la Comisión Nacional de Disciplina Judicial, se emplearán los siguientes criterios: probidad, independencia, imparcialidad, responsabilidad, integridad, transparencia, prudencia, idoneidad, experiencia académica y evaluación del desempeño profesional.
 
 ## art:54 — QUÓRUM DELIBERATORIO Y DECISORIO
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Todas las decisiones que las Corporaciones judiciales en pleno o cualquiera de sus salas o secciones deban tomar, requerirán para su deliberación y decisión, de la asistencia y voto de la mayoría de los miembros de la Corporación, sala o sección. 
 
@@ -734,7 +734,7 @@ El reglamento interno de cada corporación señalará los días y horas de cada 
 <Inciso 4o. derogado por el literal c) del artículo 626 de la Ley 1564 de 2012. Rige a partir del 1o. de enero de 2014. En los términos del numeral 6) del artículo 627, ver en Legislación Anterior el texto vigente hasta esta fecha>
 
 ## art:55 — ELABORACIÓN DE LAS PROVIDENCIAS JUDICIALES
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Las sentencias judiciales deberán referirse a todos los hechos y asuntos planteados en el proceso por los sujetos procesales.
 
@@ -747,7 +747,7 @@ En las decisiones judiciales, se deberá utilizar una pulcritud y sencillez del 
 Para efecto de la sistematización de la información y la gestión de informática jurídica, el Consejo Superior de la judicatura podrá fijar parámetros formales y esquemáticos para la elaboración de las providencias judiciales, relacionados con tipo de letra, espaciado, reglas para incorporación de citas, uso de elementos identificatorios del respectivo despacho judicial. Estos parámetros no podrán incorporar restricciones o reglas relativas al contenido sustancial de las decisiones judiciales que afecten la autonomía e independencia judicial.
 
 ## art:56 — FIRMA Y FECHA DE PROVIDENCIAS Y CONCEPTOS
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 El reglamento interno de la Corte Suprema de Justicia, de la Corte Constitucional, de la Comisión Nacional de Disciplina Judicial y del Consejo de Estado, respectivamente, determinará, entre otras, la forma como serán expedidas y firmadas las providencias, conceptos o dictámenes adoptados. Las sentencias podrán ser objeto de comunicado de prensa. La sentencia tendrá la fecha en que se adopte. En todo caso la ejecutoria, de la sentencia comenzará a contarse a partir de la fecha de notificación.
 
@@ -756,7 +756,7 @@ En dicho reglamento se deberá además incluir un término perentorio para consi
 PARÁGRAFO. En todo caso, los reglamentos internos contemplarán el plazo máximo para publicar el texto íntegro de la sentencia.
 
 ## art:57 — PUBLICIDAD Y RESERVA DE LAS ACTAS
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Son de acceso público las actas de las sesiones de la Sala Plena y del Consejo Superior de la Judicatura, de los Consejos Seccionales y de las corporaciones citadas en el inciso anterior, y los documentos otorgados por los funcionarios de la Rama Judicial en los cuales consten actuaciones y decisiones de carácter administrativo. 
 
@@ -765,7 +765,7 @@ También son de acceso público las actas de las sesiones de la Sala Plena de la
 <Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Las actas de las sesiones de las Salas y Secciones de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, de la Comisión de Investigación y Acusaciones de la Cámara de Representantes, de las Comisiones Seccionales de Disciplina Judicial y de los Tribunales en las cuales consten actuaciones y decisiones judiciales o disciplinarias de carácter individual, de grupo o colectivos, son reservadas excepto para los sujetos procesales, sin perjuicio de las atribuciones de las autoridades competentes. Son de acceso público las decisiones que se adopten.
 
 ## art:58 — MEDIDAS CORRECCIONALES
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Los Magistrados, los Fiscales y los Jueces tienen la facultad correccional, en virtud de la cual pueden sancionar a los particulares, en los siguientes casos: 
 
@@ -780,19 +780,19 @@ Los Magistrados, los Fiscales y los Jueces tienen la facultad correccional, en v
 PARÁGRAFO. Las medidas correccionales a que se refiere este artículo, no excluyen la investigación, juzgamiento e imposición de sanciones penales a que los mismos hechos pudieren dar origen.
 
 ## art:59 — PROCEDIMIENTO
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 El magistrado o juez hará saber al infractor que su conducta acarrea la correspondiente sanción y de inmediato oirá las explicaciones que éste quiera suministrar en su defensa. Si éstas no fueren satisfactorias, procederá a señalar la sanción en resolución motivada contra la cual solamente procede el recurso de reposición interpuesto en el momento de la notificación. El sancionado dispone de veinticuatro horas para sustentar y el funcionario de un tiempo igual para resolverlo.
 
 ## art:60 — SANCIONES
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Cuando se trate de un particular, la sanción correccional consistirá, según la gravedad de la falta, en multa hasta de diez salarios mínimos mensuales. 
 
 Contra las sanciones correccionales sólo procede el recurso de reposición, que se resolverá de plano.
 
 ## art:60a — ARTÍCULO 60A
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 PODERES DEL JUEZ. <Artículo adicionado por el artículo 14 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Además de los casos previstos en los artículos anteriores, el Juez podrá sancionar con multa de dos a cinco salarios mínimos mensuales, a las partes del proceso, o a sus representantes o abogados, en los siguientes eventos:
 
@@ -809,7 +809,7 @@ PODERES DEL JUEZ. <Artículo adicionado por el artículo 14 de la Ley 1285 de 20
 PARÁGRAFO. El Juez tendrá poderes procesales para el impulso oficioso de los procesos, cualquiera que sea, y lo adelantará hasta la sentencia si es el caso.
 
 ## art:61 — DE LOS CONJUECES
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Serán designados conjueces, de acuerdo con las leyes procesales y los reglamentos de las corporaciones judiciales, las personas que reúnan los requisitos para desempeñar los cargos en propiedad, las cuales en todo caso no podrán ser miembros de las corporaciones públicas, empleados o trabajadores de ninguna entidad que cumplan funciones públicas durante el período de sus funciones. Sus servicios serán remunerados. 
 
@@ -818,12 +818,12 @@ Serán designados conjueces, de acuerdo con las leyes procesales y los reglament
 PARÁGRAFO. <Parágrafo adicionado por el artículo 24 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Gobierno nacional, dentro de los seis (6) meses siguientes a la entrada en vigencia de esta ley, expedirá el decreto que regule los honorarios que devengarán los conjueces.
 
 ## art:62 — DECLARADO INEXEQUIBLE
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 DECLARADO INEXEQUIBLE
 
 ## art:63 — MEDIDAS DE DESCONGESTIÓN
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Antes del 1o de abril de cada año el Consejo Superior de la Judicatura deberá determinar, con fundamento en el análisis estadístico de los resultados de la gestión del año anterior y la demanda de justicia, si las circunstancias y necesidades ameritan adoptar medidas excepcionales de descongestión para el año siguiente y, en caso afirmativo, establecerá el plan anual e <sic> descongestión de la Rama- Judicial que deberá incluir las medidas a adoptar, los despachos judiciales a impactar, definir su alcance, duración y los mecanismos de seguimiento y evaluación.
 
@@ -852,7 +852,7 @@ g) Contratar a término fijo profesionales expertos y de personal auxiliar para 
 PARÁGRAFO. La inclusión en la lista de aspirantes para cargos de descongestión en ningún caso generará, por sí sola, vinculación con la Rama Judicial, y el nombramiento en un cargo de descongestión no implica la incorporación en el régimen de carrera judicial, por lo que, de ser nombrado en un cargo de descongestión un integrante de una lista de elegibles vigente, no quedará excluido de la mencionada lista de elegibles.
 
 ## art:63a — ARTÍCULO 63A
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 DEL ORDEN Y PRELACIÓN DE TURNOS. <Artículo modificado por el artículo 26 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los despachos judiciales tramitarán y fallarán los procesos sometidos a su conocimiento con sujeción al orden cronológico de turnos.
 
@@ -875,7 +875,7 @@ Los mismos despachos previstos en el inciso segundo del presente artículo podr�
 Estas actuaciones también podrán ser solicitadas por la Agencia Nacional de Defensa Jurídica del Estado o por la Procuraduría General de la Nación.
 
 ## art:64 — COMUNICACIÓN Y DIVULGACIÓN
-ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
 Ningún servidor público podrá en materia penal o disciplinaria divulgar, revelar o publicar las actuaciones que conozca en ejercicio de sus funciones y por razón de su actividad, mientras no se encuentre en firme la resolución de acusación o el fallo disciplinario, respectivamente. 
 
@@ -944,7 +944,7 @@ Dicha acción deberá ejercitarse por el representante legal de la entidad estat
 ## art:73 — COMPETENCIA
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO VI. DE LA RESPONSABILIDAD DEL ESTADO Y DE SUS FUNCIONARIOS Y EMPLEADOS JUDICIALES
 
-<Ver Notas del Editor>
+<Artículo derogado por el artículo 309 de la Ley 1437 de 201>
 
 ## art:74 — APLICACIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO VI. DE LA RESPONSABILIDAD DEL ESTADO Y DE SUS FUNCIONARIOS Y EMPLEADOS JUDICIALES
@@ -972,18 +972,6 @@ El funcionamiento del Consejo Superior de la Judicatura está sometido a las reg
 
 El reglamento del Consejo Superior de la Judicatura deberá determinar un mecanismo ágil para adoptar las decisiones y la forma de hacerlo cuando se presenten empates.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:77 — REQUISITOS
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
@@ -1008,7 +996,7 @@ ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICI
 ## art:80 — PRESENTACIÓN Y CONTENIDO DEL INFORME
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-<Artículo CONDICIONALMENTE exequible> El informe anual a que se refiere el artículo anterior, deberá ser presentado al Congreso de la República dentro de los primeros diez días del segundo período de cada legislatura, por el Presidente de la Corporación, y no podrá versar sobre las decisiones jurisdiccionales. 
+El informe anual a que se refiere el artículo anterior, deberá ser presentado al Congreso de la República dentro de los primeros diez días del segundo período de cada legislatura, por el Presidente de la Corporación, y no podrá versar sobre las decisiones jurisdiccionales. 
 
 El informe deberá contener, cuando menos, los siguientes aspectos: 
 
@@ -1060,8 +1048,109 @@ Los abogados deberán, además, contar con especialización en ciencias económi
 
 Los miembros de los Consejos Seccionales de la Judicatura se denominarán consejeros y tendrán el mismo régimen salarial y prestacional y las mismas prerrogativas, responsabilidades e inhabilidades que los Magistrados de Tribunal Superior y no podrán tener antecedentes disciplinarios.
 
+## art:85 — FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
+
+Al Consejo Superior de la Judicatura le corresponde el ejercicio de las siguientes funciones:
+
+1. <Inciso CONDICIONALMENTE constitucional> Aprobar los reglamentos necesarios para el eficaz funcionamiento de la administración de justicia. En ejercicio de esta función aprobará, entre otros, los siguientes actos administrativos:
+
+a) <Literal CONDICIONALMENTE constitucional> Los dirigidos a regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales en los aspectos no previstos por el legislador;
+
+b) <Literal CONDICIONALMENTE constitucional> El reglamento del sistema de carrera judicial.
+
+c) <Literal CONDICIONALMENTE constitucional> El reglamento de rendición de cuentas de las Cortes, Tribunales y Juzgados a la ciudadanía y difusión de resultados;
+
+d) El reglamento del registro nacional de abogados y expedir la correspondiente tarjeta profesional, previa verificación de los requisitos señalados por la Ley;
+
+e) El régimen y remuneración de los auxiliares de justicia;
+
+f) El estatuto sobre expensas y costos;
+
+g) El manual de funciones de la Rama Judicial;
+
+h) El reglamento de control interno de la Rama Judicial;
+
+i) El reglamento de las oficinas de atención al usuario y de atención al servidor judicial;
+
+j) Todos los demás actos de carácter general que se encuentren vinculados con las competencias previstas en el artículo 256 de la Constitución, que no tengan reserva de ley y se dirijan a garantizar los fines del gobierno y administración de la Rama judicial;
+
+2. <Numeral CONDICIONALMENTE constitucional> Aprobar el Plan de Transformación Digital de la Rama Judicial y ejecutarlo a través de la unidad que determine.
+
+3. Aprobar el Plan Anticorrupción, ejecutarlo a través de la unidad que determine, hacer seguimiento periódico a su implementación y publicar los resultados en un medio que garantice el conocimiento público.
+
+4. Presentar, por medio de su Presidente, los proyectos de ley relacionados con la administración de justicia, sin perjuicio de la competencia que en esta materia le corresponde a la Corte Constitucional, Corte Suprema de Justicia, al Consejo de Estado.
+
+5. Rendir cuentas, a través de su Presidente, ante el Congreso de la República, los funcionarios judiciales, los empleados de la Rama Judicial y la ciudadanía. El informe anual al Congreso de la República incluirá el cumplimiento de los indicadores señalados en el Plan Sectorial de Desarrollo, el avance de los compromisos a su cargo contenidos en el Plan Decenal del Sistema de Justicia, así como la ejecución de otros instrumentos de planeación adoptados por el Consejo Superior de la Judicatura.
+
+6. Enviar a la Corte Suprema de Justicia y al Consejo de Estado listas de diez (10) candidatos para proveer las vacantes de Magistrados que se presenten en estas Corporaciones.
+
+7. Enviar al Congreso de la República las ternas para la elección de los Magistrados de la Comisión Nacional de Disciplina Judicial.
+
+8. Aprobar la división del territorio para efectos judiciales.
+
+9. Aprobar la división del territorio para efectos de gestión judicial.
+
+10. Autorizar la celebración de los contratos y convenios cuando estos superen la suma de dos mil (2.000) salarios mínimos legales mensuales vigentes.
+
+11. Declarar la urgencia manifiesta para la contratación.
+
+12. <Numeral CONDICIONALMENTE constitucional> Crear, ubicar, redistribuir, fusionar, trasladar, transformar y suprimir Tribunales, las Salas de estos y los Juzgados, así como crear Salas desconcentradas en ciudades diferentes de las sedes de los Distritos Judiciales, de acuerdo con las necesidades de estos. Para el efecto deberá establecer un mecanismo de atención oportuna y eficaz de los requerimientos formulados por los Juzgados y Tribunales, para su correcto funcionamiento.
+
+13. <Numeral CONDICIONALMENTE constitucional> Determinar la estructura y planta de personal de las corporaciones judiciales y los Juzgados. Para tal efecto podrá crear, suprimir, fusionar y trasladar cargos en la Rama Judicial, determinar sus funciones y señalar los requisitos para su desempeño que no hayan sido fijados por la Ley, previo concepto de la Comisión Interinstitucional.
+
+En ejercicio de esta atribución el Consejo no podrá establecer a cargo del Tesoro obligaciones que excedan el monto global fijado para el servicio de justicia en la ley de apropiaciones iniciales.
+
+14. <Numeral CONDICIONALMENTE constitucional> Aprobar el Plan Sectorial de Desarrollo de la Rama Judicial, previo concepto de la Comisión Interinstitucional.
+
+15. <Numeral CONDICIONALMENTE constitucional> Aprobar el proyecto de presupuesto de la Rama Judicial que deberá remitirse al Gobierno nacional, previo concepto de la Comisión Interinstitucional.
+
+16. <Numeral CONDICIONALMENTE constitucional> Aprobar anualmente el Plan de Inversiones de la Rama Judicial, previo concepto de la Comisión Interinstitucional.
+
+17. Establecer indicadores de gestión de los despachos judiciales e índices de rendimiento, lo mismo que indicadores de desempeño para los funcionarios y empleados judiciales con fundamento en los cuales se realice su control y evaluación correspondiente.
+
+18. <Aparte subrayado CONDICIONALMENTE constitucional> Realizar, a través de la unidad que este determine, la calificación integral de servicios de los Magistrados de Tribunal, así como llevar el control de rendimiento y gestión institucional de la Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado y la Comisión Nacional de Disciplina Judicial.
+
+19. Administrar la carrera judicial a través de la unidad que el Consejo determine.
+
+20. Determinar la estructura orgánica y la planta de personal del Consejo Superior de la Judicatura, la cual incluye la de Dirección Ejecutiva de Administración Judicial y de las demás unidades misionales y de apoyo del Consejo Superior de la Judicatura.
+
+En ejercicio de esta atribución el Consejo no podrá establecer con cargo al Tesoro, obligaciones que excedan el monto global fijado para el servicio de justicia en la ley de apropiaciones iniciales.
+
+21. Designar a los empleados del Consejo Superior de la Judicatura cuya provisión, según la Ley, no corresponda al Director Ejecutivo de Administración Judicial.
+
+22. Hacer seguimiento, a través de sus Magistrados, de la ejecución de las decisiones del Consejo Superior de la Judicatura por parte de la Dirección Ejecutiva de Administración Judicial y las demás unidades misionales y de apoyo del Consejo Superior de la Judicatura, para el efecto estos directores deberán comunicar al Consejo Superior de la Judicatura, cada dos meses o con la periodicidad que se les señale, el estado de avance. Para estos efectos, el Consejo Superior determinará cada cuatro años la división temática entre sus distintos despachos, de manera concomitante con la elaboración del Plan Sectorial de Desarrollo. El ejercicio de esta función no implicará la asunción de funciones de ejecución.
+
+23. <Numeral CONDICIONALMENTE constitucional> Llevar el control del rendimiento y gestión institucional de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial y de la Fiscalía General de la Nación.
+
+24. Aprobar el Plan de Formación de la Rama Judicial.
+
+25. Elegir el Presidente del Consejo Superior de la Judicatura.
+
+26. Promover y contribuir a la buena imagen de la Rama Judicial, en todos sus órdenes, frente a la comunidad.
+
+27. Dictar el reglamento interno del Consejo Superior de la Judicatura.
+
+28. Brindar las herramientas necesarias que permitan acceder al contenido de las decisiones y actuaciones judiciales.
+
+29. Garantizar el principio de publicidad a través de los medios virtuales que para tal caso establezca el Consejo Superior de la Judicatura.
+
+30. Formular las listas de candidatos del Registro Nacional de Elegibles que opten por las diferentes sedes de los tribunales superiores, contenciosos administrativos y comisiones seccionales de disciplina judicial a la Corte Suprema de Justicia, al Consejo de Estado y Comisión Nacional de Disciplina Judicial, de conformidad con las normas de Carrera judicial.
+
+31. Cuando lo estime conveniente, establecer servicios administrativos comunes a los diferentes despachos judiciales.
+
+32. Designar al Director de la Escuela Judicial "Rodrigo Lara Bonilla".
+
+33. Aprobar los reconocimientos y distinciones que se otorguen a los funcionarios y empleados de la Rama Judicial por servicios excepcionales prestados en favor de la administración de justicia (medalla José Ignacio de Márquez).
+
+34. Coadyuvar para la protección y seguridad personal de los funcionarios y de la Rama Judicial.
+
+35. Las demás que determine la Ley.
+
+PARÁGRAFO. El Consejo Superior de la Judicatura deberá publicar en la página web los planes antes señalados, así como los resultados del seguimiento periódico a estos. Igualmente establecerá un mecanismo tecnológico de interacción permanente entre el órgano de administración de la Rama Judicial y los despachos judiciales del país que permita recibir y atender los requerimientos de los funcionarios y empleados judiciales a nivel nacional con eficiencia y eficacia.
+
 ## art:86 — COORDINACIÓN
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Sin perjuicio de la autonomía que para el ejercicio de la función administrativa le confiere la Constitución, y en desarrollo del principio de colaboración armónica de que trata el artículo 113 de la Constitución, el Consejo Superior de la Judicatura actuará en coordinación con los órganos de las otras Ramas del Poder Público, los organismos de control y organizaciones vinculadas al sector justicia.
 
@@ -1070,7 +1159,7 @@ Los diferentes actores que participan en el funcionamiento de la administración
 De conformidad con los principios de coordinación, concurrencia y subsidiariedad, los departamentos y las autoridades que participan en el funcionamiento de la administración de justicia a nivel departamental, propenderán por la articulación entre la Nación y los municipios dentro de su competencia territorial, en torno a las necesidades administrativas, técnicas y financieras de las autoridades que participan en el funcionamiento de la administración de justicia.
 
 ## art:87 — PLAN SECTORIAL DE DESARROLLO DE LA RAMA JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 El Plan Sectorial de Desarrollo para la Rama Judicial debe comprender, como mínimo, los siguientes aspectos:
 
@@ -1099,7 +1188,7 @@ El Consejo Superior de la Judicatura, por conducto del Director Ejecutivo de Adm
 El proyecto de Plan Sectorial deberá estar articulado con el proyecto de Plan Nacional de Desarrollo y el Plan Decenal del Sistema de Justicia. Además, deberá tener en cuenta el Marco Fiscal de Mediano Plazo y el principio de planificación del sistema presupuestal.
 
 ## art:88 — ELABORACIÓN DEL PROYECTO DE PRESUPUESTO PARA LA RAMA JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 El proyecto de presupuesto para la Rama Judicial deberá reflejar el Plan Sectorial de Desarrollo y se elaborará con sujeción a las siguientes reglas:
 
@@ -1114,7 +1203,7 @@ El proyecto que conforme a la metodología y a las directrices que señale el Co
 El Consejo Superior de la Judicatura discutirá y adoptará el proyecto dentro de los meses de marzo y abril y previo concepto de la Comisión Interinstitucional de la Rama Judicial, lo entregará al Gobierno nacional para efecto de la elaboración del proyecto del Presupuesto General de la Nación, en sesión especial.
 
 ## art:89 — REGLAS PARA LA DIVISIÓN JUDICIAL DEL TERRITORIO
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 La fijación de la división del territorio para efectos judiciales se hará conforme a las siguientes reglas: 
 
@@ -1135,7 +1224,7 @@ La fijación de la división del territorio para efectos judiciales se hará con
 <Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Eel Consejo Superior de la Judicatura evaluará cuando menos cada dos años la división general del territorio para efectos judiciales y hará los ajustes que sean necesarios, sin perjuicio de las facultades que deba ejercer cada vez que sea necesario.
 
 ## art:90 — REDISTRIBUCIÓN DE LOS DESPACHOS JUDICIALES
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 La redistribución de despachos judiciales puede ser territorial o funcional, y en una sola operación pueden concurrir las dos modalidades. 
 
@@ -1156,7 +1245,7 @@ Los funcionarios, secretarios, auxiliares de Magistrado, Oficiales mayores y sus
 4. En la alternativa a que se refiere el numeral segundo de este artículo, si el funcionario o empleado no acepta la designación en el primer cargo vacante de su misma especialidad y categoría, o transcurren seis meses sin que exista vacancia disponible, será inscrito en el cargo en el cual por virtud de éste la redistribución esté prestando sus servicios. En el mismo evento de no aceptación el funcionario o empleado que hubiese optado por la alternativa prevista en el numeral tercero se entenderá que renuncia a sus derechos de carrera y quedará desvinculado de la misma.
 
 ## art:91 — CREACIÓN, FUSIÓN Y SUPRESIÓN DE DESPACHOS JUDICIALES
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 La creación de Tribunales o de sus Salas y de los Juzgados, se debe realizar en función de áreas de geografía uniforme, los volúmenes demográficos rural y urbano, el crecimiento porcentual intercensal de las Entidades Territoriales, la demanda existente y/o potencial de justicia en las diferentes ramas del derecho, la atención de las dinámicas socioeconómicas de las regiones funcionales en aquellos territorios donde estas se hubieren establecido, la articulación con autoridades administrativas y actores que participan en la solución de conflictos y la existencia de vías de comunicación y medios de transporte que garanticen a la población respectiva un fácil acceso al órgano jurisdiccional, sin perjuicio de la implementación de esquemas de itinerancia en los despachos judiciales.
 
@@ -1175,7 +1264,7 @@ La supresión de despachos judiciales implica la supresión de los cargos de los
 PARÁGRAFO. Para la determinación sobre la creación, fusión y supresión de despachos judiciales, el Consejo Superior de la Judicatura, además de los criterios previstos en esta Ley, tendrá en cuenta los diagnósticos, modelos y estrategias en materia de acceso a la justicia que se elaboren desde el Gobierno nacional; los informes elaborados por la Defensoría del Pueblo, así como las acciones relacionadas con la materia, que se planteen en los escenarios interinstitucionales de coordinación a nivel territorial, conforme a lo establecido en el artículo 86 de esta Ley, y en todo caso, previo concepto de la Comisión Interinstitucional.
 
 ## art:92 — SUPRESIÓN DE CARGOS
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 En el evento de supresión de cargos de funcionarios y empleados escalafonados en la carrera judicial ellos serán incorporados, dentro de los seis meses siguientes en el primer cargo vacante definitivamente de su misma denominación, categoría y especialidad que exista en el distrito, sin que al efecto obste la circunstancia de encontrarse vinculado al mismo, persona designada en provisionalidad.
 
@@ -1184,21 +1273,21 @@ Si vencido el período previsto en el anterior inciso no fuese posible la incorp
 Para efectos de derecho de incorporación previsto en este artículo, se establece como criterio de prelación la antigüedad de los servidores públicos involucrados.
 
 ## art:93 — DEL PRINCIPIO DE LEGALIDAD EN LOS TRÁMITES JUDICIALES Y ADMINISTRATIVOS
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 La facultad del Consejo Superior de la Judicatura para regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en ningún caso comprenderá la regulación del ejercicio de las acciones judiciales ni de las etapas del proceso que conforme a los principios de legalidad y del debido proceso corresponden exclusivamente al legislador. 
 
 PARÁGRAFO. <Parágrafo modificado por el artículo 40 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Magistrados Auxiliares del Consejo de Estado, de la Corte Suprema de Justicia, de la Corte Constitucional y de la Comisión Nacional de Disciplina Judicial podrán ser comisionados para la práctica de pruebas para adoptar decisiones relacionadas con asuntos de trámite y para resolver los recursos que se interpongan en relación con las mismas.
 
 ## art:94 — ESTUDIOS ESPECIALES
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Los planes de desarrollo, los presupuestos y su ejecución, la división del territorio para efectos judiciales, la ubicación y redistribución de despachos judiciales, la creación, supresión, fusión y traslado de cargos en la administración de justicia, deben orientarse a la solución de los problemas que la afecten, de acuerdo con el resultado de estudios, especialmente de orden sociológico, que debe realizar anualmente el Consejo Superior de la Judicatura.
 
 Tales estudios deben incluir, entre otras cosas, encuestas tanto al interior de la Rama como entre los usuarios de la misma, que permitan establecer, en forma concreta, la demanda de justicia no satisfecha, las cargas de trabajo en términos de tiempos y movimientos, el costo de operación y los sectores donde se presenten los mayores problemas para gozar de una convivencia pacífica.
 
 ## art:95 — TECNOLOGÍA AL SERVICIO DE LA ADMINISTRACIÓN DE JUSTICIA
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 El Consejo Superior de la Judicatura deberá propender por la incorporación de nuevas tecnologías y la digitalización del servicio de la administración de justicia.
 
@@ -1217,7 +1306,7 @@ En los procesos que se tramiten con soporte informático se garantizará la iden
 PARÁGRAFO TRANSITORIO. El Consejo Superior de la Judicatura hará el diagnóstico de las condiciones de conectividad y de los sistemas de información en uso en lo judicial y administrativo, evaluará su compatibilidad y la viabilidad de autorizar la continuidad de su uso. En el evento en que se determine la necesidad de cambiarlos, fijará el plazo y forma de hacerlo, garantizando la continuidad y seguridad en el acceso a la administración de justicia por los medios tecnológicos adecuados.
 
 ## art:96 — DE LA COMISIÓN INTERINSTITUCIONAL DE LA RAMA JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Habrá una Comisión Interinstitucional de la Rama Judicial integrada por los presidentes de la Corte Suprema de Justicia, la Corte Constitucional, del Consejo de Estado, de la Comisión Nacional de 
 
@@ -1228,7 +1317,7 @@ Dicha comisión servirá de mecanismo de información recíproca entre las Corpo
 La comisión será presidida por el Presidente del Consejo Superior de la Judicatura y se reunirá en forma ordinaria cuando menos una vez al mes, previa convocatoria de dicho funcionario. Se reunirá extraordinariamente cuando así lo requiera o a solicitud de cuando menos dos de sus miembros. Su no convocatoria constituirá causal de mala conducta.
 
 ## art:97 — FUNCIONES DE LA COMISIÓN INTERINSTITUCIONAL DE LA RAMA JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Son funciones de la Comisión Interinstitucional de la Rama Judicial:
 
@@ -1253,7 +1342,7 @@ El Ministerio de Justicia y del Derecho participará por derecho propio en las r
 PARÁGRAFO. El Consejo Superior de la Judicatura informará trimestralmente a la Comisión Interinstitucional sobre el estado de ejecución de los recursos de la Rama Judicial.
 
 ## art:98 — DE LA DIRECCIÓN EJECUTIVA DE LA ADMINISTRACIÓN JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 La Dirección Ejecutiva de Administración Judicial es el órgano técnico y administrativo que tiene a su cargo la ejecución de las actividades administrativas de la Rama Judicial, con sujeción a las políticas y decisiones de gobierno y de administración a cargo del Consejo Superior de la Judicatura.
 
@@ -1264,7 +1353,7 @@ El Director Ejecutivo de Administración Judicial será el Secretario General de
 El Director tendrá un período de cuatro (4) años, no reelegible en el periodo inmediatamente siguiente.
 
 ## art:99 — DEL DIRECTOR EJECUTIVO DE ADMINISTRACIÓN JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 El Director Ejecutivo de Administración Judicial deberá tener título profesional, maestría en ciencias económicas, financieras o administrativas y experiencia no inferior a quince (15) años en dichos campos. Su categoría, prerrogativas y remuneración serán las mismas de los Magistrados del Consejo Superior de la Judicatura.
 
@@ -1291,7 +1380,7 @@ Son funciones del Director Ejecutivo de Administración Judicial:
 10. Las demás funciones previstas en la ley.
 
 ## art:100 — FUNCIONES DE LA SALA PLENA DE LOS CONSEJOS SECCIONALES
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Las Salas Plenas de los Consejos Seccionales tendrán las siguientes funciones: 
 
@@ -1304,7 +1393,7 @@ Las Salas Plenas de los Consejos Seccionales tendrán las siguientes funciones:
 4. Las demás que señalen la ley o el Consejo Superior de la Judicatura.
 
 ## art:101 — FUNCIONES DE LOS CONSEJOS SECCIONALES
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Los Consejos Seccionales de la Judicatura tendrán las siguientes funciones: 
 
@@ -1333,14 +1422,14 @@ Los Consejos Seccionales de la Judicatura tendrán las siguientes funciones:
 12. <Numeral con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Las demás que le señale la ley o el reglamento, o que le delegue al Consejo Superior de la Judicatura.
 
 ## art:102 — COMISIÓN SECCIONAL INTERINSTITUCIONAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Habrá una Comisión Seccional Interinstitucional de la Rama Judicial, integrada por el Presidente del Tribunal Superior del Distrito Judicial, y si hay más de uno, por los Presidentes; por el Presidente del Tribunal Contencioso Administrativo; por el Director Seccional de Fiscalías; por el Presidente del Consejo Seccional de la Judicatura, quien lo presidirá, y por un representante de los funcionarios y empleados de la Rama Judicial elegidos por éstos, en la forma que señale el reglamento. 
 
 La Comisión Seccional actuará como mecanismo de integración de la Rama Judicial.
 
 ## art:103 — DIRECTOR SECCIONAL DE LA RAMA JUDICIAL
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 En primer debate se inserta el inciso primero y en el encabezado aparece "modifíquese el artículo 103", sin especificar que;
 
@@ -1374,10 +1463,10 @@ Corresponde al Director Seccional de la Rama Judicial, ejercer en el ámbito de 
 
 11. Las demás funciones previstas en la ley, los reglamentos y los acuerdos del Consejo Superior de la Judicatura. 
 
-PARÁGRAFO. <Ver Notas del Editor sobre el texto subrayado> <Parágrafo modificado por el artículo 46 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Director Seccional de Administración Judicial deberá tener título profesional en ciencias jurídicas, económicas, financieras o administrativas, título de especialización y experiencia no inferior a ocho (8) años en dichos campos. Su categoría, prerrogativas y remuneración serán las mismas de los Magistrados de los Consejos Seccionales de la Judicatura.
+PARÁGRAFO. <Parágrafo modificado por el artículo 46 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Director Seccional de Administración Judicial deberá tener título profesional en ciencias jurídicas, económicas, financieras o administrativas, título de especialización y experiencia no inferior a ocho (8) años en dichos campos. Su categoría, prerrogativas y remuneración serán las mismas de los Magistrados de los Consejos Seccionales de la Judicatura.
 
 ## art:104 — INFORMES QUE DEBEN RENDIR LOS DESPACHOS JUDICIALES
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, la Fiscalía General de la Nación y sus seccionales, la Comisión Nacional de Disciplina Judicial, los Tribunales y los Juzgados deberán presentar, conforme a la metodología que señalen los reglamentos del Consejo Superior de la Judicatura, los informes que este solicite para el cabal ejercicio de sus funciones.
 
@@ -1386,14 +1475,14 @@ Dichos informes, que se rendirán cuando menos una vez al año, comprenderán en
 Anualmente los mencionados despachos judiciales deberán rendir cuentas de manera presencial o virtual y el contenido del informe deberá permanecer publicado en la página web de la Rama Judicial en un espacio de fácil acceso a los ciudadanos. Para el caso de los informes de Tribunales y Juzgados, se harán de manera conjunta por Distrito Judicial.
 
 ## art:105 — CONTROL INTERNO
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Para asegurar la realización de los principios que gobiernan la administración de Justicia, el Consejo Superior de la Judicatura debe implantar, mantener y perfeccionar un adecuado control interno, integrado por el esquema de organización y el conjunto de los planes, métodos, principios, normas, procedimientos y mecanismos de verificación y evaluación; por un sistema de prevención de riesgos y aprovechamiento de oportunidades, procesos de información y comunicación, procedimientos de control y mecanismos de supervisión, que operen en forma eficaz y continua en todos los niveles que componen la Rama Judicial. 
 
 Al informe anual que el Consejo Superior de la Judicatura presente al Congreso de la República se adjuntará el informe del responsable del Sistema de Control Interno de la Rama Judicial.
 
 ## art:106 — SISTEMAS DE INFORMACIÓN
-ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL ARTÍCULO 85. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. <Artículo modif
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
 Con sujeción a las normas legales que sean aplicables, el Consejo Superior de la Judicatura debe diseñar, desarrollar, poner y mantener en. funcionamiento unos adecuados sistemas de información que, incluyan entre otros, los relativos a la información financiera, talento humano, costos, información presupuestaria, gestión judicial, acceso a los servidores de la Rama Judicial y, en forma completa y oportuna, al conocimiento de las fuentes formales del derecho, tanto nacionales como internacionales.
 
@@ -1432,7 +1521,7 @@ Forman parte del Sistema Nacional de Estadísticas Judiciales:
 
 12. El Instituto Nacional de Medicina Legal y Ciencias Forenses.
 
-13. Los demás órganos que integran la rama judicial, representados por los presidentes de la Corte Constitucional, el Consejo de Estado, la Comisión- Nacional de Disciplina Judicial y la Corte Suprema de Justicia, así como los presidentes de la Sala civil y agraria<Sala Civil, Agraria y Rural*>. laboral, penal.
+13. Los demás órganos que integran la rama judicial, representados por los presidentes de la Corte Constitucional, el Consejo de Estado, la Comisión- Nacional de Disciplina Judicial y la Corte Suprema de Justicia, así como los presidentes de la [TACHADO: Sala civil y agraria]<Sala Civil, Agraria y Rural*>. laboral, penal.
 
 14. Los particulares con funciones transitorias de administración de justicia.
 
@@ -1483,21 +1572,12 @@ Créase el Comité Técnico Interinstitucional conformado por todos los director
 
 El Comité tiene por objeto implantar y desarrollar de manera coordinada los intercambios de información entre todos los organismos que conforman el Sistema Nacional de Estadísticas de Justicia. Para tal efecto, dictará todas las disposiciones indispensables para la interoperabilidad técnica y funcional del Sistema.
 
-ARTÍCULO 110A. DE LA COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL. <Artículo adicionado por el artículo 54 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Comisión Nacional de Disciplina Judicial ejerce la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial, y será la encargada de examinar la conducta y sancionar a los abogados en ejercicio de su profesión; en la instancia que señala la presente ley. Está conformada por siete Magistrados, elegidos por el Congreso en pleno, cuatro de ternas enviadas por el Consejo Superior de la Judicatura y tres de ternas enviadas por el Presidente de la República, conforme lo prevé la Constitución Política.
+## art:110a — DE LA COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO III. DE LOS SISTEMAS NACIONALES DE ESTADÍSTICAS DE LA ADMINISTRACIÓN DE JUSTICIA.
+
+La Comisión Nacional de Disciplina Judicial ejerce la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial, y será la encargada de examinar la conducta y sancionar a los abogados en ejercicio de su profesión; en la instancia que señala la presente ley. Está conformada por siete Magistrados, elegidos por el Congreso en pleno, cuatro de ternas enviadas por el Consejo Superior de la Judicatura y tres de ternas enviadas por el Presidente de la República, conforme lo prevé la Constitución Política.
 
 PARÁGRAFO. En la conformación de cada terna se incluirá, por lo menos, a una mujer, según lo dispone el artículo 6o de la Ley 581 de 2000.
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
 
 ## art:111 — ALCANCE
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
@@ -1544,12 +1624,12 @@ El Consejo Superior de la Judicatura, en un plazo máximo de seis (6) meses cont
 ## art:113 — PROVISIÓN DE CARGOS DE EMPLEADOS DE LA COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-La Comisión Nacional de Disciplina Judicial tendrá un secretario de libre nombramiento y remoción. Los cargos que integran los despachos de cada magistrado serán de libre nombramiento y remoción del titular del despacho. Los cargos de los demás empleados de la Comisión Nacional de Disciplina Judicial deben ser provistos mediante el régimen de carrera judicial
+La Comisión Nacional de Disciplina Judicial tendrá un secretario de libre nombramiento y remoción. Los cargos que integran los despachos de cada magistrado serán de libre nombramiento y remoción del titular del despacho. Los cargos de los demás empleados de la Comisión Nacional de Disciplina Judicial deben ser provistos mediante el régimen de carrera judicial.
 
 ## art:114 — FUNCIONES DE LAS COMISIONES SECCIONALES DE DISCIPLINA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-<Artículo modificado por el artículo 58 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Corresponde a las Comisiones Seccionales de Disciplina Judicial:
+Corresponde a las Comisiones Seccionales de Disciplina Judicial:
 
 1. Conocer en primera instancia de los procesos disciplinarios que se adelantan contra los jueces, los fiscales cuya competencia no corresponda a la Comisión Nacional de Disciplina Judicial, los empleados de la Rama Judicial, los jueces de paz y de reconsideración, los abogados y quienes ejerzan función jurisdiccional de manera excepcional, transitoria u ocasional, por faltas cometidas en el territorio de su jurisdicción.
 
@@ -1562,7 +1642,12 @@ PARÁGRAFO. El Consejo Superior de la Judicatura determinará el número de Magi
 ## art:115 — COMPETENCIA DE OTRAS CORPORACIONES, FUNCIONARIOS Y EMPLEADOS JUDICIALES
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-ARTÍCULO DECLARADO INEXEQUIBLE.
+<Artículo derogado por el artículo 92 de la Ley 2430 de 2024>
+
+## art:116inexequible — INEXEQUIBLE
+ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
+
+INEXEQUIBLE
 
 ## art:116 — DOBLE INSTANCIA EN EL JUICIO DISCIPLINARIO
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
@@ -1704,9 +1789,9 @@ Las autoridades nominadoras de la Rama Judicial, son:
 
 1. Para los cargos de las Corporaciones: Las respectivas Corporaciones en pleno. 
 
-2. <Ver Notas de Vigencia> Para los cargos adscritos a las presidencias y vicepresidencias: La respectiva Corporación o Sala. 
+2. Para los cargos adscritos a las presidencias y vicepresidencias: La respectiva Corporación o Sala. 
 
-3. <Ver Notas de Vigencia> Para los cargos de las Salas: La respectiva Sala. 
+3. Para los cargos de las Salas: La respectiva Sala. 
 
 4. Para los cargos del despacho de los Magistrados: El respectivo Magistrado. 
 
@@ -1818,18 +1903,6 @@ Cuando se trate de cursos de postgrado que solo requieran tiempo parcial y que n
 ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La Sala Plena de la respectiva Corporación, concederá comisión especial hasta por el término de tres meses a los Magistrados de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado y del Consejo Superior de la Judicatura, para cumplir actividades de asesoría al Estado o realizar investigaciones científicas o estudios relacionados con las funciones de la Rama Jurisdiccional.
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
 
 ## art:141 — DISPONIBILIDAD PRESUPUESTAL
 ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
@@ -2182,12 +2255,12 @@ Para funcionarios, concursos de méritos, conformación del Registro Nacional de
 
 Para empleados, concurso de méritos, conformación del Registro Seccional de Elegibles, remisión de listas de elegibles y nombramiento. 
 
-PARÁGRAFO. <Parágrafo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura, conforme a lo dispuesto en la presente ley, reglamentará la forma, clase, contenido, alcances y los demás aspectos de cada una de las etapas. Los reglamentos respectivos deberán garantizar la publicidad y contradicción de las decisiones
+PARÁGRAFO. <Parágrafo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura, conforme a lo dispuesto en la presente ley, reglamentará la forma, clase, contenido, alcances y los demás aspectos de cada una de las etapas. Los reglamentos respectivos deberán garantizar la publicidad y contradicción de las decisiones.
 
 ## art:163 — MODALIDADES DE SELECCIÓN
 ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
 
-<Artículo modificado por el artículo 80 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los procesos de selección serán permanentes con el fin de garantizar en todo momento disponibilidad para la provisión de las vacantes que se presenten en cualquier especialidad y nivel dentro de la Rama Judicial.
+Los procesos de selección serán permanentes con el fin de garantizar en todo momento disponibilidad para la provisión de las vacantes que se presenten en cualquier especialidad y nivel dentro de la Rama Judicial.
 
 Los procesos de selección para funcionarios y empleados de carrera de la Rama Judicial serán:
 
@@ -2320,19 +2393,7 @@ ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada p
 
 La exclusión de la Carrera Judicial de los funcionarios y empleados se produce por las causales genéricas de retiro del servicio y la evaluación de servicios no satisfactoria. 
 
-PARÁGRAFO. El retiro de la Carrera Judicial lleva consigo el retiro del servicio y se efectuará mediante acto motivado, susceptible de los recursos de la vía gubernativa. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARÁGRAFO. El retiro de la Carrera Judicial lleva consigo el retiro del servicio y se efectuará mediante acto motivado, susceptible de los recursos de la vía gubernativa.
 
 ## art:174 — COMPETENCIA PARA ADMINISTRAR LA CARRERA
 ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
@@ -2397,11 +2458,11 @@ La Comisión de Investigación y Acusación ejercerá las siguientes funciones:
 
 3. Declarado INEXEQUIBLE.
 
-4. <Ver Notas del Editor> Preparar proyectos de Acusación que deberá aprobar el pleno de la Cámara, ante el Senado, cuando hubiere causas constitucionales al Presidente de la República o a quien haga sus veces, a los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado, a los Miembros del Consejo Superior de la Judicatura y al Fiscal General de la Nación.
+4. Preparar proyectos de Acusación que deberá aprobar el pleno de la Cámara, ante el Senado, cuando hubiere causas constitucionales al Presidente de la República o a quien haga sus veces, a los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado, a los Miembros del Consejo Superior de la Judicatura y al Fiscal General de la Nación.
 
-5. <Inciso CONDICIONALMENTE exequible, y aparte tachado INEXEQUIBLE, según lo expone la Corte Constitucional en la parte motiva de la Sentencia C-037-96. El editor advierte que el texto publicado en el Diario Oficial 42.745 de 15 de marzo de 1996, correspondiente al artículo 180 de la Ley 270 de 1996, incluye la palabra "disciplinarias" sin tacharla> Conocer de las denuncias y quejas por las faltas disciplinarias que ante ella se presenten por el Fiscal General de la Nación, demás autoridades o por los particulares contra los expresados funcionarios y que presten mérito para fundar en ella acusaciones ante el Senado. 
+5. <Inciso CONDICIONALMENTE exequible, y aparte tachado INEXEQUIBLE, según lo expone la Corte Constitucional en la parte motiva de la Sentencia C-037-96. El editor advierte que el texto publicado en el Diario Oficial 42.745 de 15 de marzo de 1996, correspondiente al artículo 180 de la Ley 270 de 1996, incluye la palabra "disciplinarias" sin tacharla> Conocer de las denuncias y quejas por las faltas [TACHADO: disciplinarias] que ante ella se presenten por el Fiscal General de la Nación, demás autoridades o por los particulares contra los expresados funcionarios y que presten mérito para fundar en ella acusaciones ante el Senado. 
 
-6. <Ver Notas del Editor> Requerir el auxilio de otras autoridades para el desarrollo de las actividades que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente. La iniciación de la investigación también procederá de oficio. 
+6. Requerir el auxilio de otras autoridades para el desarrollo de las actividades que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente. La iniciación de la investigación también procederá de oficio. 
 
 7. Declarado INEXEQUIBLE.
 
@@ -2469,43 +2530,6 @@ ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DE
 
 ARTÍCULO INEXEQUIBLE.
 
-## art:192-sic — SIC
-ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
-
-<Ver Notas del Editor> <Artículo modificado por el artículo 3 de la Ley 1743 de 2014. El nuevo texto es el siguiente:> El Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia será un fondo especial administrado por el Consejo Superior de la Judicatura, o quien haga sus veces, integrado por los siguientes recursos: 
-
-1. Los derechos, aranceles, emolumentos y costos que se causen con ocasión de las actuaciones judiciales y sus rendimientos.
-
-2. Los recursos provenientes del pago del Arancel Judicial.
-
-3. Los recursos provenientes del pago de la Contribución Especial Arbitral.
-
-4. El dinero recaudado por la aplicación del artículo 206 del Código General del Proceso, o norma que lo sustituya, adicione y/o complemente.
-
-5. Los recursos provenientes de los depósitos judiciales en condición especial, de que trata el artículo 192A de la Ley 270 de 1996.
-
-6. Los recursos provenientes de los depósitos judiciales no reclamados, de que trata el artículo 192B de la Ley 270 de 1996.
-
-7. El dinero recaudado por concepto de las multas impuestas por los jueces a las partes y terceros en el marco de los procesos judiciales y arbitrales de todas las jurisdicciones. 
-
-8. Los recursos provenientes del impuesto de remate establecido en el artículo 7o de la Ley 11 de 1987, o norma que haga sus veces.
-
-9. Los recursos provenientes de los acuerdos de compartición de bienes con otros Estados. 
-
-10. Los recursos provenientes de donaciones.
-
-11. Los rendimientos generados sobre todos los recursos enunciados en los numerales anteriores, sin perjuicio de la destinación del 30% para el Sistema Carcelario y Penitenciario establecida en el artículo 6o de la Ley 66 de 1993.
-
-12. Los demás que establezca la ley.
-
-PARÁGRAFO 1o. <Parágrafo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Fondo no contará con personal diferente al asignado a la Dirección Ejecutiva y el Consejo Superior de la Judicatura, o quien haga sus veces. Los recursos del Fondo formarán parte del Sistema de Cuenta Única Nacional, en los términos del artículo 261 de la Ley 1450 de 2011, o las normas que lo modifiquen o sustituyan, en la medida en que sean incorporados al Presupuesto General de la Nación.
-
-PARÁGRAFO 2o. Todos los jueces de la República estarán obligados a reportar al Consejo Superior de la Judicatura, o quien haga sus veces, dentro de los tres meses siguientes a la vigencia de esta ley, y de manera periódica cada semestre, la relación de todos los depósitos judiciales en condición especial y los depósitos judiciales no reclamados, so pena de las sanciones disciplinarias y fiscales a las que haya lugar. 
-
-PARÁGRAFO 3o. El Consejo Superior de la Judicatura, o quien haga sus veces, deberá cotejar con el Banco Agrario de Colombia, o la entidad bancaria correspondiente, la información entregada por los jueces con el fin de trasladar los recursos de los que hablan los numerales 4, 5, 6 y 7 de este artículo al Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia, so pena de las sanciones disciplinarias, penales y fiscales a las que haya lugar por la omisión de esta obligación". 
-
-PARÁGRAFO 4o. Todos los recursos que de conformidad con el presente artículo integran el Fondo para la Modernización, Descongestión y Bienestar de la administración de Justicia serán consignados en una cuenta del Banco Agrario de Colombia S.A.
-
 ## art:192a — DEPÓSITOS JUDICIALES EN CONDICIÓN ESPECIAL
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
@@ -2526,7 +2550,10 @@ Los depósitos judiciales provenientes de procesos laborales que no hayan sido r
 
 PARÁGRAFO. Antes de trasladar los recursos de los depósitos judiciales no reclamados, el Consejo Superior de la Judicatura, o quien haga sus veces, publicará por una sola vez en un diario de amplia circulación nacional y en la página web oficial de la Entidad el listado de todos los depósitos judiciales no reclamados a la fecha de publicación, identificando el radicado del proceso, sus partes y la fecha de la actuación que dio fin al proceso, para que en el término de veinte (20) días hábiles, siguientes a la fecha de la publicación, el beneficiario del depósito se presente a realizar las reclamaciones correspondientes ante el Juzgado que conoció del proceso. Si el beneficiario no reclama el depósito, se entenderá que los recursos prescribieron de pleno derecho a favor de la Nación, Rama Judicial, Dirección Ejecutiva de Administración Judicial, o quien haga sus veces, con destino al Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia.
 
-ARTÍCULO 192C. <Aparte subrayado CONDICIONALMENTE constitucional> <Artículo adicionado por el artículo 86 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El presupuesto de gastos asignado a la rama judicial, para honrar funcionamiento e inversión, será equivalente al 3% del presupuesto de rentas y de recursos de capital del tesoro nacional, conforme al marco fiscal de mediano plazo en los términos del artículo 7o de la Ley 819 de 2003. En caso alguno este porcentaje podrá ser disminuido. Tampoco el gasto apropiado para cada vigencia fiscal podrá ser inferior en términos reales al presupuestado en el año anterior.
+## art:192c — Aparte subrayado CONDICIONALMENTE constitucional
+ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
+
+<Artículo adicionado por el artículo 86 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El presupuesto de gastos asignado a la rama judicial, para honrar funcionamiento e inversión, será equivalente al 3% del presupuesto de rentas y de recursos de capital del tesoro nacional, conforme al marco fiscal de mediano plazo en los términos del artículo 7o de la Ley 819 de 2003. En caso alguno este porcentaje podrá ser disminuido. Tampoco el gasto apropiado para cada vigencia fiscal podrá ser inferior en términos reales al presupuestado en el año anterior.
 
 PARÁGRAFO 1o. El presupuesto de gastos asignado por medio de este artículo no incluirá el presupuesto que se asigne a la Fiscalía General de la Nación, los recursos para la creación de medidas especiales y para el pago de sentencias y conciliaciones. Para las medidas especiales se asignarán recursos de acuerdo con el costo de dichas medidas y para el pago de sentencias y conciliaciones se asignarán de acuerdo con los requerimientos en virtud de los fallos proferidos.
 
@@ -2611,18 +2638,6 @@ A partir del segundo año de vigencia de esta ley el Banco Agrario de Colombia p
 
 Para efectos de la liquidación de los intereses, los anteriores pagos se causarán por trimestre calendario y deberán pagarse dentro de los diez días siguientes al vencimiento del plazo.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:204 — 
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
@@ -2657,7 +2672,7 @@ ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DE
 
 DECLARADO INEXEQUIBLE
 
-## art:209-bis — <209-BIS>. APLICACIÓN GRADUAL DE LAS POLÍTICAS JUDICIALES
+## art:209bis — <209-BIS>. APLICACIÓN GRADUAL DE LAS POLÍTICAS JUDICIALES
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
 <Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los planes y programas de descongestión, la creación y funcionamiento de los jueces administrativos, de los jueces de plena jurisdicción, se hará en forma gradual y en determinadas zonas del país, de acuerdo con las necesidades de la administración de justicia determinadas el Consejo Superior de la Judicatura.
@@ -2681,52 +2696,4 @@ ARTÍCULO NUEVO <209B>. <Artículo derogado por el artículo 626 de la Ley 1564 
 ## art:210 — VIGENCIA
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-La presente ley tiene vigencia a partir de su promulgación y deroga todas las disposiciones que le sean contrarias, en especial el Decreto 2652 de 1991. 
-
-El Presidente del honorable Senado de la República, 
-
-JULIO CÉSAR GUERRA TULENA. 
-
-El Secretario General del honorable Senado de la República, 
-
-PEDRO PUMAREJO VEGA. 
-
-El Presidente de la honorable Cámara de Representantes, 
-
-RODRIGO RIVERA SALAZAR. 
-
-El Secretario General de la honorable Cámara de Representantes, 
-
-DIEGO VIVAS TAFUR. 
-
-REPÚBLICA DE COLOMBIA - GOBIERNO NACIONAL 
-
-Aprobada por el Congreso de la República y surtida la revisión 
-
-de la Honorable Corte Constitucional de conformidad con lo dispuesto 
-
-en los artículos 153 y 241, numeral 8o. de la Constitución Política, 
-
-en sentencia C-037-96 de 1996 debidamente notificada. 
-
-Publíquese y ejecútese. 
-
-Dado en Santafé de Bogotá, D.C., a 7 de marzo de 1996. 
-
-ERNESTO SAMPER PIZANO 
-
-El Ministro de Justicia y del Derecho, 
-
-CARLOS EDUARDO MEDELLÍIN BECERRA.
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La presente ley tiene vigencia a partir de su promulgación y deroga todas las disposiciones que le sean contrarias, en especial el Decreto 2652 de 1991.

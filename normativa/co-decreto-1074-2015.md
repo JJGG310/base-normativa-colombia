@@ -7,7 +7,7 @@ ramas: [comercial, societario, consumo, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Comercio, Industria y Turismo
@@ -18,15 +18,11 @@ El Ministerio de Comercio, Industria y Turismo tiene cómo objetivo primordial d
 
 FONDOS ESPECIALES
 
-ARTÍCULO
-
 ## art:1.1.2.1 — Fondo Colombiano de Modernización y Desarrollo Tecnológico de la Micro, Pequeña y Mediana Empresa FOMIPYME
 
 Tiene cómo objetivo aplicar instrumentos financieros y no financieros, estos últimos, mediante cofinanciación no reembolsable de programas, proyectos y actividades para la innovación, el fomento y promoción de las Mipymes.
 
 (Ley 1450 de 2011, art. 44)
-
-ARTÍCULO
 
 ## art:1.1.2.2 — Fondo Fílmico Colombia
 
@@ -36,15 +32,11 @@ Tiene por objeto desarrollar una actividad estratégica de relación comercial e
 
 CONSEJOS SUPERIORES Y ORGANISMOS DE ASESORIA DE LA ADMINISTRACIÓN
 
-ARTÍCULO
-
 ## art:1.1.3.1 — Consejo Superior de Comercio Exterior
 
 Es un organismo consultivo cuyo objetivo es asesorar al Gobierno Nacional en todos aquellos aspectos que se relacionen con el comercio exterior y la competitividad de las empresas del país.
 
 (Decreto 2553 de 1999, art. 27)
-
-ARTÍCULO
 
 ## art:1.1.3.2 — Consejo Superior de Micro Empresa y de la Pequeña y Mediana Empresa
 
@@ -52,15 +44,11 @@ Es un órgano encargado de asegurar la formulación y adopción de políticas p�
 
 (Ley 590 de 2000, art. 3, modificado por la Ley 905 de 2004, art. 3)
 
-ARTÍCULO
-
 ## art:1.1.3.3 — Consejo Nacional de Protección al Consumidor
 
 Tiene cómo objetivo asesor del Gobierno Nacional en todas las materias relacionadas con la acción administrativa de protección y defensa de los consumidores
 
 (Decreto 3468 de 1982, art. 1)
-
-ARTÍCULO
 
 ## art:1.1.3.4 — Consejo Superior de Turismo
 
@@ -68,23 +56,17 @@ Corresponde al Consejo Superior de Turismo coordinar y adoptar programas y proye
 
 (Decreto 1873 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.3.5 — Consejo Consultivo de la Industria Turística
 
 Tiene cómo objetivo ser el órgano consultivo y asesor del Gobierno en materia de turismo, en los términos de la Ley.
 
 (Decreto 1591 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.3.6 — Consejo Nacional de Seguridad Turística
 
 Su objetivo consiste en incrementar la seguridad para los usuarios de servicios turísticos, mediante el establecimiento de estrategias, a partir de las cuáles la Policía de Turismo, en coordinación con el Ministerio (sic) de Comercio, Industria y Turismo y las entidades territoriales, implementan proyectos y actividades que promuevan medidas de control y prevención dirigidas a los prestadores de servicios turísticos, vigilancia y protección de los atractivos turísticos e información y orientación al turista.
 
 (Decreto 945 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:1.1.3.7 — Consejo Profesional de Guías de Turismo
 
@@ -94,15 +76,11 @@ El Consejo Profesional de Guías de Turismo es un organismo técnico encargado d
 
 (Decreto 503 de 1997, art. 11)
 
-ARTÍCULO
-
 ## art:1.1.3.8 — Comités Locales para la Organización de las Playas
 
 El objetivo es el de establecer franjas en las zonas de playas destinadas al baño, al descanso, a la recreación, a las ventas de bienes de consumo y a la prestación de otros servicios relacionados con las actividades de aprovechamiento del tiempo libre que desarrollen los usuarios de las playas.
 
 (Decreto 1766 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:1.1.3.9 — Comité de Asuntos Aduaneros y Arancelarios de Comercio Exterior
 
@@ -110,15 +88,11 @@ Tiene como objetivo analizar y recomendar al Consejo Superior de Comercio Exteri
 
 (Decreto 3303 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.3.10 — Comité Técnico del Premio Colombiano A la Innovación Tecnológica Empresarial para las Mipymes-Innova
 
 El Ministerio de Comercio, Industria y Turismo establecerá un Comité Técnico, con la participación del sector público y privado, para la coordinación general del Premio Colombiano a la Innovación Tecnológica Empresarial para las Mipymes, cuya Secretaria Técnica la ejercerá la Dirección de Mipymes. Así mismo, previa recomendación de dicho Comité, la Dirección de Mipymes presentara al Ministro de Comercio, Industria y Turismo el informe sobre los finalistas del premio. El premio se otorgará mediante decreto ejecutivo, a propuesta del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1780 de 2003, art. 6; modificado por el Decreto 734 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:1.1.3.11 — Comité Ejecutivo de la Comisión Nacional de Competitividad e Innovación
 
@@ -126,15 +100,11 @@ El Comité Ejecutivo será el órgano de coordinación y dirección de la Comisi
 
 (Decreto 1500 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:1.1.3.12 — Comisión lntersectorial de la Calidad
 
 Tendrá cómo objeto coordinar la actuación de las entidades estatales y privadas dentro de los lineamientos del Subsistema Nacional de la Calidad -SNCA-.
 
 (Decreto 3257 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:1.1.3.13 — Comisión lntersectorial de Propiedad Intelectual
 
@@ -142,15 +112,11 @@ La Comisión lntersectorial de Propiedad Intelectual, CIPI, tiene cómo objetivo
 
 (Decreto 1162 de 2010, art. 4)
 
-ARTÍCULO
-
 ## art:1.1.3.14 — Comisión lntersectorial de Zonas Francas
 
 Tiene por objetivo aprobar o negar el Plan Maestro de Desarrollo General de las Zonas Francas y sus modificaciones, así cómo analizar, estudiar, evaluar, y emitir concepto sobre la continuidad del área y sobre la viabilidad de la declaratoria de existencia de la Zonas Francas, dentro del contexto de las finalidades previstas en el artículo 2 de la Ley 1004 de 2005.
 
 (Decreto 2685 de 1999, art. 393-5, modificado Decreto 711 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:1.1.3.15 — Comisión lntersectorial para Proyectos Estratégicos del Sector de Comercio, Industria y Turismo
 
@@ -158,15 +124,11 @@ Tiene cómo finalidad de coordinar y orientar las funciones de las entidades pú
 
 (Decreto 155 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.3.16 — Comisión Nacional de Competitividad e Innovación
 
 Tiene por objetivo promover el desarrollo económico. Específicamente, asesorar la formulación de lineamientos de política, apoyar la articulación de acciones para su ejecución y la aplicación de mecanismos de seguimiento para asegurar su cumplimiento y permanencia en el tiempo.
 
 (Decreto 1500 de 2012, art. 5)
-
-ARTÍCULO
 
 ## art:1.1.3.17 — Comisión lntersectorial de Exposiciones Internacionales
 
@@ -174,15 +136,11 @@ Tiene cómo finalidad fijar los criterios y lineamientos para la participación 
 
 (Decreto 1510 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.3.18 — Comisión lntersectorial de Estadísticas del Sector Servicios
 
 Su objetivo es proponer las estrategias y acciones del Gobierno Nacional que permitan la armonización de la información estadística del sector servicios, velando por la aplicación de buenas prácticas internacionales en la producción, divulgación y transparencia de la información, con el fin de brindar al País estadísticas coherentes, de calidad y oportunas.
 
 (Decreto 864 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:1.1.3.19 — Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC
 
@@ -190,15 +148,11 @@ El Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC - será c
 
 (Decreto 767 de 1964, art. 1)
 
-ARTÍCULO
-
 ## art:1.1.3.20 — Organismo Nacional de Acreditación al Organismo Nacional de Acreditación de Colombia, ONAC
 
 El Organismo Nacional de Acreditación-ONAC será la entidad encargada de acreditarla competencia técnica de los organismos de evaluación de la conformidad.
 
 (Decreto 1595 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:1.1.3.21 — Comisión Intersectorial de Regulación Técnica
 
@@ -207,8 +161,6 @@ Tiene por objetivo revisar los proyectos de reglamentos técnicos que se pretend
 (Derogado por el Art. 19 del Decreto 1517 de 2021)
 
 (Decreto 1412 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:1.1.4.1 — Fondo Nacional de Turismo - FONTUR
 
@@ -222,15 +174,11 @@ SECTOR DESCENTRALIZADO
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Superintendencia de Sociedades
 
 Tiene cómo objetivo la preservación del orden público económico por medio de las funciones de fiscalización gubernamental sobre las sociedades comerciales y ejercer las facultades jurisdiccionales previstas en la ley, tanto en el ámbito de la insolvencia cómo en el de los conflictos societarios.
 
 (Decreto 1023 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Superintendencia de Industria y Comercio
 
@@ -238,23 +186,17 @@ Salvaguarda los derechos de los consumidores, protege la libre y sana competenci
 
 (Decreto 4886 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Unidad Administrativa Especial Junta Central de Contadores
 
 Es el organismo rector de la profesión de la Contaduría Pública responsable del Registro, Inspección y Vigilancia de los Contadores Públicos y de las Personas Jurídicas prestadoras de servicios contables, actuando cómo Tribunal Disciplinario para garantizar el correcto ejercicio contable y la ética profesional.
 
 (Ley 43 de 1990, art. 20)
 
-ARTÍCULO
-
 ## art:1.2.1.4 — Consejo Técnico de la Contaduría Pública
 
 El Consejo Técnico de la Contaduría Pública es un organismo permanente de normalización técnica de normas contables, de información financiera y de aseguramiento de la información, adscrito al Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 691 de 2010, art. 1)
-
-ARTÍCULO
 
 ## art:1.2.1.5 — Instituto Nacional de Metrología
 
@@ -264,15 +206,11 @@ El Instituto Nacional de Metrología, INM, tiene por objetivo la coordinación n
 
 ENTIDADES VINCULADAS
 
-ARTÍCULO
-
 ## art:1.2.2.1 — Artesanías de Colombia
 
 Artesanías de Colombia S. A. tiene por objeto la promoción y el desarrollo de todas las actividades económicas, sociales, educativas y culturales, necesarias para el progreso de los artesanos del país y del sector artesanal.
 
 (Decreto 2291 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:1.2.2.2 — Fondo Nacional de Garantías
 
@@ -280,23 +218,17 @@ Tiene cómo objetivo el otorgamiento de garantías que permitan a la Mipyme (per
 
 (Decreto 633 de 1993, art. 240)
 
-ARTÍCULO
-
 ## art:1.2.2.3 — Banco de Comercio Exterior de Colombia - Bancoldex
 
 Tiene cómo objeto financiar, en forma principal pero no exclusiva, las actividades relacionadas con la exportación y en promover las exportaciones.
 
 (Decreto 663 de 1993, art. 283)
 
-ARTÍCULO
-
 ## art:1.2.2.4 — Fiduciaria de Comercio Exterior - FIDUCOLDEX
 
 Es aliado experto en servicios fiduciarios que apoyen la competitividad empresarial, nacional e internacional, a través de relaciones duraderas, para lograr un crecimiento sostenido, garantizar la rentabilidad y la sostenibilidad financiera de la empresa.
 
 (Decreto Ley 663 de 1993, art. 283)
-
-ARTÍCULO
 
 ## art:1.2.2.5 — Fideicomiso - PROCOLOMBIA
 
@@ -305,8 +237,6 @@ Organismo de promoción no financiera de las exportaciones mediante la constituc
 (Decreto 663 de 1993, art. 283)
 
 CAMARAS DE COMERCIO
-
-ARTÍCULO
 
 ## art:1.2.3.1 — Cámaras de Comercio
 
@@ -318,9 +248,7 @@ PARTE 3
 
 OTROS - PATRIMONIOS AUTONOMOS
 
-COLOMBIA PRODUCTIVA. 
-
-ARTÍCULO
+COLOMBIA PRODUCTIVA.
 
 ## art:1.3.1.1 — iNNpulsa Colombia
 
@@ -341,8 +269,6 @@ Este programa será un patrimonio autónomo con régimen privado y será adminis
 Todas las referencias que se hayan hecho o que se hagan al Programa de Transformación Productiva deben entenderse referidas a Colombia Productiva.
 
 (Ley 1955 de 2019, art. 163)
-
-ARTÍCULO
 
 ## art:1.3.1.2 — Junta Asesora
 
@@ -404,17 +330,13 @@ b) El Ministerio de Comercio, Industria y Turismo en su calidad de fideicomiten�
 
 (Título Adicionado por el Art.1 del Decreto 2052 de 2019)
 
-INNPULSA. 
-
-ARTÍCULO
+INNPULSA.
 
 ## art:1.3.2.1 — lnnpulsa
 
 Es un patrimonio autónomo, encargado de apoyar y promover el emprendimiento y la innovación cómo ejes para el desarrollo empresarial y la competitividad de Colombia. De igual manera, se encarga de implementar estrategias e instrumentos que brinden a las micro, pequeñas, medianas, y grandes empresas colombianas servicios financieros y no financieros para fortalecer las capacidades empresariales y el desarrollo económico nacional.
 
 El patrimonio autónomo se rige por normas de derecho privado, y será administrado directamente por el Banco de Comercio Exterior (Bancoldex).
-
-ARTÍCULO
 
 ## art:1.3.2.2 — Junta Asesora
 
@@ -450,15 +372,11 @@ DISPOSICIONES GENERALES
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este Decreto es compilar la normatividad vigente expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para la cumplida ejecución de las leyes en el sector de Comercio, Industria y Turismo.
 
 También se han incluido en la presente compilación algunos decretos expedidos en ejercicio conjunto de las facultades de los numerales 11 y 25 del artículo 189 de la Constitución Política en materia de comercio exterior.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de Aplicación
 
@@ -472,9 +390,7 @@ NORMAS QUE PROMOCIONAN LA INDUSTRIA Y EL DESARROLLO ECONÓMICO
 
 CAPÍTULO 1
 
-INSTRUMENTOS DE APOYO AL DESARROLLO EMPRESARIAL. 
-
-ARTÍCULO
+INSTRUMENTOS DE APOYO AL DESARROLLO EMPRESARIAL.
 
 ## art:2.2.1.1.1 — Participación de las Cámaras de Comercio en los programas de desarrollo empresarial
 
@@ -483,8 +399,6 @@ El Ministerio de Comercio Industria y Turismo, en concordancia con las funciones
 Las Cámaras de Comercio, en armonía con lo dispuesto en el artículo 2.2.2. 43.3. del presente Decreto, cómo resultado de la concertación a que hace referencia el artículo 23 de la Ley 905 de 2004, deberán destinar en los presupuestos anuales, parte de sus recursos para la realización de los programas de qué trata el presente artículo, de acuerdo con la disponibilidad financiera y las necesidades de las regiones donde les corresponde actuar. Estos programas serán ejecutados por las Cámaras de Comercio.
 
 (Decreto 3820 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2 — Concertación de las líneas de acción y definición de los programas, planes y proyectos a desarrollar
 
@@ -500,9 +414,7 @@ FONDO DE MODERNIZACION E INNOVACION PARA LAS MICRO, PEQUEÑA Y MEDIANAS EMPRESAS
 
 SECCIÓN 1
 
-DE LA ESTRUCTURA Y RECURSOS DEL FONDO DE MODERNIZACION E INNOVACION PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS. 
-
-ARTÍCULO
+DE LA ESTRUCTURA Y RECURSOS DEL FONDO DE MODERNIZACION E INNOVACION PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS.
 
 ## art:2.2.1.2.1.1 — Dirección, Administración y Secretaria Técnica del Fondo
 
@@ -511,8 +423,6 @@ En concordancia con lo establecido en el artículo 44 de la Ley 1450 de 2011, Ba
 (Derogado por el Art. 2 del Decreto 1331 de 2020)
 
 (Decreto 3321 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2 — Actividades de la Dirección
 
@@ -534,8 +444,6 @@ La dirección ejercerá las siguientes actividades:
 
 (Decreto 3321 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3 — Integración del Consejo Asesor
 
 El Consejo Asesor del Fondo estará integrado por:
@@ -553,8 +461,6 @@ PARÁGRAFO 2. Los integrantes del Consejo Asesor del Fondo podrán delegar su as
 (Derogado por el Art. 2 del Decreto 1331 de 2020)
 
 (Decreto 3321 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4 — Funciones del Consejo Asesor
 
@@ -577,8 +483,6 @@ El Consejo Asesor del Fondo tendrá las siguientes funciones:
 (Derogado por el Art. 2 del Decreto 1331 de 2020)
 
 (Decreto 3321 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.5 — Recursos del Fondo
 
@@ -604,8 +508,6 @@ SECCIÓN 2
 
 ENTREGA DE LA ADMINISTRACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Perfeccionamiento de la entrega
 
 Para el perfeccionamiento de la entrega de la administración a Bancoldex, el Ministerio de Comercio, Industria y Turismo desarrollara las siguientes actividades:
@@ -620,8 +522,6 @@ Para el perfeccionamiento de la entrega de la administración a Bancoldex, el Mi
 
 (Decreto 3321 de 2011, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.2 — Reclamaciones y procesos judiciales
 
 Las reclamaciones y procesos judiciales o administrativos que se adelanten contra el Fomipyme y que tengan su causa en hechos derivados antes de la cesión de los contratos y convenios a los que se refiere el artículo 2.2.1.2.2.1 de este Capítulo, permanecerán en cabeza del Ministerio de Comercio, Industria y Turismo.
@@ -632,8 +532,6 @@ Las reclamaciones y procesos judiciales o administrativos que se adelanten contr
 
 CAPÍTULO 3
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Red Nacional para el Emprendimiento
 
 La Red Nacional para el Emprendimiento (RNE), adscrita al Ministerio de Comercio, Industria y Turismo, o a quién haga sus veces, estará integrada por los delegados de las entidades e instituciones a las cuáles se refiere el artículo 5 de la Ley 1014 de 2006.
@@ -641,8 +539,6 @@ La Red Nacional para el Emprendimiento (RNE), adscrita al Ministerio de Comercio
 PARÁGRAFO. Los delegados a que se refiere el artículo 5 de la Ley 10 14 de 2006 tendrán sus respectivos suplentes, quienes asistirán a la reunión de la Red, con voz y voto, en ausencia del delegado principal. En presencia de los delegados principales, los suplentes podrán asistir con voz, pero sin voto a las reuniones de la RNE. Esta suplencia también se consignará en el acto de delegación formal a que se refiere el parágrafo 1 de dicho artículo.
 
 (Decreto 1192 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2 — Funcionamiento de la RNE
 
@@ -656,15 +552,11 @@ PARÁGRAFO. A las reuniones de la RNE podrán ser invitadas las entidades, insti
 
 (Decreto 1192 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3 — Secretaria Técnica de la RNE
 
 La Secretaria Técnica de la Red Nacional para el Emprendimiento será ejercida por el Viceministro de Desarrollo Empresarial del Ministerio de Comercio, Industria y Turismo o su delegado, y ejecutará sus funciones de manera articulada con la Comisión Nacional de Competitividad.
 
 (Decreto 1192 de 2009, art 3)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4 — Redes Regionales para el Emprendimiento
 
@@ -673,8 +565,6 @@ Las Redes Regionales para el Emprendimiento (RRE), adscritas a las Gobernaciones
 PARÁGRAFO. Los delegados a que se refiere el artículo 6 de la Ley 1014 de 2006 tendrán sus respectivos suplentes, quienes sólo asistirán a la reunión de la RRE, con voz y voto, en ausencia del delegado principal. De esta suplencia también deberá quedar constancia en el acto de delegación formal a que se refiere el parágrafo de dicho artículo.
 
 (Decreto 1192 de 2009, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5 — Funcionamiento de las RRE
 
@@ -824,8 +714,6 @@ Los representantes anteriormente mencionados, sesionarán por el periodo de un (
 
 PARÁGRAFO. Una vez entre en vigencia el presente decreto, el DAPRE con el apoyo técnico de la Unidad Administrativa Especial de Organizaciones Solidarias y el Ministerio de Comercio, Industria y Turismo contará con un término de tres (3) meses para diseñar e implementar mecanismos de participación ciudadana que garanticen la representación de los actores de la economía popular de acuerdo con los sectores correspondientes a los miembros de las entidades del orden nacional en el CNEP y consideren los resultados de la Asamblea Nacional de Economía Solidaria, Popular y Comunitaria y las 23 Asambleas Regionales de Economía Solidaria, Popular y Comunitaria que la Unidad Administrativa Especial de Organizaciones Solidarias adelantó durante el 2023.
 
-ARTÍCULO
-
 ## art:2.2.1.3.6 — Secretaria Técnica de las RRE
 
 La Secretaria Técnica de la Red Regional para el Emprendimiento, encargada de realizar todas las acciones de tipo administrativo, será ejercida por la Cámara de Comercio de la ciudad capital.
@@ -836,23 +724,17 @@ La entidad que ejerza la Secretaria Técnica trabajara de manera articulada con 
 
 (Decreto 1192 de 2009, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.3.7 — Objeto de las Redes Regionales para el Emprendimiento
 
 Las Redes Regionales para el Emprendimiento cuyos miembros deciden aunar esfuerzos técnicos, administrativos y financieros para su funcionamiento, complementarán su objeto señalado en el artículo 7 de la Ley 1014 de 2006, con la elaboración, en un plazo de seis (6) meses a partir del 3 de Abril de 2009, del plan estratégico regional para el desarrollo integral de la cultura para el emprendimiento y el establecimiento de mecanismos que faciliten su cumplimiento articulado con el Plan Regional de Competitividad y el Plan de Desarrollo Departamental.
 
 (Decreto 1192 de 2009, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.3.8 — Registro de las Redes Regionales para el Emprendimiento
 
 Las Redes Regionales para el Emprendimiento deberán registrarse en el Ministerio de Comercio, Industria y Turismo, mediante una comunicación escrita por parte de la Gobernación Departamental y dirigida al Ministro de Comercio, Industria y Turismo o a quién este delegue (o quién haga sus veces). Dicha comunicación debe incluir una copia del convenio de constitución de la Red debidamente suscrito por todos sus miembros y toda la información de composición y nombres completos de sus miembros con la respectiva información de contacto.
 
 (Decreto 1192 de 2009, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.3.9 — Informe anual de gestión de las Redes Regionales para el Emprendimiento
 
@@ -868,15 +750,11 @@ Sección, Adicionada por el Art.1 del Decreto 1646 de 2021
 
 UNIFICACION DE LAS FUENTES DE EMPRENDIMIENTO Y DESARROLLO EMPRESARIAL
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.1 — Objeto
 
 La presente Sección tiene por objeto establecer los lineamientos para la articulación de los programas, instrumentos y proyectos para el emprendimiento y el desarrollo empresarial con énfasis en emprendimiento e innovación empresarial en el país de las entidades de la Rama Ejecutiva del Poder Público en el orden nacional a través de impulsa Colombia, para dar cumplimiento a lo establecido en el artículo 46 de la Ley 2069 de 2020.
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.2 — Ámbito de aplicación
 
@@ -884,23 +762,17 @@ Esta Sección aplica a los organismos y entidades que integran la Rama Ejecutiva
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.3 — Deber de articulación
 
 Conforme a lo establecido en el artículo 46 de la Ley 2069 de 2020, las entidades que integran la Rama Ejecutiva del Poder Público en el orden nacional deberán articular con impulsa Colombia la oferta institucional de programas, instrumentos y proyectos dirigidos a impactar el emprendimiento en el país y/o a promover el desarrollo empresarial con énfasis en emprendimiento e innovación empresarial.
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.4 — Lineamientos para la articulación
 
 Para cumplir con lo establecido en el artículo 2.2. 1.2.3.3. del presente Decreto, adáptese la metodología y recomendaciones de "Articulación para la Competitividad (ArCo)", o las metodologías o instrumentos que hagan sus veces, cómo herramientas para optimizar la oferta institucional que recoge las intervenciones de política orientadas al emprendimiento y desarrollo empresarial desarrolladas por las entidades de la Rama Ejecutiva del orden nacional.
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.5 — Implementación de la metodología ArCo, o las metodologías o instrumentos que hagan sus veces
 
@@ -912,15 +784,11 @@ PARÁGRAFO 2. La implementación de las recomendaciones en materia de optimizaci
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.6 — Socialización de resultados y recomendaciones ArCo, o las metodologías o instrumentos que hagan sus veces
 
 Anualmente, en el proceso de formulación de los proyectos de inversión y en el marco de las actividades del Sistema Nacional de Competitividad e Innovación, se socializarán los resultados y recomendaciones de la metodología ArCo, o la que haga sus veces, a las entidades de la Rama Ejecutiva del orden nacional competentes.
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.7 — 3.7
 
@@ -929,8 +797,6 @@ Consideración de las recomendaciones ArCo, o la que haga sus veces, en el conce
 Los ministerios y departamentos administrativos, frente a aquellos proyectos de inversión en los cuáles sean ejecutores, podrán aplicar lo dispuesto en el primer inciso de este artículo a través de quién sea designado por el jefe de la entidad para tal propósito.
 
 (Modificado por el Art. 1 del Decreto 1838 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.8 — 3.8
 
@@ -944,23 +810,17 @@ Consideración de las recomendaciones ArCo, o la que haga sus veces, en el contr
 
 FONDOS TERRITORIALES TEMPORALES PARA EL DESARROLLO INTEGRAL Y REACTIVACION ECONÓMICA DE LAS EMPRESAS Y EMPRENDIMIENTOS
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.1 — Objeto
 
 La presente Sección tiene cómo propósito reglamentar el funcionamiento de los Fondos Territoriales Temporales, desarrollando los mecanismos y las acciones que deben emprender las entidades territoriales para cumplir con las condiciones, destinaciones y requisitos que impone el artículo 63 de la Ley 2069 de 2020.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.2 — Ámbito de aplicación
 
 Las disposiciones de esta sección aplican a los municipios que, voluntariamente, decidan constituir Fondos Territoriales Temporales para el Desarrollo Integral y Reactivación Económica de las Empresas y Emprendimientos; y aplica respecto de las acciones necesarias para el funcionamiento de los mismos, así cómo para el cumplimiento de las condiciones , destinaciones y requisitos que impone la Ley 2069 de 2020 para su operación.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.3 — Objetivo de los Fondos Territoriales Temporales
 
@@ -970,8 +830,6 @@ PARÁGRAFO. El municipio, previo a la creación del Fondo Territorial Temporal, 
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.4 — Temporalidad de los fondos
 
 De conformidad con el carácter de temporalidad que establece el artículo 63 de la Ley 2069 de 2020, los Fondos Territoriales Temporales podrán estar vigentes hasta el 31 de diciembre de 2026.
@@ -979,8 +837,6 @@ De conformidad con el carácter de temporalidad que establece el artículo 63 de
 PARÁGRAFO. Todos los actos y contratos que suscriban los Fondos Territoriales Temporales deberán tener cómo fecha máxima de liquidación el 31 de diciembre de 2026.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.5 — Fuentes de los recursos
 
@@ -998,8 +854,6 @@ Los recursos que integrarán los Fondos Territoriales Temporales, serán los sig
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.6 — Formulación de proyectos de inversión para su financiación con recursos del Sistema General de Regalías
 
 De acuerdo con lo establecido en el parágrafo 3 del artículo 63 de la Ley 2069 de 2020 y en cumplimiento a lo ordenado por la Ley 2056 de 2020, los Fondos Territoriales Temporales que se creen podrán formular proyectos de inversión que tengan por objeto atender las necesidades más urgentes de las empresas y emprendimientos de los municipios, a través de la sociedad fiduciaria con la cuál se constituya el patrimonio autónomo y que actúa cómo su vocera.
@@ -1009,8 +863,6 @@ La formulación de dichos proyectos de inversión deberá tramitarse de conformi
 PARÁGRAFO. Previa formulación del proyecto de inversión el Fondo Territorial deberá verificar que el mismo este incorporado en el Plan de Desarrollo Territorial en el capítulo de inversiones con cargo al SGR, según corresponda.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.7 — Contrato de fiducia de los Fondos Territoriales Temporales
 
@@ -1023,8 +875,6 @@ PARÁGRAFO 2. La comisión fiduciaria, así cómo cualquier otro gasto administr
 De igual manera, en los contratos de fiducia se deberá determinar la destinación de los saldos remanentes que existan al momento de la liquidación del Fondo.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.8 — Gobierno Corporativo
 
@@ -1044,8 +894,6 @@ El procedimiento de elección de los miembros independientes será definido por 
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.9 — Requisitos para la procedencia de los Fondos Territoriales Temporales en los municipios y distritos
 
 El municipio que desee crear un Fondo Territorial Temporal deberá cumplir los siguientes requisitos:
@@ -1055,8 +903,6 @@ Tener un porcentaje de desempleo superior al promedio nacional durante los ultim
 Contar con la aprobacion previa del Concejo Municipal o Distrital para crear el Fondo, para lo cual se verificara como minimo el cumplimiento de los numerales 1 y 2 del presente Articulo y las demas disposiciones contenidas en este Decreto.
 
 (Modificado por el Decreto 1034 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.10 — Destinación de los recursos del Fondo Territorial Temporal
 
@@ -1072,8 +918,6 @@ PARÁGRAFO 4. En aquellos eventos en que los recursos provengan de convenios cel
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.11 — Articulación de municipios
 
 En desarrollo de su autonomía, uno o más municipios podrán unir esfuerzos en la creación de un sólo Fondo Territorial Temporal, para generar un mayor impacto en sus respectivos territorios.
@@ -1083,8 +927,6 @@ Entre los municipios que hagan parte de la creación de este Fondo, se determina
 En caso de que se genere la unión de municipios, cada uno de ellos deberá cumplir con los requisitos establecidos en el artículo 2.2.1.3.3.9 de este Decreto.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.12 — Coordinación con la Política Pública Nacional de Emprendimiento
 
@@ -1096,8 +938,6 @@ PARÁGRAFO. El Ministerio de Comercio, Industria y Turismo, a través de impulsa
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.13 — Informes
 
 Los Fondos Territoriales, a través de los municipios que los crearon, deberán publicar en su página web, y en la página web del municipio, un informe trimestral con los resultados cualitativos y cuantitativos obtenidos frente al diagnóstico realizado sobre las necesidades más urgentes de las empresas y emprendimientos.
@@ -1105,8 +945,6 @@ Los Fondos Territoriales, a través de los municipios que los crearon, deberán 
 Los informes deberán contener, por lo menos, la siguiente información: (i) los indicadores para el seguimiento de resultados, (ii) número de empresas y emprendimientos que han sido atendidos o beneficiados por el fondo, (iii) la cifra de recursos ejecutados y (iv) una descripción de las distintas estrategias, líneas de acción, proyectos o iniciativas que han ejecutado para atender las necesidades más urgentes de las empresas y emprendimientos y los resultados en el desarrollo integral y reactivación económica. Estos informes se incorporarán cómo una obligación de los contratos de fiducia.
 
 (Adicionado por el Art. 1 del Decreto 1837 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4.14 — Aportes de las Gobernaciones
 
@@ -1118,17 +956,13 @@ PARÁGRAFO. Los aportes de las Gobernaciones que correspondan a recursos de inve
 
 CAPÍTULO 4
 
-PREMIO COLOMBIANO A LA INNOVACION EMPRESARIAL PARA LAS MIPYMES. 
-
-ARTÍCULO
+PREMIO COLOMBIANO A LA INNOVACION EMPRESARIAL PARA LAS MIPYMES.
 
 ## art:2.2.1.4.1 — Creación del premio
 
 Crease el Premio Nacional a la Innovación Empresarial, que se entregará bajo la denominación de Premio Colombiano a la Innovación Empresarial para las Mipymes, cómo estímulo a la investigación aplicada, creatividad, diseño e innovación empresarial".
 
 (Decreto 4490 de 2006 art. 1, modificado por el decreto 1448 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.2 — Objetivos
 
@@ -1141,8 +975,6 @@ Los objetivos del Premio Colombiano a la Innovación Empresarial para las Mipyme
 3. Promover la gestión integral hacia la innovación como fundamento de la productividad y competitividad.
 
 (Decreto 1780 de 2003, art. 2; modificado por el Decreto 1448 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.4.3 — Categorias
 
@@ -1170,15 +1002,11 @@ Los requisitos mínimos que deben cumplir las empresas para postularse al Premio
 
 (Decreto 4490 de 2006, art. 2; modificado por el Decreto 1448 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.4.4 — Categoría Especial
 
 Crease una categoría especial denominada "Premio a la Innovación para el Crecimiento Empresarial Extraordinario" que pretende exaltar y enaltecer las innovaciones que permiten el crecimiento de empresas de manera rapida, rentable y sostenida y así construir una narrativa más poderosa en mentalidad y cultura. Esta se escogera dentro de las seis (6) empresas ganadoras de las categorías enunciadas en el artículo tercero.
 
 (Decreto 1448 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.4.5 — Premio a las Mipymes
 
@@ -1202,23 +1030,17 @@ PARÁGRAFO 2. Los recursos necesarios para la ejecución anual del premio Colomb
 
 (Decreto 4490 de 2006, art. 3; modificado por el Decreto 1448 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.4.6 — Comité Técnico
 
 El Ministerio de Comercio, Industria y Turismo establecerá un Comité Técnico, con la participación del sector público y privado, para la coordinación general del Premio Colombiano a la Innovación Tecnológica Empresarial para las Mipymes, cuya Secretaria Técnica la ejercerá la Dirección de Mipymes. Así mismo, previa recomendación de dicho Comité, la Dirección de Mipymes presentara al Ministro de Comercio, Industria y Turismo el informe sobre los finalistas del premio. El premio se otorgará mediante decreto ejecutivo, a propuesta del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1780 de 2003, art. 6, modificado por el Decreto 734 de 2004, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.4.7 — Adjudicación
 
 La adjudicación del premio será certificada con diploma que llevará en la parte superior el escudo de la República de Colombia y la inscripción "Ministerio de Comercio, Industria y Turismo".
 
 (Decreto 1780 de 2003, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.4.8 — Entrega del premio
 
@@ -1235,8 +1057,6 @@ ZONAS ECONOMICAS ESPECIALES DE EXPORTACION.
 SECCIÓN 1
 
 DEFINICIONES Y ÁMBITO DE APLICACIÓN
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.1 — Definiciones
 
@@ -1256,8 +1076,6 @@ PARÁGRAFO. Para efectos de lo previsto en el artículo 7, numeral 3 de la Ley 6
 
 (Decreto 1227 de 2002, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.2 — Ámbito de aplicación
 
 El presente Capítulo se aplicará a las empresas que realicen nuevas inversiones dentro de los límites territoriales y áreas metropolitanas de los municipios de Buenaventura, Cucuta, Valledupar, Ipiales y Tumaco creadas cómo zonas especiales económicas de exportación por la Ley 677 de 2001 y el Decreto 045 de 2003
@@ -1266,15 +1084,11 @@ Las nuevas inversiones exigidas por la Ley 677 de 2001, serán calificadas como 
 
 (Decreto 1227 de 2002, art. 2) (Decreto 045 de 2003, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.3 — Actividades cubiertas
 
 El régimen establecido para las zonas especiales económicas de exportación, se aplicará a las empresas que realicen los proyectos industriales y los proyectos de infraestructura definidos en los artículos 5, 6, 7 y 16 de la Ley 677 de 2001.
 
 (Decreto 1227 de 2002, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.4 — Clasificación de los usuarios
 
@@ -1290,8 +1104,6 @@ SECCIÓN 2
 
 CONDICIONES DE ACCESO Y PROCEDIMIENTO PARA LA SUSCRIPCION DEL CONTRATO DE ADMISION
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.1 — Parámetros de acceso - inversión
 
 En aplicación del numeral 7 del artículo 7 de la Ley 677 de 2001, se modifican los parámetros de acceso establecidos en el numeral 3 de ese mismo artículo, así:
@@ -1304,8 +1116,6 @@ El 50% de la inversión total del proyecto deberá materializarse dentro de su p
 
 (Decreto 752 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.2 — Parámetros de acceso - mercados
 
 En aplicación del numeral 7 del artículo 7 de la Ley 677 de 2001, se modifican los parámetros de acceso establecidos en el numeral 5 de ese mismo artículo, así:
@@ -1313,8 +1123,6 @@ En aplicación del numeral 7 del artículo 7 de la Ley 677 de 2001, se modifican
 El cincuenta por ciento (50%) de las ventas de la empresa deben estar destinadas a los mercados externos.
 
 (Decreto 752 de 2014 art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.3 — Proyectos que utilicen materias primas agropecuarias
 
@@ -1330,15 +1138,11 @@ PARÁGRAFO. Para los efectos del presente artículo, se entenderá por desecho o
 
 (Decreto 1227 de 2002, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.4 — Condiciones de acceso para los proyectos de infraestructura
 
 Un proyecto de infraestructura será elegible cuando cumpla las condiciones exigidas en los artículos 6 y 7 de la Ley 677 de 200.
 
 (Decreto 1227 de 2002, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.5 — Procedimiento para la suscripción del contrato de admisión
 
@@ -1370,15 +1174,11 @@ SECCIÓN 3
 
 CONDICIONES PARA EL GOCE DE LOS BENEFICIOS DEL RÉGIMEN
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.1 — Condiciones
 
 Para que un proyecto pueda gozar de los beneficios de la Ley 677 de 2001, el inversionista elegido deberá suscribir el respectivo contrato de admisión, constituir la póliza de cumplimiento en los términos previstos en el contrato y allegar copia del contrato de auditoría externa suscrito con una firma de reconocido prestigio.
 
 (Decreto 1227 de 2002, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.2 — Contrato de admisión
 
@@ -1388,8 +1188,6 @@ PARÁGRAFO. Sin perjuicio de lo dispuesto en el numeral 5 del artículo 10 de la
 
 (Decreto 1227 de 2002, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.3 — Póliza de cumplimiento
 
 Para asegurar el cumplimiento de todos los compromisos adquiridos en el respectivo contrato, dentro de los diez (10) días hábiles siguientes a la suscripción del contrato de admisión, el inversionista constituira garantía bancaria o de compañía de seguros legalmente establecida en el país y a favor de la Nación-Ministerio de Comercio, Industria y Turismo, por el diez por ciento (10%) del valor total de la inversión.
@@ -1398,15 +1196,11 @@ La vigencia de la póliza será por el período que se pacte en el contrato de a
 
 (Decreto 752 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.4 — Garantías aduaneras
 
 El otorgamiento de garantías aduaneras se regira por los incisos 2 y 3 del artículo 9 de la Ley 677 de 2001 y en lo alli no regulado, se regira por lo establecido en la legislación aduanera vigente.
 
 (Decreto 1227 de 2002, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.5 — Auditoria externa
 
@@ -1424,15 +1218,11 @@ SECCIÓN 4
 
 RÉGIMEN LABORAL
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.1 — Practica de visitas
 
 El Ministerio de Trabajo, a través de las direcciones territoriales de trabajo, podrá practicar visitas a las empresas que hayan suscrito contrato de admisión, con el objeto de verificar el cumplimiento de las condiciones laborales y de seguridad social de los trabajadores a su servicio.
 
 (Decreto 1227 de 2002, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.2 — Condición para la disminución de aportes
 
@@ -1445,8 +1235,6 @@ Para hacer efectiva la disminución de los aportes al Instituto Colombiano de Bi
 3. Copia de la documentación que acredite la afiliación de los trabajadores al sistema de seguridad social integral
 
 (Decreto 1227 de 2002, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.3 — Acreditación de cumplimiento de los compromisos
 
@@ -1472,8 +1260,6 @@ PARÁGRAFO. Para los fines del derecho a subsidio familiar, las empresas que hay
 
 (Decreto 1227 de 2002, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.4 — Sistema general de seguridad social en salud y sistema de riesgos profesionales
 
 Para efectos de la afiliación del trabajador y su familia al sistema general de seguridad social en salud, las empresas que hayan suscrito el correspondiente contrato de admisión para desarrollar proyectos específicos en la zona especial económica de exportación, deberán dar cumplimiento a lo previsto por la Ley 100 de 1993 y sus decretos reglamentarios, en lo concerniente a afiliación, ingreso base de la cotización, cobertura familiar, plan obligatorio de salud y demás disposiciones de obligatorio cumplimiento. Para la afiliación al sistema general de riesgos profesionales, se aplicarán las normas establecidas en la Ley 100 de 1993, el Decreto 1295 de 1994 y demás normas que regulen la materia y aquellas que las modifiquen, adicionen o sustituyan.
@@ -1481,8 +1267,6 @@ Para efectos de la afiliación del trabajador y su familia al sistema general de
 PARÁGRAFO. La cotización para los sistemas de salud y riesgos profesionales siempre se efectuará sobre un ingreso base de cotización mínimo, equivalente a un salario mínimo legal mensual y máximo sobre un ingreso base de cotización equivalente a veinte (20) veces dicho salario.
 
 (Decreto 1227 de 2002, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.5 — Cotizaciones al sistema general de seguridad social en pensiones
 
@@ -1496,15 +1280,11 @@ La Superintendencia Financiera ajustara, en lo pertinente, el formulado de autol
 
 (Decreto 1227 de 2002, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.6 — Cotización a seguridad social por semanas
 
 Además de las condiciones laborales especiales consagradas en el artículo 15 de la Ley 677 de 2001, los usuarios de las Zonas Economicas Especiales de Exportación podrán dar aplicación al régimen de cotización a seguridad social por semanas contenido en la normatividad vigente al respecto.
 
 (Decreto 752 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.7 — Deber de información del trabajador al empleador
 
@@ -1518,15 +1298,11 @@ SECCIÓN 5
 
 CONTROL Y SANCIONES APLICABLES A LOS USUARIOS INDUSTRIALES Y DE INFRAESTRUCTURA
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.1 — Sanciones aplicables a los usuarios industriales y de infraestructura
 
 Sin perjuicio de las sanciones aduaneras, cambiarias, laborales y de seguridad social a que haya lugar, los casos de incumplimiento se regulan de acuerdo con lo previsto en el inciso 4 del artículo 9 y en el numeral 1 del artículo 10 de la Ley 677 de 2001.
 
 (Decreto 1227 de 2002, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.2 — Sanciones aduaneras
 
@@ -1534,15 +1310,11 @@ A los usuarios industriales y de infraestructura, les serán aplicables, en lo q
 
 (Decreto 1227 de 2002, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.3 — Control aduanero
 
 Corresponderá a la Dirección de Impuestos y Aduanas Nacionales, DIAN, ejercer el control aduanero del ingreso y salida de las mercancías, con el fin de garantizar el cumplimiento de la ley y del presente decreto.
 
 (Decreto 1227 de 2002, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.4 — Ingreso y salida de bienes
 
@@ -1558,15 +1330,11 @@ La salida de bienes de la zona especial económica de exportación al resto del 
 
 (Decreto 1227 de 2002, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.5 — 5.5
 
 Responsabilidad por sustracción o pérdida de los bienes extranjeros introducidos a las zonas especiales económicas de exportación. Los usuarios responderán ante la Dirección de Impuestos y Aduanas Nacionales, DIAN, por los tributos aduaneros y las sanciones a que haya lugar, en los casos de sustracción o pérdida de los bienes introducidos a las zonas especiales económicas de exportación.
 
 (Decreto 1227 de 2002, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.6 — Régimen especial aplicable
 
@@ -1579,8 +1347,6 @@ En los demás aspectos, el régimen aplicable será el previsto en la legislaci�
 SECCIÓN 6
 
 OTRAS DISPOSICIONES
-
-ARTÍCULO
 
 ## art:2.2.1.5.6.1 — Articulación con las entidades territoriales
 
@@ -2378,15 +2144,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.1 — Objeto
 
 El presente capítulo tiene por objeto reorganizar el Subsistema Nacional de la Calidad-SNCA en materia de normalización, reglamentacion tecnica, acreditación, evaluación de la conformidad, metrologia y vigilancia y control.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.1.2 — Ámbito de aplicación
 
@@ -2400,23 +2162,17 @@ ESQUEMA GENERAL DEL SUBSISTEMA NACIONAL DE LA CALIDAD (SNCA)
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.3 — Denominación
 
 El Subsistema Nacional de la Calidad-SNCA hace parte del Sistema Administrativo Nacional de Competitividad e Innovación de que trata el capitulo 6 del título 1 de la parte 2 del libro 2 del presente Decreto. Adicionalmente, hace parte del Sistema Andino de Calidad.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.4 — Definición
 
 El Subsistema Nacional de la Calidad-SNCA esta compuesto por instituciones públicas y privadas que realizan actividades de cualquier orden para la formulación, ejecucion y seguimiento de las politicas en materia de normalización, reglamentación técnica, acreditación, evaluación de la conformidad, metrología y vigilancia y control.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.1.5 — Objetivos del SNCA
 
@@ -2439,8 +2195,6 @@ El Subsistema Nacional de la Calidad - SNCA tiene como objetivos fundamentales l
 SECCIÓN 2
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.2.1.7.2.1 — Definiciones
 
@@ -2680,8 +2434,6 @@ SECCIÓN 3
 
 NORMALIZACION
 
-ARTÍCULO
-
 ## art:2.2.1.7.3.1 — Normalización
 
 La normalización técnica en Colombia sera desarrollada por el Organismo Nacional de Normalización, el cuál ejercerá las funciones previstas en el presente capítulo.
@@ -2689,8 +2441,6 @@ La normalización técnica en Colombia sera desarrollada por el Organismo Nacion
 El Instituto Colombiano de Normas Técnicas y Certificación ICONTEC ejercera las funciones de Organismo Nacional de Normalización.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.3.2 — 3.2
 
@@ -2701,8 +2451,6 @@ La Normalización Técnica será adelantada además por:
 2. Las restantes entidades gubernamentales que tengan funciones de normalización, de acuerdo con su régimen legal.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.3.3 — Funciones
 
@@ -2750,15 +2498,11 @@ Serán funciones del organismo nacional de normalización, las siguientes:
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.3.4 — Representación del Gobierno Nacional
 
 El Gobierno Nacional estará representado en el Consejo Directivo del Nacional de normalización en una proporcion equivalente a una tercera parte de sus miembros. Esta participacion sera coordinada por la Comision Intersectorial de la Calidad y deberá reflejarse en los estatutos del organismo nacional de normalización.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.3.5 — Contratos para el desarrollo de la actividad de normalización
 
@@ -2766,15 +2510,11 @@ En desarrollo de contratos suscritos entre el organismo nacional de normalizaci�
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.3.6 — Programa anual de normalización
 
 El programa anual de normalización deberá ser adelantado por el organismo nacional de normalización, con el apoyo de las unidades sectoriales de normalización, y deberá contener el plan de normas técnicas que se pretenden elaborar y revisar. Para tales efectos, la propuesta del programa anual de normalización a ejecutarse el siguiente año deberá ser presentada ante la Comisión Intersectorial de la Calidad, a través de su Secretaria Técnica, para su visto bueno y observaciones, a más tardar en la ultima reunión ordinaria del año.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.3.7 — Aprobación del programa anual de normalización
 
@@ -2783,8 +2523,6 @@ Previo los ajustes correspondientes, el programa anual de normalización debera 
 En la elaboración del programa anual de normalización, así cómo en su actualización, el organismo nacional de normalización deberá priorizar el desarrollo de normas técnicas en los temas definidos por la Comisión Intersectorial de la Calidad.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.3.8 — Contenido del programa anual de normalización
 
@@ -2802,8 +2540,6 @@ El programa anual de normalización deberá contener, al menos, los siguientes e
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.3.9 — Incorporación de normas técnicas en reglamentos técnicos
 
 Cuando una norma técnica colombiana se utilice parcial o totalmente cómo fundamento de un reglamento técnico u otra medida de carácter obligatorio, esta podrá ser incorporada total o parcialmente por la entidad reguladora en el reglamento técnico o en otra medida de carácter obligatorio. Para efectos de lo anterior, el organismo nacional de normalización suministrara la norma correspondiente.
@@ -2814,15 +2550,11 @@ SECCIÓN 4
 
 UNIDADES SECTORIALES DE NORMALIZACION
 
-ARTÍCULO
-
 ## art:2.2.1.7.4.1 — Función de las Unidades Sectoriales de Normalización
 
 Las unidades sectoriales de normalización tendrán cómo función la preparación de normas propias de un sector, dentro de los lineamientos internacionales establecidos para la correspondiente actividad.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.4.2 — Constitución de Unidades Sectoriales de Normalización
 
@@ -2836,8 +2568,6 @@ SECCIÓN 5
 
 REGLAMENTACIÓN TÉCNICA
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.1 — Lineamientos para la reglamentación técnica
 
 Las entidades reguladoras deberán adoptar buenas prácticas de reglamentación técnica de manera que esta no tenga por objeto o efecto crear obstáculos innecesarios al comercio.
@@ -2845,8 +2575,6 @@ Las entidades reguladoras deberán adoptar buenas prácticas de reglamentación 
 Las disposiciones aquí contenidas son complementarias a las disposiciones en materia de transparencia, consulta y buenas prácticas internacionales.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.2 — Referencia en normalización técnica nacional e internacional
 
@@ -2860,8 +2588,6 @@ Además de los requisitos definidos en este Capítulo, se deberá solicitar conj
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.3 — Competencia conjunta
 
 Las entidades reguladoras deberán ejercer actividades de reglamentación técnica en conjunto, cuando la competencia de cada una de ellas recaiga sobre aspectos complementarios que versen sobre un mismo producto o instalación. 
@@ -2869,8 +2595,6 @@ Las entidades reguladoras deberán ejercer actividades de reglamentación técni
 Además de los requisitos definidos en este Capítulo, se deberá solicitar conjuntamente, ante el Ministerio de Comercio, Industria y Turismo, el concepto previo para los proyectos de reglamentos técnicos y de procedimientos de evaluación de la conformidad y enviar al Punto de Contacto OTCIMSF de Colombia los proyectos para su notificación. 
 
 (Modificado por el Art. 2 del Decreto 1468 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.4 — Buenas prácticas de reglamentación técnica
 
@@ -2946,8 +2670,6 @@ PARÁGRAFO 3. Las entidades no podrán crear o modificar trámites, procesos o p
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.5 — Tiempos de consulta pública
 
 Sin perjuicio de lo establecido en el Artículo 2.1.2.1.25. del Decreto 1081 de 2015, las entidades reguladoras que emitan reglamentos técnicos deberán abrir la consulta pública a nivel nacional el) los siguientes casos:
@@ -2968,8 +2690,6 @@ En todo caso, en ningún momento se elimina la necesidad de surtir y cumplir con
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.6 — Solicitud de concepto previo
 
 Con el fin de surtir el trámite de notificación de un proyecto de reglamento técnico o de procedimientos de evaluación de la conformidad, en los términos del Acuerdo de Obstaculos Técnicos al Comercio de la Organización Mundial del Comercio, previamente, las entidades reguladoras deberán solicitar concepto a la Dirección de Regulación del Ministerio de Comercio, Industria y Turismo, en relación con el cumplimiento de los lineamientos del Subsistema Nacional de la Calidad y la potencialidad de constituir obstáculos técnicos innecesarios al comercio con otros países.
@@ -2981,8 +2701,6 @@ PARÁGRAFO 2. La solicitud de este concepto sólo deberá realizarse cuando se t
 (Modificado por el Art. 2 del Decreto 1468 de 2020)
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.7 — Documentos requeridos para la solicitud de concepto previo
 
@@ -3000,8 +2718,6 @@ Junto con la solicitud de concepto previo, la autoridad competente deberá poner
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.8 — Término para la emisión de concepto previo
 
 El Ministeriode Comercio, Industria y Turismo, a través de la Dirección de Regulación, rendira concepto previo dentro de los quince (15) días hábiles siguientesa la fecha de radicación de la solicitud del concepto, junto con los demás documentos a que se refiere el presente Decreto.
@@ -3010,15 +2726,11 @@ El Ministeriode Comercio, Industria y Turismo, a través de la Dirección de Reg
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.9 — Constancia de solicitud de concepto previo
 
 En la parte considerativa de los actos administrativos através de los cuales se expidan reglamentos técnicos o procedimientos de evaluación de la conformidad de los que trata el presente Decreto, deberá constar que sesolicito el concepto previo del Ministerio de Comercio, Industria y Turismo, y los términos en que el mismo fue emitido.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.10 — Notificación
 
@@ -3034,15 +2746,11 @@ PARÁGRAFO 3. Conforme con lo establecido en el artículo 72 de la Ley 1480 de 2
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.11 — Constancia de notificación
 
 En la parte considerativa de los actos administrativos a través de los cuáles se expidan reglamentos técnicos o procedimientos de evaluación de la conformidad de los que trata el presente, deberá constar que se notificó a través de la CMC, mediante la correspondiente asignatura otorgada por la OMC.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.12 — Reglamentos técnicos de emergencia o urgencia
 
@@ -3054,15 +2762,11 @@ PARÁGRAFO. No obstante, lo dispuesto en este artículo, las entidades regulador
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.13 — Determinación de equivalencias
 
 Las entidades reguladoras seran competentes para determinarlas equivalencias de los reglamentos tecnicos, previo estudio técnico que las soporten. En caso de que con posterioridad a la expedición de un reglamento técnico se encuentren nuevas equivalencias, el regulador respectivo las incorporará al reglamento técnico mediante un acto modificatorio del mismo.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.14 — Obligación de tener un establecimiento de comercio en Colombia
 
@@ -3070,15 +2774,11 @@ Todo productor o importador de productos que estén sujetos al cumplimiento de r
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.15 — Autorización de importación para uso personal
 
 Sólo en el caso de importacionesde productos sujetos al cumplimiento de reglamentos técnicos vigilados por la Superintendencia de Industria y Comercio, destinados exclusiva y directamente para uso personal, privado, familiar y doméstico del importador como destinatario final de los bienes importados, esta entidad podrá expedir la autorización de ingreso sin necesidad de presentar el certificado de conformidad correspondiente. La entidad podrá negarse a expedir la autorización, cuando la cantidad o la frecuencia de las solicitudes permitan suponer fines distintos a los indicados en el presente artículo o que los productos representen un riesgo para la salud o el medio ambiente.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.16 — Excepciones al reglamento técnico
 
@@ -3090,8 +2790,6 @@ SECCIÓN 6
 
 ELABORACION Y EXPEDICIÓN DE REGLAMENTOS TECNICOS
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.1 — Elaboración y expedición de reglamentos técnicos
 
 Para efectosde la elaboraciony expedición de reglamentos técnicos, estos deberán estar enmarcados dentro de la defensa de los objetivos legitimos, de conformidad con lo establecido en el Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
@@ -3099,8 +2797,6 @@ Para efectosde la elaboraciony expedición de reglamentos técnicos, estos deber
 Se considerarán objetivos legítimos, entre otros, los imperativos de la seguridad nacional, la prevención de prácticas que puedan inducir a error, la protección de la salud o seguridad humana, de la vida, la salud animal o vegetal o del medio ambiente.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.2 — Análisis de Impacto Normativo (AIN)
 
@@ -3122,8 +2818,6 @@ PARÁGRAFO 2. La entidad deberá realizar el AIN siguiendo la Plantilla Única d
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.3 — Contenido del análisis de impacto normativo
 
 El contenido del AIN deberá estar en línea con la metodología establecida por el Departamento Nacional de Planeación de acuerdo con el tipo de AIN que aplique, la cuál podrá ser consultada en su página Web.
@@ -3133,8 +2827,6 @@ El análisis de impacto normativo se podrá apoyar en metodologías de evaluaci�
 (Modificado por el Art. 3 del Decreto 1468 de 2020)
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.4 — Problematicas sujeto de AIN
 
@@ -3146,8 +2838,6 @@ PARÁGRAFO 1. Se exceptuan de lo dispuesto en este artículo, los reglamentos t�
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.5 — Revisión del AIN por parte del Departamento Nacional de Planeación
 
 Una vez las entidades tengan listo el documento de AIN para someterlo a consulta pública, deberán enviarlo al Departamento Nacional de Planeación para que este, dentro del mismo plazo establecido para la consulta pública del AIN, emita concepto técnico sobre la aplicación de la metodología del AIN. Para estos efectos, las entidades solicitarán al Departamento Nacional de Planeación la revisión del AIN.
@@ -3157,8 +2847,6 @@ El concepto del Departamento Nacional de Planeación no es vinculante. Sin embar
 (Modificado por el Art. 3 del Decreto 1468 de 2020)
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.6 — Niveles de riesgos
 
@@ -3175,8 +2863,6 @@ PARÁGRAFO. Con la presentación de la declaración de conformidad de primera pa
 (Modificado por el Art. 3 del Decreto 1468 de 2020)
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.7 — Evaluación ex post o AIN ex post de reglamentos técnicos
 
@@ -3202,8 +2888,6 @@ Sin perjuicio de lo anterior, a partir del 2022 la entidad deberá evaluar al me
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.8 — Inventario de reglamentos técnicos y proyectos de reglamento técnico
 
 Las entidades reguladoras designarán en su entidad un área específica encargada de elaborar y mantener actualizado un inventario de los reglamentos técnicos y proyectos de reglamentos técnicos de su competencia, con fines informativos, así cómo su correspondiente informe de análisis de impacto normativo, de manera que puedan estar permanentemente a disposición del público en sus correspondientes paginas web institucionales. El Ministerio de Comercio, Industria y Turismo, a través de la Dirección de Regulación, será el encargado de hacer seguimiento a la publicación del inventario de reglamentos técnicos que cada entidad deberá realizar en sus respectivas paginas web, o en el sitio web destinado para tal fin. "
@@ -3216,15 +2900,11 @@ SECCIÓN 7
 
 ACREDITACION
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1 — Objeto de la actividad de acreditación
 
 La actividad de acreditación tiene como objeto emitir una declaración de tercera parte relativa a un organismo de evaluación de la conformidad, en la cuál se manifiesta la demostración formal de su competencia para realizar actividades específicas de la evaluación de la conformidad.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.2 — Organismo nacional de acreditación
 
@@ -3233,8 +2913,6 @@ La actividad de acreditación será ejercida de manera exclusiva por el Organism
 Las entidades públicas que ejercen la función de acreditación serán coordinadas por el Organismo Nacional de Acreditación de Colombia-ONAC.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.3 — Función del organismo nacional de acreditación
 
@@ -3250,23 +2928,17 @@ Parágrafo. Los costos serán estimados de acuerdo con la complejidad de la acre
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.4 — Criterios específicos de acreditación
 
 Por necesidades sectoriales, los criterios generales de acreditación se pueden complementar con criterios específicos para un sector o actividad de evaluación de la conformidad, establecidos en documentos denominados "Criterios Específicos de Acreditacion"- CEA aprobados por el Organismo Nacional de Acreditación. El Organismo Nacional de Acreditacionde Colombia invitará a las partes interesadas a participar en la construcción de los CEA.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.5 — Reconocimiento de la acreditación
 
 La condición de acreditado será reconocida dentro del Subsistema Nacional de la Calidad -SNCA siempre y cuando la acreditación haya sido otorgada por el Organismo Nacional de Acreditación de Colombia o por entidades públicas que legalmente ejercen esta función, o por entidades acreditadoras extranjeras reconocidas en el marco de los acuerdos de reconocimiento multilateral, de acuerdo con lo dispuesto en la sección 9 del presente capítulo.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.6 — Representación a cargo del Organismo Nacional de Acreditación
 
@@ -3304,8 +2976,6 @@ El Organismo Nacional de Acreditacion de Colombia representara y llevará la pos
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.7 — Información sobre la acreditación en Colombia
 
 El Organismo Nacional de Acreditación es la unica fuente oficial de información sobre la acreditación en Colombia. En consecuencia, el ONAC contará con dos (2) días hábiles para actualizar y poner a disposición del público la información correspondiente a los organismos acreditados en Colombia, desde el momento en que queda suscrito el contrato de acreditación entre el organismo de evaluación de la conformidad y el ONAC.
@@ -3315,8 +2985,6 @@ Adicionalmente, el organismo nacional de acreditación deberá informar a la ent
 PARÁGRAFO. El estado de la acreditación operará a partir de la publicación en el sitio web del Organismo Nacional de Acreditación.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.8 — Representación del sector público en el Consejo Directivo del Organismo Nacional de Acreditación - ONAC
 
@@ -3328,8 +2996,6 @@ SECCIÓN 8
 
 ORGANISMOS DE EVALUACIÓN DE LA CONFORMIDAD
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.1 — Actuación de los organismos de evaluación de la conformidad
 
 Los organismos evaluadores de la conformidad radicados en el país deberán ser acréditados por el Organismo Nacional de Acreditación respecto a un documento normativo para realizar actividades de evaluación de la conformidad frente a un reglamento técnico, tales como certificación, inspección, realización de ensayo/prueba y calibración, o la provisión de ensayos de aptitud y otras actividades acreditables. Cuando el organismo nacional de acreditación no tenga la competencia técnica para acreditar un organismo en un alcance requerido, podrá acudir al esquema definido para la acreditación transfrontera con el fin de prestar el servicio en el país. Los organismos evaluadores de la conformidad radicados en el exterior se sujetarán a lo establecido en el artículo 2.2.1.7.9.2, númerales 2, 3 y 4 del presente Decreto.
@@ -3338,15 +3004,11 @@ PARÁGRAFO. No podrán realizar actividadesde certificacione inspeccionlas entid
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.2 — Expedición de los certificados de conformidad
 
 Los organismos de certificación expedirán un certificado de conformidad una vez revisado el cumplimiento de los requisitos especificados. Los documentos soporte para la expedición de certificados de conformidad con reglamentos técnicos, deberán contener por lo menos: evidencias objetivas de la verificación de todos los requisitos exigidos por el reglamento técnico, con los registros documentales correspondientes, los metodos de ensayo, el plan de muestreo, los resultados de la evaluación, la identificación de los productos o las categoriasde producto, la vigencia y el esquema de certificación utilizado, de acuerdo con la NTC ISO/IEC 7067o la que la reemplace.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.3 — Obligaciones de los organismos acreditados
 
@@ -3386,23 +3048,17 @@ Son obligaciones de los organismos acreditados las siguientes:
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4 — Investigaciones y procedimientos administrativos contra organismos acreditados
 
 Cuando se inicie una investigación o un procedimiento administrativo en el que estén involucrados organismos acréditados por el organismo nacional de acreditación, o resultados de evaluación de la conformidad emitidos por ellos, la autoridad que conozca del asunto deberá informar al organismo nacional de acreditación con el fin de que este evalue las actúaciones de su competencia e informe a su consejo directivo.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.5 — Responsabilidad ele los organismos de evaluación de la conformidad
 
 De conformidad con lo señalado en el articulo73 dela Ley1480 de 2011, y sin perjuicio de los demás tipos de responsabilidad, los organismos de evaluación de la conformidad serán responsables por los serviciosde evaluación que presten o que hayan reconocido dentro del marco del certificado o del documento de evaluación de la conformidad que hayan expedido o reconocido.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.6 — Polizas de responsabilidad civil profesional de los Organismos Evaluadores de la Conformidad
 
@@ -3430,15 +3086,11 @@ SECCIÓN 9
 
 PROCEDIMIENTOS DE EVALUACIÓN DE LA CONFORMIDAD
 
-ARTÍCULO
-
 ## art:2.2.1.7.9.1 — Aplicación de los procedimientos de evaluación de la conformidad
 
 Los procedimientos de evaluación de la conformidad de que trata la presente sección se entenderán para productos, personas, sistemas de gestión, instalaciones y procesos.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.9.2 — Procedimiento para la evaluación de la conformidad de productos
 
@@ -3466,8 +3118,6 @@ Obtenido el certificado de conformidad, el importador deberá adjuntar la licenc
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.9.3 — Procedimiento para la evaluación de la conformidad de productos
 
 El procedimiento para la evaluación de la conformidad dependerá de los niveles de riesgo contemplados en el reglamento técnico correspondiente, de acuerdo con lo dispuesto en el artículo 2.2.1.7.6.6. del presente Decreto. Para tal efecto, el procedimiento de evaluación de la conformidad deberá señalar por lo menos los siguientes elementos:
@@ -3490,15 +3140,11 @@ El procedimiento para la evaluación de la conformidad dependerá de los niveles
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.9.4 — Certificados de conformidad de producto
 
 Los certificados de conformidad de producto deberán ser emitidos conforme con los esquemas de certificación establecidos en la guía NTC/ISO/IEC17067 o la que la modífique o sustituya y los que se establezcan cómo validos en el respectivo reglamento técnico.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.9.5 — Realización de ensayos en laboratorios
 
@@ -3509,8 +3155,6 @@ Cuando no exista en Colombia laboratorio acreditado para la realización de los 
 El organismo de certificación de producto o el de inspección, segun corresponda, sólo podrá utilizar estos laboratorios para los efectos previstos en este capítulo hasta que se acrédite el primer laboratorio en Colombia o hasta un año después de que dicho laboratorio haya sido definido por el organismo de certificación o de inspección.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.9.6 — Procedimiento para evaluar la conformidad de personas
 
@@ -3524,15 +3168,11 @@ PARÁGRAFO. El Servicio Nacional de Aprendizaje - SENA - adelantara todas las ac
 
 (Decreto 1595 de 2015 art. 3; Parágrafo modificado por el Decreto 1366 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.9.7 — Elementos del procedimiento de evaluación de la conformidad de personas
 
 El procedimiento de evaluación de la conformidad de personas debera señalar, por lo menos los siguientes elementos: la norma de requisitos de competencia; el ente regulador deberá establecer el esquema de certificación o en caso de no hacerlo señalar el responsable, el cuál deberá definir la competencia y los requisitos relacionados con las categorías de ocupaciones específicas o habilidades de personas; referentes normativos validos para la aceptación de resultados de evaluación de la conformidad, equivalencia entre normas y equivalencia entre reglamentos técnicos.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.9.8 — Certificaciones de Competencia Laboral
 
@@ -3544,23 +3184,17 @@ PARÁGRAFO : Hasta tanto el Ministerio del Trabajo expida la reglamentación est
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.9.9 — Procedimiento para evaluar la conformidad de sistemas de gestión
 
 En los casos en que un reglamento técnico establezcala exigencia de la certificación de sistemas de gestión, dicho certificado deberá ser expedido por un organismo de certificación de sistemas de gestión acreditado ante elorganismo nacional de acreditación, y el alcance de su acreditación deberá incluirelsector económico al que corresponde el producto o servicio suministrado por el proveedor. Se considerarán validos los certificados de conformidad de sistemas de gestión emitidos por organismos de certificación acreditados por entidades que sean parte de los acuerdos de reconocimiento mutuo de los quesea signatario el organismo de acreditación de Colombia.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.9.10 — Elementos del procedimiento de evaluación de la conformidad de sistemas de gestión
 
 El procedimiento de evaluación dela conformidadquesecontempleenlosreglamentostecnicosenlosqueseexijala certificación de los sistemas de gestión deberá señalar, al menos, los siguientes elementos: la norma de requisitos del sistema de gestión que corresponda, el alcance de la certificación del sistema de gestión en términos del producto o servicio que se suministra, normas internacionales equivalentes y equivalencia entre reglamentos técnicos.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.9.11 — Certificados de conformidad de sistemas de gestión
 
@@ -3572,8 +3206,6 @@ SECCIÓN 10
 
 EVALUACIÓN DE LA CONFORMIDAD MEDIANTE INSPECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.7.10.1 — Evaluación de la conformidad mediante inspección
 
 La evaluación de la conformidad mediante prácticas de inspección deberá ser realizada por un organismo de inspección de tercera parte o tipo A, según la NTC-ISO/IEC17020 y su actualización eso modificaciones, acreditado por el organismo nacional de acreditación, en el ámbito de inspección del reglamento técnico, salvo decision justificada por parte del regulador competente. Dicho reglamento deberá establecer un procedimiento único de inspección según el tipo de elemento a inspeccionare incluir, cuando sea el caso, los equipos, software e instalaciones requeridas para realizarla inspección.
@@ -3582,15 +3214,11 @@ Para efectos del presente artículo, se considerarán justas causas, entre otras
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.10.2 — Requisitos de competencia laboral y certificaciones requeridas para la inspección
 
 El reglamento técnico que establezca las condiciones parala inspección de un elemento, deberá determinar los requisitos de competencia laboral y las certificaciones necesarias para demostrarla competencia de las personas que realizan la inspección y aprueban el informe.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.10.3 — Limitación de los organismos de inspección
 
@@ -3598,23 +3226,17 @@ En materia de reglamentos técnicos, el organismo de inspección acreditado de t
 
 (Decreto 2126 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.10.4 — Verificación de productos por parte de los organismos de inspección
 
 El organismo de inspección deberá verificar que los productos utilizados en los elementos que inspecciona, y que están sujetos a reglamento técnico, cuenten con los respectivos certificados de conformidad, los cuáles deberán ser emitidos con base en el procedimiento establecido en el artículo 2.2.1.7.9.2. de este Decreto. Lo anterior, sin perjuicio de lo dispuesto en el respectivo reglamento técnico.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.10.5 — Informe de Inspección
 
 Una vez ejecutada la inspección, el organismo de inspección deberá emitir un informe con los resultados de la inspección, conforme con los requisitos establecidos en la norma NTC-ISO/IEC17020 o la que la modifique, adicione o sustituya y la legislación vigente. Dicho informe deberá hacer constar la conformidad o no del elemento inspeccionado. El cumplimiento de los requisitos establecidos deberá ser soportado con pruebas documentales de la inspección realizada, tales cómo fotografías o videos.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.10.6 — Uso de laboratorios por parte de los organismos de inspección
 
@@ -3626,8 +3248,6 @@ SECCIÓN 11
 
 METROLOGIA CIENTÍFICA E INDUSTRIAL
 
-ARTÍCULO
-
 ## art:2.2.1.7.11.1 — Autoridad nacional en metrología científica e industrial
 
 El Instituto Nacional de Metrologia -INM es la autoridad competente para coordinarla ejecucion de la metrologia científica e industrial a nivel nacional, deacuerdocon lo dispuesto en el Decreto 4175 de 2011.
@@ -3635,8 +3255,6 @@ El Instituto Nacional de Metrologia -INM es la autoridad competente para coordin
 El Instituto Nacional de Metrologia proporcionaraalos laboratorios, a los centrosde investigación y a la industria, los materiales de referencia, servicios de ensayos de aptitud / comparacion lnterlaboratorios y la calibracion a los patrones de medición, cuandoestosno puedan ser proporcionados por loslaboratorios o proveedoresde servicios acreditados que conforman la red.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.11.2 — Objetivos de la Red Colombiana de Metrología
 
@@ -3652,15 +3270,11 @@ LaRed Colombiana de Metrología tiene por objetivos generales los siguientes:
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.11.3 — Organización y funcionamiento de la Red Colombiana de Metrología
 
 La organización, estructura, funcionamiento, actividades y demás aspectos necesarios de la Red Colombiana de Metrología serán establecidos mediante acto administrativo expedido por el Instituto Nacional de Metrología -INM.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.11.4 — Objeto de los laboratorios de metrología
 
@@ -3668,15 +3282,11 @@ Los laboratorios de metrología tendrán por objeto procurarla uniformidad y con
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.11.5 — Patrones nacionales de medida
 
 Los patronesnacionalesde medida serán los que oficialice la Superintendencia de Industria y Comercio a petición del Instituto Nacional de Metrologia-INM, esten custodiados por este o por otras entidades publicas o privadas, de conformidad con las directrices establecidas por el INM, atendiendo para el efecto los lineamientos fijados por las autoridades metrologicas internacionales y asegurando la trazabilidad metrologica correspondiente a la magnitud bajo su responsabilidad.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.11.6 — Diseminación y divulgación del Sistema Internacional de Unidades - SI
 
@@ -3692,15 +3302,11 @@ SECCIÓN 12
 
 PRODUCTOS METROLOGICOS
 
-ARTÍCULO
-
 ## art:2.2.1.7.12.1 — Servicios de ensayos de aptitud/comparación interlaboratorios
 
 Son proveedores de los servicios de ensayos de aptitud/comparación interlaboratorios: el Instituto Nacional de Metrologia de Colombia-INM, cómo laboratorio primario; los institutos nacionales de metrología, cómo laboratorios primarios de otros países que sean firmantes del Acuerdo de Reconocimiento Mutuo - MRA en el ámbito del Comité Internacional de Pesas y Medidas -CIPM de la Oficina Internacional de Pesas y Medidas-BIPM;los organismos proveedores legalmente constituidos y que demuestren su competencia técnica mediante un certificado de acreditación vigente con la norma ISO/IEC17043(NTC-ISO/IEC17043)o la que la modifique, sustituya o adicione y que su alcance cubra el servicio ofrecido; las organizaciones internacionalmente reconocidas de desarrollo de estándares internacionales que ofrezcan servicios de ensayos de aptitud/comparación interlaboratorios y las organización es que ofrezcan servicios de ensayos de aptitud/comparacion interlaboratorios aceptadas por el Organismo Nacional de Acreditacion de Colombia -ONAC, siempre y cuando no exista ningún proveedor de ensayos de aptitud/comparación interlaboratorios acreditado con la norma ISO/IEC17043 (NTC-ISO/IEC 17043) a nivel nacional o internacional, que su alcance cubra el servicio requerido.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.12.2 — Servicios de calibración
 
@@ -3708,23 +3314,17 @@ Son proveedores de los servicios de calibración para cada magnitud específica 
 
 (Decreto 2126 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.12.3 — Convenios interadministrativos
 
 Para los fines del Decreto 4175 de 2011, el Instituto Nacional de Metrología -INM, mediante convenios interadministrativos con la Superintendencia de Industria y Comercio, garantizará el uso de laboratorios y de espacios físicos en susede, destinados al desarrollo delas actividades de vigilancia y control de reglamentos técnicos y metrología legal, así cómo del apoyo administrativo que se requiera para su funcionamiento
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.12.4 — Capacitación y asistencia técnica
 
 ElInstitutoNacionalde Metrología-INM podraser proveedor de los servicios de capacitaciony asistencia técnica en materia de metrología científica e industrial.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.12.5 — Materiales de referencia certificados
 
@@ -3740,8 +3340,6 @@ Son proveedores de materiales de referencia certificados, de acuerdo con la defi
 
 (Decreto 2126 de 2015 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.12.6 — Hora legal de la República de Colombia
 
 De conformidad con lo señalado en el numeral 14 del artículo 6 del Decreto 4175 de 2011, al Instituto Nacional de Metrología -INM le corresponde, entre otras, mantener, coordinar y difundir la hora legal de la República de Colombia. En virtud de ello, las empresas, entidades u organismos dedicados en sus servicios a informar o a utilizar de alguna manera este producto, deberán divulgar la hora legal coordinada por dicha entidad.
@@ -3752,15 +3350,11 @@ SECCIÓN 13
 
 LABORATORIOS DESIGNADOS
 
-ARTÍCULO
-
 ## art:2.2.1.7.13.1 — Designación, seguimiento y control de laboratorios
 
 El Instituto Nacional de Metrología -INM determinará la metodología para la designación, seguimientoy control de laboratoriospara el desarrollo, mantenimientoy custodiade patrones en magnitudes no desarrolladas por el INM, y cuyo desarrollo, mantenimiento y custodia sea más conveniente en otro laboratorio. Adicionalmente, establecerá, entre otros, los criterios aplicables de evaluación técnica requerida, así como los indicadores de desempeño pertinentes y los derechos y deberes que se originen.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.13.2 — Participación en programas de comparación interlaboratorio
 
@@ -3768,15 +3362,11 @@ Paraefectos de culminarelproceso de designacionde laboratoriosestos deberán par
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.13.3 — Infraestructura de los laboratorios
 
 Loslaboratorios designados, sin perjuicio del seguimientoy control por parte del InstitutoNacional de Metrología -INM, deberán garantizar en todo momento su competencia para el alcance establecidoenlascapacidadesde medición y calibracion-CMCrespectivas, publicadas por la Oficina Internacionalde Pesas y Medidas -BIPM.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.13.4 — Formalización de la calidad de designados
 
@@ -3789,8 +3379,6 @@ PARÁGRAFO. En su calidad de designado, el laboratorio informará a través del 
 SECCIÓN 14
 
 METROLOGIA LEGAL
-
-ARTÍCULO
 
 ## art:2.2.1.7.14.1 — Autoridades de control metrológico
 
@@ -3806,15 +3394,11 @@ LaSuperintendenciadeIndustriayComercioreglamentaralas condiciones ylos requisito
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.14.2 — Directrices en relación con el control metrológico
 
 Todos los equipos, aparatos, mediososistemasquesirvancomo instrumentosdemedidao tengan cómo finalidad la actividad de medir, pesar o contar y que sean utilizados en el comercio, enla salud, enla seguridado enla protecciondel medioambienteo por razonesdeinterespublico, proteccionalconsumidorolealtadenlaspracticas comerciales, deberán cumplir con las disposicionesy los requisitos establecidosen el presentecapituloyconlosreglamentostecnicosmetrologicosqueparatal efecto expida la Superintendencia de Industria y Comercio y, en su defecto, con las recomendacionesdela OrganizacionInternacionalde Metrología Legal -OIMLpara cada tipo de instrumento.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.14.3 — Instrumentos de medida sujetos a control metrológico
 
@@ -3836,8 +3420,6 @@ En especial, están sujetosal cumplimientode lo establecidoen el presentecapitul
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.14.4 — Fases de control metrológico
 
 Los instrumentos de medición que se produzcan, importen o se utilicen en el territorio nacional deberán cumplir con las siguientes fases de control metrológico:
@@ -3858,23 +3440,17 @@ En todo caso, lo sinstrumentos sujetos a control metrologico deben estar en todo
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.14.5 — Reparación de los instrumentos de medición
 
 En el evento en que el reglamento tecnico metrologico asi lo exija, los instrumentos de medicion que deban ser reparados o ajustados, qu involucren la manipulacion de elementos esenciales metrologicos, deberán ser reparados unicamente por personal idóneo para ello, segun lo definido en e lreglamento tecnico pertinente, y que se encuentre debidamente inscrito en el registro que para tal fin establezca la Superintendencia de Industria y Comercio.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.14.6 — Obligación de tener un establecimiento de comercio en Colombia
 
 Conforme con lo establecido en el artículo 17 de la Ley 1480 de 2011, todo productor eimportador de instrumentos de medicion sujetos a control metrologico deberá mantener un establecimiento de comercio en Colombia quecumpla con las obligaciones de protección al consumidor establecidas en la misma ley.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.14.7 — Sistema de Información de Metrología Legal (SIMEL)
 
@@ -3886,8 +3462,6 @@ SECCIÓN 15
 
 PRODUCTOS PREEMPACADOS
 
-ARTÍCULO
-
 ## art:2.2.1.7.15.1 — Responsabilidad de los empacadores, productores, importadores
 
 Sin perjuicio de las responsabilidades derivadas de otras normas, los empacadores, productores, importadores o quién ponga su marca o enseña en productos preempacados, son los responsables por el cumplimiento de los requisitos metrologicos establecidos para dichos productos y, por tanto, deberán garantizar la correspondencia entre la cantidad o el contenido enunciado y la cantidad o el contenido neto del producto hasta el momento de su comercializacion a los destinatarios finales. Quedan prohibidas las expresiones de "peso aproximado" o "llenado aproximado", entre otras, que no den certeza sobre la cantidad o contenido de un producto.
@@ -3896,15 +3470,11 @@ En los terminos de la Ley 1480 de 2011, frente al consumidor seran responsables 
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.15.2 — 5.2
 
 La Superintendencia de Industria y Comercio, en los casos en los cuales considere que el reglamento tecnico es la mejor alternativa de solución de la problematica ligada a la insuficiente confiabilidad de las mediciones de los instrumentos de medición, podrá expedir los reglamentos técnicos metrológicos que deberán cumplir los productos preempacadosy los procedimientos aplicables para su control. Igualmente, sin perjuicio de las demas obligaciones de etiquetado que deban cumplirlos productos, la Superintendencia d eIndustria y Comercio podrá expedirel reglamento técnico de etiquetado metrologico, el cuál deberá contener, en los términos del siguiente artículo, el nombre o razon socia ldel productor o importador, su identificacion y su dirección fisica y electrónica de notificacion judicial. En caso de que el empacador sea una persona diferente de quién le impone su marca o enseña comercialo de quién lo importe, también deberá traer los datos correspondientes de aquel. El reglamento técnico de que trata este artículo se aplicara de manera suplementaria frente a las regulaciones de carácter especial.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.15.3 — Información obligatoria
 
@@ -3916,8 +3486,6 @@ El contenido neto de u nproducto n oincluye el empaque del mismo ni el ementos d
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.15.4 — Prohibición de empaques engañosos
 
 Un producto preempacado no debe tener fondo, paredes, tapa o cubierta falsos, ni ser construido de esa manera, total o parcialmente, que pueda inducir a error a los consumidores.
@@ -3926,8 +3494,6 @@ La Superintendencia de Industria y Comercio podrá expedir el reglamento técnic
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.15.5 — Autoridades competentes
 
 La Superintendencia de Industria y Comercio y las alcaldias municipales podrán realizar directamente o por quienes estos autoricen para el efecto, en cualquier momento, inspecciones y controles de cantidad o contenido enunciado, el cuál deberá corresponder a la cantidad o el contenidoneto del producto y de la información que deba contener.
@@ -3935,8 +3501,6 @@ La Superintendencia de Industria y Comercio y las alcaldias municipales podrán 
 Los empacadores, productores, importadores o quien ponga su marca o enseña en productos pre empacados, tiene la obligacion de cubrir los gastos correspondientes a las pruebas e inspecciones que ordene la autoridad de control.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.15.6 — Obligados a registrarse
 
@@ -3950,23 +3514,17 @@ SECCIÓN 16
 
 EVALUACIÓN DE LA CONFORMIDAD EN EL ÁMBITO VOLUNTARIO
 
-ARTÍCULO
-
 ## art:2.2.1.7.16.1 — Evaluación de la conformidad voluntaria
 
 Respecto de los bienes y serviciosno sujetos a reglamentos tecnicos se podrán obtener certificaciones de conformidad dentro del Subsistema Nacional de la Calidad.
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.16.2 — Calidad en las transacciones
 
 En las transacciones comerciales y administrativas podra requerirse el cumplimiento de normas técnicas y la utilización de certificados de conformidad expedidospor los organismos acreditados a que se refiere este capítulo.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.16.3 — Laboratorios de Calibración Industrial
 
@@ -3980,8 +3538,6 @@ SECCIÓN 17
 
 SUPERVISION Y CONTROL
 
-ARTÍCULO
-
 ## art:2.2.1.7.17.1 — Facultades de la Superintendencia de Industria y Comercio
 
 La Superintendencia de Industria y Comercio deberá adelantar las investigaciones administrativas pertinentes en contra de los organismos evaluadores de la conformidad, respect ode cumplimiento de los requisitos dentro del marco del certificado de conformidadodeldocumentodeevaluaciondelaconformidadqueestoshayan expedidofrentealos reglamentos tecnicos o normas tecnicas ligadas a compras públicas.
@@ -3994,15 +3550,11 @@ La Superintendencia de Industria y Comercio, en ejercicio de las facultadesotorg
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.17.2 — Responsabilidad de los productores e importadores
 
 Los productores e importadores de productos sujetos a reglamento tecnicoserán responsables por el cumplimiento de la totalidad de los requisitos exigidos por los reglamentos tecnicos o las condiciones tecnicas, independientemente de que hayan sido certificadas, sin perjuicio de la responsabilidad de los organismos de certificación que evaluaron dichos productos, de acuerdo con el tipo de certificación emitida.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.17.3 — Vigilancia y control de la evaluación de la conformidad de producto, de personas o de sistemas de gestión
 
@@ -4010,15 +3562,11 @@ La autoridad competente podra solicitar, en cualquier momento, el certificado de
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.17.4 — Vigilancia y control de la evaluación de la conformidad mediante inspección
 
 La autoridad competente podrá solicitar, en cualquier momento, el informe de inspección de elementos con sus respectivos soportes, que demuestren el cumplimientode los requisitos establecidosen el correspondient ereglamento técnico, sin perjuicio de los ensayos/pruebas, examenes y verificacion es que pueda realizar directamente.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.17.5 — Creación del Sistema de Información de Certificados de Conformidad -SICERCO-
 
@@ -4030,15 +3578,11 @@ El Sistema de Información de Certificados de Conformidad -SICERCO es un registr
 
 (Decreto 1595 de 2015 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.17.6 — Ensayos de laboratorios
 
 La autoridad competente podra ordenar la práctica de pruebas de laboratorios a productos sujetos al cumplimiento de reglamento técnico, cuyos costos estarán a cargo del responsable de su cumplimiento.
 
 (Decreto 1595 de 2015 art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.17.7 — Competencia de los alcaldes municipales
 
@@ -4060,8 +3604,6 @@ DEL PUNTO DE CONTACTO SOBRE OBSTACULOS TECNICOS AL COMERCIO Y MEDIDAS SANITARIAS
 
 REGLAMENTOS TECNICOS
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.1 — Conformación
 
 El Punto de Contacto sobre obstáculos técnicos al comercio y medidas sanitarias y fitosanitarias, estará conformado po rla información sobre Reglamentos Técnicos y Procedimientos de Evaluación de la Conformidad, suministrada por las entidades que estén facultadas para la expedicionde reglamentos tecnicos y por los Organos competentesde los AcuerdosComerciales Internacionales de que sea parte el país.
@@ -4069,8 +3611,6 @@ El Punto de Contacto sobre obstáculos técnicos al comercio y medidas sanitaria
 La representacion y coordinaciondel Punto de Contacto estará a cargo de la Dirección de Regulación del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1595 de 2015 art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.2 — Actividades
 
@@ -4085,8 +3625,6 @@ A través del Punto de Contacto de que trata el artículo anterior, se desarroll
 4. Recibir y gestionar ante las entidadesnacionales e internacionales competentes, las consultas sobre Medidas de Normalización y Procedimientos de Evaluación de la Conformidad presentadas a Colombia y las elevadaspor los nacionales, en desarrollo de los acuerdos comerciales internacionales suscritos por el país.
 
 Decreto 1595 de 2015 art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.3 — Notificaciones
 
@@ -4104,8 +3642,6 @@ PARÁGRAFO 3. Las entidades competentes, a las que se refiere el presente artíc
 
 Decreto 1595 de 2015 art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.4 — Consultas
 
 Las Consultas sobre Medidas de Normalización y Procedimientos de Evaluacion de la Conformidad que requieran los paises, en desarrol lode los acuerdos comerciales internacionales de que haga parte Colombia, deberán ser elevadas ante el Punto de Contacto, para que este a su vez las consulte con las entidades competentes a nivel nacional, y posteriormenteremita la respuesta al interesado.
@@ -4117,8 +3653,6 @@ Las Consultas sobre Medidas de Normalizaciony Procedimientosde Evaluación de la
 SECCIÓN 2
 
 DE LA ARMONIZACION DE REGLAMENTOS TECNICOS
-
-ARTÍCULO
 
 ## art:2.2.1.8.2.1 — Del contenido del Reglamento Técnico
 
@@ -4148,8 +3682,6 @@ Los Ministerios y entidades de cualquier orden facultados para expedir reglament
 
 (Decreto 1112 de 1996, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.8.2.2 — Criterios y condiciones para la expedición de reglamentos técnicos
 
 Los criterios y las condiciones formales y materiales que deben cumplirse para la expedición de reglamentos técnicos, por parte de las entidades competentes serán los establecidos en la Resolución 3742 de febrero 2 de 2001, o la norma que la modifique o sustituya, expedida por la Superintendencia de Industria y Comercio.
@@ -4170,13 +3702,9 @@ Modificado por el Decreto 918 de 2019, Art.1
 
 PREMIO COLOMBIANO A LA CALIDAD PARA LA EXPORTACION
 
-ARTÍCULO
-
 ## art:2.2.1.9.1.1 — Del Reconocimiento Colombiano a la Calidad para la Exportación
 
 El denominado "Premio Colombiano a la Calidad para la Exportacion" se entregará bajo la denominación de "Premio Colombiano a la Calidad para la Exportacion", cómo un reconocimiento e incentivo al esfuerzo y excelencia empresarial para las Pequeñas y Medianas Empresas a través del cumplimiento de estándares de calidad y certificación de sus productos, promoviendo el uso de los servicios del Subsistema Nacional de Calidad -SICAL, mediante la superación de barreras de acceso a nuevos mercados internacionales y que promocionan cadenas globales de valor en las regiones para exportar.
-
-ARTÍCULO
 
 ## art:2.2.1.9.1.2 — Categorias del Reconocimiento Colombiano a la Calidad para la exportación
 
@@ -4190,8 +3718,6 @@ Los requisitos mínimos que deban cumplir las Pequeñas y Medianas Empresas para
 
 PARÁGRAFO. Podrán participar en la convocatoria inicial un número plural de Pequeña y Medianas Empresas que cumpla con los requisitos que fije el Ministerio de Comercio, Industria y Turismo y posteriormente otorgarse el "Premio Colombiano a la Calidad para la Exportacion" a las Pequeñas y Medianas Empresas que cumplan con los criterios de selección establecido en el reglamento.
 
-ARTÍCULO
-
 ## art:2.2.1.9.1.3 — Objetivos
 
 Los objetivos del Premio Colombiano a la Calidad para la Exportación, son:
@@ -4204,25 +3730,17 @@ Los objetivos del Premio Colombiano a la Calidad para la Exportación, son:
 
 4. Promover el uso de los servicios técnicos que ofrece el Subsistema Nacional de la Calidad - SICAL.
 
-ARTÍCULO
-
 ## art:2.2.1.9.1.4 — Concesión del Premio
 
 El premio se concedera mediante decreto presidencial. El Ministerio de Comercio, Industria y Turismo, presentara un informe de los finalistas al Presidente de la República y este último, tendrá la facultad de conceder o negar el premio.
-
-ARTÍCULO
 
 ## art:2.2.1.9.1.5 — Ceremonia de entrega
 
 Premio Colombiano a la Calidad para la Exportación, será entregado por el Presidente de la República y el Ministro de Comercio, Industria y Turismo, en ceremonia de reconocimiento público y mediante la difusión y publicación en medios de comunicación, en la cuál podrán asistir los Ministros y Jefes de Departamentos Administrativos, Miembros del Honorable Congreso Nacional, Miembros del Cuerpo Diplomatico acreditado en Colombia, de Gremios Industriales y las organizaciones Industriales y Comerciales privadas del país.
 
-ARTÍCULO
-
 ## art:2.2.1.9.1.6 — Prohibición
 
 No se permite la participación en el Premio Colombiano a la Calidad para la Exportación de partes o unidades de las organizaciones, sino de las pequeñas y medianas empresas constituidas cómo personas jurídicas.
-
-ARTÍCULO
 
 ## art:2.2.1.9.1.7 — Gestión del certamen
 
@@ -4234,15 +3752,11 @@ SECCIÓN 2
 
 ORDEN AL MÉRITO INDUSTRIAL
 
-ARTÍCULO
-
 ## art:2.2.1.9.2.1 — De la Orden del Mérito Industrial
 
 La Orden del Mérito Industrial se otorgará a las personas naturales o jurídicas, nacionales o extranjeras, a los jefes de Estado, jefes de misiones extranjeras, ministros del despacho, que realicen actos notables en el fomento de la industria nacional y presten servicios eminentes en su desarrollo.
 
 (Decreto 1760 de 2012, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.9.2.2 — Jerarquias de la Orden del Mérito Industrial
 
@@ -4258,8 +3772,6 @@ La Orden del Mérito Industrial se otorgará de acuerdo con las siguientes jerar
 
 (Decreto 1760 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.9.2.3 — Otorgamiento de la Orden del Mérito Industrial
 
 La Orden del Mérito Industrial, en cualquiera de sus jerarquias, será otorgada por el Gobierno Nacional a través de un decreto, con fundamento en el estudio que de manera previa realice el Ministerio de Comercio, Industria y Turismo.
@@ -4267,8 +3779,6 @@ La Orden del Mérito Industrial, en cualquiera de sus jerarquias, será otorgada
 No se requerirá para el otorgamiento de dicha distinción, ningún requisito adicional, cualquiera que sea la jerarquía conforme a la cuál se reconozca.
 
 (Decreto 1760 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.9.2.4 — Reconocimiento
 
@@ -4280,15 +3790,11 @@ SECCIÓN 3
 
 ORDEN AL MÉRITO COMERCIAL
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.1 — De la Orden al Mérito Comercial
 
 Crease la "Orden del Mérito Comercial" con destino a señalar y recompensar actos notables en el incremento del campo comercial nacional y servicios eminentes en su desarrollo.
 
 (Decreto 1953 de 1979, art 1)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.2 — Otorgamiento de la Orden al Mérito Comercial
 
@@ -4298,8 +3804,6 @@ También podrá otorgarse esta orden a los Jefes de Misiones Extranjeras que vis
 
 (Decreto 2664 de 1984, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.3 — Requisitos para el Otorgamiento de la Orden del Mérito Comercial
 
 La Orden del Mérito Comercial, en cualquiera de sus jerarquias, será otorgada por el Gobierno Nacional a través de un decreto, con fundamento en el estudio que de manera previa realice el Ministerio de Comercio, Industria y Turismo.
@@ -4307,8 +3811,6 @@ La Orden del Mérito Comercial, en cualquiera de sus jerarquias, será otorgada 
 No se requerirá para el otorgamiento de dicha distinción, ningún requisito adicional, cualquiera que sea la jerarquía conforme a la cuál se reconozca.
 
 (Decreto 1124 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.4 — De las jerarquias
 
@@ -4324,23 +3826,17 @@ Caballero: A los ciudadanos colombianos al servicio del Gobierno Nacional vincul
 
 (Decreto 2664 de 1984, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.5 — De la Gran Cruz
 
 La categoría de Gran Cruz es extraordinaria y se otorgará solamente a los ciudadanos que se distingan por los esfuerzos excepcionales en la organización y desarrollo del comercio nacional.
 
 (Decreto 1953 de 1979, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.6 — Ceremonia de entrega
 
 La entrega de la Orden del Mérito Comercial, deberá hacerse en ceremonia especial, ante representantes de las altas autoridades y de las corporaciones Comerciales del país.
 
 (Decreto 1953 de 1979, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.7 — Características
 
@@ -4350,15 +3846,11 @@ El reverso será liso y llevará la siguiente leyenda en la parte superior: "Ord
 
 (Decreto 1953 de 1979, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.8 — De la insignia
 
 La insignia de "Gran Cruz" será de plata dorada mate, la de "Gran Oficial" de plata brillante, la de "Oficial" de plata oxidada, la de "Caballero" de bronce oxidado.
 
 (Decreto 1953 de 19 79, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.9 — Concesión de la Orden
 
@@ -4366,15 +3858,11 @@ El Presidente de la República tendrá en todo caso el derecho de conceder o neg
 
 (Decreto 1953 de 1979, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.10 — Diploma
 
 El otorgamiento de la Orden del Mérito Comercial, en todas sus jerarquias, será certificada por medio de un diploma firmado por el Ministro de Comercio, Industria y Turismo.
 
 (Decreto 1124 de 2012, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.11 — Diseño del diploma
 
@@ -4382,15 +3870,11 @@ Los diplomas llevarán en la parte superior el escudo de la República y la insc
 
 (Decreto 1953 de 1979, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.12 — Refrendación del diploma
 
 Todos los diplomas serán refrendados por el señor Secretario General del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1953 de 1979, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.9.3.13 — Pérdida de la distinción
 
@@ -4404,8 +3888,6 @@ La Orden del Mérito Comercial, se pierde por los siguientes motivos:
 
 (Decreto 2664 de 1984, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.9.3.14 — Declaratoria de pérdida
 
 La pérdida de la Orden del Mérito Comercial se declarara mediante Decreto del Gobierno Nacional.
@@ -4418,8 +3900,6 @@ Sección, Adicionada por el Art.1 del Decreto 468 de 2021
 
 SELLO DE ACCESIBILIDAD E INCLUSION UNIVERSAL
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.1 — Objeto
 
 Esta sección tiene por objeto reglamentar el Sello de Accesibilidad e Inclusion Universal, en adelante el Sello, y establecer los requisitos y las condiciones para su uso.
@@ -4428,25 +3908,17 @@ El objeto del Sello será reconocer a los prestadores de servicios turísticos q
 
 De igual manera, será una herramienta informativa y comercial para diferenciar aquellos establecimientos que ofrezcan condiciones de accesibilidad e inclusión universal, proporcionando orientación e información verificable, pertinente y exacta sobre tales condiciones .
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.2 — Ámbito de aplicación
 
 La presente Sección se aplicará a los prestadores de servicios de turismo inscritos en el Registro Nacional de Turismo, áreas y atractivos turísticos que deseen certificarse y portar el Sello, así cómo a los organismos de evaluación de la conformidad.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.3 — Naturaleza del sello
 
 El sello es de naturaleza voluntaria e identifica ante la sociedad a los prestadores de servicios turísticos que cumplan los requisitos de ley y las normas técnicas de accesibilidad del sector turismo nacionales e internacionales.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.4 — Principios
 
 El procedimiento para otorgar el derecho de uso del Sello debe regirse, durante todas las etapas de desarrollo y operación, por los principios de transparencia, imparcialidad y participación de las partes involucradas. Así mismo, se deberán garantizar tales principios en el registro y documentación de la información correspondiente al otorgamiento, administración y uso del Sello.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.5 — Cumplimiento de la legislación
 
@@ -4454,15 +3926,11 @@ El otorgamiento y conservación del derecho al uso del Sello, deberá tener cóm
 
 PARÁGRAFO. El Ministerio de Comercio, Industria y Turismo determinará las normas técnicas de accesibilidad del sector turismo nacionales e internacionales que serán objeto de certificación para la obtención del sello.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.6 — Propiedad del Sello
 
 El Sello es de propiedad exclusiva de la Nación bajo la administración del Ministerio de Comercio, Industria y Turismo.
 
 El Ministerio podrá ejercer, directamente o a través de terceros, todas las acciones pertinentes para proteger el Sello de utilizaciones indebidas, abusivas, fraudulentas, engañosas o no autorizadas, con el fin de preservar su imagen y propender por el cumplimiento de los fines propuestos en esta reglamentación.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.7 — Actividades de administración
 
@@ -4478,29 +3946,21 @@ El Ministerio de Comercio, Industria y Turismo, en el desarrollo de su labor có
 
 5. Las demás que se consideren pertinentes para la buena gestión del Sello.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.8 — Conformidad con el Subsistema Nacional de la Calidad
 
 El procedimiento para otorgar el derecho de uso del Sello debe atender los principios y definiciones consagrados por el Subsistema Nacional de la Calidad, organizado mediante el Capítulo 7 del Título 1 de la Parte 2 del Libro 2 del Decreto 1074 de 2015 y las normas que lo modifiquen, adicionen o sustituyan.
 
 Las disposiciones de esta reglamentación se entenderán sin perjuicio de las competencias de otras entidades en materia de Normalización, Certificación y Metrología, así cómo de Protección al Consumidor.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.9 — Autorización a los organismos de evaluación de la conformidad para el otorgamiento del derecho de uso del Sello
 
 Los organismos de evaluación de la conformidad debidamente acreditados por el Organismo Nacional de Acreditación de Colombia (ONAC) con la norma ISO/IEC 17065 y esquema de certificación tipo 6 según ISO/IEC 17067, con alcance en los sectores IAF relacionados con el sector turismo, quedan autorizados para que reciban solicitudes, otorguen, denieguen, gestionen y cancelen el derecho de uso del Sello, en los términos de la presente reglamentación y las que la modifiquen, adicionen o sustituyan. Los organismos de certificación quedan autorizados únicamente para lo descrito en el presente artículo y no para el uso Sello.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.10 — Informe sobre el otorgamiento del derecho de uso del Sello
 
 Los organismos de evaluación de la conformidad que tienen a su cargo el otorgamiento del derecho de uso del Sello informarán al Ministerio de Comercio, Industria y Turismo, los prestadores de servicios turísticos a los que se les otorgue el derecho de uso del Sello, su vigencia y estado de la certificación. El informe se presentara mensualmente, a través de los mecanismos que el Ministerio de Comercio, Industria y Turismo establezca para tal fin.
 
 PARÁGRAFO. El Ministerio de Comercio, Industria y Turismo dará aviso a las autoridades competentes de cualquier irregularidad que llegare a evidenciar en el informe para el otorgamiento del derecho de uso del Sello, para que se inicien las investigaciones pertinentes.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.11 — Petición para acceder al derecho de uso del Sello
 
@@ -4514,13 +3974,9 @@ El interesado en adquirir el derecho de uso del Sello deberá presentar la solic
 
 PARÁGRAFO. Cada organismo de evaluación de la conformidad establecerá el formulario de solicitud de la certificación.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.12 — Proceso de evaluación de la conformidad y condiciones para el otorgamiento del derecho de uso del Sello
 
 El organismo de evaluación de la conformidad efectuará el proceso de acuerdo con la Norma ISO/IEC 17065 y otorgará el derecho al uso del Sello a los prestadores de servicios turísticos, áreas y/o atractivos turísticos que cumplan con la totalidad de los requisitos de las normas técnicas de accesibilidad del sector turismo, aplicada, que determine el Ministerio de Comercio, Industria y Turismo.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.13 — Certificación e informe del otorgamiento del derecho de uso del Sello
 
@@ -4538,8 +3994,6 @@ El otorgamiento del derecho de uso se materializara a través de la certificaci�
 
 6. Condiciones que podrian llevar a la suspensión o cancelación del derecho de uso del Sello.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.14 — Condiciones de uso del sello
 
 El uso del Sello deberá cumplir cómo mínimo con las siguientes condiciones :
@@ -4551,8 +4005,6 @@ El uso del Sello deberá cumplir cómo mínimo con las siguientes condiciones :
 3. La utilización del Sello deberá cumplir con el manual grafico que para el efecto expida el Ministerio de Comercio, Industria y Turismo.
 
 4. La publicidad hecha por los usuarios deberá responder igualmente al manual grafico y a las instrucciones de uso del Sello establecidos por el Ministerio de Comercio, Industria y Turismo.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.15 — Cancelación del derecho de uso del Sello
 
@@ -4569,8 +4021,6 @@ El organismo de evaluación de la conformidad deberá cancelar al usuario el der
 5. Suministro de información falsa al organismo de evaluación de la conformidad.
 
 6. La no renovación oportuna del Registro Nacional de Turismo, cuando este aplique.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.16 — Manual grafico y de uso del sello
 
@@ -4594,8 +4044,6 @@ Para la utilización del Sello, el Ministerio de Comercio, Industria y Turismo a
 
 9. Forma cómo debe exhibirse el Sello.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.17 — Registro del derecho de uso
 
 El Ministerio de Comercio, Industria y Turismo llevará el registro de los prestadores de servicios turísticos o solicitantes a los que se les otorgue el derecho de uso del Sello. Este registro será público y deberá contener cómo mínimo la siguiente información:
@@ -4608,21 +4056,15 @@ El Ministerio de Comercio, Industria y Turismo llevará el registro de los prest
 
 4. Datos de contacto.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.18 — Seguimiento y control del uso del Sello
 
 El organismo de evaluación de la conformidad podrá realizar auditorias de seguimiento, bajo las mismas condiciones con las cuáles se efectuo la auditoría inicial para el otorgamiento del derecho de uso del Sello, sin perjuicio de otras formas de vigilancia que pueda ejercer.
 
 La Superintendencia de Industria y Comercio ejercerá actividades de inspección, vigilancia y control sobre el correcto uso del Sello y pondrá en conocimiento de las autoridades competentes cualquier eventualidad que perjudique el buen uso de este.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.19 — Sanciones
 
 La violación de las disposiciones del presente decreto, de las establecidas en el manual grafico y de uso del Sello o el suministro de información falsa para la obtención de la certificación estarán sujetos a las sanciones civiles, comerciales, penales y administrativas aplicables, de conformidad con las disposiciones vigentes sobre estas materias.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.20 — Promoción del Sello
 
@@ -4630,25 +4072,17 @@ El Ministerio de Comercio, Industria y Turismo promocionara la certificación y 
 
 PARÁGRAFO. Cualquier actividad dirigida a la promoción del Sello deberá cumplir con las especificaciones del manual grafico y de uso del Sello de que trata el artículo 2.2.1.9.4.16 del presente Decreto. Los actores del Subsistema Nacional de la Calidad y las entidades territoriales también podrán adelantar procesos de promoción.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.21 — Costo
 
 El otorgamiento del derecho de uso del Sello no tendrá costo. El único valor que pagara el usuario será el asociado al cobro que el organismo de evaluación de la conformidad determine, en razón de la verificación de los requisitos establecidos en las normas de calidad, resaltando que el costo para la prórroga debe ser inferior al valor de la verificación inicial.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.22 — Reconocimiento mutuo
 
 El Ministerio de Comercio, Industria y Turismo, en coordinación con otras entidades, podrá, mediante cualquier instrumento, adelantar procesos de reconocimiento mutuo u otorgar la equivalencia con sellos o estándares de otros esquemas que cuenten con reconocimiento en los niveles nacional o internacional.
 
-ARTÍCULO
-
 ## art:2.2.1.9.4.23 — Tratamiento de la información
 
 Las entidades privadas y públicas receptoras de información deberán utilizar los datos e información sólo para los fines aquí establecidos y estarán obligadas a adoptar las medidas necesarias para garantizar su seguridad, circulación restringida y confidencialidad.
-
-ARTÍCULO
 
 ## art:2.2.1.9.4.24 — Registro del Sello ante la Superintendencia de Industria y Comercio
 
@@ -4673,6 +4107,10 @@ El presente decreto aplica a bienes y servicios producidos y comercializados por
 ## art:2.2.1.9.5.3 — Marca de certificación
 
 El signo distintivo al que hace mención el artículo 16 de la Ley 2125 de 2021 será administrado por el Ministerio de Comercio, Industria y Turismo, quién solicitará ante la Superintendencia de Industria y Comercio su registro cómo marca de certificación, sometiéndose al procedimiento legal establecido para esos efectos.
+
+ARTÍCULO 2.2.1.9.5.3. Propiedad de la marca de certificación. La Marca de certificación de que trata el artículo 16 de la Ley 2125 de 2021 es propiedad exclusiva y excluyente de la Nación, en cabeza del Ministerio de Comercio, Industria y Turismo.
+
+El Ministerio podrá ejercer, directamente o a través de terceros, todas las acciones pertinentes para proteges la marca de certificación de utilizaciones indebidas, abusivas, fraudulentas, engañosas o no autorizadas, con el fin de preservar su imagen y propender por el cumplimiento de los fines propuestos en la Ley 2125 de 2021 y en esta reglamentación.
 
 ## art:2.2.1.9.5.4 — Naturaleza de la marca de Certificación
 
@@ -4764,8 +4202,6 @@ SECCIÓN 1
 
 REQUISITOS PARA BENEFICIARSE DEL RÉGIMEN DE ENSAMBLE DE VEHICULOS AUTOMOTORES Y AERONAVES
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.1 — Autorización para las nuevas ensambladoras
 
 Las industrias de fabricación o ensamble, que pretendan establecerse en. Colombia con el fin de ensamblar vehículos automotores o aviones a que se refieren las partidas 9801 y 9802 del Arancel de Aduanas, para tener la autorización señalada en la Nota Legal No.2 del Capítulo 98 del mismo Arancel, deberán solicitar autorización al Ministerio de Comercio, Industria y Turismo.
@@ -4820,15 +4256,11 @@ En caso que el solicitante no efectue los ajustes señalados, dentro del plazo i
 
 (Decreto 1250 de 1998, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.2 — Autorización
 
 La autorización será concedida mediante resolución, que se expedirá en un plazo máximo de noventa (90) días calendario, a partir de la fecha de recibo de la solicitud debidamente diligenciada.
 
 (Decreto 1250 de 1998, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.10.1.3 — Vigencia de la autorización
 
@@ -4838,8 +4270,6 @@ Si durante el tiempo de vigencia de la autorización, la planta no entra en oper
 
 (Decreto 1250 de 1998, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.4 — Autorización para las ensambladoras en operación
 
 Las empresas de fabricación o ensamble, que al 7 de julio de 1998 se encontraban adelantando en Colombia las operaciones de ensamble de vehículos o aviones a que se refieren las partidas 9801 y 9802 del Arancel de Aduanas, seguirán operando de acuerdo con las autorizaciones expedidas antes del 7 de julio de 1998, hasta la fecha de su vencimiento, y podrán obtener la autorización señalada en la Nota legal No.2 del Capítulo 98 del mismo Arancel con solicitud suscrita por el Representante Legal o su Apoderado, presentada al Ministerio de Comercio, Industria y Turismo antes del vencimiento de dicha autorización.
@@ -4847,8 +4277,6 @@ Las empresas de fabricación o ensamble, que al 7 de julio de 1998 se encontraba
 PARÁGRAFO. El Ministerio de Comercio, Industria y Turismo, expedirá la resolución respectiva que contendrá la autorización a que se refiere el presente artículo, antes del vencimiento de la autorización inicial.
 
 (Decreto 1250 de 1998, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.10.1.5 — Vigencia de la autorización para las ensambladoras en operación
 
@@ -4858,8 +4286,6 @@ PARÁGRAFO. La autorización mantendrá su vigencia mientras la empresa autoriza
 
 (Decreto 1250 de 1998, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.6 — Cesion de la autorización de ensamble
 
 La autorización a que se refiere la presente sección, no podrá cederse sin el consentimiento previo y expreso del Ministerio de Comercio, Industria y Turismo. La cesión sin el consentimiento previsto en el presente artículo, no produce efecto alguno.
@@ -4868,15 +4294,11 @@ El trámite para la autorización de la cesión a que se refiere el presente art
 
 (Decreto 1250 de 1998, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.7 — Información a la Dirección de Impuestos y Aduanas Nacionales
 
 El Ministerio de Comercio, Industria y Turismo, informará a la Dirección de Impuestos y Aduanas Nacionales - DIAN, para lo de su competencia, sobre las empresas ensambladoras que no presenten los informes periódicos a que están obligadas de acuerdo con la norma de regulación vigente si después de noventa (90) días de vencido el plazo para presentarlos no lo hicieren.
 
 (Decreto 1250 de 1998, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.10.1.8 — Cambio de marca
 
@@ -4884,15 +4306,11 @@ Cuando una empresa autorizada decida cambiar de marca o introducir otra adiciona
 
 (Decreto 1250 de 1998, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.10.1.9 — Programas de las ensambladoras
 
 Las ensambladoras adelantarán los programas orientados a facilitar el desarrollo oportuno del material productivo en los lanzamientos de nuevos modelos a ensamblar, para lo cuál deberán suministrar a los fabricantes nacionales y subregionales la información relativa a las autopartes que proyectan incorporar con suficiente anticipación a la fecha de lanzamiento.
 
 (Decreto 1250 de 1998, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.10.1.10 — Autorizaciones y control de las ensambladoras de aviones
 
@@ -4903,8 +4321,6 @@ Las autorizaciones y el control de las ensambladoras de los aviones señalados e
 SECCIÓN 2
 
 RÉGIMEN DE ENSAMBLE PARA MOTOS
-
-ARTÍCULO
 
 ## art:2.2.1.10.2.1 — Porcentaje de integración nacional
 
@@ -4936,15 +4352,11 @@ TRM= Tasa Representativa del Mercado del Dolar de los Estados Unidos de América
 
 (Decreto 1118 de 1994, art. 3; modificado por el Decreto 432 de 2004, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.10.2.2 — Porcentaje mínimo de integración nacional, PIN
 
 Las empresas ensambladoras de motocicletas y motonetas deberán cumplir anualmente con un porcentaje de integración nacional, PIN, mínimo del diecisiete por ciento (17%).
 
 (Decreto 1118 de 1994, art. 5; modificado por el Decreto 432 de 2004, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.10.2.3 — Control a los porcentajes de integración nacional
 
@@ -4982,15 +4394,11 @@ SECCIÓN 1
 
 PRINCIPIOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.1 — De la definición
 
 Se considera artesano a la persona que ejerce una actividad profesional creativa en torno a un oficio concreto en un nivel preponderantemente manual y conforme a sus conocimientos y habilidades técnicas y artisticas. Trabaja en forma autónoma, deriva su sustento principalmente de dicho trabajo y transforma en bienes o servicios útiles su esfuerzo fisico y mental.
 
 (Decreto 258 de 1987, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.11.1.2 — De la artesanía
 
@@ -4998,15 +4406,11 @@ Para efectos legales, se entiende por artesanía a una actividad creativa y perm
 
 (Decreto 258 de 1987, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.3 — Servicios de artesanía
 
 Entiéndase el aspecto de servicios en la artesanía cómo la aplicación de los conocimientos, habilidades y destreza en la conservación, reconstrucción y prolongación de obras y acciones que conlleven a un servicio util.
 
 (Decreto 258 de 1987, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.11.1.4 — De la clasificación
 
@@ -5014,15 +4418,11 @@ Adaptese la siguiente clasificación de artesanía productora de objetos: indige
 
 (Decreto 258 de 1987, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.5 — De la artesanía indigena
 
 Se considera artesanía indigena aquella en que el aborigen utilizando sus propios medios transforma, dentro de sus tradiciones, en objetos de arte y funcionalidad los elementos del medio ambiente en que vive para así satisfacer necesidades materiales y espirituales, conservando sus propios rasgos historicos y culturales.
 
 (Decreto 258 de 1987, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.11.1.6 — De la artesanía tradicional popular
 
@@ -5030,15 +4430,11 @@ Artesanía tradicional popular es la producción de objetos artesanales resultan
 
 (Decreto 258 de 1987, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.11.1.7 — De la artesanía contemporanea
 
 Se considera artesanía contemporanea, a la producción de objetos artesanales con rasgos nacionales que incorpora elementos de otras culturas y cuya caracteristica es la transición orientada a la aplicación de aquellos de tendencia universal en la realización estetica, incluida la tecnología moderna.
 
 (Decreto 258 de 1987, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.11.1.8 — De los talleres
 
@@ -5050,9 +4446,7 @@ PARÁGRAFO. Para efectos de la identificación del taller artesanal será indisp
 
 SECCIÓN 2
 
-CATEGORÍA, REQUISITOS Y CALIFICACIÓN. 
-
-ARTÍCULO
+CATEGORÍA, REQUISITOS Y CALIFICACIÓN.
 
 ## art:2.2.1.11.2.1 — De las categorías de artesanos
 
@@ -5072,15 +4466,11 @@ Una vez producido este, el solicitante tendrá derecho a recibir el documento qu
 
 (Decreto 258 de 1987, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.2 — Del Aprendiz
 
 Aprendiz es la persona que se inicia en el proceso de capacitación manual técnica, de asimilación y ejercitación artistica dentro de un taller bajo la orientación de un instructor o de un maestro artesano debidamente acreditado.
 
 (Decreto 258 de 1987, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.3 — De los requisitos para la inscripción en categoría de aprendiz
 
@@ -5094,8 +4484,6 @@ Tener dominio en la ejecución de parte del proceso de producción de varios obj
 
 (Decreto 258 de 1987, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.4 — De la calificación en la categoría de aprendiz
 
 La calificación en la categoría de aprendiz se determinará por la ejecución de una tarea asignada y supervisada por un instructor o maestro artesano, a solicitud del interesado y certificación de dos (2) años de trabajo en un taller artesanal.
@@ -5104,15 +4492,11 @@ PARÁGRAFO. La calificación en la categoría de aprendiz, tendrá una vigencia 
 
 (Decreto 258 de 1987, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.5 — De la categoría de oficial
 
 Oficial es el artesano con capacidad manual y técnica para la elaboración de objetos, de un oficio artesanal específico, sin ser considerado creador en cuánto al diseño y a su expresión estetica, y quién ejecuta su labor en forma autónoma.
 
 (Decreto 258 de 1987, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.6 — De los requisitos para la inscripción en la categoría de oficial
 
@@ -5128,8 +4512,6 @@ Tener capacidad para ejecutar obras completas conforme con los determinantes té
 
 (Decreto 258 de 1987, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.7 — De la calificación para la inscripción en la categoría de oficial
 
 La calificación en la categoría de oficial, se determinará con base en la certificación expedida por un maestro artesano, a cuyo servicio haya trabajado durante dos (2) años mínimo cómo aprendiz, acreditando la condición de propietario de un taller artesanal, con funcionamiento mínimo de dos (2) años.
@@ -5138,23 +4520,17 @@ PARÁGRAFO. La calificación en la categoría de oficial tendrá una vigencia m�
 
 (Decreto 258 de 1987, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.8 — De los requisitos que debe llenar la solicitud de inscripción cómo oficial
 
 La solicitud de inscripción cómo oficial en el registro debe contener una descripción de la actividad artesanal respecto de la cuál acredita experiencia y a la que pretende dedicarse de acuerdo con el índice de oficios a que alude el artículo cuarto de la ley.
 
 (Decreto 258 de 1987, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.9 — De la categoría de instructor
 
 Instructor es el artesano cuya experiencia, capacitación, preparación manual y técnica y nociones pedagogicas, le permiten impartir conocimientos teoricos y practicos en relación con la producción artesanal en un oficio concreto.
 
 (Decreto 258 de 1987, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.10 — De los requisitos para la inscripción en la categoría de instructor
 
@@ -5170,15 +4546,11 @@ La persona que solicite la inscripción en el registro en la categoría de instr
 
 (Decreto 258 de 1987, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.11 — De la calificación en la categoría de instructor
 
 La calificación en la categoría de instructor se determinará mediante la presentación por parte del oficial, del certificado de capacitación pedagogica expedido por organismos oficialmente reconocidos para el efecto.
 
 (Decreto 258 de 1987, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.12 — Requisitos de escolaridad
 
@@ -5186,15 +4558,11 @@ Los requisitos relativos a la escolaridad, señalados en cada una de las categor
 
 (Decreto 258 de 1987, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.11.2.13 — De la categoría de maestro artesano
 
 Maestro artesano es la persona que tiene conocimiento pleno de la artesanía en su especialidad, además posee condiciones de originalidad y creatividad en la técnica, el diseño y la producción artesanal.
 
 (Decreto 258 de 1987, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.1.11.2.14 — De los requisitos para la inscripción en la categoría de maestro artesano
 
@@ -5218,17 +4586,13 @@ Las homologaciones serán estudiadas y determinadas por un comité que para el e
 
 SECCIÓN 3
 
-LAS ORGANIZACIONES GREMIALES DE ARTESANOS. 
-
-ARTÍCULO
+LAS ORGANIZACIONES GREMIALES DE ARTESANOS.
 
 ## art:2.2.1.11.3.1 — Reconocimiento
 
 Se reconocen cómo organizaciones gremiales de artesanos las siguientes: empresas asociativas, asociaciones, federaciones, confederaciones, cooperativas y demás colectividades de artesanos constituidas o que se constituyan conforme a la ley.
 
 (Decreto 258 de 1987, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.1.11.3.2 — De la empresa asociativa artesanal
 
@@ -5238,8 +4602,6 @@ Estara conformada por un número mínimo de diez (10) artesanos.
 
 (Decreto 258 de 1987, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.3 — De la asociación de artesanos
 
 La asociación de artesanos es la forma de organización de primer grado, que reúne un grupo de personas en torno a su profesión con unos objetivos precisos y definidos en los estatutos.
@@ -5248,23 +4610,17 @@ Esta se constituye sin ánimo de lucro y debe contar con por lo menos 25 socios 
 
 (Decreto 258 de 1987, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.4 — De la federación de artesanos
 
 La Federación de artesanos es la organización de segundo grado, que agrupa un número mínimo de cinco (5) asociaciones de artesanos. Tiene objetivos precisos y definidos en los estatutos y se constituye sin ánimo de lucro.
 
 (Decreto 258 de 1987, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.1.11.3.5 — De la confederación de artesanos
 
 La confederación de artesanos es la organización de tercer grado que agrupa un número mínimo de tres (3) federaciones de artesanos. Tiene cobertura nacional y objetivos definidos en los estatutos. Se constituye sin ánimo de lucro.
 
 (Decreto 258 de 1987, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.1.11.3.6 — De las cooperativas de artesanos
 
@@ -5274,9 +4630,7 @@ La cooperativa de artesanos es la organización de personas agrupadas en torno a
 
 SECCIÓN 4
 
-REGISTRO NACIONAL DE ARTESANOS Y DE ORGANIZACIONES GREMIALES DE ARTESANOS. 
-
-ARTÍCULO
+REGISTRO NACIONAL DE ARTESANOS Y DE ORGANIZACIONES GREMIALES DE ARTESANOS.
 
 ## art:2.2.1.11.4.1 — Reglamentación y organización del registro
 
@@ -5284,15 +4638,11 @@ Reglamentese y organicese el registro de artesanos y de organizaciones gremiales
 
 (Decreto 258 de 1987, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.2 — Del registro nacional de artesanos
 
 Artesanías de Colombia S. A., llevará el registro nacional de artesanos y organizaciones gremiales de artesanos.
 
 (Decreto 258 de 1987, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.3 — De la Inscripción
 
@@ -5300,15 +4650,11 @@ La inscripción en el registro es el acto mediante el cual el artesano y las org
 
 (Decreto 258 de 1987, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.4 — Del formulario para la inscripción en el registro
 
 Artesanías de Colombia S. A., elaborara un formulario único de inscripción para el registro.
 
 (Decreto 258 de 1987, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.5 — Del índice
 
@@ -5316,15 +4662,11 @@ El registro nacional tendrá cómo base el índice de oficios artesanales elabor
 
 (Decreto 258 de 1987, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.6 — Oficina de registro
 
 La inscripción o registro se hará por las personas naturales individualmente consideradas ante la oficina que para tal efecto designe Artesanías de Colombia S. A., o por medio de las entidades oficiales, mediante convenios interinstitucionales y a través de las organizaciones gremiales de artesanos legalmente constituidas las que actuarán en coordinación y supervisión de la citada dependencia.
 
 (Decreto 258 de 1987, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.7 — De la tarjeta profesional
 
@@ -5332,15 +4674,11 @@ La inscripción en el registro nacional de artesanos será un servicio público 
 
 (Decreto 258 de 1987, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.8 — Otros aspectos
 
 A cada inscrito se le entregará la tarjeta profesional en la cuál figurarán su nombre, documento de identidad, oficio, fecha y lugar de expedición y categoría a la cuál pertenece.
 
 (Decreto 258 de 1987, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.9 — De los requisitos para la inscripción de las organizaciones gremiales de artesanos
 
@@ -5356,15 +4694,11 @@ La inscripción en el registro de las organizaciones gremiales de primer grado r
 
 (Decreto 258 de 1987, art. 37)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.10 — Otros aspectos del registro
 
 Para los organismos de segundo y tercer grado, la inscripción en el registro se efectuará presentando el certificado de existencia y representación legal.
 
 (Decreto 258 de 1987, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.11 — De la inscripción en el registro de organizaciones gremiales de artesanos
 
@@ -5374,15 +4708,11 @@ PARÁGRAFO. La inscripción o registro de organizaciones gremiales de artesanos 
 
 (Decreto 258 de 1987, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.1.11.4.12 — Otras consideraciones
 
 Las personas que tengan la calidad de directivos y los afiliados activos de las organizaciones gremiales de artesanos legalmente constituidos, deben acreditar su inscripción en una de las categorías indicadas en este Capítulo, y esta siempre deberá efectuarse previa al registro de la organización gremial de artesanos respectivo.
 
 (Decreto 258 de 1987, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.1.11.4.13 — De la cancelación de la inscripción en el registro
 
@@ -5406,13 +4736,9 @@ SECCIÓN 1
 
 PRINCIPIOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.1 — Objeto
 
 El Programa de Fomento para la Industria de Astilleros es un instrumento dirigido a las personas jurídicas que fabrican los bienes finales contenidos en las subpartidas arancelarias indicadas en el artículo 2.2.1.12.1.7. del presente decreto, en virtud del cuál se autoriza al beneficiario del Programa a importar con franquicia o exoneración de derechos de aduana las mercancías o bienes contenidos en las subpartidas arancelarias señaladas en el artículo 2. 2.1.12.1.3. de este Decreto, con el compromiso de incorporarlos en la producción de embarcaciones y/o sus partes para la venta en el mercado nacional o externo.
-
-ARTÍCULO
 
 ## art:2.2.1.12.1.2 — Definiciones
 
@@ -5428,15 +4754,11 @@ Programa General: Es la autorización general que otorga el Ministerio de Comerc
 
 Subprograma: Es la autorización específica que otorga el Ministerio de Comercio, Industria y Turismo al tipo, referencia y marca de la parte que fabricara, o al modelo, variante o versión de la embarcación que ensamblara el beneficiario, y que corresponderá al Cuadro Insumo Producto presentado ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-.
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.3 — Bienes a importar
 
 Al amparo del Programa de Fomento para la Industria de Astilleros, podrán importarse con franquicia o exoneración de derechos de aduana los bienes que corresponden a las siguientes subpartidas arancelarias, siempre y cuando el código numerico (. mico asignado a cada bien dentro de la respectiva subpartida no tenga Registro de Producción Nacional vigente a la fecha de embarque de la mercancía, entendiéndose cómo tal, la fecha de expedición del documento de transporte. Para la mercancía procedente de una zona franca se tendrá en cuenta la fecha de presentación y aceptación de la declaración de importacion:
 
-VER TABLA: 
-
-ARTÍCULO
+VER TABLA:
 
 ## art:2.2.1.12.1.4 — Importaciones procedentes de una Zona Franca
 
@@ -5446,21 +4768,15 @@ Los beneficiarios del Programa de Fomento para la Industria de Astilleros podrá
 
 PARÁGRAFO. El Programa de Fomento para la Industria de Astilleros no procede para los usuarios calificados en una Zona Franca.
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.5 — Sistema de control de inventarios
 
 Los beneficiarios del Programa de Fomento para la Industria de Astilleros adoptarán las medidas necesarias para individualizar, diferenciar y separar las mercancías que ingresen al territorio nacional con el beneficio del Programa durante su almacenamiento e ingreso a las instalaciones del proceso industrial, siendo obligatorio establecer un sistema de control de inventarios en cada una de sus etapas, de conformidad con la reglamentación que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-.
-
-ARTÍCULO
 
 ## art:2.2.1.12.1.6 — Proceso de Importación
 
 El proceso de importación se realizará por la modalidad o régimen de importación con franquicia o exoneración de derechos e impuestos a la importación, y la mercancía quedara en disposición restringida hasta que se incorpore en los bienes finales producidos contenidos en las subpartidas arancelarias indicadas en el artículo 2.2.1.12.1.7. del presente Decreto. Una vez se cumpla con el compromiso de producir los bienes objeto del Programa, la libre disposición no requerirá la presentación de una declaración de modificación.
 
 Si los bienes importados con suspensión de los derechos de aduana no van a ser incorporados o no han sido incorporados dentro del plazo establecido a la producción del bien final objeto del Programa, el beneficiario debe presentar la correspondiente declaración de importación bajo modalidad ordinaria o régimen de importación para el consumo o importación de modificación, liquidando y pagando los derechos de aduana, la diferencia de IVA, las sanciones y los intereses moratorias correspondientes, o reexportar las mercancías dentro de los treinta (30) días siguientes al vencimiento del término establecido en el artículo 2.2.1.12.1.8. del presente Decreto. En caso contrario, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- iniciara el procedimiento administrativo correspondiente para determinar los tributos aduaneros o derechos e impuestos y sanciones exigibles, sin perjuicio de la aprehension de las mercancías de conformidad con la normativa aduanera cuando a ello hubiera lugar.
-
-ARTÍCULO
 
 ## art:2.2.1.12.1.7 — Bienes finales
 
@@ -5554,8 +4870,6 @@ Los beneficiarios del Programa de Fomento para la Industria de Astilleros deben 
 
 8905200000
 
-ARTÍCULO
-
 ## art:2.2.1.12.1.8 — Término para producir los bienes finales
 
 Los bienes finales deben fabricarse dentro de los treinta y seis (36) meses siguientes a la obtención del levante de la mercancía amparada en la primera declaración de importación con franquicia o exoneración de derechos e impuestos a la importación. A solicitud del interesado y por las razones que la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- considere válidas, se podrá prorrogar el plazo autorizado por una sola vez hasta por doce (12) meses más.
@@ -5565,8 +4879,6 @@ PARÁGRAFO. Cuando se requiera de un plazo mayor a los doce (12) meses indicados
 SECCIÓN 2
 
 SOLICITUD Y REQUISITOS
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.1 — Solicitud de autorización del Programa de Fomento para la Industria de Astilleros
 
@@ -5600,8 +4912,6 @@ PARÁGRAFO 2. Las empresas que al momento de presentar la solicitud de autorizac
 
 PARÁGRAFO 3. Toda planta de producción o lugar de almacenamiento al cuál ingresen los bienes importados al amparo del Programa de Fomento para la Industria de Astilleros deberá encontrarse previamente autorizado por el Ministerio de Comercio, Industria y Turismo en el acto administrativo que autoriza el Programa General.
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.2 — Evaluación de la autorización del Programa de Fomento para la Industria de Astilleros
 
 Recibida la solicitud de autorización del Programa de Fomento para la Industria de Astilleros, la Dirección de Productividad y Competitividad del Ministerio de Comercio, Industria y Turismo, o la dependencia que haga sus veces, verificará que la documentación exigida en el artículo 2.2.1.12.2.1. del presente decreto este completa. De no estarlo, se requerirá al solicitante para que la complete en el término máximo de treinta (30) días, de tal manera que si no lo hace en este lapso se entenderá que desistio de la misma, salvo que antes de vencerse dicho plazo solicite prórroga por un término igual por una unica vez.
@@ -5622,8 +4932,6 @@ La propuesta de codificación se publicará durante quince (15) días calendario
 
 PARÁGRAFO. La Dirección de Productividad y Competitividad del Ministerio de Comercio, Industria y Turismo, o la dependencia que haga sus veces, verificará que el solicitante no se encuentre reportado por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- en el Boletin de Deudores Morosos del Estado publicado en la página web de la Contaduría General de la Nación. En caso de encontrar algún reporte de deudas por parte de la DIAN, se procederá de conformidad con el inciso segundo del numeral primero de este artículo.
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.3 — Comité de Análisis
 
 El Comité de Análisis tiene por objeto apoyar el análisis de la información técnica y analizar las dudas en relación con la propuesta de codificación de los bienes que al amparo del Programa de Fomento de la Industria de Astilleros realice la Subdirección de Diseño y Administración de Operaciones del Ministerio de Comercio, Industria y Turismo.
@@ -5632,21 +4940,15 @@ Este Comité estará integrado por el Director de Productividad y Competitividad
 
 PARÁGRAFO. El Comité de Análisis podrá invitar a las autoridades públicas, a los particulares y a los representantes de los gremios de la Industria de Astilleros, cuya opinión resulte necesaria para dilucidar aspectos relevantes que surjan con ocasión de la propuesta de codificación numerica unica.
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.4 — Funcionamiento del Comité de Análisis
 
 Dentro de los cinco (5) días posteriores al recibo del resultado de la publicación de la propuesta de codificación presentada por la Subdirección de Diseño y Administración de Operaciones de la Dirección de Comercio Exterior del Ministerio de Comercio, Industria y Turismo, el Director de Productividad y Competitividad convocara al Comité de Análisis, el cuál analizará la información técnica o las dudas presentadas y presentara sus conclusiones, que serán consignadas en el Acta que se levante de la respectiva reunión, cuya copia se remitirá a la Subdirección de Diseño y Administración de Operaciones.
 
 PARÁGRAFO. Dentro de los cinco (5) días siguientes al recibo del Acta, la Subdirección de Diseño y Administración de Operaciones emitira y comunicará al Director de Productividad y Competitividad la codificación numerica unica de los bienes que al amparo del Programa pretende importar el solicitante.
 
-ARTÍCULO
-
 ## art:2.2.1.12.2.5 — 2.5
 
 Comunicación y publicación del acto administrativo de autorización del Programa de Fomento para la Industria de Astilleros. Dentro de los cinco (5) días siguientes a la ejecutoria del acto administrativo de autorización del Programa de Fomento para la Industria de Astilleros, se remitirá copia del mismo a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-, se publicará en el sitio web del Ministerio de Comercio, Industria y Turismo y se comunicará a los productores nacionales de los bienes codificados dentro de la respectiva subpartida arancelaria, para su actualización en el Registro de Producción Nacional.
-
-ARTÍCULO
 
 ## art:2.2.1.12.2.6 — Duración de la autorización
 
@@ -5655,8 +4957,6 @@ El Programa de Fomento para la Industria de Astilleros autorizado estará vigent
 SECCIÓN 3
 
 INFORMACION Y OBLIGACIONES
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.1 — Información para iniciar la ejecución del Programa
 
@@ -5671,8 +4971,6 @@ PARÁGRAFO 1. Cuando se presenten modificaciones a las condiciones de un Cuadro 
 PARÁGRAFO 2. La corrección del Cuadro Insumo Producto procede antes de llevar a cabo las importaciones con cargo al respectivo cuadro. En caso de haber iniciado importaciones, este puede ser corregido dentro del término máximo de doce (12) meses posteriores a la presentación de la primera declaración de importación con caro al respectivo Cuadro Insumo Producto. La corrección reemplaza en todas sus partes el Cuadro Insumo Producto inicial, excepto en la fecha de presentación inicial y el número del cuadro.
 
 PARÁGRAFO 3. Vencido el término de doce (12) meses para presentar las correcciones de que trata el presente artículo, se entenderá que la información es definitiva y los bienes importados deberán incorporarse al bien final relacionado en el respectivo Cuadro Insumo Producto.
-
-ARTÍCULO
 
 ## art:2.2.1.12.3.2 — Obligaciones
 
@@ -5706,15 +5004,11 @@ SECCIÓN 4
 
 SUSPENSIÓN, INFRACCIONES, CANCELACION Y TERMINACIÓN DEL PROGRAMA
 
-ARTÍCULO
-
 ## art:2.2.1.12.4.1 — Suspensión de las importaciones
 
 Cuando no se presente el Informe Anual de Cumplimiento del Programa a más tardar el último día hábil del mes de junio del año siguiente a la realización de las importaciones al amparo del programa, no podrán realizarse nuevas importaciones al amparo del mismo, hasta tanto sea presentado dicho informe y en todo caso con anterioridad al último día hábil del mes de septiembre del mismo año, caso en el cuál se procederá de conformidad con el numeral 5 del artículo 2.2.1.12.4.4.
 
 El incumplimiento de los plazos establecidos en el inciso anterior deberá ser informado por el Ministerio de Comercio, Industria y Turismo a la Dirección de Impuestos y Aduanas Nacionales -DIAN- dentro de los cinco (5) días hábiles siguientes a su ocurrencia.
-
-ARTÍCULO
 
 ## art:2.2.1.12.4.2 — Infracciones y sanciones en el Programa de Fomento de la Industria de Astilleros
 
@@ -5740,8 +5034,6 @@ Las sanciones referenciadas se impondrán conforme al procedimiento administrati
 
 En el evento en que el Ministerio de Comercio, Industria y Turismo encuentre que un beneficiario presuntamente ha incurrido en alguna de las infracciones previstas en el presente artículo, pondrá los hechos en conocimiento de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- para lo de su competencia.
 
-ARTÍCULO
-
 ## art:2.2.1.12.4.3 — Sanción de cancelación de la autorización
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- sancionara con cancelación de la autorización en los siguientes eventos:
@@ -5765,8 +5057,6 @@ En el evento en que el Ministerio de Comercio, Industria y Turismo encuentre que
 Dentro de los cinco (5) días hábiles siguientes a la ejecutoria del acto administrativo que declara la cancelación, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- remitirá copia del acto administrativo en firme, al Ministerio de Comercio, Industria y Turismo por correo electrónico o en documento fisico, para lo de su competencia.
 
 PARÁGRAFO. Sin perjuicio de lo previsto en el presente Capítulo, serán aplicables y exigibles las medidas cautelares, obligaciones y sanciones establecidas en las normas aduaneras, con ocasión de las operaciones de comercio exterior de los beneficiarios del Programa de Fomento para la Industria de Astilleros. Para la aplicabilidad y exigencia de las sanciones y obligaciones, así cómo para la aplicación de la cancelación de la autorización se aplicará el procedimiento administrativo previsto en la legislación aduanera y/o tributaria vigente.
-
-ARTÍCULO
 
 ## art:2.2.1.12.4.4 — Terminación del Programa
 
@@ -5796,8 +5086,6 @@ En el evento en que la Unidad Administrativa Especial Dirección de Impuestos y 
 
 Dentro de los cinco () días hábiles siguientes a la ejecutoria del acto administrativo que declara la terminación, el Ministerio de Comercio, Industria y Turismo remitirá copia del acto administrativo en firme, conforme al artículo 87 de la Ley 1437 de 2011, a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- por correo electrónico o en documento fisico, para lo de su competencia.
 
-ARTÍCULO
-
 ## art:2.2.1.12.4.5 — Obligaciones aduaneras derivadas de la terminación y/o cancelación del Programa
 
 En caso de terminación y/o cancelación del programa o subprograma, el usuario deberá cumplir las obligaciones aduaneras derivadas de las importaciones efectuadas al amparo del Programa, mediante la presentación de las declaraciones de importación de los bienes importados que no hayan sido involucrados en el bien final, liquidando los derechos de aduana, la diferencia del IVA, las sanciones y los intereses moratorios correspondientes, o reexportar las mercancías dentro de los treinta (30) días siguientes a la fecha de ejecutoria del acto administrativo de terminación o cancelación del Programa. En caso contrario, la Dirección Seccional de Aduanas competente dará inicio al procedimiento administrativo para la determinación de los derechos de aduana e impuestos a la importación, sanciones e intereses moratorios exigibles.
@@ -5805,8 +5093,6 @@ En caso de terminación y/o cancelación del programa o subprograma, el usuario 
 SECCIÓN 5
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.1.12.5.1 — Control y seguimiento al Programa de Fomento para la Industria de Astilleros
 
@@ -5822,13 +5108,9 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.13.1.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar la clasificación de las micro, pequeñas, medianas y grandes empresas, teniendo en cuenta para ello el criterio de ventas brutas, asimilado al de ingresos por actividades ordinarias anuales, acorde con lo previsto en el artículo 2 de la Ley 590 de 2000, modificado por el 43 de la Ley 1450 de 2011.
-
-ARTÍCULO
 
 ## art:2.2.1.13.1.2 — Ámbito de Aplicación
 
@@ -5844,15 +5126,11 @@ SECCIÓN 2
 
 CLASIFICACIÓN DEL TAMAÑO EMPRESARI AL
 
-ARTÍCULO
-
 ## art:2.2.1.13.2.1 — Criterio para la clasificación del tamaño empresarial
 
 Para efectos de la clasificación del tamaño empresarial se tendrá cómo criterio exclusivo los ingresos por actividades ordinarias anuales de la respectiva empresa.
 
 El nivel de ingresos por actividades ordinarias anuales con base en el cual se determina el tamaño empresarial variara dependiendo del sector económico en el cuál la empresa desarrolle su actividad.
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.2 — Rangos para la Definición del Tamaño Empresarial
 
@@ -5890,8 +5168,6 @@ PARÁGRAFO 3. Cuando los ingresos de la empresa provengan de más de uno de los 
 
 PARÁGRAFO 4. EL Ministerio de Comercio, Industria y Turismo, en conjunto con el Departamento Nacional de Estadística -DANE-, a la fecha de la entrada en vigencia del presente Capítulo establecerá, mediante acto administrativo, el anexo técnico de correspondencia de los tres sectores, manufactura, comercio y servicios con la Clasificación de las Actividades Economicas - CllU Revisión 4.
 
-ARTÍCULO
-
 ## art:2.2.1.13.2.3 — Definición de Ingresos por Actividades Ordinarias
 
 Para efectos de la clasificación de que trata el presente Capítulo, se entenderá que el concepto de ventas brutas anuales se asimila al de ingresos por actividades ordinarias. Los ingresos por actividades ordinarias son aquellos que se originan en el curso de las actividades ordinarias de la empresa, tales cómo las actividades de operación y otras actividades que no son consideradas cómo actividades de inversión o financiación, de conformidad con el marco de información financiera aplicado por la empresa.
@@ -5899,8 +5175,6 @@ Para efectos de la clasificación de que trata el presente Capítulo, se entende
 Dichos ingresos deberán corresponder a los del año inmediatamente anterior, con corte a 31 de diciembre, a la fecha de presentación de la solicitud de la propuesta o del trámite para el que se quiera hacer valer la clasificación establecida en este Capítulo, verificables de acuerdo con las normas vigentes.
 
 Para las empresas que cuenten con menos de un año de existencia, sus ingresos por actividades ordinarias serán los obtenidos durante el tiempo de su operación, con corte al mes inmediatamente anterior a la fecha de presentación de la propuesta o del trámite respectivo.
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.4 — Acreditación del tamaño empresarial
 
@@ -5915,8 +5189,6 @@ Para los anteriores efectos, deberán observarse los rangos de clasificación es
 PARÁGRAFO. Para la aplicación de los incentivos del sistema de compras y contratación pública,
 
 la acreditación del tamaf10 empresarial se efectuará de acuerdo con lo previsto en el artículo 2.2.1.2.4.2.4 del Decreto 1082 de 2015 y demás normas que lo aclaren, modifiquen o adicionen.
-
-ARTÍCULO
 
 ## art:2.2.1.13.2.5 — Registro de información de los ingresos por actividades ordinarias
 
@@ -5938,13 +5210,9 @@ SECCIÓN 1
 
 PRINCIPIOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.14.1.1 — Objeto
 
 El Programa de Fomento para la Industria Automotriz es un instrumento dirigido a las personas jurídicas que fabrican los bienes finales contenidos en las subpartidas arancelarias indicadas en el artículo 2.2.1.14.1.7. del presente Decreto, en virtud del cuál se autoriza al beneficiario del Programa a importar con franquicia o exoneración de derechos de aduana las mercancías o bienes contenidos en las subpartidas arancelarias señaladas en el artículo 2. 2.1.14.1.3. de este Decreto, con el compromiso de incorporarlos en la producción de vehículos o autopartes para la venta en el mercado nacional o externo.
-
-ARTÍCULO
 
 ## art:2.2.1.14.1.2 — Definiciones
 
@@ -5960,15 +5228,11 @@ Programa General: Es la autorización general que otorga el Ministerio de Comerc
 
 Subprograma: Es la autorización específica que otorga el Ministerio de Comercio, Industria y Turismo al tipo, referencia y marca de la autoparte que fabricara, o al modelo, variante o versión del vehiculo que ensamblara el beneficiario, y que corresponderá al Cuadro Insumo Producto presentado ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-.
 
-ARTÍCULO
-
 ## art:2.2.1.14.1.3 — Bienes a importar
 
 Al amparo del Programa de Fomento para la Industria Automotriz podrán importarse con franquicia o exoneración de derechos de aduana los bienes que corresponden a las siguientes subpartidas arancelarias, siempre y cuando el código numerico único asignado a cada bien dentro de la respectiva subpartida no tenga Registro de Producción Nacional vigente a la fecha de embarque de la mercancía, entendiéndose cómo tal la fecha de expedición del documento de transporte. Para la mercancía procedente de una zona franca se tendrá en cuenta la fecha de presentación y aceptación de la declaración de importacion:
 
-VER TABLA: 
-
-ARTÍCULO
+VER TABLA:
 
 ## art:2.2.1.14.1.4 — Importaciones procedentes de una Zona Franca
 
@@ -5978,13 +5242,9 @@ Los beneficiarios del Programa de Fomento para la Industria Automotriz podrán i
 
 PARÁGRAFO. El Programa de Fomento para la Industria Automotriz no procede para los usuarios calificados en una Zona Franca.
 
-ARTÍCULO
-
 ## art:2.2.1.14.1.5 — Sistema de control de inventarios
 
 Los beneficiarios del Programa de Fomento para la Industria Automotriz adoptarán las medidas necesarias para individualizar, diferenciar y separar las mercancías que ingresen al territorio nacional con el beneficio del Programa durante su almacenamiento e ingreso a las instalaciones del proceso industrial, siendo obligatorio establecer un sistema de control de inventarios en cada una de sus etapas, de conformidad con la reglamentación que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-.
-
-ARTÍCULO
 
 ## art:2.2.1.14.1.6 — Proceso de importación
 
@@ -5992,23 +5252,17 @@ El proceso de importación se realizará por la modalidad o régimen de importac
 
 Si los bienes importados con suspensión de los derechos de aduana no van a ser incorporados o no han sido incorporados dentro del plazo establecido a la producción del bien final objeto del Programa , el beneficiario debe presentar la correspondiente declaración de importación de modificación, liquidando y pagando los derechos de aduana, la diferencia de IVA, las sanciones y los intereses moratorios correspondientes, o reexportar las mercancías dentro de los treinta (30) días siguientes al vencimiento del término establecido en el artículo 2. 2.1 .14.1.8. del presente Decreto. En caso contrario, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- iniciara el procedimiento administrativo correspondiente para determinar los tributos aduaneros o derechos e impuestos y sanciones exigibles.
 
-ARTÍCULO
-
 ## art:2.2.1.14.1.7 — Bienes finales
 
 Los beneficiarios del Programa de Fomento para la Industria Automotriz deben utilizar los bienes importados contenidos en las subpartidas arancelarias que se indican en el artículo 2.2.1.14.1.3. del presente Decreto, exclusivamente en la fabricación de los bienes finales a los que corresponden las siguientes subpartidas:
 
-VER TABLA: 
-
-ARTÍCULO
+VER TABLA:
 
 ## art:2.2.1.14.1.8 — Término para producir los bienes finales
 
 Los bienes finales deben fabricarse dentro de los doce (12) meses siguientes a la obtención del levante de la mercancía amparada en la declaración de importación con franquicia o exoneración de derechos e impuestos a la importación. A solicitud del interesado y por las razones que la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- considere válidas, se podrá prorrogar el plazo autorizado por una sola vez hasta por tres meses (3) más.
 
 PARÁGRAFO. Cuando se requiera de un plazo mayor a los tres (3) meses indicados en el presente artículo, se podrá conceder una prórroga en el plazo autorizado inicialmente, la cuál, en todo caso, no podrá ser superior a doce (12) meses. Para el efecto, el usuario deberá presentar solicitud justificada a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-, por lo menos un (1) mes antes del vencimiento del plazo inicial para fabricar el bien final.
-
-ARTÍCULO
 
 ## art:2.2.1.14.1.9 — Coexistencia de Programas
 
@@ -6019,8 +5273,6 @@ Para tal efecto, deberán informar las referencias de las autopartes o los model
 SECCIÓN 2
 
 SOLICITUD Y REQUISITOS
-
-ARTÍCULO
 
 ## art:2.2.1.14.2.1 — Solicitud de autorización del Programa de Fomento para la Industria Automotriz
 
@@ -6056,8 +5308,6 @@ PARÁGRAFO 3. Las empresas que al momento de presentar la solicitud de autorizac
 
 PARÁGRAFO 4. Toda planta de producción o lugar de almacenamiento al cuál ingresen los bienes importados al amparo del Programa de Fomento para la Industria Automotriz deberá encontrarse previamente autorizado por el Ministerio de Comercio, Industria y Turismo en el acto administrativo que autoriza el Programa General.
 
-ARTÍCULO
-
 ## art:2.2.1.14.2.2 — Evaluación de la autorización del Programa de Fomento para la Industria Automotriz
 
 Recibida la solicitud de autorización del Programa de Fomento para la Industria Automotriz, la Dirección de Productividad y Competitividad del Ministerio de Comercio, Industria y Turismo, o la dependencia que haga sus veces, verificará que la documentación exigida en el artículo 2.2.1.14.2.1. del presente Decreto este completa. De no estarlo, se requerirá al solicitante para que la complete en el término máximo de treinta (30) días, de tal manera que si no lo hace en este lapso se entenderá que desistio de la misma, salvo que antes de vencerse dicho plazo solicite prórroga por un término igual por una unica vez.
@@ -6078,8 +5328,6 @@ La propuesta de codificación se publicará durante quince (15) días calendario
 
 PARÁGRAFO. La Dirección de Productividad y Competitividad del Ministerio de Comercio, Industria y Turismo, o la dependencia que haga sus veces, verificará que el solicitante no se encuentre reportado por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- en el Boletin de Deudores Morosos del Estado publicado en la página web de la Contaduría General de la Nación. En caso de encontrar algún reporte de deudas por parte de la DIAN, se procederá de conformidad con el inciso segundo del numeral primero de este artículo.
 
-ARTÍCULO
-
 ## art:2.2.1.14.2.3 — Comité de Análisis
 
 El Comité de Análisis tiene por objeto apoyar el análisis de la información técnica y analizar las dudas en relación con la propuesta de codificación de los bienes que al amparo del Programa de Fomento de la Industria Automotriz realice la Subdirección de Diseño y Administración de Operaciones del Ministerio de Comercio, Industria y Turismo.
@@ -6090,8 +5338,6 @@ PARÁGRAFO. El Comité de Análisis podrá invitar a las autoridades públicas, 
 
 (Modificado por el Art. 2 del Decreto 1156 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.1.14.2.4 — Funcionamiento del Comité de Análisis
 
 Dentro de los cinco (5) días posteriores al recibo del resultado de la publicación de la propuesta de codificación presentada por la Subdirección de Diseño y Administración de Operaciones de la Dirección de Comercio Exterior del Ministerio de Comercio, Industria y Turismo, el Director de Productividad y Competitividad convocara al Comité de Análisis, el cuál analizará la información técnica o las dudas presentadas y presentara sus conclusiones, que serán consignadas en el Acta que se levante de la respectiva reunión, cuya copia se remitirá a la Subdirección de Diseño y Administración de Operaciones.
@@ -6100,13 +5346,9 @@ PARÁGRAFO. Dentro de los cinco (5) días siguientes al recibo del Acta, la Subd
 
 (Modificado por el Art. 2 del Decreto 1156 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.1.14.2.5 — Comunicación y publicación del acto administrativo de autorización del Programa de Fomento para la Industria Automotriz
 
 Dentro de los cinco (5) días siguientes a la ejecutoria del acto administrativo de autorización del Programa de Fomento para la Industria Automotriz, se remitirá copia del mismo a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN-, se publicará en el sitio web del Ministerio de Comercio, Industria y Turismo y se comunicará a los productores nacionales de los bienes codificados dentro de la respectiva subpartida arancelaria, para su actualización en el Registro de Producción Nacional.
-
-ARTÍCULO
 
 ## art:2.2.1.14.2.6 — Duración de la autorización
 
@@ -6115,8 +5357,6 @@ Programa de Fomento para la Industria Automotriz autorizado estará vigente mien
 SECCIÓN 3
 
 INFORMACION Y OBLIGACIONES
-
-ARTÍCULO
 
 ## art:2.2.1.14.3.1 — Información para iniciar la ejecuc1on del Programa
 
@@ -6131,8 +5371,6 @@ PARÁGRAFO 1. Cuando se presenten modificaciones a las condiciones de un Cuadro 
 PARÁGRAFO 2. La corrección del Cuadro Insumo Producto procede antes de llevar a cabo las importaciones con cargo al respectivo cuadro. En caso de haber iniciado importaciones, este puede ser corregido dentro del término máximo de un (1) mes posterior a la presentación de la primera declaración de importación con cargo al respectivo Cuadro Insumo Producto. La corrección reemplaza en todas sus partes el Cuadro Insumo Producto inicial, excepto en la fecha de presentación inicial y el número del cuadro.
 
 PARÁGRAFO 3. Vencido el término de un (1) mes para presentar las correcciones de que trata el presente artículo, se entenderá que la información es definitiva y los bienes importados deberán incorporarse al bien final relacionado en el respectivo Cuadro Insumo Producto.
-
-ARTÍCULO
 
 ## art:2.2.1.14.3.2 — Obligaciones
 
@@ -6168,8 +5406,6 @@ SECCIÓN 4
 
 SUSPENSIÓN, INFRACCIONES, CANCELACION Y TERMINACIÓN DEL PROGRAMA
 
-ARTÍCULO
-
 ## art:2.2.1.14.4.1 — Suspensión de las importaciones
 
 Cuando no se presente el 1nforme Anual de Cumplimiento del Programa a más tardar el último día hábil del mes de junio del año siguiente a la realización de las importaciones al amparo del Programa, no podrán realizarse nuevas importaciones al amparo del mismo, hasta tanto sea presentado dicho informe y en todo caso con anterioridad al último día hábil del mes de septiembre del mismo año, caso en el cuál se procederá de conformidad con el numeral 5 del artículo 2.2.1.14.4.4.
@@ -6177,8 +5413,6 @@ Cuando no se presente el 1nforme Anual de Cumplimiento del Programa a más tarda
 El incumplimiento de los plazos establecidos en el inciso anterior, deberá ser informado por el Ministerio de Comercio, Industria y Turismo a la Dirección de Impuestos y Aduanas Nacionales -DIAN- dentro de los cinco (5) días hábiles siguientes a su ocurrencia.
 
 PARÁGRAFO. Sin perjuicio de las sanciones y obligaciones establecidas en el presente Capítulo, serán aplicables y exigibles de igual manera las sanciones y obligaciones establecidas en las normas aduaneras, con ocasión de las operaciones de comercio exterior de los beneficiarios del Programa de Fomento para la Industria Automotriz.
-
-ARTÍCULO
 
 ## art:2.2.1.14.4.2 — Infracciones y sanciones en el Programa de Fomento de la Industria Automotriz
 
@@ -6202,39 +5436,23 @@ Cuando la certificación se produzca de manera extemporánea y hasta antes de la
 
 Las sanciones referenciadas se impondrán conforme al procedimiento administrativo sancionatorio que prevé la regulación aduanera.
 
-ARTÍCULO
+## art:2.2.1.14.4.3 — 
 
 Sanción de cancelación de la autorización. Sin perjuicio de las disposiciones establecidas en la legislación aduanera, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- impondrá sanción de cancelación del Programa a los beneficiarios del mismo, cuando ocurra uno de los siguientes hechos:
 
-## art:1 — 
-
 1. Obtener la autorización del Programa con base en documentación o información que no corresponda con la real.
-
-## art:2 — 
 
 2. Presentar el Informe Anual de Cumplimiento del Programa con base en documentación o información que no corresponda con la real.
 
-## art:3 — 
-
 3. Destinar las mercancías importadas al amparo del Programa a propósitos diferentes de los autorizados en el artículo 2.2.1.14.1.7. del presente Decreto.
-
-## art:4 — 
 
 4. Facilitar, permitir o participar en operaciones de comercio exterior prohibidas, o no autorizadas, o vinculadas a los presuntos delitos de contrabando, favorecimiento de contrabando, defraudación a las rentas de aduana, exportación o importación ficticia. En todos estos eventos, la responsabilidad administrativa se establecerá independientemente de la penal.
 
-## art:5 — 
-
 5. Facilitar, permitir o participar cómo beneficiario del Programa en operaciones vinculadas a los presuntos delitos de enriquecimiento ilicito, tráfico de armas, municiones, explosivos, minas antipersona, tráfico de estupefacientes, lavado de activos, testaferrato, cohecho, fraude procesal, contra la seguridad pública, contra la fe pública, contra los recursos naturales y medio ambiente, contra los servidores públicos, contra la propiedad industrial y contra los derechos de autor. En estos casos, el proceso de cancelación se iniciara cuando quede en firme la decisión judicial.
-
-## art:6 — 
 
 6. Inscribirse en el Registro Único Tributario (RUT) o registro que haga sus veces o actualizarlo con información que no corresponda con la real. También habrá lugar a la cancelación cuando se incumpla con la obligación señalada en el numeral segundo del artículo 2.2.1.14.3.2. del presente decreto.
 
-## art:7 — 
-
 7. Obtener y utilizar documentos falsos dentro de una operación de comercio exterior.
-
-## art:8 — 
 
 8. Cuando con ocasión del levantamiento del velo corporativo, se evidencie que el beneficiario del Programa creo o participo en la creación de sociedades para la realización de operaciones de comercio exterior fraudulentas.
 
@@ -6249,8 +5467,6 @@ En el evento en que el Ministerio de Comercio, Industria y Turismo encuentre que
 Dentro de los cinco (5) días hábiles siguientes a la ejecutoria del acto administrativo que declara la cancelación, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- remitirá copia del acto administrativo en firme, conforme al artículo 87 de la Ley 1437 de 2011, al Ministerio de Comercio, Industria y Turismo por correo electrónico o en documento fisico, para lo de su competencia.
 
 PARÁGRAFO. Sin perjuicio de lo previsto en el presente Capítulo, serán aplicables y exigibles las sanciones y obligaciones establecidas en las normas aduaneras, con ocasión de las operaciones de comercio exterior de los beneficiarios del Programa de Fomento para la Industria Automotriz. Para la aplicabilidad y exigencia de las sanciones y obligaciones, así cómo para la aplicación de la cancelación de la autorización se aplicará el procedimiento administrativo previsto en la legislación aduanera y/o tributaria vigente.
-
-ARTÍCULO
 
 ## art:2.2.1.14.4.4 — Terminación del Programa
 
@@ -6276,8 +5492,6 @@ En el evento en que la Unidad Administrativa Especial Dirección de Impuestos y 
 
 Dentro de los cinco (5) días hábiles siguientes a la ejecutoria del acto administrativo que declara la terminación, el Ministerio de Comercio, Industria y Turismo remitirá copia del acto administrativo en firme, conforme al artículo 87 de la Ley 1437 de 2011, a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN- por correo electrónico o en documento fisico, para lo de su competencia.
 
-ARTÍCULO
-
 ## art:2.2.1.14.4.5 — Obligaciones aduaneras derivadas de la terminación y/o cancelación del Programa
 
 En caso de terminación y/o cancelación del Programa o Subprograma, el usuario deberá cumplir las obligaciones aduaneras derivadas de las importaciones efectuadas al amparo del Programa, mediante la presentación de las declaraciones de importación de los bienes importados que no hayan sido involucrados en el bien final, liquidando los derechos de aduana, la diferencia del IVA, las sanciones y los intereses moratorias correspondientes, o reexportar las mercancías dentro de los treinta (30) días siguientes a la fecha de ejecutoria del acto administrativo de terminación o cancelación del Programa. En caso contrario, la Dirección Seccional de Aduanas competente dará inicio al procedimiento administrativo para la determinación de los derechos de aduana e impuestos a la importación, sanciones e intereses moratorias exigibles.
@@ -6285,8 +5499,6 @@ En caso de terminación y/o cancelación del Programa o Subprograma, el usuario 
 SECCIÓN 5
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.1.14.5.1 — Control y seguimiento al Programa de Fomento para la Industria Automotriz
 
@@ -6302,13 +5514,9 @@ CAPÍTULO 15
 
 SOCIEDADES COMERCIALES DE BENEFICIO E INTERÉS COLECTIVO (BIC)
 
-ARTÍCULO
-
 ## art:2.2.1.15.1 — Objeto y ámbito de aplicación
 
 El presente Capítulo tiene por objeto reglamentar la condición de sociedades comerciales de Beneficio e Interés Colectivo (BIC) de las que trata la Ley 1901 de 2018.
-
-ARTÍCULO
 
 ## art:2.2.1.15.2 — Incentivos para las sociedades de Beneficio e Interés Colectivo
 
@@ -6320,8 +5528,6 @@ Con el propósito de promover la adopción de la condición legal de "BIC", bajo
 
 3. Tratamiento tributario de las utilidades repartidas a través de acciones a los trabajadores. Las utilidades repartidas a través de acciones a los trabajadores de las sociedades de Beneficio e Interés Colectivo (BIC) organizadas cómo sociedad por acciones y que sean contribuyentes del impuesto sobre la renta y complementarios, tendrán el tratamiento previsto en los artículos 1.2.1.12.10. y 1.2.1.7.9. del Decreto 1625 de 2016, Decreto Único Reglamentario en Materia Tributaria.
 
-ARTÍCULO
-
 ## art:2.2.1.15.3 — Nombre comercial de las Sociedades de Beneficio e Interés Colectivo
 
 El nombre comercial de las sociedades que decidan adoptar la condición establecida en la Ley 1901 de 2018, se conformara por la razón o denominación social seguida de la abreviatura que corresponda según el tipo societario, a la que se le agregara la expresión "Beneficio e Interés Colectivo" o la sigla "BIC" para que puedan aplicarsele las disposiciones legales y reglamentarias correspondientes. Las Cámaras de Comercio se abstendrán de registrar las sociedades que en la reforma estatutaria o documento de inscripción correspondiente no den aplicación a lo señalado en el presente artículo.
@@ -6330,13 +5536,9 @@ La Superintendencia de Industria y Comercio, de acuerdo con sus funciones legale
 
 De manera transitoria y hasta tanto se ajuste el formulario de registro, bastara con la manifestación expresa del representante legal, en la que informe sobre la adopción de la condición de sociedad de beneficio e interés colectivo y que, a su vez, cumpla con los requisitos señalados en el presente Capítulo.
 
-ARTÍCULO
-
 ## art:2.2.1.15.4 — Objeto social de las Sociedades de Beneficio e Interés Colectivo
 
 Cualquier sociedad constituida en el territorio nacional puede adoptar la condición legal de sociedad de Beneficio e Interés Colectivo establecido en la Ley 1901 de 2018. Para el efecto, deberá incluir, de forma clara y expresa dentro de su objeto social, las actividades específicas de beneficio e interés colectivo que pretende desarrollar, de conformidad con el parágrafo del artículo 2 de la Ley 1901 de 2018 y lo señalado en el artículo 2.2.1.15.5. del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.1.15.5 — Competencia de las Cámaras de Comercio frente al registro de Sociedades de Beneficio e Interés Colectivo
 
@@ -6394,8 +5596,6 @@ PARÁGRAFO 1. Las dudas que se presenten frente al alcance de las dimensiones o 
 
 PARÁGRAFO 2. Las sociedades de Beneficio e Interés Colectivo constituidas con anterioridad a la entrada en vigencia del presente artículo contarán con un plazo de doce (12) meses para que, de ser del caso, procedan a ajustar sus estatutos y demás documentos a los requisitos señalados en el presente artículo. Vencido el referido plazo, la Superintendencia de Sociedades podrá verificar que las mismas se hayan ajustado a lo aca señalado y proferir las ordenes correspondientes.
 
-ARTÍCULO
-
 ## art:2.2.1.15.6 — Contenido del reporte de gestión sobre las actividades de beneficio e interés colectivo
 
 Las sociedades de Beneficio e Interés Colectivo deberán preparar un reporte de gestión de conformidad con lo señalado en los artículos 5 y 6 de la Ley 1901 de 2018, en donde se revele en que ha consistido el desarrollo de las actividades expresamente incluidas dentro de su objeto social.
@@ -6405,8 +5605,6 @@ El reporte generado debe poder demostrar de forma cualitativa y cuantitativa el 
 Dicho reporte deberá ser preparado con base en uno de los estándares independientes que para el efecto haya sido reconocido por la Superintendencia de Sociedades, y en el encabezado del mismo deberá señalar el estándar escogido.
 
 En el evento de que el estándar independiente utilizado por una sociedad para preparar su reporte de gestión sea removido de la lista de estándares publicada por la Superintendencia de Sociedades, para presentar el correspondiente reporte, la sociedad deberá escoger uno nuevo dentro de los que ya se encuentren señalados en dicha lista. Si la sociedad pretende utilizar un estándar que aún no haya sido incluido en la lista, y sin perjuicio de que la facultad de actualización de la misma prevista en el parágrafo 2 del artículo 6 de la Ley 1901 de 2018 sea ejercida oficiosamente por la Superintendencia de Sociedades, la sociedad deberá solicitar a dicha entidad su inclusión dentro de la lista incluyendo las razones por las cuáles el estándar escogido cumple con los criterios señalados en el artículo 6 de la misma ley.
-
-ARTÍCULO
 
 ## art:2.2.1.15.7 — Incumplimiento de los estándares independientes
 
@@ -6422,13 +5620,9 @@ En cualquier caso, el incumplimiento deberá ser declarado por la Superintendenc
 
 PARÁGRAFO. Cuando de conformidad con lo señalado en el artículo 2 .2.1.15.11. de este Decreto el incumplimiento no se considere grave, la Superintendencia de Sociedades podrá impartir las ordenes correspondientes con el propósito de que se adopten las medidas correctivas necesarias, y su incumplimiento dará lugar a la imposición de multas de conformidad con lo previsto en el numeral 3 del artículo 86 de la Ley 222 de 1995.
 
-ARTÍCULO
-
 ## art:2.2.1.15.8 — Legitimación para presentar una solicitud de declaratoria de incumplimiento de estándares independientes
 
 Cualquier persona que acredite un interés legitimo podrá presentar una solicitud para que se declare que una sociedad de Beneficio e Interés Colectivo ha incumplido el estándar independiente escogido para reportar su gestión frente a las actividades "BIC" señaladas en sus estatutos. Para los efectos del presente artículo, se considera cómo sujetos con un interés legitimo los socios, administradores, el revisor fiscal, los acreedores, los empleados, y consumidores de la sociedad de beneficio e interés colectivo o quienes acrediten sufrir algún daño relacionado con las actividades de beneficio e interés colectivo por esta desarrolladas.
-
-ARTÍCULO
 
 ## art:2.2.1.15.9 — Contenido de la solicitud de declaratoria de incumplimiento de los estándares independientes
 
@@ -6439,8 +5633,6 @@ La solicitud deberá contener lo siguiente para poder ser tramitada:
 2. Acreditación del interés del solicitante en las actividades de beneficio e interés colectivo escogidas por la sociedad.
 
 3. Justificación del incumplimiento alegado junto con las pruebas (siquiera sumarias) del incumplimiento.
-
-ARTÍCULO
 
 ## art:2.2.1.15.10 — Autoridades competentes para declarar el incumplimiento de los estándares independientes
 
@@ -6455,8 +5647,6 @@ La Superintendencia de Sociedades será la autoridad competente para decidir las
 4. A la autoridad que considere competente, según las circunstancias específicas de cada caso.
 
 Las autoridades de quienes se requiera el concepto técnico correspondiente deberán responder la solicitud de la Superintendencia de Sociedades dentro del término señalado en la Ley 1437 de 2011 o normas que la modifiquen o sustituyan, so pena de lo establecido en el artículo 50 de la Ley 734 de 2002 o de la norma que lo sustituya.
-
-ARTÍCULO
 
 ## art:2.2.1.15.11 — Pérdida de la condición de Beneficio e Interés Colectivo
 
@@ -6478,8 +5668,6 @@ Así mismo, la sociedad no podrá volver a adquirir dicha condición sino transc
 
 PARÁGRAFO 2. La pérdida de la condición BIC originada en la reforma voluntaria de los estatutos solamente dará lugar al cobro de los gastos de inscripción relacionados con dicha reforma. Cuando la pérdida de la condición BIC provenga de la decisión de la Superintendencia de Sociedades, la inscripción de dicho acto no dará lugar a cobro alguno.
 
-ARTÍCULO
-
 ## art:2.2.1.15.12 — Supervision sobre las Sociedades de Beneficio e Interés Colectivo
 
 La Superintendencia de Sociedades será la encargada de ejercer la supervisión de las sociedades de Beneficio e Interés Colectivo, respecto al cumplimiento de la Ley 1901 de 2018, y sus decretos reglamentarios, sin que por ello se modifique el régimen aplicable de supervisión según la naturaleza y objeto de cada sociedad.
@@ -6489,8 +5677,6 @@ La Superintendencia de Sociedades será la encargada de ejercer la supervisión 
 Capítulo Adicionado por el Art.1 del Decreto 398 de 2020
 
 REUNIONES NO PRESENCIALES DE JUNTAS DE SOCIOS, ASAMBLEAS GENERALES DE ACCIONISTAS O JUNTAS DIRECTIVAS
-
-ARTÍCULO
 
 ## art:2.2.1.16.1 — Reuniones no presenciales
 
@@ -6512,13 +5698,9 @@ SECCIÓN 1
 
 MEDIDAS PARA EL CONTROL DE LA PRODUCCION, INTRODUCCION, MOVILIZACION Y COMERCIALIZACION DE ALCOHOL
 
-ARTÍCULO
-
 ## art:2.2.1.17.1.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar el procedimiento para el registro único de los productores, importadores, comercializadores o distribuidores y transformadores de alcohol potable y no potable ante los departamentos, a través del sistema SIANCO, las exigencias y régimen aplicable en cuánto al reporte de la información sobre la producción, importación, introducción y transacciones, así cómo para contribuir con el efectivo control a la evasion fiscal, salvaguardar la salud de la población y establecer los parámetros para la desnaturalización del alcohol potable no destinado al consumo humano.
-
-ARTÍCULO
 
 ## art:2.2.1.17.1.2 — Definiciones
 
@@ -6562,8 +5744,6 @@ También se considera introducción, el alcohol potable o no potable que ha sido
 
 13.4. Introductor-transformador de alcohol potable o no potable: Es la persona natural o jurídica que introduce alcohol potable o no potable al Departamento y que en su proceso industrial lo utiliza cómo materia prima, para la elaboración de sus productos.
 
-ARTÍCULO
-
 ## art:2.2.1.17.1.3 — Procedimiento para el Registro Único de alcohol potable y no potable
 
 Los productores, importadores, comercializadores o distribuidores, y transformadores de alcohol potable y no potable deberán registrarse, a través del Sistema de Información Integrado de Apoyo al Control de Impuestos al Consumo - SIANCO previo al inicio de sus operaciones.
@@ -6585,8 +5765,6 @@ En el caso del alcohol potable destinado a la fabricación de licor, el registro
 PARÁGRAFO. El Registro único de alcohol potable y no potable no se constituye en un trámite y se limita a la obligación legal de reportar información que ofrezca trazabilidad, constituyendose en una herramienta que apoya la labor de control posterior que efectuen los departamentos y el distrito capital.
 
 PARÁGRAFO TRANSITORIO: Los sujetos obligados al registro, deberán realizarlo dentro de los tres (3) meses siguientes a la entrada en operación del Sistema de Integrado de Apoyo al Control de Impuestos al Consumo -SIANCO. Una vez agotado este período de transición los productores, importadores, comercializadores o distribuidores y transformadores de alcohol potable y no potable, no podrán comercializar este producto si no cuentan con el debido registro.
-
-ARTÍCULO
 
 ## art:2.2.1.17.1.4 — Información del Registro Único de alcohol potable y no potable
 
@@ -6646,13 +5824,9 @@ PARÁGRAFO 3. Cuando los sujetos, objeto de este Decreto, dentro de su actividad
 
 Hasta tanto se logre la interoperabilidad entre los sistemas SIANCO y el INVIMA los sujetos obligados deberán acreditar los registros a través de SIANCO
 
-ARTÍCULO
-
 ## art:2.2.1.17.1.5 — Codificación Única del Alcohol Potable
 
 Los Departamentos en coordinación con la Federación Nacional de Departamentos, definirán e implementarán una codificación unica aplicable para la identificación, registro y control del alcohol potable y no potable. El Código único será asignado a través del sistema SIANCO.
-
-ARTÍCULO
 
 ## art:2.2.1.17.1.6 — Reporte de la producción, importación, introducción y transacción de alcohol
 
@@ -6698,13 +5872,9 @@ PARÁGRAFO 1. En el caso de los importadores de alcohol potable destinado a la f
 
 PARÁGRAFO 2. El importador, productor, introductor, comercializador o transformador, una vez haya entregado la información relacionada con transacciones y/o movilizaciones, sólo podrá cambiar el lugar de producción, transformación, almacenamiento o destino del alcohol, una vez actualice esta información en SIANCO.
 
-ARTÍCULO
-
 ## art:2.2.1.17.1.7 — Plazo para el reporte de la producción, importación e introducción y las transacciones de alcohol
 
 El reporte, deberá ser presentado dentro de los primeros diez (10) días calendario del mes siguiente al período reportado, a través del sistema SIANCO.
-
-ARTÍCULO
 
 ## art:2.2.1.17.1.8 — Documentos soporte para la movilización del producto
 
@@ -6732,7 +5902,7 @@ De conformidad con lo dispuesto por la Ley 1816 de 2016, las disposiciones que r
 
 3.3. Manifiesto de carga emitido por la empresa transportadora, en el cuál debe constar el lugar de destino declarado en el registro.
 
-## art:2.2 — 1.17 .1.9
+## art:2.2.1.17 — 1.9
 
 Declaración y pago de la participación de alcohol potable importado destinado a la fabricación de licores. Los importadores declararán y pagarán la participación del alcohol potable en el momento de la importación, con la tarifa mínima legal actualizada para el año correspondiente, según el artículo 15 de la Ley 1816 de 2016, conjuntamente con los impuestos y derechos nacionales que se causen en la misma. El pago de la participación se efectuará a ordenes del Fondo-Cuenta de Impuestos al Consumo de Productos Extranjeros.
 
@@ -6750,8 +5920,6 @@ El alcohol potable no destinado para consumo humano deberá ser desnaturalizado 
 
 2. Los importadores deberán desnaturalizar en zona franca. Para los importadores transformadores de alcohol potable, el momento y lugar de desnaturalización será durante el proceso industrial.
 
-ARTÍCULO
-
 ## art:2.2.1.17.2.3 — Productos y formulación de la desnaturalización
 
 Para la desnaturalización del alcohol potable que no este destinado al consumo humano y no se desnaturalice mediante la transformación durante un proceso productivo, se deberán emplear las sustancias quimicas y las formulaciones enlistadas en la NTC 47, cuarta actualización o en su defecto, en la última versión del Código de Regulaciones Federales (Code of Federal Regulations) de los Estados Unidos de América.
@@ -6762,15 +5930,11 @@ Capítulo 18, Adicionado por el Art.1 del Decreto 854 de 2021
 
 HIPOTESIS DE NEGOCIO EN MARCHA, DETERIOROS PATRIMONIALES Y RIESGO DE INSOLVENCIA
 
-ARTÍCULO
-
 ## art:2.2.1.18.1 — Verificación de la causal de disolución por no cumplimiento de la hipotesis de negocio en marcha
 
 La causal de disolución por no cumplimiento de la hipotesis de negocio en marcha se verificará por parte de los administradores sociales, al momento de elaborar los estados financieros de propósito general al cierre del ejercicio. De esta forma, si estos se preparán considerando que la hipotesis de negocio en marcha no se cumple, los mismos deberán ser presentados, con la información completa y documentada que soporta la evaluación de la administración, al máximo órgano social en la reunión ordinaria para que se tomen las decisiones correspondientes por parte de dicho órgano.
 
 (Adicionado por el Art. 1 del Decreto 854 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.18.2 — Alertas y criterios sobre deterioros patrimoniales y riesgos de insolvencia
 
@@ -6816,23 +5980,17 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.19.1.1 — Objeto
 
 El siguiente Capítulo tiene cómo propósito establecer, en cumplimiento de lo establecido en el artículo 5 de la Ley 2069 de 2020, una regulación complementaria para que las entidades del Gobierno nacional puedan crear los mecanismos exploratorios de regulación para modelos de negocio innovadores en industrias reguladas y ambientes especiales de vigilancia y control o sandbox regulatorio.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.19.1.2 — Ámbito de aplicación
 
 Las disposiciones del presente Capítulo les aplican a todas las entidades del Gobierno nacional que tienen la competencia legal para expedir y adoptar regulaciones, a través de las cuáles intervienen en la actividad económica de los particulares; así cómo para aquellas que tiene la función de inspección, vigilancia y control sobre empresas en industrias reguladas.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.1.3 — Definiciones
 
@@ -6853,8 +6011,6 @@ Para efectos del presente decreto, deberán tenerse en cuenta las siguientes def
 7. Certificado de operación temporal: es un acto administrativo particular y concreto con el cuál se autoriza al participante a desarrollar su modelo de negocio innovador dentro del ambiente especial de vigilancia y control o sandbox regulatorio.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.1.4 — 
 
@@ -6890,8 +6046,6 @@ SECCIÓN 2
 
 AMBIENTE ESPECIAL DE VIGILANCIA Y CONTROL O SANDBOX REGULATORIO
 
-ARTÍCULO
-
 ## art:2.2.1.19.2.1 — Objetivo de los ambientes especiales de vigilancia y control o sandbox regulatorio
 
 Los ambientes especiales de vigilancia y control tienen cómo principal objetivo facilitar la creación y el crecimiento de modelos de negocio innovadores que generen un alto valor agregado al producto que desarrollan.
@@ -6899,8 +6053,6 @@ Los ambientes especiales de vigilancia y control tienen cómo principal objetivo
 La forma en que generan valor agregado, conforme a lo establecido en la ley, debe ser a través del desarrollo tecnológico, la mitigación de efectos medioambientales y/o el desarrollo de modelos de negocio sostenibles.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.2.2 — Régimen de excepción regulatoria
 
@@ -6919,8 +6071,6 @@ PARÁGRAFO 3. El régimen de excepción regulatoria no tiene efectos respecto de
 Si el régimen aplica respecto de un acto administrativo de carácter particular en el que el participante del ambiente es el titular del derecho, con su participación en el sandbox se entiende que acepta su inaplicación, dispensa o suspensión por el tiempo que opere el ambiente.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.2.3 — Creación de los ambientes especiales de vigilancia y control o sandbox regulatorio
 
@@ -6962,8 +6112,6 @@ PARÁGRAFO 7. En aquellos casos en los que se 'fijen límites maximos de partici
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.19.2.4 — Iniciativa privada en la creación de ambientes especiales de vigilancia y control
 
 Un particular que tenga interés en la creación de un ambiente especial de vigilancia o control podrá proponerselo al Comité técnico para el desarrollo de mecanismos exploratorios de regulación para modelos de negocio innovadores en industrias reguladas. La propuesta podrá incluir el Proyecto de Sandbox, que deberá cumplir con lo estipulado en el artículo 2.2.1.19.2.3 de este Decreto.
@@ -6973,8 +6121,6 @@ Una vez sea recibida la propuesta, será evaluada por el Comité técnico y remi
 PARÁGRAFO. En la evaluación de la propuesta y en los casos en que la o las entidades decidan crear el ambiente especial de vigilancia y control por iniciativa de un particular, se deberá garantizar que las condiciones de participación y operación permitan la concurrencia de diversos participantes, adicionales al que presento la propuesta. Para garantizar esto, y cómo medida de transparencia, en la evaluación de la propuesta la entidad deberá dar cuenta de cómo los requisitos adoptados están basados en aspectos técnicos, objetivos y accesibles para los agentes del mercado.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.2.5 — Requisitos generales para operación temporal
 
@@ -7014,8 +6160,6 @@ Para el efecto, los interesados en el reconocimiento para operación temporal, a
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.19.2.6 — Convocatoria pública para participar del ambiente especial de vigilancia y control o sandbox regulatorio
 
 Una vez cumplido con el período de consulta pública, la entidad abrira una convocatoria para que todos los interesados presenten los documentos necesarios para acreditar los requisitos establecidos en el Proyecto de Sandbox. La convocatoria podrá ser permanente y estar abierta durante todo el período de operación del sandbox, o limitada a un término definido. En este último caso, el plazo de la convocatoria será razonable para que las empresas puedan cumplir con los requisitos y aplicar. En ningún caso podrá ser inferior a treinta (30) días calendario. La convocatoria y las fechas para recibir las propuestas de los participantes, será publicada en la página web de la entidad.
@@ -7031,8 +6175,6 @@ PARÁGRAFO. Una vez cierre la convocatoria o se resuelva la admisión de un part
 La persona deberá acreditar, de manera sumaria, el derecho que posee y la forma en que la admisión del participante lo afecta. Ante esta situación, la entidad podrá solicitar salvaguardias o rechazar al participante, hasta tanto no acredite la resolución del conflicto.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.2.7 — Certificado de operación temporal
 
@@ -7061,8 +6203,6 @@ Dicho certificado contendrá lo siguiente:
 10. Términos del plan de transición, de desmonte o de ajuste, según sea el caso.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.2.8 — Deberes de los participantes
 
@@ -7100,8 +6240,6 @@ Quienes sean aceptados para participar del ambiente especial de vigilancia y con
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.19.2.9 — Deberes de la entidad
 
 La entidad o entidades con facultades de regulación que administren el ambiente especial de vigilancia y control deberán:
@@ -7122,8 +6260,6 @@ Cada alternativa de finalización debe contemplar precisas instrucciones para el
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.1.9.2.11 — Informe de Evaluación y compromiso de mejora regulatoria
 
 Las entidades de regulación y los participantes, antes de finalizar cada ambiente especial de vigilancia y control deben presentar un informe de evaluación del marco regulatorio de la industria. Este informe se construira a partir de la operación de los ambientes y deberá dar cuenta de la eficiencia y eficacia del régimen de excepción regulatoria.
@@ -7131,8 +6267,6 @@ Las entidades de regulación y los participantes, antes de finalizar cada ambien
 A partir de este informe, la entidad con facultades de regulación deberá elaborar un plan de mejora del marco regulatorio que considere la adopción como normatividad permanente aquellas medidas excepcionales que facilitaron el desarrollo del modelo de negocio, siempre y cuando sean necesarias, eficientes y proporcionales con los principios, fines y derechos constitucionales.
 
 (Adicionado por el Art. 1 del Decreto 1732 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.19.2.12 — Inspección, vigilancia y control
 
@@ -7418,8 +6552,6 @@ SECCIÓN 1
 
 INSPECCIÓN, VIGILANCIA Y CONTROL
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.1 — Causales de vigilancia por activos o ingresos
 
 Quedarán sometidas a la vigilancia de la Superintendencia de Sociedades, siempre y cuando no estén sujetas a la vigilancia de otra Superintendencia, las sociedades mercantiles y las empresas unipersonales que a 31 de diciembre de 2006, o al cierre de los ejercicios sociales posteriores, registren:
@@ -7438,8 +6570,6 @@ La vigilancia en este evento, iniciara el primer día hábil del mes de abril de
 
 (Decreto 4350 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.2 — Situaciones que dan lugar a vigilancia
 
 Quedarán sometidas a la vigilancia de la Superintendencia de Sociedades, las sociedades mercantiles y las empresas unipersonales que, a 31 de diciembre de 2006 o al cierre de los ejercicios sociales posteriores, tengan pensionados a su cargo, siempre y cuando se encuentren en una de las siguientes situaciones:
@@ -7457,8 +6587,6 @@ PARÁGRAFO 1. Respecto de los sujetos señalados en este artículo, la vigilanci
 PARÁGRAFO 2. Para los fines de este artículo, el representante legal de la compañía, dentro de los quince días siguientes a la ocurrencia del hecho que configura la causal de vigilancia, deberá informar dicha situación a la Superintendencia de Sociedades.
 
 (Decreto 4350 de 2006, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.3 — Vigilancia en los casos de acuerdos de reestructuración y situaciones de control o grupo empresarial
 
@@ -7492,8 +6620,6 @@ PARÁGRAFO 2. Para los fines de este artículo, el representante legal de la com
 
 (Decreto 4350 de 2006, art. 3; modificado el numeral 2.1., por el Decreto 2300 de 2008, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.4 — Irregularidades que dan lugar a sometimiento a vigilancia
 
 Quedarán sometidas a la vigilancia de la Superintendencia de Sociedades, siempre y cuando no lo estén por otra Superintendencia, aquellas sociedades mercantiles y empresas unipersonales que señale el Superintendente por acto administrativo particular en los siguientes casos:
@@ -7515,8 +6641,6 @@ La Dirección Nacional de Estupefacientes en liquidación, o la entidad que haga
 PARÁGRAFO. El Superintendente de Sociedades exonerara de vigilancia a las sociedades que sean sometidas a la misma, en los términos del presente artículo, cuando desaparezcan las razones que dieron lugar ella, conforme a la ley, salvo que estén incursas en otra causal de vigilancia.
 
 (Decreto 4350 de 2006, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.5 — Vigilancia especial
 
@@ -7543,8 +6667,6 @@ PARÁGRAFO 2. Una sociedad comercial operadora de libranza estará sometida a la
 Lo anterior, sin perjuicio de la facultad de la Superintendencia de Sociedades de someter a control a la sociedad operadora de conformidad con el artículo 85 de la Ley 222 de 1995. "
 
 (Modificado por el Art. 3 del Decreto 1008 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.6 — Facultades de la Superintendencia de Sociedades
 
@@ -7573,8 +6695,6 @@ PARÁGRAFO 3. Para los efectos del presente capítulo, se entiende por interesad
 SECCIÓN 2
 
 SUCURSALES DE SOCIEDADES EXTRANJERAS SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA DE SOCIEDADES
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.1 — Vigilancia de las sucursales de sociedades extranjeras
 
@@ -7610,8 +6730,6 @@ PARÁGRAFO 4. En las situaciones descritas en el numeral 3. del presente artícu
 
 (Decreto 2300 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.2 — Obligaciones de los mandatarios de sucursales de sociedades extranjeras
 
 Los mandatarios generales de todas las sucursales de sociedades extranjeras deberán:
@@ -7626,23 +6744,17 @@ PARÁGRAFO. En todo caso, la sucursal no podrá efectuar la disminución de la i
 
 (Decreto 2300 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3 — Inspección, vigilancia y control de las sucursales de sociedades extranjeras
 
 Las sucursales de sociedades extranjeras se sujetarán a los niveles de inspección, vigilancia o control, en los términos de los artículos 83, 84 y 85 de la Ley 222 de 1995, en armonía con el artículo 497 del Código de Comercio, según el cual a aquellas les serán aplicadas las reglas de las sociedades colombianas.
 
 (Decreto 2300 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.4 — Desarrollo de la actividad de las sucursales de sociedades extranjeras
 
 Las sucursales de sociedades extranjeras inspeccionadas, de la misma manera que las vigiladas y controladas, deberán desarrollar su actividad conforme a las exigencias previstas en el Título VIII, del Libro Segundo del Código de Comercio.
 
 (Decreto 2300 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.5 — Vigilancia en situaciones de control o grupo empresarial
 
@@ -7656,8 +6768,6 @@ Capítulo, Modificado por el Art.1 del Decreto 1079 de 2021
 
 SECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.1 — Redes regionales para el emprendimiento
 
 Las Redes Regionales para el Emprendimiento (RRE), adscritas a las gobernaciones departamentales, o quién haga sus veces, estarán integradas por los delegados de las entidades e instituciones a las cuáles se refiere el artículo 6 de la Ley 1014 de 2006. Para el cumplimiento de su objeto y funciones cada RRE trabajara en el marco de la comisión regional de competitividad del respectivo departamento.
@@ -7665,8 +6775,6 @@ Las Redes Regionales para el Emprendimiento (RRE), adscritas a las gobernaciones
 PARÁGRAFO. Los delegados a que se refiere el artículo 6 de la Ley 1014 de 2006 tendrán sus respectivos suplentes, quienes sólo asistirán a la reunión de la RRE, con voz y voto, en ausencia del delegado principal. De esta suplencia también deberá quedar constancia en el acto de delegación formal a que se refiere el parágrafo de dicho artículo.
 
 (Modificado por el Art. 1 del Decreto 1079 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.2 — Funcionamiento de las RRE
 
@@ -7680,8 +6788,6 @@ PARÁGRAFO. A las reuniones de la RRE podrán ser invitadas las entidades, insti
 
 (Modificado por el Art. 1 del Decreto 1079 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.3 — Secretaria técnica de las RRE
 
 La secretaria técnica de la Red Regional para el Emprendimiento, encargada de realizar todas las acciones de tipo administrativo, será ejercida por la cámara de comercio de la ciudad capital.
@@ -7692,15 +6798,11 @@ La entidad que ejerza la secretaria técnica trabajara de manera articulada con 
 
 (Modificado por el Art. 1 del Decreto 1079 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.4 — Registro de las redes regionales para el emprendimiento
 
 Las redes regionales para el emprendimiento deberán registrarse en el Ministerio de Comercio, Industria y Turismo, mediante una comunicación escrita por parte de la Gobernación Departamental y dirigida al Ministro de Comercio, Industria y Turismo o a quién este delegue (o quién haga sus veces). Dicha comunicación debe incluir una copia del convenio de constitución de la red debidamente suscrito por todos sus miembros y toda la información de composición y nombres completos de sus miembros con la respectiva información de contacto.
 
 (Modificado por el Art. 1 del Decreto 1079 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.1.5 — Informe anual de gestión de las Redes Regionales para el Emprendimiento
 
@@ -7713,8 +6815,6 @@ SECCIÓN 2
 Sección, Adicionada por el Art.2 del Decreto 1079 de 2021
 
 FORTALECIMIENTO DE LA CAPACIDAD Y VISION EXPORTADORA DE LOS EMPRENDIMIENTOS
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.1 — Acciones de los programas, instrumentos e iniciativas gubernamentales de internacionalización de emprendimientos
 
@@ -7730,8 +6830,6 @@ Los programas, instrumentos e iniciativas de gestión, capacitación, acompañam
 
 (Adicionado por el Art. 2 del Decreto 1079 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.2 — Seguimiento y evaluación
 
 Los programas, instrumentos e iniciativas a los que hace referencia el artículo anterior utilizarán esquemas de seguimiento y monitoreo pertinentes para verificar el efectivo cumplimiento de las metas.
@@ -7739,8 +6837,6 @@ Los programas, instrumentos e iniciativas a los que hace referencia el artículo
 Las entidades y organismos del Gobierno nacional a cargo de la gestión, capacitación, acompañamiento y/o apoyo implementarán mecanismos de evaluación periódica, al menos una vez al año, que permitan conocer si las acciones derivadas de estos esfuerzos efectivamente fortalecieron la vision y capacidad exportadora de las empresas intervenidas, con el propósito de escalar estos programas, instrumentos e iniciativas o, en su defecto, ajustarlos.
 
 (Adicionado por el Art. 2 del Decreto 1079 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.3 — Articulación y Orientación
 
@@ -7753,8 +6849,6 @@ PARÁGRAFO. El Ministerio de Comercio, Industria y Turismo velara por la articul
 SECCIÓN 3
 
 APROBACIÓN DEL INVENTARIO DEL PATRIMONIO SOCIAL POR PARTE DE LA SUPERINTENDENCIA DE SOCIEDADES
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.1 — Aprobación del inventario del patrimonio social
 
@@ -7774,27 +6868,19 @@ Sección Adicionada por el Art.1 del Decreto 1068 de 2020
 
 SOCIEDADES NO OPERATIVAS SUJETAS A LA SUPERVISION DE LA SUPERINTENDENCIA DE SOCIEDADES
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.1 — Competencia para declarar la disolución de las sociedades no operativas
 
 Las sociedades no sujetas a la supervisión de un ente especializado, que no estén en un proceso de insolvencia de que trata la Ley 1116 de 2006 y que se encuentren en cualquiera de los supuestos mencionados en el artículo 144 de la Ley 1955 de 2019, podrán ser declaradas disueltas por la Superintendencia de Sociedades, con base en las facultades señaladas en el numeral 7 del artículo 218 del Código de Comercio o las normas que lo modifiquen, aclaren o complementen. Para el ejercicio de esta facultad discrecional, la Superintendencia de Sociedades podrá tomar en consideración aspectos como: i) un enfoque basado en riesgos, ii) su política de supervisión, iii) un plan de trabajo escalonado y, iv) las capacidades técnicas y operativas disponibles.
 
 PARÁGRAFO. Para efectos de la contabilización de los tres (3) años consecutivos de que trata el artículo 144 de la Ley 1955 de 2019 se tendrán en cuenta los períodos anuales consecutivos omitidos en la renovación de la matrícula mercantil o en la entrega de la información financiera, independientemente del lapso trascurrido.
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.2 — Presunción de no operatividad por ausencia de renovación de la matrícula mercantil
 
 Para la aplicación de la presunción de inoperatividad por la ausencia de renovación de la matrícula mercantil por tres (3) años consecutivos, bastara con la verificación en la base de datos elaborada por la Cámara de Comercio correspondiente, la cuál deberá remitirse anualmente a la Superintendencia de Sociedades, dentro del mes siguiente a la solicitud que realice esta última. La base de datos deberá contener: i) la razón o denominación social, ii) el número de identificación tributaria (NIT), iii) la dirección de notificación judicial y iv) la indicación precisa de los tres (3) años durante los cuáles no fue renovado el registro mercantil.
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.3 — Presunción de no operatividad por ausencia del envío de información financiera
 
 Para la aplicación de la presunción de inoperatividad por el no envío de la información financiera requerida por la Superintendencia de Sociedades durante tres (3) años consecutivos, la Superintendencia hará una relación precisa de los períodos no reportados.
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.4 — Procedimiento para declarar la disolución de las sociedades no operativas
 
@@ -7806,21 +6892,15 @@ La Superintendencia de Sociedades le otorgará un plazo de treinta (30) días a 
 
 En todo caso, este procedimiento se regira por las reglas del procedimiento administrativo general previstas en los artículos 34 a 45 del Capítulo 1 del Título III del Código de Procedimiento Administrativo y de lo Contencioso Administrativo o las normas que lo modifiquen, aclararen o complementen.
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.5 — Prueba para desvirtuar la presunción de no operatividad
 
 La sociedad mercantil podrá desvirtuar la presunción de no operatividad en el plazo otorgado, acreditando que la sociedad se encuentra operativa, es decir, que esta desarrollando su objeto social, mediante una certificación del representante legal o cualquier otra prueba que así lo demuestre.
 
 Lo previsto en el presente artículo, no exime a la sociedad comercial del cumplimiento de las obligaciones derivadas de la calidad de comerciante previstas en la Ley y la entrega de la información financiera a la Superintendencia de Sociedades.
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.6 — Declaración de la Superintendencia de Sociedades
 
 Si la Superintendencia de Sociedades, luego de revisado el expediente, encuentra que, dentro del plazo establecido, no se recibió respuesta o no se desvirtuo la presunción de sociedad no operativa, declarara a la sociedad disuelta y en estado de liquidación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.7 — Inscripción de la declaración de disolución
 
@@ -7830,13 +6910,9 @@ PARÁGRAFO 1. La inscripción de la declaración de disolución corresponde a un
 
 PARÁGRAFO 2. La inscripción de la declaración de disolución reglada en este Decreto es independiente de la disolución de personas jurídicas cómo consecuencia de la depuración del Registro Único Empresarial y Social, RUES, prevista en el artículo 31 de la Ley 1727 de 2014.
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.8 — Reactivación
 
 La Asamblea General de Accionistas, la Junta de Socios o el accionista único de la sociedad, podrá, en cualquier momento posterior a la declaración de disolución, acordar la reactivación de la sociedad en los términos y con el cumplimiento de los requisitos establecidos por el artículo 29 de la Ley 1429 de 2010.
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.9 — Período de transición
 
@@ -7920,15 +6996,11 @@ CAPÍTULO 2
 
 EMPRESAS DE FACTORING SUJETAS A LA VIGILANCIA DE LA SUPERINTENDENCIA DE SOCIEDADES
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Ámbito de aplicación
 
 Las disposiciones contempladas en el presente decreto se aplicarán de conformidad con las definiciones previstas en el artículo 2.2. 2.2.2. de este Decreto, a los factores constituidos cómo sociedades comerciales, que no estén bajo la vigilancia de la Superintendencia Financiera de Colombia o de la Superintendencia de Economía Solidaria y tengan cómo objeto social exclusivo la actividad de factoring.
 
 (Decreto 2669 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2 — Definiciones
 
@@ -7962,15 +7034,11 @@ ACTIVIDAD DE CORRETAJE DE FACTORING: El corretaje de factoring, entendido cómo 
 
 (Decreto 2669 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.3 — Límite de solvencia obligatoria para las empresas de factoring o descuento de cartera
 
 El límite de solvencia de que trata el artículo 89 de la Ley 1676 de 2013, se calculará considerando el valor de los contratos de mandato específicos vigentes con terceras personas para la adquisición de facturas con relación al valor del patrimonio que tenga registrado la sociedad en el estado financiero de período intermedio del último día calendario del mes inmediatamente anterior.
 
 (Decreto 1219 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.2.4 — Incumplimiento del límite de solvencia para las empresas de factoring o descuento de cartera
 
@@ -7980,23 +7048,17 @@ La Superintendencia de Sociedades podrá verificar el cumplimiento del límite d
 
 (Decreto 1219 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.2.5 — Riesgo de impago o de insolvencia
 
 En cualquier caso, tanto el cedente o endosante, cómo el factor, podrán proteger el riesgo de impago o de insolvencia del obligado, mediante la contratación de un seguro.
 
 (Decreto 2669 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.2.6 — Operaciones de factoring sobre títulos de plazo que hubiere vencido
 
 En las operaciones de factoring sobre títulos cuyo plazo hubiere vencido, las partes intervinientes podrán acordar libremente la tasa de descuento o el precio que les convenga.
 
 (Decreto 2669 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.2.7 — Clausulas de cesión
 
@@ -8010,15 +7072,11 @@ Por lo que respecta a las relaciones entre las partes, en el contrato de factori
 
 (Decreto 2669 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.2.8 — Endoso o cesión por parte del proveedor
 
 El endoso de la factura de venta o la cesión de un crédito por el proveedor, surtirá efectos no obstante cualquier acuerdo entre el proveedor y el deudor que prohiba tal endoso o cesión.
 
 (Decreto 2669 de 2012, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.2.9 — Registro Único Nacional de Factores
 
@@ -8028,15 +7086,11 @@ Esta misma obligación aplicará a las sociedades comerciales que realicen la ac
 
 (Decreto 2669 de 2012, art. 8; modificado por el Decreto 1219 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.10 — Prevención del lavado de activos y de la financiación del terrorismo
 
 Los administradores de los factores a los que se refiere este capítulo, serán responsables de que las empresas bajo su administración cumplan con lo previsto en el artículo 8 de la Ley 1231 de 2008 y en las demás normas que regulan la prevención del lavado de activos y la financiación del terrorismo.
 
 (Decreto 2669 de 2012, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.2.11 — Transparencia empresarial
 
@@ -8056,15 +7110,11 @@ Los factores a quienes se refiere este capítulo, por conducto de su máximo ór
 
 (Decreto 2669 de 2012, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.2.12 — Prácticas contables
 
 Los factores a quienes se refiere este capítulo deberán sujetarse a las normas de contabilidad, de información financiera y de aseguramiento de información que imparta el Gobierno Nacional, así cómo a las normas técnicas especiales, interpretaciones y guías expedidas por las autoridades de supervisión.
 
 (Decreto 2669 de 2012, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.2.13 — Recursos para la realización de operaciones de factoring
 
@@ -8080,8 +7130,6 @@ Para ejercer la actividad de factoring, el factor se financiara de la siguiente 
 
 (Decreto 2669 de 2012, art 12 Modificado numeral 3, por el art. 3, Decreto 1219 de 2014)
 
-ARTÍCULO
-
 ## art:2.2.2.2.14 — Operaciones prohibidas
 
 Los factores no podran:
@@ -8093,8 +7141,6 @@ Los factores no podran:
 3. Celebrar contratos de mutuo excediendo los límites establecidos en el Decreto número 1981 de 1988, o la norma que lo modifique o sustituya.
 
 (Decreto 2669 de 2012, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.2.15 — .15
 
@@ -8119,6 +7165,24 @@ Algunos posibles eventos de conflicto de intereses son los actos o negocios en q
 Se considera que son actos de competencia con la sociedad en el marco de lo dispuesto en el numeral 7 del artículo 23 de la Ley 222 de 1995, de forma enunciativa y no limitativa, aquellos. que implican por parte del administrador, directamente o por interpuesta persona. la concurrencia en un mismo mercado, o cuando el administrador toma para para sí, directamente o por interpuesta persona, oportunidades de negocio que le correspondan o hubieran estado al alcance de la sociedad en la que este sujeto ejerce sus funciones.
 
 La conducta de ley no califica la forma como se desarrolla esa competencia, es decir, no se exige que involucre una práctica restrictiva de la competencia o competencia desleal, basta que implique competencia con la sociedad.
+
+## art:2.2 — ,2.3.3
+
+Conflicto de intereses por interpuesta persona. Para los fines del numeral 7 del artículo 23 de la Ley 222 de 1995, con carácter enunciativo y no limitativo, los administradores podrían estar incurriendo en competencia o conflicto de intereses por interpuesta persona, cuando en los actos correspondientes sean partes los siguientes sujetos:
+
+1 . El cónyuge o compañero permanente del administrador;
+
+2. Los parientes del administrador, de su cónyuge o de su compañero permanente, hasta el segundo grado de consanguinidad o civil, y segundo de afinidad;
+
+3. Las sociedades en las que el administrador o cualquiera de las personas mencionadas en los numerales anteriores, detenten la calidad de controlantes, conforme al artículo 260 del Código de Comercio;
+
+4. Las sociedades representadas simultáneamente por el administrador;
+
+5. Los patrimonios autónomos en los que el administrador, o cualquiera de las personas mencionadas en los numerales anteriores, sean fideicomitentes o beneficiarios, o que ejerza el control efectivo y/o final, o que tenga derecho a gozar y/o disponer de los activos, beneficios, resultados o utilidades; y
+
+6. Las personas que ejerzan control directo o indirecto sobre la sociedad en la que el administrador ejerce sus funciones o las subordinadas de dichos controlantes.
+
+PARÁGRAFO. Para los efectos aquí establecidos la situación de control no requiere que se encuentre inscrita en los términos del artículo 30 de la Ley 222 de 1995, dado que dicha omisión y sus consecuencias, no excluye la consideración de un eventual conflicto de intereses o competencia con la sociedad.
 
 ## art:2.2.2.3.4 — Procedimiento en casos de conflicto de intereses o actividades que impliquen competencia con la sociedad
 
@@ -8164,8 +7228,6 @@ SECCIÓN 1
 
 PROCEDIMIENTO PARA LA MODIFICACION O CANCELACION OBLIGATORIA ANTE AUTORIDAD ADMINISTRATIVA; Y SUPERVISION DEL FUNCIONAMIENTO DEL REGISTRO DE GARANTÍAS MOBILIARIAS
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.1 — Objeto
 
 La presente sección tiene por objeto reglamentar los artículos 5, 8, 12, 13, 22, 36 al 46, 48, 49, 54, 56, 72, 77, 78 y 85, los paragrafos de los artículos 11 y 14, el parágrafo 2 del artículo 65, los numerales 5 y 6 del artículo 19 y los numerales 1, 2 y 3 del artículo 65 de la Ley 1676 de 2013 y, en particular:
@@ -8175,8 +7237,6 @@ La presente sección tiene por objeto reglamentar los artículos 5, 8, 12, 13, 2
 2. La comunicación y consulta entre el Registro de Garantías Mobiliarias, y (i) el registro de propiedad industrial, (ii) el Registro Nacional Automotor, y (iii) los demás registros que así lo soliciten.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.2 — Definiciones
 
@@ -8216,8 +7276,6 @@ SISTEMA DE ARCHIVO: Es la información registral, clasificada y organizada, cont
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.3 — Funciones del Registro de Garantías Mobiliarias
 
 El Registro de Garantías Mobiliarias se llevará por Confecamaras y cumplirá las siguientes funciones:
@@ -8246,8 +7304,6 @@ El Registro de Garantías Mobiliarias se llevará por Confecamaras y cumplirá l
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.4 — Acceso al Registro de Garantías Mobiliarias
 
 Todas las personas tendrán acceso a los servicios del Registro de Garantías Mobiliarias referidos a la inscripción, consulta y/o solicitud de certificaciones y copias, de conformidad con los requisitos establecidos en la Ley 1676 de 2013, en el presente capítulo y en el manual de usuario. No se exigirán o impondrán requisitos o restricciones adicionales.
@@ -8262,8 +7318,6 @@ Las consultas al sistema de archivo, que contiene la información registral vige
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.5 — Creación de cuenta de usuario
 
 Para acceder a los servicios de inscripción se deberá crear una cuenta de usuario de conformidad con el siguiente procedimiento:
@@ -8277,8 +7331,6 @@ El Sistema del Registro de Garantías Mobiliarias se interconectara con un siste
 El procedimiento de verificación de la identidad del usuario estará descrito en el manual de usuario que expedirá Confecamaras y que hará parte de las condiciones de uso del Sistema del Registro de Garantías Mobiliarias. La violación a las condiciones de uso dará lugar a la aplicación por parte del Registro de Garantías Mobiliarias de las sanciones contractuales previstas en el manual de usuario.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.6 — Requisitos de inscripción
 
@@ -8306,8 +7358,6 @@ También tendrá acceso al Registro de Garantías Mobiliarias la Superintendenci
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.7 — Funciones de inscripción
 
 El Registro de Garantías Mobiliarias tendrá las siguientes funciones en lo referente a la inscripcion:
@@ -8327,8 +7377,6 @@ El Registro de Garantías Mobiliarias no verificará ni exigira que se demuestre
 No es función del Registro de Garantías Mobiliarias velar por que la información incorporada en los formularios de registro sea completa, precisa, correcta o legalmente suficiente, ni efectuará ningún examen o calificación registral de su contenido o de los documentos anexos a los formularios de registro.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.8 — Rechazo automatico de una solicitud de inscripción de un formulario de registro
 
@@ -8352,15 +7400,11 @@ El Registro de Garantías Mobiliarias informará automáticamente los motivos de
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.9 — Acceso a los servicios de consulta
 
 Toda persona podrá consultar la información registral vigente en el sistema de archivo del Registro de Garantías Mobiliarias. Si el Registro de Garantías Mobiliarias niega el acceso a los servicios de consulta, informará automáticamente los motivos.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.10 — Inscripción de un formulario de registro y validez
 
@@ -8371,8 +7415,6 @@ La inscripción de los formularios de registro será valida a partir de la fecha
 El Registro de Garantías Mobiliarias incorporara al sistema de archivo la constancia de la fecha y hora en que la información contenida en el formulario de inscripción inicial o de modificación se incorpore al sistema de archivo. La incorporación al sistema de archivo y la organización de la información se hará inmediatamente y en el orden en que sean incorporados los formularios electrónicamente.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.11 — Vigencia de una inscripción y prórroga
 
@@ -8386,23 +7428,17 @@ De conformidad con lo establecido en el artículo 42 de la Ley 1676 de 2013, la 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.12 — Momento en que podrá efectuarse la inscripción de la garantía
 
 Podra inscribirse una garantía mobiliaria en el Registro de Garantías Mobiliarias antes o después de la celebración del contrato de garantía de conformidad con lo establecido en el parágrafo del artículo 14 y en el inciso 1 del artículo 48 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.13 — Integridad del sistema de archivo
 
 El Registro de Garantías Mobiliarias no modificara la información consignada en el sistema de archivo. Tampoco restringira del acceso al público información del mismo salvo los casos expresamente previstos en este capítulo. El Registro de Garantías Mobiliarias deberá proteger el sistema de archivo contra pérdida o daños y deberá proveer mecanismos de copia de seguridad que permitan su recuperación.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.14 — Copia de los formularios de registro
 
@@ -8414,23 +7450,17 @@ Cualquier modificación en esta dirección deberá ser puesta en conocimiento po
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.15 — Archivo historico del Registro de Garantías Mobiliarias
 
 El Registro de Garantías Mobiliarias deberá conservar la información historica del sistema de archivo. Dicha información estará disponible para la consulta de las autoridades administrativas y judiciales cuando ellas lo requieran.
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.16 — Idioma de los formularios de registro
 
 La información contenida en los formularios de registro deberá diligenciarse en idioma español. Por su parte, los formularios de registro deberán estar disponibles tanto en idioma inglés cómo en español.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.17 — Información del formulario de inscripción inicial
 
@@ -8458,23 +7488,17 @@ PARÁGRAFO. Las garantías mobiliarias que se hayan hecho oponibles por la entre
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.18 — Inscripción de la garantía mobiliaria prioritaria de adquisición
 
 En el caso de registro de una garantía mobiliaria prioritaria de adquisición en el formulario de inscripción inicial, el acreedor garantizado hará referencia al carácter especial de la garantía de conformidad con lo dispuesto en el artículo 22 de la Ley 1676 de 2013 y deberá incluir una descripción de los bienes gravados por la misma en cumplimiento de lo dispuesto en el artículo 43 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.19 — Inscripción por efecto de la conversión de una garantía mobiliaria
 
 En el caso de registro de una garantía mobiliaria por efecto de la conversión de una garantía mobiliaria con tenencia o sin tenencia, el acreedor garantizado diligenciara un formulario de inscripción inicial.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.20 — Identificación del garante y del acreedor garantizado
 
@@ -8498,8 +7522,6 @@ En el caso de los patrimonios autónomos y encargos fiduciarios, el sistema perm
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.21 — Descripción de los bienes dados en garantía
 
 La descripción de los bienes en garantía estará contenida en el espacio previsto en el formulario de inscripción inicial de manera que permita su identificación.
@@ -8518,8 +7540,6 @@ Cuando se trate de bienes en garantía identificados con número de serie que no
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.22 — .22
 
 Información incorrecta o insuficiente respecto de la identificación del garante que afecte la oponibilidad de la inscripción. La información incorrecta o insuficiente respecto del número de identificación del garante que imposibilite la consulta implicara la inoponibilidad de la inscripción. Cualquier otro tipo de error en la identificación del garante no afectara la oponibilidad de la inscripción.
@@ -8527,8 +7547,6 @@ Información incorrecta o insuficiente respecto de la identificación del garant
 La información incorrecta o insuficiente que genere la inoponibilidad de la inscripción respecto de un garante no afectara la oponibilidad de la inscripción de otros garantes suficientemente identificados en el formulario de registro.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.23 — Modificación de la información
 
@@ -8544,23 +7562,17 @@ Si la modificación ha sido ordenada por una autoridad judicial a través del pr
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.24 — Modificación global de la información de un acreedor garantizado
 
 El acreedor garantizado incluido en multiples formularios de registro inscritos, puede modificar su propia información. Esta modificación afectara todos los formularios previamente inscritos, mediante la inscripción de un único formulario de modificación global que contendrá los datos de identificación del acreedor garantizado susceptibles de modificación global. En este evento el sistema solicitara automáticamente un mecanismo de reconfirmación.
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.25 — Formulario de cancelación de la inscripción de una garantía mobiliaria
 
 En el formulario de cancelación de la inscripción de una garantía mobiliaria, el acreedor garantizado deberá consignar el número de folio electrónico de inscripción otorgado al momento de la inscripción inicial.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.26 — Modificación o cancelación obligatorias
 
@@ -8586,15 +7598,11 @@ El acreedor garantizado deberá inscribir un formulario de modificación o de ca
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.27 — Procedimiento para la cancelación o modificación obligatoria
 
 En caso de que el acreedor garantizado no cumpla con la obligación de cancelación o modificación en los eventos previstos en los numerales 4, 5, 7, 8 y 9 del artículo anterior, el garante observara el procedimiento establecido en el artículo 76 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.28 — Procedimiento para la modificación o cancelación obligatorias ante autoridad administrativa
 
@@ -8612,8 +7620,6 @@ PARÁGRAFO. Para el ejercicio de la facultad prevista en este artículo, la Supe
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.29 — Reglas adicionales para la modificación o cancelación de la inscripción
 
 Para la modificación o cancelación de la inscripción de la garantía por parte del acreedor garantizado se observarán las siguientes reglas adicionales:
@@ -8623,8 +7629,6 @@ Para la modificación o cancelación de la inscripción de la garantía por part
 2. El garante no podrá requerir que se cancele la inscripción respecto de otros garantes identificados en la inscripción, a menos que se encuentre totalmente cancelada la obligación garantizada según lo dispuesto en el artículo 7 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.30 — Formulario de registro de ejecución
 
@@ -8650,8 +7654,6 @@ PARÁGRAFO. Identificado el folio electrónico por parte del acreedor garantizad
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.31 — Formulario de registro de terminación de la ejecución
 
 Sin perjuicio del derecho del acreedor garantizado de inscribir un formulario de ejecución en cualquier momento, deberá inscribir un formulario de registro de terminación de la ejecución cuando:
@@ -8672,8 +7674,6 @@ En el evento en que el acreedor garantizado no cumpla con la obligación mencion
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.32 — Formulario de restitución de tenencia por mora
 
 Para efecto de iniciar el procedimiento de restitución de bienes muebles objeto de contrato de comodato precario derivado de una fiducia en garantía que se ha hecho oponible por la inscripción en el Registro de Garantías Mobiliarias, el acreedor garantizado deberá inscribir un formulario de iniciación del proceso de restitución, de conformidad con lo dispuesto en el artículo 77 de la Ley 1676 de 2013, incorporando la siguiente información:
@@ -8688,8 +7688,6 @@ Debera adjuntarse al formulario de iniciación del proceso de restitución el co
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.33 — Registro de garantías surgidas por ministerio de la ley
 
 Los gravámenes judiciales y tributarios de que trata el artículo 9 de la Ley 1676 de 2013, para efectos de prelación, deberán ser inscritos en el Registro de Garantías Mobiliarias y deberán adjuntar la orden debidamente ejecutoriada de la autoridad judicial o administrativa competente o de la autoridad fiscal que constituye el gravamen.
@@ -8697,8 +7695,6 @@ Los gravámenes judiciales y tributarios de que trata el artículo 9 de la Ley 1
 Para el caso de los gravámenes judiciales o tributarios, los derechos y obligaciones otorgados a los acreedores garantizados por la Ley 1676 de 2013 y, por este capítulo, serán ejercidos por el beneficiario del gravamen judicial o por la autoridad fiscal nacional, departamental, distrital o municipal, según corresponda, quienes deberán efectuar el registro.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.34 — .34
 
@@ -8709,8 +7705,6 @@ El Registro de Garantías Mobiliarias permitirá la consulta en línea del regis
 Las garantías mobiliarias sobre otros derechos patrimoniales derivados de la propiedad intelectual que no estén sujetos a registro, se inscribirán y consultarán directamente en el Registro de Garantías Mobiliarias.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.35 — .35
 
@@ -8723,8 +7717,6 @@ Así mismo, el Registro de Garantías Mobiliarias proveera mecanismos de consult
 Al momento de la inscripción, modificación, ejecución, restitución y cancelación de la garantía en el Registro de Garantías Mobiliarias, este enviará automáticamente y por medios electrónicos la información concerniente a dichas inscripciones a los registros que así lo soliciten.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.36 — Registro de garantías mobiliarias sobre vehículos automotores
 
@@ -8744,15 +7736,11 @@ Lo anterior, sin perjuicio de la inscripción inicial, la inscripción de modifi
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.37 — Criterios de consulta
 
 La consulta en el sistema de archivo que contiene la información registral vigente se hará por el número de identificación del garante según lo dispuesto en este capítulo. Adicionalmente, el Registro de Garantías Mobiliarias podrá ofrecer la consulta por el nombre del garante o por el número de serie, siempre y cuando el bien en garantía haya sido descrito con un número de serie.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.38 — Resultado de la consulta
 
@@ -8768,15 +7756,11 @@ El usuario también podrá solicitar copia de los formularios y de los documento
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.1.39 — Estructura administrativa del Registro de Garantías Mobiliarias
 
 Confecamaras determinará la estructura administrativa responsable del Registro de Garantías Mobiliarias.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.40 — Derechos de registro y formularios de registro
 
@@ -8793,8 +7777,6 @@ El Ministerio de Comercio, Industria y Turismo podrá incluir en los formularios
 PARÁGRAFO. Confecamaras presentara al Ministerio de Comercio, Industria y Turismo un estudio técnico soporte de la propuesta de derechos de registro, de los formularios de registro y del manual de usuario. La Superintendencia de Sociedades supervisara el funcionamiento del Registro de Garantías Mobiliarias y el cumplimiento de sus funciones y las que corresponden al administrador del mismo.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.1.41 — Registro de Garantías Mobiliarias Constituidas antes de la vigencia de la Ley 1676 de 2013
 
@@ -8824,15 +7806,11 @@ SECCIÓN 2
 
 MECANISMOS DE EJECUCION INDIVIDUAL Y CONCURSAL DE LA LEY 1676 DE 2013 Y DE LA LEY 1116 DE 2006
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.1 — Objeto
 
 La presente sección tiene por objeto reglamentar los mecanismos de ejecución individual sobre las garantías otorgadas sobre los bienes de que trata la Ley 1676 de 2013, así cómo las ejecuciones sobre las garantías reales, en el marco de los procesos concursales previstos en la Ley 1116 de 2006.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.2 — Definiciones
 
@@ -8855,8 +7833,6 @@ Garantía mobiliaria prioritaria de adquisicion: Para efectos de la aplicación 
 Monto estimado de la obligación garantizada: Es la liquidación del crédito declarada por el acreedor garantizado y contenida en el formulario registral de ejecución. Adicionalmente, en el campo dispuesto para ello en el mencionado formulario, se discriminarán los componentes de la obligación previstos en el artículo 7 de la Ley 1676 de 2013. Culminado el pago directo o el proceso de ejecución especial de la garantía, cualquier discusión sobre montos diferentes a los señalados en el Registro de Garantías Mobiliarias podrá ser debatida a través de los mecanismos alternativos de solución de controversias o por medio de un proceso declarativo.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.3 — Mecanismo de ejecución por pago directo
 
@@ -8914,8 +7890,6 @@ PARÁGRAFO 3. A los negocios fiduciarios con fines de garantía, ya sea que se t
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.4 — Inscripción de la ejecución especial de la garantía
 
 De conformidad con lo dispuesto en el numeral 1 del artículo 65 de la Ley 1676 de 2013, exigible o incumplida la obligación garantizada, el acreedor garantizado dará comienzo a la ejecución especial de la garantía mediante la inscripción en el Registro de Garantías Mobiliarias del formulario registral de ejecución, de haber sido oponible la garantía a través de la inscripción en el Registro de Garantías Mobiliarias. Inscrito el formulario de ejecución, las obligaciones garantizadas de los demás acreedores se harán exigibles.
@@ -8927,8 +7901,6 @@ Si pasados treinta (30) días de efectuada la inscripción del formulario regist
 En el evento en que el acreedor garantizado no cumpla con esta obligación, de conformidad con lo dispuesto en el artículo 2.2.2.4.1.31., el garante podrá solicitar su cumplimiento aplicando el procedimiento establecido en el artículo 76 de la Ley 1676 de 2013 y en el presente capítulo.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.5 — Solicitud de inicio del procedimiento de ejecución especial de la garantía
 
@@ -8956,8 +7928,6 @@ PARÁGRAFO. Cuando no se haya pactado mecanismo especial de enajenación o de ap
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.6 — Anexos de la solicitud
 
 La solicitud de que trata el artículo anterior deberá acompañarse de los siguientes documentos:
@@ -8976,8 +7946,6 @@ Si la garantía se hizo oponible por un mecanismo distinto a la inscripción en 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.7 — Requerimiento escrito para iniciar el procedimiento de ejecución especial
 
 El acreedor al que se le haya incumplido una obligación garantizada, sobre la cual no se hubiera pactado el mecanismo de ejecución especial de la garantía, podrá requerir por escrito al deudor a efecto de acordar con el la procedencia de dicho procedimiento, según lo dispuesto en el parágrafo del artículo 58 de la Ley 1676 de 2013.
@@ -8986,15 +7954,11 @@ Pasado el término de diez (10) días sin haberse acordado la procedencia de la 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.8 — 2.8
 
 Procedencia de la ejecución especial en garantías mobiliarias constituidas con anterioridad a la vigencia de la Ley 1676 de 2013. Cuando la garantía mobiliaria se hubiere constituido previamente a la entrada en vigencia de la Ley 1676 de 2013 y se hubiera efectuado su inscripción en el Registro de Garantías Mobiliarias en los términos previstos en el artículo 2.2.2.4.1.41., ante el incumplimiento de la obligación garantizada , el acreedor garantizado podrá requerir por escrito al deudor para acordar con el la procedencia de la ejecución especial de la garantía, de conformidad con lo dispuesto en el parágrafo del artículo 58 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.9 — Aceptación e inicio del procedimiento de ejecución especial
 
@@ -9015,8 +7979,6 @@ La entidad autorizada no hará control de legalidad del contenido de los contrat
 PARÁGRAFO. La entidad autorizada deberá proceder a tramitar las solicitudes de venta de la garantía que se le presenten en desarrollo de lo previsto en el numeral 7 del artículo 61 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.10 — Acreedores garantizados concurrentes en procedimiento de ejecución especial de la garantía
 
@@ -9042,8 +8004,6 @@ En este último evento, la entidad autorizada deberá levantar acta de terminaci
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.11 — Presentación de las oposiciones a la ejecución
 
 El garante podrá formular, dentro de los diez (10) días siguientes contados a partir del día siguiente al recibo de la comunicación, las oposiciones a la ejecución de que trata el artículo 66 de la Ley 1676 de 2013 frente a uno o algunos de los acreedores garantizados que tengan garantías concurrentes sobre el mismo bien objeto de la ejecución, las cuáles formarán parte del expediente.
@@ -9053,8 +8013,6 @@ El escrito de oposición a la ejecución especial deberá identificar la causal 
 Las oposiciones presentadas por el deudor garante serán puestas en conocimiento de los acreedores quienes dentro de los cinco (5) días siguientes se pronunciarán sobre las mismas, aportando las pruebas que pretendan hacer valer.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.12 — Trámite de la oposición ante la entidad autorizada
 
@@ -9067,8 +8025,6 @@ Para todos los efectos de esta Sección y de acuerdo con lo dispuesto en el art�
 PARÁGRAFO. En el evento de acreditarse la existencia de un pacto arbitral, la entidad autorizada remitirá la oposición al centro de arbitraje designado en el pacto arbitral o el que corresponda según la ley, de conformidad con lo dispuesto en el artículo 67 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.13 — Resolución de oposiciones
 
@@ -9094,8 +8050,6 @@ Si la autoridad jurisdiccional competente no encuentra fundadas las oposiciones 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.14 — Continuación y reanudación de la ejecución
 
 En caso de que no se hubieren presentado oposiciones, o una vez resueltas y recibido el expediente por la entidad autorizada, esta comunicará, dentro de los tres (3) días siguientes, al deudor garante y a la totalidad de los acreedores garantizados, la decisión de la autoridad jurisdiccional competente y, de ser el caso, la continuación del procedimiento.
@@ -9106,15 +8060,11 @@ Los mecanismos de apropiación o enajenación pactados contractualmente por qui�
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.15 — Valoración de los bienes en garantía
 
 Para efecto de determinar el valor de los bienes en garantía y antes de proceder a la apropiación o enajenación de los mismos, procederá la valoración de los bienes en garantía en los términos previstos en el contrato o en su defecto en esta sección.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.16 — Procedimiento de apropiación directa
 
@@ -9132,8 +8082,6 @@ Su aplicación al pago de la obligación garantizada seguirá las reglas previst
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.17 — Enajenación
 
 De conformidad con lo dispuesto en el numeral 1 del artículo 62 y el artículo 71 de la Ley 1676 de 2013, el acreedor garantizado y el deudor garante podrán pactar en el contrato de garantía, en sus modificaciones o en acuerdos posteriores, un procedimiento especial de enajenación. En su defecto se aplicará el procedimiento de enajenación previsto en el artículo 69 de la mencionada ley, así:
@@ -9150,23 +8098,17 @@ Cuando la enajenación se haga directamente por el acreedor garantizado, el adqu
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.18 — Abuso de la posición contractual
 
 Se constituye en ejercicio abusivo de los derechos del acreedor de conformidad con el artículo 73 de la Ley 1676 de 2013, la falta de determinación de un mecanismo de valoración, cuando en ejercicio de la libertad de estipulación contractual, el deudor garante y el acreedor garantizado haya pactado mecanismos de apropiación directa o enajenación.
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.19 — Pago de los acreedores concurrentes de mejor derecho y pago de los remanentes
 
 Para los efectos de pago en el procedimiento de ejecución especial de la garantía a los acreedores de mejor derecho y el pago de los remanentes a los acreedores concurrentes o al deudor garante se aplicará lo dispuesto en el numeral 3 del artículo 70 de la Ley 1676 de 2013. A solicitud del acreedor garantizado, la entidad autorizada podrá constituir el depósito judicial a favor de quién corresponda.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.20 — Terminación del procedimiento de ejecución especial
 
@@ -9176,15 +8118,11 @@ Las entidades autorizadas podrán conservar los expedientes de los procedimiento
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.21 — Desistimiento de la ejecución
 
 Desistida la ejecución en los términos del numeral 4 del artículo 67 de la Ley 1676 de 2013, la autoridad jurisdiccional competente lo comunicará a la entidad autorizada que conoce el trámite de ejecución especial en los términos del numeral 5 del mismo artículo.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.22 — Terminación anormal del procedimiento de ejecución especial
 
@@ -9198,8 +8136,6 @@ El procedimiento de ejecución especial terminara en cualquiera de los siguiente
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.23 — Tarifas y expensas
 
 El Gobierno Nacional fijara la tarifa máxima aplicable a los notarios y el Ministerio de Comercio, Industria y Turismo hará lo correspondiente frente a las Cámaras de Comercio, que adelanten los procedimientos de ejecución especial de la garantía y de restitución de tenencia por mora, de acuerdo con el estudio que para el efecto le presenten dichas entidades que no tendrá carácter vinculante.
@@ -9211,8 +8147,6 @@ Las expensas causadas a lo largo del procedimiento deberán ser asumidas por el 
 PARÁGRAFO. Las Cámaras de Comercio, a través de Confecamaras, presentarán al Ministerio de Comercio, Industria y Turismo un estudio técnico soporte de la propuesta de tarifa y expensas dentro del mes siguiente a la vigencia de este capítulo. Lo propio hará la Superintendencia de Notariado y Registro, la cuál lo presentara al Ministerio de Justicia y del Derecho, para el trámite correspondiente.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.24 — Ejecución de bienes de propiedad industrial en garantía
 
@@ -9226,15 +8160,11 @@ La Superintendencia de Industria y Comercio, una vez verificados los requisitos 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.25 — Transferencia de signos distintivos sujetos a registro objeto de la garantía
 
 En todos los casos en que se ejecute una garantía sobre signos distintivos sujetos a registro, en aplicación de lo dispuesto en el artículo 161 de la Decisión 486 de 2000 de la Comunidad Andina de Naciones, la Superintendencia de Industria y Comercio tendrá la facultad de negar la solicitud de transferencia de signos distintivos sujetos a registro objeto de la garantía, caso en el cuál procederá a informar tal circunstancia tanto al acreedor garantizado cómo al adquirente del bien de propiedad industrial según corresponda, así cómo a la autoridad jurisdiccional competente o entidad autorizada ante la cuál se haya llevado a cabo el trámite de ejecución según el caso.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.26 — Garantía mobiliaria prioritaria de adquisición
 
@@ -9244,15 +8174,11 @@ Las garantías registradas cómo garantías mobiliarias prioritarias de adquisic
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.27 — De la constitución de garantías sobre el auxilio de cesantías
 
 Con fundamento en lo establecido en el artículo 1519 del Código Civil, sólo podrán constituirse garantías mobiliarias sobre el auxilio de cesantías con sujeción a lo establecido en el numeral 3 del artículo 102 de la Ley 50 de 1990, el artículo 4 de la Ley 1064 de 2006, el numeral 1 del artículo 256 del Código Sustantivo del Trabajo y el numeral 4 del artículo 11 de la Ley 226 de 1995, so pena de los efectos establecidos en el artículo 1741 del Código Civil.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.28 — .28
 
@@ -9266,8 +8192,6 @@ La oponibilidad y prelación de la garantía mobiliaria sobre estos bienes se de
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.29 — Bienes arrendados y contratos de leasing
 
 Para los efectos de la aplicación de la Ley 1676 de 2013 y de esta sección, al contrato de leasing financiero se le aplicará lo dispuesto en la mencionada ley, exclusivamente en lo referente al registro y la restitución de la tenencia del bien prevista en el artículo 77 de la misma, sin perjuicio de los mecanismos que para la apropiación y pago puedan pactarse.
@@ -9275,8 +8199,6 @@ Para los efectos de la aplicación de la Ley 1676 de 2013 y de esta sección, al
 Podra otorgarse garantía mobiliaria por el locatario sobre los derechos de contenido económico eventuales derivados del contrato de leasing financiero.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.30 — Ejecución de la garantía según la naturaleza de los bienes en garantía
 
@@ -9300,8 +8222,6 @@ Para los efectos de la aplicación de esta disposición y del artículo 34 de la
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.31 — Inventario valorado en el proceso de reorganización empresarial
 
 Para los efectos de la aplicación del artículo 50 de la Ley 1676 de 2013, además de los estados financieros que se deben allegar con la solicitud de inicio del proceso de reorganización, el deudor o este y sus acreedores, deberán presentar dentro del estado de inventario de activos y pasivos a que hace referencia el artículo 13 de la Ley 1116 de 2006 la relación de los bienes mueble e inmuebles en garantía con corte al último día calendario del mes inmediatamente anterior a la fecha de la solicitud debidamente certificado y valorado, suscrito por Contador Público o Revisor Fiscal, según sea el caso.
@@ -9311,8 +8231,6 @@ La valoración corresponderá a lo reflejado en los estados financieros presenta
 Adicionalmente, el deudor deberá clasificar los bienes en garantía como necesarios o no necesarios para el desarrollo de su actividad económica, acompañar la información referente a los procesos de ejecución, cobro y mecanismos de pago directo que se encuentren en curso contra el deudor y que afecten sus bienes en garantía, sean estos necesarios o no para el desarrollo de la actividad económica.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.32 — Contradicción del inventario valorado según lo reflejado en los estados financieros
 
@@ -9327,8 +8245,6 @@ En el término de traslado los acreedores, de conformidad con lo previsto en los
 3. La clasificación asignada, cómo necesarios o no necesarios para el desarrollo de la actividad económica.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.33 — Solicitud de ejecución de los bienes en garantía
 
@@ -9348,15 +8264,11 @@ Para efectos de la ejecución de bienes en garantía que corren riesgo de deteri
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.34 — Monto de la obligación garantizada en el proceso de reorganización
 
 En la calificación y graduación de créditos se reflejara el monto estimado de la obligación garantizada de conformidad con lo establecido en este capítulo.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.35 — Procesos de ejecución en curso sobre bienes muebles e inmuebles objeto de garantía en el proceso de reorganización
 
@@ -9369,8 +8281,6 @@ Para efectos de la aplicación de lo dispuesto en el artículo 20 de la Ley 1116
 Incorporados los procesos de ejecución o cobro al trámite de reorganización, las excepciones de mérito pendientes de decisión, así cómo los mecanismos de defensa y excepciones propuestas en el proceso de adjudicación o realización especial de la garantía real de que trata el artículo 61 de la Ley 1676 de 2013 o las oposiciones en el proceso de ejecución especial de la garantía de que trata el artículo 66 de la misma ley, serán tramitadas cómo objeciones para efectos de la calificación y graduación de créditos y derechos de voto.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.36 — Acreedores garantizados con bienes muebles o inmuebles no necesarios para el desarrollo de la actividad económica
 
@@ -9391,8 +8301,6 @@ En el caso de los procesos ejecutivos en los cuáles existen otros demandados, s
 Si el valor del bien en garantía no cubre la totalidad de la deuda, el acreedor podrá comparecer por el saldo para que sea tenido en cuenta en el proceso de reorganización, salvo que el concursado sólo tenga la calidad de garante de la obligación.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.37 — Acreedores garantizados con bienes muebles o inmuebles necesarios para el desarrollo de la actividad económica
 
@@ -9416,8 +8324,6 @@ De conformidad con el artículo 50 de la Ley 1676 de 2013, se exceptuan de lo di
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.38 — .38
 
 Obligaciones del deudor concursado y del acreedor garantizado en relación con los bienes en garantía necesarios para el desarrollo de la actividad económica. El acreedor garantizado que tenga la tenencia del bien en garantía en el curso del proceso de reorganización, estará sujeto al cumplimiento de las obligaciones previstas en el artículo 19 de la Ley 1676 de 2013.
@@ -9427,8 +8333,6 @@ Cuando los bienes en garantía se encuentren en tenencia del deudor concursado, 
 Si los bienes en garantía corren riesgo de deterioro o pérdida durante el proceso de reorganización se dará aplicación a lo previsto en el inciso segundo del artículo 50 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.39 — .39
 
@@ -9444,8 +8348,6 @@ En el proceso de reorganización, con autorización del juez del concurso, el de
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.40 — Acuerdo de reorganización
 
 El acreedor garantizado con garantías sobre bienes necesarios o no para el desarrollo de la actividad económica, podrá ser parte del acuerdo si lo vota afirmativamente.
@@ -9458,8 +8360,6 @@ Incumplido el acuerdo, el acreedor que voto positivamente recobra su derecho de 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.41 — .41
 
 Información referida a las garantías reales en el proceso de validación judicial del acuerdo extrajudicial de reorganización. Para los efectos de la aplicación del artículo 51 de la Ley 1676 de 2013, el deudor deberá presentar adicionalmente a los documentos mencionados en el artículo 2.2.2.13.3.4., un estado de inventario valorado de los bienes en garantía muebles o inmuebles en los términos establecidos en el artículo 50 de la Ley 1676 de 2013 y en esta sección, que corresponderá a lo reflejado en los estados financieros presentados por el deudor.
@@ -9471,8 +8371,6 @@ Al comunicar a los acreedores la iniciación de la negociación de un acuerdo ex
 A los acreedores con garantías sobre bienes no necesarios que continuen o inicien la ejecución, no se les incluirá ni se les reconocerá votos en la calificación y graduación de acreencias y determinación de derechos de voto en el monto correspondiente al valor del bien en garantía que debe elaborar el deudor en los términos del artículo 2.2.2.13.3.4. y no harán parte del acuerdo extrajudicial.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.42 — Procesos de ejecución en curso sobre bienes muebles e inmuebles en garantía
 
@@ -9492,8 +8390,6 @@ PARÁGRAFO. A los acreedores garantizados que hagan efectiva su garantía a trav
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.43 — Acuerdo extra judicial de reorganización
 
 Los acreedores garantizados con bienes en garantía podrán ser parte del acuerdo si lo votan afirmativamente, en cuyo caso quedarán sujetos a los términos del acuerdo para el pago de su acreencia.
@@ -9504,15 +8400,11 @@ Los efectos de la validación del acuerdo extrajudicial de reorganización estab
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.44 — Actos que limiten la capacidad de negociación del deudor
 
 La apertura del proceso de validación judicial de acuerdos extrajudiciales de reorganización de que trata el parágrafo del artículo 2.2.2.13.3.2., procederá en todo caso si la amenaza de actos en contra del patrimonio del deudor, que limiten de forma determinante la capacidad de negociación del deudor con sus acreedores, afectan bienes muebles o inmuebles en garantía necesarios para el desarrollo de la actividad económica del deudor.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.45 — Inventario valorado en el proceso de liquidación judicial
 
@@ -9524,8 +8416,6 @@ Al inventario se anexara la información referente a los procesos de ejecución 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.46 — Contradicción del inventario valorado
 
 Iniciado el proceso de liquidación judicial y en aplicación de lo dispuesto en los artículos 37 y 53 de la Ley 1116 de 2006, se correra el traslado del inventario de los bienes en garantía del deudor de que trata el artículo anterior, con el fin de que los acreedores puedan objetarlo.
@@ -9533,8 +8423,6 @@ Iniciado el proceso de liquidación judicial y en aplicación de lo dispuesto en
 La clasificación de los activos cómo parte o no del conjunto de los establecimientos, explotaciones o unidades productivas de bienes o de servicios, también podrá ser motivo de objeción.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.47 — Exclusión de bienes en garantía
 
@@ -9556,8 +8444,6 @@ PARÁGRAFO 2. Los bienes objeto de leasing financiero se entenderán excluidos d
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.48 — Efectos de la apertura del proceso de liquidación judicial respecto de las obligaciones garantizadas
 
 De conformidad con lo dispuesto en el artículo 4 de la Ley 1116 de 2006, la totalidad de los bienes del deudor sean o no bienes en garantía, así cómo la totalidad de sus acreedores quedan vinculados al proceso de liquidación judicial a partir de su iniciación.
@@ -9568,15 +8454,11 @@ Incorporados los procesos de ejecución o cobro al trámite de liquidación judi
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.49 — Formalidades
 
 Para efectos de la enajenación o apropiación resultado de las ejecuciones por efecto de la aplicación de las reglas contenidas artículos 50, 51 y 52 de la Ley 1676 de 2013 en los procesos de insolvencia, se aplicarán las reglas establecidas en el artículo 68 de la Ley 1116 de 2006.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.50 — Formulario de ejecución
 
@@ -9584,23 +8466,17 @@ Cuando el acreedor garantizado opte por continuar o iniciar la ejecución sobre 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.51 — .51
 
 Competencia de las intendencias regionales de la Superintendencia de Sociedades en los procesos de insolvencia empresarial. Bajo los criterios establecidos en el capítulo 9 del título 2 del libro 2 de la parte 2 del presente decreto, y conforme a lo dispuesto en el parágrafo 3 del artículo 6 de la Ley 1116 de 2006, las intendencias regionales de la Superintendencia de Sociedades conocerán adicionalmente de los procesos de reorganización, de validación judicial de acuerdos extrajudiciales de reorganización, de liquidación por adjudicación y de liquidación judicial en el contexto de un grupo de empresas o cuando en aplicación de lo dispuesto en el artículo 532 del Código General del Proceso las personas naturales no comerciantes estén sujetas a la aplicación del régimen previsto en la Ley 1116 de 2006.
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.52 — Garantías en el proceso de liquidación por adjudicación
 
 El artículo 52 de la Ley 1676 de 2013 y lo establecido en esta sección para la liquidación judicial, se aplicará también a la liquidación por adjudicación de que trata la Ley 1116 de 2006.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.53 — Transferencia de la garantía mobiliaria
 
@@ -9609,8 +8485,6 @@ La garantía mobiliaria se podrá transferir cediendo los derechos que conlleva,
 En estos eventos se entienden trasladados al nuevo acreedor garantizado los derechos y mecanismos de ejecución pactados. En el Registro de Garantías Mobiliarias deberá inscribirse el nuevo acreedor a través del diligenciamiento del formulario de modificación cesión.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.54 — Garantías mobiliarias transferidas en desarrollo de un proceso de titularización
 
@@ -9622,8 +8496,6 @@ Para efectos de lo previsto en la presente sección se tendrá en cuenta que los
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.55 — Monto de la obligación garantizada y valor del bien en garantía
 
 El monto de la obligación garantizada estará determinado según lo acordado entre las partes, de conformidad con lo dispuesto en el artículo 7 de la Ley 1676 de 2013, y hasta por el valor del bien en garantía, de conformidad con el avalúo que haya sido aprobado en el respectivo proceso judicial o de insolvencia o el que corresponda a la valoración respectiva en los procedimientos de pago directo y de ejecución especial de la garantía, dependiendo del mecanismo de ejecución de que se trate.
@@ -9631,8 +8503,6 @@ El monto de la obligación garantizada estará determinado según lo acordado en
 Si la valoración del bien en garantía es inferior al valor de la obligación garantizada, el acreedor realizará el cobro por los saldos insolutos como acreedor quirografario.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.56 — Información referida a los mecanismos de ejecución de garantías mobiliarias
 
@@ -9645,8 +8515,6 @@ El Ministerio de Comercio, Industria y Turismo, en ejercicio de la facultad cont
 3. Fecha de iniciación y de terminación de la ejecución de la garantía.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.57 — Cancelación obligatoria de la inscripción de la garantía ante notario
 
@@ -9692,8 +8560,6 @@ PARÁGRAFO 4. De conformidad con lo previsto en el artículo 76 de la Ley 1676 d
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.58 — Formulario de registro de la ejecución concursal
 
 Iniciado un proceso de insolvencia, el representante legal, sea este el representante legal de la entidad que tramita un proceso de reorganización o de validación judicial de acuerdos extrajudiciales de reorganización o el liquidador en el evento del inicio de un proceso de liquidación por adjudicación o de liquidación judicial, deberá inscribir un formulario de ejecución concursal en el Registro de Garantías Mobiliarias, incorporando la siguiente información:
@@ -9714,8 +8580,6 @@ Los acreedores garantizados con garantías mobiliarias constituidas con anterior
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.59 — Solución alternativa de controversias
 
 Dentro de los mecanismos alternativos de solución de conflictos a que se refiere el Título VII de la Ley 1676 de 2013, las partes podrán pactar conciliación, arbitraje o amigable composición, inclusive por medios electrónicos.
@@ -9726,15 +8590,11 @@ PARÁGRAFO. Los mecanismos alternativos de solución de controversias podrán pa
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.60 — Reglamento especial de procedimiento
 
 Los centros de arbitraje y conciliación deberán expedir un reglamento especial de arbitraje y amigable composición para la resolución de las controversias por medios electrónicos a que se refiere el artículo 78 de la Ley 1676 de 2013. Para esta labor, el Ministerio de Justicia y del Derecho elaborara un documento modelo que pondrá a disposición en su sitio web institucional, para su incorporación por los centros a sus reglamentos internos.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.61 — Principios generales para venta electrónica de bienes
 
@@ -9758,8 +8618,6 @@ Autenticidad: El sistema debe procurar que las comunicaciones que se derivan de 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.62 — Operación y administración de martillos electrónicos
 
 Tendrán la calidad de operadores y administradores de los Sitios de Internet para la venta o martillo electrónico de los bienes en garantia:
@@ -9774,8 +8632,6 @@ PARÁGRAFO. Los centros de conciliación de las cámaras de comercio podrán cel
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.63 — Instrucciones para la prestación del servicio de venta o martillo electrónico de bienes
 
 La Superintendencia Financiera de Colombia y la Superintendencia de Industria y Comercio, o la Superintendencia que ejerza la inspección, vigilancia y control, en el ámbito de sus competencias, supervisarán el cumplimiento de los principios de transparencia, integridad, acceso, profesionalización, autenticidad e impartirán las instrucciones que garanticen su cumplimiento para que los martillos legalmente autorizados y las cámaras de comercio, respectivamente, operen y administren los sitios de internet para la venta o martillo electrónico de bienes, de que trata el artículo 79 de la Ley 1676 de 2013.
@@ -9783,8 +8639,6 @@ La Superintendencia Financiera de Colombia y la Superintendencia de Industria y 
 (Modificado por el Art. 2 del Decreto 1133 de 2021)
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.64 — Solicitud de enajenación a través de venta o martillo electrónico de bienes
 
@@ -9798,8 +8652,6 @@ Dentro del plazo señalado en el artículo 57 de la Ley 1116 de 2006 o el que fu
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.65 — Tarifas de los sitios de internet para la venta o martillo electrónico de bienes
 
 Los sitios de internet para la venta o martillo electrónico de bienes fijarán las tarifas, teniendo en cuenta un estudio de mercado en el que se describan los gastos de la operación y la remuneración por la prestación del servicio, el cual deberá ser publicado en la página Web del respectivo sitio de internet.
@@ -9810,8 +8662,6 @@ Las cámaras de comercio y los martillos legalmente autorizados deberán hacer p
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.66 — Enajenación fallida
 
 En el evento que no se logre la venta o martillo electrónico de los bienes, el centro de conciliación de la cámara de comercio o el martillo legalmente autorizado remitirá al comitente la comisión para que se de aplicación al inciso segundo del numeral 5 del artículo 69 de la Ley 1676 de 2013 y en el evento de los procesos de liquidación judicial para que se de aplicación al mecanismo de adjudicacion".
@@ -9820,8 +8670,6 @@ En el evento que no se logre la venta o martillo electrónico de los bienes, el 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.67 — Enajenación en los procesos de insolvencia empresarial
 
 Cuando el acreedor garantizado opte por la ejecución consistente en la enajenación del bien en garantía dentro del trámite de un proceso de reorganización, la enajenación del bien se hará a través de los Sitios de Internet a los que se refiere el artículo 79 de la Ley 1676 de 2013.
@@ -9829,8 +8677,6 @@ Cuando el acreedor garantizado opte por la ejecución consistente en la enajenac
 El liquidador, en el proceso de liquidación judicial, procederá a enajenar los activos en forma directa o acudiendo al sistema de subasta privada de que trata el artículo 57 de la Ley 1116 de 2006, a través de los Sitios de Internet a los que se refiere el artículo 79 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.68 — Control y tenencia del bien en garantía
 
@@ -9842,8 +8688,6 @@ Los mecanismos de entrega, control y tenencia del bien en garantía podrán corr
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.69 — Mecanismos de control y tenencia del bien en garantía en los procesos de ejecución concursal
 
 Los derechos del acreedor garantizado de que trata el artículo 75 de la Ley 1676 de 2013 se podrán ejercer, tanto en los procesos de ejecución individual cómo en los procesos de insolvencia empresarial. En este último caso, este derecho podrá ser ejercido desde el momento en que quede en firme el inventario valorado, previa autorización del juez del concurso en los términos del artículo 50 de la Ley 1676 de 2013 y 17 de la Ley 1116 de 2006, cuando los bienes en garantía no sean necesarios para el desarrollo de la actividad económica del deudor o no sean parte del conjunto de los establecimientos, explotaciones o unidades productivas de bienes o de servicios.
@@ -9851,8 +8695,6 @@ Los derechos del acreedor garantizado de que trata el artículo 75 de la Ley 167
 PARÁGRAFO. El procedimiento establecido en este artículo no aplicará para los bienes intangibles.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.70 — Diligencia de aprehension y entrega
 
@@ -9878,8 +8720,6 @@ La orden de aprehension y entrega del bien en garantía se ejecutará por el fun
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.71 — Diligencia de aprehension y entrega en los procesos de restitución
 
 En los términos del artículo 77 de la Ley 1676 de 2013, el interesado, sea este el comodante o la entidad financiera arrendadora, podrá ir directamente ante la inspección de policia o quién haga sus veces y solicitar la práctica de la diligencia de aprehension y entrega del bien cuando:
@@ -9898,15 +8738,11 @@ PARÁGRAFO 2. Cualquier oposición distinta al pago, no suspendera el proceso de
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.72 — Trasferencia de la propiedad de vehículos automotores por efecto de la ejecución de la garantía
 
 De conformidad con los artículos 2.2.2. 4.2.3. y 2.2.2.4.2.16. el acreedor garantizado adquirira la propiedad del vehiculo sobre el cuál recae la garantía mobiliaria con la inscripción de la transferencia en el registro de propiedad del organismo de tránsito, a solicitud del acreedor, quién la acompañara con la copia del contrato de garantía, copia del formulario registral de ejecución y para efectos de acreditar el ejercicio de su derecho de apropiación, de una declaración juramentada en la que el acreedor garantizado manifieste haber culminado el proceso respectivo.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.73 — Valor de los bienes para efectos de apropiación y enajenación
 
@@ -9916,8 +8752,6 @@ La transferencia de la propiedad del bien en garantía al acreedor se hará por 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.74 — Peritos avaluadores
 
 Los peritos avaluadores deberán cumplir los requisitos establecidos en la Ley 1673 de 2013 y estar registrados en los términos descritos en la mencionada ley y en el Capítulo 17 del Título 2 de la Parte 2 del Libro 2 del presente decreto o en las normas que lo modifiquen o adicionen.
@@ -9925,8 +8759,6 @@ Los peritos avaluadores deberán cumplir los requisitos establecidos en la Ley 1
 La Superintendencia de Sociedades determinará cuál será la lista de peritos avaluadores que se utilizará para los efectos de la aplicación del parágrafo 3 del artículo 60 y del numeral 5 del artículo 69 de la Ley 1676 de 2013.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.75 — Solicitud de selección y designación del perito avaluador
 
@@ -9948,8 +8780,6 @@ La solicitud se presentara vía internet a través de los medios electrónicos q
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.76 — Trámite de la solicitud de designación de perito avaluador por notario o cámara de comercio
 
 Dentro de los tres (3) días hábiles siguientes a la solicitud de designación de perito avaluador, la entidad autorizada correspondiente lo seleccionara aleatoriamente.
@@ -9968,15 +8798,11 @@ PARÁGRAFO TRANSITORIO. Mientras se establece y autoriza el Registro Abierto de 
 
 (Decreto 1835 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2.77 — Valor de la apropiación
 
 La apropiación del bien en garantía por el acreedor garantizado se hará por el valor que resulte del avalúo practicado. Cualquier inconformidad o discusión relacionada con el resultado del avalúo se resolverá por el trámite previsto en el Código General del Proceso para el proceso declarativo, una vez apropiado por el acreedor garantizado el bien en garantía, o efectuada su realización. La transferencia de la propiedad del bien no se vera afectada por el resultado del trámite posterior.
 
 (Decreto 1835 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.4.2.78 — Gravámenes judiciales y tributarios
 
@@ -9994,8 +8820,6 @@ INSOLVENCIA EMPRESARIAL
 
 ACUERDOS DE REESTRUCTURACION. PUBLICIDAD EN EL TRÁMITE DE LA LEY 550 DE 1999
 
-ARTÍCULO
-
 ## art:2.2.2.5.1 — Publicidad de Acuerdos de Reestructuración
 
 Para los efectos de la publicidad de la promoción de los acuerdos de reestructuración, el escrito que, de conformidad con el artículo 11 de la Ley 550 de 1999 se fija en las oficinas de la respectiva entidad nominadora para informar acerca de la promoción de un acuerdo, no requiere de ninguna notificación o aviso adicional, distintos de la inscripción en el registro mercantil y de la publicación en un diario de amplia circulación previstos en ese mismo artículo.
@@ -10006,8 +8830,6 @@ CAPÍTULO 6
 
 CRÉDITOS POSTERIORES AL INICIO DEL ACUERDO DE REESTRUCTURACION
 
-ARTÍCULO
-
 ## art:2.2.2.6.1 — Preferencia de créditos posteriores al inicio de la negociación
 
 Los créditos que se otorguen al empresario desde el inicio de la negociación y hasta la fecha de celebración del acuerdo de reestructuración gozarán de preferencia frente a los créditos objeto del acuerdo, siempre y cuando se destinen unica y exclusivamente a la compra de insumos, materias primas, repuestos y/o a cubrir los gastos administrativos relacionados con el giro ordinario de los negocios.
@@ -10016,23 +8838,17 @@ Los gastos de administración generados a partir de la iniciación de la negocia
 
 (Decreto 2250 de 2000, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.6.2 — Reglas para calcular la prorrata
 
 Todo acreedor que, en los términos del numeral 13 del artículo 34 de la Ley 550 de 1999 entregue nuevos recursos a la empresa que celebre un acuerdo de reestructuración, gozara de prelación respecto a las obligaciones anteriores a la negociación, consistente en compartir a prorrata el primer grado con la DIAN y demás autoridades fiscales en la proporción que corresponda según la cuantía de tales recursos. Para tal efecto, cada peso nuevo que se suministre, dará prelación a un peso de la deuda anterior.
 
 (Decreto 2250 de 2000, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.6.3 — Créditos postconcordatarios (sic) y acuerdo de reestructuración
 
 Cuando una compañía que este tramitando un concordato o ejecutando un acuerdo concordatario se acoja a un acuerdo de reestructuración en los términos y condiciones a que alude el artículo 65 de la Ley 550 de 1999, los créditos postconcordatarios (sic) no formarán parte del acuerdo de reestructuración que llegue a celebrarse y su pago no estará sujeto a las reglas que alli se establezcan, salvo que el acreedor respectivo de manera individual acepte tales reglas.
 
 (Decreto 2250 de 2000, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.6.4 — Definiciones
 
@@ -10050,8 +8866,6 @@ Conforman un mismo beneficiario real, entre otros, los siguientes:
 
 (Decreto 2250 de 2000, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.6.5 — Oportunidad y forma de acreditar la calidad de beneficiario real
 
 Los beneficiarios reales finales deberán informar al promotor sobre su decisión de acudir a la celebración del acuerdo de reestructuración, aportando la prueba que los acredite cómo tales, dentro de los quince (15) días hábiles siguientes a la inscripción en el registro mercantil del aviso señalado en el artículo 11 de la Ley 550 de 1999 y, en caso de que no asistan personalmente, podrán designar un apoderado especial, de tal manera que puedan ser incluidos en la información indicada en el inciso cuarto del artículo 23 de la Ley 550 de 1999.
@@ -10059,8 +8873,6 @@ Los beneficiarios reales finales deberán informar al promotor sobre su decisió
 PARÁGRAFO. Se demostrara la condición de matriz o controlante con los certificados de existencia y representación legal en los cuáles conste la inscripción de que trata el artículo 30 de la Ley 222 de 1995. En los demás casos, se demostrara la condición de beneficiario real mediante la presentación del contrato u otro documento en que se acredite en forma idonea, que se dan las circunstancias señaladas en el artículo primero del presente capítulo
 
 (Decreto 2250 de 2000, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.6.6 — Procedimiento para determinar los derechos de voto y de acreencias
 
@@ -10080,8 +8892,6 @@ PARÁGRAFO 2. Las objeciones que se presenten respecto de la condición de benef
 
 (Decreto 2250 de 2000, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.6.7 — Definición de Organización o Grupo Empresarial
 
 Para los efectos de lo dispuesto en el parágrafo 1 del artículo 29 de la Ley 550 de 1999, se entiende que forman parte de una organización o grupo empresarial:
@@ -10098,8 +8908,6 @@ PARÁGRAFO. Cuando se presenten discrepancias sobre la existencia de organizaci�
 
 (Decreto 2250 de 2000, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.6.8 — Deber de información sobre la existencia de la organización
 
 Cuando dos o más acreedores del empresario pertenezcan a una misma organización o grupo empresarial, deberán informar al promotor sobre el particular, dentro de los quince días hábiles siguientes a la inscripción en el registro mercantil del aviso señalado en el artículo 11 de la Ley 550 de 1999. En caso de incumplimiento de la obligación señalada, el promotor deberá informar inmediatamente conozca de tal hecho a las entidades que ejerzan la inspección, vigilancia o control sobre los acreedores participantes en el acuerdo que conforman el grupo empresarial en cuestion, para que estas realicen las investigaciones correspondientes e impongan, si es del caso, las multas a que haya lugar por dicha omision.
@@ -10107,8 +8915,6 @@ Cuando dos o más acreedores del empresario pertenezcan a una misma organizació
 PARÁGRAFO. En todo caso, y antes de la celebración de la reunión para la determinación de los derechos de voto, cualquiera de los acreedores del empresario podrá informar al promotor acerca de acreedores que formen parte de una misma organización o grupo empresarial. Por lo tanto, la información que se suministre al promotor con posterioridad a la celebración de la reunión mencionada, no será considerada para efectos de la determinación de los derechos de voto ni afectara la decisión que se hubiere adoptado.
 
 (Decreto 2250 de 2000, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.6.9 — Calculo de los votos complementarios
 
@@ -10118,17 +8924,13 @@ En los casos en que los acreedores externos pertenecientes a una misma organizac
 
 CAPÍTULO 7
 
-SUSCRIPCION DE BONOS DE RIESGO DURANTE LA NEGOCIACION DE UN ACUERDO DE REESTRUCTURACION DE LA LEY 550 DE 1999. 
-
-ARTÍCULO
+SUSCRIPCION DE BONOS DE RIESGO DURANTE LA NEGOCIACION DE UN ACUERDO DE REESTRUCTURACION DE LA LEY 550 DE 1999.
 
 ## art:2.2.2.7.1 — Capacidad de emisión
 
 Cualquier empresa o entidad que celebre un acuerdo de reestructuración de los previstos en la Ley 550 de 1999, tiene capacidad para emitir bonos de riesgo.
 
 (Decreto 257 de 2001, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.7.2 — Características
 
@@ -10150,8 +8952,6 @@ PARÁGRAFO 2. Cuando se trate de aprobar modificaciones que puedan desmejorar lo
 
 (Decreto 257 de 2001, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.7.3 — Negociabilidad
 
 Los bonos de riesgo podrán negociarse en la siguiente forma:
@@ -10166,8 +8966,6 @@ En el acuerdo de reestructuración deberá constar si los bonos de riesgo se ins
 
 (Decreto 257 de 2001, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.7.4 — Protección a los tenedores de bonos de riesgo
 
 Los tenedores de bonos de riesgo que se negocien en el mercado público de valores gozarán de las garantías y protecciones previstas en las normas que rigen dicho mercado, sin perjuicio de aquellas que se pacten en el respectivo acuerdo de reestructuración.
@@ -10175,8 +8973,6 @@ Los tenedores de bonos de riesgo que se negocien en el mercado público de valor
 Tratándose de bonos de riesgo que no se negocien en el mercado público de valores, en el respectivo acuerdo de reestructuración deberán estipularse las reglas sobre protección de los tenedores que se consideren pertinentes, en adición a las previstas en las normas vigentes.
 
 (Decreto 257 de 2001, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.7.5 — Del documento contentivo del bono de riesgo
 
@@ -10210,15 +9006,11 @@ Los documentos donde consten los bonos de riesgo, deberán contener cómo mínim
 
 (Decreto 257 de 2001, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.7.6 — Suscripción de los bonos de riesgo
 
 La suscripción de los bonos de riesgo emitidos cómo consecuencia de un acuerdo de reestructuración no será obligatoria. En tal sentido, sólo serán suscritos por aquellos acreedores que así lo decidan voluntariamente y que tengan capacidad legal para el efecto.
 
 (Decreto 257 de 2001, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.7.7 — Remisión de normas
 
@@ -10230,9 +9022,7 @@ Adicionalmente, a los bonos inscritos en el Registro Nacional de Valores e Inter
 
 CAPÍTULO 8
 
-PAGO DE TRIBUTOS NACIONALES POR CONTRATISTAS ACREEDORES DE LA NACIÓN. 
-
-ARTÍCULO
+PAGO DE TRIBUTOS NACIONALES POR CONTRATISTAS ACREEDORES DE LA NACIÓN.
 
 ## art:2.2.2.8.1 — Solicitud de promoción de acuerdo de reestructuración
 
@@ -10250,13 +9040,9 @@ SECCIÓN 1
 
 FUNCIONES JURISDICCIONALES DE LA SUPERINTENDENCIA DE SOCIEDADES Y DE SUS INTENDENCIAS REGIONALES
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.1 — Funciones jurisdiccionales de la Superintendencia de Sociedades
 
 En los procesos de reorganización, liquidación judicial, validación extrajudicial de acuerdos de reorganización, liquidación judicial e intervención, la Superintendencia de Sociedades ejerce funciones jurisdiccionales cómo juez del concurso. En dichos procesos el principio de inmediación se cumple a través del funcionario que corresponda de acuerdo con la estructura interna de la entidad, su delegado o comisionado.
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.2 — Facultades de las Intendencias Regionales de la Superintendencia de Sociedades en el Régimen de Insolvencia
 
@@ -10282,13 +9068,9 @@ PARÁGRAFO 1. El Superintendente de Sociedades puede mantener en el Superintende
 
 (Modificado por el Art. 1 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.3 — Reasunción de competencia
 
 Las competencias delegadas en las intendencias regionales podrán ser reasumidas en la sede principal en cualquier tiempo por razones de orden financiero o por motivos de interés público que así lo ameriten.
-
-ARTÍCULO
 
 ## art:2.2.2.9.1.4 — Trámite prioritario de procesos de insolvencia
 
@@ -10308,8 +9090,6 @@ Superintendente de Sociedades, en ejercicio de sus funciones previstas en el art
 
 (Adicionado por el Art. 2 del Decreto 65 de 20209
 
-ARTÍCULO
-
 ## art:2.2.2.9.1.5 — Igualdad de trato en la votación del acuerdo de reorganización
 
 Para efectos de lo dispuesto en el artículo 31 de la Ley 1116 de 2006, modificado por el artículo 38 de la Ley 1429 de 2010, cada uno de los acreedores incluidos en una misma categoría deberán ser tratados de manera equitativa en la votación del acuerdo de reorganización, observando en todo caso las reglas dispuestas para que cada acreedor ejerza su derecho al voto.
@@ -10319,8 +9099,6 @@ Para efectos de lo dispuesto en el artículo 31 de la Ley 1116 de 2006, modifica
 SECCIÓN 2
 
 EXPEDIENTES DE PROCESOS DE INSOLVENCIA
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.1 — Conformación del expediente
 
@@ -10332,15 +9110,11 @@ Para facilitar la consulta del expediente, podrán abrirse cuadernos separados d
 
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.2 — Incorporación de escritos al expediente
 
 Los distintos memoriales y documentos con destino al proceso serán incorporados al expediente por secretaria una vez se radiquen en el sistema de gestión documental y sin necesidad de auto que así lo ordene.
 
 (Derogado por el Art. 49 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.3 — Ingreso del expediente al Despacho
 
@@ -10358,7 +9132,7 @@ En estos dos últimos casos, el término se suspendera y se reanudara a partir d
 
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
-ARTÍCULO
+## art:2.2.2.9.2.4 — 
 
 .2.2. 2.9.2.4. Memoriales que no requieren pronunciamiento judicial. No requieren pronunciamiento del juez del concurso los documentos que traten de los siguientes asuntos:
 
@@ -10374,15 +9148,11 @@ ARTÍCULO
 
 (Modificado por el Art. 4 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.9.2.5 — Memoriales transmitidos por mensajes de datos
 
 Los memoriales que se envien por mensaje de datos serán incorporados al expediente cuando hayan sido remitidos al buzon de la Superintendencia de Sociedades, desde la dirección electrónica provista por el sujeto procesal respectivo.
 
 (Derogado por el Art. 49 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.9.2.6 — Radicación de memoriales en la sede principal y en las intendencias regionales de la Superintendencia de Sociedades
 
@@ -10393,8 +9163,6 @@ Las partes podrán radicar memoriales en las oficinas de radicación del juez de
 SECCIÓN 3
 
 INCIDENTES EN LOS PROCESOS DE INSOLVENCIA
-
-ARTÍCULO
 
 ## art:2.2.2.9.3.1 — Asuntos sujetos a trámite incidental
 
@@ -10413,8 +9181,6 @@ Son accesorias todas las cuestiones que no tienen incidencia en los aspectos cen
 5. La solicitud de terminación de contratos, según lo establecido en el artículo 21 inciso cuarto de la Ley 1116 de 2006.
 
 6. La inhabilidad para ejercer el comercio, en los supuestos de que trata el artículo 83 de la Ley 1116 de 2006.
-
-ARTÍCULO
 
 ## art:2.2.2.9.3.2 — Asuntos que no siguen el trámite incidental
 
@@ -10452,8 +9218,6 @@ SECCIÓN 4
 
 COSTAS
 
-ARTÍCULO
-
 ## art:2.2.2.9.4.1 — Liquidación de Costas
 
 Las costas serán liquidadas inmediatamente después de la ejecutoria de la providencia que resuelva sobre el incidente en los términos que para tal efecto disponga el Código General del Proceso
@@ -10463,8 +9227,6 @@ Las costas serán liquidadas inmediatamente después de la ejecutoria de la prov
 SECCIÓN 5
 
 MEDIDAS CAUTELARES EN PROCESOS DE INSOLVENCIA
-
-ARTÍCULO
 
 ## art:2.2.2.9.5.1 — Suspensión de algunos efectos de la apertura del proceso de liquidación judicial
 
@@ -10481,8 +9243,6 @@ En estos casos, para efectos de determinar los alcances, la efectividad y la pro
 4. La orden para que el liquidador rinda informes periódicos sobre las operaciones o sobre sus costos y su relación con el aumento en el valor de la empresa;
 
 5. Las demás que el juez considere adecuadas, en su función de director del proceso.
-
-ARTÍCULO
 
 ## art:2.2.2.9.5.2 — Aseguramiento de información y activos del deudor
 
@@ -10510,8 +9270,6 @@ Sección, Adicionada por el Art.1 del Decreto 890 de 2021
 
 RÉGIMEN PROPIO DE LOS BONOS DE RIESGO
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.1 — Conversión de Créditos en Bonos de Riesgo
 
 Cualquier empresa afectada por las causas que motivaron la declaratoria del Estado de Emergencia Económica, Social y Ecologica de que trata el Decreto 417 del 17 de marzo de 2020 que suscriba un acuerdo de reorganización en los términos de la Ley 1116 de 2006 o de los Decretos Legislativos 560 y 772 de 2020, y que de conformidad con su régimen legal tenga capacidad para hacerlo, podrá convertir sus créditos en bonos de riesgo, sean estos ordinarios o convertibles, siempre y cuando dicha emisión quede contenida en el respectivo acuerdo de reorganización o en una reforma al mismo cuando no se hubiese contemplado inicialmente.
@@ -10521,8 +9279,6 @@ La conversión de créditos en bonos de riesgo podrá contener prórrogas, quita
 Las normas de la presente sección regirán por el término señalado en el artículo 1 del Decreto Legislativo 560 de 2020, o las normas que lo modifiquen, adicionen o sustituyan.
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.6.2 — Características Comunes a los Bonos de Riesgo
 
@@ -10546,8 +9302,6 @@ PARÁGRAFO. Cualquier garantía real que se otorgue a los bonos de riesgo que no
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.3 — Características Especiales de los Bonos de Riesgo Convertibles
 
 Los bonos de riesgo convertibles tendrán las siguientes características especiales, además de las características comunes establecidas en el artículo 2.2.2.9.6.2. del presente Decreto:
@@ -10558,23 +9312,17 @@ Los bonos de riesgo convertibles tendrán las siguientes características especi
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.4 — Modificación de las Condiciones de los Bonos de Riesgo
 
 Cualquier modificación que se realice respecto a las condiciones inicialmente establecidas en el acuerdo de reorganización para los bonos de riesgo, constituira una reforma del acuerdo de reorganización que deberá ser aprobada conforme a las mayorías exigidas para el efecto. Además, dicha modificación deberá ser aprobada por cualquier número plural de tenedores que represente no menos del cincuenta por ciento (50%) más uno del valor total de los bonos de riesgo emitidos, salvo que se pacte una mayoría superior en el acuerdo de reorganización.
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.5 — Extensión de Garantías
 
 Las garantías de los créditos que se conviertan en bonos de riesgo, quedarán automáticamente incorporadas en el respectivo título, según corresponda, salvo que el acreedor acuerde liberarlas dentro del acuerdo de reorganización.
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.6.6 — Negociabilidad
 
@@ -10584,8 +9332,6 @@ PARÁGRAFO. La transferencia de los bonos de riesgo conlleva la transferencia de
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.7 — Oferta de los Bonos de Riesgo
 
 Los bonos de riesgo podrán ser colocados mediante oferta pública u oferta privada. Para efectos de la realización de una oferta pública de los bonos de riesgo, se deberá dar cumplimiento a los requisitos establecidos en el Decreto 2555 de 2010 y cualquier norma que lo modifique o complemente, previo a la suscripción del acuerdo de reorganización.
@@ -10594,8 +9340,6 @@ Para la realización de la oferta privada de los bonos de riesgo, se aplicará l
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.8 — Protección a los Tenedores de Bonos de Riesgo
 
 Los tenedores de bonos de riesgo que se negocien en el mercado de valores gozarán de las garantías y protecciones previstas en las normas que rigen dichos mercados y de aquellas que se pacten en el respectivo acuerdo de reorganización.
@@ -10603,8 +9347,6 @@ Los tenedores de bonos de riesgo que se negocien en el mercado de valores gozar�
 Tratándose de bonos de riesgo que no se negocien en el mercado de valores, en el respectivo acuerdo de reorganización deberán estipularse las reglas sobre protección de los tenedores que se consideren pertinentes, en adición a las previstas en las normas vigentes.
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.6.9 — Del Documento de Emisión Privada de Bonos de Riesgo
 
@@ -10640,8 +9382,6 @@ El documento donde conste la emisión privada de los bonos de riesgo, deberá co
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.10 — Suscripción de los Bonos de Riesgo
 
 La suscripción de los bonos de riesgo emitidos como consecuencia de un acuerdo de reorganización no será obligatoria. En tal sentido, sólo serán suscritos por aquellos acreedores que así lo decidan voluntariamente y que tengan capacidad legal para el efecto. En caso de que se trate de suscripción de bonos de riesgo que vayan a ser emitidos en el mercado de valores, las condiciones quedarán en el acuerdo de reorganización y la suscripción se deberá hacer en el mercado de valores dando cumplimiento a los requisitos establecidos en el Decreto 2555 de 2010.
@@ -10650,8 +9390,6 @@ PARÁGRAFO. Los establecimientos de crédito podrán suscribir bonos de riesgo d
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.6.11 — Autorizaciones
 
 En virtud de lo establecido en el numeral 1 del artículo 4 del Decreto Legislativo 560 de 2020, no se requerirá la autorización por parte de la Superintendencia de Sociedades de que trata el inciso 2 del artículo 84 de la Ley 222 de 1995 para la emisión de los bonos de riesgo. Sin perjuicio de lo anterior, los recursos que capte el emisor cómo resultado de la emisión y colocación de bonos de riesgo, no se tendrán en cuenta para determinar su pasivo para con el público, ni serán considerados contratos de mandato, para efectos de lo previsto en el Decreto 1981 de 1988.
@@ -10659,8 +9397,6 @@ En virtud de lo establecido en el numeral 1 del artículo 4 del Decreto Legislat
 Las entidades estatales sujetas al régimen de crédito público deberán observar la normativa aplicable a las operaciones de manejo de deuda pública y obtener las autorizaciones que correspondan.
 
 (Adicionado por el Art. 1 del Decreto 890 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.6.12 — Remisión de normas
 
@@ -10675,8 +9411,6 @@ SECCIÓN 7
 Sección, Adicionada por el Art.1 del Decreto 939 de 2021
 
 REBAJAS DE CAPITAL, INTERESES, SANCIONES O MULTAS DE CRÉDITOS A FAVOR DE LA DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES - DIAN Y DEMÁS ENTIDADES DEL ESTADO
-
-ARTÍCULO
 
 ## art:2.2.2.9.7.1 — Competencia y alcance de la rebaja de capital, intereses, sanciones o multas
 
@@ -10696,8 +9430,6 @@ PARÁGRAFO. Las rebajas a que se refiere el presente artículo no podrán aplica
 
 (Adicionado por el Art. 1 del Decreto 939 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.7.2 — 7.2
 
 Beneficios sobre créditos a favor de entidades públicas para facilitar la recuperación de negocios del deudor en insolvencia a partir de la vigencia del Decreto Legislativo 560 de 2020. Los deudores que se encuentren inmersos dentro de procesos recuperatorios de que trata el Decreto Legislativo 560 de 2020, podrán solicitar ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN y demás entidades del Estado, la aplicación del parágrafo 3 del artículo 5 del Decreto Legislativo 560 de 2020, a efectos de recuperar y conservar la empresa cómo unidad de explotación económica y fuente generadora de empleo, atendiendo los criterios establecidos en el artículo 2.2.2.9.7.4 del presente Decreto.
@@ -10708,8 +9440,6 @@ En el caso de procesos de reorganización abreviados de los que trata el artícu
 
 (Adicionado por el Art. 1 del Decreto 939 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.7.3 — 7.3
 
 Beneficios sobre créditos a favor de entidades públicas para facilitar la recuperación de negocios del deudor en insolvencia con anterioridad a la vigencia del Decreto Legislativo 560 de 2020. Las empresas que con anterioridad a la entrada en vigencia del Decreto Legislativo 560 de 2020, se encontraban en procesos de insolvencia de conformidad con la Ley 1116 de 2006, o en acuerdos de restructuración bajo la Ley 550 de 1999 y deban renegociar los términos, por efectos de las causas que motivaron la declaratoria del Estado de Emergencia Económica, Social y Ecologica establecido en el Decreto 417 de 2020, y hasta la vigencia del Decreto Legislativo 560 de 2020, podrán solicitar la aplicación de la rebaja de capital, intereses, sanciones o multas de que trata el parágrafo 3 del artículo 5 del Decreto Legislativo 560 de 2020, únicamente sobre el saldo de las obligaciones objeto del nuevo acuerdo.
@@ -10717,8 +9447,6 @@ Beneficios sobre créditos a favor de entidades públicas para facilitar la recu
 Para lo anterior, estos deudores también deberán hacer la manifestación señalada en el artículo 1 del Decreto Reglamentario 842 de 2020.
 
 (Adicionado por el Art. 1 del Decreto 939 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.7.4 — Porcentaje máximo a otorgar por rebajas de capital, intereses, sanciones o multas
 
@@ -10818,8 +9546,6 @@ PARÁGRAFO. Se entenderá por "Entidades del Estado" todas las entidades públic
 
 (Adicionado por el Art. 1 del Decreto 939 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.7.5 — Comité de aprobación de rebajas
 
 Facultese a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN y demás entidades del Estado para conformar un comité de aprobación de rebajas, integrado mínimo por tres (3) miembros. El comité deberá ser presidido por el representante legal de la entidad o quién haga sus veces e integrado por quién asuma las funciones de planeación, cobro, recaudo y/o financieras, según la estructura administrativa u organizacional de cada entidad.
@@ -10828,15 +9554,11 @@ El Comité deberá aprobar las rebajas conforme a los criterios y porcentajes es
 
 (Adicionado por el Art. 1 del Decreto 939 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.7.6 — Presentación del acto por medio del cuál se otorgan las rebajas
 
 El deudor que se haya visto afectado por las causas que motivaron la declaratoria del estado de Emergencia Económica, Social y Ecologica a efectos de recuperar y conservar la empresa como unidad de explotación económica y fuente generadora de empleo, con la finalidad de acreditar el cumplimiento del requisito establecido en el artículo 32 de la Ley 1429 de 2010, deberá presentar al juez del concurso, el acto administrativo que otorgue el acuerdo de pago de las obligaciones sometidas al proceso concursal, previo cumplimiento de los requisitos establecidos por la Ley.
 
 (Adicionado por el Art. 1 del Decreto 939 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.7.7 — Pérdida de los beneficios
 
@@ -10856,8 +9578,6 @@ SECCIÓN 1
 
 PUBLICIDAD DE LOS CONTRATOS DE FIDUCIA MERCANTIL CON FINES DE GARANTÍA QUE CONSTAN EN DOCUMENTO PRIVADO
 
-ARTÍCULO
-
 ## art:2.2.2.10.1.1 — 1.1
 
 Inscripción en el registro mercantil de los contratos de fiducia mercantil con fines de garantía que constan en documento privado. Los contratos de fiducia mercantil con fines de garantía celebrados por las personas naturales comerciantes y las jurídicas no excluidas de la aplicación del régimen de insolvencia y que consten en documento privado, así cómo su terminación y las modificaciones en cuánto la clase de contrato, las partes y los bienes fideicomitidos, deberán inscribirse por el fideicomitente en el registro mercantil de la cámara de comercio con jurisdicción en el domicilio del fiduciante, sin perjuicio de la inscripción o registro que, de acuerdo con la clase de acto o con la naturaleza de los bienes, deba hacerse conforme a la ley.
@@ -10872,8 +9592,6 @@ PARÁGRAFO 3. Se considerarán como actos, contratos o negocios jurídicos sin c
 
 (Decreto 2785 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.10.1.2 — Certificación de la inscripción en el registro mercantil de los contratos de fiducia mercantil con fines de garantía
 
 Con base en la inscripción del contrato de fiducia mercantil de garantía que trata el artículo anterior, las cámaras de comercio expedirán la certificación respectiva, firmada por el Secretario o quién haga sus veces, en el formato adoptado para el efecto, el cual deberá contener cómo mínimo la fecha de inscripción del contrato en el registro mercantil y las partes que lo suscriben.
@@ -10886,8 +9604,6 @@ SECCIÓN 2
 
 INSCRIPCION DE LAS ACTAS Y PROVIDENCIAS DEL JUEZ EN EL RÉGIMEN DE INSOLVENCIA
 
-ARTÍCULO
-
 ## art:2.2.2.10.2.1 — Inscripción de la providencia de inicio de un proceso de insolvencia
 
 La providencia de inicio del proceso de insolvencia con constancia de ejecutoria y del aviso que informa sobre el inicio del proceso, deberán inscribirse por solicitud de la parte interesada en el registro mercantil de la cámara de comercio del domicilio principal del deudor y en el de sus sucursales.
@@ -10897,8 +9613,6 @@ PARÁGRAFO 1. Tratándose de procesos de insolvencia que adelanten los jueces ci
 PARÁGRAFO 2. Cuando un fideicomitente sea convocado a un proceso de insolvencia, en la providencia de inicio deberá indicarse por el juez del concurso los contratos de fiducia mercantil celebrados por este, los que fueron terminados por efectos de la insolvencia del fideicomitente y los contratos de fiducia mercantil que continuaron vigentes.
 
 (Decreto 2785 de 2008, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.10.2.2 — Inscripción de la providencia de confirmación del acuerdo de reorganización o de adjudicación
 
@@ -10914,15 +9628,11 @@ PARÁGRAFO. Las providencias que ordenan o confirman la adjudicación de que tra
 
 (Decreto 2785 de 2008, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.10.2.3 — Razón social del sujeto de la insolvencia
 
 Para los efectos de la inscripción ordenada en el último inciso del artículo 35 de la Ley 1116 de 2006, relacionada con la providencia que ordena la celebración del acuerdo de adjudicación, ante la no presentación o falta de confirmación del acuerdo de reorganización, el juez del concurso, además de ordenar la inscripción de dicha providencia en el registro mercantil, ordenará que se certifique la razón social del deudor seguida de la expresión "en liquidación por adjudicacion", y que se inscriba en el registro mercantil la designación del promotor cómo representante legal del deudor, condición que asumira a partir de dicha inscripción en el registro mercantil.
 
 (Decreto 2785 de 2008, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.10.2.4 — Inscripción de la providencia que decreta la terminación del proceso de insolvencia
 
@@ -10935,8 +9645,6 @@ PARÁGRAFO. Hecha la inscripción a que se refiere este artículo, la Cámara de
 SECCIÓN 3
 
 INSCRIPCION DE LAS PROVIDENCIAS DICTADAS POR LA AUTORIDAD COLOMBIANA COMPETENTE CON OCASIÓN DE LA APLICACIÓN DEL RÉGIMEN DE INSOLVENCIA TRANSFRONTERIZA
-
-ARTÍCULO
 
 ## art:2.2.2.10.3.1 — 3.1
 
@@ -10954,8 +9662,6 @@ SECCIÓN 4
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.2.10.4.1 — Libros
 
 Corresponde a la Superintendencia de Industria y Comercio determinar los libros necesarios para cumplir con la finalidad de las inscripciones en el registro mercantil a que se refiere este capítulo.
@@ -10972,8 +9678,6 @@ DEL PROMOTOR, LIQUIDADOR Y AGENTE INTERVENTOR
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.1 — Naturaleza de los cargos de promotor, liquidador e interventor
 
 Los promotores, liquidadores y agentes interventores son auxiliares de la justicia y su oficio es público, ocasional e indelegable. Estos cargos deben ser ejercidos por personas de conducta intachable, deben gozar de excelente reputación y ser idóneos para cumplir con su función, la cuál deben desarrollar con imparcialidad e independencia.
@@ -10986,8 +9690,6 @@ En ejercicio de sus funciones, los promotores, los representantes legales que cu
 
 (Decreto 2130 de 2015, art. 1; Inciso tercero modificado y cuarto adicionado por el Decreto 991 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.2 — Del cargo de promotor
 
 El promotor es la persona natural o jurídica que participa en la negociación, el análisis, el diagnóstico, la elaboración del plan de negocios y del acuerdo de reorganización, así cómo en la emisión o difusión de la información financiera, administrativa, contable o de orden legal de la entidad en proceso de reorganización, y quién ejerce las demás funciones previstas en la ley, sin ser coadministrador, salvo cuando se trate del representante legal con funciones de promotor. La intervención del promotor en las audiencias del proceso de reorganización es indelegable. "
@@ -10995,8 +9697,6 @@ El promotor es la persona natural o jurídica que participa en la negociación, 
 (Modificado por el Art. 6 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.1.2.1 — Asignación de funciones del promotor al representante legal o a la persona natural comerciante
 
@@ -11010,8 +9710,6 @@ En cualquier etapa del proceso, el juez del concurso podrá reemplazar a estas p
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.2.2 — Asignación de funciones de promotor a un auxiliar inscrito en la lista
 
 El juez del concurso podrá designar, desde el inicio o en cualquier momento del proceso de reorganización, a auxiliares de las justicias inscritas en la lista de la Superintendencia de Sociedades en el cargo de promotor de acuerdo con lo previsto en el artículo 35 de la Ley 1429 de 2010.
@@ -11024,8 +9722,6 @@ El promotor estará sujeto a las normas previstas en la Ley 1116 de 2006 y en el
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.3 — Del cargo de liquidador
 
 El liquidador es la persona natural o jurídica que actúa como administrador de los bienes del sujeto del proceso de liquidación judicial, así como representante legal de la persona jurídica sometida a este proceso. El liquidador deberá cumplir las cargas, deberes y responsabilidades propias de los administradores de conformidad con las normas vigentes, así como las de auxiliar de la justicia.
@@ -11037,8 +9733,6 @@ Los acreedores podrán hacer uso de la facultad prevista en el inciso segundo de
 (Modificado por el Art. 7 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.1.4 — Del cargo de agente interventor
 
@@ -11054,8 +9748,6 @@ Excepcionalmente, el juez de la intervención podrá seleccionar al agente inter
 
 (Decreto 2130 de 2015, art. 1; Incisos segundo y tercero modificados por el Decreto 991 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.5 — Patrimonios autónomos afectos a actividades empresariales
 
 Los cargos de promotor y liquidador de patrimonios autónomos afectos a actividades empresariales, sujetos al régimen de insolvencia empresarial de que trata el artículo 2.2.2. 12.11 del Capítulo 12 del Título 2 de la Parte 2 del Libro 2 del Decreto Único Reglamentario del Sector Comercio, Industria y Turismo 1074 de 2015, serán desempeñados por auxiliares de la justicia que sean personas naturales o jurídicas. Los auxiliares de la justicia mantendrán la naturaleza prevista en los artículos 2 .2.2.11.1.1, 2.2.2.11.1 .2 y 2.2.2.11.1.3 del presente Decreto, aún en aquellos casos en que sean receptores de los derechos y obligaciones que legal o convencionalmente se desprenden del contrato de fiducia. "
@@ -11063,8 +9755,6 @@ Los cargos de promotor y liquidador de patrimonios autónomos afectos a activida
 (Modificado por el Art. 8 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.1.6 — Manual de Ética y evaluación de la gestión
 
@@ -11080,8 +9770,6 @@ Para los procesos de liquidación judicial, la obtención del mayor valor posibl
 
 (MODIFICADO por el Art. 3 del Decreto 1167 de 2023)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.7 — Asignación de funciones del promotor al representante legal o a la persona natural comerciante
 
 Los representantes legales de entidades en proceso de reorganización o las personas naturales comerciantes en proceso de reorganización a quienes se les asignen las funciones de promotor al amparo de lo previsto en el artículo 35 de la Ley 1429 de 2010, quedarán sujetos a las normas vigentes para el ejercicio de esa función.
@@ -11096,15 +9784,11 @@ En el evento en que la solicitud se realice antes de la celebración de la audie
 
 (Adicionado por el Art. 9 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.11.1.8 — Asignación de funciones de promotor a un auxiliar inscrito en la lista
 
 Cuando la negociación del acuerdo de reorganización fracase y de lugar a la liquidación y en los eventos en los que el cargo de promotor sea desempeñado por el representante legal de la persona jurídica deudora o por el deudor persona natural comerciante el juez del concurso nombrara a un auxiliar para que adelante el proceso de liquidación. "
 
 (Adicionado por el Art. 10 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.1.9 — Personas que pueden ser inscritas para ejercer los cargos de promotor, liquidador y agente interventor
 
@@ -11123,8 +9807,6 @@ PARÁGRAFO 2. En todo caso, la Superintendencia de Sociedades definirá el proce
 (MODIFICADO por el Art. 4 del Decreto 1167 de 2023)
 
 (Adicionado por el Art. 11 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.1.10 — Responsabilidad de las personas jurídicas
 
@@ -11168,8 +9850,6 @@ Para la conformación de la lista de auxiliares de la justicia, la Superintenden
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.2 — Convocatoria de aspirantes
 
 Para la conformación de la lista de auxiliares de la justicia, la Superintendencia de Sociedades realizará una convocatoria pública al menos una vez al año, cuya duración será fijada por esa misma Superintendencia.
@@ -11179,8 +9859,6 @@ PARÁGRAFO. El Superintendente de Sociedades podrá solicitar, según lo estime 
 (Modificado por el Art. 14 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.3 — Criterios para la elaboración de la lista de auxiliares de la justicia
 
@@ -11254,8 +9932,6 @@ PARÁGRAFO 3. Siempre que el auxiliar de la justicia presente una relación de p
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.4 — Destinatarios adicionales del listado de auxiliares de la justicia
 
 La lista de auxiliares de la justicia elaborada y administrada por la Superintendencia de Sociedades será utilizada también por las siguientes autoridades y personas:
@@ -11274,15 +9950,11 @@ Los acreedores, o estos y el deudor, en los casos en que se reemplace al liquida
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5 — Trámite y requisitos para la inscripción en la lista de auxiliares de la justicia
 
 Podrán hacer parte de la lista de auxiliares de la justicia elaborada y administrada por la Superintendencia de Sociedades las personas que adelanten el siguiente trámite y cumplan con los siguientes requisitos:
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.1 — Solicitud de inscripción
 
@@ -11297,8 +9969,6 @@ Así mismo, la Superintendencia revisará la información y los documentos sumin
 (MODIFICADO por el Art. 9 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.2 — Formato de hoja de vida, formulario de inscripción y anexos
 
@@ -11334,8 +10004,6 @@ PARÁGRAFO 3. El aspirante a auxiliar de la justicia podrá suministrar con su s
 
 (Decreto 991 de 2018, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.3 — Antecedentes
 
 No podrá integrar la lista una persona que tenga antecedentes penales, fiscales o disciplinarios, situación que será verificada por la Superintendencia de Sociedades en las bases de datos oficiales. Los mencionados antecedentes serán consultados por Internet en las bases de datos de las entidades encargadas de certificarlos, de lo cuál dejara anotación el funcionario de la Superintendencia de Sociedades que efectue la consulta".
@@ -11343,8 +10011,6 @@ No podrá integrar la lista una persona que tenga antecedentes penales, fiscales
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1; Modificado por el Decreto 991 de 2018, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.4 — Personas jurídicas
 
@@ -11380,8 +10046,6 @@ PARÁGRAFO 4. En todo caso. no podrá integrar la lista una persona jurídica qu
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.5 — Formación Academica
 
 Los aspirantes a ser inscritosen la lista de auxiliares de la justicia deberán cumplir con los siguientes requisitosde formación academica:
@@ -11389,8 +10053,6 @@ Los aspirantes a ser inscritosen la lista de auxiliares de la justicia deberán 
 (DEROGADO por el Art. 49 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.5.1 — Curso de formación academica en insolvencia e intervención
 
@@ -11414,8 +10076,6 @@ PARÁGRAFO TRANSITORIO. Para efectos de la primera convocatoria y de acuerdo con
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.5.2 — Examen de formación en insolvencia e intervención
 
 El aspirante a formar parte de la lista de auxiliares de la justicia deberá presentar el examen de formación en insolvencia e intervención, a través del cuál la Superintendencia de Sociedades evaluará los conocimientos del aspirante en relación con el régimen empresarial deinsolvencia e intervención, los procesos adelantados ante la Superintendencia de Sociedades y sus funciones.
@@ -11430,8 +10090,6 @@ El examen de formación en insolvencia e intervención será desarrollado y admi
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.5.3 — Examen periódico de conocimiento en insolvencia e intervención
 
 El examen periódico de conocimiento en insolvencia e intervención, deberá ser presentado y aprobado por los auxiliares de la justicia que hacen parte dela lista elaborada y administradapor laSuperintendencia deSociedades, al menos una vez cada dos años, que se contarán a partir de la fecha en que el auxiliar haya aprobado el examen de formación en insolvencia e intervenciono el último examenperiodico deconocimiento eninsolvencia eintervención, según corresponda.
@@ -11444,8 +10102,6 @@ Elexamenperiodicodeconocimientode insolvenciaeintervencionsera desarrollado y ad
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.6 — Experiencia profesional
 
 Los aspirantes a ser inscritosen la lista de auxiliares de la justicia deberán cumplir con los siguientes requisitos de experiencia profesional:
@@ -11453,8 +10109,6 @@ Los aspirantes a ser inscritosen la lista de auxiliares de la justicia deberán 
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.6.1 — Requisito general para ser inscrito en la lista
 
@@ -11466,8 +10120,6 @@ La profesión debe encontrarse comprendida en las áreas de ciencias económicas
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.6.2 — Requisitos específicos para la inscripción en las diferentes categorías
 
 El auxiliar podrá solicitar su inscripción en algunade las categorías de la lista, siempre que acredite el cumplimiento de los requisitos establecidos en el presente artículo. La experiencia acreditada por el auxiliar en el ejerciciode su cargo cómo promotor, liquidador o agente interventor mejorara su posición en las categorías de la lista.
@@ -11475,8 +10127,6 @@ El auxiliar podrá solicitar su inscripción en algunade las categorías de la l
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.6.2.1 — Categoría A
 
@@ -11490,8 +10140,6 @@ b) Haber actuado cómo Juez Civil del Circuitoo de procesos concursales o de ins
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.5.6.2.2 — Categoría B
 
 Paraaccederaestacategoria, el aspirante deberá cumplir los siguientes requisitos de experiencia:
@@ -11503,8 +10151,6 @@ b) Haber actuado cómo Juez Civil del Circuitoo de procesos concursales o de ins
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.5.6.2.3 — Categoría C
 
@@ -11533,8 +10179,6 @@ PARÁGRAFO 2. En relación con los literales e), d) y e) del presente artículo,
 (Derogado por el Art. 49 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.6 — Categorías de las entidades sujetas al régimen de insolvencia empresarial
 
@@ -11582,8 +10226,6 @@ Hasta 50
 
 (Artículo MODIFICADO por el Art. 36 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.7 — Inscripción en la lista de auxiliares de la justicia
 
 La Superintendencia de Sociedades inscribirá al aspirante en la lista de auxiliares de la justicia una vez haya verificado el cumplimiento de todos los requisitos exigidos en el presente decreto y en las regulaciones de índole técnico que se expidan.
@@ -11594,15 +10236,11 @@ PARÁGRAFO. Las personas que conformen el grupo de profesionales y técnicos que
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.8 — Publicación de la lista de auxiliares de la justicia y recurso
 
 La lista de auxiliares de la justicia se publicará por cinco días en la página web de la Superintendencia de Sociedades. Contra ella procederán los recursos que establece el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.9 — Publicación definitiva de la lista de auxiliares de la justicia
 
@@ -11612,15 +10250,11 @@ El aspirante que no haya sido incluido en la lista podrá optar por surtir nueva
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.10 — Vigencia de la lista de auxiliares de la justicia
 
 La lista de auxiliares de la justicia se entenderá conformada una vez se realice su publicación definitiva, de conformidad con lo establecido en el artículo 2.2.2.11.2.9, en la página web de la Superintendencia de Sociedades.
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.11 — Transitorio
 
@@ -11636,15 +10270,11 @@ Las personas que no actualicen su información o acrediten el cumplimiento de lo
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.12 — Actualización de la lista de auxiliares de la justicia
 
 Siempre que se surta una nueva convocatoria, la Superintendencia de Sociedades actualizará y publicará la lista de conformidad con lo establecido en el presente decreto.
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.13 — Deberes del auxiliar de la justicia
 
@@ -11667,8 +10297,6 @@ Informar oportunamente cualquier variación en los medios de infraestructura té
 El incumplimiento de cualquiera de los deberes mencionados, así como de las demás obligaciones previstas para los auxiliares de la justicia en el Código General del Proceso y en el presente decreto, facultará a la Superintendencia de Sociedades para excluir al auxiliar de la justicia de la lista, si aún no ha sido designado como promotor, liquidador o agente interventor y a los jueces del proceso para removerlo de su cargo y posteriormente excluirlo de la lista, en caso que ya hubiere sido designado.
 
 (MODIFICADO por el Art. 12 Del Decreto 1167 de 2023)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.14 — Formulario de inscripción y anexos
 
@@ -11702,8 +10330,6 @@ PARÁGRAFO 3. El aspirante a auxiliar de la justicia podrá suministrar con su s
 
 (Adicionado por el Art. 16 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.15 — Antecedentes
 
 No podrá integrar la lista una persona natural que tenga antecedentes penales, fiscales o disciplinarios personales. Igual restricción aplica para las personas jurídicas cuyos administradores se encuentren en estas circunstancias. Los mencionados antecedentes serán consultados por Internet en las bases de datos de las entidades encargadas de certificarlos, de lo cual dejará anotación el funcionario de la Superintendencia de Sociedades que efectúe la consulta.
@@ -11715,8 +10341,6 @@ PARÁGRAFO. La verificación de las circunstancias antes mencionadas será reali
 (MODIFICADO por el Art. 14 Del Decreto 1167 de 2023)
 
 (Adicionado por el Art. 17 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.16 — Personas jurídicas
 
@@ -11736,8 +10360,6 @@ PARÁGRAFO. La Superintendencia de Sociedades podrá exigir el suministro de inf
 
 (Adicionado por el Art. 18 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.17 — Examen habilitante para ingresar a la lista de auxiliares de la justicia
 
 El aspirante a formar parte de la lista de auxiliares de la justicia deberá presentar y aprobar un examen de derecho concursal y régimen de intervención estatal por captación de recursos sin autorización, finanzas, contabilidad y otras materias afines, a través del cual la Superintendencia de Sociedades evaluará los conocimientos del aspirante en relación con el régimen empresarial de insolvencia y de intervención por captación no autorizada, así como los procesos y procedimientos adelantados ante la Superintendencia de Sociedades, funciones y régimen de los auxiliares de justicia.
@@ -11748,7 +10370,7 @@ La Superintendencia de Sociedades elaborará las preguntas del examen, lo llevar
 
 (Adicionado por el Art. 19 del Decreto 65 de 2020)
 
-ARTÍCULO
+## art:2.2.2.11.2.18 — 
 
 .2. 2.2.11.2.18. Examen de conocimiento en insolvencia e intervención y materias afines. En cualquier momento, la Superintendencia de Sociedades podrá determinar la obligación para los auxiliares de la lista, de presentar un examen de conocimiento en derecho concursal y régimen de intervención estatal por captación no autorizada, finanzas, contabilidad y otras materias afines, funciones y régimen de auxiliares de justicia, para mantenerse en la lista.
 
@@ -11770,13 +10392,13 @@ El certificado de estudios únicamente será expedido al profesional que hubiere
 
 (Adicionado por el Art. 20 del Decreto 65 de 2020)
 
-ARTÍCULO
+## art:2.2.2.11.2.19 — 
 
 .2. 2.2.11.2.19. Experiencia profesional. Los aspirantes a ser inscritos en la lista de auxiliares de la justicia deberán cumplir con los requisitos que se establecen en los siguientes articulos: "
 
 (Adicionado por el Art. 21 del Decreto 65 de 2020)
 
-ARTÍCULO
+## art:2.2.2.11.2.20 — 
 
 .2. 2.2.11.2.20. Requisito general para ser inscrito en la lista. Para ser inscrito en la lista de auxiliares de la justicia, el aspirante deberá acreditar haber ejercido legalmente su profesión, cómo mínimo, durante cinco años contados a partir de la fecha del acta de grado.
 
@@ -11784,15 +10406,11 @@ La profesión debe encontrarse comprendida en las áreas de ciencias económicas
 
 (Adicionado por el Art. 22 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.21 — Requisitos específicos para la inscripción en las diferentes categorías
 
 El auxiliar podrá solicitar su inscripción en alguna de las categorías de la lista, siempre que acredite el cumplimiento de los requisitos establecidos en los artículos 2.2.2.11.2 .22, 2.2.2.11.2 .23 y 2.2.2.11 .2.24 del presente decreto. La experiencia acreditada por el auxiliar en el ejercicio de su cargo como promotor, liquidador o agente interventor mejorara su posición en las categorías de la lista. "
 
 (Adicionado por el Art. 23 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.22 — Categoría A
 
@@ -11817,8 +10435,6 @@ Haber ejercido como administrador, en los términos del artículo 22 de la Ley 2
 (MODIFICADO por el Art. 17 Del Decreto 1167 de 2023)
 
 (Adicionado por el Art. 24 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.23 — Categoría B
 
@@ -11845,8 +10461,6 @@ PARÁGRAFO. Cuando un auxiliar de categoría B, cumpla el mínimo de procesos de
 (MODIFICADO por el Art. 18 Del Decreto 1167 de 2023)
 
 (Adicionado por el Art. 25 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.2.24 — Categoría C
 
@@ -11904,8 +10518,6 @@ PARÁGRAFO 2. Cuando un auxiliar de categoría C, cumpla el mínimo de procesos 
 
 (Adicionado por el Art. 26 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.11.2.25 — Oportunidad de vinculación y desvinculación de personas naturales respecto de personas jurídicas
 
 Concluida la presentación de los exámenes de las personas naturales en el marco de una convocatoria, estas y las personas naturales que se encuentran en la lista, en caso de interés en la vinculación a una persona jurídica, deberán anunciar, por escrito, a la Superintendencia de Sociedades, su vinculación como personas naturales asociadas a una persona jurídica, registro que se mantendrá vigente hasta que se surta una nueva convocatoria y exista interés de vinculación o desvinculación respecto de personas jurídicas.
@@ -11923,8 +10535,6 @@ SECCIÓN 3
 SELECCIÓN DEL PROMOTOR, LIQUIDADOR O AGENTE INTERVENTOR
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.3.1 — Sistema automatizado para la selección de auxiliares de la justicia
 
@@ -11968,8 +10578,6 @@ La certificación de haber cursado y aprobado un curso de formación para auxili
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.3.2 — Comité de Selección de Especialistas
 
 El Comité de Selección de Especialistas es un comité de la Superintendencia de Sociedades que funciona bajo el reglamento que determine el Superintendente de Sociedades. El Comité de Selección de Especialistas evaluará el listado de auxiliares de la preselección suministrada por el sistema automatizado, a efectos de seleccionar el auxiliar que en su criterio sea más idóneo y conveniente conforme a la situación del sujeto objeto del proceso y al interés público económico, de conformidad con el análisis pormenorizado de los siguientes factores:
@@ -11992,8 +10600,6 @@ PARÁGRAFO. El Comité de Selección de Especialistas será el encargado de la s
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.3.3 — Incidencia en varias jurisdicciones
 
 Cuando el proceso para el cual se selecciona al auxiliar tenga incidencia en varias jurisdicciones o involucre a varias personas jurídicas con domicilios en diferentes jurisdicciones, se seleccionará al auxiliar que esté inscrito en la jurisdicción en la que esté ubicada la ciudad en la que se ejecuten las principales actividades de explotación económica de la persona jurídica en proceso de reorganización, liquidación o intervención.
@@ -12010,8 +10616,6 @@ En el evento en que el proceso involucre personas naturales y jurídicas con dom
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.3.4 — Insuficiencia de auxiliares inscritos en una jurisdicción
 
 En el evento en que en una jurisdicción no haya auxiliares disponibles para la categoría dentro de la cual se encuentra la entidad en proceso de reorganización, liquidación o intervención, el Comité de Selección de Especialistas seleccionará a un auxiliar que se encuentre inscrito en una categoría superior.
@@ -12021,8 +10625,6 @@ Si no es posible seleccionar a otro auxiliar dentro de la misma jurisdicción en
 (MODIFICADO por el Art. 24 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.3.5 — Selección de auxiliar proveniente de categoría o de jurisdicción distinta
 
@@ -12040,8 +10642,6 @@ Adicionalmente, para el proceso de intervención, podrá acudirse a esta medida 
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.3.6 — Conflictos de interés acaecidos antes de la selección
 
 Cuando la Superintendencia de Sociedades tenga conocimiento de que el auxiliar que debe ser seleccionado para el cargo, de conformidad con los resultados suministrados por el sistema valoración de criterios para la selección auxiliares de la justicia y la evaluación del Comité de Selección de Especialistas, se encuentra incurso en un posible conflicto de interés, deberá oficiar al auxiliar para que suministre la explicación correspondiente. La respuesta del auxiliar será sometida a consideración del Comité de Selección de Especialistas.
@@ -12049,8 +10649,6 @@ Cuando la Superintendencia de Sociedades tenga conocimiento de que el auxiliar q
 (DEROGADO por el Art. 49 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.3.7 — Mecanismo excepcional de selección del auxiliar
 
@@ -12070,8 +10668,6 @@ La Superintendencia de Sociedades o el juez del concurso o de la intervención p
 
 (Decreto 2130 de 2015, art. 1; (Inciso modificado por el Decreto 991 de 2018, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.11.3.8 — Designación del auxiliar de la justicia
 
 El juez del concurso o de la intervención designará en el cargo de promotor, liquidador o agente interventor, al auxiliar de la justicia que haya sido seleccionado por el Comité de Selección de Especialistas. En el evento en que el Superintendente de Sociedades o el juez del concurso o de la intervención no hubiesen asistido a la sesión del Comité en la que se escogió a determinado auxiliar y no estuviesen de acuerdo con el auxiliar que fue seleccionado, o que, habiendo asistido y votado a favor, tuviesen conocimiento de una circunstancia sobreviniente, motivarán dicha decisión y se la comunicarán al mencionado Comité de tal forma que este adelante el procedimiento de selección nuevamente.
@@ -12083,8 +10679,6 @@ Parágrafo. Se exceptúa de lo previsto en este inciso, la facultad en cabeza de
 (Modificado por el Art. 31 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.3.9 — Aceptación del cargo de promotor, liquidador o agente interventor
 
@@ -12101,8 +10695,6 @@ Si el auxiliar designado no acepta el cargo en el término señalado, el juez de
 (MODIFICADO por el Art. 28 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1; Modificado por el Decreto 991 de 2018, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.11.3.10 — Posesión en el cargo del promotor, liquidador designado en procesos de insolvencia o agente interventor
 
@@ -12123,8 +10715,6 @@ Las demás declaraciones que el juez del concurso considere apropiadas.
 (MODIFICADO por el Art. 29 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1;Numeral 4 Modificado por el Decreto 991 de 2018, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.11.3.11 — Renuncia al cargo de promotor, liquidador en procesos de insolvencia o agente interventor
 
@@ -12147,8 +10737,6 @@ SECCIÓN 4
 CAUSALES DE INCUMPLIMIENTO DE LAS FUNCIONES DEL AUXILIAR DE LA JUSTICIA
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.4.1 — Causales de incumplimiento
 
@@ -12186,8 +10774,6 @@ CONFLICTO DE INTERÉS
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.5.1 — Conflictos de interés
 
 Para los efectos de este artículo, habrá conflicto de interés, cuando el interés personal del auxiliar de la justicia o el de alguna de las personas vinculadas a él, le impida actuar de forma objetiva, imparcial o independiente en el proceso de insolvencia o de intervención, de conformidad con lo establecido en las leyes.
@@ -12195,8 +10781,6 @@ Para los efectos de este artículo, habrá conflicto de interés, cuando el inte
 (MODIFICADO por el Art. 32 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.5.2 — Conflictos de interés acaecidos con posteridad a la designación
 
@@ -12206,15 +10790,11 @@ Para los efectos de este artículo, habrá conflicto cuando el interés personal
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.5.3 — Beneficio personal
 
 Para que se configure una situación u ocurra una conducta que de lugar a un conflicto de interés, en los términos de este decreto, no será necesario que exista un beneficio personal de cualquier indole, directo o indirecto, para el auxiliar de la justicia o las personas vinculadas a el.
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.5.4 — Conflicto de interés antes de la designación
 
@@ -12224,13 +10804,25 @@ En caso de que acaezca un posible conflicto de interés con anterioridad a la de
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.5.5 — Conflicto de interés con posterioridad a la designación
 
 En caso de que acaezca un posible conflicto de interés con posterioridad a la designación del auxiliar de la justicia como liquidador, promotor o agente interventor, este pondrá en conocimiento del juez del concurso o del funcionario a cargo de la intervención dicha circunstancia de manera inmediata y le suministrará toda la información que fuere relevante, idónea y suficiente para que adopte la decisión que estime pertinente.
 
 (MODIFICADO por el Art. 34 del Decreto 1167 de 2023)
+
+(Decreto 2130 de 2015, art. 1)
+
+## art:2.2.2.11.5.6 — Consecuencia de conflictos de interés acaecidos antes de la designación
+
+El juez del concurso o de la intervención evaluará el hecho o circunstancia que evidencie la existencia de un posible conflicto de intereses como consecuencia de la información obtenida de oficio o a petición de cualquiera de las partes interesadas en el proceso de insolvencia o de intervención.
+
+En caso de que el conflicto de interés concurra con relación a una de las personas naturales designadas por la persona jurídica, el juez podrá solicitarle a esta que designe a otra persona natural que cumpla con todos los requisitos legales exigidos.
+
+En el evento en que el juez del concurso o de la intervención determinen que el auxiliar de la justicia, en su calidad de persona natural se encuentra incurso en un conflicto de interés antes de la designación, se abstendrá de proceder a su nombramiento.
+
+(MODIFICADO por el Art. 35 del Decreto 1167 de 2023)
+
+(Modificado por el Art. 32 del Decreto 65 de 20209
 
 (Decreto 2130 de 2015, art. 1)
 
@@ -12247,8 +10839,6 @@ SECCIÓN 6
 EXCLUSIÓN, RELEVO Y SUSTITUCION DE AUXILIARES DE LA JUSTICIA
 
 (Decreto 2130 de 2015, art. 1; Sección Modificada por el Decreto 991 de 2018, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.11.6.1 — Exclusión de la lista
 
@@ -12286,8 +10876,6 @@ PARÁGRAFO 2. La Superintendencia de Sociedades tramitará las exclusiones por v
 
 (Modificado por el Art. 33 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.11.6.2 — Causales de relevo
 
 El auxiliar de la justicia será relevado del proceso para el cual fue designado en los siguientes eventos:
@@ -12310,8 +10898,6 @@ Cuando por el actuar o desidia del auxiliar de la Justicia se genere una dilaci�
 
 (MODIFICADO por el Art. 38 del Decreto 1167 de 2023)
 
-ARTÍCULO
-
 ## art:2.2.2.11.6.3 — Entrega de bienes y documentos en poder del auxiliar relevado
 
 El auxiliar que sea relevado de su cargo deberá entregar a quien sea designado en su reemplazo, la totalidad de la información y los bienes que tenga en su poder con ocasión del ejercicio del cargo y presentar la rendición de cuentas de su gestión dentro de los cinco (5) días siguientes a su retiro, so pena de ser sancionado por parte del juez del proceso con multas, en los términos previstos en el numeral 5 del artículo 5 de la Ley 1116 de 2006, sin perjuicio de las acciones civiles, penales y disciplinarias que puedan iniciarse en su contra.
@@ -12319,8 +10905,6 @@ El auxiliar que sea relevado de su cargo deberá entregar a quien sea designado 
 El juez fijará fecha para la respectiva diligencia, de la cual se levantará acta para el expediente.
 
 (MODIFICADO por el Art. 39 del Decreto 1167 de 2023)
-
-ARTÍCULO
 
 ## art:2.2.2.11.6.4 — Responsabilidad
 
@@ -12339,8 +10923,6 @@ SECCIÓN 7
 HONORARIOS Y GASTOS
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.1 — Remuneración del promotor
 
@@ -12386,8 +10968,6 @@ En el evento en que el promotor deba actualizar la calificación y graduación d
 
 (Decreto 2130 de 2015, art. 1; Modificado por el Decreto 991 de 2018, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.11.7.2 — Pago de la remuneración del promotor
 
 El valor total de los honorarios del promotor se pagara de conformidad con las siguientes reglas:
@@ -12411,8 +10991,6 @@ PARÁGRAFO 2. El monto de los honorarios que fije el juez del concurso incluye e
 (Modificado por el Art. 36 del Decreto 65 de 2020)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.3 — Remuneración del promotor de Grupo de Empresas
 
@@ -12439,8 +11017,6 @@ b) En el evento en que la persona natural no comerciante no tenga activos, el va
 (MODIFICADO por el Art. 42 del Decreto 1167 de 2023)
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.4 — Remuneración del liquidador para sociedades en procesos de insolvencia
 
@@ -12496,8 +11072,6 @@ PARÁGRAFO 3. El liquidador que realice operaciones de conservación del activo 
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.7.5 — Pago de la Remuneración del liquidador en procesos de insolvencia
 
 El valor total de los honorarios que sean fijados para el liquidador se pagará de conformidad con las siguientes reglas:
@@ -12516,8 +11090,6 @@ En el evento en que el liquidador enajene los activos por un monto superior al d
 
 (Decreto 2130 de 2015, art. 1; Inciso final Modificado por el Decreto 991 de 2018, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.2.11.7.6 — 7.6
 
 Constitución del depósito para pago de honorarios del liquidador Cuando la disponibilidad de recursos lo permita, el liquidador procederá a constituir un depósito judicial por el sesenta por ciento (60%) del monto total de los honorarios fijados, que se hará a nombre de la entidad en proceso de liquidación y que quedara a ordenes del juez del concurso.
@@ -12527,8 +11099,6 @@ Si el valor total o parcial de los honorarios fijados debe pagarse en todo o en 
 Conforme a lo señalado, la rendición de cuentas sólo deberá reflejar aquellos bienes que estuvieren destinados al pago del saldo de los honorarios del liquidador, en los términos previstos en el literal e) del artículo 2.2. 2.11.7.5 del presente decreto.
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.7 — Subsidio para pago de honorarios de liquidadores en procesos de insolvencia y conservación del archivo
 
@@ -12552,8 +11122,6 @@ PARÁGRAFO 3. En el evento en que el monto del activo de la entidad en proceso d
 
 (Parágrafo MODIFICADO por el Art. 40 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.2.11.7.8 — Pago del subsidio al liquidador en procesos de insolvencia
 
 En relación con los honorarios del liquidador, el subsidio se pagará una vez se encuentre en firme la providencia que aprueba la rendición final de cuentas de su gestión. El subsidio podrá reducirse, en el evento en que se establezca que la gestión del liquidador fue deficiente o cuando este haya sido requerido por la misma causa, más de dos veces durante el proceso por el referido juez.
@@ -12564,8 +11132,6 @@ En relación con los honorarios del liquidador, el subsidio se pagará una vez s
 
 (Decreto 2130 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.11.7.9 — Honorarios en caso de intervención de varios auxiliares de la justicia
 
 En caso de que varios auxiliares de la justicia participen en el proceso de insolvencia o de intervención, los honorarios serán distribuidos entre ellos por el juez del concurso, quién tendrá en cuenta la proporción en que participo cada uno de los auxiliares en el proceso, según los soportes que obren en el expediente.
@@ -12575,8 +11141,6 @@ En caso de que varios auxiliares de la justicia participen en el proceso de inso
 Para la implementación de lo dispuesto en el presente artículo, se aplicarán las reglas atinentes a los mínimos que se deben tener en cuenta para la fijación de los honorarios de los auxiliares de la justicia.
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.10 — Gastos del proceso
 
@@ -12596,15 +11160,11 @@ PARÁGRAFO 2. En ningún caso el juez del concurso podrá conceder subsidios o a
 
 (Decreto 2130 de 2015, art. 1; Parágrafo 2 Modificado por el Decreto 991 de 2018, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.2.11.7.11 — Gastos deducibles de la remuneración
 
 El juez del concurso podrá, de oficio o a petición de parte, determinar si el auxiliar de la justicia ha incurrido en gastos excesivos o innecesarios, en cuyo caso, deberá deducir el exceso en los gastos de los honorarios que correspondan al auxiliar de la justicia y podrá proceder con su remoción del cargo y exclusión de la lista de auxiliares.
 
 Los gastos que se generen con ocasión de contratos celebrados por el liquidador, que hubieren sido objetados por el juez del concurso en los términos del numeral 3 del artículo 5 de la Ley 1116 de 2006, serán deducidos de los honorarios del liquidador.
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.12 — Nombramientos y contratos celebrados por el liquidador
 
@@ -12617,8 +11177,6 @@ Los nombramientos y contratos que celebre el liquidador deberán responder a una
 Los actos del liquidador que excedan o contravengan lo reglamentado en el presente artículo serán inoponibles al deudor en liquidación, a los acreedores y a terceros.
 
 (Decreto 991 de 2018, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.2.11.7.13 — Objeción judicial de los nombramientos o contratos del liquidador
 
@@ -12635,8 +11193,6 @@ SECCIÓN 8
 PÓLIZA DE SEGUROS
 
 (Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.11.8.1 — Constitución de póliza de seguros
 
@@ -12656,8 +11212,6 @@ ACCESO A LA INFORMACION.
 
 (Decreto 2130 de 2015, art. 1; Modificado por el Decreto 991 de 2018, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.2.11.9.1 — Deber de información
 
 Mientras estén en ejercicio de sus funciones, y por solicitud de interesado, el promotor, el liquidador o el agente interventor deben suministrar la información que requieran, sobre el deudor y sobre el proceso concursal.
@@ -12668,15 +11222,11 @@ El deudor, los administradores de la persona jurídica en concurso, los acreedor
 
 El deudor y los administradores de la persona jurídica en concurso deben permitir al auxiliar de la justicia el acceso a sus libros y oficinas, de manera que este pueda evaluar razonablemente las perspectivas de reorganización y formarse un concepto sobre la gestión de los administradores y la actividad de los socios, matrices, controlantes y demás sujetos vinculados, entre otros aspectos relevantes para el desarrollo del proceso concursal.
 
-ARTÍCULO
-
 ## art:2.2.2.11.9.2 — Dirección de correo electrónico
 
 El promotor, liquidador o el agente interventor, según sea el caso, deberá habilitar una dirección de correo electrónico de uso exclusivo para la recepción y envío de información relacionada con el proceso concursal.
 
 El auxiliar de la justicia velara porque dicha cuenta tenga capacidad y disponibilidad suficiente para recibir los mensajes de datos que envien las partes en ejercicio del deber previsto en el artículo 78 numeral 14 del Código General del Proceso.
-
-ARTÍCULO
 
 ## art:2.2.2.11.9.3 — Página web
 
@@ -12691,8 +11241,6 @@ El juez del concurso podrá exigir al promotor, liquidador o agente interventor,
 Para los anteriores efectos, el juez tomara en cuenta, entre otros factores, la relevancia de la empresa para un sector económico o regional, el monto de sus pasivos, el número de acreedores, el carácter internacional de la operación, la existencia de anomalias en su contabilidad y el incumplimiento de obligaciones legales por parte del deudor. "
 
 (Modificado por el Art. 42 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.11.9.4 — Publicidad de memoriales presentados por las partes al proceso concursal
 
@@ -12712,8 +11260,6 @@ Sección modificada por el Art.43 del Decreto 65 de 2020
 
 SECCIÓN 10
 
-ARTÍCULO
-
 ## art:2.2.2.11.10.1 — Reportes de los auxiliares de la justicia
 
 El juez del concurso podrá solicitar a los promotores, liquidadores y agentes interventores que rindan reportes, con fundamento en las actuaciones, cifras o demás datos que resulten de los archivos, registros, contabilidad y soportes del deudor o en el expediente.
@@ -12722,19 +11268,13 @@ En cualquier estado del proceso, el deudor deberá garantizar al auxiliar de la 
 
 La Superintendencia de Sociedades podrá exigir que los reportes que deba rendir el auxiliar de la justicia sean presentados a través de un formato específico o vía mensaje de datos, mediante correo electrónico o a través de un programa o aplicativo específico.
 
-ARTÍCULO
-
 ## art:2.2.2.11.10.2 — Contenido de los reportes
 
 La Superintendencia de Sociedades mediante resolución definirá las oportunidades, contenido, formatos y medios de presentación por los cuáles los promotores, liquidadores y agentes interventores deban rendir los reportes de los que trata el artículo anterior para los procesos que sean de su competencia.
 
-ARTÍCULO
-
 ## art:2.2.2.11.10.3 — Prueba por informe en los procesos concursales
 
 A petición de parte o cuando el juez del concurso considere necesario acreditar hechos sobre los cuáles debe adoptar decisiones, podrá requerir a los promotores, liquidadores y agentes interventores para que presenten informes sobre hechos, actuaciones, cifras o demás datos que resulten de los archivos, registros, contabilidad y soportes del deudor, expresando que tienen cómo objeto servir de prueba en el proceso concursal.
-
-ARTÍCULO
 
 ## art:2.2.2.11.10.4 — Trámite del informe
 
@@ -12746,15 +11286,11 @@ INFORMES EN LOS PROCESOS DE REORGANIZACION.
 
 (Sección adicionada por el Decreto 991 de 2018, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.11.11.1 — Informes del promotor en los procesos de reorganización
 
 En cumplimiento de sus deberes legales y de las ordenes impartidas por el juez del concurso, en las oportunidades respectivas el promotor deberá presentar al juez del concurso un informe inicial; un informe de objeciones, conciliación y créditos; y un informe de negociación del acuerdo.
 
 Los mencionados informes deberán ser presentados por el representante legal de la persona jurídica deudora o por el deudor, cuando desempeñen las funciones del promotor en los casos del artículo 35 de la Ley 1429 de 2010.
-
-ARTÍCULO
 
 ## art:2.2.2.11.11.2 — Informe inicial
 
@@ -12778,8 +11314,6 @@ Dentro del plazo fijado por el juez del concurso de conformidad con lo previsto 
 
 9. Un concepto sobre las perspectivas de recuperación del deudor, con fundamento en los planes de negocios, los flujos de caja y la propuesta de acuerdo presentada con la solicitud de insolvencia. En dicho concepto, entre otros aspectos, deberá analizar si la reorganización supone un mejor escenario que una liquidación judicial.
 
-ARTÍCULO
-
 ## art:2.2.2.11.11.3 — Anexos del informe inicial
 
 Con el informe inicial, el promotor deberá acompañar los siguientes documentos:
@@ -12789,8 +11323,6 @@ Con el informe inicial, el promotor deberá acompañar los siguientes documentos
 2. Soportes y pruebas que den cuenta de la fijación de los avisos indicados en el numeral 3 del artículo anterior.
 
 3. Acuse de recibo de los oficios y avisos enviados a los acreedores del deudor y a los jueces que adelantan procesos ejecutivos y declarativos en fase de ejecución contra el deudor.
-
-ARTÍCULO
 
 ## art:2.2.2.11.11.4 — Informe de objeciones, conciliación y créditos
 
@@ -12820,8 +11352,6 @@ En estos casos, en una unica audiencia el juez del concurso resolverá sobre las
 
 Cuando lo considere viable, el juez del concurso también podrá habilitar un espacio de negociación y votación del acuerdo durante la audiencia de decisión de objeciones, así el promotor no haya presentado el acuerdo firmado en su informe de objeciones, conciliación y créditos.
 
-ARTÍCULO
-
 ## art:2.2.2.11.11.5 — Anexos del informe de objeciones, conciliación y créditos
 
 Con el informe de objeciones, conciliación y créditos, el promotor deberá acompañar los siguientes documentos:
@@ -12831,8 +11361,6 @@ Con el informe de objeciones, conciliación y créditos, el promotor deberá aco
 El promotor no podrá firmar las actas a nombre del deudor o de alguna de las partes de la controversia, con excepción de los eventos en que, de acuerdo con el artículo 35 de la Ley 1429 de 2010, dicha función sea ejercida por el deudor persona natural comerciante o por el representante legal de la persona jurídica deudora.
 
 2. Copia de los proyectos de calificación y graduación de créditos, derechos de votos e inventarios y avalúos, presentada en formato de mensaje de datos, cómo una hoja de cálculo o planilla electrónica editable, que permita al juez del concurso y a las partes el cálculo automatizado de los valores ante las modificaciones que se realicen en audiencia.
-
-ARTÍCULO
 
 ## art:2.2.2.11.11.6 — Informe de negociación
 
@@ -12852,8 +11380,6 @@ A más tardar el día que venza el término dispuesto para la presentación del 
 
 2.5. Una relación de los acreedores que prestaron su consentimiento individual para la satisfacción de sus créditos a través de capitalizaciones o de daciones en pago. En estos casos, deberá explicarse sucintamente en que consistieron las operaciones respectivas y en que clausulas del acuerdo se encuentran contenidas.
 
-ARTÍCULO
-
 ## art:2.2.2.11.11.7 — Anexos del informe de negociación
 
 Con el informe de negociación, el promotor deberá acompañar los siguientes documentos:
@@ -12868,15 +11394,11 @@ INFORMES EN LOS PROCESOS DE LIQUIDACIÓN JUDICIAL.
 
 (Sección adicionada por el Decreto 991 de 2018, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.11.12.1 — Informes del liquidador en los procesos de liquidación judicial
 
 En cumplimiento de sus deberes legales y de las ordenes impartidas por el juez del concurso, en las oportunidades respectivas el liquidador deberá presentar al juez del concurso un informe inicial; un informe de objeciones, conciliación y créditos; un informe de enajenación de activos y acuerdo de adjudicacion; y una rendición de cuentas finales.
 
 PARÁGRAFO. Los informes previstos en esta sección también serán presentados por en los procesos de liquidación por adjudicación. En estos casos, el informe inicial contendrá la actualización de gastos causados durante el proceso de reorganización.
-
-ARTÍCULO
 
 ## art:2.2.2.11.12.2 — Informe inicial
 
@@ -12914,8 +11436,6 @@ Dentro de los cinco (5) días siguientes al vencimiento del término para que lo
 
 16. Relación de partes, representantes y apoderados, con indicación de cesionarios y causahabientes, en caso de existir.
 
-ARTÍCULO
-
 ## art:2.2.2.11.12.3 — Anexos del informe inicial
 
 Con el informe inicial, el liquidador deberá acompañar los siguientes documentos:
@@ -12937,8 +11457,6 @@ Con el informe inicial, el liquidador deberá acompañar los siguientes document
 8. Los soportes de los nombramientos y contratos que el liquidador haya celebrado para el ejercicio del encargo.
 
 9. Todos los demás documentos y soportes que sustenten los datos presentados en el informe.
-
-ARTÍCULO
 
 ## art:2.2.2.11.12.4 — Informe de objeciones, conciliación y créditos
 
@@ -12968,8 +11486,6 @@ En el proyecto de inventarios y avaluas, el liquidador deberá indicar si los bi
 
 10. Relación de partes, representantes y apoderados, con indicación de cesionarios y causahabientes, en caso de existir.
 
-ARTÍCULO
-
 ## art:2.2.2.11.12.5 — Anexos del informe de objeciones, conciliación y créditos
 
 Con el informe de objeciones, conciliación y créditos, el liquidador deberá acompañar los siguientes documentos:
@@ -12977,8 +11493,6 @@ Con el informe de objeciones, conciliación y créditos, el liquidador deberá a
 1. Actas de conciliación que sirven de soporte a las conciliaciones realizadas, suscritas por las partes de la controversia y por el liquidador, en su calidad de conciliador. El liquidador no podrá firmar las actas a nombre del deudor o de alguna de las partes de la controversia.
 
 2. Copia de los proyectos de calificación y graduación de créditos, derechos de votos e inventarios y avaluas, presentada en formato de mensaje de datos, cómo una hoja de cálculo o planilla electrónica editable que permita al juez del concurso y a las partes el cálculo automatizado de los valores ante las modificaciones que se realicen en audiencia.
-
-ARTÍCULO
 
 ## art:2.2.2.11.12.6 — Informe de enajenación de activos y acuerdo de adjudicación
 
@@ -13004,8 +11518,6 @@ Antes de que venza el término previsto en el artículo 57 de la Ley 1116 de 200
 
 4. Relación de los bienes perecederos o en riesgo de deterioro o pérdida que fueron enajenados por el liquidador en las condiciones del artículo 2.2.2.13.1.6 del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.2.2.11.12.7 — Anexos del informe de enajenación de activos y acuerdo de adjudicación
 
 Con el informe de enajenación de activos y acuerdo de adjudicación el liquidador deberá acompañar los siguientes documentos:
@@ -13015,8 +11527,6 @@ Con el informe de enajenación de activos y acuerdo de adjudicación el liquidad
 2. El acuerdo de adjudicación, presentado en la forma y con los contenidos exigidos en la Ley 1116 de 2006.
 
 3. Los documentos en los que consten los votos a favor del acuerdo de adjudicación, en el que se encuentre plenamente identificado el acreedor que lo emitio.
-
-ARTÍCULO
 
 ## art:2.2.2.11.12.8 — Rendición de cuentas finales
 
@@ -13034,8 +11544,6 @@ Una vez ejecutadas las ordenes incluidas en el auto de adjudicación de bienes, 
 
 6. Un resumen de la utilización del activo en el curso de la liquidación, que incluya los gastos de administración discriminados por rubro y valor desde el inicio del proceso liquidatario, el pasivo calificado y graduado y el pasivo insoluto.
 
-ARTÍCULO
-
 ## art:2.2.2.11.12.9 — Anexos de la rendición de cuentas finales
 
 Con la rendición de cuentas finales, el liquidador acompañara los siguientes documentos:
@@ -13052,8 +11560,6 @@ Sección Adicionada por el Art.44 del Decreto 65 de 2020
 
 DESIGNACIÓN DEL LIQUIDADOR EN LIQUIDACIONES VOLUNTARIAS Y POR CAUSA LEGAL
 
-ARTÍCULO
-
 ## art:2.2.2.11.13.1 — Ámbito de Aplicación
 
 La reglamentación prevista en esta sección, es aplicable a los siguientes casos:
@@ -13064,8 +11570,6 @@ La reglamentación prevista en esta sección, es aplicable a los siguientes caso
 
 3. A la designación del liquidador de sociedades que, según el artículo 50 de la Ley 1429 de 2010, en concordancia con lo previsto en el artículo 31 de la Ley 1727 de 2014, queden incursas en disolución y liquidación por depuración del Registro Único Empresarial o aquellas que se presuman cómo no operativas, según lo consagrado en el artículo 144 de la Ley 1955 de 2019 y demás normas concordantes aplicables.
 
-ARTÍCULO
-
 ## art:2.2.2.11.13.2 — Sujetos legitimados
 
 La solicitud de nombramiento del liquidador en el supuesto señalado en el numeral 1 del artículo 2.2.2.11.13.1 del presente Decreto, deberá ser presentada personalmente por escrito, por cualquier asociado o por su apoderado, aún cuando en los estatutos sociales se hubiere pactado una clausula compromisoria. En el escrito de solicitud se deberá afirmar bajo la gravedad de juramento y acreditar que se han agotado todos los medios estatutarios y legales para el nombramiento del liquidador y, que, pese a ello, no ha sido posible su designación.
@@ -13073,8 +11577,6 @@ La solicitud de nombramiento del liquidador en el supuesto señalado en el numer
 Para el caso establecido en el numeral 2 del artículo 2.2.2.11 .13.1 del presente Decreto. la solicitud la podrán presentar además de los asociados, los acreedores externos relacionados en el inventario del patrimonio social, atendiendo los supuestos y requisitos establecidos en el artículo 27 de la Ley 1429 de 2010.
 
 En el caso descrito en el numeral 3 del artículo 2.2.2.11.13.1 del presente Decreto, el liquidador de la sociedad será el representante legal, en los términos del artículo 227 del Código de Comercio. En caso de ausencia del representante legal y de que este no haya sido designado por el órgano competente de la sociedad, aún a pesar de haberse surtido el trámite correspondiente, la designación del liquidador será procedente a petición de cualquier persona que demuestre interés legitimo, entre otros, el administrador de la sociedad involucrada en el proceso liquidatorio, los socios o accionistas de la misma, los acreedores sociales y cualquier autoridad pública interesada en que se adelante la liquidación.
-
-ARTÍCULO
 
 ## art:2.2.2.11.13.3 — Documentos requeridos para la solicitud
 
@@ -13108,15 +11610,11 @@ PARÁGRAFO 1. Los anteriores documentos se pondrán a disposición del liquidado
 
 PARÁGRAFO 2. Cuando el solicitante no pueda adjuntar alguno de los documentos mencionados, deberá expresar las razones que le asisten para ello, lo cuál será evaluado por de la Superintendencia de Sociedades atendiendo las condiciones de cada caso en particular.
 
-ARTÍCULO
-
 ## art:2.2.2.11.13.4 — Trámite
 
 En el evento descrito en el numeral 1 del artículo 2 .2.2.11.13.1 del presente Decreto, del escrito contentivo de la solicitud se dará traslado a la sociedad respectiva por el término de quince (15) días a fin de que se pronuncie o controvierta los hechos en los que se fundamenta la solicitud. Vencido este término, si la sociedad manifiesta su conformidad con la solicitud de nombramiento, la Superintendencia de Sociedades procederá a nombrar al liquidador siguiendo los parámetros establecidos en el parágrafo este artículo. En caso contrario o cuando no haya pronunciamiento, se dará inicio a la investigación, de acuerdo con el procedimiento administrativo aplicable que se encuentre vigente.
 
 PARÁGRAFO : En los eventos descritos en los numerales 2 y 3 del artículo 2.2.2 .11.13.1 del presente Decreto, una vez acreditados los supuestos establecidos en la norma aplicable al caso respectivo, la Superintendencia de Sociedades, atendiendo los criterios establecidos en la sección 3 del capítulo 11 del título 2 parte 2 libro 2, una vez surtido el procedimiento pertinente ante el Comité de Selección de Especialistas , se designara al liquidador de la lista de auxiliares de la justicia de la Entidad y se ordenará la inscripción en el registro mercantil, decisión contra la cuál procederá el recurso de reposición .
-
-ARTÍCULO
 
 ## art:2.2.2.11.13.5 — Honorarios
 
@@ -13130,15 +11628,11 @@ CAPÍTULO 12
 
 LOS PATRIMONIOS AUTONOMOS AFECTOS A ACTIVIDADES EMPRESARIALES PUEDEN ACCEDER AL RÉGIMEN DE INSOLVENCIA EMPRESARIAL. CASOS EN LOS CUÁLES LAS FIDUCIAS MERCANTILES QUEDAN EXCLUIDAS DEL PROCESO DE LIQUIDACIÓN JUDICIAL
 
-ARTÍCULO
-
 ## art:2.2.2.12.1 — Patrimonios autónomos afectos a actividades empresariales, sujetos al régimen de insolvencia
 
 Para los efectos del artículo 2 de la Ley 1116 de 2006, los patrimonios autónomos afectos a actividades empresariales tienen por objeto principal adelantar en forma organizada la administración o custodia de bienes destinados a procesos de producción, transformación, circulación o prestación de servicios.
 
 (Decreto 1038 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.12.2 — Supuestos de admisión al proceso de reorganización
 
@@ -13148,15 +11642,11 @@ PARÁGRAFO. El acuerdo de reorganización no podrá establecer un plazo de cumpl
 
 (Decreto 1038 de 2009, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.12.3 — Administradores del Patrimonio Autónomo en Insolvencia
 
 Para los efectos de la aplicación de la Ley 1116 de 2006, en los procesos de insolvencia de patrimonios autónomos afectos a la realización de actividades empresariales, cuando la ley habla del deudor se entenderá que se refiere al patrimonio autónomo; cuando habla de acreedor interno, se entenderá que se refiere al fideicomitente y cuando habla de administradores, se entenderá que se refiere al fideicomitente o a quién ejerce influencia dominante en sus decisiones, o control sobre el mismo, salvo cuando se haga referencia a las obligaciones formales del fiduciario, en los términos de los artículos 1233 y 1234 del Código de Comercio y de aquellas normas que los adicionen, modifiquen o sustituyan, en cuyo caso se entenderá que se refiere al vocero del patrimonio autónomo o fiduciario.
 
 (Decreto 1038 de 2009, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.12.4 — Inscripción en el registro mercantil de los patrimonios autónomos afectos a actividades empresariales
 
@@ -13164,23 +11654,17 @@ Para efectos de la admisión de un patrimonio autónomo afecto a actividades emp
 
 (Decreto 1038 de 2009, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.12.5 — 2.5
 
 Certificación de la inscripción en el registro mercantil de los patrimonios autónomos afectos a actividades empresariales. Con base en la inscripción del patrimonio autónomo de que trata el artículo anterior, las cámaras de comercio expedirán la certificación respectiva, firmada por el secretario o quién haga sus veces, en el formato adoptado para el efecto, el cual deberá contener cómo mínimo la fecha de inscripción del contrato en el registro mercantil y las partes que lo suscriben.
 
 (Decreto 1038 de 2009, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.12.6 — Casos de vinculación con patrimonios autónomos afectos a la realización de actividades empresariales
 
 Para los efectos de este decreto, y en desarrollo de lo dispuesto en el artículo 12 de la Ley 1116 de 2006, se considera que existe vinculación con un patrimonio autónomo afecto a la realización de actividades empresariales, de quién ejerza influencia dominante en sus decisiones o control sobre el mismo.
 
 (Decreto 1038 de 2009, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.12.7 — Competencia
 
@@ -13190,15 +11674,11 @@ El inicio de los procesos deberá solicitarse ante la Superintendencia de Socied
 
 (Decreto 1038 de 2009, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.12.8 — Legitimación
 
 La apertura del proceso de insolvencia de un patrimonio autónomo afecto a la realización de actividades empresariales, podrá ser solicitada por el vocero o fiduciario, a iniciativa propia o porque así se lo haya requerido el fideicornitente (sic) o quién ejerza influencia dominante en las decisiones del fideicomiso según el correspondiente contrato de fiducia, por el titular de un crédito posterior a la constitución del patrimonio autónomo, vencido, exigible y a cargo del patrimonio autónomo en la fecha de la solicitud o por la Superintendencia que ejerza supervisión sobre la actividad principal que desarrolla el patrimonio autónomo.
 
 (Decreto 1038 de 2009, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.12.9 — Solicitud
 
@@ -13220,23 +11700,17 @@ PARÁGRAFO. Cuando la solicitud de admisión al proceso de reorganización la pr
 
 (Decreto 1038 de 2009, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.12.10 — Autorizaciones
 
 El juez del concurso en el proceso de reorganización, en aplicación de lo dispuesto en el artículo 17 de la Ley 1116 de 2006, será el único que autorice la celebración por parte del deudor de fiducias mercantiles u otro tipo de contratos que tengan por objeto o cómo efecto la emisión de títulos a través del mercado público de valores en Colombia, sin perjuicio de las facultades de la Superintendencia Financiera de Colombia.
 
 (Decreto 1038 de 2009, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.12.11 — Naturaleza de los cargos de promotor y liquidador de patrimonios autónomos sujetos de procesos de insolvencia
 
 Los cargos de auxiliares de la justicia de los promotores y liquidadores para patrimonios autónomos afectos a actividades empresariales, sujetos al régimen de insolvencia, deben ser desempeñados por sociedades fiduciarias, toda vez que se pueden constituir en receptores de los derechos y obligaciones que legal y convencionalmente se derivan del contrato de fiducia, escogida de la lista elaborada por la Superintendencia de Sociedades, de conformidad con lo previsto en el artículo 67 de la Ley 1116 de 2006 y la reglamentación expedida sobre el particular por el Gobierno Nacional.
 
 (Decreto 1038 de 2009, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.12.12 — Exclusión de la masa de la liquidación de los bienes transferidos a título de fiducia mercantil con fines de garantía
 
@@ -13252,23 +11726,17 @@ PARÁGRAFO. Para los efectos del parágrafo del artículo 55 de la Ley 1116 de 2
 
 (Decreto 1038 de 2009, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.12.13 — Remanente
 
 Si una vez pagadas las obligaciones de los acreedores del contrato de fiducia mercantil de garantía de que trata el artículo anterior, quedare un remanente, este será incorporado a la masa de bienes del fideicomitente en proceso de insolvencia, los cuáles responderán por las obligaciones de conformidad con las prelaciones de ley aplicables al concurso, para lo cuál se aplicarán las reglas contenidas en el numeral 7 del artículo 50 de la Ley 1116 de 2006.
 
 (Decreto 1038 de 2009, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.12.14 — Acción revocatoria, de simulación y de ineficacia
 
 Podra demandarse ante el juez del concurso en los términos de los artículos 74, 75 y 76 de la Ley 1116 de 2006, la transferencia de bienes a título de fiducia mercantil con fines de garantía, realizada durante los dieciocho (18) meses anteriores al inicio del proceso de insolvencia, contados al momento del registro del referido contrato.
 
 (Decreto 1038 de 2009, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.12.15 — Transparencia Empresarial
 
@@ -13286,8 +11754,6 @@ INVENTARIOS, AVALÚOS, PERITOS Y AVALUADORES
 
 (Sección Modificado por el Decreto 991 de 2018, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.1 — Inventario de bienes en la liquidación judicial
 
 El liquidador deberá elaborar el inventario de los activos del deudor, el cuál contendrá la relación de los bienes y derechos del deudor que conforman la masa a liquidar, valorados de conformidad con el numeral 9 del artículo 48 de la Ley 1116 de 2006.
@@ -13300,8 +11766,6 @@ Tanto en el inventario cómo en los avaluas se precisara si los bienes conforman
 
 (Modificado por el Art. 45 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.2 — Criterios de valoración en los procesos de liquidación judicial
 
 Para la valoración de los bienes del deudor objeto de liquidación judicial de que trata el numeral 9 del artículo 48 de la Ley 1116 de 2006 y de conformidad con la naturaleza de los bienes objeto de valoración, se procederá así:
@@ -13312,8 +11776,6 @@ Para la valoración de los bienes del deudor objeto de liquidación judicial de 
 
 3. Valoración cómo un conjunto de bienes aislados en sus elementos componentes cuando en el inventario elaborado por el liquidador y por ser lo más conveniente para los intereses del conjunto, estos se hayan dividido.
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.3 — Avaluo del inventario en el proceso de liquidación judicial
 
 Para la valoración de los bienes de que tratan los numerales 1) y 2) del artículo precedente, el liquidador nombrara un evaluador de la lista que para el efecto haya establecido la Superintendencia de Sociedades.
@@ -13321,8 +11783,6 @@ Para la valoración de los bienes de que tratan los numerales 1) y 2) del artíc
 El avalúo deberá contener la totalidad de los requisitos exigidos por el artículo 226 del Código General del Proceso.
 
 PARÁGRAFO. Los peritos y evaluadores que contrate el liquidador colaborán en el desarrollo de la función jurisdiccional a cargo de los jueces del concurso y para todos los efectos serán considerados auxiliares de la justicia.
-
-ARTÍCULO
 
 ## art:2.2.2.13.1.4 — Valoración de inventarios como bienes aislados
 
@@ -13340,15 +11800,11 @@ PARÁGRAFO 2. Si el liquidador considera necesaria la elaboración de un avalúo
 
 (Modificado por el Art. 46 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.5 — Objeciones al inventario en la liquidación judicial
 
 Las objeciones al inventario valorado podrán consistir en la solicitud de la inclusión o de la exclusión de bienes o derechos o en el aumento o disminución del avalúo de los bienes incluidos o las afectaciones jurídicas y/o judiciales, las cuáles se decidirán conforme con lo establecido en el artículo 30 de la ley 1116 de 2006, en aplicación del artículo 53 de la misma ley.
 
 (Derogado por el Art. 49 del Decreto 65 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.13.1.6 — Enajenación de activos
 
@@ -13364,8 +11820,6 @@ PARÁGRAFO 2. Salvo los casos que trata el parágrafo anterior y salvo que el ju
 
 (Modificado por el Art. 47 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.7 — Reglas de enajenación
 
 En la enajenación, el liquidador tendrá en cuenta la finalidad de aprovechamiento del patrimonio a liquidar, así cómo los principios de eficiencia, información y gobernabilidad económica. En desarrollo de lo anterior, y en la medida en que las circunstancias lo permitan, el liquidador preferira la enajenación de la empresa en marcha.
@@ -13376,13 +11830,9 @@ De no ser posible la enajenación de la empresa en marcha, los bienes del deudor
 
 El liquidador realizará la enajenación de los bienes aislados en sus elementos componentes si no es posible la enajenación de la empresa en marcha o de los activos en bloque, o si del inventario valorado resulta más conveniente para los intereses del conjunto.
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.8 — Avaluo Comercial
 
 Para los efectos de este capítulo se denomina avalúo comercial el estudio de carácter técnico, artistico o científico, según corresponda, adelantado por personas naturales o jurídicas de comprobada trayectoria e idoneidad profesional para determinar el valor de un bien o un conjunto de bienes materiales o inmateriales, con la finalidad específica de adjudicación o venta en los términos de la Ley 1116 de 2006.
-
-ARTÍCULO
 
 ## art:2.2.2.13.1.9 — Contenido mínimo del avalúo
 
@@ -13412,8 +11862,6 @@ El avalúo que se presente deberá individualizar los bienes y en relación con 
 
 12. Cuando los bienes avaluados sean muebles por adhesion, por anticipación, o inmuebles por destinación, deberá indicarse si es posible su separación sin detrimento de su valor o del valor del bien al cual se encuentran adheridos o destinados. En el evento en que la separación implique un detrimento para alguno de los bienes, así deberá indicarlo y cuantificar su valor.
 
-ARTÍCULO
-
 ## art:2.2.2.13.1.10 — Condiciones generales de los avaluas
 
 En la práctica de un avalúo se deben observar las normas técnicas específicas que correspondan a los recursos o hechos que constituyan el objeto del mismo, según lo establecido en la reglamentación especial que les sea aplicable.
@@ -13424,23 +11872,17 @@ SECCIÓN 2
 
 FIRMAS ESPECIALIZADAS
 
-ARTÍCULO
-
 ## art:2.2.2.13.2.1 — Firmas especializadas
 
 Son aquellas que conocen una disciplina especial relativa a la elaboración y presentación de avalúos corporativos y especializados, idóneos para determinar el valor en bloque o de la empresa como unidad de explotación económica.
 
 (Decreto 1730 de 2009, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.13.2.2 — Competencia
 
 Corresponde a la Superintendencia de Sociedades establecer la lista de firmas especializadas para efectuar la valoración de los bienes del deudor en insolvencia que regira para los efectos de la aplicación de la Ley 1116 de 2006, en el evento de que se pacte la venta de la empresa como unidad de explotación económica en el Acuerdo de Reorganización, de Adjudicación o en la Liquidación Judicial.
 
 (Decreto 1730 de 2009, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.13.2.3 — Conformación de la lista y periodicidad de la inscripción
 
@@ -13450,15 +11892,11 @@ PARÁGRAFO. La Superintendencia de Sociedades fijara los términos de la convoca
 
 (Decreto 1730 de 2009, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.13.2.4 — Lista de firmas especializadas
 
 La lista de firmas especializadas elaborada por la Superintendencia de Sociedades deberá ser utilizada por los acreedores que en el respectivo Acuerdo de Reorganización o de Adjudicación hayan pactado una venta de la empresa cómo unidad de explotación económica en los procesos tanto de reorganización cómo de liquidación judicial, de conformidad con lo establecido en el parágrafo del artículo 81 de la Ley 1116 de 2006.
 
 (Decreto 1730 de 2009, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.13.2.5 — Inscripción en la lista
 
@@ -13466,15 +11904,11 @@ La Superintendencia de Sociedades, una vez verifique los requisitos exigidos de 
 
 (Decreto 1730 de 2009, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.13.2.6 — Requisitos para formar parte de la lista de firmas especializadas
 
 Se acreditara la idoneidad y la experiencia con certificaciones o constancias por servicios prestados que exija la Superintendencia de Sociedades.
 
 (Decreto 1730 de 2009, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.13.2.7 — Solicitud de inscripción
 
@@ -13484,15 +11918,11 @@ PARÁGRAFO. La solicitud de inscripción se entenderá presentada bajo la graved
 
 (Decreto 1730 de 2009, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.13.2.8 — Causales de exclusión de la lista
 
 Son causales de exclusión de la lista las que consagra el Código General del Proceso.
 
 (Decreto 1730 de 2009, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.2.13.2.9 — 2.9
 
@@ -13508,13 +11938,9 @@ VALIDACION JUDICIAL DE ACUERDOS EXTRAJUDICIALES DE REORGANIZACION
 
 (Sección Modificado por el Decreto 991 de 2018, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.13.3.1 — Acuerdos extrajudiciales de reorganización
 
 Todos los sujetos de que trata el artículo 2 de la Ley 1116 de 2006 podrán negociar acuerdos de reorganización con sus acreedores en cualquier momento, cuando cumplan con los requisitos previstos en el artículo 84 de la Ley 1116 de 2006 y en la presente sección y cuenten con la validación del juez del concurso.
-
-ARTÍCULO
 
 ## art:2.2.2.13.3.2 — Inicio de las negociaciones
 
@@ -13527,8 +11953,6 @@ Las negociaciones deberán contar con suficiente publicidad y apertura frente a 
 Se entenderá que ha existido suficiente publicidad y apertura cuando el deudor haya comunicado acerca de las negociaciones a todos los acreedores externos incluidos en la calificación y graduación de créditos y en el inventario de pasivos, a más tardar cinco (5) días antes de la presentación del acuerdo para su validación ante el juez del concurso.
 
 Las comunicaciones serán enviadas por el deudor a las direcciones electrónicas registradas por los acreedores en su respectivo registro mercantil, en caso de que el acreedor se encuentre inscrito; en los demás casos, se enviarán a cualquier dirección idonea para recibir notificaciones personales.
-
-ARTÍCULO
 
 ## art:2.2.2.13.3.3 — Solicitud de validación de acuerdos extrajudiciales de reorganización
 
@@ -13556,8 +11980,6 @@ PARÁGRAFO. La solicitud de validación de acuerdo extrajudicial de reorganizaci
 
 (Modificado por el Art. 48 del Decreto 65 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.2.13.3.4 — Trámite de la solicitud
 
 La presentación de la solicitud de validación ante el juez del concurso producira los mismos efectos previstos en al artículo 17 de la Ley 1116 de 2006. El juez del concurso verificará que la solicitud de validación cuente con la totalidad de los requisitos previstos en la ley y en el presente Decreto, para lo cuál aplicará el trámite previsto en el artículo 14 de la ley 1116 de 2006.
@@ -13574,23 +11996,17 @@ Durante dicho término de traslado, los acreedores que no suscribieron el acuerd
 
 4. La orden. al representante legal del deudor para que informe, tres (3) días antes de la celebración de la audiencia, si ha cumplido con el flujo de caja previsto en el acuerdo, si han surgido nuevas circunstancias que puedan incidir positiva o negativamente en la ejecución del acuerdo, y para que certifique que la compañía continúa ejecutando su objeto social.
 
-ARTÍCULO
-
 ## art:2.2.2.13.3.5 — Validación del acuerdo
 
 El juez del concurso decidirá en audiencia las objeciones que no hayan sido conciliadas, estudiará las observaciones que se lleguen a presentar sobre el acuerdo y lo validara si cumple con todos los preceptos legales en cuánto a su aprobación y contenido.
 
 Cuando las circunstancias lo exijan, el juez del concurso podrá suspender la audiencia según lo dispuesto en el artículo 35 inciso segundo de la Ley 1116 de 2006. Si en la reanudación no se valida el acuerdo, y encuentra probado que el deudor esta incurso en cesación de pagos, podrá ordenar la apertura oficiosa de algún otro proceso de insolvencia o, de no estimarlo procedente, terminara el proceso de validación judicial y se informará de ello a los jueces, a la Cámara de Comercio y a las demás entidades a quienes se haya dado aviso del inicio del proceso, para que cancelen las anotaciones y reanuden los procesos en curso que se encontraban suspendidos.
 
-ARTÍCULO
-
 ## art:2.2.2.13.3.6 — Inscripción del Acuerdo y levantamiento de medidas cautelares
 
 En firme la providencia de validación del acuerdo extrajudicial de reorganización, el juez ordenará a las autoridades o entidades correspondientes la inscripción de la providencia, junto con la parte pertinente del acta que contenga el acuerdo. Igual comunicación se librara por parte del deudor a cada despacho judicial que conozca de ejecuciones contra el deudor, informando la celebración del acuerdo y adjuntando un certificado de la entidad de registro donde conste la mencionada inscripción, para que cesen los efectos de las mismas contra el concursado y se levanten las medidas cautelares decretadas y practicadas sobre los bienes de este.
 
 Una vez autorizado el acuerdo extrajudicial de reorganización, los procesos ejecutivos y de restitución de tenencia que se encuentren bajo el conocimiento de los jueces serán incorporados al expediente del concurso.
-
-ARTÍCULO
 
 ## art:2.2.2.13.3.7 — Efectos del acuerdo
 
@@ -13599,8 +12015,6 @@ El acuerdo, una vez validado, producirá los efectos de que trata el Capítulo V
 SECCIÓN 4
 
 VOTO EN LOS PROCESOS DE LIQUIDACIÓN JUDICIAL
-
-ARTÍCULO
 
 ## art:2.2.2.13.4.1 — Determinación de derechos de voto en los procesos de liquidación judicial
 
@@ -13615,8 +12029,6 @@ INSOLVENCIA DE GRUPOS "DE EMPRESAS EN LOS PROCESOS DE REORGANIZACION Y LIQUIDACI
 SECCIÓN 1
 
 ÁMBITO NACIONAL
-
-ARTÍCULO
 
 ## art:2.2.2.14.1.1 — Definiciones
 
@@ -13640,8 +12052,6 @@ Para efectos del ámbito nacional del presente capítulo establece las siguiente
 
 (Decreto 1749 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.2 — Objetivos de la Solicitud Conjunta
 
 La solicitud conjunta de apertura de procesos de insolvencia se hará en los términos previstos en el artículo 12 de la Ley 1116 de 2006 y sus objetivos son:
@@ -13656,8 +12066,6 @@ La solicitud conjunta de apertura de procesos de insolvencia se hará en los té
 
 (Decreto 1749 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.3 — Presentación de la solicitud conjunta
 
 La solicitud conjunta para iniciar un proceso de insolvencia podrá presentarse por:
@@ -13669,8 +12077,6 @@ La solicitud conjunta para iniciar un proceso de insolvencia podrá presentarse 
 3. El acreedor o un número plural de acreedores que en los términos del artículo 2.2.2.13.3.4. del presente Decreto hubieran participado en la celebración del acuerdo extrajudicial de reorganización de los participes del Grupo de Empresas.
 
 (Decreto 1749 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.14.1.4 — Solicitud conjunta de apertura de procesos de insolvencia
 
@@ -13686,8 +12092,6 @@ Cuando la solicitud provenga del acreedor, se procederá en los términos previs
 
 (Decreto 1749 de 2011, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.5 — Efectos de la aceptación de la solicitud conjunta
 
 Decretada la apertura del proceso de insolvencia, el juez del concurso ordenará la inscripción en el registro mercantil de los insolventes que sean participes en el mismo Grupo de Empresas y que a la fecha no estuvieren inscritos.
@@ -13700,23 +12104,17 @@ En caso de un sólo acuerdo, este incluirá a cada deudor vinculado en la medida
 
 (Decreto 1749 de 2011, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.6 — Iniciación conjunta decretada de oficio
 
 La iniciación conjunta del proceso de insolvencia de los participes de un Grupo de Empresas procederá de oficio por parte de la Superintendencia de Sociedades, en los términos del numeral 3 del artículo 15 de la Ley 1116 de 2006. Conforme a la regla contenida en el inciso segundo del artículo 12 de la Ley 1116 de 2006, la Superintendencia de Sociedades será la competente.
 
 (Decreto 1749 de 2011, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.7 — Coordinación
 
 El trámite de los procesos de insolvencia, respecto de dos o más participes del Grupo de Empresas, podrá ser coordinado. La coordinación se hará sin menoscabo de la identidad jurídica propia de cada uno de los participes del Grupo de Empresas y tendrá por objeto facilitar el trámite de los procesos y racionalizar los gastos y lograr el aprovechamiento de los recursos existentes para alcanzar eficiencia, gobernabilidad económica y elevar la tasa de reembolso o de retorno para los acreedores.
 
 (Decreto 1749 de 2011, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.14.1.8 — Legitimación para presentar la solicitud de coordinación
 
@@ -13729,8 +12127,6 @@ La coordinación podrá ser ordenada de oficio por el juez del concurso o solici
 3. Un acreedor de una empresa participe del Grupo de Empresas respecto de la cuál se haya presentado una solicitud de apertura de un proceso de insolvencia o que se encuentre en un proceso de insolvencia ya iniciado.
 
 (Decreto 1749 de 2011, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.14.1.9 — Medidas de coordinación
 
@@ -13756,8 +12152,6 @@ B. Ordenar la venta de activos en bloque o por unidades de explotación económi
 
 (Decreto 1749 de 2011, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.10 — Alcance de la orden de coordinación
 
 En cada caso el juez del concurso especificara el alcance de la coordinación procesal decretada y ordenará la inscripción de la orden de coordinación en el registro mercantil de la Cámara de Comercio del domicilio principal de cada uno de los deudores vinculados.
@@ -13766,8 +12160,6 @@ La orden de coordinación se podrá modificar o se podrá terminar por decisión
 
 (Decreto 1749 de 2011, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.14.1.11 — Oportunidad de la orden de coordinación
 
 La solicitud de coordinación se podrá presentar de manera concurrente con la solicitud conjunta o en una etapa posterior, si el juez del concurso lo considerare pertinente, teniendo en cuenta el estado de los procesos.
@@ -13775,8 +12167,6 @@ La solicitud de coordinación se podrá presentar de manera concurrente con la s
 Si los procesos de insolvencia respecto de los cuáles proceda una medida de coordinación se han iniciado por diferentes jueces del concurso, estos podrán tomar las decisiones necesarias para coordinar el examen de la solicitud y las medidas aplicables referidas a la orden de coordinación procesal, su modificación o terminación.
 
 (Decreto 1749 de 2011, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.14.1.12 — Competencia en la Superintendencia de Sociedades
 
@@ -13790,8 +12180,6 @@ SECCIÓN 2
 
 FINANCIACION
 
-ARTÍCULO
-
 ## art:2.2.2.14.2.1 — Objeto de la financiación posterior a la apertura de un proceso de insolvencia
 
 La financiación o la aportación de nuevos recursos otorgados con posterioridad a la apertura de un proceso de insolvencia, en el contexto de un Grupo de Empresas tendrá por objeto:
@@ -13802,8 +12190,6 @@ La financiación o la aportación de nuevos recursos otorgados con posterioridad
 
 (Decreto 1749 de 2011, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.14.2.2 — Condiciones para la financiación
 
 En la financiación, el juez del concurso deberá velar por la debida protección de los intereses de los otorgantes o destinatarios de los recursos aportados tras la apertura del proceso de insolvencia y de toda parte interesada cuyos derechos puedan verse afectados por esa aportación de recursos.
@@ -13813,8 +12199,6 @@ Adicionalmente, deberá procurarse una distribución equitativa entre todos los 
 Las controversias surgidas respecto de las condiciones para la financiación serán resueltas por el juez del concurso.
 
 (Decreto 1749 de 2011, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.2.14.2.3 — 2.3
 
@@ -13828,8 +12212,6 @@ Financiación otorgada por un participe del Grupo de Empresas que sea objeto de 
 
 (Decreto 1749 de 2011, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.2.14.2.4 — Autorización del juez del concurso
 
 El juez del concurso autorizara desde el inicio del proceso de insolvencia el otorgamiento de financiación a otro participe del Grupo de Empresas, a través de cualquiera de las operaciones descritas en el artículo anterior, cuando verifique que el deudor en los términos del artículo 35 de la Ley 1429 de 2010, el promotor o el liquidador, según el caso, haya otorgado concepto previo favorable respecto del acuerdo de financiación y que los fondos estén destinados a asegurar la supervivencia de la empresa destinataria de los recursos o a mantener o incrementar el valor de su patrimonio o el de la masa de la insolvencia, y si una vez celebrado el acuerdo de financiación, este no haya sido objetado por acreedores que representen la mayoría para celebrar el acuerdo.
@@ -13840,8 +12222,6 @@ En el caso de que el acuerdo de financiación sea posterior a la celebración de
 
 (Decreto 1749de2011, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.14.2.5 — Beneficios para el otorgante de la financiación
 
 Al participe del Grupo de Empresas otorgante de esta financiación se le aplicarán los beneficios consagrados en el artículo 41 de la Ley 1116 de 2006 y no se considerará que los recursos entregados después de la admisión al trámite deban tratarse como legalmente postergados según lo dispuesto en el numeral 1 del artículo 69 de la Ley 1116 de 2006.
@@ -13850,15 +12230,11 @@ Estas ventajas se perderán cuando la financiación se destine al pago de pasivo
 
 (Decreto 1749 de 2011, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.2.14.2.6 — Otorgamiento de garantías
 
 El otorgamiento de una garantía podrá efectuarse sobre bienes no gravados del deudor vinculado, entre ellos los adquiridos con posterioridad al inicio del proceso. El otorgamiento de una garantía sobre bienes gravados del deudor vinculado requerirá el voto del beneficiario respectivo de conformidad con lo dispuesto en el numeral 5 del artículo 43 de la Ley 1116 de 2006.
 
 (Decreto 1749 de 2011, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.2.14.2.7 — 2.7
 
@@ -13873,8 +12249,6 @@ Financiación obtenida por un participe del Grupo de Empresas que sea objeto de 
 SECCIÓN 3
 
 PROCESOS ACCESORIOS
-
-ARTÍCULO
 
 ## art:2.2.2.14.3.1 — Acciones revocatorias y de simulación
 
@@ -13904,23 +12278,17 @@ Para efectos de determinar la procedencia de la acción revocatoria concursal o 
 
 (Decreto 1749 de 2011, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.14.3.2 — Período de sospecha para los deudores vinculados
 
 Para los efectos de la aplicación del artículo 74 de la Ley 1116 de 2006, el período de sospecha para todos los deudores vinculados se contara a partir del inicio del proceso de insolvencia del participe del Grupo de Empresas que haya iniciado primero su proceso de insolvencia o a partir de la fecha en la que se iniciaron todos los procedimientos en caso de haber operado una solicitud conjunta. La misma regla se aplicará en caso de ordenarse una consolidación, en la que la recuperación operara en provecho de la masa consolidada.
 
 (Decreto 1749 de 2011, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.2.14.3.3 — Efectos de la solicitud conjunta derivada del control
 
 Para la aplicación del artículo 61 de la Ley 1116 de 2006 y si hubiere procedido la solicitud conjunta en los términos establecidos en este capítulo, no se requerirá que la situación de control haya sido declarada o inscrita previamente en el registro mercantil.
 
 (Decreto 1749 de 2011, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.2.14.3.4 — Responsabilidad civil de los socios en el contexto de un Grupo de Empresas
 
@@ -13952,8 +12320,6 @@ SECCIÓN 4
 
 CONSOLIDACION
 
-ARTÍCULO
-
 ## art:2.2.2.14.4.1 — Consolidación patrimonial
 
 Los procesos de insolvencia de los participes de un Grupo de Empresas deberán respetar la identidad jurídica propia de cada participe, salvo en el caso de una liquidación judicial en donde en relación con los deudores vinculados, el juez del concurso en ejercicio de la facultad atribuida por el artículo 5 numeral 11 de la Ley 1116 de 2006 y para el logro de la finalidad del proceso, ordene una consolidación patrimonial, siempre y cuando el solicitante acredite al menos una de las siguientes situaciones:
@@ -13967,8 +12333,6 @@ Podra solicitar al juez del concurso la consolidación patrimonial, cualquier pa
 La solicitud o declaratoria de oficio podrá presentarse desde la apertura de los procesos de liquidación o en un momento posterior, siempre que sea posible preservar todos los derechos adquiridos frente a la masa patrimonial consolidada. Para este efecto, si la solicitud de consolidación es presentada por un acreedor, el juez del concurso solicitara al liquidador o liquidadores de las empresas objeto de la solicitud que determinen la pertinencia de la orden de consolidación.
 
 (Decreto 1749 de 2011, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.14.4.2 — Efectos de la orden de consolidación patrimonial
 
@@ -13984,8 +12348,6 @@ La orden de consolidación patrimonial tendrá los siguientes efectos:
 
 (Decreto 1749 de 2011, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.14.4.3 — Efectos frente a la prelación y privilegios
 
 La prelación y los privilegios de los acreedores de un Grupo de Empresas respecto del cuál proceda una orden de consolidación, se mantendrán en identica forma a cómo se reconocerian respecto de cada participe del Grupo de Empresas antes de emitirse la orden de consolidación, salvo que se trate de deudas con trabajadores o pensionados en donde su preferencia se extenderá al activo de todas las empresas que son objeto de la consolidación o salvo que la deuda garantizada sea puramente interna entre participes del grupo de empresas y haya quedado cancelada por efecto de la consolidación.
@@ -13993,8 +12355,6 @@ La prelación y los privilegios de los acreedores de un Grupo de Empresas respec
 Todos los acreedores de cualquiera de los participes del Grupo de Empresas objeto de una orden de consolidación patrimonial tendrán derecho a asistir a las audiencias que se celebren después de decretada la consolidación.
 
 (Decreto 1749 de 2011, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.14.4.4 — Modificación de la orden de consolidación patrimonial
 
@@ -14004,15 +12364,11 @@ Igualmente, procederá la modificación de la orden de consolidación patrimonia
 
 (Decreto 1749 de 2011, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.14.4.5 — Inscripción de la orden de consolidación patrimonial
 
 Decretada la orden de consolidación patrimonial, el juez del concurso ordenará su inscripción en el registro mercantil de la Cámara de Comercio del domicilio principal de los deudores vinculados objeto de la orden de consolidación, así como toda modificación o revocación de la misma. La notificación de la orden, su modificación o revocación procederá en cada uno de los procesos de liquidación judicial que se surtan contra los deudores vinculados.
 
 (Decreto 1749 de 2011, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.2.14.4.6 — Tratamiento de pasivos de los vinculados
 
@@ -14023,8 +12379,6 @@ Las obligaciones entre deudores vinculados se pagarán una vez satisfecho el pas
 SECCIÓN 5
 
 PROMOTORES Y LIQUIDADORES
-
-ARTÍCULO
 
 ## art:2.2.2.14.5.1 — Nombramiento del promotor o liquidador en un Grupo de Empresas
 
@@ -14042,8 +12396,6 @@ En la misma forma deberán actuar los promotores y liquidadores en caso de que e
 
 (Decreto 1749de2011, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.2.14.5.2 — Conflictos de interés entre promotores o liquidadores
 
 El juez del concurso dirimirá todo conflicto de intereses que pudiere surgir en el supuesto de que se nombre a un único o al mismo promotor o liquidador en el marco de procesos de insolvencia abiertos respecto de dos o más participes de un Grupo de Empresas, caso en el cuál podrá designar a un promotor o liquidador adicional, entre otras medidas.
@@ -14056,8 +12408,6 @@ SECCIÓN 6
 
 ATRIBUCIONES DEL JUEZ
 
-ARTÍCULO
-
 ## art:2.2.2.14.6.1 — Facultad de Dirección del Proceso de Insolvencia
 
 En ejercicio de las atribuciones para dirigir el proceso y para lograr la finalidad de los procesos de insolvencia, el juez del concurso, para efectos de la validación de acuerdos extrajudiciales de reorganización que se celebren en el contexto de un Grupo de Empresas, tomara en cuenta las disposiciones establecidas en este capítulo y podrá, con base en el análisis del acuerdo extrajudicial de reorganización, abstenerse de autorizarlo y decretar el inicio de un proceso de reorganización del deudor o deudores correspondientes.
@@ -14068,15 +12418,11 @@ SECCIÓN 7
 
 ÁMBITO INTERNACIONAL - COOPERACION TRANSFRONTERIZA EN LOS CASOS DE INSOLVENCIA DE GRUPOS DE EMPRESAS
 
-ARTÍCULO
-
 ## art:2.2.2.14.7.1 — Aplicación del régimen de insolvencia transfronteriza
 
 Las disposiciones contenidas en el Título 111 de la Ley 1116 de 2006, se aplicarán también en el contexto de un Grupo de Empresas.
 
 (Decreto 1749 de 2011, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.2.14.7.2 — Objeto de la cooperación entre tribunales en el contexto de Grupos de Empresas multinacionales
 
@@ -14090,8 +12436,6 @@ La cooperación entre las autoridades colombianas competentes y los tribunales e
 
 (Decreto 1749 de 2011, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.2.14.7.3 — Cooperación entre las autoridades colombianas competentes y los tribunales o representantes extranjeros
 
 La autoridad colombiana competente en un caso de insolvencia transfronteriza que afecte a un participe de un Grupo de Empresas, deberá cooperar en el mayor grado posible con los tribunales extranjeros o los representantes extranjeros en aplicación de la facultad contenida en el artículo 110 de la Ley 1116 de 2006, ya sea directamente o por conducto del promotor o liquidador, según el caso, a fin de facilitar la coordinación de esos procesos de insolvencia iniciados en otros Estados respecto de una empresa perteneciente al mismo Grupo de Empresas.
@@ -14100,15 +12444,11 @@ Las formas de cooperación descritas en el artículo 112 de la Ley 1116 de 2006,
 
 (Decreto 1749 de 2011, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.2.14.7.4 — Comunicación directa entre la autoridad colombiana competente y el tribunal o representante extranjero
 
 En un proceso de insolvencia contra un participe de un Grupo de Empresas, la autoridad colombiana competente, en ejercicio de la facultad conferida por el artículo 110 de la Ley 1116 de 2006, podrá comunicarse directamente con los tribunales o representantes extranjeros para recabar información o solicitar asistencia directa de los mismos en lo que respecta a ese proceso y a los procesos que cursaren en otros Estados respecto de empresas pertenecientes a ese mismo Grupo de Empresas.
 
 (Decreto 1749 de 2011, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.2.14.7.5 — Condiciones de las comunicaciones
 
@@ -14126,8 +12466,6 @@ Las comunicaciones de que trata este artículo estarán sujetas a las siguientes
 
 (Decreto 1749 de 2011, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.2.14.7.6 — Comunicaciones
 
 Las comunicaciones en que intervengan la autoridad colombiana competente y los tribunales no darán lugar a:
@@ -14142,8 +12480,6 @@ Las comunicaciones en que intervengan la autoridad colombiana competente y los t
 
 (Decreto 1749 de 2011, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.2.14.7.7 — Coordinación de Audiencias
 
 La autoridad colombiana competente podrá realizar audiencias en coordinación con un tribunal extranjero siempre y cuando se salvaguarden los derechos sustantivos y procesales de las partes interesadas del proceso de insolvencia y la jurisdicción de la autoridad colombiana competente.
@@ -14151,8 +12487,6 @@ La autoridad colombiana competente podrá realizar audiencias en coordinación c
 Para la celebración de estas audiencias se deberán acordar previamente las reglas para el desarrollo de la audiencia, los requisitos para la notificación, el método de comunicación, las condiciones que deberán regir el derecho de comparecer y de ser oido, la forma de presentación de los documentos y la limitación de la jurisdicción de cada tribunal a las partes que comparezcan ante el. Las anteriores reglas, requisitos y condiciones tendrán el alcance definido en el artículo 95 de la Ley 1116 de 2006.
 
 (Decreto 1749 de 2011, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.2.14.7.8 — Cooperación y comunicación por parte del promotor o liquidador con representantes extranjeros o tribunales extranjeros
 
@@ -14176,15 +12510,11 @@ SECCIÓN 1
 
 TOMA DE POSESIÓN PARA DEVOLVER Y LIQUIDACIÓN JUDICIAL
 
-ARTÍCULO
-
 ## art:2.2.2.15.1.1 — Sujetos de Intervención
 
 La Superintendencia de Sociedades, ordenará la toma de posesión para devolver o la liquidación judicial, a los sujetos descritos en el artículo 5 del Decreto 4334 de 2008, medidas que, en relación con los sujetos vinculados, operarán también respecto de la totalidad de sus bienes, los que quedarán afectos a la devolución del total de las reclamaciones aceptadas en el proceso o procesos. Los agentes interventores procurarán colaborar y coordinar sus actuaciones y los conflictos que surjan entre ellos serán resueltos por la Superintendencia de Sociedades.
 
 (Decreto 1910 de 2009, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.15.1.2 — Medidas Precautelativas
 
@@ -14193,8 +12523,6 @@ Para la ejecución de las medidas de intervención de que trata el Decreto 4334 
 PARÁGRAFO. Si en ejecución de las medidas de que trata este artículo se aprehendiera, recuperara o incautara dinero en efectivo, en la misma providencia se ordenará consignarlo en la cuenta de depositos judiciales del Banco Agrario a ordenes de la Superintendencia de Sociedades y a nombre del sujeto de la medida precautelativa. Una vez ordenada la medida de intervención, se pondrá a disposición si es del caso, del Agente Interventor.
 
 (Decreto 1910 de 2009, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.15.1.3 — Remisión de Reclamaciones y de Bienes
 
@@ -14206,8 +12534,6 @@ PARÁGRAFO 2. Cuando los bienes que se entreguen se encuentren a nombre de perso
 
 (Decreto 1910 de 2009, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.15.1.4 — Bienes distintos a sumas de Dinero de los intervenidos
 
 El Agente Interventor elaborara un inventario valorado de los bienes distintos a sumas de dinero, afectos a las devoluciones, el cuál será aprobado por la Superintendencia de Sociedades. Para la presentación y aprobación del inventario valorado de los bienes distintos a sumas de dinero, en los procesos de toma de posesión para devolver, se aplicará en lo pertinente, lo dispuesto para el proceso de liquidación judicial de la Ley 1116 de 2006 y sus disposiciones reglamentarias, de acuerdo con lo dispuesto por el artículo 15 del Decreto 4334 de 2008.
@@ -14215,8 +12541,6 @@ El Agente Interventor elaborara un inventario valorado de los bienes distintos a
 PARÁGRAFO 1. El término para la presentación del inventario valorado de que trata este artículo, será hasta de quince (15) días hábiles siguientes a la fecha en que quede en firme la providencia que contiene las solicitudes de devolución aceptadas a que se refiere el literal d) del artículo 10 del Decreto 4334 de 2008.
 
 (Decreto 1910 de 2009, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.15.1.5 — Actos de Conservación de los bienes
 
@@ -14228,23 +12552,17 @@ PARÁGRAFO. En desarrollo de las facultades de representación legal o de admini
 
 (Decreto 1910 de 2009, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.15.1.6 — Terminación de contratos
 
 En ejercicio de las facultades otorgadas al Agente Interventor, en especial la establecida en el numeral 12 del artículo 9 del Decreto 4334 de 2008, este podrá terminar, entre otros, los contratos de trabajo, sin desmedro del derecho a las indemnizaciones a favor de los trabajadores, de conformidad con lo establecido en el Código Sustantivo del Trabajo, para lo cuál, en aplicación de lo dispuesto en el numeral 5 del artículo 50 de la Ley 1116 de 2006, no se requerirá autorización administrativa o judicial alguna, quedando dichos derechos cómo acreencias sujetas a las reglas del concurso liquidatorio.
 
 (Decreto 1910 de 2009, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.15.1.7 — Providencia que ordena la ejecución
 
 Una vez resueltos los recursos de que trata el literal F del artículo 10 del Decreto 4334 de 2008, el Agente Interventor mediante providencia judicial apruebe y autorice la ejecución de los pagos de las devoluciones aceptadas por el Agente Interventor.
 
 (Decreto 1910 de 2009, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.15.1.8 — Rendición de Cuentas del Agente Interventor
 
@@ -14256,8 +12574,6 @@ Del proceso de liquidación judicial conocera la Superintendencia de Sociedades,
 
 (Decreto 1910 de 2009, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.15.1.9 — Finalidad de la Liquidación Judicial cómo medida de intervención
 
 El proceso de liquidación judicial, cómo medida de intervención, persigue la liquidación pronta y ordenada del patrimonio del intervenido, mediante la enajenación o adjudicación de los bienes y su aplicación, en primera medida, a las devoluciones aceptadas insolutas, hasta concurrencia del valor de las mismas.
@@ -14268,8 +12584,6 @@ PARÁGRAFO. Podra ser designado por el Superintendente de Sociedades, cómo liqu
 
 (Decreto 1910 de 2009, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.15.1.10 — .10
 
 Las autoridades registrales deberán garantizar la efectividad de las medidas adoptadas en el marco del Decreto Ley 4334 de 2008, sobre los sujetos, operaciones y negocios, para lo cuál deberán crear códigos registrales que garanticen el registro de las decisiones administrativas y judiciales, tales cómo "medida cautelar sobre negocios y operaciones objeto de intervención" y "Transferencia de Dominio para la integración de la Masa de Intervención", o las que se consideren adecuadas y necesarias al efecto.
@@ -14279,8 +12593,6 @@ Las autoridades registrales deberán garantizar la efectividad de las medidas ad
 SECCIÓN 2
 
 PUBLICIDAD ADICIONAL PARA GARANTIZAR MAYOR NÚMERO DE RECLAMACIONES
-
-ARTÍCULO
 
 ## art:2.2.2.15.2.1 — Garantía para recibir mayor número de reclamaciones
 
@@ -14293,8 +12605,6 @@ En virtud de lo anterior, el término a que se refiere el literal b) del artícu
 SECCIÓN 3
 
 PLANES DE DESMONTE VOLUNTARIOS
-
-ARTÍCULO
 
 ## art:2.2.2.15.3.1 — Planes de Desmonte Voluntarios
 
@@ -14332,8 +12642,6 @@ SECCIÓN 4
 
 REVOCATORIA Y RECONOCIMIENTO DE INEFICACIA
 
-ARTÍCULO
-
 ## art:2.2.2.15.4.1 — Acción Revocatoria y Reconocimiento de los Presupuestos de Ineficacia
 
 Las acciones revocatorias y de reconocimiento de los presupuestos de ineficacia, se tramitarán de conformidad con lo establecido en los artículos 74, 75 y 76 de la Ley 1116 de 2006 y procederán durante el trámite del proceso de toma de posesión para devolver o de liquidación judicial. La acción revocatoria como medida de intervención, podrá también interponerse por el Agente Interventor o por cualquier reclamante del proceso de toma de posesión para devolver.
@@ -14350,15 +12658,11 @@ SECCIÓN 5
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.2.15.5.1 — Normas de aplicación en el tiempo de las reglas de procedimiento
 
 Lo dispuesto en el presente capítulo se aplicará a los procesos en curso, sin perjuicio de que los recursos interpuestos y los términos que hubiesen comenzado a correr, se rijan por la ley vigente cuando se interpuso el recurso, o empezó a correr el término.
 
 (Decreto 1910 de 2009, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.15.5.2 — Mecanismos de Cooperación y Coordinación Judicial
 
@@ -14369,8 +12673,6 @@ La Superintendencia de Sociedades podrá hacer uso de los mecanismos de cooperac
 CAPÍTULO 16
 
 DESIGNACIÓN DE AGENTE LÍDER DE INTERVENTORES PARA LOS CASOS QUE EL SUPERINTENDENTE DE SOCIEDADES LO CONSIDERE NECESARIO
-
-ARTÍCULO
 
 ## art:2.2.2.16.1 — Designación de Agente Liíder
 
@@ -14402,15 +12704,11 @@ SECCIÓN 1
 
 NORMAS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.17.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la Ley 1673 de 2013.
 
 (Decreto 556 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.17.1.2 — Ámbito de aplicación
 
@@ -14421,8 +12719,6 @@ Además, aplica a las Entidades de Autorregulación de la actividad de valuació
 PARÁGRAFO. No están comprendidas dentro del ámbito de aplicación del presente capítulo las actividades que realizan los proveedores de precios para valoración en los términos establecidos en el Libro 16 de la Parte 2 del Decreto 2555 de 2010 y demás normas que lo reglamenten, modifiquen o sustituyan. Tampoco lo están las "firmas especializadas"
 
 (Decreto 556 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.17.1.3 — Definiciones
 
@@ -14444,8 +12740,6 @@ SECCIÓN 2
 
 DE LA ACTIVIDAD DE VALUACION
 
-ARTÍCULO
-
 ## art:2.2.2.17.2.1 — Actividades del avaluador contempladas en el literal i) del articulo4 de la Ley 1673 de 2013
 
 De conformidad con lo señalado en el literal i) del artículo 4 de la Ley 1673 de 2013, a partir del 1 de febrero del año 2016, se considerarán actividades propias del avaluador la rendición de avaluas respecto de:
@@ -14457,8 +12751,6 @@ De conformidad con lo señalado en el literal i) del artículo 4 de la Ley 1673 
 3. Intangibles especiales.
 
 (Decreto 556 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.17.2.2 — Categorias en las que los avaluadores pueden inscribirse en el Registro Abierto de Avaluadores
 
@@ -14554,8 +12846,6 @@ PARÁGRAFO. La Superintendencia de Industria y Comercio actualizará cuando sea 
 
 (Decreto 556 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.17.2.3 — Certificados academicos
 
 La formación academica de los avaluadores de que trata el literal a) del artículo 6 de la Ley 1673 de 2013, se acreditara con el título y/o la certificación de aptitud ocupacional del respectivo programa académico debidamente reconocido por autoridad competente y con el correspondiente certificado de las asignaturas cursadas y aprobadas.
@@ -14563,8 +12853,6 @@ La formación academica de los avaluadores de que trata el literal a) del artíc
 Las Entidades Reconocidas de Autorregulación (ERA) tendrán en cuenta las certificaciones de asignaturas que allegue el interesado en ser inscrito como avaluador, expedidas por instituciones de educación superior y/o las instituciones de educación para el trabajo y desarrollo humano, debidamente reconocidas de acuerdo con las leyes vigentes.
 
 (Decreto 556 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.17.2.4 — Régimen de transición
 
@@ -14586,23 +12874,17 @@ El plazo de que trata este parágrafo se extenderá hasta el 1 de enero de 2017"
 
 (Decreto 556 de 2014, art 7; parágrafo segundo modificado por el Decreto 458 de 2016, art 1)
 
-ARTÍCULO
-
 ## art:2.2.2.17.2.5 — Disposiciones aplicables en materia de educación para el trabajo y el desarrollo humano
 
 Además de las disposiciones establecidas en el presente capítulo, las instituciones de educación para el trabajo y el desarrollo humano que deseen expedir certificaciones de aptitud ocupacional para avaluadores, deberán cumplir con las normas aplicables a este tipo de instituciones, en especial las establecidas en las Leyes 115 de 1994 y 1064 de 2006 y los Decretos 2020 de 2006 y 4904 de 2009 o las que las sustituyan o modifiquen.
 
 (Decreto 556 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.17.2.6 — Requisitos para la expedición de las certificaciones de aptitud ocupacional
 
 Las instituciones oferentes de educación para el trabajo y el desarrollo humano que deseen expedir certificaciones de aptitud ocupacional para avaluadores, deberán cumplir con los requisitos de formación para una ocupación laboral y un número de horas mínimas de estudio y prácticas requeridas, no menor a setecientas (700) horas.
 
 (Decreto 556 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.17.2.7 — Inhabilidades, incompatibilidades e impedimentos
 
@@ -14614,8 +12896,6 @@ Cuando el avaluador participe en contratos o licitaciones con el Estado, además
 
 (Decreto 556 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.17.2.8 — Inscripción de personas habilitadas por ley anterior
 
 En el caso de los arquitectos titulados, los requisitos establecidos en el literal a) del artículo 6 de la Ley 1673 de 2013 podrán ser demostrados de acuerdo con los alcances contemplados en la Ley 435 de 1998, previa la presentación del título profesional respectivo o de copia de la tarjeta de matrícula profesional de arquitecto.
@@ -14623,8 +12903,6 @@ En el caso de los arquitectos titulados, los requisitos establecidos en el liter
 PARÁGRAFO. En todo caso, al final del período establecido en el artículo 23 de la Ley 1673 de 2013, los arquitectos que realicen actividades de valuación cubiertas por la Ley 435 de 1998, deberán quedar bajo tutela de una Entidad Reconocida de Autorregulación, mediante inscripción al Registro Abierto de Avaluadores.
 
 (Decreto 556 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.17.2.9 — Funcionarios públicos avaluadores
 
@@ -14638,8 +12916,6 @@ SECCIÓN 3
 
 DEL REGISTRO ABIERTO DE AVALUADORES
 
-ARTÍCULO
-
 ## art:2.2.2.17.3.1 — De la función de llevar el Registro Abierto de Avaluadores
 
 Una Entidad Reconocida de Autorregulación (ERA) podrá optar por desarrollar las funciones básicas de la autorregulación o podrá, en adición a ellas, solicitar el reconocimiento de la función de llevar el Registro Abierto de Avaluadores (RAA), con las obligaciones y cargas que ello implica, de conformidad con lo establecido en el presente decreto.
@@ -14649,6 +12925,26 @@ La función de llevar el Registro Abierto de Avaluadores (RAA) comprende, dentro
 PARÁGRAFO. La Superintendencia de Industria y Comercio reconocerá y autorizara a las Entidades Reconocidas de Autorregulación que opten por no llevar el Registro Abierto de Avaluadores (RAA), una vez se encuentre reconocida y autorizada para operar la Entidad Reconocida de Autorregulación que haya decidido llevarlo en los términos establecidos en los siguientes artículos
 
 (Modificado por el Art. 1 del Decreto 200 de 2020)
+
+## art:2.2.2.17.3.2 — Del Registro Abierto de Avaluadores
+
+La base de datos unica en que se lleve el Registro Abierto de Avaluadores (RAA), será operada por una persona jurídica creada o contratada por las Entidades Reconocidas de Autorregulación (ERA) que hayan sido reconocidas y autorizadas para llevar el Registro Abierto de Avaluadores (RAA).
+
+Las Entidades Reconocidas de Autorregulación (ERA) serán las encargadas de alimentar la base de datos de que trata el presente artículo, remitiendo información de los avaluadores que pertenezcan a su Entidad.
+
+La alimentación continúa de la base de datos será asumida por la Entidad o Entidades Reconocidas de Autorregulación (ERA) que reporten a esta, en proporción con el número de avaluadores que cada una de ellas tenga inscritos.
+
+La Superintendencia de Industria y Comercio instruirá al operador de la base de datos y a las Entidades Reconocidas de Autorregulación (ERA), acerca de la forma en que deberá operar y alimentarse la base datos, el contenido de los certificados, así cómo de los requisitos para su interconectividad para la transmisión de toda la información relacionada con los avaluadores inscritos de cada Entidad.
+
+PARÁGRAFO 1. Una vez reconocidas y autorizadas las Entidades Reconocidas de Autorregulación (ERA) que hayan creado o contratado a la persona jurídica que opera la base de datos de que trata este artículo, las siguientes Entidades Reconocidas de Autorregulación que se autoricen tendrán derecho a acceder al órgano o comité de gestión y coordinación técnica entre el operador de la base de datos y las Entidades Reconocidas de Autorregulación. Las decisiones en dicho órgano o comité se tomarán considerando la proporción de cada Entidad de acuerdo con el número de avaluadores que cada una de ellas tenga inscritos en la base de datos.
+
+La conformación del órgano o comité estará a cargo de las entidades reconocidas de Autorregulación (ERA) reconocidas y autorizadas por la Superintendencia de Industria y Comercio.
+
+La Superintendencia de Industria y Comercio, observando el procedimiento establecido por esta Autoridad para este efecto, instruirá sobre la implementación y operación de la plataforma cuando el reconocimiento y la autorización de las Entidades Reconocidas de Autorregulación (ERA) que hayan optado por llevar el Registro Abierto de Avaluadores (RAA) sea suspendido, revocado o terminado de manera que se garantice la continuidad del funcionamiento y operación del Registro Abierto de Avaluadores (RAA) para el adecuado ejercicio de las funciones de autorregulación en beneficio de los consumidores, de los avaluadores y del mercado en general.
+
+PARÁGRAFO 2. No será obligatoria la creación o contratación del operador de la base de datos, mientras exista una sola Entidad Reconocida de Autorregulación (ERA) y esta lleve los registros de no más de dos mil (2.000) avaluadores inscritos
+
+(Modificado por el Art. 2 del Decreto 200 de 2020)
 
 ## art:2.2.2.17.3.3 — Obtención de certificados
 
@@ -14660,8 +12956,6 @@ Las demás entidades públicas y privadas podrán celebrar acuerdos con el opera
 
 (Decreto 556 de 2014, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.17.3.4 — De la Inscripción ante el Registro Abierto de Avaluadores
 
 Los avaluadores deberán efectuar la inscripción en el Registro Abierto de Avaluadores (RAA) por intermedio de la Entidad Reconocida de Autorregulación (ERA) a la que han escogido pertenecer y quedar bajo su tutela disciplinaria.
@@ -14669,8 +12963,6 @@ Los avaluadores deberán efectuar la inscripción en el Registro Abierto de Aval
 La correspondiente Entidad tendrá la obligación de inscribir, conservar, actualizar y reportar la información de sus avaluadores al operador del Registro Abierto de Avaluadores (RAA).
 
 (Decreto 556 de 2014, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.17.3.5 — Prueba de la inscripción y validez en el Registro Abierto de Avaluadores
 
@@ -14681,8 +12973,6 @@ En el certificado de que trata este artículo se anotarán también los registro
 En materia disciplinaria, el certificado indicará exclusivamente las sanciones que se encuentren en firme contra el avaluador. En ningún caso se mantendrá el reporte negativo si la sanción es levantada o si el término de la misma ha vencido.
 
 (Decreto 556 de 2014, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.17.3.6 — Cancelación de la inscripción en el Registro Abierto de Avaluadores
 
@@ -14702,23 +12992,17 @@ SECCIÓN 4
 
 DE LA AUTORREGULACION DE LOS AVALUADORES
 
-ARTÍCULO
-
 ## art:2.2.2.17.4.1 — De la autorregulación de la actividad de valuación por personas naturales
 
 La autorregulación de la actividad del avaluador no conlleva la delegación de funciones públicas pues se trata de un sistema complementario de naturaleza privada que contribuye con la prevención de los riesgos sociales a que se refiere el artículo 1 de la Ley 1673 de 2013.
 
 (Decreto 556 de 2014, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.2.17.4.2 — De la obligación de autorregulación
 
 Por obligación de autorregulación se entiende el deber de un avaluador de sujetarse a la regulación, vigilancia y control disciplinario de una Entidad Reconocida de Autorregulación (ERA) y, por ende, quedar bajo su tutela disciplinaria y cumplir con las sanciones disciplinarias que se le impongan.
 
 (Decreto 556 de 2014, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.2.17.4.3 — De las funciones básicas de autorregulación
 
@@ -14730,23 +13014,17 @@ PARÁGRAFO 2. La Superintendencia de Industria y Comercio establecerá las condi
 
 (Decreto 556 de 2014, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.17.4.4 — Coordinación de las funciones de autorregulación entre Entidades Reconocidas de Autorregulación
 
 Para el ejercicio de las funciones de coordinación establecidas en el artículo 27 de la Ley 1673 de 2013, dos o más Entidades Reconocidas de Autorregulación (ERA) podrán por iniciativa propia o a instancias de la Superintendencia de Industria y Comercio, establecer grupos de trabajo o una confederación de entidades de autorregulación para el desarrollo común de las funciones de autorregulación establecidas en el artículo 24 la misma ley.
 
 (Decreto 556 de 2014, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.2.17.4.5 — Violación de la obligación de autorregulación
 
 De conformidad con lo establecido en el artículo 19 de la Ley 1673 de 2013, se considera falta disciplinaria la violación de la obligación de autorregulación.
 
 (Decreto 556 de 2014, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.2.17.4.6 — Cuota de mantenimiento a la entidad reconocida de autorregulación
 
@@ -14762,8 +13040,6 @@ PARÁGRAFO 2. La Superintendencia de Industria y Comercio vigilara el cumplimien
 
 (Decreto 556 de 2014, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.17.4.7 — Del traslado entre Entidades Reconocidas de Autorregulación
 
 La Superintendencia de Industria y Comercio determinará los términos, condiciones y plazos para que un avaluador pueda cambiar de Entidad Reconocida de Autorregulación.
@@ -14773,8 +13049,6 @@ No se permitirá el cambio de Entidad mientras se encuentre en curso investigaci
 La Superintendencia de Industria y Comercio podrá, de manera general, suspender la inscripción o el traslado de avaluadores a una Entidad Reconocida de Autorregulación, mientras dicha Entidad mantenga deficiencias que afecten las condiciones mínimas establecidas para el normal desarrollo de las funciones básicas de la autorregulación.
 
 (Decreto 556 de 2014, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.17.4.8 — Notificación de sanciones a la Superintendencia de Industria y Comercio
 
@@ -14790,8 +13064,6 @@ SECCIÓN 5
 
 DEL RECONOCIMIENTO DE LAS ENTIDADES RECONOCIDAS DE AUTORREGULACION (ERA)
 
-ARTÍCULO
-
 ## art:2.2.2.17.5.1 — Del reconocimiento de las Entidades Reconocidas de Autorregulación
 
 La Superintendencia de Industria y Comercio autorizara cómo Entidad Reconocida de Autorregulación para el desarrollo de las funciones establecidas en el artículo 24 de la ley, a las entidades gremiales de avaluadores, sin ánimo de lucro, que cumplan con los requisitos establecidos en la ley, de acuerdo con lo señalado en el presente capítulo.
@@ -14799,8 +13071,6 @@ La Superintendencia de Industria y Comercio autorizara cómo Entidad Reconocida 
 Se considerará información o publicidad engañosa cuando una entidad se anuncie, informe o de a creer al público o los avaluadores que es una Entidad Reconocida de Autorregulación sin contar con la respectiva autorización de la Superintendencia de Industria y Comercio. En este caso, además de la multa, la Superintendencia impondrá la sanción de cierre temporal o definitivo del establecimiento y se emitira orden perentoria de corrección de la información engañosa.
 
 (Decreto 556 de 2014, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.17.5.2 — Requisitos para el reconocimiento de las Entidades Reconocidas de Autorregulación
 
@@ -14862,8 +13132,6 @@ PARÁGRAFO. En desarrollo de lo establecido en el parágrafo 1 del artículo 24 
 
 (Decreto 556 de 2014, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.17.5.3 — Condición de una Entidad Reconocida de Autorregulación para operar
 
 Una vez reconocida, la Entidad de Autorregulación no podrá operar hasta que reciba de la Superintendencia de Industria y Comercio autorización de operación.
@@ -14882,15 +13150,11 @@ PARÁGRAFO. En el caso del parágrafo segundo del artículo 2. 2.2.17.3.2., del 
 
 (Decreto 556 de 2014, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.2.17.5.4 — Procedimiento para el reconocimiento de las Entidades Reconocidas de Autorregulación
 
 Para el reconocimiento y autorización de operación de las Entidades Reconocidas de Autorregulación (ERA), la Superintendencia de Industria y Comercio aplicará el procedimiento establecido en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 556 del 14 de marzo de 2014, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.2.17.5.5 — Conformación del órgano de dirección de la Entidad Reconocida de Autorregulación
 
@@ -14898,15 +13162,11 @@ El número de miembros del órgano directivo de la Entidad Reconocida de Autorre
 
 (Decreto 556 de 2014, art. 31. )
 
-ARTÍCULO
-
 ## art:2.2.2.17.5.6 — Representantes del Gobierno en las Entidades Reconocidas de Autorregulación
 
 El número de los miembros del órgano directivo de cada ERA no podrá ser inferior a tres (3). Una tercera parte de los miembros del órgano directivo será designada por el Gobierno Nacional.
 
 (Decreto 556 de 2014, art. 32. )
-
-ARTÍCULO
 
 ## art:2.2.2.17.5.7 — Calidades de los Delegados del Gobierno
 
@@ -14925,8 +13185,6 @@ El Gobierno podrá nombrar a profesionales y avaluadores, quienes harán parte d
 6. No tener antecedentes disciplinarios como funcionario público en su profesión o cómo avaluador o del gremio del que forma o ha formado parte.
 
 (Decreto 556 de 2014, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.2.17.5.8 — De los miembros del órgano disciplinario
 
@@ -14950,15 +13208,11 @@ En el reglamento de las Entidades Reconocidas de Autorregulación (ERA) se estab
 
 (Decreto 556 de 2014, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.2.17.5.9 — Reportes consolidados
 
 Para el ejercicio de las funciones de inspección, vigilancia y control, la Superintendencia de Industria y Comercio podrá establecer frente a las entidades que vigila y controla de conformidad con la Ley 1673 de 2013, reportes consolidados y periódicos.
 
 (Decreto 556 de 2014, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.2.17.5.10 — Suspensión y terminación del reconocimiento
 
@@ -14976,8 +13230,6 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.2.17.6.1 — Atribuciones legales de la Superintendencia de Industria y Comercio
 
 El Superintendente de Industria y Comercio mediante acto administrativo determinará la dependencia o dependencias dentro de su entidad que se encargarán de adelantar las atribuciones que la ley le señala a dicha entidad.
@@ -14988,15 +13240,11 @@ CAPÍTULO 18
 
 PREMIO NACIONAL AL INVENTOR COLOMBIANO
 
-ARTÍCULO
-
 ## art:2.2.2.18.1 — Premio Nacional al Inventor Colombiano
 
 Cómo estímulo a la actividad creadora e innovadora en favor del desarrollo Industrial y tecnológico del país.
 
 (Decreto 1766 de 1983, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.18.2 — A quienes se otorga el Premio Nacional al Inventor Colombiano
 
@@ -15004,15 +13252,11 @@ Se otorgará a los ciudadanos colombianos, sociedades comerciales o entidades p�
 
 (Decreto 1766 de 1983, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.18.3 — Cuando se confiere el premio
 
 El Premio Nacional al Inventor Colombiano será conferido anualmente por el Gobierno Nacional y consistira en una medalla circular de plata, de cuatro centimetros de diametro, que pendera de una cinta con los colores nacionales de cinco centimetros de largo por tres de ancho.
 
 (Decreto 1766 de 1983, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.18.4 — Diseño de la medalla
 
@@ -15036,8 +13280,6 @@ A su vez la medalla será dividida en seis secciones donde estarán representado
 
 (Decreto 1766 de 1983, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.18.5 — Adjudicación del Premio Nacional al Inventor Colombiano
 
 Se hará mediante decreto y será certificada con diploma que llevará en la parte superior el Escudo de Colombia y la inscripción República de Colombia Ministerio de Comercio Industria y Turismo. El texto del diploma será el siguiente:
@@ -15046,23 +13288,17 @@ Gobierno de la República de Colombia, con fecha (...) otorga el Premio Nacional
 
 (Decreto 1766 de 1983, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.18.6 — Selección de la persona o personas o entidades que por sus méritos se haga acreedora a la distinción
 
 Sera hecha por una junta que se integrara por el Director del Departamento Nacional de Planeación, El Superintendente de Industria y Comercio y el Director del Colciencias, quienes lo presentarán al Señor Presidente de la República con la documentación que haya servido de fundamento para dicha candidatura.
 
 (Decreto 1766 de 1983, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.18.7 — Entrega del premio
 
 Se hará en ceremonia especial ante Representantes de las altas autoridades y representantes de los industriales y comerciantes del país.
 
 (Decreto 1766 de 1983, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.18.8 — Requisitos que debe cumplir el candidato
 
@@ -15078,8 +13314,6 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.19.1.1 — Prórrogas
 
 Las prórrogas o plazos adicionales contenidos en los artículos 39, 42, 43, 45, 120, 122, 123, 146 y 148 de la Decisión 486 deberán solicitarse antes del vencimiento del término que se desea prorrogar, allegando el comprobante de pago de la tasa respectiva.
@@ -15088,15 +13322,11 @@ Dichas prórrogas o plazos se entenderán concedidos automáticamente por el pla
 
 (Decreto 2591 de 2000, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.19.1.2 — Inscripción de actos
 
 La inscripción de actos, tales cómo cesiones, transferencias, cambios de nombre y de domicilio, entre otros, relacionados con los derechos de propiedad industrial que deba hacerse en el registro que lleva la Superintendencia de Industria y Comercio, seguirá el trámite y cumplirá los requisitos que para ello disponga la Entidad, la cuál, a fin de facilitarla, diseñara un formulario único para todo tipo de inscripciones.
 
 (Decreto 2591 de 2000, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.19.1.3 — Pérdida de prioridad
 
@@ -15104,15 +13334,11 @@ Para los efectos previstos en el artículo 11 de la Decisión 486, la Superinten
 
 (Decreto 2591 de 2000, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.19.1.4 — Oposiciones
 
 Al momento de hacer uso de la prerrogativa contemplada en los artículos 42, 95, 122, 146 y 147 de la Decisión 486, el opositor deberá, necesariamente, aportar las pruebas que tenga en su poder al momento de presentar la oposición.
 
 (Decreto 2591 de 2000, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.19.1.5 — Procedimientos no reglados
 
@@ -15124,15 +13350,11 @@ SECCIÓN 2
 
 PATENTES DE INVENCION
 
-ARTÍCULO
-
 ## art:2.2.2.19.2.1 — Nombre de la invención
 
 El nombre de la invención de que se trata en el artículo 27 literal d) de la Decisión 486 deberá reflejar el objeto y el campo industrial con el cuál se relaciona la misma y ser concordante con la materia descrita y las reivindicaciones de la solicitud. El nombre no podrá referirse a nombres personales, marcas de productos o nombres de fantasia.
 
 (Decreto 2591 de 2000, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.19.2.2 — Oportunidad de conversión y división
 
@@ -15140,23 +13362,17 @@ Las facultades previstas en el inciso 3., del artículo 35 y en el inciso 2., de
 
 (Decreto 2591 de 2000, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.19.2.3 — Tasas
 
 Las conversiones, modificaciones o divisiones causarán cobro de tasa adicional independientemente del motivo que hubiera tenido el solicitante para proceder a pedir la alteración.
 
 (Decreto 2591 de 2000, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.19.2.4 — Consulta de la solicitud
 
 La fecha a partir de la cuál transcurrira el término para la consulta de la solicitud de patente por parte de terceros de que trata el artículo 41 de la Decisión 486, se entenderá en concordancia con el artículo 40 de la misma, teniendo en cuenta que el término de los 18 meses se contara desde la fecha de la solicitud presentada o desde la fecha de la prioridad si esta hubiese sido invocada.
 
 (Decreto 2591 de 2000, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.19.2.5 — Notificaciones
 
@@ -15168,8 +13384,6 @@ SECCIÓN 3
 
 DE LOS MODELOS DE UTILIDAD Y DE LOS ESQUEMAS DE TRAZADO DE LOS CIRCUITOS INTEGRADOS
 
-ARTÍCULO
-
 ## art:2.2.2.19.3.1 — Solicitudes
 
 A las solicitudes de patente de modelo de utilidad y de los esquemas de trazado de los circuitos integrados, así cómo a los demás trámites relacionados con ellas, les serán aplicables las disposiciones del presente capítulo en materia de patentes de invención.
@@ -15180,15 +13394,11 @@ SECCIÓN 4
 
 DE LOS DISEÑOS INDUSTRIALES
 
-ARTÍCULO
-
 ## art:2.2.2.19.4.1 — Solicitud
 
 Cada Solicitud de registro deberá referirse solamente a un diseño industrial. De ser requerida la división de la solicitud de registro de diseño industrial, se aplicará lo dispuesto en el artículo 36 de la Decisión 486 y en el artículo 2.2.2.19.2.2., del presente Decreto.
 
 (Decreto 2591 de 2000, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.19.4.2 — Consulta de la solicitud
 
@@ -15200,15 +13410,11 @@ SECCIÓN 5
 
 DE LAS MARCAS
 
-ARTÍCULO
-
 ## art:2.2.2.19.5.1 — Prioridad
 
 Cuando de conformidad con lo previsto en el artículo 9. de la Decisión 486, se pretenda reivindicar prioridad, la Superintendencia de Industria y Comercio comprobará que los elementos relativos al alcance y la titularidad de la certificación aportada para acreditar tal derecho y los que figurán en la solicitud, sean coincidentes, en la forma prevista en el artículo 4, del Convenio de Paris para la Protección de la Propiedad Industrial.
 
 (Decreto 2591 de 2000, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.2.19.5.2 — Renovación del Registro
 
@@ -15222,15 +13428,11 @@ SECCIÓN 6
 
 DEL NOMBRE Y LA ENSEÑA COMERCIAL
 
-ARTÍCULO
-
 ## art:2.2.2.19.6.1 — Nombre Comercial
 
 De la manera permitida en el artículo 193 de la Decisión 486 y prevista en el Código de Comercio, el depósito del nombre comercial tiene carácter declarativo respecto de la fecha a partir de la cual se inicia el uso del nombre y la fecha desde la cuál ese uso es conocido por terceros, sin perjuicio de lo establecido en el artículo 191 de la Decisión 486.
 
 (Decreto 2591 de 2000, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.19.6.2 — Enseña Comercial
 
@@ -15242,15 +13444,11 @@ SECCIÓN 7
 
 COMPETENCIA DESLEAL
 
-ARTÍCULO
-
 ## art:2.2.2.19.7.1 — Aplicación del Régimen de Competencia Desleal
 
 Las conductas de competencia desleal previstas en el título XVI de la Decisión 486 se aplicarán en consonancia con lo dispuesto en la Ley 256 de 1996.
 
 (Decreto 2591 de 2000, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.19.7.2 — Acciones por Competencia Desleal
 
@@ -15264,8 +13462,6 @@ SECCIÓN 8
 
 DISPOSICIONES COMPLEMENTARIAS
 
-ARTÍCULO
-
 ## art:2.2.2.19.8.1 — Publicación de la Gaceta
 
 La Superintendencia de Industria y Comercio publicará en la Gaceta de la Propiedad Industrial un extracto de las solicitudes de patente o registro relativas a la Propiedad Industrial previstas en la Decisión 486 y en la presente sección, así mismo los títulos concedidos y las inscripciones correspondientes al registro de Propiedad Industrial y las sentencias sobre acciones de nulidad proferidas por el Consejo de Estado.
@@ -15275,8 +13471,6 @@ La Superintendencia de Industria y Comercio publicará en la Gaceta de la Propie
 CAPÍTULO 20
 
 REGLAMENTACIÓN PARCIAL DE LAS DECISIONES 486 Y 689 DE LA COMISIÓN DE LA COMUNIDAD ANDINA
-
-ARTÍCULO
 
 ## art:2.2.2.20.1 — Divulgación de la invención
 
@@ -15292,8 +13486,6 @@ PARÁGRAFO 2. La Superintendencia de Industria y Comercio podrá instruir la for
 
 (Decreto 729 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.20.2 — Subsanación de omisiones
 
 Con independencia de la posibilidad de presentar modificaciones que no amplíen el objeto inicialmente solicitado conforme a lo previsto en el artículo 34 de la Decisión 486, la solicitud podrá ser subsanada para incorporar la materia omitida que ya fue informada dentro del trámite de una solicitud prioritaria.
@@ -15308,8 +13500,6 @@ No podrá introducirse nuevamente la materia omitida durante los plazos de reque
 
 (Decreto 729 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.20.3 — Excepción al derecho conferido por la patente
 
 Además de los actos previstos en el artículo 53 de la Decisión Andina 486, el titular no podrá ejercer el derecho que le confiere la patente, respecto de los actos realizados con el fin de generar la información necesaria para presentar una solicitud de aprobación requerida, para que un producto entre al mercado una vez expire la patente. En tal sentido, los terceros estarán facultados para fabricar, utilizar, vender, ofrecer en venta o importar cualquier objeto de la invención patentada exclusivamente para el fin antes mencionado.
@@ -15317,8 +13507,6 @@ Además de los actos previstos en el artículo 53 de la Decisión Andina 486, el
 PARÁGRAFO. Si un producto es fabricado, utilizado, vendido, ofrecido en venta o importado bajo la excepción del parrafo anterior, sólo podrá ser exportado con el propósito de cumplir los requisitos de aprobación en Colombia.
 
 (Decreto 729 de 2012, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.20.4 — Inscripción de afectaciones
 
@@ -15330,15 +13518,11 @@ La Superintendencia de Industria y Comercio podrá instruir sobre los requisitos
 
 (Decreto 729 de 2012, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.20.5 — Licencias de uso de marcas
 
 El registro de los contratos de licencia de marca será opcional. En consecuencia, la ausencia de dicho registro no afectara la validez u oponibilidad de tales contratos.
 
 (Decreto 729 de 2012, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.20.6 — Denominaciones de origen
 
@@ -15350,8 +13534,6 @@ CAPÍTULO 21
 
 INDEMNIZACION PRESTABLECIDA POR INFRACCION A LOS DERECHOS DE PROPIEDAD MARCARIA
 
-ARTÍCULO
-
 ## art:2.2.2.21.1 — Indemnización preestablecida en procesos civiles de infracción marcaria
 
 En virtud de lo establecido por el artículo 3 de la Ley 1648 de 2013 la indemnización que se cause cómo consecuencia de la declaración judicial de infracción marcaria podrá sujetarse al sistema de indemnizaciones preestablecidas o a las reglas generales sobre prueba de la indemnización de perjuicios, a elección del demandante.
@@ -15359,8 +13541,6 @@ En virtud de lo establecido por el artículo 3 de la Ley 1648 de 2013 la indemni
 Para los efectos del presente capítulo, se entenderá que, si el demandante al momento de la presentación de la demanda opta por el sistema de indemnización preestablecida, no tendrá que probar la cuantía de los daños y perjuicios causados por la infracción, tal cómo lo establece el artículo 243 de la Decisión Andina 486 y, por lo tanto, sujeta la tasación de sus perjuicios a la determinación por parte del Juez de un monto que se fija de conformidad con la presente reglamentación.
 
 (Decreto 2264 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.21.2 — Cuantía de la indemnización preestablecida
 
@@ -15375,8 +13555,6 @@ PARÁGRAFO. Para cada caso particular el juez ponderara y declarara en la senten
 CAPÍTULO 22
 
 COMPENSACION DEL PLAZO DE DURACIÓN DE LA PATENTE MEDIANTE RESTAURACION
-
-ARTÍCULO
 
 ## art:2.2.2.22.1 — Compensación del plazo de duración de la patente mediante restauración
 
@@ -15394,15 +13572,11 @@ La restauración no exceptuara del pago de las tasas de mantenimiento a que haya
 
 (Decreto 1873 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.22.2 — Términos para determinarla compensación por retrasos
 
 Un retraso irrazonable incluye un retraso en la emisión de la patente de más de cinco años, contados a partir de la fecha de presentación de la solicitud, o de tres años, contados a partir de la fecha en que se haya pedido el examen de la solicitud, el que resulte posterior, siempre y cuando los períodos atribuibles a las acciones del solicitante de la patente no estén incluidos en la determinación de dichos retrasos.
 
 (Decreto 1873 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.22.3 — Procedimiento para la aplicación del plazo por restauración
 
@@ -15414,8 +13588,6 @@ La decisión de restauración del plazo de duración de la patente será proferi
 
 (Decreto 1873 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.22.4 — Término de suspensión del articulo47 de la Decisión Andina 486
 
 Para los efectos del procedimiento de patentes, el plazo descrito por el artículo 47 de la Decisión Andina 486 no será superior a 2 meses, contados a partir de la petición de suspensión.
@@ -15425,8 +13597,6 @@ Para los efectos del procedimiento de patentes, el plazo descrito por el artícu
 CAPÍTULO 23
 
 AUTORIZACIONES DE USO Y MODIFICACIONES AL REGLAMENTO DE USO DE DENOMINACIONES DE ORIGEN
-
-ARTÍCULO
 
 ## art:2.2.2.23.1 — Facultad de uso de las Denominaciones de Origen
 
@@ -15438,15 +13608,11 @@ CAPÍTULO 24
 
 PROCEDIMIENTO PARA LA DECLARATORIA DE EXISTENCIA DE RAZONES DE INTERÉS PÚBLICO DEL ARTÍCULO 65 DE LA DECISIÓN 486 DE 2000
 
-ARTÍCULO
-
 ## art:2.2.2.24.1 — Objeto
 
 El presente capítulo tiene por objeto establecer la competencia y el procedimiento para el trámite de declaratoria de la existencia de razones de interés público, a que refiere el artículo 65 de la Decisión 486 de la Comisión de la Comunidad Andina.
 
 (Decreto 4302 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.24.2 — Definiciones
 
@@ -15458,15 +13624,11 @@ Declaratoria de Existencia de Razones de Interés Publico: Acto administrativo m
 
 (Decreto 4302 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.24.3 — Solicitud
 
 Las personas naturales o jurídicas interesadas en que se declare la existencia de razones de interés público con el propósito de que se otorgue una licencia obligatoria sobre productos objeto de patente o por el uso integral del procedimiento patentado, podrán solicitar dicha declaratoria ante la autoridad competente correspondiente, la cuál procederá conforme al procedimiento previsto en el presente capítulo.
 
 (Decreto 4302 de 2008, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.24.4 — Procedimiento para la declaratoria de existencia de razones de interés público
 
@@ -15490,8 +13652,6 @@ PARÁGRAFO 2. El procedimiento previsto en el presente capítulo podrá ser tamb
 
 (Decreto 4302 de 2008, art. 4., modificado por el Decreto 4966 de 2009)
 
-ARTÍCULO
-
 ## art:2.2.2.24.5 — Contenido del acto administrativo de declaratoria
 
 La resolución expedida por el correspondiente Ministerio o Departamento Administrativo en la que se declare que existen razones de interés público que ameriten la expedición de licencia(s) obligatoria(s) deberá identificar la situación que afecta el interés general; establecer las circunstancias que llevaron a la declaratoria y los motivos por las cuáles se debe licenciar la patente; además, indicará las medidas o mecanismos necesarios que se deban adoptar para conjurar dicha afectación. Los aspectos relacionados con el alcance específico de la(s) licencia(s) obligatoria(s) que se concederán serán concretados por la Superintendencia de Industria y Comercio con base en lo previsto en la referida resolución, dentro del trámite a que se refiere el artículo 2.2.2.24.7. del presente Decreto.
@@ -15499,8 +13659,6 @@ La resolución expedida por el correspondiente Ministerio o Departamento Adminis
 PARÁGRAFO. (Derogado por el Decreto 670 de 2017, art. 2) Sin perjuicio de lo aquí dispuesto, el Ministerio o Departamento Administrativo que declare la existencia de razones de interés público, en el marco de sus competencias, podrá establecer medidas diferentes a la concesión de licencia(s) obligatoria(s).
 
 (Decreto 4302 de 2008, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.24.6 — Comité Técnico Interinstitucional
 
@@ -15526,8 +13684,6 @@ PARÁGRAFO 5. El Comité elaborara un informe de recomendación y lo pondrá a d
 
 (Decreto 670 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.24.7 — Trámite ante la Superintendencia de Industria y Comercio
 
 La Superintendencia de Industria y Comercio, una vez se publique en el Diario Oficial y se comunique el acto administrativo a que se refiere el artículo 2. 2.2.24.4 del presente capítulo, adelantara el trámite correspondiente para el otorgamiento de la(s) licencia(s) obligatoria(s) que se le soliciten, de acuerdo con el procedimiento que para el efecto se establezca.
@@ -15544,23 +13700,17 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.25.1.1 — Objeto
 
 El presente capítulo tiene cómo objeto reglamentar parcialmente la Ley 1581 de 2012, por la cuál se dictan disposiciones generales para la protección de datos personales.
 
 (Decreto 1377 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.25.1.2 — Tratamiento de datos en el ámbito personal o doméstico
 
 De conformidad con lo dispuesto en el literal a) del artículo 2 de la Ley 1581 de 2012, se exceptuan de la aplicación de dicha ley y del presente capítulo, las bases de datos mantenidas en un ámbito exclusivamente personal o doméstico. El ámbito personal o doméstico comprende aquellas actividades que se inscriben en el marco de la vida privada o familiar de las personas naturales.
 
 (Decreto 1377 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.25.1.3 — Definiciones
 
@@ -15582,8 +13732,6 @@ SECCIÓN 2
 
 AUTORIZACIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.25.2.1 — Recolección de los datos personales
 
 En desarrollo de los principios de finalidad y libertad, la recolección de datos deberá limitarse a aquellos datos personales que son pertinentes y adecuados para la finalidad para la cual son recolectados o requeridos conforme a la normatividad vigente. Salvo en los casos expresamente previstos en la ley, no se podrán recolectar datos personales sin autorización del Titular
@@ -15594,8 +13742,6 @@ No se podrán utilizar medios engañosos o fraudulentos para recolectar y realiz
 
 (Decreto 1377 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.25.2.2 — Autorización
 
 El Responsable del Tratamiento deberá adoptar procedimientos para solicitar, a más tardar en el momento de la recolección de sus datos, la autorización del Titular para el Tratamiento de los mismos e informarle los datos personales que serán recolectados, así cómo todas las finalidades específicas del Tratamiento para las cuáles se obtiene el consentimiento.
@@ -15605,8 +13751,6 @@ Los datos personales que se encuentren en fuentes de acceso público, con indepe
 En caso de haber cambios sustanciales en el contenido de las políticas del Tratamiento a que se refiere a la sección 3 de este capítulo, referidos a la identificación del Responsable y a la finalidad del Tratamiento de los datos personales, los cuáles puedan afectar el contenido de la autorización, el Responsable del Tratamiento debe comunicar estos cambios al Titular antes de o a más tardar al momento de implementar las nuevas políticas. Además, deberá obtener del Titular una nueva autorización cuando el cambio se refiera a la finalidad del Tratamiento.
 
 (Decreto 1377 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.25.2.3 — De la autorización para el Tratamiento de datos personales sensibles
 
@@ -15622,8 +13766,6 @@ Ninguna actividad podrá condicionarse a que el Titular suministre datos persona
 
 (Decreto 1377 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.25.2.4 — Modo de obtener la autorización
 
 Para efectos de dar cumplimiento a lo dispuesto en el artículo 9 de la Ley 1581 de 2012, los Responsables del Tratamiento de datos personales establecerán mecanismos para obtener la autorización de los titulares o de quién se encuentre legitimado de conformidad con lo establecido en el artículo 2.2.2.25.4.1., del presente Decreto, que garanticen su consulta. Estos mecanismos podrán ser predeterminados a través de medios técnicos que faciliten al Titular su manifestación automatizada.
@@ -15632,15 +13774,11 @@ Se entenderá que la autorización cumple con estos requisitos cuando se manifie
 
 (Decreto 1377 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.25.2.5 — Prueba de la autorización
 
 Los Responsables deberán conservar prueba de la autorización otorgada por los Titulares de datos personales para el Tratamiento de los mismos.
 
 (Decreto 1377 de 2013, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.25.2.6 — Revocatoria de la autorización y/o supresión del dato
 
@@ -15653,8 +13791,6 @@ El responsable y el encargado deben poner a disposición del Titular mecanismos 
 Si vencido el término legal respectivo, el responsable y/o el encargado, según fuera el caso, no hubieran eliminado los datos personales, el Titular tendrá derecho a solicitar a la Superintendencia de Industria y Comercio que ordene la revocatoria de la autorización y/o la supresión de los datos personales. Para estos efectos se aplicará el procedimiento descrito en el artículo 22 de la Ley 1581 de 2012.
 
 (Decreto 1377 de 2013, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.25.2.7 — Datos recolectados antes del 27 de junio de 2013
 
@@ -15678,8 +13814,6 @@ PARÁGRAFO. La implementación de los mecanismos alternos de comunicación previ
 
 (Decreto 1377 de 2013, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.25.2.8 — Limitaciones temporales al Tratamiento de los datos personales
 
 Los Responsables y Encargados del Tratamiento sólo podrán recolectar, almacenar, usar o circular los datos personales durante el tiempo que sea razonable y necesario, de acuerdo con las finalidades que justificaron el tratamiento, atendiendo a las disposiciones aplicables a la materia de que se trate y a los aspectos administrativos, contables, fiscales, jurídicos e historicos de la información. Una vez cumplida la o las finalidades del tratamiento y sin perjuicio de normas legales que dispongan lo contrario, el Responsable y el Encargado deberán proceder a la supresión de los datos personales en su posesión. No obstante, lo anterior, los datos personales deberán ser conservados cuando así se requiera para el cumplimiento de una obligación legal o contractual.
@@ -15687,8 +13821,6 @@ Los Responsables y Encargados del Tratamiento sólo podrán recolectar, almacena
 Los responsables y encargados del tratamiento deberán documentar los procedimientos para el Tratamiento, conservación y supresión de los datos personales de conformidad con las disposiciones aplicables a la materia de que se trate, así cómo las instrucciones que al respecto imparta la Superintendencia de Industria y Comercio.
 
 (Decreto 1377 de 2013, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.25.2.9 — Requisitos especiales para el tratamiento de datos personales de niños, niñas y adolescentes
 
@@ -15709,8 +13841,6 @@ La familia y la sociedad deben velar porque los responsables y encargados del tr
 SECCIÓN 3
 
 POLITICAS DE TRATAMIENTO
-
-ARTÍCULO
 
 ## art:2.2.2.25.3.1 — Políticas de Tratamiento de la información
 
@@ -15734,15 +13864,11 @@ Cualquier cambio sustancial en las políticas de tratamiento, en los términos d
 
 (Decreto 1377 de 2013, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.25.3.2 — Aviso de privacidad
 
 En los casos en los que no sea posible poner a disposición del Titular las políticas de tratamiento de la información, los responsables deberán informar por medio de un aviso de privacidad al titular sobre la existencia de tales políticas y la forma de acceder a las mismas, de manera oportuna y en todo caso a más tardar al momento de la recolección de los datos personales.
 
 (Decreto 1377 de 2013, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.25.3.3 — Contenido mínimo del Aviso de Privacidad
 
@@ -15762,15 +13888,11 @@ En todo caso, la divulgación del Aviso de Privacidad no eximira al Responsable 
 
 (Decreto 1377 de 2013, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.25.3.4 — Deber de acreditar puesta a disposición del aviso de privacidad y las políticas de Tratamiento de la información
 
 Los Responsables deberán conservar el modelo del Aviso de Privacidad que utilicen para cumplir con el deber que tienen de dar a conocer a los Titulares la existencia de políticas del tratamiento de la información y la forma de acceder a las mismas, mientras se traten datos personales conforme al mismo y perduren las obligaciones que de este se deriven. Para el almacenamiento del modelo, el Responsable podrá emplear medios informáticos, electrónicos o cualquier otra tecnología que garantice el cumplimiento de lo previsto en la Ley 527 de 1999.
 
 (Decreto 1377 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.25.3.5 — Medios de difusión del aviso de privacidad y de las políticas de tratamiento de la información
 
@@ -15778,15 +13900,11 @@ Para la difusión del aviso de privacidad y de la política de tratamiento de la
 
 (Decreto 1377 de 2013, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.25.3.6 — Procedimientos para el adecuado tratamiento de los datos personales
 
 Los procedimientos de acceso, actualización, supresión y rectificación de datos personales y de revocatoria de la autorización deben darse a conocer o ser fácilmente accesibles a los Titulares de la información e incluirse en la política de tratamiento de la información.
 
 (Decreto 1377 de 2013, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.2.25.3.7 — Medidas de seguridad
 
@@ -15797,8 +13915,6 @@ La Superintendencia de Industria y Comercio impartirá las instrucciones relacio
 SECCIÓN 4
 
 EJERCICIO DE LOS DERECHOS DE LOS TITULARES
-
-ARTÍCULO
 
 ## art:2.2.2.25.4.1 — Legitimación para el ejercicio de los derechos del titular
 
@@ -15816,8 +13932,6 @@ Los derechos de los niños, niñas o adolescentes se ejercerán por las personas
 
 (Decreto 1377 de 2013, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.2.25.4.2 — Del derecho de acceso
 
 Los responsables y encargados del tratamiento deben establecer mecanismos sencillos y agiles que se encuentren permanentemente disponibles a los Titulares con el fin de que estos puedan acceder a los datos personales que estén bajo el control de aquellos y ejercer sus derechos sobre los mismos.
@@ -15828,15 +13942,11 @@ Para consultas cuya periodicidad sea mayor a una por cada mes calendario, el res
 
 (Decreto 1377 de 2013, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.25.4.3 — Del derecho de actualización, rectificación y supresión
 
 En desarrollo del principio de veracidad o calidad, en el tratamiento de los datos personales deberán adoptarse las medidas razonables para asegurar que los datos personales que reposan en las bases de datos sean precisos y suficientes y, cuando así lo solicite el Titular o cuando el Responsable haya podido advertirlo, sean actualizados, rectificados o suprimidos, de tal manera que satisfagan los propósitos del tratamiento.
 
 (Decreto 1377 de 2013, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.25.4.4 — Medios para el ejercicio de los derechos
 
@@ -15848,8 +13958,6 @@ SECCIÓN 5
 
 TRANSFERENCIAS Y TRANSMISIONES INTERNACIONALES DE DATOS PERSONALES
 
-ARTÍCULO
-
 ## art:2.2.2.25.5.1 — De la transferencia y transmisión internacional de datos personales
 
 Para la transmisión y transferencia de datos personales, se aplicarán las siguientes reglas:
@@ -15859,8 +13967,6 @@ Para la transmisión y transferencia de datos personales, se aplicarán las sigu
 2. Las transmisiones internacionales de datos personales que se efectúen entre un Responsable y un Encargado para permitir que el encargado realice el tratamiento por cuenta del responsable, no requerirán ser informadas al Titular ni contar con su consentimiento cuando exista un contrato en los términos del artículo 2.2.2.25.5.2.
 
 (Decreto 1377 de 2013, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.2.25.5.2 — Contrato de transmisión de datos personales
 
@@ -15882,8 +13988,6 @@ SECCIÓN 6
 
 RESPONSABILIDAD DEMOSTRADA FRENTE AL TRATAMIENTO DE DATOS PERSONALES
 
-ARTÍCULO
-
 ## art:2.2.2.25.6.1 — Demostración
 
 Los responsables del tratamiento de datos personales deben ser capaces de demostrar, a petición de la Superintendencia de Industria y Comercio, que han implementado medidas apropiadas y efectivas para cumplir con las obligaciones establecidas en la Ley 1581 de 2012 y este capítulo, en una manera que sea proporcional a lo siguiente:
@@ -15901,8 +14005,6 @@ En respuesta a un requerimiento de la Superintendencia de Industria y Comercio, 
 En respuesta a un requerimiento de la Superintendencia de Industria y Comercio, quienes efectuen el Tratamiento de los datos personales deberán suministrar a esta evidencia sobre la implementación efectiva de las medidas de seguridad apropiadas:
 
 (Decreto 1377 de 2013, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.2.25.6.2 — Políticas internas efectivas
 
@@ -16020,15 +14122,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.26.1.1 — Objeto
 
 El presente capítulo tiene cómo objeto reglamentar la información mínima que debe contener el Registro Nacional de Bases de Datos, creado por la Ley 1581 de 2012, así cómo los términos y condiciones bajo las cuáles se deben inscribir en este los Responsables del Tratamiento.
 
 (Decreto 886 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.26.1.2 — Ámbito de aplicación
 
@@ -16040,15 +14138,11 @@ b) Personas jurídicas de naturaleza pública".
 
 (Decreto 886 de 2014, art. 2, modificado por el Decreto 90 de 2018, art. 1))
 
-ARTÍCULO
-
 ## art:2.2.2.26.1.3 — Deber de inscribir las bases de datos
 
 El Responsable del Tratamiento debe inscribir en el Registro Nacional de Bases de Datos, de manera independiente, cada una de las bases de datos que contengan datos personales sujetos a Tratamiento.
 
 (Decreto 886 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.26.1.4 — Consulta del Registro Nacional de Bases de Datos
 
@@ -16059,8 +14153,6 @@ Los ciudadanos podrán consultar en el Registro Nacional de Bases de Datos, la i
 SECCIÓN 2
 
 DEL REGISTRO NACIONAL DE BASES DE DATOS
-
-ARTÍCULO
 
 ## art:2.2.2.26.2.1 — Información mínima del Registro Nacional de Bases de Datos
 
@@ -16082,23 +14174,17 @@ La Superintendencia de Industria y Comercio, cómo autoridad de protección de d
 
 (Decreto 886 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.26.2.2 — Responsable del Tratamiento de la base de datos
 
 Cuando el Responsable del Tratamiento de la base de datos sea una persona jurídica, deberá indicar su denominación o Razón Social y su número de identificación tributaria, así como sus datos de ubicación y contacto. Cuando el Responsable del Tratamiento sea una persona natural, inscribira sus datos de identificación, ubicación y contacto.
 
 (Decreto 886 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.26.2.3 — Encargado del Tratamiento de la Base de Datos
 
 Cuando el Encargado o los Encargados del Tratamiento de la Base de Datos sean o sea una persona jurídica, el Responsable del Tratamiento deberá indicar en el Registro Nacional de Bases de Datos la denominación o razón social completa y el número de identificación tributaria de dicho Encargado o Encargados, así cómo sus datos de ubicación y contacto. Cuando el o los Encargados del Tratamiento sean o sea una persona natural, se inscribirán sus datos de identificación, ubicación y contacto.
 
 (Decreto 886 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.26.2.4 — Canales para ejercer derechos
 
@@ -16108,23 +14194,17 @@ En los casos en los que el Tratamiento de datos lo realice el Encargado, el Resp
 
 (Decreto 886 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.26.2.5 — Nombre y finalidad de la base de datos
 
 El Responsable del Tratamiento identificara cada una de las bases de datos que inscriba, de acuerdo con la finalidad para la cuál fue creada.
 
 (Decreto 886 de 2014, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.26.2.6 — Formas de Tratamiento
 
 Los datos personales contenidos en bases de datos podrán ser tratados de manera automatizada o manual. Son bases de datos manuales los archivos cuya información se encuentra organizada y almacenada de manera fisica y bases de datos automatizadas aquellas que se almacenan y administrán con la ayuda de herramientas informaticas.
 
 (Decreto 886 de 2014, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.26.2.7 — Política de Tratamiento de la información
 
@@ -16137,8 +14217,6 @@ La información mínima que debe contener dicha política corresponde a la previ
 SECCIÓN 3
 
 TÉRMINOS Y CONDICIONES DE INSCRIPCION EN EL REGISTRO NACIONAL DE BASES DE DATOS
-
-ARTÍCULO
 
 ## art:2.2.2.26.3.1 — Plazo de inscripción
 
@@ -16154,15 +14232,11 @@ Las bases de datos que se creen con posterioridad al vencimiento de los plazos r
 
 (Decreto 1115 de 2017, art. 1, modificado por el Decreto 90 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.26.3.2 — Inscripción de las Bases de Datos
 
 La Superintendencia de Industria y Comercio establecerá el procedimiento de inscripción en el Registro Nacional de Bases de Datos que deberán cumplir los Responsables del Tratamiento, previa validación de su identidad, de acuerdo con lo que para el efecto establezca esa entidad.
 
 (Decreto 886 de 2014, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.26.3.3 — Actualización de la información contenida en el Registro Nacional de Bases de Datos
 
@@ -16170,7 +14244,7 @@ Los Responsables del Tratamiento de las bases de datos deberán actualizar en el
 
 (Decreto 886 de 2014, art. 14)
 
-## art:2.2.2.26.3 — 4. Facultad Sancionatoria de la Superintendencia de Industria y Comercio
+## art:2.2.2.26.3.4 — Facultad Sancionatoria de la Superintendencia de Industria y Comercio
 
 La facultad sancionatoria le corresponde a la Superintendencia de Industria y Comercio, cuando se incumpla la Ley 1581 de 2012.
 
@@ -16179,8 +14253,6 @@ La facultad sancionatoria le corresponde a la Superintendencia de Industria y Co
 CAPÍTULO 27
 
 CONTENIDO MÍNIMO DE LAS HISTORIAS CREDITICIAS
-
-ARTÍCULO
 
 ## art:2.2.2.27.1 — Requisitos mínimos de información
 
@@ -16288,8 +14360,6 @@ En tratándose de ventas de cartera de cualquiera de los dos sectores arriba men
 
 (Decreto 1727 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.27.2 — Requerimientos de entidades de supervisión
 
 Previo al ejercicio de las funciones establecidas en la Ley 1266 de 2008 para las Superintendencias Financiera y de Industria y Comercio, estas podrán solicitar información a los operadores y a las fuentes de información sobre los avances en el cumplimiento de la ley en mención y sus decretos reglamentarios.
@@ -16299,8 +14369,6 @@ Previo al ejercicio de las funciones establecidas en la Ley 1266 de 2008 para la
 CAPÍTULO 28
 
 SE REGLAMENTAN LOS ARTÍCULOS 12 Y 13 DE LA LEY 1266 DE 2008
-
-ARTÍCULO
 
 ## art:2.2.2.28.1 — Incumplimiento de las obligaciones por fuerza mayor
 
@@ -16326,8 +14394,6 @@ El operador volvera a reflejar la información del titular cuando le sea acredit
 
 (Decreto 2952 de 2010, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.28.2 — Reporte de Información Negativa
 
 En desarrollo de lo dispuesto en el inciso segundo del artículo 12 de la Ley 1266 de 2008, el reporte de información negativa sobre incumplimiento de obligaciones sólo procederá previa comunicación al titular de la información, la cuál podrá incluirse en los extractos periódicos que las fuentes de información envien a sus clientes, siempre y cuando se incluya de manera clara y legible.
@@ -16337,8 +14403,6 @@ Las fuentes de información podrán pactar con los titulares, otros mecanismos m
 En el evento en que se presenten moras sucesivas y continuas, la obligación de comunicar previamente al titular de la información, se entenderá cumplida con la comunicación correspondiente a la mora inicial.
 
 (Decreto 2952 de 2010, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.28.3 — Permanencia de la Información Negativa
 
@@ -16556,8 +14620,6 @@ SECCIÓN 6
 
 ACUERDOS PARA LA ESTABILIDAD DE UN SECTOR DE LA ECONOMÍA SECTORES BASICOS
 
-ARTÍCULO
-
 ## art:2.2.2.29.6.1 — Objeto
 
 Para los efectos del parágrafo del artículo 1 de la Ley 155 de 1959, considerense sectores basicos de la producción de bienes o servicios de interés para la economía general y el bienestar social, todas aquellas actividades económicas que tengan o llegaren a tener en el futuro importancia fundamental para estructurar racionalmente la economía del país y abastecerlo de bienes o servicios indispensables al bienestar general, tales como:
@@ -16572,15 +14634,11 @@ CAPÍTULO 30
 
 ABOGACIA DE LA COMPETENCIA
 
-ARTÍCULO
-
 ## art:2.2.2.30.1 — Objeto
 
 El presente capítulo establece las autoridades que deberán informar a la Superintendencia de Industria y Comercio sobre los proyectos de acto administrativo que se propongan expedir con fines de regulación, así cómo las reglas aplicables para que esta entidad pueda rendir concepto previo acerca de la potencial incidencia de la regulación sobre la libre competencia económica en los mercados, de acuerdo con el artículo 7 de la Ley 1340 de 2009.
 
 (Decreto 2897 de 2010, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.30.2 — Autoridades que deben informar sobre proyectos de regulación
 
@@ -16589,8 +14647,6 @@ Para los fines a que se refiere el artículo 7 de la Ley 1340 de 2009 deberán i
 PARÁGRAFO. No estarán sujetos al presente capítulo los organismos y entidades a que se refiere el artículo 40 de la Ley 489 de 1998.
 
 (Decreto 2897 de 2010, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.30.3 — Proyectos de regulación que deben informarse a la Superintendencia de Industria y Comercio
 
@@ -16601,8 +14657,6 @@ Las autoridades indicadas en el artículo 2.2.2.30.2. del presente Decreto deber
 2. Imponga conductas a empresas o consumidores o modifique las condiciones en las cuáles serán exigibles obligaciones previamente impuestas por la ley o un acto administrativo, cuando el acto tenga por objeto o pueda tener cómo efecto limitar la capacidad de las empresas para competir, reducir sus incentivos para competir, o limitar la libre elección o información disponible para los consumidores, en uno o varios mercados relevantes relacionados.
 
 (Decreto 2897 de 2010, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.30.4 — Excepciones al deber de informar
 
@@ -16626,8 +14680,6 @@ PARÁGRAFO. En cualquiera de los anteriores eventos la autoridad de regulación 
 
 (Decreto 2897 de 2010, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.30.5 — Evaluación que debe realizar la autoridad que proyecta expedir un acto
 
 La autoridad que se proponga expedir un acto administrativo con fines regulatorios deberá evaluar su posible incidencia sobre la libre competencia con base en el cuestionario que adoptara la Superintendencia de Industria y Comercio mediante una resolución de carácter general. Esa evaluación deberá realizarla antes de someter a consideración de la Superintendencia de Industria y Comercio el proyecto de acto regulatorio.
@@ -16635,8 +14687,6 @@ La autoridad que se proponga expedir un acto administrativo con fines regulatori
 La resolución que expida la Superintendencia de Industria y Comercio establecerá las preguntas centrales que deberá formularse la autoridad que proyecta expedir un acto administrativo. Con el fin de facilitar la evaluación, las preguntas podrán complementarse con ejemplos o situaciones que sirvan para ilustrar el tipo de efectos de una regulación, perseguidos o no, que puedan restringir indebidamente la libre competencia.
 
 (Decreto 2897 de 2010, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.30.6 — Reglas aplicables para informar sobre un proyecto de acto administrativo
 
@@ -16658,15 +14708,11 @@ En este caso la Superintendencia de Industria y Comercio podrá evaluar la incid
 
 (Decreto 2897 de 2010, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.30.7 — Constancia de consulta en el acto administrativo
 
 En todo acto administrativo con fines regulatorios que pueda tener incidencia sobre la libre competencia en los mercados, la autoridad que lo expida deberá dejar constancia expresa en la parte considerativa acerca de si consulto a la Superintendencia de Industria y Comercio o no y si esta emitió concepto o no.
 
 (Decreto 2897 de 2010, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.30.8 — Documentos que la autoridad debe suministrar a la Superintendencia de Industria y Comercio
 
@@ -16682,8 +14728,6 @@ Cuando una autoridad informe sobre un proyecto de acto administrativo que se pro
 
 (Decreto 2897 de 2010, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.30.9 — Procedimiento para rendir concepto
 
 Cuando la Superintendencia de Industria y Comercio reciba un informe sobre un proyecto de acto administrativo con fines regulatorios, acompañado de los documentos que exige el artículo 2. 2.2.30.8 del presente Decreto, previo examen de esos elementos de juicio, podrá:
@@ -16697,8 +14741,6 @@ En ese evento, la entidad que se propone adoptarlo deberá manifestar, de manera
 3. Abstenerse de rendir concepto, caso en el cual se considerará, para todos los efectos legales, que no tiene observaciones sobre el proyecto.
 
 (Decreto 2897 de 2010, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.30.10 — Plazo para rendir concepto
 
@@ -16716,8 +14758,6 @@ PARÁGRAFO. Cuando a pesar de no estar obligada a informar a la Superintendencia
 
 (Decreto 2897 de 2010, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.30.11 — Publicación de conceptos
 
 La Superintendencia de Industria y Comercio adoptara un sistema que permita la consulta pública de los conceptos que rinda sobre proyectos de acto administrativo con fines regulatorios, salvo que por norma legal deba mantenerlos bajo reserva total o parcial.
@@ -16727,8 +14767,6 @@ La Superintendencia de Industria y Comercio adoptara un sistema que permita la c
 CAPÍTULO 31
 
 DEFENSA DEL CONSUMIDOR
-
-ARTÍCULO
 
 ## art:2.2.2.31.1 — Criterios para graduar las sanciones administrativas
 
@@ -16744,8 +14782,6 @@ SECCIÓN 1
 
 OBJETO
 
-ARTÍCULO
-
 ## art:2.2.2.32.1.1 — Objeto
 
 Mediante el presente capítulo se establecen las reglas para hacer efectiva la garantía legal y las suplementarias a esta.
@@ -16755,8 +14791,6 @@ Mediante el presente capítulo se establecen las reglas para hacer efectiva la g
 SECCIÓN 2
 
 SOLICITUD, PROCEDIMIENTO, CUMPLIMIENTO Y PLAZOS PARA LA EFECTIVIDAD DE LA GARANTÍA LEGAL
-
-ARTÍCULO
 
 ## art:2.2.2.32.2.1 — Solicitud de la efectividad de la garantía legal
 
@@ -16770,8 +14804,6 @@ PARÁGRAFO. El consumidor que ejerza la acción jurisdiccional de protección al
 
 (Decreto 735 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.32.2.2 — Decisión del productor o expendedor
 
 De conformidad con lo dispuesto en el literal c. del numeral 5 del artículo 58 de la Ley 1480 de 2011, cuando se niegue o se haga efectiva una garantía legal, el productor o el expendedor, según corresponda, debe expresar por escrito y de manera sustentada las razones para aceptarla, hacerla efectiva de forma diferente a la solicitada o negarla, con las pruebas que justifiquen su decisión. El escrito y las pruebas deben ser entregados al consumidor al momento de informarle la decisión correspondiente.
@@ -16782,15 +14814,11 @@ PARÁGRAFO. En los casos de efectividad de la garantía legal, de acuerdo con lo
 
 (Decreto 735 de 2013, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.32.2.3 — Imposibilidad de reparación o repetición de la falla
 
 En caso de repetirse la falla o cuando el bien no admite reparación, el productor o el expendedor, deberá dejar constancia escrita de la elección del consumidor sobre la forma de hacer efectiva la garantía legal, ya sea con la devolución del dinero o con el cambio del bien por otro, en los términos del artículo 12 de la Ley 1480 de 2011.
 
 (Decreto 735 de 2013, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.32.2.4 — Imposibilidad de reposición o cambio del bien
 
@@ -16798,23 +14826,17 @@ Cuando el consumidor opte por la reposición o cambio por un bien de las mismas 
 
 (Decreto 735 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.32.2.5 — Devolución del dinero por efectividad de la garantía legal
 
 Cuando el consumidor opte por la devolución del dinero, en los casos en los que exista imposibilidad de reparar o se repita la falla, deberá hacerse sobre el precio de venta, previa entrega del bien objeto de garantía libre de gravámenes. En caso que el bien este sujeto a registro para la transferencia del derecho de dominio, los costos del registro serán asumidos por el productor o expendedor.
 
 (Decreto 735 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.32.2.6 — Controversia entre el monto de la devolución del dinero y la reposición o cambio del bien
 
 En los eventos de controversia sobre el monto de la devolución, sobre la equivalencia del bien de reposición o cambio, o respecto del funcionamiento del bien entregado en reposición, la efectividad de la garantía legal se hará mediante la devolución del precio de venta efectivamente pagado por el producto. En todo caso, el productor o expendedor y el consumidor podrán solucionar sus controversias a través de cualquier método alternativo de solución de conflictos.
 
 (Decreto 735 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.32.2.7 — Plazo para la reparación del bien
 
@@ -16823,8 +14845,6 @@ La Superintendencia de Industria y Comercio determinará, de acuerdo con la natu
 En los casos en los que el productor o proveedor dispongan de un bien en prestamo para el consumidor mientras se efectua la reparación del mismo, el término para la reparación podrá extenderse hasta por sesenta (60) días hábiles.
 
 (Decreto 735 de 2013, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.32.2.8 — Plazo para la reposición del bien por la efectividad de la garantía legal
 
@@ -16837,8 +14857,6 @@ En cualquier caso, una vez el consumidor sea informado de la decisión adoptada 
 En caso que el consumidor no cumpla con dicho término, el productor o expendedor no podrá ser sujeto de las multas previstas en el numeral 11 del artículo 58 de la Ley 1480 de 2011, a menos que dicha demora sea imputable al productor o expendedor cómo consecuencia de no haber asumido efectivamente los costos de registro mencionados en el inciso anterior.
 
 (Decreto 735 de 2013, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.32.2.9 — Plazo para la devolución del dinero por la efectividad de la garantía legal
 
@@ -16860,23 +14878,17 @@ SECCIÓN 3
 
 PARTICULARIDADES DE LA GARANTÍA PARA CIERTOS BIENES
 
-ARTÍCULO
-
 ## art:2.2.2.32.3.1 — Garantía de disponibilidad de repuestos, partes, insumos y mano de obra capacitada
 
 La Superintendencia de Industria y Comercio fijara el término durante el cuál los productores o expendedores deben garantizar la disponibilidad de repuestos, partes, insumos y mano de obra capacitada para la reparación de los productos, de acuerdo con la naturaleza de los mismos y, además, establecerá la forma en la que los productores o expendedores deberán informar a los consumidores sobre dicho término.
 
 (Decreto 735 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.32.3.2 — Garantía de bienes usados
 
 La garantía de los bienes usados en los que haya expirado el término de la garantía legal, estará a cargo únicamente del proveedor o expendedor. Los bienes usados podrán ser vendidos sin garantía, circunstancia que debe ser informada y aceptada por escrito y de manera expresa por el consumidor. En caso contrario, se entenderá que el producto tiene garantía de tres (3) meses.
 
 (Decreto 735 de 2013, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.32.3.3 — Garantía legal de bienes inmuebles
 
@@ -16906,8 +14918,6 @@ PARÁGRAFO 3. Para los bienes inmuebles, el término de la garantía legal de lo
 
 (Decreto 735 de 2013, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.32.3.4 — Garantía legal de bienes comunes de propiedades horizontales
 
 En los bienes inmuebles sujetos al régimen de propiedad horizontal, la garantía legal sobre los bienes comunes deberá ser solicitada por el administrador designado en los términos del inciso 1 del artículo 50 de la Ley 675 de 20010 las normas que la modifiquen o adicionen.
@@ -16915,8 +14925,6 @@ En los bienes inmuebles sujetos al régimen de propiedad horizontal, la garantí
 El procedimiento y términos para hacer efectiva la garantía legal de estos bienes, será el establecido en el artículo 2.2.2.32.3.3 del presente Decreto, según corresponda.
 
 (Decreto 735 de 2013, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.32.3.5 — Garantía de bienes de único uso o desechables
 
@@ -16930,8 +14938,6 @@ SECCIÓN 4
 
 PARTICULARIDADES DE LA GARANTÍA LEGAL PARA LA PRESTACIÓN DE SERVICIOS
 
-ARTÍCULO
-
 ## art:2.2.2.32.4.1 — Garantía legal en los casos de prestación de servicios
 
 En los casos de prestación de servicios, el proveedor del servicio deberá dejar constancia escrita de la elección del consumidor sobre la forma de hacer efectiva la garantía legal, la cuál puede ser la repetición del servicio o la devolución del dinero. La Superintendencia de Industria y Comercio establecerá los requisitos de la constancia escrita prevista en este artículo.
@@ -16941,8 +14947,6 @@ Cuando se opte por la repetición del servicio, el proveedor asumirá el costo d
 Cuando se opte por la devolución del dinero, esta incluirá el monto de todos los materiales o insumos que hubieran sido suministrados por el consumidor para la prestación del servicio.
 
 (Decreto 735 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.32.4.2 — Garantía legal en la prestación de servicios que suponen la entrega de un bien
 
@@ -16956,8 +14960,6 @@ SECCIÓN 5
 
 GARANTÍAS SUPLEMENTARIAS
 
-ARTÍCULO
-
 ## art:2.2.2.32.5.1 — Garantías suplementarias
 
 De conformidad con el artículo 13 de la Ley 1480 de 2011, las garantías suplementarias gratuitas y onerosas podrán ser otorgadas siempre y cuando amplíen o mejoren la cobertura de la garantía legal.
@@ -16970,15 +14972,11 @@ SECCIÓN 6
 
 RESPONSABILIDAD POR LA GARANTÍA Y SUS ACCIONES
 
-ARTÍCULO
-
 ## art:2.2.2.32.6.1 — Responsables de la garantía legal
 
 El productor o proveedor están en la obligación de atender la solicitud de efectividad de la garantía legal que presente el consumidor. Si el productor, proveedor o expendedor no proceden de conformidad con lo anterior, se entenderá surtido el requisito de procedibilidad previsto en el literal f. del numeral 5 del artículo 58 de la Ley 1480 de 2011, sin perjuicio de las sanciones administrativas a que haya lugar por la negativa a atender la reclamación en garantía.
 
 (Decreto 735 de 2013, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.2.32.6.2 — Ejercicio de las acciones jurisdiccionales y administrativas de protección al consumidor
 
@@ -16986,15 +14984,11 @@ El ejercicio de la acción de protección del consumidor relacionada con la pret
 
 (Decreto 735 de 2013, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.2.32.6.3 — Ejercicio de acciones civiles y comerciales
 
 Si con posterioridad al vencimiento del término de la garantía legal se presentan defectos en el producto, el consumidor podrá acudir ante la jurisdicción ordinaria en ejercicio de acciones civiles y comerciales pertinentes.
 
 (Decreto 735 de 2013, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.2.32.6.4 — Indemnización de perjuicios
 
@@ -17006,15 +15000,11 @@ SECCIÓN 7
 
 DISPOSICIONES FINALES Y VIGENCIA
 
-ARTÍCULO
-
 ## art:2.2.2.32.7.1 — Término y condiciones de la garantía fijada por el productor
 
 Cuando el productor haya fijado el término y las condiciones de garantía de su producto, estas no podrán ser disminuidas o desmejoradas por los proveedores o expendedores.
 
 (Decreto 735 de 2013, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.2.32.7.2 — Manuales de instrucciones
 
@@ -17028,23 +15018,17 @@ CAPÍTULO 33
 
 CASOS, CONTENIDO Y FORMA EN QUE SE DEBEN PRESENTAR LA INFORMACION Y LA PUBLICIDAD DIRIGIDA A LOS NIÑOS, NIÑAS Y ADOLESCENTES EN SU CALIDAD DE CONSUMIDORES
 
-ARTÍCULO
-
 ## art:2.2.2.33.1 — Objeto
 
 El objeto del presente capítulo es reglamentar los casos, la forma y el contenido en que se deberá presentar la información y la publicidad dirigida a los niños, niñas y adolescentes en su calidad de consumidores por cualquier medio, sea impreso, electrónico, audiovisual, auditivo, entre otros.
 
 (Decreto 975 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.33.2 — Ámbito de aplicación
 
 El presente capítulo es aplicable en general a las relaciones de consumo, a la responsabilidad de los productores, proveedores y en particular a quienes intervengan en el suministro de información a niños, niñas y adolescentes en calidad de consumidores.
 
 (Decreto 975 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.33.3 — Derechos de los niños, niñas y adolescentes frente a la información y la publicidad
 
@@ -17055,8 +15039,6 @@ Toda forma y contenido de comunicación que tenga por finalidad influir en las d
 Los anuncios publicitarios dirigidos a niños, niñas y adolescentes no contendrán ninguna forma de violencia, discriminación, acoso y en general, cualquier conducta que pueda afectar la vida o integridad fisica de una persona.
 
 (Decreto 975 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.33.4 — Deberes del anunciante respecto de la información y publicidad dirigida a los niños, niñas y adolescentes
 
@@ -17090,15 +15072,11 @@ PARÁGRAFO. En los términos del artículo 30 de la Ley 1480 de 2011, el medio d
 
 (Decreto 975 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.33.5 — Anuncios publicitarios dirigidos a niños, niñas y adolescentes emitidos durante un programa de radio o televisión
 
 En todos aquellos eventos en los que un anuncio publicitario dirigido exclusivamente a niños, niñas y adolescentes se incorpore en el contenido editorial de una producción nacional de radio o de televisión emitida durante la franja u horario infantil o adolescente y cuyo público objetivo sean niños, niñas y adolescentes, deberá precisarse por parte del medio de comunicación, de forma expresa, que el anuncio no hace parte del contenido de dicho programa. Para estos efectos, toda publicidad que se incorpore en el contenido editorial deberá estar precedida de la leyenda "el presente es un anuncio publicitario que no hace parte del contenido de este programa", la cuál deberá anunciarse de viva voz, así cómo en caracteres visibles en el caso de los programas emitidos en medios audiovisuales.
 
 (Decreto 975 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.33.6 — Información en la comercialización de juguetes
 
@@ -17106,23 +15084,17 @@ Sin perjuicio de lo dispuesto en la Ley 1480 de 2011 y en el presente capítulo 
 
 (Decreto 975 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.33.7 — Información y publicidad en el entorno digital
 
 Sin perjuicio de lo previsto en la Ley 1480 de 2011, lo dispuesto en este capítulo y demás normas aplicables, la publicidad y oferta de productos dirigidos exclusivamente a niños, niñas y adolescentes, o aquellos que sean publicitados u ofertados en entornos o plataformas cuyo público objetivo y exclusivo sean aquellos o que puedan ser adquiridos, descargados, o a los que se pueda tener acceso por Internet o a través de dispositivos móviles, deben incluir advertencias claras sobre la necesidad de contar con la autorización de sus padres o representantes para realizar la transacción.
 
 (Decreto 975 de 2014, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.33.8 — Procedimiento prevalente
 
 La Superintendencia de Industria y Comercio, las alcaldias municipales y las demás autoridades que tengan asignadas competencias de protección al consumidor, deberán tramitar, de forma prevalente, las quejas que se relacionen con los derechos que cómo consumidores tienen los niños, niñas y/o adolescentes.
 
 (Decreto 975 de 2014, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.33.9 — Sanciones
 
@@ -17138,15 +15110,11 @@ SECCIÓN 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.34.1.1 — Objeto
 
 El objeto del presente capítulo es reglamentar la etapa previa de reclamación directa que deben agotar los consumidores de servicios turísticos y aéreos ante los prestadores de servicios turísticos y ante las empresas de transporte aéreo, para ejercer la acción jurisdiccional de protección al consumidor prevista en el artículo 56 numeral 3 de la Ley 1480 de 2011 -Estatuto del Consumidor- ante la Superintendencia de Industria y Comercio o ante el Juez competente, según su elección.
 
 (Decreto 1097 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.34.1.2 — Ámbito de aplicación
 
@@ -17158,15 +15126,11 @@ SECCIÓN 2
 
 DE LA RECLAMACION DIRECTA
 
-ARTÍCULO
-
 ## art:2.2.2.34.2.1 — Presentación de la reclamación
 
 Los consumidores de servicios turísticos o aéreos podrán presentar personalmente o a través de representante o apoderado reclamación directa por escrito, telefonica o verbalmente ante los prestadores de estos servicios cuando se vulneren sus derechos cómo consumidor, contenidos, respectivamente, en la Ley 300 de 1996 y las normas que la modifiquen o reglamenten; o en el Código de Comercio, las leyes especiales sobre la materia, los reglamentos aeronauticos, y las disposiciones que los modifiquen o reglamenten. En todo caso, conforme con el artículo 2 de la Ley 1480 de 2011, esta se aplicará supletoriamente a las normas especiales que regulan los servicios turísticos y aéreos.
 
 (Decreto 1097 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.34.2.2 — Requisitos de la reclamación directa
 
@@ -17175,8 +15139,6 @@ En la reclamación directa se señalarán los motivos o razones que la justifiqu
 Cuando la reclamación directa se presenta en forma verbal, el prestador del servicio turístico o la empresa de transporte aéreo deberá expedir constancia escrita de su recibo, con indicación de la fecha de presentación, el objeto del reclamo y la pretension del consumidor del servicio turístico o aéreo.
 
 (Decreto 1097 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.34.2.3 — Respuesta a la reclamación directa
 
@@ -17192,8 +15154,6 @@ PARÁGRAFO 2. Los arreglos sobre derechos patrimoniales obtenidos a través de c
 
 (Decreto 1097 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.34.2.4 — Aspectos no previstos
 
 En los aspectos no previstos en este capítulo se aplicará en lo que corresponda las reglas señaladas en el numeral 5 del artículo 58 de la Ley 1480 de 2011 y lo dispuesto en el artículo 25 de la Ley 1558 de 2012.
@@ -17204,15 +15164,11 @@ CAPÍTULO 35
 
 OPERACIONES DE CRÉDITO MEDIANTE SISTEMAS DE FINANCIACION
 
-ARTÍCULO
-
 ## art:2.2.2.35.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar las operaciones de crédito otorgadas por personas naturales o jurídicas cuyo control y vigilancia sobre su actividad crediticia no haya sido asignada a alguna autoridad administrativa en particular y los contratos de adquisición de bienes o prestación de servicios en los que el productor o proveedor otorgue de forma directa financiación, de acuerdo con lo previsto en el artículo 45 de la Ley 1480 de 2011.
 
 (Decreto 1368 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.35.2 — Ámbito de aplicación
 
@@ -17225,8 +15181,6 @@ El presente capítulo se aplicará a:
 PARÁGRAFO. Quedan excluidos de la aplicación de este capítulo, por no ser ventas financiadas, los contratos de adquisición de bienes o prestación de servicios en los que se otorgue plazo para pagar el precio sin cobrar intereses.
 
 (Decreto 1368 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.35.3 — Definiciones
 
@@ -17262,8 +15216,6 @@ Para la correcta aplicación e interpretación de este decreto se entenderá por
 
 (Decreto 1702 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.35.4 — Publicidad de la información sobre sistemas de financiación
 
 Todo aquel que ofrezca sistemas de financiación a los que se refiere el presente capítulo, deberá disponer de manera permanente de una cartelera o tablero visible, que deberá situarse en los lugares de atención al público o de exhibición, en forma tal que atraiga su atención y resulte facilmente legible. Sin perjuicio de lo anterior, podrán utilizarse otros mecanismos adicionales que permitan el acceso a esta información.
@@ -17277,8 +15229,6 @@ En dichos medios deberá anunciarse:
 3. Cuando se trate de contratos de adquisición de bienes y de prestación de servicios, adicionalmente deberá indicarse: i) el porcentaje mínimo que debe pagarse cómo cuota inicial, y ii) los incentivos que se ofrezcan, que, en caso de tratarse de descuentos, deberán expresarse sobre el precio.
 
 (Decreto 1368 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.35.5 — Información que debe constar por escrito y ser entregada al consumidor
 
@@ -17322,8 +15272,6 @@ La información señalada en el presente artículo, deberá constar por escrito,
 
 (Decreto 1702 de 2015, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.35.6 — Información de permanente disponibilidad al consumidor
 
 La información que el proveedor deberá tener a disposición del consumidor de manera permanente durante la jornada de atención al público por concepto de una operación mediante sistemas de financiación será la siguiente:
@@ -17345,8 +15293,6 @@ La información que el proveedor deberá tener a disposición del consumidor de 
 En todo caso, se deberá tener a disposición del público puntos de información con personal que cuente con la capacitación y conocimientos requeridos para informar al cliente la integridad de las obligaciones que contrae con la firma del correspondiente contrato, la forma cómo se van a calcular y liquidar los intereses, la cuota y el crédito.
 
 (Decreto 1368 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.35.7 — Reglas generales para la celebración de contratos mediante sistemas de financiación
 
@@ -17370,8 +15316,6 @@ Conforme a lo dispuesto en la Ley 1480 de 2011, los contratos de operaciones med
 
 (Decreto 1702 de 2015, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.35.8 — Obligación de verificación de límites maximos legales de tasas de interés
 
 Respecto de la verificación de los límites maximos legales de la tasa de interés, el proveedor o expendedor en los contratos de operaciones de crédito mediante sistemas de financiación a los que se refiere este capítulo, deberá:
@@ -17384,8 +15328,6 @@ Respecto de la verificación de los límites maximos legales de la tasa de inter
 
 (Decreto 1368 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.35.9 — Obligaciones especiales del productor o proveedor
 
 Las empresas que ofrezcan financiación al consumidor, en los términos descritos en el artículo 2.2.2.35.2. del presente Decreto deberán conservar a disposición de la Superintendencia de Industria y Comercio la historia de cada crédito que se haya otorgado, por un término mínimo de tres (3) años, contados a partir de la fecha de vencimiento del último pago. La obligación de conservación se podrá cumplir con medios tecnológicos siempre y cuando se observe lo dispuesto en la Ley 527 de 1999 y demás normas que la sustituyan o modifiquen. Lo anterior, sin perjuicio de lo consignado en las disposiciones legales vigentes sobre conservación y archivo de documentos.
@@ -17393,8 +15335,6 @@ Las empresas que ofrezcan financiación al consumidor, en los términos descrito
 PARÁGRAFO. El micro y pequeñas empresas, definidas por la Ley 590 de 2000, deberán conservar la historia del crédito por un término de un (1) año, a partir de la fecha de vencimiento del último pago.
 
 (Decreto 1368 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.35.10 — Sistemas de financiación que utilizan tablas con factores determinados
 
@@ -17406,8 +15346,6 @@ Para ofrecer sistemas de financiación utilizando una tabla con factores determi
 
 (Decreto 1368 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.35.11 — Sanciones
 
 En caso de incumplimiento de las disposiciones establecidas en el presente capítulo, la Superintendencia de Industria y Comercio impondrá las sanciones previstas en la Ley 1480 de 2011.
@@ -17418,8 +15356,6 @@ CAPÍTULO 36
 
 PUBLICIDAD ALUSIVA A CUALIDADES, CARACTERÍSTICAS O ATRIBUTOS AMBIENTALES DE LOS PRODUCTOS
 
-ARTÍCULO
-
 ## art:2.2.2.36.1 — Objeto
 
 El presente capítulo tiene por objeto establecer los requisitos que deberá cumplir la publicidad alusiva a cualidades, características o atributos ambientales de los productos que generen beneficios ambientales.
@@ -17428,15 +15364,11 @@ PARÁGRAFO. Las cualidades, características o atributos ambientales de un produ
 
 (Decreto 1369 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.36.2 — Ámbito de aplicación
 
 El presente capítulo se aplicará a todas las personas naturales y jurídicas que desarrollen actividades publicitarias alusivas a las cualidades, características o atributos ambientales de los productos.
 
 (Decreto 1369 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.36.3 — Requisitos
 
@@ -17456,8 +15388,6 @@ La publicidad de las cualidades, características o atributos ambientales de cua
 
 (Decreto 1369 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.36.4 — Reglamentación de las cualidades, características o atributos ambientales
 
 Para efectos de lo dispuesto en el presente capítulo el Ministerio de Ambiente y Desarrollo Sostenible establecerá las definiciones y los requisitos que deberán aplicarse para anunciar un producto que genere beneficios ambientales.
@@ -17465,8 +15395,6 @@ Para efectos de lo dispuesto en el presente capítulo el Ministerio de Ambiente 
 Previa expedición, las definiciones y requisitos establecidos por el Ministerio de Ambiente y Desarrollo Sostenible, deberán surtir el proceso de notificación internacional, a través del Punto de Contacto, ante la Organización Mundial del Comercio y demás socios comerciales.
 
 (Decreto 1369 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.36.5 — Competencia
 
@@ -17478,8 +15406,6 @@ CAPÍTULO 37
 
 VENTAS QUE UTILIZAN METODOS NO TRADICIONALES Y LAS VENTAS A DISTANCIA
 
-ARTÍCULO
-
 ## art:2.2.2.37.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar:
@@ -17490,8 +15416,6 @@ El presente capítulo tiene por objeto reglamentar:
 
 (Decreto 1499 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.37.2 — Ámbito de aplicación
 
 El presente capítulo es aplicable a las relaciones de consumo que se efectuen a través de ventas a distancia o de aquellas que utilizan metodos no tradicionales.
@@ -17499,8 +15423,6 @@ El presente capítulo es aplicable a las relaciones de consumo que se efectuen a
 PARÁGRAFO. Las disposiciones contenidas en el presente capítulo no son aplicables a las relaciones de consumo respecto de las cuales exista regulación especial en materia de ventas a distancia o ventas que utilizan metodos no tradicionales.
 
 (Decreto 1499 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.37.3 — Modalidades de ventas que utilizan metodos no tradicionales
 
@@ -17516,8 +15438,6 @@ PARÁGRAFO. El vendedor, al entrar en contacto con el consumidor, deberá inform
 
 (Decreto 1499 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.37.4 — Ventas no tradicionales por abordaje intempestivo
 
 Se considera que existio una venta no tradicional por abordaje intempestivo cuando, sin ser propiciado por el consumidor, el primer contacto entre este y el vendedor se da por fuera del establecimiento de comercio, aún cuando la operación se concluya en el establecimiento de comercio del vendedor o en instalación provisional o temporal acondicionada para el efecto.
@@ -17525,8 +15445,6 @@ Se considera que existio una venta no tradicional por abordaje intempestivo cuan
 En estos términos, se consideran ventas no tradicionales por abordaje intempestivo, entre otras situaciones, aquellas en las que el consumidor es abordado en espacios públicos abiertos o en corredores o lugares de desplazamiento público de instalaciones comerciales o institucionales, o las que usualmente ocurren para la venta de colecciones de libros o enciclopedias, revistas, suscripciones, cursos o materiales para el aprendizaje de idiomas, tiempos compartidos, planes vacacionales o de turismo, seguros, planes funerarios, acciones de clubes, afiliaciones a gimnasios, entre otros.
 
 (Decreto 1499 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.37.5 — 7.5
 
@@ -17538,15 +15456,11 @@ Ventas no tradicionales en las que el consumidor es llevado a escenarios dispues
 
 (Decreto 1499 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.37.6 — Ventas a distancia
 
 De acuerdo con lo establecido en el numeral 16 del artículo 5 de la Ley 1480 de 2011, se consideran ventas a distancia las realizadas sin que el consumidor tenga contacto directo con el producto que adquiere, a través de correo, teléfono, catalogo, comercio electrónico o con la utilización de cualquier otra técnica de comunicación a distancia.
 
 (Decreto 1499 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.37.7 — Responsabilidad
 
@@ -17555,8 +15469,6 @@ Para efectos del presente capítulo, se entenderá que las obligaciones prevista
 Respecto de las obligaciones previstas en los numerales 1 y 2 del artículo 46 de la Ley 1480 de 2011, en lo que tiene que ver con la entrega del bien o servicio y la posibilidad de presentar reclamaciones y solicitar devoluciones, el productor y el proveedor serán solidariamente responsables, de conformidad con los artículos 10 y 11 de la misma ley.
 
 (Decreto 1499 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.37.8 — 7.8
 
@@ -17587,8 +15499,6 @@ Información previa que el vendedor debe suministrar al consumidor en las transa
 12. Las clausulas y condiciones relativas a renovación automática o permanencia mínima, esta última en caso de que proceda en los términos del artículo 41 de la Ley 1480 de 2011.
 
 (Decreto 1499 de 2014, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.37.9 — Contenido mínimo de los contratos de ventas que utilizan metodos no tradicionales o a distancia
 
@@ -17624,15 +15534,11 @@ PARÁGRAFO 3. De conformidad con lo previsto en el artículo 35 de la Ley 1480 d
 
 (Decreto 1499 de 2014, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.37.10 — Registros sobre la transacción y la entrega
 
 En el evento que el consumidor requiera copia de las condiciones bajo las cuáles se celebro y ejecuto el contrato, el vendedor deberá entregarla dentro de los tres (3) días siguientes a la solicitud.
 
 (Decreto 1499 de 2014, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.37.11 — Sanciones
 
@@ -17648,15 +15554,11 @@ SECCIÓN 1
 
 RÉGIMEN LEGAL DE LAS CAMARAS DE COMERCIO
 
-ARTÍCULO
-
 ## art:2.2.2.38.1.1 — Naturaleza jurídica
 
 Las cámaras de comercio son personas jurídicas de derecho privado, de carácter corporativo, gremial y sin ánimo de lucro, administradas y gobernadas por los comerciantes matriculados en el respectivo registro mercantil que tengan la calidad de afiliados. Son creadas de oficio o a solicitud de los comerciantes mediante acto administrativo del Gobierno Nacional y adquieren personería jurídica en virtud del acto mismo de su creación, previo cumplimiento de los requisitos legales exigidos para el efecto y verificación de su sostenibilidad económica que garantice el cumplimiento eficiente de sus funciones.
 
 (Decreto 2042 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.38.1.2 — Jurisdicción
 
@@ -17666,15 +15568,11 @@ La circunscripción territorial de una Cámara de Comercio podrá comprender el 
 
 (Decreto 2042 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.38.1.3 — Sedes, seccionales y oficinas
 
 Con el objetivo de facilitar la prestación y acceso a sus servicios, las cámaras de comercio podrán abrir sedes, seccionales y oficinas en diferentes lugares, dentro de su circunscripción territorial.
 
 (Decreto 2042 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.38.1.4 — Funciones de las cámaras de comercio
 
@@ -17728,15 +15626,11 @@ Las cámaras de comercio ejercerán las funciones señaladas en el artículo 86 
 
 (Decreto 2042 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.38.1.5 — Prohibiciones a las cámaras de comercio
 
 A las cámaras de comercio les queda prohibido realizar cualquier acto u operación que no este encaminado al exclusivo cumplimiento de sus funciones. Las cámaras de comercio no podrán desarrollar ninguna actividad con fines politicos. Los miembros de Junta Directiva y los empleados de las cámaras de comercio no podrán sacar provecho o ventaja de los bienes, información, nombre o recursos de las cámaras de comercio para postularse, hacer proselitismo y obtener beneficios politicos de ninguna clase en nombre propio o de un tercero.
 
 (Decreto 2042 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.38.1.6 — Desarrollo de las funciones
 
@@ -17747,8 +15641,6 @@ Las cámaras de comercio podrán celebrar convenios entre ellas, asociarse o con
 SECCIÓN 2
 
 JUNTA DIRECTIVA
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.1 — Integración de la Junta Directiva
 
@@ -17778,23 +15670,17 @@ PARÁGRAFO 4. Las cámaras de comercio que cuenten con menos de doscientos (200)
 
 (Decreto 2042 de 2014, art. 7; Modificado por el Decreto 1995 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.38.2.2 — Integración de JuntaDirectiva2014 2018
 
 Las juntas directivas de las cámaras de comercio que se elijan para el período 2014-2018 conservarán el número de integrantes vigentes a la fecha de la expedición de la Ley 1727 de 2014.
 
 (Decreto 2042 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.38.2.3 — Representantes del Gobierno nacional
 
 Los miembros de las juntas directivas de las cámaras de comercio designados por el Gobierno Nacional son sus voceros y, por consiguiente, deberán obrar consultando la política gubernamental y el interés de las cámaras de comercio ante las cuáles actuan. Tales miembros deberán cumplir los requisitos señalados en la ley para ser afiliado o tener título profesional con al menos cinco (5) años de experiencia en actividades propias a la naturaleza y las funciones de las cámaras de comercio, y les será aplicable el régimen de inhabilidades e incompatibilidades previsto para miembros elegidos por los comerciantes afiliados, de acuerdo con lo dispuesto en la Ley 1727 de 2014.
 
 (Decreto 2042 de 2014, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.4 — Deberes de los miembros de Junta Directiva
 
@@ -17803,8 +15689,6 @@ Los miembros de las juntas directivas de las cámaras de comercio deberán velar
 PARÁGRAFO. Los miembros de la Junta Directiva y los presidentes ejecutivos, en su calidad de administradores, estarán sujetos al régimen de responsabilidad previsto en la ley y deberán conocer y respetar las responsabilidades legales y reglamentarias que impone el ejercicio de sus funciones.
 
 (Decreto 2042 de 2014, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.5 — Representante legal de persona jurídica elegida cómo miembro de Junta Directiva
 
@@ -17815,8 +15699,6 @@ En caso de existir varios representantes legales podrá asistir a las reuniones 
 Los derechos, obligaciones, inhabilidades, incompatibilidades, prohibiciones y demás limitaciones aplicables a los miembros de la Junta Directiva de la Cámara de Comercio, serán también aplicables al representante legal de la persona jurídica que sea miembro de una Junta Directiva.
 
 (Decreto 2042 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.6 — Sesiones de la Junta Directiva
 
@@ -17832,8 +15714,6 @@ PARÁGRAFO. Las juntas directivas de las cámaras de comercio podrán efectuar r
 
 (Decreto 2042 de 2014, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.38.2.7 — Período de la Junta Directiva
 
 Los miembros de la Junta Directiva tendrán un período institucional de cuatro (4) años, pudiendo ser reelegidos de manera inmediata por una sola vez.
@@ -17844,8 +15724,6 @@ PARÁGRAFO. En el evento de renuncia, vacancia automática, revocatorio total o 
 
 (Decreto 2042 de 2014, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.38.2.8 — Dignatarios
 
 El presidente y vicepresidente de cada Junta Directiva deberán elegirse entre sus miembros principales para un período institucional de un (1) año, pudiendo ser reelegidos indefinidamente, cómo también removidos en cualquier momento.
@@ -17853,8 +15731,6 @@ El presidente y vicepresidente de cada Junta Directiva deberán elegirse entre s
 El período del presidente y vicepresidente, se nuera una vez sean nombrados en la primera reunión del mes de enero de cada año. En el evento de ser reemplazados antes del vencimiento del período, los nuevos terminarán dicho período.
 
 (Decreto 2042 de 2014, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.9 — Actas
 
@@ -17864,15 +15740,11 @@ Las actas deberán ser aprobadas en la siguiente reunión o por una comisión no
 
 (Decreto 2042 de 2014, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.38.2.10 — Carácter individual de la afiliación
 
 La solicitud y trámite de afiliación a la Cámara de Comercio es de carácter individual. Estas se abstendrán de aceptar y tramitar solicitudes colectivas de afiliación.
 
 (Decreto 2042 de 2014, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.11 — Comité de afiliación
 
@@ -17882,15 +15754,11 @@ PARÁGRAFO. Los miembros de la Junta Directiva no podrán integrar el comité de
 
 (Decreto 2042 de 2014, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.38.2.12 — Afiliación por vencimiento de término
 
 Cuando la Cámara de Comercio no resuelva la solicitud de afiliación dentro del término señalado en el artículo 17 de la Ley 1727 de 2014, el solicitante adquirira automáticamente la calidad de afiliado. Sin perjuicio de lo anterior, la Cámara de Comercio deberá proceder, dentro de los tres (3) días siguientes al vencimiento de dicho término, a liquidar los derechos de afiliación, y el afiliado efectuará el pago en el término establecido en el reglamento, el cuál no podrá ser inferior a cinco (5) días hábiles. En el evento en que el comerciante no realice el pago dentro del plazo señalado, se entiende que desiste de su petición.
 
 (Decreto 2042 de 2014, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.2.38.2.13 — Revisión e impugnación de las decisiones de desafiliación en la depuración del censo electoral
 
@@ -17908,8 +15776,6 @@ SECCIÓN 3
 
 ELECCIONES
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.1 — Oportunidad de las elecciones
 
 Las elecciones de los miembros de las juntas directivas de las cámaras de comercio se llevarán a cabo cada cuatro (4) años, el primer jueves hábil del mes de diciembre del año de la elección.
@@ -17917,8 +15783,6 @@ Las elecciones de los miembros de las juntas directivas de las cámaras de comer
 La jornada electoral se llevará a cabo entre las 8: 00 a. m. y las 4: 00 p. m.
 
 (Decreto 2042 de 2014, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.2 — Inscripción de listas de candidatos
 
@@ -17950,15 +15814,11 @@ PARÁGRAFO. Los representantes legales de las personas jurídicas inscritas cóm
 
 (Decreto 2042 de 2014, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.3 — Modificación de las listas inscritas
 
 Las listas inscritas podrán ser modificadas hasta el último día hábil del mes de octubre del año de las elecciones, para lo cuál se requiere que la solicitud sea presentada por las personas que realizaron la inscripción.
 
 (Decreto 2042 de 2014, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.4 — Revisión de las listas de candidatos
 
@@ -17984,15 +15844,11 @@ PARÁGRAFO. Cuando se rechace uno o varios renglones, la lista se entenderá con
 
 (Decreto 2042 de 2014, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.5 — Remisión de las listas inscritas a la Superintendencia de Industria y Comercio
 
 De conformidad con lo establecido en el numeral 11 del artículo 10 del Decreto 4886 de 2011, el presidente ejecutivo de la Cámara de Comercio remitirá a la Dirección de Cámaras de Comercio de la Superintendencia de Industria y Comercio, a más tardar dentro de los cinco (5) días hábiles siguientes al vencimiento del plazo de inscripción, la relación de las listas de candidatos inscritos, adjuntando los correspondientes soportes, precisando justificadamente cuales han sido rechazados y los motivos de la decisión. La Dirección de Cámaras de Comercio tendrá un plazo de cinco (5) días hábiles para estudiar la conformación de las listas y ordenar de ser el caso revocar la decisión de considerar o no candidatos o listas, decisión contra la cuál no procede recurso alguno.
 
 (Decreto 2042 de 2014, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.6 — Depuración del censo para fines electorales
 
@@ -18005,8 +15861,6 @@ Publicado el Censo Electoral, y de ser necesario, la Cámara de Comercio deberá
 Cuando cómo consecuencia de la depuración o revisión del censo electoral proceda la desafiliación, la Cámara de Comercio comunicará esta decisión a cada uno de los afectados dentro de los tres (3) días hábiles siguientes a la misma.
 
 (Decreto 2042 de 2014, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.7 — Publicidad de las elecciones
 
@@ -18046,8 +15900,6 @@ PARA INFORMACION DETALLADA PODRA COMUNICARSE AL TELEFONO... O DIRIGIRSE A LA SED
 
 (Decreto 2042 de 2014, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.8 — Autoridades electorales
 
 En cada Cámara de Comercio el presidente ejecutivo será el responsable de todo el proceso electoral, incluyendo la integración y depuración del censo electoral, la inscripción de candidatos, así como de la realización del escrutinio final.
@@ -18061,8 +15913,6 @@ El presidente ejecutivo de la Cámara de Comercio dispondrá todo lo necesario p
 Si los jurados elegidos no aceptan o no se presentan a cumplir con sus funciones el día de la elección de miembros de Junta Directiva, el suplente elegido conforme a lo dispuesto en el presente artículo, ocupara su lugar.
 
 (Decreto 2042 de 2014, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.9 — Reglas adicionales para las elecciones de Junta Directiva
 
@@ -18090,15 +15940,11 @@ En ambos casos, se efectuará la identificación del sufragante al momento de la
 
 (Decreto 2042 de 2014, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.10 — Prohibición
 
 Ninguna persona que ejerza cargo público podrá participar ni hacer proselitismo en el proceso electoral de las cámaras de comercio.
 
 (Decreto 2042 de 2014, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.11 — Votación por mecanismos electrónicos
 
@@ -18113,8 +15959,6 @@ La sede virtual habilitada por la Cámara de Comercio se considerará cómo una 
 Una impresion de los resultados de la votación realizada a través de este medio se adjuntara al acta de escrutinio parcial de esa mesa con fines meramente informativos, y se tendrá cómo copia simple de los resultados originales electrónicos, que serán verificados cómo mensajes de datos, estableciendo su integridad, de conformidad con el artículo 8 de la Ley 527 de 1999.
 
 (Decreto 2042 de 2014, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.12 — Reglas para el escrutinio
 
@@ -18132,8 +15976,6 @@ Al momento de efectuarse el escrutinio deberá tenerse en cuenta lo siguiente:
 
 (Decreto 2042 de 2014, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.13 — Escrutinio y declaratoria de la elección
 
 Una vez cerrada la votación se realizará el escrutinio parcial en cada mesa y se diligenciarán y firmarán por cada jurado los formatos adoptados para el efecto. En caso de existir mesas fuera de la sede principal de la Cámara de Comercio, los formatos serán remitidos a esa sede dentro del día hábil siguiente al de la elección.
@@ -18150,15 +15992,11 @@ Superintendencia de Industria y Comercio, dentro de los tres (3) días hábiles 
 
 (Decreto 2042 de 2014, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.14 — Notificación a los elegidos y posesión
 
 El presidente ejecutivo de cada Cámara de Comercio notificara a los elegidos su designación dentro de los cinco (5) días hábiles siguientes al escrutinio final, quienes se posesionarán en la reunión de Junta Directiva ordinaria del mes siguiente a la elección.
 
 (Decreto 2042 de 2014, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.2.38.3.15 — Trámite de impugnación de las elecciones
 
@@ -18182,8 +16020,6 @@ PARÁGRAFO. La presentación de la impugnación no suspendera la posesión de lo
 
 (Decreto 2042 de 2014, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.16 — Postergación de las elecciones
 
 Cuando en una Cámara de Comercio se presenten circunstancias que evidencien actos de manipulación de la información llevada a los registros respecto de los afiliados, que afecte la transparencia, objetividad e imparcialidad del proceso electoral, la Superintendencia de Industria y Comercio podrá postergar la realización de las elecciones en cualquier Cámara de Comercio y ordenar la actualización y depuración del censo electoral. Contra esta decisión no procede recurso alguno.
@@ -18202,8 +16038,6 @@ PARÁGRAFO 3. En tales casos, los miembros de la Junta Directiva vigente al mome
 
 (Decreto 2042 de 2014, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.2.38.3.17 — Medidas cautelares de carácter electoral
 
 Las medidas cautelares de carácter electoral previstas en el inciso sexto del artículo 28 de la Ley 1727 de 2014, podrán decretarse por el Superintendente Delegado para la Protección de la Competencia de la Superintendencia de Industria y Comercio.
@@ -18214,8 +16048,6 @@ SECCIÓN 4
 
 REVISOR FISCAL
 
-ARTÍCULO
-
 ## art:2.2.2.38.4.1 — Elección y Período
 
 Cada Cámara de Comercio tendrá un revisor fiscal, persona natural o jurídica con uno o varios suplentes, elegidos en la misma oportunidad de los miembros de la Junta Directiva, por los comerciantes afiliados por la mayoría relativa de votos presentes, para períodos de cuatro (4) años, pudiendo ser reelegidos. El período del revisor fiscal coincidira con los años fiscales correspondientes.
@@ -18223,8 +16055,6 @@ Cada Cámara de Comercio tendrá un revisor fiscal, persona natural o jurídica 
 PARÁGRAFO. En el evento en que el voto en blanco obtenga la mayoría de votos, se repetira la elección por los comerciantes afiliados, de acuerdo con el procedimiento que para el efecto establezca la Junta Directiva en los términos del artículo 2.2.2.38.4.2. del presente Decreto.
 
 (Decreto 2042 de 2014, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.2.38.4.2 — Inscripción de candidatos
 
@@ -18238,8 +16068,6 @@ Dentro de los cinco (5) días hábiles siguientes al plazo señalado para la ins
 
 (Decreto 2042 de 2014, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.2.38.4.3 — Vacancia de la Revisoria Fiscal
 
 Cuando se presente la vacancia del cargo de revisor fiscal principal y suplente, se reemplazara por el candidato que le siga en orden de votación.
@@ -18247,8 +16075,6 @@ Cuando se presente la vacancia del cargo de revisor fiscal principal y suplente,
 Cuando no existan más candidatos en el orden de elección, los comerciantes afiliados realizarán una nueva elección, de acuerdo con el procedimiento que para el efecto establezca la Junta Directiva en los términos del artículo 2.2. 2.38.4.2. del presente Decreto.
 
 (Decreto 2042 de 2014, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.2.38.4.4 — Alcance de las Funciones del Revisor Fiscal
 
@@ -18263,8 +16089,6 @@ El revisor fiscal sólo podrá participar en las reuniones de Junta Directiva po
 SECCIÓN 5
 
 ESTATUTOS
-
-ARTÍCULO
 
 ## art:2.2.2.38.5.1 — Contenido
 
@@ -18306,8 +16130,6 @@ PARÁGRAFO 2. Los estatutos y sus reformas deberán ser publicados en el medio d
 
 (Decreto 2042 de 2014, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.2.38.5.2 — Aprobación de las reformas estatutarias
 
 Las reformas estatutarias de las cámaras de comercio deberán ser aprobadas con el voto favorable de por lo menos las dos terceras partes de los miembros de la Junta Directiva.
@@ -18317,8 +16139,6 @@ Las reformas estatutarias de las cámaras de comercio deberán ser aprobadas con
 SECCIÓN 6
 
 DISPOSICIONES COMUNES
-
-ARTÍCULO
 
 ## art:2.2.2.38.6.1 — Representación legal
 
@@ -18330,23 +16150,17 @@ El presidente ejecutivo asistirá a las reuniones de la Junta Directiva con voz,
 
 (Decreto 2042 de 2014, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.2.38.6.2 — Abogado de Registros Públicos
 
 Cada Cámara de Comercio deberá tener al menos un abogado titulado con tarjeta profesional vigente, vinculado laboralmente, quién será responsable de la operación jurídica de los registros públicos. Este funcionario deberá acreditar capacitación y actualizaciónes en materia de registros públicos.
 
 (Decreto 2042 de 2014, art. 48)
 
-ARTÍCULO
-
 ## art:2.2.2.38.6.3 — Contador de la Cámara de Comercio
 
 Cada Cámara de Comercio deberá tener al menos un contador público con tarjeta profesional vigente, vinculado laboralmente, encargado de las funciones contables.
 
 (Decreto 2042 de 2014, art. 49)
-
-ARTÍCULO
 
 ## art:2.2.2.38.6.4 — Trámites de registro e inscripción por medios electrónicos
 
@@ -18358,23 +16172,17 @@ Las Cámaras de Comercio, realizarán los ajustes tecnológicos necesarios a má
 
 (Decreto 2042 de 2014, art. 50; Parágrafo adicionado por el Decreto 1875 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.38.6.5 — Cancelación de matrícula mercantil con pago de años no renovados
 
 En desarrollo de lo dispuesto en el artículo 35 del Código de Comercio, la matrícula mercantil se cancelará definitivamente a solicitud de quién la haya obtenido una vez pague los derechos correspondientes a los años no renovados, los cuáles serán cobrados de acuerdo con la tarifa vigente en cada año causado.
 
 (Decreto 2042 de 2014, art. 51)
 
-ARTÍCULO
-
 ## art:2.2.2.38.6.6 — Control de homonimia
 
 En aplicación del control de homonimia establecido en el artículo 35 del Código de Comercio, se entenderá que se trata de nombres idénticos, sin tener en cuenta la actividad que desarrolla el matriculado.
 
 (Decreto 2042 de 2014, art. 52)
-
-ARTÍCULO
 
 ## art:2.2.2.38.6.7 — Vigilancia administrativa y contable de las cámaras de comercio
 
@@ -18386,15 +16194,11 @@ CAPÍTULO 39
 
 REGISTRO DE LIBROS ELECTRONICOS
 
-ARTÍCULO
-
 ## art:2.2.2.39.1 — Archivo Electrónico
 
 Para efectos del presente capítulo, se entiende por archivo electrónico cualquier documento en forma de mensaje de datos, generado, enviado, recibido, almacenado o comunicado en medios electrónicos, opticos o similares, garantizando las condiciones y requisitos para su conservación de conformidad con el artículo 12 de la Ley 527 de 1999.
 
 (Decreto 805 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.39.2 — Libros de comercio en medios electrónicos
 
@@ -18406,15 +16210,11 @@ El diligenciamiento y la veracidad de los datos de la información registrada, s
 
 (Decreto 0805 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.39.3 — Inscripción de los libros de comercio en medios electrónicos en las Cámaras de Comercio
 
 Los libros de comercio en medios electrónicos, sujetos a dicha formalidad, deberán ser inscritos en la Cámara de Comercio correspondiente al domicilio de cada comerciante y para ello, las Cámaras de Comercio a través de sus servicios registrales virtuales, habilitarán las plataformas electrónicas o sistemas de información autorizados, de conformidad con los parámetros señalados en el presente capítulo.
 
 (Decreto 0805 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.39.4 — Registro de libros de comercio en medios electrónicos
 
@@ -18444,8 +16244,6 @@ Uso al que se destina.
 
 (Decreto 0805 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.39.5 — Actuaciones sujetas a registro
 
 Cuando se trate de actas de junta de socios o de asamblea general de accionistas que contengan decisiones y/o actuaciones sujetas a registro, adicional a su asiento en el respectivo libro de manera electrónica, el comerciante deberá solicitar el registro individual de las mismas ante la correspondiente Cámara de Comercio. En todo caso, el comerciante podrá elegir entre el registro en medios electrónicos o en medios fisicos. En el evento en que este decida utilizar los medios electrónicos, deberá firmar digital o electrónicamente, a elección del comerciante, la respectiva solicitud de inscripción y el extracto o copia del acta correspondiente. Para los casos en que se elija la firma electrónica, se hará de conformidad con lo dispuesto en los artículos 2.2.2.47.1. y siguientes del presente Decreto.
@@ -18458,15 +16256,11 @@ PARÁGRAFO. La Superintendencia de Industria y Comercio fijara el procedimiento 
 
 (Decreto 0805 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.39.6 — Orden consecutivo de los registros desarrollados en los libros de comercio inscritos
 
 Para garantizar el orden en el desarrollo de los registros de los libros de comercio en medios electrónicos, se tendrá en cuenta el criterio cronologico en su asentamiento, para lo cuál las plataformas o sistemas electrónicos deberán incorporar un mecanismo de estampado cronologico, cuya fuente sea la hora legal colombiana.
 
 (Decreto 0805 de 2013, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.39.7 — Seguridad e inalterabilidad de la información
 
@@ -18482,8 +16276,6 @@ Para efectos del presente capítulo, las Cámaras de Comercio deben garantizar q
 
 (Decreto 0805 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.39.8 — Sobre la inalterabilidad, integridad y seguridad de los libros inscritos
 
 Las plataformas o sistemas electrónicos deberán incorporar un mecanismo de firma electrónica o digital, a afectos de garantizar la autenticidad, integridad e inalterabilidad de los diferentes registros efectuados por parte de quién diligencia los libros de comercio electrónicos.
@@ -18493,8 +16285,6 @@ Los libros de comercio electrónico inscritos, deberán contar en sus registros 
 Las plataformas o sistemas electrónicos, deberán garantizar el cifrado de los datos que en estos se incorporan, a efectos de lograr la confidencialidad de la información, que podrá ser consultada unica y exclusivamente por el comerciante y/o por las autoridades judiciales y administrativas que requieran dicha información para el cumplimiento de sus funciones.
 
 (Decreto 0805 de 2013, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.39.9 — Servicios de archivo y conservación de libros electrónicos
 
@@ -18508,23 +16298,17 @@ PARÁGRAFO 2. Las Cámaras de Comercio que ofrezcan este servicio deberán garan
 
 (Decreto 0805 de 2013, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.39.10 — Oponibilidad
 
 Los libros electrónicos de que trata el artículo 173 del Decreto 019 de 2012, son oponibles frente a terceros siempre que se inscriban en el registro mercantil, de conformidad con el procedimiento descrito en el presente capítulo.
 
 (Decreto 0805 de 2013, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.39.11 — Conservación de libros electrónicos
 
 El comerciante que opte por el registro de libros en medios electrónicos, de que trata el artículo 173 del Decreto 019 de 2012, deberá garantizar, en todo caso, la conservación de los mismos, durante los términos previstos legalmente para ello.
 
 (Decreto 0805 de 2013, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.39.12 — Validez probatoria de los registros de libros en medios electrónicos
 
@@ -18540,8 +16324,6 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.1 — Registro de las personas jurídicas sin ánimo de lucro
 
 Las personas jurídicas sin ánimo de lucro de que tratan los artículos 40 a 45 y 143, a 148 del Decreto 2150 de 1995, en concordancia con el artículo 146 del Decreto 019 de 2012, se inscribirán en las respectivas Cámaras de Comercio en los mismos términos, con las mismas tarifas y condiciones previstas para el registro mercantil de los actos de las sociedades comerciales.
@@ -18553,8 +16335,6 @@ PARÁGRAFO 1. Para los efectos del numeral 8 del artículo 40 del Decreto 2150 d
 PARÁGRAFO 2. Las entidades de naturaleza cooperativa, los fondos de empleados y las asociaciones mutuales, así cómo sus organismos de integración y las instituciones auxiliares del cooperativismo, para su registro presentaran, además de los requisitos generales, constancia suscrita por quién ejerza o vaya a ejercer las funciones de representante legal, según el caso, donde manifieste haberse dado acatamiento a las normas especiales legales y reglamentarias que regulen a la entidad constituida.
 
 (Decreto 427 de 1996, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.40.1.2 — Personas jurídicas sin ánimo de lucro que se deben registrar
 
@@ -18606,8 +16386,6 @@ Conforme a lo dispuesto por los artículos 40 a 45 y 143 a 148 del Decreto 2150 
 
 (Decreto 427 de 1996, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.3 — Excepciones
 
 Se exceptuan de este registro, además de las personas jurídicas contempladas en el artículo 45 del Decreto 2150 de 1995, adicionado por el artículo 1 de la ley 537 de 1999, las siguientes:
@@ -18632,8 +16410,6 @@ Se exceptuan de este registro, además de las personas jurídicas contempladas e
 
 (Decreto 427 de 1996, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.4 — Abstención de registro
 
 Las Cámaras de Comercio se abstendrán de inscribir a una persona jurídica sin ánimo de lucro, con el mismo nombre de otra entidad ya inscrita, mientras este registro no sea cancelado por orden de autoridad competente o a solicitud del representante legal de la última.
@@ -18642,15 +16418,11 @@ PARÁGRAFO. En cuánto fuere acorde con su naturaleza, las personas jurídicas a
 
 (Decreto 427 de 1996, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.5 — Publicidad del registro
 
 El registro de las personas jurídicas de que tratan los artículos 40 y 143 del Decreto 2150 de 1995 es público. Cualquier persona podrá examinar los libros y archivos en que fuere llevado, tomar anotaciones de sus asientos o actos y obtener copias o certificaciones de los mismos.
 
 (Decreto 427 de 1996, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.40.1.6 — Solicitudes en trámite
 
@@ -18658,15 +16430,11 @@ Las autoridades que venian conociendo solicitudes para el otorgamiento de person
 
 (Decreto 427 de 1996, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.7 — Inscripción de las personas jurídicas actualmente reconocidas
 
 La Inscripción de las personas jurídicas actualmente reconocidas a que se refiere el parágrafo del artículo 40 y el artículo 148 del Decreto 2150 de 1995, deberá hacerse a partir del 2 de enero de 1997, en los libros que para el efecto llevarán las cámaras de comercio.
 
 (Decreto 427 de 1996, art 7; modificado por el Decreto 2376 de 1996, art. 7; modificado por el Decreto 2574 de 1998, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.40.1.8 — Certificación y archivo
 
@@ -18676,15 +16444,11 @@ Las entidades que certificaban sobre la existencia y representación de las pers
 
 (Decreto 427 de 1996, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.9 — Lugar de inscripción
 
 La inscripción deberá efectuarse únicamente ante la Cámara de Comercio que tenga jurisdicción en el domicilio principal de la persona jurídica.
 
 (Decreto 427 de 1996, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.40.1.10 — Verificación formal de los requisitos
 
@@ -18695,8 +16459,6 @@ Para efecto de la inscripción de los demás actos y documentos de las entidades
 Las entidades de naturaleza cooperativa, los fondos de empleados y las asociaciones mutuales, inscribirán en las cámaras de comercio sus demás actos de acuerdo con las normas especiales que las regulan.
 
 (Decreto 427 de 1996, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.40.1.11 — Procedimientos y recursos
 
@@ -18710,8 +16472,6 @@ La Superintendencia de Industria y Comercio conocera de las apelaciones interpue
 
 (Decreto 427 de 1996, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.12 — Vigilancia y control
 
 Las personas jurídicas a que se refiere el presente capítulo continuarán sujetas a la inspección, vigilancia y control de las autoridades que venian cumpliendo tal función.
@@ -18720,23 +16480,17 @@ PARÁGRAFO. Para efectos de lo previsto en el presente artículo y en el artícu
 
 (Decreto 427 de 1996, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.13 — Licencia o permiso de funcionamiento
 
 Toda autorización, licencia o reconocimiento de carácter oficial se tramitara con posterioridad a la inscripción de las personas jurídicas sin ánimo de lucro en las Cámaras de Comercio, conforme a lo dispuesto por los artículos 40 y 41 del Decreto 2150 de 1995.
 
 (Decreto 427 de 1996, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.14 — Entidad encargada de supervisar el registro
 
 La Superintendencia de Industria y Comercio impartira las instrucciones dirigidas a que el registro de las personas jurídicas sin ánimo de lucro, que se realiza en las Cámaras de Comercio, se lleve de acuerdo con la Ley y los reglamentos que lo regulen, adoptando para ello, las medidas necesarias para su correcto funcionamiento.
 
 (Decreto 427 de 1996, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.40.1.15 — Informes
 
@@ -18748,8 +16502,6 @@ Los trámites de registro ante las Cámaras de Comercio, que regula este capítu
 
 (Decreto 427 de 1996, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.40.1.16 — Correo, pagos y corresponsalias
 
 Las Cámaras de Comercio estudiarán mecanismos para implementar inscripciones, solicitud de certificaciones y demás trámites, de registro por correo; hacer pagos de los derechos de registro a través de entidades financieras, especialmente las ubicadas en municipios alejados de sus sedes, mediante acuerdos con dichas entidades; y establecer corresponsalias en donde no tengan sedes.
@@ -18758,9 +16510,7 @@ Las Cámaras de Comercio estudiarán mecanismos para implementar inscripciones, 
 
 SECCIÓN 2
 
-NORMAS ESPECIALES REFERENTES A PERSONAS JURÍDICAS VIGILADAS POR EL DEPARTAMENTO ADMINISTRATIVO NACIONAL DE COOPERATIVAS. 
-
-ARTÍCULO
+NORMAS ESPECIALES REFERENTES A PERSONAS JURÍDICAS VIGILADAS POR EL DEPARTAMENTO ADMINISTRATIVO NACIONAL DE COOPERATIVAS.
 
 ## art:2.2.2.40.2.1 — Facultades de supervisión de la Superintendencia de la Economía Solidaria
 
@@ -18769,8 +16519,6 @@ Corresponde a la Unidad Administrativa Especial de Organizaciones Solidarias eje
 PARÁGRAFO. Para efectos de lo previsto en el presente artículo la Unidad Administrativa Especial de Organizaciones Solidarias acordara con cada Superintendencia las acciones que, enmarcadas en el ARTÍCULO 209 de la Constitución Política, permitan a cada organismo cumplir sus funciones y ejercer sus competencias. En desarrollo de lo anterior, Unidad Administrativa Especial de Organizaciones Solidarias podrá prestar colaboración de orden técnico a las Superintendencias.
 
 (Decreto 427 de 1996, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.40.2.2 — Reformas Estatutarias
 
@@ -18786,8 +16534,6 @@ SECCIÓN 1
 
 FOCALIZACION DE LOS PROGRAMAS DE DESARROLLO EMPRESARIAL
 
-ARTÍCULO
-
 ## art:2.2.2.41.1.1 — Garantía especial otorgada por el Fondo Nacional de Garantías
 
 En cumplimiento de lo dispuesto en el parágrafo 3 del artículo 3 de la Ley 1429 de 2010, el Fondo Nacional de Garantías S. A., ofrecera un descuento no inferior al veinte por ciento (20%) en el valor de las comisiones de las garantías que se dirijan a las empresas creadas por jovenes menores de veintiocho (28) años tecnologos, técnicos o profesionales de que trata la Ley 1429 de 2010, frente a las tarifas establecidas por el Fondo Nacional de Garantías S. A., para otros productos dirigidos a emprendedores. Lo anterior, bajo las condiciones y características especiales que establezca la Junta Directiva del fondo en la creación de este producto de garantía, que cubra el ochenta por ciento (80%) del valor del crédito requerido.
@@ -18795,8 +16541,6 @@ En cumplimiento de lo dispuesto en el parágrafo 3 del artículo 3 de la Ley 142
 La Junta Directiva del Fondo Nacional de Garantías S. A., pondrá en funcionamiento este producto de garantía dentro de los tres (3) meses siguientes al 14 de marzo de 2013.
 
 (Decreto 489 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.1.2 — Aplicación de los beneficios para sociedades creadas por menores de 28 años tecnologos, técnicos o profesionales
 
@@ -18810,8 +16554,6 @@ SECCIÓN 2
 
 APLICACIÓN PARCIAL DE LOS BENEFICIOS
 
-ARTÍCULO
-
 ## art:2.2.2.41.2.1 — Aportes a las cajas de compensación familiar
 
 En el evento en que el empresario no desee acogerse a los beneficios del artículo 5 de la Ley 1429 de 2010 con respecto al aporte para las cajas de compensación familiar, deberá manifestarlo expresamente al momento del pago de la seguridad social a través de los operadores de información de la Planilla Integrada de Liquidación de Aportes (PILA). Los trabajadores de las empresas que renuncien al beneficio del artículo 5 de la Ley 1429 de 2010 y que aporten a las cajas de compensación familiar, accederán inmediatamente a la plenitud de los servicios del sistema, incluyendo la cuota monetaria y el subsidio de vivienda que otorgan las cajas de compensación familiar
@@ -18822,23 +16564,17 @@ SECCIÓN 3
 
 FACULTADES DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
 
-ARTÍCULO
-
 ## art:2.2.2.41.3.1 — Competencias de la Superintendencia de Industria y Comercio
 
 En cumplimiento de lo dispuesto en el inciso 2 del artículo 42 de la Ley 1429 de 2010, corresponde a la Superintendencia de Industria y Comercio (SIC) impartir las instrucciones respecto de los requerimientos mínimos que deben adoptar las cámaras de comercio, a fin de prevenir fraudes en los registros públicos que administran, en procura de garantizar seguridad y confiabilidad de la información que reposa en los mismos, tanto para los usuarios del servicio de registro, cómo para los terceros a los que le son oponibles dichos actos.
 
 (Decreto 489 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.41.3.2 — Obligatoriedad de las instrucciones de la Superintendencia de Industria y Comercio
 
 Las instrucciones que imparta la Superintendencia de Industria y Comercio en desarrollo del parágrafo del artículo 2.2.2.41.1. 2., y del artículo 2.2.2.41.3.1. de este Decreto, serán de obligatorio cumplimiento para las cámaras de comercio y su inobservancia dará lugar a las sanciones previstas en el ordenamiento jurídico de conformidad con lo dispuesto en el numeral 6 del artículo 11 del Decreto número 2153 de 1992 y demás normas que los modifiquen, adicionen o complementen.
 
 (Decreto 489 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.41.3.3 — Abstención del registro
 
@@ -18850,8 +16586,6 @@ SECCIÓN 4
 
 APLICACIÓN DE PROGRESIVIDAD, CONSERVACION DE BENEFICIOS Y FUNCIÓN DE SEGUIMIENTO
 
-ARTÍCULO
-
 ## art:2.2.2.41.4.1 — Aplicación de la Progresividad
 
 Los beneficios de que tratan los artículos 5 y 7 de la Ley 1429 de 2010 tienen aplicación desde de la fecha de entrada en vigencia de la misma, esto es desde el 29 de diciembre de 2010. Las cámaras de comercio, el Servicio Nacional de Aprendizaje (SENA), el Instituto Colombiano de Bienestar Familiar (ICBF), las cajas de compensación familiar y demás entidades encargadas de efectuar los recaudos, deberán devolver a los titulares que reunen las condiciones de pequeñas empresas beneficiarias, constituidas desde el 29 de diciembre de 2010, los dineros pagados por error por concepto de matrícula mercantil, parafiscales y otras contribuciones de nómina, de conformidad con la progresividad que aplica para el primer año.
@@ -18862,23 +16596,17 @@ Es deber de la Superintendencia de Industria y Comercio (SIC) impartir las instr
 
 (Decreto 489 de 2013, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.41.4.2 — Conservación de los beneficios
 
 De conformidad con lo establecido en el artículo 8 de la Ley 1429 de 2010, los beneficios de que tratan los artículos 5 y 7 de la Ley 1429 de 2010 no podrán conservarse en el evento de incumplimiento de la renovación de la matrícula mercantil dentro de los tres primeros meses del año, el impago de los aportes al Sistema de Seguridad Social Integral y demás contribuciones de nómina y el incumplimiento de las obligaciones en materia de impuesto de renta. Este último evento se configurara a partir del incumplimiento en la presentación de las declaraciones tributarias y de los pagos de los valores en ellas determinados, cuando los mismos no se efectuen dentro de los términos legales señalados para el efecto por el Gobierno Nacional. Tratándose de otras declaraciones tributarias, será a partir del incumplimiento de cualquiera de los plazos establecidos por el Gobierno Nacional.
 
 (Decreto 489 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.41.4.3 — Traslado de información
 
 Las entidades promotoras de salud, el Sena, el ICBF, las cajas de compensación familiar, la Dian y las Cámaras de Comercio, cuando tengan conocimiento de cualquier circunstancia que de lugar al retiro de los beneficios de la Ley 1429 de 2010, deberán informar a la Unidad Administrativa Especial de Gestión Pensional y Contribuciones Parafiscales de la Protección Social (UGPP), para que dicha entidad reporte esta información de manera consolidada a las demás entidades encargadas de aplicar los beneficios y para que estas ultimas adelanten las acciones a que hubiere lugar de acuerdo con sus competencias. Este reporte de información se realizará acorde con los criterios, condiciones y periodicidad acordados previamente por dichas entidades.
 
 (Decreto 489 de 2013, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.41.4.4 — De la función de seguimiento de la UGPP
 
@@ -18891,8 +16619,6 @@ Cuando las entidades promotoras de salud, el Sena, el ICBF, las cajas de compens
 Las entidades competentes para desarrollar las actividades descritas en este artículo, prestarán colaboración a la UGPP, para que esta pueda generar los procesos de determinación y liquidación de las contribuciones parafiscales de la protección social, en los casos a que haya lugar.
 
 (Decreto 489 de 2013, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.41.4.5 — Responsables de la aplicación de las sanciones por suministro de información falsa
 
@@ -18910,8 +16636,6 @@ SECCIÓN 5
 
 EXENCION DEL PAGO EN LA MATRICULA MERCANTIL Y SU RENOVACION A PEQUEÑAS EMPRESAS JOVENES
 
-ARTÍCULO
-
 ## art:2.2.2.41.5.1 — Objeto
 
 La presente sección tiene por objeto establecer los parámetros que permitan el acceso a los beneficios previstos en el artículo 3 de la Ley 1780 de 2016 para las pequeñas empresas jovenes, en las condiciones señaladas en dicha Ley.
@@ -18919,8 +16643,6 @@ La presente sección tiene por objeto establecer los parámetros que permitan el
 El beneficio de que trata el artículo 3 de la Ley 1780 de 2016 para las pequeñas empresas jovenes consiste en la exención del pago de la matrícula mercantil y de la renovación del primer año siguiente al inicio de la actividad económica principal.
 
 (Decreto 639 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.5.2 — Beneficiarios
 
@@ -18938,8 +16660,6 @@ PARÁGRAFO 2. Las Cámaras de Comercio harán los ajustes necesarios al formular
 
 (Decreto 639 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.41.5.3 — Procedimiento para acceder a los beneficios
 
 La persona natural o jurídica que desarrolle una pequeña empresa joven en los términos del artículo 2.2.2.41. 5.2 del presente Decreto, accedera a los beneficios consagrados en el artículo 3 de la Ley 1780 de 2016, de la siguiente forma:
@@ -18954,7 +16674,7 @@ La persona natural o jurídica que desarrolle una pequeña empresa joven en los 
 
 (Decreto 639 de 2017, art. 1)
 
-ARTÍCULO
+## art:2.2.2.41.5.4 — 
 
 .2. 2.2.41.5.4 Adecuación de los sistemas de información. Dentro de los dos (2) meses siguientes a la expedición de la presente sección, las Cámaras de Comercio deberán ajustar sus sistemas informaticos y tecnológicos necesarios para el intercambio de información, así cómo adoptar los controles, medidas internas y operativas que se requieran para lograr el registro efectivo de las nuevas pequeñas empresas jovenes.
 
@@ -18963,8 +16683,6 @@ PARÁGRAFO. De manera transitoria, y hasta tanto se habiliten los sistemas infor
 (Suprimido por el Art. 1 del Decreto 1331 de 2020)
 
 (Decreto 639 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.5.5 — Obligación de verificación por parte de las cámaras de comercio
 
@@ -18980,15 +16698,11 @@ En igual sentido, las Cámaras de Comercio deberán solicitar a la persona natur
 
 (Decreto 639 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.41.5.6 — Suministro de información por parte de las Cámaras de Comercio
 
 Las Cámaras de Comercio permitirán el acceso a la información a las entidades públicas que ejercen las funciones de seguimiento, control y fiscalización, para efectos de realizar cruces, actualizaciónes y validaciones sobre las personas que han accedido al beneficio previsto en el artículo 3 de la Ley 1780 de 2016.
 
 (Decreto 639 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.5.7 — Pérdida del beneficio
 
@@ -19003,8 +16717,6 @@ En los términos del parágrafo 2 del artículo 5 de la Ley 1780 de 2016, los be
 Además de lo previsto en los literales anteriores, quienes suministren información falsa con el propósito de obtener o conservar los beneficios previstos en el artículo 3 de la Ley 1780 de 2016, deberán restituir el valor de las exenciones a las que hayan accedido, sin perjuicio de las sanciones penales correspondientes.
 
 (Decreto 639 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.5.8 — Condiciones para conservar el beneficio
 
@@ -19024,8 +16736,6 @@ PARÁGRAFO. Si en el momento de la renovación no es presentada la documentació
 
 (Decreto 639 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.41.5.9 — Exclusión de beneficios
 
 No podrán acceder ni mantener los beneficios de que trata el artículo 3 de la Ley 1780 de 2016, las personas naturales o jurídicas que desarrollen pequeñas empresas jovenes, cuando se encuentren en alguna de las siguientes situaciones:
@@ -19042,15 +16752,11 @@ No podrán acceder ni mantener los beneficios de que trata el artículo 3 de la 
 
 (Decreto 639 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.41.5.10 — Responsables de la aplicación de pérdida de beneficios por suministro de información falsa
 
 En el caso en que las pequeñas empresas jovenes suministren información falsa a las Cámaras de Comercio para acceder a los beneficios otorgados, estas deberán dar aplicación a lo establecido en el artículo 38 del Código de Comercio y, una vez determinada la falsedad por autoridad competente, deberán adelantar las actuaciones necesarias con el fin de recuperar los valores dejados de pagar.
 
 (Decreto 639 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.5.11 — Aplicación de los beneficios
 
@@ -19061,8 +16767,6 @@ Para ello las Cámaras de Comercio requerirán por correo electrónico a quienes
 Las Cámaras de Comercio tendrán el plazo de tres (3) meses a partir de la entrada en vigencia del presente Decreto para adelantar el procedimiento de devolución aquí Señalado.
 
 (Decreto 639 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.41.5.12 — Verificación de requisitos para el acceso a los beneficios
 
@@ -19075,8 +16779,6 @@ SECCIÓN6
 (Sección adicionada por el Decreto 667 de 2018, art. 1)
 
 INSCRIPCION DE LA SITUACIÓN DE CONTROL EN SOCIEDADES POR ACCIONES SIMPLIFICADAS CON ACCIONISTA UNICO PERSONA NATURAL
-
-ARTÍCULO
 
 ## art:2.2.2.41.6.1 — Inscripción de la situación de control en sociedades por acciones simplificadas con accionista único persona natural
 
@@ -19096,8 +16798,6 @@ CAPÍTULO 42
 
 BENEFICIOS DE LA LEY 1429 DE 2010
 
-ARTÍCULO
-
 ## art:2.2.2.42.1 — Beneficiarios
 
 Tendrán derecho a acogerse a los beneficios establecidos en los artículos 5 y 7 de la Ley 1429 de 2010, las personas naturales y personas jurídicas que desarrollan pequeñas empresas, cuyo personal no sea superior a 50 trabajadores y cuyos activos totales no superen cinco mil salarios mínimos mensuales legales vigentes (5.000 smmlv), que con posterioridad a la entrada en vigencia de la citada ley, se matriculen en el registro mercantil de las cámaras de comercio.
@@ -19107,8 +16807,6 @@ PARÁGRAFO. Para efectos de lo prescrito en el artículo 2 de la Ley 1429 de 201
 (Suprimido por el Art. 1 del Decreto 1331 de 2020)
 
 (Decreto 545 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.42.2 — Procedimiento para acceder a los beneficios consagrados en los artículos 5 y 7 de la Ley 1429 de 2010
 
@@ -19128,8 +16826,6 @@ En consecuencia, las Cámaras de Comercio no están autorizadas para cobrar tari
 
 (Decreto 545 de 2011, art. 2; modificado por el Decreto 489 de 2013, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.42.3 — Condiciones para conservar beneficios
 
 Para conservar los beneficios señalados en los artículos 5 y 7 de la Ley 1429 de 2010, las personas naturales y jurídicas que desarrollan la pequeña empresa en los términos previstos en el artículo 2.2.2.42.1. del presente Decreto, deberán mantener los requisitos relacionados con el nivel de activos y número de trabajadores.
@@ -19140,15 +16836,11 @@ Asimismo, el interesado o su representante legal deberá informar el incremento 
 
 (Decreto 545 de 2011, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.42.4 — Suministro de información por parte de las cámaras de comercio al Ministerio de la Protección Social
 
 Las cámaras de comercio, de conformidad con el procedimiento que determine el Ministerio de la Protección Social, remitirán a este el listado de las empresas identificadas cómo pequeñas empresas en el registro mercantil.
 
 (Decreto 545 de 2011, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.42.5 — Exclusión de la aplicación de los beneficios de los artículos 5 y 7 de la Ley 1429 de 2010
 
@@ -19178,8 +16870,6 @@ Las cámaras de comercio, en los términos establecidos en el artículo 36 del C
 
 (Decreto 545 de 2011, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.42.6 — Empresas inactivas
 
 Para efectos de la aplicación de los beneficios de que trata el parágrafo 4 del artículo 50 de la Ley 1429 de 2010, específicamente, del establecido para el pago de aportes parafiscales y otras contribuciones de nómina, se entenderá por empresas inactivas aquellas que a la fecha de entrada en vigencia de dicha ley:
@@ -19190,15 +16880,11 @@ Para efectos de la aplicación de los beneficios de que trata el parágrafo 4 de
 
 (Decreto 545 de 2011, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.42.7 — Información a suministrar para facilitar el seguimiento, control y fiscalización
 
 Las cámaras de comercio permitirán el acceso a la información a las entidades públicas que ejercen las funciones de seguimiento, control y fiscalización, a efectos de realizar los cruces, actualizaciónes y validaciones, sin costo alguno, con el propósito de dar observancia a lo previsto en la Ley 1429 de 2010, en lo que tiene que ver con las normas reglamentadas del presente capítulo, acorde con los criterios, periodicidad, condiciones y características que sean determinadas y acordadas previamente por dichas entidades.
 
 (Decreto 545 de 2011, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.42.8 — Instrucciones de la Superintendencia de Industria y Comercio
 
@@ -19210,15 +16896,11 @@ CAPÍTULO 43
 
 CONTABILIDAD Y PRESUPUESTO DE LOS RECURSOS DE ORIGEN PÚBLICO CORRESPONDIENTES A LAS FUNCIONES REGISTRALES DE LAS CAMARAS DE COMERCIO
 
-ARTÍCULO
-
 ## art:2.2.2.43.1 — Ingresos Públicos
 
 Los ingresos de origen público correspondientes a las funciones registrales de las Cámaras de Comercio previstos en la ley, y los bienes adquiridos con estos, serán contabilizados cómo activos en su balance, en la forma prevista en este capítulo. Tales bienes e ingresos están afectos a las funciones atribuidas a estas entidades por la ley o por el Gobierno Nacional en aplicación del numeral 12 del artículo 86 del Código de Comercio.
 
 (Decreto 4698 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.43.2 — Separación Contable
 
@@ -19226,23 +16908,17 @@ En el sistema de información contable de las Cámaras de Comercio se deberán r
 
 (Decreto 4698 de 2005, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.43.3 — Presupuesto Anual
 
 Las Cámaras de Comercio prepararán y aprobarán un presupuesto anual de ingresos y gastos en el que se incluirán en forma discriminada los imputables a la actividad registral. Si de dicho presupuesto resultare un remanente, las juntas directivas de las Cámaras de Comercio establecerán su destinación, bien sea para atender gastos corrientes o de inversión, de conformidad con lo dispuesto en el presente capítulo. En caso de que los gastos de inversión hubieren de realizarse a lo largo de varios ejercicios, deberán constituirse en los presupuestos anuales las reservas que correspondan.
 
 (Decreto 4698 de 2005, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.43.4 — Inversión de los Excedentes
 
 Los excedentes de liquidez generados a partir de los ingresos públicos, deberán ser administrados atendiendo criterios de liquidez y seguridad, en cuentas separadas en instituciones vigiladas por la Superintendencia Financiera de Colombia o en títulos de deuda emitidos por ellas, por la Nación o por el Banco de la República.
 
 (Decreto 4698 de 2005, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.43.5 — Aportes de Capital con Recursos Públicos
 
@@ -19252,8 +16928,6 @@ PARÁGRAFO. Todo aporte de capital con recursos de origen público en sociedades
 
 (Decreto 4698 de 2005, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.43.6 — Bienes sujetos a registro
 
 En los actos de adquisición de bienes sujetos a registro en los cuáles se empleen recursos públicos, así cómo en los registros correspondientes, deberá quedar plenamente identificado su origen y serán registrados a nombre de la correspondiente Cámara de Comercio con la anotación expresa de "recursos de origen público". 
@@ -19261,8 +16935,6 @@ En los actos de adquisición de bienes sujetos a registro en los cuáles se empl
 PARÁGRAFO. Respecto de los bienes sujetos a registro adquiridos con recursos públicos, las Cámaras de Comercio deberán adelantar los trámites correspondientes a su inscripción en el respectivo registro precisando la naturaleza de los recursos utilizados en su adquisición.
 
 (Decreto 4698 de 2005, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.43.7 — Liquidación
 
@@ -19273,8 +16945,6 @@ Cuando se disponga la liquidación de una Cámara de Comercio, la Superintendenc
 CAPÍTULO 44
 
 CREACION DE CAMARAS DE COMERCIO
-
-ARTÍCULO
 
 ## art:2.2.2.44.1 — Creación de oficio o a petición de parte
 
@@ -19300,23 +16970,17 @@ PARÁGRAFO. Las Cámaras de Comercio que se pretendan crear en los municipios lo
 
 (Decreto 1252 de 1990, art. 1; modificado por el Decreto 4 74 de 1992, arts.1 y 2)
 
-ARTÍCULO
-
 ## art:2.2.2.44.2 — Iniciativa y trámite para la creación de una nueva Cámara de Comercio
 
 La iniciativa y el trámite de creación de la nueva Cámara de Comercio, deberá estar a cargo de un Comité promotor integrado por un número de comerciantes cuya conformación deberá ceñirse a las normas que reglamentan el número de los miembros de Juntas Directivas en las Cámaras de Comercio. Cuando la creación de la Cámara de Comercio sea a iniciativa de los comerciantes, estos acompañarán copia autenticada del acta en que conste la designación del correspondiente Comité promotor.
 
 (Decreto 1252 de 1990, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.44.3 — Verificación de los requisitos de cumplimiento
 
 Los trámites para la creación de nuevas Cámaras de Comercio se surtirán ante la Superintendencia de Industria y Comercio, quién deberá verificar el cumplimiento de todos los requisitos señalados en el presente capítulo.
 
 (Decreto 1252 de 1990, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.44.4 — Junta Directiva Provisional
 
@@ -19325,8 +16989,6 @@ En el Decreto de creación de la nueva Cámara de Comercio, el Gobierno Nacional
 Los miembros así designados, deberán cumplir los requisitos mínimos legales exigidos para formar parte de la Junta Directiva.
 
 (Decreto 1252 de 1990, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.44.5 — Período de la Junta Provisional
 
@@ -19338,15 +17000,11 @@ CAPÍTULO 45
 
 JURISDICCION DE LAS CAMARAS DE COMERCIO
 
-ARTÍCULO
-
 ## art:2.2.2.45.1 — La Jurisdicción de la Cámara de Comercio Aburra Sur
 
 La jurisdicción de la Cámara de Comercio Aburra Sur comprende los municipios de Itagüí, Envigado, Sabaneta, Caldas y la Estrella, en el departamento de Antioquia.
 
 (Decreto 622 de 2000, art. 1; modificado por el Decreto 4846 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.2 — La Jurisdicción de la Cámara de Comercio de Aguachica
 
@@ -19354,15 +17012,11 @@ La jurisdicción de la Cámara de Comercio de Aguachica comprende los municipios
 
 (Decreto 622 de 2000, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.45.3 — La Jurisdicción de la Cámara de Comercio de Amazonas
 
 La jurisdicción de la Cámara de Comercio de Amazonas comprende los municipios del departamento de Amazonas.
 
 (Decreto 622 de 2000, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.45.4 — La Jurisdicción de la Cámara de Comercio de Arauca
 
@@ -19370,15 +17024,11 @@ La jurisdicción de la Cámara de Comercio de Arauca comprende los municipios de
 
 (Decreto 622 de 2000, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.45.5 — La Jurisdicción de la Cámara de Comercio de Armenia y del Quindio
 
 La jurisdicción de la Cámara de Comercio de Armenia y del Quindio comprende todos los municipios del departamento del Quindio.
 
 (Decreto 622 de 2000, art. 5; modificado por el Decreto 733 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.6 — La Jurisdicción de la Cámara de Comercio de Barrancabermeja
 
@@ -19386,15 +17036,11 @@ La jurisdicción de la Cámara de Comercio de Barrancabermeja comprende los muni
 
 (Decreto 622 de 2000, art. 6; modificado por el Decreto 2274 de 2005, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.7 — La Jurisdicción de la Cámara de Comercio de Barranquilla
 
 La Jurisdicción de la Cámara de Comercio de Barranquilla comprende todos los municipios del departamento Atlantico y los municipios de Cerro de San Antonio, Pedraza, Remolino y Sitio Nuevo, en el departamento del Magdalena.
 
 (Decreto 622 de 2000, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.45.8 — La Jurisdicción de la Cámara de Comercio de Bogotá
 
@@ -19402,15 +17048,11 @@ La Jurisdicción de la Cámara de Comercio de Bogotá comprende los municipios d
 
 (Modifica Art 8 del decreto 2210 de 2023)
 
-ARTÍCULO
-
 ## art:2.2.2.45.9 — La Jurisdicción de la Cámara de Comercio de Bucaramanga
 
 La jurisdicción de la Cámara de Comercio de Bucaramanga comprende los municipios de Bucaramanga, Aguada, Albania, Aratoca, Barbosa, Barichará, Betulia, Bolivar, Cabrera, California, Capitaneja, Carcasi, Cepita, Cerrito, Concepción, Confines, Contratación, Coromoro, Curiti, Charála, Charta, Chima, Chipata, Guacamayo, El Peñón, El Playon, Enciso, Encino, Florian, Floridablanca, Galan, Gambita, Giron, Guaca, Guadalupe, Guapota, Guavata, Güepsa, Hato, Jesús María, Jordan, La Belleza, Landazuri, La Paz, Lebrija, Los Santos, Macaravita, Malaga, Matanza, Mogotes, Molagavita, Ocamonte, Oiba, Onzaga, Palmar, Palmas del Socorro, Paramo, Piedecuesta, Pinchote, Puente Nacional, Rionegro, San Andres, San Benito, San Gil, San Joaquin, San Jose de Miranda, San Miguel, Santa Barbara, Santa Helena del Opon, Simacota, Socorro, Suaita, Sucre, Surata, Tona, Umpala, Valle de San Jose, Velez, Vetas, Villanueva y Zapatoca en el departamento de Santander.
 
 (Decreto 622 de 2000, art. 9; modificado por el Decreto 2274 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.10 — La Jurisdicción de la Cámara de Comercio de Buenaventura
 
@@ -19418,15 +17060,11 @@ La jurisdicción de la Cámara de Comercio de Buenaventura comprende el municipi
 
 (Decreto 622 de 2000, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.45.11 — La Jurisdicción de la Cámara de Comercio de Buga
 
 La jurisdicción de la Cámara de Comercio de Buga comprende los municipios de Buga, Calima - Darien, El Cerrito, Ginebra, Guacari, Restrepo, San Pedro y Yotoco, en el departamento del Valle del Cauca.
 
 (Decreto 622 de 2000, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.45.12 — La Jurisdicción de la Cámara de Comercio de Cali
 
@@ -19434,15 +17072,11 @@ La jurisdicción de la Cámara de Comercio de Cali comprende los municipios de C
 
 (Decreto 622 de 2000, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.45.13 — La Jurisdicción de la Cámara de Comercio de Cartagena
 
 La jurisdicción de la Cámara de Comercio de Cartagena comprende los municipios de Cartagena, Arjona, Arroyohondo, Calamar, Carmen de Bolivar, Clemencia, El Guamo, Mahates, María La Baja, San Cristobal, San Estanislao, San Jacinto, San Juan Nepomuceno, Santa Catalina, Santa Rosa, Soplaviento, Turbaco, Turbana y Villanueva, en el departamento de Bolivar.
 
 (Decreto 622 de 2000, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.45.14 — La Jurisdicción de la Cámara de Comercio de Cartago
 
@@ -19450,15 +17084,11 @@ La jurisdicción de la Cámara de Comercia de Cartago comprende los municipios d
 
 (Decreto 622 de 2000, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.45.15 — La Jurisdicción de la Cámara de Comercio de Casanare
 
 La jurisdicción de la Cámara de Comercio de Casanare, comprende todos los municipios del departamento de Casanare.
 
 (Decreto 622 de 2000, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.2.45.16 — La Jurisdicción de la Cámara de Comercio del Cauca
 
@@ -19466,15 +17096,11 @@ La jurisdicción de la Cámara de Comercio del Cauca, comprende todos los munici
 
 (Decreto 1350 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.17 — La Jurisdicción de la Cámara de Comercio de Chinchina
 
 La jurisdicción de la Cámara de Comercio de Chinchina, comprende los municipios de Chinchina y Palestina, en el departamento de Caldas.
 
 (Decreto 622 de 2000, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.45.18 — La Jurisdicción de la Cámara de Comercio de Cucuta
 
@@ -19482,15 +17108,11 @@ La jurisdicción de la Cámara de Comercio de Cucuta comprende los municipios de
 
 (Decreto 622 de 2000, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.2.45.19 — La Jurisdicción de la Cámara de Comercio de Dosquebradas
 
 La jurisdicción de la Cámara de Comercio de Dosquebradas, comprende el municipio de Dosquebradas en el departamento de Risaralda.
 
 (Decreto 622 de 2000, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.2.45.20 — La Jurisdicción de la Cámara de Comercio de Duitama
 
@@ -19498,15 +17120,11 @@ La jurisdicción de la Cámara de Comercio de Duitama, comprende los municipios 
 
 (Decreto 622 de 2000, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.2.45.21 — La Jurisdicción de la Cámara de Comercio de Facatativa
 
 La jurisdicción de la Cámara de Comercio de Facatativa, comprende los municipios de Facatativa, Alban, Anolaima, Beltran, Bituima, Bojaca, Cachipay, Caparrapi, Chaguani, El Peñón, El Rosal, Funza, Guayabal de Siquima, La Palma, La Peña, La Vega, Madrid, Mosquera, Nimaima, Nocaima, Sasaima, San Cayetano, San Francisco, San Juan de Rioseco, Subachoque, Supata, Topaipi, Pacho, Paime, Quebradanegra, Vergara, Viani, Villeta, Villagomez, Yacopi, Utica y Zipacon en el departamento de Cundinamarca.
 
 (Decreto 622 de 2000, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.2.45.22 — La Jurisdicción de la Cámara de Comercio de Florencia para el Caqueta
 
@@ -19514,15 +17132,11 @@ La jurisdicción de la Cámara de Comercio de Florencia para el Caqueta, compren
 
 (Decreto 622 de 2000, art. 22, modificado por el art. 1 del Decreto 2860 de 2005)
 
-ARTÍCULO
-
 ## art:2.2.2.45.23 — La Jurisdicción de la Cámara de Comercio de Girardot
 
 La Jurisdicción de la Cámara de Comercio de Girardot, Alto Magdalena y Tequendama. La Jurisdicción de la Cámara de Comercio de Girardot, Alto Magdalena y Tequendama, comprende los municipios de Girardot, Agua de Dios, Anapoima, Apulo, El Colegio, Guataqui, Jerusalen, La Mesa, Nariño, Nilo, Puli, Quipile, Ricaurte, San Antonio del Tequendama, Tena, Tocaima, Viota, en el departamento de Cundinamarca. 
 
 (Decreto 1957 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.24 — La Jurisdicción de la Cámara de Comercio de Honda, Guaduas y Norte del Tolima
 
@@ -19530,15 +17144,11 @@ La Jurisdicción de la Cámara de Comercio de Honda, Guaduas y Norte del Tolima,
 
 (Decreto 622 de 2000, art. 24; Modificado por el Decreto 1149 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.25 — La Jurisdicción de la Cámara de Comercio de Ibague
 
 La jurisdicción de la Cámara de Comercio de Ibague comprende los municipios de Ibague, Alvarado, Anzoategui, Cajamarca, Piedras, Roncesvalles, Rovira, San Antonio, Santa Isabel, Valle de San Juan y Venadillo, en el departamento del Tolima.
 
 (Decreto 622 de 2000, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.45.26 — La Jurisdicción de la Cámara de Comercio de Ipiales
 
@@ -19546,15 +17156,11 @@ La jurisdicción de la Cámara de Comercio de Ipiales comprende los municipios d
 
 (Decreto 622 de 2000, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.45.27 — La Jurisdicción de la Cámara de Comercio de La Dorada, Puerto Boyaca, Puerto Salgar y Oriente de Caldas
 
 La jurisdicción de la Cámara de Comercio de La Dorada, Puerto Boyaca, Puerto Salgar y Oriente de Caldas comprende los municipios de La Dorada, Manzanares, Marquetalia, Norcasia, Pensilvania, Samana y Victoria, en el departamento de Caldas, Puerto Boyaca en el departamento de Boyaca y Puerto Salgar, en el departamento de Cundinamarca
 
 (Decreto 622 de 2000, art. 27; modificado por el Decreto 018 de 2012, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.45.28 — La Jurisdicción de la Cámara de Comercio de Magangue
 
@@ -19562,15 +17168,11 @@ La jurisdicción de la Cámara de Comercio de Magangue comprende los municipios 
 
 (Decreto 622 de 2000, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.45.29 — La Jurisdicción de la Cámara de Comercio de Magdalena Medio y Nordeste Antioqueño
 
 La jurisdicción de la Cámara de Comercio del Magdalena Medio y Nordeste Antioqueño comprende los municipios de Puerto Berrio, Amalfi, Anori, Caracoli, Cisneros, El Bagre, La Magdalena, Maceo, Nechi, Puerto Triunfo, Puerto Nare, Remedios, San Roque, Segovia, Vegachi, Yali, Yolombo, Yondo y Zaragoza, en el departamento de Antioquia.
 
 (Decreto 622 de 2000, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.2.45.30 — La Jurisdicción de la Cámara de Comercio de Manizales por Caldas
 
@@ -19578,15 +17180,11 @@ La jurisdicción de la Cámara de Comercio de Manizales por Caldas comprende los
 
 (Decreto 622 de 2000, art. 30, modificado por el Decreto 1430 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.31 — La Jurisdicción de la Cámara de Comercio de Medellin para Antioquia
 
 La jurisdicción de la Cámara de Comercio de Medellin para Antioquia comprende los municipios de Medellin, Abriaqui, Amaga, Andes, Angelopolis, Angostura, Anza, Armenia, Barbosa, Bello, Belmira, Betania, Betulia, Briceño, Buritica, Caceres, Caicedo, Campamento, Caramanta, Carolina, Caucasia, Cañasgordas, Ciudad Bolivar, Concordia, Copacabana, Don Matias, Ebejico, Entrerrios, Fredonia, Frontino, Giralda, Girardota, Gómez Plata, Guadalupe, Heliconia, Hispania, ltuango, Jardin, Jerico, La Pintada, Liborina, Montebello, Murindo, Olaya, Peque, Pueblorrico, Sabanalarga, Salgar, San Andres, San Jeronimo, San Jose de la Montaña, San Pedro, Santa Barbara, Santa Fe de Antioquia, Santa Rosa de Osos, Santo Domingo, Sopetran, Tamesis, Taranza, Tarso, Titiribi, Toledo, Uramita, Urrao, Valdivia, Valparaiso, Venecia, Vigia del Fuerte y Yarumal, en el departamento de Antioquia.
 
 (Decreto 622 de 2000, art. 3; modificado por el Decreto 1602 de 2000, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.32 — La Jurisdicción de la Cámara de Comercio de Monteria
 
@@ -19594,15 +17192,11 @@ La jurisdicción de la Cámara de Comercio de Monteria comprende todos los munic
 
 (Decreto 622 de 2000, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.2.45.33 — La Jurisdicción de la Cámara de Comercio de Neiva
 
 La jurisdicción de la Cámara de Comercio de Neiva comprende todos los municipios del departamento del Huila.
 
 (Decreto 622 de 2000, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.2.45.34 — La Jurisdicción de la Cámara de Comercio de Ocaña
 
@@ -19610,15 +17204,11 @@ La jurisdicción de la Cámara de Comercio de Ocaña comprende los municipios de
 
 (Decreto 622 de 2000, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.2.45.35 — La Jurisdicción de la Cámara de Comercio del Oriente Antioqueño
 
 La jurisdicción de la Cámara de Comercio del Oriente Antioqueño comprende los municipios de Rionegro, Abejorral, Alejandria, Argelia, Carmen de Viboral, Cocorna, Concepción, Granada, Guarne, Guatape, La Ceja, La Union, Marinilla, Nariño, El Peñol, Retiro, San Carlos, San Francisco, San Luis, San Rafael, San Vicente, Santuario y Sonson, en el departamento de Antioquia.
 
 (Decreto 622 de 2000, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.2.45.36 — La Jurisdicción de la Cámara de Comercio de Palmira
 
@@ -19626,15 +17216,11 @@ La jurisdicción de la Cámara de Comercio de Palmira comprende los municipios d
 
 (Decreto 622 de 2000, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.2.45.37 — La Jurisdicción de la Cámara de Comercio de Pamplona
 
 La jurisdicción de la Cámara de Comercio de Pamplona comprende los municipios de Pamplona, Bochalema, Cacota, Chitaga, Cucutilla, Labateca, Mutiscua, Pamplonita, Silos y Toledo, en el departamento de Norte de Santander.
 
 (Decreto 622 de 2000, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.2.45.38 — La Jurisdicción de la Cámara de Comercio de Pasto
 
@@ -19642,15 +17228,11 @@ La jurisdicción de la Cámara de Comercio de Pasto comprende los municipios de 
 
 (Decreto 622 de 2000, art. 38; modificado por el Decreto 019 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.45.39 — La Jurisdicción de la Cámara de Comercio de Pereira
 
 La jurisdicción de la Cámara de Comercio de Pereira comprende los municipios de Pereira, Apia, Balboa, Belen de Umbria, Guatica, La Celia, La Virginia, Marsella, Mistrato, Pueblo Rico, Quinchia y Santuario, en el departamento de Risaralda.
 
 (Decreto 622 de 2000, art. 39)
-
-ARTÍCULO
 
 ## art:2.2.2.45.40 — La Jurisdicción de la Cámara de Comercio de Piedemonte Araucano
 
@@ -19658,15 +17240,11 @@ La jurisdicción de la Cámara de Comercio del Piedemonte Araucano comprende los
 
 (Decreto 622 de 2000, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.2.45.41 — La Jurisdicción de la Cámara de Comercio de Putumayo
 
 La jurisdicción de la Cámara de Comercio de Putumayo comprende los municipios de Puerto Asis, Mocoa, Orito, Puerto Caicedo, Puerto Guzman, Puerto Leguizamo, San Miguel, Villagarzon, Valle del Guamuez, Colon, Sibundoy, San Francisco y Santiago, en el departamento del Putumayo.
 
 (Decreto 622 de 2000, art. 41, modificado por el Decreto 018 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.45.42 — La Jurisdicción de la Cámara de Comercio del Choco
 
@@ -19674,15 +17252,11 @@ La jurisdicción de la Cámara de Comercio del Choco comprende todos los municip
 
 (Decreto 622 de 2000, art. 42; modificado por el Decreto 2450 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.43 — La Jurisdicción de la Cámara de Comercio de La Guajira
 
 La jurisdicción de la Cámara de Comercio de La Guajira comprende todos los municipios del departamento de La Guajira.
 
 (Decreto 622 de 2000, art. 43, modificado por el Decreto 2488 de 2001, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.44 — La Jurisdicción de la Cámara de Comercio de San Andres, Providencia y Santa Catalina Islas
 
@@ -19690,15 +17264,11 @@ La jurisdicción de la Cámara de Comercio de San Andres, Providencia y Santa Ca
 
 (Decreto 622 de 2000, art. 44; modificado por el Decreto 1754 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.45 — La Jurisdicción de la Cámara de Comercio de Santa Marta para el Magdalena
 
 La jurisdicción de la Cámara de Comercio de Santa Marta para el Magdalena comprende los municipios de Santa Marta, Aracataca, Ariguani, Cienaga, Chivolo, El Banco, El Piñón, El Reten, Fundación, Guamal, Pijiño del Carmen, Pivijay, Plato, Pueblo Viejo, Salamina, San Sebastian de Buenavista, San Zenon, Santa Ana y Tenerife, en el departamento del Magdalena.
 
 (Decreto 622 de 2000, art. 45; modificado por el Decreto 1592 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.46 — La Jurisdicción de la Cámara de Comercio de Santa Rosa de Cabal
 
@@ -19706,15 +17276,11 @@ La jurisdicción de la Cámara de Comercio de Santa Rosa de Cabal comprende el m
 
 (Decreto 622 de 2000, art. 46)
 
-ARTÍCULO
-
 ## art:2.2.2.45.47 — La Jurisdicción de la Cámara de Comercio de Sevilla
 
 La jurisdicción de la Cámara de Comercio de Sevilla comprende los municipios de Sevilla y Caicedonia, en el departamento del Valle del Cauca.
 
 (Decreto 622 de 2000, art. 47)
-
-ARTÍCULO
 
 ## art:2.2.2.45.48 — La Jurisdicción de la Cámara de Comercio de Sincelejo
 
@@ -19722,15 +17288,11 @@ La jurisdicción de la Cámara de Comercio de Sincelejo comprende los municipios
 
 (Decreto 622 de 2000, art. 48)
 
-ARTÍCULO
-
 ## art:2.2.2.45.49 — La Jurisdicción de la Cámara de Comercio de Sogamoso
 
 La jurisdicción de la Cámara de Comercio de Sogamoso comprende los municipios de Sogamoso, Aquitania, Beteitiva, Busbanza, Corrales, Cuitiva, Firavitoba, Gameza, Iza, Labranzagrande, Mangua, Mongui, Nobsa, Pajarito, Paya, Pesca, Pisba, Tibasosa, Topaga y Tata, en el departamento de Boyaca.
 
 (Decreto 622 de 2000, art. 49)
-
-ARTÍCULO
 
 ## art:2.2.2.45.50 — La Jurisdicción de la Cámara de Comercio del Sur y Oriente del Tolima
 
@@ -19738,15 +17300,11 @@ La jurisdicción de la Cámara de Comercio del Sur y Oriente del Tolima comprend
 
 (Decreto 622 de 2000, art. 50)
 
-ARTÍCULO
-
 ## art:2.2.2.45.51 — La Jurisdicción de la Cámara de Comercio de Tulua
 
 La jurisdicción de la Cámara de Comercio de Tulua comprende los municipios de Tulua, Andalucia, Bugalagrande, Bolivar, Riofrio, Trujillo y Zarzal, en el departamento del Valle del Cauca.
 
 (Decreto 622 de 2000, art. 51)
-
-ARTÍCULO
 
 ## art:2.2.2.45.52 — La Jurisdicción de la Cámara de Comercio de Tumaco
 
@@ -19754,15 +17312,11 @@ La jurisdicción de la Cámara de Comercio de Tumaco comprende los municipios de
 
 (Decreto 622 de 2000, art. 52)
 
-ARTÍCULO
-
 ## art:2.2.2.45.53 — La Jurisdicción de la Cámara de Comercio de Tunja
 
 La jurisdicción de la Cámara de Comercio de Tunja comprende los municipios de Tunja, Almeida, Arcabuco, Berbeo, Boyaca, Briceño, Buenavista, Caldas, Campohermoso, Chinavita, Chiquinquira, Chiquiza, Chitaraque, Cienega, Chivata, Chivar, Combita, Coper, Chucanta, Gachantiva, Garagoa, Guateque, Guayata, Jenesano, La Capilla, La Victoria, Los Cedros, Macanal, Maripi, Miraflores, Moniquira, Motavita, Muzo, Nuevo Colon, Oicata, Otanche, Pachavita, Páez, Pauna, Quipama, Ramiriqui, Raquira, Rondon, Saboya, Sachica, Samaca, San Eduardo, San Jose de Pare, San Luis de Gaceno, San Miguel de Serna, San Pablo de Borbur, Santa Ana, Santa María, Santa Sofia, Siachoque, Somondoco, Sora, Soraca, Sutamarchan, Sutatenza, Tenza, Tibana, Tinjaca, Toca, Togüí, Tunungua, Turmeque, Umbita, Ventaquemada, Villa de Leiva, Viracacha y Zetaquira, en el departamento de Boyaca.
 
 (Decreto 622 de 2000, art. 53)
-
-ARTÍCULO
 
 ## art:2.2.2.45.54 — La Jurisdicción de la Cámara de Comercio de Uraba
 
@@ -19770,15 +17324,11 @@ La jurisdicción de la Cámara de Comercio de Uraba comprende los municipios de 
 
 (Decreto 622 de 2000, art. 54)
 
-ARTÍCULO
-
 ## art:2.2.2.45.55 — Jurisdicción de la Cámara de Comercio de Valledupar para el Valle del Rio Cesar
 
 La jurisdicción de la Cámara de Comercio de Valledupar para el Valle del Rio Cesar comprende los municipios de Valledupar, Agustín Codazzi, Astrea, Becerril, Bosconia, Chimichagua, Chiriguana, El Copey, El Paso, La Jagua de lbirico, La Paz, Manaure Balcon del Cesar, Pueblo Bello y San Diego, en el departamento del Cesar.
 
 (Decreto 622 de 2000, art. 55; Modificado por el Decreto 857 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.45.56 — Jurisdicción de la Cámara de Comercio de Villavicencio
 
@@ -19786,19 +17336,17 @@ La jurisdicción de la Cámara de Comercio de Villavicencio comprende todos los 
 
 (Decreto 622 de 2000, art. 56, modificado por el Decreto 907 de 2000 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.45.57 — Jurisdicción de la Cámara de Comercio de San Jose
 
 La jurisdicción de la Cámara de Comercio de San Jose con sede en el municipio de San Jose del Guaviare comprende todos los municipios del departamento del Guaviare.
 
 (Decreto 588 de 2000, art. 1)
 
-Artículo 2.2.2.45.57A. Jurisdicción de la Cámara de Comercio de Soacha. La jurisdicción de la Cámara de Comercio de Soacha con sede en el municipio de Soacha, comprende ese municipio, en el departamento de Cundinamarca”
+## art:2.2.2.45.57a — Jurisdicción de la Cámara de Comercio de Soacha
+
+La jurisdicción de la Cámara de Comercio de Soacha con sede en el municipio de Soacha, comprende ese municipio, en el departamento de Cundinamarca”
 
 (Adiciona Art 3 del Decreto 2210 de 2023)
-
-ARTÍCULO
 
 ## art:2.2.2.45.58 — Municipios que se crean a partir de la expedición
 
@@ -19874,8 +17422,6 @@ Los certificados expedidos por las Cámaras de Comercio, en desarrollo de su fun
 
 (Modificado por el Art. 6 del Decreto 0045 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.2.46.1.7 — Tarifas por los servicios correspondientes al registro de proponentes
 
 Fijense las tarifas que deben sufragarse en favor de las Cámaras de Comercio, por concepto del registro de proponentes, de la siguiente manera:
@@ -19892,15 +17438,11 @@ Fijense las tarifas que deben sufragarse en favor de las Cámaras de Comercio, p
 
 (Decreto 393 de 2002, art. 29; modificado por el Decreto 1690 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.46.1.8 — Extensión de las tarifas y derechos
 
 Los conceptos previstos en el presente capítulo constituyen los únicos derechos que las Cámaras de Comercio están autorizadas para cobrar por concepto de las obligaciones legales de matrícula, renovación e inscripción en el registro mercantil y por los correspondientes al registro de proponentes. Por lo tanto, queda prohibido que bajo denominaciones diferentes u otros conceptos se cobren valores adicionales a los usuarios de estos registros.
 
 (Decreto 393 de 2002, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.2.46.1.9 — Información Pública
 
@@ -19910,15 +17452,11 @@ En atención al carácter público del boletin mensual, las Cámaras de Comercio
 
 (Decreto 393 de 2002, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.2.46.1.10 — Aproximación
 
 Las tarifas de que trata el presente capítulo expresadas en porcentaje menor o igual a 3% s. m. m. l. v. serán aproximadas al multiplo de cien (100) más cercano, las demás se aproximarán al multiplo de mil (1.000) más cercano.
 
 (Decreto 393 de 2002, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.2.46.1.11 — Confiabilidad de la información
 
@@ -19938,19 +17476,13 @@ Sección, Adicionada por el Art.1 del Decreto 1756 de 2020
 
 TARIFAS ESPECIALES DE LOS SERVICIOS. DE REGISTRO MERCANTIL
 
-ARTÍCULO
-
 ## art:2.2.2.46.2.1 — Objeto
 
 Establecer una tarifa especial para los servicios del registro mercantil que regira en el año 2021. Este beneficio de que trata el artículo 129 de la Ley 2063 de 2020, esta dirigido a las Mipymes que cumplan los requisitos previstos en este Decreto.
 
-ARTÍCULO
-
 ## art:2.2.2.46.2.2 — Beneficiarios
 
 De conformidad con el artículo 129 de la Ley 2063 de 2020, son beneficiarios de las tarifas especiales de registro mercantil las Mipymes de todos los sectores en el territorio Nacional.
-
-ARTÍCULO
 
 ## art:2.2.2.46.2.3 — Tarifas especiales para los servicios de registro mercantil
 
@@ -19972,8 +17504,6 @@ Para los efectos del presente decreto, se establecerá una tarifa especial para 
 
 PARÁGRAFO : Los descuentos previstos en los numerales del 1 al 5 del presente artículo, serán aplicables en el año 2021 para las Entidades Sin Ánimo de Lucro.
 
-ARTÍCULO
-
 ## art:2.2.2.46.2.4 — 2.4
 
 Requisitos para acceder a la tarifa especial del registro mercantil: Para acceder a la tarifa especial por los servicios de registro mercantil señalados en el presente Decreto, debe cumplir con los siguientes requisitos:
@@ -19986,8 +17516,6 @@ Requisitos para acceder a la tarifa especial del registro mercantil: Para accede
 
 PARÁGRAFO : El requisito previsto en el numeral 3 del presente artículo, sólo será exigible para los servicios de registro mercantil descritos en los numerales del 1 al 5 del artículo 2.2.2.46.2.3 del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.2.2.46.2.5 — Procedimiento
 
 Para acceder al beneficio tarifario previsto en el artículo 2.2.2.46.2.3 de este Decreto, deberán observar lo siguiente:
@@ -19998,8 +17526,6 @@ Para acceder al beneficio tarifario previsto en el artículo 2.2.2.46.2.3 de est
 
 PARÁGRAFO : Las Cámaras de Comercio deberán informar a los usuarios de la existencia de los beneficios y la forma de acceder a los mismos, de manera previa y al momento de hacer uso de los servicios de registro mercantil.
 
-ARTÍCULO
-
 ## art:2.2.2.46.2.6 — Responsabilidad por el suministro de información
 
 Las Cámaras de Comercio, en virtud de lo dispuesto en el artículo 36 del Código de Comercio, podrán exigir al comerciante que acredite la información declarada en el Registro, para hacerse acreedor al beneficio previsto en este Decreto.
@@ -20007,8 +17533,6 @@ Las Cámaras de Comercio, en virtud de lo dispuesto en el artículo 36 del Códi
 CAPÍTULO 47
 
 FIRMA ELECTRONICA
-
-ARTÍCULO
 
 ## art:2.2.2.47.1 — Definiciones
 
@@ -20024,23 +17548,17 @@ Para los fines del presente capítulo se entenderá por:
 
 (Decreto 2364 de 2012, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.47.2 — Neutralidad tecnológica e igualdad de tratamiento de las tecnologías para la firma electrónica
 
 Ninguna de las disposiciones del presente capítulo será aplicada de modo que excluya, restrinja o prive de efecto jurídico cualquier método, procedimiento, dispositivo o tecnología para crear una firma electrónica que cumpla los requisitos señalados en el artículo 7 de la Ley 527 de 1999.
 
 (Decreto 2364 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.47.3 — Cumplimiento del requisito de firma
 
 Cuando se exija la firma de una persona, ese requisito quedara cumplido en relación con un mensaje de datos si se utiliza una firma electrónica que, a la luz de todas las circunstancias del caso, incluido cualquier acuerdo aplicable, sea tan confiable cómo apropiada para los fines con los cuáles se genero o comúnico ese mensaje.
 
 (Decreto 2364 de 2012, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.47.4 — Confiabilidad de la firma electrónica
 
@@ -20058,15 +17576,11 @@ PARÁGRAFO. Lo dispuesto anteriormente se entenderá sin perjuicio de la posibil
 
 (Decreto 2364 de 2012, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.47.5 — Efectos jurídicos de la firma electrónica
 
 La firma electrónica tendrá la misma validez y efectos jurídicos que la firma, si aquella cumple con los requisitos establecidos en el artículo 2.2.2.43.3 de este Decreto.
 
 (Decreto 2364 de 2012, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.47.6 — Obligaciones del firmante
 
@@ -20086,8 +17600,6 @@ PARÁGRAFO. Se entiende que los datos de creación del firmante han quedado en e
 
 (Decreto 2364 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.47.7 — Firma electrónica pactada mediante acuerdo
 
 Salvo prueba en contrario, se presume que los mecanismos o técnicas de identificación personal o autenticación electrónica según el caso, que acuerden utilizar las partes mediante acuerdo, cumplen los requisitos de firma electrónica.
@@ -20095,8 +17607,6 @@ Salvo prueba en contrario, se presume que los mecanismos o técnicas de identifi
 PARÁGRAFO. La parte que mediante acuerdo provee los metodos de firma electrónica deberá asegurarse de que sus mecanismos son tecnicamente seguros y confiables para el propósito de los mismos. A dicha parte le corresponderá probar estos requisitos en caso de que sea necesario.
 
 (Decreto 2364 de 2012, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.47.8 — Criterios para establecer el grado de seguridad de las firmas electrónicas
 
@@ -20107,8 +17617,6 @@ Para determinar si los procedimientos, metodos o dispositivos electrónicos que 
 2. La existencia de una auditoría especializada, periódica e independiente sobre los procedimientos, metodos o dispositivos electrónicos que una parte suministra a sus clientes o terceros cómo mecanismo electrónico de identificación personal.
 
 (Decreto 2364 de 2012, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.47.9 — Uso de firmas electrónicas y digitales cómo herramienta para la transformación digital
 
@@ -20132,8 +17640,6 @@ PARÁGRAFO 3. Cuando se trate de las firmas digitales a las que se refiere el nu
 
 (Adicionado por el Art. 1 del Decreto 1789 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.47.10 — Firma electrónica o digital en desarrollo de procedimientos y trámites administrativos
 
 Para garantizar el derecho establecido en el numeral 10 del artículo 5 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, las personas tienen derecho a utilizar los mecanismos de autenticación de que trata el Título 17 de la Parte 2 del Libro 2 del Decreto 1078 de 2015 y para ello deberán realizar el registro del que trata el artículo 54 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -20150,15 +17656,11 @@ SECCIÓN 1
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.48.1.1 — Régimen de acreditación de las entidades de certificación
 
 El presente capítulo tiene por objeto definir el régimen de acreditación de las entidades de certificación, en desarrollo de lo previsto en el artículo 160 del Decreto Ley 19 de 2012.
 
 (Decreto 333 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.48.1.2 — Ámbito de aplicación
 
@@ -20171,8 +17673,6 @@ Las disposiciones contenidas en el presente capítulo se aplicarán a:
 PARÁGRAFO. Se encuentran excluidos de la aplicación de este capítulo los valores y actividades regulados en la Ley 964 de 2005.
 
 (Decreto 333 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.48.1.3 — Definiciones
 
@@ -20204,8 +17704,6 @@ Para efectos del presente capítulo se entenderá por:
 
 (Decreto 333 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.48.1.4 — Sistema confiable
 
 Los sistemas utilizados para el ejercicio de las actividades de las entidades de certificación se considerarán confiables si satisfacen los estándares técnicos nacionales e internacionales vigentes que cumplan con los criterios específicos de acreditación que para el efecto establezca el ONAC.
@@ -20215,8 +17713,6 @@ Los sistemas utilizados para el ejercicio de las actividades de las entidades de
 SECCIÓN 2
 
 DE LAS ENTIDADES DE CERTIFICACION
-
-ARTÍCULO
 
 ## art:2.2.2.48.2.1 — Acreditación de las entidades de certificación cerradas
 
@@ -20230,15 +17726,11 @@ PARÁGRAFO. Las entidades de certificación cerradas no tendrán que demostrar a
 
 (Decreto 333 de 2014, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.48.2.2 — Información en certificados
 
 Los certificados emitidos por las entidades de certificación cerradas deberán indicar expresamente que sólo podrán ser usados entre la entidad emisora y el suscriptor.
 
 (Decreto 333 de 2014, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.48.2.3 — Acreditación de las entidades de certificación abiertas
 
@@ -20270,8 +17762,6 @@ PARÁGRAFO 2. En el caso de los certificados reciprocos, se deberán acreditar a
 
 (Decreto 333 de 2014, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.48.2.4 — Patrimonio mínimo
 
 Para determinar el patrimonio mínimo sólo se tomarán en cuenta el capital suscrito y pagado, la reserva legal, el superavit por prima de colocación de acciones y se deducirán las perdidas acumuladas y las del ejercicio en curso.
@@ -20287,8 +17777,6 @@ El patrimonio mínimo deberá acreditarse:
 4. En el caso de los notarios y consules, por medio de los recursos dedicados exclusivamente a la actividad de entidad de certificación.
 
 (Decreto 333 de 2014, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.48.2.5 — Garantías
 
@@ -20338,8 +17826,6 @@ SECCIÓN 3
 
 DISPOSICIONES COMUNES
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.1 — Declaración de Prácticas de Certificación (DPC)
 
 Sin perjuicio de los demás requisitos que establezca el ONAC, el contenido de esta declaración deberá incluir al menos lo siguiente:
@@ -20380,8 +17866,6 @@ Sin perjuicio de los demás requisitos que establezca el ONAC, el contenido de e
 
 (Decreto 333 de 2014, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.2 — Infraestructura y recursos
 
 En desarrollo de lo previsto en el literal b) del ARTÍCULO 29 de la Ley 527 de 1999, la entidad de certificación deberá contar con un equipo de personas, una infraestructura fisica, tecnológica y unos procedimientos y sistemas de seguridad, tales que:
@@ -20410,8 +17894,6 @@ En desarrollo de lo previsto en el literal b) del ARTÍCULO 29 de la Ley 527 de 
 
 (Decreto 333 de 2014, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.3 — Infraestructura prestada por un tercero
 
 Cuando quiera que la entidad de certificación requiera o utilice infraestructura o servicios tecnológicos prestados por un tercero, los contratos deberán prever que su terminación esta condicionada a que la entidad haya implementado o contratado una infraestructura o servicio tecnológico que le permita continuar prestando sus servicios sin ningún perjuicio para los suscriptores.
@@ -20421,8 +17903,6 @@ Tanto el tercero cómo la entidad de certificación, deberán cumplir con los re
 La contratación de esta infraestructura o servicios no exime a la entidad certificadora de cumplir con el deber de permitir y facilitar al ONAC la realización de auditorias.
 
 (Decreto 333 de 2014, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.2.48.3.4 — Certificaciones reciprocas
 
@@ -20434,8 +17914,6 @@ Los suscriptores de los certificados reconocidos y los terceros tendrán idénti
 
 (Decreto 333 de 2014, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.5 — Auditorias
 
 De conformidad con lo dispuesto en el artículo 162 del Decreto Ley 19 de 2012, el ONAC será el encargado de realizar, directamente o a través de terceros, las auditorias a las entidades de certificación, de acuerdo con lo previsto en las reglas de acreditación y criterios específicos fijados por el ONAC. El informe dictaminara si la entidad de certificación actúa o esta en capacidad de actuar, de acuerdo con los requerimientos de la Ley 527 de 1999, lo previsto en este decreto y en las normas que los sustituyan, complementen o reglamenten.
@@ -20443,8 +17921,6 @@ De conformidad con lo dispuesto en el artículo 162 del Decreto Ley 19 de 2012, 
 Sin perjuicio de lo anterior, las entidades de certificación deberán cumplir con la auditoría de tercera parte en los términos previstos en los criterios específicos de acreditación que establezca el ONAC.
 
 (Decreto 333 de 2014, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.48.3.6 — Deberes
 
@@ -20492,8 +17968,6 @@ Además de lo previsto en el artículo 32 de la Ley 527 de 1999 modificado por e
 
 (Decreto 333 de 2014, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.7 — Responsabilidad
 
 Las entidades de certificación responderán por todos los perjuicios que causen en el ejercicio de sus actividades.
@@ -20502,15 +17976,11 @@ La entidad certificadora será responsable por los perjuicios que puedan causar 
 
 (Decreto 333 de 2014, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.8 — Cesación de actividades
 
 Las entidades de certificación acreditadas por el ONAC podrán cesar en el ejercicio de sus actividades, en las condiciones establecidas en el artículo 34 de la Ley 527 de 1999, modificado por el artículo 163 del Decreto Ley 19 de 2012 y deberán informar a ONAC y a la Superintendencia de Industria y Comercio con una antelación mínima de 30 días.
 
 (Decreto 333 de 2014, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.48.3.9 — Responsabilidad derivada de la administración de los repositorios
 
@@ -20518,23 +17988,17 @@ Cuando las entidades de certificación contraten los servicios de repositorios, 
 
 (Decreto 333 de 2014, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.10 — Responsabilidad derivada de la no revocación
 
 Una vez cumplidas las formalidades previstas para la revocación, la entidad de certificación será responsable por los perjuicios que cause la no revocación.
 
 (Decreto 333 de 2014, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.2.48.3.11 — Supervision, vigilancia y control de las entidades de certificación
 
 De acuerdo con lo previsto en el artículo 36 del Decreto 2269 de 1993 y las demás normas que lo complementen, modifiquen o adicionen, corresponde a la Superintendencia de Industria y Comercio ejercer la supervisión, vigilancia y control de las entidades de certificación.
 
 (Decreto 333 de 2014, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.2.48.3.12 — De las entidades de certificación autorizadas por la Superintendencia de Industria y Comercio
 
@@ -20556,8 +18020,6 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.49.1.1 — Objetivo
 
 El presente capítulo tiene por objeto reglamentar el Registro Único Nacional de Entidades Operadoras de Libranza o Descuento Directo (Runeol), el cuál consiste en:
@@ -20565,8 +18027,6 @@ El presente capítulo tiene por objeto reglamentar el Registro Único Nacional d
 1. La anotación electrónica que realizarán las Cámaras de Comercio de manera virtual, con el fin de darle publicidad a los operadores de libranza o descuento directo que cumplan con los requisitos establecidos en la ley, en las demás normas reglamentarias y complementarias, así cómo también a las entidades administradoras de créditos de libranza a las que se les haya asignado el código único de reconocimiento a nivel nacional, y
 
 2. La anotación electrónica que realizarán las Cámaras de Comercio de manera virtual, con el fin de darle publicidad a la información de las operaciones de compra, venta y gravámenes que se hayan efectuado respecto de los derechos patrimoniales de contenido crediticio derivados de operaciones de libranza, durante el tiempo que dichas operaciones y actos jurídicos se encuentren vigentes, realizados por entidades no vigiladas por la Superintendencia Financiera de Colombia, conforme al cumplimiento de los requisitos legales.
-
-ARTÍCULO
 
 ## art:2.2.2.49.1.2 — Del Registro Único Nacional de Entidades Operadoras de Libranza o Descuento Directo (Runeol)
 
@@ -20576,13 +18036,9 @@ En el Registro Único Nacional de Entidades Operadoras de Libranza o Descuento D
 
 2. La información de las operaciones de compra, venta y gravámenes que se efectuen respecto de los derechos patrimoniales de contenido crediticio derivados de operaciones de libranza, realizados por entidades no vigiladas por la Superintendencia Financiera de Colombia, conforme lo establecido en el artículo 9 de la Ley 1902 de 2018.
 
-ARTÍCULO
-
 ## art:2.2.2.49.1.3 — Administración del Registro Único Nacional de Entidades Operadoras de Libranza o Descuento Directo
 
 En cumplimiento de lo establecido en el artículo 143 de la Ley 1753 de 2015, las Cámaras de Comercio administrán el Registro Único Nacional de Entidades Operadoras de Libranza o Descuento Directo (Runeol), y son las entidades autorizadas por mandato de la ley para dar publicidad al Código único de Reconocimiento asignado a la entidad operadora de libranza o descuento directo y al código único que se asigne a cada una de las operaciones mencionadas en el numeral 2 del artículo 2.2.2.49.1.2 de este Decreto.
-
-ARTÍCULO
 
 ## art:2.2.2.49.1.4 — 1.4
 
@@ -20612,13 +18068,9 @@ SECCIÓN 2
 
 TRÁMITE IPARA LA ANOTACIÓN EN EL RIEGISTRO UNICO NACIONAL DE ENTIDADES OPERADORAS DE LIBRANZA O DESCUENTO DIRECTO (RUNEOL)
 
-ARTÍCULO
-
 ## art:2.2.2.49.2.1 — 2.1
 
 Registro de usuarios para el uso de la plataforma electrónica del Registro Único Nacional de Entidades Operadoras de Libranzas. Las Entidades Operadoras de Libranza solicitarán a la Cámara de Comercio las anotaciones electrónicas de su inscripción, actualización, renovación o cancelación voluntaria a través del servicio electrónico dispuesto para ello en la página web del Registro Único Empresarial y Social (RUES). Para el uso de la plataforma, los operadores de libranza deberán crear previamente una cuenta de usuario que permitirá validar su acceso al servicio, así cómo verificar la identidad del sujeto que realiza la transacción.
-
-ARTÍCULO
 
 ## art:2.2.2.49.2.2 — Requisitos generales para la anotación electrónica en el Runeol
 
@@ -20631,8 +18083,6 @@ Para efectos de la anotación electrónica en el Runeol, el operador deberá cum
 PARÁGRAFO 1. Para que proceda la anotación electrónica de inscripción en el Runeol, toda entidad operadora de libranzas deberá indicar en su objeto social la realización de operaciones de libranza, el origen licito de sus recursos y cumplir con las demás exigencias legales vigentes para ejercer la actividad comercial.
 
 PARÁGRAFO 2. Las entidades operadoras de libranza que por su naturaleza jurídica o su régimen especial no se inscriben en el Registro Mercantil o en el Registro de Entidades sin Ánimo de Lucro que llevan las Cámaras de Comercio, deberán acreditar su existencia y representación legal con el certificado o documento equivalente expedido por la entidad que reconoce su personería jurídica, con una vigencia no superior a treinta (30) días.
-
-ARTÍCULO
 
 ## art:2.2.2.49.2.3 — Solicitud de anotación electrónica de inscripción en el Runeol
 
@@ -20664,8 +18114,6 @@ Para el caso de los patrimonios autónomos, dicho requisito se cumplirá con la 
 
 A cada entidad operadora de libranza o de descuento directo que cumpla con todos los requisitos, se le asignara un código único de reconocimiento a nivel nacional, el cuál contendrá cómo parte principal el Número de Identificación Tributaria (NIT), y se le abrira un expediente virtual en el cuál se archivarán los documentos relacionados con su anotación electrónica de inscripción como operador. Por lo tanto, ningún operador podrá identificarse con un código único de reconocimiento diferente al asignado.
 
-ARTÍCULO
-
 ## art:2.2.2.49.2.4 — Verificación de información
 
 Las Cámaras de Comercio deberán verificar la vigencia de la certificación expedida por los bancos de datos de información financiera, crediticia, comercial y de servicios, donde se acredite la obligación de reportar la información de las operaciones de libranza a dichas entidades.
@@ -20678,13 +18126,9 @@ PARÁGRAFO 1. Los documentos a que se hace referencia en el presente artículo d
 
 PARÁGRAFO 2. En el caso de procesos de titularización de créditos de libranzas, las sociedades titularizadoras que tengan la calidad de entidades cesionarias deberán registrarse cómo operadoras de libranza en los casos en que no tengan un administrador de los créditos designados en el proceso de titularización correspondiente y deben recibir los pagos de manera directa. En los demás eventos el administrador será quién deba estar registrado.
 
-ARTÍCULO
-
 ## art:2.2.2.49.2.5 — Formulario Único Electrónico
 
 Las Cámaras de Comercio, adoptarán el formulario único aprobado por la Superintendencia de Industria y Comercio, para solicitar la anotación electrónica de inscripción, actualización, renovación y cancelación. Dicho formulario se entenderá incorporado al formulario de Registro Único Empresarial y Social (RUES) cómo uno de sus anexos.
-
-ARTÍCULO
 
 ## art:2.2.2.49.2.6 — 2.6
 
@@ -20702,8 +18146,6 @@ Trámite para la anotación electrónica de inscripción en el Registro Único N
 
 Una vez efectuada la anotación electrónica de inscripción del operador en el Runeol, para realizar correcciones, cambios o adicionar información al registro, el interesado deberá realizar el trámite establecido en el artículo 2.2.2.49.2.7 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.2.2.49.2.7 — Actualización de la información del Runeol
 
 Cuando se presenten cambios en los datos que obren en el Registro Único Nacional de Entidades Operadoras de Libranza o descuento directo, el operador deberá diligenciar el formulario de actualización con los datos que pretende modificar, acompañado de los documentos en formato digital pertinentes que acrediten la actualización.
@@ -20714,8 +18156,6 @@ PARÁGRAFO 1. Las sanciones en firme impuestas por las Superintendencias que ten
 
 PARÁGRAFO 2. Para efectos de la actualización del Runeol, se seguirá el trámite y términos establecidos en los numerales 1, 2, 3 y 4 del artículo 2.2.2.49.2.6 del presente decreto. Una vez transcurridos dichos términos, si la Cámara de Comercio encuentra que la solicitud se ajusta a los requerimientos exigidos, procederá con la actualización, según sea el caso.
 
-ARTÍCULO
-
 ## art:2.2.2.49.2.8 — Renovación Anual del Runeol
 
 El Registro único Nacional de Entidades Operadoras de Libranza o Descuento Directo (Runeol), tendrá una vigencia anual y deberá renovarse dentro del período comprendido entre el 1 de enero y el 31 de marzo de cada año, sin importar cuál hubiere sido la fecha de la inscripción inicial o renovación por parte del operador de libranzas o descuento directo.
@@ -20725,8 +18165,6 @@ PARÁGRAFO 1. Si el interesado no solicita la renovación del Registro Único Na
 Así, la existencia de períodos continuos de permanencia en el registro no podrá ser exigida cómo requisito para celebrar operaciones de libranza o descuento directo, sin perjuicio de que el Código Único de Reconocimiento sea solicitado nuevamente con posterioridad. La cesación de efectos antes mencionada, no afecta la obligación principal contraida entre los asalariados, contratistas, afiliados o pensionados y la entidad operadora de libranza.
 
 PARÁGRAFO 2. Para efectos de la renovación del Runeol, se seguirá el trámite y términos establecidos en los numerales 1, 2, 3 y 4 del artículo 2.2.2.49.2.6 del presente decreto. Una vez transcurridos dichos términos, si la Cámara de Comercio encuentra que la solicitud se ajusta a los requerimientos exigidos, procederá con la renovación.
-
-ARTÍCULO
 
 ## art:2.2.2.49.2.9 — Abstención de la inscripción, actualización o renovación
 
@@ -20749,8 +18187,6 @@ La Cámara de Comercio, se abstendra de realizar la inscripción, actualización
 La Cámara de Comercio informará a la entidad operadora de libranza o descuento directo, de manera virtual, las razones de la abstención; una vez el operador realice las correcciones del caso, podrá presentar nuevamente los documentos para proseguir con el trámite correspondiente. Para el efecto se surtirá el procedimiento establecido en los numerales 3 a 5 del artículo 2.2.2.49. 2.6 del presente Decreto.
 
 PARÁGRAFO. La anotación electrónica, los requerimientos y la publicidad en el Runeol, son meros actos de trámite y contra ellos no procede recurso alguno.
-
-ARTÍCULO
 
 ## art:2.2.2.49.2.10 — Causales de cancelación del código único de reconocimiento de operadores de libranza o descuento directo
 
@@ -20784,13 +18220,9 @@ PARÁGRAFO 2. La cancelación del Código Único de Reconocimiento, a través de
 
 La cancelación mencionada en el parrafo anterior no afecta la obligación principal contraida en forma anterior a la cancelación de la inscripción, entre los asalariados, contratistas, afiliados o pensionados, y la entidad operadora de libranza o descuento directo. En este evento, no le puede ser generado al deudor costos adicionales, cómo aquellos relacionados con intereses de mora, honorarios, comisiones u otros semejantes, por el tiempo en que le sea suspendido o cancelado el correspondiente Código Único de Reconocimiento a la Entidad Operadora.
 
-ARTÍCULO
-
 ## art:2.2.2.49.2.11 — Consulta del Runeol
 
 Corresponde al empleador o entidad pagadora la consulta del Runeol, con el fin de verificar la inscripción de la respectiva entidad operadora, de tal manera, que no podrá exigirle a esta última o la Cámara de Comercio constancia o prueba de tal hecho. Las cámaras de comercio no expiden certificados relacionados con las anotaciones electrónicas de este registro.
-
-ARTÍCULO
 
 ## art:2.2.2.49.2.12 — Costos de Administración del Runeol
 
@@ -20800,8 +18232,6 @@ SECCIÓN 3
 
 DEL REGISTRO DE LA INFORMACION DE LAS OPERACIONES DE COMPRA, VENTA Y, EN GENERAL, CUALQUIER NEGOCIO JURÍDICO DE TRANSFERENCIA, ASÍ CÓMO GRAVÁMENES DE LOS DERECHOS PATRIMONIALES DE CONTENIDO CREDITICIO DERIVADOS DE OPERACIONES DE LIBRANZA, REALIZADOS POR ENTIDADES NO VIGILADAS POR LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA
 
-ARTÍCULO
-
 ## art:2.2.2.49.3.1 — Registro de Operaciones
 
 De conformidad con lo dispuesto en el artículo 8 de la Ley 1902 de 2018, la obligación de anotación de las operaciones que se realicen sobre los derechos patrimoniales de contenido crediticio derivados de las operaciones de libranza, se refiere a las enajenaciones totales o parciales y a cualquier título, incluyendo la compra, venta y la constitución de gravámenes.
@@ -20809,8 +18239,6 @@ De conformidad con lo dispuesto en el artículo 8 de la Ley 1902 de 2018, la obl
 PARÁGRAFO 1. La anotación electrónica, los requerimientos y la publicidad en el Runeol de estas operaciones, son meros actos de trámite y contra ellos no procede recurso alguno.
 
 PARÁGRAFO 2. La Cámara de Comercio, se abstendra de realizar la anotación electrónica en el RUNEOL de las operaciones de compra y venta y en general, de cualquier negocio jurídico de transferencia y gravámenes de los derechos patrimoniales de contenido crediticio derivados de operaciones de libranza, realizados por entidades no vigiladas por la Superintendencia Financiera de Colombia, cuando no se suministren en forma completa, los requisitos previstos en el artículo 2.2.2. 49.3.2. del presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.2.49.3.2 — 3.2
 
@@ -20862,13 +18290,9 @@ PARÁGRAFO 2. Sera responsabilidad de la entidad operadora obtener del deudor la
 
 PARÁGRAFO 3. Toda modificación de la mencionada información deberá ser reportada por la Entidad Operadora dentro de los cinco (5) días hábiles siguientes a su ocurrencia.
 
-ARTÍCULO
-
 ## art:2.2.2.49.3.3 — Obligaciones del administrador del Runeol
 
 El administrador del Runeol asignara a cada operación de libranza un código de identificación único e irrepetible con el cual se efectuarán todas las anotaciones derivadas de la compra, venta, transferencia o constitución de gravámenes, relacionados con la misma.
-
-ARTÍCULO
 
 ## art:2.2.2.49.3.4 — Anotación de operaciones posteriores
 
@@ -20886,13 +18310,9 @@ El mencionado registro deberá efectuarse utilizando el código único de regist
 
 5. Código de registro asignado a la operación de libranza cuyos derechos patrimoniales son objeto de la compra, venta o gravamen.
 
-ARTÍCULO
-
 ## art:2.2.2.49.3.5 — Interoperabilidad con el Registro de Garantías Mobiliarias
 
 El administrador del Runeol adoptara las medidas necesarias para que el registro de un gravamen definido en el artículo 2.2.2.54.2 del presente decreto o, garantía mobiliaria sobre derechos patrimoniales de contenido crediticio derivados de operaciones de libranza sea simultáneamente inscrito en el Registro de Garantías Mobiliarias y viceversa.
-
-ARTÍCULO
 
 ## art:2.2.2.49.3.6 — Tarifas por los servicios
 
@@ -20902,15 +18322,11 @@ CAPÍTULO 50
 
 REGLAMENTACIÓN DE LA LEY 1700 DE 2013 SOBRE LAS ACTIVIDADES DE COMERCIALIZACION EN RED O MERCADEO MULTINIVEL EN COLOMBIA
 
-ARTÍCULO
-
 ## art:2.2.2.50.1 — Compensación o beneficio económico
 
 El monto de la compensación o beneficio económico que la sociedad que realice actividades multinivel le pague al vendedor independiente, de que trata el numeral 2 del artículo 2 de la Ley 1700 de 2013, deberá guardar una relación de causalidad directa con la venta de los bienes y servicios que sean objeto de la actividad de la sociedad. El solo hecho de vincular nuevas personas a la red comercial de la actividad de multinivel no podrá dar lugar a beneficio económico o compensación de ninguna naturaleza, aunque ella se realice per medio de reembolso.
 
 (Decreto 24 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.50.2 — Conocimiento de los planes de compensación y condiciones contractuales
 
@@ -20920,8 +18336,6 @@ El plan de compensaci6n deberá encontrarse a disposici6n de los vendedores inde
 
 (Decreto 24 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.50.3 — La compañía multinivel y el representante comercial
 
 Para efectos del cumplimiento de la obligación establecida en el parágrafo 1 del artículo 2 de la. Ley 1700 de 2013, tanto las compañías que ofrezcan bienes o servicios en Colombia, a través de la comercialización en red o mercadeo multinivel, cómo los representantes comerciales que desarrollen esta actividad, deben ser sociedades mercantiles constituidas de conformidad con la legislación colombiana. Las sociedades extranjeras que pretendan desarrollar directamente en Colombia la actividad de mercadeo multinivel, deberán establecer una sucursal en territorio colombiano.
@@ -20929,8 +18343,6 @@ Para efectos del cumplimiento de la obligación establecida en el parágrafo 1 d
 Las personas naturales no podrán ser representantes comerciales de sociedades extranjeras que cumplan actividades de comercialización en red o mercadeo multinivel, ni realizar directamente dichas actividades en Colombia.
 
 (Decreto 24 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.50.4 — Suspensión inmediata de la actividad de comercialización en red o mercadeo multinivel
 
@@ -20940,15 +18352,11 @@ En el evento de que exista evidencia que le permita suponer razonablemente a la 
 
 (Decreto 24 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.50.5 — Facultades administrativas de la Superintendencia de Sociedades
 
 Cuando se advierta que a través de la actividad de comercialización en red o mercadeo multinivel se realizan operaciones de captación o recaudo sin la debida autorización estatal, la Superintendencia de Sociedades ejercerá de inmediato las facultades de intervención otorgadas por el Decreto 4334 de 2008.
 
 (Decreto 24 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.50.6 — Vigilancia de la actividad multinivel
 
@@ -20962,8 +18370,6 @@ CAPÍTULO 51
 
 REVERSION DEL PAGO
 
-ARTÍCULO
-
 ## art:2.2.2.51.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene cómo objeto reglamentar las condiciones y el procedimiento para la reversión de los pagos solicitada por los consumidores según lo previsto en el artículo 51 de la Ley 1480 de 2011, cuando la adquisición de los bienes o servicios se hubiere realizado a través de mecanismos de comercio electrónico y, para tal efecto, se hubiere utilizado tarjetas de crédito, débito o cualquier otro instrumento de pago electrónico.
@@ -20975,8 +18381,6 @@ PARÁGRAFO 1. Las disposiciones previstas en el presente capítulo sólo tendrá
 PARÁGRAFO 2. Las disposiciones contenidas en el presente capítulo no son aplicables a las relaciones de consumo respecto de las cuáles exista regulación especial en materia de reversión de pagos.
 
 (Decreto 587 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.51.2 — Reversión del pago en la venta de productos
 
@@ -20994,15 +18398,11 @@ Cuando la adquisición de productos se realice mediante mecanismos de comercio e
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.3 — Reversión parcial
 
 Cuando la adquisición corresponda a varios productos, el consumidor podrá solicitar la reversión parcial del pago de aquellos respecto de los cuáles se presente alguno de los eventos mencionados en el artículo anterior. El consumidor deberá expresar de manera clara cuál es el valor por el cual se solicita la reversión, el cuál deberá corresponder al valor del producto o productos respecto de los cuáles se presenta la causal.
 
 (Decreto 587 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.51.4 — Queja ante el proveedor del bien o servicio
 
@@ -21018,8 +18418,6 @@ Cuando la identidad, dirección, teléfono y demás datos de contacto del provee
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.5 — Contenido de la queja ante el proveedor del bien o servicio
 
 La queja ante el proveedor del bien o servicio contendrá cómo mínimo:
@@ -21034,8 +18432,6 @@ La queja ante el proveedor del bien o servicio contendrá cómo mínimo:
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.6 — Notificación al emisor del instrumento de pago electrónico
 
 Dentro del mismo plazo de cinco (5) días hábiles que el consumidor tiene para presentar la queja ante el proveedor del bien o servicio, según lo dispuesto en el artículo anterior, aquel deberá notificar al emisor del instrumento de pago electrónico utilizado para realizar la compra por los canales que este disponga de la reclamación referida a la adquisición del bien o servicio. Para tal efecto, será suficiente la notificación del consumidor en la cuál se indique el hecho de haber satisfecho la obligación de devolver el bien cuando sea procedente y el soporte o constancia de presentación de la queja al proveedor. El emisor del instrumento de pago se sujetara a lo manifestado por el consumidor sobre la devolución del bien.
@@ -21043,8 +18439,6 @@ Dentro del mismo plazo de cinco (5) días hábiles que el consumidor tiene para 
 Cuando el consumidor del bien o servicio no sea el mismo titular del instrumento de pago, la notificación al emisor de dicho instrumento deberá ser presentada por el titular del producto financiero, sin perjuicio de que el consumidor deba cumplir con lo establecido en el artículo 2.2.2.51.4. y 2. 2.2.51.5. del Presente Decreto.
 
 (Decreto 587 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.51.7 — Contenido de la notificación
 
@@ -21064,8 +18458,6 @@ La notificación al emisor del instrumento de pago deberá contener cómo mínim
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.8 — Trámite de la reversión del pago
 
 Una vez presentada la solicitud de reversión ante el emisor del instrumento de pago electrónico utilizado, los participantes del proceso de pago dispondrán de un término de quince (15) días hábiles para hacerla efectiva. Para el efecto, cuando el emisor del instrumento de pago realice la reversión, verificará por una sola vez por solicitud la existencia de fondos en la respectiva cuenta y procederá a efectuar los descuentos de acuerdo con el orden cronologico en que fueron presentadas las notificaciones a las que hace alusion el artículo 2.2.2.51.6. del presente Decreto. En contra de la solicitud de reversión del pago será oponible la inexistencia de la operación, la inexistencia de fondos, y la omision de informar la causal alegada y que sustenta la solicitud de la reversión. La reversión de la transacción se hará de manera parcial cuando no existan recursos suficientes en la cuenta del proveedor. En estos casos, el proveedor deberá reembolsar directamente al consumidor del producto el valor de la transacción o el monto faltante. En todo caso, el emisor del instrumento de pago deberá informar de ello al consumidor.
@@ -21076,23 +18468,17 @@ PARÁGRAFO 2. Los participantes en el proceso de pago deberán tener a disposici
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.9 — Controversia derivada de la solicitud de reversión del pago
 
 Además de lo dispuesto en el inciso tercero del artículo 51 de la Ley 1480 de 2011, en el evento en que hubiere alguna controversia derivada de la reclamación de reversión del pago y siempre que hubiere pronunciamiento de una autoridad jurisdiccional o administrativa en firme que determine que la misma no era procedente, el consumidor será responsable por todos los costos en que se haya incurrido con ocasión de la reversión. En este caso, el emisor del instrumento de pago, en conjunto con los demás participantes del proceso de pago, una vez notificada la decisión de la autoridad jurisdiccional o administrativa en firme, cargara definitivamente la transacción reclamada al consumidor y el dinero será puesto a disposición del proveedor, siempre que en la cuenta de ahorros, tarjeta de crédito o instrumento de pago utilizado para realizar la compra objetada, existan recursos para efectuarla. La entidad financiera verificará por una sola vez la existencia de recursos y el cargo puede ser parcial en el evento que estos no sean suficientes. En estos casos, el consumidor deberá reembolsar directamente al proveedor del producto el valor de la transacción, o el monto faltante, y los demás costos a que hace referencia esta artículo.
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.10 — Devolución del precio pagado
 
 En caso de que proceda la reversión del pago por parte del emisor del instrumento de pago y el proveedor haya realizado directamente la devolución del precio pagado, el consumidor será responsable de devolver los recursos directamente al proveedor.
 
 (Decreto 587 de 2016 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.51.11 — Derecho a reversar los pagos correspondientes a obligaciones de cumplimiento periódico
 
@@ -21108,23 +18494,17 @@ El trámite de la reversión del pago, la devolución del dinero pagado y las co
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.12 — Deber de informar al consumidor sobre los términos del procedimiento
 
 Los participantes del proceso de pago diseñarán e implementarán mecanismos idóneos para informar a los consumidores sobre el procedimiento para la reversión del pago e informarán por sus canales de atención los requisitos y términos de dicho procedimiento. La información suministrada al consumidor deberá expresar de manera clara la posibilidad de cargar definitivamente la transacción reclamada, cuando medie decisión administrativa o jurisdiccional en su contra, en los términos del artículo 51 de la Ley 1480 de 2011 y del presente capítulo.
 
 (Decreto 587 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.51.13 — Mala fe del consumidor
 
 En caso de que dentro del proceso suscitado por controversias en la solicitud y trámite de la reversión del pago en los términos del artículo 51 de la Ley 1480 de 2011 y de este capítulo resulte demostrada la mala fe por parte del consumidor, la Superintendencia de Industria y Comercio podrá imponer sanciones pecuniarias hasta por mil trescientos quince coma siete (J3J5, 7 unidades de valor tributario (UVT).
 
 (Artículo MODIFICADO por el Art. 45 del Decreto 2642 de 2022)
-
-ARTÍCULO
 
 ## art:2.2.2.51.14 — Sanciones
 
@@ -21134,8 +18514,6 @@ El incumplimiento de lo establecido en este Capítulo dará lugar a la aplicaci�
 
 CAPÍTULO 52
 
-ARTÍCULO
-
 ## art:2.2.2.52.1 — Objeto
 
 El objeto del presente capítulo es establecer el procedimiento que debe cumplir cualquiera de los miembros de la cadena de producción, distribución y comercialización que tenga conocimiento de la existencia de un bien defectuoso, y que por esta condición haya producido o pueda producir un adverso que atente contra la salud, la vida o la seguridad de las personas, así cómo señalar las medidas correctivas que deben tomar, sin perjuicio de aquellas puedan adoptar otras autoridades competentes, con la finalidad de garantizar la seguridad a la población ante la posible ocurrencia de los riesgos descritos.
@@ -21143,8 +18521,6 @@ El objeto del presente capítulo es establecer el procedimiento que debe cumplir
 PARÁGRAFO. Las disposiciones del presente capítulo no incluyen a los productos que por su naturaleza son nocivos para la salud; sin embargo, cuando estos presenten un defecto, se sometera a la regla general.
 
 (Decreto 679 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.52.2 — 2.2
 
@@ -21165,8 +18541,6 @@ Determinación del conocimiento del posible defecto por parte del miembro de la 
 PARÁGRAFO. La autoridad competente, en cada caso, evaluará la debida diligencia del miembro de la cadena al momento en que debio conocer de cualquiera de las situaciones descritas anteriormente, de acuerdo con su condición de fabricante, importador o comercializador.
 
 (Decreto 679 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.52.3 — 2.3
 
@@ -21191,8 +18565,6 @@ Los miembros de la cadena de producción, distribución y comercialización que 
 En todo caso, la Superintendencia de Industria y Comercio podrá solicitar y verificar la información antes mencionada, así cómo tomar las medidas adicionales necesarias que considere pertinentes.
 
 (Decreto 679 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.52.4 — Medidas inmediatas de prevención del evento adverso
 
@@ -21222,8 +18594,6 @@ El miembro de la cadena de producción, distribución o comercialización que te
 
 (Decreto 679 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.52.5 — Medidas inmediatas de prevención para productos no despachados o comercializados
 
 En concordancia con el artículo anterior, el productor, importador, distribuidor o comercializador deberá tomar las medidas necesarias para garantizar que las unidades del producto que no hayan sido despachadas o comercializadas y que estén en su poder no sean puestas en el mercado. Para ello, aislara y marcara el bien de forma tal que asegure de manera efectiva que dichas unidades no serán erroneamente comercializadas.
@@ -21231,8 +18601,6 @@ En concordancia con el artículo anterior, el productor, importador, distribuido
 Igualmente, el productor o importador deberá informar a su vez a los distribuidores, comercializadores y puntos de venta final al público sobre la exigencia de aislamiento y marcación de las unidades de productos existentes en su poder. Sera responsabilidad del productor o importador establecer el procedimiento para recoger y aislar en condiciones apropiadas las unidades de producto defectuoso y asumir los costos en que se incurra para tal efecto.
 
 (Decreto 679 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.52.6 — Medidas respecto de productos despachados o comercializados
 
@@ -21244,15 +18612,11 @@ La intensidad y frecuencia de la publicación en los medios idóneos de comunica
 
 (Decreto 679 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.52.7 — Medidas respecto de los productos aislados y recogidos
 
 Una vez se tengan identificadas y aisladas las unidades de producto defectuoso, el productor o el importador procederá a destruirlos o, si es posible, a corregir el defecto de tal manera que asegure la eliminación del riesgo para salud, la vida o la integridad de los consumidores.
 
 (Decreto 679 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.52.8 — Base de datos de alertas por productos defectuosos
 
@@ -21270,13 +18634,9 @@ La Superintendencia de Industria y Comercio, en su página web pondrá al servic
 
 (Decreto 679 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.52.9 — Medidas de control
 
 Sin perjuicio del deber de informar a la Superintendencia de. Industria y Comercio y de la vigilancia que de oficio realice esta autoridad, la Superintendencia podrá, en cualquier momento, requerir al productor, importador, distribuidor o comercializador de un producto defectuoso para verificar la adopción de todas las medidas aplicables previstas en este capítulo y evaluar el resultado al que debe llegarse, fijar el' plazo para alcanzarlo, y brindar las recomendaciones que considere pertinentes.
-
-ARTÍCULO
 
 ## art:2.2.2.52.10 — Sanciones
 
@@ -21290,13 +18650,9 @@ Capítulo Modificado por el Art.1 del Decreto 1154 de 2020
 
 DE LA CIRCULACION DE LA FACTURA ELECTRONICA DE VENTA CÓMO TÍTULO VALOR
 
-ARTÍCULO
-
 ## art:2.2.2.53.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la circulación electrónica de la factura electrónica de venta cómo título valor.
-
-ARTÍCULO
 
 ## art:2.2.2.53.2 — Definiciones
 
@@ -21334,13 +18690,9 @@ Es un mensaje de datos que se registra en el Registro de factura electrónica de
 
 16. Representante: Es la persona natural o jurídica que, en virtud de un contrato de representación, mandato u otra calidad similar, esta autorizada por un usuario del RADIAN para consultar la trazabilidad y registrar eventos relacionados con la circulación de la factura electrónica de venta como título valor, siempre que se acredite dicha situación, conforme a lo dispuesto por el artículo 640 del Código de Comercio. Los representantes legales de sociedades y los factores se reputarán autorizados, por el sólo hecho de su nombramiento, para suscribir títulos valores a nombre de las entidades que administren, de conformidad con lo dispuesto en el artículo 941 del Código de Comercio.
 
-ARTÍCULO
-
 ## art:2.2.2.53.3 — Ámbito de aplicación
 
 El presente capítulo le será aplicable a las facturas electrónicas de venta como título valor, que sean registradas en el RADIAN y que tengan vocación de circulación, y a todos los sujetos involucrados o relacionados con la misma.
-
-ARTÍCULO
 
 ## art:2.2.2.5.4 — Aceptación de la factura electrónica de venta cómo título valor
 
@@ -21356,13 +18708,9 @@ PARÁGRAFO 2. El emisor o facturador electrónico deberá dejar constancia Elect
 
 PARÁGRAFO 3. Una vez la factura electrónica de venta cómo título valor sea aceptada, no se podrá efectuar inscripciones de notas débito o notas crédito, asociadas a dicha factura.
 
-ARTÍCULO
-
 ## art:2.2.2.53.5 — Usuarios autorizados del RADIAN
 
 Además de los sujetos determinados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, serán sujetos autorizados para participar e interactuar con el RADIAN, en el rol de consulta y registro, los proveedores tecnológicos, los sistemas de negociación electrónica y las autoridades administrativas con funciones jurisdiccionales, en los términos y condiciones establecidos en este decreto.
-
-ARTÍCULO
 
 ## art:2.2.2.53.6 — Circulación de la factura electrónica de venta cómo título valor
 
@@ -21374,8 +18722,6 @@ PARÁGRAFO 1. Para efectos de la circulación de la factura electrónica de vent
 
 PARÁGRAFO 2. La circulación de la factura electrónica de venta cómo título valor, cuyo plazo para el pago se encuentre vencido, deberá registrarse en el RADIAN cómo un endoso con efectos de cesión ordinaria, conforme a lo establecido en el inciso segundo del artículo 660 del Código de Comercio.
 
-ARTÍCULO
-
 ## art:2.2.2.53.7 — Registro de eventos asociados a la factura electrónica de venta cómo título valor en el RADIAN
 
 Las facturas electrónicas de venta aceptadas y que tengan vocación de Circulación, deberán ser registradas en el RADIAN por el emisor o facturador electrónico. Así mismo, deberán registrarse todos los eventos asociados con la factura electrónica de venta cómo título valor.
@@ -21383,8 +18729,6 @@ Las facturas electrónicas de venta aceptadas y que tengan vocación de Circulac
 Los usuarios del RADIAN podrán registrar eventos directamente, o a través de sus representantes, siempre que se cuente con la infraestructura, servicios, sistemas y/o procedimientos que se ajusten a las condiciones , términos y mecanismos técnicos y tecnológicos señalados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, y se ofrezcan plenas garantías de seguridad en la gestión de la información.
 
 En los casos en los que el usuario no cuente con los medios para garantizar lo dispuesto en el inciso anterior, podrá registrar eventos a través de intermediarios, tales cómo proveedores tecnológicos, sistemas de negociación electrónica o factores, según lo permita la normativa vigente.
-
-ARTÍCULO
 
 ## art:2.2.2.53.8 — Requisitos comunes a los usuarios que registrán eventos en el RADIAN
 
@@ -21398,13 +18742,9 @@ La Unidad Administrativa Dirección de Impuestos y Aduanas Nacionales - DIAN, ad
 
 PARÁGRAFO TRANSITORIO. Para efectos del cumplimiento de lo dispuesto en el numeral 2 del presente artículo, los usuarios que soliciten el rol de registro, tendrán plazo hasta el 31 de diciembre de 2021.
 
-ARTÍCULO
-
 ## art:2.2.2.53.9 — Registro de eventos por parte de proveedores tecnológicos
 
 El administrador del RADIAN le reconocerá el rol de registro de eventos a los proveedores tecnológicos habilitados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas nacionales - PIAN, siempre que cumplan los requisitos establecidos en el artículo 2.2.2.53.8.
-
-ARTÍCULO
 
 ## art:2.2.2.53.10 — Reglas particulares de los sistemas de negociación electrónica
 
@@ -21454,23 +18794,17 @@ PARÁGRAFO 1. Dentro de los seis (6) meses siguientes a la entrada en vigor del 
 
 PARÁGRAFO 2. Los usuarios de los sistemas de negociación electrónica podrán elegir aquel que les brinde el portafolio de servicios que se ajuste a sus necesidades y podrán cambiarse cuando así lo consideren, sin limitación alguna.
 
-ARTÍCULO
-
 ## art:2.2.2.53.11 — Limitaciones a la circulación de la factura electrónica de venta cómo título valor
 
 Serán limitaciones a la circulación de la factura electrónica de venta cómo título valor las medidas ordenadas por autoridades competentes y que se encuentren registradas en el RADIAN.
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN establecerá los requisitos técnicos y tecnológicos necesarios para registrar las limitaciones a la circulación de la factura electrónica de venta cómo título valor.
 
-ARTÍCULO
-
 ## art:2.2.2.53.12 — Informe para el pago
 
 El tenedor legitimo informará al adquirente/deudor/aceptante, a través del RADIAN, de la tenencia de la factura electrónica de venta cómo título valor, tres (3) días antes de su vencimiento para el pago. A partir de la información anterior, el título valor sólo podrá ser transferido nuevamente previa notificación, en el RADIAN, al adquirente/deudor/aceptante.
 
 PARÁGRAFO. En todo caso, al vencimiento para el pago, el adquirente/deudor/aceptante pagara la factura electrónica de venta cómo título valor al tenedor legitimo que se encuentre registrado en el RADIAN.
-
-ARTÍCULO
 
 ## art:2.2.2.53.13 — Pago de la factura electrónica de venta cómo título valor
 
@@ -21480,8 +18814,6 @@ Si el pago es parcial, el tenedor legitimo es quién deberá registrarlo especif
 
 PARÁGRAFO. El tenedor legitimo podrá registrar en el RADIAN los pagos totales en los casos en que el adquirente/deudor/aceptante no lo haga. Igual derecho tendrá el adquirente/deudor/aceptante respecto de los pagos parciales.
 
-ARTÍCULO
-
 ## art:2.2.2.53.14 — Exigibilidad de pago de la factura electrónica de venta cómo título valor
 
 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN establecerá, en el sistema informatico electrónico que disponga, los requisitos técnicos y tecnológicos necesarios para obtener en forma electrónica, la factura electrónica de venta cómo título valor para hacer exigible su pago.
@@ -21489,8 +18821,6 @@ La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -
 PARÁGRAFO 1. Las facturas electrónicas de venta cómo título valor podrán ser consultadas por las autoridades competentes en el RADIAN.
 
 PARÁGRAFO 2. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, en su calidad de administrador del RADIAN certificara a solicitud de las autoridades competentes o de los tenedores legitimos, la existencia de la factura electrónica de venta cómo título valor y su trazabilidad.
-
-ARTÍCULO
 
 ## art:2.2.2.53.15 — Garantías
 
@@ -21506,15 +18836,11 @@ MEDIDAS DE PROTECCION PARA EL COMPRADOR DE DERECHOS PATRIMONIALES DE CONTENIDO C
 
 OPERACIONES DE LIBRANZA A ENTIDADES NO VIGILADAS POR LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA
 
-ARTÍCULO
-
 ## art:2.2.2.54.1 — Objeto
 
 El objeto de este capítulo, es reglamentar las medidas de protección para los compradores de derechos patrimoniales de contenido crediticio derivados de operaciones de libranza, a entidades no vigiladas por la Superintendencia Financiera de Colombia a que se refiere el artículo 18 de la Ley 1527 de 2012, adicionado por el artículo 7 de la Ley 1902 de 2018, bien sea que la venta se realice con responsabilidad cambiaria del vendedor o sin ella, o en el caso de cesión, con garantía de solvencia del deudor o sin ella.
 
 Las disposiciones contempladas en el presente capítulo se aplicarán siempre que el comprador y el vendedor sean personas no sometidas a la vigilancia de la Superintendencia Financiera de Colombia, de conformidad con las definiciones aquí previstas.
-
-ARTÍCULO
 
 ## art:2.2.2.54.2 — Definiciones
 
@@ -21541,8 +18867,6 @@ Se refiere a los mecanismos establecidos en el artículo 6 de la Ley 1902 de 201
 10. Contrato de venta y administración. Es el contrato celebrado por el administrador y vocero del patrimonio autónomo o fondo de inversión colectiva a que se refiere el artículo 17 de la Ley 1527 de 2012, adicionado por el artículo 6 de la Ley 1902 de 2018, y el Comprador, que de conformidad con el numeral 1 del artículo 18 de la Ley 1527 de 2012, adicionado por el artículo 7 de la Ley 1902 de 2018, el cuál debe constar en un documento en el que se identifique detalladamente la cartera adquirida, de cuya existencia y estado se le deben entregar los respectivos soportes al Comprador.
 
 11. Administrador: Es la sociedad fiduciaria, sociedad administradora de inversión o sociedad comisionista de bolsa, que administra el patrimonio autónomo o el fondo de inversión colectiva a que se refiere el artículo 17 de la Ley 1527 de 2012, adicionado por el artículo 6 de la Ley 1902 de 2018.
-
-ARTÍCULO
 
 ## art:2.2.2.54.3 — Obligación de información sobre los riesgos de la operación y la situación de la cartera comprada
 
@@ -21574,8 +18898,6 @@ De igual forma, el Comprador o adquirente deberá recibir junto con la anterior 
 
 PARÁGRAFO 2. Posteriormente, durante la vigencia de la operación, el Comprador deberá ser informado por el Vendedor y su Administrador, al menos trimestralmente, sobre el estado de la cartera de créditos objeto de la operación, con indicación de los eventos de mora, incumplimientos declarados, pagos anticipados, fallecimiento de los deudores, cambios en la situación laboral y demás información relevante que pueda afectar el desempeño de la cartera comprada.
 
-ARTÍCULO
-
 ## art:2.2.2.54.4 — Gestión de riesgos en la administración de las libranzas vendidas
 
 La administración de los créditos libranza sólo podrá hacerse por intermedio de patrimonios autónomos administrados por Sociedades Fiduciarias sujetas a la supervisión de la Superintendencia Financiera de Colombia o Fondos de Inversión Colectiva. Para la gestión de riesgos, el contrato de administración de libranzas deberá establecer cómo mínimo lo siguiente:
@@ -21594,13 +18916,9 @@ PARÁGRAFO 1. Tanto el Administrador cómo el Vendedor serán responsables solid
 
 PARÁGRAFO 2. En el caso de la venta de cartera con responsabilidad, el Vendedor deberá implementar mecanismos para gestionar los riesgos que puedan ocasionar el incumplimiento de sus obligaciones contractuales, en particular los derivados de los pagos anticipados de los créditos y la sustitución de los créditos libranza.
 
-ARTÍCULO
-
 ## art:2.2.2.54.5 — Revelación de la sustitución de los créditos libranza
 
 En el evento que el Vendedor se haya obligado a reemplazar el crédito de libranza por mora o por cualquier evento previamente pactado, dicha sustitución o reemplazo deberá ser puesta en conocimiento del Comprador en el extracto, informando los datos de la nueva libranza, el plan de pagos del crédito nuevo y el monto mensual de amortización, así cómo los datos y documentos previstos en el parágrafo 1 del artículo 2.2.2.54.3 del presente decreto. Esta sustitución también deberá ser objeto de anotación electrónica en el RUNEOL dentro de los cinco (5) días siguientes al perfeccionamiento de la sustitución.
-
-ARTÍCULO
 
 ## art:2.2.2.54.6 — Revelación en los estados financieros y de indicadores de calidad de cartera y solvencia del vendedor
 
@@ -21642,8 +18960,6 @@ PARÁGRAFO 2. Estos indicadores deberán ser calculados mensualmente dentro de l
 
 PARÁGRAFO 3. Los indicadores deberán publicarse el vigesimo primer (21) día calendario de cada mes. En la página web deberá mantenerse publicada la serie de los indicadores correspondiente a los últimos 24 meses.
 
-ARTÍCULO
-
 ## art:2.2.2.54.7 — Gestión de los riesgos operativos de la operación de venta de cartera y atención de compradores
 
 De conformidad con el numeral 4 del artículo 18 de la Ley 1527 de 2012, adicionado por el artículo 7 de la Ley 1902 de 2018, los Vendedores y sus Administradores deberán implementar los siguientes controles sobre sus operaciones, cuya implementación podrá ser verificada por la entidad de supervisión:
@@ -21668,19 +18984,13 @@ En caso de que se adviertan irregularidades en estos informes, deberán ser pues
 
 PARÁGRAFO. En caso de que se contrate un depositario o custodio para los títulos valores y documentos de las libranzas vendidas, el mismo deberá recibir los documentos debidamente inventariados, para lo cual deberá constatar previamente su originalidad.
 
-ARTÍCULO
-
 ## art:2.2.2.54.8 — De los revisores fiscales
 
 El cumplimiento de las obligaciones aquí previstas por parte de las entidades operadoras de libranza, en especial las referidas a la existencia y funcionamiento del departamento de riesgos financieros y a los mecanismos de gestión de los riesgos y de su administración, deberán ser objeto de seguimiento por parte de sus revisores fiscales, quienes en el respectivo dictamen deberán expresamente incluir su pronunciamiento sobre el debido cumplimiento y las medidas de verificación tomadas para soportar dicha manifestación., o anterior podrá ser objeto de verificación por parte de los respectivos organismos de control y vigilancia, que adelantarán los correspondientes procesos sancionatorios en caso de advertir su incumplimiento.
 
-ARTÍCULO
-
 ## art:2.2.2.54.9 — Obligación especial de las pagadurias
 
 En el evento de una cesión de crédito libranza, el Vendedor deberá informar de la cesión o venta a la pagaduria, dando cuenta de ello al Comprador. La pagaduria, una vez informada de la cesión, seguirá las instrucciones de pago del descuento dadas por el Administrador, de conformidad con lo dispuesto en el parágrafo 1 del artículo 3 de la Ley 1527 de 2012. En el evento anterior, el Administrador podrá solicitarle a la pagaduria la información correspondiente al último reporte de nómina de los créditos libranza que administra.
-
-ARTÍCULO
 
 ## art:2.2.2.54.10 — Plan de desmonte progresivo de la venta de cartera de créditos de libranza
 
@@ -21694,15 +19004,11 @@ Ante el incumplimiento del plan de desmonte aprobado en los términos de este ar
 
 CAPÍTULO 55
 
-ARTÍCULO
-
 ## art:2.2.2.55.1 — Definición y alcance de la Ventanilla Única Empresarial
 
 Crease la Ventanilla Única Empresarial -VUE-cómo una estrategia de articulación público privada coordinada por el Ministerio de Comercio, Industria y Turismo, para promover y facilitar la actividad empresarial en el país a través de la simplificación y automatización de trámites. Esta estrategia contara con una plataforma Web que canalizara los trámites mercantiles, tributarios y de seguridad social para la apertura de empresa, e incorporara de forma progresiva diferentes trámites relacionados con la actividad empresarial.
 
 (Decreto 1875 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.55.2 — Objetivos de la Ventanilla Única Empresarial
 
@@ -21727,8 +19033,6 @@ La Ventanilla Única Empresarial-VUE-tiene los siguientes objetivos:
 9. Facilitar a los empresarios y ciudadanos en general la igualdad en el acceso a la plataforma de la VUE y el respeto a los lineamientos de calidad, seguridad, usabilidad, accesibilidad, neutralidad, interoperabilidad, disponibilidad, estándares abiertos, reserva y privacidad y seguridad de la información de conformidad con los lineamientos del Manual de Gobierno en Linea y el Marco de Referencia y arquitectura TI.
 
 (Decreto 1875 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.55.3 — Entidad Coordinadora y sus funciones
 
@@ -21758,8 +19062,6 @@ El Ministerio de Comercio, Industria y Turismo será la entidad coordinadora de 
 
 (Decreto 1875 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.55.4 — Plataforma tecnológica para la Ventanilla Única Empresarial
 
 La Ventanilla Única Empresarial -VUE-contara con una plataforma tecnológica que incorporara el Registro Único Empresarial y Social -RUES-y permitirá integrar trámites relacionados con el proceso de apertura, operación y cierre de empresas. Esta plataforma deberá interoperar con sistemas de información, bases de datos y aplicativos relacionados con los servicios vinculados a la ventanilla, garantizando al menos la integración del Registro Mercantil, Registro Tributario y la interoperabilidad con las plataformas de información del Sistema de Seguridad Social Integral y los Servicios Ciudadanos Digitales.
@@ -21774,8 +19076,6 @@ PARÁGRAFO. Las Cámaras de Comercio garantizarán la integración de todos los 
 
 (Decreto 1875 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.55.5 — Canal obligatorio
 
 La plataforma tecnológica desarrollada en el marco de la Ventanilla Única Empresarial -VUE-será el canal obligatorio de flujo de información y de los procesos de apertura, desarrollo de actividad empresarial y cierre de empresa de las entidades que participen en los trámites vinculados a la VUE.
@@ -21786,8 +19086,6 @@ En todo caso, el plan de implementación de la Ventanilla Única Empresarial-VUE
 
 (Decreto 1875 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.55.6 — Comité de Articulación Público-Privado
 
 La Ventanilla Única Empresarial -VUE-contara con un comité de articulación público-privado cuyo objeto será propender por la interacción y alineación entre las entidades miembros para definir objetivos, prioridades de integración de trámites y planes comunes en materia de simplificación para el desarrollo de la actividad empresarial.
@@ -21795,8 +19093,6 @@ La Ventanilla Única Empresarial -VUE-contara con un comité de articulación p�
 El Ministro de Comercio, Industria y Turismo fijara el reglamento y conformación del Comité de Articulación Público-Privado que deberá estar conformado por el Ministerio de Comercio, Industria y Turismo, Ministerio de Salud y Protección Social, Ministerio del Trabajo, la Dirección de Impuestos y Aduanas Nacionales DIAN, el Departamento Administrativo de la Función Pública DAFP, la Cámara de Comercio de Bogotá y la Confederación de las Cámaras de Comercio Confecamaras, cómo agremiación de las Cámaras de Comercio, y las demás entidades que señale el mencionado Ministerio de Comercio, Industria y Turismo. Este Comité trabajara de manera coordinada con el Sistema de Competitividad, Ciencia, Tecnología e Innovación.
 
 (Decreto 1875 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.55.7 — Funciones del Comité de Articulación Público-Privado
 
@@ -21816,15 +19112,11 @@ El Comité de Articulación Público-Privado tendrá las siguientes funciones:
 
 (Decreto 1875 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.55.8 — Fortalecimiento Tecnológico
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones apoyara tecnicamente a las entidades administrativas que tengan competencias relacionadas con la apertura, operación y cierre de empresas para garantizar la puesta en marcha de la Ventanilla Única Empresarial-VUE-.
 
 (Decreto 1875 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.55.9 — Vinculación de los Entes Territoriales a la Ventanilla Única Empresarial VUE
 
@@ -21838,15 +19130,11 @@ CAPÍTULO 56
 
 BIENES DEJADOS EN ABANDONO BAJO LA PRESTACIÓN DE UN SERVICIO
 
-ARTÍCULO
-
 ## art:2.2.2.56.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la forma en que el prestador de un servicio que supone la entrega de bienes muebles, debe disponer de aquellos cuya trasferencia del derecho de dominio no esta sujeta a registro, y que han sido dejados en abandono por parte de los consumidores, en los términos en que lo establece el artículo 18 de la Ley 1480 de 2011.
 
 (Decreto 1413 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.56.2 — Procedimiento para requerir al consumidor
 
@@ -21862,8 +19150,6 @@ PARÁGRAFO. Cuando se conozca la dirección de correo electrónico del consumido
 
 (Decreto 1413 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.56.3 — Momento del abandono
 
 Una vez requerido el consumidor en los términos previstos en el artículo anterior y transcurrido el plazo de dos (2) meses a que se refiere el artículo 18 de la Ley 1480, para que retire el bien, sin que esto ocurra, se entenderá que el bien ha sido abandonado.
@@ -21874,15 +19160,11 @@ El término a que se refiere este artículo, se suspendera en aquellos casos en 
 
 (Decreto 1413 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.56.4 — Efectos del abandono de bienes
 
 Una vez transcurrido el plazo de dos (2) meses de que trata el artículo 2.2.2.56.2., del presente decreto, sin que se haya retirado el bien, la condición de abandono prevista en el artículo 18 de la Ley 1480 de 2011, tendrá cómo efecto que el bien se repute provisoriamente mostrenco de conformidad con lo establecido en el artículo 704 del Código Civil, debiéndose dar cumplimiento a lo dispuesto en el artículo 2.4.3.1.3. 1 del Decreto 1084 de 2015.
 
 (Decreto 1413 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.56.5 — Prueba de los trámites y mecanismos de supervisión
 
@@ -21899,8 +19181,6 @@ OBLIGACIÓN DE PAGO EN PLAZOS JUSTOS EN EL ÁMBITO MERCANTIL
 SECCIÓN 1
 
 OBLIGACIÓN DE PAGO EN PLAZOS JUSTOS
-
-ARTÍCULO
 
 ## art:2.2.2.57.1.1 — Ámbito de Aplicación
 
@@ -21933,8 +19213,6 @@ PARÁGRAFO 1. De conformidad con lo previsto en el numeral 2 del artículo 2 de 
 PARÁGRAFO 2. Cualquier cambio en el tamaño empresarial que genere efectos en la obligación de pago en plazos justos deberá ser certificado en los términos del artículo 2.2.1.13.2.4. del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, y comunicado a los adquirientes oportunamente.
 
 PARÁGRAFO 3. En concordancia con lo estipulado en los artículos 11 y 22 del Código de Comercio, la obligación de pago en plazos justos será aplicable respecto de las personas que ejecuten ocasionalmente operaciones mercantiles, aunque no sean consideradas comerciantes, y si el acto es mercantil para una de las partes.
-
-ARTÍCULO
 
 ## art:2.2.2.57.1.2 — Obligación de pago en plazos justos
 
@@ -21974,23 +19252,17 @@ Los integrantes del Equipo Negociador deben participar en la construcción de la
 
 (Decreto.4712 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.2 — Actuaciones
 
 Los integrantes del Equipo Negociador deben defender los objetivos, intereses y estrategias de Colombia en la negociación y realizar todos los actos tendientes a salvaguardar la consistencia de la posición negociadora de Colombia, siguiendo los procedimientos establecidos en el presente capítulo.
 
 (Decreto.4712 de 2007, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.3 — Coordinación
 
 El Ministro de Comercio, Industria y Turismo coordinará las labores del Equipo Negociador, sin perjuicio de las funciones propias del Ministerio de Relaciones Exteriores y con tal fin podrá designar o remover en cualquier tiempo al jefe del equipo negociador y señalarle los asuntos que deba atender.
 
 (Decreto.4712 de 2007, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.4 — Comités Tematicos Negociadores
 
@@ -22012,8 +19284,6 @@ SECCIÓN 2
 
 DE LA CONSTRUCCION DE LA POSICIÓN NEGOCIADORA DE COLOMBIA
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.1 — Metodologia para la definición de los intereses y de la posición negociadora del país
 
 Los jefes de los Comités Tematicos mantendrán comunicación constante con el coordinador y el jefe del equipo negociador, informandoles sobre los avances en sus respectivos temas.
@@ -22026,8 +19296,6 @@ De no ser resueltas a este nivel, y sin perjuicio de la facultad consagrada en e
 
 (Decreto 4712 de 2007, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.2 — Interlocución oficial con la sociedad civil interesada en los temas de negociación
 
 Los Ministros y Viceministros de las carteras involucradas en la negociación, el jefe del equipo negociador, el coordinador de la negociación y los jefes de los Comités Tematicos, siguiendo los lineamientos del Presidente de la República y del Ministro de Comercio, Industria y Turismo, serán los interlocutores oficiales del Gobierno Nacional con la sociedad civil sobre los temas de negociación.
@@ -22035,8 +19303,6 @@ Los Ministros y Viceministros de las carteras involucradas en la negociación, e
 Con sujeción a los mencionados lineamientos y con el fin de garantizar la consistencia de la posición negociadora del país, la interacción con la sociedad civil será coordinada por el Ministro de Comercio, Industria y Turismo. Cada vez que un organismo o entidad reciba comunicaciones o solicitudes relacionadas con una negociación comercial internacional, deberá remitirlas al jefe del equipo negociador, para su consideración y trámite.
 
 (Decreto 4712 de 2007, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.3 — Informes al Consejo de Ministros y al Consejo Superior de Comercio Exterior
 
@@ -22048,8 +19314,6 @@ SECCIÓN 3
 
 DE LA PARTICIPACION DE LAS AUTORIDADES DEPARTAMENTALES, MUNICIPALES Y DISTRITALES
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.1 — Participación de las autoridades departamentales, municipales y distritales
 
 El Ministerio de Comercio, Industria y Turismo promoverá la participación de las autoridades departamentales, municipales y distritales en el proceso de negociación y establecerá los mecanismos idóneos para mantenerlas informadas y para que sus propuestas reciban la debida atención por parte del Equipo Negociador.
@@ -22060,8 +19324,6 @@ SECCIÓN 4
 
 DE LA PARTICIPACION DE LA SOCIEDAD CIVIL EN EL PROCESO DE NEGOCIACION Y DEL DEBER DE INFORMACION Y TRANSPARENCIA
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.1 — Participación de la sociedad civil
 
 El Ministerio de Comercio, Industria y Turismo promoverá la participación de la sociedad civil en el proceso de negociación.
@@ -22071,8 +19333,6 @@ Para tal efecto y sin perjuicio de la utilización de los instrumentos legales e
 PARÁGRAFO 1. Con el fin de salvaguardar la transparencia del proceso negociador y la participación ciudadana, el Ministerio de Comercio, Industria y Turismo llevará una memoria del proceso de interacción entre el Equipo Negociador y la sociedad civil durante el tiempo que dure la negociación.
 
 (Decreto 4712 de 2007, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.2 — Acceso a la información
 
@@ -22098,8 +19358,6 @@ SECCIÓN 5
 
 CREACION DE GRUPOS DE ADMINISTRACIÓN E IMPLEMENTACION
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.1 — Creación de Grupos de Administración e Implementación
 
 Una vez un acuerdo comercial internacional entre en vigor, el Ministerio de Comercio, Industria y Turismo informará a las entidades pertinentes acerca de las comisiones, los comités, grupos y foros, en adelante denominados "Los Grupos", que deberán conformarse entre los Estados signatarios de los acuerdos, en el marco del proceso de administración de los mismos.
@@ -22108,15 +19366,11 @@ El Ministerio de Comercio, Industria y Turismo coordinará la participación de 
 
 (Decreto 566 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.2 — Representación de entidades
 
 Las entidades pertinentes deberán delegar a los funcionarios que integrarán cada uno de los Grupos, quienes tendrán la capacidad de decisión sobre las materias que se aborden en las sesiones de los mismos. En la delegación de los funcionarios se tendrán en cuenta su idoneidad, calidades profesionales y la necesidad de que la participación sea continúa y estable.
 
 (Decreto 566 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.3 — Conformación y reglas de funcionamiento
 
@@ -22126,17 +19380,13 @@ La conformación y reglas de funcionamiento de los Grupos dependerán de lo que 
 
 SECCIÓN 6
 
-DE LA CONSTRUCCION DE LA POSICIÓN DE COLOMBIA EN LOS GRUPOS. 
-
-ARTÍCULO
+DE LA CONSTRUCCION DE LA POSICIÓN DE COLOMBIA EN LOS GRUPOS.
 
 ## art:2.2.3.1.6.1 — Construcción de la posición de Colombia
 
 Los miembros del Gobierno Nacional que formen parte de los Grupos deberán participar en la construcción de la posición que Colombia habrá de llevar a las sesiones respectivas. El Ministerio de Comercio, Industria y Turismo organizara y convocara las reuniones preparatorias que resulten necesarias para tal efecto.
 
 (Decreto 566 de 2013, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.2 — Metodologia para la definición de la posición del país
 
@@ -22148,8 +19398,6 @@ SECCIÓN 7
 
 DE LA PARTICIPACION DE LA SOCIEDAD CIVIL EN LOS GRUPOS Y DEL DEBER DE INFORMACION Y TRANSPARENCIA
 
-ARTÍCULO
-
 ## art:2.2.3.1.7.1 — Participación de la Sociedad Civil en los Grupos
 
 En todo caso, se permitirá la participación de la sociedad civil en la discusión interna de los asuntos abordados en los Grupos en los términos requeridos por la ley. Para tal efecto y sin perjuicio de la utilización de los instrumentos legales existentes para la presentación de peticiones a las autoridades, el Ministerio de Comercio, Industria y Turismo diseñara los mecanismos idóneos para recibir y analizar los aportes y observaciones de la sociedad civil.
@@ -22157,8 +19405,6 @@ En todo caso, se permitirá la participación de la sociedad civil en la discusi
 PARÁGRAFO. Con el fin de salvaguardar la transparencia y la participación ciudadana, el Ministerio de Comercio, Industria y Turismo llevará una memoria de los asuntos debatidos internamente, así cómo del resultado de las sesiones de los Grupos.
 
 (Decreto 566 de 2013, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.2 — Mecanismos de recepción y emisión pública de información
 
@@ -22178,15 +19424,11 @@ SECCIÓN 1
 
 ÁMBITO DE APLICACIÓN Y OBJETO
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1 — Ámbito de aplicación
 
 El presente capítulo se aplica a la atención de las controversias internacionales de inversión, entendidas cómo aquellas surgidas entre inversionistas extranjeros y el Estado colombiano con motivo de la aplicación y/o interpretación de los Acuerdos Internacionales de Inversión.
 
 (Decreto 1939 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.2 — Objeto
 
@@ -22198,15 +19440,11 @@ SECCIÓN 2
 
 INSTANCIA DE ALTO NIVEL DE GOBIERNO
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1 — Instancia de alto nivel de gobierno
 
 El Consejo Directivo de la Agencia Nacional de Defensa Jurídica de la Nación es la Instancia de Alto Nivel de Gobierno encargada de la orientación y formulación de las recomendaciones dirigidas a la idonea atención de las controversias internacionales de inversión, cuya defensa esta a cargo del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1939 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.2 — Funciones de la instancia de alto nivel de Gobierno
 
@@ -22232,15 +19470,11 @@ PARÁGRAFO. La Alta Instancia de Gobierno definirá los criterios y reglas confo
 
 (Decreto 1939 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.3 — Reserva y confidencialidad
 
 Quienes participen en la Instancia de Alto Nivel de Gobierno o en el grupo de apoyo intersectorial de que trata el artículo 2.2.3.2.2.7. de la presente Decreto, estarán obligados a guardar confidencialidad y a no divulgar la información conocida con ocasión de dicha participación en las deliberaciones y decisiones que se surtan al interior de la Instancia de Alto Nivel de Gobierno, así cómo de la estrategia de defensa del Estado, so pena de incurrir en sanción disciplinaria.
 
 (Decreto 1939 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.4 — Secretaria Técnica
 
@@ -22272,8 +19506,6 @@ La Dirección de Inversión Extranjera y Servicios del Ministerio de Comercio, I
 
 (Decreto 1939 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.5 — Sesiones de la instancia de alto nivel de Gobierno
 
 La Instancia de Alto Nivel de Gobierno sesionara, cuando las circunstancias lo ameriten, previa convocatoria del Ministerio de Comercio Industria y Turismo, y/o del Director de la Agencia Nacional de Defensa Jurídica del Estado. En las sesiones de la Instancia de Alto Nivel de Gobierno, se aplicará lo previsto en los paragrafos 1, 2, 4 y 5 del artículo 9 del Decreto número 4085 de 2011, o la norma que lo modifique o sustituya.
@@ -22284,8 +19516,6 @@ PARÁGRAFO 2. La Procuraduría General de la Nación podrá ser invitada a las s
 
 (Decreto 1939 de 2013, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.6 — Negociaciones extrajudiciales con inversionistas
 
 El Ministerio de Comercio, Industria y Turismo y la Agencia de Defensa Jurídica del Estado participarán de conformidad con los lineamientos de la Instancia de Alto Nivel de Gobierno y de manera conjunta con la entidad u organismo público involucrado, cómo facilitadores de los acuerdos amistosos tendientes a solucionar extrajudicialmente controversias internacionales de inversión.
@@ -22294,8 +19524,6 @@ Sin perjuicio del apoyo de la Agencia Nacional de Defensa Jurídica del Estado, 
 
 (Decreto 1939 de 2013, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.7 — Grupo de Apoyo lnterinstitucional
 
 Crease el Grupo de Apoyo lnterinstitucional para la atención de controversias internacionales de inversión, que tendrá cómo atribución principal plantear las posibles recomendaciones en relación con los asuntos que pueden ser objeto de controversia y que serán llevados por la Secretaria Técnica a la Instancia de Alto Nivel del Gobierno y apoyar con fundamento en ellas en sus funciones a dicha Instancia, así cómo al Ministerio de Comercio, Industria y Turismo, en la defensa del Estado en controversias internacionales de inversión.
@@ -22303,8 +19531,6 @@ Crease el Grupo de Apoyo lnterinstitucional para la atención de controversias i
 El Grupo estará conformado por los funcionarios designados por cada uno de los miembros de la Instancia de Alto Nivel de Gobierno, así cómo por los funcionarios de otras entidades estatales que la Instancia de Alto Gobierno estime adecuado incorporar, incluyendo los funcionarios de la entidad cuya acción u omision presuntamente genero la controversia internacional de inversión. El Grupo de Apoyo lnterinstitucional será coordinado por la Dirección de Inversión Extranjera y Servicios del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1939 de 2013, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.8 — La defensa del Estado en el arbitraje internacional de inversión
 
@@ -22324,8 +19550,6 @@ PARÁGRAFO. El proceso de contratación de asesores externos será adelantado po
 
 (Decreto 1939 de 2013, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.9 — Quorum
 
 El quórum deliberatorio de la Instancia de Alto Nivel de Gobierno será de la mitad más uno de los convocados y las decisiones se adoptarán con el voto favorable de la mayoría de los presentes.
@@ -22333,8 +19557,6 @@ El quórum deliberatorio de la Instancia de Alto Nivel de Gobierno será de la m
 PARÁGRAFO. La Instancia de Alto Nivel de Gobierno podrá sesionar mediante reuniones virtuales o por medios electrónicos, en tales reuniones, el quórum deliberatorio se constituira con el mismo número de convocados previsto en este artículo para las reuniones presenciales, y las decisiones se adoptarán con la misma mayoría señalada para tales reuniones.
 
 (Decreto 1939 de 2013, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.10 — Reglas de procedimiento
 
@@ -22350,8 +19572,6 @@ SECCIÓN 1
 
 IMPORTACIONES DE PRODUCTOS SUJETOS AL CUMPLIMIENTO DE REGLAMENTOS TECNICOS
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.1 — Excepción a la obtención del registro o licencia de importación
 
 Las importaciones de los productos sometidos al cumplimiento de reglamento técnico que exija solamente etiquetado no requieren de la obtención del registro o licencia de importación ante el Ministerio de Comercio, Industria y Turismo.
@@ -22364,15 +19584,11 @@ En los casos en que los servicios informaticos electrónicos ordenen la inspecci
 
 (Decreto 3273 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.2 — Productos sujetos a certificación de conformidad de tercera parte
 
 Las importaciones de los productos sometidos al cumplimiento de reglamento técnico que exija exclusivamente la presentación del certificado de conformidad de tercera parte, requerirá de la obtención del registro o licencia de importación ante el Ministerio de Comercio, Industria y Turismo. Para la obtención del registro o licencia de importación, la Superintendencia de Industria y Comercio - SIC verificará que el documento de evaluación de la conformidad cumpla con los requerimientos del respectivo reglamento técnico, a través de la Ventanilla Única de Comercio Exterior - VUCE, de acuerdo con lo dispuesto en el Decreto 4149 de 2004 o en las disposiciones que lo modifiquen, adicionen o substituyan.
 
 (Decreto 3273 de 2008, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.3 — Control y vigilancia
 
@@ -22384,15 +19600,11 @@ SECCIÓN 2
 
 CERTIFICACION DE PRODUCCION NACIONAL DE BIENES Y SERVICIOS DESTINADOS A LA SEGURIDAD Y DEFENSA NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.1 — Adquisición de bienes y servicios destinados a la seguridad y defensa nacional
 
 Para la adquisición de bienes y servicios destinados a la seguridad y defensa nacional, el Ministerio de Defensa Nacional deberá solicitar al Ministerio de Comercio, Industria y Turismo, en la forma prevista en el presente capítulo, certificación sobre la existencia o no de producción nacional en términos de competencia abierta, de los bienes y servicios que se pretendan adquirir para la seguridad y defensa nacional previstos en la Ley 1089 de 2006.
 
 (Decreto 660 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2 — Solicitud de certificación de existencia no de producción nacional
 
@@ -22401,8 +19613,6 @@ La solicitud a la que se refiere el artículo 2.2.3.3.2.1. del presente Decreto,
 PARÁGRAFO. En caso de existir modificación en el listado remitido, el Ministerio de Defensa Nacional lo informará oportunamente al Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 660 de 2007, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.3 — Certificación de existencia o no de producción nacional
 
@@ -22415,8 +19625,6 @@ Para este efecto, se entiende que existe competencia abierta en la producción d
 2. Para el mismo producto o servicio exista en el mercado variedad de precios al consumidor final, conforme a la información remitida por el Ministerio de Defensa Nacional al Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 660 de 2007, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.4 — Capacidad para atender la adquisición de los bienes y servicios destinados a la seguridad y defensa nacional
 
@@ -22436,8 +19644,6 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.1 — Ámbito de aplicación
 
 Las disposiciones del presente capítulo tienen como finalidad reglamentar el procedimiento para la aplicación de las salvaguardias bilaterales en cada uno de los acuerdos comerciales internacionales de los que Colombia es una de las partes contratantes.
@@ -22450,8 +19656,6 @@ Las disposiciones aquí contenidas se aplicarán en concordancia con las reglas 
 
 (Decreto 1820 de 2010, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.2 — Condiciones
 
 Una medida de salvaguardia bilateral se aplicará cuando las importaciones de una mercancía originaria de un Estado parte del acuerdo comercial internacional aumenten en tal cantidad en términos absolutos o en relación con la producción nacional. Este aumento debe ser cómo resultado de la reducción o eliminación de un arancel aduanero en virtud del acuerdo comercial y las importaciones que se realicen deben ser en condiciones tales que constituyan una causa sustancial de daño grave o amenacen causar un daño grave a la rama de producción nacional que produzca mercancías similares o directamente competidoras.
@@ -22459,8 +19663,6 @@ Una medida de salvaguardia bilateral se aplicará cuando las importaciones de un
 La aplicación de la salvaguardia bilateral procederá durante el período señalado en el acuerdo comercial internacional vigente y de conformidad con las disposiciones que sobre este particular establezca dicho acuerdo.
 
 (Decreto 1820 de 2010, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.3 — Definiciones
 
@@ -22490,8 +19692,6 @@ SECCIÓN 2
 
 PROCEDIMIENTO DE INVESTIGACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.1 — Presentación de la solicitud
 
 Previa solicitud por escrito presentada por una proporción importante de la rama de producción nacional o en nombre de esta por medio de una asociación que la represente, la Autoridad Investigadora Competente iniciara el procedimiento previsto en la presente sección.
@@ -22499,8 +19699,6 @@ Previa solicitud por escrito presentada por una proporción importante de la ram
 La solicitud deberá elaborarse de conformidad con los requisitos establecidos en el siguiente artículo, diligenciando los formularios y anexando la información y pruebas exigidas en los mismos. Dicha documentación deberá radicarse en el Grupo de Gestión Documental del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1820 de 2010, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.2 — Requisitos de la solicitud
 
@@ -22544,8 +19742,6 @@ El mismo deberá estar conforme con el correspondiente acuerdo comercial interna
 
 (Decreto 1820 de 2010, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.3 — Proporción importante de la rama de producción nacional
 
 Para la presentación de la solicitud, se considera proporción importante de la rama de la producción nacional por lo menos el 25% de la misma, en términos de volumen de producción de la mercancía similar o directamente competidora de la mercancía importada. No obstante, para la apertura de la investigación, dicho porcentaje deberá ser del 50%.
@@ -22558,8 +19754,6 @@ En caso de que el correspondiente acuerdo comercial internacional establezca un 
 
 (Decreto 1820 de 2010, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.4 — Recepción de conformidad
 
 Dentro de un término de cinco (5) días hábiles contados a partir del día hábil siguiente a la fecha de radicación de la solicitud, la Subdirección de Prácticas Comerciales informará por escrito al solicitante que la solicitud ha sido recibida de conformidad, si cumple con los requisitos previstos en los artículos anteriores.
@@ -22569,8 +19763,6 @@ Si falta información o la suministrada no es clara, la Subdirección de Prácti
 Si transcurridos sesenta (60) días calendario, contados a partir del requerimiento, la información faltante no ha sido aportada, se considerará que el solicitante ha desistido de la solicitud y se ordenará su archivo sin perjuicio de que posteriormente el solicitante pueda presentar una nueva solicitud.
 
 (Decreto 1820 de 2010, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.5 — Evaluación del mérito de la solicitud
 
@@ -22584,8 +19776,6 @@ El estudio técnico de evaluación del mérito para abrir la investigación, deb
 
 (Decreto 1820 de 2010, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.6 — Apertura de la investigación
 
 Si de la evaluación se concluye que hay mérito para abrir la investigación, la: Dirección de Comercio Exterior del Ministerio de Comercio, Industria y Turismo así lo dispondrá dentro del término establecido en el artículo anterior. En caso contrario, negara la solicitud de investigación y ordenará archivar el expediente.
@@ -22593,8 +19783,6 @@ Si de la evaluación se concluye que hay mérito para abrir la investigación, l
 En cualquiera de los dos casos, la Dirección de Comercio Exterior se pronunciará mediante resolución motivada que se publicará en el Diario Oficial. En caso de que el correspondiente acuerdo comercial internacional establezca disposiciones en materia de transparencia adicionales, las mismas se complementarán o prevalecerán según sea el caso para todos los efectos sobre este capítulo.
 
 (Decreto 1820 de 2010, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.7 — Contenido de la resolución de apertura
 
@@ -22612,23 +19800,17 @@ La Resolución que da inicio a la investigación deberá contener de manera resu
 
 (Decreto 1820 de 2010, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.8 — Convocatoria a participar en la investigación
 
 Dentro del término de cinco (5) días hábiles, contados a partir del día hábil siguiente a la fecha de publicación de la resolución de apertura, la Subdirección de Prácticas Comerciales deberá remitir copia de esta a las partes interesadas conocidas. Así mismo, convocara mediante aviso público a las demás partes interesadas a expresar su opinión debidamente sustentada y a aportar o solicitar las pruebas que estimen pertinentes.
 
 (Decreto 1820 de 2010, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.9 — Respuesta a la convocatoria
 
 Dentro del término de veinte (20) días calendario contados a partir de la fecha de publicación de la resolución de inicio de la investigación, las partes interesadas, acreditando su legitimo interés, deberán manifestar por escrito su intención en participar de la investigación ante la Subdirección de Prácticas Comerciales. Las partes interesadas podrán solicitar en cualquier estado del procedimiento su inclusión, lo cuál no implica la suspensión del procedimiento ni la posibilidad de reabrir las etapas anteriores al momento de su inclusión.
 
 (Decreto 1820 de 2010, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.10 — Practica de pruebas
 
@@ -22642,8 +19824,6 @@ La verificación del cumplimiento del programa de ajuste propuesto por el solici
 
 (Decreto 1820 de 2010, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.11 — Audiencia pública entre intervinientes
 
 Durante el procedimiento de investigación, la Subdirección de Prácticas Comerciales convocara a las partes interesadas acreditadas a una audiencia pública con el objeto de que puedan exponer los argumentos que consideren pertinentes. A la audiencia podrán asistir terceros que no sean parte del procedimiento, siempre que soliciten su participación a la Subdirección de Prácticas Comerciales mediante documento escrito diez (10) días calendario antes de la realización de la audiencia.
@@ -22652,8 +19832,6 @@ Sólo se tendrá en cuenta la información que se presente en la audiencia si es
 
 (Decreto 1820 de 2010, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.12 — Expediente
 
 Toda información aportada por las partes interesadas, así como la acopiada de oficio por la Subdirección de Prácticas Comerciales, será archivada cronologicamente en cuadernos separados, uno de los cuáles contendrá la información pública y el otro la confidencial.
@@ -22661,8 +19839,6 @@ Toda información aportada por las partes interesadas, así como la acopiada de 
 Las partes interesadas que se hubiesen presentado en la investigación, así como los representantes de los países exportadores, previa solicitud a la Subdirección de Prácticas Comerciales, podrán revisar toda la información recabada en el marco del procedimiento de investigación, salvo aquella información que haya sido calificada cómo confidencial.
 
 (Decreto 1820 de 2010, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.13 — Mejor información disponible
 
@@ -22676,8 +19852,6 @@ La información recibida, en aplicación del presente capítulo sólo podrá uti
 
 (Decreto 1820 de 2010, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.14 — Documentos confidenciales
 
 Toda información que se aporte como confidencial será, previa justificación al respecto, tratada cómo tal por la Subdirección de Prácticas Comerciales y no podrá ser revelada sin autorización de la parte que la haya presentado. Quién presente información confidencial deberá obligatoriamente adjuntar resumen no confidencial de la misma o, señalar las razones por las cuáles dicha información no puede ser resumida.
@@ -22690,8 +19864,6 @@ La Subdirección de Prácticas Comerciales requerirá a las partes interesadas q
 
 (Decreto 1820 de 2010, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.15 — Conclusión de la investigación
 
 La Subdirección de Prácticas Comerciales dispondrá de un plazo máximo de ciento ochenta (180) días calendario, prorrogables hasta por sesenta (60) días calendarios adicionales, para concluir la investigación, plazo que se computara desde la fecha de publicación en el Diario Oficial de la resolución que dio inicio al proceso de investigación.
@@ -22703,8 +19875,6 @@ La investigación se dará por terminada con el informe técnico de la Subdirecc
 SECCIÓN 3
 
 ANALISIS DEL DAÑO GRAVE Y LA AMENAZA DEL DAÑO GRAVE EN LA INVESTIGACIÓN
-
-ARTÍCULO
 
 ## art:2.2.3.4.3.1 — Determinación de la existencia de daño grave
 
@@ -22722,8 +19892,6 @@ En la investigación, para determinar si el aumento de las importaciones de una 
 
 (Decreto 1820 de 2010, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.3.4.3.2 — Amenaza de daño grave
 
 Cuando se alegue la existencia de amenaza de daño grave, la Subdirección de Prácticas Comerciales examinara la probabilidad de que el caso se transforme en daño grave a la rama de producción nacional, teniendo en cuenta los datos sobre la rama de producción nacional, además de los factores tales cómo el ritmo y cuantía del aumento de las exportaciones del país parte del acuerdo comercial internacional investigado, en términos absolutos y relativos, y su capacidad de exportación, existente o potencial, así cómo la probabilidad de que las exportaciones resultantes de esa capacidad se destinen al mercado colombiano.
@@ -22734,8 +19902,6 @@ SECCIÓN 4
 
 APLICACIÓN DE LAS MEDIDAS DE SALVAGUARDIA BILATERALES
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.1 — Modalidad de la medida
 
 Las medidas de salvaguardia provisionales y definitivas sólo se aplicarán en la oportunidad, cuantía y durante el período que sea necesario para prevenir la amenaza de daño o para reparar el daño grave y facilitar el reajuste, considerando las disposiciones particulares que sobre esta aplicación establezca el acuerdo comercial internacional de conformidad con el artículo 2.2.3.4.1.1. del presente Decreto.
@@ -22744,15 +19910,11 @@ Las medidas de salvaguardia tomarán la forma de un incremento arancelario o la 
 
 (Decreto 1820 de 2010, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.2 — Exclusión de la aplicación de la medida
 
 La exclusión de una medida de salvaguardia provisional o definitiva contra una mercancía originaria de una parte contratante procederá siempre y cuando este prevista en el respectivo acuerdo comercial internacional.
 
 (Decreto 1820 de 2010, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4.3 — Constitución de la garantía
 
@@ -22762,8 +19924,6 @@ En los casos en que se adopte una medida de salvaguardia provisional, los import
 
 (Decreto 1820 de 2010, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.4 — Excedentes y devoluciones de medidas provisionales
 
 Cuando una medida de salvaguardia definitiva excede a la medida de salvaguardia provisional que se hubiere pagado o garantizado, no habrá lugar al cobro por la diferencia. En caso de que ocurra lo contrario, se procederá a la devolución de los derechos provisionales recaudados en exceso con relación al monto fijado por una medida definitiva.
@@ -22772,15 +19932,11 @@ Si luego de la investigación, el Gobierno Nacional resuelve no aplicar una medi
 
 (Decreto 1820 de 2010, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.5 — Aplicación excluyente de las medidas
 
 No se aplicará con respecto a la misma mercancía objeto del procedimiento señalado en este capítulo y durante el mismo período, una medida de salvaguardia bilateral y una medida bajo el artículo XIX del GATT 1994 y el Acuerdo sobre Salvaguardias de la Organización Mundial del Comercio, de conformidad con lo estipulado en el artículo 2.2.3. 4.1.1. del presente Decreto.
 
 (Decreto 1820 de 2010, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4.6 — Condiciones para su aplicación
 
@@ -22789,8 +19945,6 @@ De conformidad con lo estipulado en el acuerdo comercial internacional que se in
 La determinación preliminar de estas circunstancias criticas deberá basarse en la existencia de pruebas claras de que se ha producido un aumento substancial de las importaciones durante los últimos ciento ochenta (180) días calendario sobre las cuáles se disponga de estadísticas, teniendo en cuenta que su volumen y la oportunidad en la que se han efectuado ocasionan una repentina acumulación de inventarios de la mercancía nacional o un descenso en ventas o una disminución de los margenes de rentabilidad de la rama de producción nacional.
 
 (Decreto 1820 de 2010, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4.7 — Procedimiento para la adopción de la medida
 
@@ -22802,15 +19956,11 @@ En caso de que el Comité de Asuntos Aduaneros, Arancelarios y de Comercio Exter
 
 (Decreto 1820 de 2010, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.8 — Duración
 
 El plazo máximo de la duración de la medida provisional será de doscientos (200) días calendario, excepto que en el respectivo acuerdo comercial internacional se establezca un plazo diferente. Cuando se decida aplicar una medida de salvaguardia definitiva, el período de aplicación de la medida de salvaguardia provisional se contabilizara cómo parte de la duración de la medida definitiva.
 
 (Decreto 1820 de 2010, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4.9 — Adopción de medidas de salvaguardia
 
@@ -22820,15 +19970,11 @@ El Consejo Superior de Comercio Exterior determinará si recomienda o no al Gobi
 
 (Decreto 1820 de 2010, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.10 — Concepto de la Superintendencia de Industria y Comercio
 
 El Comité de Asuntos Aduaneros, Arancelarios y de Comercio Exterior oira el concepto del Superintendente de Industria y Comercio o su delegado, antes de efectuar la recomendación al Gobierno Nacional o al Consejo Superior de Comercio Exterior, respecto de la aplicación de la medida de salvaguardia provisional y definitiva a la que se hace referencia en los artículos 2.2.3.4.4.7. y 2.2.3.4.4. 9. del presente Decreto.
 
 (Decreto 1820 de 2010, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4.11 — Duración
 
@@ -22836,15 +19982,11 @@ Las medidas de salvaguardia se aplicarán únicamente durante el período que se
 
 (Decreto 1820 de 2010, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.12 — Liberalización progresiva
 
 La forma de liberalización de la medida definitiva, así cómo el arancel que deberá aplicarse al término de la duración de la medida se regirán por lo estipulado en el acuerdo comercial internacional.
 
 (Decreto 1820 de 2010, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.3.4.4.13 — Prórroga de la medida de salvaguardia
 
@@ -22856,8 +19998,6 @@ Las medidas que se prorroguen no serán más restrictivas que las vigentes al fi
 
 (Decreto 1820 de 2010, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4.14 — Reaplicación de una medida de salvaguardia
 
 No procede la aplicación de una medida de salvaguardia a la importación de una mercancía que haya estado sujeta a una medida de esa indole, salvo que se estipule lo contrario en el respectivo acuerdo comercial internacional vigente. Para la reaplicación de una medida de salvaguardia se deberá seguir el mismo procedimiento que para el caso de la medida inicial.
@@ -22868,8 +20008,6 @@ SECCIÓN 5
 
 NOTIFICACIONES Y CONSULTAS
 
-ARTÍCULO
-
 ## art:2.2.3.4.5.1 — Notificaciones y consultas
 
 El Ministerio de Comercio, Industria y Turismo será el encargado de realizar las correspondientes notificaciones y de realizar el proceso de consultas con la parte del acuerdo comercial internacional, conforme con lo establecido en el respectivo acuerdo comercial internacional, vigente para Colombia.
@@ -22878,23 +20016,17 @@ Sin perjuicio de la obligación de dar oportunidad razonable para la celebració
 
 (Decreto 1820 de 2010, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.3.4.5.2 — Compensación
 
 Dentro del proceso de consultas el Ministerio de Comercio, Industria y Turismo acordara mutuamente una compensación con la otra parte del acuerdo comercial internacional, conforme con lo estipulado en el respectivo acuerdo.
 
 (Decreto 1820 de 2010, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.3.4.5.3 — Remisión de los actos administrativos
 
 La Subdirección de Prácticas Comerciales remitirá a la Dirección de Impuestos y Aduanas Nacionales - DIAN, copia de los actos administrativos ejecutoriados mediante los cuáles se determine la aplicación de medidas de salvaguardias provisionales, definitivas, o se modifiquen o suspendan las ya establecidas.
 
 (Decreto 1820 de 2010, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.3.4.5.4 — Revisión administrativa y judicial
 
@@ -22908,15 +20040,11 @@ SECCIÓN 6
 
 SALVAGUARDIAS ESPECIALES AGRICOLAS
 
-ARTÍCULO
-
 ## art:2.2.3.4.6.1 — Ámbito de aplicación
 
 El procedimiento establecido en la presente sección será aplicable a las Salvaguardias Especiales Agrícolas pactadas en los acuerdos comerciales internacionales vigentes para Colombia, distintos de la Organización Mundial de Comercio. En caso de discrepancia entre lo previsto por esta sección y el correspondiente acuerdo comercial internacional vigente para Colombia, prevalecera este último.
 
 (Decreto 573 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.4.6.2 — Condiciones para que proceda la aplicación de la medida de salvaguardia especial agricola
 
@@ -22930,8 +20058,6 @@ PARÁGRAFO : Para los efectos anteriormente previstos, la Dirección de Impuesto
 
 (Decreto 573 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.4.6.3 — Aplicación de la medida de salvaguardia especial agricola
 
 La medida de Salvaguardia Especial Agricola se aplicará cuando así lo permita el acuerdo comercial internacional vigente para Colombia, siempre que se cumplan con las condiciones de activación de volumen o precios, según sea el caso. Dicha medida se aplicará de manera automática y tendrá la forma de un arancel de importación adicional, de conformidad con el respectivo acuerdo comercial internacional vigente para Colombia.
@@ -22940,8 +20066,6 @@ Si el respectivo acuerdo comercial vigente para Colombia lo prevé, de persistir
 
 (Decreto 573 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.4.6.4 — Control de las importaciones sujetas a la salvaguardia especial agricola
 
 Los activadores por volumen o precio de cada mercancía sujeta a una medida de Salvaguardia Especial Agricola convenida en los acuerdos comerciales internacionales vigentes para Colombia y la información correspondiente a cada operación de importación realizada al amparo de dicho acuerdo, se publicarán y actualizarán oportunamente por la Dirección de Impuestos y Aduanas Nacionales - DIAN, de manera que se garantice la aplicación automática de la salvaguardia en los términos previstos en cada uno de los acuerdos.
@@ -22949,8 +20073,6 @@ Los activadores por volumen o precio de cada mercancía sujeta a una medida de S
 Al mismo tiempo, dicha información será remitida por medios electrónicos al Ministerio de Comercio, Industria y Turismo y al Ministerio de Agricultura y Desarrollo Rural.
 
 (Decreto 573 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.4.6.5 — Procedimiento
 
@@ -22970,23 +20092,17 @@ PARÁGRAFO. La Dirección de Impuestos y Aduanas Nacionales -DIAN publicará el 
 
 (Decreto 573 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.4.6.6 — Control y seguimiento de la medida
 
 Una vez adoptada la medida de Salvaguardia Especial Agricola, el Comité de Asuntos Aduaneros y Arancelarios y de Comercio Exterior, podrá hacer un seguimiento de la misma de acuerdo con sus competencias, y en concordancia con las condiciones pactadas en el respectivo acuerdo comercial que dieron lugar a la aplicación de la medida.
 
 (Decreto 573 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.4.6.7 — Notificaciones
 
 Una vez adoptada la medida de Salvaguardia Especial Agricola, el Ministerio de Comercio, Industria y Turismo será el encargado de realizar las correspondientes notificaciones a la otra parte sobre la aplicación de la medida, de conformidad con lo establecido en el correspondiente acuerdo comercial internacional vigente para Colombia.
 
 (Decreto 573 de 2012, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.4.6.8 — Consultas
 
@@ -22995,8 +20111,6 @@ Una vez adoptada la medida de Salvaguardia Especial Agricola, y cuando el respec
 El proceso de consultas será realizado por el Ministerio de Comercio, Industria y Turismo el cuál deberá acompañarse por el Ministerio de Agricultura y Desarrollo Rural y las demás entidades con competencia en el tema que se trate.
 
 (Decreto 573 de 2012, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.4.6.9 — Aplicación excluyente de las medidas
 
@@ -23012,15 +20126,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.1 — Objeto
 
 El presente capítulo tiene cómo objeto describir el procedimiento para la elaboración de listas de materiales e insumos de escaso abasto para el sector textil y confecciones en Colombia, permitiendo que los materiales e insumos en condición de desabastecimiento sean calificados cómo "mercancías originarias" cuando se utilicen para elaborar mercancías exportables y, en tal condición, podrán obtener las preferencias arancelarias pactadas en determinados acuerdos comerciales.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.2 — Ámbito de aplicación
 
@@ -23037,8 +20147,6 @@ El presente capítulo rige las solicitudes que se presenten ante el Ministerio d
 5. Todo acuerdo comercial en vigor que incluya disposiciones sobre escaso abasto para el sector textil y confecciones.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.3 — Definiciones
 
@@ -23080,8 +20188,6 @@ SECCIÓN 2
 
 PROCEDIMIENTO
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.1 — Presentación de la solicitud
 
 Las solicitudes de inclusión, modificación o exclusión de materiales o insumos en una lista nacional de escaso abasto del sector textil y confecciones, podrán ser presentadas directamente por cualquier persona natural o jurídica establecida en el territorio nacional, o en su nombre. Una solicitud de escaso abasto se entenderá recibida cuando haya sido incorporada en la plataforma electrónica dispuesta para tal fin en el sitio internet del Ministerio de Comercio, Industria y Turismo, salvo que una disposición de un acuerdo comercial prevea algo distinto.
@@ -23091,8 +20197,6 @@ Si la solicitud esta acompañada de muestras del material o insumo objeto de la 
 PARÁGRAFO. - Salvo disposición en contrario, las solicitudes de exclusión o modificación de un material o insumo de una lista nacional de escaso abasto para el sector textil y confecciones podrán tramitarse únicamente seis meses después de que el material o insumo haga parte de una lista nacional de escaso abasto.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2 — Contenido de la solicitud de inclusión
 
@@ -23120,8 +20224,6 @@ Una solicitud de inclusión de materiales e insumos en una lista nacional de esc
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.3 — 2.3
 
 Contenido de una solicitud de modificación o exclusión: Una solicitud de modificación o exclusión de materiales e insumos de una lista nacional de escaso abasto para el sector textil y confecciones deberá contener la siguiente información:
@@ -23148,8 +20250,6 @@ PARÁGRAFO. - Salvo disposición en contrario, las solicitudes de modificación 
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.4 — 2.4
 
 Mérito de la solicitud de inclusión, modificación o exclusión de materiales e insumos de la lista nacional de escaso abasto para el sector textil y confecciones. Si la solicitud esta completa, el administrador del respectivo acuerdo comercial tiene un plazo de dos (2) días para aceptarla o rechazarla, luego de verificar si el material o insumo requerido esta vinculado con los requisitos de origen establecidos en el acuerdo comercial de que se trate.
@@ -23159,8 +20259,6 @@ Si la solicitud esta incompleta, el Ministerio de Comercio, Industria y Turismo 
 El Ministerio de Comercio, Industria y Turismo notificara vía electrónica al solicitante y a las partes interesadas, informando su determinación y las razones de la misma. Además, publicará la versión no reservada de la solicitud de inclusión, modificación o exclusión de materiales e insumos de la lista nacional de escaso abasto para el sector textil y confecciones, en su plataforma electrónica.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.5 — Presentación de ofertas de suministro
 
@@ -23192,8 +20290,6 @@ PARÁGRAFO - Cuando corresponda, conforme al respectivo acuerdo comercial, la en
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.6 — Objeciones a las ofertas de suministro y a las solicitudes de modificación o exclusión
 
 Si cualquier persona natural o jurídica establecida en el territorio nacional no esta de acuerdo o tiene objeciones respecto de las ofertas de suministro, o de las solicitudes de modificación o exclusión, podrá formular sus objeciones en la plataforma electrónica del Ministerio de Comercio, Industria y Turismo, cuatro (4) días después de la fecha de terminación del plazo para la presentación de ofertas de suministro.
@@ -23203,8 +20299,6 @@ Para tal fin, deberá explicar detalladamente las razones por las cuales conside
 A través de la plataforma electrónica del Ministerio de Comercio, Industria y Turismo se publicarán las objeciones a las ofertas de suministro y se notificara mediante correo electrónico a las partes interesadas.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.7 — 2.7
 
@@ -23264,8 +20358,6 @@ Finalizada la evaluación de la solicitud, el administrador del acuerdo remitir�
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.8 — Decisión
 
 Sin perjuicio de lo dispuesto en los acuerdos comerciales donde se establecen procedimientos específicos, y cumplido el procedimiento señalado en el artículo anterior, el coordinador del acuerdo tendrá cuatro (4) días para adoptar la determinación final, en relación con la inclusión, modificación o exclusión de materiales e insumos de la lista nacional de escaso abasto para el sector textil y confecciones la cuál contendrá la siguiente información:
@@ -23284,23 +20376,17 @@ Contra la decisión emitida por el coordinador del acuerdo proceden los recursos
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.9 — Notificación
 
 Una vez adoptada la decisión a la que se refiere el artículo anterior, será notificada a los interesados de manera automática de conformidad con lo establecido en el artículo 56 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, y publicada en la plataforma electrónica del Ministerio de Comercio, Industria y Turismo.
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.10 — Información reservada y clasificada
 
 La información y documentación que suministren los solicitantes, oferentes, empresas y las demás partes interesadas, relacionada con aspectos financieros y comerciales, secreto industrial o comercial, contarán con la reserva de que tratan los numerales 5 y 6 del artículo 24 de la Ley 1437 de 2011 y el artículo 18 de la Ley 1712 de 2014. El Ministerio de Comercio, Industria y Turismo publicará en su sitio internet un resumen sobre la información no reservada ni clasificada suministrada por el solicitante y los oferentes.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.11 — Disposiciones transitorias
 
@@ -23310,8 +20396,6 @@ Hasta tanto se habilite la plataforma electrónica en el sitio internet del Mini
 
 (Decreto 1351 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.12 — Procedimiento bilateral
 
 Cualquier material o insumo que de conformidad con lo establecido en este capítulo sea incluido, excluido o modificado de una lista nacional de escaso abasto para el sector textil y confecciones, vigente para el territorio de Colombia, quedara calificado para continuar con el trámite bilateral sobre escaso abasto previsto en el Acuerdo Comercial de interés de un exportador.
@@ -23319,8 +20403,6 @@ Cualquier material o insumo que de conformidad con lo establecido en este capít
 Las mercancías que incorporen materiales o insumos calificados cómo de escaso abasto en el territorio de Colombia, podrán ser exportadas como originarias únicamente cuando se hayan surtido los trámites previstos para obtener tal condición en el Acuerdo Comercial que corresponda.
 
 (Decreto 1351 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.13 — Aspectos no previstos
 
@@ -23338,15 +20420,11 @@ Consulta, elaboración y socialización del informe anual sobre desarrollo, avan
 
 (Decreto 1067 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.6.1 — Informe anual
 
 Dentro del primer semestre de cada año, los Ministerios de Hacienda y Crédito Público, y de Comercio, Industria y Turismo, elaborarán un informe anual sobre el desarrollo, avance y consolidación de los acuerdos comerciales ratificados por Colombia, cuyo contenido se ajustara a lo establecido en los artículos 1 y 2 de la Ley 1868 de 2017. Dicho informe abarcara el período comprendido entre el 1 de enero y el 31 de diciembre del año inmediatamente anterior.
 
 (Decreto 1067 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2 — Consulta con los gremios
 
@@ -23354,15 +20432,11 @@ A más tardar el 1 de julio de cada año, los Ministerios señalados en el artí
 
 (Decreto 1067 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.6.3 — Presentación del Informe al Congreso
 
 Los Ministros de Hacienda y Crédito Público y de Comercio, Industria y Turismo, presentarán el informe dentro de los primeros 10 días hábiles de la legislatura, a las secretarias del Senado de la República y de la Cámara de Representantes, para que por ese medio se de a conocer su contenido a todos los miembros de tales corporaciones y se cite la sesión conjunta a la que se refiere el artículo 2 de la Ley 1868 de 2017.
 
 (Decreto 1067 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4 — Socialización del Informe
 
@@ -23382,9 +20456,9 @@ SECCIÓN I
 
 DISPOSICIONES GENERALES
 
-## art:2.2.3 — 7.1 .1
+## art:2.2.3.7.1 — 1. Definiciones
 
-Definiciones. Para los efectos previstos en el presente decreto, y de conformidad con lo dispuesto en el Acuerdo Antidumping de la OMC, se establecen las siguientes definiciones:
+Para los efectos previstos en el presente decreto, y de conformidad con lo dispuesto en el Acuerdo Antidumping de la OMC, se establecen las siguientes definiciones:
 
 a. Dumping. Se considerará que un producto es objeto de dumping, es decir, que se introduce en el mercado de otro país a un precio inferior a su valor normal, cuando su precio de exportación al exportarse de un país a otro sea menor que el precio comparable, en el curso de operaciones comerciales normales, de un producto similar destinado al consumo en el país exportador
 
@@ -23462,23 +20536,17 @@ En defecto de lo anterior, por valor normal se entenderá el establecido teniend
 
 Si se tratare de un país con intervención estatal significativa, el valor normal corresponderá al precio doméstico o de exportación en un tercer país con economía de mercado.
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.2 — Ámbito de aplicación
 
 El presente Decreto establece las disposiciones aplicables a las investigaciones sobre las importaciones de productos originarios de países miembros de la Organización Mundial del Comercio (OMC) que sean objeto de dumping, cuando causen o amenacen causar un daño importante a la rama de producción nacional, o retrasen de manera importante la creación o ampliación de esa rama de producción nacional.
 
 Este marco normativo será aplicable, además, a las importaciones de países no miembros de la OMC con los cuáles Colombia tiene vigentes Tratados o Acuerdos Comerciales Internacionales, y a las importaciones de productos provenientes de países con los cuáles Colombia no ha adquirido compromiso internacional alguno en torno a la aplicación de derechos antidumping.
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.3 — Fundamento de las decisiones
 
 Sólo se aplicarán derechos antidumping en virtud de investigaciones iniciadas y realizadas de conformidad con las disposiciones aquí previstas. Este Decreto se aplicará e interpretará en concordancia con lo establecido en el Acuerdo Antidumping de la OMC.
 
 En las decisiones a que hace referencia el presente Decreto se tendrán en consideración los Acuerdos Comerciales Internacionales que resulten aplicables. Los informes de Grupos Especiales y del Órgano de Apelación adoptados por el Órgano de Solución de Controversias de la OMC, podrán ser considerados en el desarrollo de las investigaciones.
-
-ARTÍCULO
 
 ## art:2.2.3.7.1.4 — Interés general
 
@@ -23490,13 +20558,9 @@ SECCIÓN II
 
 DETERMINACION DE LA EXISTENCIA DEL DUMPING, CALCULO DEL DUMPING
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.1 — Dumping
 
 Se considera que un producto es objeto de dumping, es decir, que se importa en el mercado colombiano a un precio inferior a su valor normal, cuando su precio de exportación al exportarse hacia Colombia es menor que el precio comparable, en el curso de operaciones comerciales normales, de un producto similar destinado al consumo en el país de origen. Para efectos de la determinación del dumping en una investigación es preciso considerar los artículos de esta sección.
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.2 — Valor normal en operaciones comerciales normales
 
@@ -23506,8 +20570,6 @@ PARÁGRAFO. Normalmente se considera una cantidad suficiente para determinar el 
 
 Lo anterior, sin perjuicio de que se pueda demostrar que las ventas en el mercado interno del país exportador, cuando sean de menor proporción, son de magnitud suficiente que permiten una comparación adecuada.
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.3 — Determinación del valor normal en otras operaciones
 
 Conforme lo establece el parrafo 2 del artículo 2 del Acuerdo Antidumping de la OMC, cuando el producto similar no sea vendido en el curso de operaciones comerciales normales en el mercado interno del país de origen o exportador, o cuando a causa del bajo volumen de las ventas o de alguna otra situación especial en el mercado interno de dicho país no se pueda realizar una comparación adecuada, el valor normal se podrá obtener considerando el precio de exportación del producto similar que se exporte desde el país de origen o exportador a un tercer país apropiado, siempre y cuando sea representativo, o con el valor reconstruido de un producto similar. Para tal efecto, la Autoridad Investigadora determinará caso por caso la metodología a aplicar.
@@ -23515,8 +20577,6 @@ Conforme lo establece el parrafo 2 del artículo 2 del Acuerdo Antidumping de la
 En el evento de un valor reconstruido, el precio se obtendrá del costo de producción en el país de origen, más un margen razonable de gastos administrativos y de ventas, sumadas la utilidad o el beneficio. En este caso, se tendrán en cuenta los datos del productor del producto objeto de investigación, o los suministrados por otros productores de bienes similares al que es objeto de investigación o se empleara cualquier otro método confiable que determine la Autoridad Investigadora para obtener los datos. La utilidad o el beneficio no será superior al habitualmente obtenido en la venta de productos de la misma categoría en el mercado interno del país de origen.
 
 PARÁGRAFO. Para determinar el bajo volumen de las ventas que trata el presente artículo, se aplicará el criterio de suficiencia establecido en el parágrafo del artículo anterior.
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.4 — Exclusión de ventas para el cálculo del valor normal
 
@@ -23526,21 +20586,15 @@ Entre otros factores, se considerará que no corresponden a operaciones comercia
 
 Se entenderá por ventas realizadas a perdidas sostenidas aquellas que se han efectuado durante un período de tiempo entre 6 meses y 1 año y en las cuáles el promedio ponderado de los precios es inferior al promedio ponderado de los costos unitarios. Las mismas podrán ser consideradas por la Autoridad Investigadora si representan un volumen significativo. Si el 80% del total de las ventas se sitúan por encima del costo, la Autoridad Investigadora podrá utilizar todas las ventas para determinar el valor normal.
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.5 — Precio de exportación
 
 Inicialmente se considerará el realmente pagado o por pagar por el producto considerado. Cuando no exista precio de exportación o cuando a juicio de la Autoridad Investigadora el precio de exportación no sea fiable por la existencia de una asociación, vínculo o arreglo compensatorio entre el exportador y el importador o un tercero, el precio de exportación se reconstruirá sobre la base del precio al cuál los productos importados se venden por primera vez a un comprador independiente.
 
 En caso de que los productos no se vendan a un comprador independiente o la venta no se lleve a cabo en el mismo estado en que se importaron, el precio se calculará sobre una base razonable que la autoridad determine. En dicho cálculo se realizarán los ajustes necesarios para tener en cuenta todos los gastos en que se incurra hasta la venta, tales cómo costos de transporte, seguros, mantenimiento, carga y descarga, derechos de importación y otros tributos causados después de la exportación desde el país de origen, un margen razonable de gastos generales, administrativos, de ventas, beneficios y cualquier comisión habitualmente pagada o convenida.
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.6 — Comparación entre el valor normal y el precio de exportación
 
 El precio de exportación y el valor normal se deberán examinar sobre una base comparable equitativa. Para esto se tendrán en cuenta las condiciones acordadas para la entrega del bien, preferiblemente a nivel ex-fabrica y con base en operaciones efectuadas en fechas lo más próximas posible. Asimismo, la Autoridad Investigadora, según las circunstancias particulares, podrá aplicar ajustes para contrarrestar las diferencias que influyan en la comparación de los precios.
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.7 — Ajustes
 
@@ -23560,8 +20614,6 @@ No se tendrán en cuenta las fluctuaciones de los tipos de cambio y, en el curso
 
 2. Cuando el precio de exportación se haya construido y por ese motivo se vea afectada la posibilidad de comparación de los precios, la Autoridad Investigadora establecerá el valor normal en un nivel comercial equivalente al correspondiente al precio de exportación reconstruido o tomara en consideración los elementos de ajuste previstos en el presente Decreto para este efecto.
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.8 — Ajustes al precio de exportación
 
 La Autoridad Investigadora podrá efectuar, entre otros ajustes, los relacionados con los siguientes factores:
@@ -23577,8 +20629,6 @@ d) En los casos en que se construya el precio de exportación de conformidad con
 Cuando un interesado dentro de la investigación solicite que se tome en consideración algún ajuste, le corresponderá aportar la evidencia de que tal solicitud se justifica, so pena de no tenerse en cuenta dentro de la investigación.
 
 La autoridad investigadora evaluará los ajustes en función de la evidencia aportada que demuestre influyen en la comparación equitativa de precios, para efectos de aceptarlas o rechazarlas.
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.9 — Ajustes al valor normal
 
@@ -23604,8 +20654,6 @@ Cuando un interesado dentro de la investigación solicite que se tome en conside
 
 La autoridad investigadora evaluará los ajustes en función de la evidencia aportada que demuestre influyen en la comparación equitativa de precios, para efectos de aceptarlas o rechazarlas.
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.10 — Margen de dumping
 
 Corresponderá al monto en el cuál el precio de exportación es inferior al valor normal. La existencia del margen de dumping se establecerá sobre la base de una comparación entre un promedio ponderado del valor normal y un promedio ponderado de los precios de todas las transacciones de exportación comparables, o mediante una comparación entre el valor normal y los precios de exportación transacción por transacción.
@@ -23617,8 +20665,6 @@ PARÁGRAFO. En caso de que los productos no se importen directamente del país d
 SECCIÓN III
 
 DETERMINACION DE LA EXISTENCIA DEL DUMPING EN PAISES CON INTERVENCION ESTATAL SIGNIFICATIVA
-
-ARTÍCULO
 
 ## art:2.2.3.7.3.1 — Intervención Estatal Significativa y Valor normal
 
@@ -23650,8 +20696,6 @@ DETERMINACION DE LA EXISTENCIA DE DAÑO IMPORTANTE, AMENAZA DE DAÑO IMPORTANTE,
 
 DE PRODUCCION EN COLOMBIA Y LA RELACIÓN CAUSAL
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.1 — Existencia de daño importante
 
 La determinación de la existencia del daño deberá fundarse en pruebas positivas y comprenderá el examen objetivo de la repercusión de las importaciones objeto de dumping sobre la rama de producción nacional de bienes similares. Esto se deberá realizar mediante el examen de los siguientes elementos:
@@ -23670,8 +20714,6 @@ PARÁGRAFO 1. El efecto de las importaciones objeto de dumping se evaluará en r
 
 PARÁGRAFO 2. La ausencia de tendencias negativas o la presencia de tendencias positivas, en algunos o varios de los factores considerados en el presente artículo, no constituye un criterio decisivo de la existencia de daño importante y de la relación causal entre importaciones con dumping y ese daño importante.
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.2 — Amenaza de daño importante
 
 Cuando un peticionario considere que la solicitud de aplicación de un derecho antidumping esta justificada incluso antes de que se haya materializado el daño, deberá fundarse en hechos y no simplemente en alegaciones, conjeturas o posibilidades remotas. La determinación de esa amenaza de daño importante de las importaciones objeto de dumping considerará además de la inminencia de que ocurrán los factores descritos en el artículo 2. 2.3.7.4.1 del presente Decreto, entre otros, la existencia de factores cómo los siguientes:
@@ -23687,8 +20729,6 @@ Cuando un peticionario considere que la solicitud de aplicación de un derecho a
 PARÁGRAFO 1. Ninguno de estos factores por si sólo considerado bastara necesariamente para obtener una orientación decisiva, pero la presencia de todos o de algunos de ellos ha de permitir determinar que se está bajo la inminencia de nuevas exportaciones a precios de dumping y de que a menos que se adopten medidas de corrección, se producira un daño importante.
 
 PARÁGRAFO 2. La relación causal entre las importaciones a precios de dumping y la amenaza de daño importante se evaluará teniendo en cuenta los efectos probables en los factores e índices económicos y de conformidad con lo previsto en el numeral 4 del artículo anterior.
-
-ARTÍCULO
 
 ## art:2.2.3.7.4.3 — Retraso importante del establecimiento de una rama de producción nacional
 
@@ -23716,8 +20756,6 @@ d. Cuando se cancelaron o aplazaron formalmente los planes de producción.
 
 PARÁGRAFO 2. La demostración de la relación causal entre las importaciones objeto del dumping y el retraso importante al establecimiento o ampliación de una rama de producción nacional se fundamentará en un examen de las pruebas pertinentes de que disponga la Autoridad Investigadora en cada etapa de la investigación e incluirá, entre otros elementos, una evaluación de todos los factores e índices económicos pertinentes de que tratan los numerales del presente artículo.
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.4 — Análisis acumulado del daño, en el establecimiento de una rama de producción nacional
 
 Cuando las importaciones de un producto considerado sean procedentes de más de un país y sean objeto simultáneamente de una investigación antidumping, la Autoridad Investigadora podrá evaluar acumulativamente los efectos de esas importaciones siempre que determine:
@@ -23725,8 +20763,6 @@ Cuando las importaciones de un producto considerado sean procedentes de más de 
 a) Que el margen de dumping establecido en relación con las importaciones del producto considerado de cada país proveedor es más que de minimis y el volumen de las importaciones del producto considerado procedentes de cada país no es insignificante.
 
 b) Que la evaluación acumulativa de los efectos de las importaciones es procedente a la luz de las condiciones de competencia entre los productos importados y el producto nacional similar.
-
-ARTÍCULO
 
 ## art:2.2.3.7.4.5 — Período de análisis del daño
 
@@ -23737,8 +20773,6 @@ En lo referente a la amenaza de daño el período de análisis será el señalad
 SECCIÓN V
 
 RAMA DE PRODUCCION NACIONAL
-
-ARTÍCULO
 
 ## art:2.2.3.7.5.1 — Concepto
 
@@ -23758,8 +20792,6 @@ SECCIÓN VI
 
 PROCEDIMIENTO DE LA INVESTIGACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.1 — Inicio de la investigación
 
 La investigación podrá adelantarse a petición escrita presentada por o en nombre de la rama de producción nacional. La Autoridad Investigadora podrá iniciar el procedimiento por solicitud presentada por la rama de producción nacional o en nombre de ella, cuando se considere perjudicada por importaciones de productos similares a precios dumping.
@@ -23770,13 +20802,9 @@ PARÁGRAFO 1. El período de análisis para la determinación de la existencia d
 
 PARÁGRAFO 2: La Autoridad Investigadora adelantara un proceso de monitoreo permanente del comportamiento de los flujos de comercio hacia Colombia, de acuerdo con la reglamentación que se expida por la Dirección de Comercio Exterior, teniendo en cuenta precios de exportación e importación de productos de interés en el mercado colombiano. En caso de encontrarse elementos relevantes para iniciar un proceso de investigación procederá conforme a las reglas de este Decreto, indagando para el efecto primero a la rama de producción nacional y acto seguido a los importadores y los exportadores hacia Colombia. Para estos casos, la Autoridad podrá en todo momento hacer uso de la información reportada por importadores y exportadores en su proceso de exportación hacia Colombia, sin perjuicio de que la misma se tome en cuenta de forma subsidiaria a la información provista por las partes interesadas en una investigación.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.2 — Solicitud presentada por o en nombre de la rama de producción nacional
 
 Se considera que una solicitud ha sido hecha por, o en nombre de la rama de producción nacional, basándose en el grado de apoyo de los productores nacionales del producto similar presuntamente importado a precios de dumping.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.3 — Requisitos y presentación de la petición
 
@@ -23824,8 +20852,6 @@ PARÁGRAFO 1. La solicitud deberá acompañarse de dos copias, una para ser arch
 
 PARÁGRAFO 2. La solicitud de que trata el presente artículo, así cómo el diligenciamiento de los formularios y el aporte de las pruebas e información exigidas en los mismos, deberá efectuarse través del Aplicativo web o el mecanismo que haga sus veces, de acuerdo con las guías que para este efecto determine la Autoridad Investigadora, so pena de no tenerse en cuenta.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.4 — Evaluación del mérito de la solicitud para decidir la apertura de la investigación
 
 La Autoridad Investigadora contara con un plazo de 15 días, contados a partir del día siguiente de la fecha de radicación de la solicitud para evaluar, en la medida de lo posible, la exactitud y pertinencia de las pruebas aportadas para determinar si existen pruebas suficientes que justifiquen la existencia de mérito para abrir investigación. En caso de que la Autoridad Investigadora encuentre que es necesario solicitar información faltante para efectos de la evaluación, la requerirá al peticionario.
@@ -23842,19 +20868,13 @@ La ausencia de respuesta dentro de este término indicará que no hubo manifesta
 
 PARÁGRAFO. Para efectos de definir la exactitud y pertinencia de las pruebas aportadas por el peticionario para determinar la existencia de material probatorio suficiente que justifique el inicio de la investigación, la Autoridad Investigadora, de oficio o a solicitud de parte, podrá prorrogar por una sola vez el plazo establecido en el primer inciso del presente artículo hasta por 5 días adicionales.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.5 — Reserva de la solicitud de investigación
 
 La Autoridad Investigadora evitara toda publicidad sobre la presentación de una solicitud de investigación, hasta tanto se haya adoptado la decisión de abrirla. No obstante, en el término comprendido antes de la apertura de la investigación, comunicará al gobierno del país o países exportadores interesados la presentación de la misma.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.6 — Apertura de la investigación
 
 Si al evaluar la petición se encuentra mérito para abrir la investigación, así lo dispondrá la Dirección de Comercio Exterior mediante resolución motivada que se publicará en el Diario Oficial. Del mismo modo, de encontrarse que no existe mérito para iniciarla, así lo dispondrá la misma Dirección mediante resolución motivada dentro de los mismos términos.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.7 — Envio y recepción de cuestionarios
 
@@ -23866,13 +20886,9 @@ Esta prórroga es aplicable a todos los que pretendan atender la convocatoria.
 
 Las respuestas que envien las partes interesadas, deberán presentarse integralmente en idioma español o en su defecto, deberán allegarse acompañadas de la traducción oficial. Las respuestas deberán acompañarse de dos copias, una para ser archivada en el cuaderno público del expediente electrónico y otra en el confidencial. Estas exigencias se aplicarán para todos los documentos con los que se pretende demostrar lo afirmado por cada interesado en la investigación, so pena de no tenerse en cuenta. Las comunicaciones, documentos o pruebas, recibidas en idioma distinto al español sin traducción oficial, se tendrán por no allegadas.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.8 — Conocimiento de la solicitud por parte de los productores extranjeros, exportadores y autoridades del país exportador
 
 Dentro de los 5 días siguientes a la publicación de la resolución de apertura de la investigación, la Autoridad Investigadora pondrá a disposición de los productores extranjeros, de los exportadores, de las autoridades del país exportador, y de las otras partes interesadas que lo soliciten, el texto de la solicitud presentada por los peticionarios teniendo en cuenta lo prescrito en cuánto a la reserva de la información confidencial.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.9 — Determinación preliminar
 
@@ -23884,8 +20900,6 @@ Siempre que circunstancias especiales lo ameriten, la Dirección de Comercio Ext
 
 PARÁGRAFO. La documentación y la información recibida dentro de los 15 días anteriores al vencimiento del término para la adopción de la determinación preliminar, incluida su prórroga, podrá no ser considerada en esta etapa, pero en todo caso será tenida en cuenta para la conclusión de la investigación.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.10 — Practica de pruebas
 
 La Autoridad Investigadora de oficio o por solicitud de parte interesada, practicara las pruebas que considere útiles, necesarias y eficaces para la verificación de los hechos investigados. Serán admisibles los medios de prueba testimoniales y documentales, así cómo los demás previstos en el presente Decreto de conformidad con lo establecido por el Acuerdo Antidumping de la OMC.
@@ -23893,8 +20907,6 @@ La Autoridad Investigadora de oficio o por solicitud de parte interesada, practi
 El término para la práctica de pruebas a solicitud de parte vencera 1 mes después de la fecha de la publicación de la resolución que contiene la determinación preliminar. Sin perjuicio de lo anterior, la Autoridad Investigadora podrá decretar pruebas de oficio desde el inicio de la investigación hasta la formulación de la recomendación final por parte del Comité de Prácticas Comerciales.
 
 La Autoridad Investigadora podrá ordenar la práctica y solicitar las pruebas e informaciones en el país o países de origen del producto objeto de investigación. Lo anterior sin perjuicio de lo relacionado con las disposiciones sobre visitas de verificación en el territorio del país de origen del producto objeto de investigación.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.11 — Visitas de verificación
 
@@ -23908,8 +20920,6 @@ Lo anterior no impedira que en el curso de la verificación la Autoridad Investi
 
 La Autoridad Investigadora evaluará la necesidad de realizar visitas de verificación de conformidad con las pruebas que obren en el expediente, así como tendrá en cuenta las circunstancias que puedan dificultar la práctica de las mismas, situación en la que también podrá basar sus decisiones en los hechos de los que tenga conocimiento.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.12 — Visitas de verificación en el territorio del país de origen
 
 La Autoridad Investigadora podrá realizar visitas de verificación en el territorio del país de origen del producto objeto de investigación, previa notificación oportuna al Gobierno de dicho país, y siempre que no hubiere recibido oposición a la visita.
@@ -23919,8 +20929,6 @@ El resultado de las visitas de verificación será puesto en conocimiento de tod
 En el equipo de verificación podrán incorporarse funcionarios o expertos no gubernamentales, los cuáles podrán ser objeto de sanción en caso de incumplimiento de las disposiciones relativas al carácter confidencial de la información. La incorporación de tales funcionarios o expertos será comunicada a las empresas y organismos nacionales del país donde tengan su domicilio legal las empresas a visitar.
 
 La Autoridad Investigadora evaluará la necesidad de realizar visitas de verificación en el territorio del país de origen de conformidad con las pruebas que obren en el expediente, así cómo tendrá en cuenta las circunstancias que puedan dificultar la práctica de las mismas, situación en la que también podrá basar sus decisiones en los hechos de los que tenga conocimiento.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.13 — Audiencia pública entre intervinientes
 
@@ -23942,21 +20950,15 @@ La Autoridad Investigadora sólo tendrá en cuenta, los argumentos alegados en e
 
 PARÁGRAFO. La Dirección de Comercio Exterior establecerá mediante Circular los lineamientos para el desarrollo de las audiencias.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.14 — Alegatos
 
 Las partes interesadas en la investigación, dentro de los 10 días siguientes al vencimiento del término de práctica de pruebas a solicitud de parte, tendrán la oportunidad de presentar por escrito sus alegatos u opiniones relativos a la investigación y a controvertir las pruebas aportadas y practicadas en esta.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.15 — Mejor información disponible
 
 En los casos en que una parte interesada niegue el acceso a la información necesaria o no la facilite integralmente dentro de un plazo prudencial, o entorpezca significativamente una investigación haciendo uso abusivo de instrumentos jurídicos, podrán formularse determinaciones preliminares o definitivas, positivas o negativas en los hechos de que se tenga conocimiento, incluso acudiendo a información que reposa en poder del Estado Colombiano por cuenta de las bases de datos de uso aduanero.
 
 En caso de inconsistencia de alguna de las pruebas o informaciones presentadas, la Autoridad Investigadora, podrá solicitar explicaciones a la parte interesada que esta aportando la información o prueba. Si la autoridad considera que las explicaciones de la parte interesada no son satisfactorias, en las determinaciones que se publiquen se expondrán las razones por las que se hubieren inadmitido parcialmente o rechazado las pruebas o las informaciones presentadas.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.16 — Envio de Hechos Esenciales y presentación del informe final
 
@@ -23970,15 +20972,11 @@ Los comentarios deberán remitirse a la Autoridad Investigadora, so pena de tene
 
 En caso que el Comité de Prácticas Comerciales solicite a la Autoridad Investigadora mayor información sobre los resultados de la investigación, la reunión podrá suspenderse por el término de 10 días.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.17 — Conclusión de la investigación
 
 Dentro de los 5 días siguientes a la formulación de la recomendación por parte del Comité a que hace referencia el artículo anterior, la Dirección de Comercio Exterior adoptara la decisión correspondiente mediante resolución motivada.
 
 Dicha resolución se publicará en el Diario Oficial. Dentro de los 5 días siguientes a su publicación, se comunicará la misma al país o países miembros, cuyos productos sean objeto de la determinación o compromiso de que se trate, así cómo a las demás partes interesadas que hayan manifestado su interés en la investigación y hayan aportado su dirección o correo electrónico.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.18 — Terminación anticipada
 
@@ -23988,13 +20986,9 @@ En el evento de que la parte solicitante desista de su solicitud respecto a la a
 
 Cuando el desistimiento en mención se presente luego de que la Dirección de Comercio Exterior haya resuelto aplicar medidas provisionales, estas serán revocadas de oficio.
 
-ARTÍCULO
-
 ## art:2.2.3.7.6.19 — Acceso al expediente electrónico
 
 En el curso de la investigación cualquier persona podrá tener acceso a los documentos no confidenciales de que trata este Decreto.
-
-ARTÍCULO
 
 ## art:2.2.3.7.6.20 — Reserva de documentos confidenciales
 
@@ -24020,15 +21014,11 @@ SECCIÓN VII
 
 ESTABLECIMIENTO Y PERCEPCION DE DERECHOS ANTIDUMPING
 
-ARTÍCULO
-
 ## art:2.2.3.7.7.1 — Derechos antidumping
 
 La Dirección de Comercio Exterior podrá determinar y ordenar el cobro de derechos antidumping a la importación de todo producto objeto de dumping, respecto del cual se haya determinado que causa o amenaza causar un daño importante a la rama producción nacional o retrasa en forma importante su establecimiento.
 
 El monto de los derechos generalmente podrá expresarse en una de las siguientes formas o combinación de ellas, en porcentaje ad valorem, derecho específico o de acuerdo con un precio base.
-
-ARTÍCULO
 
 ## art:2.2.3.7.7.2 — Calculo de derechos
 
@@ -24044,8 +21034,6 @@ c) El efecto de las medidas en el mercado nacional.
 
 La aplicación de un derecho antidumping no será superior al margen de dumping.
 
-ARTÍCULO
-
 ## art:2.2.3.7.7.3 — Derechos provisionales
 
 Con el fin de impedir que se cause daño durante el plazo de la investigación, la Dirección de Comercio Exterior del Ministerio de Comercio Industria y Turismo, podrá aplicar mediante resolución motivada sólo susceptible de revocatoria directa, derechos provisionales, si luego de dar oportunidad razonable de participar en la investigación a la parte investigada mediante el diligenciamiento de los cuestionarios que para el efecto envie, se concluye de manera preliminar que existe dumping en las importaciones objeto de investigación que causan daño a la rama de producción nacional y se juzga que tales medidas son necesarias para impedir que se cause daño durante la investigación.
@@ -24058,21 +21046,15 @@ La cuantía de los derechos antidumping provisionales se señalará en la resolu
 
 La resolución en mención se publicará en el Diario Oficial, debiéndose comunicar en la forma y oportunidad establecidas en el artículo 2.2.3.7.6. 8. del presente Decreto. Copia de esta resolución se enviará a la Dirección de Impuestos y Aduanas Nacionales (DIAN), para lo de su competencia.
 
-ARTÍCULO
-
 ## art:2.2.3.7.7.4 — Constitución de garantía
 
 En los casos en que se adopten derechos antidumping provisionales, los importadores, al presentar su declaración de importación, podrán optar por cancelar los respectivos derechos o por constituir una garantía ante la Dirección de Impuestos y Aduanas Nacionales (DIAN), para afianzar su pago. La garantía se constituira por el término señalado en la resolución por la cuál se adopto el derecho y de acuerdo con lo dispuesto en las normas aduaneras que regulen la materia.
-
-ARTÍCULO
 
 ## art:2.2.3.7.7.5 — Derechos definitivos
 
 Cuando se hubiere establecido un derecho antidumping definitivo, ese derecho se percibira en las cuantías señaladas en la resolución que lo fije sobre las importaciones de ese producto respecto de las cuáles se haya concluido que se efectuan a precio de dumping y que causan daño a una rama de producción en Colombia.
 
 La Dirección de Comercio Exterior, previa recomendación del Comité de Prácticas Comerciales, adoptara la decisión más conveniente para los intereses del país y podrá determinar que el derecho antidumping sea igual o inferior al margen de dumping, para efectos de eliminar el daño.
-
-ARTÍCULO
 
 ## art:2.2.3.7.7.6 — Imposición de derechos por importaciones masivas o incumplimiento
 
@@ -24086,15 +21068,11 @@ PARÁGRAFO. La calificación de las importaciones masivas de que trata este art�
 
 Se considerará también en cada caso particular el tamaño del mercado del producto objeto de investigación.
 
-ARTÍCULO
-
 ## art:2.2.3.7.7.7 — Retroactividad
 
 No obstante lo dispuesto en los artículos precedentes, cuando se formule una determinación definitiva de la existencia de daño o de la existencia de amenaza de daño, cuando el efecto de las importaciones objeto de dumping sea tal, que de no haberse aplicado medidas provisionales hubiera dado lugar a una determinación de la existencia de daño, se podrán percibir retroactivamente derechos antidumping por el período en que se hayan aplicado medidas provisionales.
 
 La retroactividad en mención igualmente tendrá lugar respecto de los productos que se hayan declarado a consumo 90 días calendario cómo máximo antes de la fecha de aplicación de las medidas provisionales, cuando en relación con el producto objeto de dumping considerado, se determine que existen antecedentes de dumping causante de daño o que el importador conocia o debia conocer la práctica de dumping y la causación de daño, y que el mismo se debe a importaciones masivas de un producto objeto de dumping efectuadas en un lapso de tiempo relativamente corto que probablemente deterioren gravemente el efecto reparador del derecho antidumping definitivo que deba aplicarse, siempre que se haya dado a los importadores interesados la oportunidad de formular las observaciones que estimen pertinentes.
-
-ARTÍCULO
 
 ## art:2.2.3.7.7.8 — Aplicación y vigencia de los derechos antidumping definitivos
 
@@ -24105,8 +21083,6 @@ La Dirección de Impuestos y Aduanas Nacionales (DIAN), aplicará los derechos a
 En ningún caso las investigaciones que se adelanten obstaculizarán la introducción de la mercancía en el territorio nacional.
 
 Ningún producto importado de un mismo país podrá ser objeto simultáneamente de derechos antidumping y de derechos compensatorios, destinados a remediar una misma situación resultante del dumping o de las subvenciones.
-
-ARTÍCULO
 
 ## art:2.2.3.7.7.9 — Medidas antielusion
 
@@ -24138,8 +21114,6 @@ SECCIÓN VIII
 
 DEVOLUCION DE DERECHOS PAGADOS EN EXCESO
 
-ARTÍCULO
-
 ## art:2.2.3.7.8.1 — Derechos provisionales
 
 Habra lugar a devoluciones de derechos provisionales pagados, o a la cancelación o al cobro reducido de la garantía establecida para tales efectos, según el caso, cuando los derechos definitivos sean inferiores a los derechos provisionales que se hayan pagado, o garantizado en un monto equivalente a la diferencia entre ellos.
@@ -24148,15 +21122,11 @@ En caso de no establecerse derechos definitivos, se ordenará la cancelación y 
 
 La Dirección de Impuestos y Aduanas Nacionales (DIAN), devolvera los excedentes de conformidad con lo previsto en el Título 19 del Decreto 1165 de 2019 o las normas que la sustituyan, modifiquen o deroguen.
 
-ARTÍCULO
-
 ## art:2.2.3.7.8.2 — Derechos definitivos
 
 Cuando la Dirección de Comercio Exterior, previa investigación adelantada por la Subdirección de Prácticas Comerciales de conformidad con el siguiente artículo, determine que los derechos antidumping pagados por el importador son superiores al margen real de dumping, dispondrá la devolución del exceso correspondiente, conforme al procedimiento señalado para las revisiones por cambio de circunstancias que resulten aplicables.
 
 La devolución en mención se efectuará por parte de la Dirección de Impuestos y Aduanas Nacionales (DIAN).
-
-ARTÍCULO
 
 ## art:2.2.3.7.8.3 — Solicitud de investigación
 
@@ -24168,15 +21138,11 @@ La solicitud de investigación de que trata este artículo deberá incluir prueb
 
 Si tales pruebas no se han recibido en un término de 2 meses contados a partir de la presentación de la solicitud, se considerará que se ha desistido de la petición y se ordenará su archivo.
 
-ARTÍCULO
-
 ## art:2.2.3.7.8.4 — Determinaciones
 
 En las determinaciones que se adopten dentro de la investigación, se aplicarán las disposiciones pertinentes del presente Decreto, en particular, cuando el precio de exportación se construya sobre la base del precio al que los productos importados se revendan por primera vez a un comprador independiente, por no existir precio de exportación o por no considerarse este fiable.
 
 En este último caso la Autoridad Investigadora, al determinar la procedencia y alcance de la devolución, deberá considerar los cambios que se hayan producido en el valor normal o en los gastos ocasionados entre la importación y la reventa y los movimientos del precio de reventa que se hayan reflejado debidamente en los precios de venta posteriores, debiendo calcular el precio de exportación sin deducir la cuantía de los derechos antidumping pagados, si se aportan pruebas concluyentes de lo anterior.
-
-ARTÍCULO
 
 ## art:2.2.3.7.8.5 — Término para la devolución
 
@@ -24190,8 +21156,6 @@ SECCIÓN IX
 
 COMPROMISOS RELATIVOS A PRECIOS
 
-ARTÍCULO
-
 ## art:2.2.3.7.9.1 — Compromisos de precios
 
 El Comité de Prácticas Comerciales evaluará los casos en que los productores o los exportadores del producto objeto de investigación ofrezcan, a través de la Autoridad Investigadora, porque este lo proponga o por iniciativa de las partes, revisar los precios de exportación o poner fin a las exportaciones a precios de dumping a Colombia, según el caso, en medida tal que se supriman los efectos perjudiciales resultantes.
@@ -24203,8 +21167,6 @@ Los aumentos de precios estipulados en tales compromisos no serán superiores a 
 No se considerarán los ofrecimientos que no incluyan el suministro de la información y la autorización de realizar las verificaciones que la Autoridad Investigadora considere necesarias para constatar que se cumplan o aquellos que ofrezcan limitaciones cuantitativas.
 
 La Dirección de Comercio Exterior por recomendación del Comité de Prácticas Comerciales, previa evaluación de la Subdirección de Prácticas Comerciales, podrá sugerir compromisos de precios, pero no se obligará a ningún exportador a aceptarlas. El hecho de que un exportador no ofrezca tales compromisos o no acepte la invitación a hacerlos, no influira en modo alguno el examen del asunto.
-
-ARTÍCULO
 
 ## art:2.2.3.7.9.2 — Trámite
 
@@ -24218,8 +21180,6 @@ Dentro de los 5 días siguientes a su publicación, se comunicará la misma al M
 
 En la resolución, la Dirección de Comercio Exterior dispondrá además que, en caso de incumplimiento o de renuencia del productor o del exportador oferentes a facilitar información periódica relativa a su cumplimiento, esta podrá establecer la aplicación inmediata de derechos provisionales, sobre la base de la mejor información disponible, sin perjuicio de continuar la investigación o reiniciarla en etapa de determinación preliminar, en caso de haberla llevado a su fin.
 
-ARTÍCULO
-
 ## art:2.2.3.7.9.3 — Suspensión de la investigación
 
 En caso de aceptación de los compromisos de precios por parte la Dirección de Comercio Exterior en la resolución que los acepte podrá ordenar la suspensión de la investigación sobre la existencia del dumping, daño y relación causal, salvo que medie solicitud en contrario de parte del oferente, presentada dentro del mes siguiente a su publicación, o que por solicitud del Comité de Prácticas Comerciales decida llevar a término dicha investigación. En este evento, la Dirección de Comercio Exterior podrá ordenar la continuación de la investigación hasta su culminación.
@@ -24232,8 +21192,6 @@ SECCIÓN X
 
 REVISION Y EXAMEN DE LOS DERECHOS ANTIDUMPING Y DE LOS COMPROMISOS RELATIVOS A PRECIOS
 
-ARTÍCULO
-
 ## art:2.2.3.7.10.1 — Revisiones administrativas
 
 La Autoridad Investigadora, de oficio en cualquier momento, o a solicitud de parte interesada siempre que haya transcurrido como mínimo un año a partir de la imposición de derechos antidumping definitivos, de la aceptación de los compromisos relativos a precios o examen de extinción, podrá iniciar un proceso de revisión con el objeto de determinar si existen cambios en las circunstancias que motivaron su imposición o aceptación, que sean suficientes para justificar la variación de tal determinación.
@@ -24242,15 +21200,11 @@ Cuando un productor o exportador extranjero sujeto a la imposición de un derech
 
 En todo caso, la parte interesada que solicite la revisión deberá probar si se ha producido un cambio de las circunstancias que justifiquen su petición.
 
-ARTÍCULO
-
 ## art:2.2.3.7.10.2 — Objeto de la revisión
 
 En la solicitud de revisión los interesados podrán pedir a la Autoridad Investigadora que examine los margenes de dumping, el valor normal y el precio de exportación determinados en el período del año inmediatamente anterior y que cómo consecuencia de tal revisión, se modifique o suprima el derecho impuesto o se termine la aceptación de los compromisos de precios.
 
 Igualmente, las partes interesadas podrán solicitar a la Autoridad Investigadora que examine si es necesario mantener el derecho antidumping definitivo o la aceptación de los compromisos de precios para neutralizar los efectos negativos del dumping.
-
-ARTÍCULO
 
 ## art:2.2.3.7.10.3 — Examen de Extinción
 
@@ -24262,15 +21216,11 @@ Los derechos antidumping definitivos continuarán aplicándose hasta que se prod
 
 PARÁGRAFO. Las disposiciones del presente artículo aplicarán igualmente en el caso de que el término de vigencia de los derechos antidumping definitivos sea menor a 5 años.
 
-ARTÍCULO
-
 ## art:2.2.3.7.10.4 — Revisión de la aceptación de los compromisos relativos a precios
 
 Las autoridades podrán llevar a cabo revisiones con el objeto de determinar si se prórroga o no la resolución que acepta los compromisos de precios.
 
 Si cómo resultado de la revisión se concluye que no es necesario mantener los compromisos adquiridos mediante los compromisos de precios, la Dirección de Comercio Exterior dispondrá por resolución su terminación, al igual que la de la investigación, si esta se encuentra suspendida.
-
-ARTÍCULO
 
 ## art:2.2.3.7.10.5 — Revisión para la determinación de derechos antidumping para nuevos exportadores y productores
 
@@ -24287,8 +21237,6 @@ Mientras se este llevando a cabo el examen de que trata el presente artículo, l
 SECCIÓN XI
 
 PROCEDIMIENTO PARA LA REVISION Y EXAMEN DE LOS DERECHOS ANTIDUMPING Y DE LOS COMPROMISOS RELATIVOS A PRECIOS
-
-ARTÍCULO
 
 ## art:2.2.3.7.11.1 — Contenido de las solicitudes
 
@@ -24322,37 +21270,25 @@ d) La determinación del margen individual de dumping.
 
 PARÁGRAFO. En el caso de las revisiones para la determinación de derechos antidumping para nuevos exportadores y productores, la información requerida en los numerales 2 y 6, no será exigida por la autoridad. No obstante, deberá presentar la información relativa a su valor normal y precios de exportación.
 
-ARTÍCULO
-
 ## art:2.2.3.7.11.2 — Evaluación del mérito de la solicitud e inicio de la revisión y del examen
 
 Para los efectos de la evaluación de la solicitud, e inicio de la revisión o del examen, se procederá respectivamente de acuerdo con lo dispuesto en la a sección VI del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.3.7.11.3 — Convocatoria para participar en la revisión o en el examen
 
 Las demás partes interesadas en participar en la revisión o en el examen, serán convocadas por la Autoridad Investigadora de acuerdo con lo dispuesto en la sección VI del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.2.3.7.11.4 — Envio, recepción de cuestionarios y comunicación de la solicitud
 
 Los cuestionarios y sus respuestas, así cómo la comunicación de la solicitud a los exportadores y a las autoridades del país exportador, así cómo la práctica de pruebas se regirán en lo no dispuesto en las secciones X y XI del presente Decreto por lo dispuesto en la sección VI.
-
-ARTÍCULO
 
 ## art:2.2.3.7.11.5 — Practica de pruebas
 
 El término para la práctica de pruebas a solicitud de parte vencera 1 mes después del vencimiento del término de recepción de cuestionarios.
 
-ARTÍCULO
-
 ## art:2.2.3.7.11.6 — Audiencias y alegatos
 
 Las audiencias se podrán realizar, por una sola vez, a partir del vencimiento de respuesta de cuestionarios y hasta tres (3) días antes del vencimiento del término de prácticas de pruebas. En esto y en lo referente al término y presentación de alegatos de conclusión se procederá de conformidad con lo dispuesto en la sección VI del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.3.7.11.7 — Conclusiones de la revisión o el examen
 
@@ -24362,25 +21298,17 @@ En el informe con el que se concluye la revisión o el examen se deberá present
 
 La Dirección de Comercio Exterior en el término señalado en este artículo, convocara al Comité de Prácticas Comerciales con el fin de presentar los resultados finales de la revisión o examen y que el mismo conceptue sobre ellos. El término aquí señalado podrá prorrogarse por la Dirección de Comercio Exterior hasta en 10 días cuando considere que circunstancias especiales así lo ameritan.
 
-ARTÍCULO
-
 ## art:2.2.3.7.11.8 — Determinación final
 
 Para efectos de la determinación final se observarán las disposiciones contenidas en la sección VI del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.3.7.11.9 — Supresión del derecho impuesto
 
 Si cómo consecuencia de una revisión realizada de conformidad con las secciones X y XI del presente Decreto, se concluye que no se justifica mantener un derecho antidumping definitivo, la Dirección de Comercio Exterior deberá suprimirlo inmediatamente, informando de ello a la Dirección de Impuestos y Aduanas Nacionales (DIAN).
 
-ARTÍCULO
-
 ## art:2.2.3.7.11.10 — Devolución de los derechos antidumping
 
 La resolución que ordene la supresión o modificación del derecho antidumping definitivo deberá establecer si hay lugar a la devolución de los mismos por parte de la Dirección de Impuestos y Aduanas Nacionales (DIAN), dandole traslado para lo de su competencia.
-
-ARTÍCULO
 
 ## art:2.2.3.7.11.11 — Acceso al expediente y reserva de la información confidencial
 
@@ -24389,8 +21317,6 @@ Para efectos del acceso al expediente y la reserva de información confidencial 
 SECCIÓN XII
 
 NORMATIVA ESPECIAL PARA LAS REVISIONES POR CAMBIO DE CIRCUNSTANCIAS Y EXAMENES DE EXTINCION
-
-ARTÍCULO
 
 ## art:2.2.3.7.12.1 — Determinación de la probabilidad de continuación o reiteración del daño
 
@@ -24406,33 +21332,23 @@ Para este efecto, la Autoridad Investigadora tomara en consideración, entre otr
 
 4. Si la rama de producción nacional es susceptible de daño importante en caso de suprimirse el derecho impuesto o darse por terminados los compromisos de precios.
 
-ARTÍCULO
-
 ## art:2.2.3.7.12.2 — Volumen de las importaciones
 
 La Autoridad Investigadora examinara si el volumen probable de importaciones del producto objeto de derechos antidumping, sería significativo en caso de suprimir el derecho impuesto o de dar por terminados los compromisos de precios. Para este efecto, podrá tener en cuenta factores económicos relevantes tales cómo el probable incremento de la capacidad de producción en el país exportador, las existencias actuales del producto objeto de derechos antidumping o de compromisos de precios, así cómo sus probables aumentos y los eventuales obstáculos a la importación del producto objeto de derechos antidumping o de compromisos de precios a países distintos de Colombia.
-
-ARTÍCULO
 
 ## art:2.2.3.7.12.3 — Efectos sobre el precio
 
 La Autoridad Investigadora, al examinar los posibles efectos sobre los precios de las importaciones del producto objeto del derecho definitivo o de compromisos de precios, tendrá en cuenta la probabilidad de que tales productos ingresen a Colombia a precios que provocarian una reducción o una contención significativa de los precios de los productos similares nacionales, si alguno de estos se revocara.
 
-ARTÍCULO
-
 ## art:2.2.3.7.12.4 — Efectos sobre la rama de producción nacional
 
 La Autoridad Investigadora al evaluar los posibles efectos de las importaciones del producto objeto del derecho definitivo o de la aceptación de los compromisos de precios en la rama de producción nacional, en caso de suprimirse o darse por terminado, tendrá en cuenta factores económicos relevantes que pueden incidir en el estado de la rama de producción nacional en Colombia tales cómo los probables descensos de producción, ventas, participación en los mercados, beneficios, productividad, utilidades y utilización de la capacidad, efectos negativos en el flujo de caja, los inventarios, el empleo, los salarios, el crecimiento, la capacidad de obtener capitales y las inversiones, y los efectos negativos sobre los esfuerzos de desarrollo y producción de la rama de producción nacional, incluidos los esfuerzos por desarrollar una versión derivada o más avanzada del producto similar nacional.
-
-ARTÍCULO
 
 ## art:2.2.3.7.12.5 — Fundamento de la determinación
 
 La presencia o ausencia de cualquiera de los factores que la Autoridad Investigadora deba tener en cuenta a efectos de pronunciarse sobre la posibilidad de que continúe o se reitere el daño importante dentro de un período de tiempo razonablemente previsible, de suprimirse el derecho definitivo o darse por terminada la aceptación de los compromisos de precios, no la obligan a concluir una determinación positiva sobre la existencia de tal posibilidad.
 
 PARÁGRAFO. Los margenes de dumping que sean de minimis no constituiran, por si solos, elementos suficientes para que la Autoridad Investigadora determine que no existe la probabilidad de que la eliminación de un derecho definitivo o la terminación de una aceptación de los compromisos de precios, provoque la continuación o la reiteración de las ventas a menos de su valor normal.
-
-ARTÍCULO
 
 ## art:2.2.3.7.12.6 — Acumulación
 
@@ -24444,33 +21360,23 @@ SECCIÓN XIII
 
 DISPOSICIONES COMUNES
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.1 — Representación y participación de las partes interesadas
 
 En el desarrollo de la investigación antidumping sólo podrán intervenir en las diferentes etapas procedimentales, presentar comunicaciones y en general actuar en representación de las partes interesadas, quienes se encuentren autorizados para ello y acrediten la calidad en la que actuan. Toda comunicación recibida por personas no autorizadas o a nombre de terceros, se tendrá por no allegada.
 
 Las intervenciones orales que se realicen en las audiencias públicas entre intervinientes se regirán de conformidad con la Circular de que trata el parágrafo del artículo 2.2.3.7.6.13. del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.2 — Canal único de actuación de las partes interesadas
 
 La Dirección de Comercio Exterior deberá expedir una Circular estableciendo la obligatoriedad de un canal único de radicación de todas actuaciones de las partes interesadas con posterioridad a la petición inicial, en las diferentes etapas, trámites y procedimientos de las investigaciones administrativas que se lleven a cabo con base con presente Decreto, so pena de no tenerse en cuenta. Lo anterior, una vez el desarrollo técnico del Aplicativo web o el mecanismo que haga sus veces lo permita.
-
-ARTÍCULO
 
 ## art:2.2.3.7.13.3 — 3.3
 
 Eficacia de los procedimientos: Los procedimientos establecidos no tienen por objeto impedir a la Autoridad Investigadora proceder con prontitud a la iniciación de una investigación o a la formulación de determinaciones preliminares o definitivas, positivas o negativas, ni impedirle aplicar medidas provisionales o definitivas, de conformidad con las disposiciones pertinentes del Acuerdo Antidumping de la OMC.
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.4 — Informes técnicos
 
 Previa la adopción de decisiones por parte de la Dirección de Comercio Exterior o la presentación de los resultados de sus evaluaciones al Comité de Prácticas Comerciales, la Subdirección de Prácticas Comerciales elaborara un informe técnico que contendrá las constataciones y conclusiones a que haya llegado sobre las cuestiones pertinentes de hecho y de derecho.
-
-ARTÍCULO
 
 ## art:2.2.3.7.13.5 — Contenido de las resoluciones, informes técnicos de apertura, determinación preliminar y definitiva
 
@@ -24500,25 +21406,17 @@ Las consideraciones relacionadas con la determinación de la existencia de daño
 
 PARÁGRAFO. El informe a que hace referencia el presente artículo podrá efectuarse electrónicamente de acuerdo con las pautas que para este efecto establezca la Autoridad Investigadora.
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.6 — Concurrencia de investigaciones
 
 Las investigaciones para establecer la correcta valoración en aduana de las importaciones en la Dirección de Impuestos y Aduanas Nacionales (DIAN) así cómo las que se refieran a errónea clasificación arancelaria, subfacturación y las relativas a dumping en la Subdirección de Prácticas Comerciales de la Dirección de Comercio Exterior, podrán adelantarse simultáneamente.
-
-ARTÍCULO
 
 ## art:2.2.3.7.13.7 — Cooperación interinstitucional
 
 En caso de que en el curso de un procedimiento administrativo la Subdirección de Prácticas Comerciales tenga elementos de juicio que le permitan suponer la existencia de prácticas de subvaloración, subfacturación, errónea clasificación arancelaria o cualquier otra práctica que pueda resultar de competencia en materia aduanera de la Dirección de Impuestos y Aduanas Nacionales (DIAN), Dirección de Aduanas Nacionales, enviará de oficio copia de toda la documentación pertinente, sin perjuicio de continuar el procedimiento para lo de su competencia. En este caso, se traslada la reserva en materia de confidencialidad que rige para la Autoridad Investigadora y se deberá tener en cuenta lo prescrito en este Decreto en cuánto a la reserva de la información confidencial.
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.8 — Remisión de resoluciones
 
 La Subdirección de Prácticas Comerciales remitirá a la Dirección de Impuestos y Aduanas Nacionales (DIAN), copia de las resoluciones mediante las cuales se determine la aplicación de derechos antidumping provisionales, definitivos o se modifiquen o suspendan los ya establecidos.
-
-ARTÍCULO
 
 ## art:2.2.3.7.13.9 — Competencias
 
@@ -24550,19 +21448,13 @@ Dirección de Comercio Exterior: Emitir mediante resolución motivada el resulta
 
 Subdirección de Prácticas Comerciales: Adelantar las investigaciones previstas en el presente Decreto, sin perjuicio de todas las demás facultades inherentes que le asisten la Subdirección de Prácticas Comerciales para cada procedimiento o investigación, elaborara un estudio que incluya los resultados finales de los mismos.
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.10 — Procedimientos y requisitos
 
 La Dirección de Comercio Exterior establecerá los procedimientos internos, la guía de solicitud, los formularios y demás requisitos necesarios para el cumplimiento del presente Decreto. De igual forma, determinará e implementara los mecanismos electrónicos que habrán de emplearse en el curso de las investigaciones aquí previstas.
 
-ARTÍCULO
-
 ## art:2.2.3.7.13.11 — Revisión
 
 Las decisiones adoptadas en desarrollo de las investigaciones a que hace referencia el presente Decreto, podrán ser objeto de las acciones prescritas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
-
-ARTÍCULO
 
 ## art:2.2.3.7.13.12 — Transitoriedad, Vigencia y Derogatorias
 
@@ -24580,15 +21472,11 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.3.8.1.1 — Objeto
 
 El presente Capítulo tiene cómo objeto regular dos herramientas de facilitación de la inversión extranjera directa en el pais: (i) la Ventanilla Única de Inversión - VUI y (ii) el Servicio de Facilitación de la Inversión Extranjera Directa - SIED; cómo mecanismos para facilitar el cumplimiento de trámites y procedimientos para establecerse y operar en Colombia.
 
 (Adicionado por el Art. 1 del Decreto 1644 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.8.1.2 — Ámbito de aplicación
 
@@ -24604,8 +21492,6 @@ SECCIÓN 2
 
 VENTANILLA UNICA DE INVERSION - VUI
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.1 — Ventanilla Única de Inversión - VUI
 
 Créase la Ventanilla Única de Inversión o VUI como una estrategia interinstitucional dirigida a atender las necesidades del inversionista extranjero en Colombia, conformado por un conjunto de políticas, acciones, y servicios que permiten ofrecerle al inversionista información relevante para su negocio, así como herramientas para facilitar la gestión y cumplimiento de los trámites, procesos y procedimientos relacionados con el ciclo de inversión.
@@ -24618,15 +21504,11 @@ Con el objetivo de facilitar la implementación de la VUI , los organismos y ent
 
 (Adicionado por el Art. 1 del Decreto 1644 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.2 — Objetivo de la VUI
 
 La VUI tiene cómo objetivo principal la facilitación del cumplimiento de los trámites y procedimientos que hacen parte de la cadena de facilitación de la Inversión Extranjera Directa, de manera que un inversionista encuentre un punto de contacto institucional que centralice su relación con el Gobierno nacional.
 
 (Adicionado por el Art. 1 del Decreto 1644 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.3 — Administración y articulación de la Ventanilla Única de Inversión
 
@@ -24644,8 +21526,6 @@ SECCIÓN 3
 
 SERVICIO DE FACILITACION DE LA INVERSION EXTRANJERA DIRECTA - SIED
 
-ARTÍCULO
-
 ## art:2.2.3.8.3.1 — Objetivo del SIED
 
 Créase el Servicio de Facilitación de la Inversión Extranjera Directa o SIED con el propósito de mejorar de manera sistémica el clima de inversión. Este servicio estará compuesto por un conjunto de niveles y herramientas a disposición del inversionista extranjero, con el objetivo de gestionar las dificultades de los inversionistas en temas impositivos, financieros, propiedad intelectual, entre otros, relacionados con trámites y servicios que hacen parte de la cadena de facilitación de la Inversión Extranjera Directa y que son competencia de alguno de los organismos y entidades que integran la Rama Ejecutiva del nivel nacional; propendiendo por la prevención de posibles controversias internacionales.
@@ -24655,8 +21535,6 @@ PARÁGRAFO. El Servicio de Facilitación de la Inversión Extranjera Directa ope
 (Modificado por el Art. 4 del Decreto 1104 de 2024)
 
 (Adicionado por el Art. 1 del Decreto 1644 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.8.3.2 — Modelo de atención del SIED
 
@@ -24673,8 +21551,6 @@ En aquellos casos en que se requiera de un lineamiento, directriz, cambio de pol
 (Modificado por el Art. 5 del Decreto 1104 de 2024)
 
 (Adicionado por el Art. 1 del Decreto 1644 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.8.3.3 — Enlaces institucionales
 
@@ -24698,8 +21574,6 @@ SECCIÓN 4
 
 GOBERNANZA DEL SERVICIO DE FACILITACION DE LA INVERSION EXTRANJERA DIRECTA - SIFAI
 
-ARTÍCULO
-
 ## art:2.2.3.8.4.1 — Comité IED - SIFAI
 
 El Comité de Inversión Extranjera Directa y del Servicio de Facilitación de la Inversión Extranjera Directa o Comité IED - SIFAI, que hace parte del Sistema Nacional de Competitividad e Innovación - SNCI, tendrá cómo objetivo general analizar, discutir, orientar, proponer, articular y monitorear de manera integral la política de promoción, atracción y retención de Inversión Extranjera Directa de Colombia y el mejoramiento del clima de negocios en el país.
@@ -24707,8 +21581,6 @@ El Comité de Inversión Extranjera Directa y del Servicio de Facilitación de l
 PARÁGRAFO. El Comité IED - SIFAI deberá atender a los lineamientos que imparta el Comité Ejecutivo del Sistema Nacional de Competitividad e Innovación - SNCI y coordinar su trabajo con la Agenda Nacional de Competitividad e Innovación, y su régimen será el mismo de cualquier otro comité técnico del Sistema.
 
 (Adicionado por el Art. 1 del Decreto 1644 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.8.4.2 — Conformación del Comité lED - SIFAI
 
@@ -24749,8 +21621,6 @@ PARÁGRAFO 3. El reglamento del Comité será el que adopten sus miembros tenien
  Norma Anterior
  
  Texto Anterior
-
- ARTÍCULO
 
 ## art:2.2.3.8.4.3 — Funciones del Comité lED - SIFAI
 
@@ -25673,8 +22543,6 @@ DEL REGISTRO NACIONAL DE TURISMO
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.1 — Objeto del Registro Nacional de Turismo
 
 El Registro Nacional de Turismo tiene como objeto:
@@ -25689,15 +22557,11 @@ PARÁGRAFO. La inscripción en el Registro Nacional de Turismo es requisito prev
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.2 — Publicidad
 
 La información del Registro Nacional de Turismo es pública. Cualquier persona podrá consultarla, salvo la información sometida a reserva por la Constitución y la Ley.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.3 — 1.3
 
@@ -25709,15 +22573,11 @@ PARÁGRAFO. En caso de que las cámaras de comercio recolecten, usen o traten da
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4 — 1.4
 
 Contenido de los formularios para la inscripción, renovación, actualización, suspensión, cancelación y reactivación del Registro Nacional de Turismo. La Superintendencia de Sociedades aprobara el contenido de los formularios que adoptarán las cámaras de comercio para la inscripción, renovación, actualización, suspensión, cancelación y reactivación del Registro Nacional de Turismo, de acuerdo con los requisitos del presente decreto. El Ministerio de Comercio, Industria y Turismo podrá, mediante circular, emitir lineamientos dirigidos a las cámaras de comercio para el correcto funcionamiento del Registro.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.5 — Término para hacer el registro o devolver la solicitud
 
@@ -25726,8 +22586,6 @@ Las cámaras de comercio procederán a efectuar el registro y expedir el certifi
 PARÁGRAFO. Cuando se requiera verificación previa de la Alcaldía distrital en los casos del inciso 3 del artículo 2.2.4.1.2.4 del presente decreto, las cámaras de comercio podrán efectuar el registro dentro de los quince días siguientes a la recepción electrónica de la solicitud.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.6 — Causales para no registrar la inscripción o renovación
 
@@ -25745,15 +22603,11 @@ Las cámaras de comercio se abstendrán de efectuar la inscripción o renovació
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.7 — Homonimia
 
 Las cámaras de comercio se abstendrán de registrar la solicitud de inscripción de un prestador de servicios turísticos con el mismo nombre de otro que haya sido inscrito previamente en el Registro Nacional de Turismo.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.8 — Identificación de los prestadores de servicios turísticos
 
@@ -25771,15 +22625,11 @@ PARÁGRAFO 2. Las categorías o subcategorías de prestadores de servicios turí
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.9 — Prueba del Registro
 
 El registro se probará únicamente con el certificado de Registro Nacional de Turismo expedido por la cámara de comercio correspondiente a su domicilio, el cual será descargado a través de la plataforma electrónica habilitada por esta.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.10 — Del certificado de Registro Nacional de Turismo
 
@@ -25803,15 +22653,11 @@ El certificado deberá contener, como mínimo, la siguiente información:
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.11 — Publicidad del certificado de Registro Nacional de Turismo
 
 Los prestadores de servicios turísticos fijarán en un lugar visible al público del establecimiento de comercio o del local comercial y en su sitio web el certificado vigente del Registro Nacional de Turismo, e incluirán el número de inscripción asignado en el Registro Nacional de Turismo en la publicidad que emitan o utilicen y, de ser el caso, en la plataforma digital donde oferten sus servicios.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.12 — Obligación de inscribirse en el Registro Nacional de Turismo
 
@@ -25826,8 +22672,6 @@ Los prestadores de servicios turísticos que adicionalmente presten servicios qu
 3. Las plataformas digitales de servicios turísticos y las agencias de viaje en línea (OTA), quienes sólo deben inscribirse en una de estas dos categorías.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.13 — Prestadores de servicios turísticos
 
@@ -25871,8 +22715,6 @@ PARÁGRAFO. Las cámaras de comercio se abstendrán de inscribir en el Registro 
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14 — Identificación con códigos CIIU
 
 Los prestadores de servicios turísticos deberán incluir en el registro mercantil, el registro de entidades sin ánimo de lucro o en el RUT, según el caso, la actividad económica que corresponda a la categoría o subcategoría de la Clasificación Industrial Internacional Uniforme de todas las Actividades Economicas (CIIU), de acuerdo con la clasificación que adopte el Ministerio de Comercio, Industria y Turismo por resolución.
@@ -25883,8 +22725,6 @@ SECCIÓN 2
 
 REQUISITOS Y CONDICIONES GENERALES Y ESPECÍFICOS PARA LA INSCRIPCION EN EL REGISTRO NACIONAL DE TURISMO
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.1 — Naturaleza del Registro Nacional de Turismo
 
 La inscripción en el Registro Nacional de Turismo es uno de los requisitos habilitantes para la prestación de servicios turísticos, es un instrumento gratuito que establece un sistema de información del sector turístico, y no es un registro documental de actos, contratos o negocios jurídicos.
@@ -25892,8 +22732,6 @@ La inscripción en el Registro Nacional de Turismo es uno de los requisitos habi
 La inscripción, actualización, renovación, suspensión, reactivación y cancelación se realizará electrónicamente.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2 — Requisitos generales para la inscripción y renovación en el Registro Nacional de Turismo
 
@@ -25925,8 +22763,6 @@ PARÁGRAFO 3. La inscripción de sociedades domiciliadas en el exterior no se en
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.3 — De la renovación o actualización del Registro Nacional de Turismo
 
 En el período de renovación y cuando se presenten modificaciones a la información del prestador de servicios turísticos o cambios en cuánto a su actividad económica, se actualizará la información prevista en el formulario electrónico disponible para el efecto en los sitios web de las cámaras de comercio.
@@ -25939,8 +22775,6 @@ PARÁGRAFO. Con fines estadísticos, el Ministerio de Comercio, Industria y Turi
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.4 — Inscripción en el Registro Nacional de Turismo de los prestadores del servicio de alojamiento turístico
 
 La inscripción en el Registro Nacional de Turismo de los prestadores del servicio de alojamiento turístico procederá de acuerdo con los requisitos generales establecidos en el artículo 2.2.4.1.2.2. del presente Decreto y de acuerdo con las definiciones previstas en la Sección 12 del Capítulo 4 del Título 4 de la Parte 2 del Libro 2 del presente Decreto.
@@ -25950,8 +22784,6 @@ Los prestadores deberán indicar la dirección del inmueble en la cuál se prest
 Para la inscripción de establecimientos de alojamiento turístico ubicados en Isla Fuerte, Islas del Rosario, Islote Santa Cruz, Mucura, Ararca, Baru, Santana, Bocachica, Caño del Oro, Punta Arena y Tierrabomba en el Distrito Turístico y Cultural de Cartagena de Indias, la cámara de comercio verificará con la Alcaldía Distrital que el establecimiento cuente con el uso del suelo respectivo. El Ministerio de Comercio, Industria y Turismo podrá determinar otros lugares en que esta verificación se requiera.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.5 — Inscripción en el Registro Nacional de Turismo de las agencias de viajes
 
@@ -25975,8 +22807,6 @@ PARÁGRAFO 2. Las Agencias de Viajes en línea u OTA (Online Travel Agency) que 
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.6 — Inscripción en el Registro Nacional de Turismo de las oficinas de representaciones turísticas
 
 Además de los requisitos generales establecidos en el artículo 2.2.4.1.2.2. del presente Decreto y de acuerdo con lo previsto en el Título XIII del Libro IV del Código de Comercio, las oficinas de representaciones turísticas deberán informar las empresas y los productos o servicios que representan, para lo cual deberá declarar que la representada cuenta con un contrato vigente para adelantar la venta, promoción o explotación de servicios turísticos en el territorio nacional o en el extranjero.
@@ -25985,23 +22815,17 @@ Cuando la representación sea de una agencia de viajes, la oficina de representa
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.7 — Inscripción en el Registro Nacional de Turismo de los Guías de Turismo
 
 Para la inscripción de los guías de turismo en el Registro Nacional de Turismo, las cámaras de comercio deberán verificar si el solicitante se encuentra acreditado con la correspondiente tarjeta profesional de guía de turismo, consultando la plataforma para la expedición de la tarjeta profesional de guías de turismo del Ministerio de Comercio, Industria y Turismo. En caso en que los solicitantes no figuren en dicha plataforma las cámaras de comercio se abstendrán de inscribirlos.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.8 — Inscripción en el Registro Nacional de Turismo de los operadores profesionales de congresos, ferias y convenciones
 
 Los operadores profesionales de congresos, ferias y convenciones, se inscribirán de acuerdo con los requisitos generales establecidos en el artículo 2.2.4.1.2.2. del presente Decreto.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.9 — Inscripción en el Registro Nacional de Turismo de los arrendadores de vehículos para turismo nacional e internacional
 
@@ -26011,15 +22835,11 @@ PARÁGRAFO. La cámara de comercio respectiva expedirá junto con el certificado
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.10 — .10
 
 Inscripción en el Registro Nacional de Turismo de los usuarios industriales, operadores y desarrolladores de servicios turísticos de las zonas francas. Los usuarios industriales, operadores y desarrolladores de servicios turísticos de las zonas francas, además de los requisitos generales establecidos en el- artículo 2.2.4.1.2.2. del presente Decreto, informaran, según sea el caso, la calificación cómo usuario industrial de servicios turísticos, o el reconocimiento cómo tal, por parte del Ministerio de Comercio, Industria y Turismo.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.11 — .11
 
@@ -26029,23 +22849,17 @@ La empresa o el administrador que pretenda operar conjuntamente dentro del estab
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.12 — Inscripción en el Registro Nacional de Turismo de las compañías de intercambio vacacional
 
 Las compañías de intercambio vacacional, definidas en el artículo 2.2.4.4.1.2. del presente Decreto, deberán inscribirse en el Registro Nacional de Turismo con el cumplimiento de los requisitos generales establecidos en el artículo 2. 2.4.1.2.2. del presente Decreto.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.13 — Inscripción en el Registro Nacional de Turismo de los establecimientos de gastronomía y bares
 
 De conformidad con lo establecido en la sección 4 del capítulo 1 del título 4 de la parte 2 del libro 2 del presente Decreto, podrán inscribirse en el Registro Nacional de Turismo los establecimientos de gastronomía, bares y similares de interés turístico señalados en el artículo 2.2.4.1.4.3.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.14 — .14
 
@@ -26055,15 +22869,11 @@ Para tal efecto, deberán diligenciar el patrimonio neto, el cual deberá corres
 
 (Artículo MODIFICADO por el Art. 47 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.15 — .15
 
 Inscripción en el Registro Nacional de Turismo de las empresas de transporte terrestre automotor especial, las empresas operadoras de chivas y otros vehículos automotores que presten servicio de transporte turístico. Las empresas de transporte terrestre automotor especial, además de los requisitos generales establecidos en el artículo 2.2.4.1.2.2. del presente Decreto, deberán diligenciar la habilitación expedida por el Ministerio de Transporte de acuerdo con el artículo 2.2.1.6.4.3 del Decreto 1079 de 2015. Las empresas operadoras de chivas y yipaos no deberán diligenciar la información de habilitación.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.16 — .16
 
@@ -26073,15 +22883,11 @@ Los parques de ecoturismo y de agroturismo deberán cumplir además con los requ
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.17 — Inscripción en el Registro Nacional de Turismo de las plataformas electrónicas o digitales de servicios turísticos
 
 Los operadores de plataformas electrónicas o digitales de servicios turísticos, además de los requisitos generales establecidos en el artículo 2.2.4.1.2.2, deberán cumplir los requisitos específicos de inscripción dispuestos en la Sección 13 Capítulo 4 del Título 4 de la Parte 2 del Libro 2 del presente Decreto.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.18 — Inscripción en el Registro Nacional de Turismo y obligaciones de los organizadores de bodas destino
 
@@ -26109,8 +22915,6 @@ SECCIÓN 3
 
 DE LA RENOVACION, REACTIVACION Y ACTUALIZACI ON DEL REGISTRO NACIONAL DE TURISMO
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.1 — Renovación del Registro Nacional de Turismo para todos los prestadores de servicios turísticos
 
 El Registro Nacional de Turismo deberá renovarse dentro del período comprendido entre el 1 de enero y el 31 de marzo de cada año, sin que para ello interese la fecha de la inscripción inicial por parte del prestador de servicios turísticos, salvo que se realice dentro del término aquí previsto, caso en el cuál bastara con la inscripción.
@@ -26118,8 +22922,6 @@ El Registro Nacional de Turismo deberá renovarse dentro del período comprendid
 PARÁGRAFO. El prestador de servicios turísticos deberá solicitar la renovación en la plataforma electrónica habilitada por la cámara de comercio correspondiente, a más tardar el 31 de marzo de cada año.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3.2 — Del incumplimiento en la renovación del Registro Nacional de Turismo
 
@@ -26133,8 +22935,6 @@ Durante el tiempo de suspensión del Registro, no podrán funcionar los establec
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.3 — Reactivación del registro
 
 El prestador de servicios turísticos cuyo Registro Nacional de Turismo haya sido suspendido por incumplir el deber de renovar, deberá solicitar la reactivación y adjuntar el soporte del pago por valor de un (1) salario mínimo legal mensual vigente a favor del Fondo Nacional de Turismo. Esta multa no será aplicable a los casos en que la falta de renovación se haya debido a una situación no imputable al prestador de servicios turísticos. Se entiende cómo situación no imputable la circunstancia atribuible y verificable a la cámara de comercio o a la entidad financiera, cómo la indisponibilidad del servicio de la plataforma del Registro Nacional de Turismo o de la plataforma de pagos que haya impedido completar el trámite en el plazo establecido. El formulario de reactivación incluirá la información requerida para la renovación de la inscripción en el Registro Nacional de Turismo, por lo cuál el registro reactivado se entenderá igualmente renovado.
@@ -26142,8 +22942,6 @@ El prestador de servicios turísticos cuyo Registro Nacional de Turismo haya sid
 PARÁGRAFO. El Fondo Nacional de Turismo calculará y actualizará anualmente en UVT el valor previsto en el presente artículo, de conformidad con lo establecido en el artículo 49 de la Ley 1955 de 2019 y el Título 14 a la Parte 2 del Libro 2 del Decreto 1082 de 2015, Decreto Único Reglamentario del Sector Administrativo de Planeación Nacional.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3.4 — Actualización del registro
 
@@ -26153,15 +22951,11 @@ Las modificaciones que no impliquen una actualización del Registro Mercantil, g
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.5 — Incumplimiento de obligaciones frente al Registro Nacional de Turismo
 
 Quién preste el servicio sin estar inscrito en el Registro Nacional de Turismo, o el prestador de servicios turísticos que incumpla su obligación de renovarlo, u omita o incluya en esta información falsa o inexacta, quedara sujeto a las sanciones previstas en la ley.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3.6 — Suspensión del registro
 
@@ -26179,8 +22973,6 @@ Las cámaras de comercio suspenderán la inscripción en el Registro Nacional de
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.7 — Cancelación del registro
 
 Las cámaras de comercio cancelarán la inscripción en el Registro Nacional de Turismo por las siguientes razones:
@@ -26195,15 +22987,11 @@ Las cámaras de comercio cancelarán la inscripción en el Registro Nacional de 
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.8 — Alcance de los términos "sucursal y agencia"
 
 Los términos "sucursales y agencias", a los que hace referencia este capítulo se entenderán en los sentidos señalados por los artículos 263 y 264 del Código de Comercio.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3.9 — Alcance del término "local comercial"
 
@@ -26211,15 +22999,11 @@ El término local comercial a que se refiere el presente capítulo se entenderá
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.10 — .10
 
 Porte y exhibición del certificado del Registro Nacional de Turismo por los guías de turismo, los operadores de transporte terrestre especial y las agencias de viajes encargadas de la operación de planes turísticos. Los guías de turismo, los operadores de transporte terrestre especial y las agencias de viajes operadoras encargadas de la operación de planes turísticos deberán portar copia del certificado de Registro Nacional de Turismo vigente y estarán obligados a exhibirlo cuando las autoridades requieran verificar la operación legal de tales planes. En caso contrario, la autoridad policiva competente realizará un informe del plan turístico que no cumpla con las normas legales y deberá remitirlo a la autoridad competente.
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3.11 — Apoyo de la Policía de Turismo
 
@@ -26227,15 +23011,11 @@ La Policía de Turismo apoyara a las autoridades de inspección, vigilancia y co
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.12 — Ajustes
 
 Las cámaras de comercio deberán ajustar las herramientas tecnológicas de inscripción, renovación, actualización, suspensión o cancelación del Registro Nacional de Turismo cuando esto se requiera por cambios normativos o para cumplir los lineamientos del Ministerio de Comercio, Industria y Turismo. "
 
 (Sustituido por el Art. 1 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.1.3.13 — Transitorio
 
@@ -26251,13 +23031,9 @@ Sección, Sustituida por el Art.1 del Decreto 343 de 2021
 
 ESTABLECIMIENTOS DE GASTRONOMIA Y BARES TURISTICOS
 
-ARTÍCULO
-
 ## art:2.2.4.1.4.1 — Objeto
 
 Esta sección tiene por objeto reglamentar y determinar los establecimientos de gastronomía y bares que tienen el carácter de turístico.
-
-ARTÍCULO
 
 ## art:2.2.4.1.4.2 — Voluntariedad de los Establecimientos de gastronomía y bares turísticos
 
@@ -26268,8 +23044,6 @@ Una vez obtenido el Registro, el establecimiento deberá cumplir con todos los d
 PARÁGRAFO 1. En caso de que un establecimiento de gastronomía o bar se encuentre ubicado en un establecimiento hotelero y/o de hospedaje y forme parte de los servicios complementarios ofrecidos por este, la inscripción en el Registro Nacional de Turismo se entenderá cumplida con el registro del hotel, sin que haya lugar a la inscripción del restaurante o bar separadamente.
 
 PARÁGRAFO 2. Aquellos establecimientos gastronómicos y bares que a la fecha de publicación de este decreto tuvierán la calidad de turísticos por contar con Registro Nacional de Turismo, y no deseen continuar con dicha calidad, podrán voluntariamente solicitar a la cámara de comercio correspondiente su cancelación.
-
-ARTÍCULO
 
 ## art:2.2.4.1.4.3 — Modalidades de Establecimientos de gastronomía y bares turísticos
 
@@ -26331,8 +23105,6 @@ PARÁGRAFO. No podrán acceder a la condición de prestadores de servicios turí
 
 2. Establecimientos dedicados exclusivamente a servir a grupos o a empresas particulares y no al público en general, tales como casinos de empresas, casas de banquetes no abiertas al público, establecimientos que elaboran y suministrán alimentación a empresas, colegios, universidades, bases militares y aeronaves comerciales.
 
-ARTÍCULO
-
 ## art:2.2.4.1.4.4 — Fortalecimiento de la oferta, calidad y servicio turísticos
 
 Con la finalidad de fortalecer el producto turístico local, regional y nacional, los establecimientos de gastronomía y bares, para ser turísticos, deberán incluir dentro de su operación al menos tres (3) de las siguientes características:
@@ -26353,8 +23125,6 @@ Con la finalidad de fortalecer el producto turístico local, regional y nacional
 
 8. Certificarse en normas de calidad turística y hacer visibles los sellos de calidad que garanticen y promuevan el establecimiento cómo un lugar seguro y de calidad turística.
 
-ARTÍCULO
-
 ## art:2.2.4.1.4.5 — 4.5
 
 Sanciones por la no inscripción de los establecimientos gastronómicos, bares y negocios similares en el Registro Nacional de Turismo. Los establecimientos gastronómicos, bares y negocios similares de interés turístico que se encuentran legalmente constituidos deberán inscribirse en el Registro Nacional de Turismo, so pena de la imposición de las sanciones de que trata el artículo 72 de la Ley 300 de 1996, modificado por el artículo 47 de la Ley 1429 de 2010.
@@ -26371,8 +23141,6 @@ Sección Derogada por el Decreto 1338 de 2021
 
 GENERALIDADES DE LA CONTRIBUCION PARAFISCAL PARA LA PROMOCION DEL TURISMO
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1 — Contribución Parafiscal para la Promoción del Turismo
 
 La Contribución Parafiscal para la Promoción del Turismo se destinará a fortalecer la promoción y la competitividad del turismo y estará a cargo de los aportantes previstos en el artículo 3 de la Ley 1101 de 2006.
@@ -26380,8 +23148,6 @@ La Contribución Parafiscal para la Promoción del Turismo se destinará a forta
 (Derogado por el Decreto 1338 de 2021)
 
 (Decreto 1036 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.2 — Sujeto activo
 
@@ -26391,8 +23157,6 @@ La Contribución a que se refiere el artículo anterior deberá pagarse al Minis
 
 (Decreto 1036 de 2007, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.3 — Sujetos pasivos
 
 Las personas naturales o jurídicas o las sociedades de hecho propietarias u operadoras de los establecimientos y actividades señaladas en el artículo 3 de la Ley 1101 de 2006, son responsables por la liquidación y el pago de la Contribución Parafiscal.
@@ -26400,8 +23164,6 @@ Las personas naturales o jurídicas o las sociedades de hecho propietarias u ope
 (Derogado por el Decreto 1338 de 2021)
 
 (Decreto 1036 de 2007, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.4 — Base gravable y tarifa
 
@@ -26469,8 +23231,6 @@ La tarifa correspondiente a cada uno de los aportantes, será la siguiente:
 
 (Decreto 1036 de 2007, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.5 — Período y causación
 
 El período de la Contribución es trimestral y se causa del 1 de enero al 31 de marzo, del 1 de abril al 30 de junio, del 1 de julio al 30 de septiembre y del 1 de octubre al 31 de diciembre de cada año. La Contribución se liquidara y pagara sobre períodos vencidos.
@@ -26478,8 +23238,6 @@ El período de la Contribución es trimestral y se causa del 1 de enero al 31 de
 (Derogado por el Decreto 1338 de 2021)
 
 (Decreto 1036 de 2007, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.6 — Liquidación privada de la Contribución
 
@@ -26509,8 +23267,6 @@ PARÁGRAFO. Cuando una persona natural o jurídica o sociedad de hecho posea var
 
 (Decreto 1036 de 2007, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.7 — Plazos para presentar y pagar la liquidación privada
 
 La liquidación privada correspondiente a cada período trimestral deberá presentarse y pagarse a más tardar en los primeros 20 días del mes siguiente al del período objeto de la declaración.
@@ -26525,8 +23281,6 @@ Sección Derogada por el Decreto 1338 de 2021
 
 DEL CONTROL EN EL RECAUDO Y COBRO DE LA CONTRIBUCION PARAFISCAL PARA LA PROMOCION DEL TURISMO
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1 — Control en el recaudo
 
 La entidad recaudadora, deberá llevar una relación de los sujetos pasivos que presenten y paguen su liquidación privada en cada período, así cómo de quienes incumplan esta obligación, de forma que le permita realizar el efectivo recaudo de la Contribución y ejercer el control necesario para obtener el correcto y oportuno cumplimiento de las obligaciones a cargo de los aportantes. La relación de los prestadores de servicios turísticos obligados a inscribirse en el Registro Nacional de Turismo, tendrá como base tal Registro. La relación de los demás aportantes se efectuará con base en las declaraciones privadas presentadas por estos.
@@ -26537,8 +23291,6 @@ La entidad recaudadora podrá solicitar información y requerir a los sujetos pa
 
 (Decreto 1036 de 2007, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.2 — Facultad de cobro
 
 Vencido el término para liquidar y pagar la Contribución la entidad recaudadora deberá requerir a aquellos que no la hayan liquidado y pagado. La tasa de interés de mora sobre el pago extemporáneo de la Contribución es la misma que establece el Estatuto Tributario para el Impuesto sobre la Renta y complementarios. Transcurridos tres meses después del vencimiento del plazo para presentar la liquidación y ejercidas las acciones de cobro persuasivo sin obtener el pago total de la Contribución, la entidad recaudadora deberá iniciar el proceso de cobro a través de la jurisdicción coactiva, de conformidad con lo establecido en el inciso 2 del artículo 2 de la Ley 1101 de 2006.
@@ -26546,8 +23298,6 @@ Vencido el término para liquidar y pagar la Contribución la entidad recaudador
 (Derogado por el Decreto 1338 de 2021)
 
 (Decreto 1036 de 2007, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3 — Informes sobre recaudo, control y cobro
 
@@ -26564,8 +23314,6 @@ El Ministerio de Comercio, Industria y Turismo ejercerá las funciones de regula
 SECCIÓN 3
 
 FUNCIONES DE LA ENTIDAD ADMINISTRADORA
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.1 — Funciones de la Entidad Administradora
 
@@ -26587,8 +23335,6 @@ SECCIÓN 4
 
 FUNCIONES DEL COMITE DIRECTIVO DE LA ENTIDAD ADMINISTRADORA DE LOS RECURSOS DESTINADOS A LA PROMOCION DEL TURISMO
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.1 — Funciones del Comité Directivo
 
 El Comité Directivo del Fondo Nacional de Turismo tendrá las siguientes funciones:
@@ -26605,8 +23351,6 @@ SECCIÓN 5
 
 CONTROL DE LA ENTIDAD ADMINISTRADORA DE LOS RECURSOS POR PARTE DEL COMITE DIRECTIVO
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.1 — Control del Fondo por parte del Comité Directivo
 
 El Comité Directivo ejercerá las funciones de auditoría, directamente o a través de una auditoría externa, con cargo a los gastos de administración del Fondo, para garantizar la correcta liquidación, recaudo y administración de la Contribución y de los demás recursos del Fondo, así cómo sobre la ejecución de los programas que se definan. El auditor externo deberá presentar informes semestrales sobre el cumplimiento de su gestión o cuando el Comité Directivo se lo solicite.
@@ -26616,8 +23360,6 @@ El Comité Directivo ejercerá las funciones de auditoría, directamente o a tra
 SECCIÓN 6
 
 CONTROL FISCAL DE LOS RECURSOS ADMINISTRADOS POR LA ENTIDAD ADMINISTRADORA
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.1 — Control Fiscal
 
@@ -26630,8 +23372,6 @@ SECCIÓN 7
 COMPOSICION Y PROCEDIMIENTO PARA LA SELECCIÓN DE LOS REPRESENTANTES AL COMITE DIRECTIVO DEL FONDO NACIONAL DE TURISMO
 
 (Decreto 2094 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.1 — Comité Directivo del Fondo Nacional del Turismo
 
@@ -26653,8 +23393,6 @@ PARÁGRAFO 3. Serán invitados los Alcaldes y Gobernadores de los municipios y g
 
 (Decreto 2094 de 2015, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.2 — Organizaciones gremiales de aportantes
 
 Se entenderá por organizaciones gremiales de aportantes de la Contribución Parafiscal de que trata el artículo 1 de la Ley 11 O 1 de 2006, las entidades sin ánimo de lucro debidamente constituidas y con cobertura nacional, que cumplan los siguientes requisitos:
@@ -26671,15 +23409,11 @@ PARÁGRAFO. La Secretaria Técnica del Comité Directivo del Fondo Nacional de T
 
 (Decreto 2094 de 2015, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.3 — Convocatoria para la elección de las organizaciones gremiales de aportantes
 
 Para efectos de la elección de los representantes de las organizaciones gremiales de aportantes para integrar el Comité Directivo del Fondo Nacional de Turismo, el Ministerio de Comercio, Industria y Turismo convocara a través su sitio Web a las organizaciones gremiales de aportantes e informará sobre los requisitos previstos en la presente sección.
 
 (Decreto 2094 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.4 — Inscripción de las organizaciones gremiales de aportantes
 
@@ -26699,8 +23433,6 @@ PARÁGRAFO 2. Sólo podrán ser elegidos aquellos gremios que se hayan inscrito,
 
 (Decreto 2094 de 2015, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.5 — Proceso de elección
 
 La elección de los representantes de los gremios se realizará mediante votación dirigida por el Ministerio de Comercio, Industria y Turismo.
@@ -26717,15 +23449,11 @@ PARÁGRAFO 4. En caso que no se pudieren elegir todos los miembros o existiere e
 
 (Decreto 2094 de 2015, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.7.6 — Secretaria Técnica del Comité
 
 De acuerdo con lo previsto en el numeral 12 del artículo 8 del Decreto 2785 de 2006, corresponde a la Dirección de Análisis Sectorial y Promoción del Viceministerio de Turismo ejercer la Secretaria Técnica del Comité Directivo del Fondo Nacional de Turismo.
 
 (Decreto 2094 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.7.7 — Período de los representantes
 
@@ -26737,15 +23465,11 @@ SECCIÓN 8
 
 DEFINICIÓN, CLASIFICACIÓN Y VENTA DE BIENES INMUEBLES CON VOCACION TURISTICA
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.1 — Definición de bienes inmuebles con vocación turística
 
 Para efectos de lo establecido en el artículo 22 de la ley 1558 de 2012, son bienes inmuebles con vocación turística, incautados o con extinción de dominio, aquellos susceptibles de ser utilizados por los turistas durante sus viajes y estancias en lugares distintos al de su entorno habitual, con fines de ocio, cultura, salud, eventos, recreación, descanso, peregrinación, ocupación de tiempo libre, convenciones o negocios u otra actividad diferente en el lugar de destino. Adicionalmente, son aquellos que por su infraestructura poseen potencialidad turística sirven para desarrollar proyectos o prestar servicios que puedan satisfacer la demanda y el desarrollo turístico dentro de una región, ya sea porque están ubicados en áreas con vocación turística que así lo definan las normas de ordenamiento territorial respectivas, o porque en ese inmueble funcionaba o puede funcionar un establecimiento para fines turísticos. Todo lo anterior, de conformidad con las normas de ordenamiento territorial donde se encuentren ubicados los bienes inmuebles con vocación turística.
 
 (Decreto 2503 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.2 — Bienes inmuebles con vocación turística incautados y extintos
 
@@ -26757,8 +23481,6 @@ En el evento que el bien inmueble con vocación turística forme parte de un est
 
 (Decreto 2503 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.3 — Certificación sobre el carácter de bienes inmuebles con vocación turística
 
 El Fondo Nacional de Estupefacientes en Liquidación o la entidad que ejerza la función de administrador del Fondo para la Rehabilitación, Inversión Social y lucha contra el Crimen Organizado -FRISCO, una vez notificada o comunicada la decisión Judicial de extinción de dominio o de decomiso a favor del Estado, debe remitir al Ministerio de Comercio, Industria y Turismo, dentro de los ocho (8) días siguientes al recibo de la constancia de ejecutoria de la sentencia o de la providencia, la información de los inmuebles para que realice la evaluación del carácter de bienes inmuebles con vocación turística, acorde a los criterios establecidos en el artículo 2.2.4.2.8.1. del presente Decreto.
@@ -26769,15 +23491,11 @@ Los bienes que el Ministerio de Comercio, Industria y Turismo no califique como 
 
 (Decreto 2503 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.4 — Entrega
 
 El Fondo Nacional de Estupefacientes en Liquidación o la entidad que ejerza la función de administrador del Fondo para la Rehabilitación, Inversión Social y lucha contra el Crimen Organizado -FRISCO, procederá a la entrega de los bienes con vocación turística al Fondo Nacional de Turismo -FONTUR mediante acto administrativo. La entrega material del bien podrá efectuarse a través del depositario provisional de los establecimientos de comercio o de los depositarios o liquidadores de las sociedades propietarias de dichos bienes inmuebles, según corresponda.
 
 (Decreto 2503 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.5 — Venta de establecimientos de comercio extintos con vocación turística
 
@@ -26786,8 +23504,6 @@ La venta de establecimientos de comercio extintos con vocación turística que c
 Si los bienes inmuebles con vocación turística sobre los cuáles desarrolla el establecimiento de comercio sus actividades son de propiedad de un tercero distinto a la persona jurídica o natural dueña del establecimiento de comercio sobre el cuál se extinguio el dominio, deberá contemplarse en el proceso de venta dicha situación, y de esta manera adelantar la cesión de los contratos que pesan sobre estos inmuebles, respetando los derechos económicos de sus propietarios.
 
 (Decreto 2503 de 2012, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.6 — Criterios para determinar el precio de venta de bienes extintos
 
@@ -26805,8 +23521,6 @@ PARÁGRAFO. En el evento en que se produzca la venta del bien extinto, habrá lu
 
 (Decreto 2503 de 2012, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.7 — Administración de los bienes incautados con vocación turística
 
 Los bienes incautados a que se refiere esta sección, son aquellos que se encuentran en proceso de extinción de dominio y para su explotación económica el Fondo Nacional de Turismo -FONTUR podrá celebrar los contratos de concesión, arrendamiento, administración hotelera o cualquier otra modalidad contractual, siempre y cuando sea de carácter oneroso, en favor de la productividad del bien y que sirva para fines de aprovechamiento turístico.
@@ -26816,8 +23530,6 @@ El producto que se derive de la administración de los bienes incautados previo 
 PARÁGRAFO. De declararse por sentencia judicial en firme, la devolución del bien incautado a favor del propietario, habrá lugar a la cesión del (os) contrato (s) celebrado (s). Si, por el contrario, se decide extinguir el derecho de dominio del bien, el administrador del FRISCO informará al FONTUR.
 
 (Decreto 2503 de 2012, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.8 — Gastos por la administración y venta
 
@@ -26829,15 +23541,11 @@ El remanente de las enajenaciones o de la administración deberá consignarse a 
 
 (Decreto 2503 de 2012, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.9 — Contraprestación por la administración y venta
 
 Por la administración o venta de los bienes de que trata el presente Decreto, la Sociedad de Activos Especiales S. A. S - SAE o a la o la entidad administradora del FRISCO reconocerá una contraprestación de acuerdo con las prácticas de mercado al Fondo Nacional de Turismo -FONTUR.
 
 (Decreto 2503 de 2012, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.10 — Giro de recursos y fondo común
 
@@ -26849,23 +23557,17 @@ PARÁGRAFO. En todo caso el FONTUR o la entidad pública que este contrate para 
 
 (Decreto 2503 de 2012, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.11 — Procedimientos
 
 El Fondo Nacional de Turismo -FONTUR, implementara un manual de procedimientos y de contratación relativos a la administración y venta de los bienes a que hace referencia este Decreto, el cuál dada la naturaleza de los bienes, deberá contemplar los principios rectores de la función administrativa y de la gestión fiscal consagrados en la Constitución Política, tales cómo celeridad, economía, eficacia, igualdad, imparcialidad, moralidad, publicidad, así cómo deberá observar el régimen de inhabilidades e incompatibilidades previsto en la Constitución Política y en la ley. Hasta tanto no se implemente este procedimiento, no se podrá proceder a la venta de bienes extintos.
 
 (Decreto 2503 de 2012, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.4.2.8.12 — Informes
 
 El Fondo Nacional de Turismo -FONTUR, deberá suministrar la información general periódica y la extraordinaria que requiera El Fondo Nacional de Estupefacientes en liquidación o el administrador del FRISCO y adicionalmente deberá presentarle semestralmente un informe de la gestión realizada frente a la administración y venta de los bienes entregados.
 
 (Decreto 2503 de 2012, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.2.8.13 — Honorarios de los Liquidadores
 
@@ -26877,8 +23579,6 @@ SECCIÓN 9
 
 ADMINISTRACIÓN O ENAJENACION DE LOS BIENES INMUEBLES CON VOCACION TURISTICA DE PROPIEDAD DEL MINISTERIO DE COMERCIO, INDUSTRIA Y TURISMO, POR PARTE DE LA ENTIDAD ADMINISTRADORA DE LOS RECURSOS O LA ENTIDAD PÚBLICA QUE ESTA CONTRATE
 
-ARTÍCULO
-
 ## art:2.2.4.2.9.1 — Venta o Administración de los Bienes inmuebles de la Corporación Nacional de Turismo
 
 El Ministerio de Comercio, Industria y Turismo entregará para la venta o administración al Fondo Nacional de Turismo - Fontur, aquellos bienes inmuebles que fueron de propiedad de la antigua Corporación Nacional de Turismo. El Fondo a su vez podrá administrar los bienes inmuebles celebrando contratos de concesión, arrendamiento, comodato, administración hotelera o cualquier otra modalidad contractual que sirva a los fines de aprovechamiento turístico.
@@ -26886,8 +23586,6 @@ El Ministerio de Comercio, Industria y Turismo entregará para la venta o admini
 PARÁGRAFO. Los gastos y remuneración en que se incurra por la administración de los bienes que señale el Ministerio de Comercio, Industria y Turismo, se efectuarán con cargo a los recursos señalados en el literal d) del artículo 8 de la Ley 1101 de 2006.
 
 (Decreto 2125 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.2.9.2 — Procedimientos
 
@@ -26903,13 +23601,9 @@ Sección Sustituida por el Art.1 del Decreto 1166 de 2020
 
 IMPUESTO NACIONAL CON DESTINO AL TURISMO CÓMO INVERSION SOCIAL
 
-ARTÍCULO
-
 ## art:2.2.4.2.10.1 — Objeto
 
 La presente Sección tiene por objeto reglamentar el impuesto nacional con destino al turismo cómo inversión social de que trata el artículo 4 de la Ley 1101 de 2006, modificado por el artículo 128 de la Ley 2010 de 2019.
-
-ARTÍCULO
 
 ## art:2.2.4.2.10.2 — Impuesto nacional con destino al turismo cómo inversión social
 
@@ -26919,13 +23613,9 @@ El impuesto nacional con destino al turismo cómo inversión social será cobrad
 
 PARÁGRAFO. Las empresas que presten el servicio de transporte aéreo de tráfico internacional de pasajeros, incluirán el impuesto nacional con destino al turismo cómo inversión social en el valor del tiquete.
 
-ARTÍCULO
-
 ## art:2.2.4.2.10.3 — Responsables del cobro del impuesto nacional con destino al turismo cómo inversión social
 
 Actuarán como responsables del cobro del impuesto nacional con destino al turismo como inversión social, las empresas que presten de manera regular el servicio de transporte aéreo de tráfico internacional de pasajeros, al momento de la venta del tiquete aéreo. En consecuencia, serán responsables de la declaración y transferencia de los recursos recaudados a título del impuesto nacional con destino al turismo cómo inversión social, a la cuenta que para estos efectos disponga el Ministerio de Comercio, Industria y Turismo y sea autorizada por el Tesoro Nacional. El valor del recaudo será apropiado y hará parte del Presupuesto General de la Nación.
-
-ARTÍCULO
 
 ## art:2.2.4.2.10.4 — Forma y periodicidad de las declaraciones del impuesto nacional con destino al turismo como inversión social
 
@@ -26945,13 +23635,9 @@ PARÁGRAFO 2. El Ministerio de Comercio, Industria y Turismo definirá los mecan
 
 PARÁGRAFO 3. La presentación de la declaración en forma extemporánea o con errores, dará lugar a la aplicación de las sanciones previstas en el Estatuto Tributario.
 
-ARTÍCULO
-
 ## art:2.2.4.2.10.5 — Devolución del impuesto nacional con destino al turismo cómo inversión social no causado
 
 En los casos en que las empresas de transporte aéreo de tráfico internacional deban reintegrar el valor del tiquete a los pasajeros, deberán devolver también el valor del impuesto nacional con destino al turismo cómo inversión social, para lo cuál se aplicará la misma tasa representativa del mercado utilizada al momento de la compra del tiquete.
-
-ARTÍCULO
 
 ## art:2.2.4.2.10.6 — Compensaciones en el impuesto nacional con destino al turismo cómo inversión social
 
@@ -26959,21 +23645,15 @@ Las empresas que presten el servicio de transporte aéreo de tráfico internacio
 
 Para este efecto, podrán descontar el valor en el formulario de la declaración en el trimestre en que esto ocurra, o en los trimestres siguientes cuando el valor del reintegro sea mayor al valor a declarar y pagar en dicho trimestre.
 
-ARTÍCULO
-
 ## art:2.2.4.2.10.7 — Administración y fiscalización del impuesto nacional con destino al turismo cómo inversión social
 
 La Dirección de Impuestos y Aduanas Nacionales - DIAN estará a cargo de la administración y fiscalización del impuesto nacional con destino al turismo cómo inversión social. En uso de sus facultades, podrá verificar la información reportada, requerir, liquidar oficialmente y determinar la deuda, cuando las empresas de transporte aéreo de pasajeros no cumplan con el deber de cobro y transferencia oportuna del impuesto nacional con destino al turismo como inversión social.
 
 PARÁGRAFO. La administración del impuesto nacional con destino al turismo cómo inversión social incluye su fiscalización, liquidación, discusión, cobro, devolución, sanción y todos los demás aspectos relacionados con el cumplimiento de las obligaciones tributarias.
 
-ARTÍCULO
-
 ## art:2.2.4.2.10.8 — Disposiciones aplicables
 
 En todos los aspectos no regulados en el presente decreto y relacionados con la gestión del impuesto nacional con destino al turismo como inversión social, se aplicará las disposiciones del Estatuto Tributario Nacional.
-
-ARTÍCULO
 
 ## art:2.2.4.2.10.9 — Destinación de los recursos recaudados por concepto de impuesto nacional con destino al turismo como inversión social
 
@@ -26984,8 +23664,6 @@ SECCIÓN 11
 Sección Derogada por el Art.2 del Decreto 1166 de 2020
 
 PERSONAS EXENTAS DEL IMPUESTO PARA EL TURISMO
-
-ARTÍCULO
 
 ## art:2.2.4.2.11.1 — Exenciones y pruebas
 
@@ -27017,23 +23695,17 @@ SECCIÓN 1
 
 GENERALIDADES DE LAS AGENCIAS DE VIAJES
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1 — Clasificación de las Agencias de Viajes
 
 Por razón de las funciones que deben cumplir y sin perjuicio de la libertad de empresa, las Agencias de Viajes son de tres clases, a saber: Agencias de Viajes y Turismo, Agencias de Viajes Operadoras y Agencias de Viajes Mayoristas.
 
 (Decreto 502 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2 — De las Agencias de Viajes y Turismo
 
 Son Agencias de Viajes y Turismo las empresas comerciales, debidamente constituidas por personas naturales o jurídicas que se dediquen profesionalmente a vender planes turísticos.
 
 (Decreto 502 de 1997, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.3 — Funciones de las Agencias de Viajes y Turismo
 
@@ -27055,15 +23727,11 @@ Las Agencias de Viajes y Turismo cumplirán las siguientes funciones:
 
 (Decreto 502 de 1997, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.4 — De las Agencias de Viajes Operadoras
 
 Son Agencias de Viajes Operadoras las empresas comerciales, debidamente constituidas por personas naturales o jurídicas que se dediquen profesionalmente a operar planes turísticos.
 
 (Decreto 502 de 1997, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.5 — Funciones de las Agencias de Viajes Operadoras
 
@@ -27081,15 +23749,11 @@ Las Agencias de Viajes Operadoras cumplirán las siguientes funciones:
 
 (Decreto 502 de 1997, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.6 — De las Agencias de Viajes Mayoristas
 
 Son Agencias de Viajes Mayoristas las empresas comerciales, debidamente constituidas por personas naturales o jurídicas que se dediquen profesionalmente a programar y organizar planes turísticos.
 
 (Decreto 502 de 1997, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.7 — Funciones de las Agencias de Viajes Mayoristas
 
@@ -27112,8 +23776,6 @@ Sin embargo, responderán solidariamente con la agencia vendedora ante el usuari
 SECCIÓN 2
 
 REGLAS APLICABLES A LAS AGENCIAS DE VIAJES
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.1 — Reglas
 
@@ -27145,8 +23807,6 @@ Las Agencias de Viajes en la prestación de sus servicios, deberán observar las
 
 (Decreto 2438 de 2010, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.2 — Requisitos para la publicidad e información
 
 Toda publicidad o información escrita sobre los planes o servicios turísticos ofrecidos por las Agencias de Viajes, deberá contener cómo mínimo lo siguiente: clase de alojamiento; categoría del establecimiento si se encontrare categorizado; tarifas; duración del plan turístico; medios de transporte; servicios complementarios; nombre y dirección del prestador y el correspondiente número de inscripción en el Registro Nacional de Turismo. Así mismo, deberá especificar claramente los servicios que no incluye.
@@ -27161,8 +23821,6 @@ Servicios complementarios: Servicios turísticos adicionales a los basicos de al
 
 (Decreto 2438 de 2010, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.3 — Responsabilidad frente al usuario o viajero por el servicio de transporte aéreo
 
 La agencia de viajes no asume responsabilidad alguna frente al usuario o viajero por el servicio de transporte aéreo, salvo que se trate de vuelos fletados y de acuerdo con lo especificado en el contrato de transporte. La prestación de tal servicio se rige por las normas legales aplicables al servicio de transporte aéreo. Los eventos tales cómo retrasos o modificaciones imprevistas en los horarios de los vuelos dispuestos por las aerolíneas, los derechos del usuario y los procedimientos para hacer efectivas las devoluciones de dinero a que estos hechos den lugar, se regirán por las disposiciones legales pertinentes y en particular por las contenidas en el Reglamento Aeronáutico Colombiano (RAC).
@@ -27170,8 +23828,6 @@ La agencia de viajes no asume responsabilidad alguna frente al usuario o viajero
 Cuando en razón a la tarifa o por cualquier otro motivo existan restricciones para efectuar modificaciones a la reserva aérea, endosos o reembolsos; tales limitaciones deberán ser informadas al usuario.
 
 (Decreto 2438 de 2010, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.4 — De los servicios, planes o paquetes turísticos
 
@@ -27195,15 +23851,11 @@ En el evento previsto en el artículo 65 de la Ley 300 de 1996, la devolución e
 
 (Decreto 2438 de 2010, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.5 — Sobre la promoción y venta de cruceros
 
 La información que suministre el agente de viajes en la promoción y venta de cruceros será la establecida y proporcionada por cada compañía naviera, para lo cuál deberá indicarle al usuario adicionalmente, la página web en la cuál puede consultar los términos y condiciones de realización del crucero.
 
 (Decreto 2438 de 2010, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.6 — De la no presentación o utilización de los servicios pactados
 
@@ -27211,23 +23863,17 @@ De acuerdo con lo previsto en el artículo 65 de la Ley 300 de 1996, cuando el u
 
 (Decreto 2438 de 2010, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.7 — De la continuidad y cumplimiento de los planes o servicios ofrecidos
 
 En eventos tales cómo la venta del establecimiento de comercio, cambio de propietario, o cesación temporal o definitiva en la prestación de los servicios turísticos y estando en curso la operación de planes o servicios turísticos, se garantizará la continuidad y el cumplimiento de los mismos en los términos ofrecidos.
 
 (Decreto 2438 de 2010, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.8 — Del cumplimiento de las obligaciones legales
 
 Cualquier persona natural o jurídica que organice, promocione y comercialice servicios, planes o paquetes turísticos, deberá cumplir las disposiciones del presente capítulo previo el cumplimiento de los requisitos establecidos para operar legalmente.
 
 (Decreto 2438 de 2010, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.9 — Otras funciones que requieren inscripción
 
@@ -27243,15 +23889,11 @@ SECCIÓN 1
 
 ASPECTOS GENERALES DEL TIEMPO COMPARTIDO TURISTICO
 
-ARTÍCULO
-
 ## art:2.2.4.4.1.1 — Objeto del capítulo
 
 El presente Capítulo tiene por objeto reglamentar el sistema de tiempo compartido turístico sobre bienes inmuebles.
 
 (Decreto 1076 de 1997, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.4.1.2 — Definiciones
 
@@ -27295,8 +23937,6 @@ También se entenderá cómo promotor o desarrollador aquella persona natural o 
 
 (Decreto 1076 de 1997, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.4.1.3 — Modalidades de tiempo compartido
 
 Según la identificación de la unidad de alojamiento y el período anual de disfrute, el tiempo compartido puede ser de carácter fijo, flotante o mixto.
@@ -27307,8 +23947,6 @@ En el de carácter flotante se utilizará una unidad inmobiliaria de determinada
 
 (Decreto 1076 de 1997, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.4.1.4 — Naturaleza jurídica del tiempo compartido
 
 El tiempo compartido turístico será de carácter real o de carácter personal.
@@ -27318,8 +23956,6 @@ El tiempo compartido turístico es de carácter real cuando los usuarios adquier
 El tiempo compartido turístico es de carácter personal cuando los usuarios establecen relaciones jurídicas que generan un derecho personal que los faculta para ejercer su atribución de utilización o disfrute del establecimiento sometido al régimen de tiempo compartido turístico.
 
 (Decreto 1076 de 1997, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.4.1.5 — Aplicación de las normas colombianas
 
@@ -27333,8 +23969,6 @@ SECCIÓN 2
 
 DE LA CONSTITUCIÓN DEL SISTEMA DE TIEMPO COMPARTIDO
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.1 — Constitución del sistema de tiempo compartido
 
 Para la constitución del sistema de tiempo compartido el propietario de un inmueble o quién pueda disponer del mismo deberá hacer, a su elección, declaración unilateral de voluntad formalizada por escritura pública ante notario o contenida en un contrato de fiducia mercantil irrevocable, en la cuál se indique la afectación del inmueble al sistema de tiempo compartido turístico y el término de esa afectación, si los hubiere.
@@ -27344,8 +23978,6 @@ Dichos actos jurídicos deberán inscribirse en la oficina de registro correspon
 PARÁGRAFO. La multipropiedad así constituida no dará lugar al ejercicio de la acción divisoria.
 
 (Decreto 1076 de 1997, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2.2 — Contenido del acto constitutivo del tiempo compartido turístico
 
@@ -27369,8 +24001,6 @@ PARÁGRAFO 2. El promotor deberá tener a disposición de cualquier persona inte
 
 (Decreto 1076 de 1997, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.3 — Compatibilidad con el régimen de propiedad horizontal
 
 El régimen de multipropiedad o de multiusufructo es compatible con el régimen de propiedad horizontal que exista o que posteriormente se constituya sobre el establecimiento de tiempo compartido turístico.
@@ -27379,15 +24009,11 @@ PARÁGRAFO. Cuando fuere del caso, las estipulaciones contenidas en los numerale
 
 (Decreto 1076 de 1997, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.4.4.2.4 — Inscripción en el registro nacional de turismo
 
 Para la valida comercialización del establecimiento de tiempo compartido turístico en cualquiera de sus modalidades, será necesario que con carácter previo el promotor, comercializador, o persona que los represente, solicite su inscripción en el Registro Nacional de Turismo.
 
 (Decreto 1076 de 1997, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2.5 — Suministro de información adicional
 
@@ -27402,8 +24028,6 @@ PARÁGRAFO 1. Una vez el promotor o comercializador concluya sus actividades de 
 PARÁGRAFO 2. Cuando el promotor y operador del establecimiento de tiempo compartido turístico sean la misma persona jurídica, para efectos del pago de derechos de inscripción y actualización en el Registro Nacional de Turismo, se les aplicará el régimen de tarifas establecido para sucursales y agencias.
 
 (Decreto 1076 de 1997, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2.6 — Estipulaciones del contrato
 
@@ -27437,15 +24061,11 @@ SECCIÓN 3
 
 DE LAS GARANTÍAS
 
-ARTÍCULO
-
 ## art:2.2.4.4.3.1 — Garantías
 
 Para iniciar los procesos de comercialización de inmuebles sometidos al régimen de tiempo compartido turístico, los promotores o comercializadores deberán establecer las garantías que se señalan en este capítulo.
 
 (Decreto 1076 de 1997, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.4.4.3.2 — Garantías cuando la construcción no se hubiere iniciado en un proyecto ubicado en Colombia
 
@@ -27455,8 +24075,6 @@ Cuando la garantía elegida por el promotor o comercializador sea la de póliza 
 
 (Decreto 1076 de 1997, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.4.4.3.3 — Garantías en proyectos en construcción ubicados en Colombia
 
 Cuando ya se hubiere iniciado la construcción de un inmueble y se decidiere su afectación al régimen de tiempo compartido turístico, el promotor o comercializador deberán establecer, a su lección, una de las siguientes garantías: póliza de seguro, caución, aval, encargo fiduciario, contrato de fiducia mercantil o cualquiera otra que asegure el buen manejo de los recursos recibidos o que reciba en el futuro, su adecuada destinación y el cumplimiento del contrato o la devolución de las sumas recibidas de los compradores, en el evento de que no se terminen las obras.
@@ -27464,8 +24082,6 @@ Cuando ya se hubiere iniciado la construcción de un inmueble y se decidiere su 
 Cuando la garantía elegida por el promotor o comercializador sea la de póliza de seguro, ella deberá constituirse por un veinte por ciento, al menos, del presupuesto de obra del proyecto.
 
 (Decreto 1076 de 1997, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.4.4.3.4 — Garantías en proyectos en construcción ubicados en el exterior
 
@@ -27480,8 +24096,6 @@ Si se tratare de un proyecto cuya construcción no estuviere terminada y la gara
 SECCIÓN 4
 
 DERECHOS Y OBLIGACIONES DE LOS USUARIOS
-
-ARTÍCULO
 
 ## art:2.2.4.4.4.1 — Derechos de los usuarios
 
@@ -27511,11 +24125,9 @@ ARTÍCULO
 
 (Decreto 1076 de 1997, art. 16)
 
-ARTÍCULO
+## art:2.2.4.4.4.2 — 
 
-## art:2.2.4.4.4.2 — 4.2
-
-Obligaciones de los usuarios.
+2.2.4.4.4.2. Obligaciones de los usuarios.
 
 1. Son obligaciones de los usuarios respecto del promotor y del operador:
 
@@ -27549,8 +24161,6 @@ SECCIÓN 5
 
 DERECHOS Y OBLIGACIONES DEL PROMOTOR Y DEL ADMINISTRADOR
 
-ARTÍCULO
-
 ## art:2.2.4.4.5.1 — Derechos y obligaciones del promotor
 
 El promotor tendrá los derechos y obligaciones establecidos en el presente capítulo, en la escritura pública o el contrato de Fiducia Mercantil constitutivos del régimen de tiempo compartido turístico, en el contrato de tiempo compartido turístico, y en el reglamento interno.
@@ -27559,11 +24169,9 @@ PARÁGRAFO. Cuando en virtud de un contrato de fiducia mercantil una entidad fid
 
 (Decreto 1076 de 1997, art. 18)
 
-ARTÍCULO
+## art:2.2.4.4.5.2 — 
 
-## art:2.2.4.4.5.2 — 5.2
-
-Obligaciones del promotor.
+2.2.4.4.5.2. Obligaciones del promotor.
 
 1. Son funciones del promotor respecto del usuario:
 
@@ -27581,15 +24189,11 @@ Obligaciones del promotor.
 
 (Decreto 1076 de 1997, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.4.4.5.3 — Responsabilidad por el manejo de fondos
 
 El promotor, o en su caso, el administrador u operador, serán responsables del empleo correcto de los fondos recibidos para la administración y, en general, para el cuidado, mantenimiento y conservación del establecimiento constituido en régimen de tiempo compartido turístico y para la gestión de los intereses comunes de los usuarios en relación con el mismo dentro de los términos del contrato de administración.
 
 (Decreto 1076 de 1997, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.4.4.5.4 — Atribuciones del administrador
 
@@ -27607,8 +24211,6 @@ El administrador del establecimiento constituido en régimen de tiempo compartid
 
 (Decreto 1076 de 1997, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.4.4.5.5 — Seguro
 
 Antes de iniciar la operación del establecimiento constituido en régimen de tiempo compartido turístico, el promotor, administrador u operador deberá contratar y conservar vigente en todo momento en relación con dicho establecimiento un seguro de incendio y terremoto cuyos costos anuales deberán incorporarse al presupuesto de gastos del establecimiento de tiempo compartido turístico.
@@ -27618,8 +24220,6 @@ Antes de iniciar la operación del establecimiento constituido en régimen de ti
 SECCIÓN 6
 
 OBLIGACIONES DEL COMERCIALIZADOR
-
-ARTÍCULO
 
 ## art:2.2.4.4.6.1 — Deberes del comercializador
 
@@ -27642,8 +24242,6 @@ Además de los deberes señalados en las normas generales, son obligaciones espe
 SECCIÓN 7
 
 DEL REGLAMENTO INTERNO DEL ESTABLECIMIENTO DE TIEMPO COMPARTIDO
-
-ARTÍCULO
 
 ## art:2.2.4.4.7.1 — Del reglamento interno
 
@@ -27699,8 +24297,6 @@ PARÁGRAFO. El promotor o comercializador estará obligado a entregar una copia 
 
 (Decreto 1076 de 1997, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.4.4.7.2 — Fondo de reserva
 
 En el presupuesto del establecimiento deberá figurar junto a la totalidad de los gastos previstos por todos los conceptos, una cantidad destinada a la constitución de un fondo de reserva del que sólo podrá disponerse para gastos de reposición de elementos esenciales del establecimiento de tiempo compartido turístico o de las unidades de alojamiento, realización de reparaciones extraordinarias o gastos imprevistos de carácter urgente.
@@ -27713,8 +24309,6 @@ SECCIÓN 8
 
 EXTINCION DEL RÉGIMEN DE TIEMPO COMPARTIDO TURISTICO
 
-ARTÍCULO
-
 ## art:2.2.4.4.8.1 — De la extinción del régimen
 
 El régimen de tiempo compartido turístico puede terminar por el transcurso del tiempo establecido en el documento de constitución de tiempo compartido turístico a que se refiere el artículo 2.2. 4.4.2.1. de este Decreto, por la destrucción de las tres cuartas partes o más de las unidades inmobiliarias del establecimiento de tiempo compartido turístico, o por acuerdo de los titulares adoptado validamente según lo que al respecto establezca el reglamento interno del inmueble sometido a dicho régimen.
@@ -27723,15 +24317,11 @@ El reglamento interno establecerá el procedimiento para la liquidación del ré
 
 (Decreto 1076 de 1997, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.4.4.8.2 — Protección al consumidor
 
 Sin perjuicio de las normas contenidas en el estatuto de protección al consumidor, en las normas que lo modifiquen o sustituyan y de las estipulaciones y procedimientos tendientes a proteger a los usuarios de servicios turísticos consagrados en la Ley 300 de 1996, se establecen en la presente sección normas especiales para la protección de los consumidores con base en lo dispuesto por el artículo 98 de la mencionada Ley 300 de 1996.
 
 (Decreto 1076 de 1997, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.4.4.8.3 — De la identificación de los prospectadores de tiempo compartido
 
@@ -27739,15 +24329,11 @@ Los prospectadores de tiempo compartido turístico que se desplazan por lugares 
 
 (Decreto 1076 de 1997, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.4.4.8.4 — Responsabilidad por la actividad de personas subordinadas
 
 El promotor o comercializador será responsable de los compromisos adquiridos y de la información suministrada por el personal a su servicio y de los terceros que contrate para la realización de encuestas.
 
 (Decreto 1076 de 1997, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.4.4.8.5 — Contenido y exhibición de la credencial
 
@@ -27756,8 +24342,6 @@ Todo prospectador deberá portar la credencial vigente de que trata el artículo
 La credencial tendrá una vigencia de tres meses, al cabo de los cuales deberá ser renovada.
 
 (Decreto 1076 de 1997, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.4.4.8.6 — Prohibiciones a los prospectadores
 
@@ -27768,8 +24352,6 @@ Queda prohibido a los prospectadores:
 2. No manifestar el objeto de la actividad o hacerlo sin ceñirse a las características del producto que ofrece.
 
 (Decreto 1076 de 1997, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.4.4.8.7 — De las prácticas de telemercadeo
 
@@ -27782,8 +24364,6 @@ Cuando quiera que se utilice tele mercadeo telefónico para promocionar programa
 3. Las llamadas telefonicas para la promoción de proyectos de tiempo compartido turístico deben realizarse entre las 8: 00 a. m. y 9: 00 p. m.
 
 (Decreto 1076 de 1997, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.4.4.8.8 — Infracciones y sanciones
 
@@ -27819,15 +24399,11 @@ Capítulo Sustituido por el Art.1 del Decreto 1053 de 2020
 
 DEL GUIONAJE TURISTICO
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.1 — Objeto
 
 Esta sección tiene por objeto reglamentar el guionaje turístico.
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.2 — Funciones del guía de turismo
 
@@ -27842,8 +24418,6 @@ Son funciones del guía de turismo:
 4. Asistir al turista, viajero o pasajero oportunamente de acuerdo con el plan de viaje o servicios convenidos, así cómo en las eventualidades e imprevistos que se deriven de estos.
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.3 — Actividades del guía de turismo
 
@@ -27872,8 +24446,6 @@ Para la prestación del servicio de guionaje turístico, el guía de turismo pod
 11. Intervenir entre los prestadores de servicios turísticos locales del territorio facilitando la operación turística.
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.4 — Obligaciones y derechos del guía de turismo
 
@@ -27913,23 +24485,17 @@ Son derechos de los guías de turismo:
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.5 — Acceso en áreas abiertas al público
 
 Los guías de turismo, en el ejercicio de sus funciones, tendrán acceso gratuito a las áreas abiertas al público cómo museos, monumentos, zonas arqueológicas, parques nacionales naturales y en general todo sitio de interés turístico.
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.6 — Requisitos para ejercer el guionaje turístico
 
 Para el ejercicio del guionaje turístico se requiere contar con la tarjeta profesional de guía de turismo y mantener vigente y actualizada su inscripción en el Registro Nacional de Turismo. Para ejercer la profesión de Guía de Turismo, los extranjeros, además de los requisitos indicados en este artículo, deberán cumplir con las disposiciones legales y reglamentarias que regulan su permanencia y trabajo en el territorio nacional.
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.7 — Requisitos para obtener la Tarjeta Profesional de Guía de Turismo
 
@@ -27957,8 +24523,6 @@ PARÁGRAFO 2. También se le expedirá la tarjeta profesional de Guía de Turism
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.8 — Condiciones para la expedición de la tarjeta profesional de guía de turismo
 
 Los guías de turismo deberán presentar su solicitud a través de la página web del Ministerio de Comercio, Industria y Turismo y adjuntar copia de los documentos que acrediten el cumplimiento de las condiciones y requisitos exigidos para la obtención de la tarjeta, establecidos en el artículo 2.2.4.4.10.7 del presente Decreto.
@@ -27968,8 +24532,6 @@ El Ministerio de Comercio, Industria y Turismo verificará el cumplimiento de lo
 Una vez expedida la tarjeta, no será necesaria su renovación. No obstante, el Guía de Turismo podrá solicitar la actualización de su tarjeta para incluir nueva información.
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.10.9 — Indicación de la cualificación y del idioma en la Tarjeta
 
@@ -27981,8 +24543,6 @@ PARÁGRAFO. Los guías de turismo sólo podrán prestar servicios turísticos en
 
 (Sustituido por el Art. 1 del Decreto 1379 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.10.10 — Conocimiento en segundo idioma para solicitantes extranjeros residentes en Colombia
 
 Para los casos de los extranjeros de lengua no hispana que soliciten la tarjeta profesional de guía de turismo y deseen acreditar el conocimiento en un segundo idioma con el de su país de origen, podrán acreditarlo con copia del pasaporte de su nacionalidad y declarar, mediante documento escrito, que su lengua nativa corresponde al idioma de uso oficial en su país de origen, diferente al español o castellano".
@@ -27991,9 +24551,7 @@ Para los casos de los extranjeros de lengua no hispana que soliciten la tarjeta 
 
 SECCIÓN 11
 
-DE LOS OPERADORES PROFESIONALES DE CONGRESOS, FERIAS Y CONVENCIONES. 
-
-ARTÍCULO
+DE LOS OPERADORES PROFESIONALES DE CONGRESOS, FERIAS Y CONVENCIONES.
 
 ## art:2.2.4.4.11.1 — Reglas para el desarrollo de actividades
 
@@ -28017,8 +24575,6 @@ Los operadores profesionales de congresos, ferias y convenciones en desarrollo d
 
 (Decreto 1824 de 2001, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.4.11.2 — Publicidad turística
 
 Toda publicidad o información escrita sobre servicios turísticos utilizada por los operadores profesionales de congresos, ferias y convenciones, o difundida por estos a través de Internet, deberá contener cómo mínimo los siguientes aspectos: servicios que presta, tarifas, y el correspondiente número de inscripción en el Registro Nacional de Turismo.
@@ -28026,8 +24582,6 @@ Toda publicidad o información escrita sobre servicios turísticos utilizada por
 El material publicitario utilizado en la promoción de los servicios de los operadores profesionales de congresos, ferias y convenciones, deberá ser claro evitando el uso de términos que por su ambigüedad pudieran inducir en los usuarios expectativas sobre el servicio, superiores a las que realmente presta.
 
 (Decreto 1824 de 2001, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.4.11.3 — Acreditación de la inscripción en el Registro Nacional de Turismo para contratar
 
@@ -28043,15 +24597,11 @@ SECCIÓN 12
 
 DEL SERVICIO DE ALOJAMIENTO TURISTICO
 
-ARTÍCULO
-
 ## art:2.2.4.4.12.1 — Ámbito de aplicación
 
 Las normas contenidas en esta sección serán aplicables a toda persona natural o jurídica que preste el servicio de hospedaje o alojamiento turístico en establecimientos de alojamiento turístico y viviendas turísticas de acuerdo con las definiciones del artículo 2.2.4.4.12.2.
 
 (Sustituido por el Art. 2 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.12.2 — Definiciones
 
@@ -28062,8 +24612,6 @@ Establecimientos de alojamiento turístico: Son los establecimientos de comercio
 Viviendas turísticas: Unidades privadas, casas y demás construcciones integradas arquitectónica y funcionalmente destinada total o parcialmente a brindar el servicio de alojamiento turístico según su capacidad, a una o más personas. Pertenecen a esta clasificación los apartamentos turísticos, fincas turísticas, casas turísticas y demás inmuebles cuya destinación corresponda a esta definición.
 
 (Sustituido por el Art. 2 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.12.3 — Tarjeta de Registro de Alojamiento
 
@@ -28087,15 +24635,11 @@ El Ministerio de Comercio, Industria y Turismo tendrá plazo hasta el 30 de juni
 
 DE LAS PLATAFORMAS ELECTRONICAS O DIGITALES DE SERVICIOS TURISTICOS
 
-ARTÍCULO
-
 ## art:2.2.4.4.13.1 — Ámbito de aplicación
 
 La presente Sección es aplicable a los operadores de plataformas electrónicas o digitales de servicios turísticos que se presten y/o disfruten en Colombia, conforme se definen en el artículo 3 de la Ley 2068 de 2020 y en el artículo 2.2.4.4.13.2 de este Decreto.
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.13.2 — Definiciones
 
@@ -28115,8 +24659,6 @@ Consumidores: Personas que utilizan la plataforma para conocer la oferta y contr
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.13.3 — Inscripción en el Registro Nacional de Turismo
 
 Los operadores deberán inscribir las plataformas en el Registro Nacional de Turismo de acuerdo con los artículos 2. 2.4.1.1.1 y siguientes del Capítulo 1 del presente Decreto, y las obligaciones serán únicamente las previstas en el artículo 38 de la Ley 2068 de 2020.
@@ -28128,8 +24670,6 @@ El operador de la plataforma, para todo lo relacionado con el Registro Nacional 
 PARÁGRAFO. Las plataformas que cumplan con las funciones previstas en la Sección 1 del Capítulo 3 del Título 4 de la Parte 2 del Libro 2 del presente Decreto deberán inscribirse en la categoría de agencia de viajes, sin que sea necesario inscribirse doblemente cómo plataforma y agencia de viajes. Las agencias de viajes que utilicen medios electrónicos y se encuentren inscritas bajo la categoría de agencia de viajes, no deberán inscribirse como plataforma. Las plataformas que se encuentren inscritas bajo la categoría de plataformas digitales por no cumplir las funciones de las agencias de viajes, no deberán inscribirse en tal categoría.
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.13.4 — Datos mínimos de los prestadores
 
@@ -28143,8 +24683,6 @@ Los operadores deberán solicitar a los prestadores, como mínimo, los siguiente
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.13.5 — Exhibición de datos a los consumidores
 
 Los prestadores deberán exhibir, cómo mínimo, los siguientes datos a disposición de los consumidores en los campos habilitados por las plataformas electrónicas para tal fin:
@@ -28154,8 +24692,6 @@ Los prestadores deberán exhibir, cómo mínimo, los siguientes datos a disposic
 2. Los servicios ofrecidos y las condiciones , incluyendo el precio, así cómo las políticas de confirmación y cancelación.
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.13.6 — Retiro de anuncios de las plataformas
 
@@ -28169,15 +24705,11 @@ PARÁGRAFO. Para dar cumplimiento al artículo 38 de la Ley 2068 de 2020, las pl
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.13.7 — Entrega de información con fines estadísticos
 
 Las plataformas deberán suministrar, por solicitud del Ministerio de Comercio, Industria y Turismo, datos anonimizados en lo que respecta a prestadores de servicios turísticos que se presten y/o disfruten en Colombia, duración promedio de reservas, principales puntos de destino, principales puntos de origen y valor promedio por noche de reserva, con el fin de realizar análisis estadísticos agregados para la formulación, implementación y evaluación de políticas públicas en materia de turismo, así cómo el conocimiento general del mercado de los distintos servicios turísticos en Colombia. Estos datos podrán ser solicitados máximo una vez por semestre vencido.
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.13.8 — Entrega de información con fines de inspección, vigilancia y control
 
@@ -28185,15 +24717,11 @@ Las plataformas deberán suministrar, por solicitud de la Superintendencia de In
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.4.13.9 — Entrega de información con fines de fiscalización tributaria
 
 Las plataformas deberán suministrar, por solicitud de la Dirección de Impuestos y Aduanas Nacionales o del Fondo Nacional de Turismo-Fontur, los datos que estos requieran relacionados con las transacciones de prestadores específicos realizadas a través de la plataforma, siempre que los prestadores sean personas naturales o jurídicas obligadas a declarar o tributar en Colombia. La solicitud deberá identificar con precisión el nombre o razón social, número de identidad del usuario, las vigencias fiscales para las cuáles se requiera la información y el fundamento legal de la solicitud.
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.13.10 — Suministro de datos de terceros países
 
@@ -28204,8 +24732,6 @@ Los operadores que almacenen datos personales en países extranjeros deberán de
 PARÁGRAFO. Las autoridades colombianas podrán suscribir convenios con operadores para que estos les suministren datos desde terceros países, incorporando garantías adecuadas, tales cómo clausulas tipo de protección de datos u otras clases de garantías, en caso de considerarlo necesario para el cumplimiento de sus funciones.
 
 (Adicionado por el Art. 3 del Decreto 1836 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.4.13.11 — Notificaciones de procedimientos judiciales y administrativos
 
@@ -28309,9 +24835,7 @@ Contribuir a dinamizar la economía local.
 
 CAPÍTULO 5
 
-DE LAS INFRACCIONES Y SANCIONES GENERALES A LOS PRESTADORES DE SERVICIOS TURISTICOS. 
-
-ARTÍCULO
+DE LAS INFRACCIONES Y SANCIONES GENERALES A LOS PRESTADORES DE SERVICIOS TURISTICOS.
 
 ## art:2.2.4.5.1 — De las infracciones
 
@@ -28333,23 +24857,17 @@ El Ministerio de Comercio, Industria y Turismo y la Superintendencia de Industri
 
 (Decreto 1075 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.5.2 — Procedimiento aplicable a las infracciones de que da cuenta el artículo 71 de la Ley 300 de 1996
 
 El procedimiento administrativo que se aplicará para la imposición de sanciones a quienes infrinjan los literales a, b, c, e, f y g del artículo 71 de la Ley 300 de 1996, será el establecido para tal efecto en el Código Contencioso Administrativo y demás disposiciones que lo modifiquen, reformen o sustituyan.
 
 (Decreto 1075 de 1997, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.4.5.3 — De las sanciones
 
 De conformidad con el artículo 72 de la Ley 300 de 1996 modificado por el artículo 47 de la Ley 1429 de 2010, el Ministerio de Comercio, Industria y Turismo y la Superintendencia de Industria y Comercio, de acuerdo con sus atribuciones legales, impondrán sanciones a los prestadores de servicios turísticos cuando incurrán en las infracciones tipificadas en el artículo 71 de la Ley 300 de 1996.
 
 (Decreto 1075 de 1997, art. 11. )
-
-ARTÍCULO
 
 ## art:2.2.4.5.4 — Registro de las sanciones
 
@@ -28359,15 +24877,11 @@ PARÁGRAFO. Cuando la sanción impuesta fuere la de amonestación escrita, no se
 
 (Decreto 1075 de 1997, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.4.5.5 — Pago al Fondo Nacional de Turismo
 
 Cuando sean impuestas multas cómo sanción, el infractor deberá cancelar el valor de estas a favor del Fondo Nacional de Turismo, dentro de los 5 días hábiles siguientes a la ejecutoria de la decisión, a partir de los cuáles se empezarán a contar intereses a la máxima tasa de interés moratoria que certifica la Superintendencia Financiera.
 
 (Decreto 1075 de 1997, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.4.5.6 — Intervención de la Fiscalía
 
@@ -28379,23 +24893,17 @@ CAPÍTULO 6
 
 TURISMO PARA LA TERCERA EDAD
 
-ARTÍCULO
-
 ## art:2.2.4.6.1 — Entidades que deberán prestar servicios a la tercera edad
 
 Las entidades del orden nacional, regional y local que reciban recursos del Estado para desarrollar actividades de turismo, incluirán en sus planes los referentes a servicios y descuentos especiales para la tercera edad, para lo cuál elaborarán las fichas de inversión correspondientes que serán presentadas a las oficinas de planeación del nivel estatal que corresponda.
 
 (Decreto 972 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.6.2 — Oportunidad de la información
 
 Sera obligación de los organismos del Estado que entreguen recursos a las entidades mencionadas en el artículo anterior, informar al Viceministro de Turismo de tal situación y de la cuantía de recursos asignados.
 
 (Decreto 972 de 1997, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.6.3 — Criterios que deberán tenerse en cuenta para la elaboración de los planes de servicios para la tercera edad
 
@@ -28415,15 +24923,11 @@ Las entidades a que se refiere el artículo 2.2.4.6.1. de este Decreto, deberán
 
 (Decreto 972 de 1997, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.6.4 — De los descuentos
 
 Cada uno de los planes programados por las entidades de que da cuenta el artículo 2.2.4.6.1. de este Decreto, en donde se apliquen recursos provenientes del Estado, contendrá la indicación clara de los dineros que, a manera de descuento, se aplicarán al plan respectivo.
 
 (Decreto 972 de 1997, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.4.6.5 — Seguimiento de los planes que se ejecuten
 
@@ -28441,15 +24945,11 @@ Este informe deberá contener, al menos, los siguientes aspectos:
 
 (Decreto 972 de 1997, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.4.6.6 — Posibilidad de convenios
 
 Las entidades públicas a que se refiere artículo 2.2.4.6.1. de este Decreto que reciban recursos del Estado para desarrollar actividades de turismo, podrán realizar convenios con entidades de los sectores público y privado a fin de utilizar espacios urbanos e infraestructuras vacacionales y recreacionales en donde se puedan ejecutar programas de turismo dirigidos a la tercera edad.
 
 (Decreto 972 de 1997, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.6.7 — Obligatoriedad de descuentos
 
@@ -28461,15 +24961,11 @@ CAPÍTULO 7
 
 ELABORACION Y REGISTRO DE LAS ESTADISTICAS DEL SECTOR TURISTICO
 
-ARTÍCULO
-
 ## art:2.2.4.7.1 — Comparabilidad
 
 Las estadísticas del sector turístico que genere el Departamento Administrativo Nacional de Estadística -DANE, garantizarán la comparabilidad internacional y para el efecto, adoptarán las mejores prácticas, lineamientos técnicos, conceptuales y metodologicos presentados por la Organización de las Naciones Unidas -ONU: particularmente la Organización Mundial del Turismo - OMT; la Comunidad Andina -CAN, entre otros organismos o acuerdos multilaterales.
 
 (Decreto 2183 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.7.2 — Priorización en la implementación de las operaciones estadísticas
 
@@ -28481,15 +24977,11 @@ PARÁGRAFO. El Departamento Administrativo Nacional de Estadística - DANE acced
 
 (Decreto 1964 de 2016, art. 2; Parágrafo modificado por el Decreto 2119 de 2018, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.4.7.3 — Relación técnica DANE -Ministerio de Comercio, Industria y Turismo
 
 El DANE es la entidad responsable de la generación de los lineamientos técnicos en materia de producción y divulgación de estadísticas sobre el sector turismo, las que entregará al Ministerio de Comercio, Industria y Turismo. Al Ministerio cómo entre rector del sector turístico le corresponde establecer previa concertación con el DANE los instrumentos y lineamientos técnicos que deban aplicarse, determinando la periodicidad de reporte y las condiciones con que debe entregarse la información al DANE. Para el caso de los datos derivados del Registro Nacional de Turismo y de la Tarjeta de Registro Hotelero, se establecerán los mecanismos para su estandarización y rediseño con fines estadísticos.
 
 (Decreto 2183 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.4.7.4 — Divulgación estadística
 
@@ -28530,8 +25022,6 @@ Este capítulo es aplicable a los municipios, distritos y departamentos, a los a
  2.2.4.8.1.2. Criterios para la declaratoria. La declaratoria de un bien, conjunto de bienes, área del territorio, actividad, evento o acontecimiento como recurso turístico relacionados con la zona marino-costera será realizada por el Concejo Distrital, previa· solicitud del Alcalde Distrital.
 
 (Decreto 2127 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.8.1.3 — Definiciones
 
@@ -28697,15 +25187,11 @@ SECCIÓN 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.1 — Objeto
 
 Esta reglamentación tiene por objeto instrumentalizar los programas de servicios y descuentos especiales del turismo de interés social, de acuerdo con lo dispuesto en el artículo 35 de la Ley 300 de 1996, modificado por el artículo 15 de la Ley 1558 de 2012.
 
 (Decreto 2158 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.2 — Ámbito de aplicación
 
@@ -28717,15 +25203,11 @@ SECCIÓN 2
 
 PROGRAMAS PARA PROMOVER EL TURISMO DE INTERÉS SOCIAL
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.1 — Programa turismo social
 
 El Ministerio de Comercio, Industria y Turismo, a través de la formulación y puesta en marcha del programa turismo social, promoverá acciones para beneficiar a las personas cuyos ingresos familiares mensuales sean iguales o inferiores a cuatro (4) salarios mínimos legales mensuales vigentes y especialmente a los beneficiarios contemplados en el artículo 2.2.4.9.4.1. de este Decreto.
 
 (Decreto 2158 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.2 — Programa turismo accesible
 
@@ -28733,15 +25215,11 @@ El Ministerio de Comercio, Industria y Turismo, a través de la formulación y p
 
 (Decreto 2158 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.3 — Programa tarjeta joven
 
 El Ministerio de Comercio, Industria y Turismo, a través de la formulación y puesta en marcha del programa tarjeta joven, incentivara el turismo con las personas categorizadas cómo jovenes de acuerdo con lo dispuesto en esta reglamentación. El programa debe desarrollar a manera de estrategias las acciones pertinentes para vincular aliados del sector e incentivar a los jovenes a la práctica del turismo.
 
 (Decreto 2158 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.4 — Programa de turismo responsable
 
@@ -28753,8 +25231,6 @@ SECCIÓN 3
 
 DESCUENTOS ESPECIALES
 
-ARTÍCULO
-
 ## art:2.2.4.9.3.1 — Descuentos especiales
 
 Los bienes del Estado de que trata el artículo 22 de la Ley 1558 de 2012 en los que se presten servicios turísticos, deberán incluir en los contratos de concesión, arrendamiento, operación hotelera o cualquier otra forma de administración, la obligación a cargo del concesionario, arrendatario o administrador, de promover y aplicar descuentos de por lo menos el diez por ciento (10%) sobre la tarifa plena ofrecida, para los beneficiarios contemplados en el artículo 2.2.4.9.4.1. de este Decreto.
@@ -28765,8 +25241,6 @@ PARÁGRAFO. Los descuentos especiales no podrán afectar los recursos indispensa
 
 (Decreto 2158 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.9.3.2 — Responsabilidad social empresarial
 
 Además de lo dispuesto en el artículo anterior, para aplicar a los contratos de concesión, arrendamiento, operación hotelera o cualquier otra forma de administración de bienes del Estado de que trata el artículo 22 de la Ley 1558 de 2012, los postulantes deberán presentar dentro de su propuesta para la adjudicación, componentes de responsabilidad social empresarial que contemplen la vinculación laboral de las personas referidas en el artículo 2.2.4.9.4.1. de este Decreto.
@@ -28774,8 +25248,6 @@ Además de lo dispuesto en el artículo anterior, para aplicar a los contratos d
 La entidad administradora del Fondo Nacional de Turismo - FONTUR velara por el cumplimiento de lo dispuesto en este artículo.
 
 (Decreto 2158 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.3.3 — Suscripción de acuerdos con los Prestadores de Servicios Turisticos y con Cajas de Compensación Familiar
 
@@ -28788,8 +25260,6 @@ Los prestadores de servicios turísticos y cajas de compensación familiar que s
 SECCIÓN 4
 
 DE LOS BENEFICIARIOS
-
-ARTÍCULO
 
 ## art:2.2.4.9.4.1 — Beneficiarios
 
@@ -28807,15 +25277,11 @@ e. Estudiante: Es toda persona que se encuentre estudiando en cualquier entidad 
 
 (Decreto 2158 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.9.4.2 — Control de los beneficiarios
 
 Además de los documentos contemplados en los literales del artículo precedente, la condición de beneficiario se acreditara con la copia del recibo de pago de un servicio público del lugar donde se encuentra domiciliado o con el carnet del Sistema de Identificación de Beneficiarios - SISBEN. Antes de la aprobación de cualquiera de los beneficios contemplados en esta sección, la autoridad competente o el prestador de servicios turísticos, podrá corroborar por los medios que estime pertinente la veracidad de los datos aportados.
 
 (Decreto 2158 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.4.3 — Concurrencia de categorías
 
@@ -28833,13 +25299,9 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.4.10.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la determinación, priorización, aprobación, financiación y ejecución de la Infraestructura para los Proyectos Turisticos Especiales (PTE) contemplados en el artículo 18 de la Ley 300 de 1996 "Ley General del Turismo", modificado por el artículo 264 de la Ley 1955 de 2019, estableciendo las normas necesarias para su funcionamiento en el territorio nacional.
-
-ARTÍCULO
 
 ## art:2.2.4.10.1.2 — Definiciones
 
@@ -28859,13 +25321,9 @@ SECCIÓN 2
 
 CRITERIOS PARA LA DETERMINACION DE LA INFRAESTRUCTURA Y DE LOS PROYECTOS TURISTICOS ESPECIALES DE GRAN ESCALA Y TRÁMITE PARA LA APROBACIÓN DE LOS PLANES MAESTROS
 
-ARTÍCULO
-
 ## art:2.2.4.10.2.1 — Competencias del Ministerio de Comercio, Industria y Turismo
 
 El Viceministerio de Turismo será la autoridad competente para recibir y evaluar la iniciativa y expedir el acto administrativo de calificación cómo Proyecto Turístico Especial de Gran Escala (PTE) y la posterior aprobación del Plan Maestro.
-
-ARTÍCULO
 
 ## art:2.2.4.10.2.2 — Iniciativa
 
@@ -28889,8 +25347,6 @@ La propuesta debe acompañarse de los siguientes documentos:
 
 7. Sustentar técnica y jurídicamente las razones por las cuáles la propuesta pueda ser calificada cómo proyecto turístico especial de gran escala (PTE), teniendo en cuenta los parámetros contenidos en el siguiente artículo.
 
-ARTÍCULO
-
 ## art:2.2.4.10.2.3 — Calificación como proyecto turístico especial de gran escala (PTE)
 
 El Viceministerio de Turismo del Ministerio de Comercio Industria y Turismo evaluará dentro de los cuarenta (40) días calendario siguientes a la radicación de la iniciativa y decidirá mediante acto administrativo, si puede ser calificada cómo Proyecto Turístico Especial de Gran Escala (PTE). Este acto administrativo tendrá una vigencia de seis (6) meses prorrogables por tres (3) meses más.
@@ -28911,8 +25367,6 @@ PARÁGRAFO 1. Corresponde al Viceministerio de Turismo evaluar la información p
 
 PARÁGRAFO 2. El Ministerio de Comercio, Industria y Turismo determinará mediante resolución, los criterios para la calificación de los PTE, la metodología y el procedimiento para su evaluación. Los proyectos podrán ser calificados una vez se expida esta reglamentación.
 
-ARTÍCULO
-
 ## art:2.2.4.10.2.4 — Procedimiento para la aprobación del plan maestro
 
 Una vez se emita el acto administrativo de calificación cómo proyecto turístico especial de gran escala (PTE) que trata el artículo anterior, se procederá a dar trámite al proceso de aprobación del correspondiente Plan Maestro conforme las siguientes etapas:
@@ -28924,8 +25378,6 @@ Una vez se emita el acto administrativo de calificación cómo proyecto turísti
 3. Aprobación.
 
 4. Ejecución.
-
-ARTÍCULO
 
 ## art:2.2.4.10.2.5 — 2.5
 
@@ -29027,8 +25479,6 @@ Estos documentos serán puestos a consideración de la entidad territorial duran
 
 Estos documentos se deberán entregar dentro del acapite que desarrolle la formulación en cuaderno separado, en formato digital e impresa, utilizando la base cartografica exigida y cumpliendo totalmente con lo previsto en el Decreto 1077 de 2015, Único Reglamentario del Sector Vivienda, Ciudad y Territorio, o la norma que lo modifique, sustituya o complemente, de forma tal que puedan ser utilizados por el municipio o distrito para adelantar a nivel local el procedimiento de modificación excepcional correspondiente, o el de expedición del instrumento que desarrolle y complemente el Plan de Ordenamiento Territorial.
 
-ARTÍCULO
-
 ## art:2.2.4.10.2.6 — Delimitación y determinación
 
 La delimitación y determinación de la Infraestructura para Proyectos Turisticos Especiales de Gran Escala (PTE) así cómo del propio proyecto incluirá la localización y límites mediante el sistema de coordenadas del área propuesta que se definirá teniendo en cuenta la propuesta contenida en el Documento Técnico de Soporte (DTS) de que trata este decreto.
@@ -29045,23 +25495,17 @@ El acto administrativo contendrá por lo menos:
 
 PARÁGRAFO. El acto administrativo de anuncio del proyecto es un acto de carácter general por lo que no requiere ser inscrito en los folios de matrícula inmobiliaria de los predios.
 
-ARTÍCULO
-
 ## art:2.2.4.10.2.7 — Efectos del anuncio de la infraestructura y del Proyecto Turístico Especial de Gran Escala (PTE)
 
 Con el anuncio de la infraestructura y del Proyecto Turístico Especial de Gran Escala (PTE) se descontara del avalúo comercial de adquisición, el monto correspondiente a la plusvalia o mayor valor generado por el anuncio del proyecto. Esto se hará conforme los avaluas de referencia en los cuáles se debe tener en cuenta las condiciones físicas, jurídicas y económicas del suelo al momento del anuncio del proyecto, de acuerdo con la normativa vigente.
 
 PARÁGRAFO. Los avaluas de referencia, tal y cómo se encuentran definidos en el artículo 2.2.5.4.4 del Decreto 1077 de 2015, Único Reglamentario del Sector Vivienda, Ciudad y Territorio, o la norma que lo modifique o sustituya, serán elaborados de acuerdo con la normativa vigente por cualquier entidad facultada para el efecto. Los avaluas de referencia correspondientes al área descrita en el anuncio del proyecto, no podrán tener un tiempo de expedición superior a un (1) año de anterioridad a la fecha de expedición del correspondiente acto administrativo de anuncio del proyecto.
 
-ARTÍCULO
-
 ## art:2.2.4.10.2.8 — Formulación y reglamentación de la Infraestructura y de los Proyectos Turisticos Especiales de Gran Escala (PTE)
 
 El Ministerio de Comercio, Industria y Turismo revisara y verificará la propuesta de formulación y reglamentación presentada por el proponente, para lo cuál evaluará que el documento cuente con una parte sustancial y otra operativa, en los términos descritos en el artículo 2.2.4. 10.2.5. del presente decreto.
 
 El Ministerio de Comercio, Industria y Turismo podrá solicitar al proponente todos los insumos que considere pertinentes para el estudio de la formulación y reglamentación del Plan Maestro.
-
-ARTÍCULO
 
 ## art:2.2.4.10.2.9 — Coordinación Interinstitucional
 
@@ -29070,8 +25514,6 @@ El Ministerio de Comercio Industria y Turismo, en caso de requerirlo necesario, 
 Las autoridades, dependencias y entidades a que se refiere el inciso anterior, deberán dar prelación para responder la solicitud y dispondrán de los términos establecidos en la Ley 1437 de 2011, o las normas que la adicionen, modifiquen o sustituyan, para dar respuesta y remitir la información y los conceptos requeridos. Durante este término se suspendera el plazo de que dispone el Ministerio de Comercio, Industria y Turismo para decidir sobre la propuesta.
 
 Si por cualquier circunstancia las entidades no se pronuncian en el término señalado, el Viceministerio de Turismo convocara a una mesa técnica de trabajo con las entidades involucradas, programando el orden del día y los aspectos que se deben resolver. De la reunión se levantara un acta en la cuál se dejara consignada la manera cómo cada una de las entidades recomiendan que se resuelva el correspondiente tema. Con fundamento en la recomendación y los estudios técnicos el Viceministerio de Turismo resolverá la manera cómo se dará manejo al respectivo tema.
-
-ARTÍCULO
 
 ## art:2.2.4.10.2.10 — Evaluación y aprobación del plan maestro
 
@@ -29093,13 +25535,9 @@ SECCIÓN 3
 
 COORDINACIÓN DE LOS ALCALDES MUNICIPALES Y DISTRITALES EN LA DELIMITACION, FORMULACION Y APROBACIÓN DEL PLAN MAESTRO
 
-ARTÍCULO
-
 ## art:2.2.4.10.3.1 — 3.1
 
 Intervención de los alcaldes municipales y distritales de los territorios incluidos en la delimitación, formulación y aprobación del plan maestro. El Ministerio de Comercio, Industria y Turismo durante el término que dispone para la evaluación de la propuesta de Plan Maestro, con el acompañamiento técnico del Ministerio de Vivienda, Ciudad y Territorio, si es del caso, adelantara con los alcaldes municipales o distritales de los territorios correspondientes y el promotor del proyecto, el proceso de coordinación de la formulación de la propuesta, con el fin de garantizar la articulación entre los distintos niveles de gobierno.
-
-ARTÍCULO
 
 ## art:2.2.4.10.3.2 — Procedimiento de coordinación con los alcaldes municipales y/o distritales
 
@@ -29119,9 +25557,7 @@ La coordinación que garantice la participación de los alcaldes en la delimitac
 
 SECCIÓN 4
 
-ARTICULACION DE LOS PLANES MAESTROS CON LA REGLAMENTACIÓN MUNICIPAL O DISTRITAL CONTENIDA EN EL PLAN DE ORDENAMIENTO TERRITORIAL O LOS INSTRUMENTOS QUE LO DESARROLLEN Y COMPLEMENTEN. 
-
-ARTÍCULO
+ARTICULACION DE LOS PLANES MAESTROS CON LA REGLAMENTACIÓN MUNICIPAL O DISTRITAL CONTENIDA EN EL PLAN DE ORDENAMIENTO TERRITORIAL O LOS INSTRUMENTOS QUE LO DESARROLLEN Y COMPLEMENTEN.
 
 ## art:2.2.4.10.4.1 — Articulación de las reglamentaciones
 
@@ -29129,15 +25565,11 @@ Una vez se comunique al correspondiente alcalde municipal o distrital el acto ad
 
 La articulación de la reglamentación local con las determinantes de superior jerarquía también se podrá realizar en los instrumentos que desarrollen o complementen el Plan de Ordenamiento Territorial previstos en la Ley 388 de 1997 o en las normas que la modifiquen, adicionen o sustituyan.
 
-ARTÍCULO
-
 ## art:2.2.4.10.4.2 — Trámite de la modificación excepcional del POT
 
 Cuando se requiera la modificación excepcional del Plan de Ordenamiento Territorial para garantizar su articulación con el Plan Maestro se sometera a los mismos trámites de concertación, consulta y aprobación previstos en la Ley 388 de 1997 y su reglamento o las normas que los modifiquen, adicionen o sustituyan.
 
 Para adelantar la modificación excepcional del Plan de Ordenamiento Territorial, el correspondiente alcalde municipal o distrital podrá utilizar los documentos que fueron aportados durante el trámite de aprobación del correspondiente plan maestro a que se refiere el parágrafo del artículo 2.2. 4.10.2.5 del presente decreto, acompañados de la correspondiente exposición de motivos del proyecto de acuerdo.
-
-ARTÍCULO
 
 ## art:2.2.4.10.4.3 — Efectos de modificación excepcional del POT o de la expedición de los instrumentos que lo desarrollen y complementen
 
@@ -29147,23 +25579,17 @@ SECCIÓN 5
 
 EJECUCION DE LOS PLANES MAESTROS
 
-ARTÍCULO
-
 ## art:2.2.4.10.5.1 — Trámite del Plan de Manejo Ambiental para la ejecución del Plan Maestro en suelo rural
 
 Los Proyectos Turisticos Especiales (PTE) de gran escala localizados en suelo rural y rural suburbano, deberán tramitar y obtener previamente a su ejecución el correspondiente Plan de Manejo Ambiental de acuerdo al procedimiento y requisitos establecidos en el Decreto 1076 de 2015, Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible, o aquel que lo modifique, adicione o sustituya.
 
 El Ministerio de Ambiente y Desarrollo Sostenible deberá expedir los correspondientes términos de referencia para la elaboración del Plan de Manejo Ambiental para Proyectos Turisticos Especiales (PTE) de gran escala localizados en suelo rural, dentro de los tres (3) meses siguientes a la expedición de la presente norma.
 
-ARTÍCULO
-
 ## art:2.2.4.10.5.2 — Permisos para el uso, aprovechamiento y/o afectación de los recursos naturales renovables
 
 De conformidad con lo previsto en el artículo 264 de la Ley 1955 de 2019, la Autoridad Nacional de Licencias Ambientales (ANLA) será la competente para otorgar los permisos para el uso, aprovechamiento y/o afectación de recursos naturales renovables.
 
 Los trámites tendientes a la obtención y modificación de permisos ambientales se regirán por los procedimientos especiales determinados en el Decreto 1076 de 2015, Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible, y en lo no previsto en este por el procedimiento administrativo común y general regulado por el Código de Procedimiento Administrativo y de lo Contencioso Administrativo, Ley 1437 de 2011, o las normas que lo adicionen, modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.4.10.5.3 — 5.3
 
@@ -29173,11 +25599,15 @@ SECCIÓN 6
 
 FINANCIACION DE LOS PLANES MAESTROS
 
+## art:2.2.4.10.6.1 — Financiación de los Planes Maestros
+
+Para la ejecución de infraestructura pública definida en los Planes Maestros podrán utilizarse recursos públicos o privados que deben ser definidos en el correspondiente capítulo de financiación. Los Planes Maestros podrán incorporar mecanismos de participación público - privadas, reparto equitativo de cargas y beneficios, suscripción de contratos públicos, de fiducia y demás alternativas viables de acuerdo con el marco jurídico vigente. En la estimación de costos se incorporaran, en forma integral, todos los gastos asociados al respectivo proyecto de inversión, incluida la operación y puesta en marcha del proyecto.
+
+El propósito general de los mecanismos de financiación es asegurar que la infraestructura pública requerida en el marco de los Planes Maestros, en la medida de las posibilidades, sea asumida por los desarrolladores privados que intervienen en su ejecución, y sólo en casos excepcionales sea necesaria inversión de recursos públicos.
+
 ## art:2.2.4.10.6.2 — Reparto equitativo de cargas y beneficios
 
 Las propuestas de construcción de infraestructura previstas en los Planes Maestros, podrán incluir como mecanismos de financiación propuestas de reparto equitativo de cargas y beneficios, en las cuáles los recursos para la construcción de la infraestructura provengan del mejoramiento normativo y racional de la utilización del suelo, en los términos del artículo 38 de la Ley 388 de 1997, o aquel que lo modifique, adicione o sustituya. En estos casos, durante el proceso de coordinación que se adelante con el respectivo alcalde municipal y distrital se analizará el esquema equitativo de reparto de cargas y beneficios con el fin de lograr la armonización de la propuesta.
-
-ARTÍCULO
 
 ## art:2.2.4.10.6.3 — Contratos de fiducia mercantil
 
@@ -29219,13 +25649,9 @@ En estos contratos definiran, entre otros, los siguientes aspectos:
 
 17. Las demás que se consideren convenientes o sean requeridas por la normativa vigente.
 
-ARTÍCULO
-
 ## art:2.2.4.10.6.4 — Otros mecanismos de financiación
 
 Las entidades territoriales podrán proponer otros mecanismos de financiación de la infraestructura pública definida en los correspondientes Planes Maestros diferentes a los señalados en este acapite, teniendo en cuenta para su implementación criterios de legalidad, eficiencia y eficacia. Los Planes Maestros financiados con recursos públicos deben ser declarados de importancia estratégica para proceder, en caso de requerirse, a suscribir las correspondientes vigencias futuras.
-
-ARTÍCULO
 
 ## art:2.2.4.10.6.5 — Definición de los mecanismos de financiación cómo prerrequisito para la ejecución del Plan Maestro
 
@@ -29237,8 +25663,6 @@ SECCIÓN 7
 
 ADQUISICION PREDIAL
 
-ARTÍCULO
-
 ## art:2.2.4.10.7.1 — Expropiación por vía administrativa
 
 Con fundamento en el artículo 264 de la Ley 1955 de 2019, para la adquisición predial se podrán aplicar el procedimiento previsto en los artículos 63 y siguientes de la Ley 388 de 1997.
@@ -29246,8 +25670,6 @@ Con fundamento en el artículo 264 de la Ley 1955 de 2019, para la adquisición 
 Por lo anterior, en el correspondiente Plan Maestro el Ministerio de Comercio Industria y Turismo declarara conforme los criterios señalados en el artículo 65 de la Ley 388 de 1997 las condiciones de urgencia que sustentan el proceso de expropiación por vía administrativa.
 
 En el acto de la declaratoria se identificarán los predios objeto de la misma así cómo los demás aspectos que se consideren pertinentes.
-
-ARTÍCULO
 
 ## art:2.2.4.10.7.2 — 7.2
 
@@ -29259,8 +25681,6 @@ SECCIÓN 8
 
 MECANISMOS DE SEGUIMIENTO A LA EJECUCION DE PROYECTOS TURISTICOS ESPECIALES
 
-ARTÍCULO
-
 ## art:2.2.4.10.8.1 — Seguimiento a la ejecución de Proyectos Turisticos Especiales
 
 El Ministerio de Comercio, Industria y Turismo con el apoyo de los municipios y distritos es la entidad encargada de realizar el seguimiento y control a la ejecución de la infraestructura para Proyectos Turisticos Especiales (PTE). En caso de advertir irregularidades o incumplimientos se adoptarán las medidas a que haya lugar de acuerdo con los mecanismos que se prevean en el correspondiente Plan Maestro.
@@ -29270,8 +25690,6 @@ El responsable de la ejecución del correspondiente Plan Maestro remitirá a la 
 El Ministerio de Comercio Industria y Turismo velara por el cumplimiento de las acciones establecidas en cada uno de los Planes Maestros para lo cual elaborara anualmente un informe del cumplimiento de lo dispuesto en la Resolución que adopte cada uno de ellos.
 
 El seguimiento que hace el Ministerio de Comercio Industria y Turismo, no incluye el seguimiento de otras aprobaciones que correspondan a las autoridades competentes.
-
-ARTÍCULO
 
 ## art:2.2.4.10.8.2 — Modificación de los Planes Maestros
 
@@ -29283,8 +25701,6 @@ Capítulo Adicionado por el Art.1 del Decreto 646 de 2021
 
 POLÍTICA DE TURISMO SOSTENIBLE
 
-ARTÍCULO
-
 ## art:2.2.4.11.1 — Adopción
 
 Adaptese la Política de Turismo Sostenible: "Unidos Por La Naturaleza". Esta política se aplicará en todo el territorio nacional y comporta una vision estratégica y a largo plazo del sector turístico, que armoniza los objetivos de desarrollo económico y socio-cultural del turismo con la necesidad de proteger el capital natural que hace del país un destino atractivo para un alto volumen de turistas y que es una de sus principales fuentes de riqueza y de generación de equidad.
@@ -29293,15 +25709,11 @@ PARÁGRAFO. Hacen parte integral de este Decreto los documentos técnicos que co
 
 (Adicionado por el Art. 1 del Decreto 646 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.11.2 — Objetivo general
 
 Fortalecer la sostenibilidad de la cadena de valor del turismo en Colombia, con el fin de mejorar su competitividad, garantizar la conservación y uso responsable del capital natural y generar un mayor valor agregado y diferenciación para el país.
 
 (Adicionado por el Art. 1 del Decreto 646 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.11.3 — Implementación y seguimiento
 
@@ -29321,15 +25733,11 @@ SECCIÓN 1
 
 GENERALIDADES DE LA CONTRIBUCION PARAFISCAL PARA EL TURISMO Y SU RECAUDO
 
-ARTÍCULO
-
 ## art:2.2.4.12.1.1 — Objeto
 
 La presente sección tiene por objeto reglamentar la contribución parafiscal para el turismo con destino a la promoción, sostenibilidad y competitividad de este sector, de que trata el artículo 40 de la Ley 300 de 1996, modificado por el artículo 34 de la Ley 2068 de 2020, establecer el procedimiento para su recaudo, declaración, pago, fiscalización y determinación de la obligación tributaria, así cómo dictar otras disposiciones complementarias.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.1.2 — Ámbito de aplicación
 
@@ -29337,15 +25745,11 @@ El presente decreto se aplicará a los sujetos pasivos de la contribución paraf
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.1.3 — Período y causación
 
 El período de la Contribución es trimestral y se causa del 1 de enero al 31 de marzo, del 1 de abril al 30 de junio, del 1 de julio al 30 de septiembre y del 1 de octubre al 31 de diciembre de cada año. La Contribución se liquidara y pagara sobre períodos vencidos.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.1.4 — Liquidación privada de la Contribución
 
@@ -29373,8 +25777,6 @@ PARÁGRAFO 4. Las obligaciones de los trimestres causados antes de la entrada en
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.1.5 — Pago de la Contribución
 
 Los aportantes de la Contribución deberán efectuar el pago, a más tardar en los primeros 20 días hábiles del mes siguiente al del período causado, en la cuenta que el Fondo Nacional de Turismo establezca para tal fin. El valor pagado deberá coincidir con el valor de la liquidación privada, más los intereses de mora y sanciones cuando sea el caso.
@@ -29382,8 +25784,6 @@ Los aportantes de la Contribución deberán efectuar el pago, a más tardar en l
 PARÁGRAFO. La tasa de interés de mora por el pago extemporáneo de la Contribución es la misma que establece el Estatuto Tributario.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.1.6 — Sujetos pasivos sin residencia o sin domicilio en Colombia
 
@@ -29403,8 +25803,6 @@ PARÁGRAFO 3. El sujeto activo de la contribución garantizará los medios elect
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.1.7 — Pago de la liquidación por los sujetos pasivos sin residencia o sin domicilio en Colombia
 
 Una vez efectuada la liquidación, los sujetos pasivos sin residencia o sin domicilio en Colombia podrán pagar el valor que resulte a través del mecanismo de pago habilitado.
@@ -29416,8 +25814,6 @@ Para efectos de contabilizar el pago por parte del Fondo Nacional de Turismo, se
 PARÁGRAFO. El pago de la contribución parafiscal por parte del contribuyente sin residencia o sin domicilio en Colombia no implica que este deba tener un establecimiento o constituir una sucursal, representante o afiliada de forma permanente en Colombia.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.1.8 — Adecuado funcionamiento de los medios requeridos para liquidar y pagar
 
@@ -29437,23 +25833,17 @@ SECCIÓN 2
 
 GENERALIDADES EN EL CONTROL, COBRO Y FISCALIZACION DE LA CONTRIBUCION PARAFISCAL PARA EL TURISMO
 
-ARTÍCULO
-
 ## art:2.2.4.12.2.1 — Control en el recaudo
 
 El sujeto activo de la Contribución deberá llevar una relación de los sujetos pasivos que presenten y paguen su liquidación privada en cada período, así cómo de quienes incumplan esta obligación, de forma que le permita realizar el efectivo recaudo de la Contribución y ejercer el control necesario para obtener el correcto y oportuno cumplimiento de las obligaciones a cargo de los aportantes.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.2.2 — Informes sobre recaudo, control y cobro
 
 El sujeto activo deberá presentar al Viceministerio de Turismo y este a su vez al Comité Directivo del Fondo Nacional de Turismo un informe sobre el recaudo obtenido, dentro del mes siguiente al vencimiento del plazo para pagar la Contribución. Posteriormente, deberán presentar informes con la periodicidad que defina el Comité Directivo sobre las gestiones de recaudo, control y cobro ejercidas.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.2.3 — Administración y fiscalización de la Contribución
 
@@ -29462,8 +25852,6 @@ El Fondo Nacional de Turismo, en su calidad de sujeto activo, tendrá las facult
 En uso de sus facultades, podrá verificar la información reportada, revisar las liquidaciones privadas, adelantar las investigaciones que estime conveniente, citar o requerir al aportante o a terceros para que rindan informes, solicitar la transmisión de archivos electrónicos de la contabilidad, de los estados financieros y demás documentos que reflejen la realidad económica del aportante, exigir del aportante o de terceros la presentación de documentos que registren sus operaciones cuando unos u otros estén obligados a llevar libros registrados, ordenar la exhibición y examen parcial de los libros, comprobantes y documentos, tanto del aportante cómo de terceros, legalmente obligados a llevar contabilidad, liquidar oficialmente, determinar la deuda y, en general, efectuar todas las demás diligencias necesarias para el correcto y oportuno recaudo y fiscalización del tributo.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.2.4 — Facultad de cobro
 
@@ -29477,8 +25865,6 @@ SECCIÓN 3
 
 DETERMINACION Y FISCALIZACION DE LA OBLIGACIÓN TRIBUTARIA
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.1 — Determinación de la obligación tributaria
 
 El sujeto activo podrá modificar, por una sola vez, las liquidaciones privadas de los aportantes mediante liquidación de revisión. Así mismo proferir liquidaciones de aforo en caso de omision en la liquidación, presentación y pago de la contribución.
@@ -29487,15 +25873,11 @@ Corresponde al sujeto activo proferir los requerimientos especiales, los pliegos
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.2 — Períodos de fiscalización de la Contribución Parafiscal para el Turismo
 
 Los emplazamientos y requerimientos proferidos por el sujeto activo, así cómo sus liquidaciones y demás actos, podrán referirse a más de un período gravable.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3.3 — Deber de atender requerimientos
 
@@ -29503,15 +25885,11 @@ Sin perjuicio del cumplimiento de las demás obligaciones tributarias, los aport
 
 (Adicionado por el Art.1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.4 — Requerimiento especial cómo requisito previo a la liquidación de revisión
 
 Antes de efectuar la liquidación de revisión, el sujeto activo enviará al aportante de la Contribución, por una sola vez, un requerimiento especial que contenga todos los puntos que se proponga modificar, con explicación de las razones en que se sustenta. Dicho requerimiento deberá contener la cuantificación que se pretende adicionar a la liquidación privada.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3.5 — Término para notificar el requerimiento especial
 
@@ -29520,8 +25898,6 @@ El requerimiento especial deberá notificarse a más tardar dentro de los tres (
 Cuando se practique inspección tributaria de oficio, el término para notificar el requerimiento especial se suspendera por tres (3) meses contados a partir de la notificación del comunicado que la decrete. Si la inspección tributaria se práctica a solicitud del aportante, el término se suspendera mientras dure la inspección.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3.6 — Respuesta al requerimiento especial
 
@@ -29533,8 +25909,6 @@ La ampliación podrá incluir hechos y conceptos no contemplados en el requerimi
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.7 — Liquidación de revisión y su notificación
 
 Dentro de los seis (6) meses siguientes a la fecha de vencimiento del término para dar respuesta al requerimiento especial, el sujeto activo deberá notificar la liquidación de revisión, si hay mérito para ello.
@@ -29543,15 +25917,11 @@ Cuando se practique inspección tributaria de oficio, decretada por el sujeto ac
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.8 — Correspondencia entre la liquidación privada, el requerimiento y la liquidación de revisión
 
 La liquidación de revisión deberá contraerse exclusivamente a la liquidación privada del aportante y a los hechos que hubieren sido contemplados en el requerimiento especial o en su ampliación si la hubiere.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3.9 — Contenido de la liquidación de revisión
 
@@ -29575,8 +25945,6 @@ La liquidación de revisión, deberán contener como mínimo la siguiente inform
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.10 — Término general de firmeza de las liquidaciones privadas
 
 La liquidación privada quedara en firme si, dentro de los tres (3) años siguientes a la fecha del vencimiento del plazo para declarar no se ha notificado requerimiento especial.
@@ -29587,15 +25955,11 @@ También quedara en firme la liquidación privada si, vencido el término para p
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.11 — Emplazamiento previo por no declarar
 
 Quienes incumplan con la obligación de presentar las liquidaciones privadas de la Contribución estando obligados a ello, serán emplazados por el sujeto activo, previa comprobación de su obligación, para que cumpla con la obligación tributaria en el término perentorio de un (1) mes. Vencido este término sin que se hubiere presentado la declaración, el Fondo Nacional de Turismo procederá a aplicar la sanción prevista en el Estatuto Tributario por no declarar.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3.12 — Liquidación de aforo
 
@@ -29603,15 +25967,11 @@ Agotado el procedimiento anterior, el sujeto activo podrá dentro de los cinco (
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.3.13 — Contenido de la liquidación de aforo
 
 La liquidación de aforo tendrá el mismo contenido de la liquidación de revisión, con explicación sumaria de los fundamentos del aforo.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.3.14 — Recursos, término para resolverlos y suspensión del mismo
 
@@ -29623,8 +25983,6 @@ SECCIÓN 4
 
 CORRECCIONES A LAS LIQUIDACIONES Y SOLICITUDES DE DEVOLUCION Y COMPENSACION
 
-ARTÍCULO
-
 ## art:2.2.4.12.4.1 — Correcciones que aumentan el valor a pagar
 
 Los aportantes de la Contribución podrán corregir sus liquidaciones privadas dentro de los tres (3) años siguientes al vencimiento del plazo para declarar y antes de que se les haya notificado requerimiento especial, en relación con la liquidación privada que se corrige.
@@ -29635,8 +25993,6 @@ La corrección prevista en este artículo también procede cuando no varie el va
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.4.2 — Correcciones que disminuyan el valor a pagar
 
 Para corregir la liquidación privada, disminuyendo el valor a pagar, se deberá presentar la respectiva liquidación privada, dentro del año siguiente al vencimiento del término para presentar la declaración.
@@ -29645,15 +26001,11 @@ La corrección de las declaraciones a que se refiere este artículo no impide la
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.4.3 — Solicitud de devolución por pagos en exceso o de lo no debido
 
 El aportante podrá presentar ante el sujeto activo solicitudes de devolución por pagos en exceso o de lo no debido dentro del término de cinco (5) años contados a partir de la fecha de vencimiento del término para declarar.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.4.4 — Devolución de los pagos en exceso o de lo no debido
 
@@ -29663,8 +26015,6 @@ En todos los casos, las devoluciones se efectuarán una vez compensadas las deud
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.4.5 — Investigación previa a la devolución
 
 El término para devolver o compensar se podrá suspender hasta por un máximo de noventa (90) días para que el sujeto activo adelante la correspondiente investigación, cuando a su juicio exista un indicio de inexactitud en la declaración privada sobre la cuál se solicita la devolución y/o compensación, en cuyo caso se dejara constancia escrita de las razones en que se fundamenta el indicio.
@@ -29672,8 +26022,6 @@ El término para devolver o compensar se podrá suspender hasta por un máximo d
 Terminada la investigación, si no se produce requerimiento especial, se procederá a la devolución o compensación del pago en exceso o pago de lo no debido. Si se produjere requerimiento especial, sólo procederá la devolución o compensación sobre el pago en exceso o pago de lo no debido que se plantee en el requerimiento, sin que sea necesaria una nueva solicitud de devolución o por parte del aportante.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.4.6 — Rechazo e inadmisión de las solicitudes de devolución
 
@@ -29703,8 +26051,6 @@ SECCIÓN 5
 
 NOTIFICACIONES DE LAS ACTUACIONES DEL SUJETO ACTIVO
 
-ARTÍCULO
-
 ## art:2.2.4.12.5.1 — Formas de notificación de las actuaciones del sujeto activo
 
 Los requerimientos o autos que ordenen inspecciones o verificaciones tributarias, emplazamientos, citaciones, resoluciones en que se impongan sanciones, liquidaciones oficiales, providencias que decidan recursos y, en general, todas las demás actuaciones administrativas, deben notificarse de manera electrónica, personalmente o a través de cualquier servicio de mensajería especializada debidamente autorizada por la autoridad competente, de conformidad con lo dispuesto en el Estatuto Tributario.
@@ -29721,8 +26067,6 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.4.12.6.1 — Inspección tributaria virtual
 
 El sujeto activo podrá realizar de manera virtual la práctica de la inspección tributaria para verificar la exactitud de las liquidaciones privadas, para establecer la existencia de hechos gravables declarados o no y para verificar el cumplimiento de las obligaciones sustanciales y formales de los aportantes.
@@ -29737,8 +26081,6 @@ Cuando de la práctica de la inspección tributaria se derive una actuación adm
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.6.2 — Inspección contable virtual
 
 El sujeto activo podrá realizar de manera virtual la práctica de la inspección contable virtual tanto al aportante cómo a terceros legalmente obligados a llevar contabilidad, para verificar la exactitud de las liquidaciones privadas, para establecer la existencia de hechos gravados o no, y para verificar el cumplimiento de obligaciones formales.
@@ -29749,15 +26091,11 @@ Cuando de la práctica de la inspección contable virtual se derive una actuaci�
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.4.12.6.3 — Visitas administrativas virtuales
 
 El sujeto activo podrá realizar visitas administrativas virtuales de inspección y vigilancia para el cumplimiento de las funciones de fiscalización.
 
 (Adicionado por el Art. 1 del Decreto 1338 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.4.12.6.4 — Disposiciones aplicables
 
@@ -29931,8 +26269,6 @@ PARTE 1
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este Decreto regula integramente las materias contempladas en el. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector Comercio, Industria y Turismo que versen sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -29957,8 +26293,6 @@ Los actos administrativos expedidos con fundamento en las disposiciones compilad
 
 PARÁGRAFO. Las normas establecidas en el Libro 2, Título 1, Capítulo 7, referentes al Subsistema Nacional de Calidad, entrarán en vigencia el 5 de agosto de 2015. En consecuencia, hasta entonces, quedan vigentes (sic) el Decreto 2269 de 1993 y sus decretos modificatorios.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente Decreto rige a partir de su publicación en el Diario Oficial.
@@ -29970,91 +26304,3 @@ Dado en Bogotá D. C., a los 26 días del mes de mayo del año 2015
 CECILIA ALVAREZ- CORREA GLEN
 
 LA MINISTRA DE COMERCIO, INDUSTRIA Y TURISMO
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

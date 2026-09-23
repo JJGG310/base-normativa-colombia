@@ -10,7 +10,7 @@ porque un artículo perdido y uno partido en dos se cancelan.
 """
 import glob, os, re, sys
 
-from ingesta_senado import bajar, paginas
+from ingesta_senado import ANCLA, bajar, num_ancla, paginas
 
 OPCION = re.compile(r'<option value="[^"]*#(\d+[A-Za-z]?)"[^>]*>\s*([^<]+?)\s*</option>', re.I)
 
@@ -25,6 +25,11 @@ def indice_fuente(url):
         for ancla, etiqueta in OPCION.findall(doc):
             if re.fullmatch(r"\d+[A-Za-z]?", etiqueta):
                 nums.add(etiqueta.upper())
+        # El selector solo lista las anclas `bookmarkaj`: los artículos con un `<A
+        # name>` pelado no salen ahí, y eran justo los que el parser perdía.
+        nums |= {num_ancla(m.group(1), limpiar(m.group(2))).upper() for m in ANCLA.finditer(doc)
+                 if re.fullmatch(r"\d+[A-Za-z]?", m.group(1)) and re.match(r"\s*ART", limpiar(m.group(2)), re.I)}
+        nums = {n for n in nums if not re.fullmatch(r"\d+F", n)}   # Ley 1/1980 dentro del C.Co.
         # "ARTÍCULO 1o." es el artículo 1: la `o` es el ordinal, no un sufijo.
         encabezados |= {re.sub(r"(?<=\d)[OºO°]$", "", m.group(1).upper()) for m in
                         re.finditer(r"(?im)^ART[IÍ]CULO\s+(\d+[A-Za-z]?)", limpiar(doc))}
@@ -34,10 +39,16 @@ def indice_fuente(url):
 def indice_gestor(url):
     """El Gestor no trae selector: el índice son los encabezados en línea propia."""
     from ingesta_senado import limpiar
+    from ingesta_gestor import NUM_DUR
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url, enc="utf-8"),
                  flags=re.S | re.I)
-    return {m.group(1).strip(".").upper()
-            for m in re.finditer(r"^ART[IÍ]CULO\s+([\d][\d\.]*)", limpiar(doc), re.I | re.M)}
+    nums = {re.sub(r"\s", "", m.group(1)).upper()
+            for m in re.finditer(r"^ART[IÍ]CULO\s+(%s)" % NUM_DUR, limpiar(doc), re.I | re.M)}
+    # En un DUR, un «ARTÍCULO 2.» entero es el del decreto que lo reformó, que la
+    # fuente transcribe: no es artículo del DUR (ingesta_gestor.partir tampoco lo toma).
+    if sum("." in n for n in nums) > len(nums) / 2:
+        nums = {n for n in nums if "." in n}
+    return nums
 
 
 def revisar(ruta):

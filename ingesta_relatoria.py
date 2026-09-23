@@ -142,7 +142,13 @@ def decision_de(res):
     return ""
 
 
-def metadatos(txt):
+# Una palabra de nombre propio (o una inicial «S.»), y las que cortan el nombre.
+NOMBRE = r"[A-ZÁÉÍÓÚÑ]\.|[A-ZÁÉÍÓÚÑ][A-Za-zÁÉÍÓÚÑáéíóúñü]+"
+MAYUS = r"[A-ZÁÉÍÓÚÑ]\.|[A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑÜ]+(?![a-záéíóúñ])"
+ALTO = (r"(?i:bogot|santa|sentencia|acta|aprobad|referencia|expediente|temas?\b|s[ií]ntesis|dra?\b|"
+        r"doctor|me\b|en\b|aclar|salv|magistrad|cartagena)|Con\b|I\b|La\b")
+
+def metadatos(txt, anio=""):
     meta = {}
     m = re.search(r"Expediente[s]?:?\s*([A-Z]{1,3}-[\d\.]+(?:\s*(?:y|,)\s*[A-Z]{0,3}-?[\d\.]+)*)", txt)
     if m:
@@ -150,24 +156,82 @@ def metadatos(txt):
     # El nombre puede venir precedido de "Dr."/"Dra.", cuyo punto cortaba la captura.
     m = re.search(r"Magistrad[oa]s?\s+(?:Ponente|Sustanciador[a]?)\s*:?\s*(?:Dra?\.?\s*)?"
                   r"([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s]{6,60}?)\s*(?:\.|,|Bogot|Santaf|La\s+Sala|SENTENCIA|I\.\s)", txt)
+    # Si no: «Magistrada ponente (E): Dra. Carmenza Isaza de Gómez», nombres en
+    # minúscula, «Doctor», «DR.», dos ponentes. Aquí sí se exige «:» — sin él, lo que
+    # sigue suele ser la fila de firmas, donde el nombre vecino es de otro magistrado.
+    m = m or re.search(
+        r"Magistrad[oa]s?\s+(?:[Pp]onentes?|PONENTE|[Ss]ustanciador[a]?)\s*(?:\([Ee]\))?\s*:\s*"
+        r"(?:(?:Doctor[a]?|D[Rr][Aa]?)\s*\.?\s*)?((?:%s)(?:\s+(?:(?:DE|DEL|Y|de|del|y)\s+)?(?!%s)(?:%s)){1,5}\b(?![a-záéíóúñ])"
+        r"|(?:%s)(?:\s+(?:(?:de|del|y)\s+)?(?!%s)(?:%s)){1,5})"
+        % ((MAYUS, ALTO, MAYUS, NOMBRE, ALTO, NOMBRE)), txt)
     if m:
-        meta["ponente"] = " ".join(m.group(1).split()).title()
-    zona = txt[max(0, txt.find("Bogot")):][:400] or txt[:4000]
-    meses = "|".join(MESES)
-    # Dos órdenes conviven: "29 de junio de 2000" y "junio veintinueve (29) de 2000".
-    for patron, gd, gm, ga in (
-            (r"(?:\((\d{1,2})\)|\b(\d{1,2}))\s+de\s+(%s)\s+de\s+(?:[a-záéíóúñ\s]*?\()?(\d{4})" % meses,
-             (1, 2), 3, 4),
-            (r"(%s)\s+[a-záéíóúñ\s]*?\((\d{1,2})\)\s+de\s+(?:[a-záéíóúñ\s]*?\()?(\d{4})" % meses,
-             (2,), 1, 3)):
-        m = re.search(patron, zona, re.I)
-        if m:
-            dia = next((m.group(g) for g in gd if m.group(g)), None)
-            meta["fecha"] = "%s-%02d-%02d" % (m.group(ga), MESES[m.group(gm).lower()], int(dia))
-            break
+        meta["ponente"] = re.sub(r" (De|Del|Y) ", lambda x: x.group().lower(),
+                                 " ".join(m.group(1).split()).title())
+    f = fecha_en(txt, anio)
+    if f:
+        meta["fecha"] = f
     meta["sala"] = "plena" if re.search(r"\bSala\s+Plena\b", txt) else (
         "revision" if re.search(r"Sala\s+\w+\s+de\s+Revisi", txt) else "plena")
     return meta
+
+
+_UNI = ("uno dos tres cuatro cinco seis siete ocho nueve diez once doce trece catorce quince "
+        "dieciseis diecisiete dieciocho diecinueve veinte veintiuno veintidos veintitres "
+        "veinticuatro veinticinco veintiseis veintisiete veintiocho veintinueve").split()
+
+
+def _anio_en_letras(a):
+    a = int(a)
+    if 1991 <= a <= 1999:
+        return "mil novecientos noventa y " + _UNI[a - 1991]
+    return "dos mil" + ("" if a == 2000 else " " + _UNI[a - 2001])
+
+
+def fecha_en(txt, anio):
+    """Fecha de la providencia: la que sigue a «Bogotá[, D.C.],» en el encabezado.
+
+    Se exige el año del ID: la fecha de un fallo citado o de la sentencia de instancia
+    («Tribunal de Bogotá, el 30 de noviembre de 2021») casi nunca coincide con él, y si
+    ninguna ventana da ese año se devuelve "" — sin fecha es honesto, con la equivocada no.
+    Formatos vistos: «veinte (20) de septiembre de dos mil veintitrés (2023)», «febrero
+    catorce (14) del año dos mil uno (2001)», «Septiembre 30 de 1993», «29 de febrero de
+    mil novecientos noventa y seis», «primero (1º) de febrero de ...».
+    """
+    if not anio:
+        return ""
+    plano_ = " ".join(txt.split())
+    sin_tilde = plano_.lower().translate(str.maketrans("áéíóú", "aeiou"))
+    # Ancla: «Bogotá[, D.C.],», el encabezado «Sentencia C-012/13 (23 de enero de 2013)»,
+    # o la ciudad tras el acta cuando la Sala sesiona fuera («Acta 16 Sincelejo, …»).
+    for b in re.finditer(r"bogot[aá]|sentencia aprobada|sentencia [a-z]+-\d+/\d\d\s*\(|"
+                         r"\bacta\s+(?:n\S*\s*)?\d+\s+[a-z ]{3,25},", sin_tilde):
+        w = sin_tilde[b.end():b.end() + 200]
+        m = re.search("|".join(MESES), w)
+        if not m or m.start() > 110:
+            continue
+        antes, despues = w[:m.start()], w[m.end():]
+        # Sin año a la vista («(Bogotá DC, febrero 25)») no es el encabezado: siguiente.
+        if not re.match(r".{0,80}?\b\d{4}\b|.{0,40}\bmil\b", despues):
+            continue
+        # La primera ventana con día, mes y año decide: si no cuadra, no se busca otra
+        # más abajo, porque las de más abajo son fechas citadas (la demanda, el decreto).
+        d = re.search(r"(?:\(\s*(\d{1,2})\s*[º°o]?\s*\)|\b(\d{1,2})\s*[º°]?|(primero))\s*"
+                      r"(?:dias\s+)?(?:del mes\s+)?(?:de\s*)?$", antes)
+        if not d:  # «febrero 25 de 2009», «febrero catorce (14) del año ...»
+            d = re.match(r"\s*(?:[a-z ]{0,25}\()?(\d{1,2})\)?", despues)
+            if d:
+                despues = despues[d.end():]
+        if not d:
+            return ""
+        dia = 1 if d.groups()[-1] == "primero" else int(next(g for g in d.groups() if g))
+        y = re.match(r"[^\d]{0,70}?\b(\d{4})\b", despues)
+        if y:
+            ok = y.group(1) == str(anio)
+        else:
+            ok = re.match(r"[\s,]*(?:de[l]?\s+)?(?:a[ñn]o\s+)?(?:de\s+)?" + _anio_en_letras(anio) + r"\b",
+                          despues) is not None
+        return "%s-%02d-%02d" % (anio, MESES[m.group()], dia) if ok and 1 <= dia <= 31 else ""
+    return ""
 
 
 def ramas_de(sid, con):
@@ -194,7 +258,7 @@ def ficha(sid, con=None):
     desc, res = descriptores(txt), resuelve(txt)
     if not desc and not res:
         raise RuntimeError("%s: ni descriptores ni parte resolutiva — revisar la fuente" % sid)
-    meta = metadatos(txt)
+    meta = metadatos(txt, sid.rsplit(":", 1)[1])
     # Si el año de la fecha no coincide con el del ID, la página no es la sentencia
     # que se pidió (suele ser un auto de corrección posterior). Sin fecha es honesto;
     # con la fecha equivocada, no: C-105/94 quedó fechada en 1995 por esto.
@@ -265,7 +329,7 @@ def check():
     assert decision_de(rv) == "exequible", decision_de(rv)
     assert decision_de("INHIBIRSE de emitir pronunciamiento") == "inhibitoria"
 
-    m = metadatos(txt)
+    m = metadatos(txt, "2019")
     assert m["expediente"] == "D-12981", m
     assert m["fecha"] == "2019-09-25", m
     assert m["ponente"] == "Luis Guillermo Guerrero Pérez", m

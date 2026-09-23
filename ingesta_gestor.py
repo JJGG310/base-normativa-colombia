@@ -25,6 +25,9 @@ from ingesta_senado import bajar, limpiar, fecha_de, guardar_relaciones, MESES, 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 BASE = "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=%s"
 ANCLA = re.compile(r'<a\s+[^>]*name="([\d.]+)"[^>]*>', re.I)
+# Número de artículo de DUR tal como lo escribe el texto: con letra intercalada
+# (2.2.7B.1.1.1) o con un espacio perdido (2.2.1.2. 7.16).
+NUM_DUR = r"\d+(?-i:[A-Z])?(?:\.\s?\d+(?-i:[A-Z])?)*"
 
 ACCION = {"modificado": "modifica", "adicionado": "adiciona", "derogado": "deroga",
           "sustituido": "subroga", "subrogado": "subroga"}
@@ -52,6 +55,7 @@ def articulos(doc):
     """Corta por las anclas `name="2.2.1.1.1"`, que es la numeración real del DUR."""
     # El CSS del pie de página quedaba pegado al último artículo de cada decreto.
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I)
+    doc = re.split(r"<a[^>]*javascript:history\.back", doc)[0]   # «Volver Atrás» y el pie del sitio
     anclas = list(ANCLA.finditer(doc))
     salida, vistos = [], set()
     # Las normas anteriores a los DUR no traen anclas: solo el encabezado en el texto.
@@ -62,28 +66,44 @@ def articulos(doc):
     # exige que el número siga el estilo de numeración de la norma — decimal en los
     # DUR, entero en las viejas — para no confundir un artículo con la remisión del
     # preámbulo ("artículo 189 de la Constitución Política").
-    decimal = "." in anclas[0].group(1)
+    decimal = sum("." in a.group(1) for a in anclas) > len(anclas) / 2   # la primera puede ser «1»
     salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]))
                if a[0] and ("." in a[0]) == decimal]
     for k, m in enumerate(anclas):
         num = m.group(1).strip(".")
         fin = anclas[k + 1].start() if k + 1 < len(anclas) else len(doc)
-        cuerpo = limpiar(doc[m.end():fin])
+        # La fuente pone el ancla DESPUÉS de la palabra: «ARTÍCULO<a name=…> 1.1.2.1»,
+        # así que cada span termina con el «ARTÍCULO» del siguiente.
+        cuerpo = re.sub(r"\s*ART[IÍ]CULO\s*$", "", limpiar(doc[m.end():fin]))
         if not cuerpo:
             continue
+        # Si el ancla es la de un encabezado («ARTÍCULO<a name…> 1.1.2.4.», o el ancla
+        # justo antes de «ARTÍCULO …»), manda el número del texto: el nombre del ancla
+        # falla (el 1066 repite `1.1.2.3` para el 1.1.2.4; el 1076 escribe
+        # «2.2.1.2. 7.16» y «2.2.7B.1.1.1»). Sin «ARTÍCULO» es un numeral de lista.
+        es_art = (re.match(r"ART[IÍ]CULO\s", cuerpo)
+                  or re.search(r"ART[IÍ]CULO\s*$", limpiar(doc[max(0, m.start() - 200):m.start()])))
+        propio = re.match(r"(?:ART[IÍ]CULO\s+)?(%s)" % NUM_DUR, cuerpo)
+        if es_art and propio:
+            num = re.sub(r"\s", "", propio.group(1)).lower()
         # La fuente también le pone ancla a los numerales de una lista dentro del
         # artículo ("6. Entrenamiento."), con un name que parece numeración de DUR.
         # Solo es artículo si el texto arranca con el número completo del ancla; si
         # no, es la continuación del anterior y se le devuelve, no se parte en dos.
-        if not re.match(r"(?:ART[IÍ]CULO\s+)?%s\b" % re.escape(num), cuerpo, re.I):
+        # En un DUR, un ancla entera es de una tabla o del artículo del decreto
+        # reformador que la fuente transcribe («ARTÍCULO 2. Vigencia»): tampoco.
+        if ((decimal and "." not in num)
+                or not es_art and not re.match(r"(?:ART[IÍ]CULO\s+)?%s\b" % re.escape(num), cuerpo, re.I)):
             if salida:
                 salida[-1] = salida[-1][:2] + (salida[-1][2] + "\n\n" + cuerpo,)
             continue
         # "ARTÍCULO 2.2.1.1.1. Concurrencias de las Misiones. <texto>" — algunos DUR
         # publican el mismo encabezado sin la palabra ARTÍCULO.
-        enc = re.match(r"(?:ART[IÍ]CULO\s+)?[\d\.]+\s*\.?\s*(.{3,120}?)\.\s+", cuerpo)
+        enc = re.match(r"(?:ART[IÍ]CULO\s+)?(?:%s)\s*\.?\s*(.{3,120}?)\.(?:\s+|$)" % NUM_DUR, cuerpo)
         epi, texto = ("", cuerpo)
-        if enc:
+        # Los del libro 1 de los DUR son solo un epígrafe («Fondo de Protección de
+        # Justicia»): el encabezado ES el contenido, no se deja vacío.
+        if enc and cuerpo[enc.end():].strip():
             epi, texto = enc.group(1).strip(), cuerpo[enc.end():].strip()
         salida.append((num, " ".join(epi.split()), texto))
 
@@ -102,14 +122,35 @@ def articulos(doc):
 
 # El ordinal («ARTICULO 1º- …», «ARTICULO 1o. …») solo se consume si lo sigue un
 # signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
-RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+([\d][\d\.]*)(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
+RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
+                           r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
+
+
+def orden(num):
+    return [int(x) for x in re.findall(r"\d+", num)]
 
 
 def partir(num, epi, texto):
     """Varios artículos pueden colgar de una sola ancla: el Gestor no le pone `name`
     a todos. El encabezado en línea propia los delimita — sin esto se perdían 287
     artículos del DUR 1072, tragados dentro del anterior."""
-    cortes = [m for m in RE_ART_INLINE.finditer(texto) if m.group(1).strip(".") != num]
+    # Con el estilo de numeración de la norma: un «ARTÍCULO 2.» entero dentro de un DUR
+    # es el decreto reformador transcrito. En las de numeración entera, además, solo
+    # hacia adelante y tras «…quedará así:» solo el número siguiente (el art. 152 del CPTSS reproduce los
+    # arts. 13, 18 y 19 del D.L. 528/64); una letra (54 A) avanza sobre el 54. En los
+    # DUR no: la fuente trae erratas de numeración y el orden cortaría artículos
+    # legítimos, y un artículo puede acabar en «…así:» antes del siguiente.
+    cortes, tope, ult, decimal = [], orden(num), num, "." in num
+    for m in RE_ART_INLINE.finditer(texto):
+        n = re.sub(r"\s", "", m.group(1).strip(".")).lower()
+        k = orden(n)
+        if n == ult or (decimal and "." not in n) or (not decimal and (
+                k < tope or (k == tope and n[-1].isdigit())
+                or (texto[:m.start()].rstrip(" \n\"“«").endswith(":")
+                    and not (tope and k == [tope[0] + 1])))):
+            continue
+        cortes.append(m)
+        tope, ult = k, n
     if not cortes:
         return [(num, epi, texto)]
     salida = [(num, epi, texto[:cortes[0].start()].strip())]
@@ -119,7 +160,7 @@ def partir(num, epi, texto):
         # "Modificado por el art. 1, Ley 712 de 2001." no es el epígrafe del artículo:
         # arrancarlo como tal le corta el principio al texto.
         e = re.match(r"(?!Modificad|Adicionad|Derogad|Reglamentad|Ver\b)(.{3,120}?)\.\s+", cuerpo)
-        salida.append((m.group(1).strip("."), " ".join(e.group(1).split()) if e else "",
+        salida.append((re.sub(r"\s", "", m.group(1).strip(".")).lower(), " ".join(e.group(1).split()) if e else "",
                        cuerpo[e.end():].strip() if e else cuerpo))
     return [a for a in salida if a[2]]
 
@@ -173,6 +214,21 @@ def check():
     f, _ = aristas([("1", "", "Modificado por el art. 1, Ley 712 de 2001. Aplicación.")],
                    "co:decreto:2158:1948", "x")
     assert f[0][:3] == ("co:ley:712:2001:art:1", "modifica", "co:decreto:2158:1948:art:1"), f
+
+    # Transcripción de artículos de otra norma dentro de uno propio (CPTSS art. 152).
+    r = partir("", "", "ARTICULO 152. Conflictos. D.L. 528/64\nARTICULO 13. Corresponde a...\n"
+                       "ARTICULO 54 A. Valor probatorio. Texto.")
+    assert [x[0] for x in r] == ["152"], r
+    r = partir("", "", "ARTICULO 54. Pruebas. Texto.\nARTICULO 54 A. Valor probatorio. Texto.")
+    assert [x[0] for x in r] == ["54", "54a"], r
+
+    # El ancla va después de «ARTÍCULO»: no puede quedar colgando del anterior, y el
+    # pie del sitio no es texto.
+    pie = articulos('<p>ARTÍCULO<a name="1.1.2.1"></a> 1.1.2.1 Fondo uno.</p>'
+                     '<p>ARTÍCULO<a name="1.1.2.1"></a> 1.1.2.2. Fondo dos. Texto.</p>'
+                     '<a href="javascript:history.back(1)">Volver Atrás</a> MinTIC')
+    assert [(a[0], a[2]) for a in pie] == [("1.1.2.1", "1.1.2.1 Fondo uno."),
+                                           ("1.1.2.2", "Texto.")], pie
 
     filas, _ = aristas(arts, "co:decreto:1067:2015", "x")
     assert ("co:decreto:1407:2024:art:1", "modifica",

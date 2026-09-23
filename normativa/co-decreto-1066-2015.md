@@ -7,7 +7,7 @@ ramas: [administrativo, policivo, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76835
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Cabeza del sector
@@ -20,17 +20,17 @@ TITULO 2
 
 Fondos Especiales
 
-ARTÍCULO
+## art:1.1.2.1 — 
 
-## art:1.1.2.1 — Fondo de seguridad y convivencia ciudadana - FONSECON
-
-ARTÍCULO
+1.1.2.1 Fondo de seguridad y convivencia ciudadana - FONSECON.
 
 ## art:1.1.2.2 — 
 
 1.1.2.2 Fondo de Protección de Justicia
 
-ARTÍCULO
+## art:1.1.2.3 — 
+
+1.1.2.3 Fondo Nacional de Lucha contra la Trata de Personas.
 
 ## art:1.1.2.4 — Fondo Cuenta para el Buen Vivir
 
@@ -40,27 +40,25 @@ TITULO 3
 
 Órganos de Asesoría, Coordinación y Orientación
 
-ARTÍCULO
+## art:1.1.3.1 — 
 
-## art:1.1.3.1 — Comité Sectorial de Desarrollo Administrativo
+1.1.3.1. Comité Sectorial de Desarrollo Administrativo.
 
-ARTÍCULO
+## art:1.1.3.2 — 
 
-## art:1.1.3.2 — Comité Institucional de Desarrollo Administrativo
+1.1.3.2. Comité Institucional de Desarrollo Administrativo.
 
-ARTÍCULO
+## art:1.1.3.3 — 
 
-## art:1.1.3.3 — Comité de Gerencia
+1.1.3.3. Comité de Gerencia.
 
-ARTÍCULO
+## art:1.1.3.4 — 
 
-## art:1.1.3.4 — Comisión de Personal
+1.1.3.4. Comisión de Personal.
 
-ARTÍCULO
+## art:1.1.3.5 — 
 
-## art:1.1.3.5 — Comité de Coordinación del Sistema de Control Interno
-
-ARTÍCULO
+1.1.3.5. Comité de Coordinación del Sistema de Control Interno.
 
 ## art:1.1.3.6 — 3.6
 
@@ -68,23 +66,17 @@ Comisión para la Coordinación y Seguimiento de los Procesos Electorales
 
 (Decreto 2821 de 2013)
 
-ARTÍCULO
-
 ## art:1.1.3.7 — 3.7
 
 Comisión Intersectorial para el Avance de la Población Afrocolombiana, Palanquera y Raizal
 
 (Decreto 4181 de 2007, Decreto 4401 de 2008)
 
-ARTÍCULO
-
 ## art:1.1.3.8 — 3.8
 
 Comisión Intersectorial para la promoción, respeto y garantía de los Derechos Humanos y del Derecho Internacional Humanitario en el Departamento de Arauca
 
 (Decreto 1722 de 2002, Decreto 0285 de 2013)
-
-ARTÍCULO
 
 ## art:1.1.3.9 — 3.9
 
@@ -94,15 +86,11 @@ Comité Interinstitucional para la reglamentación de los Convenios de Derecho P
 
 (Decreto 1321 de 1998)
 
-ARTÍCULO
-
 ## art:1.1.3.1.10 — .10
 
 Comité Técnico del Sistema Integrado de Emergencias y Seguridad, SIES
 
 (Decreto 4708 de 2009)
-
-ARTÍCULO
 
 ## art:1.1.3.11 — .11
 
@@ -110,15 +98,11 @@ Comisión Consultiva de Alto Nivel y Comisiones Consultivas Departamentales y de
 
 (Decreto 3770 de 2008, Capítulos 1 y 2, Arts. 1 al 13)
 
-ARTÍCULO
-
 ## art:1.1.3.12 — .12
 
 Comisión para el Desarrollo Integral de la Política Indígena del Departamento del Cauca
 
 (Decreto 982 de 1999)
-
-ARTÍCULO
 
 ## art:1.1.3.13 — .13
 
@@ -126,15 +110,11 @@ Mesa Regional Amazónica
 
 (Decreto 3012 de 2005)
 
-ARTÍCULO
-
 ## art:1.1.3.14 — .14
 
 Mesa de Concertación para el Pueblo Ala
 
 (Decreto 1137 de 2010)
-
-ARTÍCULO
 
 ## art:1.1.3.15 — Comisión Intersectorial para la Respuesta Rápida a las Alertas Tempranas Para la Respuesta Rápida (Captar)
 
@@ -142,19 +122,13 @@ ARTÍCULO
 
 (Decreto 2890 de 2013)
 
-ARTÍCULO
-
 ## art:1.1.3.16 — Comisión de Derechos Humanos de los Pueblos Indígenas
 
 (Decreto 1396 de 1996)
 
-ARTÍCULO
-
 ## art:1.1.3.17 — Comité Interinstitucional de Participación, CIP
 
 (Decreto 2231 de 1995)
-
-ARTÍCULO
 
 ## art:1.1.3.18 — Comisión Intersectorial de Garantías para las Mujeres Lideresas y Defensoras de los Derechos Humanos
 
@@ -168,15 +142,11 @@ TITULO 1
 
 Entidades Adscritas
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Fondo para la Participación y el Fortalecimiento de la Democracia
 
 Establecimiento público del orden nacional, dotado de personería jurídica y patrimonio independiente, que tiene como objeto financiar programas que hagan efectiva la participación ciudadana, mediante la difusión de sus procedimientos, la capacitación de la comunidad para el ejercicio de las instituciones y mecanismos reconocidos en esta ley, así como el análisis y evaluación del comportamiento participativo y comunitario.
 
 (Decreto 695 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Corporación Nacional para la Reconstrucción de la Cuenca del Rio Páez y Zonas Aledañas "Nasa Kiwi"
 
@@ -184,15 +154,11 @@ Establecimiento público del orden nacional dotado de personería jurídica, aut
 
 (Decreto 1179 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Dirección Nacional de Derecho de Autor
 
 Unidad Administrativa Especial, con personería jurídica, autonomía administrativa y patrimonio independiente. Le compete el diseño, dirección, administración y ejecución de las políticas gubernamentales en materia de derechos de autor; llevar el registro nacional de las obras literarias y artísticas y ejercer la inspección y vigilancia sobre las sociedades de gestión colectiva de los derechos reconocidos en la Ley 23 de 1982 y demás disposiciones; otorgar las reservas de nombres de medios de comunicación y determinar la fijación o exención de caución a los medios escritos de conformidad con las Leyes 23 de 1982 y 29 de 1944, respectivamente.
 
 (Decreto 2041 de 1991, Arts. 1 y 2)
-
-ARTÍCULO
 
 ## art:1.2.1.4 — Unidad Nacional de Protección UNP
 
@@ -200,15 +166,11 @@ Unidad Administrativa Especial del orden nacional, con personería jurídica, au
 
 (Decreto 4065 de 2011, Arts. 1 y 3)
 
-ARTÍCULO
-
 ## art:1.2.1.5 — Dirección Nacional de Bomberos
 
 Es una Unidad Administrativa Especial del orden nacional, con personería jurídica, autonomía administrativa, financiera y patrimonio propio, cuyo objetivo es dirigir, coordinar y acompañar la actividad de los cuerpos de bomberos del país, para la debida implementación de las políticas y normativa que se formule en materia de gestión integral del riesgo contra incendio, los preparativos y atención de rescates en todas sus modalidades y la atención de incidentes con materiales peligrosos, que permitan prestar de manera eficiente este servicio público esencial.
 
 (Ley 1575 de 2012, Arts. 5 y 6; Decreto 350 de 2013, Arts. 1 y 2)
-
-ARTÍCULO
 
 ## art:1.2.1.6 — Imprenta Nacional de Colombia
 
@@ -228,13 +190,9 @@ TITULO 1
 
 Objeto y Ámbito de Aplicación
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad vigente del sector administrativo del interior expedida por el Gobierno Nacional, en ejercicio de las facultades reglamentarias conferidas por el numeral 11 del ARTÍCULO 189 de la Constitución Política, para la cumplida ejecución de las leyes de este sector.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de aplicación
 
@@ -252,15 +210,11 @@ CAPÍTULO 1
 
 Ordenamiento Territorial
 
-ARTÍCULO
-
 ## art:2.2.1.1.1 — Definición
 
 La Comisión de Ordenamiento Territorial (COT), es un organismo de carácter técnico asesor, que tiene como función evaluar, revisar y sugerir al Gobierno Nacional y a las Comisiones Especiales de Seguimiento al Proceso de Descentralización y Ordenamiento Territorial del Senado de la República y de la Cámara de Representantes, la adopción de políticas, desarrollos legislativos y criterios para la mejor organización del Estado en el territorio.
 
 (Decreto 3680 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2 — Conformación de la Comisión de Ordenamiento Territorial
 
@@ -290,8 +244,6 @@ PARÁGRAFO 3. Los miembros de que trata el numeral 8 del presente artículo ser�
 
 (Decreto 3680 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3 — Servicios ad honorem
 
 Los miembros de la Comisión de Ordenamiento Territorial y de las Comisiones Regionales de Ordenamiento Territorial prestaran sus servicios ad honorem.
@@ -302,15 +254,11 @@ PARÁGRAFO 2. Cuando se pierda la condición de integrante de la Comisión de Or
 
 (Decreto 3680 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.4 — Reuniones
 
 Previa convocatoria del presidente de la Comisión de Ordenamiento Territorial, esta sesionara de manera ordinaria cada seis (6) meses o, de manera extraordinaria, cuando se requiera con la frecuencia necesaria para el cabal cumplimiento de sus funciones.
 
 (Decreto 3680 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.5 — Funciones de la COT
 
@@ -338,8 +286,6 @@ PARÁGRAFO. El Gobierno Nacional difundirá ampliamente la propuesta de codifica
 
 (Decreto 3680 de 2011, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.1.6 — Secretaria Técnica
 
 El Departamento Nacional de Planeación ejercerá la Secretaria Técnica de la Comisión de Ordenamiento Territorial, COT.
@@ -347,8 +293,6 @@ El Departamento Nacional de Planeación ejercerá la Secretaria Técnica de la C
 (Ver Decreto 1893 de 2021)
 
 (Decreto 3680 de 2011, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.1.7 — Responsabilidades de la secretaria técnica de la Comisión de Ordenamiento Territorial
 
@@ -402,8 +346,6 @@ De seguimiento:
 
 (Decreto 3680 de 2011, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.1.8 — Subsecretaria Técnica
 
 La Subsecretaria Técnica de la Comisión de Ordenamiento Territorial, estará en cabeza de los secretarios de las Comisiones Especiales de Seguimiento al Proceso de Descentralización y Ordenamiento Territorial del Senado de la República y la Cámara de Representantes, por períodos alternados de dos (2) años.
@@ -412,8 +354,6 @@ PARÁGRAFO. Además de las funciones asignadas por la Comisión de Ordenamiento 
 
 (Decreto 3680 de 2011, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.9 — Comisiones regionales de ordenamiento territorial
 
 Las asambleas departamentales y los concejos municipales y distritales, mediante ordenanzas y acuerdos, respectivamente, crearan las Comisiones Regionales de Ordenamiento Territorial que, de acuerdo con su jurisdicción, les corresponda.
@@ -421,8 +361,6 @@ Las asambleas departamentales y los concejos municipales y distritales, mediante
 PARÁGRAFO. La Comisión de Ordenamiento Territorial establecerá la integración y funciones de las Comisiones Regionales de Ordenamiento Territorial y la forma de articulación con los diferentes niveles y entidades de gobierno.
 
 (Decreto 3680 de 2011, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10 — Conformación de las comisiones departamentales de ordenamiento territorial
 
@@ -448,23 +386,17 @@ PARÁGRAFO 2. Los miembros de que trata el numeral 7 del presente artículo ser�
 
 (Decreto 3680 de 2011, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.1.11 — Funciones de las comisiones departamentales de ordenamiento territorial
 
 Sin perjuicio de lo que disponga la Comisión de Ordenamiento Territorial, COT, son funciones de las Comisiones Departamentales de Ordenamiento Territorial, asesorar al gobierno departamental en el proceso de descentralización, en la integración de los diferentes esquemas asociativos territoriales y proponer políticas sectoriales con injerencia en el ordenamiento territorial, acorde con los principios de subsidiariedad, concurrencia, complementariedad y coordinación, eficiencia, gradualidad, equilibrio entre competencias, recursos y responsabilidad.
 
 (Decreto 3680 de 2011, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.1.12 — Secretaria técnica y reuniones de las comisiones departamentales de ordenamiento territorial
 
 Las asambleas departamentales determinaran lo relacionado con la designación y responsabilidades de la secretaria técnica y las reuniones de las Comisiones Departamentales de Ordenamiento Territorial.
 
 (Decreto 3680 de 2011, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.1.13 — Conformación de las comisiones municipales y distritales de ordenamiento territorial
 
@@ -492,23 +424,17 @@ Cuando en el municipio o distrito no existan universidades, los expertos académ
 
 (Decreto 3680 de 2011, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.1.14 — Funciones de las comisiones municipales y distritales de ordenamiento territorial
 
 Sin perjuicio de lo que disponga la Comisión de Ordenamiento Territorial, COT, son funciones de las Comisiones Municipales y Distritales de Ordenamiento Territorial, asesorar al gobierno municipal y distrital en el proceso de descentralización, en la integración de los diferentes esquemas asociativos territoriales y proponer políticas sectoriales con injerencia en el ordenamiento territorial, acorde con los principios de subsidiariedad, concurrencia, complementariedad, coordinación, eficiencia, gradualidad, equilibrio entre competencias y recursos y responsabilidad.
 
 (Decreto 3680 de 2011, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.1.15 — Secretaria técnica y reuniones de las comisiones municipales y distritales de ordenamiento territorial
 
 Los concejos municipales y distritales determinaran lo relacionado con la designación y responsabilidades de la secretaria técnica y las reuniones de las comisiones de Ordenamiento Territorial de su jurisdicción.
 
 (Decreto 3680 de 2011, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.1.1.16 — Concepto previo para constitución de región administrativa y de planificación
 
@@ -520,15 +446,11 @@ CAPÍTULO 2
 
 De la liquidación de honorarios de concejales de Bogotá D.C
 
-ARTÍCULO
-
 ## art:2.2.1.2.1 — Liquidación de honorarios de concejales de Bogotá D.C
 
 Únicamente para efectos de la liquidación de los honorarios de los concejales del Distrito Capital a que aluden los ARTÍCULO s 34 del Decreto-Ley 1421 de 1993 y 58 de la Ley 617 de 2000, la remuneración mensual del Alcalde Mayor de Bogotá está conformada por la asignación básica, los gastos de representación, la prima técnica y la doceava parte de la bonificación de dirección que el Alcalde Mayor disfrute.
 
 (Decreto 2721 de 2006, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2 — Conservación
 
@@ -540,15 +462,11 @@ CAPÍTULO 3
 
 De la cancelación de personerías jurídicas de asociaciones o corporaciones y fundaciones o instituciones de utilidad común, en los departamentos.
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Aplicación
 
 La cancelación de personerías jurídicas de las asociaciones o corporaciones y fundaciones o instituciones de utilidad común, que tengan su domicilio principal en el departamento, y que por competencia legal le correspondan a los Gobernadores, se regirán por las disposiciones del presente Capítulo.
 
 (Decreto 1529 de 1990, art. 1; Decreto-Ley 2150 de 1995, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.1.3.2 — Contenido de los estatutos
 
@@ -576,8 +494,6 @@ PARÁGRAFO. - El contenido de los estatutos en ningún caso podrá ser contrario
 
 (Decreto 1529 de 1990, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3 — Cancelación de la personería jurídica
 
 El Gobernador del Departamento podrá cancelar, de oficio o a petición de cualquier persona, la personería jurídica de las asociaciones o corporaciones y fundaciones o instituciones de utilidad común, o la inscripción de sus dignatarios, incluyendo la del representante legal, además de los casos previstos en la ley, cuando sus actividades se desvíen del objetivo de sus estatutos, o sean contrarias al orden público, a las leyes o a las buenas costumbres.
@@ -585,8 +501,6 @@ El Gobernador del Departamento podrá cancelar, de oficio o a petición de cualq
 La solicitud de cancelación de la personería jurídica se dirigirá al Gobernador acreditando la prueba de configuración de la causal invocada y formulando los hechos y los fundamentos legales. Con la firma de la solicitud se entenderá que la queja se presentar bajo la gravedad del juramento.
 
 (Decreto 1529 de 1990, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4 — Procedimiento
 
@@ -596,15 +510,11 @@ PARÁGRAFO. Cuando la cancelación sea de oficio, el Gobernador no requerirá de
 
 (Decreto 1529 de 1990, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.3.5 — Congelación de fondos
 
 Si la actuación que se le atribuye a la entidad es grave y afecta los intereses de la misma o de terceros, el Gobernador podrá congelar transitoriamente los fondos de esta, mientras se adelanta la investigación y se toma una decisión, excepto para ordenar los pagos de salarios y prestaciones sociales y los gastos estrictamente necesarios para el funcionamiento de la entidad, los cuales requieren previa autorización del Gobernador.
 
 (Decreto 1529 de 1990, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.3.6 — Termino de la investigación
 
@@ -612,15 +522,11 @@ La investigación incluyendo descargos, practica de pruebas y decisión, que deb
 
 (Decreto 1529 de 1990, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.3.7 — Cancelación de la inscripción de dignatarios
 
 La cancelación de la inscripción de cualquiera de los dignatarios, incluyendo la del representante legal, podrá decretarse cuando se compruebe su responsabilidad en los hechos objeto de la investigación.
 
 (Decreto 1529 de 1990, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.3.8 — Sustanciación, providencia y recurso
 
@@ -630,15 +536,11 @@ Las decisiones que recaigan sobre estos asuntos, se adoptaran mediante resoluci�
 
 (Decreto 1529 de 1990, art. 12; Decreto-Ley 2150 de 1995, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.1.3.9 — Notificación
 
 Expedida la resolución que cancele la personería jurídica y la inscripción de dignatarios, se notificara al representante legal o a los dignatarios de la entidad, según sea el caso, en los términos contemplados en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1529 de 1990, art. 13; Decreto-Ley 2150 de 1995, Arts. 40 y 42)
-
-ARTÍCULO
 
 ## art:2.2.1.3.10 — Publicación
 
@@ -646,15 +548,11 @@ Las resoluciones de cancelación de personería jurídica y de inscripción de d
 
 (Decreto 1529 de 1990, art. 14; Decreto-Ley 2150 de 1995, Arts. 40 y 42)
 
-ARTÍCULO
-
 ## art:2.2.1.3.11 — Disolución y liquidación
 
 Las asociaciones o corporaciones y fundaciones o instituciones de utilidad común, se disolverán por decisión de la Asamblea General, conforme a los reglamentos y estatutos o cuando se les cancele la personería jurídica.
 
 (Decreto 1529 de 1990, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.1.3.12 — Liquidador
 
@@ -662,15 +560,11 @@ Cuando la entidad decrete su disolución, en ese mismo acto nombrará un liquida
 
 (Decreto 1529 de 1990, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.1.3.13 — Publicidad
 
 Con cargo al patrimonio de la entidad, el liquidador publicara tres (3) avisos en un periódico de amplia circulación nacional, dejando entre uno y otro, un plazo de quince (15) días, en los cuales informara a la ciudadanía sobre el proceso de liquidación, instando a los acreedores a hacer valer sus derechos.
 
 (Decreto 1529 de 1990, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.3.14 — Liquidación
 
@@ -684,8 +578,6 @@ Cuando ni la Asamblea ni los estatutos hayan dispuesto sobre este aspecto, dicho
 
 (Decreto 1529 de 1990, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.3.15 — Certificaciones
 
 La dependencia respectiva de la Gobernación certificara los hechos que consten en los correspondientes expedientes de las entidades a que se refiere el presente Capítulo, dentro de los diez (10) días hábiles siguientes al recibo de la solicitud.
@@ -696,23 +588,17 @@ PARÁGRAFO. Las solicitudes de certificaciones a que se refiere este ARTÍCULO s
 
 (Decreto 1529 de 1990, art. 21; Decreto 427 de 1996, artículo 8; Decreto Ley 019 de 2012, Arts. 25)
 
-ARTÍCULO
-
 ## art:2.2.1.3.16 — Recibo de solicitudes y verificación de requisitos
 
 En el acto de recibo de las solicitudes sobre cancelación de personería jurídica y de inscripción de dignatarios, se verificará la existencia de la información y documentación ya relacionada y en caso de estar incompleta se devolverá al interesado para que la complemente.
 
 (Decreto 1529 de 1990, art. 22; Decreto-Ley 2150 de 1995, Arts. 40 y 42)
 
-ARTÍCULO
-
 ## art:2.2.1.3.17 — Aplicación de otras disposiciones
 
 Los Gobernadores ejercerán la inspección y vigilancia sobre las instituciones de utilidad común que tengan su domicilio principal en el respectivo Departamento, de conformidad con lo dispuesto por los Decretos 1318 de 1988 y 1093 de 1989 y demás normas que los modifiquen y adicionen. Si dichas entidades tienen fines educativos, científicos, tecnológicos, culturales, de recreación o deportes, se dará aplicación al Decreto 525 de 1990 y demás normas que lo modifiquen y adicionen, no solo en cuanto a la inspección y vigilancia de estas, sino también en lo relativo al reconocimiento y cancelación de personería jurídica y demás aspectos tratados en el mismo.
 
 (Decreto 1529 de 1990, art. 23; concordante con el Decreto - Ley 2150 de 1995, Arts. 45; modificado por la Ley 537 de 1999)
-
-ARTÍCULO
 
 ## art:2.2.1.3.18 — Inspección y vigilancia
 
@@ -724,15 +610,11 @@ CAPÍTULO 4
 
 De los procedimientos para la coordinación de funciones administrativas entre el nivel nacional y el nivel territorial
 
-ARTÍCULO
-
 ## art:2.2.1.4.1 — Responsabilidades del gobernador
 
 El gobernador de cada departamento deberá coordinar y articular el desarrollo de las políticas nacionales de carácter sectorial entre las diferentes entidades del nivel nacional en su territorio, haciendo uso de los instrumentos de planificación y concertación interinstitucional.
 
 (Decreto 1188 de 2003, Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.4.2 — Actuación del gobernador
 
@@ -740,15 +622,11 @@ El gobernador de cada departamento, de conformidad con la Constitución Polític
 
 (Decreto 1188 de 2003, Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3 — Articulación de políticas sectoriales
 
 Para el desarrollo efectivo del principio de coordinación, las entidades del nivel nacional deberán articular la aplicación de las políticas sectoriales a su cargo en el nivel territorial, en primera instancia con los gobernadores de cada departamento, para que estos hagan lo propio con los municipios, en segunda instancia.
 
 (Decreto 1188 de 2003, Art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.4.4 — Estrategias de seguimiento
 
@@ -756,15 +634,11 @@ Cada gobernador deberá promover, desarrollar y aplicar estrategias de seguimien
 
 (Decreto 1188 de 2003, Art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.4.5 — Gestión de proyectos
 
 Los gobernadores, en coordinación con los respectivos alcaldes dentro de su territorio, promoverán ante la Nación la gestión de proyectos de iniciativa o interés municipal de impacto regional o subregional, de manera articulada con las políticas nacionales de carácter sectorial, en el ámbito de su territorio, ajustados a los respectivos planes de desarrollo, sin perjuicio de la respectiva autonomía consagrada a cada ente territorial.
 
 (Decreto 1188 de 2003, Art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.4.6 — Espacios Institucionales
 
@@ -778,19 +652,13 @@ Las entidades del orden nacional propiciaran regularmente espacios institucional
 
 REGIONES ADMINISTRATIVAS Y DE PLANIFICACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.5.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene por objeto señalar los principios y establecer los criterios, alcance y procedimiento para la declaración de los hechos regionales por parte de las Regiones Administrativas y de Planificación (RAP); las funciones y los instrumentos de planeación de las RAP; sus órganos de gobierno y administración, así como la forma de escogencia de los miembros del Comité Asesor de las Regiones Administrativas y de Planificación.
 
-ARTÍCULO
-
 ## art:2.2.1.5.2 — Principios que orientan la declaración de los hechos regionales
 
 En desarrollo de lo dispuesto en el artículo 3 de la Ley 1962 de 2019, la Junta Directiva de las RAP debe identificar y declarar los hechos regionales, guiada, entre otros, por los principios constitucionales y legales de la función administrativa, los principios que la ley y la constitución política dictan sobre la descentralización administrativa y la autonomía de las entidades territoriales, los principios rectores del ordenamiento territorial previstos en el artículo 3° de la Ley 1454 de 2011 y los principios de coordinación, concurrencia y subsidiaridad.
-
-ARTÍCULO
 
 ## art:2.2.1.5.3 — Alcance de los hechos regionales
 
@@ -810,8 +678,6 @@ PARÁGRAFO 2. En desarrollo del artículo 3 de la Ley 1962 de 2019, la identific
 
 PARÁGRAFO 3. Para la identificación y declaración de los hechos regionales, las RAP se apoyarán en el comité asesor a que se refiere el artículo 8 de la Ley 1962 de 2019.
 
-ARTÍCULO
-
 ## art:2.2.1.5.4 — Criterios para la declaración de los hechos regionales
 
 Las Regiones Administrativas y de Planificación (RAP) declararan los hechos regionales teniendo en cuenta los siguientes criterios:
@@ -826,8 +692,6 @@ Las Regiones Administrativas y de Planificación (RAP) declararan los hechos reg
 
 5. Coherencia con ejes estratégicos: Al identificar hechos regionales, las RAP propenderán por garantizar la coherencia con los ejes estratégicos definidos en el acto de constitución de la RAP.
 
-ARTÍCULO
-
 ## art:2.2.1.5.5 — Procedimiento para la declaración de los hechos regionales
 
 La declaratoria del hecho regional se efectuará mediante Acuerdo Regional expedido por la Junta Directiva de la Región Administrativa y de Planificación, a iniciativa del Gerente Regional, para lo cual debe contar con:
@@ -840,13 +704,9 @@ La declaratoria del hecho regional se efectuará mediante Acuerdo Regional exped
 
 PARÁGRAFO 1. Las regiones administrativas y de planificación que hayan declarado los hechos regionales antes de la entrada en vigencia de la Ley 1962 de 2019, no deben ajustarse a lo aquí estipulado y seguirán rigiéndose por las condiciones y vigencias establecidas en el plan estratégico regional vigente. No obstante, deben ajustarse a las presentes disposiciones cuando vayan a realizar revisiones del hecho regional, del PER, o adoptar un PER o hecho regional nuevo.
 
-ARTÍCULO
-
 ## art:2.2.1.5.6 — Implementación de los hechos regionales
 
 La implementación de los hechos regionales se efectuará a través del Plan Estratégico Regional (PER) adoptado por la RAP.
-
-ARTÍCULO
 
 ## art:2.2.1.5.7 — Definición y alcance de los Planes Estratégicos Regionales PER
 
@@ -867,8 +727,6 @@ No obstante, deben ajustarse a las presentes disposiciones cuando vayan a realiz
 PARÁGRAFO 5. En el proceso de formulación del PER, la RAP desarrollara mecanismos de participación para la toma de decisiones, soportada en un ejercicio de identificación de los actores relevantes de cara a los hechos regionales declarados.
 
 PARÁGRAFO 6. En el caso en que una Región Administrativa y de Planificación (RAP) no tenga aprobado el Plan Estratégico Regional (PER) correspondiente, los proyectos que se vayan a implementar deben contar con concepto de la Junta Directiva de las RAP que acredite que los proyectos están enmarcados dentro de un hecho regional declarado.
-
-ARTÍCULO
 
 ## art:2.2.1.5.8 — 5.8
 
@@ -892,8 +750,6 @@ PARÁGRAFO 2. Durante el proceso de participación de las etapas de alistamiento
 
 Las autoridades referidas en este parágrafo serán vinculadas al proceso de formulación del PER mediante comunicación escrita enviada por correo certificado a su domicilio. Si transcurridos tres (3) meses contados desde el día siguiente a la recepción de la comunicación de vinculación de los actores a los que se refiere este parágrafo, mediante comunicación escrita no se evidencia la articulación mencionada con las citadas autoridades, la RAP podrá seguir con el trámite para la adopción del plan dejando una constancia motivada que debe ser comunicada a las autoridades vinculadas.
 
-ARTÍCULO
-
 ## art:2.2.1.5.9 — Procedimiento de adopción
 
 Para la adopción de los PER, las Regiones Administrativas y de Planificación adelantaran el siguiente procedimiento:
@@ -906,13 +762,9 @@ Para la adopción de los PER, las Regiones Administrativas y de Planificación a
 
 4. Adopción del PER mediante acuerdo de la junta directiva.
 
-ARTÍCULO
-
 ## art:2.1.1.5.10 — Criterios para la evaluación y seguimiento
 
 Con el fin de garantizar una gestión pública orientada a resultados, la gerencia de las RAP o quien haga sus veces, realizara el seguimiento anual de los indicadores de proyectos, metas de producto y resultado, de acuerdo con lo establecido por el DNP para el seguimiento de políticas públicas regionales e indicadores regionales.
-
-ARTÍCULO
 
 ## art:2.2.1.5.11 — Órganos de Administración
 
@@ -928,29 +780,21 @@ PARÁGRAFO 2. El régimen de funcionamiento, funciones, requisitos y período se
 
 PARÁGRAFO 3. Para efectos de lo dispuesto en el presente artículo, el Consejo Regional Administrativo de Planeación convocara a sus debates y discusiones a un (1) representante de los municipios que integran la RAP, con voz, pero sin voto. Este representante será elegido por la Federación Nacional de Municipios.
 
-ARTÍCULO
-
 ## art:2.2.1.5.12 — Actos
 
 Las decisiones de contenido general adoptadas por el Consejo Regional Administrativo de Planeación, se denominan Acuerdos Regionales. Las de contenido particular se denominan Resolución Regional. Estos actos se suscribirán por el presidente y el Secretario Técnico del Consejo Regional Administrativo de Planeación.
 
 Las decisiones de contenido general y particular adoptadas por el Gerente Regional o quien haga sus veces se denominarán resoluciones.
 
-ARTÍCULO
-
 ## art:2.2.1.5.13 — acompañamiento y Asesoría
 
 El Ministerio del Interior y el Departamento Nacional de Planeación, efectuaran el acompañamiento y asesoría a la conformación y funcionamiento de las Regiones Administrativas y de Planificación (RAP).
-
-ARTÍCULO
 
 ## art:2.2.1.5.14 — Naturaleza
 
 El Comité Asesor al que se refiere el artículo 8 de la Ley 1962 de 2019 se encargara de apoyar al Consejo Regional Administrativo y de Planificación a través de la asesoría técnica requerida para el funcionamiento de la Región Administrativa de Planeación (RAP), particularmente en lo que tiene que ver con la elaboración y presentación de proyectos, recaudo fiscal, transparencia, eficiencia del gasto, y los demás aspectos necesarios para el cumplimiento de las funciones de las regiones de Administración y de Planificación (RAP).
 
 Los conceptos del Comité tienen un carácter no vinculante y su propósito es servir como criterios orientadores para el ejercicio de las funciones de las RAP.
-
-ARTÍCULO
 
 ## art:2.2.1.5.15 — Miembros del Comité Asesor de la Región Administrativa y de Planificación
 
@@ -972,19 +816,13 @@ g. Un Delegado del Departamento Nacional de Planeación
 
 h. Un Delegado del Consejo Territorial de Planeación competente
 
-ARTÍCULO
-
 ## art:2.2.1.5.16 — Representantes de la academia
 
 El Gerente de la Región Administrativa y de Planificación definirá y llevará a cabo un proceso objetivo para seleccionar a los representantes de la academia regional y determinar el número de delegados. En todo caso, debe designar dos (2) representantes, respetando estándares técnicos acordes con la función del Comité, velando en todo caso por la participación de las universidades públicas y privadas.
 
-ARTÍCULO
-
 ## art:2.2.1.5.17 — Representantes del sector privado y de la sociedad civil
 
 El Gerente de la Región Administrativa y de Planificación definirá y adelantará un proceso objetivo para seleccionar a los representantes del sector privado y de la sociedad civil, de acuerdo con las materias sobre las que verse el concepto técnico expedido por el comité.
-
-ARTÍCULO
 
 ## art:2.2.1.5.18 — Representantes de los grupos étnicos de la Región
 
@@ -992,19 +830,13 @@ Tratándose de Comunidades Indígenas y ROM, el representante será designado a 
 
 Para las comunidades Negras, Afrocolombianas, Raizales y Palenqueras, los representantes serán designados por la Comisión Consultiva de Alto Nivel para Comunidades Negras. En cualquier caso, la persona designada deberá pertenecer a la jurisdicción de la Región Administrativa de Planeación - RAP.
 
-ARTÍCULO
-
 ## art:2.2.1.5.19 — Asistentes e invitados
 
 La mesa directiva del Comité Asesor de la Región Administrativa y de Planificación podrá invitar a las personas naturales o jurídicas de derecho público o privado que considere pertinente para tratar los asuntos que vayan a ser debatidos en la respectiva sesión. A los invitados se les podrá hacer consultas y pedir conceptos escritos o verbales para el desarrollo de las funciones del Comité, los cuales no tendrán carácter vinculante. Tratándose de temas ambientales se debe evaluar si es necesario convocar a las autoridades ambientales pertinentes.
 
-ARTÍCULO
-
 ## art:2.2.1.5.20 — Secretaria Técnica
 
 La Región Administrativa y de Planificación (RAP) a través del Director Ejecutivo o su delegado, ejercerá la Secretaria Técnica del Comité.
-
-ARTÍCULO
 
 ## art:2.2.1.5.21 — Reglamento Interno
 
@@ -1170,15 +1002,11 @@ CAPÍTULO 1
 
 Víctimas por Desaparición Forzada
 
-ARTÍCULO
-
 ## art:2.2.2.1.1 — Objeto
 
 El presente capítulo tiene como objeto implementar un conjunto de medidas que contribuyan a la localización, identificación, inhumación y homenaje a las víctimas del delito de desaparición forzada, así como brindar apoyo económico y asistencia psicosocial a sus familiares durante el proceso de entrega del cuerpo o restos humanos de la víctima, bajo los principios de dignidad, intimidad personal, igualdad y no discriminación, sin perjuicio de las demás obligaciones de atención y asistencia psicosocial que se le deben brindar a los familiares por su condición de víctimas, acorde con lo establecido en la normatividad vigente.
 
 (Decreto 303 de 2015, art 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2 — Generalidades
 
@@ -1189,8 +1017,6 @@ Para los efectos del presente capítulo se entenderá que:
 2. La condición de víctima se adquiere con independencia de que se identifique, aprehenda, procese o condene al autor de delito de desaparición forzada y sin consideración a la relación familiar existente entre el autor y la víctima.
 
 (Decreto 303 de 2015, art 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3 — Principios
 
@@ -1208,8 +1034,6 @@ Las medidas dispuestas en este capítulo serán adoptadas e implementadas con ab
 
 (Decreto 303 de 2015, art 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4 — Objeto del banco
 
 El Banco de Perfiles Genéticos de Desaparecidos de que trata el artículo 4 de la Ley 1408 de 2010, tiene como objeto la administración y procesamiento de la información de los perfiles genéticos obtenidos de las personas, cuerpos o restos humanos de las víctimas de desaparición y de las muestras biológicas de referencia tomadas a los familiares de estas.
@@ -1218,15 +1042,11 @@ En desarrollo de su objeto, el Banco deberá indexar, organizar, centralizar y a
 
 (Decreto 303 de 2015, art 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5 — Dirección
 
 El Banco de Perfiles Genéticos de Desaparecidos funcionara bajo la dirección y coordinación de la Fiscalía General de la Nación.
 
 (Decreto 303 de 2015, art 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6 — Estructura
 
@@ -1234,15 +1054,11 @@ Para el desarrollo de su objeto y con base en la plataforma tecnológica utiliza
 
 (Decreto 303 de 2015, art 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.7 — Administrador Nacional
 
 La Administración Nacional del Banco estará a cargo del Instituto Nacional de Medicina Legal y Ciencias Forenses, y la información primaria será la que actualmente se encuentra registrada en los módulos de la plataforma Combinad DNA Índex Sistema -CODIS, referentes a los índices de desaparecidos, grupo familiar y elementos personales.
 
 (Decreto 303 de 2015, art 7)
-
-ARTÍCULO
 
 ## art:2.2.2.1.8 — Funciones del Administrador Nacional
 
@@ -1264,15 +1080,11 @@ El Administrador Nacional tendrá las siguientes funciones:
 
 (Decreto 303 de 2015, art 8)
 
-ARTÍCULO
-
 ## art:2.2.2.1.9 — Administradores locales
 
 La Administración Local del Banco de Perfiles Genéticos de Desaparecidos será ejercida por los laboratorios de genética forense del Cuerpo Técnico de Investigación de la Fiscalía General de la Nación, de la Dirección de Investigación Criminal e Interpol de la Policía Nacional de Colombia, y del Instituto Nacional de Medicina Legal y Ciencias Forenses, o quienes hagan sus veces, los cuales apoyaran el desarrollo del objeto del Banco y las funciones asignadas al Administrador Nacional, acorde con las directrices emitidas por la Fiscalía General de la Nación.
 
 (Decreto 303 de 2015, art 9)
-
-ARTÍCULO
 
 ## art:2.2.2.1.10 — Comité Interinstitucional de Genética Forense
 
@@ -1287,8 +1099,6 @@ Con el fin de contar con un órgano técnico y científico que oriente, recomien
 PARÁGRAFO. El Comité Interinstitucional de Genética Forense sesionara, por lo menos, una vez cada trimestre, previa convocatoria realizada por el Administrador Nacional del Banco o a solicitud de cualquiera de sus integrantes.
 
 (Decreto 303 de 2015, art 10)
-
-ARTÍCULO
 
 ## art:2.2.2.1.11 — Funciones
 
@@ -1318,15 +1128,11 @@ PARÁGRAFO 2. La elaboración del Manual mencionado en el numeral 3 del presente
 
 (Decreto 303 de 2015, art 11)
 
-ARTÍCULO
-
 ## art:2.2.2.1.12 — Convenios
 
 La Fiscalía General de la Nación podrá celebrar los convenios nacionales o internacionales que sean convenientes para el desarrollo de la misión del Banco, acorde con las necesidades que el Comité Interinstitucional de Genética Forense manifieste.
 
 (Decreto 303 de 2015, art 12)
-
-ARTÍCULO
 
 ## art:2.2.2.1.13 — Criterios orientadores
 
@@ -1352,8 +1158,6 @@ La muestra dante tendrá acceso a los resultados de las pruebas genéticas deriv
 
 (Decreto 303 de 2015, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.1.14 — Eliminación de perfil genético y destrucción de las muestras biológicas
 
 Para la eliminación del perfil genético y la destrucción de las muestras biológicas de referencia de los familiares de las víctimas, se requerirá solamente de manifestación expresa, proferida en cualquier tiempo, por la muestra dante de la muestra.
@@ -1362,15 +1166,11 @@ Para la eliminación del perfil genético y la destrucción de las muestras biol
 
 (Decreto 303 de 2015, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.1.15 — Muestras previamente tomadas
 
 Las muestras biológicas de referencia aportadas por los familiares de las víctimas y que hayan sido tomadas con anterioridad al 20 de febrero de 2015, gozaran de las garantías en el presente Capítulo.
 
 (Decreto 303 de 2015, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.2.1.16 — Aporte directo de muestras biológicas de referencia
 
@@ -1378,15 +1178,11 @@ Los familiares de personas desaparecidas que deseen de manera voluntaria y de fo
 
 (Decreto 303 de 2015, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.2.1.17 — Apoyo de laboratorios acreditados
 
 La Fiscalía General de la Nación, en el ejercicio de las facultades de dirección y coordinación del Banco de Perfiles Genéticos de Desaparecidos, previo concepto favorable del Comité Interinstitucional de Genética Forense, podrá contratar laboratorios de genética acreditados por la norma ISO 17025, o aquella que la modifique o adicione, para tomar muestras de fluidos y restos humanos, obtener perfiles genéticos con fines de identificación, y enviar esta información al Banco por el medio más idóneo, de conformidad con los criterios y directrices establecidos por el Comité Interinstitucional de Genética Forense.
 
 (Decreto 303 de 2015, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.1.18 — Comisión de búsqueda de personas desaparecidas
 
@@ -1398,8 +1194,6 @@ Adicionalmente, la Comisión convocara por lo menos una vez al año, a la Fiscal
 
 (Decreto 303 de 2015, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.2.1.19 — Información del proceso
 
 Los familiares de la víctima recibirán oportunamente, por parte de la autoridad judicial competente, la información relativa al proceso de entrega del cuerpo o restos humanos de su familiar.
@@ -1407,8 +1201,6 @@ Los familiares de la víctima recibirán oportunamente, por parte de la autorida
 Esta entrega se realizará, previa concertación con los familiares, en condiciones de dignidad, bajo el respeto de sus creencias religiosas, tradiciones culturales y de acuerdo con lo señalado en el protocolo elaborado para tal efecto por la Comisión de Búsqueda de Personas Desaparecidas, acorde con lo consagrado en el parágrafo 3° del Art. 7° de la Ley 1408 de 2010.
 
 (Decreto 303 de 2015, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.2.1.20 — Proceso de entrega
 
@@ -1422,8 +1214,6 @@ La autoridad judicial competente, de ser necesario y al advertir un riesgo extra
 
 (Decreto 303 de 2015, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.2.1.21 — Participación en procesos de exhumación
 
 La autoridad judicial competente a cargo de la investigación comunicara por escrito, al cónyuge o compañero(a) permanente y familiares de la víctima en concordancia con lo establecido en el artículo 2° de la Ley 1408 de 2010, la realización de la diligencia de exhumación en la que presumiblemente se halle su familiar desaparecido, dejando constancia en la carpeta del caso.
@@ -1436,8 +1226,6 @@ PARÁGRAFO 2. La notificación de la autorización o denegación para participar
 
 (Decreto 303 de 2015, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.1.22 — Alcance
 
 La atención psicosocial dirigida a los familiares de las víctimas que resulten identificadas, se proporcionara durante todo el proceso de entrega del cuerpo o restos humanos de su familiar y se realizara acorde con los enfoques, principios y criterios establecidos en el Programa de Atención Psicosocial y Salud Integral a Víctimas del Ministerio de Salud y Protección Social.
@@ -1447,8 +1235,6 @@ Esta atención deberá coordinarse con la Fiscalía General de la Nación, el In
 PARÁGRAFO. Cuando la atención se dirija a los pueblos y comunidades indígenas, pueblos ROM, comunidades negras, afrocolombianas, raizales y palenqueras serán consultados previamente, de conformidad con las disposiciones constitucionales y demás normatividad aplicable.
 
 (Decreto 303 de 2015, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.1.23 — Comunicación
 
@@ -1460,15 +1246,11 @@ De este acto de comunicación se dejará constancia en la carpeta del caso y se 
 
 (Decreto 303 de 2015, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.2.1.24 — Monitoreo y seguimiento
 
 El Ministerio de Salud y Protección Social desarrollara herramientas de seguimiento y monitoreo a la atención psicosocial brindada a los familiares de las víctimas identificadas, de acuerdo con lo establecido en el Programa de Atención Psicosocial y Salud Integral a Víctimas.
 
 (Decreto 303 de 2015, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.2.1.25 — Medidas orientadoras
 
@@ -1484,8 +1266,6 @@ La prestación de la atención psicosocial, durante el proceso de entrega de cue
 
 (Decreto 303 de 2015, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.2.1.26 — Definición
 
 Se entiende por apoyo económico, el valor asignado al cónyuge o compañero(a) permanente y a los familiares de la víctima que resulte plenamente identificada, para solventar los gastos funerarios, de desplazamiento, hospedaje y alimentación durante todo el proceso de entrega del cuerpo o restos humanos de su familiar, a cargo de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas.
@@ -1493,8 +1273,6 @@ Se entiende por apoyo económico, el valor asignado al cónyuge o compañero(a) 
 PARÁGRAFO. Para los efectos del presente ARTÍCULO, se entiende por familiares de la víctima que resulte plenamente identificada, los señalados en el ARTÍCULO 2° de la Ley 1408 de 2010.
 
 (Decreto 303 de 2015, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.2.1.27 — Procedimiento inicial
 
@@ -1510,8 +1288,6 @@ PARÁGRAFO 3. Para los fines de este ARTÍCULO, las autoridades judiciales, las 
 
 (Decreto 303 de 2015, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.2.1.28 — Entrega de recursos
 
 Administrativa Especial para la Atención y Reparación Integral a las Víctimas comunicara a los familiares de la víctima plenamente identificada, la fecha y forma como podrán reclamar el apoyo económico a que hace referencia este capítulo.
@@ -1520,15 +1296,11 @@ Para este propósito, la Unidad Administrativa Especial para la Atención y Repa
 
 (Decreto 303 de 2015, artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.2.1.29 — Colaboración para generar mapas
 
 La Fiscalía General de la Nación, a través del Cuerpo Técnico de Investigación, con apoyo de la cartografía básica disponible del Instituto Geográfico Agustín Codazzi, generará la cartografía temática de la ubicación de los cuerpos o restos humanos de personas desaparecidas forzadamente.
 
 (Decreto 303 de 2015, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.2.1.30 — Procedimiento inicial
 
@@ -1539,8 +1311,6 @@ Esta inclusión se realizará como parte de las actividades del programa metodol
 PARÁGRAFO. La georreferenciación se llevará a cabo mediante el empleo de dispositivos de posicionamiento satelital personales o navegadores, y en los casos que sea posible, mediante un levantamiento topográfico realizado por personal técnico de la Fiscalía General de la Nación.
 
 (Decreto 303 de 2015, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.2.1.31 — Cartografía básica
 
@@ -1560,8 +1330,6 @@ PARÁGRAFO 4. Las autoridades departamentales y municipales, la Procuraduría Ge
 
 (Decreto 303 de 2015, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.2.1.32 — Finalidad
 
 Las autoridades de policía competentes en las arenas geográficas identificadas, previa solicitud de la Fiscalía General de la Nación, emprenderán acciones de coordinación que permitan la preservación y protección de las áreas geográficas identificadas.
@@ -1572,8 +1340,6 @@ PARÁGRAFO. En concordancia con lo consagrado en la Constitución Política, se 
 
 (Decreto 303 de 2015, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.2.1.33 — Coordinación de la protección de las áreas geográficas identificadas
 
 La autoridad de policía competente en el lugar objeto de preservación y protección diseñará y definirá, en coordinación con la Fiscalía General de la Nación, las autoridades civiles, indígenas, afrocolombianas, fuerza pública y demás autoridades competentes en el área geográfica identificada, los mecanismos de coordinación, estrategias, temporalidad de las medidas y determinación de las autoridades responsables de ejecutar las acciones, en consideración de las particularidades de cada caso.
@@ -1581,8 +1347,6 @@ La autoridad de policía competente en el lugar objeto de preservación y protec
 PARÁGRAFO. Las medidas de protección implementadas respetaran las disposiciones constitucionales y legales de la protección diferencial a los pueblos y comunidades indígenas, pueblos ROM, comunidades negras, afrocolombianas, raizales y palenqueras.
 
 (Decreto 303 de 2015, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.2.1.34 — Medios de suministro de información
 
@@ -1596,8 +1360,6 @@ PARÁGRAFO 2. Las anteriores herramientas se establecen sin perjuicio de la util
 
 (Decreto 303 de 2015, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.2.1.35 — Remisión de la información
 
 Las entidades responsables de la línea telefónica gratuita y del aplicativo web se encargarán de remitir la información decepcionada sobre la posible ubicación de cuerpos o restos humanos de personas desaparecidas a la Sección de Análisis Criminal del Cuerpo Técnico de Investigación de la Fiscalía General de la Nación, o a quien haga sus veces, por el medio más idóneo, oportuno y confidencial.
@@ -1610,8 +1372,6 @@ PARÁGRAFO 2. El Eje Temático de Desaparición y Desplazamiento Forzados de la 
 
 (Decreto 303 de 2015, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.2.1.36 — Definiciones
 
 Para los efectos de la aplicación del presente capítulo se adoptarán las siguientes definiciones:
@@ -1623,8 +1383,6 @@ Para los efectos de la aplicación del presente capítulo se adoptarán las sigu
 3. Tumba o Bóveda Múltiple. Lugar debidamente definido con capacidad para inhumar hasta tres (3) cadáveres.
 
 (Decreto 303 de 2015, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.2.1.37 — Medidas generales para la preservación de cadáveres
 
@@ -1648,15 +1406,11 @@ PARÁGRAFO. Cada ente territorial, por intermedio de las Secretarias de Gobierno
 
 (Decreto 303 de 2015, art. 37)
 
-ARTÍCULO
-
 ## art:2.2.2.1.38 — Obligación de realización de examen médico-legal
 
 Se prohíbe la inhumación de cadáveres no identificados sin la previa realización de la respectiva inspección técnica, necropsia médico-legal y orden de autoridad judicial competente, de acuerdo con lo establecido en la normatividad penal vigente.
 
 (Decreto 303 de 2015, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.2.1.39 — Examen médico-legal
 
@@ -1672,8 +1426,6 @@ PARÁGRAFO 4. Las instituciones de educación superior, en el marco de su autono
 
 (Decreto 303 de 2015, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.2.1.40 — Conservación de los elementos asociados al cadáver no identificado
 
 Tanto el funcionario que realice el levantamiento o inspección del cadáver, como el funcionario que realice el examen médico-legal, deberán llevar una custodia rigurosa de todos los elementos asociados al cadáver no identificado.
@@ -1684,8 +1436,6 @@ Adicionalmente, y de manera obligatoria, el funcionario que realice el examen m�
 
 (Decreto 303 de 2015, art. 40)
 
-ARTÍCULO
-
 ## art:2.2.2.1.41 — Lugares de inhumación
 
 La alcaldía del municipio o distrito donde es hallado el cadáver dispondrá de un lugar para la inhumación, conservación y custodia de los cadáveres no identificados o identificados no reclamados.
@@ -1693,8 +1443,6 @@ La alcaldía del municipio o distrito donde es hallado el cadáver dispondrá de
 Para este propósito, la respectiva alcaldía podrá celebrar acuerdos o convenios con las administraciones de cementerios de naturaleza privada, conforme a las normas vigentes de contratación pública.
 
 (Decreto 303 de 2015, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.2.1.42 — Centros de almacenamiento
 
@@ -1705,8 +1453,6 @@ Para este propósito, la respectiva alcaldía podrá adelantar las acciones pert
 La construcción, mantenimiento y administración de estos centros se realizará con sujeción a la normatividad vigente y las disposiciones emitidas por el Ministerio de Salud y Protección Social, en el marco de su competencia.
 
 (Decreto 303 de 2015, art. 42)
-
-ARTÍCULO
 
 ## art:2.2.2.1.43 — Obligaciones de los administradores de los cementerios
 
@@ -1728,8 +1474,6 @@ Copia de este registro se remitirá al Registro Nacional de Desaparecidos.
 
 (Decreto 303 de 2015, art. 43)
 
-ARTÍCULO
-
 ## art:2.2.2.1.44 — Inhuma nación de cadáveres en tumbas o bóvedas múltiples
 
 La inhumación de cadáveres en tumbas o bóvedas múltiples solo procede en situaciones asociadas a desastres, que impliquen que la población se vea afectada por el número de cuerpos en descomposición, declaratoria que será realizada por la autoridad competente, acorde con la normatividad vigente.
@@ -1737,8 +1481,6 @@ La inhumación de cadáveres en tumbas o bóvedas múltiples solo procede en sit
 PARÁGRAFO. Respecto de las tumbas o bóvedas múltiples, los administradores de los cementerios garantizaran que los cadáveres se ubiquen de manera individualizada, de tal forma que esta individualización perdure a pesar de los cambios previsibles producto del proceso de descomposición, y que sean embalados y colocados en un orden reconocible, preferiblemente en hilera.
 
 (Decreto 303 de 2015, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.2.1.45 — Marcación de tumbas o bóvedas
 
@@ -1752,8 +1494,6 @@ PARÁGRAFO. Los administradores de los cementerios garantizarán el mantenimient
 
 (Decreto 303 de 2015, art. 45)
 
-ARTÍCULO
-
 ## art:2.2.2.1.46 — Obligación de comunicar
 
 Cuando el ingreso de los cadáveres, no identificados o identificados no reclamados, no haya sido por remisión de la Fiscalía General de la Nación o del Instituto Nacional de Medicina Legal y Ciencias Forenses, los administradores de los cementerios deberán informar inmediatamente de esta situación a las siguientes autoridades, a fin de que se adelante el proceso de inspección técnica al cadáver, el examen médico-legal-y demás procedimientos necesarios para recabar la información que permita su posterior identificación.
@@ -1765,8 +1505,6 @@ Cuando el ingreso de los cadáveres, no identificados o identificados no reclama
 3. Procuraduría General de la Nación o Defensoría del Pueblo o la respectiva personería.
 
 (Decreto 303 de 2015, art. 46)
-
-ARTÍCULO
 
 ## art:2.2.2.1.47 — Libro de registro
 
@@ -1798,23 +1536,17 @@ PARÁGRAFO. Los administradores de los cementerios propenderán por sistematizar
 
 (Decreto 303 de 2015, art. 47)
 
-ARTÍCULO
-
 ## art:2.2.2.1.48 — Garantía de permanencia
 
 La exhumación de los cadáveres no identificados o identificados no reclamados solamente procederá previa autorización emitida por la autoridad judicial competente.
 
 (Decreto 303 de 2015, art. 48)
 
-ARTÍCULO
-
 ## art:2.2.2.1.49 — Seguridad
 
 Cuando lo estimen conveniente, y a fin de garantizar la custodia de las tumbas y/o bóvedas, los administradores de los cementerios, las autoridades sanitarias, la Fiscalía General de la Nación, la Procuraduría General de la Nación, la Defensoría del Pueblo, la respectiva Personería y la Comisión de Búsqueda de Personas Desaparecidas, podrán solicitar a las autoridades competentes civiles, militares o de policía, la vigilancia de estos sitios de inhumación.
 
 (Decreto 303 de 2015, art. 49)
-
-ARTÍCULO
 
 ## art:2.2.2.1.50 — Seguimiento
 
@@ -1824,23 +1556,17 @@ Cada ente territorial, por intermedio de las Secretarias de Gobierno o, en su de
 
 (Decreto 303 de 2015, art. 50)
 
-ARTÍCULO
-
 ## art:2.2.2.1.51 — Registro Nacional de Desaparecidos
 
 A los efectos de actualización del Registro Nacional de Desaparecidos, el Instituto Nacional de Medicina Legal y Ciencias Forenses podrá solicitar a los administradores de los cementerios la remisión de la información relacionada con los cadáveres no identificados o identificados no reclamados que se encuentren inhumados o bajo custodia de sus cementerios.
 
 (Decreto 303 de 2015, art. 51)
 
-ARTÍCULO
-
 ## art:2.2.2.1.52 — Transición
 
 Se concede un término de dieciocho (18) meses, contados a partir del 20 de febrero de 2015, para que los cementerios cumplan con las disposiciones consagradas en los Arts. 2.2.2.1.41, 2.2.2.1.43, 2.2.2.1.45 y 2.2.2.1.47.
 
 (Decreto 303 de 2015, art. 52)
-
-ARTÍCULO
 
 ## art:2.2.2.1.53 — Declaración
 
@@ -1860,8 +1586,6 @@ PARÁGRAFO 3. Cuando el lugar donde se presume la existencia de cuerpos o restos
 
 (Decreto 303 de 2015, art. 53)
 
-ARTÍCULO
-
 ## art:2.2.2.1.54 — Monumento
 
 El Gobierno Nacional, por intermedio de la Unidad Administrativa Especial para la Atención y la Reparación Integral a las Víctimas, en coordinación con el Centro de Memoria Histórica, los familiares de las víctimas y la comunidad, definirán las características del monumento que se erigirá en honor a las víctimas de desaparición forzada en los lugares declarados como Santuarios de la Memoria, que tenga como propósito devolver la dignidad a las personas desaparecidas y promover acciones que cumplan con el deber de recordar.
@@ -1874,8 +1598,6 @@ PARÁGRAFO 2. Los monumentos a que hace referencia este artículo, se erigirán 
 
 (Decreto 303 de 2015, art. 54)
 
-ARTÍCULO
-
 ## art:2.2.2.1.55 — Preservación mantenimiento y protección
 
 La preservación, mantenimiento y protección de los lugares declarados Santuarios de la Memoria, así como de los monumentos que allí se erijan, será coordinada por la alcaldía del municipio o distrito del lugar donde se ubiquen, quien podrá solicitar, cuando lo considere conveniente, el apoyo de las autoridades de policía y militares.
@@ -1885,8 +1607,6 @@ No se podrá intervenir o alterar las condiciones de los Santuarios de la Memori
 PARÁGRAFO. Cuando los santuarios y monumentos se encuentren en territorios de pueblos y comunidades indígenas, pueblos ROM, comunidades negras, afrocolombianas, raizales y palenqueras y para los efectos de lo preceptuado en este ARTÍCULO, se tendrá en cuenta las consideraciones de las comunidades que se encuentran en estos territorios.
 
 (Decreto 303 de 2015, art. 55)
-
-ARTÍCULO
 
 ## art:2.2.2.1.56 — Placa conmemorativa
 
@@ -1902,8 +1622,6 @@ PARÁGRAFO 3. Cuando las placas se ubiquen en territorios de pueblos y comunidad
 
 (Decreto 303 de 2015, art. 56)
 
-ARTÍCULO
-
 ## art:2.2.2.1.57 — Comisión de Búsqueda de Personas Desaparecidas
 
 La Comisión de Búsqueda de Personas Desaparecidas velara por el cumplimiento de las obligaciones previstas en este Capítulo, para lo cual solicitara informes periódicos a las autoridades correspondientes, y llevara un registro público de los lugares declarados como Santuarios de la Memoria, de los monumentos edificados y de las placas conmemorativas ubicadas en homenaje a las víctimas de la desaparición forzada.
@@ -1911,8 +1629,6 @@ La Comisión de Búsqueda de Personas Desaparecidas velara por el cumplimiento d
 El Gobierno Nacional en su conjunto impulsará y promoverá la participación de las organizaciones de víctimas, organizaciones defensoras de los derechos humanos y de los organismos internacionales acreditados en Colombia, en la supervisión de los Santuarios de la Memoria, de los monumentos allí erigidos y de las placas conmemorativas ubicadas.
 
 (Decreto 303 de 2015, art. 57)
-
-ARTÍCULO
 
 ## art:2.2.2.1.58 — Conmemoración
 
@@ -1922,8 +1638,6 @@ Las Secretarias de Gobierno departamentales, municipales y distritales velaran p
 
 (Decreto 303 de 2015, art. 58)
 
-ARTÍCULO
-
 ## art:2.2.2.1.59 — Difusión
 
 La Comisión de Búsqueda de Personas Desaparecidas articulará lo pertinente para desarrollar un documental sobre el derecho a la memoria, a la verdad, a la vida y al respeto por los derechos humanos, como homenaje a las víctimas de desaparición forzada, con la participación de la Autoridad Nacional de Televisión (ANTV), el cual se divulgará en las fechas establecidas en este capítulo.
@@ -1931,8 +1645,6 @@ La Comisión de Búsqueda de Personas Desaparecidas articulará lo pertinente pa
 Para el diseño del contenido del material audiovisual, la Comisión de Búsqueda de Personas Desaparecidas tendrá en cuenta los aportes de las organizaciones de familiares, organizaciones defensoras de los derechos humanos y organismos internacionales acreditados en Colombia.
 
 (Decreto 303 de 2015, art. 59)
-
-ARTÍCULO
 
 ## art:2.2.2.1.60 — Medidas educativas
 
@@ -1950,15 +1662,11 @@ CAPÍTULO 2
 
 Víctimas de la Trata de Personas
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar las competencias, beneficios, procedimientos y tramites que deben adelantar las entidades responsables en la adopción de las medidas de protección y asistencia a las personas víctimas del delito de la trata de personas.
 
 (Decreto 1069 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2 — Definiciones
 
@@ -1998,8 +1706,6 @@ El alcance de la asistencia mediata implica la coordinación y articulación int
 
 (Decreto 1069 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.3 — Principios
 
 Son principios rectores en las competencias, beneficios, procedimientos, tramites y demás acciones que sean pertinentes en la ruta de atención y protección, los consagrados constitucionalmente y:
@@ -2031,8 +1737,6 @@ PARÁGRAFO 2. Cuando se trate de un niño, niña o adolescente lo hará la autor
 9. Corresponsabilidad. Todas las entidades estatales tanto del nivel nacional como territorial tienen la responsabilidad de asistir integralmente a las víctimas de la trata de personas conforme a sus competencias y responsabilidades.
 
 (Decreto 1069 de 2014, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.2.4 — Competencia
 
@@ -2094,15 +1798,11 @@ PARÁGRAFO. Sin perjuicio de las demás funciones establecidas en el artículo 1
 
 (Decreto 1069 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.2.5 — Iniciación programa de protección y asistencia inmediata
 
 Este programa inicia con la recepción de la información del caso, la cual puede provenir de cualquier fuente; información que debe constituir inicio del cual se infiera la existencia de fines de explotación a una persona, y deberá contener los datos necesarios para identificar a la víctima del delito de la trata de personas, para cuyo efecto se diligenciara el formato de reporte de casos que diseñe el Ministerio del Interior. La autoridad que reciba la información o la victima diligenciara el formato a que se refiere el inciso anterior y así mismo, le dará a conocer sus derechos y deberes, sin perjuicio de trasladar la información al Ministerio del Interior y a la autoridad que deba intervenir.
 
 (Decreto 1069 de 2014, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.2.6 — Alcances del programa de protección y asistencia inmediata
 
@@ -2112,15 +1812,11 @@ PARÁGRAFO. La asistencia inmediata se prestará sin requisito previo de denunci
 
 (Decreto 1069 de 2014, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.2.7 — Coordinación ante la noticia de una víctima de trata interna
 
 Cuando alguna entidad, en virtud de sus competencias, tenga conocimiento de una víctima de la trata interna, informará inmediatamente al Ministerio del Interior, quien deberá coordinar y articular con el respectivo comité departamental, distrital o municipal para dar inicio al programa de protección y asistencia inmediata, conforme a la ruta diseñada por el Comité Interinstitucional para la Lucha Contra la Trata de Personas. En aquellos municipios y distritos donde no se haya creado el respectivo comité, asumirá la coordinación el comité departamental de la respectiva jurisdicción y excepcionalmente el Comité Interinstitucional.
 
 (Decreto 1069 de 2014, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.2.8 — Responsable de la repatriación
 
@@ -2134,8 +1830,6 @@ En el caso de los niños, niñas y adolescentes se privilegiará su interés sup
 
 (Decreto 1069 de 2014, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.2.9 — Repatriación de la víctima extranjera al país de origen
 
 Cuando la víctima de la trata de personas sea extranjera y haya sido trasladada a Colombia, las autoridades competentes prestaran la protección y asistencia a que hubiere lugar y gestionaran inmediatamente, en coordinación con el consulado del respectivo país, el retorno a su lugar de origen.
@@ -2144,15 +1838,11 @@ En todo caso, se pondrá en conocimiento de la Unidad Administrativa Especial Mi
 
 (Decreto 1069 de 2014, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.2.10 — Recepción de la victima de trata externa
 
 Consiste en el conjunto de medidas tendientes a organizar y llevar a cabo el recibimiento de la víctima a su llegada del extranjero. El Ministerio del Interior articulara la presencia de la Policía Nacional, la Unidad Administrativa Especial Migración Colombia, la Fiscalía General de la Nación y demás autoridades competentes que considere necesario, según lo demande el caso particular. Estas medidas incluyen la orientación básica acerca de sus derechos y deberes, según el contenido del programa de asistencia y protección inmediata, en condiciones de confianza y seguridad para la víctima.
 
 (Decreto 1069 de 2014, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.2.11 — Expedición de la documentación para el retorno al lugar de origen
 
@@ -2161,8 +1851,6 @@ El Ministerio del Interior y las entidades territoriales, en el ámbito de sus c
 En caso de trata externa, este trámite lo gestionara el Ministerio de Relaciones Exteriores, en cuanto se requiera para su retorno al país.
 
 (Decreto 1069 de 2014, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.2.2.12 — Alojamiento digno
 
@@ -2176,15 +1864,11 @@ En aquellos municipios y distritos donde no se haya creado el respectivo comité
 
 (Decreto 1069 de 2014, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.2.2.13 — Servicio de transporte
 
 El Ministerio del Interior, con cargo al Fondo Nacional para la Lucha contra la Trata de Personas de que trata la Ley 985 de 2005 y los ARTÍCULO s 2.7.1.3.1 al 2.7.1.3.6 o la norma que los modifique, derogue o sustituya, o al rubro establecido para el efecto, destinara recursos para la prestación del servicio de transporte a las víctimas de la trata de personas, ya sea directamente o mediante contrato o convenio, a fin de brindar este servicio en los traslados que deban realizar para efectos del desarrollo del programa de asistencia inmediata y/o mediata.
 
 (Decreto 1069 de 2014, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.2.2.14 — Asistencia médica y psicológica inmediata
 
@@ -2198,8 +1882,6 @@ El costo de la atención inmediata deberá ser asumido por la Entidad Promotora 
 
 (Decreto 1069 de 2014, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.2.15 — Responsabilidad de la atención médica y psicológica en las medidas de asistencia inmediata
 
 La prestación de servicios de atención en salud física y mental a las víctimas de la trata de personas estará a cargo de la Empresa Promotora de Salud del Régimen Subsidiado, o quien haga sus veces, del Sistema General de Seguridad Social en Salud a la cual sea afiliada la víctima, de acuerdo a las competencias institucionales establecidas en la normatividad vigente.
@@ -2208,15 +1890,11 @@ En caso de que la víctima de la trata de personas decida trasladarse a otro lug
 
 (Decreto 1069 de 2014, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.2.16 — Asesoría jurídica
 
 La Defensoría del Pueblo, de acuerdo a sus funciones, brindara a las víctimas, de manera gratuita, inmediata y especializada, información, asesoría y orientación jurídica respecto de sus derechos y procedimientos legales a seguir.
 
 (Decreto 1069 de 2014, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.2.17 — Iniciación de programas de protección y asistencia mediata
 
@@ -2224,15 +1902,11 @@ Para la iniciación del programa de asistencia mediata se requiere, además de h
 
 (Decreto 1069 de 2014, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.2.2.18 — Programa de asistencia mediata
 
 El Ministerio del Interior y los comités departamentales, distritales y/o municipales, a través de los alcaldes y gobernadores, en su condición de presidentes, en conjunto con quien ejerza la secretaria técnica de los mismos, tendrán a su cargo la articulación y coordinación de las entidades encargadas de los programas de asistencia.
 
 (Decreto 1069 de 2014, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.2.2.19 — Entidades competentes para la asistencia mediata
 
@@ -2244,8 +1918,6 @@ Estas competencias estarán enmarcadas en los principios de coordinación, concu
 
 (Decreto 1069 de 2014, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.2.2.20 — Asistencia médica y psicológica mediata
 
 La prestación de servicios en salud física y mental a las víctimas de la trata de personas interna y/o externa se hará en el marco del Sistema General de Seguridad Social en Salud - SGSSS, de acuerdo con las competencias institucionales establecidas en la normatividad vigente.
@@ -2253,8 +1925,6 @@ La prestación de servicios en salud física y mental a las víctimas de la trat
 PARÁGRAFO. El Ministerio de Salud y Protección Social actualizara los modelos y protocolos de atención integral en salud a víctimas de violencia de género y sexual, que incluirán las actuaciones de las instituciones de salud y de su personal para los casos de la trata de personas.
 
 (Decreto 1069 de 2014, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.2.2.21 — acompañamiento jurídico y representación judicial
 
@@ -2264,8 +1934,6 @@ La representación judicial de la víctima dentro de un proceso jurídico corres
 
 (Decreto 1069 de 2014, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.2.22 — Educación
 
 Se garantizará el acceso de las víctimas al sistema educativo oficial, desde preescolar hasta la media. Las secretarias de educación de las entidades territoriales certificadas organizaran la oferta educativa de manera que desde los establecimientos educativos se ofrezcan modelos educativos pertinentes, con el fin de posibilitar su acceso, adaptabilidad y continuidad en el sistema educativo.
@@ -2273,8 +1941,6 @@ Se garantizará el acceso de las víctimas al sistema educativo oficial, desde p
 PARÁGRAFO. Se priorizará a las víctimas del delito de trata de personas en las líneas de créditos y subsidios ofrecidos por el ICETEX, en la medida que la implementación de este Capítulo cuente con recursos adicionales que fortalezcan estos beneficios.
 
 (Decreto 1069 de 2014, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.2.23 — Formación para el Trabajo y Desarrollo Humano
 
@@ -2284,8 +1950,6 @@ En aquellas zonas del país donde no exista oferta de programas de capacitación
 
 (Decreto 1069 de 2014, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.2.2.24 — Responsabilidad en formación para el trabajo y desarrollo humano
 
 El Servicio Nacional de Aprendizaje - SENA - en coordinación con el Ministerio del Trabajo, serán los principales responsables de ofrecer cupos en los programas de formación para el trabajo y desarrollo humano a las víctimas de la trata de personas, tanto de sus cursos presenciales como de los cursos virtuales; certificar, si hay lugar a ello, las competencias y cualificaciones de la experiencia laboral de las víctimas de la trata de personas; y asistirlas mediante la orientación ocupacional apropiada a su condición. Las gobernaciones y/o alcaldías gestionaran el acceso de la víctima a programas de formación para el trabajo y desarrollo humano, en articulación con el Ministerio del Trabajo y los comités departamentales, distritales y/o municipales para la lucha contra la trata de personas, o quien haga sus veces.
@@ -2294,15 +1958,11 @@ PARÁGRAFO. La acción estatal contra la trata de personas propenderá, dentro d
 
 (Decreto 1069 de 2014, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.2.2.25 — Proyectos de generación de ingresos
 
 Las gobernaciones y alcaldías, con el apoyo técnico del Ministerio del Trabajo, las organizaciones de la sociedad civil y el sector privado, promoverán la integración de las víctimas a proyectos productivos o la vinculación a un empleo formal. El Ministerio del Trabajo facilitara el acceso de esta población al Servicio Público de Empleo, de tal manera que puedan recibir los servicios requeridos para una gestión de empleo que les permita aumentar sus probabilidades de inserción en el mercado de trabajo.
 
 (Decreto 1069 de 2014, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.2.2.26 — Asistencia y protección de los niños, niñas y adolescentes víctimas del delito de trata de personas
 
@@ -2310,15 +1970,11 @@ Para la asistencia y protección de los niños, niñas y adolescentes víctimas 
 
 (Decreto 1069 de 2014, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.2.2.27 — Principio de corresponsabilidad
 
 Se entenderá que en la asistencia y protección de los niños, niñas y adolescentes víctimas del delito de trata de personas se aplicara el principio de corresponsabilidad previsto en el ARTÍCULO 10 de la Ley 1098 de 2006, con el fin de lograr la articulación y trabajo armónico de las diferentes entidades del Estado para el cumplimiento de las medidas de asistencia y protección que en beneficio de los niños, niñas y adolescentes tomen las autoridades competentes, sin perjuicio de las competencias y funciones constitucionales y legales propias de la familia, la sociedad y las entidades del Estado.
 
 (Decreto 1069 de 2014, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.2.2.28 — Protección integral e interés superior
 
@@ -2326,15 +1982,11 @@ En los casos en que la víctima sea un niño, niña o adolescente, los procedimi
 
 (Decreto 1069 de 2014, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.2.2.29 — Restablecimiento de derechos
 
 En cuanto al restablecimiento de derechos del niño, niña o adolescente, se deberán disponer las medidas de protección respectivas, conforme al Capítulo II Titulo II Libro Primero del Código de la infancia y la Adolescencia, en atención a los lineamientos determinados por el Instituto Colombiano de Bienestar Familiar. Así mismo, las demás entidades competentes en el tema deberán implementar las acciones pertinentes para la atención de esta población, en coordinación con el ICBF.
 
 (Decreto 1069 de 2014, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.2.2.30 — .30
 
@@ -2346,15 +1998,11 @@ PARÁGRAFO. Cuando el niño, niña o adolescente es víctima de la trata en el t
 
 (Decreto 1069 de 2014, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.2.2.31 — Asistencia médica y psicológica en los servicios de urgencia en el caso de niños, niñas y adolescentes
 
 Cuando se trate de niños, niñas o adolescentes víctimas de la trata de personas, el Instituto Colombiano de Bienestar Familiar, en coordinación con las entidades competentes, deberán garantizar como mínimo asistencia médica y psicológica prestada por personas especializadas, alojamiento temporal en lugares adecuados, reincorporación al sistema educativo, asesoramiento jurídico durante todo el proceso legal a su representante legal, y reintegración del niño, niña o adolescente previa valoración del entorno familiar, con el propósito de evitar la revictimización del menor, dada su vulnerabilidad, sus derechos y necesidades especiales.
 
 (Decreto 1069 de 2014, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.2.2.32 — .32
 
@@ -2364,8 +2012,6 @@ PARÁGRAFO. Una vez el niño, niña o adolescente víctima de la trata de person
 
 (Decreto 1069 de 2014, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.2.2.33 — .33
 
 Asistencia y protección de los niños, niñas y adolescentes extranjeros víctimas de la trata de personas que se encuentran en Colombia. Cuando un niño, niña o adolescente extranjero víctima de la trata de personas se encuentre en el territorio nacional, la autoridad que inicialmente tenga conocimiento del hecho informara al ICBF, con el fin de que la autoridad administrativa competente establecida en el ARTÍCULO 96 de la Ley 1098 de 2006 adelante el Proceso Administrativo de Restablecimiento de Derechos, tome las medidas de restablecimiento de derechos a que haya lugar, garantice la asistencia y protección necesarias, y gestione inmediatamente su repatriación a través del Ministerio de Relaciones Exteriores, en coordinación con el consulado del país de origen.
@@ -2373,8 +2019,6 @@ Asistencia y protección de los niños, niñas y adolescentes extranjeros vícti
 PARÁGRAFO Cuando los niños, niñas y adolescentes extranjeros víctimas de la trata de personas no cuenten con documento de viaje, el ICBF y el Ministerio de Relaciones Exteriores coordinaran con el consulado del país de origen, para su inmediata expedición.
 
 (Decreto 1069 de 2014, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.2.2.34 — .34
 
@@ -2410,15 +2054,11 @@ Los gobernadores y alcaldes, en el ámbito de sus competencias constitucionales 
 
 (Decreto 1069 de 2014, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.2.2.36 — Reuniones de los comités departamentales, distritales y/o municipales
 
 Los comités se reunirán de manera ordinaria una vez cada dos meses y de manera extraordinaria cuando las circunstancias lo exijan; de dichas reuniones se dejará constancia en un acta firmada por todos los asistentes al comité.
 
 (Decreto 1069 de 2014, art. 36)
-
-ARTÍCULO
 
 ## art:2.2.2.2.37 — Duración de cada una de las etapas de asistencia
 
@@ -2432,8 +2072,6 @@ PARÁGRAFO. En materia de atención en salud física y mental, la víctima, de a
 
 (Decreto 1069 de 2014, art. 37)
 
-ARTÍCULO
-
 ## art:2.2.2.2.38 — Seguimiento y evaluación
 
 Implica la observación y evaluación continua de los programas de asistencia en sus distintos componentes, por parte de las entidades responsables, quienes deberán hacer seguimiento al servicio prestado, desde el inicio del mismo hasta su finalización, de acuerdo con la naturaleza de la asistencia y los términos establecidos en el artículo 2.2.2.2.37, salvo los términos previstos en disposiciones especiales, e informaran de ello a la secretaria técnica del respectivo comité departamental, distrital o municipal, y esta a su vez a la Secretaria Técnica del Comité Interinstitucional para la Lucha contra la Trata de Personas, información que estará sujeta a verificación.
@@ -2443,8 +2081,6 @@ Lo anterior, con el fin de que el Ministerio del Interior determine las fortalez
 Las víctimas podrán participar en la evaluación de los programas de asistencia brindados.
 
 (Decreto 1069 de 2014, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.2.2.39 — Causales de terminación
 
@@ -2462,15 +2098,11 @@ Cuando el comité departamental, distrital o municipal tenga conocimiento de alg
 
 (Decreto 1069 de 2014, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.2.2.40 — No aceptación de beneficios
 
 Cuando la víctima no se acogiere a ninguno de los programas que el Estado brinda, deberá firmar un acta en la cual, en lo posible, consten las razones de tal situación.
 
 (Decreto 1069 de 2014, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.2.2.41 — Vigilancia, seguimiento y control
 
@@ -2479,8 +2111,6 @@ La Procuraduría General de la Nación y la Contraloría General de la Republica
 PARÁGRAFO. Los funcionarios que de manera injustificada retarden, obstruyan, u omitan el tramite o la decisión que les corresponda para el cumplimiento del programa de protección y asistencia estarán sujetos a las sanciones disciplinarias, de conformidad con lo establecido en el Código Disciplinario Único y demás normas complementarias.
 
 (Decreto 1069 de 2014, art. 41)
-
-ARTÍCULO
 
 ## art:2.2.2.2.42 — Recursos presupuestales
 
@@ -2770,15 +2400,11 @@ CAPÍTULO 1
 
 Estatuto del Aficionado al Futbol
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Objeto
 
 Este capítulo del Aficionado al Futbol en Colombia tiene como finalidad promover la seguridad, comodidad y convivencia en el futbol profesional y aficionado en el país, así como la protección de los derechos de los aficionados y el cumplimiento de sus deberes.
 
 (Decreto 1007 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2 — Instancias competentes
 
@@ -2786,23 +2412,17 @@ La prevención de la violencia y la promoción de la seguridad, comodidad y conv
 
 (Decreto 1007 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.1.3 — De la seguridad, comodidad y convivencia
 
 Los clubes organizadores de los partidos y las instituciones administradoras, propietarias o encargadas de los estadios, en coordinación con las autoridades pertinentes, deben garantizar condiciones de seguridad y comodidad para los asistentes a los eventos deportivos, así como promover la convivencia entre los diferentes actores que participan del evento de futbol, de acuerdo con los lineamientos y directrices que se emitan por la Comisión Nacional de Seguridad, Comodidad y Convivencia en el Futbol y las autoridades competentes.
 
 (Decreto 1007 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.1.4 — De la aplicación
 
 La Comisión Nacional de Seguridad, Comodidad y Convivencia en el Futbol y las comisiones locales de cada ciudad deben desarrollar estrategias que permitan el efectivo cumplimiento de este capítulo, de acuerdo con las competencias establecidas en la Ley 1270 de 2009.
 
 (Decreto 1007 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.1.5 — Definiciones
 
@@ -2830,15 +2450,11 @@ Pilares del barrismo social: Los pilares para trabajar una política pública de
 
 (Decreto 1007 de 2012, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.1.6 — Seguridad y comodidad de los aficionados
 
 El aficionado tiene derecho a la seguridad y a la comodidad en los lugares en los que son realizados los eventos deportivos, antes, durante y después de la ejecución de los mismos.
 
 (Decreto 1007 de 2012, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.1.7 — Instalaciones adecuadas
 
@@ -2846,15 +2462,11 @@ El aficionado tiene derecho a disfrutar y contar con instalaciones deportivas ad
 
 (Decreto 1007 de 2012, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.1.8 — Ubicación de los aficionados
 
 El aficionado tiene derecho a ser ubicado en el escenario deportivo conforme lo indica la información registrada en la boleta de ingreso al evento de futbol. Los organizadores de los eventos de futbol profesional y aficionado y los clubes deportivos son los responsables de garantizar la citada ubicación.
 
 (Decreto 1007 de 2012, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.1.9 — Permanencia en el evento deportivo
 
@@ -2862,23 +2474,17 @@ El aficionado tiene derecho a permanecer en el estadio o en las instalaciones de
 
 (Decreto 1007 de 2012, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.3.1.10 — Elementos de animación
 
 Los aficionados tienen derecho a ingresar al escenario deportivo los elementos de animación que hayan sido previamente autorizados por la respectiva comisión local de seguridad, comodidad y convivencia, los cuales deben estar expresos en los protocolos de seguridad y convivencia establecidos en el Capítulo 3 del presente Titulo.
 
 (Decreto 1007 de 2012, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.1.11 — De las quejas y reclamos
 
 El aficionado tiene derecho a que las comisiones locales de seguridad, comodidad y convivencia en el futbol establezcan un mecanismo de recepción de quejas y reclamos, con ocasión del evento deportivo y a que estas sean tramitadas y resueltas oportuna y satisfactoriamente.
 
 (Decreto 1007 de 2012, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.1.12 — Servicios sanitarios
 
@@ -2887,8 +2493,6 @@ El aficionado tiene derecho a que en todas las tribunas existan servicios sanita
 En caso de que una tribuna no cuente con los servicios sanitarios mencionados, la comisión local de seguridad, comodidad y convivencia en el futbol no podrá habilitar esta tribuna hasta que los servicios mencionados se instalen debidamente.
 
 (Decreto 1007 de 2012, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.3.1.13 — Servicios de alimentación e hidratación
 
@@ -2899,8 +2503,6 @@ La Secretaria de Gobierno local o quien tenga la competencia, verificara que los
 En el evento que una tribuna no cuente con los servicios de alimentación e hidratación mencionados, la comisión local de seguridad, comodidad y convivencia en el futbol no podrá habilitar esta tribuna hasta que los servicios mencionados se instalen debidamente.
 
 (Decreto 1007 de 2012, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.3.1.14 — Protocolo de manejo de estadio y barras
 
@@ -2914,15 +2516,11 @@ PARÁGRAFO 3. Cuando no se cuente con el Protocolo de Seguridad y Convivencia y 
 
 (Decreto 1007 de 2012, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.3.1.15 — Atención de emergencias
 
 El aficionado tiene derecho a que dentro del estadio exista servicio médico y paramédico, así como la logística y los recursos estipulados por los planes tipo para atención y prevención de emergencias aprobado por la comisión local de seguridad, comodidad y convivencia en el futbol. Las autoridades locales y los organizadores del evento deben garantizar que no falte este servicio en ningún espectáculo deportivo.
 
 (Decreto 1007 de 2012, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.1.16 — Publicación de información
 
@@ -2930,15 +2528,11 @@ El aficionado tiene derecho a conocer el calendario y el sistema de juego del to
 
 (Decreto 1007 de 2012, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.3.1.17 — Conocimiento de aficionados excluidos
 
 El aficionado tiene derecho a conocer de parte de las autoridades correspondientes, la relación de los aficionados que no pueden asistir a los estadios, con antelación a la vigencia de la sanción, y con indicación de la causal. La comisión local de seguridad, comodidad y convivencia en el futbol deberá hacer pública esta información e igualmente, reportar a las demás ciudades para que las mismas hagan lo correspondiente.
 
 (Decreto 1007 de 2012, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.3.1.18 — De las actas de las comisiones locales
 
@@ -2946,15 +2540,11 @@ El aficionado tiene derecho a conocer las actas o apartes de las mismas, en las 
 
 (Decreto 1007 de 2012, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.3.1.19 — Seguridad y presencia policial y logística
 
 El aficionado tiene derecho a la seguridad dentro y fuera de los estadios y demás lugares de realización de los partidos. Los aficionados tienen derecho a que dicha seguridad se garantice con la presencia de la Policía Nacional y la logística dentro del escenario deportivo, a cargo del organizador, quienes deben disponer de personal capacitado y debidamente identificado.
 
 (Decreto 1007 de 2012, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.3.1.20 — Venta oportuna de boletería
 
@@ -2962,15 +2552,11 @@ El aficionado tiene derecho a que el club promueva la venta de entradas 72 horas
 
 (Decreto 1007 de 2012, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.3.1.21 — De los puestos de requisa
 
 Los aficionados tienen derecho a que las requisas que se realicen con ocasión al evento deportivo se hagan respetando los principios de la dignidad humana y procuren por el respeto de la tranquilidad y la comodidad del aficionado.
 
 (Decreto 1007 de 2012, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.3.1.22 — De la violencia en el futbol
 
@@ -2982,23 +2568,17 @@ PARÁGRAFO 1°. Los aficionados y las barras tienen derecho a participar en la c
 
 (Decreto 1007 de 2012, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.3.1.23 — Medidas de solución
 
 El aficionado tiene derecho a pedir el reporte de las medidas y actividades adelantadas por las autoridades competentes, especialmente a las respectivas comisiones locales, de la implementación de las medidas pedagógicas, los espacios de encuentro y reflexión en los que se estudien los problemas sociales que afectan a la juventud e inciden negativamente en el comportamiento de los aficionados y sus respectivas propuestas de solución a estos problemas.
 
 (Decreto 1007 de 2012, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.3.1.24 — Convivencia y participación
 
 El aficionado tiene derecho a que las autoridades locales, regionales y nacionales desarrollen actividades que promuevan la convivencia, participación y el ejercicio de la ciudadanía acorde con los pilares del barrismo social. Las comisiones locales de seguridad, comodidad y convivencia en el futbol, incluirán en su agenda, el diagnostico de las causas de la violencia en el futbol en su jurisdicción y participarán en conjunto con la Comisión Nacional de Seguridad, Comodidad y Convivencia en el futbol en el diseño de las estrategias para prevenir y atender este fenómeno.
 
 (Decreto 1007 de 2012, art. 24)
-
-ARTÍCULO
 
 ## art:2.2.3.1.25 — Observatorio de violencia
 
@@ -3010,23 +2590,17 @@ La Comisión Nacional de Seguridad, Comodidad y Convivencia en el Futbol, será 
 
 (Decreto 1007 de 2012, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.3.1.26 — Derecho de asociación
 
 El aficionado tiene derecho a asociarse en forma de barra organizada, cuyo delegado debidamente acreditado lo represente ante las diferentes instancias e instituciones, en las condiciones que lo prevé la Ley 1270 de 2009 y demás normas pertinentes.
 
 (Decreto 1007 de 2012, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.3.1.27 — Colaboración en prevención
 
 El aficionado tiene el deber de promover la convivencia en el futbol y de colaborar en la prevención de los actos ilícitos y violentos cometidos con ocasión del evento deportivo, especialmente los actos de violencia entre aficionados.
 
 (Decreto 1007 de 2012, art. 27)
-
-ARTÍCULO
 
 ## art:2.2.3.1.28 — Registro de aficionados
 
@@ -3036,15 +2610,11 @@ Cuando se trate de aficionados asociados como barra organizada, su representante
 
 (Decreto 1007 de 2012, art. 28)
 
-ARTÍCULO
-
 ## art:2.2.3.1.29 — De la promoción de la convivencia
 
 Las barras organizadas y populares, así como los aficionados, deben generar y apoyar la construcción de acuerdos entre pares, con el propósito de minimizar los niveles de intolerancia no solo durante el desarrollo de los partidos sino también durante los desplazamientos entre ciudades e igualmente, en los días en los cuales no haya partidos, condiciones estas que deben ser parte fundamental de los acuerdos.
 
 (Decreto 1007 de 2012, art. 29)
-
-ARTÍCULO
 
 ## art:2.2.3.1.30 — Condiciones de acceso y permanencia en el estadio
 
@@ -3052,23 +2622,17 @@ El aficionado debe respetar las condiciones de acceso y permanencia en el recint
 
 (Decreto 1007 de 2012, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.3.1.31 — De los elementos de animación y el comportamiento en el escenario deportivo
 
 El aficionado debe respetar la normatividad que limita el porte de objetos, bebidas o sustancias prohibidas o susceptibles de generar o posibilitar la práctica de actos violentos; de dar consentimiento para la requisa personal de prevención y seguridad; no portar o mostrar carteles, banderas, símbolos u otras señales con mensajes incitadores de violencia, inclusive de carácter racista o xenófobo; no entonar canticos discriminatorios, racistas o xenófobos; no arrojar objetos en el interior del recinto deportivo, salvo los que estén previamente aprobados por la comisión local de seguridad, comodidad y convivencia en el futbol; no portar o utilizar fuegos artificiales o cualquier otro elemento no autorizado por las citadas comisiones.
 
 (Decreto 1007 de 2012, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.3.1.32 — De la promoción de la convivencia
 
 El aficionado, en aras de promover la convivencia, se abstendrá de incitar o practicar actos de violencia en el estadio o con ocasión del partido de futbol, cualquiera que sea su naturaleza; y de invadir o incitar la invasión de cualquier forma del área restringida a los competidores.
 
 (Decreto 1007 de 2012, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.3.1.33 — Desplazamientos seguros
 
@@ -3078,15 +2642,11 @@ PARÁGRAFO. Las barras deberán informar a las comisiones locales de seguridad, 
 
 (Decreto 1007 de 2012, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.3.1.34 — Sanciones por incumplimiento
 
 El incumplimiento de lo estipulado en el presente capítulo dará lugar a las sanciones previstas en las Leyes 1445 y 1453 de 2011, reglamentadas por el Decreto 079 de 2012 y demás normas pertinentes.
 
 (Decreto 1007 de 2012, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.3.1.36 — De la participación en las comisiones locales de seguridad, comodidad y convivencia en el futbol
 
@@ -3094,23 +2654,17 @@ La barra organizada de aficionados debidamente inscrita ante su club, tendrá de
 
 (Decreto 1007 de 2012, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.3.1.37 — De la política pública de barrismo social
 
 El aficionado tiene derecho a que el Gobierno Nacional gestione la formulación de una política pública de barrismo social en el país, en la cual los aficionados tengan el derecho y el deber de participar activamente.
 
 (Decreto 1007 de 2012, art. 37)
 
-ARTÍCULO
-
 ## art:2.2.3.1.38 — Plan Decenal
 
 La Comisión Nacional de Seguridad, Comodidad y Convivencia en el Futbol, con la participación de las comisiones locales, promoverá la realización de un Plan Decenal para la Seguridad, Comodidad y Convivencia en el Futbol. El aficionado y las barras tienen derecho a participar en la elaboración de dicho plan.
 
 (Decreto 1007 de 2012, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.3.1.39 — Modelo de organización
 
@@ -3122,23 +2676,17 @@ CAPÍTULO 2
 
 Comisiones Locales de Seguridad, Comodidad y Convivencia en el Futbol
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Comisiones locales de seguridad, comodidad y convivencia en el futbol
 
 Los Alcaldes de Distritos o Municipios, en donde se lleven a cabo competencias de futbol profesional, conformaran, de acuerdo con lo dispuesto por el ARTÍCULO 7 de la Ley 1270 de 2009, las Comisiones locales de Seguridad, Comodidad y Convivencia en el Futbol.
 
 (Decreto 1267 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2 — Sesiones
 
 Una vez conformadas las respectivas Comisiones Locales de Seguridad, Comodidad y Convivencia en el Futbol, las mismas deberán sesionar de manera ordinaria, una vez por semana.
 
 (Decreto 1267 de 2009, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.2.3 — Reporte de medidas adoptadas
 
@@ -3150,15 +2698,11 @@ PARÁGRAFO 2. En todo caso, las Comisiones Locales de Seguridad, Comodidad y Con
 
 (Decreto 1267 de 2009, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.2.4 — Informes
 
 Los informes de que trata el presente decreto deberán ser remitidos a la Secretaria Técnica de la Comisión Nacional de Seguridad, Comodidad y Convivencia en el Futbol, en cabeza de Coldeportes.
 
 (Decreto 1267 de 2009, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.2.5 — Grupo técnico de apoyo
 
@@ -3170,23 +2714,17 @@ CAPÍTULO 3
 
 Protocolo Nacional para la Seguridad, Comodidad y Convivencia en el Futbol
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Adopción Protocolo
 
 Adoptar el Protocolo Nacional para la Seguridad, Comodidad y Convivencia en el Futbol, que figura como documento anexo al presente Decreto.
 
 (Decreto 1717 de 2010, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2 — Implementación
 
 El Protocolo para la Seguridad, Comodidad y Convivencia en el Futbol, deberá ser implementado por las Comisiones Locales para la Seguridad, Comodidad y Convivencia en el futbol presididas por los respectivos alcaldes, quienes son jefes de la administración local, según lo dispuesto por el ARTÍCULO 314 de la Constitución Política.
 
 (Decreto 1717 de 2010, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.3.3 — Aplicación
 
@@ -3195,8 +2733,6 @@ El Protocolo para la Seguridad, Comodidad y Convivencia en el Futbol será imple
 PARÁGRAFO. La Comisión Nacional para la Seguridad, Comodidad y Convivencia en el Futbol, evaluara el cumplimiento de las presentes disposiciones. En caso de incumplimiento, la Comisión Nacional para la Seguridad, Comodidad y Convivencia en el Futbol, previo concepto emitido por la Comisión Técnica para la Seguridad, Comodidad y Convivencia en el Futbol, recomendara al respectivo alcalde, el cierre temporal o definitivo del estadio que no ofrezca las condiciones mínimas de seguridad requeridas para la realización del espectáculo deportivo.
 
 (Decreto 1717 de 2010, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4 — Informe
 
@@ -3212,8 +2748,6 @@ CAPÍTULO 4
 
 ESTRATEGIA NACIONAL PARA LA LUCHA CONTRA LA TRATA DE PERSONAS 2020-2024.
 
-ARTÍCULO
-
 ## art:2.2.3.4.1 — Objeto
 
 El presente Capítulo tiene por objeto adoptar la Estrategia Nacional para la Lucha Contra la Trata de Personas para el período 2020-2024, elaborada y recomendada por el Comité interinstitucional para la Lucha contra la Trata de Personas, al que se refiere el artículo 12 de la Ley 985 de 2005, con el objetivo de desarrollar la política de Estado que contrarreste este flagelo, con observancia, además, de los principios contenidos en este decreto, los de protección integral y complementariedad.
@@ -3222,13 +2756,9 @@ PARÁGRAFO 1. La Estrategia Nacional para la Lucha Contra la Trata de Personas 2
 
 PARÁGRAFO 2. Finalizado el año 2024, la Estrategia Nacional para la Lucha contra la Trata de Personas 2020-2024 se mantendrá vigente hasta que el Gobierno nacional adopte una nueva Estrategia Nacional para la Lucha Contra la Trata de Personas.
 
-ARTÍCULO
-
 ## art:2.2.3.4.2 — Ámbito de Aplicación
 
 El presente Capítulo se aplica a las entidades que integran el Comité Interinstitucional para la Lucha Contra la Trata de Personas y demás entidades públicas competentes en la materia, así como los actores que se vinculen para su implementación en el orden nacional y territorial.
-
-ARTÍCULO
 
 ## art:2.2.3.4.3 — Metas e Indicadores
 
@@ -3236,13 +2766,9 @@ Las metas y los indicadores con base en los que se medirá y establecerá el imp
 
 PARÁGRAFO. El Plan de Acción Anual deberá desarrollar las líneas estratégicas de acción tendientes a cumplir los objetivos propuestos por esta Estrategia Nacional para la Lucha contra la Trata de Personas, a través de ejercicios de articulación y coordinación entre los actores que intervienen en la implementación de esta Estrategia, de acuerdo con sus competencias.
 
-ARTÍCULO
-
 ## art:2.2.3.4.4 — Seguimiento
 
 Conforme al artículo 16 de la Ley 985 de 2005, corresponde al Comité Interinstitucional para la Lucha contra la Trata de Personas realizar seguimiento a la ejecución de esta Estrategia Nacional de acuerdo con lo dispuesto en el anexo técnico y al Plan de Acción Anual de esta instancia de coordinación Interinstitucional.
-
-ARTÍCULO
 
 ## art:2.2.3.4.5 — Anexo
 
@@ -3256,13 +2782,9 @@ CAPÍTULO 1
 
 De los criterios para prohibir y restringir el expendio y consumo de bebidas embriagantes
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — Ley seca
 
 Para efectos del presente capítulo se entenderá como Ley Seca la medida preventiva y temporal, que un alcalde decreta para prohibir y restringir el expendio y consumo de bebidas embriagantes, con el fin de mantener o restablecer el orden público.
-
-ARTÍCULO
 
 ## art:2.2.4.1.2 — Criterios para prohibir y restringir el expendio y consumo de bebidas embriagantes
 
@@ -3294,8 +2816,6 @@ CAPÍTULO 1
 
 CONFORMACION, FUNCIONAMIENTO Y LIQUIDACIÓN DE LOS ESQUEMAS ASOCIATIVOS TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.2.5.1.1 — Objeto y alcance
 
 El presente Titulo tiene por objeto establecer las reglas para la conformación, funcionamiento, dirección, administración y liquidación de los Esquemas Asociativos Territoriales - EAT a los que hacen referencia los artículos 9 y 10 de la Ley 1454 de 2011. Igualmente, fijar los requisitos, condiciones y procedimiento para su inscripción en el Registro de Esquemas Asociativos Territoriales y para la presentación de proyectos de inversión susceptibles de financiación a través de los recursos del Sistema General de Regalías (SGR) ante los Órganos Colegiados de Administración y Decisión Regional (OCAD) o ante los responsables designados para tal fin por la ley, de conformidad con lo dispuesto en el artículo 249 de la Ley 1955 de 2019, promoviendo economías de escala y alianzas estratégicas para la equidad, el equilibrio y la funcionalidad territorial.
@@ -3309,8 +2829,6 @@ Los EAT señalados en el artículo 10 de la Ley 1454 de 2011 que cuentan con un 
 PARÁGRAFO 2. Las asociaciones o personas jurídicas sin ánimo de lucro conformadas entre entidades públicas y/o con participación de particulares para el cumplimiento de las actividades a las que hacen referencia los artículos 95 y 96 de la Ley 489 de 1998, no se consideran como Esquemas Asociativos Territoriales, por lo cual no les serán aplicables las disposiciones del presente Titulo y continuaran rigiéndose por la normativa específica que les aplica.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2 — 1.2
 
@@ -3334,8 +2852,6 @@ PARÁGRAFO 2. Además de lo previsto en el presente artículo, se deberán cumpl
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3 — Contenido mínimo de la ordenanza departamental o del acuerdo municipal o distrital
 
 La ordenanza departamental o el acuerdo municipal o distrital al que hace referencia el numeral 1 del artículo 2.2.5.1.2. del presente Titulo deberá identificar, como mínimo, los siguientes aspectos:
@@ -3347,8 +2863,6 @@ La ordenanza departamental o el acuerdo municipal o distrital al que hace refere
 El mencionado impacto será certificado por las respectivas secretarias de. Hacienda e identificado en los estatutos del EAT.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.1.4 — Contenido mínimo del convenio interadministrativo
 
@@ -3371,8 +2885,6 @@ El convenio interadministrativo al que hace referencia el numeral 2 del artícul
 8. Obligaciones que las partes firmantes deben cumplir en el marco de la ejecución del convenio Interadministrativo.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5 — Contenido mínimo de los estatutos
 
@@ -3410,8 +2922,6 @@ Los estatutos a los que hace referencia el numeral 3 del artículo 2.2.5.1.2. de
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6 — Pertenencia a más de un esquema asociativo territorial
 
 En caso de que la entidad territorial decida hacer parte de más de un EAT, la secretaria de hacienda o la dependencia que haga sus veces, expedirá una certificación que tenga en cuenta el impacto de esta decisión, sin sobrepasar los límites establecidos en la Ley 617 de 2000 modificada por la Ley 1551 de 2012, los efectos presupuestales en el Marco Fiscal de Mediano Plazo a que se refiere la Ley 819 de 2003 y el porcentaje y duración de las rentas afectadas con los aportes o transferencias que se realice al nuevo EAT. En el mismo sentido, la secretaria de planeación o la que haga sus veces, determinara el análisis de la conveniencia técnica de pertenecer a otro EAT, en los términos del presente Titulo.
@@ -3421,8 +2931,6 @@ PARÁGRAFO 1. La certificación de la secretaria de hacienda o la que haga sus v
 PARÁGRAFO 2. Las entidades territoriales no podrán pertenecer a más de un EAT con el mismo propósito o función, para el cual fueron constituidos.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.1.7 — Procedimiento para la inclusión de una nueva entidad territorial a un Esquema Asociativo Territorial conformado
 
@@ -3443,8 +2951,6 @@ PARÁGRAFO 1. El representante legal del EAT informará sobre la nueva conformac
 PARÁGRAFO 2. Además de lo previsto en el presente artículo, se deberán cumplir los requisitos adicionales y especiales establecidos para cada Esquema Asociativo Territorial por la normativa vigente, que sean aplicables o necesarios según sea el caso, incluyendo los dispuestos en la Ley 1454 de 2011 y sus decretos reglamentarios.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.1.8 — Procedimiento para el retiro de una entidad territorial del EAT
 
@@ -3468,8 +2974,6 @@ PARÁGRAFO 4. La protocolización del otrosí al convenio de que trata el numera
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.9 — Causales de disolución y consecuente liquidación de los Esquemas Asociativos Territoriales
 
 En concordancia con el parágrafo 1 del artículo 1 del Decreto Ley 254 de 2000 y asimilando al nivel territorial las disposiciones que lo complementan del artículo 52 de la Ley 489 de 1998, son causales de disolución y consecuente liquidación de los EAT las siguientes:
@@ -3486,8 +2990,6 @@ En concordancia con el parágrafo 1 del artículo 1 del Decreto Ley 254 de 2000 
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.1.10 — Liquidación de los esquemas asociativos territoriales
 
 Cuando se presenten las causales de disolución y consecuente liquidación previstas en el artículo anterior, y así lo decidan las entidades territoriales que lo conforman o lo recomienden los órganos de control, se procederá con la disolución y liquidación del EAT. La disolución y liquidación será decretada por el órgano colegiado de dirección del EAT.
@@ -3501,8 +3003,6 @@ PARÁGRAFO. Las Entidades Territoriales que conforman el EAT garantizarán y tra
 CAPÍTULO 2
 
 REGISTRO DE ESQUEMAS ASOCIATIVOS TERRITORIALES
-
-ARTÍCULO
 
 ## art:2.2.5.2.1 — Registro de Esquemas Asociativos Territoriales
 
@@ -3564,8 +3064,6 @@ PARÁGRAFO 6. La información contenida en el REAT podrá ser consultada por las
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2 — Documentación para el registro y verificación de los EAT
 
 Una vez surtido el trámite de conformación al que hace referencia el artículo 2.2.5.1.2. del presente Decreto, el representante legal del EAT deberá inscribirlo en el Registro de Esquemas Asociativos Territoriales - REAT, que en virtud de lo dispuesto en el presente Titulo, será creado y puesto en funcionamiento por el Ministerio del Interior.
@@ -3608,8 +3106,6 @@ CAPÍTULO 3
 
 ORGANOS DE ADMINISTRACIÓN Y DIRECCION
 
-ARTÍCULO
-
 ## art:2.2.5.3.1 — Órganos de Administración y de Dirección
 
 De acuerdo con lo establecido en el parágrafo del artículo 11 de la Ley 1454 de 2011, los esquemas asociativos territoriales a los que hace referencia el presente Titulo, podrán conformar un Órgano de Dirección o un Órgano Técnico de Administración.
@@ -3617,8 +3113,6 @@ De acuerdo con lo establecido en el parágrafo del artículo 11 de la Ley 1454 d
 PARÁGRAFO. La presente disposición no aplica para los Esquemas Asociativos Territoriales que cuenten con un régimen jurídico especifico.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.3.2 — Órgano de Dirección
 
@@ -3656,8 +3150,6 @@ PARÁGRAFO. Los requisitos para ejercer como representante legal del EAT, el pro
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.3.3 — Órgano Técnico de Administración
 
 El Órgano Técnico de Administración podrá conformarse por el representante legal del EAT. Tendrá a su cargo, como mínimo, las siguientes funciones generales:
@@ -3685,8 +3177,6 @@ PARÁGRAFO. Las secretarias u oficinas de planeación, según corresponda, de la
 CAPÍTULO 4
 
 PATRIMONIO Y FUENTES DE FINANCIACIÓN DE LOS ESQUEMAS ASOCIATIVOS TERRITORIALES
-
-ARTÍCULO
 
 ## art:2.2.5.4.1 — Patrimonio
 
@@ -3718,8 +3208,6 @@ CAPÍTULO 5
 
 PLAN ESTRATEGICO DE MEDIANO PLAZO
 
-ARTÍCULO
-
 ## art:2.2.5.5.1 — Versión preliminar del Plan Estratégico de Mediano Plazo
 
 El Plan Estratégico de Mediano Plazo constituye el instrumento de planeación y ejecución de programas y proyectos de inversión formulados por los EAT, en aplicación de lo establecido en el artículo 249 de la Ley 1955 de 2019.
@@ -3739,8 +3227,6 @@ PARÁGRAFO 1. Para la formulación preliminar y definitiva del Plan Estratégico
 PARÁGRAFO 2. De acuerdo con la naturaleza de los Hechos interjurisdiccionales entre entidades territoriales preidentificados, el EAT podrá alimentar este ejercicio en coordinación con las Comisiones Regionales de Competitividad e Innovación y las Agendas Departamentales de Competitividad e Innovación, cuando así lo considere relevante.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.5.2 — Versión definitiva del Plan Estratégico de Mediano Plazo
 
@@ -3774,8 +3260,6 @@ PARÁGRAFO 5. La identificación de nuevos Hechos interjurisdiccionales entre en
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.5.3 — Hechos interjurisdiccionales entre entidades territoriales
 
 Los Hechos interjurisdiccionales son los asuntos de interés asociativo común para las entidades territoriales que conforman el EAT, que hacen parte integral del Plan Estratégico de Mediano Plazo y que, por su impacto territorial, deben ser gestionados según la escala subregional o regional, buscando un desarrollo integral, equitativo y sostenible del territorio que comprende la jurisdicción del EAT.
@@ -3798,8 +3282,6 @@ PARÁGRAFO 3. Los asuntos a los que hace referencia este artículo de naturaleza
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.5.4 — Tipologías de Hechos interjurisdiccionales entre entidades territoriales
 
 Son tipologías de los Hechos interjurisdiccionales entre entidades territoriales, los siguientes:
@@ -3811,8 +3293,6 @@ Son tipologías de los Hechos interjurisdiccionales entre entidades territoriale
 3. Hechos regionales: son los asuntos de interés común entre dos o más departamentos, en el marco de lo establecido en la Ley 1962 de 2019 y sus decretos reglamentarios.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.5.5 — Criterios para la identificación de los Hechos interjurisdiccionales entre entidades territoriales
 
@@ -3832,8 +3312,6 @@ PARÁGRAFO. La identificación de cualquier tipo de Hecho interjurisdiccional en
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.5.6 — Definición de proyectos de inversión susceptibles a ser financiados con recursos del Sistema General de Regalías
 
 De conformidad con el artículo 249 de la Ley 1955 de 2019, los EAT incluidos en el Registro de Esquemas Territoriales en los términos del presente Titulo, podrán presentar proyectos de inversión de impacto regional para su ejecución con recursos del Sistema General de Regalías a los Órganos Colegiados de Administración y Decisión Regional, y ser designados como sus ejecutores, conforme con la normativa contenida en la Ley 2056 de 2020 y sus decretos reglamentarios.
@@ -3848,23 +3326,17 @@ CAPÍTULO 6
 
 REGIMEN CONTRACTUAL
 
-ARTÍCULO
-
 ## art:2.2.5.6.1 — Régimen contractual
 
 De conformidad con lo establecido en el artículo 2 de la Ley 80 de 1993 y el artículo 10 de la Ley 1150 del 2007, la celebración de contratos por parte de los EAT se regirá por lo dispuesto en el Estatuto General de Contratación de la Administración Pública y en la normativa complementaria, y se somete a las acciones de seguimiento y control por parte de las autoridades competentes.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.6.2 — Asociaciones público-privadas
 
 En desarrollo de lo dispuesto en el artículo 8 de la Ley 1508 de 2012, las entidades territoriales que conforman los Esquemas Asociativos Territoriales o el Esquema Asociativo Territorial como persona jurídica, podrán adelantar los procedimientos de formulación, estructuración, aprobación y gestión contractual de asociaciones público-privadas previstos en la citada ley, para desarrollar las iniciativas y proyectos estratégicos identificados en el Plan Estratégico de Mediano Plazo, de manera que la correspondiente iniciativa se ejecute en la jurisdicción del respectivo Esquema Asociativo.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.6.3 — Prestación de servicios públicos
 
@@ -3875,8 +3347,6 @@ Para la prestación de servicios públicos sometidos a una regulación específi
 CAPÍTULO 7
 
 CONCURRENCIA DE RECURSOS PARA LA FINANCIACIÓN DE INICIATIVAS DE GASTO EN DIFERENTES JURISDICCIONES ENTRE ENTIDADES TERRITORIALES
-
-ARTÍCULO
 
 ## art:2.2.5.7.1 — Concurrencia de recursos para la financiación de iniciativas de gasto en diferentes jurisdicciones
 
@@ -3893,8 +3363,6 @@ Para la financiación de manera conjunta y concertada de iniciativas de gasto po
 5) Suscribir el correspondiente convenio o contrato interadministrativo.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.7.2 — Contenido del convenio para la financiación de iniciativas de gasto en diferentes jurisdicciones
 
@@ -3932,8 +3400,6 @@ CAPÍTULO 8
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.5.8.1 — Especialidad de los EAT
 
 El Departamento Nacional de Planeación y el Ministerio del Interior podrán desarrollar los lineamiento que permitan la diferenciación entre los Esquemas Asociativos Territoriales y demás instancias de asociación de entidades territoriales, incluidos los esquemas fronterizos y transfronterizos, conforme con lo establecido en la Ley 1454 de 2011 y en la normatividad complementaria.
@@ -3942,23 +3408,17 @@ PARÁGRAFO. En lo que respecta a la especialidad de los EAT fronterizos y transf
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.8.2 — Reporte en el FUT
 
 Los Esquemas Asociativos Territoriales deberán reportar en el Formulario Único Territorial (FUT) la información sobre ejecución presupuestal de ingresos y gastos, y demás información oficial básica, de naturaleza organizacional, financiera, económica, geográfica, social y ambiental que sea requerida por las entidades del orden nacional para efectos de seguimiento y evaluación.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.8.3 — Asistencia técnica
 
 La Dirección de Gobierno y Gestión Territorial del Ministerio del Interior y la Subdirección de Ordenamiento y Desarrollo Territorial, del Departamento Nacional de Planeación o las que hagan sus veces, prestaran apoyo técnico y jurídico a las entidades territoriales y a los Esquemas Asociativos Territoriales en cualquiera de los temas de la asociatividad territorial, incluida la determinación del Esquema Asociativo Territorial en los términos de la Ley 1454 de 2011 que se adecue a las necesidades de las iniciativas de dicha asociatividad así como para la elaboración de los documentos requeridos para la conformación de los EAT en los términos del presente Titulo.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.8.4 — Régimen de transición
 
@@ -3968,15 +3428,11 @@ PARÁGRAFO. Para efectos del registro en el REAT, los EAT reconocidos por la Ley
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.5.8.5 — Modificación del presente Titulo
 
 En virtud de las competencias señaladas en los Decretos Únicos Reglamentarios 1066 de 2015 y 1082 de 2015 que en materia de asociatividad comparten el Ministerio del Interior y el Departamento Nacional de Planeación, cualquier modificación al presente Titulo deberá ser suscrita por ambas entidades.
 
 (Adicionado por el Art. 1 del Decreto 1033 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.8.6 — Publicidad
 
@@ -4090,7 +3546,7 @@ CAPÍTULO 3
 
 OTRAS DISPOSICIONES
 
-## art:2.2.6.3.1 — Anexos
+## art:2.2.6.3.1a — nexos
 
 Los documentos a los que se refieren los numerales 1, 2, 3, 4 y 6 del artículo 8 de la Ley 1617 de 2013, modificado por el artículo 124 de la Ley 1955 de 2019, deberán adjuntarse al proyecto de ley mediante el cual se pretende la creación del Distrito, al momento de su radicación ante el Congreso de la República por parte del autor de la iniciativa.
 
@@ -4320,23 +3776,17 @@ CAPÍTULO 1
 
 Certificado Electoral
 
-ARTÍCULO
-
 ## art:2.3.1.1.1 — Definición de Certificado Electoral
 
 El Certificado Electoral es un instrumento público que contiene la declaración del presidente de la mesa de votación, del Registrador Distrital o Municipal del Estado Civil o del Cónsul del lugar donde se haya inscrito la cedula de ciudadanía, según sea el caso, en el sentido de expresar que el ciudadano que en el aparece, cumplido con el deber de votar en las elecciones correspondientes.
 
 (Decreto 2559 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.1.2 — Alcance
 
 El Certificado Electoral elaborado por la Registraduría Nacional del Estado Civil, que haya sido suscrito por el presidente de la respectiva mesa de votación, el Registrador Distrital o Municipal del Estado Civil o el Cónsul del lugar donde se encuentre inscrita la cedula de ciudadanía, según sea el caso, se podrá utilizar por una vez para cada beneficio consagrado en las Leyes 403 de 1997 y 815 de 2003.
 
 (Decreto 2559 de 1997, art. 2; Decreto 2559 de 1997, art. 25)
-
-ARTÍCULO
 
 ## art:2.3.1.1.3 — Certificado electoral sustitutivo
 
@@ -4346,15 +3796,11 @@ PARÁGRAFO. Solamente se aceptará la justificación de abstención electoral, c
 
 (Decreto 2559 de 1997, art. 3)
 
-ARTÍCULO
-
 ## art:2.3.1.1.4 — Efectividad de los beneficios
 
 Para el votante, los beneficios establecidos en la Ley 403 de 1997 solo podrán hacerse efectivos a partir de la entrega del Certificado Electoral o del Certificado Electoral Sustitutivo, por parte de la autoridad electoral correspondiente.
 
 (Decreto 2559 de 1997, art. 4)
-
-ARTÍCULO
 
 ## art:2.3.1.1.5 — De los certificados
 
@@ -4363,8 +3809,6 @@ La Registraduría Nacional del Estado Civil señalara, mediante resolución de c
 La Registraduría Nacional del Estado Civil, pondrá a disposición de los Registradores Distritales o Municipales, o de los Cónsules del país los formatos para la expedición del Certificado Electoral Sustitutivo, de conformidad con la cifra que para el efecto le informen los respectivos registradores o cónsules.
 
 (Decreto 2559 de 1997, art. 5; Decreto 1355 de 2000, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.1.6 — Procedimiento
 
@@ -4378,8 +3822,6 @@ CAPÍTULO 2
 
 Estudiantes de Educación Superior Jurados de Votación
 
-ARTÍCULO
-
 ## art:2.3.1.2.1 — Lista de estudiantes
 
 Los representantes legales de las Instituciones de Educación Superior, previa solicitud por parte de los Registradores Distritales, Municipales y Auxiliares, deberán enviar la lista de los estudiantes matriculados, mayores de dieciocho (18) años, para que presten el servicio como jurados de votación.
@@ -4387,8 +3829,6 @@ Los representantes legales de las Instituciones de Educación Superior, previa s
 La lista que remita la Institución de Educación Superior deberá contener el nombre completo, el número de cedula de ciudadanía y la dirección de residencia de cada estudiante.
 
 (Decreto 1794 de 2007, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2 — Capacitación
 
@@ -4401,8 +3841,6 @@ CAPÍTULO 3
 (Sustituido por el Art. 1, Decreto 231 de 2022)
 
 Número de Representantes a la Cámara por Circunscripciones Territoriales y Circunscripciones Especiales
-
-ARTÍCULO
 
 ## art:2.3.1.3.1 — Número de Representantes a la Cámara por Circunscripción Territorial
 
@@ -4542,8 +3980,6 @@ Dos
 
 PARÁGRAFO TRANSITORIO. Por la circunscripción territorial, para los períodos constitucionales 2018-2022 y 2022-2024, se establecieron hasta 5 curules adicionales para la Cámara de Representantes, asignadas al partido o movimiento político que surja del tránsito de las FARC-EP hoy Comunes, a la vida política legal con personería jurídica, de las listas únicas de candidatos propios o en coalición, de conformidad con lo previsto en el Artículo transitorio 3 de la Constitución Política, adicionado por el Artículo 1 del Acto Legislativo 3 de 2017.
 
-ARTÍCULO
-
 ## art:2.3.1.3.2 — Circunscripciones especiales
 
 Circunscripciones especiales. Por la circunscripción especial se elegirán tres (3) representantes, distribuidos así:
@@ -4556,19 +3992,13 @@ Comunidades indígenas
 
 1 (Uno)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3 — Curul adicional
 
 El candidato que le siga en votos a quien la autoridad electoral declare elegida en el cargo de vicepresidente de la República tendrá derecho personal a ocupar una curul en la Cámara de Representantes, durante el período de la¿ correspondiente corporación.
 
-ARTÍCULO
-
 ## art:2.3.1.3.4 — Circunscripción internacional
 
 Por la circunscripción internacional se elegirá un (1) Representante a la Cámara, para la cual solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
-
-ARTÍCULO
 
 ## art:2.3.1.3.5 — Circunscripciones transitorias especiales de paz
 
@@ -4638,8 +4068,6 @@ Circunscripción 16: Municipios del departamento de Antioquia: Carepa, Chigorod�
 
 Uno
 
-ARTÍCULO
-
 ## art:2.3.1.3.6 — Número total de curules para la Cámara de Representantes
 
 La Cámara de Representantes tendrá para los siguientes períodos constitucionales el siguiente número de curules: En el período constitucional 2022-2026 habrá entre 165 y hasta 187 curules para la Cámara de Representantes, de conformidad con lo previsto en los Artículos 112 de la Constitución Política - adicionado por el Artículo 1" del Acto Legislativo 02 de 2015, transitorio 3 de la Constitución Política, adicionado por el Artículo 1 del Acto Legislativo 3 de 2017 y el acto legislativo 02 de 2021.
@@ -4650,13 +4078,9 @@ De la circunscripción Internacional
 
 (Modificado Decreto 1620 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.4.1 — Conformación de la circunscripción internacional
 
 La Circunscripción Internacional estará conformada por los colombianos residentes en el exterior y que hagan parte del censo electoral, podrán elegir el número de curules que se determinen por la Constitución Política para la Cámara de Representantes. En tal circunscripción, solo se escrutarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior, previamente inscritas en el censo electoral correspondiente.
-
-ARTÍCULO
 
 ## art:2.3.1.4.2 — Representantes a la Cámara por la Circunscripción Internacional
 
@@ -4664,13 +4088,9 @@ Para ser elegido Representante a la Cámara a través de la Circunscripción Int
 
 PARÁGRAFO. Para efectos del presente artículo, entiéndase por residencia el lugar donde una persona habita o de manera regular esta de asiento, ejerce su profesión u oficio o posee alguno de sus negocios o empleo.
 
-ARTÍCULO
-
 ## art:2.3.1.4.3 — De las inhabilidades e incompatibilidades
 
 Los Representantes a la Cámara elegidos a través de esta circunscripción están sujetos al régimen general de inhabilidades e incompatibilidades de los congresistas.
-
-ARTÍCULO
 
 ## art:2.3.1.4.4 — De la residencia
 
@@ -4678,13 +4098,9 @@ Quienes sean elegidos para la Circunscripción Internacional a la Cámara de Rep
 
 Para los Representantes a la Cámara por la Circunscripción Internacional, que para el momento de la inscripción de candidaturas se encuentren ejerciendo su cargo, no le será aplicable el requisito de residencia mínima establecida en el presente decreto.
 
-ARTÍCULO
-
 ## art:2.3.1.4.5 — Candidatos
 
 Los candidatos de los colombianos residentes en el exterior que aspiren a ser elegidos por la Circunscripción Internacional a la Cámara de Representantes, requieren demostrar ante las autoridades electorales colombianas el cumplimento de los requisitos mínimos necesarios, lo cual se entiende cumplido bajo gravedad de juramento con la formalización del acto de inscripción ante el funcionario competente, según lo establecido por el artículo 2.3.1.4.6 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.3.1.4.6 — De la inscripción de candidatos
 
@@ -4692,13 +4108,9 @@ Para la inscripción como candidatos a la Cámara de Representantes por la Circu
 
 PARÁGRAFO. Los candidatos de los partidos, movimientos políticos, grupos significativos de ciudadanos y movimientos sociales con derecho de postulación, que no tengan personería jurídica reconocida, serán inscritos por un comité integrado por tres (3) ciudadanos, el cual deberá registrarse ante la Registradora Nacional del Estado Civil o ante la Embajada u Oficina Consular correspondiente al lugar de su residencia, por lo menos un (1) mes antes de la fecha de cierre de la respectiva inscripción y, en todo caso, antes del inicio de la recolección de firmas de apoyo a la candidatura o lista. Los nombres de los integrantes del Comité, así como la de los candidatos que postulen, deberán figurar en el formulario de recolección de firmas de apoyo.
 
-ARTÍCULO
-
 ## art:2.3.1.4.7 — Del plazo para inscripción de candidaturas
 
 Los plazos para la inscripción de candidatos por la Circunscripción Internacional para la Cámara de Representantes, serán los mismos previstos para las otras circunscripciones.
-
-ARTÍCULO
 
 ## art:2.3.1.4.8 — Apoyo estatal para seguimiento legislativo
 
@@ -4708,13 +4120,9 @@ PARÁGRAFO 1°. Para efectos del presente capítulo, entiéndase por residencia 
 
 PARÁGRAFO 2°. Solo uno de los miembros que conforman la Unidad de Trabajo Legislativo de cada Representante a la Cámara para la Circunscripción Internacional, podrá ser designado para prestar sus servicios de apoyo legislativo en el exterior.
 
-ARTÍCULO
-
 ## art:2.3.1.4.9 — Verificación
 
 El Congreso de la República deberá verificar el cumplimiento de la aplicación del presente capítulo en lo concerniente a los beneficios de los Representantes a la Cámara por la Circunscripción Internacional.
-
-ARTÍCULO
 
 ## art:2.3.1.4.10 — Prohibición
 
@@ -4726,27 +4134,19 @@ CAPÍTULO 5
 
 NÚMERO DE SENADORES POR CIRCUNSCRIPCIÓN NACIONAL
 
-ARTÍCULO
-
 ## art:2.3.1.5.1 — Curules de la circunscripción nacional ordinaria
 
 Por la circunscripción ordinaria nacional se establecen cien (100) curules para el Senado de la República.
 
 PARÁGRAFO TRANSITORIO. Por la circunscripción ordinaria nacional, para los períodos constitucionales 2018-2022 y 2022-2026, se establecen hasta 5 curules adicionales para el Senado de la República asignadas al partido o movimiento político que surja del tránsito de las FARC-EP, hoy partido Comunes, a la vida política legal con personería jurídica, de las listas únicas de candidatos propios o en coalición, de conformidad con lo previsto en el Artículo transitorio 2 de la Constitución Política, adicionado por el Artículo 1 del Acto Legislativo 3 de 2017.
 
-ARTÍCULO
-
 ## art:2.3.1.5.2 — Curules de la circunscripción nacional especial por las comunidades indígenas
 
 Por la circunscripción nacional especial por las comunidades indígenas se elegirán dos (2) Senadores de la República.
 
-ARTÍCULO
-
 ## art:2.3.1.5.3 — Curul adicional
 
 El candidato que le siga en votos a quien la autoridad electoral declare elegido en el cargo de presidente de la República tendrá derecho personal a ocupar una curul en el Senado de la República, durante el período de la correspondiente corporación.
-
-ARTÍCULO
 
 ## art:2.3.1.5.4 — Número total de curules para el Senado de la República
 
@@ -4761,8 +4161,6 @@ Norma Anterior
 (Capítulo sustituido por el Art. 1 del Decreto 1358 de 2019)
 
 NUMERO DE DIPUTADOS POR DEPARTAMENTO
-
-ARTÍCULO
 
 ## art:2.3.1.6.1 — Número de diputados a elegir para el periodo constitucional 2024 - 2027
 
@@ -4904,8 +4302,6 @@ CAPÍTULO 7
 
 Ventanilla Única Electoral Permanente
 
-ARTÍCULO
-
 ## art:2.3.1.7.1 — Ventanilla Única Electoral Permanente - VUEP
 
 Crease la Ventanilla Única Electoral Permanente para recibir, tramitar y suministrar información frente a las solicitudes de antecedentes e informaciones disciplinarias, judiciales y fiscales que los partidos y movimientos políticos con personería jurídica, y los grupos significativos de ciudadanos, presenten sobre sus posibles candidatos para que puedan avalarlos e inscribirlos para cargos y corporaciones de elección popular a las elecciones ordinarias y atípicas, para las consultas populares internas e interpartidistas de los partidos, movimientos políticos con personería jurídica y los grupos significativos de ciudadanos, para la toma de decisiones y la escogencia de sus candidatos, para la elección de las directivas de los partidos y para la presentación de ternas para alcalde o gobernador por suspensión o falta absoluta de los mandatarios territoriales elegidos popularmente, cuando a ello hubiera lugar. Los candidatos al Congreso de la República por los movimientos sociales tramitaran ante el Ministerio del Interior las solicitudes.
@@ -4922,23 +4318,17 @@ PARÁGRAFO 2. La información también podrá ser requerida ante otras autoridad
 
 (Decreto 0513 de 2015, Art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.7.2 — Responsabilidad
 
 La información que sea suministrada a través de la Ventanilla Única Electoral Permanente no exime a los partidos y movimientos políticos con personería jurídica, los movimientos sociales y los grupos significativos ciudadanos, de su responsabilidad de recabar información por otros medios o mecanismos legales.
 
 (Decreto 0513 de 2015, Art. 2)
 
-ARTÍCULO
-
 ## art:2.3.1.7.3 — Competencia
 
 La Ventanilla Única Electoral Permanente funcionara en la Dirección para la Democracia, la Participación Ciudadana y la Acción Comunal del Ministerio del Interior, para las elecciones ordinarias, atípicas y las consultas internas de los partidos y movimientos políticos para la escogencia de sus candidatos. Así mismo, para la elección de las directivas de los partidos y movimientos políticos, y la presentación de ternas para alcalde o gobernador por suspensión o falta absoluta de los mandatarios territoriales elegidos popularmente, cuando a ello hubiera lugar.
 
 (Decreto 0513 de 2015, Art. 3)
-
-ARTÍCULO
 
 ## art:2.3.1.7.4 — Tramite y termino
 
@@ -4954,13 +4344,9 @@ De los procesos de electorales en el exterior.
 
 (Decreto 1620 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.1.9.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar los procesos electorales colombianos que se desarrollen en el exterior, tales como elección de presidente y vicepresidente de la Republica, miembros del Congreso de la Republica, otros mecanismos de participación ciudadana y los demás que la Ley o la Constitución Política determinen.
-
-ARTÍCULO
 
 ## art:2.3.1.9.2 — Elector y requisitos para ejercer el derecho al voto en el exterior
 
@@ -4971,8 +4357,6 @@ Se considera elector en el exterior, al ciudadano colombiano mayor de dieciocho 
 2. Presentar la cedula de ciudadanía al momento de ejercer el derecho al voto.
 
 3. Estar en pleno uso de sus derechos políticos, conforme a la legislación nacional, al momento de ejercer el derecho al voto.
-
-ARTÍCULO
 
 ## art:2.3.1.9.3 — De la inscripción de los colombianos residentes en el censo electoral en el exterior
 
@@ -4990,13 +4374,9 @@ Para los colombianos residentes en el exterior a quienes no sea posible tomarles
 
 PARÁGRAFO. La presentación personal aquí ordenada se cumplirá ante el funcionario de la Embajada o Consulado correspondiente, quien expedirá el comprobante de la inscripción donde conste el número de la cedula inscrita y el número del puesto de votación.
 
-ARTÍCULO
-
 ## art:2.3.1.9.4 — Acceso a la información electrónica
 
 La Registraduría Nacional del Estado Civil y las Embajadas u Oficinas Consulares de Colombia, en el exterior, deberán contar con acceso a la información registrada electrónicamente.
-
-ARTÍCULO
 
 ## art:2.3.1.9.5 — Horario y período de inscripción en el exterior
 
@@ -5004,27 +4384,19 @@ Las inscripciones para ejercer el derecho al voto en el exterior permanecerán a
 
 PARÁGRAFO. Para los fines de los dispuesto en este artículo, se incluirán los días sábado, domingo y festivos del último mes previo al cierre de la respectiva inscripción.
 
-ARTÍCULO
-
 ## art:2.3.1.9.6 — Actualización del censo electoral
 
 Para la actualización y conformación del censo electoral de los ciudadanos colombianos inscritos en el exterior, cada Embajada, Oficina Consular y Consulado ad honorem enviara las inscripciones adelantadas manualmente a la Registraduría Nacional del Estado Civil, que las ingresara a la base de datos establecida para tal fin.
 
 PARÁGRAFO. Cada Embajada y Oficina Consular deberá enviar copia digitalizada de la totalidad de los formularios de inscripción en el censo electoral y las listas de inscripción, a la Registraduría Nacional del Estado Civil para su procesamiento, al día siguiente del cierre de inscripción. Igualmente, dentro del mismo plazo, enviara los formularios originales en un solo envió diplomático, con destino a la Registraduría Nacional del Estado Civil guardando el archivo de la imagen digitalizada.
 
-ARTÍCULO
-
 ## art:2.3.1.9.7 — Conjunto de elementos y documentos para la jornada electoral
 
 La Registraduría Nacional del Estado Civil, de acuerdo con la información registrada en la base de datos de inscripción de votantes, enviara la tarjeta electoral con el conjunto de elementos y documentos necesarios para la realización de la jornada electoral en el exterior, con una antelación mínima de ocho (8) días al inicio de la jornada electoral, a las Embajadas, Oficinas Consulares y Consulados ad honorem.
 
-ARTÍCULO
-
 ## art:2.3.1.9.8 — Divulgación y publicidad del calendario y el proceso electoral
 
 El calendario y proceso electoral serán establecidos por la Registraduría Nacional del Estado Civil. Una vez establecidos el calendario y el proceso electoral, la Registraduría Nacional del Estado Civil y el Ministerio de Relaciones Exteriores a través de sus páginas web (incluidas las de las Embajadas y Oficinas Consulares), o los medios que dispongan las Embajadas y Oficinas Consulares, divulgará tanto el calendario como el proceso electoral.
-
-ARTÍCULO
 
 ## art:2.3.1.9.9 — Comunicación de las elecciones al Estado receptor
 
@@ -5038,13 +4410,9 @@ La comunicación de las elecciones al Estado Receptor se hará de la siguiente m
 
 PARÁGRAFO. Sin perjuicio de lo indicado en el presente artículo, la jornada electoral deberá respetar los procedimientos y mecanismos establecidos por parte del Estado Receptor.
 
-ARTÍCULO
-
 ## art:2.3.1.9.10 — Tarjeta electoral
 
 La tarjeta electoral corresponderá al modelo diseñado por la Registraduría Nacional del Estado Civil.
-
-ARTÍCULO
 
 ## art:2.3.1.9.11 — Jurados de votación
 
@@ -5058,21 +4426,15 @@ PARÁGRAFO 2°. Los ciudadanos elegidos como jurados principales y suplentes no 
 
 PARÁGRAFO 3°. Los jurados de votación designados por el Embajador, Jefe de Oficina Consular o Consulado ad honorem, podrán ser designados para cada día de la jornada electoral.
 
-ARTÍCULO
-
 ## art:2.3.1.9.12 — Designación de testigos electorales
 
 Para garantizar la transparencia de las votaciones, los partidos o movimientos políticos con o sin personería jurídica, movimientos sociales y grupos significativos de ciudadanos que inscriban candidatos o promuevan el voto en blanco, que hayan inscrito candidatos, tendrán derecho a presentar ante los Embajadores y Jefes de Oficina Consular de Colombia en el exterior, listas de personas de reconocida honorabilidad para que actúen como testigos electorales, a razón de uno (1) por cada mesa de votación para cada día en que se cumplan las votaciones.
 
 PARÁGRAFO. La acreditación de los testigos electorales se surtirá conforme a lo establecido en las resoluciones que para el efecto expida el Consejo Nacional Electoral, de conformidad con lo dispuesto por el artículo 45 de la Ley Estatutaria 1475 de 2011.
 
-ARTÍCULO
-
 ## art:2.3.1.9.13 — Facultades para la habilitación de puestos de inscripción
 
 Facultar a los Embajadores, Jefes de Oficina Consular y Cónsules ad honorem de Colombia acreditados ante otros Estados, para habilitar puestos de inscripción de cedulas de ciudadanía de votantes en las sedes diplomáticas, oficinas consulares y oficinas donde habitualmente prestan sus servicios los consulados ad honorem.
-
-ARTÍCULO
 
 ## art:2.3.1.9.14 — Facultades para la habilitación de puestos de votación
 
@@ -5080,25 +4442,17 @@ Facultar a los Embajadores y Jefes de Oficina Consular de Colombia acreditados a
 
 PARÁGRAFO. Los Consulados ad honorem, en virtud de su función de colaboración, estarán facultados para habilitar puestos de votación el día domingo en las sedes donde habitualmente atienden al público.
 
-ARTÍCULO
-
 ## art:2.3.1.9.15 — Duración y horario de la jornada electoral
 
 La jornada electoral se desarrollará durante la semana anterior a la elección en el territorio nacional, de lunes a domingo, de 8:00 a.m. a 4:00 p.m. del uso horario del país donde se encuentre ubicado el puesto de votación en el exterior, únicamente en la mesa de votación establecida para tal fin
-
-ARTÍCULO
 
 ## art:2.3.1.9.16 — Presentación de jurados de votación
 
 Los ciudadanos colombianos designados como jurados de votación, se harán presentes en el lugar en donde este situada la mesa asignada, a las 7:30 AM de la mañana del respectivo país, del inicio de la respectiva jornada electoral, y procederán a su instalación al momento del inicio de la jornada electoral.
 
-ARTÍCULO
-
 ## art:2.3.1.9.17 — Verificación
 
 Los jurados de votación antes de comenzar las votaciones abrirán la urna y se mostrará al público, a fin de que pueda cerciorarse de que esta vacía y de que no contiene doble fondo ni artificios adecuados para el fraude.
-
-ARTÍCULO
 
 ## art:2.3.1.9.18 — De la votación
 
@@ -5112,25 +4466,17 @@ Para que los ciudadanos colombianos puedan ejercer el derecho al voto en el exte
 
 4 registrar que el ciudadano ha votados Este registro se efectuara de acuerdo con las instrucciones que imparta la Registraduría Nacional del Estado Civil al Ministerio de Relaciones Exteriores.
 
-ARTÍCULO
-
 ## art:2.3.1.9.19 — Proceso de escrutinio
 
 Los procedimientos de escrutinio se efectuarán conforme a las disposiciones legales y a los instructivos que para el efecto expida la Organización Electoral, en coordinación con el Ministerio de Relaciones Exteriores.
-
-ARTÍCULO
 
 ## art:2.3.1.9.20 — Envió de resultados parciales
 
 Las Embajadas, Oficinas Consulares y Cónsules ad honorem deberán enviar diariamente a la Organización Electoral, los resultados parciales del escrutinio de la mesa ubicada dentro de las sedes autorizadas, los cuales no podrán ser publicados sino una vez finalizada la jornada electoral en territorio colombiano.
 
-ARTÍCULO
-
 ## art:2.3.1.9.21 — Cierre de la jornada electoral
 
 Una vez cerrada la jornada de votación, finalizado el proceso de escrutinio de todas las mesas de votación y firmadas las actas, los jurados harán entrega de estas y demás documentos que sirvieron para las votaciones al Embajador, Jefe de Oficina Consular o su delegado que deberá ser parte de la planta de personal del Ministerio de Relaciones Exteriores, o Cónsul ad honorem correspondiente que inmediatamente los enviara en sobre debidamente cerrado y sellado, al Consejo Nacional Electoral, para que sean tenidos en cuenta en el escrutinio general.
-
-ARTÍCULO
 
 ## art:2.3.1.9.22 — Resultados
 
@@ -5138,13 +4484,9 @@ Los resultados del cómputo de votos que realicen los jurados de votación se ha
 
 Del acta se expedirán tres (3) ejemplares iguales, que se firmarán por los miembros del jurado de votación.
 
-ARTÍCULO
-
 ## art:2.3.1.9.23 — Entrega del material electoral
 
 Inmediatamente después de terminado el escrutinio en las mesas de votación, pero en todo caso, antes de las once de la noche (11 p.m.) del uso horario del país donde se encuentre ubicado el puesto de votación en el exterior, los jurados de votación, cada día de la jornada electoral, entregaran las actas y documentos que sirvieron para la votación al Embajador, Jefe de Oficina Consular o su delegado o Cónsul ad honorem, bajo recibo y con indicación del día y la hora de la entrega
-
-ARTÍCULO
 
 ## art:2.3.1.9.24 — Estímulos al votante en el exterior
 
@@ -5152,33 +4494,23 @@ Los colombianos que ejerzan el derecho al sufragio en el exterior tendrán derec
 
 PARÁGRAFO. Los ciudadanos que voten en el exterior, y posteriormente se radiquen en Colombia, accederán a los estímulos contemplados para los ciudadanos que voten en el territorio nacional, en las mismas condiciones en que se encuentran establecidos en la ley
 
-ARTÍCULO
-
 ## art:2.3.1.9.25 — Responsabilidad de los embajadores y cónsules en las elecciones
 
 Los Embajadores y Cónsules serán los responsables del cumplimiento de las instrucciones dadas por la Registraduría Nacional del Estado Civil en relación con el procedimiento electoral que se realice en el exterior.
 
 Toda infracción, omisión o extralimitación de la Constitución Política y las leyes que rigen el proceso electoral por parte de los Embajadores y Cónsules o de cualquier otro servidor público o particular con funciones públicas que participe en el procedimiento electoral que se realice en el exterior, dará lugar a las sanciones contenidas en las normas legales vigentes.
 
-ARTÍCULO
-
 ## art:2.3.1.9.26 — Situaciones no reguladas
 
 Todas las situaciones no reguladas en el presente capítulo se regirán en la forma prevista en el Código Electoral vigente o en aquellas normas que lo modifiquen, reglamenten, aclaren o sustituyan.
-
-ARTÍCULO
 
 ## art:2.3.1.9.27 — Organización y vigilancia de los procesos de inscripción de cedulas
 
 De conformidad con el inciso 20 del artículo 266 de la Constitución Política, en concordancia con el numeral 20 del artículo 26 del Código Electoral, el Registrador Nacional del Estado Civil organizara y vigilara la inscripción de cedulas de ciudadanía vigentes en el exterior, en las sedes de las Embajadas, Consulados y Consulados Honorarios.
 
-ARTÍCULO
-
 ## art:2.3.1.9.28 — Instrucciones en los procesos de inscripción de votantes y jornadas de votación
 
 Los Embajadores, Jefes de Oficina Consular, Cónsules Honorarios de Colombia acreditados ante otros Estados, funcionarios delegados de registro y jurados de votación se ceñirán a los procesos electorales a las instrucciones impartidas de forma conjunta por el Ministerio de Relaciones Exteriores, por conducto de la Dirección de Asuntos Migratorios, Consulares y Servicio al Ciudadano o quien haga sus veces, y la Registraduría Nacional del Estado Civil.
-
-ARTÍCULO
 
 ## art:2.3.1.9.29 — Publicidad del censo electoral
 
@@ -5494,8 +4826,6 @@ De conformidad con la delimitación del territorio establecida en el ARTÍCULO 1
 
 (Decreto 2350 de 2003, Art. 1)
 
-ARTÍCULO
-
 ## art:2.3.2.1.2 — Constitución de más de una junta de Acción Comunal en un mismo territorio
 
 Las entidades de inspección, control y vigilancia autorizaran la constitución de más de una Junta de Acción Comunal en un mismo territorio, siempre y cuando se den las siguientes condiciones:
@@ -5512,8 +4842,6 @@ PARÁGRAFO 2. La Junta de Acción Comunal ya constituida conservara la titularid
 
 (Decreto 2350 de 2003, Art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.1.3 — Numero mínimo para subsistir
 
 Ningún organismo de acción comunal de primer grado al tenor del literal a) del ARTÍCULO 8° de la Ley 743 de 2002, podrá subsistir con un número plural de afiliados o familias afiliadas inferior del cincuenta por ciento (50%) del requerido para su constitución.
@@ -5525,8 +4853,6 @@ PARÁGRAFO. En el evento en que la organización comunal no cuente con el númer
 La personería jurídica de la organización comunal que no cumpla con los requisitos señalados por la ley y el presente decreto durante un período de dos (2) meses, será cancelada por la entidad de inspección, control y vigilancia.
 
 (Decreto 2350 de 2003, Art. 3)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4 — Reconocimiento de Personería jurídica
 
@@ -5546,8 +4872,6 @@ PARÁGRAFO 2. Sin el reconocimiento de personería jurídica por parte de la ent
 
 (Decreto 2350 de 2003, Art.4)
 
-ARTÍCULO
-
 ## art:2.3.2.1.5 — Requisitos de afiliación
 
 Para afiliarse a una Junta de Acción Comunal se requiere:
@@ -5566,8 +4890,6 @@ PARÁGRAFO. Para efecto de la aplicación del numeral 2 se entenderá por reside
 
 (Decreto 2350 de 2003, Art. 5)
 
-ARTÍCULO
-
 ## art:2.3.2.1.6 — Afiliación a junta de vivienda comunitaria
 
 Para afiliarse a una Junta de Vivienda Comunitaria se requiere que ningún miembro del núcleo familiar sea propietario de vivienda.
@@ -5575,8 +4897,6 @@ Para afiliarse a una Junta de Vivienda Comunitaria se requiere que ningún miemb
 PARÁGRAFO. Al interior de la Junta de Vivienda Comunitaria cada familia designara un representante de entre sus miembros, con derecho a voz y voto.
 
 (Decreto 2350 de 2003, Art. 6)
-
-ARTÍCULO
 
 ## art:2.3.2.1.7 — Afiliación organismos de 2°, 3° y 4° grado
 
@@ -5589,8 +4909,6 @@ Para afiliarse a un organismo de segundo, tercer o cuarto grado se requiere:
 3. Que la solicitud de afiliación se haya aprobado en Asamblea General del organismo interesado.
 
 (Decreto 2350 de 2003, Art. 7)
-
-ARTÍCULO
 
 ## art:2.3.2.1.8 — Requisitos de los delegados
 
@@ -5605,8 +4923,6 @@ Son requisitos para ser delegado ante un organismo de grado superior.
 4. Los demás que establezcan (sic) los estatutos
 
 (Decreto 2350 de 2003, Art. 8)
-
-ARTÍCULO
 
 ## art:2.3.2.1.9 — Número de delegados
 
@@ -5630,6 +4946,16 @@ PARÁGRAFO 3. Para ser elegido dignatario de un organismo de segundo, tercer y c
 
 (Decreto 2350 de 2003, Art. 9)
 
+## art:2.3.2.1.1o — Actualización de estatutos
+
+Las organizaciones comunales adecuaran sus estatutos a lo dispuesto en la Ley 743 de 2002 y en el presente Capítulo.
+
+Corresponde a las entidades que ejercen inspección, control y vigilancia a los organismos comunales, asesorar y apoyar el proceso de actualización estatutaria.
+
+PARÁGRAFO. Las organizaciones comunales que se constituyan con posterioridad al 20 de agosto de 2003 deben observar lo dispuesto en la Ley 743 de 2002 y en la presente reglamentación.
+
+(Decreto 2350 de 2003, Art. 10)
+
 ## art:2.3.2.1.11 — Conflictos organizativos
 
 Se entiende por conflictos organizativos aquellos que se presentan la interior de un organismo comunal entre los dignatarios, entre estos y los afiliados o afiliadas y entre los mismos afiliados o afiliadas y que tienen como causa asuntos de carácter comunal.
@@ -5637,8 +4963,6 @@ Se entiende por conflictos organizativos aquellos que se presentan la interior d
 Las actuaciones de la Comisión de Convivencia y Conciliación de las organizaciones comunales en relación con los conflictos organizativos en el ámbito del correspondiente organismo, se desarrollarán de acuerdo con el procedimiento que se establece en los siguientes ARTÍCULO s, y con plena observancia de los principios de informalidad, celeridad y gratuidad.
 
 (Decreto 2350 de 2003, Art. 11)
-
-ARTÍCULO
 
 ## art:2.3.2.1.12 — Términos
 
@@ -5650,8 +4974,6 @@ En el evento de avocarse conocimiento del conflicto, la Comisión tendrá un té
 
 (Decreto 2350 de 2003, Art. 12)
 
-ARTÍCULO
-
 ## art:2.3.2.1.13 — Citación
 
 En el momento en que se avoque conocimiento del conflicto, la Comisión citara a las partes a audiencia indicando el objeto, hora y fecha de la misma.
@@ -5661,8 +4983,6 @@ En el evento de que una de las partes o ambas no asistan a la audiencia concilia
 En caso de justificarse la inasistencia a la audiencia conciliatoria, la Comisión de Convivencia y Conciliación podrá fijar una tercera y última fecha para la realización de la misma, siempre y cuando no se exceda el termino de cuarenta y cinco (45) días que tiene la Comisión para procurar el acuerdo conciliatorio.
 
 (Decreto 2350 de 2003, Art.13)
-
-ARTÍCULO
 
 ## art:2.3.2.1.14 — Desarrollo de la audiencia
 
@@ -5678,8 +4998,6 @@ Una vez transcurrido el termino de los cuarenta y cinco (45) días, sin que se h
 
 (Decreto 2350 de 2003, Art. 14)
 
-ARTÍCULO
-
 ## art:2.3.2.1.15 — Conflictos comunitarios
 
 Para efectos de reglamentar la competencia de la Comisión de Convivencia y Conciliación en el conocimiento de los conflictos comunitarios, estos se entenderán como aquellos que se presentan entre los miembros de la comunidad dentro del territorio en el cual el organismo comunal ejerce su acción, que sean susceptibles de transacción, conciliación, desistimiento o querella.
@@ -5687,8 +5005,6 @@ Para efectos de reglamentar la competencia de la Comisión de Convivencia y Conc
 PARÁGRAFO. Para conocer de estos conflictos, se requiere que los miembros de la Comisión de Convivencia y Conciliación se capaciten como conciliadores en equidad, de conformidad con lo establecido en las Leyes 23 de 1991, 446 de 1998, y demás que las hayan modificado, aclarado o adicionado.
 
 (Decreto 2350 de 2003, Art. 15)
-
-ARTÍCULO
 
 ## art:2.3.2.1.16 — Conciliadores en equidad
 
@@ -5706,15 +5022,11 @@ PARÁGRAFO. La autoridad judicial nominadora de los conciliadores en equidad pod
 
 (Decreto 2350 de 2003, Art. 16)
 
-ARTÍCULO
-
 ## art:2.3.2.1.17 — Procedimiento
 
 El procedimiento a seguir por parte de la Comisión de Convivencia y Conciliación de los organismos comunales en materia de conciliación en equidad frente a los conflictos comunitarios deberá regirse por principios de informalidad y celeridad que orienten a las partes para que logren un arreglo amigable.
 
 (Decreto 2350 de 2003, Art. 17)
-
-ARTÍCULO
 
 ## art:2.3.2.1.18 — Actas
 
@@ -5722,23 +5034,17 @@ De la actuación adelantada por la Comisión de Convivencia y Conciliación y po
 
 (Decreto 2350 de 2003, Art. 18)
 
-ARTÍCULO
-
 ## art:2.3.2.1.19 — Archivo
 
 Las Comisiones de Convivencia y Conciliación deberán llevar un archivo de las solicitudes y de las actas de las audiencias realizadas. Las partes podrán pedir copias de las mismas, las cuales se presumirán autenticas
 
 (Decreto 2350 de 2003, Art. 19)
 
-ARTÍCULO
-
 ## art:2.3.2.1.20 — Ejercicio ad honorem
 
 El ejercicio de las funciones de conciliador en equidad se realizará en forma gratuita, teniendo en cuenta que el nombramiento constituye especial reconocimiento al ciudadano de connotadas calidades.
 
 (Decreto 2350 de 2003, Art. 20)
-
-ARTÍCULO
 
 ## art:2.3.2.1.21 — Asuntos susceptibles de impugnación
 
@@ -5749,8 +5055,6 @@ De conformidad con el literal a) del ARTÍCULO 47 de la Ley 743 de 2002, podrán
 2. Las decisiones adoptadas por los órganos de dirección, administración y vigilancia de los organismos comunales
 
 (Decreto 2350 de 2003, Art. 21)
-
-ARTÍCULO
 
 ## art:2.3.2.1.22 — Instancias
 
@@ -5764,8 +5068,6 @@ PARÁGRAFO 3. Si la impugnación se presenta contra la elección de dignatarios 
 
 (Decreto 2350 de 2003, Art. 22)
 
-ARTÍCULO
-
 ## art:2.3.2.1.23 — Órganos de impugnación
 
 Los organismos de segundo, tercer y cuarto grado, determinaran en sus estatutos, el órgano y conformación del mismo, que adelantara los procesos de impugnación, sus causales, los requisitos de la demanda, los términos, el procedimiento y las sanciones correspondientes, en los términos del ARTÍCULO 48 de la Ley 743 de 2002.
@@ -5774,15 +5076,11 @@ PARÁGRAFO. En los estatutos de los organismos comunales a que hace referencia e
 
 (Decreto 2350 de 2003, Art. 23)
 
-ARTÍCULO
-
 ## art:2.3.2.1.24 — Impedimentos
 
 No podrás conocer del proceso de impugnación contra elección de dignatarios o contra las decisiones adoptadas por los órganos de dirección, administración y vigilancia de los organismos de acción comunal, quienes sean cónyuges o compañeros permanentes o tengan relación de parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil con el impugnante, el dignatario cuya elección se impugna o los dignatarios que expidieron la decisión atacada.
 
 (Decreto 2350 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.3.2.1.25 — Funciones de las entidades de inspección, control y vigilancia
 
@@ -5807,8 +5105,6 @@ Son funciones las siguientes:
 9. Vigilar la disolución y liquidación de las organizaciones de acción comunal.
 
 (Decreto 2350 de 2003, Art. 25)
-
-ARTÍCULO
 
 ## art:2.3.2.1.26 — Registro de los Organismos de Acción Comunal
 
@@ -5858,8 +5154,6 @@ PARÁGRAFO 2. En el registro sistematizado, así como en el reporte trimestral a
 
 (Decreto 2350 de 2003, Art. 26)
 
-ARTÍCULO
-
 ## art:2.3.2.1.27 — Registro y reporte de libros
 
 Los libros a que hace referencia el artículo 57 de la Ley 743 de 2002, deben ser registrados por las organizaciones comunales en las respectivas entidades de inspección, control y vigilancia.
@@ -5882,15 +5176,11 @@ PARÁGRAFO. Las organizaciones de acción comunal en materia contable deberán a
 
 (Sustituido por el Decreto 1158 de 2019, Art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.1.28 — Empresas o Proyectos Rentables
 
 Los organismos de acción comunal podrán conformar Comisiones Empresariales tendientes a la constitución de empresas o proyectos rentables en beneficio de la comunidad, cuya organización y administración serán materia de reglamentación en sus estatutos.
 
 (Decreto 2350 de 2003, Art. 28)
-
-ARTÍCULO
 
 ## art:2.3.2.1.29 — Apoyo a las Empresas o Proyectos Rentables
 
@@ -5900,15 +5190,11 @@ PARÁGRAFO. Las empresas y/o proyectos productivos rentables de iniciativa comun
 
 (Decreto 2350 de 2003, Art. 29; Decreto 4122 de 2011, Art. 1 y 4)
 
-ARTÍCULO
-
 ## art:2.3.2.1.30 — Proyectos comunales
 
 Sera responsabilidad de las entidades territoriales analizar la viabilidad de los proyectos rentables que los organismos comunales les presenten, teniendo en cuenta su impacto regional y la generación de empleo e ingresos a la comunidad. Los proyectos viables de mayor prioridad podrán obtener financiación con cargo a recursos del presupuesto de las entidades territoriales, en los términos que establezca cada departamento o municipio.
 
 (Decreto 2350 de 2003, Art. 30)
-
-ARTÍCULO
 
 ## art:2.3.2.1.31 — Programas de Vivienda por Autogestión
 
@@ -5917,8 +5203,6 @@ Las organizaciones de acción comunal interesadas en desarrollar proyectos de me
 Para el acceso a estos subsidios y programas, las organizaciones comunales deberán observar y cumplir las formalidades establecidas en las normas que regulan la política de vivienda de interés social urbana y rural, en especial las Leyes 3° de 1991 y 546 de 1999, sus decretos reglamentarios y demás normas que las modifiquen o adicionen.
 
 (Decreto 2350 de 2003, Art. 31)
-
-ARTÍCULO
 
 ## art:2.3.2.1.32 — Capacitación comunal
 
@@ -5929,8 +5213,6 @@ PARÁGRAFO 1. La organización comunal adoptará a través de su estructura comu
 PARÁGRAFO 2. Una vez implementada la estrategia de formación comunal, será requisito para ser dignatario de un organismo comunal acreditar dentro del año siguiente a su nombramiento una formación académica de 20 horas las cuales deben ser certificadas por el organismo de grado inmediatamente superior o, si el no existiere, por la entidad de inspección, control y vigilancia.
 
 (Decreto 2350 de 2003, Art. 32)
-
-ARTÍCULO
 
 ## art:2.3.2.1.33 — Cultura y pedagogía ciudadana
 
@@ -6766,9 +6048,7 @@ PARÁGRAFO 3. En caso de ser sancionado el organismo de acción comunal, la deci
 
 Cuando del resultado de una investigación se encontrare que existen conductas cuya sanción es de competencia de otra autoridad, deberán remitirse a ella las diligencias adelantadas para lo de su competencia.
 
-## art:2.3.2.2 — 1.3.8
-
-CADUCIDAD DE LA ACCIÓN.
+## art:2.3.2.2.1.3.8 — CADUCIDAD DE LA ACCIÓN
 
 Las conductas en las que pudieren incurrir los afiliados y/o dignatarios de los organismos de acción comunal, susceptibles de investigación de carácter disciplinario, caducarán en un término de tres (3) años, contados desde la ocurrencia del hecho u omisión. En el evento en que la conducta sea de carácter permanente o continuado, el término se empezará a contar desde la realización del último acto.
 
@@ -6779,8 +6059,6 @@ Las entidades que ejercen funciones de inspección, vigilancia y control a los o
 CAPÍTULO 2
 
 De la Vigilancia, Inspección y Control
-
-ARTÍCULO
 
 ## art:2.3.2.2.1 — Definiciones
 
@@ -6793,8 +6071,6 @@ Inspección: Es la facultad que tiene el Estado para verificar y/o examinar el c
 Control: Es la facultad que tiene el Estado para aplicar los correctivos necesarios, a fin de subsanar situaciones de orden jurídico, contable, financiero, administrativo, social y similar de las organizaciones comunales, como resultado del ejercicio de la inspección y/o vigilancia.
 
 (Decreto 890 de 2008, Art. 1)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2 — Finalidades de la vigilancia
 
@@ -6822,8 +6098,6 @@ La vigilancia tiene las siguientes finalidades:
 
 (Decreto 890 de 2008, Art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.2.3 — Finalidades de la inspección
 
 La inspección tiene las siguientes finalidades:
@@ -6839,8 +6113,6 @@ La inspección tiene las siguientes finalidades:
 5. Llevar un registro actualizado de los recursos económicos y de otros ordenes de las organizaciones comunales, que se encuentren en inventarios, cuentas corrientes, de ahorro etc.
 
 (Decreto 890 de 2008, Art. 3)
-
-ARTÍCULO
 
 ## art:2.3.2.2.4 — Finalidades del control
 
@@ -6860,8 +6132,6 @@ El control tiene las siguientes finalidades:
 
 (Decreto 890 de 2008, Art. 4)
 
-ARTÍCULO
-
 ## art:2.3.2.2.5 — Niveles
 
 Existen dos niveles de autoridades que ejercen vigilancia, inspección y control sobre los organismos comunales, de acuerdo al grado al que pertenezcan:
@@ -6872,15 +6142,11 @@ Segundo nivel: Lo ejercen las correspondientes dependencias de los departamentos
 
 (Decreto 890 de 2008, Art. 5)
 
-ARTÍCULO
-
 ## art:2.3.2.2.6 — Entes competentes para adelantar la investigación y aplicar la sanción
 
 En ejercicio de las facultades que otorga el artículo 50 y demás normas de la Ley 743 de 2002, la investigación administrativa consiguiente y la aplicación de la sanción que corresponda será competencia de la respectiva dependencia estatal de inspección, control y vigilancia, de conformidad con el procedimiento previsto en este Capítulo, en concordancia con el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 890 de 2008, Art. 6)
-
-ARTÍCULO
 
 ## art:2.3.2.2.7 — Facultades
 
@@ -6924,15 +6190,11 @@ b) Cuando se haya cumplido el procedimiento establecido en los estatutos para co
 
 (Decreto 890 de 2008, Art. 7)
 
-ARTÍCULO
-
 ## art:2.3.2.2.8 — Conductas
 
 Serán objeto de investigación y sanción la violación de las normas consagradas en la Constitución Política, la ley y los estatutos de las correspondientes organizaciones comunales.
 
 (Decreto 890 de 2008, Art. 8)
-
-ARTÍCULO
 
 ## art:2.3.2.2.9 — Clases de sanciones
 
@@ -6952,8 +6214,6 @@ De acuerdo con los hechos investigados y teniendo en cuenta las competencias y p
 
 (Decreto 890 de 2008, Art. 9)
 
-ARTÍCULO
-
 ## art:2.3.2.2.10 — Diligencias preliminares
 
 Cuando por cualquier medio el Ministerio del Interior o la entidad territorial que ejerce funciones de vigilancia, inspección y control sobre los organismos comunales, según corresponda, conozcan de la existencia de un presunto incumplimiento de las obligaciones impuestas por la ley y sus reglamentos a un organismo de acción comunal, podrán, de oficio o a petición de parte, solicitar la explicación pertinente o disponer visitas al organismo correspondiente.
@@ -6970,8 +6230,6 @@ Cuando se compruebe que el organismo de acción comunal correspondiente no cumpl
 
 (Decreto 890 de 2008, Art. 11)
 
-ARTÍCULO
-
 ## art:2.3.2.2.12 — Formulación de cargos y presentación de descargos
 
 Si de las diligencias practicadas se concluye que existe merito para adelantar la investigación, el Ministerio del Interior y de Justicia o la entidad territorial que ejerce funciones de vigilancia, inspección y control sobre los organismos comunales, según corresponda, ordenara mediante auto motivado, la apertura de investigación. En caso contrario, se ordenará el archivo del expediente.
@@ -6986,15 +6244,11 @@ PARÁGRAFO. Una vez surtida la notificación, el presunto infractor, directament
 
 (Decreto 890 de 2008, Art. 12)
 
-ARTÍCULO
-
 ## art:2.3.2.2.14 — Decisión
 
 Vencida la etapa probatoria, habiéndose dado oportunidad a los interesados para dar sus opiniones, y con base en las pruebas e informes disponibles, procederá dentro de los quince (15) días siguientes y mediante resolución debidamente motivada, a imponer la sanción correspondiente, si es del caso. Si se encuentra que no se ha incurrido en violación de las obligaciones legales, se dictara acto administrativo que así lo declare y se ordenara archivar el expediente contra el presunto infractor.
 
 (Decreto 890 de 2008, Art. 14)
-
-ARTÍCULO
 
 ## art:2.3.2.2.15 — Notificación de sanciones y recursos
 
@@ -7006,23 +6260,17 @@ PARÁGRAFO 2. En el texto de toda notificación se indicarán los recursos que l
 
 (Decreto 890 de 2008, Art. 15)
 
-ARTÍCULO
-
 ## art:2.3.2.2.16 — Traslado de las diligencias
 
 Cuando del resultado de una investigación se encontrare que existen conductas cuya sanción es de competencia de otra autoridad, deberán remitirse a ella las diligencias adelantadas para o de su competencia.
 
 (Decreto 890 de 2008, Art. 16)
 
-ARTÍCULO
-
 ## art:2.3.2.2.17 — Prescripción de la acción
 
 Las conductas en las que pudieren incurrir los afiliados y/o dignatarios de los organismos de acción comunal, susceptibles de investigación de carácter disciplinario, prescribirán en un término de tres (3) años, contados desde la ocurrencia del hecho u omisión. En el evento en que la conducta sea de carácter permanente o continuado, el termino se empezara a contar desde la realización del último acto.
 
 (Decreto 890 de 2008, Art. 17)
-
-ARTÍCULO
 
 ## art:2.3.2.2.18 — Requisitos para inscripción de dignatarios
 
@@ -7042,8 +6290,6 @@ PARÁGRAFO. En lo que se refiere a los organismos de acción comunal de segundo,
 
 (Decreto 890 de 2008, Art. 18)
 
-ARTÍCULO
-
 ## art:2.3.2.2.19 — Elección directa de dignatarios
 
 Mientras no sea regulada en los estatutos internos de cada organismo de acción comunal, la elección directa de dignatarios, esta se entenderá valida cuando en ella participen un número de afiliados igual o superior al treinta por ciento (30%) de los mismos.
@@ -7056,13 +6302,9 @@ Mientras no sea regulada en los estatutos internos de cada organismo de acción 
 
 Certificado de residencia en las áreas de influencia de los proyectos de exploración y explotación petrolera y minera
 
-ARTÍCULO
-
 ## art:2.3.2.3.1 — Competencia
 
 Los alcaldes municipales y distritales, en desarrollo de lo previsto en el numeral 6° del literal f) del artículo 91 de la Ley 136 de 1994, modificado por el artículo 29 de la Ley 1551 de 2012, son las únicas autoridades que tienen la competencia para expedir los certificados de residencia, en las áreas de influencia de los proyectos de exploración y explotación petrolera y minera, con base en los criterios fijados en el presente capítulo.
-
-ARTÍCULO
 
 ## art:2.3.2.3.2 — Criterios para acreditar la residencia
 
@@ -7078,23 +6320,17 @@ PARÁGRAFO 1. Para que se expida el certificado bastara con que la persona apare
 
 PARÁGRAFO 2. Los alcaldes municipales y distritales no podrán tener en cuenta para expedir el certificado de que trata el presente capítulo, las bases de datos desactualizadas o registros de los libros de afiliados de las juntas de acción comunal que no actualicen los reportes dentro de las fechas establecidas.
 
-ARTÍCULO
-
 ## art:2.3.2.3.3 — Protección de datos
 
 Los alcaldes municipales y distritales deberán contar con el control y los protocolos necesarios, que garanticen la seguridad y confidencialidad del tratamiento de datos personales que administren, de conformidad con lo señalado en la Ley 1581 de 2012, y las normas que la modifiquen, sustituyan o reglamenten.
 
 PARÁGRAFO. Las gobernaciones, alcaldías municipales y distritales que tengan a su cargo el registro de los libros de afiliados de las juntas de acción comunal, tendrán un plazo de un (1) año a partir de la expedición del presente decreto, para efectuar el trámite de depuración de las bases de datos y sistematización de las mismas.
 
-ARTÍCULO
-
 ## art:2.3.2.3.4 — Termino para responder
 
 Las solicitudes de certificado de residencia deberán resolverse dentro de los quince (15) días siguientes a su recepción, en aplicación de lo previsto en el inciso 1° del artículo 14 de la Ley 1437 de 2011, Código de Procedimiento Administrativo y de lo Contencioso Administrativo, subrogado por el artículo 1° de la Ley Estatutaria 1755 de 2015.
 
 PARÁGRAFO. El certificado de residencia a que hace referencia el presente capítulo y la inscripción en los registros que sirven de criterio para su expedición no tienen ningún costo.
-
-ARTÍCULO
 
 ## art:2.3.2.3.5 — Vigencia del certificado
 
@@ -7704,15 +6940,11 @@ CAPÍTULO 1
 
 MEDIDAS PARA LA CREACIÓN Y FUNCIONAMIENTO DE LAS ORGANIZACIONES DE PERSONAS CON DISCAPACIDAD QUE LAS REPRESENTEN
 
-ARTÍCULO
-
 ## art:2.3.3.1.1 — Ámbito de Aplicación
 
 El presente capítulo regula a las organizaciones de personas con discapacidad, que tengan por objeto representar a las personas con discapacidad ante las instancias locales, municipales o distritales, departamentales, nacionales e internacionales, estableciendo los requisitos que deben cumplir tales organizaciones en el marco de su representatividad, fijando las medidas para su fortalecimiento y para garantizar el derecho a la participación plena de sus asociados.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.2 — Objeto de las organizaciones representativas de las personas con discapacidad
 
@@ -7721,8 +6953,6 @@ Las organizaciones representativas de las personas con discapacidad se constituy
 PARÁGRAFO. En sus respectivos estatutos, cada organización podrá incluir los propósitos y acciones que complementen este objeto.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.3 — Integrantes de las organizaciones representativas de las personas con discapacidad
 
@@ -7734,15 +6964,11 @@ PARÁGRAFO 2. La condición de discapacidad será acreditada con la certificaci�
 
 (Decreto 1350 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.1.4 — Funciones de las organizaciones
 
 En desarrollo de su objeto, las organizaciones de personas con discapacidad tienen la libertad para definir las funciones que les permitan alcanzar los propósitos que llevaron a su conformación, en un marco de promoción de los derechos de las personas con discapacidad.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.5 — Características de las organizaciones
 
@@ -7766,15 +6992,11 @@ PARÁGRAFO. En concordancia con el artículo 5 de la Ley Estatutaria 1622 de 201
 
 (Decreto 1350 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.1.6 — Personería jurídica, registro y régimen legal
 
 Para la obtención de personería jurídica, registro, inscripción de estatutos, reformas, nombramientos de administradores, libros, disolución, liquidación y certificación de existencia y representación legal, las organizaciones de personas con discapacidad se rigen por las disposiciones generales contenidas en el artículo 40 del Decreto Ley 2150 de 1995, en el Capítulo 40, del Título 2, de la Parte 2, del Libro 2 del Decreto 1074 de 2015, Único Reglamentario del Sector Comercio, Industria y Turismo, y demás normas que lo complementen o modifiquen.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.7 — Formas de organizarse
 
@@ -7789,8 +7011,6 @@ Las personas con discapacidad podrán organizarse teniendo en cuenta cualquiera 
 PARÁGRAFO. Cualquier forma de organización que se elija debe garantizar la participación efectiva de las personas con discapacidad, desde el enfoque diferencial, en el ejercicio de sus derechos para ejercer la representación de sus colectivos en los espacios locales, municipales o distritales, departamentales, nacionales e internacionales.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.8 — Organización en relación con el ámbito territorial
 
@@ -7850,8 +7070,6 @@ PARÁGRAFO. Las organizaciones representativas de las personas con discapacidad 
 
 (Decreto 1350 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.1.9 — Representatividad de las organizaciones
 
 Las organizaciones de las personas con discapacidad representan a sus asociados, ante las autoridades públicas y privadas locales, municipales o distritales, departamentales, nacionales e internacionales. en los ámbitos y espacios de participación que contemple la ley, sin perjuicio de la capacidad de ejercicio que tiene cada persona con discapacidad.
@@ -7861,8 +7079,6 @@ Así mismo, las organizaciones aquí reguladas, serán representantes en todos l
 Para garantizar que las organizaciones de personas con discapacidad tengan representación en los espacios de toma de decisiones, es deber de las autoridades locales, municipales o distritales, departamentales y nacionales convocar a las organizaciones de su jurisdicción, asegurando medidas de acceso y accesibilidad para que la participación se realice en igualdad de condiciones.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.10 — Representación de personas con discapacidad a través de sus familiares y/o cuidadores
 
@@ -7875,8 +7091,6 @@ En ausencia de organizaciones de personas con discapacidad intelectual o múltip
 PARÁGRAFO. Las organizaciones de madres, padres o familiares de personas con discapacidad intelectual y múltiple deberán cumplir con los requisitos de las organizaciones de personas con discapacidad con relación al ámbito territorial y número de asociados, descritos en el artículo 2.3.3.1.8.del presente decreto.
 
 (Decreto 1350 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.3.1.11 — Fortalecimiento y sostenibilidad
 
@@ -7908,8 +7122,6 @@ El Ministerio del Interior, desde el ámbito de sus competencias, adoptara las s
 
 (Decreto 1350 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.3.1.12 — Garantía para la plena participación por razón del tipo de discapacidad
 
 Las autoridades gubernamentales responsables de convocar a los Comités de Discapacidad, al Consejo Nacional de Discapacidad, Consejos de Participación, Consejos de Política Social y demás espacios de consulta, deliberación y toma de decisiones donde sean representadas las organizaciones de las personas con discapacidad, deberán garantizar:
@@ -7924,11 +7136,9 @@ Lo anterior, estará sujeto a las disponibilidades presupuestales de cada vigenc
 
 (Decreto 1350 de 2018, art. 1)
 
-ARTÍCULO
+## art:2.3.3.1.13 — 
 
-## art:2.3.3.1.13 — .13
-
-ARTÍCULO
+2.3.3.1.13.
 
 ## art:2.4.1.1.1 — Objeto
 
@@ -8074,9 +7284,7 @@ Todas las Subcomisiones informarán a la plenaria de la Comisión Mixta Nacional
 
 PARÁGRAFO. Cada Subcomisión será liderada por la entidad o entidades cabeza del sector o sectores del tema correspondiente para el que se creen.
 
-## art:2 — ,3.4.3.8
-
-Funciones. La Comisión Mixta Nacional para Asuntos Campesinos cumplirá las siguientes funciones:
+ARTÍCULO 2,3.4.3.8. Funciones. La Comisión Mixta Nacional para Asuntos Campesinos cumplirá las siguientes funciones:
 
 Servir de instancia de interlocución y concertación en los procesos de formulación a las políticas públicas relacionadas con el campesinado.
 Concertar las políticas públicas, proyectos normativos y los mecanismos que la desarrollen tendientes a garantizar los derechos del campesinado en lo relativo a: el acceso progresivo a la propiedad de la tierra en forma individual o asociativa; la territorialidad, la cultura propia, la educación de calidad, la vivienda, la salud con enfoque diferencial, los servicios públicos domiciliarios, las vías, un ambiente sano; el acceso, uso, conservación, protección e intercambio de semillas nativas y criollas; la sostenibilidad de los recursos naturales y la diversidad biológica, el agua, la conectividad hídrica, conectividad digital, la mejora de la infraestructura rural, el fomento a la agroecología, la protección de la producción de alimentos y la soberanía alimentaria, la extensión agropecuaria, pesquera y de la economía campesina; los medios de comercialización, procesamiento y transformación de sus productos; el deporte, y la asistencia técnica y tecnológica para generar valor agregado y valor público, así como cualquier otra particularidad asociada a los asuntos campesinos.
@@ -8133,15 +7341,11 @@ Instalación de la Comisión Mixta. Mientras se surte el proceso de elección de
 
 (Adicionado por el Art 1 del Decreto 1004 de 2024 )
 
-ARTÍCULO
-
 ## art:2.4.1.1.2 — Población objeto
 
 Se considera como beneficiario del programa de qué trata el presente Capítulo a toda víctima, en los términos que ha definido el artículo 5 de la Ley 975 de 2005, o testigo, que se encuentre en situación de riesgo extraordinario o extremo que atente contra su vida, integridad, libertad y seguridad. El programa dará un énfasis en prevención y protección hacia las mujeres, atendiendo a lo establecido por la Corte Constitucional en la Sentencia T-496 de 2008 y el Auto 092 de seguimiento a la Sentencia T-025 de 2004, en lo relacionado con el impacto desproporcionado sobre las mujeres.
 
 (Decreto 1737 de 2010, Art. 2)
-
-ARTÍCULO
 
 ## art:2.4.1.1.3 — Principios
 
@@ -8174,8 +7378,6 @@ Salvaguarda de derechos. El Programa propenderá por la protección de los derec
 PARÁGRAFO. La violación de los principios que genere una vulneración de los derechos fundamentales de la víctima puede acarrear sanciones penales y disciplinarias.
 
 (Decreto 1737 de 2010, Art. 3)
-
-ARTÍCULO
 
 ## art:2.4.1.1.4 — Definiciones
 
@@ -8225,8 +7427,6 @@ Medidas complementarias de carácter asistencial. Son aquellas orientadas a la a
 
 (Decreto 1737 de 2010, Art. 4)
 
-ARTÍCULO
-
 ## art:2.4.1.1.5 — Órganos que integran el programa de protección para víctimas y testigos en el marco de la Ley 975 de 2005
 
 El Programa contara con los siguientes órganos para su dirección, ejecución, evaluación y seguimiento:
@@ -8241,15 +7441,11 @@ El Programa contara con los siguientes órganos para su dirección, ejecución, 
 
 (Decreto 1737 de 201O, Art. 5)
 
-ARTÍCULO
-
 ## art:2.4.1.1.6 — Dirección del programa de protección para víctimas y testigos de la Ley 975 de 2005
 
 La Dirección del Programa de Protección para Víctimas y Testigos de la Ley 975 de 2005, estará a cargo del Ministerio del Interior a través de la Dirección de Derechos Humanos.
 
 (Decreto 1737 de 2010, Art. 6)
-
-ARTÍCULO
 
 ## art:2.4.1.1.7 — 1.7
 
@@ -8281,8 +7477,6 @@ Funciones de la dirección del programa de protección para víctimas y testigos
 
 (Decreto 1737 de 2010, Art. 7)
 
-ARTÍCULO
-
 ## art:2.4.1.1.8 — De los grupos interinstitucionales de apoyo
 
 La Dirección contara con dos grupos interinstitucionales de apoyo, el Grupo Técnico de Elaboración del Mapa de Riesgo y el Grupo Interinstitucional de Protección.
@@ -8291,23 +7485,17 @@ La Dirección contara con dos grupos interinstitucionales de apoyo, el Grupo Té
 
 Estos grupos asesores apoyaran, adicionalmente, a la Dirección en el desarrollo de las funciones que le han sido asignadas en el marco de este Programa.
 
-ARTÍCULO
-
 ## art:2.4.1.1.9 — Del Grupo Técnico de Elaboración del Mapa de Riesgo
 
 El Grupo Técnico de Elaboración del Mapa de Riesgo estará integrado por la Policía Nacional y el Observatorio de la Consejería Presidencial para los Derechos Humanos.
 
 (Decreto 1737 de 2010, Art. 9)
 
-ARTÍCULO
-
 ## art:2.4.1.1.10 — De las funciones del Grupo Técnico de Elaboración del Mapa de Riesgo
 
 El Grupo Técnico de Elaboración del Mapa de Riesgo tendrá como función recopilar información, elaborar y actualizar el Mapa de Riesgo para presentación ante el Comité Interinstitucional de Justicia y Paz, y para ser utilizado como insumo para la toma de decisiones por parte de los diferentes órganos que conforman este Programa.
 
 (Decreto 1737 de 2010, Art. 10)
-
-ARTÍCULO
 
 ## art:2.4.1.1.11 — El Grupo Interinstitucional de Protección
 
@@ -8318,8 +7506,6 @@ La Secretaria Técnica estará a cargo de la Dirección de Derechos Humanos del 
 PARÁGRAFO. La Defensoría del Pueblo y la Procuraduría General de la Nación participaran en esta instancia en cumplimiento de los deberes que le señala la Ley 24 de 1992, como garante de los derechos de las víctimas, pero no tomara parte en las decisiones.
 
 (Decreto 1737 de 2010, Art. 11; Decreto 4800 de 2011, Art. 220)
-
-ARTÍCULO
 
 ## art:2.4.1.1.12 — De las funciones del Grupo Interinstitucional de Protección
 
@@ -8347,8 +7533,6 @@ PARÁGRAFO 2. Las entidades que componen los grupos asesores deberán delegar an
 
 (Decreto 1737 de 2010, Art. 12)
 
-ARTÍCULO
-
 ## art:2.4.1.1.13 — Grupo Técnico de Evaluación de Riesgo
 
 En desarrollo del principio de colaboración armónica entre las entidades del Estado, el Grupo Técnico de Evaluación de Riesgo -GTER- estará conformado por la Fiscalía General de la Nación, la Policía Nacional, la Defensoría del Pueblo, la Procuraduría General de la Nación y la Unidad Administrativa Especial para la Atención y Reparación Integral a Víctimas.
@@ -8362,8 +7546,6 @@ PARÁGRAFO 3. El Grupo Técnico de Evaluación de Riesgo deberá estar compuesto
 PARÁGRAFO 4. En caso de discrepancia en la valoración del riesgo la medida se tomará a favor de la víctima.
 
 (Decreto 1737 de 2010, artículo 13; Decreto 4800 de 2011, artículo 221)
-
-ARTÍCULO
 
 ## art:2.4.1.1.14 — Distribución Territorial de los Grupos Técnicos de Evaluación de Riesgo
 
@@ -8384,8 +7566,6 @@ PARÁGRAFO 1. La Dirección del Programa podrá crear nuevas regionales del Grup
 PARÁGRAFO 2. La Secretaria Técnica del Grupo Técnico de Evaluación de Riesgo - GTER, estará a cargo de la Oficina de Protección y Asistencia de la Fiscalía General de la Nación de Bogotá y contará con secretarias delegadas a cargo de las Unidades Regionales de esta Oficina.
 
 (Decreto 1737 de 2010, Art. 14)
-
-ARTÍCULO
 
 ## art:2.4.1.1.15 — Funciones del Grupo Técnico de Evaluación de Riesgo - GTER
 
@@ -8411,8 +7591,6 @@ El Grupo Técnico de Evaluación de Riesgo - GTER, deberá:
 
 (Decreto 1737 de 2010, Art. 15)
 
-ARTÍCULO
-
 ## art:2.4.1.1.16 — Grupo Departamental de Medidas Complementarias
 
 En aplicación al principio de responsabilidad territorial, se crean los Grupos Departamentales de Medidas Complementarias.
@@ -8420,8 +7598,6 @@ En aplicación al principio de responsabilidad territorial, se crean los Grupos 
 Estará integrado por el Gobernador o su Secretario de Gobierno o del Interior del Departamento, la Policía Nacional, la Dirección Seccional de Fiscalías y la Defensoría del Pueblo.
 
 (Decreto 1737 de 2010, Art. 16)
-
-ARTÍCULO
 
 ## art:2.4.1.1.17 — De las funciones del Grupo Departamental de Medidas complementarias
 
@@ -8441,23 +7617,17 @@ PARÁGRAFO 2. Los Gobernadores en cada departamento, atenderán los requerimient
 
 (Decreto 1737 de 2010, Art. 17)
 
-ARTÍCULO
-
 ## art:2.4.1.1.18 — Análisis del Mapa de Riesgo
 
 El Grupo Interinstitucional de Protección analizara y adoptara las medidas de protección que considere necesarias, en coordinación con el Grupo Departamental de Medidas Complementarias correspondiente.
 
 (Decreto 1737 de 2010, Art. 18)
 
-ARTÍCULO
-
 ## art:2.4.1.1.19 — Actualización del Mapa de Riesgo
 
 El Grupo Técnico de Elaboración de Mapa de Riesgo, deberá presentar cada cuatro (4) meses, la actualización del Mapa de Riesgo, con el objeto de ajustar la priorización de los municipios, franjas poblacionales y territorios colectivos de grupos étnicos para la atención preventiva, según la dinámica del proceso de Justicia y Paz.
 
 (Decreto 1737 de 2010, Art. 19)
-
-ARTÍCULO
 
 ## art:2.4.1.1.20 — Dispositivos de protección
 
@@ -8471,8 +7641,6 @@ Para efectos de garantizar una respuesta oportuna, en términos de prevención, 
 
 (Decreto 1737 de 2010, Art. 20)
 
-ARTÍCULO
-
 ## art:2.4.1.1.21 — Medidas de carácter general
 
 Son las que contribuyen a crear un ambiente favorable de protección para todas las víctimas, al fortalecimiento de la institucionalidad, y a la sensibilización e información de la ciudadanía respecto a los derechos de las víctimas y la preservación de su dignidad. A ese propósito corresponden las siguientes medidas.
@@ -8484,8 +7652,6 @@ Son las que contribuyen a crear un ambiente favorable de protección para todas 
 3. Las autoridades nacionales, departamentales y municipales, incrementaran sus acciones contra los diversos grupos y factores delincuenciales que generan amenaza y constreñimiento contra las víctimas de justicia y paz.
 
 (Decreto 1737 de 2010, Art. 21)
-
-ARTÍCULO
 
 ## art:2.4.1.1.22 — Dispositivos colectivos y poblacionales
 
@@ -8505,8 +7671,6 @@ PARÁGRAFO 2. Se pondrá en conocimiento del Ministerio de Defensa Nacional, las
 
 (Decreto 1737 de 2010, Art. 22)
 
-ARTÍCULO
-
 ## art:2.4.1.1.23 — Dispositivos individuales
 
 El Dispositivo Individual consiste en el conjunto de medidas y medios de protección específicos, adecuados y suficientes, para evitar que se materialice el riesgo extraordinario o extremo sobre una víctima o testigo, en el marco de la Ley 975 de 2005.
@@ -8514,8 +7678,6 @@ El Dispositivo Individual consiste en el conjunto de medidas y medios de protecc
 Este Dispositivo será aplicado por la Fiscalía General de la Nación o la Policía Nacional, de acuerdo con la asignación de medidas que determine el respectivo Grupo Técnico de Evaluación de Riesgo- GTER. En todos los casos, la atención individual del riesgo se basará integralmente en los procedimientos, criterios e instancias de articulación interinstitucional, previstos en el presente Capítulo y especificadas en el Protocolo Único de Protección para Víctimas y Testigos de justicia y paz.
 
 (Decreto 1737 de 201O, Art. 23)
-
-ARTÍCULO
 
 ## art:2.4.1.1.24 — Etapas del dispositivo individual
 
@@ -8531,8 +7693,6 @@ El Dispositivo individual contempla cuatro etapas.
 
 (Decreto 1737 de 2010, Art. 24)
 
-ARTÍCULO
-
 ## art:2.4.1.1.25 — Asistencia inicial
 
 La asistencia inicial consiste en satisfacer las necesidades de la víctima o testigo solicitante y su núcleo familiar, en materia de seguridad, hospedaje, alimentación, aseo, transporte, vestuario, asistencia médica de urgencia y demás aspectos que permitan su protección en condiciones de dignidad, atendiendo el enfoque diferencial y de género.
@@ -8547,8 +7707,6 @@ PARÁGRAFO 2. Si la victima manifiesta reserva de confianza por razones de segur
 
 (Decreto 1737 de 2010, Art. 25)
 
-ARTÍCULO
-
 ## art:2.4.1.1.26 — Finalización de la asistencia inicial
 
 La asistencia inicial concluirá cuando se presenten alguna de las siguientes situaciones:
@@ -8561,8 +7719,6 @@ La asistencia inicial concluirá cuando se presenten alguna de las siguientes si
 
 (Decreto 1737 de 2010, Art. 26)
 
-ARTÍCULO
-
 ## art:2.4.1.1.27 — Evaluación y calificación del riesgo individual
 
 El Grupo Técnico de Evaluación de Riesgos- GTER, a través de la Policía Nacional o la Fiscalía General de la Nación, realizaran la evaluación y calificación de riesgo, con el fin de asignar, de considerarse necesario, las medidas de seguridad estipuladas en el presente Capítulo.
@@ -8573,15 +7729,11 @@ Cuando se establezca que este Programa no es competente para evaluar el caso, la
 
 (Decreto 1737 de 2010, Art. 27)
 
-ARTÍCULO
-
 ## art:2.4.1.1.28 — Certificación
 
 Los fiscales delegados de la Unidad de Justicia y Paz certificaran sumariamente la calidad de víctima o testigo en el procedimiento de la Ley 975 de 2005, como requisito para acceder a este programa, tomando como referencia el reporte de hechos atribuibles a grupos armados organizados al margen de la ley y la valoración de las entrevistas a los testigos de un hecho atribuible a grupos armados organizados al margen de la ley.
 
 (Decreto 1737 de 2010, Art.28)
-
-ARTÍCULO
 
 ## art:2.4.1.1.29 — Determinación y ejecución de las medidas
 
@@ -8607,8 +7759,6 @@ PARÁGRAFO 2. Las medidas enunciadas en los numerales del 1 al 6 no son excluyen
 
 (Decreto 1737 de 2010, Art. 29)
 
-ARTÍCULO
-
 ## art:2.4.1.1.30 — Reevaluación del riesgo
 
 El Grupo Técnico de Evaluación de Riesgo- GTER, reevaluara el riesgo de las personas vinculadas al Programa cada seis (6) meses.
@@ -8616,8 +7766,6 @@ El Grupo Técnico de Evaluación de Riesgo- GTER, reevaluara el riesgo de las pe
 Consecuentemente con el resultado de la reevaluación del riesgo, las medidas de protección asignadas se podrán suspender, retirar, renovar o modificar, para lo cual se tendrá en cuenta el procedimiento establecido en el ARTÍCULO 42 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1737 de 2010, Art.30)
-
-ARTÍCULO
 
 ## art:2.4.1.1.31 — Entidades competentes
 
@@ -8641,8 +7789,6 @@ Complementarias, conformado por el Gobernador o su secretario del interior, la P
 
 (Decreto 1737 de 2010, Art. 31)
 
-ARTÍCULO
-
 ## art:2.4.1.1.32 — Medidas complementarias
 
 Para la aplicación de las medidas complementarias se buscará integrar la atención a las necesidades de las víctimas y testigos, con el propósito de salvaguardar sus derechos afectados y buscar su bienestar emocional y familiar, por tal razón, deberán concurrir todas las entidades competentes en la ejecución de programas orientados a dar respuesta a estas necesidades. Igualmente se podrán convocar entidades sin ánimo de lucro que colaboren con estos propósitos.
@@ -8653,8 +7799,6 @@ PARÁGRAFO. En todas las medidas complementarias implementadas, la autoridad a c
 
 (Decreto 1737 de 2010, Art. 32)
 
-ARTÍCULO
-
 ## art:2.4.1.1.33 — Evaluación sobre la pertinencia y contenido de las medidas complementarias
 
 Cuando la situación de amenaza amerite el traslado de la víctima o testigo y/o se afecten de manera decidida sus derechos o los de su grupo familiar a la educación, la salud y la estabilidad emocional, el Grupo Técnico de Evaluación de Riesgo- GTER, remitirá el caso al Grupo Departamental de Medidas Complementarias, a fin de asegurar las acciones de garantía de restitución de los derechos afectados y de preservar el bienestar personal y familiar.
@@ -8662,8 +7806,6 @@ Cuando la situación de amenaza amerite el traslado de la víctima o testigo y/o
 El Grupo Departamental de Medidas Complementarias valorará la asignación de medidas complementarias, a fin de asegurar los medios necesarios, en el marco de las competencias institucionales, garantizar la protección de los demás derechos afectados, brindar la asistencia psicológica a la persona amenazada y a su familia y asegurar la debida orientación jurídica, en el marco de la Ley 975, para la reclamación de sus derechos y el acceso a la justicia.
 
 (Decreto 1737 de 2010, Art. 33)
-
-ARTÍCULO
 
 ## art:2.4.1.1.34 — Terminación de la protección
 
@@ -8681,8 +7823,6 @@ PARÁGRAFO. En caso de que la medida de aseguramiento se profiera contra el titu
 
 (Decreto 1737 de 2010, Art. 34)
 
-ARTÍCULO
-
 ## art:2.4.1.1.35 — Exclusión unilateral
 
 El Grupo Interinstitucional de Protección podrá determinar la exclusión unilateral del protegido y su grupo familiar por el incumplimiento de las obligaciones adquiridas con este Programa, previo informe del GTER respectivo.
@@ -8697,8 +7837,6 @@ PARÁGRAFO 3. En todo caso, contra los actos administrativos que definan lo esta
 
 (Decreto 1737 de 2010, Art. 35)
 
-ARTÍCULO
-
 ## art:2.4.1.1.36 — Recursos
 
 La ejecución de las medidas definidas en el presente Capítulo para el funcionamiento del Programa de Protección para Víctimas y Testigos, estarán sujetas a los recursos que para el efecto se apropien en el Presupuesto General de la Nación y estén contenidos en el Marco de Gastos de Mediano Plazo.
@@ -8707,15 +7845,11 @@ Para tal fin el Ministerio del Interior presentara al Ministerio de Hacienda y C
 
 (Decreto 1737 de 2010, Art. 36)
 
-ARTÍCULO
-
 ## art:2.4.1.1.37 — Proyección de recursos
 
 La Policía Nacional y la Fiscalía General de la Nación presentaran oportunamente a la Dirección del Programa, la proyección de recursos para el cumplimiento de las funciones asignadas para cada vigencia fiscal.
 
 (Decreto 1737 de 2010, Art. 37)
-
-ARTÍCULO
 
 ## art:2.4.1.1.38 — Destinación de recursos
 
@@ -8727,15 +7861,11 @@ CAPÍTULO 2
 
 Prevención y Protección de los Derechos a la Vida, la Libertad, la Integridad y la Seguridad de personas, grupos y comunidades
 
-ARTÍCULO
-
 ## art:2.4.1.2.1 — Objeto
 
 Organizar el Programa de Prevención y Protección de los derechos a la vida, la libertad, la integridad y la seguridad de personas, grupos y comunidades que se encuentran en situación de riesgo extraordinario o extremo como consecuencia directa del ejercicio de sus actividades o funciones políticas, publicas, sociales o humanitarias, o en razón del ejercicio de su cargo, en cabeza de la Unidad Nacional de Protección, la Policía Nacional y el Ministerio del Interior.
 
 (Decreto 4912 de 2011, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.2.2 — Principios
 
@@ -8774,8 +7904,6 @@ Los interesados en ser acogidos por el programa deben demostrar, siquiera sumari
 15. Temporalidad: Las medidas de protección tienen carácter temporal y se mantendrán mientras subsista un nivel de riesgo extraordinario o extremo, o en tanto la persona permanezca en el cargo, según el caso. Las medidas de prevención son temporales y se mantendrán en tanto persistan las amenazas o vulnerabilidades que enfrenten las comunidades o grupos.
 
 (Decreto 4912 de 2011, Art. 2; Decreto 1225 de 2012, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.2.3 — Definiciones
 
@@ -8857,8 +7985,6 @@ No obstante, lo anterior, cuando los miembros del núcleo familiar ostenten un n
 
 (Decreto 4912 de 2011, Art. 3 Decreto 567 de 2016, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.2.4 — Prevención
 
 El Ministerio del Interior asesorará técnicamente a las entidades territoriales en la formulación de políticas de derechos humanos y Derecho Internacional Humanitario y en la incorporación de un enfoque de derechos en los diferentes instrumentos de planeación y sus estrategias de implementación en el ámbito municipal y departamental. Para ello, la Unidad Nacional de Protección apoyara al Ministerio del Interior.
@@ -8867,15 +7993,11 @@ Lo anterior, sin perjuicio de lo establecido en el parágrafo 2° del ARTÍCULO 
 
 (Decreto 4912 de 2011, Art. 4)
 
-ARTÍCULO
-
 ## art:2.4.1.2.5 — 2.5
 
 Protección La población objeto de protección del Programa de qué trata este Capítulo podrá serlo en razón a su situación de riesgo extraordinario o extremo, o en razón del cargo.
 
 (Decreto 4912 de 2011, Art. 5)
-
-ARTÍCULO
 
 ## art:2.4.1.2.6 — Protección de personas en situación de riesgo extraordinario o extremo
 
@@ -8941,8 +8063,6 @@ PARÁGRAFO 7°. Las medidas de protección de las personas mencionadas en el pre
 
 (Decreto 4912 de 2011, Art. 6; Decreto 1225 de 2012, Art. 2; Decreto 2096 de 2012, Art. 14)
 
-ARTÍCULO
-
 ## art:2.4.1.2.7 — Protección de personas en virtud del cargo
 
 Son personas objeto de protección en virtud del cargo.
@@ -9007,15 +8127,11 @@ PARÁGRAFO 11. Los gastos de transporte y viáticos que se causen por parte de l
 
 (Decreto 1487 de 2018, art. 4)
 
-ARTÍCULO
-
 ## art:2.4.1.2.8 — Articulación de la estrategia de protección
 
 La Unidad Nacional de Protección tendrá a su cargo la administración de la base de datos única, que permita ejercer un control de las medidas de protección dispuestas para las personas en razón del riesgo o del cargo y coordinará la implementación de las mismas.
 
 (Decreto 4912 de 2011, Art. 8)
-
-ARTÍCULO
 
 ## art:2.4.1.2.9 — Medidas de emergencia
 
@@ -9028,8 +8144,6 @@ En todo caso, para adoptar medidas provisionales de protección se deberán real
 En circunstancias en que sea aplicable la presunción constitucional de riesgo, para el caso de la población desplazada, incluidas víctimas en los términos del ARTÍCULO 3 de la Ley 1448 de 2011, que intervienen en procesos de restitución de tierras, el director de la Unidad Nacional de Protección deberá adoptar medidas de esta naturaleza.
 
 (Decreto 4912 de 2011, Art. 9)
-
-ARTÍCULO
 
 ## art:2.4.1.2.10 — Medidas de prevención
 
@@ -9177,15 +8291,11 @@ PARÁGRAFO. Para asegurar la adecuación material de las medidas complementarias
 
 (Artículo Modificado por el Art. 1 del Decreto 1235 de 2023)
 
-ARTÍCULO
-
 ## art:2.4.1.2.12 — Objeto
 
 La Estrategia de Prevención tendrá como propósito evitar la consumación de violaciones a los derechos humanos e infracciones al Derecho Internacional Humanitario, así como mitigar los efectos generadores del riesgo y la adopción de garantías de no repetición.
 
 (Decreto 4912 de 2011, Art. 12)
-
-ARTÍCULO
 
 ## art:2.4.1.2.13 — Implementación de la estrategia de prevención a nivel territorial
 
@@ -9206,8 +8316,6 @@ En cada entidad territorial se integrará una mesa territorial de prevención co
 PARÁGRAFO. Las Mesas Territoriales serán coordinadas por la autoridad de gobierno departamental, distrital o municipal correspondiente y en ellas participarán las demás entidades y dependencias del Estado con competencia en esta materia.
 
 (Decreto 4912 de 2011, Art. 13)
-
-ARTÍCULO
 
 ## art:2.4.1.2.14 — Apoyo a la estrategia de prevención
 
@@ -9230,8 +8338,6 @@ La Unidad Nacional de Protección apoyará la implementación y la puesta en mar
 8. Participar bajo la coordinación de la Dirección de Derechos Humanos del Ministerio del Interior y con las autoridades de fuerza pública y las autoridades civiles nacionales y territoriales, estrategias preventivas para situaciones particulares de riesgo.
 
 (Decreto 4912 de 2011, Art.14)
-
-ARTÍCULO
 
 ## art:2.4.1.2.15 — Entidades o instancias con responsabilidades en la Estrategia de Prevención
 
@@ -9261,8 +8367,6 @@ ARTÍCULO
 
 (Decreto 4912 de 2011, Art. 15)
 
-ARTÍCULO
-
 ## art:2.4.1.2.16 — Instancias con responsabilidades en la Estrategia de Prevención
 
 1. La Secretaria Técnica de la Comisión Intersectorial de Alertas Tempranas.
@@ -9270,8 +8374,6 @@ ARTÍCULO
 2. Comisión intersectorial para la prevención del reclutamiento y utilización de niños, niñas, adolescentes y jóvenes por grupos organizados al margen de la Ley.
 
 (Decreto 4912 de 2011, Art. 16)
-
-ARTÍCULO
 
 ## art:2.4.1.2.17 — .17
 
@@ -9297,8 +8399,6 @@ Responsabilidades de la Dirección de Derechos Humanos del Ministerio del Interi
 
 (Decreto 4912 de 2011, Art. 17)
 
-ARTÍCULO
-
 ## art:2.4.1.2.18 — Responsabilidades del Ministerio de Defensa Nacional, en el marco de la estrategia de prevención
 
 El Ministerio de Defensa Nacional, las Fuerzas Militares y de Policía desarrollaran las siguientes acciones en el marco del programa de prevención:
@@ -9319,8 +8419,6 @@ El Ministerio de Defensa Nacional, las Fuerzas Militares y de Policía desarroll
 
 (Decreto 4912 de 2011, Art. 18)
 
-ARTÍCULO
-
 ## art:2.4.1.2.19 — Responsabilidades de la Secretaria Técnica de la CIAT en el marco de la estrategia de prevención
 
 La Secretaria Técnica de la Comisión Intersectorial de Alertas Tempranas tendrá a su cargo las siguientes actividades:
@@ -9334,8 +8432,6 @@ La Secretaria Técnica de la Comisión Intersectorial de Alertas Tempranas tendr
 4. Reportar al programa de prevención y a las comunidades los avances en la implementación de las acciones de prevención, enmarcadas en los planes formulados, que son de su competencia y los resultados obtenidos.
 
 (Decreto 4912 de 2011, Art.19)
-
-ARTÍCULO
 
 ## art:2.4.1.2.20 — Atribuciones de los departamentos en el marco de la estrategia de prevención
 
@@ -9364,8 +8460,6 @@ De conformidad con lo dispuesto por los ARTÍCULO s 287, 298 y 305 de la Constit
 11. Definir, en coordinación con el Programa de Prevención del Ministerio del Interior y las autoridades civiles y de fuerza pública, estrategias preventivas para situaciones particulares de riesgo.
 
 (Decreto 4912 de 2011, Art. 20)
-
-ARTÍCULO
 
 ## art:2.4.1.2.21 — Atribuciones de los municipios en el marco de la estrategia de prevención
 
@@ -9399,8 +8493,6 @@ Acorde con los artículos 287, 311 y 315 de la Constitución Política y de la L
 
 (Decreto 4912 de 2011, Art. 21)
 
-ARTÍCULO
-
 ## art:2.4.1.2.22 — .22
 
 Coordinación del Ministerio del Interior con el sistema de alertas tempranas de la Defensoría del Pueblo en el marco de la estrategia de prevención. El Ministerio del Interior, dentro del principio de colaboración armónica, solicitara a la Defensoría del Pueblo que dentro del marco de sus funciones legales.
@@ -9412,8 +8504,6 @@ Coordinación del Ministerio del Interior con el sistema de alertas tempranas de
 3. Requiera a las entidades del orden nacional, departamental y municipal para la salvaguarda de los derechos a la vida, la integridad, la libertad y la seguridad de las personas, grupos y comunidades en situación de riesgo.
 
 (Decreto 4912 de 2011, Art. 22)
-
-ARTÍCULO
 
 ## art:2.4.1.2.23 — .23
 
@@ -9431,8 +8521,6 @@ Coordinación del Ministerio del Interior con la Procuraduría General de la Nac
 
 (Decreto 4912 de 2011, Art. 23)
 
-ARTÍCULO
-
 ## art:2.4.1.2.24 — .24
 
 Coordinación del Ministerio del Interior con las personerías distritales y municipales en el marco de la estrategia de prevención. El Ministerio del Interior, dentro del principio de colaboración armónica, solicitara a las personerías distritales y municipales que dentro del marco de sus funciones legales.
@@ -9445,15 +8533,11 @@ Coordinación del Ministerio del Interior con las personerías distritales y mun
 
 (Decreto 4912 de 2011, Art. 24)
 
-ARTÍCULO
-
 ## art:2.4.1.2.25 — Coordinación de la estrategia de protección
 
 La coordinación general de la Estrategia integral de protección estará a cargo de la Unidad Nacional de Protección, sin perjuicio de las competencias que se establecen en el presente Capítulo y en normas especiales, para las distintas autoridades responsables.
 
 (Decreto 4912 de 2011, Art. 25)
-
-ARTÍCULO
 
 ## art:2.4.1.2.26 — Entidades e instancias intervinientes en el marco de la estrategia de protección
 
@@ -9489,8 +8573,6 @@ Participan en una o varias etapas de la estrategia de protección, las siguiente
 
 (Decreto 4912 de 2011, Art. 26)
 
-ARTÍCULO
-
 ## art:2.4.1.2.27 — Responsabilidades de la Dirección de Derechos Humanos del Ministerio del Interior
 
 La Dirección de Derechos Humanos del Ministerio del Interior tiene a su cargo las siguientes actividades:
@@ -9504,8 +8586,6 @@ La Dirección de Derechos Humanos del Ministerio del Interior tiene a su cargo l
 4. Proponer los criterios, parámetros, metas y programas a ser aplicados por el Programa de Prevención y Protección.
 
 (Decreto 4912 de 2011, Art. 27)
-
-ARTÍCULO
 
 ## art:2.4.1.2.28 — Responsabilidades de la Unidad Nacional de Protección
 
@@ -9557,8 +8637,6 @@ PARÁGRAFO 2. El director de la UNP podrá apartarse de la recomendación de med
 
 (Decreto 4912 de 2011, Art. 28; Decreto 1225 de 2012, Art. 5)
 
-ARTÍCULO
-
 ## art:2.4.1.2.29 — Atribuciones de la Policía Nacional
 
 De conformidad con el artículo 218 de la Constitución Política y la Ley 62 de 1993, corresponde a la Policía Nacional:
@@ -9581,8 +8659,6 @@ De conformidad con el artículo 218 de la Constitución Política y la Ley 62 de
 
 (Decreto 4912 de 2011, Art. 29)
 
-ARTÍCULO
-
 ## art:2.4.1.2.30 — Atribuciones de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas
 
 Serán sus atribuciones las siguientes:
@@ -9594,8 +8670,6 @@ Serán sus atribuciones las siguientes:
 3. Participar en los espacios interinstitucionales en que puedan aportar información para analizar casos y peticiones de protección.
 
 (Decreto 4912 de 2011, Art. 30)
-
-ARTÍCULO
 
 ## art:2.4.1.2.31 — Atribuciones de las Gobernaciones
 
@@ -9617,8 +8691,6 @@ De conformidad con lo dispuesto en los ARTÍCULO s 287, 298 y 305 de la Constitu
 
 (Decreto 4912de 2011, Art. 31)
 
-ARTÍCULO
-
 ## art:2.4.1.2.32 — Atribuciones de las alcaldías
 
 Las alcaldías distritales y municipales, como primera autoridad de policía del municipio, y responsable del orden público tendrán las siguientes atribuciones responsabilidades en materia de protección, dentro del marco de sus competencias, de conformidad con los artículos 311 y 315 de la Constitución Política y 91 de la Ley 136 de 1994:
@@ -9637,8 +8709,6 @@ Las alcaldías distritales y municipales, como primera autoridad de policía del
 
 (Decreto 4912 de 2011, Art. 32)
 
-ARTÍCULO
-
 ## art:2.4.1.2.33 — .33
 
 Cuerpo Técnico de Análisis de Riesgo - CTAR - Ruta de protección individual y Cuerpo Técnico de Análisis de Riesgo Ruta de protección colectiva- CTARC. Crease el Cuerpo Técnico de Análisis de Riesgo - CTAR - Ruta de protección individual y el Cuerpo Técnico de Análisis de Riesgo Ruta de protección colectiva- CTARC, encargados de la recopilación y análisis de información "in situ". El CTAR podrá estar conformado por personal de la Unidad Nacional de Protección y de la Policía Nacional.
@@ -9650,8 +8720,6 @@ PARÁGRAFO. En todas aquellas disposiciones en las cuales se haga referencia al 
 (Modificado por el Art. 8 del Decreto 1139 de 2021)
 
 (Decreto 4912 de 2011, Art. 33)
-
-ARTÍCULO
 
 ## art:2.4.1.2.34 — Conformación del Grupo de valoración preliminar
 
@@ -9682,8 +8750,6 @@ PARÁGRAFO 2. Participara cualquier autoridad pública del nivel nacional; depar
 (Derogado por el Art. 29 del Decreto 1139 de 2021)
 
 (Decreto 4912 de 2011, Art. 34)
-
-ARTÍCULO
 
 ## art:2.4.1.2.35 — Atribuciones del Grupo de valoración preliminar
 
@@ -9719,8 +8785,6 @@ PARÁGRAFO. Las sesiones del CERREM podrán llevarse a cabo de manera virtual a 
 
 (Decreto 4912 de 2011, Art. 36)
 
-ARTÍCULO
-
 ## art:2.4.1.2.36 — 6 A
 
 Creación del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM de Servidores y Sexoservidores Públicos-. Crease el CERREM de Servidores y Sexoservidores Públicos, el cual estará conformado así:
@@ -9738,8 +8802,6 @@ Creación del Comité de Evaluación de Riesgo y Recomendación de Medidas - CER
 PARÁGRAFO. Los miembros del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM de Servidores y Sexoservidores Públicos, podrán invitar a representantes de entidades de carácter público, cuando se presenten casos relacionados con sus competencias, con voz y sin derecho a voto.
 
 (Adicionado por el Art. 10 del Decreto 1139 de 2021)
-
-ARTÍCULO
 
 ## art:2.4.1.2.37 — Invitados permanentes
 
@@ -9817,6 +8879,110 @@ PARÁGRAFO 6. Cuando las necesidades de protección lo ameriten, el Comité de E
 
 (Decreto 4912 de 2011, Art.38)
 
+## art:2.4.1.2.38a — Conformación del Comité de Evaluación de Nivel de Riesgo - CENIR
+
+La Policía Nacional, a través de la Dirección de Protección y Servicios Especiales, y los Comandos de Policía Metropolitana y de Departamento, contaran, cada uno, con un Comité de Evaluación de Nivel de Riesgo - CENIR, integrado de la siguiente manera:
+
+1. En la Dirección de Protección y Servicios Especiales, quienes tendrán voz y voto:
+
+1.1 El Subdirector de Protección, quien lo preside.
+
+1.2 El Jefe del Área de Protección a Personas e Instalaciones y los jefes de los grupos a su cargo.
+
+1.3 El Jefe del Área Administrativa y Financiera.
+
+1.4 El Jefe del Grupo de Estudios de Seguridad.
+
+1.5 El Jefe del Grupo de Talento Humana, quien ejercerá como secretario.
+
+1.6 El funcionario que realizo el Estudio de Nivel de Riesgo.
+
+2. En los Comandos de Policía Metropolitana y de Departamento, quienes tendrán voz y voto:
+
+2.1 El Subcomandante de Metropolitana o Departamento, quien lo preside.
+
+2.2 El Comandante Operativo de Seguridad Ciudadana.
+
+2.3 El Jefe Administrativo.
+
+2.4 El Jefe de la Seccional de Inteligencia Policial.
+
+2.5 El Jefe de la Seccional de Investigación Criminal.
+
+2.6 El Jefe de la Seccional de Protección y Servicios Especiales.
+
+2.7EI Jefe de Talento Humano, quien ejercerá coma secretario.
+
+2.8 El Jefe del Grupo de Protección.
+
+2.9 El Funcionario que realizo el Estudio de Nivel de Riesgo.
+
+2.10 El Coordinador de Derechos Humanos de la Unidad.
+
+PARÁGRAFO 1. Podrán participar coma invitadas dentro del Comité, con voz, pero sin voto, las personas que el mismo considere conveniente.
+
+PARÁGRAFO 2. El Comité de Evaluación de Nivel de Riesgo - CENIR de la Dirección de Protección y Servicios Especiales, de los Comandos de Policía Metropolitana y de Departamento, sesionara coma mínima dos veces al mes, para atender todos los requerimientos de la población objeto en virtud al cargo del presente capítulo, en el lugar que previamente se determine y notifique para adelantar la sesión.
+
+PARÁGRAFO 3. La Dirección de Protección y Servicios Especiales de la Policía Nacional expedirá el reglamento interno para el funcionamiento del Comité de Evaluación de Nivel de Riesgo - CENIR de la Dirección de Protección y Servicios Especiales, y de los Comandos de Policía Metropolitana y de Departamento."
+
+## art:2.4.1.2.38b — Funciones del Comité de Evaluación del Nivel de Riesgo CENIR
+
+Las funciones del Comité de Evaluación de Nivel de Riesgo, serán las siguientes:
+
+1. Recomendar, si es necesario, la implementación, modificación o suspensión de medidas preventivas y/o proyectivas, con fundamento en el resultado del Estudio de Nivel de Riesgo.
+
+2. Avalar y/o modificar la ponderación de los Estudios de Nivel de Riesgo realizados por las unidades policiales, que impliquen la adopción de medidas especiales de Protección, previa justificación, la cual quedara por escrito anexa al acta general de la sesión. En caso de no existir consenso por los integrantes del CENIR, frente a una ponderación, se decidirá mediante voto, previa justificación la cual quedará por escrito anexa al acta general de la sesión. Se entiende adoptada la decisión con el voto favorable de la mayoría simple de los integrantes.
+
+3. Recomendar de forma preventiva y con carácter transitorio, oportuno y suficiente las medidas de Protección para cada caso en particular, teniendo en cuenta la exposición de motivos y argumentos presentados por el funcionario que adelanta el respectivo estudio.
+
+4. Las demás que determine la ley, los reglamentos y las disposiciones internas.
+
+PARÁGRAFO 1. Las deliberaciones, recomendaciones y propuestas del Comité serán consignadas en un acta, que suscribirán quien lo preside y el secretario, la cual servirá de soporte a la decisión que adopte el director o comandante mediante acto administrativo.
+
+PARÁGRAFO 2. El acto administrativo de que trata el parágrafo anterior será informado al protegido mediante comunicación escrita o electrónica, donde se indicaran las medidas de Protección aprobadas y los compromisos que le asisten al beneficiario de las mismas. En los casos que el Comité de Estudios de Nivel de Riesgo - CENIR, no recomiende medidas en razón a que el riesgo del peticionario fue ponderado como ordinario, se dará a conocer tal situación a través de comunicación escrita o electrónica."
+
+## art:2.4.1.2.38c — 38C
+
+Objeto y funciones del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM de Servidores y Sexoservidores Públicos. El Comité de Evaluación del Riesgo y Recomendación de Medidas de Servidores y Sexoservidores Públicos, tiene por objeto la valoración integral del riesgo de esta población y la recomendación de medidas de protección y complementarias y ejercerá las siguientes funciones:
+
+1. Analizar la situación de riesgo de cada caso que inicie la ruta de protección por la Unidad Nacional de Protección, según la información provista por el CTAR en sus sesiones, los que en virtud del cargo realice la Policía Nacional y adoptar las recomendaciones que en los casos particulares emita la Unidad de Seguridad y Aseguramiento Tecnológico e Informático de la Contraloría General de la Republica, según lo indicado en el artículo 42A del Decreto Ley 267 de 2000 adicionado por el artículo 3 del Decreto 2037 del 2019 o la norma que lo modifique, adicione o sustituya. En caso de que se suministre información adicional referente al riesgo, amenaza o vulnerabilidad que no hubiere sido tenida en cuenta dentro del análisis, los documentos pertinentes deberán ser aportados durante la sesión.
+
+2. Validar la determinación de nivel del riesgo de manera motivada, de las personas a las cuales se les activo ruta de protección, a partir de la información provista por el CTAR, por la Policía Nacional y por la Unidad de Seguridad y Aseguramiento Tecnológico e Informático de la Contraloría General de la Republica, según corresponda.
+
+3. Analizar la recomendación de medidas de protección adicionales que presente la Policía Nacional, a través de la Dirección de Protección y Servicios Especiales, para lo cual se tendrá en cuenta la justificación que realice esta institución sobre la necesidad de la medida y la existencia de un nivel de riesgo extraordinario o extremo, en relación con la población establecida en el artículo 2.4.1.2.7. En caso de contar con información adicional referente al riesgo, amenaza o vulnerabilidad que no hubiere sido tenida en cuenta dentro del análisis, los documentos pertinentes deberán ser aportados durante la sesión.
+
+4. Recomendar al director de la Unidad Nacional de Protección las medidas de protección a cargo de la entidad, así como la temporalidad de las mismas.
+
+5. Recomendar al director de la Unidad Nacional de Protección, el ajuste de las medidas de prevención y protección, cuando a ello hubiere lugar, en virtud de los resultados de la revaluación del riesgo realizada por la Unidad Nacional de Protección, la Policía Nacional y la Unidad de Seguridad y Tecnológico e Informático de la Contraloría General de la Republica, según corresponda.
+
+6. Dar traslado a las correspondientes entidades, para la adopción de medidas complementarias que tengan impacto en la mitigación del riesgo, en el marco de sus competencias.
+
+7. Recomendar al director de la Unidad Nacional de Protección, cuando hubiere lugar a ello, que le solicite al beneficiario dar estricto cumplimiento a los compromisos y demás recomendaciones para el uso adecuado de las medidas de protección, en el marco de las acciones preventivas del programa, conforme a lo señalado en el numeral 26 del artículo 2.4.1.2.3 del presente decreto.
+
+8. Recomendar al director de la Unidad Nacional de Protección, el llamado de atención, la suspensión o finalización de las medidas de protección a cargo de la entidad, cuando a ello hubiere lugar, incluso, en casos de inactivación temporal o definitiva de la orden de trabajo del estudio del riesgo.
+
+9. Recomendar la temporalidad de la suspensión de las medidas de protección por el uso indebido de las mismas.
+
+10. Darse su propio reglamento.
+
+11. Las demás que sean necesarias para el desarrollo de su objeto.
+
+PARÁGRAFO 1. La Secretaria Técnica del CERREM de Servidores y Ex servidores Públicos, será ejercida por un funcionario de la Unidad Nacional de Protección.
+
+PARÁGRAFO 2. Las deliberaciones, recomendaciones y propuestas del Comité estarán sujetas a reserva de conformidad con lo establecido en el artículo 83 de Ley 418 de 1997, en concordancia con el principio de reserva legal señalado en el artículo 2.4.1.2.2 del presente Decreto, y serán consignadas en un acta, que suscribirán quien lo preside y el secretario técnico y servirán de soporte a la decisión que adopte el Director de la Unidad Nacional de Protección mediante acto administrativo motivado.
+
+Los votos emitidos por los miembros del Comité serán sujeto de reserva, con las excepciones dispuestas por la Constitución y la Ley.
+
+En el mismo sentido, se aplicaran las excepciones al acceso a la información que establece el Titulo III de la Ley 1712 de 2014 para las personas que no representen entidades públicas en el CERREM, así como las disposiciones indicadas en la Ley Estatutaria 1621 de 2013, en lo que resulte procedente .
+
+PARÁGRAFO 3. La Dirección de Protección y Servicios Especiales de la Policía Nacional deberá presentar por escrito la justificación de medidas de protección adicionales de que trata el numeral 3 de este artículo, la cual servirá como soporte técnico del acto administrativo que emita el director de la Unidad Nacional de Protección.
+
+PARÁGRAFO 4. El Comité sesionara de manera ordinaria, conforme lo establecido por el mismo, y de forma extraordinaria, cuando las necesidades de protección lo ameriten, previa convocatoria efectuada por quien lo preside o su secretario técnico.
+
+PARÁGRAFO 5. Habrá quorum de liberatorio cuando asistan tres de sus miembros. Habrá quorum decisorio con el voto de la mitad más uno de los miembros asistentes"
+
+(Adicionado por el Art. 13 del Decreto 1139 de 2021)
+
 ## art:2.4.1.2.39 — Procedimientos de la estrategia de prevención
 
 La Estrategia de Prevención tomara en cuenta los siguientes criterios de procedimiento, que deberán adoptarse a las condiciones propias de la región y del grupo poblacional respectivo:
@@ -9838,8 +9004,6 @@ La Estrategia de Prevención tomara en cuenta los siguientes criterios de proced
 8. Socialización de los resultados de los planes de prevención y protección, especialmente con las poblaciones y comunidades objeto de los mismos.
 
 (Decreto 4912 de 2011, Art. 39)
-
-ARTÍCULO
 
 ## art:2.4.1.2.40 — Procedimiento ordinario del programa de protección
 
@@ -9887,8 +9051,6 @@ PARÁGRAFO 6. En desarrollo de las evaluaciones de riesgo, las entidades públic
 
 (Decreto 4912 de 2011, Art. 1; Decreto 1225 de 2012, Art. 7 y 8)
 
-ARTÍCULO
-
 ## art:2.4.1.2.41 — Procedimiento para la activación de la presunción constitucional de riesgo
 
 Se aplicará la presunción constitucional de riesgo, a favor de las víctimas de desplazamiento forzado, incluidas víctimas en los términos del ARTÍCULO 3 de la Ley 1448 de 2011, que intervienen en procesos de restitución de tierras, en caso de manifestar por si o por interpuesta persona que se encuentran en situación de riesgo extraordinario o extremo, en virtud de lo cual:
@@ -9905,8 +9067,6 @@ Se aplicará la presunción constitucional de riesgo, a favor de las víctimas d
 
 (Decreto 4912 de 2011, Art. 41)
 
-ARTÍCULO
-
 ## art:2.4.1.2.42 — Ruta de la Protección
 
 En ejercicio de las atribuciones que en el Programa de Prevención y Protección deben desarrollar las gobernaciones y alcaldías distritales o municipales, se implementara una ruta de protección específica para proteger oportuna y efectivamente los derechos a la vida, libertad, integridad o seguridad personal de líderes, dirigentes, representantes y población objeto de este programa de protección, mediante la articulación y coordinación del nivel municipal, departamental y nacional y en aplicación de los principios de subsidiariedad, complementariedad e inmediatez.
@@ -9916,8 +9076,6 @@ Para activar esta ruta de protección, los líderes, dirigentes representantes y
 (Modificado por el Art. 15 del Decreto 1139 de 2021)
 
 (Decreto 4912 de 2011, Art. 42)
-
-ARTÍCULO
 
 ## art:2.4.1.2.43 — Procedimiento para la implementación de las medidas de protección para personas en razón del cargo
 
@@ -9944,8 +9102,6 @@ PARÁGRAFO 3. El procedimiento de evaluación del riesgo establecido en el prese
 PARÁGRAFO 4. Las medidas de protección podrán ser finalizadas con la separación del cargo, sin que para ello se requiera de una nueva evaluación del riesgo.
 
 (Decreto 4912 de 2011, Art. 43; Decreto 1225 de 2012, Art. 9)
-
-ARTÍCULO
 
 ## art:2.4.1.2.44 — Suspensión de las medidas de protección
 
@@ -10005,8 +9161,6 @@ PARÁGRAFO. La reincidencia en el uso indebido de las medidas definidas en el nu
 
 (Decreto 4912 de 2011, Art. 44)
 
-ARTÍCULO
-
 ## art:2.4.1.2.45 — Procedimiento para llamado de atención, suspensión de medidas y finalización por reincidencia
 
 A partir de que el Programa de Prevención y Protección tenga conocimiento de una noticia formal o informal del presunto uso indebido de las medidas de protección o en desarrollo de sus funciones, identifique que un protegido está incurriendo en alguna de las conductas de uso indebido, conforme al artículo 2.4.1.2.44, frente a una o varias de las medidas que le fueron asignadas, se surtirá el siguiente procedimiento:
@@ -10042,8 +9196,6 @@ PARÁGRAFO 4. En ningún caso procede la acumulación de procesos con posteriori
 (Modificado por el Art. 18 del Decreto 1139 de 2021)
 
 (Decreto 4912 de 2011, Art. 45)
-
-ARTÍCULO
 
 ## art:2.4.1.2.46 — Finalización de las medidas de protección
 
@@ -10093,8 +9245,6 @@ PARÁGRAFO 3. El Director de la Unidad Nacional de Protección podrá, de manera
 
 (Decreto 4912 de 2011, Art. 46; Decreto 122 5 de 2012, Art. 10; Decreto 567 de 2016, Art. 8)
 
-ARTÍCULO
-
 ## art:2.4.1.2.47 — Compromisos del Programa de Prevención y Protección
 
 Corresponde a la Unidad Nacional de Protección y la Policía Nacional:
@@ -10108,8 +9258,6 @@ Corresponde a la Unidad Nacional de Protección y la Policía Nacional:
 4. Notificar las decisiones adoptadas.
 
 (Decreto 4912 de 2011, Art. 47)
-
-ARTÍCULO
 
 ## art:2.4.1.2.48 — Compromisos del protegido
 
@@ -10159,15 +9307,11 @@ Son compromisos de las personas protegidas por el Programa:
 
 (Decreto 4912 de 2011, Art. 48)
 
-ARTÍCULO
-
 ## art:2.4.1.2.49 — Cooperación
 
 En desarrollo de las actividades de los programas de prevención y protección, los ejecutores del mismo podrán celebrar convenios de cooperación con otras entidades públicas o privadas y con organismos nacionales e internacionales, con sujeción a las normas legales vigentes, con el fin de recibir asistencia técnica o apoyo a través del suministro de recursos y medios destinados a la protección de los beneficiarios.
 
 (Decreto 4912 de 2011, Art. 49)
-
-ARTÍCULO
 
 ## art:2.4.1.2.50 — Reglamentación
 
@@ -10175,15 +9319,11 @@ El Ministerio del Interior reglamentara lo pertinente a la aplicación efectiva 
 
 (Decreto 4912 de 2011, Art. 50)
 
-ARTÍCULO
-
 ## art:2.4.1.2.51 — No inclusión
 
 El Programa de Prevención y Protección, no incluye el Programa de Protección a Víctimas y Testigos de la Ley 975 de 2005 ni el Programa de Protección y Asistencia a Víctimas y Testigos e intervinientes en el Proceso Penal de la Fiscalía General de la Nación."
 
 (Decreto 4912 de 2011, Art. 51)
-
-ARTÍCULO
 
 ## art:2.4.1.2.52 — Vigencia y Transición
 
@@ -10195,15 +9335,11 @@ CAPÍTULO 3
 
 Programa Especial de Protección Integral para dirigentes, miembros y sobre vivientes de la Unión Patriótica y el Partido Comunista Colombiano
 
-ARTÍCULO
-
 ## art:2.4.1.3.1 — Objeto
 
 El presente Capítulo tiene por objeto unificar el Programa Especial de Protección Integral para dirigentes, miembros y sobrevivientes de la Unión Patriótica y del Partido Comunista Colombiano, con el fin de atender los requerimientos de protección presentados por aquellas personas que, por razones de vinculación ideológica o partidista, con una de tales agrupaciones políticas, se encuentren en una situación de riesgo extraordinario o extremo.
 
 (Decreto 2096 de 2012, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.3.2 — Principios
 
@@ -10240,8 +9376,6 @@ Además de los principios constitucionales y legales que orientan la función ad
 15. Subsidiariedad: El municipio, o en su defecto el departamento, de acuerdo con sus competencias y capacidades institucionales, administrativas y presupuestales, y en el marco de la colaboración administrativa y el principio de subsidiariedad, adoptara las medidas necesarias para prevenir la violación de los derechos a la vida, la libertad, la integridad y la seguridad o la protección de los derechos de esta población.
 
 (Decreto 2096 de 2012, Art. 2)
-
-ARTÍCULO
 
 ## art:2.4.1.3.3 — Definiciones
 
@@ -10287,15 +9421,11 @@ PARÁGRAFO. La protección de los miembros, dirigentes y sobrevivientes de la Un
 
 (Decreto 2096 de 2012, Art. 3)
 
-ARTÍCULO
-
 ## art:2.4.1.3.4 — Medidas de Emergencia
 
 En casos de riesgo inminente y excepcional, el director de la Unidad Nacional de Protección podrá adoptar, sin necesidad de evaluación de riesgo, contemplando un enfoque diferencial, medidas provisionales de protección para las personas beneficiarias del Programa Especial de Protección Integral e informara de las mismas al Comité de Evaluación de Riesgo y Recomendación de Medidas (Corren) en la siguiente sesión, con el fin de que este recomiende las medidas definitivas, si es del caso.
 
 (Decreto 2096 de 2012, Art. 4)
-
-ARTÍCULO
 
 ## art:2.4.1.3.5 — Medidas de Prevención
 
@@ -10308,8 +9438,6 @@ Son medidas de prevención las siguientes:
 3. Revista policía/: Es la actividad desarrollada por la Policía Nacional con un enfoque particular, preventivo y disuasivo, encaminada a establecer una interlocución periódica con el solicitante de la medida.
 
 (Decreto 2096 de 2012, Art. 5)
-
-ARTÍCULO
 
 ## art:2.4.1.3.6 — Medidas de protección
 
@@ -10389,15 +9517,11 @@ PARÁGRAFO 3. Las medidas de que tratan los numerales 1, 2, 3, literal a), y 7 d
 
 (Decreto 2096 de 2012, Art. 6)
 
-ARTÍCULO
-
 ## art:2.4.1.3.7 — Procedimientos
 
 Los procedimientos para hacer efectivas las medidas dispuestas en los artículos 2.4.1.3.4 a 2.4.1.3.6, serán adoptados por el Corren, en el marco de los principios, definiciones y propósitos que en el presente Capítulo se establecen.
 
 (Decreto 2096 de 2012, Art. 7)
-
-ARTÍCULO
 
 ## art:2.4.1.3.8 — Conformación del Comité de Evaluación de Riesgo y Recomendación de Medidas para la UP Y PCC
 
@@ -10437,23 +9561,17 @@ PARÁGRAFO 3. Participara cualquier autoridad pública a nivel nacional departam
 
 (Decreto 2096 de 2012, Art. 8)
 
-ARTÍCULO
-
 ## art:2.4.1.3.9 — Reuniones
 
 El Comité se reunirá de manera ordinaria cada treinta (30) días, previa citación por parte del director de la Unidad Nacional de Protección, por conducto de la Dirección de Derechos Humanos como Secretaria Técnica, y de manera extraordinaria cuando así lo solicite cualquiera de sus miembros.
 
 (Decreto 2096 de 2012, Art. 9)
 
-ARTÍCULO
-
 ## art:2.4.1.3.10 — Quorum
 
 El Comité podrá deliberar con la mitad más uno de sus integrantes y las decisiones se adoptarán por consenso, salvo situaciones excepcionales en las que el propio Comité considere necesario decidir por votación, en cuyo caso la decisión correspondiente se adoptara por mayoría simple de los asistentes.
 
 (Decreto 2096 de 2012, Art. 10)
-
-ARTÍCULO
 
 ## art:2.4.1.3.11 — Grupo de Valoración Preliminar
 
@@ -10487,8 +9605,6 @@ PARÁGRAFO 2. Participara cualquier autoridad pública a nivel nacional departam
 
 (Decreto 2096 de 2012, Art. 11)
 
-ARTÍCULO
-
 ## art:2.4.1.3.12 — Medidas de Restablecimiento y Rehabilitación
 
 Son aquellas acciones que emprende o apoya el Estado, y que tienen por finalidad hacer cesar o mitigar las consecuencias de la amenaza o vulneración de los Derechos Humanos de la población objeto del Programa y para restablecer las condiciones alteradas por la situación de riesgo extraordinario o extremo al que han sido sometidas; entre las cuales están las siguientes:
@@ -10503,8 +9619,6 @@ PARÁGRAFO. La Dirección de Derechos Humanos del Ministerio del Interior, con e
 
 (Decreto 2096 de 2012, Art. 12)
 
-ARTÍCULO
-
 ## art:2.4.1.3.13 — Marco de aplicación
 
 En aquellos aspectos no regulados por el presente Capítulo, se aplicará, en lo que resulte pertinente, las disposiciones del Capítulo anterior y aquellas disposiciones que los modifiquen, adicionen o deroguen.
@@ -10516,8 +9630,6 @@ CAPÍTULO 4
 Programa de protección especializada de seguridad y protección
 
 (Adicionado por el Decreto de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.4.1 — 
 
@@ -10539,13 +9651,9 @@ Durante el Cese al Fuego y de Hostilidades Bilateral y Definitivo (CFHBD) y Deja
 
 La Policía Nacional brindara la protección pertinente en el ámbito nacional, regional y local.
 
-ARTÍCULO
-
 ## art:2.4.1.4.2 — Atención a la población objeto
 
 La población objeto del presente capítulo será atendida por la Subdirección Especializada de Seguridad y Protección de la Unidad Nacional de Protección en todo lo relacionado con sus medidas materiales y de prevención, sin perjuicio de las competencias de las demás entidades pertinentes.
-
-ARTÍCULO
 
 ## art:2.4.1.4.3 — 4.3
 
@@ -10583,8 +9691,6 @@ Principios: Además de los principios contenidos en el Acuerdo Final, así como 
 
 16. Nexo causal: La vinculación al programa de protección estará fundamentada en la conexidad directa entre el riesgo extraordinario o extremo y el ejercicio de las actividades, funciones políticas o vinculación ideológica o partidista.
 
-ARTÍCULO
-
 ## art:2.4.1.4.4 — Esquemas de seguridad y protección
 
 Los esquemas de seguridad y protección de la población objeto del presente Capítulo harán parte del cuerpo de seguridad y protección, tendrán en cuenta el enfoque de género para su conformación, serán de conformación mixta, integrados por personal de confianza del nuevo partido o movimiento político que surja del tránsito de las FARC-EP a la actividad legal.
@@ -10592,8 +9698,6 @@ Los esquemas de seguridad y protección de la población objeto del presente Cap
 El Cuerpo de Seguridad y Protección tendrá enlace directo y coordinación con la Policía Nacional -Acuerdo Final punto 3.4.7.4.3- Esta a su vez designará enlaces para los esquemas de seguridad y protección a nivel nacional, departamental y municipal, según el esquema operativo establecido, buscando entre otros facilitar la movilidad, prevención y la seguridad de los protegidos.
 
 El cuerpo de Seguridad y Protección estará dotado de las armas más adecuadas y pertinentes para asegurar la integridad de la población objeto de este programa. Contará con la logística necesaria para su operación, equipo e intendencia requerida, para la protección de la población objeto de este Programa.
-
-ARTÍCULO
 
 ## art:2.4.1.4.5 — Mesa Técnica de Seguridad y Protección
 
@@ -10614,8 +9718,6 @@ Hoja No. 4
 f) Cinco delegados de las FARC-EP o del nuevo movimiento o partido político que surja del tránsito de las FARC-EP a la actividad política legal.
 
 PARÁGRAFO: Asistirán como invitados permanentes el o la representante de la Oficina del Alto Comisionado de Derechos Humanos de la Organización de Naciones Unidas en Colombia. Así mismo podrán participar como invitados, con derecho a voz, las personas o entidades que los miembros de la Mesa Técnica consideren.
-
-ARTÍCULO
 
 ## art:2.4.1.4.6 — 4.6
 
@@ -10651,8 +9753,6 @@ n) En concordancia con el Programa Integral de Protección, establecer las medid
 
 o) Darse su propio reglamento interno
 
-ARTÍCULO
-
 ## art:2.4.1.4.7 — Medidas de Protección material
 
 Son medidas de protección material para la población objeto de este programa, las siguientes:
@@ -10681,8 +9781,6 @@ h) Medios de movilización: Es el recurso que se otorga a una persona protegida 
 
 PARÁGRAFO. Se podrán adoptar otras medidas de protección que se consideren necesarias para garantizar la protección efectiva de la población objeto del presente capítulo, conforme al protocolo de seguridad y protección.
 
-ARTÍCULO
-
 ## art:2.4.1.4.8 — Procedimiento para el estudio y aprobación de medidas materiales de protección
 
 El procedimiento general para la implementación de medidas materiales de protección es el siguiente.
@@ -10701,15 +9799,11 @@ El procedimiento general para la implementación de medidas materiales de protec
 
 7. En caso de ser negativa la respuesta a la solicitud, el interesado podrá recurrir la decisión ante la Mesa Técnica. Dicho procedimiento también operará en caso de que este considere que la medida otorgada es insuficiente o inadecuada al nivel de riesgo.
 
-ARTÍCULO
-
 ## art:2.4.1.4.9 — Tramite de Emergencia
 
 El director o el Subdirector Especializado de Seguridad y Protección de la Unidad Nacional de Protección podrá adoptar, en caso de riesgo inminente y excepcional, todas las medidas necesarias para proteger la vida e integridad física de una persona perteneciente a la población objeto del presente Capítulo. Lo anterior sin necesidad de concepto previo por parte de la Mesa Técnica.
 
 Dentro de los diez (10) días siguientes a la aplicación de las medidas, se deberá informar a la Mesa Técnica. La Mesa Técnica analizará las medidas adoptadas y las podrá ratificar, modificar o eliminar según el caso,
-
-ARTÍCULO
 
 ## art:2.4.1.4.10 — Marco de Aplicación
 
@@ -10723,23 +9817,17 @@ Ruta de protección colectiva de los derechos a la vida, la integridad, la liber
 
 (Decreto 2078 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.5.1 — Objeto
 
 Adoptar la Ruta de Protección Colectiva del Programa de Prevención y Protección del Ministerio del Interior y la Unidad Nacional de Protección.
 
 (Decreto 2078 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.5.2 — Coordinación
 
 La ruta de protección colectiva de grupos y comunidades estará bajo la coordinación de la Dirección de Derechos Humanos del Ministerio del Interior y la Unidad Nacional de Protección.
 
 (Decreto 2078 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.5.3 — Protección colectiva de grupos y comunidades
 
@@ -10767,15 +9855,11 @@ PARÁGRAFO. Cuando una entidad o corporación pública cuente con medidas de pro
 
 (Adicionado por el Art. 3 del Decreto 0085 de 2024)
 
-ARTÍCULO
-
 ## art:2.4.1.5.4 — Medidas de emergencia
 
 En caso de riesgo inminente y excepcional, la Unidad Nacional de Protección efectuará una valoración inicial del riesgo, la cual será comunicada al Ministerio del Interior. Esta última entidad impulsara y coordinara las instancias competentes, acciones de respuesta inmediata para la protección colectiva e informara de las mismas al CERREM Colectivo.
 
 (Decreto 2078 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.5.5 — Medidas de protección colectiva
 
@@ -10817,8 +9901,6 @@ PARÁGRAFO 3. Las medidas materiales de competencia de la Unidad Nacional de Pro
 
 (Decreto 2078 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.5.6 — Mecanismo de Seguimiento
 
 Con el fin de efectuar seguimiento periódico a la efectividad de la implementación de las medidas de protección colectiva, la Dirección de Derechos Humanos del Ministerio del Interior conformara un equipo de seguimiento y evaluación que, entre otras acciones, solicitara información a los entes territoriales y demás entidades con competencia.
@@ -10831,7 +9913,7 @@ El equipo de seguimiento y evaluación tendrá en cuenta como insumo los informe
 
 (Decreto 2078 de 2017, art. 1)
 
-## art:2.4.1.5.7 — Procedimiento del programa de protección para las solicitudes de medidas colectivas
+## art:2.4.1.5.7p — rocedimiento del programa de protección para las solicitudes de medidas colectivas
 
 Las evaluaciones de riesgo, en el marco de las solicitudes de medidas colectivas, serán realizadas en el mismo plazo que se establece para la evaluación de riesgo individual, una vez se tenga el consentimiento de la comunidad o grupo objeto de la evaluación. Para el efecto, el procedimiento será el siguiente:
 
@@ -10871,15 +9953,11 @@ El desistimiento no se atenderá si se advierte la existencia de presiones exter
 
 (Decreto 2078 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.5.8 — Temporalidad
 
 Las medidas integrales de protección colectiva son temporales y se mantendrán en tanto persista el riesgo, de acuerdo al informe de seguimiento descrito en el presente decreto, sin perjuicio de aquellas que por su naturaleza tienen vocación de permanencia.
 
 (Decreto 2078 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.5.9 — Responsabilidades de la Dirección de Derechos Humanos del Ministerio del Interior en la ruta de protección colectiva
 
@@ -10894,8 +9972,6 @@ La Dirección de Derechos Humanos del Ministerio del Interior tendrá a su cargo
 4. Informar periódicamente al CERREM Colectivo sobre la evaluación de la oportunidad, idoneidad y eficacia de las medidas de protección aprobadas por el mismo Comité.
 
 (Decreto 2078 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.5.10 — Responsabilidades de la Unidad Nacional de Protección en la ruta de protección colectiva
 
@@ -10916,8 +9992,6 @@ PARÁGRAFO. En materia de protección colectiva, el Programa de Protección a ca
 (Modificado por el Art. 25 del Decreto 1139 de 2021)
 
 (Decreto 2078 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.5.11 — Conformación del Comité de Evaluación de Riesgo y Recomendación de medidas de protección colectiva - CERREM Colectivo
 
@@ -10943,8 +10017,6 @@ PARÁGRAFO 3. La delegación que hagan los miembros para las sesiones del CERREM
 
 (Decreto 2078 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.5.12 — Invitados permanentes al CERREM Colectivo
 
 Serán invitados permanentes, con derecho a voz, pero sin voto al Comité de Evaluación de Riesgo y Recomendación de medidas de protección colectiva - CERREM Colectivo, las siguientes personas:
@@ -10967,8 +10039,6 @@ PARÁGRAFO. En los casos en los cuales se identifique que la adopción de las me
 
 (Decreto 2078 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.5.13 — Funciones del Comité de Evaluación del Riesgo y Recomendación de medidas de protección Colectiva - CERREM Colectivo
 
 El Comité de Evaluación del Riesgo y Recomendación de Medidas - CERREM Colectivo, tendrá las funciones establecidas en el artículo 2.4.1.2.38 del presente decreto y, adicionalmente, las siguientes:
@@ -10989,23 +10059,17 @@ CAPÍTULO 6
 
 Prevención y protección de defensores de derechos humanos, líderes y lideresas de organizaciones y movimientos sociales y comunales, y defensores y defensoras de derechos humanos por parte de gobernadores y alcaldes
 
-ARTÍCULO
-
 ## art:2.4.1.6.1 — Objeto
 
 Especificar los niveles de coordinación entre los gobernadores y alcaldes como agentes del presidente de la República en relación con la protección individual y colectiva de líderes y lideresas de organizaciones y movimientos sociales y comunales, y defensores y defensoras de derechos humanos que se encuentren en situación de riesgo.
 
 (Decreto 2252 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.2 — Primeros respondientes
 
 Las gobernaciones y alcaldías, en el marco de sus competencias, con el apoyo del Ministerio del Interior, del Ministerio de Defensa Nacional y del Ministerio Público, actuaran como primeros respondientes en la detección temprana de situaciones de riesgo contra líderes y lideresas de organizaciones y movimientos sociales y comunales, y defensores y defensoras de derechos humanos.
 
 (Decreto 2252 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.3 — Responsabilidades a nivel territorial
 
@@ -11033,8 +10097,6 @@ PARÁGRAFO 1. Las medidas que requieran diseño, ajuste o implementación tendr�
 
 (Decreto 2252 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.6.4 — Inspectores de Policía y Corregidores
 
 Los Inspectores de Policía y Corregidores, como autoridades de policía, actuaran como agentes de convivencia para la prevención de violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades, y protección individual y colectiva de líderes y lideresas de organizaciones y movimientos sociales y comunales, y defensores y defensoras de derechos humanos que se encuentren en situación de riesgo.
@@ -11042,8 +10104,6 @@ Los Inspectores de Policía y Corregidores, como autoridades de policía, actuar
 Para los efectos previstos en el numeral 7 del artículo 2.4.1.6.3 de este decreto, los Inspectores de Policía y Corregidores mantendrán interlocución permanente en primer lugar con los alcaldes y gobernadores, respectivamente, y subsidiariamente con el Gobierno Nacional.
 
 (Decreto 2252 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.6.5 — Comandantes de estación, subestación y de centro de atención inmediata de Policía
 
@@ -11063,8 +10123,6 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.4.1.7.1.1 — Objeto
 
 El presente capítulo tiene por objeto crear y reglamentar el Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios, con el propósito de definir y adoptar medidas de protección integral para las mismas en los territorios, incluyendo a los líderes, lideresas, dirigentes, representantes y activistas de organizaciones sociales, populares, étnicas, de mujeres, de género, ambientales, comunales, de los sectores LGBTI y defensoras de derechos humanos en los territorios.
@@ -11072,8 +10130,6 @@ El presente capítulo tiene por objeto crear y reglamentar el Programa Integral 
 Las medidas integrales de seguridad y protección adoptadas en el marco del presente Programa, tienen como propósito la prevención de violaciones, protección, respeto y garantía de los derechos humanos a la vida, la integridad, la libertad y la seguridad de comunidades y organizaciones en los territorios.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.1.2 — Creación del Programa
 
@@ -11089,8 +10145,6 @@ PARÁGRAFO 3. Las medidas que se adopten para la población objeto del presente 
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.1.3 — Población sujeta
 
 Serán beneficiarios del presente Capítulo las comunidades y organizaciones sociales, populares, étnicas, de mujeres, de género, ambientales, comunales, de los sectores LGBTI y defensoras de derechos humanos en los territorios, así como sus líderes, lideresas, dirigentes, representantes y activistas.
@@ -11098,8 +10152,6 @@ Serán beneficiarios del presente Capítulo las comunidades y organizaciones soc
 Los líderes, lideresas, dirigentes, representantes y activistas de organizaciones sociales, populares, étnicas, de mujeres, de género, ambientales, comunales, de los sectores LGBTI y defensoras de derechos humanos que se encuentren en situación de riesgo o amenaza, serán beneficiarios de este Programa como sujeto colectivo y las medidas integrales contempladas en este capítulo, serán asignadas de manera colectiva.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.1.4 — Objetivos
 
@@ -11115,8 +10167,6 @@ Los objetivos del Programa Integral de Seguridad y Protección para las Comunida
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.1.5 — Componentes
 
 El Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios, tendrá los siguientes componentes:
@@ -11131,8 +10181,6 @@ El Programa Integral de Seguridad y Protección para las Comunidades y Organizac
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.1.6 — Ámbito de aplicación
 
 El Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios tendrá aplicación en todo el territorio nacional. La implementación territorial del Programa responderá al resultado de la aplicación de los criterios de priorización definidos por los comités técnicos objeto de este programa.
@@ -11140,8 +10188,6 @@ El Programa Integral de Seguridad y Protección para las Comunidades y Organizac
 PARÁGRAFO. La priorización y focalización será revisada anualmente por parte de los comités objeto del presente capítulo, y podrá articularse con el Sistema de Prevención y Alerta para la Reacción Rápida de la Defensoría del Pueblo y la Comisión Intersectorial para la Respuesta Rápida a las Alertas Tempranas (CIPRAT).
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.1.7 — Principios
 
@@ -11193,8 +10239,6 @@ Las garantías de no repetición, incluyen medidas dirigidas a los grupos que ha
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.1.8 — Enfoques
 
 Las medidas que se adopten en el marco del Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios, deberán atender los siguientes enfoques:
@@ -11208,8 +10252,6 @@ Las medidas que se adopten en el marco del Programa Integral de Seguridad y Prot
 4. Enfoque Territorial y Diferencial: Las medidas que se adopten deben tener un enfoque territorial y diferencial que tenga en cuenta los riesgos, las amenazas, particularidades y experiencias de las personas en su diversidad, de las comunidades y los territorios, con el fin de poner en marcha los planes y programas de construcción de paz y dar garantías a la población, para así contribuir a una mayor gobernabilidad, legitimidad y al goce efectivo de los derechos y libertades de las ciudadanas y ciudadanos.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.1.9 — Definiciones
 
@@ -11257,8 +10299,6 @@ SECCIÓN 2
 
 Medidas integrales de prevención, seguridad y protección
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.1 — Componente de prevención, seguridad y protección
 
 El componente de prevención, seguridad y protección del presente Programa, está integrado por todas aquellas medidas políticas y de gestión orientadas a evitar la materialización de violaciones a los derechos humanos a la vida, libertad, integridad y seguridad contra comunidades y organizaciones en los territorios, sin perjuicio de aquellas medidas ya existentes o de otras que pudieran adoptar las autoridades diferentes a las contempladas en el presente capítulo.
@@ -11266,8 +10306,6 @@ El componente de prevención, seguridad y protección del presente Programa, est
 Para los efectos del presente Programa, se deberá articular con el Sistema de Prevención y Alerta para la Reacción Rápida, del mismo modo para el componente de prevención serán aplicables las normas contenidas en el Titulo 3 de la Parte 4 del Libro 2 del presente decreto.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.2.2 — Elaboración e implementación de los Planes Integrales de Prevención
 
@@ -11280,8 +10318,6 @@ PARÁGRAFO 1. El Ministerio del Interior impulsara y prestara asistencia técnic
 PARÁGRAFO 2. La Fuerza Pública con jurisdicción en el territorio, según sea el caso, deberá participar en la elaboración de los Planes Integrales de Prevención, bajo la coordinación de las gobernaciones y alcaldías.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.2.3 — Ruta Metodológica de los Planes Integrales de Prevención
 
@@ -11303,8 +10339,6 @@ PARÁGRAFO. El Ministerio del Interior elaborará una Guía metodológica para l
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.4 — Medidas de la Fuerza Pública
 
 La Fuerza Pública con jurisdicción en la zona contara con delegados de las unidades militares y de policía quienes mantendrán un canal de comunicación expedito con las comunidades y organizaciones objeto del presente Capítulo.
@@ -11313,8 +10347,6 @@ De igual manera, se establecerán reuniones periódicas de seguimiento sobre la 
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.5 — Evaluación al Plan Integral de Prevención
 
 La evaluación de la persistencia, superación o emergencia de nuevos factores de riesgo, así como la adecuada ejecución, modificación o cesación al plan de prevención se hará anualmente, a instancias de las gobernaciones y/o alcaldías, con la participación de las comunidades y organizaciones en los territorios, la Fuerza Pública y el Ministerio Público con jurisdicción en el respetivo ente territorial. El Ministerio del Interior podrá participar en la evaluación, con la concurrencia de las entidades nacionales que tengan relación con el respectivo Plan Integral de Prevención.
@@ -11322,8 +10354,6 @@ La evaluación de la persistencia, superación o emergencia de nuevos factores d
 PARÁGRAFO. La Fuerza Pública con jurisdicción en el territorio deberá entregar los insumos periódicos a los entes territoriales para la evaluación y seguimiento de acuerdo a los compromisos y competencias fijadas en los Planes Integrales de Prevención.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.2.6 — Fomento de condiciones para la convivencia y la prevención
 
@@ -11363,23 +10393,17 @@ Las autoridades municipales o distritales, departamentales y del orden nacional 
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.7 — Acceso comunitario a internet
 
 Las autoridades municipales o distritales, departamentales y del orden nacional impulsarán y promoverán la conectividad. Las autoridades podrán impulsar la promoción de condiciones de uso de los instrumentos digitales para la información pública y la oferta de acceso comunitario a internet.
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.8 — Reconocimiento a la labor de las mujeres y sus organizaciones
 
 Las autoridades municipales o distritales, departamentales y del orden nacional podrán adoptar medidas orientadas a promover y divulgar la labor de las mujeres y sus organizaciones, y el respeto al derecho de las mujeres a una vida libre de violencias. Para tal fin, impulsaran mecanismos de prevención, articulación y ajuste de medidas y procesos de sensibilización y formación a servidores públicos.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.2.9 — Medidas para la prevención y superación de la estigmatización y discriminación
 
@@ -11405,8 +10429,6 @@ Las autoridades municipales o distritales, departamentales y del orden nacional 
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.10 — Despliegue preventivo de seguridad
 
 El Gobierno Nacional propenderá porque el control territorial integral incluya, las siguientes acciones:
@@ -11425,8 +10447,6 @@ El Gobierno Nacional propenderá porque el control territorial integral incluya,
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.11 — Complementariedad y concurrencia de las entidades
 
 La Unidad Nacional de Protección, el Ministerio del Interior, la Policía Nacional a través de su modelo de planeación y gestión operacional del servicio de policía, y demás autoridades del orden nacional, los departamentos, los municipios o distritos e instancias creadas en el marco de la implementación del Acuerdo Final para la Paz, aportaran las medidas de prevención y protección de acuerdo con sus competencias y capacidades institucionales, administrativas y presupuestales, para la garantía efectiva de los derechos a la vida, libertad, integridad y seguridad personal de su población objeto de conformidad con el Decreto Ley 895 de 2017 y demás normas vigentes.
@@ -11441,15 +10461,11 @@ SECCIÓN 3
 
 Promotores/as comunitarios/as de paz y convivencia
 
-ARTÍCULO
-
 ## art:2.4.1.7.3.1 — Componente Promotores/as Comunitarios/as de Paz y Convivencia
 
 El componente de Promotores/as Comunitarios de Paz y Convivencia, estará a cargo del Ministerio del Interior en coordinación con el Ministerio de Justicia y del Derecho, con el propósito de impulsar los diferentes mecanismos alternativos y extrajudiciales de solución de conflictos en los territorios, promover la defensa de los derechos humanos y estimular la convivencia comunitaria, en las zonas previamente definidas para ello. Este componente hace parte de las medidas de prevención, protección, respeto y garantía de los Derechos Humanos para las comunidades y organizaciones en los territorios.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.3.2 — Definición del Promotor/a Comunitario/a de Paz y Convivencia
 
@@ -11459,15 +10475,11 @@ Los Promotores/as Comunitarios de Paz y Convivencia, estarán encargados de impu
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.3.3 — Articulación con otras figuras de justica (sic) comunitaria y resolución de conflictos
 
 En los seis (6) meses siguientes a la entrada en vigencia del presente decreto, el Ministerio de Justicia y del Derecho, en coordinación con el Ministerio del Interior, definirán un mecanismo de articulación de la figura del Promotor/a Comunitario/a de Paz y Convivencia con otras figuras de justicia comunitaria y resolución de conflictos.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.3.4 — Implementación del componente Promotor/a Comunitario/a de Paz y Convivencia
 
@@ -11503,8 +10515,6 @@ Los y las candidatas a Promotores/as Comunitarios de Paz y Convivencia, deben cu
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.3.5 — acompañamiento
 
 Durante todo el proceso y aun después de adelantada la implementación, el Ministerio del Interior y el Ministerio de Justicia y del Derecho harán constante acompañamiento a los/as Promotores/as Comunitarios de Paz y Convivencia para fortalecer y apoyar la labor desempeñada en las comunidades. Las posibles dificultades y aprendizajes en el proceso serán informados al Comité Técnico del componente de Promotores/as Comunitarios de Paz y Convivencia.
@@ -11514,8 +10524,6 @@ PARÁGRAFO 1. Los entes territoriales podrán apropiar recursos en sus planes de
 PARÁGRAFO 2. En todas las funciones y componentes se observarán los enfoques de derechos, étnico, de género y territorial y diferencial.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.3.6 — Tareas del Promotor/a Comunitario/a de Paz y Convivencia
 
@@ -11583,8 +10591,6 @@ PARÁGRAFO 4. En todas las funciones y componentes se propenderá la observancia
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.3.7 — Aplicación de la Caja de Herramientas para la construcción, ejecución y seguimiento de los PISCC
 
 El Gobierno Nacional, a través de los Ministerios del Interior y de Salud y Protección Social, la Policía Nacional y demás entidades con competencia en la materia, con el apoyo del Departamento Nacional de Planeación, podrá contribuir a la promoción de acciones de convivencia social en los Planes Integrales de Seguridad y Convivencia Ciudadana (PISCC), de las entidades territoriales, para lo cual el Departamento Nacional de Planeación promoverá el uso y prestara asistencia técnica para la aplicación de la Caja de Herramientas para la construcción, ejecución y seguimiento de los PISCC, de conformidad con el artículo 2.7.1.1.16 del presente decreto.
@@ -11593,15 +10599,11 @@ Estas acciones de promoción y de asistencia se llevarán a cabo en espacios té
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.3.8 — Priorización para la adopción de la oferta institucional en materia de convivencia
 
 El Comité Técnico del componente de Promotores/as Comunitario/as de Paz y Convivencia, aprobara los criterios de priorización para la implementación de la oferta institucional en materia de convivencia, paz y derechos humanos que se desarrolle dentro de tal componente.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.3.9 — Desarrollo de capacidades para la paz y la convivencia
 
@@ -11613,15 +10615,11 @@ SECCIÓN 4
 
 Protocolo de protección para Territorios Rurales
 
-ARTÍCULO
-
 ## art:2.4.1.7.4.1 — Protocolo de Protección para Comunidades Rurales
 
 El Protocolo de Protección para Comunidades Rurales es un componente del Programa Integral de Seguridad y Protección para Comunidades y Organizaciones en los Territorios, entendido como un instrumento de análisis de información, toma de decisiones e implementación de medidas de emergencia respecto a factores, eventos o situaciones de riesgo que puedan constituir amenazas de violaciones a los derechos humanos a la vida, integridad, libertad y seguridad contra comunidades y organizaciones en los territorios rurales, para la adopción de medidas materiales e inmateriales orientadas a evitar y controlar los factores de riesgo.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.4.2 — Recepción de información sobre potencia/es hechos victimizan tés
 
@@ -11634,8 +10632,6 @@ En todo caso, ante situaciones que así lo ameriten, se deberá activar la respu
 PARÁGRAFO. Si en el análisis de información se identifican personas, grupos o comunidades, población objeto de alguno de los programas de protección ya existentes en el Estado, estos casos serán remitidos al respectivo programa.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.4.3 — Análisis de riesgos
 
@@ -11651,8 +10647,6 @@ PARÁGRAFO 2. La Defensoría del Pueblo, los representantes de las organizacione
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.4.4 — Definición de rutas de protección
 
 La instancia Territorial a la que refiere el presente Capítulo, definida por el Gobernador o el Alcalde con la participación de las comunidades y organizaciones, formulara su ruta de prevención y protección temprana, urgente y de garantías de no repetición para evitar la materialización de los factores, eventos o situaciones de riesgo que puedan constituir amenazas de violaciones a los derechos humanos a la vida, integridad, libertad y seguridad contra comunidades y organizaciones en los territorios.
@@ -11660,8 +10654,6 @@ La instancia Territorial a la que refiere el presente Capítulo, definida por el
 La Instancia Territorial podrá solicitar la asistencia técnica de las entidades del orden nacional con competencia en la materia, como el Ministerio del Interior, la Fuerza Pública, la Unidad Nacional de Protección, entre otras entidades competentes y el acompañamiento del Ministerio Público.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.4.5 — Medidas materiales e inmateriales de prevención y protección
 
@@ -11695,15 +10687,11 @@ Las actuaciones o decisiones que al respecto adopten las instancias territoriale
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.4.6 — Articulación con la ruta de protección colectiva
 
 Para efectos de la valoración de los riesgos y adopción de medidas que se implementen en el marco de la ruta de protección colectiva prevista en el Capítulo 5 del Título 1 de la Parte 4 del Libro 2 de este decreto o normas que lo modifiquen o sustituyan, se deberán tener en cuenta los insumos elaborados por las instancias territoriales a las que se refiere el presente decreto.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.4.7 — Fortalecimiento de comunidades y organizaciones
 
@@ -11711,15 +10699,11 @@ El fortalecimiento de las capacidades de las comunidades y organizaciones en los
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.4.8 — Fortalecimiento de canales de comunicación
 
 La Instancia Territorial deberá promover el fortalecimiento de la confianza y la comunicación entre las organizaciones y comunidades en los territorios con las autoridades municipales o distritales, departamentales y nacionales.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.4.9 — Mecanismo de seguimiento a la implementación de medidas
 
@@ -11735,8 +10719,6 @@ SECCIÓN 5
 
 Componente de apoyo a la actividad de denuncia de las organizaciones de derechos humanos en los territorios
 
-ARTÍCULO
-
 ## art:2.4.1.7.5.1 — 5.1
 
 Componente de apoyo a la actividad de denuncia de las comunidades y organizaciones de derechos humanos en los territorios. El componente de apoyo a la actividad de denuncia de las comunidades y organizaciones de derechos humanos en los territorios estará a cargo del Ministerio del Interior. Este componente hace parte de las medidas de prevención, protección, respeto y garantía de los derechos humanos para las comunidades y organizaciones en los territorios.
@@ -11744,8 +10726,6 @@ Componente de apoyo a la actividad de denuncia de las comunidades y organizacion
 El Programa de apoyo a la actividad de denuncia promoverá el acceso a la justicia para las organizaciones y comunidades en territorios rurales, en casos de posibles o presuntas violaciones a los derechos humanos a la vida, integridad, libertad y seguridad.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.5.2 — Jornadas móviles de acceso a la justicia
 
@@ -11761,8 +10741,6 @@ PARÁGRAFO 2. Cuando se requiera y para facilitar el acceso a las comunidades se
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.5.3 — Garantías a la actividad de denuncia para las organizaciones de derechos humanos en los territorios
 
 El Ministerio del Interior, dentro de los seis (6) meses siguientes a la expedición del presente decreto, elaborará un programa de fortalecimiento de la capacidad de denuncia de las organizaciones de derechos humanos en los territorios rurales, el cual estimulara medidas de prevención con un énfasis en la comunicación escrita y audiovisual, junto con los instrumentos que sirven para documentar posibles violaciones a los derechos humanos. Dentro de este programa se establecerá la manera como se pondrá a disposición de las organizaciones de derechos humanos las herramientas logísticas en apoyo de la actividad de los defensores y defensoras y sus organizaciones, en los términos r previamente definidos por el Comité Técnico del componente de promotores/as comunitarios/as de paz y convivencia y del componente de apoyo a la actividad de la denuncia.
@@ -11775,8 +10753,6 @@ SECCIÓN 6
 
 Instancias de dirección y coordinación
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.1 — Instancias de dirección y coordinación
 
 El Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios se compone por las siguientes instancias:
@@ -11787,23 +10763,17 @@ El Programa Integral de Seguridad y Protección para las Comunidades y Organizac
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.2 — Orientación del Programa Integral de Seguridad y Protección para Comunidades y Organizaciones en los Territorios
 
 Corresponde a la Instancia de Alto Nivel del Sistema Integral de Seguridad promover la adopción de las medidas que permitan la puesta en marcha del presente Programa.
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.3 — 6.3
 
 Comité Técnico de los componentes de medidas integrales de prevención, seguridad y protección, y del protocolo de protección para territorios rurales. La gestión técnica y operativa para la implementación del presente Programa, en los componentes de medidas integrales de prevención, seguridad y protección, y de protocolo de protección para territorios, estará a cargo de un Comité Técnico, con la participación de funcionarios del nivel asesor o directivo.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.4 — 6.4
 
@@ -11836,8 +10806,6 @@ PARÁGRAFO 1. Para el cumplimiento de sus funciones, el Comité Técnico podrá 
 PARÁGRAFO 2. Serán invitados permanentes, con voz y sin derecho a voto, la Procuraduría General de la Nación, la Defensoría del Pueblo y la Fiscalía General de la Nación.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.5 — 6.5
 
@@ -11881,8 +10849,6 @@ PARÁGRAFO 3. En todas las funciones y componente se propenderá la observancia 
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.6 — 6.6
 
 Secretaria Técnica del Comité Técnico de los componentes de medidas integrales de prevención, seguridad y protección, y del protocolo de protección para territorios rurales. La Secretaria Técnica del Comité Técnico de los componentes de medidas integrales de prevención, seguridad y protección, y del protocolo de protección para territorios rurales será ejercida por parte de la Dirección de Derechos Humanos del Ministerio del Interior y tendrá las siguientes funciones:
@@ -11913,15 +10879,11 @@ Secretaria Técnica del Comité Técnico de los componentes de medidas integrale
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.7 — 6.7
 
 Comité Técnico de los componentes de Promotores/as Comunitarios de Paz y Convivencia, y de Apoyo a la Actividad de Denuncia. La gestión técnica y operativa para la implementación del componente de Promotores/as Comunitarios de Paz y Convivencia y del componente de Apoyo a la Actividad de Denuncia estará a cargo de un Comité Técnico, con la participación de funcionarios del nivel asesor o directivo.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.8 — 6.8
 
@@ -11954,8 +10916,6 @@ PARÁGRAFO 2. Serán invitados permanentes, con voz y sin derecho a voto, la Pro
 PARÁGRAFO 3: El o la representante de las organizaciones sociales será elegido/a en el marco del ejercicio de participación en la adopción del Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.9 — 6.9
 
@@ -11991,8 +10951,6 @@ PARÁGRAFO. En todas las funciones y componente se propenderá la observancia de
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.10 — .10
 
 Secretaria Técnica del Comité técnico de los componentes de Promotores/as Comunitarios de Paz y Convivencia, y de Apoyo a la Actividad de Denuncia. La Secretaria Técnica del Comité Técnico de los componentes de Promotores/as Comunitarios de Paz y Convivencia, y de Apoyo a la Actividad de Denuncia será ejercida por la Dirección de Derechos Humanos del Ministerio del Interior y tendrá las siguientes funciones:
@@ -12025,15 +10983,11 @@ PARÁGRAFO: En todas las funciones y componentes se propenderá la observancia d
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.11 — Instancia Territorial para implementación del Programa Integral de Seguridad y Protección en los territorios
 
 Para articular, coordinar e impulsar el Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios, el respectivo Gobernador o Alcalde, con él, acompañamiento del Ministerio del Interior, consultara con las organizaciones sujeto de este programa el escenario o instancia en el que lo implementara, para lo cual podrá desarrollar estas acciones en una de las instancias territoriales ya creadas en el territorio, como los Comités de Orden Público, los Comités de Justicia Transicional, los Comités de Derechos Humanos y Derecho Internacional Humanitario, los Subcomités de Prevención, Protección y Garantías de no Repetición, así como de las instancias de prevención establecidas en el Decreto 1581 de 2017, o podrá optar por la creación de un nuevo escenario. En todo caso, los alcaldes y Gobernadores informaran a la Secretaria Técnica del Comité Nacional la instancia definida para el cumplimiento de lo establecido en el presente artículo.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.12 — .12
 
@@ -12075,15 +11029,11 @@ PARÁGRAFO 3. En todas las funciones y componente se propenderá la observancia 
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.13 — Garantías de participación
 
 En la conformación de las instancias creadas en este Capítulo se propenderá por la participación equitativa de hombres y mujeres promoviendo el aumento progresivo e incluyente de la representación de las mujeres, con el propósito de alcanzar una participación en condiciones de igualdad.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.14 — Articulación y coordinación con la Política Publica de Prevención
 
@@ -12093,23 +11043,17 @@ La estrategia de articulación y coordinación deberá contar con la aprobación
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.15 — Articulación y coordinación con el Plan de Rehabilitación Psicosocial para la Convivencia y la No Repetición
 
 El Ministerio del Interior adoptara una estrategia de articulación y coordinación del Programa Integral de Seguridad y Protección para las Comunidades y Organizaciones en los Territorios, con los procesos que se desarrollen en el marco del Plan de Rehabilitación Psicosocial para la Convivencia y la No Repetición.
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.2.12 — Articulación con los Espacios Territoriales de Capacitación y Reincorporación
 
 La implementación del presente Programa deberá articularse con la ejecución del programa de Protección Integral para las y los integrantes del partido político FARC, y con las medidas de protección y prevención colectivas desplegadas en los Espacios Territoriales de Capacitación y Reincorporación que se contemplan en el marco de dicho programa.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.16 — Articulación y coordinación con el Consejo Nacional de Paz, Reconciliación y Convivencia
 
@@ -12119,15 +11063,11 @@ PARÁGRAFO. Las medidas contempladas en el presente Programa podrán articularse
 
 (Decreto 660 de 2018, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.1.7.6.17 — Difusión del Programa Integral de Seguridad y Protección para comunidades y organizaciones en los territorios
 
 Para la difusión del presente Decreto, el Ministerio del Interior, en calidad de Secretaria Técnica, presentara a los Comités Técnicos un plan de socialización y apropiación del Programa en los territorios.
 
 (Decreto 660 de 2018, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.7.6.18 — Financiación del Programa Integral de Seguridad y Protección para Comunidades y Organizaciones en los Territorios
 
@@ -12735,8 +11675,6 @@ CAPÍTULO 1
 
 Personería jurídica Especial de las Iglesias, Confesiones y Denominaciones Religiosas, sus Federaciones y Confederaciones y Asociaciones de Ministros
 
-ARTÍCULO
-
 ## art:2.4.2.1.1 — 
 
 2.4.2.1.1.Requisitos Las iglesias, confesiones y denominaciones religiosas, sus federaciones y confederaciones y asociaciones de ministros, para la obtención de su personería jurídica especial, deberán presentar ante la Oficina Asesora jurídica del Ministerio del Interior la correspondiente petición acompañada de documentos fehacientes en los que conste su fundación o establecimiento en Colombia, así como su denominación y demás datos de identificación , los estatutos donde se señalen sus fines religiosos, régimen de funcionamiento, esquema de organización y órganos representativos con expresión de sus facultades y de sus requisitos para su valida designación.
@@ -12751,15 +11689,11 @@ PARÁGRAFO 2. Las iglesias, confesiones y denominaciones religiosas, sus federac
 
 (Decreto 782 de 1995, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.1.2 — Duración
 
 La duración de la personería jurídica especial de las iglesias, confesiones y denominaciones religiosas; sus federaciones y confederaciones y asociaciones de ministros que regula el presente Capítulo, a menos que los estatutos dispongan otra cosa, es indefinida, pero se disolverá y liquidara por decisión de sus miembros adoptada conforme a sus estatutos, o por decisión judicial.
 
 (Decreto 782 de 1995, Art. 2)
-
-ARTÍCULO
 
 ## art:2.4.2.1.3 — Domicilio
 
@@ -12767,15 +11701,11 @@ El domicilio de las iglesias, confesiones y denominaciones religiosas, sus feder
 
 (Decreto 782 de 1995, Art. 3)
 
-ARTÍCULO
-
 ## art:2.4.2.1.4 — Reformas Estatutarias
 
 Las reformas estatutarias serán adoptadas por el órgano competente de las iglesias, confesiones y denominaciones religiosas, sus federaciones y confederaciones y asociaciones de ministros con el lleno de los requisitos estatutarios, y solamente entrarán a regir cuando el Ministerio del Interior las declare conformes con las Leyes 25 de 1992 y 133 de 1994, y con los derechos constitucionales fundamentales.
 
 (Decreto 782 de 1995, Art. 4)
-
-ARTÍCULO
 
 ## art:2.4.2.1.5 — Personería jurídica
 
@@ -12785,15 +11715,11 @@ Así mismo, se rechazarán las solicitudes que no reúnan los requisitos estable
 
 (Decreto 782 de 1995, Art. 5)
 
-ARTÍCULO
-
 ## art:2.4.2.1.6 — Publicidad
 
 La resolución mediante la cual se reconozca personería jurídica especial, para su validez, deberá ser publicada a costa del interesado en el Diario Oficial, requisito que se entiende cumplido con el pago de los derechos correspondientes, debiéndose allegar el original del recibo a la Oficina Asesora jurídica del Ministerio del interior.
 
 (Decreto 782 de 1995, Art. 6)
-
-ARTÍCULO
 
 ## art:2.4.2.1.7 — Personería jurídica de la iglesia católica
 
@@ -12803,8 +11729,6 @@ PARÁGRAFO. La acreditación de la existencia y representación de las entidades
 
 (Decreto 782 de 1995, Art. 7; Decreto 1396 de 1997, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.1.8 — Personería jurídica de derecho público eclesiástico
 
 De conformidad con el artículo 11 de la Ley 133 de 1994; el Estado seguirá reconociendo personería jurídica de derecho público eclesiástico a las entidades erigidas o que se erijan conforme a lo establecido en el inciso 1 del ARTÍCULO IV del Concordato, aprobado por la Ley 20 de 1974.
@@ -12813,15 +11737,11 @@ Las personas jurídicas de derecho Público eclesiástico de que trata este ART�
 
 (Decreto 782 de 1995, Art. 8)
 
-ARTÍCULO
-
 ## art:2.4.2.1.9 — Sujetos de Registro
 
 Además de lo dispuesto en los artículos anteriores, son sujetos de registro oficioso cuando se otorgue personería jurídica especial, las iglesias, confesiones y denominaciones religiosas, sus federaciones o confederaciones, y asociaciones de ministros.
 
 (Decreto 782 de 1995, Art. 11)
-
-ARTÍCULO
 
 ## art:2.4.2.1.10 — Objeto del Registro
 
@@ -12835,8 +11755,6 @@ El Ministerio del Interior reglamentara el funcionamiento del Registro Público 
 
 (Decreto 782 de 1995 Art. 12)
 
-ARTÍCULO
-
 ## art:2.4.2.1.11 — Objeto
 
 Es potestativo del Estado colombiano celebrar Convenios de Derecho Público Interno con las iglesias, confesiones y denominaciones religiosas, sus federaciones y confederaciones, especialmente para regular lo establecido en los literales d) y g) del artículo 6, en el inciso 2 del artículo 8 de la Ley 133 de 1994 y en el artículo 1 de la Ley 25 de 1992.
@@ -12844,8 +11762,6 @@ Es potestativo del Estado colombiano celebrar Convenios de Derecho Público Inte
 Además el Estado colombiano de conformidad con los criterios establecidos en el artículo 2.4.2.1.12, podrá celebrar con las asociaciones de ministros convenios de derecho público interno para impartir enseñanza e información religiosa y ofrecer asistencia y atención religiosa por medio de capellanías o de instituciones similares a los miembros de las iglesias y confesiones religiosas y aquellas otras personas que así lo soliciten cuando se encuentren en establecimientos públicos oficiales docentes, militares, hospitalarios, asistenciales, penitenciarios y similares.
 
 (Decreto 782 de 1995, Art. 13)
-
-ARTÍCULO
 
 ## art:2.4.2.1.12 — Requisitos
 
@@ -12856,8 +11772,6 @@ El Estado ponderará la procedencia de la celebración de Convenios de Derecho P
 Los convenios de derecho público interno que versen sobre nulidad matrimonial, requieren que la entidad religiosa acredite poseer reglamentación sustantiva y procesal, en la que se garantice el pleno respeto de los derechos constitucionales fundamentales.
 
 (Decreto 782 de 1995, Art. 14)
-
-ARTÍCULO
 
 ## art:2.4.2.1.13 — Competencia para negociar los convenios
 
@@ -12873,8 +11787,6 @@ PARÁGRAFO. La negociación de convenios de derecho público interno con las per
 
 (Decreto 782 de 1995, Art. 15)
 
-ARTÍCULO
-
 ## art:2.4.2.1.14 — Terminación
 
 Los Convenios de Derecho Público Interno podrán darse por terminados por mutuo acuerdo entre las partes o unilateralmente por el Estado, por cualquiera de las siguientes causas:
@@ -12886,8 +11798,6 @@ Los Convenios de Derecho Público Interno podrán darse por terminados por mutuo
 PARÁGRAFO. La causal a que se refiere el numeral 2 se declarará por decreto del Gobierno Nacional, previa sentencia judicial en firme sobre la ocurrencia de la misma.
 
 (Decreto 782 de 1995, Art. 16)
-
-ARTÍCULO
 
 ## art:2.4.2.1.15 — Certificaciones
 
@@ -12907,15 +11817,11 @@ PARÁGRAFO 2. La entidad competente para expedir certificaciones sobre la existe
 
 (Decreto 782 de 1995, Art. 17; Decreto 1455 de 1997, Art. 1 y 2; Modificado por el Decreto 1535 de 2015, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.1.16 — Terminación
 
 La terminación de cualquier convenio de derecho público interno se hará por decreto del Gobierno Nacional.
 
 (Decreto 782 de 1995, Art. 18)
-
-ARTÍCULO
 
 ## art:2.4.2.1.17 — Inscripción
 
@@ -12925,15 +11831,11 @@ En todo caso, la inscripción en el Registro Público de Entidades Religiosas ca
 
 (Decreto 1396 de 1997, Art. 2)
 
-ARTÍCULO
-
 ## art:2.4.2.1.18 — Entidades exceptuadas
 
 Las entidades eclesiásticas a que se refiere el ARTÍCULO IV del concordato se entienden comprendidas entre las entidades exceptuadas por el ARTÍCULO 45 del Decreto-Ley 2150 de 1995.
 
 (Decreto 1396 de 1997, Art. 3)
-
-ARTÍCULO
 
 ## art:2.4.2.1.19 — Parámetros para la reglamentación de los Convenios de Derecho Público Interno con las entidades religiosas
 
@@ -12946,8 +11848,6 @@ PARÁGRAFO. Cuando las negociaciones versen sobre materias asignadas a otros min
 CAPÍTULO 2
 
 Requisitos y trámite para reconocer Personería jurídica Especial
-
-ARTÍCULO
 
 ## art:2.4.2.2.1 — Documentos fehacientes
 
@@ -12977,8 +11877,6 @@ PARÁGRAFO. Las actas y constancias de que trata el presente ARTÍCULO deberán 
 
 (Decreto 1319 de 1998, Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.2.2 — Acta de constitución
 
 El acta de constitución de las iglesias, confesiones, denominaciones religiosas, sus federaciones, confederaciones y asociaciones de ministros, deberá contener como mínimo:
@@ -12994,8 +11892,6 @@ El acta de constitución de las iglesias, confesiones, denominaciones religiosas
 5. Las firmas de quienes participaron y la aprobaron.
 
 (Decreto 1319 de 1998, Art. 2)
-
-ARTÍCULO
 
 ## art:2.4.2.2.3 — Estatutos
 
@@ -13039,8 +11935,6 @@ Las normas estatutarias de las iglesias, confesiones, denominaciones religiosas,
 
 (Decreto 1319 de 1998, Art. 3)
 
-ARTÍCULO
-
 ## art:2.4.2.2.4 — Estudio de la documentación
 
 La Oficina Asesora jurídica verificara y estudiara en un término no mayor de sesenta (60) días contados a partir de la fecha de radicación de la respectiva solicitud de personería jurídica especial, la documentación aportada por la entidad religiosa.
@@ -13048,8 +11942,6 @@ La Oficina Asesora jurídica verificara y estudiara en un término no mayor de s
 En el evento de no encontrarse la solicitud conforme a lo establecido en las normas, el solicitante contará con el termino de treinta (30) días para hacer los respectivos ajustes, el cual correrá a partir de la fecha de la respectiva comunicación oficial efectuada por la Oficina Asesora jurídica.
 
 (Decreto 1319 de 1998, Art. 4)
-
-ARTÍCULO
 
 ## art:2.4.2.2.5 — Archivo
 
@@ -13059,8 +11951,6 @@ Esta decisión se notificará al interesado, quien podrá presentar posteriormen
 
 (Decreto 1319 de 1998, Art. 5)
 
-ARTÍCULO
-
 ## art:2.4.2.2.6 — Otorgamiento
 
 El ministro del Interior otorgara, mediante resolución, las personerías jurídicas especiales a las iglesias, confesiones, denominaciones religiosas, sus federaciones, confederaciones y asociaciones de ministros, previo estudio de la respectiva solicitud por parte de la Oficina Asesora jurídica.
@@ -13069,15 +11959,11 @@ El acto administrativo de reconocimiento de la personería jurídica especial, s
 
 (Decreto 1319 de 1998, Art. 6)
 
-ARTÍCULO
-
 ## art:2.4.2.2.7 — Termino para el otorgamiento
 
 El ministro del Interior, a su vez, dispondrá de un término de treinta (30) días una vez surtido el procedimiento de que trata el ARTÍCULO 2.4.2.2.4, para el de la personería jurídica especial a las entidades religiosas solicitantes
 
 (Decreto 1319 de 1998, Art. 7)
-
-ARTÍCULO
 
 ## art:2.4.2.2.8 — Rechazo
 
@@ -13089,15 +11975,11 @@ CAPÍTULO 3
 
 Extensión de los Efectos jurídicos de las Personerías jurídicas Especiales
 
-ARTÍCULO
-
 ## art:2.4.2.3.1 — Extensión de los efectos jurídicos
 
 Los efectos jurídicos de las Personerías jurídicas Especiales reconocidas por el Ministerio del Interior, de conformidad con lo previsto en la Ley 133 de 1994, se podrán extender a sus entes religiosos afiliados o asociados mediante Resolución expedida por este Ministerio en los términos establecidos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo, previa solicitud de los interesados y una vez se presente la Certificación de que trata el ARTÍCULO siguiente.
 
 (Decreto 505 de 2003, Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.3.2 — Acreditación del carácter religioso
 
@@ -13113,8 +11995,6 @@ El ente con Personería jurídica Especial acreditara el carácter religioso de 
 
 (Decreto 505 de 2003, Art. 2)
 
-ARTÍCULO
-
 ## art:2.4.2.3.3 — Certificados de existencia y representación legal
 
 El Ministerio del Interior inscribirá en el registro público de entidades religiosas la información contenida en la Certificación, así como el nombre de quien la otorga, y expedirá a solicitud de los interesados los certificados de existencia y representación de las entidades con Personería jurídica Especial y el de sus afiliadas o asociadas.
@@ -13123,23 +12003,17 @@ El certificado de existencia y representación señalara la calidad de afiliada 
 
 (Decreto 505 de 2003, Art.3)
 
-ARTÍCULO
-
 ## art:2.4.2.3.4 — Afiliación y asociación entre entidades
 
 Los entes religiosos a los cuales se les haya reconocido Personería jurídica Especial antes de la vigencia del Decreto 505 de 2003, podrán afiliarse o asociarse entre sí, de forma que los efectos jurídicos de la Personería jurídica Especial otorgada a un solo ente religioso se extiendan a los demás afiliados o asociados, en todo sometidos a las disposiciones del presente Capítulo.
 
 (Decreto 505 de 2003, Art. 4)
 
-ARTÍCULO
-
 ## art:2.4.2.3.5 — Fines religiosos de las afiliadas y asociadas
 
 Los entes religiosos con Personería jurídica Especial velaran porque sus afiliadas o asociadas, respecto de las cuales se haya expedido Certificación, desarrollen fines exclusivamente religiosos dentro de un marco de seriedad, respetabilidad y permanencia. Así mismo, se obligan al igual que la afiliada o asociada, a dar aviso al Ministerio del Interior del cambio de representación, extinción o cualquiera novedad relevante en la existencia y funcionamiento de la entidad.
 
 (Decreto 505 de 2003, Art. 5)
-
-ARTÍCULO
 
 ## art:2.4.2.3.6 — Permanencia
 
@@ -13157,23 +12031,17 @@ SECCIÓN 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.4.2.4.1.1 — Objeto
 
 El presente capítulo tiene por objeto adoptar la política pública integral de libertad religiosa y de cultos.
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.1.2 — Objetivo general
 
 Brindar garantías para el ejercicio del derecho de libertad religiosa y de cultos en Colombia.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.1.3 — Objetivos específicos
 
@@ -13207,8 +12075,6 @@ m) Implementar mecanismos que permitan el fortalecimiento, la colaboración, coo
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.1.4 — Ámbito de aplicación
 
 Este capítulo es aplicable a todas las entidades del orden nacional y territorial, que en desarrollo de los principios y los derechos constitucionales relativos a libertad religiosa y de cultos, garanticen el ejercicio de estos.
@@ -13218,8 +12084,6 @@ PARÁGRAFO: La creación e implementación de las políticas públicas en la mat
 En desarrollo de lo anterior, el Gobierno Nacional acordara con la Iglesia Católica los mecanismos, las temáticas y la normativa para adoptar las políticas públicas concernientes al estatus de la Iglesia Católica.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.1.5 — Enfoques
 
@@ -13232,8 +12096,6 @@ b) Enfoque de identidad religiosa: Propende por el reconocimiento de las formas 
 c) Enfoque de institucionalidad religiosa: Propende por el fortalecimiento y reconocimiento estatal de la expresión jurídica de las entidades religiosas y sus organizaciones para garantizar la titularidad y el goce efectivo de los derechos colectivos de libertad religiosa, de cultos y demás derivados de sus ámbitos de acción, participación y aporte al bien común.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.1.6 — Ejes
 
@@ -13257,8 +12119,6 @@ Además, aborda herramientas, estrategias y rutas claras para fortalecer su apor
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.1.7 — Definiciones
 
 Para efectos del presente Capítulo se tendrán en cuenta las siguientes definiciones:
@@ -13278,8 +12138,6 @@ f) Cultura religiosa: Es el conjunto de valores, principios, creencias y practic
 g) Bien común: Es el conjunto de posibilidades y capacidades que desarrolla una sociedad para alcanzar el bienestar ultimo de todos sus miembros en la dimensión social, política, cultural y trascendente de la persona humana. En este sentido, el desarrollo de la dimensión religiosa de las personas hace parte de las múltiples dimensiones del bien común.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.1.8 — Principios
 
@@ -13309,15 +12167,11 @@ SUB SECCIÓN 1
 
 Líneas de acción para la identificación y posicionamiento del aporte al bien común, a la resolución de conflictos y a la convivencia pacífica en la familia y la sociedad, a la cohesión social y a la transformación de contextos comunitarios, que las entidades religiosas y sus organizaciones desarrollan.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.1.1 — Estrategia de mapeo y caracterización
 
 El Ministerio del Interior, diseñara y aplicara una estrategia de mapeo y caracterización de la labor, social, cultural, educativa, de convivencia, de paz, reconciliación, de las entidades religiosas y sus organizaciones, en todo el país, con el fin de identificar y posicionar el trabajo de aporte al bien común que estas formas organizativas desarrollan. Para lo anterior el Ministerio del Interior articulara con las entidades públicas del orden nacional y territorial, buscando optimizar la obtención de los resultados esperados, por lo que se deberá implementar un canal de comunicación que facilite la cooperación armónica entre estas.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.2.1.2 — 1.2
 
@@ -13333,15 +12187,11 @@ SUB SECCIÓN 2
 
 Líneas de acción para la promoción en la sociedad civil, las entidades públicas y privadas y los medios de comunicación de la no discriminación, la tolerancia y la no estigmatización por motivos religiosos.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.2.1 — campañas de promoción de la tolerancia y no discriminación por motivos religiosos
 
 El Ministerio del Interior diseñara y desarrollara, al menos cinco (5) campañas pedagógicas e interactivas, de difusión masiva, en medios institucionales, digitales y de comunicación, que promuevan la tolerancia y la no discriminación por motivos religiosos. Para el cumplimiento de esta línea de acción, las entidades territoriales facilitaran las herramientas a su alcance.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.2.2 — Capacitaciones a medios de comunicación
 
@@ -13353,15 +12203,11 @@ SUB SECCIÓN 3
 
 Líneas de acción para el fortalecimiento del Ministerio del Interior, en lo relacionado con el derecho de libertad religiosa y de cultos, de manera integral.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.3.1 — Fortalecimiento institucional
 
 El Ministerio del Interior implementara estrategias de capacitaciones periódicas dirigidas a los servidores públicos de sus diferentes dependencias, con el fin de fortalecer sus conocimientos en el derecho de libertad religiosa y de cultos, para la concreción de acciones articuladas en la atención de las necesidades de los titulares de ese derecho.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.3.2 — Actualización de formatos y protocolos en asuntos religiosos
 
@@ -13373,8 +12219,6 @@ SUB SECCIÓN 4
 
 Líneas de acción para la divulgación y promoción del conocimiento de la normatividad, el hecho y la cultura religiosa en Colombia.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.4.1 — Estrategia de trasferencia de conocimiento
 
 El Ministerio del Interior desarrollara foros, talleres, capacitaciones y diseñara y reproducirá material pedagógico e interactivo que contenga, explique y oriente sobre el marco constitucional y legal de la libertad religiosa y de cultos, así como la complejidad de la pluralidad religiosa, la cultura y el hecho religioso en Colombia, con el fin de brindar la información necesaria para ilustrar sobre estos temas, en un lenguaje sencillo, permitiendo que la ciudadanía conozca el tratamiento jurídico que enmarca este derecho, facilitando la realización de los trámites jurídicos relacionados y aportando a la disminución de acciones que configuran vulneraciones al mismo.
@@ -13383,8 +12227,6 @@ Para lo anterior, el Ministerio del Interior buscara el acompañamiento de la ac
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.4.2 — Estrategia de educación continuada
 
 El Ministerio del Interior diseñara y desarrollara estrategias de educación continuada, tales como diplomados y escuelas de formación, que profundicen en los conocimientos acerca del hecho, la cultura religiosa y su marco normativo, dirigidas a los servidores y autoridades públicas y el público en general, buscando brindar un ambiente propicio para el goce efectivo del derecho de libertad religiosa y de cultos, sus manifestaciones individuales y colectivas y la prevención de discriminaciones en todas las dimensiones en las que este derecho se desarrolla.
@@ -13392,8 +12234,6 @@ El Ministerio del Interior diseñara y desarrollara estrategias de educación co
 PARÁGRAFO. Para el alcance de este objetivo, el Ministerio el Interior buscara la realización de alianzas y/o convenios con otras entidades públicas, privadas, universidades y/o cooperantes.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.4.3 — Conformación de un espacio permanente de investigación y análisis del hecho, la cultura y la pluralidad religiosa
 
@@ -13405,15 +12245,11 @@ PARÁGRAFO. Deberá garantizarse un enfoque interdisciplinario al interior del e
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.4.4 — Promoción de espacios de relacionamiento e interacción para el alcance de objetivos comunes
 
 El Ministerio del Interior promoverá y facilitará escenarios para el encuentro interreligioso, tanto a nivel nacional como territorial, que generen reconocimiento, fomenten una cultura de respeto por las libertades individuales y colectivas, construyan un ambiente de paz y respeto por la identidad propia y la dignidad humana y faciliten la creación de redes y lazos de cooperación y apoyo en el alcance de objetivos comunes. Estos escenarios funcionaran como espacios de conocimiento e interacción con las diferentes confesiones y tradiciones religiosas y de ningún modo buscaran promover diálogos de carácter doctrinal o de aquellos que hagan parte exclusiva de la autonomía de las entidades religiosas.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.4.5 — 4.5
 
@@ -13421,15 +12257,11 @@ Implementación de la ruta de actualización del código nacional de ocupación,
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.4.6 — Canales de comunicación en materia de visas que tramiten las entidades religiosas
 
 El Ministerio del Interior, entendiendo la necesidad de crear rutas de comunicación que faciliten el dialogo y el trámite de todos los asuntos que conectan la libertad religiosa y de cultos y los asuntos exteriores, buscara la creación de un canal de comunicación con el Ministerio de Relaciones Exteriores, a través del cual se puedan tratar las problemáticas y necesidades de especial atención y de interés de ambas entidades públicas en lo concerniente a la libertad religiosa y de cultos.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.4.7 — 4.7
 
@@ -13441,8 +12273,6 @@ SUB SECCIÓN 5
 
 Líneas de acción para el efectivo ejercicio de la participación ciudadana de las entidades religiosas y sus organizaciones.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.5.1 — Estrategia de formación en participación ciudadana
 
 El Ministerio del Interior incluirá a las entidades religiosas y a sus organizaciones, en su oferta institucional de capacitación y formación en articulación con las entidades territoriales, a través de la metodología formador de formadores.
@@ -13450,8 +12280,6 @@ El Ministerio del Interior incluirá a las entidades religiosas y a sus organiza
 El trabajo mancomunado con las gobernaciones, especialmente, para la ejecución de esta línea de acción, facilitara abordar, cuantitativa y cualitativamente, grupos plurales de líderes religiosos de todas las regiones.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.5.2 — Promoción de la participación ciudadana en las entidades religiosas y sus organizaciones
 
@@ -13463,23 +12291,17 @@ SUB SECCIÓN 6
 
 Líneas de acción para las modificaciones de instrumentos y normatividad vigente, que reconozca las nuevas realidades en la aplicación del derecho de libertad religiosa y de cultos, su pluralidad y diversidad, y su incidencia en el orden religioso, social, cultural y educativo.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.6.1 — Revisión al marco normativo vigente
 
 El Ministerio del Interior realizara una revisión al marco normativo vigente en materia de libertad religiosa y de cultos, tendiente a identificar los vacíos dentro del ordenamiento jurídico, considerando las nuevas realidades de las entidades religiosas y sus organizaciones en Colombia, con el fin de diseñar y presentar propuestas normativas que integren, siempre que le sea posible y sin desconocer el principio de unidad de materia, asuntos relacionados con el tratamiento de las personerías jurídicas especiales y extendidas, asuntos urbanísticos, tributarios, pensionales, de actividades financieras, de seguridad social, de capellanías y asistencia espiritual, de acceso a medios institucionales públicos de comunicación, de reconocimiento civil de los títulos eclesiásticos, del uso del espacio público, de la religión y el enfoque diferencial, de su conexidad con la objeción de conciencia y las nuevas realidades que estas han propuesto en un marco de desarrollo social, educativo, cultural y de aporte al bien común, ya sea a través de sus estructuras religiosas tradicionales o de otras de categoría jurídica diferente.
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.6.2 — Convenios de derecho público interno con entidades religiosas
 
 El Ministerio del Interior impulsara una revisión y actualización de la conformación y operatividad del Comité Interinstitucional para la reglamentación de Convenios de Derecho Público Interno, así como la celebración de nuevos convenios de derecho público interno con entidades religiosas registradas ante el Ministerio del Interior, fomentando el acercamiento con las distintas confesiones, entidades religiosas e instituciones competentes para analizar transversalmente su viabilidad. Lo anterior en concordancia con lo establecido en el artículo 15 de la Ley Estatutaria 133 de 1994 y demás normas concordantes.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.6.3 — Modificación y actualización del Registro Público de Entidades Religiosas
 
@@ -13491,8 +12313,6 @@ SUB SECCIÓN 7
 
 Líneas de acción para el fortalecimiento de la articulación intersectorial, interinstitucional y territorial, en el marco de la garantía del derecho de libertad religiosa y de cultos.
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.7.1 — Asistencia técnica a las entidades territoriales
 
 El Ministerio del Interior brindara asistencia técnica a las entidades territoriales en el alcance y desarrollo del derecho de libertad religiosa y de cultos, la viabilidad de su inclusión dentro de los planes, programas, proyectos y políticas territoriales y la aplicación de la política pública nacional en esta materia, fortaleciendo la articulación nación - territorio como eje fundamental para el proceso de reconocimiento, fortalecimiento y garantía de este derecho.
@@ -13501,15 +12321,11 @@ PARÁGRAFO 1. El Ministerio del Interior propenderá por buscar la armonización
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.7.2 — acompañamiento a los espacios oficiales de libertad religiosa y de cultos en los territorios
 
 El Ministerio del Interior, como entidad nacional encargada de los asuntos religiosos, ofrecerá acompañamiento y asistencia técnica a las instancias de participación y/o consulta en asuntos de libertad religiosa y de cultos, creadas o por crearse, tales como comités y consejos de libertad religiosa integrados por líderes religiosos, entidades públicas y otros actores, en los departamentos y municipios, así como a las entidades territoriales, que busquen conformarlas, para que desde la experticia de dicha Cartera, cuando los interesados lo requieran, puedan contar con un paquete de documentos y asistencia técnica, que sirvan como referente para alimentar los diferentes procesos de creación, conformación y funcionabilidad.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.7.3 — Creación de herramientas para la gobernanza en asuntos religiosos
 
@@ -13517,15 +12333,11 @@ El Ministerio del Interior creara una "caja de herramientas" que facilite el con
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.2.7.4 — Fomento de estrategias de interlocución nación territorio
 
 El Ministerio del Interior, respetando la autonomía territorial, promoverá, en las entidades territoriales, la designación de enlaces, que sirvan como interlocutores entre el territorio y el Ministerio del Interior, en los asuntos del derecho de libertad religiosa y de cultos.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.7.5 — 7.5
 
@@ -13538,8 +12350,6 @@ Para lo anterior, el Ministerio del Interior deberá atender a los lineamientos 
 SUB SECCIÓN 8
 
 Líneas de acción para la generación de actividades que faciliten el entendimiento de la conexidad entre el derecho de libertad religiosa y el derecho a la educación conforme a las creencias religiosas de cada quien.
-
-ARTÍCULO
 
 ## art:2.4.2.4.2.8.1 — 8.1
 
@@ -13555,8 +12365,6 @@ SUB SECCIÓN 1
 
 Promoción de la participación de las entidades religiosas y sus organizaciones en los escenarios de perdón y reconciliación, para la construcción de la paz.
 
-ARTÍCULO
-
 ## art:2.4.2.4.3.1.1 — 1.1
 
 Mesa para el reconocimiento y fortalecimiento del aporte a la paz, el perdón y la reconciliación, de las entidades religiosas y sus organizaciones. Crease la Mesa para el reconocimiento y fortalecimiento del aporte a la paz, el perdón y la reconciliación de las entidades religiosas y sus organizaciones, la cual tendrá por objeto establecer las estrategias, rutas y protocolos para reconocer, fortalecer y garantizar la participación de las entidades religiosas y sus organizaciones en la construcción de escenarios, estrategias, programas, planes y proyectos de paz y reconciliación, a nivel nacional y territorial, su participación dentro de las instancias creadas para tales fines.
@@ -13566,8 +12374,6 @@ Serán miembros de la mesa el ministro del Interior o su delegado, quien ejercer
 PARÁGRAFO. La Mesa podrá invitar de manera a las demás entidades y organizaciones que considere relevantes para el conocimiento profundo y análisis de las problemáticas y la consecución de los objetivos planteados.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.3.1.2 — Funciones de la Mesa
 
@@ -13579,15 +12385,11 @@ b) Proponer y recomendar rutas, protocolos y planes que contribuyan al reconocim
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.3.1.3 — Sesiones de la Mesa
 
 La Mesa para el reconocimiento y fortalecimiento del aporte a la paz, el perdón y la reconciliación de las entidades religiosas y sus organizaciones sesionará de manera ordinaria cada cuatro (4) meses y de manera extraordinaria las veces que sea necesario, por solicitud de uno o más de sus integrantes, la cual deberá ser programada con antelación de 10 días hábiles.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.3.1.4 — Reglamento interno y plan de acción de la mesa
 
@@ -13595,15 +12397,11 @@ La Mesa para el reconocimiento y fortalecimiento del aporte a la paz, el perdón
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.3.1.5 — Estrategia de pedagogía y sensibilización en la implementación de estrategias de construcción de paz
 
 El Ministerio del Interior y la Oficina del Alto Comisionado para la Paz, realizaran talleres pedagógicos y de sensibilización de la implementación de estrategias de construcción de paz que se llevan a cabo en Colombia, que permita identificar y reconocer por parte de las entidades religiosas y sus organizaciones, los escenarios y las estrategias que se vienen desarrollando en esa materia, por parte del Estado, bajo la directa coordinación y organización del Ministerio del Interior.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.3.1.6 — 1.6
 
@@ -13614,8 +12412,6 @@ Estrategia de promoción de las actividades de paz, perdón y reconciliación ll
 SUB SECCIÓN 2
 
 Procesos para la identificación, análisis y actuación interinstitucional de las entidades del sector religioso y sus organizaciones, con ocasión de sus creencias religiosas en el marco del conflicto armado
-
-ARTÍCULO
 
 ## art:2.4.2.4.3.2.1 — 2.1
 
@@ -13631,8 +12427,6 @@ SUB SECCIÓN 1
 
 Fortalecimiento de la colaboración, cooperación y coordinación entre las entidades públicas de nivel nacional y territorial, las entidades religiosas y sus organizaciones y los organismos y organizaciones internacionales de cooperación, en la contribución al desarrollo de la Nación en el marco del logro de los objetivos del desarrollo sostenible.
 
-ARTÍCULO
-
 ## art:2.4.2.4.4.1.1 — Capacitación en formulación y gestión de proyectos y cooperación internacional
 
 El Ministerio del Interior gestionara y diseñara estrategias de capacitación en formulación y gestión de proyectos de cooperación internacional, dirigida a las entidades religiosas y sus organizaciones, como una de las poblaciones objeto de sus estrategias.
@@ -13641,15 +12435,11 @@ PARÁGRAFO. El Ministerio del Interior gestionara la participación de las demá
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.4.1.2 — Oferta de cooperación internacional en proyectos de interés de las entidades religiosas y sus organizaciones
 
 El Ministerio del Interior orientara a las entidades religiosas y sus organizaciones sobre la oferta que manejen otras entidades de cooperación internacional en proyectos de interés de las entidades religiosas y sus organizaciones.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.4.1.3 — 1.3
 
@@ -13661,23 +12451,17 @@ SECCIÓN 5
 
 Seguimiento y monitoreo de la Política Publica
 
-ARTÍCULO
-
 ## art:2.4.2.4.5.1 — Línea estratégica para el seguimiento y monitoreo
 
 El Ministerio del Interior creara un plan estratégico para realizar el seguimiento y monitoreo de la implementación de las líneas de acción contempladas en el presente capítulo, a través de procedimientos, espacios y herramientas que cumplan esos fines. Para tales efectos, las entidades responsables de las líneas de acción acá contempladas, en el marco de sus competencias, apoyaran la construcción del plan estratégico enunciado.
 
 (Decreto 437 de 2018. Art. 1)
 
-ARTÍCULO
-
 ## art:2.4.2.4.5.2 — Puesta en común de los avances en la implementación de la política pública
 
 El Ministerio del Interior dará a conocer a las entidades religiosas y sus organizaciones, a nivel nacional, una vez al año, durante la vigencia de la política pública, los avances en materia de implementación de la Política Publica Integral de Libertad Religiosa y de Cultos.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.5.3 — Articulación con otras instancias para el seguimiento de la implementación de la política pública
 
@@ -13689,15 +12473,11 @@ SECCIÓN 6
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.4.2.4.6.1 — Implementación de la Política Pública
 
 El Ministerio del Interior y el Ministerio de Educación, conforme a sus competencias, diseñaran y aprobaran el plan estratégico de implementación de la Política Publica Integral de Libertad Religiosa y de Cultos.
 
 (Decreto 437 de 2018. Art. 1)
-
-ARTÍCULO
 
 ## art:2.4.2.4.6.2 — Respeto a la autonomía de relacionamiento de las entidades religiosas y sus organizaciones
 
@@ -13715,13 +12495,9 @@ Disposiciones Generales
 
 (Decreto 1581 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.3.1.1 — Objeto
 
 El presente Titulo tiene por objeto adoptar la política pública de prevención de violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.1.2 — Objetivos
 
@@ -13747,13 +12523,9 @@ Los objetivos de la política son los siguientes:
 
 10 desarrollar acciones orientadas a prevenir las violaciones a los derechos a la vida, la integridad, la libertad y la seguridad de personas, grupos y comunidades derivadas de limitaciones arbitrarias o ilegales a las libertades ciudadanas.
 
-ARTÍCULO
-
 ## art:2.4.3.1.3 — Ámbito de aplicación
 
 La política pública que se adopta mediante el presente Titulo, aplica en todo el territorio nacional y respecto de toda persona, grupo y/o comunidad que se encuentre o pueda encontrarse en una situación de riesgo excepcional de sufrir violaciones a los derechos a la vida, a la integridad, a la libertad, y a la seguridad de personas, grupos y comunidades. Las entidades nacionales y territoriales son responsables de su ejecución, así como los particulares de acuerdo con el principio de debida diligencia.
-
-ARTÍCULO
 
 ## art:2.4.3.1.4 — Enfoques
 
@@ -13768,8 +12540,6 @@ Los proyectos asociados a la Política Publica de Prevención de violaciones a l
 4 enfoque de Derechos: El diseño, implementación, seguimiento y evaluación de la política de prevención tendrá como base los estándares nacionales e internacionales acerca de las obligaciones de respeto y garantía de los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades. Se prestará atención prioritaria a las personas, grupos y comunidades en situación de vulnerabilidad. Se incorporarán mecanismos para hacer efectiva la participación ciudadana, el control social y la rendición pública de cuentas y se propenderá por la generación de capacidades tanto a titulares de derechos como de deberes. Los particulares asumirán un rol activo en el respeto de los derechos mencionados, teniendo en cuenta el principio de debida diligencia.
 
 5 Enfoque de género, orientación e identidad sexual: El Gobierno Nacional prestara atención a las particularidades de genero de la población, teniendo en cuenta su orientación sexual e identidad de género y la forma como estas se intersecan con otros rasgos identitarios en la evaluación de riesgos y en la identificación de medidas efectivas en la prevención de violaciones a sus derechos a la vida, a la libertad, a la integridad y a la seguridad de personas, grupos y comunidades, Igualmente, favorecerá la participación de las mujeres y de personas con identidad de género y orientación sexual diversa, para que expresen sus necesidades e intereses frente a las situaciones de riesgo que viven y al planteamiento de alternativas de solución.
-
-ARTÍCULO
 
 ## art:2.4.3.1.5 — Definiciones
 
@@ -13833,8 +12603,6 @@ Para efectos del presente Titulo se tendrán en cuenta las siguientes definicion
 
 21. Violencias basadas en género o en la orientación sexual: Tiene como base el género, la orientación sexual y la identidad de género, se presenta a través de diferentes formas de humillación, rechazo afectivo, amenazas, agresiones y violencias físicas, psicológicas, económicas, patrimoniales y políticas.
 
-ARTÍCULO
-
 ## art:2.4.3.1.6 — Principios
 
 La Política Publica de Prevención se regirá por los siguientes principios:
@@ -13863,8 +12631,6 @@ La Política Publica de Prevención se regirá por los siguientes principios:
 
 12. Racionalidad de la política pública: Implica que el diseño y puesta en marcha de la política pública de prevención atenderá a los criterios basados en la garantía efectiva de los derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades y la sostenibilidad presupuestal y financiera de la política.
 
-ARTÍCULO
-
 ## art:2.4.3.1.7 — Implementación de la Política
 
 Dentro de los seis meses siguientes a la entrada en vigencia del presente título, se aprobará el Plan estratégico de la política pública que adopta. Las entidades concernidas participaran en la elaboración de los planes anuales de implementación.
@@ -13877,13 +12643,9 @@ SECCIÓN 1
 
 Estrategias de prevención en los territorios con ocasión de las restricciones ilegales o arbitrarias a las libertades ciudadanas por parte de grupos ilegales
 
-ARTÍCULO
-
 ## art:2.4.3.2.1.1 — Incorporación de la prevención Temprana en los Consejos de Seguridad Territoriales
 
 Las gobernaciones y alcaldías, en el marco de sus competencias, con el apoyo del Ministerio del Interior, del Ministerio de Defensa y del Ministerio Público, diseñaran e implementaran acciones tendientes a fortalecer la prevención temprana en el funcionamiento estratégico de los Consejos de Seguridad Territoriales, con el fin de contrarrestar de manera anticipada los riesgo y amenazas de violaciones a los derechos objeto de esta Política. Estas acciones deberán incorporarse en los planes específicos de seguridad, según lo dispuesto por el numeral 1 del artículo 10 del Decreto 2615 de 1991.
-
-ARTÍCULO
 
 ## art:2.4.3.2.1.2 — Prevención de la violencia de género en el contexto de restricciones ilegales o arbitrarias a las libertades ciudadanas
 
@@ -13891,21 +12653,15 @@ Las gobernaciones, alcaldías y las autoridades étnicas, en el marco de sus com
 
 PARÁGRAFO. En lo relacionado con la violencia basada en genero contra la mujer se acogerán los lineamientos de la Política Publica de Equidad de Género para las Mujeres.
 
-ARTÍCULO
-
 ## art:2.4.3.2.1.3 — 1.3
 
 Fortalecimiento de la corresponsabilidad en la prevención de violaciones a los derechos humanos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades de los niños, niñas y adolescentes. La Comisión Intersectorial para la Prevención del Reclutamiento, la Utilización y la Violencia Sexual contra niños, niñas y Adolescentes por Grupos Armados al Margen de la Ley y por Grupos Delictivos Organizados y las gobernaciones y alcaldías, aunaran esfuerzos para que las entidades competentes, la familia y la comunidad, conjuntamente, brinden oportunidades educativas, recreativas y culturales, con el fin de evitar el reclutamiento, uso, utilización y violencia sexual de los niños, niñas y adolescentes, de manera tal que se garanticen sus derechos.
-
-ARTÍCULO
 
 ## art:2.4.3.2.1.4 — Procesos de gestión de información para el desminado y la educación en el riesgo
 
 Con el objetivo de identificar los territorios para descontaminar y las comunidades en riesgo para prevenir accidentes o incidentes por minas antipersonales (MAP), municiones sin explotar (MUSE) y artefactos explosivos improvisados (AEI) con características de minas antipersonal, que puedan derivar en afectaciones a los derechos a la vida o a la integridad personal de las poblaciones en riesgo, la Dirección para la Acción Integral contra Minas Antipersonal del Departamento Administrativo de la Presidencia de la República coordinara y establecerá procesos oportunos de gestión de información inter institucional y entre niveles de gobierno que permitan recolectar, reportar, procesar y analizar la información de afectación para precisar zonas prioritarias susceptibles de ser intervenidas con acción integral.
 
 PARÁGRAFO. La Dirección para la Acción Integral contra Minas Antipersonal proveerá los protocolos y herramientas necesarias para los procesos de gestión de información interinstitucional sobre la afectación por contaminación por minas antipersonal (MAP), municiones sin explotar (MUSE) y artefactos explosivos improvisados (AEI) con características de minas antipersonal.
-
-ARTÍCULO
 
 ## art:2.4.3.2.1.5 — Proyecto de desminado y educación en el riesgo
 
@@ -13917,13 +12673,9 @@ SECCIÓN 2
 
 Estrategias referidas a la acción de la Fuerza Pública ante restricciones ilegales o arbitrarias a las libertades ciudadanas cometidas por grupos ilegales
 
-ARTÍCULO
-
 ## art:2.4.3.2.2.1 — 2.1
 
 Fortalecimiento de las estrategias encaminadas a la interiorización del respeto de los Derechos Humanos por parte de la Fuerza Pública. El Ministerio de Defensa Nacional evaluara y ajustara las estrategias pertinentes dirigidas a prevenir las violaciones de los derechos a la vida, la integridad, y la seguridad de personas, grupos y comunidades en el marco de los lineamientos, objetivos y programas determinados en la Política Integral de Derechos Humanos y Derecho Internacional Humanitario de ese Ministerio.
-
-ARTÍCULO
 
 ## art:2.4.3.2.2.2 — Difusión del Procedimiento para la definición de la situación militar
 
@@ -13933,19 +12685,13 @@ CAPÍTULO 3
 
 Estrategias dirigidas a prevenir las violaciones a los derechos a la vida, a la integridad, a la libertad ya la seguridad personal derivadas de las disputas por la tierra y el territorio.
 
-ARTÍCULO
-
 ## art:2.4.3.3.1 — Regulación de la protección de predios de las personas en situación de desplazamiento forzado
 
 La Unidad Administrativa Especial para la Gestión de Restitución de Tierras Despojadas, en el marco de sus competencias, regulara los procedimientos para proteger los predios de las personas en situación de desplazamiento forzado de acuerdo con lo dispuesto en el inciso primero del artículo 19 de la Ley 387 de 1997. Estas medidas tienen por objeto que las autoridades competentes procedan a impedir cualquier acción de enajenación o transferencia de títulos de propiedad de estos bienes, que se hagan en contra de la voluntad de los titulares de dichos predios.
 
-ARTÍCULO
-
 ## art:2.4.3.3.2 — Difusión de las medidas de protección en el extranjero
 
 Los consulados difundirán información que la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y las demás instituciones con competencia sobre la materia elaboren sobre la protección de predios abandonados forzosamente. Así mismo, los consulados informaran a los interesados sobre los sitios virtuales y demás canales de comunicación que las entidades dispongan para la recepción de solicitudes de medidas de protección, entrega de documentos, realización de peticiones e interposiciones de recursos.
-
-ARTÍCULO
 
 ## art:2.4.3.3.3 — 3.3
 
@@ -13959,13 +12705,9 @@ SECCIÓN 1
 
 Mecanismos de acceso a la justicia
 
-ARTÍCULO
-
 ## art:2.4.3.4.1.1 — Estrategia interinstitucional de unidades móviles de atención y orientación a víctimas del conflicto armado
 
 El Ministerio de Justicia y del Derecho, la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas y la Defensoría del Pueblo implementaran una estrategia de unidades móviles de atención y orientación a víctimas del conflicto armado en Colombia, que atenderá y orientara a esta población en las zonas en las que no exista presencia permanente de funcionarios de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas y de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas en las que exista una alta demanda de atención y orientación por parte de las víctimas de violaciones a la vida, integridad, libertad y seguridad. Estas unidades podrán integrarse con otros mecanismos de acceso a la justicia.
-
-ARTÍCULO
 
 ## art:2.4.3.4.1.2 — Estrategia de atención integral para Mujeres y población LGBTI víctimas de violencia sexual
 
@@ -13975,35 +12717,25 @@ SECCIÓN 2
 
 Conocimientos comunitarios, apropiación, divulgación de los derechos y acceso local a la justicia
 
-ARTÍCULO
-
 ## art:2.4.3.4.2.1 — 2.1
 
 Divulgación de la oferta institucional encaminada a proteger los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades. El Ministerio de Justicia y del Derecho dispondrá, en la herramienta electrónica Legal APP, o la que haga sus veces, la información de la oferta nacional y local de atención para denunciar y acceder a recursos judiciales y administrativos para prevenir las violaciones de los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades. Esta herramienta servirá a la ciudadanía y a las autoridades para conocer como adelantar un trámite o hacer uso de algún servicio relacionado con la justicia.
 
 PARÁGRAFO. El Ministerio de Justicia y del Derecho, en coordinación con el Ministerio de Tecnologías de la Información y las Comunicaciones, en el término de un año contado a partir de la entrada en vigencia del presente Titulo, establecerá estrategias de divulgación de información en los Kioscos y Puntos Vive Digital, que servirán de plataforma para difundir información sobre los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades y los mecanismos para su protección.
 
-ARTÍCULO
-
 ## art:2.4.3.4.2.2 — 2.2
 
 Divulgación de información sobre el Gobierno propio, el Derecho Mayor y la Ley de Origen con comunidades indígenas y autoridades territoriales. El Ministerio del Interior impulsara y apoyara las iniciativas de las autoridades territoriales y de las comunidades indígenas, para abrir espacios de sensibilización y de formación a sus miembros y a los servidores públicos vinculados a entidades territoriales acerca de las formas de Gobierno Propio, el Derecho Mayor, la Ley de Origen, sus ámbitos de aplicación y los puntos de diferenciación con la jurisdicción nacional. Se observarán en todo caso los usos y costumbres de las comunidades.
 
-ARTÍCULO
-
 ## art:2.4.3.4.2.3 — Justicia territorial y rural
 
 El Plan Decenal del Sistema de Justicia previsto por el artículo 108 de la Ley 1753 de 2015, cuya secretaria técnica está a cargo del Ministerio de Justicia y del Derecho, a efectos de definir las prioridades y criterios territoriales, incluirá la adopción del modelo de justicia con enfoque sistémico y énfasis rural que prevé el Plan Nacional de Desarrollo 2014-2018.
-
-ARTÍCULO
 
 ## art:2.4.3.4.2.4 — Jornadas de socialización de casos con poblaciones en riesgo y comunidades étnicas
 
 La Consejería Presidencial para los Derechos Humanos podrá impulsar y apoyar las iniciativas de las entidades territoriales para realizar jornadas de socialización de casos de interés para miembros de poblaciones en riesgo y comunidades étnicas, sin perjuicio de la reserva sumarial. Para tal efecto, podrá solicitar el acompañamiento de la Fiscalía General de la Nación y de la Procuraduría General de la Nación.
 
 En todo caso, se priorizará la atención sobre casos emblemáticos, locales, tanto urbanos como rurales, relacionados con violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.4.2.5 — Derechos de los hablantes de lenguas nativas
 
@@ -14013,19 +12745,13 @@ SECCIÓN 3
 
 Gestión institucional para el acceso a la justicia
 
-ARTÍCULO
-
 ## art:2.4.3.4.3.1 — Necesidades jurídicas insatisfechas
 
 El Departamento Nacional de Planeación, DNP, liderará la adopción del índice de necesidades jurídicas insatisfechas (NJI) en Colombia, con el apoyo estadístico del Departamento Administrativo Nacional de Estadística, DANE, y el apoyo técnico del Ministerio de Justicia y del Derecho, además de la participación de los integrantes del Sistema Nacional de Estadísticas Judiciales.
 
-ARTÍCULO
-
 ## art:2.4.3.4.3.2 — Capacitación a servidores públicos para la prevención
 
 El Ministerio del Interior y el Ministerio de Justicia y del Derecho coordinaran con las entidades territoriales y las entidades del Sistema Nacional de Estadísticas Judiciales, respectivamente, jornadas de capacitación a servidores públicos en las temáticas de acceso a la justicia y servicios a la justicia para que brinden atención adecuada a las personas, grupos y comunidades,
-
-ARTÍCULO
 
 ## art:2.4.3.4.3.3 — Lineamientos técnicos de atención diferencial para el acceso a la justicia
 
@@ -14035,25 +12761,17 @@ SECCIÓN 4
 
 Fortalecimiento local de la justicia no formal
 
-ARTÍCULO
-
 ## art:2.4.3.4.4.1 — campañas de promoción de solución pacífica de conflictos
 
 El Ministerio de Justicia y del Derecho establecerá y coordinará mecanismos de promoción de los métodos alternativos de solución de conflictos, especialmente en establecimientos educativos, en centros urbanos y en zonas rurales.
-
-ARTÍCULO
 
 ## art:2.4.3.4.4.2 — Capacitación en asuntos de igualdad y no discriminación
 
 El Ministerio de Justicia y del Derecho impulsara, en el Marco de la implementación de la conciliación en equidad -MICE, contenidos sobre igualdad, no discriminación y acción afirmativa.
 
-ARTÍCULO
-
 ## art:2.4.3.4.4.3 — Mecanismos alternativos de solución pacífica de controversias
 
 El Ministerio de Justicia y del Derecho y el Ministerio del Interior promoverán el uso de mecanismos alternativos de solución de controversias para proporcionar respuestas rápidas y accesibles. El Ministerio del Interior apoyara las iniciativas de consolidación de mecanismos alternativos que surjan al interior de las comunidades negras, afrocolombianas, palenqueras y raizales.
-
-ARTÍCULO
 
 ## art:2.4.3.4.4.4 — Mecanismos alternativos de solución pacífica de controversias interétnicas
 
@@ -14067,21 +12785,15 @@ SECCIÓN 1
 
 Gestión institucional para la prevención de dinámicas económicas criminales
 
-ARTÍCULO
-
 ## art:2.4.3.5.1.1 — Georreferenciación de las Dinámicas Económicas Criminales
 
 La Consejería Presidencial para los Derechos Humanos y el Ministerio de Defensa Nacional, en coordinación con el Ministerio del Interior, articulara, con las entidades competentes, el levantamiento de información, seguimiento y mapeo de las actividades económicas criminales en el país, relacionadas con el tráfico de armas pequeñas y ligeras, explotación ilícita de minerales y trata interna de personas. El mapeo favorecerá la gestión de riesgos derivados de las dinámicas delictivas mencionadas, para lo cual dará cuenta del contexto regional, departamental, municipal, urbano y rural en los que se desarrollan y establecerá los canales de comunicación con las autoridades judiciales y administrativas competentes para garantizar el acceso a la justicia de las personas, grupos y comunidades afectadas por las economías ilegales citadas.
 
 PARÁGRAFO. Los datos recabados por medio de la georreferenciación, servirán de insumo para los observatorios regionales y fortalecerán el sistema nacional de información para la prevención.
 
-ARTÍCULO
-
 ## art:2.4.3.5.1.2 — Prevención de violaciones relacionadas con actividades económicas criminales en los territorios
 
 Producto de la georreferenciación de las dinámicas económicas criminales de que trata el artículo anterior, el Ministerio del Interior y el Ministerio de Defensa, apoyaran a las entidades territoriales para prevenir y advertir riesgos derivados de las actividades económicas criminales, mediante la definición de estrategias y actividades dirigidas a contrarrestarlas y que inciden en el goce de los derechos a la vida, a la libertad, a la integridad y a la seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.5.1.3 — Formación y sensibilización a servidores públicos para la prevención de dinámicas económicas criminales
 
@@ -14091,45 +12803,31 @@ SECCIÓN 2
 
 Inclusión de la perspectiva de prevención en las políticas sectoriales de lucha contra las dinámicas económicas criminales
 
-ARTÍCULO
-
 ## art:2.4.3.5.2.1 — Prevención de tráfico ilícito de armas desde la prevención
 
 El Ministerio del Interior, en coordinación con las demás entidades que conforman el Comité de Coordinación Nacional para la Prevención, Combate y Erradicación del Trafico Ilícito de Armas Pequeñas y Ligeras, impulsara la elaboración de un diagnóstico integral sobre los mecanismos de coordinación y articulación en la materia, e impulsara la articulación de los niveles de administración local y nacional con las autoridades policiales que propendan por incrementar el control, la restricción y la prevención del uso, porte, tenencia y tráfico de armas pequeñas y ligeras.
-
-ARTÍCULO
 
 ## art:2.4.3.5.2.2 — Control de tráfico de armas en zonas rurales
 
 El Ministerio del Interior, en coordinación con las demás entidades que conforman el Comité de Coordinación Nacional para la Prevención, Combate y Erradicación del Trafico Ilícito de Armas Pequeñas y Ligeras, brindaran apoyo a las entidades territoriales para formular estrategias de control de armas en zonas rurales. El Ministerio de Justicia y del Derecho, a través de las Casas de Justicia u otros mecanismos en las entidades territoriales, apoyara en la difusión de las iniciativas, en la recepción y tramite de denuncias y en la implementación de estrategias de sensibilización a la comunidad acerca del uso responsable de armas de fuego.
 
-ARTÍCULO
-
 ## art:2.4.3.5.2.3 — Prevención temprana en planes preventivos de seguridad y convivencia
 
 El Ministerio del Interior complementara la formulación de los diagnósticos policivos para los planes de seguridad y convivencia, con diagnósticos preventivos, que permitan formular acciones desde la prevención temprana. Para esto, se incorporarán a miembros de la sociedad civil para incluir una perspectiva civil en la formulación de los diagnósticos.
-
-ARTÍCULO
 
 ## art:2.4.3.5.2.4 — Impulso territorial de la prevención del tráfico de armas en zonas priorizadas
 
 Las entidades territoriales implementaran, con acompañamiento técnico del Ministerio del Interior y demás entidades que conforman el Comité de Coordinación Nacional para la Prevención, Combate y Erradicación del Trafico Ilícito de Armas Pequeñas y Ligeras, una estrategia para restringir la distribución de armas pequeñas y ligeras en zonas priorizadas por la incidencia de grupos ilegales, y para fomentar el desarme voluntario de jóvenes reclutados por grupos ilegales.
 
-ARTÍCULO
-
 ## art:2.4.3.5.2.5 — Inclusión de la perspectiva de prevención en la lucha contra la explotación ilícita de minerales
 
 El Ministerio de Minas y Energía y el Ministerio de Defensa Nacional apoyaran las estrategias de prevención a la explotación ilícita de minerales adelantadas por parte de las entidades territoriales competentes.
-
-ARTÍCULO
 
 ## art:2.4.3.5.2.6 — 2.6
 
 Articulación entre el Sistema Nacional de Información sobre la Trata de Personas y el Sistema Nacional de Información del SNDH. Con el objetivo de que los mencionados Sistemas Nacionales de Información cuenten con datos actualizados y veraces sobre el delito de trata de personas, se propiciaran encuentros con las entidades competentes para establecer los canales por medio de los que se realizaran intercambios de información. Para tal fin, se definirá la periodicidad de dichos intercambios.
 
 PARÁGRAFO. Los Comités Departamentales, Distritales y/o Municipales, y las entidades que hacen parte del Comité Interinstitucional para la Lucha contra la Trata de Personas, reportaran la información de la que dispongan, tal como lo ordena el artículo 2.2.2.2.7 de este decreto. Para tal fin, la secretaria técnica del Comité Interinstitucional capacitara en materia de gestión de la información a las entidades territoriales de modo que esta información sirva como insumo para que los programas de prevención sean más efectivos.
-
-ARTÍCULO
 
 ## art:2.4.3.5.2.7 — Prevención de la trata de personas
 
@@ -14147,21 +12845,15 @@ SECCIÓN 3
 
 Gestión social para prevenir violaciones a los derechos a la vida, a la libertad y a la seguridad personal por delitos asociados a las dinámicas económicas criminales
 
-ARTÍCULO
-
 ## art:2.4.3.5.3.1 — Red de mentores para el acompañamiento de jóvenes
 
 La Comisión Intersectorial para la Prevención del Reclutamiento, la Utilización y la Violencia Sexual Contra niños, niñas, y Adolescentes por Grupos Organizados al Margen de la Ley y Grupos Delictivos Organizados, impulsara la consolidación de redes territoriales de mentores de niños, niñas y adolescentes en zonas urbanas y rurales. Las reuniones de los líderes de la red serán llevadas a cabo en los espacios que dispongan las entidades territoriales. El trabajo de los mentores se centrará en brindar asistencia extracurricular educativa y cultural a niños, niñas y adolescentes en zonas urbanas, periféricas y rurales. Los proyectos y actividades que se realicen, serán coordinados con escuelas y estarán también dirigidos a niños, niñas y adolescentes no escolarizados. La prevención de vulneraciones asociadas a las dinámicas económicas criminales estará dentro de las temáticas a trabajar.
-
-ARTÍCULO
 
 ## art:2.4.3.5.3.2 — 3.2
 
 Estrategias para la formación de niños, niñas y adolescentes en la prevención de violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades respecto de dinámicas económicas criminales. El Ministerio del Interior, el Ministerio de Tecnologías de la Información y las Comunicaciones y la Comisión Intersectorial para la Prevención del Reclutamiento, la Utilización y la Violencia Sexual contra niños, niñas, y Adolescentes por Grupos Organizados al Margen de la Ley y Grupos Delictivos Organizados, diseñaran contenidos para difundir el alcance de las dinámicas económicas criminales y de los riesgos que estas generan, sobre el goce efectivo de los derechos a la vida, a la libertad, a la seguridad ya la integridad personal.
 
 PARÁGRAFO: En el término de un año contado a partir de la entrada en vigencia del presente Titulo, se difundirán los contenidos a los que alude el inciso anterior, a través de los Kioscos y Puntos Vive Digital, que servirán de plataforma para difundir información sobre los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades, y los mecanismos para su protección.
-
-ARTÍCULO
 
 ## art:2.4.3.5.3.3 — 3.3
 
@@ -14175,8 +12867,6 @@ SECCIÓN 1
 
 Conocimiento y apropiación de los derechos a la vida, a la integridad, a la libertad, y a la seguridad personal
 
-ARTÍCULO
-
 ## art:2.4.3.6.1.1 — 1.1
 
 Educación para la garantía de los derechos a la vida, a la integridad, a la libertad, ya la seguridad en los ámbitos de educación formal y educación para el trabajo y el desarrollo humano. El Ministerio de Educación Nacional, en coordinación con las entidades competentes del orden nacional, territorial y étnicas, en el marco del desarrollo de competencias básicas, ciudadanas y transversales, fortalecerá el desarrollo de procesos pedagógicos participativos e incluyentes, dirigidos a todos los actores de la comunidad educativa, que en relación con el ejercicio y respeto a los Derechos Humanos en los ámbitos de educación formal, en los niveles de preescolar, básica y media; y en la educación para el trabajo y el desarrollo humano.
@@ -14187,13 +12877,9 @@ PARÁGRAFO 2. Se promoverá la inclusión del enfoque de Derechos Humanos en el 
 
 PARÁGRAFO 3. La implementación de las disposiciones contenidas en el presente artículo tendrá en cuenta el Plan Nacional de Educación en Derechos Humanos -PLANEDH-.
 
-ARTÍCULO
-
 ## art:2.4.3.6.1.2 — Orientaciones para la promoción y el Ejercicio de los Derechos Humanos
 
 El Ministerio de Educación Nacional definirá orientaciones para la promoción y prevención de violaciones a los Derechos Humanos, en el marco de las competencias básicas y las políticas educativas nacionales. Su difusión y aplicación se dirigirá a la comunidad local. Las instituciones educativas deberán hacer especial énfasis de dichas orientaciones en el servicio social obligatorio contemplado en los artículos 66 y 97 de la Ley 115 de 1994 y en los artículos 2.3.3.1.6.4. y 2.3.3.4.1.2.4 del Decreto 1075 de 2015, Único Reglamentario del Sector Educación.
-
-ARTÍCULO
 
 ## art:2.4.3.6.1.3 — 1.3
 
@@ -14201,23 +12887,17 @@ Medios de comunicación y derechos a la vida, a la integridad, a la libertad y a
 
 PARÁGRAFO. Esta mesa establecerá su plan de trabajo y se reunirá periódicamente para hacer seguimiento a las acciones planeadas. La mesa evaluara la incorporación del enfoque de derechos en las noticias y los reportajes.
 
-ARTÍCULO
-
 ## art:2.4.3.6.1.4 — 1.4
 
 Promoción de los derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades en el hogar. Con el fin de promover los derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades en el Hogar, el Instituto Colombiano de Bienestar Familiar, en coordinación con las gobernaciones, alcaldías y autoridades étnicas, desarrollara e impulsara campañas de educación que brinden herramientas para la toma de acciones de rechazo a situaciones y actitudes de violencia al interior del' ámbito familiar y de la comunidad. Se promoverán medidas para el reconocimiento de cada uno de los miembros del grupo familiar como sujeto de derechos, y del ámbito familiar como el primer lugar para la formación, el respeto y la garantía de los derechos en mención.
 
 PARÁGRAFO. El Gobierno Nacional identificará y fortalecerá los espacios propicios ya existentes para difundir o brindar las herramientas a las que se hace referencia en este artículo, tales como las Casas de Justicia y Juntas de Acción Comunal.
 
-ARTÍCULO
-
 ## art:2.4.3.6.1.5 — Investigación académica y comunitaria para la prevención
 
 El Departamento Administrativo de Ciencia, Tecnología e Innovación, Colciencias, en coordinación con las entidades competentes del orden' nacional, territorial y étnicas, apoyaran y fortalecerán iniciativas de investigación, académica, alternativa e independiente, en materia de derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades, que surjan al interior de la academia y de las organizaciones sociales y no gubernamentales a nivel nacional, departamental y municipal.
 
 PARÁGRAFO. Se promoverá la construcción de conocimientos y metodologías participativas, incluyentes, colectivas e interculturales para la difusión y replica de experiencias de prevención de violaciones a los derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.6.1.6 — Estrategia Nacional de Comunicación
 
@@ -14229,13 +12909,9 @@ SECCIÓN 2
 
 Justificaciones, Disposiciones y Actitudes de respeto a los Derechos a la Vida, a la Integridad, a la Libertad ya la Seguridad Personal
 
-ARTÍCULO
-
 ## art:2.4.3.6.2.1 — 2.1
 
 Acciones de promoción de la cultura de respeto a los derechos a la vida, la libertad, la integridad y la seguridad de personas, grupos y comunidades. El Ministerio del Interior, en coordinación con las entidades responsables de orden nacional y las entidades territoriales, realizaran actos masivos, incluyentes y participativos, de alta visibilidad e. impacto que contribuyan a la reflexión colectiva y a alinear expectativas sociales respecto de comportamientos, hábitos y creencias referidos a la protección y garantía de los derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades como derechos inviolables. Se promoverán acciones para el reconocimiento de ciudadanos y ciudadanas que den muestra de solidaridad y de confianza en el otro.
-
-ARTÍCULO
 
 ## art:2.4.3.6.2.2 — Prevención de la estigmatización
 
@@ -14247,8 +12923,6 @@ SECCIÓN 3
 
 Convivencia Pacífica
 
-ARTÍCULO
-
 ## art:2.4.3.6.3.1 — Desarme ciudadano
 
 Las gobernaciones y alcaldías realizarán estrategias de cultura de rechazo ciudadano a la utilización de armas y promoverán el desarme voluntario.
@@ -14257,8 +12931,6 @@ PARÁGRAFO 1. En los ambientes juveniles de alta conflictividad la estrategia de
 
 PARÁGRAFO 2. Las campañas de desarme serán uno de los componentes del proceso pedagógico y de autogestión de las comunidades; se promoverán y fortalecerá las acciones que incidan en las percepciones y ambientes de seguridad.
 
-ARTÍCULO
-
 ## art:2.4.3.6.3.2 — 3.2
 
 Promoción de la labor de defensa de los derechos humanos, por parte de individuos, grupos y comunidades, con enfoque diferencial. El Ministerio del Interior, en coordinación con las entidades competentes del orden nacional y territorial, desarrollara acciones institucionales con enfoque diferencial que proporcionen las debidas garantías a la labor de personas, grupos y/o comunidades que ejercen actividades en pro de la defensa de los derechos humanos,
@@ -14266,8 +12938,6 @@ Promoción de la labor de defensa de los derechos humanos, por parte de individu
 PARÁGRAFO 1. Se tomarán en cuenta los resultados y avances del Proceso Nacional de Garantías y de otros espacios de interlocución con las organizaciones sociales para la defensa de los Derechos Humanos.
 
 PARÁGRAFO 2. Se deberá garantizar la difusión de las acciones previstas en el presente artículo en todo el territorio nacional a efectos de propiciar la apropiación y participación de los ciudadanos, grupos, organizaciones y comunidades que habitan en lugares distantes a los cascos urbanos de los municipios.
-
-ARTÍCULO
 
 ## art:2.4.3.6.3.3 — Visibilizarían de la labor de la Fuerza Pública
 
@@ -14280,8 +12950,6 @@ Prevención de amenazas y vulneraciones asociadas al surgimiento de nuevos riesg
 SECCIÓN 1
 
 Gestión Institucional para la Prevención de Riesgos
-
-ARTÍCULO
 
 ## art:2.4.3.7.1.1 — Fortalecimiento de los programas de protección en el nivel territorial
 
@@ -14296,8 +12964,6 @@ La Unidad Nacional de Protección, en coordinación con las entidades del Gobier
 PARÁGRAFO 1. Las entidades territoriales, la Unidad Nacional de Protección, la Fiscalía General de la Nación y la Policía Nacional desarrollaran protocolos de actuación para la identificación efectiva de quienes profieran amenazas contra los derechos a la vida, a la integridad, a la libertad ya la seguridad de personas, grupos y comunidades, y su judicialización oportuna.
 
 PARÁGRAFO 2. La Procuraduría General de la Nación, en desarrollo de sus funciones, hará seguimiento al cumplimiento de las obligaciones por parte de las entidades antes señaladas en la investigación y juzgamiento de los casos de amenaza.
-
-ARTÍCULO
 
 ## art:2.4.3.7.1.2 — Plan de Articulación del Programa de Protección
 
@@ -14315,15 +12981,11 @@ La Unidad Nacional de Protección elaborará y someterá a consideración de su 
 
 6 estrategias para adelantar evaluaciones de riesgo colectivas a población objeto.
 
-ARTÍCULO
-
 ## art:2.4.3.7.1.3 — Programa de Formación de la Unidad Nacional de Protección
 
 La Unidad Nacional de Protección diseñara e implementar un programa de capacitación en metodologías para análisis y tratamiento de riesgo, análisis y dinámica de las violencias a las que son expuestas las poblaciones objeto, uso y funcionamiento de las medidas de protección, Derechos Humanos y temas afines al Programa de Protección, dirigido a los integrantes de los diferentes comités y grupos internos de la UNP que intervienen en el programa
 
 (Modificado por el Art. 27 del Decreto 1139 de 2021)
-
-ARTÍCULO
 
 ## art:2.4.3.7.1.4 — Mecanismo de impulso a las investigaciones
 
@@ -14331,15 +12993,11 @@ La Unidad Nacional de Protección, en coordinación con la Fiscalía General de 
 
 PARÁGRAFO. Las entidades responsables del impulso de las investigaciones habilitaran espacios para la participación de la sociedad civil para dar seguimiento a las investigaciones.
 
-ARTÍCULO
-
 ## art:2.4.3.7.1.5 — Inclusión del enfoque diferencial y de género en la prevención de agresiones sexuales
 
 El Ministerio del Interior, en coordinación con la Consejería Presidencial para la Equidad de la Mujer, apoyara a las gobernaciones y alcaldías en la implementación de las estrategias necesarias para prevenir la violencia sexual por motivos relacionados con el género, la orientación y la identidad sexual, con base en el enfoque diferencial.
 
 Las alcaldías adoptaran el plan integral para garantizar a las mujeres una vida libre de violencia, para lo cual desarrollaran y difundirán las estrategias dirigidas a la implementación de medidas para prevenir riesgos, vulneraciones, y proteger los derechos de las mujeres víctimas del conflicto armado y la implementación de la Resolución 805 de 2012 del Ministerio del Interior, o aquella que la modifique, adicione o derogue.
-
-ARTÍCULO
 
 ## art:2.4.3.7.1.6 — 1.6
 
@@ -14351,15 +13009,11 @@ SECCIÓN 2
 
 Fortalecimiento de la sociedad civil para la prevención
 
-ARTÍCULO
-
 ## art:2.4.3.7.2.1 — Fortalecimiento de la vinculación de la sociedad civil en espacios de prevención
 
 El Ministerio del Interior establecerá y propiciará el desarrollo de espacios para la participación de la sociedad civil en la identificación, el análisis y la gestión del riesgo.
 
 Los espacios de participación establecerán mecanismos que privilegien la participación directa de las organizaciones sociales de base.
-
-ARTÍCULO
 
 ## art:2.4.3.7.2.2 — Fortalecimiento a las expresiones asociativas
 
@@ -14367,13 +13021,9 @@ El Gobierno Nacional apoyara la labor desarrollada por las gobernaciones, alcald
 
 PARÁGRAFO. El Gobierno Nacional, a través del Ministerio del Interior, promoverá acciones tendientes a fortalecer habilidades para gestionar riesgos e incentivar la puesta en marcha y la visibilizarían de estrategias de seguridad preventiva de comunidades para impulsar su utilización, en los grupos o comunidades que lo requieran.
 
-ARTÍCULO
-
 ## art:2.4.3.7.2.3 — Proyecto de fortalecimiento de capacidades comunitarias para la prevención
 
 Las gobernaciones y alcaldías, con la asistencia técnica y el apoyo del Ministerio del Interior y la Unidad Nacional de Protección, desarrollaran estrategias dirigidas a la generación de capacidades de los grupos y comunidades, para la identificación, análisis de riesgos y el fortalecimiento de prácticas propias de prevención y protección individual y colectiva, que les permita acudir a las autoridades competentes para la salvaguarda de sus derechos, e implementar acciones contingentes, con enfoque diferencial por razones de género y etnia, para contrarrestarlos o mitigarlos.
-
-ARTÍCULO
 
 ## art:2.4.3.7.2.4 — Fomento al liderazgo social y comunitario
 
@@ -14405,23 +13055,17 @@ En el desarrollo de estas acciones, el Ministerio del Interior promoverá los si
 
 12. La gestión y consecución de fuentes de financiación.
 
-ARTÍCULO
-
 ## art:2.4.3.7.2.5 — Fortalecimiento de las comunidades étnicas y sus capacidades de prevención
 
 El Ministerio del Interior y la Unidad Nacional de Protección, brindaran asistencia técnica a las autoridades étnicas para que, desde sus usos y costumbres, diseñen y potencien las estrategias comunitarias para la prevención y protección ante probables vulneraciones a sus derechos.
 
 PARÁGRAFO. Las entidades concernidas con la participación de los respectivos mecanismos de representación, establecerán los componentes específicos para la política de prevención con enfoque diferencial étnico.
 
-ARTÍCULO
-
 ## art:2.4.3.7.2.6 — Prevención temprana de la delincuencia juvenil
 
 El Sistema Nacional de Juventud, en coordinación con las gobernaciones y alcaldías, diseñara e implementar estrategias dirigidas a la prevención de la utilización o vinculación de los niños, niñas, adolescentes y jóvenes en actividades ilícitas. Las estrategias diseñadas deberán adecuarse a las condiciones sociales, económicas y culturales, a la vocación territorial y poblacional de cada contexto.
 
 PARÁGRAFO. Los programas desarrollaran estrategias para incluir a las familias como corresponsables en la implementación de las estrategias de prevención temprana, dada su responsabilidad en la crianza de los jóvenes.
-
-ARTÍCULO
 
 ## art:2.4.3.7.2.7 — Formación de jóvenes promotores para la prevención
 
@@ -14435,15 +13079,11 @@ SECCIÓN 1
 
 Gestión institucional
 
-ARTÍCULO
-
 ## art:2.4.3.8.1.1 — Estrategia nacional de evaluación de las capacidades con enfoque institucional y territorial para la prevención
 
 El Ministerio del Interior, con el apoyo del Departamento Nacional de Planeación y el Departamento Administrativo para la Función Pública, diseñaran e implementaran, en los dos años siguientes a la entrada en vigencia del presente Titulo, una metodología con enfoque territorial que permita evaluar e identificar la oportunidad, idoneidad y eficacia de los programas, proyectos procesos, procedimientos y protocolos, así como los instrumentos de prevención, desarrollados por las entidades del nivel nacional con competencia en prevención; los instrumentos, programas, proyectos, procesos, procedimientos y protocolos de prevención de las entidades territoriales; y la articulación y coordinación de acciones, esquemas y flujos de información entre niveles administrativos para la toma de decisiones y el desarrollo de acciones en prevención.
 
 PARÁGRAFO. Una vez concluido el diseño del instrumento y a partir de la primera evaluación, cada año, el Ministerio del Interior, con el apoyo del Departamento Nacional de Planeación y el Departamento Administrativo para la Función Pública, realizara la medición a nivel nacional y territorial para hacer seguimiento a la capacidad institucional para la prevención, de acuerdo con el plan de evaluaciones liderado por el Departamento Nacional de Planeación.
-
-ARTÍCULO
 
 ## art:2.4.3.8.1.2 — Articulación y adecuación de los programas, proyectos e instrumentos de prevención del orden nacional y territorial
 
@@ -14451,13 +13091,9 @@ A partir de los resultados obtenidos en la evaluación de las capacidades instit
 
 PARÁGRAFO. Las entidades del orden nacional tendrán un plazo de dos meses, una vez conocido el resultado de la evaluación de capacidades inicial y periódico, para remitir al Ministerio del Interior, al Departamento Nacional de Planeación y al Ministerio de Hacienda y Crédito Público, los informes sobre el ajuste a los programas, proyectos, procesos y procedimientos realizados.
 
-ARTÍCULO
-
 ## art:2.4.3.8.1.3 — Fortalecimiento de la presencia institucional en los territorios
 
 El Ministerio del Interior, en coordinación con el Ministerio de Hacienda y Crédito Público, la Presidencia de la Republica, las entidades nacionales con competencias en prevención de las violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades y las entidades territoriales del orden departamental y municipal, diseñara un plan estratégico para la identificación y puesta en marcha de los ajustes institucionales en materia presupuestal, administrativa y organizacional, para garantizar la presencia de las instituciones en los territorios.
-
-ARTÍCULO
 
 ## art:2.4.3.8.1.4 — Rendición de cuentas e impacto de las acciones institucionales
 
@@ -14465,23 +13101,17 @@ De forma anual, el Ministerio del Interior y la Consejería Presidencial para lo
 
 PARÁGRAFO. Las entidades del orden departamental y municipal generaran, igualmente, espacios para la presentación de resultados de gestión e impacto de las acciones para la prevención de violaciones a los derechos a la vida, a la libertad, a la integridad y a la seguridad de personas, grupos y comunidades.
 
-ARTÍCULO
-
 ## art:2.4.3.8.1.5 — Programa de apoyo psicosocial a servidores públicos que desarrollan acciones en prevención
 
 El Ministerio de Salud y Protección Social y las demás entidades competentes, generaran mecanismos que garanticen el acompañamiento psicosocial a servidores públicos de entidades nacionales y territoriales que realizan funciones públicas en materia de prevención, a fin de que se pueda disminuir el impacto emocional derivado de las labores propias de su cargo.
 
 PARÁGRAFO. El Ministerio de Salud y Protección Social implementara un mecanismo de seguimiento a los resultados e impacto del acompañamiento psicosocial a los servidores públicos de que trata este artículo.
 
-ARTÍCULO
-
 ## art:2.4.3.8.1.6 — 1.6
 
 Mecanismo de articulación del Sistema de Alertas Tempranas SAT y la Comisión Intersectorial de Alertas Tempranas CIAT, y retroalimentación territorial. El Ministerio del Interior diseñara e implementara un mecanismo para la asistencia técnica y el acompañamiento a las entidades territoriales, para la puesta en marcha de acciones nacionales y territoriales para el cumplimiento de las recomendaciones emitidas por el mecanismo SAT-CIAT.
 
 PARÁGRAFO. El Ministerio del Interior realizara seguimiento y retroalimentación de la implementación de acciones nacionales y territoriales diseñadas a partir de la advertencia de situación de riesgo realizada por el SAT.
-
-ARTÍCULO
 
 ## art:2.4.3.8.1.7 — Acciones para garantizar la protesta como una expresión de los derechos de reunión y manifestación pública y pacífica
 
@@ -14507,15 +13137,11 @@ SECCIÓN 2
 
 Formación Integral del Talento Humano
 
-ARTÍCULO
-
 ## art:2.4.3.8.2.1 — Proyecto de generación de conocimientos y competencias en materia de prevención
 
 El Ministerio del Interior, la Consejería Presidencial para los Derechos Humanos, y el Departamento Administrativo de la Función Pública, a través de la Escuela Superior de Administración Pública, desarrollaran un proceso permanente de formación para la generación de conocimientos, habilidades y destrezas, que permita a los funcionarios o personal que cumple funciones públicas, aportar a la prevención de vulneraciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades. Se requerirá el apoyo del Ministerio Público en el marco de sus competencias,
 
 PARÁGRAFO. Se promoverá la creación y funcionamiento de redes de conocimientos, que potencialicen la investigación y profundización académica aplicada a los contextos locales.
-
-ARTÍCULO
 
 ## art:2.4.3.8.2.2 — Proyecto de intercambio de experiencias
 
@@ -14523,13 +13149,9 @@ El Ministerio del Interior con el apoyo de la Consejería Presidencial de Derech
 
 PARÁGRAFO. Los resultados de los encuentros y la sistematización de las experiencias se darán a conocer a todas las entidades territoriales y se pondrán a disposición y consulta de todos en las páginas web de las instituciones líderes del proceso.
 
-ARTÍCULO
-
 ## art:2.4.3.8.2.3 — Proyecto de evaluación de capacidades de servidores públicos y retroalimentación permanente
 
 El Departamento Administrativo de la Función Pública, a través de la Escuela Superior de Administración Pública, las unidades de personal y control interno de cada entidad, con responsabilidades en materia de prevención en los diferentes ordenes territoriales, en los dos años siguientes a la entrada en vigencia del presente título, generaran un mecanismo de identificación de las fortalezas y debilidades del personal que cumple funciones públicas, que trabaja en temas de prevención, con el fin de identificar planes de mejoramiento que redunden en elevar los niveles de efectividad de los mismos, en materia de prevención de los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.8.2.4 — 2.4
 
@@ -14538,8 +13160,6 @@ Premio y mención de honor a los maestros por su labor de formación en derechos
 SECCIÓN 3
 
 Gestión de la Información para el Desarrollo de Capacidades
-
-ARTÍCULO
 
 ## art:2.4.3.8.3.1 — Gestión y Consolidación de Información para la toma de decisiones en Prevención
 
@@ -14555,15 +13175,11 @@ SECCIÓN 1
 
 Mecanismos de coordinación y articulación interinstitucional para la implementación de la política
 
-ARTÍCULO
-
 ## art:2.4.3.9.1.1 — Comité Nacional de Política Pública de Prevención
 
 Crease el Comité Nacional de Política Pública de Prevención, cuyo objeto será coordinar y articular la política pública de prevención de violaciones a la vida, integridad, libertad y seguridad de personas, grupos y comunidades.
 
 PARÁGRAFO. Serán miembros de este Comité: el Ministro del Interior, el Ministro de Justicia y del Derecho, el Ministro de Defensa Nacional, el Ministro de Minas y Energía, el Director de la Unidad para la Atención y Reparación Integral a las Víctimas y el Alto Consejero Presidencial para el Posconflicto, quienes serán los encargados de impulsar la implementación de los proyectos destinados a prevenir las violaciones a los derechos a la vida, a la integridad, a la libertad y a la seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.9.1.2 — Funciones del Comité
 
@@ -14576,8 +13192,6 @@ El Comité Nacional de Política Pública de Prevención tendrá las siguientes 
 3 acoger los ajustes de la política pública de prevención propuestos por el Comité Técnico.
 
 4 aprobar el reglamento elaborado por el Comité Técnico para la Prevención en el plazo de un mes a partir del traslado de dicho documento.
-
-ARTÍCULO
 
 ## art:2.4.3.9.1.3 — Comité Técnico para la Prevención
 
@@ -14603,8 +13217,6 @@ Créese el Comité Técnico para la Prevención. Los ministros del Interior, de 
 
 10. diseñar su reglamento y proponer el reglamento del Comité Nacional de Política Pública de Prevención, Coordinación y Articulación en un plazo de 3 meses a partir de la entrada en vigencia de este decreto. Estos reglamentos contendrán aspectos operativos como el número de sesiones de los comités, su periodicidad, mecanismos de adopción, seguimiento, evaluación e implementación de sus decisiones. La propuesta de reglamento del Comité Nacional de Política Pública de Prevención será trasladada por parte del Comité Técnico para la Prevención al Comité Nacional al día siguiente de su elaboración.
 
-ARTÍCULO
-
 ## art:2.4.3.9.1.4 — Comités Territoriales de Prevención
 
 Para articular, coordinar e impulsar la implementación de la política pública de prevención en el territorio, el respectivo Gobernador o alcalde podrá optar por la creación del Comité Territorial de Prevención, o desarrollar estas acciones en las instancias territoriales ya creadas en el territorio para el efecto, como las mesas territoriales de prevención, o el espacio que considere la máxima autoridad administrativa local.
@@ -14613,13 +13225,9 @@ PARÁGRAFO 1. A las sesiones de trabajo por la instancia territorial que se opte
 
 PARÁGRAFO 2. Con el objeto de realizar el seguimiento a la implementación de la política pública de prevención en el territorio, la entidad territorial deberá informar al Ministerio del Interior, en el plazo de 3 meses contados a partir de la entrada en vigencia de este Título, la instancia territorial que adelantará las acciones previstas en el presente artículo.
 
-ARTÍCULO
-
 ## art:2.4.3.9.1.5 — Integración de los Comités Territoriales de Prevención
 
 Los Comités Territoriales de Prevención estarán integrados por la autoridad de gobierno departamental, distrital o municipal correspondiente, quien la presidirá. En ellas participara un representante o delegado de las demás entidades y dependencias del Estado con competencia en esta materia.
-
-ARTÍCULO
 
 ## art:2.4.3.9.1.6 — Responsabilidades de los Comités Territoriales de Prevención
 
@@ -14648,8 +13256,6 @@ PARÁGRAFO 2. En cada ente territorial se conformará un grupo promotor de la po
 SECCIÓN 2
 
 Responsabilidades de las entidades en el marco de la implementación de la política de prevención
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.1 — Entidades con responsabilidades en la Política Publica de Prevención
 
@@ -14691,8 +13297,6 @@ Las siguientes entidades son principales responsables en la implementación de p
 
 18 las Personerías Distritales y Municipales.
 
-ARTÍCULO
-
 ## art:2.4.3.9.2.2 — Instancias con responsabilidades en la Política de Prevención
 
 Además de las señaladas en el presente decreto, serán responsables de la implementación de la política de prevención las siguientes instancias:
@@ -14706,8 +13310,6 @@ Además de las señaladas en el presente decreto, serán responsables de la impl
 4 la Dirección del Sistema Nacional de Juventud "Colombia Joven".
 
 5 los Consejos de Seguridad Territoriales.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.3 — 2.3
 
@@ -14726,8 +13328,6 @@ Responsabilidades de la Dirección de Derechos Humanos del Ministerio del Interi
 6 asesorar técnicamente a las entidades territoriales en la formulación de sus políticas territoriales de prevención, el diseño de sus instrumentos de implementación y mecanismos de seguimiento, evaluación y monitoreo.
 
 7 desarrollar, en coordinación con las entidades competentes estrategias para impulso de una cultura de respeto y garantía de los derechos humanos.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.4 — Responsabilidades del Ministerio de Defensa Nacional, en el marco de la Política de prevención
 
@@ -14748,8 +13348,6 @@ El Ministerio de Defensa Nacional, las Fuerzas Militares y Policía Nacional, de
 7 definir, en coordinación con la Unidad Nacional de Protección y las autoridades civiles nacionales y territoriales, estrategias preventivas para situaciones particulares de riesgo.
 
 8 suministrar información disponible al Comité Nacional de Política Pública de Prevención, al Comité Técnico para la Prevención y a los Comités Territoriales de Prevención relativa a riesgos asociados a violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.5 — Responsabilidades del Ministerio de Justicia y del Derecho, en el marco de la política pública de prevención
 
@@ -14775,8 +13373,6 @@ El Ministerio de Justicia y del Derecho desarrollara las siguientes actividades 
 
 10 elaborar los diagnósticos de conflictividad y tipología del conflicto en los municipios en el que prestan sus servicios las organizaciones sociales.
 
-ARTÍCULO
-
 ## art:2.4.3.9.2.6 — Responsabilidades del Ministerio de Minas y Energía, en el marco de la política pública de prevención
 
 El Ministerio de Minas y Energía desarrollara las siguientes actividades en el marco de la política pública de prevención:
@@ -14792,8 +13388,6 @@ El Ministerio de Minas y Energía desarrollara las siguientes actividades en el 
 5 participar en la estrategia de formación a servidores públicos prevista en el artículo 2.4.3.4.3.2. del presente Titulo, especialmente en lo relacionado a la estrategia para diferenciar la minería informal de la explotación ilícita de minerales.
 
 6. Informar al SAT sobre las alertas tempranas de las que tenga conocimiento y que tenga que ver con el objeto del presente Titulo.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.7 — Responsabilidades del Alto Consejero Presidencial para el Posconflicto, en el marco de la política de prevención
 
@@ -14811,8 +13405,6 @@ El Alto Consejero Presidencial para el Posconflicto asumirá las siguientes resp
 
 6. Apoyar la inclusión de iniciativas de seguridad y convivencia ciudadana en los instrumentos de prevención.
 
-ARTÍCULO
-
 ## art:2.4.3.9.2.8 — Responsabilidad de la Agencia para la Reincorporación y la Normalización
 
 La Agencia para la Reincorporación y la Normalización asumirá las siguientes responsabilidades en el marco de esta política:
@@ -14822,8 +13414,6 @@ La Agencia para la Reincorporación y la Normalización asumirá las siguientes 
 2. acompañar y asesorar a las entidades competentes en la definición e implementación de políticas, estrategias y programas relacionados con la prevención del reclutamiento y la desvinculación de niños, niñas, adolescentes y jóvenes menores de edad de grupos armados organizados .al margen de la ley.
 
 3. Coadyuvar con los entes nacionales y territoriales en el diseño y ejecución de estrategias encaminadas a la prevención de violación de los derechos a la vida, libertad, integridad y seguridad, de personas, grupos y/o comunidades vulnerables en razón del conflicto armado.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.9 — 2.9
 
@@ -14841,8 +13431,6 @@ Responsabilidades de la Unidad Administrativa Especial para la Atención y Repar
 
 6. Incorporar el enfoque psicosocial en la atención a las víctimas, apoyada en los principios de dignificación y el reconocimiento, el empoderamiento y la acción sin daño; promoviendo la creación de estrategias que conduzcan a la disminución del impacto y daño emocional a víctimas del conflicto armado.
 
-ARTÍCULO
-
 ## art:2.4.3.9.2.10 — .10
 
 Responsabilidades de la Unidad Administrativa Especial para la Gestión de Restitución de Tierras Despojadas, en el marco de la política de prevención. La Unidad Administrativa Especial para la Gestión de Restitución de Tierras Despojadas tendrá las siguientes responsabilidades en materia de prevención:
@@ -14850,8 +13438,6 @@ Responsabilidades de la Unidad Administrativa Especial para la Gestión de Resti
 1 trasladar al Ministerio del Interior información disponible relativa a las áreas de intervención y de recepción de solicitudes de inscripción en el Registro de Tierras Despojadas Forzosamente, para los análisis que estime pertinentes el Ministerio del Interior sobre el comportamiento del fenómeno del despojo o el abandono forzado de tierras.
 
 2 armonizar las funciones de protección de predios abandonados forzosamente con la competencia dirigida a la gestión de restitución de tierras prevista en la Ley 1448 de 2011.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.11 — .11
 
@@ -14864,8 +13450,6 @@ Responsabilidades de la Comisión Intersectorial de Alertas Tempranas CIAT, en e
 3. Proyectar las recomendaciones necesarias a las entidades concernidas, así como la actualización de las mismas, para salvaguardar los derechos a la vida, la libertad, la integridad y seguridad de las personas, grupos y comunidades en situación de riesgo en las zonas focalizadas.
 
 4. Reportar a las entidades descritas en el artículo 2.4.1.2.15 del Decreto 1066 de 2015, modificado por el artículo 2.4.3.9.2.1 del presente Decreto, los avances en la implementación de las acciones de prevención, enmarcadas en los planes formulados, que son de su competencia y los resultados obtenidos.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.12 — Atribuciones de los departamentos, en el marco de la política de prevención
 
@@ -14890,8 +13474,6 @@ De conformidad con lo dispuesto por los artículos 287, 298 y 305 de la Constitu
 9 implementar las estrategias y actividades que, por competencia, o en virtud de los principios de concurrencia, complementariedad y subsidiaridad, se identifiquen a su cargo en los planes de prevención integrales de prevención y demás instrumentos de la política.
 
 10 definir, en coordinación con el Programa de Prevención del Ministerio del Interior y las autoridades civiles y de Fuerza Pública, estrategias preventivas para situaciones particulares de riesgo.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.13 — Atribuciones de los municipios, en el marco de la política de prevención
 
@@ -14919,8 +13501,6 @@ Acorde con los artículos 287, 311 y 315 de la Constitución Política y de la L
 
 11 definir, en coordinación con el Programa de Prevención del Ministerio del Interior y las autoridades civiles y de Fuerza Pública, estrategias preventivas para situaciones particulares de riesgo.
 
-ARTÍCULO
-
 ## art:2.4.3.9.2.14 — .14
 
 Coordinación del Ministerio del Interior con el Sistema de Alertas Tempranas de la Defensoría del Pueblo, en el marco de la política de prevención. El Ministerio del Interior, dentro del principio de colaboración armónica, solicitara a la Defensoría del Pueblo que dentro del marco de sus funciones legales:
@@ -14930,8 +13510,6 @@ Coordinación del Ministerio del Interior con el Sistema de Alertas Tempranas de
 2 Emita alertas tempranas y notas de seguimiento cuando las circunstancias de riesgo así lo ameriten.
 
 3 acompañe los espacios interinstitucionales del orden nacional, departamental y municipal para la salvaguarda de los derechos a la vida, integridad, libertad y seguridad de las personas, grupos y comunidades en situación de riesgo.
-
-ARTÍCULO
 
 ## art:2.4.3.9.2.15 — .15
 
@@ -14947,8 +13525,6 @@ Coordinación del Ministerio del Interior con la Procuraduría General de la Nac
 
 5 acompañe a las instancias interinstitucionales de los diferentes niveles territoriales para el cumplimiento de sus atribuciones y responsabilidades en el marco de la política de prevención.
 
-ARTÍCULO
-
 ## art:2.4.3.9.2.16 — .16
 
 Coordinación del Ministerio del Interior con las personerías distritales y municipales, en el marco de la política de prevención. El Ministerio del Interior, dentro del principio de colaboración armónica, solicitara a las personerías distritales y municipales que dentro del marco de sus funciones legales:
@@ -14963,15 +13539,11 @@ SECCIÓN 3
 
 Instrumentos para la coordinación y articulación interinstitucional para la implementación de la política
 
-ARTÍCULO
-
 ## art:2.4.3.9.3.1 — Instrumentos para la coordinación interinstitucional para la prevención
 
 Los instrumentos de coordinación interinstitucional para la prevención de violaciones a los derechos humanos son: Los Planes Integrales de Prevención; los Planes de Contingencia; los Planes de Acción contra Minas Antipersonal; los Planes de Prevención de Reclutamiento y Utilización de niños, niñas y Adolescentes y demás planes sectoriales de prevención existentes; las rutas para la prevención de violaciones a los derechos a la vida, integridad, libertad y seguridad de personas, grupos y comunidades; los mecanismos de respuesta local a riesgos identificados, y los demás que así identifique el Gobierno Nacional.
 
 La Nación y las entidades territoriales incluirán en sus respectivos planes de desarrollo el impulso e implementación de los instrumentos de prevención, así como las partidas presupuestales necesarias para la financiación de los mismos.
-
-ARTÍCULO
 
 ## art:2.4.3.9.3.2 — Integración de instrumentos de prevención
 
@@ -14981,13 +13553,9 @@ PARÁGRAFO 1. Las entidades del orden nacional, departamental y territorial apor
 
 PARÁGRAFO 2. La información contenida en las recomendaciones de las alertas tempranas, los informes de riesgo y notas de seguimiento y los mapas de riesgo aportaran los elementos de juicio para el análisis que permita la prevención efectiva de las violaciones a los derechos humanos a la vida, la libertad, la integridad y la seguridad de personas, grupos y comunidades.
 
-ARTÍCULO
-
 ## art:2.4.3.9.3.3 — Objetivo de los planes integrales de prevención
 
 Los planes de prevención identificaran los riesgos contra los derechos a la vida, la integridad, la libertad y la seguridad de personas, grupos y comunidades.
-
-ARTÍCULO
 
 ## art:2.4.3.9.3.4 — Elementos de los planes integrales de prevención
 
@@ -15011,8 +13579,6 @@ Son elementos constitutivos de los planes integrales de prevención:
 
 9 los mecanismos de rendición de cuentas.
 
-ARTÍCULO
-
 ## art:2.4.3.9.3.5 — Formulación de los planes integrales de prevención
 
 Para la formulación de los planes integrales de prevención, las entidades responsables de su formulación deberán adelantar las siguientes actividades:
@@ -15035,25 +13601,17 @@ Para la formulación de los planes integrales de prevención, las entidades resp
 
 9. Apropiar los recursos necesarios para la implementación de las diferentes estrategias y actividades a desarrollar en el marco del Plan Integral de Prevención, identificando el responsable de su consecución y aplicación
 
-ARTÍCULO
-
 ## art:2.4.3.9.3.6 — Aprobación de los planes integrales de prevención
 
 El Gobernador o alcalde según corresponda, convocara con la suficiente antelación, una audiencia de la Instancia de articulación territorial de implementación de la política para la validación y aprobación de los mismos.
-
-ARTÍCULO
 
 ## art:2.4.3.9.3.7 — Notificación sobre el plan integral de prevención
 
 Una vez aprobado el Plan Integral de Prevención, la entidad territorial respectiva remitirá una copia del mismo a la Dirección de Derechos Humanos del Ministerio del Interior, a fin de coadyuvar el apoyo a la gestión de la implementación de los respectivos planes y efectuar el seguimiento a la implementación de los mismos, en el escenario que se defina para tal fin. También se remitirá copia a la Procuraduría Regional o Provincial respectiva ya la Defensoría Regional para que apoyen su seguimiento y evaluación.
 
-ARTÍCULO
-
 ## art:2.4.3.9.3.8 — Identificación local de riesgos inminentes
 
 Ante situaciones graves que amenacen de forma específica, concreta, presente, importante, seria, clara, discernible, excepcional y desproporcionada, los derechos a la vida, la libertad, la integridad y la seguridad de individuos, grupos o comunidades, la instancia de coordinación territorial, definida en el presente Titulo, por conducto del Gobernador o alcalde respectivo, activara los instrumentos de prevención de que disponga a fin de contrarrestar o mitigar riesgos identificados.
-
-ARTÍCULO
 
 ## art:2.4.3.9.3.9 — Proceso para la gestión, emisión y seguimiento de la alerta local a riesgos inminentes
 
@@ -15079,19 +13637,13 @@ CAPÍTULO 10
 
 Instrumentos y mecanismos de monitoreo, evaluación y seguimiento
 
-ARTÍCULO
-
 ## art:2.4.3.10.1 — Objeto de los instrumentos y mecanismos de monitoreo y seguimiento
 
 Garantizar el flujo de información sobre el desempeño de la política pública de prevención y ofrecer elementos acerca del cumplimiento de sus objetivos y metas.
 
-ARTÍCULO
-
 ## art:2.4.3.10.2 — Línea de Base
 
 El Ministerio del Interior coordinara la construcción de una línea de base para el monitoreo y evaluación del progreso y la eficacia de la implementación de los proyectos contemplados en el presente Titulo. Para tales efectos, el Ministerio de Justicia y del Derecho, la Unidad Nacional de Protección, la Consejería Presidencial para Derechos Humanos y la Unidad Administrativa Especial para la Atención y Reparación Integral de Víctimas, en el marco de sus competencias, apoyaran la construcción de la línea de base del presente artículo.
-
-ARTÍCULO
 
 ## art:2.4.3.10.3 — diseño e implementación del sistema de seguimiento, monitoreo y evaluación
 
@@ -15107,8 +13659,6 @@ CAPÍTULO 1
 
 PREVENCIÓN DE LA DISCRIMINACIÓN POR RAZONES DE ORIENTACIÓN SEXUAL E IDENTIDAD DE GENERO #AquiEntranTodos
 
-ARTÍCULO
-
 ## art:2.4.4.1.1 — Objeto
 
 El objeto de este capítulo es adoptar medidas tendientes a prevenir la discriminación por razones de orientación sexual e identidad de género diversa, para promover espacios libres de discriminación, mediante la prevención de prácticas discriminatorias en el acceso y permanencia en establecimientos de comercio o de otra naturaleza abiertos al público contra los sectores sociales LGBTI o personas con orientaciones sexuales e identidades de genero diversas.
@@ -15116,8 +13666,6 @@ El objeto de este capítulo es adoptar medidas tendientes a prevenir la discrimi
 El fin de esta acción afirmativa es contribuir a consolidar una sociedad que tiene como premisa vencer la exclusión social que la afecta, no solo desde un punto de vista material y objetivo, sino también simbólico y subjetivo, mediante la generación de procesos de transformación cultural que permitan a las personas LGBTI o con orientación sexual e identidad de género diversas superar la situación de confinamiento social que históricamente han padecido, a través de la superación de- las barreras de acceso y permanencia.
 
 (Decreto 410 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.1.2 — Promoción de entornos libres de discriminación
 
@@ -15135,8 +13683,6 @@ c. Si el propietario, poseedor o tenedor a cualquier título de las empresas y s
 
 (Decreto 410 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.1.3 — Estímulos a la promoción de entornos libres de discriminación
 
 Las alcaldías municipales o distritales, las gobernaciones y el Ministerio del Interior, en el marco de sus competencias y autonomía administrativa y financiera, podrán establecer estímulos o incentivos para promover la cultura de la no discriminación.
@@ -15145,15 +13691,11 @@ En ningún caso estos estímulos o incentivos servirán para asignar puntaje en 
 
 (Decreto 410 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.1.4 — Directrices y mecanismos de seguimiento y control
 
 Las entidades del orden nacional, las gobernaciones y las alcaldías municipales o distritales, en el marco de sus competencias, podrán formular directrices y mecanismos de seguimiento y control al cumplimiento de lo previsto en este título y evaluar el nivel de compromiso con la cultura de la no discriminación.
 
 (Decreto 410 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.1.5 — Asistencia técnica
 
@@ -15169,8 +13711,6 @@ SECCIÓN 1
 
 Disposiciones Generales
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.1 — Objeto
 
 Adoptar la política pública que tiene por objeto la promoción y garantía del ejercicio efectivo de los derechos de las personas que hacen parte de los sectores sociales LGBTI y de personas con orientaciones sexuales e identidades de genero diversas.
@@ -15180,8 +13720,6 @@ Su base es el reconocimiento de la igual dignidad de todas las personas LGBTI y 
 Todo esto bajo la directriz del enfoque diferencial de orientaciones sexuales e identidades de genero diversas, en adelante denominado enfoque OS/IG.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.2 — Objetivos específicos de la política
 
@@ -15203,8 +13741,6 @@ PARÁGRAFO. Las medidas de política adoptadas en el presente capítulo tienen p
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.3 — Ejes estratégicos
 
 A partir del objeto y los objetivos específicos de la presente política pública se desarrollarán los siguientes ejes estratégicos:
@@ -15218,8 +13754,6 @@ A partir del objeto y los objetivos específicos de la presente política públi
 PARÁGRAFO. Estos ejes estructuran los mecanismos y procedimientos que permiten la materialización de los objetivos, mediante la articulación de acciones coordinadas en el orden nacional y territorial que estarán previstas en el plan de acción de la presente política pública.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.4 — Fortalecimiento de capacidades y competencias institucionales
 
@@ -15255,8 +13789,6 @@ Este eje estratégico se refiere al alistamiento que deben adoptar las entidades
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.5 — 1.5
 
 Promoción del reconocimiento e inclusión de los sectores sociales LGBTI y de personas con orientaciones sexuales e identidades de genero diversas. Este eje estratégico va encaminado a rescatar y promover el valor de las identidades de los sectores sociales LGBTI, con el fin de superar factores sociales de rechazo, discriminación y repudio. De igual manera, este eje articula la adopción de medidas por parte de las entidades del orden nacional y territorial para garantizar la participación de estos sectores. En ese orden, las entidades del orden nacional y territorial implementaran estrategias que resalten la igual dignidad de las personas LGBTI y, a su vez, faciliten su ejercicio efectivo de la participación. Para lo cual se trazan las siguientes metas:
@@ -15276,8 +13808,6 @@ Promoción del reconocimiento e inclusión de los sectores sociales LGBTI y de p
 7. Promover la participación y fortalecer la incidencia política de las organizaciones y las personas de los sectores sociales LGBTI, a través de procesos de formación y sensibilización dirigidos a líderes, lideresas y organizaciones sociales defensoras de derechos humanos de estos sectores.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.6 — Reconocimiento garantía y acceso a derechos
 
@@ -15315,23 +13845,17 @@ permanencia y condiciones laborales dignas a las personas de los sectores social
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.7 — Ámbito de aplicación
 
 La política pública que se adopta mediante el presente capítulo aplica en todo el territorio nacional y respecto de toda persona, grupo y/o comunidad.
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.8 — Entidad rectora de la política
 
 El Ministerio del Interior será la entidad rectora y coordinadora de la presente política pública. Como entidad rectora, tendrá a su cargo las funciones de coordinación, asesoría técnica, regulación y monitoreo que permitan dar cumplimiento a los objetivos expuestos.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.9 — Enfoques
 
@@ -15361,8 +13885,6 @@ Por lo tanto, el Estado debe, por un lado, tener en cuenta y analizar esas condi
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.1.10 — Definiciones
 
 Para efectos del presente decreto, se tendrán en cuenta las siguientes definiciones:
@@ -15378,8 +13900,6 @@ Para efectos del presente decreto, se tendrán en cuenta las siguientes definici
 PARÁGRAFO. Las definiciones descritas no implican restricción al ejercicio de derechos, ni limitan las experiencias e identidades individuales, que llevan a la constante evolución y trasformación de los conceptos.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.1.11 — Principios
 
@@ -15401,15 +13921,11 @@ SECCIÓN 2
 
 Estrategias dirigidas a coordinar, articular, hacer seguimiento e implementar la política pública en el nivel territorial
 
-ARTÍCULO
-
 ## art:2.4.4.2.2.1 — Dirección y seguimiento a la política pública
 
 El Ministerio del Interior, como entidad rectora de la presente política pública, se apoyará en el Subsistema de Igualdad, no Discriminación y Respeto por las Identidades, del Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario a que se refiere el Titulo 7 de la Parte 1 del Libro 2 del Decreto 1081 de 2015, Único Reglamentario del Sector Administrativo Presidencia de la Republica.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.2.2 — Instancia de implementación y seguimiento
 
@@ -15418,8 +13934,6 @@ Crear como instancia de implementación y seguimiento, el Grupo Técnico para la
 Se encargará de monitorear el avance y el progreso de la implementación de la presente política pública, por medio de la adopción de directrices que orienten y articulen las acciones a desarrollar por las instituciones responsables en materia de implementación, monitoreo, seguimiento y evaluación de las acciones y metas que se consagran en el presente capítulo.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.2.3 — Funciones del Grupo Técnico para la garantía en el Goce Efectivo de los Derechos de los Sectores Sociales LGBTI
 
@@ -15451,8 +13965,6 @@ c. Mesa temática sobre derechos económicos, sociales y culturales.
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.2.4 — Sesiones y funcionamiento del Grupo Técnico
 
 Los mecanismos de funcionamiento y decisiones, los invitados, el reglamento de actuación, la convocatoria y periodicidad de las sesiones, así como otros aspectos relevantes, serán reglamentados bajo la orientación del Ministerio del Interior.
@@ -15464,8 +13976,6 @@ PARÁGRAFO 2. Dependiendo del tema abordado en cada sesión, el Grupo Técnico p
 PARÁGRAFO 3. El ministro del Interior ejercerá la coordinación de las sesiones.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.2.5 — Funciones del coordinador del Grupo Técnico
 
@@ -15489,8 +13999,6 @@ SECCIÓN 3
 
 Estrategias de territorialización
 
-ARTÍCULO
-
 ## art:2.4.4.2.3.1 — Incorporación del enfoque de orientaciones sexuales e identidades de genero diversas
 
 El Ministerio del Interior orientara a las entidades territoriales en el diseño e implementación de planes, programas, proyectos y mecanismos de planeación, para qué. incorporen el enfoque OS/IG para la garantía de derechos, la eliminación de todo tipo de violencias y la transformación de significados y representaciones culturales.
@@ -15498,8 +14006,6 @@ El Ministerio del Interior orientara a las entidades territoriales en el diseño
 Para lo anterior, se tomarán los parámetros que establezca el plan de acción, respetando los principios de descentralización, autonomía de los entes territoriales, las disponibilidades presupuestales y las capacidades técnicas y operativas de cada ente territorial.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.3.2 — Territorialización de las acciones consagradas en la presente política pública
 
@@ -15510,8 +14016,6 @@ El Ministerio del Interior, a partir de un diagnóstico de las acciones que vien
 SECCIÓN 4
 
 Adopción del plan de acción de la política pública para la garantía del ejercicio efectivo de los derechos de los sectores sociales LGBTI y de personas con orientaciones sexuales e identidades de genero diversas
-
-ARTÍCULO
 
 ## art:2.4.4.2.4.1 — Plan de Acción
 
@@ -15527,15 +14031,11 @@ SECCIÓN 5
 
 Monitoreo, evaluación y seguimiento de la Política Publica
 
-ARTÍCULO
-
 ## art:2.4.4.2.5.1 — Definición y objetivo
 
 La implementación de la política pública para la garantía del ejercicio efectivo de los derechos de las personas que hacen parte de los sectores sociales LGBTI tendrá como uno de sus pilares el proceso de monitoreo, evaluación y seguimiento. Este proceso consiste en la apreciación sistemática y objetiva de los resultados y avances producidos en cada uno de los ejes estratégicos de la política y del plan de acción que la desarrolla. De esta manera, da aplicación a las herramientas e instrumentos técnicos que se requieran, permite contar con un juicio valorado, basado en evidencias, que dé cuenta de aspectos como los logros, la pertinencia, la eficiencia, el impacto y la sostenibilidad. Así mismo, proporciona, en forma periódica, información veraz y útil, que permita incorporar los aprendizajes y resultados en el proceso de toma de decisiones para determinar el alcance y los impactos de las actividades, proyectos y programas.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.5.2 — Instrumentos de monitoreo, seguimiento y evaluación de la política
 
@@ -15547,8 +14047,6 @@ PARÁGRAFO 2. El Ministerio del Interior garantizará el flujo de información s
 
 (Decreto 762 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.4.2.5.3 — Responsables de la evaluación de la política
 
 Como resultado del proceso de monitoreo, seguimiento y evaluación de la política pública, la Dirección de Derechos Humanos del Ministerio del Interior producirá anualmente un documento de evaluación del Plan de Acción, así como los reportes de monitoreo, seguimiento y análisis periódico que considere pertinentes, los cuales pondrá a disposición de las siguientes instancias y actores responsables:
@@ -15558,8 +14056,6 @@ Como resultado del proceso de monitoreo, seguimiento y evaluación de la políti
 2. Actores de la sociedad civil: Los documentos de evaluación anual, así como los reportes producidos por el Ministerio del Interior y el Grupo Técnico, son el insumo principal para garantizar la participación cualificada de la ciudadanía y de los actores y organizaciones sociales interesados en la gestión, resultados e impactos de la política. Se favorece así la transparencia de la actuación institucional.
 
 (Decreto 762 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.4.2.5.4 — Evaluación externa
 
@@ -16206,8 +14702,6 @@ CAPÍTULO 1
 
 COMISIONES CONSULTIVAS DE ALTO NIVEL, DEPARTAMENTALES Y DEL DISTRITO CAPITAL DE BOGOTA
 
-ARTÍCULO
-
 ## art:2.5.1.1.1 — Conformación y objeto
 
 La Comisión Consultiva de Alto Nivel de Comunidades Negras, Afrocolombianas, Raizales y Palenqueras, prevista en el artículo 45 de la Ley 70 de 1993, es una instancia mixta de dialogo e interlocución entre las citadas comunidades y el Gobierno nacional, con el objeto de adelantar el seguimiento de la reglamentación y la aplicación efectiva de las disposiciones previstas en la Ley 70 de 1993 y sus decretos reglamentarios.
@@ -16230,8 +14724,6 @@ PARÁGRAFO 3. En las sesiones de la Comisión Consultiva de Alto Nivel, previa c
 
 PARÁGRAFO 4. Se garantizará a las mujeres negras, afrocolombianas, raizales y palenqueras, su participación por lo menos en un treinta por ciento (30%), de conformidad con la Ley 581 de 2000, el artículo 22 de la Ley 731 de 2002 y las dinámicas propias de las comunidades.
 
-ARTÍCULO
-
 ## art:2.5.1.1.2 — Criterios para la asignación del número Representantes ante Comisión Consultiva de Alto Nivel
 
 Para la determinación de la representación de los Consejos Comunitarios, y formas y expresiones organizativas de comunidades negras, afrocolombianas, raizales y palenqueras de cada departamento, se tendrán en cuenta los siguientes criterios:
@@ -16251,8 +14743,6 @@ PARÁGRAFO 2. Para el departamento del Cauca, uno (1) adicional, teniendo en cue
 PARÁGRAFO 3. Ningún departamento podrá contar con más de seis (6) representantes ante la Comisión Consultiva de Alto Nivel.
 
 PARÁGRAFO 4. La Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras del Ministerio del Interior, con base en los criterios establecidos en este artículo, determinara, mediante resolución motivada, el número de representantes ante la Comisión Consultiva de Alto Nivel, que le corresponde a cada departamento y el distrito capital de Bogotá
-
-ARTÍCULO
 
 ## art:2.5.1.1.3 — Funciones de la Comisión Consultiva de Alto Nivel
 
@@ -16280,15 +14770,11 @@ La Comisión Consultiva de Alto Nivel tendrá las siguientes funciones:
 
 11. Las demás señaladas en la ley o que en el reglamento interno se determinen.
 
-ARTÍCULO
-
 ## art:2.5.1.1.4 — 1.4
 
 Elección de representantes de las comunidades negras, afrocolombianas, raizales y palenqueras, ante la Comisión Consultiva de Alto Nivel. Los representantes designados por los Comunidades Negras, Afrocolombianas, Raizales y Palenqueras ante las comisiones consultivas departamentales y la distrital de Bogotá, designaran entre sus miembros, los representantes de las mismas comunidades ante la comisión consultiva de alto nivel.
 
 PARÁGRAFO. Las respectivas secretarias técnicas de las comisiones consultivas departamentales y la distrital de Bogotá comunicaran a la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras del Ministerio del Interior, la designación de los representantes de las comunidades negras, afrocolombianas, raizales y palenqueras ante la comisión consultiva de alto nivel, para los efectos de su integración.
-
-ARTÍCULO
 
 ## art:2.5.1.1.5 — Conformación de las comisiones consultivas departamentales
 
@@ -16300,8 +14786,6 @@ En los departamentos en donde existan Consejos Comunitarios con titulo colectivo
 
 PARÁGRAFO 1. Las Comisiones Consultivas Departamentales podrán invitar a las sesiones a las instituciones, funcionarios y otros invitados que se requieran para atender los temas de interés de la Comisión, quienes participarán con voz, pero sin voto.
 
-ARTÍCULO
-
 ## art:2.5.1.1.6 — Conformación de la Comisión Consultiva distrital de Bogotá
 
 En el distrito capital de Bogotá se conformará una Comisión Consultiva de la siguiente manera:
@@ -16311,8 +14795,6 @@ En el distrito capital de Bogotá se conformará una Comisión Consultiva de la 
 2. Por parte del gobierno distrital de Bogotá: El Alcalde mayor de Bogotá o secretario distrital de Gobierno, Seguridad y Convivencia, o su delegado, quien la presidirá., las secretarias y entidades que por la naturaleza y objeto de la sesión tengan relación, y sean necesarias para el desarrollo de la misma.
 
 PARÁGRAFO 1. La Comisión Consultiva Distrital de Bogotá, podrá invitar a las sesiones a las instituciones, funcionarios y otros invitados que se requieran para atender los temas de interés de la Comisión, quienes participaran con voz, pero sin voto.
-
-ARTÍCULO
 
 ## art:2.5.1.1.7 — Funciones de las Comisiones Consultivas Departamentales y la del distrito capital de Bogotá
 
@@ -16334,8 +14816,6 @@ Las comisiones consultivas departamentales y la del distrito capital de Bogotá 
 
 8. Las demás funciones asignadas por la ley o el reglamento.
 
-ARTÍCULO
-
 ## art:2.5.1.1.8 — Integración de las asambleas departamentales y la distrital de Bogotá
 
 Las asambleas departamentales y la del distrito capital de Bogotá de comunidades negras, afrocolombianas, raizales y palenqueras, se integrarán así:
@@ -16345,8 +14825,6 @@ Las asambleas departamentales y la del distrito capital de Bogotá de comunidade
 2. Los representantes legales o el delegado de las formas o expresiones organizativas que se encuentren asentadas en predios que no tengan la naturaleza de baldíos, o en situación de desplazamiento y aquellas que se encuentren establecidas en las áreas urbanas, debidamente inscritos en el Ministerio del Interior.
 
 PARÁGRAFO. En todos los casos, la delegación para participar en la respectiva asamblea departamental o la distrital de Bogotá, debe ser por escrito por parte del representante legal del Consejo Comunitario o de las formas o expresiones organizativas de las comunidades negras, afrocolombianas, raizales y palenqueras.
-
-ARTÍCULO
 
 ## art:2.5.1.1.9 — Forma de elección de los representantes ante las comisiones consultivas departamentales y la distrital de Bogotá
 
@@ -16358,21 +14836,15 @@ PARÁGRAFO 1. Para los fines de la elección, dentro de un término de treinta (
 
 PARÁGRAFO 2. La Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras del Ministerio del Interior establecerá, mediante resolución, el cronograma de elección, de conformidad con lo previsto en el presente decreto.
 
-ARTÍCULO
-
 ## art:2.5.1.1.10 — Funcionamiento
 
 Para el cabal cumplimiento de las funciones de las Comisiones Consultivas de Alto Nivel, Departamentales y la del Distrito Capital de Bogotá, cada una de estas expedirá su reglamento interno, en el cual se regulará su funcionamiento administrativo y operativo; las sesiones ordinarias y extraordinarias; el procedimiento para su convocatoria y la integración de subcomisiones.
 
 En desarrollo de las sesiones de las Comisiones Consultivas los representantes del Gobierno o de las comunidades Negras, Afrocolombianas, Raizales y Palenqueras podrán solicitar espacios autónomos en el marco de sus funciones y sus competencias.
 
-ARTÍCULO
-
 ## art:2.5.1.1.11 — Subcomisiones
 
 Para su operatividad, las comisiones consultivas de alto nivel, departamentales y la distrital de Bogotá se organizarán en subcomisiones.
-
-ARTÍCULO
 
 ## art:2.5.1.1.12 — Instituciones de representación
 
@@ -16386,13 +14858,9 @@ Son instituciones de representación de las Comunidades Negras, Afrocolombianas,
 
 4. Las demás que determine la ley.
 
-ARTÍCULO
-
 ## art:2.5.1.1.13 — Financiación
 
 Las instituciones públicas del nivel nacional, departamental, y del Distrito de Bogotá, destinaran los recursos económicos, técnicos y logísticos suficientes para el buen funcionamiento de las Comisiones Consultivas, según sus competencias y necesidades específicas de interlocución y dialogo. Lo anterior, estará sujeto a las disponibilidades presupuestales de cada vigencia y al marco de gastos de mediano plazo.
-
-ARTÍCULO
 
 ## art:2.5.1.1.14 — Secretaria Técnica
 
@@ -16403,8 +14871,6 @@ Las secretarias técnicas de cada Comisión Consultiva estarán a cargo de las s
 2. En las Comisiones Consultivas Departamentales serán ejercidas por el Secretario de Gobierno o quien haga sus veces, según el caso o por la dependencia responsable del tema étnico de comunidades negras, afrocolombianas, raizales y palenqueras en el respectivo departamento.
 
 3. En la Comisión Consultiva del Distrito Capital de Bogotá será ejercida por la Secretaria Distrital de Gobierno o por la dependencia responsable del tema étnico de comunidades negras, afrocolombianas, raizales y palenqueras en el Distrito Capital de Bogotá.
-
-ARTÍCULO
 
 ## art:2.5.1.1.15 — Funciones de la secretaria técnica
 
@@ -16428,21 +14894,15 @@ La Secretaria Técnica de la Comisión Consultiva de Alto Nivel, Departamentales
 
 9. Las demás que le sean asignadas por mandato legal, por la Comisión Consultiva respetiva o por el reglamento interno.
 
-ARTÍCULO
-
 ## art:2.5.1.1.16 — Sesiones
 
 Las Comisiones Consultivas de Alto Nivel, departamentales y la distrital de Bogotá sesionaran en forma ordinaria dos (2) veces al año y en forma extraordinaria, cuando las necesidades lo exijan, previa convocatoria realizada por conducto de la secretaria técnica.
-
-ARTÍCULO
 
 ## art:2.5.1.1.17 — Quorum
 
 La Comisión Consultiva de Alto Nivel sesionara con la mitad más uno de los representantes de las comunidades negras, afrocolombianas, raizales y palenqueras, y con la presencia del Ministerio del Interior más la mitad más una de las entidades públicas que hagan parte y tengan relación con el orden del día y el objeto de la sesión.
 
 Las decisiones se tomarán por consenso o con el voto de la mitad más uno de los miembros asistentes, de cada parte.
-
-ARTÍCULO
 
 ## art:2.5.1.1.18 — Período de representación
 
@@ -16456,27 +14916,19 @@ PARÁGRAFO TRANSITORIO 2. Los delegados que se elijan a partir de la vigencia de
 
 PARÁGRAFO TRANSITORIO 3. Los delegados que se hayan elegido para iniciar su representación con posterioridad al 1 de noviembre de 2017 y con anterioridad a la vigencia del presente decreto, su período culminara hasta el 11 de octubre de 2022.
 
-ARTÍCULO
-
 ## art:2.5.1.1.19 — Representación en espacios institucionales
 
 Los delegados de las comunidades negras, afrocolombianas, raizales y palenqueras ante las Comisiones Consultivas de Alto Nivel, departamentales y la distrital de Bogotá, designaran por consenso o votación, a los representantes de estas comunidades en todos los espacios de representación institucional que contemplan la participación nominación, designación o elección de miembros de las comunidades negras, afrocolombianas, raizales y palenqueras y que no tengan norma especial de elección.
 
 PARÁGRAFO. Una vez se instalen las consultivas departamentales, distrital de Bogotá y de Alto Nivel, se procederá a designar entre sus miembros a los representantes ante los espacios de representación institucional que correspondan, de acuerdo con los reglamentos de cada espacio de representación institucional.
 
-ARTÍCULO
-
 ## art:2.5.1.1.20 — No vinculación como servidores públicos
 
 Los representantes de las comunidades negras, afrocolombianas, raizales y palenqueras, ante la Comisión Consultiva de Alto Nivel, y ante las comisiones departamentales y la distrital de Bogotá, y demás espacios institucionales, no adquieren por este hecho la condición de servidores públicos.
 
-ARTÍCULO
-
 ## art:2.5.1.1.21 — Acreditación afiliación en salud
 
 Los representantes de las Comunidades Negras, Afrocolombianas, Raizales y Palenqueras, ante las Comisiones Consultivas de Alto Nivel, Departamentales y Distrital de Bogotá, al momento de su posesión deberán acreditar, ante la respectiva secretaria técnica, la afiliación al régimen contributivo o al subsidiado de salud.
-
-ARTÍCULO
 
 ## art:2.5.1.1.22 — Definiciones
 
@@ -16492,23 +14944,17 @@ CAPÍTULO 2
 
 Procedimiento para el reconocimiento del derecho a la propiedad colectiva de las tierras de las Comunidades Negras
 
-ARTÍCULO
-
 ## art:2.5.1.2.1 — Principios
 
 El presente Capítulo se fundamenta en los principios y derechos de que trata la Constitución Política y las leyes 70 de 1993 y 21 de 1991, y dará aplicación a los principios de eficacia, economía y celeridad, con el objeto de lograr la oportuna efectividad de los derechos reconocidos en dichas normas.
 
 (Decreto 1745 de 1995, Art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.2.2 — Ámbito de la aplicación
 
 El presente Capítulo se aplicará en las zonas señaladas en la Ley 70 de 1993.
 
 (Decreto 1745 de 1995, Art. 2)
-
-ARTÍCULO
 
 ## art:2.5.1.2.3 — Definición
 
@@ -16519,8 +14965,6 @@ En los términos del numeral 5o., artículo 2o. de la Ley 70 de 1993, Comunidad 
 Al Consejo Comunitario lo integran la Asamblea General y la Junta del Consejo Comunitario.
 
 (Decreto 1745 de 1995, Art. 3)
-
-ARTÍCULO
 
 ## art:2.5.1.2.4 — La Asamblea General
 
@@ -16536,15 +14980,11 @@ La toma de decisiones en la Asamblea General del Consejo Comunitario se hará, p
 
 (Decreto 1745 de 1995, Art.4)
 
-ARTÍCULO
-
 ## art:2.5.1.2.5 — Quorum de la Asamblea General
 
 El quorum mínimo para sesionar la Asamblea General será de la mitad más uno de sus integrantes. En el evento de no existir quorum en la fecha y hora convocadas, los asistentes podrán fijar fecha y hora para una nueva Asamblea, la cual sesionara con la tercera parte de los asambleístas reconocidos y registrados en el censo interno.
 
 (Decreto 1745 de 1995, Art. 5)
-
-ARTÍCULO
 
 ## art:2.5.1.2.6 — Funciones
 
@@ -16578,15 +15018,11 @@ Funciones de la Asamblea General.
 
 (Decreto 1745 de 1995, Art, 6)
 
-ARTÍCULO
-
 ## art:2.5.1.2.7 — La Junta del Consejo Comunitario
 
 La Junta del Consejo Comunitario es la autoridad de dirección, coordinación, ejecución y administración interna de la comunidad que ha conformado un Consejo Comunitario para ejercer las funciones que le atribuye la Ley 70 de 1993, sus decretos reglamentarios y las demás que le asigne el sistema de derecho propio de la comunidad. Sus integrantes son miembros del Consejo Comunitario, elegidos y reconocidos por este.
 
 (Decreto 1745 de 1995, Art, 7)
-
-ARTÍCULO
 
 ## art:2.5.1.2.8 — Conformación y Período de la Junta del Consejo Comunitario
 
@@ -16595,8 +15031,6 @@ El período de la Junta del Consejo Comunitario vence el 31 de diciembre de cada
 Debe ser representativa y será conformada teniendo en cuenta las particularidades de cada comunidad negra, sus estructuras de autoridad y la organización social de las mismas.
 
 (Decreto 1745 de 1995, Art, 8)
-
-ARTÍCULO
 
 ## art:2.5.1.2.9 — Elección
 
@@ -16614,8 +15048,6 @@ La Dirección de Asuntos para las Comunidades Negras, Afrocolombianas, Raizales 
 
 (Decreto 17 45 de 1995, Art, 9)
 
-ARTÍCULO
-
 ## art:2.5.1.2.10 — Requisitos
 
 Requisitos para ser elegido miembro de la Junta del Consejo Comunitario:
@@ -16631,8 +15063,6 @@ Requisitos para ser elegido miembro de la Junta del Consejo Comunitario:
 5. Las que definan los reglamentos internos de las comunidades, que no sean contrarias a la Constitución y la Ley.
 
 (Decreto 1745 de 1995, Art, 10)
-
-ARTÍCULO
 
 ## art:2.5.1.2.11 — Funciones de la Junta del Consejo Comunitario
 
@@ -16674,8 +15104,6 @@ Son funciones de la Junta del Consejo Comunitario, entre otras, las siguientes.
 
 (Decreto 1745 de 1995 Art, 11, Decreto 1300 de 2003 Art, 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.12 — Funciones del Representante Legal del Consejo Comunitario
 
 Son funciones del Representante Legal del Consejo Comunitario, entre otras, las siguientes:
@@ -16692,8 +15120,6 @@ Son funciones del Representante Legal del Consejo Comunitario, entre otras, las 
 
 (Decreto 1745 de 1995, Art, 12; Decreto 1300 de 2003 Art, 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.13 — Conformación, carácter y sede
 
 Para los efectos de la aplicación de los artículos 8 y 17 de la Ley 70 de 1993, en un término improrrogable de treinta (30) días a partir de la expedición del Decreto 1745 de 1995, el ministro del Ambiente y Desarrollo Sostenible, el Gerente General del Instituto Colombiano de Desarrollo Rural, Incidir y el Director General del Instituto Geográfico "Agustín Codazzi", IGAC, designaran los funcionarios de las respectivas entidades que la integran.
@@ -16701,8 +15127,6 @@ Para los efectos de la aplicación de los artículos 8 y 17 de la Ley 70 de 1993
 La Comisión tiene carácter técnico y transitorio, con sede en la capital de la República y puede sesionar en cualquier lugar del ámbito de aplicación del presente Capítulo, cuando las circunstancias lo ameriten.
 
 (Decreto 1745 de 1995, Art, 13; Decreto 1300 de 2003, Art, 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.14 — Unidades de Apoyo de la Comisión Técnica
 
@@ -16715,8 +15139,6 @@ En ningún caso estas Unidades de Apoyo están facultadas para emitir el concept
 PARÁGRAFO. Cuando las solicitudes traten sobre recursos naturales no renovables, harán parte de las Unidades de Apoyo funcionarios designados por el ministro de Minas y Energía.
 
 (Decreto 1745 de 1995, Art, 14; Decreto 1300 de 2003, Art, 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.15 — Funciones de la Comisión Técnica
 
@@ -16746,23 +15168,17 @@ Para todos los casos señalados en los literales b), c) y d) del numeral 1 del p
 
 (Decreto 1745 de 1995, Art. 15)
 
-ARTÍCULO
-
 ## art:2.5.1.2.16 — Reglamento
 
 La Comisión Técnica elaborará su reglamento, en un término máximo de dos (2) meses, contados a partir de la fecha de su instalación en el cual establecerá su procedimiento operativo.
 
 (Decreto 1745 de 1995, Art. 16)
 
-ARTÍCULO
-
 ## art:2.5.1.2.17 — Competencia
 
 De conformidad con lo establecido en la Ley 70 de 1993, la Ley 160 de 1994 en sus disposiciones concordantes y el ARTÍCULO 1°., inciso tercero, del Decreto 2664 de 1994, cuya compilación se encuentra en el Libro 2, Parte 14, Titulo 10 del Decreto Reglamentario Único del Sector Administrativo de Agricultura y Desarrollo Rural, corresponde al encoger titular colectivamente tierras baldías a Comunidades Negras, en calidad de "Tierras de las Comunidades Negras".
 
 (Decreto 1745 de 1995, Art. 17; Decreto 1300 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.18 — Áreas adjudicables
 
@@ -16771,8 +15187,6 @@ Son adjudicables las áreas ocupadas por la comunidad de conformidad con lo disp
 PARÁGRAFO. Dentro del título colectivo podrán incluirse áreas tituladas individualmente con anterioridad a miembros de la comunidad respectiva si los interesados así lo solicitaren.
 
 (Decreto 1745 de 1995, Art. 18)
-
-ARTÍCULO
 
 ## art:2.5.1.2.19 — Áreas adjudicables
 
@@ -16801,8 +15215,6 @@ Las titulaciones de que trata el presente capítulo comprenden.
 11. Las reservas indígenas y los territorios tradicionales utilizados por pueblos indígenas nómadas y seminómadas o agricultores itinerantes para la caza, recolección u horticultura que se hallaren ubicados en zona de reserva forestal a la fecha de vigencia de la ley 160 de 1994 (Ley 160 de 1994, art. 85, parágrafos 5 y 6).
 
 (Decreto 1745 de 1995, Art. 19)
-
-ARTÍCULO
 
 ## art:2.5.1.2.20 — Solicitud de titulación
 
@@ -16846,8 +15258,6 @@ PARÁGRAFO. El encoger podrá iniciar de oficio el trámite de titulación, para
 
 (Decreto 1745 de 1995, Art. 20; Decreto 1300 de 2003, Art. 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.21 — Iniciación del trámite y publicidad de la solicitud
 
 Radicada la solicitud por el encoger, el Gerente Regional ordenara, en un plazo no superior a cinco (5) días, mediante auto iniciar las diligencias administrativas tendientes a la titulación de Tierras de las Comunidades Negras y hacer la publicación de la solicitud. Dentro de esta etapa se ordenarán las siguientes diligencias:
@@ -16871,8 +15281,6 @@ e) Los linderos y nombres de los colindantes del inmueble.
 PARÁGRAFO. En el expediente se dejará constancia de las diligencias anteriores, debiendo agregarse los ejemplares de los avisos de la solicitud, la certificación expedida por el administrador de la emisora o el representante local o regional del diario, según el caso, debidamente autenticadas, y una constancia de autoridad competente en el caso de no existir oficinas de inspección de policía o corregidurías, si a ello hubiere lugar.
 
 (Decreto 1745 de 1995, Art. 21; Decreto 1300 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.22 — Visita
 
@@ -16899,8 +15307,6 @@ Si en el plazo de un mes después de haberse firmado el acta, se logra un acuerd
 En caso de no llegarse a un acuerdo entre las comunidades, se deberá conformar una comisión mixta con representantes de las comunidades involucradas y sus organizaciones, el encoger, la Dirección de Asuntos para las Comunidades Negras, Afrocolombianas, Raizales y Palenqueras, y cuando sea pertinente, la Dirección de Asuntos Indígenas, ROM y Minorías, para que en un término de noventa (90) días se proceda a definir la delimitación del respectivo territorio.
 
 (Decreto 1745 de 1995, Art. 22; Decreto 1300 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.23 — Informe técnico de la visita
 
@@ -16938,15 +15344,11 @@ PARÁGRAFO 2. El encoger hará entrega de una copia del informe técnico de la v
 
 (Decreto 1745 de 1995, Art. 23; Decreto 1300 de 2003, Art. 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.24 — Oposición a la titulación colectiva
 
 A partir del auto que acepta la solicitud de titulación colectiva, y hasta el momento de la fijación del negocio en lista, de acuerdo con lo dispuesto en el ARTÍCULO 2.5.1.2.27, quienes se crean con derecho, conforme a la ley, podrán formular oposición a la titulación, acompañando al escrito respectivo la prueba en que funden su pretensión. Vencido dicho termino, precluye la oportunidad para oponerse a la solicitud de titulación.
 
 (Decreto 1745 de 1995, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.25 — Tramite de la oposición
 
@@ -16958,8 +15360,6 @@ Vencido el termino probatorio y practicadas las pruebas en que se funde la oposi
 
 (Decreto 1745 de 1995, Art. 25; Decreto 1300 de 2003, Art. 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.26 — Resolución de la oposición
 
 Cuando el opositor alegare que el inmueble objeto de la solicitud de titulación es de propiedad privada, o reclame dominio sobre el mismo, total o parcialmente, deberá aportar las pruebas que para el efecto exija el régimen legal vigente, y en la inspección ocular que se practique en el trámite de oposición, se procederá a verificar si el predio cuya propiedad demanda el opositor se halla incluido en todo o en parte dentro del territorio solicitado en titulación, así como a establecer otros hechos o circunstancias de las que pueda deducirse su dominio.
@@ -16968,15 +15368,11 @@ Si de los documentos aportados por el opositor y demás pruebas practicadas no l
 
 (Decreto 1745 de 1995, Art. 26)
 
-ARTÍCULO
-
 ## art:2.5.1.2.27 — Revisión previa al concepto de la Comisión Técnica
 
 Recibido el informe técnico del funcionario que realizo la visita, y elaborado el plano respectivo, el lncoder verificara la procedencia legal de la titulación colectiva y fijara el negocio en lista por cinco (5) días hábiles en la oficina del lncoder que adelante el procedimiento, y mediante auto ordenara enviar el expediente a la Comisión Técnica.
 
 (Decreto 1745 de 1995, Art. 27; Decreto 1300 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.28 — Evaluación de las solicitudes y determinación de los límites del territorio por parte de la Comisión Técnica
 
@@ -16989,8 +15385,6 @@ En todo caso la evaluación deberá realizarse en un término de treinta (30) d�
 Si hubiere lugar a la realización de pruebas adicionales este término se contará a partir de la obtención de las mismas.
 
 (Decreto 1745 de 1995, Art. 28; Decreto 1300 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.29 — Resolución constitutiva
 
@@ -17014,23 +15408,17 @@ PARÁGRAFO 2. Esta providencia se notificará al representante legal del Consejo
 
 (Decreto 1745 de 1995, Art. 29; Decreto 1300 de 2003, Art. 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.30 — Publicación y registro
 
 Las resoluciones a que se refieren los artículos precedentes, se publicaran en el Diario Oficial y por una vez en un medio de comunicación de amplia difusión en el lugar donde se realiza la titulación y se inscribirá, en un término no mayor de diez (10) días, en la Oficina de Registro de Instrumentos Públicos correspondiente al lugar de ubicación del territorio titulado. El Registrador devolverá al lncoder el original y una copia de la resolución, con la correspondiente anotación de su registro.
 
 (Decreto 1745 de 1995, Art. 30; Decreto 1300 de 2003, Art. 24)
 
-ARTÍCULO
-
 ## art:2.5.1.2.31 — Gratuidad
 
 Los servicios de titulación colectiva en favor de las comunidades negras de que trata el presente Capítulo, por mandato de la Ley 70 de 1993, serán gratuitos y por la inscripción y publicación de las resoluciones de titulación que expida el lncoder no se cobrará derecho alguno.
 
 (Decreto 1745 de 1995, Art. 31; Decreto 1300 de 2003, Art. 24)
-
-ARTÍCULO
 
 ## art:2.5.1.2.32 — Manejo y administración
 
@@ -17040,8 +15428,6 @@ El reglamento deberá considerar una distribución equitativa de las zonas agrí
 
 (Decreto 1745 de 1995, Art. 32)
 
-ARTÍCULO
-
 ## art:2.5.1.2.33 — Enajenación
 
 Solo podrán enajenarse el usufructo sobre las áreas correspondientes a un grupo familiar o a un miembro de la comunidad por parte del titular o titulares de este derecho con la aprobación de la junta del Consejo Comunitario por las causas establecidas en la Ley 70 de 1993 y en el reglamento interno del Consejo Comunitario.
@@ -17050,15 +15436,11 @@ El ejercicio del derecho preferencial de adquisición de usufructo únicamente p
 
 (Decreto 1745 de 1995, Art. 33)
 
-ARTÍCULO
-
 ## art:2.5.1.2.34 — Poseedores de mala fe
 
 Las ocupaciones que se adelanten por personas no pertenecientes al grupo étnico negro sobre las tierras adjudicadas en propiedad colectiva a las Comunidades Negras de que trata la Ley 70 de 1993 no darán derecho al interesado para obtener la titulación ni el reconocimiento de mejoras y para todos los efectos legales se considerará como poseedor de mala fe.
 
 (Decreto 1745 de 1995, Art. 34)
-
-ARTÍCULO
 
 ## art:2.5.1.2.35 — Elementos básicos para el concepto previo
 
@@ -17074,8 +15456,6 @@ La Comisión Técnica deberá verificar.
 
 (Decreto 1745 de 1995, Art. 35)
 
-ARTÍCULO
-
 ## art:2.5.1.2.36 — Procedimiento
 
 A partir de la vigencia del Decreto 1745 de 1995, la autoridad ambiental o minera competente, hará llegar a la Comisión un concepto técnico preliminar, en un término no superior a treinta (30) días siguientes a la admisión de la solicitud.
@@ -17083,8 +15463,6 @@ A partir de la vigencia del Decreto 1745 de 1995, la autoridad ambiental o miner
 Recibida la información anterior, la Comisión procederá a solicitar a las entidades o autoridades las pruebas e informaciones pertinentes que deberán serle remitidas en un plazo no mayor de treinta (30) días, so pena de causal de mala conducta. La Comisión Técnica emitirá concepto en un término no superior a sesenta (60) días, contados a partir de la fecha de recibo de la solicitud por parte de la misma y procederá a remitirlo a la entidad competente para que se surta el tramite respectivo.
 
 (Decreto 1745 de 1995, Art. 36)
-
-ARTÍCULO
 
 ## art:2.5.1.2.37 — Derecho preferencial de aprovechamiento de los Recursos Naturales
 
@@ -17094,23 +15472,17 @@ Para el caso de las solicitudes de exploración y explotación minera, una vez l
 
 (Decreto 1745 de 1995, Art. 37)
 
-ARTÍCULO
-
 ## art:2.5.1.2.38 — Obligatoriedad del concepto
 
 El concepto técnico favorable no obliga a la entidad encargada de resolver la solicitud, pero si fuere desfavorable no podrá concederse la licencia, concesión, permiso o autorización al peticionario.
 
 (Decreto 1745 de 1995, Art. 38)
 
-ARTÍCULO
-
 ## art:2.5.1.2.39 — Apoyo a la identificación de zonas con condiciones similares
 
 El Gobierno Nacional apropiara los recursos necesarios para que las organizaciones de base de comunidades negras identifiquen las zonas con condiciones similares a que se refiere el ARTÍCULO 1 o. de la Ley 70 de 1993 y para que desarrollen los procesos de investigación y consulta concernientes a precisar la realidad territorial, económica, sociocultural y ambiental de las comunidades negras en dichas áreas.
 
 (Decreto 1745 de 1995, Art. 39)
-
-ARTÍCULO
 
 ## art:2.5.1.2.40 — Fomento al desarrollo
 
@@ -17120,15 +15492,11 @@ Los planes, programas y proyectos de desarrollo económico, social, cultural y a
 
 (Decreto 1745 de 1995, Art. 40)
 
-ARTÍCULO
-
 ## art:2.5.1.2.41 — Apoyo al proceso organizativo de las Comunidades Negras
 
 El Estado, a través de la Dirección de Asuntos para las Comunidades Negras, Afrocolombianas, Raizales y Palenqueras del Ministerio del Interior y las demás entidades competentes, garantizara las condiciones para que las comunidades beneficiarias del presente Capítulo se organicen con miras a acceder a la titulación colectiva y propendan por su desarrollo social y cultural.
 
 (Decreto 1745 de 1995, Art. 41)
-
-ARTÍCULO
 
 ## art:2.5.1.2.42 — Divulgación
 
@@ -17140,8 +15508,6 @@ CAPÍTULO 3
 
 Procedimiento de elección del representante y suplente de las Comunidades Negras ante los Consejos Directivos de las Corporaciones Autónomas Regionales
 
-ARTÍCULO
-
 ## art:2.5.1.3.1 — Convocatoria
 
 Para la elección del representante y suplente de las comunidades negras a que se refiere el ARTÍCULO 56 de la Ley 70 de 1993, ante el Consejo Directivo de las Corporaciones Autónomas Regionales, el Director General de la respectiva Corporación formulara invitación pública a los respectivos Consejos Comunitarios, en la cual se indicaran los requisitos para participar en la elección, así como el lugar, fecha y hora para la celebración de la reunión en la cual se hará la elección.
@@ -17149,8 +15515,6 @@ Para la elección del representante y suplente de las comunidades negras a que s
 La convocatoria se publicará en una sola oportunidad en un diario de amplia circulación regional o nacional con treinta (30) días de anterioridad a la fecha de realización de la elección, y se difundirá por una sola vez por medio radial o televisivo.
 
 (Decreto 1523 de 2003, Art. 1).
-
-ARTÍCULO
 
 ## art:2.5.1.3.2 — Requisitos
 
@@ -17164,23 +15528,17 @@ Los Consejos Comunitarios que aspiren a participar en la elección del represent
 
 (Decreto 1523 de 2003, Art. 2).
 
-ARTÍCULO
-
 ## art:2.5.1.3.3 — Revisión de la documentación
 
 La Corporación Autónoma Regional revisara los documentos presentados y verificara el cumplimiento de los requisitos exigidos. Posteriormente, elaborará un informe al respecto, el cual será presentado el día de la reunión de elección.
 
 (Decreto 1523 de 2003, Art. 3).
 
-ARTÍCULO
-
 ## art:2.5.1.3.4 — Plazo para la celebración de la reunión de elección
 
 La elección del representante y suplente, de los Consejos Comunitarios ante los Consejos Directivos de las Corporaciones Autónomas Regionales, se realizará por los representantes legales de los Consejos Comunitarios y se llevará a cabo dentro de los primeros quince (15) días del mes de septiembre del año anterior a la iniciación del período respectivo.
 
 (Decreto 1523 de 2003, Art. 4).
-
-ARTÍCULO
 
 ## art:2.5.1.3.5 — Elección
 
@@ -17193,8 +15551,6 @@ PARÁGRAFO 1. En este último evento, deberá continuar asistiendo al Consejo Di
 PARÁGRAFO 2. Independientemente de la forma de elección que adopten las comunidades negras, su representante y suplente ante el Consejo Directivo de la respectiva Corporación Autónoma Regional, serán en su orden los que obtengan la mayor votación.
 
 (Decreto 1523 de 2003, Art. 5).
-
-ARTÍCULO
 
 ## art:2.5.1.3.6 — Tramite de la elección
 
@@ -17216,15 +15572,11 @@ PARÁGRAFO. La Corporación Autónoma Regional respectiva prestara el apoyo log�
 
 (Decreto 1523 de 2003, Art. 6).
 
-ARTÍCULO
-
 ## art:2.5.1.3.7 — Período del representante
 
 El período del representante y suplente de los Consejos Comunitarios ante el Consejo Directivo de las Corporaciones Autónomas Regionales será de tres (3) años. Se iniciará el 1 o de enero del año siguiente al de su elección y concluirá el 31 de diciembre del tercer año de dicho período.
 
 (Decreto 1523 de 2003, Art. 7).
-
-ARTÍCULO
 
 ## art:2.5.1.3.8 — Faltas temporales
 
@@ -17237,8 +15589,6 @@ Constituyen faltas temporales de los representantes de las comunidades negras, l
 3. Decisión emanada de autoridad competente.
 
 (Decreto 1523 de 2003, Art. 8).
-
-ARTÍCULO
 
 ## art:2.5.1.3.9 — Faltas absolutas
 
@@ -17260,8 +15610,6 @@ Constituyen faltas absolutas de los representantes de las comunidades negras, la
 
 (Decreto 1523 de 2003, Art. 9).
 
-ARTÍCULO
-
 ## art:2.5.1.3.10 — Forma de suplir las faltas temporales y absolutas
 
 En casos de falta temporal del representante de las comunidades negras, lo reemplazara su suplente por el término que dure la ausencia.
@@ -17276,15 +15624,11 @@ CAPÍTULO 4
 
 Espacio nacional de consulta previa de las comunidades negras, afrocolombianas, raizales y palenqueras
 
-ARTÍCULO
-
 ## art:2.5.1.4.1 — Objeto
 
 Regular el Espacio Nacional de Consulta Previa de las medidas legislativas y administrativas de carácter general, susceptibles de afectar directamente a las comunidades negras, afrocolombianas, raizales y palenqueras rurales y urbanas del país, como una institución representativa, legitima y operativa.
 
 (Decreto 1372 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.1.4.2 — Criterios para la integración del Espacio Nacional de Consulta Previa
 
@@ -17326,8 +15670,6 @@ PARÁGRAFO 4. El cumplimiento de los criterios señalados corresponde a las comu
 
 (Decreto 1372 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.4.3 — Integrantes y participantes
 
 El Espacio Nacional de Consulta Previa estará integrado por los delegados de las comunidades negras, afrocolombianas, raizales y palenqueras; así mismo, participará el Ministerio del Interior. También participaran las demás entidades y personas que se considere pertinente invitar.
@@ -17337,8 +15679,6 @@ Para cada una de las consultas previas, cuya responsabilidad sea de un Ministeri
 PARÁGRAFO. El Espacio Nacional de Consulta Previa se reunirá por convocatoria del Ministerio del Interior, al cual deberá invitarse a los organismos de control y las sesiones serán instaladas por el ministro del Interior, quien solo podrá delegar dicha función en el viceministro para la Participación e Igualdad de Derechos o quien haga sus veces.
 
 (Decreto 1372 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.1.4.4 — Funciones
 
@@ -17356,8 +15696,6 @@ Para tal efecto, el Espacio Nacional de Consulta Previa deberá promover la difu
 
 (Decreto 1372 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.4.5 — Etapas del proceso de consulta previa
 
 El proceso de consulta previa de medidas legislativas y administrativas de carácter general susceptibles de afectar directamente a dichas comunidades, se desarrollará mediante las siguientes etapas:
@@ -17374,15 +15712,11 @@ PARÁGRAFO. En todo caso, la protocolización de las medidas legislativas y admi
 
 (Decreto 1372 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.4.6 — Elección de los delegados
 
 Los delegados de las comunidades negras, afrocolombianas, raizales y palanqueras del Espacio Nacional de Consulta Previa de que trata el presente Decreto, serán elegidos por consenso o por votación, en asambleas departamentales y distritales según corresponda, mediante convocatoria realizada por el Ministerio del Interior en concertación con los delegados al Espacio Nacional de Consulta Previa, según corresponda, elección que se llevara a cabo dentro de los dos (2) meses anteriores al vencimiento del período del respectivo Espacio Nacional de Consulta Previa.
 
 (Decreto 1372 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.1.4.7 — Período de los delegados
 
@@ -17400,8 +15734,6 @@ El proceso de elección de los delegados de las comunidades negras, afrocolombia
 
 (Decreto 1372 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.4.8 — Funcionamiento y operatividad
 
 El Espacio Nacional de Consulta Previa se dará su propio reglamento interno, en el cual se regulará su funcionamiento operativo, decidirá cuando invitar a funcionarios del Gobierno o a un tercero, según la naturaleza de la medida a consultar; y el número de los integrantes de las comisiones, que no podrá ser superior a cincuenta (50) delegados.
@@ -17413,8 +15745,6 @@ Ninguno de los delegados de los departamentos que tienen un número de delegados
 PARÁGRAFO 2. Los delegados del distrito capital y los departamentos que tengan un número igual o superior al número de comisiones existentes, deberán hacer parte de una sola comisión permanente, distribuidos de manera equitativa en las diferentes comisiones permanentes.
 
 (Decreto 1372 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.1.4.9 — Responsabilidades del Ministerio del Interior
 
@@ -17436,15 +15766,11 @@ El Ministerio del Interior en garantía del derecho fundamental a la consulta pr
 
 (Decreto 1372 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.4.10 — Sesiones
 
 El Espacio Nacional de Consulta Previa deberá ser convocado, como mínimo, dos veces al año para tratar los asuntos de su competencia.
 
 (Decreto 1372 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.1.4.11 — Comisiones
 
@@ -17474,15 +15800,11 @@ PARÁGRAFO 3. Los delegados al Espacio Nacional de Consulta Previa permanecerán
 
 (Decreto 1372 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.4.12 — Financiación del proceso de consulta previa
 
 El órgano o entidad interesado en el trámite y aprobación de una medida administrativa y legislativa asumirá los costos derivados del desarrollo del proceso de consulta previa. Cuando una norma de la misma naturaleza sea objeto de iniciativa popular, el costo será asumido por el órgano o la entidad competente. Lo anterior estará sujeto a las disponibilidades presupuestales de cada vigencia y al marco de gastos de mediano plazo.
 
 (Decreto 1372 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.1.4.13 — Articulación con el nivel territorial
 
@@ -17495,8 +15817,6 @@ CAPÍTULO 5
 (Capítulo Adicionado por el Art. 2 del Decreto 1640 de 2020)
 
 REGISTRO PÚBLICO UNICO NACIONAL DE CONSEJOS COMUNITARIOS, FORMAS Y EXPRESIONES ORGANIZATIVAS, Y ORGANIZACIONES DE BASE DE LAS COMUNIDADES NEGRAS, AFROCOLOMBIANAS, RAIZALES Y PALENQUERAS.
-
-ARTÍCULO
 
 ## art:2.5.1.5.1 — 5.1
 
@@ -17516,8 +15836,6 @@ Registro público único nacional de Consejos Comunitarios, formas y expresiones
 
 PARÁGRAFO: Una familia solo podrá hacer parte de un Consejo Comunitario o de una forma o expresión organizativa de comunidades negras, afrocolombianas, raizales y palenqueras.
 
-ARTÍCULO
-
 ## art:2.5.1.5.2 — Requisitos para el registro de Consejos Comunitarios
 
 Para la inscripción de los Consejos Comunitarios con titulo colectivo expedido, o con titulo colectivo en trámite de adjudicación en el registro público de instituciones representativas se requiere:
@@ -17536,8 +15854,6 @@ Para la inscripción de los Consejos Comunitarios con titulo colectivo expedido,
 
 PARÁGRAFO. Las alcaldías municipales y distritales o el representante legal del respectivo Consejo Comunitario deberán remitir a la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palanqueras del Ministerio del Interior, o quien haga sus veces, la información sobre las novedades y modificaciones en el registro, en un término no mayor a diez (10) días posteriores a la fecha de la respectiva inscripción por parte de la alcaldía.
 
-ARTÍCULO
-
 ## art:2.5.1.5.3 — 5.3
 
 Requisitos para el registro de las formas o expresiones organizativas de comunidades negras, afrocolombianas, raizales y palenqueras. Para la inscripción de las formas o expresiones organizativas en el registro público de instituciones representativas se requiere:
@@ -17553,8 +15869,6 @@ Requisitos para el registro de las formas o expresiones organizativas de comunid
 5. Copia del Reglamento Interno o de Estatutos.
 
 6. Identificación del área o territorio en donde se encuentra asentado.
-
-ARTÍCULO
 
 ## art:2.5.1.5.4 — 5.4
 
@@ -17584,8 +15898,6 @@ e. Dirección para correspondencia, incluyendo correo electrónico si lo tiene.
 
 7. Plan de actividades anual, especificando actividades y cronograma.
 
-ARTÍCULO
-
 ## art:2.5.1.5.5 — Acto administrativo de inscripción
 
 La Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras del Ministerio del Interior, o quien haga sus veces, será la dependencia competente para expedir el acto administrativo de inscripción en el Registro Público de Instituciones Representativas a que se refieren los artículos precedentes.
@@ -17593,8 +15905,6 @@ La Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Pa
 Para este trámite, la Dirección revisara y evaluara la documentación presentada, realizara las verificaciones que fueren necesarias y de encontrarla conforme a los requerimientos legales, procederá a expedir la respectiva resolución de inscripción. En caso de que no cumpla con los requisitos, estos deberán subsanarse dentro de los 30 días hábiles siguientes a la notificación del acto administrativo que niegue la inscripción, so pena de archivo, sin que impida una nueva solicitud de inscripción.
 
 Contra el acto administrativo que resulte de la verificación y evaluación de los documentos, proceden los recursos de reposición ante la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras y el de apelación ante el viceministro para la Participación e Igualdad de Derechos, de conformidad con el procedimiento administrativo establecido en la Ley 1437 de 2011.
-
-ARTÍCULO
 
 ## art:2.5.1.5.6 — Actualización de la información en el Registro Público de Instituciones Representativas
 
@@ -17604,21 +15914,15 @@ En caso de que no actualice la información en el plazo antes indicado, en la ce
 
 Contra el acto administrativo de actualización proceden los recursos de reposición ante la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras y de apelación ante el viceministro para la Participación e Igualdad de Derechos.
 
-ARTÍCULO
-
 ## art:2.5.1.5.7 — Cancelación de la inscripción en el Registro Público de Instituciones Representativas de organizaciones de base
 
 En el evento que las organizaciones de base de las comunidades negras, afrocolombianas, raizales y palenqueras no hayan actualizado su información durante seis (6) años consecutivos, se iniciara procedimiento administrativo de conformidad con la Ley 1437 de 2011 o la norma que la modifique, adicione o sustituya, tendiente a la cancelación de la inscripción en el Registro Público de Instituciones Representativas, garantizando el debido proceso, previo a dar aplicación la cancelación definitiva del registro público mediante resolución motivada.
-
-ARTÍCULO
 
 ## art:2.5.1.5.8 — Reporte de cambios en la estructura de administración, dirección y/o representación
 
 Cuando los Consejos Comunitarios, las formas o expresiones organizativas y las organizaciones de base, citadas en los artículos anteriores, produzcan cambios, totales o parciales, en su junta, del representante legal, en cualquiera de sus órganos de dirección o administración, y cualquier información que se encuentre inscrita, se deberá comunicar la citada modificación al Ministerio del Interior a través de la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras, dentro de un término de diez (10) días, siguientes a la realización del cambio respectivo.
 
 PARÁGRAFO. Cuando se trate de novedades en la junta de los Consejos Comunitarios o en la representación legal, la información deberá ser remitida por la respectiva alcaldía o el respectivo representante legal del Consejo Comunitario a la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras.
-
-ARTÍCULO
 
 ## art:2.5.1.5.9 — 5.9
 
@@ -17630,13 +15934,9 @@ Termino para la inscripción en el Registro Público de Instancias de Representa
 
 PARTICIPACION
 
-ARTÍCULO
-
 ## art:2.5.1.6.1 — Certificación de pertenecía étnica
 
 En el marco de los principios de autodeterminación y autonomía, los Consejos Comunitarios y expresiones y formas organizativas de las Comunidades Negras, Afrocolombianas, Raizales y Palenqueras expedirán certificación de pertenencia étnica de los miembros de su censo, para los efectos de la representación de dichas comunidades en los diferentes espacios de participación y elección contemplados en la Ley 70 de 1993 y en el ordenamiento jurídico.
-
-ARTÍCULO
 
 ## art:2.5.1.6.2 — Avales
 
@@ -17658,15 +15958,11 @@ CAPÍTULO 1
 
 Protección Integral de los Derechos
 
-ARTÍCULO
-
 ## art:2.5.2.1.1 — Objeto
 
 El presente Capítulo tiene por objeto establecer un marco normativo para la protección integral de los derechos del grupo étnico ROM o Gitano.
 
 (Decreto 2957 de 2010, Art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.1.2 — Ámbito de aplicación
 
@@ -17674,15 +15970,11 @@ El presente Capítulo se aplica al grupo étnico Romo Gitano.
 
 (Decreto 2957 de 2010, Art. 2)
 
-ARTÍCULO
-
 ## art:2.5.2.1.3 — Principios
 
 Las disposiciones enunciadas en el presente Capítulo se interpretarán con arreglo a los principios de la justicia, la democracia, el respeto a los derechos humanos, la igualdad, la diversidad étnica y cultural, la no discriminación, la buena administración pública y la buena fe, además de tener un enfoque de derechos y a acciones afirmativas.
 
 (Decreto 2957 de 2010, Art. 3)
-
-ARTÍCULO
 
 ## art:2.5.2.1.4 — Definiciones
 
@@ -17708,8 +16000,6 @@ Sin perjuicio de la descendencia patrilineal, los hijos e hijas de una mujer Ron
 
 (Decreto 2957 de 2010, Art. 4)
 
-ARTÍCULO
-
 ## art:2.5.2.1.5 — Asentamientos y circulación
 
 En razón a que el grupo étnico ROM ha desarrollado históricamente su conciencia étnica a partir del nomadismo, sea este real o simbólico, se le reitera el derecho a la libre circulación por todo el territorio nacional, salvo las limitaciones legales. La formulación de políticas públicas y de programas gubernamentales destinados a este pueblo debe tener en consideración la amplia movilidad geográfica e itinerancia de sus Campaña.
@@ -17717,8 +16007,6 @@ En razón a que el grupo étnico ROM ha desarrollado históricamente su concienc
 PARÁGRAFO. Se reconocen Campaña en los departamentos de Norte de Santander, Antioquia, Santander, Córdoba, Sucre, Valle del Cauca, Atlántico, Tolima, Nariño, y en la ciudad de Bogotá, D. C., teniendo en cuenta que, por su nomadismo, la ubicación de las Cumpa y ya reconocidas puede cambiar en determinado momento, se debe verificar la información con los Seré Remangue.
 
 (Decreto 2957 de 2010, Art. 5)
-
-ARTÍCULO
 
 ## art:2.5.2.1.6 — Reconocimiento como grupo étnico
 
@@ -17728,8 +16016,6 @@ El Estado colombiano valora las contribuciones que históricamente el grupo étn
 
 (Decreto 2957 de 2010, Art. 6)
 
-ARTÍCULO
-
 ## art:2.5.2.1.7 — Planes de desarrollo de las entidades territoriales
 
 Las entidades territoriales sin perjuicio de su autonomía deberán tener en cuenta en la elaboración de sus planes de desarrollo, las políticas y estrategias que el Plan Nacional de Desarrollo establezca para la protección y atención del grupo étnico ROM, cuando sus Campaña se encuentren en su jurisdicción.
@@ -17738,8 +16024,6 @@ PARÁGRAFO. Las Secretarias de Asuntos Étnicos o las dependencias que hagan sus
 
 (Decreto 2957 de 2010, Art. 7)
 
-ARTÍCULO
-
 ## art:2.5.2.1.8 — Registro de Campaña
 
 El Ministerio del Interior llevara el registro de las Campaña del país, y de sus representantes elegidos por los miembros de cada una de ellas, de acuerdo al procedimiento interno que para ello establezcan, quienes serán los representantes ante las instituciones del Estado.
@@ -17747,8 +16031,6 @@ El Ministerio del Interior llevara el registro de las Campaña del país, y de s
 PARÁGRAFO. Los miembros de los cargos dignatarios, directivos y de autoridad de las Campaña, deberán en su totalidad pertenecer étnicamente al grupo étnico ROM o Gitano, desde el marco de los usos y costumbres, según las definiciones establecidas en este Capítulo.
 
 (Decreto 2957 de 201O, Art. 8)
-
-ARTÍCULO
 
 ## art:2.5.2.1.9 — Requisitos para el registro
 
@@ -17761,8 +16043,6 @@ El representante de la Campania deberá presentar por escrito la solicitud de re
 3. Dirección para correspondencia.
 
 (Decreto 2957 de 2010, Art. 9)
-
-ARTÍCULO
 
 ## art:2.5.2.1.10 — Conformación
 
@@ -17790,15 +16070,11 @@ PARÁGRAFO 2. Cuando los temas a consideración por parte de la Comisión Nacion
 
 (Decreto2957 de 2010, Art. 10)
 
-ARTÍCULO
-
 ## art:2.5.2.1.11 — Secretaria técnica
 
 La Secretaria Técnica de la Comisión Nacional de Dialogo, será ejercida por la Dirección de Asuntos indígenas, ROM y Minorías del Ministerio del Interior, o la dependencia que haga sus veces.
 
 (Decreto 2957 de 2010, Art. 11)
-
-ARTÍCULO
 
 ## art:2.5.2.1.12 — Funciones de la Comisión Nacional de Dialogo
 
@@ -17814,15 +16090,11 @@ La Comisión Nacional de Dialogo tendrá las siguientes funciones:
 
 (Decreto 2957 de 2010, Art. 12)
 
-ARTÍCULO
-
 ## art:2.5.2.1.13 — Acceso a vivienda
 
 El Ministerio de Vivienda, Ciudad y Territorio, proporcionara a través de las diferentes convocatorias que establezca el Fondo Nacional de Vivienda FONVIVIENDA, el acceso a una vivienda digna al grupo étnico ROM o Gitano, mediante la asignación del Subsidio Familiar de Vivienda de interés Prioritario.
 
 (Decreto 2957 de 2010, Art. 13)
-
-ARTÍCULO
 
 ## art:2.5.2.1.14 — Inclusión educativa
 
@@ -17830,15 +16102,11 @@ El Ministerio de Educación Nacional en coordinación con las secretarias de edu
 
 (Decreto 2957 de 2010, Art. 14)
 
-ARTÍCULO
-
 ## art:2.5.2.1.15 — Promoción para la educación superior
 
 El Ice tex tendrá en cuenta a la población ROM en el diseño de sus políticas de promoción de la Educación Superior a través del otorgamiento de créditos educativos.
 
 (Decreto 2957 de 2010, Art. 15)
-
-ARTÍCULO
 
 ## art:2.5.2.1.16 — Protección y promoción de prácticas culturales
 
@@ -17846,15 +16114,11 @@ El Ministerio de Cultura creara, en concertación con el grupo étnico ROM o Git
 
 (Decreto 2957 de 2010, Art. 16)
 
-ARTÍCULO
-
 ## art:2.5.2.1.17 — Dia Internacional ROM o Gitano
 
 Los Ministerios del Interior y de Cultura, fomentaran actividades para la conmemoración del 8 de abril como "Dia Internacional Romo Gitano".
 
 (Decreto 2957 de 2010, Art. 17)
-
-ARTÍCULO
 
 ## art:2.5.2.1.18 — Acceso de la población ROM o Gitana al Sistema General de Seguridad Social Integral
 
@@ -17863,8 +16127,6 @@ Para garantizar el derecho de acceso y participación de la población ROM en el
 La Dirección de Asuntos Indígenas, ROM y Minorías del Ministerio del Interior, o la entidad que haga sus veces hará la identificación de la población.
 
 (Decreto 2957 de 2010, Art. 18)
-
-ARTÍCULO
 
 ## art:2.5.2.1.19 — Subsidios régimen subsidiado
 
@@ -17875,8 +16137,6 @@ La inclusión en la ficha del Sisbén no será requisito para la afiliación al 
 El Ministerio de Salud y Protección Social, de manera concertada con la población ROM y sus organizaciones representativas, definirá a través del Sistema Obligatorio de la Garantía de la Calidad (SOGC), las condiciones mínimas en que se deberán prestar los servicios de salud de la población ROM, de tal manera que se propenda por la conservación de sus condiciones étnicas y culturales, a la vez que se mantienen las condiciones de calidad en los servicios prestados por las entidades.
 
 (Decreto 2957 de 2010, Art.19)
-
-ARTÍCULO
 
 ## art:2.5.2.1.20 — Concertación de prioridades y metas en salud
 
@@ -17889,8 +16149,6 @@ Cada compañía y la respectiva entidad territorial, deberán establecer indicad
 Las entidades territoriales deberán registrar en actas los resultados de la concertación con los representantes de las Campaña residentes en su jurisdicción, como requisito para la aprobación del Plan de Salud Territorial.
 
 (Decreto 2957 de 2010, Art. 20)
-
-ARTÍCULO
 
 ## art:2.5.2.1.21 — Interpretación de la norma
 
@@ -17908,15 +16166,11 @@ SECCIÓN 1
 
 Aspectos generales
 
-ARTÍCULO
-
 ## art:2.5.2.2.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar la Ley 21 de 1991 en lo relacionado con las medidas especiales para la prevención y protección de los derechos de los Pueblos Indígenas en Aislamiento o Estado Natural y crear el Sistema Nacional de Prevención y Protección de los derechos de los Pueblos Indígenas en Aislamiento o Estado Natural.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.1.2 — Ámbito de aplicación
 
@@ -17925,8 +16179,6 @@ El presente capítulo aplica en todo el territorio nacional y respecto de toda p
 Los demás pueblos indígenas, las autoridades públicas nacionales y territoriales, así como los particulares son responsables de su ejecución de acuerdo con el principio de corresponsabilidad.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.1.3 — Principios
 
@@ -17947,8 +16199,6 @@ La protección de los derechos de los Pueblos Indígenas en Aislamiento se orien
 Los anteriores principios son enunciativos y no taxativos.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.1.4 — Definiciones
 
@@ -17976,8 +16226,6 @@ SECCIÓN 2
 
 Sistema Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.1 — Sistema Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento
 
 Mediante la presente sección se organiza el Sistema Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento, entendido como el conjunto de principios, enfoques, normas, políticas, estrategias, ejes temáticos, metodologías, mecanismos, instrumentos, actividades, autoridades indígenas legalmente constituidas y autoridades tradicionales, sociedad civil; instancias e instituciones públicas del orden nacional y territorial que, a través de la articulación y el ejercicio de sus competencias y funciones, posibiliten el diseño, implementación, seguimiento y evaluación de medidas de prevención . y protección de los derechos de los Pueblos Indígenas en Aislamiento.
@@ -17985,8 +16233,6 @@ Mediante la presente sección se organiza el Sistema Nacional de Prevención y P
 PARÁGRAFO. Este Sistema Administrativo se articulará con el Sistema Nacional de Gestión del Riesgo de Desastres, cuando las circunstancias lo requieran, conforme a las normas aplicables.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.2.2 — Objetivos
 
@@ -18006,8 +16252,6 @@ Son objetivos del Sistema Nacional de Prevención y Protección de los Derechos 
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.3 — Conformación
 
 Integran el Sistema Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento:
@@ -18018,15 +16262,11 @@ Integran el Sistema Nacional de Prevención y Protección de los Derechos de los
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.1.5 — Comisión Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento
 
 Se crea la Comisión Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento como una instancia cuyo objeto será coordinar y orientar el Sistema Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.2.4 — Composición
 
@@ -18066,8 +16306,6 @@ PARÁGRAFO 3. Los delegados convocados a las sesiones de la Comisión Nacional s
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.5 — Funciones de la Comisión Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento
 
 La Comisión Nacional tendrá como funciones las siguientes:
@@ -18100,8 +16338,6 @@ La Comisión Nacional tendrá como funciones las siguientes:
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.6 — Carácter de la información
 
 La información derivada de las decisiones, actas, estudios, insumos, anexos sobre la identificación, ubicación, caracterización y registro, así como los datos referentes a coordenadas, rutas de acceso, mapas, fotografías que administren los órganos y entidades que conforman el Sistema Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento, tendrán el carácter de información pública clasificada conforme a los establecido en la Constitución Política y en los artículos 6, literal c.), y 18, literal b), de la Ley Estatutaria 1712 de 2014, o demás normas aplicables.
@@ -18112,8 +16348,6 @@ PARÁGRAFO 2. El Ministerio del Interior suministrará la información cartográ
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.7 — Comités Locales para la Prevención y Protección a los Pueblos Indígenas en Aislamiento
 
 Cuando el Ministerio del Interior registre un Pueblo Indígena en Aislamiento, el Gobernador del departamento donde este se encuentre ubicado conformara un Comité Local de Prevención y Protección de los Pueblos Indígenas en Aislamiento, con el objetivo de diseñar, implementar y evaluar las estrategias de prevención y protección de los derechos del respectivo Pueblo
@@ -18123,8 +16357,6 @@ Indígena en Aislamiento.
 PARÁGRAFO. Cuando el territorio de un Pueblo Indígena en Aislamiento se encuentre en más de un departamento, se conformará por el Gobernador en donde tenga la mayor parte del territorio.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.2.8 — Composición
 
@@ -18152,8 +16384,6 @@ PARÁGRAFO 3. Participaran con voz y con voto los gobernadores de los departamen
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.9 — Funciones
 
 Serán funciones de los Comités Locales de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento las siguientes:
@@ -18169,8 +16399,6 @@ Serán funciones de los Comités Locales de Prevención y Protección de los Der
 5. Definir las estrategias para la planificación, gestión y asignación de los recursos necesarios que garanticen su funcionamiento.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.2.10 — Responsabilidades del Ministerio del Interior
 
@@ -18192,8 +16420,6 @@ El Ministerio del Interior tendrá a su cargo las siguientes responsabilidades:
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.2.11 — Grupos Técnicos Interculturales
 
 En el marco de los comités Locales, se conformarán (sic) Grupos Técnicos Interculturales encargados de apoyar técnica y operativamente a los Comités Locales para la Prevención y Protección a los Pueblos Indígenas en Aislamiento.
@@ -18204,15 +16430,11 @@ SECCIÓN 3
 
 Estrategias y medidas de prevención
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.1 — Consulta previa en el caso de los Pueblos Indígenas en Aislamiento
 
 Salvo los eventos señalados en el artículo 193 del Decreto Ley 4633 de 2011, en concordancia con los principios de autodeterminación y no contacto e intangibilidad territorial, en el caso de los Pueblos Indígenas en Aislamiento el derecho de consulta previa debe interpretarse teniendo en cuenta su decisión de mantenerse en aislamiento y la necesidad de otorgar mayor protección a dichos pueblos dada su situación de vulnerabilidad, por lo que no se recurrirá a este tipo de mecanismos de participación y consulta.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.2 — Estrategias de Prevención
 
@@ -18223,8 +16445,6 @@ Para la protección de los derechos de los Pueblos Indígenas en Aislamiento se 
 2. Prevención urgente: componente que, ante el riesgo de una violación de derechos de los Pueblos Indígenas en Aislamiento, adopta acciones, planes y programas orientados a atender la contingencia y desactivar las amenazas para evitar su ocurrencia.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.3 — Prevención temprana
 
@@ -18250,8 +16470,6 @@ Forman parte de la prevención temprana las siguientes estrategias:
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.4 — Estudio oficial
 
 Es la investigación sobre la posible existencia de los Pueblos Indígenas en Aislamiento, la cual constituye la base técnica para la elaboración de los informes de riesgo.
@@ -18265,8 +16483,6 @@ PARÁGRAFO 1. El estudio oficial deberá prever el uso de metodologías indirect
 PARÁGRAFO 2. El estudio oficial deberá establecer mecanismos que garanticen la protección del conocimiento tradicional y el uso exclusivo y de la información aportada por las comunidades indígenas para los fines establecidos en el presente capítulo.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.5 — Registro de los Pueblos Indígenas en Aislamiento
 
@@ -18284,8 +16500,6 @@ PARÁGRAFO 2. La inscripción en el registro de los Pueblos Indígenas en Aislam
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.6 — Planes de prevención
 
 El Ministerio del Interior coordinara con la Comisión Nacional y el respectivo Gobernador departamental con el Comité Local, según sea el caso, el diseño y funcionamiento de planes de prevención sobre Pueblos Indígenas en Aislamiento. Estos planes contendrán un diagnóstico, la manera en que se llevara a cabo la coordinación interinstitucional de acuerdo con los determinantes sociales identificados y las medidas de prevención, monitoreo y control priorizadas, entre otros, de conformidad con las competencias de las entidades públicas intervinientes.
@@ -18298,15 +16512,11 @@ Los planes de prevención a favor de los Pueblos Indígenas en Aislamiento inclu
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.7 — Programas de formación, sensibilización y divulgación en materia de derechos de los Pueblos Indígenas en Aislamiento
 
 El Ministerio del Interior, en coordinación con las entidades competentes y con las autoridades indígenas legalmente constituidas y/o autoridades tradicionales, pondrá en marcha programas de promoción, divulgación y sensibilización de los derechos de los Pueblos Indígenas en Aislamiento, con el fin de hacer pedagogía sobre la importancia de la prevención y la protección de sus territorios y el grave riesgo que representa el contacto para su existencia.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.8 — Monitoreo y control
 
@@ -18320,8 +16530,6 @@ Los Comités Locales recopilaran y sistematizaran los resultados de esta medida 
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.9 — Información oficial sobre Pueblos Indígenas en Aislamiento
 
 El Ministerio del Interior definirá los canales de recepción y divulgación de cualquier información relativa a los Pueblos Indígenas en Aislamiento, en especial sobre la amenaza al contacto, el ingreso de personas ajenas a sus territorios o sobre los factores que puedan atentar contra los derechos de estas comunidades.
@@ -18332,8 +16540,6 @@ Es deber de los ciudadanos reportar de forma inmediata a la autoridad más cerca
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.10 — Acciones de prevención en materia de relaciones exteriores
 
 En el marco de sus competencias, el Ministerio de Relaciones Exteriores adelantara las gestiones necesarias con los gobiernos de la región para facilitar la gestión conjunta de prevención del riesgo de vulneraciones a los derechos y la atención de contingencias en materia de los Pueblos Indígenas en Aislamiento en zonas de frontera.
@@ -18342,23 +16548,17 @@ En el marco de sus competencias, el Ministerio del Interior y el Ministerio de R
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.11 — Instrumentos de planificación de los pueblos indígenas
 
 Los instrumentos de planificación propios de los pueblos indígenas, tales como los planes de vida, los planes de manejo ambiental, los acuerdos de manejo, entre otros, que incluyan la protección de los territorios de los Pueblos Indígenas en Aislamiento serán tenidos en cuenta para la formulación de otros instrumentos de planificación de las entidades nacionales y territoriales.
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.12 — Zona de amortiguamiento para Pueblos Indígenas en Aislamiento
 
 Son las áreas adyacentes a los límites de las zonas donde se asientan los Pueblos Indígenas en Aislamiento, como espacios de transición entre estas y el entorno. Las entidades nacionales y locales competentes tomaran medidas en estas zonas con el fin de limitar las perturbaciones causadas por la actividad humana e impedir que se generen disturbios o alteraciones en los ecosistemas de los territorios de los Pueblos Indígenas en Aislamiento.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.13 — Prevención urgente
 
@@ -18369,8 +16569,6 @@ Forman parte de la prevención urgente las siguientes estrategias:
 2. Alertas tempranas para Pueblos Indígenas en Aislamiento.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.14 — Informes de riesgo para Pueblos Indígenas en Aislamiento
 
@@ -18388,15 +16586,11 @@ PARÁGRAFO. La ocurrencia de un contacto con un Pueblo Indígena en Aislamiento 
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.3.15 — Evaluación y verificación
 
 Para la evaluación de los informes de riesgo, conforme a su competencia, los delegados o representantes de las entidades integrantes o invitadas del comité local correspondiente deberán presentar en la respectiva sesión de evaluación la información relacionada con la verificación de la información contenida en dichos documentos. En todo caso, se dará aplicación prioritaria al principio de precaución y se implementaran de forma inmediata las estrategias de prevención.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.3.16 — Alerta temprana para los Pueblos indígenas en Aislamiento
 
@@ -18414,8 +16608,6 @@ SECCIÓN 4
 
 Estrategias y medidas de protección
 
-ARTÍCULO
-
 ## art:2.5.2.2.4.1 — Medidas especiales de protección
 
 Las medidas de protección responden al deber del Estado de adoptar las medidas prioritarias en caso de vulneración de derechos de los Pueblos Indígenas en Aislamiento, mediante la adopción de acciones para mitigar los efectos y garantizar que los hechos no se repitan.
@@ -18430,8 +16622,6 @@ Las medidas especiales de protección serán las siguientes:
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.4.2 — Planes de contingencia
 
 Los comités locales diseñaran planes de contingencia en los que se establezcan protocolos, rutas, herramientas e instrumentos técnicos diferenciales que permitan mejorar la capacidad de respuesta institucional y local de acuerdo con los determinantes sociales identificados en los planes de prevención e informes de riesgo. Lo anterior, con el fin de atender oportuna y eficazmente los eventos producidos por el contacto con los Pueblos Indígenas en Aislamiento, para mitigar y reducir los impactos negativos del mismo.
@@ -18444,15 +16634,11 @@ PARÁGRAFO 2. En caso de contacto inicial o de la ocurrencia de eventos que den 
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.4.3 — Protección en acciones que afecten el orden público y la seguridad
 
 Cuando se presenten acciones que afecten el orden público o la seguridad o se tenga conocimiento (sic) de la presencia de actores armados ilegales en el territorio o en el área de influencia de los Pueblos Indígenas en Aislamiento, las autoridades locales y nacionales competentes deberán tomar todas las medidas para proteger la vida, los territorios y la condición de aislamiento de dichos pueblos.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.4.4 — 4.4
 
@@ -18460,15 +16646,11 @@ Sanciones por infracciones ambientales que vulneren medidas de prevención y pro
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.4.5 — Revisión y ajuste de instrumentos de prevención y protección
 
 La Comisión Nacional y los Comités Locales examinaran y reformularan periódicamente los planes, protocolos y estrategias emitidas, a la luz de la experiencia adquirida durante su implementación, por lo menos cada dos años.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.4.6 — Protección de los territorios de los Pueblos Indígenas en Aislamiento
 
@@ -18477,8 +16659,6 @@ El Gobierno nacional garantizara el derecho de los Pueblos Indígenas en Aislami
 PARÁGRAFO 1. La declaratoria de intangibilidad territorial será determinante para priorizar la ampliación de resguardos indígenas sobre las áreas de amortiguamiento de los territorios intangibles.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.4.7 — Excepciones a la prohibición de ingreso a los territorios de los Pueblos Indígenas en Aislamiento
 
@@ -18506,8 +16686,6 @@ PARÁGRAFO 3. Para el caso de las actuaciones de la Fuerza Pública, el Minister
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.4.8 — Condiciones mínimas para el ingreso excepcional al territorio de los pueblos indígenas en aislamiento
 
 Para el ingreso excepcional los territorios de Pueblos Indígenas en Aislamiento se contarán con las siguientes condiciones mínimas:
@@ -18524,8 +16702,6 @@ Para el ingreso excepcional los territorios de Pueblos Indígenas en Aislamiento
 
 (Decreto 1232 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.2.2.4.9 — Identificación del territorio de protección de los Pueblos Indígenas en Aislamiento
 
 El Gobierno nacional, a través del Ministerio del Interior, como medida excepcional de protección a los territorios ancestrales de los Pueblos Indígenas en Aislamiento, procederá a identificar el territorio objeto de protección y realizará su registro bajo la modalidad de "Pueblos Indígenas en Aislamiento con presencia confirmada y territorialidad identificada", según lo establecido en el artículo 2.14.20.4.2 del Decreto 1071 de 2015.
@@ -18533,8 +16709,6 @@ El Gobierno nacional, a través del Ministerio del Interior, como medida excepci
 PARÁGRAFO. En el acto administrativo de registro correspondiente a la modalidad "Pueblos Indígenas en Aislamiento con presencia confirmada y territorialidad identificada", se delimitará de forma clara la territorialidad indígena y la zona de amortiguamiento, y se declarará la intangibilidad del territorio de los Pueblos Indígenas en Aislamiento.
 
 (Decreto 1232 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.5.2.2.4.10 — Protección jurídica de la posesión de los territorios de los Pueblos Indígenas en Aislamiento
 
@@ -18566,23 +16740,17 @@ CAPÍTULO 1
 
 Consulta previa con las Comunidades Indígenas y Negras para la explotación de los recursos naturales dentro de su territorio
 
-ARTÍCULO
-
 ## art:2.5.3.1.1 — Objeto
 
 La consulta previa tiene por objeto analizar el impacto económico, ambiental, social y cultural que puede ocasionarse a una comunidad indígena o negra por la explotación de recursos naturales dentro de su territorio, conforme a la definición del artículo 2.5.3.1.2. del presente decreto, y las medidas propuestas para proteger su integridad.
 
 (Decreto 1320 de 1998, Art. 1)
 
-ARTÍCULO
-
 ## art:2.5.3.1.2 — Determinación de territorio
 
 La consulta previa se realizará cuando el proyecto, obra o actividad se pretenda desarrollar en zonas de resguardo o reservas indígenas o en zonas adjudicadas en propiedad colectiva a comunidades negras. Igualmente, se realizará consulta previa cuando el proyecto, obra o actividad se pretenda desarrollar en zonas no tituladas y habitadas en forma regular y permanente por dichas comunidades indígenas o negras, de conformidad con lo establecido en el siguiente ARTÍCULO.
 
 (Decreto 1320 de 1998, Art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.1.3 — Identificación de comunidades indígenas y negras
 
@@ -18606,15 +16774,11 @@ PARÁGRAFO 3. Las certificaciones de que trata el presente ARTÍCULO se expedir�
 
 (Decreto 1320 de 1998, Art. 3)
 
-ARTÍCULO
-
 ## art:2.5.3.1.4 — Extensión del procedimiento
 
 Cuando los estudios ambientales determinen que de las actividades proyectadas se derivan impactos económicos, sociales o culturales sobre las comunidades indígenas o negras, de conformidad con las definiciones de este Capítulo y dentro del ámbito territorial de los ARTÍCULO s 2.5.3.1.2 y 2.5.3.1.3, se aplicara el procedimiento establecido en los artículos siguientes.
 
 (Decreto 1320 de 1998, Art. 4)
-
-ARTÍCULO
 
 ## art:2.5.3.1.5 — Participación de las Comunicaciones Indígenas y Negras en la elaboración de los estudios ambientales
 
@@ -18630,15 +16794,11 @@ En caso que los representantes de las comunidades indígenas y/o negras se niegu
 
 (Decreto 1320 de 1998, Art. 5)
 
-ARTÍCULO
-
 ## art:2.5.3.1.6 — Términos de referencia
 
 Dentro de los términos de referencia que expida la Autoridad Nacional de Licencias Ambientales o la autoridad ambiental competente, para la elaboración de los estudios ambientales se incluirán los lineamientos necesarios para analizar el componente socioeconómico y cultural de las comunidades indígenas o negras.
 
 (Decreto 1320 de 1998, Art. 6)
-
-ARTÍCULO
 
 ## art:2.5.3.1.7 — Proyectos que cuentan con términos de referencia genéricos
 
@@ -18646,23 +16806,17 @@ Cuando el proyecto, obra o actividad, cuente con términos de referencia genéri
 
 (Decreto 1320 de 1998, Art. 7)
 
-ARTÍCULO
-
 ## art:2.5.3.1.8 — Solicitud de licencia ambiental o de establecimiento del plan de manejo ambiental
 
 Cuando se pretenda desarrollar un proyecto, obra o actividad dentro del ámbito territorial previsto en los ARTÍCULO s 2.5.3.1.2 y 2.5.3.1.3 de este decreto, a la solicitud de licencia ambiental o de establecimiento del Plan de Manejo Ambiental, se anexará las certificaciones de que trata el ARTÍCULO 2.5.3.1.3 del presente decreto.
 
 (Decreto 1'320de 1998, Art. 8)
 
-ARTÍCULO
-
 ## art:2.5.3.1.9 — Proyectos que no cuentan con términos de referencia genéricos
 
 Recibida la solicitud de términos de referencia y establecida la necesidad de hacer consulta previa, la autoridad ambiental competente al momento de expedirlos, informara al Ministerio del Interior sobre la participación de las comunidades indígenas y/o negras susceptibles de ser afectadas, en la elaboración de los estudios.
 
 (Decreto 1320 de 1998, Art. 9)
-
-ARTÍCULO
 
 ## art:2.5.3.1.10 — Contenido de los estudios ambientales frente al componente socioeconómico y cultural
 
@@ -18682,15 +16836,11 @@ Características de la cultura de las comunidades indígenas y/o negras. Este el
 
 (Decreto 1320 de 1998, Art. 10)
 
-ARTÍCULO
-
 ## art:2.5.3.1.11 — Comunicación a la comisión técnica de que trata la Ley 70 de 1993
 
 Hasta cuando se adjudique en debida forma la propiedad colectiva de las comunidades negras susceptibles de ser afectadas por el proyecto, obra o actividad, la autoridad ambiental competente remitirá copia del auto de iniciación de tramite a la Comisión Técnica de que trata el ARTÍCULO 8° de la Ley 70 de 1993, para que emita el concepto exigido en el ARTÍCULO 17 de la misma ley.
 
 (Decreto 1320 de 1998, Art. 11)
-
-ARTÍCULO
 
 ## art:2.5.3.1.12 — Reunión de consulta
 
@@ -18705,8 +16855,6 @@ PARÁGRAFO 1. Cuando para un proyecto, obra o actividad hayan de consultarse var
 PARÁGRAFO 2. La reunión se celebrará en idioma castellano, con traducción a las lenguas de las comunidades indígenas y negras presentes, cuando sea del caso. De ella se levantará un acta en la que conste el desarrollo de la misma, que será firmada por los representantes de las comunidades indígenas y negras; Igualmente será firmada por los representantes de la autoridad ambiental competente, del Ministerio del Interior y de las autoridades de control que asistan a ella.
 
 (Decreto 1320 de 1998, Art.12)
-
-ARTÍCULO
 
 ## art:2.5.3.1.13 — Desarrollo de la reunión
 
@@ -18730,8 +16878,6 @@ En la reunión de consulta se seguirá el siguiente procedimiento:
 
 (Decreto 1320 de 1998, Art. 13)
 
-ARTÍCULO
-
 ## art:2.5.3.1.14 — Documento de evaluación y manejo ambiental
 
 Cuando quiera que se den los supuestos del artículo 2.5.3.1.2 del presente decreto para los proyectos, obras o actividades cobijados por lo dispuesto en las disposiciones que hayan sustituido el Decreto 883 de 1997, se deberá realizar la consulta previa con las comunidades indígenas y negras.
@@ -18744,8 +16890,6 @@ Dentro de los diez (10) días siguientes a la presentación del documento de eva
 
 (Decreto 1320 de 1998, Art. 14)
 
-ARTÍCULO
-
 ## art:2.5.3.1.15 — Permisos de uso, aprovechamiento o afectación de Recursos Naturales Renovables
 
 Cuando se pretenda desarrollar un proyecto, obra o actividad dentro del ámbito territorial previsto en los ARTÍCULO s 2.5.3.1.2 y 2.5.3.1.3, a la solicitud presentada ante la autoridad ambiental competente para acceder al uso, aprovechamiento o afectación de los recursos naturales renovables que no vayan implícitos dentro de una licencia ambiental, se anexaran las certificaciones de que trata el ARTÍCULO 2.5.3.1.3.
@@ -18754,8 +16898,6 @@ Recibida la solicitud y establecida la necesidad de hacer consulta previa, la au
 
 (Decreto 1320 de 1998, Art. 15)
 
-ARTÍCULO
-
 ## art:2.5.3.1.16 — Reunión de consulta
 
 Dentro de los quince (15) días siguientes a la fecha de recibo de la solicitud de aprovechamiento, uso o afectación de los recursos naturales renovables, la autoridad ambiental competente citara a una reunión de consulta, que deberá celebrarse dentro de los quince (15) días siguientes al auto que así lo ordena, en el lugar que ella determine, preferiblemente en la zona en donde se encuentre el asentamiento.
@@ -18763,8 +16905,6 @@ Dentro de los quince (15) días siguientes a la fecha de recibo de la solicitud 
 Deberá participar en tal reunión, el interesado, los representantes de las comunidades indígenas y negras involucradas y el Ministerio del Interior, igualmente serán invitados a asistir la Procuraduría General de la Nación y la Defensoría del Pueblo. Podrán asistir también otras entidades del Estado que posean interés en el asunto.
 
 (Decreto 1320 de 1998, Art.16)
-
-ARTÍCULO
 
 ## art:2.5.3.1.17 — Desarrollo de la reunión de consulta
 
@@ -18780,15 +16920,11 @@ La reunión de consulta se desarrollará de la siguiente manera:
 
 (Decreto 1320 de 1998, Art. 17)
 
-ARTÍCULO
-
 ## art:2.5.3.1.18 — Ámbito de aplicación
 
 Las disposiciones contenidas en los artículos 2.5.3.1.14 a 2.5.3.1.18 no se aplicará cuando se trate de licencias ambientales que contengan permisos, concesiones y autorizaciones para el aprovechamiento de los recursos naturales.
 
 (Decreto 1320 de 1998, Art. 18)
-
-ARTÍCULO
 
 ## art:2.5.3.1.19 — Comunicación de la decisión
 
@@ -18800,23 +16936,17 @@ CAPÍTULO 2
 
 Protocolo de Coordinación Interinstitucional para la consulta previa
 
-ARTÍCULO
-
 ## art:2.5.3.2.1 — Definición y objetivo
 
 Adoptase el Protocolo de Coordinación Interinstitucional para la Consulta Previa como mecanismo de coordinación entre las entidades públicas, destinado a facilitar el enlace de las responsabilidades correspondientes y a compartir criterios e información actualizada que sirvan de soporte para la expedición de las certificaciones de presencia de comunidades étnicas y para el desarrollo mismo de la Consulta Previa.
 
 (Decreto 2613 de 2013, Art. 1)
 
-ARTÍCULO
-
 ## art:2.5.3.2.2 — Continuidad
 
 El Protocolo de Coordinación interinstitucional para la Consulta Previa funcionara de manera permanente y podrá activarse cada vez que se requiera, de conformidad con las normas establecidas en este decreto.
 
 (Decreto 2613 de 2013, Art. 2)
-
-ARTÍCULO
 
 ## art:2.5.3.2.3 — Campo de aplicación
 
@@ -18830,8 +16960,6 @@ El Protocolo de Coordinación Interinstitucional para la Consulta Previa se apli
 
 (Decreto 2613 de 2013, Art. 3)
 
-ARTÍCULO
-
 ## art:2.5.3.2.4 — Certificación de presencia de comunidades étnicas
 
 La Dirección de Consulta Previa del Ministerio del Interior ejercerá la competencia exclusiva de certificación de presencia de comunidades étnicas para efectos de celebración de consultas previas.
@@ -18843,8 +16971,6 @@ No obstante, el lncoder conservara la potestad de certificación en asuntos ajen
 La Dirección de Consulta Previa podrá solicitar a cualquier autoridad pública información necesaria para la expedición de la certificación de presencia de comunidades étnicas. Los requerimientos deberán responderse de manera expedita.
 
 (Decreto 2613 de 2013, Art. 4)
-
-ARTÍCULO
 
 ## art:2.5.3.2.5 — Oportunidad para la solicitud de certificado de presencia de comunidades étnicas
 
@@ -18862,8 +16988,6 @@ El Gobierno Nacional podrá definir la pertinencia de establecer momentos espec�
 
 (Decreto 2613 de 2013, Art. 5)
 
-ARTÍCULO
-
 ## art:2.5.3.2.6 — Información necesaria para expedir la solicitud de certificación de presencia de comunidades étnicas
 
 Para la expedición del certificado de presencia de comunidades étnicas, la Dirección de Consulta Previa requerirá de la entidad responsable del PCA o del ejecutor del proyecto, la descripción del proyecto y su área de influencia.
@@ -18871,8 +16995,6 @@ Para la expedición del certificado de presencia de comunidades étnicas, la Dir
 La Dirección de Consulta Previa podrá solicitar otros insumos que se requieran para adelantar el proceso de certificación.
 
 (Decreto 2613 de 2013, Art. 6)
-
-ARTÍCULO
 
 ## art:2.5.3.2.7 — Entidades encargadas de suministrar la información para la identificación de presencia de comunidades étnicas
 
@@ -18888,15 +17010,11 @@ La información solicitada por la Dirección de Consulta Previa será atendida p
 
 (Decreto 2613 de 2013, Art. 7)
 
-ARTÍCULO
-
 ## art:2.5.3.2.8 — Reuniones previas
 
 La puesta en marcha del Protocolo en cada caso concreto, no impide la celebración de reuniones con los sectores concernidos, convocadas por los diferentes ministerios o por el gerente de los PINES, destinadas a debatir los alcances y consecuencias del proyecto.
 
 (Decreto 2613 de 2013, Art. 8)
-
-ARTÍCULO
 
 ## art:2.5.3.2.9 — Reunión de coordinación
 
@@ -18905,8 +17023,6 @@ Una vez certificada la presencia de comunidades étnicas en la zona de influenci
 Si se trata de un proyecto PINE, la coordinación la dirigirá el gerente del comité técnico del sector correspondiente
 
 (Decreto 2613 de 2013, Art. 9)
-
-ARTÍCULO
 
 ## art:2.5.3.2.10 — Convocatorias
 
@@ -18920,15 +17036,11 @@ No obstante, si los temas a que se refiere el inciso anterior son ajenos al obje
 
 (Decreto 2613 de 2013, Art. 10)
 
-ARTÍCULO
-
 ## art:2.5.3.2.11 — Intervención de la autoridad ambiental competente en la consulta previa
 
 La autoridad ambiental competente deberá participar en aquellas reuniones del proceso de consulta previa en que se prevea la identificación de impactos y medidas de manejo de aquellos proyectos para los que se deba expedir licencia ambiental.
 
 (Decreto 2613 de 2013, Art. 11)
-
-ARTÍCULO
 
 ## art:2.5.3.2.12 — Comité de seguimiento
 
@@ -18952,15 +17064,11 @@ CAPÍTULO 1
 
 Registro Nacional del Derecho de Autor
 
-ARTÍCULO
-
 ## art:2.6.1.1.1 — Registro Nacional del Derecho de Autor
 
 El Registro Nacional del Derecho de Autor es competencia de la Unidad Administrativa Especial - Dirección Nacional del Derecho de Autor, con carácter único para todo el territorio nacional.
 
 (Decreto 460 de 1995, Art. 1)
-
-ARTÍCULO
 
 ## art:2.6.1.1.2 — Objeto
 
@@ -18968,23 +17076,17 @@ Para los efectos del ARTÍCULO 3 de la Ley 44 de 1993, el Registro Nacional del 
 
 (Decreto 460 de 1995, Art. 2)
 
-ARTÍCULO
-
 ## art:2.6.1.1.3 — Protección
 
 La protección que se brinda a las obras literarias y artísticas, así como a las interpretaciones y demás producciones salvaguardadas por el derecho conexo, no estará subordinada a ningún tipo de formalidad, y en consecuencia el registro que aquí se reglamenta será para otorgar mayor seguridad jurídica a los autores y titulares.
 
 (Decreto 460 de 1995, Art. 3)
 
-ARTÍCULO
-
 ## art:2.6.1.1.4 — Presunción de veracidad
 
 Los datos consignados en el Registro Nacional del Derecho de Autor se presumirán ciertos, hasta tanto se demuestre lo contrario.
 
 (Decreto 460 de 1995, Art. 4)
-
-ARTÍCULO
 
 ## art:2.6.1.1.5 — Inscripción y reproducción
 
@@ -18994,23 +17096,17 @@ La reproducción de las obras editadas o inéditas y la consulta de las obras in
 
 (Decreto 460 de 1995, Art. 5)
 
-ARTÍCULO
-
 ## art:2.6.1.1.6 — Correcciones
 
 El jefe de la Oficina de Registro de la Dirección Nacional del Derecho de Autor podrá, de oficio o a solicitud de parte, corregir los simples errores mecanográficos o numéricos cometidos al realizar una inscripción, atendiendo lo dispuesto sobre el particular en el Régimen de Instrumentos Públicos. Las cancelaciones, adiciones o modificaciones de las inscripciones efectuadas en el Registro Nacional del Derecho de Autor, solo procederán a solicitud del autor y de los derechohabientes que demuestren tal calidad, quienes deberán allegar la documentación que soporte su petición, o en virtud de orden judicial.
 
 (Decreto 460 de 1995, Art. 6)
 
-ARTÍCULO
-
 ## art:2.6.1.1.7 — Cumplimiento del Estatuto
 
 Para todos los efectos, el Registro Nacional del Derecho de Autor deberá ajustarse en lo posible, a la forma y términos prescritos en el Estatuto de Registro de Instrumentos Públicos.
 
 (Decreto 460 de 1995, Art.7)
-
-ARTÍCULO
 
 ## art:2.6.1.1.8 — Requisitos de inscripción
 
@@ -19038,8 +17134,6 @@ PARÁGRAFO 2. Si la petición de inscripción es relativa a obras literarias edi
 
 (Decreto 460 de 1995, Art. 8)
 
-ARTÍCULO
-
 ## art:2.6.1.1.9 — Otras obligaciones
 
 Si la obra literaria fuere editada se deberá indicar, además de lo señalado en el ARTÍCULO anterior, lo siguiente:
@@ -19054,15 +17148,11 @@ Si la obra literaria fuere editada se deberá indicar, además de lo señalado e
 
 (Decreto 460 de 1995, Art. 9)
 
-ARTÍCULO
-
 ## art:2.6.1.1.10 — Del registro de obras inéditas
 
 Si la obra literaria fuere inédita, deberá allegarse a la Oficina de Registro de la Dirección Nacional del Derecho de Autor, junto con el formato de inscripción correspondiente, un ejemplar de ella, sin enmiendas, mutilaciones, raspaduras o entrerrenglones y debidamente empastada. Si la obra es manuscrita, esta deberá allegarse en forma clara y legible.
 
 (Decreto 460 de 1995, Art. 10)
-
-ARTÍCULO
 
 ## art:2.6.1.1.11 — Del registro Inscripción de obras musicales
 
@@ -19071,8 +17161,6 @@ Si se trata de una obra musical con letra o sin ella, deberá mencionarse adicio
 Si lo pretendido es la inscripción de la letra de la composición musical por si sola sin allegar la partitura, se tramitara la solicitud de registro en el formato de inscripción de obras literarias.
 
 (Decreto 460 de 1995, Art. 11)
-
-ARTÍCULO
 
 ## art:2.6.1.1.12 — Del registro de obras audiovisuales
 
@@ -19090,15 +17178,11 @@ Tratándose de obras audiovisuales, se deberá indicar, además de lo mencionado
 
 (Decreto 460 de 1995, Art. 12)
 
-ARTÍCULO
-
 ## art:2.6.1.1.13 — Del registro de obras artísticas
 
 Para el registro de obras artísticas, tales como cuadros, esculturas, pinturas, dibujos, grabados, obras fotográficas y las expresadas por procedimiento análogo a la fotografía, además de la información solicitada en el ARTÍCULO 2.6.1.1.8, deberá efectuarse por escrito una descripción completa y detallada de la obra a registrar de tal manera que pueda diferenciarse de otra obra de su mismo género. Junto con el formato de inscripción se acompañarán tantas fotografías como sean necesarias para identificarla perfectamente o una copia de la obra.
 
 (Decreto 460 de 1995, Art. 13)
-
-ARTÍCULO
 
 ## art:2.6.1.1.14 — Del registro de obras de arquitectura, ingeniería y afines
 
@@ -19106,15 +17190,11 @@ Para el registro de obras de arquitectura, ingeniería, mapas, croquis y obras p
 
 (Decreto 460 de 1995, Art. 14)
 
-ARTÍCULO
-
 ## art:2.6.1.1.15 — Del registro de obras (sic) escénicas y similares
 
 Para el registro de obras escénicas tales como las teatrales, pantomímicas, coreográficas, dramáticas o dramático-musicales, deberá, además de lo mencionado en el artículo 2.6.1.1.8, indicarse en el formato preestablecido por la Dirección Nacional del Derecho de Autor la clase de obra de que se trate, su duración y una breve descripción del contenido de la misma. Junto con dicha información, deberá allegarse un extracto o resumen por escrito de la obra o un ejemplar de la misma, según el caso.
 
 (Decreto 460 de 1995, Art. 15)
-
-ARTÍCULO
 
 ## art:2.6.1.1.16 — Del registro de fonogramas
 
@@ -19135,8 +17215,6 @@ Para el registro de fonogramas, deberá tramitarse el formato preestablecido al 
 7. Nombre, documento de identificación y residencia habitual del solicitante, manifestando si actúa a nombre propio o como representante de otro, en cuyo caso deberá acompañar la prueba de su representación.
 
 (Decreto 460 de 1995, Art. 16)
-
-ARTÍCULO
 
 ## art:2.6.1.1.17 — Del registro de actos y contratos
 
@@ -19168,8 +17246,6 @@ PARÁGRAFO 4. Para los contratos y demás actos sujetos al impuesto de timbre, d
 
 (Decreto 460 de 1995, Art. 17)
 
-ARTÍCULO
-
 ## art:2.6.1.1.18 — Del registro de poderes generales
 
 Para el registro de poderes de carácter general a que se refiere el literal d) del ARTÍCULO 3 de la Ley 44 de 1993, deberá elevarse una petición a la Oficina de Registro de la Dirección Nacional del Derecho de Autor, la cual contendrá la siguiente información:
@@ -19191,8 +17267,6 @@ PARÁGRAFO 1. Junto con la solicitud de inscripción deberá allegarse copia de 
 PARÁGRAFO 2. Si el poder fue otorgado en el exterior o en idioma diferente al español se deberán observar los requisitos que al efecto establezca el Código General del Proceso.
 
 (Decreto 460 de 1995, Art.18)
-
-ARTÍCULO
 
 ## art:2.6.1.1.19 — Del registro de providencias
 
@@ -19216,15 +17290,11 @@ PARÁGRAFO. Junto con la solicitud de inscripción correspondiente, deberá alle
 
 (Decreto 460 de 1995, Art. 19)
 
-ARTÍCULO
-
 ## art:2.6.1.1.20 — Constancia del registro
 
 Una vez realizada la inscripción, se dejará constancia de ella en el libro de registro correspondiente por orden numérico y cronológico y posteriormente se expedirá y entregará un certificado al interesado.
 
 (Decreto 460 de 1995, Art. 20)
-
-ARTÍCULO
 
 ## art:2.6.1.1.21 — Entrega de ejemplares
 
@@ -19236,8 +17306,6 @@ PARÁGRAFO. Las obras editadas, obras audiovisuales y fonogramas, que por este c
 
 (Decreto 460 de 1995, Art. 21)
 
-ARTÍCULO
-
 ## art:2.6.1.1.22 — Del depósito legal
 
 Para los efectos del artículo 7 de la Ley 44 de 1993, se entiende por Deposito Legal la obligación que se le impone a todo editor de obras impresas, productor de obras audiovisuales y productor de fonogramas en Colombia y a todo importador de obras impresas, obras audiovisuales y fonogramas, de entregar para su conservación en las entidades y por las cantidades determinadas en el artículo 2.6.1.1.25, ejemplares de la obra impresa, audiovisual o fonograma producidos en el país o importados, con el propósito de guardar memoria de la producción literaria, audiovisual y fonográfica y acrecentar el patrimonio cultural.
@@ -19245,8 +17313,6 @@ Para los efectos del artículo 7 de la Ley 44 de 1993, se entiende por Deposito 
 (Derogado por el Art. 3 del Decreto 0149 de 2024)
 
 (Decreto 460 de 1995, Art. 22)
-
-ARTÍCULO
 
 ## art:2.6.1.1.23 — Definiciones
 
@@ -19290,8 +17356,6 @@ El termino de datos legibles por máquina, se refiere tanto a los datos almacena
 
 (Decreto 460 de 1995, Art. 23)
 
-ARTÍCULO
-
 ## art:2.6.1.1.24 — Responsable del depósito legal
 
 La Biblioteca Nacional de Colombia será la entidad responsable del Depósito Legal.
@@ -19299,8 +17363,6 @@ La Biblioteca Nacional de Colombia será la entidad responsable del Depósito Le
 (Derogado por el Art. 3 del Decreto 0149 de 2024)
 
 (Decreto 460 de 1995, Art. 24)
-
-ARTÍCULO
 
 ## art:2.6.1.1.25 — Del depósito legal
 
@@ -19324,8 +17386,6 @@ PARÁGRAFO. La Biblioteca Nacional de Colombia podrá rechazar los ejemplares en
 
 (Decreto 460 de 1995, Art. 25)
 
-ARTÍCULO
-
 ## art:2.6.1.1.26 — Plazo para efectuar el depósito legal
 
 El Depósito Legal de las diferentes obras impresas, obras audiovisuales y fonogramas deberá efectuarse dentro de los sesenta (60) días hábiles siguientes a su publicación, comunicación pública, reproducción o importación, respectivamente.
@@ -19333,8 +17393,6 @@ El Depósito Legal de las diferentes obras impresas, obras audiovisuales y fonog
 (Derogado por el Art. 3 del Decreto 0149 de 2024)
 
 (Decreto 460 de 1995, Art. 26)
-
-ARTÍCULO
 
 ## art:2.6.1.1.27 — Multas
 
@@ -19350,8 +17408,6 @@ PARÁGRAFO 2. El procedimiento de imposición de la multa será regulado por el 
 
 (Decreto 460 de 1995, Art. 27)
 
-ARTÍCULO
-
 ## art:2.6.1.1.28 — Custodia y conservación de publicaciones periódicas
 
 Las publicaciones periódicas que sean entregadas en cumplimiento a lo dispuesto en el artículo 63 de la Ley 44 de 1993, a la Dirección Nacional del Derecho de Autor, serán remitidas a la Biblioteca Nacional de Colombia para su custodia y conservación en el término y bajo los procedimientos que conjuntamente establezcan las dos Entidades, previa las anotaciones a que haya lugar en la respectiva reserva de nombre para constatar su uso.
@@ -19359,8 +17415,6 @@ Las publicaciones periódicas que sean entregadas en cumplimiento a lo dispuesto
 (Derogado por el Art. 3 del Decreto 0149 de 2024)
 
 (Decreto 460 de 1995, Art. 28)
-
-ARTÍCULO
 
 ## art:2.6.1.1.29 — Listado de obras depositadas
 
@@ -19370,8 +17424,6 @@ La Biblioteca Nacional de Colombia deberá remitir al Instituto Caro y Cuervo de
 
 (Decreto 460 de 1995, Art. 29)
 
-ARTÍCULO
-
 ## art:2.6.1.1.30 — Regulaciones especiales
 
 El director de la Biblioteca Nacional de Colombia podrá establecer, mediante resolución motivada, exigencias especiales para algunas categorías de obras o producciones sujetas a Deposito Legal, o reducir o ampliar el número de ejemplares a entregar, así como contratar con otras personas o entidades cuando sea necesario por motivos de preservación y conservación, siempre y cuando no se le ocasione al depositante condiciones financieras o prácticas de difícil cumplimiento.
@@ -19380,8 +17432,6 @@ El director de la Biblioteca Nacional de Colombia podrá establecer, mediante re
 
 (Decreto 460 de 1995, Art. 30)
 
-ARTÍCULO
-
 ## art:2.6.1.1.31 — Informe del ISBN
 
 La Cámara Colombiana del Libro como responsable de llevar el Numero Internacional Normalizado para Libros o ISBN en Colombia, deberá entregar trimestralmente a la Biblioteca Nacional de Colombia, un listado de las obras inscritas durante ese lapso.
@@ -19389,8 +17439,6 @@ La Cámara Colombiana del Libro como responsable de llevar el Numero Internacion
 (Derogado por el Art. 3 del Decreto 0149 de 2024)
 
 (Decreto 460 de 1995, Art. 31)
-
-ARTÍCULO
 
 ## art:2.6.1.1.32 — Reproducciones
 
@@ -19403,8 +17451,6 @@ Con el único propósito de procurar la mejor conservación de las obras o produ
 CAPÍTULO 2
 
 Sociedades de gestión colectiva o de derechos conexos y la entidad recaudadora
-
-ARTÍCULO
 
 ## art:2.6.1.2.1 — Gestión de derechos patrimoniales de autor y conexos
 
@@ -19422,8 +17468,6 @@ A los fines de lo señalado en los Artículos 160 y 162 de la Ley 23 de 1982, 87
 
 (Modificado por el Decreto 1007 de 2022)
 
-ARTÍCULO
-
 ## art:2.6.1.2.2 — Constitución
 
 Conforme a lo dispuesto en la legislación de derecho de autor, los titulares de derecho de autor o de derechos conexos, podrán formar sociedades de gestión colectiva sin ánimo de lucro.
@@ -19435,8 +17479,6 @@ PARÁGRAFO 1°. En ningún caso las sociedades de gestión colectiva podrán neg
 PARÁGRAFO 2°. Para aquellos afiliados que no sean fundadores, las sociedades de gestión colectiva categorizaran a sus miembros conforme a los ingresos obtenidos por la utilización de sus obras, interpretaciones ejecuciones o fonogramas, según sea el caso, estableciendo para cada categoría sus derechos y obligaciones y las formas de elegir y ser elegido.
 
 (Decreto 3942 de 2010, Art. 2)
-
-ARTÍCULO
 
 ## art:2.6.1.2.3 — Finalidad
 
@@ -19450,8 +17492,6 @@ Las sociedades de gestión colectiva de derecho de autor o de derechos conexos, 
 
 (Decreto 3942 de 2010, Art. 3)
 
-ARTÍCULO
-
 ## art:2.6.1.2.4 — Tarifas
 
 Las sociedades de gestión colectiva de derecho de autor o de derechos conexos, deberán expedir reglamentos internos en donde se precise la forma como se fijarán las tarifas por concepto de las diversas utilizaciones de las obras, interpretaciones, ejecuciones artísticas o fonogramas.
@@ -19460,15 +17500,11 @@ En las tarifas que se deriven de dichos reglamentos, se enunciará la categoría
 
 (Decreto 3942 de 2010, Art. 4; Decreto 1258 de 2010, Art. 48)
 
-ARTÍCULO
-
 ## art:2.6.1.2.5 — Publicación
 
 Las sociedades de gestión colectiva de derecho de autor o de derechos conexos, deberán publicar las tarifas generales, sus modificaciones y adiciones en su sitio web y mantenerlas disponibles en su domicilio social.
 
 (Decreto 3942 de 2010, Art. 5)
-
-ARTÍCULO
 
 ## art:2.6.1.2.6 — Negociación con los usuarios
 
@@ -19477,8 +17513,6 @@ Las tarifas publicadas en los términos del anterior ARTÍCULO, servirán como b
 En caso de existir desacuerdo entre las sociedades de gestión colectiva de derecho de autor o de derechos conexos con los usuarios u organizaciones de usuarios en relación con las tarifas, los puntos de discrepancia podrán ser sometidos a cualquiera de los mecanismos alternativos de solución de conflictos, y en caso de que dicha modalidad no fuere convenida, las diferencias podrán ser conocidas por la justicia ordinaria en los términos de los ARTÍCULO s 242 y 243 de la Ley 23 de 1982.
 
 (Decreto 3942 de 2010, Art. 6)
-
-ARTÍCULO
 
 ## art:2.6.1.2.7 — Criterios para establecer las tarifas
 
@@ -19500,8 +17534,6 @@ PARÁGRAFO. En todo caso, las sociedades de gestión colectiva de derecho de aut
 
 (Decreto 3942 de 2010, Art. 7)
 
-ARTÍCULO
-
 ## art:2.6.1.2.8 — Certificación de no uso
 
 En los casos de los establecimientos de comercio que no utilicen obras, interpretaciones, ejecuciones artísticas o fonogramas, las personas que los administren, podrán requerir a las sociedades de gestión colectiva de derecho de autor o de derechos conexos una certificación en tal sentido, para cuyo efecto otorgaran a estas las facilidades de inspección necesarias y, en tal caso, la sociedad de gestión colectiva de derecho de autor o de derechos conexos tendrá la obligación de expedir oportuna y gratuitamente la certificación que así lo haga constar. En caso de iniciar cualquier uso de repertorio, el establecimiento estará obligado a obtener la autorización correspondiente y, en ningún caso, podrá exhibir la certificación antes aludida para oponerse a la acción de la entidad de gestión para licenciar el uso de su repertorio, y obtener el pago correspondiente.
@@ -19509,8 +17541,6 @@ En los casos de los establecimientos de comercio que no utilicen obras, interpre
 PARÁGRAFO. Corresponde al utilizador de las obras exhibir ante la autoridad competente las autorizaciones que hubiere obtenido en forma individual o a través de la gestión colectiva para el uso de las obras, interpretaciones, ejecuciones artísticas o fonogramas.
 
 (Decreto 3942 de 2010, Art. 8)
-
-ARTÍCULO
 
 ## art:2.6.1.2.9 — Legitimación
 
@@ -19522,23 +17552,17 @@ Corresponderá al demandado acreditar la falta de legitimación de la sociedad d
 
 (Decreto 3942 de 2010, Art. 9)
 
-ARTÍCULO
-
 ## art:2.6.1.2.10 — Prueba de existencia
 
 Para todos los efectos legales, será prueba suficiente de la existencia y representación legal de las sociedades de gestión colectiva, la certificación que expida la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, la cual tendrá una vigencia de seis (6) meses.
 
 (Decreto 3942 de 2010, Art. 10)
 
-ARTÍCULO
-
 ## art:2.6.1.2.11 — Inspección y vigilancia
 
 Las sociedades de gestión colectiva de derecho de autor o de derechos conexos, deberán ajustarse en el ejercicio y cumplimiento de sus funciones y atribuciones legales y estatutarias, a lo estipulado en la Decisión Andina 351 de 1993, en la Ley 44 de 1993, en el presente capítulo, y en las demás normas pertinentes, hallándose sometidas a la inspección y vigilancia de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor.
 
 (Decreto 3942 de 2010, Art. 11)
-
-ARTÍCULO
 
 ## art:2.6.1.2.12 — Facultades de inspección y vigilancia
 
@@ -19564,23 +17588,17 @@ PARÁGRAFO. Sin perjuicio de lo dispuesto en los ARTÍCULO s 2.6.1.2.40 al 2.6.1
 
 (Decreto 3942 de 2010, Art. 12)
 
-ARTÍCULO
-
 ## art:2.6.1.2.13 — De la información financiera
 
 En cumplimento del artículo 42 de la Ley 44 de 1993, las sociedades de gestión colectiva deberán ajustar la presentación de sus informes trimestrales de actividades a lo establecido en el Manual de Buenas Prácticas Contables para las Sociedades de Gestión Colectiva de Derecho de Autor o de Derechos Conexos, y demás actos administrativos que la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, expida a dichos efectos. El incumplimiento de ese mandato dará lugar a las sanciones de tipo administrativo establecidas en el ARTÍCULO 38 de la Ley 44 de 1993.
 
 (Decreto 3942 de 2010, Art. 13)
 
-ARTÍCULO
-
 ## art:2.6.1.2.14 — Competencia
 
 El reconocimiento de la personería jurídica y la autorización de funcionamiento a las sociedades de gestión colectiva de derecho de autor o de derechos conexos, serán concedidas en un solo acto por la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, mediante resolución motivada y previa concurrencia de los requisitos establecidos en la ley y en el presente decreto.
 
 (Decreto 3942 de 2010, Art. 14)
-
-ARTÍCULO
 
 ## art:2.6.1.2.15 — Requisitos
 
@@ -19622,8 +17640,6 @@ c) Definición de las reglas de intercambio de documentación e información ent
 
 (Decreto 3942 de 2010, Art. 15)
 
-ARTÍCULO
-
 ## art:2.6.1.2.16 — Oposiciones
 
 Con el objeto de que se puedan surtir oposiciones por parte de terceros interesados respecto a la solicitud de personería jurídica y la autorización de funcionamiento de una sociedad de gestión colectiva de derecho de autor o de derechos conexos, dentro de los diez (10) días hábiles siguientes al recibo de la documentación completa a que hace alusión el ARTÍCULO anterior, el Jefe de la Oficina Asesora jurídica de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, autorizara a costa del peticionario, la publicación de un aviso en un diario de amplia circulación nacional sobre la intención de la sociedad de gestión colectiva de obtener la personería jurídica y la autorización de funcionamiento, en el cual se exprese, al menos, el nombre de la sociedad, su domicilio principal, la calidad de las personas que asocia y los derechos que pretende gestionar.
@@ -19632,23 +17648,17 @@ PARÁGRAFO. A partir de la ejecutoria del acto que autorice la publicación de q
 
 (Decreto 3942 de 2010, Art. 16)
 
-ARTÍCULO
-
 ## art:2.6.1.2.17 — Publicación del aviso
 
 El aviso será publicado en dos (2) ocasiones con un intervalo de siete (7) días hábiles, con el propósito de que terceros interesados puedan presentar, personalmente o por medio de apoderado, ante el jefe de la Oficina Asesora jurídica de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, oposiciones en relación con dicha intención, las que deberán presentarse a más tardar dentro de los diez (10) días hábiles siguientes a la fecha de la última publicación.
 
 (Decreto 3942 de 2010, Art. 17)
 
-ARTÍCULO
-
 ## art:2.6.1.2.18 — Calidad de tercero interesado
 
 Se considera parte interesada la persona natural o jurídica que demuestre sumariamente un interés en las resultas de la decisión, en el entendido que podría resultar afectada con la misma. Además, la aposición deberá fundarse en que la solicitud de autorización de funcionamiento presentada es contraria a la ley.
 
 (Decreto 3942 de 2010, Art. 18)
-
-ARTÍCULO
 
 ## art:2.6.1.2.19 — Contenido de la oposición
 
@@ -19666,8 +17676,6 @@ La oposición deberá contener, por lo menos, los siguientes requisitos:
 
 (Decreto 3942 de 2010, Art. 19)
 
-ARTÍCULO
-
 ## art:2.6.1.2.20 — Admisión, inadmisión o rechazo de la oposición
 
 A partir de la fecha de recibo de la oposición, el jefe de la Oficina Asesora jurídica de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, tendrá un término de quince (15) días hábiles para admitirla o rechazarla.
@@ -19680,15 +17688,11 @@ Admitida la oposición se dará traslado a quien hubiere solicitado el reconocim
 
 (Decreto 3942 de 201O, Art. 20)
 
-ARTÍCULO
-
 ## art:2.6.1.2.21 — Contestación a la oposición
 
 Una vez el peticionario tenga conocimiento de la existencia de la oposición, contara con un término de diez (10) días hábiles para pronunciarse sobre la misma, así como para aportar y solicitar las pruebas que considere pertinentes.
 
 (Decreto 3942 de 2010, Art. 21)
-
-ARTÍCULO
 
 ## art:2.6.1.2.22 — Decreto de pruebas
 
@@ -19698,15 +17702,11 @@ En el auto que decrete pruebas, el jefe de la Oficina Asesora jurídica de la Un
 
 (Decreto 3942 de 2010, Art. 22)
 
-ARTÍCULO
-
 ## art:2.6.1.2.23 — Resolución de la oposición
 
 La resolución que decida la oposición presentada, será proferida por el jefe de la Oficina Asesora jurídica de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, dentro de los diez (10) días hábiles siguientes al vencimiento del término de la etapa probatoria.
 
 (Decreto 3942 de 2010, Art. 23)
-
-ARTÍCULO
 
 ## art:2.6.1.2.24 — Resolución de la solicitud de personería jurídica y de autorización de funcionamiento
 
@@ -19715,8 +17715,6 @@ De no haberse presentado oposición alguna a la solicitud, el Director General d
 Si se hubieren presentado oposiciones, el Director General de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, resolverá la solicitud de personería jurídica y de autorización de funcionamiento dentro de los quince (15) días hábiles siguientes a la fecha de ejecutoria del acto que resuelva la oposición.
 
 (Decreto 3942 de 2010, Art. 24)
-
-ARTÍCULO
 
 ## art:2.6.1.2.25 — Criterios de la resolución
 
@@ -19734,15 +17732,11 @@ El acto que resuelva la solicitud de personería jurídica y de autorización de
 
 (Decreto 3942 de 2010, Art. 25)
 
-ARTÍCULO
-
 ## art:2.6.1.2.26 — Competencia
 
 La Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, a través de la Oficina Asesora jurídica, conocerá de las impugnaciones que se presenten. contra los actos de elección realizados por la Asamblea General y las Asambleas Seccionales, y los actos de administración del Consejo Directivo de las sociedades de gestión colectiva de derecho de autor o de derechos conexos.
 
 (Decreto 3942 de 2010, Art. 39)
-
-ARTÍCULO
 
 ## art:2.6.1.2.27 — Legitimidad para impugnar
 
@@ -19750,15 +17744,11 @@ Cualquier afiliado de las sociedades de gestión colectiva de derecho de autor o
 
 (Decreto 3942 de 2010, Art. 40)
 
-ARTÍCULO
-
 ## art:2.6.1.2.28 — Causales
 
 Los actos descritos en el ARTÍCULO 2.6.1.2.26 serán impugnables cuando se opongan a la ley y/o a los estatutos de la correspondiente sociedad de gestión colectiva, sin perjuicio de la competencia de la justicia ordinaria sobre los mismos hechos.
 
 (Decreto 3942 de 2010, Art. 41)
-
-ARTÍCULO
 
 ## art:2.6.1.2.29 — Termino para presentar la impugnación
 
@@ -19767,8 +17757,6 @@ La impugnación deberá presentarse dentro de los treinta (30) días hábiles si
 PARÁGRAFO. Cuando el acto impugnado implique efectos particulares para algún miembro de la sociedad de gestión colectiva, el termino para interponer la impugnación se contará desde el día siguiente a la notificación del acto.
 
 (Decreto 3942 de 2010, Art. 42)
-
-ARTÍCULO
 
 ## art:2.6.1.2.30 — Contenido de la impugnación
 
@@ -19790,8 +17778,6 @@ La impugnación deberá contener por lo menos, los siguientes requisitos:
 
 (Decreto 3942 de 2010, Art. 43)
 
-ARTÍCULO
-
 ## art:2.6.1.2.31 — Anexos de la impugnación
 
 A la impugnación deberán anexarse los siguientes documentos:
@@ -19802,8 +17788,6 @@ A la impugnación deberán anexarse los siguientes documentos:
 
 (Decreto 3942 de 2010, Art. 44)
 
-ARTÍCULO
-
 ## art:2.6.1.2.32 — Suspensión provisional
 
 El jefe de la Oficina Asesora jurídica, de oficio o a petición de parte, podrá suspender el acto que se impugna cuando este sea manifiestamente contrario a la ley o a los estatutos, con el fin de evitar un perjuicio grave. La petición de suspensión por parte del interesado, deberá presentarse junto con la solicitud de impugnación, exponiendo las razones en las cuales se apoya según la naturaleza del acto cuya impugnación se solicita.
@@ -19812,15 +17796,11 @@ El jefe de la Oficina Asesora jurídica decidirá la suspensión dentro de los d
 
 (Decreto 3942 de 2010, Art. 45)
 
-ARTÍCULO
-
 ## art:2.6.1.2.33 — Efectos de la impugnación
 
 La sola presentación de la impugnación no afecta la validez y efectos de los actos que se impugnan, a menos que estos se suspendan por el jefe de la Oficina Asesora jurídica, en los términos del ARTÍCULO anterior.
 
 (Decreto 3942 de 2010, Art. 46)
-
-ARTÍCULO
 
 ## art:2.6.1.2.34 — Admisión o rechazo de la impugnación
 
@@ -19832,15 +17812,11 @@ La rechazara, cuando se presente fuera del término, cuando el impugnante no dem
 
 (Decreto 3942 de 2010, Art. 47)
 
-ARTÍCULO
-
 ## art:2.6.1.2.35 — Traslado de la impugnación
 
 Una vez notificada de la admisión de la impugnación, la sociedad de gestión colectiva de derecho de autor o de derechos conexos, contara con un término de diez (10) días hábiles para pronunciarse sobre los hechos y cargos de la misma, así como para aportar y solicitar las pruebas que considere pertinentes.
 
 (Decreto 3942 de 201O, Art. 48)
-
-ARTÍCULO
 
 ## art:2.6.1.2.36 — Decreto y practica de pruebas
 
@@ -19849,8 +17825,6 @@ Dentro de los cinco (5) días hábiles siguientes al vencimiento del plazo descr
 En el auto que decrete pruebas, el jefe de la Oficina Asesora jurídica señalara el termino para la práctica de las mismas, que en todo caso no podrá exceder de quince (15) días hábiles contados desde la ejecutoria del auto que las decrete.
 
 (Decreto 3942 de 2010, Art. 49)
-
-ARTÍCULO
 
 ## art:2.6.1.2.37 — Decisión
 
@@ -19862,15 +17836,11 @@ PARÁGRAFO. La resolución deberá ser debidamente motivada, citando los hechos 
 
 (Decreto 3942 de 2010, Art. 50)
 
-ARTÍCULO
-
 ## art:2.6.1.2.38 — Merito ejecutivo
 
 Las resoluciones que impongan sanciones de multa prestaran merito ejecutivo por jurisdicción coactiva en los términos que señale la ley.
 
 (Decreto 3942 de 2010, Art. 51)
-
-ARTÍCULO
 
 ## art:2.6.1.2.39 — Acciones legales
 
@@ -19878,15 +17848,11 @@ Sin perjuicio de las decisiones administrativas que la Dirección Nacional de De
 
 (Decreto 3942 de 2010, Art. 52)
 
-ARTÍCULO
-
 ## art:2.6.1.2.40 — Constitución y finalidad
 
 A los efectos del artículo 27 de Ley 44 de 1993, la entidad recaudadora constituida por las sociedades de gestión colectiva de derecho de autor o de derechos conexos, con personería jurídica y autorización de funcionamiento expedidas por la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, tiene por finalidad exclusiva garantizar el debido recaudo de las remuneraciones provenientes de la comunicación al público de las obras musicales, las interpretaciones, ejecuciones artísticas o los fonogramas musicales.
 
 (Decreto 3942 de 2010, Art. 53)
-
-ARTÍCULO
 
 ## art:2.6.1.2.41 — Personería jurídica y autorización de funcionamiento
 
@@ -19905,8 +17871,6 @@ La ventanilla única de que trata el artículo 47 del Decreto-Ley 019 de 2012 o 
 PARÁGRAFO. El reglamento de distribución deberá indicar la fecha en la cual la ventanilla única o la entidad recaudadora efectuará los respectivos repartos a las sociedades o titulares que la integren.
 
 (Decreto 3942 de 2010, Art. 54; Decreto 2717 de 2012, Art. 1)
-
-ARTÍCULO
 
 ## art:2.6.1.2.42 — Régimen estatutario
 
@@ -19934,23 +17898,17 @@ Los estatutos de la entidad recaudadora deberán contener cuando menos:
 
 (Decreto 3942 de 2010, Art. 56)
 
-ARTÍCULO
-
 ## art:2.6.1.2.43 — Reconocimiento
 
 El director de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, mediante resolución motivada, dentro de los sesenta (60) días hábiles siguientes a la presentación de la solicitud, y una vez la Oficina Asesora jurídica establezca el cumplimiento de las exigencias señaladas en el ARTÍCULO anterior, reconocerá personería jurídica y autorización de funcionamiento a la entidad recaudadora e impartirá aprobación a sus estatutos o, en caso contrario, negara la solicitud.
 
 Decreto 3942 de 2010, Art. 57)
 
-ARTÍCULO
-
 ## art:2.6.1.2.44 — Control de legalidad sobre el régimen estatutario
 
 Los estatutos que adopte la entidad recaudadora, así como sus futuras modificaciones, se someterán al control de legalidad ante el jefe de la Oficina Asesora jurídica de la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, a los que una vez revisados y hallados acorde con la ley, impartirá su aprobación.
 
 (Decreto 3942 de 2010, Art. 58)
-
-ARTÍCULO
 
 ## art:2.6.1.2.45 — Gastos de administración
 
@@ -19959,8 +17917,6 @@ El treinta por ciento (30%) máximo de gastos de administración determinado por
 PARÁGRAFO. Con el objeto de verificar el cumplimiento de lo dispuesto en este artículo, la entidad recaudadora que se constituya con sujeción al ARTÍCULO 27 de la Ley 44 de 1993, deberá ajustar la presentación de sus informes financieros a lo establecido en el Manual de Buenas Prácticas Contables para las sociedades de gestión colectiva de derecho de autor o de derechos conexos, y demás actos administrativos que la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor expida a dichos efectos. El incumplimiento de este mandato dará lugar a las sanciones de tipo administrativo establecidas en el artículo 38 de la Ley 44 de 1993.
 
 (Decreto 3942 de 2010, Art. 59)
-
-ARTÍCULO
 
 ## art:2.6.1.2.46 — De la información financiera
 
@@ -19990,15 +17946,11 @@ d) Dictamen del revisor fiscal.
 
 (Decreto 3942 de 2010, Art. 60.)
 
-ARTÍCULO
-
 ## art:2.6.1.2.47 — Investigaciones
 
 Con el objeto de verificar el cumplimento de las normas legales, estatutarias y reglamentarias, la Unidad Administrativa Especial Dirección Nacional de Derecho de Autor, de oficio o por queja presentada por un miembro o por un usuario, está facultada para investigar la entidad recaudadora descrita en el ARTÍCULO 27 de la Ley 44 de 1993, para lo cual podrá solicitar las informaciones y documentos, practicar las pruebas y realizar las visitas que sean necesarias. En caso de encontrar algún tipo de irregularidad podrá imponer a la entidad recaudadora las sanciones descritas por el artículo 38 de la Ley 44 de 1993.
 
 (Decreto 3942 de 2010, Art. 61; Art. 1258 de 2012, Art. 48)
-
-ARTÍCULO
 
 ## art:2.6.1.2.48 — Adecuación para la organización recaudadora
 
@@ -20008,15 +17960,11 @@ PARÁGRAFO. El no cumplimiento de lo dispuesto en este Art. impedirá que la ent
 
 (Decreto 3942 de 2010, Art. 62)
 
-ARTÍCULO
-
 ## art:2.6.1.2.49 — Norma de clausura
 
 Lo no resuelto por los ARTÍCULO s 2.6.1.2.40 a 2.6.1.2.48, se definirá por la Decisión Andina 351 de 1993, la Ley 44 de 1993, y las demás normas que regulen la gestión colectiva de derecho de autor o de derechos conexos.
 
 (Decreto 3942 de 2010, Art. 63)
-
-ARTÍCULO
 
 ## art:2.6.1.2.50 — Adecuación
 
@@ -20028,15 +17976,11 @@ PARÁGRAFO. El no cumplimiento de lo dispuesto en este ARTÍCULO dejara sin efec
 
 (Decreto 3942 de 2010, Art. 64)
 
-ARTÍCULO
-
 ## art:2.6.1.2.51 — Ingresos financieros
 
 Cuando los estatutos de las sociedades de gestión colectiva de derecho de autor o de derechos conexos o de la entidad recaudadora permitan la realización de inversiones para la consecución de rendimientos financieros tendientes a mantener el poder adquisitivo del dinero, tales rendimientos deberán acrecer los rubros de donde fueron tomados los dineros objeto de la inversión.
 
 (Decreto 3942 de 2010, Art. 65)
-
-ARTÍCULO
 
 ## art:2.6.1.2.52 — .52
 
@@ -20048,23 +17992,17 @@ CAPÍTULO 3
 
 Inscripción de soporte lógico (software) en el Registro Nacional del Derecho de Aturo
 
-ARTÍCULO
-
 ## art:2.6.1.3.1 — Soporte lógico
 
 De conformidad con lo previsto en la Ley 23 de 1982 sobre Derechos de Autor, el soporte lógico (software) se considera como una creación propia del dominio literario.
 
 (Decreto 1360 de 1989, Art. 1)
 
-ARTÍCULO
-
 ## art:2.6.1.3.2 — Elementos
 
 El soporte lógico (software) comprende uno o varios de los siguientes elementos: el programa de computador, la descripción de programa y el material auxiliar.
 
 (Decreto 1360 de 1989, Art. 2)
-
-ARTÍCULO
 
 ## art:2.6.1.3.3 — Definiciones
 
@@ -20078,15 +18016,11 @@ Para los efectos del ARTÍCULO anterior se entiende por:
 
 (Decreto 1360 de 1989, Art. 3)
 
-ARTÍCULO
-
 ## art:2.6.1.3.4 — Obra inédita
 
 El soporte lógico (software), será considerado como obra inédita, salvo manifestación en contrario hecha por el titular de los derechos de autor.
 
 (Decreto 1360 de 1989, Art. 4)
-
-ARTÍCULO
 
 ## art:2.6.1.3.5 — Requisitos
 
@@ -20106,15 +18040,11 @@ Para la inscripción del soporte lógico (software) en el Registro Nacional del 
 
 (Decreto 1360 de 1989, Art. 5)
 
-ARTÍCULO
-
 ## art:2.6.1.3.6 — Requisitos adicionales
 
 A la solicitud de que trata el ARTÍCULO anterior, deberá acompañarse por lo menos uno de los siguientes elementos: el programa de computador, la descripción de programa y/o el material auxiliar.
 
 (Decreto 1360 de 1989, Art. 6)
-
-ARTÍCULO
 
 ## art:2.6.1.3.7 — Protección
 
@@ -20126,15 +18056,11 @@ CAPÍTULO 4
 
 De la autorización de los titulares del derecho de reproducción o de la sociedad de gestión colectiva que lo represente
 
-ARTÍCULO
-
 ## art:2.6.1.4.1 — Autorización en establecimientos educativos
 
 Los establecimientos educativos que ofrezcan educación formal en cualquiera de sus niveles, preescolar, básica, media o las instituciones que ofrecen educación superior, o educación para el trabajo y el desarrollo humano, y las entidades de derecho público o privado que ofrezcan programas de capacitación dirigidos a terceros o a sus propios servidores, empleados o trabajadores, en los que se preste el servicio de reprografía deben contar con la autorización de los titulares del derecho de reproducción o de la sociedad de gestión colectiva que lo represente, para garantizar la debida protección del derecho de autor.
 
 (Decreto 1070 de 2008, Art. 1)
-
-ARTÍCULO
 
 ## art:2.6.1.4.2 — Autorización en establecimientos de comercio
 
@@ -20146,15 +18072,11 @@ CAPÍTULO 5
 
 De los espectáculos públicos de las artes escénicas: cumplimento (sic) del derecho de autor y funciones de inspección, vigilancia y control de la Unidad Administrativa Especial - Dirección Nacional de Derecho de Autor
 
-ARTÍCULO
-
 ## art:2.6.1.5.1 — Objeto
 
 El objeto del presente Capítulo es establecer medidas de formalización de los espectáculos públicos de las artes escénicas, el cumplimento del derecho de autor y las funciones de inspección, vigilancia y control de la Unidad Administrativa Especial -Dirección Nacional de Derecho de Autor sobre las sociedades de gestión colectiva de derecho de autor, derechos conexos y entidades recaudadoras.
 
 (Decreto 1258 de 2012, Art. 1)
-
-ARTÍCULO
 
 ## art:2.6.1.5.2 — Condiciones para la aplicación de la deducción por inversiones
 
@@ -20180,8 +18102,6 @@ PARÁGRAFO 2. Los recursos de la contribución parafiscal de los espectáculos p
 
 (Decreto 1258 de 2012, Art. 2; Decreto 1240 de 2013, Art. 8 y 9, modifica el numeral 1° y adiciona el parágrafo 2)
 
-ARTÍCULO
-
 ## art:2.6.1.5.3 — Comité de Inversión en Infraestructura (CIEPAJ
 
 Crease el Comité de Inversión en Infraestructura para Espectáculos Públicos de las Artes Escénicas (CIEPA), que tendrá a su cargo la revisión y calificación de los proyectos de infraestructura de escenarios para la realización de espectáculos públicos de las artes escénicas que otorga el derecho a la deducción por inversiones de que trata el ARTÍCULO 4 de la Ley 1493 de 2011. El CIEPA estará integrado por delegados del Ministerio de Cultura y la secretaria Técnica del Comité la ejercerá la Dirección de Artes de este Ministerio o quien haga sus veces.
@@ -20193,8 +18113,6 @@ PARÁGRAFO 1. El Comité adoptara su propio reglamento y los procedimientos para
 PARÁGRAFO 2. La deducción por inversiones reglamentada en este ARTÍCULO solo aplicara para las personas naturales o jurídicas que financien proyectos aprobados previamente por el Comité de Inversión en Infraestructura para Espectáculos Públicos de las Artes Escénicas.
 
 (Decreto 1258 de 2012, Art. 3)
-
-ARTÍCULO
 
 ## art:2.6.1.5.4 — Criterios para la revisión y aprobación de proyectos
 
@@ -20213,8 +18131,6 @@ El Comité de Inversión en Infraestructura para Espectáculos Públicos de las 
 PARÁGRAFO. Los proyectos de infraestructura presentados ante el CIEPA deberán venir acompañados de los estudios de factibilidad o reinversión que permitan verificar los criterios de que trata este artículo.
 
 (Decreto 1258 de 2012, Art. 4)
-
-ARTÍCULO
 
 ## art:2.6.1.5.5 — Servicios artísticos excluidos de IVA
 
@@ -20236,8 +18152,6 @@ PARÁGRAFO. Las actividades descritas en los numerales 3, 5 y 6, deberán estar 
 
 (Decreto 1258 de 2012, Art. 5)
 
-ARTÍCULO
-
 ## art:2.6.1.4.6 — Administración de recursos
 
 Los recursos de la contribución parafiscal asignados a los municipios y distritos conforme a lo establecido en el artículo 13 de la Ley 1493 de 2011, no harán unidad de caja y su administración deberá hacerse en cuentas de ahorro separadas de los demás recursos del presupuesto de la entidad distrital o municipal.
@@ -20248,8 +18162,6 @@ PARÁGRAFO. Los valores recaudados en cada vigencia que excedan el monto de la a
 
 (Decreto 1258 de 2012, Art. 6)
 
-ARTÍCULO
-
 ## art:2.6.1.5.7 — Hecho generador y base gravable de la contribución parafiscal de los espectáculos públicos de las artes escénicas
 
 De conformidad con lo establecido en el ARTÍCULO 7 de la Ley 1493 de 2011, el hecho generador de la contribución parafiscal cultural, será la venta de boletería o entrega de derechos de asistencia a los espectáculos públicos de las artes escénicas, independientemente de la fecha en que se realice el espectáculo.
@@ -20259,8 +18171,6 @@ La contribución parafiscal de los espectáculos públicos de las artes escénic
 La base gravable de la contribución parafiscal está constituida por el precio individual de la boleta o derecho de asistencial.
 
 (Decreto 1258 de 2012, Art. 6-1; Decreto 1240 de 2013, Art. 10)
-
-ARTÍCULO
 
 ## art:2.6.1.5.8 — Responsables de la contribución parafiscal de los espectáculos públicos de las artes escénicas
 
@@ -20274,8 +18184,6 @@ PARÁGRAFO 3. Los responsables de la contribución parafiscal de los espectácul
 
 (Decreto 1258 de 2012, Art. 7; Decreto 1240 de 2013, Art. 11)
 
-ARTÍCULO
-
 ## art:2.6.1.5.9 — Presentación de la declaración de la contribución parafiscal de los espectáculos públicos de las artes escénicas
 
 Los sujetos pasivos de la contribución parafiscal de los espectáculos públicos de las artes escénicas que sean productores permanentes según lo establecido en la Ley 1493 de 2011, presentaran una declaración bimestral ante el Ministerio de Cultura, a través del mecanismo electrónico dispuesto por esta entidad.
@@ -20285,8 +18193,6 @@ PARÁGRAFO 1. Los períodos bimestrales para la declaración de la contribución
 PARÁGRAFO 2. Los productores ocasionales presentaran una declaración por cada espectáculo público que realicen, dentro de los cinco (5) días hábiles siguientes a su realización. Además, deberán constituir las garantías o pólizas de seguro que reglamente el Ministerio de Cultura, las cuales deberán amparar el pago de la contribución parafiscal.
 
 (Decreto 1258 de 2012, Art. 8)
-
-ARTÍCULO
 
 ## art:2.6.1.5.10 — Contenido de la declaración de la contribución parafiscal de los espectáculos públicos de las artes escénicas
 
@@ -20310,8 +18216,6 @@ PARÁGRAFO 3. El Ministerio de Cultura mediante resolución deberá implementar 
 
 (Decreto 1258 de 2012, Art. 9)
 
-ARTÍCULO
-
 ## art:2.6.1.5.11 — Espectáculos con entrega anticipada de boletería
 
 Cuando se realicen espectáculos públicos de las artes escénicas con entrega anticipada de boletería, los productores permanentes y ocasionales deberán presentar la declaración y pago de la contribución parafiscal de los espectáculos públicos de las artes escénicas en los plazos establecidos en la Ley 1493 de 2011 y el presente Capítulo.
@@ -20324,8 +18228,6 @@ En caso de que el espectáculo público no se realice, se aplicara lo dispuesto 
 
 (Decreto 1258 de 2012, Art. 10; Decreto 1240 de 2013, Art. 12)
 
-ARTÍCULO
-
 ## art:2.6.1.5.12 — Retención de la contribución parafiscal de los espectáculos públicos de las artes escénicas
 
 Los agentes de retención definidos en el ARTÍCULO 2.6.1.5.13, realizaran la retención prevista en el ARTÍCULO 9 de la Ley 1493 de 2011. La retención de la contribución parafiscal de los espectáculos públicos de las artes escénicas aplicable por los agentes de retención, a título de contribución parafiscal de las artes escénicas, tendrá una tarifa del diez por ciento (10%) sobre el valor total de la boletería o derechos de asistencia generados en el correspondiente mes, cuyo precio o costo individual sea igual o superior a 3 UVTS.
@@ -20335,8 +18237,6 @@ La retención de la contribución parafiscal de los espectáculos públicos de l
 No formara parte de la base de retención el valor de la retribución que recibe el operador de boletería ni el importe de los gastos asociados a la comercialización o distribución que se cobra por parte de ellos.
 
 (Decreto 1258 de 2012, Art. 11; Decreto 1240 de 2013, Art. 13)
-
-ARTÍCULO
 
 ## art:2.6.1.5.13 — Agentes de retención
 
@@ -20349,8 +18249,6 @@ Para efectos del control y fiscalización por parte de la autoridad tributaria, 
 PARÁGRAFO 2. Los agentes de retención deberán llevar una cuenta denominada "Retención en la Fuente Contribución Para fiscal de los Espectáculos Públicos de las Artes Escénicas por Pagar", la cual se afectará con los valores retenidos de la contribución y con los pagos realizados.
 
 (Decreto 1258 de 2012, Art. 12; Decreto 1240 de 2013, Art. 14)
-
-ARTÍCULO
 
 ## art:2.6.1.5.14 — Autorización de operadores de boletería en línea
 
@@ -20368,15 +18266,11 @@ PARÁGRAFO. En el marco de las competencias y el régimen sancionatorio que le a
 
 (Decreto 1258 de 2012, Art. 13; Decreto 1240 de 2013, Art. 15)
 
-ARTÍCULO
-
 ## art:2.6.1.5.15 — Pago de la retención de la contribución parafiscal de los espectáculos públicos de las artes escénicas
 
 El pago de la retención de la contribución parafiscal de los espectáculos públicos de las artes escénicas deberá ser efectuado en la cuenta que disponga el Ministerio de Cultura, previa autorización del Ministerio de Hacienda y Crédito Público.
 
 (Decreto 1258 de 2012, Art. 14)
-
-ARTÍCULO
 
 ## art:2.6.1.5.16 — .16
 
@@ -20385,8 +18279,6 @@ Presentación de la declaración de retención de la contribución parafiscal de
 PARÁGRAFO 1. La presentación de la declaración de retención de la contribución parafiscal de los espectáculos públicos de las artes escénicas, será obligatoria en todos los casos, siempre y cuando en el mes se hayan realizado operaciones sujetas al mismo.
 
 (Decreto 1258 de 2012, Art. 15)
-
-ARTÍCULO
 
 ## art:2.6.1.5.17 — .17
 
@@ -20410,15 +18302,11 @@ PARÁGRAFO 3. El Ministerio de Cultura mediante resolución deberá implementar 
 
 (Decreto 1258 de 2012, Art. 16)
 
-ARTÍCULO
-
 ## art:2.6.1.5.18 — Normatividad aplicable al sistema de retenciones
 
 La retención de la contribución parafiscal de los espectáculos públicos de las artes escénicas se regirá, en lo aquí no regulado, por las normas específicas de retención en la fuente del impuesto de renta, consagradas en el Estatuto Tributario.
 
 (Decreto 1258 de 2012, Art. 17)
-
-ARTÍCULO
 
 ## art:2.6.1.5.19 — Deber de información y conservación por parte de los operadores
 
@@ -20428,15 +18316,11 @@ PARÁGRAFO. La Dirección de Impuestos y Aduanas Nacionales (DIAN) en cumplimien
 
 (Decreto 1258 de 2012, Art. 18; Decreto 1240 de 2013, Art. 16, adiciono parágrafo)
 
-ARTÍCULO
-
 ## art:2.6.1.5.20 — Administración y control
 
 Corresponde a la Dirección de Impuestos y Aduanas Nacionales la administración y control de la retención de la contribución parafiscal, para efectos de la investigación, determinación, control, discusión y cobro para lo cual le serán aplicables las normas de procedimiento y sanciones, contempladas en el Estatuto Tributario.
 
 (Decreto 1258 de 2012, Art. 19)
-
-ARTÍCULO
 
 ## art:2.6.1.5.21 — Beneficios
 
@@ -20447,8 +18331,6 @@ Los contribuyentes que no hubieren estado al día en el cumplimiento de las obli
 PARÁGRAFO. La constancia de la declaración y pago servirá como soporte para la revocatoria, suspensión y/o archivo de las actuaciones de determinación del impuesto generadas con anterioridad a la expedición de la Ley 1493 de 2011.
 
 (Decreto 1258 de 2012, Art. 20; Decreto 1240 de 2013, Art. 17)
-
-ARTÍCULO
 
 ## art:2.6.1.5.22 — Reporte de información
 
@@ -20508,9 +18390,7 @@ También es posible acogerse al sistema de indemnizaciones prestablecidas y al r
 
 En todo proceso, sin importar su trámite o jurisdicción, en que se discuta la forma de reparar o indemnizar los perjuicios que resulten como consecuencia de una infracción a los derechos patrimoniales de autor y/o a un derecho conexo, o por las actividades descritas por el artículo 12 de la Ley 1915 de 2018, es posible acudir, a elección del afectado con la conducta, al sistema de indemnizaciones prestablecidas estipulado en el artículo 32 de la Ley 1915 de 2018 y en este decreto reglamentario.
 
-(Adiciona Art 1 del decreto 370 de 2026 ) 
-
-ARTÍCULO
+(Adiciona Art 1 del decreto 370 de 2026 )
 
 ## art:2.6.1.4.23 — Base de datos de productores de espectáculos públicos de las artes escénicas
 
@@ -20524,8 +18404,6 @@ PARÁGRAFO transitorio. El registro de productores de espectáculos públicos de
 
 (Decreto 1258 de 2012, Art. 23)
 
-ARTÍCULO
-
 ## art:2.6.1.4.24 — Permiso para la realización de espectáculos públicos de las artes escénicas en escenarios habilitados
 
 El reconocimiento de la categoría habilitado de que trata el ARTÍCULO 16 de la Ley 1493 de 2011, deberá ser decidido por la autoridad municipal o distrital competente en un término máximo de un (1) mes, contado a partir de la entrega de los requisitos estipulados en la norma precitada, por parte del responsable del escenario.
@@ -20533,8 +18411,6 @@ El reconocimiento de la categoría habilitado de que trata el ARTÍCULO 16 de la
 El reconocimiento del escenario en la categoría de habilitado por parte de la autoridad municipal o distrital competente, otorgara un permiso permanente por un período de dos (2) años para la realización de espectáculos públicos de las artes escénicas, sin perjuicio del cumplimiento de las disposiciones sobre modificación de las condiciones de riesgo en alguno de los eventos programados, conforme a lo establecido en el PARÁGRAFO 1 del ARTÍCULO 16 de la Ley 1493 de 2011.
 
 (Decreto 1258 de 2012, Art. 24)
-
-ARTÍCULO
 
 ## art:2.6.1.4.25 — Permiso para la realización de espectáculos públicos de las artes escénicas en escenarios no habilitados
 
@@ -20544,15 +18420,11 @@ El acto por medio del cual se otorgue el respectivo permiso o autorización para
 
 (Decreto 1258 de 2012, Art. 25)
 
-ARTÍCULO
-
 ## art:2.6.1.4.26 — Ausencia de requisitos adicionales
 
 Las autoridades municipales y distritales no podrán exigir requisitos, permisos ni certificaciones adicionales a los contemplados en la Ley 1493 de 2011 para la realización de espectáculos públicos de las artes escénicas.
 
 (Decreto 1258 de 2012, Art. 26)
-
-ARTÍCULO
 
 ## art:2.6.1.4.27 — Planes de Emergencias y Contingencia
 
@@ -20570,8 +18442,6 @@ Conforme a lo dispuesto en los ARTÍCULO s 16 y 17 de la Ley 1493 de 2011, la au
 
 (Decreto 1258 de 2012, Art. 27)
 
-ARTÍCULO
-
 ## art:2.6.1.4.28 — Ventanilla única
 
 Para la creación de la ventanilla única de registro y atención a los productores de los espectáculos públicos de las artes escénicas, las capitales de departamento tendrán en cuenta los siguientes lineamientos generales:
@@ -20584,8 +18454,6 @@ Para la creación de la ventanilla única de registro y atención a los producto
 
 (Decreto 1258 de 2012, Art. 28)
 
-ARTÍCULO
-
 ## art:2.6.1.4.29 — .29
 
 Generación de recursos para la financiación de la infraestructura cultural a cargo de las entidades públicas del orden territorial. Las Entidades Públicas del orden territorial que tengan a su cargo infraestructura cultural para la realización de espectáculos públicos, según lo establecido en el artículo 21 de la Ley 1493 de 2011, podrán crear unidades especiales, con el fin de canalizar y administrar los recursos obtenidos por la prestación de servicios y actividades culturales.
@@ -20594,15 +18462,11 @@ La unidad especial adscrita tendrá como función, la gestión y creación de pl
 
 (Decreto 1258 de 2012, Art. 29)
 
-ARTÍCULO
-
 ## art:2.6.1.4.30 — Cumplimiento de derecho de autor para espectáculos públicos de las artes escénicas
 
 En concordancia con los artículos 13, 15 y 54 de la Decisión Andina 351 de 1993 y 12, 158, 159 y 160 de la Ley 23 de 1982, las autoridades competentes del ente municipal o distrital y los responsables de los escenarios habilitados deberán verificar previamente el cumplimiento de los derechos de autor por parte de los productores de espectáculos públicos de las artes escénicas, de conformidad con lo previsto en el numeral 5 del ARTÍCULO 17 y en el ARTÍCULO 22 de la Ley 1493 de 2011.
 
 (Decreto 1258 de 2012, Art. 30)
-
-ARTÍCULO
 
 ## art:2.6.1.4.31 — Autorizaciones, constancias y comprobantes de pago de derecho de autor
 
@@ -20610,15 +18474,11 @@ Para efecto de lo dispuesto en los ARTÍCULO s 17 y 22 de la Ley 1493 de 2011, l
 
 (Decreto 1258 de 2012, Art. 31)
 
-ARTÍCULO
-
 ## art:2.6.1.4.32 — Competencia de la Unidad Administrativa Especial - Dirección Nacional de Derecho de Autor
 
 En ejercicio de las facultades de inspección, vigilancia y control, la Unidad Administrativa Especial - Dirección Nacional de Derecho de Autor podrá, de oficio o a petición de parte, adelantar investigaciones, solicitar informaciones y documentos, realizar las visitas que sean necesarias e imponer sanciones, cuando a ello hubiere lugar, a las sociedades de gestión colectiva de derechos de autor y derechos conexos y entidades recaudadoras, a los miembros del Consejo Directivo, a los integrantes del Comité de Vigilancia, al Gerente, al Secretario, al Tesorero, al revisor fiscal o a los demás administradores de las mismas.
 
 (Decreto 1258 de 2012, Art. 32)
-
-ARTÍCULO
 
 ## art:2.6.1.4.33 — Diligencias preliminares
 
@@ -20630,8 +18490,6 @@ PARÁGRAFO. El termino de las diligencias preliminares no podrá exceder de cinc
 
 (Decreto 1258 de 2012, Art. 33)
 
-ARTÍCULO
-
 ## art:2.6.1.4.34 — Apertura de la investigación
 
 Dentro del término de duración de las diligencias preliminares, el funcionario o funcionarios investigadores presentaran al jefe de la Oficina Asesora jurídica un Informe Evaluativo del resultado de las mismas. El jefe de la Oficina Asesora jurídica, dentro de los diez (10) días hábiles siguientes al recibo del Informe Evaluativo, ordenara, mediante resolución motivada, la apertura de investigación y formulación de cargos o el archivo del expediente.
@@ -20642,15 +18500,11 @@ En caso de ausencia temporal o definitiva del representante legal inscrito ante 
 
 (Decreto 1258 de 2012, Art. 34)
 
-ARTÍCULO
-
 ## art:2.6.1.4.35 — Descargos
 
 La parte investigada dispondrá de un término de diez (10) días hábiles para presentar los descargos y solicitar y aportar las pruebas que considere pertinentes y conducentes.
 
 (Decreto 1258 de 2012, Art. 35)
-
-ARTÍCULO
 
 ## art:2.6.1.4.36 — Decreto y practica de pruebas
 
@@ -20660,23 +18514,17 @@ En el auto que decrete pruebas, el jefe de la Oficina Asesora jurídica señalar
 
 (Decreto 1258 de 2012, Art. 36)
 
-ARTÍCULO
-
 ## art:2.6.1.4.37 — Alegatos de conclusión
 
 Las partes dispondrán de un término de cinco (5) días hábiles, contados a partir del día siguiente a la finalización del período probatorio, para presentar alegatos de conclusión.
 
 (Decreto 1258 de 2012, Art. 37)
 
-ARTÍCULO
-
 ## art:2.6.1.4.38 — Decisión
 
 Dentro de los quince (15) días hábiles siguientes al vencimiento del plazo para presentar alegatos de conclusión, el jefe de la Oficina Asesora jurídica proferirá la resolución motivada que decida la investigación.
 
 (Decreto 1258 de 2012, Art. 38)
-
-ARTÍCULO
 
 ## art:2.6.1.4.39 — Sanciones
 
@@ -20686,8 +18534,6 @@ PARÁGRAFO. La suspensión o cancelación de la personería jurídica de que tra
 
 (Decreto 1258 de 2012, Art. 39)
 
-ARTÍCULO
-
 ## art:2.6.1.4.40 — Cancelación de la personería jurídica y la autorización de funcionamiento
 
 La cancelación de la personería jurídica y la autorización de funcionamiento a las sociedades de gestión colectiva de derecho de autor o de derechos conexos, se decretará si sobreviene o se pone de manifiesto algún hecho que no garantice la adecuada gestión de los derechos confiados, o cuando la sociedad incumpliere gravemente las obligaciones legales o estatutarias.
@@ -20696,23 +18542,17 @@ En el acto administrativo que cancele la personería jurídica y la autorizació
 
 (Decreto 1258 de 2012, Art. 40)
 
-ARTÍCULO
-
 ## art:2.6.1.4.41 — Merito ejecutivo
 
 Las resoluciones que impongan sanciones de multa prestaran merito ejecutivo por jurisdicción coactiva en los términos que señale la ley.
 
 (Decreto 1258 de 2012, Art. 41)
 
-ARTÍCULO
-
 ## art:2.6.1.4.42 — Acciones legales
 
 Sin perjuicio de las decisiones administrativas que la Dirección Nacional de Derecho de Autor tome con fundamento en los resultados de la investigación, las sociedades de gestión colectiva deberán ejercer las acciones legales pertinentes cuando de los hechos de la investigación pudiere generarse algún tipo de responsabilidad en las personas involucradas.
 
 (Decreto 1258 de 2012, Art. 42)
-
-ARTÍCULO
 
 ## art:2.6.1.4.43 — Toma de posesión
 
@@ -20722,15 +18562,11 @@ PARÁGRAFO. Las disposiciones del presente capítulo se aplicarán en lo pertine
 
 (Decreto 1258 de 2012, Art. 43)
 
-ARTÍCULO
-
 ## art:2.6.1.4.44 — Objetivo de la toma de posesión
 
 La toma de posesión tendrá por objeto establecer si la entidad debe ser objeto de liquidación; si es posible colocarla en condiciones de desarrollar adecuadamente su objeto social, o si se pueden realizar otras operaciones que permitan lograr mejores condiciones para la gestión de los derechos confiados a la sociedad.
 
 (Decreto 1258 de 2012, Art. 44)
-
-ARTÍCULO
 
 ## art:2.6.1.4.45 — Principios de la toma de posesión
 
@@ -20758,8 +18594,6 @@ La toma de posesión se regirá por los siguientes principios:
 
 (Decreto 1258 de 2012, Art. 45)
 
-ARTÍCULO
-
 ## art:2.6.1.4.46 — Toma de posesión para liquidación
 
 Dentro de un término no superior a dos (2) meses, prorrogables por dos (2) meses contados a partir de la toma de posesión para liquidación, el liquidador emitirá un informe sobre la situación de la sociedad, el cual deberá incluir las recomendaciones que considere pertinentes. Una vez rendido este informe, el director de la Dirección Nacional de Derecho de Autor determinara dentro de los treinta (30) días siguientes, si la sociedad debe ser objeto de liquidación, si se pueden tomar medidas para que la misma pueda desarrollar su objeto social o si pueden adoptarse otras medidas que permitan subsanar las causas que dieron lugar a la toma de posesión.
@@ -20769,8 +18603,6 @@ En los dos últimos casos, el director de la Dirección Nacional de Derecho de A
 En el evento de que se disponga la liquidación de la sociedad, la toma de posesión se mantendrá hasta que termine la existencia legal de la entidad o hasta que se entreguen los activos remanentes al liquidador designado la Dirección Nacional de Derecho de Autor, una vez pagado el pasivo externo.
 
 (Decreto 1258 de 2012, Art. 46)
-
-ARTÍCULO
 
 ## art:2.6.1.4.47 — Efectos de la toma de posesión para liquidación
 
@@ -20796,15 +18628,11 @@ CAPÍTULO 1
 
 De la Junta Nacional de Bomberos de Colombia
 
-ARTÍCULO
-
 ## art:2.6.2.1.1 — Naturaleza
 
 La Junta Nacional de Bomberos de Colombia es un organismo decisor de los recursos del Fondo Nacional de Bomberos y asesor de la Dirección Nacional de Bomberos.
 
 (Decreto 352 de 2013, Art. 1)
-
-ARTÍCULO
 
 ## art:2.6.2.1.2 — Integración
 
@@ -20833,8 +18661,6 @@ La Junta Nacional de Bomberos de Colombia estará integrada por:
 PARÁGRAFO. Cuando así lo requiera, la Junta Nacional de Bomberos de Colombia, podrá invitar a cualquier persona natural o jurídica de derecho público o privado, para escucharlo en sesión ordinaria o extraordinaria actuando, con voz y sin voto.
 
 (Decreto 352 de 2013, Art. 2)
-
-ARTÍCULO
 
 ## art:2.6.2.1.3 — Funciones de la Junta Nacional de Bomberos
 
@@ -20866,15 +18692,11 @@ PARÁGRAFO. El concepto que emita la Junta Nacional de Bomberos al Plan Anual de
 
 (Decreto 352 de 2013, Art. 3)
 
-ARTÍCULO
-
 ## art:2.6.2.1.4 — Secretaria técnica
 
 La Junta Nacional de Bomberos de Colombia tendrá como Secretaria Técnica a la Unidad Administrativa Especial - Dirección Nacional de Bomberos.
 
 (Decreto 352 de 2013, Art. 4)
-
-ARTÍCULO
 
 ## art:2.6.2.1.5 — Funciones de la secretaria técnica
 
@@ -20894,8 +18716,6 @@ Son funciones de la Secretaria Técnica de la Junta Nacional de Bomberos, las si
 
 (Decreto 352 de 2013, Art. 5)
 
-ARTÍCULO
-
 ## art:2.6.2.1.6 — Reuniones
 
 La Junta Nacional de Bomberos de Colombia se reunirá de manera ordinaria cada tres (3) meses, previa convocatoria del presidente, por conducto de la Secretaria Técnica y de forma extraordinaria, cuando las necesidades lo exijan; la citación se hará con la remisión del orden del día.
@@ -20906,15 +18726,11 @@ PARÁGRAFO. Se podrá sesionar de manera virtual únicamente para sesiones extra
 
 (Decreto 352 de 2013, Art. 6)
 
-ARTÍCULO
-
 ## art:2.6.2.1.7 — Quorum de liberatorio y decisorio
 
 La Junta Nacional de Bomberos requiere para deliberar de la asistencia de la mayoría absoluta de sus integrantes y para la toma de decisiones, la mayoría absoluta de sus asistentes.
 
 (Decreto 352 de 2013, Art. 7)
-
-ARTÍCULO
 
 ## art:2.6.2.1.8 — Régimen de contratación
 
@@ -20932,8 +18748,6 @@ Definiciones
 
 (Decreto 638 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.6.2.2.1.1 — Definiciones
 
 Para efectos de lo señalado en el artículo 21 de la Ley 1575 de 2012, entiéndase por:
@@ -20950,13 +18764,9 @@ SECCIÓN 2
 
 Del Certificado de Cumplimiento
 
-ARTÍCULO
-
 ## art:2.6.2.2.2.1 — Autoridad competente para expedir el certificado de cumplimiento
 
 El certificado de cumplimiento será expedido por la Dirección Nacional de Bomberos, tendrá las características de seguridad en su impresión que esta determine y no generará costo alguno para los Cuerpos de Bomberos.
-
-ARTÍCULO
 
 ## art:2.6.2.2.2.2 — Requisitos para la expedición y renovación del certificado de cumplimiento
 
@@ -20978,8 +18788,6 @@ PARÁGRAFO 2. Para el caso de Bomberos de la ciudad de Bogotá Distrito Capital,
 
 PARÁGRAFO 3. Los Cuerpos de Bomberos que realicen las labores de inspecciones y revisiones técnicas en prevención de incendios y seguridad humana en los términos del artículo 42 de la Ley 1575 de 2012, deberán contar con el personal idóneo para tal fin, conforme al reglamento que expida la Junta Nacional de Bomberos.
 
-ARTÍCULO
-
 ## art:2.6.2.2.2.3 — Vigencia del Certificado de Cumplimiento
 
 El Certificado de Cumplimiento tendrá una vigencia no mayor a dos (2) años.
@@ -20992,19 +18800,13 @@ SECCIÓN 3
 
 De los Carne de Bomberos
 
-ARTÍCULO
-
 ## art:2.6.2.2.3.1 — Autoridad competente para expedir la carne de bomberos
 
 La carne de bomberos será otorgada por la Dirección Nacional de Bomberos.
 
-ARTÍCULO
-
 ## art:2.6.2.2.3.2 — Atribuciones del titular de la carne de bomberos
 
 El titular de una carne de bomberos estará facultado para ejecutar labores en la gestión integral del riesgo contra incendio, los preparativos y atención de rescates en todas sus modalidades y la atención de incidentes con materiales peligrosos, siempre y cuando el citado documento se encuentre vigente y su titular no haya sido objeto de una medida proferida por autoridad competente que le impida prestar el servicio.
-
-ARTÍCULO
 
 ## art:2.6.2.2.3.3 — Solicitud para la expedición
 
@@ -21019,8 +18821,6 @@ La solicitud para la expedición de la carne deberá realizarse por el interesad
 4. Licencia y Certificado Aero médico vigente, para el caso de los Bomberos Aeronáuticos
 
 PARÁGRAFO. El aspirante a cualquier carne de bomberos acreditara una edad mínima de dieciocho (18) años.
-
-ARTÍCULO
 
 ## art:2.6.2.2.3.4 — Contenido de la carne
 
@@ -21040,8 +18840,6 @@ La carne que otorga la Dirección Nacional de Bomberos establecerá como mínimo
 
 7. Firma del funcionario que lo expide y fecha de expedición
 
-ARTÍCULO
-
 ## art:2.6.2.2.3.5 — Vigencia
 
 La carne expedida al personal bomberil tendrá vigencia indefinida, siempre y cuando su titular no sea objeto de suspensión o expulsión del Cuerpo de Bomberos, o cuando cumpla los requisitos para ascender a un nuevo grado dentro de la carrera bomberil.
@@ -21056,13 +18854,9 @@ SECCIÓN 4
 
 De las placas de identificación bomberil
 
-ARTÍCULO
-
 ## art:2.6.2.2.4.1 — Autoridad competente para expedir la placa de identificación bomberil
 
 La Dirección Nacional de Bomberos es la autoridad competente para expedir la placa de identificación bomberil.
-
-ARTÍCULO
 
 ## art:2.6.2.2.4.2 — Características de las Placas
 
@@ -21078,8 +18872,6 @@ Las placas inteligentes que otorga la Dirección Nacional de Bomberos tendrán m
 
 5. Cuerpo de Bomberos al que pertenece.
 
-ARTÍCULO
-
 ## art:2.6.2.2.4.3 — Tipos y clases de placas de identificación inteligentes de los Bomberos de Colombia
 
 La Dirección Nacional de Bomberos establecerá los tipos y clases de placas de identificación para el personal de bomberos.
@@ -21092,19 +18884,13 @@ PARÁGRAFO 2. Los Cuerpos de Bomberos no podrán elaborar placas para distinguir
 
 PARÁGRAFO 3. La unidad bomberil debe identificarse ante cualquier autoridad o persona que lo solicite, con la placa acompañada de la carne de bombero.
 
-ARTÍCULO
-
 ## art:2.6.2.2.4.4 — Seriales de las Placas
 
 Para establecer los seriales, la Dirección Nacional de Bomberos se basará en la codificación alfanumérica que para el efecto sea expedida.
 
-ARTÍCULO
-
 ## art:2.6.2.2.4.5 — Apropiaciones
 
 Los recursos necesarios para la expedición y entrega de las placas de identificación inteligente y carne de los bomberos de Colombia se apropiarán del Fondo Nacional de Bomberos, acorde con lo establecido por la Junta Nacional de Bomberos.
-
-ARTÍCULO
 
 ## art:2.6.2.2.4.6 — Colaboración interinstitucional
 
@@ -21113,8 +18899,6 @@ Las autoridades civiles, militares y de policía deberán prestar al portador de
 SECCIÓN 5
 
 Disposiciones finales
-
-ARTÍCULO
 
 ## art:2.6.2.2.5.1 — Grados e insignias anteriores
 
@@ -21132,15 +18916,11 @@ CAPÍTULO 1
 
 Fondo Nacional de Seguridad y Convivencia Ciudadana
 
-ARTÍCULO
-
 ## art:2.7.1.1.1 — Naturaleza jurídica
 
 De conformidad con el artículo 122 de la Ley 418 de 1997, modificado por el artículo 7 de la Ley 1421 de 2010, y prorrogado por el parágrafo del artículo 8 de la Ley 1738 de 2014, el Fondo Nacional de Seguridad y Convivencia Ciudadana, FONSECON, es una cuenta especial, sin personería jurídica, administrada por el Ministerio del Interior como un sistema separado de cuenta.
 
 (Decreto 399 de 2011, Art. 1)
-
-ARTÍCULO
 
 ## art:2.7.1.1.2 — Objetivos del Fondo
 
@@ -21148,23 +18928,17 @@ El FONSECON tendrá como objeto recaudar y canalizar recursos tendientes a propi
 
 (Decreto 399 de 2011, Art. 2)
 
-ARTÍCULO
-
 ## art:2.7.1.1.3 — Origen de recursos
 
 Los recursos del FONSECON serán los que recaude la Nación por concepto de la contribución especial del 5% de que trata la Ley418 de 1997, prorrogada, modificada y adicionada por las Leyes 548 de 1999, 782 de 2002, 1106 de 2006, 1421 de 2010 y 1738 de 2014.
 
 (Decreto 399 de 2011, Art. 3)
 
-ARTÍCULO
-
 ## art:2.7.1.1.4 — Gastos operativos
 
 El FONSECON podrá destinar recursos a gastos operativos, logísticos y de administración, que sean estrictamente necesarios y estén directamente relacionados, para evaluación, aprobación y seguimiento de los programas y proyectos. En ningún caso, estos gastos podrán superar el 3 % del Plan Anual de Inversiones de que trata el numeral 3 del artículo 2.7.1.1.6.
 
 (Decreto 812 de 2016, Art. 1)
-
-ARTÍCULO
 
 ## art:2.7.1.1.5 — Comité evaluador
 
@@ -21173,8 +18947,6 @@ El Ministerio del Interior creara un Comité Evaluador responsable de evaluar t�
 El Comité estará conformado por los miembros que el Ministerio designe, de acuerdo con el tipo de programa o proyecto objeto de estudio.
 
 (Decreto 399 de 2011, Art. 5)
-
-ARTÍCULO
 
 ## art:2.7.1.1.6 — Dirección, administración y ordenación del gasto del FONSECON
 
@@ -21196,23 +18968,17 @@ La dirección, administración y ordenación de gastos del FONSECON estará a ca
 
 (Decreto 399 de 2011, Art. 6)
 
-ARTÍCULO
-
 ## art:2.7.1.1.7 — Ejecución
 
 Los programas y proyectos podrán ser ejecutados por el Ministerio del Interior o mediante contratos o convenios con entidades de derecho público. Estas podrán proferir los actos administrativos y adelantar los procesos necesarios para la realización del correspondiente objeto.
 
 (Decreto 399 de 2011, Art. 7)
 
-ARTÍCULO
-
 ## art:2.7.1.1.8 — Responsabilidad
 
 La financiación o cofinanciación de programas y proyectos no exime a las entidades nacionales, departamentales, distritales y/o municipales, de cumplir sus obligaciones constitucionales y legales en la preservación de la seguridad y la convivencia ciudadana, y el orden público.
 
 (Decreto 399 de 2011, Art. 8)
-
-ARTÍCULO
 
 ## art:2.7.1.1.9 — Fondos territoriales de seguridad y convivencia ciudadana FONSET
 
@@ -21222,15 +18988,11 @@ PARÁGRAFO. El Ministerio del Interior diseñara y pondrá en funcionamiento, un
 
 (Decreto 399 de 2011, Art. 9)
 
-ARTÍCULO
-
 ## art:2.7.1.1.10 — Naturaleza jurídica y administración de los FONSET
 
 Los FONSET son fondos cuenta y deben ser administrados como una cuenta especial sin personería jurídica. Serán administrados por el Gobernador o alcalde, según el caso, quienes podrán delegar esta responsabilidad en el Secretario de Gobierno, o quien haga sus veces.
 
 (Decreto 399 de 2011, Art. 10)
-
-ARTÍCULO
 
 ## art:2.7.1.1.11 — Recursos de la contribución especial
 
@@ -21250,23 +19012,17 @@ PARÁGRAFO. Las adiciones en valor a todos los contratos a que se refiere el ART
 
 (Decreto 399 de 2011, Art. 11)
 
-ARTÍCULO
-
 ## art:2.7.1.1.12 — Imposición de tasas y sobretasas
 
 Para efectos de la imposición de tasas o sobretasas destinadas a la seguridad y la convivencia ciudadana, el recaudo de los recursos que tengan ocurrencia en un hecho generador de origen distrital o municipal será destinado exclusivamente al Fondo Territorial de Seguridad Distrital o Municipal correspondiente. En el evento en que la asamblea departamental imponga un gravamen sobre un hecho generador del nivel distrital o municipal, estos recursos serán destinados al fondo cuenta distrital o municipal donde se causen. En ningún caso podrá haber duplicidad del mismo gravamen, es decir, no podrá gravarse por más de un ente territorial un mismo hecho generador, a cargo de un mismo sujeto pasivo.
 
 (Decreto 399 de 2011, Art. 1; Decreto 577 de 2011, Art. 12)
 
-ARTÍCULO
-
 ## art:2.7.1.1.13 — Aportes voluntarios de los municipios y departamentos
 
 Adicionales a los recursos contemplados en la Ley 418 de 1997, prorrogada, modificada y adicionada por las Leyes 548 de 1999, 782 de 2002, 1106 de 2006, 1421 de 2010 y 1738 de 2014, los municipios, distritos y departamentos, podrán asignar en sus respectivos presupuestos aportes provenientes de otras fuentes o recursos distintos a los establecidos en la ley para los fondos territoriales de seguridad y convivencia ciudadana. Dichos recursos serán incorporados al Fondo Territorial de Seguridad y Convivencia Ciudadana y destinados a financiar el Plan Integral de Seguridad y Convivencia de que trata el presente Capítulo.
 
 (Decreto 399 de 2011, Art. 13)
-
-ARTÍCULO
 
 ## art:2.7.1.1.14 — Aportes de gremios y personas jurídicas
 
@@ -21276,8 +19032,6 @@ Adicionalmente, cada departamento, distrito o municipio deberá llevar el regist
 
 (Decreto 399 de 2011, Art. 14)
 
-ARTÍCULO
-
 ## art:2.7.1.1.15 — Asignación de recursos de los Fondos de Seguridad y Convivencia Ciudadana
 
 Los recursos de los FONSET se deben destinar prioritariamente a los programas y proyectos a través de los cuales se ejecute la política integral de seguridad y convivencia ciudadana, la cual deberá articularse con la política se seguridad y convivencia ciudadana que formule el Gobierno Nacional.
@@ -21286,15 +19040,11 @@ PARÁGRAFO. El FONSET podrá destinar recursos a gastos operativos, logísticos 
 
 (Decreto 399 de 2011, Art. 15)
 
-ARTÍCULO
-
 ## art:2.7.1.1.16 — Políticas integrales de seguridad y convivencia ciudadana
 
 En cada departamento, distrito o municipio, el Gobernador o alcalde respectivo deberá formular una Política Integral de Seguridad y Convivencia Ciudadana, que contemple los planes, programas y proyectos elaborados conjuntamente con los representantes de la fuerza pública, organismos de seguridad y policía judicial a nivel territorial. Esta política se articulará con la Política y Estrategia de Seguridad y Convivencia Ciudadana que formule el Gobierno Nacional y deberá ser aprobada por el respectivo Comité Territorial de Orden Público.
 
 (Decreto 399 de 2011, Art. 16)
-
-ARTÍCULO
 
 ## art:2.7.1.1.17 — Comités territoriales de orden público
 
@@ -21303,8 +19053,6 @@ En cada departamento, distrito o municipio, habrá un Comité Territorial de Ord
 El Comité estará integrado, de acuerdo con la representación de fuerza pública, organismos de seguridad y policía judicial que operen en el respectivo departamento o municipio, por el Comandante de la Guarnición Militar o quien haga sus veces o su delegado, el Comandante de la Policía, el Director Seccional de la Unidad Nacional de Protección (UNP) o su delegado operativo y/o la Unidad Administrativa Especial Migración Colombia, según corresponda, el Director Seccional del Cuerpo Técnico de Investigación (CTI) de la Fiscalía General de la Nación, el Gobernador o el Alcalde Municipal, según el caso o como su delegado el Secretario de Gobierno o quien haga sus veces, quien lo presidirá.
 
 (Decreto 399 de 2011, Art. 17)
-
-ARTÍCULO
 
 ## art:2.7.1.1.18 — Funciones de los comités de orden público
 
@@ -21324,8 +19072,6 @@ Son funciones de estos Comités:
 
 (Decreto 399 de 2011, Art. 18)
 
-ARTÍCULO
-
 ## art:2.7.1.1.19 — Remisión de informes
 
 De conformidad con los lineamientos establecidos por la Contaduría General de la Nación, los informes de captación, ejecución e inversión de los recursos de los Fondos de Seguridad y Convivencia Ciudadana de las entidades territoriales serán remitidos a través del Formulario Único Territorial que se remite regularmente a la Contaduría General de la Nación, quien los remitirá al Ministerio del Interior.
@@ -21342,15 +19088,11 @@ El Fondo Nacional de Bomberos de Colombia es una cuenta especial de la Nación, 
 
 (Decreto 527 de 2013, Art. 1)
 
-ARTÍCULO
-
 ## art:2.7.1.2.3 — Recursos del Fondo Nacional de Bomberos de Colombia
 
 El Fondo Nacional de Bomberos de Colombia se financiará con las fuentes a que se refiere el ARTÍCULO 35 de la Ley 1575 de 2012.
 
 (Decreto 527 de 2013, Art. 3)
-
-ARTÍCULO
 
 ## art:2.7.1.2.4 — Destinación de los recursos del Fondo
 
@@ -21368,8 +19110,6 @@ Los recursos del Fondo serán destinados a financiar o cofinanciar:
 
 (Decreto 527 de 2013, Art. 4)
 
-ARTÍCULO
-
 ## art:2.7.1.2.5 — Base de cálculo del aporte sobre las pólizas de seguros
 
 El aporte de las entidades aseguradoras definido en el numeral 1 del artículo 35 de la Ley 1575 de 2012, se liquidará sobre el valor de las primas emitidas en los ramos de hogar, incendio, terremoto, minas y petróleo, de acuerdo a la definición que se encuentra en el Plan Único de Cuentas para el sector asegurador (Resolución número 2300 de 1990 y normas que lo modifiquen o adicionen), expedido por la Superintendencia Financiera de Colombia.
@@ -21378,15 +19118,11 @@ Para obtener el valor neto a pagar se tendrán en cuenta los ajustes o compensac
 
 (Decreto 527 de 2013, Art. 5)
 
-ARTÍCULO
-
 ## art:2.7.1.2.6 — Pago de aportes
 
 Las compañías de seguros deberán consignar, dentro de los diez (10) primeros días hábiles de cada mes, el valor de los aportes a que se refiere el ARTÍCULO 2.7.1.2.5 y que correspondan a las primas emitidas en el mes inmediatamente anterior, en la cuenta que para tal efecto constituya la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
 
 (Decreto 527 de 2013, Art. 6)
-
-ARTÍCULO
 
 ## art:2.7.1.2.7 — Dirección y administración del Fondo
 
@@ -21412,15 +19148,11 @@ PARÁGRAFO. La Junta Nacional de Bomberos aprobara los proyectos a financiar o c
 
 (Decreto 527 de 2013, Art. 7)
 
-ARTÍCULO
-
 ## art:2.7.1.2.8 — De la subcuenta de solidaridad bomberil
 
 La Subcuenta de Solidaridad Bomberil de que trata el ARTÍCULO 42 de la Ley 1575 de 2012 estará constituida dentro del Fondo Nacional de Bomberos de Colombia, será administrada por el Director Nacional de Bomberos o por quien este delegue, y tendrá como propósito financiar los proyectos de los diferentes cuerpos bomberiles del país, dando prioridad a aquellos que presten sus servicios en los municipios de menos de 50.000 habitantes.
 
 (Decreto 527 de 2013, Art. 8)
-
-ARTÍCULO
 
 ## art:2.7.1.2.9 — De los recursos de la subcuenta de solidaridad bomberil
 
@@ -21429,8 +19161,6 @@ La Subcuenta de Solidaridad Bomberil estará constituida por el 30% del valor de
 Estos recursos deberán ser girados por los cuerpos de bomberos a la Subcuenta de Solidaridad Bomberil, en un plazo no superior a un mes, contado desde la fecha en la cual le hayan ingresado.
 
 (Decreto 527 de 2013, Art. 9)
-
-ARTÍCULO
 
 ## art:2.7.1.2.10 — Vigilancia, control y giro oportuno de recursos
 
@@ -21446,23 +19176,17 @@ PARÁGRAFO. La Contraloría General de la República ejercerá control fiscal so
 
 (Decreto 527 de 2013, Art. 10)
 
-ARTÍCULO
-
 ## art:2.7.1.2.11 — Sujeción a recursos
 
 La implementación de las estrategias a realizar con recursos del Fondo Nacional de Bomberos estará sujeta a los recursos que para tal efecto se apropien en el Presupuesto General de la Nación.
 
 (Decreto 527 de 2013, Art. 11)
 
-ARTÍCULO
-
 ## art:2.7.1.3.1 — Denominación y naturaleza jurídica
 
 La cuenta especial creada por el ARTÍCULO 20 de la Ley 985 de 2005 se denominará "Fondo Nacional para la Lucha contra la Trata de Personas", y funcionará sin personería jurídica y como un sistema separado de cuenta a cargo del Ministerio del Interior.
 
 (Decreto 4319 de 2006, Art. 1)
-
-ARTÍCULO
 
 ## art:2.7.1.3.2 — Objetivos del Fondo Nacional para la Lucha contra la Trata de Personas
 
@@ -21474,8 +19198,6 @@ PARÁGRAFO 2°. La participación del Fondo en la financiación y/o cofinanciaci
 
 (Decreto 4319 de 2006, Art. 2)
 
-ARTÍCULO
-
 ## art:2.7.1.3.3 — Administración del Fondo Nacional para la Lucha contra la Trata de Personas
 
 La dirección, administración y ordenación del gasto del Fondo estará a cargo de la Secretaria Técnica del Comité Interinstitucional para la lucha contra la Trata de Personas, quien deberá atender los lineamientos y programas que se definan en la Estrategia Nacional para la correspondiente vigencia.
@@ -21483,8 +19205,6 @@ La dirección, administración y ordenación del gasto del Fondo estará a cargo
 (Decreto 4319 de 2006, Art. 3)
 
 PARÁGRAFO. La Secretaria Técnica del Comité Interinstitucional estará a cargo del ministro del Interior, quien podrá delegarla en un empleado público de nivel directivo o en la dependencia que para el efecto aquel designe.
-
-ARTÍCULO
 
 ## art:2.7.1.3.4 — 3.4
 
@@ -21506,15 +19226,11 @@ Funciones de dirección, administración y ordenación del gasto del Fondo Nacio
 
 (Decreto 4319 de 2006, Art. 4)
 
-ARTÍCULO
-
 ## art:2.7.1.3.5 — Administración del Fondo
 
 El Ministerio del Interior adelantara los tramites contractuales, contables, presupuestales y demás propios de la administración del Fondo, a través de sus dependencias competentes, de acuerdo con los manuales internos de procedimientos.
 
 (Decreto 4319 de 2006, Art. 5)
-
-ARTÍCULO
 
 ## art:2.7.1.3.6 — Recursos provenientes de donaciones y de cooperación internacional
 
@@ -21681,8 +19397,6 @@ PARTE 1
 
 VIGENCIA Y DEROGATORIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en el. Por consiguiente, de conformidad con el artículo 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector administrativo del interior que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos.
@@ -21694,8 +19408,6 @@ Este decreto regula íntegramente las materias contempladas en el. Por consiguie
 3) Igualmente, quedan excluidas de esta derogatoria las normas de naturaleza reglamentaria de este sector administrativo que, a la fecha de expedición del presente decreto, se encuentren suspendidas por la Jurisdicción Contencioso Administrativa, las cuales serán compiladas en este decreto, en caso de recuperar su eficacia jurídica.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -22170,91 +19882,3 @@ NOTAS DE PIE DE PAGINA
 1 según lo establecido por el Decreto 762 de 2018, "por el cual se adiciona un capítulo al Título 4 a la Parte 4, del Libro 2, del Decreto 1066 de 2015, único Reglamentario del Sector Interior, para adoptar la Política Pública para la garantía del ejercicio efectivo de los derechos de las personas que hacen parte de los sectores sociales LGBTI y de personas con orientaciones sexuales e identidades de genero diversas."
 
 2 según lo establecido por el Decreto 762 de 2018, "por el cual se adiciona un capítulo al Título 4 a la Parte 4, del Libro 2, del Decreto 1066 de 2015, Único Reglamentario del Sector Interior, para adoptar la Política Pública para la garantía del ejercicio efectivo de los derechos de las personas que hacen parte de los sectores sociales LGBTI y de personas con orientaciones sexuales e identidades de genero diversas."
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

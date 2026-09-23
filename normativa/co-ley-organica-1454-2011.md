@@ -8,7 +8,7 @@ ramas: [territorial, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1454_2011.html
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1 — OBJETO DE LA LEY
@@ -461,7 +461,7 @@ PARÁGRAFO 1o. Los Distritos Especiales cuyo territorio esté inmerso en una Reg
 
 PARÁGRAFO 2o. Lo dispuesto en este artículo se aplicará en lo pertinente frente a la constitución de la Región Administrativa y de Planificación Especial (RAP-E) entre entidades territoriales, departamentales y el Distrito Capital.
 
-PARÁGRAFO 3o. <Ver Notas del Editor> De conformidad con el artículo 325 de la Constitución Política, el Distrito Capital de Bogotá, el departamento de Cundinamarca y los departamentos contiguos a este podrán asociarse en una Región Administrativa de Planeación Especial (RAP-E), con personería jurídica, autonomía y patrimonio propio cuyo objeto principal será el desarrollo económico y social de la respectiva región. Las citadas entidades territoriales conservarán su identidad política y territorial. El acto de constitución de la Región Administrativa y de Planeación Especial (RAP-E) podrá realizarse por convenio entre los mandatarios seccionales, previa aprobación por parte de las corporaciones de las respectivas entidades territoriales y su ejecución será incorporada en el respectivo plan de desarrollo de la región mediante ordenanza y acuerdo distrital o municipal, en cada caso, según corresponda.
+PARÁGRAFO 3o. De conformidad con el artículo 325 de la Constitución Política, el Distrito Capital de Bogotá, el departamento de Cundinamarca y los departamentos contiguos a este podrán asociarse en una Región Administrativa de Planeación Especial (RAP-E), con personería jurídica, autonomía y patrimonio propio cuyo objeto principal será el desarrollo económico y social de la respectiva región. Las citadas entidades territoriales conservarán su identidad política y territorial. El acto de constitución de la Región Administrativa y de Planeación Especial (RAP-E) podrá realizarse por convenio entre los mandatarios seccionales, previa aprobación por parte de las corporaciones de las respectivas entidades territoriales y su ejecución será incorporada en el respectivo plan de desarrollo de la región mediante ordenanza y acuerdo distrital o municipal, en cada caso, según corresponda.
 
 PARÁGRAFO 4o. Los proyectos promovidos por la Región de Administración y de Planificación (RAP) deberán tener un impacto regional que será evaluado y definido por el Consejo Regional Administrativo de Planeación.
 
@@ -536,61 +536,9 @@ Las disposiciones contenidas en las Leyes 47 de 1993, “por la cual se dictan n
 ## art:39 — TRANSITORIO
 ubicacion: TÍTULO V. DISPOSICIONES FINALES.
 
-Los conflictos de competencia se dirimirán según la normatividad vigente, hasta que se reglamente por la ley respectiva, la cual deberá ser presentada por el Gobierno Nacional. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Los conflictos de competencia se dirimirán según la normatividad vigente, hasta que se reglamente por la ley respectiva, la cual deberá ser presentada por el Gobierno Nacional.
 
 ## art:40 — VIGENCIA Y DEROGATORIAS
 ubicacion: TÍTULO V. DISPOSICIONES FINALES.
 
-La presente ley rige a partir de la fecha de su promulgación y deroga las disposiciones que le sean contrarias. 
-
-El Presidente del honorable Senado de la República,
-
-ARMANDO BENEDETTI VILLANEDA.
-
-El Secretario General del honorable Senado de la República,
-
-EMILIO RAMÓN OTERO DAJUD.
-
-El Presidente de la honorable Cámara de Representantes,
-
-CARLOS ALBERTO ZULUAGA DÍAZ.
-
-El Secretario General de la honorable Cámara de Representantes,
-
-JESÚS ALFONSO RODRÍGUEZ CAMARGO.
-
-REPÚBLICA DE COLOMBIA – GOBIERNO NACIONAL
-
-Publíquese y cúmplase.
-
-Dada en el Distrito Turístico y Cultural de Cartagena de Indias, a 28 de junio de 2011.
-
-JUAN MANUEL SANTOS CALDERÓN
-
-El Ministro del Interior y de Justicia,
-
-GERMÁN VARGAS LLERAS.
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+La presente ley rige a partir de la fecha de su promulgación y deroga las disposiciones que le sean contrarias.

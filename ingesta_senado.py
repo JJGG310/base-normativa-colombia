@@ -19,7 +19,14 @@ import argparse, csv, html, os, re, sys, time, urllib.request
 from datetime import date
 
 UA = {"User-Agent": "Mozilla/5.0"}
-ANCLA = re.compile(r'<a class="bookmarkaj" name="([^"]+)"\s*>(.*?)</a>', re.I | re.S)
+# Muchos artículos no llevan la clase `bookmarkaj` sino un `<A name="63">` pelado (y
+# por eso tampoco salen en el selector de la fuente). Leer solo las `bookmarkaj`
+# dejaba esos artículos tragados en el span anterior: si ese era un TÍTULO o
+# CAPÍTULO, el artículo acababa dentro de la línea `ubicacion:` y desaparecía.
+ANCLA = re.compile(r'<a (?:class="bookmarkaj" )?name="([^"]+)"\s*>(.*?)</a>', re.I | re.S)
+# Fin de la ley: lo que sigue a las firmas (anexos, la sentencia de revisión del
+# proyecto en las estatutarias) no es texto del último artículo.
+RE_FIRMAS = re.compile(r"(?im)^\s*El Presidente del? (?:honorable |H\. )?Senado")
 CAJA = re.compile(r'href="javascript:insRow(\d+)\(\)">([^<]+)</a>', re.I)
 MESES = dict(zip("enero febrero marzo abril mayo junio julio agosto septiembre "
                  "octubre noviembre diciembre".split(), range(1, 13)))
@@ -79,6 +86,10 @@ def bajar(url, obligatorio=True, enc="iso-8859-1"):
                     fh.write(doc)
                 return doc
             ultimo = "respuesta de %d bytes" % len(doc)
+        except urllib.error.HTTPError as e:
+            ultimo = e
+            if e.code == 404:          # respuesta definitiva: reintentar solo gasta minutos
+                break
         except Exception as e:
             ultimo = e
         # La fuente corta la red (ENETUNREACH) tras muchas descargas seguidas y tarda
@@ -117,9 +128,14 @@ def limpiar(fragmento):
     f = re.sub(r'<div><a class="caja_vja_encabezado".*?</table>', "", fragmento, flags=re.S)
     f = re.sub(r"<a [^>]*title=\"Ir al inicio\".*?</a>", "", f, flags=re.S)
     f = re.sub(r"<img[^>]*>", "", f)
+    f = re.sub(r"<a class=antsig[^>]*>[^<]*</a>(?:\s*\|\s*<a class=antsig[^>]*>[^<]*</a>)?", "", f)
+    # La fuente tacha (<S>) el texto que ya no rige: inexequible, nulo o derogado (el
+    # marcador que lo precede dice cuál). Sin marca viajaría como texto vigente.
+    f = re.sub(r"<S>(.*?)</S>", r"[TACHADO: \1]", f, flags=re.S | re.I)
     f = re.sub(r"</p\s*>|<br\s*/?>", "\n", f, flags=re.I)
     f = re.sub(r"<[^>]+>", "", f)
     f = html.unescape(f)
+    f = re.sub(r"<Ver (?:Notas?|Jurisprudencia)[^<>]{0,80}>", "", f)   # remite a cajas que no viajan
     f = re.sub(r"[ \t\xa0]+", " ", f)
     return re.sub(r"\n\s*\n\s*\n+", "\n\n", f).strip()
 
@@ -141,6 +157,20 @@ def descripciones(js):
     return salida
 
 
+def clave(num):
+    """Número de artículo como lo pide esquema.md §2: `82a` para el 82A (la fuente
+    escribe «82-A», «82 A» o «82A» según la página) y `82-1` para el 82-1."""
+    return re.sub(r"-(?=[a-z]+$)", "", re.sub(r"\s+", "", num.lower()))
+
+
+def num_ancla(nombre, encabezado):
+    """Número del artículo. Manda el que dice el encabezado: la fuente a veces repite
+    un `name` ajeno (el art. 264 del C.C. lleva `name="6"`), y por el nombre el
+    artículo chocaba con el 6 y se descartaba como repetido."""
+    m = re.match(r"\s*ART[IÍ]CULO\s+(\d+[A-Za-z\-]*?)[o°º]?\s*\.", encabezado, re.I)
+    return clave(m.group(1) if m else nombre)
+
+
 def procesar(url):
     """Devuelve (artículos, cajas). Un solo recorrido: el texto y sus notas salen juntos."""
     arts, cajas, huerfanas = [], [], []
@@ -149,33 +179,48 @@ def procesar(url):
     for u, doc in paginas(url):
         desc = descripciones(bajar(u.replace("/basedoc/", "/basedoc/js/").replace(".html", ".js"),
                                   obligatorio=False))
-        anclas = list(ANCLA.finditer(doc))
+        doc = doc.split("<!--Fin documento-->")[0]
+        # Las anclas sin clase solo cuentan si son artículos: las hay de índice
+        # ("LIBRO I", "TITULO I.") incrustadas a mitad de un artículo. Las `1f`…`6f`
+        # del C.Co. son la Ley 1 de 1980 que el editor transcribe: otra norma.
+        anclas = [m for m in ANCLA.finditer(doc)
+                  if not re.fullmatch(r"\d+f", m.group(1)) and ("bookmarkaj" in m.group(0)
+                      or re.match(r"\s*ART", limpiar(m.group(2)), re.I))]
         for k, m in enumerate(anclas):
             nombre = m.group(1).strip()
             encabezado = limpiar(m.group(2))
             fin = anclas[k + 1].start() if k + 1 < len(anclas) else len(doc)
 
-            if re.match(r"^\s*T[IÍ]TULO", encabezado, re.I):
-                titulo = " ".join((encabezado + " " + limpiar(doc[m.end():fin])[:120]).split())
-                capitulo = ""
-                continue
-            if re.match(r"^\s*CAP[IÍ]TULO", encabezado, re.I):
-                capitulo = " ".join((encabezado + " " + limpiar(doc[m.end():fin])[:120]).split())
-                continue
-            if re.match(r"^\d", nombre):
-                num = nombre.lower()
+            cuerpo = None
+            if re.match(r"^\s*(T[IÍ]TULO|CAP[IÍ]TULO)", encabezado, re.I):
+                # Un artículo sin ancla alguna justo tras el encabezado (art. 5 del
+                # Código de Policía) no es parte de la ubicación: se rescata.
+                resto = limpiar(doc[m.end():fin])
+                art = RE_INLINE_LINEA.search(resto)
+                fin_cab = re.search(r"(?m)^\s*<?ART[IÍ]CULO", resto)
+                cab = " ".join((encabezado + " " + resto[:fin_cab.start() if fin_cab else None][:120]).split())
+                if re.match(r"^\s*T[IÍ]TULO", encabezado, re.I):
+                    titulo, capitulo = cab, ""
+                else:
+                    capitulo = cab
+                if not art:
+                    continue
+                num, epi, cuerpo = clave(art.group(1)), "", RE_FIRMAS.split(resto[art.end():])[0].strip()
+            elif re.match(r"^\d", nombre):
+                num = num_ancla(nombre, encabezado)
             elif "TRANSITORIO" in nombre.upper():
                 # Los transitorios de los Actos Legislativos (JEP, curules de paz)
                 # son derecho vigente; el nombre del ancla dice cuál AL los agregó.
                 crudo = re.sub(r"[^a-z0-9\-]+", "-", nombre.lower()).strip("-")
-                num = "transitorio-" + re.sub(r"^transitorio-?", "", crudo)
+                num = ("transitorio-" + re.sub(r"^transitorio-?", "", crudo)).rstrip("-")
             else:
                 continue
 
             span = doc[m.end():fin]
-            cuerpo = limpiar(span)
-            epi = re.sub(r"^ART[IÍ]CULO\s*(TRANSITORIO)?\s*[\dA-Za-z\-]*[o°º]?\.?\s*",
-                         "", encabezado, flags=re.I).strip(" .:-")
+            if cuerpo is None:
+                cuerpo = RE_FIRMAS.split(limpiar(span))[0].strip()
+                epi = re.sub(r"^ART[IÍ]CULO\s*(TRANSITORIO)?\s*[\dA-Za-z\-]*[o°º]?\.?\s*",
+                             "", encabezado, flags=re.I).strip(" .:-")
             # Algunos artículos los resuelve la fuente en el propio encabezado
             # ("ARTÍCULO 10. DECLARADO INEXEQUIBLE.") y el cuerpo queda vacío. Sin
             # esto se perdían 22 artículos de la Ley 270 sin una sola señal de error.
@@ -250,7 +295,11 @@ def partir_inline(num, epi, ubicacion, texto):
     validos, tope = [], int(base.group(1))
     for m in cortes:
         n = re.match(r"^(\d+)", m.group(1))
-        if n and int(n.group(1)) > tope:
+        # Solo el número siguiente, y nunca detrás de «…quedará así:»: un salto o unos
+        # dos puntos delatan la transcripción de otra norma (la Ley 222 reescribiendo
+        # el art. 100 del C.Co.), no un artículo propio sin ancla.
+        previo = texto[:m.start()].rstrip(" \n\"“«")
+        if n and int(n.group(1)) == tope + 1 and not previo.endswith(":"):
             validos.append(m)
             tope = int(n.group(1))
     if not validos:
@@ -263,7 +312,7 @@ def partir_inline(num, epi, ubicacion, texto):
         fin = validos[k + 1].start() if k + 1 < len(validos) else len(texto)
         e, cuerpo = separar_epigrafe(texto[m.end():fin].strip())
         if cuerpo:
-            salida.append((m.group(1).lower(), e, ubicacion, cuerpo))
+            salida.append((clave(m.group(1)), e, ubicacion, cuerpo))
     return salida
 
 
@@ -384,7 +433,7 @@ def aristas(cajas, id_norma, fuente):
                 else:
                     sin_parsear.append((destino, etiqueta, trozo[:110]))
                     continue
-                f, _ = fecha_de(trozo, s.group(3))
+                f, _ = fecha_de(trozo, id_sentencia(s).rsplit(":", 1)[1])
                 nota = " ".join(trozo.split())[:300] if tipo in (
                     "declara_exequible_condicionado", "declara_inexequible_parcial") else ""
                 filas.append((id_sentencia(s), tipo, destino, f, nota, fuente))
@@ -512,17 +561,35 @@ def check():
 
     # Vigencia: una nota estándar debe producir la arista correcta.
     filas, _ = aristas([("82", "Notas de Vigencia",
-                         "- Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2003, "
-                         "publicado en el Diario Oficial No. 45.406, de 19 de diciembre de 2003.")],
+                         ("- Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2003, "
+                         "publicado en el Diario Oficial No. 45.406, de 19 de diciembre de 2003.",) * 2)],
                        "co:constitucion:1991", "x")
     assert filas[0][:4] == ("co:acto-legislativo:2:2003:art:1", "modifica",
                             "co:constitucion:1991:art:82", "2003-12-19"), filas
     # Y las notas del artículo que ANTES llevaba ese número no deben producir ninguna.
     filas, _ = aristas([("261", "Notas de Vigencia",
-                         "Notas correspondiente al artículo 261 antes de su derogatoria por el "
+                         ("Notas correspondiente al artículo 261 antes de su derogatoria por el "
                          "Acto Legislativo 2 de 2015: - Artículo modificado por el artículo 10 "
-                         "del Acto Legislativo 1 de 2009.")], "co:constitucion:1991", "x")
+                         "del Acto Legislativo 1 de 2009.",) * 2)], "co:constitucion:1991", "x")
     assert filas == [], "se atribuyeron reformas históricas al artículo vigente: %r" % (filas,)
+    # Transcripción de un artículo de otra norma: no es artículo propio.
+    r = partir_inline("1", "", "", "El artículo 100 del Código de Comercio quedará así:\n"
+                                   "ARTICULO 100. Se tendrán como comerciales...")
+    assert len(r) == 1, "transcripción tomada como artículo: %r" % (r,)
+    r = partir_inline("1", "", "", "El artículo 2 de la Ley 5 quedará así:\nARTÍCULO 2. OBJETO. Texto.")
+    assert len(r) == 1, "transcripción tomada como artículo: %r" % (r,)
+
+    # Pie de navegación, remisiones a cajas y texto tachado.
+    t = limpiar('<p>Texto. &lt;Ver Notas del Editor&gt; Sigue <S>esto cayó</S>.</p>'
+                '<p style="x"><a class=antsig href="a.html">Anterior</a> | '
+                '<a class=antsig href="b.html">Siguiente</a></p>')
+    assert t == "Texto. Sigue [TACHADO: esto cayó].", repr(t)
+
+    # Año de 2 dígitos de la sentencia: la fecha aproximada debe salir con 4.
+    filas, _ = aristas([("9", "Jurisprudencia Vigencia",
+                         ("- Artículo declarado EXEQUIBLE por la Corte Constitucional mediante "
+                         "Sentencia C-651-97.",) * 2)], "co:ley:84:1873", "x")
+    assert filas[0][3] == "1997-12-31", filas
     print("check OK")
 
 

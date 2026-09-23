@@ -7,14 +7,12 @@ ramas: [urbanistico, servicios-publicos, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77216
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — MINISTERIO DE VIVIENDA
 
 CIUDAD Y TERRITORIO
-
-ARTÍCULO
 
 ## art:1.1.1.1.1 — Objetivo
 
@@ -28,13 +26,9 @@ SECTOR DESCENTRALIZADO
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — 1.1
 
 Comisión de Regulación de Agua Potable y Saneamiento Básico
-
-ARTÍCULO
 
 ## art:1.2.1.1.1 — Objetivos Generales
 
@@ -42,13 +36,9 @@ Las comisiones de regulación tienen la función de regular los monopolios en la
 
 (Ley 142 de 1994, artículo 73, inciso 1o)
 
-ARTÍCULO
-
 ## art:1.2.1.1.2 — 1.2
 
 Fondo Nacional de Vivienda -FONVIVIENDA-
-
-ARTÍCULO
 
 ## art:1.2.1.1.2.1 — Objetivo
 
@@ -57,8 +47,6 @@ El Fondo Nacional de Vivienda 'FONVIVIENDA' tendrá cómo objetivos consolidar e
 (Decreto 555 de 2003, artículo 2, primera parte)
 
 ENTIDADES VINCULADAS
-
-ARTÍCULO
 
 ## art:1.2.3.1 — 3.1
 
@@ -73,8 +61,6 @@ El Fondo Nacional de Vivienda "FONVIVIENDA" tendrá como objetivos consolidar el
 (Ley 432 de 1998, artículo 2, inciso 1)
 
 ÓRGANOS DE ASESORÍA Y COORDINACIÓN.
-
-ARTÍCULO
 
 ## art:1.2.4.1 — 4.1
 
@@ -112,15 +98,11 @@ SUBSECCIÓN 1
 
 GENERALIDADES DEL SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.1 — Objeto
 
 El presente sección tiene por objeto reglamentar el Subsidio Familiar de Vivienda de Interés Social en dinero para áreas urbanas, conforme a lo dispuesto en las Leyes 49 de 1990, 3ª de 1991, 388 de 1997, 546 de 1999, 789 de 2002, 1114 de 2006 y 1151 de 2007. Se aplica a entidades que administren recursos del Presupuesto Nacional o recursos parafiscales con destino al subsidio anteriormente mencionado.
 
 (Decreto 2190 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.1.2 — Definiciones y alcances
 
@@ -208,15 +190,11 @@ PARÁGRAFO . Para efectos del Programa de Vivienda de Interés Prioritario para 
 
 (Modificado por el Art. 1 del Decreto 1533 de 2019)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.3 — Cobertura
 
 El Subsidio Familiar de Vivienda de Interés Social de que trata esta sección tiene cobertura nacional y se aplica en todas las zonas definidas cómo suelo urbano en los Planes de Ordenamiento Territorial.
 
 (Decreto 2190 de 2009, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.1.4 — Postulantes
 
@@ -238,8 +216,6 @@ PARÁGRAFO 4. Cuando el hogar esté conformado por miembros mayores y menores de
 
 (Modificado por el Art. 2 del Decreto 1533 de 2019)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.5 — Entidades otorgantes del subsidio familiar de vivienda de interés social y recursos
 
 Las entidades otorgantes del subsidio familiar de vivienda de que trata esta sección serán el Fondo Nacional de Vivienda con cargo a los recursos definidos en el Decreto-ley 555 de 2003, o la entidad que haga sus veces y las Cajas de Compensación Familiar con las contribuciones parafiscales administradas por estas, todo ello de conformidad con lo establecido en las normas vigentes aplicables a la materia.
@@ -253,8 +229,6 @@ En las ciudades y/o departamentos en donde las Cajas de Compensación Familiar n
 Con sujeción a las condiciones establecidas en la presente sección, las Cajas de Compensación Familiar operarán de manera autónoma con respecto a sus beneficiarios y serán los responsables del montaje y operación de los procesos de postulación, calificación, asignación y pago de los subsidios. Así mismo, serán responsables de suministrar la información relativa a sus postulantes al Sistema de Información de Subsidios.
 
 (Decreto 2190 de 2009, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.1.6 — Clasificación de los municipios y distritos
 
@@ -275,8 +249,6 @@ f) Categoría Cinco;
 g) Categoría Seis.
 
 (Decreto 2190 de 2009, artículo 6)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.1.7 — Destinación del subsidio familiar de vivienda y valor de las viviendas a las cuáles puede aplicarse
 
@@ -454,8 +426,6 @@ PARÁGRAFO 5. Las Cajas de Compensación Familiar podrán aumentar el valor del 
 
 (Modificado por el Art. 4 del Decreto 1533 de 2019)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.8 — Valor del Subsidio Familiar de Vivienda Urbano
 
 El monto del Subsidio Familiar de Vivienda (SFV) urbana se determinará de la siguiente manera:
@@ -520,15 +490,11 @@ PARÁGRAFO 6. Las Cajas de Compensación Familiar podrán aumentar el valor de l
 
 El ajuste del valor adicional y actualización del valor del subsidio familiar de vivienda urbana nueva, al establecido en el literal a) del numeral 2 del presente artículo, operará siempre y cuando el hogar beneficiario del subsidio lo solicite y, al momento de la realización del ajuste, el hogar mantenga las condiciones establecidas para ser beneficiario del subsidio, de acuerdo con la verificación que realice la Caja de Compensación respectiva.
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.9 — Límite a la cuantía del subsidio
 
 No obstante, lo dispuesto en el artículo 2.1.1.1.1.1.8, en ningún caso la cuantía del subsidio de vivienda de interés social otorgado por las Cajas de Compensación Familiar, podrá ser superior al noventa por ciento (90%) del valor o precio de la vivienda a adquirir, construir o mejorar, en la fecha de asignación del subsidio. Para los casos de construcción en sitio propio y mejoramiento de vivienda el 90% será tomado con base en el valor de la construcción o la mejora, en la fecha de asignación del subsidio. Para los casos de arrendamiento y arrendamiento con opción de compra, el 90% será tomado con base en el valor del canon de arrendamiento pactado en el respectivo contrato."
 
 (Modificado por el Art. 5 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.1.10 — Participantes en el Sistema de Vivienda de Interés Social
 
@@ -542,8 +508,6 @@ SUB-SUBSECCIÓN 1
 
 VALOR DEL SUBSIDIO FAMILIAR DE VIVIENDA DE INTERÉS SOCIAL PARA ÁREAS URBANAS EN MODALIDAD DE ADQUISIÓN DE VIVIENDA NUEVA
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.1.1 — Valor del subsidio familiar de vivienda de interés social para áreas urbanas
 
 El monto del subsidio familiar de vivienda de interés social para áreas urbanas que otorgue el Fondo Nacional de Vivienda (FONVIVIENDA), con cargo a los recursos del Presupuesto General de la Nación en la modalidad de adquisición de vivienda nueva a los hogares beneficiarios a través de las bolsas de recuperadores de residuos reciclables; afectados por situación de desastre, calamidad pública o emergencia; damnificados por atentados terroristas; afectados por el fenómeno de La Niña 2010-2011; hogares en situación de desplazamiento; y Macroproyectos de Interés Social Nacional, podrá ser hasta de noventa salarios mínimos legales mensuales vigentes (90 smlmv).
@@ -554,15 +518,11 @@ En todo caso, el hogar podrá solicitar un valor inferior al establecido en el p
 
 (Decreto 0156 de 2013, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.1.1.2 — Aplicación
 
 Lo dispuesto en el anterior artículo aplicará para los subsidios familiares de vivienda de interés social para áreas urbanas en la modalidad de adquisición de vivienda nueva que se asignen por el Fondo Nacional de Vivienda (FONVIVIENDA), con posterioridad al 06 de febrero de 2013.
 
 (Decreto 0156 de 2013, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.1.1.3 — Recursos Presupuesto General de la Nación
 
@@ -580,8 +540,6 @@ SUB-SUBSECCIÓN 1
 
 CRITERIOS DE DISTRIBUCIÓN DE RECURSOS DEL GOBIERNO NACIONAL
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.2.1.1 — Criterios y reglas de distribución de los recursos
 
 Durante el primer trimestre de cada año el Fondo Nacional de Vivienda determinará, mediante resolución motivada, la distribución de los recursos destinados al otorgamiento de subsidios familiares de vivienda de interés social.
@@ -597,8 +555,6 @@ b) Hasta el 40%, para atender el Concurso de Esfuerzo Territorial Departamental,
 c) Los recursos restantes, se distribuirán bajo la denominada "Bolsa para Postulaciones de Ahorro Programado Contractual con Evaluación crediticia favorable, leasing habitacional y arrendamiento con opción de compra" entre los hogares postulantes de todos los municipios del país, independientemente de la categoría que les corresponda según la ley. (Modificado por el Decreto 0391 de 2012, artículo 4).
 
 (Decreto 2190 de 2009, artículo 11).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.2.1.2 — Coeficientes de distribución departamental de recursos
 
@@ -820,8 +776,6 @@ TOTAL
 
 (Decreto 2190 de 2009, art. 12, Modificado por el Decreto 4969, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.2.1.3 — Aplicación de disposiciones presupuestales
 
 Los recursos a distribuir conforme a los coeficientes que se establecen en la presente sección, se sujetarán para su aplicación a las disponibilidades presupuestales y a las disposiciones del Estatuto Orgánico de Presupuesto.
@@ -840,8 +794,6 @@ NUMERAL 1
 
 CONCURSOS DE ESFUERZO TERRITORIAL NACIONAL Y DEPARTAMENTAL
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.1.1.1 — Condiciones del Concurso de Esfuerzo Territorial Nacional
 
 En el Concurso de Esfuerzo Territorial Nacional, los planes de vivienda de interés social ubicados en todos los municipios del país calificados en categorías Especial, 1 y 2, aquellos correspondientes a Macroproyectos ubicados en cualquier municipio del país, independientemente de su categoría, que hayan sido adoptados por el Ministerio de Vivienda, Ciudad y Territorio, conforme a la normatividad legal y reglamentaria vigente aplicable a la materia y en planes presentados para construcción, mejoramiento o reparación de viviendas afectadas por desastres naturales o calamidades públicas debidamente declaradas para municipios de cualquier categoría, compiten entre sí por la asignación de los recursos del Subsidio Familiar de Vivienda de Interés Social.
@@ -849,8 +801,6 @@ En el Concurso de Esfuerzo Territorial Nacional, los planes de vivienda de inter
 Los planes de soluciones de vivienda, a los cuáles podrán aplicarse los recursos correspondientes al subsidio de vivienda familiar de los hogares que se postulen para este concurso, deben ser estructurados y presentados ante la entidad evaluadora, exclusivamente para fines de su calificación conforme a las disposiciones contenidas en la presente sección y en las normas que lo desarrollen.
 
 (Decreto 2190 de 2009, artículo 14).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.1.2 — Condiciones del Concurso de Esfuerzo Territorial Departamental
 
@@ -873,8 +823,6 @@ d) A más tardar dentro del mes siguiente a la conclusión del proceso de estruc
 NUMERAL 2
 
 ELEGIBILIDAD
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.2.1 — Elegibilidad
 
@@ -899,8 +847,6 @@ PARÁGRAFO 4. Derogado.
 PARÁGRAFO 5. Los planes cuya elegibilidad se surta según lo establecido en el presente artículo, deberán inscribirse en el módulo de oferta del Sistema de Información del Subsidio, en la entidad otorgante en el formulario diseñado para el efecto, cómo mecanismo de información y control. En el caso de planes desarrollados por Organizaciones Populares de Vivienda, adicional a la licencia de construcción y urbanismo deberá acreditarse la existencia del permiso de escrituración.
 
 (Decreto 2190 de 2009, artículo 16; Modificado por el Decreto 133 de 2018, art. 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.2.2 — Requisitos para la elegibilidad
 
@@ -940,8 +886,6 @@ PARÁGRAFO 4. Para el subsidio familiar de vivienda en la modalidad de mejoramie
 
 (Decreto 2190 de 2009, artículo 17).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.1.2.3 — Elegibilidad de planes sobre bienes inmuebles recibidos a título de dación en pago
 
 La elegibilidad de los planes correspondientes a proyectos de vivienda nueva recibidos a título de dación en pago por parte de los establecimientos de crédito o por las Cajas de Compensación Familiar que se encuentren registrados en sus activos directamente, o que correspondan a patrimonios autónomos administrados por sociedades fiduciarias, podrá ser declarada por los establecimientos de crédito.
@@ -951,8 +895,6 @@ La elegibilidad de los planes correspondientes a proyectos de vivienda nueva rec
 NUMERAL 3
 
 CALIFICACIÓN DE LOS PLANES DE SOLUCIONES DE VIVIENDA
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.3.1 — Calificación de planes de soluciones de vivienda en concursos de Esfuerzo Territorial Nacional o Departamental
 
@@ -986,8 +928,6 @@ Los planes de vivienda incorporados conforme a lo aquí previsto, que no hubiere
 
 (Decreto 2190 de 2009, artículo 19).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.1.3.2 — Ordenamiento de los planes de soluciones de vivienda
 
 Con base en los resultados de la calificación, el Fondo Nacional de Vivienda o la entidad que haga sus veces, ordenará secuencialmente los planes de vivienda según el concurso al que correspondan, hasta completar un número de unidades equivalente al monto de los recursos disponibles. De esta forma, la cantidad de unidades habitacionales de dichos planes determinará el cupo o número máximo de subsidios que con posterioridad, y conforme a lo dispuesto en la presente sección, podrán asignarse para los hogares que se postulen para cada uno de ellos. En el caso del Concurso de Esfuerzo Territorial Departamental, el orden secuencial se establecerá entre los planes de vivienda de cada departamento.
@@ -999,8 +939,6 @@ Serán beneficiarios preferenciales de los cupos de recursos destinados para los
 NUMERAL 4
 
 EXCEDENTES DE RECURSOS EN LOS CONCURSOS DE ESFUERZO TERRITORIAL
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.4.1 — 4.1
 
@@ -1040,23 +978,17 @@ NUMERAL 5
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.1.5.1 — Convocatorias
 
 Concluido el procedimiento de calificación y ordenación de los planes de soluciones de vivienda, mediante acto administrativo, el Fondo Nacional de Vivienda efectuará las convocatorias para la asignación de los subsidios, con indicación de los planes para cada concurso respecto de los cuáles es procedente la presentación de postulaciones por parte de los hogares. Cumplido lo anterior, el Fondo Nacional de Vivienda calificará todas las postulaciones individuales presentadas por los hogares para cada uno de los planes de los respectivos concursos y las ordenará secuencialmente en listas municipales, de conformidad con el procedimiento establecido en la presente sección.
 
 (Decreto 2190 de 2009, artículo 22).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.1.5.2 — Supervisión
 
 La supervisión de la ejecución de los planes de soluciones de vivienda, independientemente de la categoría del municipio en el que serán ejecutados, deberá ser adelantada por la entidad pública o privada con la que FONVIVIENDA suscriba un convenio para tales efectos.
 
 (Decreto 2190 de 2009, artículo 23).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.5.3 — Incumplimiento de las condiciones de la oferta
 
@@ -1072,8 +1004,6 @@ NUMERAL 6
 
 BOLSA PARA POSTULACIONES DE AHORRO PROGRAMADO CONTRACTUAL CON EVALUACIÓN CREDITICIA FAVORABLE
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.1.6.1 — Definición
 
 Es el proceso en virtud del cuál los hogares postulantes vinculados al sector no formal de la economía y ubicados en todos los municipios del país, independientemente de la categoría que les corresponda según la ley, que acrediten la existencia de ahorro programado contractual con evaluación crediticia favorable previa, en una misma entidad, compiten departamentalmente entre sí para la asignación de subsidios de vivienda de interés social, con cargo a los recursos distribuidos conforme a lo dispuesto en el literal c) del artículo 2.1.1.1.1.2.1.1 de la presente sección.
@@ -1081,8 +1011,6 @@ Es el proceso en virtud del cuál los hogares postulantes vinculados al sector n
 Dichos subsidios podrán destinarse a planes de soluciones de vivienda presentados a través de los Concursos de Esfuerzo Territorial Nacional o Departamental.
 
 (Decreto 2190 de 2009, artículo 25).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.1.6.2 — Aplicación territorial
 
@@ -1094,8 +1022,6 @@ SUB-SUBSECCIÓN 2
 
 SISTEMA DE AHORRO PARA LA VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.2.1 — Ahorro
 
 Los aspirantes al Subsidio Familiar de Vivienda deberán realizar aportes representados en ahorro, con el fin de reunir los recursos necesarios para la adquisición, construcción o mejoramiento, de una vivienda de interés social, con excepción de aquellos cuyos ingresos mensuales sean inferiores a dos (2) salarios mínimos mensuales legales vigentes, para quienes este aporte será voluntario. El ahorro previo será calificado y otorgará puntaje al proceso de calificación para la obtención del Subsidio Familiar de Vivienda.
@@ -1105,8 +1031,6 @@ El ahorro previo de los hogares será informado obligatoriamente por la entidad 
 PARÁGRAFO . Los hogares que se postulen al subsidio familiar de vivienda de las Cajas de Compensación Familiar, podrán certificar el monto del ahorro previo al momento de solicitar el giro de los recursos del subsidio, de conformidad con lo establecido en los artículos 2.1.1.1.1.5.1.1, 2.1.1.1.1.5.1.2 y 2.1.1.1.1.5.1.3 de la presente sección, siempre y cuando la entidad otorgante del Subsidio Familiar de Vivienda lo autorice. Sin embargo, para efectos de la calificación de que trata el artículo 2.1.1.1.1.4.1.3 de la presente sección, se tendrá en cuenta únicamente el ahorro previo certificado en el momento de la postulación.
 
 (Decreto 2190 de 2009, artículo 27).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.2.2 — Modalidades de ahorro
 
@@ -1136,8 +1060,6 @@ PARÁGRAFO . El ahorro de que trata el presente artículo podrá conformarse con
 
 (Decreto 2190 de 2009, artículo 28).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.2.3 — Monto del ahorro previo
 
 El monto del ahorro previo dependerá de los recursos complementarios y del valor del subsidio de vivienda de interés social que sumados a aquel resulten suficientes para acceder a la solución de vivienda a adquirir o permitan sufragar el presupuesto de construcción.
@@ -1146,23 +1068,17 @@ Cuando el ahorro previo esté representado en un lote de terreno, este se estima
 
 (Decreto 2190 de 2009, artículo 29).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.2.4 — Registro de ahorradores
 
 Simultáneamente con la iniciación del ahorro previo en cualquiera de sus modalidades, las entidades receptoras de los recursos reportarán obligatoriamente este hecho al Sistema de Información del Subsidio. En los casos de ahorro previo voluntario, o de ahorro previo por inversión en lotes de terreno, la inscripción en el Registro de Ahorradores deberá ser realizada por el hogar postulante ante las entidades otorgantes del Subsidio o el operador autorizado.
 
 (Decreto 2190 de 2009, artículo 30).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.2.5 — Inmovilización del ahorro
 
 De acuerdo con la autorización que debe otorgar el titular al momento de iniciar el ahorro o al momento de la expedición de la carta de aprobación, en aquellos eventos que vinculen el ahorro programado contractual con la evaluación crediticia favorable en una misma entidad y con el fin de garantizar su aplicación a la adquisición, construcción o mejoramiento de la vivienda, el ahorro será inmovilizado en la entidad en la cuál esté depositado mientras se encuentre vigente la postulación del hogar. En el caso de ahorro representado en cesantías, estas quedarán inmovilizadas desde la orden que en tal sentido imparta el postulante al subsidio a la entidad depositaria del mismo.
 
 (Decreto 2190 de 2009, artículo 31).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.2.6 — Movilización del ahorro
 
@@ -1185,8 +1101,6 @@ POSTULACIÓN A LOS SUBSIDIOS
 NUMERAL 1
 
 DEL REGISTRO DE POSTULANTES
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.3.1.1 — Postulación
 
@@ -1230,8 +1144,6 @@ PARÁGRAFO 4. Para efectos de agilizar el flujo de la información relativa a la
 
 (Modificado por el Art. 6 del Decreto 1533 de 2019)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.3.1.2 — Imposibilidad para postular al subsidio
 
 No podrán postular al Subsidio Familiar de Vivienda de que trata esta sección los hogares que presenten alguna de las siguientes condiciones:
@@ -1258,15 +1170,11 @@ NUMERAL 2
 
 MODALIDADES DE POSTULACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.3.2.1 — Modalidad de la postulación
 
 La postulación de los hogares al subsidio familiar de vivienda y su asignación se hace de manera individual.
 
 (Modificado por el Art. 8 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.3.2.2 — Postulaciones en grupo
 
@@ -1278,23 +1186,17 @@ NUMERAL 3
 
 PERÍODO Y VIGENCIA DE POSTULACIONES
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.3.3.1 — Período de postulación
 
 Los representantes legales de las entidades otorgantes del subsidio familiar de vivienda fijarán fechas de apertura y cierre para adelantar los procesos de postulación. La divulgación del cronograma deberá efectuarse mediante la fijación permanente de avisos en lugares visibles de las entidades otorgantes del subsidio y la publicación en las páginas web de las mismas, de acuerdo al comportamiento de la oferta en el territorio y mediante publicación en el Diario Oficial cuando se trate de convocatorias abiertas por el Fondo Nacional de Vivienda o por quién este determine para el otorgamiento de subsidios con cargo a los recursos del Gobierno Nacional.
 
 (Modificado por el Art. 10 del Decreto 1533 de 2019)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.3.3.2 — 3.2
 
 Período de postulación para la "Bolsa para Postulaciones de Ahorro Programado Contractual con Evaluación Crediticia Favorable". Las postulaciones para esta Bolsa podrán ser presentadas por los hogares en forma permanente ante FONVIVIENDA o la entidad o el operador que este determine y su asignación se producirá en los términos del artículo 2.1.1.1.1.4.2.1 de la presente sección. Además de la radicación de los documentos de que trata esta sub-subsección, los hogares deberán acreditar ante la entidad otorgante del subsidio, el cumplimiento de las condiciones del ahorro programado contractual, el escrito contentivo del resultado favorable de la evaluación crediticia favorable y en general, todos aquellos documentos que demuestren la existencia de recursos complementarios al subsidio que le permitirán acceder a una solución de vivienda.
 
 (Decreto 2190 de 2009, artículo 38).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.3.3.3 — Vigencia de la postulación
 
@@ -1306,15 +1208,11 @@ NUMERAL 4
 
 DISPOSICIONES COMUNES APLICABLES A LA PRESENTE SUB-SUBSECCIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.3.3.4.1 — Duplicidad de postulaciones
 
 Ningún hogar podrá presentar simultáneamente más de una postulación para el acceso al subsidio familiar de vivienda, así sea a través de diferentes registros de las personas integrantes del mismo. Si deliberadamente se incurre en esta conducta, las solicitudes correspondientes serán eliminadas de inmediato por la entidad competente. Si se detectare la infracción intencional con posterioridad a la asignación del subsidio, se revocará su asignación y por ende, no será pagado. Si ya ha sido pagado en parte o totalmente, se ordenará su restitución indexado con el Índice de Precios al Consumidor, IPC, desde la fecha en que se asignó.
 
 (Decreto 2190 de 2009, artículo 40).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.3.3.4.2 — Lugar de postulación
 
@@ -1329,8 +1227,6 @@ CALIFICACIÓN Y ASIGNACIÓN DE SUBSIDIOS
 SUB-SUBSECCIÓN 1
 
 CALIFICACIÓN DE POSTULANTES
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.1.1 — Verificación de información
 
@@ -1349,8 +1245,6 @@ Adicional a lo expresado, y sin perjuicio de las demás sanciones a que haya lug
 PARÁGRAFO . Con el propósito de facilitar y agilizar el proceso de postulación de los hogares, las entidades otorgantes del Subsidio Familiar de Vivienda de Interés Social, podrán establecer mecanismos de consulta en línea con las entidades a que haya lugar para verificar la información de las postulaciones presentadas. El Ministerio de Vivienda, Ciudad y Territorio reglamentará la materia. En todo caso, los hogares, directamente, o a través de los gestores u oferentes de proyectos de vivienda, las entidades territoriales u oficinas encargadas en los municipios de impulsar el tema de vivienda, podrán solicitar dentro de los primeros cinco (5) días de cada mes al Ministerio de Vivienda, Ciudad y Territorio el cruce de la información de los posibles hogares postulantes, para verificar el cumplimiento de los requisitos antes de la postulación. Dicho Ministerio dará respuesta a esas solicitudes durante los diez (10) días siguientes a la fecha en que fue realizada la solicitud.
 
 (Decreto 2190 de 2009, artículo 42).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.1.2 — Criterios para la calificación de las postulaciones
 
@@ -1371,8 +1265,6 @@ Teniendo en cuenta que los aportes para la solución de vivienda que puede reali
 Los puntajes a aplicar a cada una de las variables son los establecidos en el artículo siguiente.
 
 (Decreto 2190 de 2009, artículo 43).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.1.3 — Determinación de puntajes para calificación de postulaciones
 
@@ -1412,8 +1304,6 @@ En todo caso, el puntaje adicional no podrá superar el 15% del puntaje original
 
 (Decreto 2190 de 2009, art. 44).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.4.1.4 — Proceso general de selección de beneficiarios de los subsidios
 
 Una vez calificadas cada una de las postulaciones aceptables, la entidad otorgante o el operador autorizado, si fuere el caso, las ordenará de manera automática y en forma secuencial descendente, para conformar un listado de postulantes calificados hasta completar un número de hogares equivalente al total de los recursos disponibles. Los hogares postulantes que no alcanzaren a quedar incorporados en el listado resultante serán excluidos de la correspondiente asignación.
@@ -1423,8 +1313,6 @@ PARÁGRAFO 1. Si los recursos no son suficientes para atender el monto total de 
 PARÁGRAFO 2. Las entidades otorgantes del subsidio, no asumirán compromiso alguno respecto de los postulantes que no alcanzaren a quedar incorporados en los listados de beneficiarios contenidos en las resoluciones de asignación expedidas en los términos del artículo 2.1.1.1.1.4.3.1 de la presente sección.
 
 (Decreto 2190 de 2009, artículo 45).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.1.5 — 1.5
 
@@ -1438,27 +1326,19 @@ SUB-SUBSECCIÓN 2
 
 ASIGNACIÓN DE SUBSIDIOS
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.4.2.1 — Períodos de asignación
 
 Conforme al cronograma al que se hizo alusión en el artículo 2.1.1.1.1.3.3.3.1 de la presente sección, los Representantes Legales de las entidades otorgantes del subsidio familiar de vivienda fijarán las fechas entre las cuáles se efectuarán las asignaciones del subsidio familiar. Dicha información será comunicada al público en general, en las mismas condiciones de modo, tiempo y lugar señaladas en el mencionado artículo 2.1.1.1.1.3.3.3.1.
 
 (Decreto 2190 de 2009, artículo 47).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.4.2.2 — Deducciones
 
 Del total de los recursos disponibles en cada entidad otorgante, para cada período, se deducirán los valores de los subsidios correspondientes a reclamaciones aceptadas, de conformidad con lo señalado en el artículo 2.1.1.1.1.4.3.3 de este capítulo.
 
-(Decreto 2190 de 2009, ARTÍCULO
-
-## art:48 — 
+(Decreto 2190 de 2009,
 
 48).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.2.3 — Procedimiento general de asignación de subsidios
 
@@ -1469,8 +1349,6 @@ PARÁGRAFO 1. La asignación que efectúen las Cajas de Compensación Familiar d
 PARÁGRAFO 2. El subsidio asignado por las Cajas de Compensación Familiar en los términos aquí previstos podrá ser aplicado en cualquier municipio del país.
 
 (Decreto 2190 de 2009, artículo 49).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.2.4 — 2.4
 
@@ -1483,8 +1361,6 @@ b) A los hogares ubicados en cualquier municipio del país que a partir del 31 d
 Para efectos de determinar el orden de asignación de los subsidios en el caso señalado en la letra a) del presente artículo, dentro del mes siguiente al 31 de agosto del año correspondiente, la entidad otorgante elaborará un nuevo listado de los hogares seleccionados, siguiendo para ello los criterios definidos en el artículo 2.1.1.1.1.4.1.5 de la presente sección. La entidad otorgante asignará los subsidios a más tardar dentro de los dos meses siguientes a la fecha de elaboración del nuevo listado de hogares seleccionados. En el caso del literal b) del presente artículo, la entidad otorgante o su operador autorizado efectuará una nueva convocatoria, recibirá las postulaciones de los hogares y las calificará y ordenará secuencialmente conforme a lo dispuesto en los artículos 2.1.1.1.1.4.1.2, 2.1.1.1.1.4.1.3 y 2.1.1.1.1.4.1.5 de esta sección, sin tener en cuenta los criterios de distribución departamental de los recursos establecidos en el literal c) del artículo 2.1.1.1.1.2.1.1 de la misma.
 
 (Decreto 2190 de 2009, artículo 50).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.2.5 — Vigencia del subsidio
 
@@ -1508,19 +1384,13 @@ PARÁGRAFO 4. Las Cajas de Compensación Familiar podrán prorrogar, mediante ac
 
 (Modificado por el Art. 11 del Decreto 1533 de 2019)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.4.2.6 — Renuncia al subsidio
 
 El beneficiario del subsidio podrá, en cualquier momento, renunciar voluntariamente al beneficio obtenido, mediante comunicación suscrita en forma conjunta por los miembros del grupo familiar mayores de edad y la devolución a la entidad otorgante del documento que acredita la asignación del subsidio respectivo. La renuncia oportuna al subsidio implica el derecho a postular nuevamente.
 
-(Decreto 2190 de 2009, ARTÍCULO
-
-## art:52 — 
+(Decreto 2190 de 2009,
 
 52).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.2.7 — De los subsidios asignados en el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina
 
@@ -1529,8 +1399,6 @@ El Ministerio de Vivienda, Ciudad y Territorio establecerá mediante resolución
 La postulación deberá efectuarse en el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina. El subsidio podrá ser aplicado por la población no raizal para la compra de vivienda nueva en cualquier sitio del país, diferente de dicho departamento.
 
 (Decreto 2190 de 2009, artículo 53).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.2.8 — Auditoría al proceso de otorgamiento del subsidio
 
@@ -1541,8 +1409,6 @@ Antes de oficializar la asignación del subsidio familiar de vivienda, el Fondo 
 SUB-SUBSECCIÓN 3
 
 DISPOSICIONES APLICABLES A LA PRESENTE SUBSECCIÓN
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.3.1 — Oficialización de las asignaciones
 
@@ -1556,15 +1422,11 @@ PARÁGRAFO . La información que se publique podrá limitarse a los aspectos est
 
 (Decreto 2190 de 2009, artículo 55).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.4.3.2 — Comunicación individual sobre asignación del subsidio
 
 Adicional a lo establecido en el artículo anterior, las entidades otorgantes de los subsidios de que trata esta sección suscribirán y entregarán al hogar beneficiario, el documento que acredite la asignación del Subsidio Familiar de Vivienda. Este documento indicará: la fecha de su expedición, los nombres de los miembros del hogar beneficiado y la dirección registrada por estos en el formulario de postulación; sus cédulas de ciudadanía; el monto del subsidio asignado, la modalidad de solución de vivienda a la cuál puede aplicar el subsidio; el período de vigencia del subsidio y el departamento en el cuál se utilizará.
 
 (Decreto 2190 de 2009, artículo 56).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.4.3.3 — Reclamaciones
 
@@ -1583,8 +1445,6 @@ GIRO DEL SUBSIDIO FAMILIAR DE VIVIENDA
 SUB-SUBSECCIÓN 1
 
 PROCEDIMIENTO PARA EL GIRO DE LOS RECURSOS DEL SUBSIDIO
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.5.1.1 — Giro de los recursos
 
@@ -1621,8 +1481,6 @@ PARÁGRAFO 4. Los desembolsos de los subsidios asignados por las Cajas de Compen
 PARÁGRAFO 5. Los documentos exigidos para el giro del subsidio se acreditarán ante la entidad otorgante, quién autorizará el giro al oferente de la solución de vivienda."
 
 (Modificado por el Art. 12 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.5.1.2 — Giro anticipado del subsidio
 
@@ -1664,8 +1522,6 @@ PARÁGRAFO 5. En el acto de postulación a los subsidios familiares de vivienda,
 
 (Decreto 2190 de 2009, artículo 59; Modificado por el Decreto 2469 de 2012, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.5.1.3 — Otras modalidades de giro anticipado del subsidio
 
 El giro anticipado del cien por ciento (100%) del valor del subsidio por parte de las entidades otorgantes de los mismos, incluidas las Cajas de Compensación Familiar, en cualquiera de sus modalidades, también podrá efectuarse, previa autorización de los beneficiarios, a las entidades en las que efectúen el ahorro cuando el hogar cuente con dicho producto, siempre que dichas entidades estén legalmente habilitadas para la administración y manejo de recursos correspondientes al subsidio de vivienda de interés social otorgado con cargo a los recursos del Presupuesto Nacional.
@@ -1675,8 +1531,6 @@ Además de los requisitos que disponga el Ministerio de Vivienda, Ciudad y Terri
 Igualmente, podrá girarse anticipadamente el subsidio de vivienda de interés social, cuando los hogares beneficiarios autoricen el desembolso del mismo con destino al pago a entidades públicas que hayan otorgado créditos puente para la construcción de las soluciones de vivienda, todo ello en los términos y condiciones que se definan mediante resolución por parte del Ministerio de Vivienda, Ciudad y Territorio
 
 (Modificado por el Art. 14 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.5.1.4 — Giro anticipado del subsidio para proyectos participantes de las bolsas concursables
 
@@ -1690,8 +1544,6 @@ SUB-SUBSECCIÓN 2
 
 DISPOSICIONES COMUNES AL GIRO DE SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.5.2.1 — Restitución del subsidio en caso de remate
 
 En el caso en que la vivienda adquirida o construida con aplicación del Subsidio Familiar de Vivienda fuere objeto de remate judicial, dentro del plazo de cinco (5) años contados a partir de la fecha de expedición del documento que acredita la asignación del Subsidio Familiar de Vivienda y luego deducirse el valor del crédito hipotecario insoluto y sus intereses y las costas correspondientes y demás créditos que gocen de privilegio conforme a la ley, deberá restituirse a la entidad otorgante el saldo, hasta el monto del subsidio otorgado, en valor constante.
@@ -1699,8 +1551,6 @@ En el caso en que la vivienda adquirida o construida con aplicación del Subsidi
 PARÁGRAFO . El valor constante de restitución de que trata el presente artículo estará determinado por el valor recibido ajustado de acuerdo con el incremento del Índice de Precios al Consumidor, IPC, entre la fecha de recibo del subsidio y la de restitución.
 
 (Decreto 2190 de 2009, artículo 62).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.5.2.2 — Autorización para enajenación de viviendas de interés social adquiridas con subsidio
 
@@ -1711,8 +1561,6 @@ Sin perjuicio de las solicitudes de autorización para enajenación de las soluc
 PARÁGRAFO . Los registradores de instrumentos públicos que con ocasión de sus funciones tengan conocimiento de enajenaciones de viviendas obtenidas con el Subsidio Familiar de Vivienda dentro del término de que trata el artículo 8 de la Ley 3ª de 1991, deberán poner tal situación en conocimiento de la respectiva entidad otorgante.
 
 (Decreto 2190 de 2009, artículo 63).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.5.2.3 — Supervisión y vigilancia de los recursos del subsidio
 
@@ -1728,15 +1576,11 @@ SUB-SUBSECCIÓN 1
 
 APORTES, CONFORMACIÓN Y MANEJO DE LOS FONDOS PARA EL SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.1 — Aportes de los fondos para el Subsidio Familiar de Vivienda de Interés Social
 
 Los aportes de recursos parafiscales que constituyan los Fondos para el Subsidio Familiar de Vivienda de Interés Social, FOVIS, responderán cómo mínimo a los porcentajes establecidos en las normas vigentes sobre la materia y podrán ser utilizados para la financiación de procesos de acompañamiento social, en la proporción que determine el Ministerio de Vivienda, Ciudad y territorio, la cuál se calculará sobre los recursos efectivamente asignados cómo Subsidio Familiar de Vivienda en la vigencia inmediatamente anterior
 
 (Modificado por el Art. 15 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.2 — Constitución de Fovis voluntarios
 
@@ -1746,15 +1590,11 @@ En la respectiva solicitud de autorización de constitución de los Fondos, o en
 
 (Decreto 2190 de 2009, artículo 66).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.3 — Régimen de los Fovis voluntarios
 
 Las Cajas de Compensación Familiar que no estén obligadas y decidan voluntariamente constituir el Fondo para el Subsidio Familiar de Vivienda de Interés Social, se someterán a la reglamentación de los fondos de que trata esta sección.
 
 (Decreto 2190 de 2009, artículo 67).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.4 — Apropiación de los recursos de los Fovis
 
@@ -1765,8 +1605,6 @@ Las Cajas de Compensación Familiar apropiarán, dentro de los primeros diez dí
 Las Cajas de Compensación Familiar depositarán a más tardar el día doce (12) de cada mes, los aportes del Fondo correspondientes al Subsidio Familiar de Vivienda, en inversiones líquidas en entidades vigiladas por la Superintendencia Financiera de Colombia.
 
 (Decreto 2190 de 2009, artículo 68).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.5 — Recursos de los Fovis para el subsidio familiar de vivienda de interés social
 
@@ -1794,8 +1632,6 @@ PARÁGRAFO . Los recursos de los Fovis para el Subsidio Familiar de Vivienda de 
 
 (Decreto 2190 de 2009, artículo 69).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.6 — Plan Anual de Ejecución de los Recursos del Fondo
 
 Las Cajas de Compensación Familiar elaborarán un Plan Anual de Ejecución de los recursos del Fovis, el cuál presentarán en enero de cada año al Ministerio de Vivienda, Ciudad y Territorio y a la Superintendencia del Subsidio Familiar.
@@ -1804,15 +1640,11 @@ El Plan contendrá en forma discriminada la proyección mensual de ejecución de
 
 (Decreto 2190 de 2009, artículo 70).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.7 — Evaluación del Plan Anual de Ejecución de los Recursos del Fovis para el Subsidio Familiar de Vivienda
 
 La Superintendencia del Subsidio Familiar, conjuntamente con el Ministerio de Vivienda, Ciudad y Territorio, realizará trimestralmente la evaluación y el seguimiento del cumplimiento del Plan Anual de Ejecución de los recursos del Fovis para el Subsidio Familiar de Vivienda de Interés Social, de acuerdo con los procedimientos de control y evaluación establecidos para el efecto.
 
 (Decreto 2190 de 2009, artículo 71).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.8 — Remanentes en la asignación del subsidio
 
@@ -1826,15 +1658,11 @@ Las Cajas de Compensación Familiar deberán aplicar a sus afiliados postulantes
 
 (Decreto 2190 de 2009, artículo 72).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.9 — Unidad de Caja para la Administración de los Recursos del Fondo del Subsidio Familiar de Vivienda de Interés Social
 
 Las Cajas de Compensación Familiar podrán utilizar los recursos asignados no pagados del Subsidio Familiar de Vivienda, en la promoción de oferta de vivienda de interés social y en nuevas asignaciones del subsidio, siempre y cuando se garantice una liquidez equivalente al treinta por ciento (30%) para el pago de los subsidios asignados pero no pagados.
 
 (Decreto 2190 de 2009, artículo 73).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.10 — Promoción de oferta de vivienda de interés social con recursos del Fovis
 
@@ -1855,8 +1683,6 @@ e) Destinar recursos en Programas Integrales de Renovación y Redensificación U
 f) Comprar derechos fiduciarios para desarrollar proyectos de vivienda de interés social
 
 (Literal adicionado por el Decreto 133 de 2018, art. 11)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.11 — Recursos para promoción de oferta
 
@@ -1958,8 +1784,6 @@ PARÁGRAFO 3. La Superintendencia de Subsidio Familiar ejercerá en cualquier mo
 
 (Decreto 2190 de 2009, artículo 75; Modificado por el Decreto 2080 de 2010, artículo 2)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.12 — Desembolso y plazos para la promoción de oferta
 
 Los recursos de los FOVIS para el Subsidio Familiar de Vivienda de Interés Social que se destinen a promoción de oferta serán desembolsados, una vez hayan sido aprobados los respectivos proyectos de vivienda de interés social por parte del Consejo Directivo de la respectiva Caja de Compensación Familiar.
@@ -1984,8 +1808,6 @@ NUMERAL 1
 
 DISTRIBUCIÓN DE RECURSOS DE LOS FONDOS OBLIGATORIOS PARA LA VIVIENDA DE INTERÉS SOCIAL- FOVIS DE LAS CAJAS DE COMPENSACIÓN FAMILIAR, EN EL TERRITORIO NACIONAL
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.1.1 — Destinación de recursos apropiados en el Fondo para el Subsidio Familiar de Vivienda - FOVIS
 
 A partir del mes siguiente a la entrada en vigencia de este numeral y por un término de treinta y seis (36) meses, las Cajas de Compensación Familiar - CCF con cuociente de recaudo superior al 110%, que adicionalmente estén obligadas a apropiar el 20.5% de los aportes patronales al componente de vivienda, destinarán mensualmente el 15% de los recursos apropiados en el respectivo Fondo para el Subsidio Familiar de Vivienda - FOVIS, para la asignación de subsidios familiares de vivienda urbana en beneficio de hogares afiliados a otras CCF, que oferten proyectos de vivienda de interés social y/o prioritario que resulten seleccionados en las condiciones definidas en el presente Numeral.
@@ -2002,8 +1824,6 @@ PARÁGRAFO 3. Los recursos que se destinen para los propósitos a que se refiere
 
 PARÁGRAFO 4. Los recursos que, de acuerdo con lo establecido en este artículo, se destinen para la asignación de subsidios familiares de vivienda urbana en beneficio de hogares afiliados a otras CCF, no estarán sujetos a lo establecido en el artículo 2.1.1.1.1.6.1.8 del presente decreto.
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.1.2 — Selección de proyectos de vivienda de interés social y/o prioritario
 
 Las CCF que resulten obligadas a destinar el 15% de los recursos de sus FOVIS, para los propósitos señalados en el artículo 2.1.1.1.1.6.1.1.1 de este decreto, realizarán convocatorias tendientes a seleccionar proyectos de vivienda de interés social y/o prioritario, que cumplan las condiciones técnicas y jurídicas definidas por las CCF convocantes, y que se pretendan desarrollar en municipios diferentes a aquellos en que tengan jurisdicción éstas últimas.
@@ -2015,8 +1835,6 @@ Las CCF convocantes serán responsables de verificar la viabilidad técnica, jur
 PARÁGRAFO . Las CCF que actúen cómo oferentes de proyectos de acuerdo con lo establecido en este Numeral, únicamente para la formulación, supervisión y seguimiento de los mismos y hasta por el término de treinta y seis (36) meses contados a partir del mes siguiente a la entrada en vigencia de este Numeral, podrán imputar a sus respectivos FOVIS el valor de los costos y gastos operativos en que incurran, sin exceder el 4% del valor correspondiente a las transferencias mensuales por concepto de aportes al FOVIS, con destino al subsidio familiar de vivienda de interés social, adicionales a los recursos a que se refiere el artículo 2.1.1.1.1.6.2.4 de este decreto, y tendrán las mismas condiciones de ejecución que los recursos a que se refiere el citado artículo, sin perjuicio de lo previsto en este decreto.
 
 (Parágrafo modificado por el Decreto 133 de 2018, art. 7)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.1.3 — Condiciones de acceso al subsidio familiar de vivienda
 
@@ -2030,8 +1848,6 @@ Una vez seleccionados los proyectos, las CCF convocantes definirán a cuál de �
 
 En todo caso, la CCF a la cuál le corresponda la asignación de los subsidios, de acuerdo con lo expuesto, será responsable de garantizar la disponibilidad de recursos para la asignación y desembolso de los mismos, una vez se cumplan las condiciones señaladas en este Numeral y en las demás normas que resulten aplicables.
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.1.4 — Beneficiarios del subsidio familiar de vivienda
 
 Serán beneficiarios del Subsidio Familiar de Vivienda Urbana asignado en el marco del presente Numeral, los hogares afiliados a las CCF con ingresos no superiores a cuatro (4) Salarios Mínimos Mensuales Legales Vigentes (SMLMV), que cumplan con los requisitos y condiciones establecidas en los artículos
@@ -2039,8 +1855,6 @@ Serán beneficiarios del Subsidio Familiar de Vivienda Urbana asignado en el mar
 2.1.1.1.1.3.3.1.1. y 2.1.1.1.1.3.3.1.2. del presente decreto.
 
 El monto del subsidio familiar de vivienda, se establecerá de conformidad con el rango de ingresos del hogar, de conformidad con lo dispuesto en el artículo 2.1.1.1.1.1.8. del presente decreto o la norma que lo modifique, adicione o sustituya.
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.1.5 — Valor del subsidio familiar de vivienda
 
@@ -2053,8 +1867,6 @@ b) A los hogares con ingresos superiores a dos (2) y hasta cuatro (4) SMLMV, se 
 El subsidio familiar de vivienda al que hace referencia el presente artículo podrá aplicarse únicamente para la adquisición de vivienda de interés social urbana nueva.
 
 (Decreto 133 de 2018, art. 8)
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.1.6 — Postulación al subsidio familiar de vivienda
 
@@ -2076,25 +1888,17 @@ PARÁGRAFO 3. Las Cajas de Compensación Familiar priorizarán postulaciones apr
 
 (Decreto 133 de 2018, art. 9)
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.1.7 — Vigencia del subsidio familiar de vivienda
 
 La vigencia de los subsidios familiares de vivienda otorgados de conformidad con lo dispuesto en el presente Numeral será la señalada en el artículo 2.1.1.1.1.4.2.5 del presente decreto. La asignación de los mismos deberá realizarse a más tardar cuatro (4) meses antes del plazo previsto para la terminación de las viviendas, de acuerdo con lo establecido en la convocatoria realizada de acuerdo con lo dispuesto en el artículo 2.1.1.1.1.6.1.1.2 de este decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.1.8 — Inspección, vigilancia y control
 
 La Superintendencia de Subsidio Familiar ejercerá, en cualquier momento, sus facultades de inspección, vigilancia y control sobre la aplicación de recursos de que trata el presente Numeral.
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.1.1.9 — Aplicación de la sección 2.1.1.1.1 del presente decreto
 
 Se dará aplicación a lo dispuesto en las demás disposiciones de la sección 2.1.1.1.1 del presente decreto y las normas que la modifiquen, adicionen o sustituyan, siempre y cuando no contraríen las disposiciones del presente Numeral."
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.1.1.10 — Asignación de subsidios familiares de vivienda a afiliados de otras Cajas de Compensación Familiar
 
@@ -2106,8 +1910,6 @@ SUB-SUBSECCIÓN 2
 
 DEL SEGUIMIENTO A LA EJECUCIÓN DE LOS RECURSOS DE LOS FONDOS PARA EL SUBSIDIO FAMILIAR DE VIVIENDA DE INTERÉS SOCIAL DE LAS CAJAS DE COMPENSACIÓN FAMILIAR
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.2.1 — Obligación de reporte
 
 Las Cajas de Compensación Familiar reportarán obligatoriamente a la Superintendencia del Subsidio Familiar, en las condiciones y fechas que esta defina, los estados financieros con el visto bueno de los respectivos revisores fiscales y la información estadística de la vigencia anterior que para el efecto solicite dicha entidad.
@@ -2115,8 +1917,6 @@ Las Cajas de Compensación Familiar reportarán obligatoriamente a la Superinten
 Los recursos parafiscales administrados por las Cajas de Compensación Familiar y destinados a proyectos de inversión en vivienda, independiente de los recursos del respectivo Fovis, deberán ser reportados trimestralmente a la Superintendencia de Subsidio Familiar especificando los servicios que ofrecen a sus afiliados y el estado de ejecución de los proyectos que adelante, el valor de la vivienda y el número de afiliados beneficiarios de la vivienda discriminado por rango de ingresos.
 
 (Decreto 2190 de 2009, artículo 77).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.2.2 — Reporte de la gestión administrativa de los Fovis
 
@@ -2150,15 +1950,11 @@ La Superintendencia del Subsidio Familiar deberá consolidar la información y r
 
 (Decreto 2190 de 2009, artículo 78).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.2.3 — Seguimiento a la gestión administrativa de los Fovis
 
 La Superintendencia del Subsidio Familiar evaluará trimestralmente, de acuerdo con los informes de que trata el artículo anterior, la gestión de las Cajas de Compensación Familiar en la participación de la ejecución de la Política Nacional de Vivienda de Interés Social.
 
 (Decreto 2190 del 2009, artículo 79).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.2.4 — De los recursos para la administración de los Fovis
 
@@ -2166,15 +1962,11 @@ Las Cajas de Compensación Familiar podrán imputar a sus respectivos Fovis el v
 
 (Decreto 2190 de 2009, artículo 80).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.6.2.5 — 2.5
 
 Desarrollo de programas de vivienda con recursos de la reserva para vivienda definida en el artículo 69 de la Ley 49 de 1990. Los recursos provenientes de la reserva de vivienda de que trata el artículo 69 de la Ley 49 de 1990 y sus correspondientes rendimientos deberán ser destinados por las respectivas Cajas de Compensación Familiar a programas de vivienda, con destino a afiliados con ingresos familiares iguales o inferiores a cuatro salarios mínimos mensuales legales vigentes (4 smlmv), todo ello conforme a las facultades previas y/o posteriores que sobre el particular pueda ejercer la Superintendencia del Subsidio Familiar dentro de su ámbito de competencia.
 
 (Decreto 2190 de 2009, artículo 81).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.6.2.6 — Reporte de información consolidada
 
@@ -2186,15 +1978,11 @@ SUBSECCIÓN 7
 
 SISTEMA DE INFORMACIÓN DEL SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.7.1 — Sistema de Información del Subsidio Familiar de Vivienda
 
 Es el mecanismo definido por el Ministerio de Vivienda, Ciudad y Territorio y administrado por el Fondo Nacional de Vivienda, que comprende la información de oferta y demanda de subsidios.
 
 (Decreto 2190 de 2009, artículo 83).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.7.2 — Características básicas del Sistema de Información del Subsidio
 
@@ -2214,8 +2002,6 @@ PARÁGRAFO 2. Los intermediarios que accedan a la línea de redescuento para fin
 
 (Decreto 2190 de 2009, artículo 84).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.7.3 — Financiación del Sistema de Información del Subsidio
 
 El Sistema de Información del Subsidio se financiará con un aporte del cero punto cinco por ciento (0.5%) de los recursos del presupuesto anual de los Fovis de las Cajas de Compensación Familiar.
@@ -2224,15 +2010,11 @@ Igualmente de los aportes destinados para tal fin en las entidades otorgantes de
 
 (Decreto 2190 de 2009, artículo 85).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.7.4 — Consolidación de la información
 
 Para efectos de consolidación de la información de los subsidios asignados con anterioridad al funcionamiento de este sistema, el Fondo Nacional de Vivienda, el Inurbe - en liquidación, las Cajas de Compensación Familiar, el Banco Agrario, la Caja Promotora de Vivienda Militar y el Fondo para la Reconstrucción y Desarrollo Social del Eje Cafetero, FOREC, - en liquidación, entregarán las bases de datos, en medio digital y en un formato previamente definido, a la entidad Operadora del Sistema de Información del Subsidio de Vivienda de Interés Social, en un plazo no mayor a treinta (30) días calendario a partir de la solicitud de la entidad operadora.
 
 (Decreto 2190 de 2009, artículo 86).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.7.5 — El registro de postulantes en el Sistema de Información del Subsidio
 
@@ -2240,15 +2022,11 @@ Las entidades otorgantes del Subsidio Familiar de Vivienda de Interés Social re
 
 (Decreto 2190 de 2009, artículo 87).
 
-ARTÍCULO
-
 ## art:2.1.1.1.1.7.6 — Información de beneficiarios del subsidio
 
 Una vez se publique la asignación de subsidios por parte de las entidades otorgantes, estas reportarán tal información al sistema en los plazos y condiciones que defina el operador del mismo.
 
 (Decreto 2190 de 2009, artículo 88).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.7.7 — Registro de la Oferta en el Sistema de Información
 
@@ -2257,8 +2035,6 @@ Una vez se declare la elegibilidad de los planes y proyectos, la información b�
 Será función de las entidades otorgantes del Subsidio Familiar de Vivienda de Interés Social velar por la oportuna, amplia y transparente divulgación de esta oferta, de tal manera que los postulantes y beneficiarios del subsidio dispongan de una suficiente información, que les permita comparar y escoger libremente su solución de vivienda.
 
 (Decreto 2190 de 2009, artículo 89).
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.7.8 — De las bases de datos del Sistema de Información del Subsidio
 
@@ -2269,8 +2045,6 @@ Las bases de datos de oferta y demanda del Sistema de Información del Subsidio,
 SUBSECCIÓN 8
 
 DISPOSICIONES COMPLEMENTARIAS
-
-ARTÍCULO
 
 ## art:2.1.1.1.1.8.1 — Banco de Materiales
 
@@ -2286,8 +2060,6 @@ SUBSECCIÓN 1
 
 GENERALIDADES DEL SUBSIDIO FAMILIAR DE VIVIENDA PARA POBLACIÓN EN SITUACIÓN DE DESPLAZAMIENTO
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.1 — Del subsidio familiar de vivienda para población desplazada
 
 Tal cómo lo establece el artículo 6 de la Ley 3ª de 1991, el Subsidio Familiar de Vivienda es un aporte estatal en dinero o especie, otorgado por una sola vez al beneficiario con el objeto de facilitarle una solución de vivienda de interés social, sin cargo de restitución, siempre que el beneficiario cumpla con las condiciones que se establecen en la Ley 3ª de 1991 y aquellas que la modifiquen o adicionen.
@@ -2296,15 +2068,11 @@ La población desplazada tendrá acceso al subsidio familiar de vivienda en las 
 
 (Decreto 0951 de 2001, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.2 — Otorgantes del subsidio
 
 Será otorgante del Subsidio Familiar de Vivienda de que trata esta subsección, el Fondo Nacional de Vivienda.
 
 (Decreto 0951 de 2001, artículo 2; Modificado por el Decreto 4911 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.3 — Postulantes
 
@@ -2315,8 +2083,6 @@ Serán potenciales beneficiarios, del subsidio de que trata la presente subsecci
 2. Estar debidamente registradas en el Registro Único de Víctimas a que se refiere el Decreto Único del Sector de Inclusión Social y Reconciliación.
 
 (Decreto 0951 de 2001, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.4 — Asignación del subsidio familiar de vivienda para población desplazada
 
@@ -2329,8 +2095,6 @@ Los programas dirigidos al retorno deberán tener en cuenta lo dispuesto en la e
 Reubicación. Mediante este componente se facilitará la reubicación de los hogares desplazados en municipios distintos al de origen del desplazamiento, cuando no sea posible su retorno.
 
 (Decreto 0951 de 2001, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.5 — Aplicación del subsidio familiar de vivienda
 
@@ -2346,15 +2110,11 @@ El Subsidio Familiar de Vivienda otorgado a la población en situación de despl
 
 (Decreto 0951 de 2001, artículo 5; Modificado por el Decreto 4911 de 2009, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.6 — Plan de acción zonal para la población desplazada
 
 Con el objeto de cumplir los criterios y objetivos del Programa de Restablecimiento, previsto en el Plan Nacional para la Atención y Reparación Integral a las Víctimas, se promoverá la formulación de un Plan de Acción Zonal, PAZ, con la participación de la población afectada. A partir de la concertación efectuada con la población desplazada, sobre el retorno o la reubicación, el Plan de Acción Zonal definirá una estrategia para la aplicación del Subsidio Familiar de Vivienda previsto en la presente subsección, previo diagnóstico de las necesidades habitacionales de los desplazados, elaborado por el respectivo Comité municipal o distrital de Atención y Reparación Integral a las Víctimas, en coordinación con la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas.
 
 (Decreto 0951 de 2001, artículo 6).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.7 — Contenidos del plan de acción zonal
 
@@ -2380,8 +2140,6 @@ Los Planes de Acción Zonal deberán estructurarse con base en los siguientes cr
 
 (Decreto 0951 de 2001, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.8 — Tipos de solución habitacional a los que se destina el subsidio de vivienda
 
 Para efectos de lo previsto en la presente subsección, las soluciones de vivienda en las cuáles se puede aplicar el subsidio de vivienda, deberán cumplir, en lo que no sea contrario con la presente subsección, con lo señalado en la sección 2.1.1.1.1 del presente decreto o las normas que lo modifiquen, complementen, adicionen o sustituyan.
@@ -2394,8 +2152,6 @@ Para construcción en sitio propio, el valor de la solución habitacional en ár
 
 (Decreto 0951 de 2001, artículo 8; Modificado por el Decreto 4911 de 2009, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.9 — Subsidio a la vivienda usada
 
 Para el caso de la población desplazada, el subsidio de vivienda se podrá destinar a la adquisición de vivienda usada, siempre y cuando dicha solución no se encuentre localizada en zonas de riesgo, ni en áreas urbanas o rurales no legalizadas del respectivo municipio y se acredite la titularidad del derecho de dominio en cabeza del vendedor, mediante certificado de tradición y libertad en el que conste, además, que el bien se encuentra libre de cualquier gravamen o limitación a la propiedad. En todo caso se debe observar el límite previsto en el inciso tercero del artículo anterior.
@@ -2404,15 +2160,11 @@ PARÁGRAFO . El certificado de tradición y libertad de que trata el presente ar
 
 (Decreto 0951 de 2001, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.10 — Subsidio al mejoramiento de vivienda
 
 Se entiende por mejoramiento de vivienda, la modalidad definida en el artículo 2.1.1.1.1.1.2 numeral 2.6.4. del presente decreto o las normas que lo modifiquen, complementen, adicionen o sustituyan.
 
 (Decreto 0951 de 2001, artículo 10; Modificado por el Decreto 4911 de 2009, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.11 — Subsidio al arrendamiento
 
@@ -2426,15 +2178,11 @@ Semestralmente se hará una relación de actualización de los contratos de arre
 
 (Decreto 0951 de 2001, artículo 11; Modificado por el Decreto 2100 de 2005, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.12 — Condiciones especiales del subsidio de vivienda para arrendamiento
 
 Al vencimiento del contrato de arrendamiento, los beneficiarios del subsidio familiar de vivienda, podrán continuar aplicando el subsidio familiar de vivienda para arrendamiento hasta completar los 24 meses, o podrán acceder a la diferencia entre el subsidio familiar de vivienda para arrendamiento y el valor del subsidio previsto para alguna de las opciones de solución de vivienda contempladas en la presente subsección, siempre y cuando reúnan los requisitos establecidos para acceder a estos últimos; y en caso de resultar una porción no utilizada del subsidio de arrendamiento, esta podrá destinarse al acceso a la solución de vivienda. En el evento que el beneficiario no opte por ninguna de las dos opciones anteriormente señaladas, la porción del subsidio familiar de vivienda no utilizada que se encuentra inmovilizada en la cuenta de ahorro programado será restituida a la entidad otorgante del subsidio.
 
 (Decreto 0951 de 2001, artículo 12; Modificado por el Decreto 2100 de 2005, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.13 — Valor del subsidio
 
@@ -2476,15 +2224,11 @@ PARÁGRAFO 4. El Ministerio de Vivienda, Ciudad y Territorio mediante resolució
 
 (Decreto 0951 de 2001, artículo 14; Modificado por el Decreto 4911 de 2009, artículo 6; Modificado por el Decreto 4729 de 2010, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.14 — Modalidades de postulación al subsidio
 
 Para la población desplazada, la postulación al subsidio de vivienda podrá ser individual o colectiva. Se denomina postulación individual aquella en la cuál un hogar, en forma independiente, solicita el subsidio para alguna de las soluciones de vivienda previstas en la presente subsección. Se denomina postulación colectiva aquella en la cuál un grupo de hogares solicita el subsidio para su aplicación a soluciones de vivienda que conforman un proyecto en el que participan los postulantes.
 
 (Decreto 0951 de 2001, artículo 15).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.15 — Distribución territorial de los subsidios de vivienda para la población desplazada
 
@@ -2501,8 +2245,6 @@ Una vez terminado el proceso de postulación, el Ministerio de Vivienda, Ciudad 
 PARÁGRAFO . Para la distribución de los recursos se tendrán en cuenta sólo los departamentos con postulaciones aceptadas.
 
 (Decreto 0951 de 2001, artículo 16).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.16 — Criterios de calificación de las postulaciones y asignación de los subsidios de vivienda de interés social urbana
 
@@ -2527,8 +2269,6 @@ h) Dependencia económica (DE): Es la relación entre la sumatoria de niños, di
 i) Tiempo en situación de desplazamiento (TD): Hace referencia a los años que el hogar ha estado en condición de desplazado.
 
 (Decreto 0951 de 2001, artículo 17, Modificado por el Decreto 4213 de 2011, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.17 — .17
 
@@ -2742,15 +2482,11 @@ Valor
 
 4
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.18 — Puntaje promedio en las postulaciones colectivas
 
 En el caso de las postulaciones colectivas, el puntaje de cada uno de sus miembros será el promedio del grupo, obtenido mediante la suma de los puntos de cada uno de los integrantes postulantes dividida por el número de postulantes miembros del grupo.
 
 (Decreto 0951 de 2001, artículo 19).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.19 — .19
 
@@ -2776,15 +2512,11 @@ PARÁGRAFO 3. Las entidades territoriales o las unidades administrativas, depend
 
 (Decreto 0951 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.20 — Financiación del subsidio de vivienda
 
 La financiación de la política de vivienda para la población desplazada se atenderá con cargo a los recursos que se asignen, para tal propósito, por parte del Gobierno Nacional.
 
 (Decreto 0951 de 2001, artículo 21).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.21 — Esquema de operación institucional
 
@@ -2793,8 +2525,6 @@ El esquema de operación se ajustará al Plan Nacional para la Atención y Repar
 La operación en el territorio tendrá cómo escenario de trabajo el Comité Municipal o Distrital de Atención y Reparación Integral a las Víctimas. No obstante, las entidades que los conforman tendrán a su cargo la incorporación del tema al interior de sus políticas sectoriales y en los foros en que ellas se desarrollen, tales como: POT, Plan de Desarrollo Municipal, Comité de Planeación Territorial Departamental, Planes de Vivienda Social de los Fondos de Vivienda Municipales y del Banco Agrario, promoviendo para ello los talleres de concertación que sean necesarios.
 
 (Decreto 0951 de 2001, artículo 22).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.22 — Comisión intersectorial para el seguimiento de la política de vivienda urbana para población desplazada
 
@@ -2817,8 +2547,6 @@ La Secretaría Técnica del Comité Intersectorial será realizada por la Unidad
 Cada uno de los integrantes del comité, en relación con su respectivo sector, responderá por la realización de las acciones necesarias para evaluar la ejecución y el impacto de la política de vivienda urbana para la atención a la población desplazada, recomendará los ajustes necesarios y presentará a la comisión un informe trimestral sobre el tema.
 
 (Decreto 0951 de 2001, artículo 23).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.1.2.3 — 2.3
 
@@ -2888,8 +2616,6 @@ B3: 1/3
 
 (Decreto 0951 de 2001, art. 24).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.24 — Participación de los entes territoriales en la política habitacional para población desplazada
 
 En aplicación del principio de concurrencia en la acción, de los diferentes niveles del Estado, los departamentos, municipios o distritos, contribuirán con recursos económicos, físicos o logísticos, para ejecutar la política habitacional para población desplazada.
@@ -2904,8 +2630,6 @@ Las entidades públicas del orden municipal, distrital y departamental deberán 
 
 (Decreto 0951 de 2001, artículo 25; Modificado por el Decreto 4911 de 2009, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.1.25 — Desembolso a Cuentas de Ahorro Programado, CAP
 
 En los casos de subsidios familiares de vivienda para adquisición de vivienda nueva, usada, mejoramiento de vivienda y construcción en sitio propio de que trata la presente subsección, asignados a la población desplazada, las entidades otorgantes del Subsidio Familiar de Vivienda desembolsarán en forma anticipada la totalidad del subsidio a la Cuenta de Ahorro Programado, CAP, del beneficiario, contra la presentación de la Declaración Extrajuicio en la cuál se compromete a la aplicación del subsidio familiar de vivienda para la modalidad a la cuál fue asignado. En todo caso, en el evento de demostrarse que para los procesos de desembolso y movilización del recurso se presentó información falsa o fraudulenta se impondrán las sanciones a que haya lugar de acuerdo con lo dispuesto en la ley.
@@ -2917,8 +2641,6 @@ La movilización del Subsidio Familiar de Vivienda se efectuará en los término
 SUBSECCIÓN 2
 
 PROMOCIÓN PARA DEMANDA Y OFERTA
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.2.1 — Promoción de oferta y demanda
 
@@ -2937,8 +2659,6 @@ De los recursos del Presupuesto Nacional destinados para la Política de Viviend
 6. Desarrollo de proyectos de vivienda de interés social para población en situación de desplazamiento, en los cuáles los recursos para la generación de soluciones habitacionales podrán destinarse cómo fuente para la estructuración financiera de los proyectos, de conformidad con lo dispuesto en el artículo 5 de la Ley 3ª de 1991, a través del Fondo Nacional de Vivienda, en los términos establecidos en el artículo 12 del Decreto-ley 555 de 2003.
 
 (Decreto 4911 de 2009, artículo 8).
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.2.2 — Aplicación del subsidio
 
@@ -2964,8 +2684,6 @@ En todo caso deberá contarse con un certificado de habitabilidad expedido por l
 
 (Decreto 4911 de 2009, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.2.3 — Aplicación de subsidios familiares de vivienda en macroproyectos de interés social nacional
 
 Los hogares beneficiarios de Subsidios Familiares de Vivienda, asignados por el Fondo Nacional de Vivienda, a través de convocatorias diferentes a las que se realicen en el marco de los Macroproyectos de Interés Social Nacional - MISN, podrán aplicarlos para adquirir una solución habitacional en los MISN adoptados por el Ministerio de Vivienda, Ciudad y Territorio, siempre que acrediten los recursos complementarios para el cierre financiero.
@@ -2984,8 +2702,6 @@ PARÁGRAFO 2. En el evento de cobro contra escritura, la entidad financiera depo
 
 (Decreto 4911 de 2009, artículo 10).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.2.4 — Atención inmediata mediante soluciones de vivienda prefabricadas que cumplan con normas sismorresistentes
 
 En aplicación a lo dispuesto en artículo 6 de la Ley 3ª de 1991, las entidades públicas de orden municipal, departamental o distrital a fin de atender de manera inmediata a los hogares que se encuentran en situación de desplazamiento, podrán destinar los recursos del subsidio familiar de vivienda a la adquisición, montaje, instalación y entrega de viviendas prefabricadas que cumplan con las disposiciones de las normas colombianas de diseño y construcción sismorresistente.
@@ -2996,8 +2712,6 @@ PARÁGRAFO . La asignación de los subsidios para su aplicación según el prese
 
 (Decreto 4911 de 2009, artículo 11).
 
-ARTÍCULO
-
 ## art:2.1.1.1.2.2.5 — 2.5
 
 Postulación, asignación y aplicación del subsidio familiar de vivienda otorgado por el fondo nacional de vivienda a la población en situación de desplazamiento. En lo que no sea contrario con lo establecido en la subsección 2.1.1.1.2.1 del presente decreto, la postulación, asignación y aplicación del subsidio familiar de vivienda para población en situación de desplazamiento se realizará siguiendo los procedimientos, requisitos y condiciones establecidos en la sección 2.1.1.1.1 del presente decreto.
@@ -3007,8 +2721,6 @@ Postulación, asignación y aplicación del subsidio familiar de vivienda otorga
 SUBSECCIÓN 3
 
 CRITERIOS ESPECIALES DE ATENCIÓN PRIORITARIA
-
-ARTÍCULO
 
 ## art:2.1.1.1.2.3.1 — Atención prioritaria
 
@@ -3038,8 +2750,6 @@ SUBSECCIÓN 1
 
 OBJETO
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.1.1 — Objeto
 
 Con fundamento en lo dispuesto en el Decreto-ley 4832 de 2010, la presente sección reglamenta la disposición, asignación y ejecución de recursos que a partir de la celebración por parte del Fondo Nacional de Vivienda, FONVIVIENDA, de contratos de fiducia mercantil para la constitución de Patrimonios Autónomos Matrices (PAM), serán direccionados a Patrimonios Autónomos Derivados (PAD) en los que a través de las gerencias integrales de que trata esta sección se desarrollarán proyectos de vivienda urbana de interés social nueva. Dichos proyectos deberán ser estructurados y/o ejecutados para la atención de vivienda urbana de interés social nueva a los hogares afectados por el Fenómeno de La Niña 2010-2011 y aquellos ubicados en zonas de riesgo en los términos establecidos en la presente sección.
@@ -3050,8 +2760,6 @@ SUBSECCIÓN 2
 
 PATRIMONIO AUTÓNOMO MATRIZ (PAM).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.2.1 — Patrimonio Autónomo Matriz (PAM)
 
 El Director del Fondo Nacional de Vivienda, FONVIVIENDA, en aplicación de lo dispuesto en el artículo 2 del Decreto-ley 4832 de 2010, podrá celebrar en forma directa contratos de Fiducia Mercantil con el propósito de constituir Patrimonios Autónomos Matrices (PAM) en su condición de fideicomitente, a los cuáles se girarán los recursos para la ejecución de actividades de generar proyectos de vivienda urbana de interés social nueva destinada a la atención de los hogares afectados por el Fenómeno de La Niña 2010-2011 y aquellos que se encuentren ubicados en zonas de riesgo conforme a lo dispuesto en la presente sección.
@@ -3059,8 +2767,6 @@ El Director del Fondo Nacional de Vivienda, FONVIVIENDA, en aplicación de lo di
 Para efectos de lo anterior el Director de FONVIVIENDA podrá constituir uno o varios patrimonios autónomos de los que trata este artículo si ello fuere necesario para atender con mayor celeridad, eficiencia y eficacia las zonas del país en las que se encuentre ubicada la población que será atendida conforme a lo establecido en la presente sección.
 
 (Decreto 1920 de 2011, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.2.2 — Recursos a transferir a los Patrimonios Autónomos matrices (PAM)
 
@@ -3077,8 +2783,6 @@ A los Patrimonios Autónomos Matrices (PAM) de que trata esta sección se podrá
 PARÁGRAFO . Las personas distintas a FONVIVIENDA que aporten bienes al Patrimonio Autónomo Matriz (PAM) en los términos de los artículos 4 y 5 del Decreto-ley 4832 de 2010 no adquirirán por tal hecho la condición de Fideicomitentes.
 
 (Decreto 1920 de 2011, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.2.3 — Principales funciones del Patrimonio Autónomo Matriz (PAM)
 
@@ -3156,8 +2860,6 @@ SUBSECCIÓN 3
 
 ESTRUCTURACIÓN Y VIABILIDAD DE PROYECTOS.
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.3.1 — Estructurador de proyectos
 
 Es la persona natural o jurídica, pública o privada, que realizará los estudios, diseños y demás actividades necesarias para la definición técnica, financiera, jurídica, y social del proyecto, y en general de todos los elementos que harán posible la ejecución de proyectos de vivienda urbana de interés social nueva enfocados en la atención de la población damnificada por el Fenómeno de La Niña 2010-2011, y aquella ubicada en zonas de riesgo acorde a los lineamientos de la presente sección.
@@ -3168,8 +2870,6 @@ PARÁGRAFO . Lo previsto en el numeral 1 del artículo 2.1.1.1.3.2.3 de la prese
 
 (Decreto 1920 de 2011, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.3.2 — Viabilizador
 
 Es la persona jurídica encargada de emitir concepto de viabilidad sobre los componentes técnicos, económicos, financieros, jurídicos, y sociales y, en general sobre todos los elementos que hacen posible la ejecución de los proyectos de vivienda urbana de interés social nueva enfocados a la atención de la población damnificada por el Fenómeno de La Niña 2010-2011, y aquella ubicada en zonas de riesgo en los términos de esta sección, todo ello, en concordancia con lo establecido en el artículo 2.1.1.1.3.3.3 de la presente sección.
@@ -3179,8 +2879,6 @@ Las entidades, instituciones públicas o privadas con las que el Fondo Nacional 
 En los casos en que el proyecto de vivienda haya sido estructurado por la misma entidad con la que el Fondo Nacional de Vivienda haya suscrito convenio para tales efectos, la viabilidad se hará constar en certificado de estructuración y viabilización emitido por la entidad del caso, que deberá incluir el concepto sobre la viabilidad técnica, económica, financiera, jurídica y social del proyecto del caso.
 
 (Decreto 1920 de 2011, artículo 6).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.3.3 — Requisitos para otorgar la viabilidad
 
@@ -3222,8 +2920,6 @@ PARÁGRAFO 4. En ningún caso la declaratoria de viabilidad de un proyecto de vi
 
 (Decreto 1920 de 2011, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.3.4 — Calificación de proyectos para asignación de cupos
 
 Para la determinación de los cupos a los que se refiere el artículo 2.1.1.1.3.3.5 de la presente sección, la entidad viabilizadora calificará los proyectos de vivienda urbana de interés social nueva siguiendo la metodología que defina el Ministerio de Vivienda, Ciudad y Territorio. Dicha calificación deberá tener en cuenta, entre otros, los siguientes criterios:
@@ -3244,8 +2940,6 @@ PARÁGRAFO . En ningún caso la calificación de un proyecto de vivienda urbana 
 
 (Decreto 1920 de 2011, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.3.5 — Definición de cupos para los proyectos de vivienda urbana de interés social nueva
 
 El Fondo Nacional de Vivienda, FONVIVIENDA, determinará y comunicará al Patrimonio Autónomo Matriz (PAM) los cupos de recursos para los proyectos que hayan sido previamente viabilizados y calificados conforme a lo dispuesto en los artículos 2.1.1.1.3.3.3 y 2.1.1.1.3.3.4 de la presente sección.
@@ -3262,8 +2956,6 @@ PARÁGRAFO . La definición de cupos para un proyecto de vivienda urbana de inte
 
 (Decreto 1920 de 2011, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.3.6 — Atención de proyectos de vivienda conforme a la calificación
 
 Los proyectos de vivienda urbana de interés social nueva viabilizados y calificados que no hubieren sido beneficiarios de los cupos de que trata el artículo anterior por insuficiencia de recursos en el Patrimonio Autónomo Matriz (PAM) tendrán preferencia en la definición de cupos inmediatamente siguiente que realice el Fondo Nacional de Vivienda, FONVIVIENDA, para lo cuál deberá atenderse el orden de tales proyectos conforme a la calificación que les hubiere sido inicialmente otorgada.
@@ -3274,15 +2966,11 @@ SUBSECCIÓN 4
 
 PATRIMONIOS AUTÓNOMOS DERIVADOS (PAD) Y GERENCIAS INTEGRALES.
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.4.1 — Patrimonios Autónomos Derivados (PAD)
 
 Los proyectos de vivienda urbana de interés social nueva que vayan a desarrollarse conforme a lo dispuesto en la presente sección deberán ejecutarse integralmente a través de contratos de Fiducia Mercantil que originen Patrimonios Autónomos Derivados (PAD) en los cuáles se incorporarán todos los bienes necesarios para la ejecución del proyecto, en especial, los recursos que gire el Patrimonio Autónomo Matriz (PAM).
 
 (Decreto 1920 de 2011, artículo 11).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.4.2 — GERENCIAS INTEGRALES
 
@@ -3298,8 +2986,6 @@ SUBSECCIÓN 5
 
 SEGUROS E INTERVENTORÍAS.
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.5.1 — Requisitos adicionales para el giro de recursos-seguros
 
 Conforme a lo dispuesto en los numerales 2.1 y 2.2 del artículo 2.1.1.1.3.2.3de la presente sección, cada Patrimonio Autónomo Derivado (PAD) deberá constituir y entregar al Patrimonio Autónomo Matriz (PAM) el contrato que garantice la labor de interventoría del proyecto, y pólizas de seguro de cumplimiento cuyo beneficiario sea el Patrimonio Autónomo Matriz (PAM) en el caso de lo dispuesto en el numeral 2.1 del artículo 2.1.1.1.3.2.3 de esta sección, o de los hogares respecto de los cuáles se giren los recursos al patrimonio en el evento previsto en el numeral 2.2. del citado artículo 2.1.1.1.3.2.3, en ambos casos que amparen la restitución de los dineros girados en caso de incumplimiento por un monto correspondiente al ciento diez por ciento (110%) del valor correspondiente a cada una de las sumas giradas por el Patrimonio Autónomo Matriz (PAM) al Patrimonio Autónomo Derivado (PAD) del caso.
@@ -3307,8 +2993,6 @@ Conforme a lo dispuesto en los numerales 2.1 y 2.2 del artículo 2.1.1.1.3.2.3de
 PARÁGRAFO . En la postulación al subsidio de vivienda familiar los hogares otorgarán un mandato al Fondo Nacional de Vivienda, FONVIVIENDA, en virtud del cuál dicho Fondo de Vivienda podrá exigir y recibir los recursos que llegaren a reconocerse por concepto de las pólizas de seguro constituidas a favor de los hogares, y, si fuere conducente, aquellas sumas por concepto de los subsidios asignados que aún estuvieren a disposición del Patrimonio Autónomo Derivado (PAD) por no haber sido giradas para el desarrollo del proyecto del caso. Recibidos los recursos de que aquí se trata, el hogar deberá informar a FONVIVIENDA el proyecto de vivienda urbana de interés social nueva al cuál destinará los recursos recibidos con lo cuál se garantizará que el hogar pueda aplicar efectivamente el subsidio asignado inicialmente en la adquisición de una nueva vivienda.
 
 (Decreto 1920 de 2011, artículo 13).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.5.2 — Interventoría
 
@@ -3324,15 +3008,11 @@ SUBSECCIÓN 6
 
 SUBSIDIOS
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.6.1 — Campo de aplicación
 
 La presente subsección se aplica a los procesos de postulación, asignación y aplicación del Subsidio Familiar de Vivienda Urbano que otorga el Fondo Nacional de Vivienda, FONVIVIENDA, para la atención de hogares damnificados en sus viviendas por el Fenómeno de La Niña 2010-2011 y aquellos ubicados en zonas de riesgo en los términos de la presente sección.
 
 (Decreto 1920 de 2011, artículo 15).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.6.2 — Beneficiarios
 
@@ -3350,8 +3030,6 @@ Para efectos de la aplicación de esta sección se consideran beneficiarios de l
 
 (Decreto 1920 de 2011, artículo 16).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.6.3 — Trámites y documentos para la postulación
 
 Además de acreditar los requisitos que se indican en el artículo anterior, los hogares deberán presentar el formulario de postulación debidamente diligenciado y firmado por todos los miembros mayores del hogar postulante, en el cuál deberá indicarse el proyecto de vivienda urbana de interés social nueva en el cuál desea aplicar el Subsidio.
@@ -3368,8 +3046,6 @@ PARÁGRAFO 2. Con el propósito de facilitar y agilizar el proceso de postulaci�
 
 (Decreto 1920 de 2011, artículo 17).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.6.4 — Verificación de la información
 
 Antes de proceder a la calificación de las postulaciones presentadas el Fondo Nacional de Vivienda, FONVIVIENDA, o la entidad o el operador que este determine verificarán la información suministrada por los postulantes.
@@ -3381,8 +3057,6 @@ Si después del giro de la totalidad de las sumas por concepto del subsidio fami
 Adicional a lo expresado, y sin perjuicio de las demás sanciones a que haya lugar, la imprecisión en la información que se detectare en cualquier etapa del proceso, así cómo la comprobación de que la información suministrada para la postulación al subsidio familiar de vivienda, no corresponde a la verdad, generará la imposibilidad para solicitar de nuevo el subsidio por parte del postulante durante un término de diez (10) años, de conformidad con lo estipulado en el artículo 30 de la Ley 3ª de 1991.
 
 (Decreto 1920 de 2011, artículo 18).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.6.5 — Calificación de postulantes y asignación del subsidio familiar de vivienda
 
@@ -3400,8 +3074,6 @@ PARÁGRAFO 2. El Fondo Nacional de Vivienda FONVIVIENDA asignará los subsidios 
 
 (Decreto 1920 de 2011, artículo 19).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.6.6 — Valor del subsidio familiar de vivienda urbano
 
 La cuantía del subsidio familiar de vivienda en salarios mínimos mensuales legales vigentes bajo la modalidad de adquisición de vivienda nueva que se asignará a los hogares podrá ser hasta de noventa salarios mínimos legales mensuales vigentes (90 smlmv).
@@ -3418,8 +3090,6 @@ PARÁGRAFO . Los recursos para la asignación de subsidios familiares de viviend
 
 (Decreto 1920 de 2011, artículo 20, Modificado por el Decreto 0430 de 2012, artículo 1; Modificado por el Decreto 0156 de 2013, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.6.7 — Vigencia del subsidio familiar de vivienda
 
 La vigencia de los subsidios de vivienda de interés social de que trata esta sección será de seis (6) meses calendario contados desde el primer día del mes siguiente a la fecha de giro por el Patrimonio Autónomo Matriz (PAM) al respectivo Patrimonio Autónomo Derivado (PAD) de los recursos de que trata el numeral 2.2 del artículo 2.1.1.1.3.2.3 de la presente sección.
@@ -3427,8 +3097,6 @@ La vigencia de los subsidios de vivienda de interés social de que trata esta se
 PARÁGRAFO 1. En todo caso, la vigencia de los subsidios familiares de vivienda otorgados con cargo a los recursos del Presupuesto Nacional podrá ser prorrogada mediante resolución expedida por el Ministerio de Vivienda, Ciudad y Territorio.
 
 (Decreto 1920 de 2011, artículo 21).
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.6.8 — Aplicación de otros subsidios familiares de vivienda
 
@@ -3443,8 +3111,6 @@ Lo anterior no aplicará si el oferente del proyecto no ha iniciado la construcc
 SUBSECCIÓN 7
 
 DISPOSICIONES COMPLEMENTARIAS.
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.7.1 — Cesión a título gratuito
 
@@ -3464,8 +3130,6 @@ PARÁGRAFO . Si las entidades territoriales concurren al saneamiento fiscal de l
 
 (Decreto 1920 de 2011, artículo 23).
 
-ARTÍCULO
-
 ## art:2.1.1.1.3.7.2 — Bienes inmuebles fiscales con vocación para el desarrollo o construcción de proyectos de vivienda de interés social
 
 Se entienden cómo bienes inmuebles fiscales con vocación para la destinación o construcción de proyectos de vivienda de interés social urbana, los predios o porción de ellos, ubicados en suelo urbano o de expansión urbana, con disponibilidad de servicios públicos, que puedan destinarse al desarrollo de programas de vivienda de interés social, de conformidad con las normas sobre usos del suelo adoptadas en el respectivo Plan de Ordenamiento Territorial o en los instrumentos que lo desarrollen y complementen, así cómo aquellos que tengan una clasificación de uso diferente al residencial y que por sus características sean propicios para el desarrollo de proyectos de vivienda.
@@ -3473,8 +3137,6 @@ Se entienden cómo bienes inmuebles fiscales con vocación para la destinación 
 Cuando los bienes inmuebles fiscales de que trata el presente artículo hayan sido clasificados con un uso diferente al residencial, las autoridades locales correspondientes determinarán las condiciones urbanísticas para el desarrollo de los programas de vivienda de interés social de que trata el presente decreto.
 
 (Decreto 3111 de 2004, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.1.1.3.7.3 — Remisión normativa
 
@@ -3486,15 +3148,11 @@ SECCIÓN 4
 
 SUBSIDIO FAMILIAR DE VIVIENDA MADRES COMUNITARIAS
 
-ARTÍCULO
-
 ## art:2.1.1.1.4.1 — Objeto
 
 La presente sección reglamenta el acceso al subsidio familiar de vivienda de interés social para las madres comunitarias vinculadas a los programas de hogares comunitarios de Bienestar, Famis y Madres Sustitutas, previamente certificadas por el Instituto Colombiano de Bienestar Familiar y afiliadas a las Cajas de Compensación Familiar.
 
 (Decreto 0126 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.4.2 — Subsidio familiar de vivienda de interés social urbano a madres comunitarias
 
@@ -3502,23 +3160,17 @@ Para la presente reglamentación se entenderá por madres comunitarias a los hog
 
 (Decreto 0126 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.1.4.3 — Modalidad de subsidio familiar de vivienda
 
 Las madres comunitarias de Bienestar, Famis y Madres Sustitutas previamente certificadas por el Instituto Colombiano de Bienestar Familiar y afiliadas a las Cajas de Compensación Familiar podrán postularse para aplicar al subsidio familiar de vivienda de interés social en las modalidades de adquisición de vivienda nueva o usada, construcción en sitio propio, mejoramiento de vivienda, y mejoramiento para vivienda saludable.
 
 (Decreto 0126 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.1.4.4 — Requisitos de postulación
 
 Además del cumplimiento de los requisitos de postulación de que trata el artículo 2.1.1.1.1.3.3.1.1 del presente decreto, los hogares deberán presentar ante la entidad otorgante, la respectiva certificación expedida por el Instituto Colombiano de Bienestar Familiar en la que se acredite su vinculación a los programas de hogares comunitarios de Bienestar, Famis y Madres Sustitutas.
 
 (Decreto 0126 de 2013, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.1.4.5 — Valor y aplicación del subsidio familiar de vivienda
 
@@ -3530,8 +3182,6 @@ PARÁGRAFO . El subsidio familiar de vivienda de que trata la presente sección 
 
 (Decreto 0126 de 2013, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.1.1.4.6 — Mejoramiento de vivienda y mejoramiento para vivienda saludable
 
 La aplicación del subsidio familiar de vivienda asignado en la modalidad de mejoramiento y mejoramiento para vivienda saludable, deberá contemplar prioritariamente mejoras locativas internas, que permitan el acondicionamiento de los espacios físicos en donde funcionan los programas de madres comunitarias, así cómo la superación de alguna carencia.
@@ -3542,15 +3192,11 @@ PARÁGRAFO 2. El mejoramiento básico será el que atienda carencias tales cómo
 
 (Decreto 0126 de 2013, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.1.1.4.7 — Orientación y divulgación para acceder al subsidio familiar de vivienda para madres comunitarias
 
 Las Cajas de Compensación Familiar realizarán la orientación, divulgación y debida comunicación a los hogares de las madres comunitarias con el fin de identificar la idoneidad de los oferentes que realizarán las obras de mejoramiento, los avalúos a las viviendas usadas y visita a las viviendas para que contribuya a la debida aplicación del subsidio familiar de vivienda.
 
 (Decreto 0126 de 2013, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.1.1.4.8 — Remisión
 
@@ -3562,8 +3208,6 @@ SECCIÓN 5
 
 SUBSIDIO FAMILIAR DE VIVIENDA PARA RECICLADORES
 
-ARTÍCULO
-
 ## art:2.1.1.1.5.1 — Beneficiarios
 
 Podrán ser beneficiarios del subsidio familiar de vivienda de interés social urbano de que trata la presente sección, los hogares conformados por dos o más personas que integren el mismo grupo familiar, cuando al menos uno de sus miembros desarrolle actividades de recuperación, tratamiento o aprovechamiento de residuos reciclables, perteneciendo a Cooperativas de Trabajo Asociado u otro tipo de grupos y asociaciones reconocidas por la ley que tengan una existencia mínima de tres años, cuyo objeto único sea la recuperación, el tratamiento y el aprovechamiento de residuos reciclables.
@@ -3574,8 +3218,6 @@ PARÁGRAFO 2. Para efectos de verificar la información de los postulantes que p
 
 (Decreto 2778 de 2008, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.1.5.2 — Postulación
 
 Los hogares postulantes deberán anexar los documentos señalados en el artículo 2.1.1.1.1.3.3.1.1 del presente decreto o las normas que lo complementen, modifiquen, adicionen o sustituyan y adjuntar certificación del representante legal del grupo, asociación o Cooperativa de Trabajo Asociado, cuyo objeto único sea la recuperación, el tratamiento y aprovechamiento de residuos reciclables, en la que conste que por lo menos un miembro del hogar ostenta la condición de recuperador de residuos reciclables, desempeñándose en las labores de recuperación, tratamiento o aprovechamiento de los mismos y que se encuentra vinculado a dicho grupo, asociación o Cooperativa de Trabajo Asociado con una anterioridad mínima de tres (3) años.
@@ -3583,8 +3225,6 @@ Los hogares postulantes deberán anexar los documentos señalados en el artícul
 PARÁGRAFO . Las personas naturales o jurídicas, que suministren información o documentos falsos, incurrirán en las sanciones legales a que haya lugar, conforme a la normativa vigente.
 
 (Decreto 2778 de 2008, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.1.5.3 — Valor del Subsidio Familiar de Vivienda
 
@@ -3594,15 +3234,11 @@ En todo caso, para dar cumplimiento a lo dispuesto en el artículo 86 de la Ley 
 
 (Decreto 2778 de 2008, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.1.5.4 — Aplicación del subsidio
 
 El subsidio familiar de vivienda de interés social urbano de que trata esta sección se podrá aplicar a proyectos de vivienda, en las modalidades de adquisición de vivienda nueva o usada, construcción en sitio propio y mejoramiento de vivienda, dentro del respectivo departamento, de conformidad con lo señalado en el formulario de postulación.
 
 (Decreto 2778 de 2008, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.1.5.5 — Aplicación de la sección 2.1.1.1.1 del presente decreto
 
@@ -3618,15 +3254,11 @@ SUBSECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.1.1.1.6.1.1 — Subsidio Familiar de Vivienda vinculado a Macroproyectos de Interés Social Nacional
 
 El Subsidio Familiar de Vivienda que reglamenta la presente sección se otorga únicamente para la adquisición de vivienda nueva en los Macroproyectos de Interés Social Nacional que sean adoptados por el Ministerio de Vivienda, Ciudad y Territorio.
 
 (Decreto 3450 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.6.1.2 — Recursos aportados a los Macroproyectos de Interés Social Nacional
 
@@ -3637,8 +3269,6 @@ El Fondo Nacional de Vivienda 'FONVIVIENDA' y las entidades públicas legalmente
 SUBSECCIÓN 2
 
 APLICACIÓN DE SUBSIDIOS FAMILIARES DE VIVIENDA EN MACROPROYECTOS DE INTERÉS SOCIAL NACIONAL
-
-ARTÍCULO
 
 ## art:2.1.1.1.6.2.1 — Aplicación de Subsidios Familiares de Vivienda en Macroproyectos de Interés Social Nacional
 
@@ -3658,8 +3288,6 @@ Adicionalmente, en el evento de cobro contra escritura, la entidad financiera de
 
 (Decreto 3450 de 2009, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.1.6.2.2 — Elegibilidad del Macroproyecto de Interés Social Nacional
 
 Para todos los efectos, la Licencia de Construcción del Macroproyecto, o de sus etapas, hará las veces de elegibilidad del mismo.
@@ -3669,8 +3297,6 @@ Para todos los efectos, la Licencia de Construcción del Macroproyecto, o de sus
 SUBSECCIÓN 3
 
 ASIGNACIÓN DE SUBSIDIOS FAMILIARES DE VIVIENDA EN LOS MACROPROYECTOS DE INTERÉS SOCIAL NACIONAL
-
-ARTÍCULO
 
 ## art:2.1.1.1.6.3.1 — Postulación
 
@@ -3686,8 +3312,6 @@ PARÁGRAFO 3. La asignación de los Subsidios Familiares de Vivienda por parte d
 
 (Decreto 3450 de 2009, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.1.1.6.3.2 — Criterios de priorización
 
 Una vez calificadas las postulaciones de los hogares, se dará prioridad a la asignación del Subsidio Familiar de Vivienda en los Macroproyectos, a los hogares postulados de acuerdo con los siguientes criterios, quienes en todo caso, deberán acreditar el cierre para acceder a la solución habitacional respectiva:
@@ -3697,8 +3321,6 @@ Una vez calificadas las postulaciones de los hogares, se dará prioridad a la as
 2. Los hogares objeto de reasentamiento, de acuerdo con certificación del alcalde municipal refrendada por el CLOPAD y que se encuentren ubicados en el mismo municipio en que se desarrollará el Macroproyecto de Interés Social Nacional. En todo caso, si el Macroproyecto desde su adopción tiene cómo criterio la reubicación o reasentamiento de hogares por zona de riesgo, podrá destinarse el 100% de los Subsidios Familiares de Vivienda para este fin.
 
 (Decreto 3450 de 2009, artículo 6).
-
-ARTÍCULO
 
 ## art:2.1.1.1.6.3.3 — Monto del Subsidio Familiar de Vivienda
 
@@ -3712,8 +3334,6 @@ PARÁGRAFO . Excepcionalmente podrá superarse el valor max1mo antes señalado, 
 
 (Decreto 3450 de 2009, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.1.6.3.4 — Vigencia del Subsidio Familiar de Vivienda
 
 La vigencia del Subsidio Familiar de Vivienda que se reglamenta por la presente sección, es de un (1) año, contado a partir de la expedición del acto administrativo de asignación, el cuál puede ser prorrogado por el Fondo Nacional de Vivienda, mediante resolución.
@@ -3721,8 +3341,6 @@ La vigencia del Subsidio Familiar de Vivienda que se reglamenta por la presente 
 En todo caso, vencido el plazo de vigencia del Subsidio Familiar de Vivienda, sin que el hogar beneficiario haya comparecido a suscribir la correspondiente escritura pública, se entenderá que ha desistido de la asignación de dicho subsidio y en este evento se podrá asignar el Subsidio Familiar de Vivienda al hogar que lo suceda en estricto orden de ubicación, mediante resolución motivada expedida por 'FONVIVIENDA', siempre y cuando dicho hogar ratifique su interés en recibir el Subsidio a través del respectivo Macroproyecto.
 
 (Decreto 3450 de 2009, artículo 8).
-
-ARTÍCULO
 
 ## art:2.1.1.1.6.3.5 — Legalización del Subsidio Familiar de Vivienda
 
@@ -3736,8 +3354,6 @@ Legalizados el total de los subsidios familiares de vivienda, vinculados a cada 
 
 (Decreto 3450 de 2009, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.1.6.3.6 — Recursos del FOVIS vinculado a Macroproyectos de Interés Social Nacional
 
 Los hogares que se encuentren vinculados a las Cajas de Compensación Familiar, podrán acceder al Subsidio Familiar de Vivienda que otorgan estas para la adquisición de vivienda nueva en los Macroproyectos que hayan sido adoptados por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, hoy Ministerio de Vivienda, Ciudad y Territorio.
@@ -3747,8 +3363,6 @@ Los subsidios otorgados por las Cajas de Compensación Familiar a los beneficiar
 PARÁGRAFO . En el evento de no ejecutarse la solución habitacional vinculada al respectivo Macroproyecto, por causas no atribuibles al hogar beneficiario, el patrimonio autónomo girará a la Caja de Compensación Familiar, el monto del Subsidio Familiar de Vivienda, girado anticipadamente, junto con sus rendimientos generados a la fecha de liquidación para su devolución.
 
 (Decreto 3450 de 2009, artículo 10).
-
-ARTÍCULO
 
 ## art:2.1.1.1.6.3.7 — 3.7
 
@@ -3760,8 +3374,6 @@ SECCIÓN 7
 
 SUBSIDIO FAMILIAR DE VIVIENDA CONCEJALES
 
-ARTÍCULO
-
 ## art:2.1.1.1.7.1 — Campo de aplicación
 
 La presente sección se aplica al proceso de asignación del subsidio familiar de vivienda de interés social urbano, que otorgan el Fondo Nacional de Vivienda y las Cajas de Compensación Familiar, para atender al hogar que tenga cómo miembro a concejales que pertenezcan a municipios de categorías 4, 5 y 6, según lo dispuesto en la Ley 617 de 2000; priorizando la asignación de los subsidios a los concejales de los municipios de categoría sexta, siempre y cuando exista disponibilidad de recursos.
@@ -3769,8 +3381,6 @@ La presente sección se aplica al proceso de asignación del subsidio familiar d
 En todo caso, para dar cumplimiento a lo dispuesto en el artículo 86 de la Ley 1151 de 2007, las entidades públicas, incluidas las entidades territoriales, sólo podrán invertir recursos en vivienda de interés social prioritario.
 
 (Decreto 740 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.7.2 — Postulantes
 
@@ -3782,15 +3392,11 @@ PARÁGRAFO . Los hogares postulantes deberán anexar, además de los documentos 
 
 (Decreto 740 de 2008, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.1.7.3 — Aplicación del subsidio
 
 El subsidio familiar de vivienda de interés social urbano de que trata la presente sección se podrá aplicar en las modalidades de adquisición de vivienda nueva o usada, construcción en sitio propio y mejoramiento de vivienda, dentro del departamento donde se realizó la postulación.
 
 (Decreto 740 de 2008, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.7.4 — Valor del subsidio familiar de vivienda
 
@@ -3798,15 +3404,11 @@ El monto del subsidio familiar de vivienda que se otorgará, por una sola vez, a
 
 (Decreto 740 de 2008, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.1.1.7.5 — Atención prioritaria
 
 Los hogares postulados y calificados, que participen en la Bolsa Especial para Concejales, podrán ser atendidos de manera prioritaria hasta completar la totalidad de la asignación de dichos hogares, de conformidad con el procedimiento que para el efecto establezca el Ministerio de Vivienda, Ciudad y Territorio.
 
 (Decreto 740 de 2008, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.1.7.6 — Aplicación de la sección 2.1.1.1.1 del presente decreto
 
@@ -3822,8 +3424,6 @@ SUBSECCIÓN 1
 
 SUBSIDIO FAMILIAR DE VIVIENDA URBANO Y RURAL OTORGADO POR EL FONDO NACIONAL DE VIVIENDA Y POR EL BANCO AGRARIO DE COLOMBIA S.A.
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.1.1 — Campo de aplicación
 
 La presente subsección se aplica a los procesos de postulación, asignación y aplicación del Subsidio Familiar de Vivienda Urbano y Rural que otorga, respectivamente, el Fondo Nacional de Vivienda y el Banco Agrario de Colombia S.A., para la atención de hogares que han perdido la totalidad de su vivienda o esta ha sido afectada cómo consecuencia de una situación de desastre, calamidad pública o emergencia, debiendo para el efecto estar debidamente incluidas en los censos oficiales que con ocasión de estos hechos emita el Comité Local de Prevención y Atención de Desastres, avalados por el Comité Regional de Prevención y Atención de Desastres y refrendados por la Dirección de Prevención y Atención de Desastres del Ministerio del Interior.
@@ -3837,8 +3437,6 @@ En todo caso, si al vencimiento del plazo de que trata el inciso anterior, la en
 Los terrenos en los cuáles se desarrollen los proyectos podrán ser de propiedad de la entidad territorial o de particulares vinculados jurídicamente con el municipio para tal fin.
 
 (Decreto 2480 de 2005, artículo 1; Modificado por el Decreto 4587 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.1.2 — Valor del subsidio familiar de vivienda urbano y rural
 
@@ -3866,8 +3464,6 @@ PARÁGRAFO 3. Cuando los recursos para la construcción de proyectos de vivienda
 
 (Decreto 2480 de 2005, artículo 2; Modificado por el Decreto 4587 de 2008, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.1.3 — Beneficiarios
 
 Para efectos de la aplicación de esta subsección, se consideran beneficiarios los hogares propietarios, poseedores u ocupantes conformados por una o más personas que integren el mismo grupo familiar, cuya solución habitacional se haya visto afectada por situaciones de desastre, calamidad o emergencia debidamente declaradas por las autoridades competentes y que se encuentren incluidos en los censos oficiales que con ocasión de estos hechos, emita el Comité Local de Prevención y Atención de Desastres avalados por el Comité Regional de Prevención y Atención de Desastres y refrendados por la Dirección de Prevención y Atención de Desastres del Ministerio del Interior.
@@ -3875,8 +3471,6 @@ Para efectos de la aplicación de esta subsección, se consideran beneficiarios 
 PARÁGRAFO . La postulación para el subsidio familiar de vivienda en la modalidad de adquisición de vivienda nueva o usada, sólo aplicará para los casos en que la vivienda afectada con ocasión de la situación de desastre, calamidad o emergencia, no pueda ser objeto de mejoramiento o de construcción en sitio propio.
 
 (Decreto 2480 de 2005, artículo 3; Modificado por el Decreto 4587 de 2008, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.1.4 — Requisitos y documentos para la postulación
 
@@ -3892,8 +3486,6 @@ PARÁGRAFO 2. La postulación al Subsidio Familiar de Vivienda Rural se deberá 
 
 (Decreto 2480 de 2005, artículo 4; Modificado por el Decreto 4587 de 2008, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.1.5 — Asignación del subsidio familiar de vivienda urbano y rural
 
 Los hogares postulantes serán objeto de asignación previo el cumplimiento de los requisitos establecidos en esta subsección así:
@@ -3903,8 +3495,6 @@ Los hogares postulantes serán objeto de asignación previo el cumplimiento de l
 5.2 Para el subsidio familiar de vivienda rural, la asignación se realizará de conformidad con lo establecido en el Decreto Único del Sector de Agricultura y Desarrollo Rural.
 
 (Decreto 2480 de 2005, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.1.6 — Condiciones para la aplicación del subsidio familiar de vivienda urbano y rural
 
@@ -3958,8 +3548,6 @@ Para este programa se aplicará lo dispuesto en el Decreto Único del Sector de 
 
 (Decreto 2480 de 2005, artículo 6)
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.1.7 — Planes de vivienda urbana y rural
 
 Para el caso de planes de vivienda urbanos, se entienden cómo aquellas soluciones de vivienda de interés social urbanas subsidiables o el conjunto de ellas, dentro de las modalidades de adquisición de vivienda nueva o usada, construcción en sitio propio o mejoramiento, establecidas en el artículo anterior, desarrollados por oferentes que cumplan con las normas legales vigentes que le sean aplicables. En los casos de construcción en sitio propio y mejoramiento de vivienda, las soluciones pueden ser nucleadas o dispersas, objeto de una o varias licencias de construcción.
@@ -3969,8 +3557,6 @@ Para los proyectos de Vivienda de Interés Social Rural establecidos en la prese
 PARÁGRAFO . Para aquellos planes de vivienda urbanos que atiendan a población afectada por situaciones de desastre o situación de calamidad pública o emergencia, la cuál se encuentre incluida en los censos oficiales que con ocasión de estos hechos, emita el Comité Local de Prevención y Atención de Desastres avalados por el Comité Regional de Prevención y Atención de Desastres y refrendados por la Dirección de Prevención y Atención de Desastres del Ministerio del Interior, la elegibilidad se entenderá dada por la licencia de construcción en los planes de vivienda formulados por las entidades territoriales o los oferentes, presentados en las modalidades de adquisición de vivienda nueva, construcción en sitio propio o mejoramiento, sin importar la categoría que ostente el municipio. Todos los aspectos legales, técnicos y financieros que garanticen la viabilidad para la ejecución del plan de vivienda deben estar debidamente certificados por la entidad territorial.
 
 (Decreto 2480 de 2005, artículo 7; Modificado por el Decreto 4587 de 2008, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.1.8 — Aplicación de la sección 2.1.1.1.1 del presente decreto y del Decreto Único del Sector de Agricultura y Desarrollo Rural
 
@@ -3982,15 +3568,11 @@ SUBSECCIÓN 2
 
 SUBSIDIO FAMILIAR DE VIVIENDA URBANO Y RURAL OTORGADO POR CAJAS DE COMPENSACIÓN FAMILIAR
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.2.1 — Objeto
 
 La presente subsección reglamenta el proceso de postulación, asignación y desembolso del subsidio familiar de vivienda de interés social en dinero para áreas urbanas, que otorgan las Cajas de Compensación Familiar obligadas a constituir FOVIS para la atención prioritaria de los hogares afiliados que han perdido la totalidad de su solución de vivienda o que esta haya sido afectada cómo consecuencia de una situación de desastre, calamidad pública o emergencias que se presenten o puedan acaecer por eventos de origen natural y para aquellos que por causa de estas situaciones queden en condiciones de alto riesgo no mitigable.
 
 (Decreto 1694 de 2007, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.2.2 — Valor del subsidio familiar de vivienda urbano
 
@@ -4000,15 +3582,11 @@ PARÁGRAFO . En el departamento Archipiélago de San Andrés, Providencia y Sant
 
 (Decreto 1694 de 2007, artículo 2; Modificado por el Decreto 4587 de 2008, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.2.3 — Postulantes
 
 Podrán solicitar la asignación prioritaria del Subsidio Familiar de Vivienda de Interés Social Urbano, los hogares conformados por una o más personas afiliadas a las Cajas de Compensación Familiar que hayan perdido la totalidad de su vivienda o esta haya sido afectada cómo consecuencia de una situación de desastre, calamidad pública o emergencia que se presente o pueda acaecer por eventos de origen natural y para aquellos que por causa de estas situaciones queden en condición de zona de alto riesgo no mitigable conforme a lo dispuesto en la Ley 1523 de 2012.
 
 (Decreto 1694 de 2007, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.2.4 — Requisitos y documentos para la postulación
 
@@ -4022,23 +3600,17 @@ PARÁGRAFO . En caso de reubicación, para efectos del desembolso del subsidio f
 
 (Decreto 1694 de 2007, artículo 4; Modificado por el Decreto 4587 de 2008, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.2.5 — Criterios para la calificación y determinación de los puntajes de las postulaciones
 
 Para efectos de determinar el puntaje de calificación de cada postulación, se dará aplicación a lo dispuesto en los artículos 2.1.1.1.14.1.2 y 2.1.1.1.1.4.1.3 del presente decreto, sumando doscientos (200) puntos adicionales por encontrarse el hogar en situación de desastre, calamidad pública o emergencia que se presente o pueda acaecer por eventos de origen natural y en condiciones de alto riesgo no mitigable.
 
 (Decreto 1694 de 2007, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.1.1.8.2.6 — Desembolso del subsidio
 
 Para efectos del desembolso del subsidio, el hogar deberá aportar una certificación emitida por la entidad territorial en la que conste que el bien afectado quedó ubicado en zona de alto riesgo no mitigable por situación de desastre, calamidad pública o emergencia, con la consecuente restricción de uso y habitación, de conformidad con lo establecido en el parágrafo 3 del artículo 2.1.1.1.8.1.6.
 
 (Decreto 1694 de 2007, artículo 6).
-
-ARTÍCULO
 
 ## art:2.1.1.1.8.2.7 — Aspectos no regulados
 
@@ -4049,8 +3621,6 @@ En los aspectos no contemplados en esta normativa, se dará aplicación a lo dis
 SECCIÓN 9
 
 SUBSIDIO FAMILIAR DE VIVIENDA PARA AFECTADOS POR ATENTADOS TERRORISTAS
-
-ARTÍCULO
 
 ## art:2.1.1.1.9.1 — Subsidio para poseedores afectados por atentados terroristas
 
@@ -4068,8 +3638,6 @@ Para todos los demás eventos, se dará cumplimiento a lo establecido en los art
 
 (Decreto 4429 de 2005, artículo 13).
 
-ARTÍCULO
-
 ## art:2.1.1.1.9.2 — Subsidio al arrendamiento para población afectada por atentados terroristas
 
 Para el caso de los hogares damnificados por atentados terroristas, el desembolso del subsidio familiar de vivienda otorgado por el Fondo Nacional de Vivienda para el pago del arrendamiento de un inmueble, se realizará en instalamentos, durante un plazo máximo de 24 meses.
@@ -4086,15 +3654,11 @@ SECCIÓN 10
 
 SUBSIDIO FAMILIAR DE VIVIENDA POR HABILITACIÓN LEGAL DE TÍTULOS
 
-ARTÍCULO
-
 ## art:2.1.1.1.10.1 — Habilitación legal de títulos
 
 Se entiende cómo subsidio familiar de vivienda mediante la habilitación legal de títulos de que trata el artículo 5 de la Ley 3ª de 1991, la opción legal que faculta al tenedor de una vivienda de interés social a acceder al derecho de dominio de la misma, mediante resolución administrativa debidamente registrada, cuando esta se construyó ocupando un predio de propiedad de una entidad pública u ocupando un predio de propiedad privada y este fue adquirido posteriormente por una entidad pública, quedando con la calidad de un bien fiscal que permite la legalización del predio en cabeza de ese tenedor.
 
 (Decreto 3111 de 2004, artículo 6).
-
-ARTÍCULO
 
 ## art:2.1.1.1.10.2 — Requisitos
 
@@ -4120,8 +3684,6 @@ PARÁGRAFO . La entidad propietaria del inmueble dispondrá la publicación de u
 
 (Decreto 3111 de 2004, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.1.10.3 — Procedimiento excepcional de postulación, asignación y transferencia para la habilitación legal de títulos
 
 Se presentará el formulario de postulación ante FONVIVIENDA, para que efectúe la asignación en forma directa a cada familia ocupante, de conformidad con la reglamentación que se expedirá para el efecto.
@@ -4134,15 +3696,11 @@ SECCIÓN 11
 
 SUBSIDIO FAMILIAR DE VIVIENDA APLICADO A CONTRATOS DE LEASING HABITACIONAL
 
-ARTÍCULO
-
 ## art:2.1.1.1.11.1 — Aplicación
 
 La presente sección aplica al proceso de asignación del subsidio familiar de vivienda de interés social urbano, que otorgará el Gobierno Nacional, en la modalidad de leasing habitacional.
 
 (Decreto 0391 de 2012, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.1.11.2 — Subsidio familiar de vivienda en contratos de leasing habitacional
 
@@ -4151,8 +3709,6 @@ Es el subsidio familiar de vivienda al que los hogares de todos los municipios d
 La entidad otorgante del subsidio familiar de vivienda suscribirá convenios con las entidades autorizadas para realizar operaciones de leasing habitacional a fin de definir la operatividad de asignación y pago de los subsidios familiares de vivienda en contratos de leasing habitacional. El Ministerio de Vivienda, Ciudad y Territorio establecerá las condiciones y procedimientos para la suscripción de los convenios de que trata el presente artículo.
 
 (Decreto 0391 de 2012, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.1.11.3 — Postulación al subsidio familiar de vivienda
 
@@ -4164,8 +3720,6 @@ Para el acceso al subsidio familiar de vivienda no es necesario que el hogar cue
 
 (Decreto 0391 de 2012, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.1.11.4 — Focalización y valor del subsidio familiar de vivienda
 
 Los hogares de bajos ingresos accederán al subsidio familiar de vivienda en contratos de leasing habitacional, por los valores establecidos en el artículo 2.1.1.1.1.1.8 del presente decreto para la modalidad de adquisición de vivienda nueva o usada y el monto se determinará con base en el nivel de ingresos del hogar postulante.
@@ -4173,8 +3727,6 @@ Los hogares de bajos ingresos accederán al subsidio familiar de vivienda en con
 Las entidades autorizadas para el desarrollo de operaciones de leasing habitacional o ahorro programado contractual con la evaluación crediticia favorable con las que la entidad otorgante suscriba convenios, deberán informar a la entidad otorgante el nivel de ingresos del hogar postulante con base en los estudios realizados para determinar su capacidad de pago.
 
 (Decreto 0391 de 2012, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.1.11.5 — Aplicación del subsidio familiar de vivienda
 
@@ -4188,8 +3740,6 @@ PARÁGRAFO . En la asignación del subsidio familiar de vivienda en contratos de
 
 (Decreto 0391 de 2012, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.1.1.11.6 — Vigencia del subsidio
 
 La vigencia de los subsidios de vivienda de interés social otorgados de conformidad con la presente sección con cargo a recursos del Presupuesto Nacional es de doce (12) meses calendario contados desde el primer día del mes siguiente a la fecha de la publicación de la resolución de asignación y pueden ser prorrogados hasta por doce (12) meses más, prorrogados mediante resolución expedida por el Ministerio de Vivienda, Ciudad y Territorio.
@@ -4199,8 +3749,6 @@ Los subsidios familiares de vivienda otorgados por las Cajas de Compensación Fa
 PARÁGRAFO . En el caso de subsidios otorgados con cargo a recursos del Presupuesto Nacional, lo dispuesto en el presente artículo operará siempre y cuando exista disponibilidad de recursos y se dé cumplimiento a las normas del Estatuto Orgánico del Presupuesto.
 
 (Decreto 0391 de 2012, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.1.1.11.7 — Giro de los recursos
 
@@ -4212,23 +3760,17 @@ Los documentos necesarios para el desembolso de los recursos y las condiciones p
 
 (Decreto 0391 de 2012, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.1.1.11.8 — Restitución del subsidio en caso de no uso de la opción de compra
 
 En el caso en que el hogar beneficiario del subsidio familiar de vivienda deje de habitar en la solución de vivienda por incumplimiento del contrato de leasing, dentro del plazo de diez (10) años contados a partir de la fecha de expedición del documento que acredita su asignación, debe restituirse a la entidad otorgante, por parte de la entidad con quién el beneficiario del subsidio familiar de vivienda suscribió el contrato de leasing habitacional, en la proporción no utilizada del subsidio familiar de vivienda en lo que resta del contrato. El Ministerio de Vivienda, Ciudad y Territorio establecerá las condiciones y el procedimiento de restitución de que trata el presente artículo.
 
 (Decreto 0391 de 2012, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.1.11.9 — Subsidios por cajas de compensación familiar
 
 Las Cajas de Compensación Familiar podrán otorgar subsidios familiares de vivienda para ser aplicados en contratos de leasing habitacional celebrados con entidades autorizadas por la Superintendencia Financiera de Colombia para tal fin, de conformidad con la aprobación y directrices que impartan sus Consejos Directivos y el plan anual de ejecución de recursos del FOVIS, así cómo en aplicación de la presente sección, la subsección 6 de la sección 2.1.1.1.1 del presente decreto y las demás normas concordantes.
 
 (Decreto 0391 de 2012, artículo 10).
-
-ARTÍCULO
 
 ## art:2.1.1.1.11.10 — Aplicación de otros subsidios asignados
 
@@ -4240,8 +3782,6 @@ PARÁGRAFO . Los hogares beneficiarios del subsidio familiar de vivienda para po
 
 (Decreto 0391 de 2012, artículo 11).
 
-ARTÍCULO
-
 ## art:2.1.1.1.11.11 — Remisión y referencias normativas
 
 En lo no dispuesto en la presente sección dese cumplimiento a lo dispuesto en la sección 2.1.1.1.1 del presente decreto, en las normas del sector financiero del Decreto Único del Sector de Hacienda y Crédito Público y las demás normas concordantes, Todas las referencias que hagan las disposiciones legales vigentes a la Bolsa de Ahorro Voluntario Contractual con Evaluación Crediticia Favorable, deben entenderse referidas a la Bolsa para Postulaciones de Ahorro Programado Contractual con Evaluación Crediticia Favorable, Leasing Habitacional y Arrendamiento con Opción de Compra.
@@ -4251,8 +3791,6 @@ En lo no dispuesto en la presente sección dese cumplimiento a lo dispuesto en l
 SECCIÓN 12
 
 TRANSFERENCIA DE RECURSOS DEL SUBSIDIO FAMILIAR DE VIVIENDA A CUENTAS DE AHORRO
-
-ARTÍCULO
 
 ## art:2.1.1.1.12.1 — Transferencia del subsidio familiar de vivienda urbana a cuentas de ahorro
 
@@ -4272,23 +3810,17 @@ SECCIÓN 13
 
 SUBSIDIO FAMILIAR DE VIVIENDA PARA POBLACIÓN EN RUTA DE REINCORPORACIÓN
 
-## art:2 — 1.1.1.13.1
-
-Campo de aplicación. La presente sección reglamenta el acceso al subsidio familiar de vivienda urbana para adquisición de vivienda nueva, para hogares conformados por uno o más ex integrantes de las FARC- EP que se encuentren dentro de la ruta de reincorporación que lidera la Agencia para la Reincorporación y la Normalización (ARN) o la entidad que haga sus veces.
-
-ARTÍCULO
+ARTÍCULO 2 .1.1.1.13.1. Campo de aplicación. La presente sección reglamenta el acceso al subsidio familiar de vivienda urbana para adquisición de vivienda nueva, para hogares conformados por uno o más ex integrantes de las FARC- EP que se encuentren dentro de la ruta de reincorporación que lidera la Agencia para la Reincorporación y la Normalización (ARN) o la entidad que haga sus veces.
 
 ## art:2.1.1.1.13.2 — Monto del subsidio
 
-A los hogares que se encuentren conformados por uno o más ex integrantes de las FARC- EP que se encuentren dentro de la ruta de reincorporación que lidera la Agencia para la Reincorporación y la Normalización (ARN) o la entidad que haga sus veces, podrá asignárseles un subsidio de hasta treinta salarios mínimos legales mensuales vigentes (30 SMLMV) al momento de la solicitud de la asignación de que trata e/ ARTÍCULO
+A los hogares que se encuentren conformados por uno o más ex integrantes de las FARC- EP que se encuentren dentro de la ruta de reincorporación que lidera la Agencia para la Reincorporación y la Normalización (ARN) o la entidad que haga sus veces, podrá asignárseles un subsidio de hasta treinta salarios mínimos legales mensuales vigentes (30 SMLMV) al momento de la solicitud de la asignación de que trata e/
 
 ## art:2.1.1.4.1.5.1 — 
 
 2.1.1.4.1.5.1 del presente Decreto, previa certificación de esta condición por parte de la Agencia para la Reincorporación y la Normalización (ARN).
 
 Este subsidio únicamente podrá asignarse de manera complementada al establecido en el artículo 2.1.1.4.1.2.1 del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.1.13.3 — Condiciones
 
@@ -4298,13 +3830,9 @@ a.) Cumplir con la totalidad de los requisitos establecidos para el acceso al pr
 
 b.) Estar incluido dentro de los listados expedidos por la Agencia para la Reincorporación y la Normalización (ARN) cómo un hogar conformado por uno o más ex integrantes de las FARC EP en ruta de reincorporación.
 
-ARTÍCULO
-
 ## art:2.1.1.1.13.4 — Operación
 
 La asignación del subsidio familiar de vivienda de que trata la presente sección, así cómo su desembolso, legalización, renuncia y restitución cuando aplique, se hará de conformidad con el esquema de operación establecido para el programa Mi Casa Ya, dispuesto en el capítulo 4 del título 1 de la parte 1 del libro 2 del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.1.13.5 — Listado de potenciales beneficiarios
 
@@ -4312,15 +3840,11 @@ Corresponde a la Agencia para la Reincorporación y la Normalización (ARN), efe
 
 El tratamiento de la información remitida se debe realizar en cumplimiento de la Ley Estatutaria 1581 de 2012 y sus decretos reglamentarios. Se deberá dar especial cumplimiento a las condiciones de seguridad y privacidad de la información de los titulares con fundamento en lo establecido en el literal i) del artículo 17 de la Ley Estatutaria 1581 de 2012.
 
-ARTÍCULO
-
 ## art:2.1.1.1.13.6 — Definición de cupos
 
 El Fondo Nacional de Vivienda - FONVIVIENDA definirá mediante acto administrativo motivado, el número de subsidios familiares de vivienda a asignar bajo la modalidad dispuesta en la presente sección. Esta definición estará condicionada a la disponibilidad de los recursos de que trata el artículo
 
 2.1.1. 4.1.1.2. del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.1.13.7 — Ajuste al marco fiscal
 
@@ -4338,15 +3862,11 @@ SUBSECCIÓN 1
 
 GENERALIDADES DEL SUBSIDIO FAMILIAR DE VIVIENDA EN ESPECIE
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.1.1 — Objeto
 
 La presente sección reglamenta la metodología para la focalización, identificación y selección de los hogares potencialmente beneficiarios del subsidio familiar de vivienda 100% en especie (SFVE), así cómo los criterios para la asignación y legalización del referido subsidio, en el marco del programa de vivienda gratuita dirigido a los hogares de que trata el artículo 12 de la Ley 1537 de 2012.
 
 (Decreto 1921 de 2012, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.1.2 — Definiciones
 
@@ -4378,23 +3898,17 @@ Proyectos indemnizados, en incumplimiento o paralizados: Situaciones administrat
 
 (Decreto 2231 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.1.3 — Cobertura
 
 El subsidio familiar de vivienda en especie de qué trata esta sección tendrá cobertura nacional en suelo urbano y se aplica a todas las zonas definidas cómo suelo urbano en los Planes de Ordenamiento Territorial de cada municipio del país.
 
 (Decreto 1921 de 2012, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.1.4 — Criterios de definición de composición poblacional
 
 El Fondo Nacional de Vivienda, mediante acto administrativo establecerá los criterios que le permitan definir el porcentaje de población beneficiaria para cada grupo de población de que trata el artículo 12 de la Ley 1537 de 2012, con el fin de determinar la composición poblacional de cada proyecto de vivienda que se desarrolle en el marco del programa de vivienda gratuita.
 
 (Decreto 1921 de 2012, artículo 4; Modificado por el Decreto 2164 de 2013, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.1.5 — 1.5
 
@@ -4407,8 +3921,6 @@ PARÁGRAFO . El tiempo de entrega del listado de potenciales beneficiarios podr�
 SUBSECCIÓN 2
 
 IDENTIFICACIÓN, SELECCIÓN Y POSTULACIÓN DE POTENCIALES BENEFICIARIOS
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.2.1 — Identificación de potenciales beneficiarios
 
@@ -4438,8 +3950,6 @@ Los alcaldes municipales y distritales entregarán al DPS para su revisión e in
 
 (Decreto 1921 de 2012, artículo 6; Modificado por el Decreto 2164 de 2013, artículo
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.2.2 — Identificación de hogares potenciales beneficiarios
 
 El DPS realizará la identificación de los potenciales beneficiarios del SFVE teniendo en cuenta los porcentajes de composición poblacional del proyecto y atendiendo los criterios de priorización que se determinen en la presente sección.
@@ -4447,8 +3957,6 @@ El DPS realizará la identificación de los potenciales beneficiarios del SFVE t
 En caso que el número de viviendas a asignar para los grupos de población I y III exceda el número de hogares potenciales beneficiarios de la Red Unidos, en el respectivo orden de priorización, el DPS verificará en segundo lugar a los hogares que estén incluidos en la base SISBÉN III, de acuerdo a los puntos de corte que establezca el DPS por resolución.
 
 (Decreto 1921 de 2012, artículo 7; Modificado por el Decreto 2164 de 2013, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.2.3 — Criterios de organización de los grupos poblacionales
 
@@ -4494,8 +4002,6 @@ PARÁGRAFO 3. La clasificación de los hogares en condición de desplazamiento q
 
 (Decreto 2231 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.2.4 — Listados de hogares potenciales beneficiarios
 
 El DPS comunicará a FONVIVIENDA, la resolución que contenga la relación de los hogares potencialmente beneficiarios para cada proyecto de vivienda propendiendo para que en cada proyecto haya al menos el 150% de población potencial beneficiaria de cada grupo de población.
@@ -4508,8 +4014,6 @@ PARÁGRAFO 2. Si una vez realizados 2 procedimientos de convocatoria y postulaci
 
 (Decreto 1921 de 2012, artículo 9; Modificado por el Decreto 2164 de 2013, artículo
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.2.5 — Convocatoria
 
 FONVIVIENDA, mediante acto administrativo, dará apertura a una convocatoria inicial para los hogares potencialmente beneficiarios en condición de desplazamiento que hayan sido beneficiarios de un subsidio familiar de vivienda urbano asignado por FONVIVIENDA que se encontraban vinculados en proyectos indemnizados, en incumplimiento o paralizados, cuya ejecución no pueda ser concluida; los hogares potencialmente beneficiarios en condición de desplazamiento que hayan sido beneficiarios de un subsidio familiar de vivienda urbano asignado por FONVIVIENDA que se encuentre sin aplicar; y los hogares desplazados que se encuentren en estado "Calificado" en el sistema de información del subsidio familiar de vivienda administrado por FONVIVIENDA, de acuerdo con los listados contenidos en el acto administrativo de priorización emitido por el Departamento Administrativo para la Prosperidad Social, para su postulación ante FONVIVIENDA o el operador que este designe, y durante el término establecido por FONVIVIENDA mediante resolución.
@@ -4519,8 +4023,6 @@ Cerrada la convocatoria inicial, FONVIVIENDA, mediante acto administrativo, dar�
 PARÁGRAFO . Cuando transcurra un término superior a 6 meses contados a partir de la expedición del listado de potenciales beneficiarios respectivo, por parte del Departamento Administrativo para la Prosperidad Social, sin que se haya dado apertura a la convocatoria inicial, se deberá surtir nuevamente el proceso descrito en la presente sección a cabalidad.
 
 (Decreto 2231 de 2017, art. 3)
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.2.6 — Postulación
 
@@ -4538,8 +4040,6 @@ PARÁGRAFO . El formulario de postulación será impreso por parte del operador 
 
 (Decreto 1921 de 2012, artículo 11; Modificado por el Decreto 2726 de 2014, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.2.7 — Verificación de la información
 
 Antes de concluir el proceso de asignación del SFVE, el Fondo Nacional de Vivienda -FONVIVIENDA- tendrá la facultad de revisar en cualquier momento la consistencia y/o veracidad de la información suministrada por el postulante. Si se determina que existe imprecisión o falta de veracidad en los datos suministrados en el formulario de postulación y/o en los documentos que lo acompañan, o en las condiciones o requisitos del hogar, se solicitará al postulante emitir las aclaraciones del caso, para lo cuál se otorgará un término por parte de la entidad que realice el proceso de verificación. Si dentro del plazo establecido no se subsanan las imprecisiones o se aclaran las presuntas irregularidades que se presenten, se rechazarán las postulaciones presentadas.
@@ -4549,8 +4049,6 @@ Antes de concluir el proceso de asignación del SFVE, el Fondo Nacional de Vivie
 PARÁGRAFO . La información actualizada de residencia de los hogares en condición de desplazamiento que hayan sido beneficiarios de un subsidio familiar de vivienda urbano asignado por FONVIVIENDA que se encontraban vinculados en proyectos indemnizados, en incumplimiento o paralizados, cuya ejecución no pueda ser concluida; los hogares potencialmente beneficiarios en condición de desplazamiento que hayan sido beneficiarios de un subsidio familiar de vivienda urbano asignado por FONVIVIENDA que se encuentre sin aplicar; y los hogares desplazados que se encuentren en estado "Calificado" en el sistema de información del subsidio familiar de vivienda administrado por FONVIVIENDA, deberá ser remitida por la UARIV al Departamento Administrativo para la Prosperidad Social, cómo entidad encargada de la conformación del listado de hogares postulantes que cumplen requisito para ser beneficiarios del SFVE, con fundamento en la información actualizada en el RUV, con anterioridad a la selección de hogares beneficiarios del SFVE
 
 (Parágrafo adicionado por el Decreto 2231 de 2017, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.2.8 — Efectos de la falsedad o imprecisión en la información
 
@@ -4563,8 +4061,6 @@ En cualquiera de los casos señalados en este artículo, ninguno de los miembros
 (Modificado por el Art. 6 del Decreto 739 de 2021)
 
 (Decreto 1921 de 2012, artículo 13).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.2.9 — Rechazo de la postulación
 
@@ -4591,8 +4087,6 @@ En este caso, para la asignación del subsidio familiar vivienda de que trata ar
 SUBSECCIÓN 3
 
 SELECCIÓN DE HOGARES BENEFICIARIOS
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.3.1 — Proceso de selección de hogares beneficiarios del SFVE
 
@@ -4678,8 +4172,6 @@ Si el alcalde municipal no se pronuncia respecto de la solicitud a que se refier
 
 (Decreto 2231 de 2017, art. 5)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.3.2 — Condiciones para sorteo
 
 Modificado por Decreto 2411 de 2015 En los casos en los que deba realizarse el sorteo, el DPS a través de resolución establecerá los mecanismos para surtir dicho procedimiento, el cuál se llevará a cabo en presencia de por lo menos tres (3) de los siguientes testigos:
@@ -4710,8 +4202,6 @@ SUBSECCIÓN 4
 
 ASIGNACIÓN DE SUBSIDIOS FAMILIARES DE VIVIENDA EN ESPECIE
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.4.1 — Asignación
 
 FONVIVIENDA expedirá el acto administrativo de asignación del subsidio familiar de vivienda en especie a los beneficiarios señalados en la resolución emitida por el DPS. La resolución de asignación por parte del Fondo Nacional de Vivienda será publicada en el Diario Oficial.
@@ -4721,8 +4211,6 @@ El Fondo Nacional de Vivienda comunicará a los hogares beneficiarios, a través
 PARÁGRAFO . Ni la entidad otorgante ni el DPS asumirán compromiso alguno con los postulantes que no queden incorporados en los listados de beneficiarios contenidos en la resolución de asignación.
 
 (Decreto 1921 de 2012, artículo 17; Modificado por el Decreto 2164 de 2013, artículo 11).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.4.2 — Determinación de la vivienda a ser transferida a título de subsidio en especie
 
@@ -4746,15 +4234,11 @@ Para el proceso de transferencia, entrega y legalización de los subsidios se te
 
 (Decreto 1921 de 2012, artículo 18; Modificado por el Decreto 2164 de 2013, artículo 12).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.4.3 — Asignaciones parciales
 
 El Fondo Nacional de Vivienda podrá efectuar asignaciones del SFVE, en un número inferior al total de viviendas a transferir en un determinado proyecto y hasta completar la totalidad de las mismas, de acuerdo al procedimiento que defina el Fondo Nacional de Vivienda para tal fin.
 
 (Decreto 1921 de 2012, artículo 19).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.4.4 — Reclamaciones
 
@@ -4762,15 +4246,11 @@ Los hogares postulantes que no resulten beneficiarios del SFVE, podrán interpon
 
 (Decreto 1921 de 2012, artículo 20).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.4.5 — Condiciones de transferencia de las viviendas
 
 Las condiciones de transferencia, entrega y/o legalización de los subsidios familiares de vivienda en especie asignados a los beneficiarios serán definidas por el Ministerio de Vivienda, Ciudad y Territorio.
 
 (Decreto 1921 de 2012, artículo 21).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.4.6 — Valor del subsidio familiar de vivienda en especie
 
@@ -4782,15 +4262,11 @@ PARÁGRAFO . En los departamentos de Amazonas, Guainía, San Andrés, Providenci
 
 (Decreto 1921 de 2012, artículo 22).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.4.7 — Vigencia del subsidio familiar de vivienda en especie
 
 La vigencia de los subsidios familiares de vivienda de que trata esta sección será de seis (6) meses contados desde el primer día del mes siguiente a la fecha de publicación de la resolución de asignación en el Diario Oficial y podrán ser prorrogados mediante resolución del Fondo Nacional de Vivienda.
 
 (Decreto 1921 de 2012, artículo 23).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.4.8 — Sustitución de hogares de subsidio familiar de vivienda
 
@@ -4802,8 +4278,6 @@ PARÁGRAFO . Si después de recurrir a los listados de espera y al sorteo, en lo
 
 (Decreto 1921 de 2012, artículo 24; Modificado por el Decreto 2164 de 2013, artículo 13).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.4.9 — Aplicación de subsidios familiares de vivienda asignados antes de la expedición de la ley 1537 de 2012
 
 Los hogares que resulten beneficiarios del SFVE de acuerdo con lo establecido en la presente sección, que adicionalmente hayan sido beneficiarios de Subsidios Familiares de Vivienda por parte del Fondo Nacional de Vivienda antes de la entrada en vigencia de la Ley 1537 de 2012 y que no hubieren realizado el proceso de cobro del subsidio y por ende no se hubiere aplicado y legalizado antes de su postulación de conformidad con lo establecido en esta sección, deberá aportar el subsidio asignado en dinero al patrimonio autónomo que le indique la entidad otorgante, para adquirir una vivienda a través del Subsidio Familiar de Vivienda en Especie en los proyectos de vivienda urbana de interés prioritaria nueva que se desarrollen en el marco del programa de vivienda gratuita. Una vez realizada la postulación, el hogar postulante que se encuentre en las condiciones señaladas en este artículo, no podrá aplicar ni legalizar el subsidio familiar de vivienda asignado en dinero, ni negarse a aportarlo para la adquisición del SFVE, so pena de la revocatoria de este último.
@@ -4812,15 +4286,11 @@ Para lograr el traslado de los recursos del subsidio asignado en dinero, el hoga
 
 (Decreto 1921 de 2012, artículo 25).
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.4.10 — Sustitución de hogares de subsidio familiar de vivienda en dinero
 
 Para el caso de los subsidios familiares de vivienda en dinero que cumplan con las condiciones establecidas en el artículo 24 de la Ley 1537 de 2012, las entidades otorgantes podrán efectuar la sustitución mediante acto administrativo a hogares postulados que cumplan con los requisitos establecidos en cada convocatoria, teniendo en cuenta el resultado del respectivo proceso.
 
 (Decreto 2164 de 2013, artículo 14).
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.4.11 — Transitorio
 
@@ -4832,15 +4302,11 @@ SECCIÓN 2
 
 VALOR VIVIENDA DE INTERÉS PRIORITARIO EN DEPARTAMENTOS ESPECIALES
 
-ARTÍCULO
-
 ## art:2.1.1.2.2.1 — Objeto
 
 La presente sección define el valor máximo que de manera diferencial podrán tener las viviendas de interés prioritario que se desarrollen en los departamentos de Amazonas, Guainía, San Andrés, Providencia y Santa Catalina, Putumayo, Chocó, Vaupés y Vichada.
 
 (Decreto 2490 de 2012, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.2.2.2 — Departamentos y valor de la vivienda de interés prioritario
 
@@ -4856,23 +4322,17 @@ SECCIÓN 3
 
 CONDICIONES DEL OFERENTE
 
-ARTÍCULO
-
 ## art:2.1.1.2.3.1 — Inhabilidades generales y especiales de los constructores u oferentes de proyectos de vivienda de interés prioritario
 
 En todo proceso que se adelante por parte de los patrimonios autónomos a los que hace referencia el artículo 6 de la Ley 1537 de 2012, con el fin de seleccionar interesados en desarrollar proyectos de vivienda o para adquirir proyectos de vivienda de interés prioritario, se exigirá que los proponentes no se encuentren incursos en causales de inhabilidad para contratar con el Estado de conformidad con las normas que regulan la contratación estatal ni hayan sido sancionados por incumplimientos contractuales relacionados con la construcción en los términos del numeral 2 del artículo 6 de la Ley 1537 de 2012, los cuáles se verificarán de acuerdo con lo establecido en la presente sección.
 
 (Decreto 2045 de 2012, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.2.3.2 — Inhabilidades generales para participar y celebrar contratos en las convocatorias a que se refiere la Ley 1537 de 2012
 
 En los procesos de convocatoria y selección de los interesados en desarrollar proyectos de vivienda y/o para la adquisición de proyectos de vivienda de interés prioritario no podrán participar las personas naturales o jurídicas que se encuentren incursas en causales de inhabilidad para celebrar contratos con el Estado previstas en la Constitución Política y la ley, en especial en el artículo 8 de la Ley 80 de 1993 y el artículo 90 de la Ley 1474 de 2011. Dichas inhabilidades se verificarán con la información contenida en el Registro Único de Proponentes a cargo de las Cámaras de Comercio.
 
 (Decreto 2045 de 2012, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.2.3.3 — Inhabilidades especiales por incumplimientos contractuales relacionados con la construcción
 
@@ -4886,8 +4346,6 @@ SECCIÓN 4
 
 CONDICIONES PARA REALIZAR APORTES A LOS PATRIMONIOS AUTÓNOMOS
 
-ARTÍCULO
-
 ## art:2.1.1.2.4.1 — Definición de grupos poblacionales por los aportantes del orden nacional a los fideicomisos
 
 Cuando, en ejercicio de la facultad otorgada por el artículo 8 de la Ley 1537 de 2012, cualquier entidad pública del orden nacional entregue bienes o transfiera directamente recursos a los patrimonios autónomos constituidos de conformidad con la misma norma, la entidad aportante de los bienes o recursos podrá definir los grupos de población beneficiaria de los proyectos de vivienda que se ejecuten con los recursos aportados, siempre y cuando se trate de población objeto de priorización y focalización, de conformidad con lo establecido en la ley.
@@ -4895,8 +4353,6 @@ Cuando, en ejercicio de la facultad otorgada por el artículo 8 de la Ley 1537 d
 La entidad pública del orden nacional, aportante de los bienes y recursos de acuerdo con lo señalado en este artículo, también podrá definir si los recursos se destinan a proyectos de vivienda de interés social urbana o rural, siempre que su naturaleza y funciones le permitan invertir en una y/u otra clase de suelo, sin embargo, la asignación de los subsidios familiares de vivienda deberá realizarla la entidad otorgante que tenga la competencia para el efecto, de acuerdo con sus funciones.
 
 (Decreto 1286 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.2.4.2 — Vinculación de otorgantes del subsidio familiar de vivienda rural a los fideicomisos
 
@@ -4911,8 +4367,6 @@ En ejercicio de sus funciones cómo fideicomitentes, las entidades a que hace re
 SECCIÓN 5
 
 DISPOSICIONES PARA NOTARIOS Y REGISTRADORES
-
-ARTÍCULO
 
 ## art:2.1.1.2.5.1 — Obligaciones de los notarios
 
@@ -4931,8 +4385,6 @@ PARÁGRAFO . Para los subsidios asignados con anterioridad al 14 de enero de 202
 (Modificado por el Art. 8 del Decreto 739 de 2021)
 
 (Decreto 1464 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.2.5.2 — Obligaciones de las oficinas de registro de instrumentos públicos
 
@@ -4960,8 +4412,6 @@ SUBSECCIÓN 1
 
 PRESENTACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.1.1 — Objeto
 
 La presente sección define las responsabilidades de los hogares beneficiarios del Subsidio Familiar de Vivienda en Especie - SFVE que se otorgue en el marco del Programa de Vivienda Gratuita que se encuentra implementando el Gobierno Nacional, al igual que desarrolla el procedimiento para la revocatoria de la asignación del mencionado subsidio y para la restitución de la titularidad de la vivienda de interés prioritaria asignada en los términos de la Ley 1537 de 2012.
@@ -4971,8 +4421,6 @@ La presente sección define las responsabilidades de los hogares beneficiarios d
 SUBSECCIÓN 2
 
 COMPROMISOS DE LOS POSTULANTES Y BENEFICIARIOS DEL SUBSIDIO FAMILIAR DE VIVIENDA 100% EN ESPECIE
-
-ARTÍCULO
 
 ## art:2.1.1.2.6.2.1 — Obligaciones de los postulantes para el subsidio familiar de vivienda en especie
 
@@ -4986,8 +4434,6 @@ Los hogares que se postulen a los procesos que se desarrollen de acuerdo con la 
 
 (Decreto 0847 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.2.2 — Trámite para verificar la información y la documentación
 
 El Fondo Nacional de Vivienda - FONVIVIENDA, podrá en cualquier momento revisar la consistencia y/o veracidad de la información y documentación suministrada por el hogar postulante.
@@ -4997,8 +4443,6 @@ Si se advierte la posible existencia de imprecisiones, presuntas falsedades, fal
 PARÁGRAFO . Los postulantes para el subsidio familiar de vivienda en especie aceptarán someterse a las condiciones de transferencia, entrega y legalización del SFVE definidas por el Ministerio de Vivienda, Ciudad y Territorio en la Resolución 937 del 28 de diciembre de 2012, las normas que la modifiquen, adicionen o sustituyan.
 
 (Decreto 0847 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.2.6.2.3 — Obligaciones de los beneficiarios del subsidio familiar de vivienda en especie (SFVE)
 
@@ -5032,8 +4476,6 @@ Los hogares que resulten beneficiados con la asignación de una vivienda de inte
 
 (Decreto 0847 de 2013, artículo 4; Modificado por el Decreto 2481 de 2014, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.2.4 — Eventos de fuerza mayor en que es posible enajenar derechos reales de la vivienda transferida o dejar de residir en ella
 
 El hogar beneficiario del SFVE podrá solicitar ante la entidad otorgante autorización para transferir cualquier derecho real o para dejar de residir en la solución de vivienda transferida, antes de haber transcurrido cinco (5) años desde la fecha de la transferencia, de conformidad con lo establecido en el artículo 8 de la Ley 3 de 1991 modificado por el artículo 13 de la Ley 2079 de 2021, cuando acredite ante la entidad otorgante circunstancias de fuerza mayor, de conformidad con el artículo 64 del Código Civil".
@@ -5050,8 +4492,6 @@ SUBSECCIÓN 3
 
 DEL INCUMPLIMIENTO DE LAS OBLIGACIONES ESTABLECIDAS EN EL PROGRAMA DE VIVIENDA GRATUITA
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.3.1 — Trámite frente a la inobservancia de las obligaciones en el proceso de transferencia de las viviendas
 
 El Fondo Nacional de Vivienda, FONVIVIENDA, verificará el cumplimiento de las obligaciones de los beneficiarios del subsidio familiar de vivienda en especie en el proceso de transferencia y entrega de las viviendas de interés prioritario.
@@ -5065,8 +4505,6 @@ Cuando el hogar beneficiario presente la justificación correspondiente, dentro 
 En el evento en que el beneficiario no atienda la nueva fecha o plazo señalado, o cuando en dicho término no cumpla las obligaciones establecidas para el reconocimiento, transferencia y entrega de la vivienda, se dará inicio al procedimiento de restitución del subsidio al que alude el artículo 2.1.1.2.6.3.3 de la presente sección.
 
 (Decreto 0847 de 2013, artículo 6)
-
-ARTÍCULO
 
 ## art:2.1.1.2.6.3.2 — 3.2
 
@@ -5088,8 +4526,6 @@ En cualquiera de los casos señalados en este artículo, ninguno de los miembros
 
 (Decreto 0847 de 2013, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.3.3 — Trámite para la revocatoria de la asignación
 
 El Fondo Nacional de Vivienda, FONVIVIENDA, revocará mediante acto administrativo la asignación del SFVE, en caso de verificar la ocurrencia de alguna o algunas de las causales previstas en el artículo 2.1.1.2.6.3.2 de la presente sección, previo desarrollo del procedimiento administrativo sancionatorio al que hace referencia el artículo 47 y siguientes del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, o las normas que lo modifiquen, adicionen o sustituyan.
@@ -5102,8 +4538,6 @@ PARÁGRAFO . Una vez surtido el proceso administrativo sancionatorio y encontrá
 
 (Decreto 0847 de 2013, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.3.4 — Condiciones de la restitución
 
 A más tardar dentro de los cinco (5) días hábiles siguientes a la ejecutoria del acto administrativo mediante el cuál el Fondo Nacional de Vivienda revoque el SFVE y ordene la restitución de la titularidad de la vivienda otorgada, por las causales señaladas en la presente sección, el hogar beneficiario deberá suscribir el acto de restitución de la vivienda, a la entidad otorgante del subsidio, así cómo el acta de entrega material respectiva, so pena de que se inicien las acciones policivas y/o judiciales a que haya lugar.
@@ -5114,8 +4548,6 @@ Las mejoras voluntarias realizadas en el inmueble restituido por el hogar benefi
 
 (Decreto 0847 de 2013, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.2.6.3.5 — Sanciones adicionales
 
 Cuando se compruebe que se recibió el beneficio del Subsidio Familiar de Vivienda en Especie de manera fraudulenta o utilizando documentos falsos, se solicitará a la autoridad competente el inicio de una investigación por el delito de Fraude en Subvenciones, conforme al artículo 403A de la Ley 599 de 2000, y de acuerdo con lo establecido en el parágrafo 2 del artículo 21 de la Ley 1537 de 2012.
@@ -5123,8 +4555,6 @@ Cuando se compruebe que se recibió el beneficio del Subsidio Familiar de Vivien
 Los beneficiarios que por sentencia ejecutoriada hubiesen sido condenados por haber presentado documento o información falsos con el objeto de resultar beneficiarios de un subsidio familiar de vivienda en especie, quedarán inhabilitados por el término de diez (10) años para volver a solicitarlo.
 
 (Decreto 0847 de 2013, artículo 10).
-
-ARTÍCULO
 
 ## art:2.1.1.2.6.3.6 — Sustitución del beneficiario del SFVE
 
@@ -5135,8 +4565,6 @@ Una vez concluido el procedimiento de revocatoria del SFVE y de restitución de 
 SUBSECCIÓN 4
 
 OTRAS DISPOSICIONES.
-
-ARTÍCULO
 
 ## art:2.1.1.2.6.4.1 — Solicitud de información
 
@@ -5156,15 +4584,11 @@ SUBSECCIÓN 1
 
 CRITERIO DE FOCALIZACIÓN PARA ACCESO AL SUBSIDIO FAMILIAR DE VIVIENDA PARA ÁREAS URBANAS EN ESPECIE A LOS HOGARES QUE TENGAN CÓMO MIEMBRO A DEPORTISTAS Y ENTRENADORES MEDALLISTAS
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.1.1 — Criterio de focalización
 
 Establézcase cómo criterio de focalización para el acceso al subsidio familiar de vivienda en especie para áreas urbanas de que trata la Ley 1537 de 2012, a los hogares que tengan cómo miembro del grupo familiar a deportistas y entrenadores medallistas que se encuentran en estado de vulnerabilidad por carecer de recursos y no contar con una solución habitacional digna que hayan representado a la República de Colombia en juegos olímpicos, juegos paralímpicos, juegos sordo-olímpicos, eventos del ciclo olímpico y paralímpico y campeonatos mundiales, con el fin de facilitar el acceso a una solución de vivienda.
 
 (Decreto 1772 de 2012, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.1.2 — Condiciones para el acceso al subsidio familiar de vivienda
 
@@ -5184,8 +4608,6 @@ PARÁGRAFO 2. La asignación del subsidio familiar de vivienda para áreas urban
 
 (Decreto 1772 de 2012, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.1.3 — Determinación de requisitos de acceso y aplicación de subsidio familiar de vivienda
 
 Los demás requisitos de acceso y aplicación del subsidio familiar de vivienda para áreas urbanas de que trata la presente subsección se efectuarán en los términos y condiciones que defina el Ministerio de Vivienda, Ciudad y Territorio, en coordinación con las demás entidades a que haya lugar.
@@ -5197,8 +4619,6 @@ SUBSECCIÓN 2
 (Subsección Modificada por Decreto 1335 de 2018, art. 1)
 
 CRITERIO DE FOCALIZACIÓN PARA EL ACCESO AL SUBSIDIO FAMILIAR DE VIVIENDA EN ESPECIE PARA ÁREAS URBANAS A LOS HOGARES QUE TENGAN CÓMO MIEMBRO DEL GRUPO FAMILIAR A UN INTEGRANTE DE LA FUERZA PÚBLICA, QUE SE ENCUENTRE EN ESTADO DE VULNERABILIDAD Y NO CUENTE CON UNA SOLUCIÓN HABITACIONAL
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.2.1 — Criterio de focalización
 
@@ -5220,15 +4640,11 @@ d) Que se cumplan las condiciones de acceso determinadas por el artículo 2.1.1.
 
 (Decreto 1335 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.2.2 — Hogar objeto del subsidio familiar 100% de vivienda en especie
 
 Para la presente reglamentación se entenderá por hogar objeto del Subsidio Familiar 100% de Vivienda en Especie a una o más personas que integren el mismo grupo familiar, unidas o no por vínculos de parentesco, incluidos los cónyuges y las uniones maritales de hecho, incluyendo las parejas del mismo sexo, que compartan un mismo espacio habitacional.
 
 (Decreto 1335 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.2.3 — Condiciones para acceso
 
@@ -5244,15 +4660,11 @@ El Ministerio de Defensa Nacional a través del Viceministro del Grupo Social Em
 
 (Decreto 1335 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.2.4 — Selección de hogares
 
 La relación de integrantes de la Fuerza Pública, activos o retirados. que hayan sido heridos en combate, o cómo consecuencia de la acción del enemigo, o en actos meritorios del servicio, y/o cómo consecuencia de actos del servicio o por causas inherentes al mismo, potenciales beneficiarios del subsidio familiar de vivienda en especie de que trata la presente subsección será remitida por el Ministerio de Defensa Nacional al Fondo Nacional de Vivienda (FONVIVIENDA).
 
 (Decreto 1335 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.2.5 — Asignación y aplicación del subsidio familiar de vivienda en especie
 
@@ -5266,13 +4678,9 @@ CRITERIO DE FOCALIZACIÓN PARA EL ACCESO AL SUBSIDIO FAMILIAR DE VIVIENDA PARA �
 
 (ADICIONADO POR ART. DECRETO 1385 DE 2016)
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.3.1 — Criterio de focalización
 
 Establézcase cómo criterio de focalización para el acceso al subsidio familiar de vivienda en especie para áreas urbanas de que trata la Ley 1537 de 2012, a los hogares que pertenezcan a pueblos y comunidades indígenas en atención a su situación de vulnerabilidad, con el fin de facilitar el acceso a una solución habitacional en condiciones dignas y adecuadas a su cultura, usos y costumbres.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.3.2 — Condiciones Especiales de las viviendas
 
@@ -5281,8 +4689,6 @@ En el marco de la presente subsección podrán adelantarse convocatorias especia
 El Ministerio de Vivienda, Ciudad y Territorio definirá las condiciones técnicas especiales de las viviendas y los mecanismos para adelantar estas convocatorias.
 
 (Modificado por el Art. 10 del Decreto 46 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.3.3 — Condiciones para el acceso al subsidio familiar de vivienda
 
@@ -5296,25 +4702,17 @@ c) Que el pueblo y/o comunidad indígena o parcialidad indígena definida en el 
 
 PARÁGRAFO . Será responsabilidad del Ministerio del Interior, a través de su Dirección de Asuntos Indígenas rom y minorías, realizar los cruces de información para garantizar que los hogares o familias incluidos en Asamblea General por el Resguardo o la comunidad o parcialidad indígena definida en el artículo 2.14.7.1.2 del Decreto 1071 de 2015, Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural, cumplan además con el requisito de estar incluidos dentro del censo al que hace referencia el literal b) de este artículo, y posteriormente entregarlos al Departamento Administrativo para la Prosperidad Social.
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.3.4 — 3.4
 
 Información sobre los proyectos en que se desarrollarán las viviendas a ser asignadas cómo subsidio familiar de vivienda en especie. El Fondo Nacional de Vivienda informará al Departamento Administrativo para la Prosperidad Social de los proyectos en que se desarrollarán viviendas a ser asignadas cómo subsidio familiar de vivienda en especie para los hogares que pertenezcan a pueblos y comunidades indígenas, indicando el lugar donde se ejecutarán los proyectos, el número de viviendas a ser transferidas y el Resguardo o la comunidad o parcialidad indígena definida en el artículo 2.14.7.1.2. del Decreto 1071 de 2015, al cuál será dirigido. Lo anterior, a fin de que el Departamento Administrativo para la Prosperidad Social, realice la identificación de los hogares potencialmente beneficiarios del subsidio familiar de vivienda en especie de qué trata la presente subsección
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.3.5 — Listado de hogares potenciales beneficiarios
 
 El Departamento Administrativo para la Prosperidad Social remitirá al Fondo Nacional de Vivienda la relación de hogares que cumplan con las condiciones establecidas en el artículo 2.1.1.2.7.3.3. del presente decreto. Fonvivienda, de considerarlo necesario, podrá requerir al Departamento Administrativo para la Prosperidad Social, la actualización de dichos listados.
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.3.6 — Convocatoria
 
 Fonvivienda, mediante acto administrativo, dará apertura a la convocatoria a los hogares potencialmente beneficiarios, de acuerdo con los listados remitidos por el Departamento Administrativo para la Prosperidad Social, a fin de que estos se postulen ante Fonvivienda o el operador que este designe. El término de duración de la convocatoria será establecido por Fonvivienda en el mismo acto administrativo.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.3.7 — Postulación
 
@@ -5322,13 +4720,9 @@ Los hogares potencialmente beneficiarios, identificados por el Departamento Admi
 
 La documentación a entregar y las condiciones para la postulación serán definidas por Fonvivienda
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.3.8 — Verificación de la información
 
 Efectuada la correspondiente postulación por parte de los hogares identificados cómo potencialmente beneficiarios, Fonvivienda procederá a verificar que los mismos cumplan con las condiciones para acceder al subsidio familiar de vivienda en especie para áreas urbanas de que trata la presente subsección y no estén incursos en las causales de rechazo de postulación establecidas en el artículo 2.1.1.2.1.2.9 del Decreto 1077 de 2015.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.3.9 — Proceso de selección y asignación de hogares beneficiarios
 
@@ -5337,8 +4731,6 @@ Una vez surtido el proceso de verificación de información establecido en la pr
 - De manera directa cuando el número de hogares postulados que cumplan con los requisitos para ser beneficiarios del subsidio sea inferior o igual al número de viviendas del proyecto.
 
 - Mediante sorteo cuando el número de hogares postulados que cumplan con los requisitos para ser beneficiarios del subsidio excedan el número de viviendas a transferir
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.3.10 — Selección por sorteo
 
@@ -5356,8 +4748,6 @@ PARÁGRAFO 1. En el evento en que se convoque la diligencia de sorteo dos (2) ve
 
 PARÁGRAFO 2. Fonvivienda levantará un acta del resultado del sorteo, la cuál será firmada por los testigos e invitados presentes.
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.3.11 — Acceso y aplicación del subsidio familiar de vivienda en especie
 
 Los demás requisitos de acceso y aplicación del subsidio familiar de vivienda para áreas urbanas de que trata la presente subsección se efectuarán en los términos y condiciones que defina el Fondo Nacional de Vivienda.
@@ -5368,15 +4758,11 @@ SUBSECCIÓN 4
 
 CRITERIO DE FOCALIZACIÓN PARA EL ACCESO AL SUBSIDIO FAMILIAR DE VIVIENDA PARA ÁREAS URBANAS EN ESPECIE A LOS HOGARES QUE PERTEN.EZCAN AL PUEBLO RROM O GITANO EN ATENCIÓN A SU SITUACIÓN DE VULNERABI LIDAD
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.4.1 — Criterio de focalización
 
 Establézcase cómo criterio de focalización para el acceso al subsidio familiar de vivienda en especie para áreas urbanas de que trata la Ley 1537 de 2012, a las familias que pertenezcan al pueblo Rrom o Gitano en atención a su situación de vulnerabilidad, con el fin de facilitar el acceso a una solución habitacional en condiciones dignas y adecuadas a sus usos y costumbres.
 
 PARÁGRAFO . La asignación del subsidio familiar de vivienda en especie para áreas urbanas de que trata la presente Subsección, se sujetará a la disponibilidad de recursos con que cuente el Fondo Nacional de Vivienda en su calidad de otorgante del subsidio.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.4.2 — Condiciones especiales de las viviendas
 
@@ -5384,15 +4770,11 @@ En el marco de la presente Subsección, podrán adelantarse convocatorias especi
 
 El Ministerio de Vivienda, Ciudad y Territorio, en el marco de la Comisión Nacional de Diálogo con el Pueblo Rrom o Gitano, definirá las condiciones técnicas de las viviendas, en concordancia con los usos y costumbres del pueblo Rrom o Gitano, y los mecanismos para adelantar estas convocatorias.
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.4.3 — Familias potencialmente beneficiarias del subsidio familiar de vivienda en especie
 
 Para efectos de lo establecido en la presente Subsección, entiéndase por familia Rrom o Gitana, el vínculo conformado por los cónyuges o uniones maritales de hecho, las familias unipersonales y/o el grupo de personas unidas por vínculos de parentesco hasta tercer grado de consanguinidad, segundo de afinidad y primero civil, que compartan un mismo espacio habitacional y se encuentren asentadas en Kumpania, con el objeto de vivir cerca para conservar su cultura o para itinerar de manera conjunta.
 
 PARÁGRAFO . Para efectos de lo establecido en la presente Subsección, entiéndase por Kumpania la definición consagrada en el numeral 2.1 del artículo 2 .5.2.1.4 del Decreto 1066 de 2015.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.4.4 — Condiciones para el acceso al subsidio familiar de vivienda
 
@@ -5410,13 +4792,9 @@ para garantizar y certificar los requisitos previstos en el presente artículo.
 
 PARÁGRAFO 2. La Asamblea General de que trata el literal c) del presente artículo será convocada por el representante legal de cada Kumpania u organización. En el marco de esta reunión, se elaborará y aprobará el listado de familias potenciales beneficiarias del subsidio familiar de vivienda, del cuál se dejará constancia en acta suscrita por los asistentes y avalada por el representante legal de la Kumpania u organización, quién la remitirá a la Dirección de Asuntos Indígenas, Rrom y Minorías del Ministerio del Interior, o la que haga sus veces.
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.4.5 — Información de subsidios familiares de vivienda en especie a asignar
 
 El Fondo Nacional de Vivienda informará a la Dirección de Asuntos Indígenas, Rrom y Minorías del Ministerio del Interior, o la que haga sus veces, el número de subsidios familiares de vivienda en especie que asignará en el marco de la presente Subsección, de acuerdo con la disponibilidad de recursos con que cuente para cada vigencia fiscal, para efectos de adelantar el proceso de selección de las familias Rrom o Gitanas beneficiarias del subsidio familiar de vivienda en especie.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.4.6 — Selección de familias Rrom o Gitanas beneficiarias del subsidio familiar de vivienda en especie
 
@@ -5436,13 +4814,9 @@ e) La pertenencia de integrantes adultos mayores o madres cabeza de familia de l
 
 f) El número de familias Rrom o Gitanas que integran la Kumpanía.
 
-ARTÍCULO
-
 ## art:2.1.1.2.7.4.7 — Remisión de Listado de hogares seleccionados
 
 La Dirección de Asuntos Indígenas, Rrom y Minorías del Ministerio del Interior, remitirá al Fondo Nacional de Vivienda el listado de hogares seleccionados que cumplan con las condiciones y criterios establecidos en los artículos 2.1.1.2 .7.4.4 y 2. 1. 1.2.7.4.6. del presente decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.2.7.4.8 — Acceso y aplicación del subsidio familiar de vivienda en especie
 
@@ -5460,8 +4834,6 @@ SUBSECCIÓN 1
 
 DEL PATRIMONIO AUTÓNOMO DESCRITO EN EL PARÁGRAFO 4 DEL ARTÍCULO 68 DE LA LEY 49 DE 1990, ADICIONADO POR EL ARTÍCULO 185 DE LA LEY 1607 DE 2012
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.1.1 — Contrato de fiducia mercantil
 
 El Fondo Nacional de Vivienda (FONVIVIENDA) y las Cajas de Compensación Familiar, de acuerdo con lo establecido en el parágrafo 4 del artículo 68 de la Ley 49 de 1990, adicionado por el artículo 185 de la Ley 1607 de 2012, celebrarán un contrato de fiducia mercantil con el objeto de que el patrimonio autónomo que se constituya, administre los recursos para ejecutar un Programa de Vivienda de Interés Prioritario para la población que se encuentre dentro de las condiciones señaladas en la presente sección, el cuál en adelante se denominará 'Programa de Vivienda de Interés Prioritario para Ahorradores'. Dicho contrato de fiducia mercantil se someterá a las condiciones y requisitos señalados en la presente sección.
@@ -5471,8 +4843,6 @@ PARÁGRAFO 1. FONVIVIENDA y las Cajas de Compensación Familiar seleccionarán a
 PARÁGRAFO 2. En caso de requerirse, FONVIVIENDA y las Cajas de Compensación Familiar podrán constituir nuevos patrimonios autónomos para ejecutar el programa reglamentado en preséntela presente sección, con el fin de dar cumplimiento a lo dispuesto en el parágrafo 4 del artículo 68 de la Ley 49 de 1990, adicionado por el artículo 185 de la Ley 1607 de 2012. En este caso, los patrimonios autónomos que se constituyan se regirán por lo establecido en preséntela presente sección.
 
 (Decreto 1432 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.1.2 — Fideicomitentes del contrato de fiducia mercantil y órganos de decisión del patrimonio autónomo
 
@@ -5502,8 +4872,6 @@ PARÁGRAFO . Las decisiones de los Comités Fiduciario y Financiero serán unán
 
 (Decreto 1432 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.1.3 — Activos del patrimonio autónomo
 
 Serán activos del patrimonio autónomo que se constituya, de conformidad con lo establecido en la presente sección, los siguientes recursos:
@@ -5524,8 +4892,6 @@ g) Los que aporte cualquier persona natural o jurídica, a título gratuito.
 
 (Decreto 1432 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.1.4 — Giro de recursos de las cajas de compensación familiar
 
 A partir del 05 de julio de 2013 y hasta el 31 de diciembre de 2015, las Cajas de Compensación Familiar, de acuerdo con su cuociente particular de recaudo y a las apropiaciones mensuales del Fovis obligatorio, componente vivienda, deberán girar mensualmente al patrimonio autónomo que se constituya según lo establecido en la presente sección, la suma que resulte de la aplicación de los siguientes porcentajes:.
@@ -5537,8 +4903,6 @@ Para el año 2014 las Cajas de Compensación Familiar con cuociente particular d
 Para el año 2015 las Cajas de Compensación Familiar con cuociente particular de recaudo superior al ciento diez por ciento (110%) destinarán mensualmente el catorce por ciento (14%) de las apropiaciones del Fovis obligatorio, componente vivienda y las Cajas de Compensación Familiar con cuociente particular de recaudo inferior al ciento diez por ciento (110%) destinarán mensualmente el ocho por ciento (8%) de las mismas apropiaciones, para ser girado al patrimonio autónomo que se constituya de acuerdo con lo establecido en la presente sección.
 
 (Decreto 1432 de 2013, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.1.5 — Condiciones para los aportes de las cajas de compensación familiar
 
@@ -5553,8 +4917,6 @@ Una vez perfeccionado el contrato de fiducia mercantil, dentro de los cinco (5) 
 Cada mes las Cajas de Compensación Familiar deberán reportar a la Superintendencia del Subsidio Familiar, en las condiciones y fecha que esta defina, el cumplimiento del giro mensual destinado al patrimonio autónomo de que trata la presente sección. La Superintendencia de Subsidio Familiar ejercerá, en cualquier momento, sus facultades de inspección, vigilancia y control sobre la obligatoriedad de la transferencia de los recursos e informará al FONVIVIENDA si considera, por cualquier situación, que no se está dando cabal cumplimiento a lo establecido en el presente artículo.
 
 (Decreto 1432 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.1.6 — Obligaciones de la sociedad fiduciaria
 
@@ -5588,8 +4950,6 @@ PARÁGRAFO . Una vez el oferente acredite los requisitos de viabilidad financier
 
 (Decreto 1432 de 2013, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.1.7 — Gastos de administración
 
 Con cargo a los recursos administrados por el patrimonio autónomo al que hace referencia la presente sección, se sufragarán los costos en que se incurra para el manejo y control de los recursos, los gastos de operación y cualquier otro gasto que se requiera para el desarrollo, implementación y divulgación del programa destinado a los hogares a que hace referencia la presente sección.
@@ -5604,8 +4964,6 @@ SUBSECCIÓN 2
 
 BENEFICIOS PARA LOS HOGARES OBJETO DEL PROGRAMA QUE SE DESARROLLE A TRAVÉS DEL PATRIMONIO AUTÓNOMO
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.2.1 — Valor del subsidio familiar de vivienda
 
 El monto de los subsidios familiares de vivienda que FONVIVIENDA y las Cajas de Compensación Familiar asignen a los hogares que cumplan las condiciones señaladas en la presente sección, dependerá de los ingresos del hogar objeto del subsidio, de acuerdo con los siguientes parámetros:
@@ -5617,8 +4975,6 @@ El monto de los subsidios familiares de vivienda que FONVIVIENDA y las Cajas de 
 PARÁGRAFO . En los actos de asignación del subsidio familiar de vivienda a que se refiere el presente artículo, se indicará expresamente que el subsidio ha sido emitido en el marco del Programa de Vivienda de Interés Prioritario para Ahorradores y que en esa medida su vigencia, las condiciones para su aplicación y los demás beneficios a que tiene derecho el hogar por ser beneficiario del programa, se sujetarán a lo establecido en la presente sección y en los términos de referencia del proceso de selección del proyecto en el que deba ser aplicado.
 
 (Decreto 1432 de 2013, artículo 8; Modificado por el Decreto 2480 de 2014, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.2.2 — Vigencia del subsidio familiar de vivienda
 
@@ -5632,8 +4988,6 @@ De acuerdo con lo establecido en el inciso segundo del artículo 8 de la Ley 153
 
 (Decreto 1432 de 2013, artículo 9).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.2.3 — Cobertura de tasa de interés
 
 Los potenciales deudores de crédito pertenecientes a los hogares que resulten beneficiarios del subsidio familiar de vivienda a que se refiere el artículo 2.1.13.1.2.1 de esta sección, podrán acceder a la cobertura de tasa de interés prevista en el artículo 123 de la Ley 1450 de 2011, a través de créditos otorgados por los establecimientos de crédito para compra de vivienda, en las condiciones y términos que establezca el Gobierno Nacional.
@@ -5643,8 +4997,6 @@ La cobertura a que se refiere el presente artículo, estará sujeta a que el cr�
 En todo caso, para que los potenciales deudores de crédito pertenecientes a los hogares beneficiarios del programa mencionado, puedan acceder a la cobertura de tasa de interés, es necesario que la entidad otorgante del crédito cumpla con lo dispuesto en las normas vigentes, para que sus deudores obtengan este beneficio.
 
 (Decreto 1432 de 2013, artículo 10; Modificado por el Decreto 2391 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.2.4 — Garantía de créditos por el Fondo Nacional de Garantías
 
@@ -5657,8 +5009,6 @@ Las entidades financieras podrán solicitar directamente al Fondo Nacional de Ga
 SUBSECCIÓN 3
 
 CONDICIONES DE LOS BENEFICIARIOS DEL PROGRAMA QUE SE DESARROLLE A TRAVÉS DEL PATRIMONIO AUTÓNOMO
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.3.1 — Beneficiarios del programa
 
@@ -5688,8 +5038,6 @@ En este caso, para la asignación del subsidio familiar de vivienda de que trata
 
 (Decreto 1432 de 2013, artículo 12; Modificado por el Decreto 2391 de 2013, artículo 2; Modificado por el Decreto 2480 de 2014, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.3.2 — Beneficiarios con subsidio familiar de vivienda sin aplicar
 
 Modificado por Decreto 2411 de 2015 Los beneficiarios del programa reglamentado en la presente sección tendrán derecho a un sólo subsidio a otorgarse en el marco del mismo. Cuando los hogares beneficiarios cuenten con subsidios familiares de vivienda en dinero, otorgados por parte de las Cajas de Compensación Familiar o FONVIVIENDA, que se encuentren pendientes de aplicación, se emplearán las siguientes reglas:
@@ -5710,8 +5058,6 @@ En el evento en que otras entidades otorgantes subsidios familiares vivienda dec
 
 (Decreto 1432 de 2013, artículo 13; Modificado por el Decreto 2480 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.3.3 — Listado de potenciales beneficiarios
 
 Modificado por Decreto 2411 de 2015 Los oferentes de proyectos de vivienda prioritaria que resulten seleccionados de acuerdo con lo establecido en la presente sección, presentarán ante el patrimonio autónomo un listado conformado por un número hogares igualo mayor al número viviendas del proyecto seleccionado, que se hayan postulado con propósito ser beneficiarios del mencionado proyecto y que reúnan los requisitos señalados en artículo 2.1.1.3.1.3.1 la presente sección, el cuál deberá contener cómo mínimo nombre completo y el documento identificación cada uno los miembros del hogar propuesto por el oferente.
@@ -5723,8 +5069,6 @@ En el evento en que el oferente presente un listado con un número de hogares su
 Si una vez verificado mayor ahorro, se presenta empate uno o varios hogares, Se asignarán los subsidios de acuerdo con el orden de radicación de las postulaciones ante el oferente del proyecto. Este orden deberá ser indicado por último.
 
 (Decreto 1432 de 2013, artículo 14).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.3.4 — Acreditación de ahorro
 
@@ -5754,8 +5098,6 @@ SUBSECCIÓN 4
 
 CONDICIONES DE LOS OFERENTES Y DE LOS PROYECTOS QUE SE DESARROLLEN A TRAVÉS DEL PATRIMONIO AUTÓNOMO
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.4.1 — Definición de los criterios para la distribución y redistribución de los recursos del programa
 
 El Ministerio de Vivienda, Ciudad y Territorio definirá los criterios para la distribución y redistribución de los recursos del programa al que hace referencia esta sección en el territorio nacional y FONVIVIENDA los aplicará. Dentro de los criterios de distribución de recursos se considerará el nivel de desempleo que se presente en las ciudades, departamentos y/o regiones que se tengan en cuenta en la respectiva resolución.
@@ -5763,8 +5105,6 @@ El Ministerio de Vivienda, Ciudad y Territorio definirá los criterios para la d
 En todo caso, el Comité Fiduciario del patrimonio autónomo que se constituya de acuerdo con lo establecido en esta sección revisará la oferta de proyectos recibida en cada región y podrá recomendar al Ministerio de Vivienda, Ciudad y Territorio, la redistribución de los recursos en el territorio nacional, la cuál se realizará de acuerdo con los criterios definidos por el mencionado Ministerio, los cuáles serán aplicados por FONVIVIENDA.
 
 (Decreto 1432 de 2013, artículo 16).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.4.2 — Oferentes de proyectos de vivienda
 
@@ -5777,8 +5117,6 @@ En los términos de referencia de los procesos de selección que adelante el pat
 PARÁGRAFO . Los esquemas o procesos utilizados por las entidades públicas para la selección de los miembros de los consorcios o uniones temporales de los cuáles hagan parte, deberán someterse a las normas vigentes que les sean aplicables y se adelantarán bajo la responsabilidad de la respectiva entidad pública.
 
 (Decreto 1432 de 2013, artículo 17).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.4.3 — Convocatoria, evaluación y selección del proyecto de vivienda de interés social prioritario
 
@@ -5794,8 +5132,6 @@ PARÁGRAFO . Los proyectos que se oferten al patrimonio autónomo que se constit
 
 (Decreto 1432 de 2013, artículo 18).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.4.4 — Valor de la vivienda de interés social prioritario
 
 El valor de la vivienda de interés prioritario nueva en la que se aplicarán los subsidios a los que hace referencia la presente sección no podrá superar los noventa (90) salarios mínimos legales mensuales vigentes. Todos los valores contenidos en los contratos adicionales que se suscriban por parte del oferente y los beneficiarios, formarán parte del valor final de la vivienda.
@@ -5803,8 +5139,6 @@ El valor de la vivienda de interés prioritario nueva en la que se aplicarán lo
 (Modificado por el Art. 11 del Decreto 46 de 2020)
 
 (Decreto 1432 de 2013, artículo 19).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.4.5 — Incumplimiento de los oferentes de proyectos de vivienda
 
@@ -5819,8 +5153,6 @@ Si el oferente incumple los términos o condiciones para el desarrollo del proye
 SUBSECCIÓN 5
 
 PROCEDIMIENTO PARA LA ASIGNACIÓN DEL SUBSIDIO OTORGADO EN EL MARCO DEL PROGRAMA QUE SE DESARROLLE A TRAVÉS DEL PATRIMONIO AUTÓNOMO
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.5.1 — Condiciones y requisitos para el acceso al subsidio familiar de vivienda
 
@@ -5854,15 +5186,11 @@ Los oferentes que tengan conocimiento, por cualquier medio y en cualquier moment
 
 (Decreto 1432 de 2013, artículo 21; Modificado por el Decreto 2480 de 2014, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.5.2 — Revisión de la información
 
 Las entidades otorgantes del subsidio o quienes estas indiquen tendrán la facultad de revisar en cualquier momento la consistencia de la información suministrada en el listado aportado por el oferente de los proyectos o en sus anexos. Si se determina que existe imprecisión en los datos entregados por el oferente del proyecto y/o en los documentos que lo acompañan, o en las condiciones o requisitos del hogar, se solicitará al oferente que dentro de los plazos establecidos en los términos de referencia del proceso de selección respectivo, o los otorgados por los órganos competentes del patrimonio autónomo, emita las aclaraciones del caso. Si dentro del plazo establecido no se subsanan las imprecisiones o se aclaran las presuntas irregularidades que se presenten, se rechazarán los hogares respecto de los cuáles se hayan advertido las inconsistencias.
 
 (Decreto 1432 de 2013, artículo 22; Modificado por el Decreto 2480 de 2014, artículo 8).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.5.3 — Falsedad o imprecisión en la información presentada
 
@@ -5877,8 +5205,6 @@ PARÁGRAFO . En todo caso, los listados contentivos de los hogares propuestos po
 (Modificado por el Art. 17 del Decreto 739 de 2021)
 
 (Decreto 1432 de 2013, artículo 23).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.5.4 — Sustitución de hogares
 
@@ -5900,8 +5226,6 @@ PARÁGRAFO 2. En todo caso, la sustitución de hogares a que se refiere el prese
 
 (Decreto 1432 de 2013, artículo 24).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.5.5 — Criterios de desembolso
 
 Cuando se determinen los hogares beneficiarios de cada uno de los proyectos, una vez surtido el proceso de verificación de los listados aportados por los oferentes, el patrimonio autónomo realizará los desembolsos teniendo en cuenta los siguientes criterios:
@@ -5913,8 +5237,6 @@ b) Los recursos provenientes de FONVIVIENDA se asignarán de manera prioritaria 
 PARÁGRAFO . Para efectos de la asignación y desembolso de los recursos del subsidio familiar de vivienda otorgado por las Cajas de Compensación Familiar, el representante de las mismas ante el Comité Financiero indicará los montos que deben descontarse de cada una de las subcuentas de las Cajas de Compensación Familiar, para ser desembolsados a cada oferente. El representante de FONVIVIENDA ante el mismo Comité indicará, con fundamento en el informe presentado por el representante de las Cajas de Compensación Familiar, cuál es el monto a descontar de la subcuenta de los recursos de FONVIVIENDA.
 
 (Decreto 1432 de 2013, artículo 25).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.5.6 — Obligaciones de las cajas de compensación familiar
 
@@ -5930,8 +5252,6 @@ d) Asignar los subsidios familiares de vivienda que deban ser otorgados con carg
 
 (Decreto 1432 de 2013, artículo 26).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.5.7 — Comunicación de verificación de listados
 
 El patrimonio autónomo comunicará al oferente de los proyectos el resultado de la verificación de los listados, así cómo la fecha de expedición del acto de asignación de los subsidios por parte de la entidad otorgante, para que el oferente informe dicho resultado a los beneficiarios. Respecto de aquellos hogares que, de acuerdo con el resultado del proceso de verificación, no cumplan los requisitos establecidos en la sección, el oferente podrá presentar observaciones tendientes a acreditar su cumplimiento, únicamente dentro de los términos definidos por el patrimonio autónomo.
@@ -5940,8 +5260,6 @@ El desembolso del subsidio familiar de vivienda estará condicionado a que el ho
 
 (Decreto 1432 de 2013, artículo 27).
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.5.8 — Solicitud de investigación
 
 Cuando se compruebe que se recibió el beneficio del subsidio familiar de vivienda de manera fraudulenta o utilizando documentos falsos, se solicitará a la autoridad competente el inicio de una investigación por el delito de Fraude en Subvenciones señalado en el artículo 403 A de la Ley 599 de 2000 y en el parágrafo 2 del artículo 21 de la Ley 1537 de 2012.
@@ -5949,8 +5267,6 @@ Cuando se compruebe que se recibió el beneficio del subsidio familiar de vivien
 Los beneficiarios que por sentencia ejecutoriada hubiesen sido condenados por haber presentado documentos o información falsos con el objeto de acceder a un subsidio familiar de vivienda, quedarán inhabilitados por el término de diez (10) años para volver a solicitarlo.
 
 (Decreto 1432 de 2013, artículo 28).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.5.9 — Legalización del subsidio familiar de vivienda
 
@@ -5968,8 +5284,6 @@ SUBSECCIÓN 6
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.6.1 — Restitución del valor del subsidio familiar de vivienda
 
 Cuando los beneficiarios del programa al que se refiere esta sección transfieran cualquier derecho real sobre la solución de vivienda o dejen de residir en ella antes de haber transcurrido diez (10) años desde la fecha de su transferencia, sin mediar permiso específico fundamentado en razones de fuerza mayor, en los términos a que se refiere el artículo 8 de la Ley 3ª de 1991, modificado por el artículo 21 de la Ley 1537 de 2012, previo desarrollo del procedimiento a que haya lugar, deberán girar a la cuenta que indique la entidad otorgante el monto de los subsidios asignados. Dicha entidad podrá iniciar las acciones judiciales o extrajudiciales tendientes a la recuperación efectiva de dichos recursos.
@@ -5977,8 +5291,6 @@ Cuando los beneficiarios del programa al que se refiere esta sección transfiera
 PARÁGRAFO . La disposición contenida en el presente artículo no impide la posibilidad para el beneficiario del subsidio, de constituir de acuerdo con las normas vigentes, una hipoteca a favor de la entidad otorgante del crédito requerido para lograr el cierre financiero de la vivienda.
 
 (Decreto 1432 de 2013, artículo 30).
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.6.2 — Apropiación y compromisos de recursos del presupuesto nacional
 
@@ -5990,15 +5302,11 @@ SECCIÓN 2
 
 COFINANCIACIÓN AL PROGRAMA DE VIVIENDA DE INTERÉS PRIORITARIO PARA AHORRADORES CON RECURSOS DEL SISTEMA GENERAL DE REGALÍAS
 
-ARTÍCULO
-
 ## art:2.1.1.3.2.1 — Proyectos de inversión con recursos del Sistema General de Regalías
 
 Las Entidades Territoriales interesadas en presentar proyectos de inversión en los procesos de selección en los cuáles tengan la posibilidad de ser oferentes, que se adelanten en el marco del Programa de Vivienda de Interés Prioritario para Ahorradores, y que pretendan acceder a los recursos del Sistema General de Regalías, deben someterse a lo establecido en la sección 2.1.1.3.1 del presente decreto y a los procedimientos establecidos y los que se señalen por las autoridades competentes del Sistema General de Regalías.
 
 (Decreto 1871 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.3.2.2 — Acuerdo de aprobación
 
@@ -6014,8 +5322,6 @@ PARÁGRAFO 2. Los recursos del Sistema General de Regalías que financien proyec
 
 (Decreto 1871 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.1.3.2.3 — Ajustes del acuerdo del OCAD
 
 Si el proyecto de inversión ofrecido en las condiciones señaladas en la presente sección se selecciona con un número de cupos para asignación de subsidios familiares de vivienda inferior al número de viviendas propuesto ante el OCAD, se deberá realizar el ajuste ante dicho órgano. En este caso, la disponibilidad de recursos para la asignación de subsidios familiares de vivienda a los hogares adquirentes de las viviendas que se ejecuten en el respectivo proyecto quedará sujeta a la expedición del Acuerdo del OCAD en la cuál se demuestre la realización del respectivo ajuste, todo de conformidad con las regulaciones expedidas por la Comisión Rectora del SGR.
@@ -6024,15 +5330,11 @@ Si el proyecto de inversión ofrecido al patrimonio autónomo en las condiciones
 
 (Decreto 1871 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.3.2.4 — Acta de selección del proyecto
 
 Si el proyecto de inversión ofrecido en las condiciones señaladas en la presente sección es seleccionado, el ejecutor del proyecto deberá aportar a la Secretaria Técnica del OCAD, copia del acta de selección del proyecto, suscrita por el Comité Técnico del patrimonio autónomo, y para efectos del cumplimiento de lo establecido en el Título III del Acuerdo 13 de 2012, deberá acreditar los requisitos establecidos en el artículo 59 o las normas que lo modifiquen, adicionen o sustituyan.
 
 (Decreto 1871 de 2013, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.3.2.5 — Precios de ejecución de proyectos de inversión
 
@@ -6043,8 +5345,6 @@ Los proyectos de inversión que se oferten al patrimonio autónomo a que se refi
 SECCIÓN 3
 
 COBERTURA A LA TASA DE INTERÉS PARA EL PROGRAMA DE VIVIENDA DE INTERÉS PRIORITARIO PARA AHORRADORES
-
-ARTÍCULO
 
 ## art:2.1.1.3.3.1 — 3.1
 
@@ -6066,8 +5366,6 @@ El Fondo Nacional de Vivienda (FONVIVIENDA), señalará al Banco de la Repúblic
 
 (Decreto 0161 de 2014, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.1.3.3.2 — Cobertura
 
 La cobertura prevista en la presente sección corresponderá a cinco (5) puntos porcentuales liquidados sobre el saldo remanente del crédito otorgado por el establecimiento de crédito, para la compra de viviendas que se ejecuten en proyectos seleccionados en el marco del 'Programa de Vivienda de Interés Prioritario para Ahorradores'.
@@ -6079,8 +5377,6 @@ En el evento que por cualquier circunstancia el establecimiento de crédito cobr
 El Fondo Nacional de Vivienda (FONVIVIENDA) definirá el número de coberturas disponibles para los créditos que serán objeto del beneficio aquí previsto. En todo caso, FONVIVIENDA podrá optar por modificar el número de coberturas.
 
 (Decreto 0161 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.3.3.3 — Condiciones para el acceso a la cobertura
 
@@ -6106,8 +5402,6 @@ PARÁGRAFO . Con las verificaciones que realicen los establecimientos de crédit
 
 (Decreto 0161 de 2014, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.3.3.4 — Créditos elegibles
 
 La cobertura se aplicará a los créditos que cumplan, cómo mínimo, con las condiciones que se relacionan a continuación y las demás que se prevean en la presente sección y sus modificaciones:
@@ -6121,8 +5415,6 @@ Por vivienda de interés social prioritaria nueva urbana se entenderá aquella c
 3. Unicidad: La cobertura se otorgará por una sola vez y se aplicará a todos los deudores del crédito, a cualquier título.
 
 (Decreto 0161 de 2014, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.1.3.3.5 — Terminación anticipada de la cobertura
 
@@ -6156,8 +5448,6 @@ El FONDO NACIONAL DE VIVIENDA -FONVIVIENDA- dará al Banco de la República, có
 
 (Parágrafo Transitorio Adicionado por el Art. 2 del Decreto 493 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.3.3.6 — Recursos para la cobertura
 
 Los recursos requeridos para el otorgamiento y pago de las coberturas previstas en esta sección, así cómo los gastos de gestión en que incurra el Banco de la República en la realización de la permuta financiera serán apropiados en el Presupuesto General de la Nación a través del Fondo Nacional de Vivienda FONVIVIENDA o quién haga sus veces, y serán comprometidos con cargo a su presupuesto de inversión a favor del FRECH - Ley 1450 de 2011, dando cumplimiento a las disposiciones en materia presupuestal.
@@ -6165,8 +5455,6 @@ Los recursos requeridos para el otorgamiento y pago de las coberturas previstas 
 Para cada vigencia, la apropiación de estos recursos quedará condicionada al espacio fiscal establecido tanto en el Marco de Gasto de Mediano Plazo del sector Vivienda, así cómo en el Marco Fiscal de Mediano Plazo.
 
 (Decreto 0161 de 2014, artículo 6).
-
-ARTÍCULO
 
 ## art:2.1.1.3.3.7 — Giro de los recursos
 
@@ -6184,8 +5472,6 @@ Los trámites de apropiación, ejecución, registro y desembolso presupuestales 
 
 (Decreto 0161 de 2014, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.3.3.8 — Restitución de los recursos de la cobertura
 
 Las sumas provenientes de las restituciones de recursos que deban realizar los establecimientos de crédito al FRECH - Ley 1450 de 2011 VIP Ahorradores respecto de créditos cuyos deudores no tengan derecho a la cobertura o que se haya entregado en exceso, o por haber perdido la posibilidad de realizar el intercambio de flujos de la cobertura, o cualquier otra suma que deba restituirse, serán consignadas directamente por los establecimientos de crédito a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público a las cuentas abiertas para tal fin. FONVIVIENDA impartirá a los establecimientos de crédito las instrucciones para la restitución de estos recursos."
@@ -6194,15 +5480,11 @@ Las sumas provenientes de las restituciones de recursos que deban realizar los e
 
 (Decreto 0161 de 2014, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.1.3.3.9 — Convenio interadministrativo
 
 Mediante convenio interadministrativo o modificación al existente, el Fondo Nacional de Vivienda (FONVIVIENDA) y el Banco de la República cómo administrador del FRECH, determinarán las condiciones en que debe realizarse la permuta financiera de tasa de interés pactada sobre los créditos de vivienda a que se refiere la presente sección.
 
 (Decreto 0161 de 2014, artículo 9).
-
-ARTÍCULO
 
 ## art:2.1.1.3.3.10 — Contratos marco de permuta financiera de tasa de interés
 
@@ -6246,8 +5528,6 @@ PARÁGRAFO 2. En todo caso el registro y pago de la cobertura estará condiciona
 
 (Decreto 0161 de 2014, artículo 10).
 
-ARTÍCULO
-
 ## art:2.1.1.3.3.11 — Responsabilidad de los establecimientos de crédito
 
 Los establecimientos de crédito serán los únicos responsables de verificar el cumplimiento de los requisitos y condiciones establecidos para el acceso, vigencia, y terminación anticipada de la cobertura de tasa de interés a los créditos de que trata la presente sección; así cómo de la veracidad de la información presentada al FRECH - Ley 1450 de 2011 VIP Ahorradores y del cumplimiento de las obligaciones contenidas en el contrato marco que suscriba con el Banco de la República. Con la verificación del establecimiento de crédito se acreditará el cumplimento de las condiciones y requisitos y no habrá lugar a verificaciones adicionales por parte del Banco de la República, cómo administrador del FRECH.
@@ -6280,8 +5560,6 @@ SUBSECCIÓN 1
 
 DEL PATRIMONIO AUTÓNOMO QUE ADMINISTRARÁ LOS RECURSOS DEL PROGRAMA
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.1.1 — Contrato e fiducia mercantil
 
 FONVIVIENDA, de acuerdo con lo establecido en el parágrafo 1 del artículo 23 de la Ley 1469 de 2011 celebrará, en condición de fideicomitente, un contrato de fiducia mercantil para que el patrimonio autónomo que se constituya, administre los recursos que se ejecutarán en un Programa de Vivienda de Interés Social para la población que cuente con las condiciones señaladas en el presente sección, el cuál se denominará 'Mi Casa Ya'. Dicho contrato de fiducia mercantil se someterá a las condiciones y requisitos señalados en la presente sección.
@@ -6291,8 +5569,6 @@ PARÁGRAFO 1. FONVIVIENDA seleccionará a la sociedad fiduciaria vocera del patr
 PARÁGRAFO 2. El patrimonio autónomo tendrá los órganos de decisión que se establezcan en el contrato de fiducia mercantil, en los cuáles deberá tener voz y voto el Director Ejecutivo del Fondo Nacional de Vivienda o su delegado.
 
 (Decreto 0428 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.1.2 — Activos del patrimonio autónomo
 
@@ -6305,8 +5581,6 @@ b) Los rendimientos financieros que produzcan los recursos fideicomitidos.
 c) Los que aporte cualquier persona natural o jurídica, a título gratuito.
 
 (Decreto 0428 de 2015, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.1.3 — Obligaciones de la sociedad fiduciaria
 
@@ -6326,8 +5600,6 @@ f) Las demás obligaciones necesarias para dar cumplimiento al objeto del contra
 
 (Decreto 0428 de 2015, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.1.4 — Gastos de administración
 
 Con cargo a los recursos administrados por el patrimonio autónomo al que hace referencia la presente sección se sufragarán los costos en que se incurra para el manejo y control de los recursos, los gastos de operación y cualquier otro gasto que se requiera para el desarrollo, implementación y divulgación del programa a que hace referencia la presente sección.
@@ -6341,8 +5613,6 @@ PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio podrá establecer la
 SUBSECCIÓN 2
 
 BENEFICIOS PARA LOS HOGARES OBJETO DEL PROGRAMA
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.2.1 — Valor del subsidio familiar de vivienda
 
@@ -6366,8 +5636,6 @@ PARÁGRAFO TRANSITORIO. Los hogares que suscriban contratos de leasing habitacio
  
  Artículo 2.1.1.4.1.2.1
 
- ARTÍCULO
-
 ## art:2.1.1.4.1.2.2 — Vigencia del Programa y del subsidio familiar de vivienda
 
 La vigencia del subsidio familiar de vivienda de que trata la presente sección, será de doce (12) meses contados a partir del primer día del mes siguiente a la fecha de su asignación.
@@ -6375,8 +5643,6 @@ La vigencia del subsidio familiar de vivienda de que trata la presente sección,
 La ampliación del programa "Mi Casa Ya" estará condicionada a la disponibilidad fiscal de los recursos tanto en el Marco de Gasto de Mediano Plazo del sector cómo en el Marco Fiscal de Mediano Plazo, así cómo a las evaluaciones sobre el cumplimiento de las metas anuales establecidas para la programación presupuestal
 
 (Modificado por el Art. 18 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.2.3 — Cobertura de tasa de interés
 
@@ -6405,8 +5671,6 @@ En todo caso, para que los potenciales deudores de crédito o los locatarios per
 SUBSECCIÓN 3
 
 CONDICIONES DE LOS BENEFICIARIOS DEL PROGRAMA
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.3.1 — Beneficiarios
 
@@ -6456,8 +5720,6 @@ PARÁGRAFO . Los hogares beneficiarios del Programa a que se refiere la presente
 
 (Modificado por el Art. 3 del Decreto 490 de 2023)
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.3.2 — Acceso al programa con subsidio vigente y sin aplicar
 
 Los beneficiarios del Programa reglamentado en la presente sección tendrán derecho a un sólo subsidio a otorgarse en el marco del mismo, así se les haya asignado con anterioridad un subsidio familiar de vivienda por parte de FONVIVIENDA y este se encuentre pendiente de aplicación.
@@ -6467,8 +5729,6 @@ Quién haya sido beneficiario de un subsidio familiar de vivienda para la adquis
 Cuando el hogar beneficiario se encuentre inscrito en el Registro Único de Población Desplazada (RUPD), o el que haga sus veces, se podrá sumar el subsidio familiar de vivienda inicialmente asignado, que se encuentre sin aplicar, y el subsidio familiar de vivienda a que se refiere el artículo 2.1.1.4.1.2.1 de este decreto, para la adquisición de una vivienda en el marco del Programa "Mi Casa Ya". En todo caso, el subsidio familiar de vivienda de FONVIVIENDA no podrá superar el 90% del valor de la vivienda
 
 (Modificado por el Art. 19 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.3.3 — Verificación de información
 
@@ -6510,8 +5770,6 @@ PARÁGRAFO . El cumplimiento de las condiciones para ser beneficiario del Progra
 
 (Modificado por el Art. 6 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.3.4 — Responsabilidad para FONVIVIENDA
 
 FONVIVIENDA no será responsable de verificar el cierre financiero del hogar para la adquisición de la vivienda, ni el cumplimiento de los requisitos por parte del hogar para la suscripción de un contrato de leasing habitacional, ni las condiciones necesarias para la obtención de cartas de aprobación de crédito o de aprobación de operaciones de leasing habitacional. Tampoco será parte de los negocios jurídicos que realice el hogar beneficiario del Programa con el vendedor de la vivienda ni con la entidad que otorgue el crédito o leasing habitacional necesario para la adquisición de la misma.
@@ -6521,8 +5779,6 @@ FONVIVIENDA no será responsable de verificar el cierre financiero del hogar par
 SUBSECCIÓN 4
 
 CONDICIONES DE LAS VIVIENDAS EN DESARROLLO DEL PROGRAMA
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.4.1 — Definición de los Departamentos, Municipios y/o Regiones en que se ejecuta el programa
 
@@ -6535,8 +5791,6 @@ El acto mediante el cuál se definan los Departamentos, Municipios y/o Regiones 
 Sólo recibirán los beneficios del Programa quienes, además de cumplir con los requisitos establecidos en esta sección, adquieran, o suscriban un contrato de leasing habitacional sobre, una vivienda de interés social urbana nueva en los Departamentos, Municipios y/o Regiones definidos de conformidad con lo establecido en el presente artículo.
 
 PARÁGRAFO . En el evento en que el MVCT modifique la relación de los Departamentos, Municipios y/o Regiones definidos inicialmente mediante acto administrativo, esta decisión no afectará las condiciones de los hogares que hayan cumplido los requisitos de acceso al Programa a que se refiere esta sección, y respecto de los cuáles, el correspondiente establecimiento de crédito, haya solicitado que se proceda a la asignación del subsidio.
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.4.2 — Valor de la vivienda
 
@@ -6562,8 +5816,6 @@ Por vivienda nueva urbana se entenderá aquella que se encuentre en proyecto, en
 
 (Modificado por el Art. 12 del Decreto 46 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.4.3 — Investigación y sanción a vendedores
 
 Los vendedores de las viviendas cuyos adquirentes reciban los beneficios del Programa, estarán sujetos a las investigaciones y sanciones a que se refiere el artículo 22 de la Ley 1537 de 2012, y las normas que la modifiquen, adicionen, sustituyan o reglamenten.
@@ -6574,8 +5826,6 @@ SUBSECCIÓN 5
 
 PROCEDIMIENTO PARA LA ASIGNACIÓN Y LEGALIZACIÓN DEL SUBSIDIO OTORGADO EN EL MARCO DEL PROGRAMA
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.5.2 — Asignación del subsidio familiar de vivienda
 
 Una vez se reciba la solicitud para proceder a la asignación, por parte del establecimiento de crédito, la entidad de economía solidaria vigilada por la Superintendencia de la Economía Solidaria o la caja de compensación familiar, siempre y cuando se haya realizado la verificación a que se refiere el artículo 2.1.1.4.1.3.3 de este decreto y se haya determinado que el hogar cumple las condiciones para ser beneficiario del subsidio, no se requerirán trámites adicionales y FONVIVIENDA procederá a la expedición del acto administrativo de asignación, de acuerdo con lo indicado en esta norma.
@@ -6585,8 +5835,6 @@ FONVIVIENDA, a través del sistema que este indique, comunicará al establecimie
 El desembolso del subsidio familiar de vivienda al vendedor de la misma, estará condicionado a que la entidad otorgante del crédito realice el desembolso del mismo o a que dé inicio al contrato de leasing habitacional, lo cuál deberá comunicar a FONVIVIENDA y/o a quién esta indique."
 
 (Modificado por el Art. 9 del Decreto 951 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.5.3 — Revisión de la consistencia y/o veracidad de la información
 
@@ -6602,8 +5850,6 @@ PARÁGRAFO . Los hogares deberán mantener las condiciones y requisitos para acc
 
 (Parágrafo, Modificado por el Art. 10 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.5.4 — Solicitud de investigación
 
 Cuando se compruebe que se recibió el beneficio del subsidio familiar de vivienda de manera fraudulenta o utilizando documentos falsos, se solicitará a la autoridad competente el inicio de una investigación por el delito de Fraude en Subvenciones señalado en el artículo 403 A de la Ley 599 de 2000, adicionado por el artículo 26 de la Ley 1474 de 2011, de acuerdo con lo dispuesto en el parágrafo 1 del artículo 8 de la Ley 3ª de 1991, modificado por el artículo 13 de la Ley 2079 de 2021."
@@ -6611,8 +5857,6 @@ Cuando se compruebe que se recibió el beneficio del subsidio familiar de vivien
 (Inciso 1, modificado por el Art. 21 del Decreto 739 de 2021)
 
 Los beneficiarios que por sentencia ejecutoriada hubiesen sido condenados por haber presentado documentos o información falsos con el objeto de acceder a un subsidio familiar de vivienda, quedarán inhabilitados por el término de diez (10) años para volver a solicitarlo, de acuerdo con lo dispuesto en el artículo 30 de la Ley 3a de 1991.
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.5.5 — Legalización del subsidio familiar de vivienda
 
@@ -6629,8 +5873,6 @@ El subsidio familiar de vivienda aplicado en el marco del Programa, para la adqu
 SUBSECCIÓN 6
 
 OTRAS DISPOSICIONES
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.6.1 — Causales de Restitución del subsidio familiar de vivienda
 
@@ -6650,8 +5892,6 @@ Cuando haya lugar a la restitución del subsidio en contratos de leasing habitac
 
 (Decreto 729 de 2017, artículo 7).
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.6.2 — Apropiación y compromiso de recursos del presupuesto nacional
 
 Los recursos que destine el Gobierno Nacional para la asignación de los subsidios familiares de vivienda a que se refiere el artículo 2.1.1.4.1.2.1 de esta sección, serán apropiados en el Presupuesto General de la Nación a través de FONVIVIENDA o quién haga sus veces, y serán comprometidos con cargo a su presupuesto de inversión. La apropiación de estos recursos deberá guardar concordancia con la disponibilidad fiscal establecida tanto en el Marco de Gasto de Mediano Plazo del sector, cómo en el Marco Fiscal de Mediano Plazo.
@@ -6661,8 +5901,6 @@ Los recursos que destine el Gobierno Nacional para la asignación de los subsidi
 SECCIÓN 2
 
 COBERTURA DE TASA DE INTERÉS PARA LOS POTENCIALES DEUDORES DE CRÉDITO O LOCATARIOS DE LEASING HABITACIONAL DESTINADO A VIVIENDA FAMILIAR PERTENECIENTES A LOS HOGARES QUE RESULTEN BENEFICIARIOS DEL PROGRAMA DE PROMOCION DE ACCESO A LA VIVIENDA DE INTERÉS SOCIAL - Ml CASA YA
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.1 — Cobertura de tasa de interés para la financiación de vivienda de interés social nueva
 
@@ -6708,8 +5946,6 @@ El Ministerio de Vivienda, Ciudad y Territorio establecerá las condiciones que 
 
 (Parágrafo, Adicionado por el Art. 11 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.2 — Graduación de la Cobertura
 
 La cobertura prevista en la presente sección se graduará de acuerdo con el valor de la vivienda financiada por los deudores del crédito o locatarios del leasing habitacional beneficiarios de un subsidio familiar de vivienda en el Programa "Mi Casa Ya", que la solicite según los siguientes segmentos:
@@ -6742,8 +5978,6 @@ Los establecimientos de crédito, las entidades de economía solidaria vigiladas
 
 (Modificado por el Art. 13 del Decreto 46 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.3 — Condiciones para el acceso a la cobertura
 
 Para acceder a la cobertura, los potenciales deudores del crédito o locatarios del contrato de leasing habitacional, deberán cumplir las condiciones previstas en esta sección, y especialmente las siguientes:
@@ -6761,8 +5995,6 @@ Los establecimientos de crédito, las entidades de economía solidaria vigiladas
 PARÁGRAFO . Con las verificaciones que realicen los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar de los numerales 1 y 2 del presente artículo, se acreditará el cumplimiento de estas condiciones y no habrá lugar a verificaciones adicionales por parte del Banco de la República, cómo administrador del FRECH."
 
 (Modificado por el Art. 13 del Decreto 951 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.4 — Créditos o contratos de leasing habitacional elegibles
 
@@ -6797,8 +6029,6 @@ Para el caso de los créditos que otorguen las entidades de economía solidaria 
 (Modificado por el Art. 14 del Decreto 46 de 2020)
 
 (Modificado por el Art. 20 del Deceto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.5 — Terminación anticipada de la cobertura
 
@@ -6842,8 +6072,6 @@ El FONDO NACIONAL DE VIVIENDA -FONVIVIENDA- dará al Banco de la República, có
 
 (Parágrafo Transitorio Adicionado por el Art. 2 del Decreto 493 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.6 — Recursos para la cobertura
 
 Los recursos requeridos para el otorgamiento y pago de las coberturas previstas en esta sección, así cómo los gastos de gestión en que incurra el Banco de la República en la realización de la permuta financiera, serán apropiados en el Presupuesto General de la Nación a través de FONVIVIENDA o quién haga sus veces, y serán comprometidos con cargo a su presupuesto de inversión a favor del FRECH - Mi Casa Ya, dando cumplimiento a las disposiciones en materia presupuestal.
@@ -6851,8 +6079,6 @@ Los recursos requeridos para el otorgamiento y pago de las coberturas previstas 
 Para cada vigencia, la apropiación de estos recursos quedará condicionada al espacio fiscal establecido tanto en el Marco de Gasto de Mediano Plazo del sector Vivienda, así cómo en el Marco Fiscal de Mediano Plazo. La expedición de la presente sección no podrá dar origen a ajustes que impliquen recursos adicionales a los ya contemplados en el marco de gasto de mediano plazo vigente para el sector.
 
 PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio realizará un seguimiento a la ejecución del Programa, y adelantará los trámites a que haya lugar ante el Ministerio de Hacienda y Crédito Público, con el fin de gestionar la disponibilidad de recursos para la continuidad del Programa y otorgar los beneficios del mismo.
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.7 — Giro de los recursos
 
@@ -6868,21 +6094,15 @@ El Banco de la República, cómo administrador del FRECH, no será responsable p
 
 Los trámites presupuestales de apropiación, ejecución, registro y desembolso estarán a cargo de FONVIVIENDA.
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.8 — Restitución de los recursos de la cobertura
 
 Las sumas provenientes de las restituciones de recursos que deban realizar los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar al FRECH - Mi Casa Ya respecto de deudores o locatarios que no tengan derecho a la cobertura o que se haya entregado en exceso, o por haber perdido la posibilidad de realizar el intercambio de flujos de la cobertura, o cualquier otra suma que deba restituirse, serán consignadas directamente por los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público a las cuentas abiertas para tal fin. FONVIVIENDA impartirá a los establecimientos de crédito, a las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y a las cajas de compensación familiar las instrucciones para la restitución de estos recursos."
 
 (Modificado por el Art. 16 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.9 — Convenio Interadministrativo
 
 Mediante convenio interadministrativo o modificación al existente, FONVIVIENDA y el Banco de la República, cómo administrador del FRECH, determinarán las condiciones en que debe realizarse la permuta financiera de tasa de interés pactada sobre los créditos o contratos de leasing habitacional destinados a la adquisición de vivienda familiar a que se refiere la presente sección.
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.10 — Contratos marco de permuta financiera de tasa de interés
 
@@ -6932,8 +6152,6 @@ PARÁGRAFO 4. El Banco de la República deberá establecer en los contratos marc
 
 (Parágrafo 4, Adicionado por el Art. 17 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.11 — Responsabilidad de los establecimientos de crédito
 
 Los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar serán los únicos responsables de verificar el cumplimiento de los requisitos y condiciones establecidos para el acceso, vigencia, y terminación anticipada de la cobertura de tasa de interés a los créditos o contratos de leasing habitacional de que trata la presente sección; así cómo de la veracidad de la información presentada al FRECH - Mi Casa Ya y del cumplimiento de las obligaciones contenidas en el contrato marco que suscriban con el Banco de la República. Con la verificación del establecimiento de crédito, la entidad de economía solidaria vigilada por la Superintendencia de la Economía Solidaria o la caja de compensación familiar según sea el caso, se acreditará el cumplimiento de las condiciones y requisitos y no habrá lugar a verificaciones adicionales por parte del Banco de la República cómo administrador del FRECH.
@@ -6962,15 +6180,11 @@ CAPÍTULO 5
 
 CRÉDITO CON ALIANZAS ESTRATÉGICAS DEL FONDO NACIONAL DEL AHORRO
 
-ARTÍCULO
-
 ## art:2.1.1.5.1 — Objeto
 
 Dentro de los programas de crédito que desarrolle el Fondo Nacional de Ahorro se incluirá una modalidad a través de Alianzas Estratégicas, consistente en el desarrollo de convenios entre el Fondo Nacional de Ahorro y las Cajas de Compensación Familiar que cuenten con unidades de servicio técnico especializado de vivienda, con el fin de promover el acceso efectivo a la vivienda de interés social, en condiciones favorables para los afiliados del Fondo Nacional de Ahorro, e incentivar la utilización de los subsidios de vivienda.
 
 (Decreto 3951 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.1.5.2 — Gerentes de los proyectos de vivienda
 
@@ -6985,8 +6199,6 @@ c) Ofrecer los proyectos.
 d) Administrar los recursos de los créditos otorgados por el Fondo Nacional de Ahorro y demás dineros aportados para el desarrollo del proyecto, para lo cuál deberá constituirse un encargo fiduciario donde serán desembolsados, siguiendo la metodología que para el efecto adopte el Fondo Nacional de Ahorro mediante resolución.
 
 (Decreto 3951 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.1.1.5.3 — Requisitos de los proyectos de vivienda
 
@@ -7006,23 +6218,17 @@ f) Los demás que determine el Fondo Nacional de Ahorro mediante resolución.
 
 (Decreto 3951 de 2009, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.1.5.4 — Publicación proyectos de vivienda
 
 Las Cajas de Compensación Familiar que cuenten con unidades de servicio técnico especializado de vivienda y hayan suscrito los convenios de que trata el presente capítulo, darán a conocer a los afiliados al Fondo Nacional de Ahorro los proyectos de vivienda, para que quienes lo estimen conveniente, radiquen la solicitud de crédito en el Fondo Nacional de Ahorro, que estudiará la solicitud de conformidad con los parámetros establecidos en su Reglamento de Crédito y se encargará de autorizar o negar los créditos de conformidad con las normas vigentes.
 
 (Decreto 3951 de 2009, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.1.5.5 — Convenios con entidades territoriales
 
 Las entidades territoriales que pretendan participar en los proyectos de los que trata el presente capítulo, dirigidos a generar soluciones de vivienda de interés social prioritario, deberán suscribir convenios en desarrollo de las Alianzas Estratégicas aquí reglamentadas y destinar recursos para subsidios en dinero y/o especie cuyo monto no podrá ser inferior al diez por ciento (10%) del valor final de la vivienda.
 
 (Decreto 3951 de 2009, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.1.5.6 — Reglamentación del desembolso de créditos
 
@@ -7040,15 +6246,11 @@ GENERALIDADES
 
 1. Agentes
 
-ARTÍCULO
-
 ## art:2.1.1.6.1.1 — 1.1
 
 Aplicación: El presente capítulo aplica a las operaciones de arrendamiento y arrendamiento con opción de compra y su vinculación con el subsidio familiar de vivienda en el marco del programa de promoción y acceso a vivienda "Semillero de Propietarios
 
 (Modificado por el Art. 23 del Decreto 739 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.6.1.2 — 1.2
 
@@ -7098,8 +6300,6 @@ SECCIÓN 2
 
 BENEFICIOS PARA LOS HOGARES OBJETO DEL PROGRAMA
 
-ARTÍCULO
-
 ## art:2.1.1.6.2.1 — Valor del subsidio familiar de vivienda
 
 El valor del subsidio familiar de vivienda destinado a cubrir un porcentaje del canon de arrendamiento mensual, será de hasta 0.6 salarios mínimos legales mensuales vigentes al momento de asignación del subsidio para cada canon de arrendamiento, hasta por veinticuatro (24) meses. El valor será determinado por el Ministerio de Vivienda, Ciudad y Territorio, de conformidad con el canon pactado en el contrato de arrendamiento o de arrendamiento con opción de compra.
@@ -7116,8 +6316,6 @@ El aumento del valor del subsidio referenciado en este parágrafo será aplicado
 
 (Parágrafo transitorio, Adicionado por el Art. 1 del Decreto 1165 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.6.2.2 — Garantía de Contratos de Arrendamiento y de Arrendamiento con Opción de Compra
 
 Los contratos de arrendamiento o de arrendamiento con opción de compra que suscriban los hogares que resulten beneficiarios del programa, deberán ser objeto de una garantía que cubra el posible incumplimiento de los mismos, incluyendo lo relacionado con la restitución final del inmueble. FONVIVIENDA, ya sea directamente o a través del patrimonio autónomo que se constituya para la administración de los recursos del programa podrá pagar el costo de adquisición de la garantía cuando el canon pactado sea igual o inferior a 0.4 salarios mínimos legales mensuales vigentes."
@@ -7127,8 +6325,6 @@ PARÁGRAFO . Esta garantía será opcional para los subsidios que se asignen a p
 (Parágrafo, adicionado por el Art. 2 del Decreto 057 de 2021)
 
 (Modificado por el Art. 2 del Decreto 057 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.6.2.3 — Concurrencia de Subsidios
 
@@ -7140,15 +6336,11 @@ SECCIÓN 3
 
 CONDICIONES DE ACCESO AL SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.6.3.1 — Distribucion de Subsidios
 
 El Ministerio de Vivienda, Ciudad y Territorio definirá mediante acto administrativo motivado, los Departamentos, Municipios y/o Regiones en donde se podrán aplicar los subsidios del programa a que se refiere este capítulo, para lo cuál deberá tener en cuenta cómo mínimo, criterios de disponibilidad de oferta de vivienda de interés social y vivienda de interés prioritario.
 
 En dicha regulación también se establecerá hasta un 20% cómo porcentaje mínimo de destinación de subsidios con aplicación de criterios de enfoque diferencial dentro de los que deberán estar incluidos cómo mínimo: la población víctima de desplazamiento forzado, las mujeres cabeza de familia de los estratos más pobres de la población, las trabajadora del sector informal, las madres comunitarias, las personas de la tercera edad, los miembros de comunidades étnicas, la población en situación de discapacidad, los miembros de la fuerza pública y los familiares beneficiarios de estos que hubieren fallecido en actos del servicio, y personal que haya tenido disminución en capacidad psicofísica o incapacidad absoluta permanente por gran invalidez.
-
-ARTÍCULO
 
 ## art:2.1.1.6.3.2 — Beneficiarios del Programa Semillero de Propietarios
 
@@ -7178,8 +6370,6 @@ PARÁGRAFO 1. Para todos los efectos, cuando en el presente capítulo se hace re
 
 PARÁGRAFO 2. Quién haya sido beneficiario de un subsidio familiar de vivienda para la adquisición de vivienda urbana que se encuentre vigente y sin aplicar, asignado por FONVIVIENDA, podrá ser beneficiario del subsidio familiar de vivienda a que se refiere el presente capítulo, previa renuncia al subsidio asignado que se encuentre sin aplicar.
 
-ARTÍCULO
-
 ## art:2.1.1.6.3.3 — Obligaciones de los beneficiarios
 
 Los hogares que resulten beneficiados con la asignación del subsidio familiar de vivienda de que trata el presente capítulo por parte de FONVIVIENDA, tendrán las siguientes obligaciones:
@@ -7200,13 +6390,9 @@ Los hogares que resulten beneficiados con la asignación del subsidio familiar d
 
 (Parágrafo transitorio, adicionado por el Art. 2 del Decreto 1165 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.6.3.4 — Condiciones de los beneficiarios
 
 Los hogares beneficiarios deberán mantener las condiciones y requisitos para acceder al subsidio familiar de vivienda a que se refiere este capítulo, desde el momento de la postulación, hasta el momento del primer desembolso del subsidio, en consecuencia, será responsabilidad de los hogares informar a la entidad otorgante cualquier hecho que modifique las condiciones que le permiten ser beneficiario del subsidio familiar de vivienda. En todo caso, todos los miembros del hogar que se postule, se entenderán cómo beneficiarios del subsidio familiar de vivienda para todos los efectos.
-
-ARTÍCULO
 
 ## art:2.1.1.6.3.5 — Condiciones de la vivienda
 
@@ -7228,13 +6414,9 @@ SECCIÓN 4
 
 INSTRUMENTOS PARA lA OPERACIÓN, ASIGNACIÓN Y LEGALIZACIÓN DEL SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.6.4.1 — Contrato de fiducia mercantil
 
 De acuerdo con las facultades atribuidas por el artículo 23 de la Ley 1469 de 2011 y el artículo 6 de la Ley 1537 de 2012, FONVIVIENDA celebrará en condición de fideicomitente, un contrato de fiducia mercantil, para que el patrimonio autónomo que se constituya administre los recursos del subsidio familiar de vivienda de que trata el presente capítulo.
-
-ARTÍCULO
 
 ## art:2.1.1.6.4.2 — Activos del patrimonio autónomo
 
@@ -7250,13 +6432,9 @@ d. Los que aporte cualquier persona jurídica a título gratuito.
 
 e. Los que se determinen en el contrato de fiducia mercantil.
 
-ARTÍCULO
-
 ## art:2.1.1.6.4.3 — Gastos de administración
 
 Con cargo a los recursos girados por FONVIVIENDA al patrimonio autónomo al que hace referencia el presente capítulo, se sufragarán los costos en que se incurra para el manejo y control de los recursos, los gastos de operación, auditorías y cualquier otro gasto que se requiera para el desarrollo, implementación y divulgación del programa "Semillero de Propietarios".
-
-ARTÍCULO
 
 ## art:2.1.1.6.4.4 — Postulación de viviendas al programa
 
@@ -7274,23 +6452,17 @@ SECCIÓN 5
 
 POSTULACIÓN, ASIGNACIÓN Y LEGALIZACIÓN DEL SUBSIDIO FAMILIAR DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.1.6.5.1 — Postulación de beneficiarios al programa
 
 Es la solicitud individual por parte de un hogar, con el objeto de acceder al subsidio familiar de vivienda de que trata el presente capítulo. Los hogares interesados en ser beneficiarios del programa podrán presentarla por medio del sistema de información que señale FONVIVIENDA para tal efecto. FONVIVIENDA o la entidad que éste designe para la recepción de la postulación, hará una primera verificación del cumplimiento de los requisitos del hogar para acceder al subsidio de arrendamiento e indicará el resultado de dicha verificación en el sistema de información.
 
 Surtido este trámite, el hogar postulante podrá acceder a la oferta de vivienda del programa a través del gestor inmobiliario, el cuál emitirá el concepto favorable para la firma del contrato de arrendamiento o arrendamiento con opción de compra y dejará constancia de lo anterior en el respectivo sistema de información.
 
-ARTÍCULO
-
 ## art:2.1.1.6.5.2 — Apertura del Instrumento para el recaudo de aportes del hogar
 
 Una vez inscrito y habilitado para el otorgamiento del subsidio, el hogar postulante que cuente con concepto favorable del gestor inmobiliario, deberá constituir el producto financiero al que se refiere el numeral 3.4 del artículo 2.1.1.6.1.2 del presente decreto, al cuál se transferirán los recursos del aporte y del porcentaje del canon a cargo del hogar contemplados en los numerales 2.2 y 2.3 del mismo artículo."
 
 (Modificado por el Art. 6 del Decreto 057 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.6.5.3 — Suscripción del contrato de arrendamiento y arrendamiento con opción de compra y solicitud de asignación del subsidio
 
@@ -7302,15 +6474,11 @@ Una vez suscrito el contrato de arrendamiento o arrendamiento con opción de com
 
 (Inciso 3, modificado por el Art. 7 del Decreto 057 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.6.5.4 — Asignación del subsidio familiar de vivienda
 
 Una vez se reciba la solicitud para proceder a la asignación, previa verificación por parte de FONVIVIENDA o la entidad que éste designe de los elementos mínimos exigidos por el programa y los que determine FONVIVIENDA para la garantía y el contrato de arrendamiento o de arrendamiento con opción de compra, FONVIVIENDA procederá a la expedición del acto administrativo de asignación, la cuál estará condicionada a la respectiva disponibilidad de recursos. El Ministerio de Vivienda, Ciudad y Territorio podrá suspender o cancelar los subsidios asignados si se agotan los recursos disponibles."
 
 (Modificado por el Art. 8 del Decreto 057 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.6.5.5 — Legalización del subsidio familiar de vivienda
 
@@ -7327,8 +6495,6 @@ El subsidio familiar de vivienda de que trata el presente capítulo se entender�
 SECCIÓN 6
 
 PÉRDIDA Y RESTITUCIÓN DEL SUBSIDIO FAMILIAR DE VIVIENDA
-
-ARTÍCULO
 
 ## art:2.1.1.6.6.1 — Pérdida y restitución del subsidio familiar de vivienda
 
@@ -7358,13 +6524,9 @@ SECCIÓN 7
 
 EJERCICIO DE LA OPCIÓN DE COMPRA
 
-ARTÍCULO
-
 ## art:2.1.1.6.7.1 — Utilización del Aporte del Hogar
 
 A la terminación de la etapa de arrendamiento objeto de subsidio, el hogar podrá optar por adquirir la vivienda objeto de arrendamiento o una diferente, para lo cuál podrá hacer uso de los recursos de su aporte que no hayan sido desembolsados en el ejercicio de las garantías constituidas por el hogar para respaldar el cumplimiento de sus obligaciones.
-
-ARTÍCULO
 
 ## art:2.1.1.6.7.2 — Normatividad aplicable al proceso de asignación del subsidio de adquisición
 
@@ -7372,13 +6534,9 @@ En el proceso de adquisición de la vivienda, el hogar que haya sido beneficiari
 
 En todo caso, el hogar deberá cumplir con los requisitos que se establezcan para el acceso a la cobertura a la tasa de interés, así cómo los relacionados con la modalidad o programa de asignación del subsidio familiar de vivienda destinado a la adquisición del inmueble, vigentes al momento de efectuar su postulación a dicha modalidad.
 
-ARTÍCULO
-
 ## art:2.1.1.6.7.3 — Requisitos de la vivienda
 
 Cuando en la modalidad o programa de asignación del subsidio familiar de vivienda destinado a la adquisición de la vivienda escogida por el hogar, la entidad otorgante del subsidio sea FONVIVIENDA y/o las Cajas de Compensación Familiar, y las normas que regulan la modalidad o programa establezcan cómo requisito para la aplicación del subsidio de adquisición, que la vivienda sea nueva, podrá aplicarse el subsidio de adquisición excepcionalmente sobre una vivienda usada, siempre y cuando dicho inmueble haya sido nuevo al momento de su primera postulación al programa Semillero de Propietarios. Lo establecido en este artículo aplica igualmente para la cobertura a la tasa de interés.
-
-ARTÍCULO
 
 ## art:2.1.1.6.7.4 — Valor de la vivienda
 
@@ -7388,21 +6546,15 @@ Cuando al momento de la postulación al programa Semillero de Propietarios la vi
 
 (Modificado por el Art. 26 del Decreto 739 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.6.7.5 — Adquisición Anticipada
 
 El hogar beneficiario podrá optar por adquirir el inmueble antes del vencimiento del término por el cuál fue asignado el subsidio al canon; lo anterior sin perjuicio de la responsabilidad que le asista en el marco del contrato de arrendamiento o arrendamiento con opción de compra suscrito con el gestor inmobiliario. En caso de optar por la adquisición anticipada, la opción de compra sólo podrá ejercerse una vez se haya dado por terminado el contrato de arrendamiento o de arrendamiento con opción de compra.
-
-ARTÍCULO
 
 ## art:2.1.1.6.7.6 — Adquisición a través del Programa "Mi Casa Ya"
 
 En los casos en que el hogar beneficiario adelante el proceso de asignación del subsidio de adquisición a través del programa "Mi Casa Ya", los trámites respectivos podrán adelantarse durante la etapa de arrendamiento. Así mismo, solamente para los beneficiarios del programa "Semillero de Propietarios", el desembolso del subsidio familiar de vivienda de que trata el inciso tercero del artículo 2.1.1.4.1.5.2 del presente decreto podrá hacerse con anterioridad al desembolso del crédito hipotecario o al inicio del contrato de leasing habitacional, sin embargo, este desembolso no podrá hacerse con más de seis (6) meses de anterioridad a la terminación de la etapa de arrendamiento.
 
 Cuando el subsidio dirigido al arrendamiento haya sido aplicado sobre una vivienda nueva en el marco de un contrato de arrendamiento con opción de compra y el hogar beneficiario no ejerza la opción de adquisición a su favor sobre dicho inmueble, este no podrá ser beneficiario del subsidio de adquisición de vivienda del programa "Mi Casa Ya" por un lapso de un año contado desde la terminación de la etapa de arrendamiento subsidiado, excepto cuando el no ejercicio de la opción de compra se encuentre sustentado en razones de fuerza mayor o falta de cierre financiero lo cuál deberá estar certificado por la no asignación del crédito hipotecario o la operación de leasing habitacional por parte de la respectiva entidad financiera.
-
-ARTÍCULO
 
 ## art:2.1.1.6.7.7 — Responsabilidad del hogar beneficiario
 
@@ -7420,19 +6572,13 @@ FONVIVIENDA o quién este indique, tendrá la facultad de revisar en cualquier m
 
 Si las imprecisiones o inconsistencias se percatan con posterioridad a la asignación del subsidio, FONVIVIENDA podrá dar inicio al procedimiento administrativo sancionatorio establecido en el título 111, capítulo 111 de la Ley 1437 de 2011, caso en el cuál se iniciarán las acciones judiciales o extrajudiciales tendientes a la recuperación efectiva de dichos recursos.
 
-ARTÍCULO
-
 ## art:2.1.1.6.8.2 — Responsabilidad de la entidad otorgante
 
 FONVIVIENDA no será parte de los negocios jurídicos que realice el hogar beneficiario con el gestor inmobiliario ni de aquellos de este con el propietario del inmueble, en caso de presentarse.
 
-ARTÍCULO
-
 ## art:2.1.1.6.8.3 — Aplicación de la línea de redescuento con tasa compensada
 
 Las entidades territoriales, las entidades públicas y las entidades descentralizadas del orden nacional y territorial, así cómo las entidades de derecho privado que realicen inversiones relacionadas con proyectos de vivienda de interés social y prioritario para ser destinados al programa de qué trata el presente capítulo, podrán ser beneficiarias de la línea de redescuento con tasa compensada de la Financiera de Desarrollo Territorial FINDETER de que trata el Capítulo 2, Título 7, Parte 6, Libro 2 del Decreto 1068 de 2015, en los términos que establezca el Ministerio de Vivienda, Ciudad y Territorio en relación con los requisitos y condiciones que deben cumplir tales proyectos, de conformidad con la disponibilidad presupuestal con la que cuente la línea de redescuento con tasa compensada en la respectiva vigencia.
-
-ARTÍCULO
 
 ## art:2.1.1.6.8.4 — Ajuste al marco fiscal
 
@@ -7446,8 +6592,6 @@ La financiación del Subsidio Familiar de Vivienda aplicable a contratos de arre
 
 CONDICIONES PARA LA ASIGNACIÓN DEL SUBSIDIO FAMILIAR DE VIVIENDA EN LA MODALIDAD DE ARRENDAMIENTO PARA POBLACIÓN MIGRANTE
 
-ARTÍCULO
-
 ## art:2.1.1.6.9.1 — Aplicación del programa para población migrante
 
 La presente sección reglamenta las condiciones especiales de asignación del subsidio familiar de vivienda en la modalidad de arrendamiento en el marco del programa de promoción y acceso a la vivienda de interés social y prioritario "Semillero de Propietarios" para población migrante.
@@ -7456,13 +6600,9 @@ El subsidio familiar de vivienda para población migrante aplicará para nuevos 
 
 Las condiciones para la asignación del subsidio a población migrante que no sean reglamentadas específicamente en esta sección, se regirán por lo contemplado en las secciones 1 a 8 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.1.1.6.9.2 — Hogar migrante
 
 Es aquel conformado por una o más personas de nacionalidad venezolana que integren el mismo núcleo familiar, los cónyuges, las uniones maritales de hecho, incluyendo las parejas del mismo sexo, y/o el grupo de personas unidas por vínculos de parentesco hasta tercer grado de consanguinidad, segundo de afinidad y primero civil, que compartan un mismo espacio habitacional y cuyos miembros mayores de edad sean de la citada nacionalidad, residan en Colombia y cuenten con cédula de extranjería vigente, Permiso Especial de Permanencia - PEP- vigente, o el instrumento que defina el Gobierno nacional, y que cumplan los requisitos de acceso señalados en la presente Sección.
-
-ARTÍCULO
 
 ## art:2.1.1.6.9.3 — Valor del subsidio familiar de vivienda destinado a hogares migrantes
 
@@ -7482,15 +6622,11 @@ PARÁGRAFO 4. La asignación del subsidio de que trata la presente sección, se 
 
 (Artículo MODIFICADO por el Art. 1 del Decreto 1104 de 2022)
 
-ARTÍCULO
-
 ## art:2.1.1.6.9.4 — Suscripción del contrato de arrendamiento y solicitud de asignación del subsidio
 
 Una vez suscrito el contrato de arrendamiento o ajustado el contrato que se encuentre en curso a los requerimientos del programa, el gestor inmobiliario solicitará la asignación del subsidio de que trata el presente capítulo, a través del sistema de información que señale FONVIVIENDA para tal efecto.
 
 Los hogares migrantes beneficiarios, estarán exentos de la obligación de realizar apertura del instrumento financiero a que hace referencia el artículo 2.1.1.6.5.2 del presente Decreto, por lo tanto, no se exigirá certificar la existencia del mismo cómo requisito para la suscripción del contrato de arrendamiento señalada en el artículo 2.1.1.6.5.3 del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.6.9.5 — Requisitos
 
@@ -7508,8 +6644,6 @@ e.) No haber sido beneficiarios a cualquier título, de las coberturas de tasa d
 
 f.) Contar con concepto favorable por parte del gestor inmobiliario para la suscripción de un contrato de arrendamiento o arrendamiento con opción de compra.
 
-ARTÍCULO
-
 ## art:2.1.1.6.9.6 — Focalización territorial
 
 El Ministerio de Vivienda, Ciudad y Territorio definirá mediante acto administrativo motivado, los departamentos, distritos o municipios en donde se podrán aplicar los subsidios a la población migrante, para lo cuál deberá tener en cuenta cómo mínimo, criterios de presencia y vulnerabilidad de la población objetivo.
@@ -7518,13 +6652,9 @@ El Ministerio de Vivienda, Ciudad y Territorio coordinará con las entidades ter
 
 El Ministerio de Vivienda, Ciudad y Territorio podrá prestar apoyo jurídico y técnico a las entidades territoriales en las que se priorice la asignación de subsidios, especialmente en las actividades relacionadas con la promoción y la estrategia de comunicación del programa.
 
-ARTÍCULO
-
 ## art:2.1.1.6.9.7 — Ajuste al marco fiscal
 
 La financiación del Subsidio Familiar de Vivienda en la modalidad de arrendamiento aplicable a la población migrante, así cómo los demás costos en que incurra FONVIVIENDA asociados a la implementación del programa, estará sujeta a la disponibilidad de recursos del Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo del sector vivienda.
-
-ARTÍCULO
 
 ## art:2.1.1.6.9.8 — Postulación de viviendas para hogares migrantes
 
@@ -7546,8 +6676,6 @@ PARÁGRAFO 2. La verificación del cumplimiento de las condiciones mínimas de l
 
 (Artículo ADICIONADO por el Art. 2 del Decreto 1104 de 2022)
 
-ARTÍCULO
-
 ## art:2.1.1.6.9.9 — Asignación del subsidio familiar de vivienda para hogares migrantes
 
 Recibida la solicitud de asignación y verificado el cumplimiento de las condiciones dispuestas en el artículo 2,1.1.6.9.5 del presente decreto, por parte de FONVIVIENDA o por quien contrate para ello, se procederá a la expedición del acto administrativo de asignación del subsidio familiar de vivienda, el cual estará condicionado a la disponibilidad de recursos.
@@ -7559,8 +6687,6 @@ CAPÍTULO 7
 SUBSIDIO FAMILIAR DE VIVIENDA EN LA MODALIDAD DE MEJORAMIENTO EN EL MARCO DEL PROGRAMA "MEJORAMIENTO DE VIVIENDA" 
 
 (Título modificado por el art. 3, Decreto 413 de 2025)
-
-ARTÍCULO
 
 ## art:2.1.1.7.1 — Aplicación.(Modificado por el art
 
@@ -7574,8 +6700,6 @@ PARÁGRAFO: La asignación de los subsidios se hará de acuerdo con los montos d
 
  ARTÍCULO 2.1.1.7.1. Aplicación. Lo dispuesto en el presente capítulo aplica solamente a los procesos de asignación y ejecución del subsidio familiar de vivienda para áreas urbanas en la modalidad de mejoramiento a ser otorgado por FONVIVIENDA, en el marco del Programa denominado "Casa Digna, Vida Digna".
 
-ARTÍCULO
-
 ## art:2.1.1.7.2 — Definición de los criterios para la focalización territorial del programa.(Modificado por el art
 
 5, Decreto 413 de 2025). El Ministerio de Vivienda, Ciudad y Territorio definirá a través de acto administrativo los criterios objetivos para la focalización del programa de mejoramiento en los diferentes tipos de gestión del mejoramiento, para los Departamentos, Municipios y/o Regiones, así como las modalidades de gestión en la que podrán participar los distintos actores, en los cuales se desarrollarán las intervenciones de que trata el presente capítulo.
@@ -7588,8 +6712,6 @@ ARTÍCULO
 
 En dicha reglamentación deberán incluirse porcentajes mínimos de cupos para la asignación de subsidios a hogares con criterios de enfoque diferencial dentro de los que deberán estar incluidos cómo mínimo la población víctima de desplazamiento forzado, las mujeres cabeza de familia de los estratos más pobres de la población, las trabajadoras del sector informal y las madres comunitarias.
 
-ARTÍCULO
-
 ## art:2.1.1.7.3 — Operación del Programa.(Modificado por el art
 
 6, Decreto 413 de 2025). Para la ejecución de las intervenciones de que trata este capítulo, FONVIVIENDA podrá celebrar, en condición de fideicomitente, un contrato de fiducia mercantil o podrá utilizar cualquiera de los ya existentes, para que en estos patrimonios autónomos se administren los recursos del subsidio, así como podrá celebrar convenios, contratos y/o cualquier negocio jurídico a través del cual podrá contratarse a la entidad encargada de la asistencia técnica, operación del programa, supervisión.
@@ -7597,8 +6719,6 @@ ARTÍCULO
 Los procesos operativos de asistencia técnica podrán desarrollarse en cualquiera de las modalidades de SFV de mejoramiento y podrán contratarse acorde a los lineamientos que se definan por el Ministerio de Vivienda, Ciudad y Territorio o FONVIVIENDA.
 
 "PARÁGRAFO. La asistencia técnica se podrá contratar sin perjuicio del apoyo que preste el Ministerio de Vivienda, Ciudad y Territorio en el ámbito de sus funciones acorde a lo previsto en el Decreto ley 3571 de 2011 y el artículo 14 de Decreto 555 de 2003"
-
-ARTÍCULO
 
 ## art:2.1.1.7.4 — Modalidades de gestión del Programa de Mejoramiento de Vivienda.(Modificado por el art
 
@@ -7619,8 +6739,6 @@ PARÁGRAFO. Las personas naturales o jurídicas cuya actividad principal esté v
  Vigencia anterior
 
  ARTÍCULO 2.1.1.7.4. Participación de las entidades territoriales. Las entidades territoriales podrán postular a los potenciales beneficiarios del subsidio ante FONVIVIENDA, a través de la identificación y postulación de las zonas y las unidades de vivienda habitadas por estos. Adicionalmente, podrán aportar recursos directamente al patrimonio autónomo que se constituya para la ejecución del programa de acuerdo con los porcentajes de cofinanciación que defina el Ministerio de Vivienda, Ciudad y Territorio.
-
-ARTÍCULO
 
 ## art:2.1.1.7.5 — Beneficiarios del subsidio.(Modificado por el art
 
@@ -7664,13 +6782,9 @@ Declaración del Presidente de la Junta de Acción Comunal del barrio en la que 
 
 Además de lo anterior, se podrán aportar todos o alguno de los siguientes soportes, los cuáles se analizar n para demostrar una sana posesión: pago de servicios públicos, pago de impuestos o c9ntribuciones y valorizaciones, acciones o mejoras sobre el inmueble.
 
-ARTÍCULO
-
 ## art:2.1.1.7.6 — Acceso al Programa con subsidio vigente y sin aplicar
 
 Quién haya sido beneficiario de un subsidio familiar de vivienda asignado por FONVIVIENDA en la modalidad de mejoramiento de vivienda o mejoramiento para vivienda saludable que se encuentre vigente y sin aplicar, podrá autorizar su aplicación bajo el esquema de que trata el presente capítulo y FONVIVIENDA podrá asignar los recursos necesarios para completar dicho subsidio hasta el valor establecido en el artículo 2 .1.1.7.10 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.7.7 — Imposibilidad para postular al subsidio.(Modificado por el art
 
@@ -7713,8 +6827,6 @@ PARÁGRAFO 2. Podrán realizarse en predios donde la entidad territorial certifi
 PARÁGRAFO. Las intervenciones podrán realizarse en barrios susceptibles de ser legalizados, de acuerdo con las disposiciones del Plan de Ordenamiento Territorial respectivo, siempre y cuando se hubiese iniciado el proceso de legalización, ya sea de oficio o por solicitud de los interesados, en los términos del presente decreto. La correspondencia con los planes de ordenamiento territorial deberá ser acreditada por el respectivo alcalde y avalada por el Ministerio de Vivienda, Ciudad y Territorio.
 
 El alcalde adicionalmente, deberá certificar (i) que se ha iniciado el proceso de legalización en los términos del presente decreto, (ii) que los barrios cuentan con disponibilidad de servicios públicos domiciliarios, (iii) que los barrios tienen acceso a sistemas formales o alternativos de abastecimiento de agua y de disposición de aguas servidas, (iv) que los predios no se encuentran ubicados en zonas de alto riesgo no mitigable, (v) que los predios no se encuentran en zonas de protección de los recursos naturales, y, ( vi) que dichos predios no se hallan en zonas de reserva de obra pública o de infraestructuras básicas del nivel nacional, regional o municipal ni áreas no aptas para la localización de vivienda de acuerdo con los planes de ordenamiento territorial.
-
-ARTÍCULO
 
 ## art:2.1.1.7.9 — Categorización de las intervenciones.(Modificado por el art
 
@@ -7878,21 +6990,15 @@ El subsidio familiar de vivienda que asigne FONVIVIENDA en el marco de lo dispue
 
 El subsidio familiar de vivienda de que trata el presente artículo podrá ser aplicado en viviendas cuyo precio no supere el límite establecido en las normas que regulen la materia para la vivienda de interés social, de acuerdo con el avalúo catastral.
 
-ARTÍCULO
-
 ## art:2.1.1.7.11 — Vigencia del Subsidio
 
 La vigencia del subsidio familiar de vivienda de que trata el presente capítulo será de doce (12) meses calendario, contados desde el primer día del mes siguiente a la fecha de su asignación y hasta la legalización del mismo. La entidad otorgante, a través de su representante legal, podrá prorrogar mediante acto administrativo el subsidio familiar de vivienda por un plazo no superior a doce (12) meses."
 
 (Modificado por el Art. 29 del Decreto 739 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.7.12 — Renuncia al subsidio familiar de vivienda
 
 El beneficiario del subsidio de que trata el presente capítulo podrá, antes del inicio de las obras, renunciar voluntariamente al beneficio obtenido, mediante comunicación suscrita por los miembros mayores de edad solicitantes del subsidio.
-
-ARTÍCULO
 
 ## art:2.1.1.7.13 — Pérdida y restitución del subsidio familiar de vivienda
 
@@ -7914,8 +7020,6 @@ PARÁGRAFO . Cuando se presente la causal contemplada para la pérdida y restitu
 
  ARTÍCULO 2.1.1.7.14. Legalización del subsidio familiar de vivienda. El subsidio familiar de vivienda de que trata el presente capítulo se entenderá legalizado para FONVIVIENDA, con el documento que acredita la asignación del subsidio familiar de vivienda y el certificado de existencia de la obra de mejoramiento, suscrito por el interventor.
 
-ARTÍCULO
-
 ## art:2.1.1.7.15 — Ajuste al Marco Fiscal
 
 Los recursos del Presupuesto General de la Nación que 'se destinen para atender el subsidio familiar de vivienda de interés social de que trata el presente capítulo, así cómo los demás costos en que incurra FONVIVIENDA asociados a la ejecución de los subsidios estarán sujetos a la disponibilidad de recursos del Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo de sector vivienda.
@@ -7927,8 +7031,6 @@ Los recursos del Presupuesto General de la Nación que 'se destinen para atender
 (Capítulo Adicionado por el Art 21 del Decreto 1533 de 2019)
 
 CONCURRENCIA Y COMPLEMENTARIEDAD DEL SUBSIDIO FAMILIAR DE VIVIENDA
-
-ARTÍCULO
 
 ## art:2.1.1.8.1 — Aplicación
 
@@ -7962,15 +7064,11 @@ PARÁGRAFO 4. El subsidio de vivienda otorgado por la Caja Promotora de Vivienda
 
 (Modificado por el Art. 31 del Decreto 739 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.8.2 — Concurrencia de Subsidios
 
 El Fondo Nacional de Vivienda o quién haga sus veces, podrá otorgar el Subsidio Familiar de Vivienda en el marco de cualquiera de los programas contemplados en el presente Decreto, de forma concurrente con el subsidio familiar de vivienda previamente otorgado por las Cajas de Compensación Familiar o el subsidio de vivienda otorgado por la Caja Promotora de Vivienda Militar y de Policía para la adquisición de una solución de vivienda, siempre y cuando la naturaleza de los mismos lo permita."
 
 (Modificado por el Art. 32 del Decreto 739 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.8.3 — Condiciones de los beneficiarios
 
@@ -7986,13 +7084,9 @@ PARÁGRAFO. Cuando haya concurrencia con el programa de promoción de acceso a l
 
 (Modificado por el Art. 9 del Decreto 490 de 2023)
 
-ARTÍCULO
-
 ## art:2.1.1.8.4 — Condiciones de las Viviendas
 
 La concurrencia de subsidios de que trata el presente capítulo, podrá aplicarse para la adquisición de viviendas cuyo precio no supere el límite establecido para la vivienda de interés social en las normas que regulen la materia.
-
-ARTÍCULO
 
 ## art:2.1.1.8.5 — Monto del Subsidio otorgado por Fonvivienda
 
@@ -8008,13 +7102,9 @@ En estos casos podrá asignarse un monto de hasta veinte (20) salarios mínimos 
 
 (PARÁGRAFO adicionado por el Art. 2 del Decreto 650 de 2022.)
 
-ARTÍCULO
-
 ## art:2.1.1.8.6 — Condiciones del Subsidio
 
 Los demás requisitos de acceso, asignación, operación, legalización, pérdida y restitución relativos al subsidio familiar de vivienda que asigne Fonvivienda, serán los que se encuentren establecidos en la normatividad vigente para los respectivos esquemas o programas a los que se postule el hogar.
-
-ARTÍCULO
 
 ## art:2.1.1.8.7 — Cobertura a la tasa
 
@@ -8022,15 +7112,11 @@ Las distintas modalidades de cobertura a la tasa de interés contempladas en est
 
 (Modificado por el Art. 34 del Decreto 739 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.1.8.8 — Obligación de los Hogares
 
 Al momento de su postulación al subsidio otorgado por Fonvivienda, los hogares deberán informar su intención de aplicar el beneficio de manera concurrente con el subsidio otorgado por las Cajas de Compensación Familiar o por la Caja Promotora de Vivienda Militar y de Policía.''
 
 (Modificado por el Art. 35 del Decreto 739 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.1.8.9 — Pérdida y Restitución del Subsidio
 
@@ -8044,19 +7130,13 @@ Capítulo Adicionado por el Art. 1 del Decreto 2058 de 2019
 
 SUBSIDIO FAMILIAR DE VIVIENDA CON FEQUISITO DE AHORRO EN MODALIDAD DE ADQUISICIÓN EN EL MARCO DEL PROGRAMA "SEMILLERO DE PROPIETARIOS-AHORRADORES"
 
-ARTÍCULO
-
 ## art:2.1.1.9.1 — Aplicación
 
 El presente capítulo aplica al proceso de asignación del subsidio familiar de vivienda con requisito de ahorro, para la adquisición de vivienda de interés social nueva, del Programa "Semillero de Propietarios - Ahorradores".
 
-ARTÍCULO
-
 ## art:2.1.1.9.2 — Contrato de fiducia mercantil
 
 De acuerdo con las facultades atribuidas por el artículo 23 de la Ley 1469 de 2011, el FONDO NACIONAL DE VIVIENDA podrá administrar los recursos del subsidio de que trata el presente capítulo, mediante la constitución de patrimonios autónomos. Para tal efecto, podrá hacerse uso del patrimonio autónomo constituido en el marco del Programa "Semillero de Propietarios" de acuerdo con lo dispuesto en el artículo 2.1.1.6.4.1 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.9.3 — Activos del patrimonio autónomo
 
@@ -8072,13 +7152,9 @@ d) Los que aporte cualquier persona natural o jurídica, a título gratuito.
 
 e) Los que se determinen en el contrato de fiducia mercantil.
 
-ARTÍCULO
-
 ## art:2.1.1.9.4 — Valor del subsidio familiar de vivienda
 
 El valor del subsidio familiar de vivienda de que trata el presente capítulo, será de hasta seis (6) salarios mínimos legales mensuales vigentes al momento de la expedición del acto administrativo de cumplimiento de las condiciones para la aplicación efectiva del mismo.
-
-ARTÍCULO
 
 ## art:2.1.1.9.5 — Beneficiarios del subsidio
 
@@ -8098,8 +7174,6 @@ d) No haber sido beneficiarios de un subsidio familiar de vivienda otorgado por 
 
 e) No haber sido beneficiarios a cualquier título, de las coberturas de tasa de interés, establecidas en el Decreto 1068 de 2015, Decreto Único Reglamentario del Sector Hacienda y Crédito Público, y en el presente decreto, y las normas que los reglamenten, modifiquen, adicionen o sustituyan.
 
-ARTÍCULO
-
 ## art:2.1.1.9.6 — Postulación de beneficiarios y solicitud de habilitación del cupo de subsidio
 
 La postulación de los hogares interesados en ser beneficiarios del subsidio se hará a través del diligenciamiento del documento de postulación que defina el FONDO NACIONAL DE VIVIENDA y la apertura por parte de alguno de los miembros mayores de edad del hogar interesado, de un producto financiero de ahorro que cumpla con las condiciones que establezca el Ministerio de Vivienda, Ciudad y Territorio.
@@ -8107,8 +7181,6 @@ La postulación de los hogares interesados en ser beneficiarios del subsidio se 
 A través de la consulta en el sistema que indique el FONDO NACIONAL DE VIVIENDA, el establecimiento de crédito en el que se haya efectuado la apertura del producto, verificará que el hogar cumpla las condiciones de acceso establecidas en el artículo 2.1.1.9.5, y solicitará al FONDO NACIONAL DE VIVIENDA la habilitación del cupo de subsidio.
 
 PARÁGRAFO : El establecimiento de crédito también podrá solicitar la habilitación del cupo de subsidio para los hogares que ya cuenten con el producto financiero que cumpla con las condiciones que establezca el Ministerio de Vivienda, Ciudad y Territorio, previo diligenciamiento del documento de postulación que defina el FONDO NACIONAL DE VIVIENDA por parte de alguno de los miembros mayores de edad del hogar interesado.
-
-ARTÍCULO
 
 ## art:2.1.1.9.7 — Habilitación del cupo de subsidio
 
@@ -8118,8 +7190,6 @@ La habilitación del cupo sólo podrá hacerse siempre que la asignación del su
 
 PARÁGRAFO : El hogar que goce de la habilitación del cupo de subsidio, deberá mantener las condiciones y requisitos hasta que el FONDO NACIONAL DE VIVIENDA profiera acto administrativo de asignación, so pena de perder dicho beneficio.
 
-ARTÍCULO
-
 ## art:2.1.1.9.8 — Condiciones para la asignación del Subsidio
 
 La asignación del subsidio familiar de vivienda habilitado de conformidad con lo estipulado en este capítulo, estará sujeta al cumplimiento de las siguientes condiciones:
@@ -8127,8 +7197,6 @@ La asignación del subsidio familiar de vivienda habilitado de conformidad con l
 a) Que el hogar beneficiario complete un monto mínimo de 4.5 salarios m1rnmos legales mensuales vigentes en el producto financiero de ahorro, en máximo dieciocho (18) meses que empezarán a contar a partir de la expedición de la comunicación de habilitación en el programa.
 
 b) Que dentro de los seis (6) meses posteriores al cumplimiento del requisito establecido en el literal (a) del presente artículo, el hogar cuente con una carta de aprobación de crédito hipotecario o una operación de leasing habitacional. Para los hogares que, a la entrada en vigencia de este capítulo, ya hayan cumplido con el requisito establecido en el literal (a) del presente artículo, el término para la acreditación de la aprobación del crédito t1ipotecario o la aprobación del leasing habitacional empezará a contar a partir de la fecha de entrada en vigencia del acto administrativo expedido por el Ministerio de Vivienda, Ciudad y Territorio, a través del cuál se reglamenten las condiciones del producto financiero.
-
-ARTÍCULO
 
 ## art:2.1.1.9.9 — Solicitud de Asignación del Subsidio
 
@@ -8138,25 +7206,17 @@ La asignación del subsidio no podrá superar el 31 de diciembre de 2025.
 
 PARÁGRAFO : Los hogares que ya cuenten con el producto financiero de ahorro que cumpla con las condiciones establecidas por el Ministerio de Vivienda, Ciudad y Territorio, así cómo con las condiciones establecidas en los artículos 2.1.1.9.5 y 2.1.1.9.8 del presente decreto, no requerirán de habilitación del cupo de subsidio.
 
-ARTÍCULO
-
 ## art:2.1.1.9.10 — Desembolso del subsidio
 
 El desembolso del subsidio familiar de vivienda al vendedor de la misma, estará condicionado al cumplimiento de las mismas condiciones establecidas para el desembolso del subsidio del Programa "Mi Casa Ya", establecidas en el inciso tercero del artículo 2.1.1.4.1.5.2 de este decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.9.11 — Enfoque diferencial
 
 El Ministerio de Vivienda, Ciudad y Territorio podrá establecer hasta un veinte por ciento (20%) cómo porcentaje mínimo de destinación de subsidios con aplicación de criterios de enfoque diferencial dentro de los que deberán estar incluidos cómo mínimo la población víctima de desplazamiento forzado, las mujeres cabeza de familia de los estratos más pobres de la población, las trabajadoras del sector informal, las madres comunitarias, las personas de la tercera edad, los miembros de comunidades étnicas, la población en situación de discapacidad, los miembros de la fuerza pública, los familiares beneficiarios de estos que hubieren fallecido en actos del servicio y personal de la fuerza pública que haya tenido disminución en capacidad psicofísica o incapacidad absoluta permanente por gran invalidez.
 
-ARTÍCULO
-
 ## art:2.1.1.9.12 — Legalización y condiciones de restitución del subsidio
 
 Para efectos de la legalización del subsidio y las condiciones de restitución del mismo, se dará aplicación a lo dispuesto en los artículos 2.1.1.4.1.5.5 y 2.1.1.4.1.6.1 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.1.1.9.13 — Complementariedad y Concurrencia
 
@@ -8198,8 +7258,6 @@ PARÁGRAFO . A los hogares que estén conformados por uno o más ex integrantes 
 
 (PARÁGRAFO adicionado por el Art. 3 del Decreto 650 de 2022.)
 
-ARTÍCULO
-
 ## art:2.1.1.9.14 — Ajuste al Marco Fiscal
 
 Los recursos del Presupuesto General de la Nación que se destinen para atender el subsidio familiar de vivienda de interés social de que trata este capítulo, así cómo los demás costos en que incurra FONVIVIENDA asociados a la ejecución de los subsidios estarán sujetos a la disponibilidad de recursos del Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo del sector vivienda
@@ -8209,8 +7267,6 @@ TRANSFERENCIA DE BIENES FISCALES
 CAPÍTULO 1
 
 TRANSFERENCIA DE BIENES FISCALES PARA VIVIENDA DE INTERÉS SOCIAL DE LA LEY 708 DE 2002 Y LEY 1151 DE 2007
-
-ARTÍCULO
 
 ## art:2.1.2.1.1 — Transferencia de bienes fiscales del inmueble denominado 'La Chiguaza'
 
@@ -8230,15 +7286,11 @@ SECCIÓN 1
 
 TITULACIÓN
 
-ARTÍCULO
-
 ## art:2.1.2.2.1.1 — Ámbito de aplicación
 
 El presente capítulo se aplica en su primera sección a los artículos 276 y 277 de la Ley 1955 de 2019, y a los artículos 9, 10, 11, 12, 13, 14, 16 y 18 de la Ley 2044 de 2020. La segunda sección se refiere a la cesión a título gratuito o enajenación de bienes fiscales ocupados ilegalmente, en aplicación del artículo 277 de la Ley 1955 de 2019 y los artículos 9, 10, 11, 12, 13, 14, 16 y 18 de la Ley 2044 de 2020. La tercera sección se ocupa de la transferencia de dominio de bienes fiscales entre entidades, en aplicación del artículo 41 de la Ley 1537 de 2012, y del artículo 276 de la Ley 1955 de 2019; la cuarta sección a asuntos relacionados con la licencia de subdivisión, zonas de cesión obligatoria y levantamiento de hipotecas.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.1.2 — Definiciones
 
@@ -8280,8 +7332,6 @@ Cuando se trate de la enajenación de conformidad con lo previsto en el artícul
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.1.3 — Atribuciones y facultades
 
 De acuerdo con lo dispuesto en el presente capítulo el representante legal o su delegado, de las entidades públicas del orden territorial deberán estar facultados para la transferencia de bienes inmuebles fiscales entre entidades, cesión a título gratuito o enajenación de bienes fiscales ocupados ilegalmente.
@@ -8293,8 +7343,6 @@ PARÁGRAFO TRANSITORIO . Las facultades a que se refiere el presente artículo, 
 SECCIÓN 2
 
 TRÁMITE DE CESIÓN GRATUITA Y ENAJENACIÓN DE BIENES FISCALES
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.1 — Identificación jurídica y técnica del inmueble
 
@@ -8316,8 +7364,6 @@ PARÁGRAFO 2. La identificación y transformación jurídica de Bienes Baldíos 
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.2 — Documentación técnica del inmueble
 
 Una vez identificado el inmueble objeto de titulación, se solicitarán los siguientes documentos, siempre y cuando estos no reposen en la entidad cedente:
@@ -8329,8 +7375,6 @@ Una vez identificado el inmueble objeto de titulación, se solicitarán los sigu
 PARÁGRAFO . La cesión a título gratuito estará basada en la información que suministre la entidad cedente o la autoridad encargada de la gestión catastral y no se exigirá ni será tenido en cuenta para ningún efecto el avalúo comercial o catastral del inmueble objeto del trámite.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.3 — 2.3
 
@@ -8350,8 +7394,6 @@ PARÁGRAFO 2. Para lograr la identificación del hogar, la entidad cedente podr�
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.4 — Acreditación de la ocupación ininterrumpida
 
 La acreditación de la ocupación ininterrumpida podrá ser demostrada por el hogar utilizando cualquiera de los siguientes medios:
@@ -8370,8 +7412,6 @@ PARÁGRAFO . La cesión de la que trata el artículo 277 de la Ley 1955 de 2019 
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.5 — Requisitos del hogar
 
 La cesión a título gratuito sólo procederá para aquel hogar ocupante que reúna las siguientes condiciones:
@@ -8386,15 +7426,11 @@ Acreditación de la ocupación ininterrumpida en el inmueble con mínimo diez (1
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.6 — Asistencia técnica en el proceso de saneamiento y titulación
 
 El Ministerio de Vivienda, Ciudad y Territorio podrá prestar apoyo jurídico y técnico para el saneamiento y titulación en los términos del presente capítulo.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.7 — Cruce y validación de la información
 
@@ -8407,8 +7443,6 @@ PARÁGRAFO . Previo a la expedición del acto administrativo definitivo, la enti
 La entidad cedente compulsará copias de la actuación administrativa a las autoridades administrativas o judiciales competentes, cuando sea del caso.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.8 — Comunicación de la actuación administrativa a terceros
 
@@ -8431,8 +7465,6 @@ En todo caso, la comunicación deberá fijarse en las oficinas de la entidad ced
 Los interesados podrán hacerse parte dentro de los cinco (5) días hábiles siguientes a la realización en comunicación en los términos del presente parágrafo, acreditando las razones de su petición. La entidad cedente dispondrá de treinta (30) días hábiles para dar respuesta.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.9 — Contenido y término para la expedición del acto administrativo de cesión
 
@@ -8474,23 +7506,17 @@ PARÁGRAFO 3. El acto administrativo de cesión a título gratuito incluirá la 
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.10 — Notificación del acto administrativo de cesión
 
 Se procederá a notificar los actos administrativos de conformidad con el artículo 66 y siguientes del Capítulo V "Publicaciones, citaciones, comunicaciones y notificaciones, del Título III de la Parte Primera del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.11 — Registro del acto administrativo de cesión a título gratuito
 
 Ejecutoriado de conformidad con lo establecido en el artículo 89 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, el acto administrativo de cesión gratuita del bien fiscal titulable será inscrito en la oficina de registro de instrumentos públicos, constituyendo el folio de matrícula inmobiliaria, plena prueba de propiedad en favor del cesionario.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.12 — Causales de terminación de la actuación administrativa
 
@@ -8505,8 +7531,6 @@ Cuando no se hubiesen subsanado las imprecisiones o aclarado las presuntas irreg
 PARÁGRAFO . Cuando la construcción o mejora no cuente con destinación económica habitacional, no se dará inicio a la actuación administrativa de cesión a título gratuito.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2.13 — Enajenación de bienes fiscales
 
@@ -8528,8 +7552,6 @@ PARÁGRAFO 4. Para la enajenación de que trata el numeral 3 del presente artíc
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.14 — Enajenación directa por parte de entidades territoriales
 
 El trámite de enajenación directa que efectúen las entidades territoriales podrá observar las siguientes etapas:
@@ -8550,8 +7572,6 @@ Si tanto el lote cómo la construcción son de propiedad de la entidad pública,
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.2.15 — Segregación de inmuebles en mayor extensión
 
 Cuando se trate de predios que formen parte de otros de mayor extensión o que no cuenten con folio de matrícula individual, previamente la entidad titular con sujeción a los límites de extensión previstos en el plan de ordenamiento territorial respectivo podrá tramitar ante la autoridad encargada de la gestión catastral la segregación del área de la mejora y/o construcción, de manera que la transferencia corresponda a ésta última.
@@ -8568,8 +7588,6 @@ SECCIÓN 3.
 
 TRANSFERENCIA DE DOMINIO DE BIENES FISCALES ENTRE ENTIDADES
 
-ARTÍCULO
-
 ## art:2.1.2.2.3.1 — Transferencia gratuita de inmuebles entre entidades
 
 La enajenación directa de bienes inmuebles fiscales regulada en el presente capítulo no procederá cuando la entidad territorial en la que se encuentre ubicado el predio manifieste su interés en el mismo con fines de infraestructura y vivienda en los términos del artículo 276 de la Ley 1955 de 2019 y el artículo 41 de la Ley 1537 de 2012.
@@ -8579,8 +7597,6 @@ La transferencia de los bienes inmuebles fiscales se hará mediante acto adminis
 PARÁGRAFO . En el marco de los artículos 276 y 277 de la Ley 1955 de 2019, las sociedades públicas y de economía mixta podrán transferir y ceder a título gratuito mediante acto administrativo el dominio de aquellos bienes inmuebles fiscales de su propiedad que les hayan sido transferidos por otras entidades del Estado y que no requieran para el ejercicio de sus funciones.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.3.2 — Condiciones para la transferencia gratuita de inmuebles fiscales entre entidades
 
@@ -8594,8 +7610,6 @@ PARÁGRAFO 1. En todo caso la entidad receptora previo a la transferencia, podr�
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.3.3 — Etapas para la transferencia gratuita entre entidades públicas
 
 Es el análisis jurídico de la tradición del inmueble que permite determinar la titularidad del dominio, identificando las limitaciones, afectaciones o gravámenes que incidan en la titularidad del derecho de dominio.
@@ -8607,8 +7621,6 @@ Es el análisis jurídico de la tradición del inmueble que permite determinar l
 PARÁGRAFO . Las entidades públicas podrán transferir entre sí, aquellos inmuebles fiscales ubicados en zonas insalubres o de alto riesgo no mitigable, identificadas así en el respectivo plan de ordenamiento territorial o de los instrumentos que lo desarrollen o complementen, así cómo aquellos inmuebles que presenten discrepancias entre la información catastral y la que repose en la respectiva oficina de registro de instrumentos públicos.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.3.4 — Documentos requeridos para la transferencia gratuita entre entidades públicas
 
@@ -8628,8 +7640,6 @@ PARÁGRAFO . No se requerirá la presentación de proyectos de vivienda para la 
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.3.5 — Trámite para la transferencia gratuita entre entidades
 
 La transferencia de bienes inmuebles fiscales se efectuará mediante resolución administrativa inscrita en la oficina de registro de instrumentos públicos correspondiente, previa identificación de su descripción, cabida y linderos, e identificación catastral por parte de la entidad interesada en su adquisición.
@@ -8637,8 +7647,6 @@ La transferencia de bienes inmuebles fiscales se efectuará mediante resolución
 Lo anterior, atendiendo la incorporación adelantada por la autoridad encargada de la gestión catastral, de conformidad con las disposiciones que regulen la materia, y la identificación jurídica a través de un estudio de títulos de los predios a transferir.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.3.6 — Saneamiento y titulación de bienes fiscales ocupados ilegalmente
 
@@ -8648,15 +7656,11 @@ Así mismo, las entidades receptoras serán responsables de acatar la destinaci�
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.3.7 — Enajenación de bienes inmuebles a instituciones públicas
 
 Los bienes inmuebles fiscales ocupados ilegalmente con mejoras realizadas por parte de instituciones educativas públicas, culturales públicas o de salud pública se podrán enajenar a la entidad territorial por su avalúo catastral, con un descuento del 90% que será pagado de contado y consignado en la cuenta bancaria que disponga la entidad, en los términos del artículo 9 de la Ley 2044 de 2020.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.3.8 — Régimen de transición
 
@@ -8668,8 +7672,6 @@ SECCIÓN 4
 
 ASUNTOS RELACIONADOS CON LA LICENCIA DE SUBDIVISIÓN, ZONAS DE CESIÓN OBLIGATORIA Y LEVANTAMIENTO DE HIPOTECAS
 
-ARTÍCULO
-
 ## art:2.1.2.2.4.1 — Licencia de subdivisión
 
 Conforme a lo establecido en el parágrafo del artículo 2.2.6.5.2. del Decreto 1077 de 2015 no se requerirá licencia de subdivisión para la transferencia de predios realizada mediante acto administrativo en aplicación de los artículos 276 y 277 de la Ley 1955 de 2019 y 14 de la Ley 2044 de 2020, referidos respectivamente a la transferencia de dominio de bienes inmuebles fiscales entre entidades y la cesión a título gratuito o enajenación de bienes fiscales.
@@ -8678,15 +7680,11 @@ Tampoco se requerirá licencia de subdivisión para la transferencia a cualquier
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.2.2.4.2 — Zonas de cesión obligatoria
 
 Cuando se trate de zonas de cesión obligatoria o con vocación de uso público que se transfieran mediante acto administrativo en aplicación del artículo 6 de la Ley 1001 de 2005 y en los cuáles no existan planos urbanísticos, la descripción del área y los linderos de los predios, será reemplazada por el certificado o plano predial catastral, o por el plano topográfico elaborado por un agrimensor, topógrafo o ingeniero con matrícula profesional vigente, asociado a la Red Geodésica Nacional, correspondiente al Datum Magna Sirgas, de conformidad con lo dispuesto en el artículo 2.1.2.2.2.9 del presente Capítulo.
 
 (Modificado por el Art. 1 del Decreto 523 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.2.2.4.3 — Levantamiento de hipotecas
 
@@ -8706,15 +7704,11 @@ SECCIÓN 1
 
 IDENTIFICACIÓN Y OFRECIMIENTO DE INMUEBLES
 
-ARTÍCULO
-
 ## art:2.1.2.3.1.1 — Bienes susceptibles de ser transferidos para proyectos de VIS
 
 Las entidades públicas del orden nacional y territorial que hagan parte de cualquiera de las Ramas del Poder Público, los bancos inmobiliarios, así cómo los órganos autónomos e independientes, podrán transferir a título gratuito al Fondo Nacional de Vivienda FONVIVIENDA, a los patrimonios autónomos que este y/o Findeter constituyan, a los patrimonios autónomos que constituyan las entidades que determine FONVIVIENDA, o a las entidades públicas que desarrollen programas de vivienda de interés social de carácter territorial, departamental, municipal o Distrital, los bienes inmuebles fiscales urbanos de su propiedad, o la porción de ellos, que puedan ser destinados para la construcción o el desarrollo de proyectos de vivienda de interés social, de acuerdo a lo establecido en los Planes de Ordenamiento Territorial y los instrumentos que lo complementen o desarrollen.
 
 (Decreto 0872 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.2.3.1.2 — Identificación y determinación de los bienes susceptibles de ser transferidos para proyectos VIS
 
@@ -8730,8 +7724,6 @@ PARÁGRAFO . Cada entidad pública será responsable de la realización de los e
 
 (Decreto 0872 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.2.3.1.3 — 1.3
 
 Información remitida por parte de entidades que tengan a su cargo la administración de programas de activos públicos del Estado. En cumplimiento de lo establecido en el parágrafo 2 del artículo 41 de la Ley 1537 de 2012, la Dirección Nacional de Estupefacientes (en Supresión) o la entidad que haga sus veces, la Central de Inversiones S.A., (CISA S.A.) y todas las demás entidades que tengan a su cargo la administración de programas de activos públicos del Estado suministrarán, cada seis meses, al Ministerio de Vivienda, Ciudad y Territorio un listado completo de los inmuebles ubicados en el perímetro urbano, susceptibles de ser vinculados de manera inmediata a la ejecución de proyectos de construcción de vivienda de interés social, para lo cuál adjuntará los documentos relacionados en los numerales 2.1 a 2.3 del artículo 2.1.2.3.1.2 del presente capítulo.
@@ -8739,8 +7731,6 @@ Información remitida por parte de entidades que tengan a su cargo la administra
 Una vez remitido el listado al Ministerio de Vivienda, Ciudad y Territorio, este entregará la información a FONVIVIENDA, para que dé cumplimiento a lo establecido en el artículo 2.1.2.3.1.4 de este capítulo.
 
 (Decreto 0872 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.2.3.1.4 — 1.4
 
@@ -8754,8 +7744,6 @@ PARÁGRAFO . Cuando FONVIVIENDA, o las otras entidades o patrimonios autónomos 
 
 (Decreto 0872 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.2.3.1.5 — 1.5
 
 Condiciones para el recibo de bienes inmuebles por parte de las entidades y patrimonios autónomos autorizados por la Ley 1537 de 2012. Cuando FONVIVIENDA manifieste interés en adquirir para sí, o para alguno de los patrimonios autónomos que haya constituido, los inmuebles a los que hace referencia la presente sección, la transferencia se sujetará al reglamento que expida esa entidad, o a las condiciones que se hayan definido para la adquisición y recibo de bienes inmuebles por parte de los patrimonios autónomos respectivos.
@@ -8763,8 +7751,6 @@ Condiciones para el recibo de bienes inmuebles por parte de las entidades y patr
 Cuando se hayan constituido patrimonios autónomos por parte de Findeter u otras entidades señaladas por el Gobierno Nacional, para el desarrollo de proyectos de vivienda de interés social, la transferencia se sujetará al reglamento que expida la entidad que haya constituido el patrimonio autónomo, o a las condiciones que se hayan definido para la adquisición y recibo de bienes inmuebles por parte de los patrimonios autónomos respectivos.
 
 (Decreto 0872 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.2.3.1.6 — Ofrecimiento de inmuebles de otras entidades públicas, a las entidades que desarrollen proyectos de VIS
 
@@ -8782,8 +7768,6 @@ SECCIÓN 2
 
 SOLICITUD DE INMUEBLES A LAS ENTIDADES PÚBLICAS DEL ORDEN NACIONAL Y CONDICIONES PARA SU TRANSFERENCIA
 
-ARTÍCULO
-
 ## art:2.1.2.3.2.1 — Solicitud de inmuebles a la entidad propietaria, para el desarrollo de proyectos de VIS
 
 Las entidades públicas del orden departamental, municipal o distrital podrán solicitar a la entidad pública de la Rama Ejecutiva del orden nacional, propietaria de un inmueble, que el mismo les sea transferido para el desarrollo de un proyecto de vivienda de interés social, caso en el cuál deberán remitir con su solicitud los documentos a los cuáles hace referencia los numerales 2.1 a 2.3 del artículo 2.1.2.3.1.2 del presente capítulo, y, en todo caso, la entidad propietaria deberá surtir previamente el proceso de ofrecimiento del inmueble a FONVIVIENDA para que este manifieste si tiene interés en que sean transferidos a los patrimonios autónomos que haya constituido para el desarrollo de proyectos de vivienda de interés prioritario.
@@ -8793,8 +7777,6 @@ En el caso en que FONVIVIENDA se pronuncie indicando que el inmueble no será re
 Cuando las entidades y patrimonios autónomos antes mencionados manifiesten, estos últimos a través de los entes u órganos competentes, que no tienen interés en la adquisición del inmueble, la entidad pública de la Rama Ejecutiva del orden nacional, propietaria del inmueble podrá transferirlo a las entidades públicas del orden departamental, municipal o distrital que lo hayan solicitado, cumpliendo las condiciones a que se refiere el artículo 2.1.2.3.2.2 del presente capítulo.
 
 (Decreto 0872 de 2013, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.2.3.2.2 — 2.2
 
@@ -8828,15 +7810,11 @@ SECCIÓN 3
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.1.2.3.3.1 — Condiciones de otras entidades para la transferencia de bienes inmuebles
 
 Las entidades territoriales, las entidades de la Rama Legislativa y Judicial del Poder Público, los bancos inmobiliarios, así cómo los órganos autónomos e independientes, definirán los procedimientos y condiciones para la transferencia de bienes inmuebles a entidades públicas del orden departamental, distrital o municipal, con el fin de dar cumplimiento a lo establecido en el artículo 41 de la Ley 1537 de 2012.
 
 (Decreto 0872 de 2013, artículo 9).
-
-ARTÍCULO
 
 ## art:2.1.2.3.3.2 — Autorización para transferir inmuebles para VIS
 
@@ -8854,8 +7832,6 @@ Cuando en el folio de matrícula inmobiliaria del bien inmueble susceptible de s
 
 (Decreto 0872 de 2013, artículo 10).
 
-ARTÍCULO
-
 ## art:2.1.2.3.3.3 — Transferencia de inmuebles para el desarrollo de programas de titulación de predios ocupados con VIS
 
 Cuando una entidad pública que desarrolle programas de vivienda de interés social de carácter nacional, territorial, departamental, municipal o Distrital manifieste interés en adquirir un inmueble de propiedad de una entidad del orden nacional, para el desarrollo de un programa de titulación de bienes fiscales ocupados con vivienda de interés social, la entidad propietaria establecerá en el acto administrativo de transferencia la condición de que la adquirente suscriba con el Ministerio de Vivienda, Ciudad y Territorio, un convenio en el cuál se someta a las condiciones del Programa Nacional de Titulación ejecutado por este último, el cuál se regirá por las disposiciones establecidas en la Ley 1001 de 2005 y el capítulo 2.1.2.2 del presente decreto, o las normas que lo modifiquen, adicionen o sustituyan.
@@ -8869,8 +7845,6 @@ CAPÍTULO 1
 (Capítulo modificado por el Art. 17 del Decreto 1533 de 2019)
 
 PROGRAMA DE COBERTURA CONDICIONADA PARA CRÉDITOS DE VIVIENDA SEGUNDA GENERACIÓN
-
-ARTÍCULO
 
 ## art:2.1.3.1.1 — Cobertura de tasa de interés para la financiación de vivienda de interés social nueva para áreas urbanas
 
@@ -8893,8 +7867,6 @@ El Ministerio de Vivienda, Ciudad y Territorio establecerá las condiciones que 
 FONVIVIENDA informará al Banco de la República las entidades que acreditaron estos requisitos para efectos de la celebración del contrato marco de permuta financiera a que se refiere el presente capítulo."
 
 (Modificado por el Art. 19 del Decreto 951 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.3.1.2 — Graduación de la cobertura
 
@@ -8926,8 +7898,6 @@ El Fondo Nacional de Vivienda - FONVIVIENDA con el apoyo del Viceministerio Téc
 
 (Modificado por el Art. 15 del Decreto 46 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.3.1.3 — Condiciones para el acceso a la cobertura
 
 Los deudores del crédito o locatarios del contrato de leasing habitacional, para acceder a la cobertura deberán cumplir las siguientes condiciones, además de las previstas en este capítulo y en la reglamentación que se expida para el efecto:
@@ -8947,8 +7917,6 @@ Con el fin que los establecimientos de crédito, las entidades de economía soli
 En caso de presentarse inconsistencias entre la información presentada por los potenciales beneficiarios de la cobertura y las consultas que realicen los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar para verificar las condiciones previstas en el numeral 2 del presente artículo, corresponderá a los potenciales beneficiarios acreditar el cumplimiento de dichas condiciones."
 
 (Modificado por el Art. 21 del Decreto 951 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.3.1.4 — Créditos o Contratos de Leasing Habitacional elegibles
 
@@ -8977,8 +7945,6 @@ Para el caso de los créditos que otorguen las cajas de compensación familiar l
 3 Unicidad: La cobertura se otorgará por una sola vez y se aplicará a todos los deudores del crédito o locatarios del respectivo contrato de leasing, a cualquier título.
 
 (Modificado por el Art. 16 del Decreto 46 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.3.1.5 — Terminación anticipada de la cobertura
 
@@ -9026,8 +7992,6 @@ El FONDO NACIONAL DE VIVIENDA -FONVIVIENDA- dará al Banco de la República, có
 
 (Parágrafo Transitorio Adicionado por el Art. 2 del Decreto 493 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.3.1.6 — Recursos para la cobertura
 
 Los recursos requeridos para el otorgamiento y pago de las coberturas previstas en este capítulo, así cómo los gastos de gestión en que incurra el Banco de la República en la realización de la permuta financiera serán apropiados en el Presupuesto General de la Nación a través del Fondo Nacional de Vivienda - FONVIVIENDA o quién haga sus veces, y serán comprometidos con cargo a su presupuesto de inversión a favor del FRECH Ley 1450 de 2011, dando cumplimiento a las disposiciones en materia presupuestal.
@@ -9037,8 +8001,6 @@ La apropiación de estos recursos deberá guardar concordancia con la disponibil
 PARÁGRAFO . El otorgamiento de coberturas a deudores de créditos de vivienda otorgados por los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar y a locatarios en los contratos de leasing habitacional celebrados por los establecimientos de crédito, estará sujeto a la disponibilidad de recursos."
 
 (Parágrafo, modificado por el Art. 24 del Decreto 951 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.3.1.7 — Giro de los recursos
 
@@ -9054,21 +8016,15 @@ El Banco de la República, cómo administrador del FRECH, no será responsable p
 
 Los trámites de apropiación, ejecución, registro y desembolso presupuestales estarán a cargo de FONVIVIENDA.
 
-ARTÍCULO
-
 ## art:2.1.3.1.8 — Restitución de los recursos de la cobertura
 
 Las sumas provenientes de las restituciones de recursos que deban realizar los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar al FRECH - Ley 1450 de 2011 respecto de créditos u operaciones de leasing habitacional cuyos deudores o locatarios que no tengan derecho a la cobertura o que se haya entregado en exceso, o por haber perdido la posibilidad de realizar el intercambio de flujos de la cobertura, o cualquier otra suma que deba restituirse, serán consignados directamente por los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público a las cuentas abiertas para tal fin. FONVIVIENDA impartirá a los establecimientos de crédito, a las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y a las cajas de compensación familiar las instrucciones para la restitución de estos recursos."
 
 (Modificado por el Art. 25 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.3.1.9 — Convenio interadministrativo
 
 Para efecto de determinar las condiciones en que debe realizarse la permuta financiera de tasa de interés pactada sobre los créditos y contratos de leasing habitacional objeto de cobertura, el Fondo Nacional de Vivienda - FONVIVIENDA y el Banco de la República, cómo administrador del FRECH, suscribirán un convenio interadministrativo.
-
-ARTÍCULO
 
 ## art:2.1.3.1.10 — Contratos marco de permuta financiera de tasas de interés
 
@@ -9120,8 +8076,6 @@ PARÁGRAFO 4 El Banco de la República deberá establecer en los contratos marco
 
 (Parágrafo 4, Adicionado por el Art. 26 del Decreto 951 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.3.1.11 — .11
 
 Responsabilidad de los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar. Los establecimientos de crédito, las entidades de economía solidaria vigiladas por la Superintendencia de la Economía Solidaria y las cajas de compensación familiar serán los únicos responsables de verificar el cumplimiento de los requisitos y condiciones establecidos para el acceso, vigencia, y terminación anticipada de la cobertura de tasa de interés a los créditos o contratos de leasing habitacional de que trata el presente capítulo; así cómo de la veracidad de la información presentada al FRECH - Ley 1450 de 2011 y del cumplimiento de las obligaciones contenidas en el contrato marco que suscriba con el Banco de la República. Con la verificación del establecimiento de crédito, la entidad de economía solidaria vigilada por la Superintendencia de la Economía Solidaria o la caja de compensación familiar se acreditará el cumplimiento de las condiciones y requisitos y no habrá lugar a verificaciones adicionales por parte del Banco de la República cómo administrador del FRECH.
@@ -9152,15 +8106,11 @@ CAPÍTULO 1
 
 REGLAS SOBRE SERVICIOS PÚBLICOS DOMICILIARIOS
 
-ARTÍCULO
-
 ## art:2.1.4.1.1 — Ámbito de aplicación
 
 El presente capítulo será aplicable a los contratos celebrados para el arrendamiento de vivienda urbana, de conformidad con la Ley 820 de 2003. Así mismo se aplicará a los contratos de arrendamiento de vivienda urbana celebrados en vigencia la Ley 56 de 1985, si las partes del contrato de común acuerdo se acogen a los términos de la Ley 820 de 2003.
 
 (Decreto 3130 de 2003, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.4.1.2 — Pago de los servicios públicos domiciliarios
 
@@ -9168,15 +8118,11 @@ Cuando un inmueble sea entregado en arrendamiento, mediante contrato verbal o es
 
 (Decreto 3130 de 2003, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.4.1.3 — Clases de garantías
 
 Para efectos de la aplicación del numeral 1 del artículo 15 de la Ley 820 de 2003, se considerarán cómo garantías o fianzas las siguientes: depósitos en dinero a favor de las Entidades o Empresas de Servicios Públicos Domiciliarios, garantías constituidas u otorgadas ante Instituciones Financieras o Fiduciarias, póliza de seguros, fiador, endoso de títulos y/o garantías, fiducia y encargo fiduciario, así cómo cualquiera otra que conforme a la ley cumpla con dicha finalidad.
 
 (Decreto 3130 de 2003, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.4.1.4 — Depósito en dinero a favor de la entidad o empresa prestadora de servicios públicos domiciliarios
 
@@ -9192,8 +8138,6 @@ PARÁGRAFO . Los dineros entregados en depósito, junto con sus rendimientos, se
 
 (Decreto 3130 de 2003, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.4.1.5 — Denuncio del contrato de arrendamiento
 
 El arrendador y/o el arrendatario deberá informar a las Entidades o Empresas de Servicios Públicos domiciliarios, a través del formato previsto en el presente capítulo y con la información mínima exigida en el artículo 2.1.4.1.8, de la existencia o terminación del contrato de arrendamiento.
@@ -9201,8 +8145,6 @@ El arrendador y/o el arrendatario deberá informar a las Entidades o Empresas de
 PARÁGRAFO 1. Si el arrendador incumple con su obligación de denunciar la existencia o terminación del contrato de arrendamiento, el propietario o poseedor será solidario en los términos establecidos por el artículo 30 Ley 142 de 1994, modificado por el artículo 18 de la Ley 689 de 2001.
 
 (Decreto 3130 de 2003, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.4.1.6 — Valor de la garantía o depósito
 
@@ -9218,8 +8160,6 @@ PARÁGRAFO 3. En el caso de las entidades o empresas prestadoras del servicio de
 
 (Decreto 3130 de 2003, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.4.1.7 — De las otras garantías
 
 Las garantías constituidas tendrán cómo mínimo una vigencia igual al plazo del contrato de arrendamiento. Vencido el término inicial en caso de ser renovado, el arrendatario deberá renovar también la garantía, de conformidad con lo señalado en este capítulo.
@@ -9229,8 +8169,6 @@ PARÁGRAFO 1. Una vez recibida la documentación respectiva, las Entidades o Emp
 En el evento de que la entidad o empresa no acepte la garantía remitida, deberá informarlo especificando las causas al arrendador y al arrendatario para que realice los ajustes necesarios. En este caso se iniciarán nuevamente los términos señalados en el inciso anterior.
 
 (Decreto 3130 de 2003, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.4.1.8 — Formatos para la denuncia del arriendo y su terminación
 
@@ -9258,8 +8196,6 @@ Dicho formulario debe ser suscrito por el arrendador y arrendatario, bajo la gra
 
 (Decreto 3130 de 2003, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.4.1.9 — Solicitud de nuevos servicios
 
 En el evento en que el arrendatario solicite a las entidades o empresas prestadoras de servicios públicos domiciliarios un nuevo servicio adicional a los básicos, se dará aplicación a lo establecido en el numeral sexto (6) del artículo 15 de la Ley 820 de 2003. El arrendatario podrá en cualquier momento requerir la cancelación o suspensión del servicio adicional solicitado por él mismo, caso en el cuál le será devuelta la garantía o depósito a que haya lugar, sin que necesariamente medie la terminación del contrato de arrendamiento.
@@ -9274,15 +8210,11 @@ SECCIÓN 1
 
 DE LA MATRÍCULA DE ARRENDADOR
 
-ARTÍCULO
-
 ## art:2.1.4.2.1.1 — De las autoridades competentes
 
 Para efectos de la armónica y correcta aplicación de lo dispuesto en los artículos 28, 29, 30, 32 y 33 de la Ley 820 de 2003, la Alcaldía Mayor de Bogotá, D. C., la Gobernación del Departamento Archipiélago de San Andrés, Providencia y Santa Catalina y las alcaldías de los municipios y distritos del país, son las autoridades administrativas competentes para ejercer las funciones relativas a la matrícula de arrendadores de que trata el artículo 28 de la Ley 820 de 2003.
 
 (Decreto 0051 de 2004, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.4.2.1.2 — Sistema de registro de la matrícula de arrendadores
 
@@ -9298,15 +8230,11 @@ PARÁGRAFO 3. Las personas naturales o jurídicas de que trata el artículo 28 d
 
 (Decreto 0051 de 2004, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.4.2.1.3 — Términos para la expedición de la matrícula de arrendador
 
 Dentro de los ocho (8) días hábiles siguientes a la presentación por parte del interesado de la totalidad de la documentación señalada en el artículo 29 de la Ley 820 de 2003, las autoridades competentes deberán efectuar el registro de la matrícula de arrendador. En los eventos en que no se aporte la totalidad de los documentos requeridos para matricularse cómo arrendador, la autoridad competente requerirá por una sola vez al interesado para que complete o aclare la información suministrada según sea el caso. Dentro de los cinco días (5) siguientes a la entrega de la información complementaria requerida, la autoridad competente procederá a efectuar el registro correspondiente y a expedir la certificación a la que se hizo alusión en el inciso 2 del artículo 2 del presente capítulo, siempre que la información y documentación cumpla con los requisitos legales necesarios para acceder favorablemente a la solicitud.
 
 (Decreto 0051 de 2004, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.4.2.1.4 — Vigencia de la matrícula de arrendador
 
@@ -9314,15 +8242,11 @@ La matrícula se otorgará por una sola vez, tendrá vigencia por el término de
 
 (Decreto 0051 de 2004, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.4.2.1.5 — Suspensión o revocatoria de la matrícula de arrendador
 
 Sin perjuicio de la imposición de la sanción de multa a la que se refiere el artículo 34 de la Ley 820 de 2003, las autoridades competentes podrán suspender o revocar la matrícula de arrendador, cuando las personas matriculadas incurran de manera reiterada en las conductas descritas en los numerales 2, 3, 4, 5 y 6 del artículo citado y demás normas que la adicionen, modifiquen o sustituyan.
 
 (Decreto 0051 de 2004, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.4.2.1.6 — De la información pública
 
@@ -9333,8 +8257,6 @@ La información que repose en el registro de arrendadores relativa al otorgamien
 SECCIÓN 2
 
 DE LA INSPECCIÓN, VIGILANCIA Y CONTROL SOBRE LAS PERSONAS QUE EJERCEN ACTIVIDADES DE ARRENDAMIENTO DE BIENES RAÍCES PARA VIVIENDA URBANA
-
-ARTÍCULO
 
 ## art:2.1.4.2.2.1 — De la inspección, vigilancia y control
 
@@ -9362,8 +8284,6 @@ CAPÍTULO 3
 
 SOCIEDADES ESPECIALIZADAS DE ARRENDAMIENTO
 
-ARTÍCULO
-
 ## art:2.1.4.3.1 — Definiciones
 
 Para los efectos del presente capítulo se entenderá por:
@@ -9378,23 +8298,17 @@ Para los efectos del presente capítulo se entenderá por:
 
 (Decreto 1789 de 2004, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.4.3.2 — Activos en los que puede invertir las sociedades especializadas en arriendo
 
 Las sociedades especializadas en arriendo deberán concentrar sus inversiones en activos correspondientes a vivienda urbana, a bienes inmuebles diferentes a vivienda, y a aquellos otros necesarios para el desarrollo de la actividad constructora.
 
 (Decreto 1789 de 2004, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.4.3.3 — Revelación de información
 
 Adicional a los requisitos exigidos en la ley y en los estatutos sociales, los informes de gestión rendidos por la alta gerencia de las sociedades especializadas en arriendo a su máximo órgano social al final de cada ejercicio, deberán contener una clara enumeración de los inmuebles poseídos al inicio, durante y al final del ejercicio, incluyendo localización, destinación, área y fecha de adquisición. También incluirán para cada inmueble el valor actualizado, el nombre del agente especializado que practicó el avalúo y los ingresos brutos producidos por concepto de cánones de arriendo. Estos listados de inmuebles deberán clasificarse por categorías VIS, Viviendas no VIS, y uso comercial.
 
 (Decreto 1789 de 2004, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.4.3.4 — Rentas exentas de las sociedades especializadas en arriendo
 
@@ -9403,8 +8317,6 @@ De conformidad con lo dispuesto en el inciso 1 y en el parágrafo del artículo 
 La exención a que se refiere este artículo operará respecto de los cánones de arrendamiento de vivienda de interés social nueva que perciban durante los diez (10) años siguientes a la construcción de dichas viviendas.
 
 (Decreto 1789 de 2004, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.4.3.5 — Determinación del valor de la Vivienda de Interés Social
 
@@ -9417,8 +8329,6 @@ Para efectos de determinar si un bien inmueble corresponde a Vivienda de Interé
 PARÁGRAFO . La condición de Vivienda de Interés Social de una unidad habitacional particular no se alterará por cambios en su valor comercial originados en valorizaciones posteriores del inmueble, o por la variación de la normatividad que defina este tipo de vivienda.
 
 (Decreto 1789 de 2004, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.4.3.6 — Requisitos
 
@@ -9452,8 +8362,6 @@ SECCIÓN 1
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.1 — Definiciones
 
 Para los efectos del presente capítulo se entenderá por:
@@ -9478,8 +8386,6 @@ PARÁGRAFO . El porcentaje mínimo al que se refiere el numeral 1 del presente a
 
 (Decreto 1877 de 2004, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.2 — Activos en los que puede invertir el fondo
 
 Sin perjuicio de las inversiones obligatorias previstas en la ley, los fondos de inversión inmobiliaria podrán invertir exclusivamente en las siguientes clases de activos:
@@ -9498,8 +8404,6 @@ PARÁGRAFO 2. Los fondos podrán suscribir contratos de promesa de compraventa y
 
 (Decreto 1877 de 2004, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.3 — Diversificación de portafolio
 
 Los fondos de inversión inmobiliaria deberán propender por una adecuada diversificación de su portafolio. Sin embargo, la participación máxima de un sólo inmueble Clase 1 o Clase 2 o de cualquier emisor respecto del valor total del portafolio, no podrá exceder del veinte por ciento (20%).
@@ -9508,15 +8412,11 @@ PARÁGRAFO 1. El límite referente a los inmuebles clases 1 y 2 de los activos n
 
 (Decreto 1877 de 2004, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.4 — Requisitos relacionados con los bienes inmuebles
 
 Los bienes inmuebles que adquiera un fondo deberán asegurarse contra incendio, rayo, terremoto y actos malintencionados de terceros.
 
 (Decreto 1877 de 2004, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.4.4.1.5 — Montos mínimos para invertir en inmuebles
 
@@ -9528,8 +8428,6 @@ PARÁGRAFO 2. Los fondos de inversión inmobiliaria no podrán financiarse media
 
 (Decreto 1877 de 2004, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.6 — Aportes
 
 Los aportes de los inversionistas al fondo de inversión inmobiliaria estarán representados en unidades, de lo cuál se dejará constancia en los registros, comprobantes o títulos que se prevean en los contratos de vinculación, en los que conste la participación del inversionista en el respectivo fondo. La sociedad administradora deberá establecer en los contratos de vinculación al fondo, que el pago de los aportes de los inversionistas a los fondos de inversión inmobiliaria se podrá realizar en alguna de las siguientes formas:
@@ -9540,15 +8438,11 @@ PARÁGRAFO . Los aportes recibidos en inmuebles deberán cumplir con las condici
 
 (Decreto 1877 de 2004, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.7 — Redención de derechos o aportes
 
 Todo retiro o reembolso por concepto de redención de derechos o aportes en el fondo deberá hacerse con base en el valor de la unidad vigente en la fecha en que se efectúe el pago, de acuerdo con la metodología que establezca la entidad de supervisión correspondiente y la periodicidad prevista en el contrato de vinculación al fondo.
 
 (Decreto 1877 de 2004, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.4.4.1.8 — Comisión por administración
 
@@ -9562,15 +8456,11 @@ La sociedad administradora de fondos de inversión inmobiliaria percibirá cómo
 
 (Decreto 1877 de 2004, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.9 — Arrendamiento de los bienes inmuebles del fondo
 
 La sociedad administradora de fondos de inversión inmobiliaria que en los términos del artículo 28 de la Ley 820 de 2003 desarrolle directamente las actividades de arrendamiento de los inmuebles correspondientes a vivienda de Interés social deberá obtener la matrícula de arrendador prevista en la citada disposición. Igualmente deberá obtener la mencionada matrícula el agente especializado en el que la sociedad administradora del fondo delegue las labores de arrendamiento o intermediación comercial entre arrendadores y arrendatarios de los citados inmuebles que se adelanten conforme a la disposición legal antes citada.
 
 (Decreto 1877 de 2004, artículo 9).
-
-ARTÍCULO
 
 ## art:2.1.4.4.1.10 — Comité de inversiones inmobiliarias
 
@@ -9583,8 +8473,6 @@ PARÁGRAFO 1. Le corresponde al comité de inversión inmobiliaria identificar c
 PARÁGRAFO 2. La existencia del comité de que trata el presente artículo no exonera a la sociedad administradora del fondo de las responsabilidades legales y contractuales que a esta corresponden en condición de tal.
 
 (Decreto 1877 de 2004, artículo 10).
-
-ARTÍCULO
 
 ## art:2.1.4.4.1.11 — Gastos a cargo de los fondos de inversión inmobiliaria
 
@@ -9617,8 +8505,6 @@ Estarán a cargo del fondo únicamente los siguientes gastos, sin perjuicio de q
 PARÁGRAFO . Cualquier expensa no prevista cómo gasto a cargo del fondo estará a cargo de la sociedad administradora.
 
 (Decreto 1877 de 2004, artículo 11).
-
-ARTÍCULO
 
 ## art:2.1.4.4.1.12 — Contenido del contrato de vinculación al fondo
 
@@ -9654,8 +8540,6 @@ Las modificaciones en los anteriores contenidos del contrato deberán realizarse
 
 (Decreto 1877 de 2004, artículo 12).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.13 — Revelación de información
 
 Es deber de las sociedades administradoras de fondos de inversión inmobiliaria generar y revelar toda la información que les permita a los inversionistas evaluar y comparar las diferentes alternativas de inversión. Para este fin, las entidades de supervisión reglamentarán el contenido y la periodicidad de actualización de una ficha técnica, la cuál deberá incluir, entre otros, la siguiente información:
@@ -9680,8 +8564,6 @@ El contenido de los extractos deberá ajustarse a la normatividad aplicable a la
 
 (Decreto 1877 de 2004, artículo 13).
 
-ARTÍCULO
-
 ## art:2.1.4.4.1.14 — Causales de disolución y liquidación
 
 Además de las causales establecidas en las normas y disposiciones especiales aplicables a los fondos de inversión administrados por las sociedades administradoras de inversión y a los fondos comunes especiales administrados por las sociedades fiduciarias, serán causales de disolución y liquidación las siguientes:
@@ -9696,8 +8578,6 @@ SECCIÓN 2
 
 DE LOS FONDOS DE INVERSIÓN INMOBILIARIA ABIERTOS CON PACTO DE PERMANENCIA
 
-ARTÍCULO
-
 ## art:2.1.4.4.2.1 — Fechas de apertura
 
 La sociedad administradora deberá definir en el contrato de vinculación al fondo las fechas en las cuáles se permitirá la recepción y/o el retiro de aportes.
@@ -9710,8 +8590,6 @@ PARÁGRAFO 2. Sin perjuicio de lo dispuesto en el numeral 12 del artículo 2.1.4
 
 (Decreto 1877 de 2004, artículo 15).
 
-ARTÍCULO
-
 ## art:2.1.4.4.2.2 — Período de permanencia y penalizaciones
 
 El período mínimo de permanencia de cada aporte que se realice en un fondo de inversión inmobiliaria abierto con pacto de permanencia, será de cinco (5) años. El administrador establecerá penalizaciones por retiros que se realicen antes de cumplirse este plazo, las cuáles se estipularán cómo porcentajes del monto retirado que dependerán únicamente de la duración de la inversión. Estas penalizaciones deberán ser estipuladas en el contrato de vinculación al fondo.
@@ -9719,8 +8597,6 @@ El período mínimo de permanencia de cada aporte que se realice en un fondo de 
 PARÁGRAFO . Las penalizaciones se contabilizarán cómo un ingreso del fondo.
 
 (Decreto 1877 de 2004, artículo 16).
-
-ARTÍCULO
 
 ## art:2.1.4.4.2.3 — Límites a la participación
 
@@ -9742,8 +8618,6 @@ SECCIÓN 3
 
 DE LOS FONDOS DE INVERSIÓN INMOBILIARIA CERRADOS
 
-ARTÍCULO
-
 ## art:2.1.4.4.3.1 — Aportes
 
 Las sociedades que administren fondos de inversión inmobiliaria cerrados deberán establecer en los contratos de vinculación al fondo, el plazo máximo para recibir aportes, el cuál no podrá exceder del veinte por ciento (20%) del plazo previsto para la duración total del respectivo fondo.
@@ -9753,8 +8627,6 @@ Dentro del plazo mencionado se podrán contemplar fechas para recibir aportes de
 PARÁGRAFO . Los fondos de inversión inmobiliaria cerrados podrán recibir nuevos aportes con posterioridad al plazo máximo aquí previsto, previa aprobación de los inversionistas y del ente de supervisión respectivo. En tales casos, los inversionistas tendrán derecho de preferencia para realizar los aportes.
 
 (Decreto 1877 de 2004, artículo 18).
-
-ARTÍCULO
 
 ## art:2.1.4.4.3.2 — Redención de derechos o aportes
 
@@ -9768,8 +8640,6 @@ SECCIÓN 4
 
 VALORACIÓN DE LOS FONDOS DE INVERSIÓN INMOBILIARIA
 
-ARTÍCULO
-
 ## art:2.1.4.4.4.1 — Valoración de los inmuebles del fondo de inversión inmobiliaria
 
 Para la adquisición de bienes inmuebles se deberá contar con un avalúo comercial efectuado dentro de los seis (6) meses anteriores a la fecha de compra. El valor de adquisición del inmueble no podrá ser superior al establecido en dicho avalúo. De otro lado, la venta de un inmueble deberá estar precedida por un avalúo comercial con antigüedad no mayor a seis (6) meses y el valor de venta no podrá ser inferior al noventa por ciento (90%) de esta suma.
@@ -9782,23 +8652,17 @@ PARÁGRAFO . La estimación del valor comercial de los inmuebles deberá efectua
 
 (Decreto 1877 de 2004, artículo 20).
 
-ARTÍCULO
-
 ## art:2.1.4.4.4.2 — Valoración de los activos clase 3 y 4 definidos en el artículo 2.1.4.4.1.2
 
 Para las inversiones en estas clases de activos, aplicarán las normas de carácter general establecidas por las entidades supervisoras correspondientes.
 
 (Decreto 1877 de 2004, artículo 21).
 
-ARTÍCULO
-
 ## art:2.1.4.4.4.3 — Valoración del fondo de inversión inmobiliaria
 
 Las sociedades administradoras de fondos de inversión inmobiliaria deberán determinar la periodicidad con la que se realizará la valoración del fondo, conforme a las disposiciones emitidas por las entidades de supervisión, y deberá ser efectuada el día inmediatamente anterior a las fechas en que el fondo esté abierto para la recepción y entrega de recursos. Las entidades de supervisión establecerán la metodología de valoración de los activos del fondo y verificarán el cumplimiento de las normas previstas en el presente capítulo.
 
 (Decreto 1877 de 2004, artículo 22).
-
-ARTÍCULO
 
 ## art:2.1.4.4.4.4 — Agente especializado para valoración de inmuebles
 
@@ -9812,15 +8676,11 @@ SECCIÓN 5
 
 DE LA EXENCIÓN TRIBUTARIA
 
-ARTÍCULO
-
 ## art:2.1.4.4.5.1 — Rentas exentas provenientes de fondos de inversión
 
 De conformidad con lo dispuesto en el inciso segundo y en el parágrafo del artículo 41 de la Ley 820 de 2003, las rentas que perciban los fondos de inversión inmobiliaria, originadas en cánones de arrendamiento de vivienda de interés social nueva durante los diez (10) años siguientes a su construcción, que sean distribuidas a sus inversionistas, serán exentas en cabeza de estos.
 
 (Decreto 1877 de 2004, artículo 24).
-
-ARTÍCULO
 
 ## art:2.1.4.4.5.2 — Requisitos
 
@@ -9864,8 +8724,6 @@ b) El valor de las retenciones en la fuente practicadas a título del Impuesto s
 
 (Decreto 1877 de 2004, artículo 25).
 
-ARTÍCULO
-
 ## art:2.1.4.4.5.3 — Remisión de normas
 
 En lo no previsto en el presente capítulo se aplicará la normatividad vigente expedida para regular el funcionamiento de los fondos de inversión, siempre que dicha regulación no pugne con la naturaleza, alcances y finalidades aquí establecidas.
@@ -9877,8 +8735,6 @@ PROPIEDAD HORIZONTAL
 CAPÍTULO 1
 
 OBJETO SOCIAL DE LA PROPIEDAD HORIZONTAL
-
-ARTÍCULO
 
 ## art:2.1.5.1.1 — Objeto de la persona jurídica de propiedad horizontal
 
@@ -9892,8 +8748,6 @@ CAPÍTULO 1
 
 ORGANIZACIONES POPULARES DE VIVIENDA
 
-ARTÍCULO
-
 ## art:2.1.6.1.1 — Definición de Organizaciones Populares de Vivienda
 
 Se entiende por organizaciones populares de vivienda aquellas que han sido constituidas y reconocidas cómo entidades sin ánimo de lucro cuyo sistema financiero sea de economía solidaria y tengan por objeto el desarrollo de programas de vivienda para sus afiliados por sistemas de autogestión o participación comunitaria.
@@ -9902,23 +8756,17 @@ Estas Organizaciones pueden ser constituidas por sindicatos, cooperativas, asoci
 
 (Decreto 2391 de 1989, artículo 1).
 
-ARTÍCULO
-
 ## art:2.1.6.1.2 — Definición del Sistema Financiero de Economía Solidaria
 
 Entiéndase por sistema financiero de economía solidaria aquel en el cuál todos los afiliados participan directamente mediante aportes en dinero y en trabajo comunitario, o en cualquiera de las dos formas.
 
 (Decreto 2391 de 1989, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.6.1.3 — Definición de los Sistemas de Autogestión o Participación Comunitaria
 
 Se entiende que un plan dirigido a construir, adecuar o mejorar la vivienda en desarrollado por autogestión o participación comunitaria, cuando en él participan todos los afiliados administrativa, técnica y financieramente.
 
 (Decreto 2391 de 1989, artículo 3).
-
-ARTÍCULO
 
 ## art:2.1.6.1.4 — De las Modalidades de los Sistemas de Autogestión o Participación Comunitaria
 
@@ -9932,15 +8780,11 @@ PARÁGRAFO .Las Organizaciones Populares de Vivienda podrán delegar en personas
 
 (Decreto 2391 de 1989, artículo 4).
 
-ARTÍCULO
-
 ## art:2.1.6.1.5 — Número de Participantes de Cada Plan por los Sistemas de Autogestión o Participación Comunitaria
 
 El número de participantes activos de cada plan de vivienda realizado por los sistemas de autogestión o participación comunitaria, no podrá ser menos de cinco (5) ni exceder de doscientos (200) y dicho número no podrá aumentar durante toda la etapa de ejecución.
 
 (Decreto 2391 de 1989, artículo 5).
-
-ARTÍCULO
 
 ## art:2.1.6.1.6 — 1.6
 
@@ -9962,8 +8806,6 @@ En el caso de las cooperativas, Certificación de la Cámara de Comercio; para l
 
 (Decreto 2391 de 1989, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.6.1.7 — Registro para Desarrollar Planes y Programas por los Sistemas de Autogestión o Participación Comunitaria
 
 Para desarrollar planes y programas por los sistemas de autogestión o participación comunitaria, las Organizaciones Populares de Vivienda deberán registrarse ante la Alcaldía Mayor del Distrito Capital de Bogotá, Departamento Archipiélago de San Andrés, Providencia y Santa Catalina o en la Alcaldía Municipal del lugar donde se realice la obra. El registro se hará por una sola vez y se entenderá vigente por todo el término de duración de la Organización Popular de Vivienda o hasta que la Organización solicite su cancelación, a menos que le sea cancelado cómo consecuencia de las sanciones establecidas para este efecto.
@@ -9973,8 +8815,6 @@ Para obtener el registro de que trata el presente artículo, la Organización Po
 Para obtener la cancelación del registro, el representante legal de la Organización elevará ante la Alcaldía Mayor del Distrito Capital de Bogotá,Departamento Archipiélago de San Andrés, Providencia y Santa Catalina o Alcaldía Municipal respectiva, una solicitud acompañada de Declaración Jurada en la que indique no estar adelantando ninguna actividad de aquellas a que se refiere este capítulo y acreditando la culminación del o de los programas autorizados y certificación de la entidad que ejerce la vigilancia en el sentido de que no tiene obligaciones pendientes con la misma.
 
 (Decreto 2391 de 1989, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.6.1.8 — Asesoría de las Oficinas de Planeación
 
@@ -9996,15 +8836,11 @@ g) Dictaminar las normas urbanísticas que para tal desarrollo existan en el Dis
 
 (Decreto 2391 de 1989, artículo 8).
 
-ARTÍCULO
-
 ## art:2.1.6.1.9 — De los Permisos de Enajenación
 
 Para obtener el permiso de enajenación de las unidades de vivienda, resultantes de un programa de autogestión o autoconstrucción, la Organización Popular deberá acreditar los requisitos que para el efecto exija la Alcaldía Municipal, el Distrito Capital de Bogotá o el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina.
 
 (Decreto 2391 de 1989, artículo 9).
-
-ARTÍCULO
 
 ## art:2.1.6.1.10 — De las Sanciones
 
@@ -10012,15 +8848,11 @@ El Distrito Capital de Bogotá, los municipios y el Departamento Archipiélago d
 
 (Decreto 2391 de 1989, artículo 10).
 
-ARTÍCULO
-
 ## art:2.1.6.1.11 — De los Comités Especiales
 
 En los casos en que haya lugar a intervención de bienes y haberes de las personas jurídicas de que trata este capítulo, por ocurrencia de cualquiera de las causales previstas en el artículo 12 de la Ley 66 de 1968, el Agente Especial del Superintendente de Sociedades, o quién haga sus veces, en la Urbanización intervenida conformará un comité con participación de las personas designadas por los beneficiarios del Plan. Este comité, además de asistir al agente especial, cumplirá las funciones administrativas por él delegadas.
 
 (Decreto 2391 de 1989, artículo 11).
-
-ARTÍCULO
 
 ## art:2.1.6.1.12 — De la Capacitación
 
@@ -10034,8 +8866,6 @@ INCUMPLIMIENTO EN LA EJECUCIÓN DE PROYECTOS DE VIVIENDA DE INTERÉS SOCIAL URBA
 
 (ADICIONADO POR ART. DECRETO 1516 DE 2016)
 
-ARTÍCULO
-
 ## art:2.1.6.2.1 — Incumplimiento de obligaciones en proyectos de vivienda de interés social urbana
 
 El Fondo Nacional de Vivienda (Fonvivienda) y las instituciones otorgantes del subsidio familiar de vivienda urbana de las entidades territoriales adelantarán el procedimiento administrativo sancionatorio al que hace referencia el artículo 47 y siguientes del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, o las normas que los modifiquen, adicionen o sustituyan, contra los constructores, interventores, auditores y/o supervisores que hayan incurrido en un presunto incumplimiento de sus obligaciones, durante la ejecución de proyectos de vivienda que involucren recursos de subsidios familiares de vivienda asignados por este.
@@ -10047,8 +8877,6 @@ En el evento en que los constructores, interventores, auditores y/o supervisores
 PARÁGRAFO . Cuando los órganos de decisión de los patrimonios autónomos en los cuáles Fonvivienda o las instituciones otorgantes del subsidio familiar de vivienda urbana de las entidades territoriales sean fideicomitentes determinen qué constructores, interventores, auditores y/o supervisores de proyectos de vivienda incumplieron sus obligaciones, la sociedad fiduciaria vocera del Fideicomiso informará la decisión a los directores o representantes legales de las entidades otorgantes del subsidio familiar de vivienda, quienes deberán adelantar el procedimiento administrativo sancionatorio de que trata este artículo y emitir el acto administrativo sancionatorio que se reportará en los términos establecidos en el presente capítulo.
 
 En todo caso, si tanto Fonvivienda cómo las instituciones otorgantes del subsidio familiar de vivienda urbana de las entidades territoriales aportaron recursos al mismo patrimonio autónomo, Fonvivienda adelantará el procedimiento administrativo sancionatorio de que trata este artículo.
-
-ARTÍCULO
 
 ## art:2.1.6.2.2 — Reporte de la información
 
@@ -10064,13 +8892,9 @@ PARÁGRAFO 1. Las entidades otorgantes del subsidio familiar de vivienda, del ni
 
 PARÁGRAFO 2. Fonvivienda estará obligada a reportar a las Cámaras de Comercio la información a que se refiere el presente artículo, a partir de los tres (3) meses siguientes a la fecha en que Confecámaras comunique a la Superintendencia de Industria y Comercio sobre la implementación definitiva de la solución tecnológica adoptada para el reporte de dicha información. Una vez reciba la mencionada comunicación la Superintendencia de Industria y Comercio, informará a Fonvivienda, para los fines pertinentes.
 
-ARTÍCULO
-
 ## art:2.1.6.2.3 — Reporte de información previamente emitida
 
 La información de las sanciones y medidas administrativas de incumplimiento declaradas por Fonvivienda antes de la entrada en vigencia del presente capítulo, deberá ser reportada por dicha entidad a la Cámara de Comercio del domicilio del inscrito en el Registro Único de Proponentes que haya sido sancionado, dentro de los tres (3) meses siguientes a la fecha en que reciba la comunicación a que se refiere el parágrafo 2 del artículo 2.1.6.2.2 de este decreto.
-
-ARTÍCULO
 
 ## art:2.1.6.2.4 — Condiciones para el reporte de la información
 
@@ -10081,8 +8905,6 @@ Las Cámaras de Comercio no serán responsables del contenido ni de la oportunid
 Las certificaciones que expidan las Cámaras de Comercio, en relación con el Registro Único de Proponentes deberán permitir verificar si los reportes de incumplimientos contractuales están relacionados con el desarrollo de contratos de obra civil y/o interventoría de obra civil.
 
 CONSEJO SUPERIOR DE VIVIENDA
-
-ARTÍCULO
 
 ## art:2.1.7.1 — Naturaleza y funciones del consejo superior de vivienda
 
@@ -10111,8 +8933,6 @@ El consejo superior de vivienda, creado mediante el artículo 6 de la Ley 546 de
 11. Las demás que le asigne la ley.
 
 (Decreto 0418 de 2000, artículo 1).
-
-ARTÍCULO
 
 ## art:2.1.7.2 — Conformación del consejo superior de vivienda y escogencia de sus integrantes
 
@@ -10152,8 +8972,6 @@ PARÁGRAFO . 3. En el evento que no se inscriban o no sean enviadas las ternas d
 
 (Decreto 0418 de 2000, artículo 2).
 
-ARTÍCULO
-
 ## art:2.1.7.3 — Secretaría técnica del consejo superior de vivienda
 
 El consejo superior de vivienda, contará con una secretaría técnica permanente la cuál será ejercida por la dirección general de vivienda del Ministerio de Vivienda, Ciudad y Territorio, o la dependencia que haga sus veces, y tendrá las siguientes funciones:
@@ -10170,15 +8988,11 @@ El consejo superior de vivienda, contará con una secretaría técnica permanent
 
 (Decreto 0418 de 2000, artículo 3).
 
-ARTÍCULO
-
 ## art:2.1.7.4 — Asesores del consejo superior de vivienda
 
 El consejo superior de vivienda contará con dos asesores, designados uno (1) por el Ministro de Hacienda y Crédito Público, y uno (1) por el Ministro de Vivienda, Ciudad y Territorio, los cuáles serán expertos con amplia preparación en los temas de competencia del mismo. Los asesores del consejo superior de vivienda analizarán y conceptuarán sobre los asuntos sometidos a su consideración por el secretario técnico.
 
 (Decreto 0418 de 2000, artículo 4).
-
-ARTÍCULO
 
 ## art:2.1.7.5 — Reuniones y convocatorias
 
@@ -10186,23 +9000,17 @@ El consejo superior de vivienda se reunirá, al menos, dos (2) veces al año, pr
 
 (Decreto 0418 de 2000, artículo 5).
 
-ARTÍCULO
-
 ## art:2.1.7.6 — Quórum deliberatorio
 
 El consejo superior de vivienda sesionará con la mitad más uno de sus miembros.
 
 (Decreto 0418 de 2000, artículo 6).
 
-ARTÍCULO
-
 ## art:2.1.7.7 — Quórum decisorio
 
 El consejo superior de vivienda decidirá con la mitad más uno de los miembros presentes. En todo caso, se requerirá al menos del voto favorable de uno de los ministros miembros o su respectivo delegado.
 
 (Decreto 0418 de 2000, artículo 7).
-
-ARTÍCULO
 
 ## art:2.1.7.8 — Actas
 
@@ -10224,8 +9032,6 @@ De cada reunión se levantará un acta suscrita por el presidente del consejo y 
 
 EXENCIÓN DE DERECHOS NOTARIALES Y DE REGISTRO
 
-ARTÍCULO
-
 ## art:2.1.8.1 — 8.1
 
 Acreditación de la condición de vivienda de interés prioritario para aplicar la exención de pago de derechos notariales y registrales. Los interesados en acceder a la exención de derechos notariales y registrales, en el caso al que se refiere el literal a) del artículo 119 de la Ley 1753 de 2015, deberán presentar ante el notario correspondiente, certificación expedida por la entidad otorgante del subsidio familiar de vivienda en la que conste que todos los bienes de dominio particular que conformen el edificio o conjunto sometido al régimen de propiedad horizontal, son viviendas de interés prioritario desarrolladas con la financiación o cofinanciación de subsidios familiares de vivienda
@@ -10235,8 +9041,6 @@ Para acceder a las exenciones de derechos notariales a que se refieren los liter
 PARÁGRAFO : En todos los eventos a que se refiere este artículo, el notario y la Oficina de Registro de Instrumentos Públicos correspondiente deberán verificar que el valor de las viviendas objeto de los negocios jurídicos, de acuerdo con lo establecido en los mismos, no supere los noventa (90) salarios mínimos legales mensuales vigentes, o los valores máximos de las viviendas de interés prioritario, establecidos en el artículo 2.1.1.2.2.2 del presente decreto, para los departamentos de San Andrés, Providencia y Santa Catalina, Amazonas, Vichada, Vaupés, Guainía, Putumayo y Chocó.
 
 (Parágrafo modificado por el Art. 17 del Decreto 46 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.8.2 — 8.2
 
@@ -10250,8 +9054,6 @@ Acreditación de la condición de población vulnerable para ser beneficiarios d
 
 4. Censo de hogares damnificados de desastre natural, calamidad pública o emergencia, y de hogares localizados en zonas de alto riesgo, elaborados por los Consejos Municipales para la Gestión del Riesgo de Desastres (antes CLOPAD), avalados por los Consejos Departamentales para la Gestión del Riesgo de Desastres (antes CREPAD) y refrendados por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD).
 
-ARTÍCULO
-
 ## art:2.1.8.3 — Protocolización de certificados y/o documentos
 
 Una vez acreditadas las condiciones señaladas en los artículos 2.1.8.1 y 2.1.8.2 del presente título, los notarios deberán incluir en la escritura pública respectiva que el negocio jurídico se encuentra exento de derechos notariales, de conformidad con el artículo 119 de la Ley 1753 de 2015, y protocolizar los certificados y/o documentos mencionados. Los referidos documentos serán suficientes para acreditar ante las Oficinas de Registro de Instrumentos Públicos la exención de los derechos registrales.
@@ -10259,8 +9061,6 @@ Una vez acreditadas las condiciones señaladas en los artículos 2.1.8.1 y 2.1.8
 (Título adicionado por el Decreto 1467 de 2019, Art. 1)
 
 MUNICIPIOS Y DISTRITOS SOBRE LOS QUE APLICA EL PRECIO EXCEPCIONAL DE LA VIVIENDA DE INTERÉS SOCIAL
-
-ARTÍCULO
 
 ## art:2.1.9.1 — Precio Excepcional de la Vivienda de interés Social
 
@@ -10422,8 +9222,6 @@ SUBSECCIÓN 1
 
 POLÍTICA PÚBLICA DE VIVIENDA RURAL
 
-ARTÍCULO
-
 ## art:2.1.10.1.1.1.1 — Formulación y ejecución de la política pública de vivienda rural
 
 La formulación y ejecución de la política pública de vivienda rural y el diseño del plan para la efectiva implementación de la política de vivienda rural estará a cargo del Ministerio de Vivienda, Ciudad y Territorio.
@@ -10449,8 +9247,6 @@ El Ministerio de Vivienda, Ciudad y Territorio definirá mediante resolución lo
 SUBSECCIÓN 2
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.2.1 — Definiciones
 
@@ -10517,8 +9313,6 @@ SUBSECCIÓN 3
 
 INSTRUMENTOS PARA LA OPERACIÓN DEL PROGRAMA DE PROMOCIÓN DE VIVIENDA RURAL
 
-ARTÍCULO
-
 ## art:2.1.10.1.1.3.1 — Contrato de Fiducia Mercantil
 
 De acuerdo con las facultades atribuidas por el artículo 3 del Decreto-ley 555 de 2003, artículo 23 de la Ley 1469 de 2011, artículo 6 de la Ley 1537 de 2012 y el parágrafo único del artículo 255 de la Ley 1955 de 2019, el Fondo Nacional de Vivienda podrá administrar los recursos del Subsidio Familiar de Vivienda Rural en todas sus modalidades, a través de la celebración de uno o varios contratos de fiducia mercantil y la consecuente constitución de uno o varios patrimonios autónomos.
@@ -10528,8 +9322,6 @@ A través del patrimonio autónomo podrán contratarse todas las actividades rel
 SUBSECCIÓN 4
 
 SUBSIDIO FAMILIAR DE VIVIENDA RURAL Y VIVIENDAS SOBRE LAS QUE PUEDE APLICARSE
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.4.1 — Valor del Subsidio Familiar de Vivienda Rural.(Modificado por el art
 
@@ -10567,13 +9359,9 @@ Las erogaciones que se causen deberán consultar la situación fiscal de la Naci
 
 Para la modalidad de mejoramiento de vivienda rural, el monto del subsidio será de hasta veintidós (22) salarios mínimos mensuales legales vigentes (smmlv).
 
-ARTÍCULO
-
 ## art:2.1.10.1.1.4.2 — Concurrencia
 
 Los hogares beneficiarios del subsidio de que trata el presente capítulo podrán aplicarlo de manera complementaria y concurrente con otros subsidios otorgados por entidades partícipes del Sistema Nacional de Vivienda de Interés Social, destinados a facilitar el acceso a una solución de vivienda, siempre y cuando la naturaleza de estos lo permitan. Así mismo se aplicará a los hogares ubicados en las zonas donde se desarrollan los Programas de Desarrollo con Enfoque Territorial y el Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito.
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.4.3 — Condiciones para el otorgamiento del Subsidio Familiar de Vivienda Rural
 
@@ -10620,8 +9408,6 @@ PARÁGRAFO 2. La focalización poblacional con enfoque diferencial y de desarrol
 
 PARÁGRAFO 3. También podrán ser beneficiarios los hogares declarados por la autoridad competente en situación de vulnerabilidad y/o de afectación manifiesta o sobreviniente; los hogares de los resguardos indígenas legalmente constituidos; los hogares de las comunidades negras, afrodescendientes, raizales y palenqueras legalmente reconocidas por la autoridad competente y la población que haga parte de programas estratégicos del orden sectorial; la población víctima del conflicto armado registrados ante la UARIV; los excombatientes en proceso de reincorporación; la población que se auto reconozca cómo campesina y, en general, la población del sector rural del país.
 
-ARTÍCULO
-
 ## art:2.1.10.1.1.4.4 — Restricciones para la Postulación y posterior Asignación del Subsidio Familiar de Vivienda Rural
 
 No podrán postular ni acceder a la asignación del Subsidio Familiar de Vivienda Rural, los hogares que presenten alguna de las siguientes condiciones:
@@ -10633,8 +9419,6 @@ No podrán postular ni acceder a la asignación del Subsidio Familiar de Viviend
 Se exceptúan quienes hayan perdido la vivienda por imposibilidad de pago, de acuerdo con lo establecido en el artículo 33 de la Ley 546 de 1999 o cuando esta haya resultado afectada o destruida por causas no imputables a ellos, o cuando la vivienda en la cuál se haya aplicado el subsidio haya resultado totalmente destruida o quedado inhabitable cómo consecuencia de la ocurrencia de desastres de origen natural, calamidades públicas, emergencias, o atentados terroristas, o haya sido abandonada o despojada en el marco del conflicto armado interno, o se encuentre en zonas de riesgo por la ocurrencia de eventos físicos peligrosos de origen tecnológico derivados de la ejecución u operación de obras de infraestructura o proyectos de interés nacional, o en zonas de afectación, reserva o retiro, por el diseño, ejecución u operación de obras de infraestructura o proyectos de interés nacional y/o estratégicos desarrollados por el Gobierno nacional, de conformidad con los análisis específicos de riesgos y planes de contingencia de que trata el artículo 42 de la Ley 1523 de 2012, o las normas que lo reglamenten, modifiquen, adicionen o sustituyan.
 
 3. Que hubieren presentado información que no corresponda a la verdad en cualquiera de los procesos de acceso al subsidio, restricción que estará vigente durante el término de diez (10) años conforme a lo dispuesto en el artículo 30 de la ley 3a de 1991.
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.4.5 — Prohibición de asignación del Subsidio Familiar de Vivienda en zonas de protección o afectadas por obra pública
 
@@ -10653,8 +9437,6 @@ No podrán asignarse Subsidio Familiar de Vivienda Rural, a los hogares cuyo pre
  ARTÍCULO 2.1.10.1.1.4.5. 
 
  Construcción o mejoramientos en zonas de alto riesgo. No podrán postular al Subsidio Familiar de Vivienda Rural, los hogares cuyo predio para la construcción de vivienda nueva o la vivienda objeto de mejoramiento se encuentre en zona de alto riesgo no mitigable, zona de protección de recursos naturales, zona de reserva de obra pública o de infraestructuras básica del nivel nacional, regional o municipal o área no apta para la localización de vivienda, de acuerdo con los planes de ordenamiento territorial - POT, esquemas de ordenamiento territorial EOT o planes básicos de ordenamiento territorial - PBOT.
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.4.6 — Condiciones de hogares con sentencia de restitución de tierras y en ruta de reincorporación
 
@@ -10676,21 +9458,15 @@ SUBSECCIÓN 5
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.1.10.1.1.5.1 — Legalización del subsidio familiar de vivienda rural
 
 Las condiciones de legalización del Subsidio Familiar de Vivienda Rural serán determinadas por el Ministerio de Vivienda, Ciudad y Territorio, dependiendo la modalidad del subsidio a asignar
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.5.2 — Revisión de la consistencia y/o veracidad de la información
 
 El Fondo Nacional de Vivienda o quién este indique, tendrá la facultad de revisar en cualquier momento la consistencia y/o veracidad de la información suministrada por los postulantes.
 
 En caso de evidenciarse inconsistencias en la documentación presentada por los postulantes, el Fondo Nacional de Vivienda dará traslado de la información a las entidades competentes para la investigación de posibles conductas punibles, y dará aplicación a la sanción de que trata el artículo 30 de la Ley 3 de 1991.
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.5.3 — Pérdida y restitución del subsidio familiar de vivienda
 
@@ -10703,8 +9479,6 @@ Serán causales de pérdida y restitución del subsidio de que trata el presente
 PARÁGRAFO 1. Cuando haya lugar a la restitución del subsidio familiar de vivienda otorgado, esta se hará indexada con la variación del índice de precios al consumidor, desde la fecha en que se haya hecho entrega de la intervención, según la modalidad que aplique, al hogar beneficiario, hasta la fecha en que efectivamente se realice el pago del valor a restituir, en la cuenta indicada por la entidad otorgante.
 
 PARÁGRAFO 2. Cuando se presente alguna de las causales contempladas para la pérdida y restitución del subsidio, se solicitará al hogar que emita las aclaraciones del caso debidamente soportadas. Si dentro del plazo establecido por la entidad otorgante del subsidio, no se efectúan las aclaraciones del caso o persiste la causal para la restitución del subsidio, esta procederá a revocar la asignación del subsidio y a ordenar la restitución del mismo previo el agotamiento del proceso administrativo sancionatorio establecido en el título III capítulo III de la Ley 1437 de 2011, caso en el cuál se iniciarán las acciones judiciales o extrajudiciales tendientes a la recuperación efectiva de dichos recursos.
-
-ARTÍCULO
 
 ## art:2.1.10.1.1.5.4 — Ajuste al marco fiscal
 
@@ -10720,23 +9494,17 @@ SUBSECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.1.10.1.2.1.1 — Objeto
 
 La presente subsección tiene por objeto reglamentar el Subsidio Familiar de Vivienda de Interés Social Rural que podrán otorgar las Cajas de Compensación Familiar en el ámbito rural de los municipios y Distritos del país, como instrumento para facilitar una solución de vivienda a trabajadores afiliados que habiten suelo rural, con ingresos iguales a los definidos en el artículo 2.1.1.1.1.6.1.1.4 del presente Decreto.
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
 
-ARTÍCULO
-
 ## art:2.1.10.1.2.1.2 — Ámbito de aplicación
 
 La presente reglamentación del Subsidio Familiar de Vivienda de Interés Social Rural otorgado por las Cajas de Compensación Familiar tiene cobertura nacional y se aplicará a todas las zonas definidas como suelo rural en los Planes de Ordenamiento Territorial, de acuerdo con lo establecido en la Ley 388 de 1997, o en las normas que la modifiquen, sustituyan, adicionen o complementen.
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
-
-ARTÍCULO
 
 ## art:2.1.10.1.2.1.3 — Definiciones específicas para las Cajas de Compensación Familiar
 
@@ -10756,8 +9524,6 @@ El porcentaje de los recursos del FOVIS que podrán destinarse a estas actividad
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
 
-ARTÍCULO
-
 ## art:2.1.10.1.2.1.4 — Condiciones de habitabilidad de la vivienda
 
 El Ministerio de Vivienda, Ciudad y Territorio establecerá mediante resolución las condiciones de habitabilidad de la vivienda que deberán ser consideradas por las Cajas de Compensación Familiar para el otorgamiento de Subsidios Familiares de Vivienda.
@@ -10768,8 +9534,6 @@ SUBSECCIÓN 2
 
 DEL SUBSIDIO FAMILIAR DE VIVIENDA OTORGADO POR LAS CAJAS DE COMPENSACIÓN FAMILIAR
 
-ARTÍCULO
-
 ## art:2.1.10.1.2.2.1 — Subsidio Familiar de Vivienda Rural otorgado por las Cajas de Compensación Familiar
 
 Las personas afiliadas al sistema formal de trabajo serán atendidas en forma prioritaria por las Cajas de Compensación Familiar.
@@ -10779,8 +9543,6 @@ En las ciudades y/o departamentos en donde las Cajas de Compensación Familiar n
 El giro del subsidio y el giro anticipado del mismo, obedecerán a los términos dispuestos en los artículos 2.1.1.1.1.5.1.1, 2.1.1.1.1.5.1.2 Y 2.1.1.1.1.5.1.3. del presente decreto, de conformidad con la modalidad del Subsidio Familiar de Vivienda correspondiente.
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
-
-ARTÍCULO
 
 ## art:2.1.10.1.2.2.2 — Valor del Subsidio Familiar de Vivienda Rural otorgado por las Cajas de Compensación Familiar
 
@@ -10806,8 +9568,6 @@ Para efectos del desembolso e independientemente de la fecha de asignación del 
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
 
-ARTÍCULO
-
 ## art:2.1.10.1.2.2.3 — Limite a la cuantía del subsidio
 
 En ningún caso la cuantía del subsidio de vivienda de interés social otorgado por las Cajas de Compensación Familiar podrá ser superior al noventa por ciento (90%) del valor o precio de la vivienda a adquirir, construir o mejorar, en la fecha de asignación del subsidio. Para los casos de construcción en sitio propio y mejoramiento de vivienda el noventa por ciento (90%) será tomado con base en el valor de la construcción o la mejora, en la fecha de asignación del subsidio.
@@ -10815,8 +9575,6 @@ En ningún caso la cuantía del subsidio de vivienda de interés social otorgado
 El diez por ciento (10%) restante del valor o precio de la vivienda a adquirir, construir o mejorar, en la fecha de asignación del subsidio, deberá ser aportado por el beneficiario.
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
-
-ARTÍCULO
 
 ## art:2.1.10.1.2.2.4 — Autonomía de las Cajas de Compensación Familiar
 
@@ -10828,15 +9586,11 @@ SUBSECCIÓN 3
 
 DE LOS RECURSOS PARA EL COMPONENTE RURAL DEL FOVIS
 
-ARTÍCULO
-
 ## art:2.1.10.1.2.3.1 — Fondo del Subsidio Familiar de Vivienda de Interés Social Rural y Urbano - FovisRU
 
 Entiéndase para los efectos de este decreto que todas las normas contenidas en el Decreto 1077 de 2015, que no sean contrarias a lo dispuesto en la presente subsección y que hagan referencia al: "Fondo del Subsidio Familiar de Vivienda de Interés Social - Fovis" se entenderán aplicables al "Fondo del Subsidio Familiar de Vivienda de Interés Social Rural y Urbano - FovisRU".
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
-
-ARTÍCULO
 
 ## art:2.1.10.1.2.3.2 — Recursos provenientes de las contribuciones parafiscales para FOVIS Rural
 
@@ -10847,8 +9601,6 @@ Cuando no se presenten postulaciones durante el último trimestre de asignación
 PARÁGRAFO 1. En un término máximo de 6 meses desde la expedición del presente Decreto, las Cajas de Compensación Familiar deberán actualizar sus bases de datos en el sentido de corroborar si el domicilio de cada uno de sus afiliados se encuentra en suelo urbano o rural, según lo dispuesto por cada municipio o distrito en su respectivo Plan de Ordenamiento Territorial. Esta información deberá ser actualizada con una periodicidad anual mínima.
 
 (Adicionado por el Art. 6 del Decreto 1247 de 2022)
-
-ARTÍCULO
 
 ## art:2.1.10.1.2.3.3 — Régimen de transición
 
@@ -10861,8 +9613,6 @@ TÍTULO 11
 (Título, adicionado por el Art. 1 del Decreto 257 de 2021)
 
 CONDICIONES DE LOS CRÉDITOS DE VIVIENDA INDIVIDUAL A LARGO PLAZO
-
-ARTÍCULO
 
 ## art:2.1.11.1 — Condiciones de los créditos
 
@@ -10882,8 +9632,6 @@ c) Seguros. Los inmuebles financiados deberán estar asegurados contra los riesg
 
 PARÁGRAFO . Las condiciones establecidas en los literales b y c del presente artículo aplican también para las operaciones de leasing habitacional destinado a la adquisición de vivienda familiar, en los términos del artículo 2.28.1.1.2 del Decreto 2555 de 2010.
 
-ARTÍCULO
-
 ## art:2.1.11.2 — 1.2
 
 Régimen excepcional Los créditos de vivienda que otorguen las entidades de que trata el parágrafo del artículo primero de la Ley 546 de 1999, se regirán por las disposiciones que para tal efecto expidan sus respectivos órganos de dirección."
@@ -10894,13 +9642,9 @@ TÍTULO 12
 
 VIVIENDA DE INTERÉS CULTURAL
 
-ARTÍCULO
-
 ## art:2.1.12.1 — Definición
 
 La vivienda de interés cultural - VIC es una categoría de vivienda que se caracteriza por estar totalmente arraigada e imbricada en su territorio y su clima; su diseño, construcción, financiación y criterios normativos obedecen a costumbres, tradiciones, estilos de vida, materiales y técnicas constructivas y productivas, así cómo a mano de obra locales.
-
-ARTÍCULO
 
 ## art:2.1.12.2 — Objetivos
 
@@ -10914,8 +9658,6 @@ Son objetivos de la categoría de vivienda de interés cultural:
 
  d.) Fomentar la divulgación, comunicación y educación de los valores y oportunidades de la vivienda de interés cultural.
 
-ARTÍCULO
-
 ## art:2.1.12.3 — Aplicación del subsidio familiar de vivienda sobre la vivienda de interés cultural
 
 El subsidio familiar de vivienda otorgado por el Fondo Nacional de Vivienda- FONVIVIENDA, en cualquiera de sus modalidades previstas para suelo urbano o rural, podrá ser aplicado sobre viviendas consideradas de interés cultural según lo instituido en este Decreto, siempre y cuando se trate de viviendas de interés social, de conformidad con lo dispuesto en el parágrafo 1 del Artículo 6 de la Ley 2079 de 2021 y el Artículo 6 de la Ley 3 de 1991 modificado por el Artículo 28 de la Ley 1469 de 2011, o las normas que las modifiquen, adicionen o sustituyan.
@@ -10926,8 +9668,6 @@ CAPÍTULO 1
 
 VIVIENDA DE INTERÉS CULTURAL EN SUELO URBANO
 
-ARTÍCULO
-
 ## art:2.1.12.1.1 — Enfoque para zonas urbanas
 
 La vivienda de interés cultural en suelo urbano será aquella que se localice en zonas definidas cómo suelo urbano en el Plan de Ordenamiento Territorial del respectivo municipio y que se encuentre en sectores de interés cultural, en el área de influencia o que sean colindantes con un bien inmueble declarado de interés cultural, o que hagan parte de edificaciones declaradas cómo bienes de interés cultural por autoridades nacionales o locales según lo dispuesto en la Ley 397 de 1997, modificada y adicionada por la Ley 1185 de 2008 o la norma que la modifique, adicione o sustituya.
@@ -10937,8 +9677,6 @@ PARÁGRAFO . Para los bienes de interés cultural del ámbito nacional localizad
 CAPÍTULO 2
 
 VIVIENDA DE INTERÉS CULTURAL EN SUELO RURAL
-
-ARTÍCULO
 
 ## art:2.1.12.2.1 — Enfoque para suelo rural y centros poblados
 
@@ -10951,8 +9689,6 @@ PARTE 2.
 ESTRUCTURA DEL SECTOR DESARROLLO TERRITORIAL
 
 DISPOSICIONES GENERALES
-
-ARTÍCULO
 
 ## art:2.2.1.1 — Definiciones
 
@@ -11330,8 +10066,6 @@ Vivienda Rural Dispersa. Es la unidad habitacional localizada en el suelo rural 
 
 (Adicionado por el Art. 1 del Decreto 1232 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.1.2 — 1.2
 
 Cuando en el presente decreto se hace referencia al plan o planes de ordenamiento territorial, se entenderá que comprende los planes básicos de ordenamiento territorial y los esquemas de ordenamiento territorial, de acuerdo con lo previsto en el artículo 9 de la Ley 388 de 1997.
@@ -11488,23 +10222,17 @@ SECCIÓN 2
 
 PLANES DE ORDENAMIENTO TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1 — Plan de ordenamiento territorial
 
 Se define cómo el conjunto de objetivos, directrices, políticas, estrategias, metas, programas, actuaciones y normas adoptadas para orientar y administrar el desarrollo físico del territorio y la utilización del suelo. Es el instrumento básico para desarrollar el proceso de ordenamiento del territorio municipal.
 
 PARÁGRAFO . Los municipios y distritos deberán adoptar el plan de ordenamiento territorial de conformidad con lo dispuesto en la Ley 388 de 1997 y en las normas que la modifiquen, adicionen o sustituyan.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.2 — Vigencia del plan de ordenamiento territorial
 
 La vigencia del Plan de Ordenamiento Territorial -POT- se establecerá de acuerdo con lo señalado en el artículo 28 de la Ley 388 de 1997, modificado por el artículo 120 del Decreto Ley 2106 de 2019, o lo norma que lo modifique, adicione o sustituya.
 
 PARÁGRAFO . El anterior término corresponde al cumplimiento de la vigencia de largo plazo del plan de ordenamiento territorial, durante tres períodos constitucionales completos.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.3 — Programa de Ejecución
 
@@ -11530,8 +10258,6 @@ SUBSECCIÓN 1
 
 EL PROCESO DE PLANIFICACIÓN TERRITORIAL ETAPAS
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1.1 — Etapas del proceso de planificación territorial
 
 El proceso de planificación del ordenamiento territorial se realiza siguiendo las siguientes etapas:
@@ -11547,8 +10273,6 @@ El proceso de planificación del ordenamiento territorial se realiza siguiendo l
 PARÁGRAFO 1. La revisión o modificación de los Planes de Ordenamiento Territorial - POT debe partir de los resultados de la etapa de Seguimiento y Evaluación.
 
 PARÁGRAFO 2. En el desarrollo de las etapas de diagnóstico y formulación los municipios y distritos deberán establecer los mecanismos para garantizar la participación democrática en los términos establecidos en la Ley 388 de 1997 o la norma que lo modifique, adicione o sustituya.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.1.2 — Etapa de Diagnóstico
 
@@ -11767,8 +10491,6 @@ Contiene las principales necesidades, problemáticas y potencialidades del munic
 PARÁGRAFO 1. En esta etapa, el municipio o distrito, deberá solicitar por escrito a la respectiva autoridad ambiental, las determinantes ambientales, las cuáles deben estar soportadas en estudios técnicos y acompañadas de cartografía cuando a ello haya lugar, así cómo los demás estudios técnicos disponibles para la planeación territorial; lo cuál deberá ser atendido por dicha autoridad ambiental en un plazo máximo de 15 días hábiles.
 
 PARÁGRAFO 2. El municipio o distrito podrá solicitar la asistencia técnica a la autoridad ambiental para la debida incorporación de las determinantes en el Plan de Ordenamiento Territorial POT, su revisión o modificación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.1.3 — Etapa de Formulación
 
@@ -12006,13 +10728,9 @@ Los municipios y distritos que según lo dispuesto en el artículo 2.2.2.1.2.1.6
 
 (Modificado por el Art. 2 del Decreto 824 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1.4 — Etapa de Implementación
 
 La implementación comprende la ejecución y puesta en marcha de lo establecido en el Plan de Ordenamiento Territorial - POT para las vigencias de corto, mediano y largo plazo, así cómo el desarrollo de los instrumentos de gestión y financiación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.1.5 — Etapa de Seguimiento y Evaluación
 
@@ -12038,8 +10756,6 @@ PARÁGRAFO 4 El Ministerio de Vivienda, Ciudad y Territorio establecerá los ind
 
 INFORMACIÓN SOBRE LA PLANIFICACIÓN TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1.6 — Información sobre la planificación territorial municipal
 
 El alcalde municipal o distrital, deberá informar al Ministerio de Vivienda, Ciudad y Territorio, el inicio del proceso de formulación, revisión o modificación del Plan de Ordenamiento Territorial - POT, así cómo de la concertación con la autoridad ambiental y de la adopción del mismo, con el fin de contar con la información actualizada del estado del ordenamiento territorial del país.
@@ -12047,8 +10763,6 @@ El alcalde municipal o distrital, deberá informar al Ministerio de Vivienda, Ci
 SUBSECCIÓN 2
 
 DOCUMENTOS E INSTANCIAS DE CONCERTACIÓN, CONSULTA, APROBACIÓN Y ADOPCIÓN DE LOS PLANES DE ORDENAMIENTO TERRITORIAL
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2.1 — Documentos
 
@@ -12062,8 +10776,6 @@ Proyecto de Acuerdo: Es la propuesta de acto administrativo mediante el cuál se
 
 Documento resumen: Es el documento con la explicación didáctica de los problemas existentes y las propuestas para resolverlos que corresponden a las decisiones adoptadas en el Acuerdo. Debe incluir una breve descripción de la realización de las instancias de consulta y concertación, así cómo de la participación ciudadana. Se emplea cómo medio de divulgación y socialización.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.2.2 — Instancias de concertación y consulta
 
 Para la concertación, y consulta del proyecto de Plan de Ordenamiento Territorial - POT su revisión o modificación, deberá surtirse el procedimiento establecido en el artículo 24 de la Ley 388 de 1997, modificado en lo pertinente por el parágrafo 6 del artículo 1 de la Ley 507 de 1999, o la norma que lo adicione, modifique o sustituya.
@@ -12073,8 +10785,6 @@ PARÁGRAFO 1. Previo a surtir las instancias de concertación y consulta, el alc
 PARÁGRAFO 2. La concertación y consulta se inicia con la radicación completa de los documentos señalados en el artículo anterior ante las respectivas instancias.
 
 PARÁGRAFO 3. La documentación que conforma el Plan de Ordenamiento Territorial - POT se deberá divulgar a través de la página web que determine la oficina de planeación municipal o distrital a efectos de garantizar la consulta y participación ciudadana. En todo caso esta información deberá estar disponible en medio físico para consulta ciudadana en la oficina de planeación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2.3 — Condiciones para adelantar la concertación con la Corporación Autónoma Regional o autoridad ambiental competente
 
@@ -12098,23 +10808,17 @@ PARÁGRAFO . Cuando en un territorio municipal intervenga más de una autoridad 
 
 PARÁGRAFO TRANSITORIO. Los proyectos de Plan de Ordenamiento Territorial o su revisión o modificación que se radiquen completos y en debida forma ante la autoridad ambiental competente hasta el 31 de marzo de 2021, podrán presentarse cumpliendo con los contenidos establecidos en las normas vigentes antes de la modificación del presente Capítulo.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.2.4 — Condiciones para adelantar la concertación con la junta metropolitana
 
 Durante el mismo término previsto para adelantar la concertación con la corporación autónoma regional competente, se surtirá la instancia de concertación con la Junta Metropolitana, para el caso de planes de ordenamiento de municipios que formen parte de áreas metropolitanas, instancia que vigilará su armonía con los planes y directrices metropolitanas, en los asuntos de su competencia.
 
 Para cumplir con lo anterior, el municipio o distrito deberá radicar ante esta instancia los documentos completos que conforman el proyecto del Plan de Ordenamiento Territorial - POT, su revisión o modificación.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.2.5 — Condiciones para adelantar la consulta con el consejo territorial de planeación
 
 De conformidad con lo dispuesto en la Ley 388 de 1997, una vez surtidas las instancias con las respectivas autoridades ambientales y metropolitanas, en los asuntos de su competencia, el proyecto de Plan de Ordenamiento Territorial - POT, su revisión o modificación se someterá a consideración del Consejo Territorial de Planeación, instancia que deberá rendir concepto y formular recomendaciones dentro de los treinta (30) días hábiles siguientes, término perentorio para su pronunciamiento, por lo que una vez vencido la administración municipal o distrital deberá continuar con el procedimiento previsto en la referida norma.
 
 La versión presentada al Consejo Territorial de Planeación deberá divulgarse a través de la página web del municipio o distrito y garantizar el acceso en medio impreso en la oficina de planeación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2.6 — Aprobación de los Planes de Ordenamiento Territorial POT o su revisión
 
@@ -12125,8 +10829,6 @@ PARÁGRAFO 1. El concejo municipal podrá hacer más restrictivas, pero no más 
 Cuando por efecto de las observaciones y ajustes solicitados por el consejo territorial de planeación o el concejo municipal o distrital, sea necesario modificar temas exclusivamente ambientales que fueron objeto de concertación con la corporación autónoma regional o autoridad ambiental respectiva, se adelantará nuevamente el procedimiento de concertación y consulta previsto en las normas vigentes, sobre los temas objeto de modificación.
 
 PARÁGRAFO 2. De conformidad con lo establecido en el artículo 2 de la Ley 507 de 1999, los concejos municipales o distritales celebrarán obligatoriamente un cabildo abierto previo al estudio y análisis del proyecto de Plan de Ordenamiento Territorial, - POT o su revisión o modificación, para lo cuál, su citación se efectuará directamente por la corporación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2.7 — Adopción del Plan de Ordenamiento Territorial - POT
 
@@ -12140,13 +10842,9 @@ SUBSECCIÓN 3
 
 REGLAS PARA LA REVISIÓN Y MODIFICACIÓN DE LOS PLANES DE ORDENAMIENTO TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3.1 — Documentos para la revisión general del Plan de Ordenamiento Territorial
 
 El proyecto de revisión general del Plan de Ordenamiento Territorial - POT por vencimiento de la vigencia de largo plazo estará conformado por los documentos señalados en el artículo 2.2.2.1.2.2.1, y adicionalmente por el documento de seguimiento y evaluación.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.3.2 — 
 
@@ -12162,8 +10860,6 @@ El Proyecto de Acuerdo para adoptar la revisión o modificación con la cartogra
 
 PARÁGRAFO . En las revisiones que se realicen de manera excepcional justificadas en la declaratoria de desastre o calamidad pública o en la realización de estudios técnicos detallados sobre amenazas, vulnerabilidad y riesgos, se presentarán los documentos previstos en este artículo excepto el documento de seguimiento y evaluación.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3.3 — 
 
 2.2.2.1.2.3.3 Revisión de los Planes de Ordenamiento Territorial POT Los Concejos municipales o distritales, por iniciativa del alcalde podrán revisar y ajustar los contenidos de largo, mediano o corto plazo de los planes de ordenamiento territorial, siempre y cuando haya vencido el término de vigencia de cada uno de ellos, según lo establecido en dichos planes.
@@ -12175,8 +10871,6 @@ PARÁGRAFO . De manera excepcional el alcalde municipal o distrital podrá inici
 La declaratoria de desastre o calamidad pública de que trata el capítulo VI de la Ley 1523 de 2012, que se desencadenen de la manifestación de uno o varios eventos naturales o antropogénicos no intencionales.
 
 Los resultados de estudios técnicos detallados sobre amenazas, vulnerabilidad y riesgos que justifiquen: la recalificación de áreas de riesgo no mitigable y/o el establecimiento de otras condiciones de restricción que se requieran diferentes de las originalmente adoptadas en el Plan de Ordenamiento Territorial vigente.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.3.4 — Modificación excepcional de normas urbanísticas
 
@@ -12190,8 +10884,6 @@ PARÁGRAFO 1. A través de una modificación excepcional no se pueden modificar 
 
 PARÁGRAFO 2. Las modificaciones excepcionales de norma urbanística no podrán ampliar los términos de vigencia de los planes de ordenamiento territorial ni las de sus componentes o contenidos.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3.5 — Trámite para aprobar y adoptar las revisiones
 
 Todo proyecto de revisión o modificación del Plan de Ordenamiento Territorial o de alguno de sus contenidos, se someterá a los mismos trámites de concertación, consulta y aprobación previstos en el artículo 24 modificado por el parágrafo 6 del artículo 1 de la Ley 507 de 1999 y el artículo 25 de la Ley 388 de 1997.
@@ -12202,8 +10894,6 @@ Ante la declaratoria de desastre o calamidad pública, los trámites de concerta
 
 PARÁGRAFO . No se someterá a consideración del concejo municipal o distrital el proyecto de Plan de Ordenamiento Territorial - POT sin haber agotado los trámites correspondientes ante cada una de las instancias de concertación y consulta previstas en la Ley 388 de 1997.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3.6 — 
 
 2.2.2.1.2.3.6 Divulgación de los documentos del plan de ordenamiento territorial adoptado, a través de la página web institucional del municipio o distrito. Una vez adoptado el Plan de Ordenamiento Territorial o su revisión o modificación mediante Acuerdo o Decreto, y dentro de los 10 días hábiles siguientes, el municipio o distrito deberá divulgar todos los documentos y cartografía que lo integran a través de la página web institucional, en todo caso esta información deberá encontrarse disponible en medio físico para la consulta ciudadana.
@@ -12211,8 +10901,6 @@ ARTÍCULO
 SUBSECCIÓN 4
 
 SERVICIOS DE ALTO IMPACTO REFERIDOS A LA PROSTITUCIÓN Y ACTIVIDADES AFINES
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.4.1 — Incompatibilidad y localización
 
@@ -12224,8 +10912,6 @@ En caso de presentarse colindancia entre las áreas, zonas o sectores donde se p
 
 PARÁGRAFO . Para la delimitación de las áreas, las zonas o los sectores en los que se permitan los servicios de alto impacto referidos a la prostitución y actividades afines se tendrán en cuenta las características y las formas de convivencia de cada municipio o distrito.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.4.2 — Condiciones para el desarrollo de servicios de alto impacto referidos a la prostitución
 
 Además de la normatividad especial que regule la materia, los inmuebles en los que se presten servicios de alto impacto referidos a la prostitución y actividades afines, deberán cumplir con las siguientes condiciones:
@@ -12235,8 +10921,6 @@ Además de la normatividad especial que regule la materia, los inmuebles en los 
 2. Desarrollar y localizar la actividad y sus servicios complementarios, incluidos los estacionamientos que exigieran las normas urbanísticas, exclusivamente al interior del predio.
 
 3. Las demás que determinen las autoridades locales.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.4.3 — Programas de reordenamiento
 
@@ -12256,19 +10940,13 @@ SUBSECCIÓN 5
 
 ARMONIZACIÓN DE USOS DEL SUELO EN LOS PLANES DE ORDENAMIENTO TERRITORIAL Y EL DESARROLLO DE PROYECTOS, OBRAS O ACTIVIDADES DE UTILIDAD PÚBLICA Y DE INTERÉS SOCIAL
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.5.1 — Requisito previo para los proyectos, obras o actividades de utilidad pública
 
 Los proyectos, obras o actividades consideradas por el legislador de utilidad pública e interés social cuya ejecución corresponda a la Nación, podrán ser adelantados por esta en todo el territorio nacional, de manera directa o indirecta a través de cualquier modalidad contractual, previa la expedición de la respectiva licencia o del correspondiente instrumento administrativo de manejo y control ambiental por parte de la autoridad ambiental correspondiente, si a ello hubiere lugar.
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.5.2 — Oponibilidad de los planes de ordenamiento territorial
 
 Los planes, planes básicos o esquemas de ordenamiento territorial de los municipios y distritos en ningún caso serán oponibles a la ejecución de proyectos, obras o actividades a los que se refiere la presente subsección.
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.5.3 — Información de los proyectos, obras o actividades de utilidad pública
 
@@ -12284,8 +10962,6 @@ SUBSECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.1.1 — Objeto y ámbito de aplicación
 
 Las disposiciones contenidas en el presente capítulo establecen las condiciones y escalas de detalle para incorporar de manera gradual la gestión del riesgo en la revisión de los contenidos de mediano y largo plazo de los planes de ordenamiento territorial municipal y distrital o en la expedición de un nuevo plan.
@@ -12296,15 +10972,11 @@ En ningún caso los concejos municipales o distritales podrán conferir autoriza
 
 (Decreto 1807 de 2014, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.1.2 — Estudios técnicos para la incorporación de la gestión del riesgo en la planificación territorial
 
 Teniendo en cuenta el principio de gradualidad de que trata la Ley 1523 de 2012, se deben realizar los estudios básicos para la revisión de los contenidos de mediano y largo plazo de los planes de ordenamiento territorial o la expedición de nuevos planes y en su ejecución se deben realizar los estudios detallados.
 
 (Decreto 1807 de 2014, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.1.3 — Estudios básicos para la revisión o expedición de Planes de Ordenamiento Territorial (POT)
 
@@ -12336,8 +11008,6 @@ PARÁGRAFO 4. Si al momento de la revisión de los contenidos de mediano y largo
 
 (Decreto 1807 de 2014, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.1.4 — Estudios detallados
 
 Los estudios detallados están orientados a determinar la categorización del riesgo y establecer las medidas de mitigación correspondientes.
@@ -12345,8 +11015,6 @@ Los estudios detallados están orientados a determinar la categorización del ri
 En la revisión de los contenidos de mediano y largo plazo de los planes de ordenamiento territorial o en la expedición de un nuevo POT, se debe establecer la priorización de los estudios detallados identificados en los estudios básicos y en el programa de ejecución se debe definir la programación de actividades, las entidades responsables y los recursos respectivos de los estudios que se ejecutarán en el período del alcalde que adelanta la revisión del plan o la expedición de uno nuevo.
 
 (Decreto 1807 de 2014, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.1.5 — Escala de trabajo
 
@@ -12382,8 +11050,6 @@ SUBSECCIÓN 2.
 
 CONDICIONES TÉCNICAS PARA LA ELABORACIÓN DE ESTUDIOS BÁSICOS Y DETALLADOS
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.1 — Análisis de la información disponible
 
 Para la elaboración de los estudios básicos y detallados se deben realizar los análisis de la información técnica disponible, considerando entre otros, los siguientes aspectos:
@@ -12402,8 +11068,6 @@ Con base en este análisis se deberá establecer la información técnica dispon
 
 (Decreto 1807 de 2014, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.2 — Asesoría para el análisis de los estudios
 
 Los alcaldes municipales podrán solicitar al departamento asesoría sobre los análisis que se deben adelantar para el estudio de los eventos que se presentan en su territorio según lo dispuesto en la presente sección.
@@ -12413,8 +11077,6 @@ Los alcaldes municipales podrán solicitar al departamento asesoría sobre los a
 SUBSUBSECCIÓN 1.
 
 CONDICIONES TÉCNICAS PARA LA ELABORACIÓN DE ESTUDIOS BÁSICOS
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.2.1.1 — Estudios básicos de amenaza por movimientos en masa
 
@@ -12450,8 +11112,6 @@ Se deberá elaborar un documento técnico que contenga la metodología empleada 
 
 (Decreto 1807 de 2014, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.1.2 — Estudios básicos de amenaza de inundación
 
 Para determinar las condiciones de amenaza por inundación en suelos urbanos, de expansión urbana y rural, los estudios básicos tienen las siguientes especificaciones mínimas:
@@ -12484,8 +11144,6 @@ Se debe elaborar un documento técnico que contenga la metodología empleada y l
 
 (Decreto 1807 de 2014, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.1.3 — Estudios básicos de amenaza por avenidas torrenciales
 
 Para determinar las condiciones de amenaza por avenida torrencial en suelos urbanos, de expansión urbana y rural, los estudios básicos tienen las siguientes especificaciones mínimas:
@@ -12514,8 +11172,6 @@ Se deberá elaborar un documento técnico que contenga la metodología empleada 
 
 (Decreto 1807 de 2014, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.1.4 — Delimitación y zonificación de las áreas con condición de amenaza
 
 Con fundamento en la delimitación y zonificación de amenazas, se delimitan y zonifican aquellas áreas sin ocupar del suelo urbano, de expansión urbana, rural suburbano o centros poblados rurales en las que en la revisión o en la expedición de un nuevo POT se proponga su desarrollo.
@@ -12525,8 +11181,6 @@ La identificación de estas áreas se realizará a partir del análisis de las �
 Con esta información se elabora el mapa con la delimitación y zonificación de las áreas con condición de amenaza y se establecen los criterios para la caracterización y delimitación de las unidades de análisis en las áreas que serán objeto de estudios detallados.
 
 (Decreto 1807 de 2014, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.2.1.5 — Delimitación y zonificación de las áreas con condición de riesgo
 
@@ -12540,8 +11194,6 @@ PARÁGRAFO . Las zonas de amenaza media para las cuáles en la revisión o exped
 
 (Decreto 1807 de 2014, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.1.6 — Determinación de medidas de intervención
 
 Con base en los resultados de los estudios básicos, se deben determinar las medidas de mitigación no estructurales orientadas a establecer el modelo de ocupación del territorio y las restricciones o condicionamientos para el uso del suelo cuando sea viable, mediante la determinación de normas urbanísticas.
@@ -12551,8 +11203,6 @@ Con base en los resultados de los estudios básicos, se deben determinar las med
 SUBSUBSECCIÓN 2.
 
 CONDICIONES TÉCNICAS PARA LA ELABORACIÓN DE ESTUDIOS DETALLADOS
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.2.2.1 — Estudios detallados
 
@@ -12569,8 +11219,6 @@ Los estudios detallados deben contener lo siguiente para cada uno de los eventos
 PARÁGRAFO . En las zonas no ocupadas, esto es, que no hay elementos expuestos, se deben considerar las alternativas de intervención conducentes a la reducción de la amenaza, siempre y cuando sean viables desde el punto de vista ambiental, técnico, financiero y urbanístico.
 
 (Decreto 1807 de 2014, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.2.2.2 — Análisis detallado de amenaza por movimientos en masa
 
@@ -12604,8 +11252,6 @@ Se debe elaborar un documento técnico que contenga la metodología empleada y l
 
 (Decreto 1807 de 2014, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.2.3 — Análisis detallado de amenaza de inundación
 
 Para determinar las condiciones de amenaza por inundación, los estudios tienen las siguientes especificaciones mínimas:
@@ -12626,8 +11272,6 @@ Se debe elaborar un documento técnico que contenga la metodología empleada y l
 
 (Decreto 1807 de 2014, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.2.4 — Evaluación de vulnerabilidad
 
 Para evaluar la vulnerabilidad se consideran los siguientes aspectos:
@@ -12642,8 +11286,6 @@ Para evaluar la vulnerabilidad se consideran los siguientes aspectos:
 
 (Decreto 1807 de 2014, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.2.5 — Evaluación del riesgo
 
 La evaluación de riesgo es el resultado de relacionar la zonificación detallada de amenaza y la evaluación de la vulnerabilidad.
@@ -12655,8 +11297,6 @@ Para las zonas en alto riesgo se definirá la mitigabilidad o no mitigabilidad, 
 Para estas alternativas se deberá evaluar su viabilidad de ejecución desde el punto de vista técnico, financiero y urbanístico. Bajo estas evaluaciones se obtendrá la definición del riesgo alto mitigable o riesgo alto no mitigable.
 
 (Decreto 1807 de 2014, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.2.2.6 — Contenidos de la evaluación del riesgo
 
@@ -12678,8 +11318,6 @@ Los estudios de evaluación de riesgo deben acompañarse de los siguientes docum
 
 (Decreto 1807 de 2014, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.2.7 — Medidas de Intervención
 
 Para la prevención, mitigación del riesgo y/o reducción de la amenaza y/o vulnerabilidad de conformidad con lo previsto en el artículo anterior, el estudio de evaluación de riesgo planteará medidas que podrán ser estructurales y no estructurales.
@@ -12694,8 +11332,6 @@ En las zonas donde se define que el riesgo es no mitigable se deben identificar 
 
 (Decreto 1807 de 2014, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2.2.8 — Incorporación de los resultados de estudios detallados al POT
 
 Con base en los resultados de los estudios detallados y mediante acto administrativo, el alcalde municipal o distrital o la dependencia delegada para el efecto, podrá realizar la precisión cartográfica y la definición de las normas urbanísticas a que haya lugar en el área objeto de estudio, de conformidad con lo previsto en el Plan de Ordenamiento Territorial y deberá registrarse en todos los planos de la cartografía oficial.
@@ -12708,15 +11344,11 @@ SUBSECCIÓN 3.
 
 INCORPORACIÓN DEL RIESGO EN EL ORDENAMIENTO TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.3.1 — Documento Técnico de Soporte
 
 Los estudios básicos, y cuando se disponga de estudios detallados, deben integrarse al Documento Técnico de Soporte que contiene la justificación, la descripción, el desarrollo y la aplicación de las determinaciones de planificación de los componentes y contenidos del Plan de Ordenamiento Territorial.
 
 (Decreto 1807 de 2014, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.3.2 — Componente General
 
@@ -12737,8 +11369,6 @@ En relación con la gestión del riesgo, en el componente general del POT se deb
 3.1.2. Las áreas zonificadas cómo riesgo alto no mitigable en suelo urbano, de expansión urbana y rural, de acuerdo con los estudios detallados, cuando se cuente con ellos.
 
 (Decreto 1807 de 2014, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.3.3 — El Componente Urbano
 
@@ -12772,8 +11402,6 @@ Los estudios podrán estar a cargo del gestor y/o promotor y/o urbanizador dentr
 
 (Decreto 1807 de 2014, artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.3.4 — El Componente Rural
 
 En relación al suelo rural y rural suburbano, este componente deberá contemplar por lo menos, los siguientes contenidos para adelantar la delimitación de las áreas expuestas a amenazas y riesgos naturales, de conformidad con lo previsto en el componente general del plan de ordenamiento territorial:
@@ -12790,8 +11418,6 @@ PARÁGRAFO . El desarrollo por parcelación en áreas con condición de riesgo e
 
 (Decreto 1807 de 2014, artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.3.5 — Programa de ejecución
 
 En el programa de ejecución se incluyen con carácter obligatorio, los programas y proyectos para el conocimiento y la reducción (prevención y mitigación) del riesgo que se ejecutarán durante el período de la administración municipal o distrital correspondiente, de acuerdo con lo definido en el correspondiente Plan de Desarrollo y según la vigencia del plan de ordenamiento territorial, señalando las prioridades, la programación de actividades, las entidades responsables y los recursos respectivos.
@@ -12804,15 +11430,11 @@ SUBSECCIÓN 4.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.4.1 — Requisitos profesionales
 
 Los estudios técnicos señalados en la presente sección deben ser elaborados y firmados por profesionales idóneos en las materias, quienes son responsables de los mismos sin perjuicio de la responsabilidad por la correcta ejecución de los diseños y las obras de mitigación.
 
 (Decreto 1807 de 2014, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.4.2 — Mecanismos de financiación para la realización de estudios
 
@@ -12830,15 +11452,11 @@ SUBSECCIÓN 1.
 
 URBANIZACIÓN E INCORPORACIÓN AL DESARROLLO DE LOS PREDIOS Y ZONAS COMPRENDIDAS EN SUELO URBANO Y DE EXPANSIÓN
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.1.1 — Objeto y ámbito de aplicación
 
 Las disposiciones contenidas en la presente subsección reglamentan las actuaciones para la urbanización e incorporación al desarrollo urbano de los predios y zonas sin urbanizar en suelo urbano y de expansión urbana.
 
 (Decreto 4065 de 2008, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.1.2 — Zonas y predios sujetos a las actuaciones de urbanización
 
@@ -12847,8 +11465,6 @@ Se someterán a las actuaciones de urbanización todos los predios urbanizables 
 PARÁGRAFO . En todo caso, se excluirán de las actuaciones de urbanización las zonas clasificadas cómo suelo de protección según lo previsto en el artículo 35 de la Ley 388 de 1997; los predios que se hayan desarrollado por procesos de urbanización o construcción con fundamento en actos administrativos expedidos por las autoridades competentes; las zonas o barrios consolidados con edificaciones, y los asentamientos de hecho que deban ser objeto de procesos de legalización y regularización urbanística previstos en la ley.
 
 (Decreto 4065 de 2008, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.1.3 — Condiciones para adelantar la actuación de urbanización
 
@@ -12876,8 +11492,6 @@ PARÁGRAFO 3. La adopción de los planes parciales se sujetará a lo previsto en
 
 (Decreto 4065 de 2008, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.1.4 — Prohibición de subdivisión previa al proceso de urbanización en suelo urbano
 
 Los predios urbanizables no urbanizados ubicados en suelo urbano no podrán ser subdivididos previamente a la actuación de urbanización, salvo cuando:
@@ -12892,8 +11506,6 @@ Los predios urbanizables no urbanizados ubicados en suelo urbano no podrán ser 
 
 (Decreto 4065 de 2008, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.1.5 — Subdivisión previa al proceso de urbanización en suelo de expansión y subdivisión en suelo rural
 
 Mientras no se adopte el respectivo plan parcial, y salvo lo previsto en el parágrafo del presente artículo, los predios urbanizables no urbanizados en suelo de expansión urbana no podrán subdividirse por debajo de la extensión mínima de la unidad agrícola familiar.
@@ -12901,8 +11513,6 @@ Mientras no se adopte el respectivo plan parcial, y salvo lo previsto en el par�
 PARÁGRAFO . Las excepciones a la subdivisión de predios rurales por debajo de la extensión mínima de la unidad agrícola familiar, serán autorizadas en la respectiva licencia de subdivisión por los curadores urbanos o la autoridad municipal competente para expedir licencias, y los predios resultantes sólo podrán destinarse a los usos permitidos en el plan de ordenamiento o en los instrumentos que lo desarrollen o complementen. Esta disposición también se aplicará para la subdivisión de predios en suelo de expansión urbana que no cuenten con el respectivo plan parcial.
 
 (Decreto 4065 de 2008, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.1.6 — Actuaciones urbanísticas en suelo de expansión urbana
 
@@ -12917,8 +11527,6 @@ No obstante lo anterior, en cualquier momento podrán realizarse las obras corre
 SUBSECCIÓN 2.
 
 TRATAMIENTO URBANÍSTICO DE DESARROLLO
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.2.1 — Tratamiento urbanístico de desarrollo
 
@@ -12949,8 +11557,6 @@ El contenido mínimo del tratamiento urbanístico de desarrollo es el siguiente:
 2.9 Cesiones obligatorias.
 
 (Decreto 4065 de 2008, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.2.2 — Régimen de transición
 
@@ -12987,8 +11593,6 @@ SECCIÓN 5.
 
 DESTINACIÓN DE SUELO PARA VIS Y VIP
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.1 — La vivienda de interés social en los planes de ordenamiento territorial
 
 Atendiendo lo previsto en las Leyes 388 de 1997 y 1537 de 2012, y sin perjuicio de lo dispuesto en el artículo 2.2.2.1.2.1.2 del presente decreto, en el componente urbano de los Planes de Ordenamiento Territorial se deberán definir las exigencias y porcentajes de suelo útil para el desarrollo de programas y proyectos de Vivienda de Interés Social y/o de Interés Social Prioritaria cumpliendo con lo previsto en la presente Sección.
@@ -12996,8 +11600,6 @@ Atendiendo lo previsto en las Leyes 388 de 1997 y 1537 de 2012, y sin perjuicio 
 Siguiendo lo definido por los Planes de Ordenamiento Territorial, en los programas de ejecución del plan de inversiones de los planes de desarrollo municipales y distritales se podrán localizar los suelos de los programas y proyectos de vivienda de interés social y/o prioritaria, en los cuáles se podrá cumplir con los porcentajes de suelo de que trata esta Sección.
 
 (Decreto 075 de 2013, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.2 — Porcentajes mínimos de suelo para el desarrollo de Programas de Vivienda de Interés Social e Interés Social Prioritaria
 
@@ -13012,8 +11614,6 @@ En todo caso, las áreas útiles destinadas a este tipo de vivienda deberán des
 SUBSECCIÓN 1.
 
 DE LOS PORCENTAJES DE SUELO PARA VIP EN TRATAMIENTO URBANÍSTICO DE DESARROLLO
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.1.1 — 
 
@@ -13039,8 +11639,6 @@ PARÁGRAFO .. Los planes de ordenamiento de los demás municipios del territorio
 
 (Decreto 075 de 2013, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.1.2 — Obligatoriedad
 
 El porcentaje mínimo de que trata el artículo anterior, aun cuando no se haya incorporado en los planes de ordenamiento o en los instrumentos que los desarrollen o complementen es de obligatorio cumplimiento y se aplicará a las nuevas solicitudes de planes parciales o de licencias de urbanización radicadas en legal y debida forma a partir del 23 de enero de 2013.
@@ -13048,8 +11646,6 @@ El porcentaje mínimo de que trata el artículo anterior, aun cuando no se haya 
 PARÁGRAFO . Con el cumplimiento de los porcentajes de suelo previstos en el artículo anterior se entienden cumplidas las previsiones de vivienda de interés social de que tratan los artículos 92 de la Ley 388 de 1997 y 46 de la Ley 1537 de 2012 exigibles a los predios regulados por el tratamiento de desarrollo.
 
 (Decreto 075 de 2013, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.1.3 — 
 
@@ -13061,15 +11657,11 @@ SUBSECCIÓN 2.
 
 DE LOS PORCENTAJES DE SUELO PARA VIS EN TRATAMIENTO URBANÍSTICO DE RENOVACIÓN URBANA
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.2.1 — 
 
 2.2.2.1.5.2.1 Porcentajes mínimos de suelo para el desarrollo de Programas de Vivienda de Interés Social (VIS) en tratamiento de renovación urbana, modalidad de redesarrollo. De conformidad con lo previsto en el artículo 92 de la Ley 388 de 1997, en el componente urbano de los planes de ordenamiento territorial de los municipios o distritos, se deberán definir los porcentajes mínimos de suelo para el desarrollo de programas de vivienda de interés social que se exigirán únicamente a los predios regulados por el tratamiento de renovación urbana en la modalidad de redesarrollo ubicados en suelos urbanos que deban urbanizarse nuevamente mediante planes parciales.
 
 (Decreto 075 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.2.2 — 2.2
 
@@ -13121,8 +11713,6 @@ SUBSECCIÓN 3.
 
 DISPOSICIONES COMUNES PARA EL CUMPLIMIENTO DE LOS PORCENTAJES DE SUELO EN TRATAMIENTOS DE DESARROLLO Y RENOVACIÓN URBANA
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.3.1 — Cumplimiento del porcentaje minino de suelo
 
 Para el cumplimento de la obligación establecida en la presente Sección, el propietario y/o urbanizador podrá optar por una de las siguientes alternativas:
@@ -13141,8 +11731,6 @@ PARÁGRAFO . Para efectos del porcentaje mínimo de suelo en tratamiento de desa
 
 (Adicionado por el Decreto 2413 de 2018, art. 2).
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.3.2 — Cumplimiento de la obligación en el mismo proyecto
 
 Cuando la exigencia de destinar suelo para VIS o VIP se cumpla al interior del mismo proyecto, la localización y delimitación de las áreas destinadas al cumplimiento de la obligación se hará en los planos que se aprueben con las correspondientes licencias de urbanización.
@@ -13154,8 +11742,6 @@ La localización de estas áreas también deberá señalarse en la incorporació
 PARÁGRAFO . Para efectos del control de los compromisos establecidos en el presente artículo, cuando los curadores urbanos expidan licencias de urbanización sobre predios sujetos a la obligación de que trata esta Sección, informarán de esta circunstancia a la oficina de planeación y a los demás curadores urbanos del municipio o distrito. Para el efecto, sin perjuicio de lo previsto en el Decreto número 2150 de 1995 y en el presente decreto, de los primeros diez (10) días calendario de cada mes, se enviará copia de las licencias de urbanización expedidas o, en caso que el correspondiente curador tenga página web, se hará la publicación de las mismas la cuál deberá estar disponible de manera permanente para verificar lo previsto en este parágrafo.
 
 (Decreto 075 de 2013, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.3.3 — Cumplimiento de la obligación mediante el traslado a otro proyecto
 
@@ -13187,8 +11773,6 @@ PARÁGRAFO 4. La obligación de que trata este artículo también podrá cumplir
 
 (Decreto 075 de 2013, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.3.4 — 
 
 2.2.2.1.5.3.4 Cumplimiento de la obligación mediante la compensación en proyectos que adelanten las entidades públicas que desarrollen programas y proyectos VIS o VIP, a través de los bancos inmobiliarios, patrimonios autónomos o fondos que creen los municipios y distritos para el efecto. La obligación de destinar suelo para VIP también se podrá hacer efectiva en los programas o proyectos que adelanten las entidades públicas municipales o distritales, mediante la compra de derechos fiduciarios.
@@ -13213,8 +11797,6 @@ PARÁGRAFO 4. De conformidad con lo previsto en los artículos 70 y siguientes d
 
 (Decreto 075 de 2013, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.3.5 — Compra de derechos fiduciarios
 
 Sin perjuicio de lo dispuesto en el artículo 117 de la Ley 1450 de 2011 o la norma que lo adicione, modifique o sustituya, las entidades públicas de que trata este capítulo celebrarán contratos de fiducia mercantil para el desarrollo de programas y proyectos VIS o VIP, a los cuáles podrán vincularse quienes deban cumplir con los porcentajes de que trata la presente Sección mediante la adquisición de derechos fiduciarios.
@@ -13229,8 +11811,6 @@ En caso que no esté definido el portafolio de los proyectos VIS o VIP, la compr
 
 (Decreto 075 de 2013, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.3.6 — 
 
 2.2.2.1.5.3.6 Con el fin de asegurar que los porcentajes de suelo sobre área útil sean destinados a este tipo de vivienda, cuando el suelo destinado para el desarrollo de proyectos VIS o VIP se encuentre en el mismo proyecto, deberá quedar expresamente señalado y determinado en la Escritura Pública de constitución de la urbanización, la cuál deberá inscribirse en el folio de matrícula inmobiliaria de cada uno de los inmuebles. Si el suelo destinado para el desarrollo de proyectos VIS o VIP se localiza en otra zona de la ciudad, esta situación deberá inscribirse en el folio de matrícula inmobiliaria de cada uno de los inmuebles.
@@ -13241,15 +11821,11 @@ SUBSECCIÓN 4.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.4.1 — Adecuación de las normas urbanísticas
 
 Para hacer exigibles los porcentajes de suelo para VIS o VIP, y sin perjuicio de lo previsto en el parágrafo del artículo 46 de la Ley 1537 de 2012, los municipios y distritos en la revisión de sus planes de ordenamiento ajustarán sus planes de ordenamiento territorial a lo señalado en este Capítulo. De la misma manera se deberá proceder al adoptarse nuevos planes de ordenamiento territorial.
 
 (Decreto 075 de 2013, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.4.2 — Licencias de urbanización por etapas
 
@@ -13257,15 +11833,11 @@ En los proyectos de urbanización por etapas se deberá garantizar para cada una
 
 (Decreto 075 de 2013, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.4.3 — Licencias de construcción
 
 La exigencia del cumplimiento de suelo para VIS y/o VIP no será exigible en trámites de licencias de construcción en ninguna de sus modalidades.
 
 (Decreto 075 de 2013, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.4.4 — Régimen de transición
 
@@ -13307,23 +11879,17 @@ SECCIÓN 1.
 
 ORDENAMIENTO DEL SUELO RURAL
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.1 — 
 
 2.2.2.2.1.1 Con el fin de garantizar el desarrollo sostenible del suelo rural, en los procesos de formulación, revisión y/o modificación de los planes de ordenamiento territorial, los municipios y distritos deberán dar cumplimiento a las determinantes que se desarrollan en el presente Capítulo, las cuáles constituyen normas de superior jerarquía en los términos del artículo 10 de la Ley 388 de 1997.
 
 (Decreto 3600 de 2007, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.2 — Categorías del suelo rural
 
 Para efectos de lo dispuesto en los artículos 14, 16.3 y 17 de la Ley 388 de 1997, en el componente rural del plan de ordenamiento y en su cartografía se deberán determinar y delimitar cada una de las categorías de protección y de desarrollo restringido a que se refieren los artículos siguientes, con la definición de los lineamientos de ordenamiento y la asignación de usos principales, compatibles, condicionados y prohibidos correspondientes.
 
 (Decreto 3600 de 2007, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.2.2.1.3 — Categorías de protección en suelo rural
 
@@ -13351,8 +11917,6 @@ Deberán señalarse las áreas para la realización de actividades referidas al 
 
 (Decreto 3600 de 2007, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.4 — Categorías de desarrollo restringido en suelo rural
 
 Dentro de estas categorías se podrán incluir los suelos rurales que no hagan parte de alguna de las categorías de protección de que trata el artículo anterior, cuando reúnan condiciones para el desarrollo de núcleos de población rural, para la localización de actividades económicas y para la dotación de equipamientos comunitarios. Dentro de esta categoría, en el componente rural del plan de ordenamiento territorial se podrá incluir la delimitación de las siguientes áreas:
@@ -13366,8 +11930,6 @@ Dentro de estas categorías se podrán incluir los suelos rurales que no hagan p
 4. La localización prevista para los equipamientos de salud, educación, bienestar social, cultural y deporte.
 
 (Decreto 3600 de 2007, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.2.2.1.5 — Planeamiento intermedio del suelo rural
 
@@ -13384,8 +11946,6 @@ Para desarrollar y precisar las condiciones de ordenamiento de áreas específic
 5. Las cuencas hidrográficas, cerros y planicies u otros elementos geográficos.
 
 (Decreto 3600 de 2007, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.2.2.1.6 — Contenido de la unidad de planificación rural
 
@@ -13408,8 +11968,6 @@ La unidad de planificación rural deberá contener, cómo mínimo, los siguiente
 PARÁGRAFO . Los contenidos de las unidades de planificación rural que se establecen en el presente decreto podrán preverse directamente en el contenido rural de los planes de ordenamiento territorial.
 
 (Decreto 3600 de 2007, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.2.2.1.7 — Adopción de las unidades de planificación rural
 
@@ -13436,8 +11994,6 @@ SECCIÓN 2.
 
 SUELO RURAL SUBURBANO
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.1 — Ordenamiento básico para el desarrollo sostenible del suelo rural suburbano
 
 Para el ordenamiento del suelo rural suburbano, el distrito o municipio deberá incluir en la adopción, revisión y/o modificación del plan de ordenamiento territorial lo siguiente:
@@ -13460,8 +12016,6 @@ PARÁGRAFO . Se exceptúa de cumplir con la extensión de la unidad mínima de a
 
 (Decreto 4066 de 2008, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.2 — Corredores viales suburbanos
 
 Para efectos de lo dispuesto en el artículo 34 de la Ley 388 de 1997, en los planes de ordenamiento territorial sólo se podrán clasificar cómo corredores viales suburbanos las áreas paralelas a las vías arteriales o de primer orden y vías intermunicipales o de segundo orden.
@@ -13473,8 +12027,6 @@ Corresponderá a las Corporaciones Autónomas Regionales o de Desarrollo Sosteni
 PARÁGRAFO . No se podrán clasificar cómo suburbanos los corredores viales correspondientes a las vías veredales o de tercer orden.
 
 (Decreto 3600 de 2007, artículo 10, modificado por Decreto 4066 de 2008, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.3 — Ordenamiento de los corredores viales suburbanos
 
@@ -13492,8 +12044,6 @@ PARÁGRAFO 2. Para efectos de la expedición de licencias urbanísticas, en los 
 
 (Decreto 3600, artículo 11, modificado por Decreto 4066 de 2008, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.4 — Normas aplicables para el desarrollo de usos comerciales y de servicios
 
 El otorgamiento de licencias de parcelación y construcción para el desarrollo de proyectos comerciales y de servicios con un área de construcción superior a los cinco mil metros cuadrados (5.000 m2) en suelo rural suburbano, sólo se permitirá en las áreas de actividad que para estos usos hayan sido específicamente delimitadas cartográficamente en el plan de ordenamiento territorial o en las unidades de planificación rural.
@@ -13510,8 +12060,6 @@ PARÁGRAFO . Los servicios ecoturísticos, etnoturísticos, agroturísticos y ac
 
 (Decreto 3600 de 2007, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.5 — Normas para los usos industriales
 
 El otorgamiento de licencias para el desarrollo de usos industriales en suelo rural suburbano sólo se permitirá en las áreas de actividad que para estos usos hayan sido específicamente delimitadas en el plan de ordenamiento territorial o en las unidades de planificación rural y sólo se autorizará bajo alguna de las siguientes modalidades:
@@ -13521,8 +12069,6 @@ El otorgamiento de licencias para el desarrollo de usos industriales en suelo ru
 2. Los parques, agrupaciones o conjuntos industriales.
 
 (Decreto 3600 de 2007, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.6 — Condiciones básicas para la localización de usos industriales en suelo rural suburbano
 
@@ -13552,15 +12098,11 @@ SECCIÓN 3.
 
 CENTROS POBLADOS RURALES
 
-ARTÍCULO
-
 ## art:2.2.2.2.3.1 — Centros poblados rurales
 
 En el componente rural de los planes de ordenamiento o en la unidad de planificación rural se debe incluir la delimitación de los centros poblados rurales, de acuerdo con los criterios definidos en el inciso 2 del parágrafo del artículo1 de la Ley 505 de 1999.
 
 (Decreto 3600 de 2007, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3.2 — Ordenamiento de los centros poblados rurales
 
@@ -13590,8 +12132,6 @@ SECCIÓN 4.
 
 ÁREAS DE ACTIVIDAD INDUSTRIAL EN SUELO RURAL NO SUBURBANO
 
-ARTÍCULO
-
 ## art:2.2.2.2.4.1 — Áreas de actividad industrial en suelo rural no suburbano
 
 A partir del 20 de septiembre de 2007, los municipios y distritos del país no podrán ampliar la extensión actual de los corredores viales de servicio rural, las áreas de actividad industrial u otras áreas destinadas a usos industriales, independientemente de la denominación que adopten en los suelos rurales no suburbanos ni crear áreas nuevas, salvo que se trate de áreas destinadas a la explotación de recursos naturales o al desarrollo aislado de usos agroindustriales, ecoturísticos, etnoturísticos, agroturísticos, acuaturísticos y demás actividades análogas que sean compatibles con la vocación agrícola, pecuaria y forestal del suelo rural.
@@ -13609,8 +12149,6 @@ En ningún caso, podrá autorizarse el desarrollo de actividades industriales en
 PARÁGRAFO . Lo dispuesto en el presente decreto para los parques, conjuntos o agrupaciones industriales, también será de aplicación para declarar zonas francas.
 
 (Decreto 3600 de 2007, artículo 17, modificado por Decreto 4066 de 2008, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.2.2.4.2 — Áreas de actividad industrial en la Sabana de Bogotá
 
@@ -13642,23 +12180,17 @@ SECCIÓN 5.
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.2.2.2.5.1 — Productores marginales
 
 De conformidad con lo previsto en los artículos 15.2, 16 y 87.3 de la Ley 142 de 1994, los usuarios de servicios suministrados por productores de servicios marginales independientes o para uso particular, y ellos mismos en los casos de autoabastecimiento, en usos comerciales e industriales en cualquier clase de suelo y de vivienda campestre en suelo rural y rural suburbano, deberán hacer los aportes de contribución al fondo de solidaridad y redistribución del ingreso.
 
 (Decreto 3600 de 2007, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.2.2.5.2 — Adecuación de las normas urbanísticas
 
 Los municipios y distritos ajustarán sus planes de ordenamiento territorial a lo dispuesto en este decreto mediante su revisión y/o modificación.
 
 (Decreto 3600 de 2007, artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.2.2.5.3 — Macroproyectos de interés social nacional
 
@@ -13672,13 +12204,9 @@ La formulación y adopción de los macroproyectos de interés social nacional de
 
 DE LOS PROYECTOS DE VIVIENDA EN LOS ANTIGUOS ESPACIOS TERRITORIALES DE CAPACITACIÓN Y REINCORPORACIÓN"
 
-ARTÍCULO
-
 ## art:2.2.2.3 — Determinación de los proyectos de vivienda y usos complementarios en el Proceso de Reincorporación y Normalización
 
 El Ministerio de Vivienda, Ciudad y Territorio establecerá mediante acto administrativo los proyectos de vivienda y acciones necesarias mínimas requeridas para la consolidación, transformación o reubicación de los antiguos Espacios Territoriales de Capacitación y Reincorporación (ETCR).
-
-ARTÍCULO
 
 ## art:2.2.2.3.1 — Contenido mínimo del acto que establece los proyectos de vivienda y acciones necesarias
 
@@ -13698,8 +12226,6 @@ PARÁGRAFO 2. Una vez expedido el acto administrativo por el cuál se determina 
 
 PARÁGRAFO 3. La ejecución de las obras se adelantará una vez expedido el acto administrativo por el cuál se determina el proyecto de vivienda y usos complementarios.
 
-ARTÍCULO
-
 ## art:2.2.2.3.2 — Coordinación institucional proyectos de vivienda para la población en reincorporación
 
 Con el propósito de viabilizar el desarrollo de proyectos de vivienda para la población en proceso de reincorporación de los antiguos Espacios Territoriales de Capacitación y Reincorporación (ETGR), la Agencia para la Reincorporación y la Normalización y el Fondo Nacional de Vivienda - FONVIVIENDA podrán constituir mecanismos de cooperación para adelantar los procesos técnicos, administrativos y demás necesarios para su ejecución, lo cuál incluirá la posibilidad de destinar los recursos financieros del caso, de acuerdo con las disponibilidades del marco de gasto de mediano plazo del sector vivienda.
@@ -13712,23 +12238,17 @@ CAPÍTULO 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Protección del Espacio público
 
 Es deber del Estado velar por la protección de la integridad del espacio público y por su destinación al uso común, el cuál prevalece sobre el interés particular. En el cumplimiento de la función pública del urbanismo, los municipios y distritos deberán dar prelación a la planeación, construcción, mantenimiento y protección del espacio público sobre los demás usos del suelo.
 
 (Decreto 1504 de 1998, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2 — Definición de espacio público
 
 El espacio público es el conjunto de inmuebles públicos y los elementos arquitectónicos y naturales de los inmuebles privados destinados por naturaleza, usos o afectación a la satisfacción de necesidades urbanas colectivas que transcienden los límites de los intereses individuales de los habitantes.
 
 (Decreto 1504 de 1998, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3 — Componentes del espacio público
 
@@ -13742,15 +12262,11 @@ El espacio público comprende, entre otros, los siguientes aspectos:
 
 (Decreto 1504 de 1998, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.1.4 — Destinación de los bienes de uso público
 
 El destino de los bienes de uso público incluidos en el espacio público no podrá ser variado sino por los Concejos Municipales o Distritales a través de los planes de ordenamiento territorial o de los instrumentos que los desarrollen aprobados por la autoridad competente, siempre que sean sustituidos por otros de características y dimensiones equivalente o superiores. La sustitución debe efectuarse atendiendo criterios, entre otros, de calidad, accesibilidad y localización.
 
 (Decreto 1504 de 1998, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5 — Elementos del espacio público
 
@@ -13836,15 +12352,11 @@ CAPÍTULO 2
 
 EL ESPACIO PÚBLICO EN LOS PLANES DE ORDENAMIENTO TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Elemento estructural del plan de ordenamiento territorial
 
 El espacio público es el elemento articulador y estructurante fundamental del espacio en la ciudad, así cómo el regulador de las condiciones ambientales de la misma, y por lo tanto se constituye en uno de los principales elementos estructurales de los Planes de Ordenamiento Territorial.
 
 (Decreto 1504 de 1998, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2 — Elementos en el plan de ordenamiento territorial
 
@@ -13880,23 +12392,17 @@ En los Planes de Ordenamiento Territorial debe incorporarse los siguientes eleme
 
 (Decreto 1504 de 1998, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.3.2.3 — Espacio público en el programa de ejecución
 
 En el programa de ejecución se deben incorporar las definiciones con carácter obligatorio de las actuaciones sobre el espacio público.
 
 (Decreto 1504 de 1998, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.3.2.4 — Diagnóstico del espacio público
 
 El diagnóstico deberá comprender un análisis de la oferta y la demanda de espacio público que permita establecer y proyectar el déficit cuantitativo y cualitativo del mismo.
 
 (Decreto 1504 de 1998, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.3.2.5 — Déficit cuantitativo de espacio público
 
@@ -13906,23 +12412,17 @@ La medición del déficit cuantitativo se hará con base en un índice mínimo d
 
 (Decreto 1504 de 1998, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6 — 
 
 2.2.3.2.6 Déficit cualitativo de espacio público El déficit cualitativo está definido por las condiciones inadecuadas para el uso, goce y disfrute de los elementos del espacio público que satisfacen necesidades, colectivas por parte de los residentes y visitantes del territorio, con especial énfasis en las situaciones de inaccesibilidad debido a condiciones de deterioro, inseguridad o imposibilidad física de acceso, cuando éste se requiere, y al desequilibrio generado por las condiciones de localización de los elementos con relación a la ubicación de la población que los disfruta.
 
 (Decreto 1504 de 1998, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.3.2.7 — Índice mínimo de espacio público efectivo
 
 Se considera cómo índice mínimo de espacio público efectivo, para ser obtenido por las áreas urbanas de los municipios y distritos dentro de las metas y programa de largo plazo establecidos por el Plan de Ordenamiento Territorial, un mínimo de quince (15m2) metros cuadrados y por habitante, para ser alcanzado durante la vigencia del plan respectivo.
 
 (Decreto 1504 de 1998, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.3.2.8 — 
 
@@ -13934,15 +12434,11 @@ CAPÍTULO 3.
 
 DEL MANEJO DEL ESPACIO PÚBLICO
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Coordinación de políticas relacionadas con la gestión del espacio público
 
 El Ministerio de Vivienda, Ciudad y Territorio deberá coordinar las políticas nacionales relacionadas con la gestión del espacio público en el marco de la planeación del ordenamiento del territorio con el apoyo técnico a las entidades territoriales y áreas metropolitanas.
 
 (Decreto 1504 de 1998, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2 — Funciones de las entidades responsables del espacio público
 
@@ -13968,15 +12464,11 @@ Las corporaciones autónomas regionales y las autoridades ambientales de las ent
 
 (Decreto 1504 de 1998, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3 — Administración, mantenimiento y el aprovechamiento económico del espacio público
 
 Los municipios y distritos podrán contratar con entidades privadas la administración, mantenimiento y el aprovechamiento económico para el municipio o distrito del espacio público, sin que impida a la ciudadanía de su uso, goce, disfrute visual y libre tránsito.
 
 (Decreto 1504 de 1998, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4 — Áreas públicas de uso activo o pasivo
 
@@ -13984,15 +12476,11 @@ En el caso de áreas públicas de uso activo o pasivo, en especial parques, plaz
 
 (Decreto 1504 de 1998, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.3.3.5 — Espacio público en áreas desarrolladas
 
 Con el objeto de generar espacio público en áreas desarrolladas, el municipio o distrito podrá crear áreas generadoras de derechos transferibles de construcción y desarrollo, para ser incorporadas cómo elementos del espacio público al Plan de Ordenamiento Territorial o a los Planes Parciales que lo desarrollen, de conformidad con lo establecido en el Decreto-ley 151 de 1998.
 
 (Decreto 1504 de 1998, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.3.3.6 — Parques y zonas verdes
 
@@ -14001,8 +12489,6 @@ Los parques y zonas verdes que tengan el carácter de bienes de uso público no 
 Para el efecto de parques y zonas del nivel local o de barrio que tengan carácter de bienes de uso público la entidad competente de su manejo administrativo, podrá encargar a organizaciones particulares sin ánimo de lucro y que representen los intereses del barrio o localidad la administración, mantenimiento, dotación y siempre y cuando garanticen el acceso al mismo de la población, en especial la permanente de su área de influencia.
 
 (Decreto 1504 de 1998, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.3.3.7 — Acción Popular
 
@@ -14014,15 +12500,11 @@ La acción popular de que trata el artículo 1005 del Código Civil podrá inter
 
 (Decreto 1504 de 1998, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.3.3.8 — Ocupación de bienes de uso público
 
 La ocupación en forma permanente de los parques públicos, zonas verdes y demás bienes de uso público, el encerramiento sin la debida autorización de las autoridades municipales o distrital, la realización de intervenciones en áreas que formen parte del espacio público, sin la debida licencia o contraviniéndola y la ocupación temporal o permanente del espacio público con cualquier tipo de amoblamiento o instalaciones dará lugar a la imposición de las sanciones urbanísticas que señala el artículo 104 de la Ley 388 de 1997, modificado por el artículo 2 de la Ley 810 de 2003.
 
 (Decreto 1504 de 1998, artículo 28).
-
-ARTÍCULO
 
 ## art:2.2.3.3.9 — Áreas de cesión pública y espacio público
 
@@ -14034,8 +12516,6 @@ CAPÍTULO 4.
 
 ACCESIBILIDAD AL MEDIO FÍSICO
 
-ARTÍCULO
-
 ## art:2.2.3.4.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente capítulo serán aplicables para:
@@ -14046,15 +12526,11 @@ Las disposiciones contenidas en el presente capítulo serán aplicables para:
 
 (Decreto 1538 de 2005, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2 — Accesibilidad en el espacio público
 
 El espacio público debe planearse, diseñarse, construirse y adecuarse de tal manera que facilite la accesibilidad a las personas con movilidad reducida, sea ésta temporal o permanente, o cuya capacidad de orientación se encuentre disminuida por la edad, analfabetismo, limitación o enfermedad, de conformidad con las normas establecidas en la Ley 361 de 1997 y aquellas que la reglamenten.
 
 (Decreto 1504 de 1998, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.4.3 — Licencias
 
@@ -14062,15 +12538,11 @@ Para efectos de la expedición de licencias de urbanización y/o construcción, 
 
 (Decreto 1538 de 2005, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4 — Instrumentos de planeación territorial
 
 Las disposiciones contenidas en la Ley 361 de 1997 y en el presente capítulo se entenderán incorporadas en los Planes de Ordenamiento Territorial y en los instrumentos que los desarrollen o complementen y serán de inmediata aplicación.
 
 (Decreto 1538 de 2005, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.3.4.5 — Símbolos de accesibilidad
 
@@ -14078,15 +12550,11 @@ El símbolo gráfico de accesibilidad de que trata la Norma Técnica Icontec NTC
 
 (Decreto 1538 de 2005, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.3.4.6 — Adaptación del espacio público
 
 Los espacios de uso público de que trata el presente Capítulo serán adaptados en la forma que establezcan los municipios y distritos, de conformidad con lo previsto en sus Planes de Adaptación para Espacios Públicos, Edificios, Servicios e Instalaciones Dependientes, de conformidad con lo previsto en el artículo 57 de la Ley 361 de 1997.
 
 (Decreto 1538 de 2005, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.3.4.7 — Adaptación de bienes de interés cultural
 
@@ -14097,8 +12565,6 @@ La adecuación o adaptación de inmuebles declarados cómo bienes de interés cu
 SECCIÓN 1
 
 ACCESIBILIDAD A LOS ESPACIOS DE USO PÚBLICO
-
-ARTÍCULO
 
 ## art:2.2.3.4.1.1 — Accesibilidad al espacio público
 
@@ -14158,8 +12624,6 @@ PARÁGRAFO 2. Además de lo dispuesto en el presente artículo, serán de obliga
 
 (Decreto 1538 de 2005, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.3.4.1.2 — Accesibilidad en las vías públicas
 
 Las vías públicas que se construyan al interior del perímetro urbano, deben contemplar la construcción de la totalidad de los elementos del perfil vial, en especial, las calzadas, los separadores, los andenes, los sardineles, las zonas verdes y demás elementos que lo conforman, según lo que establezca el Plan de Ordenamiento Territorial del municipio o distrito.
@@ -14171,8 +12635,6 @@ Las vías públicas existentes al interior del perímetro urbano, que a 19 de ma
 SECCIÓN 2.
 
 ACCESIBILIDAD A EDIFICIOS ABIERTOS AL PÚBLICO
-
-ARTÍCULO
 
 ## art:2.2.3.4.2.1 — Características de los edificios abiertos al público
 
@@ -14230,8 +12692,6 @@ PARÁGRAFO . Además de lo dispuesto en el presente artículo, serán de obligat
 
 (Decreto 1538 de 2005, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.3.4.2.2 — ACCESIBILIDAD A EDIFICACIONES PARA VIVIENDA
 
 Modificado por Decreto 1801 de 2015Independientemente de lo dispuesto en el parágrafo 2 del artículo 29 de la Ley 546 de 1999, subrogado por el parágrafo 3 del artículo 1 de la Ley 1114 de 2006, para el diseño y construcción de vivienda nueva, se dará aplicación en lo pertinente, a las normas técnicas previstas en el artículo anterior.
@@ -14250,8 +12710,6 @@ SECCIÓN 3
 
 ACCESIBILIDAD EN LOS ESTACIONAMIENTOS
 
-ARTÍCULO
-
 ## art:2.2.3.4.3.1 — Reserva de estacionamientos accesibles en zonas de parqueo
 
 En todos los sitios abiertos al público cómo edificios de uso público, centros comerciales, nuevas urbanizaciones y unidades residenciales y en general en todo sitio donde existan parqueaderos habilitados para visitantes, se dispondrá de sitios de parqueo para personas con movilidad reducida, debidamente señalizados y con las dimensiones internacionales.
@@ -14261,8 +12719,6 @@ En estos espacios se garantizará cómo mínimo un porcentaje equivalente al dos
 PARÁGRAFO . Las autoridades municipales y distritales competentes, determinarán en las normas urbanísticas del Plan de Ordenamiento Territorial, la reserva para estacionamientos accesibles, contiguos a todo centro de interés público, sea este de tipo administrativo, comercial, cultural, recreativo, deportivo, o de servicios; dicha reserva no podrá ser menor de 2 estacionamientos por cada 100.
 
 (Decreto 1538 de 2005, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.3.4.3.2 — Características de los estacionamientos para personas con movilidad reducida
 
@@ -14278,8 +12734,6 @@ CAPÍTULO 5
 
 ESTÁNDARES URBANÍSTICOS
 
-ARTÍCULO
-
 ## art:2.2.3.5.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente capítulo reglamentan los estándares urbanísticos básicos para el desarrollo de la vivienda, los equipamientos y los espacios públicos, necesarios para su articulación con los sistemas de movilidad, principalmente con la red peatonal y de ciclorrutas que complementen el sistema de transporte y se establecen las condiciones mínimas de los perfiles viales al interior del perímetro urbano de los municipios y distritos que hayan adoptado plan de ordenamiento territorial, en los términos del literal a) del artículo 9 de la Ley 388 de 1997.
@@ -14287,8 +12741,6 @@ Las disposiciones contenidas en el presente capítulo reglamentan los estándare
 Las disposiciones contenidas en el presente capítulo sólo se aplicarán a las zonas y predios urbanizables no urbanizados sujetos a las actuaciones de urbanización a los que se les haya asignado el tratamiento urbanístico de desarrollo en suelo urbano o de expansión urbana. Las disposiciones del presente capítulo también se aplicarán para la planificación, diseño, construcción y/o adaptación de las vías del perímetro urbano del respectivo municipio o distrito.
 
 (Decreto 798 de 2010, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2 — Estándares urbanísticos
 
@@ -14304,8 +12756,6 @@ SECCIÓN 1
 
 ESTÁNDARES URBANÍSTICOS PARA EL DESARROLLO DE VIVIENDA, EQUIPAMIENTOS Y ESPACIOS PÚBLICOS NECESARIOS PARA ARTICULAR LOS SISTEMAS DE MOVILIDAD CON LA ESTRUCTURA URBANA PROPUESTA EN LOS PLANES DE ORDENAMIENTO TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.1 — Articulación de los desarrollos de vivienda con los sistemas de movilidad
 
 Se podrán adoptar los siguientes estándares para el desarrollo de nuevos proyectos residenciales en zonas y predios urbanizables no urbanizados a los que se les haya asignado el tratamiento urbanístico de desarrollo en suelo urbano o de expansión urbana:
@@ -14316,15 +12766,11 @@ Se podrán adoptar los siguientes estándares para el desarrollo de nuevos proye
 
 (Decreto 798 de 2010, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.2 — Articulación del espacio público con los sistemas de movilidad
 
 Los parques, zonas verdes y plazas públicas que se desarrollen en zonas y predios urbanizables no urbanizados a los que se les haya asignado el tratamiento urbanístico de desarrollo en suelo urbano o de expansión urbana, se podrán delimitar por vías públicas peatonales o vehiculares, garantizando la continuidad de la franja de circulación peatonal. Las dimensiones mínimas del andén y de la franja de circulación peatonal serán las establecidas en el artículo 2.2.3.5.2.2 del presente decreto.
 
 (Decreto 798 de 2010, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.3 — Articulación de las áreas destinadas a equipamientos con los sistemas de movilidad
 
@@ -14340,8 +12786,6 @@ SECCIÓN 2.
 
 CONDICIONES MÍNIMAS DE LOS PERFILES VIALES AL INTERIOR DEL PERÍMETRO
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.1 — Elementos de los perfiles viales
 
 En la planificación, diseño, construcción y/o adaptación de las vías del perímetro urbano los municipios o distritos podrán establecer que los perfiles viales vehiculares se conformen cómo mínimo por el andén y la calzada. Adicionalmente podrán contener los componentes del perfil vial señalados en el numeral 2.1 artículo 2.2.3.1.5 del presente decreto, según lo establecido en el plan de ordenamiento territorial y en las normas que regulen la materia.
@@ -14351,8 +12795,6 @@ La vía de circulación peatonal se podrá conformar cómo mínimo por la franja
 PARÁGRAFO . Los elementos del perfil de los pasos urbanos se sujetarán a las reglamentaciones que sobre fajas de retiro expida el Gobierno Nacional, según lo dispuesto por la Ley 1228 de 2008.
 
 (Decreto 798 de 2010, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2 — Estándares para los andenes
 
@@ -14370,8 +12812,6 @@ Se podrán adoptar los siguientes estándares para la planificación, diseño, c
 
 (Decreto 798 de 2010, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.3 — Estándares para las ciclorrutas
 
 Para garantizar la seguridad, comodidad y maniobrabilidad de los usuarios de las ciclorrutas, se podrán adoptar los siguientes estándares para la planificación, diseño, construcción y/o adaptación de las ciclorrutas en el perímetro urbano de los municipios o distritos:
@@ -14385,8 +12825,6 @@ Para garantizar la seguridad, comodidad y maniobrabilidad de los usuarios de las
 4. Se debe mantener la continuidad en las ciclorrutas mediante la instalación de elementos necesarios que superen los cambios de nivel.
 
 (Decreto 798 de 2010, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.4 — Estándares para el carril
 
@@ -14404,8 +12842,6 @@ Se podrán adoptar los siguientes estándares para la planificación, diseño, c
 
 (Decreto 798 de 2010, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.5 — Estándares para los cruces peatonales a desnivel
 
 Se podrán adoptar los siguientes estándares para la planificación, diseño, construcción y/o adaptación de los cruces peatonales a desnivel, de las vías del perímetro urbano de los municipios o distritos:
@@ -14417,8 +12853,6 @@ Se podrán adoptar los siguientes estándares para la planificación, diseño, c
 3. El Gálibo para puentes peatonales sobre vías férreas tendrá una altura mínima de 5.50 metros.
 
 (Decreto 798 de 2010, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.6 — Construcción del perfil vial
 
@@ -14432,8 +12866,6 @@ CAPÍTULO 1.
 
 PLANES PARCIALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — 1.1
 
 Las disposiciones contenidas en el presente Capítulo reglamentan, de manera general, el procedimiento para la formulación y adopción de todo tipo de planes parciales y, de manera especial, el contenido de los planes parciales para las áreas sujetas a tratamiento de desarrollo dentro del perímetro urbano y las áreas comprendidas en el suelo de expansión urbana para su incorporación al perímetro urbano, en concordancia con las determinaciones de los planes de ordenamiento territorial y los instrumentos que lo desarrollen o complementen.
@@ -14446,15 +12878,11 @@ SECCIÓN 1.
 
 FORMULACIÓN Y ADOPCIÓN DE PLANES PARCIALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.1 — Iniciativa de los planes parciales
 
 Los proyectos de planes parciales serán elaborados por las autoridades municipales o distritales de planeación, por las comunidades o por los particulares interesados, de acuerdo con los parámetros que al respecto determine el plan de ordenamiento territorial.
 
 (Decreto 2181 de 2006, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.2 — Etapas para la formulación y adopción de los planes parciales
 
@@ -14467,8 +12895,6 @@ Para la formulación y adopción de los planes parciales se seguirá la siguient
 3. Etapa de adopción.
 
 (Decreto 2181 de 2006, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.3 — Determinantes para la formulación
 
@@ -14490,8 +12916,6 @@ PARÁGRAFO . De conformidad con lo dispuesto en el artículo 37 de la Ley 388 de
 
 (Decreto 2181 de 2006, artículo 5, subrogado por el Decreto 4300 de 2007, artículo 2, modificado por. Decreto 1478 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4 — Coordinación interinstitucional
 
 La autoridad de planeación municipal o distrital, dentro de los cinco (5) días hábiles siguientes a la radicación de la solicitud de determinantes para la elaboración del plan parcial, deberá solicitar el pronunciamiento de las autoridades ambientales, con base en los cuáles se adelantará la concertación del proyecto de plan parcial. Dentro del mismo término podrá solicitar a las empresas de servicios públicos domiciliarios, a las demás dependencias y entidades municipales o distritales que tengan incidencia o responsabilidad en el desarrollo del plan parcial, la información y conceptos relacionados y necesarios para dar respuesta a la solicitud de determinantes.
@@ -14501,8 +12925,6 @@ Las autoridades, dependencias y entidades a que se refiere el inciso anterior, d
 Recibida la totalidad de la información y los conceptos requeridos a que se refiere el inciso anterior, la autoridad de planeación municipal o distrital, dispondrá de un término de quince (15) días para dar respuesta a la solicitud de determinantes para la formulación del respectivo plan parcial, sin perjuicio de la responsabilidad administrativa para los funcionarios que incumplan con los términos previstos en el presente artículo.
 
 (Decreto 2181 de 2006, artículo 5ª, adicionado por Decreto 4300 de 2007, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.5 — Respuesta a la solicitud de determinantes
 
@@ -14522,8 +12944,6 @@ PARÁGRAFO . El concepto sobre las determinantes del plan parcial emitido por la
 
 (Decreto 2181 de 2006, artículo 6, modificado por Decreto 1478 de 2013, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.6 — Determinantes ambientales para la formulación del plan parcial
 
 De conformidad con lo dispuesto en el artículo 80 de la Ley 1151 de 2007, La autoridad de planeación municipal o distrital deberá solicitar el pronunciamiento de las autoridades ambientales competentes sobre las siguientes determinantes ambientales, con base en las cuáles se adelantará la concertación ambiental:
@@ -14539,8 +12959,6 @@ De conformidad con lo dispuesto en el artículo 80 de la Ley 1151 de 2007, La au
 PARÁGRAFO . El interesado podrá aportar los estudios y documentos que resulten necesarios para sustentar la formulación del proyecto de plan parcial en relación con las determinantes ambientales de que trata este artículo.
 
 (Decreto 2181 de 2006, artículo 5B, modificado por Decreto 4300 de 2007, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.7 — Formulación y radicación del proyecto de plan parcial
 
@@ -14596,8 +13014,6 @@ Los proyectos de planes parciales se radicarán en la oficina de planeación mun
 
 (Decreto 2181 de 2006, artículo 7, modificado por Decreto 1478 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.8 — Información pública, citación a propietarios y vecinos
 
 Radicado el proyecto de plan parcial, la oficina de planeación municipal o distrital o la entidad que haga sus veces convocará a los propietarios y vecinos colindantes en los términos del Capítulo V del Título III de la Parte Primera del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, para que conozcan la propuesta y expresen sus recomendaciones y observaciones.
@@ -14605,8 +13021,6 @@ Radicado el proyecto de plan parcial, la oficina de planeación municipal o dist
 La respuesta a las recomendaciones y observaciones se realizará en el acto que resuelva sobre la viabilidad de la propuesta de plan parcial.
 
 (Decreto 2181 de 2006, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.9 — Revisión del proyecto de plan parcial
 
@@ -14630,8 +13044,6 @@ SECCIÓN 2.
 
 ETAPA DE CONCERTACIÓN Y CONSULTA
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.1 — Planes parciales objeto de concertación con la autoridad ambiental
 
 Serán objeto de concertación con la autoridad ambiental respectiva los planes parciales que presenten alguna de las siguientes situaciones:
@@ -14646,8 +13058,6 @@ Serán objeto de concertación con la autoridad ambiental respectiva los planes 
 
 (Decreto 2181 de 2006, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2 — Concertación con la autoridad ambiental y documentos requeridos para ello
 
 Expedido el concepto de viabilidad por parte de la oficina de planeación municipal o distrital o la dependencia que haga sus veces, ésta lo someterá a consideración de la autoridad ambiental correspondiente, a efectos de que conjuntamente con el municipio o distrito adelanten la concertación de los asuntos exclusivamente ambientales, si esta se requiere de acuerdo con lo dispuesto en el artículo anterior. El proyecto de plan parcial se radicará con los documentos de que tratan los numerales 1, 2 y 5 del artículo 2.2.4.1.1.7 del presente decreto, ante la autoridad ambiental de conformidad con los términos en que se expidió el concepto de viabilidad.
@@ -14661,8 +13071,6 @@ PARÁGRAFO 1 . La concertación culminará con una acto administrativo, que har�
 PARÁGRAFO 2. Cuando se trate de un proyecto de plan parcial que sea de iniciativa de particulares o mixta con las autoridades municipales o distritales de planeación, el interesado podrá aportar información adicional o presentar las sustentaciones requeridas, cuando en el marco de la concertación ambiental, las partes así lo requieran.
 
 (Parágrafo 2, adicionado por el Art. 3 del Decreto 1232 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.3 — Términos para la concertación con la autoridad ambiental
 
@@ -14684,8 +13092,6 @@ SECCIÓN 3.
 
 ETAPA DE ADOPCIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.1.3.1 — Expedición del decreto de adopción del plan parcial
 
 Una vez surtidas las etapas previstas en los artículos precedentes y dentro de los quince (15) días hábiles siguientes a la aprobación del proyecto de plan parcial, mediante acto administrativo expreso o ficto o la concertación ambiental, cuando sea el caso, de acuerdo con lo previsto en el artículo 2.2.4.1.2.1 del presente decreto, el alcalde municipal o distrital lo adoptará mediante decreto.
@@ -14697,8 +13103,6 @@ PARÁGRAFO . El ajuste de planes parciales, en caso de requerirse, se efectuará
 SECCIÓN 4.
 
 CONTENIDO DE LOS PLANES PARCIALES PARA LAS ÁREAS SUJETAS A TRATAMIENTO DE DESARROLLO DENTRO DEL PERÍMETRO URBANO Y LAS ÁREAS COMPRENDIDAS EN EL SUELO DE EXPANSIÓN
-
-ARTÍCULO
 
 ## art:2.2.4.1.4.1 — Contenido
 
@@ -14744,8 +13148,6 @@ PARÁGRAFO . La información planimétrica y cartográfica se presentará debida
 
 (Decreto 2181 de 2006, artículo 24)
 
-ARTÍCULO
-
 ## art:2.2.4.1.4.2 — Planteamiento urbanístico del plan parcial
 
 El planteamiento urbanístico del plan parcial definirá y delimitará las áreas de dominio público, o reservadas o afectadas al uso o servicio público de que trata el numeral 6 del artículo anterior.
@@ -14767,8 +13169,6 @@ El planteamiento urbanístico del plan parcial deberá contemplar las condicione
 PARÁGRAFO . Las determinaciones de los planes parciales no podrán imponer condiciones asociadas a las características estéticas de las edificaciones ni exigir detalles constructivos del espacio público, equipamientos o edificaciones, salvo cuando se trate de intervenciones en bienes de interés cultural del orden municipal o distrital.
 
 (Decreto 2181 de 2006, artículo 25).
-
-ARTÍCULO
 
 ## art:2.2.4.1.4.3 — Delimitación del área de planificación del plan parcial
 
@@ -14792,8 +13192,6 @@ SECCIÓN 5.
 
 CARGAS Y BENEFICIOS
 
-ARTÍCULO
-
 ## art:2.2.4.1.5.1 — Cargas locales de la urbanización
 
 Las cargas locales de la urbanización que serán objeto de reparto entre los propietarios de inmuebles de las unidades de actuación urbanística del plan parcial, incluirán entre otros componentes las cesiones y la realización de obras públicas correspondientes a redes secundarias y de servicios públicos domiciliarios de acueducto, alcantarillado, energía y teléfonos, así cómo las cesiones para parques y zonas verdes, vías vehiculares y peatonales y para la dotación de los equipamientos comunitarios.
@@ -14814,7 +13212,7 @@ PARÁGRAFO 2. En observancia de lo dispuesto en el artículo 38 de la Ley 388 de
 
 (Decreto 2181 de 2006, artículo 27)
 
-ARTÍCULO
+## art:2.2.4.1.5.2 — 
 
 . 2.2.4.1.5.2 Las cargas correspondientes al costo de la infraestructura vial principal y redes matrices de servicios públicos se distribuirán entre los propietarios de toda el área beneficiaria de las mismas y deberán ser recuperados mediante tarifas, contribución de valorización, participación en plusvalía, impuesto predial, o cualquier otro sistema que garantice el reparto equitativo de las cargas y beneficios de las actuaciones y que cumpla con lo dispuesto en el artículo 338 de la Constitución Política. En todo caso, serán a cargo de sus propietarios las cesiones gratuitas y los gastos de urbanización previstos en el artículo anterior.
 
@@ -14832,8 +13230,6 @@ SUBSECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.6.1.1 — Unidad de actuación urbanística
 
 Es el área conformada por uno o varios inmuebles explícitamente delimitada en las normas que desarrolla el plan de ordenamiento territorial que debe ser urbanizada o construida cómo una unidad de planeamiento con el objeto de promover el uso racional del suelo, garantizar el cumplimiento de las normas urbanísticas y facilitar la dotación con cargo a sus propietarios de la infraestructura de transporte, los servicios públicos domiciliarios y los equipamientos colectivos, mediante reparto equitativo de las cargas y beneficios, conforme con lo previsto en el Capítulo V de la Ley 388 de 1997.
@@ -14844,8 +13240,6 @@ PARÁGRAFO . Los planes de ordenamiento territorial y los planes parciales podr�
 
 (Decreto 2181 de 2006, artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.4.1.6.1.2 — Unidades de gestión
 
 No obstante lo dispuesto en el artículo anterior, los propietarios de la totalidad de los predios incluidos en el proyecto de delimitación de una unidad de actuación urbanística, según lo definido en el respectivo plan parcial, podrán solicitar una única licencia de urbanización o contar con la aprobación de un único proyecto urbanístico general en los términos del artículo 2.2.6.1.2.4.2 del presente decreto , para ejecutar las obras de urbanización de los predios que conforman el proyecto de delimitación de la unidad, siempre y cuando garanticen el reparto equitativo de las cargas y beneficios asignados a la respectiva unidad por el plan parcial. En este caso el área objeto de la operación se denominará unidad de gestión. De no obtenerse una única licencia de urbanización, deberá iniciarse el trámite de delimitación de la respectiva unidad de actuación urbanística, en los términos de que trata el artículo 42 de la Ley 388 de 1997 y la siguiente Subsección.
@@ -14855,8 +13249,6 @@ No obstante lo dispuesto en el artículo anterior, los propietarios de la totali
 SUBSECCIÓN 2.
 
 DELIMITACIÓN DE UNIDADES DE ACTUACIÓN URBANÍSTICA DEL PLAN PARCIAL
-
-ARTÍCULO
 
 ## art:2.2.4.1.6.2.1 — Procedimiento para la delimitación de las unidades de actuación urbanística
 
@@ -14880,8 +13272,6 @@ El proyecto de delimitación de la unidad de actuación urbanística será prese
 
 (Decreto 2181 de 2006, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.4.1.6.2.2 — Citación a titulares de derechos reales
 
 La oficina de planeación municipal o distrital o la dependencia que haga sus veces pondrá el proyecto de delimitación en conocimiento de los titulares de derechos reales sobre la superficie de la unidad de actuación propuesta y de sus vecinos colindantes. La oficina de planeación municipal o distrital o la dependencia que haga sus veces los citará, dentro de los cinco (5) días siguientes a la radicación de la propuesta de delimitación, para que formulen sus objeciones u observaciones. Para ello, los titulares de derechos reales y los vecinos colindantes contarán con un término de treinta (30) días contados a partir del recibo de la citación.
@@ -14889,8 +13279,6 @@ La oficina de planeación municipal o distrital o la dependencia que haga sus ve
 La oficina de planeación dispondrá de un término máximo de quince (15) días contados a partir del vencimiento del término anterior, para pronunciarse sobre las objeciones y definir las modificaciones a que hubiere lugar y someter el proyecto de delimitación en consideración del alcalde municipal o distrital para su aprobación.
 
 (Decreto 2181 de 2006, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.4.1.6.2.3 — Aprobación
 
@@ -14901,8 +13289,6 @@ Transcurrido este plazo sin que se hubiere notificado la decisión correspondien
 Contra el acto que resuelva la solicitud de delimitación procede el recurso de reposición ante el alcalde municipal o distrital en los términos previstos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 2181 de 2006, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.4.1.6.2.4 — Contenido del acto de delimitación
 
@@ -14928,8 +13314,6 @@ SECCIÓN 7.
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.7.1 — Licencias de intervención y ocupación del espacio público
 
 Expedido el decreto que adopte el plan parcial por parte del alcalde municipal o distrital, no se requerirá licencia de intervención u ocupación del espacio público para ejecutar las obras que se encuentren previstas en el respectivo plan parcial.
@@ -14937,8 +13321,6 @@ Expedido el decreto que adopte el plan parcial por parte del alcalde municipal o
 Tampoco se requerirá licencia de intervención u ocupación del espacio público para ejecutar las obras que permitan conectar las vías aprobadas en la licencia de urbanización con las demás vías o espacios públicos existentes de propiedad del correspondiente municipio o distrito.
 
 (Decreto 2181 de 2006, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.4.1.7.2 — Incorporación al perímetro urbano
 
@@ -14950,8 +13332,6 @@ PARÁGRAFO . De manera excepcional y únicamente para efectos catastrales, los p
 
 (Decreto 2181 de 2006, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.4.1.7.3 — Régimen de transición
 
 Las disposiciones contenidas en el presente decreto se aplicarán teniendo en cuenta el siguiente régimen de transición:
@@ -14962,15 +13342,11 @@ Los proyectos de planes parciales que al 5 de julio de 2006 cuenten con el conce
 
 (Decreto 2181 de 2006, artículo 32.)
 
-ARTÍCULO
-
 ## art:2.2.4.1.7.4 — Régimen de transición
 
 Los proyectos de planes parciales que hubieren sido radicados antes del 7 de noviembre de 2007, continuarán su trámite de adopción de acuerdo con las disposiciones vigentes al momento de su radicación, salvo que el interesado manifieste su interés de acogerse al nuevo procedimiento.
 
 (Decreto 4300 de 2007, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.4.1.7.5 — Cartografía oficial del plan parcial
 
@@ -14980,15 +13356,11 @@ En este caso, el trámite de licencias de urbanización no requerirá de actuali
 
 (Decreto 4300 de 2007, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.1.7.6 — Asignación de nomenclatura urbana en suelo de expansión
 
 Una vez adoptado el plan parcial para el desarrollo de predios localizados en suelo de expansión urbana, las autoridades municipales y distritales competentes podrán asignar la nomenclatura urbana a dichos predios, así sea en forma provisional, con la correspondiente solicitud de licencia urbanística.
 
 (Decreto 4300 de 2007, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.4.1.7.7 — Adecuación de las normas urbanísticas
 
@@ -15010,8 +13382,6 @@ SUBSECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1.1 — Macroproyectos de interés social nacional
 
 Los Macroproyectos de Interés Social Nacional son el conjunto de decisiones administrativas y actuaciones urbanísticas adoptadas por el Gobierno Nacional, en los que se vinculan instrumentos de planeación, financiación y gestión del suelo para ejecutar una operación de gran escala que contribuya al desarrollo territorial de determinados municipios, distritos, áreas metropolitanas o regiones del país.
@@ -15026,8 +13396,6 @@ PARÁGRAFO 2. Siempre que en esta sección se mencionen los Macroproyectos, se e
 
 (Decreto 4260 de 2007, artículo 1; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1.2 — Objetivo
 
 Los Macroproyectos deberán promover el diseño y ejecución de proyectos integrales que contemplen la habilitación de suelo para vivienda de interés social, la provisión de servicios públicos domiciliarios, redes viales de integración urbana, zonal y local, espacios públicos y equipamientos colectivos; desarrollando asentamientos urbanos con altos parámetros de calidad urbanística y ambiental.
@@ -15036,8 +13404,6 @@ Así mismo, los Macroproyectos deberán promover el ordenamiento territorial, la
 
 (Decreto 4260 de 2007, artículo 2; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1.3 — Determinantes
 
 De conformidad con lo previsto en el artículo 79 de la Ley 1151 de 2007, los Macroproyectos son determinantes que se constituyen en normas de superior jerarquía en los términos del artículo 10 de la Ley 388 de 1997, y se entenderán incorporados en los Planes de Ordenamiento Territorial de los municipios y distritos, así cómo en las directrices de ordenamiento de las áreas metropolitanas.
@@ -15045,8 +13411,6 @@ De conformidad con lo previsto en el artículo 79 de la Ley 1151 de 2007, los Ma
 En los procesos de revisión y ajuste de los Planes de Ordenamiento Territorial los municipios y distritos deberán dar estricto cumplimiento a las disposiciones contenidas en los respectivos Macroproyectos.
 
 (Decreto 4260 de 2007, artículo 3; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.1.4 — Etapas de los Macroproyectos
 
@@ -15066,8 +13430,6 @@ SUBSECCIÓN 2
 
 IDENTIFICACIÓN Y DETERMINACIÓN DE LOS MACROPROYECTOS
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.2.1 — Identificación y determinación de los Macroproyectos
 
 Para identificar y determinar un macroproyecto, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial deberá tener en cuenta los siguientes criterios:
@@ -15079,8 +13441,6 @@ Para identificar y determinar un macroproyecto, el Ministerio de Ambiente, Vivie
 3. El impacto territorial de la intervención.
 
 (Decreto 4260 de 2007, artículo 5; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.2.2 — Documento técnico de soporte
 
@@ -15100,8 +13460,6 @@ Con el fin de establecer si un Macroproyecto cumple con los criterios establecid
 
 (Decreto 4260 de 2007, artículo 6; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.2.3 — Macroproyectos sugeridos por entidades territoriales, áreas metropolitanas y/o por particulares
 
 Las entidades territoriales, áreas metropolitanas y/o particulares podrán sugerir al Ministerio Ambiente, Vivienda y Desarrollo Territorial que se identifiquen o determinen Macroproyectos. Dicha solicitud deberá acreditar los requisitos de que trata el artículo anterior y anexar los siguientes documentos:
@@ -15115,8 +13473,6 @@ Las entidades territoriales, áreas metropolitanas y/o particulares podrán suge
 El Ministerio Ambiente, Vivienda y Desarrollo Territorial evaluará el documento presentado, para lo cuál contará con un término de sesenta (60) días hábiles contados a partir de su radicación, y comunicará la viabilidad de identificar y determinar el Macroproyecto sugerido, la cuál no generará obligación de formular o adoptar dicho Macroproyecto.
 
 (Decreto 4260 de 2007, artículo 7; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.2.4 — Anuncio de los Macroproyectos
 
@@ -15141,8 +13497,6 @@ PARÁGRAFO 2. El anuncio de que trata este artículo no generará obligación de
 SUBSECCIÓN 3.
 
 FORMULACIÓN DE LOS MACROPROYECTOS
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.3.1 — Formulación de los Macroproyectos
 
@@ -15184,8 +13538,6 @@ PARÁGRAFO . La estructuración financiera de cada macroproyecto deberá contemp
 
 (Decreto 4260 de 2007, artículo 9; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.3.2 — 
 
 2.2.4.2.1.3.2 Estudios para la formulación de macroproyectos de interés social nacional sugeridos por entidades territoriales, áreas metropolitanas o particulares. Las entidades territoriales, áreas metropolitanas o particulares podrán presentar los estudios ambientales, técnicos y financieros correspondientes y los demás requisitos y documentos con base en los cuáles el Ministerio podrá adelantar la formulación del Macroproyecto de acuerdo con lo establecido en el artículo anterior.
@@ -15200,8 +13552,6 @@ PARÁGRAFO . El Ministerio de Ambiente, Vivienda y Desarrollo Territorial, media
 
 (Decreto 3671 de 2009, artículo 6; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.3.3 — Aviso a los municipios y distritos
 
 Formulado el Macroproyecto, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial dará aviso mediante comunicación escrita a los representantes legales de los municipios y/o distritos en cuya jurisdicción se ejecutará el Macroproyecto, con el propósito de que las acciones urbanísticas que pretendan desarrollar estas entidades territoriales en las áreas que hagan parte del Macroproyecto sean concertadas con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial.
@@ -15215,8 +13565,6 @@ Si dentro del plazo establecido, el Ministerio no hubiere recibido propuestas u 
 SUBSECCIÓN 4.
 
 ADOPCIÓN DE MACROPROYECTOS
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.4.1 — Adopción de los Macroproyectos
 
@@ -15238,8 +13586,6 @@ SUBSECCIÓN 5.
 
 EJECUCIÓN DE MACROPROYECTOS
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.5.1 — Licencias urbanísticas para la ejecución de Macroproyectos
 
 Las licencias urbanísticas para el macroproyecto se otorgarán con sujeción a las normas urbanísticas adoptadas en este. Dichas normas serán de obligatorio cumplimiento por parte de quién tenga la competencia para expedir las licencias urbanísticas. El Ministerio de Ambiente, Vivienda y Desarrollo Territorial por solicitud de la autoridad competente para expedir licencias urbanísticas, se pronunciará sobre las contradicciones y vacíos que se presenten en la interpretación de las normas contenidas en los decretos de adopción de los Macroproyectos.
@@ -15254,8 +13600,6 @@ PARÁGRAFO 2. Además de lo dispuesto en el Título 6 de la Parte 2 del presente
 
 (Decreto 4260 de 2007, artículo 13; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.5.2 — Ejecución de los Macroproyectos
 
 La ejecución de los Macroproyectos estará a cargo del Fondo Nacional de Vivienda, FONVIVIENDA, y/o de las entidades territoriales. Las áreas metropolitanas y/o los particulares podrán participar en la ejecución de los Macroproyectos, en los términos que se disponga en el acto administrativo que lo adopte.
@@ -15265,8 +13609,6 @@ De acuerdo con lo determinado en el artículo 12 del Decreto-ley 555 de 2003, as
 PARÁGRAFO . Para garantizar la transparencia y eficiencia en la administración y ejecución de los recursos de Fonvivienda, estos serán manejados a través de cuentas separadas.
 
 (Decreto 4260 de 2007, artículo 14; vigencia condicionada por Sentencia C- 149 de 2010 para MISN)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.5.3 — Esquemas de participación
 
@@ -15284,8 +13626,6 @@ SUBSUBSECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.6.1.1 — Requisitos para la ampliación de Macroproyectos de Interés Social Nacional adoptados
 
 Los Macroproyectos de Interés Social Nacional (MISN) que se encuentran adoptados a la entrada en vigencia del Decreto 4821 de 2010, en concordancia con lo previsto en el artículo 79 de la Ley 1151 de 2007 así cómo lo previsto en la presente sección, podrán ampliar su área de intervención siempre y cuando esta modificación esté dirigida a incorporar nuevos suelos urbanizables o proyectos de vivienda, y el 100% del área residencial se destine para: (i) Personas damnificadas por la situación de desastre, incluidas en los sistemas de información que para el efecto determine el Gobierno Nacional; o (ii) Personas ubicadas en zonas de alto riesgo no mitigable y que deban ser reubicadas, según lo determine la oficina competente del respetivo municipio o distrito. En este caso, sólo se permitirá el desarrollo de usos complementarios y compatibles a la actividad residencial.
@@ -15294,15 +13634,11 @@ El área de ampliación del respectivo MISN deberá estar ubicada en el mismo mu
 
 (Decreto 1490 de 2011, artículo 23; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.6.1.2 — Titulares de la iniciativa
 
 Además del Ministerio de Ambiente, Vivienda y Desarrollo Territorial podrán solicitar la ampliación de MISN la entidad territorial y/o el particular que hubieran sugerido el Macroproyecto que se encuentre adoptado.
 
 (Decreto 1490 de 2011, artículo 24; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.6.1.3 — Fases de la ampliación de MISN
 
@@ -15322,8 +13658,6 @@ SUBSUBSECCIÓN 2.
 
 PROCEDIMIENTO APLICABLE PARA LA AMPLIACIÓN DEL ÁREA DE MISN
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.6.2.1 — Identificación y determinación
 
 Para identificar y determinar la ampliación del área de un MISN, el interesado deberá presentar al Ministerio de Ambiente, Vivienda y Desarrollo Territorial toda la documentación e información contenida en el artículo 2.2.4.3.2.1 del presente decreto referida únicamente al área del MISN que se pretende ampliar.
@@ -15342,8 +13676,6 @@ El Instituto Geográfico Agustín Codazzi (IGAC), la entidad que cumpla sus func
 
 (Decreto 1490 de 2011, artículo 26; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.6.2.2 — Formulación
 
 Una vez expedido el acto administrativo de anuncio y cuando la iniciativa de ampliación sea del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, éste elaborará el proyecto de ampliación del área del MISN y el documento técnico de soporte en los términos previstos en el artículo 2.2.4.3.4.1.3 del presente decreto, con el fin de someterlo al correspondiente análisis de viabilidad técnico, financiero y jurídico.
@@ -15354,8 +13686,6 @@ El Ministerio de Ambiente, Vivienda y Desarrollo Territorial o la entidad que es
 
 (Decreto 1490 de 2011, artículo 27; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.6.2.3 — Aviso a los municipios y distritos
 
 Formulado el proyecto de ampliación de MISN, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial dará aviso mediante comunicación escrita al representante legal del municipio y/o distrito en cuya jurisdicción se ejecutará el macroproyecto, con el propósito de que las acciones urbanísticas que pretendan desarrollar estas entidades territoriales en las áreas que hagan parte del macroproyecto sean concertadas con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial.
@@ -15365,8 +13695,6 @@ Los Alcaldes de los distritos en los cuáles se vaya a ejecutar la ampliación d
 Si dentro del plazo establecido, el Ministerio no hubiere recibido propuestas u observaciones, podrá adoptar la ampliación del MISN. Las observaciones que presenten los municipios y distritos se resolverán en el acto administrativo de adopción.
 
 (Decreto 1490 de 2011, artículo 28; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.6.2.4 — Adopción
 
@@ -15394,8 +13722,6 @@ SUBSECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1.1 — Macroproyectos de Interés Social Nacional
 
 Son el conjunto de decisiones administrativas y de actuaciones urbanísticas, definidas de común acuerdo entre el Gobierno Nacional y las administraciones municipales y distritales en el ámbito de sus respectivas competencias, para la ejecución de operaciones urbanas integrales de impacto municipal, metropolitano o regional que garanticen la habilitación de suelo para la construcción de vivienda y otros usos asociados a la vivienda y la correspondiente infraestructura de soporte para el sistema vial, de transporte, de servicios públicos, espacios públicos y equipamientos colectivos.
@@ -15406,15 +13732,11 @@ PARÁGRAFO . Siempre que en el presente decreto se mencionen los 'MISN' o los 'M
 
 (Decreto 1310 de 2012, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1.2 — Ámbito de aplicación
 
 Las disposiciones de esta sección se aplican al trámite de adopción de los Macroproyectos que tengan por objeto la habilitación de suelo para la construcción de vivienda y otros usos asociados a la misma, en áreas que en virtud de las disposiciones del respectivo Macroproyecto se sometan a tratamientos urbanísticos de desarrollo y de renovación urbana en la modalidad de redesarrollo.
 
 (Decreto 1310 de 2012, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.1.3 — Categorías de Macroproyectos
 
@@ -15425,8 +13747,6 @@ Los MISN serán adoptados por el Ministerio de Vivienda, Ciudad y Territorio y s
 2. Macroproyectos Categoría 2. La definición, además de lo previsto en el numeral anterior, de las posibles modificaciones de las normas urbanísticas previstas en el plan de ordenamiento territorial vigente, cuando ello resulte necesario para asegurar la viabilidad de la operación urbana que se adopta con el Macroproyecto. En estos casos, la adopción del Macroproyecto implicará la aprobación previa del concejo municipal o distrital de la modificación de dichas normas, sobre la base de un convenio entre el Ministerio de Vivienda, Ciudad y Territorio y el alcalde del respectivo municipio o distrito acerca de la oportunidad, conveniencia y posibilidad de la nueva solución de ordenamiento.
 
 (Decreto 1310 de 2012, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.1.4 — Titulares de la iniciativa
 
@@ -15439,8 +13759,6 @@ PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio podrá mediante reso
 SUBSECCIÓN 2.
 
 CONDICIONES GENERALES DE LOS MACROPROYECTOS
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.2.1 — Focalización e impacto de los Macroproyectos
 
@@ -15457,8 +13775,6 @@ PARÁGRAFO . Sin perjuicio de lo dispuesto en el presente artículo, el Minister
 (Modificado por el Art. 1 del Decreto 262 de 2022)
 
 Norma Anterior
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.2.2 — Dimensión de los Macroproyectos y porcentajes mínimos y máximos de las áreas destinadas a VIP y VIS
 
@@ -15536,8 +13852,6 @@ SUBSECCIÓN 3.
 
 PROCEDIMIENTO
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.1 — Fases de los Macroproyectos
 
 El procedimiento general de anuncio, formulación, concertación y adopción de Macroproyectos comprende las siguientes fases:
@@ -15558,8 +13872,6 @@ El procedimiento general de anuncio, formulación, concertación y adopción de 
 
 (Decreto 1310 de 2012, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2 — Modificación de los Macroproyectos
 
 La modificación de los Macroproyectos será adoptada por el Ministerio de Vivienda, Ciudad y Territorio siguiendo el mismo trámite previsto en la Ley 1469 de 2011 para su adopción, teniendo en cuenta únicamente las instancias o dependencias a cuyo cargo se encuentren los asuntos objeto de la modificación necesaria para el desarrollo del respectivo MISN. La propuesta de modificación deberá contener el documento técnico de soporte que justifique la respectiva modificación y garantizar el cumplimiento de todos los requisitos previstos en la presente sección.
@@ -15571,8 +13883,6 @@ Cuando la modificación propuesta pretenda ampliar el área anunciada, se inicia
 SUBSUBSECCIÓN 1.
 
 ANUNCIO
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.1.1 — Análisis de Prefactibilidad
 
@@ -15597,8 +13907,6 @@ Los macroproyectos que puedan afectar reservas forestales protectoras atenderán
 (Modificado por el Art. 1 del Decreto 1784 de 2021)
 
 (Decreto 1310 de 2012, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.1.2 — Contenido del documento técnico de soporte para la fase prefactibilidad del Macroproyecto
 
@@ -15710,8 +14018,6 @@ El archivo de la propuesta de macroproyecto de vivienda de interés social nacio
 
 (Adicionado por el Art. 3 del Decreto 262 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.1.3 — Costos de elaboración y análisis de prefactibilidad
 
 Los costos de elaboración del documento técnico de soporte de prefactibilidad serán asumidos por cuenta exclusiva de quienes presenten el respectivo Macroproyecto.
@@ -15719,8 +14025,6 @@ Los costos de elaboración del documento técnico de soporte de prefactibilidad 
 Cuando la evaluación y análisis de prefactibilidad de la propuesta de MISN se adelante por parte de un tercero designado por el Ministerio de Vivienda, Ciudad y Territorio, los costos que se generen por concepto de dicha evaluación correrán por cuenta del promotor del MISN.
 
 (Decreto 1310 de 2012, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.1.4 — Anuncio de los Macroproyectos
 
@@ -15741,8 +14045,6 @@ El Documento Técnico de Soporte de Prefactibilidad, el plano de delimitación p
 PARÁGRAFO . Contra el acto administrativo que ordena el archivo de la iniciativa del Macroproyecto proceden los recursos de ley.
 
 (Decreto 1310 de 2012, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.1.5 — Efectos del acto administrativo de anuncio
 
@@ -15768,8 +14070,6 @@ NUMERAL 1.
 
 EVALUACIÓN TÉCNICA, FINANCIERA Y JURÍDICA
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.1.1 — Formulación del Macroproyecto
 
 Una vez el Ministerio de Vivienda, Ciudad y Territorio expida el acto administrativo de anuncio, se iniciará la fase de formulación de la propuesta de Macroproyecto con la elaboración del Documento Técnico de Soporte - DTS a que hace referencia el artículo siguiente, con el fin de someterlo al correspondiente análisis de viabilidad técnica, ambiental, financiera y jurídica.
@@ -15777,8 +14077,6 @@ Una vez el Ministerio de Vivienda, Ciudad y Territorio expida el acto administra
 Los interesados en adelantar el respectivo Macroproyecto deben presentar dentro de los ocho (8) meses siguientes a la publicación del acto administrativo de anuncio, la formulación de la propuesta de Macroproyecto con el Documento Técnico de Soporte. La presentación de esta iniciativa ante el Ministerio no genera ningún tipo de obligación para su adopción.
 
 (Decreto 1310 de 2012, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2.1.2 — Contenido del Documento Técnico de Soporte - DTS para la formulación del Macroproyecto
 
@@ -15908,8 +14206,6 @@ PARÁGRAFO 6. Si la información y/o documentos no son suficientes para el pronu
 
 (Decreto 1310 de 2012, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.1.3 — Evaluación de la propuesta del Macroproyecto
 
 Una vez radicada la propuesta de Macroproyecto, así cómo su Documento Técnico de Soporte por parte del interesado, previa verificación del cumplimiento de todos los requisitos contenidos en el artículo anterior, el Ministerio de Vivienda, Ciudad y Territorio o la entidad que este designe para el efecto, procederá a efectuar la evaluación técnica, financiera y jurídica del proyecto de Macroproyecto.
@@ -15928,8 +14224,6 @@ NUMERAL 2.
 
 PROCESO DE CONCERTACIÓN ENTRE EL MUNICIPIO O DISTRITO Y EL MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO PARA LOS MACROPROYECTOS CATEGORÍA 1.
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.2.1 — Concertación con el municipio o distrito
 
 Una vez la propuesta de Macroproyecto cuente con viabilidad técnica, ambiental, financiera y jurídica y el documento técnico de soporte incluya las observaciones efectuadas si a ello hubiere lugar, el Ministerio de Vivienda, Ciudad y Territorio iniciará el proceso de concertación con el alcalde municipal o distrital.
@@ -15944,8 +14238,6 @@ Una vez suscrito el respectivo Convenio entre el Ministerio de Vivienda, Ciudad 
 
 (Decreto 1310 de 2012, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.2.2 — Concertación ambiental
 
 Tratándose de MISN Categoría 1, solamente procederá la concertación ambiental que se adelante en el marco de la adopción del respectivo instrumento que desarrolla y complementa el plan de ordenamiento territorial, de acuerdo con lo establecido en el mismo plan y en las normas vigentes.
@@ -15953,8 +14245,6 @@ Tratándose de MISN Categoría 1, solamente procederá la concertación ambienta
 En todo caso, las normas ambientales son de orden público y en consecuencia no opera el silencio administrativo positivo.
 
 (Decreto 1310 de 2012, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2.2.3 — Participación democrática
 
@@ -15967,8 +14257,6 @@ En los Macroproyectos Categoría 1, la participación democrática se garantizar
 NUMERAL 3.
 
 PROCESO DE CONCERTACIÓN ENTRE EL MUNICIPIO O DISTRITO Y EL MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO PARA LOS MACROPROYECTOS CATEGORÍA 2.
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2.3.1 — Instancias de concertación y consulta ante el alcalde del municipio o distrito
 
@@ -15990,8 +14278,6 @@ PARÁGRAFO . Si la información y/o documentos no son suficientes para el pronun
 
 (Decreto 1310 de 2012, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.3.2 — Asuntos que se deben someter a concertación con la Corporación Autónoma Regional
 
 De conformidad con lo establecido en el artículo 8 de la Ley 1469 de 2011 la propuesta de ajuste especial del plan de ordenamiento territorial se presentará para concertación con la Corporación Autónoma Regional correspondiente cuando se requieran hacer modificaciones relacionadas con, entre otros, los siguientes asuntos:
@@ -16002,8 +14288,6 @@ De conformidad con lo establecido en el artículo 8 de la Ley 1469 de 2011 la pr
 
 (Decreto 1310 de 2012, artículo 21).
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.3.3 — Participación ciudadana
 
 Simultáneamente con los trámites de concertación y consulta a que hace referencia los artículos precedentes, la propuesta de Macroproyecto estará disponible durante todo el trámite de formulación en las instalaciones de la alcaldía del respectivo municipio o distrito para que cualquier interesado pueda consultar la información respectiva, para el efecto y en todo caso antes de presentar el proyecto de acuerdo al concejo municipal, el alcalde convocará una audiencia pública con el objeto de que los interesados presenten y expongan sus observaciones y recomendaciones.
@@ -16011,8 +14295,6 @@ Simultáneamente con los trámites de concertación y consulta a que hace refere
 Las recomendaciones y observaciones presentadas por los interesados serán resueltas por el alcalde del municipio, previa la adopción del respectivo proyecto, quién para el efecto podrá consultar al Ministerio de Vivienda, Ciudad y Territorio.
 
 (Decreto 1310 de 2012, artículo 22).
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2.3.4 — Concertación entre el municipio o distrito y el Ministerio de Vivienda, Ciudad y Territorio
 
@@ -16030,8 +14312,6 @@ NUMERAL 4.
 
 CONVENIO URBANÍSTICO
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.4.1 — Convenio urbanístico requerido para desarrollar Macroproyectos
 
 El convenio de que trata la Ley 1469 de 2011 es un acuerdo de voluntades que tiene por finalidad agilizar e impulsar el trámite de formulación, adopción y ejecución de los Macroproyectos. Su objeto versará sobre los mecanismos para asegurar que las operaciones urbanas y actuaciones urbanísticas eficaces y expeditas, de tal manera que permitan ejecutar de forma efectiva proyectos estratégicos de desarrollo urbano y territorial en beneficio del interés general.
@@ -16047,8 +14327,6 @@ Podrán suscribir el convenio todas las personas jurídicas o naturales que apoy
 3. Aceptar expresamente las consecuencias en caso de incumplimiento de los compromisos consagrados en el Convenio.
 
 (Decreto 1310 de 2012, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2.4.2 — Contenido del Convenio
 
@@ -16086,15 +14364,11 @@ PARÁGRAFO 2. El convenio urbanístico quedará sujeto a condición resolutoria 
 
 (Decreto 1310 de 2012, artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.2.4.3 — Incumplimiento de obligaciones contenidas en los Convenios
 
 Sin perjuicio de las sanciones establecidas en la ley, el incumplimiento de las obligaciones previstas en el convenio urbanístico a cargo de los particulares, entidades territoriales y demás actores que se vinculen al respectivo Macroproyecto de Interés Social Nacional, podrá dar lugar a la imposición de multas por parte del MVCT en la forma en que se disponga en el respectivo convenio. Adicionalmente, el incumplimiento definitivo de estas mismas obligaciones podrá servir de fundamento al Ministerio de Vivienda, Ciudad y Territorio para abstenerse de apoyar nuevas iniciativas presentadas por la parte incumplida.
 
 (Decreto 1310 de 2012, artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2.4.4 — Publicidad
 
@@ -16106,8 +14380,6 @@ SUBSUBSECCIÓN 3.
 
 AJUSTE ESPECIAL DEL PLAN DE ORDENAMIENTO TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.3.1 — Aprobación de los usos del suelo
 
 Culminados los trámites previstos en la Sub -Subsección anterior, el alcalde someterá a consideración del concejo municipal o distrital la propuesta de ajuste especial al plan de ordenamiento territorial, lo cuál se hará dentro de los diez (10) días siguientes a la suscripción del convenio.
@@ -16118,15 +14390,11 @@ Transcurridos treinta (30) días calendario desde la presentación de la propues
 
 (Decreto 1310 de 2012, artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.3.2 — Ajuste especial del plan de ordenamiento territorial
 
 La aprobación de usos del suelo para la adopción de los Macroproyectos de interés social nacional categoría II, implicará adelantar el procedimiento especial de ajuste, a iniciativa del alcalde, de los objetivos, directrices, políticas, estrategias, metas, programas, actuaciones o normas del plan de ordenamiento territorial, relacionadas con el área de planificación del MISN así cómo todas aquellas que sean necesarias para articular el respectivo MISN con los sistemas generales existentes o proyectados de acuerdo con el modelo de ocupación del municipio o distrito.
 
 (Decreto 1310 de 2012, artículo 29)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.3.3 — Documentos a presentar para el ajuste especial del plan de ordenamiento territorial
 
@@ -16188,8 +14456,6 @@ SUBSUBSECCIÓN 4.
 
 ADOPCIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.4.1 — Adopción del Macroproyecto
 
 Cumplidos los trámites señalados en las fases precedentes, el Ministerio de Vivienda, Ciudad y Territorio adoptará mediante resolución el respectivo Macroproyecto, así:
@@ -16199,8 +14465,6 @@ Cumplidos los trámites señalados en las fases precedentes, el Ministerio de Vi
 2. Adopción para Macroproyectos Categoría 2. Cumplidos los trámites señalados en los artículos precedentes, el Ministerio de Vivienda, Ciudad y Territorio podrá adoptar mediante resolución, dentro de los treinta (30) días hábiles siguientes a la aprobación del ajuste especial del plan de ordenamiento territorial por parte del Concejo Municipal o Distrital.
 
 (Decreto 1310 de 2012, artículo 31)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.4.2 — Acto Administrativo mediante el cuál se adopta el Macroproyecto
 
@@ -16230,8 +14494,6 @@ PARÁGRAFO . Una vez publicado en el Diario Oficial el acto administrativo por e
 
 (Decreto 1310 de 2012, artículo 32)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.4.3 — Efectos de la adopción
 
 La adopción de los Macroproyectos producirá los siguientes efectos:
@@ -16254,8 +14516,6 @@ SUBSUBSECCIÓN 5.
 
 EJECUCIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.5.1 — Ejecución
 
 Las entidades de orden nacional, departamental, municipal y distrital, y las áreas metropolitanas podrán participar en la ejecución de los Macroproyectos, mediante la celebración, entre otros, de contratos de fiducia mercantil con sujeción a las reglas generales y del derecho comercial, sin las limitaciones y restricciones previstas en el numeral 5 del artículo 32 de la Ley 80 de 1993 o en las normas que lo adicionen, modifiquen o sustituyan.
@@ -16266,15 +14526,11 @@ Fonvivienda podrá girar anticipadamente a los patrimonios autónomos las sumas 
 
 (Decreto 1310 de 2012, Artículo 34).
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.5.2 — Licencias urbanísticas para la ejecución de Macroproyecto
 
 La expedición de todas las licencias urbanísticas en sus distintas modalidades y la ejecución de las actuaciones previstas en el Macroproyecto se sujetarán a todo lo previsto en la resolución de adopción. Corresponderá a la autoridad municipal o distrital o a los curadores urbanos, según el caso, estudiar, tramitar y expedir la licencia de urbanización en aplicación y cumplimiento de las normas adoptadas en el respectivo Macroproyecto.
 
 (Decreto 1310 de 2012, artículo 35).
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.5.3 — Decisión sobre los asuntos ambientales
 
@@ -16290,8 +14546,6 @@ SECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1 — Proyectos Integrales de Desarrollo Urbano
 
 Constituyen el conjunto de decisiones administrativas y de actuaciones urbanísticas, definidas de común acuerdo con las autoridades de planeación de los municipios y distritos, necesarias para la ejecución de operaciones urbanas integrales que garanticen la habilitación de suelo urbanizable para la ejecución de los proyectos de construcción de vivienda y reubicación de asentamientos humanos para atender la emergencia económica, social y ecológica nacional.
@@ -16302,8 +14556,6 @@ PARÁGRAFO . Cuando los Proyectos Integrales de Desarrollo Urbano se localicen e
 
 (Decreto 1490 de 2011, artículo 1; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.2 — Objetivo
 
 El principal objetivo de los Proyectos Integrales de Desarrollo Urbano es garantizar la habilitación de suelo urbanizable para la ejecución de los proyectos de construcción de vivienda y reubicación de asentamientos humanos para atender la emergencia económica, social y ecológica nacional.
@@ -16311,8 +14563,6 @@ El principal objetivo de los Proyectos Integrales de Desarrollo Urbano es garant
 Los PIDU desarrollarán asentamientos urbanos con altos parámetros de calidad urbanística y ambiental y promover el ordenamiento territorial, el desarrollo y crecimiento equilibrado y equitativo de las ciudades y su articulación con los sistemas estructurantes de infraestructura de movilidad y de servicios públicos.
 
 (Decreto 1490 de 2011, artículo 2; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.3 — Ámbito de atención territorial de los PIDU
 
@@ -16330,8 +14580,6 @@ PARÁGRAFO 2. Cuando de conformidad con el artículo 19 de la Ley 136 de 1994 se
 
 (Decreto 1490 de 2011, artículo 3; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.4 — Categorías
 
 Los PIDU serán adoptados por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial y se diferenciarán, según tengan por objeto:
@@ -16343,8 +14591,6 @@ Los PIDU serán adoptados por el Ministerio de Ambiente, Vivienda y Desarrollo T
 En estos casos, la adopción del PIDU implicará la ratificación previa del concejo municipal o distrital de la modificación de dichas normas, sobre la base del convenio suscrito entre el Ministerio de Ambiente, Vivienda y Desarrollo Territorial y el Alcalde del respectivo municipio o distrito.
 
 (Decreto 1490 de 2011, artículo 4; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.5 — Fases de los PIDU
 
@@ -16360,8 +14606,6 @@ PARÁGRAFO . Para efectos de la modificación del PIDU, ésta se deberá adelant
 
 (Decreto 1490 de 2011, artículo 5; vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.6 — Titulares de la iniciativa
 
 Además del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, la iniciativa para presentar un PIDU podrá ser de las entidades territoriales o de particulares, directamente o mediante mecanismos de asociación público privado.
@@ -16373,8 +14617,6 @@ En todo caso, el área de planificación del respectivo PIDU deberá adelantarse
 SECCIÓN 2.
 
 PREFACTIBILIDAD
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.1 — Documentación requerida para adelantar la prefactibilidad de los PIDU
 
@@ -16393,8 +14635,6 @@ Para efectos de que el Ministerio de Ambiente, Vivienda y Desarrollo Territorial
 PARÁGRAFO . El Ministerio de Ambiente, Vivienda y Desarrollo Territorial mediante resolución podrá desarrollar los requisitos señalados en el presente artículo y señalar documentos complementarios para adelantar el estudio de prefactibilidad técnica de los PIDU.
 
 (Decreto 1490 de 2011, artículo 7, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.2 — Documentos adicionales para la presentación de los PIDU de iniciativa de entidades territoriales y particulares
 
@@ -16417,8 +14657,6 @@ PARÁGRAFO . Cuando la iniciativa del PIDU provenga de una entidad territorial o
 SECCIÓN 3.
 
 ANUNCIO
-
-ARTÍCULO
 
 ## art:2.2.4.3.3.1 — Anuncio de los PIDU
 
@@ -16450,8 +14688,6 @@ PARÁGRAFO 4. Para efectos del anuncio se tendrá en cuenta lo establecido en el
 
 (Decreto 1490 de 2011, artículo 9, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.3.2 — Requisitos para practicar los avalúos
 
 Los avalúos de referencia tienen por objeto determinar el precio del suelo antes del respectivo anuncio y deberán tener en cuenta la reglamentación urbanística vigente antes del anuncio y en ningún caso incorporarán las expectativas que pueda generar el PIDU.
@@ -16468,8 +14704,6 @@ SUBSECCIÓN 1.
 
 ASPECTOS GENERALES DE LA FORMULACIÓN DEL PIDU
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.1.1 — Formulación de los PIDU
 
 Una vez el Ministerio de Ambiente, Vivienda y Desarrollo Territorial hubiere expedido el acto administrativo de que trata el artículo 2.2.4.3.3.1 del presente decreto, se iniciará la fase de formulación el proyecto de PIDU con la elaboración del documento técnico de soporte (DTS) a que hace referencia el artículo 2.2.4.3.4.1.2 con el fin de someterlo al correspondiente análisis de viabilidad.
@@ -16477,8 +14711,6 @@ Una vez el Ministerio de Ambiente, Vivienda y Desarrollo Territorial hubiere exp
 Cuando la iniciativa del PIDU provenga de una entidad territorial o un particular, los interesados deberán presentar dentro de los seis (6) meses siguientes a la publicación del acto administrativo mediante el cuál se anuncia el respectivo PIDU, prorrogables a solicitud de parte, hasta por dos (2) meses, la formulación del proyecto de PIDU con el documento técnico de soporte. La presentación de esta iniciativa ante el Ministerio no genera ningún tipo de obligación para su adopción.
 
 (Decreto 1490 de 2011, artículo 11, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.1.2 — Documento técnico de soporte (DTS) para la formulación de los PIDU
 
@@ -16516,8 +14748,6 @@ PARÁGRAFO . El Ministerio de Ambiente, Vivienda y Desarrollo Territorial median
 
 (Decreto 1490 de 2011, artículo 12, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.1.3 — Análisis de viabilidad técnica, financiera y jurídica del proyecto de PIDU
 
 El Ministerio de Ambiente, Vivienda y Desarrollo Territorial o la entidad que este designe para el efecto, procederá a efectuar la evaluación técnica, financiera y jurídica del proyecto de PIDU.
@@ -16532,8 +14762,6 @@ SUBSECCIÓN 2.
 
 PROCESO DE CONCERTACIÓN CON EL MUNICIPIO O DISTRITO
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.2.1 — Concertación con el municipio o distrito
 
 Una vez el proyecto de PIDU cuente con viabilidad técnica, financiera y jurídica y el documento técnico de soporte incluya las observaciones efectuadas, si a ello hubiere lugar, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial iniciará el proceso de concertación con el alcalde municipal o distrital.
@@ -16543,8 +14771,6 @@ Para la concertación del proyecto se dispondrá de un término de quince (15) d
 En caso de que no se llegare a ningún acuerdo, después de transcurridos los plazos establecidos en el presente artículo, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial podrá someter nuevamente y por una sola vez el proyecto de PIDU a concertación con el respectivo alcalde municipal o distrital, después de incluir los ajustes que considere pertinentes. Si en esta segunda oportunidad, no hubiere concertación dentro de los cinco (5) días hábiles siguientes a la radicación de la solicitud, se entenderá negada y, por consiguiente, el Ministerio procederá a su archivo y los documentos serán devueltos al interesado.
 
 (Decreto 1490 de 2011, artículo 14, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.2.2 — Convenio entre el Ministerio de Ambiente, Vivienda y Desarrollo Territorial y el alcalde del municipio o distrito
 
@@ -16564,8 +14790,6 @@ PARÁGRAFO . Para los PIDU Categoría 1, una vez suscrito el respectivo Convenio
 
 (Decreto 1490 de 2011, artículo 15, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.2.3 — Participación democrática
 
 La participación democrática en los PIDU que las personas interesadas en la respectiva operación urbana integral puedan presentar observaciones y recomendaciones al proyecto de PIDU.
@@ -16582,8 +14806,6 @@ SUBSECCIÓN 3.
 
 TRÁMITES ADICIONALES PARA LOS PIDU CATEGORÍA 2
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.3.1 — Concertación con la autoridad ambiental
 
 Para los PIDU Categoría 2, una vez suscrito el Convenio de que trata el presente artículo y surtida la etapa de participación democrática prevista en el artículo anterior, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, o el interesado en el PIDU, contará con diez (10) días hábiles para ajustar el Proyecto de PIDU y su correspondiente documento técnico de soporte, de conformidad con los acuerdos que resultaren del proceso de concertación con el alcalde del municipio o distrito. Una vez ajustado el proyecto, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial lo someterá al proceso de concertación con la autoridad ambiental correspondiente, cuando considere que sea necesario definir la delimitación y reglamentación de las áreas de reserva y protección ambiental y demás condiciones para la protección y conservación de los recursos naturales y paisajísticos.
@@ -16593,8 +14815,6 @@ Una vez el Ministerio de Ambiente, Vivienda y Desarrollo Territorial radique el 
 Si la autoridad ambiental no se hubiere pronunciado definitivamente, mediante acto administrativo dentro de este término o si habiéndose pronunciado no se lograra la concertación, le corresponderá al Ministerio de Ambiente, Vivienda y Desarrollo Territorial definir dichos asuntos ambientales, para lo que dispondrá de un término improrrogable de quince (15) días hábiles contados a partir del vencimiento del plazo anteriormente señalado.
 
 (Decreto 1490 de 2011, artículo 17, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.3.2 — Aprobación de los usos del suelo
 
@@ -16614,8 +14834,6 @@ SUBSECCIÓN 4.
 
 ADOPCIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.4.1 — Adopción del PIDU
 
 Cumplidos los trámites señalados en las fases precedentes, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial adoptará mediante resolución el respectivo PIDU, así:
@@ -16625,8 +14843,6 @@ Cumplidos los trámites señalados en las fases precedentes, el Ministerio de Am
 2. Adopción para PIDU categoría 2. Cumplidos los trámites señalados en los artículos 2.2.4.3.4.2.3 y 2.2.4.3.4.3.1 del presente decreto, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, previa verificación de la conveniencia de las eventuales modificaciones introducidas por el Concejo al proyecto de acuerdo sobre usos y aprovechamientos del suelo, podrá adoptar, dentro de los treinta (30) días hábiles siguientes a la aprobación de la modificación a las normas del plan de ordenamiento territorial, mediante resolución y con carácter definitivo, el PIDU con el documento técnico de soporte, consolidado con las modificaciones que hubiesen resultado pertinentes durante la fase de aprobación ante el respectivo Concejo municipal o distrital.
 
 (Decreto 1490 de 2011, artículo 19, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.4.2 — Acto Administrativo mediante el cuál se adopta el PIDU
 
@@ -16656,8 +14872,6 @@ PARÁGRAFO . Una vez publicado en el Diario Oficial el acto administrativo por e
 
 (Decreto 1490 de 2011, artículo 20, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.4.3 — Efectos de la adopción
 
 De conformidad con lo previsto en el artículo 6 del Decreto 4821 de 2010, la adopción de los PIDU producirá los siguientes efectos:
@@ -16673,8 +14887,6 @@ PARÁGRAFO 1. Los municipios y distritos en los cuáles se ejecuten los PIDU ser
 PARÁGRAFO 2. Las áreas incluidas en un PIDU que no se encuentren en suelo urbano se considerarán incorporadas a esta clase de suelo cuando se acredite la calidad de áreas urbanizadas. Se entenderá que se encuentran urbanizadas las áreas cuyos predios cuenten con (i) la culminación de las obras y dotaciones a cargo del urbanizador sobre las zonas de cesión obligatoria contempladas en la respectiva licencia, de conformidad con las normas urbanísticas del respectivo PIDU; y, (ii) la entrega a satisfacción a los municipios y distritos y/o las empresas de servicios públicos domiciliarios correspondientes, de dichas obras y dotaciones, de acuerdo con la normatividad vigente sobre la materia.
 
 (Decreto 1490 de 2011, artículo 21, vigencia condicionada por Sentencia C-299 de 2011 para PIDU)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.4.4 — Licencias urbanísticas para la ejecución de PIDU
 
@@ -16868,15 +15080,11 @@ CAPÍTULO 1
 
 PARTICIPACIÓN EN PLUSVALÍA
 
-ARTÍCULO
-
 ## art:2.2.5.1.1 — Objeto y ámbito de aplicación
 
 Las disposiciones contenidas en el presente capítulo reglamentan la estimación y liquidación de la participación en plusvalía en los procesos de urbanización y edificación de inmuebles.
 
 (Decreto 4065 de 2008, artículo 1) 4rc
-
-ARTÍCULO
 
 ## art:2.2.5.1.2 — Participación en plusvalía
 
@@ -16886,23 +15094,17 @@ En todo caso, para el cálculo y liquidación de la participación en plusvalía
 
 (Decreto 4065 de 2008, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3 — Valores comerciales
 
 Los valores comerciales antes de la acción urbanística a que hacen referencia los artículos 74, 75, 76 y 77 de la Ley 388 de 1997, serán ajustados a valor presente, aplicando el Índice de Precios al Consumidor, IPC, a la fecha de expedición del Plan de Ordenamiento Territorial, de su revisión o de la adopción de los instrumentos que lo desarrollan y complementan.
 
 (Decreto 1788 de 2004, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4 — Cálculo plusvalía por mayor aprovechamiento del suelo de edificación
 
 Para calcular el efecto de plusvalía previsto en el artículo 77 de la Ley 388 de 1997, en el caso de la autorización específica de un mayor aprovechamiento del suelo en edificación, se tendrá en cuenta la incidencia de la edificabilidad adicional autorizada sobre el valor del suelo.
 
 (Decreto 1788 de 2004, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5 — Entidad o persona encargada de estimar el efecto de plusvalía
 
@@ -16922,23 +15124,17 @@ PARÁGRAFO 3. En los municipios o distritos que antes de adoptar el Plan de Orde
 
 (Decreto 1788 de 2004, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.5.1.6 — Plusvalía en proyectos por etapas
 
 Cuando se solicite una licencia de urbanismo o de construcción para el desarrollo por etapas de un proyecto, la participación en plusvalía se hará exigible para la etapa autorizada por la respectiva licencia.
 
 (Decreto 1788 de 2004, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.5.1.7 — Pago de participación de plusvalía
 
 Para la expedición de licencias de urbanización o construcción y sus modalidades, tratándose de inmuebles beneficiados por el efecto de plusvalía, las autoridades competentes sólo podrán expedir los respectivos actos administrativos cuando el interesado demuestre el pago de la participación en la plusvalía correspondiente al área autorizada.
 
 (Decreto 1788 de 2004, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.5.1.8 — Participación en plusvalía
 
@@ -16950,8 +15146,6 @@ CAPÍTULO 2
 
 COMPENSACIONES
 
-ARTÍCULO
-
 ## art:2.2.5.2.1 — Compensaciones en el tratamiento de conservación
 
 El reconocimiento y pago de las compensaciones previstas en la Ley 388 de 1997 y en el Decreto 151 de 1998 por la aplicación del tratamiento de conservación que se defina en los Planes de Ordenamiento Territorial o en los instrumentos que lo desarrollen, procederá exclusivamente cuando se limiten derechos de edificabilidad de determinados predios o inmuebles ubicados en el suelo urbano o de expansión urbana, conforme a la clasificación del suelo que haya establecido el respectivo municipio o distrito.
@@ -16961,8 +15155,6 @@ Corresponde, en todo caso, a los municipios y distritos definir los mecanismos a
 PARÁGRAFO . En ningún caso, pese a que se encuentren en suelo urbano o de expansión urbana, serán objeto de compensación, los terrenos o inmuebles que por sus características físicas, topográficas o geológicas sean inconstruibles ni aquellos que sean declarados cómo zonas de amenaza o riesgo.
 
 (Decreto 1337 de 2002, Artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.5.2.2 — Compensaciones mediante transferencia de derechos de construcción y desarrollo
 
@@ -16980,8 +15172,6 @@ En el caso de edificios a conservar, el monto de la compensación se aplicará s
 
 (Decreto 1337 de 2002, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.3 — Otros mecanismos para el pago de compensaciones
 
 Algunos de los mecanismos de compensación que se pueden utilizar de manera alternativa o complementaria cuando no se opte por la asignación de derechos transferibles de construcción y desarrollo, son los siguientes:
@@ -16993,8 +15183,6 @@ Algunos de los mecanismos de compensación que se pueden utilizar de manera alte
 PARÁGRAFO . En el supuesto de zonas o áreas urbanas a conservar por su interés histórico o arquitectónico, donde las propiedades mantienen las características con fundamento en las cuáles se declaró la conservación, se podrán aplicar los mecanismos de compensación de que trata el presente artículo.
 
 (Decreto 1337 de 2002, Artículo3)
-
-ARTÍCULO
 
 ## art:2.2.5.2.4 — Condiciones para el pago de las compensaciones
 
@@ -17011,8 +15199,6 @@ Las condiciones que deben cumplir los propietarios de los inmuebles para el pago
 CAPÍTULO 3
 
 PROMOCIÓN, ANUNCIO Y/O DESARROLLO DE LAS ACTIVIDADES DE ENAJENACIÓN DE INMUEBLES
-
-ARTÍCULO
 
 ## art:2.2.5.3.1 — Radicación de documentos
 
@@ -17048,8 +15234,6 @@ PARÁGRAFO 4. La información radicada ante la autoridad competente deberá ser 
 
 (Modifica Decreto 2180 de 2006, artículo 1
 
-ARTÍCULO
-
 ## art:2.2.5.3.2 — Revisión de los documentos presentados
 
 La instancia municipal o distrital encargada de ejercer la vigilancia y control de las actividades de construcción y enajenación de inmuebles destinados a vivienda, revisará los documentos radicados con el fin de verificar la observancia de las disposiciones legales pertinentes y en caso de no encontrarlos de conformidad, podrá requerir al interesado en cualquier momento, para que los corrija o aclare, sin perjuicio de las acciones de carácter administrativo y policivo que se puedan adelantar.
@@ -17057,8 +15241,6 @@ La instancia municipal o distrital encargada de ejercer la vigilancia y control 
 PARÁGRAFO . Los documentos de que trata el presente artículo estarán en todo momento a disposición de los compradores de los planes de vivienda, con el objeto de que sobre ellos se efectúen los estudios necesarios para determinar la conveniencia de la adquisición.
 
 (Decreto 2180 de 2006, artículo 2
-
-ARTÍCULO
 
 ## art:2.2.5.3.3 — Del registro único de proponentes
 
@@ -17070,15 +15252,11 @@ PARÁGRAFO . Si en el respectivo año el interesado hubiese efectuado la radicac
 
 (Decreto 2180 de 2006, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.5.3.4 — Del folio de matrícula inmobiliaria del inmueble o inmuebles objeto de la solicitud
 
 El interesado aportará el certificado de libertad y tradición del predio o predios sobre los que se adelantará el plan de vivienda, cuya fecha de expedición no sea superior a tres (3) meses anteriores a la fecha de radicación
 
 (Decreto 2180 de 2006, artículo 4
-
-ARTÍCULO
 
 ## art:2.2.5.3.5 — De los modelos de contratos que se vayan a utilizar en la celebración de los negocios
 
@@ -17086,15 +15264,11 @@ El interesado aportará copia de los modelos de los contratos que se vayan a sus
 
 (Decreto 2180 de 2006, artículo 5
 
-ARTÍCULO
-
 ## art:2.2.5.3.6 — De la licencia urbanística
 
 El interesado presentará copia de la licencia urbanística respectiva, expedida por el curador urbano o la autoridad competente con jurisdicción en el municipio o distrito, en el lugar donde se adelantarán las actividades de promoción, anuncio y enajenación de inmuebles destinados a vivienda, la cuál incluirá copia impresa de los planos aprobados, de conformidad con lo dispuesto en el Capítulo 1 del Título 6 del presente decreto.
 
 (Decreto 2180 de 2006, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.5.3.7 — Del presupuesto financiero del proyecto
 
@@ -17120,15 +15294,11 @@ Señalamiento de los recursos con los cuáles se cubrirá la totalidad de los co
 
 (Decreto 2180 de 2006, Artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.5.3.8 — De la acreditación de liberación de lotes o construcciones
 
 En aquellos inmuebles gravados con hipoteca, el interesado deberá aportar el documento que acredite que el acreedor hipotecario se obliga a liberar los lotes o construcciones que se vayan enajenando, mediante el pago proporcional del gravamen que afecte cada lote o construcción.
 
 (Decreto 2180 de 2006, artículo 8
-
-ARTÍCULO
 
 ## art:2.2.5.3.9 — Del sistema de preventas
 
@@ -17140,8 +15310,6 @@ CAPÍTULO 4.
 
 ANUNCIO DE PROGRAMAS, PROYECTOS U OBRAS DE UTILIDAD PÚBLICA O INTERÉS SOCIAL
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — Anuncio de proyectos, programas u obras que constituyan motivos de utilidad pública o interés social
 
 Las entidades competentes para adquirir por enajenación voluntaria o decretar la expropiación de inmuebles para la ejecución de proyectos u obras de utilidad pública o interés social, harán el anuncio del respectivo programa, proyecto u obra, mediante acto administrativo de carácter general que deberá publicarse en los términos del artículo 65 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -17152,15 +15320,11 @@ PARÁGRAFO 2. Cuando el presente Capítulo se refiera a anuncio de proyecto se e
 
 (Decreto 2729 de 2012, artículo 1.
 
-ARTÍCULO
-
 ## art:2.2.5.4.2 — Efectos del anuncio del proyecto, programa u obra
 
 De conformidad con lo dispuesto en el parágrafo 1 del artículo 61 de la Ley 388 de 1997, con el anuncio del proyecto se descontará del avalúo comercial de adquisición, el monto correspondiente a la plusvalía o mayor valor generado por el anuncio del proyecto, programa u obra, salvo aquellos casos en que los propietarios hubieren pagado la participación en plusvalía por obra pública o la contribución de valorización, según sea del caso. Para el efecto, se elaborarán avalúos de referencia en los cuáles se debe tener en cuenta las condiciones físicas, jurídicas y económicas del suelo al momento del anuncio del proyecto, de acuerdo con la normativa vigente.
 
 (Decreto 2729 de 2012, artículo 2
-
-ARTÍCULO
 
 ## art:2.2.5.4.3 — Contenido del acto administrativo
 
@@ -17182,8 +15346,6 @@ PARÁGRAFO 4. El acto administrativo de anuncio de los Macroproyectos de Interé
 
 (Decreto 2729 de 2012, artículo 3
 
-ARTÍCULO
-
 ## art:2.2.5.4.4 — Avalúos de referencia
 
 Para los efectos del presente decreto se entiende por avalúo de referencia aquel destinado a definir el valor del suelo antes del anuncio del proyecto y que se realizará por zonas o subzonas geoeconómicas homogéneas.
@@ -17195,8 +15357,6 @@ La entidad o persona encargada de elaborar los avalúos de referencia, de acuerd
 El precio de adquisición será igual al valor del avalúo comercial, de conformidad con lo previsto por el artículo 61 de la Ley 388 de 1997. Por lo tanto, los avalúos de referencia no sustituyen la obligación de elaborar los avalúos comerciales para definir el precio de adquisición de los inmuebles.
 
 (Decreto 2729 de 2012, artículo 4
-
-ARTÍCULO
 
 ## art:2.2.5.4.5 — Procedimiento para el Cálculo del mayor valor generado por el anuncio del proyecto
 
@@ -17218,15 +15378,11 @@ CAPÍTULO 5.
 
 CONCURRENCIA DE TERCEROS EN LA ADQUISICIÓN DE INMUEBLES POR ENAJENACIÓN VOLUNTARIA Y EXPROPIACIÓN POR VÍA JUDICIAL O ADMINISTRATIVA
 
-ARTÍCULO
-
 ## art:2.2.5.5.1 — Objeto
 
 El presente decreto tiene por finalidad reglamentar las condiciones bajo los cuáles los terceros podrán concurrir en la adquisición de predios o inmuebles, por enajenación voluntaria y/o expropiación por vía judicial o administrativa para la ejecución de proyectos de utilidad pública o interés social desarrollados directamente por particulares o mediante formas mixtas de asociación entre el sector público y el sector privado, de conformidad con los procedimientos previstos en las Leyes 9 de 1989 y 388 de 1997, para el efecto.
 
 (Decreto 199 de 2013, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.2 — Proyectos en los cuáles se acepta la concurrencia de terceros
 
@@ -17248,8 +15404,6 @@ PARÁGRAFO 2. En todos los eventos se deberá acreditar técnicamente que el res
 
 (Decreto 199 de 2013, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.5.3 — Ejecución de unidades de actuación urbanística
 
 La ejecución de unidades de actuación urbanística se regirá exclusivamente por lo dispuesto en el artículo 44 de la Ley 388 de 1997. En estos casos, la adquisición de predios o inmuebles, por enajenación voluntaria y/o expropiación por vía judicial o administrativa, con la concurrencia de terceros tendrá lugar cuando:
@@ -17263,8 +15417,6 @@ Los inmuebles de los propietarios renuentes serán objeto de los procesos de ena
 La administración podrá optar por la expropiación administrativa de los inmuebles correspondientes o por la enajenación forzosa de los mismos, de conformidad con lo previsto en el Capítulo VIII de la Ley 388 de 1997 o la norma que la adicione, modifique o sustituya. En todo caso, los inmuebles expropiados podrán formar parte de la asociación gestora de la actuación y los recursos para su adquisición podrán provenir de esta.
 
 (Decreto 199 de 2013, artículo 3
-
-ARTÍCULO
 
 ## art:2.2.5.5.4 — Contrato o convenio para la concurrencia de terceros
 
@@ -17292,8 +15444,6 @@ Será procedente la concurrencia de terceros en la adquisición de inmuebles por
 
 (Decreto 199 de 2013, artículo 4
 
-ARTÍCULO
-
 ## art:2.2.5.5.5 — Tradición
 
 Siempre que se trate de actuaciones desarrolladas directamente por particulares y cuando la totalidad de los recursos para la adquisición provengan de su participación, el contrato o convenio estipulará que una vez concluido el proceso de enajenación voluntaria y expropiación judicial y administrativa, el titular del derecho de dominio pasará a ser el tercero concurrente y cómo tal se inscribirá en el folio de matrícula inmobiliaria del respectivo inmueble.
@@ -17301,8 +15451,6 @@ Siempre que se trate de actuaciones desarrolladas directamente por particulares 
 La titularidad del derecho de dominio de los inmuebles adquiridos por enajenación voluntaria o forzosa por vía judicial o administrativa, para los efectos descritos, en ningún momento entrará a formar parte de los bienes de la entidad expropiante, salvo que concurran recursos públicos y privados para la adquisición de los inmuebles, evento en el cuál la titularidad del derecho de dominio será de la entidad.
 
 (Decreto 199 de 2013, artículo 5
-
-ARTÍCULO
 
 ## art:2.2.5.5.6 — Precio indemnizatorio
 
@@ -17312,15 +15460,11 @@ Se procederá de la misma manera cuando el precio indemnizatorio reconocido dent
 
 (Decreto 199 de 2013, artículo 6
 
-ARTÍCULO
-
 ## art:2.2.5.5.7 — Forma de pago del precio o valor indemnizatorio en programas de renovación urbana
 
 En los casos de enajenación voluntaria o expropiación de inmuebles para el desarrollo de programas de renovación urbana, el precio de adquisición o indemnizatorio se podrá pagar en la forma que define el artículo 119 de la Ley 388 de 1997 o la norma que lo adicione, modifique o sustituya.
 
 (Decreto 199 de 2013, artículo 7
-
-ARTÍCULO
 
 ## art:2.2.5.5.8 — Término para ejecución de los proyectos para los cuáles se adquiere los inmuebles
 
@@ -17329,8 +15473,6 @@ Cuando el inmueble se adquiera mediante el procedimiento de expropiación admini
 De conformidad con lo previsto en el artículo 33 de la Ley 9a de 1989, cuando el inmueble se adquiera mediante el procedimiento de adquisición voluntaria o expropiación judicial, el tercero concurrente deberá utilizarlo para los fines de utilidad pública o interés social que hayan sido invocados, en un término máximo de cinco (5) años, contados a partir de la fecha de inscripción del derecho real de dominio a favor de la entidad pública o del tercero en la Oficina de Registro de Instrumentos Públicos, según sea el caso. Si así no lo hicieren, se dará aplicación a lo previsto en los artículos 33 y 34 de la Ley 9 de 1989 o la norma que lo adicione, modifique o sustituya.
 
 (Decreto 199 de 2013, artículo 8
-
-ARTÍCULO
 
 ## art:2.2.5.5.9 — Selección del tercero concurrente
 
@@ -17350,13 +15492,9 @@ SECCIÓN 1
 
 OBJETIVO Y DEFINICIONES
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1 — Objetivo
 
 El objetivo del presente capítulo es reglamentar los parámetros, condiciones y requisitos básicos a los cuáles deben sujetar.se los municipios y distritos que cumplan los requisitos del artículo 278 de la Ley 1955 de 2019 para financiar la ejecución de infraestructura urbana vinculada a proyectos estratégicos de renovación urbana a través de la titularización de la totalidad o parte del mayor valor del recaudo futuro del impuesto predial unificado, que se genere en las zonas de influencia de los respectivos proyectos.
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.2 — Definiciones
 
@@ -17407,8 +15545,6 @@ Para efectos de la aplicación del presente decreto, se entiende por infraestruc
 SECCIÓN 2
 
 PROYECTOS ESTRATÉGICOS DE RENOVACIÓN URBANA CUYA INFRAESTRUCTURA SERÁ OBJETO DE FINANCIACIÓN MEDIANTE LA TITULARIZACIÓN DEL MAYOR VALOR DEL RECAUDO FUTURO DEL IMPUESTO PREDIAL UNIFICADO
-
-ARTÍCULO
 
 ## art:2.2.5.6.2.1 — 2.1
 
@@ -17468,8 +15604,6 @@ SECCIÓN 3
 
 VALIDACIÓN DE LA NECESIDAD DE APLICACIÓN DEL INSTRUMENTO DE FINANCIACIÓN DE INFRAESTRUCTURA URBANA A TRAVÉS DE TITULARIZACIÓN DEL MAYOR VALOR DEL RECAUDO FUTURO DEL IMPUESTO PREDIAL UNIFICADO QUE SE GENERE EN LAS ZONAS DE INFLUENCIA DE LOS RESPECTIVOS PROYECTOS ESTRATÉGICOS DE RENOVACIÓN URBANA Y LA INSUFICIENCIA DE LOS DEMÁS INSTRUMENTOS DE FINANCIACIÓN URBANA DE CAPTURA DE VALOR
 
-ARTÍCULO
-
 ## art:2.2.5.6.3.1 — 3.1
 
 Validación de la necesidad de aplicación del instrumento de financiación de infraestructura urbana a través de titularización del mayor valor de recaudo futuro del incremento del impuesto predial unificado que se genere en la zona de influencia del proyecto de renovación urbana definido cómo estratégico y de la insuficiencia de los demás instrumentos de captura de valor de financiación urbana. Para efectos de establecer la necesidad de aplicar el instrumento de financiación de infraestructura urbana a través de titularización del mayor valor de recaudo futuro del incremento del impuesto predial unificado generado en la zona de influencia del proyecto de renovación urbana definido cómo estratégico, y validar la insuficiencia de los demás instrumentos de captura de valor, se deberá adelantar las siguientes actuaciones:
@@ -17492,8 +15626,6 @@ SECCIÓN 4
 
 DEFINICIÓN DE LOS CRITERIOS PARA MEDIR LA EFICIENCIA EN EL RECAUDO DEL IMPUESTO PREDIAL UNIFICADO PARA VALIDAR LA APLICACIÓN EN EL MUNICIPIO DEL INSTRUMENTO DE TITULARIZACIÓN DEL RECAUDO FUTURO DEL INCREMENTO DEL IMPUESTO PREDIAL UNIFICADO QUE SE GENERE EN LAS ZONAS DE INFLUENCIA DE LOS RESPECTIVOS PROYECTOS ESTRATÉGICOS DE RENOVACIÓN URBANA, PARA FINANCIAR INFRAESTRUCTURA URBANA DE PROYECTOS ESTRATÉGICOS DE RENOVACIÓN URBANA
 
-ARTÍCULO
-
 ## art:2.2.5.6.4.1 — Criterios para establecer eficiencia en el recaudo del impuesto predial Unificado
 
 La Secretaría de Hacienda del municipio o distrito, o quién haga sus veces, certificará la eficiencia en el recaudo del impuesto predial unificado.
@@ -17515,8 +15647,6 @@ SECCIÓN 5
 AUTORIZACIÓN DE LA CESIÓN DEL INCREMENTO DEL IMPUESTO PREDIAL QUE SE GENERE EN LAS ZONAS DE INFLUENCIA DE LOS RESPECTIVOS PROYECTOS ESTRATÉGICOS DE RENOVACIÓN URBANA PARA FINANCIAR INFRAESTRUCTURA URBANA DE PROYECTOS ESTRATÉGICOS DE
 
 RENOVACIÓN URBANA POR PARTE DE LOS CONCEJOS MUNICIPALES O DISTRITALES
-
-ARTÍCULO
 
 ## art:2.2.5.6.5.1 — 5.1
 
@@ -17546,8 +15676,6 @@ CAPÍTULO 7.
 
 SISTEMAS DE REPARTO EQUITATIVO DE CARGAS Y BENEFICIOS
 
-ARTÍCULO
-
 ## art:2.2.5.7.1 — Sistemas de reparto equitativo de cargas y beneficios
 
 De conformidad con lo dispuesto en el artículo 38 de la ley 388 de 1997, los planes de ordenamiento territorial y las normas urbanísticas que los desarrollen o complementen deberán establecer mecanismos que garanticen el reparto equitativo de las cargas y los beneficios derivados del desarrollo entre los respectivos afectados.
@@ -17555,8 +15683,6 @@ De conformidad con lo dispuesto en el artículo 38 de la ley 388 de 1997, los pl
 Cuando se trate de la habilitación urbanística de predios a cargo de sus propietarios en áreas de desarrollo en suelo urbano y de expansión urbana, o en áreas de desarrollo restringido en suelo rural, la distribución de las cargas generales se podrá realizar, mediante sistemas de reparto equitativo de cargas y beneficios que contengan la asignación de edificabilidad adicional y/o la mayor intensidad de uso en equivalencia a la participación de los propietarios en dichas cargas.
 
 (Adicionado por el Art. 5 del Decreto 1783 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.5.7.2 — Regulación de los sistemas de reparto equitativo de cargas y beneficios
 
@@ -17582,8 +15708,6 @@ SECCIÓN 1.
 
 DEFINICIÓN Y CLASES DE LICENCIAS URBANÍSTICAS
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.1 — Licencia urbanística
 
 Para adelantar obras de construcción, ampliación, modificación, adecuación, reforzamiento estructural, restauración, reconstrucción, cerramiento y demolición de edificaciones, y de urbanización, parcelación, loteo o subdivisión de predios localizados en terrenos urbanos, de expansión urbana y rurales, se requiere de manera previa a su ejecución la obtención de la licencia urbanística correspondiente. Igualmente se requerirá licencia para la ocupación del espacio público con cualquier clase de amueblamiento o para la intervención del mismo salvo que la ocupación u obra se ejecute en cumplimiento de las funciones de las entidades públicas competentes.
@@ -17608,8 +15732,6 @@ PARÁGRAFO 2. La modificación de licencias urbanísticas vigentes expedidas con
 
 (Decreto 1469 de 2010, artículo 1, Modificado por el Decreto 1203 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.2 — Clases de licencias
 
 Las licencias urbanísticas serán de:
@@ -17628,8 +15750,6 @@ PARÁGRAFO . La expedición de las licencias de urbanización, parcelación y co
 
 (Decreto 1469 de 2010, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.3 — Competencia
 
 El estudio, trámite y expedición de las licencias de urbanización, parcelación, subdivisión y construcción de que tratan los numerales 1 a 4 del artículo anterior corresponde a los curadores urbanos en aquellos municipios y distritos que cuenten con la figura. En los demás municipios y distritos y en el departamento Archipiélago de San Andrés, Providencia y Santa Catalina corresponde a la autoridad municipal o distrital competente.
@@ -17637,8 +15757,6 @@ El estudio, trámite y expedición de las licencias de urbanización, parcelaci�
 La expedición de las licencias de intervención y ocupación del espacio público de que trata el numeral 5 del artículo anterior será competencia de los municipios y distritos. No obstante, los curadores urbanos al expedir licencias de construcción para predios que se ubiquen en sectores urbanizados o desarrollados podrán autorizar la reconstrucción o rehabilitación de los andenes colindantes con el predio o predios objeto de licencia, la cuál se otorgará siguiendo las normas y demás especificaciones de diseño, construcción y accesibilidad definidas por la reglamentación vigente para la intervención del espacio público. Sin perjuicio de lo anterior, en ningún caso se podrá desmejorar las condiciones existentes en el espacio público antes de la ejecución de la obra.
 
 (Decreto 1469 de 2010, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.4 — Licencia de urbanización
 
@@ -17680,8 +15798,6 @@ PARÁGRAFO 2. La autorización de la licencia en la modalidad de reurbanización
 
 (Decreto 1469 de 2010, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.5 — Licencia de parcelación
 
 Es la autorización previa para ejecutar en uno o varios predios localizados en suelo rural y suburbano, la creación de espacios públicos y privados, y la ejecución de obras para vías públicas que permitan destinar los predios resultantes a los usos permitidos por el Plan de Ordenamiento Territorial, los instrumentos que lo desarrollen y complementen y la normatividad ambiental aplicable a esta clase de suelo. Estas licencias se podrán otorgar acreditando la autoprestación de servicios públicos, con la obtención de los permisos, autorizaciones y concesiones respectivas otorgadas por las autoridades competentes.
@@ -17700,7 +15816,7 @@ Se podrán solicitar modificaciones sobre las áreas que originalmente estuviera
 
 (Decreto 1469 de 2010, artículo 5; Parágrafo adicionado por el Decreto 1197 de 2016, art. 1)
 
-## art:2.2.6.1.1.6 — Licencia de subdivisión y sus modalidades
+## art:2.2.6.1.1.6l — icencia de subdivisión y sus modalidades
 
 Es la autorización previa para dividir uno o varios predios, ubicados en suelo rural, urbano o de expansión urbana, de conformidad con lo dispuesto en el Plan de Ordenamiento Territorial, los instrumentos que lo desarrollen y complementen y demás normatividad vigente aplicable a las anteriores clases de suelo.
 
@@ -17749,8 +15865,6 @@ PARÁGRAFO 5. En los procedimientos de ordenamiento social de la propiedad rural
 (Modificado por el Art. 9 del Decreto 1783 de 2021)
 
 (Decreto 1469 de 2010, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.7 — Licencia de construcción y sus modalidades
 
@@ -17822,8 +15936,6 @@ PARÁGRAFO. De conformidad con lo previsto en el artículo 106 de la Ley 388 de 
 
 (Decreto 1469 de 2010 Art 8.)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.9 — 
 
 2.2.6.1.1.9 Autorización de actuaciones urbanísticas en predios con declaratoria de bienes de interés cultural y bienes dentro de su área o zona de influencia. Sin perjuicio de la presentación del respectivo anteproyecto o autorización de intervención, cuando se haya adoptado el Plan Especial de Manejo y Protección de Bienes de Interés Cultural por la autoridad competente, las solicitudes de licencias urbanísticas sobre bienes de interés cultural y sobre los inmuebles localizados al interior de su zona de influencia, se resolverán con sujeción a las normas urbanísticas y de edificación que se adopten en el mismo. En caso de no haberse adoptado el Plan Especial de Manejo y Protección al momento de la solicitud, las licencias se podrán expedir con base en el anteproyecto o autorización de intervención del bien de interés cultural aprobado por parte de la autoridad que efectuó la respectiva declaratoria, en el cuál se señalará los usos específicos autorizados.
@@ -17833,8 +15945,6 @@ PARÁGRAFO : (Derogado por el Art. 37 del Decreto 1783 de 2021)
 (Modificado por el Art. 11 del Decreto 1783 de 2021)
 
 (Decreto 1469 de 2010, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.10 — Reparaciones locativas
 
@@ -17849,8 +15959,6 @@ Están incluidas dentro de las reparaciones locativas, entre otras, las siguient
 3. Cumplir con los procedimientos previos, requisitos y normas aplicables a los inmuebles de conservación histórica, arquitectónica o bienes de interés cultural.
 
 (Decreto 1469 de 2010, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.11 — Régimen especial en materia de licencias urbanísticas
 
@@ -17884,8 +15992,6 @@ PARÁGRAFO 2. En el evento que para las edificaciones indicadas en el numeral 1.
 
 (Decreto 1469 de 2010, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.12 — Licencia de intervención y ocupación del espacio público
 
 Es la autorización previa para ocupar o para intervenir bienes de uso público incluidos en el espacio público, de conformidad con las normas urbanísticas adoptadas en el Plan de Ordenamiento Territorial, en los instrumentos que lo desarrollen y complementen y demás normatividad vigente.
@@ -17899,8 +16005,6 @@ PARÁGRAFO 3. La intervención de los elementos arquitectónicos o naturales de 
 PARÁGRAFO 4. Para efectos de lo dispuesto en el numeral segundo del artículo 2 de la Ley 810 de 2003 o la norma que lo adicione, modifique o sustituya, sólo se permitirá el cerramiento de aquellas zonas de uso público, cómo parques y áreas verdes, distintas de las resultantes de los procesos de urbanización, parcelación o legalización urbanística.
 
 (Decreto 1469 de 2010, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.13 — Modalidades de la licencia de intervención y ocupación del espacio público
 
@@ -17938,15 +16042,11 @@ De conformidad con lo dispuesto en los artículos 177 del Decreto Ley 2324 de 19
 
 (Decreto 1469 de 2010, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.6.1.1.14 — Derechos sobre el espacio público
 
 Las licencias de intervención y ocupación del espacio público sólo confieren a sus titulares el derecho sobre la ocupación o intervención sobre bienes de uso público. A partir de la expedición de la licencia, la autoridad competente podrá revocarla en los términos del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1469 de 2010, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.6.1.1.15 — Entrega material de espacio público en proyectos de obra pública
 
@@ -17963,8 +16063,6 @@ PROCEDIMIENTOS APLICABLES PARA LA EXPEDICIÓN DE LICENCIAS URBANÍSTICAS Y SUS M
 SUBSECCIÓN 1.
 
 DE LAS SOLICITUDES
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.1 — Solicitud de la licencia y sus modificaciones
 
@@ -18002,8 +16100,6 @@ PARÁGRAFO 5. En la solicitud de licencia de urbanización en la modalidad de sa
 
 (Decreto 1469 de 2010, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.2 — Radicación de la solicitud
 
 Presentada la solicitud de licencia, se radicará y numerará consecutivamente, en orden cronológico de recibo, dejando constancia de los documentos aportados con la misma.
@@ -18013,8 +16109,6 @@ En caso de que la solicitud no se encuentre completa, se devolverá la documenta
 PARÁGRAFO . Si durante el término que transcurre entre la solicitud de una licencia o su modificación y la expedición del acto administrativo que otorgue la licencia o autorice la modificación, se produce un cambio en las normas urbanísticas que afecten el proyecto sometido a consideración del curador o de la autoridad municipal o distrital encargada de estudiar, tramitar y expedir las licencias urbanísticas, el solicitante tendrá derecho a que la licencia o la modificación se le conceda con base en la norma urbanística vigente al momento de la radicación de la solicitud, siempre que la misma haya sido presentada en legal y debida forma.
 
 (Decreto 1469 de 2010, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.3 — 
 
@@ -18031,8 +16125,6 @@ PARÁGRAFO . Para los efectos del presente artículo, el sistema de categorizaci
 (Derogado por el Art. 37 del Decreto 1783 de 2021)
 
 (Decreto 1469 de 2010, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.4 — Categorías
 
@@ -18070,8 +16162,6 @@ PARÁGRAFO 2. De acuerdo con esta categorización, los curadores urbanos y la au
 
 (Decreto 1469 de 2010, artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.5 — Titulares de las licencias de urbanización, parcelación, subdivisión y construcción
 
 Podrán ser titulares de las licencias de urbanización, parcelación, subdivisión y construcción quienes ostenten la calidad de propietarios de los inmuebles objeto de la solicitud, los fideicomisos, y los fideicomitentes de los mismos fideicomisos si así lo certifica la sociedad fiduciaria.
@@ -18092,15 +16182,11 @@ PARÁGRAFO 2 Los operadores o administradores de los parques cementerios podrán
 
 (Decreto 1469 de 2010, artículo 19; Modificado por el Decreto 1197 de 2016, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.6 — Titulares de la licencia de intervención y ocupación del espacio público
 
 Podrán ser titulares de las licencias de intervención y ocupación del espacio público las personas naturales o jurídicas, públicas o privadas y los consorcios o uniones temporales que precisen ocupar o intervenir el espacio público.
 
 (Decreto 1469 de 2010, artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.7 — Documentos para la solicitud de licencias
 
@@ -18111,8 +16197,6 @@ Sin perjuicio de los documentos que garanticen el cumplimiento de las normas nac
 (Modificado por el Art. 15 del Decreto 1783 de 2021)
 
 (Decreto 1469 de 2010, artículo 21, Modificado por Decreto 1203 de 2017, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.8 — Documentos adicionales para la licencia de urbanización
 
@@ -18131,8 +16215,6 @@ Para los efectos de este Capítulo, la disponibilidad inmediata de servicios pú
 En todo caso, las obras de mitigación deberán ser ejecutadas por el urbanizador responsable o, en su defecto, por el titular durante la vigencia de la licencia.
 
 (Decreto 1469 de 2010, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.9 — Documentos adicionales para la licencia de parcelación
 
@@ -18156,8 +16238,6 @@ PARÁGRAFO . Cuando se trate de una licencia de parcelación para saneamiento, a
 
 (Decreto 1469 de 2010, artículo 23; Modificado por el Decreto 1197 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.10 — Documentos adicionales para la expedición de licencias de subdivisión
 
 Cuando se trate de licencias de subdivisión, además de los requisitos señalados en el artículo 2.2.6.1.2.1.7 del presente decreto, la solicitud deberá acompañarse de:
@@ -18167,8 +16247,6 @@ Cuando se trate de licencias de subdivisión, además de los requisitos señalad
 2. Para la modalidad de reloteo, se deberá anexar el plano con base en el cuál se urbanizaron los predios objeto de solicitud y un plano que señale los predios resultantes de la división propuesta, debidamente amojonado y alinderado según lo establecido en las normas vigentes, con su respectivo cuadro de áreas.
 
 (Decreto 1469 de 2010, artículo 24)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.11 — Documentos adicionales para la licencia de construcción
 
@@ -18202,8 +16280,6 @@ Cuando se trate de intervenciones sobre el patrimonio arqueológico se debe incl
 
 (Decreto 583 de 2017, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.1.12 — Construcción de edificaciones para usos de gran impacto
 
 De conformidad con lo establecido por el artículo 101 de la Ley 769 de 2002, las nuevas edificaciones y las que se amplíen o adecuen para el desarrollo de usos comerciales, dotacionales, institucionales e industriales que generen modificaciones al sistema de tránsito que impacten negativamente la movilidad circundante y la de su zona de influencia, o se constituyan en un polo importante generador de viajes, deberán contar con un estudio de tránsito aprobado por la autoridad de tránsito competente, en el que se definan las medidas para prevenir o mitigar los citados impactos.
@@ -18215,8 +16291,6 @@ Los estudios de tránsito serán exigibles por parte de los municipios y distrit
 Cuando de la aprobación del estudio resulten variaciones al proyecto arquitectónico se deberá tramitar la modificación a la licencia de construcción aprobada.
 
 (Decreto 1469 de 2010, artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.13 — Documentos adicionales para la solicitud de licencias de intervención y ocupación del espacio público
 
@@ -18237,8 +16311,6 @@ Cuando se trate de licencia de intervención y ocupación del espacio público, 
 2.5 Especificaciones de diseño y construcción del espacio público.
 
 (Decreto 1469 de 2010, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.1.14 — Documentos para la solicitud de modificación de licencias vigentes
 
@@ -18263,8 +16335,6 @@ PARÁGRAFO 2. En las ciudades en donde existan medios tecnológicos disponibles 
 SUBSECCIÓN 2.
 
 DEL PROCEDIMIENTO PARA LA EXPEDICIÓN DE LA LICENCIA Y SUS MODIFICACIONES
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.2.1 — Citación a vecinos
 
@@ -18304,8 +16374,6 @@ En ningún caso la licencia urbanística constituye una declaración respecto de
 
 (Decreto 1469 de 2010, artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.2.2 — Intervención de terceros
 
 Toda persona interesada en formular objeciones a la expedición de una licencia urbanística, podrá hacerse parte en el trámite administrativo desde la fecha de la radicación de la solicitud hasta antes de la expedición del acto administrativo que resuelva la solicitud. Dicho acto sólo podrá ser expedido una vez haya transcurrido un término mínimo de cinco (5) días hábiles, contados a partir del día siguiente a la fecha de la citación a los vecinos colindantes o de la publicación cuando esta fuere necesaria y, en el caso de los demás terceros, a partir del día siguiente a la fecha en que se radique la fotografía donde conste la instalación de la valla o aviso de que trata el parágrafo 1 del artículo anterior.
@@ -18315,8 +16383,6 @@ PARÁGRAFO . La solicitud de constitución en parte deberán presentarse por esc
 (Par., modificado por el Art. 17 del Decreto 1783 de 20219
 
 (Decreto 1469 de 2010, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.2.3 — De la revisión del proyecto
 
@@ -18342,8 +16408,6 @@ El alcance y procedimiento de la revisión de los diseños y estudios se sujetar
 
 (Decreto 1469 de 2010, artículo 31, Modificado Decreto 1203, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.2.4 — Acta de observaciones y correcciones
 
 Efectuada la revisión técnica, jurídica, estructural, urbanística y arquitectónica del proyecto, el curador urbano o la autoridad municipal o distrital competente, levantará por una sola vez, si a ello hubiere lugar, un acta de observaciones y correcciones en la que se informe al solicitante sobre las actualizaciones, correcciones o aclaraciones que debe realizar al proyecto y los documentos adicionales que debe aportar para decidir sobre la solicitud.
@@ -18356,8 +16420,6 @@ En el evento que para los proyectos radicados con revisión independiente de los
 
 (Decreto 1469 de 2010, artículo 32 Modificado Decreto 1203, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.2.5 — Información de otras autoridades
 
 Las licencias urbanísticas deberán resolverse exclusivamente con los requisitos fijados por las normas nacionales que reglamentan su trámite. No obstante los curadores urbanos o las autoridades competentes para la expedición de licencias, podrán solicitar a otras autoridades el aporte de información que requieran para precisar los requisitos definidos por la reglamentación nacional, la cuál deberá ser remitida en un plazo de diez (10) días hábiles contados a partir del día siguiente de la radicación del requerimiento, lapso durante el cuál se suspenderá el término que tiene la autoridad competente para decidir.
@@ -18369,8 +16431,6 @@ En todo caso, el curador urbano o la autoridad municipal o distrital competente 
 SUBSECCIÓN 3.
 
 DE LA EXPEDICIÓN DE LICENCIAS, SUS MODIFICACIONES Y REVALIDACIONES
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.1 — Término para resolver las solicitudes de licencias, sus modificaciones y revalidación de licencias
 
@@ -18402,8 +16462,6 @@ PARÁGRAFO 4. Las solicitudes de prórroga y prórroga de la revalidación de la
 
 (Decreto 1469 de 2010, artículo 34, Modificado Decreto 1203 de 2017, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.2 — Plazos indicativos para pronunciarse sobre la solicitud de licencias de construcción
 
 Una vez se adopte por los curadores urbanos o por la autoridad municipal o distrital competente para la expedición de licencias el sistema de categorización de que trata el artículo 2.2.6.1.2.1.3 del presente decreto, se tendrán en cuenta los siguientes plazos indicativos para pronunciarse sobre las solicitudes de las licencias de construcción:
@@ -18424,8 +16482,6 @@ PARÁGRAFO . Para efectos de lo dispuesto en el artículo 2.2.6.6.4.5 del presen
 
 (Decreto 1469 de 2010, artículo 35)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.3 — Efectos de la licencia
 
 De conformidad con lo dispuesto en el literal a) del artículo 5 del Decreto-ley 151 de 1998, el otorgamiento de la licencia determinará la adquisición de los derechos de construcción y desarrollo, ya sea parcelando, urbanizando o construyendo en los predios objeto de la misma en los términos y condiciones expresados en la respectiva licencia.
@@ -18444,8 +16500,6 @@ Esta renuncia no será procedente en los eventos en que se hayan ejercido parcia
 
 (Decreto 1469 de 2010, artículo 36)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.4 — Desistimiento de solicitudes de licencia
 
 El solicitante de una licencia urbanística podrá desistir de la misma mientras no se haya expedido el acto administrativo mediante el cuál se concede la licencia o se niegue la solicitud presentada.
@@ -18455,8 +16509,6 @@ Cuando el solicitante de la licencia no haya dado cumplimiento a los requerimien
 PARÁGRAFO . El interesado contará con treinta (30) días calendario, contados a partir de la fecha en que quede en firme el acto administrativo por el cuál se entiende desistida la solicitud, para retirar los documentos que reposan en el expediente o para solicitar su traslado a otro en el evento que se radique una nueva solicitud ante la misma autoridad. En estos casos se expedirá el acto de devolución o desglose y traslado. Contra este acto no procede recurso.
 
 (Decreto 1469 de 2010, artículo 37)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3 — Contenido de la licencia
 
@@ -18501,8 +16553,6 @@ Para los trámites adelantados por medios electrónicos se atenderá lo dispuest
 (Modificado por el Art. 22 del Decreto 1783 de 2021)
 
 (Decreto 1469 de 2010, artículo 38, Modificado Decreto 1203 de 2017, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.6 — Obligaciones del titular de la licencia
 
@@ -18554,8 +16604,6 @@ El certificado técnico de ocupación deberá protocolizarse mediante escritura 
 
 (Decreto 1469 de 2010, artículo 39, Modificado Decreto 1203 de 2017, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.7 — Notificación de licencias
 
 El acto administrativo que otorgue, niegue o declare el desistimiento de la solicitud de licencia será notificado al solicitante y a cualquier persona o autoridades que se hubiere hecho parte dentro del trámite, en los términos previstos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. La constancia de la notificación se anexará al expediente. En el evento que el solicitante de la licencia sea un poseedor, el acto que resuelva la solicitud se le notificará al propietario inscrito del bien objeto de la licencia en la forma indicada anteriormente.
@@ -18566,15 +16614,11 @@ PARÁGRAFO . La notificación personal del acto administrativo se podrá hacer d
 
 (Decreto 1469 de 2010, artículo 40)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.8 — Publicación
 
 De conformidad con el artículo 73 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, cuando, a juicio del curador urbano o la autoridad municipal o distrital competente, la expedición del acto administrativo que resuelva la solicitud de licencia afecte en forma directa e inmediata a terceros que no hayan intervenido en la actuación, se ordenará la publicación de la parte resolutiva de la licencia en un periódico de amplia circulación en el municipio o distrito donde se encuentren ubicados los inmuebles y en la página electrónica de la oficina que haya expedido la licencia, si cuentan con ella.
 
 (Decreto 1469 de 2010, artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.9 — Recursos
 
@@ -18600,8 +16644,6 @@ PARÁGRAFO 4. Contra el acto administrativo que declare el desistimiento de la s
 
 (Decreto 1469 de 2010, artículo 42)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.10 — De la revocatoria directa
 
 Al acto administrativo que otorga la respectiva licencia le son aplicables las disposiciones sobre revocatoria directa establecidas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo con las precisiones señaladas en el presente artículo:
@@ -18620,8 +16662,6 @@ Al acto administrativo que otorga la respectiva licencia le son aplicables las d
 
 (Decreto 1469 de 2010, artículo 43)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.3.11 — Información sobre licencias negadas
 
 Cuando el acto que resuelva negar una solicitud de licencia, se encuentre en firme, el curador urbano o la autoridad que la niegue pondrá en conocimiento de ello a las autoridades encargadas del control urbano, indicando las razones por las cuáles fue negada.
@@ -18629,8 +16669,6 @@ Cuando el acto que resuelva negar una solicitud de licencia, se encuentre en fir
 En el evento que en el municipio o distrito exista la figura del curador urbano, este informará también a la oficina de planeación o la entidad que haga sus veces y a los demás curadores urbanos, a fin de que no se trámite la misma solicitud en las condiciones en que fue inicialmente negada.
 
 (Decreto 1469 de 2010, artículo 44)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.12 — Obligación de suministrar información de licencias otorgadas
 
@@ -18641,8 +16679,6 @@ Adicionalmente, los curadores urbanos remitirán trimestralmente por escrito al 
 PARÁGRAFO . Los curadores urbanos o la entidad encargada del estudio, trámite y expedición de licencias, una vez en firme la correspondiente licencia de urbanización, parcelación y/o intervención y ocupación del espacio público en sus diferentes modalidades así cómo sus prórrogas, modificaciones y/o revalidaciones, remitirán mensualmente en los medios tecnológicos que defina el municipio o distrito, a la entidad encargada de la administración del espacio público del respectivo municipio o distrito, la información relacionada con las áreas de cesiones urbanísticas gratuitas destinadas entre otros, a vías, zonas verdes, parques, equipamientos colectivos y espacio público en general, con el objeto de hacer seguimiento a su entrega efectiva por parte de los urbanizadores, parceladores y/o titulares de licencias de intervención y ocupación del espacio público, en los medios y según lo determine el municipio o distrito.
 
 (Decreto 583 de 2017, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.3.13 — Archivo del expediente de la licencia urbanística otorgada
 
@@ -18655,8 +16691,6 @@ Componen el expediente de la licencia urbanística otorgada, los actos administr
 SUBSECCIÓN 4.
 
 DE LA VIGENCIA DE LAS LICENCIAS
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.4.1 — Vigencia de las licencias
 
@@ -18712,8 +16746,6 @@ PARÁGRAFO 7 TRANSITORIO. Hasta el 30 de junio del año 2026, los titulares de l
 
 (Paragrafo 7 transitorio, Adiciona art 1 del decreto 74 de 2025)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.4.2 — Vigencia de las licencias en urbanizaciones por etapas y proyecto urbanístico general
 
 El proyecto urbanístico general es el planteamiento gráfico de un diseño urbanístico que refleja el desarrollo de uno o más predios en suelo urbano, o en suelo de expansión urbana cuando se haya adoptado el respectivo plan parcial, los cuáles requieren de redes de servicios públicos, infraestructura vial, áreas de cesiones y áreas para obras de espacio público y equipamiento, e involucra las normas referentes a aprovechamientos y volumetrías básicas, acordes con el Plan de Ordenamiento Territorial y los instrumentos que lo desarrollen.
@@ -18731,8 +16763,6 @@ En la ejecución de la licencia para una de las etapas y en el marco del proyect
 (Modificado por el Art. 28 del Decreto 1783 de 2021)
 
 (Decreto 1469 de 2010, artículo 48)
-
-ARTÍCULO
 
 ## art:2.2.6.1.2.4.3 — Tránsito de normas urbanísticas y revalidación de licencias
 
@@ -18778,8 +16808,6 @@ PARÁGRAFO 5 TRANSITORIO. Las licencias urbanísticas cuyo vencimiento se presen
 
 (Paragrafo 4 y 5 transitorio , adiciona art 2 del decreto 74 de 2025)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2.4.4 — Vigencia de la licencia de intervención y ocupación del espacio público
 
 La licencia de intervención y ocupación del espacio público tendrá una vigencia de veinticuatro (24) meses, contados a partir de la fecha en la que quede en firme el acto administrativo que otorga la respectiva licencia, para la ejecución total de las obras autorizadas.
@@ -18793,8 +16821,6 @@ PARÁGRAFO . Una vez en firme la licencia de intervención y ocupación del espa
 SECCIÓN 3.
 
 OTRAS ACTUACIONES RELACIONADAS CON LA EXPEDICIÓN DE LAS LICENCIAS
-
-ARTÍCULO
 
 ## art:2.2.6.1.3.1 — Otras actuaciones
 
@@ -18886,8 +16912,6 @@ PARÁGRAFO 5. La modificación de los planos y cuadros de áreas aprobados y eje
 
 (Decreto 1469 de 2010, artículo 51; Decreto 1197 de 2016, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3.2 — Requisitos para las solicitudes de otras actuaciones relacionadas con la expedición de las licencias
 
 A las solicitudes de otras actuaciones urbanísticas de ajuste de cotas y áreas, aprobación de los planos de propiedad horizontal, autorización para el movimiento de tierras, aprobación de piscinas y modificación del plano urbanístico, concepto de norma urbanística y uso del suelo, bienes destinados a uso público o con vocación a uso público se acompañarán los documentos que se determinen por el Ministerio de Vivienda, Ciudad y Territorio según lo dispuesto en el artículo 2.2.6.1.2.1. 7. del presente decreto. Las solicitudes de otras actuaciones relacionadas con la expedición de las licencias deberán resolverse exclusivamente con los requisitos fijados por la mencionada Resolución.
@@ -18899,8 +16923,6 @@ A las solicitudes de otras actuaciones urbanísticas de ajuste de cotas y áreas
 SECCIÓN 4.
 
 OTRAS DISPOSICIONES
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.1 — Autorización de Ocupación de Inmuebles
 
@@ -18924,15 +16946,11 @@ PARÁGRAFO 3. Lo dispuesto en el presente artículo no es exigible en las obras 
 
 (Decreto 1469 de 2010, artículo 53, Modificado Decreto 1203 de 2017, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.2 — 
 
 2.2.6.1.4.2 Expedición de licencias de urbanización y construcción con posterioridad a la declaración de situación de desastre o calamidad pública. En el evento de declaración de situación de desastre o calamidad pública, se aplicará el régimen especial para la expedición de licencias de urbanización y construcción contenidos en el Capítulo sobre "Licencias urbanísticas con posterioridad a la declaratoria de situación de desastre o calamidad pública" del presente decreto.
 
 (Decreto 1469 de 2010, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.3 — Materiales y métodos alternos de diseño y de construcción
 
@@ -18942,8 +16960,6 @@ Para permitir la utilización de métodos alternos de construcción y de materia
 
 (Decreto 1469 de 2010, artículo 55)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.4 — Exigencias técnicas de construcción
 
 En desarrollo de lo dispuesto en el numeral 11 del artículo 41 de la Ley 400 de 1997, sus decretos reglamentarios, o las normas que los adicionen, modifiquen o sustituyan, la aprobación de condiciones de diseño y técnicas de construcción, corresponderá exclusivamente a la Comisión Asesora Permanente para el Régimen de Construcciones Sismorresistentes.
@@ -18951,8 +16967,6 @@ En desarrollo de lo dispuesto en el numeral 11 del artículo 41 de la Ley 400 de
 Los curadores urbanos no podrán exigir el cumplimiento de normas técnicas o cualquier otra norma de construcción establecida por los municipios y distritos, salvo que exista expresa atribución legal que permita a las autoridades locales la definición de aspectos de orden técnico en la construcción de obras.
 
 (Decreto 1469 de 2010, artículo 56)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.5 — Determinación de las áreas de cesión
 
@@ -18971,8 +16985,6 @@ En todo caso, por lo menos el cincuenta por ciento (50%) de las zonas de cesión
 PARÁGRAFO . Los aislamientos laterales, paramentos y retrocesos de las edificaciones no podrán ser compensados en dinero, ni canjeado por otros inmuebles.
 
 (Decreto 1469 de 2010, artículo 57)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.6 — Incorporación de áreas públicas
 
@@ -18994,8 +17006,6 @@ Corresponderá a los municipios y distritos determinar las demás condiciones y 
 
 (Decreto 1469 de 2010, artículo 58)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.7 — Entrega material de las áreas de cesión
 
 La entrega material de las zonas objeto de cesión obligatoria, así cómo la ejecución de las obras y dotaciones a cargo del urbanizador sobre dichas zonas, se verificará mediante inspección realizada por la entidad municipal o distrital responsable de la administración y mantenimiento del espacio público, con base en lo aprobado en la licencia urbanística correspondiente.
@@ -19016,8 +17026,6 @@ PARÁGRAFO 2. En las urbanizaciones por etapas, la ejecución de las obras y dot
 
 (Decreto 1469 de 2010, artículo 59)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.8 — Entrega anticipada de cesiones
 
 Los propietarios de predios urbanizables no urbanizados que se encuentren dentro del perímetro urbano y no hayan sido objeto de incorporación en los términos del artículo 47 de la Ley 1537 de 2012 modificado por el artículo 91 de la Ley 1753 de 2015, podrán proponer a los municipios o distritos, o estos a aquellos, la cesión de porción o porciones de dichos predios que, sin sustituir totalmente el reparto de cargas y beneficios que se deba efectuar al momento de solicitar la licencia urbanística, se recibirán a título de zonas de cesión anticipada de desarrollos urbanísticos futuros, siempre y cuando, resulten convenientes para proyectos de utilidad pública o interés social que estén previstos en el Plan de Ordenamiento Territorial o en los instrumentos que lo desarrollen y/o complementen.
@@ -19029,8 +17037,6 @@ Para la transferencia del área de cesión anticipada para equipamientos públic
 Para solicitar la respectiva licencia de construcción en la modalidad de obra nueva para el desarrollo de equipamientos en suelos objeto de entrega de cesiones anticipadas, se deberá adjuntar la disponibilidad inmediata de servicios públicos domiciliarios de acueducto, alcantarillado y energía eléctrica, expedidos por los respectivos prestadores de servicios, En el proyecto se deberá garantizar el acceso directo desde una vía pública vehicular y accesibilidad al transporte público en las condiciones de la norma urbanística correspondiente.
 
 (Decreto 583 de 2017, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.9 — Identificación de las obras
 
@@ -19052,15 +17058,11 @@ La valla o aviso se instalará antes de la iniciación de cualquier tipo de obra
 
 (Decreto 1469 de 2010, artículo 61)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.10 — Aplicación de las normas de accesibilidad al espacio público, a los edificios de uso público y a la vivienda
 
 Los proyectos de urbanización, construcción e intervención y ocupación del espacio público, deben contemplar en su diseño las normas vigentes que garanticen la accesibilidad y desplazamiento de las personas con movilidad reducida, sea esta temporal o permanente, de conformidad con las normas establecidas en la Ley 361 de 1997 o la norma que la adicione, modifique o sustituya y su reglamento.
 
 (Decreto 1469 de 2010, artículo 62)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.11 — Competencia del control urbano
 
@@ -19068,15 +17070,11 @@ Corresponde a los alcaldes municipales o distritales por conducto de los inspect
 
 (Decreto 1469 de 2010, artículo 62, Modificado Decreto 1203 de 2017, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.6.1.4.12 — Régimen de transición para la expedición de licencias, reconocimiento de edificaciones y otras actuaciones
 
 Las solicitudes de licencias, reconocimiento de edificaciones, otras actuaciones asociadas a la Licencia y prórrogas que hubieren sido radicadas en legal y debida forma antes del 3 de mayo de 2010, continuarán rigiéndose por las disposiciones vigentes al momento de su radicación.
 
 (Decreto 1469 de 2010, artículo 135)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4.13 — Trámite de licencias por parte de las oficinas municipales encargadas de expedir licencias
 
@@ -19169,8 +17167,6 @@ CAPÍTULO 2.
 
 LICENCIAS URBANÍSTICAS EN SUELO RURAL
 
-ARTÍCULO
-
 ## art:2.2.6.2.1 — Edificación en suelo rural
 
 La expedición de licencias urbanísticas en suelo rural, además de lo dispuesto en el Título anterior, y en la legislación específica aplicable, se sujetará a las siguientes condiciones:
@@ -19189,8 +17185,6 @@ PARÁGRAFO . En ningún caso, se podrán expedir licencias autorizando el desarr
 
 (Decreto 097 de 2006, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.2.2 — Prohibición de parcelaciones en suelo rural
 
 A partir del 17 de enero de 2006, no se podrán expedir licencias de parcelación o construcción autorizando parcelaciones en suelo rural para vivienda campestre, mientras no se incorpore en el Plan de Ordenamiento Territorial la identificación y delimitación precisa de las áreas destinadas a este uso, con la definición de las normas urbanísticas de parcelación, las cuáles deberán tener en cuenta la legislación agraria y ambiental. Esta prohibición cobija a las solicitudes de licencias de parcelación o construcción de parcelaciones en suelo rural para vivienda campestre, que actualmente se encuentran en trámite.
@@ -19201,8 +17195,6 @@ PARÁGRAFO . Los municipios y distritos señalarán los terrenos que deban ser m
 
 (Decreto 097 de 2006, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.2.3 — Actuaciones urbanísticas en suelo suburbano
 
 El suelo suburbano puede ser objeto de desarrollo con restricciones de uso, de intensidad y de densidad, garantizando el autoabastecimiento en servicios públicos domiciliarios, de conformidad con lo establecido en la Ley 99 de 1993 y en la Ley 142 de 1994 o las normas que las adicionen, modifiquen o sustituyan.
@@ -19210,8 +17202,6 @@ El suelo suburbano puede ser objeto de desarrollo con restricciones de uso, de i
 Los municipios y distritos deben establecer las regulaciones complementarias tendientes a impedir el desarrollo de actividades y usos urbanos en estas áreas.
 
 (Decreto 097 de 2006, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.6.2.4 — Cesiones obligatorias
 
@@ -19237,8 +17227,6 @@ PARÁGRAFO 3. Para el otorgamiento de la respectiva licencia se requiere acredit
 
 (Decreto 3600 de 2007, artículo 19, modificado por el Decreto 4066 de 2008, artículo 8,)
 
-ARTÍCULO
-
 ## art:2.2.6.2.5 — Cálculo del Índice de ocupación
 
 Para la aplicación de las disposiciones contenidas en el presente Título, dentro del índice de ocupación únicamente se computarán las áreas de suelo que pueden ser ocupadas por edificación en primer piso bajo cubierta.
@@ -19246,8 +17234,6 @@ Para la aplicación de las disposiciones contenidas en el presente Título, dent
 En todo caso, el índice de ocupación se calculará sobre el área resultante de descontar del área bruta del predio, las áreas para la localización de la infraestructura para el sistema vial principal y de transporte, las redes primarias de servicios públicos, las áreas de conservación y protección de los recursos naturales y paisajísticos y demás afectaciones del predio.
 
 (Decreto 1069 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.6 — Condiciones generales para el otorgamiento de licencias para los distintos usos en suelo rural y rural suburbano
 
@@ -19269,8 +17255,6 @@ En todo caso, la prestación de dichos servicios deberá resolverse de forma int
 
 (Decreto 3600 de 2007, artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.6.2.7 — Régimen de transición para la expedición de licencias
 
 Mientras los municipios y distritos revisan y/o modifican sus planes de ordenamiento territorial y/o adoptan las unidades de planificación rural de acuerdo con las disposiciones contenidas en el presente decreto, en el trámite de estudio y expedición de licencias deberá verificarse que los proyectos de parcelación y edificación en suelo rural y rural suburbano se ajusten a lo dispuesto en el presente decreto en lo relativo a:
@@ -19289,15 +17273,11 @@ PARÁGRAFO 2. Los titulares de licencias de parcelación en suelo rural y rural 
 
 (Decreto 3600 de 2007, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.6.2.8 — Licencias de ampliación de edificaciones existentes
 
 Sin perjuicio de lo dispuesto en la Ley 1228 de 2008, y tratándose de predios ubicados sobre corredores viales suburbanos, el otorgamiento de licencias de ampliación de edificaciones existentes deberá respetar la franja de aislamiento y la calzada de desaceleración de que trata el presente decreto.
 
 (Decreto 4066 de 2008, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.6.2.9 — Obligación de suministrar la información de licencias
 
@@ -19309,8 +17289,6 @@ CAPÍTULO 3.
 
 LICENCIAS URBANÍSTICAS CON POSTERIORIDAD A LA DECLARATORIA DE SITUACIÓN DE DESASTRE O CALAMIDAD PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.6.3.1 — Objeto
 
 Este capítulo constituye un régimen especial que se aplica para la expedición de licencias de urbanismo y construcción por parte de los curadores urbanos o las autoridades municipales o distritales competentes; únicamente para aquellos proyectos inmobiliarios que se pretendan desarrollar con posterioridad a la declaración de situación de desastre o calamidad pública y mientras tal declaratoria subsista. Por tanto, sustituye lo referente a los requisitos y procedimientos generales de las normas existentes para las licencias de construcción y urbanismo.
@@ -19319,15 +17297,11 @@ PARÁGRAFO . No obstante lo establecido en el presente artículo, en lo no conte
 
 (Decreto 2015 de 2001, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.6.3.2 — Declaratoria de situación de desastre o calamidad pública previa
 
 Siempre que medie la declaratoria de situación de desastre o calamidad pública, podrán otorgarse licencias de construcción para la adecuación, reparación y/o reconstrucción de edificaciones a su estado original, en todo, de conformidad con lo previsto en el presente Capítulo.
 
 (Decreto 4550 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.6.3.3 — Excepciones
 
@@ -19341,15 +17315,11 @@ No procederá el otorgamiento de licencias de construcción para la adecuación,
 
 (Decreto 4550 de 2009, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.6.3.4 — Indemnización de las obras
 
 En todos los casos en que no se haya registrado la afectación en los términos artículo 37 de la Ley 9a de 1989 o la norma que lo adicione, modifique o sustituya, procederá la indemnización de las obras de adecuación, reparación o reconstrucción que se hayan autorizado por medio de la respectiva licencia de construcción, dando cumplimiento al artículo precedente.
 
 (Decreto 4550 de 2009, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.6.3.5 — Evaluación de edificaciones
 
@@ -19369,8 +17339,6 @@ PARÁGRAFO . Se entiende por 'estado original' de una edificación, la construcc
 
 (Decreto 2015 de 2001, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.6.3.6 — Licencias
 
 Las edificaciones clasificadas dentro del inventario a que se refiere el artículo anterior, podrán ser adecuadas o construidas, previa licencia de construcción o urbanismo en cualquiera de sus modalidades, con sujeción a las normas de diseño y construcción sismo resistentes y al plan de ordenamiento territorial vigente.
@@ -19387,8 +17355,6 @@ Las obras de rehabilitación y reparación de vivienda rural, equipamientos, pos
 
 (Decreto 2015 de 2001, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.6.3.7 — Requisitos de la licencia
 
 Para adelantar el proceso de adecuación o construcción al estado original de las edificaciones o para la construcción de nuevas edificaciones a que se refiere el presente decreto, sólo deberán presentar al momento de la solicitud de la licencia construcción o urbanismo los siguientes documentos:
@@ -19404,8 +17370,6 @@ Para adelantar el proceso de adecuación o construcción al estado original de l
 PARÁGRAFO . Cuando se trate de la solicitud de licencias de construcción para inmuebles sometidos al régimen de propiedad horizontal, el solicitante deberá acompañar además de los documentos señalados en este artículo, copia del acta de la asamblea general de copropietarios, donde conste la autorización para ejecutar las obras solicitadas, expedida conforme a la ley y reglamento de propiedad horizontal.
 
 (Decreto 2015 de 2001, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.6.3.8 — Documentos para la licencia de construcción
 
@@ -19439,8 +17403,6 @@ Para las solicitudes de licencia de construcción, además de los documentos se�
 
 (Decreto 2015 de 2001, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.6.3.9 — Solicitud de licencias
 
 La solicitud de licencia de construcción para los casos contemplados en el presente decreto, podrán hacerse de manera individual o colectiva ante el curador urbano o autoridad distrital o municipal competente, a través de organizaciones civiles sin ánimo de lucro o asociaciones profesionales. Estas deben contar con un diseñador estructural y un diseñador de elementos no estructurales cuando el alcance de la reparación cubra estos elementos, y quienes deben cumplir los requisitos de idoneidad y experiencia que exige la Ley 400 de 1997.
@@ -19448,8 +17410,6 @@ La solicitud de licencia de construcción para los casos contemplados en el pres
 PARÁGRAFO . Para las situaciones especiales contempladas en el presente Título, las sociedades o asociaciones profesionales o civiles sin ánimo de lucro de reconocida prestancia, o las universidades que tengan programas académicos de pregrado o posgrado en ingeniería civil y arquitectura, podrán recibir por encargo la elaboración de los diseños y proyectos. Para este fin actuarán los profesionales que cumplan los requisitos de idoneidad y experiencia que exige la Ley 400 de 1997.
 
 (Decreto 2015 de 2001, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.6.3.10 — Remuneración de los curadores urbanos
 
@@ -19467,8 +17427,6 @@ SECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.6.4.1.1 — Ámbito de aplicación
 
 El reconocimiento de edificaciones por parte del curador urbano o la autoridad municipal o distrital competente para expedir licencias de construcción, procederá respecto de desarrollos arquitectónicos que se ejecutaron sin obtener la respectiva licencia.
@@ -19484,8 +17442,6 @@ PARÁGRAFO 3. Las construcciones declaradas Monumentos Nacionales y los bienes d
 PARÁGRAFO 4. Los municipios, distritos y el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina establecerán las condiciones para el reconocimiento de las edificaciones públicas con uso dotacional ubicadas en zonas de cesión pública obligatoria, que se destinen a servicios de salud, educación, bienestar social, deportivos y recreativos, abastecimiento de alimentos, seguridad ciudadana y defensa y justicia de las entidades del nivel central o descentralizado de la Rama Ejecutiva del orden nacional, departamental , municipal y distrital. Estas normas también se aplicarán para el reconocimiento de equipamientos destinados a la práctica de los diferentes cultos y a los equipamientos de congregaciones religiosas.
 
 PARÁGRAFO 5. En los municipios y distritos que cuenten con la figura del curador urbano, la solicitud de apoyo técnico y el trámite de las solicitudes de reconocimiento de las viviendas de interés social que se ubiquen en asentamientos que hayan sido objeto de legalización urbanística, se tramitarán ante la oficina de planeación o la dependencia que determine el alcalde mediante acto administrativo, según lo previsto en la sección 3 del presente capítulo.
-
-ARTÍCULO
 
 ## art:2.2.6.4.1.2 — Situaciones en las que no procede el reconocimiento de edificaciones
 
@@ -19503,13 +17459,9 @@ SECCIÓN 2.
 
 TRÁMITE PARA EL RECONOCIMIENTO
 
-ARTÍCULO
-
 ## art:2.2.6.4.2.1 — Titulares del acto de reconocimiento
 
 Podrán ser titulares del acto de reconocimiento las mismas personas que pueden ser titulares de las licencias de construcción, según lo dispuesto en el artículo 2.2.6.1.2.1.5 del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.6.4.2.2 — Requisitos para el reconocimiento
 
@@ -19523,8 +17475,6 @@ Además de los documentos señalados en el artículo 2.2.6.1.2.1.7 del presente 
 
 4. La declaración de la antigüedad de la construcción. Esta declaración se hará bajo la gravedad .de juramento que se entenderá prestada por la presentación de la solicitud.
 
-ARTÍCULO
-
 ## art:2.2.6.4.2.3 — Peritaje técnico para el reconocimiento de la existencia de la edificación
 
 El peritaje técnico de que trata el numeral 3 del artículo anterior del presente decreto, se sujetará a la verificación de lo establecido en la Ley 400 de 1997, el Capítulo A-10 del Reglamento Colombiano de Construcción Sismo Resistente NSR-10 y la Resolución 0017 de 2017 de la Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes, o las normas que las adicionen, modifiquen o sustituyan.
@@ -19533,8 +17483,6 @@ PARÁGRAFO 1. El profesional calificado que realice el peritaje técnico deberá
 
 En el documento que contenga el peritaje técnico se señalarán las obras de reforzamiento que se deben realizar en el inmueble para llevar la edificación al nivel de seguridad y estabilidad indicada en el Reglamento Colombiano de Construcción Sismo Resistente NSR-10 o la norma que lo adicione, modifique o sustituya.
 
-ARTÍCULO
-
 ## art:2.2.6.4.2.4 — Términos para resolver las solicitudes de reconocimiento
 
 El término máximo para resolver las solicitudes de reconocimiento será de cuarenta y cinco (45) días hábiles.
@@ -19542,8 +17490,6 @@ El término máximo para resolver las solicitudes de reconocimiento será de cua
 El procedimiento para resolver las solicitudes de reconocimiento, en lo que fuere aplicable, será el previsto en este decreto para la expedición de las licencias urbanísticas.
 
 PARÁGRAFO . Vencido el plazo sin que los curadores urbanos o las autoridades municipales o distritales se pronuncien sobre la solicitud de reconocimiento, no procederá el silencio administrativo positivo.
-
-ARTÍCULO
 
 ## art:2.2.6.4.2.5 — Acto de reconocimiento de la edificación
 
@@ -19557,15 +17503,11 @@ PARÁGRAFO 3. Cuando fuere necesario reforzar estructuralmente una vivienda de i
 
 PARÁGRAFO 4. En ningún caso el reconocimiento de la existencia de una edificación de que trata este Capítulo constituirá título o modo de tradición de la propiedad:
 
-ARTÍCULO
-
 ## art:2.2.6.4.2.6 — Compensaciones
 
 En el evento en que las normas municipales o distritales exigieran compensaciones por concepto de espacio público y estacionamientos debido al incumplimiento de las cargas urbanísticas asociadas al proceso de edificación, corresponderá a los municipios, distritos y al Departamento Archipiélago de San Andrés, Providencia y Santa Catalina establecer las condiciones para hacer efectiva la compensación, que deberá asumir el titular del acto de reconocimiento.
 
 PARÁGRAFO . Cuando se trate del reconocimiento de viviendas de interés social ubicadas en asentamientos legalizados, los municipios, distritos y el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina tendrán la facultad de no exigir las compensaciones previstas en las normas municipales o distritales.
-
-ARTÍCULO
 
 ## art:2.2.6.4.2.7 — (Derogado por el Art
 
@@ -19575,8 +17517,6 @@ SECCIÓN 3.
 
 RECONOCIMIENTO DE VIVIENDAS DE INTERÉS SOCIAL UBICADAS EN ASENTAMIENTOS LEGALIZADOS URBANISTICAMENTE
 
-ARTÍCULO
-
 ## art:2.2.6.4.3.1 — Reconocimiento de las viviendas ubicadas en asentamientos legalizados urbanísticamente
 
 De conformidad con el artículo 8 de la Ley 1848 de 2017, modificado por el artículo 122 del Decreto Ley 2106 de 2019, los alcaldes de los municipios y distritos, incluso aquellos que cuenten con la figura del curador urbano, tramitarán las solicitudes de reconocimiento de viviendas de interés social que se ubiquen en asentamientos que hayan sido objeto de legalización urbanística, garantizando que dicho procedimiento se adelante sin costo para el solicitante.
@@ -19585,23 +17525,17 @@ PARÁGRAFO 1. Con el fin de mejorar las condiciones de habitabilidad de las vivi
 
 PARÁGRAFO 2. Los aspectos que no sean expresamente reglamentados en esta sección, les aplicarán las condiciones generales previstas en este capítulo.
 
-ARTÍCULO
-
 ## art:2.2.6.4.3.2 — Apoyo técnico para el reconocimiento de las viviendas en asentamientos legalizados
 
 Las oficinas de planeación municipal o distrital, o la entidad que haga sus veces, deberán apoyar técnicamente a los interesados en adelantar el reconocimiento de las viviendas de interés social que se ubiquen en asentamientos que hayan sido objeto de legalización urbanística, en especial en lo relacionado con el levantamiento arquitectónico de la construcción y el peritaje técnico, por tratarse de documentos exigidos para iniciar el trámite del reconocimiento.
 
 PARÁGRAFO . De conformidad con el parágrafo del artículo 9 de la Ley 1848 de 2017, modificado por el artículo 123 del Decreto Ley 2106 de 2019, cuando se acuda a la celebración de contratos o convenios con universidades acreditadas por el Ministerio de Educación Nacional que cuenten con facultades de arquitectura y/o ingeniería, para adelantar el levantamiento arquitectónico de la construcción y el peritaje técnico, quienes suscriban estos documentos técnicos, deberán reunir las calidades que se indican en el Título VI de la Ley 400 de 1997 y el Reglamento Colombiano de Construcción Sismo Resistente NSR-10, o las normas que los adicionen, modifiquen o sustituyan, y firmarán estos documentos haciéndose responsables legalmente de los resultados de los estudios técnicos.
 
-ARTÍCULO
-
 ## art:2.2.6.4.3.3 — Evaluación de la vulnerabilidad y reforzamiento estructural de las viviendas en asentamientos legalizados
 
 La evaluación de vulnerabilidad y reforzamiento estructural de las viviendas de interés social ubicadas en asentamientos legalizados se sujetará a la verificación de las normas de sismo resistencia que le sean aplicables en los términos previstos en la Ley 400 de 1997 y el Reglamento Colombiano de Construcción Sismo Resistente NSR-10, o las normas que las adicionen, modifiquen o sustituyan, en lo relacionado con la intervención de viviendas de origen informal.
 
 PARÁGRAFO . Para lo previsto en el presente artículo se podrán emplear las metodologías alternas contenidas en el Capítulo A-10 del Reglamento Colombiano de Construcción Sismo Resistente NSR-10 o las normas que las adicionen, modifiquen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.6.4.3.4 — Régimen de transición
 
@@ -19612,8 +17546,6 @@ CAPÍTULO 5
 (Capítulo modificado por el Art. 2 del Decreto 149 de 2020)
 
 LEGALIZACIÓN URBANÍSTICA DE ASENTAMIENTOS HUMANOS
-
-ARTÍCULO
 
 ## art:2.2.6.5.1 — Legalización urbanística
 
@@ -19631,15 +17563,11 @@ PARÁGRAFO. Para efectos del parágrafo 1 0 del artículo 17 de la Ley 2044 de 2
 
 (Modifica Art 6 del decreto 1470 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2 — Independencia de la legalización urbanística frente a los procesos de titulación
 
 Los procesos de titulación previstos en el artículo 277 de la Ley 1955 de 2019 y el presente Decreto, podrán adelantarse de manera independiente del proceso de legalización urbanística de asentamientos humanos de que trata este Capítulo.
 
 PARÁGRAFO . En todo caso, para adelantar el proceso de titulación, los municipios y distritos, deberán respetar los espacios públicos, vías públicas, obras de infraestructura de servicios públicos domiciliarios y equipamientos existentes en el asentamiento humano, de acuerdo con lo previsto en el numeral 1 del artículo 2.1.2.2.2.2 del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.6.5.3 — Improcedencia de la legalización urbanística
 
@@ -19661,8 +17589,6 @@ SECCIÓN 1
 
 PROCESO DE LEGALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.1 — Iniciativa del proceso de legalización urbanística
 
 Sin perjuicio de lo establecido en el artículo 48 de la Ley 9 a de 1989 o la norma que lo adicione, modifique o sustituya, el proceso de legalización se podrá iniciar de oficio por la autoridad municipal o distrital facultada para el efecto o por solicitud de la parte interesada.
@@ -19681,8 +17607,6 @@ El apoyo técnico y financiero de que trata el presente parágrafo se brindará 
 
 (Adiciona Art 9 del decreto 1470 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.6.5.1.2 — De la solicitud de legalización urbanística
 
 Los interesados en que se adelante el proceso de legalización urbanística presentarán ante la autoridad competente del municipio o distrito, una solicitud que contendrá como mínimo lo siguiente:
@@ -19694,8 +17618,6 @@ Los interesados en que se adelante el proceso de legalización urbanística pres
 3. Manifestación del interés en la intervención y declaración por la que se indique si asumirá los costos del proceso de legalización, si lo hará un tercero o si solicita que lo haga el municipio o distrito,
 
 (Adiciona Art 10 del decreto 1470 de 2024)
-
-ARTÍCULO
 
 ## art:2.2.6.5.1.3 — Anexos a la solicitud de legalización urbanística
 
@@ -19710,8 +17632,6 @@ En el evento en que el proceso de legalización sea de iniciativa particular o c
 SECCIÓN 2
 
 TRÁMITE DE LA SOLICITUD DE LEGALIZACIÓN
-
-ARTÍCULO
 
 ## art:2.2.6.5.2.1 — Evaluación de la documentación
 
@@ -19731,8 +17651,6 @@ Una vez entregados los planos y los documentos corregidos en debida forma, la Of
 
 En los casos en que no sea procedente el proceso de legalización se comunicará a los interesados mediante acto administrativo motivado, contra el cuál procederán los recursos previstos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.2 — Vinculación del urbanizador, el propietario y terceros interesados
 
 Cuando el trámite de legalización sea iniciado por personas diferentes al urbanizador o el propietario del predio o predios de mayor extensión , una vez se expida el acto, administrativo que define la procedencia del trámite de legalización previsto en el artículo anterior, la autoridad competente, mediante correo certificado, comunicará al urbanizador o propietario inscrito de acuerdo con lo indicado por el interesado, sobre la iniciación del proceso y lo citará para que comparezca y se haga parte dentro del trámite administrativo para hacer valer sus derechos y determinar la .forma en que se hará la entrega de las áreas que conforman el espacio público, vías públicas, obras de infraestructura de servicios públicos domiciliarios y equipamientos.
@@ -19740,8 +17658,6 @@ Cuando el trámite de legalización sea iniciado por personas diferentes al urba
 Igualmente, conforme a lo previsto en el Capítulo V del Título III de la Parte Primera del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, la autoridad competente hará una publicación en un diario de amplia circulación, en la que comunique a todos los terceros que puedan estar interesados o puedan resultar afectados con las decisiones que se tomen en el proceso de legalización, sobre la iniciación del mismo, indicando el número de radicación, los horarios y dependencias en que pueden consultar el expediente. Copia de esta comunicación y de la publicación se anexarán al expediente, al igual que el acta de la visita al terreno de que trata el artículo anterior.
 
 En los eventos en que el urbanizador o propietario de los terrenos no concurra o no preste su consentimiento para el cumplimiento de las, obligaciones, el proceso de legalización podrá continuar siempre y cuando el responsable del trámite o la comunidad afectada se comprometan de manera independiente a entregar las áreas que conforman el espacio público, vías públicas, obras de infraestructura de servicios públicos domiciliarios y equipamientos. Para tal efecto, se suscribirá un acta de compromiso entre el responsable del trámite o la comunidad afectada y la Oficina de Planeación Municipal o Distrital, o la entidad que haga sus veces, en la cuál se detallará la ubicación de dichas áreas y el término para su entrega al respectivo municipio o distrito.
-
-ARTÍCULO
 
 ## art:2.2.6.5.2.3 — Definición de las condiciones urbanísticas, y del estudio urbanístico final
 
@@ -19762,15 +17678,11 @@ PARÁGRAFO. Una vez iniciado el proceso de legalización urbanística, las empre
 
 (Modifica Art 12 del decreto 1470 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.4 — Publicidad del estudio urbanístico final
 
 La Oficina de Planeación Municipal o Distrital, o la entidad que haga sus veces, someterá a consideración de la comunidad y del propietario del terreno o urbanizador, cuando se haga parte dentro del proceso, por el término de diez (10) días, el estudio urbanístico final, con el fin de dar a conocer los derechos y obligaciones derivados del mismo. Para el efecto, se fijará en la cartelera de dicha dependencia y en su página Web, si cuenta con esta, un aviso informando el lugar, fechas y horarios de consulta del estudio, advirtiendo que las objeciones o recomendaciones que se hagan frente al mismo se deberán presentar por escrito a más tardar el último día de consulta del estudio. En el aviso se dejará constancia de la fecha y hora de fijación y de desfijación del mismo.
 
 PARÁGRAFO . Las entidades territoriales adelantarán talleres informativos y de socialización sobre el proceso de legalización y los resultados del estudio urbanístico final, cómo mecanismo complementario de publicidad.
-
-ARTÍCULO
 
 ## art:2.2.6.5.2.5 — Resolución de la legalización urbanística
 
@@ -19792,8 +17704,6 @@ PARÁGRAFO 5. La modificación, ajuste o actualización de la resolución de la 
 
 (Modifica Art 13 del decreto 1470 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.6.5.2.6 — Régimen de transición
 
 Las solicitudes de legalización urbanística de asentamientos humanos presentadas antes de la entrada en vigencia de la presente modificación al capítulo 5 del Título 6 de la Parte 2 del Libro 2 del Decreto 1077 de 2015, continuarán rigiéndose por las disposiciones vigentes al momento de su radiación.
@@ -19808,15 +17718,11 @@ SECCIÓN 1.
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.1 — Curador urbano
 
 El curador urbano es un particular encargado de estudiar, tramitar y expedir licencias de parcelación, urbanización, construcción y subdivisión de predios, a petición del interesado en adelantar proyectos de esta índole.
 
 (Decreto 1469 de 2010, artículo 73)
-
-ARTÍCULO
 
 ## art:2.2.6.6.1.2 — Naturaleza de la función del curador urbano
 
@@ -19824,15 +17730,11 @@ El curador urbano ejerce una función pública para la verificación del cumplim
 
 (Decreto 1469 de 2010, artículo 74)
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.3 — Autonomía y responsabilidad del curador urbano
 
 El curador urbano es autónomo en el ejercicio de sus funciones y responsable disciplinaria, fiscal, civil y penalmente por los daños y perjuicios que causen a los usuarios, a terceros o a la administración pública en el ejercicio de su función pública.
 
 (Decreto 1469 de 2010, artículo 75)
-
-ARTÍCULO
 
 ## art:2.2.6.6.1.4 — Interpretación de las normas
 
@@ -19844,8 +17746,6 @@ La interpretación que realice la autoridad de planeación, en tanto se utilice 
 
 (Decreto 1469 de 2010, artículo 76)
 
-ARTÍCULO
-
 ## art:2.2.6.6.1.5 — Jurisdicción
 
 Para efectos del presente capítulo se entiende por jurisdicción el ámbito espacial sobre el cuál puede actuar el curador urbano. La jurisdicción comprende la totalidad del territorio del municipio o distrito, salvo aquellas áreas que se señalen en las normas urbanísticas y en el Plan de Ordenamiento Territorial cómo no aptas para la ejecución de actuaciones urbanísticas o que tengan expresamente restricciones especiales.
@@ -19856,8 +17756,6 @@ SECCIÓN 2.
 
 DESIGNACIÓN DE CURADORES URBANOS
 
-ARTÍCULO
-
 ## art:2.2.6.6.2.1 — Número de curadores urbanos
 
 Los municipios y distritos podrán establecer, previo concepto favorable del Ministerio de Vivienda, Ciudad y Territorio, el número de curadores urbanos en su jurisdicción, teniendo en cuenta la actividad edificadora, el volumen de las solicitudes de licencias urbanísticas, las necesidades del servicio y la sostenibilidad de las curadurías urbanas.
@@ -19865,8 +17763,6 @@ Los municipios y distritos podrán establecer, previo concepto favorable del Min
 En todo caso, cuando el municipio o distrito opte por la figura del curador urbano, garantizará que este servicio sea prestado, al menos, por dos de ellos.
 
 (Decreto 1469 de 2010, artículo 78)
-
-ARTÍCULO
 
 ## art:2.2.6.6.2.2 — Estudios técnicos
 
@@ -19877,8 +17773,6 @@ Para la emisión del concepto previo de que trata el inciso anterior, los munici
 Los municipios o distritos que decidan designar curadores adicionales a los ya existentes, también deberán elaborar y remitir al Ministerio de Vivienda, Ciudad y Territorio copia del estudio técnico que justifique la nueva designación. La aprobación de ese estudio por parte del Ministro de Vivienda, Ciudad y Territorio, mediante resolución, será condición para la convocatoria al concurso.
 
 (Decreto 1469 de 2010, artículo 79)
-
-ARTÍCULO
 
 ## art:2.2.6.6.2.3 — 
 
@@ -19891,8 +17785,6 @@ SECCIÓN 3
 (Modificado Decreto 1203 de 2017, artículo 19)
 
 CONCURSO DE MÉRITOS
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.1 — Concurso de méritos para la designación de curadores urbanos
 
@@ -19918,8 +17810,6 @@ PARÁGRAFO 4. El alcalde, para la designación del curador, deberá verificar qu
 
 Si el curador requiriere realizar modificaciones al grupo interdisciplinario, el nuevo profesional asignado deberá cumplir con las mismas o superiores calidades del profesional que se está reemplazando. En este evento, quién fuere designado curador, informará del reemplazo a la Superintendencia de Notariado y Registro.
 
-ARTÍCULO
-
 ## art:2.2.6.6.3.2 — Convocatoria pública
 
 Corresponderá a la Superintendencia de Notariado y Registro establecer los términos de la convocatoria pública al concurso de méritos antes del vencimiento del período individual de los curadores urbanos.
@@ -19927,8 +17817,6 @@ Corresponderá a la Superintendencia de Notariado y Registro establecer los tér
 PARÁGRAFO 1. Los curadores urbanos que se encuentren ejerciendo el cargo a la fecha de la apertura de la convocatoria del concurso de méritos podrán inscribirse y participar en el mismo, así cómo aspirar a una curaduría diferente de aquella en la que ejercen sus funciones.
 
 PARÁGRAFO TRANSITORIO. En los procesos de selección de los Curadores Urbanos en los que se haya publicado la convocatoria del concurso antes de entrar en vigencia el título IV de la Ley 1796 de 2016, se continuará el proceso de selección hasta su culminación aplicando las normas vigentes al momento de su publicación. Los procesos de selección en los cuáles no se haya publicado la convocatoria deberán acogerse a lo dispuesto en la Ley 1796 de 2016.
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.3 — Requisitos para concursar
 
@@ -19946,13 +17834,9 @@ e) Acreditar la colaboración del grupo interdisciplinario especializado que apo
 
 f) Inscribirse y aprobar el concurso de designación de curadores urbanos de que trata la ley.
 
-ARTÍCULO
-
 ## art:2.2.6.6.3.4 — Calificación de los participantes en el concurso de méritos
 
 La calificación de los aspirantes admitidos al concurso de méritos se realizará de acuerdo con los requisitos, factores de evaluación y criterios de calificación que se establezcan conjuntamente entre la Superintendencia de Notariado y Registro, el Departamento Administrativo de la Función Pública y el Ministerio de Vivienda, Ciudad y Territorio.
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.5 — Conformación de la lista de elegibles
 
@@ -19964,21 +17848,15 @@ PARÁGRAFO . La lista de elegibles tendrá una vigencia de tres (3) años contad
 
 Vencido el término de vigencia de la lista de elegibles o agotada la lista de elegibles, si se presenta una falta absoluta o temporal del curador, el Alcalde seleccionará su reemplazo entre las personas que hacen parte del grupo interdisciplinario, siempre y cuando cumpla con los requisitos legales establecidos para ser designado cómo curador urbano, caso en el cuál la persona se desempeñará hasta agotarse el período por el que fue designado el curador y se realice un nuevo concurso.
 
-ARTÍCULO
-
 ## art:2.2.6.6.3.6 — Designación
 
 El Departamento Administrativo de la Función Pública informará al Alcalde del municipio o distrito los resultados del concurso de tal forma que, en el marco de sus competencias, realice la designación de los curadores urbanos. Para estos efectos, se notificará personalmente a quién resulte elegible en el primer puesto, según los resultados del concurso, para que manifieste por escrito la aceptación de la designación cómo curador urbano, de acuerdo con los términos y condiciones señalados en la normativa relativa a la función pública.
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.7 — Continuidad
 
 Con el fin de garantizar la continuidad del servicio, los curadores urbanos que fueren designados nuevamente en la misma curaduría, para continuar desempeñando la función pública de estudio, trámite y expedición de licencias, conservarán el número con el cuál se identificaron desde la primera o anterior designación y proseguirán con el trámite de las solicitudes de licencias en curso que se adelantaban ante el mismo. En el acto de designación se dejará constancia del número correspondiente a cada curador urbano.
 
 (Decreto 1469 de 2010, artículo 87)
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.8 — Publicación de resultados y recursos
 
@@ -19987,8 +17865,6 @@ El acto administrativo que contenga los resultados parciales y totales que se ob
 Los recursos se resolverán en los términos establecidos en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 1469 de 2010, artículo 88)
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.9 — Conformación de la lista de elegibles
 
@@ -20004,15 +17880,11 @@ PARÁGRAFO 3. Será causal de retiro de la lista de elegibles el fraude comproba
 
 (Decreto 1469 de 2010, artículo 89)
 
-ARTÍCULO
-
 ## art:2.2.6.6.3.10 — Designación
 
 La designación de los curadores urbanos se notificará personalmente a quién resulte elegible por parte del alcalde municipal o distrital, o su delegado, para que aquel manifieste por escrito, dentro del término de treinta días calendario, la aceptación de la designación cómo curador urbano.
 
 (Decreto 1469 de 2010, artículo 90)
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.11 — No aceptación de la designación
 
@@ -20024,8 +17896,6 @@ Se entiende que el elegible no acepta su designación cómo curador urbano en lo
 
 (Decreto 1469 de 2010, artículo 91)
 
-ARTÍCULO
-
 ## art:2.2.6.6.3.12 — Posesión del curador urbano
 
 Quién resulte designado cómo curador urbano deberá posesionarse ante el alcalde municipal o distrital dentro de los treinta (30) días calendario siguiente a la aceptación de la designación.
@@ -20036,15 +17906,11 @@ PARÁGRAFO . Además de lo señalado en el artículo 15 de la Ley 190 de 1995, q
 
 (Decreto 1469 de 2010, artículo 92)
 
-ARTÍCULO
-
 ## art:2.2.6.6.3.13 — Continuidad
 
 Con el fin de garantizar la continuidad del servicio, los curadores urbanos que fueren redesignados para continuar desempeñando la función pública de estudio, trámite y expedición de licencias, conservarán el número con el cuál se identificaron desde la primera o anterior designación y proseguirán con el trámite de las solicitudes de licencias en curso que se adelantaban ante el mismo. En el acto de designación se dejará constancia del número correspondiente a cada curador urbano.
 
 (Decreto 1469 de 2010, artículo 93)
-
-ARTÍCULO
 
 ## art:2.2.6.6.3.14 — Transición de las entidades municipales o distritales a los curadores urbanos
 
@@ -20056,8 +17922,6 @@ SECCIÓN 4.
 
 REDESIGNACIÓN DE CURADORES URBANOS
 
-ARTÍCULO
-
 ## art:2.2.6.6.4.1 — Procedimiento en caso de redesignación de curadores urbanos
 
 Los curadores urbanos en ejercicio podrán aspirar a ser redesignados previa evaluación de su desempeño y aprobación del concurso de méritos en los términos de que trata el Capítulo anterior. Corresponderá al alcalde municipal o distrital, o quién este delegue para el efecto, adelantar los trámites para la evaluación del desempeño del curador urbano durante el período individual para el cuál fue designado, la cuál se efectuará con entidades públicas o privadas expertas en selección de personal y con capacidad para realizar el proceso de evaluación, de conformidad con las condiciones y términos que se establecen en el presente decreto.
@@ -20065,8 +17929,6 @@ Los curadores urbanos en ejercicio podrán aspirar a ser redesignados previa eva
 PARÁGRAFO . No podrán ser redesignados cómo curadores urbanos quienes con su conducta dolosa o gravemente culposa hayan dado lugar a condenas contra el Estado, cualquiera sea la naturaleza de la acción.
 
 (Decreto 1469 de 2010, artículo 95)
-
-ARTÍCULO
 
 ## art:2.2.6.6.4.2 — Calificación del desempeño
 
@@ -20086,15 +17948,11 @@ PARÁGRAFO 2. Corresponde a los alcaldes determinar las demás condiciones para 
 
 (Decreto 1469 de 2010, artículo 96)
 
-ARTÍCULO
-
 ## art:2.2.6.6.4.3 — Notificación de resultados y recursos
 
 Los puntajes que se obtengan en la calificación del desempeño serán notificados personalmente a los curadores urbanos evaluados. Contra el acto administrativo de calificación procederá el recurso de reposición que deberán presentar por escrito los interesados, dentro de los cinco (5) días hábiles siguientes a su notificación.
 
 (Decreto 1469 de 2010, artículo 97)
-
-ARTÍCULO
 
 ## art:2.2.6.6.4.4 — Evaluación anual del servicio
 
@@ -20116,8 +17974,6 @@ PARÁGRAFO 2. El acto administrativo que contiene los resultados de la evaluaci�
 
 (Decreto 1469 de 2010, artículo 98)
 
-ARTÍCULO
-
 ## art:2.2.6.6.4.5 — Evaluación anual del servicio en los municipios y distritos con sistema de categorización de trámites por complejidad
 
 Una vez se haya implementado el sistema de categorización de que tratan los artículos 2.2.6.1.2.1.3 y 2.2.6.1.2.1.4 del presente decreto, en la calificación de los curadores urbanos, se tendrá en cuenta además de los factores de evaluación anual del servicio establecidos en los numerales 1 a 4 y los parágrafos 1 y 2 del artículo anterior, un quinto factor de evaluación, así:
@@ -20134,8 +17990,6 @@ SECCIÓN 5.
 
 SITUACIONES ADMINISTRATIVAS
 
-ARTÍCULO
-
 ## art:2.2.6.6.5.1 — Faltas temporales
 
 Se consideran faltas temporales de los curadores urbanos, las siguientes:
@@ -20146,8 +18000,6 @@ Se consideran faltas temporales de los curadores urbanos, las siguientes:
 
 (Decreto 1469 de 2010, artículo 100)
 
-ARTÍCULO
-
 ## art:2.2.6.6.5.2 — Designación provisional
 
 En el caso de que trata el numeral 1 del artículo anterior, corresponderá al alcalde municipal o distrital designar al curador provisional, quién deberá reunir los mismos requisitos para ser curador urbano y podrá pertenecer al grupo interdisciplinario especializado adscrito a la curaduría.
@@ -20157,8 +18009,6 @@ Tratándose de suspensión provisional ordenada por la autoridad competente, cor
 PARÁGRAFO . El curador provisional estará sujeto al mismo régimen de inhabilidades, incompatibilidades, impedimentos y faltas disciplinarias de los curadores urbanos.
 
 (Decreto 1469 de 2010, artículo 101)
-
-ARTÍCULO
 
 ## art:2.2.6.6.5.3 — Faltas absolutas
 
@@ -20182,8 +18032,6 @@ Se consideran faltas absolutas de los curadores urbanos, las siguientes:
 
 (Decreto 1469 de 2010, artículo 102)
 
-ARTÍCULO
-
 ## art:2.2.6.6.5.4 — Designación del reemplazo en caso de falta absoluta
 
 En caso de falta absoluta del curador urbano, el alcalde municipal o distrital designará en su reemplazo, y por un nuevo período individual, al siguiente candidato de la lista de elegibles vigente.
@@ -20198,8 +18046,6 @@ PARÁGRAFO . Ante la falta absoluta de todos los curadores urbanos de un municip
 
 (Decreto 1469 de 2010, artículo 103)
 
-ARTÍCULO
-
 ## art:2.2.6.6.5.5 — Entrega de archivos
 
 Sin perjuicio de lo dispuesto en la Ley 594 de 2000 y su reglamento, el curador urbano saliente deberá entregar a quién se haya posesionado en su reemplazo, definitiva o provisionalmente, los expedientes que estuvieran cursando trámite. En caso de faltas absolutas y cuando no se hubiere designado el reemplazo del curador urbano saliente, este último deberá remitir los expedientes que estuvieren en curso, de manera inmediata, a la autoridad municipal o distrital de planeación, o la entidad que haga sus veces, la cuál podrá asignar el asunto o distribuirlo por reparto entre los curadores urbanos que continúen prestando esta función.
@@ -20208,15 +18054,11 @@ PARÁGRAFO . El pago de las expensas correspondientes a los expedientes en trám
 
 (Decreto 1469 de 2010, artículo 104)
 
-ARTÍCULO
-
 ## art:2.2.6.6.5.6 — Obligación del curador saliente
 
 Tratándose de renuncia, permiso y terminación del período deberá el curador facilitar, permitir y procurar la continuidad de la prestación del servicio hasta tanto asuma la responsabilidad quién habrá de reemplazarlo.
 
 (Decreto 1469 de 2010, artículo 105)
-
-ARTÍCULO
 
 ## art:2.2.6.6.5.7 — Régimen de inhabilidades, incompatibilidades e impedimentos
 
@@ -20227,8 +18069,6 @@ En ejercicio de sus funciones, a los curadores urbanos se les aplicará, en lo p
 SECCIÓN 6.
 
 PRESTACIÓN DEL SERVICIO
-
-ARTÍCULO
 
 ## art:2.2.6.6.6.1 — 
 
@@ -20256,8 +18096,6 @@ PARÁGRAFO 3. Lo dispuesto en el presente artículo, no aplicará para las solic
 
 (Parágrafo 3, adicionado por el Art. 2 del Decreto 1333 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.6.6.6.2 — Despacho al público del curador urbano
 
 Sin perjuicio de lo dispuesto en el artículo 9 de la Ley 962 de 2005, los curadores urbanos tendrán las horas de despacho público que sean necesarias para un buen servicio, sin que su jornada pueda ser inferior a ocho (8) horas diarias en jornada laboral diurna.
@@ -20268,15 +18106,11 @@ PARÁGRAFO . Los alcaldes de los municipios y distritos cuya población en la ca
 
 (Decreto 1469 de 2010, artículo 108)
 
-ARTÍCULO
-
 ## art:2.2.6.6.6.3 — Recurso humano del curador urbano
 
 Los curadores urbanos deberán contar con el grupo interdisciplinario especializado que apoyará su labor, cómo mínimo en materia jurídica, arquitectónica y de la ingeniería civil especializada en estructuras. Al menos uno de los miembros del grupo interdisciplinario deberá reunir las mismas calidades del curador para suplirlo en los casos de faltas temporales, en los términos de que trata la Sección 5 del presente Capítulo.
 
 (Decreto 1469 de 2010, artículo 109)
-
-ARTÍCULO
 
 ## art:2.2.6.6.6.4 — Conexión electrónica con las oficinas de planeación
 
@@ -20284,15 +18118,11 @@ Los municipios y distritos, al momento de convocar el concurso de que trata la S
 
 (Decreto 1469 de 2010, artículo 110)
 
-ARTÍCULO
-
 ## art:2.2.6.6.6.5 — Utilización de sistemas electrónicos de archivos y transmisión de datos
 
 De conformidad con lo previsto en el artículo 6 de la Ley 962 de 2005, los curadores urbanos deberán habilitar sistemas de transmisión electrónica de datos para que los usuarios envíen o reciban la información requerida en sus actuaciones frente a las materias objeto de la curaduría.
 
 (Decreto 1469 de 2010, artículo 111)
-
-ARTÍCULO
 
 ## art:2.2.6.6.6.6 — Actuación coordinada
 
@@ -20308,23 +18138,17 @@ SECCIÓN 7.
 
 VIGILANCIA Y CONTROL
 
-ARTÍCULO
-
 ## art:2.2.6.6.7.1 — Vigilancia y Control
 
 El régimen disciplinario especial para los curadores urbanos se aplicará por parte de la Superintendencia de Notariado y Registro, sin perjuicio del poder preferente que podrá ejercer la Procuraduría General de la Nación.
 
 (Decreto 1469 de 2010, artículo 113, Modificado Decreto 1203 de 2017, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.6.6.7.2 — Régimen disciplinario de los curadores urbanos
 
 A los curadores urbanos se les aplica en el ejercicio de sus funciones públicas y en lo pertinente, el régimen disciplinario de la Ley 734 de 2002 o la norma que la adicione, modifique o sustituya.
 
 (Decreto 1469 de 2010, artículo 114)
-
-ARTÍCULO
 
 ## art:2.2.6.6.7.3 — Coordinación y seguimiento del curador urbano
 
@@ -20337,8 +18161,6 @@ En desarrollo de las funciones de coordinación y seguimiento, el Ministerio Viv
 SECCIÓN 8.
 
 EXPENSAS POR TRÁMITES ANTE LOS CURADORES URBANOS
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.1 — Expensas por los trámites ante los curadores urbanos
 
@@ -20362,8 +18184,6 @@ PARÁGRAFO 4. En ningún caso las autoridades municipales o distritales encargad
 
 (Decreto 1469 de 2010, artículo 116, Modificado Decreto 1203 de 2017, artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.2 — Pago de los impuestos, gravámenes, tasas, participaciones y contribuciones asociadas a la expedición de licencias
 
 Modificado por el Decreto 2218 de 2015 El pago de los impuestos, gravámenes, tasas, participaciones y contribuciones asociados a la expedición de licencias, será independiente del pago de las expensas por los trámites ante el curador urbano.
@@ -20383,8 +18203,6 @@ PARÁGRAFO 3. El pago de la participación en plusvalía sólo será exigible cu
 3. En tratándose de edificaciones sometidas al régimen de propiedad horizontal, cuando se presente el hecho generador contenido en el numeral 3 del artículo 74 de la ley 388 de 1997, la liquidación se debe efectuar teniendo en cuenta el área del predio de mayor extensión sobre el cuál se levanta la propiedad horizontal e inscribirse únicamente en el certificado de tradición y libertad del predio matriz que lo identifica, ya que las unidades privadas resultantes de la propiedad horizontal no pueden de manera individual hacer uso del mayor potencial de construcción.
 
 (Decreto 1469 de 2010, artículo 117)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.3 — Fórmula para el cobro de las expensas por licencias y modalidades de las licencias
 
@@ -20501,8 +18319,6 @@ PARÁGRAFO 2. Los curadores deberán tener en lugar visible a disposición de lo
 PARÁGRAFO TRANSITORIO. Las solicitudes de licencias radicadas en legal y debida forma antes del 3 de mayo de 2010, se liquidarán con arreglo a las tarifas que se encontraren vigentes al momento de la solicitud.
 
 (Decreto 1469 de 2010, artículo 118)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.4 — Asignación del factor municipal
 
@@ -20656,8 +18472,6 @@ PARÁGRAFO . De conformidad con lo establecido en el presente decreto, el Minist
 
 (Decreto 1469 de 2010, artículo 119)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.5 — Radicación de las solicitudes de licencias
 
 Además de los requisitos contemplados en la Subsección 1 de la Sección 2 del Capítulo 1 del presente Título, será condición para la radicación ante las curadurías urbanas de toda solicitud de licencia de urbanización y construcción o sus modalidades, el pago al curador del cargo fijo "Cf" establecido en el presente decreto.
@@ -20666,15 +18480,11 @@ Dicho cargo no se reintegrará al interesado en caso de que la solicitud de lice
 
 (Decreto 1469 de 2010, artículo 120)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.6 — Liquidación de las expensas para las licencias de urbanización y parcelación
 
 Para la liquidación de las expensas por las licencias de urbanización y parcelación, el factor j de que trata el presente decreto, se aplicará sobre el área bruta del predio o predios objeto de la solicitud.
 
 (Decreto 1469 de 2010, artículo 121)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.7 — Liquidación de las expensas para las licencias de construcción
 
@@ -20696,15 +18506,11 @@ PARÁGRAFO 2. La liquidación de expensas por la expedición de licencias de con
 
 (Decreto 1469 de 2010, artículo 122, Modificado Decreto 1203 de 2017, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.8 — Liquidación de las expensas para licencias simultáneas de urbanización, parcelación y construcción
 
 La expensa se aplicará individualmente por cada licencia.
 
 (Decreto 1469 de 2010, artículo 123)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.9 — Liquidación de las expensas para licencias de urbanización y construcción por etapas
 
@@ -20712,15 +18518,11 @@ Las expensas que se generen a favor del curador urbano corresponderán a la etap
 
 (Decreto 1469 de 2010, artículo 124)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.10 — Liquidación de las expensas para las modificaciones de licencias vigentes
 
 Para la liquidación de las expensas de las modificaciones de licencias vigentes de urbanización, parcelación y construcción que no impliquen incremento del área aprobada, se aplicará el factor j de que trata el artículo 2.2.6.6.8.3 presente decreto sobre el treinta por ciento (30%) del área a intervenir del inmueble objeto de la solicitud.
 
 (Decreto 1469 de 2010, artículo 125)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.11 — Expensas por licencias de subdivisión
 
@@ -20752,8 +18554,6 @@ Más de 20.000 m2
 
 (Decreto 1469 de 20 10, art. 126)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.12 — Expensas en los casos de expedición de licencias de construcción individual de vivienda de interés social
 
 Las solicitudes de licencia de construcción individual de vivienda de interés social unifamiliar bifamiliar en los estratos 1, 2 y 3, generarán en favor del curador una expensa única equivalente a 8,34 Unidad de Valor Tributario - UVT al momento de la radicación por cada unidad de vivienda. En estos casos, las expensas se liquidarán al 50%, según lo dispuesto en el Artículo 11 de la Ley 810 de 2003.
@@ -20761,8 +18561,6 @@ Las solicitudes de licencia de construcción individual de vivienda de interés 
 (Modificado por el artículo 3 de la ley 1890 de 2021)
 
 (Decreto 1469 de 2010, artículo 127)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.13 — Expensas por prórrogas de licencias y revalidaciones
 
@@ -20775,8 +18573,6 @@ PARÁGRAFO TRANSITORIO . Las expensas por la expedición de los actos administra
 (Parágrafo transitorio, Adicionado por el Art. 3 del Decreto 1019 de 2021)
 
 (Decreto 1469 de 2010, artículo 128)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.14 — Expensas por reconocimiento de edificaciones
 
@@ -20793,8 +18589,6 @@ PARÁGRAFO 2. Tratándose de solicitudes individuales de reconocimiento de vivie
 PARÁGRAFO 3. Lo dispuesto en el presente artículo, no aplicará para las solicitudes de reconocimiento de viviendas de interés social que se ubiquen en asentamientos que hayan sido objeto de legalización urbanística, ya que de conformidad con lo dispuesto en el artículo 8 de la Ley 1848 de 2017, modificado por el artículo 122 del Decreto Ley 2106 de 2019, el reconocimiento de estas viviendas corresponde tramitarlo a los alcaldes de los municipios y distritos, o las entidades del nivel central o descentralizado de la rama ejecutiva del municipio o distrito que estos definan, sin costo para el solicitante."
 
 (Parágrafo 3, adicionado por el Art. 3 del Decreto 1333 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.6.6.8.15 — Expensas por otras actuaciones
 
@@ -20898,8 +18692,6 @@ Hasta tanto no se aprueben expensas para nuevas actuaciones, los curadores urban
 
 (Decreto 1469 de 2010, artículo 130)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.16 — Pago de expensas en caso de faltas absolutas del curador urbano
 
 El pago de las expensas correspondientes a los expedientes en trámite de que trata el artículo 2.2.6.6.5.5 del presente decreto, en caso de falta absoluta del curador urbano, se realizará de la siguiente manera:
@@ -20910,8 +18702,6 @@ El pago de las expensas correspondientes a los expedientes en trámite de que tr
 
 (Decreto 1469 de 2010, artículo 131)
 
-ARTÍCULO
-
 ## art:2.2.6.6.8.17 — Facturas por pago de expensas
 
 Los curadores urbanos deben expedir facturas por concepto de pago de las expensas, en los términos que para el efecto determine el Estatuto Tributario y demás normas que lo reglamenten.
@@ -20921,8 +18711,6 @@ Los curadores urbanos deben expedir facturas por concepto de pago de las expensa
 SECCIÓN 9.
 
 COMISIONES DE VEEDURÍA DE LAS CURADURÍAS URBANAS
-
-ARTÍCULO
 
 ## art:2.2.6.6.9.1 — Comisiones de veeduría de las Curadurías Urbanas
 
@@ -20949,8 +18737,6 @@ PARÁGRAFO 3. Para la designación del representante de que trata el numeral 2 d
 El representante de las asociaciones gremiales sin ánimo de lucro o fundaciones cuyas actividades tengan relación directa con el sector de la construcción o el desarrollo urbano, será elegido para un período de dos años, el cuál se empezará a contar a partir del 1 de enero de 2011. En consecuencia, la elección de dicho representante se realizará en el año inmediatamente anterior a la fecha señalada.
 
 (Decreto 1469 de 2010, artículo 133)
-
-ARTÍCULO
 
 ## art:2.2.6.6.9.2 — Funciones de las comisiones de veeduría
 
@@ -20985,8 +18771,6 @@ SUBSECCIÓN 1.
 GENERALIDADES DE LAS MEDIDAS DE PROTECCIÓN
 
 (Adicionado por Art. 1 Decreto 282 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.1.1 — Objeto
 
@@ -21048,8 +18832,6 @@ PARÁGRAFO 2 TRANSITORIO. Las suspensiones previstas en el presente artículo se
 
 (Parágrafo adicionado por el Art. 1 del Decreto 1687 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.1.2 — Definiciones
 
 Para efectos del presente Capítulo se tendrán en cuenta las siguientes definiciones técnicas de acuerdo con lo previsto en la Ley 400 de 1997 y el Reglamento Colombiano de Construcción Sismo Resistente NSR-10:
@@ -21068,8 +18850,6 @@ Para efectos del presente Capítulo se tendrán en cuenta las siguientes definic
 
 PARÁGRAFO . Las reglas sobre la presentación de los estudios que permiten concluir que una edificación se encuentra en estado de ruina o amenaza de ruina deberán especificarse en cada mecanismo de amparo. En todo caso, la entidad otorgante del mecanismo de amparo asumirá el costo de dicho estudio, obligación que no impedirá hacer efectivas las coberturas del mecanismo de amparo.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.1.3 — Obligación de amparar los perjuicios patrimoniales
 
 Antes de realizar la primera transferencia de dominio de las nuevas unidades de vivienda que se construyan en proyectos que se sometan al régimen de propiedad horizontal, unidades inmobiliarias cerradas, loteo individual o cualquier otro sistema, incluyendo proyectos de uso mixto, que generen cinco (5) o más unidades habitacionales para transferirlas a terceros, el constructor o enajenador de vivienda nueva, deberá constituir un mecanismo de amparo para cubrir los eventuales perjuicios patrimoniales ocasionados al propietario o sucesivos propietarios de tales viviendas, cuando dentro de los diez (10) años siguientes a la expedición de la certificación técnica de ocupación, la construcción perezca o amenace ruina en todo o en parte por cualquiera de las situaciones contempladas en el numeral 3 del artículo 2060 del Código Civil y detalladas en el artículo 2.2.6.7.1.1.2 del presente decreto.
@@ -21080,15 +18860,11 @@ PARÁGRAFO 1. Sin perjuicio de la obligación directa que tiene el constructor o
 
 PARÁGRAFO 2. La obligación contenida en este artículo se diferencia de la contemplada en la Ley 675 de 2001, referente al deber de constitución de pólizas de seguros que cubran los bienes comunes susceptibles de ser asegurados contra los riesgos de incendio y terremoto.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.1.4 — Amparo de los perjuicios patrimoniales cuando la vivienda se adquiera con subsidios familiares
 
 Cuando perezcan o amenacen ruina las viviendas nuevas que sean adquiridas total o parcialmente con recursos públicos y/o transferidas por entidades públicas a título de subsidio en especie, la entidad otorgante del subsidio deberá exigir al constructor o enajenador de vivienda nueva la garantía de estabilidad de diez (10) años para bienes inmuebles que establece el artículo 8 de la Ley 1480 de 2011.
 
 Cuando las vivienda~ nuevas sean adquiridas parcialmente con recursos públicos otorgados por entidades públicas a título de subsidio, el constructor o el enajenador de vivienda nueva deberá constituir el mecanismo de amparo por la porción del valor de la vivienda que no fue cubierta con el subsidio. .
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.1.5 — Mecanismos de amparo
 
@@ -21107,8 +18883,6 @@ PARÁGRAFO 1. El constructor o el enajenador de vivienda nueva podrán implement
 PARÁGRAFO 2. De conformidad con la Ley 1328 de 2009, las entidades financieras o aseguradoras facultadas para la expedición de los mecanismos de amparo, deberán fundamentar su decisión en causas objetivas ~ara el otorgamiento o negación del respectivo mecanismo.
 
 PARÁGRAFO 3. La expedición del mecanismo de amparo estará respaldada por el cumplimiento de las normas técnicas de construcción sismo resistente, la licencia de construcción aprobada y el Certificado Técnico de Ocupación expedido por el supervisor técnico independiente.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.1.6 — Exclusión
 
@@ -21130,21 +18904,15 @@ Los mecanismos de amparo regulados en el presente capítulo no cubrirán lo sigu
 
 PARÁGRAFO . Las incidencias u objeciones técnicas, que realicen las entidades financieras o aseguradoras otorgantes del mecanismo de amparo durante el proceso constructivo, en ningún caso podrán convertirse en exclusiones que limiten la cobertura del amparo ni oponerse a las reclamaciones de los compradores de vivienda.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.1.7 — Características de los mecanismos de amparo
 
 El mecanismo de amparo de perjuicios patrimoniales deberá ser constituido cómo máximo dentro de los diez (10) días hábiles siguientes a la fecha de expedición del certificado técnico de ocupación. Además, el mecanismo de amparo escogido por el constructor o el enajenador de vivienda nueva deberá cumplir con los requisitos legales y con las condiciones de vigencia, permanencia, liquidez y suficiencia establecidas en este capítulo.
 
 Tratándose de las construcciones desarrolladas por etapas o unidades estructurales independientes, al igual que la certificación técnica de ocupación, el mecanismo de amparo podrá ser constituido por cada unidad estructural independiente.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.1.8 — Vigencia y permanencia del mecanismo de amparo
 
 El mecanismo de amparo constituido por el constructor o el enajenador de vivienda nueva deberá cubrir eventos ocurridos dentro de los diez (10) años siguientes a la fecha de expedición del respectivo Certificado Técnico de ocupación. El mecanismo de amparo presentado por el constructor o el enajenador de vivienda nueva se hará efectivo por parte del propietario inicial o los sucesivos propietarios, que se vean afectados por el estado de ruina o amenaza de ruina de la edificación durante el término de cobertura.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.1.9 — Liquidez del mecanismo de amparo
 
@@ -21162,13 +18930,9 @@ PARÁGRAFO 1. Cuando sobre la vivienda amparada existan hipotecas, la entidad ot
 
 PARÁGRAFO 2. Dentr9 de la suficiencia del mecanismo de amparo se tendrá en cuenta el costo de los estudios que permiten concluir que una edificación se encuentra en estado de ruina o amenaza de ruina de acuerdo con lo establecido en el artículo 2.2.6.7 .1.1.2. del presente Decreto. .
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.1.11 — Valor del mecanismo de amparo para Vivienda de Interés Social y Vivienda de Interés Prioritario
 
 Las tarifas definidas por las entidades financieras o aseguradoras para la constitución de los mecanismos de amparo sobre las viviendas de interés social y prioritario, tendrán en cuenta el valor tope de las mismas, definido en el Plan Nacional de Desarrollo vigente según lo previsto en el artículo 91 de la Ley 388 de 1997, o la norma que lo adicione, modifique o sustituya, para no afectar el principio de asequibilidad de la vivienda digna.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.1.12 — Reglas generales para hacer efectivo el mecanismo de amparo
 
@@ -21184,15 +18948,11 @@ SUBSECCIÓN 2.
 
 PATRIMONIO - FIDUCIA EN GARANTÍA
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.2.1 — Constitución de fiducia en garantía
 
 El constructor o enajenador de vivienda nueva podrá constituir una fiducia en garantía, en virtud de la cuál transfiera a un patrimonio autónomo activos de su propiedad o de terceros con el fin de amparar los eventuales perjuicios patrimoniales en los términos de este Capítulo, los cuáles serán administrados por una sociedad fiduciaria.
 
 PARÁGRAFO . En el contrato de fiducia deberá quedar estipulada la forma cómo el constructor o el enajenador de vivienda cubrirá los gastos de administración que se deriven de la constitución de la fiducia en garantía y la manera cómo garantizará durante la vigencia del mecanismo de amparo la suficiencia de los activos entregados para cubrir los perjuicios patrimoniales, así cómo las consecuencias de su incumplimiento.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.2.2 — Condiciones
 
@@ -21205,8 +18965,6 @@ La fiducia en garantía deberá cumplir con los siguientes criterios mínimos:
 3. La transferencia de los bienes al patrimonio autónomo será irrevocable dentro del término legal del amparo, salvo cuando proceda su sustitución en los términos de ésta subsección.
 
 4. La fiducia en garantía deberá cumplir con las características enunciadas en este Capítulo, en especial con lo señalado en cuánto a vigencia, permanencia, liquidez, suficiencia y momento de constitución.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.2.3 — Bienes fideicomitidos
 
@@ -21224,8 +18982,6 @@ El constructor o enajenador de vivienda nueva al momento de efectuar el aporte d
 
 PARÁGRAFO . Los bienes inmuebles o activos transferidos al patrimonio autónomo para el pago de los perjuicios patrimoniales a los que se hace referencia en el presente Capítulo, deberán estar libres de limitaciones o gravámenes al derecho de dominio, salvo aquellas derivadas del sometimiento al régimen de propiedad horizontal de los mismos.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.2.4 — Avalúo de los bienes fideicomitidos
 
 La sociedad fiduciaria ordenará el avalúo inicial y la actualización anual del mismo, sobre los bienes y/o derechos fideicomitidos para efectos de determinar y asegurar la suficiencia del mecanismo de amparo.
@@ -21235,8 +18991,6 @@ PARÁGRAFO 1. Si el avalúo es inferior al monto amparado establecido en el art�
 PARÁGRAFO 2. El avalúo debe estar a cargo de un avaluador inscrito en el Registro Abierto de Avaluadores (RAA) de conformidad con lo establecido en la Ley 1673 de 2013, o la norma que la adicione, modifique o sustituya. La remuneración de los avaluadores y de los costos del avalúo debe ser cubierta por la sociedad fiduciaria con cargo a los recursos del fideicomiso."
 
 (Parágrafo 2 Modificado por el Art. 22 del Decreto 1533 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.2.5 — Certificado de garantía
 
@@ -21252,13 +19006,9 @@ La sociedad fiduciaria deberá expedir a nombre del constructor o enajenador de 
 
 PARÁGRAFO . El procedimiento que debe surtirse en caso de hacerse exigible el amparo debe quedar estipulado en el respectivo contrato de fiducia.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.2.6 — Restitución de los bienes
 
 La sociedad fiduciaria restituirá al constructor o enajenador de vivienda nueva la titularidad de los bienes contenidos en el patrimonio autónomo, una vez se haya cumplido el plazo de la obligación de amparar los perjuicios patrimoniales sin que hubiere ocurrido alguno de los siniestros previstos en este capítulo.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.2.7 — Exclusión de bienes
 
@@ -21267,8 +19017,6 @@ A la luz de lo dispuesto en el parágrafo del artículo 3 de la Ley 1676 de 2013
 SUBSECCIÓN 3.
 
 GARANTÍA BANCARIA
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.3.1 — Garantías Bancarías
 
@@ -21286,15 +19034,11 @@ SUBSECCIÓN 4.
 
 PÓLIZA DE SEGURO
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.4.1 — Póliza de seguro
 
 El constructor o enajenador de vivienda nueva podrá constituir pólizas de seguro para cubrir los perjuicios patrimoniales causados a los propietarios que se vean afectados cuando la edificación perezca o amenace ruina, las cuáles deberán cumplir con las características previstas en este Capítulo.
 
 La Superintendencia Financiera de Colombia creará un nuevo ramo de seguro para la expedición de las pólizas de las que trata la presente subsección.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.4.2 — Características del seguro
 
@@ -21316,15 +19060,11 @@ Las pólizas de seguros deben cumplir con lo previsto en el Código de Comercio 
 
 8. La póliza podrá contratarse de manera individual o colectiva, en este último caso se debe emitir el correspondiente certificado individual a cada uno de los proyectos asegurados.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.4.3 — Pago de la prima
 
 El pago de la prima será único por toda la duración del contrato de seguro. Sin embargo, el constructor o enajenador de vivienda nueva o tercero, previo acuerdo con la entidad aseguradora, podrá diferir el pago de la prima desde el inicio de la construcción, y en todo caso, la prima deberá estar pagada por el constructor o enajenador o un tercero en su totalidad cómo máximo dentro de los diez (10) días hábiles siguientes a la fecha de expedición del Certificado Técnico de Ocupación por parte del supervisor técnico independiente y antes de la entrada en vigencia de la póliza.
 
 PARÁGRAFO . Sin perjuicio de lo establecido en el presente artículo, el constructor o enajenador o un tercero podrán optar por realizar un único e indivisible pago de la prima para la obtención del amparo al que se refiere el presente capítulo, al momento del otorgamiento del Certificado Técnico de Ocupación por parte del supervisor técnico independiente.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.4.4 — Emisión de la póliza
 
@@ -21332,13 +19072,9 @@ La póliza de seguro o el certificado individual respectivo deberá ser emitida 
 
 No obstante, cuando el Supervisor Técnico Independiente expida un certificado técnico de ocupación por unidad estructuralmente independiente, la póliza de seguro o el certificado individual podrá expedirse por cada una de éstas. De igual forma se procederá con los proyectos de construcción por etapas de que trata la Ley 675 de 2001.
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.5 — Deducibles
 
 Podrán pactarse deducibles, desde que los mismos no superen el 0,5% del valor del amparo y se encuentren a cargo del tomador del seguro. En ningún caso se efectuarán erogaciones obligatorias a cargo de los beneficiarios del amparo.
-
-ARTÍCULO
 
 ## art:2.2.6.7.1.4.6 — Coberturas adicionales
 
@@ -21350,8 +19086,6 @@ SUBSECCIÓN 5.
 
 OTROS MECANISMOS
 
-ARTÍCULO
-
 ## art:2.2.6.7.1.5.1 — 5.1
 
 Procedencia de otros mecanismos: De conformidad con lo señalado en el parágrafo del artículo 8 de la Ley 1796 de 2016, en el evento que se presenten los análisis técnicos y financieros que evidencien la procedencia de otros mecanismos, la Superintendencia Financiera establecerá las condiciones y operación de los mismos.
@@ -21360,21 +19094,15 @@ SECCIÓN 2.
 
 VERIFICACIÓN DE EXISTENCIA DE LOS MECANISMOS DE AMPARO
 
-ARTÍCULO
-
 ## art:2.2.6.7.2.1 — Protocolización y Registro de escritura pública de transferencia
 
 En la Escritura Pública de transferencia de la vivienda nueva se deberá señalar la información básica del mecanismo de amparo, a saber: entidad otorgante, valor y vigencia. Así mismo deberá aportarse y protocolizarse el documento que acredite la constitución y pago del mecanismo de amparo.
 
 Al momento de la inscripción de la Escritura Pública de transferencia de la vivienda nueva en la Oficina de Registro de Instrumentos Públicos, esta deberá contener el documento que acredite la constitución y pago del mecanismo de amparo. En caso de no contar con el citado documento no se realizará la inscripción en el folio de matrícula correspondiente y deberá seguirse el procedimiento establecido en el artículo 22 de la Ley 1579 de 2012.
 
-ARTÍCULO
-
 ## art:2.2.6.7.2.2 — Acción del enajenador
 
 Sin perjuicio de lo establecido en el artículo 8 de la Ley 1796 de 201,6, el constructor o enajenador de vivienda nueva que cumpla la referida obligación, podrá ejercer acción civil o penal contra los profesionales que hayan adelantado las actividades de diseño estructural de la edificación, revisión independiente de los diseños estructurales, direc9ión de la construcción o supervisión técnica independiente, por las actuaciones u omisiones que a su cargo hayan producido que la edificación perezca o amenace ruina, según lo previsto en el numeral 3 del artículo 2060 del Código Civil.
-
-ARTÍCULO
 
 ## art:2.2.6.7.2.3 — Liquidación
 
@@ -21388,13 +19116,9 @@ CONSTRUCCIÓN SOSTENIBLE
 
 ADICIONADO POR ART. 1 DECRETO 1285 DE 2015
 
-ARTÍCULO
-
 ## art:2.2.7.1.1 — Objeto
 
 El objeto del presente título es establecer lineamientos de construcción sostenible para edificaciones, encaminados al mejoramiento de la calidad de vida de los habitantes y al ejercicio de actuaciones con responsabilidad ambiental y social.
-
-ARTÍCULO
 
 ## art:2.2.7.1.2 — Implementación de los lineamientos de construcción sostenible
 
@@ -21412,19 +19136,13 @@ En lo relacionado con las medidas para el ahorro de agua y energía en edificaci
 
 5. Promoción de Incentivos a nivel local para la construcción sostenible.
 
-ARTÍCULO
-
 ## art:2.2.7.1.3 — Seguimiento
 
 El Ministerio de Vivienda, Ciudad y Territorio, desarrollará el trámite y las herramientas de seguimiento de la implementación de las medidas de construcción sostenible en edificaciones.
 
-ARTÍCULO
-
 ## art:2.2.7.1.4 — Incentivos
 
 El Gobierno nacional por conducto del Ministerio de Vivienda, Ciudad y Territorio, promoverá que los municipios y distritos, establezcan incentivos para la implementación de las medidas de construcción sostenible.
-
-ARTÍCULO
 
 ## art:2.2.7.1.5 — Rigor subsidiario
 
@@ -21439,8 +19157,6 @@ SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO
 CAPÍTULO 1
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.3.1.1.1 — Definiciones
 
@@ -21762,23 +19478,17 @@ CAPÍTULO 2
 
 CONDICIONES PARA EL TRÁMITE DE LAS SOLICITUDES DE VIABILIDAD Y DISPONIBILIDAD DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO
 
-ARTÍCULO
-
 ## art:2.3.1.2.2 — Objeto
 
 El presente Capítulo tiene por objeto establecer los términos y condiciones para el trámite de las solicitudes de viabilidad y disponibilidad de prestación de los servicios públicos domiciliarios que se presenten ante las personas prestadoras de los servicios públicos domiciliarios de acueducto y/o alcantarillado.
 
 (Decreto 3050 de 2013, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.1.2.3 — 2.3
 
 Ámbito de aplicaciónEl presente Capítulo aplica a los prestadores de los servicios públicos domiciliarios de acueducto y/o alcantarillado, a los urbanizadores y constructores, a los municipios y/o distritos y a la Superintendencia de Servicios Públicos Domiciliarios.
 
 (Decreto 3050 de 2013, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.1.2.4 — Viabilidad y disponibilidad inmediata de servicios públicos para proyectos de urbanización
 
@@ -21798,15 +19508,11 @@ En ningún caso las empresas prestadoras podrán exigir los urbanizadores la rea
 
 (Decreto 3050 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.1.2.5 — Término para resolver la solicitud de viabilidad y disponibilidad inmediata
 
 Los prestadores de los servicios públicos de acueducto y/o alcantarillado deberán decidir sobre la solicitud de viabilidad y disponibilidad inmediata de los mencionados servicios, dentro de los cuarenta y cinco (45) días calendario siguientes a la fecha de recepción de la solicitud presentada por el interesado. En todo caso ante la falta de respuesta se podrá acudir a los mecanismos legales para la protección del derecho de petición.
 
 (Decreto 3050 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.1.2.6 — Prestación efectiva de los servicios para predios ubicados en sectores urbanizados
 
@@ -21815,8 +19521,6 @@ Los prestadores de los servicios públicos de acueducto y/o alcantarillado tiene
 PARÁGRAFO . Para el efecto de lo dispuesto en el presente artículo, los prestadores de los servicios públicos domiciliarios de acueducto y/o alcantarillado deben articular sus planes de ampliación de prestación del servicio, sus planes de inversión y demás fuente de financiación, con las decisiones de ordenamiento contenidas en los planes de ordenamiento territorial y los instrumentos que los desarrollen y complementen, así cómo con los programas de ejecución de los planes de ordenamiento contenidos en los planes de desarrollo municipales y distritales.
 
 (Decreto 3050 de 2013, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.1.2.7 — Trámite ante la Superintendencia de Servicios Públicos Domiciliarios (SSPD)
 
@@ -21831,8 +19535,6 @@ En caso de que la Superintendencia de Servicios Públicos Domiciliarios encuentr
 La actuación que adelante la Superintendencia de Servicios Públicos Domiciliarios, se surtirá de conformidad con lo previsto en la Ley 142 de 1994 y el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 3050 de 2013, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.1.2.8 — Prohibición de requisitos adicionales
 
@@ -21856,8 +19558,6 @@ SUBSECCION 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.1.3.1.1.1 — Objeto
 
 El presente Capítulo contiene el conjunto de normas que regulan las relaciones que se generan entre la entidad prestadora de los servicios públicos de acueducto y alcantarillado y los suscriptores y usuarios, actuales y potenciales, del mismo
@@ -21865,8 +19565,6 @@ El presente Capítulo contiene el conjunto de normas que regulan las relaciones 
 PARÁGRAFO . Las entidad prestadora de los servicios públicos domiciliarios de acueducto y alcantarillado, podrán expedir el reglamento interno de prestación del servicio, de conformidad con lo dispuesto en la ley y el reglamento.
 
 (Decreto 302 de 2000, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.1.3.1.1.2 — Del registro o catastro de usuarios
 
@@ -21888,8 +19586,6 @@ SUBSECCION 1
 
 OBLIGACIONES Y DEBERES DE LOS USUARIOS
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.1.3 — De la solicitud de servicios y vinculación cómo usuario
 
 Cuando haya servicios públicos disponibles de acueducto y alcantarillado, será obligatorio vincularse cómo usuario y cumplir con los deberes respectivos, o acreditar que se dispone de alternativas que no perjudiquen a la comunidad.
@@ -21902,8 +19598,6 @@ PARÁGRAFO . En relación con el inciso tercero del presente artículo, los caso
 
 (Decreto 302 de 2000, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.1.4 — De las instalaciones internas
 
 Todo predio o edificación nueva deberá dotarse de redes e instalaciones interiores separadas e independientes para aguas lluvias, aguas negras domésticas y aguas negras industriales, cuando existan redes de alcantarillado igualmente separadas e independientes.
@@ -21911,8 +19605,6 @@ Todo predio o edificación nueva deberá dotarse de redes e instalaciones interi
 El diseño y la construcción e instalación de desagües, deberán ajustarse a las normas y especificaciones previstas en el Reglamento Técnico del Sector de Agua Potable y Saneamiento Básico.
 
 (Decreto 302 de 2000, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.1.5 — Del uso racional de los servicios
 
@@ -21923,8 +19615,6 @@ Los usuarios o suscriptores de las entidades prestadoras de los servicios, deber
 SUBSECCIÓN 2
 
 DE LA CONEXIÓN
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.2.6 — Condiciones de acceso a los servicios
 
@@ -21962,8 +19652,6 @@ SUBSECCIÓN 3
 
 DEL RÉGIMEN DE ACOMETIDAS Y MEDIDORES
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.3.8 — Régimen de acometidas
 
 La entidad prestadora de los servicios públicos establecerá las especificaciones de las acometidas de acueducto y alcantarillado, conforme a lo establecido en el Reglamento Técnico del Sector de Agua Potable y Saneamiento Básico. En todo caso, el costo de redes, equipos y demás elementos que constituyan la acometida estarán a cargo del usuario cuando se construya por primera vez.
@@ -21972,15 +19660,11 @@ PARÁGRAFO . Los suscriptores o usuarios deberán comunicar a la entidad prestad
 
 (Decreto 302 de 2000, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.3.9 — Unidad de acometida por usuario
 
 La entidad prestadora de los servicios públicos sólo estará obligada a autorizar una acometida de acueducto y alcantarillado por unidad habitacional o unidad no residencial, salvo que por razones técnicas se requieran acometidas adicionales. La entidad prestadora de los servicios públicos podrá exigir la Independización de las acometidas cuando lo estime necesario. En edificios multifamiliares y multiusuarios, la entidad prestadora de los servicios públicos podrá autorizar acometidas para atender una o varias unidades independientes.
 
 (Decreto 302 de 2000, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.3.10 — Cambio de localización de la acometida
 
@@ -21991,8 +19675,6 @@ Cuando, por reconstrucción o modificación de un inmueble, se dificulte la iden
 Cuando por división del inmueble, alguna de sus partes que goce del servicio de acueducto o de alcantarillado, pase a dominio de otra persona; deberá hacerse constar en la respectiva escritura cuál porción se reserva el derecho al servicio. Si no lo hiciere así, el derecho al servicio quedará asignado a aquella sección del inmueble por donde se encuentre instalada la acometida.
 
 (Decreto 302 de 2000, artículo 13, Modificado por el Decreto 229 de 2002, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.3.11 — De los medidores
 
@@ -22005,8 +19687,6 @@ No será obligación del suscriptor o usuario cerciorarse que los medidores func
 Cuando el usuario o suscriptor, pasado un período de facturación a partir de la comunicación de la necesidad del cambio no tome las acciones necesarias para reparar o remplazar los medidores, la entidad prestadora de los servicios públicos podrá hacerlo por cuenta del usuario o suscriptor.
 
 (Decreto 302 de 2000, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.3.12 — De la obligatoriedad de los medidores de acueducto
 
@@ -22024,8 +19704,6 @@ La entidad prestadora de los servicios públicos dará garantía de buen servici
 
 (Decreto 302 de 2000, artículo 15, Modificado por el Decreto 229 de 2002, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.3.13 — De los medidores generales o de control
 
 En el caso de edificios o unidades inmobiliarias cerradas podrá existir un medidor de control inmediatamente aguas abajo de la acometida. Deben existir medidores individuales en cada una de las unidades habitacionales o no residenciales que conforman el edificio o las unidades inmobiliarias o áreas comunes.
@@ -22034,15 +19712,11 @@ Las áreas comunes de edificios o unidades inmobiliarias cerradas deben disponer
 
 (Decreto 302 de 2000, artículo 16, Modificado por el Decreto 229 de 2002, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.3.14 — Medidores para grandes consumidores no residenciales
 
 Los grandes consumidores no residenciales, deberán instalar equipos de medición de acuerdo a los lineamientos que expedida la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
 (Decreto 302 de 2000, artículo 17, Modificado por el Decreto 229 de 2002, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.3.15 — Medidores para multiusuario
 
@@ -22051,8 +19725,6 @@ Los suscriptores o usuarios de edificios catalogados cómo multiusuarios sometid
 PARÁGRAFO . La entidad prestadora de los servicios públicos, podrá autorizar la Independización del servicio en el caso de que la mayoría de los copropietarios la solicite, previo un acuerdo de pago de los saldos vigentes a la fecha de la Independización y la ejecución por los beneficiarios de las adecuaciones técnicas requeridas.
 
 (Decreto 302 de 2000, artículo 18).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.3.16 — Cambio de medidor
 
@@ -22065,8 +19737,6 @@ En caso de requerirse el cambio del medidor, el suscriptor o usuario tendrá la 
 En todo caso, cuando el medidor sea retirado para su reemplazo, éste será entregado al suscriptor, en su condición de propietario del mismo, salvo indicación expresa de éste en contrario.
 
 (Decreto 302 de 2000, artículo 19, Modificado por el Decreto 229 de 2002, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.3.17 — Mantenimiento de las acometidas y medidores
 
@@ -22082,8 +19752,6 @@ SUBSECCION 4
 
 DEL MANTENIMIENTO DE LAS INSTALACIONES DOMICILIARIAS
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.4.18 — Mantenimiento de las instalaciones domiciliarias
 
 El mantenimiento de las redes internas de acueducto y alcantarillado no es responsabilidad de la entidad prestadora de los servicios públicos, pero ésta podrá revisar tales instalaciones y exigir las adecuaciones y reparaciones que estime necesarias para la correcta utilización del servicio.
@@ -22093,8 +19761,6 @@ Cada usuario del servicio deberá mantener en buen estado la instalación domici
 PARÁGRAFO . Cuando el suscriptor o usuario lo solicite o cuando se presenten consumos de agua excesivos e injustificados, la entidad prestadora de los servicios públicos deberá efectuar una revisión de las redes internas a fin de establecer si hay deterioro en ellas y, de ser el caso, podrá hacer las sugerencias que considere oportunas para su reparación.
 
 (Decreto 302 de 2000, artículo 21)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.4.19 — Mantenimiento de las redes públicas
 
@@ -22106,23 +19772,17 @@ SUBSECCION 5
 
 CAUSALES DE SUSPENSIÓN DE LOS SERVICIOS
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.5.20 — Suspensión de común acuerdo
 
 En desarrollo del artículo 138 de la Ley 142 de 1994, podrán suspenderse los servicios de acueducto y alcantarillado cuando lo solicite un suscriptor o usuario, si convienen en ello la entidad prestadora de los servicios públicos y los terceros que puedan resultar afectados. De la misma manera podrán las partes terminar el contrato.
 
 (Decreto 302 de 2000, artículo 23).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.5.21 — Comunicación de la suspensión
 
 La entidad prestadora de los servicios públicos deberá informar a la comunidad los términos y motivos de la suspensión de los servicios de acueducto y alcantarillado, con una anticipación no inferior a veinticuatro (24) horas de la suspensión.
 
 (Decreto 302 de 2000, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.5.22 — Suspensión en interés del servicio
 
@@ -22135,8 +19795,6 @@ No es falla en la prestación del servicio la suspensión que haga la entidad pr
 PARÁGRAFO . La entidad prestadora de los servicios públicos deberá informar a la comunidad los términos de la suspensión del servicio, con una anticipación no inferior a veinticuatro (24) horas, salvo en caso fortuito o de fuerza mayor.
 
 (Decreto 302 de 2000, artículo 25).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.5.23 — Suspensión por incumplimiento del contrato de condiciones uniformes
 
@@ -22184,8 +19842,6 @@ PARÁGRAFO . El servicio a las pilas públicas, fuentes públicas ornamentales y
 
 (Decreto 302 de 2000, artículo 26).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.5.24 — Derechos de los usuarios
 
 Cuando ocurren fallas continuas en la prestación del servicio durante quince (15) días o más, dentro de un mismo período de facturación, la entidad prestadora de los servicios públicos no podrá facturar el cargo fijo de dicho período.
@@ -22196,15 +19852,11 @@ SUBSECCION 6
 
 CAUSALES DE CORTE Y TERMINACIÓN DEL CONTRATO
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.6.25 — De las causales de corte de los servicios
 
 Son causales de corte del servicio, la reincidencia en las causales de suspensión establecidas en la subsección 5ta del presente decreto, durante un período no superior a dos (2) años. Adicionalmente, el incumplimiento reiterado del contrato de prestación de servicios, en las condiciones de tipo y frecuencia que determine la entidad prestadora de los servicios públicos, siempre y cuando no constituya una causal de suspensión del servicio.
 
 (Decreto 302 de 2000, artículo 28).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.6.26 — De las causales de terminación del contrato y corte del servicio
 
@@ -22226,8 +19878,6 @@ La entidad prestadora de los servicios públicos, solamente podrá incluir en el
 
 (Decreto 302 de 2000, artículo 29).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.6.27 — De la obligación de los constructores o urbanizadores
 
 El constructor o urbanizador deberá informar a la entidad prestadora de los servicios públicos la terminación de la conexión temporal, so pena de la sanción establecida en el contrato que se lleva a cabo entre las partes para la conexión temporal, para que éste inicie la facturación individual del inmueble o de los inmuebles que se someten al reglamento de propiedad horizontal.
@@ -22236,15 +19886,11 @@ La Superintendencia de Servicios Públicos Domiciliarios, sancionará a la entid
 
 (Decreto 302 de 2000, artículo 30, Modificado por el Decreto 229 de 2002, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.6.28 — Del restablecimiento del servicio en caso de corte
 
 Para el restablecimiento del servicio, el interesado deberá cumplir con los requisitos para las solicitudes nuevas y pagar las deudas pendientes que a nombre de éste y del respectivo inmueble existan, así cómo las sanciones pecuniarias, los intereses moratorios de ley y las tarifas de reinstalación.
 
 (Decreto 302 de 2000, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.6.29 — Del restablecimiento del servicio en caso de suspensión
 
@@ -22264,23 +19910,17 @@ SUBSUBSECCION 1
 
 PILAS PÚBLICAS
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.7.1.30 — Solicitud del servicio
 
 A solicitud de la respectiva Junta de Acción Comunal o Entidad Asociativa legalmente constituida, la entidad prestadora de los servicios públicos instalará pilas públicas para atender las necesidades de asentamientos subnormales, sin urbanizador responsable y distante de una red local de acueducto.
 
 (Decreto 302 de 2000, artículo 33).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.7.1.31 — Costo de instalación
 
 El costo de instalación, dotación, medidor, mantenimiento y consumo de la pila pública así cómo el drenaje de sus aguas, estará a cargo de la respectiva junta de acción comunal o entidad asociativa.
 
 (Decreto 302 de 2000, artículo 34, Modificado por el Decreto 229 de 2002, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.7.1.32 — Registro de las pilas públicas
 
@@ -22291,8 +19931,6 @@ La entidad prestadora de los servicios públicos mantendrá actualizado el regis
 SUBSUBSECCIÓN 2
 
 HIDRANTES
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.7.2.33 — Instalación de hidrantes públicos
 
@@ -22306,23 +19944,17 @@ Cuando un suscriptor o usuario solicite la instalación de un hidrante público,
 
 (Decreto 302 de 2000, artículo 36).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.7.2.34 — Costo de instalación de los hidrantes públicos
 
 Los hidrantes públicos forman parte integral de la red de acueducto y sus costos de instalación se distribuirán en forma similar a cómo se distribuyen los costos de las redes locales, salvo lo dispuesto en el inciso final del artículo anterior.
 
 (Decreto 302 de 2000, artículo 37).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.7.2.35 — Uso de los hidrantes públicos
 
 Los hidrantes públicos sólo podrán ser utilizados por parte de la entidad prestadora de los servicios públicos y el cuerpo de bomberos. Sin embargo, por motivo de interés general, la entidad prestadora de los servicios públicos podrá autorizar su uso para otros fines, debiendo para ello definir con la entidad solicitante el mecanismo de estimación de los consumos respectivos y los cobros correspondientes.
 
 (Decreto 302 de 2000, artículo 38).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.7.2.36 — Condiciones para la instalación de hidrantes privados
 
@@ -22340,15 +19972,11 @@ e) Todo consumo originado y registrado en los hidrantes privados que hayan sido 
 
 (Decreto 302 de 2000, artículo 39).
 
-ARTÍCULO
-
 ## art:2.3.1.3.2.7.2.37 — Mantenimiento de los hidrantes
 
 La conservación y reparación de los hidrantes públicos será por cuenta de la entidad prestadora de los servicios públicos, para lo cuál el cuerpo de bomberos deberá mantenerla informada de los daños, escapes y condiciones de funcionamiento en los que se encuentre cada uno de ellos.
 
 (Decreto 302 de 2000, artículo 40).
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.7.2.38 — Facturación del consumo a través de hidrantes
 
@@ -22359,8 +19987,6 @@ El consumo realizado a través de la red interna de hidrantes del inmueble no da
 SUBSUBSECCION 3
 
 RIEGO DE PARQUES PÚBLICOS
-
-ARTÍCULO
 
 ## art:2.3.1.3.2.7.3.39 — Registro y control
 
@@ -22374,23 +20000,17 @@ SUBSECCION 1
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.1.40 — Sujeción al régimen
 
 Por el hecho de solicitar el servicio de acueducto y alcantarillado, el usuario acepta las condiciones establecidas en el reglamento interno de la entidad. La entidad prestadora de los servicios públicos deberá informar al usuario al momento de recibir el formulario de solicitud del servicio sobre las condiciones del mismo.
 
 (Decreto 302 de 2000, artículo 45).
 
-ARTÍCULO
-
 ## art:2.3.1.3.3.1.41 — Cumplimiento de normas ambientales
 
 Las entidades prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado, así cómo sus usuarios o suscriptores, deberán cumplir las normas ambientales vigentes.
 
 (Decreto 302 de 2000, artículo 46).
-
-ARTÍCULO
 
 ## art:2.3.1.3.3.1.42 — La difusión del reglamento
 
@@ -22778,23 +20398,17 @@ CAPÍTULO 5
 
 DE LAS INVERSIONES AMBIENTALES
 
-ARTÍCULO
-
 ## art:2.3.1.5.1 — Objeto
 
 El presente capítulo tiene por objeto establecer el mecanismo para la inclusión de costos adicionales a los establecidos por las normas ambientales, destinados a garantizar la adecuada protección de las cuencas y fuentes de agua, por parte de las personas prestadoras de los servicios públicos de acueducto y alcantarillado.
 
 (Decreto 1207 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.5.2 — Ámbito de aplicación
 
 El presente Capítulo aplica a todas las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado en el territorio nacional, a la Comisión de Regulación de Agua potable y Saneamiento Básico y a la Superintendencia de Servicios Públicas Domiciliarios.
 
 (Decreto 1207 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.5.3 — Inversiones ambientales
 
@@ -22809,8 +20423,6 @@ PARÁGRAFO 2. También se podrán reconocer las inversiones en las modalidades d
 PARÁGRAFO 3. Las inversiones que en el marco de este decreto se realicen en monitoreo de cuencas y fuentes abastecedoras de agua, serán coordinadas con el Instituto de Hidrología, Meteorología y estudios Ambientales -IDEAM. La información generada por dicho monitoreo, deberá ser reportada al IDEAM.
 
 (Decreto 1207 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.5.4 — Incorporación de los costos relacionados con las inversiones ambientales
 
@@ -22828,23 +20440,17 @@ PARÁGRAFO 2. Una vez la Comisión de Regulación de Agua Potable y Saneamiento 
 
 CONEXIÓN DE LAS REDES DE RECOLECCIÓN DEL SERVICIO DE ALCANTARI LLADO A LAS PLANTAS DE TRATAMIENTO DE AGUAS RESIDUALES
 
-ARTÍCULO
-
 ## art:2.3.1.6.1 — Objeto
 
 El presente capítulo tiene por objeto establecer las condiciones generales de la conexión por parte de los prestadores de la actividad complementaria de tratamiento de aguas residuales a las redes de recolección de los otros prestadores del servicio público domiciliario de alcantarillado.
 
 (Adicionado por el Art. 1 del Decreto 1745 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.6.2 — Ámbito de aplicación
 
 El presente capítulo aplica a las personas prestadoras del servicio público domiciliario de alcantarillado y aquellas que presten la actividad complementaria de tratamiento de aguas residuales. Así mismo, aplica a la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA).
 
 (Adicionado por el Art. 1 del Decreto 1745 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3 — Condiciones generales para la conexión de las redes de recolección a las plantas de tratamiento de aguas residuales
 
@@ -22858,15 +20464,11 @@ Adicionalmente, el prestador de la actividad complementaria de tratamiento de ag
 
 (Adicionado por el Art. 1 del Decreto 1745 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.6.4 — Solicitud de imposición de conexión
 
 En caso de que no exista consenso entre los prestadores en los términos del artículo 2.3.1.6.3. del presente capítulo, el prestador de la actividad complementaria de tratamiento de aguas residuales que pretenda la imposición de la conexión de la Planta Tratamiento de Aguas Residuales (PTAR) con las redes de recolección del prestador del servicio público de alcantarillado podrá solicitar a la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA), la imposición de la misma, siempre que demuestre que la solución representa menores costos de operación, administración, mantenimiento e inversión a los que puede presentar el prestador del servicio de alcantarillado y que cuenta con la capacidad técnica y con los permisos de la autoridad ambiental correspondiente, y en concordancia con el Plan de Saneamiento y Manejo de Vertimientos (PSMV) del que es responsable el prestador.
 
 (Adicionado por el Art. 1 del Decreto 1745 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.6.5 — Ajustes Regulatorios
 
@@ -22930,13 +20532,9 @@ SECCIÓN 1
 
 PARTE GENERAL
 
-ARTÍCULO
-
 ## art:2.3.1.7.1.1 — Objeto y ámbito de aplicación
 
 El presente capítulo tiene cómo objeto reglamentar el artículo 299 de la Ley 1955 de 2019 y es aplicable a las empresas prestadoras de los servicios públicos de acueducto y/o alcantarillado; a la Comisión de Regulación de Agua Potable y Saneamiento Básico; a la Superintendencia de Servicios Públicos Domiciliarios; a las entidades territoriales; y a las demás entidades que tengan competencias relacionadas con la prestación de estos servicios, en todo el territorio nacional.
-
-ARTÍCULO
 
 ## art:2.3.1.7.1.2 — Equidad Regional
 
@@ -22954,8 +20552,6 @@ Subsección 1
 
 Análisis Preliminar
 
-ARTÍCULO
-
 ## art:2.3.1.7.2.1.1 — Análisis preliminar por parte del Ministerio de Vivienda, Ciudad y Territorio
 
 El Ministerio de Vivienda, Ciudad y Territorio analizará la necesidad de solicitarle a la Unidad Administrativa Especial - Comisión de Regulación de Agua Potable y Saneamiento Básico el inicio de una actuación administrativa que determine la procedencia de fusionar empresas prestadoras de los servicios públicos de acueducto y/o alcantarillado.
@@ -22965,8 +20561,6 @@ Para los anteriores efectos, previamente realizará un análisis de carácter ob
 SubSección 2
 
 Elaboración y contenido de los estudios técnicos
-
-ARTÍCULO
 
 ## art:2.3.1.7.2.2.1 — 
 
@@ -22980,8 +20574,6 @@ El Ministerio de Vivienda, Ciudad y Territorio deberá analizar y validar los es
 
 PARÁGRAFO 2. En todo caso, será el Ministerio de Vivienda, Ciudad y Territorio la entidad que presente dichos estudios ante la Unidad Administrativa Especial - Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
-ARTÍCULO
-
 ## art:2.3.1.7.2.2.2 — 2.2
 
 Contenido de los estudios que deben soportar la solicitud de fusión de empresas prestadoras de los servicios públicos de acueducto y/o alcantarillado. Los estudios que se elaboren para determinar la procedencia de la fusión, estarán enfocados entre otros aspectos a: (i) comparar las condiciones actuales de prestación de los servicios frente a las condiciones potenciales de prestación si se fusionan las empresas respectivas; (ii) deberán contener la información relacionada con la caracterización de las empresas potenciales a ser fusionadas, incluido el cálculo y análisis de los indicadores de las empresas objeto de estudio; (iii) la caracterización y condiciones de prestación de los servicios en las áreas de prestación respectivas, incluido el déficit de calidad y cobertura de los servicios públicos domiciliarios de acueducto y/o alcantarillado en dichas áreas; (iv) el análisis de economías de escala potenciales en las áreas respectivas teniendo en cuenta los costos de prestación de los servicios, así cómo los demás asuntos que el Ministerio de Vivienda, Ciudad y Territorio estime necesarios.
@@ -22992,13 +20584,9 @@ SECCIÓN 3
 
 ACTUACIÓN ADMINISTRATIVA, DECISIÓN Y CONTENIDO DEL ACTO QUE ORDENA LA FUSIÓN
 
-ARTÍCULO
-
 ## art:2.3.1.7.3.1 — Actuación que determine la fusión de empresas
 
 La Unidad Administrativa Especial - Comisión de Regulación de Agua Potable y Saneamiento Básico recibirá los estudios que indiquen la necesidad de fusionar empresas, para cumplir la finalidad señalada en el artículo 2.3.1.7.1.2. del presente capítulo y dará inicio a la actuación administrativa correspondiente, la cuál se desarrollará en los términos de los artículos 106 y siguientes de la Ley 142 de 1994 y, en lo no previsto en ésta, aplicará el procedimiento administrativo general de que trata el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
-
-ARTÍCULO
 
 ## art:2.3.1.7.3.2 — Decisión y contenido del acto que ordena la fusión
 
@@ -23007,8 +20595,6 @@ Una vez culminada la actuación administrativa por parte de la Comisión de Regu
 El contenido y alcance de la decisión a adoptar por parte de la Comisión de Regulación de Agua Potable y Saneamiento Básico tendrá en cuenta los lineamientos que serán definidos por el
 
 Ministerio de Vivienda, Ciudad y Territorio mediante resolución, dentro de los seis (6) meses siguientes a la promulgación del decreto que adicione este capítulo.
-
-ARTÍCULO
 
 ## art:2.3.1.7.3.3 — Condiciones para definir los criterios de participación accionaria
 
@@ -23019,8 +20605,6 @@ SERVICIO PÚBLICO DE ASEO
 CAPÍTULO 1
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.3.2.1.1 — 1.1
 
@@ -23452,8 +21036,6 @@ CAPÍTULO 2
 
 TRANSPORTE Y RECOLECCIÓN DE RESIDUOS APROVECHABLES Y NO APROVECHABLES
 
-ARTÍCULO
-
 ## art:2.3.2.2.1 — Ámbito de aplicación
 
 El presente capítulo aplica al servicio público de aseo de que trata la Ley 142 de 1994, a las personas prestadoras de residuos aprovechables y no aprovechables, a los usuarios, a la Superintendencia de Servicios Públicos Domiciliarios, a la Comisión de Regulación de Agua Potable y Saneamiento Básico, a las entidades territoriales y demás entidades con funciones sobre este servicio.
@@ -23468,15 +21050,11 @@ SECCIÓN 1
 
 ASPECTOS GENERALES EN LA PRESTACIÓN DEL SERVICIO DE ASEO
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.2 — Principios básicos para la prestación del servicio de aseo
 
 En la prestación del servicio público de aseo, y en el marco de la Gestión Integral de Residuos Sólidos, se observarán los siguientes principios: prestación eficiente a toda la población con continuidad, calidad y cobertura; obtener economías de escala comprobables; garantizar la participación de los usuarios en la gestión y fiscalización de la prestación; desarrollar una cultura de la no basura; fomentar el aprovechamiento; minimizar y mitigar el impacto en la salud y en el ambiente que se pueda causar por la generación de los residuos sólidos.
 
 (Decreto 2981 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.3 — Calidad del servicio de aseo
 
@@ -23488,23 +21066,17 @@ Igualmente, deberá considerar un programa de atención de fallas, emergencias y
 
 (Decreto 2981 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.4 — Continuidad del servicio
 
 El servicio público de aseo se debe prestar en todas sus actividades de manera continúa e ininterrumpida, con las frecuencias mínimas establecidas en este capítulo y aquellas que por sus particularidades queden definidas en el PGIRS, salvo cuando existan razones de fuerza mayor o caso fortuito.
 
 (Decreto 2981 de 2013, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.5 — Responsabilidad de la prestación del servicio público de aseo
 
 De conformidad con la ley, es responsabilidad de los municipios y distritos asegurar que se preste a todos sus habitantes el servicio público de aseo de manera eficiente.
 
 (Decreto 2981 de 2013, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.6 — Responsabilidad en el manejo de los residuos sólidos
 
@@ -23514,15 +21086,11 @@ PARÁGRAFO . Cuando se realice la comercialización de residuos sólidos aprovec
 
 (Decreto 2981 de 2013, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.7 — Cobertura
 
 Los municipios o distritos, deben garantizar la prestación del servicio de aseo a todos sus habitantes dentro de su territorio por parte de las personas prestadoras de servicio público de aseo independientemente del esquema adoptado para su prestación. Para ello deberá planificarse la ampliación permanente de la cobertura teniendo en cuenta, entre otros aspectos el crecimiento de la población y la producción de residuos.
 
 (Decreto 2981 de 2013, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.8 — Función social y ecológica
 
@@ -23530,15 +21098,11 @@ Las personas que prestan el servicio público de aseo deben cumplir con las obli
 
 (Decreto 2981 de 2013, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.9 — Economías de escala
 
 El municipio o distrito, al adoptar el respectivo Plan de Gestión Integral de los Residuos Sólidos, deberá propender porque en la prestación del servicio de aseo se logren economías de escala teniendo en cuenta variables tales como: cantidad de residuos a manejar en cada una de las etapas de la gestión, nivel del servicio, calidad del servicio, densidad de las viviendas, innovación tecnológica de equipo, gestión administrativa, operativa y de mantenimiento del servicio, la asociación de municipios para la conformación de esquemas regionales, las condiciones y la localización de los componentes del sistema.
 
 (Decreto 2981 de 2013, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.10 — Programa para la Prestación del Servicio de Aseo
 
@@ -23550,8 +21114,6 @@ PARÁGRAFO . El Programa para la Prestación del Servicio de Aseo debe revisarse
 
 (Decreto 2981 de 2013, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.11 — Libre competencia en el servicio público de aseo y actividades complementarias
 
 Salvo en los casos expresamente consagrados en la Constitución Política y en la ley, existe libertad de competencia en la prestación del servicio público de aseo y sus actividades complementarias, para lo cuál, quienes deseen prestarlo deberán adoptar cualquiera de las formas señaladas en el artículo 15 de la Ley 142 de 1994.
@@ -23559,8 +21121,6 @@ Salvo en los casos expresamente consagrados en la Constitución Política y en l
 Los prestadores del servicio público de aseo deben someterse a la competencia sin limitaciones de entrada de nuevos competidores, salvo por lo señalado por la Constitución Política, la Ley 142 de 1994 y el presente capítulo, de tal forma que se favorezca la calidad, la eficiencia y la continuidad en la prestación del servicio en los términos establecidos en la normatividad vigente sobre la materia.
 
 (Decreto 2981 de 2013, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.12 — Permisos ambientales
 
@@ -23573,8 +21133,6 @@ SECCIÓN 2
 SUBSECCIÓN 1
 
 ACTIVIDADES DEL SERVICIO PÚBLICO DE ASEO
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.1.13 — Actividades del servicio público de aseo
 
@@ -23600,8 +21158,6 @@ Para efectos de este capítulo se consideran cómo actividades del servicio púb
 
 (Decreto 2981 de 2013, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.1.14 — Costos asociados al servicio público de aseo
 
 Los costos asociados al servicio público de aseo, deberán corresponder a las actividades del servicio definidas en este capítulo.
@@ -23614,8 +21170,6 @@ PARÁGRAFO . El precio por la prestación del servicio público de aseo para el 
 
 (Decreto 2981 de 2013, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.1.15 — Programa de gestión del riesgo
 
 La persona prestadora del servicio público de aseo deberá estructurar y mantener actualizado un programa de gestión del riesgo de acuerdo a la normatividad vigente, en las diferentes actividades de la prestación del servicio, el cuál deberá ser presentado a la Superintendencia de Servicios Públicos Domiciliarios. En caso de presentarse un evento de riesgo la persona prestadora del servicio deberá ejecutar las medidas de mitigación y corrección pertinentes. Así mismo, el prestador deberá garantizar la capacitación de todo su personal sobre los procedimientos a seguir en caso de presentarse cualquier evento de riesgo.
@@ -23627,8 +21181,6 @@ La Comisión de Regulación de Agua Potable y Saneamiento Básico establecerá e
 SUBSECCIÓN 2
 
 ALMACENAMIENTO Y PRESENTACIÓN
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2.16 — Obligaciones de los usuarios para el almacenamiento y la presentación de residuos sólidos
 
@@ -23652,8 +21204,6 @@ PARÁGRAFO . Además de lo aquí dispuesto, los generadores de residuos sólidos
 
 (Decreto 2981 de 2013, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.2.17 — Características de los recipientes retornables para almacenamiento de residuos sólidos
 
 Los recipientes retornables, utilizados para almacenamiento y presentación de los residuos sólidos deberán tener las siguientes características básicas:
@@ -23670,8 +21220,6 @@ Los recipientes retornables para el almacenamiento de residuos sólidos en el se
 
 (Decreto 2981 de 2013, artículo 18).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.2.18 — Características de los recipientes no retornables
 
 Los recipientes no retornables, utilizados para almacenamiento y presentación de los residuos sólidos deberán tener las siguientes características básicas:
@@ -23685,8 +21233,6 @@ Los recipientes no retornables, utilizados para almacenamiento y presentación d
 4. Facilitar su cierre o amarre.
 
 (Decreto 2981 de 2013, artículo 19).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2.19 — Sistemas de almacenamiento colectivo de residuos sólidos
 
@@ -23712,15 +21258,11 @@ PARÁGRAFO 4. Las plazas de mercado, cementerios, mataderos o frigoríficos, est
 
 (Decreto 2981 de 2013, artículo 20).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.2.20 — Empaque de los residuos para evacuación por ductos
 
 Los residuos sólidos que sean evacuados por ductos, serán empacados en recipientes no retornables que reúnan las características exigidas en el presente decreto y de acuerdo con el tamaño de los ductos.
 
 (Decreto 2981 de 2013, artículo 21).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2.21 — Sitios de ubicación para la presentación de los residuos sólidos
 
@@ -23730,8 +21272,6 @@ La presentación de los residuos sólidos, deberá cumplir lo previsto en el pre
 
 (Decreto 2981 de 2013, artículo 22).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.2.22 — Obligación de trasladar residuos sólidos hasta los sitios de recolección
 
 En el caso de urbanizaciones, barrios o agrupaciones de viviendas y/o demás predios que por sus condiciones impidan la circulación de vehículos de recolección, así cómo en situaciones de emergencia, los usuarios están en la obligación de trasladar los residuos sólidos hasta el sitio determinado por la persona prestadora del servicio público de aseo, particularidad que deberá reflejarse en menores tarifas.
@@ -23739,8 +21279,6 @@ En el caso de urbanizaciones, barrios o agrupaciones de viviendas y/o demás pre
 En estos casos, la persona prestadora del servicio público de aseo deberá determinar los sitios de recolección de los residuos, los horarios y frecuencias de recolección, de tal manera que se evite la acumulación prolongada de los residuos en el espacio público.
 
 (Decreto 2981 de 2013, artículo 23).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2.23 — Características de las cajas de almacenamiento
 
@@ -23757,8 +21295,6 @@ Debe colocarse la cantidad requerida de cajas que garanticen el almacenamiento d
 PARÁGRAFO . En las cajas de almacenamiento únicamente se podrán depositar los residuos sólidos ordinarios.
 
 (Decreto 2981 de 2013, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2.24 — Sitios de ubicación para las cajas de almacenamiento
 
@@ -23782,8 +21318,6 @@ El sitio escogido para ubicar cajas de almacenamiento para residuos sólidos, de
 
 (Decreto 2981 de 2013, artículo 25).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.2.25 — Ubicación de cajas de almacenamiento en áreas públicas
 
 La colocación de cajas de almacenamiento en áreas públicas debe contar con la autorización de la entidad territorial a través de la autoridad urbanística local o quién haga sus veces, atendiendo las necesidades del servicio público de aseo.
@@ -23794,8 +21328,6 @@ SUBSECCIÓN 3
 
 RECOLECCIÓN Y TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.26 — Recolección separada
 
 La recolección de los residuos sólidos ordinarios debe hacerse en forma separada de los residuos especiales.
@@ -23803,8 +21335,6 @@ La recolección de los residuos sólidos ordinarios debe hacerse en forma separa
 En el caso de los residuos ordinarios y cuando el PGIRS establezca programas de aprovechamiento, la recolección de residuos con destino a disposición final deberá realizarse de manera separada de aquellos con posibilidad de aprovechamiento, implementando procesos de separación en la fuente y presentación diferenciada de residuos.
 
 (Decreto 2981 de 2013, artículo 27).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.27 — Requisitos de la actividad de recolección
 
@@ -23828,15 +21358,11 @@ PARÁGRAFO . Cuando la recolección sea manual, el proceso de recolección deber
 
 (Decreto 2981 de 2013, artículo 28).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.28 — Sistemas de recolección
 
 La recolección de residuos debe realizarse a partir de su presentación en la acera, unidades de almacenamiento o cajas de almacenamiento. Cuando existan, restricciones de acceso para los vehículos recolectores, el prestador, previa evaluación técnica, podrá realizar la recolección utilizando cajas de almacenamiento, o cualquier sistema alternativo que garantice su recolección.
 
 (Decreto 2981 de 2013, artículo 29).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.29 — Recolección en zonas suburbanas, rurales y centros poblados rurales
 
@@ -23851,8 +21377,6 @@ Para la prestación del servicio de recolección en las zonas suburbanas, rurale
 Disponer de cajas de almacenamiento adecuadas y suficientes para iniciar allí la presentación y almacenamiento de los residuos sólidos, aprovechables y no aprovechables, por parte de la comunidad de acuerdo con la frecuencia de recolección. La frecuencia, día y hora de recolección debe ser de obligatorio cumplimiento por parte de la persona prestadora del servicio público de aseo con el fin de evitar la acumulación de residuos sólidos en estos sitios.
 
 (Decreto 2981 de 2013, artículo 30).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.30 — Establecimiento de macrorrutas y microrrutas
 
@@ -23880,8 +21404,6 @@ Para el diseño de macrorrutas y microrrutas deberá tenerse en cuenta, entre ot
 
 (Decreto 2981 de 2013, artículo 31).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.31 — Horarios de recolección
 
 La persona prestadora del servicio público de aseo determinará el horario de la recolección de los residuos sólidos teniendo en cuenta la cantidad de residuos generados, las características de cada zona, la jornada de trabajo, el clima, la capacidad de los equipos, las dificultades generadas por el tráfico vehicular o peatonal y cualquier otro elemento que pueda tener influencia en la prestación del servicio.
@@ -23889,8 +21411,6 @@ La persona prestadora del servicio público de aseo determinará el horario de l
 PARÁGRAFO . Cuando la recolección se efectúe entre las 21:00 horas y las 06:00 horas del día siguiente en zonas residenciales, hoteles, hospitales, clínicas y demás centros asistenciales deberán tomarse medidas especiales para mitigar el ruido en la recolección y la compactación.
 
 (Decreto 2981 de 2013, artículo 32).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.32 — Frecuencias de recolección
 
@@ -23900,8 +21420,6 @@ PARÁGRAFO . La frecuencia mínima de recolección y transporte de residuos no a
 
 (Decreto 2981 de 2013, artículo 33).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.33 — Divulgación de frecuencias, rutas y horarios
 
 La recolección se efectuará según horarios y frecuencias en las macrorrutas y microrrutas establecidas previamente en el programa de prestación del servicio, las cuáles deberán darse a conocer a los usuarios, utilizando medios masivos de difusión de amplia circulación local. En las facturas de cobro del servicio público de aseo, deberá informarse las frecuencias de las diferentes actividades de recolección del servicio.
@@ -23910,8 +21428,6 @@ El prestador del servicio deberá publicar en la página web las rutas y horario
 
 (Decreto 2981 de 2013, artículo 34).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.34 — Cumplimiento de las rutas
 
 Las rutas y horarios deberán ser cumplidas por las personas prestadoras del servicio público de aseo de conformidad con los contratos de prestación del servicio público de aseo. Todo cambio en las rutas, horarios o frecuencias deberá ser comunicado con tres (3) días de anterioridad a los usuarios afectados, salvo caso fortuito o de fuerza mayor, utilizando medios masivos de difusión de amplia circulación local y página web cuando se disponga de ella. En caso de presentarse averías en un vehículo del servicio, deberá enviar el auxilio mecánico o remplazarlo con el equipo de suplencia de conformidad con lo establecido en este capítulo, restableciendo el servicio en un término máximo de tres (3) horas a partir del momento en que se presente la avería. Sólo podrá suspenderse el servicio por motivos de fuerza mayor o caso fortuito, debidamente comprobados.
@@ -23919,8 +21435,6 @@ Las rutas y horarios deberán ser cumplidas por las personas prestadoras del ser
 Para los eventos de fuerza mayor o caso fortuito, en que sea imposible la prestación del servicio, la persona prestadora del servicio público de aseo deberá implementar las medidas para restablecer el servicio en el menor tiempo posible.
 
 (Decreto 2981 de 2013, artículo 35).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.35 — Normas sobre recolección a partir de cajas de almacenamiento
 
@@ -23937,8 +21451,6 @@ La recolección mediante cajas de almacenamiento se sujetará, entre otras, a la
 5. Las cajas de almacenamiento localizadas en áreas públicas deberán mantenerse en un adecuado estado de presentación, limpieza e higiene por parte de la persona prestadora del servicio público de aseo.
 
 (Decreto 2981 de 2013, artículo 36).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.36 — Características de los vehículos de recolección y transporte de residuos sólidos
 
@@ -23982,23 +21494,17 @@ PARÁGRAFO . Los prestadores que por condiciones de capacidad, acceso o condicio
 
 (Decreto 2981 de 2013, artículo 37).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.37 — Condiciones de equipos y accesorios para recolección y transporte de residuos sólidos
 
 Los equipos, accesorios y ayudas de que estén dotados los vehículos destinados para transporte de residuos sólidos, deberán mantenerse siempre en óptimas condiciones de funcionamiento para la prestación del servicio y contar con los registros que evidencien el seguimiento a las condiciones de operación de los equipos y accesorios.
 
 (Decreto 2981 de 2013, artículo 38).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.38 — Lavado de los vehículos y equipos de recolección y transporte
 
 Los vehículos de recolección y transporte de residuos sólidos deberán lavarse al final de la jornada diaria. El lavado debe realizarse en sitios diseñados para tal fin y no puede efectuarse en áreas públicas ni en fuentes o cuerpos de agua.
 
 (Decreto 2981 de 2013, artículo 39).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.39 — Trasbordo en la actividad de recolección
 
@@ -24016,15 +21522,11 @@ El trasbordo de los residuos deberá hacerse directamente de un vehículo a otro
 
 (Decreto 2981 de 2013, artículo 40).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.40 — Recolección de residuos acumulados por el barrido manual de calles
 
 La recolección y el transporte de los residuos sólidos provenientes del barrido manual de calles deben efectuarse por la persona prestadora del servicio de público de aseo en su área de prestación del servicio. Los residuos de barrido no podrán permanecer en las calles por más de ocho (8) horas una vez se hace la presentación para transportarlos.
 
 (Decreto 2981 de 2013, artículo 41).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.41 — Recolección de residuos de poda de árboles y corte de césped
 
@@ -24034,8 +21536,6 @@ PARÁGRAFO . Los operativos para la recolección de los árboles caídos en espa
 
 (Decreto 2981 de 2013, artículo 42).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.42 — Recolección en plazas de mercado, mataderos y cementerios
 
 Para la recolección de los residuos ordinarios generados en las plazas de mercado, mataderos y cementerios del municipio o distrito, se utilizarán cajas de almacenamiento ubicadas estratégicamente, tanto para residuos aprovechables cómo no aprovechables.
@@ -24044,8 +21544,6 @@ La recolección de los residuos sólidos en estos lugares estará a cargo de las
 
 (Decreto 2981 de 2013, artículo 43).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.43 — Recolección de animales muertos
 
 Para la recolección de animales muertos de especies menores, que no excedan los 50 kg, abandonados en las vías y áreas públicas, la persona prestadora del servicio público de aseo efectuará el retiro en el transcurso de las seis (6) horas siguientes a la recepción de la solicitud, la cuál puede ser presentada por cualquier ciudadano, para ser trasladados al sitio donde le indique la entidad territorial, en cumplimiento de las normas vigentes para el manejo y disposición final de este tipo de residuos. El pago de este servicio de recolección y transporte, así cómo de disposición final estará a cargo de la entidad territorial.
@@ -24053,8 +21551,6 @@ Para la recolección de animales muertos de especies menores, que no excedan los
 PARÁGRAFO . La recolección de animales muertos que excedan los 50 kg, abandonados en las vías y áreas públicas, es responsabilidad de la entidad territorial.
 
 (Decreto 2981 de 2013, artículo 44).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.44 — Recolección de residuos de construcción y demolición
 
@@ -24068,8 +21564,6 @@ El prestador del servicio público de aseo será responsable de la recolección 
 
 (Decreto 2981 de 2013, artículo 45).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.45 — Censo de puntos críticos
 
 Las personas prestadoras del servicio público de aseo en las actividades de recolección y transporte en su área de prestación, harán censos de puntos críticos, realizarán operativos de limpieza y remitirán la información a la entidad territorial y la autoridad de policía para efectos de lo previsto en la normatividad vigente.
@@ -24077,8 +21571,6 @@ Las personas prestadoras del servicio público de aseo en las actividades de rec
 El municipio o distrito deberá coordinar con las personas prestadoras del servicio público de aseo o con terceros la ejecución de estas actividades y pactar libremente la remuneración.
 
 (Decreto 2981 de 2013, artículo 46).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.46 — Almacenamiento y recolección de residuos generados en eventos y espectáculos masivos
 
@@ -24090,23 +21582,17 @@ Se deberán separar los residuos sólidos aprovechables de los no aprovechables 
 
 (Decreto 2981 de 2013, artículo 47).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.47 — Almacenamiento y recolección de residuos generados en puntos de ventas en áreas públicas
 
 Los vendedores estacionarios localizados en áreas públicas, debidamente autorizados, deberán mantener limpios los alrededores de sus puestos de ventas, tener recipientes accesibles al público para el almacenamiento de los residuos generados en su actividad y presentarlos para su recolección a la persona prestadora del servicio público de aseo. El control y vigilancia de estas obligaciones estará a cargo de las autoridades de policía. Los vendedores estacionarios serán considerados suscriptores no residenciales.
 
 (Decreto 2981 de 2013, artículo 48).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3.48 — Responsabilidad por los residuos sólidos generados en el cargue y descargue de mercancías y materiales
 
 Los responsables de cargue, descargue y transporte de mercancías o materiales, deberán recoger los residuos sólidos originados por esas actividades y entregarlos a la persona prestadora del servicio público de aseo. El control y vigilancia de esta obligación estará a cargo de las autoridades de policía.
 
 (Decreto 2981 de 2013, artículo 49).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.49 — Monitoreo de la actividad de recolección de residuos sólidos
 
@@ -24119,8 +21605,6 @@ Las personas prestadoras del servicio público de aseo que atiendan en ciudades 
 3. Monitoreo de tiempos y movimientos de los vehículos recolectores.
 
 (Decreto 2981 de 2013, artículo 50).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.3.50 — Características de las bases de operación
 
@@ -24148,8 +21632,6 @@ SUBSECCIÓN 4
 
 BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.51 — Responsabilidad en barrido y limpieza de vías y áreas públicas
 
 Las labores de barrido y limpieza de vías y áreas públicas son responsabilidad de la persona prestadora del servicio público de aseo en el área de prestación donde realice las actividades de recolección y transporte.
@@ -24170,8 +21652,6 @@ La Comisión de Regulación de Agua Potable y Saneamiento Básico determinará l
 
 (Decreto 2981 de 2013, artículo 52).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.52 — Acuerdos de barrido y limpieza
 
 Las personas prestadoras deberán suscribir acuerdos de barrido y limpieza en los que se determinen las vías y áreas públicas que cada persona prestadora vaya a atender en el respectivo municipio, sin perjuicio de que en el mismo acuerdo se convenga que sólo uno de ellos sea quién atiende la totalidad del área. En los mismos acuerdos se podrá establecer la forma de remunerarse entre los prestadores de las mencionadas actividades.
@@ -24186,8 +21666,6 @@ PARÁGRAFO . En el evento que no se logre un acuerdo entre las personas prestado
 
 (Decreto 2981 de 2013, artículo 53).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.53 — Frecuencias mínimas de barrido y limpieza de vías y áreas públicas
 
 La frecuencia mínima de barrido y limpieza del área de prestación a cargo del prestador será de dos (2) veces por semana para municipios y/o distritos de primera categoría o especiales, y de una (1) vez por semana para las demás categorías establecidas en la ley. El establecimiento de mayores frecuencias definidas en el PGIRS para la totalidad del área urbana del municipio y/o distrito o partes específicas de la misma, deberá ser solicitado por el ente territorial al prestador y su costo será reconocido vía tarifa.
@@ -24196,15 +21674,11 @@ PARÁGRAFO . El prestador de la actividad de recolección y transporte de residu
 
 (Decreto 2981 de 2013, artículo 54).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.54 — Establecimiento del horario de barrido y limpieza de vías y áreas públicas
 
 El barrido y limpieza de vías y áreas públicas deberá realizarse en horarios que causen la menor afectación al flujo de vehículos y de peatones.
 
 (Decreto 2981 de 2013, artículo 55).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.4.55 — Establecimiento de macrorrutas y microrrutas para el barrido y limpieza de vías y áreas públicas
 
@@ -24212,15 +21686,11 @@ Las personas prestadoras del servicio público de aseo están obligadas a establ
 
 (Decreto 2981 de 2013, artículo 56).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.56 — Actividad de barrido y limpieza manual de vías y áreas públicas
 
 Los residuos resultantes de la labor de barrido y limpieza manual de vías y áreas públicas deberán ser colocados en bolsas plásticas, que una vez llenas serán cerradas y ubicadas en el sitio preestablecido para su posterior recolección. Esta actividad incluye la recolección de bolsas de las cestas colocadas en las vías y áreas públicas.
 
 (Decreto 2981 de 2013, artículo 57).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.4.57 — Instalación de cestas o canastillas públicas de residuos sólidos en las vías y áreas públicas
 
@@ -24231,8 +21701,6 @@ La recolección de los residuos sólidos depositados en las cestas es responsabi
 PARÁGRAFO . Los costos de inversión y mantenimiento de las cestas de almacenamiento se deberán tener en cuenta en la regulación tarifaria, para lo cuál la Comisión de Regulación de Agua Potable y Saneamiento establecerá en la fórmula tarifaria el costo eficiente para esta actividad de acuerdo con el número de suscriptores.
 
 (Decreto 2981 de 2013, artículo 58).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.4.58 — Características de las canastillas o cestas públicas
 
@@ -24252,15 +21720,11 @@ Las canastillas o cestas públicas deben cumplir con las siguientes característ
 
 (Decreto 2981 de 2013, artículo 59).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.59 — Equipo para la actividad de barrido manual
 
 El personal operativo para la actividad de barrido manual deberá contar con el equipo necesario para la limpieza, barrido almacenamiento, recolección y el transporte manual de los residuos sólidos, incluidos los elementos de seguridad industrial y salud ocupacional necesarios.
 
 (Decreto 2981 de 2013, artículo 60).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.4.60 — Actividad de barrido mecánico
 
@@ -24272,15 +21736,11 @@ PARÁGRAFO . Las personas prestadoras del servicio de aseo en las actividades de
 
 (Decreto 2981 de 2013, artículo 61).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4.61 — Responsabilidad de los anunciantes en materia de limpieza
 
 La limpieza y remoción de los avisos publicitarios o propaganda será responsabilidad de los anunciantes, quién podrá contratar con la persona prestadora del servicio público de aseo la remoción y el manejo de los residuos sólidos generados por la remoción de los avisos publicitarios o propaganda, cuyo costo será pactado entre el anunciante y la persona prestadora del servicio público de aseo cómo manejo de un residuo especial. Las autoridades de policía deberán velar por el cumplimiento de esta obligación.
 
 (Decreto 2981 de 2013, artículo 62).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.4.62 — Limpieza de playas
 
@@ -24293,8 +21753,6 @@ PARÁGRAFO . La comisión de regulación de agua potable y saneamiento básico d
 SUBSECCIÓN 5
 
 LAVADO DE ÁREAS PÚBLICAS
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.5.63 — Responsabilidad en el lavado de áreas públicas
 
@@ -24310,8 +21768,6 @@ La Comisión de Regulación de Agua Potable y Saneamiento Básico determinará l
 
 (Decreto 2981 de 2013, artículo 64).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.5.64 — Acuerdos de lavado de áreas públicas
 
 Las personas prestadoras deberán suscribir acuerdos donde se determinen las áreas públicas, incluidos los puentes peatonales a cargo de cada prestador y las frecuencias de ejecución de la actividad que cada persona prestadora vaya a realizar, sin perjuicio de que en el mismo acuerdo se convenga que sólo uno de ellos sea quién atienda la totalidad del área. En los mismos acuerdos se podrá establecer la forma de remunerarse entre los prestadores de las mencionadas actividades.
@@ -24325,8 +21781,6 @@ En el evento que habiéndose firmado el acuerdo de que trata el presente artícu
 PARÁGRAFO . En el evento que no se logre un acuerdo entre las personas prestadoras en los términos previstos en el presente artículo, cualquiera de ellas podrá solicitar a la Comisión de Regulación de Agua Potable y Saneamiento Básico la resolución de dicha controversia, en los términos del artículo 73, numeral 73.9, de la Ley 142 de 1994.
 
 (Decreto 2981 de 2013, artículo 65).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.5.65 — Alcance del lavado de áreas públicas
 
@@ -24346,8 +21800,6 @@ SUBSECCIÓN 6
 
 CORTE DE CÉSPED Y PODA DE ÁRBOLES
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.6.66 — Actividad de corte de césped
 
 Esta actividad debe realizarse en las áreas verdes públicas de los municipios, tales como: separadores viales ubicados en vías de tránsito automotor o peatonal, glorietas, rotondas, orejas o asimilables, parques públicos sin restricción de acceso definidos en las normas de ordenamiento territorial, que se encuentren dentro del perímetro urbano. Se excluye de esta actividad el corte de césped de los antejardines frente a los inmuebles el cuál será responsabilidad de los propietarios de estos.
@@ -24356,8 +21808,6 @@ PARÁGRAFO . Se excluyen las actividades de ornato y embellecimiento.
 
 (Decreto 2981 de 2013, artículo 67).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.6.67 — Frecuencias y horarios para la actividad de corte de césped
 
 El desarrollo de las tareas de corte de césped se hará de forma programada, teniendo en cuenta que el área debe intervenirse cuando la altura del césped supere los diez (10) centímetros. En todo caso la altura mínima del césped una vez cortado no debe ser inferior a dos (2) centímetros.
@@ -24365,8 +21815,6 @@ El desarrollo de las tareas de corte de césped se hará de forma programada, te
 Esta actividad deberá realizarse en horario diurno para zonas residenciales. Se exceptúan de esta obligación aquellas zonas que no puedan atenderse en horario diurno, por las dificultades generadas por el tránsito peatonal o vehicular y cualquier otra zona que por sus características particulares no permita la realización de la actividad en el horario mencionado.
 
 (Decreto 2981 de 2013, artículo 68).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.6.68 — Normas de seguridad para la actividad de corte de césped
 
@@ -24378,8 +21826,6 @@ Demarcación: Se hará mediante cinta para encerrar el área de trabajo con el f
 
 (Decreto 2981 de 2013, artículo 69)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.6.69 — Normas de seguridad para el operario en la actividad de corte de césped
 
 En la ejecución de esta actividad la persona prestadora deberá brindar las medidas de seguridad para preservar la integridad física del operario durante la realización de la labor de corte de césped de acuerdo con las normas de seguridad industrial.
@@ -24387,8 +21833,6 @@ En la ejecución de esta actividad la persona prestadora deberá brindar las med
 La persona prestadora del servicio público de aseo deberá capacitar a los operarios sobre las especificaciones y condiciones técnicas de la actividad y las normas de seguridad industrial que deben aplicarse.
 
 (Decreto 2981 de 2013, artículo 70).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.6.70 — Actividad de poda de árboles
 
@@ -24402,8 +21846,6 @@ También se excluye del alcance de esta actividad la tala de árboles, así cóm
 
 (Decreto 2981 de 2013, artículo 71).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.6.71 — Normas de seguridad para la actividad de poda de árboles
 
 La persona prestadora del servicio público de aseo deberá adoptar todas las medidas tendientes a evitar accidentes y molestias durante la ejecución de la poda de árboles. En este sentido adelantará las siguientes actividades:
@@ -24414,8 +21856,6 @@ Demarcación: Se hará mediante cinta para encerrar el área de trabajo con el f
 
 (Decreto 2981 de 2013, artículo 72).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.6.72 — Normas de seguridad para el operario en la actividad de poda de árboles
 
 En la ejecución de esta actividad la persona prestadora deberá brindar las medidas de seguridad para preservar la integridad física del operario durante la realización de la labor de poda de árboles de acuerdo con las normas de seguridad industrial.
@@ -24423,8 +21863,6 @@ En la ejecución de esta actividad la persona prestadora deberá brindar las med
 La persona prestadora del servicio público de aseo deberá capacitar a los operarios sobre las especificaciones y condiciones técnicas de la actividad y las normas de seguridad industrial que deben aplicarse.
 
 (Decreto 2981 de 2013, artículo 73).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.6.73 — Autorizaciones para las actividades de poda de árboles
 
@@ -24436,15 +21874,11 @@ SUBSECCIÓN 7
 
 TRANSFERENCIAS
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.7.74 — Utilización de estaciones de transferencia
 
 Las personas prestadoras del servicio de aseo en las actividades de recolección y transporte deberán evaluar la conveniencia de utilizar estaciones de transferencia, cómo infraestructura para la prestación del servicio en los eventos en que la misma se constituya en una solución de costo mínimo, con el objetivo de incrementar eficiencia al optimizar costos de recolección racionalizando los recursos económicos, energéticos, con el fin de coadyuvar al logro de una mayor productividad de la mano de obra y del equipo utilizado, sin perjuicio de obtener previamente las autorizaciones ambientales a que haya lugar.
 
 (Decreto 2981 de 2013, artículo 75).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.7.75 — Obligación de las entidades territoriales
 
@@ -24452,15 +21886,11 @@ Los municipios o distritos deberán definir las áreas donde es posible la local
 
 (Decreto 2981 de 2013, artículo 76).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.7.76 — Instalación de estaciones de transferencia
 
 Cuando se considere necesario ubicar una estación de transferencia la persona prestadora del servicio deberá realizar los estudios que incluyan la evaluación económica, técnica operativa, jurídica, comercial, financiera, institucional, sociocultural y de riesgos cumpliendo con la reglamentación técnica vigente para el sector y sin perjuicio de la obtención de las autorizaciones ambientales a que haya lugar.
 
 (Decreto 2981 de 2013, artículo 77).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.7.77 — Características de los vehículos de transferencia para transporte de residuos sólidos
 
@@ -24500,8 +21930,6 @@ SUBSECCIÓN 8
 
 RECOLECCIÓN Y TRANSPORTE SELECTIVO DE RESIDUOS PARA APROVECHAMIENTO
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.8.78 — Recolección y transporte de residuos para aprovechamiento cómo actividad complementaria del servicio público de aseo
 
 Son el conjunto de actividades complementarias de aseo realizada por la persona prestadora del servicio público, dirigidas a efectuar la recolección de los residuos sólidos de manera separada para su transporte hasta las estaciones de clasificación y aprovechamiento o a las plantas de aprovechamiento.
@@ -24509,8 +21937,6 @@ Son el conjunto de actividades complementarias de aseo realizada por la persona 
 PARÁGRAFO . La Comisión de Regulación de Agua Potable y Saneamiento Básico establecerá la forma de remuneración de la actividad de recolección, transporte selectivo y clasificación de residuos aprovechables.
 
 (Decreto 2981 de 2013, artículo 79).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.8.79 — Características de los vehículos de recolección selectiva
 
@@ -24544,8 +21970,6 @@ PARÁGRAFO . El transporte de residuos aprovechables en vehículos motorizados p
 
 (Decreto 2981 de 2013, artículo 80).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.8.80 — Recolección, transbordo y transporte de residuos sólidos aprovechables
 
 Modificado por el Decreto 596 de 2016En la recolección y transporte de residuos aprovechables se tendrá en cuenta cómo mínimo:
@@ -24565,8 +21989,6 @@ Una vez terminada la labor, el sitio deberá quedar libre de equipos de recolecc
 PARÁGRAFO 1. En consideración a que el transbordo de residuos sólidos aprovechables puede realizarse en espacio público de acuerdo con lo determinado par el Plan de Gestión Integral de Residuos Sólidos (PGIRS).
 
 (Decreto 2981 de 2013, artículo 81).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.8.81 — Propósitos del aprovechamiento
 
@@ -24588,8 +22010,6 @@ El aprovechamiento de los materiales contenidos en los residuos sólidos, tiene 
 
 (Decreto 2981 de 2013, artículo 82).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.8.82 — Requerimientos de los residuos sólidos para el aprovechamiento
 
 Modificado por el Decreto 596 de 2016 En las actividades de aprovechamiento, los residuos deben cumplir par lo menos con los siguientes criterios básicos y requerimientos, para que los métodos de aprovechamiento se realicen en forma óptima:
@@ -24602,23 +22022,17 @@ PARÁGRAFO . En el caso de las fracciones de residuos sólidos orgánicos biodeg
 
 (Decreto 2981 de 2013, artículo 83).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.8.83 — Almacenamiento de materiales aprovechables
 
 El almacenamiento de los materiales aprovechables deberá realizarse de tal manera, que no se deteriore su calidad ni se pierda su valor. Los residuos sólidos aprovechables separados en la fuente, deben almacenarse de manera que no afecten el entorno físico, la salud humana y la seguridad; por lo tanto, deben controlarse los vectores, olores, explosiones y fuentes de llama o chispas que puedan generar incendios. Los lugares de almacenamiento deben salvaguardar las características físicas y químicas de los residuos sólidos allí depositados. Se deben almacenar bajo condiciones seguras dependiendo de sus características. Los materiales reciclables inorgánicos pueden almacenarse en altura.
 
 (Decreto 2981 de 2013, artículo 84).
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.8.84 — Compactación o densificación de materiales aprovechables
 
 En las instalaciones de almacenamiento se podrá incrementar la densidad de los residuos sólidos, ya sea para reducir las necesidades de almacenamiento o para la reducción del volumen para el transporte, con los equipos tecnológicos disponibles en el mercado.
 
 (Decreto 2981 de 2013, artículo 85).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.8.85 — Sistemas de aprovechamiento y valorización regionales
 
@@ -24631,8 +22045,6 @@ SUBSECCIÓN 9
 (Subsección 9 Derogada por el Art. 5 del Decreto 1381 de 2024 )
 
 ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.9.86 — Requisitos mínimos para las estaciones de clasificación y aprovechamiento (ECA)
 
@@ -24682,8 +22094,6 @@ SECCIÓN 3
 
 GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.87 — Plan para la gestión integral de residuos sólidos, PGIRS
 
 Los municipios y distritos, deberán elaborar, implementar y mantener actualizado un plan municipal o distrital para la gestión integral de residuos o desechos sólidos en el ámbito local y/o regional según el caso, en el marco de la gestión integral de los residuos, el presente decreto y la metodología para la elaboración de los PGIRS.
@@ -24710,23 +22120,17 @@ PARÁGRAFO 3. Los Ministerios de Vivienda, Ciudad y Territorio y Ambiente y Desa
 
 (Decreto 2981 de 2013, artículo 88).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.88 — Del interés social y utilidad pública
 
 Las áreas potenciales que la entidad territorial seleccione y determine de acuerdo con las normas de ordenamiento territorial para la ubicación de infraestructuras para la provisión del servicio público de aseo en la actividad complementaria de aprovechamiento, hacen parte de los bienes y servicios de interés común, los cuáles prevalecerán sobre el interés particular. La formulación del PGIRS deberá contar con los estudios técnicos que soporten las decisiones adoptadas.
 
 (Decreto 2981 de 2013, artículo 89).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.89 — Aprovechamiento en el marco de los PGIRS
 
 Los municipios y distritos al actualizar el respectivo plan de gestión integral de residuos sólidos PGIRS están en la obligación de diseñar, implementar y mantener actualizados, programas y proyectos sostenibles de aprovechamiento de residuos sólidos. En desarrollo de esta actividad deberán dar prioridad a los estudios de factibilidad sobre aprovechamiento de residuos.
 
 (Decreto 2981 de 2013, artículo 90).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.90 — Programa de aprovechamiento
 
@@ -24735,8 +22139,6 @@ En el marco de la Gestión Integral de Residuos Sólidos, el municipio o distrit
 PARÁGRAFO . A las autoridades ambientales competentes, les corresponde realizar el control y seguimiento de la ejecución del PGIRS, exclusivamente en lo relacionado con las metas de aprovechamiento y las autorizaciones ambientales que requiera el prestador del servicio de aseo, de conformidad con la normatividad ambiental vigente.
 
 (Decreto 2981 de 2013, artículo 91).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.91 — Viabilidad de los proyectos de aprovechamiento
 
@@ -24764,8 +22166,6 @@ El ente territorial en el marco de los PGIRS deberá determinar la viabilidad de
 
 (Decreto 2981 de 2013, artículo 92).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.92 — Gestión diferencial de residuos aprovechables
 
 Cuando sea viable el desarrollo de proyectos de aprovechamiento, el ente territorial deberá establecer, acorde con el régimen de servicios públicos, una estrategia técnica, operativa y administrativa que garantice la gestión diferencial de residuos aprovechables y no aprovechables. Para ello se deberá tener en cuenta los siguientes aspectos:
@@ -24782,23 +22182,17 @@ PARÁGRAFO 2. Es deber del ente territorial, dentro de su responsabilidad cómo 
 
 (Decreto 2981 de 2013, artículo 93).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.93 — Fortalecimiento del aprovechamiento
 
 Con el objeto de fomentar y fortalecer el aprovechamiento de los residuos sólidos, en condiciones adecuadas para la salud y el medio ambiente, el Ministerio de Ambiente y Desarrollo Sostenible en coordinación con el Ministerio de Vivienda, Ciudad y Territorio, con apoyo de la industria y la participación de las universidades y/o centros de investigación y otras entidades estatales, podrán adelantar estudios de valoración de residuos potencialmente aprovechables, con el fin de promocionar la recuperación de nuevos materiales, disminuir las cantidades de residuos a disponer y reunir la información técnica, económica y empresarial necesaria para incorporar dichos materiales a los procesos productivos.
 
 (Decreto 2981 de 2013, artículo 94).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.94 — Campañas de orientación y capacitación
 
 Es obligación de los municipios, cómo responsables de la gestión integral de residuos sólidos, la implementación continúa de campañas de orientación y capacitación de cómo separar y aprovechar los residuos sólidos en el marco del PGIRS.
 
 (Decreto 2981 de 2013, artículo 95).
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.95 — Obligaciones de los municipios y distritos
 
@@ -24838,8 +22232,6 @@ SUBSECCION 1
 
 ATENCIÓN AL USUARIO Y GESTIÓN COMERCIAL DEL SERVICIO PÚBLICO DE ASEO
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.1.96 — Facturación conjunta del servicio público de aseo
 
 Quienes presten cualquiera de los servicios públicos a los que se refiere la Ley 142 de 1994, prestarán oportunamente el servicio de facturación conjunta a las personas prestadoras del servicio de aseo, reconociendo por tal actividad el costo de estas más una utilidad razonable.
@@ -24848,15 +22240,11 @@ En los casos en que en el convenio de facturación conjunta se haya acordado el 
 
 (Decreto 2981 de 2013, artículo 97).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.1.97 — Requisitos especiales de la factura
 
 La factura del servicio público de aseo además de los requisitos establecidos en la Ley 142 de 1994 deberá indicar cómo mínimo la frecuencia de prestación del servicio. Así mismo, el prestador está obligado a entregar oportunamente las facturas a los suscriptores, de conformidad con las normas vigentes y los duplicados cuando a ello haya lugar.
 
 (Decreto 2981 de 2013, artículo 98).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.1.98 — Facturación para usuarios agrupados en unidades inmobiliarias
 
@@ -24870,15 +22258,11 @@ PARÁGRAFO . El valor máximo a cobrar por concepto del servicio de aseo a inmue
 
 (Decreto 2981 de 2013. artículo 99).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.1.99 — Prepago en facturación conjunta
 
 Cuando se facture el servicio público de aseo de manera conjunta con cualquier otro servicio que tenga establecido un sistema de comercialización a través de la modalidad de prepago, no se podrá dejar de pagar el servicio público de aseo, de acuerdo al parágrafo del artículo 147 de la Ley 142 de 1994.
 
 (Decreto 2981 de 2013, artículo 100).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.1.100 — Información al usuario
 
@@ -24888,8 +22272,6 @@ La persona prestadora suministrará al usuario la información que le permita ev
 
 (Decreto 2981 de 2013, artículo 101).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.1.101 — Oficina de peticiones, quejas y recursos
 
 Todas las personas prestadoras del servicio público de aseo deben disponer de una oficina para recibir, atender, tramitar y resolver todo tipo de peticiones, quejas y recursos que presenten los usuarios y/o suscriptores de conformidad con lo establecido en la Ley 142 de 1994.
@@ -24897,8 +22279,6 @@ Todas las personas prestadoras del servicio público de aseo deben disponer de u
 Estas oficinas llevarán un registro y harán un seguimiento detallado de cada una de las peticiones, quejas y recursos donde aparezca entre otros aspectos: motivo de la petición o queja, fecha en que se presentó, medio que utilizó el usuario y/o suscriptor, respuesta que se le dio y tiempo que utilizó la empresa para resolverla. La anterior información debe estar disponible en todo momento para consulta de los usuarios que lo soliciten y en particular de la autoridad competente.
 
 (Decreto 2981 de 2013, artículo 102).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.1.102 — Suspensión en interés del servicio
 
@@ -24908,15 +22288,11 @@ En caso de suspensiones programadas del servicio público de aseo, la persona pr
 
 (Decreto 2981 de 2013, artículo 103).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.1.103 — Descuentos por fallas en la prestación del servicio público de aseo
 
 La persona prestadora del servicio público de aseo está obligada a hacer los descuentos y reparar e indemnizar los perjuicios ocasionados cómo consecuencia de falla en la prestación del servicio, salvo que medie caso fortuito o fuerza mayor de acuerdo con lo establecido por la Ley 142 de 1994 y demás normas reglamentarias y regulatorias, sin perjuicio de los indicadores de descuento que defina la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
 (Decreto 2981 de 2013, artículo 104).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.1.104 — Relaciones con la comunidad
 
@@ -24934,23 +22310,17 @@ SUBSECCIÓN 2
 
 RELACIONES ENTRE LOS USUARIOS Y LA PERSONA PRESTADORA DEL SERVICIO
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.2.105 — Régimen jurídico aplicable
 
 Las relaciones entre la persona prestadora del servicio público de aseo y los usuarios se someterán a las normas establecidas en la Ley 142 de 1994, el presente capítulo y normatividad complementaria del servicio público de aseo.
 
 (Decreto 2981 de 2013, artículo 106).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.2.106 — Clasificación de los suscriptores y/o usuarios del servicio de aseo
 
 Los usuarios del servicio público de aseo se clasificarán en residenciales y no residenciales, y estos últimos en pequeños y grandes generadores de acuerdo con su producción.
 
 (Decreto 2981 de 2013, artículo 107).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.2.107 — Condiciones de acceso al servicio
 
@@ -24961,8 +22331,6 @@ Las personas prestadoras deberán disponer de formularios para la recepción de 
 PARÁGRAFO . Cuando haya servicio público de aseo disponible será obligatorio vincularse cómo usuario y cumplir con los deberes respectivos, o acreditar que se dispone de alternativas que no perjudiquen a la comunidad. La Superintendencia de Servicios Públicos Domiciliarios será la entidad competente para determinar si la alternativa propuesta no causa perjuicios a la comunidad.
 
 (Decreto 2981 de 2013, artículo 108).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.2.108 — De los derechos
 
@@ -24987,8 +22355,6 @@ Son derechos de los usuarios:
 9. Obtener el aforo de los residuos sólidos, de conformidad con lo que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
 (Decreto 2981 de 2013, artículo 109).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.2.109 — De los deberes
 
@@ -25020,8 +22386,6 @@ Son deberes de los usuarios, entre otros:
 
 (Decreto 2981 de 2013, artículo 110).
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.2.110 — Terminación anticipada del contrato del servicio público de aseo
 
 Todo usuario del servicio público de aseo tiene derecho a terminar anticipadamente el contrato de prestación del servicio público de aseo. Para lo anterior el suscriptor deberá cumplir los siguientes requisitos:
@@ -25048,8 +22412,6 @@ SUBSECCIÓN 3
 
 OBLIGACIONES DE LAS PERSONAS PRESTADORAS
 
-ARTÍCULO
-
 ## art:2.3.2.2.4.2.111 — Obligaciones de las personas prestadoras
 
 Son obligaciones de las personas prestadoras, además de las previstas en la Ley 142 de 1994 y en este capítulo, las siguientes:
@@ -25065,8 +22427,6 @@ Las modificaciones a las condiciones uniformes se deberán publicar en la misma 
 4. Inscribirse en el Registro Único de Prestadores de Servicios (RUPS) de la Superintendencia de Servicios Públicos Domiciliarios, al inicio de sus actividades.
 
 (Decreto 2981 de 2013, artículo 112).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4.2.112 — Página web
 
@@ -25090,15 +22450,11 @@ SECCIÓN 5
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.2.2.5.113 — Obligatoriedad de la transferencia de los subsidios
 
 Los municipios y distritos deberán establecer los mecanismos que garanticen la transferencia al fondo de solidaridad y redistribución de ingresos de los recursos para los subsidios de los usuarios de menores ingresos de estratos 1, 2 y 3 de conformidad con la Ley 142 de 1994, la Ley 715 de 2001, la Ley 1176 de 2007 y la Ley 1537 de 2012, los decretos que las reglamenten y el régimen tarifario aplicable, así cómo para los casos en que se suscriban contratos para la prestación de una o varias actividades del servicio, con el propósito de garantizar la sostenibilidad del mismo.
 
 (Decreto 2981 de 2013, artículo 114).
-
-ARTÍCULO
 
 ## art:2.3.2.2.5.114 — Prácticas discriminatorias
 
@@ -25107,8 +22463,6 @@ Está expresamente prohibido a las personas prestadoras del servicio público de
 La persona prestadora debe garantizar bajo las condiciones técnicas establecidas en este capítulo la prestación del servicio de aseo en condiciones uniformes a todos los usuarios que lo requieran.
 
 (Decreto 2981 de 2013, artículo 115).
-
-ARTÍCULO
 
 ## art:2.3.2.2.5.115 — Restricciones injustificadas para el acceso a rellenos sanitarios y/o estaciones de transferencia
 
@@ -25130,23 +22484,17 @@ El servicio de disposición de residuos sólidos deberá prestarse de manera con
 
 (Decreto 2981 de 2013, artículo 116).
 
-ARTÍCULO
-
 ## art:2.3.2.2.5.116 — Separación vertical
 
 La Comisión de Regulación de Agua Potable y Saneamiento Básico podrá establecer la separación vertical de las actividades del servicio o la regulación de proveedores de insumos básicos del servicio de aseo cuando se presente alteración de la competencia o abuso de la posición dominante.
 
 (Decreto 2981 de 2013, artículo 117)
 
-ARTÍCULO
-
 ## art:2.3.2.2.5.117 — Aplicación de normas técnicas
 
 Para la aplicación y desarrollo técnico del presente capítulo se deben cumplir las normas pertinentes del Reglamento Técnico de Agua Potable y Saneamiento Básico.
 
 (Decreto 2981 de 2013, artículo 118)
-
-ARTÍCULO
 
 ## art:2.3.2.2.5.118 — Transición
 
@@ -25168,55 +22516,37 @@ CAPÍTULO 3.
 
 DISPOSICIÓN FINAL
 
-ARTÍCULO
-
 ## art:2.3.2.3.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar las condiciones bajo las cuáles deberá desarrollarse la actividad complementaria de disposición final de residuos sólidos en la prestación del servicio público de aseo.
-
-ARTÍCULO
 
 ## art:2.3.2.3.2 — Del Interés Público y Social
 
 las áreas potenciales que la entidad territorial defina en los Planes de Ordenamiento Territorial -POT, Planes Básicos de Ordenamiento Territorial -PBOT, o Esquemas de Ordenamiento Territorial -EOT, según sea el caso, para la ubicación de infraestructura y prestación de la actividad de disposición final de residuos sólidos, son de interés público y social.
 
-ARTÍCULO
-
 ## art:2.3.2.3.3 — De la responsabilidad de las Entidades Territoriales
 
 Es responsabilidad de los entes territoriales asegurar la prestación de la actividad de disposición final de residuos sólidos, ya sea en su propio territorio o en otra jurisdicción, siempre y cuando participe en la estructuración e implementación de la solución de carácter regional.
-
-ARTÍCULO
 
 ## art:2.3.2.3.4 — Finalidad del Ordenamiento Territorial en la actividad de disposición final de residuos sólidos
 
 Con el fin de implementar la actividad de disposición final de residuos sólidos, el ordenamiento territorial promoverá el establecimiento de regiones de planeación y gestión cómo marco de las relaciones geográficas, económicas y funcionales para el aseguramiento de su prestación.
 
-ARTÍCULO
-
 ## art:2.3.2.3.5 — Regionalización de sistemas de disposición final de residuos sólidos
 
 En la medida en que las condiciones ambientales, topográficas, viales y distancias lo permitan, los proyectos de disposición final de residuos sólidos que vaya a formular y desarrollar cualquier entidad territorial, propenderán a que se enfoquen desde el ámbito regional, teniendo en cuenta los beneficios sociales, ambientales y económicos derivados de e;;te nivel, en gestión conjunta con otros municipios y distritos.
-
-ARTÍCULO
 
 ## art:2.3.2.3.6 — Metodologías Tarifarias
 
 De conformidad con la ley, las metodologías tarifarias del servicio público de aseo en la actividad complementaria de disposición final que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico -CRA deberán incentivar el desarrollo de esquemas regionalizados.
 
-ARTÍCULO
-
 ## art:2.3.2.3.7 — Cofinanciación de la Nación
 
 Para que las entidades territoriales puedan acceder a los recursos de cofinanciación de la Nación para proyectos de sistemas de disposición final y tratamiento de residuos sólidos, deberán haber Identificado, planteado, analizado y evaluado, dentro de los correspondientes estudios de factibilidad que soportan el proyecto, alternativas de regionalización del servicio y presentarlas en su solicitud adjuntando el plano de la cartografía oficial del POT, PBOT o EOT correspondiente donde se ubiquen y delimiten las áreas para este tipo de proyectos.
 
-ARTÍCULO
-
 ## art:2.3.2.3.8 — Adicionalidad para eficiencia
 
 Con el fin de promover el diseño, implementación y operación de tratamientos alternativos y complementarlos a rellenos sanitarios, de los que habla el capítulo 7 del presente título, las entidades territoriales y las personas prestadoras del servicio público domiciliario de aseo, deberán para la toma de decisiones, realizar el análisis de beneficio -costo y de sostenibilidad de los sistemas.
-
-ARTÍCULO
 
 ## art:2.3.2.3.9 — Localización de áreas
 
@@ -25240,8 +22570,6 @@ PARÁGRAFO 2. Las áreas definidas cómo potenciales para la ejecución de proye
 
 PARÁGRAFO 3. Las áreas intervenidas con cualquier forma de disposición final deberán ser consideradas prioritariamente para la ubicación de infraestructura para la expansión o rehabilitación de rellenos sanitarios.
 
-ARTÍCULO
-
 ## art:2.3.2.3.10 — Categorización de Rellenos Sanitarios
 
 El Ministerio de Vivienda, Ciudad y Territorio definirá las condiciones mínimas de diseño y operación, que deberán ser utilizadas de acuerdo con la siguiente categorización para los sitios de disposición final, a partir del promedio diario registrado durante el último año.
@@ -25253,8 +22581,6 @@ El Ministerio de Vivienda, Ciudad y Territorio definirá las condiciones mínima
 . Categoría III. Mayor de 500 hasta 3000 ton/día.
 
 . Categoría IV. Mayor de 3000 ton/día.
-
-ARTÍCULO
 
 ## art:2.3.2.3.11 — Requisitos mínimos para el diseño de nuevos rellenos sanitarios o ampliación de existentes
 
@@ -25338,19 +22664,13 @@ información:
 
 El presupuesto que se presenta en el Documento Técnico de Estudios y Diseños deberá contener el presupuesto de obra ordenado por componentes y cada componente discriminado por capítulos, detallando conceptos, unidades y cantidades junto con el análisis de precios unitarios y debe corresponder al año de ejecución del mismo, así cómo los costos correspondientes al plan de manejo ambiental y otros que le sean pertinentes.
 
-ARTÍCULO
-
 ## art:2.3.2.3.12 — Uso futuro de los sitios de disposición final de residuos sólidos
 
 El uso futuro de los sitios donde se construyan y clausuren rellenos sanitarios, deberá estar considerado y determinado desde la etapa de diseño del relleno sanitario.
 
-ARTÍCULO
-
 ## art:2.3.2.3.13 — Construcción de rellenos sanitarios
 
 La construcción del relleno sanitario deberá realizarse conforme al Documento Técnico de Estudios y Diseños. Durante la ejecución deberán elaborase los planos constructivos o "récord" con sus respectivas memorias de ajustes sí fueron realizados, los cuáles reposarán en la instalaciones de la persona.
-
-ARTÍCULO
 
 ## art:2.3.2.3.14 — Criterios de Operación
 
@@ -25388,13 +22708,9 @@ La persona prestadora del servicio público de aseo en la actividad complementar
 
 11. Equipos de operación. Todos los rellenos sanitarios deberán utilizar equipos para garantizar la descarga, distribución, compactación, nivelación, aplicación de cobertura, drenaje y transporte de material de cobertura. El número y disponibilidad de equipos necesario será calculado con base en la cantidad' de toneladas recibidas y la densidad de compactación señalada en el diseño y establecida en. el Reglamento Operativo.
 
-ARTÍCULO
-
 ## art:2.3.2.3.15 — Reglamento Operativo
 
 Los sitios de disposición final deberán contar con un Reglamento Operativo que establezca los Instrumentos de Planeación, Operación y Seguimiento para las diferentes etapas de desarrollo del proyecto. Los elementos mínimos que deberán ser considerados en el Reglamento Operativo son: Manuales de Operación, Bitácoras y Registros; de acuerdo con los criterios que para el efecto defina el Ministerio de Vivienda, Ciudad y Territorio.
-
-ARTÍCULO
 
 ## art:2.3.2.3.16 — Monitoreo, Seguimiento y Control a la operación de las actividades de disposición final
 
@@ -25418,37 +22734,25 @@ Es responsabilidad de la persona prestadora las actividades de monitoreo, seguim
 
 . Seguridad Industrial: Debe disponer de los elementos de seguridad Industrial y salud ocupacional, para el personal operativo, administrativo y visitantes, acorde con lo establecido en el Reglamento Operativo y la normatividad vigente.
 
-ARTÍCULO
-
 ## art:2.3.2.3.17 — Cierre y Clausura
 
 Con el fin de garantizar la disponibilidad de recursos económicos para realizar el cierre, clausura, pos clausura y posterior monitoreo de los rellenos sanitarios, toda 'persona prestadora del servicio público de aseo en la actividad de disposición final de' residuos sólidos, deberá constituir y mantener una provisión, que garantice la disponibilidad permanente de las sumas acumuladas durante el periodo' de operación del relleno sanitario, necesarias para construir las obras de clausura y pos clausura requeridas y llevar a cabo el monitoreo por para dichas etapas. La forma de determinar los valores a provisionar será establecida por la Comisión de Regulación de Agua Potable y Saneamiento Básico en la metodología tarifaria del servicio público de aseo.
-
-ARTÍCULO
 
 ## art:2.3.2.3.18 — Minería de rellenos
 
 La persona prestadora del servicio público de aseo en la actividad de disposición final de residuos sólidos podrá desarrollar proyectos de minería de rellenos con el fin de optimizar sistemas de disposición' final existentes.
 
-ARTÍCULO
-
 ## art:2.3.2.3.19 — Tratamientos de residuos en sitios de disposición final
 
 Los sitios de disposición final podrán establecer instalaciones de tratamientos alternativos o complementarios a rellenos sanitarios y disposición final, de conformidad a lo dispuesto en el Capítulo 7 del presente Título, una vez realizado el análisis de beneficio-costo y de sostenibilidad que defina su viabilidad.
-
-ARTÍCULO
 
 ## art:2.3.2.3.20 — Metodologías Tarifarías
 
 De conformidad con la ley, las metodologías tarifarías del servicio público de aseo que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico -CRA deberán incentivar el desarrollo de la actividad complementaria de tratamiento.
 
-ARTÍCULO
-
 ## art:2.3.2.3.21 — Aprovechamiento de Biogás
 
 La viabilidad del aprovechamiento de biogás para valorización energética' dependerá de los estudios de viabilidad técnica, económica y la relación beneficio costo. En todo caso la Comisión de Regulación de Agua Potable y Saneamiento Básico -CRA podrá realizar las evaluaciones que correspondan para establecer la viabilidad de este tipo de proyectos.
-
-ARTÍCULO
 
 ## art:2.3.2.3.22 — Transitorio
 
@@ -25464,8 +22768,6 @@ SUBSECCIÓN 1
 
 DEL INTERÉS SOCIAL Y DE UTILIDAD PÚBLICA
 
-ARTÍCULO
-
 ## art:2.3.2.3.2.1.2 — Del interés social y utilidad pública
 
 Las áreas potenciales que la entidad territorial seleccione y determine en los Planes de Ordenamiento Territorial, POT, Planes Básicos de Ordenamiento Territorial, PBOT, o Esquemas de Ordenamiento Territorial, EOT, según sea el caso, cómo Suelo de Protección-Zonas de Utilidad Pública para la ubicación de infraestructuras para la provisión del servicio público de aseo en la actividad complementaria de disposición final, mediante la utilización de la tecnología de relleno sanitario, hacen parte de los bienes y servicios de interés común, los cuáles prevalecerán sobre el interés particular.
@@ -25477,8 +22779,6 @@ La entidad territorial localizará y señalará las áreas potenciales en los Pl
 SUBSECCIÓN 2
 
 PROCEDIMIENTO, CRITERIOS, METODOLOGÍA, PROHIBICIONES Y RESTRICCIONES PARA LA LOCALIZACIÓN DE ÁREAS PARA LA DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS
-
-ARTÍCULO
 
 ## art:2.3.2.3.2.2.3 — Procedimiento para la localización
 
@@ -25493,8 +22793,6 @@ Sin perjuicio de lo dispuesto en la Ley 388 de 1997, para la localización y def
 4. Una vez expedido el acto administrativo correspondiente por la entidad territorial, que adopta o modifica los Planes de Ordenamiento Territorial, Planes Básicos de Ordenamiento Territorial y Esquemas de Ordenamiento Territorial, según sea el caso, en los cuáles se establezcan las áreas potenciales para la disposición final de residuos sólidos, mediante la tecnología de relleno sanitario, la persona prestadora del servicio público de aseo en la actividad complementaria de disposición final, deberá surtir el proceso de licenciamiento, previsto en la ley y su decreto reglamentario.
 
 (Decreto 838 de 2005, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.2.3.2.2.4 — 2.4
 
@@ -25624,8 +22922,6 @@ PARÁGRAFO 2. La identificación y ubicación de los proyectos de rellenos sanit
 
 (Decreto 838 de 2005, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.2.3.2.2.5 — Prohibiciones y restricciones en la localización de áreas para disposición final de residuos sólidos
 
 Modificado por el Decreto 1736 de 2015 En la localización de áreas para realizar la disposición final de residuos sólidos, mediante la tecnología de relleno sanitario, se tendrán en cuenta las siguientes:
@@ -25666,8 +22962,6 @@ SUBSECCION 1
 
 DE LA PLANEACIÓN Y REGLAMENTO OPERATIVO
 
-ARTÍCULO
-
 ## art:2.3.2.3.3.1.6 — De Planeación
 
 El proceso de planificación del servicio público de aseo en la actividad complementaria de disposición final de residuos sólidos, se realizará con base en los siguientes instrumentos:
@@ -25683,8 +22977,6 @@ El proceso de planificación del servicio público de aseo en la actividad compl
 - Reglamento operativo.
 
 (Decreto 838 de 2005, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.2.3.3.1.7 — Reglamento operativo
 
@@ -25730,15 +23022,11 @@ s) Criterios operacionales entre otros los determinados en el artículo 2.3.2.3.
 
 (Decreto 838 de 2005, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.2.3.3.1.8 — Del plan de trabajo y construcción
 
 Con base en el reglamento operativo, el prestador del servicio público de aseo en la actividad complementaria de disposición final, deberá iniciar la ejecución de acuerdo con la secuencia programada, iniciando desde la fase de replanteo en terreno hasta el momento de clausura y posclausura del relleno sanitario.
 
 (Decreto 838 de 2005, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.2.3.3.1.9 — Criterios operacionales
 
@@ -25771,8 +23059,6 @@ La persona prestadora del servicio público de aseo en la actividad complementar
 SUBSECCIÓN 2
 
 DEL CONTROL Y MONITOREO
-
-ARTÍCULO
 
 ## art:2.3.2.3.3.2.10 — Del control y monitoreo en el área de disposición final de residuos sólidos
 
@@ -25944,8 +23230,6 @@ SECCIÓN 4
 
 COMPETENCIAS
 
-ARTÍCULO
-
 ## art:2.3.2.3.4.11 — De los municipios y distritos
 
 Dentro de las funciones asignadas a los municipios o distritos, señaladas en la ley, les corresponde la definición y adopción de los PGIRS, la identificación y localización de áreas potenciales para la disposición final de residuos sólidos, en los que se ubique la infraestructura del relleno sanitario, de acuerdo con la normatividad vigente en los POT, PBOT y EOT, según sea el caso, para asegurar la prestación del servicio de disposición final de los residuos sólidos generados en su jurisdicción de manera eficiente, sin poner en peligro la salud humana, ni utilizar procedimientos y/o métodos que puedan afectar el ambiente.
@@ -25953,8 +23237,6 @@ Dentro de las funciones asignadas a los municipios o distritos, señaladas en la
 PARÁGRAFO . Esta disposición rige para el departamento Archipiélago de San Andrés, Providencia y Santa Catalina.
 
 (Decreto 838 de 2005, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.2.3.4.12 — De los departamentos
 
@@ -25964,15 +23246,11 @@ Igualmente les corresponde impulsar y organizar sistemas de coordinación de las
 
 (Decreto 838 de 2005, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.2.3.4.13 — De la persona prestadora del servicio público de aseo en la actividad complementaria de disposición final
 
 La responsable de la operación y funcionamiento de los rellenos sanitarios será la persona prestadora de esta actividad complementaria del servicio público de aseo, quién deberá cumplir con las disposiciones que para el efecto se establecen en el Reglamento Técnico del Sector, RAS, en el PGIRS, en el presente capítulo, en la licencia ambiental. Asimismo, deberá responder ante las autoridades ambiental y de salud, según corresponda, por los impactos ambientales y sanitarios ocasionados por el inadecuado manejo del relleno sanitario.
 
 (Decreto 838 de 2005, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.2.3.4.14 — Permisos municipales o Distritales
 
@@ -25988,8 +23266,6 @@ SUBSECCIÓN ÚNICA
 
 FOMENTO A LA REGIONALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.3.2.3.5.15 — Fomento a la regionalización de sistemas de disposición final de residuos sólidos
 
 En la medida en que las condiciones ambientales, topográficas, viales y distancias lo permitan, los proyectos de disposición final de residuos sólidos que vaya a formular y desarrollar cualquier entidad territorial, propenderán a que se enfoquen desde el ámbito regional, teniendo en cuenta los beneficios sociales, ambientales y económicos derivados de este nivel, en gestión conjunta con otros municipios y distritos.
@@ -26000,23 +23276,17 @@ PARÁGRAFO . Se promoverán las actuaciones regionales e integrales relacionadas
 
 (Decreto 838 de 2005, artículo 16).
 
-ARTÍCULO
-
 ## art:2.3.2.3.5.16 — Cofinanciación de la Nación
 
 Para que las entidades territoriales puedan acceder a los recursos de cofinanciación de la Nación para proyectos de sistemas de disposición final de residuos sólidos, y deberán haber identificado, planteado, analizado y evaluado, dentro de los correspondientes estudios de factibilidad que soportan el proyecto, alternativas de regionalización del servicio y presentarlas en su solicitud, con la copia del acto administrativo respectivo donde se ubican y delimitan las áreas para este tipo de proyectos, sin perjuicio de la reglamentación que sobre el particular disponga cada entidad en su orden correspondiente.
 
 (Decreto 838 de 2005, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.2.3.5.17 — Tarifas por el servicio público de aseo en la actividad complementaria de disposición final
 
 De conformidad con la ley, las tarifas del servicio público de aseo en la actividad complementaria de disposición final que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico deberán incentivar el desarrollo de esquemas regionalizados de disposición final de residuos sólidos.
 
 (Decreto 838 de 2005, artículo 18).
-
-ARTÍCULO
 
 ## art:2.3.2.3.5.18 — Disponibilidad de recursos económicos
 
@@ -26028,8 +23298,6 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.2.3.6.19 — De la selección del método de relleno sanitario
 
 La selección del método a utilizar para la operación del relleno sanitario se realizará con base en las condiciones topográficas, geotécnicas y geohidrológicas del sitio seleccionado para la disposición final de los residuos. Igualmente, se establecerá el perfil estratigráfico del suelo y el nivel de los acuíferos freáticos permanentes y transitorios de la zona.
@@ -26038,15 +23306,11 @@ Los métodos a utilizar corresponden a los establecidos en el reglamento técnic
 
 (Decreto 838 de 2005, artículo 20).
 
-ARTÍCULO
-
 ## art:2.3.2.3.6.20 — Recuperación de sitios de disposición final
 
 Sin perjuicio de las responsabilidades establecidas en el respectivo plan de manejo ambiental, corresponde a las entidades territoriales y a los prestadores del servicio de aseo en la actividad complementaria de disposición final, recuperar ambientalmente los sitios que hayan sido utilizados cómo «botaderos» u otros sitios de disposición final no adecuada de residuos sólidos municipales o transformarlos, previo estudio, en rellenos sanitarios de ser viable técnica, económica y ambientalmente.
 
 (Decreto 838 de 2005, artículo 21).
-
-ARTÍCULO
 
 ## art:2.3.2.3.6.21 — Uso futuro de los sitios de disposición final
 
@@ -26054,15 +23318,11 @@ El uso futuro de los sitios donde se construyan y clausuren rellenos sanitarios,
 
 (Decreto 838 de 2005, artículo 22).
 
-ARTÍCULO
-
 ## art:2.3.2.3.6.22 — Disposición de escombros
 
 Los escombros que no sean objeto de un programa de recuperación y aprovechamiento deberán ser dispuestos adecuadamente en escombreras cuya ubicación haya sido previamente definida por el municipio o distrito, teniendo en cuenta lo dispuesto en la Resolución 541 de 1994 del Ministerio del Ambiente, Vivienda y Desarrollo Territorial o la norma que la sustituya, modifique o adicione y demás disposiciones ambientales vigentes.
 
 (Decreto 838 de 2005, artículo 23).
-
-ARTÍCULO
 
 ## art:2.3.2.3.6.23 — Restricción a la recuperación en rellenos sanitarios
 
@@ -26074,15 +23334,11 @@ CAPÍTULO 4
 
 INCENTIVO A LOS MUNICIPIOS DONDE SE UBIQUEN RELLENOS SANITARIOS Y ESTACIONES DE TRANSFERENCIA REGIONALES PARA RESIDUOS SÓLIDOS.
 
-ARTÍCULO
-
 ## art:2.3.2.4.1 — Objeto
 
 Reglamentar la forma en que el prestador del componente de disposición final, responsable del relleno sanitario regional o de la estación de transferencia regional debe calcular el valor del incentivo a reconocer al municipio donde se ubiquen dichas infraestructuras.
 
 (Decreto 920 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.2.4.2 — Cálculo del valor del incentivo para rellenos sanitarios de carácter regional
 
@@ -26108,8 +23364,6 @@ PARÁGRAFO . El valor total mensual del incentivo que se reconocerá al municipi
 
 (Decreto 920 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.2.4.3 — Cálculo del valor del incentivo para estaciones de transferencia de carácter regional
 
 Para determinar el valor del incentivo se adopta cómo base de cálculo el promedio de toneladas totales de residuos sólidos manejadas mensualmente en la estación de transferencia de carácter regional, descontando el promedio de las toneladas mensuales provenientes del municipio donde está ubicada la estación de transferencia, calculadas de acuerdo con los períodos de facturación previstos en el Artículo 16 de la Resolución CRA 351 de 2005 o la norma que la modifique adicione o sustituya.
@@ -26132,8 +23386,6 @@ PARÁGRAFO . El valor total mensual del incentivo que se reconocerá al municipi
 
 (Decreto 920 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.2.4.4 — Pago del incentivo
 
 Para efectos de asegurar el pago del incentivo al municipio, deberá suscribirse un convenio entre este y el prestador del componente de disposición final, responsable del relleno sanitario de carácter regional, o de la estación de transferencia de carácter regional, en el cuál se pacte cómo mínimo las condiciones de pago y los intereses que se causen en caso de mora o incumplimiento, así cómo los términos y plazos en que se harán los reportes de información al municipio beneficiario sobre las toneladas mensuales de residuos dispuestos o transferidos que lo originan.
@@ -26141,8 +23393,6 @@ Para efectos de asegurar el pago del incentivo al municipio, deberá suscribirse
 La no suscripción del convenio no releva al prestador de la obligación de pagar el valor del incentivo.
 
 (Decreto 920 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.2.4.5 — Reporte al Sistema Único de Información-SUI
 
@@ -26802,39 +24052,27 @@ CAPÍTULO 6
 
 TRATAMIENTO
 
-ARTÍCULO
-
 ## art:2.3.2.6.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar las condiciones bajo las cuáles deberá desarrollarse la actividad complementaria de tratamiento de residuos sólidos en la prestación del servicio público de aseo.
-
-ARTÍCULO
 
 ## art:2.3.2.6.2 — Del Interés Público y Social
 
 las áreas potenciales que la entidad territorial defina en los Planes de Ordenamiento Territorial-POT, Planes Básicos de Ordenamiento Territorial-PBOT, o Esquemas de Ordenamiento. Territorial-EOT, según sea el caso, para la ubicación de Infraestructura y prestación de la actividad complementaria de tratamiento de residuos sólidos, son de Interés público y social.
 
-ARTÍCULO
-
 ## art:2.3.2.6.3 — De la responsabilidad de las Entidades Territoriales
 
 Es responsabilidad de los entes territoriales asegurar la prestación de la actividad complementarla de tratamiento, ya sea en su propio territorio o en otra jurisdicción, y para el efecto podrá participar en la estructuración e implementación de soluciones de carácter regional.
 
-ARTÍCULO
-
 ## art:2.3.2.6.4 — Finalidad del Ordenamiento Territorial en la actividad de tratamiento
 
 Con el fin de implementar la actividad de tratamiento, el ordenamiento territorial promoverá el establecimiento de regiones de planeación y gestión de residuos sólidos cómo marco de las relaciones geográficas, económicas y funcionales para el aseguramiento de su prestación.
-
-ARTÍCULO
 
 ## art:2.3.2.6.5 — Selección de Tratamiento
 
 la selección de tratamiento o tratamientos a implementar debe considerar, entre otros, su complejidad, acorde con la caracterización de residuos sólidos según el tratamiento a implementar, los estudios de población, proyección de generación de residuos, análisis de viabilidad financiera y económica, así cómo la sostenibilidad empresarial.
 
 PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio definirá los criterios mínimos que deberán ser considerados para seleccionar el tipo de tratamiento o tratamientos.
-
-ARTÍCULO
 
 ## art:2.3.2.6.6 — Localización de áreas para Tratamiento
 
@@ -26856,13 +24094,9 @@ PARÁGRAFO 3. Las áreas definidas cómo potenciales para la ejecución de proye
 
 PARÁGRAFO 4. Las áreas intervenidas con cualquier forma de disposición final deberán ser consideradas prioritariamente para la ubicación de infraestructura para el tratamiento de residuos sólidos.
 
-ARTÍCULO
-
 ## art:2.3.2.6.7 — Reglamento Operativo
 
 Los sistemas de tratamiento -o tratamientos deberán contar con un Reglamento Operativo que establezca los instrumentos de Planeación, Operación y Seguimiento para las diferentes etapas de desarrollo del proyecto. Los elementos mínimos que deberán ser considerados en el Reglamento Operativo son: Manuales de Operación, Bitácoras y Registros; de acuerdo con los criterios que para el efecto defina el Ministerio de Vivienda, Ciudad y Territorio.
-
-ARTÍCULO
 
 ## art:2.3.2.6.8 — Monitoreo, Seguimiento y Control a la operación de las actividades de tratamiento
 
@@ -26886,13 +24120,9 @@ CAPÍTULO 7
 
 INCENTIVO AL APROVECHAMIENTO Y TRATAMIENTO DE RESIDUOS SÓLIDOS
 
-ARTÍCULO
-
 ## art:2.3.2.7.1 — Objeto
 
 El presente capítulo tiene cómo objeto reglamentar el incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) conforme a lo establecido en el artículo 88 vigente de la Ley 1753 de 2015 y, en consecuencia, definir la manera cómo se realizará su cálculo, facturación, recaudo, asignación y uso de recursos, así cómo su seguimiento y control en todo el territorio nacional.
-
-ARTÍCULO
 
 ## art:2.3.2.7.2 — Ámbito de Aplicación
 
@@ -26900,27 +24130,19 @@ El presente capítulo aplica a las personas prestadoras de las actividades princ
 
 Lo dispuesto en el presente capítulo aplica tanto para la prestación del servicio público de aseo en libre competencia cómo en áreas de servicio exclusivo,
 
-ARTÍCULO
-
 ## art:2.3.2.7.3 — Valor del incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT)
 
 El valor del Incentivo por suscriptor o usuario se calculará sobre las toneladas de residuos no aprovechables por suscriptor o usuario del servicio público de aseo, cómo un valor adicional al costo de disposición final de estos residuos, equivalente al 0,80% del Salario Mínimo Mensual Legal Vigente (SMMLV) por tonelada.
 
-ARTÍCULO
-
 ## art:2.3.2.7.4 — Cobro del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT)
 
 El cobro del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) se deberá implementar en todos los municipios y distritos, en los cuáles en su Plan de Gestión Integral de Residuos Sólidos (PGIRS) se hayan definido cómo viables, proyectos asociados a la actividad de aprovechamiento.
-
-ARTÍCULO
 
 ## art:2.3.2.7.5 — Facturación del incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT)
 
 La facturación del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) al suscriptor o usuario del servicio público de aseo será responsabilidad de la persona prestadora de la actividad de recolección y transporte de residuos no aprovechables.
 
 PARÁGRAFO . Para el efecto, en el momento de liquidación de la tarifa final al suscriptor o usuario, el Valor del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos, será adicionado al costo de disposición final en relleno sanitario calculado de conformidad con la metodología tarifaria vigente adoptada por la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA).
-
-ARTÍCULO
 
 ## art:2.3.2.7.6 — Cuenta del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT)
 
@@ -26930,13 +24152,9 @@ PARÁGRAFO 1. La cuenta a la que hace referencia el presente artículo deberá a
 
 PARÁGRAFO 2. Para el desarrollo del objetivo del presente artículo se deberá cumplir cabalmente con el registro contable de los ingresos y gastos a su cargo, velar por la conservación y mantenimiento de los recursos asignados y ordenar los desembolsos necesarios, al beneficiario de los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT).
 
-ARTÍCULO
-
 ## art:2.3.2.7.7 — Deber de Información al municipio o distrito
 
 El prestador previo al traslado de los recursos a la cuenta del IAT deberá informar al municipio o distrito el valor efectivamente recaudado.
-
-ARTÍCULO
 
 ## art:2.3.2.7.8 — Recaudo de los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT)
 
@@ -26946,13 +24164,9 @@ PARÁGRAFO 1. El traslado a la cuenta designada por el municipio o distrito debe
 
 PARÁGRAFO 2. Los recursos recaudados por concepto del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) tienen destinación específica, y, por tanto, sólo podrán destinarse a los fines previstos en el artículo 88 de la Ley 1753 de 2015.
 
-ARTÍCULO
-
 ## art:2.3.2.7.9 — Presentación de los proyectos
 
 Las personas prestadoras de las actividades principales y complementarias del servicio público de aseo, interesadas en acceder a los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT), deberán radicar sus proyectos en la secretaría general o la dependencia que haga sus veces del respectivo ente territorial, cumpliendo con los requisitos exigidos por el Ministerio de Vivienda, Ciudad y Territorio, con fecha de presentación máxima hasta el 30 de julio de cada año.
-
-ARTÍCULO
 
 ## art:2.3.2.7.10 — Evaluación de los proyectos
 
@@ -26964,8 +24178,6 @@ PARÁGRAFO 1. El municipio o distrito deberá llevar un registro del audio de la
 
 PARÁGRAFO 2. En la evaluación de los proyectos, los municipios o distritos podrán solicitar asistencia técnica del Ministerio de Vivienda, Ciudad y Territorio.
 
-ARTÍCULO
-
 ## art:2.3.2.7.11 — Asignación de recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT)
 
 La asignación de recursos para financiar proyectos de aprovechamiento y de tratamiento de residuos sólidos, se efectuará anualmente por el municipio o distrito de acuerdo con los montos disponibles en la cuenta de que trata el artículo 2.3.2.7.6. Lo anterior, cumpliendo con los requisitos exigidos por el Ministerio de Vivienda, Ciudad y Territorio.
@@ -26976,19 +24188,13 @@ Para lo anterior, el Ministerio de Vivienda, Ciudad y Territorio, en el marco de
 
 PARÁGRAFO 2. En aquellos casos en que no se presenten proyectos o que cómo resultado de la evaluación de los presentados, se establezca que no cumplen con los lineamientos establecidos por el Ministerio de Vivienda, Ciudad y Territorio para recibir recursos, o los montos disponibles sean inferiores a los requeridos para esta fuente de financiación, los recursos de la cuenta del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) se acumularán para el ejercicio de asignación de la siguiente vigencia.
 
-ARTÍCULO
-
 ## art:2.3.2.7.12 — Traslado de recursos asignados
 
 Una vez el municipio o distrito defina los proyectos elegidos y los montos asignados, realizará el traslado de esos recursos al beneficiario de acuerdo con el plan 'financiero y el cronograma de ejecución del proyecto.
 
-ARTÍCULO
-
 ## art:2.3.2.7.13 — Reporte de Información a la Superintendencia de Servicios Públicos Domiciliarios (SSPD)
 
 Las personas prestadoras de las actividades principales y complementarias del servicio público de aseo beneficiarias de los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) trasladados por la cuenta de que trata el artículo 2.3.2.7.6., del presente capítulo, deberán reportarse en el Sistema Único de Información (SUI) administrado por la Superintendencia de Servicios Públicos Domiciliarios (SSPD), de acuerdo con las normas legales y reglamentarias aplicables a la materia.
-
-ARTÍCULO
 
 ## art:2.3.2.7.14 — Supervisión a Proyectos
 
@@ -27006,13 +24212,9 @@ PARÁGRAFO. Para aquellos proyectos que impliquen la construcción o mejoramient
 
  ARTÍCULO 2.3.2.7.15. Titularidad de los activos. La titularidad de los activos adquiridos cómo inversión para el desarrollo de las actividades de aprovechamiento y de tratamiento de residuos sólidos con recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) estará en cabeza de la persona prestadora de la actividad correspondiente identificando su fuente de recursos.
 
-ARTÍCULO
-
 ## art:2.3.2.7.16 — Exclusión de inversiones
 
 Los prestadores que accedan a los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) no podrán incluir en el cálculo de las tarifas las inversiones ejecutadas con estos recursos.
-
-ARTÍCULO
 
 ## art:2.3.2.7.17 — Régimen de Transición
 
@@ -27364,19 +24566,13 @@ POR EL CUÁL SE REGLAMENTAN LOS PLANES DEPARTAMENTALES PARA EL MANEJO EMPRESARIA
 
 SECCIÓN 1 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.3.1.1.1 — Objeto
 
 Reglamentar los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), con el fin de fortalecer la capacidad institucional de los participantes, establecer los aspectos que los conforman; complementar el componente de aseguramiento de la prestación de los servicios de agua potable y saneamiento básico; y, en general, contribuir a la eficiente ejecución de los Planes Departamentales.
 
-ARTÍCULO
-
 ## art:2.3.3.1.1.2 — Definición de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA)
 
 Son un conjunto de estrategias de planeación y coordinación interinstitucional formuladas y ejecutadas con el objeto de lograr la armonización integral de recursos y la implementación de esquemas eficientes y sostenibles que garanticen el acceso a agua potable y saneamiento básico, teniendo en cuenta las características locales, la capacidad institucional de las entidades territoriales, las personas prestadoras de los servicios públicos, las comunidades organizadas y, la implementación efectiva de esquemas de regionalización y asociativos comunitarios.
-
-ARTÍCULO
 
 ## art:2.3.3.1.1.3 — Ámbito de aplicación
 
@@ -27386,15 +24582,11 @@ SECCIÓN 2
 
 ESTRUCTURAS OPERATIVAS Y FUNCIONES
 
-ARTÍCULO
-
 ## art:2.3.3.1.2.1 — 2.1
 
 Estructuras Operativas de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA). Cada Plan Departamental para el Manejo Empresarial de los Servicios de Agua y Saneamiento tendrá las siguientes estructuras operativas:
 
 2. Comité Directivo.
-
-ARTÍCULO
 
 ## art:2.3.3.1.2.2 — El Gestor
 
@@ -27405,8 +24597,6 @@ Podrán ser gestores, el departamento o las empresas de serv1c1os públicos de a
 Para ejercer sus funciones, el Gestor en su estructura interna contará cómo mínimo con los siguientes componentes: i) aseguramiento de la prestación de los servicios de agua potable y saneamiento básico, ii) gestión social, iii) infraestructura, ambiental, gestión del riesgo, iv) planeación, v) jurídica, vi) administrativa y vii) financiera. Los perfiles de los profesionales requeridos deberán estar acordes con las funciones a ejercer en cada una de las áreas y estar aprobados, en los casos que aplique, por el Gobernador con el apoyo de la dependencia que éste determine para tal fin.
 
 Para los casos que el Gestor sea una empresa de servicios públicos, atendiendo a lo dispuesto por el artículo 18 de la ley 142 de 1994 o la norma que la modifique, complemente o sustituya, deberá tener información contable, financiera y presupuestal independiente de sus actividades cómo prestador.
-
-ARTÍCULO
 
 ## art:2.3.3.1.2.3 — Funciones del Gestor
 
@@ -27468,8 +24658,6 @@ PARÁGRAFO . Cuando los Gestores de los Planes Departamentales para el Manejo Em
 
 Si las funciones de Gestor las realiza el departamento directamente, los costos inherentes a la ejecución de los productos que se desarrollen en cumplimiento de sus actividades cómo gestor, podrán ser computables cómo gastos inherentes a los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA).
 
-ARTÍCULO
-
 ## art:2.3.3.1.2.4 — Comité Directivo e integración
 
 El Comité Directivo es la instancia encargada de aprobar el ejercicio de planificación y seguimiento para el desarrollo de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), incorporando un análisis de necesidades, recursos disponibles, metas e indicadores definidos por el departamento, el Gestor y los municipios y distritos.
@@ -27494,8 +24682,6 @@ El Gestor o su representante asistirá a las sesiones del Comité Directivo ejer
 
 PARÁGRAFO 2. El Gobernador deberá convocar a los alcaldes para que estos adelanten el proceso de elección de sus representantes de acuerdo con lo que establezca el reglamento del Comité Directivo. Adicionalmente, el Gobernador publicará la convocatoria por una sola oportunidad en un medio que garantice la difusión en todos los municipios con cinco (5) días hábiles de anterioridad a la fecha de realización de la elección. Surtido el proceso de elección, los alcaldes informarán al Gobernador los representantes que resulten elegidos. Si transcurridos diez (10) días hábiles desde el momento en que el Gobernador hubiese realizado la publicación de la convocatoria, los alcaldes no informaren quiénes son los representantes elegidos, los mismos serán designados por el Gobernador.
 
-ARTÍCULO
-
 ## art:2.3.3.1.2.5 — Sesiones del Comité Directivo
 
 El Comité Directivo de cada Plan Departamental para el Manejo Empresarial de los Servicios de Agua y Saneamiento se reunirá cómo mínimo cada seis (6) meses en el año en forma virtual o presencial, de acuerdo con las condiciones que establezca el manual operativo del respectivo Plan Departamental. No obstante, se realizará cómo mínimo una sesión presencial al año.
@@ -27503,8 +24689,6 @@ El Comité Directivo de cada Plan Departamental para el Manejo Empresarial de lo
 En cualquier caso, el Gestor cómo Secretaria Técnica, podrá convocar al Comité Directivo cuando lo considere necesario. Esta convocatoria podrá ser realizada por solicitud de cualquiera de los miembros del Comité Directivo.
 
 Cuando en el Comité Directivo se tomen decisiones en relación con planes de obras e inversiones, proyectos específicos, estrategias para el aseguramiento de la prestación de los servicios relacionados con una entidad territorial o grupo de entidades territoriales en particular, los respectivos alcaldes podrán asistir cómo invitados a la sesión del Comité Directivo donde se traten los temas de su interés.
-
-ARTÍCULO
 
 ## art:2.3.3.1.2.6 — Quórum decisorio y deliberatorio
 
@@ -27528,7 +24712,7 @@ PARÁGRAFO 5. En el caso de la aprobación y modificaciones de los instrumentos 
 
 PARÁGRAFO TRANSITORIO. Durante el tiempo transcurrido entre la entrada en vigencia del presente capítulo y la publicación del informe de la medición de la capacidad institucional y de resultados de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA) al que hace referencia el artículo 2.3.3.1.6 .1 del presente Capítulo, el Ministerio de Vivienda, Ciudad y Territorio hará parte de todos los Comités Directivos de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA).
 
-## art:2.3.3.1.2 — 7. Funciones del Comité Directivo
+## art:2.3.3.1.2.7 — Funciones del Comité Directivo
 
 Son funciones del Comité Directivo:
 
@@ -27545,8 +24729,6 @@ Son funciones del Comité Directivo:
 SECCIÓN 3
 
 PARTICIPACIÓN DE LAS AUTORIDADES DE ORDEN NACIONAL
-
-ARTÍCULO
 
 ## art:2.3.3.1.3.1 — Participación del Ministerio de Vivienda, Ciudad y Territorio
 
@@ -27572,8 +24754,6 @@ PARÁGRAFO 1. Para los Planes Departamentales para el Manejo Empresarial de los 
 
 PARÁGRAFO 2. Ministerio de Vivienda, Ciudad y Territorio participará con voz y voto en todos los Comités Directivos de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA}, cuando se vaya a discutir y aprobar los instrumentos de planeación de que trata la Sección 5 del presente capítulo.
 
-ARTÍCULO
-
 ## art:2.3.3.1.3.2 — Participación del Departamento Nacional de Planeación (DNP)
 
 El Departamento Nacional de Planeación (DNP), en el marco de sus competencias, participará en los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), desarrollando las siguientes acciones:
@@ -27587,8 +24767,6 @@ PARÁGRAFO . Las modificaciones de los instrumentos de planeación no requerirá
 SECCIÓN 4
 
 REQUISITOS PARA LA PARTICIPACIÓN DE LAS ENTIDADES TERRITORIALES Y LAS AUTORIDADES AMBIENTALES EN LOS PLANES DEPARTAMENTALES PARA EL MANEJO EMPRESARIAL DE LOS SERVICIOS DE AGUA Y SANEAMIENTO (PDA)
-
-ARTÍCULO
 
 ## art:2.3.3.1.4.1 — 4.1
 
@@ -27634,13 +24812,9 @@ SECCIÓN 5
 
 INSTRUMENTOS DE PLANEACIÓN
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.1 — 5.1
 
 Instrumentos de Planeación de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA). Cada Plan Departamental para el Manejo Empresarial de los Servicios de Agua y Saneamiento deberá contar con los instrumentos de planeación establecidos en la presente sección, los cuáles deben ser elaborados por el Gestor y aprobados por el Comité Directivo.
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.2 — Manual Operativo
 
@@ -27679,8 +24853,6 @@ Es el documento en el cuál se definen los procedimientos bajo los cuáles se de
 16. Trámite para la entrega de los bienes y servicios afectos a la prestación que garantice el funcionamiento y operación de los mismos.
 
 Para el Manual Operativo corresponderá al Gobernador adoptarlo mediante Decreto, así cómo las modificaciones respectivas.
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.3 — Plan Estratégico de Inversiones (PEI)
 
@@ -27724,8 +24896,6 @@ PARÁGRAFO 2. En el Plan Estratégico de Inversiones (PEI) y su capítulo anual,
 
 En caso que los costos del Gestor superen este porcentaje, el Gobernador deberá sustentar dichos costos ante el Comité Directivo y éste determinará su aprobación. Asimismo, el departamento deberá certificar la ejecución de los costos del Gestor correspondientes a la vigencia anterior.
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.4 — Plan de Aseguramiento de la Prestación
 
 Es el documento que contiene el conjunto de acciones operativas, técnicas, administrativas, comerciales, financieras a implementar por los diferentes actores municipales y regionales con competencia en la prestación de los servicios públicos de acueducto, alcantarillado y aseo que permitan fortalecer las capacidades de los municipios o empresas prestadoras y garantizar, en el mediano y largo plazo, la sostenibilidad de las inversiones y de la prestación de los servicios.
@@ -27756,8 +24926,6 @@ PARÁGRAFO TRANSITORIO. Los Planes de Aseguramiento de la Prestación deberán s
 
 Los Planes de Aseguramiento de la Prestación no requerirán de la actualización de que trata este parágrafo, si a la entrada en vigencia del presente capítulo se encuentran en ejecución fases contractuales para el desarrollo de los mismos.
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.5 — Plan Ambiental
 
 Es un instrumento que define el componente ambiental de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), y tiene por objeto, considerar en la planeación y ejecución de los proyectos de prestación de los servicios públicos de acueducto, alcantarillado y aseo, los requerimientos ambientales asociados a dichos proyectos, para garantizar su sostenibilidad.
@@ -27774,8 +24942,6 @@ El Plan Ambiental deberá contener cómo mínimo:
 
 PARÁGRAFO . Aprobado el Plan Ambiental por parte del Comité Directivo, el Ministerio de Vivienda, Ciudad y Territorio realizará reuniones de seguimiento con el Gestor, con una periodicidad no mayor a seis (6) meses, con el fin de realizar seguimiento al mismo.
 
-ARTÍCULO
-
 ## art:2.3.3.1.5.6 — Plan de Gestión Social
 
 Es el documento que contiene el conjunto de programas y proyectos a través de los cuáles los diferentes actores municipales, distritales y regionales con competencia en la prestación de los servicios públicos de acueducto, alcantarillado y aseo desarrollan los procesos de gestión social frente a la prestación de los mismos, formulados con base en el diagnóstico de la situación actual que se realiza en el Plan Aseguramiento de la Prestación.
@@ -27791,8 +24957,6 @@ El Plan de Gestión Social deberá contar cómo mínimo con tres líneas de trab
 3. Capacitación. Dirigida a fortalecer las capacidades y competencias locales, institucionales y comunitarias para el sostenimiento de los proyectos.
 
 Adicionalmente, el Plan de Gestión Social debe formularse en coordinación con las actividades desarrolladas en los procesos de aseguramiento de la prestación, y debe incluir, el acompañamiento social a programas especiales, entre otros; agua y saneamiento en casa-conexiones intradomiciliarias-; y proyectos de abastecimiento de agua en zona rural en el marco de alianzas estratégicas entre el Ministerio de Vivienda, Ciudad y Territorio y organismos de cooperación.
-
-ARTÍCULO
 
 ## art:2.3.3.1.5.7 — Plan de Gestión del Riesgo Sectorial
 
@@ -27830,8 +24994,6 @@ SECCIÓN 6
 
 MEDICIÓN DE DESEMPEÑO Y SEGUIMIENTO DE LOS PLANES DEPARTAMENTALES PARA EL MANEJO EMPRESARIAL DE LOS SERVICIOS DE AGUA Y SANEAMIENTO (PDA)
 
-ARTÍCULO
-
 ## art:2.3.3.1.6.1 — 6.1
 
 Medición capacidad institucional y de resultados de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA). La capacidad institucional y de resultados de los Gestores de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), será medida mediante el índice que para el efecto defina el Departamento Nacional de Planeación (DNP), el cuál será construido a partir de la información del orden nacional para el sector de agua potable y saneamiento básico y la que para el efecto reporten los Gestores.
@@ -27843,8 +25005,6 @@ Con base en lo anterior, el Departamento Nacional de Planeación (DNP) publicar�
 SECCIÓN 7
 
 CONTRATACIÓN
-
-ARTÍCULO
 
 ## art:2.3.3.1.7.1 — Proceso de Contratación
 
@@ -27875,8 +25035,6 @@ PARÁGRAFO 3. Podrán celebrarse contratos con cargo a los recursos del Plan Dep
 SECCIÓN 8
 
 FINANCIAMIENTO DE LOS PLANES DEPARTAMENTALES PARA EL MANEJO EMPRESARIAL DE LOS SERVICIOS DE AGUA Y SANEAMIENTO (PDA)
-
-ARTÍCULO
 
 ## art:2.3.3.1.8.1 — Recursos de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA)
 
@@ -27910,8 +25068,6 @@ PARÁGRAFO 3. Los municipios podrán girar recursos, al instrumento para el mane
 
 PARÁGRAFO 4. Las asignaciones del Presupuesto General de la Nación se llevarán a cabo de conformidad con el Estatuto Orgánico de Presupuesto.
 
-ARTÍCULO
-
 ## art:2.3.3.1.8.2 — Instrumento para el manejo de los recursos
 
 Es el mecanismo para el desarrollo e implementación de la estrategia de financiación de cada Plan Departamental para el Manejo Empresarial de los Servicios de Agua y Saneamiento. Los departamentos, distritos y municipios o gestores podrán celebrar negocios fiduciarios, incluyendo contratos de fiducia mercantil, para la administración y ejecución de los recursos destinados a la formulación e implementación de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), o adherirse a contratos previamente celebrados con dicha finalidad, de conformidad con lo previsto en el artículo 12 de la Ley 1176 de 2007 y el parágrafo 3 del artículo 21 de la Ley 1450 de 2011 o las normas que las modifiquen, complementen o sustituyan.
@@ -27921,8 +25077,6 @@ El instrumento para el manejo de los recursos que se constituya tendrá cómo ob
 1. Ser el mecanismo financiero para la administración de los recursos de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA), y de pago de las obligaciones que se adquieran para su formulación y ejecución.
 
 2. Apoyar la implementación del Plan Financiero.
-
-ARTÍCULO
 
 ## art:2.3.3.1.8.3 — Estrategia de Financiación
 
@@ -27940,15 +25094,11 @@ El plan financiero podrá tener las siguientes fuentes:
 
 Para efectos de formular el plan financiero, deberá tener en cuenta las opciones de financiación que se encuentren en el mercado, considerando la normatividad vigente en materia presupuestal.
 
-ARTÍCULO
-
 ## art:2.3.3.1.8.4 — Apoyos de la Nación al Sector de Agua y Saneamiento Básico
 
 Para efectos de lo previsto en la Ley 1450 de 2011, en especial, en el artículo 21 vigente acorde con lo preceptuado en la Ley 1955 de 2019 o la norma que la modifique, sustituya o adicione, y en el presente capítulo, los recursos de cofinanciación , aportes de inversión regional y apoyo de la Nación al sector de agua potable y saneamiento básico, son los apoyos financieros constituidos por las apropiaciones que se incluyan anualmente en el Presupuesto General de la Nación (PGN) a favor de las entidades territoriales, destinados a ejecutarse en el marco de los Planes Departamentales, al igual que la asistencia técnica o los apoyos en especie entregados .
 
 Sin perjuicio de lo anterior, podrán implementarse otros programas del Gobierno nacional que tengan vinculados recursos de cooperación y apoyo que recibe la Nación de organismos internacionales y recursos del Presupuesto General de la Nación (PGN) con el fin de cofinanciar programas del sector de agua potable y saneamiento básico, los cuáles podrán ejecutarse fuera del Plan Departamental, y dentro del marco de lo previsto en el Estatuto Orgánico del Presupuesto General de la Nación.
-
-ARTÍCULO
 
 ## art:2.3.3.1.8.5 — Bolsas de Apoyo Financiero a los PDA
 
@@ -27964,8 +25114,6 @@ En desarrollo de lo dispuesto en los artículos 21 y 130 de la Ley 1450 de 2011 
 
 PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio determinará los criterios para la selección de los proyectos a financiar con recursos provenientes de las bolsas Concurso Territorial y Proyectos Estratégicos.
 
-ARTÍCULO
-
 ## art:2.3.3.1.8.6 — 8.6
 
 Asignación de Apoyos Financieros de la Nación a los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA). Los recursos de apoyo financiero que se llegaren a incorporar anualmente en el Presupuesto General de la Nación (PGN) para apoyar la formulación y ejecución de los Planes Departamentales para el Manejo Empresarial de los Servicios de Agua y Saneamiento (PDA) serán asignados por el Ministerio de Vivienda, Ciudad y Territorio a las entidades territoriales, mediante Resolución.
@@ -27975,8 +25123,6 @@ Expedida la Resolución y el Registro Presupuestal correspondiente, los recursos
 PARÁGRAFO 1. La Resolución de asignación de recursos establecerá las condiciones que deben cumplir las entidades territoriales para el desembolso de los recursos asignados, así cómo las causales por las que no recibirán los mismos.
 
 PARÁGRAFO 2. Los recursos de apoyo financiero para el desarrollo de Proyectos Estratégicos podrán ejecutarse mediante apoyo financiero a los entes territoriales o través de una Gerencia Integral que para tal efecto contratará la Nación, evento en el cuál se definirá en el marco del contrato el mecanismo para hacer efectivo el apoyo financiero.
-
-ARTÍCULO
 
 ## art:2.3.3.1.8.7 — 8.7
 
@@ -27991,8 +25137,6 @@ Requisitos para hacer exigible el pago de los apoyos financieros de la Nación a
 PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio podrá señalar los documentos e información requerida que deberán suministrar las entidades territoriales para hacer exigible el pago de los recursos de apoyo financiero de la Nación.
 
 Cumplidos los requisitos a que se refiere el inciso anterior, los recursos podrán ser girados directamente al instrumento para el manejo de los recursos respectivo.
-
-ARTÍCULO
 
 ## art:2.3.3.1.8.8 — Articulación con el Sistema General de Regalías
 
@@ -28012,23 +25156,17 @@ SECCIÓN 1
 
 PARTE GENERAL
 
-ARTÍCULO
-
 ## art:2.3.3.2.1.1 — Objeto
 
 Por medio del presente capítulo se establece el Mecanismo Departamental para la evaluación y viabilización de proyectos del sector de agua potable y saneamiento básico a financiar con recursos que no provienen de la Nación, y se determinan los requisitos y procedimientos para la presentación, viabilización y aprobación de proyectos.
 
 (Decreto 0475 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.2.1.2 — Mecanismo departamental de viabilización de proyectos
 
 A través del Mecanismo Departamental de Viabilización de Proyectos se evaluarán y viabilizarán aquellos proyectos del sector de agua potable y saneamiento básico que han sido priorizados en el marco de los Planes Departamentales de Agua y de los demás programas regionales para el manejo de agua potable y saneamiento básico de que trata el Artículo primero del presente capítulo y cuya financiación no incorpore recursos provenientes de la Nación.
 
 (Decreto 0475 de 2015, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.2.1.3 — Comité técnico de proyectos
 
@@ -28060,15 +25198,11 @@ Igualmente el Comité Técnico podrá solicitar al Gestor el acompañamiento té
 
 (Decreto 0475 de 2015, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.3.2.1.4 — Quórum deliberatorio y decisorio
 
 Sólo serán válidas las sesiones del Comité Técnico de Proyectos donde se cuente por lo menos con las tres cuartas partes de los miembros permanentes. En cualquier caso para la toma de decisiones se aplicará la regla de mayoría simple.
 
 (Decreto 0475 de 2015, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.3.2.1.5 — Funciones del comité técnico de proyectos
 
@@ -28081,8 +25215,6 @@ El Comité Técnico de Proyectos tendrá las siguientes funciones:
 3. Definir su propio reglamento, que deberá incluir un procedimiento para elegir presidente en cada sesión y para dirimir casos de empate en la votación en el evento de que los mismos se presenten.
 
 (Decreto 0475 de 2015, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.3.2.1.6 — Proyectos A Presentar Al Comité Técnico Para Su Viabilización
 
@@ -28106,8 +25238,6 @@ PARÁGRAFO . De conformidad con el capítulo I del presente título, el Comité 
 
 (Decreto 0475 de 2015, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.3.2.1.7 — Actividades o componentes no susceptibles de financiación
 
 Con recursos del Sistema General de Participaciones no se podrán financiar las actividades o componentes que no se encuentren enmarcados en las actividades definidas en los artículos 10 y 11 de la Ley 1176 de 2007 o aquella que la modifique, sustituya o derogue.
@@ -28118,8 +25248,6 @@ SECCIÓN 2
 
 PRESENTACIÓN DE PROYECTOS
 
-ARTÍCULO
-
 ## art:2.3.3.2.2.8 — Presentación de proyectos
 
 Para efectos del presente capítulo, podrán presentar proyectos del sector de agua potable y saneamiento básico los departamentos, los municipios y Distritos.
@@ -28128,15 +25256,11 @@ Los proyectos del sector de agua potable y saneamiento básico podrán ser prese
 
 (Decreto 0475 de 2015, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.3.2.2.9 — Requisitos para la presentación de los proyectos
 
 Los proyectos que presenten las entidades territoriales para su viabilización por parte del Comité Técnico de Proyectos deberán, además de cumplir con los requisitos previstos por el Departamento para su inclusión en el banco de proyectos, acreditar los requisitos que se definan en la guía de que trata el artículo 2.3.3.2.4.14 del presente capítulo.
 
 (Decreto 0475 de 2015, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.3.2.2.10 — Documentos para la presentación de proyectos
 
@@ -28147,8 +25271,6 @@ Los proyectos que presenten las entidades territoriales directamente al Mecanism
 SECCIÓN 3
 
 EVALUACIÓN, VIABILIZACIÓN Y APROBACIÓN DE PROYECTOS
-
-ARTÍCULO
 
 ## art:2.3.3.2.3.11 — Procedimiento y plazos de evaluación, viabilización y aprobación
 
@@ -28170,8 +25292,6 @@ Para la evaluación, viabilización y aprobación de los proyectos de agua potab
 
 (Decreto 0475 de 2015, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.3.2.3.12 — Evaluación de proyectos
 
 La evaluación de los proyectos regionales presentados, se llevará a cabo por el personal profesional contratado o vinculado por el Mecanismo Departamental de Viabilización de Proyectos del respectivo departamento, de qué trata el artículo 2.3.3.2.1.3. del presente capítulo, el cuál contará cómo mínimo con los perfiles que se definan en la guía de que trata el artículo 2.3.3.2.4.14 del presente capítulo.
@@ -28186,8 +25306,6 @@ PARÁGRAFO 2. Los costos del Mecanismo Departamental de Evaluación de Proyectos
 
 (Decreto 0475 de 2015, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.3.2.3.13 — Requisitos de viabilización
 
 Los proyectos de agua potable y saneamiento básico que presenten las entidades territoriales y el Gestor en el marco del presente decreto podrán declararse viables por parte del Mecanismo Departamental de Viabilización de Proyectos, una vez se hayan cumplido los requisitos y documentos de presentación, el Comité Técnico Departamental haya emitido el respectivo concepto de viabilidad y se cuente con los recursos disponibles para su financiación.
@@ -28198,8 +25316,6 @@ SECCIÓN 4
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.3.3.2.4.14 — Guía
 
 El Ministerio de Vivienda, Ciudad y Territorio expedirá la Guía para la presentación, viabilización y aprobación de proyectos ante el Mecanismo Departamental de Evaluación y Viabilización de Proyectos del sector de agua potable y saneamiento básico en el marco de los Planes Departamentales de Agua y los demás Programas regionales para el manejo de agua potable y saneamiento básico.
@@ -28208,15 +25324,11 @@ El Gobernador del respectivo departamento dará aplicación a los contenidos mí
 
 (Decreto 0475 de 2015, artículo 14).
 
-ARTÍCULO
-
 ## art:2.3.3.2.4.15 — Documentos, formatos y disposiciones particulares
 
 Además de los formatos, documentos y disposiciones particulares establecidas por cada departamento para la inscripción de proyectos en su banco de proyectos, corresponderá a cada departamento definir los formatos, documentos y criterios de orden técnico y procedimental requeridos para la presentación de proyectos de agua potable y saneamiento básico ante el respectivo Mecanismo Departamental de Viabilización de Proyectos.
 
 (Decreto 0475 de 2015, artículo 15).
-
-ARTÍCULO
 
 ## art:2.3.3.2.4.16 — Capacitación al mecanismo departamental de viabilización de proyectos
 
@@ -28229,8 +25341,6 @@ CAPÍTULO 3
 DISTRIBUCIÓN DE CUPOS INDICATIVOS PARA AGUA POTABLE
 
 Y SANEAMIENTO BÁSICO
-
-ARTÍCULO
 
 ## art:2.3.3.3.1 — Distribución de cupos indicativos para agua potable y saneamiento básico
 
@@ -28318,8 +25428,6 @@ SECCIÓN 1
 
 DEFINICIONES Y ÁMBITO DE APLICACIÓN DEL SUBSIDIO
 
-ARTÍCULO
-
 ## art:2.3.4.1.1.1 — Definiciones
 
 Para los efectos de este capítulo se adoptan las siguientes:
@@ -28338,15 +25446,11 @@ Usuarios de menores ingresos: Son aquellas personas naturales o jurídicas que s
 
 (Decreto 565 de 1996, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.4.1.1.2 — Beneficiarios del Subsidio
 
 Para efectos de lo dispuesto en este capítulo, se entiende por beneficiarios del subsidio a los usuarios de menores ingresos, y en las condiciones que defina la Comisión de Regulación de Agua Potable y Saneamiento Básico a los del estrato 3, de las zonas urbanas y rurales. Los estratos serán los resultantes de la aplicación de la metodología establecida por el Departamento Nacional de Planeación.
 
 (Decreto 565 de 1996, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.4.1.1.3 — Objeto del subsidio
 
@@ -28358,8 +25462,6 @@ SECCIÓN 2
 
 NATURALEZA Y OPERACIÓN DE LOS FONDOS DE SOLIDARIDAD Y REDISTRIBUCIÓN DE INGRESOS
 
-ARTÍCULO
-
 ## art:2.3.4.1.2.4 — 2.4
 
 Naturaleza de los Fondos de Solidaridad y Redistribución de Ingresos para los servicios de acueducto, alcantarillado y aseo. Los Fondos de Solidaridad y Redistribución de Ingresos, que de acuerdo con la Ley 142 de 1994 deben constituir los concejos municipales y distritales y las asambleas, serán cuentas especiales dentro de la contabilidad de los municipios, distritos y departamentos, a través de las cuáles se contabilizarán exclusivamente los recursos destinados a otorgar subsidios a los servicios públicos domiciliarios.
@@ -28368,15 +25470,11 @@ Dentro de cada Fondo creado se llevará la contabilidad separada por cada servic
 
 (Decreto 565 de 1996, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.4.1.2.5 — Determinación del monto de subsidios
 
 Cada entidad prestadora de los servicios públicos deberá comunicar a la Secretaría de Hacienda respectiva o a quién haga sus veces en la preparación del anteproyecto de presupuesto municipal, distrital o departamental, los requerimientos anuales de subsidios para cada servicio que preste. Así mismo, comunicará los estimativos de recaudo por aporte solidario.
 
 (Decreto 565 de 1996, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.4.1.2.6 — Criterios de asignación
 
@@ -28385,8 +25483,6 @@ El Alcalde municipal o distrital o el Gobernador, según sea el caso, definirán
 PARÁGRAFO :Cuando el monto de los recursos aprobado por las autoridades competentes en el Fondo de Solidaridad no sea suficiente para cubrir la totalidad de los subsidios previstos, la entidad prestadora de los servicios públicos domiciliarios, deberá prever el plan de ajuste tarifario requerido.
 
 (Decreto 565 de 1996, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.4.1.2.7 — Contabilidad interna
 
@@ -28398,15 +25494,11 @@ Si en un municipio un mismo servicio es prestado por diferentes entidades cada u
 
 (Decreto 565 de 1996, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.4.1.2.8 — Procedimiento interno
 
 Las entidades prestadoras de los servicios públicos domiciliarios, mensual o bimestralmente, o según el período de facturación, efectuarán el cálculo de subsidios y aportes solidarios. La diferencia entre aportes solidarios y subsidios generará déficit o superávit.
 
 (Decreto 565 de 1996, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.4.1.2.9 — Manejo de los superávits
 
@@ -28418,8 +25510,6 @@ Los recursos provenientes de aportes solidarios que constituyan superávit del F
 
 (Decreto 565 de 1996, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.4.1.2.10 — Transferencias efectivas de las entidades prestadoras de los servicios públicos
 
 Las transferencias efectivas de dinero de las entidades prestadoras de servicios públicos a los Fondos de Solidaridad y Redistribución de Ingresos por concepto de «aportes solidarios» sólo ocurrirán cuando se presenten superávits, después de aplicar internamente los recursos necesarios para otorgar subsidios.
@@ -28429,8 +25519,6 @@ La entidad territorial y la empresa prestadora de servicios públicos definirán
 Los superávits en empresas privadas o mixtas prestadoras de los servicios de acueducto, alcantarillado y aseo, se destinarán a los Fondos de Solidaridad y Redistribución de Ingresos del municipio, distrito o departamento correspondiente, y serán transferidos mensualmente, de acuerdo con los mecanismos que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
 (Decreto 565 de 1996, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.4.1.2.11 — Transferencias de dinero de las entidades territoriales
 
@@ -28442,15 +25530,11 @@ Los alcaldes y concejales deberán dar prioridad a las apropiaciones para los se
 
 (Decreto 565 de 1996, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.4.1.2.12 — Responsabilidad del recaudo de los aportes solidarios
 
 El recaudo de los aportes solidarios será responsabilidad de las entidades prestadoras de los servicios públicos en cada municipio, distrito, o departamento. Estas mismas entidades se encargarán de repartir los subsidios y de manejar los recursos de los Fondos de Solidaridad y Redistribución de Ingresos en una cuenta separada, claramente diferenciada del resto de sus ingresos, y con una contabilidad propia.
 
 (Decreto 565 de 1996, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.4.1.2.13 — Normas para los recaudos
 
@@ -28461,8 +25545,6 @@ Los recursos de los Fondos de Solidaridad y Redistribución de Ingresos son púb
 SECCIÓN 3
 
 FUENTES DE RECURSOS PARA OTORGAR SUBSIDIOS A TRAVÉS DE LOS FONDOS DE SOLIDARIDAD Y REDISTRIBUCIÓN DE INGRESOS
-
-ARTÍCULO
 
 ## art:2.3.4.1.3.14 — Fuentes de los recursos para otorgar los subsidios a través de los Fondos de Solidaridad y Redistribución de Ingresos
 
@@ -28490,8 +25572,6 @@ SECCIÓN 4
 
 SUPERÁVIT DE LOS FONDOS DE SOLIDARIDAD Y REDISTRIBUCIÓN DE INGRESOS
 
-ARTÍCULO
-
 ## art:2.3.4.1.4.15 — Reparto de los superávits de los Fondos de Solidaridad y Redistribución de Ingresos
 
 Los superávits en los Fondos de Solidaridad y Redistribución de Ingresos por concepto de aportes solidarios, serán destinados exclusivamente a cubrir los déficits en subsidios, y se repartirán de la siguiente manera:
@@ -28501,8 +25581,6 @@ Se destinarán a empresas deficitarias en subsidios, de igual naturaleza y servi
 Si después de atender estos requerimientos se presentan superávits, éstos se destinarán a Fondos de Solidaridad y Redistribución de Ingresos de municipios, distritos o departamentos limítrofes respectivamente, que hayan arrojado déficit para cubrir los subsidios, con destino a empresas de igual naturaleza y servicio que la que origina el superávit. Los repartos se harán de acuerdo a los mecanismos y criterios que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
 (Decreto 565 de 1996, artículo 15).
-
-ARTÍCULO
 
 ## art:2.3.4.1.4.16 — Distinción en las facturas de los aportes solidarios y de los subsidios
 
@@ -28514,8 +25592,6 @@ SECCIÓN 5
 
 INFORMES SOBRE EL MANEJO DE LOS FONDOS DE SOLIDARIDAD Y REDISTRIBUCIÓN DE INGRESOS
 
-ARTÍCULO
-
 ## art:2.3.4.1.5.17 — Informes
 
 Las entidades prestadoras de los servicios públicos domiciliarios deberán informar a la comunidad, a través de medios de información masiva y por lo menos una vez al año, la utilización de manera precisa que dieron de los subsidios presupuestales (artículo 53 de la Ley 142 de 1994).
@@ -28526,15 +25602,11 @@ CAPÍTULO 2
 
 METODOLOGÍA PARA LA DETERMINACIÓN DEL EQUILIBRIO ENTRE LOS SUBSIDIOS Y LAS CONTRIBUCIONES PARA LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO
 
-ARTÍCULO
-
 ## art:2.3.4.2.1 — Ámbito de aplicación
 
 La metodología que se establece en el presente capítulo, se aplica a todas las personas prestadoras de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, así cómo a los municipios y distritos cómo los entes responsables de garantizar la prestación eficiente de los mismos.
 
 (Decreto 1013 de 2005, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.4.2.2 — Metodología para la determinación del equilibrio
 
@@ -28574,8 +25646,6 @@ CAPÍTULO 3
 
 METODOLOGÍA PARA LA DISTRIBUCIÓN DE LOS RECURSOS PROVENIENTES DE APORTES SOLIDARIOS EN MUNICIPIOS Y DISTRITOS QUE CUENTEN CON PERSONAS PRESTADORAS DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO QUE ATIENDAN A MÁS DE UN MUNICIPIO O DISTRITO.
 
-ARTÍCULO
-
 ## art:2.3.4.3.1 — Alcance
 
 El presente capítulo establece las reglas que adicionan la metodología para la determinación del equilibrio y la distribución de los recursos provenientes de aportes solidarios y aplica en los municipios y distritos que cuenten con personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado que atiendan a más de un municipio o distrito.
@@ -28588,15 +25658,11 @@ Las personas prestadoras y las entidades territoriales que hagan parte de un mer
 
 (Decreto 631 de 2017, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.4.3.2 — Ámbito de operación
 
 Para efectos del presente capítulo y en desarrollo de lo previsto en el inciso 3 del artículo 2 de la Ley 632 de 2000, se entenderá cómo ámbito de operación, el sector de los municipios y/o distritos donde la persona prestadora del servicio cuente con suscriptores a través de un sistema interconectado.
 
 (Decreto 4924 de 2011, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.4.3.3 — Distribución de aportes solidarios en el ámbito de operación
 
@@ -28650,15 +25716,11 @@ PARÁGRAFO 2. En el evento que las sumas por contribución resulten superiores a
 
 (Decreto 4924 de 2011, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.4.3.4 — Esfuerzo local para el otorgamiento de subsidios
 
 Los Municipios y/o Distritos podrán recurrir a las fuentes adicionales de recursos para contribuciones señaladas en el artículo 100 de la Ley 142 de 1994 y las demás normas que regulan la materia, sujetándose en todo caso a la metodología establecida en el capítulo 2 del presente título o a la norma que lo modifique o adicione.
 
 (Decreto 4924 de 2011, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.4.3.5 — Acciones para el equilibrio
 
@@ -28676,8 +25738,6 @@ CAPÍTULO 4
 
 SUBSIDIOS PARA CONEXIONES INTRADOMICILIARIAS
 
-ARTÍCULO
-
 ## art:2.3.4.4.1 — Objeto del capítulo
 
 El objeto del presente capítulo es reglamentar el subsidio del programa de conexiones intradomiciliarias para inmuebles de los estratos 1 y 2, en áreas urbanas y centros poblados rurales, con el fin de garantizar la conexión efectiva a los servicios de agua potable y saneamiento básico.
@@ -28686,8 +25746,6 @@ El objeto del presente capítulo es reglamentar el subsidio del programa de cone
 
 (Decreto 1350 de 2012, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.4.4.2 — Ámbito de aplicación
 
 El presente capítulo aplica a los programas de conexiones intradomiciliarias de agua potable y saneamiento básico en el área urbana y/o centros poblados rurales de los municipios, que se financien con recursos de la Nación y/o entidades territoriales, en lo que les sea aplicable."
@@ -28695,8 +25753,6 @@ El presente capítulo aplica a los programas de conexiones intradomiciliarias de
 (Modificado por el Art. 2 del Decreto 1275 de 2021)
 
 (Decreto 1350 de 2012, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.4.4.3 — Definiciones
 
@@ -28711,8 +25767,6 @@ Para efectos de la aplicación del presente capítulo se definen los siguientes 
 (Modificado por el Art. 3 del Decreto 1275 de 2021)
 
 (Decreto 1350 de 2012, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.4.4.4 — Criterios de focalización
 
@@ -28733,8 +25787,6 @@ PARÁGRAFO 3. Se podrán subsidiar las conexiones domiciliarias de acueducto y a
 (Modificado por el Art. 4 del Decreto 1275 de 2021)
 
 (Decreto 1350 de 2012, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.4.4.5 — 4.5
 
@@ -28764,8 +25816,6 @@ PARÁGRAFO 2. Para determinar la cantidad de intervenciones a partir de los recu
 
 (Decreto 1350 de 2012, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.4.4.6 — Asignación de recursos del Gobierno Nacional
 
 El MVCT, distribuirá los recursos disponibles para cada vigencia, de acuerdo con la parametrización y la participación ponderada en las necesidades en cada uno de los municipios priorizados de conformidad con los criterios previstos en el artículo 2.3.4.4.4. del presente capítulo, y la metodología que para el efecto determine el Ministerio.
@@ -28777,8 +25827,6 @@ PARÁGRAFO . Para los programas de conexiones intradomiciliarias y para las cone
 (Parágrafo, modificado por el Art. 6 del Decreto 1275 de 2021)
 
 (Decreto 1350 de 2012, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.4.4.7 — Valor máximo del subsidio por inmueble
 
@@ -28796,15 +25844,13 @@ Para los municipios que presenten las condiciones establecidas en el parágrafo 
 
 (Decreto 1350 de 2012, artículo 7, Modificado por el Decreto 490 de 2013, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.4.4.8 — Contrapartida de las Entidades Territoriales
 
 Para acceder a los programas de conexiones intradomiciliarias de la Nación, las entidades territoriales, deberán contribuir a los mismos, en dinero o en especie, cómo mínimo con los costos de socialización del programa en los términos y condiciones que defina el MVCT.
 
 (Decreto 1350 de 2012, artículo 8).
 
-ARTÍCULO
+## art:2.3.4.4.9 — 
 
 . 2.3.4.4.9. Alcance del subsidio por inmueble. El subsidio cubrirá los costos correspondientes al diagnóstico técnico, plan de ejecución, y los asociados a la intervención del inmueble en cuánto a las conexiones intradomiciliarias.
 
@@ -28815,8 +25861,6 @@ PARÁGRAFO 2. Considerando que el subsidio del PCI se aplica al inmueble, los ho
 (Modificado por el Art. 8 del Decreto 1275 de 2021)
 
 (Decreto 1350 de 2012, artículo 9, Modificado por el Decreto 490 de 2013, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.4.4.10 — Viabilización de proyectos
 
@@ -28829,8 +25873,6 @@ PARÁGRAFO . El Ministerio de Vivienda, Ciudad y Territorio podrá brindar apoyo
 (Modificado por el Art. 9 del Decreto 1275 de 2021)
 
 (Decreto 1350 de 2012, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.4.4.11 — Ejecución del programa de conexiones intradomiciliarías liderado por el Ministerio de Vivienda, Ciudad y Territorio
 
@@ -28854,23 +25896,17 @@ SUBSECCION 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.5.1.1.1.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar las normas del Sistema General de Participaciones para Agua Potable y Saneamiento Básico para los departamentos, distritos y municipios relacionadas con el giro de los recursos, la certificación para los distritos y municipios para la administración de los mismos y el aseguramiento de la prestación de los servicios, los efectos del proceso de certificación, la cofinanciación del pago de pasivos laborales de los prestadores de servicios públicos de acueducto, alcantarillado y/o aseo, la destinación mínima para el otorgamiento de subsidios y el ejercicio de las actividades de monitoreo, seguimiento y control a la utilización de dichos recursos.
 
 (Decreto 1484 de 2014, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.5.1.1.1.2 — Ámbito de Aplicación
 
 El presente capítulo se aplica a las entidades públicas, privadas y mixtas del orden nacional y territorial, personas prestadoras de los Servicios Públicos Domiciliarios de acueducto, alcantarillado y/o aseo a que se refiere la Ley 142 de 1994, y demás responsables de la distribución, administración, giro, ejecución, compromiso, vigilancia, monitoreo, seguimiento y control de los recursos provenientes del Sistema General de Participaciones y destinados al sector de Agua Potable y Saneamiento Básico.
 
 (Decreto 1484 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.5.1.1.1.3 — Información para evaluación
 
@@ -28881,8 +25917,6 @@ Las entidades territoriales y nacionales, deberán reportar al Sistema de Seguim
 SUBSECCIÓN 2
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.3.5.1.1.2.4 — Definiciones
 
@@ -28932,15 +25966,11 @@ SUBSECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.1.5 — Proceso de certificación
 
 La Superintendencia de Servicios Públicos Domiciliarios adelantará el proceso de certificación de acuerdo con lo establecido en el parágrafo del artículo 4 de la Ley 1176 de 2007. Para estos efectos, verificará lo señalado en los artículos siguientes.
 
 (Decreto 1484 de 2014, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.5.1.2.1.6 — Requisitos generales para los municipios y distritos
 
@@ -28966,8 +25996,6 @@ APARTADO 3. En el caso del reporte al Formulario Único Territorial -FUT y al Si
 
 (Decreto 2079 de 2017, Art. 1)
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.1.7 — 1.7
 
 Requisitos adicionales para municipios y distritos que presten directamente los servicios de acueducto, alcantarillado y/o aseo. Salvo lo dispuesto en el parágrafo primero del presente artículo, para los municipios y distritos que tengan la calidad de prestadores directos se verificará cada dos años, el cumplimiento de los requisitos que se establecen a continuación, adicionales a los establecidos en el artículo 2.3.5.1.2.1.6 del presente capítulo:
@@ -28992,8 +26020,6 @@ Además del reporte al Sistema Único de Información -SU/, los requisitos incum
 
 (Decreto 2079 de 2017, Art. 2)
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.1.8 — Condición del municipio o distrito
 
 Para efectos del proceso de certificación que adelante la Superintendencia de Servicios Públicos Domiciliarios, se tendrá en cuenta la condición de prestador directo o no de los servicios de acueducto, alcantarillado y/o aseo que ostente el municipio o distrito al 31 de diciembre de la vigencia a certificar, según la clasificación del Registro Único de Prestadores de Servicios (RUPS), registrado en el Sistema Único de Información (SUI).
@@ -29003,8 +26029,6 @@ PARÁGRAFO . Al municipio o distrito que durante la vigencia a certificar no hub
 «Destinación y giro de los recursos de la participación para Agua Potable y Saneamiento Básico, con el propósito de financiar actividades elegibles conforme a lo establecido en el artículo 11 de la Ley 1176 de 2007», «Creación y puesta en funcionamiento del Fondo de Solidaridad y Redistribución de Ingresos» y «Cumplimiento de lo establecido en el artículo 6 de la Ley 142 de 1994».
 
 (Decreto 1484 de 2014, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.5.1.2.1.9 — Plazos
 
@@ -29022,8 +26046,6 @@ PARÁGRAFO 2. A partir de la vigencia a certificar 2014, el Ministerio de Vivien
 
 (Decreto 1484 de 2014, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.1.10 — Procedimiento para expedir la certificación
 
 La Superintendencia de Servicios Públicos Domiciliarios así cómo el Ministerio de Vivienda, Ciudad y Territorio definirán sus protocolos para la revisión de la información y de los requisitos que a cada uno de ellos corresponde verificar.
@@ -29033,8 +26055,6 @@ La Superintendencia de Servicios Públicos Domiciliarios aplicará las normas de
 El acto administrativo en firme que resulte del proceso de certificación expedido por la Superintendencia de Servicios Públicos Domiciliarios, ordenará comunicar al Departamento Nacional de Planeación, al Ministerio de Vivienda, Ciudad y Territorio, al Ministerio de Hacienda y Crédito Público y al respectivo departamento, el contenido de la Resolución para efectos del cumplimiento de lo previsto en el artículo 5 de la Ley 1176 de 2007 y su posterior publicación en la página web institucional de la SSPD.
 
 (Decreto 1484 de 2014, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.5.1.2.1.11 — Reporte de información
 
@@ -29048,8 +26068,6 @@ SUBSECCIÓN 2
 
 EFECTOS DEL PROCESO DE CERTIFICACIÓN
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.12 — Efectos del proceso de certificación
 
 Los municipios y distritos que cómo resultado del proceso a que se refiere esta sección sean certificados, seguirán siendo los responsables de administrar los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico y de asegurar la prestación de los servicios de acueducto, alcantarillado y aseo.
@@ -29060,17 +26078,13 @@ Las competencias asignadas al departamento en las disposiciones legales menciona
 
 (Decreto 1484 de 2014, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.13 — Recursos del Sistema General de Participaciones de los Municipios y Distritos Descertificados
 
-Los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico de los municipios y distritos descertificados deberán destinarse exclusivamente a financiar las actividades previstas en el ARTÍCULO
+Los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico de los municipios y distritos descertificados deberán destinarse exclusivamente a financiar las actividades previstas en el
 
-## art:11 — de la Ley 1176 de 2007 en el respectivo municipio o distrito
+11 de la Ley 1176 de 2007 en el respectivo municipio o distrito.
 
 (Decreto 1484 de 2014, artículo 13)
-
-ARTÍCULO
 
 ## art:2.3.5.1.2.2.14 — Administración de los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico
 
@@ -29108,8 +26122,6 @@ PARÁGRAFO 3. El capítulo de rentas administradas por el departamento no formar
 
 (Decreto 1484 de 2014, artículo 14)
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.15 — .15
 
 Competencia para asegurar la prestación de los servicios de acueducto, alcantarillado y aseo a los habitantes del municipio o distrito descertificado. Los departamentos deberán asegurar la prestación eficiente de los servicios de acueducto, alcantarillado y aseo en la jurisdicción de los municipios o distritos descertificados, para lo cuál ejercerán las atribuciones específicas que a continuación se describen:
@@ -29140,8 +26152,6 @@ PARÁGRAFO 2. El departamento podrá vincular al municipio o distrito descertifi
 
 (Decreto 1484 de 2014, artículo 15)
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.16 — Medidas administrativas
 
 A partir de la fecha en que quede ejecutoriado el acto administrativo expedido por la Superintendencia de Servicios Públicos Domiciliarios, mediante el cuál se descertifica un municipio o distrito y en cumplimiento de lo previsto en el artículo 5 de la Ley 1176 de 2007, se adoptarán las siguientes medidas administrativas:
@@ -29165,8 +26175,6 @@ A partir de la fecha en que quede ejecutoriado el acto administrativo expedido p
 6. Dentro de los quince (15) días hábiles siguientes a la ejecutoria del acto administrativo que impone la descertificación, el representante legal del municipio o distrito descertificado, enviará una comunicación escrita a cada uno de los prestadores de los servicios de acueducto, alcantarillado y aseo de su jurisdicción, a sus contratistas y demás entidades o personas administradoras de los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico, con el fin de informar que dichos recursos serán manejados por el departamento. En caso de que el representante legal del municipio o distrito descertificado, no envíe la comunicación dentro del término mencionado corresponderá al gobernador remitirla.
 
 (Decreto 1484 de 2014, artículo 16)
-
-ARTÍCULO
 
 ## art:2.3.5.1.2.2.17 — Obligaciones de los municipios o distritos descertificados
 
@@ -29200,8 +26208,6 @@ En todo caso, los municipios y distritos descertificados conservan el deber de c
 
 (Decreto 1484 de 2014, artículo 17).
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.18 — Procedimiento para la determinación de los subsidios en municipios o distritos descertificados
 
 Los subsidios en los municipios o distritos descertificados serán definidos mediante la aplicación del siguiente procedimiento:
@@ -29218,8 +26224,6 @@ De conformidad con lo previsto en el capítulo I del título IV del presente Lib
 
 (Decreto 1484 de 2014, artículo 18).
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.19 — Procedimiento de los municipios o distritos descertificados para reasumir la administración de los recursos SGP-APSB
 
 A partir de la fecha de ejecutoría del acto administrativo expedido por la Superintendencia de Servicios Públicos Domiciliarios por el cuál se certifica a un municipio o distrito descertificado, este reasumirá la administración de los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico y la competencia para asegurar la prestación de estos servicios. En dicho evento, el distrito o municipio dará continuidad a los compromisos asumidos con el prestador de los servicios que haya sido vinculado por el departamento en virtud de lo dispuesto en la Ley 1176 de 2007, para lo cuál se adoptarán las siguientes medidas administrativas:
@@ -29232,15 +26236,11 @@ A partir de la fecha de ejecutoría del acto administrativo expedido por la Supe
 
 (Decreto 1484 de 2014, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.5.1.2.2.20 — Monitoreo, seguimiento y control
 
 Los departamentos que ejecutan los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico de los municipios y distritos descertificados, estarán sometidos al monitoreo, seguimiento y control integral definidos por las normas vigentes.
 
 (Decreto 1484 de 2014, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.5.1.2.2.21 — Régimen especial para el departamento de San Andrés, Providencia y Santa Catalina
 
@@ -29252,8 +26252,6 @@ SECCIÓN 3
 
 EQUILIBRIO ENTRE SUBSIDIOS Y CONTRIBUCIONES DE QUE TRATA EL PARÁGRAFO 2 DEL ARTÍCULO 11 DE LA LEY 1176 DE 2007
 
-ARTÍCULO
-
 ## art:2.3.5.1.3.22 — Condición de Equilibrio
 
 Para efectos de lo previsto en este capítulo se entenderá que existe equilibrio, cuando de la información reportada al Sistema Único de Información (SUI) en el formato denominado 'Balance de subsidios y contribuciones', con corte a 30 de marzo de cada vigencia se evidencie que en el año anterior, los subsidios otorgados a los estratos subsidiables para cada uno de los servicios de acueducto, alcantarillado y aseo fueron cubiertos con los recursos del Fondo de Solidaridad y Redistribución del Ingreso Municipal y los aportes solidarios recaudados por los prestadores de servicios públicos para cada uno de los servicios de acueducto, alcantarillado y aseo de la entidad territorial en la respectiva vigencia.
@@ -29261,8 +26259,6 @@ Para efectos de lo previsto en este capítulo se entenderá que existe equilibri
 PARÁGRAFO . Los recursos provenientes de la bolsa común para el otorgamiento de subsidios tarifarios a que se refiere el Capítulo 3 del Título 4 del presente Libro, antes decreto 4924 de 2011, o la norma que lo modifique, adicione o sustituya y aquellos correspondientes a las contribuciones por aportes solidarios que sean distribuidos entre los municipios del ámbito de operación a que se refiere el artículo 2.3.4.3.2. del mencionado capítulo, no serán tenidos en cuenta para la determinación de la condición de equilibrio a que se refiere el presente artículo.
 
 (Decreto 1484 de 2014, artículo 22).
-
-ARTÍCULO
 
 ## art:2.3.5.1.3.23 — .23
 
@@ -29296,8 +26292,6 @@ j) Los municipios prestadores directos de alguno de los servicios de acueducto, 
 
 (Decreto 1484 de 2014, artículo 23)
 
-ARTÍCULO
-
 ## art:2.3.5.1.3.24 — Procedimiento
 
 Cumplidos los requisitos del artículo anterior, el representante legal del municipio que desee destinar menos del 15% de la participación del SGP-APSB al otorgamiento de subsidios, de conformidad con el parágrafo 2 del artículo 11 de la Ley 1176 de 2007, deberá expedir una certificación en la cuál indique el monto a apropiar de los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico destinado al otorgamiento de subsidios, manifestando que cumple con los requisitos exigidos en este capítulo.
@@ -29305,8 +26299,6 @@ Cumplidos los requisitos del artículo anterior, el representante legal del muni
 Dicha certificación deberá ser cargada a través del Sistema Único de Información (SUI) de acuerdo con lo establecido por la Superintendencia de Servicios Públicos Domiciliarios.
 
 (Decreto 1484 de 2014, artículo 24).
-
-ARTÍCULO
 
 ## art:2.3.5.1.3.25 — Monitoreo, seguimiento y control
 
@@ -29318,8 +26310,6 @@ SECCIÓN 4
 
 PASIVOS LABORALES
 
-ARTÍCULO
-
 ## art:2.3.5.1.4.26 — Ámbito de aplicación
 
 La presente sección aplica al pago de pasivos laborales de las personas prestadoras de los servicios públicos mencionadas en los numerales 1 y 3 del artículo 15 de la Ley 142 de 1994, que vayan a ser cofinanciados con los recursos del Sistema General de Participaciones (SGP) para Agua Potable y Saneamiento Básico asignados a los departamentos y que se encuentren en el marco de un proceso de reestructuración para la prestación de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, cómo resultado del cuál se vinculen operadores especializados dentro del PAP-PDA.
@@ -29328,8 +26318,6 @@ Solamente podrán cofinanciarse los pasivos laborales causados con anterioridad 
 
 (Decreto 1484 de 2014, artículo 26)
 
-ARTÍCULO
-
 ## art:2.3.5.1.4.27 — Pago de pasivos laborales
 
 Previa autorización expedida por el Ministerio de Vivienda, Ciudad y Territorio, por una sola vez, será posible cofinanciar con cargo a los recursos de la participación para Agua Potable y Saneamiento Básico del SGP de los departamentos, el pago de los pasivos laborales causados con anterioridad al 1 de enero de 2008, de las personas prestadoras de los servicios públicos de acueducto, alcantarillado y aseo de que tratan los numerales 1 y 3 del artículo 15 de la Ley 142 de 1994.
@@ -29337,8 +26325,6 @@ Previa autorización expedida por el Ministerio de Vivienda, Ciudad y Territorio
 PARÁGRAFO . El pago de los pasivos laborales con recursos del Sistema General de Participaciones del departamento, no implicará en ningún caso la asunción o reconocimiento de las obligaciones laborales por el departamento. El municipio o la empresa, en su condición de empleadores, seguirán siendo los responsables del pago de estas obligaciones frente a los trabajadores y extrabajadores.
 
 (Decreto 1484 de 2014, artículo 27)
-
-ARTÍCULO
 
 ## art:2.3.5.1.4.28 — Criterio para determinar la contrapartida de los municipios o distritos
 
@@ -29353,8 +26339,6 @@ Ingresos de 231.164 - en adelante
 * Expresados en salarios
 
 (Decreto 1484 de 2014, en. 28).
-
-ARTÍCULO
 
 ## art:2.3.5.1.4.29 — Condiciones para el pago del pasivo laboral con recursos del Sistema General de Participaciones de los departamentos
 
@@ -29384,8 +26368,6 @@ Dicho inventario deberá actualizarse anualmente teniendo en cuenta los municipi
 
 (Decreto 1484 de 2014, artículo 29)
 
-ARTÍCULO
-
 ## art:2.3.5.1.4.30 — Procedimiento para solicitar autorización al Ministerio de Vivienda, Ciudad y Territorio
 
 El departamento mediante comunicación escrita suscrita por el gobernador respectivo, presentará ante el Ministerio de Vivienda, Ciudad y Territorio la solicitud de autorización para cofinanciar los pasivos laborales de los municipios o distritos beneficiarios de acuerdo con lo previsto en el artículo anterior.
@@ -29406,8 +26388,6 @@ El Ministerio de Vivienda, Ciudad y Territorio, a partir de la solicitud present
 
 (Decreto 1484 de 2014, artículo 30).
 
-ARTÍCULO
-
 ## art:2.3.5.1.4.31 — Reportes de información
 
 El Ministerio de Vivienda, Ciudad y Territorio no responderá por concepto de la información reportada por las entidades territoriales, con base en la cuál hayan otorgado las autorizaciones correspondientes. El Ministerio de Vivienda, Ciudad y Territorio, podrá solicitar al departamento, municipio o distrito los soportes para verificar la información reportada, cuando lo considere pertinente.
@@ -29420,15 +26400,11 @@ SECCIÓN 5
 
 GIRO DE LOS RECURSOS DEL SISTEMA GENERAL DE PARTICIPACIONES PARA AGUA POTABLE Y SANEAMIENTO BÁSICO
 
-ARTÍCULO
-
 ## art:2.3.5.1.5.32 — .32
 
 Giro de los recursos del Sistema General de Participaciones (SGP) para Agua Potable y Saneamiento Básico.Corresponde al Ministerio de Vivienda, Ciudad y Territorio, girar los recursos de la participación para Agua Potable y Saneamiento Básico del Sistema General de Participaciones a los departamentos, distritos y municipios.
 
 (Decreto 1484 de 2014, artículo 32)
-
-ARTÍCULO
 
 ## art:2.3.5.1.5.33 — Destinatarios del giro directo
 
@@ -29439,8 +26415,6 @@ El giro de los recursos de que trata el presente artículo a los prestadores de 
 El giro de los recursos de que trata el presente artículo a los patrimonios autónomos o a los esquemas fiduciarios que se constituyan para la financiación de los PAP-PDA, destinados a proyectos de inversión y que obedezcan al compromiso de monto y período establecido, se llevará a cabo cuando el departamento, municipio o distrito, individual o conjuntamente, se haya vinculado al patrimonio autónomo o esquema fiduciario y se den las autorizaciones e instrucciones de giro a estos mecanismos, en los términos establecidos en el artículo 2.3.5.1.5.34 del presente capítulo.
 
 (Decreto 1484 de 2014, artículo 33)
-
-ARTÍCULO
 
 ## art:2.3.5.1.5.34 — Condiciones para el giro directo
 
@@ -29495,8 +26469,6 @@ PARÁGRAFO 1. En los casos en que aplique la actualización del monto de giros p
 PARÁGRAFO 2. De ser necesario revocar o modificar las autorizaciones e instrucciones para el giro directo a los patrimonios autónomos o a los esquemas fiduciarios que se constituyan para el manejo de los recursos del SGP-APSB destinados a proyectos de inversión, de qué trata el presente capítulo, las mismas deberán solicitarse por escrito junto con la aprobación y consentimiento del representante legal del patrimonio autónomo o del esquema fiduciario respectivo, ante el Ministerio de Vivienda, Ciudad y Territorio, previo el cumplimiento de todas las obligaciones que se encuentren respaldadas con los recursos objeto del giro o la constitución de otras garantías que tengan iguales o mejores condiciones para respaldar el cumplimiento de las obligaciones adquiridas.
 
 (Decreto 1484 de 2014, artículo 34).
-
-ARTÍCULO
 
 ## art:2.3.5.1.5.35 — Reportes de información
 
@@ -29600,8 +26572,6 @@ SUBSECCIÓN 1
 
 ACTIVIDADES Y RESPONSABLES
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.1.36 — .36
 
 Actividades y responsables de monitoreo de los recursos del Sistema General de Participaciones en el sector de Agua Potable y Saneamiento Básico. Las actividades de monitoreo de que trata la normatividad única para el sector de Planeación Nacional, comprenden la recopilación sistemática de información, su consolidación, análisis y verificación para el cálculo de indicadores específicos y estratégicos del sector de Agua Potable y Saneamiento Básico, que permitan identificar acciones u omisiones por parte de las entidades territoriales que puedan poner en riesgo la adecuada utilización de los recursos de la participación para Agua Potable y Saneamiento Básico (APSB) del Sistema General de Participaciones (SGP) y el cumplimiento de las metas de calidad, cobertura y continuidad en la prestación de los servicios financiados con cargo a estos recursos.
@@ -29640,8 +26610,6 @@ El monitoreo del cumplimiento de las metas de continuidad, cobertura y calidad e
 
 (Decreto 1484 de 2014, artículo 36).
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.1.37 — Actividades de seguimiento y control integral
 
 Conforme con lo dispuesto por la normatividad única para el sector de Planeación Nacional y el Artículo 20 de la Ley 1450 de 2011, las actividades de seguimiento y control integral al gasto que ejecutan las entidades territoriales con los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico, o a los mecanismos o instrumentos financieros encargados de ejecutar y/o administrar, a cualquier título jurídico estos recursos, estarán a cargo del Ministerio de Hacienda y Crédito Público para lo cuál ejercerá además de las medidas previstas en las disposiciones vigentes, las siguientes:
@@ -29653,8 +26621,6 @@ Conforme con lo dispuesto por la normatividad única para el sector de Planeaci�
 3. Adoptar las medidas preventivas y/o correctivas, de qué trata la normatividad única para el sector de Planeación Nacional.
 
 (Decreto 1484 de 2014, artículo 37).
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.1.38 — Planes de desempeño en el sector de agua potable y saneamiento básico
 
@@ -29674,15 +26640,11 @@ PRESENTACIÓN DE METAS Y RECOPILACIÓN DE INFORMACIÓN SOBRE EL GASTO DE LOS REC
 
 SANEAMIENTO BÁSICO
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.2.39 — Presentación de metas
 
 La administración municipal y/o departamental presentará ante el Consejo Municipal o Departamental de Política Social y el Consejo Territorial de Planeación, las metas de continuidad, cobertura y calidad en la prestación de los servicios definidas en los respectivos planes sectoriales, a alcanzar anualmente y durante el respectivo período de gobierno, conforme con la política que defina el Ministerio de Vivienda, Ciudad y Territorio.
 
 (Decreto 1484 de 2014, artículo 39).
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.2.40 — Recopilación de información
 
@@ -29695,8 +26657,6 @@ Sin perjuicio de lo anterior, el Ministerio de Vivienda, Ciudad y Territorio pod
 SUBSECCIÓN 3
 
 CRITERIOS, INDICADORES Y CALIFICACIÓN PARA EL ANÁLISIS DE LOS EVENTOS DE RIESGO
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.3.41 — Criterios, indicadores y calificación para el análisis de los eventos de riesgo
 
@@ -30418,8 +27378,6 @@ Ninguna
 
 (Decreto 1484 de 2014, artículo 41)
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.3.42 — Asistencia técnica
 
 Previo a la aplicación de las medidas de que trata la presente sección y para mitigar los eventos de riesgo encontrados en las entidades territoriales, el Ministerio de Vivienda, Ciudad y Territorio, dentro del ámbito de sus competencias, brindará asistencia técnica a los ejecutores del SGP cuando lo considere pertinente.
@@ -30430,23 +27388,17 @@ SUBSECCIÓN 4
 
 DISPOSICIONES COMUNES
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.4.43 — Otras disposiciones aplicables
 
 Para el ejercicio de las actividades de monitoreo, seguimiento y control de qué trata la normatividad única para el sector de Planeación Nacional sobre los recursos del Sistema General de Participaciones, correspondientes al sector de Agua Potable y Saneamiento Básico, se aplicará en lo pertinente, lo dispuesto en la normatividad única para el sector de Planeación Nacional y de Hacienda y Crédito Público y en las normas que los adicionen, modifiquen o sustituyan.
 
 (Decreto 1484 de 2014, artículo 43).
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.4.44 — Coordinación con otras autoridades
 
 Para el ejercicio de las actividades de monitoreo a su cargo, el Ministerio de Vivienda, Ciudad y Territorio se apoyará en la información suministrada por la Superintendencia de Servicios Públicos Domiciliarios, la Comisión de Regulación de Agua Potable y Saneamiento Básico, el Departamento Nacional de Planeación, el Departamento Nacional de Estadística, el Ministerio de Hacienda y Crédito Público, el Ministerio de Salud, el Instituto Geográfico Agustín Codazzi, la Contraloría General de la República, la Procuraduría General de la Nación, la Contaduría General de la Nación, así cómo los reportes efectuados por los Vocales de Control de Comités de Desarrollo y Control Social de que trata la Ley 142 de 1994, los Comités Permanentes de Estratificación de que trata el artículo 6 de la Ley 732 de 2002, o la ciudadanía.
 
 (Decreto 1484 de 2014, artículo 44)
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.4.45 — Actividades de los departamentos
 
@@ -30456,15 +27408,11 @@ El Ministerio de Vivienda, Ciudad y Territorio podrá determinar las actividades
 
 (Decreto 1484 de 2014, artículo 45)
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.4.46 — Verificación
 
 El Ministerio de Vivienda, Ciudad y Territorio, podrá realizar visitas de campo con el fin de confrontar la información suministrada sobre la ejecución de los recursos del Sistema General de Participaciones y brindar asistencia técnica para mejorar la consistencia y calidad de la información reportada.
 
 (Decreto 1484 de 2014, artículo 46)
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.4.47 — Ejercicio de competencias
 
@@ -30474,15 +27422,11 @@ Las actividades de monitoreo, seguimiento y control se ejercerán sobre las enti
 
 (Decreto 1484 de 2014, artículo 47)
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.4.48 — Periodicidad
 
 La periodicidad en el ejercicio de las actividades de monitoreo en el sector de Agua Potable y Saneamiento Básico, así cómo su reporte al Ministerio de Hacienda y Crédito Público, se realizarán conforme lo dispone la normatividad única para el sector de Planeación Nacional o las normas que lo modifiquen, complementen o sustituyan. Sin perjuicio de lo anterior, cuando el Ministerio de Vivienda, Ciudad y Territorio lo considere necesario para adelantar labores de seguimiento o control, remitirá al Ministerio de Hacienda y Crédito Público el reporte de las actividades de monitoreo, el cuál deberá comprender cómo mínimo, el resultado de las mismas, respecto de aquellas entidades territoriales en las que se evidencien acciones u omisiones que puedan poner en riesgo la adecuada utilización de los recursos del Sistema General de Participaciones, de acuerdo con los criterios de evaluación definidos por el Ministerio de Vivienda, Ciudad y Territorio y atendiendo a lo dispuesto en el presente capítulo.
 
 (Decreto 1484 de 2014, artículo 48)
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.4.49 — Término para consulta
 
@@ -30492,15 +27436,11 @@ En ningún caso, el contenido de la respuesta dada por el Ministerio de Vivienda
 
 (Decreto 1484 de 2014, artículo 49)
 
-ARTÍCULO
-
 ## art:2.3.5.1.6.4.50 — Continuidad de medidas
 
 Las medidas de control previstas en el Decreto 028 de 2008, adoptadas por el Ministerio de Hacienda y Crédito Público con anterioridad a la entrada en vigencia del Decreto 1484 de 2014, así cómo los Acuerdos de Mejoramiento o las medidas de inspección, control y/o vigilancia adoptadas por la Superintendencia de Servicios Públicos Domiciliarios, continuarán aplicándose hasta tanto se verifique el cumplimiento de los compromisos adquiridos por las entidades territoriales para superar los eventos de riesgo, de acuerdo con los informes del Ministerio de Vivienda, Ciudad y Territorio, Ministerio de Hacienda y Crédito Público, así cómo el reporte que para el efecto expida la Superintendencia de Servicios Públicos Domiciliarios.
 
 (Decreto 1484 de 2014, artículo 50).
-
-ARTÍCULO
 
 ## art:2.3.5.1.6.4.51 — Medidas complementarias
 
@@ -30516,15 +27456,11 @@ SUBSECCIÓN 1
 
 RÉGIMEN DE TRANSICIÓN DE QUE TRATA EL PARÁGRAFO DEL ARTÍCULO 9 DE LA LEY 1176 DE 2007
 
-ARTÍCULO
-
 ## art:2.3.5.1.7.1.52 — Ámbito de aplicación de la transición de que trata el parágrafo del artículo 9 de la Ley 1176 de 2007
 
 La presente subsección aplica a los municipios o distritos que en cumplimiento de lo establecido en el parágrafo del artículo 9 de la Ley 1176 de 2007, al 6 de marzo de 2015, informaron al Ministerio de Ambiente, Vivienda y Desarrollo Territorial, hoy Ministerio de Vivienda, Ciudad y Territorio, la existencia de montos comprometidos antes de la expedición de la Ley 1176 de 2007 con cargo a los recursos de la participación para Agua Potable y Saneamiento Básico del Sistema General de Participaciones, destinados a pagar créditos o compromisos derivados de la estructuración financiera de un contrato con un tercero, que tengan cómo propósito garantizar la prestación de estos servicios.
 
 (Decreto 1484 de 2014, artículo 52).
-
-ARTÍCULO
 
 ## art:2.3.5.1.7.1.53 — Garantía para pago de compromisos
 
@@ -30535,8 +27471,6 @@ En todo caso, a los municipios clasificados en categorías 2, 3, 4, 5 y 6, de ac
 En el evento en que el 85% de la asignación sea insuficiente para atender los compromisos reportados, se realizará el correspondiente ajuste en la participación para Agua Potable y Saneamiento Básico.
 
 (Decreto 1484 de 2014, artículo 53).
-
-ARTÍCULO
 
 ## art:2.3.5.1.7.1.54 — Término de la transición
 
@@ -30549,8 +27483,6 @@ El régimen de transición de que trata el parágrafo del artículo 9 de la Ley 
 (Capítulo Adicionado por el Art. 1 del Decreto 118 de 2020)
 
 USO DE LOS RECURSOS DEL SISTEMA GENERAL DE PARTICIPACIONES PARA AGUA POTABLE Y SANEAMIENTO BÁSICO DESTINADOS AL PAGO DEL SERVICIO DE ENERGÍA EN MUNICIPIOS PRESTADORES DIRECTOS
-
-ARTÍCULO
 
 ## art:2.3.5.2.1 — 2.1
 
@@ -30568,8 +27500,6 @@ PARÁGRAFO 1. En ningún caso podrán emplearse los recursos del Sistema General
 
 PARÁGRAFO 2. Los municipios de categoría 5 y 6 que presten directamente los servicios públicos domiciliarios de acueducto y alcantarillado no podrán financiar de manera retroactiva el costo del servicio de energía por concepto de operación de los sistemas de acueducto y alcantarillado con los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico (SGP-APSB).
 
-ARTÍCULO
-
 ## art:2.3.5.2.2 — Monitoreo a los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico
 
 El cumplimiento de lo establecido en el presente capítulo será objeto de la actividad de monitoreo por parte del Ministerio de Vivienda, Ciudad y Territorio, sin perjuicio de las funciones de vigilancia y control que adelante la Superintendencia de Servicios Públicos Domiciliarios."
@@ -30579,8 +27509,6 @@ DISPOSICIONES APLICABLES A TODOS LOS SERVICIOS
 CAPÍTULO 1
 
 CONTROL SOCIAL
-
-ARTÍCULO
 
 ## art:2.3.6.1.1 — Deber de Conformación de los Comités de Desarrollo y Control Social
 
@@ -30597,8 +27525,6 @@ Suscriptor potencial: Persona que ha iniciado consultas para convertirse en usua
 La participación del usuario, suscriptor o suscriptor potencial, en la asamblea constitutiva, en el correspondiente Comité de Desarrollo y Control Social y en la asamblea de usuarios, es personal e indelegable.
 
 (Decreto 1429 de 1995, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.6.1.2 — Convocatoria de las Asambleas Constitutivas
 
@@ -30624,8 +27550,6 @@ f) Los comités, el día de su elección, se instalarán y elegirán al Vocal de
 
 (Decreto 1429 de 1995, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.6.1.3 — Contenido del Acta de la Asamblea Constitutiva de los Comités
 
 El acta de la asamblea constitutiva de los Comités de Desarrollo y Control Social, contemplará al menos los siguientes aspectos:
@@ -30644,8 +27568,6 @@ PARÁGRAFO . El presidente de la asamblea constitutiva tendrá la obligación de
 
 (Decreto 1429 de 1995, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.6.1.4 — Asamblea de Usuarios
 
 Con el objeto de garantizar la participación comunitaria en la vigilancia de la gestión y en la fiscalización de los servicios públicos domiciliarios, se conformará una asamblea de usuarios de la cuál podrán hacer parte los asistentes a las asambleas anteriores y cualquier usuario, suscriptor o suscriptor potencial que desee sumarse a ella. La asamblea así conformada no podrá sesionar con un número inferior al establecido en el literal d) del artículo 2 del presente capítulo. Esta se reunirá:
@@ -30657,8 +27579,6 @@ b) Extraordinariamente cuando sea convocada a instancia Vocal de Control, de las
 c) Por derecho propio, cuando no haya sido convocada a reunión ordinaria o cuando no haya sido posible realizar dicha reunión por falta de quórum, evento en el cuál podrá deliberar con cualquier número plural de asistentes. En todo caso para la elección de un nuevo comité se requerirá el mínimo de asistentes previstos en el literal d) del artículo 2.3.6.1.2. del presente capítulo.
 
 (Decreto 1429 de 1995, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.6.1.5 — Miembros del Comité
 
@@ -30672,8 +27592,6 @@ Tampoco podrán ser miembros de los comités quienes reciban el servicio en form
 
 (Decreto 1429 de 1995, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.6.1.6 — Número de Miembros del Comité
 
 El número de miembros de los comités será el que resulte de dividir la población del respectivo municipio o distrito, según el censo de población oficial vigente por diez mil (10.000), pero no podrá ser inferior a cincuenta (50). Para el Distrito Capital de Santa Fe de Bogotá, el número mínimo de miembros será de doscientos (200). En caso de que al aplicar el factor de representatividad poblacional mencionada, el resultado sea inferior a cincuenta (50), el número de miembros del comité se deberá ajustar a este mínimo señalado en la ley.
@@ -30681,8 +27599,6 @@ El número de miembros de los comités será el que resulte de dividir la poblac
 PARÁGRAFO . El Alcalde Municipal con el objeto de asegurar la participación de los usuarios en la vigilancia de la gestión y en la fiscalización de las entidades prestadoras de servicios públicos domiciliarios, velará por el cumplimiento de lo previsto en este artículo.
 
 (Decreto 1429 de 1995, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.6.1.7 — Faltas Absolutas
 
@@ -30695,8 +27611,6 @@ b) La renuncia;
 c) La incapacidad física permanente.
 
 (Decreto 1429 de 1995, artículo 7).
-
-ARTÍCULO
 
 ## art:2.3.6.1.8 — Normas de Funcionamiento de los Comités
 
@@ -30748,8 +27662,6 @@ PARÁGRAFO 3. Los aspectos relativos a la aprobación del reglamento, a la elecc
 
 (Decreto 1429 de 1995, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.6.1.9 — Derechos y deberes de los miembros de los Comités de Desarrollo y Control Social
 
 Todo miembro de un comité tendrá los siguientes derechos y deberes:
@@ -30768,8 +27680,6 @@ f) Exigir en las reuniones del comité la rendición de los informes correspondi
 
 (Decreto 1429 de 1995, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.6.1.10 — Impugnación del Vocal de Control
 
 La elección del Vocal de Control podrá impugnarse ante el Personero del municipio donde se realice ésta. Las decisiones del Personero sobre dicha impugnación, serán apelables ante la Superintendencia de Servicios Públicos Domiciliarios.
@@ -30778,15 +27688,11 @@ Será causal de mala conducta para cualquier servidor público y en general, par
 
 (Decreto 1429 de 1995, artículo 10).
 
-ARTÍCULO
-
 ## art:2.3.6.1.11 — Procedimientos de Impugnación
 
 La impugnación de la elección de un Vocal de Control, podrá ser intentada dentro de los dos meses siguientes a la misma y se tramitará ante el personero del municipio en cuya jurisdicción va a funcionar el comité, con sujeción a las reglas previstas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo para el ejercicio del derecho de petición en interés general.
 
 (Decreto 1429 de 1995, artículo 11).
-
-ARTÍCULO
 
 ## art:2.3.6.1.12 — Funciones de los Vocales de Control
 
@@ -30818,8 +27724,6 @@ k) Las demás que le asigne la ley.
 
 (Decreto 1429 de 1995, artículo 12).
 
-ARTÍCULO
-
 ## art:2.3.6.1.13 — Prohibición a los Vocales de Control
 
 El Vocal de Control no podrá invocar su calidad de tal para obtener beneficio personal, ni actuar motivado por intereses políticos o ajenos a sus funciones, ni efectuar cobros a sus representados por realizar gestiones ante las entidades prestadoras de servicios públicos domiciliarios.
@@ -30827,8 +27731,6 @@ El Vocal de Control no podrá invocar su calidad de tal para obtener beneficio p
 La contravención a esta prohibición dará lugar a las correspondientes sanciones de carácter legal y será causal de su remoción por parte del comité.
 
 (Decreto 1429 de 1995, artículo 13).
-
-ARTÍCULO
 
 ## art:2.3.6.1.14 — Incompatibilidades e Inhabilidades de los Vocales de Control
 
@@ -30839,8 +27741,6 @@ La incompatibilidad e inhabilidad se extenderá hasta dos años después de habe
 La celebración de los contratos de servicios públicos o, en general, de los que se celebren en igualdad de condiciones con quién los solicite, no dar lugar a aplicar estas incompatibilidades o inhabilidades.
 
 (Decreto 1429 de 1995, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.6.1.15 — Interacción de los Alcaldes con los Comités
 
@@ -30866,8 +27766,6 @@ f) Las demás que les asigne la ley.
 
 (Decreto 1429 de 1995, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.6.1.16 — Interacción de las entidades prestadoras de los servicios públicos domiciliarios con los Comités
 
 Corresponde a las entidades prestadoras de los servicios públicos domiciliarios:
@@ -30882,8 +27780,6 @@ d) Las demás que les asigne la ley.
 
 (Decreto 1429 de 1995, artículo 16).
 
-ARTÍCULO
-
 ## art:2.3.6.1.17 — Interacción de los gobernadores con los comités
 
 Corresponde a los gobernadores:
@@ -30897,8 +27793,6 @@ c) Asegurar en coordinación con los municipios y con la Superintendencia de Ser
 d) Las demás que les asigne la ley.
 
 (Decreto 1429 de 1995, artículo 17).
-
-ARTÍCULO
 
 ## art:2.3.6.1.18 — Interacción de la Superintendencia de Servicios Públicos Domiciliarios con los comités
 
@@ -30922,15 +27816,11 @@ PARÁGRAFO 2. La Superintendencia de Servicios Públicos Domiciliarios, reglamen
 
 (Decreto 1429 de 1995, artículo 18).
 
-ARTÍCULO
-
 ## art:2.3.6.1.19 — Definición de Apoyo técnico y dotación de instrumentos básicos
 
 Para los efectos de las funciones consagradas en los artículos anteriores, se entiende por 'Apoyo técnico y dotación de instrumentos básicos', el suministro de material pedagógico, bibliográfico, ayudas audiovisuales y didácticas que le permitan tanto a las autoridades territoriales, cómo a los Vocales de Control inscritos ante la Superintendencia, el adecuado ejercicio de sus funciones y derechos, así cómo el cumplimiento de sus deberes, dentro del marco de las disposiciones contenidas en la Ley 142 de 1994, en este capítulo y en las resoluciones que expidan las entidades de regulación.
 
 (Decreto 1429 de 1995, artículo 19).
-
-ARTÍCULO
 
 ## art:2.3.6.1.20 — Coordinación Interinstitucional
 
@@ -30942,15 +27832,11 @@ CAPÍTULO 2
 
 FACTURACIÓN CONJUNTA
 
-ARTÍCULO
-
 ## art:2.3.6.2.1 — Ámbito de aplicación
 
 El presente capítulo se aplica a todas las entidades prestadoras de los servicios públicos domiciliarios de las que trata la Ley 142 de 1994.
 
 (Decreto 2668 de 1999, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.6.2.2 — Liquidación del servicio de facturación
 
@@ -30964,8 +27850,6 @@ PARÁGRAFO 2. Costos directos de facturación. Son los costos en que incurre la 
 
 (Decreto 2668 de 1999, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.6.2.3 — Libertad de elección
 
 Para estos efectos la facultad de elección de empresa solicitante la facturación es absolutamente potestativa de la empresa prestadora del servicio de saneamiento básico.
@@ -30975,8 +27859,6 @@ PARÁGRAFO 1. Empresa solicitante. Es la entidad que presta el o los servicios d
 PARÁGRAFO 2. Empresa concedente. Es la empresa que a juicio de la empresa solicitante brinda o tiene las condiciones para poder facturar en forma conjunta.
 
 (Decreto 2668 de 1999, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.6.2.4 — Obligaciones
 
@@ -30994,8 +27876,6 @@ SECCIÓN 1
 
 ACCESO A LA INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.3.6.3.1.1 — Información pública obligatoria
 
 Las Comisiones deben informar al público acerca de los siguientes asuntos:
@@ -31012,13 +27892,13 @@ Las Comisiones deben informar al público acerca de los siguientes asuntos:
 
 (Decreto 2696 de 2004, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.6.3.1.2 — Entrega de información
 
 La información señalada en el artículo anterior estará disponible en las oficinas de la respectiva Comisión de Regulación y a través de los mecanismos de difusión electrónica que estas dispongan. En ningún caso se requerirá la presencia personal del interesado para obtener esta información, la cuál podrá ser enviada, si así lo solicita, por correo o por cualquier medio técnico o electrónico disponible que asegure su entrega.
 
-(Decreto 2696 de 2004, ARTÍCULO
+(Decreto 2696 de 2004,
+
+2).
 
 ## art:2.3.6.3.1.3 — Disponibilidad de formatos para cumplir obligaciones de reporte de información
 
@@ -31028,15 +27908,11 @@ Cada Comisión deberá permitir que los agentes tengan acceso electrónico a los
 
 (Decreto 2696 de 2004, artículo 3).
 
-ARTÍCULO
-
 ## art:2.3.6.3.1.4 — Incorporación de medios técnicos
 
 Las Comisiones de Regulación pondrán a disposición del público a través de medios electrónicos, las versiones de las leyes y actos administrativos publicados en el Diario Oficial, así cómo los documentos de interés público, relativos a sus competencias y funciones.
 
 (Decreto 2696 de 2004, artículo 4).
-
-ARTÍCULO
 
 ## art:2.3.6.3.1.5 — Publicidad sobre la contratación
 
@@ -31050,8 +27926,6 @@ SECCIÓN 2
 
 AGENDA REGULATORIA
 
-ARTÍCULO
-
 ## art:2.3.6.3.2.6 — Plan estratégico y agenda regulatoria
 
 Las Comisiones de Regulación tendrán la obligación de definir un plan estratégico para períodos mínimos de cinco (5) años y una agenda regulatoria anual de carácter indicativo.
@@ -31059,8 +27933,6 @@ Las Comisiones de Regulación tendrán la obligación de definir un plan estrat�
 En la agenda regulatoria anual se precisarán los temas o los asuntos con sus respectivos cronogramas, que serán avocados por la Comisión durante dicho lapso, con sujeción a lo dispuesto por la ley, sin perjuicio que la Comisión pueda avocar el conocimiento y trámite de asuntos no contemplados en la agenda.
 
 (Decreto 2696 de 2004, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.6.3.2.7 — Publicidad de la agenda regulatoria
 
@@ -31076,8 +27948,6 @@ SECCIÓN 3
 
 RESOLUCIONES DE CARÁCTER GENERAL
 
-ARTÍCULO
-
 ## art:2.3.6.3.3.8 — Elaboración, expedición y vigencia de resoluciones de carácter general
 
 Para expedir resoluciones de carácter general, las Comisiones harán los análisis técnicos, económicos y legales pertinentes.
@@ -31086,8 +27956,6 @@ Se deberán conservar, junto con la decisión o propuesta, cuántos datos y docu
 
 (Decreto 2696 de 2004, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.6.3.3.9 — Publicidad de proyectos de regulaciones
 
 Las Comisiones harán público en su página Web, con antelación no inferior a treinta (30) días a la fecha de su expedición, todos los proyectos de resoluciones de carácter general que pretendan adoptar, excepto los relativos a fórmulas tarifarias, en cuyo caso se seguirá el procedimiento previsto en los artículos 124 a 127 de la Ley 142 de 1994, reglamentado en el artículo 11 del presente capítulo.
@@ -31095,8 +27963,6 @@ Las Comisiones harán público en su página Web, con antelación no inferior a 
 PARÁGRAFO . Cada Comisión definirá y hará públicos los criterios, así cómo los casos en los cuáles las disposiciones contenidas en el presente artículo no serán aplicables a resoluciones de carácter general.
 
 (Decreto 2696 de 2004, artículo 9).
-
-ARTÍCULO
 
 ## art:2.3.6.3.3.10 — Contenido mínimo del documento que haga públicos los proyectos de regulación de carácter general, no tarifarios
 
@@ -31119,8 +27985,6 @@ El documento que elaborará el Comité de Expertos de cada Comisión contendrá 
 Cuando se expidan las resoluciones, en la parte motiva se hará mención del documento en el cuál cada Comisión revisó los comentarios recibidos y expuso las razones para aceptar o desechar las observaciones, reparos y sugerencias que no se hayan incorporado. Durante el día hábil siguiente al de la publicación de la resolución en el Diario Oficial, se hará público el documento correspondiente al que se refiere este parágrafo.
 
 (Decreto 2696 de 2004, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.6.3.3.11 — Reglas especiales de difusión para la adopción de fórmulas tarifarias con una vigencia de cinco años
 
@@ -31174,8 +28038,6 @@ Compilación de regulaciones de carácter general. Con el propósito de facilita
 
 (Decreto 2696 de 2004, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.6.3.3.12 — Compilación de regulaciones de carácter general
 
 Con el propósito de facilitar la consulta de la regulación vigente de carácter general, sin que sea una codificación, las Comisiones compilarán, cada dos años, con numeración continúa y divididas temáticamente, las resoluciones de carácter general que hayan sido expedidas. Se podrán establecer excepciones en esta compilación en el caso de resoluciones de carácter transitorio.
@@ -31185,8 +28047,6 @@ Con el propósito de facilitar la consulta de la regulación vigente de carácte
 SECCIÓN 4
 
 INFORME DE GESTIÓN Y DE RESULTADOS
-
-ARTÍCULO
 
 ## art:2.3.6.3.4.13 — Informe de gestión y de resultados
 
@@ -31204,15 +28064,11 @@ SECCIÓN 5
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.6.3.5.14 — Presentación de comentarios y sugerencias a proyectos de resolución fuera de la Capital de la República
 
 Los interesados que residan en una ciudad diferente a la Capital de la República, pueden presentar sus comentarios o sugerencias a los proyectos de Resolución. Las Comisiones celebrarán convenios con la Superintendencia de Servicios Públicos Domiciliarios para que los comentarios o sugerencias sean recibidos a través de las dependencias regionales o seccionales de este organismo. En todo caso, los escritos deberán ser remitidos a la Comisión respectiva dentro de los términos previstos en el presente capítulo.
 
 (Decreto 2696 de 2004, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.6.3.5.15 — .15
 
@@ -31234,21 +28090,15 @@ SECCIÓN 1
 
 PARTE GENERAL
 
-ARTÍCULO
-
 ## art:2.3.7.1.1.1 — Objeto
 
 El presente capítulo tiene por objeto definir esquemas diferenciales para la prestación de los servicios de acueducto, alcantarillado y aseo, y para el aprovisionamiento de agua para consumo humano y doméstico y de saneamiento básico en zonas rurales del territorio nacional, en armonía con las disposiciones de ordenamiento territorial aplicables al suelo rural, acorde con lo dispuesto en los artículos 14 y 33 de la Ley 388 de 1997 o aquellas disposiciones de ordenamiento del suelo rural que las modifiquen, adicionen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.3.7.1.1.2 — Ámbito de aplicación
 
 El presente capítulo aplica a las personas prestadoras de los servicios públicos domiciliarios de acueducto, alcantarillado o aseo, a los administradores de puntos de suministro o de abastos de agua, a las entidades territoriales, a las autoridades sanitarias, a la Comisión de Regulación de Agua Potable y Saneamiento Básico, a la Superintendencia de Servicios Públicos Domiciliarios, a las demás entidades del Gobierno Nacional con competencias en las zonas rurales del territorio nacional, a los usuarios y a las comunidades beneficiarias.
 
 PARÁGRAFO . Las disposiciones del presente capítulo que sean aplicables a los municipios y distritos, rigen para el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina
-
-ARTÍCULO
 
 ## art:2.3.7.1.1.3 — Definiciones
 
@@ -31284,8 +28134,6 @@ SECCIÓN 2
 
 ESQUEMAS DIFERENCIALES DE PRESTACIÓN DE ACUEDUCTO, ALCANTARILLADO O ASEO EN ZONAS RURALES
 
-ARTÍCULO
-
 ## art:2.3.7.1.2.1 — Adopción de infraestructura básica de agua potable y saneamiento básico en zonas rurales
 
 Es responsabilidad de los municipios y distritos asegurar que los centros poblados rurales cuenten con la infraestructura de servicios públicos de acueducto, alcantarillado y aseo. En caso de que el municipio o distrito identifique razones técnicas, operativas o socioeconómicas que impidan la prestación mediante sistemas de acueducto, alcantarillado o el servicio de aseo en los centros poblados rurales, se podrá implementar lo dispuesto en la sección 3 del presente capítulo.
@@ -31316,8 +28164,6 @@ PARÁGRAFO 2. El Ministerio de Salud y Protección Social, en coordinación con 
 
 PARÁGRAFO 3. Las pilas públicas en zonas rurales podrán ser provistas por los prestadores del servicio de acueducto Todo el volumen de agua potable entregado en estas pilas será facturado cómo consumo básico, y el suscriptor recibirá un subsidio equivalente al otorgado al estrato uno (1
 
-ARTÍCULO
-
 ## art:2.3.7.1.2.3 — 2.3
 
 Plan de gestión para la prestación del servicio de acueducto o alcantarillado en zonas rurales: Los prestadores que deseen acogerse a cualquiera de las condiciones diferenciales del artículo 2 3.7.1 2.2. del presente capítulo, deberán formular un plan de gestión que deberá ajustarse a los contenidos, exigencias y plazos que para tal efecto defina el Ministerio de Vivienda, Ciudad y Territorio.
@@ -31338,8 +28184,6 @@ SECCIÓN 3
 
 ESQUEMAS DIFERENCIALES PARA EL APROVISIONAMIENTO DE AGUA POTABLE Y SANEAMIENTO BÁSICO
 
-ARTÍCULO
-
 ## art:2.3.7.1.3.1 — Adopción de soluciones alternativas en zonas rurales
 
 Es responsabilidad de los municipios y distritos asegurar el aprovisionamiento de agua potable y saneamiento básico en zona rural diferente a los centros poblados rurales. Para estos efectos, los proyectos de soluciones alternativas deberán ajustarse a lo dispuesto en el artículo 2 3 7 1 .3 6. del presente capítulo.
@@ -31351,8 +28195,6 @@ PARÁGRAFO 2 Teniendo en cuenta que las soluciones alternativas definidas en la 
 PARÁGRAFO 3. Para la construcción de viviendas u otra infraestructura o equipamientos en zonas rurales en las que no se cuente con disponibilidad de servicios de acueducto o alcantarillado, se podrán emplear soluciones alternativas de agua para consumo humano y doméstico o de saneamiento básico que cumplan con los requisitos técnicos establecidos para estas soluciones en el Reglamento Técnico del Sector de Agua Potable y Saneamiento Básico. Esta certificación será emitida por el municipio o distrito en el que se ubique la construcción
 
 (Parágrafo 3, adicionado por el Art. 2 del Decreto 1688 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.7.1.3.2 — Soluciones alternativas para el aprovisionamiento de agua para consumo humano y doméstico
 
@@ -31366,8 +28208,6 @@ Las soluciones alternativas para el aprovisionamiento de agua para consumo human
 
 PARÁGRAFO . Teniendo en cuenta que los administradores de abastos de agua y de puntos de suministro no son personas prestadoras del servicio público de acueducto, la autoridad sanitaria que compete realizará la vigilancia diferencial que privilegie las acciones de promoción de la salud y prevención de la enfermedad, de conformidad con los lineamientos que para dicho fin expida el Ministerio de Salud y Protección Social. Los abastos de agua y los puntos de suministro deberán contar con los permisos y autorizaciones ambientales que les sean exigibles según las normas vigentes.
 
-ARTÍCULO
-
 ## art:2.3.7.1.3.3 — Soluciones alternativas para el manejo de aguas residuales domésticas
 
 Las soluciones alternativas para el manejo de aguas residuales domésticas en zonas rurales deberán cumplir con las siguientes condiciones:
@@ -31380,13 +28220,9 @@ PARÁGRAFO 1. Las personas prestadoras de los servicios públicos domiciliarios 
 
 (Modificado por el Art. 3 del Decreto 1688 de 2020)
 
-ARTÍCULO
-
 ## art:2.3.7.1.3.4 — Manejo de residuos sólidos
 
 Para el manejo de los residuos sólidos en las zonas rurales diferentes a centros poblados rurales, el municipio deberá promover la separación en la fuente para el aprovechamiento de los residuos orgánicos, de acuerdo con las disposiciones ambientales y sanitarias vigentes, y definir con la comunidad sitios de presentación y frecuencias de recolección para el retiro de materiales inorgánicos, y propender por su recolección, transporte, disposición final o aprovechamiento.
-
-ARTÍCULO
 
 ## art:2.3.7.1.3.5 — 3.5
 
@@ -31403,8 +28239,6 @@ Quién administre la solución alternativa para el aprovisionamiento de agua o d
 PARÁGRAFO . Los municipios y distritos podrán apoyar los procesos de constitución legal y fortalecimiento comunitario de las comunidades organizadas que administren soluciones alternativas, y respetarán la autonomía de las comunidades para tomar decisiones sobre los servicios que les benefician".
 
 (Modificado por el Art. 4 del Decreto 1688 de 2020)
-
-ARTÍCULO
 
 ## art:2.3.7.1.3.6 — Formulación de proyectos de soluciones alternativas
 
@@ -31434,19 +28268,13 @@ SECCIÓN 4.
 
 DISPOSICIONES COMUNES PARA LA PRESTACIÓN DE LOS SERVICIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO Y EL APROVISIONAMIENTO DE AGUA POTABLE Y SANEAMIENTO EN ZONAS RURALES
 
-ARTÍCULO
-
 ## art:2.3.7.1.4.1 — Diagnóstico de infraestructura de agua y saneamiento básico en zonas rurales
 
 Los departamentos deberán recopilar la información necesaria para orientar la dotación de infraestructura básica de agua y saneamiento básico o de las soluciones alternativas en zonas rurales, acorde con el artículo 10 de la Ley 1176 de 2007. Los departamentos deberán mantener esta información actualizada y disponible para las entidades públicas que la requieran, de acuerdo con los reportes, la periodicidad y los mecanismos que defina el Ministerio de Vivienda, Ciudad y Territorio,
 
-ARTÍCULO
-
 ## art:2.3.7.1.4.2 — Fortalecimiento para prestadores de zonas rurales a cargo de los municipios y distritos
 
 Los municipios y distritos deberán estructurar e implementar un programa de fortalecimiento para las personas prestadoras de los servicios de acueducto, alcantarillado o aseo que atiendan zonas rurales de su jurisdicción, acorde con el artículo 11 de la Ley 1 176 de 2007 En este programa se definirán acciones concretas para la administración y operación de los servicios de acueducto, alcantarillado o aseo, el acompañamiento en aspectos jurídicos, técnicos y administrativos, la gestión de información y la estructuración de proyectos, de acuerdo con lo que defina el Ministerio de Vivienda, Ciudad y Territorio.
-
-ARTÍCULO
 
 ## art:2.3.7.1.4.3 — Apoyo y coordinación de los departamentos
 
@@ -31454,27 +28282,19 @@ para la prestación en zonas rurales. Los departamentos prestarán apoyo técnic
 
 PARÁGRAFO . Para la formulación de los programas de fortalecimiento, el departamento deberá suministrar al municipio los resultados del diagnóstico señalado en el artículo 2.3.7.1.4 1.
 
-ARTÍCULO
-
 ## art:2.3.7.1.4.4 — Asistencia Técnica para departamentos a cargo del Ministerio de Vivienda, Ciudad y Territorio
 
 El Ministerio de Vivienda, Ciudad y Territorio, prestará asistencia técnica a los departamentos, para la formulación de los planes de gestión señalados en el artículo 2.3.7.1.2.3. , para la implementación del diagnóstico señalado en el artículo 2.3.7.1.4.1. y para los programas de fortalecimiento señalados en el artículo 2.3.7.1.4.2. con destino a los prestadores de los servicios de acueducto, alcantarillado y aseo
 
-ARTÍCULO
-
 ## art:2.3.7.1.4.5 — 4.5
 
 Asistencia técnica y acompañamiento integral a cargo del Ministerio de Agricultura y Desarrollo Rural para administradores de soluciones alternativas. Los administradores de soluciones alternativas recibirán asistencia técnica y acompañamiento integral en el marco de las competencias de la Agencia de Desarrollo Rural, la Agencia Nacional de Tierras y la Agencia para la Renovación del Territorio, según los lineamientos que defina el Ministerio de Agricultura y Desarrollo Rural en coordinación con el Ministerio de Vivienda, Ciudad y Territorio
-
-ARTÍCULO
 
 ## art:2.3.7.1.4.6 — Actividades de los esquemas asociativos de apoyo al acceso a agua potable y saneamiento básicos
 
 Los esquemas asociativos podrán desarrollar actividades de índole administrativa, técnica o comercial relativas al acceso al agua potable y at saneamiento básico, sin que se entienda que asumen la prestación o el aprovisionamiento. Igualmente, estos esquemas asociativos podrán adelantar actividades de fortalecimiento para sus asociados o para terceros.
 
 PARÁGRAFO . Los departamentos o los municipios o distritos podrán apoyar o coordinar esquemas asociativos en desarrollo de los programas de fortalecimiento señalados en el artículo 2 3 7 1 4.2
-
-ARTÍCULO
 
 ## art:2.3.7.1.4.7 — Gestión social para el acceso a agua para el consumo humano y doméstico, y saneamiento básico en zonas rurales
 
@@ -31496,8 +28316,6 @@ PARÁGRAFO . Los municipios y distritos podrán contar con el apoyo de las entid
 
 PROYECTOS DEL SECTOR AGUA Y SANEAMIENTO BÁSICO EN ZONAS RURALES
 
-ARTÍCULO
-
 ## art:2.3.7.1.5.1 — 5.1
 
 Lineamientos para la enajenación y ocupación de predios para proyectos del sector de agua y saneamiento básico en zonas rurales. En la enajenación u ocupación de predios requeridos para los proyectos de acueducto o de alcantarillado o para los proyectos de aprovisionamiento con soluciones alternativas en zonas rurales se aplicará lo siguiente:
@@ -31505,8 +28323,6 @@ Lineamientos para la enajenación y ocupación de predios para proyectos del sec
 1. La enajenación de predios para los proyectos de agua y saneamiento básico en zonas rurales, puede recaer únicamente sobre la porción del predio requerida para la ejecución del proyecto, incluso cuando el terreno requerido sea inferior o superior al umbral de suburbanización, o a la Unidad Agrícola Familiar (UAF) en los términos del artículo 45 de la Ley 160 de 1994. Para estos efectos no se requerirá licencia de subdivisión, de conformidad con el numeral 1.2 del artículo 2.2.6.1.1.11. del Decreto 1077 de 2015.
 
 2. Cualquier persona natural o jurídica podrá permitir la intervención en un predio de su propiedad para el desarrollo de los proyectos del sector de agua y saneamiento básico en zonas rurales, a través de la enajenación del mismo en favor de un municipio o distrito o de una comunidad organizada, o mediante la constitución de servidumbres, en todo o parte del predio. El título constitutivo de servidumbre puede suplirse por el reconocimiento expreso del dueño o poseedor regular del predio sirviente, en los términos de los artículos 937 y 940 del Código Civil.
-
-ARTÍCULO
 
 ## art:2.3.7.1.5.2 — Lineamientos para el aporte bajo condición a las comunidades organizadas
 
@@ -31525,8 +28341,6 @@ Para efectos de lo dispuesto en el artículo 279 de la Ley 1955 de 2019, el apor
 6. El aporte de los bienes que entrega el municipio o distrito no implica enajenación de los mismos en favor de la comunidad beneficiaria. Su valor deberá incluirse en la contabilidad del respectivo municipio o distrito, quién deberá hacerse cargo de las obligaciones tributarias y otros gravámenes que pesen sobre los mismos.
 
 7. El valor de los bienes y/o derechos que son objeto del aporte bajo condición no se incluye en las tarifas de los servicios de acueducto, alcantarillado o aseo, ni en los aportes o cuotas para las soluciones alternativas.
-
-ARTÍCULO
 
 ## art:2.3.7.1.5.3 — Apoyo y promoción a proyectos de agua para consumo humano y doméstico o de saneamiento básico
 
@@ -31548,19 +28362,13 @@ SECCIÓN 1
 
 PARTE GENERAL
 
-ARTÍCULO
-
 ## art:2.3.7.2.1.1 — Objeto
 
 El presente capítulo tiene por objeto establecer las condiciones para la prestación de los servicios públicos de acueducto, alcantarillado o aseo dentro del suelo urbano de un municipio o distrito, mediante la definición de esquemas diferenciales en áreas de difícil gestión, zonas de difícil acceso y áreas de prestación, en las cuáles por condiciones particulares no puedan alcanzarse los estándares de eficiencia, cobertura y calidad establecidos en la normatividad vigente.
 
-ARTÍCULO
-
 ## art:2.3.7.2.1.2 — Ámbito de aplicación
 
 Esta reglamentación se aplica a las personas prestadoras de los servicios públicos de acueducto, alcantarillado o aseo, a los suscriptores, a los usuarios, a las entidades territoriales, a la Comisión de Regulación de Agua Potable y Saneamiento Básico, a la Superintendencia de Servicios Públicos Domiciliarios, ya las demás entidades que tengan competencias con la prestación de estos servicios en suelo urbano.
-
-ARTÍCULO
 
 ## art:2.3.7.2.1.3 — Esquema diferencial
 
@@ -31574,13 +28382,9 @@ SUBSECCIÓN 1
 
 ESQUEMAS DIFERENCIALES DE PRESTACIÓN EN ÁREAS DE DIFÍCIL GESTIÓN
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.1.1 — Áreas de difícil gestión
 
 Son aquellas áreas dentro del suelo urbano de un municipio o distrito que reciben un tratamiento de mejoramiento integral en los planes de ordenamiento territorial; o hayan sido objeto o sean susceptibles de legalización urbanística; en donde no se pueden alcanzar los estándares de eficiencia, cobertura o calidad para la prestación de los servicios públicos de acueducto, alcantarillado o aseo, en los plazos y condiciones establecidas en la regulación expedida por la Comisión de Regulación de Agua Potable y Saneamiento Básico. Para el efecto, la prestación de los servicios públicos de acueducto, alcantarillado o aseo se podrá realizar en las condiciones diferenciales establecidas en el artículo 2.3.7.2.2.1.6. de esta subsección.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.1.2 — Requisitos para aplicar un esquema diferencial en áreas de difícil gestión
 
@@ -31609,8 +28413,6 @@ Mientras la Comisión de Regulación de Agua Potable y Saneamiento Básico expid
 8. El plan de gestión en donde se definan las metas, indicadores, plazos, objetivos, acciones y fuentes de financiación para el cumplimiento de las condiciones establecidas en el artículo 2.3.7.2.2.1.6. de la presente subsección y de los estándares de prestación de los servicios públicos definidos por la regulación vigente.
 
 PARÁGRAFO . Adicional a los requisitos señalados en el presente artículo, para aquellas áreas de difícil gestión que se incluyan en el Plan de Desarrollo Municipal o Distrital vigente a la fecha de reporte en el Sistema Único de Información (SUI), se deberá contar con un plan que contenga las metas y su gradualidad, para que se logre el cumplimiento de los estándares señalados por la regulación para la prestación de los servicios públicos domiciliarios.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.1.3 — Inspección, vigilancia y control del esquema diferencial en áreas de difícil gestión
 
@@ -31644,23 +28446,17 @@ PARÁGRAFO 1. El esquema diferencial adoptado para cada uno de los servicios pú
 
 PARÁGRAFO 2. En ningún caso se podrá aplicar un esquema diferencial en suelos de protección conforme al artículo 35 de la Ley 388 de 1997.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.1.4 — Modificación y prórroga del esquema diferencial en áreas de difícil gestión
 
 El esquema diferencial podrá ser modificado por parte de la persona prestadora antes del vencimiento del plazo señalado para la terminación del mismo, para la cuál deberá cumplir con todos los requisitos a que se refiere el artículo 2.3.7.2.2.1.2 de la presente subsección e informarlo por escrito a la Superintendencia de Servicios Públicos Domiciliarios.
 
 Las modificaciones que se realicen en el Plan de Desarrollo Municipal o Distrital, respecto a las áreas de difícil gestión, deberán ser reportadas en el Sistema Único de Información (SUI) por la persona prestadora y estar acorde con las medidas adoptadas en el municipio para la legalización urbanística o mejoramiento integral.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.1.5 — Terminación del esquema diferencial en áreas de difícil gestión
 
 El esquema diferencial termina cuando se superan las condiciones del servicio que dieron origen a la prestación en condiciones diferenciales dentro del plazo fijado o cuando culmine. el plazo del plan que contiene las metas y gradualidad para el logro de los estándares señalados por la regulación. En todo caso, la persona prestadora deberá informarlo a la Superintendencia de Servicios Públicos Domiciliarios.
 
 Cuando la Superintendencia de Servicios Públicos Domiciliarios en ejercicio de sus funciones de inspección, vigilancia y control encuentre que no se están cumpliendo las obligaciones en la aplicación del esquema diferencial, podrá imponer las sanciones y demás acciones para corregir la actuación del prestador.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.1.6 — 1.6
 
@@ -31694,13 +28490,9 @@ La prestación del servicio de acueducto mediante pilas públicas se sujetará a
 
 4. Condiciones diferenciales en los contratos de servicios públicos. Las personas prestadoras incorporarán en sus contratos de servicios públicos las condiciones de este esquema diferencial, conforme a lo establecido en la presente subsección, sin perjuicio de lo contenido en la regulación sobre contrato de servicios públicos y sus condiciones uniformes, en lo dispuesto en el artículo 128 de la Ley 142 de 1994 y en las demás disposiciones aplicables.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.1.7 — Contrato de servicios públicos para el esquema diferencial en áreas de difícil gestión
 
 La persona prestadora deberá adoptar un contrato de servicios públicos para el esquema diferencial en áreas de difícil gestión, en el cuál incluirá las condiciones diferenciales respectivas.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.1.8 — Planes de gestión en áreas de difícil gestión
 
@@ -31710,23 +28502,17 @@ La persona prestadora deberá establecer un plan de gestión en donde se definan
 
 2. Plan de aseguramiento de la prestación de los servicios públicos para el cumplimiento de los estándares de prestación de dichos servicios.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.1.9 — Apoyo de los municipios y distritos
 
 Los municipios, distritos y departamentos, acorde con su obligación constitucional y legal, priorizarán el apoyo técnico y financiero para la estructuración e implementación de las acciones derivadas de los planes de gestión en áreas de difícil gestión y apoyarán técnica y financieramente los proyectos para mejorar la prestación de dichos servicios públicos.
 
 Estos proyectos se incluirán en el Plan de Inversiones del Plan de Desarrollo del municipio o distrito de que trata la Ley 152 de 1994 y en el convenio que suscriba la entidad territorial y la persona prestadora.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.1.10 — Reporte de los municipios y distritos
 
 El municipio o distrito presentará, antes de agosto de cada año al Concejo Municipal o Distrital, al Ministerio de Vivienda, Ciudad y Territorio un reporte de cumplimiento de metas de los proyectos de servicios públicos incluidos en el Plan de Inversiones del Plan de Desarrollo que correspondan a la zona de difícil gestión.
 
 La persona prestadora con esta información determinará el impacto para el cumplimiento de las metas y de la gradualidad en el logro de los estándares señalados por la regulación.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.1.11 — Obligaciones del suscriptor
 
@@ -31742,15 +28528,11 @@ SUBSECCIÓN 2
 
 ESQUEMAS DIFERENCIALES DE PRESTACIÓN EN ZONAS DE DIFÍCIL ACCESO
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.2.1 — Zonas de difícil acceso
 
 Corresponde al municipio en el cuál la persona prestadora en su área de prestación en suelo urbano no puede alcanzar los estándares de eficiencia, cobertura o calidad en los plazos establecidos en la regulación expedida por la Comisión de Regulación de Agua Potable y Saneamiento Básico, y cuenta con una población urbana menor a 25.000 habitantes según la información censal del Departamento Administrativo Nacional de Estadística (DANE) y está ubicado en Zonas No Interconectadas (ZNI) del sistema eléctrico nacional de la Unidad de Planeación Minero Energética (UPME).
 
 La información a la que hace referencia este artículo debe corresponder con la información disponible más reciente al momento de presentación de la solicitud.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.2.2 — Solicitud de un esquema diferencial en zonas de difícil acceso
 
@@ -31774,8 +28556,6 @@ Mientras la Comisión de Regulación de Agua Potable y Saneamiento Básico expid
 
 6. Los demás requisitos de metodología y documentación de soporte que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.2.3 — Aceptación de la solicitud del esquema diferencial en zonas de difícil acceso
 
 La aceptación de la solicitud por parte de la Comisión de Regulación de Agua Potable y Saneamiento Básico para la aplicación del esquema diferencial se hará mediante acto administrativo en el cuál se constatará cómo mínimo:
@@ -31798,15 +28578,11 @@ Que mientras la Comisión de Regulación de Agua Potable y Saneamiento Básico e
 
 6. Que se cumple con los demás requisitos de metodología y documentación de soporte establecidos por la Comisión de Regulación de Agua Potable y Saneamiento Básico.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.2.4 — Modificación y prórroga de las condiciones diferenciales en zonas de difícil acceso
 
 Las metas, indicadores, plazos, objetivos y acciones para el cumplimiento de las condiciones diferenciales definidas en el artículo 2.3.7.2.2.2.6. de la presente subsección, podrán ser modificadas y prorrogadas antes del vencimiento del plazo señalado para la terminación del esquema diferencial por la Comisión de Regulación de Agua Potable y Saneamiento Básico, de oficio o por previa solicitud sustentada por parte de la persona prestadora. En este caso, la persona prestadora deberá ajustar el plan de gestión al que se refiere el artículo 2.3.7.2.2.2.8. de la presente subsección.
 
 Una vez modificadas y prorrogadas las metas, indicadores, plazos, objetivos y acciones para el cumplimiento de las condiciones diferenciales definidas en el artículo 2.3.7.2.2.2.6. de la presente subsección, la persona prestadora deberá reportar esta circunstancia en el Sistema Único de Información (SUI) administrado por la Superintendencia de Servicios Públicos Domiciliarios.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.2.5 — Terminación del esquema diferencial en zonas de difícil acceso
 
@@ -31815,8 +28591,6 @@ El esquema diferencial termina cuando se superan las condiciones del servicio qu
 La Comisión de Regulación de Agua Potable y Saneamiento Básico podrá dar por terminado el esquema diferencial cuando encuentre que no se ha logrado el cumplimiento de las metas, indicadores, plazos, objetivos y acciones señalados en el plan de gestión.
 
 La Superintendencia de Servicios Públicos Domiciliarios en ejercicio de sus funciones de inspección, vigilancia y control cuando observe que no se están cumpliendo las obligaciones a cargo de ésta en la aplicación del esquema diferencial podrá imponer las sanciones y demás acciones para corregir la actuación del prestador.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.2.6 — 2.6
 
@@ -31838,13 +28612,9 @@ Condiciones de los esquemas diferenciales para los servicios de acueducto, alcan
 
 4. Condiciones diferenciales en los contratos de servicios públicos. Las personas prestadoras incorporarán en sus contratos de servicios públicos las condiciones de este esquema diferencial, conforme a lo establecido en la presente subsección, sin perjuicio de lo contenido en la regulación sobre contrato de servicios públicos y sus condiciones uniformes, en lo dispuesto en el artículo 128 de la Ley 142 de 1994 y en las demás disposiciones aplicables.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.2.7 — Contrato de servicios públicos para el esquema diferencial en zonas de difícil acceso
 
 La persona prestadora deberá adoptar un contrato de servicios públicos para el esquema diferencial en zonas de difícil acceso, en el cuál incluirá las condiciones diferenciales respectivas.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.2.8 — Planes de gestión en zonas de difícil acceso
 
@@ -31856,8 +28626,6 @@ La persona prestadora deberá establecer un plan de gestión en donde se definan
 
 PARÁGRAFO . Los municipios y departamentos en cumplimiento de sus obligaciones constitucionales y legales priorizarán el apoyo técnico y financiero para la estructuración e implementación de las acciones derivadas de los planes de gestión en zonas de difícil acceso.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.2.9 — Registro del esquema diferencial en el Sistema Único de Información (SUI)
 
 Una vez aceptada la aplicación del esquema diferencial, la persona prestadora deberá registrarlo en el Sistema Único de Información (SUI), en las condiciones y plazos que establezca la Superintendencia de Servicios Públicos Domiciliarios, para su. correspondiente inspección, vigilancia y control.
@@ -31866,8 +28634,6 @@ SUBSECCIÓN 3
 
 ESQUEMAS DIFERENCIALES DE PRESTACIÓN EN ÁREAS DE PRESTACIÓN, CON CONDICIONES PARTICULARES
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.3.1 — Áreas de prestación, con condiciones particulares
 
 Corresponde al área de prestación de la persona prestadora en suelo urbano de un municipio o distrito que cuenta con una población urbana mayor a 25.000 y hasta 400.000 habitantes según la información censal y tenga un Índice de Necesidades Básicas Insatisfechas (NBI) en cabecera municipal mayor al 30%, de acuerdo con la información del Departamento Administrativo Nacional de Estadística (DANE).
@@ -31875,8 +28641,6 @@ Corresponde al área de prestación de la persona prestadora en suelo urbano de 
 El área de prestación, con condiciones particulares, también corresponde a aquellos municipios que cuentan con una población urbana menor a 25.000 habitantes según la información censal del Departamento Administrativo Nacional de Estadística (DANE) y que se vinculen al área de prestación de un municipio o distrito de los anteriormente señalados.
 
 La información del Departamento Administrativo Nacional de Estadística (DANE) a la que hace referencia este artículo, debe corresponder con la información disponible más reciente al momento de presentación de la solicitud.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.3.2 — Solicitud de un esquema diferencial en áreas de prestación, con condiciones particulares
 
@@ -31899,8 +28663,6 @@ Cuando exista un contrato de operación y se proyecte la aplicación de un esque
 Mientras la Comisión de Regulación de Agua Potable y Saneamiento Básico expide la regulación para este esquema, el prestador deberá aplicar la metodología tarifaria vigente, los cuáles en todo caso, no deberán superar los costos de referencia, teniendo en cuenta para ello las condiciones diferenciales de prestación.
 
 6. Los demás requisitos de metodología y documentación de soporte que establezca la Comisión de Regulación de Agua Potable y Saneamiento Básico.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.3.3 — Aceptación de la solicitud del esquema diferencial en áreas de prestación, con condiciones particulares
 
@@ -31926,15 +28688,11 @@ Que mientras la Comisión de Regulación de Agua Potable y Saneamiento Básico e
 
 PARÁGRAFO 1. El esquema diferencial adoptado para cada uno de los servicios públicos de acueducto, alcantarillado o aseo en las áreas de prestación, con condiciones particulares, no podrá afectar los estándares de prestación definidos por la regulación en las demás áreas o municipios atendidos por el prestador, que no sean objeto de aplicación de dicho esquema.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.3.4 — Modificación y prórroga de las condiciones diferenciales en zonas de difícil acceso
 
 Las metas, indicadores, plazos, objetivos y acciones para el cumplimiento de las condiciones diferenciales definidas en el artículo 2.3.7.2.2.3.6. de la presente subsección, podrán ser modificadas y prorrogadas antes del vencimiento del plazo señalado para la terminación del esquema diferencial por la Comisión de Regulación de Agua Potable y Saneamiento Básico, de oficio o por previa solicitud sustentada por parte de la' persona prestadora. En este caso, la persona prestadora deberá ajustar el plan de gestión al que se refiere el artículo 2.3.7.2.2.3.8. de la presente subsección.
 
 Una vez modificadas y prorrogadas las metas, indicadores, plazos, objetivos y acciones para el cumplimiento de las condiciones diferenciales definidas en el artículo 2.3.7.2.2.3.6. de la presente subsección, la persona prestadora deberá reportar esta circunstancia en el Sistema Único de Información (SUI) administrado por la Superintendencia de Servicios Públicos Domiciliarios.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.3.5 — Terminación del esquema diferencial en áreas de prestación, con condiciones particulares
 
@@ -31943,8 +28701,6 @@ El esquema diferencial termina cuando se superan las condiciones del servicio qu
 La Comisión de Regulación de' Agua Potable y Saneamiento Básico podrá dar por terminado el esquema diferencial cuando encuentre que no se ha logrado el cumplimiento de las metas, indicadores, plazos, objetivos y acciones señalados en el plan de gestión.
 
 La Superintendencia de Servicios Públicos Domiciliarios en ejercicio de sus funciones de inspección, vigilancia y control cuando observe que no se están cumpliendo las obligaciones a cargo de ésta en la aplicación del esquema diferencial podrá imponer las sanciones y demás acciones para corregir la actuación del prestador.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.3.6 — 3.6
 
@@ -31962,13 +28718,9 @@ Condiciones de los esquemas diferenciales para los servicios de acueducto, alcan
 
 4. Condiciones diferenciales en los contratos de servicios públicos. Las personas prestadoras incorporarán en sus contratos de servicios públicos las condiciones de este esquema diferencial, conforme a lo establecido en la presente subsección, sin perjuicio de lo contenido en la regulación sobre contrato de servicios públicos y sus condiciones uniformes, en lo dispuesto en el artículo 128 de la Ley 142 de 1994 y en las demás disposiciones aplicables.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.3.7 — Contrato de servicios públicos para el esquema diferencial en áreas de prestación, con condiciones particulares
 
 La persona prestadora deberá adoptar un contrato de servicios públicos para el esquema diferencial en áreas de prestación, con condiciones particulares, en el cuál incluirá las condiciones diferenciales respectivas.
-
-ARTÍCULO
 
 ## art:2.3.7.2.2.3.8 — Planes de gestión en áreas de prestación, con condiciones particulares
 
@@ -31980,8 +28732,6 @@ La persona presta ora deberá establecer un plan de gestión en donde se definan
 
 PARÁGRAFO . Los municipios, distritos y departamentos en cumplimiento de sus obligaciones constitucionales y legales priorizarán el apoyo técnico y financiero para la estructuración e implementación de las acciones derivadas de los planes de gestión en áreas de prestación, con condiciones particulares.
 
-ARTÍCULO
-
 ## art:2.3.7.2.2.3.9 — Registro del esquema diferencial en el Sistema Único de Información (SU) I
 
 Una vez aceptada la aplicación del esquema diferencial, la persona prestadora deberá registrarlo en el Sistema Único de Información (SUI), en las condiciones y plazos que establezca la Superintendencia de Servicios Públicos Domiciliarios, para su correspondiente inspección, vigilancia y control.
@@ -31990,8 +28740,6 @@ SECCIÓN 3
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.7.2.3.1 — Acceso a subsidios para esquemas diferenciales
 
 Conforme a la normatividad vigente en materia de subsidios, los usuarios residenciales ubicados en un esquema diferencial podrán recibir subsidios de parte de la entidad territorial, para cada uno de los servicios de acueducto, alcantarillado o aseo, en el porcentaje correspondiente dé acuerdo al estrato al que pertenezcan.
@@ -31999,8 +28747,6 @@ Conforme a la normatividad vigente en materia de subsidios, los usuarios residen
 PARÁGRAFO 1. Para el esquema diferencial en áreas de difícil gestión, para efectos de la facturación y el otorgamiento de los subsidios por parte de la entidad territorial, los inmuebles residenciales se considerarán de estrato 1, mientras la entidad territorial de acuerdo a sus competencias legales asigne de manera provisional o definitiva el estrato correspondiente para el otorgamiento de subsidios.
 
 PARÁGRAFO 2. Los usuarios no residenciales estarán sujetos a la aplicación de la normatividad vigente sobre aportes solidarios.
-
-ARTÍCULO
 
 ## art:2.3.7.2.3.2 — Inspección, vigilancia y control a esquemas diferenciales
 
@@ -32702,8 +29448,6 @@ DEROGATORIA Y VIGENCIA
 
 VIGENCIA Y DEROGATORIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el artículo 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector Vivienda, Ciudad y Territorio que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -32718,8 +29462,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -32731,91 +29473,3 @@ Dado en Bogotá, D. C., a los 26 días del mes de mayo de 2015.
 JUAN MANUEL SANTOS CALDERÓN
 
 EL MINISTRO DE VIVIENDA, CIUDAD Y TERRITORIO
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

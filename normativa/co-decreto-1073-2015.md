@@ -7,12 +7,12 @@ ramas: [minero-energetico, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77887
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
-## art:1.1.1.1 — Ministerio de Minas y Energía
+## art:1.1.1.1 — 
 
-ARTÍCULO
+1.1.1.1. Ministerio de Minas y Energía.
 
 ## art:1.1.1.1.1 — 1.1
 
@@ -28,11 +28,9 @@ TÍTULO 1
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
+## art:1.2.1.1 — 
 
-## art:1.2.1.1 — Agencia Nacional de Hidrocarburos (ANH)
-
-ARTÍCULO
+1.2.1.1. Agencia Nacional de Hidrocarburos (ANH).
 
 ## art:1.2.1.1.1 — 1.1
 
@@ -40,11 +38,9 @@ Objetivo La Agencia Nacional de Hidrocarburos, ANH, tiene como objetivo administ
 
 (Decreto 4137 de 2011, art. 3)
 
-ARTÍCULO
+## art:1.2.1.1.3 — 
 
-## art:1.2.1.1.3 — Agencia Nacional de Minería (ANM)
-
-ARTÍCULO
+1.2.1.1.3. Agencia Nacional de Minería (ANM).
 
 ## art:1.2.1.1.3.1 — Objeto
 
@@ -52,11 +48,9 @@ El objeto de la Agencia Nacional de Minería, ANM, es administrar integralmente 
 
 (Decreto 4134 de 2011, art. 3)
 
-ARTÍCULO
+## art:1.2.1.1.4 — 
 
-## art:1.2.1.1.4 — Comisión de Regulación de Energía, Gas y Combustibles (CREG)
-
-ARTÍCULO
+1.2.1.1.4. Comisión de Regulación de Energía, Gas y Combustibles (CREG).
 
 ## art:1.2.1.1.3.1.1 — Objeto
 
@@ -64,11 +58,9 @@ La Comisión de Regulación de Energía y Gas, CREG, tiene por objeto regular lo
 
 (Decreto 1260 de 2013, art. 2)
 
-ARTÍCULO
+## art:1.2.1.1.5 — 
 
-## art:1.2.1.1.5 — Instituto de Planificación y Promoción de Soluciones Energéticas para las Zonas no Interconectadas (IPSE)
-
-ARTÍCULO
+1.2.1.1.5. Instituto de Planificación y Promoción de Soluciones Energéticas para las Zonas no Interconectadas (IPSE).
 
 ## art:1.2.1.1.5.1 — Objeto
 
@@ -76,11 +68,9 @@ El Instituto de Planificación y Promoción de Soluciones Energéticas para las 
 
 (Decreto 257 de 2004, art. 4)
 
-ARTÍCULO
+## art:1.2.1.1.6 — 
 
-## art:1.2.1.1.6 — Servicio Geológico Colombiano
-
-ARTÍCULO
+1.2.1.1.6. Servicio Geológico Colombiano.
 
 ## art:1.2.1.1.6.1 — Objeto
 
@@ -88,89 +78,65 @@ Como consecuencia del cambio de naturaleza, el Servicio Geológico Colombiano ti
 
 (Decreto 4131 de 2011, art. 3)
 
-ARTÍCULO
+## art:1.2.1.1.7 — 
 
-## art:1.2.1.1.7 — Unidad de Planeación Minero Energética (UPME)
-
-ARTÍCULO
+1.2.1.1.7. Unidad de Planeación Minero Energética (UPME).
 
 ## art:1.1.2 — 2.1
 
 Ecopetrol S.A.
 
-ARTÍCULO
-
 ## art:1.1.2.2.2 — Interconexión Eléctrica S.A E.S.P
 
 ? ISA S.A E.S.P.
 
-ARTÍCULO
+## art:1.1.2.2.3 — 
 
-## art:1.1.2.2.3 — Isagen S.A E.S.P
-
-ARTÍCULO
+1.1.2.2.3. Isagen S.A E.S.P.
 
 ## art:1.1.2.2.4 — Electrificadora del Huila S.A
 
 E.S.P - Electrohuila S.A. E.S.P.
 
-ARTÍCULO
-
 ## art:1.1.2.2.5 — Electrificadora del Caquetá S.A
 
 E.S.P - Electrocaquetá S.A. E.S.P.
-
-ARTÍCULO
 
 ## art:1.1.2.2.6 — Electrificadora del Meta S.A E.S.P - EMSA S.A
 
 ESP
 
-ARTÍCULO
-
 ## art:1.1.2.2.7 — Centrales Eléctricas del Cauca S.A
 
 E.S.P - Cedelca S.A ESP
-
-ARTÍCULO
 
 ## art:1.1.2.2.8 — Centrales Eléctricas de Nariño S.A E.S.P
 
 - Cedenar S.A E.S.P
 
-ARTÍCULO
+## art:1.1.2.2.9 — 
 
-## art:1.1.2.2.9 — Empresa Distribuidora del Pacífico S.A E.S.P - DISPAC S.A ESP
-
-ARTÍCULO
+1.1.2.2.9. Empresa Distribuidora del Pacífico S.A E.S.P - DISPAC S.A ESP.
 
 ## art:1.1.2.2.10 — Empresa Multipropósito Urrá S.A E.S.P
 
 - URRÁ S.A E.S.P.
 
-ARTÍCULO
-
 ## art:1.1.2.2.11 — Empresa de Energía del Archipiélago de San Andrés, Providencia y Santa Catalina S.A E.S.P
 
 - EEDAS S.A ESP
 
-ARTÍCULO
+## art:1.1.2.2.12 — 
 
-## art:1.1.2.2.12 — Generadora y Comercializadora de Energía del Caribe S.A E.S.P - Gecelca S.A E.S.P
-
-ARTÍCULO
+1.1.2.2.12. Generadora y Comercializadora de Energía del Caribe S.A E.S.P - Gecelca S.A E.S.P.
 
 ## art:1.1.2.2.13 — Gestión Energética S.A E.S.P
 
 - Gensa S.A ESP
 
-ARTÍCULO
-
 ## art:1.1.2.2.14 — Empresa de Energía del Amazonas S.A
 
 E.S.P. - EEASA ESP
-
-ARTÍCULO
 
 ## art:1.1.2.2.15 — Corporación Eléctrica de la Costa Atlántica, Corelca S.A E.S.P
 
@@ -188,13 +154,9 @@ TÍTULO 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad vigente expedida por el Gobierno Nacional mediante las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política al Presidente de la República para para la cumplida ejecución de las leyes.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de Aplicación
 
@@ -212,8 +174,6 @@ SECCIÓN 1
 
 EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS.
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1 — Definición de yacimientos no convencionales
 
 Para los efectos de la presente Sección se entenderá por yacimiento no convencional la formación rocosa con baja permeabilidad primaria a la que se le debe realizar estimulación para mejorar las condiciones de movilidad y recobro de hidrocarburos.
@@ -221,8 +181,6 @@ Para los efectos de la presente Sección se entenderá por yacimiento no convenc
 PARÁGRAFO . Los yacimientos no convencionales incluyen gas y petróleo en arenas y carbonatos apretados, gas metano asociado a mantos de carbón (CBM), gas y petróleo de lutitas (shale), hidratos de metano y arenas bituminosas.
 
 (Decreto 3004 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.2 — 1.2
 
@@ -232,15 +190,11 @@ PARÁGRAFO . Las normas que expida el Ministerio de Minas y Energía deberán se
 
 (Decreto 3004 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.3 — Notificaciones Organización Mundial del Comercio
 
 Para efectos de la expedición de la reglamentación de que trata el artículo precedente, el Ministerio de Minas y Energía deberá adelantar previamente las notificaciones correspondientes a la Organización Mundial del Comercio (OMC), en cumplimiento de lo establecido en el Acuerdo sobre Obstáculos Técnicos al Comercio (OTC).
 
 (Decreto 3004 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.4 — Acuerdos operacionales e intervención del Ministerio de Minas y Energía
 
@@ -248,23 +202,17 @@ El Ministerio de Minas y Energía, dentro del término de veinticuatro (24) mese
 
 (Decreto 3004 de 2013, art. 4, modificado por el Decreto 2638 art. 1).
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5 — Estándares y normas para la Exploración y Explotación de los Yacimientos convencionales continentales y costa afuera
 
 Las actividades de exploración y explotación de hidrocarburos en yacimientos convencionales continentales y costa afuera deberán observar los estándares y normas técnicas nacionales e internacionales y especialmente las recomendadas por el AGA, API, ASTM, NFPA, NTCICONTEC, RETIE o aquellas que las modifiquen o sustituyan.
 
 (Decreto 1616 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.6 — Otras disposiciones aplicables a la exploración y explotación de yacimientos convencionales continentales y costa afuera
 
 Las actividades de exploración y explotación de hidrocarburos en yacimientos convencionales continentales y costa afuera se encuentran sujetas a las disposiciones relativas a la protección de los recursos naturales, del medioambiente, de salubridad y de seguridad industrial, así como el Convenio 174 de la OIT y todos aquellos que los modifiquen.
 
 (Decreto 1616 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.7 — 1.7
 
@@ -274,15 +222,11 @@ PARÁGRAFO . Las normas que expida el Ministerio de Minas y Energía deberán se
 
 (Decreto 1616 de 2014, art.3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.8 — Notificaciones a la Organización Mundial del Comercio
 
 Para efectos de la expedición de la reglamentación de que trata el artículo precedente, el Ministerio de Minas y Energía deberá adelantar previamente las notificaciones correspondientes a la Organización Mundial del Comercio (OMC), en cumplimiento de lo establecido en el Acuerdo sobre Obstáculos Técnicos al Comercio (OTC)
 
 (Decreto 1616 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.9 — Usos del petróleo crudo y/o sus mezclas
 
@@ -326,17 +270,507 @@ SUBSECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-## art:2.2.1.1.1 — A.1.1
+## art:2.2.1.1.1a.1.1 — Objeto
 
-Objeto. La presente Sección tiene por objeto fijar los lineamientos para adelantar los Proyectos Piloto de Investigación Integral - PPII sobre Yacimientos No Convencionales - YNC de hidrocarburos con la utilización de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH.
+La presente Sección tiene por objeto fijar los lineamientos para adelantar los Proyectos Piloto de Investigación Integral - PPII sobre Yacimientos No Convencionales - YNC de hidrocarburos con la utilización de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.1.2 — Definiciones
+
+Para efectos de lo dispuesto en la presente Sección, se adoptarán las siguientes definiciones:
+
+- Proyectos Piloto de Investigación Integral - PPII: Son procesos experimentales, científicos y técnicos, de carácter temporal, que se desarrollan en un polígono específico, y que buscan: (i) recopilar información social, ambiental, técnica, operacional y de dimensionamiento de los Yacimientos No Convencionales - YNC que requieran el uso de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH para su extracción; (ii) generar conocimiento para el fortalecimiento institucional; promover la participación ciudadana, la transparencia y acceso a la información; y iii) evaluar los efectos de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, según las condiciones de diseño, vigilancia, monitoreo y control que se establezcan.
+
+- Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH: Técnica usada en la extracción de gas o petróleo en Yacimientos No Convencionales - YNC, como lutitas y carbonatos apretados de baja porosidad y permeabilidad, mediante la cual se inyecta en una o varias etapas, un fluido compuesto por agua, propante y aditivos a presiones controladas con el objetivo de generar canales que faciliten el flujo de los fluidos de la formación productora al pozo perforado horizontalmente. Esta técnica difiere de las técnicas utilizadas en los yacimientos convencionales en los que se utiliza el fracturamiento hidráulico y en los Yacimientos No Convencionales - YNC de gas metano asociado a los mantos de carbón y las arenas bituminosas.
+
+- Línea Base: Condiciones iniciales ambientales, sociales, económicas y de salud, previa a las intervenciones que se originen de los Proyectos Piloto de Investigación Integral ? PPII sobre un espacio determinado.
+
+- Líneas Base Generales: Son las líneas base que determinarán las entidades estatales en los términos del artículo 2.2.1.1.1A.2.8.
+
+- Líneas Base Locales: Son las líneas base que deberán establecer los Contratistas de los Proyectos Piloto de Investigación Integral - PPII para solicitar la licencia ambiental.
+
+- Tecnología de Mínimo Impacto - TMI: Es el conjunto de instrumentos, métodos y técnicas empleadas durante la ejecución de los Proyectos Piloto de Investigación Integral - PPII, de manera que minimice la afectación al medio ambiente y a la comunidad del área de influencia de los proyectos. La Tecnología de Mínimo Impacto -TMI deberá ser garantizada durante todas las fases de los Proyectos Piloto de Investigación Integral - PPII.
+
+- Yacimiento No Convencional - YNC: Son aquellos que se caracterizan por tener una baja permeabilidad primaria y que se les debe realizar estimulación para mejorar las condiciones de movilidad y recobro. Entre ellos se incluyen, gas y petróleo de lutitas, carbonatos apretados, gas metano asociado a los mantos de carbón, las arenas apretadas y arenas bituminosas.
+
+- Contratista de los Proyectos Piloto de Investigación Integral PPII: Será la empresa o las empresas, en caso de que decidan asociarse, que suscriban un mecanismo contractual con la Agencia Nacional de Hidrocarburos para el desarrollo de los Proyectos Piloto de Investigación Integral - PPII.
 
 (Adicionado por el Art. 1 del Decreto 328 de 2020)
 
-## art:2.2.1 — 1.1A.2.14
-
-Duración. Inicia con la terminación de las actividades de la aplicación de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, según la definición del Ministerio de Minas y Energía y finaliza con la publicación de los resultados de la evaluación.
+SUBSECCIÓN 2
 
 (Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+DESARROLLO DE LOS PROYECTOS PILOTO DE INVESTIGACIÓN INTEGRAL PAUTAS PARA LA IMPLEMENTACIÓN
+
+## art:2.2.1.1.1a.2.1 — Personas jurídicas que podrán desarrollar de los Proyectos Piloto de Investigación Integral -PPII
+
+Las personas jurídicas que deseen desarrollar los Proyectos Piloto de Investigación Integral - PPII deberán solicitarlo a la Agencia Nacional de Hidrocarburos, para lo cual deberán cumplir con los requisitos que dicha agencia establezca para este propósito, acorde con la ubicación geográfica que determine el Ministerio de Minas y Energía. La Agencia Nacional de Hidrocarburos determinará los mecanismos contractuales o las modificaciones a los mismos, según corresponda, para el desarrollo de los mencionados proyectos.
+
+PARÁGRAFO . Los polígonos en los cuales se desarrollarán los Proyectos Piloto de Investigación Integral - PPII se establecerán en el mecanismo contractual que suscriban los Contratistas de los Proyectos Piloto de Investigación Integral ? PPII y la Agencia Nacional de Hidrocarburos.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.2 — Requisitos técnicos
+
+El Ministerio de Minas y Energía, en el marco de sus competencias, señalará los requisitos técnicos para el desarrollo de los Proyectos Piloto de Investigación Integral -PPII, atendiendo a las normas internacionales para el desarrollo de hidrocarburos en Yacimientos No Convencionales - YNC a través de la técnica Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH. La perforación de pozos durante los Proyectos Piloto de Investigación Integral - PPII deberá llevarse a cabo con Tecnologías de Mínimo Impacto - TMI.
+
+PARÁGRAFO 1. Los requisitos técnicos determinados por el Ministerio de Minas y Energía deberán establecer las ubicaciones donde se podrán adelantar los Proyectos Piloto de Investigación Integral - PPII y el número de locaciones y pozos que se podrán desarrollar en cada uno de los Proyectos Piloto de Investigación Integral -PPII y lo referente a la Tecnología de Mínimo Impacto - TMI disponibles.
+
+PARÁGRAFO 2. Aquellos aspectos no regulados en virtud de las normas a las que se refiere esta Subsección, se regirán por la normatividad vigente y aplicable en materia técnica.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.3 — Requisitos ambientales
+
+Los Proyectos Piloto de Investigación Integral - PPll sobre Yacimientos No Convencionales - YNC de hidrocarburos con la utilización de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, estarán sujetos a la expedición de la licencia ambiental correspondiente, para lo cual el Ministerio de Ambiente y Desarrollo Sostenible, en el marco de sus competencias, expedirá los términos de referencia, sin perjuicio de la aplicación de los principios ambientales de que trata la Ley 99 de 1993.
+
+La Autoridad Nacional de Licencias Ambientales, en el marco de sus competencias, deberá evaluar las solicitudes de licencia ambiental y pronunciarse sobre su otorgamiento en los plazos definidos por la normativa vigente.
+
+PARÁGRAFO . Aquellos aspectos no regulados en virtud de las normas a las que se refiere esta Subsección, se regirán por la normatividad vigente y aplicable en materia ambiental.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.4 — Ajustes y fortalecimiento institucional
+
+Durante el desarrollo de los Proyectos Piloto de Investigación Integral - PPll, las entidades estatales realizarán un diagnóstico de su capacidad institucional en la gestión de los mismos e identificarán los ajustes institucionales que deban realizar para el desarrollo de Yacimientos No Convencionales - YNC a través de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH. A su vez, cada entidad relacionada con el desarrollo de los Proyectos Piloto de Investigación Integral - PPll, establecerá e implementará una línea específica de trabajo para el fortalecimiento institucional.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+ETAPAS DE LOS DE LOS PROYECTOS PILOTO DE INVESTIGACIÓN INTEGRAL
+
+ (Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.5 — Etapas de los Proyectos Piloto de Investigación Integral - PPll
+
+Los Proyectos Piloto de Investigación Integral - PPll se desarrollarán en 3 etapas: Etapa de Condiciones Previas, Etapa Concomitante y Etapa de Evaluación.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+ETAPA DE CONDICIONES PREVIAS
+
+ (Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.6 — Duración
+
+Esta etapa iniciará con la expedición de esta Sección y se extenderá hasta el otorgamiento de la licencia ambiental.
+
+PARÁGRAFO . El fin de esta etapa se determinará de manera individual para cada Proyecto Piloto de Investigación Integral - PPll, de acuerdo con el momento en que obtengan la licencia ambiental.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.7 — Objetivo de la Etapa
+
+El objetivo de esta etapa es diagnosticar condiciones en materia social, ambiental, técnica e institucional para el desarrollo de los Proyectos Piloto de Investigación Integral - PPll, previo a la perforación de los pozos.
+
+Durante esta etapa las empresas interesadas deberán adelantar los trámites para suscribir el mecanismo contractual con la Agencia Nacional de Hidrocarburos y obtener la licencia ambiental. Esta etapa incluye la expedición de los términos de referencia generales por parte del Ministerio de Ambiente y Desarrollo Sostenible.
+
+PARÁGRAFO 1. La elaboración de las Líneas Base Locales estarán a cargo de los Contratistas de los Proyectos Piloto de Investigación Integral - PPll, de conformidad con los términos de referencia que se establezcan por el Ministerio de Ambiente y Desarrollo Sostenible.
+
+PARÁGRAFO 2. En materia de salud, se deberán establecer las Líneas Base Generales por parte de las Secretarías de Salud de los municipios, o quien haga sus veces, en los que se desarrollen los Proyectos Piloto de Investigación Integral - PPll, en coordinación con el Ministerio de Salud y Protección Social y de acuerdo con la metodología que éste defina.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.8 — Determinación de Líneas Base Generales
+
+Para medir los posibles impactos de las actividades relacionadas con los Proyectos Piloto de Investigación Integral - PPll, se determinarán las Líneas Base Generales en materia ambiental, de sismicidad, de salud y social. El avance de estas líneas base se publicarán en el Centro de Transparencia cuando el primer Proyecto Piloto de Investigación Integral - PPll obtenga la licencia ambiental.
+
+Corresponde determinar las Líneas Base Generales a las entidades que se relacionan a continuación:
+
+a. Línea Base Ambiental
+
+- La línea base de aguas superficiales será la que determine el Instituto de Hidrología, Meteorología y Estudios Ambientales.
+
+- La línea base de aguas subterráneas será la que determine el Instituto de Hidrología, Meteorología y Estudios Ambientales, con base en la información hidrogeológica que suministre el Servicio Geológico Colombiano.
+
+- La línea base de ecosistemas y biodiversidad será la que determine el Instituto Alexander Van Humboldt y el Instituto de Hidrología, Meteorología y Estudios Ambientales.
+
+b. Línea Base de Salud
+
+- La línea base de salud se determinará a nivel municipal y será la que determine la Secretaría Municipal respectiva, según los lineamientos que establezca el Ministerio de Salud y Protección Social y en coordinación con éste.
+
+c. Línea Base de Sismicidad
+
+La línea base de sismicidad será la que determine el Servicio Geológico Colombiano.
+
+d. Línea Base Social
+
+La línea base social será la que determine el Ministerio del Interior, en coordinación con el Ministerio de Minas y Energía y la Agencia Nacional de Hidrocarburos.
+
+PARÁGRAFO . Cada entidad deberá determinar el alcance de la Línea Base General, en el acto administrativo que emita en desarrollo del artículo 2.2.1.1.1A.2.9.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.9 — Definición de Variables a monitorear
+
+Las variables a monitorear serán definidas durante la Etapa de Condiciones Previas por las siguientes entidades estatales, en el marco de sus competencias, y sin perjuicio de las funciones relacionadas y el monitoreo que debe realizar la Autoridad Nacional de Licencias Ambientales en el marco de la licencia ambiental:
+
+ a. El Servicio Geológico Colombiano.
+
+ b. Instituto Alexander Von Humboldt.
+
+ c. El Instituto de Hidrología, Meteorología y Estudios Ambientales.
+
+ d. El Ministerio de Minas y Energía.
+
+ f. El Ministerio de Salud y Protección Social.
+
+PARÁGRAFO . Las entidades relacionadas en el presente artículo deberán establecer la forma y periodicidad en que se hará dicho monitoreo.
+
+## art:2.2.1.1.1a.2.10 — Creación de las Mesas Territoriales de Diálogo y Seguimiento
+
+Durante esta etapa se conformará para cada uno de los Proyectos Piloto de Investigación Integral - PPll una mesa de las que trata el artículo 2.2.1.1 .1A.4.3. como apoyo a la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+ETAPA CONCOMITANTE
+
+ (Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.11 — Duración
+
+Esta etapa iniciará desde el otorgamiento de la licencia ambiental para los Proyectos Piloto de Investigación Integral - PPll y se extenderá hasta la terminación de las actividades de la aplicación de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, según la definición del Ministerio de Minas y Energía.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.12 — Objetivo de la etapa
+
+Desarrollar las actividades de perforación, completamiento, fracturación, estimulación, y dimensionamiento del yacimiento; y simultáneamente, revisar, gestionar y monitorear los aspectos técnicos, ambientales, de salud, sociales e institucionales.
+
+De la misma manera, durante esta etapa se recolectará información y conocimiento para la evaluación; en particular, incluye el control y seguimiento ambiental, efectuado por parte de la Autoridad Nacional de Licencias Ambientales, lo cual se constituye como insumo para la Etapa de Evaluación.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.13 — Monitoreo
+
+Las entidades estatales a las que se refiere el artículo 2.2.1.1.1A.2.9. deberán realizar el monitoreo durante la Etapa Concomitante en los términos que se establezcan en los actos administrativos que éstas expidan para el efecto y deberán cumplir con el flujo de información dispuesto en el artículo 2.2.1.1.1 A.3.1.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+ETAPA DE EVALUACIÓN
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.14 — Duración
+
+Inicia con la terminación de las actividades de la aplicación de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, según la definición del Ministerio de Minas y Energía y finaliza con la publicación de los resultados de la evaluación.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.15 — Objetivo de la etapa
+
+Evaluar, (i) la información generada y las necesidades de fortalecimiento institucional que resulte durante la ejecución de los Proyectos Piloto de Investigación Integral - PPll; y, (ii) los resultados de los Proyectos Piloto de Investigación Integral - PPll, con el fin de determinar, desde una perspectiva general, si se cumplen las condiciones que permitan proceder con la exploración comercial en Yacimientos No Convencionales - YNC mediante la técnica Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH. Así mismo, en esta etapa se publicarán los resultados de la evaluación elaborada por el Comité Evaluador.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+PARÁGRAFO 1. En esta etapa el Comité Evaluador tendrá en cuenta el control y seguimiento de la licencia ambiental realizado por la Autoridad Nacional de Licencias Ambientales y el seguimiento que efectúa la Agencia Nacional de Hidrocarburos.
+
+PARÁGRAFO 2. El Ministerio de Minas y Energía establecerá: (i) el término durante el cual deberá adelantarse el dimensionamiento del yacimiento para proceder a la evaluación; y (ii) la muestra de los Proyectos Pilotos de Investigación Integral - PPll con la cual deberá llevarse a cabo la evaluación.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.16 — Conformación del Comité Evaluador
+
+El Comité Evaluador estará conformado por:
+
+ a. El Ministro de Hacienda y Crédito Público o su delegado.
+
+ b. El Ministro de Salud y Protección Social o su delegado.
+
+ c. El Ministro de Minas y Energía o su delegado.
+
+ d. El Ministro de Ambiente y Desarrollo Sostenible o su delegado.
+
+ e. Un representante experto en temas ambientales vinculado a una universidad acreditada.
+
+ f. Un representante experto en temas de hidrocarburos vinculado a una universidad acreditada o a un cuerpo técnico consultivo del Gobierno nacional.
+
+ g. Un representante de las asociaciones, corporaciones y organizaciones nacionales de la sociedad civil.
+
+PARÁGRAFO 1. Los miembros del Comité a los que se refieren los literales e y f serán designados por la comunidad académica. El miembro al que se refiere el literal g será designado por las asociaciones, corporaciones y organizaciones nacionales legalmente constituidas. El reglamento para su elección y los perfiles de los miembros a elegir será establecido por la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+PARÁGRAFO 2. Los miembros a los que se refiere los literales e, f y g deberán elegirse máximo dentro de los 45 días calendario siguientes de la aprobación del reglamento para su elección por parte de la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+PARÁGRAFO 3. El Comité Evaluador podrá sesionar con el resto de sus miembros en caso que no sean elegidos dentro del plazo establecido en el Parágrafo Segundo anterior los miembros de los que tratan los literales e, f y g.
+
+PARÁGRAFO 4. El Comité Evaluador podrá invitar con voz, pero sin voto, a los expertos que hayan participado de la Comisión Interdisciplinaria Independiente a que asistan a sus diferentes sesiones.
+
+PARÁGRAFO 5. La Secretaria Técnica del Comité Evaluador estará a cargo del Ministerio de Minas y Energía.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1 — A.2.17
+
+Funciones del Comité Evaluador. El Comité Evaluador tendrá las siguientes funciones:
+
+ a. Analizar la información que le provean el Instituto de Hidrología, Meteorología y Estudios Ambientales, el Servicio Geológico Colombiano, el Instituto Alexander Van Humboldt, el Ministerio de Salud y Protección Social, la Agencia Nacional de Hidrocarburos, la Autoridad Nacional de Licencias Ambientales y la Comisión Intersectorial de Acompañamiento Técnico y Científico respecto al desarrollo de cada uno de los Proyectos Piloto de Investigación Integral - PPll.
+
+ b. Recomendar las acciones que se deberán adelantar por parte de todos los actores relacionados con la ejecución de los Proyectos Piloto de Investigación Integral - PPll, en caso que se decida proseguir con la exploración y explotación, de acuerdo con el resultado de la evaluación.
+
+ c. Definir, si los Proyectos Piloto de Investigación Integral - PPll, individualmente considerados, cumplieron con los requisitos y las condiciones establecidas por el Comité Evaluador, con el fin de recomendar el tratamiento que debe dárseles después de la evaluación, sin perjuicio de las competencias de la Agencia Nacional de Hidrocarburos y de la Autoridad Nacional de Licencias Ambientales.
+
+ d. Llevar cabo la evaluación y un análisis de los riesgos de la aplicación de la técnica Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH y su plan de manejo de acuerdo con la información recibida por la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+ e. Expedir y publicar en el Centro de Transparencia su reglamento en un plazo máximo de un mes después de que finalice el término de 45 días fijado en el Parágrafo Segundo del artículo 2.2.1.1.1A.2.16, sin perjuicio de que se hayan elegido o no los miembros a los que se refieren los literales e, f y g de dicho artículo. El reglamento deberá establecer los criterios a partir de los cuales se realizará la evaluación en relación con el desarrollo del Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH y el término para efectuar dicha evaluación.
+
+ f. Recibir en sesión plenaria a los delegados que designe cada uno de las Mesas Territoriales de Diálogo y Seguimiento, quienes podrán rendir un informe sobre el desarrollo de los Proyectos Piloto de Investigación Integral - PPll en cada una de las áreas de influencia.
+
+ g. Conformar los grupos interdisciplinarios e interinstitucionales que se requieran para apoyar el cumplimiento de sus funciones.
+
+PARÁGRAFO 1. El Comité Evaluador deberá conformarse 45 días después de la aprobación del reglamento para la elección por parte de la Comisión Intersectorial de Acompañamiento Técnico y Científico, de los miembros del Comité Evaluador en los términos del artículo 2.2.1.1.1A.2.16. de la presente Sección.
+
+PARÁGRAFO 2. Los criterios técnicos y ambientales que se tendrán en cuenta para la evaluación integral de los Proyectos Piloto de Investigación Integral - PPll sobre los Yacimientos No Convencionales - YNC de hidrocarburos con la utilización de la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, serán objetivos, medibles y verificables.
+
+Sin perjuicio de la aplicación de los principios ambientales de que trata la Ley 99 de 1993, dichos criterios se enfocarán en los siguientes aspectos : (i) recurso hídrico superficial, (ii) recurso hídrico subterráneo , (iii) ecosistemas y biodiversidad, y, (iv) posibles impactos que puedan generarse a partir de sismicidad inducidas por la actividad y que tengan consecuencias más allá de los lineamientos permitidos en el marco de las reglamentaciones expedidas por el Serví } Geológico Colombiano.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.2.18 — Condición de los Proyectos Piloto de Investigación Integral
+
+Los Proyectos Piloto de Investigación Integral PPll mantendrán tal condición en los términos que determine la Agencia Nacional de Hidrocarburos, mientras que las autoridades competentes adoptan las determinaciones necesarias en relación con éstos.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+SUBSECCIÓN 3
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020) 
+
+TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA
+
+## art:2.2.1.1.1a.3.1 — Transparencia y acceso a la información
+
+Durante todas las etapas de los Proyectos Piloto de Investigación Integral - PPll, se deberá asegurar la transparencia y el debido acceso a la información pública, en cumplimiento de la Ley 1712 de 2014, así:
+
+ a. Etapa de Condiciones Previas: divulgar, a través de la página web de cada entidad competente y en el Centro de Transparencia del que trata el artículo 2.2.1.1.1A.3.2, la información relacionada con las Líneas base y demás actividades de dicha etapa.
+
+ b. Etapa Concomitante: cumplir con el siguiente flujo de información, con el fin de adelantar el seguimiento y monitoreo de los Proyectos Piloto de Investigación Integral - PPll:
+
+1. Los Contratistas de los Proyectos Piloto de Investigación Integral - PPll deberán enviar la información sobre el desarrollo de los Proyectos Piloto de Investigación Integral - PPll a cada una de las entidades competentes, con copia digital y reporte a la secretaría técnica de los Subcomités Intersectoriales Técnicos y Científicos que se desarrollan en el artículo 2.2.1.1.1A.4.4. que corresponda y al Centro de Transparencia, de acuerdo con la periodicidad y requisitos que se establezcan en el reglamento mencionado en el artículo 2.2.1.1.1A.4.1.
+
+2. Las entidades competentes deberán enviar los informes de monitoreo a la secretaría del Subcomité Intersectorial Técnico y Científico que corresponda y al Centro de Transparencia, de acuerdo con la periodicidad y requisitos que se establezcan en el reglamento mencionado en el artículo 2.2.1.1.1A.4.1
+
+3. Cada Mesa Territorial de Diálogo y Seguimiento, de las que trata el artículo 2.2.1.1.1A.4.3. podrá emitir informes de seguimiento a los Subcomités Intersectoriales Técnicos y Científicos, los cuales deberán ser publicados en el Centro de Transparencia.
+
+4. Los Subcomités Intersectoriales Técnicos y Científicos deberán analizar y reportar la información a la que se refieren los numerales 1 y 2 del presente artículo a la Comisión Intersectorial de Acompañamiento Técnico y Científico, de la que trata el artículo 2.2.1.1.1 A.4.1.
+
+5. La Comisión Intersectorial de Acompañamiento Técnico y Científico deberá generar y dar a conocer informes semestrales con criterios pedagógicos y de lenguaje claro sobre el desarrollo de los Proyectos Piloto de Investigación Integral - PPll, de acuerdo con lo que se establezca en el reglamento. Para el efecto, deberá cargarlos en el Centro de Transparencia, y darlos a conocer a las comunidades que se encuentren dentro del área de influencia de los Proyectos Piloto de Investigación Integral - PPll, a través de medios idóneos.
+
+6. Las entidades competentes y los Subcomités Intersectoriales Técnicos y Científicos, deberán mantener informada a la Comisión Intersectorial de Acompañamiento Técnico y Científico sobre cualquier alerta o evento extraordinario que afecte el normal desarrollo de los Proyectos Piloto de Investigación Integral - PPll. Así mismo, dicha comisión podrá solicitar la información que considere necesaria para el desarrollo de sus funciones.
+
+ c. Etapa de Evaluación: el Comité Evaluador deberá publicar los resultados de la evaluación en el Centro de Transparencia.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.3.2 — Centro de Transparencia
+
+La información relacionada con el desarrollo de los Proyectos Piloto de Investigación Integral - PPll se centralizará y divulgará a través de un Centro de Transparencia para generar un canal de comunicación con la ciudadanía. El Centro de Transparencia será administrado y operado por el Ministerio de Minas y Energía o el tercero que éste disponga, quien habilitará una página web para el efecto. La información allí contenida deberá ser de fácil acceso y estar disponible al público en general.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.3.3 — Programa de Apropiación Social del Conocimiento Científico
+
+El Subcomité Intersectorial Técnico y Científico - Social y de Transparencia diseñará y coordinará un programa de pedagogía dirigido a las comunidades y autoridades públicas en las áreas de influencia de los Proyectos Piloto de Investigación Integral - PPll que contemplará, en lenguaje claro y con las metodologías apropiadas, contenidos referidos a:
+
+i) La industria de los hidrocarburos; ii) la técnica Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH y sus posibles riesgos ambientales y a la salud humana y los mecanismos de mitigación correspondientes; iii) la geología, la biodiversidad y el sistema hidrológico de las áreas de influencia de los Proyectos Piloto de Investigación Integral - PPll; y iv) la gestión social del riesgo.
+
+PARÁGRAFO . Con el fin de aprovechar la información obtenida durante el desarrollo de los Proyectos Piloto de Investigación Integral - PPll , la Comisión Intersectorial de Acompañamiento Técnico y Científico, directamente o a través de las entidades que la componen, podrá prestar apoyo técnico para la estructuración de proyectos de ciencia, tecnología e innovación que sean presentados al Fondo de Ciencia, Tecnología e Innovación del Sistema General de Regalías por las entidades territoriales de las áreas de influencia.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.3.4 — Acompañamiento Territorial Permanente
+
+Para la ejecución de los Proyectos Piloto de Investigación Integral - PPll, el Subcomité Intersectorial Técnico y Científico - Social y de Transparencia establecerá un plan de acompañamiento territorial permanente a todo el proceso de ejecución de los Proyectos Piloto de Investigación Integral - PPll, para coordinar los espacios de participación y diálogo social con las Mesas Territoriales de Diálogo y Seguimiento.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.3.5 — Diálogos territoriales
+
+El diálogo social entre los Contratistas de los Proyectos Piloto de Investigación Integral - PPll, las comunidades y el Estado será transversal a la ejecución de los Proyectos Piloto de Investigación Integral - PPll. Se convocarán diálogos territoriales en 3 momentos específicos con la participación amplia de las comunidades en las zonas de influencia, las autoridades locales y las empresas operadoras, convocados y liderados por el Subcomité Intersectorial Técnico y Científico - Social y de Transparencia, atendiendo a las condiciones geográficas y de conectividad territorial.
+
+ 1. Primer diálogo territorial: tendrá lugar en la Etapa de Condiciones Previas, una vez se haya celebrado el mecanismo contractual entre los Contratistas de los Proyectos Piloto de Investigación Integral - PPll y la Agencia Nacional de Hidrocarburos y antes de iniciar el proceso de licenciamiento ambiental.
+
+ 2. Segundo diálogo territorial: tendrá lugar al inicio de la Etapa Concomitante, en el que se presentan los resultados del Estudio de Impacto Ambiental y el Plan de Manejo Ambiental.
+
+ 3. Tercer diálogo territorial: tendrá lugar al finalizar la Etapa de Evaluación y permitirá hacer una rendición de cuentas territorial de todos los actores involucrados en la ejecución de los Proyectos Piloto de Investigación Integral - PPll.
+
+PARÁGRAFO 1. El Subcomité Intersectorial Técnico y Científico - Social y de Transparencia, establecerá la metodología para el desarrollo de los Diálogos Territoriales y, en el caso que corresponda, se acordará con las Mesas Territoriales de Diálogo y Seguimiento y con los Contratistas de los Proyectos Piloto de Investigación Integral - PPll.
+
+PARÁGRAFO 2. El Subcomité Intersectorial Técnico y Científico - Social y de Transparencia invitará al Ministerio Público a participar en los diálogos territoriales y le solicitará que acompañe su desarrollo y seguimiento a los acuerdos o compromisos a los que se lleguen.
+
+PARÁGRAFO 3. El Ministerio del Interior, en coordinación con el Ministerio de Minas y Energía, desarrollará y regulará los lineamientos en materia de diálogo social y relacionamiento territorial, y regulará los demás aspectos sociales que se consideren necesarios para el desarrollo de los Proyectos Piloto de Investigación Integral - PPll, en aplicación de la Ley 1757 de 2015 y demás normas que la modifiquen, complementen o deroguen.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.4.1 — Objeto y conformación de la Comisión Intersectorial de Acompañamiento Técnico y Científico
+
+La Comisión Intersectorial de Acompañamiento Técnico y Científico se encargará de orientar y coordinar el seguimiento a la ejecución de los Proyectos Piloto de Investigación Integral - PPll, con base en la información y alertas que se reciban de los Subcomités Intersectoriales Técnicos y Científicos.
+
+La Comisión Intersectorial de Acompañamiento Técnico y Científico estará conformada por: (i) el Viceministro de Energía; (ii) el Viceministro de Políticas y Normalización Ambiental; (iii) el Viceministro de Salud Pública y Prestación de Servicios; (iv) el Viceministro de Conocimiento, Innovación y Productividad; (v) el Viceministro para la Participación e Igualdad de Derechos; (vi) el Viceministro General del Ministerio de Hacienda y Crédito Público; (vii) el Presidente de la Agencia Nacional de Hidrocarburos; (viii) el Director del Servicio Geológico Colombiano; (ix) el Director de la Autoridad Nacional de Licencias Ambientales; (x) el Director del Instituto de Hidrología, Meteorología y Estudios Ambientales; (xi) el Director del Instituto Alexander Von Humboldt; y, la (xii) Secretaría de Transparencia de la Presidencia de la República, o sus delegados.
+
+PARÁGRAFO 1. Serán invitados permanentes de la Comisión Intersectorial de Acompañamiento Técnico y Científico dos miembros de la comunidad académica pertenecientes a universidades acreditadas. La elección de dichos invitados permanentes se establecerá en el reglamento que expida la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+PARÁGRAFO 2. La Secretaría Técnica la ejercerá el Ministerio de Minas y Energía y citará a su primera reunión dentro de los 30 días siguientes a la expedición de esta Sección. En dicha sesión se deberá expedir el reglamento de la Comisión intersectorial de Acompañamiento Técnico y Científico y de los Subcomités intersectoriales Técnicos y Científicos.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.4.2 — Funciones de la Comisión Intersectorial de Acompañamiento Técnico y Científico
+
+La Comisión Intersectorial de Acompañamiento Técnico y Científico tendrá las siguientes funciones:
+
+ a. Orientar la integración, análisis y divulgación de la información generada durante la ejecución de los Proyectos Piloto de Investigación Integral - PPll, teniendo en cuenta los informes semestrales de los Subcomités Intersectoriales Técnicos y Científicos, y las alertas recibidas en la ejecución de los proyectos.
+
+ b. Impartir los lineamientos para la elaboración de los informes que deben presentar los Subcomités Intersectoriales Técnicos y Científicos sobre las actividades de seguimiento y monitoreo.
+
+ c. Coordinar la recepción y análisis de los informes que emitan los Mesas Territoriales de Diálogo y Seguimiento a los Proyectos Piloto de Investigación Integral - PPll.
+
+ d. Coordinar la preparación y remisión de los informes que solicite el Comité Evaluador.
+
+ e. Hacer seguimiento al cronograma para el desarrollo de los Proyectos Piloto de Investigación Integral - PPll.
+
+ f. Recomendar a la entidad competente la suspensión de las actividades cuando se verifica alguna de las causales establecidas en la normatividad vigente, sin perjuicio de las competencias asignadas a cada una de las entidades.
+
+ g. Recomendar a la entidad competente, en caso que se haya decretado la suspensión de actividades, que levante la suspensión si se considera que los motivos que dieron lugar a la misma ya cesaron.
+
+ h. Elaborar un informe final que compile la información obtenida y el conocimiento generado con la implementación de los Proyectos Piloto de Investigación Integral - PPll y remitirlo al Comité Evaluador.
+
+ i. Reunirse trimestralmente de manera ordinaria y de manera extraordinaria cuando las condiciones así lo aconsejen.
+
+ j. Solicitar a las entidades competentes la información que considere necesaria para el desarrollo de sus funciones.
+
+ k. Orientar el cumplimiento de las funciones de las Mesas Territoriales de Diálogo y Seguimiento y de los Subcomités Intersectoriales Técnicos y Científicos de los Proyectos Piloto de Investigación Integral - PPll.
+
+ l. Emitir su reglamento de funcionamiento.
+
+ m. Las demás funciones que le sean propias a su naturaleza.
+
+PARÁGRAFO 1. La Comisión Intersectorial de Acompañamiento Técnico y Científico podrá invitar a sus sesiones a autoridades del orden nacional y territorial, a los entes de control, la comunidad científica, a las organizaciones de la sociedad civil, a los Contratistas de los Proyectos Piloto de Investigación Integral - PPll, y a particulares que puedan aportar al cumplimiento de las funciones de. la comisión, de acuerdo con su competencia, conocimiento y el asunto a tratar en la sesión respectiva.
+
+PARÁGRAFO 2. La Comisión Intersectorial de Acompañamiento Técnico y Científico conformará las Mesas Territoriales de Diálogo y Seguimiento y los Subcomités Intersectoriales Técnicos y Científicos a los Proyectos Piloto de Investigación Integral - PPll, de conformidad con lo que se establece en los siguientes artículos.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.4.3 — Mesas Territoriales de Diálogo y Seguimiento
+
+Son las instancias de apoyo a la Comisión Intersectorial de Acompañamiento Técnico y Científico, cuyo objeto es el permanente seguimiento y monitoreo a la ejecución de los Proyectos Piloto de Investigación Integral - PPll, conformadas por los actores sociales e institucionales que viven y desarrollan actividades en las áreas de influencia.
+
+Estas mesas, se constituirán e iniciarán su funcionamiento en la Etapa de Condiciones Previas. Serán, a su vez, un espacio de transmisión de información y fortalecimiento de capacidades comunitarias.
+
+La Comisión Intersectorial de Acompañamiento Técnico y Científico determinará cómo se integrarán estas mesas.
+
+Las Mesas Territoriales de Diálogo y Seguimiento tendrán como funciones principales:
+
+ a. Hacer seguimiento permanente a la ejecución de los Proyectos Piloto de Investigación Integral - PPll dentro del marco de su objeto.
+
+ b. Servir de espacio de interlocución periódica entre los diferentes actores sociales e institucionales que viven y desarrollan actividades en el área de influencia de cada uno de los Proyectos Piloto de Investigación Integral - PPll.
+
+ c. Servir de espacio de diálogo para adelantar los ejercicios de planeación y priorización participativa de las inversiones que adelantarán las empresas operadoras en las zonas de influencia de los proyectos.
+
+ d. Remitir a la Comisión Intersectorial de Acompañamiento Técnico y Científico alertas sobre la posible materialización de riesgos y afectaciones al medio ambiente o la salud humana durante la ejecución de los Proyectos Piloto de Investigación Integral - PPll.
+
+ e. Elaborar un Plan de Observación Ambiental y Social Participativo.
+
+ f. Las demás que determine la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+PARÁGRAFO . La conformación de las Mesas Territoriales de Diálogo y Seguimiento a los Proyectos Piloto de Investigación Integral - PPll no limita otras instancias o mecanismos de participación ciudadana establecidos en la Constitución Política y en la ley y será un mecanismo que operará únicamente para el desarrollo de los Proyectos Piloto de Investigación Integral - PPll.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.4.4 — Conformación de los Subcomités Intersectoriales Técnicos y Científicos
+
+Se conformarán los Subcomités Intersectoriales Técnicos y Científicos como instancias técnicas de la Comisión Intersectorial de Acompañamiento Técnico y Científico, según se enumeran a continuación, junto con sus miembros:
+
+Salud:
+
+1. Un delegado del Ministro de Salud y Protección Social, quien lo liderará.
+
+2. Un delegado del Ministro de Minas y Energía.
+
+3. El Director del Departamento Nacional de Planeación o su delegado.
+
+4. El Director del Departamento Administrativo Nacional de Estadística o su delegado.
+
+5. El Director del Instituto Nacional de Salud o su delegado.
+
+Sismicidad, Hidrogeología y Normatividad Técnica:
+
+1. Un delegado del Ministro de Minas y Energía, quien lo liderará.
+
+2. El Director del Servicio Geológico Colombiano o su delegado.
+
+3. Un delegado del Ministro de Ambiente y Desarrollo Sostenible.
+
+4. El Presidente de la Agencia Nacional de Hidrocarburos, o su delegado.
+
+5. El Director del Instituto de Hidrología, Meteorología y Estudios Ambientales o su delegado.
+
+6. El Director de la Autoridad Nacional de Licencias Ambientales o su delegado.
+
+Aguas Superficiales, Ecosistemas y Biodiversidad:
+
+1. Un delegado del Ministro de Ambiente y Desarrollo Sostenible, quien lo liderará.
+
+2. Un delegado del Ministro de Minas y Energía.
+
+3. Un delegado del Ministro de Salud y Protección Social.
+
+4. El Director de la Autoridad Nacional de Licencias Ambientales o su delegado.
+
+5. El Presidente de la Agencia Nacional de Hidrocarburos o su delegado.
+
+6. El Director del Instituto Alexander Von Humboldt o su delegado.
+
+7. El Director del Servicio Geológico Colombiano o su delegado.
+
+Social y de Transparencia:
+
+1. Un delegado del Ministro de Interior, quien lo liderará.
+
+2. El Director del Departamento Administrativo de la Presidencia de la República o su delegado.
+
+3. Un delegado del Ministro de Ambiente y Desarrollo Sostenible.
+
+4. Un delegado del Ministro de Minas y Energía.
+
+5. El Presidente de la Agencia Nacional de Hidrocarburos o su delegado.
+
+6. El Director de la Autoridad Nacional de Licencias Ambientales o su delegado.
+
+PARÁGRAFO . Los Subcomités Intersectoriales Técnicos y Científicos invitarán a los organismos de control para que hagan parte de sus sesiones. Adicionalmente, podrán invitar a las entidades públicas, privadas, educativas, científicas, gremios o asociaciones, entre otras, que puedan ser de ayuda en el cumplimiento de sus funciones.
+
+Cada subcomité deberá designar un invitado permanente vinculado a una universidad acreditada. En el caso del Subcomité Intersectorial Técnico y Científico - Social y de Transparencia, y sin perjuicio de los invitados que sean llamados a participar en el mismo, será un invitado permanente el Departamento Administrativo Nacional de Estadística.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.4.5 — Funciones de los Subcomités Intersectoriales Técnicos y Científicos
+
+Los Subcomités Intersectoriales Técnicos y Científicos tendrán las siguientes funciones:
+
+ a. Hacer seguimiento a las variables de su competencia según el tema asignado a cada Subcomités Intersectoriales Técnicos y Científicos de acuerdo con los artículos 2.2.1.1.1A.4.4. y 2.2.1.1.1 A.2 .9.
+
+ b. Entregar información trimestral a la Comisión Intersectorial de Acompañamiento Técnico y Científico, incluyendo las alertas que se hayan levantado durante dicho periodo, sobre los asuntos de su competencia en el desarrollo de los Proyectos Piloto de Investigación Integral - PPll y publicarlos en el Centro de Transparencia del que trata el artículo 2.2.1.1 .1A.3.2. para información de la ciudadanía.
+
+ c. Advertir a la Comisión Intersectorial de Acompañamiento Técnico y Científico de la ocurrencia de una causal de la suspensión de las actividades, según las competencias de cada Subcomité Intersectoriales Técnicos y Científicos y en atención a las variables establecidas en el artículo 2.2.1. 1.1A.2.9. del presente decreto.
+
+ d. Requerir, recibir, compilar y analizar la información enviada por las entidades competentes y los Contratistas de los Proyectos Piloto de Investigación Integral - PPll.
+
+ e. Definir y poner en marcha una estrategia de pedagogía y apropiación social del conocimiento científico dirigida a las comunidades en las áreas de influencia de los Proyectos Piloto de Investigación Integral - PPll, según los temas objeto de su competencia y monitoreo.
+
+ f. En el caso del Subcomité Intersectorial Técnico y Científico - Social y de Transparencia, adoptar y poner en marcha una estrategia de acompañamiento institucional territorial a los diferentes espacios de participación ciudadana, diálogo social y monitoreo ambiental comunitario que se ejecuten y acompañar el desarrollo de los planes de trabajo de las Mesas Territoriales de Diálogo y Seguimiento.
+
+ g. El Subcomité Intersectorial Técnico y Científico - Social y de Transparencia establecerá, en un plazo máximo de 3 meses a la expedición de esta Sección, la metodología para la conformación y el funcionamiento de los Mesas Territoriales de Diálogo y Seguimiento.
+
+ h. Las demás que determine la Comisión Intersectorial de Acompañamiento Técnico y Científico.
+
+PARÁGRAFO 1. Los líderes de cada Subcomité Intersectorial Técnico y Científico deberán designar una dependencia de su entidad, para que ejerza la secretaría técnica del mismo.
+
+PARÁGRAFO 2. Todos los Subcomités Intersectoriales Técnicos y Científicos tendrán que reunirse cada mes de manera ordinaria, y de manera extraordinaria, cuando la situación así lo amerite, lo cual tendrá que incluirse en el reglamento que emita la Comisión Intersectorial de Acompañamiento Técnico y Científico, en los términos del artículo 2.2.1.1.1A.4.1.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+SUBSECCIÓN 1.1
+
+VALORACIÓN Y CONTABILIZACIÓN DE LAS RESERVAS DE HIDROCARBUROS.
 
 ## art:2.2.1.1.1.1.1.1 — Definiciones
 
@@ -358,15 +792,11 @@ WTI: Mezcla de crudos producidos en los estados de Texas, Oklahoma y Nuevo Méxi
 
 (Decreto 727 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.1.2 — Registro de las reservas en el balance de la Nación
 
 El valor de las reservas probadas de hidrocarburos de propiedad de la Nación deberá revelarse en el Balance General de la Nación, a través del Ministerio de Minas y Energía, tomando como método de valoración el definido en el artículo siguiente.
 
 (Decreto 727 de 2007, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.1.3 — Método de valoración de las reservas de hidrocarburos de propiedad de la Nación
 
@@ -388,8 +818,6 @@ PARÁGRAFO TRANSITORIO N&UACUTE;MERO 2. Para el año 2008, ECOPETROL S.A o quien
 
 (Decreto 727 de 2007, art. 3, parágrafo transitorio número 2 adicionado por el Decreto 2767 de 2008, art 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.1.4 — Envío de información al Ministerio de Minas y Energía
 
 Envío de información al Ministerio de Minas y Energía. A partir del año 2009, la Agencia Nacional de Hidrocarburos -ANH- deberá enviar al Ministerio de Minas y Energía, dentro de los ciento veinte (120) días calendario posteriores al inicio de cada año, la información correspondiente a los volúmenes de las reservas probadas de hidrocarburos de propiedad de la Nación y el pronóstico de producción por cada campo, con el fin de que el Ministerio de Minas y Energía calcule y registre el valor de las reservas probadas de hidrocarburos de propiedad de la Nación.
@@ -400,15 +828,11 @@ PARÁGRAFO . En el evento que la función de control de la producción de hidroc
 
 (Decreto 727 de 2007, art. 4, inciso primero modificado por el Decreto 2767 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.1.5 — Registro de los derechos de explotación o producción de hidrocarburos de ECOPETROL S.A.ECOPETROL S.A
 
 o quien haga sus veces registrará el valor de los derechos de explotación o producción de hidrocarburos de los que dicha empresa era titular a la fecha de entrada en vigencia del Decreto 1760 de 2003, de las áreas correspondientes a contratos que ella hubiere celebrado o celebre con posterioridad a esta última fecha y los derechos de explotación y producción de hidrocarburos que se obtengan o le sean otorgados con posterioridad a la vigencia del Decreto 1760 de 2003. El valor de los derechos de explotación o producción se valorará de conformidad con los criterios internacionales empleados en el sector de hidrocarburos y se registrarán de acuerdo con las normas y prácticas de contabilidad que le sean aplicables.
 
 (Decreto 727 de 2007, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.1.6 — Reglamentación contable
 
@@ -422,15 +846,11 @@ YACIMIENTOS UBICADOS EN DOS O MAS ENTIDADES TERRITORIALES
 
 (Subsección adicionada por el Decreto 1493 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.2.1 — (Derogado por el inciso 3 del Art
 
 45 Decreto 1142 de 2021) Objeto. La presente Subsección tiene por objeto establecer los parámetros técnicos con el objeto de definir los porcentajes de participación de las entidades territoriales que comparten yacimientos de recursos naturales no renovables en sus límites geográficos, y de esta forma liquidar la participación de dichas entidades territoriales en las regalías y compensaciones generadas por su explotación.
 
 (Decreto 1493 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.2.2 — (Derogado por el inciso 3 del Art
 
@@ -456,8 +876,6 @@ Yacimiento Mineral: Acumulación natural de una sustancia mineral o fósil, cuya
 
 (Decreto 1493 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.2.3 — (Derogado por el inciso 3 del Art
 
 45 Decreto 1142 de 2021) Definición del área de yacimientos mineros. Para efecto de establecer la participación de dos o más entidades territoriales ubicadas sobre un yacimiento mineral, el Ministerio de Minas y Energía o quien haga sus veces en materia de fiscalización, con base en la información técnica relacionada y provista por los respectivos titulares, que se encuentre en el expediente minero, definirá el área del yacimiento mineral.
@@ -465,8 +883,6 @@ ARTÍCULO
 Con la superposición del área del yacimiento mineral y del mapa de la división política del área a analizar, establecida por el Instituto Geográfico Agustín Codazzi - I.G.A.C., el Ministerio de Minas y Energía o quien haga sus veces en materia de fiscalización, señalará porcentualmente el área del yacimiento mineral que corresponda a cada entidad territorial.
 
 (Decreto 1493 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.2.4 — (Derogado por el inciso 3 del Art
 
@@ -476,8 +892,6 @@ Dicha información es de carácter obligatorio debiendo ser presentada por los t
 
 (Decreto 1493 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.2.5 — (Derogado por el inciso 3 del Art
 
 45 Decreto 1142 de 2021)Mecanismo para definir el porcentaje de participación en yacimientos mineros. El Ministerio de Minas y Energía o quien haga sus veces en materia de fiscalización, teniendo en cuenta: (i) la definición del área del yacimiento, (ii) los volúmenes de producción con base en la información de que trata el artículo anterior, y (iii) mediante la aplicación de la fórmula de que trata el Artículo 2.2.1.1.1.1.2.9. de esta Subsección, señalará mediante resolución, el porcentaje de participación en la distribución de regalías y compensaciones que como producto de la explotación del yacimiento corresponda a cada entidad territorial.
@@ -485,8 +899,6 @@ ARTÍCULO
 La Resolución de que trata el presente artículo se expedirá dentro del mes calendario siguiente a la fecha en que el Ministerio de Minas y Energía o quien haga sus veces en materia de fiscalización cuente con la totalidad de la información necesaria para determinar la participación.
 
 (Decreto 1493 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.2.6 — (Derogado por el inciso 3 del Art
 
@@ -514,8 +926,6 @@ PARÁGRAFO . La compañía operadora del campo deberá ajustar la información d
 
 (Decreto 1493 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.2.7 — (Derogado por el inciso 3 del Art
 
 45 Decreto 1142 de 2021) Mecanismo para definir el porcentaje de participación en yacimientos de hidrocarburos. El Ministerio de Minas y Energía o quien haga sus veces en materia de fiscalización, teniendo en cuenta: (i) la definición del área del yacimiento y (ii) mediante la aplicación de la fórmula de que trata el Artículo 2.2.1.1.1.1.2.9. de esta Subsección, señalará mediante resolución, el porcentaje de participación en la distribución de regalías y compensaciones que como producto de la explotación del yacimiento corresponda a cada entidad territorial.
@@ -526,15 +936,11 @@ PARÁGRAFO . La resolución mediante la cual se determine el Porcentaje de Parti
 
 (Decreto 1493 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1.2.8 — (Derogado por el inciso 3 del Art
 
 45 Decreto 1142 de 2021) Límites de las entidades territoriales. Cuando existan límites dudosos de las entidades territoriales, el Ministerio de Minas y Energía o quien haga sus veces en materia de fiscalización, determinará el porcentaje de participación en regalías y compensaciones a aplicar a cada entidad territorial, con base en los límites provisionales a que se refiere la Ley 1447 de 2011 o las disposiciones que la modifiquen o sustituyan y demás normas reglamentarias, hasta tanto la limitación geográfica se determine definitivamente por la autoridad competente, debiéndose revisar la participación si hubiere lugar a ello.
 
 (Decreto 1493 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.2.9 — (Derogado por el inciso 3 del Art
 
@@ -558,8 +964,6 @@ SUBSECCIÓN 2.1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1.1 — Objeto
 
 Esta sección tiene por objeto establecer los requisitos, obligaciones y el régimen sancionatorio, aplicables a los agentes de la cadena de distribución de combustibles líquidos derivados del petróleo, excepto GLP, señalados en el artículo 61 de la Ley 812 de 2003, con el fin de resguardar a las personas, los bienes y preservar el medio ambiente.
@@ -570,15 +974,11 @@ PARÁGRAFO . Los agentes de la cadena de distribución de combustibles líquidos
 
 (Decreto 4299 de 2005, art 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1.2 — Campo de aplicación
 
 La presente sección se aplicará a los siguientes agentes de la cadena de distribución de combustibles líquidos derivados del petróleo, excepto GLP: refinador, importador, almacenador, distribuidor mayorista, transportador, distribuidor minorista y gran consumidor.
 
 (Decreto 4299 de 2005, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.1.3 — Autoridad de regulación control y vigilancia
 
@@ -587,8 +987,6 @@ Corresponde al Ministerio de Minas y Energía de conformidad con las normas vige
 Corresponde a la CREG regular las actividades de refinación, importación, almacenamiento, distribución y transporte de los combustibles líquidos derivados del petróleo.
 
 (Decreto 4299 de 2005, art. 3, modificado por el Decreto-Ley 4130 de 2010, art. 3 numeral 5)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.1.4 — Definiciones aplicables a la distribución de combustibles liquidas derivados del Petróleo
 
@@ -942,8 +1340,6 @@ API 650: Tanques de Almacenamiento Atmosférico.
 
 (Modificado por el Art. 1 del Decreto 1281 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1.5 — 1.5
 
 Clasificación de las estaciones de servicio: Sin perjuicio de la definición establecida en el artículo 2.2.1.1.2.2.1.4., las estaciones de servicio se clasificarán así:
@@ -980,8 +1376,6 @@ Mixta. Establecimiento que dispone de instalaciones y equipos para el almacenami
 
 (Decreto 1521 de 1998, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1.6 — 1.6
 
 Plan de continuidad en materia de combustibles líquidos derivados del petróleo y sus mezclas con biocombustibles y el Plan de Expansión de la red de poliductos del Ministerio de Minas y Energía. El Ministerio de Minas y Energía podrá expedir el Plan de Continuidad, así como el Plan de Expansión de la Red de Poliductos en materia de combustibles líquidos derivados del petróleo y sus mezclas con biocombustibles, a partir de los proyectos que adopte del Plan Indicativo de Abastecimiento de Combustibles Líquidos de la UPME.
@@ -1013,8 +1407,6 @@ PARÁGRAFO. La UPME será responsable de la aplicación e implementación de los
 
 (Adicionado por el Art. 4 del Decreto 1135 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1.7 — Tipos de almacenamiento de combustibles líquidos derivados del petróleo, de los biocombustibles y sus mezclas
 
 a) Almacenamiento Estratégico: Es la capacidad de almacenamiento y el volumen mínimo de combustibles líquidos derivados del petróleo, biocombustibles y sus mezclas, requeridos para garantizar el abastecimiento de uno o varios mercados o regiones, durante un periodo determinado, así como los volúmenes que no podrán ser retirados de la infraestructura del almacenamiento, salvo que se presenten insalvables restricciones en la oferta de combustibles líquidos derivados del petróleo y sus mezclas con biocombustibles, restricciones en las capacidades de transporte o movilización de combustibles, o demás situaciones que deriven en algún tipo de eventos de escasez.
@@ -1027,15 +1419,11 @@ El Ministerio de Minas y Energía desarrollará lo relacionado con los tipos, us
 
 (Adicionado por el Art. 1 del Decreto 1281 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1.8 — 
 
 2.2.1.1.2.2.1.8 Reporte de Información por parte de los agentes de la cadena de distribución de combustibles líquidos derivados del petróleo y sus mezclas con biocombustibles. El Ministerio de Minas y Energía, expedirá la regulación para solicitar a los agentes de la cadena señalados en el artículo 2.2.1.1.2.2.1.2., información y reportes relacionados con sus actividades operacionales, logísticas y comerciales, así como respecto de su infraestructura física y ubicación geográfica de sus instalaciones y sitios de operación.
 
 (Adicionado por el Art. 1 del Decreto 1281 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.1.9 — 
 
@@ -1104,8 +1492,6 @@ Los interesados en obtener del Ministerio de Minas y Energía la autorización p
 5. Póliza de responsabilidad civil extracontractual que cubra los daños a terceros, en sus bienes y personas, por el transporte, manejo, almacenamiento y distribución de combustibles (ACPM), con límite asegurado mínimo de dos mil (2.000) salarios mínimos mensuales legales vigentes, sin perjuicio de otras pólizas que haya constituido el interesado.
 
 (Decreto 318 de 2003; art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.2.3 — Requisitos para el almacenamiento transitorio de aceite combustible de motor ACPM
 
@@ -1265,8 +1651,6 @@ n) La fecha de calibración de los tanques para el almacenamiento de ACPM no deb
 
 (Decreto 318 de 2003; art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.2.4 — Resultado de la visita del Ministerio de Minas y Energía
 
 El funcionario del Ministerio de Minas y Energía que efectúe la visita a las correspondientes instalaciones deberá rendir un informe escrito y pormenorizado sobre el resultado de la misma, dentro del término de cinco (5) días hábiles siguientes al de la visita. El Ministerio de Minas y Energía comunicará por escrito -al interesado, propietario y/o representante legal del establecimiento en el que se encuentran las instalaciones- los resultados de la visita y ordenará, sí fuere el caso, ejecutar los trabajos u obras necesarias para que dichas instalaciones reúnan todos los requisitos exigidos, con el fin de otorgarle la autorización para el almacenamiento transitorio de ACPM.
@@ -1274,8 +1658,6 @@ El funcionario del Ministerio de Minas y Energía que efectúe la visita a las c
 PARÁGRAFO . El solicitante obtendrá, bajo su responsabilidad, las demás autorizaciones, permisos o licencias que requiera para almacenar y distribuir ACPM.
 
 (Decreto 318 de 2003; art. 4 )
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.2.5 — Resolución de autorización o negación de almacenamiento transitorio de ACPM
 
@@ -1295,8 +1677,6 @@ DISTRIBUCIÓN DE COMBUSTIBLES LÍQUIDOS DERIVADOS DEL PETRÓLEO.
 
 DE LAS PLANTAS DE ABASTECIMIENTO DE COMBUSTIBLES.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.1 — Normativa aplicable a las plantas de abastecimiento de combustibles
 
 La ubicación, diseño, construcción, mejoras ampliación, aforo y pruebas de las instalaciones de las plantas de abastecimiento de combustibles líquidos derivados del petróleo, deberán ceñirse a los requisitos que se establecen en la presente sección y en las normas Icontec. Para lo no estipulado en las normas mencionadas se aplicará la norma NFPA-30.
@@ -1304,8 +1684,6 @@ La ubicación, diseño, construcción, mejoras ampliación, aforo y pruebas de l
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.2 — Solicitud
 
@@ -1317,8 +1695,6 @@ PARÁGRAFO . El interesado que planee la ampliación o mejoras de una planta de 
 
 (Decreto 283 de 1990, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.3 — Visita y estudio de documentación
 
 El funcionario que realice la visita de que trata el artículo anterior, deberá estudiar cuidadosamente la documentación presentada por el interesado y verificar que los planos presentados corresponden a la realidad; además, deberá tener en cuenta criterios de racionalización de la distribución de combustibles en el país de acuerdo a las plantas de abastecimiento ya existentes en el área de influencia, con miras a que el Ministerio de Minas y Energía pueda determinar la saturación o inconveniencia: su localización respecto a poliductos, refinerías otras plantas de abastecimiento existentes en el área de influencia, así como también, distancias de los linderos de la planta proyectada a los linderos más próximos de sitios de alta densidad poblacional, tales como templos, escuelas, colegios, hospitales, clínicas Supermercados centros comerciales, teatros, polideportivos, bibliotecas públicas, clubes sociales, edificios multifamiliares y establecimientos similares, las que deberán ser mínimo de cien (100) metros.
@@ -1329,8 +1705,6 @@ PARÁGRAFO . No se podrán adelantar proyectos de alta densidad poblacional como
 
 (Decreto 283 de 1990, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.4 — Resolución motivada
 
 Realizada la visita y con base en el informe presentado por el funcionario de acuerdo con lo estipulado en el artículo anterior el Ministerio de Minas y Energía autorizará o negará la construcción de la planta de abastecimiento por medio de resolución motivada.
@@ -1340,8 +1714,6 @@ La resolución de autorización para la construcción de una planta de abastecim
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.5 — Requisitos adicionales
 
@@ -1373,8 +1745,6 @@ PARÁGRAFO . Todo cambio de producto a almacenar en los tanques, deberá ser pre
 
 (Decreto 283 de 1990, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.6 — Presentación de planos al Ministerio de Minas
 
 Los planos indicados en el artículo anterior se presentarán al Ministerio de Minas y Energía en dos (2) copias, una (1) de las cuales será devuelta al solicitante por la Dirección General de Hidrocarburos, dentro de los sesenta (60) días hábiles siguientes, con la correspondiente constancia de aprobación o con las observaciones a que hubiere lugar.
@@ -1385,8 +1755,6 @@ Toda modificación de los planos deberá ser aprobada por el Ministerio de Minas
 
 (Decreto 283 de 1990, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.7 — Requerimiento de información por parte del Ministerio
 
 El Ministerio de Minas y Energía podrá exigir por escrito información adicional en relación con el proyecto. Sus funcionarios previamente autorizados y debidamente identificados podrán inspeccionar las obras en cualquier momento y comunicar al interesado por escrito las observaciones que estime conveniente.
@@ -1394,8 +1762,6 @@ El Ministerio de Minas y Energía podrá exigir por escrito información adicion
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.8 — Adecuación de vías internas
 
@@ -1405,8 +1771,6 @@ El alineamiento de las vías internas respecto a las oficinas, tanques, llenader
 
 (Decreto 283 de 1990, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.9 — Muros y paredes
 
 Los muros o paredes de las oficinas talleres y bodegas deberán ser construidos con materiales incombustibles.
@@ -1414,8 +1778,6 @@ Los muros o paredes de las oficinas talleres y bodegas deberán ser construidos 
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.10 — Servicios sanitarios
 
@@ -1425,8 +1787,6 @@ Toda planta de abastecimiento de combustibles líquidos derivados del petróleo 
 
 (Decreto 283 de 1990, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.11 — Cañerías de desagüe
 
 Las cañerías de desagüe serán de diámetro apropiado y desembocarán en los sitios autorizados por las empresas de acueducto y alcantarillado de la localidad o por la autoridad competente, teniendo en cuenta las normas sobre contaminación.
@@ -1435,8 +1795,6 @@ Las cañerías de desagüe serán de diámetro apropiado y desembocarán en los 
 
 (Decreto 283 de 1990, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.12 — Tanques de almacenamiento
 
 Los tanques de almacenamiento podrán ser de techo fijo o flotante y serán diseñados construidos y probados de acuerdo con la última edición de las normas API, en especial la 650 y sus apéndices.
@@ -1444,8 +1802,6 @@ Los tanques de almacenamiento podrán ser de techo fijo o flotante y serán dise
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.13 — Tanques atmosféricos
 
@@ -1458,8 +1814,6 @@ PARÁGRAFO . Cada planta de abastecimiento deberá tener un laboratorio para el 
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.14 — Distribución de los tanques de almacenamiento
 
@@ -1825,8 +2179,6 @@ PARÁGRAFO . Tal como se indica en el artículo 2.2.1.1.2.2.3.3., la distancia m
 
 (Decreto 283 de 1990, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.15 — Distancias mínimas de los tanques respecto de las edificaciones
 
 Las distancias mínimas entre un tanque que almacene combustibles líquidos pesados con punto de inflamación superior a 93 pe (Clase III B NFPA) y las edificaciones, vías de circulación, propiedad adyacentes y equipos son las siguientes:
@@ -1885,8 +2237,6 @@ a
 
 (Decreto 283 de 1990, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.16 — Muros de retención
 
 Todo tanque o grupo de tanques que contengan productos de petróleo, deberán estar rodeados por un muro de retención impermeabilizado. Este deberá construirse en concreto, tierra apisonada e impermeabilizada u otro material adecuado. La altura mínima de dicho muro será de sesenta (60) cms. y la máxima será de dos (2) metros. Estos muros podrán protegerse con grama o pastos de poco crecimiento.
@@ -1894,8 +2244,6 @@ Todo tanque o grupo de tanques que contengan productos de petróleo, deberán es
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.17 — Capacidad neta de un muro de retención que contiene un solo tanque
 
@@ -1907,8 +2255,6 @@ Si el recinto de retención contiene dos o más tanques, su capacidad neta será
 
 (Decreto 283 de 1990, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.18 — Provisión de drenajes
 
 El recinto deberá estar provisto de cunetas y sumideros interiores que permitan el fácil drenaje, cuyo flujo deberá controlarse con una válvula o brazo basculante ubicado en el exterior del recinto, que permita la rápida evacuación de las aguas lluvias o combustibles que se derramen en una emergencia.
@@ -1916,8 +2262,6 @@ El recinto deberá estar provisto de cunetas y sumideros interiores que permitan
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.19 — Bases de los tanques
 
@@ -1929,8 +2273,6 @@ Cuando haya varios tanques en un recinto común, deberán estar separados por un
 
 (Decreto 283 de 1990, art. 23)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.20 — Prohibición de utilización de mangueras flexibles
 
 Se prohíbe en el interior de los recintos el empleo permanente de mangueras flexibles. Su utilización se limitará a Operaciones esporádicas de corta duración Los motobombas de trasiego deberán estar situadas en el exterior de los recintos.
@@ -1939,8 +2281,6 @@ Se prohíbe en el interior de los recintos el empleo permanente de mangueras fle
 
 (Decreto 283 de 1990, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.21 — Especificación del material de las tuberías y accesorios
 
 Todas las tuberías y accesorios, dentro y fuera de los recintos o muros de retención, serán de acero-carbón. Las que se instalen dentro deberán diseñarse para resistir altas temperaturas.
@@ -1948,8 +2288,6 @@ Todas las tuberías y accesorios, dentro y fuera de los recintos o muros de rete
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.22 — Diseño y construcción de las tuberías
 
@@ -1961,8 +2299,6 @@ Para evitar contaminación durante el bombeo, cada producto deberá tener su pro
 
 (Decreto 283 de 1990, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.23 — Protección de las tuberías enterradas
 
 Todas las tuberías enterradas deberán estar protegidas en los cruces de carreteras y caminos por tubería concéntrica u otro dispositivo equivalente. Los extremos de esta tubería deben sellarse para evitar corrosión del tramo enterrado.
@@ -1973,8 +2309,6 @@ Cuando las condiciones del suelo lo exijan, las líneas subterráneas deberán e
 
 (Decreto 283 de 1990, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.24 — Distancia mínima entre las oficinas y llenaderos
 
 La distancia mínima desde las oficinas de la planta, hasta los llenaderos de carro tanques o ferro tanques será de 20 metros.
@@ -1982,8 +2316,6 @@ La distancia mínima desde las oficinas de la planta, hasta los llenaderos de ca
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.25 — Obligatoriedad de área de parqueo para los llenaderos para ferro tanques
 
@@ -1993,8 +2325,6 @@ Los llenaderos para ferro tanques deberán tener su propia área de parqueo, de 
 
 (Decreto 283 de 1990, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.26 — Ubicación de los llenaderos para carro tanques
 
 Los llenaderos para carro tanques deberán ser ubicados de tal modo que permitan el fácil acceso y la rápida evacuación en caso de emergencia.
@@ -2002,8 +2332,6 @@ Los llenaderos para carro tanques deberán ser ubicados de tal modo que permitan
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.27 — Techo de un llenadero
 
@@ -2013,8 +2341,6 @@ El techo de un llenadero deberá ser de tal forma, que facilite la aireación y 
 
 (Decreto 283 de 1990, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.28 — Altura de la plataforma de un llenadero
 
 La altura de la plataforma de un llenadero, deberá permitir al operarlo alcanzar fácilmente las tapas de los carros tanques o ferro tanques. Cuando la operación de llenado lo requiera, la plataforma deberá estar provista de puentes móviles para el acceso a los vehículos de cargue, en tal forma que no estorben dicha operación.
@@ -2022,8 +2348,6 @@ La altura de la plataforma de un llenadero, deberá permitir al operarlo alcanza
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 32)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.29 — Especificaciones de las plataformas de llenado
 
@@ -2041,8 +2365,6 @@ d) Protección con un sistema de diluvio con espuma, diseñado de acuerdo con la
 
 (Decreto 283 de 1990, art. 33)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.30 — Instalaciones eléctricas
 
 Todo lo relacionado con las instalaciones eléctricas deberá cumplir con la última versión de la Norma NFPA 70.
@@ -2051,8 +2373,6 @@ Todo lo relacionado con las instalaciones eléctricas deberá cumplir con la úl
 
 (Decreto 283 de 1990, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.31 — Electricidad estática y conexiones a tierra
 
 Todo lo relacionado con la electricidad estática y conexiones a tierra deberá cumplir con la última versión de la Norma NFPA 77.
@@ -2060,8 +2380,6 @@ Todo lo relacionado con la electricidad estática y conexiones a tierra deberá 
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.32 — Descripción del equipo contra incendio a instalarse
 
@@ -2085,8 +2403,6 @@ Un extintor portátil de carretel de polvo químico seco de sesenta y ocho (68) 
 
 (Decreto 283 de 1990, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.33 — Sistemas contraincendios adicionales
 
 Además de lo indicado anteriormente, toda planta de abastecimiento deberá tener un sistema de hidrantes y monitores para enfriamiento y un mínimo de almacenamiento de agua contra incendio de cuatro horas, de acuerdo con las Normas NFPA 22 y 24. También deberá tener un sistema de aplicación y almacenamiento de espuma, en los términos de la Norma NFPA 11.
@@ -2094,8 +2410,6 @@ Además de lo indicado anteriormente, toda planta de abastecimiento deberá tene
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.34 — Equipos de primeros auxilios
 
@@ -2105,8 +2419,6 @@ Cada planta de abastecimiento deberá tener un equipo de respiración con un tan
 
 (Decreto 283 de 1990, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.35 — Sistema de comunicación
 
 Toda planta de abastecimiento de combustibles líquidos deberá contar con un sistema de comunicación confiable con los bomberos de la localidad y con las instalaciones vecinas relacionadas con la distribución y almacenamiento de combustibles.
@@ -2115,8 +2427,6 @@ Toda planta de abastecimiento de combustibles líquidos deberá contar con un si
 
 (Decreto 283 de 1990, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.36 — Plan de emergencia
 
 Toda planta de abastecimiento de combustibles líquidos deberá tener en forma escrita un plan de emergencia para casos de fugas o Incendio Así mismo, deberá tener una brigada u organización similar capaz de operar los sistemas y equipos de Protección existentes y de poner en funcionamiento el plan de emergencia.
@@ -2124,8 +2434,6 @@ Toda planta de abastecimiento de combustibles líquidos deberá tener en forma e
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.37 — Visita de verificación del cumplimiento de todos los requisitos
 
@@ -2139,8 +2447,6 @@ PARÁGRAFO . Las pruebas de las tuberías, válvulas, bridas y uniones, se hará
 
 (Decreto 283 de 1990, art. 41)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.38 — .38
 
 Resultados de la visita y verificación de cumplimiento de las normas por parte del Ministerio.Terminada la visita de que trata el artículo anterior se levantara el acta correspondiente, en la que se harán constar los resultados de las pruebas, aforos, calibraciones y revisiones. Además, deberá constar cualquier obra o trabajo adicional que deba realizarse con el fin de cumplir los requisitos con miras a la obtención de licencia de funcionamiento.
@@ -2150,8 +2456,6 @@ El acta deberá firmarse por el funcionario del Ministerio y por el representant
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 283 de 1990, art. 42)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.39 — Informe escrito de la visita
 
@@ -2163,8 +2467,6 @@ La aprobación de la licencia de funcionamiento de las plantas de abastecimiento
 
 (Decreto 283 de 1990, art. 43)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.40 — Obligación de mantener la calibración de todas las unidades de medida
 
 Es responsabilidad de las plantas de abastecimiento mayoristas de combustibles líquidos derivados del petróleo, mantener en todo tiempo debidamente calibradas las unidades de medida de sus equipos de entrega de combustibles. Para este fin el recipiente utilizado en la calibración deberá estar debidamente certificado por el Centro de Control y Calidad y Metrología de la Superintendencia de industria y Comercio o quien haga sus veces u otra entidad debidamente acreditada ante el Ministerio de Minas y Energía. Este verificará periódicamente por medio de sus funcionarios o de quien delegue, que dicha calibración se ajuste a los parámetros del presente Decreto.
@@ -2172,8 +2474,6 @@ Es responsabilidad de las plantas de abastecimiento mayoristas de combustibles l
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018)
 
 (Decreto 283 de 1990, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.41 — Verificación de la calibración y funcionamiento de las unidades de medida
 
@@ -2193,8 +2493,6 @@ PARÁGRAFO . Si durante la calibración de cualquier unidad de medida de entrega
 
 DE LAS ESTACIONES DE SERVICIO
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.42 — Certificación del uso y utilización del suelo
 
 Las autoridades competentes enunciadas en el artículo 49 del Decreto 2150 del 5 de diciembre de 1995, modificado y adicionado por el artículo 99 de la Ley 388 del 18 de julio de 1997 o la norma que las modifique, adiciones o derogue, certificarán el uso y utilización del suelo, según los correspondientes planes de ordenamiento urbanístico.
@@ -2213,8 +2511,6 @@ PARÁGRAFO . Las estaciones de servicio ubicadas en las zonas urbanas estarán s
 
 (Decreto 1521 de 1998, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.43 — Vigencia de la autorización
 
 El acto administrativo mediante el cual se autorice la construcción, modificación o ampliación de una estación de servicio tendrá una vigencia de seis (6) meses, contados a partir de la fecha en la que quede en firme. Si transcurrido este término no se ha iniciado la construcción, modificación o ampliación, conforme con lo aprobado en los respectivos planos, la correspondiente autorización perderá su vigencia.
@@ -2223,8 +2519,6 @@ El acto administrativo mediante el cual se autorice la construcción, modificaci
 
 (Decreto 1521 de 1998, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.44 — Normas aplicables a los trámites
 
 Los trámites relacionados con estaciones de servicio que expendan gas natural comprimido (G.N.C.); serán adelantados de conformidad con lo dispuesto en el Título II del Presente Decreto. Las estaciones de servicio mixtas, cumplirán lo consagrado en este decreto y en la resolución 80582 del 8 de abril de 1996 o aquella que la derogue, modifique o adicione.
@@ -2232,8 +2526,6 @@ Los trámites relacionados con estaciones de servicio que expendan gas natural c
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 7, derogado parcialmente, por el Decreto 4299 de 2005, art. 42)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.45 — Modificación o ampliación de estaciones de servicio
 
@@ -2249,8 +2541,6 @@ PARÁGRAFO . Las solicitudes en trámite para la construcción, modificación o 
 
 (Decreto 1521 de 1998, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.46 — Pendiente mínima del piso de las estaciones de servicio
 
 El piso de las estaciones de servicio deberá tener una pendiente mínima de uno por ciento (1%) para que puedan escurrir los residuos de aguas hacia las cañerías. El desagüe de los lavaderos deberá ser subterráneo. El desagüe general deberá estar provisto de una trampa de grasas que separe los productos antes de entrar al colector de aguas, con el fin de evitar la contaminación de las mismas. Lo anterior sin perjuicio de lo exigido por el Ministerio de Medio Ambiente y Desarrollo Sostenible o de la autoridad que haga sus veces.
@@ -2258,8 +2548,6 @@ El piso de las estaciones de servicio deberá tener una pendiente mínima de uno
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art.9)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.47 — Diámetro y desembocadura de las cañerías
 
@@ -2269,8 +2557,6 @@ Las tuberías de desagüe (cañerías), deberán tener diámetro apropiado y des
 
 (Decreto 1521 de 1998, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.48 — Instalaciones sanitarias en las estaciones de servicio
 
 Toda estación de servicio deberá poseer instalaciones sanitarias apropiadas para uso exclusivo de sus trabajadores e instalaciones sanitarias independientes para uso del público, localizadas en sitios de fácil acceso y se conservarán en perfecto estado de limpieza y funcionamiento.
@@ -2278,8 +2564,6 @@ Toda estación de servicio deberá poseer instalaciones sanitarias apropiadas pa
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.49 — Estructuras de las edificaciones
 
@@ -2289,8 +2573,6 @@ Las estructuras de las edificaciones de las estaciones de servicio deberán cons
 
 (Decreto 1521 de 1998, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.50 — Separación del área de las estaciones de servicio
 
 El área de las estaciones de servicio deberá estar separada de las vías públicas por andenes o aceras y zonas verdes, con el ancho y la forma exigidos por las reglamentaciones urbanísticas del municipio respectivo, además dando cumplimiento a las normas ambientales pertinentes.
@@ -2298,8 +2580,6 @@ El área de las estaciones de servicio deberá estar separada de las vías públ
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.51 — Prohibición del funcionamiento de vivienda
 
@@ -2309,8 +2589,6 @@ Prohíbase la construcción y funcionamiento de vivienda o alojamiento, temporal
 
 (Decreto 1521 de 1998, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.52 — Protección de las instalaciones eléctricas
 
 Las instalaciones eléctricas deberán protegerse con tubería conduit y sus accesorios ser a prueba de explosión, de acuerdo con la Norma NFPA 70 vigente y las especificaciones de la empresa de energía que provea el servicio.
@@ -2318,8 +2596,6 @@ Las instalaciones eléctricas deberán protegerse con tubería conduit y sus acc
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.53 — Plan de contingencia contra incendios en estaciones de servicio
 
@@ -2339,8 +2615,6 @@ Los extintores se deberán mantener en perfectas condiciones de funcionamiento, 
 
 (Decreto 1521 de 1998, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.54 — Distancia mínima del tanque de almacenamiento con el pavimento
 
 La parte superior de los tanques enterrados en una estación de servicio, no podrá estar a menos de cuarenta y cinco (45) centímetros bajo el nivel del pavimento o de sesenta (60) centímetros si no lo tiene.
@@ -2348,8 +2622,6 @@ La parte superior de los tanques enterrados en una estación de servicio, no pod
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art 17)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.55 — Piso de la excavación rocoso
 
@@ -2361,8 +2633,6 @@ PARÁGRAFO . Cuando los avances tecnológicos lo permitan, se tendrán en cuenta
 
 (Decreto 1521 de 1998, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.56 — Prohibiciones al enterrar los tanques
 
 Los tanques no podrán estar enterrados bajo ninguna edificación, isla, vía pública o andenes, ni sus extremos estar a menos de un (1) metro de los muros de la edificación más próxima.
@@ -2370,8 +2640,6 @@ Los tanques no podrán estar enterrados bajo ninguna edificación, isla, vía p�
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.57 — Anclaje de los tanques de almacenamiento
 
@@ -2381,8 +2649,6 @@ Los tanques enterrados deberán anclarse cuando puedan ser alcanzados por el niv
 
 (Decreto 1521 de 1998, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.58 — Tubos de respiración de los tanques
 
 Las bocas de los tubos de respiración de los tanques deberán salir al aire libre, por encima de tajados y paredes cercanas y alejadas de conducciones eléctricas. Además, deberán estar localizadas a distancias mayores de quince (15) metros de cualquier chimenea o fuente de ignición y en forma tal que los vapores no desemboquen en el interior de edificación alguna. Las bocas podrán ir protegidas con una válvula de alivio de presión y vacío, para evitar daños al tanque y pérdidas por evaporación y contaminación.
@@ -2390,8 +2656,6 @@ Las bocas de los tubos de respiración de los tanques deberán salir al aire lib
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.59 — Diámetro del tubo de respiración
 
@@ -2401,8 +2665,6 @@ El diámetro de tubo de respiración (desfogue) del tanque no podrá ser menor d
 
 (Decreto 1521 de 1998, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.60 — Refuerzo del piso interior del tanque
 
 El piso interior del tanque, perpendicular a la boca de media de nivel, deberá reforzarse con una lámina de treinta (30) centímetros por treinta (30) centímetros y de calibre igual al de la lámina del tanque.
@@ -2410,8 +2672,6 @@ El piso interior del tanque, perpendicular a la boca de media de nivel, deberá 
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.61 — Requisitos para la instalación de las bocas de llenado de los tanques
 
@@ -2425,8 +2685,6 @@ b) Estar localizadas por lo menos a un (1) metro con cincuenta (50) centímetros
 
 (Decreto 1521 de 1998, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.62 — Protección de los tanques almacenadores
 
 Los tanques deberán estar debidamente protegidos con pinturas anticorrosivas y/o con protección catódica, debiéndose ejercer un adecuado control y mantenimiento, periódicamente.
@@ -2435,8 +2693,6 @@ Los tanques deberán estar debidamente protegidos con pinturas anticorrosivas y/
 
 (Decreto 1521 de 1998, art. 25)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.63 — Normas aplicables a las instalaciones de las estaciones de servicio
 
 Las instalaciones de las estaciones de servicio deberán cumplir con lo estipulado en este decreto, en las normas nacionales y en las normas NFPA 30 y 30-A.
@@ -2444,8 +2700,6 @@ Las instalaciones de las estaciones de servicio deberán cumplir con lo estipula
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.64 — Certificación de construcción de los tanques almacenadores
 
@@ -2467,8 +2721,6 @@ PARÁGRAFO . Para tanques fabricados con material y tecnologías nuevas, deberá
 
 (Decreto 1521 de 1998, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.65 — Operación de las estaciones de servicio
 
 No podrá una estación de servicio entrar a operar sin haber dado total cumplimiento a lo exigido en el presente decreto; en caso de hacerlo, se le impondrá la sanción pertinente.
@@ -2476,8 +2728,6 @@ No podrá una estación de servicio entrar a operar sin haber dado total cumplim
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.66 — Solicitudes adicionales de información
 
@@ -2487,8 +2737,6 @@ La autoridad competente podrá exigir al interesado cualquier información adici
 
 (Decreto 1521 de 1998, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.67 — Calibración de los surtidores de combustible
 
 La calibración de los surtidores de combustibles derivados del petróleo de las estaciones de servicio se hará con un recipiente de cinco (5) galones de capacidad, debidamente calibrado y certificado por el Centro de Control de Calidad y Metrología de la Superintendencia de Industria y Comercio o quien haga sus veces u otra entidad debidamente acreditada ante el Ministerio de Minas y Energía.
@@ -2496,8 +2744,6 @@ La calibración de los surtidores de combustibles derivados del petróleo de las
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.68 — Procedimiento para la calibración
 
@@ -2527,8 +2773,6 @@ Esto se obtiene multiplicando el volumen entregado por el precio unitario autori
 
 (Decreto 1521 de 1998, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.69 — Verificación de la calibración y el funcionamiento de los surtidores
 
 Cuando la autoridad competente verifique la calibración y el funcionamiento de los surtidores, se procederá así:
@@ -2543,8 +2787,6 @@ c) Si en el curso de la diligencia no fuere posible hacer los ajustes necesarios
 
 (Decreto 1521 de 1998, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.70 — Normatividad aplicable a los vehículos de transporte de derivados líquidos del petróleo
 
 Los tanques de los vehículos automotores dedicados al transporte de combustible y productos líquidos derivados del petróleo (gasolina motor, extra, CLD, queroseno, ACPM, bencina industrial, bases lubricantes, disolventes, combustóleo, etc.), deberán cumplir con todos los requisitos establecidos por la (s) norma (s) relacionada (s) con la construcción de los tanques que almacenen el producto.
@@ -2552,8 +2794,6 @@ Los tanques de los vehículos automotores dedicados al transporte de combustible
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 1521 de 1998 art. 37)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.71 — Régimen aplicable a los establecimientos que presten servicios de cambio de aceites
 
@@ -2573,8 +2813,6 @@ PARÁGRAFO. Se entenderá por punto de suministro energético la instalación qu
 
 DEL GRAN CONSUMIDOR INDIVIDUAL NO INTERMEDIARIO DE ACPM.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.72 — Determinación del ingreso al productor para Grandes Consumidores Individuales No Intermediarios de ACPM
 
 Para los Grandes Consumidores Individuales No Intermediarios de Acpm definidos en el artículo anterior, el ingreso al productor al cual ECOPETROL S.A. o quien haga sus veces venderá el Acpm producido en las refinerías del país, distribuido de manera directa o a través de los distribuidores mayoristas, será como mínimo, el promedio de precios FOB del Diesel Oil exportado por ECOPETROL S.A. en los 30 días calendario precedentes a la fecha de facturación, o el precio internacional equivalente de las cotizaciones de los 30 días calendario precedentes a la fecha de facturación del índice No. 2 U. S. Gulf Coast Waterborne de la publicación PLATT's de Standard & Poor's, cuando no se hayan presentado exportaciones dentro de ese mismo período.
@@ -2586,8 +2824,6 @@ PARÁGRAFO . Para los Sistemas de Transporte Terrestre Masivos de Pasajeros y la
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 2935 de 2002, art. 2, parágrafo 2 adicionado por el Decreto 2988 de 2003, art. 2, modificado por el Decreto 4483 de 2006, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.73 — Reportes de información
 
@@ -2603,8 +2839,6 @@ El incumplimiento del reporte de información contenido en el presente artículo
 
 (Decreto 2935 de 2002, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.74 — Solicitudes de ACPM por parte de los distribuidores mayoristas
 
 Las solicitudes de Acpm que los distribuidores mayoristas hagan a ECOPETROL S.A. o quien haga sus veces con destino a los Grandes Consumidores No Intermediarios de Acpm serán individuales y particulares para cada caso y su facturación se hará de manera independiente.
@@ -2614,8 +2848,6 @@ Las solicitudes de Acpm que los distribuidores mayoristas hagan a ECOPETROL S.A.
 (Decreto 2935 de 2002, art. 4)
 
 DEL REFINADOR.
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.75 — .75
 
@@ -2640,8 +2872,6 @@ Presentadas las anteriores aclaraciones o adiciones por parte del interesado, el
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 4299 de 2005, art. 5; numeral 4 modificado por el decreto 1717 de 2008, art. 5; numeral 7 derogado por el Decreto 1333 de 2007, art. 4, parágrafo ha perdido vigencia.)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.76 — Obligaciones del refinador
 
@@ -2685,8 +2915,6 @@ Los despachos de combustibles para quemadores industriales y/o Avigas, podrán s
 
 DEL IMPORTADOR.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.77 — Autorización para ejercer la actividad de importación
 
 Toda persona natural o jurídica que se encuentre interesada en importar combustibles líquidos derivados del petróleo para consumo o distribución dentro del territorio nacional, deberá obtener previamente al ejercicio de dicha actividad, autorización del Ministerio de Minas y Energía para lo cual deberá presentar los siguientes documentos:
@@ -2707,8 +2935,6 @@ PARÁGRAFO . El importador podrá suscribir contratos o acuerdos para distribuir
 
 (Decreto 4299 de 2005, art. 7, numeral 4 derogado por el decreto 1333 de 2007, art. 4, parágrafo modificado por el decreto 1333 de 2007, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.78 — Visto bueno para la importación de combustibles líquidos derivados del petróleo
 
 De acuerdo con la anterior documentación, el Ministerio de Minas y Energía comunicará por escrito al importador la negación o autorización de la importación de los combustibles líquidos derivados del petróleo dentro de los tres (3) días hábiles siguientes al recibo completo de la información. En caso de ser autorizada, para que los combustibles se puedan consumir, distribuir o comercializar en el territorio nacional, dicha entidad deberá otorgar el Visto Bueno respectivo al registro de importación, para que se continúe de conformidad con los procedimientos establecidos en materia de comercio exterior.
@@ -2716,8 +2942,6 @@ De acuerdo con la anterior documentación, el Ministerio de Minas y Energía com
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 4299 de 2005, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.79 — Especificaciones de calidad del combustible importado
 
@@ -2732,8 +2956,6 @@ PARÁGRAFO . En caso de que el organismo de certificación acreditado no expida 
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 4299 de 2005, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.80 — Obligaciones del importador
 
@@ -2765,8 +2987,6 @@ Todo importador de combustibles líquidos derivados del petróleo deberá cumpli
 
 DEL ALMACENADOR
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.81 — Autorización para ejercer la actividad de almacenador
 
 Toda persona natural o jurídica que se encuentre interesada en ejercer la actividad de almacenamiento de combustibles líquidos derivados del petróleo en el territorio colombiano deberá obtener previamente autorización del Ministerio de Minas y Energía, para lo cual deberá presentar los siguientes documentos:
@@ -2788,8 +3008,6 @@ En el evento en que no se absuelvan dentro del término establecido las observac
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 4299 de 2005, art.12, numeral 4 derogado por el Decreto 1333 de 2007, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.82 — Obligaciones del almacenador
 
@@ -2826,8 +3044,6 @@ El almacenador deberá cumplir con todas las normas vigentes en materia de hidro
 (Decreto 4299 de 2005, art. 13, numeral 4 derogado por el Decreto 1333 de 2007, art. 4; numeral 9 modificado por el Decreto 1333 de 2007, art. 9; modificado de nuevo por el decreto 1717 de 2008, art. 9; numeral 10 modificado por el Decreto 1717 de 2008, art. 8).
 
 DEL DISTRIBUIDOR MAYORISTA
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.83 — Requisitos para ejercer la actividad de distribuidor mayorista
 
@@ -2882,8 +3098,6 @@ PARÁGRAFO 5. En todos aquellos casos relacionados con lo señalado en el parág
 (Prorrogado por el Art. 1 del Decreto 2496 de 2018) 
 
 (Decreto 4299 de 2005 art. 14, numeral 7 modificado por el Decreto 1717 de 2008, art. 10; Parágrafo 2 modificado por el Decreto 1717 de 2008, art. 11; parágrafo 1 modificado por el Decreto 1333 de 2007, artículo 11; parágrafo 3 modificado por el Decreto 1333 de 2007, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.84 — Obligaciones del distribuidor mayorista
 
@@ -2947,8 +3161,6 @@ Organismo certificador de la medición en los formatos, mecanismos y procedimien
 
 DEL TRANSPORTADOR.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.85 — Medios de transporte
 
 El transporte de combustibles líquidos derivados del petróleo se podrá realizar a través de los siguientes medios:
@@ -2962,8 +3174,6 @@ Fluvial;
 Aéreo.
 
 (Decreto 4299 de 2005, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.86 — Transporte terrestre
 
@@ -2991,8 +3201,6 @@ Corresponde al alcalde municipal tomar las medidas necesarias que conduzcan a la
 
 (Decreto 4299 de 2005, art. 17, parágrafo 5 adicionado por el decreto 2165 de 2006, art. 1 ", modificado de nuevo por el Decreto 1333 de 2007, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.87 — Transporte en zonas especiales
 
 El transportador de combustibles líquidos derivados del petróleo en zonas de frontera deberá cumplir con lo estipulado en la Ley 681 de 2001, modificada por las Leyes 1430 de 2010 y 1607 de 2012, la subsección 'Distribución de combustibles líquidos en zonas de frontera... del presente Decreto en las normas que la modifiquen, adicionen o sustituyan.
@@ -3000,8 +3208,6 @@ El transportador de combustibles líquidos derivados del petróleo en zonas de f
 PARÁGRAFO . Los carro tanques destinados al transporte de combustibles líquidos derivados del petróleo en los municipios definidos como zona de frontera, de control por el Consejo Nacional de Estupefacientes y los ubicados en el Magdalena Medio señalados para el efecto por el Ministerio de Minas y Energía, deberán utilizar sellos electrónicos de seguridad que posean sistemas de consulta centralizada de eventos de apertura y cerrado de cada precinto. Dichos sellos deberán estar instalados en cada uno de los puntos de ingreso y salida de combustible del carro tanque, los cuales solamente podrán ser abiertos durante la carga o descarga del producto. Además de lo anterior, deberán disponer de un Sistema Geoposicionador Global - GPS con consulta centralizada de ubicación del vehículo en tiempo real. El Ministerio de Minas y Energía señalará mediante resolución los procedimientos y mecanismos que se requieran para el efecto.
 
 (Decreto 4299 de 2005 art. 18, parágrafo modificado por el Decreto 1333 de 2007, art. 16.)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.88 — Transporte por poliducto
 
@@ -3013,8 +3219,6 @@ PARÁGRAFO . Cuando una estación de servicio de aviación, con el fin de abaste
 
 (Decreto 4299 de 2005 art. 19)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.89 — Transporte marítimo, fluvial, férreo y aéreo
 
 El transporte marítimo, fluvial, férreo y aéreo se regirá por las normas comerciales y las demás que expidan las autoridades competentes.
@@ -3024,8 +3228,6 @@ PARÁGRAFO . Las embarcaciones que transporten combustibles líquidos derivados 
 (Decreto 4299 de 2005 art. 20)
 
 DEL DISTRIBUIDOR MINORISTA.
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.90 — Autorización para ejercer la actividad de distribuidor minorista
 
@@ -3119,8 +3321,6 @@ PARÁGRAFO . El distribuidor minorista a través de estación de servicio privad
 
 (Decreto 4299 de 2005, art. 21 numeral 4 literal a), modificado por el Decreto 4915 de 2011, art 1; numerales 3 del literal d) y 6 de los literales a), b) y c) derogados por el Decreto 1333 de 2007, art. 4; Parágrafos 3 y 5 les fueron ampliados sus plazos de vigencia por el Decreto 1606 de 2006, arts. 1, 2 y 3 sin embargo aún esas ampliaciones de plazo ya expiraron; numeral 10 literal c) adicionado por el Decreto 1333 de 2007, art. 17; numerales 1, 4, 5 y 7 modificados por el Decreto 1333 de 2007, art. 18; numerales 4, 5 y 6 modificados de nuevo por el decreto 1717 de 2008, art. 13; parágrafo 7 modificado por el Decreto 1333 de 2007, art. 19; posteriormente modificado por el Decreto 1717 de 2008, art. 14; parágrafo 11 adicionado por el Decreto 1717 de 2008, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.91 — Obligaciones de los distribuidores minoristas a través de estaciones de servicio
 
 El distribuidor minorista a través de estaciones de servicio, tiene las siguientes obligaciones, según corresponda:
@@ -3164,8 +3364,6 @@ El distribuidor minorista a través de estaciones de servicio, tiene las siguien
 20. Reportar al Distribuidor mayorista al momento de la facturación, la ubicación de la estación de servicio automotriz y fluvial, para efectos de la liquidación de la sobretasa.
 
 (Decreto 4299 de 2005, art. 22 numeral 5 derogado por el Decreto 1333 de 2007, art. 4 ; numerales 9, 12, 14 y 20 modificados por el del Decreto 1333 de 2007, art. 21; numerales 7, 11 y 15 modificados por el Decreto 1717 de 2008, art. 15;. numeral 10 modificado por el Decreto 4915 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.92 — Obligaciones del distribuidor minorista cuando actúe como comercializador industrial
 
@@ -3219,8 +3417,6 @@ PARÁGRAFO . El consumidor final que consuma combustibles en volúmenes inferior
 
 DEL GRAN CONSUMIDOR CON INSTALACIÓN FIJA Y EL GRAN CONSUMIDOR TEMPORAL CON INSTALACIÓN.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.93 — .93
 
 Autorización del Ministerio de Minas y Energía para el Gran Consumidor con instalación fija y el Gran Consumidor Temporal con Instalación. El Gran Consumidor con instalación fija y el Gran Consumidor Temporal con Instalación, requerirán autorización de la Dirección de Hidrocarburos del Ministerio de Minas y Energía para recibir, almacenar y consumir los referidos combustibles, para lo cual deberán allegar los siguientes documentos:
@@ -3255,8 +3451,6 @@ PARÁGRAFO . Los sitios en donde la Fuerza Pública requiera llevar a cabo opera
 
 (Decreto 4299 art. 24, modificado en su totalidad por el Decreto 1333 de 2007, art. 24; parágrafos 2, 3 y 4 modificados por el Decreto 1717 de 2008, art. 18; PARÁGRAFO 7 adicionado por el Decreto 1717 de 2008, art. 19.)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.94 — Obligaciones del Gran Consumidor
 
 El gran consumidor tiene las siguientes obligaciones:
@@ -3287,8 +3481,6 @@ El gran consumidor tiene las siguientes obligaciones:
 
 OTRAS DISPOSICIONES INHERENTES A LA DISTRIBUCIÓN DE COMBUSTIBLES LÍQUIDOS DERIVADOS DEL PETRÓLEO.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.95 — Capacidad de almacenamiento comercial
 
 El distribuidor mayorista debe disponer en todo momento de una capacidad mínima de almacenamiento correspondiente al 30% de su volumen mensual de despachos de cada planta de abastecimiento que posea, calculado de acuerdo con el promedio de despachos mensuales de los últimos doce (12) meses anteriores al cálculo del factor Ca definido en el 2.2.1.1.2.2.3.96 del presente decreto. Esta disposición aplica para cada tipo de combustible líquido derivado del petróleo manejado en cada planta de abastecimiento.
@@ -3315,8 +3507,6 @@ Una vez vencido este plazo se procederá conforme a lo establecido en el parágr
 
 (Decreto 4299 de 2005 art. 26; inciso primero y parágrafo primero modificados por el Decreto 1717 de 2008, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.95.1 — Capacidad de Almacenamiento Comercial
 
 El Ministerio de Minas y Energía, o la entidad delegada, expedirá la regulación relacionada con la capacidad de almacenamiento y los niveles de inventario.
@@ -3326,8 +3516,6 @@ PARÁGRAFO TRANSITORIO 1. La actual Capacidad de Almacenamiento Comercial conten
 PARÁGRAFO TRANSITORIO 2. Hasta tanto el Ministerio de Minas y Energía o la entidad delegada expida la regulación de que trata el presente artículo, el mismo Ministerio de Minas y Energía podrá señalar una regulación transitoria
 
 (Adicionado por el Art. 3 del Decreto 1281 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.96 — Margen del distribuidor mayorista
 
@@ -3361,8 +3549,6 @@ PARÁGRAFO . Para aquellos combustibles líquidos derivados del petróleo sobre 
 
 (Decreto 4299 de 2005, art. 27, modificado en su totalidad por el Decreto 1717 de 2008, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.97 — Formato de la Guía Única de Transporte
 
 La Guía Única de Transporte consiste en un documento con las siguientes características: Papel marca de agua de ocho y medio por siete pulgadas, de fondo bicolor fugitivo azul, numeración consecutiva en tinta tri-reactiva y los demás caracteres en tintas de aceite, con el logotipo del agente que la suministrará al margen izquierdo, tipo y volumen de combustible, fecha de expedición y vigencia, información de los agentes de la cadena comprometidos en la transacción comercial, identificación del vehículo de transporte, origen, ruta y destino del combustible.
@@ -3370,8 +3556,6 @@ La Guía Única de Transporte consiste en un documento con las siguientes caract
 PARÁGRAFO . El Ministerio de Minas y Energía realizará una amplia difusión del formato a los agentes autorizados para su suministro, así como a los proveedores del mismo.
 
 (Decreto 4299 de 2005, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.98 — Agentes autorizados para suministrar la Guía Única de Transporte
 
@@ -3395,8 +3579,6 @@ PARÁGRAFO . El transportador entregará al destinatario del combustible el orig
 
 (Decreto 4299 de 2005 art. 29; Literal e), modificado por el Decreto 2165 de 2006, art. 5; posteriormente derogado por el Decreto 1333 de 2007, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.99 — Suministro, costo y custodia de la Guía Única de Transporte
 
 Los agentes que cuenten con el visto bueno del Ministerio de Minas y Energía deberán obtener a su costo y únicamente de los proveedores que también cuenten con el respectivo visto bueno de dicha autoridad las guías que le resulten necesarias con todas las características de seguridad e información señaladas en el presente decreto; a su vez, deberán actuar con máxima diligencia en su cuidado suministro y custodia para eliminar el riesgo de que sean hurtadas.
@@ -3404,8 +3586,6 @@ Los agentes que cuenten con el visto bueno del Ministerio de Minas y Energía de
 PARÁGRAFO . Cuando el agente autorizado para suministrar la guía única de transporte, por cualquier motivo cancele o pierda una guía o grupo de estas, deberá informar de manera inmediata a las autoridades aduaneras, militares y policivas de la región, según corresponda, para lo de su competencia. De igual forma se deberá remitir un informe mensual al Ministerio de Minas y Energía, dentro de los primeros cinco días hábiles de cada mes, sobre el manejo de las guías en el mes anterior, so pena de hacerse acreedor a las sanciones establecidas en la sección relativa a las sanciones del presente Título.
 
 (Decreto 4299 de 2005, art. 30)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.100 — Obtención de pólizas
 
@@ -3453,8 +3633,6 @@ PARÁGRAFO . Las pólizas de seguro a que se refiere el presente artículo deben
 
 (Decreto 4299 de 2005, art. 31)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.101 — Expedición de reglamentos técnicos
 
 Los ministerios competentes para expedir normas que tengan injerencia en las diferentes actividades que conforman la cadena de distribución de combustibles líquidos derivados del petróleo, expedirán los reglamentos técnicos respectivos y determinarán los requisitos obligatorios que deben cumplirse en cada uno de ellos.
@@ -3469,23 +3647,17 @@ PARÁGRAFO . Hasta tanto no se expidan los reglamentos técnicos pertinentes se 
 
 (Decreto 4299 de 2005, art. 38)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.102 — Inventarios
 
 El Ministerio de Minas y Energía mediante resolución establecerá la reglamentación pertinente a los inventarios mínimos que deben disponer cada uno de los agentes de la cadena de distribución de combustibles.
 
 (Decreto 4299 de 2005, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.103 — Venta de combustibles entre estaciones de servicio
 
 El Ministerio de Minas y Energía reglamentará mediante acto administrativo de carácter general la comercialización de combustibles líquidos derivados del petróleo entre estaciones de servicio establecida en el numeral 9 del artículo 2.2.1.1.2.2.3.91 del presente decreto, cuando el mercado y la logística de distribución lo ameriten.
 
 (Decreto 4299 de 2005, art. 40; modificado por el Decreto 1333 del 2007, art. 26.)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.104 — 104
 
@@ -3495,8 +3667,6 @@ PARÁGRAFO . Para efectos de medir la competitividad aeroportuaria, el Ministeri
 
 (Decreto 2166 de 2006, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.105 — Concepto del Ministerio de Minas y Energía
 
 El Ministerio de Minas y Energía, mediante resolución motivada, emitirá semestralmente concepto favorable o desfavorable para que ECOPETROL S.A. decida autónomamente si otorga o no el descuento en el precio del combustible de aviación para motores tipo turbina (gasolina de aviación Jet A 1) producido en sus refinerías.
@@ -3504,8 +3674,6 @@ El Ministerio de Minas y Energía, mediante resolución motivada, emitirá semes
 Este concepto deberá emitirse durante los primeros veinticinco días calendario de los meses de enero y julio de cada año, con base en la información disponible en los doce meses anteriores.
 
 (Decreto 2166 de 2006, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.106 — Reporte de información
 
@@ -3515,8 +3683,6 @@ El Ministerio de Minas y Energía podrá revisar la validez y consistencia de la
 
 (Decreto 2166 de 2006, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.107 — Retención para el Fondo de Protección Solidaria, SOLDICOM
 
 La retención de que habla el artículo 8 de la Ley 26 de 1989, la harán en cada factura de venta los distribuidores mayoristas y los terceros que distribuyan gasolina motor corriente y/o extra a los distribuidores minoristas del país.
@@ -3524,8 +3690,6 @@ La retención de que habla el artículo 8 de la Ley 26 de 1989, la harán en cad
 PARÁGRAFO . El dinero recaudado deberá consignarse por los distribuidores mayoristas y los terceros, dentro de los cinco (5) primeros días del mes siguiente al que se haya efectuado el recaudo, a nombre del Fondo de Protección Solidaria, Soldicom, en la cuenta que para el efecto designe la Administradora del Fondo.
 
 Dentro del término señalado en el inciso anterior, los agentes recaudadores deberán entregar al Ministerio de Minas y Energía -Dirección de Hidrocarburos- y a la Administradora del Fondo, la información en la que conste el número de factura de venta, fecha, nombre del distribuidor minorista, ubicación, tipo de combustible vendido, volumen despachado en el mes anterior (galones/mes), monto recaudado. El Ministerio de Minas y Energía o el Fondo de Protección Solidaria, Soldicom, podrá verificar en cualquier momento las retenciones de que trata el presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.107.1 — De la Administración del Fondo de Protección Solidaría- SOLDICOM
 
@@ -3543,23 +3707,17 @@ PARÁGRAFO TRANSITORIO. Mientras el Ministerio de Minas y Energía establece e i
 
 (Decreto 3322 de 2006, art 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.108 — Sanciones al Incumplimientos de los preceptos normativos
 
 Los Distribuidores Mayoristas y los Terceros que no cumplan con las obligaciones señaladas en el presente decreto serán sancionados de conformidad con lo establecido en el artículo 3 de la Ley 26 de 1989, en concordancia con la sección sanciones, del presente Título
 
 (Decreto 3322 de 2006, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.109 — Pérdida por evaporación y merma por transporte
 
 Para los efectos del artículo 4 de la Ley 26 de 1989, la pérdida por evaporación y merma por transporte, manejo y trasiego de los combustibles entre la planta de abastecimiento y la estación de servicio, se fija en el 0.4% del precio de venta en planta de abasto mayorista en las diferentes zonas del país.
 
 (Decreto 3322 de 2006, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.110 — Certificado de conformidad
 
@@ -3568,8 +3726,6 @@ La planta de abastecimiento, la estación de servicio automotriz, fluvial, marí
 PARÁGRAFO TRANSITORIO. En el evento en que no exista organismo de certificación acreditado que otorgue los certificados de conformidad de las instalaciones señaladas en el presente artículo, la Dirección de Hidrocarburos del Ministerio de Minas y Energía revisará las mismas a fin de poder certificarlas, y las mismas tendrán validez por los periodos establecidos en la presente subsección.
 
 (Decreto 1333 de 2007, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.111 — Mezcla de combustibles
 
@@ -3587,8 +3743,6 @@ PARÁGRAFO . Los Ministerios de Minas y Energía y de Ambiente y Desarrollo Sost
 
 (Decreto 4892 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.112 — Ajustes en los parámetros de la gasolina básica
 
 Los Ministerios de Minas y Energía y de Ambiente y Desarrollo Sostenible, o quien haga sus veces, podrán solicitar ajustes en los parámetros de la gasolina básica a ser utilizada en las diferentes mezclas, en lo que al octanaje se refiere, con el fin de mejorar el desempeño de los vehículos con los nuevos combustibles.
@@ -3601,15 +3755,11 @@ PARÁGRAFO . El Ministerio de Minas y Energía, o quien haga sus veces, establec
 
 (Decreto 4892 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.113 — Competencia de los Ministerios para expedir reglamentación
 
 Los Ministerios de Minas y Energía, de Transporte, de Ambiente y Desarrollo Sostenible, de la Salud y de la Protección Social, o quien haga sus veces, dentro de sus competencias, expedirán la regulación aplicable a la producción, almacenamiento, transporte, distribución, infraestructura, uso, vigilancia y control de las mezclas aquí estipuladas, así como a las emisiones permitidas y demás controles ambientales y de salubridad pública.
 
 (Decreto 4892 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.114 — 114
 
@@ -3623,15 +3773,11 @@ Dentro de lo de sus competencias, los Ministerios de Transporte y de Comercio, I
 
 (Decreto 2629 de 2007, art. 1, Literal a), derogado por el Decreto 1135 de 2009, art. 6; Literal b), derogado por el Decreto 4892 de 2011, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.115 — Autoridades regulatorias
 
 Los Ministerios de Minas y Energía, de Transporte, de Ambiente, Vivienda y Desarrollo Territorial y de Protección Social, dentro de sus competencias, regularán la producción, transporte, distribución y uso, así como las emisiones permitidas y demás controles ambientales y de salubridad pública, para el uso de los biocombustibles E-20, B-10 y B-20 en las fechas establecidas.
 
 (Decreto 2629 de 2007, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.116 — Promoción de cultivos que generen alcoholes carburantes
 
@@ -3639,23 +3785,17 @@ El Ministerio de Agricultura y Desarrollo Rural promoverá el cultivo de plantac
 
 (Decreto 2629 de 2007, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.117 — Régimen de Transición
 
 Los procedimientos y actuaciones administrativas que versen sobre distribución de combustibles líquidos derivados del Petróleo en curso al 26 de diciembre de 2011; seguirán rigiéndose y culminarán de conformidad con la normatividad vigente al momento de la radicación.
 
 (Decreto 4915 de 2011, art. 3,)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3.118 — Mezclas de gasolina para efectos fiscales
 
 Para efectos fiscales la mezcla de gasolina motor, con alcohol carburante de que trata la Ley 693 de 2001, no se considera un proceso industrial o de producción.
 
 (Decreto 3862 de 2005, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.3.119 — Mezclas de Diesel para efectos fiscales
 
@@ -3667,15 +3807,11 @@ SUBSECCIÓN 2.4
 
 MARCACIÓN DE COMBUSTIBLES LÍQUIDOS DERIVADOS DEL PETRÓLEO.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.1 — Marcación de los combustibles
 
 Toda la gasolina motor y el ACPM que se almacene, maneje, transporte y distribuya en el territorio nacional deberán estar marcados.
 
 (Decreto 1503 de 2002, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.4.2 — Procedimiento para la marcación
 
@@ -3683,15 +3819,11 @@ Será responsabilidad de ECOPETROL S.A. o quien haga sus veces determinar el pro
 
 (Decreto 1503 de 2002, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.3 — Responsabilidad de la marcación de los combustibles
 
 Será responsabilidad de ECOPETROL S.A. o quien haga sus veces y de los importadores o refinadores locales, marcar toda la gasolina y el ACPM, ya sean importados o producidos en Colombia, ciñéndose estrictamente al procedimiento y al "Marcador", de conformidad con la presente subsección.
 
 (Decreto 1503 de 2002, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.4.4 — Tercerización de la marcación
 
@@ -3699,15 +3831,11 @@ ECOPETROL S.A. o quien haga sus veces podrá contratar la "Marcación" con terce
 
 (Decreto 1503 de 2002, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.5 — Lugar de adición del marcador
 
 ECOPETROL S.A. o quien haga sus veces deberá realizar la adición del "Marcador" en los puntos de entrega física del producto del poliducto a las plantas de abastecimiento de los distribuidores mayoristas y, en los muelles y llenaderos de refinería, en las ventas realizadas a distribuidores mayoristas, minoristas y grandes consumidores.
 
 (Decreto 1503 de 2002, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.4.6 — Marcación por parte de los refinadores e importadores
 
@@ -3715,23 +3843,17 @@ Los importadores o refinadores locales adicionarán el marcador que suministre E
 
 (Decreto 1503 de 2002, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.7 — Selección del 'marcador'
 
 ECOPETROL S.A. o quien haga sus veces, deberá seleccionar el "marcador" más conveniente desde el punto de vista técnico y tomará todas las precauciones manteniendo los controles necesarios para garantizar la seguridad y exclusividad del marcador, e igualmente podrá variar las características del mismo cuando lo estime necesario.
 
 (Decreto 1503 de 2002, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.8 — Reconocimiento de la marcación y detección en la estructura de precios de los combustibles
 
 El Ministerio de Minas y Energía reconocerá dentro de la estructura de precios de los combustibles un componente dedicado a la "marcación" y "detección" de los mismos, de tal forma que le permita a ECOPETROL S.A. o quien haga sus veces, a los refinadores locales y a los importadores, cumplir con las obligaciones establecidas en el presente decreto.
 
 (Decreto 1503 de 2002, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.4.9 — Obligaciones respecto de los distribuidores mayoristas respecto de los procesos de Marcación y Detección
 
@@ -3759,8 +3881,6 @@ PARÁGRAFO . Los transportadores, los grandes consumidores y los distribuidores 
 
 (Decreto 1503 de 2002, art. 10, modificado por el Decreto 3563 de 2003, art. 1).
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.10 — Obligaciones de la Empresa Colombiana de Petróleos respecto de los procesos de Marcación y Detección
 
 ECOPETROL S.A., está obligada a:
@@ -3773,23 +3893,17 @@ PARÁGRAFO . ECOPETROL S.A. o quien haga sus veces, podrá distribuir el "Detect
 
 (Decreto 1503 de 2002, art. 11, modificado por el Decreto 3563 de 2003, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.11 — Socialización del proceso de detección
 
 ECOPETROL S.A. o quien haga sus veces tendrá a su cargo la divulgación, capacitación y adecuada distribución del procedimiento de "Detección".
 
 (Decreto 1503 de 2002, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.4.12 — Prohibición de tenencia de combustibles que no hayan sido marcados
 
 Es obligación de todos los actores dedicados al almacenamiento, manejo, transporte y distribución de combustibles líquidos derivados del petróleo señalados por el artículo 2 de la Ley 39 de 1987, abstenerse de tener en su poder, a cualquier título, gasolina motor o ACPM que no hayan sido marcados debidamente, de acuerdo con la obligación que se indica en el artículo 2.2.1.1.2.2.4.1. del presente decreto.
 
 (Decreto 1503 de 2002, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.4.13 — Obligaciones del Ministerio de Minas y Energía
 
@@ -3812,8 +3926,6 @@ No obstante la delegación efectuada, en cualquier momento, el Ministerio de Min
 SUBSECCIÓN 2.5
 
 DEFINICIONES APLICABLES A LA DISTRIBUCIÓN DE COMBUSTIBLES LIQUIDOS DERIVADOS DEL PETRÓLEO EN ZONAS DE FRONTERA
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.5.1 — Definiciones
 
@@ -3855,8 +3967,6 @@ k) En el departamento Vaupés: Mitú, Pacoa, Taraira y Yavarate.
 
 (Decreto 2875 de 2001, art. 1, modificado por los Decretos 1730 de 2002, art. 1, 2970 de 2003, art. 1; 1037 de 2004, art 1; 3459 de 2004, art 1; 2484 de 2006, art.1; 1010 de 2007, art 1 y 1253 de 2002, art. 1.)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.5.2 — Cumplimiento de requisitos
 
 Para efectos de la certificación de estaciones de servicio, asignación de volúmenes máximos y ajuste y aprobación de los respectivos planes de abastecimiento de los municipios señalados en el artículo anterior, se deberá cumplir con lo dispuesto en los artículos 2.2.1.1.2.2.6.7 a 2.2.1.1.2.2.6.16., o las normas que lo modifiquen, adicionen o sustituyan.
@@ -3867,15 +3977,11 @@ SUBSECCIÓN 2.6
 
 DISTRIBUCIÓN DE COMBUSTIBLES LÍQUIDOS EN ZONAS DE FRONTERA.
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.1 — Importación en zonas de frontera
 
 La persona natural o jurídica interesada en importar combustibles líquidos derivados del petróleo para el consumo o distribución en zonas de frontera deberá cumplir con lo estipulado en la Ley 681 de 2001 y lo establecido en la presente subsección o en las normas que los modifiquen, adicionen o sustituyan.
 
 (Decreto 4299 de 2005, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.2 — Combustibles para el Departamento de la Guajira
 
@@ -3884,8 +3990,6 @@ La presente subsección aplicará únicamente para los combustibles líquidos de
 PARÁGRAFO . Quienes introduzcan combustibles líquidos derivados del petróleo provenientes de la República Bolivariana de Venezuela por sitios diferentes a los señalados por la Dirección de Impuestos y Aduanas Nacionales, DIAN o quienes vendan, almacenen o distribuyan los referidos combustibles en lugares diferentes a las plantas de abastecimiento, estarán incursos en los delitos tipificados en los artículos 70 a 74 de la Ley 788 de 2002, o las normas que modifiquen, adicionen o deroguen, sin perjuicio de las demás sanciones a que haya lugar.
 
 (Decreto 1980 de 2003, art. 1; modificado por el Decreto 3353 de 2004, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.3 — Función de distribución en el Departamento de La Guajira
 
@@ -3899,8 +4003,6 @@ PARÁGRAFO . Solamente de no ser posible la cesión a la cooperativa organizada 
 
 (Decreto 1980 de 2003, art 2, modificado por el decreto 3353 de 2004, art. 2; parágrafo 1 derogado por el decreto 2363 de 2006, art. 3 .)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.4 — Visto bueno del Ministerio de Minas y Energía para la distribución de combustibles en el Departamento de La Guajira
 
 El Ministerio de Minas y Energía, elaborará y aprobará un Plan de Abastecimiento de combustibles líquidos derivados del petróleo para cada uno de los municipios considerados como Zonas de Frontera en el departamento de La Guajira, en los términos señalados en el presente decreto. Dicho Plan que deberá consultar los cupos máximos de combustibles fijados para cada municipio por la Dirección de Hidrocarburos del mencionado Ministerio. Dentro de los cinco (5) días siguientes a la fecha de elaboración del referido Plan, se evaluará y, si es el caso, se realizarán los ajustes pertinentes. El Plan, se aprobará mediante resolución motivada y otorgará en ese mismo acto los vistos buenos para la distribución de combustibles en los municipios y corregimientos de Zona de Frontera.
@@ -3913,8 +4015,6 @@ Dentro de los tres (3) días siguientes a la ejecutoria de los actos administrat
 
 (Decreto 1980 de 2003, art.3; modificado por el artículo 3 del decreto 3353 de 2004, modificado por las Leyes 1430 de 2010, art. 1, y 1607 de 2012, art.1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.5 — Importación de combustibles hacia el Departamento de La Guajira
 
 El trámite para la importación de combustibles líquidos derivados del petróleo para el departamento de la Guajira se sujetará a las disposiciones del Decreto 2685 de 1999, salvo lo relacionado en el Capítulo 11, Título V, artículo 90 y siguientes.
@@ -3922,8 +4022,6 @@ El trámite para la importación de combustibles líquidos derivados del petról
 La Dirección de Impuestos y Aduanas Nacionales, DIAN, habilitará, mediante resolución motivada, los sitios para el ingreso de los referidos combustibles
 
 (Decreto 1980 de 2003; art. 4, modificado por el Decreto 3353 de 2004, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.6 — Responsabilidades y obligaciones de la cooperativa calificada como tercero en el Departamento de La Guajira
 
@@ -3938,8 +4036,6 @@ ARTÍCULO
 5. Las plantas de abastecimiento legalmente establecidas, que se encuentren localizadas en el área de influencia, que abastezcan estaciones de servicio ubicadas en municipios y corregimientos de Zonas de Frontera, deberán llevar un registro independiente para cada uno de los combustibles que se distribuyan allí, el cual deberá distinguir entre otros: Nombre de la estación de servicio y/o transportador, municipio, volumen retirado mensual, valor correspondiente a sobretasa. Este registro deberá ser informado mensualmente a la Dirección de Hidrocarburos del Ministerio de Minas y Energía, dentro de los cinco (5) días siguientes a la terminación del mes, so pena de hacerse acreedor a la imposición de las sanciones contempladas en la sección relativa a las sanciones del presente Título.
 
 (Decreto 1980 de 2003; art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.7 — Alcance de la función de distribución de combustibles liquidas derivados del petróleo
 
@@ -3999,8 +4095,6 @@ El volumen que distribuya la estación de servicio automotriz al gran consumidor
 
 (Decreto 386 de 2007, artículo 2, parágrafos 4 y 5 adicionados por el decreto 2776 de 2010, art. 1 "; la remisión que realiza el parágrafo 3 del presente art. a los decretos 2337 de 2004, modificado por los Decretos 4237 de 2004 y 2363 de 2006, 2338, 2339 y 2340 de 2004, modificado este último por los Decretos 4236 de 2004 y 2363 de 2006 y los tres anteriores por el Decreto 2363 de 2006).
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.8 — Aprobación de un Plan de Abastecimiento por parte del Ministerio de Minas y Energía
 
 Para el otorgamiento de la autorización de que trata el artículo 1 de la Ley 681 de 2001, modificada por el artículo 9 de la Ley 1430 de 2010 y el artículo 173 de la Ley 1607 de 2012, el Ministerio de Minas y Energía-Dirección de Hidrocarburos, elaborará y aprobará un plan de abastecimiento de combustibles líquidos derivados del petróleo para cada uno de los departamentos que cuenten con municipios definidos como zona frontera, para lo cual podrá consultar a los distribuidores mayoristas, minoristas y/o terceros interesados, sin que ello implique que tales conceptos sean de obligatorio recibo.
@@ -4022,8 +4116,6 @@ Si durante la vigencia de la autorización se presentaren cambios significativos
 PARÁGRAFO . Dentro de los tres (3) días siguientes a la ejecutoria de los actos administrativos que conceden la autorización de que trata el presente artículo, se deberá poner en conocimiento de las autoridades de control que considere pertinentes y especialmente de la Dirección de Impuestos y Aduanas Nacionales, DIAN, el plan de abastecimiento de combustibles líquidos derivados del petróleo para cada una de las zonas de frontera y sus correspondientes modificaciones.
 
 (Decreto 386 de 2007, art. 3),
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.9 — Volúmenes a distribuir en las zonas de frontera
 
@@ -4049,8 +4141,6 @@ Las estaciones de servicio que cumplan con las condiciones señaladas en el pres
 
 (Decreto 386 de 2007 art. 4; párrafo 3 modificado por el decreto 2776 de 2010, art. 5; Parágrafo adicionado por el Decreto 733 de 2008, art 2; este artículo tiene adiciones de parágrafos transitorios realizadas: por el artículo 1 del decreto 733 de 2008 y el artículo 2 del decreto 2776 de 2010.)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.10 — Certificación de estaciones de servicio y asignación de volúmenes máximos
 
 Los volúmenes asignados por el Ministerio de Minas y Energía, tendrán una vigencia de dos (2) años y serán fijados durante el primer trimestre del primer año del respectivo período.
@@ -4062,8 +4152,6 @@ Para el efecto, dicha información debe ser entregada en el Ministerio de Minas 
 El Ministerio de Minas y Energía-Dirección de Hidrocarburos, con base en dicha información analizará la relación de estaciones de servicio ubicadas en los municipios fronterizos que cumplen la totalidad de los requisitos establecidos en la normatividad vigente, con el fin de que sean objeto de la respectiva asignación.
 
 (Decreto 386 de 2007, en. 5), parágrafo transitorio derogados por el decreto 733 de 2008, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.11 — Reasignación de volúmenes máximos y sanciones
 
@@ -4083,8 +4171,6 @@ En todo caso, el Ministerio de Minas y Energía- Dirección de Hidrocarburos, cu
 
 (Decreto 386 de 2007, art. 6, parágrafo adicionado por el decreto 2776 de 2010, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.12 — Inclusión de nuevos municipios como zonas de frontera
 
 Una vez expedido el acto administrativo de inclusión del nuevo municipio fronterizo, las estaciones de servicio ubicadas en dichos entes territoriales, que se encuentren operando, deberán presentar ante el Ministerio de Minas y Energía-Dirección de Hidrocarburos, dentro de los veinte (20) días hábiles siguientes, el certificado de conformidad expedido con no más de cuatro (4) meses de antelación, por un organismo de certificación acreditado o aquel organismo que determine la Superintendencia de Industria y Comercio o quien haga sus veces, en el que conste que la misma cumple con la totalidad de requisitos establecidos en la normatividad vigente; así mismo, deberán presentar el Registro único Tributario, RUT.
@@ -4098,8 +4184,6 @@ Dentro de los cinco (5) días siguientes a la fecha de elaboración del referido
 Definida la primera asignación de volúmenes máximos, la dinámica sobre el particular se ajustará a las condiciones generales señaladas en este decreto.
 
 (Decreto 386 de 2007, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.13 — Transporte de combustibles
 
@@ -4127,8 +4211,6 @@ PARÁGRAFO . Para los efectos del transporte de combustibles hacia las zonas de 
 
 (Decreto 386 de 2007, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.14 — Aprobación y registro de terceros
 
 Los Terceros interesados en obtener autorización, para la distribución de combustibles líquidos derivados del petróleo en las zonas de frontera deberán contar con registro y aprobación previa por parte del Ministerio de Minas y Energía-Dirección de Hidrocarburos, para lo cual deberán presentar:
@@ -4148,8 +4230,6 @@ Las aprobaciones y registros de los terceros sólo aplicarán para las contratac
 PARÁGRAFO . Los terceros que operen en los departamentos de La Guajira, e regirán por lo dispuesto en las normas señaladas en el Parágrafo Tercero del artículo 2.2.1.1.2.2.6.7. del presente Decreto.
 
 (Decreto 386 de 2007, art. 9, modificado por la Ley 1430 de 2010, art. 9; modificado a su vez por la Ley 1607 de 2012, en. 176, parágrafo 2 derogado parcialmente por el decreto 1475 de 2014)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.15 — .15
 
@@ -4181,15 +4261,11 @@ PARÁGRAFO . El Ministerio de Minas y Energía, o la entidad competente, en los 
 
 (Decreto 386 de 2007, art. 10, modificado por el Decreto 2776 de 2010, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.16 — Estructura de precios de los combustibles en zonas de frontera
 
 El Ministerio de Minas y Energía definirá la estructura de precios de los combustibles en las zonas de frontera de acuerdo con los costos en los que incurra y la cadena de distribución que utilice.
 
 (Decreto 386 de 2007, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.17 — Futuros Establecimientos de Volúmenes Máximos
 
@@ -4197,15 +4273,11 @@ Los volúmenes máximos señalados en el artículo 2.2.1.1.2.2.6.9., permanecer�
 
 (Decreto 2776 de 2010, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.18 — Asignación de Volúmenes Máximos a Nuevas Estaciones de Servicio
 
 Autorizase al Ministerio de Minas y Energía-Dirección de Hidrocarburos para otorgar en cualquier momento volúmenes máximos a las estaciones de servicio que hayan quedado por fuera de la asignación general llevada a cabo en determinado año, incluidas las señaladas en el artículo 2.2.1.1.2.2.6.11 del presente Decreto, siempre y cuando obtengan el certificado de conformidad y hasta tanto se realice la nueva asignación general. Lo anterior, bajo la metodología general establecida en las normas vigentes y de ser el caso por encima del tope señalado para el respectivo municipio en el cual se encuentren las diferentes estaciones.
 
 (Decreto 2776 de 2010, art 4)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.19 — Asignación o Reasignación de Volúmenes Máximos en Condiciones Especiales
 
@@ -4213,15 +4285,11 @@ El Ministerio de Minas y Energía, a través de un acto general y con el debido 
 
 (Decreto 2776 de 2010, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.6.20 — Definición de Esquemas Especiales de Abastecimiento de Combustibles
 
 La Dirección de Hidrocarburos del Ministerio de Minas y Energía, con base en los planes de abastecimiento debidamente aprobados en los términos señalados en el Presente Decreto o en las normas que lo modifiquen o sustituyan, podrá diseñar esquemas especiales de abastecimiento de combustibles a los departamentos fronterizos.
 
 (Decreto 2776 de 2010, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6.21 — .21
 
@@ -4371,8 +4439,6 @@ SECCIÓN 1.
 
 PROPIEDAD DEL RECURSO
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1 — Registro de providencias
 
 Para los efectos del artículo 1 de la Ley 10 de 1961 y sin perjuicio del Registro de Instrumentos Públicos y Privados establecidos en el Código Civil, en la Secretaría del Ministerio de Minas y Petróleos se hará el registro de las sentencias y de todas las providencias administrativas que reconozcan y declaren definitivamente la propiedad privada del subsuelo petrolífero, y también de los actos y contratos que con posterioridad a dicho reconocimiento trasladen o muden el dominio de tal subsuelo, o le impongan gravámenes o limitaciones de cualquier naturaleza. Este registro se llevará en tres libros, debidamente foliados y rubricados en cada una de sus páginas con la firma del Secretario General, libros que tendrán las siguientes destinaciones:
@@ -4384,8 +4450,6 @@ Libro segundo. En él se anotarán, igualmente en orden de entrada, los reconoci
 Libro tercero. En este libro se inscribirán los actos y contratos que con posterioridad al reconocimiento de la propiedad privada del subsuelo petrolífero trasladen o muden el dominio del mismo o le impongan gravámenes o limitaciones de cualquier naturaleza.
 
 (Decreto 1348 de 1961, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2 — Características del registro
 
@@ -4405,15 +4469,11 @@ PARÁGRAFO . Con destino al Ministerio de Minas y Energía, el Procurador Genera
 
 (Decreto 1348 de 1961, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3 — Incumplimiento de la obligación de realizar el registro
 
 Las multas causadas por la renuencia en el cumplimiento de la obligación del registro, serán impuestas al propietario del subsuelo petrolífero, por el Ministerio de Minas y Energía a favor del Tesoro Nacional, mediante resolución motivada.
 
 (Decreto 1348 de 1961, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4 — Deslinde de zonas petrolíferas
 
@@ -4429,15 +4489,11 @@ En este caso, se seguirá el procedimiento establecido en la Ley 1563 de 2012.
 
 (Decreto 1348 de 1961, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.5 — Datos de carácter científico y técnico
 
 El Gobierno previo concepto de los organismos técnicos del Ministerio de Minas y Energía, señalará, por medio de resolución para cada rama de la industria petrolera, los datos de carácter científico, técnico, económico y estadístico que a su juicio deban presentar las personas a que se refiere el artículo 4 de la Ley 10 de 1961 y la época en que ha de cumplirse tal obligación. La violación de la reserva que sobre estos datos está obligado a guardar el Gobierno, será sancionada con la destitución inmediata del responsable, sin perjuicio de las sanciones penales a que hubiere lugar
 
 (Decreto 1348 de 1961, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.6 — Cima de la Cordillera Oriental
 
@@ -4445,23 +4501,17 @@ Se entiende por cima de la Cordillera Oriental, la línea de puntos más altos d
 
 (Decreto 1348 de 1961, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.7 — Mantenimiento de los bienes objeto de reversión
 
 A partir de los 20 años del período de explotación el concesionario deberá incluir, dentro de las inversiones previstas por el Código de Petróleos, las partidas necesarias para el mantenimiento de las instalaciones, equipos, bienes muebles e inmuebles, etc., objeto de reversión al Estado.
 
 (Decreto 1348 de 1961, art. 9ª)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.8 — Datos y documentos sobre actividades de exploración y explotación
 
 Los datos y documentos sobre actividades de exploración y explotación de que trata el artículo 28 del Código de Petróleos se entregarán al Ministerio antes del 1 de marzo siguiente al año calendario o parte del mismo a que se refieren. La memoria contendrá un informe documentado sobre la realización del programa de inversiones y actividades, de conformidad con las normas que dicte el Ministerio.
 
 (Decreto 1348 de 1961, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.9 — Prórroga del período de explotación
 
@@ -4487,8 +4537,6 @@ Para que el Gobierno pueda entrar a considerar la solicitud de prórroga del per
 
 (Decreto 1348 de 1961, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.10 — Aprobación de los documentos por parte del Ministerio
 
 Aprobados por el Ministerio de Minas y Energía los documentos anteriores para obtener la prórroga solicitada, el concesionario deberá demostrar los siguientes hechos:
@@ -4507,15 +4555,11 @@ La demarcación definitiva de los límites del área contratada que exige el art
 
 (Decreto 1348 de 1961, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.11 — Término para presentar la solicitud de prórroga
 
 Toda solicitud de prórroga deberá presentarse al Ministerio de Minas y Petróleos por lo menos sesenta (60) días antes de la fecha del vencimiento del período precedente. Si transcurridos sesenta días a partir de esta misma fecha, el Ministerio no hubiere dictado resolución definitiva al respecto, se considerará concedida la prórroga. Cuando el Ministerio considere necesario completar la documentación y pruebas de que tratan los artículos anteriores, este término solo se contratará a partir de la fecha en que el interesado cumpla lo ordenado al respecto.
 
 (Decreto 1348 de 1961 art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.12 — Disposiciones adicionales
 
@@ -4523,15 +4567,11 @@ Lo dispuesto en el inciso 4 del artículo 9 de la Ley 10 de 1961 es aplicable ta
 
 (Decreto 1348 de 1961 art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.13 — Obligación de suministrar información al Ministerio de Minas y Energía
 
 Toda persona que explore y explote petróleo conjuntamente con gas natural o gas únicamente, de propiedad privada o nacional, está en la obligación de Suministrar al Ministerio de Minas y Petróleos los datos de carácter científico, técnico y económico que a juicio del Ministerio sean necesarios para el estudio y control de la explotación técnica de petróleo y gas en el país, con el fin de evitar el desperdicio de tales recursos y asegurar su máxima recuperación final.
 
 (Decreto 1348 de 1961 art. 27)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.14 — Estimación de las reservas
 
@@ -4539,15 +4579,11 @@ Con el fin de conocer reservas y óptimas condiciones de producción, el Ministe
 
 (Decreto 1348 de 1961 art. 28)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.15 — Medición de los hidrocarburos
 
 Los hidrocarburos líquidos y gaseosos deberán separarse y medirse de acuerdo con los métodos que al efecto prescriba el Ministerio o, en su defecto, por los de uso corriente en la industria del petróleo.
 
 (Decreto 1348 de 1961 art. 29)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.16 — Límites de relaciones
 
@@ -4555,23 +4591,17 @@ La producción de los pozos no podrá efectuarse con relaciones perjudiciales de
 
 (Decreto 1348 de 1961 art. 30)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.17 — Clasificación y reclasificación de Yacimientos de Hidrocarburos
 
 El Ministerio podrá clasificar y reclasificar los yacimientos como de petróleo, gas o condensado, o los pozos como de petróleo, gas o condensado
 
 (Decreto 1348 de 1961 art. 31)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.18 — Límite de producción eficiente
 
 La producción de petróleo y de gas no podrá en ningún caso sobrepasar la rata máxima de producción eficiente según normas que dicte el Ministerio.
 
 (Decreto 1348 de 1961 art. 32)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.19 — Participaciones del Estado en la producción
 
@@ -4581,8 +4611,6 @@ Si no se efectuare la utilización industrial o comercial de que habla el inciso
 
 (Decreto 1348 de 1961 art. 33)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.20 — Liquidación de participaciones del Estado
 
 La Dirección de Hidrocarburos del Ministerio, al hacer la liquidación de las participaciones del Estado en las explotaciones correspondientes a contratos perfeccionados a partir de la vigencia de la Ley 10 de 1961, determinará el valor a cargo del respectivo explotador para atender al sostenimiento de becas de que trata el artículo 19 de la misma.
@@ -4591,15 +4619,11 @@ La suma liquidada se consignará mensualmente por el concesionario en el Fondo E
 
 (Decreto 1348 de 1961 art 38)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.21 — Liquidación de las participaciones y determinación de becas
 
 Las participaciones que en desarrollo del artículo 18 del Código de Petróleos, se establecen para las concesiones en explotación anteriores a la vigencia de la Ley 10 de 1961, continuarán rigiéndose por el Decreto 916 de 1959, y la determinación del número de becas, así como la liquidación del valor correspondiente, se hará por la Dirección de Hidrocarburos con destino al Fondo de que trata el artículo anterior.
 
 (Decreto 1348 de 1961 art 39)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.22 — Vigencia de la Ley 10 de 1961
 
@@ -4609,8 +4633,6 @@ PARÁGRAFO . Cuando contratos perfeccionados con anterioridad a la vigencia de l
 
 (Decreto 1348 de 1961 art. 62)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.23 — Propiedad de los yacimientos de Hidrocarburos
 
 De acuerdo con el artículo 332 de la Constitución Política y con los artículos 1 y 13 de la Ley 20 de 1969, todos los yacimientos de hidrocarburos pertenecen a la Nación. Se exceptúan de esta regla general los derechos constituidos a favor de terceros.
@@ -4618,8 +4640,6 @@ De acuerdo con el artículo 332 de la Constitución Política y con los artícul
 Dicha excepción, a partir del 22 de diciembre de 1969, sólo comprende las situaciones jurídicas subjetivas y concretas debidamente perfeccionadas y vinculadas a uno o varios yacimientos descubiertos Se entiende que únicamente reúnen tales requisitos las situaciones individuales creadas con anterioridad a la fecha citada, por un título específico de adjudicación de hidrocarburos como mina o por una sentencia definitiva, siempre que tales actos conserven su validez jurídica y que el 22 de diciembre de 1969 esas situaciones estuvieran vinculadas a uno o varios yacimientos descubiertos.
 
 (Decreto 1994 de 1989 Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.24 — Solicitud para obtener autorización de explotación
 
@@ -4639,15 +4659,11 @@ SECCIÓN 2
 
 CONTRIBUCIONES.
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Exenciones
 
 Para efectos de las exenciones establecidas en los artículos 2 y 3 de la Ley 681 del 2001, que modifican el parágrafo 1 del artículo 58 de la Ley 223 de 1995 y adicionan el artículo 118 de la Ley 488 de 1998, se entiende por combustibles utilizados en actividades de pesca el diésel marino utilizado tanto en la acuicultura de acuerdo con los lineamientos establezca el Ministerio de Agricultura y Desarrollo Rural, como en la pesca marina comercial definida en el artículo relativo a la clasificación de la pesca, Capítulo relativo al procedimiento para diferenciar los recursos pesqueros de los recursos hidrobiológicos y de la clasificación de la pesca del Decreto Reglamentario Único del Sector Agropecuario, Pesquero y de Desarrollo Rural,, o las normas que lo modifiquen, adicionen o deroguen; por combustibles utilizados en actividades de cabotaje, incluidos los remolcadores, el diésel marino utilizado en el transporte por vía marítima entre puertos localizados en las costas colombianas; y, por combustible utilizado en actividades marítimas desarrolladas por la Armada Nacional, el ACPM utilizado en desarrollo de las actividades expresamente contempladas en el artículo 2 del Decreto 1874 de 1979, o las normas que lo modifiquen, adicionen o deroguen.
 
 (Decreto 1505 de 2002, art. 1 "; modificado por el Decreto 4335 de 2004, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2 — Establecimiento de cupos de consumo
 
@@ -4717,23 +4733,17 @@ PARÁGRAFO . La UPME actualizará, mediante actos administrativos, los procedimi
 
 (Decreto 1505 de 2002 art. 2, modificado por el del Decreto 1891 de 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3 — Exclusiones
 
 Acorde con lo establecido en los artículos segundo y tercero de la Ley 681 del 2001, que modifican el parágrafo primero del artículo 58 de la Ley 223 de 1995, y adicionan el artículo 118 de la Ley 488 de 1998, se encuentra excluido del impuesto nacional y la sobretasa al ACPM, el electrocombustible (sic) utilizado para la generación eléctrica en zonas no interconectadas, definidas en los artículos 5 y 11 de la Ley 143 de 1994 como áreas geográficas en donde no se presta el servicio público de electricidad a través del sistema interconectado nacional. Así mismo están excluidos del impuesto nacional y la sobretasa el turbocombustible (sic) de aviación, las mezclas de tipo IFO utilizadas para el funcionamiento de grandes naves marítimas y las gasolinas tipo 100/130 utilizadas en aeronaves.
 
 (Decreto 1505 de 2002 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4 — Sobretasa a la gasolina
 
 Para efectos de la liquidación de la sobretasa a la gasolina generada por el consumo de nafta o cualquier otro combustible o líquido derivado del petróleo que pueda ser usado como carburante en motores diseñados para ser utilizados con gasolina, se tomará como base gravable el precio de referencia por galón publicado mensualmente por la UPME o quien haga sus veces, para el cálculo de la sobretasa a la gasolina motor extra. La base gravable para la liquidación de la sobretasa a la gasolina corriente y a la gasolina extra será la publicada mensualmente, acorde con lo establecido en el artículo 121 de la Ley 488 de 1998.
 
 (Decreto 1505 de 2002 art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.5 — Sobretasa al ACPM
 
@@ -4763,8 +4773,6 @@ Para efectos de aplicar el precio correspondiente a los combustibles exentos de 
 
 (Decreto 1505 de 2002 art. 5, Parágrafo 3 adicionado por el Decreto 4335 de 2004, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.6 — Obligación de reportar información
 
 Los responsables de declarar la sobretasa a la gasolina y/o la sobretasa al ACPM deberán remitir mensualmente dentro de los 20 primeros días calendario de cada mes a la Dirección de Apoyo Fiscal del Ministerio de Hacienda y Crédito Público o quien haga sus veces la relación de los galones facturados durante el mes anterior discriminados por entidad territorial y tipo de combustible. La Dirección de Apoyo Fiscal determinará el formato a utilizar para el registro de la información. El incumplimiento de tal obligación dará lugar a las sanciones establecidas en el artículo 651 del Estatuto Tributario.
@@ -4773,15 +4781,11 @@ Cuando con ocasión de modificaciones a las declaraciones de sobretasa a la gaso
 
 (Decreto 1505 de 2002 art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.7 — Declaraciones en cero
 
 Para efectos de determinar la obligación que tienen los productores, importadores y distribuidores mayoristas de presentar declaración de sobretasa a la gasolina ante las entidades territoriales donde tengan operación, se entenderá que tienen operación en aquella entidad territorial en la cual hayan facturado al menos una vez cualquier volumen de combustible durante los últimos cuatro períodos gravables. Para el caso de aquellas entidades territoriales que no tienen convenios de recaudo de las sobretasas con entidades financieras se entenderá que el responsable cumplió con su obligación si presenta o remite la declaración debidamente diligenciada por correo certificado dentro del plazo establecido para declarar y pagar a la entidad territorial. Para efectos de determinar la obligación que tienen los productores, importadores y distribuidores mayoristas de presentar declaración de sobretasa al ACPM ante la Nación, se entenderá que tienen operación cuando hayan facturado al menos una vez cualquier volumen de ACPM o sus homologados en cualquier entidad territorial durante los últimos cuatro períodos gravables.
 
 (Decreto 1505 de 2002 art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.8 — Compensaciones de sobretasa a la gasolina
 
@@ -4793,15 +4797,11 @@ PARÁGRAFO . En todo caso, las compensaciones autorizadas en este artículo se e
 
 (Decreto 1505 de 2002 art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.9 — Registro de cuentas para la consignación de las sobretasas
 
 Para efectos de la declaración y pago de la sobretasa a la gasolina las entidades territoriales deberán informar a los responsables un único número de cuenta en la cual consignar la respectiva sobretasa y deberá denominarse "Sobretasa a la Gasolina - seguida del nombre de la entidad territorial". Así mismo para la consignación de la participación a la que tienen derecho por concepto de sobretasa al ACPM los departamentos deberán informar a la Dirección de Apoyo Fiscal del Ministerio de Hacienda y Crédito Público o quien haga sus veces un único número de cuenta en la cual consignar tal participación y deberá denominarse "Sobretasa al ACPM - seguida del nombre del Departamento". Cualquier modificación en el número de cuenta informado por la entidad territorial deberá comunicarse por escrito por el Alcalde, Gobernador o Secretario de Hacienda Municipal o Departamental o quien haga sus veces en la entidad territorial, y se tomará en cuenta para la consignación y/o pago del período gravable en curso. En todo caso, la entidad territorial sólo podrá efectuar hasta tres cambios de cuenta durante un año calendario.
 
 (Decreto 1505 de 2002 art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.10 — Responsables en zonas de fronteras
 
@@ -4811,15 +4811,11 @@ Impuesto global a la gasolina y al ACPM
 
 (Decreto 1505 de 2002 art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.11 — Hecho generador
 
 El impuesto nacional a la gasolina y al ACPM, se genera por la venta, retiro o importación de gasolina corriente, extra, ACPM o de cualquiera de los productos homologados en el artículo segundo de la Ley 681 de 2001.
 
 (Decreto 1505 de 2002 art. 11)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.12 — Causación
 
@@ -4833,23 +4829,17 @@ c) En las importaciones, en la fecha en que se nacionalice la gasolina, el ACPM 
 
 (Decreto 1505 de 2002 art. 12)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.13 — Causación en única etapa
 
 El impuesto nacional a la gasolina, al ACPM y los productos asimilados u homologados a estos se causa en una sola etapa respecto del hecho generador que ocurra primero, venta, retiro o importación.
 
 (Decreto 1505 de 2002 art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.14 — Impuesto nacional a la gasolina
 
 Para efectos de la liquidación del impuesto nacional a la gasolina generado por el consumo de nafta o cualquier otro combustible o líquido derivado del petróleo que pueda ser usado como carburante en motores diseñados para ser utilizados con gasolina, se tomarán como base gravable y tarifa las establecidas en el artículo sexto de la Ley 681 de 2001 para la gasolina motor extra. La base gravable para la liquidación del impuesto global sobre la gasolina corriente y extra, será la establecida en el artículo sexto de la Ley 681 de 2001, para cada tipo de combustible
 
 (Decreto 1505 de 2002 art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.15 — Exenciones del Impuesto nacional al ACPM
 
@@ -4859,23 +4849,17 @@ Para efectos de aplicar el precio correspondiente a los combustibles exentos de 
 
 (Decreto 1505 de 2002, art. 15, modificado por el Decreto 4335 de 2004, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.16 — Responsables
 
 Son responsables del impuesto los productores y los importadores, respecto de los combustibles sometidos al tributo.
 
 (Decreto 1505 de 2002, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.17 — Exclusión del impuesto sobre las ventas
 
 El valor del impuesto nacional a la gasolina y el ACPM se involucrará dentro del valor de venta de los combustibles, pero en ningún caso se tomará en cuenta para liquidar el impuesto sobre las ventas.
 
 (Decreto 1505 de 2002, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.18 — Obligaciones tributarias de los importadores
 
@@ -4889,8 +4873,6 @@ El impuesto sobre las ventas pagado por el importador constituye impuesto descon
 
 (Decreto 1505 de 2002, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.19 — Consignación del impuesto global
 
 Los productores e importadores responsables del impuesto nacional a la gasolina y al ACPM, deben consignarlo dentro de los 20 primeros días calendario, del mes siguiente a aquel en que se recaudó el impuesto, a favor de la Dirección General del Tesoro Nacional del Ministerio de Hacienda y Crédito Público o quien haga sus veces, en la cuenta abierta para el efecto.
@@ -4901,15 +4883,11 @@ PARÁGRAFO . Los distribuidores mayoristas de gasolina regular, extra, ACPM y pr
 
 (Decreto 1505 de 2002, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.20 — Cobro del impuesto
 
 La no consignación del impuesto nacional a la gasolina y al ACPM a que se refiere el presente Decreto, dará lugar a su cobro coactivo a través del procedimiento administrativo de cobro, previsto en el Estatuto Tributario, para lo cual la Dirección General del Tesoro Nacional del Ministerio de Hacienda y Crédito Público deberá informar a la Subdirección de Cobranzas de la Dirección de Impuestos y Aduanas Nacionales o quien haga sus veces.
 
 (Decreto 1505 de 2002, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.21 — Reporte de ventas de combustible exento
 
@@ -4924,8 +4902,6 @@ PARÁGRAFO . Los distribuidores mayoristas de combustibles líquidos derivados d
 SECCIÓN 3.
 
 PRESTACIÓN DE SERVICIOS Y LABORES PROPIAS DE LA INDUSTRIA.
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1 — Suministro de informes de nómina de las personas dedicadas a la industria del petróleo
 
@@ -4946,8 +4922,6 @@ f) Declaración del tipo de cambio utilizado para la liquidación de los honorar
 Para otorgar la autorización de que trata el inciso segundo del artículo 18 de la Ley 10 de 1961, y para la celebración de los convenios allí indicados, se requerirá el concepto previo del Ministerio de Minas y Energía, el cual calificará, en cada caso, el personal especializado en la rama o ramas de la industria del petróleo.
 
 (Decreto 1348 de 1961 artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2 — Empresas prestadoras de servicios inherentes al sector Hidrocarburos
 
@@ -5033,23 +5007,17 @@ PARÁGRAFO . En desarrollo de las actividades señaladas en este artículo, las 
 
 (Decreto 2058 de 1991, art. 1, numeral 6 adicionado por el Decreto 1629 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3 — Asimilación de servicios
 
 El Ministerio de Minas y Energía, podrá asimilar a los servicios enumerados en el artículo anterior otros que guarden especial relación o similitud con los mismos, de acuerdo con la tecnología especializada y exclusiva que se aplique en el sector de hidrocarburos.
 
 (Decreto 2058 de 1991, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.4 — Acreditación de la dedicación exclusiva
 
 Para acreditar la dedicación exclusiva de que trata el artículo 16 de la Ley 9 de 1991 y acogerse, por tanto, al tratamiento especial que señala dicho artículo, las empresas de servicios inherentes al sector de hidrocarburos deberán obtener del Ministerio de Minas y Energía la certificación sobre el particular, de acuerdo con la clasificación establecida en el artículo 2.2.1.2.3.2 de este Decreto, la cual deberá reflejarse en el objeto social respectivo.
 
 (Decreto 2058 de 1991, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.5 — Labores propias y esenciales de la industria
 
@@ -5083,23 +5051,17 @@ SECCIÓN 4.
 
 SANCIONES.
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.1 — Régimen sancionatorio en la distribución de combustibles líquidos y biocombustibles
 
 De conformidad con lo establecido en el artículo 25 de la Ley 1753 de 2015, los agentes de la cadena de distribución de combustibles líquidos y biocombustibles que transgredan las normas sobre el funcionamiento de ese servicio público o que incumplan las órdenes del Ministerio de Minas y Energía, serán objeto de imposición de las siguientes sanciones: a) multa entre diez (10) y dos mil (2000) salarios mínimos legales mensuales vigentes, b) suspensión del servicio entre diez (10) y noventa (90) días calendario y bloqueo del código Sicom, c) cancelación de la autorización y bloqueo del código Sicom, y, d) decomiso administrativo permanente.
 
 (Decreto 1172 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2 — Medidas preventivas
 
 El Ministerio de Minas y Energía o la autoridad en quien se delegue esta función, decretará la medida preventiva de suspensión de la actividad dentro del proceso sancionatorio mediante acto administrativo motivado, para lo cual procederá a bloquear el Código Sicom conforme lo dispone el parágrafo 1 del artículo 25 de la Ley 1753 de 2015.
 
 (Decreto 1172 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.3 — Procedencia de las medidas preventivas
 
@@ -5111,15 +5073,11 @@ La medida preventiva está dirigida a proteger, prevenir o impedir la ocurrencia
 
 (Decreto 1172 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.4 — Levantamiento de la medida preventiva
 
 La medida preventiva se levantará de oficio o a petición de parte cuando se compruebe que han desaparecido las causas que la originaron. En todo caso, la medida preventiva se levantará automáticamente si transcurrido un año desde la apertura del procedimiento sancionatorio, no se hubiera formulado pliego de cargos o su equivalente.
 
 (Decreto 1172 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.5 — Decomiso temporal
 
@@ -5129,23 +5087,17 @@ El Ministerio de Minas y Energía a través de la Dirección de Hidrocarburos en
 
 (Decreto 1172 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.6 — Régimen sancionatorio en el sector hidrocarburos
 
 Acorde con el artículo 26 de la Ley 1753 de 2015, el Ministerio de Minas y Energía podrá imponer administrativamente multas entre dos mil (2.000) y cien mil (100.000) salarios mínimos legales mensuales vigentes (smmlv) en cada caso, por el incumplimiento de las obligaciones que se establecen en el Código de Petróleos cuando el incumplimiento no deba producir caducidad de contratos o cancelación de permisos, o cuando se prefiera optar por esta sanción y no declarar la caducidad
 
 (Decreto 1172 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.7 — Procedimiento sancionatorio
 
 El procedimiento sancionatorio, tanto para el régimen señalado en el artículo 25 como para aquel contenido en el artículo 26 de la Ley 1753 de 2015, será el establecido en el Capítulo III del Título III de la Ley 1437 de 2011, en sus artículos 47, 48 y 49.
 
 (Decreto 1172 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.8 — Ponderación
 
@@ -5161,21 +5113,15 @@ CAPÍTULO 1.
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.2.1.1 — Ámbito de aplicación
 
 El Presente Título aplica a todos los Agentes e igualmente a todas las instituciones públicas y privadas relacionadas con el desarrollo de la actividad económica de gas natural.
 
 (Decreto 2100 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2 — Remisión al título de energía eléctrica
 
 Para los efectos de este Decreto y en relación con la liquidación, cobro, recaudo y manejo de las contribuciones de solidaridad y de los subsidios en materia de servicios públicos de energía eléctrica y gas combustible distribuido por red física; se aplicarán las disposiciones del Título III del presente Decreto
-
-ARTÍCULO
 
 ## art:2.2.2.1.3 — Siglas
 
@@ -5218,8 +5164,6 @@ SNT: Sistema Nacional de Transporte de Gas
 UPME: Unidad de Planeación Minero Energética.
 
 (Decreto 2100 de 2011, art 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4 — Definiciones
 
@@ -5539,8 +5483,6 @@ CAPÍTULO 2.
 
 ASEGURAMIENTO DEL ABASTECIMIENTO DE GAS NATURAL
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Prioridad en el abastecimiento de gas natural
 
 Cuando se presenten insalvables restricciones en la oferta de gas natural o situaciones de grave emergencia, no transitorias, originadas en la infraestructura de suministro, de transporte o de regasificación, que impidan la prestación continúa de! servicio, los productores come,cializadores, los agentes importadores, los comercializadores, los transportadores atenderán a la demanda en el siguiente orden de prioridad.
@@ -5571,8 +5513,6 @@ En e! evento en aue, de los contratos aquí señalados exista capacidad disponib
 
 ( Mod y Adiciona Art 3 del decreto 1467 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — 2.2
 
 Asignación de los volúmenes y/o capacidad de transporte de gas natural entre los agentes que tienen el mismo nivel de prioridad. (Derogado por el artículo 8 del decreto 2345 de 2015). Según el orden de prioridad dispuesto en el artículo anterior, fíjese el siguiente orden de atención entre los Agentes que tengan el mismo nivel de prioridad cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia, No Transitorias.
@@ -5592,8 +5532,6 @@ Asignación de los volúmenes y/o capacidad de transporte de gas natural entre l
 3.2.2 Se asignará, entre los Agentes que participan en la Demanda de Gas Natural Remanente, el volumen de gas y/o la capacidad de transporte, a prorrata entre las nominaciones correspondientes.
 
 (Decreto 880 de 2007, art 3)
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Orden de atención para condición crítica en el mercado mayorista de electricidad
 
@@ -5621,8 +5559,6 @@ PARÁGRAFO . Cuando la posible Condición Crítica en el Mercado Mayorista de El
 
 (Decreto 880 de 2007, art 4)
 
-ARTÍCULO
-
 ## art:2.2.2.2.4 — 2.4
 
 Orden de atención de la demanda de gas natural entre los agentes tratándose de Racionamiento programado de Gas Natural o de Energía Eléctrica. Cuando se trate de Racionamiento Programado de Gas Natural o de Energía Eléctrica, el Ministerio de Minas y Energía fijará el orden de atención de la demanda de gas natural entre los Agentes que tengan el mismo nivel de prioridad según lo dispuesto en el Artículo 2.2.2.2.1 del presente Decreto, teniendo en cuenta los efectos sobre la población, las necesidades de generación eléctrica, los contratos debidamente perfeccionados, así como todos aquellos criterios que permitan una solución equilibrada de las necesidades de consumo en la región o regiones afectadas.
@@ -5631,15 +5567,11 @@ PARÁGRAFO . El Ministro de Minas y Energía declarará el inicio y el cese del 
 
 (Decreto 880 de 2007, art. 5; modificado por el Decreto 4500 del 2009, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.2.5 — Nominaciones y renominaciones de suministro de gas y/o capacidad de transporte de cada Agente
 
 En orden a garantizar el cumplimento a lo establecido en este Decreto, a partir del 21 de marzo de 2007, las nominaciones y renominaciones de suministro de gas y/o capacidad de transporte de cada Agente deberán discriminarse entre eléctrica, no eléctrica y Mercado Secundario. Así mismo, las nominaciones de Mercado Secundario deberán identificar el Agente Reemplazante o Remitente Reemplazante, según el caso.
 
 (Decreto 880 de 2007, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.2.6 — 2.6
 
@@ -5647,23 +5579,17 @@ Declaración ante el Ministerio de Minas y Energía de los contratos de suminist
 
 (Decreto 880 de 2007, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.2.2.7 — 2.7
 
 Declaración ante el Ministerio de Minas de los contratos de suministro de gas natural entre Comercializadores y Productores- Comercializadores. Los Comercializadores que tengan contratos de suministro de gas natural con Productores-Comercializadores, deberán declarar al Ministerio de Minas y Energía, con copia a los Productores-Comercializadores con quien tengan suscritos sus contratos, dentro del primer mes de cada semestre del año, el volumen destinado a atender la demanda de los usuarios residenciales y pequeños usuarios comerciales de los Distribuidores - Comercializadores que atiendan, así como los volúmenes de gas natural demandados por los comercializadores de GNCV que atiendan.
 
 (Decreto 880 de 2007, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.2.2.8 — 2.8
 
 Recomendación del Consejo Nacional de Operación de Gas -CNO gas en cuanto a protocolos de procedimiento y de suministro de información en restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia. El Consejo Nacional de Operación de Gas -CNO Gas- recomendará al Ministerio de Minas y Energía, para su adopción mediante acto administrativo, los protocolos de procedimiento y de suministro de información que se requieran para asegurar la coordinación eficiente y efectiva de los Agentes cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia, No Transitorias, o Racionamiento Programado, para el cabal cumplimiento de lo previsto en este Decreto. Estos protocolos de procedimiento y de suministro de información serán de obligatorio cumplimiento para todos los Agentes.
 
 (Decreto 880 de 2007, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.2.9 — Responsabilidad de priorizar el volumen y/o la capacidad de transporte de gas natural
 
@@ -5672,8 +5598,6 @@ Es responsabilidad de los Productores- Comercializadores, Comercializadores y de
 De igual manera, los Distribuidores-Comercializadores y los Comercializadores que participan en el Mercado Secundario, serán responsables de la asignación de los volúmenes de gas natural entre los usuarios de los mercados relevantes que atiendan, cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia, No Transitorias, incluyendo las de Racionamiento Programado.
 
 (Decreto 880 de 2007, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.2.10 — Obligación de suministro de información
 
@@ -5701,8 +5625,6 @@ PARÁGRAFO . Las publicaciones a que hace referencia este artículo, serán real
 
 (Decreto 880 de 2007, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.2.11 — Medidas contractuales y operativas necesarias para atención de usuarios residenciales
 
 Los Distribuidores-Comercializadores que atiendan usuarios residenciales tomarán todas las medidas contractuales y operativas necesarias, para garantizar que cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia, No Transitorias, incluyendo las de Racionamiento Programado de Gas Natural, no se comprometa la seguridad de las personas, los inmuebles y las instalaciones de dichos usuarios.
@@ -5713,15 +5635,11 @@ Medidas para mitigar los efectos sobre la población cuando se presenten Insalva
 
 (Decreto 880 de 2007, art 13)
 
-ARTÍCULO
-
 ## art:2.2.2.2.12 — Medidas necesarias para que no se generen por negligencia, Racionamientos de Gas Natural o de Energía Eléctrica
 
 Los Productores-Comercializadores, los Transportadores, los Comercializadores y los Distribuidores-Comercializadores de gas natural y las empresas generadoras de electricidad a base de gas natural, en cumplimiento de las normas vigentes, tomarán todas las medidas necesarias para que, aún frente a las situaciones a que se refiere el presente Decreto, no se generen, por su negligencia, Racionamientos de Gas Natural o de Energía Eléctrica.
 
 (Decreto 880 de 2007, art 14)
-
-ARTÍCULO
 
 ## art:2.2.2.2.13 — .13
 
@@ -5729,15 +5647,11 @@ Medidas para evitar conductas de los Agentes que puedan producir Insalvables Res
 
 (Decreto 880 de 2007, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.2.14 — Restricción de desvíos de gas que modifiquen la asignación del gas natural
 
 Cuando se trate de Insalvables Restricciones en la Oferta de Gas Natural, o Situaciones de Grave Emergencia, No Transitorias, o Racionamiento Programado de Gas Natural, los Transportadores no autorizarán desvíos de gas que modifiquen la asignación del gas natural de los Agentes que resulte de la aplicación de este Decreto.
 
 (Decreto 880 de 2007, art 16)
-
-ARTÍCULO
 
 ## art:2.2.2.2.15 — Obligación de atención prioritaria
 
@@ -5746,8 +5660,6 @@ Los productores, los productores comercializadores, los comercializadores, los t
 PARÁGRAFO . Los Agentes Exportadores atenderán prioritariamente la demanda de gas natural para consumo interno cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia Transitorias y No Transitorias o Racionamiento Programado de gas natural de que tratan los artículos precedentes. Cuando para atender la demanda nacional de gas natural para consumo interno se deban suspender los compromisos de exportación con Respaldo Físico, las cantidades de gas objeto de interrupción se reconocerán al costo de oportunidad de que trata el artículo 2.2.2.2.39 de este Decreto.
 
 (Decreto 2100 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.2.16 — Demanda Esencial
 
@@ -5760,8 +5672,6 @@ PARÁGRAFO . La CREG, siguiendo los lineamientos establecidos en el artículo 2.
 PARÁGRAFO . Sin perjuicio de lo previsto en la Resolución CREG 100 de 2003 o aquella que la modifique o sustituya, la CREG definirá la metodología para determinar los costos a los que se refiere este artículo, los Agentes beneficiados y los mecanismos y procedimientos de pago.
 
 (Decreto 2100 de 2011, art 5)
-
-ARTÍCULO
 
 ## art:2.2.2.2.17 — Administración del Gas Natural de propiedad del Estado y de las participaciones de la ANH
 
@@ -5777,15 +5687,11 @@ Si este gas natural se destina para el consumo interno, se tendrán en cuenta lo
 
 (Decreto 2100 de 2011, art 6, modificado por el artículo 1 del Decreto 1372 de 2014)
 
-ARTÍCULO
-
 ## art:2.2.2.2.18 — Vigencia contractual
 
 Los contratos u operaciones de cualquier naturaleza a los que se refiere el artículo anterior y que se encontraban vigentes al 22 de julio de 2014, se seguirán ejecutando en los términos inicialmente acordados, pero en el evento de que se prorrogue su vigencia, dicha prórroga deberá sujetarse a lo previsto en este Decreto.
 
 (Decreto 1372 de 2014 en. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.2.19 — Certificación y publicación de las reservas
 
@@ -5795,8 +5701,6 @@ La ANH deberá publicar la información consolidada de Reservas de Gas Natural y
 
 (Decreto 2100 de 2011, art 7)
 
-ARTÍCULO
-
 ## art:2.2.2.2.20 — Consumo de gas natural por productores
 
 El productor o productor-comercializador declarará en los términos previstos en el artículo siguiente las cantidades diarias promedio mes de gas natural, medidas en GBTUD, de las que sea propietario y que sean destinadas para su propio consumo.
@@ -5804,8 +5708,6 @@ El productor o productor-comercializador declarará en los términos previstos e
 PARÁGRAFO . Si las cantidades de gas natural declaradas en este artículo llegaran a ser ofrecidas para la venta por el productor o por el productor-comercializador, total o parcialmente, estas se someterán a los mecanismos y procedimientos de comercialización de que trata el artículo 2.2.2.2.24 de este Decreto.
 
 (Decreto 2100 de 2011, art 8)
-
-ARTÍCULO
 
 ## art:2.2.2.2.21 — Declaración de producción
 
@@ -5835,23 +5737,17 @@ En el caso de que un comercializador de gas natural importado no cuente con CIDV
 
  (Adiciona Art 5 del decreto 1467 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.2.2.22 — Actualización de la declaración de producción
 
 Todos los productores, los productores-comercializadores de gas natural y los comercializadores de gas importado obligados a declarar conforme a lo previsto en el presente Decreto, deberán actualizar su declaración exponiendo y documentando las razones que la justifican, por variación en la información disponible al momento de la declaración y/o inmediatamente se surta un procedimiento de comercialización, conforme a lo previsto en este Decreto.
 
 (Decreto 2100 de 2011, art 10)
 
-ARTÍCULO
-
 ## art:2.2.2.2.23 — Mecanismos y procedimientos de comercialización de la PTDV y de las CIDV
 
 La comercialización, total o parcial, de la PTDV y de las CIDV declaradas conforme a lo previsto en el artículo 2.2.2.2.22. del presente Decreto para la atención de la demanda de gas natural para consumo interno, se deberá realizar siguiendo los mecanismos y procedimientos de comercialización que establecerá la CREG en concordancia con los lineamientos previstos en este Decreto.
 
 (Decreto 2100 de 2011, art 11)
-
-ARTÍCULO
 
 ## art:2.2.2.2.24 — Excepciones a los mecanismos y procedimientos de Comercialización de la PTDV
 
@@ -5882,15 +5778,11 @@ PARÁGRAFO 4. Para la comercialización de capacidad de transporte del gas natur
 
 (Decreto 2100 de 2011, art 12)
 
-ARTÍCULO
-
 ## art:2.2.2.2.25 — Lineamientos para la expedición de los mecanismos y procedimientos de comercialización
 
 La CREG, en los mecanismos y procedimientos de comercialización que expida con base en lo previsto en el artículo 2.2.2.2.24. de este Decreto deberá promover la competencia, propiciar la formación de precios eficientes a través de procesos que reflejen el costo de oportunidad del recurso, considerando las diferentes variables que inciden en su formación, así como mitigar los efectos de la concentración del mercado y generar información oportuna y suficiente para los Agentes.
 
 (Decreto 2100 de 2011, art 13)
-
-ARTÍCULO
 
 ## art:2.2.2.2.26 — Condiciones mínimas de los contratos de suministro y de transporte
 
@@ -5900,8 +5792,6 @@ PARÁGRAFO . Los contratos de suministro y/o transporte que a 15 de junio de 201
 
 (Decreto 2100 de 2011, art 14)
 
-ARTÍCULO
-
 ## art:2.2.2.2.27 — Incentivos a la producción de gas proveniente de yacimientos no convencionales
 
 Los productores o productores- comercializadores de gas de yacimientos no convencionales podrán desarrollar directamente la actividad de generación termoeléctrica que utilice como fuente primaria el gas que produzcan, sujetándose íntegramente a la regulación vigente sobre esta actividad.
@@ -5910,7 +5800,7 @@ PARÁGRAFO ..EI MME, la ANH y la CREG, dentro de la órbita de sus competencias,
 
 (Decreto 2100 de 2011, art 15)
 
-ARTÍCULO
+## art:2.2.2.2.28 — 
 
 . 2.2.2.2.28. Plan de abastecimiento de gas natural. Con el objeto de identificar los proyectos necesarios para garantizar la seguridad de abastecimiento y la confiabilidad del servicio de gas natural, el Ministerio de Minas y Energía adoptará un plan de abastecimiento de gas natural para un periodo de diez (10) años, el cual tendrá en cuenta, entre otros, la información de que tratan los artículos 2.2.2.2.19, 2.2.2.2.20 y 2.2.2.2.21 y el parágrafo 1 del artículo 2.2.2.2.37 de este decreto, los costos de racionamiento y la información de las cantidades de gas importadas y/o exportadas. Este plan será adoptado a la brevedad y actualizado anualmente.
 
@@ -5923,8 +5813,6 @@ PARÁGRAFO 3. El plan de abastecimiento de gas natural podrá incluir las obras 
 (Adiciona Art 7 del decreto 1467 de 2024)
 
 (Decreto 2345 de 2015, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.2.29 — Inversiones del plan de abastecimiento de gas natural
 
@@ -5946,15 +5834,11 @@ PARÁGRAFO . La UPME será responsable de la aplicación de los mecanismos abier
 
 (Decreto 2345 de 2015, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.2.2.30 — Almacenamiento subterráneo en campos de hidrocarburos
 
 El MME y la ANH evaluarán conjuntamente la viabilidad de la utilización de campos de hidrocarburos con fines de almacenamiento de gas natural como alternativa para asegurar la confiabilidad del servicio público
 
 (Decreto 2100 de 2011, art 19)
-
-ARTÍCULO
 
 ## art:2.2.2.2.31 — Alcance de los servicios que prestará un gestor de los mecanismos de comercialización y de la información
 
@@ -5964,8 +5848,6 @@ PARÁGRAFO . La CREG seleccionará al gestor del mercado mediante un concurso su
 
 (Decreto 2100 de 2011 art 20, modificado por el Artículo 2 del Decreto 1710 de 2013)
 
-ARTÍCULO
-
 ## art:2.2.2.2.32 — Protocolos y Acuerdos Operativos
 
 Cuando la CREG lo solicite, el CNOG expedirá los Acuerdos y Protocolos Operativos que se requieran con el fin de establecer los procedimientos, definiciones y parámetros básicos que deben regir para: (i) la operación del SNT; (ii) la programación de mantenimientos y/o intervenciones a la infraestructura de suministro y transporte de gas natural, que impliquen suspensión o pongan en riesgo la continuidad del servicio público; y, (iii) la coordinación de los Agentes que utilicen el SNT cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia Transitorias y No Transitorias o Racionamiento Programado de gas natural de que tratan los artículos 2.2.2.2.1. a 2.2.2.2.15.
@@ -5973,8 +5855,6 @@ Cuando la CREG lo solicite, el CNOG expedirá los Acuerdos y Protocolos Operativ
 El CNOG, por su propia iniciativa, podrá someter a consideración de la CREG los Protocolos y Acuerdos operativos que considere necesarios para lograr una operación segura, confiable y económica del SNT. La CREG contará con noventa (90) días para pronunciarse y, si es pertinente, adoptarlo mediante acto administrativo.
 
 (Decreto 2100 de 2011, art.21)
-
-ARTÍCULO
 
 ## art:2.2.2.2.33 — Naturaleza de las exportaciones e importaciones de gas
 
@@ -5986,15 +5866,11 @@ PARÁGRAFO . La comercialización del gas importado con destino al servicio púb
 
 (Decreto 2100 de 2011, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.2.2.34 — Libertad de precios
 
 El precio del gas natural destinado a la importación o exportación será pactado libremente entre las partes: no obstante, si para realizar los respectivos suministros se utilizan tramos de gasoducto o gasoductos que hagan parte del SNT, este servicio se remunerará de acuerdo con los cargos aprobados por la CREG.
 
 (Decreto 2100 de 2011, art 23)
-
-ARTÍCULO
 
 ## art:2.2.2.2.35 — De las Interconexiones Internacionales de Gas Natural
 
@@ -6003,8 +5879,6 @@ Los Agentes Exportadores o Importadores podrán construir, administrar, operar y
 PARÁGRAFO . Si para realizar la exportación o importación de gas natural se utilizan tramos de gasoducto o gasoductos que hagan parte del SNT, deberá cumplirse respecto de dichos tramos de gasoductos o gasoductos con lo previsto en el Reglamento Único de Transporte - RUT.
 
 (Decreto 2100 de 2011, art 24)
-
-ARTÍCULO
 
 ## art:2.2.2.2.36 — Acceso a las Interconexiones Internacionales de Gas Natural
 
@@ -6015,8 +5889,6 @@ PARÁGRAFO . Las condiciones técnicas y económicas para el acceso a la Interco
 PARÁGRAFO . Cuando las partes no lleguen a un acuerdo sobre el acceso a dicha infraestructura el asunto se someterá a la decisión del MME o de la CREG, según sus competencias.
 
 (Decreto 2100 de 2011, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.2.2.37 — Libertad de Exportaciones de Gas
 
@@ -6030,8 +5902,6 @@ PARÁGRAFO . Mientras se mantengan las condiciones que den lugar a la limitació
 
 (Decreto 2100 de 2011, art 26)
 
-ARTÍCULO
-
 ## art:2.2.2.2.38 — Costo de oportunidad del gas natural de exportación objeto de interrupción
 
 Cuando para atender la demanda nacional de gas natural para consumo interno se deban suspender los compromisos en firme de exportación, a los productores y/o productores comercializadores se les reconocerá el costo de oportunidad del gas natural dejado de exportar. Las cantidades de gas natural de exportación que sean objeto de interrupción deberán ser adquiridas por los Agentes Operacionales que no hayan podido cumplir sus contratos de suministro y/o no cuenten con contratos Firmes o que Garantizan Firmeza y las requieran para la atención de su demanda. La anterior obligación no aplicará para los Agentes Operacionales que cuenten con contratos de suministro con firmeza condicionada a interrupción de exportaciones.
@@ -6040,15 +5910,11 @@ El costo de oportunidad del gas natural dejado de exportar será asumido por los
 
 (Decreto 2100 de 2011, art 27)
 
-ARTÍCULO
-
 ## art:2.2.2.2.39 — Obligación de información de exportaciones y de importaciones de gas natural
 
 Una vez perfeccionados los contratos de exportación y de importación, los Agentes respectivos enviarán copia al MME para su información. Cada vez que los contratos de exportación y/o de importación sean modificados se informará al MME adjuntando los documentos que den cuenta de tal modificación. Respecto de la información a que se refiere este artículo, el MME guardará la debida reserva sobre aquellos datos que, atendida su naturaleza, la requieran en defensa de los legítimos intereses de las partes en dichos contratos.
 
 (Decreto 2100 de 2011, art 28)
-
-ARTÍCULO
 
 ## art:2.2.2.2.40 — Acceso a la capacidad de la Infraestructura de Regasificación
 
@@ -6060,15 +5926,11 @@ PARÁGRAFO . Cuando las partes no lleguen a un acuerdo sobre el acceso, el asunt
 
 (Decreto 2100 de 2011, art 29)
 
-ARTÍCULO
-
 ## art:2.2.2.2.41 — Incentivos para la importación de gas natural
 
 La CREG podrá implementar mecanismos para incentivar la importación de gas natural con el fin de promover el abastecimiento de este energético.
 
 (Decreto 2100 de 2011, art 30)
-
-ARTÍCULO
 
 ## art:2.2.2.2.42 — Funcionamiento del mercado mayorista
 
@@ -6080,13 +5942,13 @@ b) Señalar la información que será declarada por los participantes del mercad
 
 (Decreto 1710 de 2013, art. 1)
 
-ARTÍCULO
+## art:2.2.2.2.43 — 
 
 . 2.2.2.2.43. Cálculo de los costos de racionamiento. Únicamente para fines estadísticos y de planeación del sector, la Unidad de Planeación Minero Energética, UPME, establecerá los costos de racionamiento, los cuales se calcularán por clase de usuario y varios periodos de duración. Estos cálculos se actualizarán anualmente y se mantendrán publicados en la página web de la mencionada entidad.
 
 (Decreto 2345 de 2015, art. 7)
 
-ARTÍCULO
+## art:2.2.2.2.44 — 
 
 . 2.2.2.2.44. Transparencia. La CREG expedirá la reglamentación necesaria para que la información de las asignaciones de gas natural y de capacidad de transporte a las que se refieren los parágrafos 1 y 2 del artículo 2.2.2.2.43 de este decreto se hagan públicas, de manera oportuna.
 
@@ -6106,8 +5968,6 @@ Una vez se realice la declaración de comercialidad o la puesta en servicio de l
 CAPÍTULO 3.
 
 TRANSPORTE DE GAS NATURAL
-
-ARTÍCULO
 
 ## art:2.2.2.3.1 — Conformación del Consejo Nacional de Operación de Gas Natural, CNO
 
@@ -6159,23 +6019,17 @@ PARÁGRAFO . En caso de que alguno de los representantes de los productores o de
 
 (Decreto 2225 de 2000, art. 2; parágrafo 5 Modificado por el Decreto 2282 De 2001, art. 2; Parágrafos 8 y 9 adicionados Por el Decreto 2282 De 2001, art. 3.)
 
-ARTÍCULO
-
 ## art:2.2.2.3.2 — Funciones del Consejo Nacional de Operación de Gas Natural, CNO
 
 Serán funciones del Consejo Nacional de Operación de Gas Natural, CNO, las contenidas en la Ley 401 de 1997, en el Decreto 1175 de 1999, la Resolución 071 del 3 de diciembre de 1999 de la CREG y demás normas que regulen la materia.
 
 (Decreto 2225 de 2000, art 3)
 
-ARTÍCULO
-
 ## art:2.2.2.3.3 — Quórum deliberatorio y decisorio
 
 El CON podrá deliberar con las dos terceras partes de sus miembros y sus decisiones deberán ser tomadas por mayoría que incluya el voto favorable de por lo menos dos (2) de los representantes de los productores, dos (2) de los representantes de los remitentes y dos (2) de los representantes de los transportadores. En caso de empate, el voto del representante del Ministro de Minas y Energía se contará doblemente.
 
 (Decreto 2225 de 2000, art 4; modificado por el Decreto 2282 de 2001, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.2.3.4 — Secretaría Técnica
 
@@ -6185,15 +6039,11 @@ PARÁGRAFO . El Ministerio de Minas y Energía no participará en la financiaci�
 
 (Decreto 2225 de 2000, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.3.5 — Definición de las participaciones
 
 La UPME con base en las cifras de producción, demanda, y capacidad del año inmediatamente anterior comprendido entre el 1 de enero y el 31 de diciembre, determinará la participación de los miembros representantes ante el Consejo Nacional de Operación de Gas Natural, CNO. Dicho estudio debe ser publicado antes del 1 de marzo del año en consideración. La nueva conformación del CNO iniciará sus atribuciones a partir del 30 de abril del año en consideración.
 
 (Decreto 2225 de 2000, art 7)
-
-ARTÍCULO
 
 ## art:2.2.2.3.6 — 3.6
 
@@ -6204,8 +6054,6 @@ Corresponde al Ministerio de Minas y Energía, antes de la autorización del ini
 PARÁGRAFO . Si el Transportador en las Interconexiones Internacionales decidiere encomendar la construcción, operación, administración y/o mantenimiento de dicha infraestructura a terceros que sean personas jurídicas extranjeras, a estas también les obliga lo previsto en este artículo.
 
 (Decreto 2400 de 2006, art 2)
-
-ARTÍCULO
 
 ## art:2.2.2.3.7 — Autorización del Ministerio de Minas y Energía para el Transportador en las Interconexiones Internacionales
 
@@ -6231,8 +6079,6 @@ PARÁGRAFO . El Ministerio de Minas y Energía sólo expedirá la resolución de
 
 (Decreto 2400 de 2006, art 3)
 
-ARTÍCULO
-
 ## art:2.2.2.3.8 — Acreditación del Transportador de Interconexiones Internacionales como Operador Idóneo
 
 El Transportador en Interconexiones Internacionales será considerado por el Ministerio de Minas y Energía como Operador Idóneo cuando acredite suficientemente: (í) su capacidad técnica en construcción, operación, administración y mantenimiento de infraestructura energética, principalmente en sistemas de transporte de hidrocarburos por duetos así como, (ii) su capacidad financiera para adelantar el proyecto.
@@ -6246,8 +6092,6 @@ Para efectos del presente parágrafo se entenderá que el Transportador en Inter
 PARÁGRAFO . Para acreditar la capacidad técnica, el Transportador en las interconexiones Internacionales deberá presentar las certificaciones expedidas por los auditores externos de todas y cada una de las sociedades respecto de las cuales invoque méritos. En estos certificados se deberá demostrar no sólo la capacidad técnica en construcción, operación, administración y mantenimiento de infraestructura energética, principalmente en sistemas de transporte de hidrocarburos por duetos sino también que se presenta la situación de control en los términos anteriormente definidos.
 
 (Decreto 2400 de 2006, art 4)
-
-ARTÍCULO
 
 ## art:2.2.2.3.9 — Termino para expedir autorización
 
@@ -6263,23 +6107,17 @@ Sí el Transportador en la Interconexión Internacional de Gas Natural decidiere
 
 (Decreto 2400 de 2006, art 5)
 
-ARTÍCULO
-
 ## art:2.2.2.3.10 — Oportunidad para acogerse a los beneficios de utilidad pública
 
 Sólo cuando el Ministerio de Minas y Energía autorice la construcción de la Interconexión Internacional de Gas Natural, el Transportador podrá acogerse a los beneficios de utilidad pública, de conformidad con lo dispuesto en el artículo 4 del Decreto 1056 de 1953, Código de Petróleos.
 
 (Decreto 2400 de 2006, art 6)
 
-ARTÍCULO
-
 ## art:2.2.2.3.11 — Inoponibilidad e Indemnización para propietarios de terrenos
 
 Ningún propietario de terrenos podrá oponerse a que se lleven a cabo en su propiedad los estudios a que haya lugar para la construcción de una Interconexión Internacional de Gas Natural, pero los Transportadores en dicha infraestructura deberán indemnizarlos de todos los perjuicios que puedan causarles con tales estudios.
 
 (Decreto 2400 de 2006, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.2.3.12 — .12
 
@@ -6289,15 +6127,11 @@ Antes de la fecha prevista para el inicio de la construcción de la Interconexi�
 
 (Decreto 2400 de 2006, art 8)
 
-ARTÍCULO
-
 ## art:2.2.2.3.13 — Termino de presentación de planos definitivos de ruta construcción de la Interconexión Internacional de Gas Natural
 
 Dentro de los tres (3) meses siguientes a la terminación de la construcción de la Interconexión Internacional de Gas Natural el Transportador y/o Productor deberá presentar al Ministerio de Minas y Energía, los planos definitivos de la ruta de que tratan los numerales 3.4 y 3.5 del artículo 2.2.2.3. 7. de este Decreto, con la correspondiente memoria técnica del proyecto, la cual debe incluir las especificaciones técnicas de la infraestructura, las aprobaciones de modificación de las licencias ambientales, cuando haya lugar a ello, así como la inversión efectivamente realizada para la ejecución del proyecto.
 
 (Decreto 2400 de 2006, art 9)
-
-ARTÍCULO
 
 ## art:2.2.2.3.14 — Obligaciones de los Transportadores y/o Productores
 
@@ -6315,23 +6149,17 @@ CAPÍTULO 4.
 
 DISTRIBUCIÓN.
 
-ARTÍCULO
-
 ## art:2.2.2.4.1 — Procedencia de la contratación
 
 Por motivos de interés social y con el propósito de que la cobertura del servicio público domiciliario de distribución de gas combustible por red se pueda extender a las personas de menores ingresos, el Ministerio de Minas y Energía, de conformidad con los artículos 40 y 174 de la Ley 142 de 1994, podrá contratar mediante invitación pública la distribución domiciliaria de gas combustible por red de tubería en un área geográfica, incorporando cláusulas de exclusividad, en la cual ninguna persona podrá prestar los mismos servicios, conforme con los criterios que por vía general adopte la Comisión de Regulación de Energía y Gas.
 
 (Decreto 1359 de 1996, art 1)
 
-ARTÍCULO
-
 ## art:2.2.2.4.2 — Objeto del contrato
 
 El contrato tiene por objeto asegurar que un concesionario por su cuenta y riesgo preste el servicio público domiciliario de distribución de algún tipo de gas combustible por red de tubería, en condiciones de exclusividad en el área concedida, incluyendo dentro de sus usuarios un número considerable y creciente de personas de menores ingresos.
 
 (Decreto 1359 de 1996, art 2)
-
-ARTÍCULO
 
 ## art:2.2.2.4.3 — Procesos previos al trámite
 
@@ -6341,23 +6169,17 @@ Una vez obtenido el pronunciamiento favorable de la Comisión de Regulación de 
 
 (Decreto 1359 de 1996, art 3)
 
-ARTÍCULO
-
 ## art:2.2.2.4.4 — Contenido de los avisos
 
 El aviso contendrá como mínimo : el área geográfica en la cual se concederá la prestación exclusiva del servicio, la duración de la exclusividad; la fecha y sitio donde se podrán adquirir los términos de referencia, su valor y el plazo para presentar las propuestas.
 
 (Decreto 1359 de 1996, art 4 )
 
-ARTÍCULO
-
 ## art:2.2.2.4.5 — Contenido de los términos de referencia
 
 El Ministerio de Minas y Energía elaborará los términos de referencia para la presentación de propuestas, los cuales contendrán como mínimo la información general sobre el área geográfica que se va a otorgar en concesión y, en forma clara, expresa y detallada, las condiciones técnicas mínimas que deberá reunir la prestación del servicio; la duración de la exclusividad; la obligación de los proponentes de incluir programas de masificación y extensión del servicio; los requisitos de elegibilidad de los proponentes relacionados con la capacidad legal financiera y de experiencia para la correspondiente actividad; la idoneidad de los proponentes para la celebración y ejecución del contrato y demás factores objetivos de evaluación de las propuestas; la minuta del contrato; las garantías y cauciones que habrán de presentarse con la oferta, señalando las bases y los porcentajes de las mismas; las inhabilidades se incompatibilidad es a que se refieren la Ley 80 de 1993 y la Ley 142 de 1994; la fecha límite para compra de los términos de referencia, y todas las demás circunstancias de tiempo, modo y lugar que se consideren indispensables para que el Ministerio de Minas y Energía realice la selección objetiva del contratista.
 
 (Decreto 1359 de 1996, art 5)
-
-ARTÍCULO
 
 ## art:2.2.2.4.6 — Audiencia de aclaración de los términos de referencia
 
@@ -6368,8 +6190,6 @@ De cada una de estas audiencias se levantará un acta sucinta en que conste qui�
 Si de estas reuniones se estima necesario por parte del Ministerio aclarar los términos de referencia, procederá a hacerlo mediante adendos, enviando por escrito las modificaciones a quienes hayan comprado términos de referencia y si lo considera necesario ampliará el término para la presentación de las propuestas.
 
 (Decreto 1359 de 1996, art 6)
-
-ARTÍCULO
 
 ## art:2.2.2.4.7 — Del contenido y presentación de las propuestas
 
@@ -6391,15 +6211,11 @@ Las compañías extranjeras, además, deberán someterse a cumplir con los requi
 
 (Decreto 1359 de 1996, art 7)
 
-ARTÍCULO
-
 ## art:2.2.2.4.8 — Término del proceso precontractual
 
 El Ministerio de Minas y Energía fijará en los términos de referencia los plazos para la presentación y evaluación de las propuestas. Estos términos podrán prorrogarse hasta por la mitad del inicialmente fijado, en el primer caso cuando lo soliciten más de la mitad de los proponentes y en ambos casos cuando a juicio del Ministerio de Minas y Energía sea necesario o conveniente.
 
 (Decreto 1359 de 1996, art 8)
-
-ARTÍCULO
 
 ## art:2.2.2.4.9 — Apertura de las propuestas
 
@@ -6409,8 +6225,6 @@ De dicha diligencia se levantará un acta que será suscrita por quienes intervi
 
 (Decreto 1359 de 1996, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.4.10 — Aclaraciones a las propuestas
 
 El Ministerio de Minas y Energía, podrá solicitar por escrito las aclaraciones o explicaciones que estime convenientes sobre las propuestas presentadas y para su respuesta fijará un plazo prudencial que se incluirá en los términos de referencia.
@@ -6419,23 +6233,17 @@ Las respuestas a las aclaraciones y explicaciones no podrán contener adiciones 
 
 (Decreto 1359 de 1996, art 10)
 
-ARTÍCULO
-
 ## art:2.2.2.4.11 — Comités evaluadores
 
 Las propuestas serán evaluadas por los comités evaluadores técnico, jurídico y económico que integre, mediante resolución el Ministro de Minas y Energía y tendrán a su cargo la evaluación económica, técnica y jurídica de las propuestas de acuerdo con la metodología establecida en los términos de referencia. Estos comités podrán contar con la asesoría externa de expertos en el objeto de la contratación. El comité podrá contar con la asesoría de los demás comités la presentación de un informe final, que contengan los fundamentos y resultados de la evaluación y las recomendaciones pertinentes.
 
 (Decreto 1359 de 1996, art 11)
 
-ARTÍCULO
-
 ## art:2.2.2.4.12 — Factores de evaluación
 
 La elegibilidad de los proponentes y la evaluación de las propuestas se basarán en los elementos objetivos que se terminen en los términos de referencia y de acuerdo con la metodología que se fije en los mismos.
 
 (Decreto 1359 de 1996, art 12)
-
-ARTÍCULO
 
 ## art:2.2.2.4.13 — Término para la evaluación
 
@@ -6445,15 +6253,11 @@ Vencido el término de evaluación, el informe final que contiene los fundamento
 
 (Decreto 1359 de 1996, art 13)
 
-ARTÍCULO
-
 ## art:2.2.2.4.14 — Empate en el proceso de calificación
 
 Se entenderá que hay empate total en el proceso de calificación cuando dos o más ofertas presenten un margen de diferencia que será definido en los términos de referencia. En caso de empate, este será dirimido con la metodología que se fije en los términos de referencia.
 
 (Decreto 1359 de 1996, art 14)
-
-ARTÍCULO
 
 ## art:2.2.2.4.15 — Adjudicación del contrato
 
@@ -6469,8 +6273,6 @@ En la eventualidad en que se presente solamente una propuesta, para efectos de s
 
 (Decreto 1359 de 1996, art 15)
 
-ARTÍCULO
-
 ## art:2.2.2.4.16 — Cláusulas del contrato
 
 Además de las estipulaciones relativas a la identificación de las partes, objeto, duración, en él se pactará como mínimo de manera clara y precisa las estipulaciones necesarias acerca de los siguientes puntos: determinación geográfica del área; obligaciones del concesionario y su remuneración; término de duración de la exclusividad compromisos de precios y ajustes de los mismos, estableciendo claramente las fórmulas tarifarías generales; cobertura; manejo de contribuciones y subsidios dentro del área; interventorías; restablecimiento del equilibrio contractual; plazos; aspectos sobre el régimen de ejecución del contrato referente a normas ambientales y permisos municipales; protección de personas y bienes; condiciones de extensión del servicio; planes de expansión; mantenimiento y renovación de obras y bienes; condiciones de prestación del servicio; indicadores de gestión; contratos con terceros; informes; garantías y, en general, las previsiones contractuales necesarias para garantizar la calidad de la prestación oportuna y eficiente del servicio.
@@ -6481,15 +6283,11 @@ Cuando por causa imputable al proponente favorecido el contrato no pueda suscrib
 
 (Decreto 1359 de 1996, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.2.4.17 — Perfeccionamiento y ejecución
 
 El contrato se entenderá perfeccionado con la firma del Ministro de Minas y Energía en nombre de la Nación y del concesionario y podrá comenzar su ejecución una vez se hayan pagado los derechos de publicación en el Diario Oficial, el impuesto de timbre y se encuentren aprobadas las garantías del contrato por parte del Ministerio de Minas y Energía.
 
 (Decreto 1359 de 1996, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.2.4.18 — Garantías
 
@@ -6497,15 +6295,11 @@ El Ministerio de Minas y Energía determinará lo relativo a las garantías del 
 
 (Decreto 1359 de 1996, art. 18)
 
-ARTÍCULO
-
 ## art:2.2.2.4.19 — Duración del contrato
 
 El término del contrato para prestar el servicio con exclusividad será el que se determine en cada caso particular en los términos de referencia y en el contrato, de conformidad con la ley.
 
 (Decreto 1359 de 1996, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.2.4.20 — Iniciación de la prestación del servicio
 
@@ -6513,23 +6307,17 @@ El contrato señalará la fecha de iniciación de la prestación del servicio. E
 
 (Decreto 1359 de 1996, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.2.4.21 — Expiración de la exclusividad
 
 Al expirar el término de exclusividad por la finalización del plazo contractual, el contratista podrá seguir prestando el servicio público de distribución domiciliaria de gas combustible sin exclusividad o podrá disponer de la infraestructura montada para el efecto.
 
 (Decreto 1359 de 1996, art. 21)
 
-ARTÍCULO
-
 ## art:2.2.2.4.22 — Vigilancia y control del contrato
 
 El Ministerio de Minas y Energía ejercerá la vigilancia y el control del desarrollo del contrato, sin perjuicio de las atribuciones conferidas por la ley a otras autoridades sobre el concesionario.
 
 (Decreto 1359 de 1996, art. 22)
-
-ARTÍCULO
 
 ## art:2.2.2.4.23 — Regulaciones proferidas en el proceso de selección del contratista
 
@@ -6538,8 +6326,6 @@ Cuando en el curso del proceso de selección de contratista y antes del vencimie
 Si el anterior evento ocurre después de presentadas las propuestas, el Ministerio de Minas y Energía podrá declarar desierta la invitación.
 
 (Decreto 1359 de 1996, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.2.4.24 — Demanda en las áreas de servicio exclusivo
 
@@ -6551,15 +6337,11 @@ CAPÍTULO 5.
 
 FONDO ESPECIAL CUOTA DE FOMENTO DE GAS NATURAL.
 
-ARTÍCULO
-
 ## art:2.2.2.5.1 — Naturaleza del Fondo Especial Cuota de Fomento de Gas Natural
 
 El Fondo Especial Cuota de Fomento de Gas Natural creado por el artículo 15 de la Ley 401 de 1997, modificado por las Leyes 887 de 2004, 1151 de 2007 y la Ley 1450 de 2011., es un fondo especial, sin personería jurídica, administrado y manejado por el Ministerio de Minas y Energía, el cual para efectos de dicha administración hace parte del Presupuesto de Ingresos y Gastos de la Nación - Ministerio de Minas y Energía con destinación específica de acuerdo con la ley, sujeto a las normas vigentes aplicables
 
 (Decreto 3531 de 2004, art. 2; modificado por el Decreto 1718 de 2008, art 2)
-
-ARTÍCULO
 
 ## art:2.2.2.5.2 — Recursos que conforman el Fondo Especial Cuota de Fomento
 
@@ -6575,15 +6357,11 @@ d) Los recursos provenientes de la remuneración vía tarifaría de la proporci�
 
 (Decreto 3531 de 2004 art 3; literales a) y d) modificados por el Decreto 1718 de 2008, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.5.3 — Naturaleza de los Recursos del Fondo Especial Cuota de Fomento
 
 Los recursos del Fondo Especial Cuota de Fomento son públicos, por lo tanto, quienes estén a cargo de su administración y/o recaudo serán patrimonialmente responsables por los mismos.
 
 (Decreto 3531 de 2004 art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.5.4 — Recaudo de la Cuota de Fomento
 
@@ -6595,15 +6373,11 @@ PARÁGRAFO . Si realizada la debida gestión de facturación y cobro de la Cuota
 
 (Decreto 3531 de 2004, art. 5; modificado por el Decreto 1718 de 2008, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.5.5 — Presentación de Informes de Recaudo
 
 Es deber de los recaudadores informar mensualmente al Administrador del Fondo Especial Cuota de Fomento acerca de los recaudos efectuados.
 
 (Decreto 3531 de 2004, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.2.5.6 — Administración del Fondo Especial Cuota de Fomento de Gas Natural
 
@@ -6618,8 +6392,6 @@ Los recursos y rendimientos provenientes del Fondo Especial Cuota de Fomento de 
 PARÁGRAFO . De conformidad con lo establecido en la Ley 887 de 2004 y en la Ley 1151 de 2007, el Ministerio de Minas y Energía recibirá como contraprestación por la administración del Fondo Especial Cuota de Fomento de Gas Natural un dos por ciento (2%) calculado sobre el recaudo de la cuota de fomento del año inmediatamente anterior, el cual se destinará a cubrir los gastos que genere la administración de dicho Fondo.
 
 (Decreto 3531 de 2004, art. 7; modificado por el Decreto 1718 de 2008, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.5.7 — Formulación de los proyectos
 
@@ -6647,15 +6419,11 @@ g) Pagos de tierras, ni bienes inmuebles, ni de servidumbres, ni ningún otro bi
 
 (Decreto 3531 de 2004, art. 8; parágrafo 3 modificado por el Decreto 1718 de 2008, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.2.5.8 — Evaluación de los Proyectos
 
 La Unidad de Planeación Minero-Energética, UPME, evaluará los proyectos de infraestructura sometidos a su consideración y emitirá concepto debidamente motivado sobre la elegibilidad de los mismos, teniendo en cuenta lo establecido en este Decreto.
 
 (Decreto 3531 de 2004, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.5.9 — Priorización de Proyectos Elegibles
 
@@ -6664,8 +6432,6 @@ La Unidad de Planeación Minero-Energética, UPME, establecerá el orden de prio
 PARÁGRAFO . La Unidad de Planeación Minero-Energética, UPME, realizará trimestralmente la priorización de proyectos elegibles y los presentará al Ministerio de Minas y Energía para su visto bueno.
 
 (Decreto 3531 de 2004, art 10)
-
-ARTÍCULO
 
 ## art:2.2.2.5.10 — Obligaciones del Evaluador
 
@@ -6683,15 +6449,11 @@ e) Enviar debidamente motivados al Ministerio de Minas y Energía, para su visto
 
 (Decreto 3531 de 2004, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.2.5.11 — Aprobación de la Cofinanciación de Proyectos
 
 El Administrador del Fondo Especial Cuota de Fomento, con base en el orden de prioridad de los proyectos elegibles establecido por la Unidad de Planeación Minero-Energética, UPME, aprobará las solicitudes de cofinanciación con sujeción a los parámetros establecidos en el artículo 2.2.2.5.14. del presente Decreto y ordenará el giro de los recursos.
 
 (Decreto 3531 de 2004, art 12)
-
-ARTÍCULO
 
 ## art:2.2.2.5.12 — Requisitos de Elegibilidad de Proyectos de Infraestructura
 
@@ -6717,8 +6479,6 @@ PARÁGRAFO . El monto máximo que se cofinanciará para cada conexión de usuari
 
 (Decreto 3531 de 2004, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.2.5.13 — Orden de Prioridad de los Proyectos de Infraestructura Elegibles
 
 La Unidad de Planeación Minero-Energética, UPME, establecerá un orden de prioridad de los proyectos de infraestructura elegibles, teniendo en cuenta los siguientes criterios:
@@ -6737,8 +6497,6 @@ PARÁGRAFO . La Unidad de Planeación Minero-Energética, UPME, definirá y adop
 
 (Decreto 3531 de 2004, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.2.5.14 — Parámetros para la Aprobación de Cofinanciación de Proyectos Elegibles
 
 Una vez le sea presentado el orden de prioridad de proyectos elegibles por parte de la Unidad de Planeación Minero Energética - UPME-, el Administrador del Fondo aprobará las solicitudes de cofinanciación, teniendo en cuenta los siguientes parámetros:
@@ -6752,8 +6510,6 @@ PARÁGRAFO . Aquellos proyectos a los que no se les apruebe la cofinanciación p
 PARÁGRAFO . Cuando la cofinanciación de un proyecto de infraestructura sea aprobada con base en un estudio de preinversión pagado directamente por una Entidad Territorial, se reembolsará con cargo a los recursos del Fondo hasta el 50% del valor del mismo, sin que en ningún caso la suma a reembolsar supere el equivalente a 60 salarios mínimos legales mensuales vigentes.
 
 (Decreto 3531 de 2004, art. 15, modificado por el Decreto 1718 de 2008, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2.5.15 — Obligaciones de los Solicitantes
 
@@ -6773,15 +6529,11 @@ PARÁGRAFO . Cuando el Administrador del Fondo tenga conocimiento de algún incu
 
 (Decreto 3531 de 2004, art. 16; numerales 3 y 4 modificados por el Decreto 1718 de 2008, art. 8.)
 
-ARTÍCULO
-
 ## art:2.2.2.5.16 — Aporte de los Recursos a la Prestación del Servicio Público
 
 Los recursos aprobados para cofinanciar los proyectos de infraestructura serán aportados a la Empresa de Servicios Públicos comprometida con el proyecto en los términos establecidos en el numeral 87.9 del artículo 87 de la Ley 142 de 1994 modificado por el artículo 143 de la Ley 1151 de 2007 y, con sujeción a dicha norma, el aporte deberá figurar en el presupuesto de la Nación ? Ministerio de Minas y Energía - Fondo Especial Cuota de Fomento de Gas Natural, si así lo establece el Estatuto Orgánico de Presupuesto
 
 (Decreto 3531 de 2004, art. 17; modificado por el Decreto 1718 de 2008, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.2.5.17 — Propiedad de la infraestructura
 
@@ -6793,15 +6545,11 @@ CAPÍTULO 6
 
 COMERCIALIZACIÓN DE GAS NATURAL.
 
-ARTÍCULO
-
 ## art:2.2.2.6.1 — Incorporación de Usuarios
 
 Una vez se determine que la actividad de Comercialización de Gas Natural desarrollada por los Productores y los Agentes Importadores es competida, los Comercializadores Entrantes a los mercados de comercialización deberán incorporar a su base de clientes un número mínimo de usuarios residenciales de forma tal que, anualmente, se equilibren en un 90%, los subsidios a los usuarios de los estratos socioeconómicos 1, 2 y 3 con las contribuciones de los Usuarios Regulados que serán atendidos por éstos. Lo anterior, sin perjuicio de lo establecido en la sección correspondiente a la "Liquidación, cobro, recaudo y manejo de las contribuciones de solidaridad y de los subsidios en materia de servicios públicos de energía eléctrica y gas combustible distribuido por red física, del Título III del presente Decreto.
 
 (Decreto 3429 de 2003, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.2.6.2 — Vigilancia y Control
 
@@ -6817,15 +6565,11 @@ SUBSECCIÓN 1.1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.1.1 — Objeto
 
 La presente sección tiene por objeto definir el esquema de vigilancia y control al que están sometidas las actividades relacionadas con el Gas Natural Comprimido para uso vehicular, GNCV.
 
 (Decreto 1605 de 2002, art 1)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.1.2 — Campo de Aplicación
 
@@ -6844,8 +6588,6 @@ El presente Decreto se aplica a las actividades que a continuación se relaciona
 6 Fabricación e importación de vehículos impulsados con GNCV.
 
 (Decreto 1605 de 2002, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.1.3 — Definiciones
 
@@ -6933,8 +6675,6 @@ Vehículo Automotor: Es todo vehículo provisto de un dispositivo mecánico de a
 
 (Decreto 1605 de 2002 art. 3)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.1.4 — Incentivos Comerciales para el Uso Del Gas Natura, Comprimido Vehicular
 
 Los productores, transportadores, distribuidores, comercializadores de gas natural y comercializadores de GNCV ofrecerán Condiciones Comerciales Especiales para beneficio de las personas que utilizan gas natural comprimido como combustible en vehículos automotores, absteniéndose de ejecutar cualquier actuación que pueda conducir a discriminación indebida o a trato preferente en perjuicio de otros.
@@ -6942,8 +6682,6 @@ Los productores, transportadores, distribuidores, comercializadores de gas natur
 Los comercializadores de GNCV velarán porque los incentivos obtenidos de los diferentes agentes de la cadena de gas lleguen hasta los usuarios finales del servicio.
 
 (Decreto 802 de 2004, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.1.5 — Incentivo tarifario en la regulación de la actividad de Distribución de gas natural por redes
 
@@ -6954,8 +6692,6 @@ En orden a impulsar la utilización del GNCV en los Sistemas de Transporte Terre
 SUBSECCIÓN 1.2
 
 REQUISITOS PARA INICIAR LA PRESENTACIÓN DEL SERVICIO
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.2.1 — Autorizaciones y Licencias
 
@@ -6969,8 +6705,6 @@ Las estaciones de servicio y talleres de conversión interesados en iniciar oper
 
 (Decreto 1605 de 2002 art 4)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.2.2 — Aviso a las diferentes autoridades
 
 Los interesados en iniciar la operación de estaciones de servicio y/o talleres de conversión deberán informarlo previamente al Ministerio competente y a la Superintendencia de Industria y Comercio, mediante comunicación escrita en la que indique localización, dirección y fecha a partir de la cual entrará en operación, anexando copia simple de las pólizas de seguros establecidas en el numeral 2 del artículo siguiente, según corresponda.
@@ -6980,8 +6714,6 @@ Los interesados en iniciar la operación de estaciones de servicio y/o talleres 
 SUBSECCIÓN 1.3.
 
 OBLIGACIONES
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.3.1 — Obligaciones de las Estaciones de Servicio y los Talleres de Conversión
 
@@ -7003,8 +6735,6 @@ SUBSECCIÓN 1.4.
 
 REQUISITOS TÉCNICOS Y VERIFICACIÓN DE LA CONFORMIDAD
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.4.1 — Expedición de Reglamentos Técnicos
 
 Los Ministerios competentes para reglamentar las diferentes actividades relacionadas con el gas natural comprimido para uso vehicular, expedirán los Reglamentos Técnicos respectivos y determinarán los requisitos obligatorios que deben cumplirse en cada una de ellas.
@@ -7013,15 +6743,11 @@ PARÁGRAFO . Hasta tanto no se expidan los Reglamentos Técnicos pertinentes, se
 
 (Decreto 1605 de 2002 art. 7, parágrafo ha perdido vigencia)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.4.2 — Procedimiento para verificar el cumplimiento de los requisitos técnicos
 
 Los oferentes de servicios y productos de GNCV deberán asegurar el cumplimiento de los requisitos, procedimientos, pruebas y ensayos establecidos en los Reglamentos Técnicos y deberán obtener los Certificados de Conformidad a que haya lugar, debidamente expedidos por un Organismo de Certificación Acreditado, conforme a lo dispuesto en los Títulos IV y V de la Circular Única de la Superintendencia de Industria y Comercio - Circular Externa 10 de 2001.
 
 (Decreto 1605 de 2002 art. 8)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.4.3 — Organismos de Certificación Acreditados
 
@@ -7029,15 +6755,11 @@ Los Organismos de Certificación Acreditados expedirán los certificados de conf
 
 (Decreto 1605 de 2002 art. 9)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.4.4 — Organismos de Inspección
 
 Los Organismos de Inspección Acreditados por la Superintendencia de Industria y Comercio o quien haga sus veces ejecutarán los servicios de inspección a nombre del Organismo de Certificación Acreditado que los solicite, quien será el único responsable ante la Superintendencia de Industria y Comercio. En lo pertinente, se aplicarán a estos organismos las disposiciones contenidas en el Decreto 2269 de 1993, el Decreto Reglamentario Único del Sector Comercio Industria y Turismo, en el Título V de la Circular única de la Superintendencia de Industria y Comercio -Circular Externa 10 de 2001- y las normas que modifiquen, aclaren, adicionen o reglamenten estas disposiciones.
 
 (Decreto 1605 de 2002 art. 10)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.4.5 — Vigilancia y Control de los Reglamentos Técnicos
 
@@ -7049,15 +6771,11 @@ SUBSECCIÓN 1.5.
 
 REGLAS SOBRE LIBRE COMPETENCIA
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.5.1 — Funciones de la Superintendencia de Industria y Comercio
 
 La Superintendencia de Industria y Comercio vigilará a las empresas con el fin de investigar y sancionar, si fuere del caso, las prácticas que puedan constituir restricciones indebidas a la libre competencia en los términos del Decreto 2153 de 1992, en particular los artículos 46 a 52, y las normas que lo complementen, modifiquen o adicionen. De conformidad con lo dispuesto en dicho Decreto los productores, transportadores, distribuidores y comercializadores de gas natural se abstendrán de cualquier actuación que pueda conducir a discriminar indebidamente o dar trato preferente a algunos comercializadores de gas natural comprimido vehicular en perjuicio de otros.
 
 (Decreto 1605 de 2002 art 12)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.5.2 — Publicidad de los precios del GNCV
 
@@ -7069,15 +6787,11 @@ SUBSECCIÓN 1.6.
 
 RÉGIMEN SANCIONATORIO
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.6.1 — Sanciones
 
 En el evento en que las estaciones de servicio y los talleres de conversión incumplan las obligaciones previstas en el artículo 2.2.2.6.1.1.3.1.del presente Decreto, les serán impuestas por las autoridades competentes para el efecto las sanciones previstas en los artículos subsiguientes.
 
 (Decreto 1605 de 2002 art. 14)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.6.2 — Sanciones Urbanísticas
 
@@ -7085,15 +6799,11 @@ Las Autoridades Distritales o Municipales aplicarán las sanciones establecidas 
 
 (Decreto 1605 de 2002 art. 15)
 
-ARTÍCULO
-
 ## art:2.2.2.6.1.1.6.3 — Sanciones Ambientales
 
 Las Autoridades Ambientales aplicarán las sanciones establecidas en la Ley 99 de 1993 y en las normas que la modifiquen, aclaren, adicionen o reglamenten, en lo que se refiere al incumplimiento de normas de protección ambiental.
 
 (Decreto 1605 de 2002 art. 16)
-
-ARTÍCULO
 
 ## art:2.2.2.6.1.1.6.4 — Sanciones por incumplimiento de los reglamentos técnicos
 
@@ -7221,8 +6931,6 @@ DEL ABASTECIMIENTO DE GAS LICUADO DEL PETRÓLEO, GLP
 
 (Capítulo adicionado por el Decreto 2251 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.7.1 — Del abastecimiento de GLP y la declaratoria de un racionamiento programado
 
 Con el fin gestionar y priorizar la asignación del GLP en períodos de escasez, el Ministerio Minas y Energía declarará el inicio de un periodo Racionamiento Programado cuando se prevea que en futuro la oferta del producto va a ser inferior a la demanda. En dicha declaración señalará la situación que la origina y el período duración esperado.
@@ -7345,8 +7053,6 @@ El incumplimiento de la normativa concerniente a los almacenamientos estratégic
 
 (Adicionado por el artículo 4 del Decreto 1310 de 2024)
 
-ARTÍCULO
-
 ## art:2.2.2.7.2 — Prioridad en el abastecimiento de GLP
 
 Una vez descontadas las cantidades mínimas de GLP requeridas para garantizar la continuidad operativa de las refinerías cuando se presente un Racionamiento Programado de GLP, los productores, los comercializadores y los transportadores asignarán el GLP, en el siguiente orden de prioridad:
@@ -7363,15 +7069,11 @@ Cuando para atender la demanda nacional de GLP para consumo interno se deban sus
 
 (Decreto 2251 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.7.3 — Cálculo de los costos de racionamiento
 
 Únicamente para fines estadísticos y de planeación del sector, la UPME establecerá los costos de racionamiento, los cuales se calcularán por clase de usuario y varios períodos de duración. Estos cálculos se actualizarán anualmente y se mantendrán publicados en la página web de la mencionada entidad.
 
 (Decreto 2251 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.7.4 — Remuneración a la producción de GLP
 
@@ -7381,15 +7083,11 @@ La CREG realizará los ajustes necesarios en la regulación vigente para aplicar
 
 (Decreto 2251 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.7.5 — Declaraciones de producción
 
 Los productores e importadores de GLP deberán declarar los valores históricos y esperados de su producción, importación, ventas, consumos propios y demás variables que señale el Ministerio de Minas y Energía mediante resolución, en los plazos y condiciones que este establezca.
 
 (Decreto 2251 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.2.7.6 — Plan de Continuidad
 
@@ -7403,25 +7101,17 @@ COSTOS DE LAS REDES INTERNAS Y OTROS GASTOS ASOCIADOS A LA CONEXIÓN DEL SERVICI
 
 (Capítulo adicionado por el Decreto 2140 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.8.1 — Objeto
 
 Reglamentar el artículo 211 de la Ley 1753 de 2015, en relación con la financiación con recursos del Sistema General de Regalías, de proyectos de masificación del uso del gas combustible, mediante el otorgamiento de subsidios a los costos de conexión domiciliaria a las redes internas y a otros gastos asociados a la conexión del servicio a cargo de los usuarios de los estratos 1 y 2, y de la población del sector rural que cumpla con las condiciones para recibir el subsidio de vivienda de interés social rural.
-
-ARTÍCULO
 
 ## art:2.2.2.8.2 — Costo de las instalaciones o redes internas de gas combustible por redes
 
 Para efectos del subsidio a que se refiere el presente capítulo, el costo de la instalación interna o red interna corresponde al definido en el numeral 14.16 del artículo 14 de la Ley 142 de 1994, el cual no incluye artefactos y no podrá exceder el costo del cargo por conexión regulado por la CREG, para el año que corresponda.
 
-ARTÍCULO
-
 ## art:2.2.2.8.3 — Otros gastos asociados a la conexión al servicio público de gas combustible por redes a cargo del usuario
 
 Para efectos del subsidio a que se refiere el presente capítulo, se entiende por "otros gastos asociados a la conexión del servicio público de gas combustible por red a cargo del usuario" el valor a pagar por la revisión previa de la instalación interna de gas, que corresponderá al valor incluido dentro del cargo máximo por conexión a usuarios residenciales regulado por la Comisión de Regulación de Energía y Gas, CREG.
-
-ARTÍCULO
 
 ## art:2.2.2.8.4 — Condición para otorgamiento del subsidio
 
@@ -7435,8 +7125,6 @@ Para otorgar el subsidio a los costos de conexión de redes internas y otros gas
 
 GESTIÓN DE LOS RECURSOS QUE LAS EMPRESAS PÚBLICAS, PRIVADAS O MIXTAS, DECIDAN APORTAR PARA EXTENDER EL USO DE GAS COMBUSTIBLE DISTRIBUIDO POR REDES A ZONAS QUE NO CUENTEN CON EL SERVICIO
 
-ARTÍCULO
-
 ## art:2.2.2.9.1 — Objeto
 
 Establecer los lineamientos generales para que el Ministerio de Minas y Energía dirija la forma en que se efectuarán los proyectos que tienen como fin extender el uso de gas combustible distribuido por redes a cabeceras municipales y/o centros poblados como veredas, corregimientos, caseríos y/o inspecciones de policía, que no cuenten con el respectivo servicio, con recursos que las empresas decidan aportar de manera voluntaria y gratuita.
@@ -7444,8 +7132,6 @@ Establecer los lineamientos generales para que el Ministerio de Minas y Energía
 PARÁGRAFO . Podrá ser aportante una empresa de economía mixta, privada o pública, o un grupo de empresas organizadas mediante alguna de las figuras asociativas de la Ley 80 de 1993.
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.2 — Requisitos y documentación para la presentación de la intención de financiar proyectos de infraestructura
 
@@ -7456,8 +7142,6 @@ La empresa aportante interesada en destinar recursos para ampliar la cobertura d
 PARÁGRAFO . La Unidad de Planeación Minero Energética -UPME podrá solicitar al interesado, las aclaraciones y justificaciones necesarias respecto de los documentos y la información presentada.
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.3 — 9.3
 
@@ -7476,8 +7160,6 @@ Una vez se cuente con esta información o a más tardar el día siguiente a aque
 PARÁGRAFO . Solo cuando se haya seleccionado la empresa de servicios públicos domiciliarios que construirá y operará la infraestructura de distribución de gas combustible objeto del proyecto, la empresa aportante trasladará los recursos a la correspondiente fiducia.
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.4 — Del contrato de fiducia mercantil
 
@@ -7505,8 +7187,6 @@ Sin embargo, si no es posible ceder la propiedad a la empresa de servicios públ
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.5 — Del contrato de gerencia del proyecto
 
 En el contrato suscrito entre la sociedad fiduciaria, en calidad de vocera y administradora del fideicomiso o patrimonio autónomo, y la gerencia del proyecto que seleccione la empresa aportante o la sociedad fiduciaria, la gerencia tendrá, por lo menos, las siguientes obligaciones:
@@ -7520,8 +7200,6 @@ En el contrato suscrito entre la sociedad fiduciaria, en calidad de vocera y adm
 4. Realizar las actividades que permitan el cierre y liquidación del proyecto a satisfacción.
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.6 — Obligaciones de la empresa de servicios públicos domiciliarios seleccionada
 
@@ -7561,23 +7239,17 @@ PARÁGRAFO 4. Ni el Ministerio de Minas y Energía ni la Unidad de Planeación M
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.7 — Gestión predial
 
 Los trámites correspondientes a la gestión predial para la expansión del servicio público de gas combustible por redes serán responsabilidad de la empresa de servicios públicos domiciliarios seleccionada, ya sea con recursos propios o con cargo a los recursos aportados para el proyecto, según la voluntad de la empresa aportante.
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.9.8 — Permisos y licencias
 
 Los trámites de permisos, licencias, certificaciones y demás autorizaciones que deban expedir las autoridades ambientales, municipales u otras entidades, estarán a cargo de la empresa de servicios públicos domiciliarios seleccionada, ya sea con recursos propios o con cargo a los recursos aportados para el proyecto, según la voluntad de la empresa aportante.
 
 (Adicionado por el Art. 1 del Decreto 1704 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.9.9 — Aprobación de la tarifa por parte de la Comisión de Regulación de Energía y Gas -CREG
 
@@ -7593,15 +7265,11 @@ CAPÍTULO 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Ámbito de Aplicación
 
 Este Título aplica a las actividades propias del servicio público domiciliario de energía eléctrica, así como a las actividades complementarias del mismo.
 
 (Decreto 387 de 2007 art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2 — Definiciones
 
@@ -7939,15 +7607,11 @@ SECCIÓN 1
 
 GENERACIÓN, TRANSMISIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN.
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1 — Funciones de la Comisión de Regulación de Energía y Gas
 
 La Comisión de Regulación de Energía y Gas ejercerá las funciones que señala el artículo 23 de la Ley 143 de 1994, en los términos previstos en dicha Ley y demás disposiciones concordantes.
 
 (Decreto 1524 de 1994, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.2 — Delegación de funciones
 
@@ -7955,15 +7619,11 @@ Sin perjuicio de lo dispuesto en el artículo anterior, delegase en la Comisión
 
 (Decreto 2253 de 1994, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.3 — Eximente de Responsabilidad
 
 La delegación de funciones a que se refiere esta sección exime de responsabilidad al Presidente de la República, la cual corresponderá exclusivamente a las Comisiones delegatarias, cuyos actos o resoluciones podrá siempre reformar o revocar el Presidente, reasumiendo la responsabilidad consiguiente.
 
 (Decreto 2253 de 1994, art.2)
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.4 — Adopción de medidas en situaciones extraordinarias
 
@@ -7987,8 +7647,6 @@ SECCIÓN 2
 
 POLÍTICAS Y DIRECTRICES RELACIONADAS CON EL ASEGURAMIENTO DE LA COBERTURA DEL SERVICIO DE ELECTRICIDAD
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1 — Conformación de Áreas de Distribución
 
 El Ministerio de Minas y Energía conformará Áreas de Distribución (ADD), sin perjuicio de que en ellas preste el servicio uno o más Operadores de Red. Para cada ADD, la CREG definirá Cargos por Uso únicos por Nivel de Tensión de suministro y hora del día. Adicionalmente la CREG podrá implementar diferentes opciones tarifarías para la remuneración de las redes de distribución, las cuales serán aplicables a todos los usuarios de cada ADD.
@@ -7999,15 +7657,11 @@ La CREG determinará los procedimientos aplicables para que se realice la asigna
 
 (Decreto 388 de 2007, art. 3 modificado por el Decreto 2492 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.2 — Políticas para la Remuneración de los Sistemas de Transmisión Regional (STR) y los Sistemas de Distribución Local (SDL)
 
 Para definir la base de las inversiones que será reconocida por el regulador a los Operadores de Red (OR), para efectos de la fijación de los cargos por uso, se incluirá la totalidad de la red que se encuentre en operación a la fecha que establezca la CREG. La CREG podrá excepcionalmente, reconocer activos por menor valor, si encuentra que no cumplen con criterios de eficiencia técnica. En estos casos, deberá exponer las razones para el reconocimiento del menor valor del activo. En todo caso la remuneración que apruebe la CREG deberá garantizar los requerimientos de reposición del activo, asegurando la continuidad en la prestación del servicio. Una vez se reconozca un activo en la base de inversiones, su inclusión se mantendrá en las revisiones tarifarías sucesivas, en tanto el activo continúe en servicio. En la definición de la base de las inversiones la CREG tendrá en cuenta las disposiciones establecidas en el Artículo 2.2.3.2.2.3.6. del presente decreto. (Modificado por el artículo 1 decreto 3451 de 2008).
 
 (Decreto 388 de 2007, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.3 — Políticas para la Expansión de los Sistemas de Transmisión Regional (STR) y los Sistemas de Distribución Local (SDL)
 
@@ -8027,21 +7681,15 @@ c) Para los SOL, el Operador de Red al cual se conecta un proyecto, sujeto al cu
 
 (Decreto 388 de 2007, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.4 — Determinación de Áreas de Distribución
 
 El Ministerio de Minas y Energía determinará las Áreas de Distribución, una vez la Comisión de Regulación de Energía y Gas CREG defina la nueva metodología de remuneración de la actividad de distribución incluyendo las fórmulas de cálculo de los cargos únicos por niveles de tensión y fije el procedimiento de distribución de los ingresos provenientes del recaudo del cargo único de los OR que operan en dichas Áreas y determine para los operadores de Red los cargos por uso.
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.5 — Cambio de Conexión entre Niveles de Tensión y Conexión y Acceso a Redes
 
 (Derogado por el Artículo 8 del Decreto 1623 de 2015). Con el fin de no afectar las condiciones de Conexión y Acceso de todos los usuarios que hacen uso del Sistema de Transmisión Nacional, los Sistemas de Transmisión Regional y/o los Sistemas de Distribución Local, la CREG definirá las condiciones técnicas objetivas que deberán cumplirse para que el cambio de conexión de un usuario a un nivel de tensión superior, sea posible y recomendable.
 
 (Decreto 388 de 2007, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.6 — Tratamiento de los activos de distribución financiados a través de recursos públicos
 
@@ -8055,8 +7703,6 @@ PARÁGRAFO . En aquellos casos en los cuales los OR, previa la expedición de es
 
 (Decreto 388 de 2007, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.7 — Barrios subnormales
 
 Los municipios son los responsables de la prestación directa del servicio público de energía eléctrica en los casos previstos en el artículo 6 de la Ley 142 de 1994. En consecuencia, previa solicitud de la alcaldía respectiva, los Operadores de Red deberán desarrollar los proyectos relacionados con la normalización del servicio en estos barrios, siempre que sea técnica, económica y financieramente factible.
@@ -8064,8 +7710,6 @@ Los municipios son los responsables de la prestación directa del servicio públ
 Si la respectiva alcaldía municipal o distrital, no manifiesta en forma expresa su solicitud para que el OR proceda a normalizar las redes de un barrio subnormal, o habiéndolo hecho, no ejecuta las acciones necesarias para que la normalización sea posible, la alcaldía municipal o distrital, será el prestador del servicio según lo dispone la ley.
 
 (Decreto 388 de 2007, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.8 — Esquemas diferenciales de Prestación del Servicio
 
@@ -8097,8 +7741,6 @@ La CREG para el ejercicio de la función delegada, deberá seguir los lineamient
 
 PARÁGRAFO . En todo caso, el régimen transitorio especial de que trata esta Sección, tendrá una duración máxima de hasta cinco (5) años, contados a partir de la firmeza de la o las resoluciones particulares a través de las cuales la -CREG apruebe cargos tarifarios particulares.
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.2 — 
 
 2.2.3.2.2.1.2- Lineamientos de aplicación transitoria para la definición del régimen tarifario de la actividad de distribución de energía eléctrica. La metodología y fórmulas transitorias para la actividad de distribución de energía eléctrica, aplicables al mercado atendido por la Electrificadora del Caribe S.A. E.S.P a la fecha de expedición de la Ley 1955 de 2019, tendrán como base las establecidas en la Resolución CREG 015 de 2018, con las particularidades que se deriven de los siguientes lineamientos:
@@ -8121,8 +7763,6 @@ Los cargos e ingresos que le sean aplicables a Electrificadora del Caribe S.A. E
 
 5) Tarifas aplicables. El operador o los operadores que atiendan el mercado de Electrificadora del Caribe S.A. E.S.P. a la fecha de expedición de la Ley 1955 de 2019, podrán presentar a la CREG para su aprobación, una opción tarifaria para permitir aplicación gradual de variaciones de tarifas al usuario final, para lo cual, en todo caso, se deberá tener en cuenta lo dispuesto por el inciso segundo del artículo 318 de la Ley 1955 de 2019.
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.3 — 1.3
 
 Lineamientos de aplicación transitoria para La definición del régimen tarifario de la actividad de comercialización de energía eléctrica
@@ -8143,8 +7783,6 @@ S.A. E.S.P. a la fecha de expedición de la Ley 1955 de 2019, puedan presentar a
 
 (Modificado por el Art. 1 del Decreto 1231 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.4 — 
 
 2.2.3.2.2.1.4 Programa de gestión con la Superintendencia de Servicios Públicos Domiciliarios para la prestación del servicio público domiciliario de energía en la región Caribe. De acuerdo con el numeral 11 del artículo 79 de la Ley 142 de 1994, la Superintendencia de Servicios Públicos Domiciliarios acordará un programa de gestión con Electrificadora del Caribe S.A. E.S.P. y/o con cualquier sociedad que se constituya en el marco de una solución empresarial que se adopte para garantizar la prestación del servicio público de energía en la región Caribe, con el fin de establecer la posibilidad de adelantar auditorias especiales, en particular, respecto del cumplimiento de las obligaciones de inversión, mejora de calidad del servicio y reducción de pérdidas de energía que le corresponden a él o los operadores.
@@ -8161,8 +7799,6 @@ PARÁGRAFO . En desarrollo del programa de gestión del que trata este artículo
 
 5) Hacer un seguimiento anual al cumplimiento del régimen transitorio especial en materia tarifaría, en términos de, entre otros, la mejora en la prestación del servicio, la satisfacción al cliente y la realización de inversiones, con el fin de efectuar las recomendaciones y evaluaciones a que hubiera lugar.
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.5 — Publicidad del proyecto y participación ciudadana
 
 Para la expedición del régimen transitorio especial de que trata el artículo 318 de la Ley 1955 de 2019, el cual deberá tener como base las condiciones establecidas en la Resolución CREG 015 de 2018, con las particularidades que se deriven de la aplicación de los lineamientos establecidos en el presente decreto, la CREG deberá observar las siguientes reglas especiales:
@@ -8177,23 +7813,17 @@ SECCIÓN 3.
 
 PROCEDIMIENTO PARA LA CONTRATACIÓN DE ÁREAS DE SERVICIO EXCLUSIVO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA EN LAS ZONAS NO INTERCONECTADAS
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.1 — Proceso de selección
 
 Para efectuar la selección del contratista, el Ministerio de Minas y Energía dará aplicación al procedimiento establecido en el Capítulo 4. Distribución del Título de Gas Natural. Los demás aspectos para el establecimiento de cada área de servicio exclusivo de energía eléctrica en las Zonas No Interconectadas, serán establecidos por el Ministerio de Minas y Energía.
 
 (Decreto 2220 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.2 — Asunción de competencias
 
 Una vez el Ministerio de Minas y Energía obtenga el pronunciamiento favorable de la Comisión de Regulación de Energía y Gas, asumirá las competencias a que aluden los artículos 5 y 7o de la Ley 142 de 1994 y 57 de la Ley 143 de 1994, para asignar la prestación de todas las actividades involucradas en el servicio público de energía eléctrica en las Zonas No Interconectadas.
 
 (Decreto 2220 de 2008, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.3 — Lineamientos tendientes a promover la gestión eficiente de la energía
 
@@ -8205,15 +7835,11 @@ PARÁGRAFO . Las tarifas horarias y demás opciones tarifarías solo aplicarán 
 
 (Decreto 2492 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.4 — Planes de Expansión
 
 En la elaboración del Plan Energético Nacional, el Plan de Expansión de Referencia y el Plan Indicativo de Expansión de Cobertura de Energía Eléctrica, la Unidad de Planeación Minero Energética, UPME, deberá considerar criterios de respuesta de la demanda.
 
 (Decreto 2492 de 2014, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.5 — Participación en el Mercado Mayorista
 
@@ -8247,8 +7873,6 @@ LINEAMIENTOS DE POLÍTICA ENERGÉTICA EN MATERIA DE
 
 AUTOGENERACIÓN, PRODUCCIÓN MARGINAL Y AUTOGENERACIÓN REMOTA
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.1 — 4.1
 
 Simetría en las condiciones de participación en el mercado mayorista entre los generadores y autogeneradores a gran escala. Al emitir la regulación para la entrega de excedentes al Sistema Interconectado Nacional (SIN), o para el consumo de energía desde el SIN por parte de los autogeneradores o por parte de los productores marginales, la Comisión de Regulación de Energía y Gas (CREG) asegurará que apliquen las mismas reglas, incluyendo las condiciones de conexión y demás trámites ante la Unidad de Planeación Minero Energética (UPME), comparables a los de una planta de generación con Capacidad Efectiva Neta similar en cuanto a la cantidad de energía que entrega a la red. Lo anterior abarca los derechos, costos y responsabilidades asignados en el reglamento de operación, reportes de información, condiciones de participación en el mercado mayorista, en el despacho central y en el esquema de cargo por confiabilidad, entre otros.
@@ -8259,8 +7883,6 @@ PARÁGRAFO 2. El Ministerio de Minas y Energía definirá las reglas para los au
 
 PARÁGRAFO 3. Dentro de los tres (3) meses siguientes a la publicación del presente decreto, la CREG analizará la pertinencia, evaluará y definirá la metodología para la aplicación o no de los cargos por concepto de CERE, FAZNI y/o de otros componentes adicionales establecidos en el mercado, cuando así corresponda. Estos cargos no aplicarán para los autoconsumos de los autogeneradores que utilicen o no las redes del SIN o de ZNI, o para la energía generada por productores marginales, que usen o no las redes del SIN o de ZNI, y que dicha energía sea usada para sí mismos o para una clientela compuesta principalmente por quienes tienen vinculación económica directa con ella o por sus socios o miembros, en sitios distintos a los de producción, o localmente, independientemente de su capacidad.
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.2 — Contrato de respaldo
 
 Los autogeneradores a gran escala y los productores marginales deberán suscribir un contrato de respaldo con el operador de red o el transportador al cual se conecten. Este contrato será diseñado por los óperadores de red o por los transportadores, según corresponda y serán contratos tipo y deberán publicarse en las páginas web de las respectivas empresas. Los autogeneradores a pequeña escala podrán suscribir contrato de respaldo con el operador de red o el transportador al cual se conecten, en los términos que para ello defina la CREG.
@@ -8268,8 +7890,6 @@ Los autogeneradores a gran escala y los productores marginales deberán suscribi
 Dentro de los tres (3) meses siguientes a la publicación del presente decreto, la CREG emitirá los lineamientos e indicará el contenido mínimo que se tendrán en cuenta para el diseño de estos contratos tipo, y establecerá una metodología para calcular los valores máximos permitidos para remunerar la disponibilidad de respaldo en la distribución y en la transmisión en el SIN.
 
 Para los autogeneradores a pequeña escala aplicarán las medidas dispuestas en la Sección 4B del Capítulo 2, Título III Sector de Energía Eléctrica, Parte 2, Libro 2 del Decreto 1073 de 2015.
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.3 — Parámetros para ser considerado autogenerador o productor marginal
 
@@ -8284,8 +7904,6 @@ Para ser considerado autogenerador o productor marginal de energía eléctrica s
 4. El autogenerador a gran escala o el productor marginal a gran escala deberá ser representado ante el mercado mayorista por un agente comercializador o por un agente generador.
 
 5. Los activos de generación pueden ser propiedad de la persona natural o jurídica o de terceros, y la operación de dichos activos puede ser desarrollada por la misma persona natural o jurídica o por terceros.
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.4 — Simetría en las condiciones que aplican a los usuarios del Sistema
 
@@ -8307,19 +7925,13 @@ LINEAMIENTOS DE POLÍTICA ENERGÉTICA EN MATERIA DE GESTIÓN EFICIENTE DE LA ENE
 
 (Sección adicionada por el Decreto 348 de 2017 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.5 — Ámbito de aplicación
 
 - Esta sección aplica al Sistema Energético Nacional y a las áreas de servicio exclusivo. Para las áreas de servicio exclusivo que se encuentren constituidas, será aplicable cuando las partes lo acuerden expresamente.
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.6 — Gestión eficiente de la energía
 
 - Con el fin de promover la gestión eficiente de la energía, el Ministerio de Minas y Energía establecerá e implementará los lineamientos de política energética en materia de sistemas de medición así como la gradualidad con la que se deberán poner en funcionamiento; todo lo cual se llevará a cabo con fundamento en los estudios técnicos que sus entidades adscritas elaboren.
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.7 — Parámetros para ser considerado autogenerador a pequeña escala
 
@@ -8333,8 +7945,6 @@ El autogenerador de energía eléctrica a pequeña escala deberá cumplir con lo
 
 4. Los activos de generación pueden ser de propiedad de la persona natural o jurídica o de terceros y la operación de dichos activos puede ser desarrollada por los propietarios o por terceros.
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.8 — Condiciones para la conexión y entrega de excedentes de autogeneradores a pequeña escala
 
 La CREG debe establecer un trámite simplificado para la conexión y entrega de excedentes de los autogeneradores a pequeña escala al Sistema de Transmisión Regional o al Sistema de Distribución Local, el cual se expedirá conforme a los principios establecidos en las Leyes 142 y 143 de 1994 y los lineamientos de política energética adoptados por el Ministerio de Minas y Energía para tal fin, conteniendo, entre otros aspectos:
@@ -8344,8 +7954,6 @@ i) Los tiempos máximos que deberá cumplir tanto el autogenerador como el opera
 ii) Los requisitos técnicos mínimos necesarios para salvaguardar la correcta operación de la red. Lo anterior, sin detrimento del cumplimiento de lo establecido en el Reglamento Técnico de Instalaciones Eléctricas, RETIÉ
 
 PARÁGRAFO .os Operadores de Red solo podrán negar la conexión de autogeneradores a pequeña escala por razones de carácter técnico debidamente sustentadas.
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.9 — Remuneración de excedentes de energía
 
@@ -8370,8 +7978,6 @@ ARTÍCULO 2.2.3.2.4.9. Remuneración de excedentes de energía. La CREG definir�
 PARÁGRAFO . Para el caso de los autogeneradores a pequeña escala que utilicen Fuentes No Convencionales de Energía Renovable FNCER, los excedentes que entreguen a la red de distribución se reconocerán mediante un esquema de medición bidireccional, como créditos de energía, según las normas que la CREG establezca para tal fin en aplicación de lo dispuesto en el artículo 2.2.3.2.4.8 de este Decreto.
 
 PARÁGRAFO TRANSITORIO. Hasta tanto se regule lo dispuesto en este artículo se aplicarán las reglas vigentes para la entrega de excedentes de autogeneració a gran escala.
-
-ARTÍCULO
 
 ## art:2.2.3.2.4.10 — Reportes de información a la UPME
 
@@ -8485,8 +8091,6 @@ SECCIÓN 5
 
 POLÍTICAS GENERALES EN RELACIÓN CON LA ACTIVIDAD DE COMERCIALIZACIÓN DEL SERVICIO DE ENERGÍA ELÉCTRICA
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.1 — Políticas para el desarrollo de la Actividad de Comercialización Minorista
 
 Con el fin de asegurar que los beneficios derivados de la competencia se extiendan a todos los usuarios del servicio de energía eléctrica, la CREG deberá adoptar normas que garanticen el tratamiento simétrico en la asignación de derechos y obligaciones entre los agentes Comercializadores Minoristas que operan en el Sistema Interconectado Nacional.
@@ -8505,8 +8109,6 @@ e- Todos los Comercializadores Minoristas que participen en un Mercado de Comerc
 
 PARÁGRAFO . Los planes de reducción de pérdidas ordenados por los literales b), c) y d) del presente artículo entrarán en aplicación una vez entren en vigencia los cargos de distribución aprobados mediante la metodología de remuneración de la actividad de distribución que reemplace la establecida en la Resolución CREG 097 de 2008.
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.2 — Adecuación de los mecanismos de medición a los usuarios residenciales, industriales y comerciales
 
 La CREG analizará la factibilidad y la conveniencia de flexibilizar los requisitos de medida de los consumos de los usuarios.
@@ -8522,8 +8124,6 @@ En el marco de lo anterior, en el caso de los sistemas de medida que registren e
  ARTÍCULO 2.2.3.2.5.2. Adecuación de los mecanismos de medición a los usuarios residenciales industriales y comerciales regulados. La CREG analizará la factibilidad y la conveniencia de flexibilizar los requisitos de medida de los consumos de los Usuarios Regulados.
 
 (Decreto 387 de 2007 art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.2.5.3 — Compras de Energía para el Mercado Regulado
 
@@ -8557,15 +8157,11 @@ SECCIÓN 6
 
 DE LOS SUBSIDIOS Y CONTRIBUCIONES
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1 — Giros
 
 El Ministerio de Minas y Energía con cargo a los recursos disponibles apropiados para el pago de los subsidios a los servicios públicos de energía eléctrica y gas, podrá efectuar giros y/o pagos parciales con base en los valores históricos reportados por los prestadores del servicio y correspondientes al trimestre anterior en firme. Para estos efectos, los giros y/o pagos parciales en ningún caso podrán superar el ochenta (80%) del valor reportado en el trimestre anterior en firme. No obstante, el primer giro o pago que se realice en cada periodo podrá ser cómo máximo por una suma equivalente al cincuenta por ciento (50%) del valor reportado en el trimestre anterior en firme.
 
 (Decreto 731 de 2014 Art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.2 — Procedimiento
 
@@ -8573,15 +8169,11 @@ Para los efectos de lo establecido en el artículo anterior y en lo que fuere ap
 
 (Decreto 731 de 2014 Art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.3 — Tarifas
 
 La Comisión de Regulación de Energía y Gas reconocerá, mediante los mecanismos que estime pertinentes, en las tarifas resultantes de los procesos de revisión tarifaria de que trata el artículo 126 de la Ley 142 de 1994, los efectos económicos causados a partir de la fecha de la respectiva petición de revisión, siempre que sean derivados de las características especiales de prestación del servicio público domiciliario de energía eléctrica o de gas de cada región y que hayan sido reconocidas por la misma Comisión.
 
 (Decreto 3860 de 2005 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.4 — Gradualidad de la Tarifa
 
@@ -8593,15 +8185,11 @@ SUBSECCIÓN 6.1
 
 LIQUIDACIÓN, COBRO, RECAUDO Y MANEJO DE LAS CONTRIBUCIONES DE SOLIDARIDAD Y DE LOS SUBSIDIOS EN MATERIA DE SERVICIOS PÚBLICOS DE ENERGÍA ELÉCTRICA Y GAS COMBUSTIBLE DISTRIBUIDO POR RED FÍSICA.
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.1 — 1.1
 
 Naturaleza del Fondo de Solidaridad para Subsidios y Redistribución de Ingresos para los servicios de energía eléctrica y gas combustible distribuido por red física. El Fondo de Solidaridad para Subsidios y Redistribución de Ingresos de la Nación - Ministerio de Minas y Energía, de que trata el artículo 89.3 de la Ley 142 de 1994 y el artículo 4 de la Ley 632 de 2000 es un fondo cuenta especial de manejo de recursos públicos, sin personería jurídica, sujeto a las normas y procedimientos establecidos en la Constitución Nacional, el Estatuto Orgánico del Presupuesto General de la Nación y las demás normas legales vigentes; cuenta en la cual se incorporarán en forma separada y claramente identificable para cada uno de los servicios públicos domiciliarios de energía eléctrica y gas combustible distribuido por red física, los recursos provenientes de los excedentes de la contribución de solidaridad una vez se apliquen para el pago de la totalidad de los subsidios requeridos en las respectivas zonas territoriales.
 
 (Decreto 847 de 2001, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.1.2 — 1.2
 
@@ -8615,8 +8203,6 @@ Funciones del Ministerio de Minas y Energía en relación con el Fondo de Solida
 
 (Decreto 847 de 2001, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.3 — Contabilidad interna
 
 Las entidades prestadoras de los servicios públicos domiciliarios deberán, en contabilidad separada, llevar las cuentas detalladas de los subsidios y las contribuciones de solidaridad facturadas y de las rentas recibidas por concepto de contribución o por transferencias de otras entidades para sufragar subsidios, así como de su aplicación.
@@ -8624,8 +8210,6 @@ Las entidades prestadoras de los servicios públicos domiciliarios deberán, en 
 Cuando una misma empresa de servicios públicos tenga por objeto la prestación de dos o más servicios públicos domiciliados, las cuentas de que trata el presente artículo deberán llevarse de manera independiente para cada u no de los servicios que presten y los recursos no podrán destinarse para otorgar subsidios a usuarios de un servicio público diferente de aquel del cual se percibió la respectiva contribución.
 
 (Decreto 847 de 2001, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.1.4 — Procedimiento interno
 
@@ -8661,8 +8245,6 @@ PARÁGRAFO . Conforme a lo previsto en el numeral 89.6 del artículo 89 de la Le
 
 (Decreto 847 de 2001, art. 5, modificado por el art. 2 Decreto 201 de 2004 y por el art. 1o, Decreto 4272 de 2004)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.5 — Sujetos responsables de la facturación y recaudo de la contribución de solidaridad
 
 Son responsables de la facturación y recaudo de la contribución de solidaridad, las siguientes personas:
@@ -8681,8 +8263,6 @@ PARÁGRAFO . Las personas que de acuerdo con el presente artículo recauden cont
 
 (Decreto 847 de 2001, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.6 — Factor con el cual se determina la contribución de solidaridad
 
 Los límites de la contribución de solidaridad en electricidad y gas combustible distribuido por red física, serán los fijados por la ley. Dentro de estos límites y de acuerdo con las necesidades de subsidio, la Comisión de Regulación de Energía y Gas por resolución podrá variar la contribución de solidaridad.
@@ -8692,8 +8272,6 @@ PARÁGRAFO . La contribución de solidaridad de energía eléctrica a que están
 Las empresas de acueducto y alcantarillado deberán solicitar y facilitar las condiciones necesarias a la empresa que preste el respectivo servicio público de energía para separar los consumos. Al facturarles se distinguirán de los demás consumos, aquellos utilizados específicamente en las actividades operativas inherentes a la propia prestación del servicio público a su cargo. (Adicionado por el artículo 1 del Decreto 2287 de 2004)
 
 (Decreto 847 de 2001, art. 7o)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.1.7 — Responsabilidad de los prestadores de servicios públicos
 
@@ -8705,8 +8283,6 @@ Los montos facturados de la contribución de solidaridad que se apliquen al pago
 
 (Decreto 847 de 2001, art. 8o)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.8 — Criterios de asignación
 
 El Ministerio de Minas y Energía definirá los criterios con los cuales el Gobierno Nacional asignará los recursos del presupuesto nacional y del Fondo de Solidaridad destinados a sufragar los subsidios, teniendo en cuenta que también los Municipios, Departamentos y Distritos podrán incluir apropiaciones presupuestales para este fin. Al definir los criterios de asignación, siempre se deberá tener en cuenta preferentemente, a los usuarios que residan en aquellos municipios que tengan menor capacidad para otorgar subsidios con sus propios recursos.
@@ -8717,8 +8293,6 @@ PARÁGRAFO . Cuando la entidad prestadora que se ha ceñido a las exigencias leg
 
 (Decreto 847 de 2001, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.9 — Informe de las asambleas departamentales y de los concejos municipales y distritales de la asignación de subsidios
 
 Corresponde a las asambleas departamentales y a los concejos municipales y distritales, informar al Ministerio de Minas y Energía - Fondo de Solidaridad para Subsidios y Redistribución de Ingresos, acerca de las apropiaciones que efectúen para atender subsidios en los servicios públicos de energía eléctrica y gas combustible distribuido por red física.
@@ -8727,15 +8301,11 @@ PARÁGRAFO . Las decisiones que tomen Asambleas y los Concejos sobre cuáles ser
 
 (Decreto 847 de 2001, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.10 — Transferencias efectivas de las entidades prestadoras de los servicios públicos
 
 Sin perjuicio del cumplimiento de las normas presupuestales sobre apropiaciones y ordenación del gasto, las transferencias efectivas de dinero de las entidades prestadoras de servicios públicos al Fondo de Solidaridad para Subsidios y Redistribución de Ingresos por concepto de contribuciones de solidaridad sólo ocurrirán cuando se presente superávit, después de compensar internamente los recursos necesarios para otorgar subsidios, las contribuciones facturadas en su Mercado de Comercialización y las recibidas de otros comercializadores, del Presupuesto Nacional, de los presupuestos departamentales, distritales o municipales y/o del Fondo de Solidaridad para Subsidios y Redistribución de Ingresos con el monto de los subsidios facturados en un trimestre.
 
 (Decreto 847 de 2001, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.1.11 — .11
 
@@ -8743,15 +8313,11 @@ Obligación de los prestadores de servicios públicos de energía eléctrica y g
 
 (Decreto 847 de 2001, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.12 — Informes
 
 Las entidades prestadoras de los servicios públicos domiciliarios deberán informar a la comunidad, a través de medios de información masiva y por lo menos una vez al año, la utilización de manera precisa que dieron de los subsidios y será función de la Superintendencia de Servicios Públicos Domiciliarios verificar el cumplimiento de dicha obligación.
 
 (Decreto 847 de 2001, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.1.13 — Aplicación a los distritos, municipios y departamentos
 
@@ -8759,17 +8325,13 @@ Los departamentos, distritos y municipios aplicarán, en sus territorios, normas
 
 (Decreto 847 de 2001, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1.14 — Asimilación entre municipios y distritos
 
 Salvo en cuanto haya legislación expresa que disponga otra cosa, siempre que en este decreto se mencionen los municipios o las autoridades, se entenderán incluidos también los distritos, los territorios indígenas que se constituyan como entidades territoriales, y el Departamento de San Andrés y Providencia; y aquellas autoridades que puedan asimilarse con más facilidad a las correspondientes autoridades municipales.
 
 (Decreto 847 de 2001, art. 16)
 
-## art:2 — 2.3.2.6.1.15
-
-Cesión de los derechos de los subsidios causados. Los comercializadores de energía eléctrica a los que hace referencia esta Subsección 6.1, podrán ceder a favor de entidades vigiladas por la Superintendencia Financiera, u organismos estatales, bilaterales y multilaterales de crédito que no se encuentren en las listas de sanciones, y/o vehículos fiduciarios administrados por cualquiera de los anteriores, el derecho a recibir los recursos por los subsidios causados y liquidados en los términos previstos en el presente artículo, que deban girárseles a través del Fondo de Solidaridad para Subsidios y Redistribución de ingresos, únicamente en los casos en que dichas entidades prestadoras de servicios públicos domiciliarios ya hayan reconocido, en las respectivas facturas de servicios, los subsidios correspondientes a los usuarios que atienden. Para que la cesión produzca efectos ante el Ministerio de Minas y Energía se necesitará de la aceptación de la cesión por parte de dicha entidad.
+2 .2.3.2.6.1.15. Cesión de los derechos de los subsidios causados. Los comercializadores de energía eléctrica a los que hace referencia esta Subsección 6.1, podrán ceder a favor de entidades vigiladas por la Superintendencia Financiera, u organismos estatales, bilaterales y multilaterales de crédito que no se encuentren en las listas de sanciones, y/o vehículos fiduciarios administrados por cualquiera de los anteriores, el derecho a recibir los recursos por los subsidios causados y liquidados en los términos previstos en el presente artículo, que deban girárseles a través del Fondo de Solidaridad para Subsidios y Redistribución de ingresos, únicamente en los casos en que dichas entidades prestadoras de servicios públicos domiciliarios ya hayan reconocido, en las respectivas facturas de servicios, los subsidios correspondientes a los usuarios que atienden. Para que la cesión produzca efectos ante el Ministerio de Minas y Energía se necesitará de la aceptación de la cesión por parte de dicha entidad.
 
 Para efectos de lo previsto en este artículo, el ordenador del gasto del Ministerio de Minas y Energía. a solicitud del comercializador de energía interesado, definirá el monto de subsidios que será reconocido por la Nación - Ministerio de Minas y Energía para el respectivo periodo de reporte de información, a través de una certificación la cual deberá contener como mínimo:
 
@@ -8807,15 +8369,11 @@ SUBSECCIÓN 6.2
 
 MANEJO Y ASIGNACION DE RECURSOS PROVENIENTES DE LA CONTRIBUCIÓN DE LOS USUARIOS NO REGULADOS DEL SERVICIO DE ENERGÍA ELÉCTRICA
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.2.1 — Mecanismo especial
 
 La presente Subsección establece el mecanismo especial a través del cual se manejarán y asignarán los recursos provenientes de la contribución de los usuarios no regulados del servicio de energía eléctrica, que compren energía a empresas oficiales, mixtas o privadas, teniendo en cuenta los criterios señalados en las leyes 142 y 143 de 1994.
 
 (Decreto 1596 de 1995, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.2.2 — Usuarios no regulados del servicio de energía eléctrica
 
@@ -8823,15 +8381,11 @@ Para estos efectos son usuarios no regulados cualquier persona natural o jurídi
 
 (Decreto 1596 de 1995, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.2.3 — Manejo de las contribuciones
 
 Las contribuciones que, en cumplimiento de lo estatuido en el artículo 47, incisos 1 y 5 de la ley 143 de 1994, recauden las empresas generadoras de energía eléctrica que vendan energía a usuarios no regulados, serán manejadas por las mismas empresas en cuenta separada.
 
 (Decreto 1596 de 1995, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.2.4 — Traslado de contribuciones
 
@@ -8839,15 +8393,11 @@ Con sujeción a las leyes 142 y 143 de 1994 y a las disposiciones reglamentarias
 
 (Decreto 1596 de 1995, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.2.5 — Traslado de Superávit
 
 Si después de aplicar la contribución para subsidios hubiere superávit, éstos se transferirán a la Dirección del Tesoro Nacional, con el fin de participar en los desembolsos que debe efectuar el fondo de solidaridad para subsidios y redistribución de ingresos de la Nación (Ministerio de Minas y Energía) y su destinación se hará de conformidad con lo establecido por el artículo 89.3 de la Ley 142 de 1994.
 
 (Decreto 1596 de 1995, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.2.6 — Contribución de solidaridad por Autogeneradores de Energía Eléctrica
 
@@ -8969,8 +8519,6 @@ SECCIÓN 1
 
 FAER
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.1 — Naturaleza del fondo de apoyo financiero para la energización de las zonas rurales interconectadas, FAER
 
 El Fondo de Apoyo Financiero para la Energización de las Zonas Rurales Interconectadas, FAER, creado por el artículo 105 de la Ley 788 de 2002, es un fondo cuenta especial sin personería jurídica, sujeto a las normas y procedimientos establecidos en la Constitución Política de Colombia, el Estatuto Orgánico del Presupuesto Nacional y demás normas vigentes aplicables, administrado por Ministerio de Minas y Energía o por quien él delegue.
@@ -8979,8 +8527,6 @@ De conformidad con la ley, a este Fondo ingresarán los recursos a que se refier
 
 (Decreto 1122 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.2 — Recaudo de los recursos
 
 La liquidación y el recaudo de los recursos a que se refiere el artículo 105 de la Ley 788 de 2002, con los ajustes establecidos en la Resolución CREG-068-2003 y de aquellas que la modifiquen o sustituyan, estarán a cargo del Administrador del Sistema de Intercambios Comerciales -ASIC-, quien recaudará de los dueños de los activos del Sistema de Transmisión Nacional -STN- el valor correspondiente y entregará las sumas recaudadas, dentro de los tres (3) días siguientes a su recibo, en la cuenta que para tal propósito determine el Ministerio de Hacienda y Crédito Público.
@@ -8988,8 +8534,6 @@ La liquidación y el recaudo de los recursos a que se refiere el artículo 105 d
 PARÁGRAFO . El Administrador del Sistema de Intercambios Comerciales. ASIC, presentará mensualmente al Ministerio de Minas y Energía una relación de las sumas liquidadas y las recaudadas, en la forma que determine este Ministerio, con el fin de verificar el cumplimiento de las obligaciones de los sujetos pasivos de la contribución y de su recaudador.
 
 (Decreto 1122 de 2008, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.3 — Destinación de los recursos
 
@@ -9009,8 +8553,6 @@ En la correspondiente convocatoria o en la aprobación directa por parte del Min
 
 (Decreto 1122 de 2008, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.4 — Comité de administración
 
 El Fondo de Apoyo Financiero para la Energización de las Zonas Rurales Interconectadas, FAER, tendrá un Comité de Administración, cuya sigla será CAFAER, integrado de la siguiente manera:
@@ -9028,8 +8570,6 @@ El Comité de Administración aprobará, objetará e impartirá instrucciones y 
 PARÁGRAFO . El CAFAER podrá invitar a sus reuniones a funcionarios de la Comisión de Regulación de Energía y Gas - CREG, de la Unidad de Planeación Minero Energética - UPME o de cualquier entidad que considere pertinente.
 
 (Decreto 1122 de 2008, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.5 — Apoyo técnico
 
@@ -9061,15 +8601,11 @@ Las demás que les sean asignadas.
 
 (Decreto 1122 de 2008, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.6 — Inversión temporal
 
 La administración e inversión temporal de los recursos y rendimientos provenientes del Fondo de Apoyo Financiero para Energización de Zonas Rurales Interconectadas FAER, estará a cargo de la Dirección General de Crédito Público y del Tesoro Nacional del Ministerio de Hacienda y Crédito Público. Para tales efectos, la mencionada Dirección determinará la cuenta a la que deberán ser girados los recursos del mencionado Programa. Para la administración e inversión de los recursos, la Dirección General de Crédito Público y del Tesoro Nacional los manejará en cuentas independientes de los demás recursos que administre la Dirección, teniendo en cuenta la normatividad que aplique para la inversión de dichos recursos.
 
 (Decreto 1122 de 2008, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.7 — Definición de las necesidades y prioridades del Plan Indicativo de Expansión de Cobertura de Energía Eléctrica - PIEC
 
@@ -9093,8 +8629,6 @@ PARÁGRAFO . Las entidades del orden nacional y territorial y los OR, presentar�
 
 (Decreto 1623 de 2015, art.2)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.8 — Expansión de la cobertura del servicio de energía eléctrica en el SIN
 
 La expansión del STR y del SDL se hará por parte de los OR y se remunerará, principalmente, a través de la metodología tarifaria para remunerar la actividad de distribución, a cargo de la CREG.
@@ -9104,8 +8638,6 @@ Adicionalmente, el MME podrá asignar la construcción de infraestructura en el 
 La CREG establecerá criterios específicos para la remuneración de los proyectos destinados para ampliación de cobertura del servicio de energía eléctrica de tal forma que se incentive a los OR a aumentar dicha cobertura y se recuperen los costos eficientes de prestar el servicio en las zonas determinadas en la normatividad legal.
 
 (Decreto 1623 de 2015, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.9 — Expansión del servicio mediante proyectos remunerados con el cargo de distribución
 
@@ -9133,8 +8665,6 @@ PARÁGRAFO . Los trámites para llevar a cabo lo establecido en el presente art�
 
 (Decreto 1623 de 2015, art.5)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.10 — Expansión del servicio mediante proyectos financiados con recursos del FAER
 
 La aprobación de proyectos de expansión de la cobertura en el SIN a ser financiados con recursos del FAER, sin que por ello deba limitarse exclusivamente a esta fuente de financiación, podrá realizarse por el MME, previa viabilidad técnica y financiera efectuada por la UPME, mediante alguno(s) de los siguientes mecanismos:
@@ -9154,8 +8684,6 @@ Los participantes podrán ser personas jurídicas u OR que reúnan los requisito
 PARÁGRAFO .- Los OR a cuyos activos se conecten las obras resultantes de la construcción de los proyectos financiados con recursos FAER, deberán energizar los mismos y adelantar las labores de administración, operación y mantenimiento, sin que les sea posible exigir requisitos técnicos distintos de los establecidos en el RETIE y en sus propias normas técnicas.
 
 (Decreto 1513 de 2016, art.4)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.11 — Aprobación de planes y ejecución de proyectos
 
@@ -9181,8 +8709,6 @@ ARTÍCULO
 
 (Decreto 1122 de 2008, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.12 — Responsabilidad sobre los activos
 
 Una vez concluidas las obras contempladas para el plan, programa o proyecto, el Operador de Red correspondiente energizará los activos, y asumirá la administración, operación y mantenimiento de la infraestructura construida.
@@ -9193,8 +8719,6 @@ Los activos de nivel 1 que se financien por parte de los Fondos de la Nación de
 
 (Decreto 1122 de 2008, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.13 — Ejecución de los recursos
 
 Los recursos del Fondo de Apoyo Financiero para la energización de las Zonas Rurales Interconectadas, FAER, se ejecutarán por parte del Ministerio de Minas y Energía o por quien éste delegue.
@@ -9203,8 +8727,6 @@ PARÁGRAFO . Los planes, programas o proyectos que se financien con cargo a los 
 
 (Decreto 1122 de 2008, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.14 — Propiedad de los activos
 
 Las inversiones con cargo a los recursos del Fondo de Apoyo Financiero para la Energización de las Zonas Rurales Interconectadas, FAER, tendrán como titular a la Nación-Ministerio de Minas y Energía en proporción a su aporte.
@@ -9212,8 +8734,6 @@ Las inversiones con cargo a los recursos del Fondo de Apoyo Financiero para la E
 Los activos que se construyan con los recursos del Fondo de Apoyo Financiero para la Energización de las Zonas Rurales Interconectadas, FAER, podrán ser aportados al Operador de Red que brindó concepto técnico y financiero favorable al plan, programa o proyecto de acuerdo con los lineamientos establecidos en las Secciones 5. "Políticas generales en relación con la actividad de comercialización del servicio de energía eléctrica" y 2. "Políticas y directrices relacionadas con el aseguramiento de la cobertura del servicio de electricidad", Título de Energía Eléctrica del presente Decreto y aquella normatividad que la modifique, sustituya o complemente y en aplicación a lo dispuesto en el artículo 87.9 de la Ley 142 de 1994, modificado por el artículo 143 de la Ley 1151 de 2007 subrogado por el artículo 99 de la Ley 1450 de 2011 y aquella norma que la modifique o sustituya.
 
 (Decreto 1122 de 2008, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.15 — Vigencia
 
@@ -9225,15 +8745,11 @@ SECCIÓN 2
 
 FONDO DE APOYO FINANCIERO PARA LA ENERGIZACIÓN DE LAS ZONAS NO INTERCONECTADAS - FAZNI.
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.1 — Naturaleza del Fondo de Apoyo Financiero para la Energización de las Zonas No Interconectadas -FAZNI-
 
 El Fondo de Apoyo Financiero para la Energización de las Zonas no Interconectadas, definido por el artículo 82 de la Ley 633 de 2000, es un fondo cuenta especial del Ministerio de Minas y Energía sin personería jurídica, sujeto a las normas y procedimientos establecidos en la Constitución Política de Colombia, el Estatuto Orgánico del Presupuesto Nacional y demás normas vigentes aplicables. De conformidad con la ley, a este Fondo ingresarán las sumas recaudadas de conformidad con lo establecido en el artículo 1 de la Ley 1099 de 2006 y también podrán ingresar los recursos provenientes del Presupuesto General de la Nación y los recursos que canalice el Gobierno Nacional de diferentes fuentes públicas y privadas, nacionales e internacionales.
 
 (Decreto 1124 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2 — Recaudo de los recursos
 
@@ -9241,15 +8757,11 @@ La liquidación y el recaudo de los recursos recaudados de conformidad con lo es
 
 (Decreto 1124 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.3 — Inversión Temporal
 
 La administración e inversión temporal de los recursos y rendimientos provenientes del Fondo de apoyo Financiero para Energización de Zonas No Interconectadas, FAZNI, estará a cargo de la Dirección General de Crédito Público y del Tesoro Nacional del Ministerio de Hacienda y Crédito Público. Para tales efectos, la mencionada Dirección determinará la cuenta a la que deberán ser girados los recursos del mencionado Programa. Para la administración e inversión de los recursos, la Dirección General de Crédito Público y del Tesoro Nacional los manejará en cuentas independientes de los demás recursos que administre la Dirección, teniendo en cuenta la normatividad que aplique para la inversión de dichos recursos.
 
 (Decreto 1124 de 2008, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.4 — Destinación de los recursos
 
@@ -9268,8 +8780,6 @@ PARÁGRAFO 3: Los recursos del FAZNI podrán destinarse a la energización de Us
 SUBSECCIÓN 2.1
 
 DE LA ADMINISTRACIÓN DE LOS RECURSOS DEL FONDO DE APOYO FINANCIERO PARA LA ENERGIZACIÓN DE LAS ZONAS NO INTERCONECTADAS -FAZNI-
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.1.1 — Comité de Administración
 
@@ -9293,8 +8803,6 @@ SUBSECCIÓN 2.2
 
 DE LOS PROYECTOS FINANCIABLES Y DE SU PRESENTACIÓN AL COMITÉ DE ADMINISTRACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.2.1 — Apoyo Técnico
 
 El Ministerio de Minas y Energía conformará un grupo de apoyo técnico, que adelantará las siguientes funciones:
@@ -9306,8 +8814,6 @@ El Ministerio de Minas y Energía conformará un grupo de apoyo técnico, que ad
 3. Llevar a cabo el seguimiento a las actividades de los proyectos correspondientes aprobados para la ejecución con recursos del FAZNI. Este seguimiento no reemplaza la interventoría, que podrá ser ejercida de manera directa por el IPSE o, bajo su supervisión y coordinación, por intermedio de terceros.
 
 (Decreto 1124 de 2008, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.2.2 — Mecanismos de presentación de los planes, programas y proyectos
 
@@ -9322,8 +8828,6 @@ Los planes, programas y proyectos que serán elegibles para asignación de fondo
 Para los esquemas de presentación de proyectos descritos en los numerales 1 y 2 anteriores, el Ministerio de Minas y Energía establecerá las condiciones de los proyectos en los reglamentos respectivos, conforme con los lineamientos del presente decreto.
 
 (Decreto 1124 de 2008, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.2.3 — Distribución de los recursos entre los planes, programas y/o proyectos elegibles
 
@@ -9344,8 +8848,6 @@ Mayor número de usuarios beneficiados, y/o
 Contribución a la innovación tecnológica para el uso de fuentes de energía renovables o alternativas.
 
 (Decreto 1124 de 2008, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.2.4 — Condiciones generales para los planes, programas y/o proyectos
 
@@ -9369,8 +8871,6 @@ PARÁGRAFO . Con los recursos destinados para el Fondo de Apoyo Financiero para 
 
 (Decreto 1124 de 2008, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.2.5 — Requisitos de presentación de los planes, programas y proyectos
 
 (Derogado por el Artículo 8 del Decreto 1623 de 2015). Los planes, programas y proyectos que sean presentados ante el Comité de Administración dentro del mecanismo descrito en el numeral 3 del artículo 7 deberán cumplir los siguientes requisitos:
@@ -9389,8 +8889,6 @@ En los proyectos de interconexión eléctrica al Sistema Interconectado Nacional
 
 (Decreto 1124 de 2008, art. 10, modificado por el art. 1 del Decreto 4813 de 2008)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.2.6 — Ejecución de los recursos y propiedad de los activos
 
 Los recursos del Fondo de Apoyo Financiero para la energización de las Zonas No Interconectadas -FAZNI-, se ejecutarán por parte del Ministerio de Minas y Energía, conforme a la política de energización a que se refiere el artículo 4 del presente decreto. En todo caso, las inversiones con recursos del Fondo de Apoyo Financiero para la energización de las Zonas No Interconectadas -FAZNI- en los planes, programas y proyectos tendrán como titular a la Nación - Ministerio de Minas y Energía en proporción a su aporte.
@@ -9398,8 +8896,6 @@ Los recursos del Fondo de Apoyo Financiero para la energización de las Zonas No
 Los activos que se construyan con los recursos del Fondo de Apoyo Financiero para la Energización de las Zonas No Interconectadas, FAZNI, podrán ser aportados al Operador de Red o la Empresa que se responsabilizará de la operación comercial, que brindó concepto técnico y financiero favorable al plan, programa o proyecto de acuerdo con los lineamientos establecidos en los Decretos 387 y 388 de 2007 y aquella normatividad que la modifique, sustituya o complemente y en aplicación a lo dispuesto en el artículo 87.9 de la Ley 142 de 1994, modificado por el artículo 143 de la Ley 1151 de 2007, subrogado por el artículo 99 de la Ley 1450 de 2011 y aquella norma que la modifique o sustituya.
 
 (Decreto 1124 de 2008, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.2.7 — Criterios para el reembolso de costos de preinversión
 
@@ -9425,8 +8921,6 @@ SUBSECCIÓN 2.3
 
 (Subsección adicionada por el Decreto 1623 de 2015, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.1 — Expansión de la cobertura del servicio de energía eléctrica en las Zonas No Interconectadas - ZNI
 
 La ampliación de cobertura del servicio público de energía eléctrica a usuarios a quienes no sea eficiente conectar al Sistema Interconectado Nacional - SIN, se podrá realizar mediante soluciones centralizadas o individuales, las cuales serán construidas y operadas principalmente por un Operador de Red del Sistema Interconectado Nacional - SIN, o a través de esquemas empresariales tales como las Áreas de Servicio Exclusivo - ASE. Dichas inversiones podrán ser realizadas tanto con recursos públicos como recursos mixtos o privados. Las inversiones se regirán de acuerdo con las leyes y la regulación vigente y serán remuneradas a través de los esquemas tarifarías dispuestos por la Comisión de Regulación de Energía y Gas - CREG para tal fin.
@@ -9434,8 +8928,6 @@ La ampliación de cobertura del servicio público de energía eléctrica a usuar
 PARÁGRAFO . Para la determinación de las soluciones centralizadas o individuales mencionadas en este artículo, las empresas deberán priorizar fuentes no convencionales de energía o gas licuado de petróleo, según sea económica y/o técnicamente más eficiente.
 
 (Modificado por el Art. 4 del Decreto 099 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.3.2 — Metodología de remuneración de la prestación del servicio en Zonas No Interconectadas - ZNI
 
@@ -9451,8 +8943,6 @@ PARÁGRAFO : La Comisión de Regulación en Energía y Gas - CREG definirá, con
 
 (Decreto 1623 de 2015 art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.3 — Esquema de subsidios aplicable a los usuarios de las ZNI
 
 El MME, determinará la forma en que se otorgarán los subsidios a las tarifas de los usuarios del servicio público de energía eléctrica en las Zonas No Interconectadas. Para esto deberá tener en cuenta el tipo de tecnología de generación y los principios y criterios establecidos en las Leyes 142 y 143 de 1994.
@@ -9460,8 +8950,6 @@ El MME, determinará la forma en que se otorgarán los subsidios a las tarifas d
 Para efectos de lo establecido en este artículo el MME expedirá una resolución dentro de los cuatro meses siguientes a la entrada en vigencia del presente decreto?.
 
 (Decreto 1623 de 2015 art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.3.4 — Sistema de información de las ZNI
 
@@ -9485,8 +8973,6 @@ PARÁGRAFO . El MME establecerá los protocolos y demás características que de
 
 (Decreto 1623 de 2015 art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.5 — Centro Nacional de Monitoreo
 
 El IPSE continuará operando el CNM. Además de las actividades que actualmente se realizan a través de dicho Centro, se realizarán las siguientes:
@@ -9503,15 +8989,11 @@ PARÁGRAFO . La información deberá estar almacenada en una base de datos y en 
 
 (Decreto 1623 de 2015 art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.6 — Estándares de calidad de sistemas aislados individuales
 
 El MME establecerá los estándares de calidad mínimos que deben cumplir los sistemas aislados individuales para garantizar la prestación del servicio. Los estándares incluyen la calidad del servicio y, en los casos en los que las inversiones se hagan con recursos públicos, las especificaciones técnicas mínimas de los equipos. El promedio de generación de estas soluciones será igual o menor al consumo básico de subsistencia.
 
 (Decreto 1623 de 2015 art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.3.7 — 3.7
 
@@ -9531,8 +9013,6 @@ PARÁGRAFO .- Los Prestadores del Servicio en el área de influencia de los proy
 
 (Decreto 1513 de 2016 art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.8 — Áreas de Servicio Exclusivo
 
 El MME podrá establecer ASE para la prestación del servicio de energía eléctrica en las Zonas No Interconectadas, en los términos establecidos en el artículo 65 de la Ley 1151 de 2007, disposición reproducida por el artículo 114 de la Ley 1450 de 2011. Para estos efectos determinará, entre otros:
@@ -9543,15 +9023,11 @@ El MME podrá establecer ASE para la prestación del servicio de energía eléct
 
 (Decreto 1623 de 2015 art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.9 — Condiciones de prestación del servicio de energía eléctrica
 
 La CREG, mediante resolución, definirá los indicadores y metas de calidad que deben cumplir los prestadores del servicio de energía eléctrica en las ZNI, al igual que los incentivos para alcanzar dichas metas y reducir las pérdidas de energía. También determinará las obligaciones de dichos prestadores en relación con el reporte de información asociada a la prestación del servicio. La SSPD deberá hacer seguimiento a dichos indicadores y publicar semestralmente sus resultados.
 
 (Decreto 1623 de 2015 art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.3.10 — Determinación de áreas de influencia y priorización de esquemas de ampliación de coberturas
 
@@ -9561,8 +9037,6 @@ El Ministerio de Minas y Energía definirá los lineamientos que le permitan a l
 
 (Adicionado por el Art. 7 del Decreto 099 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2.3.11 — Incorporación de esquemas de atención a Usuarios Aislados
 
 La Comisión de Regulación de Energía y Gas - CREG adoptará las medidas necesarias para incorporar los esquemas de atención a Usuarios Aislados en los cargos de distribución y demás esquemas tarifarios, e indicará el plazo en el que los Operadores de Red podrán para realizar ajustes a los planes de expansión de cobertura.
@@ -9570,8 +9044,6 @@ La Comisión de Regulación de Energía y Gas - CREG adoptará las medidas neces
 Posteriormente, la Unidad de Planeación Minero Energética - UPME, en el término que defina el Ministerio de Minas y Energía, incluirá lo correspondiente a Usuarios Aislados a la metodología de presentación y evaluación de los Planes de Expansión de Cobertura de los Operadores de Red - PECOR."
 
 (Adicionado por el Art. 8 del Decreto 099 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.2.3.12 — .12
 
@@ -9585,8 +9057,6 @@ SUBSECCIÓN 3.1
 
 DEL PROGRAMA DE NORMALIZACIÓN DE REDES ELÉCTRICAS
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.1.1 — Programa de Normalización de Redes Eléctricas
 
 De acuerdo con el artículo 10 de la Ley 1117 de 2006, el Programa de Normalización de Redes Eléctricas tendrá como objetivos la legalización de usuarios y la adecuación de las redes a los reglamentos técnicos vigentes, en barrios subnormales, situados en municipios del Sistema Interconectado Nacional, SIN.
@@ -9594,8 +9064,6 @@ De acuerdo con el artículo 10 de la Ley 1117 de 2006, el Programa de Normalizac
 PARÁGRAFO . El Programa de Normalización de Redes Eléctricas, que se denominará PRONE, consiste en la financiación por parte del Gobierno Nacional de planes, programas o proyectos elegibles de conformidad con las reglas establecidas en el presente decreto y las normas que lo sustituyan o complementen, cuya vigencia serán igual a la establecida para los diferentes fondos que financien el Programa.
 
 (Decreto 1123 de 2008, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.1.2 — Recursos para el Programa de Normalización de Redes Eléctricas
 
@@ -9612,8 +9080,6 @@ PARÁGRAFO . El Administrador del Sistema de Intercambios Comerciales, ASIC, pre
 SUBSECCIÓN 3.2
 
 DE LA ADMINISTRACIÓN DE LOS RECURSOS
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.3.2.1 — Comité de Administración
 
@@ -9632,8 +9098,6 @@ Viceministro.
 El Comité de Administración aprobará la priorización de los planes, programas o proyectos siguiendo los criterios establecidos en el presente decreto, determinará los mecanismos para la interventoría de los proyectos a ejecutarse y establecerá su propio reglamento. De igual forma, podrá invitar a sus reuniones a funcionarios de cualquier entidad que considere pertinente o necesario para analizar asuntos de su competencia.
 
 (Decreto 1123 de 2008, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.3.2.2 — Apoyo Técnico
 
@@ -9669,8 +9133,6 @@ SUBSECCIÓN 3.3.
 
 DE LA PRESENTACIÓN DE PROYECTOS AL COMITÉ DE ADMINISTRACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.3.3.1 — Presentación de proyectos
 
 El Ministerio de Minas y Energía realizará las convocatorias necesarias con amplia publicidad anunciando las fechas de presentación de planes, programas o proyectos en cada una de ellas. Cada convocatoria establecerá los requisitos, plazos y condiciones para la priorización y ejecución de los proyectos.
@@ -9681,8 +9143,6 @@ PARÁGRAFO . El Ministerio de Minas y Energía podrá incluir en las convocatori
 
 (Decreto 1123 de 2008, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.3.3.2 — Los desarrolladores de proyectos
 
 Para la presentación y desarrollo de planes, programas y proyectos de normalización, el Ministerio de Minas y Energía podrá determinar en cada convocatoria establecida para la asignación de recursos del Programa de Normalización de Redes Eléctricas PRONE, los desarrolladores de proyectos y si considera necesaria la apertura de una o varias convocatorias para su adjudicación.
@@ -9690,8 +9150,6 @@ Para la presentación y desarrollo de planes, programas y proyectos de normaliza
 En todo caso, el Operador de Red presentará sus planes de normalización y será el encargado de operar la nueva infraestructura en los términos del artículo 10 del presente Decreto (Modificado por el Decreto 4926 de 2009).
 
 (Decreto 1123 de 2008, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.3.3.3 — Requerimientos básicos
 
@@ -9721,8 +9179,6 @@ Para la presentación de los planes, programas o proyectos que busquen financiar
 
 (Decreto 1123 de 2008, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.3.3.4 — Priorización de los planes, programas o proyectos
 
 Una vez se verifique el cumplimiento de los requisitos establecidos en este decreto y en el reglamento, se realizará el procedimiento de priorización de proyectos, teniendo en cuenta los siguientes criterios con los factores de ponderación establecidos en cada convocatoria:
@@ -9739,8 +9195,6 @@ PARÁGRAFO . Serán gastos elegibles del programa de normalización únicamente 
 
 (Decreto 1123 de 2008, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.3.3.5 — Inversión temporal
 
 La administración e inversión temporal de los recursos y rendimientos provenientes del Programa de Normalización de Redes Eléctricas PRONE, estará a cargo de la Dirección General de Crédito Público y del Tesoro Nacional del Ministerio de Hacienda y Crédito Público.
@@ -9749,8 +9203,6 @@ Para tales efectos, la mencionada Dirección determinará la cuenta a la que deb
 
 (Decreto 1123 de 2008, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.3.3.6 — Responsabilidad sobre los activos
 
 Una vez concluidas las obras contempladas, el Operador de Red correspondiente permitirá la energización de los activos, y asumirá la administración, operación y mantenimiento de la infraestructura construida.
@@ -9758,8 +9210,6 @@ Una vez concluidas las obras contempladas, el Operador de Red correspondiente pe
 Una vez el Operador de Red haya efectuado la energización de los activos, y hasta que se suscriba entre el Ministerio de Minas y Energía y el Operador de Red un contrato para definir los términos de la propiedad, remuneración y reposición de los activos, estos serán considerados como activos de conexión al Sistema de Distribución Local, SOL, de propiedad de terceros para efectos de su remuneración y responsabilidad en la reposición, de acuerdo con lo establecido en la regulación vigente para estos efectos, el Decreto 388 de 2007 y aquella normatividad que la modifique, sustituya o complemente.
 
 (Decreto 1123 de 2008, art. 10)
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.3.3.7 — Propiedad de los activos
 
@@ -9843,8 +9293,6 @@ SECCIÓN 4.
 
 FONDO DE ENERGÍA SOCIAL - FOES
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.1 — Transferencia de los recursos al FOES
 
 El Administrador del Sistema de Intercambios Comerciales -ASIC, una vez calculadas y recaudadas las Rentas de Congestión como producto de las exportaciones de energía eléctrica, girará el ochenta por ciento (80%) de las mismas en forma mensual al Ministerio de Hacienda y Crédito Público ?Dirección General de Crédito Público y Tesoro Nacional, quien realizará el manejo de los recursos del Fondo.
@@ -9854,8 +9302,6 @@ PARÁGRAFO . Los rendimientos que genere la administración de los recursos del 
 PARÁGRAFO . Este Fondo puede ser financiado con los recursos del Presupuesto General de la Nación, cuando los recursos de las rentas de congestión resulten insuficientes, de acuerdo al resultado de priorización del presupuesto de inversión del sector.
 
 (Decreto 111 de 2012, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.2 — Administración del Fondo
 
@@ -9879,15 +9325,11 @@ h) El Ministerio de Minas y Energía o aquella entidad a la que se otorgue tal f
 
 (Decreto 111 de 2012, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.3 — Facturación FOES
 
 Los Comercializadores deberán detallar en la Factura de Cobro correspondiente al período siguiente a aquel en que se reciban efectivamente los recursos, el beneficio FOES como un menor valor de la energía. La factura deberá reflejar: i) los valores utilizados de consumo base de liquidación (kWh) ii) el valor unitario en pesos por kilovatio hora ($/kWh), el cual es calculado por el Ministerio de Minas y Energía. Dichas sumas solo podrán ser aplicadas al consumo efectivamente facturado de energía a los usuarios y no podrá destinarse para consumos mayores al de consumo de subsistencia establecido por la UPME, ni a otros conceptos. (Modificado artículo 1 Decreto 882 de 2012).
 
 (Decreto 111 de 2012, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4 — Registro de Áreas Especiales
 
@@ -9916,8 +9358,6 @@ Con el fin de focalizar adecuadamente el reconocimiento de los recursos del FOES
 (Parágrafo transitorio adicionado por el Art. 1 del Decreto 278 de 2020)
 
 (Decreto 111 de 2012, art. 6, modificado por el art. 2 del Decreto 1144 de 2013)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.5 — Determinación de la energía social
 
@@ -9965,8 +9405,6 @@ PARÁGRAFO . El otorgamiento del beneficio FOES consistirá en un valor variable
 
 (Decreto 111 de 2012, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.6 — Senda de desmonte
 
 El Ministerio de Minas y Energía determinará, en desarrollo de lo establecido por el parágrafo 3 del artículo 103 de la ley 1450 de 2011, los porcentajes de senda de desmonte en la aplicación del FOES en las Zonas de Difícil Gestión, en concordancia con la implementación de los planes de reducción de pérdidas reglamentados por la CREG.
@@ -9976,8 +9414,6 @@ El Ministerio de Minas y Energía determinará, en desarrollo de lo establecido 
 SUBSECCIÓN 4.1
 
 ESQUEMAS DIFERENCIALES DE PRESTACIÓN DEL SERVICIO EN ÁREAS O ZONAS ESPECIALES
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.1.1 — Prestación del servicio en Área Especial
 
@@ -9995,8 +9431,6 @@ La aplicación de cada uno de los anteriores esquemas de prestación diferencial
 
 (Decreto 111 de 2012, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4.1.2 — Medición y facturación comunitaria
 
 Para que un Comercializador de Energía Eléctrica pueda efectuar la medición y facturación comunitaria deberá:
@@ -10011,8 +9445,6 @@ d) Suscribir el acuerdo a que se refiere el artículo 2.2.3.3.4.2.1. por parte d
 
 (Decreto 111 de 2012, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4.1.3 — Facturación con base en proyecciones de consumo
 
 La proyección de consumos es el mecanismo por medio del cual la medición de la energía consumida por un Suscriptor Individual o Comunitario se realiza con fundamento en las metodologías que establezca la Comisión de Regulación de Energía y Gas, las cuales se basarán, entre otros aspectos, en las cargas contratadas con cada usuario y los consumos históricos propios o, en su defecto, de usuarios similares.
@@ -10020,8 +9452,6 @@ La proyección de consumos es el mecanismo por medio del cual la medición de la
 PARÁGRAFO . La aplicación de la proyección de consumos podrá llevarse a cabo por parte de los Comercializadores de Energía Eléctrica, para lo cual deberán aplicar las disposiciones contenidas en el artículo 133 de la Ley 142 de 1994 en cuanto al abuso de la posición dominante por parte de las empresas.
 
 (Decreto 111 de 2012, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.1.4 — Pago anticipado o prepago
 
@@ -10034,8 +9464,6 @@ PARÁGRAFO ., El pago anticipado que realice el usuario conforme lo previsto en 
 PARÁGRAFO . La instalación de medidores prepago procederá también cuando así lo solicite cualquier tipo de suscriptor al Comercializador de Energía Eléctrica, evento en el cual el medidor deberá ser sufragado por el respectivo suscriptor.
 
 (Decreto 111 de 2012, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.1.5 — Periodos flexibles de facturación
 
@@ -10061,8 +9489,6 @@ SUBSECCIÓN 4.2.
 
 SUSCRIPTOR COMUNITARIO
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4.2.1 — Acuerdos con Suscriptores Comunitarios
 
 Para que un Comercializador de Energía Eléctrica aplique alguno de los esquemas diferenciales mencionados en el artículo de esta disposición, deberá celebrar con un Suscriptor Comunitario un acuerdo que contendrá por lo menos los aspectos que se relacionan a continuación:
@@ -10082,8 +9508,6 @@ f) De ser el caso, garantías de pago.
 PARÁGRAFO . La celebración del acuerdo implica la suscripción de un contrato de servicio público entre el Comercializador de Energía Eléctrica y el Suscriptor Comunitario y por lo tanto sustituye los contratos de condiciones uniformes celebrados por cada usuario, en el evento de que estos existan, sin que por ello pierdan su vigencia. Las condiciones no pactadas en el referido acuerdo, serán suplidas por las contenidas en los contratos de condiciones uniformes en lo que no fuere incompatible con la esencia de los mismos.
 
 (Decreto 111 de 2012, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.2.2 — Responsabilidades del representante del Suscriptor Comunitario
 
@@ -10113,8 +9537,6 @@ PARÁGRAFO . El Comercializador de Energía Eléctrica brindará sin costo, al r
 
 (Decreto 111 de 2012, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4.2.3 — Responsabilidades del Operador de Red frente a Suscriptores Comunitarios
 
 Salvo en los Barrios Subnormales y en los asentamientos humanos que no puedan ser objeto de normalización de acuerdo con la Ley 388 de 1997 y en la demás normatividad aplicable, el Operador de Red que desarrolle su actividad en el Área Especial deberá efectuar la administración, operación, mantenimiento y reposición de los respectivos activos de uso que componen la red de uso general.
@@ -10122,8 +9544,6 @@ Salvo en los Barrios Subnormales y en los asentamientos humanos que no puedan se
 En todo caso, el Operador de Red deberá cumplir con los indicadores de calidad que para las Áreas Especiales defina la Comisión de Regulación de Energía y Gas, los cuales se referirán siempre al Período de Continuidad.
 
 (Decreto 111 de 2012, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.2.4 — Planes de Mejoramiento
 
@@ -10135,15 +9555,11 @@ PARÁGRAFO .: Los Planes de Mejoramiento para las Zonas de Difícil Gestión pod
 
 (Decreto 1144 de 2013, artículo 4.)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4.2.5 — Certificación Zonas de Difícil Gestión
 
 En el caso de barrios subnormales que se encuentran en proceso de normalización, sus indicadores de pérdidas y/o cartera podrán ser evaluados para efectos de que una vez normalizados sean certificados como Zonas de Difícil Gestión con la información del año inmediatamente anterior y con corte a 31 de diciembre.
 
 (Decreto 1144 de 2013, artículo 5.)
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.2.6 — Temporalidad
 
@@ -10157,15 +9573,11 @@ RECURSOS DEL FONDO DE ENERGÍA SOCIAL (FOES)
 
 (Subsección adicionada por el Decreto 053 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.4.3.1 — Proyección de los compromisos a atender
 
 Par efectos de atender lo señalado en el artículo 99 de la Ley 1769 de 2015, Ministerio de Minas y Energía, con la información que tenga disponible, podrá hacer una proyección de los compromisos a atender en la vigencia ordinaria p concepto del Fondo de Energía Social, FOES, para establecer si se presenta excedentes y/o sobrantes de apropiación con el fin de cubrir vigencias fiscales anteriores.
 
 PARÁGRAFO . El Ministerio de Minas y Energía será responsable de contar con las previsiones del caso, para garantizar la existencia de apropiación suficiente que le permita atender en su totalidad los compromisos corrientes vigentes.
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4.3.2 — Priorización para la asignación de recursos excedentes
 
@@ -10177,8 +9589,6 @@ SECCIÓN 5
 
 (Sección adicionada por el Decreto 1543 de 2017 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.1 — Naturaleza del Fondo de Energías No Convencionales y Gestión Eficiente de la Energía (FENOGE)
 
 De conformidad con lo señalado en los artículos 6 y 10 de la Ley 1715 de 2014, el Fondo de Energías No Convencionales y Gestión Eficiente de la Energía (en adelante FENOGE), tendrá como objetivo financiar programas de FNCE y gestión eficiente de la energía, a través de su fomento, promoción, estimulo e incentivo. El FENOGE estará regido por los lineamientos establecidos en dicha Ley, en el presente decreto, y en el manual operativo correspondiente, y será administrado por el patrimonio autónomo que se constituya en virtud del contrato de fiducia mercantil que suscriba el Ministerio de Minas y Energía con una entidad fiduciaria debidamente autorizada por la Superintendencia Financiera de Colombia.
@@ -10186,8 +9596,6 @@ De conformidad con lo señalado en los artículos 6 y 10 de la Ley 1715 de 2014,
 Los recursos que alimentaran el mencionado patrimonio autónomo podrán ser, entre otros, las sumas establecidas en el artículo 190 de la Ley 1753 de 2015, partidas que se le asignen en el Presupuesto General de la Nación y demás recursos que transfieran o aporten el Gobierno Nacional, entidades públicas, entidades privadas, organismos de carácter multilateral e internacional, donaciones y demás recursos que se obtenga o se le asignen a cualquier título. El FENOGE, a través del patrimonio autónomo, podrá suscribir contratos o convenios para cumplir con su objeto.
 
 (Decreto 1543 de 2017 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.2 — Recaudo de los recursos
 
@@ -10203,8 +9611,6 @@ PARÁGRAFO . Los recursos del Presupuesto General de la Nación se entenderán e
 
 (Decreto 1543 de 2017 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.3 — Destinación de los recursos
 
 Con los recursos del FENOGE se podrán financiar parcial o totalmente, entre otros, programas y proyectos dirigidos al sector residencial de estratos 1, 2 y 3, tanto para la implementación de soluciones de autogeneración a pequeña escala, como para la mejora de eficiencia energética mediante la promoción de buenas prácticas, equipos de uso final de energía, adecuación de instalaciones internas y remodelaciones arquitectónicas.
@@ -10212,8 +9618,6 @@ Con los recursos del FENOGE se podrán financiar parcial o totalmente, entre otr
 Igualmente se podrán financiar los estudios, auditorías energéticas, adecuaciones locativas, disposición final de equipos sustituidos y costos de administración e interventoría de los programas y/o proyectos.
 
 (Decreto 1543 de 2017 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.4 — Comité Directivo del FENOGE
 
@@ -10234,8 +9638,6 @@ El Comité Directivo será presidido por el Ministro de Minas y Energía, y en a
 El Comité Directivo podrá invitar a aquellas personas que considere pertinentes o necesarias, según los asuntos que se traten en cada una de sus sesiones, y de acuerdo con los planes, programas o proyectos que vayan a ser presentados.
 
 (Decreto 1543 de 2017 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.5 — 5.5
 
@@ -10263,8 +9665,6 @@ PARÁGRAFO . En todo caso los proyectos a financiar con recursos del FENOGE debe
 
 (Decreto 1543 de 2017 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.6 — Entidad Fiduciaria
 
 La Entidad Fiduciaria de que trata el artículo 368 de la Ley 1819 de 2016:
@@ -10283,8 +9683,6 @@ La Entidad Fiduciaria de que trata el artículo 368 de la Ley 1819 de 2016:
 
 (Decreto 1543 de 2017 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.7 — Propiedad y destinación de los activos
 
 La Nación - Ministerio de Minas y Energía será titular, en proporción a su aporte, de la infraestructura que se financie con recursos del FENOGE.
@@ -10299,15 +9697,11 @@ CAPÍTULO 4.
 
 PROCEDIMIENTO DE AMPARO POLICIVO PARA LAS EMPRESAS DE SERVICIOS PÚBLICOS.
 
-ARTÍCULO
-
 ## art:2.2.3.4.1 — Amparo Policivo
 
 Las Empresas de Servicios Públicos a las cuales les hayan ocupado bienes inmuebles contra su voluntad o sin su consentimiento, o sean afectadas por actos que entorpezcan o amenacen perturbar el ejercicio de sus derechos sobre bienes de su propiedad, o destinados a la prestación de servicios públicos o respecto de aquellos ubicados en zonas declaradas de utilidad pública e interés social, podrán en cualquier tiempo, promover el amparo policivo contemplado en el artículo 29 de la Ley 142 de 1994 con el fin de preservar la situación que existía en el momento en que se produjo la perturbación u obtener la restitución de dichos bienes, sin perjuicio de las acciones que la Ley atribuye a los titulares de derechos reales.
 
 (Decreto 1575 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2 — Competencia
 
@@ -10321,23 +9715,17 @@ PARÁGRAFO . En los eventos contemplados en los parágrafos anteriores, la empre
 
 (Decreto 1575 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.4.3 — Conflicto de Competencias
 
 Tratándose de la ocupación o perturbación de bienes declarados de utilidad pública e interés social, en los cuales se desarrolle la construcción de proyectos de infraestructura de servicios públicos, que comprendan dos (2) o más municipios de un mismo departamento, la solicitud de amparo podrá ser elevada directamente ante el Gobernador del Departamento o su delegado.
 
 (Decreto 1575 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.4.4 — Circunstancias de Orden Público
 
 Cuando las circunstancias de orden público lo exijan, calificadas por el Ministerio del Interior y de Justicia - Dirección de Gobierno y Gestión Territorial o quien haga sus veces, éste podrá brindar su apoyo a las entidades territoriales para efectos de adelantar el amparo policivo de que trata el presente decreto.
 
 (Decreto 1575 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.4.5 — De la Solicitud
 
@@ -10357,8 +9745,6 @@ La solicitud de amparo policivo deberá reunir los siguientes requisitos:
 
 (Decreto 1575 de 2011, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.4.6 — Trámite
 
 Dentro de los dos (2) días hábiles siguientes a la presentación de la solicitud de amparo policivo, la autoridad competente deberá avocar conocimiento y verificar el cumplimiento de los requisitos de la solicitud. Si la solicitud no reúne los requisitos de que trata el artículo quinto del presente decreto, se devolverá al interesado al día hábil siguiente para que en el lapso de dos (2) días hábiles los subsane.
@@ -10366,8 +9752,6 @@ Dentro de los dos (2) días hábiles siguientes a la presentación de la solicit
 En caso de que no se subsanen los requisitos, la autoridad competente se abstendrá de tramitar el amparo y notificará dicha decisión a la empresa mediante fijación en edicto por el término de dos (2) días hábiles, contados a partir del día siguiente de la determinación.
 
 (Decreto 1575 de 2011, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.4.7 — Notificación del Amparo Policivo
 
@@ -10377,8 +9761,6 @@ Transcurrido el plazo señalado en el inciso anterior, la autoridad competente d
 
 (Decreto 1575 de 2011, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.4.8 — Diligencia de Amparo Policivo
 
 En caso de que proceda el amparo, dentro de los dos (2) días hábiles siguientes a la ejecutoria de la decisión, la autoridad competente, directamente o contando .con el apoyo de la Policía Nacional se desplazará al lugar de los hechos y una vez allí, requerirá a los querellados para que cesen los actos perturbadores y/o desalojen el predio contando para ello, de ser necesario con el apoyo de la fuerza pública, en los términos autorizados por el Código Nacional de Policía y demás normas vigentes; sin perjuicio de la aplicación de las multas de que trata el artículo 29 de la Ley 142 de 1994.
@@ -10387,15 +9769,11 @@ PARÁGRAFO . Ejecutada la decisión, si los querellados realizan nuevamente los 
 
 (Decreto 1575 de 2011, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3.4.9 — Recursos
 
 En caso de que se niegue el amparo, la decisión deberá ser notificada a la empresa por edicto que se fijará por el término de tres (3) días hábiles, contados a partir del día hábil siguiente de la determinación. Contra la decisión que niega la solicitud de amparo policivo, procede el recurso de reposición, que deberá ser interpuesto ante el mismo funcionario que la profirió, dentro de los tres (3) días hábiles siguientes a la notificación de la decisión. Dicho recurso deberá resolverse en un término que no podrá ser superior a tres (3) días hábiles.
 
 (Decreto 1575 de 2011, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.4.10 — Protección de los Ocupantes o Perturbadores
 
@@ -10411,8 +9789,6 @@ SECCIÓN 1
 
 ASPECTOS RELACIONADOS CON EL CONSEJO NACIONAL DE OPERACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.5.1.1 — Integrantes
 
 La representación de las empresas que conforman el Consejo Nacional de Operación se hará a través de personas vinculadas al área técnica u operativa de dichas empresas. En las reuniones del Consejo Nacional de Operación no se permitirá la presencia ni la participación de personas vinculadas al área comercial de las empresas mencionadas.
@@ -10420,8 +9796,6 @@ La representación de las empresas que conforman el Consejo Nacional de Operaci�
 PARÁGRAFO . Las discusiones y decisiones del Consejo Nacional de operación estarán relacionadas exclusivamente con aspectos técnicos para garantizar que la operación integrada del sistema interconectado nacional sea segura, confiable y económica o sobre aspectos del reglamento de operación, conforme con lo dispuesto en el artículo 36 de la Ley 143 de 1994.
 
 (Decreto 2238 de 2009, en. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.1.2 — Invitados
 
@@ -10438,8 +9812,6 @@ CONSEJO NACIONAL DE TECNICOS ELECTRICISTAS - CONTE
 SUBSECCIÓN 2.1
 
 FUNCIONES DEL CONSEJO NACIONAL Y DE LOS CONSEJOS SECCIONALES
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.1.1 — Funciones del Consejo Nacional
 
@@ -10465,23 +9837,17 @@ i) Organizar su propia secretaría ejecutiva.
 
 (Decreto 1873 de 1996, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.1.2 — Facultad del Consejo Nacional
 
 El Consejo Nacional, según lo previsto en el ordinal d) del artículo 21 de la ley 51 de 1986, podrá señalar funciones en los consejos seccionales.
 
 (Decreto 1873 de 1996, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.1.3 — Administración de los fondos recaudados
 
 Los fondos que se recauden, por concepto de derechos de matrículas y expedición de certificados, serán administrados por la Asociación Colombiana de Ingenieros electricistas, mecánicos, electrónicos y afines, ACIEM, de acuerdo con los procedimientos establecidos por el Consejo Nacional.
 
 (Decreto 1873 de 1996, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.1.4 — Funciones de los consejos seccionales
 
@@ -10507,23 +9873,17 @@ SUBSECCIÓN 2.2
 
 MATRÍCULAS PROFESIONALES
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.2.1 — Matrículas profesionales
 
 Es el acto administrativo mediante el cual se ordena la inscripción de un ingeniero electricista, mecánico o profesional a fin en el registro de ingenieros del Consejo Nacional, y que confiere a dicho ingeniero el derecho a ejercer su profesión en cualquier lugar del país.
 
 (Decreto 1873 de 1996, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.2.2 — Certificado de matrícula
 
 Es el documento que acredita la matrícula profesional de un ingeniero electricista, mecánico o profesional afín.
 
 (Decreto 1873 de 1996, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.2.3 — Solicitud de matrícula
 
@@ -10532,8 +9892,6 @@ La persona que aspire a obtener la matrícula profesional en cualquiera de las p
 El Consejo Nacional elaborará el formulario de solicitud para la obtención de la matrícula profesional, en el que se indicarán la información y los requisitos legales necesarios para la solicitud de la matrícula profesional
 
 (Decreto 1873 de 1996, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.2.4 — Decisión sobre la solicitud de matrícula profesional
 
@@ -10544,8 +9902,6 @@ El Consejo Seccional, podrá ampliar este término hasta por un lapso de treinta
 La negativa de la matrícula profesional sólo podrá basarse en la carencia de las condiciones exigidas por la ley 51 de 1986 para el ejercicio de las ingenierías eléctrica, mecánica y profesiones afines.
 
 (Decreto 1873 de 1996, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.2.5 — Recursos y consulta
 
@@ -10559,15 +9915,11 @@ PARÁGRAFO . El Consejo Seccional, de conformidad con lo previsto en el inciso 3
 
 (Decreto 1873 de 1996, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.2.6 — Inscripción y expedición de certificados
 
 Una vez confirmada la matrícula profesional, el Consejo Nacional deberá efectuar la inscripción en el registro de ingenieros y el Consejo Seccional correspondiente expedirá el certificado que acredite la matrícula profesional.
 
 (Decreto 1873de 1996, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.2.7 — Ejercicio profesional
 
@@ -10575,15 +9927,11 @@ Todo ingeniero electricista, mecánico o profesional afín deberá colocar, al p
 
 (Decreto 1873 de 1996, art. 12)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.2.8 — Ampliación de la matrícula
 
 La persona que tenga matrícula profesional de ingeniero en cualquiera de las profesiones a que se refiere la ley 51 de 1986, y culmine estudios posteriores que le confieran título profesional en otra de dichas profesiones, podrá obtener la ampliación de su matrícula de manera que ésta abarque el conjunto de títulos adquiridos. En este caso se procederá a sustituir la matrícula anterior por otra en la que consten las adiciones.
 
 (Decreto 1873 de 1996, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.2.9 — Cancelación de la matrícula
 
@@ -10597,8 +9945,6 @@ SUBSECCIÓN 2.3
 
 LICENCIAS ESPECIALES
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.3.1 — Otorgamiento de licencias especiales
 
 El profesional perteneciente a una de las profesiones de la ingeniería a que se refiere la ley 51 de 1986, titulado y domiciliado en el exterior, que celebre contrato con una entidad pública o privada para prestar sus servicios en el país por un tiempo determinado, deberá solicitar una licencia especial ante el Consejo Nacional. Para tal efecto deberá diligenciar y presentar el formulario de solicitud correspondiente.
@@ -10606,8 +9952,6 @@ El profesional perteneciente a una de las profesiones de la ingeniería a que se
 Estas licencias serán expedidas cuando, según concepto del Consejo Nacional, sea conveniente o necesario el concurso de ese personal, particularmente cuando se trate de especialidades que no existan en el país o que existan en grado muy limitado.
 
 (Decreto 1873 de 1996, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.3.2 — Capacitación de personal colombiano
 
@@ -10619,15 +9963,11 @@ En el evento de que no se dé cumplimiento a la obligación de entrenar y capaci
 
 (Decreto 1873 de 1996, art. 16)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.3.3 — Prórroga de la licencia especial
 
 En caso de requerirse la ampliación de la licencia especial, por no estar terminado el trabajo para cuya realización se expidió y/o no estar capacitado el personal colombiano, el beneficiario de la licencia especial podrá solicitar, por una sola vez, que se prorrogue el término inicial hasta por seis meses más. El Consejo Nacional decidirá, según su criterio, si accede o no a la solicitud de prórroga.
 
 (Decreto 1873 de 1996, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.3.4 — Validez de la licencia
 
@@ -10638,8 +9978,6 @@ Terminado el trabajo para el cual se otorgó la licencia especial a un ingeniero
 SUBSECCIÓN 2.4.
 
 DE LA PROFESIÓN DE TÉCNICO ELECTRICISTA
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.4.1 — Ejercicio de la Profesión de Técnico Electricista
 
@@ -10655,8 +9993,6 @@ d) La vigilancia e instrucción a los auxiliares e instaladores, en la ejecució
 
 (Decreto 991 de 1991, Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.4.2 — 4.2
 
 Ejercicio como auxiliar de los ingenieros electricistas de la profesión de técnico electricista.Entiéndase que constituye ejercicio como auxiliar de los ingenieros electricistas de la profesión de técnico electricista, de que trata el artículo 1 de la Ley 19 de1990, la realización de actividades y labores relacionadas con el estudio y las aplicaciones de la electricidad que requieren la dirección, coordinación y responsabilidad de ingenieros electricistas.
@@ -10666,8 +10002,6 @@ Ejercicio como auxiliar de los ingenieros electricistas de la profesión de téc
 SUBSECCIÓN 2.5.
 
 CLASES DE MATRÍCULA.
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.5.1 — Clases de Matriculas
 
@@ -10691,8 +10025,6 @@ PARÁGRAFO . Al expedirse la matrícula correspondiente, deberá especificarse e
 
 (Decreto 991 de 1991, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.5.2 — Sustitución de matrículas por reclasificación
 
 Las personas que obtengan su matrícula profesional, en cualesquiera de las clasificaciones que se refiere el artículo 2.2.3.5.2.2.5.1. de este Decreto y que adelanten estudios posteriores que les confieran títulos de otras especialidades o demuestren haberlos hecho con anterioridad, podrán obtener la ampliación de su matrícula, de manera que ésta abarque todo el conjunto de títulos adquiridos. En este caso se procederá a sustituir el documento de la matrícula anterior por uno nuevo en que consten todos los títulos.
@@ -10703,8 +10035,6 @@ SUBSECCIÓN 2.6.
 
 CONSEJO NACIONAL Y COMITÉS SECCIONALES DE TÉCNICOS ELECTRICISTAS.
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.6.1 — Del representante de las escuelas e institutos técnicos de electricidad
 
 El representante de las escuelas e institutos técnicos de electricidad al consejo nacional de técnicos electricistas, a que se refiere el artículo 5 de la Ley 19 de 1990, será seleccionado por el Ministerio de Educación Nacional de la terna presentada por los mencionados centros educativos que funcionen en el país debidamente aprobados por el Gobierno Nacional, dentro de los tres (3) meses anteriores al vencimiento del periodo de quien este ejerciendo el cargo.
@@ -10712,8 +10042,6 @@ El representante de las escuelas e institutos técnicos de electricidad al conse
 PARÁGRAFO . Transcurrido el término a que se refiere el presente artículo sin que se haya presentado la terna correspondiente, el Ministerio de Educación Nacional procederá a elegir el representante respectivo.
 
 (Decreto 991 de 1991, Art. 9)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.6.2 — De los Comités Seccionales
 
@@ -10731,23 +10059,17 @@ PARÁGRAFO . En aquellos departamentos en donde no funcione universidad, escuela
 
 (Decreto 991 de 1991, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.6.3 — Periodo de los miembros
 
 El período de los miembros del consejo nacional y de los comités seccionales de técnicos electricistas será dedos (2) años, sus cargos serán ejercidos sin remuneración y podrán ser reelegidos por una sola vez para el período siguiente.
 
 (Decreto 991 de 1991, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.6.4 — Funciones de los Comités Seccionales
 
 Los comités seccionales de técnicos electricistas ejercerán dentro de su territorio, las mismas funciones del consejo nacional de técnicos electricistas.
 
 (Decreto 991 de 1991, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.6.5 — Funciones Consejo Nacional de Técnicos Electricistas
 
@@ -10773,8 +10095,6 @@ SUBSECCIÓN 2.7.
 
 PERSONAL EXTRANJERO O DOMICILIADO EN EL EXTERIOR.
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.7.1 — De la Licencia Especial
 
 Los extranjeros o colombianos domiciliados en el exterior que hayan obtenido título en país distinto a Colombia en cualesquiera de las actividades clasificadas en el artículo 2.2.3.5.2.2.5.1 de este Decreto deberán, para prestar sus servicios profesionales por tiempo definido o período fijo mayor de seis (6) meses y menor de dos (2) años, formular a través de su empleador la solicitud de prescindencia de la matrícula y de expedición de Licencia Especial para ejercer en el país al Consejo Nacional de Técnicos Electricistas, el cual, dentro de los ocho (8) días siguientes al recibo de la documentación, la estudiará y remitirá al Ministerio de Minas y Energía.
@@ -10787,15 +10107,11 @@ b) Información sobre las actividades que va realizar en el país.
 
 (Decreto 991 de 1991, Art. 14)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.7.2 — Homologación de Títulos obtenidos en el extranjero
 
 Para la prestación de servicios por períodos superiores a dos (2) años, las personas señaladas en el artículo anterior deberán obtener previamente la homologación del título por parte del Ministerio de Educación Nacional o el Instituto Colombiano para el fomento de la Educación Superior ICFES y la matrícula para ejercer la profesión de Técnico Electricista les será expedida por el Ministerio de Minas y Energía con sujeción a lo establecido por el artículo 5 del presente Decreto.
 
 (Decreto 991 de 1991, Art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.7.3 — De la no exigencia de matrícula
 
@@ -10803,15 +10119,11 @@ La prestación de los servicios profesionales por términos menores de seis (6) 
 
 (Decreto 991 de 1991, Art. 16)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.7.4 — Nombramiento en cargos públicos
 
 A partir de la vigencia del presente Decreto la Nación, los departamentos y los municipios, así como sus entidades descentralizadas, determinarán cuáles son los cargos que requieren ser ejercidos por Técnicos Electricistas y, para tomar posesión de los mismos, deberá presentarse la correspondiente matrícula de Técnico Electricista.
 
 (Decreto 991 de 1991, Art. 17)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.7.5 — Inscripción en entidades públicas
 
@@ -10819,23 +10131,17 @@ Los Técnicos Electricistas con matrícula vigente, podrán inscribirse como tal
 
 (Decreto 991 de 1991, Art. 18)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.7.6 — 7.6
 
 Los Técnicos Electricistas con matrícula vigente y debidamente inscritos, calificados y clasificados en los registros de contratistas de las entidades mencionadas en el artículo anterior, previo el trámite establecido en las normas sobre contratación administrativa vigentes, podrán participar en las licitaciones que abran dichas entidades y ser contratados para obras circunscritas a las actividades señaladas en su correspondiente matrícula.
 
 (Decreto 991 de 1991, Art. 19)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.7.7 — 7.7
 
 En los contratos que se celebren con Técnicos Electricistas como resultado de las licitaciones se impondrá la obligación de encomendar la dirección y ejecución de los trabajos de obras eléctricas a Técnicos Electricistas que posean matrícula en la especialidad requerida. El incumplimiento de esta obligación por parte de los Técnicos Electricistas contratistas será establecido como causal de caducidad administrativa.
 
 (Decreto 991 de 1991, Art. 20)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.7.8 — Objeción de trabajos por parte de las electrificadoras
 
@@ -10845,8 +10151,6 @@ Si el Técnico Electricista no realiza las correcciones a las objeciones indicad
 
 (Decreto 991 de 1991, Art. 22)
 
-ARTÍCULO
-
 ## art:2.2.3.5.2.2.7.9 — Ejercicio ilegal de la profesión
 
 No podrán ejercer la profesión de Técnico Electricista, quienes no posean la correspondiente matrícula expedida en la forma establecida en el presente Decreto.
@@ -10854,8 +10158,6 @@ No podrán ejercer la profesión de Técnico Electricista, quienes no posean la 
 PARÁGRAFO . Se exceptúan de lo establecido en el presente artículo los Ingenieros Electricistas.
 
 (Decreto 991 de 1991, Art. 23)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2.2.7.10 — Disposiciones varias
 
@@ -10871,15 +10173,11 @@ SECCIÓN 1.
 
 DEL ALUMBRADO PÚBLICO
 
-ARTÍCULO
-
 ## art:2.2.3.6.1.1 — Campo de Aplicación
 
 Esta sección aplica al servicio de alumbrado público y a las actividades asociadas a la prestación de este servicio.
 
 (Decreto 2424 de 2006, art. 1; Modificado por el Decreto 943 de 2018, art. 3).
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.2 — Prestación del Servicio
 
@@ -10892,8 +10190,6 @@ PARÁGRAFO . La modernización, expansión y reposición del sistema de alumbrad
 PARÁGRAFO . Los municipios o distritos tendrán la obligación de incluir en rubros presupuestales y cuentas contables, independientes, los costos de la prestación del servicio de alumbrado público y los ingresos obtenidos por el impuesto de alumbrado público, por la sobretasa al impuesto predial en caso de que se establezca como mecanismo de financiación de la prestación del servicio de alumbrado público, y/o por otras fuentes de financiación. Cuando el servicio sea prestado por agentes diferentes a municipios o distritos, estos agentes tendrán la obligación de reponer al ente territorial la información para dar cumplimiento a este parágrafo.
 
 (Decreto 2424 de 2006, art. 4; Modificado por el Decreto 943 de 2018, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.3 — Estudio Técnico de Referencia
 
@@ -10909,15 +10205,11 @@ d) Determinación clara del periodo máximo en el que el Estudio Técnico de Ref
 
 (Decreto 2424 de 2006, art. 5; Subrogado por el Decreto 943 de 2018, art. 5).
 
-ARTÍCULO
-
 ## art:2.2.3.6.1.4 — 1.4
 
 Régimen de contratación para la prestación del servicio de alumbrado público a través de terceros.Los contratos relacionados con la prestación del servicio de alumbrado público que suscriban los municipios o distritos con los prestadores del mismo, se regirán por las disposiciones contenidas en el Estatuto General de Contratación de la Administración Pública y demás normas que lo modifiquen, adicionen o complementen, incluyendo los instrumentos de vinculación de que trata la Ley 1508 de 2012 o la disposición que la modifique, complemente o sustituya.
 
 (Decreto 2424 de 2006, art. 6; Modificado por el Decreto 943 de 2018, art. 6).
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.5 — Contratos de suministro de energía
 
@@ -10927,15 +10219,11 @@ Adicionalmente, el contratante velará por que el proceso contractual y la suscr
 
 (Decreto 2424 de 2006, art. 7; Modificado por el Decreto 943 de 2018, art. 7).
 
-ARTÍCULO
-
 ## art:2.2.3.6.1.6 — Periodo de transición
 
 Los contratos para la prestación del servicio de alumbrado público de que trata el artículo 2.2.3.6.1.4 del presente Decreto suscritos antes de la entrada en vigencia del mismo, continuarán sujetos a las disposiciones aplicables a la fecha de su suscripción. No obstante, las prórrogas o adiciones de dichos contratos que se pacten posteriormente, se regirán por lo establecido en este Decreto.
 
 (Decreto 2424 de 2006, art. 8; Subrogado por el Decreto 943 de 2018, art. 8).
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.7 — Criterios técnicos para la determinación del impuesto de alumbrado público
 
@@ -10957,8 +10245,6 @@ Cuando las entidades territoriales complementen la destinación del impuesto con
 
 (Decreto 2424 de 2006, art. 9; Subrogado por el Decreto 943 de 2018, art. 9).
 
-ARTÍCULO
-
 ## art:2.2.3.6.1.8 — 1.8
 
 Metodología para la determinación de los costos por la prestación del servicio de alumbrado público.En aplicación de lo dispuesto en el artículo 351 de la Ley 1819 de 2016, para la determinación del valor del impuesto a recaudar, los municipios y distritos deberán considerar como criterio de referencia el valor total de los costos estimados de prestación en cada componente de servicio. Los Municipios y Distritos deberán realizar un estudio técnico de referencia de determinación de costos de la prestación del servicio de alumbrado público, de conformidad con la metodología para la determinación de costos que establezca el Ministerio de Minas y Energía, o la entidad que delegue dicho Ministerio, pudiendo recaer dicha delegación en la Comisión de Regulación de Energía y Gas.
@@ -10979,15 +10265,11 @@ PARÁGRAFO . Mientras el Ministerio de Minas y Energía o la entidad que para es
 
 (Decreto 2424 de 2006, art. 10; Modificado por el Decreto 943 de 2018, art. 10).
 
-ARTÍCULO
-
 ## art:2.2.3.6.1.9 — Criterios para determinar la Metodología
 
 De conformidad con lo establecido en el artículo 44 de la Ley 143 de 1994, el Ministerio de Minas y Energía, o la entidad que este delegue, aplicará los criterios allí dispuestos para definir la metodología a que se hace. referencia en el artículo anterior.
 
 (Decreto 2424 de 2006, art. 11; Modificado por el Decreto 943 de 2018, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.10 — Control, inspección y vigilancia en la prestación del servicio de alumbrado público
 
@@ -11000,8 +10282,6 @@ La prestación del servicio de alumbrado público estará sujeta al control, ins
 3) Control Fiscal: El control fiscal de que trata la Ley 42 de 1993, será ejercido por las contralorías departamentales, distritales y/o municipales, según corresponda la competencia del sujeto de control, respecto del manejo contractual con los prestadores del servicio de alumbrado público y sus interventores, así como al recaudo y uso del impuesto.
 
 (Decreto 2424 de 2006, art. 12; Modificado por el Decreto 943 de 2018, art. 12).
-
-ARTÍCULO
 
 ## art:2.2.3.6.1.11 — Funciones del Ministerio de Minas y Energía
 
@@ -11021,15 +10301,11 @@ SECCIÓN 2
 
 DEL USO RACIONAL Y EFICIENTE DE LA ENERGÍA
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.1 — Objetivo
 
 El objetivo de la presente Sección es reglamentar el uso racional y eficiente de la energía, de tal manera que se tenga la mayor eficiencia energética para asegurar el abastecimiento energético pleno y oportuno, la competitividad del mercado energético colombiano, la protección al consumidor y la promoción de fuentes no convencionales de energía, dentro del marco del desarrollo sostenible y respetando la normatividad vigente sobre medio ambiente y los recursos naturales renovables.
 
 (Decreto 3683 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2 — Campo de aplicación
 
@@ -11041,15 +10317,11 @@ SUBSECCIÓN 2.1
 
 ESTRUCTURA INSTITUCIONAL
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.1.11 — Gestión del Ministerio de Minas y Energía
 
 El Ministerio de Minas y Energía, formulará los lineamientos de las políticas y diseñará los instrumentos para el fomento y la promoción de las fuentes no convencionales de energía, con prelación en las zonas no interconectadas; así como la ejecución de proyectos en Eficiencia Energética en Colombia; para lo cual realizará las gestiones necesarias para definir estrategias comunes con otras entidades de la Rama Ejecutiva que desarrollen funciones relacionadas con el tema de Uso Racional de Energía, con el objetivo de organizar y fortalecer el esquema institucional más adecuado para el cumplimiento de dicha gestión.
 
 (Decreto 3683 de 2003, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.1.2 — Comisión Intersectorial
 
@@ -11058,8 +10330,6 @@ Créase la Comisión Intersectorial para el Uso Racional y Eficiente de la Energ
 PARÁGRAFO . La Comisión Intersectorial será presidida por el Ministro de Minas y Energía o su delegado.
 
 (Decreto 3683 de 2003, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.1.3 — Integración
 
@@ -11081,15 +10351,11 @@ g) El Director del Instituto de Promoción y Planificación de Soluciones Energ�
 
 (Decreto 3683 de 2003, art. 6, modificado por el Decreto 2688 de 2008 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.1.4 — Secretaría Técnica
 
 La Comisión Intersectorial contará con una Secretaría Técnica que será ejercida por la Unidad de Planeación Minero Energética, UPNIE, y tendrá a su cargo la coordinación de las sesiones y los grupos de trabajo, la preparación de documentos y la elaboración de las actas respectivas.
 
 (Decreto 3683 de 2003, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.1.5 — Objeto
 
@@ -11119,8 +10385,6 @@ PARÁGRAFO . La Comisión de que trata el presente artículo, deberá adoptar su
 
 (Decreto 3683 de 2003, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.1.6 — Sesiones
 
 La Comisión Intersectorial se reunirá ordinariamente una (1) vez cada trimestre.
@@ -11132,8 +10396,6 @@ La Comisión podrá deliberar cuando se encuentren presentes por lo menos tres d
 SUBSECCIÓN 2.2.
 
 MECANISMO INSTITUCIONAL DE PROMOCIÓN
-
-ARTÍCULO
 
 ## art:2.2.3.6.3.2.2.1 — 2.1
 
@@ -11154,8 +10416,6 @@ f) Fomentar el uso de energéticos eficientes, económicos y de bajo impacto amb
 PARÁGRAFO . Para el diseño del Programa de Uso Racional y Eficiente de Energía y demás Formas de Energía No Convencionales, PROURE, el Ministerio de Minas y Energía podrá contar con la participación de los distintos agentes, públicos y privados de cada una de las cadenas energéticas.
 
 (Decreto 3683 de 2003, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.6.3.2.2.2 — Alcance de la promoción
 
@@ -11187,15 +10447,11 @@ SUBSECCIÓN 2.3
 
 ESTÍMULOS PARA LA INVESTIGACIÓN Y LA EDUCACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.6.3.2.3.1 — Estímulos para la investigación
 
 Colciencias, a través de los Programas Nacionales del Sistema Nacional de Ciencia y Tecnología que sean pertinentes, desarrollará estrategias y acciones en conjunto con otras entidades, para crear líneas de investigación y desarrollo tecnológico en el uso racional y eficiente de la energía y/o fuentes no convencionales de energía,
 
 (Decreto 3683 de 2003, art. 13)
-
-ARTÍCULO
 
 ## art:2.2.3.6.3.2.3.2 — Estímulos para la educación
 
@@ -11208,8 +10464,6 @@ Así mismo, organizará un sistema de información que contenga la oferta de pro
 SUBSECCIÓN 2.4.
 
 RECONOCIMIENTOS
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.4.1 — Creación de la Condecoración al Uso Racional y Eficiente de la Energía y Fuentes No Convencionales
 
@@ -11226,8 +10480,6 @@ c) Categoría Investigación: Se otorgará a la persona natural o jurídica que 
 d) Categoría de Enseñanza-Educación: Se otorgará a la Entidad Educativa pública o privada que demuestre el desarrollo de un programa en uso Racional de la Energía y Fuentes de Energía no Convencionales, con los mayores beneficios pedagógicos o de enseñanza para la comunidad".
 
 (Decreto 3683 de 2003, art. 15 modificado por el art. 2, Decreto 2688 de 2008).
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.4.2 — Requisitos para obtenerla distinción
 
@@ -11247,8 +10499,6 @@ f) Además deberá manifestar por escrito ser autor de la obra y responder por e
 
 (Decreto 3683 de 2003, art. 16, modificado por el art. 3 Decreto 2688 de 2008).
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.4.3 — Procedimiento
 
 Para el otorgamiento del título honorífico, adoptase el siguiente procedimiento:
@@ -11267,8 +10517,6 @@ SUBSECCIÓN 2.5.
 
 MECANISMOS DE FINANCIACION
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.5.1 — Financiamiento del Programa de Uso Racional y Eficiente de Energía y demás Formas de Energía No Convencionales, PROURE
 
 El Ministerio de Minas y Energía, sus Unidades Administrativas Especiales CREG y UPME, en coordinación con las entidades públicas pertinentes, identificarán e implementarán los modelos y fuentes de financiación para la gestión y ejecución del Programa de Uso Racional y Eficiente de Energía y demás Formas de Energía No Convencionales, PROURE, y los aplicables a los proyectos de Uso Racional y Eficiente de Energía, URE, y de promoción de energías no convencionales, de conformidad con los lineamientos establecidos en el Programa de Uso Racional y Eficiente de Energía y demás Formas de Energía No Convencionales, PROURE.
@@ -11279,15 +10527,11 @@ SUBSECCIÓN 2.6.
 
 OBLIGACIONES DE LAS EMPRESAS DE SERVICIOS PÚBLICOS Y ENTIDADES DE LA RAMA EJECUTIVA DEL ORDEN NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.6.1 — Obligaciones de las empresas de servicios públicos
 
 Las empresas de servicios públicos que generen, suministren y comercialicen energía eléctrica y gas y realicen programas URE. Deberán presentar cada tres (3) años información de los aspectos técnicos y financieros de sus programas URE a la Unidad de Planeación Minero Energética, UPME, para su seguimiento, análisis e incorporación en la Planeación Energética Nacional.
 
 (Decreto 3683 de 2003, art. 19)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.6.2 — Contenido de las facturas del servicio público domiciliario de energía eléctrica y gas
 
@@ -11296,8 +10540,6 @@ Las empresas de servicios públicos que presten servicios de energía eléctrica
 PARÁGRAFO . De conformidad con el inciso séptimo del artículo 146 de la Ley 142 de 1994, las empresas de energía y gas, podrán incluir el cobro de otros servicios como los servicios energéticos en la factura del servicio público domiciliario respectivo sin que se altere la fórmula tarifaría.
 
 (Decreto 3683 de 2003, art. 20)
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.6.3 — Obligaciones especiales de las entidades de la Rama Ejecutiva del Orden Nacional
 
@@ -11309,8 +10551,6 @@ SUBSECCIÓN 2.7
 
 DERECHO DE LOS CONSUMIDORES
 
-ARTÍCULO
-
 ## art:2.2.3.6.2.2.7.1 — Derecho de información
 
 Con fundamento en el Decreto 381 de 2012 el Ministerio de Minas y Energía en coordinación con las demás autoridades competentes, expedirá los reglamentos técnicos de eficiencia energética que, entre otros aspectos, establecerán las condiciones para el porte de la etiqueta URE de los equipos de uso final de energía, la creación del sello de excelencia energética y las condiciones de comercialización de dichos equipos en lo relacionado con eficiencia energética, con el propósito de proteger los derechos de información de los consumidores.
@@ -11320,8 +10560,6 @@ Con fundamento en el Decreto 381 de 2012 el Ministerio de Minas y Energía en co
 SUBSECCIÓN 2.8.
 
 DISPOSICIONES FINALES
-
-ARTÍCULO
 
 ## art:2.2.3.6.2.2.8.1 — Inventario de fuentes de energías convencionales y no convencionales
 
@@ -11333,8 +10571,6 @@ SECCIÓN 3.
 
 MEDIDAS TENDIENTES AL USO RACIONAL Y EFICIENTE DE LA ENERGÍA ELÉCTRICA.
 
-ARTÍCULO
-
 ## art:2.2.3.6.3.1 — Objeto y campo de aplicación
 
 En el territorio de la República de Colombia, todos los usuarios del servicio de energía eléctrica sustituirán, conforme a lo dispuesto en el presente decreto, las fuentes de iluminación de baja eficacia lumínica, utilizando las fuentes de iluminación de mayor eficacia lumínica disponibles en el mercado.
@@ -11345,8 +10581,6 @@ PARÁGRAFO . Para efectos del presente decreto, se entenderá por eficacia lumí
 
 (Decreto 3450 de 2008, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.6.3.2 — Prohibición
 
 No se permitirá en el territorio de la República de Colombia la importación, distribución, comercialización y utilización de fuentes de iluminación de baja eficacia lumínica.
@@ -11355,15 +10589,11 @@ PARÁGRAFO . Solo se permitirá la utilización de fuentes de iluminación de ba
 
 (Decreto 3450 de 2008, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.6.3.3 — Seguimiento y control
 
 El Ministerio de Minas y Energía establecerá los mecanismos de seguimiento y control para el cumplimiento del presente decreto.
 
 (Decreto 3450 de 2008, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.6.3.4 — Recolección y disposición final de los productos sustituidos
 
@@ -11371,15 +10601,11 @@ El manejo de las fuentes lumínicas de desecho o de sus elementos se hará de ac
 
 (Decreto 3450 de 2008, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.6.3.5 — Monitoreo y seguimiento
 
 Las entidades públicas reportarán semestralmente al Ministerio de Minas y Energía, en el formato que para tal fin diseñará y publicará el Ministerio, las medidas adoptadas y los logros obtenidos en materia de consumo energético, a efectos de medir el avance del programa de sustitución. El Ministerio de Minas y Energía publicará en su página Web el informe del cumplimiento y el impacto de la medida a nivel nacional.
 
 (Decreto 2331 de 2007, art. 3, modificado por el art. 3 decreto 895 de 2008).
-
-ARTÍCULO
 
 ## art:2.2.3.6.3.6 — Recolección y disposición final de las luminarias y dispositivos de iluminación
 
@@ -11390,8 +10616,6 @@ El manejo pos consumo de los productos de desecho que contengan residuos o susta
 SECCIÓN 4.
 
 PRACTICAS CON FINES DE USO RACIONAL Y EFICIENTE DE ENERGÍA ELÉCTRICA
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.1 — Objetivo y Campo de aplicación
 
@@ -11427,15 +10651,11 @@ g) Calentamiento para cocción.
 
 (Decreto 2501 de 2007, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.2 — Reglamento Técnico con fines de Eficiencia Energética
 
 Los Ministerios de Minas y Energía, y de Comercio, Industria y Turismo, expedirán las normas técnicas para el diseño y porte de etiquetado con fines de uso racional y eficiente de energía eléctrica, aplicable a los productos que se relacionen con los procesos indicados en los? numerales 1 y 2 del artículo 2.2.3.6.4.1.de este decreto
 
 (Decreto 2501 de 2007, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.3 — Uso racional y eficiente de Energía Eléctrica en vivienda de interés social
 
@@ -11445,15 +10665,11 @@ A partir del tercer año contado desde el 4 de julio de
 
 (Decreto 2501 de 2007, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.4 — Uso racional y eficiente de Energía Eléctrica en iluminación y alumbrado público
 
 El Ministerio de Minas y Energía expedirá el reglamento técnico correspondiente al uso racional y eficiente de energía eléctrica en iluminación y alumbrado público.
 
 (Decreto 2501 de 2007, en. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.5 — Uso racional y eficiente de Energía Eléctrica en semaforización
 
@@ -11461,23 +10677,17 @@ El Ministerio de Minas y Energía expedirá la reglamentación técnica correspo
 
 (Decreto 2501 de 2007, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.6 — Responsabilidad
 
 La responsabilidad civil, penal, y/o fiscal originada en la inobservancia de las disposiciones contenidas en el presente decreto, será las que determinen las disposiciones legales vigentes.
 
 (Decreto 2501 de 2007, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.6.4.7 — Publicación para observaciones y notificación internacional
 
 Para dar cumplimiento al artículo 2.9 del Acuerdo sobre Obstáculos Técnicos al Comercio, adoptado por Colombia mediante la Ley 170 de 1994, y a las Decisiones de la Comunidad Andina de Naciones aplicadas, los anteproyectos de Reglamentos Técnicos que se elaboren, se publicarán en las páginas Internet oficiales de los Ministerios de Minas y Energía, y de Comercio, Industria y Turismo y Vivienda, Ciudad y Territorio, para que en esta etapa temprana los sectores y otros interesados puedan formular sus observaciones. Así mismo, los textos de los proyectos de Reglamentos Técnicos sobre los temas aquí referidos se notificarán internacionalmente, de acuerdo con la legislación vigente y los acuerdos internacionales de los cuales Colombia hace parte.
 
 (Decreto 2501 de 2007, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.8 — Mención de Honor
 
@@ -11486,8 +10696,6 @@ En desarrollo de lo dispuesto en el numeral 4 del artículo 7 de la Ley 697 de 2
 Dicha mención será otorgada por el Ministerio de Minas y Energía mediante resolución motivada, previo análisis del aporte o contribución al país
 
 (Decreto 2225 de 2010, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.6.4.9 — 4.9
 
@@ -11503,8 +10711,6 @@ CAPÍTULO 7
 
 DE LAS OBRAS DE GENERACION DE ENERGÍA ELECTRICA
 
-ARTÍCULO
-
 ## art:2.2.3.7.1 — Entidades Propietarias
 
 Las entidades mencionadas en el artículo 2 de la Ley 56 de 1981 que acometan las obras de que trata el artículo 1 de la misma Ley, deberán reponer o adecuar a su cargo, los bienes de uso público y los bienes fiscales del Estado que por causa de los trabajos desaparezcan, se destruyan o inutilicen total o parcialmente; pero si por fuerza mayor no fuere posible ejecutar dicha reposición o adecuación, pagarán el valor de tales bienes, según avalúo del Instituto Geográfico Agustín Codazzi.
@@ -11514,8 +10720,6 @@ La identificación de la característica de los bienes, su afectación parcial o
 Las controversias que surjan sobre el carácter de indispensables de los bienes que desaparezcan, se destruyan o se inutilicen por razón de las obras, las dirimirá el Ministerio del ramo al cual correspondan las obras.
 
 (Decreto 2024 de 1982, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2 — Reposición o adecuación de bienes
 
@@ -11527,8 +10731,6 @@ SECCIÓN 1.
 
 IMPUESTOS, COMPENSACIONES Y BENEFICIOS.
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.1 — 1.1
 
 Para efectos del cálculo a que se refiere el parágrafo del artículo 4 de la Ley 56 de 1981, se aplicarán los valores del último avalúo catastral efectuado por el Instituto Geográfico Agustín Codazzi o por la entidad catastral respectiva. En caso de no existir clara delimitación entre las áreas urbanas y rurales del municipio de que se trate, tal delimitación corresponderá hacerla al Instituto Geográfico Agustín Codazzi o a la entidad catastral competente en el municipio.
@@ -11538,8 +10740,6 @@ El avalúo catastral de los edificios y vivientes permanentes de que trata el li
 El impuesto predial de que trata el mismo ordinal b) tendrá vigencia a partir de la inscripción del inmueble en el catastro respectivo, la que deberá hacerse dentro de los seis meses siguientes a la fecha en que se comunique el respectivo avalúo catastral a la entidad propietaria.
 
 (Decreto 2024 de 1982, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.7.1.2 — Compensaciones
 
@@ -11551,8 +10751,6 @@ El reconocimiento de la compensación de que trata el literal a) del artículo 4
 
 (Decreto 2024 de 1982, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.3 — Calculo de la compensación
 
 Para calcular el monto de la compensación se aplicará el avalúo catastral promedio de que trata el parágrafo del artículo 4 de la Ley 56 de 1981, tanto a los predios rurales como a los urbanos que hayan adquirido la entidad propietaria.
@@ -11561,23 +10759,17 @@ Los avalúos catastrales de los predios adquiridos por la entidad propietaria se
 
 (Decreto 2024 de 1982, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.4 — Impuesto predial vigente
 
 Se entiende por "impuesto predial vigente" para efectos del parágrafo del artículo 4 de la Ley 56 de 1981 el que regía el 5 de octubre del mismo año, respecto de las obras en construcción y el que rija en la fecha de la compra del inmueble, para las nuevas obras.
 
 (Decreto 2024 de 1982, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.5 — Compensaciones previas
 
 Cuando con anterioridad a la vigencia de la Ley 56 de 1981 se hayan celebrado convenios entre los municipios y la entidades propietarias de las obras para otorgarle a aquellos compensaciones por razón de las mismas obras mediante fondos de fideicomiso, los saldos no utilizados de esos fondos revertirán a las entidades propietarias a partir del primero (1) de enero de 1983.
 
 (Decreto 2024 de 1982, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.3.7.1.6 — Fondos especiales de inversión
 
@@ -11586,8 +10778,6 @@ Los fondos especiales a que se refiere el Artículo 5 de la Ley 56 de 1981 será
 El Tesorero Municipal expedirá las constancias correspondientes al recibo de los dineros de que trata el citado artículo 5, a favor de la entidad propietaria de la obra y en la misma fecha en que se produzca el pago.
 
 (Decreto 2024 de 1982, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.3.7.1.7 — Obras civiles principales
 
@@ -11619,23 +10809,17 @@ La licitación podrá hacerse para todas las obras civiles principales o para un
 
 (Decreto 2024 de 1982, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.8 — Adquisición de predios en varias entidades territoriales
 
 Si los predios se adquieren en forma parcial, los avalúas catastrales que servirán de base para calcular el monto del pago de que trata el literal a) del artículo 4 de la Ley 56 de 1981 a favor de los municipios, serán los que proporcionalmente correspondan a las áreas que efectivamente se adquieran y se programen adquirir por las entidades propietarias.
 
 (Decreto 2024 de 1982, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.9 — Reposición de Bienes a favor del Estado
 
 Cuando las entidades propietarias hayan ejecutado, mediante convenios con las comunidades afectadas por las obras públicas de que trata el artículo 1 de la Ley 56 de 1981, obras diferentes de las ordenadas por el artículo 3 de la Ley, el costo de estas últimas que haya sido aportado por la entidad propietaria se imputará al valor de su aporte al fondo especial de que trata el artículo 5 de la Ley.
 
 (Decreto 2024 de 1982, art. 11)
-
-ARTÍCULO
 
 ## art:2.2.3.7.1.10 — Fecha de entrada en operación y capacidad instalada
 
@@ -11645,15 +10829,11 @@ La proporción que de la capacidad instalada de la central corresponda a cada un
 
 (Decreto 2024 de 1982, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.3.7.1.11 — Impuesto de industria y comercio
 
 El impuesto de industria y comercio autorizado por los literales a) y c) del artículo 7 de la Ley 56 de 1981, regirá en cada caso a partir de la vigencia del acuerdo municipal que fije dicho gravamen para las entidades propietarias de las obras de que trata el mismo artículo, siempre y cuando esté en operación comercial la respectiva central de generación eléctrica
 
 (Decreto 2024 de 1982, art. 15)
-
-ARTÍCULO
 
 ## art:2.2.3.7.1.12 — Extensión del impuesto
 
@@ -11665,15 +10845,11 @@ SECCIÓN 2
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.1 — Soluciones de vivienda y servicios complementarios
 
 Las soluciones de vivienda y servicios complementarios para alojar y servir al personal que se emplee en las obras, son las necesarias en el sitio de los trabajos, para el manejo y administración del proyecto por la entidad propietaria y la que requieran los contratistas de las obras para dar alojamiento provisional y los servicios de acueducto, alcantarillado, aseo, salud, educación y recreación al personal empleado en las labores de construcción de acuerdo a los pliegos de condiciones y contratos de la respectiva entidad propietaria.
 
 (Decreto 2024 de 1982, art. 17)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.2 — Primera Opción de Compra
 
@@ -11686,8 +10862,6 @@ Las oficinas de registro de instrumentos públicos darán prelación al registro
 Para todo efecto legal se entiende que el procedimiento señalado en el artículo 10 de la Ley 56 de 1981 se aplica solamente a los casos en que los propietarios no lleguen al acuerdo de voluntad con la empresa ejecutora del proyecto, respecto del valor del bien o bienes materia del contrato o de la negociación.
 
 (Decreto 2024 de 1982, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.3 — Comisión Tripartita
 
@@ -11715,8 +10889,6 @@ El representante de los propietarios elegido en la asamblea o nombrado por el Mi
 
 (Decreto 2024 de 1982, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.4 — Manual de valores unitarios
 
 Los valores unitarios que se señalen en el manual de que trata el numeral 2) del artículo 10 de la Ley 56 de 1981, deberán ser aprobados al menos por dos de los tres representantes que integran la comisión.
@@ -11729,15 +10901,11 @@ Con el manual de precios unitarios la entidad propietaria del proyecto proceder�
 
 (Decreto 2024 de 1982, art. 20)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.5 — Resolución de conflictos
 
 Los conflictos que se presenten entre las partes con motivo de la elaboración del inventario de los bienes que habrán de afectarse por la obra, serán dirimidos por la comisión a solicitud de cualquiera de las partes.
 
 (Decreto 2024 de 1982, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.6 — Sanción por oposición injustificada a la realización del inventario
 
@@ -11745,15 +10913,11 @@ En el caso de que el propietario de un predio afectado por las obras impida o pe
 
 (Decreto 2024 de 1982, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.7 — Fijación de los honorarios del representante de los propietarios
 
 El Ministerio del ramo señalará el monto de la remuneración que corresponde al representante de los propietarios de los predios afectados, por mensualidades vencidas. La entidad propietaria de la obra cancelará directamente al representante la suma establecida.
 
 (Decreto 2024 de 1982, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.8 — Posesión de la Comisión Tripartita
 
@@ -11761,15 +10925,11 @@ Antes de entrar en ejercicio de sus funciones, los miembros de la comisión de q
 
 (Decreto 2024 de 1982, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.9 — Determinación de áreas
 
 En la determinación del "área afectada en cada predio" a que se refiere el numeral 3) del artículo 10 de la Ley 56 de 1981, se tendrá en cuenta, a juicio de la entidad propietaria de las obras, no sólo los terrenos afectados por condiciones normales de operación, sino las franjas adicionales que pueden requerirse como protección por inundaciones probables o crecientes máximas, protección de taludes o reforestación.
 
 (Decreto 2024 de 1982, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.10 — Reconocimiento de la prima de reubicación familiar
 
@@ -11787,15 +10947,11 @@ c) En el caso de que el establecimiento comercial o industrial sea de ínfima cu
 
 Tendrán derecho a la prima de reubicación familiar además del jefe de familia que habitaba el predio adquirido por la entidad propietaria de las obras, su cónyuge y los hijos que vivían con aquel y bajo su dependencia económica. Se tendrán como hijos que dependen económicamente de la cabeza familiar quienes en la fecha de la firma de la correspondiente escritura eran menores de edad y quienes no obstante haber alcanzado la mayor edad en la misma fecha, eran estudiantes o inválidos.
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.11 — Avalúo
 
 El avalúo de los inmuebles afectados por las obras, deberá ajustarse al inventario suscrito por las partes, de que trata el artículo 10 de la Ley 56 de 1981 y por consiguiente, la entidad propietaria no estará obligada a reconocer las adiciones, reformas o mejoras permanentes que no figuren en aquél.
 
 (Decreto 2024 de 1982, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.12 — Programas de electrificación rural y de reforestación
 
@@ -11805,15 +10961,11 @@ Los programas de reforestación y electrificación rural se ejecutarán dando pr
 
 (Decreto 2024 de 1982, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.13 — Inversión de los recursos excedentes
 
 Realizados los programas de reforestación y, en general, de protección de los recursos naturales determinados en el plan de ordenación de la respectiva cuenca hidrográfica, las entidades propietarias de Centrales Hidroeléctricas podrán invertir los recursos excedentes en incrementar los fondos en fideicomiso de que trata la parte final del artículo 31.
 
 (Decreto 2024 de 1982, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.14 — Planes y programas de inversión para protección del medio ambiente
 
@@ -11823,15 +10975,11 @@ PARÁGRAFO .- Las entidades propietarias de Centrales Térmicas, harán las inve
 
 (Decreto 2024 de 1982, art. 34)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.15 — Programas de electrificación rural
 
 La asignación del otro 2 por ciento del valor de las ventas de energía que las entidades propietarias de plantas generadoras deben hacer, conforme al literal b) del artículo 12 de la Ley 56 de 1981, en programas de electrificación rural, se invertirá en la construcción de nuevas redes y obras necesarias para desarrollar los programas, teniendo en cuenta las prioridades señaladas en el estudio económico y social de que trata el artículo 6 de la misma ley.
 
 (Decreto 2024 de 1982, art. 35)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.16 — Reforestación y protección de recursos naturales
 
@@ -11843,15 +10991,11 @@ PARÁGRAFO .- En la liquidación del 4 por ciento correspondiente al año calend
 
 (Decreto 2024 de 1982, art. 36)
 
-ARTÍCULO
-
 ## art:2.2.3.7.2.17 — Inaplicabilidad de la sanción
 
 No habrá lugar a la sanción del 50 por ciento contemplada en el artículo 13 de la Ley 56 de 1981 si el incumplimiento en efectuar oportunamente la inversión de que se trata obedece a razones de fuerza mayor, debidamente comprobadas.
 
 (Decreto 2024 de 1982, art. 37)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2.18 — Protección de los bienes
 
@@ -11863,8 +11007,6 @@ SECCIÓN 3.
 
 EXPROPIACIONES Y SERVIDUMBRES.
 
-ARTÍCULO
-
 ## art:2.2.3.7.3.1 — Expropiación de bienes
 
 Para los efectos señalados en el artículo 18 de la Ley 56 de 1981, entiéndase por decretar la expropiación de los bienes o derechos que sean necesarios, expedir por el Gerente, Director o representante legal de la entidad respectiva, la resolución que singulariza por su ubicación, linderos y propietarios o poseedores inscritos o materiales, los inmuebles afectados por la declaratoria de utilidad pública, para cumplir el requisito que exige el numeral 3 del artículo 399 del Código General del Proceso.
@@ -11875,8 +11017,6 @@ PARÁGRAFO .- Se entiende que hay negativa a enajenar cuando el propietario o po
 
 (Decreto 2024 de 1982, art. 39)
 
-ARTÍCULO
-
 ## art:2.2.3.7.3.2 — Trámite del proceso de expropiación
 
 De conformidad con lo dispuesto por el artículo 120 del Código General del Proceso, el Juez que conozca del trámite del proceso de expropiación a que se refiere la Ley 56 de 1981, deberá dictar los autos en el término de diez días y las sentencias en el de cuarenta días, contados todos desde que el expediente pase al despacho para tal fin.
@@ -11884,8 +11024,6 @@ De conformidad con lo dispuesto por el artículo 120 del Código General del Pro
 PARÁGRAFO .- El retardo del Juez en dictar las providencias anteriores, lo hará incurrir en la falta disciplinaria prevista en el literal a) del artículo 61 del Decreto 052 de 1987, en las normas que lleguen a sustituirlo.
 
 (Decreto 2024 de 1982, art. 40)
-
-ARTÍCULO
 
 ## art:2.2.3.7.3.3 — Permisos de acceso
 
@@ -11897,15 +11035,11 @@ Los daños que se ocasionen con motivo de los trabajos que ejecute la entidad pr
 
 (Decreto 2024 de 1982, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.3.7.3.4 — De los aportes
 
 Cuando las entidades propietarias hayan ejecutado mediante convenios con las comunidades afectadas por las obras públicas de que trata el artículo 1 de la Ley 56 de 1981, programas de electrificación rural, el costo de éstos que haya sido aprobado por la entidad propietaria se considerará como parte de su aporte por ventas de energía de que trata el literal b) del artículo 12 de la Ley 56 de 1981.
 
 (Decreto 2024 de 1982, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.3.7.3.5 — De las reglamentaciones
 
@@ -11921,8 +11055,6 @@ SUBSECCIÓN 1
 
 DE LA PRIMERA OPCIÓN DE COMPRA
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.1 — 4.1
 
 De la Primera Opción de Compra.- Para efectos de lo señalado en el artículo 9 de la Ley 56 de 1981, la Primera Opción de Compra, corresponde a aquella situación jurídica mediante la cual, los bienes vinculados a la declaratoria de utilidad pública salen del tráfico comercial general, para reservarse exclusivamente a la posibilidad de adquisición por parte de la entidad señalada como propietaria del proyecto en la resolución de declaratoria de utilidad pública.
@@ -11932,8 +11064,6 @@ PARÁGRAFO . Una vez transcurridos los dos (2) años de que trata el último inc
 PARÁGRAFO . Si la entidad propietaria del proyecto no da cumplimiento a lo establecido en el parágrafo anterior, las Oficinas de Registro respectivas no estarán obligadas a impedir el ejercicio de los derechos inherentes a los propietarios o poseedores de los predios afectados por la declaratoria.
 
 (Decreto 2444 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.7.4.2 — 4.2
 
@@ -11981,8 +11111,6 @@ De la documentación necesaria para la Declaratoria de Utilidad Pública.- Para 
 
 (Decreto 2444 de 2013, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.3 — 4.3
 
 Del acto de Declaratoria de Utilidad Pública e Interés Social.- El Gobierno Nacional podrá, mediante resolución ejecutiva, calificar como de utilidad pública e interés social los planes, proyectos y ejecución de obras para la generación, transmisión y distribución de energía eléctrica, así como las zonas a ellos afectas.
@@ -11994,8 +11122,6 @@ PARÁGRAFO . La resolución ejecutiva señalará la entidad facultada para exped
 PARÁGRAFO . La entidad propietaria del proyecto deberá, con el fin de evitar limitaciones innecesarias al ejercicio a la propiedad privada, liberar en el menor tiempo posible y ante las respectivas Oficinas de Registro de Instrumentos Públicos y Notarías, las áreas de terreno que no se requieran para la construcción del proyecto declarado de utilidad pública e interés social.
 
 (Decreto 2444 de 2013, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.7.4.4 — 4.4
 
@@ -12009,23 +11135,17 @@ PARÁGRAFO . Contra la resolución que decreta la expropiación procederá el re
 
 (Decreto 2444 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.5 — 4.5
 
 Término para el inicio del proceso de expropiación.- De conformidad con lo previsto por el numeral 2 del artículo 399 de la Ley 1564 de 2012 (Código General del Proceso) o aquella que la modifique y/o adicione, la demanda de expropiación deberá ser presentada dentro de los tres (3) meses siguientes a la fecha en la cual quede en firme la resolución que ordene la expropiación, so pena de que dicha resolución y las inscripciones que se hubieren efectuado en las oficinas de registro de instrumentos públicos pierdan fuerza ejecutoria, sin necesidad de pronunciamiento judicial o administrativo alguno. El registrador deberá cancelar las inscripciones correspondientes, a solicitud de cualquier persona, previa constatación del hecho.
 
 (Decreto 2444 de 2013, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.7.4.6 — 4.6
 
 Autorizaciones ambientales.- En cumplimiento de lo dispuesto por el artículo 52 de la Ley 143 de 1994, la empresa propietaria del proyecto deberá adelantar las actuaciones necesarias ante las autoridades ambientales competentes con el objeto de obtener los permisos establecidos en la Ley 99 de 1993 y las normas que la desarrollen, modifiquen o aclaren.
 
 (Decreto 2444 de 2013, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.7.4.7 — 4.7
 
@@ -12039,15 +11159,11 @@ SECCIÓN 5
 
 DE LAS EXPROPIACIONES Y SERVIDUMBRES.
 
-ARTÍCULO
-
 ## art:2.2.3.7.5.1 — Procesos judiciales
 
 Los procesos judiciales que sean necesarios para imponer y hacer efectivo el gravamen de servidumbre pública de conducción de energía eléctrica, serán promovidos, en calidad de demandante, por la entidad de derecho público que haya adoptado el respectivo proyecto y ordenado su ejecución, de acuerdo con los requisitos y el procedimiento, señalados en este Decreto.
 
 (Decreto No. 2580 de 1985, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.7.5.2 — De la demanda
 
@@ -12066,8 +11182,6 @@ d) El título judicial correspondiente a la suma estimada como indemnización.
 e) Los demás anexos de que trata el artículo 84 del Código General del Proceso.
 
 (Decreto No. 2580 de 1985, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.7.5.3 — Trámite
 
@@ -12107,15 +11221,11 @@ Las indemnizaciones que correspondan a titulares de derechos reales principales,
 
 (Decreto No. 2580 de 1985, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.3.7.5.4 — De la no exigencia de un requisito
 
 El acto administrativo a que se refiere el artículo 18 de la Ley 56 de 1981, no es exigible en los procesos a que se refiere el presente Decreto.
 
 (Decreto No. 2580 de 1985, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.3.7.5.5 — Remisión de normas
 
@@ -12123,15 +11233,11 @@ Cualquier vado en las disposiciones anteriores se llenará de acuerdo con las no
 
 (Decreto No. 2580 de 1985, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.3.7.5.6 — Régimen aplicable
 
 Los procesos sobre servidumbre pública de conducción de energía eléctrica, iniciados antes de la vigencia del Decreto 2580 de 1985, se sujetarán en lo pertinente, a las disposiciones contenidas en este reglamento. No obstante los recursos interpuestos, la práctica de las pruebas decretadas, los términos que hubieren comenzado a correr y las notificaciones que se estén surtiendo, se regirán por las normas vigentes cuando se interpuso el recurso, se decretaron las pruebas, empezó a correr el término, o principió a surtirse la notificación.
 
 (Decreto No. 2580 de 1985, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.3.7.5.7 — De otras acciones sobre los predios objeto del proceso de servidumbre
 
@@ -12150,8 +11256,6 @@ SECCIÓN 1
 GENERALIDADES
 
 (Capítulo adicionado por el Decreto 2143 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.1.1 — - Definiciones
 
@@ -12175,21 +11279,15 @@ DEDUCCIÓN ESPECIAL SOBRE EL IMPUESTO DE RENTA Y COMPLEMENTARIOS
 
 (Sección adicionada por el Decreto 2143 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.1 — - Deducción especial en la determinación del impuesto sobre la renta
 
 Los contribuyentes declarantes del impuesto sobre la renta y complementarios que realicen directamente nuevas erogaciones en investigación, desarrollo e inversión en el ámbito de la producción y utilización de energía a partir FNCE o gestión eficiente de la energía, tendrán derecho a deducir hasta el cincuenta por ciento (50%) del valor de las inversiones, en los términos de los siguientes artículos, en concordancia con los porcentajes establecidos en el artículo 11 de la Ley 1715 de 2014.
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.2 — - Requisitos generales para acceder al incentivo
 
 Para la aplicación del artículo anterior, los contribuyentes declarantes del impuesto sobre la renta y complementarios interesados en la deducción especial prevista en el artículo 11 de la Ley 1715 de 2014 deberán obtener previamente la Certificación de Beneficio Ambiental que expide el Ministerio de Ambiente y Desarrollo Sostenible en los términos del artículo 158-2 del Estatuto Tributario y demás normas que lo reglamenten, modifiquen o adicionen.
 
 PARÁGRAFO . El Ministerio de Ambiente y Desarrollo Sostenible establecerá el procedimiento y los requisitos para la expedición del certificado en los términos del literal d), numeral 5, del artículo 6 de la Ley 1715 de 2014.
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.3 — - Alcance de la aplicación de la deducción especial
 
@@ -12205,8 +11303,6 @@ En la aplicación del beneficio de que trata el artículo 11 de la Ley 1715 de 2
 
 5. Los contribuyentes declarantes del impuesto sobre la renta obligados a llevar contabilidad podrán, adicional a lo establecido en los numerales 1 y 2 de este artículo, en el año en que se efectúe la inversión, deducir por las nuevas inversiones en proyectos de FNCE o gestión eficiente de la energía, el valor por depreciación o amortización que corresponda de acuerdo con el régimen general de deducciones previsto en el Estatuto Tributario o aquel previsto en el artículo 14 de la Ley 1715 de 2014.
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.4 — - Inversiones realizadas a través de leasing financiero
 
 La deducción especial prevista en el artículo 11 de la Ley 1715 de 2014, procederá igualmente cuando las nuevas erogaciones en investigación, desarrollo e inversión en el ámbito de la producción y utilización de FNCE o gestión eficiente de la energía se efectúen por medio de contratos de leasing financiero con opción irrevocable de compra, en cuyo caso se aplicará el beneficio tributario en comento a partir del año siguiente en el que se suscriba el contrato, siempre y cuando el locatario ejerza la opción de compra al final del mismo.
@@ -12217,13 +11313,9 @@ El valor base de la deducción especial de que trata el artículo 11 de la Ley 1
 
 PARÁGRAFO . El tratamiento previsto en este artículo no será aplicable cuando las inversiones se efectúen a través de contratos de retroarriendo o léase back, o cualquier otra modalidad que no implique la transferencia de la propiedad de los activos a su finalización.
 
-ARTÍCULO
-
 ## art:2.2.3.8.2.5 — 
 
 2.2.3.8.2.5.- Efecto de las anulaciones, resoluciones y rescisiones de los contratos en nuevas inversiones en proyectos de FNCE o gestión eficiente de la energía. Cuando se anulen, resuelvan o rescindan los contratos celebrados para llevar a cabo las nuevas inversiones en proyectos para el desarrollo de FNCE o gestión eficiente de la energía que hayan dado lugar a la deducción especial, los contribuyentes deberán restituir el beneficio incorporándolo como renta líquida por recuperación de deducciones en los términos de los artículos 195 y 196 del Estatuto Tributario en el año gravable en que se anule, resuelva o rescinda el contrato correspondiente.
-
-ARTÍCULO
 
 ## art:2.2.3.8.2.6 — - Enajenación de los activos integrantes de proyectos para el desarrollo de FNCE o gestión eficiente de la energía
 
@@ -12240,8 +11332,6 @@ SECCIÓN 3
 EXCLUSIÓN DEL IVA
 
 (Sección adicionada por el Decreto 2143 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.3.1 — - Requisitos generales para acceder a este incentivo
 
@@ -12260,8 +11350,6 @@ SECCIÓN 4
 EXENCIÓN DE GRAVAMEN ARANCELARIO
 
 (Capítulo adicionado por el Decreto 2143 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.4.1 — - Requisitos generales para acceder a este incentivo
 
@@ -12287,8 +11375,6 @@ RÉGIMEN DE DEPRECIACIÓN ACELERADA
 
 (Capítulo adicionado por el Decreto 2143 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.8.5.1 — - Requisitos generales para acceder al incentivo de depreciación acelerada de activos
 
 Aquellos Generadores de Energía a partir de FNCE que realicen nuevas inversiones en maquinaria, equipos y obras civiles adquiridos y/o construidos con posterioridad a la vigencia de la Ley 1715 de 2014, exclusivamente para las etapas de pre inversión, inversión y operación de proyectos de generación a partir de FNCE, podrán aplicar el incentivo de depreciación fiscal acelerada, de acuerdo con la técnica contable, hasta una tasa anual global del veinte por ciento (20%).
@@ -12303,15 +11389,11 @@ ADECUACIÓN DE TRÁMITES
 
 (Capítulo adicionado por el Decreto 2143 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.8.6.1 — - Ministerio de Ambiente y Desarrollo Sostenible
 
 El Ministerio de Ambiente y Desarrollo Sostenible o la entidad que este delegue para tal fin expedirá en un plazo máximo de tres (3) meses contados a partir de la entrada en vigencia del presente decreto, los trámites y requisitos para otorgar la Certificación de Beneficio Ambiental sobre la compra de equipos, elementos y maquinaria o la adquisición de servicios excluidos de IVA o sujetos de la deducción especial, por nuevas inversiones en proyectos de FNCE o gestión eficiente de la energía.
 
 Dichas solicitudes de certificación serán decididas en un plazo de hasta noventa (90) días calendario, contados a partir de la radicación de la solicitud en dicha entidad con el lleno de los requisitos establecidos para ello.
-
-ARTÍCULO
 
 ## art:2.2.3.8.6.2 — - Unidad de Planeación Minero Energética
 
@@ -12319,13 +11401,9 @@ La Unidad de Planeación Minero Energética establecerá en un plazo de tres (3)
 
 La certificación que avala la documentación del proyecto exigida para la exención de gravamen arancelario y la exclusión de IVA serán emitidas en un plazo de cuarenta y cinco (45) días calendario, contados a partir de la solicitud radicada en la UPME.
 
-ARTÍCULO
-
 ## art:2.2.3.8.6.3 — 
 
 2.2.3.8.6.3.-La decisión administrativa correspondiente a las solicitudes de Certificación de Beneficio Ambiental y de exención de gravamen arancelario por Importación serán atendidas de conformidad con el procedimiento contemplado en la Ley 1437 de 2011 o sus modificaciones y contra las decisiones que se adopten procederá el recurso de reposición.
-
-ARTÍCULO
 
 ## art:2.2.3.8.6.4 — 
 
@@ -12339,23 +11417,17 @@ SECCIÓN 7
 
 LINEAMIENTOS DE POLÍTICA PÚBLICA PARA LA CONTRATACIÓN A LARGO PLAZO DE PROYECTOS DE GENERACIÓN DE ENERGÍA ELÉCTRICA
 
-ARTÍCULO
-
 ## art:2.2.3.8.7.1 — Objeto
 
 - Establecer los lineamientos de política pública para definir e implementar un mecanismo que promueva la contratación de largo plazo para los proyectos de generación de energía eléctrica y que sea complementario a los mecanismos existentes en el Mercado de Energía Mayorista.
 
 (Decreto 570 de 2018 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.8.7.2 — Ámbito de aplicación
 
 Esta sección aplica a los agentes del Mercado de Energía Mayorista.
 
 (Decreto 570 de 2018 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.7.3 — Objetivos
 
@@ -12373,15 +11445,11 @@ v) Reducir las emisiones de gases de efecto invernadero (GEI) del sector de gene
 
 (Decreto 570 de 2018 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.8.7.4 — Revisión y seguimiento
 
 La UPME, de conformidad con las competencias asignadas en la normatividad vigente, realizará los análisis respectivos en cada Plan de Expansión de Referencia de Generación y Transmisión de energía eléctrica para verificar el cumplimiento de los objetivos del artículo 2.2.3.8.7.3 de la presente Sección, considerando incluso la ocurrencia de fenómenos climáticos extremos (como el Fenómeno de El Niño), e informará al Ministerio de Minas y Energía para que se tomen las medidas correspondientes.
 
 (Decreto 570 de 2018 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.7.5 — Características
 
@@ -12401,15 +11469,11 @@ v) Esquema de garantías y responsabilidades de los participantes.
 
 (Decreto 570 de 2018 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.3.8.7.6 — Traslado a la fórmula tarifaria
 
 La CREG, antes del 31 de julio de 2018, establecerá el esquema para trasladar los costos eficientes de compra de energía resultantes de la aplicación del mecanismo del que trata el artículo 2.2.3.8.7.1 a la tarifa de los usuarios finales, de acuerdo con lo establecido en el artículo 73.11 de la Ley 142 de 1994 y demás normas concordantes.
 
 (Decreto 570 de 2018 art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.8.7.7 — Otras disposiciones
 
@@ -12427,8 +11491,6 @@ SUBSECCIÓN 8.1
 
 TRANSFERENCIAS ELÉCTRICAS CON DESTINO A MUNICIPIOS Y DISTRITOS BENEFICIARIOS
 
-ARTÍCULO
-
 ## art:2.2.3.8.8.1 — Objeto
 
 La presente Subsección tiene por objeto reglamentar parcialmente las transferencias a las que se refiere el artículo 289 de la Ley 1955 de 2019 y de las que son beneficiarios los municipios o distritos que se ubiquen únicamente en el área de influencia del respectivo proyecto de generación de energía eléctrica con Fuentes No Convencionales de Energía - FNCE-.
@@ -12438,8 +11500,6 @@ Los recursos que se recauden por concepto de estas transferencias se destinarán
 PARÁGRAFO 1. En caso de no existir comunidades étnicas acreditadas por el Ministerio del Interior en el área de influencia, el 100% de las transferencias eléctricas de las que trata el artículo 289 de la Ley 1955 de 2019, se destinará a los municipios y distritos que se ubiquen únicamente en dicha área de influencia del proyecto de generación, en los términos desarrollados en la presente Subsección.
 
 PARÁGRAFO 2. Para efectos de la liquidación y pago de la transferencia, se entenderá que el área de influencia será únicamente la del proyecto de generación, de acuerdo con lo establecido en el Estudio de Impacto Ambiental y en la licencia ambiental que expida la autoridad ambiental competente para el proyecto de generación.
-
-ARTÍCULO
 
 ## art:2.2.3.8.8.2 — Obligados al pago de la transferencia
 
@@ -12451,15 +11511,11 @@ PARÁGRAFO 1. Se exceptúa de las transferencias establecidas en este artículo,
 
 PARÁGRAFO 2. La tarifa de la transferencia de que trata el presente artículo se incrementará a 2% cuando la capacidad instalada de generación eléctrica a partir de fuentes no convencionales de energía renovables, reportada por el Centro Nacional de Despacho -CND, sea superior al 20% de la capacidad instalada de generación total del país.
 
-ARTÍCULO
-
 ## art:2.2.3.8.8.3 — Administración
 
 Los recursos que deban destinarse a los municipios o distritos por concepto del pago de las transferencias del sector eléctrico de las que trata la presente Subsección, serán administrados a través de una subcuenta independiente de ingresos por transferencias, a nombre del respectivo municipio o distrito.
 
 Cuando el área de influencia del proyecto de generación se encuentre ubicada en jurisdicción de dos o más municipios y/o distritos, los recursos se distribuirán a prorrata del área que cada municipio o distrito tenga respecto del área de influencia total del proyecto de generación.
-
-ARTÍCULO
 
 ## art:2.2.3.8.8.4 — Destinación de los recursos
 
@@ -12609,8 +11665,6 @@ Las obligaciones adquiridas por los sujetos obligados, así como las Mesas de Pl
 En todo caso, el incremento gradual en el monto de las transferencias se implementará de conformidad con dispuesto en el artículo 233 de la Ley 2294 de 2023.
 
 (Adiciona Art 1 del decreto 1540 de 2024)
-
-ARTÍCULO
 
 ## art:2.2.3.8.8.5 — Liquidación y pago
 
@@ -13159,8 +12213,6 @@ CAPÍTULO 1.
 
 POLÍTICAS Y DIRECTRICES RELACIONADAS CON LA ENERGÍA NUCLEAR
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — 
 
 2.2.4.1.1 El Ministerio de Minas y Energía, formulará y adoptará la política nacional en materia de energía nuclear y de materiales radiactivos, para lo cual dictará las normas y reglamentos para la gestión segura de materiales nucleares y radiactivos en el país.
@@ -13179,8 +12231,6 @@ SECCIÓN 1.
 
 ASPECTOS TÉCNICOS
 
-ARTÍCULO
-
 ## art:2.2.5.1.1.1 — Glosario Técnico Minero
 
 El Gobierno Nacional Adoptará para todos los efectos, El "Glosario Técnico Minero", el cual será expedido por el Ministerio de Minas y Energía mediante acto administrativo.
@@ -13188,8 +12238,6 @@ El Gobierno Nacional Adoptará para todos los efectos, El "Glosario Técnico Min
 El "Glosario Técnico Minero" corresponde a una lista de definiciones y términos técnicos en materia minera que serán de obligatorio uso por los particulares y por las autoridades y funcionarios en la elaboración, presentación y expedición de documentos, solicitudes y providencias que se produzcan en las actuaciones.
 
 El "Glosario Técnico Minero" servirá para enmarcar el Sistema de Información Minero Colombiano, Simco, dentro de una terminología única para el sector, y a su vez dicho Sistema posibilitará que el Glosario sea consultado y obtenido a partir de la red con el fin de lograr su mayor difusión.
-
-ARTÍCULO
 
 ## art:2.2.5.1.1.2 — 1.2
 
@@ -13217,27 +12265,19 @@ SECCIÓN 2
 
 SISTEMA INTEGRAL DE GESTIÓN MINERA -SIGM-
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.1 — Objeto
 
 La presente Sección tiene por objeto establecer el Sistema Integral de Gestión Minera -SIGM-, como la única plataforma tecnológica para la radicación y gestión de los trámites a cargo de la autoridad minera, así como la fijación de lineamientos generales para su implementación y puesta en producción.
 
-ARTÍCULO
-
 ## art:2.2.5.1.2.2 — Ámbito de aplicación
 
 La presente Sección es de obligatorio cumplimiento para los interesados en trámites mineros, la autoridad minera y sus delegados.
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.3 — Sistema Integral de Gestión Minera - SIGM-
 
 El Sistema Integral de Gestión Minera-SIGM- constituye la plataforma tecnológica para la radicación, gestión y evaluación de propuestas de contrato de concesión minera y de los demás trámites y solicitudes mineras, el seguimiento y control al cumplimiento de las obligaciones emanadas de los títulos mineros y de las demás actividades cuya competencia radique en la autoridad minera o las recibidas por delegación, de acuerdo con lo previsto en la ley; así como para la comunicación y notificación de las decisiones de la autoridad minera en el territorio nacional.
 
 PARÁGRAFO . La autoridad minera nacional o concedente, en el ámbito de su competencia y ante cualquier avance tecnológico que se presente, podrá implementar o modificar el Sistema que por esta Sección se establece.
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.4 — Lineamientos
 
@@ -13254,8 +12294,6 @@ Para la implementación y puesta en producción del Sistema Integral de Gestión
 5. Generar los accesos y servicios en el Sistema Integral de Gestión Minera -SIGM, para que las demás autoridades intervinientes puedan acceder a los datos e información de interés para su gestión y aporte al Catastro Multipropósito.
 
 6. Adoptar las medidas pertinentes para contar con la infraestructura de datos requerida por el estándar Land Administration Domain Model Colombia (Modelo de Dominio de Administración de Tierras para Colombia) en armonía con el sistema de cuadrícula minera, para la interoperabilidad del Sistema Integral de Gestión Minera con el Catastro Multipropósito.
-
-ARTÍCULO
 
 ## art:2.2.5.1.2.5 — Puesta en producción del Sistema Integral de Gestión Minera - SIGM
 
@@ -13283,8 +12321,6 @@ SECCIÓN 3.
 
 SISTEMA DE INFORMACIÓN MINERA
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.1 — Definiciones
 
 Para efectos de aplicación de la presente sección, se tendrán en cuenta las siguientes definiciones:
@@ -13309,15 +12345,11 @@ SNIE-DANE. Es Sistema Nacional de Información Estadística que elabora el DANE.
 
 (Decreto 1993 de 2002, Art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.2 — Objeto
 
 De la presente sección. Por medio de ésta Sección se establece el SIMCO, el cual tendrá por objeto consolidar en un sistema de información el conocimiento de la riqueza del subsuelo en el territorio nacional y los espacios marítimos jurisdiccionales; la información georrefenciada, estadísticas oficiales y documentales del sector de la minería y de su entorno económico y social.
 
 (Decreto 1993 de 2002, Art 2)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.3 — Objetivos del SIMCO
 
@@ -13333,8 +12365,6 @@ d) Servir de fuente de información para las entidades territoriales, las univer
 
 (Decreto 1993 de 2002, Art 3)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.4 — Entidad administradora
 
 Corresponde al Ministerio de Minas y Energía o la entidad en quien este delegue, elaborar, administrar, mantener y operar el SIMCO, el cual se alimentará de la información proveniente de todas las personas naturales o jurídicas, públicas o privadas, nacionales o extranjeras, que posean o procesen información confiable relativa a la riqueza minera o a la industria extractiva, para que sea la fuente de información del sector minero Colombiano y de sus estadísticas oficiales, la cual será facilitada a todos los usuarios en forma integrada, confiable y oportuna.
@@ -13344,8 +12374,6 @@ PARÁGRAFO . El Ministerio de Minas y Energía o la entidad en quien este delegu
 (Hecho cumplido)
 
 (Decreto 1993 de 2002, Art 4)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.5 — Funciones del administrador del SIMCO
 
@@ -13383,15 +12411,11 @@ PARÁGRAFO . El administrador del Sistema será responsable de guardar la reserv
 
 (Decreto 1993 de 2002, Art 5)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.6 — Apoyo al administrador del SIMCO
 
 Las entidades públicas del sector minero, adscritas y vinculadas al Ministerio de Minas y Energía, deberán prestar el apoyo que el administrador del SIMCO requiera, a efectos de diseñar y operar los sistemas que sean necesarios para el funcionamiento del mismo.
 
 (Decreto 1993 de 2002, Art 6)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.7 — Diseño del SIMCO
 
@@ -13413,8 +12437,6 @@ PARÁGRAFO . La información que se incorpore al SIMCO, se debe organizar, estan
 
 (Decreto 1993 de 2002, Art 7)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.8 — Estructura Temática del SIMCO
 
 La información obrante en el SIMCO será clasificada como se indica a continuación:
@@ -13427,15 +12449,11 @@ La información obrante en el SIMCO será clasificada como se indica a continuac
 
 (Decreto 1993 de 2002, Art 8)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.9 — Coordinación con otros sistemas de información
 
 El SIMCO se articulará y armonizará con sistemas nacionales de información tales como el SNIE-DANE, el SIMEC-MME, entre otros.
 
 (Decreto 1993 de 2002, Art 9)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.10 — Fuentes de información del SIMCO
 
@@ -13447,23 +12465,17 @@ PARÁGRAFO . La información que en virtud del presente artículo deben entregar
 
 (Decreto 1993 de 2002, Art 10)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.11 — Información consolidada
 
 El SIMCO y la entidad estatal encargada del estudio del subsuelo, divulgarán únicamente información estadística y geológica consolidada y de ninguna manera la información específica proveniente de los beneficiarios de títulos mineros o propietarios de minas.
 
 (Decreto 1993 de 2002, Art 11)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.12 — Gratuidad de información
 
 La información obrante en el SIMCO podrá ser consultada en forma gratuita. Sin embargo, cuando el interesado requiera información geológica especializada o de mayor detalle, esta será suministrada por la entidad competente a costa del interesado.
 
 (Decreto 1993 de 2002, Art 12)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.13 — Información de entidades públicas
 
@@ -13472,8 +12484,6 @@ Todas las autoridades que posean información relacionada con el subsuelo minero
 PARÁGRAFO . Las entidades adscritas y vinculadas al Ministerio de Minas, y Energía y las autoridades que por delegación cumplan funciones mineras, deberán adoptar las medidas necesarias para suministrar, en forma oportuna y bajo los estándares técnicos y tecnológicos apropiados, la información básica que deba ser incorporada al SIMCO, e igualmente garantizar el acceso para que la información que obre en sus sistemas pueda ser consultada a través del SIMCO por los usuarios que la requieran.
 
 (Decreto 1993 de 2002, Art 13)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.14 — Elaboración del Formato Básico Minero
 
@@ -13493,15 +12503,11 @@ PARÁGRAFO . El FBM podrá ser actualizado por el Ministerio de Minas y Energía
 
 (Decreto 1993 de 2002, Art 14)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.15 — Captura de Información Minera
 
 El concesionario minero y los propietarios de minas deberán diligenciar y presentar el FBM a las autoridades mineras delegadas, en los términos condiciones y características que para el efecto determine el Ministerio de Minas y Energía en el acto administrativo que lo adopte.
 
 (Decreto 1993 de 2002, Art 15)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.16 — Del Registro Minero Nacional
 
@@ -13517,8 +12523,6 @@ SUBSECCIÓN 4.1.
 
 REQUISITOS DE LA PROPUESTA
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.4.1.1 — Área libre
 
 Se entiende que un área es libre para ser otorgada cuando puede ser ofrecida a proponentes y/o solicitantes, ya sea porque nunca ha sido objeto de propuestas o solicitudes anteriores o porque habiendo sido afectada por un título, solicitud o propuesta anterior, estos ya no se encuentran vigentes y han transcurrido treinta (30) días después de hallarse en firme los actos administrativos de la Autoridad Minera o la sentencia ejecutoriada que impliquen tal libertad. Todo acto administrativo o sentencia ejecutoriada relacionado con los títulos terminados y propuestas rechazadas o desistidas, de concesión, de legalización, de formalización, de minería tradicional, deberá ser publicado en la página electrónica de la Autoridad Minera o en el medio que hiciere sus veces, dentro de los cinco (5) días hábiles siguientes a la fecha de su ejecutoria. Así mismo, dentro de este mismo término, deberá inscribirse en el Registro Minero Nacional.
@@ -13527,23 +12531,17 @@ PARÁGRAFO . Las disposiciones contenidas en la presente sección, respecto del 
 
 (Decreto 0935 de 2013, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.4.1.2 — Rechazo de la propuesta
 
 Una vez presentada la propuesta de contrato de concesión, la omisión en la presentación de alguno de los requisitos establecidos en el artículo 271 y su reglamento, incluyendo los documentos de soporte de la propuesta de contrato de concesión requeridos para la evaluación en el término fijado para remitirlos, dará lugar al rechazo de plano de la propuesta.
 
 (Decreto 0935 de 2013, art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3.4.1.3 — Objeciones a la propuesta
 
 Si habiéndose reunido todos los requisitos establecidos en el artículo 271 y su reglamento, se presentaren deficiencias en el diligenciamiento de alguno o algunos de ellos, la autoridad minera procederá a objetar la propuesta y a requerir que sea subsanada, conforme a lo dispuesto por el artículo 273 de la Ley 685 de 2001.
 
 (Decreto 0935 de 2013, art 3)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3.4.1.4 — Faltas de la propuesta
 
@@ -13565,19 +12563,13 @@ CLASIFICACIÓN DE LA MINERÍA Y REQUISITOS
 
 (Sección adicionada por el Decreto 1666 de 2016 art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.1 — Objeto
 
 Definir y establecer los requisitos para las actividades mineras de subsistencia, pequeña, mediana y gran minería.
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.2 — Ámbito de aplicación
 
 Las disposiciones establecidas en el presente capítulo se aplicarán a todas las actividades mineras que se desarrollan en el país.
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.3 — Minería de Subsistencia
 
@@ -13588,8 +12580,6 @@ PARÁGRAFO . En la minería de subsistencia se entienden incluidas las labores d
 PARÁGRAFO . Por razones de seguridad minera y en atención a que su ejecución requiere la utilización de maquinaria o medios mecanizados prohibidos en la minería sin título minero, la minería de subsistencia no comprenderá las actividades mineras que se desarrollen de manera subterránea.
 
 PARÁGRAFO . Los volúmenes máximos de producción en esta actividad se establecerán por el Ministerio de Minas y Energía con fundamento en datos estadísticos, recopilación de información y estudios técnicos que se realicen para el efecto.
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.4 — 5.4
 
@@ -13610,8 +12600,6 @@ Mayor a 150 pero menor o igual a 5.000
 Grande
 
 Mayor a 5.000 pero menor o igual a 10.000
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.5 — 5.5
 
@@ -13729,15 +12717,11 @@ Para el caso de piedras preciosas y semipreciosas en minería subterránea y a c
 
 PARÁGRAFO . En el evento en que en el área de un título minero se extraiga de manera simultánea diferentes minerales, deberá realizarse para su clasificación la sumatoria de los volúmenes de producción de cada uno de estos; seleccionando el mineral de mayor producción para que en atención a este se clasifique el proyecto de acuerdo con la tabla anterior.
 
-ARTÍCULO
-
 ## art:2.2.5.1.5.6 — Clasificación de títulos mineros
 
 La autoridad minera en un término no mayor a un (1) año, clasificará el rango de minería en que se encuentra cada uno de los títulos mineros, con el fin de aplicar las acciones diferenciales a que haya lugar en la ejecución del proyecto minero, con base en las políticas y normas adoptadas por el Gobierno Nacional.
 
 En cualquier caso, la autoridad minera reclasificará los proyectos mineros atendiendo las modificaciones de los PTO, PTI o el instrumento técnico que haga sus veces, o cuando verifique que el total de la producción anual del proyecto minero supera los límites establecidos en el artículo 2.2.5.9.5., del presente decreto. Igualmente deberán reclasificarse los proyectos en exploración cuando por cualquier razón exista disminución de la extensión del título minero.
-
-ARTÍCULO
 
 ## art:2.2.5.1.5.7 — Actualización de la clasificación
 
@@ -14057,15 +13041,11 @@ SECCIÓN 1.
 
 CONCESIONES CONCURRENTES
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.1 — Objeto
 
 En caso de presentarse solicitudes para minerales diferentes que se superpongan totalmente a un título minero que cuente con Programa de Trabajos e Inversiones PTI o Programa de Trabajos y Obras PTO debidamente aprobados, en los que se haya definido claramente el mineral objeto de la explotación, se llevará a cabo la audiencia a que se refiere el artículo 63 del Código de Minas, teniendo en cuenta el procedimiento que se señala en la presente sección.
 
 (Decreto 2653 de 2003, art 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.2 — Del estudio de libertad de área
 
@@ -14078,8 +13058,6 @@ El perito realizará el estudio del Programa de Trabajos y Obras PTO, o del Prog
 PARÁGRAFO . En caso de presentarse solicitud de concesión concurrente en una superposición parcial, se procederá a informar al interesado con el fin de que dentro de los diez (10) días siguientes, manifieste si renuncia al área superpuesta. En caso contrario, se adelantará el trámite previsto en el artículo 63 del Código de Minas y en la presente sección.
 
 (Decreto 2653 de 2003, art 2)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.3 — Participantes
 
@@ -14095,8 +13073,6 @@ Participarán en la audiencia de que trata el artículo 63 del Código de Minas:
 
 (Decreto 2653 de 2003, art 3)
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.4 — Celebración de la audiencia
 
 La audiencia de que trata el artículo 63 del Código de Minas, tendrá como único objeto el de establecer si existe interferencia o no entre los trabajos del proponente y los del beneficiario del título minero con PTO o PTI aprobados, según sea el caso. La citada audiencia no tiene por objeto conciliar diferencias jurídicas entre las partes que en ella intervienen.
@@ -14109,8 +13085,6 @@ PARÁGRAFO . De todo lo actuado en las diligencias de audiencia se dejará const
 
 (Decreto 2653 de 2003, art 4)
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.5 — Práctica de visita
 
 Si de la objeción del dictamen pericial se deriva la necesidad de practicarse una visita al área objeto de la solicitud de concesión concurrente, la autoridad minera competente así lo ordenará en la misma audiencia, fijando día y hora para la realización de la visita técnica, dentro de un término que no podrá ser superior a los diez (10) días siguientes a su celebración.
@@ -14118,8 +13092,6 @@ Si de la objeción del dictamen pericial se deriva la necesidad de practicarse u
 Dicha visita será realizada por un funcionario técnico de la autoridad minera competente y el perito, pudiendo asistir el proponente y el beneficiario del título minero por sí o por intermedio de apoderado o representante.
 
 (Decreto 2653 de 2003, art 5)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.6 — Reanudación de la audiencia
 
@@ -14131,15 +13103,11 @@ Como resultado de la misma, el funcionario de la autoridad minera competente lev
 
 (Decreto 2653 de 2003, art 6)
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.7 — Peritos
 
 Los peritos serán seleccionados por la autoridad minera delegada, de la lista de Geólogos e Ingenieros de Minas, inscritos ante el Consejo Profesional de Geología o ante el Consejo Profesional Nacional de Ingeniería, según sea el caso.
 
 (Decreto 2653 de 2003, art 7)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.8 — Designación y nombramiento de peritos
 
@@ -14156,8 +13124,6 @@ Dentro de los dos días siguientes a la aceptación, el perito deberá presentar
 PARÁGRAFO . En caso de que el perito no acepte el cargo para el cual fue designado, la autoridad minera competente procederá, dentro de los cinco (5) días siguientes a efectuar un nuevo nombramiento, realizando para el efecto otro sorteo, entre los profesionales que conforman la lista que le hubiere sido suministrada.
 
 (Decreto 2653 de 2003, art 8)
-
-ARTÍCULO
 
 ## art:2.2.5.2.1.9 — Obligaciones del perito
 
@@ -14177,8 +13143,6 @@ Adicional a las indicadas en la ley y en los estatutos para el ejercicio de la I
 
 (Decreto 2653 de 2003, art 9)
 
-ARTÍCULO
-
 ## art:2.2.5.2.1.10 — Cuotas y pagos
 
 El proponente asumirá los costos del experticia, salvo en los casos de solicitudes de legalización para minería de hecho, los cuales serán asumidos por la autoridad minera competente.
@@ -14190,8 +13154,6 @@ Corresponderá a la autoridad minera competente en cada caso, fijar los honorari
 SECCIÓN 2
 
 INTEGRACIÓN DE ÁREAS, PRÓRROGA Y DERECHO DE PREFERENCIA
-
-ARTÍCULO
 
 ## art:2.2.5.2.2.1 — Prórroga del periodo de exploración
 
@@ -14205,23 +13167,17 @@ Para que la prórroga de la etapa de exploración pueda ser evaluada y decidida 
 
 (Decreto 0943 de 2013, Art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.2 — Adopción de los términos
 
 La Autoridad Minera o concedente adoptará los términos de referencia necesarios para la presentación de la información relativa a las prórrogas del período de exploración.
 
 (Decreto 0943 de 2013, Art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.3 — Prórroga del contrato de concesión
 
 Para la prórroga del contrato de concesión a fin de continuar con las actividades de explotación, el concesionario minero deberá presentar un nuevo Programa de Trabajos y Obras para la vigencia de la prórroga, y estar al día con todas las obligaciones derivadas del contrato de concesión y la ley.
 
 (Decreto 0943 de 2013, Art 3)
-
-ARTÍCULO
 
 ## art:2.2.5.2.2.4 — Criterios de evaluación técnica para la prórroga del contrato de concesión
 
@@ -14267,8 +13223,6 @@ a) Verificar que el concesionario se encuentre a paz y salvo por todo concepto, 
 
 b) Que la póliza de garantía minero-ambiental se encuentre vigente y amparando el cumplimiento de las obligaciones en los términos y con el alcance señalado en el artículo 280 del Código de Minas.
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.5 — Cumplimiento de los aspectos
 
 Si la Autoridad Minera encuentra que los aspectos señalados en el artículo anterior, han sido cumplidos por parte del Concesionario o que existiendo algunas omisiones estas puedan ser subsanadas, podrá consentir en que se modifique el contrato en cuanto al término de su vigencia y conceder la prórroga respectiva. En caso contrario, la Autoridad Minera deberá abstenerse de suscribir el acta de prórroga del contrato de concesión, y motivará su decisión mediante acto administrativo
@@ -14283,15 +13237,11 @@ ASPECTO GENERALES
 
 (Subsección adicionada por el Decreto 1975 de 2016 art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.6 — Objeto
 
 El objeto del presente decreto es determinar los parámetros a tener en cuenta por parte de la Autoridad Minera Nacional para la evaluación costo-beneficio de las solicitudes de prórrogas y del derecho de preferencia de que trata el parágrafo primero del artículo 53 de la Ley 1753 de 2015.
 
 Así fijar los criterios para que la Autoridad Minera Nacional pueda establecer nuevas condiciones contractuales y contraprestaciones a las regalías para tas solicitudes de integración de área y prórrogas a que hace referencia el artículo 23 de la Ley 1753 de 2015.
-
-ARTÍCULO
 
 ## art:2.2.5.2.2.7 — Ámbito de Aplicación
 
@@ -14311,15 +13261,11 @@ INTEGRACIÓN DE AREAS
 
 (Subsección adicionada por el Decreto 1975 de 2016 art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.8 — Requisitos generales y especiales para la Integración
 
 Los titulares mineros deberán presentar ante la Autoridad Minera Nacional un Programa Único de Exploración y Explotación para el área a integrar, que contenga como mínimo los siguientes parámetros generales: (i)Área definitiva a integrar; (ii) Estudio de cartografía geológica del área; (iii) Estudio favorable para la integración; (iv) Descripción actual de los títulos mineros a integrar; (v) Mención de la etapa en que inicia el proyecto unificado; y los siguientes parámetros especiales de exploración y explotación, (i)Descripción y cronograma de las actividades de exploración o explotación por realizar, según corresponda; (ii) Proyección del diseño y (iii) Plan minero.
 
 Con base en el Programa Único de Exploración y Explotación, la Autoridad Minera Nacional tendrá como parámetro de evaluación para la procedencia de la integración, que las condiciones existentes pactadas a favor del Estado en los clausulados contractuales o títulos mineros objeto de la integración no sean desmejoradas; y en todo caso las condiciones adicionales objeto de la negociación deberán favorecer los intereses del Estado.
-
-ARTÍCULO
 
 ## art:2.2.5.2.2.9 — Nuevas condiciones contractuales y contraprestaciones adicionales
 
@@ -14330,8 +13276,6 @@ Las condiciones contractuales adicionales de carácter técnico estarán sujetas
 Las condiciones contractuales adicionales de inversión social podrán estar representadas en planes de gestión social y proyectos que tengan impacto social en el área de influencia directa del proyecto minero integrado.
 
 Las contraprestaciones adicionales a las regalías podrán corresponder a aspectos diferentes, que se agregaría a la regalía de ley por el ejercicio del derecho de aprovechamiento económico de los minerales de propiedad estatal.
-
-ARTÍCULO
 
 ## art:2.2.5.2.2.10 — Régimen legal aplicable
 
@@ -14345,8 +13289,6 @@ PRÓRROGA DE LOS CONTRATOS DE CONCESIÓN Y DERECHO DE PREFERENCIA
 
 (Subsección adicionada por el Decreto 1975 de 2016 art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.11 — Evaluación Costo-Beneficio
 
 En el marco de la evaluación de las solicitudes de prórroga de los contratos de concesión y del derecho de preferencia de títulos mineros, la evaluación costo-beneficio que realice la Autoridad Minera, se hará teniendo en cuenta la clasificación de la minería y se efectuará de conformidad con los siguientes parámetros:
@@ -14357,15 +13299,11 @@ En el marco de la evaluación de las solicitudes de prórroga de los contratos d
 
 3. La Autoridad Minera definirá los factores para establecer la estimación del valor presente neto.
 
-ARTÍCULO
-
 ## art:2.2.5.2.2.12 — .12
 
 Criterios para la selección de las nuevas condiciones contractuales y contraprestaciones adicionales.Una vez se haya efectuado la evaluación costo beneficio y se determine continuar con el trámite de la prórroga del respectivo contrato, la Autoridad Minera Nacional podrá exigir nuevas condiciones frente a los contratos y/o pactar contraprestaciones económicas adicionales a las regalías, de acuerdo con la clasificación de la minería, para lo cual deberá verificar que el contrato prorrogado garantice que las condiciones adicionales objeto de la negociación, favorezcan los intereses del Estado
 
 PARÁGRAFO . En la integración de áreas y prórroga de los títulos de pequeña minería podrían o no, exigirse nuevas condiciones contractuales, así mismo, podrían o no, pactarse contraprestaciones económicas adicionales.
-
-ARTÍCULO
 
 ## art:2.2.5.2.2.13 — .13
 
@@ -14381,23 +13319,17 @@ SECCIÓN 1
 
 PARTICIPACIÓN DE LAS AUTORIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.1 — Objeto
 
 El objeto de ésta Sección es regular el procedimiento que deben seguir los municipios y distritos para acordar con el Ministerio de Minas y Energía medidas, de protección del ambiente sano y, en especial, de sus cuencas hídricas, el desarrollo económico, social, cultural de sus comunidades y la salubridad de la población, frente a las posibles afectaciones que pueden derivarse de la actividad minera.
 
 (Decreto 2691 de 2014, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.2 — Ámbito de aplicación
 
 Las medidas de protección que se adopten en virtud de esta sección, se aplicarán a las solicitudes de concesión en trámite a partir del 23 de diciembre de 2014 a las presentadas con posterioridad a la fecha de entrada en vigencia del mismo.
 
 (Decreto 2691 de 2014, art.2)
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.3 — Solicitud de acuerdo de las autoridades territoriales
 
@@ -14406,8 +13338,6 @@ Los concejos municipales o distritales podrán solicitar ante el Ministerio de M
 (Decreto 2691 de 2014, art 3)
 
 SUBSECCIÓN 1.1. PROCEDIMIENTO
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.1.11 — Estudio de soporte
 
@@ -14419,8 +13349,6 @@ Los estudios aludidos deberán acompañarse a la solicitud y estarán en concord
 
 (Decreto 2691 de 2014, art4)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.1.12 — Término para el ejercicio del derecho
 
 Los concejos municipales o distritales podrán ejercer el derecho previsto en esta sección cada vez que se modifiquen sus planes de ordenamiento territorial, planes básicos de ordenamiento territorial y esquemas de ordenamiento territorial, según el caso.
@@ -14428,8 +13356,6 @@ Los concejos municipales o distritales podrán ejercer el derecho previsto en es
 PARÁGRAFO TRANSITORIO. Dentro del término de noventa (90) días, contados a partir del 23 de diciembre de 2014, los concejos municipales o distritales podrán presentar por primera vez ante el Ministerio de Minas y Energía, la solicitud señalada en el artículo 2.2.4.3.1.3
 
 (Decreto 2691 de 2014, art 5)
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.1.13 — Trámite de la solicitud
 
@@ -14439,8 +13365,6 @@ PARÁGRAFO . Si la solicitud del ente territorial no cumple con los requisitos e
 
 (Decreto 2691 de 2014, art 6)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.1.14 — Valoración de la solicitud
 
 La autoridad nacional competente valorará la solicitud del concejo municipal o distrital y presentará ante el Ministerio de Minas y Energía, en un término no mayor a veinte (20) días, contados a partir de la fecha de recibo de la misma, un concepto técnico sobre las razones que sustentan las medidas de protección solicitadas y su procedencia y, de ser el caso, de sus condiciones. El término antes referido podrá ser prorrogado, a solicitud de la autoridad nacional competente, por una sola vez y por el mismo lapso.
@@ -14449,8 +13373,6 @@ De estimarlo conveniente, el Ministerio de Minas y Energía podrá solicitar con
 
 (Decreto 2691 de 2014, art 7)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.1.15 — Reunión
 
 Vencido el término señalado en el artículo 2.2.4.3.1.1.1.4 el Ministerio de Minas y Energía en un plazo no mayor a diez (10) días, convocará por una sola vez, a una reunión al concejo municipal o distrital solicitante, o a su delegado, y a la autoridad nacional competente para que respectivamente expongan las razones de la solicitud y del concepto. La reunión podrá suspenderse por una sola vez, siempre que medie causa justificada y la segunda reunión deberá celebrarse en un término no menor a diez (10) días ni mayor a treinta (30) días, contados a partir de la fecha de suspensión de la primera reunión. El Ministerio de Minas y Energía levantará un acta con el desarrollo detallado de la reunión.
@@ -14458,8 +13380,6 @@ Vencido el término señalado en el artículo 2.2.4.3.1.1.1.4 el Ministerio de M
 PARÁGRAFO . El Ministerio de Minas y Energía podrá convocar a esta reunión a las entidades y organismos que considere pertinentes.
 
 (Decreto 2691 de 2014, art 8)
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.1.16 — Decisión
 
@@ -14471,8 +13391,6 @@ La decisión consistirá en la adopción o no, de las medidas necesarias para la
 
 (Decreto 2691 de 2014, art 9)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.1.17 — Imposición de las medidas
 
 Las medidas concretas de protección serán impuestas y supervisadas, durante la ejecución del contrato, por la autoridad competente o quien esta designe, es decir, por aquella que emitió concepto técnico sobre las razones que sustentan las medidas de protección solicitadas.
@@ -14480,8 +13398,6 @@ Las medidas concretas de protección serán impuestas y supervisadas, durante la
 En materia ambiental la supervisión de las medidas adoptadas será realizada por la autoridad competente para la evaluación, seguimiento y control de los efectos ambientales de la actividad minera.
 
 (Decreto 2691 de 2014, art 10)
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.1.18 — Régimen de transición
 
@@ -14501,8 +13417,6 @@ SECCIÓN 2.
 
 ÁREAS DE RESERVA ESPECIAL.
 
-ARTÍCULO
-
 ## art:2.2.5.3.2.1 — Régimen aplicable
 
 Además de los decretos compilados en la presente Sección continuarán vigentes las áreas de reserva Especiales adoptadas por la Autoridad Minera Nacional a través de las respectivas resoluciones.
@@ -14512,8 +13426,6 @@ SUBSECCIÓN 2.1.
 DELIMITACIÓN DE ÁREA EN LOS DEPARTAMENTOS DE ANTIOQUIA, NORTE DE SANTANDER Y EL SUR DE BOLÍVAR
 
 Área delimitada en el departamento de Antioquia
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.2.1.1 — 1.1
 
@@ -15137,13 +14049,9 @@ S00-00-00.00W
 
 (Decreto 2200 de 2001, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.2.1.2 — Se entienden excluidas las áreas de títulos mineros debidamente otorgados e inscritos en el Registro Minero
 
 (Decreto 2200 de 2001, art 2)
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.2.1.3 — 
 
@@ -15154,8 +14062,6 @@ ARTÍCULO
 SUBSECCIÓN 2.2
 
 DELIMITACIÓN DE ÁREA EN NORDESTE ANTIOQUEÑO Y EL SUR DE BOLÍVAR
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.2.2.1 — Delimítense como áreas de Reserva Especial
 
@@ -15957,8 +14863,6 @@ SUBSECCIÓN 2.3
 
 ÁREA DE RESERVA ESPECIAL LOCALIZADA EN JURISDICCIÓN DEL MUNICIPIO DE QUINCHÍA
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.2.3.1 — Delimitación
 
 Delimitar como Área de Reserva Especial para adelantar estudios geológicos mineros y desarrollar proyectos mineros estratégicos para el país, de conformidad con el artículo 31 del Código de Minas, la que se alindera a continuación:
@@ -16147,23 +15051,17 @@ PA
 
 (Decreto 535 de 2006, Art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.2.3.2 — Exclusión
 
 Se entienden excluidas del área alinderada en el artículo anterior las que pertenezcan a títulos mineros debidamente otorgados e inscritos en el Registro Minero.
 
 (Decreto 535 de 2006, Art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.2.3.3 — Vigencia
 
 Dentro de los dos años siguientes al 21 de Febrero de 2006, las entidades adscritas o vinculadas al Ministerio de Minas y Energía realizarán los estudios geológicos-mineros y la iniciación de los correspondientes proyectos estratégicos, según las directrices que para el efecto señale el Ministerio de Minas y Energía.
 
 (Decreto 535 de 2006, Art 3)
-
-ARTÍCULO
 
 ## art:2.2.5.3.1.2.3.4 — Adicción
 
@@ -16211,8 +15109,6 @@ PA
 
 (Decreto 247 de 2008, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.3.1.2.3.5 — 3.5
 
 Excluir, por la no presencia de mineros y de la baja potencialidad de reservas, una zona ubicada hacia la parte Este del Área de Reserva Especial de Quinchía, la cual se encuentra alinderada por las siguientes coordenadas:
@@ -16250,8 +15146,6 @@ COORDENADAS
 SUBSECCIÓN 2.4.
 
 RESERVA ESPECIAL DEL CARMEN DE CATATUMBO
-
-ARTÍCULO
 
 ## art:2.2.5.3.2.2.4.1 — Delimitación
 
@@ -16437,13 +15331,9 @@ PARÁGRAFO . Se entienden excluidas del Área de Reserva Especial, las áreas de
 
 (Decreto 1393 de 2006 art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.3.2.2.4.2 — Estudios
 
 Dentro de los dos años siguientes al 5 de mayo de 2006, el Ministerio de Minas y Energía y/o la entidad que este designe realizarán los estudios geológico-mineros e iniciarán los correspondientes proyectos estratégicos, según las directrices que para el efecto señale el mismo Ministerio
-
-ARTÍCULO
 
 ## art:2.2.5.3.2.2.4.3 — Adicionar
 
@@ -16533,15 +15423,11 @@ DE LA FORMALIZACION MINERA
 
 SECCION 1.DEFINICIONES Y CONDICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1 — Definiciones
 
 Se adoptan las siguientes definiciones tanto para los fines del Glosario Minero como para la interpretación de la presente sección:
 
 (Decreto 933 de 2013, art 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.2 — Ámbito de aplicación
 
@@ -16551,15 +15437,11 @@ PARÁGRAFO . Todos los plazos que se hubiesen agotado y que se encuentren previs
 
 (Decreto 933 de 2013, art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.3 — Área del contrato
 
 El área máxima susceptible de otorgar en un proceso de formalización minera es de ciento cincuenta (150) hectáreas para personas naturales y quinientas hectáreas (500) para grupos o asociaciones de mineros tradicionales.
 
 (Decreto 933 de 2013, art 3)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.4 — Número de solicitudes
 
@@ -16568,8 +15450,6 @@ Los solicitantes de formalización de minería tradicional de que trata esta sec
 PARÁGRAFO . Los solicitantes de que trata esta sección no podrán presentar otras solicitudes de formalización que se superpongan total o parcialmente sobre la misma área por él solicitada. Ante tal situación, las solicitudes radicadas con posterioridad a la primera solicitud serán objeto de rechazo.
 
 (Decreto 933 de 2013, art 4)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.5 — Clase de contrato
 
@@ -16580,8 +15460,6 @@ El contrato de concesión a suscribir con el solicitante de formalización de mi
 SUBSECCIÓN 1.1
 
 TRÁMITE PARA LA FORMALIZACIÓN DE MINEROS TRADICIONALES
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.1.1 — Requisitos
 
@@ -16617,8 +15495,6 @@ PARÁGRAFO . Solamente podrán ser requeridos para la presentación del plano lo
 
 (Decreto 933 de 2013, art 6)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.1.2 — Acreditación de trabajos mineros
 
 Los trabajos de minería tradicional, se acreditan con documentación comercial o técnica. Entendiéndose por tales:
@@ -16629,15 +15505,11 @@ b) Documentación Técnica. Se podrán presentar documentos tales como: Planos m
 
 PARÁGRAFO . Los documentos técnicos o comerciales radicados deben corresponder a la mina o minas en el área de interés a legalizar y al interesado en la solicitud. (Decreto 933 de 2013, art 7)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.1.3 — Presentación de documentos
 
 Los documentos a que se refieren los artículos 2.2.4.5.1.1. 1.1 y 2.2.4.5.1.1. 1.2. de la presente sección, deben aportarse dentro de los quince (15) días hábiles siguientes, contados a partir de la fecha de radicación de la solicitud vía web, ante la Autoridad Minera competente. Trascurrido este lapso sin aportar ningún documento, la Autoridad Minera competente procederá al rechazo de la solicitud e informará a las Autoridades Ambientales y Municipales competentes del área de su jurisdicción.
 
 (Decreto 933 de 2013, art 8)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.1.4 — Requerimiento para subsanar requisitos
 
@@ -16649,8 +15521,6 @@ PARÁGRAFO . Una vez proferido el acto administrativo de requerimiento, la Autor
 
 (Decreto 933 de 2013, art 9)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.1.5 — Superposiciones
 
 La Autoridad Minera competente al momento de hacer el estudio de área, efectuará recortes de oficio cuando se presente superposición parcial con propuestas de contratos de concesión, contratos de concesión, contratos en áreas de aporte o autorizaciones temporales, en un porcentaje menor o igual al cinco por ciento (5%), siempre y cuando en dicha área no se encuentren los frentes de explotación de la respectiva solicitud de formalización de minería tradicional.
@@ -16658,8 +15528,6 @@ La Autoridad Minera competente al momento de hacer el estudio de área, efectuar
 Cuando la solicitud presente superposición con concesiones que tengan el Plan de Trabajos y Obras (PTO) debidamente aprobado, para minerales diferentes a los pedidos en la solicitud de que trata esta sección y que admitan la explotación que realiza el minero tradicional, la Autoridad Minera competente estudiará la viabilidad de una concesión concurrente de conformidad con lo previsto en el artículo 63 de la Ley 685 de 2001 y su Decreto Reglamentario 2653 de 2003.
 
 (Decreto 933 de 2013, art 10)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.1.6 — Visita
 
@@ -16672,8 +15540,6 @@ En desarrollo de la visita podrá surtirse la etapa de mediación de que trata e
 PARÁGRAFO . En aquellas explotaciones que por las características hidráulicas y sedimentológicas del área solicitada se presenten cambios físicos y ambientales, y no sea posible corroborar en la visita que los avances y desarrollos mineros corresponden al ejercicio de la actividad minera sin interrupción en los términos señalados en la presente sección, será la Autoridad Minera competente quien determine mediante evidencias o conocimientos técnico-científicos la viabilidad de dicha solicitud.
 
 (Decreto 933 de 2013, art 11)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.1.7 — Comunicaciones previas a la diligencia de visita
 
@@ -16695,15 +15561,11 @@ Cuando la solicitud de minería tradicional esté superpuesta con una propuesta 
 
 (Decreto 933 de 2013, art 12)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.1.8 — Informe técnico de la visita
 
 La Autoridad Minera competente dentro del mes siguiente de la visita, presentará el respectivo informe, el cual comprenderá todos los temas y elementos técnicos que permitan corroborar la existencia de la minería tradicional objeto de la solicitud y determinar si la explotación es viable o no técnicamente desde el punto de vista minero, así como precisar el área objeto de formalización. A este informe se debe anexar el acta de visita. En los casos en que se surta la etapa de mediación de que trata el artículo 2.2.4.5.1.1. 3.2 de la presente sección, se debe anexar al informe el (las) acta (s) respectiva (s).
 
 (Decreto 933 de 2013, art 13)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.1.9 — Requerimiento de visita
 
@@ -16719,15 +15581,11 @@ SUBSECCIÓN 1.2.
 
 ASPECTOS TÉCNICOS Y AMBIENTALES
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.2.1 — Obligaciones del solicitante
 
 Durante el trámite de que trata la presente sección, el interesado en formalizar sus labores mineras deberá cumplir con los requisitos de orden ambiental establecidos por el Ministerio de Ambiente y Desarrollo Sostenible a través de la guía ambiental que para el efecto se expida y con el pago de las regalías respectivas, so pena de que se suspenda la actividad minera y el proceso de formalización, hasta que se demuestre el cumplimiento de dichas obligaciones.
 
 (Decreto 933 de 2013, art 15)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.2.2 — Programa de Trabajos y Obras y Plan de Manejo Ambiental
 
@@ -16737,15 +15595,11 @@ De no ser presentado(s) en este lapso, la Autoridad Minera competente rechazará
 
 (Decreto 933 de 2013, art 16)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.2.3 — Términos de referencia
 
 Para la elaboración de los Programas de Trabajos y Obras y de los Planes de Manejo Ambiental que deben presentar los interesados en la solicitud de formalización de minería tradicional, la Autoridad Minera competente y el Ministerio de Ambiente y Desarrollo Sostenible deben elaborar en un plazo máximo de un (1) mes contados a partir del día siguiente a la fecha de publicación de la presente sección, unos términos de referencia adaptados a las condiciones socioeconómicas, técnicas y ambientales de la actividad minera objeto de formalización, para la presentación de los mismos.
 
 (Decreto 933 de 2013, art 18)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.2.4 — Evaluación
 
@@ -16763,8 +15617,6 @@ PARÁGRAFO . El PMA deberá incluir los permisos y autorizaciones ambientales qu
 
 (Decreto 933 de 2013, art 19)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.2.5 — Suscripción contrato de concesión minera
 
 La Autoridad Minera competente contará con treinta (30) días contados a partir de la fecha de aprobación del Programa de Trabajos y Obras (PTO) y de la fecha de establecimiento o imposición del Plan de Manejo Ambiental (PMA), para suscribir con el interesado el correspondiente contrato de concesión minera, el cual debe ser inscrito en el Registro Minero Nacional en un término no superior a quince (15) días contados a partir de la fecha de suscripción del mismo. En todo caso el interesado tendrá un plazo máximo de un (1) mes, prorrogable por el mismo término, para suscribir el respectivo contrato, de acuerdo con lo establecido en el artículo 17 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo. La Autoridad Minera deberá informar a la Autoridad Ambiental competente la inscripción del contrato de concesión en el Registro Minero Nacional.
@@ -16775,15 +15627,11 @@ SUBSECCIÓN 1.3
 
 FORMALIZACIÓN EN ÁREAS CON TÍTULO MINERO
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.3.1 — Posibilidades de formalización
 
 La formalización de los mineros tradicionales ubicados en un área cubierta por un título minero, siempre que el beneficiario del título esté interesado en participar, podrá darse a través de una cesión parcial de área a favor del minero tradicional o de la renuncia parcial del área en procura del proceso de formalización o, de la suscripción de contratos de operación o asociación con el minero tradicional.
 
 (Decreto 933 de 2013, art 21)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.3.2 — Mediación
 
@@ -16795,8 +15643,6 @@ PARÁGRAFO . Si el área solicitada para el proceso de formalización, no se hal
 
 (Decreto 933 de 2013, art 21)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.3.3 — Participación del beneficiario del título minero
 
 La participación del beneficiario de un título minero, en un proceso de formalización de minería tradicional, puede darse en el marco de sus programas de responsabilidad social empresarial o como cumplimiento de sus obligaciones de tipo contractual. En todo caso, le será reconocida su participación en el cumplimiento de sus obligaciones con la gestión social relacionadas con el empleo del recurso humano nacional (artículo 251 de la Ley 685 de 2001) y el empleo de la mano de obra regional (artículo 254 de la Ley 685 de 2001) o como compromiso con la transferencia de tecnología para estructuración o reconversión de pequeñas explotaciones (artículo 255 de la Ley 685 de 2001), sin que esto último signifique para el titular minero deducción del monto de las regalías.
@@ -16805,15 +15651,11 @@ PARÁGRAFO . Las autoridades competentes determinarán la manera de acreditar el
 
 (Decreto 933 de 2013, art 22)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.3.4 — Prioridad de estudio
 
 La Autoridad Minera y la Autoridad Ambienta, en lo de sus competencias, dará prioridad al estudio de las solicitudes de formalización de minería tradicional, en los cuales se manifieste ante ella, y por escrito, la voluntad de los titulares mineros para hacer arreglos conciliatorios como subcontratos, cesión parcial de áreas, renuncia parcial de área o acuerdos de colaboración empresarial, entre otros.
 
 (Decreto 933 de 2013, art 23)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.3.5 — Beneficios para los cedentes
 
@@ -16825,8 +15667,6 @@ Beneficios Tributarios de carácter ambiental: Para que los titulares mineros ce
 
 (Decreto 933 de 2013, art 24)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.3.6 — Incorporación de áreas a una reserva
 
 En aquellos casos en que el titular minero decida renunciar parcialmente al área de su título, como resultado de la negociación con los mineros tradicionales en la cual el Estado ha llevado a cabo labores de mediación, con el fin de que esta pueda ser vinculada al proceso de formalización minera, dicha área renunciada será incorporada de oficio y automáticamente, a una reserva especial de aquellas a las que se refiere el artículo 31 de la Ley 685 de 2001. Por tanto, el área renunciada no se considerará como área libre para otorgar a terceros distintos de las personas seleccionadas para un programa de formalización de minería tradicional.
@@ -16834,8 +15674,6 @@ En aquellos casos en que el titular minero decida renunciar parcialmente al áre
 PARÁGRAFO . Para la incorporación del área a la reserva especial, bastará que se ordene en el acto administrativo mediante el cual se acepta la renuncia parcial de área que hace el titular minero, a favor del programa de formalización de minería tradicional. Dicha reserva se mantendrá por el término de dos (2) años, tiempo durante el cual la Autoridad Minera deberá otorgar los contratos de concesión respectivos, si a ello hubiere lugar. Vencido este término sin que se otorguen los contratos, el área quedará libre para otorgar a terceros bajo el régimen ordinario de concesión.
 
 (Decreto 933 de 2013, art.25)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.3.7 — Cesión de áreas en programas de formalización de minería tradicional
 
@@ -16848,8 +15686,6 @@ PARÁGRAFO . Si las labores del minero tradicional en proceso de formalización,
 SUBSECCIÓN 1.4.
 
 ZONAS RESTRINGIDAS Y FORMALIZACIÓN
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.3.8 — Zonas de Reserva Forestal
 
@@ -16866,8 +15702,6 @@ PARÁGRAFO . Quienes se encuentren en áreas de reserva forestal diferentes a la
 SUBSECCIÓN 1.5.
 
 ACTIVIDADES NO SUSCEPTIBLES DE FORMALIZACIÓN
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.5.1 — Causales de rechazo
 
@@ -16903,15 +15737,11 @@ Se rechazará de plano la solicitud de formalización de minería tradicional en
 
 (Decreto 933 de 2013, art 29)
 
-ARTÍCULO
-
 ## art:2.2.5.4.1.1.5.2 — Comunicación a autoridades competentes
 
 Una vez en firme la decisión de rechazo de la solicitud por parte de la Autoridad Minera competente, o de terminación de la etapa de mediación de los acuerdos con el titular minero suscritos en virtud del proceso de formalización, la Autoridad Minera debe oficiar al Alcalde Municipal de la jurisdicción respectiva para que proceda al cierre de las explotaciones mineras y a la Autoridad Ambiental competente, a efectos de que se impongan las medidas de restauración, recuperación, rehabilitación o compensación a que haya lugar, así como a las demás autoridades para lo de su competencia.
 
 (Decreto 933 de 2013, art 33)
-
-ARTÍCULO
 
 ## art:2.2.5.4.1.1.5.3 — Medidas de restauración ambiental
 
@@ -16927,8 +15757,6 @@ SECCIÓN 2.
 
 SUBCONTRATO DE FORMALIZACIÓN MINERA
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.1 — Ámbito de aplicación
 
 Los lineamientos dispuestos en esta Sección reglamentan la autorización, celebración y ejecución del Subcontrato de Formalización Minera entre el beneficiario de un título minero y los explotadores mineros de pequeña escala o pequeños mineros definidos de conformidad con el artículo 2.2.5.1.5.5 del presente Decreto, que se encuentren adelantando actividades de explotación desde antes del 15 de julio de 2013, en el área perteneciente a dicho título.
@@ -16938,8 +15766,6 @@ Al igual, desarrolla las condiciones para la devolución y administración de la
 PARÁGRAFO . La suscripción del Subcontrato de Formalización Minera y la Devolución de Áreas para la Formalización Minera se podrán realizar en cualquier etapa del título minero.
 
 (Decreto 480 de 2014, art. 1; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.2 — Solicitud de autorización del Subcontrato de Formalización Minera
 
@@ -16961,15 +15787,11 @@ PARÁGRAFO . En los casos en que se quiera por parte del titular minero celebrar
 
 (Decreto 480 de 2014, art.2; Sustituido por el Decreto 1949 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.3 — Evaluación de la solicitud de autorización para celebrar Subcontrato de Formalización Minera
 
 Los documentos referidos en el artículo anterior se evaluarán dentro del término dispuesto por el artículo 273 de la Ley 685 de 2001. En el evento que se determine que los documentos aportados no cumplen con lo establecido en la presente Sección, se requerirá al solicitante por una sola vez, para que en el término de treinta (30) días subsane o corrija las deficiencias, so pena de decretar el desistimiento y el archivo de la solicitud, acorde con lo establecido por el inciso final del artículo 17 de la Ley 1755 de 2015, o las normas que lo modifiquen, adicionen o sustituyan.
 
 (Decreto 480 de 2014, art 3; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.4 — Visita de viabilización
 
@@ -16978,8 +15800,6 @@ La autoridad minera realizará una visita de viabilización al área a subcontra
 PARÁGRAFO . En aquellos casos en que la autoridad minera evidencie que el pequeño minero que se encuentra desarrollando actividades mineras en el área a subcontratar, presentó con anterioridad a la expedición de la Ley 1658 de 2013 solicitud de legalización de minería en cualquiera de sus programas o hizo parte de un proceso de amparo administrativo, respecto del área objeto de la solicitud, no requerirá visita, siempre que los documentos aportados o visitas realizadas con anterioridad, le permitan a la Autoridad Minera Nacional determinar que se trata de un pequeño minero y que cumple con los términos y condiciones establecidos en la presente sección. En caso contrario, es decir, si dicha autoridad no consigue establecer que se cumplen con los anteriores requisitos, así lo manifestará y ordenará la realización de la visita de viabilización, mediante auto de trámite.
 
 (Decreto 480 de 2014, en 4; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.5 — Causales de rechazo de la solicitud de Subcontrato de Formalización Minera
 
@@ -17005,15 +15825,11 @@ presentada por el titular minero en relación con el porcentaje del área que co
 
 (Decreto 480 de 2014, art 5; Sustituido por el Decreto 1949 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.6 — Autorización de suscripción del Subcontrato de Formalización Minera
 
 Evaluada la documentación presentada y de acuerdo con el informe que viabiliza el Subcontrato de Formalización Minera, la Autoridad Minera Nacional mediante acto administrativo, autorizará la suscripción del subcontrato y concederá un plazo al titular minero, en los términos del artículo 17 de la Ley 1755 de 2015, o las normas que lo modifiquen, adicionen o sustituyan, para que allegue el Subcontrato de Formalización Minera suscrito por las partes, so pena de entenderse desistido el trámite de autorización previa.
 
 (Decreto 480 de 2014, art 6; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.7 — Contenido minuta de Subcontrato de Formalización Minera
 
@@ -17031,8 +15847,6 @@ e) Descripción de las obligaciones a cargo del subcontratista y del titular min
 
 (Decreto 480 de 2014, art 7; Sustituido por el Decreto 1949 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.8 — Aprobación del Subcontrato de Formalización Minera
 
 Aportado el Subcontrato de Formalización Minera suscrito por las partes, la Autoridad Minera Nacional mediante acto administrativo lo aprobará, y en dicho acto ordenará que dentro de los quince (15) días hábiles siguientes, se realice su anotación en el Registro Minero Nacional correspondiente al título minero bajo el cual se celebró el subcontrato.
@@ -17040,8 +15854,6 @@ Aportado el Subcontrato de Formalización Minera suscrito por las partes, la Aut
 En el evento en que el subcontrato aportado no cumpla con el contenido de la minuta, la Autoridad Minera Nacional requerirá al titular minero para que en el término de un (I) mes subsane las deficiencias, so pena de decretar el desistimiento conforme a lo establecido en el artículo 17 de la Ley 1755 de 2015 0 las normas que lo modifiquen, adicionen o sustituyan.
 
 (Decreto 480 de 2014, art 8; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.9 — Plan de Trabajos y Obras Complementario para las labores de auditoría o fiscalización diferencial
 
@@ -17056,8 +15868,6 @@ De requerir el subcontratista modificación o adición al PTOC, se deberá solic
 PARÁGRAFO . Para efectos de esta Sección, se entiende la Fiscalización Diferencial, como la herramienta de monitoreo y seguimiento para vigilar el cumplimiento de las normas y las obligaciones contraídas a través de un ?Subcontrato de Formalización Minera? a las que deben sujetarse los pequeños mineros o explotadores mineros de pequeña escala para la adecuada explotación de los recursos naturales no renovables.
 
 (Decreto 480 de 2014, art9; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.10 — Contenido del Plan de Trabajos y Obras Complementario para la Fiscalización Diferencial
 
@@ -17081,8 +15891,6 @@ h) Plan de cierre de la explotación y abandono de los montajes y de la infraest
 
 (Decreto 480 de 2014, art 10; Sustituido por el Decreto 1949 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.11 — Instrumento de Control y Manejo Ambiental
 
 Anotado en el Registro Minero Nacional el Subcontrato de Formalización Minera, el subcontratista deberá solicitar la respectiva Licencia Ambiental a la Autoridad Ambiental competente, para lo cual deberá allegar ante dicha autoridad, el certificado de inscripción del subcontrato en el Registro Minero Nacional y el Estudio de Impacto Ambiental. El subcontratista aportará a la Autoridad Minera Nacional como constancia, el auto de inicio de trámite de licencia ambiental de conformidad con lo regulado por el Decreto 1076 de 2015 0 las normas que lo modifiquen, adicionen o sustituyan.
@@ -17094,8 +15902,6 @@ De estos trámites, tanto de la solicitud de la Licencia Ambiental como de la so
 PARÁGRAFO . Desde la autorización del Subcontrato de Formalización Minera y hasta la obtención del licenciamiento ambiental, el subcontratista deberá dar estricto cumplimiento y aplicación a las Guías Ambientales para la formalización, adoptadas por el Ministerio de Ambiente y Desarrollo Sostenible. Durante este término no habrá lugar a proceder respecto de los interesados mediante la medida prevista en el artículo 161 de la Ley 685 de 2001. El incumplimiento de los términos y condiciones establecidos en la mencionada guía, o la generación del daño ambiental, dará lugar a la aplicación de las medidas preventivas y sancionatorias contempladas en la Ley 1333 de 2009 0 la norma que la modifique, adicione o sustituya.
 
 (Decreto 480 de 2014, art 11; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.12 — Fiscalización diferencial, seguimiento y control
 
@@ -17109,8 +15915,6 @@ PARÁGRAFO . El Subcontratista será responsable del cierre minero y demás impa
 
 (Decreto 480 de 2014, art 12; Sustituido por el Decreto 1949 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.13 — Requerimientos de la visita de seguimiento al área subcontratada
 
 En el evento en que la Autoridad Minera Nacional durante el desarrollo de la visita detecte que la explotación minera no cumple con las condiciones técnicas, operativas y de seguridad mínimas establecidas en la ley, deberá establecerlo en el acta de visita, así como el requerimiento de subsanación de las mismas mediante la implementación de medidas preventivas; para lo cual establecerá un término para su cumplimiento, so pena de la imposición de las sanciones pertinentes y la terminación de la aprobación del subcontrato.
@@ -17118,8 +15922,6 @@ En el evento en que la Autoridad Minera Nacional durante el desarrollo de la vis
 La Autoridad Minera Nacional realizará las visitas de verificación necesarias para constatar el cumplimiento de los requerimientos realizados, e informará al subcontratista y al titular minero sobre las conclusiones y recomendaciones de la visita.
 
 (Decreto 480 de 2014, art 13; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.14 — Prohibiciones frente al Subcontrato de Formalización Minera
 
@@ -17129,8 +15931,6 @@ La producción del mineral objeto de explotación en el área correspondiente al
 
 (Decreto 480 de 2014, art 14; Sustituido por el Decreto 1949 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.4.2.15 — Prórroga del término del Subcontrato de Formalización Minera
 
 El término pactado en el Subcontrato de Formalización Minera podrá ser prorrogado sucesivamente por las partes, para lo cual el titular minero, tres (3) meses antes del vencimiento del término inicialmente pactado, deberá dar aviso a la Autoridad Minera Nacional con el fin de que verifique el cumplimiento de las obligaciones derivadas del Subcontrato de Formalización Minera y de ser procedente dicha prórroga, la Autoridad Minera Nacional la aprobará y ordenará la correspondiente anotación en el Registro Minero Nacional.
@@ -17138,8 +15938,6 @@ El término pactado en el Subcontrato de Formalización Minera podrá ser prorro
 La Autoridad Minera Nacional aprobará la prórroga mediante acto administrativo, evento en el cual el subcontratista deberá actualizar el Programa de Trabajos y Obras Complementario PTOC para la fiscalización diferencial, así como el instrumento de control y manejo ambiental para dicho subcontrato en caso de requerirlo, en concordancia con lo establecido en el artículo 22.2.3.7.1 del Decreto 1076 de 2015 0 la norma que lo modifique, adicione o sustituya
 
 (Decreto 480 de 2014, art 15; Sustituido por el Decreto 1949 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.16 — Causales de Terminación del Subcontrato de Formalización Minera
 
@@ -17187,8 +15985,6 @@ SECCIÓN 3.
 
 DEVOLUCIÓN DE ÁREAS PARA LA FORMALIZACIÓN MINERA.
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.1 — Devolución de áreas para la formalización minera
 
 La devolución de áreas para la formalización minera, es la realizada por el titular minero como resultado de un proceso de mediación o por decisión directa de este, con el fin de contribuir a la formalización de la pequeña minería
@@ -17196,8 +15992,6 @@ La devolución de áreas para la formalización minera, es la realizada por el t
 PARÁGRAFO . Esta devolución se puede realizar para (i) formalizar a los pequeños mineros que se encuentren adelantando actividades de explotación en el área del título minero, o (ii) para aquellos que se encuentran adelantando labores de explotación en un área distinta a la del título minero, y que debido a las restricciones ambientales o sociales que se presentan en el lugar donde están ejerciendo sus labores, requieran ser reubicados.
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3.2 — Solicitud de devolución de áreas por parte del titular minero
 
@@ -17215,8 +16009,6 @@ PARÁGRAFO . El titular minero, podrá aportar información geológica-minera qu
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.3 — Evaluación de la solicitud de devolución de áreas para la Formalización Minera
 
 Presentada la solicitud, la Autoridad Minera Nacional la evaluará y verificará que el título minero se encuentre a paz y salvo en sus obligaciones al momento de la presentación de la solicitud. Dicha evaluación se realizará dentro del término dispuesto por el artículo 273 de la Ley 685 de 2001
@@ -17225,8 +16017,6 @@ PARÁGRAFO . Evaluados los requisitos de la solicitud de devolución de área pa
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.4 — Visita de viabilización
 
 Cumplidos los requisitos de la solicitud de devolución de áreas para la Formalización Minera, la Autoridad Minera Nacional realizará una visita al área objeto de devolución con el fin de verificar el área viable para explotación y los aspectos técnicos y de seguridad minera de la misma. En los casos en que la solicitud sea para la reubicación de mineros que se encuentran en zonas diferentes a la devuelta, se verificará si esta cumple con las condiciones para la explotación minera.
@@ -17234,8 +16024,6 @@ Cumplidos los requisitos de la solicitud de devolución de áreas para la Formal
 La Autoridad Minera Nacional de acuerdo con lo observado en la visita, elaborará el informe técnico sobre la viabilidad o no de aceptar la devolución de área y de celebrar el Contrato de Concesión Minera.
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3.5 — Causales de rechazo de la solicitud de Devolución de Área para la Formalización Minera
 
@@ -17251,8 +16039,6 @@ d) Cuando el Ministerio de Minas y Energía o la Autoridad Minera Nacional encue
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.6 — Aprobación de la devolución de áreas para la Formalización Minera
 
 Cumplidos los requisitos solicitados en la presente Sección para la Devolución de áreas, la Autoridad Minera Nacional con base en el informe técnico de viabilidad, procederá mediante acto administrativo a la aprobación de la devolución de área a favor de la formalización de pequeños mineros
@@ -17261,23 +16047,17 @@ En caso de tratarse de devolución parcial de área, la Autoridad Minera Naciona
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.7 — Registro de las áreas devueltas para la Formalización Minera
 
 En el acto administrativo de aprobación de la devolución de áreas para la Formalización Minera, la Autoridad Minera Nacional ordenará que se realice la respectiva anotación en el Registro Minero Nacional dentro del término dispuesto por el artículo 333 de la Ley 685 de 2001.
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.8 — Banco de Áreas
 
 Con las áreas objeto de devolución se crea el Banco de Áreas, el cual será administrado por la Autoridad Minera Nacional para el desarrollo de proyectos de formalización minera. Si contados dos (2) años a partir de la fecha en que haya sido aceptada la devolución por parte de la Autoridad Minera Nacional, las áreas no han sido asignadas para la formalización, éstas serán liberadas para ser otorgadas mediante el régimen ordinario
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3.9 — Responsabilidad frente a las áreas devueltas para el programa de formalización para pequeños mineros
 
@@ -17287,15 +16067,11 @@ Lo anterior, sin perjuicio de cualquier pasivo o reclamación que se derive de l
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.10 — Subcontratos y Devolución de Áreas para la Formalización
 
 El titular minero que haya suscrito Subcontratos de Formalización Minera aprobados de acuerdo con lo 'establecido en este decreto, podrá devolver áreas para la formalización, caso en el cual deberá cumplir con los requisitos legales establecidos para el efecto.
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3.11 — Instrumentos mineros y ambientales
 
@@ -17305,8 +16081,6 @@ PARÁGRAFO . Mientras se otorga el Contrato de Concesión a los pequeños minero
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.12 — Evaluación de la solicitud de contrato de concesión para la formalización minera
 
 Dentro del mismo término dispuesto para la evaluación de la devolución de áreas, la Autoridad Minera Nacional evaluará la propuesta de contrato de concesión que fue presentada con la solicitud de devolución, si encuentra que dichos documentos no cumplen con lo establecido para el efecto por la normatividad vigente, requerirá al solicitante por una sola vez, para que en el término de treinta (30) días subsane las deficiencias, so pena de decretar el desistimiento de la solicitud, de acuerdo con lo previsto por el inciso final del artículo 17 de la Ley 1755 de 2015 0 las normas que lo modifiquen, adicionen o sustituyan.
@@ -17315,15 +16089,11 @@ Evaluada la solicitud y realizada la visita de viabilización cuando sea procede
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.13 — Causales de Rechazo de la solicitud de Contrato de Concesión para la Formalización Minera
 
 La solicitud de Contrato de Concesión para la Formalización Minera, será rechazada de presentarse las causales señaladas en el artículo 274 de la Ley 685 dé 2001 0 las normas que lo modifiquen, adicionen o sustituyan.
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3.14 — Suscripción Contrato de Concesión para la Formalización Minera
 
@@ -17333,15 +16103,11 @@ El Contrato de Concesión que se suscriba con los pequeños mineros en las área
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.15 — Aplicación de Guías Ambientales
 
 A partir de la suscripción del Contrato de Concesión para la formalización minera y hasta que los pequeños mineros obtengan la respectiva Licencia Ambiental, deberán aplicar las guías ambientales expedidas por el Ministerio de Ambiente y Desarrollo Sostenible, caso en el cual no habrá lugar a proceder respecto de los pequeños mineros mediante la medida prevista en el artículo 161 de la Ley 685 de 2001, sin perjuicio de las acciones administrativas ambientales que deban imponerse por parte de las autoridades ambientales competentes, en caso de daño ambiental.
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.3.16 — Permisos Ambientales y/o Licencia Ambiental
 
@@ -17350,8 +16116,6 @@ Una vez inscrito en el Registro Minero Nacional el Contrato de Concesión para l
 El pequeño minero titular aportará a la Autoridad Minera Nacional, como constancia, el auto de inicio de trámite de licencia ambiental de conformidad con lo regulado por el Decreto 1076 de 2015 0 las normas que lo modifiquen, adicionen o sustituyan.
 
 (Decreto 1949 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.5.4.2.3.17 — Medidas de restauración ambiental
 
@@ -17365,8 +16129,6 @@ Reubicación de pequeños mineros. La reubicación de pequeños mineros en área
 
 (Decreto 1949 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.5.4.3.19 — Transitoriedad
 
 Las actuaciones y diligencias iniciadas, así como los términos que hubieren empezado a correr bajo la vigencia del Decreto 480 de 2014, continuarán rigiéndose por lo previsto en éste, hasta su finalización.
@@ -17379,8 +16141,6 @@ SECCIÓN 4
 
 REQUISITOS DIFERENCIALES PARA EL OTORGAMIENTO DEL CONTRATO DE CONCESIÓN A LOS MINEROS DE PEQUEÑA ESCALA Y BENEFICIARIOS DE DEVOLUCIÓN DE ÁREAS PARA LA FORMALIZACIÓN MINERA
 
-ARTÍCULO
-
 ## art:2.2.5.4.4.1 — Ámbito de aplicación
 
 La presente Sección aplica a las personas naturales o jurídicas que sean Mineros de Pequeña Escala que no cuenten con título minero y a los Beneficiarios de Devolución de Áreas para la formalización minera.
@@ -17388,8 +16148,6 @@ La presente Sección aplica a las personas naturales o jurídicas que sean Miner
 SUBSECCIÓN 1
 
 ACCESO AL CONTRATO
-
-ARTÍCULO
 
 ## art:2.2.5.4.4.1.1.1 — Condiciones de acceso
 
@@ -17399,15 +16157,11 @@ PARÁGRAFO 1. Los interesados no podrán presentar simultáneamente más de una 
 
 PARÁGRAFO 2. Una vez obtenido el contrato mediante requisitos diferenciales, los Mineros de Pequeña Escala y los Beneficiarios de Devolución de Áreas para la formalización, podrán ser beneficiarios de otros títulos mineros en los términos y condiciones establecidos en el Código de Minas para el régimen ordinario.
 
-ARTÍCULO
-
 ## art:2.2.5.4.4.1.1.2 — Opciones de cambio
 
 Los interesados con solicitudes de: (i) propuestas de contrato de concesión; (ii) legalización o formalización de minería tradicional, y (iii) área de reserva especial, siempre y cuando todos los miembros de la comunidad solicitante manifiesten su acuerdo; podrán optar por continuar con el trámite bajo el cual fueron presentadas, o por el de propuesta de contrato de concesión con requisitos diferenciales previsto en la presente Sección.
 
 PARÁGRAFO . La autoridad minera nacional expedirá el acto administrativo que determine las condiciones para acogerse a la modificación de solicitudes a propuesta de contrato de concesión con requisitos diferenciales, el cual incluirá entre otros aspectos, la fecha límite de solicitud de modificación, la procedencia de la modificación y la fecha de entrada en operación del módulo de radicación de las propuestas.
-
-ARTÍCULO
 
 ## art:2.2.5.4.4.1.1.3 — Mineros de Pequeña Escala
 
@@ -17471,8 +16225,6 @@ N/A *
 
 En los casos no especificados como material mineralizado se hace referencia a material removido.
 
-ARTÍCULO
-
 ## art:2.2.5.4.4.1.1.4 — Beneficiarios de Devolución de Áreas para la formalización
 
 Los pequeños mineros a favor de quienes opere la devolución de áreas de acuerdo con la normatividad vigente aplicable, así como los pequeños mineros que requieren ser reubicados debido a restricciones ambientales o sociales en la zona donde están ejerciendo sus labores, se sujetarán a las hectáreas y producción prevista para la clasificación de la pequeña minería señalada en los artículos 2.2.5.1.5.4 y 2.2.5.1.5.5 del presente decreto.
@@ -17480,8 +16232,6 @@ Los pequeños mineros a favor de quienes opere la devolución de áreas de acuer
 SUBSECCIÓN 2
 
 REQUISITOS DE PRESENTACIÓN
-
-ARTÍCULO
 
 ## art:2.2.5.4.4.1.2.1 — Requisitos diferenciales para la presentación de la Propuesta de Contrato de Concesión
 
@@ -17509,15 +16259,11 @@ SUBSECCIÓN 3
 
 DE LA PROPUESTA
 
-ARTÍCULO
-
 ## art:2.2.5.4.4.1.3.1 — Presentación
 
 La propuesta de contrato de concesión de que trata esta sección se presentará por los Mineros de Pequeña Escala y por los Beneficiarios de Devolución de Áreas, en el Sistema Integral de Gestión Minera con el cumplimiento de los requisitos previstos en el artículo 2.2.5.4.4.1.2.1., de la Subsección 2, de acuerdo con los términos de referencia diferenciales para la presentación del anexo técnico de que trata el literal d) del artículo 2.2.5.4.4.1.2.1. y los criterios diferenciales para la acreditación de la capacidad económica expedidos por la Autoridad Minera referido en el literal e) del artículo 2.2.5.4.4.1.2.1.
 
 PARÁGRAFO . Los Beneficiarios de Devolución de Áreas que se encuentran realizando actividades de explotación en el área del titular minero que realiza la devolución, deberán suscribir un contrato de concesión atendiendo los lineamientos señalados en el artículo 2.2.5.4.3.14. del presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.5.4.4.1.3.2 — Estudio y Evaluación de las propuestas
 
@@ -17526,8 +16272,6 @@ Serán aplicables para el estudio y evaluación de las propuestas de contrato de
 SUBSECCIÓN 4
 
 CARACTERÍSTICAS ESPECÍFICAS
-
-ARTÍCULO
 
 ## art:2.2.5.4.4.1.4.1 — Viabilización de la explotación anticipada
 
@@ -17541,8 +16285,6 @@ SUBSECCIÓN 5
 
 BENEFICIOS
 
-ARTÍCULO
-
 ## art:2.2.5.4.4.1.5.1 — 5.1
 
 Beneficios para los Mineros de Pequeña Escala y Beneficiarios de Devolución de Áreas que accedieron al contrato de concesión mediante requisitos diferenciales. Los Mineros de Pequeña Escala y Beneficiarios de Devolución de Áreas que hayan accedido al contrato de concesión a través de las condiciones establecidas en la presente Sección, tendrán los siguientes beneficios:
@@ -17552,8 +16294,6 @@ a) Acompañamiento técnico integral por parte de la autoridad minera, siempre y
 b) Fiscalización diferencial, de acuerdo con los lineamentos que al respecto sean dados por el Ministerio de Minas y Energía.
 
 PARÁGRAFO . La ejecución de las labores de acompañamiento que realice la autoridad minera no eximirá a los Mineros de Pequeña Escala y a los Beneficiarios de Devolución de Áreas del cumplimiento de las obligaciones emanadas del contrato y de la imposición de las sanciones correspondientes.
-
-ARTÍCULO
 
 ## art:2.2.5.4.4.1.5.2 — Previsiones especiales
 
@@ -17570,8 +16310,6 @@ PROYECTOS MINEROS ESPECIALES
 SECCIÓN 1.
 
 LOS CONTRATOS ESPECIALES DE CONCESIÓN MINERA
-
-ARTÍCULO
 
 ## art:2.2.5.5.2.1 — Condiciones de las áreas sujetas a delimitación
 
@@ -17593,8 +16331,6 @@ SECCIÓN 1.
 
 LEGALIZACIÓN MINERA
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.1 — Definición
 
 Para los fines pertinentes de esta reglamentación entiéndase como explotadores de minas de propiedad estatal sin título a las personas que, sin título minero inscrito en el Registro Minero Nacional, llevan a cabo explotaciones de depósitos y/o yacimientos mineros, con anterioridad al 17 de agosto de 2001.
@@ -17606,8 +16342,6 @@ PARÁGRAFO . En ningún caso serán sujetos de la legalización de que trata est
 En ningún caso podrán los interesados en solicitudes o propuestas de contrato de concesión pretender modificar el trámite de las mismas para acogerse a los beneficios o prerrogativas de esta sección. Tales solicitudes deberán continuar su trámite de conformidad con las normas que les sean aplicables.
 
 (Decreto 2390 de 2002, art 1)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.2 — Mineros sin título minero inscrito en Registro Minero Nacional
 
@@ -17626,8 +16360,6 @@ Los funcionarios indicados en este parágrafo deberán hacer constar en el formu
 En el caso en que la solicitud de legalización sea presentada ante Notario o Alcalde, el interesado en la misma deberá sufragar los costos y gastos del envío de su solicitud a Minercol Ltda. Sede Bogotá o quien haga sus veces.
 
 (Decreto 2390 de 2002, art 2)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.3 — Formulario especial de legalización
 
@@ -17655,8 +16387,6 @@ Las autoridades mineras delegadas podrán suscribir convenios con los Consultori
 
 (Decreto 2390 de 2002, art 3)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.4 — Superposición total de áreas en solicitudes de legalización
 
 En el caso de superposición total de áreas y para el mismo mineral, entre solicitudes de legalización con: Solicitudes de legalización en trámite, propuestas de contratos de concesión y solicitudes anteriores, solicitudes de autorización temporal anteriores o autorizaciones temporales en ejecución, títulos mineros otorgados inscritos y no inscritos en el Registro Minero Nacional, títulos de propiedad privada del subsuelo, zonas de reserva especial, zonas de seguridad nacional, zonas excluibles de la minería, zonas de minería restringida y demás áreas de protección ecológica y ambiental de acuerdo con la normatividad ambiental vigente, sin la correspondiente autorización o zonas de inversión estatal; y las áreas sobre las que se hubiere resuelto abrir licitaciones y concursos dentro de las zonas anteriormente aportadas, tal y como lo dispone el artículo 351 del Código de Minas, se procederá al rechazo de la solicitud y se ordenará la suspensión de la explotación de conformidad con lo establecido en el artículo 306 y el Capítulo XVII del Código de Minas.
@@ -17670,8 +16400,6 @@ PARÁGRAFO . Las superposiciones entre solicitudes de explotadores de minas de p
 PARÁGRAFO . Cuando proceda el rechazo de la solicitud, del acto administrativo que la declare se compulsará copia a la autoridad ambiental competente, con el fin de que ésta ordene la adopción de las medidas necesarias a tomar por parte del solicitante para mitigar y corregir el impacto ambiental producido por la explotación de hecho. Igualmente, se compulsará copia del mismo al alcalde del municipio en que se adelantare la explotación, con el fin de que éste proceda a efectuar diligencia de cierre, suspensión de trabajos y decomiso de mineral, de conformidad con el artículo 306 del Código de Minas.
 
 (Decreto 2390 de 2002, art 4)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.5 — Visita técnica minero ambiental
 
@@ -17709,8 +16437,6 @@ PARÁGRAFO . Cuando el informe de visita recomiende una legalización conjunta d
 
 (Decreto 2390 de 2002, art 5)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.6 — Informe de visita
 
 El informe de visita conjunta debe referirse en forma expresa y clara a cada uno de los ítems indicados en el artículo anterior y precisar si, desde el punto de vista minero y ambiental, es viable continuar con el trámite de la solicitud o sí por el contrario, se recomienda el rechazo de la misma.
@@ -17718,8 +16444,6 @@ El informe de visita conjunta debe referirse en forma expresa y clara a cada uno
 En el evento de que el informe recomiende continuar con el trámite de la solicitud, la autoridad minera delegada procederá a ello conforme lo establece el artículo 2.2.4.8.1.10 de la presente sección. Caso contrario, se ordenará el rechazo de la solicitud a través de acto administrativo motivado contra el cual sólo procede recurso de reposición.
 
 (Decreto 2390 de 2002, art 6)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.7 — Continuación del trámite de la solicitud
 
@@ -17735,23 +16459,17 @@ Los asuntos no regulados en esta sección estarán sujetos al procedimiento esta
 
 (Decreto 2390 de 2002, art 7)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.8 — No habrá lugar a la legalización
 
 No habrá lugar a la legalización de explotaciones mineras cuando a juicio de la autoridad ambiental no sean viables, y/o cuando a juicio de la autoridad minera delegada sean manifiestamente inseguras, presenten peligro inminente para la vida de los mineros o de los habitantes de las zonas aledañas.
 
 (Decreto 2390 de 2002, art 8)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.9 — Zonas mineras de comunidades negras, indígenas o mixtas
 
 En caso de solicitudes de legalización que se localicen en áreas de zonas mineras de comunidades negras, indígenas o mixtas se procederá de acuerdo con lo establecido en el Capítulo XIV de la Ley 685 de 2001.
 
 (Decreto 2390 de 2002, art 9)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.10 — Registro de las condiciones
 
@@ -17765,23 +16483,17 @@ Elaborado por la autoridad minera delegada el Programa de Trabajos y Obras (PTO)
 
 (Decreto 2390 de 2002, art 10)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.11 — Aceptación el PTO
 
 Si el interesado en la solicitud acepta el PTO elaborado por la autoridad minera delegada, se procederá dentro de los treinta (30) días siguientes a suscribir Contrato de Concesión para Explotación Minera en el formato único de minuta que para el efecto adopte el Ministerio de Minas y Energía.
 
 (Decreto 2390 de 2002, art 11)
 
-ARTÍCULO
-
 ## art:2.2.5.5.1.12 — Competencia de las entidades
 
 Las entidades delegadas por el Ministerio de Minas y Energía para adelantar y decidir trámites mineros se consideran competentes en los términos de la delegación, dentro del ámbito de su jurisdicción y respecto de los minerales de su competencia para tramitar y legalizar explotaciones de minas de propiedad estatal sin título minero inscrito en el Registro Minero Nacional.
 
 (Decreto 2390 de 2002, art 12)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.13 — Campañas de divulgación
 
@@ -17790,8 +16502,6 @@ Las autoridades mineras delegadas deberán adelantar dentro del ámbito de su ju
 De igual manera, deberán prestar a todos los interesados la asesoría necesaria para dilucidar las inquietudes que se presenten en relación con la aplicación de esta sección.
 
 (Decreto 2390 de 2002, art 13)
-
-ARTÍCULO
 
 ## art:2.2.5.5.1.14 — Solicitud en trámite
 
@@ -17806,8 +16516,6 @@ COMERCIALIZACIÓN.
 SECCION 1.
 
 RUCOM.
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.1.1 — Definiciones
 
@@ -17839,23 +16547,17 @@ El Registro Único de Comercializadores de Minerales ? RUCOM- también efectúa 
 
 (Decreto 1102 de 2017, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1.2 — Administración del RUCOM
 
 La Agencia Nacional de Minería o quien haga sus veces administrará el RUCOM, y será el único medio para dar autenticidad de los datos inscritos.
 
 (Decreto 0276 de 2015, art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1.3 — Certificación de Inscripción en el RUCOM
 
 La Agencia Nacional de Minería, o quien haga sus veces, expedirá una certificación en la que se acredite la calidad de Comercializador de Minerales Autorizado debidamente inscritos en el RUCOM.
 
 (Decreto 0276 de 2015, art 3)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.1.4 — Acreditación de la procedencia lícita del mineral
 
@@ -17879,8 +16581,6 @@ PARÁGRAFO . La Agencia Nacional de Minería elaborará e implementará los form
 
 (Decreto 1102 de 2017, art 2)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1.5 — Excepciones a la inscripción
 
 Para efectos de esta sección, no tienen la obligación de inscribirse en el RUCOM, las siguientes personas:
@@ -17898,8 +16598,6 @@ PARÁGRAFO . A partir de la entrada en vigencia de esta sección, la Autoridad M
 PARÁGRAFO . Las personas exceptuadas en los literales b) y e) de este artículo, cuando les sea requerida por las autoridades competentes, deberán demostrar la procedencia lícita del mineral mediante la presentación de: (i) Copia del Certificado de Origen suministrado por los Comercializadores de Minerales Autorizados o las Plantas de Beneficio, (ii) Certificado de Origen expedido por el Explotador Minero Autorizado.
 
 (Decreto 0276 de 2015, art 5)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.1.6 — Publicación de Explotadores Mineros Autorizados
 
@@ -17919,15 +16617,11 @@ PARÁGRAFO . La autoridad minera nacional, en el evento de tener conocimiento qu
 
 (Decreto 1102 de 2017, art 4)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1.7 — Plantas de beneficio
 
 El certificado de origen que deben expedir las personas que poseen plantas de beneficio, para la venta de los minerales presentes en el lodo aurífero que resulta de las actividades realizadas en estas, deberá soportarse en los certificados de origen de los diferentes explotadores mineros autorizados que beneficien en dicha planta. Para este efecto, el propietario de la planta, deberá anexar a su certificado de origen copia de los certificados de dichos explotadores
 
 (Decreto 0276 de 2015, art 7)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.1.8 — Casa de compra y venta
 
@@ -17938,8 +16632,6 @@ Las casa de compra y venta que compre mineral de oro, plata y platino, así como
 SUBSECCIÓN 1.2.
 
 COMERCIALIZADORES DE MINERALES
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.2.1 — Requisitos
 
@@ -17966,8 +16658,6 @@ h) Demostración por las personas naturales y jurídicas de la capacidad económ
 i) Certificación de Inscripción en el Registro Mercantil.
 
 (Decreto 1421 de 2016, art 2)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.2.2 — Obligaciones de los Comercializadores de Minerales Autorizado
 
@@ -18007,8 +16697,6 @@ SUBSECCIÓN 1.3
 
 TRANSPORTADORES
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.3.1 — Requisitos para el transporte de minerales
 
 Quienes transporten minerales dentro del territorio nacional, deberán portar (i) copia de la certificación de inscripción en el RUCOM del Comercializador de Minerales Autorizado a quien pertenecen los minerales transportados, y (ii) copia del Certificado de Origen del mineral transportado.
@@ -18023,8 +16711,6 @@ SUBSECCIÓN 1.4
 
 ACTUALIZACIÓN DEL RUCOM Y SANCIONES
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.4.1 — Actualización
 
 Comercializadores de Minerales Autorizados deberán actualizar la información suministrada al momento de la inscripción en el RUCOM, ante cualquier cambio que ocurra, y renovar en el mes de mayo cada año, los documentos contenidos en los literales d), f) y g) del artículo 2.2.4.8.1.9 de la presente Sección. El incumplimiento a la obligación de renovar la información y documentación señalada, no permitirá extender la inscripción en el RUCOM.
@@ -18034,8 +16720,6 @@ La Autoridad Minera Nacional deberá realizar la inscripción, actualización o 
 El lapso anteriormente señalado también aplicará a las solicitudes debidamente presentadas y pendientes de resolver por parte de la Agencia Nacional de Minería ANM.
 
 (Decreto 0276 de 2015, art 12)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.4.2 — Decomiso y Multa
 
@@ -18055,23 +16739,17 @@ SUBSECCIÓN 1.5
 
 TRANSICION Y VIGENCIA
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.5.1 — Inventario
 
 Las personas naturales o jurídicas que a la fecha de publicación de la presente sección tengan inventarios físicos de minerales sin Certificado de Origen, pero que se encuentren declarados en su contabilidad, libros, registros contables, inventarios o estados financieros expedidos hasta el año 2014, deberán realizar su comercialización antes del 31 de diciembre del año 2015, so pena de multa y decomiso de estos minerales, de acuerdo con lo dispuesto en la presente sección
 
 (Decreto 0276 de 2015, art 14)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.5.2 — Barequeros
 
 En virtud del trato diferencial a la minería informal que consagra el artículo 107 de la Ley 1450 de 2011, los barequeros que no se encuentren en los listados reportados por las alcaldías podrán comercializar sus productos hasta por un lapso no superior a seis (6) meses, contados a partir de del 17 de febrero de 2015Vencido dicho lapso se les exigirá la inscripción correspondiente.
 
 (Decreto 0276 de 2015, art 15)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.5.3 — Capacidad Económica
 
@@ -18085,8 +16763,6 @@ DE LAS MEDIDAS RELACIONADAS CON EL BENEFICIO Y COMERCIALIZACIÓN DE MINERALES
 
 (Sección adicionada por el Decreto 1421 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.6.2.1 — Inscripción de las Plantas de Beneficio en el Registro Único de Comercializadores de Minerales - RUCOM
 
 El propietario de las plantas de beneficio deberá inscribirse en el Registro Único de Comercializadores de Minerales - RUCOM en un término de seis (6) meses contados a partir de la publicación de este Decreto, vencido este plazo, deberá contar con la certificación de la Agencia Nacional de Minería donde conste dicha inscripción.
@@ -18094,8 +16770,6 @@ El propietario de las plantas de beneficio deberá inscribirse en el Registro Ú
 Cuando la Planta de Beneficio haga parte de un proyecto amparado por un título minero no deberá inscribirse sino incluirse en las listas que debe publicar la Agencia Nacional de Minería en la plataforma del RUCOM.
 
 Las Plantas de Beneficio sólo podrán beneficiar minerales provenientes de Explotadores Mineros Autorizados, so pena de incurrir en la conducta tipificada en el artículo 160 de la Ley 685 de 2001, y que se le cancele la inscripción en el Registro Único de Comercializadores de Minerales - RUCOM, previo el adelantamiento de la respectiva actuación en los términos del Código de Procedimiento Administrativo y de lo Contencioso Administrativo
-
-ARTÍCULO
 
 ## art:2.2.5.6.2.2 — Requisitos para la inscripción de las Plantas de Beneficio en el RUCOM
 
@@ -18118,8 +16792,6 @@ g. Acreditación de la capacidad económica de acuerdo con lo dispuesto en el ar
 h. Certificación de Inscripción en el Registro Mercantil.
 
 i. Suministrar la siguiente información: Ubicación de la planta de beneficio, mineral objeto de beneficio, cantidad de mineral beneficiado en el año inmediatamente anterior, capacidad de la planta, relación de insumos utilizados en el beneficio, método de beneficio y equipos utilizados.
-
-ARTÍCULO
 
 ## art:2.2.5.6.2.3 — Obligaciones de las Plantas de Beneficio inscritas en el RUCOM
 
@@ -18153,8 +16825,6 @@ INSTRUMENTOS PREVENTIVOS Y DE CONTROL
 
 (Sección adicionada por el Decreto 1421 de 2016, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.5.6.3.1 — Acceso a la información
 
 De conformidad con lo establecido en la Ley 526 de 1999 y en su decreto reglamentario contenido en la Parte 14 del Decreto 1068 de 2015, la Unidad de Información y Análisis Financiero -UIAF- solicitará a la Agencia Nacional de Minería, a la Dirección de Impuestos y Aduanas Nacionales - DIAN y a la Autoridad Nacional de Licencias Ambientales - ANLA, la información que considere necesaria para el cumplimiento de sus funciones, en relación con las obligaciones establecidas en este decreto.
@@ -18165,8 +16835,6 @@ CAPÍTULO 7
 
 ASPECTOS ECONOMICOS Y TRIBUTARIOS
 
-ARTÍCULO
-
 ## art:2.2.5.7.1 — Obligación de declarar
 
 Toda persona natural o jurídica propietaria privada del subsuelo, está obligada a presentar ante Minercol Ltda. o quien haga sus veces, conforme a los formularios de declaración de que trata el artículo 2.2.5.7.2 de esta sección, dentro de los diez (10) días hábiles siguientes a la terminación de cada trimestre calendario, una declaración de producción de los minerales objeto del reconocimiento, indicando la jurisdicción municipal de donde se extrajo el mineral y liquidando el gravamen de que trata el inciso segundo del artículo 227 del Código de Minas de acuerdo con la producción declarada.
@@ -18176,8 +16844,6 @@ PARÁGRAFO . Para la respectiva declaración, el propietario privado del subsuel
 (Decreto 2353 de 2001, art 3)
 
 (Modificado por el artículo 4 Decreto 1631 de 2002)
-
-ARTÍCULO
 
 ## art:2.2.5.7.2 — Formularios de Declaración
 
@@ -18201,8 +16867,6 @@ h) Porcentajes que le corresponde a los entes beneficiarios de acuerdo con lo es
 
 (Decreto 2353 de 2001, art 4)
 
-ARTÍCULO
-
 ## art:2.2.5.7.3 — Lugar y forma de pago
 
 El propietario privado del subsuelo deberá presentar su declaración y pagar trimestralmente en dinero, en la misma fecha de presentación, el valor de la liquidación del gravamen de que trata el inciso segundo del artículo 227 del Código de Minas. La declaración deberá estar acompañada del correspondiente recibo de pago.
@@ -18213,23 +16877,17 @@ PARÁGRAFO . A partir de 8 de noviembre de 2001, el propietario privado del subs
 
 (Decreto 2353 de 2001, art 5)
 
-ARTÍCULO
-
 ## art:2.2.5.7.4 — Transferencias
 
 Minercol Ltda., o quien haga sus veces, girará las participaciones correspondientes al gravamen estipulado en el inciso segundo del artículo 227 del Código de Minas a las entidades beneficiarias (municipio productor, departamento productor, municipio portuario, y Fondo Nacional de Regalías), dentro de los diez (10) días hábiles siguientes al último día del mes de recaudo. Minercol Ltda., o quien haga sus veces, enviará a la Comisión Nacional de Regalías, dentro de los treinta (30) días hábiles siguientes al trimestre liquidado, un informe consolidado de dicho gravamen, su distribución y la transferencia efectuada por dicha Entidad en el periodo inmediatamente anterior.
 
 (Decreto 2353 de 2001, art 6)
 
-ARTÍCULO
-
 ## art:2.2.5.7.5 — Paz y salvo
 
 El propietario privado del subsuelo que explote carbón, directamente o a través de terceros, en las áreas de los Reconocimientos de Propiedad Privada y destine su producción a la exportación, deberá acreditar previamente ante la Dirección de Impuestos y Aduanas Nacionales el respectivo pago y el trimestre en que se causó.
 
 (Decreto 2353 de 2001, art 7)
-
-ARTÍCULO
 
 ## art:2.2.5.7.6 — Verificación de Producción
 
@@ -18243,19 +16901,13 @@ SECCIÓN TRANSITORIA
 
 Régimen de progresividad de Regalías para Propietarios Privados del Subsuelo en explotaciones de carbón igual o mayor a tres millones de toneladas anuales
 
-ARTÍCULO
-
 ## art:2.2.5.7.1.1 — Ámbito de aplicación
 
 La presente sección aplica a los titulares de reconocimiento de propiedad privada sobre el subsuelo en la operación minera del carbón según la producción, a la autoridad minera o sus delegadas, y rige en todo el territorio nacional.
 
-ARTÍCULO
-
 ## art:2.2.5.7.1.2 — Incremento
 
 Para efectos de la transición de que trata el último inciso del artículo 330 de la Ley 1955 de 2019, establézcase un incremento anual del 1,09%, durante tres años, hasta lograr alcanzar el 3,27%.
-
-ARTÍCULO
 
 ## art:2.2.5.7.1.3 — 1.3
 
@@ -18293,8 +16945,6 @@ Desde 26 de mayo de
 
 PARÁGRAFO . Los titulares de las explotaciones de carbón en los Reconocimientos de Propiedad Privada de que trata esta sección, liquidarán y pagarán las correspondientes regalías de manera anual, a partir de la vigencia de la Ley 1955 de 2019, de acuerdo con el cuadro anterior.
 
-ARTÍCULO
-
 ## art:2.2.5.7.1.4 — Declaración, liquidación y pago de regalías
 
 La determinación del precio base para la declaración y liquidación de regalías se calculará anualmente según la producción, teniendo en cuenta lo dispuesto por el artículo 15 de la Ley 1530 de 2011, o la norma que lo modifique, adicione o sustituya. Los titulares de las minas de Reconocimiento de Propiedad Privada de carbón, objeto de la presente Sección, deberán demostrar ante la Agencia Nacional de Minería el pago de las regalías en los porcentajes aquí señalados.
@@ -18305,8 +16955,6 @@ CAPÍTULO 8
 
 RESERVAS ESPECIALES INDÍGENAS
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.1 — Área de reserva indígena
 
 Para los efectos del literal f) del artículo 10 del Código de Minas, se considera reserva minera indígena el área ocupada en forma permanente por los resguardos indígenas o, en el caso de que no existieren legalmente tales resguardos, la de los lugares que se delimiten con el fin de que en ellos no puedan adelantarse actividades mineras sino bajo condiciones técnicas y operativas que preserven las especiales características culturales y económicas de los grupos y comunidades aborígenes;
@@ -18315,15 +16963,11 @@ El área de la reserva minera indígena y las condiciones especiales, en que en 
 
 (Decreto 710 de 1990, art 1)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.2 — Zonas Mineras Indígenas
 
 De acuerdo con lo establecido en el artículo 123 del Código de Minas, son zonas mineras indígenas las áreas señaladas como tales por el Ministerio de Minas y Energía, ubicadas dentro de los Territorios Indígenas, y en las cuales toda actividad de exploración y explotación del suelo y subsuelo minero deberá ajustarse a las disposiciones especiales contenidas en el Capítulo XVI del Código de Minas.
 
 (Decreto 710 de 1990, art 2)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.3 — Limitación de las Zonas Mineras
 
@@ -18333,15 +16977,11 @@ En todo caso las zonas mineras indígenas estarán dentro del territorio indíge
 
 (Decreto 710 de 1990, art 3)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.4 — Demarcación
 
 La demarcación de la zona minera indígena podrá no coincidir con otras demarcaciones establecidas en las leyes con fines distintos de los establecidos en el artículo 123 del Código de Minas.
 
 (Decreto 710 de 1990, art 5)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.5 — Señalamiento de una zona minera indígena
 
@@ -18349,23 +16989,17 @@ Para el señalamiento de una zona minera indígena, el Ministerio de Minas y Ene
 
 (Decreto 710 de 1990, art 6)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.6 — Resolución de linderos
 
 La resolución que señale una zona minera indígena con la determinación de sus linderos, será inscrita en el Registro Minero y podrá ser modificada en cualquier tiempo por causa justificada mediante resolución motivada, previo concepto favorable de la División de Asuntos Indígenas del Ministerio de Gobierno.
 
 (Decreto 710 de 1990, art 7)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.7 — Derecho de Prelación
 
 De acuerdo con lo establecido en el artículo 125 y 126 del Decreto 2655 de 1988 - Código de Minas, las comunidades y grupos indígenas gozarán del derecho de prelación en el otorgamiento de licencia especial de exploración y explotación, dentro de las zonas mineras indígenas, en los términos fijados en los artículos citados. El procedimiento para establecer dichos beneficios será el señalado en los siguientes artículos.
 
 (Decreto 710 de 1990, art 7)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.8 — Otorgamiento de licencias especiales
 
@@ -18375,23 +17009,17 @@ Con la solicitud se anexará un certificado expedido por la División de Asuntos
 
 Si se trata de otorgamiento oficioso también se requerirá de la certificación anterior.
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.9 — Licencia especial
 
 La licencia especial podrá otorgarse para todos los minerales que puedan existir en el área con excepción del carbón, la sal y los minerales radioactivos. Si se otorga sólo para determinados minerales, el Ministerio de Minas y Energía podrá otorgar a terceros licencias de exploración, sujetas al régimen ordinario, y en este caso tomará las medidas necesarias para que las labores de los grupos o comunidades indígenas titulares de la licencia especial no sean interferidas.
 
 (Decreto 710 de 1990, art 9)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.10 — Delimitación
 
 El área de la licencia especial para explorar y explotar minerales dentro de una zona minera indígena, será delimitada por el Ministerio de Minas y Energía y tendrá una extensión que no exceda lo previsto en los artículos 27, 28, 29 y 30 del Código de Minas, y una duración de diez (10) años prorrogables indefinidamente por períodos iguales. Esta licencia no será transferible en ningún caso.
 
 (Decreto 710 de 1990, art 10)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.11 — Uso del Derecho de Prelación
 
@@ -18407,15 +17035,11 @@ En caso contrario se continuará con el trámite de la solicitud inicial.
 
 (Decreto 710 de 1990, art 11)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.12 — Vinculación Preferente
 
 Cuando el Ministerio de Minas y Energía otorgare títulos para explorar o explotar dentro de las zonas mineras indígenas, a personas ajenas a la comunidad o grupo indígena, deberá señalar en el título respectivo, la obligación que tiene el beneficiario, de vincular preferentemente, a sus trabajos y obras, a los miembros de la comunidad o grupo indígena, así como brindarles la capacitación requerida para hacer efectiva dicha vinculación.
 
 (Decreto 710 de 1990, art 12)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.13 — Participación de los miembros de la comunidad en los trabajos mineros
 
@@ -18427,8 +17051,6 @@ La División de Asuntos Indígenas del Ministerio de Gobierno velará por la obs
 
 (Decreto 710 de 1990, art 13)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.14 — Contratos con terceros
 
 Cuando la comunidad o grupo indígena, beneficiario de una licencia especial, resuelva efectuar en la correspondiente área, obras o trabajos de exploración y explotación por contratos con terceros, gozará de asistencia técnica gratuita del Ministerio de Minas y Energía para su celebración.
@@ -18436,8 +17058,6 @@ Cuando la comunidad o grupo indígena, beneficiario de una licencia especial, re
 Dichos contratos, requieren para su validez de la aprobación de ese Ministerio, previo concepto favorable de la División de Asuntos Indígenas del Ministerio de Gobierno.
 
 (Decreto 710 de 1990, art 14)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.15 — Planes de Capacitación y las Labores
 
@@ -18449,23 +17069,17 @@ Todos los planes y acuerdos sobre estas materias requeman concepto previo favora
 
 (Decreto 710 de 1990, art 15)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.16 — Destinación de las Regalías
 
 Los municipios que perciban regalías o participaciones provenientes de explotaciones mineras ubicadas en los territorios indígenas de que trata el artículo 124 del Código de Minas, deberán destinar los correspondientes ingresos a obras y servicios que beneficien directamente a las comunidades y grupos aborígenes asentados en tales territorios. Estas obras y servicios se diseñarán y ejecutarán con la participación de las comunidades beneficiadas.
 
 (Decreto 710 de 1990, art 16)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7.7.1.17 — Informe Anual
 
 La autoridad de la comunidad o grupo indígena beneficiario de una licencia especial, deberá rendir al Ministerio de Minas y Energía, a través de la División de Asuntos Indígenas del Ministerio de Gobierno, en formulario breve y simplificado, un informe sobre la cantidad de mineral explotado durante cada año de la licencia. Este informe se presentará dentro de los dos primeros meses del año siguiente.
 
 (Decreto 710 de 1990, art 17)
-
-ARTÍCULO
 
 ## art:2.2.5.8.7.7.1.18 — Temas Relacionados con las Zonas Mineras Indígenas
 
@@ -18475,8 +17089,6 @@ De acuerdo con lo establecido en el inciso tercero del artículo 253 del Código
 
 (Modificado por artículo 1 del Decreto 137 de 1993)
 
-ARTÍCULO
-
 ## art:2.2.5.8.11.13 — Dinero producto de la venta directa de los bienes revertidos
 
 El dinero producto de la venta directa de los bienes revertidos entrará a formar parte del Presupuesto Nacional por conducto de la Dirección Tesorería General de la República.
@@ -18485,8 +17097,6 @@ El dinero producto de la venta directa de los bienes revertidos entrará a forma
 
 (Derogado por el artículo 2 Decreto 498 de 1994)
 
-ARTÍCULO
-
 ## art:2.2.5.8.11.14 — Entrega de bienes revertidos
 
 Sin perjuicio de lo establecido en el parágrafo del artículo duodécimo dela presente sección, si el concesionario no demostrare interés en la compra directa de los bienes revertidos éstos podrán ser entregados para su administración, previo convenio, a las entidades adscritas o vinculadas al Ministerio de Minas y Energía que tengan a su cargo el manejo de recursos naturales no renovables, o en su defecto a los municipios donde se encuentren ubicados dichos bienes.
@@ -18494,8 +17104,6 @@ Sin perjuicio de lo establecido en el parágrafo del artículo duodécimo dela p
 (Decreto 137 de 1993, Art 14)
 
 (Derogado por el artículo 2 Decreto 498 de 1994)
-
-ARTÍCULO
 
 ## art:2.2.5.8.11.15 — Renuncia o declaración de caducidad del contrato
 
@@ -18513,31 +17121,21 @@ ASPECTOS GENERALES
 
 (Capítulo adicionado por el Decreto 2504 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.9.1 — Objeto
 
 El objeto de este decreto es regular las actividades de fiscalización en los títulos mineros y en los subcontratos de formalización minera.
-
-ARTÍCULO
 
 ## art:2.2.5.9.2 — Ámbito de aplicación
 
 Los lineamientos sobre fiscalización dispuestos en este Decreto serán aplicados por el Ministerio de Minas y Energía o la entidad a quien este delegue o a quien se tercerice la fiscalización, respecto de los títulos mineros y de los subcontratos de formalización minera.
 
-ARTÍCULO
-
 ## art:2.2.5.9.3 — Seguimiento a las labores de fiscalización minera
 
 El Ministerio de Minas y Energía evaluará anualmente la gestión de la función de fiscalización delegada, de acuerdo con la metodología que se establezca para el efecto y para lo cual, deberá elaborar indicadores de gestión y eficiencia, entre otros. De esta evaluación, se elaborará un informe, el cual contemplará aspectos tales como las acciones de mejoramiento a que haya lugar por parte de las delegadas. Este informe será puesto en conocimiento de dichas entidades para que implementen las mencionadas acciones.
 
-ARTÍCULO
-
 ## art:2.2.5.9.4 — Tercerización de la fiscalización minera
 
 El Ministerio de Minas y Energía, ya sea directamente o a través de la entidad delegada cuando lo considere necesario, podrá realizar contratos o convenios con otras entidades públicas o privadas que cuenten con la debida experiencia para la ejecución parcial o total de las actividades que contempla la fiscalización a las actividades amparadas por un título minero, sin perder el manejo y control oportuno de las decisiones, teniendo en cuenta lo previsto por el inciso 2 del artículo 13 de la Ley 1530 de 2012.
-
-ARTÍCULO
 
 ## art:2.2.5.9.5 — Trámites, formatos y protocolos
 
@@ -18548,8 +17146,6 @@ El Ministerio de Minas y Energía y la Agencia Nacional de Minería, ANM, elabor
 La Autoridad Minera elaborará términos de referencia diferenciales para la pequeña minería respecto de los Programas de Trabajo y Obras - PTO.
 
 PARÁGRAFO . Los perfiles de los profesionales que realicen la fiscalización en la etapa de exploración deben ser: geólogos o ingenieros geólogos; y en la etapa de construcción y montaje y explotación: ingenieros en minas, ingenieros de minas y metalurgia, quienes podrán contar con el apoyo de profesionales de otras disciplinas cuando las características del proyecto así lo requieran. Respecto de la evaluación jurídica, ésta debe efectuarse por abogado titulado.
-
-ARTÍCULO
 
 ## art:2.2.5.9.6 — Lineamientos interpretativos
 
@@ -18562,8 +17158,6 @@ SECCIÓN 2
 ASPECTOS TÉCNICOS, TECNOLÓGICOS, OPERATIVOS Y ADMINISTRATIVOS PARA EJERCER LA LABOR DE FISCALIZACIÓN MINERA EN TÍTULOS MINEROS Y SE TOMAN OTRAS DETERMINACIONES
 
 (Sección adicionada por el Decreto 2504 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.9.2.1 — Criterios para la fiscalización minera
 
@@ -18596,8 +17190,6 @@ PARÁGRAFO . El Plan de Acción deberá priorizar a: (i) los Proyectos de Inter�
 Los títulos mineros objeto de priorización, deberán ser visitados por lo menos dos (2) veces al año.
 
 e. Inspecciones conjuntas: El Ministerio de Minas y Energía o la entidad a quien este delegue o a quién se tercerice la fiscalización, informará a la autoridad ambiental competente la programación de las inspecciones de campo en procura de contar con su acompañamiento en las que considere pertinente; lo anterior a fin de evidenciar, dentro del marco de sus competencias, el cumplimiento de las obligaciones derivadas del título minero y del instrumento ambiental correspondiente. Dicha información podrá ser compartida entre dichas autoridades. No obstante, en ningún caso, la fiscalización se subordinará a su realización en forma conjunta.
-
-ARTÍCULO
 
 ## art:2.2.5.9.2.2 — Plan de Mejoramiento para Pequeña y Mediana minería
 
@@ -18639,8 +17231,6 @@ FISCALIZACIÓN DIFERENCIAL
 
 (Sección adicionada por el Decreto 2504 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.9.3.1 — Criterios para la fiscalización diferencial
 
 Los criterios mínimos para realizar la fiscalización diferencial por parte del Ministerio de Minas y Energía, o la entidad a quien este delegue o a quien se tercerice la fiscalización, según el caso, serán los siguientes:
@@ -18666,8 +17256,6 @@ Cuando en el desarrollo de la inspección de campo se detecte que la explotació
 d. Frecuencia de la fiscalización diferencial. La entidad que realice la fiscalización diferencial deberá incluir en el plan de acción para fiscalización de títulos mineros, la programación de las visitas que realizará el año siguiente a los subcontratos de formalización minera, para que sean aprobadas por la Dirección de Minería Empresarial del Ministerio de Minas y Energía, o quien haga sus veces.
 
 e. Inspecciones conjuntas: El Ministerio de Minas y Energía o la entidad a quien este delegue o a quién se tercerice la fiscalización, informará a la autoridad ambiental competente, la programación de las inspecciones de campo en procura de contar con su acompañamiento en las que esta entidad considere pertinente, con el propósito de evidenciar dentro del marco de sus competencias, el cumplimiento de las obligaciones derivadas del subcontrato de formalización minera y del instrumento ambiental correspondiente, dicha información podrá ser compartida entre dichas autoridades. No obstante, en ningún caso la fiscalización se subordinará a su realización en forma conjunta.
-
-ARTÍCULO
 
 ## art:2.2.5.9.3.2 — 3.2
 
@@ -18707,15 +17295,11 @@ CAPÍTULO 10
 
 DE LA NATURALEZA DEL PATRIMONIO GEOLÓGICO Y PALEONTOLÓGICO
 
-ARTÍCULO
-
 ## art:2.2.5.10.1 — Objeto
 
 El presente capítulo tiene como objeto establecer el sistema de gestión integral que permita la identificación, protección, conservación, rehabilitación y la transmisión a las futuras generaciones del patrimonio geológico y paleontológico de la Nación.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2 — Definiciones
 
@@ -18739,15 +17323,11 @@ Zona. de protección patrimonial Geológica y Paleontológica: Área de protecci
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.3 — Integración del Patrimonio Geológico y Paleontológico
 
 El Patrimonio Geológico y Paleontológico es parte constitutiva del patrimonio de la Nación, y lo integran los fósiles y los yacimientos fosilíferos, los meteoritos, y todas aquellas rocas, formaciones y estructuras geológicas, formas de relieve y cualquier manifestación geológica que, de acuerdo con la metodología de valoración del Servicio Geológico Colombiano se le asigne un valor científico, educativo, y/o cultural suficiente porque permiten conocer, estudiar e interpretar: el origen y evolución de la Tierra, los procesos que la han modelado, los climas y paisajes del pasado y presente.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.4 — Valoración de posibles bienes de interés geológico y paleontológico
 
@@ -18756,8 +17336,6 @@ Método que orienta y contribuye a la atribución y definición de la significac
 El Servicio Geológico Colombiano establecerá la metodología a seguir para la declaratoria de los bienes de interés geológico y paleontológico, como geotopos y geositios.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.5 — Participación de las entidades en la protección del Patrimonio Geológico y Paleontológico
 
@@ -18770,8 +17348,6 @@ PARÁGRAFO .: Para la participación de las autoridades territoriales en la prot
 PARÁGRAFO .: Cuando dicho patrimonio se encuentre al interior de las áreas protegidas del Sistema Nacional de Áreas Protegidas (SINAP}, el Servicio Geológico Colombiano deberá generar recomendaciones en torno a la protección del Patrimonio Geológico y Paleontológico de la Nación a la autoridad ambiental administradora del área protegida, quien a su vez, las deberá incorporar en el plan de manejo ambiental de dicha área, en caso que a ello hay lugar, y siempre y cuando las mismas no riñan con el régimen de usos del área protegida.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.6 — Zona de Protección Patrimonial Geológica y Paleontológica
 
@@ -18787,8 +17363,6 @@ SECCIÓN 1
 
 DE LA GESTIÓN INTEGRAL DEL PATRIMONIO GEOLÓGICO Y PALEONTOLÓGICO.
 
-ARTÍCULO
-
 ## art:2.2.5.10.1.1 — Registro en el Inventario Nacional Geológico y Paleontológico
 
 El Servicio Geológico Colombiano realizará las gestiones necesarias para la conformación, manejo y actualización permanente del Inventario Nacional Geológico y Paleontológico, el cual se podrá realizar con la colaboración de las universidades e instituciones científicas. El Servicio Geológico Colombiano establecerá mediante resolución el trámite a seguir para el registro en el Inventario Nacional Geológico y Paleontológico - INGEP de los bienes de interés geológico y paleontológico en poder de particulares.
@@ -18796,8 +17370,6 @@ El Servicio Geológico Colombiano realizará las gestiones necesarias para la co
 PARÁGRAFO . Una vez el Servicio Geológico Colombiano implemente el registro de que trata el presente artículo, los interesados deberán solicitar el registro de los bienes de interés geológico y paleontológico en un término máximo de 5 años, contados a partir de la entrada en vigencia del presente capítulo.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.1.2 — Declaratoria de Bienes muebles de Interés Geológico y Paleontológico
 
@@ -18808,8 +17380,6 @@ Para determinar que un bien es de interés geológico y paleontológico se tendr
 PARÁGRAFO . El concepto de pertenencia de un bien o conjunto de bienes determinados al patrimonio geológico y paleontológico no tiene carácter declarativo, sino de reconocimiento en materia técnica y científica para determinados efectos previstos en las normas vigentes.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.1.3 — Declaratoria de Zonas de Protección Patrimonial Geológica y Paleontológica
 
@@ -18829,8 +17399,6 @@ PARÁGRAFO . 4: El patrimonio geológico y paleontológico que se localice al in
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.1.4 — Tenencia temporal de bienes de interés geológico y paleontológico
 
 Las personas naturales o jurídicas, que deseen ser tenedores de bienes de interés geológico y paleontológico, deberán registrarlos en el Inventario Nacional Geológico y Paleontológico del Servicio Geológico Colombiano y solicitar a esta entidad la autorización para la tenencia temporal de los mismos, que podrá ser otorgada hasta por diez (10) años prorrogables por un plazo de igual duración, con la obligación de reportar cada dos años al Servicio Geológico Colombiano las condiciones de conservación en los términos que esta entidad establezca.
@@ -18842,8 +17410,6 @@ La tenencia de los bienes de interés geológico y paleontológico que no se enc
 PARÁGRAFO . Las universidades colombianas debidamente acreditadas por el Ministerio de Educación Nacional que cuenten con el programa aprobado de geología, ingeniería geológica, geociencias o biología, así como los centros de investigación geológica y paleontológica acreditados por Colciencias, podrán ejercer la tenencia indefinida de bienes de interés geológico y paleontológico, tener colecciones de dichos bienes, bajo su responsabilidad, obligándose a su conservación en condiciones óptimas y disponibles para el estudio por la comunidad científica; previo registro en el Inventario Nacional Geológico y Paleontológico.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.1.5 — Exportación temporal de bienes de interés geológico y paleontológico para estudio y/o exhibición fuera del país
 
@@ -18857,15 +17423,11 @@ Para la obtención de la autorización de exportación se deberá suscribir un c
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.1.6 — Control y seguimiento a la exportación temporal de bienes de interés geológico y paleontológico
 
 El Servicio Geológico Colombiano ejercerá el control y seguimiento a los bienes de interés geológico y paleontológico que hayan sido exportados temporalmente en los términos del artículo anterior. Para ello, quienes hayan obtenido autorización de exportación temporal de bienes de interés geológico y paleontológico deberán informar al Servicio Geológico Colombiano el cumplimiento de las obligaciones establecidas en los términos, mecanismos y condiciones establecidas en el respectivo contrato.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.1.7 — Convenios
 
@@ -18875,8 +17437,6 @@ Las autoridades ambientales nacionales o regionales podrán participar en la fir
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.1.8 — Encuentro fortuito de posibles bienes de interés geológico y paleontológico
 
 Quien de manera fortuita encuentre posibles bienes de interés geológico o paleontológico, deberá dar aviso inmediato a las autoridades locales y al Servicio Geológico Colombiano o la entidad que este autorice en un plazo máximo de 24 horas siguientes al hallazgo.
@@ -18884,8 +17444,6 @@ Quien de manera fortuita encuentre posibles bienes de interés geológico o pale
 Recibida la información por el Servicio Geológico Colombiano se iniciarán los estudios técnicos y determinaciones de las medidas aplicables al posible bien de interés geológico y paleontológico, de acuerdo con lo dispuesto en este capítulo, para determinar si corresponde o no a un bien integrante del patrimonio geológico y paleontológico, de conformidad con las valoraciones y la metodología que establezca dicha entidad y, en cumplimiento a lo dispuesto en el artículo 2.2.5.10.1.2. del presente decreto.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.1.9 — Protección de los posibles bienes de interés geológico y paleontológico y zonas de protección geológica y paleontológica
 
@@ -18901,8 +17459,6 @@ Para los efectos de este artículo, los trámites y determinaciones de las medid
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.1.10 — Autorización para realizar obras en zonas de protección geológica y paleontológica
 
 En desarrollo del literal (d) del artículo 5 de la Ley 45 de 1983, las personas naturales o jurídicas, que deseen realizar obras en las zonas de protección patrimonial geológica y paleontológica deberán solicitar la autorización correspondiente ante el Servicio Geológico Colombiano, de conformidad con las condiciones y términos que establezca dicha entidad.
@@ -18910,8 +17466,6 @@ En desarrollo del literal (d) del artículo 5 de la Ley 45 de 1983, las personas
 Cuando dichas obras se pretendan realizar al interior del Sistema Nacional de Parques Nacionales Naturales por personas naturales o jurídicas, se deberá tramitar y obtener previamente la correspondiente licencia ambiental con el fin de solicitar y contar con la autorización por parte del Servicio Geológico Colombiano.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.1.11 — Movilización y/o exhibición de bienes de interés geológico y paleontológico dentro del territorio nacional
 
@@ -18923,8 +17477,6 @@ Las universidades colombianas debidamente acreditadas por el Ministerio de Educa
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.1.12 — Prohibición de comercializar los bienes de interés paleontológico
 
 Los bienes del patrimonio arqueológico y otros bienes culturales que conforman la identidad nacional, pertenecen a la Nación y son inalienables, inembargables e imprescriptibles. Por tal motivo los bienes de interés paleontológico registrados o no en el Inventario Nacional Geológico y Paleontológico bajo la guarda del titular de una autorización de las que trata este decreto, y aquellos que sean custodiados por terceros en calidad de tenedores o poseedores, no podrán ser comercializados.
@@ -18934,8 +17486,6 @@ Los bienes del patrimonio arqueológico y otros bienes culturales que conforman 
 SECCIÓN 2
 
 DE LAS ACTIVIDADES CIENTÍFICAS DE CARÁCTER PALEONTOLÓGICO
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.1 — Actividades de excavación e intervención de carácter paleontológico
 
@@ -18951,15 +17501,11 @@ PARÁGRAFO . En los casos donde estas excavaciones e intervención de carácter 
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.2.2 — Finalidad de las actividades de excavación e intervención de carácter paleontológico
 
 Las actividades de excavación e intervención de carácter paleontológico sobre posibles bienes y bienes de interés paleontológico de la Nación tendrán como finalidad exclusiva la investigación científica, la preservación, la docencia y la exhibición.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.3 — Custodia de Tipos
 
@@ -18968,8 +17514,6 @@ Todos los ejemplares que sean clasificados como "Tipos" hallados en el territori
 El Servicio Geológico Colombiano a solicitud del interesado podrá autorizar su tenencia en un lugar diferente al Museo Geológico del Servicio Geológico Colombiano, cuando previa verificación determine que se garantiza en todo momento su conservación y acceso para estudio por la comunidad científica.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.4 — Otorgamiento de autorizaciones para el desarrollo de actividades de excavación e intervención de carácter paleontológico
 
@@ -18993,15 +17537,11 @@ PARÁGRAFO .: Cuando se trate del otorgamiento de autorización para el desarrol
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.2.5 — Investigadores extranjeros
 
 Los investigadores científicos extranjeros que pretendan adelantar actividades de excavación e intervención de carácter paleontológico con fines exclusivos de investigación científica, deberán estar vinculados a una institución nacional o extranjera de investigación debidamente acreditada o a una institución extranjera que tenga un acuerdo de cooperación vigente con el Servicio Geológico Colombiano o con una institución nacional de investigación que cuente con dicha autorización.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.6 — 2.6
 
@@ -19009,23 +17549,17 @@ Obligaciones del titular de la autorización para el desarrollo de actividades d
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.2.7 — Vigencia de las autorizaciones para el desarrollo de actividades de excavación e intervención de carácter paleontológico
 
 Las autorizaciones para el desarrollo de actividades de excavación e intervención de carácter paleontológico, según las labores o actividades a desarrollar, podrán otorgarse por un término de hasta cinco (5) años prorrogables dependiendo de la naturaleza del yacimiento, de conformidad con la solicitud y necesidad del peticionario.
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.2.8 — Cesión de la autorización para el desarrollo de actividades de excavación e intervención de carácter paleontológico
 
 La autorización para el desarrollo de actividades de excavación e intervención de carácter paleontológico podrá cederse, previa autorización expresa del Servicio Geológico Colombiano.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.9 — 2.9
 
@@ -19035,15 +17569,11 @@ Así mismo, el titular de la autorización podrá solicitar ajustes al Servicio 
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.2.10 — Suspensión o terminación de la autorización para el desarrollo de excavación e intervención de carácter paleontológico
 
 El Servicio Geológico Colombiano podrá, mediante resolución motivada en conceptos técnico, científico y/o jurídico, suspender o terminar la autorización para el desarrollo de actividades de excavación e intervención de carácter paleontológico, cuando las condiciones y exigencias establecidas en el mismo no se estén cumpliendo a cabalidad, para lo cual se surtirán los procedimientos requeridos para garantizar el debido proceso y el derecho de defensa, de conformidad con el procedimiento administrativo sancionatorio definido en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo, o aquella disposición que lo sustituya o modifique.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.11 — Consulta previa
 
@@ -19053,15 +17583,11 @@ El cumplimiento de dicho requisito es obligatorio, previo al inicio de la ejecuc
 
 (Decreto 1353 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.10.2.12 — .12
 
 Control y seguimiento de las autorizaciones para el desarrollo de actividades de excavación e intervención de carácter paleontológico. El Servicio Geológico Colombiano ejercerá el control y seguimiento a las autorizaciones para el desarrollo de actividades de excavación e intervención de carácter paleontológico otorgados. Para ello, quienes hayan obtenido la autorización para el desarrollo de actividades de excavación e intervención de carácter paleontológico deberán informar en forma permanente al Servicio Geológico Colombiano el cumplimiento de las condiciones establecidas en la respectiva autorización para efectos de su control y seguimiento.
 
 (Decreto 1353 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.10.2.13 — Trámite en línea
 
@@ -19749,8 +18275,6 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.6.1.1 — Objeto
 
 Establecer los parámetros y lineamientos para el otorgamiento del incentivo al incremento de las inversiones en exploración y explotación de hidrocarburos y minerales a través de Certificados de Reembolso Tributario (CERT) de que trata el Artículo 365 de la Ley 1819 de 2016.
@@ -19761,23 +18285,17 @@ En el sector de minería, las inversiones que podrán acceder al incentivo son l
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.2 — Ámbito de aplicación
 
 El presente decreto aplica a las empresas que en su condición de Operador sean titulares de Contratos de Asociación suscritos por ECOPETROL; Contratos de Exploración y Producción de Hidrocarburos, E&P; Convenios de Exploración y/o Explotación de Hidrocarburos vigentes, o cualquier otra modalidad de contrato para la exploración y producción de hidrocarburos suscrito por el Estado y a los titulares mineros que incrementen sus inversiones en las actividades mencionadas en el Artículo 365 de la Ley 1819 de 2016, siempre que cumplan con los requisitos establecidos en la ley y el reglamento.
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.1.3 — Características generales del Certificado de Reembolso Tributario (CERT)
 
 El Certificado de Reembolso Tributario o CERT, que será otorgado a aquellos contribuyentes que incrementen las inversiones de acuerdo con lo estipulado en el presente Decreto, corresponderá a un monto derivado de un porcentaje sobre valor del incremento de las inversiones, será un ingreso no constitutivo de renta ni ganancia ocasional para quien lo percibe o adquiere, podrá ser utilizado para el pago de impuestos de carácter nacional administrados por la DIAN, será libremente negociable en el mercado de valores secundario, divisible y su redención sólo podrá realizarse desde el año dos hasta el año cinco, contados a partir de la fecha en que fue otorgado.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.1.4 — Definición del Cupo y acto administrativo de apertura
 
@@ -19797,8 +18315,6 @@ CAPÍTULO 2
 
 DISPOSICIONES ESPECIALES
 
-ARTÍCULO
-
 ## art:2.2.6.2.1 — Limitación para el otorgamiento del CERT
 
 No serán sujetos del incentivo CERT los siguientes montos de inversión:
@@ -19811,8 +18327,6 @@ No serán sujetos del incentivo CERT los siguientes montos de inversión:
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.2 — Inversiones en el sector hidrocarburos
 
 Para efectos del beneficio del CERT, se entenderán por inversiones incrementales en el sector de hidrocarburos la disposición de recursos financieros para el desarrollo de las siguientes actividades: (i) Perforación de pozos; (ii) Adquisición, procesamiento e interpretación sísmica; (iii) Compra o alquiler de equipos para la inyección de fluidos líquidos o gaseosos para los Proyectos de Aumento del Factor de Recobro e insumos exclusivamente para proyectos EOR (Inyección continua de vapor, CEOR "ChemicalEnhanced Oíl Recovery", o Combustión In Situ), que serán valorados mediante el acto administrativo que reglamenta la presentación de información para aplicar al incentivo; (iv) Compra e instalación de equipos para el tratamiento de fluidos; (v) Infraestructura para el almacenamiento y transporte de la producción incremental.
@@ -19820,8 +18334,6 @@ Para efectos del beneficio del CERT, se entenderán por inversiones incrementale
 Lo anterior, ya sea que se realice directamente por el Operador o a través de este, por sus asociados en los casos de Uniones Temporales o Consorcios, con el fin de obtener nuevas reservas de hidrocarburos, la adición de reservas probadas o la incorporación de nuevas reservas recuperables, mediante actividades de exploración, o mediante actividades dirigidas al aumento del factor de recobro en proyectos de cuencas en tierra firme, incluidas en este último caso las respectivas pruebas piloto.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.3 — 2.3
 
@@ -19863,8 +18375,6 @@ PARÁGRAFO TRANSITORIO. Para la vigencia 2018, la solicitud de que trata el pres
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.4 — Criterios para revisión de las variables a cumplir en la distribución inicial del CERT disponible
 
 Para efectos del otorgamiento del CERT a las inversiones del sector de hidrocarburos, los interesados deberán tener en cuenta los siguientes criterios y parámetros en la presentación de las solicitudes:
@@ -19893,8 +18403,6 @@ Podrán optar por el incentivo aquellas empresas titulares de Contratos en los t
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.5 — Distribución inicial del CERT para proyectos de más de un año continuo de inversión
 
 Con el fin de participar en la distribución inicial anual del incentivo CERT, se podrán presentar proyectos de inversiones incrementales con ejecución de inversiones de hasta cuatro años, sin perjuicio que el Gobierno Nacional implemente de nuevo el incentivo en los términos del artículo 365 de Ley 1819 de 2016.
@@ -19902,8 +18410,6 @@ Con el fin de participar en la distribución inicial anual del incentivo CERT, s
 Para efectos de la distribución anual del beneficio CERT entre todos los contratos que se presenten anualmente, el cupo anual establecido deberá afectarse con los montos del beneficio CERT distribuidos en años anteriores a los proyectos de más de un año de ejecución de inversiones, de modo tal que la disponibilidad para la distribución que se haga en cada año subsiguiente del cupo del CERT corresponderá a la resta entre el cupo anual del CERT determinado y los montos comprometidos en años anteriores para proyectos de más de un año.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.6 — 2.6
 
@@ -19991,8 +18497,6 @@ Una vez se puntúen los contratos en fase de exploración o campos comerciales p
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.7 — Ajuste del porcentaje base del CERT
 
 La ANH, ajustará el porcentaje base del CERT de los contratos cada año, a partir del cual se distribuirán inicialmente los montos disponibles del CERT a los contratos en fase de exploración de hidrocarburos o campos comerciales elegibles que, para el año de ejecución, previamente han sido beneficiados en la distribución inicial en procesos desarrollados en años anteriores.
@@ -20013,8 +18517,6 @@ PARÁGRAFO . Para efectos de lo anterior, se utilizará el Precio Promedio del B
 
 (Decreto 2253 de 2017, art. 1; Inciso cuarto modificado por el Decreto 1262 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.8 — Ajuste del monto del CERT
 
 En caso de que el precio BRENT de referencia varíe respecto al usado en el año en que se recibió la distribución inicial, para proyectos de más de un año, el monto del CERT para cada año siguiente corresponderá a aquel que resulte del recalculo del Factor Multiplicador FMt. según lo dispuesto en el artículo 2.2.6.2.7. del presente decreto.
@@ -20030,8 +18532,6 @@ PBACERT,jt: Porcentaje base del CERT en el año de inversión t de acuerdo con l
 jt: Monto de las inversiones incrementales realizadas en el año de inversión t en los contratos de exploración o campos comerciales.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.9 — Distribución inicial del CERT
 
@@ -20070,8 +18570,6 @@ Al último contrato de hidrocarburos en fase de exploración o campo comercial s
 Este trámite será llevado a cabo por parte de la ANH y los resultados serán informados a los interesados a través de acto administrativo a más tardar en los primeros cinco (5) días hábiles del mes de diciembre del año anterior al que se realizan las inversiones.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.10 — Distribución final del CERT
 
@@ -20113,8 +18611,6 @@ f. En ningún caso se otorgará un CERT por encima del que resulte de aplicar a 
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.11 — Seguimiento de ejecución de los proyectos y certificación de las inversiones para que se otorgue el beneficio del CERT
 
 En desarrollo de la delegación de la función de fiscalización de las actividades de exploración y explotación de hidrocarburos, en los términos señalados en el inciso 5 del Artículo 2 del Acto Legislativo 05 de 2011 y la Ley 1530 de 2012 (Artículos 7 Núm. 3 y 101) y demás disposiciones aplicables, al año siguiente de la distribución inicial del incentivo CERT, la ANH dará inicio a la verificación del cumplimiento de la ejecución de actividades de los proyectos seleccionados y certificará el monto del CERT a ser otorgado de acuerdo con lo siguiente:
@@ -20143,8 +18639,6 @@ A más tardar el 30 de abril del año siguiente al que se realizan las inversion
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.12 — Inversiones en el sector minero
 
 Las inversiones que podrán dar derecho a la obtención del CERT serán aquellas inversiones adicionales a las establecidas por el titular minero en los diferentes documentos técnicos de proyección de las labores de exploración, construcción y montaje y explotación aprobados por la ANM para cada una de las etapas contractuales y de acuerdo con el régimen aplicable.
@@ -20159,8 +18653,6 @@ Los beneficiarios de títulos mineros inscritos en el Registro Minero Nacional p
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.13 — Requisitos para solicitar y acceder al incentivo en etapa de exploración
 
 Para ser beneficiario de la aplicación del incentivo del CERT en la etapa de exploración, el titular minero deberá cumplir con los siguientes requisitos:
@@ -20174,8 +18666,6 @@ Para ser beneficiario de la aplicación del incentivo del CERT en la etapa de ex
 4. El titular minero deberá estar al día con las obligaciones derivadas del título minero al momento de radicar su solicitud ante la ANM.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.14 — Requisitos para solicitar y acceder al incentivo en etapa de construcción y montaje
 
@@ -20192,8 +18682,6 @@ Para ser beneficiario del CERT en la etapa de construcción y montaje, el titula
 5. El titular minero deberá estar al día con las obligaciones derivadas del título minero al momento de radicar su solicitud ante la ANM.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.15 — Requisitos para solicitar y acceder al incentivo en etapa de explotación
 
@@ -20213,15 +18701,11 @@ Para ser beneficiario del CERT en la etapa de explotación, el titular minero de
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.16 — Priorización de solicitudes para acceder al incentivo
 
 En caso de que los recursos disponibles para el CERT resulten insuficientes para cubrir a la totalidad de los solicitantes que cumplan con los requisitos señalados en los artículos anteriores, la ANM priorizará la suscripción de los acuerdos de inversión teniendo como criterio los solicitantes que tengan un mayor incremento porcentual en las inversiones adicionales con respecto a las proyectadas inicialmente en el documento técnico correspondiente. Igualmente se priorizarán aquellas solicitudes que presenten los titulares que se encuentren en las etapas de exploración y construcción y montaje que permitan iniciar de forma anticipada la explotación del yacimiento minero.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.17 — Trámite para la evaluación y suscripción del acuerdo de inversión
 
@@ -20238,8 +18722,6 @@ En caso de ser aprobada la solicitud de acuerdo de inversión, en la comunicaci�
 PARÁGRAFO TRANSITORIO. Para la vigencia 2018, la solicitud de que trata el presente artículo podrá ser presentada dentro del mes siguiente a la publicación de la reglamentación que expida la ANM al presente Decreto. Los términos para su evaluación serán los contenidos en el presente artículo y en la reglamentación que para el efecto expida la ANM.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.2.18 — Verificación y fiscalización de inversiones
 
@@ -20279,8 +18761,6 @@ PARÁGRAFO . Los valores del CERT que no sean distribuidos por inversiones que n
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.2.19 — Niveles porcentuales del CERT
 
 El valor del CERT no podrá superar el 20% de la inversión adicional efectivamente realizada y se establecerá de manera anual por parte de la ANM conforme al cupo del CERT disponible aprobado y con el impacto de las inversiones en el recaudo de impuestos y de regalías. Para lo anterior se podrá tener como referencia el listado de minerales de interés estratégico señalados por el Ministerio de Minas y Energía.
@@ -20291,15 +18771,11 @@ CAPÍTULO 3
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.6.3.1 — Informe de beneficiarios del CERT
 
 La ANH y la ANM anualmente enviarán al Ministerio de Minas y Energía y al Ministerio de Hacienda y Crédito Público un informe con los beneficiarios del CERT, el monto de inversiones efectivamente realizadas y el porcentaje y monto de CERT a otorgar. En todo caso, el Ministerio de Minas y Energía y el Ministerio de Hacienda y Crédito Público en cualquier momento, podrán solicitarle a la ANH y a la ANM información relacionada con las inversiones que dieron lugar al otorgamiento del CERT.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.3.2 — Expedición del CERT
 
@@ -20307,15 +18783,11 @@ El Ministerio de Hacienda y Crédito Público ordenará la expedición del CERT 
 
 (Decreto 2253 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.6.3.3 — Riesgo en variaciones de TRM
 
 El incentivo CERT se otorgará en pesos colombianos a inversiones efectivamente realizadas y se certifican en pesos colombianos. Las inversiones inicialmente realizadas en dólares de los Estados Unidos de América y presentadas por los operadores o titulares mineros en pesos colombianos para efectos del otorgamiento del incentivo CERT, utilizarán para la conversión de la moneda la tasa representativa del mercado vigente al momento de la realización de la inversión.
 
 (Decreto 2253 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.6.3.4 — Ingreso no constitutivo de renta ni ganancia ocasional
 
@@ -20331,13 +18803,9 @@ CAPÍTULO 4
 
 OBRAS POR REGALÍAS PARA EL DESARROLLO DE LAS ENTIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.2.6.4.1 — Entidad interlocutora
 
 El Ministerio de Minas y Energía, en el marco de sus funciones, será interlocutor con los demás Órganos del Sistema General de Regalías para la ejecución de los proyectos de obras por regalías.
-
-ARTÍCULO
 
 ## art:2.2.6.4.2 — Comunicación
 
@@ -20359,8 +18827,6 @@ De la misma manera deberá remitir los siguientes documentos:
 
 3. Copia del acuerdo de la sesión del Órgano Colegiado de Administración y Decisión (OCAD) en la que conste la aprobación del respectivo proyecto.
 
-ARTÍCULO
-
 ## art:2.2.6.4.3 — Finalización y entrega del proyecto
 
 Cumplidos los términos para la ejecución del proyecto la(s) persona(s) jurídica(s) realizará(n) la entrega formal y material del mismo en disposición para su uso y funcionamiento a la entidad territorial beneficiaria, adjuntando el informe final de la interventoría en el que esta certifica el recibo a satisfacción.
@@ -20371,21 +18837,15 @@ PARÁGRAFO . El informe final satisfactorio de interventoría será suficiente p
 
 En aquellos casos excepcionales en que la entidad territorial presente inconformidades con la evaluación expedida por la interventoría, la entidad territorial y la(s) persona(s) jurídica(s) acudirán a mecanismos alternativos de resolución de conflictos para dirimir la controversia. costo de este mecanismo será asumido por la(s) persona(s) jurídica(s).
 
-ARTÍCULO
-
 ## art:2.2.6.4.4 — Finalización y entrega anticipada del proyecto
 
 En los casos en que se finalice la ejecución del proyecto con antelación al plazo previsto y se cumplan las actividades de terminación y entrega de este, la(s) persona(s) jurídica(s) podrá(n) solicitar ante la Agencia Nacional de Hidrocarburos o la Agencia Nacional de Minería, según corresponda, el respectivo descuento del pago de las regalías a su cargo en el período inmediatamente siguiente a la emisión de la certificación de la entidad territorial beneficiaria.
-
-ARTÍCULO
 
 ## art:2.2.6.4.5 — Acreditación del pago
 
 La(s) persona(s) jurídica(s) que exploten los recursos naturales no renovables y que opten por la modalidad de obras por regalías, solo podrán solicitar la acreditación del pago de las regalías, una vez remitan la certificación de completa ejecución y recibo del proyecto de inversión emitida por la entidad territorial beneficiaria, previa certificación de recibo a satisfacción de la interventoría.
 
 El valor para reconocerse como pago por concepto de regalías por parte de la(s) persona(s) jurídica(s) corresponderá al aprobado por el Órgano Colegiado de Administración y Decisión (OCAD), incluidos los ajustes realizados y aprobados durante la ejecución del proyecto, el cual deberá estar conforme con lo reportado en la certificación de completa ejecución y recibo emitida por la entidad territorial teniendo en cuenta lo dispuesto en el Artículo 2.2.4.1.1.14.5. del Decreto 1082 de 2015.
-
-ARTÍCULO
 
 ## art:2.2.6.4.6 — Solicitud de pago
 
@@ -20406,8 +18866,6 @@ PARÁGRAFO . En caso de que la(s) persona(s) jurídica(s) no tenga más obligaci
 PARÁGRAFO . La Agencia Nacional de Minería o la Agencia Nacional de Hidrocarburos, según corresponda, verificará el cumplimiento de los requisitos mencionados y procederá a realizar el trámite definido por cada una de ellas para reconocer la obra ejecutada como pago por regalías.
 
 PARÁGRAFO . El pago efectuado a título de regalías será deducible, siempre y cuando se cumplan los requisitos previstos en el artículo 107 del Estatuto Tributario.
-
-ARTÍCULO
 
 ## art:2.2.6.4.7 — Entrega del certificado de pago a la(s) persona(s) jurídica(s)
 
@@ -21241,8 +19699,6 @@ DISPOSICIONES FINALES
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al Sector de Minas y Energía que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -21261,8 +19717,6 @@ Administrativa, las cuales serán compiladas en este decreto, en caso de recuper
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -21274,91 +19728,3 @@ Dado en Bogotá D.C., a los 26 días del mes de mayo del año 2015.
 TOMAS GONZALEZ ESTRADA.
 
 MINISTRO DE MINAS Y ENERGÍA
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

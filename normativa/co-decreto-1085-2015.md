@@ -7,7 +7,7 @@ ramas: [deporte, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77714
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — 1.1
@@ -30,15 +30,11 @@ TÍTULO 1
 
 DE LAS ORGANIZACIONES JUVENILES Y RECREATIVAS
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Asociaciones Juveniles o Recreativas
 
 Para los efectos del presente decreto, denomínanse Asociaciones Juveniles o Recreativas, fas organizaciones colombianas, oficiales o privadas, reconocidas por COLDEPORTES, sin ánimo de lucro, cuyas finalidades sean la promoción integral de la juventud a través de actividades de bienestar y sana recreación, tales como programas de formación personal.
 
 (Decreto 1387 de 1970, art. 2)
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Reconocimiento
 
@@ -60,8 +56,6 @@ Para que el Departamento Administrativo del Deporte, la Recreación, la Activida
 
 (Decreto 1387 de 1970, art. 3)
 
-ARTÍCULO
-
 ## art:2.1.1.3 — Filiales
 
 Las Asociaciones Nacionales, Recreativas y Juveniles, deberán tener filiales por lo menos en tres ciudades de diferentes Departamentos. Para los efectos de este artículo, el Distrito Capital de Bogotá se asimilará a uno de estos entes territoriales.
@@ -74,15 +68,11 @@ REGLAMENTACION DE LA ACTIVIDAD DE LOS DEPORTISTAS
 
 AFICIONADOS Y EL FUNCIONAMIENTO DE SUS CLUBES DEPORTIVOS
 
-ARTÍCULO
-
 ## art:2.2.1 — Transferencias y cambios de club
 
 Previa autorización de transferencia, expedida por el club en el cual tenga vigente su registro, los deportistas competidores podrán cambiar de uno a otro club. Para obtener la autorización aquí prevista deberán presentar paz y salvo por todo concepto para con el club y presentar renuncia por escrito ante el órgano de Administración del mismo.
 
 (Decreto 886 de 1976, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.2 — Autorización de la transferencia
 
@@ -90,15 +80,11 @@ Los Órganos de Administración podrán abstenerse de autorizar la transferencia
 
 (Decreto 886 de 1976, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.3 — Deportistas menores de 18 años
 
 Las solicitudes de admisión y autorización de transferencia de los deportistas menores de 18 años, deberán estar autorizadas por la firma de su representante legal.
 
 (Decreto 886 de 1976, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.4 — Pago de cuotas
 
@@ -119,8 +105,6 @@ NORMAS SOBRE ORGANIZACIÓN DEPORTIVA
 TÍTULO 1
 
 DE LOS ESTATUTOS.
-
-ARTÍCULO
 
 ## art:2.3.1.1 — Estatutos
 
@@ -156,8 +140,6 @@ TITULO 2
 
 DE LA ASAMBLEA DE LOS ORGANISMOS DEPORTIVOS
 
-ARTÍCULO
-
 ## art:2.3.2.1 — Asamblea
 
 Corresponde a la asamblea la dirección de los organismos deportivos y la constituye la totalidad de los afiliados que se encuentren en ejercicio de sus derechos.
@@ -166,23 +148,17 @@ Sus decisiones se tomarán por acuerdos que serán obligatorios para todos los a
 
 (Decreto 380 de 1985, art. 11)
 
-ARTÍCULO
-
 ## art:2.3.2.2 — Reuniones
 
 Las reuniones de la asamblea serán ordinarias y extraordinarias. Las reuniones ordinarias se realizarán en la fecha determinada en los estatutos, las extraordinarias en cualquier tiempo, para tratar asuntos específicos.
 
 (Decreto 380 de 1985, art. 12)
 
-ARTÍCULO
-
 ## art:2.3.2.3 — Reuniones ordinarias y extraordinarias
 
 Las reuniones ordinarias serán convocadas por resolución de quien preside el órgano de administración. Las extraordinarias, lo serán por el órgano de administración, por revisor fiscal o por petición de cuando menos la tercera parte de los afiliados. El Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES, o los Entes Deportivos Departamentales o del Distrito Capital, podrán convocar a la asamblea en los casos previstos en este Decreto.
 
 (Decreto 380 de 1985, art. 13)
-
-ARTÍCULO
 
 ## art:2.3.2.4 — Convocatoria
 
@@ -194,15 +170,11 @@ PARÁGRAFO 2. A la asamblea de ligas, se citará a los Entes Deportivos Departam
 
 (Decreto 380 de 1985, art. 14)
 
-ARTÍCULO
-
 ## art:2.3.2.5 — Reuniones por derecho propio
 
 Si quien preside el órgano de administración, sin justa causa no convoca la asamblea, o lo hace por fuera de los términos establecidos, los afiliados se reunirán por derecho propio en la época establecida en los estatutos y en el domicilio del organismo.
 
 (Decreto 380 de 1985, art. 15)
-
-ARTÍCULO
 
 ## art:2.3.2.6 — Derecho de los afiliados
 
@@ -212,15 +184,11 @@ PARÁGRAFO . Cuando se trate de asamblea de federaciones y ligas, sus afiliados 
 
 (Decreto 380 de 1985, art. 16)
 
-ARTÍCULO
-
 ## art:2.3.2.7 — Quórum
 
 La asamblea podrá sesionar cuando estén presentes, por lo menos, la mitad más uno de los afiliados en uso de sus derechos y sus decisiones se acordarán por la mitad más uno de los votos de los afiliados presentes, salvo cuando se trate de adopción de estatutos y reglamentos o sus reformas, fijación o cambio de domicilio, adopción o cambio de estructura administrativa, actos que requerirán el voto favorable de dos terceras partes de los afiliados.
 
 (Decreto 380 de 1985, art. 17)
-
-ARTÍCULO
 
 ## art:2.3.2.8 — Aplazamiento
 
@@ -229,8 +197,6 @@ Si a la hora fijada en la convocatoria de asamblea no se encuentra presente el n
 PARÁGRAFO . De lo ocurrido en la reunión de una asamblea debe dejarse constancia en el acta, la que se registrará en el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES, o en el Ente Deportivo Departamental o del Distrito Capital, respectivo.
 
 (Decreto 380 de 1985, art. 18)
-
-ARTÍCULO
 
 ## art:2.3.2.9 — Funciones de la asamblea
 
@@ -258,8 +224,6 @@ Son funciones de la asamblea de los organismos deportivos:
 
 (Decreto 380 de 1985, art. 19)
 
-ARTÍCULO
-
 ## art:2.3.2.10 — Presidente de la Asamblea
 
 El presidente de la asamblea será el del organismo deportivo que la realiza, quien será responsable del cumplimiento de las normas legales, estatutarias y reglamentarias. Los representantes del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES, de los Entes Deportivos Departamentales o del Distrito Capital, y de los organismos deportivos de superior jerarquía, tendrán derecho a voz y su ausencia no impedirá la realización de la asamblea, ni afectará la validez de sus actos.
@@ -270,15 +234,11 @@ TÍTULO 3
 
 DEL ORGANO DE ADMINISTRACION
 
-ARTÍCULO
-
 ## art:2.3.3.1 — Votación
 
 Los miembros de los Órganos de Administración serán elegidos por la asamblea por votación uninominal, quienes elegirán sus dignatarios, uno de los cuales tendrá la calidad de presidente y representante legal.
 
 (Decreto 380 de 1985, art. 21)
-
-ARTÍCULO
 
 ## art:2.3.3.2 — Renuncia y reemplazo
 
@@ -287,8 +247,6 @@ Cuando un miembro del Órgano de Administración renuncie, o sin justa causa, de
 PARÁGRAFO . Cuando por renuncias o inasistencias los Órganos de Administración queden con menos de tres (3) miembros, el revisor fiscal o en su defecto el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES o los Entes Deportivos Departamentales o del Distrito Capital, convocarán la asamblea para que elija los reemplazos.
 
 (Decreto 380 de 1985, art. 22)
-
-ARTÍCULO
 
 ## art:2.3.3.3 — Decisiones
 
@@ -299,8 +257,6 @@ Las decisiones del órgano de administración se tomarán mediante resolución y
 TÍTULO 4
 
 DEL PATRIMONIO
-
-ARTÍCULO
 
 ## art:2.3.4.1 — Patrimonio
 
@@ -320,15 +276,11 @@ El patrimonio de los organismos deportivos estará constituido, entre otros por 
 
 (Decreto 380 de 1985, art. 29)
 
-ARTÍCULO
-
 ## art:2.3.4.2 — Independencia de los bienes y fondos de los organismos deportivos
 
 Los bienes y fondos de los organismos deportivos son independientes de los de cada uno de los miembros y afiliados. En consecuencia, sus obligaciones no dan derecho al acreedor a reclamarlas a ninguno de ellos en particular, a menos que haya consentido expresamente en responder, en todo o en parte de tales obligaciones.
 
 (Decreto 380 de 1985, art. 30)
-
-ARTÍCULO
 
 ## art:2.3.4.3 — Cuidado de los bienes y fondos
 
@@ -339,8 +291,6 @@ La conservación, mejora e incremento de los bienes y la adecuada inversión de 
 TÍTULO 5
 
 DE LA DISOLUCION Y LIQUIDACION
-
-ARTÍCULO
 
 ## art:2.3.5.1 — Disolución
 
@@ -356,15 +306,11 @@ Los organismos deportivos se disolverán:
 
 (Decreto 380 de 1985, art. 42)
 
-ARTÍCULO
-
 ## art:2.3.5.2 — Disolución por decisión de la asamblea
 
 Los organismos deportivos podrán disolverse por decisión de las dos terceras partes de sus afiliados reunidos en asamblea, en la cual obligatoriamente deberá estar presente un representante del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento de! Tiempo Libre, COLDEPORTES, o de los Entes Deportivos Departamentales o del Distrito Capital, según corresponda.
 
 (Decreto 380 de 1985, art. 43)
-
-ARTÍCULO
 
 ## art:2.3.5.3 — Liquidador
 
@@ -382,8 +328,6 @@ TÍTULO 1
 
 DE LOS PRINCIPIOS
 
-ARTÍCULO
-
 ## art:2.4.1.1 — Preservación de los derechos de los niños
 
 El Ministerio de Educación Nacional, con el apoyo del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES y los Entes Deportivos Departamentales, velará por que en los eventos deportivos para niños se den las condiciones mínimas para preservar su normal desarrollo físico, intelectual, y social, y su práctica en instalaciones adecuadas y con elementos apropiados a su edad cronológica, bajo el cuidado de padres de familia, educadores y técnicos deportivos.
@@ -391,8 +335,6 @@ El Ministerio de Educación Nacional, con el apoyo del Departamento Administrati
 PARÁGRAFO . Se consideran niños aquellos cuya edad se extienda desde el nacimiento hasta los 12 años no cumplidos.
 
 (Decreto 2225 de 1985, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.2 — Tipología de deportes para efectos de la participación de niños
 
@@ -414,8 +356,6 @@ TITULO 2
 
 DE LOS EVENTOS DEPORTIVOS PARA NIÑOS
 
-ARTÍCULO
-
 ## art:2.4.2.1 — Rangos de edades
 
 Para la organización de eventos para niños se tomarán en cuenta los siguientes rangos de edades:
@@ -427,8 +367,6 @@ Para la organización de eventos para niños se tomarán en cuenta los siguiente
 3. De 9 a 12 años no cumplidos;
 
 (Decreto 2225 de 1985, art. 3)
-
-ARTÍCULO
 
 ## art:2.4.2.2 — Eventos en que pueden participar los niños
 
@@ -445,8 +383,6 @@ Los eventos en los cuales los niños habitualmente pueden participar, de acuerdo
 PARÁGRAFO . Los eventos referidos en los numerales 1, 2 y 3, sólo podrán realizarse en los niveles intramuros y municipal y serán auspiciados o subsidiados por el Estado. En los eventos del numeral 4, el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES y los Entes Deportivos Departamentales se abstendrán de financiarlos, cuando implique desplazamiento de niños fuera del municipio de su residencia.
 
 (Decreto 2225 de 1985, art. 4)
-
-ARTÍCULO
 
 ## art:2.4.2.3 — Requisitos de los concursos infantiles
 
@@ -466,8 +402,6 @@ Los concursos infantiles son los eventos adecuados para los niños entre los O l
 
 (Decreto 2225 de 1985, art. 5)
 
-ARTÍCULO
-
 ## art:2.4.2.4 — Festivales Escolares
 
 Los Festivales Escolares son los eventos adecuados para los niños entre 6 y los 9 años no cumplidos y deberán llenar los siguientes requisitos:
@@ -483,8 +417,6 @@ Los Festivales Escolares son los eventos adecuados para los niños entre 6 y los
 5. Que la participación del niño contribuya al desarrollo de sus habilidades y cualidades motrices.
 
 (Decreto 2225 de 1985, art. 6)
-
-ARTÍCULO
 
 ## art:2.4.2.5 — Juegos Escolares
 
@@ -512,8 +444,6 @@ TÍTULO 3
 
 DE LOS CENTROS DE INICIACIÓN DEPORTIVA
 
-ARTÍCULO
-
 ## art:2.4.3.1 — Centros de Iniciación Deportiva
 
 Bajo la vigilancia e inspección del Ministerio de Educación Nacional, créanse los Centros de Iniciación Deportiva, con carácter pedagógico y técnico, encargados de la formación física, intelectual y social de los niños deportistas. Los Entes Deportivos Departamentales o del Distrito Capital, deberán ponerlas en funcionamiento o partir de la iniciación del próximo año calendario.
@@ -521,8 +451,6 @@ Bajo la vigilancia e inspección del Ministerio de Educación Nacional, créanse
 PARÁGRAFO . Los planteles educativos aprobados por el Ministerio de Educación Nacional podrán establecer bajo su dependencia Centros de Iniciación Deportiva, siempre y cuando cumplan los objetivos, procedimientos y programas establecidos en el presente Decreto y reciban previo concepto favorable del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES,
 
 (Decreto 2225 de 1985, art. 8)
-
-ARTÍCULO
 
 ## art:2.4.3.2 — Objetivos de los Centros de Iniciación Deportiva
 
@@ -536,23 +464,17 @@ Son objetivos de los Centros de Iniciación Deportiva los siguientes:
 
 (Decreto 2225 de 1985, art. 9)
 
-ARTÍCULO
-
 ## art:2.4.3.3 — Alumnos
 
 Podrán ser alumnos de los Centros de Iniciación Deportiva, los niños cuyas edades estén comprendidas entre los 9 y los 12 años no cumplidos y se encuentren matriculados en establecimientos educativos y que, además del buen rendimiento académico, posean aptitudes físicas y mentales sobresalientes y buen estado de salud, comprobados mediante examen médico general y complementados por las pruebas de desarrollo motor a las que se refiere el presente Decreto.
 
 (Decreto 2225 de 1985, art. 10)
 
-ARTÍCULO
-
 ## art:2.4.3.4 — Personal técnico
 
 El personal técnico a cargo de los programas de los centros de iniciación deportiva deberá ser integrado por pedagogos especializados en las áreas de educación física y deportiva y entrenadores debidamente capacitados en el trabajo con niños.
 
 (Decreto 2225 de 1985, art. 11)
-
-ARTÍCULO
 
 ## art:2.4.3.5 — Niveles de formación
 
@@ -570,15 +492,11 @@ TITULO 4
 
 DE LAS PRUEBAS DE DESARROLLO MOTOR
 
-ARTÍCULO
-
 ## art:2.4.4.1 — Pruebas de desarrollo motor
 
 Se aplicarán con carácter experimental y voluntario las pruebas de desarrollo motor que permitan medir las habilidades básicas y cualidades físicas predeportivas de los niños alumnos de los Centros de Iniciación Deportiva y serán aplicadas exclusivamente a aquellos entre las edades de 9 a 12 años no cumplidos.
 
 (Decreto 2225 de 1985, art. 14)
-
-ARTÍCULO
 
 ## art:2.4.4.2 — Objetivos de las pruebas
 
@@ -590,8 +508,6 @@ Son objetivos de las pruebas de desarrollo motor los siguientes:
 
 (Decreto 2225 de 1985, art. 15)
 
-ARTÍCULO
-
 ## art:2.4.4.3 — Elaboración de las pruebas
 
 Las pruebas de desarrollo motor a que se refieren los artículos precedentes serán elaboradas por el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES, por encargo del Ministerio de Educación Nacional, para su distribución y aplicación por los Directores de los Centros, tanto de los Ente Deportivo Departamental o del Distrito Capital, como las dependencias de los establecimientos educativos autorizados a tenerlos.
@@ -602,23 +518,17 @@ TÍTULO 5
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.4.5.1 — Restricciones a la participación de niños menores de 12 años
 
 No se autorizará, promoverá o subsidiará la participación de niños antes de los 12 años no cumplidos en deportes de colisión, de fuerza y de algún riesgo, por considerar que éstos pueden hacer daño a su integración física y afectar su expectativa de supervivencia.
 
 (Decreto 2225 de 1985, art. 17)
 
-ARTÍCULO
-
 ## art:2.4.5.2 — Coordinación y administración de los eventos
 
 El Ministerio de Educación Nacional velará por que los eventos para niños sean coordinados y administrados por personal técnico calificado y ejercerá severa vigilancia para prevenir conductas antisociales o faltas contra la dignidad por parte de docentes, técnicos deportivos y dirigentes.
 
 (Decreto 2225 de 1985, art. 18)
-
-ARTÍCULO
 
 ## art:2.4.5.3 — Guía para educadores, padres de familia y técnicos
 
@@ -634,8 +544,6 @@ TÍTULO 1
 
 DEL RECONOCIMIENTO DEPORTIVO
 
-ARTÍCULO
-
 ## art:2.5.1.1 — Reconocimiento deportivo
 
 El Gobierno Nacional promoverá todo tipo de asociación deportiva que esté legalmente reconocida.
@@ -648,8 +556,6 @@ PARÁGRAFO . Habrá lugar, igualmente, al reconocimiento deportivo cuando se tra
 
 (Decreto 515 de 1986, art. 1, Modificado por el Decreto 2166 de 1986, art. 1)
 
-ARTÍCULO
-
 ## art:2.5.1.2 — Comité para el fomento, promoción y organización de un deporte en caso de que no exista federación
 
 Cuando no se puedan llenar los requisitos mínimos exigidos para crear una federación deportiva nacional, o cuando existiendo sea disuelta o deje de funcionar por una o más de las causales de ley, o su personería jurídica hubiese sido suspendida o revocada, el Director del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, - COLDEPORTES - podrá designar y reglamentar el funcionamiento de un comité de no más de tres miembros, que se encargue del fomento, promoción y organización del correspondiente deporte. Los miembros de dicho comité serán de libre nombramiento y remoción por el mismo Director y ejercerán sus funciones por todo el tiempo requerido para crear o reconstituir legalmente la federación, sin que por ello tengan el carácter de funcionarios públicos y de serlo, lo harán a título particular.
@@ -657,8 +563,6 @@ Cuando no se puedan llenar los requisitos mínimos exigidos para crear una feder
 PARÁGRAFO . No podrán ser miembros del mencionado comité las personas que al momento de darse las condiciones de este artículo desempeñen cargos de administración, control y disciplina del organismo aludido.
 
 (Decreto 515 de 1986, art. 4)
-
-ARTÍCULO
 
 ## art:2.5.1.3 — Comité para el fomento, promoción y organización de un deporte en caso de que no exista liga
 
@@ -682,8 +586,6 @@ TÍTULO 1.
 
 AMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.6.1.1 — Ámbito de Aplicación
 
 Se pretende reglamenta el procedimiento a seguir ante el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del tiempo Libre - COLDEPORTES - así como los requisitos que se deban acreditar para la obtención de la personería jurídica y del reconocimiento deportivo por parte de los organismos deportivos que integran el Sistema Nacional del Deporte de acuerdo con las competencias asignadas a COLDEPORTES por el Decreto-Ley 1228 de 1995.
@@ -698,8 +600,6 @@ TÍTULO 2.
 
 DEL OTORGAMIENTO DE PERSONERÍA JURÍDICA.
 
-ARTÍCULO
-
 ## art:2.6.2.1 — Del Otorgamiento de la Personería Jurídica
 
 El Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del tiempo Libre - COLDEPORTES -, otorgará personería jurídica a los organismos que se constituyan como Federaciones Deportivas Nacionales, de conformidad con lo señalado por la Ley 181 de 1995 y el Decreto-Ley 1228 del mismo año, siguiendo en lo pertinente el trámite de que trata el Código de Procedimiento Administrativo y de lo Contencioso Administrativo, previa verificación del cumplimiento de los requisitos que se indican en el presente capítulo.
@@ -709,8 +609,6 @@ Para otorgar o denegar la personería jurídica, se tendrá en cuenta la existen
 El Comité Olímpico Colombiano deberá avalar lo determinado en el inciso anterior y la certificación al respecto se allegará con la solicitud de otorgamiento de personería jurídica.
 
 (Decreto 407 de 1996, art. 2)
-
-ARTÍCULO
 
 ## art:2.6.2.2 — Requisitos de la Solicitud
 
@@ -744,8 +642,6 @@ PARÁGRAFO 1. En el mismo acto por el cual se otorga la personería jurídica a 
 
 (Decreto 407 de 1996, art. 3)
 
-ARTÍCULO
-
 ## art:2.6.2.3 — Actualizaciones
 
 Cuando se produzca una reforma de los estatutos, una nueva designación de representante legal o de los miembros de los órganos de administración, control y disciplina de una federación deportiva nacional u ocurra su reelección para un nuevo período estatutario, el organismo deportivo procederá a solicitar su inscripción ante COLDEPORTES.
@@ -755,8 +651,6 @@ La solicitud de que trata el presente artículo, se efectuará dentro de los die
 El incumplimiento de lo dispuesto en este artículo acarreará la sanción de suspensión de la personería jurídica hasta por un término de tres (3) meses, según sea la dilación, de acuerdo con lo dispuesto en los artículos 37, numeral primero y 38 del Decreto-ley 1228 de 1995, si transcurrido el término de duración de la suspensión, aún no ha cumplido con el requisito de inscripción dispuesto en este artículo, se le aplicará a la Federación la revocatoria de la personería jurídica.
 
 (Decreto 407 de 1996, art. 4)
-
-ARTÍCULO
 
 ## art:2.6.2.4 — Acreditación de la Existencia y de la Representación Legal
 
@@ -770,8 +664,6 @@ TÍTULO 3.
 
 DEL RECONOCIMIENTO DEPORTIVO.
 
-ARTÍCULO
-
 ## art:2.6.3.1 — Del Reconocimiento Deportivo
 
 El reconocimiento deportivo de las ligas deportivas y asociaciones deportivas departamentales o del Distrito Capital, así como el de las Federaciones Deportivas Nacionales, será otorgado o renovado por el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del tiempo Libre - COLDEPORTES -, de conformidad con lo previsto en el presente Decreto, siguiendo en lo pertinente el trámite previsto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -779,8 +671,6 @@ El reconocimiento deportivo de las ligas deportivas y asociaciones deportivas de
 Los organismos deportivos a los cuales se refiere el inciso anterior, sólo podrán fomentar, promover, apoyar, patrocinar y organizar actividades deportivas en su respectivo ámbito territorial, de conformidad con lo dispuesto en el Decreto Ley 1228 de 1995, una vez obtengan el reconocimiento deportivo como organismos deportivos del Sistema Nacional del Deporte.
 
 (Decreto 407 de 1996, art. 6)
-
-ARTÍCULO
 
 ## art:2.6.3.2 — Requisitos de la Solicitud
 
@@ -796,8 +686,6 @@ PARÁGRAFO . Si alguno de los requisitos a que se refiere el presente artículo,
 
 (Decreto 407 de 1996, art. 7)
 
-ARTÍCULO
-
 ## art:2.6.3.3 — Suspensión o Revocatoria del Reconocimiento Deportivo
 
 El reconocimiento deportivo será suspendido cuando se incumpla las disposiciones legales, reglamentarias o estatutarias que rigen al organismo deportivo, nacional, departamental o del Distrito Capital y que afecten a sus afiliados o a terceros.
@@ -811,8 +699,6 @@ Las demás violaciones a las disposiciones legales, reglamentarias o estatutaria
 El establecimiento de la falta se adelantará mediante un procedimiento administrativo en el cual se le brinde al organismo investigado, antes de la imposición de la sanción, la oportunidad para expresar sus opiniones y explicar su actuación. A este procedimiento se aplicará en lo pertinente lo dispuesto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 407 de 1996. art 9)
-
-ARTÍCULO
 
 ## art:2.6.3.4 — De los Requisitos para los Clubes Pertenecientes a Entidades no Deportivas
 
@@ -834,8 +720,6 @@ TÍTULO 4.
 
 DISPOSICIONES COMUNES
 
-ARTÍCULO
-
 ## art:2.6.4.1 — Otorgamiento o Negación de la Personería Jurídica y del Reconocimiento Deportivo
 
 Verificado el cumplimiento de los requisitos correspondientes, a que se refiere el presente Decreto, COLDEPORTES otorgará mediante resolución motivada la personería jurídica o el reconocimiento deportivo que se haya solicitado, según sea el caso.
@@ -845,8 +729,6 @@ Si no se cumplen los requisitos respectivos, COLDEPORTES expedirá resolución m
 La resolución por la cual se resuelve la solicitud, se notificará en la forma prevista en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y contra la misma procederá el recurso de reposición.
 
 (Decreto 407 de 1996, art. 12)
-
-ARTÍCULO
 
 ## art:2.6.4.2 — Utilización de los Servicios de Correo
 
@@ -860,23 +742,17 @@ PARÁGRAFO . Se entenderá válido el envío por correo certificado siempre y cu
 
 (Decreto 407 de 1996, art. 13)
 
-ARTÍCULO
-
 ## art:2.6.4.3 — Aplicación del Régimen Sancionatorio
 
 La providencia mediante la cual se suspende o revoca definitivamente el reconocimiento deportivo, deberá motivarse y contra ella procederá el recurso de reposición.
 
 (Decreto 407 de 1996, art. 14)
 
-ARTÍCULO
-
 ## art:2.6.4.4 — Otros Registros
 
 Los libros de actas en donde consten las decisiones de los órganos colegiados de dirección y administración de las Federaciones Deportivas Nacionales, así como aquellos actos que afecten por determinación judicial, los aportes sociales de las mismas, deberán ser registrados en COLDEPORTES.
 
 (Decreto 407 de 1996, art. 15)
-
-ARTÍCULO
 
 ## art:2.6.4.5 — Liquidación
 
@@ -887,8 +763,6 @@ En desarrollo de esta función, COLDEPORTES podrá practicar visitas, solicitar 
 Aprobada la liquidación por el órgano estatutario competente, el liquidador procederá a inscribirla en COLDEPORTES.
 
 (Decreto 407 de 1996, art. 16)
-
-ARTÍCULO
 
 ## art:2.6.4.6 — Otorgamiento de la Personería Jurídica y del Reconocimiento Deportivo a los Organismos Deportivos Territoriales
 
@@ -906,8 +780,6 @@ NORMAS PARA EL FUNCIONAMIENTO DE LOS
 
 CLUBES DEPORTIVOS PROFESIONALES
 
-ARTÍCULO
-
 ## art:2.7.1 — Ámbito de aplicación
 
 Esta Parte reglamenta los requisitos y el procedimiento para el otorgamiento de personería jurídica de los clubes deportivos profesionales también llamados clubes con deportistas profesionales, así como el otorgamiento del reconocimiento deportivo, según lo disponen las normas especiales de la Ley 181 de 1995 y del Decreto ley 1228 de 1995, al respecto.
@@ -920,15 +792,11 @@ TÍTULO 1
 
 DE LA PERSONERIA JURIDICA Y LOS ESTATUTOS
 
-ARTÍCULO
-
 ## art:2.7.1.1 — Personería Jurídica
 
 La personería jurídica de los clubes deportivos profesionales organizados como corporaciones o asociaciones será otorgada por COLDEPORTES, previa verificación del cumplimiento de los requisito legales que se indican en este capítulo y observando en lo pertinente el trámite previsto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 0776 de 1996, art.2)
-
-ARTÍCULO
 
 ## art:2.7.1.2 — Requisitos de la Solicitud
 
@@ -966,8 +834,6 @@ PARÁGRAFO . En el cual se otorga la personería jurídica a que se refiere este
 
 (Decreto 0776 de 1996, art. 3)
 
-ARTÍCULO
-
 ## art:2.7.1.3 — Actualizaciones
 
 Cuando se produzca una reforma de los estatutos de un club deportivo profesional, organizado como asociación o corporación, una nueva elección de representante legal o de los miembros del órgano colegiado de administración, o de los de control o de disciplinas u ocurra su reelección para un nuevo período estatutario, el organismo deportivo precederá a solicitar su inscripción ante COLDEPORTES.
@@ -977,8 +843,6 @@ La solicitud de que trata el presente artículo, se efectuará dentro de los die
 El incumplimiento de lo dispuesto en este artículo acarreará la sanción de suspensión de la personería jurídica hasta por un término de tres (3) meses, según sea la dilación, de acuerdo con lo dispuesto en los artículos 37., numeral primero y 380 del Decreto ley 1228 de 1995. Si transcurrido el término de duración de la suspensión, aún no se ha cumplido con el requisito de inscripción dispuesto en este artículo, se le aplicará al club la revocatoria de la personería jurídica.
 
 (Decreto 0776 de 1996, art. 4)
-
-ARTÍCULO
 
 ## art:2.7.1.4 — Acreditación de la Existencia y de la Representación Legal
 
@@ -991,8 +855,6 @@ El uso para cualquier fin de una certificación de reconocimiento de personería
 Los clubes deportivos organizados como sociedades anónimas no podrán desarrollar su objeto, si no cuentan con el reconocimiento deportivo vigente. COLDEPORTES informará a la respectiva Cámara de Comercio, para efectos de la anotación correspondiente en el registro.
 
 (Decreto 0776 de 1996, art. 5)
-
-ARTÍCULO
 
 ## art:2.7.1.5 — Régimen de los Clubes Organizados como Sociedades Anónimas
 
@@ -1010,8 +872,6 @@ TÍTULO 2
 
 DEL RECONOCIMIENTO DEPORTIVO
 
-ARTÍCULO
-
 ## art:2.7.2.1 — Reconocimiento Deportivo
 
 El reconocimiento deportivo de los clubes deportivos profesionales, será otorgado o renovado por el Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Ubre - COLDEPORTES, de conformidad con lo previsto en el presente reglamento, con sujeción en lo pertinente al trámite regulado por el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
@@ -1019,8 +879,6 @@ El reconocimiento deportivo de los clubes deportivos profesionales, será otorga
 Los clubes deportivos profesionales sólo podrán desarrollar actividades y programas de deporte competitivo de alto rendimiento con deportistas bajo remuneración, una vez obtengan el reconocimiento deportivo como organismos deportivos del Sistema Nacional del Deporte.
 
 (Decreto 0776 de 1996, art. 7)
-
-ARTÍCULO
 
 ## art:2.7.2.2 — Requisitos de la Solicitud
 
@@ -1042,8 +900,6 @@ PARÁGRAFO . En el evento de que alguno de los requisitos a que se refiere el pr
 
 (Decreto 0776 de 1996, art. 8)
 
-ARTÍCULO
-
 ## art:2.7.2.3 — Renovación del Reconocimiento Deportivo
 
 Para los efectos de la renovación del reconocimiento deportivo, el club deberá adjuntar a la solicitud, fotocopia autenticada del acta del órgano competente para elegir o designar, según sea el caso, los miembros del órgano colegiado de administración y los de los órganos de control y de disciplina, lo mismo que los de las comisiones técnica y de juzgamiento, en donde conste el nombre de las personas designadas o elegidas y su período, si la información suministrada a COLDEPORTES hubiere sufrido algún cambio.
@@ -1053,8 +909,6 @@ También informará sobre el cumplimiento de las exigencias legales y estatutari
 Los clubes deportivos profesionales organizados como sociedades anónimas, remitirán además el certificado de existencia y representación legal vigente.
 
 (Decreto 0776 de 1996, art. 10)
-
-ARTÍCULO
 
 ## art:2.7.2.4 — Suspensión o Revocatoria del Reconocimiento Deportivo
 
@@ -1070,15 +924,11 @@ TÍTULO 3
 
 DE LA INSPECCION, VIGILANCIA Y CONTROL DE COLDEPORTES
 
-ARTÍCULO
-
 ## art:2.7.3.1 — Autoridad competente
 
 De conformidad con lo dispuesto en el artículo 37 del Decreto ley 1228 de 1995, el Director General del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre COLDEPORTES , ejercerá las funciones de inspección, vigilancia y control sobre los clubes con deportistas profesionales, sin perjuicio de las competencias que les correspondan a otras autoridades, tales como la Superintendencia de Sociedades, las cámaras de comercio, las federaciones deportivas nacionales y los tribunales deportivos.
 
 (Decreto 0776 de 1996, art. 12)
-
-ARTÍCULO
 
 ## art:2.7.3.2 — Obligaciones
 
@@ -1104,8 +954,6 @@ PARÁGRAFO . La medida de suspensión temporal de los miembros del órgano coleg
 
 (Decreto 0776 de 1996, art. 13)
 
-ARTÍCULO
-
 ## art:2.7.3.3 — Atribuciones del Director de Coldeportes
 
 Además de las atribuciones de inspección, vigilancia y control otorgadas por el artículo 37 del Decreto Ley 1228 de 1995 el Director de COLDEPORTES ejercerá en relación con los clubes deportivos profesionales, las demás que le hayan sido otorgadas por las disposiciones legales vigentes.
@@ -1117,8 +965,6 @@ Lo anterior, se entiende sin perjuicio del cumplimiento de las exigencias legale
 Así mismo, el ejercicio de la atribución relativa a la impugnación de los actos y decisiones de los órganos de dirección y administración de los clubes, prevista en el numeral quinto del artículo 37. del Decreto ley 1228 de 1995, procederá solamente cuando aquéllos se hayan producido con posterioridad al 18 de julio de 1995.
 
 (Decreto 0776 de 1996, art. 14)
-
-ARTÍCULO
 
 ## art:2.7.3.4 — Régimen Sancionatorio
 
@@ -1135,8 +981,6 @@ Las violaciones a las disposiciones legales, reglamentarias o estatutarias, dist
 El establecimiento de cualquier falta, la gravedad de la misma, la determinación sobre la procedencia de la sanción y la correspondiente imposición, se adelantará mediante un procedimiento administrativo en el cual se le brinde al club deportivo profesional investigado, la oportunidad para presentar sus descargos.
 
 (Decreto 0776 de 1996, art. 15)
-
-ARTÍCULO
 
 ## art:2.7.3.5 — Faltas Graves
 
@@ -1158,23 +1002,17 @@ PARÁGRAFO . En caso de que la falta sea atribuible a una persona natural que fo
 
 (Decreto 0776 de 1996, art. 16)
 
-ARTÍCULO
-
 ## art:2.7.3.6 — Impugnación de Actos y Decisiones
 
 Contra las decisiones del Director de COLDEPORTES, expedidas en ejercicio de sus competencias de inspección, vigilancia y control, sólo procederá el recurso de reposición.
 
 (Decreto 0776 de 1996, art. 17)
 
-ARTÍCULO
-
 ## art:2.7.3.7 — Procedimiento
 
 A las actuaciones que adelante el Director de COLDEPOTES en ejercicio de sus competencias de inspección, vigilancia y control, en los términos de la ley y del presente Decreto, se aplicará en lo pertinente el procedimiento establecido en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 0776 de 1996, art. 18)
-
-ARTÍCULO
 
 ## art:2.7.3.8 — Liquidación del Club Deportivo Profesional
 
@@ -1192,8 +1030,6 @@ ESTÍMULO PARA
 
 LAS GLORIAS DEL DEPORTE NACIONAL
 
-ARTÍCULO
-
 ## art:2.8.1 — Campo de Aplicación
 
 Esta parte establece las reglas y los procedimientos generales para el reconocimiento del estímulo, ordenado por el artículo 45 de la Ley 181 de 1995 para las glorias del deporte nacional.
@@ -1203,8 +1039,6 @@ Se entiende por estímulo, un monto mensual en moneda colombiana que percibe un 
 El estímulo se reconocerá en las modalidades de vejez o invalidez y tendrán derecho a la misma los deportistas que hayan sido campeones mundiales oficiales, medallistas en campeonatos mundiales oficiales en la máxima categoría, o de Juegos Olímpicos, de conformidad con lo establecido en el parágrafo del artículo 45 de la Ley 181 de 1995.
 
 (Decreto 1083 de 1997, art. 1, modificado por la Ley 1389 de 2010, art.1)
-
-ARTÍCULO
 
 ## art:2.8.2 — Requisitos para obtener al estímulo
 
@@ -1222,23 +1056,17 @@ Para tener derecho al estímulo, el deportista deberá reunir las siguientes con
 
 (Decreto 1083 de 1997, art. 2)
 
-ARTÍCULO
-
 ## art:2.8.3 — Medallista en Máxima Categoría
 
 Se entiende por medallista en máxima categoría, aquel deportista que ha obtenido el tope de rendimiento en la correspondiente disciplina o modalidad deportiva, lo cual debe ser certificado por la Federación Internacional a través de la Federación Colombiana.
 
 (Decreto 1083 de 1997, art. 3)
 
-ARTÍCULO
-
 ## art:2.8.4 — Monto del estímulo
 
 El monto mensual del estímulo, será de cuatro (4) salarios mínimos mensuales legales vigente.
 
 (Decreto 1083 de 1997, art. 4)
-
-ARTÍCULO
 
 ## art:2.8.5 — Pérdida del derecho al estímulo
 
@@ -1252,8 +1080,6 @@ PARÁGRAFO . En caso de pérdida del estímulo como consecuencia de la aplicaci�
 
 (Decreto 1083 de 1997, art. 8)
 
-ARTÍCULO
-
 ## art:2.8.6 — Garantía de Pago
 
 De acuerdo con lo ordenado en el artículo 45 de la Ley 181 de 1995 anualmente se apropiará en el presupuesto del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre, COLDEPORTES, las partidas necesarias para atender el pago de las pensiones de que trata este Decreto, con cargo a los recursos de la Ley 181 de 1995.
@@ -1266,15 +1092,11 @@ De acuerdo con lo ordenado en el artículo 45 de la Ley 181 de 1995 anualmente s
 
 OBJETO Y AMBITO DE APLICACION
 
-ARTÍCULO
-
 ## art:2.9.1.1 — OBJETO
 
 El objeto del presente decreto es la reglamentación de la Ley 1946 de 2019, sobre la organización, funcionamiento, niveles jerárquicos y estructura del deporte para personas con discapacidad.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.1.2 — ÁMBITO DE APLICACIÓN
 
@@ -1284,23 +1106,17 @@ El presente decreto, aplica para los organismos deportivos que gobiernen deporte
 
 ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ORGANISMOS DEPORTIVOS PARA PERSONAS CON DISCAPACIDAD
 
-ARTÍCULO
-
 ## art:2.9.2.1 — ORGANIZACIÓN
 
 Los organismos deportivos se organizarán por deporte o por discapacidad de acuerdo con los lineamientos del Comité Paralímpico Internacional, en conjunto con las Federaciones Internacionales por Deporte y las Organizaciones internacionales de deporte para personas con discapacidad.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.2.2 — DEPORTES INTEGRADOS AL DEPORTE CONVENCIONAL
 
 En aquellos deportes donde la Federación Deportiva Internacional y el Comité Paralímpico Internacional hayan integrado el deporte para personas con discapacidad al deporte convencional, los organismos deportivos de los niveles Nacional, Departamental y de Distrito Capital, Municipal y Distrital, adecuarán su estructura creando divisiones especializadas o comisiones para atender el deporte para personas con discapacidad, la cual estará conformada por mínimo tres (3) miembros elegidos por la asamblea y por el mismo periodo estatutario del órgano de administración, para lo cual ajustarán los estatutos, estructura orgánica y demás aspectos señalados en este Decreto.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.2.3 — DEPORTES DE GOBERNANZA DEL COMITÉ PARALÍMPICO INTERNACIONAL
 
@@ -1314,15 +1130,11 @@ PARÁGRAFO : Mientras los deportes de Gobernanza del Comité Paralímpico Intern
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.2.4 — DEPORTES DE GOBERNANZA DE ORGANISMOS POR DISCAPACIDAD
 
 Los deportes gobernados internacionalmente por las Organizaciones internacionales de deporte para personas con discapacidad (IOSDs), serán manejados en el país por las federaciones deportivas por discapacidad, y se mantendrán y/o conformarán según corresponda los organismos deportivos de esas discapacidades en los niveles Nacional, Departamental y de Distrito Capital, Municipal y Distrital, de acuerdo con lo establecido por el presente decreto y demás normatividad vigente sobre la materia.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.2.5 — DEPORTES DE GOBERNANZA EXCLUSIVA PARA PERSONAS CON DISCAPACIDAD
 
@@ -1332,15 +1144,11 @@ Los deportes que tienen una Federación u organización Internacional independie
 
 ORGANISMOS DEPORTIVOS PARA PERSONAS CON DISCAPACIDAD Y SUS NIVELES JERARQUICOS
 
-ARTÍCULO
-
 ## art:2.9.3.1 — DE LOS ORGANISNMOS DEPORTIVOS
 
 Los clubes deportivos, los clubes promotores, los clubes profesionales, las ligas, asociaciones deportivas departamentales y del Distrito Capital y federaciones deportivas nacionales y Comité Paralímpico Colombiano, son organismos deportivos integrantes del Sistema Nacional del Deporte, sujetos a la inspección, vigilancia y control del Ministerio del Deporte. Sus planes y programas hacen parte del plan nacional del deporte, la recreación, la actividad física y el aprovechamiento del tiempo libre.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.3.2 — NIVELES
 
@@ -1354,8 +1162,6 @@ Los niveles jerárquicos de los organismos deportivos de personas con discapacid
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.3 — CLUBES DEPORTIVOS
 
 Los clubes deportivos de personas con discapacidad, como organismos de derecho privado estarán constituidos mayoritariamente por afiliados deportistas, para fomentar y patrocinar la práctica del deporte o modalidad, la recreación y el aprovechamiento del tiempo libre en el correspondiente Municipio o Distrito, e impulsar programas de interés público y social de naturaleza deportiva.
@@ -1366,7 +1172,7 @@ PARÁGRAFO 2: Para los efectos de este artículo, las cajas de compensación fam
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
+## art:2.9.3.4 — 
 
 . 2.9.3.4. CLUBES PROMOTORES. Los clubes promotores, como organismos de derecho privado, estarán constituidos mayoritariamente por afiliados deportistas, para fomentar y patrocinar la práctica de Deportes o Modalidades, la recreación y el aprovechamiento del tiempo libre, e impulsarán programas de interés público y social de naturaleza deportiva en los Municipios y Distritos.
 
@@ -1378,8 +1184,6 @@ Los atletas con discapacidad podrán afiliarse a un club Convencional en los dep
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.5 — AFILIACIÓN
 
 Los clubes deportivos o promotores de personas con discapacidad podrán afiliarse a la liga o asociación deportiva departamental o del distrito capital correspondiente, los clubes deportivos a la federación deportiva nacional, en el caso que no se haya constituido la liga o asociación deportiva departamental o del distrito capital.
@@ -1387,8 +1191,6 @@ Los clubes deportivos o promotores de personas con discapacidad podrán afiliars
 PARÁGRAFO : Cuando en el nivel departamental o del distrito capital exista más de un club deportivo y/o club promotor, tendrán que constituirse como liga o asociación deportiva departamental o del distrito capital, en ningún caso los clubes deportivos cuando puedan conformar la liga o asociación deportiva departamental o del Distrito Capital podrán afiliarse directamente a la federación deportiva nacional.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.3.6 — REQUISITOS
 
@@ -1410,8 +1212,6 @@ PARÁGRAFO : En ningún caso el club deportivo tendrá menos de ocho (8) deporti
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.7 — LIGAS DEPORTIVAS
 
 Las ligas deportivas, como organismos de derecho privado, estarán constituidas como asociaciones o corporaciones por un número mínimo de clubes deportivos o de promotores o de ambas clases, para fomentar, patrocinar y organizar la práctica de deporte con sus modalidades dentro del ámbito territorial del Departamento o del Distrito Capital, según el caso, e impulsarán programas de interés público y social; las cuales se agruparán en cuatro (4) tipos conforme al Título 11 del presente decreto:
@@ -1428,8 +1228,6 @@ Las ligas deportivas podrán constituirse por deporte con sus modalidades en los
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.8 — ASOCIACIONES DEPORTIVAS
 
 Las asociaciones deportivas, como organismos de derecho privado, estarán constituidas por un número mínimo de clubes deportivos o promotores o de ambas clases, para fomentar, patrocinar y organizar la práctica de varios deportes, dentro del ámbito territorial del Departamento o del Distrito Capital, según el caso, e impulsarán programas de interés público y social.
@@ -1438,15 +1236,11 @@ No podrá existir más de una liga o asociación deportiva por deporte de gobern
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.9 — AFILIACIÓN
 
 Las ligas o asociaciones deportivas departamentales o del Distrito Capital, podrán afiliarse a la federación nacional del deporte o discapacidad correspondiente.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.3.10 — REQUISITOS DE CREACIÓN Y FUNCIONAMIENTO
 
@@ -1464,8 +1258,6 @@ PARÁGRAFO : Las ligas deportivas Departamentales o del Distrito Capital, en las
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.11 — FEDERACIONES DEPORTIVAS
 
 Las Federaciones deportivas se agruparán en cuatro (4) tipos conforme al capítulo 11 del presente decreto:
@@ -1479,8 +1271,6 @@ Las Federaciones deportivas se agruparán en cuatro (4) tipos conforme al capít
 4. Federaciones deportivas nacionales de deportes de gobernanza de IPC.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.3.12 — CONSTITUCION
 
@@ -1496,8 +1286,6 @@ La Federación Colombiana de Deporte para Sordos, como organismo de derecho priv
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.13 — MINIMOS DE CONFORMACION
 
 Las federaciones deportivas nacionales de deportes de gobernanza de organismos por discapacidad, federaciones deportivas nacionales de deportes de gobernanza exclusiva de personas con discapacidad y federaciones deportivas nacionales de deportes de gobernanza de IPC requieren para su funcionamiento un número mínimo de cinco (5) ligas o asociaciones deportivas, o clubes deportivos, o la combinación de cualquiera de estos y en representación de igual número de departamentos.
@@ -1505,8 +1293,6 @@ Las federaciones deportivas nacionales de deportes de gobernanza de organismos p
 Las federaciones deportivas nacionales de deportes integrados al deporte convencional requerirán para su funcionamiento lo reglamentado por el Ministerio del Deporte de acuerdo con los mínimos exigidos en el deporte convencional.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.3.14 — REQUISITOS DE CREACIÓN Y FUNCIONAMIENTO
 
@@ -1520,8 +1306,6 @@ Las Federaciones Deportivas Nacionales requieren para su creación y funcionamie
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.3.15 — COMITÉ PARALÍMPICO COLOMBIANO
 
 Es un organismo deportivo autónomo de derecho privado sin ánimo de lucro, de duración indefinida, de integración y jurisdicción nacional, cuya conformación y funciones se rigen por la normatividad paralímpica internacional, con sujeción a las disposiciones constitucionales, estatutarias y legales vigentes.
@@ -1532,8 +1316,6 @@ El Comité Paralímpico Colombiano actuará como coordinador de los organismos d
 
 DISPOSICIONES GENERALES Y TRANSITORIAS
 
-ARTÍCULO
-
 ## art:2.9.4.1 — DE LOS INTEGRANTES
 
 En los deportes a los que hace referencia los artículos 2.9.2.2., 2.9.2.3, 2.9.2.4, 2.9.2.5 y Parágrafo 2 del artículo 2.9.3.12 del presente Decreto, los organismos deportivos de los niveles Nacional, Departamental y de Distrito Capital, Municipal y Distrital, ajustarán sus estatutos sociales y estructura administrativa, a fin de que exista dentro del órgano de administración como mínimo un integrante con discapacidad o un representante de estas, quien además deberá cumplir los requisitos establecidos por el Ministerio del Deporte, para pertenecer a los órganos de administración, comisión técnica y de juzgamiento.
@@ -1541,8 +1323,6 @@ En los deportes a los que hace referencia los artículos 2.9.2.2., 2.9.2.3, 2.9.
 PARÁGRAFO : Los organismos deportivos a que hace referencia el presente decreto, propenderán por la participación de las mujeres para pertenecer a los órganos de administración, comisión médica y de clasificación funcional, comisión técnica y de juzgamiento.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.4.2 — VINCULACIÓN Y ARTICULACIÓN
 
@@ -1552,8 +1332,6 @@ PARÁGRAFO : Los deportes para personas con discapacidad pueden tener modificaci
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.4.3 — COMISIÓN MÉDICA Y DE CLASIFICACIÓN FUNCIONAL
 
 Las Federaciones Deportivas que incluyan en su estructura el deporte para personas con discapacidad, el Comité Paralímpico Colombiano y la Federación Colombiana de Deportes para Sordos, deberán adecuar su estructura para contar con una comisión médica y de clasificación funcional, a fin de que estos organismos deportivos cumplan con las funciones establecidas en el artículo 10 de la Ley 1946 de 2019.
@@ -1562,15 +1340,11 @@ PARÁGRAFO : La comisión médica y de clasificación funcional estará constitu
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.4.4 — ADECUACIÓN DE ESTRUCTURA
 
 Los organismos deportivos creados con anterioridad al presente decreto tendrán un término de doce (12) meses contados a partir de la publicación del presente decreto, para adecuar su estructura, conformación de comisiones o divisiones y estatutos sociales, a fin de dar cumplimiento a las disposiciones contenidas en este decreto.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.4.5 — EMBLEMAS PARALÍMPICOS
 
@@ -1578,15 +1352,11 @@ Los emblemas paralímpicos relativos al lago, la bandera y sus marcas registrada
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
 
-ARTÍCULO
-
 ## art:2.9.4.6 — TRANSITORIO
 
 Mientras los organismos deportivos a que hace referencia el artículo 2.9.2.2. del presente decreto, adecuan su estructura para atender el deporte para personas con discapacidad, estos actuarán como el organismo deportivo encargado para fomentar, patrocinar y organizar la práctica del correspondiente deporte dentro del ámbito nacional y la representación internacional del mismo.
 
 (Sustituido por el Art. 1 del Decreto 520 de 2021)
-
-ARTÍCULO
 
 ## art:2.9.4.7 — REGISTRO ÚNICO DEL DEPORTE
 
@@ -1598,13 +1368,7 @@ PARTE 10
 
 POR EL CUAL SE REGLAMENTA EL
 
-ARTÍCULO
-
-## art:7 — 
-
 7 DE LA LEY 1270 DE 2009
-
-ARTÍCULO
 
 ## art:2.10.1 — Comisiones Locales de Seguridad, Comodidad y Convivencia en el Fútbol
 
@@ -1612,15 +1376,11 @@ Los Alcaldes de Distritos o Municipios en donde se lleven a cabo competencias de
 
 (Decreto 1267 de 2009, art.1)
 
-ARTÍCULO
-
 ## art:2.10.2 — Sesiones
 
 Una vez conformadas las respectivas Comisiones Locales de Seguridad, Comodidad y Convivencia en el Fútbol, las mismas deberán sesionar de manera ordinaria, una vez por semana.
 
 (Decreto 1267 de 2009, art.2)
-
-ARTÍCULO
 
 ## art:2.10.3 — Reportes mensuales
 
@@ -1632,15 +1392,11 @@ PARÁGRAFO 2. En todo caso, las Comisiones Locales de Seguridad, Comodidad y Con
 
 (Decreto 1267 de 2009, art.3)
 
-ARTÍCULO
-
 ## art:2.10.4 — Remisión de los informes
 
 Los informes de que trata el presente Decreto deberán ser remitidos a la Secretaría Técnica de la Comisión Nacional de Seguridad, Comodidad y Convivencia en el Fútbol, en cabeza de COLDEPORTES.
 
 (Decreto 1267 de 2009, art.4)
-
-ARTÍCULO
 
 ## art:2.10.5 — Grupo Técnico de Apoyo
 
@@ -1656,8 +1412,6 @@ TÍTULO 1
 
 COMPETENCIA
 
-ARTÍCULO
-
 ## art:2.11.1.1 — Competencia
 
 Serán competentes para cumplir con el objeto de esta Parte, las autoridades de policía de los entes territoriales, a través del inspector de policía, en primera instancia, y el alcalde o su delegado en segunda instancia.
@@ -1668,8 +1422,6 @@ TITULO 2
 
 RECAUDO
 
-ARTÍCULO
-
 ## art:2.11.2.1 — Recaudo de Multas
 
 El recaudo de las multas de que tratan las Leyes 1445 y 1453 de 2011, estará a cargo del Departamento Administrativo del Deporte, la Recreación, la Actividad Física y el Aprovechamiento del Tiempo Libre - COLDEPORTES, el cual establecerá la estructura administrativa necesaria para el recaudo y cobro de los dineros que por concepto de multas se generen.
@@ -1679,8 +1431,6 @@ El recaudo de las multas de que tratan las Leyes 1445 y 1453 de 2011, estará a 
 TÍTULO 3.
 
 PROCEDIMIENTO PARA LA IMPOSICIÓN DE SANCIONES
-
-ARTÍCULO
 
 ## art:2.11.3.1 — Orden de Comparendo
 
@@ -1694,15 +1444,11 @@ Vencido el término anterior, si el infractor no compareciere sin justa causa co
 
 (Decreto 79 de 2012, art.4)
 
-ARTÍCULO
-
 ## art:2.11.3.2 — Traslado del Infractor
 
 Si la autoridad de policía lo estima conveniente, podrá trasladar de manera inmediata al presunto infractor ante el inspector de policía competente para la aplicación de la medida correctiva que corresponda.
 
 (Decreto 0079 de 2012, art.5)
-
-ARTÍCULO
 
 ## art:2.11.3.3 — Iniciación del Procedimiento
 
@@ -1740,15 +1486,11 @@ Una vez en firme la imposición de la medida correctiva. la autoridad competente
 
 (Decreto 79 de 2012, art.6)
 
-ARTÍCULO
-
 ## art:2.11.3.4 — Contenido de la Decisión
 
 La decisión que emita la autoridad de policía deberá ser motivada y contendrá el nombre e identificación del infractor; descripción de la conducta; manifestación de las circunstancias de tiempo modo y lugar en que ocurrieron los hechos; fundamento de la decisión y la medida adoptada, indicando los recursos que contra ella proceden.
 
 (Decreto 79 de 2012, art.7)
-
-ARTÍCULO
 
 ## art:2.11.3.5 — Graduación de la Sanción
 
@@ -1774,23 +1516,17 @@ DISPOSICIONES FINALES DEL
 
 REGIMEN SANCIONATORIO
 
-ARTÍCULO
-
 ## art:2.11.4.1 — Contravenciones Cometidas por Niños, Niñas y Adolescentes
 
 Cuando un menor de dieciocho (18) años de edad, incurra en comportamientos que contraríen los artículos 97 y 98 de la Ley 1453 de 2011, será trasladado de inmediato ante el comisario de familia, con el fin de que participe en un programa pedagógico; sin perjuicio de la aplicación de las demás medidas a que hubiere lugar.
 
 (Decreto 0079 de 2012, art.9)
 
-ARTÍCULO
-
 ## art:2.11.4.2 — Comisarios de Familia
 
 En cada evento deportivo de carácter profesional, el alcalde dispondrá la presencia de un comisario de familia.
 
 (Decreto 79 de 2012, art.10)
-
-ARTÍCULO
 
 ## art:2.11.4.3 — Disposición de las Sustancias Químicas u Objetos Peligrosos o Contundentes
 
@@ -1806,23 +1542,17 @@ PARTE 12
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.12.1.1 — Objeto
 
 El objeto del presente Decreto es la reglamentación de la Ley 2084 de 2021, mediante la cual se adoptan medidas de prevención y de lucha contra el dopaje en el deporte, en consonancia con lo dispuesto en la Ley 1207 de 2008, el Código Mundial Antidopaje y los Estándares Internacionales formulados por la Agencia Mundial Antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.1.2 — Ámbito de aplicación
 
 El presente Decreto, aplica para los deportistas y miembros de su personal de apoyo, los entrenadores, los dirigentes deportivos, los organismos deportivos y demás entidades que conforman el Sistema Nacional del Deporte.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.1.3 — Interpretación
 
@@ -1831,8 +1561,6 @@ Las palabras empleadas en el presente Decreto han de entenderse en su sentido na
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
 RESPONSABILIDADES DEL MINISTERIO DEL DEPORTE Y LA ORGANIZACIÓN NACIONAL ANTIDOPAJE
-
-ARTÍCULO
 
 ## art:2.12.2.1 — Responsabilidades del Ministerio del Deporte
 
@@ -1845,8 +1573,6 @@ Conforme lo establece la Ley 2084 de 2021, en su artículo 3, el Ministerio del 
 3. Exigir que los organismos deportivos y demás entidades del Sistema Nacional del Deporte, así como los dirigentes, entrenadores, deportistas y su personal de apoyo, cumplan con las normas antidopaje nacionales e internacionales.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.2.2 — Responsabilidades de la Organización Nacional Antidopaje
 
@@ -1870,8 +1596,6 @@ Atendiendo lo dispuesto en el artículo 3 de la Ley 2084 de 2021, la Organizaci�
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.2.3 — Responsabilidades del Comité Olímpico Colombiano y del Comité Paralímpico Colombiano
 
 El Comité Olímpico Colombiano y el Comité Paralímpico Colombiano, deberán:
@@ -1894,8 +1618,6 @@ El Comité Olímpico Colombiano y el Comité Paralímpico Colombiano, deberán:
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.2.4 — Responsabilidades de las Federaciones Deportivas Nacionales
 
 Las Federaciones Deportivas Nacionales, deberán:
@@ -1916,8 +1638,6 @@ Las Federaciones Deportivas Nacionales, deberán:
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.2.5 — Responsabilidades de los Deportistas
 
 Los deportistas son responsables de:
@@ -1936,15 +1656,11 @@ Los deportistas son responsables de:
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.2.6 — Cumplimiento de la normatividad antidopaje
 
 Todos los deportistas y su personal de apoyo en condición de entrenador, preparador físico, director, médico o quien ejerza cualquier otra tarea o función dentro del proceso de preparación y/o participación, será responsable de cumplir a cabalidad con todas las disposiciones contenidas en el Código Mundial Antidopaje o la norma que lo modifique, adicione o sustituya. Cualquier infracción de las normas antidopaje acarreará sanciones por parte del Tribunal Disciplinario Antidopaje atendiendo lo dispuesto en el Código Mundial Antidopaje, el Estándar Internacional de Gestión de Resultados y la Ley 2084 de 2021.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.2.7 — Incorporación
 
@@ -1958,15 +1674,11 @@ CAPITULO I
 
 DEL TRIBUNAL DISCIPLINARIO ANTIDOPAJE
 
-ARTÍCULO
-
 ## art:2.12.3.1 — Tribunal Disciplinario Antidopaje
 
 Con el propósito de eliminar cualquier conflicto de interés y de garantizar la imparcialidad y autonomía en la gestión de resultados, la Ley 2084 de 2021 creó el Tribunal Disciplinario Antidopaje, como un órgano independiente de disciplina en materia antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.3.2 — Competencia del Tribunal Disciplinario Antidopaje
 
@@ -1980,8 +1692,6 @@ CAPITULO II
 
 CONFORMACIÓN E INTEGRACIÓN DEL TRIBUNAL DISCIPLINARIO ANTIDOPAJE
 
-ARTÍCULO
-
 ## art:2.12.3.3 — Conformación del Tribunal Disciplinario Antidopaje
 
 El Tribunal Disciplinario Antidopaje estará conformado por dos (2) salas.
@@ -1994,8 +1704,6 @@ PARÁGRAFO . En el caso de deportistas de nivel internacional, se seguirán las 
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.3.4 — Integración del Tribunal Disciplinario Antidopaje
 
 Cada una de las Salas del Tribunal Disciplinario Antidopaje estará integrada por tres (3) miembros: dos (2) profesionales del derecho y un (1) médico especialista en medicina del deporte, quienes serán designados conjuntamente por los Presidentes del Comité Olímpico Colombiano, Comité Paralímpico Colombiano y la Asociación Colombiana de Medicina del Deporte (AMEDCO), previa convocatoria pública que hagan estos mismos organismos, obedeciendo a criterios de mérito.
@@ -2003,8 +1711,6 @@ Cada una de las Salas del Tribunal Disciplinario Antidopaje estará integrada po
 Los integrantes del Tribunal Disciplinario Antidopaje por el hecho de su designación no adquieren la calidad de servidores públicos.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.3.5 — Convocatoria Pública para la integración del Tribunal Disciplinario Antidopaje
 
@@ -2030,23 +1736,17 @@ PARÁGRAFO 2. Para la integración se deberá tener en cuenta la equidad de gén
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.3.6 — Periodo de los miembros de las Salas
 
 El periodo de cada miembro del Tribunal Disciplinario Antidopaje será de cuatro (4) años, contado a partir de la designación que se le hiciere.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.3.7 — Suplencia de vacancias
 
 La vacancia provisional o definitiva de uno de los miembros del Tribunal Disciplinario Antidopaje será suplida en conjunto por los presidentes del Comité Olímpico Colombiano, el Comité Paralímpico Colombiano y la Asociación Colombiana de Medicina del Deporte (AMEDCO), teniendo en cuenta la respectiva lista de elegibles de la convocatoria efectuada.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.3.8 — Gestión Administrativa
 
@@ -2056,8 +1756,6 @@ La gestión administrativa del Tribunal Disciplinario Antidopaje provendrá de r
 
 GESTIÓN DE RESULTADOS
 
-ARTÍCULO
-
 ## art:2.12.4.1 — Alcance
 
 En materia antidopaje, se entiende por gestión de resultados el procedimiento que debe desarrollarse una vez se tenga conocimiento de una presunta infracción de las normas antidopaje, hasta la resolución final del asunto, atendiendo las disposiciones de la Ley 2084 de 2021, el Código Mundial Antidopaje y los Estándares Internacionales.
@@ -2066,15 +1764,11 @@ De conformidad con las normas antidopaje, la Organización Nacional Antidopaje, 
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.2 — Consultas previas de infracciones a las normas antidopaje
 
 Antes de notificar a un deportista u otra persona de la posible infracción de una norma antidopaje, la Organización Nacional Antidopaje consultará en el sistema ADAMS de la Agencia Mundial Antidopaje (WADA - AMA) y a otras Organizaciones Antidopaje sobre la existencia de alguna infracción anterior de tales normas por parte del presunto infractor, a fin de determinar si es reincidente.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.3 — Indagación preliminar por parte de la Organización Nacional Antidopaje
 
@@ -2083,8 +1777,6 @@ La Organización Nacional Antidopaje de Colombia, será responsable de adelantar
 Para el desarrollo de la indagación preliminar a la que hace referencia el artículo 13 de la Ley 2084 de 2021, la Organización Nacional Antidopaje, revisará toda la información disponible y en aquellos casos en los que sea aplicable, examinará que no exista una desviación aparente de los Estándares Internacionales o una Autorización de Uso Terapéutico.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.4 — Notificaciones de Resultados Analíticos Adversos por parte de la Organización Nacional Antidopaje
 
@@ -2108,23 +1800,17 @@ La notificación debe contener como mínimo los siguientes aspectos:
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.5 — Análisis de la muestra B
 
 Dentro del proceso de indagación preliminar, el deportista tiene derecho a solicitar el análisis de la muestra "B" o, en su defecto, a renunciar al mismo. También tiene derecho asistir a la apertura y análisis de la muestra "B" de acuerdo con el Estándar Internacional para Laboratorios, así como a solicitar copia del paquete documental del análisis de la muestra al Laboratorio de Control al Dopaje. Los costos del análisis de la muestra B y la expedición del paquete documental, deben ser cancelados por el deportista al Laboratorio de Control al Dopaje. Por su parte, conforme lo establece el Estándar Internacional de Gestión de Resultados, la Organización Nacional Antidopaje podrá solicitar el análisis de la muestra "B", incluso si el deportista no lo solicita o renuncia a su derecho.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.6 — 4.6
 
 Incumplimientos de los deportistas incluidos en el Grupo Registrado para Controles de la Organización Nacional Antidopaje. Para que se configure una infracción a las normas antidopaje relacionada con el paradero del deportista, deben registrarse tres (3) incumplimientos de las obligaciones relativas al deber de proporcionar los datos de localización y estar disponible para los controles, dentro de un periodo de doce (12) meses. La Organización Nacional Antidopaje deberá notificar al deportista dentro de los quince (15) días hábiles siguientes a la configuración de la infracción tras el último incumplimiento, e informará a otras Organizaciones Antidopaje de conformidad con el Estándar Internacional de Gestión de Resultados, alegando la infracción de incumplimiento de la localización del deportista, estipulada en el Artículo 2.4 del Código Mundial Antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.7 — Gestión de Resultados del Pasaporte Biológico
 
@@ -2139,8 +1825,6 @@ Después de revisar el paquete de documentación del Pasaporte Biológico del de
 4. Una vez recibidas las explicaciones y la documentación de sustentación, el Panel de Expertos estudiará las pruebas y reevaluará o reafirmará su opinión anterior. Si el Panel de Expertos se reafirma en el Resultado Adverso en el Pasaporte, la Organización Nacional Antidopaje procederá a la notificación de la infracción y subsiguientemente a la formulación de cargos tal y como lo dispone el artículo 14 de la Ley 2084 y el Estándar Internacional de Gestión de Resultados.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.8 — Notificación aplicable en casos de otras violaciones a las normas antidopaje
 
@@ -2160,8 +1844,6 @@ Cuando la Organización Nacional Antidopaje determine que un deportista u otra p
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.9 — Acuerdos de Gestión de Resultados
 
 De conformidad con el Código Mundial Antidopaje y el Estándar Internacional de Gestión de Resultados, el deportista o persona investigada por infringir las normas antidopaje, tiene la oportunidad de admitir ante la Organización Nacional Antidopaje, la comisión de una infracción que conlleve la aplicación de un período de inhabilitación de cuatro (4) años o más y por consiguiente, recibir una reducción de un año en el período de inhabilitación al que hubiese lugar. Esta admisión de la infracción y aceptación del período de inhabilitación declarado, debe tener lugar a más tardar veinte (20) días hábiles después de que el investigado reciba la notificación del cargo por infracción de las normas antidopaje, incluidas las consecuencias aplicables.
@@ -2169,8 +1851,6 @@ De conformidad con el Código Mundial Antidopaje y el Estándar Internacional de
 Si se celebra un Acuerdo de Gestión de Resultados entre el investigado y la Organización Nacional Antidopaje, no se permitirá ninguna reducción adicional del período de inhabilitación declarado bajo ninguna otra regla del Código.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.10 — Acuerdos de Resolución de Casos
 
@@ -2187,8 +1867,6 @@ En ambos casos, el infractor cumplirá al menos la mitad del periodo de inhabili
 Las decisiones que tome la Agencia Mundial Antidopaje (WADA - AMA) y la Organización Nacional Antidopaje respecto a la celebración o no de un acuerdo de resolución del caso, o con relación al grado de reducción del periodo de inhabilitación, o con referencia a la fecha de inicio del periodo de inhabilitación, no son asuntos que deba determinar o revisar el Tribunal Disciplinario Antidopaje y no están sujetos a recurso alguno, en virtud de la ley 2084 de 2021 y del Código Mundial Antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.11 — Formulación de Cargos por parte de la Organización Nacional Antidopaje
 
@@ -2208,15 +1886,11 @@ En la formulación de cargos la Organización Nacional Antidopaje deberá establ
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.12 — Juicio Justo
 
 Después que la Organización Nacional Antidopaje, formule cargos por la comisión de una infracción de las normas antidopaje, el disciplinado, tendrá derecho a una audiencia justa, imparcial, y dentro de un plazo razonable, tal como lo establece el Código Mundial Antidopaje y el Estándar Internacional de Gestión de Resultados, ante el Tribunal Disciplinario Antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.5.4.13 — Procedimiento ante el Tribunal
 
@@ -2242,8 +1916,6 @@ Dentro de su procedimiento el Tribunal Disciplinario Antidopaje, sin perjuicio d
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.14 — Derechos del Disciplinado
 
 El disciplinado tendrá la oportunidad de ejercer su derecho de contradicción frente a las pruebas, pudiendo indicar qué pruebas acepta y cuáles no. Igualmente, la Organización Nacional Antidopaje respecto a las pruebas presentadas por el disciplinado. Las pruebas que no sean cuestionadas serán presentadas al Tribunal Disciplinario Antidopaje como pruebas no sujetas a oposición.
@@ -2252,15 +1924,11 @@ PARÁGRAFO : El disciplinado y la Organización Nacional Antidopaje, podrán int
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.15 — Decisión
 
 Finalizada la práctica de pruebas en la audiencia, cada una de las partes presentará sus argumentos finales donde se referirá a los aspectos tratados que considere relevantes, para la decisión final. El fallo deberá ser adoptado en el plazo señalado en el artículo 18 de la Ley 2084 de 2021. Las partes no presentes en la audiencia serán notificadas conforme al Código Mundial Antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.16 — Contenido de las decisiones del Tribunal Disciplinario Antidopaje
 
@@ -2282,8 +1950,6 @@ Las decisiones deben incluir como mínimo los siguientes aspectos:
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.17 — Inicio del periodo sancionatorio y anulación de resultados
 
 Una vez fijada la sanción, el Tribunal Disciplinario Antidopaje indicará la fecha en que se iniciará el periodo de inhabilitación del disciplinado. Si la fecha de inicio no es la fecha de decisión, se explicará el motivo de ello. El Tribunal Disciplinario Antidopaje también está obligado a indicar el correspondiente periodo de anulación de los resultados, conforme a lo contemplado en el Código Mundial Antidopaje.
@@ -2292,23 +1958,17 @@ Teniendo en cuenta que la Agencia Mundial Antidopaje (WADA - AMA) tiene derecho 
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.18 — Apelación
 
 Adoptada una decisión motivada por el Tribunal Disciplinario Antidopaje, la Organización Nacional Antidopaje se asegurará de que sea notificada de forma oportuna a las partes con derecho de apelación de acuerdo con lo dispuesto en la Ley 2084 de 2021, el Código Mundial Antidopaje y el Estándar Internacional de Gestión de Resultados.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.4.19 — Plazos de Apelación
 
 El recurso de apelación por parte de la Agencia Mundial Antidopaje, las Federaciones Internacionales, el Comité Olímpico Internacional, el Comité Paralímpico Internacional y otras Organizaciones Antidopaje cuando sea aplicable, debe presentarse dentro de los términos y formas dispuestas en el Código Mundial Antidopaje.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.4.20 — Reconocimiento de las decisiones
 
@@ -2322,8 +1982,6 @@ CAPITULO I
 
 PROCESO DE TOMA DE MUESTRA.
 
-ARTÍCULO
-
 ## art:2.12.5.1 — Actividades de la Organización Nacional Antidopaje en materia de control al dopaje
 
 En cumplimiento del Código Mundial Antidopaje y del Estándar Internacional para Controles e Investigaciones de la Agencia Mundial Antidopaje, la Organización Nacional Antidopaje deberá:
@@ -2336,8 +1994,6 @@ En cumplimiento del Código Mundial Antidopaje y del Estándar Internacional par
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.5.2 — Proceso de Toma de Muestras
 
 El proceso de toma de muestras puede constituir y aportar medios probatorios ante el Tribunal Disciplinario Antidopaje, y abarca, la planificación de los controles, la designación de los Oficiales de Control Dopaje, la selección y notificación de los deportistas a controlar, la recolección de las muestras, el transporte y la entrega de las mismas al laboratorio acreditado por la Agencia Mundial Antidopaje (WADA - AMA).
@@ -2348,8 +2004,6 @@ Las muestras recogidas durante los procesos de toma serán analizadas de conform
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.5.3 — Autoridad de Toma de Muestra
 
 Todos los deportistas estarán sujetos a controles dentro y fuera de competencia por parte de la Organización Nacional Antidopaje, de la Federación Deportiva Internacional respectiva, de la Agencia Mundial Antidopaje (WADA -AMA) o de las demás organizaciones antidopaje definidas en el artículo segundo, numeral dos de la Convención Internacional contra el Dopaje en el Deporte.
@@ -2357,8 +2011,6 @@ Todos los deportistas estarán sujetos a controles dentro y fuera de competencia
 Los deportistas que se encuentren en periodo de suspensión, conforme lo dispone el Código Mundial Antidopaje, también estarán sujetos a controles fuera de competencia por parte de las mencionadas organizaciones.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.5.4 — Oficiales de Control Dopaje
 
@@ -2372,15 +2024,11 @@ En el evento en que el Oficial de Control Dopaje, evidencie la ocurrencia de una
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.5.5 — Prohibición
 
 Ningún Oficial de Control Antidopaje, ni el personal técnico de control, podrá incurrir en conflicto de intereses, ni tener vínculos familiares dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil; como tampoco, tener vínculos profesionales o laborales con los deportistas a controlar, ni con los organismos deportivos a los que dichos deportistas pertenezcan, ni con dirigentes, personal técnico, médico o administrativo, con los que este tenga relación.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.5.6 — Material de Toma de Muestra
 
@@ -2391,8 +2039,6 @@ El material utilizado para la recolección de las muestras será seleccionado po
 CAPITULO II
 
 AUTORIZACIONES DE USO TERAPÉUTICO Y LISTA DE PROHIBICIONES
-
-ARTÍCULO
 
 ## art:2.12.5.7 — Actividades de la Organización Nacional Antidopaje en materia de Autorizaciones de Uso Terapéutico
 
@@ -2406,8 +2052,6 @@ En todo caso la solicitud, estudio y concesión de una autorización de uso tera
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
 
-ARTÍCULO
-
 ## art:2.12.5.8 — Lista de Prohibiciones
 
 La Lista de Prohibiciones es el Estándar Internacional que forma parte de la Convención Internacional contra el Dopaje en el Deporte y en el que se identifican las sustancias y métodos prohibidos en el deporte.
@@ -2418,8 +2062,6 @@ La Organización Nacional Antidopaje del Ministerio del Deporte, publicará anua
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.12.6.1 — Educación y Prevención
 
 La Organización Nacional Antidopaje del Ministerio del Deporte, adelantará programas de educación y prevención para deportistas y su personal de apoyo, con el propósito de informar sobre los perjuicios del dopaje en su salud y la preservación de los principios que enmarcan el deporte.
@@ -2427,8 +2069,6 @@ La Organización Nacional Antidopaje del Ministerio del Deporte, adelantará pro
 Los programas de educación y prevención que se adelanten deberán atender lo dispuesto en el Estándar Internacional de Educación formulado por la Agencia Mundial Antidopaje (WADA - AMA) y contarán con el apoyo y colaboración de los organismos deportivos, los institutos de deporte o dependencias que hagan sus veces y las demás instituciones que integran el Sistema Nacional del Deporte.
 
 (Sustituido por el Art. 1 del Decreto 1648 de 2021)
-
-ARTÍCULO
 
 ## art:2.12.6.2 — Cumplimiento de la Normatividad
 
@@ -2446,15 +2086,11 @@ EVENTOS Y CELEBRACIONES RELACIONADAS CON EL DEPORTE, LA RECREACIÓN, LA ACTIVIDA
 
 TÍTULO 1
 
-ARTÍCULO
-
 ## art:2.13.1.1 — 1.1
 
 Día Internacional del Deporte para el Desarrollo y la Paz y Día Mundial de la Actividad Física Declárese el 6 de abril de todos los años como fecha de celebración del "Día Internacional del Deporte para el Desarrollo y la Paz", y del "Día Mundial de la Actividad Física".
 
 (Decreto 642 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.1.2 — Preservación del Día Internacional del Deporte para el Desarrollo y la Paz y del Día Mundial de la Actividad Física
 
@@ -2463,8 +2099,6 @@ Invítese al Sistema Nacional del Deporte, a los entes deportivos departamentale
 PARÁGRAFO . Con ocasión de la celebración del Día Internacional del Deporte para el Desarrollo y la Paz, en todos los eventos deportivos que se realicen en el territorio nacional durante el mes de abril, se invitará a los organizadores y a los deportistas para que, previo a la celebración del evento, realicen un acto simbólico en nombre de la paz.
 
 (Decreto 642 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.13.1.3 — Acciones pertinentes a cargo de Coldeportes
 
@@ -3507,8 +3141,6 @@ PARTE 1
 
 VIGENCIA Y DEROGATORIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector Administrativo del Deporte que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -3521,8 +3153,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -3534,91 +3164,3 @@ Dado en Bogotá, D.C., a los 26 días del mes de mayo del año 2015
 ANDRES BOTERO PHILLIPSBOURNE.
 
 DIRECTOR DEL DEPARTAMENTO ADMIISTRATIVO DE DEL DEPORTE, LA RECREACIÓN, LA ACTIVIDAD FÍSICA Y EL APROVECHAMIENTO DEL TIEMPO LIBRE - COLDEPORTE
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

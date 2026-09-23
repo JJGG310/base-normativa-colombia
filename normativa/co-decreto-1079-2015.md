@@ -7,7 +7,7 @@ ramas: [transporte, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77889
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Ministerio de Transporte
@@ -20,15 +20,11 @@ TÍTULO 2
 
 FONDOS
 
-ARTÍCULO
-
 ## art:1.1.2.1 — 2.1
 
 Fondo Nacional para la Reposición y Renovación del Parque Automotor del Servicio Público de Transporte Terrestre de Pasajeros. Es un ente con personería jurídica, de naturaleza mixta, que en lo no previsto en el Decreto 1485 de 2002 se regirá por las normas del derecho privado, cuyo objeto es atender los requerimientos económicos y financieros para la reposición y renovación del parque automotor de los vehículos de servicio de transporte público colectivo terrestre de pasajeros con radio de acción metropolitano y/o urbano.
 
 (Decreto 1485 de 2002, artículo 1).
-
-ARTÍCULO
 
 ## art:1.1.2.2 — Fondo Nacional de Seguridad Vial
 
@@ -46,15 +42,11 @@ TÍTULO 3
 
 ÓRGANOS SECTORIALES DE ASESORÍA Y COORDINACIÓN
 
-ARTÍCULO
-
 ## art:1.1.3.1 — Consejo Consultivo de Transporte
 
 Tendrá el carácter de cuerpo asesor del Ministerio de Transporte, bajo la directa dependencia y orientación del Ministerio del ramo. Entre sus funciones, está asesorar al Ministro de Transporte en la definición de las políticas generales sobre el transporte y tránsito, así como en los planes, programas y proyectos que le correspondan conforme a los lineamientos que señalan las disposiciones pertinentes.
 
 (Decreto 2172 de 1997, artículos 1 y 4, literal a.).
-
-ARTÍCULO
 
 ## art:1.1.3.2 — Consejo consultivo de terminales de transporte
 
@@ -62,15 +54,11 @@ Es un organismo asesor y consultor del Ministerio de Transporte, el cual tiene e
 
 (Decreto 2762 de 2001, artículo 21).
 
-ARTÍCULO
-
 ## art:1.1.3.3 — Consejo consultivo de seguridad vial
 
 Su función es la de informar los planes y las estrategias de seguridad vial, proponer acciones, debatir propuestas y lograr el compromiso y alineamiento con los sectores público-privados en los objetivos y estrategias nacionales de seguridad vial.
 
 (Ley 1702 de 2013, artículo 15).
-
-ARTÍCULO
 
 ## art:1.1.3.4 — Comisión intersectorial de corredores logísticos
 
@@ -78,23 +66,17 @@ Es un organismo encargado de analizar la reglamentación para el flujo de carga 
 
 (Decreto 1478 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:1.1.3.5 — Comisión Intersectorial de Seguridad Aeroportuaria
 
 Es un organismo, el cual tiene entre sus funciones la formulación de políticas, principios, métodos, procedimientos y medidas generales en materia de seguridad aeroportuaria.
 
 (Decreto 1400 de 2002, artículo 2, parágrafo).
 
-ARTÍCULO
-
 ## art:1.1.3.6 — Comité de Coordinación permanente entre el Ministerio de Transporte y la Dirección General Marítima, DIMAR
 
 Es el organismo integrado por funcionarios del Ministerio de Transporte y la Dirección General Marítima del Ministerio de Defensa Nacional, bajo la directa dependencia y orientación del Ministerio de Transporte, que tiene entre sus funciones revisar los diferentes temas que sobre transporte marítimo se presenten.
 
 (Decreto 804 de 2001, artículos 2 y 58).
-
-ARTÍCULO
 
 ## art:1.1.3.7 — Comisión Intersectorial para los proyectos de infraestructura de transporte
 
@@ -116,15 +98,11 @@ TÍTULO 1
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Instituto Nacional de Vías - INVIAS
 
 Tiene por objeto la ejecución de las políticas, estrategias, planes, programas y proyectos de la infraestructura no concesionada de la Red Vial Nacional de carreteras primaria y terciaria, férrea, fluvial y de la infraestructura marítima, de acuerdo con los lineamientos dados por el Ministerio de Transporte.
 
 (Decreto 2618 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Agencia Nacional de Infraestructura
 
@@ -132,15 +110,11 @@ Tiene por objeto planear, coordinar, estructurar, contratar, ejecutar, administr
 
 (Decreto 4165 de 2011, artículo 3).
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Aeronáutica Civil - Aerocivil
 
 Tiene como objetivo garantizar el desarrollo de la aviación civil y de la administración del espacio aéreo en condiciones de seguridad y eficiencia, en concordancia con las políticas, planes y programas gubernamentales en materia económico-social y de relaciones internacionales.
 
 (Decreto 260 de 2004, artículo 3).
-
-ARTÍCULO
 
 ## art:1.2.1.4 — Superintendencia de Puertos y Transporte
 
@@ -148,23 +122,17 @@ Tiene por objeto ejercer las funciones de inspección, control y vigilancia que 
 
 (Decreto 1016 de 2000, artículo 3).
 
-ARTÍCULO
-
 ## art:1.2.1.5 — Agencia Nacional de Seguridad Vial - ANSV
 
 Tiene por objeto la planificación, articulación y gestión de la seguridad vial del país. Será el soporte institucional y de coordinación para la ejecución, el seguimiento y el control de las estrategias, los planes y las acciones dirigidos a dar cumplimiento a los objetivos de las políticas de seguridad vial del Gobierno Nacional en todo el territorio nacional.
 
 (Ley 1702 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:1.2.1.6 — Unidad de Planeación de Infraestructura de Transporte - UPIT
 
 Tiene por objeto planear el desarrollo de la infraestructura de transporte de manera integral, indicativa, permanente y coordinada con los agentes del sector transporte, para promover la competitividad, conectividad, movilidad y desarrollo en el territorio nacional en materia de infraestructura de transporte, así como consolidar y divulgar la información requerida para la formulación de política en materia de infraestructura de transporte.
 
 (Decreto 946 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:1.2.1.7 — Comisión de Regulación de Infraestructura y Transporte - CRIT
 
@@ -184,13 +152,9 @@ TÍTULO 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este Decreto es compilar la normatividad expedida por el Gobierno Nacional en ejercicio de las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política, para la cumplida ejecución de las leyes del sector transporte.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de aplicación
 
@@ -199,8 +163,6 @@ El presente Decreto aplica a las entidades del sector transporte y rige en todo 
 TÍTULO 2
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.1.2.1 — Definiciones generales
 
@@ -223,8 +185,6 @@ REGLAMENTACIONES EN MATERIA DE TRANSPORTE
 TÍTULO 1
 
 TRANSPORTE TERRESTRE AUTOMOTOR
-
-ARTÍCULO
 
 ## art:2.2.1.1 — Definiciones para el transporte terrestre automotor
 
@@ -260,8 +220,6 @@ Para la interpretación y aplicación del presente Título se tendrán en cuenta
 
 (Decretos 170, 171, 172, 173 y 175 de 2001, artículo 7 y Decreto 348 de 2015, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.2 — Homologación
 
 De conformidad con el artículo 137del Decreto 2150 de 1995, el Ministerio de Transporte sólo hará la homologación para los vehículos importados, ensamblados o producidos en el país, que estén destinados al servicio público de transporte de pasajeros, de carga y/o mixto, igualmente para los destinados al servicio particular o privado de carga.
@@ -272,15 +230,11 @@ CAPÍTULO 1
 
 Servicio Público de Transporte Terrestre Automotor Colectivo Metropolitano, Distrital y Municipal de Pasajeros
 
-ARTÍCULO
-
 ## art:2.2.1.1.1 — Objeto y principios
 
 El presente Capítulo tiene como objeto reglamentar la habilitación de las Empresas de Transporte Público Colectivo Terrestre Automotor de Pasajeros del radio de acción Metropolitano, Distrital y/o Municipal y la prestación por parte de éstas, de un servicio eficiente, seguro, oportuno y económico, bajo los criterios básicos de cumplimiento de los principios rectores del transporte, como el de la libre competencia y el de la iniciativa privada, a las cuales solamente se aplicarán las restricciones establecidas por la ley y los Convenios Internacionales.
 
 (Decreto 170 de 2001, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.1.2 — Ámbito de aplicación
 
@@ -288,15 +242,11 @@ Las disposiciones contenidas en el presente Capítulo se aplicarán integralment
 
 (Decreto 170 de 2001, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.1.1.3 — Servicio público de transporte terrestre automotor colectivo de pasajeros
 
 Es aquel que se presta bajo la responsabilidad de una empresa de transporte legalmente constituida y debidamente habilitada en ésta modalidad, a través de un contrato celebrado entre la empresa y cada una de las personas que han de utilizar el vehículo de servicio público a esta vinculado, para recorrer total o parcialmente una o más rutas legalmente autorizadas.
 
 (Decreto 170 de 2001, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.1.4 — Definiciones
 
@@ -318,8 +268,6 @@ SECCIÓN 1
 
 Clasificación
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.1 — Clasificación
 
 Para los efectos previstos en este Capítulo la actividad transportadora del radio de acción Metropolitano, Distrital y Municipal se clasifica:
@@ -340,8 +288,6 @@ b) Distrital y Municipal. Es el que se presta dentro de la jurisdicción de un d
 
 (Decreto 170 de 2001, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.2 — Servicio regulado
 
 La prestación del servicio de transporte metropolitano distrital y/o municipal será de carácter regulado. La autoridad competente definirá previamente las condiciones de prestación del servicio conforme a las reglas señaladas en este Capítulo.
@@ -351,8 +297,6 @@ La prestación del servicio de transporte metropolitano distrital y/o municipal 
 SECCIÓN 2
 
 Autoridades competentes
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.1 — Autoridades de transporte
 
@@ -370,8 +314,6 @@ Las autoridades de transporte metropolitanas, municipales y/o distritales, no po
 
 (Decreto 170 de 2001, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2 — Control y vigilancia
 
 La inspección, vigilancia y control de la prestación del servicio estará a cargo de los alcaldes metropolitanos, distritales y/o municipales según el caso, o de las autoridades a las que se les haya encomendado la función.
@@ -382,8 +324,6 @@ SECCIÓN 3
 
 Habilitación
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.1 — Habilitación
 
 Las empresas legalmente constituidas, interesadas en prestar el Servicio Público de Transporte Terrestre Colectivo de Pasajeros en el radio de acción Metropolitano, Distrital y Municipal deberán solicitar y obtener habilitación para operar.
@@ -392,15 +332,11 @@ La habilitación concedida autoriza a la empresa para prestar el servicio solame
 
 (Decreto 170 de 2001, artículo 12).
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.2 — Empresas nuevas
 
 Ninguna empresa nueva podrá entrar a operar hasta tanto la autoridad competente además de otorgarle la habilitación, le asigne las rutas y frecuencias a servir. Cuando las autoridades de control y vigilancia constaten la prestación del servicio sin autorización, tanto la habilitación como los servicios se negarán y no podrá presentarse nueva solicitud antes de doce (12) meses.
 
 (Decreto 170 de 2001, artículo 13).
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.3 — Requisitos
 
@@ -466,8 +402,6 @@ PARÁGRAFO 2. Las empresas nuevas deberán acreditar los requisitos establecidos
 
 (Decreto 170 de 2001, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.4 — Plazo para decidir
 
 Presentada la solicitud de habilitación, la autoridad de transporte competente dispondrá de un término no superior a noventa (90) días hábiles para decidir.
@@ -475,8 +409,6 @@ Presentada la solicitud de habilitación, la autoridad de transporte competente 
 La habilitación se concederá o negará mediante resolución motivada en la que se especificará como mínimo el nombre, razón social o denominación, domicilio principal, capital pagado patrimonio líquido, radio de acción y modalidad de servicio.
 
 (Decreto 170 de 2001, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.5 — Vigencia de la habilitación
 
@@ -488,15 +420,11 @@ PARÁGRAFO . En todos aquellos casos de transformación, fusión, absorción, o 
 
 (Decreto 170 de 2001, artículo 17).
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.6 — Suministro de información
 
 Las empresas deberán tener permanentemente a disposición de la autoridad de transporte competente las estadísticas, libros y demás documentos que permitan verificar la información suministrada.
 
 (Decreto 170 de 2001, artículo 18).
-
-ARTÍCULO
 
 ## art:2.2.1.1.3.7 — Empresas Habilitadas en vigencia de los Decretos 091 y 1558 de 1998
 
@@ -507,8 +435,6 @@ Las empresas que obtuvieron habilitación en vigencia de los Decretos 091 y 1558
 SECCIÓN 4
 
 Seguros
-
-ARTÍCULO
 
 ## art:2.2.1.1.4.1 — Pólizas
 
@@ -538,8 +464,6 @@ El monto asegurable por cada riesgo no podrá ser inferior a 60 SMMLV, por perso
 
 (Decreto 170 de 2001, artículo 19).
 
-ARTÍCULO
-
 ## art:2.2.1.1.4.2 — Vigencia de los seguros
 
 La vigencia de los seguros contemplados en este Capítulo, será condición para la operación de los vehículos legalmente vinculados a las empresas autorizadas para la prestación del servicio en esta modalidad de transporte.
@@ -548,15 +472,11 @@ La compañía de seguros que ampare a la empresa con relación a los seguros de 
 
 (Decreto 170 de 2001, artículo 21).
 
-ARTÍCULO
-
 ## art:2.2.1.1.4.3 — Fondos de responsabilidad
 
 Sin perjuicio de la obligación de obtener y mantener vigentes las pólizas de seguros señaladas en el presente Capítulo, las empresas de transporte podrán constituir fondos de responsabilidad como mecanismo complementario para cubrir los riesgos derivados de la prestación del servicio, cuyo funcionamiento, administración, vigilancia y control lo ejercerá la Superintendencia Financiera o la entidad de inspección y vigilancia que sea competente según la naturaleza jurídica del fondo.
 
 (Decreto 170 de 2001, artículo 22).
-
-ARTÍCULO
 
 ## art:2.2.1.1.4.4 — Obligatoriedad de los seguros
 
@@ -568,15 +488,11 @@ SECCIÓN 5
 
 Prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.1 — Radio de acción
 
 El radio de acción de las empresas que se habiliten en virtud de esta disposición será de carácter Metropolitano, Distrital o Municipal según el caso. La autoridad competente adjudicará los servicios de transporte únicamente dentro del territorio de la respectiva jurisdicción.
 
 (Decreto 170 de 2001, artículo 23).
-
-ARTÍCULO
 
 ## art:2.2.1.1.5.2 — Prestación del servicio
 
@@ -586,8 +502,6 @@ PARÁGRAFO . El permiso para prestar el servicio público de transporte es revoc
 
 (Decreto 170 de 2001, artículo 24).
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.3 — Autorización de nuevos servicios
 
 A partir del 5 de febrero de 2001 las rutas y frecuencias a servir se adjudicarán por un término no mayor de cinco (5) años. En los términos de referencia del concurso se establecerán objetivos de calidad y excelencia en el servicio, que en caso de ser cumplidos por la empresa le permitan prorrogar de manera automática y por una sola vez el permiso hasta por el término inicialmente adjudicado.
@@ -596,15 +510,11 @@ Los objetivos de calidad y excelencia estarán determinados por parámetros como
 
 (Decreto 170 de 2001, artículo 25).
 
-ARTÍCULO
-
 ## art:2.2.1.1.5.4 — Licitación pública
 
 La autorización para la prestación del servicio público de transporte colectivo de pasajeros del radio de acción metropolitano, distrital y municipal en una ruta o sistema de rutas será el resultado de una licitación pública, en la que se garantice la libre concurrencia y la iniciativa privada para la creación de nuevas empresas.
 
 (Decreto 170 de 2001, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.1.1.5.5 — Determinación de las necesidades de movilización
 
@@ -615,8 +525,6 @@ Para el efecto se deben adelantar los estudios que determinen la demanda de movi
 Cuando los estudios no los adelante la Autoridad de Transporte Competente serán elaborados por Universidades, Centros de Consulta del Gobierno Nacional y Consultores Especializados en el Área de Transporte, que cumplan los requisitos señalados para el efecto por la Comisión de Regulación de Infraestructura y Transporte.
 
 (Decreto 170 de 2001, artículo 27).
-
-ARTÍCULO
 
 ## art:2.2.1.1.5.6 — Reposición vehículos de transporte colectivo y/o mixto
 
@@ -630,8 +538,6 @@ SECCIÓN 6
 
 Procedimiento para la adjudicación de rutas y frecuencias en el servicio básico
 
-ARTÍCULO
-
 ## art:2.2.1.1.6.1 — Apertura de la licitación
 
 Determinadas las necesidades de nuevos servicios de movilización, la autoridad de transporte competente ordenará iniciar el trámite licitatorio, el cual deberá estar precedido del estudio y de los términos de referencia correspondientes.
@@ -642,8 +548,6 @@ Los términos de referencia deberán establecer un plazo de duración del permis
 
 (Decreto 170 de 2001, artículo 28).
 
-ARTÍCULO
-
 ## art:2.2.1.1.6.2 — Evaluación de las propuestas
 
 La evaluación de las propuestas se hará en forma integral y comparativa, teniendo en cuenta los factores de calificación que para el efecto señale la Comisión de Regulación de Infraestructura y Transporte.
@@ -651,8 +555,6 @@ La evaluación de las propuestas se hará en forma integral y comparativa, tenie
 De acuerdo con la Ley 79 de 1988, se estimulará la constitución de cooperativas que tengan por objeto la prestación del Servicio Público de Transporte, las cuales tendrán prelación en la asignación de servicios cuando se encuentren en igualdad de condiciones con otras empresas interesadas.
 
 (Decreto 170 de 2001, artículo 29).
-
-ARTÍCULO
 
 ## art:2.2.1.1.6.3 — Procedimiento
 
@@ -788,8 +690,6 @@ Regulación de Infraestructura y Transporte.
 
 (Decreto 170 de 2001, artículo 30).
 
-ARTÍCULO
-
 ## art:2.2.1.1.6.4 — Servicio de lujo
 
 La autoridad Metropolitana, Distrital o Municipal correspondiente definirá las condiciones de servicio del nivel de lujo que requiera en su jurisdicción y someterá su adjudicación a la celebración de un contrato de concesión.
@@ -800,8 +700,6 @@ SECCIÓN 7
 
 Alternativas de acceso al servicio
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.1 — Modificación de ruta
 
 Las empresas de transporte que tengan autorizada una ruta podrán solicitar la modificación de la misma por una sola vez, pero en ningún caso la longitud y recorrido de la ruta modificada podrá tener alteración de más del 10% sobre la ruta original, ya sea por exceso o por defecto y no podrá desplazarse más de un terminal. La autoridad Metropolitana, Distrital y Municipal juzgará la conveniencia de autorizarlo.
@@ -809,8 +707,6 @@ Las empresas de transporte que tengan autorizada una ruta podrán solicitar la m
 La modificación solicitada deberá estar sustentada en un estudio técnico que justifique la necesidad de atender una demanda de usuarios insatisfecha.
 
 (Decreto 170 de 2001, artículo 32).
-
-ARTÍCULO
 
 ## art:2.2.1.1.7.2 — Cambio de nivel de servicio
 
@@ -822,8 +718,6 @@ La oposición deberá sustentarse técnica y/o jurídicamente dentro de los cinc
 
 (Decreto 170 de 2001, artículo 33).
 
-ARTÍCULO
-
 ## art:2.2.1.1.7.3 — Reestructuración del servicio
 
 La autoridad competente podrá en cualquier tiempo, cuando las necesidades de los usuarios lo exijan, reestructurar oficiosamente el servicio, el cual se sustentará con un estudio técnico en condiciones normales de demanda.
@@ -834,8 +728,6 @@ SECCIÓN 8
 
 Alternativas en la operación y en la prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.1 — Ruta de influencia
 
 Es aquella que comunica municipios contiguos sujetos a una influencia recíproca del orden poblacional, social y económica, que no hacen parte de un área metropolitana definida por la ley, requiriendo que las características de prestación del servicio, los equipos y las tarifas sean semejantes a los del servicio urbano.
@@ -843,8 +735,6 @@ Es aquella que comunica municipios contiguos sujetos a una influencia recíproca
 Su determinación estará a cargo del Ministerio de Transporte, previa solicitud conjunta de las autoridades locales en materia de transporte de los municipios involucrados, quienes propondrán una decisión integral de transporte en cuanto a las características de prestación del servicio, de los equipos y el esquema para la fijación de tarifas.
 
 (Decreto 170 de 2001, artículo 35).
-
-ARTÍCULO
 
 ## art:2.2.1.1.8.2 — Convenios de colaboración empresarial
 
@@ -858,8 +748,6 @@ PARÁGRAFO . En caso de disolución de la unión empresarial, cada empresa conti
 
 (Decreto 170 de 2001, artículo 36).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.3 — Autorización a propietarios
 
 La autoridad de transporte competente podrá autorizar hasta por el término de seis (6) meses a los propietarios de los vehículos vinculados a una empresa cuya habilitación haya sido cancelada o que con licencia de funcionamiento prorrogada no obtuvieron habilitación, para seguir prestando el servicio público de transporte en las rutas autorizadas a la empresa.
@@ -872,23 +760,17 @@ Cuando los nuevos servicios de transporte sean adjudicados mediante un Contrato 
 
 (Decreto 170 de 2001, artículo 37).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.4 — Corredores complementarios
 
 Para satisfacer demandas de transporte entre las veintidós (22:00) horas y las 05:00 horas, la autoridad competente podrá diseñar y autorizar corredores complementarios de transporte y someterá su otorgamiento a la expedición de un permiso o a la celebración de un contrato de concesión según el caso.
 
 (Decreto 170 de 2001, artículo 38).
 
-ARTÍCULO
-
 ## art:2.2.1.1.8.5 — Prohibición de habilitar empresas de transporte con vehículos particulares
 
 Las autoridades metropolitanas, distritales y/o municipales competentes no podrán habilitar bajo ninguna circunstancia empresas de transporte con vehículos particulares.
 
 (Decreto 170 de 2001, artículo 39).
-
-ARTÍCULO
 
 ## art:2.2.1.1.8.6 — Abandono de rutas
 
@@ -897,8 +779,6 @@ Se considera abandonada una ruta cuando se disminuye injustificadamente el servi
 Cuando se compruebe que la empresa de transporte abandona una ruta adjudicada, durante treinta (30) días consecutivos, la autoridad de transporte competente revocará el permiso, reducirá la capacidad transportadora autorizada y procederá a la apertura de la licitación pública correspondiente.
 
 (Decreto 170 de 2001, artículo 40).
-
-ARTÍCULO
 
 ## art:2.2.1.1.8.7 — Desistimiento de servicios
 
@@ -911,8 +791,6 @@ Decretada la vacancia, la autoridad competente juzgará la conveniencia o inconv
 SECCIÓN 9
 
 Capacidad transportadora
-
-ARTÍCULO
 
 ## art:2.2.1.1.9.1 — Definición
 
@@ -928,8 +806,6 @@ En aquellas ciudades donde se encuentre suspendido el ingreso de vehículos por 
 
 (Decreto 170 de 2001, artículo 42).
 
-ARTÍCULO
-
 ## art:2.2.1.1.9.2 — Fijación de capacidad transportadora
 
 La autoridad competente fijará la capacidad transportadora mínima y máxima con la cual la empresa prestará los servicios autorizados.
@@ -941,8 +817,6 @@ El parque automotor no podrá estar por fuera de los límites de la capacidad tr
 Para la fijación de nueva capacidad transportadora mínima, por el otorgamiento de servicios se requerirá la revisión integral del plan de rodamiento a fin de determinar si se requiere el incremento.
 
 (Decreto 170 de 2001, artículo 43).
-
-ARTÍCULO
 
 ## art:2.2.1.1.9.3 — Racionalización
 
@@ -964,8 +838,6 @@ Del grupo A al grupo 8 o del grupo B al grupo C, es decir en forma ascendente, s
 
 (Decreto 170 de 2001, artículo 44)
 
-ARTÍCULO
-
 ## art:2.2.1.1.9.4 — Unificación automática
 
 Las rutas autorizadas con anterioridad al 5 de febrero de 2001, podrán unificar la clase de vehículo autorizado en cada una de las rutas asignadas de acuerdo con los grupos señalados, así:
@@ -982,23 +854,17 @@ SECCIÓN 10
 
 Vinculación y desvinculación de equipos
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.1 — Equipos
 
 Las empresas habilitadas para la prestación del servicio público de Transporte Público Colectivo, Terrestre Automotor de Pasajeros del radio de acción Metropolitano, Distrital y/o Municipal sólo podrán hacerlo con equipos registrados para dicho servicio.
 
 (Decreto 170 de 2001, artículo 46).
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.2 — Vinculación
 
 La vinculación de un vehículo a una empresa de transporte público es la incorporación de este al parque automotor de dicha empresa. Se formaliza con la celebración del respectivo contrato entre el propietario del vehículo y la empresa y se oficializa con la expedición de la tarjeta de operación por parte de la autoridad de transporte competente.
 
 (Decreto 170 de 2001, artículo 47).
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.3 — Contrato de vinculación
 
@@ -1012,15 +878,11 @@ Los vehículos que sean de propiedad de la empresa habilitada, se entenderán vi
 
 (Decreto 170 de 2001, artículo 48).
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.4 — Desvinculación de común acuerdo
 
 Cuando exista acuerdo para la desvinculación del vehículo, la empresa y el propietario o poseedor del vehículo, en forma conjunta, informarán por escrito a la autoridad competente y esta procederá a efectuar el trámite correspondiente desvinculando el vehículo y cancelando la respectiva tarjeta de operación.
 
 (Decreto 170 de 2001, artículo 49).
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.5 — Desvinculación administrativa por solicitud del propietario
 
@@ -1035,8 +897,6 @@ Vencido el contrato de vinculación, cuando no exista acuerdo entre las partes p
 PARÁGRAFO . El propietario interesado en la desvinculación de un vehículo de una empresa de transporte, no podrá prestar sus servicios en otra empresa hasta tanto no le haya sido autorizada.
 
 (Decreto 170 de 2001, artículo 50).
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.6 — Desvinculación administrativa por solicitud de la empresa
 
@@ -1060,8 +920,6 @@ Si en ese plazo no sustituye el vehículo, se procederá a ajustar la capacidad 
 
 (Decreto 170 de 2001, artículo 51).
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.7 — Procedimiento
 
 Para efectos de la desvinculación administrativa establecida en los artículos anteriores, se deberá observar el siguiente procedimiento:
@@ -1076,8 +934,6 @@ La Resolución que ordena la desvinculación del automotor reemplazará el paz y
 
 (Decreto 170 de 2001, artículo 52).
 
-ARTÍCULO
-
 ## art:2.2.1.1.10.8 — Pérdida, hurto o destrucción total de un vehículo
 
 En el evento de pérdida, hurto o destrucción del vehículo, su propietario tendrá derecho a remplazarlo por otro, bajo el mismo contrato de vinculación dentro del término de un (1) año contado a partir de la fecha en que ocurrió el hecho. Si el contrato de vinculación vence antes de este término, se entenderá prorrogado hasta el cumplimiento del año.
@@ -1085,8 +941,6 @@ En el evento de pérdida, hurto o destrucción del vehículo, su propietario ten
 En el entretanto y para efectos de la capacidad mínima exigida a la empresa, no se tendrá en cuenta este vehículo.
 
 (Decreto 170 de 2001, artículo 53).
-
-ARTÍCULO
 
 ## art:2.2.1.1.10.9 — Cambio de empresa
 
@@ -1100,15 +954,11 @@ SECCIÓN 11
 
 Tarjeta de operación
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.1 — Definición
 
 La tarjeta de operación es el documento único que autoriza a un vehículo automotor para prestar el servicio público de transporte de pasajeros bajo la responsabilidad de una empresa de transporte, de acuerdo con los servicios autorizados.
 
 (Decreto 170 de 2001, artículo 55).
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.2 — Expedición
 
@@ -1116,15 +966,11 @@ La autoridad de transporte competente expedirá la tarjeta de operación únicam
 
 (Decreto 170 de 2001, artículo 56).
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.3 — Vigencia de la tarjeta de operación
 
 La tarjeta de operación se expedirá por el término de dos (2) años y podrá modificarse o cancelarse si cambian las condiciones exigidas a la empresa para el otorgamiento de la habilitación.
 
 (Decreto 170 de 2001, artículo 57).
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.4 — Contenido
 
@@ -1139,8 +985,6 @@ La tarjeta de operación contendrá, al menos, los siguientes datos:
 PARÁGRAFO . La tarjeta de operación deberá ajustarse como mínimo a la ficha técnica que para el efecto establezca el Ministerio de Transporte.
 
 (Decreto 170 de 2001, artículo 58).
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.5 — Requisitos para su obtención o renovación
 
@@ -1164,8 +1008,6 @@ PARÁGRAFO . En caso de duplicado por pérdida, la tarjeta de operación que se 
 
 (Decreto 170 de 2001, artículo 59).
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.6 — Obligación de gestionarla
 
 Es obligación de las empresas de transporte gestionar las tarjetas de operación de la totalidad del parque automotor y entregarlas oportunamente a los propietarios, debiendo solicitar su renovación por lo menos con dos (2) meses de anticipación a la fecha de vencimiento.
@@ -1176,15 +1018,11 @@ Las autoridades de transporte competentes deberán implementar los mecanismos ne
 
 (Decreto 170 de 2001, artículo 60).
 
-ARTÍCULO
-
 ## art:2.2.1.1.11.7 — Obligación de portarla
 
 El conductor del vehículo deberá portar el original de la tarjeta de operación y presentarla a la autoridad competente que la solicite.
 
 (Decreto 170 de 2001, artículo 61).
-
-ARTÍCULO
 
 ## art:2.2.1.1.11.8 — Retención de la tarjeta de operación
 
@@ -1196,23 +1034,17 @@ SECCIÓN 12
 
 Tarifas
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.1 — Factor para determinarla tarifa
 
 De conformidad con el artículo 6 de la Ley 105 de 1993 el único factor que podrán tener en cuenta las autoridades competentes del orden Metropolitano, Distrital y Municipal para la fijación de las tarifas del transporte es el costo del transporte metropolitano y/o urbano incluyendo el costo de "recuperación de capital".
 
 (Decreto 105 de 1995, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.1.1.12.2 — Incrementos de la tarifa
 
 Los incrementos de la tarifa para el transporte urbano y metropolitano se harán de manera escalonada y separada de las fechas de ajuste en el precio de los combustibles. El primero de los ajustes a las tarifas no podrá superar el 10% y el incremento total se realizará por lo menos en tres instalamentos.
 
 (Decreto 105 de 1995, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.1.1.12.3 — Control
 
@@ -1228,23 +1060,17 @@ SECCIÓN 1
 
 Servicio público de transporte masivo de pasajeros
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en la presente Sección se aplicarán integralmente al servicio público de transporte masivo de pasajeros de acuerdo con las Leyes 86 de 1989, 310 de 1996 y 336 de 1996.
 
 (Decreto 3109 de 1997, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2 — Transporte masivo de pasajeros
 
 Se entiende por transporte masivo de pasajeros el servicio que se presta a través de una combinación organizada de infraestructura y equipos, en un sistema que cubre un alto volumen de pasajeros y da respuesta a un porcentaje significativo de necesidades de movilización.
 
 (Decreto 3109 de 1997, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3 — Elementos del sistema
 
@@ -1256,23 +1082,17 @@ SUBSECCIÓN 1
 
 Autoridades competentes
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1.1 — Autoridad competente
 
 La habilitación para prestar el servicio público de transporte masivo se expedirá por parte de la autoridad de transporte competente constituida para el efecto por el ente territorial o administrativo correspondiente, la cual ejercerá funciones de planificación, organización, control y vigilancia, bajo la coordinación institucional del Ministerio de Transporte. En ningún caso podrá ser un operador o empresa habilitada.
 
 (Decreto 3109 de 1997, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.1.2 — Ejecución de funciones
 
 La ejecución de las funciones de la autoridad de transporte competente deberá obedecer a criterios unificados de planificación urbana, obras públicas y tránsito y transporte.
 
 (Decreto 3109 de 1997, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.1.3 — Vigilancia y control
 
@@ -1284,15 +1104,11 @@ SUBSECCIÓN 2
 
 Habilitación y operación
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.1 — Habilitación
 
 De acuerdo con lo establecido en el artículo 11 de la Ley 336 de 1996, la habilitación es la autorización que expide la autoridad competente para prestar el servicio público de transporte masivo de acuerdo con las condiciones señaladas en la ley, en este Capítulo y en el acto que la conceda.
 
 (Decreto 3109 de 1997, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.2 — Operación y condiciones
 
@@ -1360,15 +1176,11 @@ Los pliegos de condiciones contendrán las condiciones mínimas de seguridad que
 
 (Decreto 3109 de 1997, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.3 — Pólizas de Seguros
 
 Previo al inicio de la operación las empresas de transporte masivo presentarán una póliza de seguro de responsabilidad civil contractual y extracontractual amparando los riesgos de muerte, incapacidad total y permanente, incapacidad temporal, daños a bienes de terceros y gastos médicos y de hospitalización de terceros, sin perjuicio de los demás seguros que se establezcan en la ley y en los pliegos de condiciones.
 
 (Decreto 3109 de 1997, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.4 — Aseguramiento de la calidad
 
@@ -1376,15 +1188,11 @@ Al iniciar el tercer año de operación la empresa de transporte masivo deberá 
 
 (Decreto 3109 de 1997, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.5 — Determinación de la necesidad del servicio
 
 La autoridad competente de transporte determinará las necesidades del servicio. Para este efecto se elaborarán estudios para establecer la demanda existente y potencial en áreas, zonas de operación y corredores, como también la asignación de rutas y equipos.
 
 (Decreto 3109 de 1997, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.6 — Rutas de alimentación
 
@@ -1393,8 +1201,6 @@ La empresa de transporte masivo podrá ser autorizada para operar rutas de alime
 La integración consistirá en la coordinación física y operativa del sistema estructural con el sistema alimentador, es decir, el establecimiento de horarios coordinados y la integración de las distintas rutas y equipos mediante la construcción de la infraestructura que facilite la transferencia de pasajeros entre las mismas. La integración podrá incluir el pago de una tarifa única para un viaje entre un punto de origen y un punto de destino conformado por dos o más tramos en diferentes vehículos.
 
 (Decreto 3109 de 1997, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.7 — Modalidad de selección
 
@@ -1406,8 +1212,6 @@ SUBSECCIÓN 3
 
 Utilización de los recursos de la Nación
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.1 — Definición del área de influencia
 
 Las entidades territoriales o administrativas interesadas en desarrollar proyectos de transporte masivo con participación de la Nación y/o entidades descentralizadas a través de aportes en dinero o en especie, solicitarán al Ministerio de Transporte la definición del área preliminar de influencia que se debe incorporar a los sistemas integrados de transporte masivo de acuerdo con las condiciones de cada municipio y sus recursos económicos disponibles antes de iniciar los estudios de preinversión a que se refieren los artículos 85 de la Ley 336 de 1996 y 2 de la Ley 310 de 1996.
@@ -1416,23 +1220,17 @@ A partir de la determinación del área definitiva de influencia, de acuerdo con
 
 (Decreto 3109 de 1997, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.2 — Transferencia y vigilancia de recursos
 
 Cuando la Nación o sus entidades descentralizadas cofinancien o participen con aportes en un sistema de transporte masivo, sus recursos se transferirán a la entidad o empresa encargada de ejecutar el proyecto que haya sido designada por la autoridad territorial. El Ministerio de Transporte vigilará la inversión de esos recursos.
 
 (Decreto 3109 de 1997, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.3 — Componentes elegibles
 
 Los recursos que apropie la Nación en dinero y en especie para cofinanciar un sistema de servicio público de transporte masivo de pasajeros estarán dirigidos a obras civiles, superestructura, equipos y otros costos siempre y cuando se destinen únicamente para atender el costo de los componentes del Sistema Integrado de Transporte Masivo. En todo caso, los aportes de la Nación no se podrán utilizar para el mantenimiento, operación y administración del sistema público de transporte masivo de pasajeros.
 
 (Decreto 3109 de 1997, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.4 — Evaluación de estudios y elaboración de ficha del banco de proyectos de inversión
 
@@ -1444,15 +1242,11 @@ SECCIÓN 2
 
 Sistemas Estratégicos de Transporte Público (SETP)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1 — Objeto
 
 La presente Sección tiene como objeto reglamentar la implementación de los Sistemas Estratégicos de Transporte Público (SETP) del país y se aplicará integralmente en las ciudades que cuenten con cofinanciación de la Nación y cumpliendo con los requisitos establecidos en la misma.
 
 (Decreto 3422 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2 — Sistemas Estratégicos de Transporte Público (SETP)
 
@@ -1471,8 +1265,6 @@ PARÁGRAFO . Se entenderá por empresas administradoras integrales, las empresas
 5. En ningún caso la afiliación de los vehículos será la fuente de sostenimiento de la empresa.
 
 (Decreto 3422 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.3 — Objetivos de los SETP
 
@@ -1496,15 +1288,11 @@ Los sistemas estratégicos de transporte público estarán orientados a lograr u
 
 (Decreto 3422 de 2009, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4 — Autoridades competentes
 
 Para efectos de la presente Sección son autoridades de transporte competentes, los alcaldes municipales o distritales o en los que estos deleguen tal atribución. Dicha autoridad tiene la función dentro de su jurisdicción de planear, diseñar, ejecutar y exigir las condiciones necesarias para la eficiente, segura y adecuada prestación del servicio de transporte público colectivo a través del sistema estratégico de transporte público, así como, ejercer su inspección, vigilancia y control.
 
 (Decreto 3422 de 2009, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.5 — Requisitos para la financiación de los SETP
 
@@ -1522,8 +1310,6 @@ La Nación y sus entidades descentralizadas participarán con aportes de capital
 
 (Decreto 3422 de 2009, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.6 — Esquema de administración de los recursos
 
 La totalidad de los aportes realizados por la Nación y las demás entidades públicas participantes deberán ser manejados a través de un encargo fiduciario constituido por la entidad competente titular del Sistema Estratégico de Transporte Público (SETP). El encargo fiduciario será contratado, previa aprobación de las entidades participantes, siguiendo lo dispuesto en las normas previstas en el Estatuto de Contratación de la Administración Pública y las demás normas legales vigentes sobre la materia.
@@ -1531,8 +1317,6 @@ La totalidad de los aportes realizados por la Nación y las demás entidades pú
 PARÁGRAFO . El encargo fiduciario actuará de conformidad con las instrucciones dadas por el Comité Fiduciario de acuerdo con sus respectivas competencias, el cual tendrá en cuenta las directrices que sobre la administración de los recursos contengan los Convenios de Cofinanciación respectivos. El Comité Fiduciario estará conformado por el Alcalde Municipal o su delegado, un delegado del Departamento Nacional de Planeación, un delegado del Ministerio de Transporte y un delegado del Ministerio de Hacienda y Crédito Público. La entidad gestora del SETP correspondiente se encargará de designar el secretario técnico del Comité y la respectiva interventoría.
 
 (Decreto 3422 de 2009, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.7 — Adopción del Sistema Estratégico de Transporte Público
 
@@ -1560,8 +1344,6 @@ El mencionado acto administrativo, deberá contener:
 
 (Decreto 3422 de 2009, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.8 — Agentes de un Sistema Estratégico de Transporte Público
 
 Los Agentes del SETP son aquellos actores que desarrollan actividades directamente relacionadas con la producción y prestación de los servicios que requiere la implantación de este tipo de sistemas. Los Sistemas Estratégicos de Transporte contarán con los siguientes agentes privados:
@@ -1578,15 +1360,11 @@ SUBSECCIÓN 1
 
 Prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.1 — Modelo de operación
 
 Los Sistemas Estratégicos de Transporte Público operarán de acuerdo con una arquitectura de rutas o servicios, la cual comprenderá entre otros, los elementos de infraestructura complementarios requeridos para la prestación del servicio como terminales, estaciones, patios y talleres, paraderos, así como la forma de integración y las características básicas de tipología vehicular. Igualmente, funcionarán bajo la modalidad de red de servicios, conformados por rutas jerarquizadas, diseñadas de conformidad con los estudios técnicos respectivos.
 
 (Decreto 3422 de 2009, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.1.2 — Reorganización del servicio
 
@@ -1598,15 +1376,11 @@ PARÁGRAFO 2. En caso que la implementación del SETP se realice a través del e
 
 (Decreto 3422 de 2009, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.3 — Licitación pública
 
 La autoridad de transporte competente que no adopte la reorganización del servicio que trata el artículo anterior, deberá adjudicar el servicio mediante licitación pública cumpliendo las condiciones señaladas en el Estatuto General de Contratación de la Administración Pública y las demás normas vigentes.
 
 (Decreto 3422 de 2009, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.1.4 — Equipos
 
@@ -1620,8 +1394,6 @@ SUBSECCIÓN 2
 
 Esquema empresarial
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.2.1 — Empresas operadoras de transporte
 
 Las empresas operadoras de los SETP deberán ser responsables de la administración integral de la flota, operación y programación de la misma, atendiendo la demanda de pasajeros según las directrices y parámetros de calidad operacional definidos por cada autoridad de transporte a cambio de la remuneración establecida por la misma.
@@ -1630,15 +1402,11 @@ PARÁGRAFO . Las empresas operadoras deberán contar con esquemas organizacional
 
 (Decreto 3422 de 2009, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.2.2 — Conductores
 
 Las empresas operadoras serán las encargadas de contratar directamente al personal de conductores, a través de contratos de trabajo en los términos y condiciones que para el efecto se establezcan en las normas laborales vigentes. Las empresas operadoras en el proceso de implementación de los SETP, deberán dar preferencia a los conductores que a la fecha trabajen en las rutas de transporte colectivo, siempre y cuando reúnan los requisitos que las autoridades municipales correspondientes determinen.
 
 (Decreto 3422 de 2009, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2.3 — Democratización de la propiedad
 
@@ -1647,8 +1415,6 @@ Para garantizar la democratización de la propiedad, las empresas habilitadas qu
 PARÁGRAFO . Las empresas deberán acreditar al menos el 70% de capacidad transportadora mínima fijada en los actos administrativos o en los pliegos de licitación, de su propiedad y/o de sus socios.
 
 (Decreto 3422 de 2009, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2.4 — Habilitación
 
@@ -1678,15 +1444,11 @@ SUBSECCIÓN 3
 
 Sistema de Recaudo Centralizado
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3.1 — Definición
 
 El Sistema de Recaudo Centralizado (SRC) es el conjunto de servicios, software, hardware, y demás mecanismos de control centralizados e integrados a dicho sistema, que permite efectuar la operación de recaudo centralizado a través de medios electrónicos de pago y el registro de viajes del sistema.
 
 (Decreto 3422 de 2009, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.3.2 — Implementación del Sistema de Recaudo Centralizado (SRC)
 
@@ -1698,23 +1460,17 @@ SUBSECCIÓN 4
 
 Sistema de Gestión y Control de Flota
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4.1 — Definición
 
 El Sistema de Gestión y Control de Flota (SGCF) está constituido por todos los equipos, infraestructura, aplicativos informáticos y procesos que permiten realizar las actividades de planeación, programación y control de la operación del SETP. Entendiendo por planeación y programación la especificación de las rutas, servicios y frecuencias del sistema; y por control, aquellas actividades que tienen como fin coordinar, vigilar, registrar y fiscalizar dicha operación, así como hacer seguimiento de los indicadores de servicio del sistema.
 
 (Decreto 3422 de 2009, artículo 19).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4.2 — Implementación Sistema de Gestión y Control de Flota (SGCF)
 
 La implementación del Sistema de Gestión y Control de Flota (SGCF) será adoptada por la autoridad de transporte competente en cada proyecto de acuerdo con los resultados de los estudios técnicos y financieros, avalados por el Departamento Nacional de Planeación, y conforme al Estatuto General de Contratación y las demás normas vigentes.
 
 (Decreto 3422 de 2009, artículo 20).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.4.3 — Operador del SGCF
 
@@ -1726,15 +1482,11 @@ SUBSECCIÓN 5
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.5.1 — Subsidios
 
 En caso que la autoridad de transporte defina la adopción de cualquier tipo de subsidio a la tarifa para sectores específicos de la población, deberá realizar los estudios correspondientes que garanticen la sostenibilidad financiera del sistema. En este caso, el pago de tales subsidios será asumido por la entidad que lo establezca, la cual deberá estipularlo en el acto administrativo correspondiente, la fuente presupuestal que lo financia y una forma de operación que garantice su efectividad. En ningún caso, dichos subsidios serán cubiertos con dineros provenientes de la Nación.
 
 (Decreto 3422 de 2009, artículo 22).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.5.2 — Vigencia de los permisos de operación
 
@@ -1744,15 +1496,11 @@ PARÁGRAFO . Los servicios de transporte que se autoricen en virtud de la implem
 
 (Decreto 3422 de 2009, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.5.3 — Terminales de integración o transferencia
 
 Las ciudades que estén incluidas en el objeto de la presente Sección y que estén implementando Sistemas Estratégicos de Transporte Público construirán Terminales de Integración o Transferencia, que cumplan una función de integración del transporte intermunicipal con el Sistema, como solución para el mejoramiento de su movilidad. En este caso, la autoridad local podrá celebrar convenios para la administración de dichas Terminales de Integración o Transferencia con la entidad o sociedad que administre la Terminal de Transporte local.
 
 (Decreto 3422 de 2009, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.5.4 — Norma supletoria
 
@@ -1766,27 +1514,19 @@ SECCIÓN 3
 
 SISTEMA DE RECAUDO CENTRALIZADO
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1 — Ámbito de aplicación
 
 La presente sección aplica para los sistemas de transporte público, que sean cofinanciados con recursos de la Nación.
 
 PARÁGRAFO . De conformidad con lo dispuesto en el parágrafo 1 del artículo 117 de la Ley 1955 de 2019, se garantizará la estabilidad jurídica de los actos administrativos expedidos por las entidades territoriales con anterioridad a la entrada en vigencia de la presente ley, entendida como la preservación de las condiciones jurídicas, técnicas y financieras establecidas para el ciclo de vida del proyecto, al finalizar el cual deberá observarse integralmente lo dispuesto en el presente decreto y en su reglamentación derivada.
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2 — Sistema de Recaudo Centralizado (SRC)
 
 Es el conjunto de servicios, software, hardware, y demás mecanismos de control centralizados e integrados a dicho sistema, que permite efectuar la operación de recaudo centralizado a través del pago electrónico y en efectivo validado por medios electrónicos, y los sistemas de compensación entre operadores, que serán administrados a través de un patrimonio autónomo o cualquier otro esquema de administración de recursos autorizado y administrado por una entidad vigilada por la Superintendencia Financiera de Colombia, constituido por el agente recaudador.
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3 — Implementación del Sistema de Recaudo Centralizado (SRC)
 
 La implementación del Sistema de Recaudo Centralizado (SRC) será adoptada por la entidad territorial competente o en quien esta delegue, en cada proyecto de acuerdo con los resultados de los estudios ambientales, técnicos, legales y financieros.
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.4 — Principios
 
@@ -1799,8 +1539,6 @@ b. Proteger la información personal y datos que se registre en los sistemas de 
 c. Garantizar el uso de tecnologías eficientes en los sistemas de recaudo y que generen servicios de valor agregado tanto al ente gestor como a los usuarios, brindando a estos últimos un trato equitativo.
 
 d. La libre adopción de tecnologías, teniendo en cuenta recomendaciones, conceptos y normativas de los organismos internacionales competentes e idóneos en la materia, que permitan fomentar la eficiente prestación de servicios, contenidos y aplicaciones que usen Tecnologías de la Información y las Comunicaciones, garantizar la libre iniciativa privada, la libre y leal competencia, y que su adopción sea armónica con el desarrollo ambiental sostenible.
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.5 — Definiciones
 
@@ -1822,8 +1560,6 @@ g. Pago en efectivo con validación electrónica: Es el pago con dinero en efect
 
 h. Seguridad por oscuridad: Estrategia para garantizar la seguridad de un sistema de información que se basa en mantener en secreto detalles de su diseño o su implementación.
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.6 — Condiciones técnicas generales para los sistemas de recaudo de transporte público
 
 Los sistemas de recaudo de los sistemas de transporte público cofinanciados por la Nación, deben cumplir las siguientes condiciones técnicas:
@@ -1838,8 +1574,6 @@ d. Sistema de información al usuario: Tiene como fin generar un elemento de con
 
 e. Servicios hacia el Sistema Inteligente Nacional para la Infraestructura, de Tránsito y Transporte - SINITT. Los sistemas de recaudo deberán enviar información al Sistema Inteligente Nacional para la Infraestructura de Tránsito y Transporte - SINITT, con el fin de generar política pública nacional del servicio público de transporte.
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.7 — Condiciones operativas para los sistemas de recaudo de transporte público
 
 Los sistemas de recaudo de los sistemas de transporte público cofinanciados por la Nación deberán cumplir con las siguientes condiciones operativas:
@@ -1847,8 +1581,6 @@ Los sistemas de recaudo de los sistemas de transporte público cofinanciados por
 a. Concurrencia de múltiples operadores de recaudo y/o proveedores tecnológicos. Se deben garantizar las condiciones tecnológicas y comerciales que permitan la concurrencia de múltiples operadores de recaudo y/o proveedores tecnológicos en un mismo sistema de transporte.
 
 b. Medios de pago aceptados. Los sistemas de recaudo en el país deberán permitir el pago electrónico y en efectivo validado por medios electrónicos.
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.8 — Condiciones de seguridad generales para los sistemas de recaudo
 
@@ -1859,8 +1591,6 @@ a. Mecanismos de seguridad basados en buenas prácticas: Los sistemas de recaudo
 b. Algoritmos criptográficos estandarizados: Todos los algoritmos de seguridad utilizados para la protección de la información deben estar estandarizados y tener aceptación general por parte de la comunidad internacional de seguridad de la información.
 
 c. Autenticidad de las transacciones: Los sistemas de recaudo deberán implementar mecanismos de seguridad que permitan garantizar la autenticidad, confidencialidad e integridad y el no repudio de las transacciones realizadas.
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.9 — Estándar de interoperabilidad para los sistemas de recaudo de transporte público
 
@@ -1876,23 +1606,17 @@ CAPÍTULO 3
 
 Servicio Público de Transporte Terrestre Automotor Individual de Pasajeros en Vehículos Taxi
 
-ARTÍCULO
-
 ## art:2.2.1.3.1 — Objeto y Principios
 
 El presente Capítulo tiene por objete reglamentar la habilitación de las empresas de Transporte Público Terrestre Automotor Individual de Pasajeros en los niveles básico y de lujo, y la prestación por parte de éstas de un servicio eficiente, seguro, oportuno y económico, baje los criterios básicos de cumplimiento de los principios rectores del transporte, como el de la libre competencia y el de la iniciativa privada, a los cuales solamente se aplicarán las restricciones establecidas por la ley y los convenios internacionales.
 
 (Modificado por el Decreto 2297 de 2015.Art, 1)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente Capítulo se aplicarán integralmente a la modalidad de Transporte Público Terrestre Automotor Individual de Pasajeros en Vehículos Taxi, en todo el territorio nacional, de acuerdo con los lineamientos establecidos en la Leyes 105 de 1993 y 336 de 1996.
 
 (Decreto 172 de 2001, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.3.3 — Servicio público de transporte terrestre automotor, Individual de Pasajeros en los niveles básico y de lujo
 
@@ -1907,8 +1631,6 @@ PARÁGRAFO 1. El servicio de transporte público terrestre automotor individual 
 PARÁGRAFO 2. Los vehículos utilizados para la prestación del servicio de Transporte Público Terrestre Automotor Individual de Pasajeros en el nivel básico y de lujo, deberán cumplir las especificaciones y característica establecidas en el presente Decreto y en la regulación que para tal efecto expida el Ministerio de Transporte.
 
 (Modificado por el Decreto 2297 de 2015.Art, 2)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4 — Definiciones
 
@@ -1932,8 +1654,6 @@ SECCIÓN 1
 
 Autoridades competentes
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.1 — Autoridades de transporte
 
 Son autoridades de transporte competentes las siguientes:
@@ -1948,8 +1668,6 @@ Las autoridades de transporte no podrán autorizar servicios por fuera del terri
 
 (Decreto 172 de 2001, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.1.3.1.2 — Control y vigilancia
 
 La inspección, vigilancia y control de la prestación del Servicio Público Terrestre Automotor Individual de Pasajeros en Vehículos Taxi, estará a cargo de los Alcaldes o las autoridades municipales que tengan asignada la función.
@@ -1959,8 +1677,6 @@ La inspección, vigilancia y control de la prestación del Servicio Público Ter
 SECCIÓN 2
 
 Habilitación
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.1 — Habilitación
 
@@ -1982,15 +1698,11 @@ PARÁGRAFO 5. El costo del estudio para la habilitación de una empresa de trans
 
 (Parágrafo MODIFICADO por el Art. 54 del Decreto 2642 de 2022)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.2 — Empresas nuevas
 
 Ninguna empresa nueva podrá entrar a prestar el servicio hasta tanto la Autoridad de transporte competente le otorgue la habilitación correspondiente. Cuando las autoridades de control y vigilancia constaten la prestación del servicio sin autorización, ésta se le negará y no podrá presentar una nueva solicitud de habilitación antes de doce (12) meses.
 
 (Decreto 172 de 2001, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.3 — Requisitos para personas jurídicas
 
@@ -2054,8 +1766,6 @@ PARÁGRAFO 2. Las empresas nuevas deberán acreditar los requisitos establecidos
 
 (Decreto 172 de 2001, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.4 — Requisitos para personas naturales
 
 El propietario o tenedor hasta de cinco (5) vehículos que tenga interés de prestar el Servicio Público de Transporte Terrestre Automotor Individual de Pasajeros en Vehículos Taxi, deberá obtener la correspondiente habilitación, previo el cumplimiento de los siguientes requisitos:
@@ -2082,8 +1792,6 @@ PARÁGRAFO . RESTRICCIÓN. Cuando la empresa de persona natural pretenda operar 
 
 (Decreto 172 de 2001, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.5 — Plazo para decidir
 
 Presentada la solicitud de habilitación, para decidir, la Autoridad de transporte competente dispondrá de un término no superior a noventa (90) días hábiles.
@@ -2096,8 +1804,6 @@ PARÁGRAFO . La autoridad de transporte competente dispondrá de un término imp
 
 (Adicionado por el Decreto 2297 de 2015. Art, 6)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.6 — Vigencia de la habilitación
 
 Sin perjuicio de las disposiciones legales contenidas en el régimen sancionatorio, la habilitación será indefinida mientras subsistan las condiciones exigidas y acreditadas para su otorgamiento.
@@ -2108,23 +1814,17 @@ PARÁGRAFO . En todos aquellos casos de transformación, fusión, absorción o i
 
 (Decreto 172 de 2001, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.7 — Suministro de información
 
 Las empresas deberán tener permanentemente a disposición de la autoridad de transporte competente las estadísticas, libros y demás documentos que permitan verificar la información suministrada.
 
 (Decreto 172 de 2001, artículo 17).
 
-ARTÍCULO
-
 ## art:2.2.1.3.2.8 — Empresas Habilitadas en vigencia de los Decretos 091 y 1558 de 1998
 
 Las empresas que obtuvieron habilitación en vigencia de los Decretos 091 y 1553 de 1998, la mantendrán de manera indefinida, debiendo solamente ajustar el capital pagado o patrimonio líquido conforme a lo dispuesto en el numeral 11 del artículo 2.2.1.3.2.3. de este Decreto.
 
 (Decreto 172 de 2001, artículo 56).
-
-ARTÍCULO
 
 ## art:2.2.1.3.2.9 — Requisitos para la habilitación en el nivel de lujo
 
@@ -2152,8 +1852,6 @@ SECCIÓN 3
 
 Seguros
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.1 — Pólizas
 
 De conformidad con los artículos 994 y 1003 del Código de Comercio las empresas de Transporte Público Terrestre Automotor Individual de Pasajeros en Vehículos Taxi, deberán tomar con una compañía de seguros autorizada para operar en Colombia, las pólizas de seguros de responsabilidad civil contractual y extracontractual que las amparen contra los riesgos inherentes a la actividad transportadora, así:
@@ -2180,8 +1878,6 @@ c) Muerte o lesiones a dos o más personas.
 
 (Decreto 172 de 2001, artículo 18).
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.2 — Seguro de accidentes personales
 
 Las empresas de servicio público de transporte terrestre automotor individual de pasajeros en vehículos taxi, deberán tomar con compañías de seguros autorizadas para operar en Colombia, una póliza de accidentes personales que ampare a los conductores de vehículos taxis con al menos la cobertura de los siguientes riesgos:
@@ -2198,8 +1894,6 @@ PARÁGRAFO 2. TRANSITORIO. Las empresas de transporte que al 4 de junio de 2014 
 
 (Decreto 1047 de 2014, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.3 — Vigencia de los seguros
 
 La vigencia de los seguros contemplados en este Capítulo, será condición para la operación de tos vehículos legalmente vinculados a las empresas autorizadas para la prestación del servicio en esta modalidad de transporte.
@@ -2208,15 +1902,11 @@ La compañía de seguros que ampare a la empresa de transporte en relación con 
 
 (Decreto 172 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.4 — Fondo de responsabilidad
 
 Sin perjuicio de la obligación de obtener y mantener vigente las pólizas de seguro señaladas en el artículo 2.2.1.3.3.1 del presente Decreto, las empresas de transporte podrán constituir fondos de responsabilidad como mecanismo complementario para cubrir los riesgos derivados de la prestación del servicio, cuyo funcionamiento, administración, vigilancia y control lo ejercerá la Superintendencia Financiera o la entidad de inspección y vigilancia que sea competente según la naturaleza jurídica del fondo.
 
 (Decreto 172 de 2001, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.1.3.3.5 — Obligatoriedad de los seguros
 
@@ -2228,8 +1918,6 @@ SECCIÓN 4
 
 Seguridad social para conductores
 
-ARTÍCULO
-
 ## art:2.2.1.3.4.1 — Prohibición
 
 La empresa de servicio público de transporte individual que permita la operación de sus vehículos por conductores que no se encuentren afiliados al Sistema de Seguridad Social, incurrirá en una infracción a las normas de transporte, que dará lugar a las sanciones establecidas en el artículo 46 de la Ley 336 de 1996 y en atención a las circunstancias a la suspensión de la habilitación y permiso de operación, de conformidad con lo establecido en el artículo 281 de la Ley 100 de 1993, modificado por el artículo 113 del Decreto 2150 de 1995 o la norma que lo adicione, modifique o sustituya.
@@ -2239,8 +1927,6 @@ La empresa de servicio público de transporte individual que permita la operaci�
 SECCIÓN 5
 
 Prestación del servicio
-
-ARTÍCULO
 
 ## art:2.2.1.3.5.1 — Permanencia en el servicio
 
@@ -2253,8 +1939,6 @@ En todo caso la autoridad de transporte competente debe verificar el cambio de c
 PARÁGRAFO . Los vehículos destinados a la prestación del servicio público de transporte terrestre automotor individual de pasajeros en el nivel de lujo tendrán un máximo de siete (7) años de uso en el servicio, contados a partir de la fecha de expedición de la respectiva licencia de tránsito. Cumplido este término, deberán reponerse los vehículos, cambiar a nivel básico o solicitar el cambio de servicio.
 
 (Adicionado por el Decreto 2297 de 2015, Art.7)
-
-ARTÍCULO
 
 ## art:2.2.1.3.5.2 — Radio de acción
 
@@ -2270,8 +1954,6 @@ PARÁGRAFO . En ningún caso el Servicio Público de Transporte en Vehículos Ta
 
 (Decreto 172 de 2001, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.1.3.5.3 — Radio de acción distrital o municipal
 
 Entiéndase por radio de acción distrital o municipal el que se presta dentro de la jurisdicción de un distrito o municipio. Comprende las áreas urbanas, suburbanas y rurales y los distritos territoriales indígenas de la respectiva jurisdicción.
@@ -2279,8 +1961,6 @@ Entiéndase por radio de acción distrital o municipal el que se presta dentro d
 El radio de acción metropolitano es el que se presta entre los municipios que hacen parte de un área metropolitana.
 
 (Decreto 172 de 2001, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.1.3.5.4 — Viaje ocasional
 
@@ -2291,8 +1971,6 @@ Para la realización de viajes ocasionales en vehículos taxi, se acreditará el
 SECCIÓN 6
 
 Vinculación y desvinculación de equipos
-
-ARTÍCULO
 
 ## art:2.2.1.3.6.1 — Equipos
 
@@ -2324,15 +2002,11 @@ PARÁGRAFO 2. servicio podrá prestarse con vehículos del nivel básico que cum
 
 (Adicionado por el Decreto 2297 de 2015, Art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.3.6.2 — Vinculación
 
 La vinculación de un vehículo a una empresa de transporte público es la incorporación de éste al parque automotor de dicha empresa. Se formaliza con la celebración del respectivo contrato entre el propietario del vehículo y la empresa, y se oficializa con la expedición de la tarjeta de operación por parte de la autoridad de transporte competente.
 
 (Decreto 172 de 2001, artículo 27).
-
-ARTÍCULO
 
 ## art:2.2.1.3.6.3 — Contrato de vinculación
 
@@ -2352,15 +2026,11 @@ Cuando el vehículo haya sido adquirido mediante arrendamiento financiero -leasi
 
 (Decreto 172 de 2001, artículo 28).
 
-ARTÍCULO
-
 ## art:2.2.1.3.6.4 — Pérdida, hurto o destrucción del vehículo
 
 En el evento de pérdida, hurto o destrucción del vehículo, su propietario tendrá derecho a reemplazarlo por otro, bajo el mismo contrato de vinculación, dentro del término de un (1) año, contado a partir de la fecha de ocurrido el hecho. Si el contrato de vinculación vence antes de ese término, se entenderá prorrogado hasta el cumplimiento del año.
 
 (Decreto 172 de 2001, artículo 33).
-
-ARTÍCULO
 
 ## art:2.2.1.3.6.5 — Cambio de empresa
 
@@ -2384,8 +2054,6 @@ PARÁGRAFO 4. De conformidad con lo previsto en las normas sobre prácticas come
 
 (Adicionado por el Decreto 2297 de 2015, Art 9)
 
-ARTÍCULO
-
 ## art:2.2.1.3.6.6 — Desvinculación administrativa
 
 Vencido el contrato de vinculación, cualquiera de las partes que lo suscribió podrá solicitar la desvinculación del vehículo a la autoridad de transporte competente, la cual deberá resolver la solicitud dentro de los quince (15) días hábiles siguientes, sin que pueda exigir otra causa o condición, diferente a la que se hace referencia en el artículo anterior del presente Decreto, o la norma que lo modifique, adicione o sustituya.
@@ -2400,8 +2068,6 @@ SECCIÓN 7
 
 Determinación de necesidades de equipo y asignación de matrículas
 
-ARTÍCULO
-
 ## art:2.2.1.3.7.1 — Ingreso de los vehículos al parque automotor
 
 Las autoridades de transporte competentes no podrán autorizar el ingreso de taxis al servicio público de transporte, por incremento, hasta tanto no se determinen las necesidades del equipo mediante el estudio técnico de que tratan los artículos siguientes.
@@ -2414,15 +2080,11 @@ PARÁGRAFO . El Ministerio de Transporte contará con seis (6) meses, contados a
 
 (Adicionado por el Decreto 2297 de 2015, Art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.3.7.2 — Estado de los vehículos
 
 El ingreso de los vehículos por incremento y por reposición, solo podrá efectuarse con vehículos nuevos.
 
 (Decreto 172 de 2001, artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.1.3.7.3 — Procedimiento para la determinación de las necesidades de equipo
 
@@ -2466,8 +2128,6 @@ PARÁGRAFO 3. La determinación del incremento de la capacidad transportadora gl
 
 (Adicionado por el Decreto 2297 de 2015, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.3.7.4 — Asignación de matrículas
 
 La asignación de nuevas matrículas por parte de la autoridad de transporte competente se hará por sorteo público de modo que se garantice el libre acceso de todos los interesados en igualdad de condiciones. La omisión de este procedimiento constituirá causal de mala conducta por parte del servidor público.
@@ -2478,8 +2138,6 @@ SECCIÓN 8
 
 Tarjeta de operación, tarjeta de control y tarifas
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.1 — Definición
 
 La tarjeta de operación es el documento único que autoriza a un vehículo automotor para prestar el servicio público bajo la responsabilidad de una empresa de transporte, de acuerdo con el radio de acción autorizado.
@@ -2488,23 +2146,17 @@ Cuando se trate de áreas metropolitanas, la tarjeta de operación facultará la
 
 (Decreto 172 de 2001, artículo 39).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.2 — Expedición
 
 La autoridad de transporte competente expedirá la tarjeta de operación únicamente a los vehículos legalmente vinculados a empresas de transporte público debidamente habilitadas.
 
 (Decreto 172 de 2001, artículo 40).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.3 — Vigencia de la tarjeta de operación
 
 La vigencia de la tarjeta de operación para los vehículos de esta modalidad, se expedirá por el término de un (1) año. Podrá cancelarse o modificarse si cambian las condiciones que dieron lugar a la habilitación.
 
 (Decreto 172 de 2001, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.1.3.8.4 — Contenido
 
@@ -2521,8 +2173,6 @@ La tarjeta de operación contendrá al menos los siguientes datos:
 PARÁGRAFO . La tarjeta de operación deberá ajustarse como mínimo a la ficha técnica que para este efecto expida el Ministerio de Transporte.
 
 (Decreto 172 de 2001, artículo 42).
-
-ARTÍCULO
 
 ## art:2.2.1.3.8.5 — Requisitos para su obtención y renovación
 
@@ -2550,8 +2200,6 @@ PARÁGRAFO 2. Cuando se trate de empresa de persona natural, el contrato de vinc
 
 (Decreto 172 de 2001, artículo 43).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.6 — Obligación de gestionarla
 
 Es obligación de las empresas gestionar las tarjetas de operación de la totalidad de sus equipos y entregarlas oportunamente a sus propietarios. De igual forma, la empresa deberá solicitar la renovación de las tarjetas de operación por lo menos con un (1) mes de anticipación a la fecha de vencimiento, para lo cual, los propietarios de los taxis vinculados deberán presentar a las empresas la siguiente documentación para la renovación de la tarjeta de operación, por lo menos con dos (2) meses de anticipación a su vencimiento.
@@ -2562,23 +2210,17 @@ Dentro de los diez (10) días siguientes a la entrega de las nuevas tarjetas de 
 
 (Decreto 172 de 2001, artículo 44).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.7 — Obligación de portarla
 
 El conductor del vehículo deberá portar el original de la tarjeta de operación y presentarla a la autoridad competente que la solicite.
 
 (Decreto 172 de 2001, artículo 45).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.8 — Retención
 
 Las autoridades de tránsito y transporte solo podrán retener la tarjeta de operación en caso de vencimiento de la misma, debiendo remitirla a la autoridad que la expidió, para efectos de la apertura de la investigación correspondiente.
 
 (Decreto 172 de 2001, artículo 46).
-
-ARTÍCULO
 
 ## art:2.2.1.3.8.9 — Sistema de Información y registro de conductores
 
@@ -2600,8 +2242,6 @@ PARÁGRAFO 2. El Ministerio de Tecnologías de la Información y las Comunicacio
 
 (Decreto 1047 de 2014, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.10 — Tarjeta de control
 
 La Tarjeta de Control es un documento individual e intransferible expedido por la empresa de transporte, que sustenta la operación del vehículo y que acredita al conductor como el autorizado para desarrollar esta actividad, bajo la responsabilidad de la empresa de transporte debidamente habilitada a la que se encuentra vinculado el equipo.
@@ -2614,8 +2254,6 @@ PARÁGRAFO . Las características de la Tarjeta de Control serán establecidas p
 
 (Decreto 1047 de 2014, artículo 9).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.11 — Requisitos para la expedición de la Tarjeta de Control
 
 Para la expedición de la Tarjeta de Control deberá observarse el siguiente procedimiento:
@@ -2627,8 +2265,6 @@ b) Cumplidos los requisitos establecidos en el literal anterior, la empresa debe
 e) La autoridad de transporte, a través del Sistema de Información y Registro de Conductores, validará el cumplimiento de los requisitos tanto del conductor como del vehículo, garantizando en el mismo toda la trazabilidad del trámite y la generación de alertas por inconsistencias.
 
 (Decreto 1047 de 2014, artículo 10).
-
-ARTÍCULO
 
 ## art:2.2.1.3.8.12 — Contenido de la Tarjeta de Control
 
@@ -2656,15 +2292,11 @@ PARÁGRAFO . La Tarjeta de Control deberá adicionalmente contener la informaci�
 
 (Decreto 1047 de 2014, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.13 — Obligación de portar la Tarjeta de Control
 
 Como documento de transporte que soporta la operación del vehículo y con el fin de proporcionar información a los usuarios del Servicio Público de Transporte Terrestre Automotor en Vehículos Taxi, los conductores portarán en la parte trasera de la silla del copiloto la Tarjeta de Control debidamente laminada.
 
 (Decreto 1047 de 2014, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.3.8.14 — Reporte de información
 
@@ -2690,15 +2322,11 @@ PARÁGRAFO 2. Hasta tanto inicie operación el Sistema de Información y Registr
 
 (Decreto 1047 de 2014, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.3.8.15 — Entrega de los documentos de transporte
 
 Las empresas de transporte no podrán retener los documentos que soportan la operación de los vehículos, sujetando su entrega al cumplimiento de las obligaciones dinerarias pactadas en el contrato de vinculación.
 
 (Decreto 1047 de 2014, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.1.3.8.16 — Estudios de costos
 
@@ -2714,15 +2342,11 @@ SECCIÓN 9
 
 Desarrollo de competencias para conductores
 
-ARTÍCULO
-
 ## art:2.2.1.3.9.1 — Programa de formación para el desarrollo de competencias para conductores
 
 El Ministerio de Transporte en coordinación con el SENA, diseñará, desarrollará y promoverá la formación basada en competencias para conductores de servicio público de transporte terrestre automotor individual de pasajeros en vehículos taxi, con el fin de promover que este servicio se brinde con los mejores estándares de calidad y seguridad de los conductores y terceros.
 
 (Decreto 1047 de 2014, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.3.9.2 — Plan piloto
 
@@ -2734,8 +2358,6 @@ SECCIÓN 10
 
 Disposición final
 
-ARTÍCULO
-
 ## art:2.2.1.3.10.1 — Vehículos en leasing y renting
 
 Cuando los vehículos hayan sido adquiridos en las modalidades leasing o renting, las obligaciones que corresponden a los propietarios de los Vehículos respecto de los conductores de transporte público terrestre automotor individual de pasajeros en vehículos taxi, se entenderán a cargo del locatario de los equipos.
@@ -2746,15 +2368,11 @@ CAPÍTULO 4
 
 Servicio Público de Transporte Terrestre Automotor de Pasajeros por Carretera
 
-ARTÍCULO
-
 ## art:2.2.1.4.1 — Objeto y principios
 
 El presente Capítulo tiene como objeto reglamentar la habilitación de las empresas de Transporte Público Terrestre Automotor de Pasajeros por Carretera y la prestación por parte de estas de un servicio eficiente, seguro, oportuno y económico, bajo los criterios básicos de cumplimiento de los principios rectores del transporte, como son la libre competencia y la iniciativa privada, a los cuales solamente se aplicarán las restricciones establecidas por la ley y los Convenios Internacionales.
 
 (Decreto 171 de 2001, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.4.2 — Ámbito de aplicación
 
@@ -2762,15 +2380,11 @@ Las disposiciones contenidas en el presente Capítulo se aplicarán integralment
 
 (Decreto 171 de 2001, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.1.4.3 — Servicio público de transporte terrestre automotor de pasajeros por carretera
 
 Es aquel que se presta bajo la responsabilidad de una empresa de transporte legalmente constituida y debidamente habilitada en ésta modalidad, a través de un contrato celebrado entre la empresa y cada una de las personas que han de utilizar el vehículo de servicio público a esta vinculado, para su traslado en una ruta legalmente autorizada.
 
 (Decreto 171 de 2001, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.4.4 — Definiciones
 
@@ -2798,8 +2412,6 @@ SECCIÓN 1
 
 Clasificación
 
-ARTÍCULO
-
 ## art:2.2.1.4.1.1 — Clasificación
 
 Para los efectos previstos en este Capítulo la actividad transportadora de pasajeros por carretera se clasifica:
@@ -2826,8 +2438,6 @@ SECCIÓN 2
 
 Autoridades competentes
 
-ARTÍCULO
-
 ## art:2.2.1.4.2.1 — Autoridad de transporte
 
 Para todos los efectos a que haya lugar, el servicio público de transporte terrestre automotor de pasajeros por carretera será regulado por el Ministerio de Transporte.
@@ -2835,8 +2445,6 @@ Para todos los efectos a que haya lugar, el servicio público de transporte terr
 PARÁGRAFO . Las autoridades locales no podrán autorizar servicios por fuera del territorio de su jurisdicción, so pena de incurrir en causal de mala conducta.
 
 (Decreto 171 de 2001, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.1.4.2.2 — Control y vigilancia
 
@@ -2848,8 +2456,6 @@ SECCIÓN 3
 
 Habilitación
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.1 — Disposición general
 
 Las empresas legalmente constituidas, interesadas en prestar el Servicio Público de Transporte Terrestre Automotor de Pasajeros por Carretera deberán solicitar y obtener habilitación para operar.
@@ -2858,8 +2464,6 @@ La habilitación concedida autoriza a la empresa para prestar el servicio solame
 
 (Decreto 171 de 2001, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.2 — Empresas nuevas
 
 Ninguna empresa nueva podrá entrar a operar hasta tanto el Ministerio de Transporte le otorgue la habilitación correspondiente, previa asignación o adjudicación de las rutas y horarios a servir.
@@ -2867,8 +2471,6 @@ Ninguna empresa nueva podrá entrar a operar hasta tanto el Ministerio de Transp
 Cuando las autoridades de control y vigilancia constaten la prestación del servicio sin autorización, tanto la habilitación como los servicios se negarán y la empresa solicitante no podrá presentar nueva solicitud antes de doce (12) meses.
 
 (Decreto 171 de 2001, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.3 — Requisitos
 
@@ -2938,8 +2540,6 @@ PARÁGRAFO 2. Las empresas nuevas deberán acreditar los requisitos establecidos
 
 (Decreto 171 de 2001, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.4 — Plazo para decidir
 
 Presentada la solicitud de habilitación, para decidir el Ministerio de Transporte dispondrá de un término no superior a noventa (90) días hábiles.
@@ -2947,8 +2547,6 @@ Presentada la solicitud de habilitación, para decidir el Ministerio de Transpor
 La habilitación se concederá o negará mediante resolución motivada en la que se especificará como mínimo el nombre, razón social o denominación, domicilio principal, capital pagado o patrimonio líquido, radio de acción y modalidad del servicio.
 
 (Decreto 171 de 2001, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.5 — Vigencia de la habilitación
 
@@ -2958,15 +2556,11 @@ PARÁGRAFO . En todos aquellos casos de transformación, fusión, absorción o i
 
 (Decreto 171 de 2001, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.1.4.3.6 — Suministro de información
 
 Las empresas mantendrán a disposición del Ministerio de Transporte y de la Superintendencia de Puertos y Transporte las estadísticas, libros y demás documentos que permitan verificar la información suministrada.
 
 (Decreto 171 de 2001, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.4.3.7 — Empresas habilitadas en vigencia de los Decretos 091 y 1558 de 1998
 
@@ -2977,8 +2571,6 @@ Las empresas que obtuvieron habilitación en vigencia de los Decretos 091 y 1557
 SECCIÓN 4
 
 Seguros
-
-ARTÍCULO
 
 ## art:2.2.1.4.4.1 — Pólizas
 
@@ -3008,15 +2600,11 @@ El monto asegurable por cada riesgo no podrá ser inferior a 60 SMMLV, por perso
 
 (Decreto 171 de 2001, artículo 18).
 
-ARTÍCULO
-
 ## art:2.2.1.4.4.2 — Pago de la prima
 
 Cuando el servicio se preste en vehículos que no sean de propiedad de la empresa, en el contrato de vinculación deben quedar claramente definidas las condiciones y el procedimiento mediante el cual se efectuará el recaudo de la prima correspondiente, con cargo al propietario del vehículo.
 
 (Decreto 171 de 2001, artículo 19).
-
-ARTÍCULO
 
 ## art:2.2.1.4.4.3 — Vigencia de los seguros
 
@@ -3026,15 +2614,11 @@ La compañía de seguros que ampare a la empresa de transporte con relación a l
 
 (Decreto 171 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.4.4.4 — Fondo de responsabilidad
 
 Sin perjuicio de la obligación de obtener y mantener vigentes las pólizas de seguros señaladas en el presente Capítulo, las empresas de transporte podrán constituir fondos de responsabilidad como mecanismo complementario para cubrir los riesgos derivados de la prestación del servicio, cuyo funcionamiento, administración, vigilancia y control lo ejercerá la Superintendencia Financiera o la entidad de inspección y vigilancia que sea competente, según la naturaleza jurídica del fondo.
 
 (Decreto 171 de 2001, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.1.4.4.5 — Obligatoriedad de los seguros
 
@@ -3046,8 +2630,6 @@ SECCIÓN 5
 
 Prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.1 — Radio de acción
 
 El radio de acción en esta modalidad será de carácter nacional. Incluye los perímetros departamental y nacional.
@@ -3058,8 +2640,6 @@ El perímetro del transporte nacional comprende el territorio de la Nación. El 
 
 (Decreto 171 de 2001, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.2 — Permiso
 
 La prestación de este servicio público de transporte estará sujeta a la expedición de un permiso o la celebración de un contrato de concesión o de operación por parte del Ministerio de Transporte.
@@ -3068,15 +2648,11 @@ PARÁGRAFO . El permiso para prestar el servicio público de transporte es revoc
 
 (Decreto 171 de 2001, artículo 23, modificado por el Decreto 198 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.3 — Otorgamiento del permiso
 
 La prestación del servicio público de transporte de pasajeros por carretera, será regulada y requiere de permiso, el cual se otorgará como resultado de un concurso en el que se garantizará la libre concurrencia y la iniciativa privada para la creación de nuevas empresas.
 
 (Decreto 171de 2001, artículo 24, modificado por el Decreto 198 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.4.5.4 — Determinación de las necesidades y demanda insatisfecha de movilización
 
@@ -3086,8 +2662,6 @@ Para el cumplimiento de esta obligación el Ministerio de Transporte podrá cont
 
 (Decreto 171 de 2001, artículo 25, modificado por el Decreto 198 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.5 — Autorización de nuevos servicios
 
 Las rutas y horarios a servirse adjudicarán por un término no mayor de cinco (5) años. En los términos de referencia del concurso se establecerán objetivos de calidad y excelencia en el servicio, que en caso de ser cumplidos por la empresa le permitan prorrogar de manera automática y por una sola vez el permiso hasta por el término inicialmente adjudicado.
@@ -3095,8 +2669,6 @@ Las rutas y horarios a servirse adjudicarán por un término no mayor de cinco (
 Los objetivos de calidad y excelencia estarán determinados por parámetros como la disminución de la edad del parque automotor, la optimización de los equipos de acuerdo con la demanda, la utilización de tecnologías limpias y otros parámetros que contribuyan a una mejora sustancial en la calidad y nivel de servicio inicialmente fijados.
 
 (Decreto 171 de 2001, artículo 26, modificado por el Decreto 198 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.4.5.6 — Apertura del concurso
 
@@ -3106,8 +2678,6 @@ Las reglas que regirán la participación en el concurso establecerán los aspec
 
 (Decreto 171 de 2001, artículo 27, modificado por el Decreto 198 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.4.5.7 — Evaluación de propuestas
 
 La evaluación de las propuestas se hará en forma integral y comparativa, teniendo en cuenta los factores de calificación que para el efecto se señalan en el presente Capítulo.
@@ -3115,8 +2685,6 @@ La evaluación de las propuestas se hará en forma integral y comparativa, tenie
 De acuerdo con la Ley 79 de 1988, se estimulará la constitución de cooperativas que tengan por objeto la prestación del Servicio Público de Transporte, las cuales tendrán prelación en la asignación de servicios cuando se encuentren en igualdad de condiciones con otras empresas interesadas.
 
 (Decreto 171 de 2001, artículo 28, modificado por el Decreto 198 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.4.5.8 — Procedimiento
 
@@ -3246,8 +2814,6 @@ SECCIÓN 6
 
 Aspectos generales en la operación y en la prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.4.6.1 — Prolongación de rutas
 
 Las empresas de transporte que tengan autorizada una ruta en origen-destino, podrán solicitar conjuntamente la prolongación de la misma, hasta en un 10% de su longitud inicial, sin exceder los 50 kilómetros, siempre y cuando el tramo a prolongarse no disponga de transporte autorizado o lo disponga en un nivel de servicio de inferiores condiciones al solicitado o corresponda a la construcción de una nueva vía.
@@ -3255,8 +2821,6 @@ Las empresas de transporte que tengan autorizada una ruta en origen-destino, pod
 Para tal efecto deberán registrar ante el Ministerio de Transporte el acta de acuerdo sobre la prolongación, indicando el nuevo destino de la ruta, debiendo empezar a servirla dentro de los quince (15) días siguientes a la ejecutoria del Acto Administrativo mediante la cual se autorizó la prolongación.
 
 (Decreto 171 de 2001, artículo 35)
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.2 — Modificación de rutas
 
@@ -3267,8 +2831,6 @@ Para lo anterior suscribirán un acta de acuerdo entre todas ellas, distribuyend
 Para tal efecto deberán registrar ante el Ministerio de Transporte el acta de acuerdo sobre la modificación, debiendo empezar a servirla dentro de los quince (15) días siguientes a la ejecutoria del Acto Administrativo mediante la cual se autorizó.
 
 (Decreto 171 de 2001, artículo 36).
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.3 — Reestructuración de horarios
 
@@ -3286,8 +2848,6 @@ PARÁGRAFO . Cuando no exista consenso para la suscripción del acta de acuerdo,
 
 (Decreto 171 de 2001, artículo 37).
 
-ARTÍCULO
-
 ## art:2.2.1.4.6.4 — Cambio de nivel de servicio
 
 Las empresas de transporte que tengan autorizada una ruta en origen-destino en el nivel de servicio básico podrán conjuntamente solicitar cambio de este nivel, manteniendo cuando menos un 50% del servicio en este nivel.
@@ -3298,23 +2858,17 @@ Para tal efecto deberán registrar ante el Ministerio de Transporte el acta de a
 
 (Decreto 171 de 2001, artículo 38).
 
-ARTÍCULO
-
 ## art:2.2.1.4.6.5 — Viajes ocasionales
 
 Para la realización de viajes ocasionales las empresas acreditarán el cumplimiento de los requisitos que para este efecto señale el Ministerio de Transporte, quien igualmente establecerá la ficha técnica para la elaboración del formato de la planilla única de viaje ocasional y los mecanismos de control correspondientes.
 
 (Decreto 171 de 2001, artículo 39).
 
-ARTÍCULO
-
 ## art:2.2.1.4.6.6 — Empalme de rutas
 
 Previa reglamentación del Ministerio de Transporte, las empresas que tengan autorizadas rutas cuyo origen y destino permitan empalmar recorridos, podrán solicitar el registro de la nueva ruta y horarios a servir.
 
 (Decreto 171 de 2001, artículo 40).
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.7 — Ruta de influencia
 
@@ -3323,8 +2877,6 @@ Es aquella que comunica municipios contiguos sujetos a una influencia recíproca
 Su determinación estará a cargo del Ministerio de Transporte, previa solicitud conjunta de las autoridades locales en materia de transporte de los municipios involucrados, quienes propondrán una decisión integral de transporte en cuanto a las características de prestación del servicio, de los equipos y el esquema para la fijación de tarifas.
 
 (Decreto 171 de 2001, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.8 — Convenios de colaboración empresarial
 
@@ -3340,8 +2892,6 @@ PARÁGRAFO . En épocas de temporada alta, las empresas de transporte de pasajer
 
 (Decreto 171 de 2001, artículo 42).
 
-ARTÍCULO
-
 ## art:2.2.1.4.6.9 — Autorización a propietarios por cancelación o negación de la habilitación
 
 El Ministerio de Transporte podrá autorizar hasta por el término de seis (6) meses a los propietarios de los vehículos vinculados a una empresa cuya habilitación haya sido cancelada o aquella con licencia de funcionamiento que no obtuvo habilitación, para seguir prestando el servicio público de transporte en las rutas autorizadas a la empresa.
@@ -3354,8 +2904,6 @@ Cuando los nuevos servicios de transporte sean adjudicados mediante un Contrato 
 
 (Decreto 171 de 2001, artículo 43, modificado por el Decreto 198 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.1.4.6.10 — Abandono de rutas
 
 Se considera abandonada una ruta cuando se disminuye injustificadamente el servicio autorizado en más de un 50% o cuando la empresa no inicia la prestación del servicio, una vez se encuentre ejecutoriado el acto que adjudicó la ruta.
@@ -3363,8 +2911,6 @@ Se considera abandonada una ruta cuando se disminuye injustificadamente el servi
 Cuando se compruebe que una empresa abandonó una ruta autorizada durante treinta (30) días consecutivos, el Ministerio de Transporte revocará el permiso, reducirá la capacidad transportadora autorizada y procederá a la apertura del concurso correspondiente.
 
 (Decreto 171 de 2001, artículo 44, modificado por el Decreto 198 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.1.4.6.11 — Desistimiento de prestación de servicios
 
@@ -3378,8 +2924,6 @@ SECCIÓN 7
 
 Capacidad transportadora
 
-ARTÍCULO
-
 ## art:2.2.1.4.7.1 — Definición
 
 La capacidad transportadora es el número de vehículos requeridos y exigidos para la adecuada y racional prestación de los servicios autorizados y/o registrados.
@@ -3392,8 +2936,6 @@ Si la capacidad transportadora autorizada a la empresa se encuentra utilizada a 
 
 (Decreto 171 de 2001, artículo 48).
 
-ARTÍCULO
-
 ## art:2.2.1.4.7.2 — Fijación
 
 El Ministerio de Transporte fijará la capacidad transportadora mínima y máxima con la cual la empresa prestará los servicios autorizados y/o registrados.
@@ -3405,8 +2947,6 @@ La capacidad transportadora máxima no podrá ser superior a la capacidad mínim
 El parque automotor no podrá estar por fuera de los límites de la capacidad transportadora mínima y máxima fijada a la empresa.
 
 (Decreto 171 de 2001, artículo 49).
-
-ARTÍCULO
 
 ## art:2.2.1.4.7.3 — Racionalización
 
@@ -3426,8 +2966,6 @@ Del Grupo A al Grupo B o del Grupo B al Grupo C, es decir en forma ascendente, s
 
 (Decreto 171 de 2001, artículo 50).
 
-ARTÍCULO
-
 ## art:2.2.1.4.7.4 — Unificación automática
 
 Las empresas podrán unificar la clase de vehículo autorizado en cada una de las rutas asignadas, de acuerdo con los Grupos antes señalados, así:
@@ -3446,23 +2984,17 @@ SECCIÓN 8
 
 Vinculación y desvinculación de equipos
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.1 — Equipos
 
 Las empresas habilitadas para la prestación del Servicio Público de Transporte Terrestre Automotor de Pasajeros por Carretera sólo podrán hacerlo con equipos registrados en el servicio público.
 
 (Decreto 171 de 2001, artículo 52).
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.2 — Vinculación
 
 La vinculación de un vehículo a una empresa de transporte público es la incorporación de éste al parque automotor de dicha empresa. Se formaliza con la celebración del respectivo contrato entre el propietario del vehículo y la empresa y se oficializa con la expedición de la tarjeta de operación por parte del Ministerio de Transporte.
 
 (Decreto 171 de 2001, artículo 53).
-
-ARTÍCULO
 
 ## art:2.2.1.4.8.3 — Contrato de vinculación
 
@@ -3476,15 +3008,11 @@ Los vehículos que sean de propiedad de la empresa habilitada, se entenderán vi
 
 (Decreto 171 de 2001, artículo 54).
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.4 — Desvinculación de común acuerdo
 
 Cuando exista acuerdo para la desvinculación del vehículo, la empresa y el propietario de manera conjunta, informarán por escrito de esta decisión al Ministerio de Transporte, quien procederá a efectuar el trámite correspondiente cancelando la respectiva Tarjeta de Operación.
 
 (Decreto 171 de 2001, artículo 55).
-
-ARTÍCULO
 
 ## art:2.2.1.4.8.5 — Desvinculación administrativa por solicitud del propietario
 
@@ -3497,8 +3025,6 @@ Vencido el contrato de vinculación, cuando no exista acuerdo entre las partes, 
 PARÁGRAFO . El propietario interesado en la desvinculación del vehículo no podrá prestar sus servicios en otra empresa hasta tanto no se haya autorizado la desvinculación.
 
 (Decreto 171 de 2001, artículo 56).
-
-ARTÍCULO
 
 ## art:2.2.1.4.8.6 — Desvinculación administrativa por solicitud de la empresa
 
@@ -3518,8 +3044,6 @@ Si en ese plazo no sustituye el vehículo, se procederá a ajustar la capacidad 
 
 (Decreto 171 de 2001, artículo 57).
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.7 — Procedimiento
 
 Para efecto de la desvinculación administrativa establecida en los artículos anteriores se observará el siguiente procedimiento:
@@ -3534,8 +3058,6 @@ La Resolución que ordena la desvinculación del vehículo, proferida por el Min
 
 (Decreto 171 de 2001, artículo 58).
 
-ARTÍCULO
-
 ## art:2.2.1.4.8.8 — Pérdida, hurto o destrucción total
 
 En el evento de pérdida, hurto o destrucción total del vehículo, su propietario tendrá derecho a reemplazarlo por otro, bajo el mismo contrato de vinculación, dentro del término de un (1) año contado a partir de la fecha en que ocurrió el hecho. Si el contrato de vinculación vence antes de este término, se entenderá prorrogado hasta el cumplimiento del año.
@@ -3543,8 +3065,6 @@ En el evento de pérdida, hurto o destrucción total del vehículo, su propietar
 Para efectos de la capacidad transportadora mínima exigida a la empresa, durante este período no se tendrá en cuenta la falta del vehículo.
 
 (Decreto 171 de 2001, artículo 59).
-
-ARTÍCULO
 
 ## art:2.2.1.4.8.9 — Cambio de empresa
 
@@ -3558,15 +3078,11 @@ SECCIÓN 9
 
 Tarjeta de operación
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.1 — Definición
 
 La tarjeta de operación es el documento único que autoriza a un vehículo automotor para prestar el servicio público de transporte de pasajeros por carretera bajo la responsabilidad de una empresa, de acuerdo con los servicios a esta autorizados y/o registrados.
 
 (Decreto 171 de 2001, artículo 61).
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.2 — Expedición
 
@@ -3574,15 +3090,11 @@ El Ministerio de Transporte expedirá la tarjeta de operación únicamente a los
 
 (Decreto 171 de 2001, artículo 62).
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.3 — Vigencia de la tarjeta de operación
 
 La tarjeta de operación se expedirá por el término de dos (2) años y podrá modificarse o cancelarse si cambian las condiciones exigidas a la empresa para el otorgamiento de la habilitación.
 
 (Decreto 171 de 2001, artículo 63).
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.4 — Contenido
 
@@ -3597,8 +3109,6 @@ La tarjeta de operación contendrá al menos los siguientes datos:
 PARÁGRAFO . La tarjeta de operación deberá ajustarse como mínimo a la ficha técnica que para el efecto expida el Ministerio de Transporte.
 
 (Decreto 171 de 2001, artículo 64).
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.5 — Requisitos para su obtención o renovación
 
@@ -3624,8 +3134,6 @@ PARÁGRAFO . En caso de duplicado por pérdida, la tarjeta de operación que se 
 
 (Decreto 171 de 2001, artículo 65).
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.6 — Obligación de gestionarla
 
 Es obligación de las empresas gestionar las tarjetas de operación de la totalidad de su parque automotor y de entregarlas oportunamente a sus propietarios, debiendo solicitar su renovación por lo menos con dos (2) meses de anticipación a la fecha de vencimiento.
@@ -3636,15 +3144,11 @@ Dentro de los diez (10) días siguientes a la entrega de las nuevas tarjetas de 
 
 (Decreto 171 de 2001, artículo 66).
 
-ARTÍCULO
-
 ## art:2.2.1.4.9.7 — Obligación de portarla
 
 El conductor del vehículo deberá portar el original de la tarjeta de operación y presentarlo a la autoridad competente que lo solicite.
 
 (Decreto 171 de 2001, artículo 67).
-
-ARTÍCULO
 
 ## art:2.2.1.4.9.8 — Retención
 
@@ -3655,8 +3159,6 @@ Las autoridades de tránsito y transporte sólo podrán retener la tarjeta de op
 SECCIÓN 10
 
 Creación, habilitación, homologación y operación de los terminales
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.1 — Objeto
 
@@ -3670,15 +3172,11 @@ c) Determinar las sanciones, así como los sujetos activos y pasivos de las mism
 
 (Decreto 2762 de 2001, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.2 — Naturaleza del servicio y alcance
 
 Se consideran de servicio público las actividades que se desarrollan en los terminales de transporte terrestre automotor de pasajeros por carretera, entendiéndolas como aquellas que se refieren a la operación, en general, de la actividad transportadora.
 
 (Decreto 2762 de 2001, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.3 — Naturaleza jurídica de los terminales
 
@@ -3686,15 +3184,11 @@ Las empresas administradoras y operadoras de terminales de transporte terrestre 
 
 (Decreto 2762 de 2001, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.4 — Prestación de este servicio público
 
 El servicio público a que se refiere esta Sección será prestado por personas jurídicas que cumplan con los requisitos establecidos en la misma y en las demás normas que la complementen o adicionen.
 
 (Decreto 2762 de 2001, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.5 — Definición
 
@@ -3705,8 +3199,6 @@ PARÁGRAFO 1. Las terminales de transporte público de pasajeros por carretera l
 PARÁGRAFO 2. Se entiende como Terminal de Operación Satélite, Periférica, toda unidad complementaria de servicios de la terminal de transporte principal, que depende económica, administrativa, financiera y operativamente de la persona jurídica que administre la misma, de la cual deben hacer uso las empresas de transporte terrestre automotor de pasajeros por carretera que cubren rutas autorizadas con origen, destino o tránsito por el respectivo distrito o municipio.
 
 (Decreto 2762 de 2001, artículo 5, modificado por el Decreto 2028 de 2006, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.6 — Obligatoriedad
 
@@ -3722,9 +3214,9 @@ SUBSECCIÓN 1
 
 Autoridades competentes
 
-## art:2.2.1.4.10 — 1.1
+## art:2.2.1.4.10.1.1 — Autoridades
 
-Autoridades. En materia de terminales de transporte terrestre de pasajeros por carretera, y para los diferentes efectos, se consideran autoridades competentes las siguientes:
+En materia de terminales de transporte terrestre de pasajeros por carretera, y para los diferentes efectos, se consideran autoridades competentes las siguientes:
 
 Autoridad municipal o distrital: para la determinación de los planes y programas contenidos en el Plan de Ordenamiento Territorial, POT, el traslado de las empresas de transporte a las instalaciones del terminal de transporte y la prohibición del establecimiento de terminales en instalaciones particulares diferentes a las aprobadas por el Ministerio de Transporte dentro del perímetro de los respectivos municipios.
 
@@ -3738,15 +3230,11 @@ SUBSECCIÓN 2
 
 Requisitos mínimos para la creación y habilitación
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.2.1 — Estudio
 
 Para la creación y operación de un terminal de transporte terrestre automotor de pasajeros por carretera, se deberá efectuar por la sociedad interesada, sea esta privada, pública o mixta, un estudio de factibilidad que contenga la justificación económica, operativa y técnica del proyecto.
 
 (Decreto 2762 de 2001, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.2.2 — Justificación técnica
 
@@ -3757,8 +3245,6 @@ La proyección de la infraestructura deberá garantizar el cubrimiento del creci
 En todo caso las condiciones técnicas y operativas ofrecidas deberán permitir una explotación rentable, eficiente, segura, cómoda y accesible a todos los usuarios, contando con mecanismos para el fácil desplazamiento de los discapacitados físicos.
 
 (Decreto 2762 de 2001, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.2.3 — Aprobación del proyecto
 
@@ -3818,15 +3304,11 @@ SUBSECCIÓN 3
 
 Tasas de uso
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.3.1 — Definición
 
 Denominase tasas de uso el valor que deben cancelar las Empresas de Transporte por el uso de las áreas operativas de los terminales de transporte terrestre de pasajeros por carretera, a la empresa terminal de transporte.
 
 (Decreto 2762 de 2001, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.3.2 — Fijación
 
@@ -3841,8 +3323,6 @@ PARÁGRAFO 2. El Ministerio de Transporte establecerá la tasa que deben pagar l
 SUBSECCIÓN 4
 
 Obligaciones de las terminales
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.4.1 — Obligaciones
 
@@ -3878,8 +3358,6 @@ SUBSECCIÓN 5
 
 Derechos, deberes y prohibiciones de las empresas de transporte frente a los terminales de transporte terrestre automotor
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.5.1 — Derechos
 
 Las empresas transportadoras debidamente autorizadas o habilitadas para prestar el servicio de transporte de pasajeros, al utilizar los terminales de transporte terrestre automotor de pasajeros tendrán los siguientes derechos:
@@ -3891,8 +3369,6 @@ Las empresas transportadoras debidamente autorizadas o habilitadas para prestar 
 3. Tener acceso, en condiciones de equidad, a los servicios conexos y complementarios que ofrecen las Terminales, dentro de las condiciones de uso establecidas.
 
 (Decreto 2762 de 2001, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.5.2 — Deberes
 
@@ -3909,8 +3385,6 @@ Son deberes de las empresas transportadoras usuarias de terminales de transporte
 5. Suministrar información permanente, veraz y oportuna sobre el servicio, tanto a la empresa terminal como a los usuarios.
 
 (Decreto 2762 de 2001, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.5.3 — Prohibiciones
 
@@ -3938,8 +3412,6 @@ Se prohíbe a las empresas transportadoras de pasajeros, usuarias de los termina
 
 (Decreto 2762 de 2001, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.5.4 — Terminales de Operación Satélite, Periférica
 
 Las obligaciones, deberes, prohibiciones y sanciones de que trata la presente Sección, se aplicarán a las Terminales de Operación Satélite, Periférica.
@@ -3952,8 +3424,6 @@ SUBSECCIÓN 6
 
 Sanciones y procedimiento
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.6.1 — Sanciones a los terminales de transporte
 
 De conformidad con lo previsto en el artículo 9 de la Ley 105 de 1993 y normas complementarias, las autoridades previstas en el artículo 2.2.1.4.10.1.1 del presente Decreto, dentro de lo que sea de su competencia, podrán sancionar a las empresas terminales de transporte que incumplan con las obligaciones señaladas en el artículo 2.2.1.4.10.4.1 del presente Decreto, con amonestación escrita o multas que oscilen entre 1 y 5 salarios mínimos legales mensuales vigentes.
@@ -3962,8 +3432,6 @@ En la graduación de la sanción se tendrán en cuenta la gravedad de la infracc
 
 (Decreto 2762 de 2001, artículo 17).
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.6.2 — Procedimiento
 
 Para garantizar el derecho de defensa y la eficacia del debido proceso, en la aplicación de las sanciones contempladas en la presente Sección, se tendrá en cuenta el procedimiento previsto en los artículos 50 y 51 de la Ley 336 de 1996 o normas posteriores que la modifiquen o sustituyan.
@@ -3971,8 +3439,6 @@ Para garantizar el derecho de defensa y la eficacia del debido proceso, en la ap
 PARÁGRAFO . El pago de la multa dentro del término de traslado, dará derecho a rebajarla en un cincuenta (50%) por ciento.
 
 (Decreto 2762 de 2001, artículo 18).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.6.3 — Sanciones a las empresas de transporte
 
@@ -3988,23 +3454,17 @@ SUBSECCIÓN 7
 
 Disposiciones varias
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.7.1 — Traslado de las empresas al terminal
 
 Los Alcaldes Municipales podrán ordenar el traslado de las empresas de transporte a los terminales, prohibiendo su funcionamiento en instalaciones particulares dentro del perímetro urbano de los respectivos municipios.
 
 (Decreto 2762 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.4.10.7.2 — Colaboración de las autoridades de tránsito
 
 Con el fin de contribuir al cumplimiento de las disposiciones contenidas en la presente Sección, las autoridades de transporte y tránsito nacionales y locales velarán para que las empresas transportadoras utilicen los terminales de transporte terrestre de conformidad con la presente Sección y exigirán el comprobante que acredite la cancelación de las tarifas de las tasas de uso. Igualmente controlarán que las empresas transportadoras hagan uso de las vías de salida e ingreso a los terminales y no recojan pasajeros por fuera del terminal de transporte.
 
 (Decreto 2762 de 2001, artículo 22).
-
-ARTÍCULO
 
 ## art:2.2.1.4.10.7.3 — Cumplimiento de las normas
 
@@ -4016,15 +3476,11 @@ CAPÍTULO 5
 
 Servicio Público de Transporte Terrestre Automotor Mixto
 
-ARTÍCULO
-
 ## art:2.2.1.5.1 — Objeto y Principios
 
 El presente Capítulo tiene como objeto reglamentar la habilitación de las empresas de Transporte Público Terrestre Automotor Mixto y la prestación por parte de estas de un servicio eficiente, seguro, oportuno y económico, bajo los criterios básicos de cumplimiento de los principios rectores del transporte, como son la libre competencia y la iniciativa privada, a los cuales solamente se aplicarán las restricciones establecidas por la Ley y los Convenios Internacionales.
 
 (Decreto 175 de 2001, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.5.2 — Ámbito de aplicación
 
@@ -4032,15 +3488,11 @@ Las disposiciones contenidas en el presente Capítulo se aplicarán integralment
 
 (Decreto 175 de 2001, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.1.5.3 — Servicio público de transporte terrestre automotor mixto
 
 Es aquel que se presta bajo la responsabilidad de una empresa de transporte legalmente constituida y debidamente habilitada, a través de un contrato celebrado entre la empresa de transporte y cada una de las personas que utilizan el servicio para su traslado simultáneo con el de sus bienes o carga, en una zona de operación autorizada.
 
 (Decreto 175 de 2001, artículo 6, modificado por el Decreto 4190 de 2007, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.5.4 — Definiciones
 
@@ -4066,15 +3518,11 @@ SECCIÓN 1
 
 Clasificación
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.1 — Zona de operación
 
 Es una región geográfica que requiere del servicio público de transporte terrestre automotor mixto para garantizar el intercambio comercial y el desplazamiento de la población entre áreas de producción y centros de consumo o mercadeo unidos entre sí por vías carreteables.
 
 (Decreto 4190 de 2007, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.2 — Clasificación de zonas de operación
 
@@ -4092,8 +3540,6 @@ SECCIÓN 2
 
 Autoridades competentes
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.1 — Autoridades de transporte
 
 Son autoridades de transporte competentes las siguientes:
@@ -4108,8 +3554,6 @@ PARÁGRAFO . Las autoridades locales no podrán autorizar servicios por fuera de
 
 (Decreto 175 de 2001, artículo 9).
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.2 — Control y vigilancia
 
 La inspección, vigilancia y control de la prestación de este servicio público en la jurisdicción nacional o intermunicipal estará a cargo de la Superintendencia de Puertos y Transporte.
@@ -4120,8 +3564,6 @@ SECCIÓN 3
 
 Habilitación
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.1 — Disposición general
 
 Las empresas legalmente constituidas, interesadas en prestar el Servicio Público de Transporte Terrestre Mixto deberán solicitar y obtener habilitación para operar.
@@ -4130,8 +3572,6 @@ La habilitación concedida autoriza a la empresa para prestar el servicio solame
 
 (Decreto 175 de 2001, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.2 — Empresas nuevas
 
 Ninguna empresa nueva podrá entrar a operar hasta tanto la autoridad competente le otorgue la habilitación correspondiente y le asigne o registre los recorridos y frecuencias a servir.
@@ -4139,8 +3579,6 @@ Ninguna empresa nueva podrá entrar a operar hasta tanto la autoridad competente
 Cuando las autoridades de control y vigilancia constaten la prestación del servicio sin autorización, tanto la habilitación como los servicios se negarán y la empresa solicitante no podrá presentar nueva solicitud antes de doce (12) meses.
 
 (Decreto 175 de 2001, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.3 — Requisitos
 
@@ -4196,8 +3634,6 @@ Con esta certificación, se deberá adjuntar copia de los dictámenes e informes
 
 PARÁGRAFO 2. Las empresas nuevas deberán acreditar los requisitos establecidos en los numerales 5, 6 y 13 en un término no superior a seis (6) meses improrrogables, contados a partir de la ejecutoria de la resolución que le otorga la habilitación so pena que esta sea revocada.
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.4 — Plazo para decidir
 
 Presentada la solicitud de habilitación, la autoridad competente dispondrá de un término no superior a noventa (90) días para decidir.
@@ -4205,8 +3641,6 @@ Presentada la solicitud de habilitación, la autoridad competente dispondrá de 
 La habilitación se concederá o negará mediante resolución motivada en la que se especificará como mínimo el nombre, razón social o denominación, domicilio principal, capital pagado, patrimonio líquido, radio de acción y modalidad de la empresa.
 
 (Decreto 175 de 2001, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.5 — Vigencia de la habilitación
 
@@ -4216,15 +3650,11 @@ PARÁGRAFO . En todos aquellos casos de transformación, fusión, absorción o i
 
 (Decreto 175 de 2001, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.1.5.3.6 — Suministro de información
 
 Las empresas mantendrán a disposición de la autoridad competente de transporte y de la Superintendencia de Puertos y Transporte las estadísticas, libros y demás documentos que permitan verificar la información suministrada.
 
 (Decreto 175 de 2001, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.5.3.7 — Empresas Habilitadas en vigencia de los Decretos 091 y 1558 de 1998
 
@@ -4235,8 +3665,6 @@ Las empresas que obtuvieron habilitación en vigencia del Decreto 091 de 1998 la
 SECCIÓN 4
 
 Seguros
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.1 — Pólizas
 
@@ -4266,15 +3694,11 @@ El monto asegurable por cada riesgo no podrá ser inferior a 60 SMMLV, por perso
 
 (Decreto 175 de 2001, artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.2 — Pago de la prima
 
 Cuando el servicio se preste en vehículos que no sean de propiedad de la empresa, en el contrato de vinculación deben quedar claramente definidas las condiciones y el procedimiento mediante el cual se efectuará el recaudo de la prima correspondiente, con cargo al propietario del vehículo.
 
 (Decreto 175 de 2001, artículo 19).
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.3 — Vigencia de los seguros
 
@@ -4284,15 +3708,11 @@ La compañía de seguros que ampare a la empresa de transporte con relación a l
 
 (Decreto 175 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.5.4.4 — Fondo de responsabilidad
 
 Sin perjuicio de la obligación de obtener y mantener vigentes las Pólizas de seguros señaladas en el presente Capítulo, las empresas de transporte podrán constituir fondos de responsabilidad como mecanismo complementario para cubrir los riesgos derivados de la prestación del servicio, cuyo funcionamiento, administración, vigilancia y control lo ejercerá la Superintendencia Financiera o la entidad de inspección y vigilancia que sea competente, según la naturaleza jurídica del fondo.
 
 (Decreto 175 de 2001, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.1.5.4.5 — Obligatoriedad de los seguros
 
@@ -4304,15 +3724,11 @@ SECCIÓN 5
 
 Prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.1 — Objeto
 
 La presente Sección tiene por objeto determinar el procedimiento para otorgar el permiso de prestación del servicio público de transporte terrestre automotor mixto.
 
 (Decreto 4190 de 2007, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.2 — Equipo
 
@@ -4326,8 +3742,6 @@ El servicio público de transporte terrestre automotor mixto que se autorice a p
 
 (Decreto 4190 de 2007, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.3 — Concurso
 
 El permiso para la prestación del servicio público de transporte terrestre automotor mixto tanto de carácter metropolitano, distrital o municipal como regional, en zonas de operación, se efectuará mediante concurso en el que se garantice la libre concurrencia y la iniciativa privada, con arreglo a lo dispuesto en esta disposición.
@@ -4340,8 +3754,6 @@ PARÁGRAFO 2. Las empresas que obtuvieron habilitación por primera vez, entre e
 
 (Decreto 4190 de 2007, artículo 6).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.4 — Término
 
 Los permisos para la prestación del servicio público de transporte terrestre automotor mixto en zonas de operación, se otorgarán por un término de diez (10) años, prorrogables por un término máximo de seis (6) años, previa demostración y evaluación de la calidad del servicio.
@@ -4350,15 +3762,11 @@ La evaluación de la calidad del servicio estará enfocada a determinar el grado
 
 (Decreto 4190 de 2007, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.5 — Condiciones del concurso
 
 Para participar en el concurso no es condición previa estar habilitado como empresa de transporte mixto. Si la empresa resulta favorecida con la adjudicación del servicio, deberá solicitar y obtener la habilitación en esta modalidad de acuerdo con los requisitos y condiciones señalados en este Capítulo.
 
 (Decreto 4190 de 2007, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.6 — Procedimiento
 
@@ -4374,8 +3782,6 @@ Para el otorgamiento del permiso de prestación del servicio mixto en las zonas 
 
 (Decreto 4190 de 2007, artículo 9).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.7 — Determinación de las necesidades y demanda insatisfecha de movilización
 
 Le corresponde a la autoridad de transporte competente determinar las necesidades y demanda insatisfecha de movilización de oficio o a petición de parte y desarrollar las medidas conducentes a su satisfacción.
@@ -4383,8 +3789,6 @@ Le corresponde a la autoridad de transporte competente determinar las necesidade
 PARÁGRAFO . El Ministerio de Transporte establecerá la metodología para determinar las necesidades y demanda insatisfecha de movilización.
 
 (Decreto 4190 de 2007, artículo 10).
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.8 — Apertura del concurso público
 
@@ -4400,15 +3804,11 @@ Las empresas podrán presentar sus propuestas dentro de los diez (10) días háb
 
 (Decreto 4190 de 2007, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.9 — Seriedad de la propuesta
 
 La empresa interesada en participar en el concurso deberá presentar con la propuesta una póliza de seriedad expedida por una compañía de seguros legalmente autorizada para funcionar en Colombia, con una vigencia como mínimo igual al término del concurso y ocho meses más y por un valor asegurado mínimo de doscientos (200) salarios mínimos mensuales legales vigentes.
 
 (Decreto 4190 de 2007, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.10 — Evaluación de propuestas
 
@@ -4580,8 +3980,6 @@ Este factor se califica así:
 
 (Decreto 4190 de 2007, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.11 — Adjudicación del servicio
 
 La adjudicación de la zona de operación para la prestación del servicio mixto se hará a la empresa que mayor puntaje obtenga al sumar los resultados de cada uno de los factores evaluados, ponderados de conformidad con el porcentaje de participación de la siguiente tabla:
@@ -4632,8 +4030,6 @@ PARÁGRAFO . Contra el acto administrativo que otorga el permiso de operación, 
 
 (Decreto 4190 de 2007, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.12 — Iniciación de prestación del servicio
 
 Dentro de un plazo no superior a seis (6) meses, contados a partir de la fecha de expedición del permiso, la empresa adjudicataria tiene la obligación de servir la zona de operación con las características del servicio ofrecido, por el término de diez (10) años, previa acreditación ante la autoridad competente de la existencia de los vehículos ofrecidos en la cantidad y condiciones técnicas señaladas en la propuesta.
@@ -4646,8 +4042,6 @@ En este evento la entidad, mediante acto administrativo debidamente motivado, po
 
 (Decreto 4190 de 2007, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.1.5.5.13 — Transporte ocasional
 
 Los vehículos clase campero y bus escalera vinculados a las empresas de transporte habilitadas para la prestación del servicio mixto, podrán excepcionalmente efectuar viajes ocasionales en un radio de acción distinto al autorizado, con el porte de una planilla de viaje ocasional expedida por el Ministerio de Transporte.
@@ -4655,8 +4049,6 @@ Los vehículos clase campero y bus escalera vinculados a las empresas de transpo
 PARÁGRAFO . Para dar cumplimiento a lo señalado en el presente artículo, el Ministerio de Transporte reglamentará las condiciones en que se prestará el servicio.
 
 (Decreto 4190 de 2007, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.1.5.5.14 — Transitorio
 
@@ -4668,8 +4060,6 @@ SECCIÓN 6
 
 Aspectos generales en la operación y en la prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.5.6.1 — Convenios de colaboración empresarial
 
 La autoridad competente autorizará convenios de colaboración empresarial bajo las figuras del consorcio, unión temporal o asociación entre empresas habilitadas, encaminados a la racionalización del uso del equipo automotor, procurando una mejor, eficiente, cómoda y segura prestación del servicio.
@@ -4680,8 +4070,6 @@ PARÁGRAFO . En caso de terminación del convenio, cada empresa continuará pres
 
 (Decreto 175 de 2001, artículo 29).
 
-ARTÍCULO
-
 ## art:2.2.1.5.6.2 — Autorización a propietarios por cancelación o negación de la habilitación
 
 La autoridad competente podrá autorizar hasta por el término de seis (6) meses a los propietarios de los vehículos vinculados a una empresa cuya habilitación haya sido cancelada o aquella con licencia de funcionamiento que no obtuvo habilitación, para seguir prestando el servicio público de transporte en las rutas autorizadas a la empresa.
@@ -4690,8 +4078,6 @@ En un término improrrogable de seis (6) meses contados a partir de la ejecutori
 
 (Decreto 175 de 2001, artículo 30).
 
-ARTÍCULO
-
 ## art:2.2.1.5.6.3 — Abandono de recorridos
 
 Se considera abandonado un recorrido cuando se disminuye injustificadamente el servicio autorizado en más de un 50% durante treinta (30) días consecutivos o cuando transcurre este término sin que la empresa inicie la prestación del servicio una vez se encuentre ejecutoriado el acto administrativo que registró el recorrido.
@@ -4699,8 +4085,6 @@ Se considera abandonado un recorrido cuando se disminuye injustificadamente el s
 Cuando se compruebe que una empresa dejó de servir una ruta autorizada, la autoridad competente revocará el permiso, reducirá la capacidad transportadora autorizada o registrada y procederá a hacer efectiva la garantía contemplada en el artículo 2.2.1.5.5.12 del presente Decreto.
 
 (Decreto 175 de 2001, artículo 31).
-
-ARTÍCULO
 
 ## art:2.2.1.5.6.4 — Desistimiento de prestación de servicios
 
@@ -4714,8 +4098,6 @@ SECCIÓN 7
 
 Capacidad transportadora
 
-ARTÍCULO
-
 ## art:2.2.1.5.7.1 — Definición
 
 La capacidad transportadora es el número de vehículos requeridos y exigidos para la adecuada y racional prestación de los servicios autorizados y/o registrados.
@@ -4728,8 +4110,6 @@ Si la capacidad transportadora autorizada a la empresa se encuentra utilizada a 
 
 (Decreto 175 de 2001, artículo 34).
 
-ARTÍCULO
-
 ## art:2.2.1.5.7.2 — Fijación
 
 La autoridad competente fijará la capacidad transportadora mínima y máxima con la cual la empresa prestará los servicios autorizados y/o registrados.
@@ -4741,8 +4121,6 @@ La capacidad transportadora máxima no podrá ser superior a la capacidad mínim
 El parque automotor no podrá estar por fuera de los límites de la capacidad transportadora mínima y máxima fijada a la empresa.
 
 (Decreto 175 de 2001, artículo 35).
-
-ARTÍCULO
 
 ## art:2.2.1.5.7.3 — Cambio de clase de vehículo
 
@@ -4760,23 +4138,17 @@ SECCIÓN 8
 
 Vinculación y desvinculación de equipos
 
-ARTÍCULO
-
 ## art:2.2.1.5.8.1 — Equipos
 
 Las empresas habilitadas para la prestación del Servicio Público de Transporte Terrestre Automotor Mixto solo podrán hacerlo con equipos registrados en el servicio público.
 
 (Decreto 175 de 2001, artículo 37).
 
-ARTÍCULO
-
 ## art:2.2.1.5.8.2 — Vinculación
 
 La vinculación de un vehículo a una empresa de transporte público es la incorporación de este al parque automotor de dicha empresa. Se formaliza con la celebración del respectivo contrato entre el propietario del vehículo y la empresa y se oficializa con la expedición de la tarjeta de operación por parte de la autoridad de transporte competente.
 
 (Decreto 175 de 2001, artículo 38).
-
-ARTÍCULO
 
 ## art:2.2.1.5.8.3 — Contrato de vinculación
 
@@ -4790,15 +4162,11 @@ Los vehículos que sean de propiedad de la empresa habilitada, se entenderán vi
 
 (Decreto 175 de 2001, artículo 39).
 
-ARTÍCULO
-
 ## art:2.2.1.5.8.4 — Desvinculación de común acuerdo
 
 Cuando exista acuerdo para la desvinculación del vehículo, la empresa y el propietario de manera conjunta, informarán por escrito de esta decisión a la autoridad competente, quien procederá a efectuar el trámite correspondiente, cancelando la respectiva tarjeta de operación.
 
 (Decreto 175 de 2001, artículo 40).
-
-ARTÍCULO
 
 ## art:2.2.1.5.8.5 — Desvinculación administrativa por solicitud del propietario
 
@@ -4813,8 +4181,6 @@ Vencido el contrato de vinculación, cuando no exista acuerdo entre las partes, 
 PARÁGRAFO . El propietario interesado en la desvinculación del vehículo no podrá prestar sus servicios en otra empresa hasta tanto no se haya autorizado la desvinculación.
 
 (Decreto 175 de 2001, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.1.5.8.6 — Desvinculación administrativa por solicitud de la empresa
 
@@ -4838,8 +4204,6 @@ Si en ese plazo no sustituye el vehículo, se procederá a ajustar la capacidad 
 
 (Decreto 175 de 2001, artículo 42).
 
-ARTÍCULO
-
 ## art:2.2.1.5.8.7 — Procedimiento para la desvinculación administrativa
 
 Para efecto de la desvinculación administrativa establecida en los artículos anteriores se observará el siguiente procedimiento:
@@ -4854,8 +4218,6 @@ La resolución que ordena la desvinculación del vehículo, proferida por la aut
 
 (Decreto 175 de 2001, artículo 43).
 
-ARTÍCULO
-
 ## art:2.2.1.5.8.8 — Pérdida, hurto o destrucción total
 
 En el evento de pérdida, hurto o destrucción total del vehículo, su propietario tendrá derecho a reemplazarlo por otro, bajo el mismo contrato de vinculación, dentro del término de un (1) año contado a partir de la fecha en que ocurrió el hecho. Si el contrato de vinculación vence antes de este término, se entenderá prorrogado hasta el cumplimiento del año.
@@ -4863,8 +4225,6 @@ En el evento de pérdida, hurto o destrucción total del vehículo, su propietar
 Para efectos de la capacidad transportadora mínima exigida a la empresa, durante este período no se tendrá en cuenta la falta del vehículo.
 
 (Decreto 175 de 2001, artículo 44).
-
-ARTÍCULO
 
 ## art:2.2.1.5.8.9 — Cambio de empresa
 
@@ -4878,15 +4238,11 @@ SECCIÓN 9
 
 Tarjeta de operación
 
-ARTÍCULO
-
 ## art:2.2.1.5.9.1 — Definición
 
 La tarjeta de operación es el documento único que autoriza a un vehículo automotor para prestar el servicio público de transporte mixto bajo la responsabilidad de una empresa, de acuerdo con los servicios a esta autorizados y/o registrados.
 
 (Decreto 175 de 2001, artículo 46).
-
-ARTÍCULO
 
 ## art:2.2.1.5.9.2 — Expedición
 
@@ -4894,15 +4250,11 @@ La autoridad competente expedirá la tarjeta de operación únicamente a los veh
 
 (Decreto 175 de 2001, artículo 47).
 
-ARTÍCULO
-
 ## art:2.2.1.5.9.3 — Vigencia de la tarjeta de operación
 
 La tarjeta de operación se expedirá por el término de dos (2) años y podrá modificarse o cancelarse si cambian las condiciones exigidas a la empresa para el otorgamiento de la habilitación.
 
 (Decreto 175 de 2001, artículo 48).
-
-ARTÍCULO
 
 ## art:2.2.1.5.9.4 — Contenido
 
@@ -4917,8 +4269,6 @@ La tarjeta de operación contendrá al menos, los siguientes datos:
 PARÁGRAFO . La tarjeta de operación deberá ajustarse como mínimo a la ficha técnica que para el efecto establezca el Ministerio de Transporte.
 
 (Decreto 175 de 2001, artículo 49).
-
-ARTÍCULO
 
 ## art:2.2.1.5.9.5 — Requisitos para su obtención o renovación
 
@@ -4946,8 +4296,6 @@ PARÁGRAFO . En caso de duplicado por pérdida, la tarjeta de operación que se 
 
 (Decreto 175 de 2001, artículo 50).
 
-ARTÍCULO
-
 ## art:2.2.1.5.9.6 — Obligación de gestionarla
 
 Es obligación de las empresas gestionar las tarjetas de operación de la totalidad de su parque automotor y de entregarlas oportunamente a sus propietarios, debiendo solicitar su renovación por lo menos con dos (2) meses de anticipación a la fecha de vencimiento.
@@ -4958,15 +4306,11 @@ Dentro de los diez (10) días siguientes a la entrega de las nuevas tarjetas de 
 
 (Decreto 175 de 2001, artículo 51).
 
-ARTÍCULO
-
 ## art:2.2.1.5.9.7 — Obligación de portarla
 
 El conductor del vehículo deberá portar el original de la tarjeta de operación y presentarla a la autoridad competente que la solicite.
 
 (Decreto 175 de 2001, artículo 52).
-
-ARTÍCULO
 
 ## art:2.2.1.5.9.8 — Retención
 
@@ -4978,15 +4322,11 @@ SECCIÓN 10
 
 Servicio público de transporte terrestre automotor mixto en motocarro
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1 — Objeto
 
 La presente Sección tiene por objeto reglamentar la habilitación de las empresas de servicio público de transporte terrestre automotor mixto en vehículos clase motocarro y el procedimiento para otorgar el permiso para la prestación de dicho servicio público de forma eficiente, segura, oportuna y económica, bajo los criterios básicos de cumplimiento de los principios rectores de transporte tales como la libre competencia y la iniciativa privada.
 
 (Decreto 4125 de 2008, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.2 — Servicio público de transporte terrestre automotor mixto en motocarro
 
@@ -4998,8 +4338,6 @@ SUBSECCIÓN 1
 
 Habilitación y prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.1 — Población
 
 En los municipios del territorio nacional con población total inferior a 50.000 habitantes, el servicio público de transporte mixto veredal podrá prestarse en motocarros a través de empresas o cooperativas legalmente constituidas y habilitadas en el municipio correspondiente que tengan por objeto único el transporte, en las cuales los propietarios del parque automotor de motocarros sean dueños del ciento por ciento (100%) de la empresa.
@@ -5007,8 +4345,6 @@ En los municipios del territorio nacional con población total inferior a 50.000
 PARÁGRAFO . El servicio público de transporte en motocarro se autorizará para el radio de acción municipal. Excepcionalmente, cuando la prestación del servicio de transporte sea insuficiente o precaria en zonas de operación conformadas por varios municipios del territorio nacional con población total inferior a 50.000 habitantes, el Ministerio de Transporte podrá autorizar la prestación del servicio público de transporte en motocarro, en las condiciones y mediante el mismo procedimiento previsto en la presente Sección.
 
 (Decreto 4125 de 2008, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.2 — Requisitos para la habilitación
 
@@ -5034,23 +4370,17 @@ Las personas jurídicas interesadas en obtener habilitación para la prestación
 
 (Decreto 4125 de 2008, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.3 — Trámite de habilitación
 
 La autoridad competente dispondrá de un término no superior a 90 días para decidir sobre la solicitud de habilitación. La habilitación se concederá mediante resolución motivada en la que se especificará como mínimo el nombre, razón social o denominación, domicilio personal, capital pagado, patrimonio líquido, radio de acción y modalidad de la empresa.
 
 (Decreto 4125 de 2008, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.4 — Homologación
 
 La prestación del servicio público de transporte mixto en motocarro, deberá efectuarse con equipos homologados conforme a las características y especificaciones técnicas y de seguridad que determine el Ministerio de Transporte.
 
 (Decreto 4125 de 2008, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.5 — Acceso al servicio
 
@@ -5062,8 +4392,6 @@ Para participar en el concurso no es condición previa estar habilitado como emp
 
 (Decreto 4125 de 2008, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.6 — Estudios previos de oferta y demanda
 
 La autoridad municipal de transporte competente deberá elaborar los estudios de oferta y demanda de necesidades del servicio, de acuerdo con la metodología establecida por el Ministerio de Transporte para tales efectos.
@@ -5071,8 +4399,6 @@ La autoridad municipal de transporte competente deberá elaborar los estudios de
 Cuando los estudios determinen que existe demanda insatisfecha del servicio, la autoridad competente elaborará los términos de referencia correspondientes los cuales establecerán los aspectos relativos al objeto del concurso, fecha y hora de apertura y cierre, requisitos que deben llenar los proponentes, plazo del concurso, clase y número de vehículos, condiciones de la póliza de seriedad de la propuesta, reglas y criterios para la evaluación de las propuestas y el otorgamiento del permiso, la determinación y ponderación de los factores objetivos de selección, derechos y obligaciones de los adjudicatarios y todas las demás circunstancias de tiempo, modo y lugar que se consideren necesarias para garantizar reglas objetivas y claras.
 
 (Decreto 4125 de 2008, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.7 — Apertura del concurso público
 
@@ -5084,8 +4410,6 @@ Las empresas presentarán sus propuestas dentro de los diez (10) días hábiles 
 
 (Decreto 4125 de 2008, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.8 — Seriedad de la propuesta
 
 La empresa interesada en participar en el concurso deberá presentar con la propuesta una póliza expedida por una compañía de seguros legalmente autorizada que garantice las obligaciones surgidas de la propuesta hasta su adjudicación, con una vigencia como mínimo igual al término del concurso y cuatro meses más y por un valor asegurado mínimo de cien (100) salarios mínimos mensuales legales vigentes.
@@ -5093,8 +4417,6 @@ La empresa interesada en participar en el concurso deberá presentar con la prop
 La póliza se deberá ampliar cuando se extienda el término para adelantar el concurso.
 
 (Decreto 4125 de 2008, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.9 — Evaluación de propuestas
 
@@ -5105,8 +4427,6 @@ El acto de adjudicación se expedirá en audiencia pública mediante acto admini
 PARÁGRAFO . Contra el acto administrativo que otorga el acto de adjudicación, proceden los recursos de la vía gubernativa de conformidad con el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 4125 de 2008, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.10 — Prestación del servicio
 
@@ -5120,15 +4440,11 @@ En este evento la entidad, dentro de los quince (15) días siguientes mediante a
 
 (Decreto 4125 de 2008, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.11 — Renovación del permiso
 
 La empresa deberá informar a la autoridad competente su interés en continuar con la prestación de este servicio, dentro de los seis (6) meses anteriores al vencimiento del permiso. Dentro de los cinco días siguientes a que se radique el documento en que el operador manifieste su interés, este hará pública su manifestación a través de un medio de comunicación escrito de amplia circulación local, de lo cual deberá allegar copia a la autoridad competente. Surtido el trámite anterior, la autoridad competente evaluará la calidad de la prestación del servicio para lo cual deberá implementar mecanismos de participación ciudadana para efectos de adoptar la decisión administrativa correspondiente. En caso de negarse la renovación del permiso, la autoridad competente iniciará de oficio la apertura del concurso público.
 
 (Decreto 4125 de 2008, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.12 — Propiedad de los equipos
 
@@ -5140,8 +4456,6 @@ La prestación del servicio público de transporte en motocarro sólo podrá rea
 
 (Decreto 4125 de 2008, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.13 — Color de los equipos y tarjeta de operación
 
 Los vehículos motocarro autorizados para la prestación del servicio público de transporte mixto deberán ser en su totalidad pintados en color blanco sin propaganda o publicidad alguna y para la operación de los mismos se requerirá la obtención de la tarjeta de operación.
@@ -5149,8 +4463,6 @@ Los vehículos motocarro autorizados para la prestación del servicio público d
 Para efectos del otorgamiento de la tarjeta de operación para esta modalidad de servicio se tendrán en cuenta los requisitos previstos en los artículos 2.2.1.5.9.1 a 2.2.1.5.9.8 del presente Decreto.
 
 (Decreto 4125 de 2008, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.14 — Capacidad transportadora
 
@@ -5163,8 +4475,6 @@ La capacidad transportadora máxima no podrá ser superior a la capacidad mínim
 El incremento de la capacidad transportadora estará supeditado a la adjudicación de nuevos servicios.
 
 (Decreto 4125 de 2008, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.1.15 — Seguros
 
@@ -5192,8 +4502,6 @@ El monto asegurable por cada riesgo no podrá ser inferior a 60 SMMLV, por perso
 
 (Decreto 4125 de 2008, artículo 18).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.1.16 — Vigencia de los seguros
 
 La vigencia de las pólizas de responsabilidad civil contractual y extracontractual será condición para la operación de los vehículos vinculados legalmente a las empresas autorizadas para la prestación del servicio en esta modalidad.
@@ -5205,8 +4513,6 @@ La compañía de seguros que ampare a la empresa de transporte con relación a l
 SUBSECCIÓN 2
 
 Sanciones a empresas que prestan el servicio público de transporte terrestre automotor mixto en motocarro y propietarios de equipos
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.2.1 — Sanciones
 
@@ -5260,15 +4566,11 @@ En desarrollo del artículo 9 de la Ley 105 de 1993 y de los artículos 44, 45 y
 
 (Decreto 4125 de 2008, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.2.2 — Sanciones máximas
 
 En los casos de incremento o disminución de las tarifas cuando estas se encuentran reguladas, o en los casos de prestación de servicios no autorizados, en estos eventos se impondrá el máximo de la multa permitida (setecientos -700- salarios mínimos mensuales legales vigentes).
 
 (Decreto 4125 de 2008, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.2.3 — Incumplimiento
 
@@ -5276,23 +4578,17 @@ Cuando el sujeto de sanción no haya dado cumplimiento a la amonestación escrit
 
 (Decreto 4125 de 2008, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.2.4 — Graduación de la sanción
 
 Para efectos de la graduación de la sanción se tendrá en cuenta el grado de perturbación del servicio público de transporte y las circunstancias de tiempo, modo y lugar en que se cometió la infracción. Para este efecto, se tendrá en consideración los daños ocasionados a la infraestructura de transporte, el riesgo a la integridad y vida de las personas, a los bienes que se transportan y los perjuicios causados a los mismos.
 
 (Decreto 4125 de 2008, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.2.5 — Inmovilización
 
 La inmovilización o retención de los vehículos de que trata la presente Sección, se hará con arreglo a lo dispuesto en el artículo 49 de la Ley 336 de 1996, en concordancia con el trámite previsto en los artículos 2.2.1.8.2.1 al 2.2.1.8.2.4 del Capítulo 8, Título1, Parte 2 del Libro 2 del presente Decreto.
 
 (Decreto 4125 de 2008, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.2.6 — Suspensión
 
@@ -5304,8 +4600,6 @@ SUBSECCIÓN 3
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.1.5.10.3.1 — Tarifas
 
 Compete a las autoridades locales la fijación de las tarifas de servicio público de transporte terrestre automotor mixto en motocarro, las cuales se establecerán con sujeción a la realización de los estudios de costos a la canasta del transporte, como mínimo en cada año y de conformidad con las políticas y los criterios fijados por el Ministerio de Transporte.
@@ -5313,8 +4607,6 @@ Compete a las autoridades locales la fijación de las tarifas de servicio públi
 PARÁGRAFO . En aquellos municipios donde no se efectúen los estudios de costos de que trata el presente artículo, el incremento de las tarifas no podrá ser superior a la meta de inflación definida por el Banco de la República, para el respectivo año.
 
 (Decreto 4125 de 2008, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.1.5.10.3.2 — Prohibición
 
@@ -5328,15 +4620,11 @@ CAPÍTULO 6
 
 Servicio público de transporte terrestre automotor especial
 
-ARTÍCULO
-
 ## art:2.2.1.6.1 — Objeto y principios
 
 El presente Capítulo tiene como objeto reglamentar la prestación del Servicio Público de Transporte Terrestre Automotor Especial y establecer los requisitos que deben cumplir las empresas interesadas en obtener y mantener la habilitación en ésta modalidad, las cuales deberán operar de forma eficiente, segura, oportuna y económica, cumpliendo con los principios rectores del transporte como el de la libre competencia y el de la iniciativa privada, a las cuales solamente se les aplicarán las restricciones establecidas por la ley y los Convenios Internacionales.
 
 (Decreto 348 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.6.2 — Ámbito de aplicación
 
@@ -5344,15 +4632,11 @@ Las disposiciones contenidas en el presente Capítulo se aplicarán integralment
 
 (Decreto 348 de 2015, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.1.6.3 — Transporte público, transporte privado y actividad trasportadora
 
 Para efectos del presente Capítulo se entenderá por transporte público lo dispuesto en el artículo 3 de la Ley 105 de 1993 y por transporte privado y por actividad transportadora lo señalado en los artículos 5 y 6 de la Ley 336 de 1996.
 
 (Decreto 348 de 2015, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.1.6.4 — Servicio público de transporte terrestre automotor especial
 
@@ -5365,8 +4649,6 @@ Los contratos suscritos para la prestación del Servicio Público de Transporte 
 PARÁGRAFO 2. El transporte especial de pasajeros, en sus diferentes servicios, no podrá contratarse ni prestarse a través de operadores turísticos, salvo en aquellos casos en los que el operador turístico este habilitado como empresa de transporte especial.
 
 (Decreto 348 de 2015, artículo 4; Modificado por el Decreto 431 de 2017, art. 1).
-
-ARTÍCULO
 
 ## art:2.2.1.6.5 — Definiciones
 
@@ -5382,15 +4664,11 @@ SECCIÓN 1
 
 Autoridades competentes
 
-ARTÍCULO
-
 ## art:2.2.1.6.1.1 — Autoridad de transporte
 
 Para todos los efectos a que haya lugar, el Servicio Público de Transporte Terrestre Automotor Especial será regulado y autorizado por el Ministerio de Transporte.
 
 (Decreto 348 de 2015, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.6.1.2 — Inspección, vigilancia y control
 
@@ -5408,8 +4686,6 @@ SECCIÓN 2
 
 Prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.1 — Radio de acción
 
 El radio de acción de las empresas de
@@ -5417,8 +4693,6 @@ El radio de acción de las empresas de
 Transporte Público Terrestre Automotor Especial será de carácter Nacional.
 
 (Decreto 348 de 2015, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.1.6.2.2 — Tiempo de uso de los vehículos
 
@@ -5436,8 +4710,6 @@ La presente disposición también será aplicable a los vehículos que cumpliero
 
 (Modificado por el Art. 1 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.2.3 — Desintegración física total
 
 Los vehículos automotores que cumplan su tiempo de uso en el Servicio Público de Transporte Terrestre Automotor Especial deberán ser objeto de desintegración física total y no podrán movilizarse por las vías públicas o privadas abiertas al público. En caso de incumplimiento, las autoridades de control deberán proceder de conformidad con las normas sancionatorias que rigen la materia.
@@ -5447,8 +4719,6 @@ PARÁGRAFO . Para la entrega del vehículo, la autoridad de tránsito competente
 Lo anterior, sin perjuicio de lo establecido en el parágrafo del artículo 2.2.1.6.14.4 del presente Decreto.
 
 (Decreto 348 de 2015, artículo 10; Modificado por el Decreto 431 de 2017, art. 4).
-
-ARTÍCULO
 
 ## art:2.2.1.6.2.4 — Colores y distintivos
 
@@ -5475,8 +4745,6 @@ Para llevar un control de lo anterior, las empresas deberán radicar en la corre
 SECCIÓN 3
 
 Contratación del Servicio de Transporte Especial
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.1 — Contratación
 
@@ -5510,8 +4778,6 @@ PARÁGRAFO 3. Los contratos suscritos para la prestación del Servicio Público 
 
 (Parágrafo 3, adicionado por el Art. 2 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.2 — Contratos de Transporte
 
 Para la celebración de los contratos de servicio público de transporte terrestre automotor especial con cada uno de los grupos de usuarios señalados en el presente capítulo, se deben tener en cuenta las siguientes definiciones y condiciones:
@@ -5534,8 +4800,6 @@ PARÁGRAFO 2. Las empresas de Servicio Público de Transporte Terrestre Automoto
 
 (Modificado por el Art. 3 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.3 — Extracto del contrato
 
 Durante toda la prestación del servicio, el conductor del vehículo deberá portar el extracto del contrato, el cual deberá expedirse conforme la regulación que expida el Ministerio de Transporte.
@@ -5545,8 +4809,6 @@ PARÁGRAFO 1. El Ministerio de transporte reglamentará la expedición del extra
 PARÁGRAFO 2. La inexistencia o alteración del extracto del contrato, advertida por la autoridad de control de tránsito en vía, dará lugar a la inmovilización del vehículo, de conformidad con lo dispuesto en el literal c del artículo 49 de la Ley 336 de 1996. Los errores mecanográficos que no presenten enmendaduras ni tachones, no constituyen inexistencia o alteración del documento.
 
 (Decreto 348 de 2015, artículo 14; Modificado por el Decreto 431 de 2017, art. 8).
-
-ARTÍCULO
 
 ## art:2.2.1.6.3.4 — Convenios de colaboración empresarial
 
@@ -5566,8 +4828,6 @@ PARÁGRAFO 3. El transportador contractual podrá recibir en convenio para la op
 
 (Parágrafo 3, modificado por el Art. 4 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.5 — Contratos con empresas de transporte de pasajeros por carretera
 
 Las empresas de transporte público terrestre automotor especial debidamente habilitadas podrán suplir las necesidades de parque automotor de las empresas de servicio público de transporte terrestre automotor de pasajeros por carretera en períodos de alta demanda, previo contrato suscrito con la empresa de transporte de pasajeros por carretera, bajo la exclusiva responsabilidad de esta última.
@@ -5584,8 +4844,6 @@ PARÁGRAFO 2. Hasta tanto se implemente el Sistema de Información de que trata 
 
 (Decreto 348 de 2015, artículo 16; Modificado por el Decreto 431 de 2017, art. 10).
 
-ARTÍCULO
-
 ## art:2.2.1.6.3.6 — Habilitación
 
 Las empresas legalmente constituidas, interesadas en prestar el Servicio Público de Transporte Terrestre Automotor Especial, deberán solicitar y obtener habilitación para operar este tipo de servicio. Si la empresa, pretende prestar el servicio de transporte en una modalidad diferente, debe acreditar ante la autoridad competente los requisitos de habilitación exigidos.
@@ -5596,7 +4854,7 @@ La habilitación es intransferible a cualquier título. En consecuencia, los ben
 
 (Decreto 348 de 2015, artículo 17).
 
-## art:2.2.1.6.3.7 — Empresa nueva
+## art:2.2.1.6.3.7e — mpresa nueva
 
 Es la persona jurídica que solicita habilitación en la modalidad de transporte especial por primera vez.
 
@@ -5609,8 +4867,6 @@ En caso de que las autoridades de inspección, vigilancia y control constaten qu
 SECCIÓN 4
 
 Habilitación
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.1 — Requisitos
 
@@ -5720,15 +4976,11 @@ PARÁGRAFO TRANSITORIO. Certificados de calidad. A las empresas habilitadas que 
 
 (Parágrafo transitorio, adicionado por el Art. 7 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.2 — Ajuste de patrimonio líquido
 
 Dentro de los cuatro primeros meses del año, las empresas habilitadas para la prestación del Servicio Público de Transporte Terrestre Automotor Especial deberán ajustar el patrimonio líquido, de conformidad con la capacidad transportadora que se le asigne dentro de los rangos establecidos en el numeral 13 del artículo 2.2.1.6.4.1 y en atención a la variación del salario mínimo legal.
 
 (Decreto 348 de 2015, artículo 20; Modificado por el Decreto 431 de 2017, art. 13).
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.3 — Plazo para decidir
 
@@ -5746,8 +4998,6 @@ PARÁGRAFO 2. La negativa que se realice de la solicitud de habilitación deber�
 
 (Decreto 348 de 2015, artículo 21; Modificado por el Decreto 431 de 2017, art. 14).
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.4 — Vigencia de la habilitación
 
 Sin perjuicio del régimen sancionatorio contenido en la Ley 336 de 1996 o la que la modifique, adicione o sustituya, la habilitación de las empresas de Servicio Público de Transporte Terrestre Automotor Especial será indefinida, mientras subsistan las condiciones exigidas y acreditadas al momento de su otorgamiento.
@@ -5758,15 +5008,11 @@ PARÁGRAFO . Corresponderá a la Superintendencia de Puertos y Transporte autori
 
 (Decreto 348 de 2015, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.1.6.4.5 — Habilitaciones en múltiples modalidades
 
 Las empresas que pretendan habilitarse o que estén habilitadas en más de una modalidad, deben ajustar su patrimonio, funcionamiento, operación y estructura organizacional de conformidad con las disposiciones de cada modalidad.
 
 (Decreto 348 de 2015, artículo 23).
-
-ARTÍCULO
 
 ## art:2.2.1.6.4.6 — Suministro de información
 
@@ -5781,8 +5027,6 @@ PARÁGRAFO 2. Una vez entre en vigencia el Sistema de Información que para el e
 SECCIÓN 5
 
 Seguros
-
-ARTÍCULO
 
 ## art:2.2.1.6.5.1 — Obligatoriedad
 
@@ -5812,15 +5056,11 @@ El monto asegurable por cada riesgo no podrá ser inferior a cien (100) SMMLV po
 
 (Decreto 348 de 2015, artículo 25).
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.2 — Pago de la prima
 
 Cuando el servicio se preste en vehículos que no sean de propiedad de la empresa, en el contrato de administración de flota deben quedar claramente definidas las condiciones y el procedimiento mediante el cual será descontado o recaudado el valor de la prima correspondiente, sin que éste pueda ser superior al que la empresa cancele a la respectiva compañía de seguros.
 
 (Decreto 348 de 2015, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.1.6.5.3 — Vigencia de las pólizas de seguros
 
@@ -5832,8 +5072,6 @@ La compañía de seguros tiene la obligación de reportar de manera inmediata al
 
 (Decreto 348 de 2015, artículo 27).
 
-ARTÍCULO
-
 ## art:2.2.1.6.5.4 — Fondo de responsabilidad
 
 Sin perjuicio de la obligación de obtener y mantener vigentes las pólizas de seguro señaladas en la presente Sección, las empresas de Servicio Público de Transporte Terrestre Automotor Especial, podrán constituir fondos de responsabilidad como mecanismo complementario para cubrir los riesgos derivados de la prestación del servicio, cuyo funcionamiento, administración, vigilancia y control lo ejercerá la Superintendencia Financiera o la entidad de inspección y vigilancia que sea competente según la naturaleza jurídica del fondo. En dichos fondos se deberá incluir la representación de los propietarios y locatarios de vehículos.
@@ -5844,23 +5082,17 @@ SECCIÓN 6
 
 Equipos
 
-ARTÍCULO
-
 ## art:2.2.1.6.6.1 — Tipología vehicular
 
 En todos los casos los vehículos que se destinen a la prestación del Servicio Público de Transporte Terrestre Automotor Especial deberán cumplir con las condiciones técnico-mecánicas, de emisiones contaminantes y las especificaciones de tipología vehicular requeridas y homologadas por el Ministerio de Transporte para la prestación del servicio.
 
 (Decreto 348 de 2015, artículo 29).
 
-ARTÍCULO
-
 ## art:2.2.1.6.6.2 — Vehículos accesibles
 
 El Ministerio de Transporte establecerá las condiciones técnicas que deberán tener los vehículos que se destinen para la prestación del servicio de transporte especial de personas con discapacidad, movilidad reducida y pacientes no crónicos, de tal manera que el traslado se efectúe de manera cómoda, segura y accesible.
 
 (Decreto 348 de 2015, artículo 30).
-
-ARTÍCULO
 
 ## art:2.2.1.6.6.3 — Capacidad del vehículo
 
@@ -5873,8 +5105,6 @@ Cada pasajero ocupará un (1) puesto de acuerdo con la capacidad establecida en 
 SECCIÓN 7
 
 Capacidad transportadora
-
-ARTÍCULO
 
 ## art:2.2.1.6.7.1 — Capacidad transportadora
 
@@ -5896,8 +5126,6 @@ La capacidad transportadora flotante, por el contrario, sí requerirá de la cel
 
 (Modificado por el Art. 8 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.7.2 — Fijación e incremento
 
 La fijación de la capacidad transportadora consiste en la asignación por primera y 1Jnica vez de la capacidad transportadora operacional a la empresa que ha obtenido la habilitación, la cual deberá ser solicitada por la empresa nueva dentro de los cuatro (4) meses siguientes a la fecha de ejecutoria de la resolución de habilitación para el Servicio Público de Transporte Terrestre Automotor Especial.
@@ -5917,8 +5145,6 @@ PARÁGRAFO 2. El Ministerio de Transporte remitirá a la DIAN para lo pertinente
 PARÁGRAFO 3. La fijación o incremento de la capacidad transportadora se solicitará por las empresas de transporte cuando el desarrollo de su actividad lo haga necesario. En ning1Jn caso la inexistencia de capacidad transportadora operacional o su disminución será por si misma causal de cancelación de la habilitación o de cualquier otra sanción."
 
 (Modificado por el Art. 9 del Decreto 478 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.6.7.3 — Incremento de la capacidad transportadora operacional
 
@@ -5960,8 +5186,6 @@ PARÁGRAFO 2. Para incrementar la capacidad transportadora global del servicio d
 
 (Decreto 348 de 2015, artículo 34; Modificado por el Decreto 431 de 2017, art. 18).
 
-ARTÍCULO
-
 ## art:2.2.1.6.7.4 — Racionalización de la capacidad transportadora
 
 Una vez se autorice el ingreso de nuevas unidades a la capacidad transportadora, la empresa deberá hacer uso del incremento en un plazo de cuatro (4) meses, contados desde la fecha de la notificación del acto administrativo que lo otorgó. Vencido éste término, el Ministerio de Transporte ajustará de oficio la capacidad al número y clase de vehículos administrados a la fecha de la expedición del acto administrativo por medio del cual se racionaliza la capacidad, sin desconocer los trámites radicados y sin decidir.
@@ -5971,8 +5195,6 @@ PARÁGRAFO 1. El ajuste por racionalización del parque automotor se realizará 
 PARÁGRAFO 2. Las empresas de Servicio Público de Transporte Terrestre Automotor Especial a las cuales se les haya racionalizado la capacidad transportadora podrán presentar una nueva solicitud de aumento de capacidad transportadora, transcurridos seis (6) meses, contados a partir de la fecha de notificación del acto administrativo mediante el cual se ajustó la capacidad transportadora.
 
 (Decreto 348 de 2015, artículo 35).
-
-ARTÍCULO
 
 ## art:2.2.1.6.7.5 — 7.5
 
@@ -5985,8 +5207,6 @@ De conformidad con lo anterior, la permanencia de un vehículo automotor dentro 
 SECCIÓN 8
 
 Contrato de Administración de Flota
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.1 — Contrato de vinculación de flota
 
@@ -6005,8 +5225,6 @@ Para los vehículos que sean de propiedad de la empresa habilitada no es necesar
 PARÁGRAFO . El paz y salvo de las partes entre sí no tendrá costo alguno y en ningún caso será condición para la desvinculación o para la realización de trámites de tránsito o transporte. De igual manera, las empresas no podrán generar en el contrato de vinculación ni a través de otros medios obligación pecuniaria alguna para permitir la desvinculación del vehículo.
 
 (Decreto 348 de 2015, artículo 36; Modificado por el Decreto 431 de 2017, art. 20).
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.2 — Responsabilidad de la empresa
 
@@ -6030,23 +5248,17 @@ En los casos de vinculación de flota por afiliación, la empresa se responsabil
 
 (Decreto 348 de 2015, artículo 37; Modificado por el Decreto 431 de 2017, art. 21).
 
-ARTÍCULO
-
 ## art:2.2.1.6.8.3 — Terminación del contrato de vinculación por mutuo acuerdo
 
 Cuando la terminación del contrato de vinculación sea de mutuo acuerdo, el propietario o locatario y la empresa debidamente habilitada, de manera conjunta, informarán por escrito de esta decisión al Ministerio de Transporte y este procederá a efectuar el trámite correspondiente, cancelando la respectiva tarjeta de operación
 
 (Decreto 348 de 2015, artículo 38; Modificado por el Decreto 431 de 2017, art. 22).
 
-ARTÍCULO
-
 ## art:2.2.1.6.8.4 — Terminación del contrato de vinculación de forma unilateral
 
 Sin perjuicio de la responsabilidad civil y comercial que de ello se derive, cualquiera de las partes puede terminar unilateralmente el contrato de vinculación. Tal decisión deberá ser informada a través de correo certificado a la dirección del domicilio registrada en el documento suscrito entre las partes, que contiene las condiciones del contrato, con una antelación no menor de 60días calendario a la terminación del contrato o al plazo en el cual se espera darlo por terminado. Copia de dicha comunicación deberá ser enviada al Ministerio de Transporte para la cancelación de la tarjeta de operación.
 
 (Decreto 348 de 2015, artículo 39; Modificado por el Decreto 431 de 2017, art. 23).
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.5 — Desvinculación administrativa del vehículo en vigencia del contrato de vinculación
 
@@ -6088,15 +5300,11 @@ Cuando la empresa sea la que solicite la desvinculación prevista en este artíc
 
 (Decreto 348 de 2015, artículo 40; Modificado por el Decreto 431 de 2017, art. 24).
 
-ARTÍCULO
-
 ## art:2.2.1.6.8.6 — 8.6
 
 Terminación del contrato de administración de flota por cancelación de la habilitación o condición resolutoria de la misma. Los contratos de administración de flota se darán por terminados automáticamente con la ejecutoria de la resolución que cancele la habilitación de las empresas de Servicio Público de Transporte Terrestre Automotor Especial, emitida por parte del Ministerio de Transporte, evento en el cual se cancelarán las tarjetas de operación de los vehículos administrados. Lo anterior sin perjuicio de las acciones civiles y comerciales que se desprendan del contrato de administración de flota suscrito entre las partes.
 
 (Decreto 348 de 2015, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.7 — Pérdida, hurto o destrucción del vehículo
 
@@ -6104,15 +5312,11 @@ En el evento de pérdida, hurto o destrucción del vehículo, su propietario o l
 
 (Decreto 348 de 2015, artículo 42).
 
-ARTÍCULO
-
 ## art:2.2.1.6.8.8 — Cambio de empresa
 
 El Ministerio de Transporte autorizará el cambio de empresa de un vehículo automotor de Servicio Público de Transporte Terrestre Automotor Especial, cuando se acredite la configuración de cualquiera de las causales de desvinculación o cuando el propietario demuestre con los extractos de pago de que trata el inciso tercero del artículo 2.2.1.6.8.1 y las facturas que soportan los costos de operación, que la actividad no le generó ninguna utilidad económica en el semestre anterior a la solicitud
 
 (Decreto 348 de 2015, artículo 43; Modificado por el Decreto 431 de 2017, art. 25).
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.9 — Prohibición de cambio de modalidad
 
@@ -6121,8 +5325,6 @@ De ninguna manera se permitirá el ingreso de vehículos de otra modalidad al Se
 No se podrá realizar el cambio de modalidad de los vehículos de Servicio Público de Transporte Terrestre Automotor Especial, exceptuando el cambio a la modalidad de Servicio Público de Transporte Terrestre Mixto, siempre y cuando cuenten con la homologación para esta última modalidad y que el modelo no sea de una antigüedad superior a diez (10) años."
 
 (Modificado por el Art. 12 del Decreto 478 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.10 — Formas de vinculación de flota
 
@@ -6140,8 +5342,6 @@ Por lo anterior, la planeación, organización, desarrollo y control de la opera
 
 (Decreto 431 de 2017, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.1.6.8.11 — Desvinculación jurisdiccional
 
 La decisión de autoridad judicial que declare terminado el contrato de vinculación de un vehículo al parque automotor de la empresa transportadora da lugar a la desvinculación inmediata del mismo y al consecuente cambio de empresa.
@@ -6154,15 +5354,11 @@ Cuando la decisión haya tenido lugar por alguno de los supuestos de que trata e
 
 (Decreto 431 de 2017, art. 26)
 
-ARTÍCULO
-
 ## art:2.2.1.6.8.12 — Desvinculación por terminación del contrato de administración de flota
 
 Terminado el contrato de vinculación, sin que las partes logren un acuerdo sobre su renovación, cualquiera de ellas notificará tal hecho al Ministerio de Transporte, para que el mismo proceda a la cancelación de la tarjeta de operación,
 
 (Decreto 431 de 2017, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.1.6.8.13 — Obligaciones de las empresas habilitadas
 
@@ -6218,15 +5414,11 @@ SECCIÓN 9
 
 Tarjeta de operación
 
-ARTÍCULO
-
 ## art:2.2.1.6.9.1 — Definición
 
 La tarjeta de operación es el documento único que autoriza la operación de transporte que se realiza a través de un vehículo automotor, convirtiéndose en el permiso para operar en la modalidad de Servicio Público de Transporte Terrestre Automotor Especial, bajo la responsabilidad de una empresa debidamente habilitada, de acuerdo con los servicios contratados.
 
 (Decreto 348 de 2015, artículo 45).
-
-ARTÍCULO
 
 ## art:2.2.1.6.9.2 — Expedición y renovación de la tarjeta de operación
 
@@ -6238,8 +5430,6 @@ PARÁGRAFO TRANSITORIO. Para la renovación de las tarjetas de operación cuya v
 
 (Parágrafo Transitorio, adicionado por el Art. 13 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.9.3 — Vigencia de la tarjeta de operación
 
 La tarjeta de operación se expedirá a solicitud de la empresa por el término de dos (2) años.
@@ -6249,8 +5439,6 @@ La tarjeta de operación podrá modificarse o cancelarse si cambian las condicio
 PARÁGRAFO . Cuando se expida la tarjeta de operación a vehículos que se encuentren próximos a cumplir el tiempo de uso determinado en el presente Capítulo, la vigencia de este documento no podrá en ningún caso exceder el tiempo de uso del vehículo.
 
 (Decreto 348 de 2015, artículo 47; Modificado por el Decreto 431 de 2017, art 28).
-
-ARTÍCULO
 
 ## art:2.2.1.6.9.4 — Contenido
 
@@ -6265,8 +5453,6 @@ La tarjeta de operación contendrá, al menos, los siguientes datos:
 PARÁGRAFO . La tarjeta de operación deberá ajustarse a la ficha técnica expedida por el Ministerio de Transporte.
 
 (Decreto 348 de 2015, artículo 48).
-
-ARTÍCULO
 
 ## art:2.2.1.6.9.5 — Acreditación de requisitos para la expedición de la tarjeta de operación por primera vez
 
@@ -6306,15 +5492,11 @@ PARÁGRAFO 2. Para la acreditación de los requisitos señalados en los numerale
 
 (Parágrafo 2, adicionado por el Art. 14 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.9.6 — Requisitos para la renovación de la tarjeta de operación
 
 Para renovar la tarjeta de operación, el representante legal de la empresa presentará la solicitud ante el Ministerio de Transporte adjuntando los documentos señalados en los numerales 1, 3, 4, 5, 6, 7, 11, 12 y 13 del artículo anterior.
 
 (Decreto 348 de 2015, artículo 50; Modificado por el Decreto 431 de 2017, art. 30).
-
-ARTÍCULO
 
 ## art:2.2.1.6.9.7 — Requisitos para la expedición de la tarjeta de operación por incremento de la capacidad transportadora
 
@@ -6324,15 +5506,11 @@ En el Balance General, en el Activo, se debe evidenciar en la partida Equipos de
 
 (Decreto 348 de 2015, artículo 51; Modificado por el Decreto 431 de 2017, art. 31).
 
-ARTÍCULO
-
 ## art:2.2.1.6.9.8 — Duplicado de la tarjeta de operación
 
 En caso de duplicado por pérdida o deterioro, la tarjeta de operación que se expida no podrá tener una vigencia superior a la de la tarjeta originalmente autorizada.
 
 (Decreto 348 de 2015, artículo 52).
-
-ARTÍCULO
 
 ## art:2.2.1.6.9.9 — Obligación de gestionar la tarjeta de operación
 
@@ -6342,8 +5520,6 @@ En ningún caso la empresa podrá cobrar suma alguna a los propietarios o locata
 
 (Decreto 348 de 2015, artículo 53).
 
-ARTÍCULO
-
 ## art:2.2.1.6.9.10 — Obligación de portarla
 
 El conductor del vehículo deberá portar el original de la tarjeta de operación y presentarla a la autoridad competente que la solicite.
@@ -6351,8 +5527,6 @@ El conductor del vehículo deberá portar el original de la tarjeta de operació
 Cuando se implemente la expedición de la tarjeta de operación a través del sistema RUNT, el control por parte de las autoridades en vía se hará mediante el uso de herramientas tecnológicas. En tal caso desaparece la obligación de portar el original.
 
 (Decreto 348 de 2015, artículo 54).
-
-ARTÍCULO
 
 ## art:2.2.1.6.9.11 — Retención de la tarjeta de operación
 
@@ -6368,8 +5542,6 @@ SECCIÓN 10
 
 Transporte escolar público y privado
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.1 — Identificación de los vehículos utilizados para el transporte de estudiantes
 
 Los vehículos de las empresas de Transporte Público Terrestre Automotor Especial que se dediquen al transporte de estudiantes, además de los colores y distintivos señalados en el presente Capítulo, deberán tener pintadas en la parte posterior de la carrocería, franjas alternas de diez (10) centímetros de ancho en colores amarillo pantone 109 y negro, con inclinación de 45 grados y una altura mínima de 60 centímetros.
@@ -6382,15 +5554,11 @@ PARÁGRAFO . Los colores y distintivos deberán portarse durante todo el tiempo 
 
 (Decreto 348 de 2015, artículo 56).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.2 — Estudiantes con discapacidad
 
 Los vehículos que transporten estudiantes con discapacidad, tanto de centros educativos o centros de educación especial, deben contar con asientos y cinturones de seguridad adecuados, que garanticen el transporte seguro. De igual forma, deben contar con espacio en los sectores adyacentes a las puertas de ingreso y deberán prever un lugar para el acceso y transporte de sillas de ruedas, muletas u otros equipos que faciliten la movilidad de los pasajeros y adultos acompañantes.
 
 (Decreto 348 de 2015, artículo 57).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.3 — Verificación técnica y operativa aplicable al transporte escolar
 
@@ -6420,8 +5588,6 @@ Una vez finalizado cada recorrido, el adulto acompañante deberá verificar que 
 
 (Decreto 348 de 2015, artículo 58; Modificado por el Decreto 431 de 2017, art. 33).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.4 — Contenido mínimo de los contratos
 
 El contrato celebrado entre la empresa habilitada y los establecimientos educativos, Entidades Territoriales, Secretarias de Educación certificadas, asociaciones de padres de familia o grupo de padres de familia, para la prestación del servicio público de transporte escotar deberá contener como mínimo las obligaciones y derechos de cada una de las partes, plazo, valor, indicando expresamente la tipología vehicular, la capacidad del vehículo y su identificación.
@@ -6431,8 +5597,6 @@ Las empresas habilitadas remitirán las copias de todos los contratos celebrados
 Ningún establecimiento educativo o persona natural o jurídica podrá cobrar comisiones o intermediación en relación con el valor que se pague por el servicio a la empresa habilitada.
 
 (Decreto 348 de 2015, artículo 59).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.5 — Obligaciones de los establecimientos educativos
 
@@ -6458,9 +5622,7 @@ PARÁGRAFO 1. Los establecimientos educativos no podrán percibir ninguna remune
 
 PARÁGRAFO 2. El adulto que monitoree el recorrido podrá ser directamente contratado por el transportador, si le es remunerado como costo adicional al servicio de transporte y en tal evento, el establecimiento educativo, Entidad Territorial, Secretaria de Educación certificada, asociación de padres de familia o grupo de padres de familia, según el caso, fijará las condiciones y protocolos para el desarrollo de la labor del monitor.
 
-(Decreto 348 de 2015, artículo 60; Numeral 6 Modificado por el Decreto 431 de 2017, art. 34) 
-
-ARTÍCULO
+(Decreto 348 de 2015, artículo 60; Numeral 6 Modificado por el Decreto 431 de 2017, art. 34)
 
 ## art:2.2.1.6.10.6 — Obligaciones del Ministerio de Educación y de las Secretarías de Educación
 
@@ -6468,15 +5630,11 @@ De acuerdo con los procesos de descentralización y de las competencias establec
 
 (Decreto 348 de 2015, artículo 61).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.7 — Capacitación a conductores
 
 Todos los establecimientos educativos incluyendo los que cuentan con servicio de transporte escolar privado deberán desarrollar cursos de educación en seguridad vial, planes estratégicos de seguridad vial y formación en el adecuado uso de los vehículos escolares dirigidos a los estudiantes y conductores, siguiendo los protocolos y exigencias emitidos por el Ministerio de Transporte, la Agencia Nacional de Seguridad Vial y la Dirección de Tránsito y Transporte de la Policía Nacional.
 
 (Decreto 348 de 2015, artículo 62).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.8 — Requisitos para conducir
 
@@ -6488,8 +5646,6 @@ PARÁGRAFO . El conductor será contratado directamente por la empresa operadora
 
 (Decreto 348 de 2015, artículo 63; Modificado por el Decreto 431 de 2017, art. 35).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.9 — Servicio Privado de Transporte Escolar
 
 En cumplimiento del artículo 5 de la Ley 336 de 1996, dentro del ámbito del Servicio Privado de Transporte, los establecimientos educativos podrán continuar prestando el servicio de transporte exclusivamente a sus alumnos, siempre que los equipos sean de su propiedad.
@@ -6500,8 +5656,6 @@ Igualmente, el establecimiento educativo deberá registrar los vehículos ante l
 
 (Decreto 348 de 2015, artículo 64; Decreto 431 de 2017, art. 36).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.10 — Obligatoriedad de los seguros
 
 Los establecimientos educativos para la prestación del servicio privado de transporte escolar deben adquirir las pólizas de seguros de responsabilidad civil contractual y extracontractual señaladas en el presente Capítulo.
@@ -6511,8 +5665,6 @@ Los establecimientos educativos para la prestación del servicio privado de tran
 SUBSECCIÓN 1
 
 Prestación del servicio escolar en municipios con población inferior a 30.000 habitantes
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.1.1 — Requisitos para prestar el servicio
 
@@ -6540,23 +5692,17 @@ PARÁGRAFO 3. Los alcaldes municipales deberán establecer mecanismos de control
 
 (Decreto 348 de 2015, artículo 66).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.1.2 — Prestación del servicio con vehículos particulares
 
 Los vehículos particulares autorizados para prestar el servicio escolar en virtud del presente Capítulo podrán operar exclusivamente en la jurisdicción del municipio para el cual fueron autorizados. Cuando la residencia del escolar o la sede del establecimiento educativo se encuentren situadas en jurisdicción de un municipio contiguo se podrá extender su operación únicamente en el recorrido entre la sede del establecimiento y la residencia del escolar.
 
 (Decreto 348 de 2015, artículo 67).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.1.3 — Renovación del permiso
 
 El permiso otorgado por las autoridades competentes tendrá una vigencia de un año, renovable hasta por el mismo término, siempre y cuando en el respectivo municipio subsistan las condiciones que dieron origen a su expedición. Para los efectos pertinentes se deberán acreditar los requisitos establecidos en el presente Capítulo y que los vehículos cumplen con la edad prevista en el siguiente artículo.
 
 (Decreto 348 de 2015, artículo 68).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.1.4 — Equipos
 
@@ -6565,8 +5711,6 @@ El servicio escolar en vehículos particulares podrá prestarse en automóvil, m
 PARÁGRAFO . Los equipos destinados al servicio escolar en vehículos particulares, deberán efectuar la revisión técnico-mecánica y de emisiones contaminantes, de acuerdo con las normas vigentes para el servicio público.
 
 (Decreto 348 de 2015, artículo 69).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.1.5 — Condiciones de operación
 
@@ -6598,8 +5742,6 @@ Adicionalmente, en la parte superior delantera y trasera de la carrocería, en c
 
 (Decreto 348 de 2015, artículo 70; Numerales 6 y 11 Modificados por el Decreto 431 de 2017, art. 37).
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.1.6 — Procedimiento para la contratación
 
 Para la contratación del Servicio de Transporte Escolar por parte de los establecimientos educativos, Entidades Territoriales, Secretarias de Educación certificadas de los municipios con población hasta de treinta mil (30.000) habitantes a que se refiere el presente Capítulo, se deberá previamente comunicar las necesidades de este servicio a por lo menos tres (3) empresas de transporte habilitadas en el Servicio Público de Transporte Terrestre Automotor Especial, las Direcciones Territoriales del Ministerio de Transporte brindarán la colaboración necesaria a dichas entidades.
@@ -6611,8 +5753,6 @@ PARÁGRAFO 2. Reporte de Información. Dentro de los diez (10) días hábiles si
 PARÁGRAFO 3. Control y vigilancia. Las autoridades de transporte municipal serán las encargadas de velar por el estricto cumplimiento de las disposiciones establecidas en el presente Capítulo para la prestación del servicio escolar con vehículos de otras modalidades y particulares. De igual manera de aplicar las sanciones correspondientes, conforme a los criterios y procedimientos establecidos en la Ley 336 de 1996.
 
 (Decreto 348 de 2015, artículo 71).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.1.7 — Inexistencia de Servicio
 
@@ -6626,8 +5766,6 @@ SUBSECCIÓN 2
 
 Prestación del servicio escolar en municipios con población superior a 30.000 habitantes
 
-ARTÍCULO
-
 ## art:2.2.1.6.10.2.1 — Prestación del servicio
 
 En los municipios con población superior a treinta mil (30.000) habitantes que por condiciones topográficas y de difícil acceso, no exista oferta para la movilización de los estudiantes de la jurisdicción, el transporte podrá ser prestado por empresas de servicio público de transporte terrestre automotor mixto o colectivo municipal legalmente constituidas y habilitadas y en caso que no existan, con vehículos particulares, conforme a lo establecido en el presente Capítulo.
@@ -6637,8 +5775,6 @@ Para autorizar la prestación del servicio, la autoridad municipal competente de
 En el evento que sea autorizado, la autoridad de transporte municipal deberá reportar la información correspondiente a la Subdirección de Transporte del Ministerio de Transporte, conforme a lo establecido en el presente Capítulo e igualmente ejercer el control de acuerdo a lo previsto en el mismo.
 
 (Decreto 348 de 2015, artículo 73).
-
-ARTÍCULO
 
 ## art:2.2.1.6.10.2.2 — Reglamentación
 
@@ -6650,23 +5786,17 @@ SECCIÓN 11
 
 Condiciones para el transporte de usuarios de servicios de salud y turistas
 
-ARTÍCULO
-
 ## art:2.2.1.6.11.1 — Medidas especiales para el transporte de usuarios del sistema de salud
 
 Los vehículos de las empresas de Servicio Público de Transporte Terrestre Automotor Especial que presten servicios de transporte especial para los usuarios de los servicios de salud, deben cumplir con las condiciones que para estos efectos definan el Ministerio de Salud y Protección Social y el Ministerio de Transporte.
 
 (Decreto 348 de 2015, artículo 75).
 
-ARTÍCULO
-
 ## art:2.2.1.6.11.2 — Servicio de Transporte Turístico
 
 Las empresas habilitadas para el Servicio Público de Transporte Terrestre Automotor Especial interesadas en prestar el servicio a turistas se constituirán como prestadores de servicios turísticos, de acuerdo con la reglamentación vigente expedida por el Ministerio de Comercio, Industria y Turismo. En el mismo sentido, los prestadores de servicios turísticos interesados en ofrecer el servicio de transporte público terrestre automotor a turistas, deberán habilitarse como empresa de Servicio Público de Transporte Terrestre Automotor Especial ante el Ministerio de Transporte.
 
 (Decreto 348 de 2015, artículo 76).
-
-ARTÍCULO
 
 ## art:2.2.1.6.11.3 — Servicio de Transporte Turístico
 
@@ -6678,15 +5808,11 @@ PARÁGRAFO 2. No se podrá prestar el servicio público ni privado de transporte
 
 (Decreto 348 de 2015, artículo 77; Modificado por el Decreto 431 de 2017, art. 38).
 
-ARTÍCULO
-
 ## art:2.2.1.6.11.4 — Prestadores de servicio turístico con vehículos de propiedad de terceros
 
 Si los Prestadores de Servicios Turísticos no cuentan con vehículos de su propiedad, el transporte sólo podrá efectuarse previo contrato, celebrado entre el Prestador de Servicios Turísticos y las Empresas de Transporte Público Terrestre Automotor Especial habilitadas o en su defecto habilitarse como Empresa de Transporte Público Terrestre Automotor Especial, cumpliendo lo establecido en el presente Capítulo.
 
 (Decreto 348 de 2015, artículo 78).
-
-ARTÍCULO
 
 ## art:2.2.1.6.11.5 — Norma técnica sectorial
 
@@ -6698,8 +5824,6 @@ PARÁGRAFO . A partir del 14 de marzo de 2017, las empresas de Servicio Público
 
 (Derogado por el Art. 18 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.11.6 — Tipología vehicular
 
 Los vehículos denominados chivas turísticas y camperos o yipaos podrán ser destinados al transporte turístico dentro de la jurisdicción municipal, distrital, área metropolitana legalmente determinada y zonas turísticas aledañas, según reglamentación establecida por el Ministerio de Transporte y el Ministerio de Comercio, Industria y Turismo.
@@ -6710,8 +5834,6 @@ SECCIÓN 12
 
 Controles y condiciones de seguridad en la operación
 
-ARTÍCULO
-
 ## art:2.2.1.6.12.1 — Responsabilidad de la revisión y mantenimiento preventivo
 
 La revisión periódica y el mantenimiento preventivo de los equipos con los cuales se prestará el servicio es responsabilidad de las Empresas de Transporte Público Terrestre Automotor Especial legalmente habilitadas.
@@ -6719,8 +5841,6 @@ La revisión periódica y el mantenimiento preventivo de los equipos con los cua
 Para garantizar el cumplimiento de sus obligaciones en esta materia, dichas empresas deberán realizar por su cuenta y riesgo el mantenimiento preventivo del vehículo, para prever fallas que puedan surgir o que surjan durante la vigencia del contrato de administración de flota y que puedan poner en peligro la seguridad de los usuarios o la integridad y funcionamiento del vehículo.
 
 (Decreto 348 de 2015, artículo 81).
-
-ARTÍCULO
 
 ## art:2.2.1.6.12.2 — Reporte de información
 
@@ -6732,15 +5852,11 @@ PARÁGRAFO . Una vez el Ministerio de Transporte implemente el Sistema de Inform
 
 (Decreto 348 de 2015, artículo 82; Parágrafo adicionado por el Decreto 431 de 2017, art. 40).
 
-ARTÍCULO
-
 ## art:2.2.1.6.12.3 — Control de la contratación del servicio
 
 Con el objeto de mejorar el control operativo en todo el territorio nacional, facúltese a las autoridades de tránsito y transporte municipales, distritales, departamentales y metropolitanas, para verificar la veracidad de la información contenida en el contrato suscrito por las partes y que la operación de los vehículos de servicio público de transporte terrestre automotor especial corresponda con lo señalado en el mismo. Si la autoridad de tránsito y transporte correspondiente encuentra diferencias entre el contenido del documento suscrito entre las partes, el extracto de contrato y la operación de transporte que se realiza, deberá informarlo a la Superintendencia de Puertos y Transporte para lo de su competencia.
 
 (Decreto 348 de 2015, artículo 83).
-
-ARTÍCULO
 
 ## art:2.2.1.6.12.4 — De la condiciones de tipología de los equipos de transporte
 
@@ -6748,15 +5864,11 @@ Los vehículos destinados a la prestación del Servicio Público de Transporte T
 
 (Decreto 348 de 2015, artículo 84).
 
-ARTÍCULO
-
 ## art:2.2.1.6.12.5 — De las rutinas de diagnóstico, servicio y reparación
 
 Para cada vehículo la empresa conformará un expediente individual u hoja de vida, cuyo objeto sea mantener un seguimiento documentado del parque automotor.
 
 (Decreto 348 de 2015, artículo 85).
-
-ARTÍCULO
 
 ## art:2.2.1.6.12.6 — Del control a las rutinas de seguridad del vehículo
 
@@ -6765,8 +5877,6 @@ Ningún vehículo podrá operar sin contar con el concepto favorable del departa
 La solución sistematizada de control de flota incluirá el mecanismo de control, así como el referente a los vencimientos de las pólizas de seguros y de la revisión técnico- mecánica de carácter legal.
 
 (Decreto 348 de 2015, artículo 86).
-
-ARTÍCULO
 
 ## art:2.2.1.6.12.7 — Vinculación y seguimiento a los conductores
 
@@ -6777,8 +5887,6 @@ Se conformará un expediente individual con cada conductor al servicio de la emp
 Todo aspirante a conductor será evaluado por la empresa o por compañías especializadas en selección de personal.
 
 (Decreto 348 de 2015, artículo 87).
-
-ARTÍCULO
 
 ## art:2.2.1.6.12.8 — Control del uso de sustancias psicoactivas y alcohólicas
 
@@ -6791,8 +5899,6 @@ La empresa realizará los controles directamente o a través de empresas que pre
 SECCIÓN 13
 
 Registro Nacional de Conductores de Servicio de Transporte Especial
-
-ARTÍCULO
 
 ## art:2.2.1.6.13.1 — Registro Nacional de Conductores de Servicio de Transporte Especial
 
@@ -6810,8 +5916,6 @@ SECCIÓN 14
 
 Régimen de transición
 
-ARTÍCULO
-
 ## art:2.2.1.6.14.1 — Plazo para acreditar requisitos de habilitación
 
 Las empresas habilitadas antes del 25 de febrero de 2015 tendrán plazo hasta el 25 de febrero de 2018, para acreditar los nuevos requisitos de habilitación.
@@ -6821,8 +5925,6 @@ Para tal efecto, las empresas deberán presentar ante la dirección territorial 
 Si la empresa presenta la solicitud de manera extemporánea o el Ministerio de Transporte le niega la habilitación, no podrá continuar prestando el servicio.
 
 (Decreto 348 de 2015, artículo 90; Modificado por el Decreto 296 de 2017, art. 1; Modificado por el Decreto 431 de 2017, art. 42 ).
-
-ARTÍCULO
 
 ## art:2.2.1.6.14.2 — Plazo para el cumplimiento del porcentaje de propiedad de los vehículos
 
@@ -6848,23 +5950,17 @@ En el evento en que se cumplan los plazos señalados en el presente artículo y 
 
 (Decreto 348 de 2015, artículo 91; Derogado por el Decreto 431 de 2017, art. 46).
 
-ARTÍCULO
-
 ## art:2.2.1.6.14.3 — Condiciones mínimas para la vinculación de flota
 
 Solo se podrá autorizar a las empresas de transporte la vinculación de vehículos de terceros, una vez se haya cumplido con el porcentaje mínimo de vehículos de propiedad de la empresa, teniendo en cuenta también las formas alternas prescritas para acreditar el mismo, y el patrimonio líquido mínimo, de acuerdo con lo establecido en el presente decreto."
 
 (Modificado por el Art. 15 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.14.4 — Desintegración obligatoria
 
 Los vehículos que cumplan el tiempo de uso deberán salir anualmente del servicio y ser desintegrados."
 
 (Modificado por el Art. 16 del Decreto 478 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.6.14.5 — Suspensión de ingreso
 
@@ -6882,15 +5978,11 @@ SESIÓN 15
 
 Disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.1.6.15.1 — Tarifa
 
 La tarifa del Servicio Público de Transporte Terrestre Automotor Especial será de libre determinación entre las partes, pero deberá ser reportada al Ministerio de Transporte y a la Superintendencia de Puertos y Transporte, mediante el sistema de información que las entidades definan, el cual deberá almacenar la información de cada contrato celebrado, el valor por vehículo o recorrido, la clase de automotor, el número de sillas ofertadas, la tarifa por día, kilómetro de recorrido y la indicación de si se trata de servicio en ciudades o incluye tramos de carretera.
 
 (Decreto 348 de 2015, artículo 95).
-
-ARTÍCULO
 
 ## art:2.2.1.6.15.2 — Derecho a reponer
 
@@ -6900,8 +5992,6 @@ En este evento el propietario o locatario del vehículo podrá entregarlo en adm
 
 (Decreto 348 de 2015, artículo 96).
 
-ARTÍCULO
-
 ## art:2.2.1.6.15.3 — Actuaciones iniciadas
 
 Las actuaciones administrativas iniciadas al 25 de febrero de 2015, los términos que hubieren empezado a correr y los recursos interpuestos para esa misma fecha, continuarán tramitándose de conformidad con la norma vigente en el momento de su radicación.
@@ -6909,8 +5999,6 @@ Las actuaciones administrativas iniciadas al 25 de febrero de 2015, los término
 PARÁGRAFO . Las empresas que hayan radicado su solicitud de habilitación en vigencia del Decreto 174 de 2001 y que al 25 de febrero de 2015 no hayan obtenido pronunciamiento expreso del Ministerio de Transporte, podrán acogerse a las nuevas condiciones estipuladas en el presente Capítulo.
 
 (Decreto 348 de 2015, artículo 97).
-
-ARTÍCULO
 
 ## art:2.2.1.6.15.4 — Cambio de servicio
 
@@ -6926,8 +6014,6 @@ PARÁGRAFO TRANSITORIO. A partir de la entrada en vigencia del presente decreto 
 
 (Modificado por el Art. 17 del Decreto 478 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.6.15.5 — Registro Nacional de Empresas de Transporte (RNET)
 
 Con la finalidad de consolidar el Registro Nacional de Empresas de Transporte (RNET) y conciliar las capacidades transportadoras autorizadas y las tarjetas de operación vigentes de los vehículos vinculados, las Direcciones Territoriales del Ministerio de Transporte modificarán la clase de vehículos asignada en la capacidad transportadora de cada una de las empresas de Servicio Público de Transporte Terrestre Automotor Especial, de manera que coincida en cada una de ellas con las clases y número de vehículos vinculados con tarjetas de operación vigentes al 14 de marzo de 2017.
@@ -6937,8 +6023,6 @@ PARÁGRAFO . Cuando en el acto administrativo de asignación de capacidad transp
 Lo anterior, sin perjuicio de las investigaciones disciplinarias, administrativas, civiles y penales, en curso o a las que haya lugar, relacionadas o conexas con estos hechos.
 
 (Decreto 431 de 2017, art. 45)
-
-ARTÍCULO
 
 ## art:2.2.1.6.15.6 — Zonas agrarias
 
@@ -6950,23 +6034,17 @@ CAPÍTULO 7
 
 Servicio Público de Transporte Terrestre Automotor de Carga
 
-ARTÍCULO
-
 ## art:2.2.1.7.1 — Objeto y Principios
 
 El presente Capítulo tiene como objeto reglamentar la habilitación de las empresas de Transporte Público Terrestre Automotor de Carga y la prestación por parte de estas, de un servicio eficiente, seguro, oportuno y económico, bajo los criterios básicos de cumplimiento de los principios rectores del transporte, como el de la libre competencia y el de la iniciativa privada, a las cuales solamente se aplicarán las restricciones establecidas por la ley y los Convenios Internacionales.
 
 (Decreto 173 de 2001, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.1.7.2 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente Capítulo se aplicarán integralmente a la modalidad de Servicio Público de Transporte Terrestre Automotor de Carga, en todo el territorio nacional, de acuerdo con los lineamientos establecidos en las Leyes 105 de 1993 y 336 de 1996.
 
 (Decreto 173 de 2001, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.7.3 — Servicio público de transporte terrestre automotor de carga.(Modificado por el art 1, Decreto 1017 de 2025)
 
@@ -6985,8 +6063,6 @@ PARÁGRAFO 2: Para efectos del servicio de transporte de que trata el Decreto 20
  ARTÍCULO 2.2.1.7.3. Servicio público de transporte terrestre automotor de carga. Es aquel destinado a satisfacer las necesidades generales de movilización de cosas de un lugar a otro, en vehículos automotores de servicio público a cambio de una remuneración o precio, bajo la responsabilidad de una empresa de transporte legalmente constituida y debidamente habilitada en esta modalidad, excepto el servicio de transporte de que trata el Decreto 2044 del 30 de septiembre de 1988.
 
 (Decreto 173 de 2001, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.7.4 — Definiciones.(Modificado por el art 2, Decreto 1017 de 2025)
 
@@ -7076,15 +6152,11 @@ SECCIÓN 1
 
 Autoridades competentes
 
-ARTÍCULO
-
 ## art:2.2.1.7.1.1 — 1.1
 
 Competencia del Ministerio de Transporte Para todos los efectos a que haya lugar, el Servicio Público de Transporte Terrestre Automotor de Carga será regulado por el Ministerio de Transporte.
 
 (Decreto 173 de 2001, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.1.7.1.2 — Control y vigilancia.(Modificado por el art 3, Decreto 1017 de 2025)
 
@@ -7110,8 +6182,6 @@ SECCIÓN 2
 
 Habilitación
 
-ARTÍCULO
-
 ## art:2.2.1.7.2.1 — Habilitación
 
 Las empresas legalmente constituidas, interesadas en prestar el Servicio Público de Transporte Terrestre Automotor de Carga, deberán solicitar y obtener habilitación para operar. La habilitación lleva implícita la autorización para la prestación del servicio público de transporte en esta modalidad.
@@ -7120,15 +6190,11 @@ La habilitación concedida autoriza a la empresa para prestar el servicio solame
 
 (Decreto 173 de 2001, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.1.7.2.2 — Empresas nuevas
 
 Ninguna empresa nueva podrá entrar a prestar el servicio hasta tanto el Ministerio de Transporte le otorgue la habilitación correspondiente. Cuando las autoridades de control y vigilancia constaten la prestación del servicio sin autorización, ésta se le negará y no podrá presentar una nueva solicitud de habilitación antes de doce (12) meses.
 
 (Decreto 173 de 2001, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.1.7.2.3 — Requisitos
 
@@ -7220,8 +6286,6 @@ PARÁGRAFO 2. Las empresas nuevas deberán acreditar el requisito establecido en
 
 (Decreto 173 de 2001, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.7.2.4 — Plazo para decidir
 
 Presentada la solicitud de habilitación, para decidir el Ministerio de Transporte dispondrá de un término no superior a noventa (90) días hábiles.
@@ -7229,8 +6293,6 @@ Presentada la solicitud de habilitación, para decidir el Ministerio de Transpor
 La habilitación se concederá o negará mediante resolución motivada en la que se especificará como mínimo el nombre, razón social o denominación, domicilio principal, capital pagado o patrimonio líquido, radio de acción y modalidad de servicio.
 
 (Decreto 173 de 2001, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.1.7.2.5 — Vigencia de la habilitación
 
@@ -7242,15 +6304,11 @@ PARÁGRAFO . En todos aquellos casos de transformación, fusión, absorción o i
 
 (Decreto 173 de 2001, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.1.7.2.6 — Suministro de información
 
 Las empresas, deberán tener permanentemente a disposición de la autoridad de transporte y de la Superintendencia de Puertos y Transporte, las estadísticas, libros y demás documentos que permitan verificar la información suministrada.
 
 (Decreto 173 de 2001, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.1.7.2.7 — Empresas Habilitadas en vigencia de los Decretos 091 y 1558 de 1998
 
@@ -7262,8 +6320,6 @@ SECCIÓN 3
 
 Seguros
 
-ARTÍCULO
-
 ## art:2.2.1.7.3.1 — Obligatoriedad
 
 De conformidad con el artículo 994 del Código de Comercio, las empresas de Transporte Público Terrestre Automotor de Carga deberán tomar por cuenta propia o por cuenta del propietario de la carga, un seguro que cubra a las cosas transportadas contra los riesgos inherentes al transporte, a través de una compañía de seguros autorizada para operar en Colombia.
@@ -7271,8 +6327,6 @@ De conformidad con el artículo 994 del Código de Comercio, las empresas de Tra
 Una vez el Gobierno Nacional, mediante Decreto reglamentario, fije los requisitos, condiciones, amparos y cuantías de los seguros, estos serán obligatorios para la habilitación y prestación del servicio.
 
 (Decreto 173 de 2001, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.7.3.2 — Fondo de responsabilidad
 
@@ -7283,8 +6337,6 @@ Las empresas de transporte podrán constituir fondos de responsabilidad como mec
 SECCIÓN 4
 
 Prestación del servicio
-
-ARTÍCULO
 
 ## art:2.2.1.7.4.1 — Radio de acción
 
@@ -7298,23 +6350,17 @@ La operación de las empresas de transporte público terrestre automotor de carg
 
 (Decreto 173 de 2001, artículo 19).
 
-ARTÍCULO
-
 ## art:2.2.1.7.4.2 — Vehículos
 
 Las empresas habilitadas para la prestación del Servicio Público de Transporte Terrestre Automotor de Carga solo podrán hacerlo con equipos registrados para dicho servicio.
 
 (Decreto 173 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.7.4.3 — Contratación de vehículos
 
 Cuando una empresa no sea propietaria de los vehículos, para la prestación del Servicio Público de Transporte Terrestre Automotor de Carga, podrá celebrar el respectivo contrato de vinculación conforme al artículo 983 del Código de Comercio.
 
 (Decreto 173 de 2001, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.1.7.4.4 — Contrato de vinculación.(Modificado por el art 6, Decreto 1017 de 2025)
 
@@ -7340,8 +6386,6 @@ PARÁGRAFO. Las empresas de Transporte Público y los propietarios de los vehíc
 
 (Decreto 173 de 2001, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.1.7.4.5 — Traspaso
 
 No se requerirá paz y salvo proveniente de las empresas de transporte terrestre automotor de carga para adelantar trámites ante los organismos de tránsito."
@@ -7356,8 +6400,6 @@ No se requerirá paz y salvo proveniente de las empresas de transporte terrestre
 
 (Decreto 173 de 2001, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.1.7.4.6 — Sucursales
 
 Las empresas que establezcan sucursales serán solidariamente responsables por todas las obligaciones que adquieran en desarrollo de la operación del transporte de carga.
@@ -7367,8 +6409,6 @@ Las empresas que establezcan sucursales serán solidariamente responsables por t
 SECCIÓN 5
 
 Documentos de transporte de carga
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.1 — Manifiesto Electrónico de carga
 
@@ -7385,8 +6425,6 @@ PARÁGRAFO. El Ministerio de Transporte reglamentará las condiciones técnicas,
  ARTÍCULO 2.2.1.7.5.1. Manifiesto de carga. La empresa de transporte habilitada, persona natural o jurídica, expedirá directamente el manifiesto de carga para todo transporte terrestre automotor de carga que se preste como servicio público de radio de acción intermunicipal o nacional.
 
 (Decreto 173 de 2001, artículo 27, modificado por el Decreto 1499 de 2009, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.2 — Expedición del Manifiesto de Carga o Manifiesto Electrónico de Carga
 
@@ -7406,8 +6444,6 @@ PARÁGRAFO 1. El original del manifiesto de Carga enviado por medios electrónic
 
 (Decreto 173 de 2001, artículo 28, modificado por el Decreto 1842 de 2007, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.3 — Manifiesto electrónico de carga
 
 La empresa de transporte deberá expedir y remitir al Ministerio de Transporte, en los términos y condiciones que establezca este, el manifiesto electrónico de carga, elaborado de manera completa y fidedigna.
@@ -7419,8 +6455,6 @@ La información que se consigne en el manifiesto electrónico de carga podrá se
 El Ministerio de Transporte podrá incorporar al diseño del manifiesto electrónico de carga herramientas tecnológicas, tales como mecanismos de pago electrónicos del valor de los servicios que el mismo recoge.
 
 (Decreto 2092 de 2011, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.4 — Formato de manifiesto electrónico de carga
 
@@ -7488,23 +6522,17 @@ El formato de manifiesto electrónico de carga debe contener, como mínimo, la s
 
 (Decreto 2092 de 2011, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.5 — Remesa terrestre de carga
 
 Además del manifiesto de carga, el transportador autorizado está obligado a expedir una remesa terrestre de carga de acuerdo con lo señalado en los artículos 1018 y 1019 del Código de Comercio, en la cual constarán las especificaciones establecidas en el artículo 1010 del mismo código, proporcionadas por el remitente, así como las condiciones generales del contrato de transporte.
 
 (Decreto 173 de 2001, artículo 30).
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.6 — Otros documentos
 
 Además del manifiesto de carga, debe portar durante la conducción, los demás documentos que los reglamentos establezcan para el transporte de mercancías de carácter peligroso, restringido o especial.
 
 (Decreto 173 de 2001, artículo 31).
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.7 — Titularidad.(Modificado por el art 11, Decreto 1017 de 2025)
 
@@ -7524,15 +6552,11 @@ PARÁGRAFO 2. Con el objeto de implementar mejoras regulatorias el Ministerio de
 
 (Decreto 173 de 2001, artículo 32).
 
-ARTÍCULO
-
 ## art:2.2.1.7.5.8 — Tarjeta del registro
 
 Las tarjetas del registro nacional de transporte de carga expedidas por las Direcciones Territoriales del Ministerio de Transporte, no tienen efecto alguno, a partir del 29 de abril de 2009.
 
 (Decreto 1499 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.7.5.9 — Exigencia de la tarjeta del registro
 
@@ -7544,15 +6568,11 @@ SECCIÓN 6
 
 Política tarifaria y criterios que regulan las relaciones económicas entre los actores del servicio público de transporte terrestre automotor de carga
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.1 — Ámbito de aplicación
 
 Las relaciones económicas entre el Generador de la Carga, la empresa de transporte y el propietario, poseedor o tenedor de un vehículo de servicio público de transporte terrestre automotor de carga, se regirán conforme a lo dispuesto en la presente Sección.
 
 (Decreto 2092 de 2011, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.2 — Relaciones económicas.(Modificado por el art 12, Decreto 1017 de 2025)
 
@@ -7580,8 +6600,6 @@ El generador de la carga, la empresa de transporte y los propietarios, poseedore
 
 (Decreto 2092 de 2011, artículo 3, modificado por el Decreto 2228 de 2013, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.3 — Sistema de costos, monitoreo de los fletes y valor a pagar.(Modificado por el art 13, Decreto 1017 de 2025)
 
 El Ministerio de Transporte cuenta con un sistema de información de costos y un esquema de monitoreo de los fletes y del Valor a Pagar. Los niveles de costos eficientes de operación se establecerán atendiendo a criterios técnicos, logísticos y de eficiencia.
@@ -7606,23 +6624,17 @@ El Ministerio de Transporte monitoreará en conjunto con las autoridades de cont
 
 (Decreto 2092 de 2011, artículo 4, modificado por el Decreto 2228 de 2013, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.4 — Investigaciones y sanciones
 
 Cuando el Valor a Pagar o el flete se encuentren por debajo de los Costos Eficientes de Operación estimados por el Ministerio de Transporte, con base en la información reportada y registrada en el SICE- TAC, las Superintendencias de Puertos y Transporte y de Industria y Comercio, adelantarán dentro del marco de sus competencias, las investigaciones a que haya lugar de conformidad con lo dispuesto en las Leyes 336 de 1996 y 1340 de 2009.
 
 (Decreto 2092 de 2011, artículo 5, modificado por el Decreto 2228 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.5 — Suministro de información por parte de los actores del servicio público de transporte terrestre automotor de carga
 
 El Generador de Carga, la empresa de transporte, los propietarios, poseedores o tenedores de un vehículo deberán remitir al Ministerio de Transporte, cuando este lo requiera, la información referente a las relaciones económicas derivadas de la prestación del servicio público de transporte terrestre automotor de carga, en los términos y condiciones que este establezca.
 
 (Decreto 2092 de 2011, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.6 — Pago del flete.(Modificado por eel art 14, Decreto 1017 de 2025)
 
@@ -7646,15 +6658,11 @@ La empresa de transporte, en todo caso, pagará el Valor a Pagar junto con el mo
 
 (Decreto 2092 de 2011, artículo 9).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.7 — Descuentos
 
 Al Valor a Pagar pactado, los únicos descuentos que podrán efectuarse por parte de la empresa de transporte al propietario, poseedor o tenedor del vehículo del servicio público de transporte terrestre automotor de carga, serán los derivados en la retención en la fuente por concepto de renta y del Impuesto de Industria y Comercio, Avisos y Tableros - ICA.
 
 (Decreto 2092 de 2011, artículo 10).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.8 — Incumplimiento de las horas de cargue y descargue.(Modificado por el art 15, Decreto 1017 de 2025)
 
@@ -7691,8 +6699,6 @@ Si el plazo de que trata el inciso anterior se supera por razones imputables al 
 En consecuencia, los acuerdos entre generador de la carga y empresa de transporte sobre este aspecto, no serán oponibles a la relación entre empresa, propietario, tenedor o poseedor del vehículo.
 
 (Decreto 2092 de 2011, artículo 11, modificado por el Decreto 2228 de 2013, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.9 — 6.9
 
@@ -7812,15 +6818,11 @@ e) Diligenciar el Registro Nacional de Despachos de Carga (RNDC) con informació
 
 (Decreto 2092 de 2011, artículo 12, modificado por el Decreto 2228 de 2013, artículo 6).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.10 — Sanciones
 
 La violación a las obligaciones establecidas en el presente Capítulo y las resoluciones que lo desarrollen, se sancionará de conformidad con lo previsto en la Ley 336 de 1996 y las normas que la modifiquen, sustituyan o reformen.
 
 (Decreto 2092 de 2011, artículo 13).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.11 — Mérito ejecutivo del manifiesto electrónico
 
@@ -7828,23 +6830,17 @@ El manifiesto electrónico de carga prestará mérito ejecutivo por el saldo no 
 
 (Decreto 2092 de 2011, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.12 — Instancias públicas y privadas relacionadas con el transporte terrestre automotor de carga
 
 En desarrollo lo previsto en el artículo 32 de la Ley 489 de 1998 el Ministerio de Transporte realizará todas las acciones necesarias para involucrar a las instancias públicas y privadas relacionadas con el transporte terrestre automotor de carga, en el control y evaluación de la ejecución de las medidas adoptadas en este Capítulo.
 
 (Decreto 2092 de 2011, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.13 — .13
 
 Autorización Los vehículos que cumplan las condiciones de ley, podrán prestar el servicio público de transporte de carga, hasta tanto el Ministerio de Transporte, a través de las mesas técnicas con los gremios, definan las condiciones para la prestación del servicio público de transporte de carga.
 
 (Decreto 2228 de 2013, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.14 — Comité de seguimiento.(Derogado por el art
 
@@ -7858,15 +6854,11 @@ ARTÍCULO
 
 (Decreto 2228 de 2013, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.15 — Aviso sobre la llegada de la carga al lugar de destino
 
 Salvo estipulación en contrario, la empresa transportadora deberá dar aviso oportuno y detallado al destinatario, por un medio idóneo, sobre la llegada de la carga al lugar de destino.
 
 (Decreto 1910 de 1996, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.7.6.16 — Pago de los valores pactados
 
@@ -7880,8 +6872,6 @@ ARTÍCULO
 
 (Decreto 1910 de 1996, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.7.6.17 — Indemnización de perjuicios
 
 La empresa transportadora responderá e indemnizará por los perjuicios que se causen al propietario o poseedor con el que haya celebrado un contrato de vinculación, por las omisiones o incumplimientos de las obligaciones pactadas en el contrato y deberes establecidos en la ley.
@@ -7891,8 +6881,6 @@ La empresa transportadora responderá e indemnizará por los perjuicios que se c
 SECCIÓN 7
 
 Ingreso de vehículos al servicio particular y público de transporte terrestre automotor de carga
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1 — Objeto.(Modificado por el art 17, Decreto 1017 de 2025)
 
@@ -7905,8 +6893,6 @@ La presente Sección tiene por objeto el establecimiento de requisitos para el r
  ARTÍCULO 2.2.1.7.7.1. Objeto. La presente Sección tiene por objeto el establecimiento de requisitos para el registro inicial de vehículos al servicio particular y público de transporte terrestre automotor de carga, con Peso Bruto Vehicular (P.B.V) superior a diez mil quinientos (10.500) kilogramos
 
 (Modificado por el Decreto 1120 de 2019, Art.1 )
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.2 — Registro Inicial.(Modificado por el art 18, Decreto 1017 de 2025)
 
@@ -7983,8 +6969,6 @@ Equipos autobombas de concreto.
 PARÁGRAFO 2. En el evento que se requiera efectuar el trámite de traspaso y cambio de servicio de un vehículo de transporte de carga de servicio oficial a servicio particular, el adquirente del vehículo deberá acreditar ante el organismo de tránsito donde se solicite el trámite, el cumplimiento de lo dispuesto en el presente artículo para el registro inicial de vehículos nuevos de servicio particular de carga y a la reglamentación que expida el Ministerio de Transporte para el efecto, en un tiempo no mayor a dos (2) meses, contados a partir de la entrada en vigencia de la presente modificación."
 
 (Modificado por el Decreto 1120 de 2019, Art.2)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.3 — Equivalencia para la reposición.(Modificado por el art 19, Decreto 1017 de 2025)
 
@@ -8126,15 +7110,11 @@ PARÁGRAFO. El vehículo que ingresa por reposición de otro vehículo desintegr
 
 (Modificado por el Decreto 1120 de 2019, Art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.4 — Registro Inicial ante los organismos de tránsito
 
 Los organismos de tránsito solamente deberán efectuar el registro inicial de vehículos de transporte terrestre automotor de carga, de servicio particular o público, hasta tanto el solicitante en la matrícula dé cumplimiento a los requisitos para el trámite de registro inicial y acredite el pago del porcentaje indicado en el artículo 2.2.1.7.7.2. del presente Decreto, o cuenten con el certificado de cumplimiento de requisitos o aquel que reglamente el Ministerio de Transporte y haga sus veces
 
 (Modificado por el Decreto 1120 de 2019, Art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.5 — Condiciones y trámite.(Modificado por el art 20, Decreto 1017 de 2025)
 
@@ -8144,15 +7124,11 @@ El Ministerio de Transporte determinará y reglamentará las condiciones y trám
  
  Vigencia anterior
 
- ARTÍCULO
-
 ## art:2.2.1.7.7.6 — Programa para la Modernización del Parque Automotor de carga
 
 El Ministerio de Transporte diseñará el programa de Modernización del Parque Automotor de carga, que contemple, entre otros, incentivos económicos y los incentivos tributarios de que trata el artículo 11 de la Ley 1943 de 2018, con el objeto de promover la desintegración y modernización del parque automotor de carga, reducción de las emisiones contaminantes y mejora de la calidad del aire, dentro de los dos (2) meses siguientes a la entrada en vigencia de la presente modificación
 
 (Modificado por el Decreto 1120 de 2019, Art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.7 — Destinación de dineros recaudados por el ingreso de vehículos nuevos de transporte de carga
 
@@ -8161,8 +7137,6 @@ Los dineros que se recauden por el pago del quince por ciento (15%) del valor co
 (Artículo Derogado por el Art. 4 del Decreto 1266 de 2024)
 
 (Modificado por el Decreto 1120 de 2019, Art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.8 — Trámites radicados en vigencia de disposiciones derogadas o modificadas.(Modificado por el art 21, Decreto 1017 de 2025)
 
@@ -8179,8 +7153,6 @@ PARÁGRAFO 1. Los certificados de cumplimiento de requisitos asignados y que no 
 PARÁGRAFO 2. Los Certificados de Cancelación de Matricula - CCM - que hayan sido adquiridos para la matrícula de un vehículo de transporte automotor de carga antes del 30 de junio de 2019, y que no hayan sido utilizados, podrán ser empleados para realizar el registro de matrícula inicial de un nuevo vehículo, en las condiciones vigentes al momento de su adquisición.
 
 (Modificado por el Decreto 1120 de 2019, Art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.9 — Ejecución del Programa de Modernización del Parque Automotor de Carga.(Modificado por el art 22, Decreto 1017 de 2025)
 
@@ -8208,8 +7180,6 @@ Los recursos que de manera subsidiaria aporte el Gobierno nacional de acuerdo co
 
 (Modificado por el Decreto 1120 de 2019, Art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.10 — (Derogado por el art
 
 26, Decreto 1017 de 2025).
@@ -8223,8 +7193,6 @@ ARTÍCULO
 PARÁGRAFO. El RUNIS TAC será administrado y operado por el Ministerio de Transporte con el soporte tecnológico y operativo del sistema RUNT."
 
 (Modificado por el Decreto 1120 de 2019, Art. 10)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.11 — .11
 
@@ -8246,8 +7214,6 @@ PARÁGRAFO. El Ministerio de Transporte ejecutará los recursos a través del Fo
 
 (Modificado por el Decreto 1120 de 2019, Art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.12 — Reglamentación
 
 (Derogado por el art. 26, Decreto 1017 de 2025). 
@@ -8259,8 +7225,6 @@ ARTÍCULO
  ARTÍCULO 2.2.1.7.7.12. Reglamentación. El Ministerio de Transporte reglamentará las condiciones, requisitos y trámites necesarios para el funcionamiento del RUNIS TAC y la creación de mecanismos de gestión de recursos mencionados en el artículo 2.2.1.7.7.14 del presente Decreto en un tiempo no mayor a dos (2) meses, contados a partir de la entrada en vigencia de la presente modificación.
 
 (Modificado por el Decreto 1120 de 2019, Art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.13 — (Derogado por el art
 
@@ -8276,8 +7240,6 @@ PARÁGRAFO. El Ministerio de Transporte velará porque el RUNIS TAC cuente con e
 
 (Modificado por el Decreto 1120 de 2019, Art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.14 — .14
 
 Transición Los procesos de reconocimiento económico y reposición con reconocimiento económico radicados antes del 30 de junio de 2019, se tramitarán con base en las disposiciones aplicables al momento de su radicación, siempre y cuando tengan asignación presupuestal en el "Programa de Promoción para la Reposición y Renovación del Parque Automotor de Carga".
@@ -8285,8 +7247,6 @@ Transición Los procesos de reconocimiento económico y reposición con reconoci
 Para los casos en los cuales no sea posible realizar la asignación presupuestal antes del 30 de junio de 2019, la solicitud de postulación será rechazada y podrá optar por postularse al nuevo Programa de Modernización de Transporte Automotor de Carga que diseñe el Ministerio de Transporte
 
 (Modificado por el Decreto 1120 de 2019, Art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.15 — Reglamentación
 
@@ -8316,8 +7276,6 @@ SUBSECCIÓN 1
 
 Medidas especiales y transitorias para sanear el registro inicial de los vehículos de transporte de carga
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.1 — Objeto
 
 La presente Subsección tiene por objeto adoptar medidas especiales y transitorias para resolver la situación administrativa de los vehículos de servicio particular y público de transporte de carga que presentan omisiones en su registro inicial, matriculados entre el 2 de mayo de 2005, fecha de expedición del Decreto 1347 de 2005, y la fecha de expedición de la reglamentación que expida el Ministerio de Transporte.
@@ -8326,8 +7284,6 @@ PARÁGRAFO : El Ministerio de transporte deberá expedir la reglamentación a la
 
 (Modificado por el Decreto 632 de 2019, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.2 — Ámbito de aplicación
 
 Las disposiciones previstas en la presente Subsección se aplicarán a los vehículos de servicio particular y público de transporte de carga que presentan omisiones en el cumplimiento de las condiciones y los procedimientos establecidos en la normativa vigente al momento de su registro inicial entre el 2 de mayo de 2005 y la expedición de la reglamentación correspondiente por parte del Ministerio de Transporte.
@@ -8335,8 +7291,6 @@ Las disposiciones previstas en la presente Subsección se aplicarán a los vehí
 PARÁGRAFO : El Ministerio de transporte deberá expedir la reglamentación a la que se refiere el presente artículo, en un plazo no superior a cuatro (4) meses, contados a partir de la entrada en vigencia de la presente modificación
 
 (Modificado por el Decreto 632 de 2019, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.3 — Plazo
 
@@ -8349,8 +7303,6 @@ Los propietarios, poseedores o tenedores de buena fe de los vehículos de servic
 (Modificado por el Decreto 632 de 2019, art. 3)
 
 (Decreto 1514 de 2016, art. 1; Modificado por el Decreto 153 de 2017, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.4 — Omisiones en el registro inicial de un vehículo de transporte de carga
 
@@ -8367,8 +7319,6 @@ PARÁGRAFO : Para el caso de los vehículos cuyo registro inicial se realizó si
 (Decreto 1514 de 2016, art. 1; Modificado por el Decreto 153 de 2017, art. 4)
 
 (Modificado por el Decreto 632 de 2019, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.5 — Identificación de vehículos de transporte de carga que presuntamente presentan omisiones en su registro inicial
 
@@ -8396,8 +7346,6 @@ PARÁGRAFO 2. El cumplimiento de las obligaciones por parte de los organismos de
 
 (Modificado por el Decreto 632 de 2019, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.6 — 1.6
 
 Saneamiento para los vehículos descritos en el numeral 1 del artículo 2.2.1.7.7.1.4 del presente decreto.El registro inicial de los vehículos que obtuvieron certificado de cumplimiento de requisitos o certificado de aprobación de la caución expedida por el Ministerio de Transporte, que operaban en su momento, con posterioridad a su matrícula, quedarán saneados administrativamente una vez se agoten las siguientes etapas:
@@ -8415,8 +7363,6 @@ PARÁGRAFO . En el evento de ser rechazada la solicitud de saneamiento descrita 
 No obstante, si el propietario demuestra en debida forma que, de conformidad con las normas vigentes al momento del registro inicial, ya desintegró un vehículo, para el saneamiento administrativo de que trata el presente decreto no le será exigible la desintegración de un vehículo adicional.
 
 (Derogado por el Art. 13 del Decreto 632 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.7 — Normalización del trámite para los vehículos descritos en el artículo 2.2.1.7.7.1.4 del presente decreto
 
@@ -8438,8 +7384,6 @@ PARÁGRAFO 2. Los organismos de tránsito deberán conservar los expedientes de 
 
 (Modificado por el Decreto 632 de 2019, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.8 — Trámite para la normalización de los vehículos descritos en artículo 2.2.1.7.7.1.4 del presente Decreto
 
 El Ministerio de Transporte reglamentará el trámite general para la normalización de los vehículos descritos en el artículo 2.2.1.7.7.1.4 del presente Decreto, en un plazo no mayor a cuatro (4) meses contados a partir de la entrada en vigencia de la presente modificación.
@@ -8452,8 +7396,6 @@ Surtido el proceso de verificación y validación, se emitirá a través del RUN
 
 (Modificado por el Decreto 632 de 2019, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.9 — Registro de Normalización
 
 El certificado de desintegración física total por normalización, así como la autorización de normalización, deberán inscribirse por el Ministerio de Transporte en el Registro Nacional Automotor y tendrán que estar contenidas en el Certificado de Libertad y Tradición del Vehículo que expida el Organismo de Tránsito competente.
@@ -8461,8 +7403,6 @@ El certificado de desintegración física total por normalización, así como la
 (Decreto 1514 de 2016, art. 1)
 
 (Modificado por el Decreto 632 de 2019, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.10 — Vehículos no normalizados
 
@@ -8472,23 +7412,17 @@ En los casos en que no sea posible efectuar la normalización del registro de lo
 
 (Modificado por el Decreto 632 de 2019, art. 9)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.11 — Acciones
 
 La subsanación de las omisiones de que trata la presente Subsección se adelantará sin perjuicio de las investigaciones disciplinarias, administrativas, civiles y penales, en curso o a las que haya lugar, relacionadas o conexas con estos hechos.
 
 (Decreto 1514 de 2016, art. 1; Modificado por el Decreto 153 de 2017, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.12 — Improcedencia de reconocimiento económico
 
 Las disposiciones contenidas en la presente Subsección no dará lugar a reconocimiento económico por desintegración física total.
 
 (Decreto 1514 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.13 — Condición para la contratación
 
@@ -8502,8 +7436,6 @@ PARÁGRAFO : En caso de no requerirse manifiesto de carga, tampoco será posible
 
 (Modificado por el Decreto 632 de 2019, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.14 — Condiciones para el enturnamiento en puertos
 
 Para efectos de enturnamiento en los puertos, las sociedades portuarias deberán consultar el Registro Único Nacional de Tránsito (RUNT) y el Registro Nacional de Despachos de Carga {RNDC) y verificar que los vehículos a enturnar no presentan omisiones en su registro.
@@ -8516,8 +7448,6 @@ PARÁGRAFO : En caso de no requerirse manifiesto de carga, tampoco será posible
 
 (Modificado por el Decreto 632 de 2019, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.15 — Medidas especiales a cargo de la Superintendencia de Puertos y Transporte
 
 Dentro de las investigaciones que adelante, la Superintendencia de Puertos y Transporte podrá ordenar, de acuerdo con sus competencias, las medidas que considere necesarias para garantizar que se normalicen las omisiones que presentan los vehículos de carga en su registro inicial.
@@ -8526,15 +7456,11 @@ PARÁGRAFO . Las autoridades de control operativo de transporte y tránsito ejec
 
 (Decreto 153 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.7.7.1.16 — Garantías o cauciones
 
 Para asegurar el cumplimiento de la presente normativa y la implementación de la política pública integral para el sector, el Ministerio de Transporte podrá regular el otorgamiento de las garantías o cauciones que estime convenientes.
 
 (Decreto 153 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.7.7.1.17 — Transición
 
@@ -8554,15 +7480,11 @@ SECCIÓN 8
 
 Transporte terrestre automotor de mercancías peligrosas por carretera
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.1 — Objeto
 
 La presente Sección tiene por objeto establecer los requisitos técnicos y de seguridad para el manejo y transporte de mercancías peligrosas por carretera en vehículos automotores en todo el territorio nacional, con el fin de minimizar los riesgos, garantizar la seguridad y proteger la vida y el medio ambiente, de acuerdo con las definiciones y clasificaciones establecidas en la Norma Técnica Colombiana NTC 1692 "Transporte de mercancías peligrosas. Clasificación, etiquetado y rotulado", segunda actualización, -Anexo N 1-.
 
 (Decreto 1609 de 2002, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.2 — Alcance y aplicación
 
@@ -8573,8 +7495,6 @@ Cuando se trate de transporte de desechos peligrosos objeto de un movimiento tra
 La presente Sección aplica a todos los actores que intervienen en la cadena del transporte, es decir el remitente y/o dueño de la mercancía, destinatario (personas que utilizan la infraestructura del transporte de acuerdo con lo establecido en el artículo 9 de la Ley 105 de 1993), empresa transportadora, conductor del vehículo y propietario o tenedor del vehículo de transporte de carga.
 
 (Decreto 1609 de 2002, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.3 — Definiciones
 
@@ -8654,8 +7574,6 @@ SUBSECCIÓN 1
 
 Disposiciones generales de la carga y de los vehículos
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.1.1 — 1.1
 
 Manejo de la carga:
@@ -8724,8 +7642,6 @@ F. La clasificación y designación, las condiciones generales para el transport
 
 (Decreto 1609 de 2002, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.1.2 — 1.2
 
 Requisitos de la unidad de transporte y vehículo de carga destinado al transporte de mercancías peligrosas.Además de las disposiciones contempladas en las normas vigentes para el transporte terrestre automotor de carga por carretera, en el Código Nacional de Tránsito Terrestre y en la Norma Técnica Colombiana para cada grupo, de acuerdo con lo establecido en el literal F del numeral 3 del artículo anterior, el vehículo y la unidad que transporte mercancías peligrosas debe poseer:
@@ -8757,8 +7673,6 @@ PARÁGRAFO 2. Cuando se transporte más de una mercancía peligrosa en una misma
 SUBSECCIÓN 2
 
 Obligaciones de los actores de la cadena del transporte
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.2.1 — Obligaciones del remitente y/o propietario de mercancías peligrosas
 
@@ -8824,8 +7738,6 @@ W. Cuando los vehículos que se utilicen para el transporte de mercancías pelig
 
 (Decreto 1609 de 2002, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.2.2 — Obligaciones del destinatario de la carga
 
 Son obligaciones del destinatario de la carga:
@@ -8851,8 +7763,6 @@ l. Cuando se trate de combustibles líquidos derivados del petróleo, el destina
 J. Cuando el destinatario sea el comercializador, proveedor y/o distribuidor de gas licuado de petróleo (GLP),además de cumplir con los requisitos establecidos en este artículo, debe acatarlo estipulado en el Decreto 400 de 1994, la Resolución 80505 de marzo 17 de 1997 emanados del Ministerio de Minas y Energía, la Resolución 074 de septiembre de 1996 emitida por la Comisión de Regulación de Energía y Gas, CREG, o las demás disposiciones que sobre el tema emitan estas entidades o las que hagan sus veces.
 
 (Decreto 1609 de 2002, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.2.3 — Obligaciones de la empresa que transporte mercancías peligrosas
 
@@ -8916,8 +7826,6 @@ T. Adquirir póliza de responsabilidad civil extracontractual, de acuerdo con lo
 
 (Decreto 1609 de 2002, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.2.4 — Obligaciones del conductor del vehículo que transporte mercancías peligrosas
 
 Además de las disposiciones contempladas en las normas vigentes para el transporte terrestre automotor de carga por carretera, en el Código Nacional de Tránsito Terrestre y en la Norma Técnica Colombiana para cada grupo, de acuerdo con lo establecido en el literal F, numeral 3 del artículo 2.2.1.7.8.1.1 del presente Decreto, el conductor del vehículo que se destine al transporte de mercancías peligrosas está obligado a:
@@ -8956,8 +7864,6 @@ P. Cumplir con las normas establecidas sobre protección y preservación del med
 
 (Decreto 1609 de 2002, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.2.5 — Obligaciones del propietario o tenedor del vehículo que se destine al transporte de mercancías peligrosas
 
 Además de las disposiciones contempladas en las normas vigentes para el transporte terrestre automotor de carga por carretera, en el Código Nacional de Tránsito Terrestre y en la Norma Técnica Colombiana para cada grupo, conforme a lo establecido en el literal F, numeral 3 del artículo 2.2.1.7.8.1.1 del presente Decreto, el propietario o tenedor de vehículo que se destine al transporte de mercancías peligrosas está obligado a:
@@ -8992,8 +7898,6 @@ SUBSECCIÓN 3
 
 Sistema de Control
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.3.1 — Inspección, vigilancia y control
 
 La Superintendencia de Puertos y Transporte ejercerá la función de inspección, vigilancia y control en materia de tránsito, transporte y su infraestructura de acuerdo con lo estipulado en el Decreto 101 de 2000, con las excepciones contempladas en el numeral 2 artículo 3 del Decreto 2741 de 2001. La Policía Nacional y las Autoridades de Tránsito colaborarán en las funciones de control y vigilancia que les han sido asignadas por el artículo 8 de la Ley 105 de1993.
@@ -9002,15 +7906,11 @@ PARÁGRAFO . Para las demás actividades que no corresponden a transporte se seg
 
 (Decreto 1609 de 2002, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.3.2 — Manejo de Mercancías y Objetos Explosivos
 
 El manejo de mercancías y objetos explosivos correspondiente a la Clase 1 NTC 3966 - Anexo N 13- obedecerá además a lo estipulado en los Decretos 2535 de 1993 y 1809 de 1994, o en la nomas que los modifiquen, adicionen, sustituyan o compilen, o en las demás disposiciones que se emitan sobre el tema.
 
 (Decreto 1609 de 2002, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.3.3 — Manejo de Gases Clase 2
 
@@ -9018,15 +7918,11 @@ El manejo de gases correspondiente a la Clase 2 NTC 2880 - Anexo N 14 - obedecer
 
 (Decreto 1609 de 2002, artículo 18).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.3.4 — 3.4
 
 Manejo de Líquidos Inflamables y Combustibles Clase 3 El manejo de líquidos inflamables y combustibles correspondientes a la Clase 3 NTC 2801-Anexo N 15- obedecerá además a la reglamentación que sobre el particular expida o haya expedido la autoridad ambiental, el Ministerio de Minas y Energía, el Consejo Nacional de Estupefacientes o las entidades que hagan sus veces.
 
 (Decreto 1609 de 2002, artículo 19).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.3.5 — 3.5
 
@@ -9034,15 +7930,11 @@ Manejo de Mercancías Toxicas e Infecciosas El manejo de mercancías tóxicas e 
 
 (Decreto 1609 de 2002, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.3.6 — Manejo de Mercancías Radiactivas
 
 El manejo de mercancías radiactivas correspondiente a la Clase 7 NTC 3970-Anexo N 19- obedecerá además a la reglamentación que sobre el particular expida o haya expedido el Ministerio de Minas y Energía; el Servicio Geológico Colombiano, lngeominas, y el Ministerio de Ambiente y Desarrollo Sostenible o las entidades que hagan sus veces.
 
 (Decreto 1609 de 2002, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.3.7 — Cumplimiento de las disposiciones ambientales vigentes
 
@@ -9050,23 +7942,17 @@ Además del cumplimiento de lo establecido en esta Sección, para el manejo de l
 
 (Decreto 1609 de 2002, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.3.8 — Sustancias químicas de uso restringido
 
 Además del cumplimiento de lo establecido en esta Sección, las sustancias químicas de uso restringido seguirán controladas por el Ministerio de Transporte y el Fondo Nacional de Estupefacientes o quien haga sus veces.
 
 (Decreto 1609 de 2002, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.3.9 — Transporte de Desechos Peligrosos
 
 Para efectos de transporte de desechos peligrosos y su eliminación, cuando aplique el Convenio de Basilea, ratificado mediante ley 253 de 1996 se debe dar cumplimiento a lo ordenado en dicho convenio y además con lo establecido en la Ley 1252 de 2008.
 
 (Decreto 1609 de 2002, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.3.10 — .10
 
@@ -9094,8 +7980,6 @@ SUBSECCIÓN 4
 
 Medidas preventivas de seguridad, procedimientos y sanciones
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.1 — Sujetos de sanciones
 
 Serán sujetos de sanciones de acuerdo con lo establecido por el artículo 9 de la Ley 105 de1993, los siguientes:
@@ -9112,8 +7996,6 @@ E. Los propietarios o tenedores de vehículos (personas propietarias de vehícul
 
 (Decreto 1609 de 2002, artículo 26).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.2 — Sanciones
 
 Las sanciones consisten en:
@@ -9128,8 +8010,6 @@ D. Inmovilización o retención del vehículo.
 
 (Decreto 1609 de 2002, artículo 27).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.3 — Sanciones al remitente y/o propietario de la mercancía peligrosa
 
 A. Serán sancionados con multa equivalente a doscientos (200) salarios mínimos mensuales legales vigentes (SMMLV), por la infracción a lo dispuesto en el artículo 2.2.1.7.8.2.1 literales F, G, J, U y V del presente Decreto.
@@ -9140,15 +8020,11 @@ C. Serán sancionados con multa equivalente a veinte (20) salarios mínimos mens
 
 (Decreto 1609 de 2002, artículo 28).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.4 — Sanciones al destinatario de la mercancía peligrosa
 
 Serán sancionados con multa equivalente a doscientos (200) salarios mínimos mensuales legales vigentes (SMMLV), por infracciones a lo dispuesto en el artículo 2.2.1. 7.8.2.2. literal G del presente Decreto.
 
 (Decreto 1609 de 2002, artículo 29).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.4.5 — Sanciones a la empresa de carga que transporte mercancías peligrosas
 
@@ -9164,8 +8040,6 @@ D. Serán sancionados con multa equivalente a veinte (20) salarios mínimos mens
 
 (Decreto 1609 de 2002, artículo 30).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.6 — Sanciones al conductor del vehículo que transporte mercancías peligrosas
 
 A. Serán sancionados con multa equivalente a veinte (20) salarios mínimos mensuales legales vigentes (SMMLV), por infracciones a lo dispuesto en el artículo 2.2.1. 7.8.2.4 literales A, F, G, N y O del presente Decreto.
@@ -9178,8 +8052,6 @@ D. Serán sancionados con multa equivalente a un (1) Salario Mínimo Mensual Leg
 
 (Decreto 1609 de 2002, artículo 31).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.7 — Sanciones a los propietarios o tenedores de vehículo que transporte mercancías peligrosas
 
 A. Serán sancionados con multa equivalente a doscientos (200) salarios mínimos mensuales legales vigentes (SMMLV), por infracciones a lo dispuesto en el artículo 2.2.1.7.8.2.5 literales B, C y E del presente Decreto.
@@ -9190,15 +8062,11 @@ C. Serán sancionados con multa equivalente a veinte (20) salarios mínimos mens
 
 (Decreto 1609 de 2002, artículo 32).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.8 — Responsabilidad en el Manejo de la Carga
 
 Son responsables del cumplimiento de lo establecido en el Literal F numeral 3 del artículo 2.2.1.7.8.1.1 del presente Decreto, quienes lleven a cabo la operación de cargue, movilización y descargue de productos, ya sea el remitente, empresa de transporte, propietario o tenedor del vehículo dedicado al transporte de mercancías peligrosas, y su incumplimiento será sancionado con multa equivalente a cincuenta (50) salarios mínimos mensuales legales vigentes (SMMLV).
 
 (Decreto 1609 de 2002, artículo 33).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.4.9 — 4.9
 
@@ -9207,8 +8075,6 @@ Procedimiento Para Aplicar las Sanciones Para la aplicación de las sanciones pr
 PARÁGRAFO . Para las demás sanciones que no corresponden a transporte, se seguirá de acuerdo con los procedimientos que para el efecto establezcan las autoridades que dentro de sus funciones tienen el control del manejo de mercancías peligrosas.
 
 (Decreto 1609 de 2002, artículo 34).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.4.10 — Inmovilización de vehículos
 
@@ -9220,23 +8086,17 @@ PARÁGRAFO 2. La inmovilización de vehículos que transporten materiales radiac
 
 (Decreto 1609 de 2002, artículo 35).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.11 — Suspensión de la habilitación
 
 La suspensión de la habilitación de las empresas se establecerá por él término de tres (3) meses y procederá en los casos previstos en el artículo 47 de la Ley 336 de 1996.
 
 (Decreto 1609 de 2002, artículo 36).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.12 — Cancelación de la habilitación
 
 La cancelación de la habilitación de las empresas se procederá en los casos determinados en el artículo 48 de la Ley 336 de 1996.
 
 (Decreto 1609 de 2002, artículo 37).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.4.13 — Acciones para subsanar irregularidades en el manejo de mercancías peligrosas
 
@@ -9252,15 +8112,11 @@ PARÁGRAFO 2. Las autoridades deben garantizar la movilidad de los vehículos qu
 
 (Decreto 1609 de 2002, artículo 38).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.14 — Custodia del vehículo inmovilizado
 
 Durante la retención, el vehículo permanecerá bajo custodia de la autoridad competente, sin perjuicio de la responsabilidad de la empresa transportadora y/o propietario del vehículo.
 
 (Decreto 1609 de 2002, artículo 39).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.4.15 — Precauciones para las operaciones de transbordo en condiciones de emergencia
 
@@ -9274,15 +8130,11 @@ C. En caso de transbordo de mercancías peligrosas, el responsable por la operac
 
 (Decreto 1609 de 2002, artículo 40).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.4.16 — Restricciones al tránsito de vehículos que transportan mercancías peligrosas
 
 Las autoridades con jurisdicción sobre las vías pueden determinar restricciones al tránsito de vehículos que transportan mercancías peligrosas, a lo largo de toda su extensión o parte de ella, señalizando los tramos con restricción y asegurando una ruta alterna que no presente mayor riesgo, así como establecer lugares y períodos con restricciones para estacionamiento, parada, cargue y descargue. En caso de que la ruta exija ineludiblemente el uso de una vía con restricción de circulación, la empresa transportadora debe justificar dicha situación ante la autoridad competente.
 
 (Decreto 1609 de 2002, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.4.17 — .17
 
@@ -9300,23 +8152,17 @@ SUBSECCIÓN 5
 
 Seguros
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.5.1 — Obligatoriedad
 
 La empresa de servicio público de transporte de carga, o el remitente cuando utilicen vehículos de su propiedad para el transporte de mercancías, debe adquirir una póliza de responsabilidad civil extracontractual que ampare en caso que se presente algún evento durante el transporte, perjuicios producidos por daños personales, daños materiales, por contaminación (daños al ambiente, a los recursos naturales, animales, cultivos, bosques, aguas, entre otros) y cualquier otro daño que pudiera generarse por la mercancía peligrosa en caso de accidente.
 
 (Decreto 1609 de 2002, artículo 53).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.5.2 — Cobertura
 
 La póliza deberá cubrir la responsabilidad civil extracontractual sobreviniente del traslado de la carga desde el momento en que salga de las instalaciones del remitente hasta que se reciba en las instalaciones señaladas como destino final, incluyendo las operaciones de cargue y descargue cuando el asegurado las realice, así como también cuando las mercancías peligrosas sean almacenadas en depósitos de transferencia de carga como parte del transporte.
 
 (Decreto 1609 de 2002, artículo 54).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.5.3 — Valores asegurados mínimos
 
@@ -9332,8 +8178,6 @@ PARÁGRAFO . Los límites se restablecerán automáticamente desde la fecha de o
 
 (Decreto 1609 de 2002, artículo 55).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.5.4 — Cobertura de la Póliza
 
 La póliza igualmente reconocerá al asegurado entre otros gastos los que se generen con ocasión de:
@@ -9348,8 +8192,6 @@ D. Presentación a terceros de asistencia médica y quirúrgica inmediata, reque
 
 (Decreto 1609 de 2002, artículo 56).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.5.5 — Cobertura adicional de las pólizas
 
 Las disposiciones establecidas para el transporte terrestre automotor de carga por carretera, el Código Nacional de Tránsito Terrestre, las normas técnicas colombianas para cada grupo de mercancías y demás contenidas en la presente Sección, las cuales deben ser reunidas por las unidades de transporte y el vehículo destinado para el transporte de mercancías peligrosas, serán consideradas como garantías en la póliza con los consabidos efectos que produce su incumplimiento. Así mismo, las obligaciones que deben cumplir los actores de la cadena del transporte, según lo estipulado en la presente Sección.
@@ -9360,8 +8202,6 @@ SUBSECCIÓN 6
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.6.1 — Criterios para la aplicación de la presente Sección
 
 Para la aplicación de la presente Sección se debe tomar como referencia las Normas Técnicas Colombianas NTC vigentes, las cuales se actualizarán de acuerdo con las necesidades del sector, los adelantos tecnológicos y las normas internacionales, según las recomendaciones relativas al transporte de mercancías peligrosas preparadas por el comité de expertos en transporte de mercaderías peligrosas, del Consejo Económico y Social de las Naciones Unidas, y las recomendaciones del Organismo Internacional de Energía Atómica, OIEA, para la clase 7 (materiales radiactivos).
@@ -9370,15 +8210,11 @@ PARÁGRAFO . En los procesos de actualización de las Normas Técnicas Colombian
 
 (Decreto 1609 de 2002, artículo 43).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.6.2 — Designación oficial de mercancías peligrosas
 
 Para la designación oficial de las mercancías peligrosas por transportar, se debe remitir al listado oficial publicado en el Libro Naranja de la Organización de las Naciones Unidas "Recomendaciones relativas al transporte de mercancías peligrosas", elaboradas por el - Comité de Expertos en Transporte de Mercancías Peligrosas, del Consejo Económico y Social, versión vigente.
 
 (Decreto 1609 de 2002, artículo 44).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.6.3 — Remisión de actos administrativos
 
@@ -9386,15 +8222,11 @@ Con el fin de mantener actualizado el sistema de información de mercancías pel
 
 (Decreto 1609 de 2002, artículo 45).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.6.4 — Obligatoriedad de cumplimiento por las entidades regionales, departamentales o municipales
 
 Toda entidad pública del orden nacional, regional, departamental o municipal que expida actos administrativos referentes a mercancías peligrosas, debe observar los lineamientos establecidos en la presente Sección.
 
 (Decreto 1609 de 2002, artículo 46).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.6.5 — Desechos
 
@@ -9402,15 +8234,11 @@ Los desechos que se generen por cualquier proceso productivo, incluyendo los env
 
 (Decreto 1609 de 2002, artículo 47).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.6.6 — Prohibición de transportar mercancías peligrosas en vehículos destinados al transporte de pasajeros
 
 Está prohibido el transporte de mercancías peligrosas en vehículos destinados al transporte de pasajeros. En los vehículos de transporte de pasajeros, los equipajes sólo pueden contener mercancías peligrosas de uso personal (medicinal o de tocador), en una cantidad no mayor a un kilogramo (1 kg.) o un litro (1 L), por pasajero. Así mismo, está totalmente prohibido el transporte de mercancías de la Clase 1 (Explosivos), Clase 7 (Radiactivos) y Clase 8 (Corrosivos).
 
 (Decreto 1609 de 2002, artículo 48).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.6.7 — Medidas de seguridad para mercancías peligrosas almacenadas en depósitos
 
@@ -9418,15 +8246,11 @@ Las mercancías peligrosas que sean almacenadas en depósitos de transferencia d
 
 (Decreto 1609 de 2002, artículo 49).
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.6.8 — 6.8
 
 Obligación de apoyo en caso de emergencia, accidente, derrame, incidente, fuga o avería En caso de emergencia, accidente, derrame, incidente, fuga o avería, el remitente, el destinatario y empresa transportadora darán apoyo y prestarán toda la información necesaria que les fuere solicitada por las autoridades públicas y organismos de socorro, de acuerdo con los lineamientos establecidos en su plan de contingencia.
 
 (Decreto 1609 de 2002, artículo 50).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.6.9 — Prohibición de apertura de los envases, embalajes y contenedores
 
@@ -9435,8 +8259,6 @@ Sin el previo conocimiento del contenido de la Tarjeta de Emergencia, está proh
 PARÁGRAFO . Durante el transporte de materiales radiactivos, queda totalmente prohibida la apertura de envases, embalajes y contenedores.
 
 (Decreto 1609 de 2092, artículo 51).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.6.10 — Sociedades portuarias y los puertos privados
 
@@ -9448,8 +8270,6 @@ SUBSECCIÓN 7
 
 Régimen de transición
 
-ARTÍCULO
-
 ## art:2.2.1.7.8.7.1 — Procedimientos para la evaluación de la conformidad
 
 Las pruebas de ensayo y el marcado de los embalajes y envases de las mercancías peligrosas se exigirá, por las autoridades competentes, una vez se constituyan y se acrediten las entidades y/o los laboratorios con el fin de realizar o certificar las pruebas de ensayo, de acuerdo con lo estipulado en la Norma Técnica Colombiana según la relación dada en el numeral 2, artículo 2.2.1. 7.8.1.1 del presente Decreto.
@@ -9457,8 +8277,6 @@ Las pruebas de ensayo y el marcado de los embalajes y envases de las mercancías
 PARÁGRAFO . El literal G del artículo 2.2.1.7.8.2.1, el literal E del artículo 2.2.1.7.8.2.3 y el literal D del artículo 2.2.1.7.8.3.10 entrarán a regir una vez se cumpla lo estipulado en el presente artículo.
 
 (Decreto 1609 de 2002, artículo 58).
-
-ARTÍCULO
 
 ## art:2.2.1.7.8.7.2 — Tarjeta de registro nacional
 
@@ -9474,23 +8292,17 @@ CAPÍTULO 8
 
 Régimen de sanciones por infracciones a las normas de Transporte Público Terrestre Automotor
 
-ARTÍCULO
-
 ## art:2.2.1.8.1 — Ámbito de aplicación
 
 Las disposiciones del presente Capítulo, se aplicarán por las autoridades competentes a las empresas de servicio público de transporte terrestre automotor. a los remitentes de la carga, a los establecimientos educativos con equipos propios que violen o faciliten la violación de las normas de transporte y a los propietarios de los vehículos de servicio público y de servicio particular que prestan el servicio público especial, de acuerdo con lo previsto en el Capítulo 6 del presente Decreto.
 
 (Decreto 3366 de 2003, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.1.8.2 — Infracción de transporte terrestre automotor
 
 Es toda acción u omisión que vulnere la prestación del servicio público de transporte terrestre automotor en los términos definidos en la ley o en los reglamentos de cada modalidad de servicio.
 
 (Decreto 3366 de 2003, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.1.8.3 — Autoridades competentes
 
@@ -9506,15 +8318,11 @@ PARÁGRAFO . Cuando un área metropolitana se constituya de conformidad con la l
 
 (Decreto 3366 de 2003, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.1.8.4 — Graduación de la sanción
 
 En la imposición de las sanciones se tendrá en cuenta el grado de perturbación del servicio público de transporte y las circunstancias de tiempo, modo y lugar en que se cometió la infracción. Para este efecto, se tendrá en consideración los daños ocasionados a la infraestructura de transporte, el riesgo a la integridad y vida de las personas, a los bienes que se transportan y los perjuicios causados a los mismos.
 
 (Decreto 3366 de 2003, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.1.8.5 — Favorabilidad
 
@@ -9522,15 +8330,11 @@ Los procesos administrativos sancionatorios que en virtud del presente Capítulo
 
 (Decreto 3366 de 2003, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.1.8.6 — Caducidad
 
 La imposición de la sanción caduca en el término de tres (3) años contados a partir de la comisión de la infracción.
 
 (Decreto 3366 de 2003, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.1.8.7 — Legalidad
 
@@ -9538,15 +8342,11 @@ Los sujetos de sanción solo serán investigados y sancionados administrativamen
 
 (Decreto 3366 de 2003, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.1.8.8 — Presunción de inocencia
 
 A quien se atribuya una falta se presume inocente, hasta que no se declare su responsabilidad, a través de acto administrativo ejecutoriado.
 
 (Decreto 3366 de 2003, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.1.8.9 — Garantía del debido proceso
 
@@ -9559,8 +8359,6 @@ En todo caso se tendrá en cuenta la no Reformatío lmpejus en virtud de la cual
 SECCIÓN 1
 
 Régimen de sanciones
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.1 — Sanciones
 
@@ -9580,8 +8378,6 @@ SUBSECCIÓN 1
 
 Sanciones a las empresas de transporte público terrestre automotor colectivo metropolitano, distrital y municipal de pasajeros o mixto
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.1.1 — Infracciones sancionadas con amonestación escrita
 
 Serán sancionadas con amonestación escrita, las empresas de transporte público colectivo de pasajeros y Mixto del radio de acción Metropolitano, Municipal o Distrital, que incurran en las siguientes infracciones:
@@ -9595,8 +8391,6 @@ b) No mantener actualizada la relación del equipo con el cual presta el servici
 SUBSECCIÓN 2
 
 Sanciones a las empresas de transporte público terrestre automotor individual de pasajeros en vehículos taxi
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.2.1 — Infracciones sancionadas con amonestación escrita
 
@@ -9612,8 +8406,6 @@ SUBSECCIÓN 3
 
 Sanciones a las empresas de transporte público colectivo de pasajeros y mixto por carretera
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.3.1 — Infracciones sancionadas con amonestación escrita
 
 Serán sancionadas con amonestación escrita, las empresas de transporte público colectivo de pasajeros y mixto por carretera, que incurran en las siguientes infracciones:
@@ -9627,8 +8419,6 @@ b) No mantener actualizada la relación del equipo con el cual presta el servici
 SUBSECCIÓN 4
 
 Sanciones a propietarios, poseedores o tenedores de vehículos de transporte público terrestre automotor de pasajeros y mixto por carretera
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.4.1 — Infracciones sancionadas con amonestación escrita
 
@@ -9646,8 +8436,6 @@ SUBSECCIÓN 5
 
 Sanciones a las Empresas de Transporte Público Terrestre Automotor Especial
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.5.1 — Infracciones sancionadas con amonestación escrita
 
 Serán sancionadas con amonestación escrita, las empresas de Transporte Terrestre Automotor Especial, que incurran en las siguientes infracciones:
@@ -9662,8 +8450,6 @@ SUBSECCIÓN 6
 
 Sanciones a los propietarios, locatarios, poseedores o tenedores de vehículos de transporte público terrestre automotor especial
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.6.1 — Infracciones sancionadas con amonestación escrita
 
 Serán sancionados con amonestación escrita, los propietarios, poseedores o tenedores de vehículos de servicio especial, que no aporten oportunamente los documentos necesarios para tramitar los documentos que soportan la operación de los equipos.
@@ -9673,8 +8459,6 @@ Serán sancionados con amonestación escrita, los propietarios, poseedores o ten
 SUBSECCIÓN 7
 
 Sanciones a los propietarios de vehículos particulares de transporte escolar
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.7.1 — Infracciones sancionadas con amonestación escrita
 
@@ -9691,8 +8475,6 @@ SUBSECCIÓN 8
 Sanciones a las entidades educativas con equipos propios o empresas privadas con equipos propios dedicados al transporte de sus estudiantes
 
 o empleados
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.8.1 — Infracciones sancionadas con amonestación escrita
 
@@ -9712,8 +8494,6 @@ SUBSECCIÓN 9
 
 Sanciones a las empresas de transporte público terrestre automotor de carga
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.9.1 — Infracciones sancionadas con amonestación escrita
 
 Serán sancionadas con amonestación escrita, las empresas de Transporte Público Terrestre Automotor de Carga, que no informen a la autoridad de transporte competente los cambios de sede o de domicilio principal.
@@ -9724,8 +8504,6 @@ SUBSECCIÓN 10
 
 Suspensión y cancelación de las licencias, registros, habilitaciones o permisos de operación a las empresas de transporte
 
-ARTÍCULO
-
 ## art:2.2.1.8.1.10.1 — Suspensión
 
 La suspensión de licencia, registros, habilitaciones o permisos de operación de las empresas de transporte, se establecerá hasta por el término de tres meses y procederá en los siguientes casos:
@@ -9735,8 +8513,6 @@ a) Cuando el sujeto haya sido multado, por lo menos tres veces, dentro del mismo
 b) Cuando dentro de la oportunidad señalada no se acrediten las condiciones exigidas para mejorar la seguridad en la prestación del servicio o en la actividad de que se trate.
 
 (Decreto 3366 de 2003, artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.1.8.1.10.2 — Cancelación
 
@@ -9762,8 +8538,6 @@ SECCIÓN 2
 
 Inmovilización de equipos
 
-ARTÍCULO
-
 ## art:2.2.1.8.2.1 — Inmovilización
 
 Consiste en suspender temporalmente la circulación del vehículo por las vías públicas o privadas abiertas al público.
@@ -9777,8 +8551,6 @@ Cuando no sea posible subsanar la falta por encontrarse el vehículo retenido, l
 PARÁGRAFO . En ningún caso, será condición para la entrega del vehículo inmovilizado, el pago de la multa por la infracción que la generó.
 
 (Decreto 3366 de 2003, artículo 47).
-
-ARTÍCULO
 
 ## art:2.2.1.8.2.2 — Procedencia
 
@@ -9802,8 +8574,6 @@ La inmovilización procederá en los siguientes casos:
 
 (Decreto 3366 de 2003, artículo 48).
 
-ARTÍCULO
-
 ## art:2.2.1.8.2.3 — Procedimiento de inmovilización de los equipos
 
 Para llevar a cabo la inmovilización, la autoridad competente que tenga conocimiento de la infracción, ordenará detener la marcha del vehículo y librará al conductor copia del informe de infracciones a las normas de transporte.
@@ -9812,15 +8582,11 @@ La inmovilización se llevará a cabo en patios oficiales, talleres o parqueader
 
 (Decreto 3366 de 2003, artículo 49).
 
-ARTÍCULO
-
 ## art:2.2.1.8.2.4 — Entrega del vehículo
 
 La inmovilización terminará con la orden de entrega del vehículo al propietario, tenedor o infractor, por parte de la autoridad correspondiente, una vez esta compruebe que se subsanó la causa que motivó la inmovilización, sin perjuicio de la imposición de la multa.
 
 (Decreto 3366 de 2003, artículo 50).
-
-ARTÍCULO
 
 ## art:2.2.1.8.2.5 — Procedimiento para imponer sanciones
 
@@ -9841,8 +8607,6 @@ Presentados los descargos, y practicadas las pruebas decretadas si fuere del cas
 SECCIÓN 3
 
 Disposiciones finales
-
-ARTÍCULO
 
 ## art:2.2.1.8.3.1 — Documentos que soportan la operación de los equipos
 
@@ -9888,15 +8652,11 @@ Tarjeta de Operación.
 
 (Decreto 3366 de 2003, artículo 52).
 
-ARTÍCULO
-
 ## art:2.2.1.8.3.2 — Servicio no autorizado
 
 Entiéndase por servicio no autorizado, el que se realiza a través de un vehículo automotor de servicio público, sin el permiso o autorización correspondiente para la prestación del mismo; o cuando este se preste contrariando las condiciones inicialmente otorgadas.
 
 (Decreto 3366 de 2003, artículo 53).
-
-ARTÍCULO
 
 ## art:2.2.1.8.3.3 — Informe de infracciones de transporte
 
@@ -9904,23 +8664,17 @@ Los agentes de control levantarán las infracciones a las normas de transporte e
 
 (Decreto 3366 de 2003, artículo 54).
 
-ARTÍCULO
-
 ## art:2.2.1.8.3.4 — Establecimientos educativos o las asociaciones de padres de familia
 
 Serán sancionados con multa de 6 a 10 salarios mínimos mensuales legales vigentes, los establecimientos educativos, entidades territoriales, secretarias de educación, asociaciones de padres de familia y grupo de padres de familia, que contraten la prestación del servicio de transporte con empresas no habilitadas o directamente con el propietario, locatario, tenedor o conductor del equipo.
 
 (Decreto 3366 de 2003, artículo 55).
 
-ARTÍCULO
-
 ## art:2.2.1.8.3.5 — Facilidades de pago
 
 Las autoridades competentes podrán adoptar las medidas para facilitar el pago de las multas, que se generen de la aplicación de este Capítulo, a través de la celebración de acuerdos de pago.
 
 (Decreto 3366 de 2003, artículo 56).
-
-ARTÍCULO
 
 ## art:2.2.1.8.3.6 — Prohibición de establecer sanciones distintas
 
@@ -9935,8 +8689,6 @@ DE LA AVIACIÓN CIVIL - MODO AÉREO
 CAPÍTULO 1
 
 Descentralización aeroportuaria
-
-ARTÍCULO
 
 ## art:2.2.2.1.1 — Clasificación
 
@@ -9962,8 +8714,6 @@ c) Aeropuertos de aviación general y otros. Son aquellos aeropuertos dedicados 
 
 (Decreto 164 7 de 1994, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.2.1.2 — Categoría
 
 El Director General de la AEROCIVIL, determinará la categoría a la que pertenecen los aeropuertos de propiedad de la AEROCIVIL, teniendo en cuenta las características de cada uno de ellos, de acuerdo con los parámetros señalados en este Capítulo.
@@ -9974,23 +8724,17 @@ CAPÍTULO 2
 
 Carencia de informes por tráfico de estupefacientes con fines aeronáuticos y marítimos
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Objeto
 
 El presente Capítulo reglamenta los requisitos y procedimientos para la verificación de carencia de informes por tráfico de estupefacientes y conexos, lavado de activos, testaferrato, enriquecimiento ilícito, procesos de extinción del derecho de dominio con fines aeronáuticos y marítimos a cargo de la Unidad Administrativa Especial de Aeronáutica Civil adscrita al Ministerio de Transporte y la Dirección General Marítima (Dimar) dependencia interna del Ministerio de Defensa Nacional, respectivamente.
 
 (Decreto 048 de 2014, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — Autoridades competentes
 
 La verificación de la carencia de informes por tráfico de estupefacientes con fines aeronáuticos y marítimos se realizará directamente por la Unidad Administrativa Especial de Aeronáutica Civil y la Dirección General Marítima, respectivamente.
 
 (Decreto 048 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Ámbito de aplicación
 
@@ -10004,15 +8748,11 @@ SECCIÓN 1
 
 Información
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.1 — Suministro de información
 
 Hasta tanto se implemente u na herramienta informática para este fin, la Unidad Administrativa Especial de Aeronáutica Civil y la Dirección General Marítima deberán solicitar la información respectiva de manera directa o indirecta a la Fiscalía General de la Nación, y a la Dirección de Investigación Criminal e lnterpol.
 
 (Decreto 048 de 2014, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.2.2.1.2 — Naturaleza de la información
 
@@ -10026,8 +8766,6 @@ c) Que el registro no se encuentre sometido a reserva o confidencialidad, o que 
 
 (Decreto 048 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.3 — Verificación de la información
 
 La verificación de carencia de informes por tráfico de estupefacientes con fines aeronáuticos o marítimos se realizará a la persona natural o jurídica que inicie alguno de los trámites establecidos en los artículos 78 y 79 del Decreto ley 0019 de 2012.
@@ -10040,8 +8778,6 @@ La Unidad Administrativa Especial de la Aeronáutica Civil y la Dirección Gener
 
 (Decreto 048 de 2014, artículo 6).
 
-ARTÍCULO
-
 ## art:2.2.2.2.1.4 — Término para remitir la información
 
 Las autoridades y organismos deberán dar respuesta a las solicitudes de información que requieran la Unidad Administrativa Especial de Aeronáutica Civil y la Dirección General Marítima (Dimar) en el término de diez (10) días, de conformidad con lo previsto en el artículo 16 del Decreto 2150 de 1995, modificado por el artículo 14 de la Ley 962 de 2005.
@@ -10051,8 +8787,6 @@ Las autoridades y organismos deberán dar respuesta a las solicitudes de informa
 SECCIÓN 2
 
 Solicitud y trámite
-
-ARTÍCULO
 
 ## art:2.2.2.2.2.1 — Requisitos de la solicitud
 
@@ -10082,8 +8816,6 @@ PARÁGRAFO . La Unidad Administrativa Especial de Aeronáutica Civil (AEROCIVIL)
 
 (Decreto 048 de 2014, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.2.2.2.2 — Vigencia de los certificados de carencia de informes por tráfico de estupefacientes para fines aeronáuticos y marítimos
 
 Los certificados de carencia de informes por tráfico de estupefacientes solicitados con anterioridad al 10 de abril de 2012, a la Dirección Nacional de Estupefacientes o al Ministerio de Justicia y del Derecho, para adelantar trámites ante la Unidad Administrativa Especial de Aeronáutica Civil y la Dirección General Marítima (Dimar), mantendrán su vigencia de conformidad con lo establecido en cada acto administrativo y podrán ser tenidos en cuenta por estas dos últimas entidades durante la vigencia para la cual fueron otorgados, aun cuando se hubieren expedido originalmente para un trámite diferente.
@@ -10095,8 +8827,6 @@ El aporte del Certificado de Carencia de Informes por Tráfico de Estupefaciente
 CAPÍTULO 3
 
 Disposiciones relativas a tiempos de vuelo, servicio y descanso para tripulantes de aeronaves.
-
-ARTÍCULO
 
 ## art:2.2.2.3.1 — Tripulantes de cabina de mando
 
@@ -10400,8 +9130,6 @@ i) La programación de los repasos y entrenamientos, así como todo lo referente
 
 (Decreto 2742 de 2009, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.2.3.2 — Tripulantes de cabina de pasajeros
 
 Se adoptan las siguientes disposiciones relativas a los tiempos máximos de vuelo, servicio y períodos de descanso de los tripulantes de cabina de pasajeros:
@@ -10489,8 +9217,6 @@ i) En el caso de observadores, en período de entrenamiento estos no serán cont
 j) Todo auxiliar de servicios de a bordo debe hacer uso en forma consecutiva de las vacaciones anuales a que tenga derecho de acuerdo con la ley, ypor tanto, estas no son acumulables ni convertibles en dinero. Esta limitación no será aplicable al tiempo de vacaciones que convencionalmente pacten los tripulantes y operadores excediendo el tiempo determinado en la ley.
 
 (Decreto 2742 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.2.3.3 — 3.3
 
@@ -10610,15 +9336,11 @@ CAPÍTULO 1
 
 Servicio público de transporte marítimo
 
-ARTÍCULO
-
 ## art:2.2.3.1.1 — Ámbito de aplicación
 
 El presente Capítulo regula la actividad del transporte marítimo en Colombia, sin perjuicio de lo establecido en las disposiciones nacionales y los tratados, convenios, acuerdos y prácticas internacionales celebrados o acogidos por Colombia.
 
 (Decreto 804 de 2001, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2 — Definiciones
 
@@ -10672,15 +9394,11 @@ Para la interpretación y aplicación del presente Capítulo, se tendrán en cue
 
 (Decreto 804 de 2001, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3 — Clasificación
 
 El servicio de transporte marítimo puede ser público o privado; internacional o de cabotaje; de pasajeros, de carga o mixto.
 
 (Decreto 804 de 2001, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.3.1.4 — Principios generales
 
@@ -10698,8 +9416,6 @@ SECCIÓN 1
 
 Autoridades
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.1 — Autoridades
 
 Las autoridades competentes son las siguientes:
@@ -10709,8 +9425,6 @@ Ministerio de Transporte, Superintendencia de Puertos y Transporte y Dirección 
 PARÁGRAFO . La relación de coordinación entre el Ministerio de Transporte y la Dirección General Marítima, DIMAR, se efectuará a través de la Dirección de Infraestructura del Ministerio de Transporte.
 
 (Decreto 804 de 2001, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.2 — Competencia
 
@@ -10726,15 +9440,11 @@ SECCIÓN 2
 
 Habilitación y permiso de operación para empresas de transporte marítimo
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.1 — Régimen
 
 La habilitación y permiso de operación para prestar el servicio público de transporte marítimo, se regirá por el presente Capítulo y por las normas pertinentes del Código de Comercio Colombiano, el Decreto ley 2324 de 1984, las Leyes 105 de 1993 y 336 de 1996, el Decreto 101 de 2000 sus disposiciones reglamentarias y las que las modifiquen o adicionen.
 
 (Decreto 804 de 2001, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.2 — Procedimiento y término de expedición
 
@@ -10750,8 +9460,6 @@ La empresa de transporte marítimo deberá comunicar por escrito a la DIMAR cual
 
 (Decreto 804 de 2001, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.3 — Vigencia
 
 La Habilitación y Permiso de Operación y la autorización especial de operación, tendrán vigencia indefinida, mientras la empresa mantenga las condiciones inicialmente exigidas para su otorgamiento.
@@ -10759,8 +9467,6 @@ La Habilitación y Permiso de Operación y la autorización especial de operaci�
 PARÁGRAFO . La habilitación y permiso de operación y la autorización especial son intransferibles a cualquier título. En consecuencia, los beneficiarios de la misma no podrán celebrar o ejecutar acto alguno que de cualquier manera, implique que la actividad transportadora se desarrolle por persona diferente a la que inicialmente le fue concedida, salvo los derechos sucesorales.
 
 (Decreto 804 de 2001, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.4 — Condiciones para empresas colombianas
 
@@ -10783,8 +9489,6 @@ PARÁGRAFO 1. El contrato de arrendamiento debe ser a casco desnudo y en ambos c
 PARÁGRAFO 2. Cuando la nave sea de bandera colombiana se debe cumplir con la legislación colombiana vigente, en relación con la nacionalidad del capitán, los oficiales y la tripulación.
 
 (Decreto 804 de 2001, artículo 10).
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.5 — Requisitos para habilitación y permiso de operación
 
@@ -10828,8 +9532,6 @@ PARÁGRAFO 3. En el evento en que la empresa de transporte marítimo cuente con 
 
 (Decreto 804 de 2001, artículo 11, modificado por el Decreto 1342 de 2002, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.6 — Asimilación de nave o artefacto naval de bandera extranjera en arrendamiento financiero
 
 Cuando la empresa colombiana pacte en el contrato de arrendamiento financiero la compra obligatoria de la nave o artefacto naval dentro de los siete (7) años siguientes a su celebración, se podrá asimilar para todos los efectos a la bandera colombiana, previo cumplimiento de las siguientes condiciones:
@@ -10854,15 +9556,11 @@ SECCIÓN 3
 
 Servicios y naves
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.1 — Entidades públicas
 
 Excepcionalmente la Nación, las entidades territoriales, los establecimientos públicos y las empresas industriales y comerciales del Estado de cualquier orden, podrán prestar el servicio público de transporte marítimo, cuando éste no sea prestado por los particulares, o se presenten prácticas monopolísticas u oligopolísticas que afecten los intereses de los usuarios. En todo caso, el servicio prestado por las entidades públicas estará sometido a las mismas condiciones y regulaciones de los particulares.
 
 (Decreto 804 de 2001, artículo 13).
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.2 — Exclusividad del servicio
 
@@ -10878,15 +9576,11 @@ Igual tratamiento se les dará a las empresas colombianas de cabotaje para prest
 
 (Decreto 804 de 2001, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.3 — Trasbordo en puertos colombianos
 
 La movilización de carga de importación que haya sido desembarcada o de exportación entre puertos colombianos se considera de cabotaje.
 
 (Decreto 804 de 2001, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.4 — Cabotaje interoceánico
 
@@ -10896,8 +9590,6 @@ PARÁGRAFO . Para prestar servicios desde puertos del litoral Atlántico a puert
 
 (Decreto 804 de 2001, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.5 — Transporte dentro de la jurisdicción de una capitanía de puerto
 
 La solicitud para la prestación del servicio público de transporte marítimo, entre localidades situadas dentro de la jurisdicción de una misma Capitanía de Puerto cuando se trate de naves menores, se tramitará y autorizará ante y por la Capitanía respectiva; la autorización para naves mayores será concedida por el Director General Marítimo. Cuando se trate de transporte de pasajeros, la autorización contendrá el número máximo de pasajeros que cada nave puede transportar.
@@ -10906,13 +9598,9 @@ Para este caso la DIMAR fijará por resolución los requisitos que debe cumplir 
 
 (Decreto 804 de 2001, artículo 17).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.6 — Transporte mixto
 
 Para la prestación del servicio de transporte marítimo mixto, las naves deben disponer de espacios apropiados para el adecuado transporte de los pasajeros y de la carga, reuniendo las condiciones de seguridad correspondientes.
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.7 — Servicio privado
 
@@ -10933,8 +9621,6 @@ Los certificados o documentos se presentarán en original y no podrán tener fec
 6. Presentar certificado de carencia de informes por tráfico de estupefacientes vigente, expedido por la DIMAR, de conformidad con las disposiciones que regulen la materia.
 
 (Decreto 804 de 2001, artículo 19).
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.8 — Aptitud de las naves
 
@@ -10962,8 +9648,6 @@ e) Naves para transporte de carga general o de gráneles secos, hasta de 1000 TR
 
 (Decreto 804 de 2001, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.9 — Sustitución de naves
 
 Cuando la nave o naves a que se refiere el numeral 4, del artículo 2.2.3.1.2.5 del presente Decreto, queden fuera de operación por pérdida eventual de sus condiciones de navegabilidad o pérdida total, situación que deberá ser determinada por la DIMAR, la empresa de transporte marítimo tendrá un plazo no superior a tres (3) meses a partir de la ocurrencia del hecho para su reparación, o su remplazo por otra u otras que cumplan con los requisitos exigidos.
@@ -10972,23 +9656,17 @@ Vencido el término anterior, sin que la empresa haya sustituido la nave o las n
 
 (Decreto 804 de 2001, artículo 21).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.10 — Ingreso y salida de naves del servicio
 
 Cuando la empresa de transporte marítimo ingrese o retire naves del servicio que tiene autorizado, debe informar por escrito a la DIMAR, indicando sus características generales y las fechas de inicio y terminación del servicio.
 
 (Decreto 804 de 2001, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.11 — Naves pesqueras
 
 Las naves pesqueras no podrán transportar pasajeros ni carga. La DIMAR podrá en casos especiales y en forma transitoria autorizarlas, siempre y cuando no exista empresa habilitada y con permiso de operación con nave disponible para el servicio de que se trate.
 
 (Decreto 804 de 2001, artículo 23).
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.12 — Lista de tripulantes y pasajeros
 
@@ -11000,23 +9678,17 @@ SECCIÓN 4
 
 Fletamento y arrendamiento de naves
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.1 — Servicio internacional
 
 Las empresas de transporte marítimo de servicio público internacional, habilitadas y con permiso de operación, podrán fletar o arrendar naves o artefactos navales, directamente o a través de un corredor de contratos de fletamento, para el servicio que tengan autorizado.
 
 (Decreto 804 de 2001, artículo 25).
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.2 — Servicio de cabotaje
 
 Las empresas de transporte marítimo de servicio público de cabotaje podrán arrendar o fletar naves o artefactos navales de bandera extranjera por viajes determinados, directamente o a través de un corredor de contratos de fletamento con licencia de la DIMAR, para el servicio que tengan autorizado, cuando no existan de bandera colombiana con la capacidad y aptitud requeridas, lo cual debe ser verificado por la DIMAR, previo a la expedición de la autorización respectiva.
 
 (Decreto 804 de 2001, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.3 — Usuarios
 
@@ -11032,8 +9704,6 @@ La solicitud de autorización elevada por el usuario para el fletamento de la na
 
 (Decreto 804 de 2001, artículo 27, modificado por el Decreto 3887 de 2008, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.4 — Procedimiento
 
 Para el fletamento o arrendamiento de naves, se establece el siguiente procedimiento:
@@ -11045,8 +9715,6 @@ Empresa de servicio de cabotaje. Las empresas colombianas de transporte marítim
 Usuarios. Los usuarios que requieran fletar o arrendar naves o artefactos navales para la movilización de las cargas de importación y exportación, deberán solicitar a la DIMAR directamente o a través de un corredor de contrato de fletamento, previo al embarque de las mercancías la autorización respectiva. Para transporte de cabotaje deben cumplir con el procedimiento establecido en el artículo anterior del presente Decreto.
 
 (Decreto 804 de 2001, artículo 28).
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.5 — Información
 
@@ -11084,8 +9752,6 @@ PARÁGRAFO 3. Cuando la empresa pretenda prestar servicio ocasional de transport
 
 (Decreto 804 de 2001, artículo 29, modificado por el Decreto 1342 de 2002, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.6 — Objeción
 
 Dentro del término establecido en el parágrafo 2 del artículo anterior del presente Decreto, la DIMAR podrá objetar los fletamentos o arrendamientos de naves, de oficio o a petición de parte, cuando se presenten anomalías originadas por alguna de las circunstancias relacionadas a continuación:
@@ -11099,8 +9765,6 @@ Dentro del término establecido en el parágrafo 2 del artículo anterior del pr
 El incumplimiento de las disposiciones sobre arrendamiento o fletamento de naves o artefactos navales, dará lugar a la aplicación de las sanciones establecidas en la Ley 336 de 1996 o las normas que la modifiquen o adicionen.
 
 (Decreto 804 de 2001, artículo 30).
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.7 — Registro del fletamento o arrendamiento
 
@@ -11116,15 +9780,11 @@ SECCIÓN 5
 
 Acuerdos de transporte marítimo, conferencias marítimas y tarifas y fletes
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.1 — Acuerdo de transporte
 
 Es el convenio celebrado entre empresas de transporte marítimo debidamente habilitadas y con permiso de operación con el objeto, entre otros, de mejorar los servicios; de racionalizar el empleo de naves y costos de operación; de compartir ingresos, utilidades o pérdidas y en general, de cualquier concertación en términos y condiciones para prestar servicios de transporte marítimo.
 
 (Decreto 804 de 2001, artículo 32).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.2 — Registro
 
@@ -11154,15 +9814,11 @@ La objeción debe ponerse de inmediato en conocimiento del Ministerio de Transpo
 
 (Decreto 804 de 2001, artículo 33).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.3 — Reciprocidad e igualdad
 
 Los acuerdos o convenios de transporte marítimo en los cuales participen empresas colombianas deberán pactarse y desarrollarse en condiciones de reciprocidad e igualdad de tratamiento, lo cual será verificado y controlado por la DIMAR.
 
 (Decreto 804 de 2001, artículo 34).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.4 — Incumplimiento
 
@@ -11171,8 +9827,6 @@ Cuando la autoridad competente, de oficio, a petición de parte o por intermedio
 PARÁGRAFO . Cuando en desarrollo de un acuerdo se presenten casos de competencia desleal y prácticas comerciales restrictivas la Superintendencia de Industria y Comercio podrá ordenar su suspensión de conformidad con lo establecido en las Leyes 155 de 1959 y 1340 de 2009, y en los Decretos 2153 de 1992 y 4886 de 2011, para tal efecto la DIMAR le enviará copias de los acuerdos registrados.
 
 (Decreto 804 de 2001, artículo 35).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.5 — Participación
 
@@ -11186,15 +9840,11 @@ PARÁGRAFO . El hecho de pertenecer a una conferencia marítima no implica que l
 
 (Decreto 804 de 2001, artículo 36).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.6 — Representación
 
 Toda conferencia marítima que cubra puertos colombianos debe nombrar un representante en el país, acreditado ante la DIMAR, para todos los efectos.
 
 (Decreto 804 de 2001, artículo 37).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.7 — Registro
 
@@ -11218,23 +9868,17 @@ El registro señalado anteriormente debe contener por lo menos la siguiente info
 
 (Decreto 804 de 2001, artículo 38, modificado por el Decreto 1342 de 2002, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.8 — Acción Independiente
 
 Las conferencias que cubran puertos colombianos deben permitir a sus miembros ejercer la acción independiente para modificar las tarifas registradas. La conferencia registrará la nueva tarifa ante la DIMAR, dentro de los diez (10) días siguientes al ejercido de la acción independiente, para uso de tal miembro y de cualquier otro que notifique a la conferencia que ha decidido adoptar dicha tarifa, indicando las fechas de inicio y terminación de la citada acción.
 
 (Decreto 804 de 2001, artículo 39).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.9 — Flete o precio del transporte marítimo
 
 Para los efectos del presente Capítulo, se entiende como flete o precio del transporte marítimo, la tarifa aumentada con los recargos o cualquier otro componente que altere el valor final del transporte.
 
 (Decreto 804 de 2001, artículo 40).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.10 — Sistema
 
@@ -11243,8 +9887,6 @@ Para el modo de transporte marítimo el sistema tarifario que se aplica es el de
 No obstante lo establecido en el presente Capítulo, la DIMAR podrá en cualquier momento, de oficio o a petición de parte, revisar las tarifas y fletes registrados para el transporte marítimo y señalar si es del caso, por escrito, las objeciones que estime pertinentes.
 
 (Decreto 804 de 2001, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.11 — Registro
 
@@ -11259,8 +9901,6 @@ PARÁGRAFO . Las empresas de transporte marítimo conferenciadas o no, o que hay
 Las tarifas empezarán a regir a partir de la fecha de su registro, excepto cuando se trate de incrementos conforme se señala en el artículo 2.2.3.1.5.13 del presente Decreto.
 
 (Decreto 804 de 2001, artículo 42).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.12 — Requisitos de registro
 
@@ -11278,8 +9918,6 @@ PARÁGRAFO . Las tarifas o fletes registrados para servicio de cabotaje deben se
 
 (Decreto 804 de 2001, artículo 43).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.13 — Revisiones
 
 En cualquier momento las empresas de transporte marítimo conferenciadas o no, o que hayan celebrado acuerdos de transporte y las conferencias marítimas, podrán efectuar revisiones o modificaciones parciales o totales a las tarifas, recargos y demás componentes que alteren el valor final del transporte que hubieren registrado. Cuando la revisión conduzca a un incremento de la tarifa, recargo u otro componente de la misma previa justificación, este nuevo valor tendrá vigencia a los treinta (30) días calendario siguientes a su registro. Cuando se trate de disminución, este nuevo valor regirá a partir de la fecha de su registro.
@@ -11289,8 +9927,6 @@ PARÁGRAFO . Los recargos que se establezcan se considerarán temporales y se mo
 Las tarifas y los recargos o la eliminación de estos últimos, deben ser de carácter general para todos los usuarios. En los casos específicos de rebajas de tarifas por tiempo-volumen, el beneficio se extenderá sólo a los usuarios que cumplan iguales condiciones a las pactadas en los acuerdos y contratos ya suscritos.
 
 (Decreto 804 de 2001, artículo 44).
-
-ARTÍCULO
 
 ## art:2.2.3.1.5.14 — Conductas violatorias
 
@@ -11302,15 +9938,11 @@ SECCIÓN 6
 
 Libertad de acceso, reciprocidad y competencia desleal
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.1 — Libertad de acceso
 
 Se establece la libertad de acceso a las cargas que genere el comercio exterior del país y que se transporten por vía marítima. Esta libertad está sujeta al principio de reciprocidad el cual se aplicará en forma selectiva y discrecional rigiéndose por las disposiciones contempladas en el presente Capítulo.
 
 (Decreto 804 de 2001, artículo 46).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.2 — Reciprocidad
 
@@ -11318,15 +9950,11 @@ Para efectos de la aplicación del principio de reciprocidad, se establece el me
 
 (Decreto 804 de 2001, artículo 47).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.3 — Conveniencia
 
 Cuando se determine la conveniencia de la aplicación del principio de reciprocidad, atendiendo los intereses del comercio exterior del país, se tomará como referencia la proporción y condiciones de acceso de las empresas colombianas de transporte marítimo a las cargas de importación y exportación que generen los demás países.
 
 (Decreto 804 de 2001, artículo 48).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.4 — Competencia
 
@@ -11336,23 +9964,17 @@ Igualmente, podrá aplicar otras medidas que estime convenientes ante las accion
 
 (Decreto 804 de 2001, artículo 49).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.5 — Mecanismo de restricción
 
 En los tráficos donde el Ministerio de Transporte, con asesoría de la Dirección General Marítima-DIMAR y previo concepto del Ministerio de Comercio Exterior, estime procedente establecer el mecanismo de restricción parcial o total, éste se entenderá impuesto a las empresas de transporte marítimo cuyos países establezcan restricciones y a sus asociadas.
 
 (Decreto 804 de 2001, artículo 50).
 
-ARTÍCULO
-
 ## art:2.2.3.1.6.6 — Medidas
 
 En cualquier tiempo, el Ministerio de Transporte con asesoría de la Dirección General Marítima-DIMAR y previo concepto del Ministerio de Comercio Exterior podrá emitir resolución imponiendo, modificando o suprimiendo restricciones u otras medidas.
 
 (Decreto 804 de 2001, artículo 51).
-
-ARTÍCULO
 
 ## art:2.2.3.1.6.7 — Prácticas comerciales restrictivas y de competencia desleal
 
@@ -11368,15 +9990,11 @@ SECCIÓN 7
 
 Sanciones y disposiciones finales
 
-ARTÍCULO
-
 ## art:2.2.3.1.7.1 — Sujetos y tipos de sanciones
 
 Son sujetos de sanciones, por violación al presente Capítulo, los señalados en el artículo 9 de la Ley 105 de 1993 o las normas que la modifiquen o adicionen, la autoridad competente impondrá a los infractores las sanciones establecidas en la Ley 336 de 1996 o las normas que la modifiquen o adicionen.
 
 (Decreto 804 de 2001, artículo 53).
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.2 — Evaluación
 
@@ -11385,8 +10003,6 @@ Corresponde al Ministerio de Transporte en coordinación con la DIMAR evaluar lo
 En los eventos previstos en este artículo y con el fin de restablecer o preservar la igualdad de condiciones entre las empresas de transporte marítimo, el Ministerio de Transporte podrá adoptar las medidas que permitan contrarrestar los factores que coloquen a las empresas colombianas de servicio público de transporte marítimo habilitadas y con permiso de operación en inferioridad de condiciones.
 
 (Decreto 804 de 2001, artículo 54).
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.3 — Sobordos, itinerarios y conocimientos de embarque
 
@@ -11400,15 +10016,11 @@ Las empresas de transporte marítimo deben remitir a la DIMAR directamente o a t
 
 (Decreto 804 de 2001, artículo 55).
 
-ARTÍCULO
-
 ## art:2.2.3.1.7.4 — Informes
 
 La DIMAR debe enviar al Ministerio de Transporte informes semestrales que contengan la relación de habilitaciones y permisos de operaciones otorgados, negados, cancelados y suspendidos; de los convenios o consorcios registrados u objetados; de las autorizaciones especiales de operación, de los permisos especiales y transitorios otorgados y el número de autorizaciones de fletamento y arrendamiento de naves. Los informes serán enviados en los meses de julio y enero siguientes a la finalización del semestre respectivo.
 
 (Decreto 804 de 2001, artículo 56).
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.5 — Trámites y formatos
 
@@ -11416,15 +10028,11 @@ Las diferentes solicitudes y autorizaciones que los usuarios requieran diligenci
 
 (Decreto 804 de 2001, artículo 57).
 
-ARTÍCULO
-
 ## art:2.2.3.1.7.6 — Funciones del Comité de Coordinación Permanente
 
 Con el propósito de revisar los diferentes temas que sobre transporte marítimo se presenten; para verificar el seguimiento de los informes a que se refiere el presente Capítulo y las normas que lo modifiquen o adicionen y para estudiar, conceptuar sobre consultas o derechos de petición que presenten los usuarios, el Comité se reunirá ordinariamente una (1) vez por mes y extraordinariamente, cuando el Ministro de Transporte lo requiera o cuando lo solicite el Director General Marítimo.
 
 (Decreto 804 de 2001, artículo 58).
-
-ARTÍCULO
 
 ## art:2.2.3.1.7.7 — Habilitaciones y permisos de operación otorgados en vigencia delos Decretos 3111 de 1997y 1611 de 1998
 
@@ -11436,23 +10044,17 @@ CAPÍTULO 2
 
 Servicio público de transporte fluvial
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente Capítulo se aplicarán al servicio público de transporte fluvial, de acuerdo con lo establecido en la Ley 336 de 1996.
 
 (Decreto 3112 de 1997, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.3.2.2 — Legislación aplicable
 
 Además de lo dispuesto en el artículo anterior, para todo lo relacionado con la navegación fluvial, se aplicarán igualmente el Código de Comercio, y demás normas legales y reglamentarias sobre la materia, así como también las que establezca el Ministerio de Transporte para desarrollar y complementar el presente reglamento.
 
 (Decreto 3112 de 1997, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.3.2.3 — Definiciones
 
@@ -11468,15 +10070,11 @@ La bodega portuaria será pública o privada, según sea el servicio público o 
 
 (Decreto 3112 de 1997, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4 — Competencias
 
 Cuando dos o más autoridades fluviales pretendan conocer de un mismo asunto, la competencia será definida por el superior inmediato o jerárquico, según el caso.
 
 (Decreto 3112 de 1997, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.3.2.5 — Ejercicio de la autoridad
 
@@ -11490,15 +10088,11 @@ SECCIÓN 1
 
 De las vías Fluviales y su uso
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.1 — De las vías fluviales
 
 Las vías fluviales pueden ser navegadas libremente por toda clase de embarcaciones, previo el lleno de los requisitos establecidos en la ley, en el presente Capítulo y en las demás normas relacionadas con la navegación fluvial.
 
 (Decreto 3112 de 1997, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.2 — De las riberas de las vías fluviales
 
@@ -11506,13 +10100,9 @@ Los departamentos, los municipios y los dueños de tierras adyacentes a las ribe
 
 (Decreto 3112 de 1997, artículo 8).
 
-ARTÍCULO
-
 ## art:2.2.3.2.1.3 — De la servidumbre legal Las servidumbres legales son relativas al uso público o a la utilidad de los particulares
 
 (Decreto 3112 de 1997, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.4 — Servidumbre legal de uso público
 
@@ -11521,8 +10111,6 @@ La servidumbre legal de uso público de las riberas de las vías fluviales cuya 
 PARÁGRAFO . Las riberas de las vías fluviales constituyen espacio público; por lo tanto, son de libre acceso para los navegantes y sus embarcaciones. Los dueños de los predios colindantes con las riberas de las vías fluviales están obligados a dejar libre el espacio necesario para la navegación y flote a la sirga y permitirán que los navegantes saquen sus embarcaciones a tierra y las aseguren a los árboles.
 
 (Decreto 3112 de 1997, artículo 10).
-
-ARTÍCULO
 
 ## art:2.2.3.2.1.5 — De las obras
 
@@ -11533,8 +10121,6 @@ Toda obra que se pretenda construir o todo elemento que se pretenda colocar en l
 SECCIÓN 2
 
 De las empresas de transporte fluvial
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.1 — Clasificación
 
@@ -11554,15 +10140,11 @@ SUBSECCIÓN 1
 
 Transporte de pasajeros
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.1 — Permiso, vigilancia y control
 
 Toda empresa de transporte fluvial de pasajeros está sujeta al permiso otorgado por la autoridad fluvial correspondiente, así como también a la vigilancia y control permanentes de dicha autoridad para velar por el cumplimiento de las normas sobre navegación fluvial y de las condiciones de seguridad, salubridad e higiene de cada una de las embarcaciones.
 
 (Decreto 3112 de 1997, artículo 13).
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.1.2 — Aptitud de las embarcaciones
 
@@ -11572,15 +10154,11 @@ Cuando una embarcación de pasajeros no pueda continuar el viaje por inconvenien
 
 (Decreto 3112 de 1997, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.3 — Abastecimiento de combustible
 
 Las embarcaciones de servicio público no podrán abastecer de combustible a la embarcación con pasajeros a bordo.
 
 (Decreto 3112 de 1997, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.1.4 — Transporte de colonización
 
@@ -11592,15 +10170,11 @@ Salvo fuerza mayor, las embarcaciones que transporten víveres, provisiones y en
 
 (Decreto 3112 de 1997, artículo 16).
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.1.5 — Transporte de pasajeros enfermos o heridos
 
 Cuando el pasajero sea un enfermo o un herido, el capitán, o quien haga sus veces, ayudará en su asistencia y comodidad y procurará conducirlo a la mayor brevedad posible al lugar de su destino.
 
 (Decreto 3112 de 1997, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.1.6 — Quejas
 
@@ -11611,8 +10185,6 @@ Los pasajeros, presentarán ante la autoridad fluvial los reclamos por deficienc
 SUBSECCIÓN 2
 
 Transporte de carga
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.2.1 — De la clasificación de la carga
 
@@ -11634,15 +10206,11 @@ g) Otras Cargas.
 
 (Decreto 3112 de 1997, artículo 19).
 
-ARTÍCULO
-
 ## art:2.2.3.2.2.2.2 — 2.2
 
 Aptitud de las embarcaciones Las embarcaciones destinadas al transporte de carga deben tener las necesarias especificaciones y adaptaciones técnicas que para el efecto ordenará el Ministerio de Transporte, de acuerdo con la clasificación a que se refiere el artículo anterior.
 
 (Decreto 3112 de 1997, artículo 20).
-
-ARTÍCULO
 
 ## art:2.2.3.2.2.2.3 — Organización de la carga
 
@@ -11654,15 +10222,11 @@ SECCIÓN 3
 
 De la habilitación de empresas de transporte fluvial
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.1 — De la habilitación
 
 La habilitación es la autorización expedida por la Subdirección de Transporte para la prestación del servicio público de transporte fluvial.
 
 (Decreto 3112 de 1997, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.2 — De las empresas de servicio público de transporte fluvial
 
@@ -11672,8 +10236,6 @@ PARÁGRAFO . Las empresas fluviales extranjeras que pretendan prestar servicios 
 
 (Decreto 3112 de 1997, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.3 — Prestación del servicio público
 
 Toda empresa de transporte público fluvial podrá hacer uso de las vías fluviales una vez haya obtenido la habilitación por parte de la Subdirección de Transporte.
@@ -11681,8 +10243,6 @@ Toda empresa de transporte público fluvial podrá hacer uso de las vías fluvia
 PARÁGRAFO . La habilitación a que se refiere el presente artículo se cancelará cuando la empresa no cumpla con las normas sobre navegación fluvial o no renueve o demuestre los documentos a que se refiere el artículo siguiente.
 
 (Decreto 3112 de 1997, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.4 — Requisitos comunes
 
@@ -11730,8 +10290,6 @@ D. De carácter financiero:
 
 (Decreto 3112 de 1997, artículo 25).
 
-ARTÍCULO
-
 ## art:2.2.3.2.3.5 — Procedimiento
 
 La Subdirección de Transporte, verificará dentro de un término no superior a sesenta (60) días calendario, contados a partir de la fecha de radicación de la solicitud, el cumplimiento de los requisitos exigidos y decidirá si es procedente o no su habilitación. Si la documentación está incompleta se seguirá el procedimiento establecido en las normas vigentes que regulen el derecho de petición.
@@ -11741,8 +10299,6 @@ La habilitación se concederá mediante resolución motivada y cualquier modific
 La habilitación tendrá vigencia indefinida, mientras el interesado mantenga las condiciones inicialmente exigidas para su otorgamiento, en cuanto al cumplimiento de los requisitos aquí establecidos. El Ministerio de Transporte - Subdirección de Transporte -, podrá en cualquier tiempo de oficio o a petición de parte, verificar el cumplimiento de los mismos. En el evento que determine su incumplimiento procederá a aplicar las sanciones previstas en el Capítulo IX de la Ley 336 de 1996 y en la reglamentación que para el efecto expedirá el Ministerio de Transporte.
 
 (Decreto 3112 de 1997, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.3.2.3.6 — Obligaciones de las empresas de transporte fluvial
 
@@ -11766,8 +10322,6 @@ SECCIÓN 4
 
 De los seguros en el transporte fluvial
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.1 — Seguros
 
 Las empresas de transporte fluvial están obligadas a tomar las siguientes coberturas de seguros:
@@ -11782,8 +10336,6 @@ El Ministerio de Transporte establecerá mediante resolución las cuantías mín
 
 (Decreto 3112 de 1997, artículo 28).
 
-ARTÍCULO
-
 ## art:2.2.3.2.4.2 — Inspecciones de las compañías de seguros
 
 Las compañías de seguros debidamente acreditadas en Colombia, al expedir las pólizas correspondientes y durante la vigencia de las mismas, podrán efectuar las inspecciones que estimen necesarias a las empresas, así como inspecciones técnicas a sus embarcaciones para comprobar su estado de navegabilidad.
@@ -11792,23 +10344,17 @@ SECCIÓN 5
 
 De la matrícula de las embarcaciones
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.1 — Aptitud para navegar
 
 Para que una embarcación o un artefacto fluvial pueda navegar por las vías fluviales de la República, deberá estar matriculado en el Libro de Registro de la respectiva Inspección fluvial si se trata de una embarcación mayor o un artefacto fluvial, o en la Inspección Fluvial si se trata de una embarcación menor, y estar provisto de la respectiva Patente de Navegación.
 
 (Decreto 3112 de 1997, artículo 30).
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.2 — Prueba del dominio
 
 Las certificaciones que expida la autoridad fluvial en donde se encuentre matriculada la embarcación o el artefacto fluvial, constituirán plena prueba del dominio y demás derechos reales y medidas cautelares que recaen sobre ellos.
 
 (Decreto 3112 de 1997, artículo 32).
-
-ARTÍCULO
 
 ## art:2.2.3.2.5.3 — Requisitos
 
@@ -11832,15 +10378,11 @@ Si existiere hipoteca, este gravamen se inscribirá en la matrícula.
 
 (Decreto 3112 de 1997, artículo 33).
 
-ARTÍCULO
-
 ## art:2.2.3.2.5.4 — Cambio de matrícula
 
 Para matricular una embarcación o un artefacto fluvial anteriormente matriculados en el extranjero, se acompañará, además del título que acredite la propiedad del solicitante, constancia de la cancelación de la matrícula extranjera, la prueba de la entrega real y material de la embarcación y la presentación de los documentos exigidos en el numeral 1 del artículo anterior.
 
 (Decreto 3112 de 1997, artículo 34).
-
-ARTÍCULO
 
 ## art:2.2.3.2.5.5 — Cancelación de matrícula
 
@@ -11852,8 +10394,6 @@ SECCIÓN 6
 
 Permiso de operación de las empresas de transporte fluvial
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.1 — Permiso de operación
 
 Las empresas nacionales y extranjeras, de servicio público o privado, que pretendan prestar servicio de transporte fluvial, deben obtener previamente un permiso de operación expedido por el Ministerio de Transporte - Subdirección de Transporte -, el cual es intransferible a cualquier título, a excepción de los derechos sucesorales conforme a lo establecido en la Ley 336 de 1996, y obliga a sus beneficiarios a cumplir lo autorizado bajo las condiciones en él establecidas.
@@ -11862,15 +10402,11 @@ Para obtener el permiso de operación el interesado, directamente o a través de
 
 (Decreto 3112 de 1997, artículo 36).
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.2 — Transporte mixto
 
 El Ministerio de Transporte autorizará la prestación del servicio de transporte conjunto de pasajeros y carga una vez demostrada la disponibilidad de espacios para su adecuado transporte, siempre y cuando se reúnan las condiciones de seguridad necesarias, con base en el formato establecido para este fin.
 
 (Decreto 3112 de 1997, artículo 37).
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.3 — Carga peligrosa
 
@@ -11878,15 +10414,11 @@ Se entiende por carga peligrosa la descrita en el Manual de Seguridad y Sanidad 
 
 (Decreto 3112 de 1997, artículo 38).
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.4 — Excepción
 
 Excepcionalmente el Ministerio de Transporte - Subdirección de Transporte -, podrá expedir permisos especiales y transitorios debidamente motivados en forma individual a un transportador fluvial privado para transportar carga propia que no sea del giro ordinario de su actividad económica.
 
 (Decreto 3112 de 1997, artículo 39).
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.5 — Término de expedición
 
@@ -11896,23 +10428,17 @@ Cuando el servicio a prestar no esté sujeto a rutas e itinerarios predeterminad
 
 (Decreto 3112 de 1997, artículo 40).
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.6 — Vigencia del permiso de operación
 
 El permiso de operación tendrá una vigencia de tres (3) años, contados a partir de la fecha de ejecutoria de la resolución que lo otorgó.
 
 (Decreto 3112 de 1997, artículo 41).
 
-ARTÍCULO
-
 ## art:2.2.3.2.6.7 — Prórroga
 
 Previa solicitud y con el cumplimiento de los requisitos para ello exigidos, el permiso de operación será prorrogado por el mismo término prescrito en el presente Capítulo.
 
 (Decreto 3112 de 1997, artículo 42).
-
-ARTÍCULO
 
 ## art:2.2.3.2.6.8 — Requisitos para servicio público
 
@@ -11942,15 +10468,11 @@ SECCIÓN 7
 
 De la operación fluvial
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.1 — Obligación de reportar la carga
 
 Cuando una embarcación recibe a bordo cualquier cargamento, deberá reportarlo a la autoridad fluvial respectiva. En caso que en el lugar de embarque no exista autoridad fluvial, el capitán, o quien haga sus veces, deberá presentar la documentación correspondiente en el primer puerto de recorrido de la embarcación en el que exista dicha autoridad fluvial.
 
 (Decreto 3112 de 1997, artículo 44).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.2 — Permanencia en puerto
 
@@ -11959,8 +10481,6 @@ Cuando la embarcación se encuentre en puerto, la permanencia de tripulantes a b
 El capitán, o quien haga sus veces, al llegar a puerto, ordenará el turno de personal para maniobras normales y de emergencia. La empresa deberá mantener a bordo la conveniente dotación y responderá ante la autoridad fluvial por cualquier irregularidad en este servicio de la embarcación.
 
 (Decreto 3112 de 1997, artículo 45).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.3 — Requisitos para zarpar
 
@@ -12024,8 +10544,6 @@ El incumplimiento de lo establecido en este parágrafo, acarreará al infractor 
 
 (Decreto 3112 de 1997, artículo 46).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.4 — Zarpes especiales
 
 La autoridad fluvial en cada jurisdicción, está autorizada para expedir zarpes especiales, tanto para embarcaciones mayores como para las menores, que podrán comprender varios viajes por un tiempo determinado y prudencial, cuando se trate de programas de turismo y de servicios especiales. Este zarpe especial tendrá esa exclusividad y no podrá otorgarse para embarcaciones de carga.
@@ -12034,15 +10552,11 @@ PARÁGRAFO . El presente artículo será aplicable al zarpe de embarcaciones de 
 
 (Decreto 3112 de 1997, artículo 47).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.5 — Itinerario especial
 
 Cuando un convoy atraque en un puerto intermedio de su itinerario, requerirá permiso de zarpe de la autoridad fluvial para recoger botes cargados u otros que se tomen en dicho puerto.
 
 (Decreto 3112 de 1997, artículo 48).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.6 — Permanencia en puerto
 
@@ -12050,23 +10564,17 @@ Cuando las embarcaciones atraquen para pernoctar, aprovisionarse o hacer reparac
 
 (Decreto 3112 de 1997, artículo 49).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.7 — Actividad portuaria fluvial
 
 El Ministerio de Transporte, a través de las autoridades fluviales respectivas, será el encargado de coordinar y de determinar los lugares para atraque, zarpe, amarre, almacenamiento, reparación de embarcaciones, cargue y descargue y demás actividades fluviales de los usuarios del puerto.
 
 (Decreto 3112 de 1997, artículo 50).
 
-ARTÍCULO
-
 ## art:2.2.3.2.7.8 — Utilización del muelle
 
 El capitán o quien haga sus veces, está obligado a atracar la embarcación en el sitio dentro del muelle, asignado por la autoridad fluvial o portuaria competentes.
 
 (Decreto 3112 de 1997, artículo 51).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.9 — Continuidad de la actividad portuaria
 
@@ -12076,21 +10584,17 @@ Las variaciones en los horarios, las rutas y los turnos de cargue y descargue es
 
 (Decreto 3112 de 1997, artículo 52).
 
-## art:2.2.3.2 — 7.10
+## art:2.2.3.2.7.10 — Del convoy
 
-Del convoy. Cuando en su convoy una embarcación transporte cargamentos para diversos puertos podrá dejar botes en los puertos intermedios para el cargue y descargue y para recogerlos al regreso. El transportador deberá mantener en el puerto, o dejar contratada, una unidad propulsora que ejecute las operaciones para que no haya entorpecimiento en las labores de los muelles. Si el transportador no lo hiciere, la autoridad fluvial podrá ejecutar la maniobra y cobrará el costo de la misma.
+Cuando en su convoy una embarcación transporte cargamentos para diversos puertos podrá dejar botes en los puertos intermedios para el cargue y descargue y para recogerlos al regreso. El transportador deberá mantener en el puerto, o dejar contratada, una unidad propulsora que ejecute las operaciones para que no haya entorpecimiento en las labores de los muelles. Si el transportador no lo hiciere, la autoridad fluvial podrá ejecutar la maniobra y cobrará el costo de la misma.
 
 (Decreto 3112 de 1997, artículo 53).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.11 — Cargue y descargue
 
 El cargue y el descargue en cualquier puerto serán independientes el uno del otro. Se realizará en turno de acuerdo con el orden de atraque y la presentación del diario de navegación y demás documentación ante la autoridad fluvial, portuaria o marítima competentes, según el caso, cuando llegue la unidad remolcadora con su convoy.
 
 (Decreto 3112 de 1997, artículo 54).
-
-ARTÍCULO
 
 ## art:2.2.3.2.7.12 — Turnos
 
@@ -12102,15 +10606,11 @@ CAPÍTULO 3
 
 Trámite de solicitud de concesiones para el desarrollo de actividades portuarias previstas en las Leyes 1 de 1991 y 1242 de 2008
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Campo de aplicación
 
 El presente Capítulo regula lo relativo al procedimiento para el otorgamiento de las concesiones, autorizaciones temporales, modificaciones a los contratos sobre bienes de uso público, para el desarrollo de las actividades portuarias, incluidas las actividades pesqueras industriales, conforme a lo previsto en las leyes 1 de 1991 y 1242 de 2008.
 
 (Decreto 474 de 2015, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.3.3.2 — Competencia
 
@@ -12118,15 +10618,11 @@ Corresponde al Estado a través la Agencia Nacional de Infraestructura y la Corp
 
 (Decreto 474 de 2015, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.3.3.3 — Condiciones generales de la solicitud de contrato de concesión
 
 La petición original y las alternativas si las hubiere deberán ajustarse a lo previsto por el artículo 9 de la Ley 1 de 1991 y la actividad pesquera industrial a las disposiciones, regulaciones y políticas establecidas por la Autoridad Nacional de Acuicultura y Pesca -AUNAP, de conformidad con las regulaciones y normas vigentes sobre la materia, en especial lo dispuesto en la Ley 13 de 1990 o en aquellas normas que la modifiquen, adicionen o sustituyan.
 
 (Decreto 474 de 2015, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4 — Principios del procedimiento
 
@@ -12140,15 +10636,11 @@ SECCIÓN 1
 
 Trámite de las concesiones
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.1 — Iniciativa
 
 El trámite administrativo para el otorgamiento de concesiones portuarias, embarcaderos y autorizaciones temporales podrá iniciarse a solicitud de parte u oficiosamente por las entidades competentes.
 
 (Decreto 474 de 2015, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.2 — Trámite
 
@@ -12226,8 +10718,6 @@ PARÁGRAFO 3. Una vez recibida la solicitud de concesión, la entidad competente
 
 (Decreto 474 de 2015, artículo 6).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.3 — Publicidad de la petición
 
 El interesado en solicitar una concesión sobre bienes de uso público, deberá presentar ejemplares debidamente certificados de los cuatro (4) avisos publicados en dos (2) periódicos de circulación nacional. Las publicaciones deberán ser de dos (2) días distintos, con intervalos de diez (10) días hábiles entre cada publicación.
@@ -12238,8 +10728,6 @@ PARÁGRAFO . La entidad competente rechazará y ordenará devolver al peticionar
 
 (Decreto 474 de 2015, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.4 — Intervención de terceros
 
 Cualquier persona que acredite un interés puede oponerse a la solicitud o formular una petición alternativa dentro de los términos señalados en el artículo 10 de la Ley 1 de 1991.
@@ -12247,8 +10735,6 @@ Cualquier persona que acredite un interés puede oponerse a la solicitud o formu
 El plazo para formular oposiciones o formular propuestas alternativas se contará a partir de la última publicación efectuada por el peticionario dentro de los dos (2) meses siguientes a la fecha de la última publicación, y con el lleno de los requisitos previstos en el artículo 10 de la Ley 1 de 1991.
 
 (Decreto 474 de 2015, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.5 — Audiencia pública
 
@@ -12264,8 +10750,6 @@ PARÁGRAFO . A partir del requerimiento efectuado en la audiencia de que trata e
 
 (Decreto 474 de 2015, artículo 9).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.6 — Fijación de las condiciones para otorgar la concesión portuaria
 
 Cumplido el anterior procedimiento, se expedirá una resolución dentro de los cinco (5) meses siguientes a la fecha de presentación de la solicitud que indicará los términos en que se otorgará la concesión, acto administrativo que deberá contener un análisis de la petición y de todos sus documentos anexos, de los escritos de oposición, las consideraciones y decisión sobre las mismas, así como de las propuestas alternativas y de los conceptos de las autoridades. La parte resolutiva contendrá las disposiciones previstas en el artículo 12 de la Ley 1 de 1991.
@@ -12274,23 +10758,17 @@ La resolución que indica los términos en los cuales se podrá otorgar la conce
 
 (Decreto 474 de 2015, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.7 — Oposición de las autoridades a la resolución de fijación de condiciones para otorgar la concesión portuaria
 
 Dentro de los diez (10) días hábiles siguientes a la comunicación sobre la resolución a que se refiere el artículo anterior, las autoridades podrán oponerse a ella por motivos de legalidad o de conveniencia, conforme a lo previsto en el artículo 12 de la Ley 1 de 1991 o la norma que la modifique, adicione o sustituya.
 
 (Decreto 474 de 2015, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.3.3.1.8 — Decisión negativa
 
 En caso de que la petición no estuvieren conforme a la ley y al Plan de Expansión Portuaria, o tuviere impacto negativo ambiental o no se contemplen las obras necesarias para prevenirlo, o tuvieran inconvenientes cuya solución no sea posible, o la actividad resulte contraria a las disposiciones vigentes que regulen la actividad, o prosperaren las oposiciones propuestas, la entidad negará la solicitud de concesión. Esta decisión se adoptará por resolución motivada y se notificará al solicitante.
 
 (Decreto 474 de 2015, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.3.3.1.9 — Modificación en la etapa precontractual
 
@@ -12305,8 +10783,6 @@ PARÁGRAFO . Si del análisis integral efectuado se establece que se trata de ca
 SECCIÓN 2
 
 Oferta oficiosa de contratos de concesión
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.1 — Trámite cuando existe oferta oficiosa
 
@@ -12330,15 +10806,11 @@ Vencido el término anterior, si la entidad competente lo estima procedente o co
 
 (Decreto 474 de 2015, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.3.3.2.2 — Decisión en el trámite de oferta oficiosa
 
 Presentadas las propuestas en la fecha prevista en la convocatoria y realizada la evaluación de estas, la entidad competente otorgará la concesión mediante resolución motivada, con base en los criterios y condiciones señalados en la convocatoria.
 
 (Decreto 474 de 2015, artículo 15).
-
-ARTÍCULO
 
 ## art:2.2.3.3.2.3 — Oposición de las autoridades en el trámite de oferta oficiosa
 
@@ -12352,8 +10824,6 @@ SECCIÓN 3
 
 Otorgamiento de la concesión
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.1 — Otorgamiento formal de la concesión a petición de parte o por oferta oficiosa
 
 La concesión portuaria se otorgará solo cuando se hayan cumplido los requisitos establecidos en el acto administrativo de fijación de condiciones, incluidos los trámites ante las autoridades ambientales y el acto administrativo que la otorga deberá expedirse de conformidad con lo dispuesto en el artículo 14 de la Ley 1 de 1991.
@@ -12363,8 +10833,6 @@ En dicha providencia se señalará el plazo para suscribir el contrato de conces
 Esta providencia se notificará en la forma prevista por la Ley 1437 de 2011 o en la norma que la modifique, complemente o sustituya.
 
 (Decreto 474 de 2015, artículo 17).
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.2 — Requisitos de los contratos de concesión
 
@@ -12394,8 +10862,6 @@ Los contratos de concesión portuaria deberán contener:
 
 (Decreto 474 de 2015, artículo 18).
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.3 — Pérdida del derecho
 
 Vencido el plazo para suscribir el contrato de concesión portuaria otorgada mediante resolución, sin que el beneficiario del otorgamiento haya cumplido con los requisitos señalados en dicho acto administrativo, se revocará este y se hará exigible la garantía de seriedad de la oferta
@@ -12404,15 +10870,11 @@ PARÁGRAFO . Este plazo podrá prorrogarse, por una sola vez y por el mismo tér
 
 (Decreto 474 de 2015, artículo 19).
 
-ARTÍCULO
-
 ## art:2.2.3.3.3.4 — Iniciación de la ejecución del contrato de concesión
 
 Suscrito y en firme el correspondiente contrato de concesión y aprobadas las garantías, el concesionario entrará a ocupar y a utilizar los bienes de uso público señalados, y a realizar las actividades propuestas dentro de los plazos estipulados.
 
 (Decreto 474 de 2015, artículo 20).
-
-ARTÍCULO
 
 ## art:2.2.3.3.3.5 — Modificación de los contratos de concesión
 
@@ -12436,8 +10898,6 @@ SECCIÓN 4
 
 Trámite de las concesiones para embarcaderos y/o construcciones destinadas a la pesca industrial
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.1 — Solicitud de trámite para embarcaderos y/o construcciones destinadas a la pesca industrial
 
 Cualquier persona natural o jurídica podrá solicitar el otorgamiento de una concesión portuaria para construir y operar embarcaderos y/o construcciones destinadas a la pesca industrial, si se acredita que ellos convienen al desarrollo económico social de la región y que los existentes no se adecuan al uso del peticionario, previo el trámite previsto en el presente Capítulo y la presentación de la siguiente documentación e información:
@@ -12456,23 +10916,17 @@ Cualquier persona natural o jurídica podrá solicitar el otorgamiento de una co
 
 (Decreto 474 de 2015, artículo 22).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.2 — Términos para la decisión
 
 Recibida la solicitud por la entidad competente, dispondrá de un plazo de quince (15) días para su estudio y evaluación, al cabo de los cuales deberá decidir mediante resolución motivada que será notificada al peticionario. Cuando no fuere posible resolver la solicitud en dicho plazo, se informará así al interesado, expresando los motivos de la demora y señalando a la vez la fecha en que se decidirá la petición.
 
 (Decreto 474 de 2015, artículo 23).
 
-ARTÍCULO
-
 ## art:2.2.3.3.4.3 — Prórroga de la concesión para embarcaderos
 
 Quien pretenda solicitar la prórroga de los dos (2) años de concesión para embarcaderos tendrá que solicitarla con tres (3) meses de antelación al vencimiento de la misma, acreditando que las condiciones para el otorgamiento inicial se conservan. Si la solicitud no se hace dentro de este término, la entidad competente procederá a solicitar la reversión de las zonas de uso público y de la infraestructura que allí se encuentre habitualmente instalada.
 
 (Decreto 474 de 2015, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.3.3.4.4 — Reversión a la Nación
 
@@ -12483,8 +10937,6 @@ Al expirar el plazo por el cual se otorga la concesión, las construcciones leva
 SECCIÓN 5
 
 Autorizaciones temporales
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.1 — Otorgamiento de autorizaciones temporales
 
@@ -12497,8 +10949,6 @@ PARÁGRAFO 1. La autorización para ocupar y utilizar en forma temporal y exclus
 PARÁGRAFO 2. Por gozar de especial protección del Estado se otorgarán autorizaciones temporales a las sociedades que desarrollen actividades agrícolas, pecuarias, pesqueras industriales, forestales y agroindustriales, mientras tramitan solicitud de concesión sobre bienes de uso público donde existan construcciones e inmuebles por destinación que permitan la prestación inmediata de este servicio, siempre y cuando cuenten con la respectiva autorización temporal.
 
 (Decreto 474 de 2015, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.2 — Vigencia de las autorizaciones temporales
 
@@ -12518,8 +10968,6 @@ Se entiende que la autorización temporal ha expirado cuando:
 
 (Decreto 474 de 2015, artículo 27).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.3 — Reversión
 
 Dentro de los noventa (90) días siguientes al vencimiento de la autorización temporal, el autorizado deberá revertir las playas, los terrenos de bajamar y zonas accesorias a aquellas y las construcciones e inmuebles por destinación que se encuentren habitualmente allí instalados, en los términos establecidos en el artículo 8 de la Ley 1 de 1991, sin que implique indemnización alguna a cargo de la Nación por los gastos en que el usuario incurra para adecuarlos o mantenerlos.
@@ -12530,23 +10978,17 @@ Las mejoras necesarias de los bienes entregados que se requieran deberán ser au
 
 (Decreto 474 de 2015, artículo 28).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.4 — Garantías
 
 El beneficiario de la autorización temporal deberá presentar para su aprobación a la entidad competente, garantía única para el cumplimiento de las condiciones generales de la autorización temporal, garantía de responsabilidad civil extracontractual y garantía de pago de salarios, prestaciones sociales e indemnizaciones laborales del personal, de conformidad con lo dispuesto en el presente Capítulo y/o en la normatividad vigente para este efecto. Estas pólizas deben aprobarse antes de la expedición de la resolución que otorga la autorización temporal.
 
 (Decreto 474 de 2015, artículo 29).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.5 — Permiso ambiental
 
 Al momento de otorgar la autorización temporal, el autorizado deberá tener vigente la licencia ambiental y/o el plan de manejo ambiental, expedidos por las respectivas autoridades competentes, además de contar con los permisos de las autoridades que así lo requieran.
 
 (Decreto 474 de 2015, artículo 30).
-
-ARTÍCULO
 
 ## art:2.2.3.3.5.6 — Documentos de la solicitud
 
@@ -12570,8 +11012,6 @@ Cámara de Comercio con una fecha de expedición no mayor a tres (3) meses.
 
 (Decreto 474 de 2015, artículo 31).
 
-ARTÍCULO
-
 ## art:2.2.3.3.5.7 — Trámite
 
 Recibida la solicitud por la entidad competente, esta dispondrá de un plazo de quince (15) días para su estudio y evaluación, al cabo de los cuales deberá decidir mediante resolución motivada que notificará al peticionario. Cuando no sea posible resolver la solicitud en este plazo, se debe informar al interesado, indicando los motivos de la demora y se señalará la fecha en que se dará respuesta.
@@ -12594,15 +11034,11 @@ SECCIÓN 6
 
 Contraprestaciones y reversiones
 
-ARTÍCULO
-
 ## art:2.2.3.3.6.1 — Contraprestación por zonas de uso público
 
 La contraprestación por concepto de otorgamiento de concesión sobre zonas de uso público se determinará según las políticas y las metodologías vigentes al momento de otorgar la concesión.
 
 (Decreto 474 de 2015, artículo 33).
-
-ARTÍCULO
 
 ## art:2.2.3.3.6.2 — 6.2
 
@@ -12610,15 +11046,11 @@ Contraprestación por infraestructura para los puertos fluviales destinados a ac
 
 (Decreto 474 de 2015, artículo 34).
 
-ARTÍCULO
-
 ## art:2.2.3.3.6.3 — Contraprestación por autorizaciones temporales
 
 La contraprestación que pagará el beneficiario de una autorización temporal se calculará de conformidad con lo establecido en el último documento de política que haya establecido la metodología de contraprestación portuaria.
 
 (Decreto 474 de 2015, artículo 35).
-
-ARTÍCULO
 
 ## art:2.2.3.3.6.4 — Reversiones
 
@@ -12632,15 +11064,11 @@ SECCIÓN 7
 
 Garantías
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.1 — Garantías
 
 En los contratos de concesión portuaria, concesión para embarcaderos y autorizaciones temporales, para actividades portuarias en áreas marítimas y fluviales, se deberán otorgar las garantías que a continuación se enuncian: (i) la seriedad de los ofrecimientos, (ii) el cumplimiento de las obligaciones del contrato de concesión portuaria, cualquiera que sea su naturaleza, (iii) la responsabilidad extracontractual que pueda surgir para la administración y (iv) los demás riesgos a que se encuentre expuesta la administración.
 
 (Decreto 474 de 2015, artículo 37).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.2 — Clases de Garantías
 
@@ -12648,15 +11076,11 @@ Para el trámite de las solicitudes y con el fin de garantizar el cumplimiento d
 
 (Decreto 474 de 2015, artículo 38).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.3 — Aspectos atinentes a las garantías de las autorizaciones temporales
 
 Para la constitución de las garantías de las autorizaciones temporales, el valor comercial de los inmuebles por destinación, de la infraestructura construida o de los equipos a revertir a la Nación, según el caso, estará fundamentado en los correspondientes avalúes presentados por el solicitante, los cuales deberán ser realizados por el Instituto Geográfico Agustín Codazzi, la entidad que haga sus veces o las personas naturales o jurídicas de carácter privado registradas y autorizadas por las lonjas de propiedad raíz del lugar donde se ubiquen los bienes objeto de la valoración, por una casa clasificadora, por peritos marítimos o por avaluadores, los cuales deberán cumplir con los requisitos que establezcan las disposiciones legales y normativas que les sean aplicables para el ejercicio.
 
 (Decreto 474 de 2015, artículo 39).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.4 — Garantía de seriedad de la solicitud de contrato de concesión portuaria
 
@@ -12677,8 +11101,6 @@ Esta garantía deberá ser presentada de forma simultánea con la respectiva sol
 PARÁGRAFO . La vigencia inicial de la garantía de seriedad de solicitud de concesión para un embarcadero será como mínimo de seis (6) meses contados a partir de la presentación de la solicitud y deberá ser prorrogada hasta por seis (6) meses más, en el evento que no se haya otorgado la concesión para embarcadero dentro de dicho período. Vencidos los términos anteriores sin que se haya otorgado la concesión para embarcadero, el solicitante deberá constituir una nueva garantía de seriedad. Esta garantía deberá ser presentada de forma simultánea con la respectiva solicitud y mantenerse vigente durante el tiempo que dure el trámite.
 
 (Decreto 474 de 2015, artículo 40).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.5 — 7.5
 
@@ -12706,15 +11128,11 @@ c. Garantía de estabilidad y calidad de las obras. Por medio de este amparo los
 
 (Decreto 474 de 2015, artículo 41).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.6 — Póliza de seguro de responsabilidad civil extracontractual
 
 Por medio de la cual los beneficiarios de contratos de concesión portuaria, concesión para embarcaderos y autorizaciones temporales amparan a la Nación, a través de las entidades que las otorgan, frente al pago de indemnizaciones que llegaren a ser exigibles como consecuencia de daños causados a terceros. El valor asegurado del seguro de responsabilidad civil extracontractual para contratos de concesión portuaria y concesión para embarcaderos será como mínimo del diez por ciento (10%) del valor total del plan de inversión aprobado. El valor asegurado del seguro de responsabilidad civil extracontractual de las autorizaciones temporales, será como mínimo del diez por ciento (10%) del valor comercial de los inmuebles por destinación y de la infraestructura construida en zona de uso público. El valor asegurado de la póliza de seguro de responsabilidad civil extracontractual se expresará en dólares de los Estados Unidos de Norteamérica, liquidados en moneda colombiana a la tasa representativa del mercado - TRM del día de su expedición o en la moneda que se establezca para el pago de la contraprestación. Esta póliza tendrá una vigencia igual al término de duración de los contratos de concesión portuaria, concesión para embarcaderos y autorización temporal.
 
 (Decreto 474 de 2015, artículo 42).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.7 — Aceptación de las garantías por vigencias
 
@@ -12722,23 +11140,17 @@ En el caso de las concesiones cuyo plazo sea superior a cinco (5) años, la enti
 
 (Decreto 474 de 2015, artículo 43).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.8 — Aprobación de las garantías
 
 Antes del inicio de ejecución del contrato de concesión portuaria, concesión para embarcadero y autorización temporal, la entidad contratante aprobará las garantías siempre y cuando reúnan las condiciones legales y reglamentarias propias de cada garantía, sean suficientes e idóneas y amparen los riesgos establecidos para cada caso.
 
 (Decreto 474 de 2015, artículo 44).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.9 — Devolución de la garantía de seriedad de la solicitud
 
 Una vez quede en firme el acto administrativo que resuelve en forma negativa una solicitud para concesión portuaria y concesión para embarcadero, previa solicitud escrita de la persona que haya realizado el ofrecimiento, la entidad devolverá la garantía de seriedad de la solicitud.
 
 (Decreto 474 de 2015, artículo 45).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.10 — Efectividad de las garantías
 
@@ -12748,15 +11160,11 @@ Para efectos de reclamar la garantía bancaria, el siniestro se entenderá acaec
 
 (Decreto 474 de 2015, artículo 46).
 
-ARTÍCULO
-
 ## art:2.2.3.3.7.11 — Modificación de las garantías
 
 Los beneficiarios de concesión portuaria, concesión para embarcadero y autorización temporal deberán restablecer el valor de las garantías cuando éste se haya visto reducido por reclamaciones de la entidad otorgante y en cualquier evento en que se adicione el valor del contrato, se prorrogue su término, se modifique o haya variación en los valores que sirvieron de base para la determinación del valor de la garantía.
 
 (Decreto 474 de 2015, artículo 47).
-
-ARTÍCULO
 
 ## art:2.2.3.3.7.12 — Aspectos no regulados
 
@@ -12768,15 +11176,11 @@ SECCIÓN 8
 
 Disposiciones varias
 
-ARTÍCULO
-
 ## art:2.2.3.3.8.1 — Requisitos de los actos administrativos
 
 Los actos administrativos que se expidan con ocasión del trámite de otorgamiento de concesiones de que trata el presente Capítulo, se sujetarán en su forma y requisitos de notificaciones a lo dispuesto en la Ley 1437 de 2011 o en las normas que la modifiquen, complementen o sustituyan.
 
 (Decreto 474 de 2015, artículo 49).
-
-ARTÍCULO
 
 ## art:2.2.3.3.8.2 — Saneamiento del trámite
 
@@ -12788,15 +11192,11 @@ También podrá ser adicionada la resolución de otorgamiento de que trata el ar
 
 (Decreto 474 de 2015, artículo 50).
 
-ARTÍCULO
-
 ## art:2.2.3.3.8.3 — Publicidad del procedimiento
 
 Las entidades competentes, deberán publicar los trámites de que trata el artículo 2.2.3.3.1 del presente Decreto, en la página web de la entidad.
 
 (Decreto 474 de 2015, artículo 51).
-
-ARTÍCULO
 
 ## art:2.2.3.3.8.4 — Régimen de transición
 
@@ -12810,23 +11210,17 @@ Condiciones, obligaciones y responsabilidades para la modificación de los contr
 
 de conformidad con lo dispuesto en el artículo 61 de la Ley 1682 de 2013
 
-ARTÍCULO
-
 ## art:2.2.3.4.1 — Objeto
 
 El presente Capítulo fija las condiciones, obligaciones y responsabilidades que deben cumplir los titulares de los contratos de concesión portuaria de servicio privado existentes que manejen hidrocarburos y que estén interesados en prestar servicios portuarios a los agentes del sector de hidrocarburos con los que no tengan vinculación jurídica o económica, en los términos del artículo 61 de la Ley 1682 de 2013.
 
 (Decreto 119 de 2015, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.3.4.2 — Solicitud
 
 Los titulares de los contratos de concesión portuaria a los que se refiere el presente Capítulo, interesados en prestar los servicios portuarios a agentes del sector de hidrocarburos no vinculados jurídica o económicamente, deben presentar ante la autoridad competente una solicitud de modificación del contrato que será aprobada previo cumplimiento de las condiciones, obligaciones y responsabilidades reglamentadas en el presente Capítulo.
 
 (Decreto 119 de 2015, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.3.4.3 — Condiciones
 
@@ -12845,8 +11239,6 @@ Para aprobar la solicitud de prestación de los servicios portuarios a los que s
 6. Que se respeten los acuerdos o contratos existentes y se garantice el derecho de preferencia de acceso y uso, de que trata el artículo 60 de la Ley 1682 de 2013.
 
 (Decreto 119 de 2015, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.3.4.4 — Autorización
 
@@ -12870,8 +11262,6 @@ Lo anterior, sin perjuicio de las medidas legales y contractuales que procedan p
 
 (Decreto 119 de 2015, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.3.4.5 — Obligaciones
 
 En el acto administrativo que concede la autorización para la prestación de los servicios portuarios a los que se refiere el presente Capítulo, se consignarán las siguientes obligaciones:
@@ -12894,15 +11284,11 @@ PARÁGRAFO . La autorización que se otorgue al concesionario no lo exime de cum
 
 (Decreto 119 de 2015, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.3.4.6 — Responsabilidades
 
 El titular del contrato de concesión portuaria de servicios privados autorizado para prestar los servicios de que trata este Capítulo será responsable ante las autoridades y frente a terceros por la prestación de los mismos.
 
 (Decreto 119 de 2015, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.3.4.7 — Protección a la libre competencia
 
@@ -12915,8 +11301,6 @@ CAPÍTULO 5
 Criterios para determinar el cobro de las contraprestaciones por concepto de las concesiones portuarias, sobre los activos entregados a las Sociedades
 
 Portuarias Regionales de Barranquilla, Santa Marta y Buenaventura.
-
-ARTÍCULO
 
 ## art:2.2.3.5.1 — 5.1
 
@@ -12982,23 +11366,17 @@ Ce: es el número de TEUS movilizados durante el año i.
 
 (Decreto 1873 de 2008, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.3.5.2 — Forma de pago de la contraprestación
 
 La contraprestación determinada de conformidad con los criterios adoptados mediante el presente Capítulo corresponde a anualidades vencidas que se pagará por semestres vencidos, utilizando para tal efecto una tasa de actualización del 12% anual y se aplicará en cada contrato en particular, a partir del día siguiente de aquel en que expire el plazo del contrato original suscrito con las Sociedades Portuarias Regionales a las que se refiere este Capítulo.
 
 (Decreto 1873 de 2008, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.3.5.3 — Moneda de pago
 
 Las contraprestaciones serán liquidadas en dólares de los Estados Unidos de Norteamérica y deberán pagarse de conformidad con lo establecido en la Resolución Externa número 8 de 2000 del Banco de la República y las demás normas que la modifiquen y adicionen y lo estipulado en los contratos de concesión.
 
 (Decreto 1873 de 2008, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.3.5.4 — Distribución de la contraprestación
 
@@ -13014,15 +11392,11 @@ CAPÍTULO 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.4.1.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente Capítulo se aplicarán integralmente al servicio público de transporte ferroviario de carga y pasajeros, de acuerdo con lo establecido en la Ley 336 de 1996.
 
 (Decreto 3110 de 1997, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.4.1.2 — Radio de acción
 
@@ -13030,15 +11404,11 @@ La actividad de transporte ferroviario se prestará en el ámbito nacional e int
 
 (Decreto 3110 de 1997, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.4.1.3 — Aplicación de acuerdos o tratados internacionales
 
 Sin perjuicio de lo establecido en el artículo anterior, el transporte ferroviario internacional cumplirá con los términos y condiciones previstos en los acuerdos o tratados internacionales aplicables.
 
 (Decreto 3110 de 1997, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.4.1.4 — Autoridad competente
 
@@ -13052,15 +11422,11 @@ CAPÍTULO 2
 
 Habilitación y operación
 
-ARTÍCULO
-
 ## art:2.2.4.2.1 — Habilitación
 
 De conformidad con lo establecido en el artículo 11 de la Ley 336 de 1996, la habilitación es la autorización que expide la autoridad competente para prestar el servicio público de transporte ferroviario de acuerdo con las condiciones señaladas en la ley, en este Título y en el acto que la conceda.
 
 (Decreto 3110 de 1997, artículo 6).
-
-ARTÍCULO
 
 ## art:2.2.4.2.2 — Requisitos y permiso de operación
 
@@ -13130,8 +11496,6 @@ Los pliegos contendrán las condiciones de seguridad contempladas en el artícul
 
 (Decreto 3110 de 1997, artículo 7).
 
-ARTÍCULO
-
 ## art:2.2.4.2.3 — Condiciones de comodidad y accesibilidad
 
 Las condiciones de comodidad y accesibilidad que deben cumplir quienes presten el servicio de transporte ferroviario de pasajeros están determinadas por:
@@ -13141,8 +11505,6 @@ Las condiciones de comodidad y accesibilidad que deben cumplir quienes presten e
 2. Las estaciones y anexidades deben contar con un adecuado programa arquitectónico que incluya: servicios complementarios, salas de espera, servicios sanitarios, facilidades para personas discapacitadas, maleteros, servicios de comunicaciones para el público, oficinas de administración y señalización.
 
 (Decreto 3110 de 1997, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.4.2.4 — Condiciones de seguridad
 
@@ -13166,8 +11528,6 @@ PARÁGRAFO . El servicio de transporte privado ferroviario de acuerdo con lo est
 
 (Decreto 3110 de 1997, artículo 9).
 
-ARTÍCULO
-
 ## art:2.2.4.2.5 — Seguros
 
 Sin perjuicio de los seguros exigidos en la ley o en el pliego de condiciones de la licitación, previo al inicio de la operación, las empresas deberán presentar una póliza de seguros de responsabilidad civil contractual y extracontractual amparando los siguientes riesgos.
@@ -13178,23 +11538,17 @@ Sin perjuicio de los seguros exigidos en la ley o en el pliego de condiciones de
 
 (Decreto 3110 de 1997, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.4.2.6 — Sistema de información
 
 La empresa de transporte ferroviario deberá contar con un sistema de información idóneo, que le permita hacer seguimiento al movimiento de los pasajeros y la carga y conocer su estado y ubicación.
 
 (Decreto 3110 de 1997, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.4.2.7 — Aseguramiento de la calidad
 
 Al iniciar el tercer año de operación, la empresa de transporte ferroviario deberá presentar las certificaciones de conformidad con las normas ISO 9000 de aseguramiento de la calidad, las normas de gestión ambiental ISO 14000 o EMAS, BS7750.
 
 (Decreto 3110 de 1997, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.4.2.8 — Vías concesionadas sin exclusividad
 
@@ -13206,15 +11560,11 @@ La empresa concesionaria inicial podrá convenir con la nueva o nuevas empresas 
 
 (Decreto 3110 de 1997, artículo 13).
 
-ARTÍCULO
-
 ## art:2.2.4.2.9 — Prioridad de los trenes de pasajeros
 
 Cuando se trate de vías concesionadas para el transporte de carga, el concesionario permitirá la libre circulación de trenes de pasajeros otorgándoles prioridad a los mismos, siempre y cuando se encuentren vinculados a empresas de transporte ferroviario debidamente habilitadas por la autoridad competente y con permiso de operación vigente.
 
 (Decreto 3110 de 1997, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.4.2.10 — Centros de control de tráfico
 
@@ -13224,15 +11574,11 @@ Los centros de control de tráfico contarán con las instalaciones, equipos y si
 
 (Decreto 3110 de 1997, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.4.2.11 — Conexión de los sistemas informativos
 
 Los sistemas informativos a que hace referencia el artículo anterior deben estar conectados con los sistemas de información de Instituto Nacional de Vías - INVIAS y de la Agencia Nacional de Infraestructura - ANI, o a las entidades que hagan sus veces, según corresponda.
 
 (Decreto 3110 de 1997, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.4.2.12 — Tarifas
 
@@ -13254,23 +11600,17 @@ CAPÍTULO 1
 
 Disposiciones generales
 
-ARTÍCULO
-
 ## art:2.2.5.1.1 — Objeto y principios
 
 El presente Capítulo tiene como objeto reglamentar el transporte público por cable y a las empresas prestadoras de este servicio, a fin de que ofrezcan un servicio eficiente, seguro, oportuno y económico, bajo los criterios básicos de cumplimiento de los principios rectores del transporte, como el de la libre competencia y el de la iniciativa privada, a las cuales solamente se aplicarán las restricciones establecidas por la Ley y los convenios internacionales.
 
 (Decreto 1072 de 2004, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.5.1.2 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente Capítulo se aplicarán integralmente al sistema de transporte por cable de pasajeros y carga para dar cumplimiento a lo establecido en la ley, en cuanto a la reglamentación que se debe dar a cada modo, teniendo en cuenta las Leyes 105 de 1993 y 336 de 1996.
 
 (Decreto 1072 de 2004, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.5.1.3 — Definiciones y clasificaciones
 
@@ -13352,15 +11692,11 @@ Las anteriores definiciones sin perjuicio de que la autoridad de transporte comp
 
 (Decreto 1072 de 2004, artículo 3).
 
-ARTÍCULO
-
 ## art:2.2.5.1.4 — Autoridades de transporte
 
 La autoridad competente para todos los efectos a que haya lugar en relación con el servicio público de transporte por cable, es el Ministerio de Transporte, quien establecerá las normas y las especificaciones técnicas requeridas para este servicio.
 
 (Decreto 1072 de 2004, artículo 4).
-
-ARTÍCULO
 
 ## art:2.2.5.1.5 — Control y vigilancia
 
@@ -13371,8 +11707,6 @@ La inspección, vigilancia y control de la prestación del sistema de transporte
 CAPÍTULO 2
 
 Estudios de soporte del proyecto
-
-ARTÍCULO
 
 ## art:2.2.5.2.1 — Estudios de soporte
 
@@ -13412,15 +11746,11 @@ CAPÍTULO 3
 
 Habilitación de la empresa
 
-ARTÍCULO
-
 ## art:2.2.5.3.1 — De la habilitación de las empresas o entidades
 
 De acuerdo con lo establecido en el artículo 11 de la Ley 336 de 1996, la habilitación es la autorización que expide la autoridad competente para prestar el servicio público o privado de transporte por cable de acuerdo con las condiciones señaladas en la ley, en este Título y en el acto que la conceda.
 
 (Decreto 1072 de 2004, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.5.3.2 — Empresas nuevas
 
@@ -13429,8 +11759,6 @@ Ninguna empresa nueva podrá entrar a operar hasta tanto el Ministerio de Transp
 De darse el caso de la prestación del servicio sin que medie la autorización a que se refiere el presente Capítulo, la autoridad competente procederá a ordenar la suspensión inmediata de este.
 
 (Decreto 1072 de 2004, artículo 8).
-
-ARTÍCULO
 
 ## art:2.2.5.3.3 — Requisitos para obtener la habilitación
 
@@ -13462,8 +11790,6 @@ CAPÍTULO 4
 
 Trámite
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — Plazo para decidir
 
 Presentada la solicitud de habilitación, para decidir el Ministerio de Transporte dispondrá de un término no superior a noventa (90) días hábiles, una vez recepcionada toda la documentación.
@@ -13476,8 +11802,6 @@ En el evento de ser rechazada la solicitud por parte del Ministerio, del acto ad
 
 (Decreto 1072 de 2004, artículo 11).
 
-ARTÍCULO
-
 ## art:2.2.5.4.2 — Vigencia de la habilitación
 
 La habilitación será indefinida mientras subsistan las condiciones exigidas y acreditadas para su otorgamiento en cuanto al cumplimiento de los requisitos establecidos por las disposiciones pertinentes.
@@ -13487,8 +11811,6 @@ El Ministerio como autoridad competente podrá en cualquier tiempo de oficio o a
 En todos aquellos casos de transformación, fusión, absorción o incorporación, la empresa comunicará este hecho al Ministerio de Transporte y a la Superintendencia de Puertos y Transporte o la entidad que hiciere sus veces, adjuntando los nuevos certificados de existencia legal, con el objeto de estudiar la autorización para que la nueva empresa pueda operar el servicio.
 
 (Decreto 1072 de 2004, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.5.4.3 — Suministro de información
 
@@ -13500,15 +11822,11 @@ CAPÍTULO 5
 
 Operación y prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.5.5.1 — Permiso de operación
 
 El permiso de operación para prestar el servicio público de transporte por cable es revocable e intransferible y obliga al beneficiario a cumplir lo autorizado bajo las condiciones en él establecidas. La prestación del servicio público de transporte por cable estará sujeta a la habilitación, a la demostración de la consistencia de la red, de los equipos y de la infraestructura, a la existencia y vigencia de las pólizas de seguros de que trata el Capítulo 7 de este Título y a la presentación de los Manuales de Operación y de Seguridad.
 
 (Decreto 1072 de 2004, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.5.5.2 — Manual de Operación
 
@@ -13516,15 +11834,11 @@ La empresa o el operador de transporte por cable están obligados a contar con u
 
 (Decreto 1072 de 2004, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.5.5.3 — Manual de Seguridad
 
 La empresa o el operador de transporte por cable están obligados a contar con un manual de seguridad para la prestación del servicio público, el cual deberá ajustarse a la reglamentación que expida para el efecto el Ministerio de Transporte.
 
 (Decreto 1072 de 2004, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.5.5.4 — Obligatoriedad
 
@@ -13536,15 +11850,11 @@ CAPÍTULO 6
 
 Certificado de conformidad
 
-ARTÍCULO
-
 ## art:2.2.5.6.1 — Certificado de conformidad
 
 Los equipos y demás elementos que conformen el sistema de transporte por cable deberán ajustarse a las normas reconocidas internacionalmente y acreditadas por el fabricante y deben ser presentados ante la autoridad competente.
 
 (Decreto 1072 de 2004, artículo 18).
-
-ARTÍCULO
 
 ## art:2.2.5.6.2 — Ficha técnica
 
@@ -13559,8 +11869,6 @@ PARÁGRAFO 2. La empresa o el operador de transporte por cable están obligados 
 CAPÍTULO 7
 
 Seguros
-
-ARTÍCULO
 
 ## art:2.2.5.7.1 — Obligatoriedad
 
@@ -13590,8 +11898,6 @@ PARÁGRAFO . De conformidad con el artículo 994 del Código de Comercio, las em
 
 (Decreto 1072 de 2004, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.5.7.2 — Vigencia de los seguros
 
 La vigencia de los seguros contemplados en este Capítulo, será condición para la operación de la empresa autorizada para la prestación del servicio de transporte por cable.
@@ -13603,8 +11909,6 @@ La compañía de seguros deberá informar a las instancias correspondientes del 
 CAPÍTULO 8
 
 Tarifas
-
-ARTÍCULO
 
 ## art:2.2.5.8.1 — Tarifas
 
@@ -13620,8 +11924,6 @@ CAPÍTULO 1
 
 Objeto y principios
 
-ARTÍCULO
-
 ## art:2.2.6.1.1 — Objeto y principios
 
 El presente Título tiene como objeto reglamentar la prestación del servicio de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, y establecer los requisitos que deben cumplir las empresas interesadas en la habilitación en esta modalidad, quienes deberán operar de manera eficiente, segura, oportuna y económica, cumpliendo los principios rectores del transporte, como el de la libre competencia y el de la iniciativa privada, a las cuales solamente se aplicarán las restricciones establecidas por la ley y los convenios internacionales.
@@ -13632,8 +11934,6 @@ CAPÍTULO 2
 
 Ámbito de aplicación y definiciones
 
-ARTÍCULO
-
 ## art:2.2.6.2.1 — Ámbito de aplicación
 
 Las disposiciones contenidas en el presente Título se aplicarán integralmente a los operadores y usuarios del servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren- tram, conforme a lo establecido en las Leyes 105 de 1993, 310 de 1996, 336 de 1996 y 1682 de 2013 y la Sección 1, Capítulo 2, Título 1, Parte 2 del Libro 2 del presente Decreto, y demás normas que apliquen sobre la materia.
@@ -13643,8 +11943,6 @@ PARÁGRAFO 1. Para los efectos de este Título, se entiende por operadores de se
 PARÁGRAFO 2. Se consideran usuarios del servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, las personas que ingresen a sus instalaciones y cancelen la tarifa para acceder al servicio de transporte.
 
 (Decreto 1008 de 2015, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.6.2.2 — Definiciones
 
@@ -13742,8 +12040,6 @@ CAPÍTULO 3
 
 Servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram
 
-ARTÍCULO
-
 ## art:2.2.6.3.1 — Servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram
 
 Es aquel que se presta bajo la responsabilidad de una empresa de transporte legalmente constituida y debidamente habilitada en esta modalidad, a través de un contrato celebrado entre ésta y cada una de las personas que han de utilizar un vehículo de servicio público vinculado a la empresa, para recorrer total o parcialmente una o más rutas legalmente autorizadas.
@@ -13753,8 +12049,6 @@ Es aquel que se presta bajo la responsabilidad de una empresa de transporte lega
 CAPÍTULO 4
 
 Autoridades competentes
-
-ARTÍCULO
 
 ## art:2.2.6.4.1 — Autoridades de transporte
 
@@ -13812,8 +12106,6 @@ CAPÍTULO 5
 
 Esquema de integración
 
-ARTÍCULO
-
 ## art:2.2.6.5.1 — Integración del transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram
 
 El sistema transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram debe estar articulado con todos los actores que intervienen en los demás modos de transporte público de pasajeros, como también con las instituciones o entidades creadas para la planeación, organización, control, construcción de la infraestructura requerida para la accesibilidad, circulación y recaudo del sistema. La integración deberá realizarse bajo una o varias de las siguientes modalidades:
@@ -13832,15 +12124,11 @@ CAPÍTULO 6
 
 Presentación del proyecto para la prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.6.6.1 — Elaboración de estudios
 
 Los estudios para la estructuración técnica, legal y financiera de los sistemas de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram deberán ser formulados en concordancia con la normatividad y política pública nacional, los Planes Maestros de Movilidad y los Planes de Ordenamiento Territorial y podrán ser adelantados por los entes territoriales o administrativos, autoridades de transporte autorizadas conforme a lo previsto en el presente Título, empresas públicas o asociaciones público privadas.
 
 (Decreto 1008 de 2015, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.6.6.2 — Estudios de soporte
 
@@ -13918,8 +12206,6 @@ CAPÍTULO 7
 
 Habilitación
 
-ARTÍCULO
-
 ## art:2.2.6.7.1 — De la habilitación de las empresas
 
 La habilitación para prestar el servicio público de transporte masivo por metro ligero, tren ligero, tranvía y tren-tram se expedirá por parte de la autoridad de transporte constituida para el efecto por el ente territorial o administrativo correspondiente y debidamente autorizada por el Ministerio de Transporte.
@@ -13929,8 +12215,6 @@ Las empresas legalmente constituidas, interesadas en prestar el servicio públic
 La habilitación es la autorización que expide la autoridad competente para prestar el servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, de acuerdo con las condiciones señaladas en el presente Título.
 
 (Decreto 1008 de 2015, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.6.7.2 — Requisitos para obtener la habilitación
 
@@ -13998,8 +12282,6 @@ CAPÍTULO 8
 
 Trámite de la habilitación
 
-ARTÍCULO
-
 ## art:2.2.6.8.1 — Plazo para decidir
 
 Presentada la solicitud de habilitación, para decidir la autoridad de transporte dispondrá de un término no superior a noventa (90) días calendario, una vez recepcionada la documentación.
@@ -14016,8 +12298,6 @@ CAPÍTULO 9
 
 Vigencia de la habilitación
 
-ARTÍCULO
-
 ## art:2.2.6.9.1 — Vigencia
 
 La habilitación será indefinida mientras subsistan las condiciones exigidas y acreditadas para su otorgamiento en cuanto al cumplimiento de los requisitos establecidos por las disposiciones pertinentes.
@@ -14027,8 +12307,6 @@ La autoridad de transporte podrá en cualquier tiempo, de oficio o a petición d
 Corresponderá a la Superintendencia de Puertos y Transporte autorizar previamente la solemnización y registro de las reformas estatutarias de transformación, fusión y escisión de las empresas de servicio público de transporte masivo por metro ligero, tren ligero, tranvía y tren-tram, las cuales comunicarán este hecho a la autoridad de transporte competente, adjuntando la citada autorización y los nuevos certificados de existencia y representación legal, con el objeto de efectuar las modificaciones correspondientes.
 
 (Decreto 1008 de 2015, artículo 12).
-
-ARTÍCULO
 
 ## art:2.2.6.9.2 — Suministro de información
 
@@ -14040,15 +12318,11 @@ CAPÍTULO 10
 
 Requisitos para la operación y prestación del servicio
 
-ARTÍCULO
-
 ## art:2.2.6.10.1 — Prestación del servicio
 
 La prestación del servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, estará sujeta a la expedición de un permiso de operación otorgado por la autoridad competente, el cual será adjudicado mediante el proceso de selección pública que aplique, o la celebración de un contrato de concesión o a través de contratos interadministrativos de acuerdo con las normas del Estatuto General de Contratación Pública.
 
 (Decreto 1008 de 2015, artículo 14).
-
-ARTÍCULO
 
 ## art:2.2.6.10.2 — Permiso de operación
 
@@ -14078,8 +12352,6 @@ PARÁGRAFO . El Ministerio de Transporte reglamentará el contenido y alcance de
 
 (Decreto 1008 de 2015, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.6.10.3 — Obligatoriedad
 
 Las empresas prestadoras del servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, deberán cumplir y hacer cumplir los manuales determinados en el artículo anterior.
@@ -14089,8 +12361,6 @@ Las empresas prestadoras del servicio público de transporte masivo de pasajeros
 CAPÍTULO 11
 
 Seguros
-
-ARTÍCULO
 
 ## art:2.2.6.11.1 — Pólizas de seguros
 
@@ -14122,8 +12392,6 @@ Lo anterior sin perjuicio de los demás seguros que se establezcan en los térmi
 
 (Decreto 1008 de 2015, artículo 17).
 
-ARTÍCULO
-
 ## art:2.2.6.11.2 — Vigencia del seguro
 
 Mantener vigentes los seguros contemplados en este Título, será condición para la operación de la empresa autorizada para la prestación del servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram.
@@ -14131,8 +12399,6 @@ Mantener vigentes los seguros contemplados en este Título, será condición par
 La compañía de seguros que ampare a la empresa de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, en relación con los seguros de que trata el presente capítulo, deberá informar a la autoridad de transporte competente la terminación automática del contrato de seguro por mora en el pago de la prima o la revocación unilateral del mismo, dentro de los treinta (30) días siguientes a la fecha de terminación o revocación.
 
 (Decreto 1008 de 2015, artículo 18).
-
-ARTÍCULO
 
 ## art:2.2.6.11.3 — Fondos u otros mecanismos de cobertura
 
@@ -14143,8 +12409,6 @@ Sin perjuicio de la obligación de obtener y mantener vigentes las pólizas de s
 CAPÍTULO 12
 
 Condiciones de seguridad para la prestación del servicio
-
-ARTÍCULO
 
 ## art:2.2.6.12.1 — Condiciones de seguridad
 
@@ -14160,23 +12424,17 @@ Además de las exigencias generales de seguridad contempladas en la normatividad
 
 (Decreto 1008 de 2015, artículo 20).
 
-ARTÍCULO
-
 ## art:2.2.6.12.2 — Licencia de los operadores
 
 El personal operador o auxiliar de los equipos deberá cumplir los requisitos exigidos en la normatividad vigente y contar con la licencia de tripulante establecida en la Resolución 005540 del 15 de diciembre de 2006, o en aquella que la modifique o sustituya.
 
 (Decreto 1008 de 2015, artículo 21).
 
-ARTÍCULO
-
 ## art:2.2.6.12.3 — Sistema de información de seguimiento
 
 Las empresas habilitadas para la prestación del servicio de transporte público masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram deberán contar con un sistema de información que garantice el seguimiento en línea y en tiempo real de la operación.
 
 (Decreto 1008 de 2015, artículo 22).
-
-ARTÍCULO
 
 ## art:2.2.6.12.4 — Centros de control de tráfico
 
@@ -14190,15 +12448,11 @@ CAPÍTULO 13
 
 Condiciones generales de prestación y utilización del servicio
 
-ARTÍCULO
-
 ## art:2.2.6.13.1 — Ajuste de condiciones del servicio
 
 Las empresas habilitadas para la prestación del servicio público de transporte masivo de pasajeros por metro ligero, tren ligero, tranvía y tren-tram, con el propósito de integrarse con los otros medios de transporte, ajustarán sus horarios, frecuencias, paradas, sistemas de pago y dotaciones de medios humanos y materiales, acorde con la prestación del servicio público y los requerimientos de la autoridad de transporte competente.
 
 (Decreto 1008 de 2015, artículo 24).
-
-ARTÍCULO
 
 ## art:2.2.6.13.2 — Continuidad del servicio
 
@@ -14210,15 +12464,11 @@ CAPÍTULO 14
 
 Material rodante
 
-ARTÍCULO
-
 ## art:2.2.6.14.1 — Equipos
 
 Las empresas habilitadas para la prestación del servicio público de transporte masivo por metro ligero, tren ligero, tranvía y tren-tram sólo podrán hacerlo con equipos, previamente homologados ante el Ministerio de Transporte que cumplan con las especificaciones y requisitos técnicos de acuerdo con la infraestructura, los cuales en todo caso deberán contar con un registrador de eventos inviolable (caja negra). Hasta tanto sea definida la Norma Técnica Colombiana para la homologación del material rodante, los equipos deberán ajustarse a las normas reconocidas internacionalmente y acreditadas por el respectivo fabricante.
 
 (Decreto 1008 de 2015, artículo 26).
-
-ARTÍCULO
 
 ## art:2.2.6.14.2 — Registro de material rodante
 
@@ -14230,8 +12480,6 @@ CAPÍTULO 15
 
 Accesibilidad en el sistema
 
-ARTÍCULO
-
 ## art:2.2.6.15.1 — Accesibilidad
 
 La empresa habilitada para la prestación del servicio público por metro ligero, tren ligero, tranvía y tren-tram debe garantizar la movilización de las personas dentro del sistema, por medio de vehículos apropiados, en condiciones de libertad de acceso, calidad y seguridad para los usuarios y está obligada al cumplimiento de la normativa sobre accesibilidad y supresión de barreras en el transporte público.
@@ -14239,8 +12487,6 @@ La empresa habilitada para la prestación del servicio público por metro ligero
 Las personas con discapacidad deberán contar con los medíos apropiados para su acceso y desplazamiento, tanto en la infraestructura, como en los equipos destinados a la prestación de este servicio y prevenir así la accidentalidad.
 
 (Decreto 1008 de 2015, artículo 28).
-
-ARTÍCULO
 
 ## art:2.2.6.15.2 — Accesibilidad de personas con movilidad reducida
 
@@ -14252,15 +12498,11 @@ CAPÍTULO 16
 
 Infraestructura y señalización
 
-ARTÍCULO
-
 ## art:2.2.6.16.1 — Condiciones mínimas de la infraestructura
 
 El Ministerio de Transporte, dentro del año siguiente a la expedición del presente Título, definirá las condiciones mínimas que debe tener la infraestructura del sistema de metro ligero, tren ligero, tranvía y tren-tram, específicamente en cuanto al trazado de la vía, plataforma, cruces de peatones, intersecciones, señalización, paradas y estaciones.
 
 (Decreto 1008 de 2015, artículo 30).
-
-ARTÍCULO
 
 ## art:2.2.6.16.2 — Señalización
 
@@ -14271,8 +12513,6 @@ Las empresas habilitadas para la prestación del servicio, con el fin de garanti
 CAPÍTULO 17
 
 Tarifas
-
-ARTÍCULO
 
 ## art:2.2.6.17.1 — Tarifas
 
@@ -14288,15 +12528,11 @@ TÍTULO 7
 
 ACCESIBILIDAD A LOS MODOS DE TRANSPORTE DE LA POBLACIÓN EN GENERAL Y EN ESPECIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ARTÍCULO
-
 ## art:2.2.7.1 — Objeto
 
 El presente Título tiene por objeto fijar la normatividad general que garantice gradualmente la accesibilidad a los modos de transporte y la movilización en ellos de la población en general y en especial de todas aquellas personas con discapacidad.
 
 (Decreto 1660 de 2003, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.7.2 — Ámbito de aplicación
 
@@ -14306,8 +12542,6 @@ En cuanto hace a la infraestructura de transporte, la presente normatividad ser�
 
 (Decreto 1660 de 2003, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.7.3 — Normas técnicas
 
 Los equipos, instalaciones e infraestructura del transporte relacionados con la prestación del servicio de transporte de pasajeros, en los diferentes modos, que sean accesibles, de acuerdo con lo que determine este Título, deberán indicarlo mediante el símbolo gráfico de accesibilidad, Norma Técnica NTC 4139 Accesibilidad de las personas al medio físico, símbolo gráfico, características.
@@ -14315,8 +12549,6 @@ Los equipos, instalaciones e infraestructura del transporte relacionados con la 
 En materia de accesibilidad de transporte y tránsito, serán de estricto cumplimiento las señalizaciones contenidas en el manual vigente sobre dispositivos para la regulación del tránsito en calles y carreteras, la Norma NTC 4695, así como las que se expidan o adopten en el futuro como soporte de esta reglamentación.
 
 (Decreto 1660 de 2003, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.7.4 — Especialidad
 
@@ -14366,8 +12598,6 @@ Además de las definiciones contempladas en los diferentes reglamentos de los mo
 
 (Decreto 1660 de 2003, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.7.5 — Obligatoriedad
 
 Las empresas y entes públicos administradores de los terminales, estaciones, puertos y embarcaderos, así como las empresas de carácter público, privado o mixto, cuyo objeto sea el transporte de pasajeros. capacitarán anualmente a todo el personal de información, vigilancia, aseo, expendedores de tiquetes, conductores, guías de turismo y personal afín, en materias relacionadas con la atención integral al pasajero con discapacidad, para lo cual podrán celebrar convenios con instituciones públicas o privadas de reconocida trayectoria en la materia, en función del número de pasajeros y de las características operacionales.
@@ -14375,8 +12605,6 @@ Las empresas y entes públicos administradores de los terminales, estaciones, pu
 PARÁGRAFO . De la misma manera, las empresas administradoras de los terminales aéreos o terrestres, estaciones, puertos, embarcaderos, centros comerciales, supermercados, parqueaderos públicos o privados con acceso al público, unidades deportivas y en general en todo sitio donde existan parqueaderos habilitados para el uso público, emprenderán campañas informativas de manera permanente, sobre la norma relacionada con el uso de las zonas especiales de estacionamiento de que trata el presente Título. Además impartirán precisas instrucciones a sus empresas de vigilancia y/o vigilantes para que se hagan respetar dichos espacios.
 
 (Decreto 1660 de 2003, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.7.6 — Personal de control
 
@@ -14388,8 +12616,6 @@ CAPÍTULO 1
 
 Zonas especiales de estacionamiento y parqueo
 
-ARTÍCULO
-
 ## art:2.2.7.1.1 — Demarcación
 
 Las autoridades de transporte y tránsito de las entidades territoriales, distritales y municipales, deben establecer en las zonas de estacionamiento y en los parqueos públicos ubicados en el territorio de su jurisdicción, sitios demarcados, tanto en piso como en señalización vertical, con el símbolo internacional de accesibilidad (NTC 4139), para el parqueo de vehículos automotores utilizados o conducidos por personas con movilidad reducida.
@@ -14397,8 +12623,6 @@ Las autoridades de transporte y tránsito de las entidades territoriales, distri
 PARÁGRAFO . Para la aplicación del presente artículo se debe tener en cuenta la Norma Técnica NTC 4904 y aquellas normas que los Ministerios de Ambiente y Desarrollo Sostenible, Vivienda, Ciudad y Territorio y de Transporte, o quienes hagan sus veces, establezcan en el futuro.
 
 (Decreto 1660 de 2003, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.7.1.2 — Sitios especiales de parqueo
 
@@ -14409,8 +12633,6 @@ En desarrollo de lo previsto en el artículo 62 de la Ley 361 de 1997, en los si
 CAPÍTULO 2
 
 Condiciones generales y especiales de accesibilidad
-
-ARTÍCULO
 
 ## art:2.2.7.2.1 — Espacio
 
@@ -14423,8 +12645,6 @@ PARÁGRAFO 1. En todo caso el transporte de los dispositivos anteriores debe efe
 PARÁGRAFO 2. En el modo aéreo se atenderá a la reglamentación vigente sobre la materia, contenida en los «Reglamentos Aeronáuticos de Colombia para el transporte de pasajeros discapacitados».
 
 (Decreto 1660 de 2003, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.7.2.2 — Terminales accesibles
 
@@ -14458,15 +12678,11 @@ Para efectos del presente Título, se consideran como terminales accesibles de t
 
 (Decreto 1660 de 2003, artículo 10).
 
-ARTÍCULO
-
 ## art:2.2.7.2.3 — Condiciones de accesibilidad nuevos terminales
 
 Las estaciones, terminales o portales de transporte público de pasajeros, de nueva construcción, en todo el territorio nacional, en lo que se refiere a los espacios de acceso a las instalaciones, la vinculación de los espacios de servicios y espacios de acceso a los equipos deben ser accesibles en las condiciones establecidas en el presente Título y las normas vigentes sobre accesibilidad.
 
 (Decreto 1660 de 2003, artículo 11).
-
-ARTÍCULO
 
 ## art:2.2.7.2.4 — Acondicionamiento
 
@@ -14478,15 +12694,11 @@ CAPÍTULO 3
 
 Accesibilidad en el transporte público colectivo terrestre automotor de pasajeros
 
-ARTÍCULO
-
 ## art:2.2.7.3.1 — Vehículos accesibles
 
 El Ministerio de Transporte, mediante acto administrativo, establecerá los parámetros mínimos que deberá poseer un vehículo de transporte colectivo terrestre automotor de pasajeros, para ser considerado como accesible.
 
 (Decreto 1660 de 2003, artículo 13).
-
-ARTÍCULO
 
 ## art:2.2.7.3.2 — Accesibilidad del parque automotor nuevo
 
@@ -14498,8 +12710,6 @@ PARÁGRAFO 2. El porcentaje establecido en el presente artículo será increment
 
 (Decreto 1660 de 2003, artículo 14).
 
-ARTÍCULO
-
 ## art:2.2.7.3.3 — Reglamentación y control
 
 Para el servicio de transporte de radio de acción municipal, distrital y/o metropolitano, las rutas y horarios de utilización de los vehículos accesibles, serán reglamentadas por las autoridades municipales y para el radio de acción intermunicipal o nacional, por el Ministerio de Transporte, de acuerdo con el estudio de necesidades.
@@ -14508,8 +12718,6 @@ A las autoridades de transporte y tránsito les corresponderá la verificación 
 
 (Decreto 1660 de 2003, artículo 15).
 
-ARTÍCULO
-
 ## art:2.2.7.3.4 — Acondicionamiento mínimo de equipos en uso
 
 Las empresas de transporte colectivo terrestre automotor de pasajeros, deben acondicionar en todo vehículo de capacidad igual o superior a 20 pasajeros, dos (2) sillas, dotadas de cinturón de seguridad, lo más cercano a las puertas de acceso y señalizadas adecuadamente, para uso preferencial por parte de los pasajeros con discapacidad.
@@ -14517,8 +12725,6 @@ Las empresas de transporte colectivo terrestre automotor de pasajeros, deben aco
 Las empresas de transporte colectivo terrestre automotor de pasajeros contarán con un plazo de un año a partir del 18 de junio de 2003, para cumplir con lo establecido en el presente artículo.
 
 (Decreto 1660 de 2003, artículo 16).
-
-ARTÍCULO
 
 ## art:2.2.7.3.5 — Exención
 
@@ -14532,15 +12738,11 @@ CAPÍTULO 4
 
 Accesibilidad en el transporte ferroviario y masivo
 
-ARTÍCULO
-
 ## art:2.2.7.4.1 — Condiciones de las estaciones
 
 Las estaciones y terminales de trenes de pasajeros y metros, así como los portales de Transmilenio o sistemas similares de transporte masivo, que se construyan con posterioridad al 18 de junio de 2003 o las que la ley permita reconstruir y/o rehabilitar, deberán cumplir como mínimo con las condiciones del artículo 2.2.7.2.2. del presente Decreto.
 
 (Decreto 1660 de 2003, artículo 18).
-
-ARTÍCULO
 
 ## art:2.2.7.4.2 — Condiciones de los equipos
 
@@ -14562,8 +12764,6 @@ Los equipos de trenes de pasajeros, Metro y de transporte masivo, que se adquier
 
 Decreto 1660 de 2003, artículo 19).
 
-ARTÍCULO
-
 ## art:2.2.7.4.3 — Tipología en las rutas alimentadoras
 
 Los vehículos de nueva adquisición que presten servicio en las rutas alimentadoras integradas al sistema de transporte masivo, deberán ser accesibles, de acuerdo con lo previsto en el artículo 2.2.7.3.1. del presente Decreto. Mientras tanto, los vehículos de nueva adquisición que presten servicio en dichas rutas, cumplirán con los parámetros establecidos en la Norma Técnica NTC 4901-1.
@@ -14574,15 +12774,11 @@ CAPÍTULO 5
 
 Accesibilidad en el transporte fluvial
 
-ARTÍCULO
-
 ## art:2.2.7.5.1 — Condiciones generales
 
 Los puertos, terminales, muelles, embarcaderos, o similares, donde se preste el servicio de transporte público fluvial de pasajeros, deberán contar con personal capacitado, entrenado y disponible para atender a los pasajeros con movilidad y/o comunicación reducida y mantener en sus instalaciones equipo apropiado para facilitar su movilización; tales como sillas de ruedas, camillas, muletas, bastones y demás elementos que se consideren necesarios.
 
 (Decreto 1660 de 2003, artículo 21).
-
-ARTÍCULO
 
 ## art:2.2.7.5.2 — Acondicionamiento de equipos
 
@@ -14591,8 +12787,6 @@ Las embarcaciones de transporte público fluvial de veinte (20) o más pasajeros
 PARÁGRAFO . Los pasajeros a los que se refiere el presente artículo serán los últimos en embarcar y los primeros en desembarcar.
 
 (Decreto 1660 de 2003, artículo 22).
-
-ARTÍCULO
 
 ## art:2.2.7.5.3 — Construcción o adecuación de puertos
 
@@ -14604,23 +12798,17 @@ CAPÍTULO 6
 
 Accesibilidad en el transporte marítimo
 
-ARTÍCULO
-
 ## art:2.2.7.6.1 — Accesibilidad en buques de pasajeros y ferrys
 
 Los buques de pasajeros deberán cumplir con lo establecido en la norma internacional Regulations for adapting public transport vehicles for useng by disable persons The Swedish Board of Transport 1989, lo señalado en las recomendaciones de la OMI (lnternational Maritime Organizations) y las que las modifique o adicionen.
 
 (Decreto 1660 de 2003, artículo 24).
 
-ARTÍCULO
-
 ## art:2.2.7.6.2 — Accesibilidad en embarcaciones pequeñas de pasajeros o de cabotaje que transitan por costas colombianas
 
 Se adopta lo establecido en el artículo 2.2.7.5.1. del presente Decreto, referente a las embarcaciones que prestan el servicio de transporte fluvial de pasajeros.
 
 (Decreto 1660 de 2003, artículo 25).
-
-ARTÍCULO
 
 ## art:2.2.7.6.3 — Adecuación de instalaciones
 
@@ -14640,8 +12828,6 @@ PARÁGRAFO . Las Sociedades Portuarias que obtengan una concesión para la const
 
 (Decreto 1660 de 2003, artículo 26).
 
-ARTÍCULO
-
 ## art:2.2.7.6.4 — Acondicionamiento de equipos
 
 En los barcos que presten servicio de cabotaje, se debe acondicionar un espacio para ubicar una silla de ruedas con los elementos suficientes de comodidad y seguridad, tales como anclajes, cinturones de seguridad, reposa-cabezas y similares, de conformidad con las normas internacionales.
@@ -14654,8 +12840,6 @@ CAPÍTULO 7
 
 Accesibilidad en el transporte aéreo
 
-ARTÍCULO
-
 ## art:2.2.7.7.1 — Cumplimiento de la norma
 
 Las empresas prestadoras del servicio de transporte aéreo de pasajeros y los operadores de la infraestructura aeroportuaria deberán cumplir con las siguientes disposiciones:
@@ -14667,8 +12851,6 @@ Las empresas prestadoras del servicio de transporte aéreo de pasajeros y los op
 3. Prever una zona debidamente demarcada y señalizada para el estacionamiento provisional de vehículos automotores que transporten personas con discapacidad, para facilitar el acceso y salida del terminal de tales personas. Estas zonas deben estar lo más cerca posible de las entradas de pasajeros en cada terminal.
 
 (Decreto 1660 de 2003, artículo 28).
-
-ARTÍCULO
 
 ## art:2.2.7.7.2 — Acceso a la infraestructura aeroportuaria
 
@@ -14696,8 +12878,6 @@ Además de las condiciones generales de accesibilidad previstas en el artículo 
 
 (Decreto 1660 de 2003, artículo 29).
 
-ARTÍCULO
-
 ## art:2.2.7.7.3 — Acceso al servicio de transporte aéreo
 
 La Unidad Administrativa Especial de la Aeronáutica Civil, las empresas privadas, públicas y mixtas encargadas de la administración y operación de las instalaciones aeroportuarias, donde se efectúen el embarque, trasbordo o el desembarque de pasajeros, deben tomar las medidas necesarias para asegurar que las personas con discapacidad o movilidad o comunicación reducida, dispongan de acceso adecuado a los servicios aéreos y de información sobre los mismos.
@@ -14711,8 +12891,6 @@ PARÁGRAFO . El transportador aéreo no puede negar el servicio de transporte a 
 CAPÍTULO 8
 
 Ayudas vivas
-
-ARTÍCULO
 
 ## art:2.2.7.8.1 — Requisitos de los perros de asistencia
 
@@ -14736,8 +12914,6 @@ PARÁGRAFO . Para la utilización de otros tipos de animales, que se constituyan
 
 (Decreto 1660 de 2003, artículo 31).
 
-ARTÍCULO
-
 ## art:2.2.7.8.2 — Condiciones generales de uso de perros de asistencia
 
 Los perros deberán contar con su correspondiente arnés, chaleco de identificación según la categoría del perro, de acuerdo con las prácticas internacionales de identificación canina para el acceso al medio de transporte y deberán permanecer durante el recorrido al pie del pasajero. El prestador del servicio podrá exigir que el perro de asistencia lleve colocado un bozal. En el modo aéreo se atenderá a las disposiciones nacionales vigentes sobre la materia o en su defecto a la práctica internacional, sobre transporte de este tipo de animales.
@@ -14747,8 +12923,6 @@ De acuerdo con las normas internacionales, el perro llevará colocado un chaleco
 En todo caso el usuario de un perro de asistencia es responsable del correcto comportamiento de éste, así como de los eventuales daños que pueda ocasionar a terceros. De igual forma, debe portar vigente el carné del animal.
 
 (Decreto 1660 de 2003, artículo 32).
-
-ARTÍCULO
 
 ## art:2.2.7.8.3 — Obligación de prestar el servicio
 
@@ -14760,15 +12934,11 @@ CAPÍTULO 9
 
 Régimen de sanciones
 
-ARTÍCULO
-
 ## art:2.2.7.9.1 — Por falta o indebida señalización y adecuación de instalaciones
 
 Las empresas o entes encargados de la administración y operación de los Terminales de Transporte Terrestre,_ de las estaciones de Metro, de trenes de pasajeros y de transporte masivo urbano, de los puertos, terminales, muelles, embarcaderos, o similares de transporte fluvial y marítimo y los aeropuertos que no cumplan con lo establecido en la presente norma, en cuanto a la señalización y adecuación apropiada de sus instalaciones para el desplazamiento de personas con discapacidad, serán sancionadas con multa que oscilan entre cincuenta (50) y cien (100) salarios mínimos diarios legales vigentes.
 
 (Decreto 1660 de 2003, artículo 34).
-
-ARTÍCULO
 
 ## art:2.2.7.9.2 — 9.2
 
@@ -14776,15 +12946,11 @@ Por insuficiencia o carencia de equipos acondicionados, accesibles o por falta o
 
 (Decreto 1660 de 2003, artículo 35).
 
-ARTÍCULO
-
 ## art:2.2.7.9.3 — Por indebido estacionamiento
 
 Los conductores con movilidad normal que estacionen sus vehículos en lugares públicos de estacionamiento específicamente demarcados con el símbolo internacional de accesibilidad para los automotores que transporten o sean conducidos por personas con movilidad reducida o vehículos para centros de educación especial o de rehabilitación, incurrirán en sanción de multa de quince (15) salarios mínimos legales diarios vigentes.
 
 En igual sanción incurrirán quienes cometan esta infracción en zonas especiales de estacionamiento para personas con discapacidad, ubicadas en parqueaderos habilitados en centros comerciales, supermercados, clínicas y hospitales, unidades deportivas, autocinemas, y en general en todo sitio donde existan parqueaderos habilitados para el uso público, aún dentro de unidades residenciales privadas.
-
-ARTÍCULO
 
 ## art:2.2.7.9.4 — Por no disponer de sitios especiales de parqueo
 
@@ -14792,23 +12958,17 @@ El responsable del cumplimiento de la obligación contenida en el artículo 2.2.
 
 (Decreto 1660 de 2003, artículo 37).
 
-ARTÍCULO
-
 ## art:2.2.7.9.5 — Por carencia de personal especializado
 
 Las empresas cuyo objeto sea la prestación del servicio público de transporte de pasajeros aéreo, terrestre, marítimo, masivo, ferroviario o fluvial y las empresas administradoras de los terminales y puertos que incumplan la obligación de contar con el personal capacitado para la atención de personas con discapacidad, incurrirán en sanción que oscila entre cincuenta (50) y cien (100) salarios mínimos legales diarios vigentes.
 
 (Decreto 1660 de 2003, artículo 38).
 
-ARTÍCULO
-
 ## art:2.2.7.9.6 — Por negarse a prestar el servicio
 
 Las empresas de transporte en cualquiera de los modos, que sin justa causa se nieguen a prestar el servicio a personas con notoria discapacidad o movilidad reducida, se harán acreedoras a sanción que oscila entre diez (10) y doscientos (200) salarios mínimos legales diarios vigentes, dependiendo de la naturaleza del servicio y las circunstancias de modo, tiempo y lugar en que se negó la prestación del mismo.
 
 (Decreto 1660 de 2003, artículo 39).
-
-ARTÍCULO
 
 ## art:2.2.7.9.7 — Autoridades
 
@@ -14824,8 +12984,6 @@ Para la infracción contemplada en el artículo 2.2.7.9.4., la competencia sanci
 
 (Decreto 1660 de 2003, artículo 40).
 
-ARTÍCULO
-
 ## art:2.2.7.9.8 — Procedimiento
 
 Para aplicar las sanciones contempladas en los artículos 2.2.7.9.1., 2.2.7.9.2., 2.2.7.9.5. y 2.2.7.9.6. del presente Decreto, se seguirá el procedimiento establecido en el artículo 50 de la Ley 336 de 1996 y en el Capítulo
@@ -14837,8 +12995,6 @@ Para la imposición de la sanción del artículo 2.2.7.9.3., se aplicará el pro
 Para la imposición de la sanción contenida en el artículo 2.2.7.9.4., se aplicará el procedimiento que señalen localmente las normas urbanísticas o de planeación correspondientes.
 
 (Decreto 1660 de 2003, artículo 41).
-
-ARTÍCULO
 
 ## art:2.2.7.9.9 — Divulgación
 
@@ -14852,8 +13008,6 @@ El Gobierno Nacional, en coordinación con el Ministerio de Transporte, el Insti
 
 ZONA DIFERENCIAL PARA EL TRANSPORTE Y/O EL TRÁNSITO
 
-ARTÍCULO
-
 ## art:2.2.8.1 — Zona Diferencial para el transporte y/o el tránsito
 
 Con el fin de garantizar las condiciones de accesibilidad y seguridad, promover la formalización del servicio de transporte público y garantizar a los pobladores los servicios de tránsito, el Ministerio de Transporte podrá crear zonas diferenciales para el transporte y el tránsito, que estarán constituidas por un municipio y/o grupos de municipios, donde no existan sistemas de transporte cofinanciados por la Nación y no sea posible la normal prestación del servicio de transporte público en las condiciones de la normativa vigente y aplicable, atendiendo a alguna o algunas de la siguientes condiciones:
@@ -14866,8 +13020,6 @@ PARÁGRAFO 1. En relación con el transporte escolar, se tendrá en cuenta, adem
 
 PARÁGRAFO 2. Una vez vencida la duración de las zonas diferenciales el servicio de transporte público y/o los servicios de tránsito deberán ajustarse a la normatividad general vigente para la prestación de los servicios.
 
-ARTÍCULO
-
 ## art:2.2.8.2 — Competencias
 
 Los alcaldes de los municipios, de manera individual o conjunta, podrán solicitar al Ministerio de Transporte la creación de una zona diferencial para el transporte y/o tránsito, en el ámbito de su jurisdicción justificando la solicitud, y conforme al procedimiento y condiciones que se establecen en el presente título.
@@ -14877,8 +13029,6 @@ El Ministerio de Transporte, mediante acto administrativo, podrá crear las zona
 El alcalde del municipio o los del grupo de municipios, en caso de requerirse, podrá o podrán expedir reglamentos operativos transitorios, con las condiciones operativas para la prestación de los servicios de transporte público y/o para la prestación de los servicios de tránsito.
 
 PARÁGRAFO . Los reglamentos operativos transitorios que se expidan deberán contar con la aprobación técnica previa por parte del Ministerio de Transporte, que deberá validar que los reglamentos propuestos se encuentren dentro de las condiciones del acto de creación de la zona diferencial.
-
-ARTÍCULO
 
 ## art:2.2.8.3 — Características de los reglamentos operativos transitorios de las zonas diferenciales para el transporte y/o tránsito
 
@@ -14891,8 +13041,6 @@ Los reglamentos operativos que se expidan, tendrán en cuenta lo siguiente:
 3. Su aplicación será exclusiva para la zona diferencial y no podrá extenderse a otro municipio o municipios o a otras áreas o zonas.
 
 4. Establecerá líneas de acción que atiendan las características especiales de la zona diferencial tendientes a promover la formalización del servicio de transporte público en la modalidad que se está reglamentando y/o los servicios de tránsito.
-
-ARTÍCULO
 
 ## art:2.2.8.4 — 8.4
 
@@ -14917,8 +13065,6 @@ En el evento que se cumplan los aspectos relacionados, el Ministerio de Transpor
 3. El Ministerio de Transporte, en un término no superior a seis (6) meses, contados a partir de la comunicación al peticionario, de la procedencia de la creación de la zona diferencial para el transporte y/o tránsito, emitirá el acto administrativo de creación de la zona diferencial con todas las condiciones de que trata el artículo 2.2.8.2.
 
 PARÁGRAFO . El Ministerio de Transporte podrá requerir al peticionario para que aporte información, estudios, análisis o evidencias adicionales o complementarios que se requieran para la creación de la zona diferencial.
-
-ARTÍCULO
 
 ## art:2.2.8.5 — Trámite para la creación de las zonas diferenciales para la prestación del servicio de transporte escolar
 
@@ -14947,8 +13093,6 @@ En el evento que se cumplan los aspectos relacionados, el Ministerio de Transpor
 PARÁGRAFO 1: El Ministerio de Transporte podrá requerir al peticionario se aporte información, estudios, análisis o evidencias, adicionales o complementarios que se requieran para la creación de la zona diferencial.
 
 PARÁGRAFO 2: El Ministerio de Educación Nacional para la caracterización de las zonas diferenciales dará prioridad a las zonas rurales o de frontera, con el fin de que las autoridades territoriales en el marco de sus competencias, puedan garantizar el acceso efectivo de la población al sistema de educación.
-
-ARTÍCULO
 
 ## art:2.2.8.6 — Control y vigilancia
 
@@ -15112,8 +13256,6 @@ TÍTULO 1
 
 CENTROS DE ENSEÑANZA AUTOMOVILÍSTICA
 
-ARTÍCULO
-
 ## art:2.3.1.1 — Objeto
 
 El presente Título tiene por objeto establecer los requisitos para la constitución, funcionamiento, habilitación y clasificación de los Centros de Enseñanza Automovilística, determinar los requisitos para el funcionamiento de los programas de capacitación en conducción o de instructores en conducción y demás requisitos necesarios para su habilitación.
@@ -15123,8 +13265,6 @@ El presente Título tiene por objeto establecer los requisitos para la constituc
 CAPÍTULO 1
 
 Requisitos para la constitución y registro de los programas de los Centros de Enseñanza Automovilística
-
-ARTÍCULO
 
 ## art:2.3.1.1.1 — Constitución
 
@@ -15136,8 +13276,6 @@ b). Obtener el registro de los programas de que trata el presente Título.
 
 (Decreto 1500 de 2009, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.1.1.2 — Licencia de funcionamiento o reconocimiento oficial
 
 Se entiende por licencia de funcionamiento el acto administrativo mediante el cual, en el ámbito de su jurisdicción, la Secretaría de Educación de la entidad territorial certificada en educación, autoriza la creación, organización y funcionamiento de un Centro de Enseñanza Automovilística de naturaleza privada. Esta se otorgará por tiempo indefinido, sujeta a las condiciones en ella establecidas.
@@ -15145,8 +13283,6 @@ Se entiende por licencia de funcionamiento el acto administrativo mediante el cu
 Para los Centros de Enseñanza Automovilística de carácter estatal, el acto administrativo de creación constituye el reconocimiento de carácter oficial, el cual deberá contener los requisitos señalados en el artículo siguiente.
 
 (Decreto 1500 de 2009, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.1.1.3 — Solicitud de la licencia de funcionamiento
 
@@ -15166,8 +13302,6 @@ La Secretaría de Educación verificará el cumplimiento de los requisitos estab
 
 (Decreto 1500 de 2009, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.1.1.4 — Modificaciones a la licencia
 
 Las novedades relativas a cambio de sede, apertura de nuevas sedes en la misma jurisdicción, cambio de propietario, cambio de nombre, fusión con otra institución educativa, implican la necesidad de solicitar y obtener previamente la modificación de la licencia inicial.
@@ -15175,8 +13309,6 @@ Las novedades relativas a cambio de sede, apertura de nuevas sedes en la misma j
 La apertura de una o más sedes en jurisdicción diferente requiere el trámite de la licencia ante la Secretaría de Educación de la entidad territorial competente.
 
 (Decreto 1500 de 2009, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.1.1.5 — Requisitos básicos para el registro de los programas
 
@@ -15226,8 +13358,6 @@ El sólo registro del programa no autoriza al Centro de Enseñanza Automovilíst
 
 (Decreto 1500 de 2009, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.1.1.6 — Desarrollo de los programas
 
 Para garantizar la efectividad en el proceso de capacitación y teniendo en cuenta que se trata de un aprendizaje de acciones secuenciales, es necesario que los cursos de instrucción a conductores sean continuos en el tiempo, por tanto, las clases prácticas deberán programarse bajo este esquema. En ningún caso el mínimo de horas previstas podrá abarcarse en un lapso mayor a tres (3) meses.
@@ -15244,25 +13374,17 @@ CAPÍTULO 2
 
 REQUISITOS DE REGISTRO DE LOS CENTROS DE ENSEÑANZA AUTOMOVILÍSTICA
 
-ARTÍCULO
-
 ## art:2.3.1.2.1 — Requisitos de registro de los Centros de Enseñanza Automovilística
 
 Los requisitos, condiciones y el procedimiento para el registro de los Centros de Enseñanza Automovilística en el sistema del Registro Único Nacional de Tránsito - RUNT serán los definidos por el Ministerio de Transporte.
-
-ARTÍCULO
 
 ## art:2.3.1.2.2 — Área para la realización de prácticas
 
 Cuando un Centro de Enseñanza Automovilística no cuente con el espacio para la realización práctica, este deberá garantizar la formación mediante la celebración de contratos con otros Centros de Enseñanza Automovilística que cuenten con los escenarios de práctica.
 
-ARTÍCULO
-
 ## art:2.3.1.2.3 — Apertura de programas en convenio
 
 Cuando dos o más Centros de Enseñanza Automovilística decidan ofrecer los programas de formación a instructores y conductores en convenio, deberán solicitar el respectivo registro de manera conjunta tal como lo ordena el artículo 2.6.4.14. del Decreto 1075 de 2015, o la norma que lo modifique, adicione, sustituya o compile, evento en el cual el certificado que expidan deberá ser otorgado conjuntamente.
-
-ARTÍCULO
 
 ## art:2.3.1.2.4 — De los vehículos
 
@@ -15273,8 +13395,6 @@ Los vehículos destinados a esta actividad deberán estar registrados en el serv
 CAPÍTULO 3
 
 Clasificación de los Centros de Enseñanza Automovilística
-
-ARTÍCULO
 
 ## art:2.3.1.3.1 — Clasificación
 
@@ -15293,8 +13413,6 @@ CAPÍTULO 4
 (Capítulo Derogado por el Art. 3 del Decreto 1538 de 2020)
 
 Inscripción de los organismos de certificación
-
-ARTÍCULO
 
 ## art:2.3.1.4.1 — Procedimiento de inscripción
 
@@ -15322,8 +13440,6 @@ CAPÍTULO 5
 
 Certificación para conductores e instructores en conducción
 
-ARTÍCULO
-
 ## art:2.3.1.5.1 — Requisitos para la capacitación como conductor
 
 Para acceder al proceso de capacitación y de formación como conductor, el aspirante deberá acreditar los siguientes requisitos:
@@ -15336,8 +13452,6 @@ Para acceder al proceso de capacitación y de formación como conductor, el aspi
 
 (Decreto 1500 de 2009, artículo 15).
 
-ARTÍCULO
-
 ## art:2.3.1.5.2 — Requisitos para la capacitación como instructor
 
 Para acceder al proceso de capacitación y de formación como instructor de conducción, los aspirantes deberán acreditar los siguientes requisitos:
@@ -15349,8 +13463,6 @@ Para acceder al proceso de capacitación y de formación como instructor de cond
 3. Acreditar experiencia de dos (2) años como conductor en la categoría para la cual aspira a formarse como instructor.
 
 (Decreto 1500 de 2009, artículo 16).
-
-ARTÍCULO
 
 ## art:2.3.1.5.3 — Sistema de Identificación en la formación de conductores e instructores
 
@@ -15366,8 +13478,6 @@ PARÁGRAFO . El Centro de Enseñanza .Automovilística deberá una vez inscrito 
 
 (Modificad por el Art. 2 del Decreto 1538 de 2020)
 
-ARTÍCULO
-
 ## art:2.3.1.5.4 — Certificaciones para conductores
 
 Cumplido y aprobado el proceso de instrucción, el Centro de Enseñanza Automovilística deberá proceder a realizar el examen teórico en los términos establecidos por el Ministerio de Transporte, y una vez aprobado por el sistema, el Centro de Enseñanza Automovilística reportará al Registro Único Nacional de Tránsito -RUNT-, los datos del alumno capacitado para que el sistema le genere el número de identificación nacional del certificado en la categoría que corresponda, con base en las exigencias que se establezcan para el funcionamiento de este registro.
@@ -15375,8 +13485,6 @@ Cumplido y aprobado el proceso de instrucción, el Centro de Enseñanza Automovi
 El certificado de aprobación del curso en conducción será tramitado de acuerdo con los parámetros que para el efecto determine el Ministerio de Transporte.
 
 (Decreto 1500 de 2009, artículo 18).
-
-ARTÍCULO
 
 ## art:2.3.1.5.5 — Certificación de instructores en conducción
 
@@ -15388,15 +13496,11 @@ PARÁGRAFO . El formato para la expedición del certificado de instructor en con
 
 (Decreto 1500 de 2009, artículo 19).
 
-ARTÍCULO
-
 ## art:2.3.1.5.6 — Vigencia y renovación de la certificación de instructor
 
 La Certificación de Instructor en conducción tendrá una vigencia de cinco (5) años. Para su renovación, el interesado deberá presentar el certificado vigente en las normas de competencia laboral que conforman la titulación de instructor de conducción en la categoría que se desempeña.
 
 (Decreto 1500 de 2009, artículo 20).
-
-ARTÍCULO
 
 ## art:2.3.1.5.7 — Recategorización de la Certificación de Instructor
 
@@ -15405,8 +13509,6 @@ Para recategorizar la certificación el instructor en conducción deberá adelan
 No procede la recategorización de las certificaciones de instructor A1 y A2 a cualquiera de las demás categorías de certificación.
 
 (Decreto 1500 de 2009, artículo 21).
-
-ARTÍCULO
 
 ## art:2.3.1.5.8 — Certificado de competencia laboral
 
@@ -15417,8 +13519,6 @@ El certificado de competencia laboral en la titulación de instructor en conducc
 CAPÍTULO 6
 
 Personal de formadores
-
-ARTÍCULO
 
 ## art:2.3.1.6.1 — Perfil del instructor para la formación de instructores en conducción
 
@@ -15435,8 +13535,6 @@ El instructor requerido para formar instructores en conducción debe acreditar l
 5. No haber sido sujeto de imposición de sanción alguna por ser contraventor de las normas de tránsito, durante el último año.
 
 (Decreto 1500 de 2009, artículo 22).
-
-ARTÍCULO
 
 ## art:2.3.1.6.2 — Certificaciones expedidas por los Centros de Enseñanza Automovilística
 
@@ -15504,8 +13602,6 @@ CAPÍTULO 7
 
 Deberes y obligaciones de los Centros de Enseñanza Automovilística y de los instructores
 
-ARTÍCULO
-
 ## art:2.3.1.7.1 — Deberes y obligaciones de los Centros de Enseñanza Automovilística
 
 Son deberes y obligaciones de los Centros de Enseñanza Automovilística los siguientes:
@@ -15550,8 +13646,6 @@ Son deberes y obligaciones de los Centros de Enseñanza Automovilística los sig
 
 (Decreto 1500 de 2009, artículo 24).
 
-ARTÍCULO
-
 ## art:2.3.1.7.2 — De los deberes y obligaciones de los instructores de conducción
 
 Son deberes y obligaciones de los instructores las siguientes:
@@ -15580,15 +13674,11 @@ CAPÍTULO 8
 
 Disposiciones varias
 
-ARTÍCULO
-
 ## art:2.3.1.8.1 — Inactividad de un Centro de Enseñanza Automovilística
 
 Cuando el Centro de Enseñanza Automovilística durante el término de seis (6) meses no imparta capacitación ni expida los correspondientes certificados, el Ministerio de Transporte lo inactivará del Registro Único Nacional de Tránsito - RUNT-. De no producirse alguna comunicación por parte del centro, dentro de los treinta (30) días siguientes a la inactivación, el Ministerio de Transporte cancelará mediante acto administrativo, la habilitación de funcionamiento.
 
 (Decreto 1500 de 2009, artículo 26).
-
-ARTÍCULO
 
 ## art:2.3.1.8.2 — De los organismos de certificación
 
@@ -15596,15 +13686,11 @@ Los Organismos de Certificación que expiden los Certificados de conformidad del
 
 (Decreto 1500 de 2009, artículo 27).
 
-ARTÍCULO
-
 ## art:2.3.1.8.3 — Inspección y vigilancia
 
 De conformidad con lo establecido en el artículo 14, parágrafo 1 de la Ley 769 de 2002, la vigilancia y supervisión de los Centros de Enseñanza Automovilística corresponderá a la Superintendencia de Puertos y Transporte, sin perjuicio de la inspección y vigilancia que tiene la autoridad competente en cada entidad territorial certificada en educación.
 
 (Decreto 1500 de 2009, artículo 28).
-
-ARTÍCULO
 
 ## art:2.3.1.8.4 — Procedimiento
 
@@ -15615,8 +13701,6 @@ El procedimiento para regular las actuaciones a que se refiere el presente artí
 TÍTULO 2
 
 SEGURIDAD VIAL
-
-ARTÍCULO
 
 ## art:2.3.2.1 — Definiciones
 
@@ -15658,8 +13742,6 @@ CAPÍTULO 1
 
 Acciones y procedimientos en materia de educación vial
 
-ARTÍCULO
-
 ## art:2.3.2.1.1 — Acciones del Ministerio de Educación Nacional
 
 Corresponde al Ministerio de Educación Nacional, como ente rector del sector educativo, las siguientes acciones en materia de educación vial:
@@ -15677,8 +13759,6 @@ e) Actualizar herramientas pedagógicas en materia de Seguridad Vial.
 PARÁGRAFO . Para establecer los contenidos de los componentes inherentes a la educación vial que harán parte de los programas de que trata el literal b) del presente artículo, el Ministerio de Educación Nacional contará con la asesoría y el apoyo del Ministerio de Transporte el Ministerio de Salud y la Corporación Fondo de Prevención Vial o el organismo que haga sus veces, sin perjuicio de la participación que puedan tener otras entidades y organizaciones del sector educativo y civil especialistas en Seguridad Vial.
 
 (Decreto 2851 de 2013, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.2.1.2 — Responsabilidades de las entidades territoriales certificadas en educación
 
@@ -15704,8 +13784,6 @@ i) Promover la creación y uso de herramientas pedagógicas que incorporen nueva
 
 (Decreto 2851 de 2013, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.2.1.3 — Acciones de las entidades territoriales con respecto de los establecimientos educativos
 
 Las entidades territoriales certificadas en educación garantizarán que en la incorporación de la educación vial los establecimientos educativos realicen las siguientes acciones:
@@ -15726,8 +13804,6 @@ g) Presentar informes a las entidades territoriales certificadas en educación s
 
 (Decreto 2851 de 2013, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.2.1.4 — Autoridades de tránsito
 
 Las autoridades de tránsito promoverán campañas educativas destinadas a evitar que las personas conduzcan bajo los efectos del alcohol.
@@ -15737,8 +13813,6 @@ Las autoridades de tránsito promoverán campañas educativas destinadas a evita
 CAPÍTULO 2
 
 Planes Estratégicos de Consumo Responsable de Alcohol y su adopción por parte de los Establecimientos de Comercio
-
-ARTÍCULO
 
 ## art:2.3.2.2.1 — Objetivos de los planes estratégicos de consumo responsable de alcohol
 
@@ -15751,8 +13825,6 @@ b) Promover el consumo responsable de alcohol entre los usuarios del establecimi
 c) Generar las condiciones dentro del establecimiento de expendio y/o consumo de bebidas alcohólicas para responder efectivamente a situaciones problemáticas derivadas del consumo inmoderado de alcohol.
 
 (Decreto 2851 de 2013, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.2.2.2 — Contenido de los planes estratégicos del consumo responsable de alcohol
 
@@ -15778,8 +13850,6 @@ PARÁGRAFO . Los establecimientos de expendio y/o consumo de bebidas alcohólica
 
 (Decreto 2851 de 2013, artículo 7).
 
-ARTÍCULO
-
 ## art:2.3.2.2.3 — Principios de los planes estratégicos de consumo responsable de alcohol
 
 Los establecimientos de expendio y/o consumo de bebidas alcohólicas deberán elaborar y ejecutar los planes estratégicos con fundamento en el principio "Saber beber-saber vivir", contenido en las definiciones de que trata el artículo 2 del Decreto 120 de 2010, o la norma que lo modifique, adicione, sustituya o compile, el cual orienta entre otros el consumo responsable de alcohol.
@@ -15787,8 +13857,6 @@ Los establecimientos de expendio y/o consumo de bebidas alcohólicas deberán el
 PARÁGRAFO . El Ministerio de la Salud y Protección Social expedirá la guía "Para la elaboración de planes estratégicos del consumo responsable de alcohol" y el "documento técnico sobre los principios saber beber-saber vivir" y "momentos del saber beber, el antes, el durante y el después", los cuales serán publicados en la página web del Ministerio de la Salud y Protección Social, para efectos de su divulgación.
 
 (Decreto 2851 de 2013, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.2.2.4 — 2.4
 
@@ -15804,15 +13872,11 @@ Para efectos de la adopción de los planes estratégicos para el consumo respons
 
 PLANES ESTRATÉGICOS DE LAS ENTIDADES, ORGANIZACIONES O EMPRESAS EN MATERIA DE SEGURIDAD VIAL
 
-ARTÍCULO
-
 ## art:2.3.2.3.1 — Planes estratégicos de las entidades, organizaciones o empresas en materia de Seguridad Vial
 
 Además de las disposiciones contenidas en el artículo 12 de la Ley 1503 de 2011, modificado por el artículo 110 del Decreto Ley 2106 de 2019, los Planes estratégicos de Seguridad Vial implementados por las entidades, organizaciones o empresas del sector público o privado, que cuenten con una flota de vehículos automotores o no automotores superior a diez (10) unidades, o que contraten o administren personal de conductores, deben alinearse con el Plan Nacional de Seguridad Vial vigente o el documento que lo modifique o sustituya; y considerar las características propias de cada entidad, organización o empresa.
 
 (Sustituido por el Art. 2 del Decreto 1252 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.2.3.2 — Diseño, implementación y verificación
 
@@ -15836,15 +13900,11 @@ Lo anterior, sin perjuicio de la obligación que tienen las entidades financiera
 
 (Sustituido por el Art. 2 del Decreto 1252 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.2.3.3 — Entidades, Organizaciones o Empresas Nuevas
 
 Los sujetos obligados a diseñar e implementar los Planes Estratégicos de Seguridad Vial, que se creen con posterioridad a la adopción de la Metodología de diseño, implementación y verificación del Plan Estratégico de Seguridad Vial por parte del Ministerio de Transporte, deberán diseñar e implementar su Plan Estratégico de Seguridad Vial en un plazo máximo de un (1) año contado a partir de su creación.
 
 (Sustituido por el Art. 2 del Decreto 1252 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.2.3.4 — Transitorio
 
@@ -15860,15 +13920,11 @@ CAPÍTULO 4
 
 Otras disposiciones
 
-ARTÍCULO
-
 ## art:2.3.2.4.1 — Convenios
 
 Las entidades territoriales certificadas en educación podrán celebrar convenios con los organismos de tránsito, con entidades nacionales o internacionales, Organizaciones No Gubernamentales o con entidades privadas, a fin de desarrollar acciones y estrategias que apoyen y fortalezcan la capacidad de los establecimientos educativos y del sector salud en la implementación de campañas de promoción y prevención en Seguridad Vial.
 
 (Decreto 2851 de 2013, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.2.4.2 — Tarjeta de compromiso personal con la Seguridad Vial
 
@@ -15884,8 +13940,6 @@ PARÁGRAFO 2. El Ministerio de Transporte regulará el contenido y diseño de la
 
 (Decreto 2851 de 2013, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.2.4.3 — Portal de la Seguridad Vial
 
 El Ministerio de Transporte diseñará y administrará el Portal de la Seguridad Vial y coordinará con el Ministerio de Salud, Ministerio de Educación Nacional, organismos de tránsito, el Instituto Nacional de Medicina Legal, la Corporación Fondo de Prevención Vial, el Departamento Administrativo Nacional de Estadística, el Fondo de Solidaridad y Garantía, la Federación de Aseguradores Colombianos, la Dirección de Tránsito y Transporte de la Policía Nacional, la Agencia Nacional de Infraestructura, el Instituto Nacional de Vías y demás entidades que cuenten o administren información relacionada con la Seguridad Vial, los contenidos del mismo.
@@ -15898,23 +13952,17 @@ TÍTULO 3
 
 FICHA TÉCNICA DE LA LICENCIA DE CONDUCCIÓN Y FICHA TÉCNICA DE LA LICENCIA DE TRÁNSITO
 
-ARTÍCULO
-
 ## art:2.3.3.1 — Adopción de medidas
 
 El Ministerio de Transporte implementará todas las medidas que fueren necesarias para lograr la adquisición, impresión, distribución, custodia y control de los insumos y equipos que garanticen el cumplimiento de las normas de seguridad para la expedición de la Licencia de Conducción y de la Licencia de Tránsito con un Formato Único Nacional.
 
 (Decreto 289 de 2009, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.3.2 — Autoridad competente
 
 El Ministerio de Transporte como Autoridad encargada de formular la regulación técnica en materia de tránsito, definirá las políticas, lineamientos, instrucciones y procedimientos para que los Organismos de Tránsito den cumplimiento a las normas de seguridad que los documentos exigen.
 
 (Decreto 289 de 2009, artículo 2).
-
-ARTÍCULO
 
 ## art:2.3.3.3 — Organismos de Tránsito
 
@@ -15926,8 +13974,6 @@ TÍTULO 4
 
 REGISTRO DE VEHÍCULOS DE ENTIDADES DE DERECHO PÚBLICO
 
-ARTÍCULO
-
 ## art:2.3.4.1 — Registro de vehículos de propiedad de entidades de derecho público rematados o adjudicados
 
 Los vehículos automotores no registrados de propiedad de las entidades de derecho público, rematados o adjudicados, sobre los cuales no exista certificado particular de aduana, declaración de importación, ni factura de compra, podrán ser registrados con el acta de adjudicación en la que conste procedencia y características del vehículo.
@@ -15936,23 +13982,17 @@ La entidad que remata el automotor o que lo adjudica expedirá un acta por cada 
 
 (Decreto 2640 de 2002, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.4.2 — Registro de vehículos de propiedad de entidades de derecho público rematados o adjudicados
 
 Todo vehículo rematado por entidades de derecho público a favor de persona natural o jurídica de derecho privado, deberá ser registrado en el servicio particular, en el organismo de tránsito competente para ello.
 
 (Decreto 2640 de 2002, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.4.3 — Devolución de placas oficiales
 
 Los vehículos de servicio oficial que porten placas de orden público, previo a su registro deberán devolver dichas placas al Ministerio de Transporte.
 
 (Decreto 2640 de 2002, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.4.4 — 4.4
 
@@ -15964,15 +14004,11 @@ TÍTULO 5
 
 REGISTRO DE VEHÍCULOS DE MISIONES DIPLOMÁTICAS, CONSULARES Y ORGANISMOS INTERNACIONALES ACREDITADOS EN EL PAÍS
 
-ARTÍCULO
-
 ## art:2.3.5.1 — Enajenación a persona natural o jurídica de derecho privado
 
 Los vehículos automotores de propiedad de Misiones Diplomáticas, Consulares, Organismos Internacionales acreditados en Colombia y los funcionarios colombianos que regresen al término de su misión, que sean enajenados a una persona natural o jurídica de derecho privado, deberán ser registrados en el servicio particular, en el Organismo de Tránsito competente, con la autorización de venta expedida por el Ministerio de Relaciones Exteriores.
 
 (Decreto 3178 de 2002, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.5.2 — Requisitos para el registro
 
@@ -15980,15 +14016,11 @@ El registro de los vehículos de que trata el presente Título se efectuará con
 
 (Decreto 3178 de 2002, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.5.3 — Entrega de placas
 
 Para efectos del registro de que trata los artículos anteriores, los propietarios de vehículos que porten placas de servicio diplomático, consular y de misiones especiales deberán entregarlas al Ministerio de Relaciones Exteriores.
 
 (Decreto 3178 de 2002, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.5.4 — Aplicación extensiva
 
@@ -16000,8 +14032,6 @@ TÍTULO 6
 
 MEDIDAS PARA CONTROLAR LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE EN MOTOCICLETAS
 
-ARTÍCULO
-
 ## art:2.3.6.1 — Acompañante o parrillero
 
 En los municipios o distritos donde la autoridad municipal o distrital verifique que se está desarrollando una modalidad ilegal de servicio público de transporte de pasajeros utilizando la movilización de personas en motocicletas, dicha autoridad deberá tomar las medidas necesarias para restringir la circulación de acompañantes o parrilleros, por zonas de su jurisdicción o en horarios especiales, de acuerdo con la necesidad. Dichas medidas se tomarán por períodos inferiores o iguales a un año.
@@ -16010,23 +14040,17 @@ PARÁGRAFO . Para la circulación de motocicletas con acompañante o parrillero 
 
 (Decreto 2961 de 2006, artículo 1, modificado por el Decreto 4116 de 2008, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.6.2 — Sanción
 
 El conductor o propietario de una motocicleta que circule con acompañante o parrillero dentro de las zonas u horarios objeto de restricción será sancionado de conformidad con las normas aplicables por la prestación ilegal del servicio público de transporte de pasajeros o servicio no autorizado.
 
 (Decreto 2961 de 2006, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.6.3 — Excepciones
 
 Se exceptúa de la medida de que tratan los artículos anteriores del presente Título los motociclistas miembros de la Fuerza Pública, autoridades de tránsito, personal de seguridad de las entidades del Estado, personal de los organismos de socorro, escoltas de los funcionarios del orden nacional, departamental y municipal siempre y cuando se encuentren en ejercicio de sus funciones. También se exceptúa el acompañante de motocicleta que adelante curso de capacitación automovilística en un centro de enseñanza legalmente autorizado, así como los miembros del núcleo familiar del propietario o conductor.
 
 (Decreto 2961 de 2006, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.6.4 — Sanciones por la violación de la normatividad vigente de tránsito
 
@@ -16038,8 +14062,6 @@ TÍTULO 7
 
 MEDIDAS RELACIONADAS CON LA SUSTITUCIÓN DE VEHÍCULOS DE TRACCIÓN ANIMAL
 
-ARTÍCULO
-
 ## art:2.3.7.1 — Sustitución de vehículos de tracción animal
 
 Autorizar la sustitución de vehículos de tracción animal por vehículos automotores debidamente homologados para carga, para facilitar e incentivar el desarrollo y promoción de actividades alternativas y sustitutivas para los conductores de vehículos de tracción animal.
@@ -16048,23 +14070,17 @@ En cumplimiento de la adopción de medidas alternativas y sustitutivas, los alca
 
 (Decreto 178 de 2012, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.7.2 — Coordinación
 
 La sustitución de los vehículos de tracción animal, de que trata el artículo anterior, deberá realizarse por las alcaldías municipales y distritales en coordinación con las autoridades de transporte y tránsito de la respectiva jurisdicción.
 
 (Decreto 178 de 2012, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.7.3 — Financiación y recursos
 
 Corresponde a los alcaldes de los municipios de categoría especial y de los municipios de primera categoría del país, tomar las medidas necesarias para sustentar presupuestalmente el proceso de sustitución, facilitando la financiación y cofinanciación del equipo automotor y el desarrollo de las actividades alternativas para los conductores de estos vehículos.
 
 (Decreto 178 de 2012, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.7.4 — Medidas
 
@@ -16084,8 +14100,6 @@ En desarrollo de los programas de sustitución, las autoridades locales deberán
 
 (Decreto 178 de 2012, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.7.5 — Inspección, vigilancia y control
 
 La inspección, vigilancia y control de los programas de sustitución de que trata el presente Título, estará a cargo de los alcaldes o de las autoridades municipales o distritales.
@@ -16096,15 +14110,11 @@ TÍTULO 8
 
 DISEÑO Y USO DE LOS UNIFORMES DE LOS AGENTES DE TRÁNSITO
 
-ARTÍCULO
-
 ## art:2.3.8.1 — Objeto
 
 El presente Título tiene por objeto reglamentar el diseño, uso y demás aspectos relacionados con los uniformes de los agentes de tránsito de los organismos de tránsito en todo el territorio nacional.
 
 (Decreto 2885 de 2013, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.8.2 — Características de los uniformes de los agentes de tránsito
 
@@ -16164,8 +14174,6 @@ CAPÍTULO 1
 
 Amonestación y multa
 
-ARTÍCULO
-
 ## art:2.3.9.1.1 — Sanciones
 
 Las sanciones aplicables a los organismos de tránsito serán las siguientes:
@@ -16178,23 +14186,17 @@ c) Intervención operativa.
 
 (Decreto 1270 de 1991, artículo 1).
 
-ARTÍCULO
-
 ## art:2.3.9.1.2 — 1.2
 
 Amonestación La amonestación escrita consiste en el requerimiento que se hace al respectivo organismo de tránsito, con el fin de darle a conocer el incumplimiento a las normas de tránsito y transporte en que ha incurrido, con el objeto de que se abstenga, corrija y evite la reincidencia en tal incumplimiento.
 
 (Decreto 1270 de 1991, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.9.1.3 — Multa
 
 La multa consiste en la imposición de una pena pecuniaria a un organismo de tránsito que ha incurrido en alguna de las conductas a que se refiere el artículo 2.3.9.1.5. de este Decreto.
 
 (Decreto 1270 de 1991, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.9.1.4 — Causales de amonestación
 
@@ -16207,8 +14209,6 @@ b) Omitir, retardar o denegar en forma injustificada a los usuarios, la prestaci
 c) Dar trámite a solicitudes presentadas por personas que gestionen cualquier asunto en su despacho, sin tener facultad legal para ello.
 
 (Decreto 1270de 1991, artículo 5).
-
-ARTÍCULO
 
 ## art:2.3.9.1.5 — Causales de multa
 
@@ -16228,8 +14228,6 @@ f) Reincidir en cualquiera de las fallas contempladas en el artículo anterior d
 
 (Decreto 1270 de 1991, artículo 6).
 
-ARTÍCULO
-
 ## art:2.3.9.1.6 — Inicio de investigación administrativa
 
 Cuando la Superintendencia de Puertos y Transporte, de oficio o a petición de parte, tenga conocimiento que un organismo de tránsito presuntamente ha incurrido en cualquiera de las faltas contempladas en los artículos 2.3.9.1.4. y 2.3.9.1.5 del presente Decreto, abrirá investigación mediante resolución motivada que deberá contener como mínimo:
@@ -16242,23 +14240,17 @@ c) Plazo dentro del cual el representante legal del respectivo organismo debe pr
 
 (Decreto 1270 de 1991, artículo 8).
 
-ARTÍCULO
-
 ## art:2.3.9.1.7 — Notificación de la apertura de investigación
 
 La notificación de la resolución a que se refiere el artículo anterior se hará de acuerdo con las normas establecidas en la Ley 1437 de 2011 o las normas que lo modifiquen o sustituyan.
 
 (Decreto 1270 de 1991, artículo 9).
 
-ARTÍCULO
-
 ## art:2.3.9.1.8 — Término para decidir la investigación administrativa
 
 La Superintendencia de Puertos y Transporte contará con treinta (30) días hábiles para decidir, contados a partir del vencimiento del término señalado en el literal c). del artículo 2.3.9.1.6. de este Decreto. Dicho término podrá ampliarse hasta por treinta (30) días, cuando haya lugar a práctica de pruebas. La decisión se adoptará por resolución motivada en la cual se impondrá la sanción correspondiente o se ordenará el archivo de las diligencias según el caso.
 
 (Decreto 1270 de 1991, artículo 10).
-
-ARTÍCULO
 
 ## art:2.3.9.1.9 — Recursos
 
@@ -16270,15 +14262,11 @@ Los dineros que recaude la Superintendencia de Puertos y Transporte por concepto
 
 (Decreto 1270 de 1991, artículo 11).
 
-ARTÍCULO
-
 ## art:2.3.9.1.10 — Copias
 
 De estas sanciones se remitirá copia al Gobernador, Alcalde Distrital o Municipal, Asamblea Departamentales y Concejos Municipales de del organismo de tránsito sancionado.
 
 (Decreto 1270 de 1991, artículo 12).
-
-ARTÍCULO
 
 ## art:2.3.9.1.11 — Acción de repetición
 
@@ -16286,15 +14274,11 @@ El organismo de tránsito repetirá contra el funcionario o exfuncionario a fin 
 
 (Decreto 1270 de 1991, artículo 13).
 
-ARTÍCULO
-
 ## art:2.3.9.1.12 — Caducidad
 
 La facultad que tiene la Superintendencia de Puertos y Transporte para imponer las sanciones a que se refiere el presente Título caduca a los tres (3) años de producido el último acto constitutivo de la falta.
 
 (Decreto 1270 de 1991, artículo 14).
-
-ARTÍCULO
 
 ## art:2.3.9.1.13 — Deber de informar
 
@@ -16306,15 +14290,11 @@ CAPÍTULO 2
 
 Intervención de organismos de tránsito
 
-ARTÍCULO
-
 ## art:2.3.9.2.1 — Objeto
 
 El presente Capítulo tiene por objeto reglamentar el artículo 19 de la Ley 1702 de 2013, estableciendo el procedimiento de intervención a los Organismos de Tránsito que debe efectuar la Superintendencia de Puertos y Transporte; así como también el procedimiento para la suspensión preventiva, suspensión o cancelación de la habilitación de los organismos de apoyo al tránsito.
 
 (Decreto 1479 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.3.9.2.2 — Intervención de Organismos de Tránsito
 
@@ -16342,8 +14322,6 @@ PARÁGRAFO 2. El acto que ordena la intervención será remitido junto con el ex
 
 (Decreto 1479 de 2014, artículo 2).
 
-ARTÍCULO
-
 ## art:2.3.9.2.3 — Actuación Administrativa
 
 La actuación iniciará de oficio o a petición del Ministerio de Transporte o de cualquier ciudadano o autoridad, mediante acto administrativo motivado suscrito por el Superintendente de Puertos y Transporte. Si de los documentos anexos a la queja o de las visitas que en ejercicio de la función de inspección y vigilancia efectúe la Superintendencia de Puertos y Transporte, o de las averiguaciones preliminares realizadas por la misma, se evidencia que existe mérito para adelantar el proceso, se comunicará al Organismo de Tránsito respectivo.
@@ -16351,8 +14329,6 @@ La actuación iniciará de oficio o a petición del Ministerio de Transporte o d
 PARÁGRAFO . El acto administrativo por medio del cual se ordena la correspondiente intervención, deberá ser comunicado a la máxima autoridad del orden municipal, distrital o departamental a la que pertenezca el Organismo de Tránsito, para lo de su competencia.
 
 (Decreto 1479 de 2014, artículo 3).
-
-ARTÍCULO
 
 ## art:2.3.9.2.4 — Agente Interventor
 
@@ -16370,8 +14346,6 @@ PARÁGRAFO 4. El servidor público que sea designado como agente interventor de 
 
 (Decreto 1479 de 2014, artículo 4).
 
-ARTÍCULO
-
 ## art:2.3.9.2.5 — Remuneración
 
 El servidor público designado como agente interventor seguirá percibiendo el salario que devengue en la Superintendencia de Puertos y Transporte o en la entidad del sector de la cual provenga.
@@ -16380,8 +14354,6 @@ Si la intervención se realiza en un organismo de tránsito ubicado en un domici
 
 (Decreto 1479 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:2.3.9.2.6 — Terminación de la intervención
 
 Superados los hechos que motivaron la intervención, la Superintendencia de Puertos y Transporte lo declarará mediante acto administrativo que comunicará a la autoridad municipal, departamental, o distrital a la que pertenezca el organismo de tránsito, para lo de sus competencias.
@@ -16389,8 +14361,6 @@ Superados los hechos que motivaron la intervención, la Superintendencia de Puer
 Del mismo modo se procederá en caso de llegarse al plazo máximo de intervención, evento en el cual el agente interventor estará obligado a entregar el plan de mejoramiento de que trata el parágrafo 2 del artículo 2.3.9.1.4 de este Decreto, debidamente cumplido.
 
 (Decreto 1479 de 2014, artículo 6).
-
-ARTÍCULO
 
 ## art:2.3.9.2.7 — Entrega del Organismo
 
@@ -16402,8 +14372,6 @@ CAPÍTULO 3
 
 Suspensión, suspensión preventiva y cancelación de la habilitación de los organismos de apoyo
 
-ARTÍCULO
-
 ## art:2.3.9.3.1 — Suspensión preventiva
 
 En ejercicio de la competencia que le asigna el artículo 19 de la Ley 1702 de 2013, la Superintendencia de Puertos y Transporte podrá ordenar la suspensión preventiva de la habilitación de un organismo de apoyo al tránsito, hasta por el término de seis (6) meses, prorrogables por otro periodo igual, cuando se establezca que el servicio o la continuidad del mismo pueden verse alterados; cuando se ponga en riesgo a los usuarios, o cuando se pueda afectar o poner en riesgo el material probatorio para las actuaciones en curso.
@@ -16411,8 +14379,6 @@ En ejercicio de la competencia que le asigna el artículo 19 de la Ley 1702 de 2
 En todo caso, será el Ministerio de Transporte la entidad competente para expedir el acto administrativo por medio del cual se dé cumplimiento a lo ordenado por la Superintendencia.
 
 (Decreto 1479 de 2014, artículo 8).
-
-ARTÍCULO
 
 ## art:2.3.9.3.2 — Suspensión o Cancelación de la habilitación
 
@@ -16432,8 +14398,6 @@ Capítulo 1
 
 Del Sistema Integrado de Seguridad
 
-ARTÍCULO
-
 ## art:2.3.10.1.1 — Interoperabilidad de la información
 
 Los centros de reconocimiento de conductores deberán acreditarse como organismos de certificación de personas, bajo la norma ISO que corresponda, para lo cual deberán, previo a obtener, renovar o mantener la acreditación, garantizar el cumplimiento de las normas del Sistema Integrado de Seguridad que regulan la interoperabilidad, el cotejo y el acceso a la información de los certificados de aptitud física, mental y de coordinación motriz para la conducción de vehículos, por parte de los centros o instituciones encargadas de la expedición de los certificados de aptitud psicofísica para el porte y tenencia de armas de fuego.
@@ -16444,23 +14408,17 @@ PARÁGRAFO 2. La Superintendencia de Puertos y Transporte determinará las condi
 
 (Decreto 26 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.10.1.2 — Remisión de la información al Registro Único Nacional de Tránsito (RUNT)
 
 Los centros de reconocimiento de conductores remitirán la información que se obtenga de los aspirantes, las pruebas y/o los resultados de los certificados de aptitud física, mental y de coordinación motriz para la conducción de vehículos al Ministerio de Transporte, a través del Registro Único Nacional de Tránsito (RUNT), garantizando la interoperabilidad de los sistemas involucrados.
 
 (Decreto 26 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.10.1.3 — Entidades autorizadas para interactuar con el Sistema Integrado de Seguridad en la expedición de certificados de aptitud
 
 Solamente podrán interactuar con el Sistema Integrado de Seguridad las instituciones que expidan o que vayan a expedir los certificados aptitud física, mental y de coordinación motriz para la conducción de vehículos, que previamente cuenten con inscripción en el Registro Especial de Prestadores de Servicios de Salud y tengan habilitación vigente como prestadores de salud por las Secretarías de Salud correspondientes en la modalidad de objeto social diferente.
 
 (Decreto 26 de 2017, art. 2)
-
-ARTÍCULO
 
 ## art:2.3.10.1.4 — Expedición de certificados de aptitud
 
@@ -16478,15 +14436,11 @@ CAPÍTULO I
 
 OBJETO Y ALCANCE.
 
-ARTÍCULO
-
 ## art:2.3.11.1.1 — Objeto
 
 El presente título tiene como objeto establecer las condiciones, términos y requisitos para autorizar la internación temporal de vehículos, motocicletas y embarcaciones fluviales menores con matrícula del país vecino, de propiedad de los residentes en las Unidades Especiales de Desarrollo Fronterizo.
 
 (Decreto 2229 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.11.1.2 — Ámbito de aplicación
 
@@ -16500,8 +14454,6 @@ CAPÍTULO II
 
 PROCEDIMIENTO PARA LA INTERNACIÓN TEMPORAL DE VEHÍCULOS AUTOMOTORES, MOTOCICLETAS Y EMBARCACIONES FLUVIALES MENORES.
 
-ARTÍCULO
-
 ## art:2.3.11.2.1 — Competencia para autorizar la internación temporal
 
 El Alcalde del municipio en cuya jurisdicción se encuentra la Unidad Especial de Desarrollo Fronterizo correspondiente al domicilió del solicitante, autorizará, la internación temporal de vehículos, motocicletas y embarcaciones fluviales menores con matrícula del país vecino, de propiedad de los residentes en las Unidades Especiales de Desarrollo Fronterizo donde tiene jurisdicción.
@@ -16511,8 +14463,6 @@ PARÁGRAFO 1. Los vehículos, motocicletas y embarcaciones fluviales menores int
 PARÁGRAFO 2. La autorización de internación temporal de los vehículos, motocicletas y embarcaciones fluviales menores con matrícula del país vecino, de propiedad de los residentes de las Unidades Especiales de Desarrollo Fronterizo, de que trata el presente título, será el documento aduanero que ampara su circulación y tránsito en la jurisdicción del departamento al que pertenece la Unidad Especial de Desarrollo Fronterizo.
 
 (Decreto 2229 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.11.2.2 — Solicitud de internación temporal
 
@@ -16560,8 +14510,6 @@ PARÁGRAFO TRANSITORIO 3. Dentro de los seis (6) meses siguientes a la normaliza
 
 (Decreto 2229 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.11.2.3 — Destinación de los bienes objeto de internación
 
 Los vehículos, motocicletas o embarcaciones fluviales menores con matrícula del país vecino internados temporalmente, sólo podrán ser usados para el servicio particular del titular de la internación.
@@ -16569,8 +14517,6 @@ Los vehículos, motocicletas o embarcaciones fluviales menores con matrícula de
 En consecuencia, los vehículos, motocicletas o embarcaciones fluviales menores con matrícula del país vecino internados temporalmente, no podrán destinarse a la prestación del servicio público de transporte en ninguna modalidad, ni ser comercializados, donados, arrendados o entregados en comodato, su propiedad no podrá ser transferida, ni serán destinados a un fin diferente al objeto de la internación en Colombia, so pena de la aplicación de las, medidas de aprehensión y decomiso por parte de la DIAN de conformidad con lo dispuesto en el artículo 502 del Decreto 2685 de 1999 o la norma que la modifique, adicione o sustituya.
 
 (Decreto 2229 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.11.2.4 — Término de la autorización
 
@@ -16581,8 +14527,6 @@ PARÁGRAFO . Los vehículos, motocicletas y embarcaciones fluviales menores con 
 (Decreto 2229 de 2017, art. 1; Parágrafo Modificado por el Decreto 1082 de 2018, art. 2)
 
 (PARÁGRAFO Modificado por el Decreto 2453 de 2018, art.2)
-
-ARTÍCULO
 
 ## art:2.3.11.2.5 — Finalización de la internación temporal
 
@@ -16598,15 +14542,11 @@ La autorización de internación temporal finalizará en los siguientes eventos:
 
 (Decreto 2229 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.11.2.6 — Prohibición de cambio a régimen aduanero
 
 Los vehículos, motocicletas y embarcaciones fluviales menores que se encuentren internadas temporalmente en las Unidades Especiales de Desarrollo Fronterizo, no podrán ser objeto de autorización de importación temporal en turismo de que trata el Decreto 2685 de 1999 o la norma que la adicione, modifique o sustituya.
 
 (Decreto 2229 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.11.2.7 — Suministro periódico de información
 
@@ -16616,7 +14556,7 @@ De igual manera y para efectos del cruce de información correspondiente, los al
 
 (Decreto 2229 de 2017, art. 1)
 
-"ARTÍCULO
+"
 
 ## art:2.3.11.2.8 — Transitorio para vehículos internados temporalmente en vigencia de los Decretos 3413 y 3575 de 2004 y 400 de 2005
 
@@ -16627,8 +14567,6 @@ Durante este tiempo, los propietarios de los vehículos, motocicletas y embarcac
 (Decreto 2229 de 2017, art. 1; Modificado por el Decreto 1082 de 2018, art. 3)
 
 (Modificado por el Decreto 2453 de 2018, art. 3)
-
-ARTÍCULO
 
 ## art:2.3.11.2.9 — Implementación del presente Título
 
@@ -16964,8 +14902,6 @@ CONDICIONES QUE DEBEN CUMPLIR LAS AUTORIDADES PARA OTORGAR A LOS PARTICULARES LO
 
 DESARROLLO DE PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.4.1.1 — Objeto
 
 El presente Título tiene por objeto establecer las condiciones que deben cumplir las autoridades para el otorgamiento de los permisos que requieren los particulares para el desarrollo de proyectos de infraestructura de transporte de los modos terrestre (infraestructura carretera, férrea y por cable) y aéreo (infraestructura aeronáutica y aeroportuaria), que sean de su interés y que tengan vocación de conectividad permanente con la red vial de transporte, de conformidad con lo dispuesto en el artículo 15 de la Ley 1682 de 2013.
@@ -16973,8 +14909,6 @@ El presente Título tiene por objeto establecer las condiciones que deben cumpli
 PARÁGRAFO . Los proyectos de infraestructura de transporte que se desarrollen bajo la modalidad de Asociaciones Público Privadas al amparo de la Ley 1508 de 2012, no estarán sujetos a la presente reglamentación en lo que se refiere al otorgamiento de los permisos de que trata el artículo 15 de la Ley 1682 de 2013.
 
 (Decreto 942 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.1.2 — Autoridad competente para otorgar el permiso
 
@@ -16993,8 +14927,6 @@ Las autoridades competentes para el otorgamiento de los permisos que requieren l
 PARÁGRAFO . Los gobernadores y alcaldes podrán delegar al interior de la administración departamental, municipal o distrital el ejercicio de la función a la que se refiere el numeral 5 del presente artículo.
 
 (Decreto 942 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.1.3 — Solicitud
 
@@ -17018,15 +14950,11 @@ En virtud de ello, debe presentar una propuesta de cómo se garantizará a los d
 
 (Decreto 942 de 2014, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.1.4 — Permiso
 
 La entidad competente para otorgar el permiso analizará la conveniencia técnica, legal y financiera del proyecto y podrá otorgarlo si considera que está acorde con los planes, programas y proyectos del sector y si cuenta con los conceptos técnicos y las autorizaciones legales pertinentes.
 
 (Decreto 942 de 2014, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.1.5 — Condiciones para decidir la solicitud del permiso
 
@@ -17058,8 +14986,6 @@ La entidad pública podrá requerir por una sola vez al interesado para que comp
 
 (Decreto 942 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.1.6 — Lineamientos para verificar la conectividad con la infraestructura a cargo del Estado
 
 Las autoridades competentes para emitir el concepto sobre la conectividad del proyecto de infraestructura de transporte de interés de los particulares, deberán analizar como mínimo lo siguiente:
@@ -17074,23 +15000,17 @@ Las autoridades competentes para emitir el concepto sobre la conectividad del pr
 
 (Decreto 942 de 2014, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.1.7 — Formulación de recomendaciones
 
 La entidad pública podrá formular recomendaciones al interesado para lograr que su proyecto cumpla con los estándares y normas técnicas del modo correspondiente y/o garantizar su conectividad con la infraestructura existente. En este evento devolverá la solicitud al interesado con los respectivos antecedentes.
 
 (Decreto 942 de 2014, artículo 7).
 
-ARTÍCULO
-
 ## art:2.4.1.8 — Obligación de mantenimiento de infraestructura
 
 Los particulares titulares del permiso para el desarrollo de proyectos de infraestructura de transporte están obligados a asumir el mantenimiento de la infraestructura de transporte construida por ellos, hasta su recibo por parte del Estado.
 
 (Decreto 942 de 2014, artículo 8).
-
-ARTÍCULO
 
 ## art:2.4.1.9 — Recibo de infraestructura
 
@@ -17102,23 +15022,17 @@ TÍTULO 2
 
 SANEAMIENTO AUTOMÁTICO POR MOTIVOS DE UTILIDAD PÚBLICA E INTERÉS SOCIAL PARA PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.4.2.1 — Objeto
 
 El presente Título fija las condiciones y requisitos para la aplicación del saneamiento automático de bienes inmuebles quepor motivos de utilidad pública e interés social, sean necesarios para proyectos de infraestructura de transporte con o sin antecedente registral.
 
 (Decreto 737 de 2014, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.2.2 — Competencia
 
 La entidad pública que haya destinado pretenda adquirir o haya adquirido inmuebles para proyectos de infraestructura de transporte es la competente para invocar el saneamiento automático.
 
 (Decreto 737 de 2014, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.2.3 — Concepto y procedencia
 
@@ -17130,8 +15044,6 @@ Sin perjuicio de la historia jurídica del bien, el saneamiento automático cons
 
 (Decreto 737 de 2014, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.2.4 — Oponibilidad
 
 Con el propósito de asegurar la oponibilidad, la entidad pública que pretenda adelantar el saneamiento automático oficiará a la Oficina de Registro Público competente para que inscriba en la columna 09 Otros del folio de matrícula inmobiliaria del predio, la intención del Estado de adelantar en relación con este, dicho saneamiento.
@@ -17141,8 +15053,6 @@ Adicionalmente, la entidad pública comunicará de manera directa a quienes pose
 Sin perjuicio del saneamiento automático ordenado por ministerio de la ley, las personas que consideren tener un derecho sobre el inmueble podrán solicitar administrativa o judicialmente su reconocimiento pecuniario.
 
 (Decreto 737 de 2014, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.2.5 — Estudio previo para el saneamiento automático
 
@@ -17158,8 +15068,6 @@ Para el saneamiento automático la entidad interesada debe efectuar un estudio d
 
 (Decreto 737 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.2.6 — Declaratoria de saneamiento por ministerio de la ley
 
 El saneamiento automático respecto de inmuebles utilizados o por utilizar por la entidad pública en proyectos de infraestructura de transporte, que carezcan de título traslaticio de dominio y de identidad registra 1, se declarará mediante acto administrativo motivado en el que se expresarán las razones de utilidad pública e interés social que fundamentan la declaratoria. Dicho acto será título suficiente para la apertura de folio de matrícula inmobiliaria por la Oficina de Registro competente y servirá como prueba del derecho real de dominio a favor del Estado.
@@ -17168,8 +15076,6 @@ PARÁGRAFO . Para el caso de los bienes baldíos a cargo del Instituto Colombian
 
 (Decreto 737 de 2014, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.2.7 — Acto de Saneamiento de Bienes con identidad registral
 
 En el acto administrativo o en la escritura pública en que se invoque el saneamiento automático se dispondrá, cuando ello corresponda, la cancelación o la liberación parcial de las limitaciones, las afectaciones, los gravámenes o las medidas cautelares que aparezcan inscritas en el folio de matrícula del predio.
@@ -17177,8 +15083,6 @@ En el acto administrativo o en la escritura pública en que se invoque el saneam
 PARÁGRAFO . Teniendo en cuenta que de acuerdo con el artículo 2.4.2.3 del presente Decreto, el saneamiento automático constituye un rompimiento del tracto sucesivo, el Registrador, cuando lo requerido sea una porción de terreno segregado de otro de mayor extensión, dispondrá la apertura de un nuevo folio de matrícula sin anotaciones relativas a medidas cautelares, limitaciones, afectaciones y gravámenes y dejará constancia de la respectiva liberación en el folio matriz.
 
 (Decreto 737 de 2014, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.2.8 — Actualización Catastral
 
@@ -17192,15 +15096,11 @@ TÉRMINOS PARA ADELANTAR LA NEGOCIACIÓN DIRECTA Y LA IMPOSICIÓN DE SERVIDUMBRE
 
 CONSTRUCCIÓN DE LOS PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.4.3.1 — Objeto
 
 El presente Título tiene por objeto definir los términos en que deben surtirse las etapas para la constitución de servidumbres, mediante el agotamiento previo de la negociación directa o su imposición por vía administrativa, de conformidad con el artículo 38 de la Ley 1682 de 2013.
 
 (Decreto 738 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.3.2 — Negociación Directa
 
@@ -17218,8 +15118,6 @@ PARÁGRAFO . El avalúo será realizado por el Instituto Geográfico Agustín Co
 
 (Decreto 738 de 2014, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.3.3 — Imposición de servidumbre por vía administrativa
 
 Dentro de los diez (10) días siguientes a la fecha en que de acuerdo con lo dispuesto en el artículo anterior se entienda fracasada la negociación, la entidad procederá a imponer la servidumbre mediante acto administrativo.
@@ -17227,8 +15125,6 @@ Dentro de los diez (10) días siguientes a la fecha en que de acuerdo con lo dis
 El trámite de notificaciones y recursos, se regirá por lo dispuesto en la Ley 1437 de 2011 o en aquella que la modifique, adicione o sustituya.
 
 (Decreto 738 de 2014, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.3.4 — Acto de imposición de servidumbre
 
@@ -17240,23 +15136,17 @@ PARÁGRAFO . Durante el proceso de imposición de servidumbre por vía administr
 
 (Decreto 738 de 2014, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.3.5 — Pago
 
 Para efectos del pago, el titular o titulares del derecho real de dominio o el poseedor o poseedores inscritos, deberán comunicar de manera escrita a la entidad, la cuenta bancaria a la cual deben ser girados los recursos. En caso de no recibir la comunicación la entidad procederá a realizar el pago por consignación de acuerdo con la ley.
 
 (Decreto 738 de 2014, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.3.6 — Delegación
 
 Las autoridades facultadas para adelantar el procedimiento de negociación directa o de imposición de servidumbres por vía administrativa, podrán delegar el ejercicio de estas funciones, de conformidad con lo dispuesto en el artículo 38 de la Ley 1682 de 2013 y los artículos 9 y 14 de la Ley 489 de 1998.
 
 (Decreto 738 de 2014, artículo 6).
-
-ARTÍCULO
 
 ## art:2.4.3.7 — Disposición del inmueble objeto de la servidumbre
 
@@ -17270,15 +15160,11 @@ PLANEACIÓN DE LOS PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE CON LA FINALIDAD D
 
 MULTIMODALIDAD, SU ARTICULACIÓN E INTEGRACIÓN
 
-ARTÍCULO
-
 ## art:2.4.4.1 — Objeto
 
 El presente Título tiene por objeto reglamentar la planeación de la infraestructura de transporte, de conformidad con lo previsto en el artículo 9 de la Ley 1682 de 2013.
 
 (Decreto 736 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.4.2 — Definiciones
 
@@ -17310,8 +15196,6 @@ k) Vocación de la Carga: se refiere a los atributos de los modos y medios de tr
 
 (Decreto 736 de 2014, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.4.3 — Lineamientos para la planeación de la infraestructura de transporte
 
 En la planeación y desarrollo de los proyectos de infraestructura de transporte y con el objeto de favorecer la multimodalidad e intermodalidad, deben observarse los siguientes lineamientos:
@@ -17338,8 +15222,6 @@ PARÁGRAFO . Quienes tengan a su cargo la planeación de proyectos de infraestru
 
 (Decreto 736 de 2014, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.4.4 — Mecanismos de seguimiento
 
 El Ministerio de Transporte o la autoridad que este designe, debe diseñar e implementar mecanismos que permitan verificar el cumplimiento de los lineamientos establecidos en este Título, así como realizar el seguimiento a aquellos que lo requieran.
@@ -17349,8 +15231,6 @@ El Ministerio de Transporte o la autoridad que este designe, debe diseñar e imp
 CAPÍTULO 1
 
 Registro de operadores de transporte multimodal
-
-ARTÍCULO
 
 ## art:2.4.4.1.1 — Registro de Operadores de Transporte Multimodal
 
@@ -17366,15 +15246,11 @@ Para este efecto, se tendrán en cuenta las siguientes definiciones:
 
 (Decreto 149 de 1999, artículo 1).
 
-ARTÍCULO
-
 ## art:2.4.4.1.2 — Inscripción en el registro
 
 Para ejercer la actividad de operador de Transporte Multimodal Nacional o Internacional, las personas naturales o jurídicas interesadas deben estar inscritas en el registro respectivo a cargo del Ministerio de Transporte.
 
 (Decreto 149 de 1999, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.4.1.3 — Requisitos generales de inscripción en el registro
 
@@ -17416,8 +15292,6 @@ PARÁGRAFO . El requisito establecido en el numeral 6 del presente artículo, pu
 
 (Decreto 149 de 1999, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.4.1.4 — Inscripciones de Operadores de Transporte Multimodal Subregionales
 
 Los Operadores de Transporte Multimodal originarios de alguno de los países miembros de la Comunidad Andina de Naciones, podrán inscribirse en el Registro de Operadores de Transporte Multimodal a cargo del Ministerio de Transporte, mediante la presentación de una solicitud dirigida a dicho Ministerio a la que se acompañará el Certificado de Registro otorgado por el organismo nacional competente de su país de origen, en caso de que la Secretaría de la Comunidad Andina de Naciones no haya rendido el informe correspondiente de conformidad con lo establecido en el artículo 30 de la Decisión 331 de la Comisión del Acuerdo de Cartagena, modificado por el artículo 10 de la Decisión 393 de la misma Comisión y las normas que la modifiquen, sustituyan, complementen o reglamenten.
@@ -17427,8 +15301,6 @@ Si alguno de los Operadores de Transporte Multimodal originario de los países m
 PARÁGRAFO . Las personas naturales o jurídicas originarias de un país miembro de la Comunidad Andina de Naciones y que no cuenten con el Certificado de O.T.M. de su país de origen, podrán inscribirse en Colombia, para la cual deberán cumplir los requisitos señalados en el artículo 2.4.4.1.3 de este Decreto.
 
 (Decreto 149 de 1999, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.4.1.5 — Inscripción de Operadores de Transporte Multimodal Extrasubregionales
 
@@ -17450,23 +15322,17 @@ PARÁGRAFO . En todo caso, la inscripción de empresas extranjeras en el Registr
 
 (Decreto 149 de 1999, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.4.1.6 — Vigencia de la inscripción en el registro
 
 El Registro de O.T.M. tendrá una vigencia indefinida mientras la persona natural o jurídica inscrita mantenga los requisitos contemplados en los artículos 2.4.4.1.3, 2.4.4.1.4 y 2.4.4.1.5 del presente Decreto, según el caso, y no medie comunicación oficial por escrito de parte del Ministerio de Transporte dirigida al interesado sobre la cancelación de tal inscripción. Copia de esta comunicación será enviada por el Ministerio de Transporte a la Secretaría General de la Comunidad Andina de Naciones, en el caso de cancelación de la inscripción de Operadores de Transporte Multimodal sujetos al régimen establecido en las decisiones 331 y 393 de la Comisión del Acuerdo de Cartagena y las normas que las modifiquen, sustituyan, complementen o reglamenten.
 
 (Decreto 149 de 1999, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.4.1.7 — Certificado de Registro
 
 Sin perjuicio de lo establecido en el artículo anterior y en el artículo 10 de la Decisión 393 de la Comisión del Acuerdo de Cartagena, el Ministerio de Transporte, al efectuar la inscripción en el Registro de Operadores de Transporte Multimodal expedirá al interesado un Certificado de Registro, que será el documento mediante el cual el Operador de Transporte Multimodal acredite su inscripción en el Registro respectivo ante las autoridades colombianas y de los demás países miembros de la Comunidad Andina de Naciones que así se lo exijan.
 
 (Decreto 149 de 1999, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.4.1.8 — Procedimiento
 
@@ -17492,8 +15358,6 @@ PARÁGRAFO 2. La inscripción en el Registro de Operadores de Transporte Multimo
 
 (Decreto 149 de 1999, artículo 8).
 
-ARTÍCULO
-
 ## art:2.4.4.1.9 — Pérdida de vigencia de la inscripción en el Registro
 
 De conformidad con lo establecido en el artículo 2.4.4.1.6. del presente Decreto, cuando un Operador de Transporte Multimodal inscrito en el Registro que para el efecto lleva el Ministerio de Transporte deje de mantener en vigencia cualquiera de los requisitos establecidos en los artículos 2.4.4.1.3, 2.4.4.1.4 y 2.4.4.1.5 de este Decreto, según el caso, su inscripción en el Registro perderá su vigencia, de pleno derecho, hasta el momento en que demuestre nuevamente el cumplimiento de los requisitos de inscripción que hubieren perdido su vigencia. El Ministerio de Transporte informará al interesado, a la Dirección de Impuestos y Aduanas Nacionales y a la Secretaría General de la Comunidad Andina de Naciones, cuando haya lugar a ello, de la ocurrencia de las circunstancias a que se refiere el presente artículo.
@@ -17502,15 +15366,11 @@ En este caso, el interesado contará con un plazo de tres (3) meses calendario, 
 
 (Decreto 149 de 1999, artículo 9).
 
-ARTÍCULO
-
 ## art:2.4.4.1.10 — Régimen jurídico del contrato de transporte multimodal
 
 El régimen jurídico aplicable al contrato de transporte multimodal es el consignado en las Decisiones 331 y 393 de la Comisión del Acuerdo de Cartagena y en las normas que la sustituyan, modifiquen o complementen.
 
 (Decreto 149 de 1999, artículo 10).
-
-ARTÍCULO
 
 ## art:2.4.4.1.11 — Infracciones
 
@@ -17529,8 +15389,6 @@ El Operador de Transporte Multimodal cometerá infracción a lo establecido en e
 6. Cuando incumpla o propicie el incumplimiento por parte de sus agentes, dependientes o subcontratistas de las normas y regulaciones relativas al transporte de sustancias controladas, peligrosas, de circulación restringida y de todas aquellas mercancías cuyo transporte está sujeto a un régimen especial.
 
 (Decreto 149 de 1999, artículo 11).
-
-ARTÍCULO
 
 ## art:2.4.4.1.12 — Sanciones
 
@@ -17556,8 +15414,6 @@ PARÁGRAFO 3. De conformidad con lo establecido en el artículo 7 de la Ley 336 
 
 (Decreto 149 de 1999, artículo 12).
 
-ARTÍCULO
-
 ## art:2.4.4.1.13 — Sanción a Operadores de Transporte Multimodal no inscritos en el Registro
 
 Toda persona que desarrolle operaciones de transporte multimodal en el territorio nacional, o desde o hacia Colombia, sin estar previamente inscrita en el Registro de Operadores de Transporte Multimodal establecido en el presente Capítulo, estará sujeta a una sanción consistente en la imposición de una multa equivalente a 200 salarios mínimos legales mensuales vigentes.
@@ -17566,23 +15422,17 @@ De conformidad con lo establecido en el artículo 7 de la Ley 336 de 1996, los a
 
 (Decreto 149 de 1999, artículo 13).
 
-ARTÍCULO
-
 ## art:2.4.4.1.14 — Régimen aduanero
 
 Lo previsto en el presente Decreto se aplicará sin perjuicio de lo establecido en el Decreto 2685 de 1999 y las normas que lo modifiquen, sustituyan, complementen o reglamenten.
 
 (Decreto 149 de 1999, artículo 14).
 
-ARTÍCULO
-
 ## art:2.4.4.1.15 — Documentos expedidos en el exterior o en idioma extranjero
 
 Para los efectos contemplados en este Capítulo, en todo caso, los documentos expedidos en el exterior o en idioma extranjero, deberán cumplir con los requisitos establecidos en el artículo 251 de la Ley 1564 de 2012.
 
 (Decreto 149 de 1999, artículo 15).
-
-ARTÍCULO
 
 ## art:2.4.4.1.16 — Reglamentación
 
@@ -17596,15 +15446,11 @@ LINEAMIENTOS PARA EL ESTABLECIMIENTO DE CORREDORES LOGÍSTICOS DE IMPORTANCIA ES
 
 LA ARTICULACIÓN DE LOS ACTORES QUE CONVERGEN SOBRE ÉSTOS
 
-ARTÍCULO
-
 ## art:2.4.5.1 — Corredores logísticos de importancia estratégica
 
 Para los efectos señalados en el artículo 69 de la Ley 1682 de 2013, son corredores logísticos de importancia estratégica aquellos medios físicos que facilitan el intercambio y el desarrollo del comercio en general, por los cuales se moviliza la carga tanto de comercio exterior como del comercio interno, permitiendo la vinculación entre los nodos de producción y consumo junto con sus áreas de influencia, sea en tramos urbanos, suburbanos y rurales, así como los medios físicos que los conecten con las infraestructuras de servicios regionales, nacionales e internacionales. Un corredor logístico articula de manera integral, como una unidad, uno o varios orígenes y destinos en aspectos físicos y funcionales como la infraestructura de transporte, los flujos de información y comunicaciones, las prácticas comerciales y todas aquellas actividades orientadas a la facilitación del comercio.
 
 (Decreto 1478 de 2014, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.5.2 — Establecimiento de corredores logísticos de importancia estratégica
 
@@ -17612,15 +15458,11 @@ De conformidad con los lineamientos establecidos en el artículo anterior, el Mi
 
 (Decreto 1478 de 2014, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.5.3 — Articulación
 
 El Ministerio de Transporte será la instancia encargada de articular los actores públicos y privados en la gestión de las acciones relacionadas con el flujo de carga que sean requeridas en un corredor logístico de importancia estratégica y el monitoreo y seguimiento de las mismas.
 
 (Decreto 1478 de 2014, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.5.4 — Reglamentación coordinada
 
@@ -17662,15 +15504,11 @@ RED NACIONAL DE CARRETERAS A CARGO DE LA NACIÓN INSTITUTO NACIONAL DE VÍAS Y P
 
 CARRETERAS
 
-ARTÍCULO
-
 ## art:2.4.6.1 — Red nacional de carreteras a cargo del INVIAS
 
 Fijar para el 31 de agosto de 2001, la Red Nacional de Carreteras a cargo del Instituto Nacional de Vías y adoptar el Plan de Expansión de la Red Nacional de Carreteras de acuerdo al Documento Conpes número 3085 del 14 de julio de 2000.
 
 (Decreto 1735 de 2001, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.6.2 — Transferencia de proyectos a la Nación
 
@@ -17678,15 +15516,11 @@ La transferencia a la Nación de aquellos proyectos cuya nacionalización no se 
 
 (Decreto 1735 de 2001, artículo 2).
 
-ARTÍCULO
-
 ## art:2.4.6.3 — Estrategia de inversión
 
 El Instituto Nacional de Vías adoptará la estrategia de inversión planteada en el Documento Conpes número 3085 de julio 14 de 2000, incluyendo la implementación de una metodología para la priorización de sus inversiones.
 
 (Decreto 1735 de 2001, artículo 3).
-
-ARTÍCULO
 
 ## art:2.4.6.4 — Red nacional de carreteras construida a cargo del INVIAS
 
@@ -20050,8 +17884,6 @@ Barranquilla - Santa Marta y Acceso al Puente Laureano Gómez, Sector Barranquil
 
 (Decreto 1735 de 2001, artículo 4).
 
-ARTÍCULO
-
 ## art:2.4.6.5 — Construcción de la red nacional de carreteras no incluida en el Documento Conpes 3085
 
 El Instituto Nacional de Vías, al 31 de agosto de 2001, adelanta la construcción de los sectores que se describen a continuación, que pertenecen a la Red Nacional de Carreteras, los cuales no fueron incluidos dentro del Documento Conpes 3085, por cuanto en este solo se incluyó la red vial nacional de carreteras construida. Las inversiones en estos sectores se realizarán de acuerdo con las estrategias de inversión planteadas en el Documento Con pes número 3085 de julio 14 de 2000. Estos sectores son:
@@ -20182,15 +18014,11 @@ CAPÍTULO 1
 
 En las carreteras del sistema vial nacional
 
-ARTÍCULO
-
 ## art:2.4.7.1.1 — Construcciones o mejoras
 
 Para los efectos de lo previsto en el artículo 55 de la Ley 1682 de 2013, cuando se refiere a construcciones o mejoras debe entenderse todo tipo de actividades de construcción de nuevas edificaciones o de edificaciones existentes que requieran licencia de construcción y sus modalidades en los términos previstos en las normas vigentes sobre la materia.
 
 (Decreto 1389 de 2009, artículo 1).
-
-ARTÍCULO
 
 ## art:2.4.7.1.2 — Licencias ambientales, licencias de intervención y ocupación del espacio público y otros
 
@@ -20202,15 +18030,11 @@ CAPÍTULO 2
 
 En pasos urbanos de la Red Nacional de Carreteras a cargo de la Nación
 
-ARTÍCULO
-
 ## art:2.4.7.2.1 — Ámbito de Aplicación
 
 El presente Capítulo aplica para las carreteras de la Red Vial a cargo de la Nación que se encuentran bajo la administración del Instituto Nacional de Vías, la Agencia Nacional de Infraestructura o entes territoriales, incluyéndose los pasos urbanos.
 
 (Decreto 2976 de 2010, artículo 2).
-
-ARTÍCULO
 
 ## art:2.4.7.2.2 — Definiciones
 
@@ -20228,8 +18052,6 @@ Para efectos de interpretación y aplicación del presente Capítulo se describe
 
 (Decreto 2976 de 2010, artículo 3).
 
-ARTÍCULO
-
 ## art:2.4.7.2.3 — Pasos urbanos existentes
 
 En pasos urbanos existentes al 6 de agosto de 2010, donde no se pretenda realizar ampliación de las vías a cargo de la Nación, las fajas de retiro obligatorio o área de reserva o de exclusión serán definidas por la autoridad municipal, las cuales deberán cumplir con las normas aplicables para el tipo de proyecto así como ajustarse al Plan de Ordenamiento Territorial de cada Municipio, garantizando la normal operación de la vía. En estos casos la competencia de la Nación será de paramento a paramento de la vía, siempre y cuando la vía continúe a cargo de la Nación. Cuando se requiera expedir licencias de construcción, la entidad territorial deberá consultar ante la entidad que administra la vía con el fin de conocer si existe o no proyectos de ampliación, cambio de categoría y/o construcción de vías en esta.
@@ -20237,8 +18059,6 @@ En pasos urbanos existentes al 6 de agosto de 2010, donde no se pretenda realiza
 PARÁGRAFO . Los permisos y autorizaciones para proyectos de construcción, mejoramiento, mantenimiento y ampliación de edificaciones colindantes a los pasos urbanos de las vías de la Red Vial Nacional, deberán ser tramitados ante el respectivo Ente Territorial.
 
 (Decreto 2976 de 2010, artículo 4).
-
-ARTÍCULO
 
 ## art:2.4.7.2.4 — Ampliación, cambio de categoría y/o construcción de vías en pasos urbanos
 
@@ -20250,8 +18070,6 @@ PARÁGRAFO 2. Los proyectos de infraestructura a operar en calzada sencilla, dob
 
 (Decreto 2976 de 2010, artículo 5).
 
-ARTÍCULO
-
 ## art:2.4.7.2.5 — Adquisición de zonas requeridas para ejecución de proyectos de infraestructura
 
 Para los efectos de lo previsto en el artículo 3 de la Ley 1228 de 2008, en cuanto a declaración de interés público de las Fajas de Retiro Obligatorio. las Entidades Adscritas al Ministerio de Transporte que tengan la función de Administrar la Red Vial Nacional, los Departamentos, los Distritos Especiales y los Municipios cuando requieran adelantar obras destinadas al mejoramiento, mantenimiento y rehabilitación, realizarán la adquisición únicamente de las zonas de terreno que se requieran de conformidad con los estudios, diseños y/o necesidades técnicas para adelantar la ejecución de las obras públicas, garantizando condiciones de seguridad y operación de la vía.
@@ -20260,15 +18078,11 @@ PARÁGRAFO . En concordancia con lo ordenado en el artículo 35 de la Ley 105 de
 
 (Decreto 2976 de 2010, artículo 6).
 
-ARTÍCULO
-
 ## art:2.4.7.2.6 — Desarrollo de obras en fajas de retiro
 
 En las fajas de retiro obligatorio o área de reserva o de exclusión, definidas en la Ley 1128 de 2008 y en el presente Capítulo, solo se permite el desarrollo de obras que permitan facilitar el transporte y tránsito y de los servicios conexos a la vía, tales como construcción de carriles de aceleración y desaceleración; así como la ubicación o instalación de elementos necesarios que aseguren y organicen la funcionalidad de la vía, como elementos de semaforización y señalización vial vertical, mobiliario urbano, ciclorutas. zonas peatonales, estaciones de peajes, pesajes, centros de control operacional, áreas de servicio, paraderos de servicio público, áreas de descanso para usuarios, y en general las construcciones requeridas para la administración, operación, mantenimiento y servicios a los usuarios de la vía, contempladas por la entidad que administra la vía dentro del diseño del proyecto vial.
 
 (Decreto 2976 de 2010, artículo 7).
-
-ARTÍCULO
 
 ## art:2.4.7.2.7 — Fajas de retiro en variantes
 
@@ -20281,8 +18095,6 @@ Para las variantes que forman parte de la Red Vial a cargo de la Nación, se est
 3. Carreteras de tercer orden treinta (30) metros.
 
 (Decreto 2976 de 2010, artículo 8).
-
-ARTÍCULO
 
 ## art:2.4.7.2.8 — Desarrollo de obras colindantes en vías no urbanas o variantes
 
@@ -20298,8 +18110,6 @@ PARÁGRAFO 4. Con el objeto de garantizar la primacía del interés general repr
 
 (Decreto 2976 de 2010, artículo 9).
 
-ARTÍCULO
-
 ## art:2.4.7.2.9 — Protección al espacio público
 
 De conformidad con lo dispuesto en el parágrafo 2 del artículo 13 de la Ley 105 de 1993, en el artículo 4 de la Ley 1228 de 2008 y el presente Capítulo, los Alcaldes Municipales y demás autoridades de policía deberán proteger y conservar el espacio público representado en las fajas de retiro obligatorio o áreas de reserva o de exclusión definidas en la Ley 1228 de 2008, por lo tanto adelantaran los procedimientos administrativos y/o judiciales que se requieran para efectos de evitar que particulares adelanten construcciones nuevas en dichas zonas.
@@ -20310,15 +18120,11 @@ PARÁGRAFO 2. Para los efectos previstos en el presente artículo, sin perjuicio
 
 (Decreto 2976 de 2010, artículo 10).
 
-ARTÍCULO
-
 ## art:2.4.7.2.10 — Reglamentación de los entes territoriales
 
 La reglamentación sobre las fajas de retiro obligatorio o área de reserva o de exclusión en pasos urbanos de la Red Nacional de Carreteras a cargo de los Departamentos, Distritos Especiales y Municipios, será establecida por las respectivas Entidades Territoriales, propendiendo en todo momento por un adecuado, armónico y articulado desarrollo de su territorio con las políticas del Gobierno Nacional.
 
 (Decreto 2976 de 2010, artículo 11).
-
-ARTÍCULO
 
 ## art:2.4.7.2.11 — Redes de servicios públicos
 
@@ -20327,8 +18133,6 @@ Los Entes Territoriales, las Empresas de Servicios Públicos, las Empresas Mixta
 PARÁGRAFO 1. La información correspondiente a las redes o cualquier infraestructura de transporte o suministro de bienes y servicios, deberá ser reportada en formatos compatibles con los utilizados en el Sistema Integral Nacional de Carreteras - SING.
 
 (Decreto 2976 de 2010, artículo 12).
-
-ARTÍCULO
 
 ## art:2.4.7.2.12 — Arborización
 
@@ -20346,8 +18150,6 @@ TÍTULO 8
 
 ESTATUTOS DE LA "ORDEN AL MÉRITO JULIO GARAVITO"
 
-ARTÍCULO
-
 ## art:2.4.8.1 — Estatutos
 
 La "Orden al Mérito Julio Garavito", establecida por el artículo 2 de la Ley 135 de 1963, destinada a exaltar los méritos de los ingenieros colombianos, se regirá por los Estatutos que se indican a continuación.
@@ -20356,13 +18158,9 @@ CAPÍTULO 1
 
 Otorgamiento
 
-ARTÍCULO
-
 ## art:2.4.8.1.1 — Reconocimiento
 
 La condecoración "Orden al Mérito Julio Garavito" se concederá a los ingenieros colombianos titulados con matricula profesional, que hubieren prestado importantes servicios a la Nación que los haga merecedores de esta alta distinción, a juicio del Consejo de la Orden.
-
-ARTÍCULO
 
 ## art:2.4.8.1.2 — Otorgamiento, diplomas e insignias
 
@@ -20372,49 +18170,33 @@ CAPÍTULO 2
 
 Consejo
 
-ARTÍCULO
-
 ## art:2.4.8.2.1 — Composición del consejo
 
 El Consejo de la Orden estará integrado por el Ministro de Transporte, quien lo presidirá; el Presidente de la Sociedad Colombiana de Ingenieros; el representante de la Comisión de Ex presidentes de la misma sociedad; un ingeniero delegado por el Consejo Profesional Nacional de Ingeniería y el Director del Instituto Nacional de Vías -Invías, quien actuará como Secretario del Consejo de la Orden.
-
-ARTÍCULO
 
 ## art:2.4.8.2.2 — Miembros del consejo
 
 El Presidente de la República es Gran Maestre de la Orden; el Ministro de Transporte, Gran Canciller y el Director del Instituto Nacional de Vías, Canciller de la Orden.
 
-ARTÍCULO
-
 ## art:2.4.8.2.3 — Reuniones
 
 El Consejo tendrá reuniones ordinarias trimestralmente y extraordinarias cuando el Ministro de Transporte lo disponga o cuando alguno de sus miembros lo solicite; en este caso, el interesado dirigirá una comunicación escrita al Director del Invías, en calidad de Secretario del Consejo, en la que se expongan los motivos que justifiquen la reunión extraordinaria.
-
-ARTÍCULO
 
 ## art:2.4.8.2.4 — Convocatoria
 
 La convocatoria para cualquier reunión se hará por escrito dirigido a cada uno de los miembros por el Secretario del Consejo.
 
-ARTÍCULO
-
 ## art:2.4.8.2.5 — Quórum
 
 El Consejo podrá deliberar con la asistencia de tres (3) de sus miembros.
-
-ARTÍCULO
 
 ## art:2.4.8.2.6 — Deliberaciones y actas
 
 El consejo empleará para sus deliberaciones el sistema acostumbrado en las corporaciones públicas. El Secretario hará constar todos los pormenores de la sesión, en el acta respectiva, la cual tendrá carácter absolutamente reservado.
 
-ARTÍCULO
-
 ## art:2.4.8.2.7 — Concesión de la Orden o la promoción dentro de ella
 
 Una vez aprobada la concesión de la Orden o la promoción dentro de ella, el Consejo determinará el grado correspondiente, según lo previsto en los Estatutos. Si el expediente se hallare incompleto, será devuelto al proponente.
-
-ARTÍCULO
 
 ## art:2.4.8.2.8 — Atribuciones del consejo
 
@@ -20438,8 +18220,6 @@ CAPÍTULO 3
 
 Condecoraciones
 
-ARTÍCULO
-
 ## art:2.4.8.3.1 — Grados
 
 La "Orden al Mérito Julio Garavito" tendrá los siguientes grados:
@@ -20457,8 +18237,6 @@ La "Orden al Mérito Julio Garavito" tendrá los siguientes grados:
 - Oficial
 
 - Caballero
-
-ARTÍCULO
 
 ## art:2.4.8.3.2 — Requisitos
 
@@ -20480,13 +18258,9 @@ PARÁGRAFO 1: En caso de duda sobre el grado que pudiere corresponder al condeco
 
 PARÁGRAFO 2: Si el Presidente de la República saliente fuere ingeniero, el entrante, una vez en ejercicio de sus funciones, le conferirá la Gran Cruz con Placa de Oro. A este acto concurrirán todos los miembros del Consejo.
 
-ARTÍCULO
-
 ## art:2.4.8.3.3 — Entrega
 
 El Presidente de la República podrá entregar las insignias de la Orden, siempre que así lo desee o disponga. Las condecoraciones de Gran Cruz y Placa de Gran Oficial serán entregadas por el Ministro de Transporte a quienes se hallen en la capital o por conducto de los Gobernadores cuando residan fuera de Bogotá En el exterior se hará por el representante diplomático de Colombia. Las demás condecoraciones podrán ser entregadas por el Ministro de Transporte o por quien este disponga.
-
-ARTÍCULO
 
 ## art:2.4.8.3.4 — Diplomas
 
@@ -20508,13 +18282,9 @@ Registrada en el libro bajo el No. ___
 
 El Gran Canciller, ___”
 
-ARTÍCULO
-
 ## art:2.4.8.3.5 — Proposición de otorgamiento
 
 Solo podrán presentar proposición de promoción o de otorgamiento de la Orden, los miembros del Consejo y las sociedades regionales de ingeniería de índole académica, con personería jurídica. Estas proposiciones deberán presentarse por escrito en nota de estilo.
-
-ARTÍCULO
 
 ## art:2.4.8.3.6 — Promociones en los grados
 
@@ -20524,8 +18294,6 @@ a) Un tiempo mínimo de tres años en el grado anterior, y
 
 b) Méritos nuevos que justifiquen plenamente el ascenso. En todo caso, se requerirá siempre presentar al Consejo de la Orden un expediente comprobatorio de los hechos.
 
-ARTÍCULO
-
 ## art:2.4.8.3.7 — Retorno de la venera por promoción en los grados
 
 Quien haya sido promovido dentro de la Orden estará en la obligación de retornar al Secretario del Consejo de la Orden, la venera anterior. El Consejo podrá decretar las medidas que juzgue oportunas en caso de la no observancia de esta obligación.
@@ -20533,8 +18301,6 @@ Quien haya sido promovido dentro de la Orden estará en la obligación de retorn
 CAPÍTULO 4
 
 Insignias
-
-ARTÍCULO
 
 ## art:2.4.8.4.1 — Características
 
@@ -20554,8 +18320,6 @@ Gran Cruz con Placa de Oro. Es igual a la anterior, pero la placa estrellada es 
 
 La cinta o banda de estos dos últimos grados debe llevarse siempre por debajo del chaleco, excepto en las ocasiones en las que se halle presente el Jefe del Estado. En estos casos se llevará por encima del chaleco.
 
-ARTÍCULO
-
 ## art:2.4.8.4.2 — Uso de la insignia
 
 Con el traje ordinario podrá ostentarse los distintivos de la Orden por medio de la cintilla o de la roseta correspondiente al grado, colocada en el ojal superior de la solapa izquierda.
@@ -20563,8 +18327,6 @@ Con el traje ordinario podrá ostentarse los distintivos de la Orden por medio d
 CAPÍTULO 5
 
 Sanciones
-
-ARTÍCULO
 
 ## art:2.4.8.5.1 — Faltas
 
@@ -20582,19 +18344,13 @@ e) Por usar una insignia de la Orden en grado superior al que se haya conferido.
 
 f) Por cancelación de la matricula profesional, decretada por el Consejo Profesional Nacional de Ingeniería.
 
-ARTÍCULO
-
 ## art:2.4.8.5.2 — Procedimiento
 
 Para decretar la perdida de la condecoración debe mediar un proceso de averiguación de los hechos que puedan ocasionar tal medida, del cual resulten pruebas suficientes e irrecusables. En el fallo del Consejo anulando la condecoración se mencionará la disposición que la concedió.
 
-ARTÍCULO
-
 ## art:2.4.8.5.3 — Sanción
 
 El que sin derecho a ello, se permita usar la condecoración de la "Orden al Mérito Julio Garavito", se hará acreedor a las sanciones que fijen los jueces, de acuerdo con las leyes y demás disposiciones pertinentes.
-
-ARTÍCULO
 
 ## art:2.4.8.5.4 — Presupuesto
 
@@ -20612,15 +18368,11 @@ CAPÍTULO I
 
 Objeto, actores y principios
 
-ARTÍCULO
-
 ## art:2.4.9.1.1 — Objeto
 
 El presente Título tiene por objeto reglamentar el artículo 84 de la Ley 1523 de 2012 y el Mantenimiento de Emergencias de que tratan los artículos 12 y 63 de la Ley 1682 de 2013, así como incorporar y fijar condiciones para la Gestión del Riesgo de Desastres en el Sector Transporte, y establecer los mecanismos para dar respuesta a las emergencias generadas por eventos hidroclimatólogicos, climáticos, telúricos, antropogénicos, terroristas, entre otros, y las actuaciones a seguir en caso de declaratoria de desastre o calamidad pública.
 
 (Decreto 602 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.9.1.2 — 1.2
 
@@ -20644,8 +18396,6 @@ Actores de la Gestión del Riesgo de Desastres en el Sector Transporte.Sin perju
 
 (Decreto 602 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.9.1.3 — Principios
 
 En el marco de la prevalencia del interés general, la Gestión del Riesgo de Desastres en el Sector Transporte debe estar orientada por los principios de que tratan los artículos 3 de la Ley 1523 de 2012 y 8 de la Ley 1682 de 2013.
@@ -20656,15 +18406,11 @@ CAPÍTULO ll
 
 Gestión del Riesgo en el Sector Transporte
 
-ARTÍCULO
-
 ## art:2.4.9.2.1 — La Gestión del Riesgo de Desastres
 
 La Gestión del Riesgo de Desastres en el Sector Transporte es un proceso orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas, regulaciones, instrumentos, medidas y acciones permanentes, para el conocimiento y la reducción del riesgo y para el manejo de desastres en el Sector Transporte, con el propósito de contribuir a la seguridad, el bienestar, la calidad de vida de las personas, el desarrollo sostenible y la movilidad.
 
 (Decreto 602 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.9.2.2 — 2.2
 
@@ -20673,8 +18419,6 @@ Conocimiento y reducción del riesgo en la estructuración y ejecución de plane
 PARÁGRAFO . Deberá incorporarse la reducción de riesgos de desastres en los planes y proyectos de infraestructura de cada una de las entidades del sector, contando, entre otros, con metodologías de planificación y con normas técnicas de diseño a lo largo del ciclo de formulación y ejecución de proyectos.
 
 (Decreto 602 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.9.2.3 — Plan Nacional de Gestión del Riesgo de Desastres
 
@@ -20686,23 +18430,17 @@ CAPÍTULO III
 
 Alcance, respuesta, intervenciones y reconocimientos económicos en situaciones de Mantenimiento de Emergencias
 
-ARTÍCULO
-
 ## art:2.4.9.3.1 — Alcance del Mantenimiento de Emergencias
 
 Se refiere a la ejecución de las actividades, intervenciones y las obras de que tratan los artículos 12 y 63 de la Ley 1682 de 2013, necesarias para dar respuesta a las emergencias en infraestructura de transporte, las cuales solo se efectuarán con el objeto de restablecer el tránsito u operación en condiciones de seguridad.
 
 (Decreto 602 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.9.3.2 — Respuesta al Mantenimiento de Emergencias
 
 En caso de alteración o interrupción de las condiciones normales de funcionamiento de la infraestructura de transporte, que tengan como causa un evento de fuerza mayor o caso fortuito, se deberá dar respuesta teniendo en cuenta los protocolos de cada entidad pública, así como la distribución de obligaciones y responsabilidades que se hayan determinado contractualmente, conforme la normativa vigente.
 
 (Decreto 602 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.9.3.3 — Reconocimientos económicos
 
@@ -20714,8 +18452,6 @@ CAPÍTULO IV
 
 Sistemas de Información
 
-ARTÍCULO
-
 ## art:2.4.9.4.1 — Fortalecimiento de la Información para la Gestión del Riesgo en el Sector Transporte
 
 Las entidades del sector transporte adoptarán y promoverán estándares, protocolos, soluciones tecnológicas y procesos para el fortalecimiento y manejo de la información de la gestión del riesgo a nivel nacional y, de acuerdo a ello, implementarán en cada una de las entidades del sector transporte mecanismos para fortalecer el conocimiento, la reducción y el manejo del riesgo.
@@ -20725,8 +18461,6 @@ Las entidades del sector transporte adoptarán y promoverán estándares, protoc
 CAPÍTULO V
 
 Atención de Desastres
-
-ARTÍCULO
 
 ## art:2.4.9.5.1 — Atención de emergencias viales o de cualquier otra naturaleza en situaciones de desastre
 
@@ -20738,15 +18472,11 @@ Para los efectos previstos en los artículos 84 de la Ley 1523 de 2012 y 63 de l
 
 (Decreto 602 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.9.5.2 — Obligaciones
 
 De conformidad con el artículo 84 de la Ley 1523 de 2012 y el artículo 63 de la Ley 1682 de 2013, para el caso de desastres, una vez el privado, contratista y/o concesionario sea requerido, será obligación de este atender de manera inmediata las emergencias viales o de cualquier otra naturaleza que se presenten en su zona de actividad o de influencia.
 
 (Decreto 602 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.9.5.3 — Estimación de cantidades de obra y/o equipos
 
@@ -20754,15 +18484,11 @@ La autoridad o entidad pública competente requerirá previamente al contratista
 
 (Decreto 602 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.9.5.4 — Plazo
 
 El plazo para ejecutar las medidas a que haya lugar por parte del contratista y/o concesionario y/o agente privado será el tiempo estrictamente necesario para restablecer las condiciones mínimas de tránsito u operación o superar las situaciones de desastre.
 
 (Decreto 602 de 2017, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.9.5.5 — Reconocimiento económico
 
@@ -20774,8 +18500,6 @@ Los reconocimientos económicos que deban efectuarse en favor de los contratista
 
 (Decreto 602 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.9.5.6 — Proporcionalidad
 
 El Gobierno Nacional tendrá especial cuidado de no imponer a contratistas, concesionarios y/o agentes privados cargas que no atiendan a la proporcionalidad y razonabilidad de los eventos previstos en el artículo 84 de la Ley 1523 de 2012 y 63 de la Ley 1682 de 2013,
@@ -20785,8 +18509,6 @@ El Gobierno Nacional tendrá especial cuidado de no imponer a contratistas, conc
 CAPÍTULO VI
 
 Disposiciones Finales
-
-ARTÍCULO
 
 ## art:2.4.9.6.1 — 6.1
 
@@ -20806,8 +18528,6 @@ PARÁGRAFO 3. Los costos de estudios, diseños y trámites ante la autoridad amb
 
 (Decreto 602 de 2017, art. 1)
 
-ARTÍCULO
-
 ## art:2.4.9.6.2 — 6.2
 
 Control de tráfico, condiciones de tránsito y seguridad en situaciones de Mantenimiento de Emergencias, desastre o calamidad pública. Solo se podrá autorizar el tránsito u operación en la infraestructura de transporte una vez los responsables de la atención y respuesta de la situación de Mantenimiento de Emergencias, desastre o calamidad pública hayan restablecido, rehabilitado o reconstruido las áreas afectadas en condiciones técnicas y de seguridad.
@@ -20822,13 +18542,9 @@ TÍTULO 10
 
 FINANCIACIÓN DE PROYECTOS PARA LA INTERVENCIÓN DE LA RED VIAL, FLUVIAL Y LOS AEROPUERTOS REGIONALES DE COMPETENCIA DE LAS ENTIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.4.10.1 — Objeto
 
 El presente título tiene por objeto definir los criterios de priorización que deberán aplicar el Instituto Nacional de Vías - INVIAS y la Unidad Administrativa Especial de Aeronáutica Civil - AEROCIVIL, en el evento en que consideren apoyar la financiación de proyectos para la intervención de la red vial, fluvial y los aeropuertos regionales de competencia de las entidades territoriales.
-
-ARTÍCULO
 
 ## art:2.4.10.2 — Criterios de priorización
 
@@ -20858,19 +18574,13 @@ TITULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.5.1.1 — Objeto y principios
 
 La presente Parte tiene como objeto reglamentar los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte (SIT), establecer los parámetros para expedir los reglamentos técnicos, estándares, protocolos y uso de la tecnología en los proyectos de SIT, cumpliendo con los principios rectores del transporte, tránsito e infraestructura, como el de la libre competencia y el de la iniciativa privada, a los cuales solamente se aplicarán las restricciones establecidas por la ley y los Convenios Internacionales.
 
-ARTÍCULO
-
 ## art:2.5.1.2 — Ámbito de aplicación
 
 Las disposiciones contenidas en esta Parte se aplicarán integralmente a la definición, diseño, organización, funcionamiento y administración de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte (SIT), así como a todos los actores estratégicos de los sistemas en sus distintos órdenes y niveles, incluyendo las entidades territoriales, descentralizadas y demás entidades que participen en ellos.
-
-ARTÍCULO
 
 ## art:2.5.1.3 — Definiciones
 
@@ -20893,8 +18603,6 @@ Para la interpretación y aplicación de la presente Parte se tendrán en cuenta
 8. Subsistemas de Información para la Gestión: son los subsistemas que componen el Sistema Inteligente Nacional para la Infraestructura, el Tránsito y el Transporte (SINITI) administrado por el Ministerio de Transporte, que permiten el intercambio de información entre los actores estratégicos de cada Sistema Inteligente para la Infraestructura, el Tránsito y el Transporte que se implemente en el país.
 
 9. TAG RFID: dispositivo electrónico pasivo que se emplea para la Identificación por Radio Frecuencia (RFID), según el estándar ISO 18000-63 o aquel que lo modifique o actualice, previa adopción por parte del Ministerio de Transporte.
-
-ARTÍCULO
 
 ## art:2.5.1.4 — Principios
 
@@ -20928,8 +18636,6 @@ TÍTULO 2
 
 ENTE RECTOR Y COMISIÓN INTERSECTORIAL DE LOS SISTEMAS INTELIGENTES PARA LA INFRAESTRUCTURA, EL TRÁNSITO Y EL TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.5.2.1 — Ente rector de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte
 
 El ente rector de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte (SIT) es el Ministerio de Transporte, el cual es la autoridad encargada de formular la política pública de los sistemas y regular su procedimiento e implementación.
@@ -20938,13 +18644,9 @@ PARÁGRAFO 1. El Ministerio de Transporte podrá crear un grupo de trabajo que s
 
 PARÁGRAFO 2. Las entidades públicas previstas en la ley, de acuerdo con sus competencias en cada caso, serán las encargadas de ejercer la inspección, vigilancia y control de los actores estratégicos y sus sistemas.
 
-ARTÍCULO
-
 ## art:2.5.2.2 — Comisión intersectorial de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte
 
 Créese una comisión intrasectorial, como instancia de coordinación y seguimiento del desarrollo de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte (SIT).
-
-ARTÍCULO
 
 ## art:2.5.2.3 — Integrantes de la Comisión intersectorial
 
@@ -20972,8 +18674,6 @@ La Comisión estará integrada por:
 
 PARÁGRAFO : Una vez la Unidad de Planeación de Infraestructura de Transporte (UPIT) y la Comisión de Regulación de Infraestructura y Transporte (CRIT) entren en funcionamiento, los directores o sus delegados harán parte de la Comisión.
 
-ARTÍCULO
-
 ## art:2.5.2.4 — Funciones de la Comisión intersectorial
 
 La Comisión tendrá las siguientes funciones:
@@ -20996,13 +18696,9 @@ La Comisión tendrá las siguientes funciones:
 
 9. Las demás funciones propias de su naturaleza.
 
-ARTÍCULO
-
 ## art:2.5.2.5 — Secretaría Técnica de la Comisión intersectorial
 
 La Comisión Intersectorial de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte contará con una secretaría técnica que será ejercida por el Ministerio de Transporte.
-
-ARTÍCULO
 
 ## art:2.5.2.6 — 2.6
 
@@ -21022,8 +18718,6 @@ Funciones de la Secretaría Técnica de la Comisión Intersectorial de los Siste
 
 7. Las demás funciones propias de su naturaleza o las que le sean asignadas por la Comisión
 
-ARTÍCULO
-
 ## art:2.5.2.7 — Sesiones de la Comisión intersectorial de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte
 
 La Comisión se reunirá ordinariamente cada dos (2) meses, previa convocatoria realizada por la Secretaría Técnica y extraordinariamente a solicitud del Ministro de Transporte o su delegado
@@ -21036,13 +18730,9 @@ PARÁGRAFO . A las sesiones convocadas por la Comisión podrán ser invitados, c
 
 PARÁGRAFO TRANSITORIO. La primera sesión ordinaria será convocada dentro de los dos (2) meses siguientes a la entrada en vigencia de la presente Parte.
 
-ARTÍCULO
-
 ## art:2.5.2.8 — Quórum
 
 La Comisión podrá deliberar con tres (3) o más de sus miembros y las decisiones serán adoptadas por mayoría simple de los asistentes.
-
-ARTÍCULO
 
 ## art:2.5.2.9 — Comité Técnico
 
@@ -21052,13 +18742,9 @@ TÍTULO 3
 
 SISTEMA INTELIGENTE NACIONAL PARA LA INFRAESTRUCTURA, EL TRÁNSITO Y EL TRANSPORTE (SINITT)
 
-ARTÍCULO
-
 ## art:2.5.3.1 — Sistema Inteligente Nacional para la Infraestructura, el Tránsito y el Transporte, SINITT
 
 El Ministerio de Transporte realizará todas las gestiones necesarias para la creación, implementación y funcionamiento del Sistema Inteligente Nacional para la Infraestructura, el Tránsito y el Transporte, SINITI.
-
-ARTÍCULO
 
 ## art:2.5.3.2 — Subsistemas del SINITT
 
@@ -21071,8 +18757,6 @@ El SINITT estará compuesto entre otros, por los siguientes subsistemas de infor
 3. Subsistema de Información para la gestión de la autenticación de actores estratégicos de los Sistemas Inteligentes para la Infraestructura, el Tránsito y el Transporte (SIGAAE): su objetivo principal es permitir el acceso al SINITI o los subsistemas de gestión, a los actores debidamente habilitados.
 
 PARÁGRAFO : El Ministerio de Transporte regulará los Subsistemas del SINITT.
-
-ARTÍCULO
 
 ## art:2.5.3.3 — De los actores
 
@@ -21092,27 +18776,19 @@ TÍTULO 4
 
 RECAUDO ELECTRÓNICO VEHICULAR
 
-ARTÍCULO
-
 ## art:2.5.4.1 — Recaudo electrónico vehicular (REV)
 
 El recaudo electrónico vehicular es un sistema inteligente para la infraestructura, el tránsito y el transporte, que permite a los usuarios pagar mediante una transacción electrónica bienes o servicios, mediante la utilización de tecnologías de apoyo, instaladas en la infraestructura o en dispositivos a bordo del vehículo.
 
 PARÁGRAFO . Todos los proyectos de REV que se definan, implementen o requieran actualización de forma directa o a través de terceros con posterioridad a la entrada en vigencia de la presente Parte, deberán ajustarse a la política pública y cumplir lo exigido en este Título y en la regulación que para tal efecto expida el Ministerio de Transporte.
 
-ARTÍCULO
-
 ## art:2.5.4.2 — Dispositivo a bordo del vehículo
 
 Es el equipo instalado en un vehículo, utilizado para efectos de identificación y recaudo electrónico vehicular. Para el caso específico de peajes electrónicos en Colombia, el dispositivo abordo es la etiqueta de radiofrecuencia (TAG RFID) según el estándar ISO 18000-63 o aquel que lo modifique, actualice o adicione, previa adopción por parte del Ministerio de Transporte.
 
-ARTÍCULO
-
 ## art:2.5.4.3 — Interoperabilidad del sistema de Recaudo Electrónico Vehicular (IPIREV)
 
 El Ministerio de Transporte, con el objeto de garantizar la interoperabilidad del sistema, regulará las condiciones financieras, técnicas y jurídicas mínimas que debe cumplir una entidad para ejercer el rol de operador, intermediador o cualquier otra función definida por el Ministerio de Transporte en el sistema I P/REV.
-
-ARTÍCULO
 
 ## art:2.5.4.4 — Marca de interoperabilidad
 
@@ -21130,19 +18806,13 @@ TITULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.6.1.1 — Objeto
 
 El presente Decreto tiene por objeto reglamentar la identificación de los parqueaderos preferenciales de vehículos eléctricos, incluyendo el logotipo y color.
 
-ARTÍCULO
-
 ## art:2.6.1.2 — Ámbito de Aplicación
 
 Las disposiciones previstas en esta parte se aplicarán a las entidades públicas y a los establecimientos comerciales que ofrezcan al público sitios de parqueo, en los municipios de categoría especial y los de primera y segunda categoría, y de conformidad con el porcentaje mínimo del total de plazas de parqueo de que trata el artículo 7 de la Ley 1964 de 2019.
-
-ARTÍCULO
 
 ## art:2.6.1.3 — Definiciones
 
@@ -21156,8 +18826,6 @@ TITULO 2
 
 LOGOTIPO PARA LA IDENTIFICACIÓN DE PARQUEADEROS PREFERENCIALES
 
-ARTÍCULO
-
 ## art:2.6.1.4 — Logotipo y Color
 
 Los parqueaderos preferenciales habilitados para vehículos eléctricos de que trata la Ley 1964 de 2019 deberán identificarse con el siguiente el logotipo y color:
@@ -21165,8 +18833,6 @@ Los parqueaderos preferenciales habilitados para vehículos eléctricos de que t
 VER IMAGEN:
 
 PARÁGRAFO : Para la identificación de la zona de parqueo de los diferentes vehículos impulsados a través de energía eléctrica, se utilizará un logotipo, el cual estará representado por dos características como son: el color de fondo verde y un pictograma representado por la letra P de parqueo, adicionado por un cable con enchufe o clavija de corriente en color blanco, en los términos del artículo anterior.
-
-ARTÍCULO
 
 ## art:2.6.1.5 — Ubicación del logotipo
 
@@ -21182,8 +18848,6 @@ Estas señalizaciones deberán estar construidas en materiales que garanticen re
 
 PARÁGRAFO 2. Los parqueaderos preferenciales habilitados, para el uso de vehículos eléctricos, podrán disponer de infraestructura de carga, acorde a la capacidad de suministro de energía eléctrica del lugar.
 
-ARTÍCULO
-
 ## art:2.6.1.6 — Color
 
 El color definido para el fondo del logotipo de parqueaderos preferenciales para vehículos eléctricos en Colombia es el verde, que en la carta de color RAL corresponde al número 6018, en la carta de PANTONE al 363 y su equivalente en CMYK es C70 M0 Y90 K0, de la siguiente manera:
@@ -21194,13 +18858,9 @@ TITULO 3
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.6.1.7 — Transitoriedad
 
 Las disposiciones previstas en la presente parte, deberán ser adoptadas en un término máximo de doce (12) meses contado a partir de la entrada en vigencia del presente Decreto.
-
-ARTÍCULO
 
 ## art:2.6.1.8 — Control y vigilancia
 
@@ -21213,8 +18873,6 @@ DISPOSICIONES FINALES
 PARTE I
 
 DEROGATORIA Y VIGENCIA
-
-ARTÍCULO
 
 ## art:3.1.1 — Derogatoria Integral
 
@@ -21230,8 +18888,6 @@ Este Decreto regula íntegramente las materias contempladas en él. Por consigui
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente Decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente Decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente Decreto rige a partir de la fecha de su publicación en el Diario Oficial.
@@ -21243,91 +18899,3 @@ Dado en Bogotá, D.C., a los 26 días del mes de mayo del año 2015
 NATALIA ABELLO VIVES
 
 LA MINISTRA DE TRANSPORTE
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

@@ -8,7 +8,7 @@ ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html
-verificado: 2026-09-22
+verificado: 2026-09-23
 ---
 
 ## art:1 — 
@@ -139,9 +139,12 @@ Se garantiza el derecho a la honra. La ley señalará la forma de su protección
 ## art:22 — 
 ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 1. DE LOS DERECHOS FUNDAMENTALES
 
-La paz es un derecho y un deber de obligatorio cumplimiento. 
+La paz es un derecho y un deber de obligatorio cumplimiento.
 
-ARTÍCULO 22A. <Artículo adicionado por el artículo 1 del Acto Legislativo 5 de 2017. El nuevo texto es el siguiente:> Como una garantía de No Repetición y con el fin de contribuir a asegurar el monopolio legítimo de la fuerza y del uso de las armas por parte del Estado, y en particular de la Fuerza Pública, en todo el territorio, se prohíbe la creación, promoción, instigación, organización, instrucción, apoyo, tolerancia, encubrimiento o favorecimiento, financiación o empleo oficial y/o privado de grupos civiles armados organizados con fines ilegales de cualquier tipo, incluyendo los denominados autodefensas, paramilitares, así como sus redes de apoyo, estructuras o prácticas, grupos de seguridad con fines ilegales u otras denominaciones equivalentes.
+## art:22a — Artículo adicionado por el artículo 1 del Acto Legislativo 5 de 2017. El nuevo texto es el siguiente:
+ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 1. DE LOS DERECHOS FUNDAMENTALES
+
+Como una garantía de No Repetición y con el fin de contribuir a asegurar el monopolio legítimo de la fuerza y del uso de las armas por parte del Estado, y en particular de la Fuerza Pública, en todo el territorio, se prohíbe la creación, promoción, instigación, organización, instrucción, apoyo, tolerancia, encubrimiento o favorecimiento, financiación o empleo oficial y/o privado de grupos civiles armados organizados con fines ilegales de cualquier tipo, incluyendo los denominados autodefensas, paramilitares, así como sus redes de apoyo, estructuras o prácticas, grupos de seguridad con fines ilegales u otras denominaciones equivalentes.
 
 La ley regulará los tipos penales relacionados con estas conductas, así como las sanciones disciplinarias y administrativas correspondientes.
 
@@ -211,19 +214,7 @@ El superior no podrá agravar la pena impuesta cuando el condenado sea apelante 
 ## art:32 — 
 ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 1. DE LOS DERECHOS FUNDAMENTALES
 
-El delincuente sorprendido en flagrancia podrá ser aprehendido y llevado ante el juez por cualquier persona. Si los agentes de la autoridad lo persiguieren y se refugiare en su propio domicilio, podrán penetrar en él, para el acto de la aprehensión; si se acogiere a domicilio ajeno, deberá preceder requerimiento al morador. 
-
-Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+El delincuente sorprendido en flagrancia podrá ser aprehendido y llevado ante el juez por cualquier persona. Si los agentes de la autoridad lo persiguieren y se refugiare en su propio domicilio, podrán penetrar en él, para el acto de la aprehensión; si se acogiere a domicilio ajeno, deberá preceder requerimiento al morador.
 
 ## art:33 — 
 ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 1. DE LOS DERECHOS FUNDAMENTALES
@@ -242,7 +233,7 @@ ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 1.
 
 La extradición se podrá solicitar, conceder u ofrecer de acuerdo con los tratados públicos y, en su defecto, con la ley. 
 
-<Aparte tachado INEXEQUIBLE> Además, la extradición de los colombianos por nacimiento se concederá por delitos cometidos en el exterior, considerados como tales en la legislación penal colombiana. La Ley reglamentará la materia.
+<Aparte tachado INEXEQUIBLE> Además, la extradición de los colombianos por nacimiento se concederá por delitos cometidos en el exterior, considerados como tales en la legislación penal colombiana. [TACHADO: La Ley reglamentará la materia].
 
 La extradición no procederá por delitos políticos. 
 
@@ -587,19 +578,7 @@ PARÁGRAFO TRANSITORIO. Dentro de los 6 meses siguientes a la promulgación del 
 ## art:66 — 
 ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 2. DE LOS DERECHOS SOCIALES, ECONOMICOS Y CULTURALES
 
-Las disposiciones que se dicten en materia crediticia podrán reglamentar las condiciones especiales del crédito agropecuario, teniendo en cuenta los ciclos de las cosechas y de los precios, como también los riesgos inherentes a la actividad y las calamidades ambientales. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Las disposiciones que se dicten en materia crediticia podrán reglamentar las condiciones especiales del crédito agropecuario, teniendo en cuenta los ciclos de las cosechas y de los precios, como también los riesgos inherentes a la actividad y las calamidades ambientales.
 
 ## art:67 — 
 ubicacion: TITULO II. DE LOS DERECHOS, LAS GARANTIAS Y LOS DEBERES > CAPITULO 2. DE LOS DERECHOS SOCIALES, ECONOMICOS Y CULTURALES
@@ -863,18 +842,6 @@ Ningún colombiano por nacimiento podrá ser privado de su nacionalidad. La cali
 
 Quienes hayan renunciado a la nacionalidad colombiana podrán recobrarla con arreglo a la ley.
 
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
-
 ## art:97 — 
 ubicacion: TITULO III. DE LOS HABITANTES Y DEL TERRITORIO > CAPITULO 1. DE LA NACIONALIDAD
 
@@ -1129,7 +1096,7 @@ ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 1. DE LA ESTRUCTUR
 Ninguna autoridad del Estado podrá ejercer funciones distintas de las que le atribuyen la Constitución y la ley.
 
 ## art:122 — Artículo corregido por Aclaración publicada en la Gaceta No. 125
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente. 
 
@@ -1150,7 +1117,7 @@ La anterior disposición aplicará igualmente a los miembros de la Fuerza Públi
 Como aporte a las garantías de no repetición, el Estado colombiano garantizará que los hechos que ocurrieron en el pasado no se repitan, y para ello implementará las medidas referidas en el Acuerdo General de Paz en esta materia. Quienes sean sancionados por graves violaciones de derechos humanos o graves infracciones al derecho Internacional Humanitario, no podrán hacer parte de ningún organismo de seguridad, defensa del Estado, Rama Judicial ni órganos de control.
 
 ## art:123 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Son servidores públicos los miembros de las corporaciones públicas, los empleados y trabajadores del Estado y de sus entidades descentralizadas territorialmente y por servicios. 
 
@@ -1159,12 +1126,12 @@ Los servidores públicos están al servicio del Estado y de la comunidad; ejerce
 La ley determinará el régimen aplicable a los particulares que temporalmente desempeñen funciones públicas y regulará su ejercicio.
 
 ## art:124 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 La ley determinará la responsabilidad de los servidores públicos y la manera de hacerla efectiva.
 
 ## art:125 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley. 
 
@@ -1181,7 +1148,7 @@ PARÁGRAFO. <Parágrafo adicionado por el artículo 6 del Acto Legislativo 1 de 
 PARÁGRAFO TRANSITORIO. <Parágrafo INEXEQUIBLE>
 
 ## art:126 — Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Los servidores públicos no podrán en ejercicio de sus funciones, nombrar, postular, ni contratar con personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente.
 
@@ -1193,10 +1160,10 @@ Salvo los concursos regulados por la ley, la elección de servidores públicos a
 
 Quien haya ejercido en propiedad alguno de los cargos en la siguiente lista, no podrá ser reelegido para el mismo. Tampoco podrá ser nominado para otro de estos cargos, ni ser elegido a un cargo de elección popular, sino un año después de haber cesado en el ejercido <sic> de sus funciones:
 
-<Aparte tachado INEXEQUIBLE> Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados, Miembro del Consejo Nacional Electoral, Fiscal General de la Nación, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República y Registrador Nacional del Estado Civil.
+<Aparte tachado INEXEQUIBLE> Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, [TACHADO: Miembro de la Comisión de Aforados], Miembro del Consejo Nacional Electoral, Fiscal General de la Nación, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República y Registrador Nacional del Estado Civil.
 
 ## art:127 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Los servidores públicos no podrán celebrar, por sí o por interpuesta persona, o en representación de otro, contrato alguno con entidades públicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales. 
 
@@ -1211,24 +1178,24 @@ La utilización del empleo para presionar a los ciudadanos a respaldar una causa
 <Inciso derogado por el artículo 3 del Acto Legislativo 2 de 2015>
 
 ## art:128 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley. 
 
 Entiéndese por tesoro público el de la Nación, el de las entidades territoriales y el de las descentralizadas.
 
 ## art:129 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Los servidores públicos no podrán aceptar cargos, honores o recompensas de gobiernos extranjeros u organismos internacionales, ni celebrar contratos con ellos, sin previa autorización del Gobierno.
 
 ## art:130 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Habrá una Comisión Nacional del Servicio Civil responsable de la administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que tengan carácter especial.
 
 ## art:131 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA
 
 Compete a la ley la reglamentación del servicio público que prestan los notarios y registradores, la definición del régimen laboral para sus empleados y lo relativo a los aportes como tributación especial de las notarías, con destino a la administración de justicia. 
 
@@ -1307,7 +1274,7 @@ Se prohibe <sic> al Congreso y a cada una de sus Cámaras:
 
 6. Autorizar viajes al exterior con dineros del erario, salvo en cumplimiento de misiones específicas, aprobadas al menos por las tres cuartas partes de los miembros de la respectiva Cámara.
 
-## art:137 — Ver Notas del Editor
+## art:137 — 
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 1. DE LA COMPOSICION Y LAS FUNCIONES
 
 Cualquier comisión permanente podrá emplazar a toda persona natural o jurídica, para que en sesión especial rinda declaraciones orales o escritas, que podrán exigirse bajo juramento, sobre hechos relacionados directamente con las indagaciones que la comisión adelante. 
@@ -1343,14 +1310,14 @@ El Congreso tiene su sede en la capital de la República.
 
 Las cámaras podrán por acuerdo entre ellas trasladar su sede a otro lugar y, en caso de perturbación del orden público, podrán reunirse en el sitio que designe el Presidente del Senado.
 
-## art:141 — Ver Notas del Editor
+## art:141 — 
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 2. DE LA REUNION Y EL FUNCIONAMIENTO
 
 El Congreso se reunirá en un solo cuerpo únicamente para la instalación y clausura de sus sesiones, para dar posesión al Presidente de la República, para recibir a Jefes de Estado o de Gobierno de otros países, para elegir Contralor General de la República y Vicepresidente cuando sea menester reemplazar el electo por el pueblo, así como decidir sobre la moción de censura, con arreglo al artículo 135. 
 
 En tales casos el Presidente del Senado y el de la Cámara serán respectivamente Presidente y Vicepresidente del Congreso.
 
-## art:142 — Ver Notas del Editor
+## art:142 — 
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 2. DE LA REUNION Y EL FUNCIONAMIENTO
 
 Cada Cámara elegirá, para el respectivo período constitucional, comisiones permanentes que tramitarán en primer debate los proyectos de acto legislativo o de ley. 
@@ -1507,19 +1474,7 @@ PARÁGRAFO TRANSITORIO. <Parágrafo adicionado por el artículo 4 del Acto Legis
 
 El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
 
-<Inciso INEXEQUIBLE> Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+<Inciso INEXEQUIBLE> [TACHADO: Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia].
 
 ## art:153 — 
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 3. DE LAS LEYES
@@ -1657,7 +1612,7 @@ La ley quedará derogada si así lo determina la mitad más uno de los votantes 
 
 No procede el referendo respecto de las leyes aprobatorias de tratados internacionales, ni de la Ley de Presupuesto, ni de las referentes a materias fiscales o tributarias.
 
-## art:171 — Ver Notas del Editor
+## art:171 — 
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 4. DEL SENADO
 
 El Senado de la República estará integrado por cien miembros elegidos en circunscripción nacional. 
@@ -1712,10 +1667,10 @@ En los juicios que se sigan ante el Senado, se observarán estas reglas:
 
 4. El Senado podrá cometer la instrucción de los procesos a una diputación de su seno, reservándose el juicio y la sentencia definitiva, que será pronunciada en sesión pública, por los dos tercios, al menos, de los votos de los Senadores presentes.
 
-## art:176 — Ver Notas del Editor
+## art:176 — Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2013. El nuevo texto es el siguiente:
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 5. DE LA CAMARA DE REPRESENTANTES.
 
-<Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2013. El nuevo texto es el siguiente:> La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
+La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
 
 <Inciso modificado por el artículo 6 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:> Cada departamento y el Distrito capital de Bogotá, conformará una circunscripción territorial. Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000. La circunscripción territorial conformada por el departamento de San Andrés, Providencia y Santa Catalina, elegirá adicionalmente un (1) Representante por la comunidad raizal de dicho departamento, de conformidad con la ley.
 
@@ -1828,18 +1783,6 @@ PARAGRAFO.
 <Inciso 1o. Acto Legislativo 1 de 2011 INEXEQUIBLE, Sentencia C-1056-12> 
 
 Las causales 2 y 3 no tendrán aplicación cuando medie fuerza mayor.
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
 
 ## art:184 — 
 ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 6. DE LOS CONGRESISTAS.
@@ -1993,7 +1936,7 @@ No podrá ser elegido Presidente de la República el ciudadano que a cualquier t
 
 No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya tenido la investidura de Vicepresidente o ejercido cualquiera de los siguientes cargos:
 
-<Aparte tachado INEXEQUIBLE> Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Auditor General de la República, Director General de la Policía, Gobernador de departamento o Alcalde.
+<Aparte tachado INEXEQUIBLE> Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, Comisión Nacional de Disciplina Judicial, [TACHADO: Miembro de la Comisión de Aforados] o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Auditor General de la República, Director General de la Policía, Gobernador de departamento o Alcalde.
 
 ## art:198 — 
 ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
@@ -2114,7 +2057,7 @@ La delegación exime de responsabilidad al delegante, la cual corresponderá exc
 La ley establecerá los recursos que se pueden interponer contra los actos de los delegatarios.
 
 ## art:212 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION
 
 El Presidente de la República, con la firma de todos los ministros, podrá declarar el Estado de Guerra Exterior. Mediante tal declaración, el Gobierno tendrá las facultades estrictamente necesarias para repeler la agresión, defender la soberanía, atender los requerimientos de la guerra, y procurar el restablecimiento de la normalidad. 
 
@@ -2125,7 +2068,7 @@ Mientras subsista el Estado de Guerra, el Congreso se reunirá con la plenitud d
 Los decretos legislativos que dicte el Gobierno suspenden las leyes incompatibles con el Estado de Guerra, rigen durante el tiempo que ellos mismos señalen y dejarán de tener vigencia tan pronto se declare restablecida la normalidad. El Congreso podrá, en cualquier época, reformarlos o derogarlos con el voto favorable de los dos tercios de los miembros de una y otra cámara.
 
 ## art:213 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION
 
 En caso de grave perturbación del orden público que atente de manera inminente contra la estabilidad institucional, la seguridad del Estado, o la convivencia ciudadana, y que no pueda ser conjurada mediante el uso de las atribuciones ordinarias de las autoridades de Policía, el Presidente de la República, con la firma de todos los ministros, podrá declarar el Estado de Conmoción Interior, en toda la República o parte de ella, por término no mayor de noventa días, prorrogable hasta por dos períodos iguales, el segundo de los cuales requiere concepto previo y favorable del Senado de la República. 
 
@@ -2138,7 +2081,7 @@ Dentro de los tres días siguientes a la declaratoria o prórroga del Estado de 
 En ningún caso los civiles podrán ser investigados o juzgados por la justicia penal militar.
 
 ## art:214 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION
 
 Los Estados de Excepción a que se refieren los artículos anteriores se someterán a las siguientes disposiciones: 
 
@@ -2155,7 +2098,7 @@ Los Estados de Excepción a que se refieren los artículos anteriores se someter
 6. El Gobierno enviará a la Corte Constitucional al día siguiente de su expedición, los decretos legislativos que dicte en uso de las facultades a que se refieren los artículos anteriores, para que aquella decida definitivamente sobre su constitucionalidad. Si el Gobierno no cumpliere con el deber de enviarlos, la Corte Constitucional aprehenderá de oficio y en forma inmediata su conocimiento.
 
 ## art:215 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 6. DE LOS ESTADOS DE EXCEPCION
 
 Cuando sobrevengan hechos distintos de los previstos en los artículos 212 y 213 que perturben o amenacen perturbar en forma grave e inminente el orden económico, social y ecológico del país, o que constituyan grave calamidad pública, podrá el Presidente, con la firma de todos los ministros, declarar el Estado de Emergencia por períodos hasta de treinta días en cada caso, que sumados no podrán exceder de noventa días en el año calendario. 
 
@@ -2277,7 +2220,7 @@ La equidad, la jurisprudencia, los principios generales del derecho y la doctrin
 ## art:231 — Artículo modificado por el artículo 11 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:
 ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 1. DE LAS DISPOSICIONES GENERALES
 
-<Apartes tachados INEXEQUIBLES, el aparte en letra cursiva corresponde a la corrección introducida en cumplimiento de la Sentencia C-285-16> Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa audiencia pública, de lista de diez elegibles enviada por el Consejo de Gobierno Judicial Consejo Superior de la Judicatura tras una convocatoria pública reglada de conformidad con la ley y adelantada por la Gerencia de la Rama Judicial.
+<Apartes tachados INEXEQUIBLES, el aparte en letra cursiva corresponde a la corrección introducida en cumplimiento de la Sentencia C-285-16> Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa audiencia pública, de lista de diez elegibles enviada por el [TACHADO: Consejo de Gobierno Judicial] Consejo Superior de la Judicatura tras una convocatoria pública reglada de conformidad con la ley [TACHADO: y adelantada por la Gerencia de la Rama Judicial].
 
 En el conjunto de procesos de selección de los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado se atenderá el criterio de equilibrio entre quienes provienen del ejercicio profesional, de la Rama Judicial y de la academia.
 
@@ -2390,8 +2333,13 @@ ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 3. DE LA JURISDICCION CON
 
 La jurisdicción de lo contencioso administrativo podrá suspender provisionalmente, por los motivos y con los requisitos que establezca la ley, los efectos de los actos administrativos que sean susceptibles de impugnación por vía judicial.
 
+## art:238a — CRÉASE LA JURISDICCIÓN AGRARIA Y RURAL
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPÍTULO 3A. DE LA JURISDICCIÓN AGRARIA Y RURAL.
+
+La ley determinará su competencia y funcionamiento, así como el procedimiento especial agrario y rural, con base en los principios y criterios del derecho agrario señalados en la ley, y con la garantía del acceso efectivo a la justicia y la protección a los campesinos y a los Grupos étnicos: Comunidades negras o afrocolombianas, palenqueras, raizales, pueblos y comunidades indígenas, comunidad Rom y las víctimas del conflicto armado.
+
 ## art:239 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 La Corte Constitucional tendrá el número impar de miembros que determine la ley. En su integración se atenderá el criterio de designación de magistrados pertenecientes a diversas especialidades del Derecho. 
 
@@ -2400,12 +2348,12 @@ Los Magistrados de la Corte Constitucional serán elegidos por el Senado de la R
 Los Magistrados de la Corte Constitucional no podrán ser reelegidos.
 
 ## art:240 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 No podrán ser elegidos Magistrados de la Corte Constitucional quienes durante el año anterior a la elección se hayan desempeñado como Ministros del Despacho o Magistrados de la Corte Suprema de Justicia o del Consejo de Estado.
 
 ## art:241 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 A la Corte Constitucional se le confía la guarda de la integridad y supremacía de la Constitución, en los estrictos y precisos términos de este artículo. Con tal fin, cumplirá las siguientes funciones: 
 
@@ -2431,12 +2379,12 @@ A la Corte Constitucional se le confía la guarda de la integridad y supremacía
 
 11. <Numeral adicionado por el artículo 14 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:> Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones.
 
-11. 12. Darse su propio reglamento. 
+[TACHADO: 11.] 12. Darse su propio reglamento. 
 
 PARAGRAFO. Cuando la Corte encuentre vicios de procedimiento subsanables en la formación del acto sujeto a su control, ordenará devolverlo a la autoridad que lo profirió para que, de ser posible, enmiende el defecto observado. Subsanado el vicio, procederá a decidir sobre la exequibilidad del acto.
 
 ## art:242 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 Los procesos que se adelanten ante la Corte Constitucional en las materias a que se refiere este título, serán regulados por la ley conforme a las siguientes disposiciones: 
 
@@ -2451,19 +2399,19 @@ Los procesos que se adelanten ante la Corte Constitucional en las materias a que
 5. En los procesos a que se refiere el numeral 7 del artículo anterior, los términos ordinarios se reducirán a una tercera parte y su incumplimiento es causal de mala conducta, que será sancionada conforme a la ley.
 
 ## art:243 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 Los fallos que la Corte dicte en ejercicio del control jurisdiccional hacen tránsito a cosa juzgada constitucional. 
 
 Ninguna autoridad podrá reproducir el contenido material del acto jurídico declarado inexequible por razones de fondo, mientras subsistan en la Carta las disposiciones que sirvieron para hacer la confrontación entre la norma ordinaria y la Constitución.
 
 ## art:244 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 La Corte Constitucional comunicará al Presidente de la República o al Presidente del Congreso, según el caso, la iniciación de cualquier proceso que tenga por objeto el examen de constitucionalidad de normas dictadas por ellos. Esta comunicación no dilatará los términos del proceso.
 
 ## art:245 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 4. DE LA JURISDICCION CONSTITUCIONAL
 
 El Gobierno no podrá conferir empleo a los Magistrados de la Corte Constitucional durante el período de ejercicio de sus funciones ni dentro del año siguiente a su retiro.
 
@@ -2502,7 +2450,7 @@ El juez que ejerza las funciones de control de garantías, no podrá ser, en nin
 
 La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
 
-2. <Aparte tachado INEXEQUIBLE> Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
+2. <Aparte tachado INEXEQUIBLE> Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, [TACHADO: al solo efecto de determinar su validez].
 
 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
 
@@ -2568,19 +2516,19 @@ ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRAC
 
 <El artículo 17 del Acto Legislativo 2 de 2015 que derogó este artículo fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-285-16, salvo en lo que tiene que ver con la derogatoria, tanto de la expresión "o a los Consejos seccionales, según el caso", como de los numerales 3º y 6º de este artículo. Apartes tachados derogados por el artículo 17 del Acto Legislativo 2 de 2015> 
 
-Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales, según el caso y de acuerdo a la ley, las siguientes atribuciones: 
+Corresponden al Consejo Superior de la Judicatura [TACHADO: o a los Consejos Seccionales, según el caso ]y de acuerdo a la ley, las siguientes atribuciones: 
 
 1. Administrar la carrera judicial. 
 
 2. Elaborar las listas de candidatos para la designación de funcionarios judiciales y enviarlas a la entidad que deba hacerla. Se exceptúa la jurisdicción penal militar que se regirá por normas especiales. 
 
-3. Examinar la conducta y sancionar las faltas de los funcionarios de la rama judicial, así como las de los abogados en el ejercicio de su profesión, en la instancia que señale la ley. 
+[TACHADO: 3. Examinar la conducta y sancionar las faltas de los funcionarios de la rama judicial, así como las de los abogados en el ejercicio de su profesión, en la instancia que señale la ley. ]
 
 4. Llevar el control de rendimiento de las corporaciones y despachos judiciales. 
 
 5. Elaborar el proyecto de presupuesto de la rama judicial que deberá ser remitido al Gobierno, y ejecutarlo de conformidad con la aprobación que haga el Congreso. 
 
-6. Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones. 
+[TACHADO: 6. Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones. ]
 
 7. Las demás que señale la ley.
 
@@ -2604,7 +2552,7 @@ ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRAC
 
 La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial.
 
-<Apartes tachados INEXEQUIBLES, el aparte subrayado corresponde a la corrección introducida en cumplimiento de la Sentencia C-285-16> Estará conformada por siete Magistrados, cuatro de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Consejo de Gobierno Judicial Consejo Superior de la Judicatura previa convocatoria pública reglada adelantada por la Gerencia de la Rama Judicial, y tres de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Presidente de la República, previa convocatoria pública reglada. Tendrán periodos personales de ocho años, y deberán cumplir con los mismos requisitos exigidos para ser Magistrado de la Corte Suprema de Justicia.
+<Apartes tachados INEXEQUIBLES, el aparte subrayado corresponde a la corrección introducida en cumplimiento de la Sentencia C-285-16> Estará conformada por siete Magistrados, cuatro de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el [TACHADO: Consejo de Gobierno Judicial] Consejo Superior de la Judicatura previa convocatoria pública reglada [TACHADO: adelantada por la Gerencia de la Rama Judicial], y tres de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Presidente de la República, previa convocatoria pública reglada. Tendrán periodos personales de ocho años, y deberán cumplir con los mismos requisitos exigidos para ser Magistrado de la Corte Suprema de Justicia.
 
 Los Magistrados de la Comisión Nacional de Disciplina Judicial no podrán ser reelegidos.
 
@@ -2720,18 +2668,6 @@ El Registrador Nacional del Estado Civil será escogido por los Presidentes de l
 La Registraduría Nacional estará conformada por servidores públicos que pertenezcan a una carrera administrativa especial a la cual se ingresará exclusivamente por concurso de méritos y que preverá el retiro flexible de conformidad con las necesidades del servicio. En todo caso, los cargos de responsabilidad administrativa o electoral serán de libre remoción, de conformidad con la ley.
 
 PARÁGRAFO TRANSITORIO. El período de los actuales miembros del Consejo Nacional Electoral y Registrador Nacional del Estado Civil irá hasta el año 2006. La siguiente elección de unos y otro se hará de conformidad con lo dispuesto en el presente Acto Legislativo.
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
 
 ## art:267 — Artículo modificado por el artículo 1 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente:
 ubicacion: TITULO X. DE LOS ORGANISMOS DE CONTROL > CAPITULO 1. DE LA CONTRALORIA GENERAL DE LA REPUBLICA
@@ -3046,12 +2982,12 @@ ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 1. DE LAS DISPOS
 Para la conservación del orden público o para su restablecimiento donde fuere turbado, los actos y órdenes del Presidente de la República se aplicarán de manera inmediata y de preferencia sobre los de los gobernadores; los actos y órdenes de los gobernadores se aplicarán de igual manera y con los mismos efectos en relación con los de los alcaldes.
 
 ## art:297 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 El Congreso Nacional puede decretar la formación de nuevos Departamentos, siempre que se cumplan los requisitos exigidos en la Ley Orgánica del Ordenamiento Territorial y una vez verificados los procedimientos, estudios y consulta popular dispuestos por esta Constitución.
 
 ## art:298 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 Los departamentos tienen autonomía para la administración de los asuntos seccionales y la planificación y promoción del desarrollo económico y social dentro de su territorio en los términos establecidos por la Constitución. 
 
@@ -3060,7 +2996,7 @@ Los departamentos ejercen funciones administrativas, de coordinación, de comple
 La ley reglamentará lo relacionado con el ejercicio de las atribuciones que la Constitución les otorga.
 
 ## art:299 — Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2007. El nuevo texto es el siguiente:
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 En cada departamento habrá una corporación político-administrativa de elección popular que se denominará asamblea departamental, la cual estará integrada por no menos de 11 miembros ni más de 31. Dicha corporación gozará de autonomía administrativa y presupuesto propio, y podrá ejercer control político sobre la administración departamental.
 
@@ -3071,7 +3007,7 @@ Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido 
 Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fijen la ley.
 
 ## art:300 — Artículo modificado por el artículo 2o. del Acto Legislativo No. 1 de 1996. El nuevo texto es el siguiente:
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 Corresponde a las Asambleas Departamentales, por medio de ordenanzas: 
 
@@ -3108,19 +3044,19 @@ Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, las q
 14. <Numeral adicionado por el artículo 4 del Acto Legislativo 1 de 2007. El nuevo texto es el siguiente:> Proponer moción de censura respecto de los Secretarios de Despacho del Gobernador por asuntos relacionados con funciones propias del cargo, o por desatención a los requerimientos y citaciones de la asamblea. La moción de censura deberá ser propuesta por la tercera parte de los miembros que componen la asamblea. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, con audiencia pública del funcionario respectivo. Su aprobación requerirá el voto afirmativo de las dos terceras partes de los miembros que integran la corporación. Una vez aprobada, el funcionario quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos. La renuncia del funcionario respecto del cual se haya promovido moción de censura no obsta para que la misma sea aprobada conforme a lo previsto en este artículo.
 
 ## art:301 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 La ley señalará los casos en los cuales las asambleas podrán delegar en los concejos municipales las funciones que ella misma determine. En cualquier momento, las asambleas podrán reasumir el ejercicio de las funciones delegadas.
 
 ## art:302 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 La ley podrá establecer para uno o varios Departamentos diversas capacidades y competencias de gestión administrativa y fiscal distintas a las señaladas para ellos en la Constitución, en atención a la necesidad de mejorar la administración o la prestación de los servicios públicos de acuerdo con su población, recursos económicos y naturales y circunstancias sociales, culturales y ecológicas. 
 
 En desarrollo de lo anterior, la ley podrá delegar, a uno o varios Departamentos, atribuciones propias de los organismos o entidades públicas nacionales.
 
 ## art:303 — Artículo modificado por el artículo 1 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente:
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 En cada uno de los departamentos habrá un Gobernador que será jefe de la administración seccional y representante legal del departamento; el gobernador será agente del Presidente de la República para el mantenimiento del orden público y para la ejecución de la política económica general, así como para aquellos asuntos que mediante convenios la Nación acuerde con el departamento. Los gobernadores serán elegidos popularmente para períodos institucionales de cuatro (4) años y no podrán ser reelegidos para el período siguiente.
 
@@ -3129,14 +3065,14 @@ La ley fijará las calidades, requisitos, inhabilidades e incompatibilidades de 
 Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá gobernador para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el Presidente de la República designará un Gobernador para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el gobernador elegido.
 
 ## art:304 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 El Presidente de la República, en los casos taxativamente señalados por la ley, suspenderá o destituirá a los gobernadores. 
 
 Su régimen de inhabilidades e incompatibilidades no será menos estricto que el establecido para el Presidente de la República.
 
 ## art:305 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 Son atribuciones del gobernador: 
 
@@ -3171,31 +3107,31 @@ Son atribuciones del gobernador:
 15. Las demás que le señale la Constitución, las leyes y las ordenanzas.
 
 ## art:306 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 Dos o más departamentos podrán constituírse <sic> en regiones administrativas y de planificación, con personería jurídica, autonomía y patrimonio propio. Su objeto principal será el desarrollo económico y social del respectivo territorio. 
 
 <Incisos 2 y 3 INEXEQUIBLES>
 
 ## art:307 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 La respectiva ley orgánica, previo concepto de la Comisión de Ordenamiento Territorial, establecerá las condiciones para solicitar la conversión de la Región en entidad territorial. La decisión tomada por el Congreso se someterá en cada caso a referendo de los ciudadanos de los departamentos interesados. 
 
 La misma ley establecerá las atribuciones, los órganos de administración, y los recursos de las regiones y su participación en el manejo de los ingresos provenientes del Fondo Nacional de Regalías. Igualmente definirá los principios para la adopción del estatuto especial de cada región.
 
 ## art:308 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 La ley podrá limitar las apropiaciones departamentales destinadas a honorarios de los diputados y a gastos de funcionamiento de las asambleas y de las contralorías departamentales.
 
 ## art:309 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 Erígense en departamento las Intendencias de Arauca, Casanare, Putumayo, el Archipiélago de San Andrés, Providencia y Santa Catalina, y las Comisarías del Amazonas, Guaviare, Guainía, Vaupés y Vichada. Los bienes y derechos que a cualquier título pertenecían a las intendencias y comisarías continuarán siendo de propiedad de los respectivos departamentos.
 
 ## art:310 — 
-ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
+ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 2. DEL REGIMEN DEPARTAMENTAL
 
 El Departamento Archipiélago de San Andrés, Providencia y Santa Catalina se regirá, además de las normas previstas en la Constitución y las leyes para los otros departamentos, por las normas especiales que en materia administrativa, de inmigración, fiscal, de comercio exterior, de cambios, financiera y de fomento económico establezca el legislador. 
 
@@ -3298,7 +3234,7 @@ Solo los municipios podrán gravar la propiedad inmueble. Lo anterior no obsta p
 
 La ley destinará un porcentaje de estos tributos, que no podrá exceder del promedio de las sobretasas existentes, a las entidades encargadas del manejo y conservación del ambiente y de los recursos naturales renovables, de acuerdo con los planes de desarrollo de los municipios del área de su jurisdicción.
 
-## art:318 — Ver Notas de Vigencia
+## art:318 — 
 ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 3. DEL REGIMEN MUNICIPAL
 
 Con el fin de mejorar la prestación de los servicios y asegurar la participación de la ciudadanía en el manejo de los asuntos públicos de carácter local, los concejos podrán dividir sus municipios en comunas cuando se trate de áreas urbanas, y en corregimientos en el caso de las zonas rurales. 
@@ -3438,19 +3374,7 @@ Los resguardos son de propiedad colectiva y no enajenable.
 
 La ley definirá las relaciones y la coordinación de estas entidades con aquellas de las cuales formen parte. 
 
-PARAGRAFO. En el caso de un territorio indígena que comprenda el territorio de dos o más departamentos, su administración se hará por los consejos indígenas en coordinación con los gobernadores de los respectivos departamentos. En caso de que este territorio decida constituirse como entidad territorial, se hará con el cumplimiento de los requisitos establecidos en el inciso primero de este artículo. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+PARAGRAFO. En el caso de un territorio indígena que comprenda el territorio de dos o más departamentos, su administración se hará por los consejos indígenas en coordinación con los gobernadores de los respectivos departamentos. En caso de que este territorio decida constituirse como entidad territorial, se hará con el cumplimiento de los requisitos establecidos en el inciso primero de este artículo.
 
 ## art:330 — 
 ubicacion: TITULO XI. DE LA ORGANIZACION TERRITORIAL > CAPITULO 4. DEL REGIMEN ESPECIAL
@@ -3788,19 +3712,7 @@ Se exceptúan:
 
 2. Las destinadas para inversión social. 
 
-3. Las que, con base en leyes anteriores, la Nación asigna a entidades de previsión social y a las antiguas intendencias y comisarías. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+3. Las que, con base en leyes anteriores, la Nación asigna a entidades de previsión social y a las antiguas intendencias y comisarías.
 
 ## art:360 — Artículo modificado por el artículo 1 del Acto Legislativo 5 de 2011. El nuevo texto es el siguiente:
 ubicacion: TITULO XII. DEL REGIMEN ECONOMICO Y DE LA HACIENDA PUBLICA > CAPITULO 4. DE LA DISTRIBUCION DE RECURSOS Y DE LAS COMPETENCIAS
@@ -4007,27 +3919,36 @@ ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION
 
 Queda derogada la Constitución hasta ahora vigente con todas sus reformas. Esta Constitución rige a partir del día de su promulgación.
 
+## art:transitorio-1 — 
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
+
+Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. 
+
+El Congreso así elegido, tendrá el período que termina el 19 de julio de 1994. 
+
+La Registraduría del Estado Civil, abrirá un período de inscripción de cédulas de ciudadanía.
+
 ## art:transitorio-2 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 No podrán ser candidatos en dicha elección los delegatarios de la Asamblea Constituyente de pleno derecho ni los actuales Ministros del Despacho. 
 
 Tampoco podrán serlo los funcionarios de la Rama Ejecutiva que no hubieren renunciado a su cargo antes del 14 de junio de 1991.
 
 ## art:transitorio-3 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Mientras se instala, el 1o. de diciembre de 1991 el nuevo congreso, el actual y sus comisiones entrarán en receso y no podrán ejercer ninguna de sus atribuciones ni por iniciativa propia ni por convocatoria del Presidente de la República.
 
 ## art:transitorio-4 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 El Congreso elegido el 27 de octubre de 1991 sesionará ordinariamente así: 
 
 Del 1o. al 20 de diciembre de 1991 y del 14 de enero al 26 de junio de 1992. A partir del 20 de julio de 1992 su régimen de sesiones será el prescrito en esta Constitución.
 
 ## art:transitorio-5 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Revístese al Presidente de la República de precisas facultades extraordinarias para: 
 
@@ -4042,7 +3963,7 @@ d) Expedir el Presupuesto General de la Nación para la vigencia de 1992;
 e) Expedir normas transitorias para descongestionar los despachos judiciales.
 
 ## art:transitorio-6 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Créase una Comisión Especial de treinta y seis miembros elegidos por cuociente electoral por la Asamblea Nacional Constituyente, la mitad de los cuales podrán ser Delegatarios, que se reunirá entre el 15 de julio y el 4 de octubre de 1991 y entre el 18 de noviembre de 1991 y el día de la instalación del nuevo Congreso. La elección se realizará en sesión convocada para este efecto el 4 de julio de 1991. 
 
@@ -4059,46 +3980,34 @@ c) Reglamentar su funcionamiento.
 PARAGRAFO. Si la Comisión Especial no aprueba antes del 15 de diciembre de 1991 el proyecto de presupuesto para la vigencia fiscal de 1992, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o fusionar empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
 
 ## art:transitorio-7 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 El Presidente de la República designará un representante del Gobierno ante la Comisión Especial, que tendrá voz e iniciativa.
 
 ## art:transitorio-8 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Los decretos expedidos en ejercicio de las facultades de Estado de Sitio hasta la fecha de promulgación del presente Acto Constituyente, continuarán rigiendo por un plazo máximo de noventa días, durante los cuales el Gobierno Nacional podrá convertirlos en legislación permanente, mediante decreto, si la Comisión Especial no los imprueba.
 
 ## art:transitorio-9 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Las facultades extraordinarias para cuyo ejercicio no se hubiere señalado plazo especial, expirarán quince días después de que la Comisión Especial cese definitivamente en sus funciones.
 
 ## art:transitorio-10 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Los decretos que expida el Gobierno en ejercicio de las facultades otorgadas en los anteriores artículos tendrán fuerza de ley y su control de constitucionalidad corresponderá a la Corte Constitucional.
 
 ## art:transitorio-11 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Las facultades extraordinarias a que se refiere el Artículo Transitorio 5, cesarán el día en que se instale el Congreso elegido el 27 de octubre de 1991. 
 
-En la misma fecha la comisión especial creada por el artículo transitorio 6 también cesará en sus funciones. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+En la misma fecha la comisión especial creada por el artículo transitorio 6 también cesará en sus funciones.
 
 ## art:transitorio-12 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Con el fin de facilitar la reincorporación a la vida civil de los grupos guerrilleros que se encuentren vinculados decididamente a un proceso de paz bajo la dirección del Gobierno, éste podrá establecer, por una sola vez, circunscripciones especiales de paz para las elecciones a corporaciones públicas que tendrán lugar el 27 de octubre de 1991, o nombrar directamente por una sola vez, un número plural de Congresistas en cada Cámara en representación de los mencionados grupos en proceso de paz y desmovilizados. 
 
@@ -4107,38 +4016,38 @@ El número será establecido por el Gobierno Nacional, según valoración que ha
 Para los efectos previstos en este artículo, el Gobierno podrá no tener en cuenta determinadas inhabilidades y requisitos necesarios para ser Congresista.
 
 ## art:transitorio-13 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Dentro de los tres años siguientes a la entrada en vigencia de esta Constitución, el Gobierno podrá dictar las disposiciones que fueren necesarias para facilitar la reinserción de grupos guerrilleros desmovilizados que se encuentren vinculados a un proceso de paz bajo su dirección; para mejorar las condiciones económicas y sociales de las zonas donde ellos estuvieran presentes; y para proveer a la organización territorial, organización y competencia municipal, servicios públicos y funcionamiento e integración de los cuerpos colegiados municipales en dichas zonas. 
 
 El Gobierno Nacional entregará informes periódicos al Congreso de la República sobre el cumplimiento y desarrollo de este artículo.
 
 ## art:transitorio-14 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Dentro de la legislatura que se inicia el primero de diciembre de 1991, el Congreso Nacional, el Senado de la República y la Cámara de Representantes expedirán su respectivo reglamento. De no hacerlo, lo expedirá el Consejo de Estado, dentro de los tres meses siguientes.
 
 ## art:transitorio-15 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 La primera elección de Vicepresidente de la República se efectuará en el año de 1994. Entre tanto, para suplir las faltas absolutas o temporales del Presidente de la República se conservará el anterior sistema de Designado, por lo cual, una vez vencido el período del elegido en 1990, el Congreso en pleno elegirá uno nuevo para el período de 1992-1994.
 
 ## art:transitorio-16 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Salvo los casos que señale la Constitución, la primera elección popular de gobernadores se celebrará el 27 de octubre de 1991. 
 
 Los gobernadores elegidos en esa fecha tomarán posesión el 2 de enero de 1992.
 
 ## art:transitorio-17 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 La primera elección popular de Gobernadores en los departamentos del Amazonas, Guaviare, Guainía, Vaupés, y Vichada se hará a más tardar en 1997. 
 
 La ley puede fijar una fecha anterior. Hasta tanto, los gobernadores de los mencionados departamentos serán designados y podrán ser removidos por el Presidente de la República.
 
 ## art:transitorio-18 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Mientras la ley establece el régimen de inhabilidades para los gobernadores, en las elecciones del 27 de octubre de 1991 no podrán ser elegidos como tales: 
 
@@ -4153,7 +4062,7 @@ Mientras la ley establece el régimen de inhabilidades para los gobernadores, en
 La prohibición establecida en el numeral dos de este artículo no se aplica a los miembros de la Asamblea Nacional Constituyente.
 
 ## art:transitorio-19 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1.
 
 Los alcaldes, concejales y diputados que se elijan en 1992 ejercerán sus funciones hasta el 31 de diciembre de 1994.
 
@@ -4282,7 +4191,7 @@ El Presidente de la República, en un plazo no mayor de ocho días hábiles cont
 
 El Presidente de la República reglamentará esta norma y le prestará al ciudadano designado todo el apoyo administrativo y financiero que le fuere indispensable.
 
-## art:transitorio-35 — Ver Notas del Editor
+## art:transitorio-35 — 
 ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 4.
 
 El Consejo Nacional Electoral reconocerá automáticamente personería jurídica a los partidos y movimientos políticos representados en la Asamblea Nacional Constituyente que se lo soliciten.
@@ -4317,19 +4226,7 @@ Son válidas las creaciones de municipios hechas por las Asambleas Departamental
 ## art:transitorio-41 — 
 ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 6.
 
-Si durante los dos años siguientes a la fecha de promulgación de esta Constitución, el Congreso no dicta la ley a que se refieren los artículos 322, 323 y 324, sobre régimen especial para el Distrito Capital de Santa Fe de Bogotá, el Gobierno, por una sola vez expedirá las normas correspondientes. 
-
-Anterior | Siguiente
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Si durante los dos años siguientes a la fecha de promulgación de esta Constitución, el Congreso no dicta la ley a que se refieren los artículos 322, 323 y 324, sobre régimen especial para el Distrito Capital de Santa Fe de Bogotá, el Gobierno, por una sola vez expedirá las normas correspondientes.
 
 ## art:transitorio-42 — 
 ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 6.
@@ -4364,9 +4261,12 @@ ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 7.
 
 El Gobierno Nacional pondrá en funcionamiento, por un período de cinco años, un fondo de solidaridad y emergencia social, adscrito a la Presidencia de la República. Este fondo financiará proyectos de apoyo a los sectores más vulnerables de la población colombiana. 
 
-El fondo deberá buscar, además, recursos de cooperación nacional e internacional. 
+El fondo deberá buscar, además, recursos de cooperación nacional e internacional.
 
-ARTICULO TRANSITORIO 47. La ley organizará para las zonas afectadas por aguda violencia, un plan de seguridad social de emergencia, que cubrirá un período de tres años.
+## art:transitorio-47 — 
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 7.
+
+La ley organizará para las zonas afectadas por aguda violencia, un plan de seguridad social de emergencia, que cubrirá un período de tres años.
 
 ## art:transitorio-48 — 
 ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 7.
@@ -4464,9 +4364,12 @@ Para los efectos de la aplicación de los artículos 346 y 355 constitucionales 
 
 Tratándose de Planes de Desarrollo Departamentales, Distritales y Municipales serán considerados los aprobados por la respectiva Corporación Pública Territorial. 
 
-Si presentado el Proyecto del Plan de Desarrollo por el respectivo Jefe de Administración de la entidad territorial, no fuere expedido por la Corporación Pública antes del vencimiento del siguiente período de sesiones ordinarias a la vigencia de este Acto legislativo, aquél por medio de Decreto le impartirá su validez legal. Dicho Plan regirá por el término establecido en la ley. 
+Si presentado el Proyecto del Plan de Desarrollo por el respectivo Jefe de Administración de la entidad territorial, no fuere expedido por la Corporación Pública antes del vencimiento del siguiente período de sesiones ordinarias a la vigencia de este Acto legislativo, aquél por medio de Decreto le impartirá su validez legal. Dicho Plan regirá por el término establecido en la ley.
 
-ARTÍCULO TRANSITORIO. <Artículo adicionado por el artículo 7 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente:> Todos los Alcaldes y Gobernadores que inicien sus períodos entre la vigencia del presente Acto Legislativo y el 31 de diciembre del año 2003, ejercerán sus funciones por un período equivalente a la mitad del tiempo que haga falta para llegar al 31 de diciembre del año 2007. Sus sucesores se elegirán para un período que terminará el mismo 31 de diciembre del año 2007.
+## art:transitorio-61 — Artículo adicionado por el artículo 7 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente:
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 8.
+
+Todos los Alcaldes y Gobernadores que inicien sus períodos entre la vigencia del presente Acto Legislativo y el 31 de diciembre del año 2003, ejercerán sus funciones por un período equivalente a la mitad del tiempo que haga falta para llegar al 31 de diciembre del año 2007. Sus sucesores se elegirán para un período que terminará el mismo 31 de diciembre del año 2007.
 
 Todos los Gobernadores y Alcaldes elegidos con posterioridad al 29 de octubre del año 2000 y antes de la vigencia del presente acto legislativo, ejercerán sus funciones por un período de tres años. Sus sucesores se elegirán para un período que termina el 31 de diciembre de año 2007.
 
@@ -4553,7 +4456,10 @@ Las anteriores facultades no podrán ser utilizadas para expedir actos legislati
 
 Los decretos con fuerza de ley que se dicten en desarrollo de este artículo tendrán control de constitucionalidad automático posterior a su entrada en vigencia. El procedimiento de revisión de constitucionalidad de estas disposiciones deberá surtirse por parte de la Corte Constitucional dentro de los dos meses siguientes a su expedición.
 
-ARTÍCULO TRANSITORIO. PLAN DE INVERSIONES PARA LA PAZ. <Artículo Transitorio adicionado por el artículo 3 del Acto Legislativo 1 de 2016. El nuevo texto es el siguiente:> El Gobierno nacional durante los próximos veinte años incluirá en el Plan Plurianual de Inversiones del Plan Nacional de Desarrollo, un componente específico para la paz priorizando los ciudadanos y las entidades territoriales más afectadas por la pobreza rural, las economías ilegales, la debilidad institucional y el conflicto armado. Estos recursos serán adicionales a las inversiones ya programadas por las entidades públicas del orden nacional y territorial y se orientarán a cerrar las brechas sociales, económicas e institucionales en dichas entidades territoriales. El Gobierno podrá efectuar los ajustes institucionales y normativos necesarios para ejecutar el componente de paz del Plan Plurianual de Inversiones.
+## art:transitorio-acl01016-3 — PLAN DE INVERSIONES PARA LA PAZ
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 8.
+
+El Gobierno nacional durante los próximos veinte años incluirá en el Plan Plurianual de Inversiones del Plan Nacional de Desarrollo, un componente específico para la paz priorizando los ciudadanos y las entidades territoriales más afectadas por la pobreza rural, las economías ilegales, la debilidad institucional y el conflicto armado. Estos recursos serán adicionales a las inversiones ya programadas por las entidades públicas del orden nacional y territorial y se orientarán a cerrar las brechas sociales, económicas e institucionales en dichas entidades territoriales. El Gobierno podrá efectuar los ajustes institucionales y normativos necesarios para ejecutar el componente de paz del Plan Plurianual de Inversiones.
 
 Las autoridades departamentales, municipales y distritales tendrán la facultad de hacer los ajustes necesarios a sus planes de desarrollo para adecuarlos al Plan de Inversiones para la Paz durante los seis meses siguientes a la adopción de este.
 
@@ -4564,12 +4470,239 @@ ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 8.
 
 <Artículo derogado por el artículo 2 del Acto Legislativo 2 de 2017>
 
+## art:transitorio-acl01017-1 — SISTEMA INTEGRAL DE VERDAD, JUSTICIA, REPARACIÓN Y NO REPETICIÓN (SIVJRNR)
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO I. SISTEMA INTEGRAL DE VERDAD, JUSTICIA, REPARACIÓN Y NO REPETICIÓN.
+
+El Sistema Integral estará compuesto por los siguientes mecanismos y medidas: la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición; la Unidad para la Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado; la Jurisdicción Especial para la Paz; las medidas de reparación integral para la construcción de paz y las garantías de no repetición.
+
+El Sistema Integral parte del principio de reconocimiento de las víctimas como ciudadanos con derechos; del reconocimiento de que debe existir verdad plena sobre lo ocurrido; del principio de reconocimiento de responsabilidad por parte de todos quienes participaron de manera directa o indirecta en el conflicto y se vieron involucrados de alguna manera en graves violaciones a los derechos humanos y graves infracciones al Derecho Internacional Humanitario; del principio de satisfacción de los derechos de las víctimas a la verdad, la justicia, la reparación y la no repetición.
+
+El Sistema es integral, para que las medidas logren un máximo de justicia y de rendición de cuentas sobre las violaciones a los derechos humanos e infracciones al DIH ocurridas a lo largo del conflicto. La integralidad del Sistema contribuye también al esclarecimiento de la verdad del conflicto y la construcción de la memoria histórica.
+
+El Sistema Integral hará especial énfasis en medidas restaurativas y reparadoras, y pretende alcanzar justicia no solo con sanciones retributivas. Uno de los paradigmas orientadores de la JEP será la aplicación de una justicia restaurativa que preferentemente busca la restauración del daño causado y la reparación de las víctimas afectadas por el conflicto, especialmente para acabar la situación de exclusión social que les haya provocado la victimización. La justicia restaurativa atiende prioritariamente las necesidades y la dignidad de las víctimas y se aplica con un enfoque integral que garantiza la justicia, la verdad y la no repetición de lo ocurrido.
+
+Los distintos mecanismos y medidas de verdad, justicia, reparación y no repetición, en tanto parte de un sistema que busca una respuesta integral a las víctimas, no pueden entenderse de manera aislada. Estarán interconectados a través de relaciones de condicionalidad y de incentivos para acceder y mantener cualquier tratamiento especial de justicia, siempre fundados en el reconocimiento de verdad y responsabilidades. El cumplimiento de estas condicionalidades será verificado por la Jurisdicción Especial para la Paz.
+
+PARÁGRAFO 1o. El Sistema Integral tendrá un enfoque territorial, diferencial y de género, que corresponde a las características particulares de la victimización en cada territorio y cada población y en especial a la protección y atención prioritaria de las mujeres y de los niños y niñas víctimas del conflicto armado. El enfoque de género y diferencial se aplicará a todas las fases y procedimientos del Sistema, en especial respecto a todas las mujeres que han padecido o participado en el conflicto.
+
+La conformación de todos los componentes del Sistema Integral deberá tener en cuenta la participación equitativa entre hombres y mujeres con respeto a la diversidad étnica y cultural y los principios de publicidad, transparencia, participación ciudadana, idoneidad ética y criterios de cualificación para su selección.
+
+PARÁGRAFO 2o. El Estado, por intermedio del Gobierno nacional, garantizará la autonomía administrativa y la suficiencia y autonomía presupuestal del SIVJRNR y en especial del componente de justicia, para lo cual podrá hacer uso del Plan de Inversiones para la Paz contenido en el artículo 3o del Acto Legislativo número 01 de 2016.
+
+## art:transitorio-acl01017-2 — LA COMISIÓN PARA EL ESCLARECIMIENTO DE LA VERDAD, LA CONVIVENCIA Y LA NO REPETICIÓN
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO II. COMISIÓN PARA EL ESCLARECIMIENTO DE LA VERDAD, LA CONVIVENCIA Y LA NO REPETICIÓN Y UNIDAD DE BÚSQUEDA DE PERSONAS DADAS
+
+La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición será un ente autónomo del orden nacional con personería jurídica, con autonomía administrativa, presupuestal y técnica, sujeta a un régimen legal propio.
+
+La Comisión será un órgano temporal y de carácter extrajudicial, que busca conocer la verdad de lo ocurrido en el marco del conflicto y contribuir al esclarecimiento de las violaciones e infracciones cometidas en el mismo y ofrecer una explicación amplia de su complejidad a toda la sociedad; promover el reconocimiento de las víctimas y el reconocimiento voluntario de las responsabilidades individuales o colectivas de quienes participaron directa e indirectamente en el conflicto armado; y promover la convivencia en los territorios para garantizar la no repetición. La ley reglamentará el mandato, funciones, composición, y funcionamiento conforme a los principios orientadores dispuestos en el subpunto 5.1.1.1. del Acuerdo Final, incluyendo los mecanismos de rendición de cuentas sobre su gestión, siempre que ellos no menoscaben la autonomía de la Comisión.
+
+Las actividades de la Comisión no tendrán carácter judicial, ni podrán implicar la imputación penal de quienes comparezcan ante ella.
+
+## art:transitorio-acl01017-3 — UNIDAD DE BÚSQUEDA DE PERSONAS DADAS POR DESAPARECIDAS EN EL CONTEXTO Y EN RAZÓN DEL CONFLICTO ARMADO
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO II. COMISIÓN PARA EL ESCLARECIMIENTO DE LA VERDAD, LA CONVIVENCIA Y LA NO REPETICIÓN Y UNIDAD DE BÚSQUEDA DE PERSONAS DADAS
+
+La Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado será un ente del orden nacional con personería jurídica y con autonomía administrativa, presupuestal y técnica. La Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado tendrá carácter humanitario y extrajudicial y dirigirá, coordinará y contribuirá a la implementación de acciones humanitarias encaminadas a la búsqueda y localización de personas dadas por desaparecidas en el contexto y en razón del conflicto armado que se encuentren con vida y en los casos de fallecimiento, cuando sea posible, la identificación y entrega digna de sus restos. La ley reglamentará la naturaleza jurídica, el mandato, funciones, composición, y funcionamiento de la Unidad, incluyendo los mecanismos de rendición de cuentas sobre su gestión, siempre que ellos no menoscaben su autonomía. La ley establecerá las atribuciones necesarias con las que contará la UBPD para cumplir efectivamente su mandato de búsqueda humanitaria y extrajudicial. En todo caso, las actividades de la Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado no podrán sustituir ni impedir las investigaciones de carácter judicial a las que haya lugar en cumplimiento de las obligaciones que tiene el Estado.
+
+Los órganos del Estado brindarán toda la colaboración que requiera la Unidad. Se deberá promover la participación de las víctimas y sus organizaciones en todas las fases del proceso de búsqueda, localización, recuperación, identificación y entrega digna de restos de personas dadas por desaparecidas en el contexto y en razón del conflicto armado.
+
+## art:transitorio-acl01017-4 — EXCEPCIÓN AL DEBER DE DENUNCIA
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO II. COMISIÓN PARA EL ESCLARECIMIENTO DE LA VERDAD, LA CONVIVENCIA Y LA NO REPETICIÓN Y UNIDAD DE BÚSQUEDA DE PERSONAS DADAS
+
+Para garantizar el adecuado funcionamiento de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición y de la Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto, sus funcionarios y el personal que les preste servicios estarán exentos del deber de denuncia y no podrán ser obligados a declarar en procesos judiciales, siempre y cuando el conocimiento de tales hechos haya sido en desarrollo de sus respectivas funciones misionales.
+
+PARÁGRAFO. De ser requeridos por la Jurisdicción Especial para la Paz, por otras autoridades competentes o por la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición, quienes en desarrollo de las funciones propias de la Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado hayan realizado los informes técnico forenses deberán ratificar y explicar lo concerniente a esos informes y los elementos materiales asociados al cadáver.
+
+## art:transitorio-acl01017-5 — JURISDICCIÓN ESPECIAL PARA LA PAZ
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+<Artículo adicionado por el artículo 1 del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:> La Jurisdicción Especial para la Paz (JEP) estará sujeta a un régimen legal propio, con autonomía administrativa, presupuestal y técnica; administrará justicia de manera transitoria y autónoma y conocerá de manera preferente sobre todas las demás jurisdicciones y de forma exclusiva de las conductas cometidas con anterioridad al 1o. de diciembre de 2016, por causa, con ocasión o en relación directa o indirecta con el conflicto armado, por quienes participaron en el mismo, en especial respecto a conductas consideradas graves infracciones al Derecho Internacional Humanitario o graves violaciones de los derechos humanos. Sus objetivos son satisfacer el derecho de las víctimas a la justicia; ofrecer verdad a la sociedad colombiana; proteger los derechos de las víctimas; contribuir al logro de una paz estable y duradera; y adoptar decisiones que otorguen plena seguridad jurídica a quienes participaron de manera directa o indirecta en el conflicto armado interno mediante la comisión de las mencionadas conductas. Respecto de los combatientes de los grupos armados al margen de la ley, el componente de justicia del Sistema solo se aplicará a quienes suscriban un acuerdo final de paz con el Gobierno Nacional. La pertenencia al grupo rebelde será determinada, previa entrega de listados por dicho grupo tras la llegada a las Zonas Veredales Transitorias de Normalización (ZVNT) y a los Puntos Transitorios de Normalización (PTN), a través de un delegado expresamente designado para ello. Estas listas serán recibidas por el Gobierno nacional de buena fe, de conformidad con el principio de confianza legítima, sin perjuicio de las verificaciones correspondientes. La JEP también ejercerá su competencia respecto de las personas que en providencias judiciales hayan sido condenados, procesadas o investigadas por la pertenencia a las FARC-EP, dictadas antes del 1o. de diciembre de 2016, aunque no estuvieren en el listado de dicho grupo. En relación con los integrantes de organizaciones que suscriban acuerdos de paz con el Gobierno, el tratamiento especial de justicia se aplicará también respecto a conductas estrechamente vinculadas al proceso de dejación de armas desarrollado desde el primero de diciembre de 2016 hasta el momento en el que finalice el proceso de extracción de las armas por parte de Naciones Unidas, conforme a lo dispuesto en el Acuerdo Final. La ley definirá las conductas delictivas que se considerarán estrechamente vinculadas al proceso de dejación de armas conforme a lo establecido en el punto 5.1.2 del Acuerdo Final, y la JEP evaluará en cada caso ese vínculo de acuerdo con los parámetros trazados por esa ley.
+
+La ley reglamentará el tratamiento penal diferenciado a que se refiere el numeral 4.1.3.4. del Acuerdo Final en lo relativo a la erradicación voluntaria de cultivos ilícitos, y determinará, conforme a lo establecido en el Acuerdo Final, en qué casos y bajo qué circunstancias corresponde a la jurisdicción ordinaria la investigación y juzgamiento de los delitos de conservación y financiamiento de plantaciones (artículo 375 del Código Penal), tráfico, fabricación o porte de estupefacientes (artículo 376 del Código Penal) y destinación ilícita de muebles o inmuebles (artículo 377 del Código Penal) cometidos por las personas respecto de quienes la JEP tendría competencia.
+
+Si con posterioridad a la entrada en vigencia de este Acto Legislativo y a la finalización del proceso de dejación de armas alguna de las personas sujetas a la jurisdicción de la JEP cometiera un nuevo delito, este será de conocimiento de la justicia ordinaria. Adicionalmente, en esos casos la JEP evaluará si esta nueva conducta, cuando corresponda con las que serían de su competencia, implica un incumplimiento de las condiciones del Sistema, que amerite no aplicarle las sanciones propias o alternativas a las que tendría derecho por los delitos de competencia de la JEP, sino las ordinarias contempladas en la misma JEP, que deberán ser cumplidas en los sitios ordinarios de reclusión.
+
+Cuando se trate de delitos de ejecución permanente atribuibles a cualquiera de las personas sobre las que la JEP tiene competencia, cuya comisión haya comenzado antes del primero de diciembre de 2016, la JEP mantendrá su competencia respecto de ellos si con posterioridad a esa fecha no han cesado sus efectos, e inaplicará las sanciones propias y alternativas si concluye que se incumplieron las condiciones del Sistema. En todo caso, corresponderá a la Jurisdicción Ordinaria la investigación y juzgamiento de los delitos de que trata el Libro Segundo, Capítulo Quinto, Título Décimo del Código Penal, cuando ellos se cometan sobre bienes o activos que no hayan sido incluidos en el inventario definitivo acordado y elaborado durante el tiempo que las FARC-EP permanezcan en las Zonas Veredales Transitorias de Normalización en el proceso de Dejación de Armas, y siempre que se hayan realizado actos de ejecución después de la entrega definitiva de ese inventario.
+
+Corresponderá a la Jurisdicción Ordinaria la investigación y juzgamiento de los delitos de que trata el Libro Segundo, Capítulo Quinto, Título Décimo del Código Penal, cuando ellos se cometan por no combatientes, financiadores o agentes del Estado respecto de bienes inmuebles que hayan sido adquiridos mediante despojo o abandono forzado, siempre que por parte de aquellos se hayan realizado actos de ejecución después de la entrada en vigencia del presente Acto Legislativo.
+
+<Inciso INEXEQUIBLE>
+
+La JEP al adoptar sus resoluciones o sentencias hará una calificación jurídica propia del Sistema respecto a las conductas objeto del mismo, calificación que se basará en el Código Penal colombiano y/o en las normas de Derecho Internacional en materia de Derechos Humanos (DIDH), Derecho Internacional Humanitario (DIH) o Derecho Penal Internacional (DPI), siempre con aplicación obligatoria del principio de favorabilidad.
+
+Para acceder al tratamiento especial previsto en el componente de Justicia del Sistema Integral de Verdad, Justicia, Reparación y No Repetición (SIVJRNR) es necesario aportar verdad plena, reparar a las víctimas y garantizar la no repetición. Aportar verdad plena significa relatar, cuando se disponga de los elementos para ello, de manera exhaustiva y detallada las conductas cometidas y las circunstancias de su comisión, así como las informaciones necesarias y suficientes para atribuir responsabilidades, para así garantizar la satisfacción de los derechos de las víctimas a la reparación y a la no repetición. El deber de aportar verdad no implica la obligación de aceptar responsabilidades. Quien aporte de manera dolosa información falsa, o incumpla cualquiera de las condiciones del Sistema, perderá el tratamiento especial de justicia.
+
+La ley regulará entre otros los principios, organización, competencias entre ellas por el factor personal, procedimientos, participación de las víctimas y régimen de sanciones conforme a lo definido en el Acuerdo de Jurisdicción Especial para la Paz.
+
+PARÁGRAFO 1o. <Aparte tachado INEXEQUIBLE> La creación y el funcionamiento de la Jurisdicción Especial para la Paz no modificarán las normas vigentes aplicables a las personas que hayan ejercido la Presidencia de la República, de conformidad con lo establecido en el artículo 174 de la Constitución Política de Colombia. En caso de que ante la JEP obre una información que comprometa a una persona que haya ejercido la Presidencia de la República, dicha información se remitirá a la Cámara de Representantes para lo de su competencia, [TACHADO: remisión que se efectuará en el momento que se considere adecuado por la JEP, después de haber realizado las verificaciones pertinentes].
+
+PARÁGRAFO 2o. Con el fin de garantizar el funcionamiento y la autonomía administrativa, presupuestal y técnica de la jurisdicción especial para la paz, el Secretario Ejecutivo y el Presidente o la instancia de gobierno de la JEP que los magistrados de la misma definan, ejercerán de manera exclusiva, y solo durante el tiempo de vigencia de la misma, todas las funciones asignadas a la Sala Administrativa del Consejo Superior de la Judicatura establecidas en el Acto Legislativo número 02 de 2015 y en la Ley 270 de 1996 respecto al gobierno y administración de esta Jurisdicción.
+
+## art:transitorio-acl01017-6 — COMPETENCIA PREVALENTE
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+El componente de justicia del SIVJRNR, conforme a lo establecido en el Acuerdo Final, prevalecerá sobre las actuaciones penales, disciplinarias o administrativas por conductas cometidas con ocasión, por causa o en relación directa o indirecta con el conflicto armado, al absorber la competencia exclusiva sobre dichas conductas.
+
+Respecto a las sanciones o investigaciones disciplinarias o administrativas, incluidas las pecuniarias impuestas a personas naturales en cualquier jurisdicción, la competencia de la Jurisdicción Especial para la Paz se limitará bien a anular o extinguir la responsabilidad o la sanción disciplinaria o administrativa impuesta por conductas cometidas con ocasión, por causa o en relación directa o indirecta con el conflicto armado, o bien a revisar dichas sanciones, todo ello a solicitud del sancionado o investigado. En todo caso la solicitud no podrá llevar aparejada la reapertura de una investigación penal por los mismos hechos. En caso de que se solicite la revisión de la sanción impuesta o la extinción de la sanción y responsabilidad, será competente la Sección de Revisión del Tribunal para la Paz. Respecto a los investigados, será competente la Sala de definición de situaciones jurídicas.
+
+## art:transitorio-acl01017-7 — CONFORMACIÓN
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+La Jurisdicción estará compuesta por la Sala de Reconocimiento de Verdad, de Responsabilidad y de Determinación de los Hechos y Conductas, la Sala de Definición de las situaciones jurídicas, salas que desarrollarán su trabajo conforme a criterios de priorización elaborados a partir de la gravedad y representatividad de los delitos y del grado de responsabilidad en los mismos; la Sala de Amnistía o Indulto; el Tribunal para la Paz; la Unidad de Investigación y Acusación, y la Secretaría Ejecutiva. La Jurisdicción contará además con un Presidente.
+
+<Aparte tachado INEXEQUIBLE> El Tribunal para la Paz es el órgano de cierre y la máxima instancia de la Jurisdicción Especial para la Paz. Estará conformado por dos secciones de primera instancia, una Sección de Revisión de Sentencias, una Sección de Apelación y la Sección de Estabilidad y Eficacia. El Tribunal para la Paz estará conformado por un mínimo de 20 magistrados colombianos titulares. Además, se contará con 4 juristas expertos extranjeros que intervendrán. Excepcionalmente, a solicitud de las personas sometidas a su jurisdicción o de oficio, la Sección que vaya a conocer el caso pedirá la intervención, como amicus curiae, de hasta 2 juristas extranjeros de reconocido prestigio. Estos últimos actuarán con la única finalidad de aportar un concepto o amicus curiae sobre la materia del caso bajo estudio, con el fin de obtener elementos de juicio o informaciones relevantes al caso. [TACHADO: Cuando se requiera la intervención de los juristas extranjeros, estos participarán en los debates de la Sección en la que se hubiera requerido su intervención, en las mismas condiciones que los magistrados, pero sin derecho de voto].
+
+<Aparte tachado INEXEQUIBLE> Las Salas de reconocimiento de verdad, de responsabilidad y de determinación de los hechos y conductas; de definición de las situaciones jurídicas; y de amnistía o indulto estarán conformadas por un total de 18 magistrados colombianos. Además, se contará con 6 juristas expertos extranjeros. Excepcionalmente, a solicitud de las personas sometidas a su jurisdicción o de oficio, la Sala que vaya a conocer el caso pedirá la intervención, como amicus curiae, de hasta 2 juristas extranjeros de reconocido prestigio, con el fin de emitir un concepto o amicus curiae sobre la materia del caso bajo estudio, con el fin de obtener elementos de juicio o informaciones relevantes al caso. [TACHADO: Cuando se requiera la intervención de los juristas extranjeros, estos participarán en los debates de la Sala en la que hubiera requerido su intervención, en las mismas condiciones que los magistrados, pero sin derecho de voto.]
+
+Además, estarán a disposición de la JEP 13 magistrados colombianos adicionales en calidad de magistrados suplentes o sustitutos, y 4 juristas expertos extranjeros para intervenir como amicus curiae suplentes o sustitutos. En caso de que se requiera, el pleno de magistrados de la Jurisdicción hará los nombramientos necesarios de la lista de magistrados suplentes o sustitutos o de la lista de juristas extranjeros suplentes o sustitutos, seleccionados por el Comité de Escogencia.
+
+La Unidad de Investigación y Acusación realizará las investigaciones correspondientes y adelantará el ejercicio de la acción penal ante el Tribunal para la Paz, para lo cual podrá solicitar la colaboración de la Fiscalía General de la Nación y establecer acuerdos de cooperación con esta. Igualmente podrá solicitar a otros órganos competentes del Estado o a organizaciones de Derechos Humanos y de víctimas, que informen respecto de hechos sobre los cuales no se cuente con información suficiente. La Unidad contará con un equipo de investigación especial para casos de violencia sexual. El Director de la Unidad será escogido por el Comité de Escogencia señalado en el parágrafo de este artículo. La Unidad estará integrada por un mínimo de 16 fiscales colombianos. Los fiscales serán nombrados y posesionados por el Director de la Unidad, quien tendrá plena autonomía para seleccionarlos y nombrarlos, así como a los demás profesionales que requiera para hacer parte de la Unidad.
+
+Los magistrados y fiscales no tendrán que ser funcionarios de carrera y no se les aplicará ninguna limitación de edad como requisito para su designación o permanencia en el cargo. Igualmente, no se les aplicará el sistema de carrera ni tendrán que pertenecer a la Rama Judicial.
+
+Para ser elegido Magistrado del Tribunal para la Paz deberán reunirse los requisitos señalados en el artículo 232 de la Constitución Política, salvo en lo relacionado con el límite de edad.
+
+Para ser elegido Magistrado de Sala deberán reunirse los mismos requisitos que se requieren para ser Magistrado de Tribunal Superior de Distrito Judicial.
+
+La Secretaría Ejecutiva se encargará de la administración, gestión y ejecución de los recursos de la Jurisdicción Especial para la Paz. El Secretario Ejecutivo podrá adoptar medidas cautelares anticipadas para preservar documentos relacionados con el conflicto armado, conforme a la ley.
+
+Todas las sentencias del Tribunal para la Paz, así como las resoluciones de las Salas de la JEP que definan situaciones jurídicas, harán tránsito a cosa juzgada cuando estén en firme y se garantizará su inmutabilidad.
+
+La Jurisdicción deberá ser conformada con criterios de participación equitativa entre hombres y mujeres, garantías de no discriminación y respeto a la diversidad étnica y cultural.
+
+PARÁGRAFO 1o. Los magistrados de la JEP, el director de la Unidad de Investigación y Acusación, los juristas expertos extranjeros que actuarán en calidad de amicus curiae, el Secretario Ejecutivo de la JEP, el Presidente o Presidenta inicial de la JEP, los comisionados de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición, y el director de la Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado serán seleccionados por un Comité de Escogencia que gozará de autonomía e independencia y que será conformado por reglamento expedido por el Gobierno nacional. El Secretario Ejecutivo de la JEP será designado por el Responsable del Mecanismo de Monitoreo y Verificación de la Organización de Naciones Unidas y confirmado por el Comité de Escogencia.
+
+Los miembros del Comité de Escogencia no asumirán ninguna responsabilidad personal por la selección de los magistrados, comisionados y demás funcionarios que deben escoger en virtud de este artículo transitorio. En relación con los funcionarios de la JEP, el Secretario Ejecutivo nominará a las personas seleccionadas por el Comité, quienes se posesionarán ante el Presidente de la República.
+
+PARÁGRAFO 2o. Mientras se cumple el procedimiento previsto para el nombramiento definitivo del Secretario Ejecutivo de la JEP la función de verificación del cumplimiento de los requisitos para la libertad transitoria, anticipada y condicionada o la privación de la libertad en Unidad Militar o Policial de los miembros de la Fuerza Pública, será cumplida por la persona que ha sido designada como Secretario Ejecutivo de la Jurisdicción Especial para la Paz por el responsable del Mecanismo de Monitoreo y Verificación de la Organización de Naciones Unidas (ONU), según comunicación del 26 de enero de 2017. Estas funciones de Secretario Ejecutivo comenzarán a desarrollarse por esta persona desde la entrada en vigencia del presente acto legislativo, sin necesidad de que entre en funcionamiento la JEP.
+
+## art:transitorio-acl01017-8 — ACCIONES DE TUTELA CONTRA ACCIONES U OMISIONES DE LA JEP
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+La acción de tutela procederá contra las acciones u omisiones de los órganos de la Jurisdicción Especial para la Paz, que hayan violado, violen o amenacen los derechos fundamentales.
+
+La acción de tutela en contra de las providencias judiciales que profiera la JEP procederá solo por una manifiesta vía de hecho o cuando la afectación del derecho fundamental sea consecuencia directa por deducirse de su parte resolutiva y se hubieran agotado todos los recursos al interior de la Jurisdicción Especial para la Paz, no existiendo mecanismo idóneo para reclamar la protección del derecho vulnerado o amenazado. En el caso de violaciones que se realicen por afectación al debido proceso, deberá interponerse tras haber agotado el recurso procedente ante los órganos de la JEP.
+
+<Aparte tachado INEXEQUIBLE> Las peticiones de acción de tutela deberán ser presentadas ante el Tribunal para la Paz, único competente para conocer de ellas. La primera instancia será decidida por la Sección de Revisión. La segunda por la Sección de Apelaciones. El fallo de tutela podrá ser revisado por la Corte Constitucional [TACHADO: de conformidad con las siguientes reglas]:
+
+<Inciso INEXEQUIBLE>
+
+<Aparte tachado INEXEQUIBLE> Las sentencias de revisión serán proferidas por la Sala Plena de la Corte Constitucional. [TACHADO: Si esta encuentra que el derecho invocado ha sido vulnerado, así lo declarará precisando en qué consiste la violación, sin anular, invalidar o dejar sin efectos la decisión del órgano de la Jurisdicción Especial para la Paz ni tampoco excluirse los hechos y conductas analizados en la acción de tutela de la competencia de la Jurisdicción Especial para la Paz. La sentencia será remitida al Tribunal para la Paz para que adopte la decisión que corresponda respetando el derecho amparado. La providencia, resolución o acto del órgano de la JEP expedido en cumplimento de la sentencia de la Corte Constitucional no podrá ser objeto de una nueva acción de tutela.]
+
+## art:transitorio-acl01017-9 — ASUNTOS DE COMPETENCIA
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+<Artículo INEXEQUIBLE>
+
+## art:transitorio-acl01017-10 — REVISIÓN DE SENTENCIAS Y PROVIDENCIAS
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+A petición del condenado la JEP podrá revisar las decisiones sancionatorias de la Procuraduría General de la Nación o de la Contraloría General de la República y las sentencias proferidas por otra jurisdicción por: variación de la calificación jurídica conforme al artículo transitorio 5o y al inciso primero del artículo transitorio 22; por aparición de nuevos hechos que no pudieron ser tenidos en cuenta con anterioridad; o cuando surjan pruebas no conocidas o sobrevinientes no conocidas al tiempo de la condena, todo lo anterior por conductas cometidas por causa, con ocasión o en relación directa o indirecta con el conflicto, o con la protesta social, siempre que se cumplan las condiciones del Sistema.
+
+La revisión de sentencias por la JEP no tendrá nunca como consecuencia la exigencia de responsabilidad de ningún tipo a los jueces que las hubieran proferido como consecuencia del contenido de las mismas, sin perjuicio de la responsabilidad a la que haya lugar por favorecer indebidamente intereses propios o ajenos.
+
+La Corte Suprema de Justicia será la competente para la revisión de las sentencias que haya proferido. Únicamente para quienes hubieran sido condenados teniendo en cuenta su condición de combatientes podrá solicitarse la revisión de las anteriores sentencias ante la Sección de Revisión de la JEP. Para los solos efectos de la revisión de sentencias por parte de la Sección de Revisión de la JEP, se entenderá por combatiente a todos los miembros de la Fuerza Pública y a los miembros de las FARC-EP conforme a los listados entregados por dicho grupo y verificados según lo establecido en el Acuerdo Final o a quien haya sido señalado como tal en una sentencia en firme.
+
+## art:transitorio-acl01017-11 — SUSTITUCIÓN DE LA SANCIÓN PENAL
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+Cuando no proceda la renuncia a la persecución penal, la Sala de Revisión del Tribunal para la Paz, a solicitud de la Sala de Definición de Situaciones Jurídicas, decidirá sobre la sustitución de la sanción penal proferida por la justicia ordinaria, imponiendo las sanciones propias o alternativas de la Jurisdicción Especial para la Paz, siempre y cuando el condenado reconozca verdad completa, detallada y exhaustiva, dependiendo del momento en el que efectúe tal reconocimiento, y siempre que cumpla las demás condiciones del sistema respecto a la satisfacción de los derechos de las víctimas a la reparación y a la no repetición. Dicha sustitución nunca podrá agravar la sanción previamente impuesta.
+
+Cuando la Sección de Revisión del Tribunal para la Paz verifique que el componente de restricción de libertades y derechos que habría de imponerse ya se ha cumplido, así lo declarará en la providencia de sustitución. De lo contrario, ordenará la ejecución de la sanción propia o alternativa del Sistema. En todo caso, la Sección de Revisión ordenará la ejecución del componente restaurativo de la sanción en caso de que proceda.
+
+## art:transitorio-acl01017-12 — PROCEDIMIENTO Y REGLAMENTO
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+Los magistrados que integran la JEP estarán facultados para elaborar las normas procesales que regirán esta jurisdicción y que deberán ser presentadas por el Gobierno nacional al Congreso de la República, incluido el régimen disciplinario aplicable a sus funcionarios que no sean magistrados. Estas normas deberán garantizar los principios de imparcialidad, independencia judicial, debida motivación, publicidad, debido, proceso, contradicción, derecho a la defensa, presunción de inocencia, favorabilidad, libertad de escoger abogado acreditado para ejercer en cualquier país, participación de las víctimas como intervinientes según los estándares nacionales e internacionales y los parámetros establecidos en el Acuerdo Final y doble instancia en el marco de un modelo adversarial. También regularán los parámetros que deberán ser utilizados por la JEP para evaluar si se han presentado o no incumplimientos de las condiciones del sistema, así como la forma de graduar en cada caso las consecuencias que tales incumplimientos acarrean, siempre dentro de los parámetros fijados en el Acuerdo Final.
+
+<Apartes tachados INEXEQUIBLES> El Procurador General de la Nación, por sí o por sus delegados y agentes, [TACHADO: a solicitud de alguno de los magistrados de la sección que conozca del caso], podrá intervenir en las diligencias [TACHADO: que el magistrado establezca], para la defensa de los derechos fundamentales de las víctimas en los procesos que se sigan ante la Jurisdicción Especial para la Paz.
+
+En los supuestos en los que la Sala de Reconocimiento de Verdad y Responsabilidad solicite a la Sección de Revisión del Tribunal para la Paz que haga comparecer a una persona respecto de la cual hubiere fundamentos claros y suficientes que hagan presumir su participación determinante en una de las conductas que trata el numeral 40 del Punto 5.1.2 del Acuerdo Final, la Sala no podrá fundamentar su solicitud, ni la sección podrá ordenarles comparecer con base exclusivamente en los informes recibidos por la JEP, sino que deberán corroborarlos a través de otras pruebas.
+
+Cuando un testigo declare contra alguna persona por conductas de competencia de la Jurisdicción Especial para la Paz a cambio de obtener beneficios procesales o punitivos de cualquier naturaleza, el valor probatorio de su testimonio estará supeditado a que el contenido del mismo sea corroborado por otras pruebas.
+
+En las actuaciones que adelanten los órganos de la Jurisdicción Especial para la Paz no se podrá presumir el carácter masivo o sistemático de las conductas punibles investigadas, ni que el hecho ha sido cometido como parte de un plan o política o como parte de la comisión en gran escala de tales crímenes; todo ello deberá acreditarse de conformidad con prueba legalmente producida.
+
+Sin incluir normas procesales, los magistrados de la JEP adoptarán, en el ejercicio de su autonomía, el reglamento de funcionamiento y organización de la JEP, respetando los principios de imparcialidad, independencia y las garantías del debido proceso, evitando cualquier nueva victimización y prestando el debido apoyo a las víctimas conforme a lo establecido en los estándares internacionales pertinentes. El reglamento precisará las funciones del Presidente y del Secretario Ejecutivo, así como las relaciones entre ellos y los demás órganos de la JEP, establecerá un mecanismo para la integración de la Sección del Tribunal para la Paz que garantice la estabilidad, eficacia y cumplimiento de las resoluciones y sentencias de la JEP, fijará el procedimiento que esta deba aplicar para el desarrollo de sus funciones y señalará los mecanismos de rendición de cuentas sobre la gestión de la JEP, a cargo de su Secretaría Ejecutiva, siempre que no menoscaben su autonomía.
+
+La ley determinará qué actuaciones procesales de las que corresponde desarrollar a las Salas de la JEP deben estar protegidas por la reserva con el fin de garantizar los derechos fundamentales al buen nombre y a la intimidad de todos aquellos cuyas conductas sean competencia de la JEP.
+
+PARÁGRAFO. Las normas que regirán la Jurisdicción Especial de Paz, incluirán garantías procesales, sustanciales, probatorias y de acceso, encaminadas a que las víctimas puedan satisfacer sus derechos a la verdad, justicia y reparación en el marco de la JEP con medidas diferenciales y especiales para quienes se consideren sujetos de especial protección constitucional. Igualmente, deberán garantizar los principios de tratamiento penal especial condicionado a la garantía de los derechos de las víctimas, centralidad de las víctimas, integralidad, debido proceso, no regresividad en el reconocimiento de derechos y enfoque diferencial y de género.
+
+## art:transitorio-acl01017-13 — SANCIONES
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+Las sanciones que imponga la JEP tendrán como finalidad esencial satisfacer los derechos de las víctimas y consolidar la paz. Deberán tener la mayor función restaurativa y reparadora del daño causado, siempre en relación con el grado de reconocimiento de verdad y responsabilidad. Las sanciones podrán ser propias, alternativas u ordinarias y en todos los casos se impondrán en los términos previstos en los numerales 60, 61, 62 y en el listado de sanciones del subpunto 5.1.2 del Acuerdo Final.
+
+## art:transitorio-acl01017-14 — RÉGIMEN SANCIONATORIO DE LOS MAGISTRADOS DE LA JEP
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+<Artículo adicionado por el artículo 1 del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:> Los magistrados de la JEP estarán sometidos al mismo régimen especial penal previsto para los magistrados de la Corte Suprema de Justicia, así como al régimen disciplinario previsto por la ley para jueces y magistrados de las otras jurisdicciones. En todo caso, no podrá exigírseles en ningún tiempo responsabilidad por los votos y opiniones emitidas en sus providencias judiciales, proferidas en ejercicio de su independencia funcional, sin perjuicio de la responsabilidad a la que haya lugar por favorecer indebidamente intereses propios o ajenos. [TACHADO: Una comisión integrada por un magistrado de cada Sala y un magistrado de cada Sección del Tribunal para la Paz que será elegida conforme al reglamento de la JEP, adoptará las medidas disciplinarias que correspondan conforme a la ley].
+
+Los magistrados de la Jurisdicción Especial para la Paz estarán sometidos a las causales de impedimentos definidas por la ley procesal penal vigente.
+
+## art:transitorio-acl01017-15 — ENTRADA EN FUNCIONAMIENTO Y PLAZO PARA LA CONCLUSIÓN DE LAS FUNCIONES DE LA JEP
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+<Artículo adicionado por el artículo 1 del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:> La JEP entrará en funcionamiento a partir de la aprobación de este Acto Legislativo sin necesidad de ninguna norma de desarrollo, sin perjuicio de la aprobación posterior de las normas de procedimiento y lo que establezca el reglamento de dicha jurisdicción.
+
+El plazo para la conclusión de las funciones de la JEP consistentes en la presentación de acusaciones por la Unidad de Investigación y Acusación, de oficio o como consecuencia de las resoluciones de la Sala de Reconocimiento de Verdad, de Responsabilidad y Determinación de los Hechos y las Conductas, será de 10 años contados a partir de la entrada efectiva en funcionamiento de la totalidad de salas y secciones de la JEP, y un plazo posterior de 5 años más para concluir su actividad jurisdiccional, plazo este último que de ser necesario podrá ser prorrogado mediante ley, para concluir su actividad, a solicitud de los magistrados de la JEP. El plazo para recibir informes por la Sala de Reconocimiento de Verdad, de Responsabilidad y Determinación de los Hechos y las conductas será de 2 años desde que se haya constituido la totalidad de las salas y secciones de la JEP y podrá prorrogarse por la misma Sala hasta completar un periodo máximo de 3 años, salvo causa excepcional debidamente motivada en la que el plazo podrá ser moderadamente extendido por la Sala de Reconocimiento de Verdad, de Responsabilidad y Determinación de los Hechos y las Conductas.
+
+En todo caso y sin limitación temporal alguna podrá constituirse, en cualquier momento en que resulte necesaria, la Sección de estabilidad y eficacia de resoluciones y sentencias, de conformidad con lo dispuesto en el inciso 2o. del artículo 7o. transitorio y en el inciso final del artículo 12 transitorio de este Acto Legislativo.
+
+## art:transitorio-acl01017-16 — COMPETENCIA SOBRE TERCEROS
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+Las personas que sin formar parte de las organizaciones o grupos armados, hubieren contribuido de manera directa o indirecta a la comisión de delitos en el marco del conflicto, podrán acogerse a la JEP y recibir el tratamiento especial que las normas determinen, siempre que cumplan con las condiciones establecidas de contribución a la verdad, reparación y no repetición.
+
+<Incisos 2 y 3 INEXEQUIBLES>
+
+## art:transitorio-acl01017-17 — TRATAMIENTO DIFERENCIADO PARA AGENTES DEL ESTADO
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO III. JURISDICCIÓN ESPECIAL PARA LA PAZ.
+
+El componente de Justicia del SIVJRNR también se aplicará respecto de los Agentes del Estado que hubieren cometido delitos relacionados con el conflicto armado y con ocasión de este, aplicación que se hará de forma diferenciada, otorgando un tratamiento equitativo, equilibrado, simultáneo y simétrico. En dicho tratamiento deberá tenerse en cuenta la calidad de garantes de derecho por parte del Estado.
+
+Se entiende por Agentes del Estado a efectos de la Jurisdicción Especial para la Paz toda persona que al momento de la comisión de la presunta conducta criminal estuviere ejerciendo como Miembro de las Corporaciones Públicas, como empleado o trabajador del Estado o de sus Entidades Descentralizadas Territorialmente y por Servicios, que hayan participado en el diseño o ejecución de conductas delictivas, relacionadas directa o indirectamente con el conflicto armado. Para que tales conductas puedan ser consideradas como susceptibles de conocimiento por parte de la Jurisdicción Especial para la Paz, estas debieron realizarse mediante acciones u omisiones cometidas en el marco y con ocasión del conflicto armado interno, y sin ánimo de enriquecimiento personal ilícito, o en caso de que existiera, sin ser este el determinante de la conducta delictiva.
+
+## art:transitorio-acl01017-18 — REPARACIÓN INTEGRAL EN EL SISTEMA INTEGRAL DE VERDAD, JUSTICIA, REPARACIÓN Y NO REPETICIÓN
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO IV. REPARACIÓN INTEGRAL EN EL SISTEMA INTEGRAL DE VERDAD, JUSTICIA, REPARACIÓN Y NO REPETICIÓN.
+
+En el marco del Sistema Integral de Verdad, Justicia, Reparación y No Repetición, el Estado garantizará el derecho a la reparación a las víctimas de graves violaciones a los derechos humanos e infracciones al Derecho Internacional Humanitario que hayan sufrido daños, individual o colectivamente con ocasión del conflicto armado. La reparación será garantizada por el Estado de manera integral, adecuada, diferenciada y efectiva, priorizando la distribución de las medidas de reparación entre las víctimas teniendo en cuenta el universo de víctimas del conflicto armado y buscando la igualdad en el acceso y la equidad en la distribución de los recursos disponibles, y dando preferencia en la atención a los sujetos de especial protección constitucional.
+
+PARÁGRAFO. En los casos en que se aplique amnistía, indulto o renuncia a la persecución penal, no procederán acciones judiciales contra los beneficiarios de tales medidas para la indemnización de las víctimas. En todo caso, deberán contribuir al esclarecimiento de la verdad, a la reparación de las víctimas y garantizar la no repetición.
+
+## art:transitorio-acl01017-19 — SOBRE LA EXTRADICIÓN
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO V. EXTRADICIÓN.
+
+No se podrán conceder la extradición ni tomar medidas de aseguramiento con fines de extradición respecto de hechos o conductas objeto de este Sistema y en particular de la Jurisdicción Especial para la Paz, ocasionados u ocurridos durante el conflicto armado interno o con ocasión de este hasta la finalización del mismo, trátese de delitos amnistiables o de delitos no amnistiables, y en especial por ningún delito político, de rebelión o conexo con los anteriores, ya hubieran sido cometidos dentro o fuera de Colombia.
+
+Dicha garantía de no extradición alcanza a todos los integrantes de las FARC-EP y a personas acusadas de formar parte de dicha organización, por cualquier conducta realizada con anterioridad a la firma del acuerdo final, para aquellas personas que se sometan al SIVJRNR.
+
+Cuando se alegue, respecto de un integrante de las FARC-EP o de una persona acusada de ser integrante de dicha organización, que la conducta atribuida en la solicitud de extradición hubiere ocurrido con posterioridad a la firma del Acuerdo Final, la Sección de Revisión del Tribunal para la Paz evaluará la conducta atribuida para determinar la fecha precisa de su realización y decidir el procedimiento apropiado. En el evento de que la conducta hubiere ocurrido con anterioridad a la firma del Acuerdo Final o cuando se trate de una conducta estrechamente vinculada al proceso de dejación de armas y que hubiere tenido lugar antes de concluir este, la remitirán a la Sala de Reconocimiento para lo de su competencia, en este supuesto excluyendo siempre la extradición. En caso de que la ejecución de la conducta haya comenzado con posterioridad a la firma del Acuerdo Final y no esté estrechamente vinculada al proceso de dejación de armas, la remitirá a la autoridad judicial competente para que sea investigada y juzgada en Colombia, sin excluir la posibilidad de extradición.
+
+Únicamente respecto de conductas cometidas con anterioridad a la firma del acuerdo final, cuando exista una solicitud de extradición respecto de familiares hasta el segundo grado de consanguinidad o primero de afinidad, de integrantes de las FARC-EP o de una persona acusada o señalada en una solicitud de extradición de ser integrante de dicha organización, este supuesto podrá ser sometido a la Sección de Revisión del Tribunal para la Paz para que decida si la solicitud obedece a hechos o conductas relacionados con la pertenencia, o acusación de pertenencia, a las FARC-EP del familiar del solicitado en extradición. De obedecer a esta causa, por tratarse de un señalamiento o acusación por conductas que nunca antes han sido objeto de solicitudes de extradición ni reúnen las condiciones para ello, la Sección podrá denegar la extradición y en ese caso decidir si el hecho o la conducta es competencia del SIVJRNR o si debe ser investigada o juzgada por la jurisdicción penal ordinaria colombiana. El anterior supuesto deberá ser sometido a la Sección de Revisión por cualquiera de los antiguos integrantes de las FARC-EP que hubieren suscrito el Acuerdo Final de Paz.
+
+La JEP deberá resolver las cuestiones que se le planteen referidas a la extradición en un plazo no superior a 120 días, salvo en casos justificados que dependan de la colaboración de otras instituciones.
+
 ## art:transitorio-acl01017-20 — PARTICIPACIÓN EN POLÍTICA
 ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VI. PARTICIPACIÓN EN POLÍTICA.
 
 La imposición de cualquier sanción en la JEP no inhabilitará para la participación política ni limitará el ejercicio de ningún derecho, activo o pasivo, de participación política.
 
 PARÁGRAFO. Respecto a aquellas personas que pertenezcan a organizaciones rebeldes que hayan firmado un acuerdo de paz con el Gobierno, a efectos de reincorporación, quedarán en efecto suspensivo las condenas derivadas de delitos competencia del Tribunal para la Paz impuestas por la justicia ordinaria o disciplinaria, hasta que estas condenas hayan sido tratadas por la Jurisdicción Especial para la Paz para lo de su competencia.
+
+## art:transitorio-acl01017-21 — TRATAMIENTO DIFERENCIADO PARA MIEMBROS DE LA FUERZA PÚBLICA
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VII. DE LAS NORMAS APLICABLES A LOS MIEMBROS DE LA FUERZA PÚBLICA PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN
+
+En virtud del carácter inescindible de la Jurisdicción Especial para la Paz, en relación con los Miembros de la Fuerza Pública que hubieren realizado conductas punibles por causa, con ocasión o en relación directa o indirecta con el conflicto armado, el tratamiento será simétrico en algunos aspectos, diferenciado en otros, pero siempre equitativo, equilibrado y simultáneo.
+
+En consecuencia, las normas contenidas en este capítulo serán aplicables únicamente a los miembros de la Fuerza Pública respecto de conductas punibles cometidas por causa, con ocasión o en relación directa o indirecta con el conflicto armado, sin perjuicio de la aplicación respecto de ellos de las disposiciones contenidas en los capítulos anteriores, siempre que no sean contrarias a la naturaleza de las contenidas en este capítulo.
+
+## art:transitorio-acl01017-22 — CALIFICACIÓN JURÍDICA DE LA CONDUCTA EN LA JURISDICCIÓN ESPECIAL PARA LA PAZ
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VII. DE LAS NORMAS APLICABLES A LOS MIEMBROS DE LA FUERZA PÚBLICA PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN
+
+La Jurisdicción Especial para la Paz al adoptar sus resoluciones o sentencias hará una calificación jurídica propia del Sistema respecto a las conductas objeto del mismo, calificación que se basará, con estricta sujeción al artículo 29 de la Constitución Política, en el Código Penal colombiano vigente al momento de la comisión del hecho, en las normas de Derecho Internacional de los Derechos Humanos (DIDH) y de Derecho Internacional Humanitario (DIH). La JEP respetará las obligaciones internacionales de investigación, juzgamiento y sanción. Lo anterior, siempre con aplicación obligatoria del principio de favorabilidad.
+
+En la valoración de la conducta de los miembros de la Fuerza Pública, también se tendrán en cuenta las reglas operacionales vigentes al momento de la comisión del hecho, siempre que no sean contrarias a la normatividad legal.
 
 ## art:transitorio-acl01017-23 — COMPETENCIA DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ
 ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VII. DE LAS NORMAS APLICABLES A LOS MIEMBROS DE LA FUERZA PÚBLICA PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN
@@ -4588,7 +4721,10 @@ b) Que la existencia del conflicto armado haya influido en el autor, partícipe 
 
 - La selección del objetivo que se proponía alcanzar con la comisión del delito.
 
-ARTÍCULO TRANSITORIO 24. RESPONSABILIDAD DEL MANDO. <Artículo adicionado por el artículo 1 del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:> Para la determinación de la responsabilidad del mando, la Jurisdicción Especial para la Paz aplicará, en el caso de los miembros de la Fuerza Pública, el Código Penal colombiano, el Derecho Internacional Humanitario como ley especial, y las reglas operacionales de la Fuerza Pública en relación con el DIH siempre que ellas no sean contrarias a la normatividad legal.
+## art:transitorio-acl01017-24 — RESPONSABILIDAD DEL MANDO
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VII. DE LAS NORMAS APLICABLES A LOS MIEMBROS DE LA FUERZA PÚBLICA PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN
+
+Para la determinación de la responsabilidad del mando, la Jurisdicción Especial para la Paz aplicará, en el caso de los miembros de la Fuerza Pública, el Código Penal colombiano, el Derecho Internacional Humanitario como ley especial, y las reglas operacionales de la Fuerza Pública en relación con el DIH siempre que ellas no sean contrarias a la normatividad legal.
 
 La determinación de la responsabilidad del mando no podrá fundarse exclusivamente en el rango, la jerarquía o el ámbito de jurisdicción. La responsabilidad de los miembros de la Fuerza Pública por los actos de sus subordinados deberá fundarse en el control efectivo de la respectiva conducta, en el conocimiento basado en la información a su disposición antes, durante, o después de la realización de la respectiva conducta, así como en los medios a su alcance para prevenir que se cometa o se siga cometiendo la conducta punible, siempre y cuando las condiciones fácticas lo permitan, y de haber ocurrido, promover las investigaciones procedentes.
 
@@ -4602,7 +4738,10 @@ c) Que el superior tenga la capacidad efectiva de desarrollar y ejecutar operaci
 
 d) Que el superior tenga la capacidad material y directa de tomar las medidas adecuadas para evitar o reprimir la conducta o las conductas punibles de sus subordinados, siempre y cuando haya de su parte conocimiento actual o actualizable de su comisión.
 
-ARTÍCULO TRANSITORIO 25. SANCIONES EN LA JURISDICCIÓN ESPECIAL PARA LA PAZ. <Artículo adicionado por el artículo 1 del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:> En el caso de miembros de la Fuerza Pública, las sanciones propias del Sistema tendrán un contenido reparador, así como de restricción de libertades y derechos.
+## art:transitorio-acl01017-25 — SANCIONES EN LA JURISDICCIÓN ESPECIAL PARA LA PAZ
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VII. DE LAS NORMAS APLICABLES A LOS MIEMBROS DE LA FUERZA PÚBLICA PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN
+
+En el caso de miembros de la Fuerza Pública, las sanciones propias del Sistema tendrán un contenido reparador, así como de restricción de libertades y derechos.
 
 La ley reglamentará las modalidades de ejecución de las sanciones propias, así como los mecanismos idóneos de monitoreo, vigilancia y control del cumplimiento de dichas sanciones.
 
@@ -4610,7 +4749,15 @@ Las sanciones alternativas u ordinarias aplicables a los miembros de la Fuerza P
 
 Para el caso de las sanciones ordinarias, se podrá obtener redenciones, subrogados penales o beneficios adicionales en la privación de libertad, siempre y cuando el sancionado se comprometa a contribuir con su resocialización a través del trabajo, capacitación o estudio durante el tiempo que permanezca privado de la libertad y a promover actividades orientadas a la no repetición del daño causado una vez puesto en libertad.
 
-ARTÍCULO TRANSITORIO 26. EXCLUSIÓN DE LA ACCIÓN DE REPETICIÓN Y LLAMAMIENTO EN GARANTÍA PARA MIEMBROS DE LA FUERZA PÚBLICA. <Artículo adicionado por el artículo 1 del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:> En el caso de miembros de la Fuerza Pública que hayan cometido conductas punibles por causa, con ocasión o en relación directa o indirecta con el conflicto armado interno, no procederá la acción de repetición y el llamamiento en garantía establecidos en el artículo 90 de la Constitución Política. En todo caso, deberán contribuir al esclarecimiento de la verdad, a la reparación no monetaria de las víctimas y garantizar la no repetición.
+## art:transitorio-acl01017-26 — EXCLUSIÓN DE LA ACCIÓN DE REPETICIÓN Y LLAMAMIENTO EN GARANTÍA PARA MIEMBROS DE LA FUERZA PÚBLICA
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VII. DE LAS NORMAS APLICABLES A LOS MIEMBROS DE LA FUERZA PÚBLICA PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN
+
+En el caso de miembros de la Fuerza Pública que hayan cometido conductas punibles por causa, con ocasión o en relación directa o indirecta con el conflicto armado interno, no procederá la acción de repetición y el llamamiento en garantía establecidos en el artículo 90 de la Constitución Política. En todo caso, deberán contribuir al esclarecimiento de la verdad, a la reparación no monetaria de las víctimas y garantizar la no repetición.
+
+## art:transitorio-acl01017-27 — PREVALENCIA DEL ACUERDO FINAL
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
+
+En caso de que con posterioridad a la aprobación del presente Acto Legislativo, se aprobaran leyes o normas que al otorgar tratamientos diferenciados a agentes del Estado o a otras personas por conductas relacionadas directa o indirectamente con el conflicto armado, fueran combatientes o no combatientes, provocaren que los anteriores sean excluidos de la competencia de la Jurisdicción Especial para la Paz, o tuvieren como resultado la inaplicación de dicha jurisdicción o la inaplicación de las condiciones referidas a las sanciones que se recogen en el Acuerdo Final de 24 de noviembre de 2016 respecto de dichas personas, el Tribunal Especial para la Paz ejercerá su jurisdicción preferente en las materias de su competencia conforme al presente Acto Legislativo.
 
 ## art:transitorio-acl02017-1 — Artículo adicionado por el artículo 1 del Acto Legislativo 2 de 2017. El nuevo texto es el siguiente:
 ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
@@ -4619,7 +4766,10 @@ En desarrollo del derecho a la paz, los contenidos del Acuerdo Final para la ter
 
 Las instituciones y autoridades del Estado tienen la obligación de cumplir de buena fe con lo establecido en el Acuerdo Final. En consecuencia, las actuaciones de todos los órganos y autoridades del Estado, los desarrollos normativos del Acuerdo Final y su interpretación y aplicación deberán guardar coherencia e integralidad con lo acordado, preservando los contenidos, los compromisos, el espíritu y los principios del Acuerdo Final.
 
-ARTÍCULO TRANSITORIO 1o. <Artículo adicionado por el artículo 1 del Acto Legislativo 3 de 2017. El nuevo texto es el siguiente:> Una vez finalizado el proceso de dejación de las armas por parte de las FARC-EP, en los términos del "Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera", suscrito el 24 de noviembre de 2016, se reconocerá de pleno derecho personería jurídica al partido o movimiento político que surja del tránsito de las FARC-EP a la actividad política legal.
+## art:transitorio-acl03017-1 — Artículo adicionado por el artículo 1 del Acto Legislativo 3 de 2017. El nuevo texto es el siguiente:
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
+
+Una vez finalizado el proceso de dejación de las armas por parte de las FARC-EP, en los términos del "Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera", suscrito el 24 de noviembre de 2016, se reconocerá de pleno derecho personería jurídica al partido o movimiento político que surja del tránsito de las FARC-EP a la actividad política legal.
 
 Para esos efectos, finalizado el proceso de dejación de las armas, los delegados de las FARC-EP en la Comisión de Seguimiento, impulso y Verificación de la implementación del Acuerdo Final, manifestarán y registrarán formalmente ante el Consejo Nacional Electoral o quien haga sus veces la decisión de su transformación en partido o movimiento político, el acta de constitución, sus estatutos, el código de ética, la plataforma ideológica y la designación de sus directivos, así como su compromiso con la equidad de género conforme a los criterios constitucionales de paridad, alternancia y universalidad en el funcionamiento y organización interna. En virtud de este acto formal, el partido o movimiento político, con la denominación que adopte, será inscrito para todos los efectos y en igualdad de condiciones como un partido o movimiento político con personería jurídica.
 
@@ -4645,7 +4795,10 @@ Se exceptuarán aquellas personas que hayan resuelto su situación jurídica en 
 
 Las sumas a que se refieren los numerales 1 y 2 no afectarán el monto a distribuir por parte del Fondo para los demás partidos y movimientos políticos con personería jurídica. Los recursos que trata este artículo serán adicionales a los apropiados y presupuestados por el Fondo.
 
-ARTÍCULO TRANSITORIO 2o. <Artículo adicionado por el artículo 1 del Acto Legislativo 3 de 2017. El nuevo texto es el siguiente:> El partido o movimiento político que surja del tránsito de las FARC-EP a la vida política legal con personería jurídica, podrá presentar lista propia o en coalición para la circunscripción ordinaria del Senado de la República, la cual competirá en igualdad de condiciones de conformidad con las reglas ordinarias.
+## art:transitorio-acl03017-2 — Artículo adicionado por el artículo 1 del Acto Legislativo 3 de 2017. El nuevo texto es el siguiente:
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
+
+El partido o movimiento político que surja del tránsito de las FARC-EP a la vida política legal con personería jurídica, podrá presentar lista propia o en coalición para la circunscripción ordinaria del Senado de la República, la cual competirá en igualdad de condiciones de conformidad con las reglas ordinarias.
 
 Sin embargo, para las elecciones de los periodos 2018-2022 y 2022-2026 del Senado de la República se aplicarán las siguientes reglas especiales:
 
@@ -4655,13 +4808,92 @@ Sin embargo, para las elecciones de los periodos 2018-2022 y 2022-2026 del Senad
 
 3. Si una vez aplicado el procedimiento establecido en el numeral primero del presente artículo, la lista propia o en coalición del partido o movimiento político que surja de las FARC-EP a la vida política, obtiene un número de curules superior a cinco (5) aquellas que superen este número serán asignadas y descontadas de las cien (100) curules de la circunscripción ordinaria del Senado. Posteriormente se repetirá el procedimiento para asignar un número de curules igual a cien (100) menos las curules asignadas a la lista del partido o movimiento política que surja de las FARC-EP que excedan las cinco iniciales, de conformidad con el artículo 263 constitucional sin tener en cuenta la participación de la mencionada lista.
 
-ARTÍCULO TRANSITORIO 3o. <Artículo adicionado por el artículo 1 del Acto Legislativo 3 de 2017. El nuevo texto es el siguiente:> La Cámara de Representantes estará integrada durante los períodos 2018-2022 y 2022-2026, hasta por cinco (5) Representantes adicionales a los que se determinan en el artículo 176 de la Constitución Política, elegidos de conformidad con las siguientes reglas especiales:
+## art:transitorio-acl03017-3 — Artículo adicionado por el artículo 1 del Acto Legislativo 3 de 2017. El nuevo texto es el siguiente:
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
+
+La Cámara de Representantes estará integrada durante los períodos 2018-2022 y 2022-2026, hasta por cinco (5) Representantes adicionales a los que se determinan en el artículo 176 de la Constitución Política, elegidos de conformidad con las siguientes reglas especiales:
 
 1. El partido o movimiento político que surja del tránsito de las FARC-EP a la vida política legal con personería jurídica, podrá inscribir para las elecciones de 2018 y 2022 al igual que los otros partidos o movimientos políticos con personería jurídica, listas únicas de candidatos propios o en coalición para las circunscripciones territoriales en que se elige la Cámara de Representantes.
 
 2. Estas listas competirán en igualdad de condiciones de conformidad con las reglas ordinarias por la totalidad de las curules que se eligen en dichas circunscripciones.
 
 3. Finalizada la asignación de las curules en cada circunscripción territorial, el Consejo Nacional Electoral o quien haga sus veces asignará al partido o movimiento político que surja del tránsito de las FARC-EP a la vida política legal las que le hicieren falta para completar un mínimo de 5 miembros electos. Para este efecto, el Consejo Nacional Electoral o quien haga sus veces ordenará en orden descendente las 5 listas inscritas para la Cámara de Representantes por dicho partido o movimiento político, en listas propias o en coalición, que hubieren alcanzado las mayores votaciones y le asignará una curul a las listas que no la hubieren obtenido de conformidad con las reglas ordinarias de asignación de tales curules.
+
+## art:transitorio-acl02021-1 — CREACIÓN DE CIRCUNSCRIPCIONES TRANSITORIOS ESPECIALES DE PAZ
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
+
+La Cámara de Representantes tendrá 16 representantes adicionales para los períodos constitucionales 2022-2026 y 2026-2030, estos serán elegidos en igual número de Circunscripciones Transitorias Especiales de Paz, uno por cada una de dichas Circunscripciones. La curul se asignará al candidato de la lista con mayor cantidad de votos. Las listas deberán elaborarse teniendo en cuenta el principio de equidad e igualdad de género.
+
+## art:transitorio-acl02021-2 — CONFORMACIÓN
+ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
+
+Las mencionadas Circunscripciones Transitorias Especiales de Paz estarán conformadas así:
+
+Circunscripción 1
+
+Municipios del Cauca: Argelia, Balboa, Buenos Aires, Caldono, Caloto, Cajibío, Corinto, El Tambo, Jambaló, Mercaderes, Morales, Miranda, Patía, Piendamó, Santander de Quilichao, Suárez y Toribío. Municipios de Nariño: Cumbitara, El Rosario, Leiva, Los Andes, Policarpa y los municipios de Florida y Pradera, Valle del Cauca.
+
+Circunscripción 2
+
+Conformada por Arauquita, Fortul, Saravena y Tame. Departamento de Arauca.
+
+Circunscripción 3
+
+Municipios del departamento de Antioquia: Amalfi, Anorí, Briceño, Cáceres, Caucasia, El Bagre, Ituango, Nechí, Remedios, Segovia, Tarazá, Valdivia, Zaragoza.
+
+Circunscripción 4
+
+Constituida por 8 municipios de Norte de Santander: Convención, El Carmen, El Tarra, Hacarí, San Calixto, Sardinata, Torama y Tibú.
+
+Circunscripción 5
+
+Municipios del departamento del Caquetá: Florencia, Albania, Belén de los Andaquíes, Cartagena del Chairá, Curillo, El Doncella, El Paujil, Montañita, Milán, Morelia, Puerto Rico, San José de Fragua, San Vicente del Caguán, Solano, Solita Valparaíso, y el municipio de Algeciras del departamento del Huila.
+
+Circunscripción 6
+
+Municipios del departamento de Chocó: Bojayá, Medio Atrato, Istmina, Medio San Juan, Litoral de San Juan, Novita, Sipí, Acandí, Carmen del Darién, Riosucio, Unguía, Condoto y dos municipios de Antioquia, Vigía del Fuerte y Murindó.
+
+Circunscripción 7
+
+Municipios del departamento del Meta: Mapiripán, Mesetas, La Macarena, Uribe, Puerto Concordia, Puerto Lleras, Puerto Rico y Vistahermosa y 4 municipios del departamento del Guaviare, San José del Guaviare, Calamar, El Retorno y Miraflores.
+
+Circunscripción 8
+
+Municipios del departamento de Bolívar: Córdoba, El Carmen de Bolívar, El Guamo, María La Baja, San Jacinto, San Juan de Nepomuceno y Zambrano. Municipios de Sucre: Colosó, Chalán, Los Palmitos, Morroa, Ovejas, Palmito, San Onofre y Toluviejo.
+
+Circunscripción 9
+
+Municipios del Cauca: Guapí, López de Micay y Timbiquí, Buenaventura, del departamento del Valle del Cauca.
+
+Circunscripción 10
+
+Está constituida por 11 municipios del departamento de Nariño: Barbacoas, El Charco, La Tola, Maguí, Mosquera, Olaya Herrera, Francisco Pizarra, Ricaurte, Roberto Payán, Santa Bárbara y Tumaco.
+
+Circunscripción 11
+
+Municipios del departamento del Putumayo: Orito, Puerto Asís, Puerto Caicedo, Puerto Guzmán, Puerto Leguízamo, San Miguel, Valle del Guamuez y Villagarzón.
+
+Circunscripción 12
+
+Municipios del Cesar: Agustín Codazzi, Becerril, La Jagua de Ibirico, La Paz Pueblo Bello y Valledupar. Municipios de La Guajira: Dibulla, Fonseca, San Juan del Cesar. Municipios del Magdalena: Aracataca, Ciénaga, Fundación y Santa Marta.
+
+Circunscripción 13
+
+Municipios del departamento de Bolívar: Arenal, Cantagallo, Morales, San Pablo, Santa Rosa del Sur y Simití y el municipio de Yondó del departamento de Antioquia.
+
+Circunscripción 14
+
+Municipios de Córdoba: Puerto Libertador, San José de Uré, Valencia, Tierralta y Montelíbano.
+
+Circunscripción 15
+
+Municipios del departamento del Tolima: Ataco, Chaparral, Planadas y Rioblanco.
+
+Circunscripción 16
+
+Municipios del departamento de Antioquia: Carepa, Chigorodó, Dabeiba, Mutatá, Necoclí, San Pedro de Urabá, Apartadó y Turbo.
+
+PARÁGRAFO. Para las elecciones de las 16 Circunscripciones Especiales de Paz, se excluirán las cabeceras municipales de cada uno de los municipios que la conforman y únicamente se habilitarán los puestos de votación y el censo electoral de la zona rural de estos. Se garantizará la participación de los habitantes de zonas rurales, apartadas y centros poblados dispersos de estas Circunscripciones para lo cual la Registraduría Nacional del Estado Civil deberá crear nuevos puestos de votación en dichas zonas.
 
 ## art:transitorio-acl02021-3 — INSCRIPCIÓN DE CANDIDATOS
 ubicacion: TÍTULO TRANSITORIO. DE LAS NORMAS PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA. > CAPÍTULO VIII. PREVALENCIA DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO ARMADO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.
@@ -4773,16 +5005,4 @@ Bogotá, D.E., julio 6 de 1991.
 
 JACOBO PEREZ ESCOBAR, 
 
-Secretario General, Asamblea Nacional Constituyente (1991). 
-
-Anterior
-
- Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.©
-
- "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
-
- ISSN [1657-6241 (En linea)]
-
- Última actualización: 31 de agosto de 2026 - (Diario Oficial No. 53.601 - 24 de agosto de 2026)
-
- Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
+Secretario General, Asamblea Nacional Constituyente (1991).

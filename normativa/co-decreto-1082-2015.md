@@ -7,7 +7,7 @@ ramas: [contratacion-estatal, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77653
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Objetivos
@@ -48,8 +48,6 @@ El Departamento Nacional de Planeación preside las siguientes Comisiones inters
 
 (Ley 1530 de 2012, artículo 4)
 
-ARTÍCULO
-
 ## art:1.1.2.2 — Integración de Consejos
 
 El Departamento Nacional de Planeación preside el siguiente Consejo:
@@ -57,8 +55,6 @@ El Departamento Nacional de Planeación preside el siguiente Consejo:
 1. Consejo Directivo de la Agencia Nacional de Contratación Pública - Colombia Compra Eficiente.
 
 (Decreto 4170 de 2011, artículo 6)
-
-ARTÍCULO
 
 ## art:1.1.2.3 — Integración de Comités
 
@@ -78,15 +74,11 @@ TÍTULO 1
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Unidad Administrativa Especial Agencia Nacional de Contratación Pública -Colombia Compra Eficiente
 
 La Agencia Nacional de Contratación Pública - Colombia Compra Eficiente- es una entidad descentralizada de la Rama Ejecutiva del orden nacional, con personería jurídica, patrimonio propio y autonomía administrativa y financiera, adscrita al Departamento Nacional de Planeación. Como ente rector, tiene como objetivo desarrollar e impulsar políticas públicas y herramientas, orientadas a la organización y articulación, de los partícipes en los procesos de compras y contratación pública con el fin de lograr una mayor eficiencia, transparencia y optimización de los recursos del Estado.
 
 (Decreto 4170 de 2011, artículo 2)
-
-ARTÍCULO
 
 ## art:1.2.1.2 — Superintendencia de Servicios Públicos Domiciliarios
 
@@ -95,8 +87,6 @@ La Superintendencia de Servicios Públicos Domiciliarios es una entidad descentr
 El Superintendente de Servicios Públicos Domiciliarios obrará con plena autonomía de criterio al cumplir las funciones que se derivan de la Constitución y la ley.
 
 (Decreto 990 de 2002, artículo 2 y Decreto 3517 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:1.2.1.3 — Fondo Nacional de Regalías - En Liquidación
 
@@ -109,8 +99,6 @@ Sus recursos serán destinados, de conformidad con el artículo 361 de la Consti
 TÍTULO 2
 
 ENTIDADES VINCULADAS
-
-ARTÍCULO
 
 ## art:1.2.2.1 — Fondo Financiero de Proyectos de Desarrollo, FONADE
 
@@ -136,13 +124,9 @@ TÍTULO 1
 
 OBJETO Y ÁMBITO DE APLICACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.1 — Objeto
 
 El objeto de este decreto es compilar la normatividad expedida por el Gobierno Nacional en ejercicio de las facultades reglamentarias conferidas por el numeral 11 del artículo 189 de la Constitución Política, para la cumplida ejecución de las leyes del Sector Administrativo de Planeación Nacional.
-
-ARTÍCULO
 
 ## art:2.1.1.2 — Ámbito de aplicación
 
@@ -169,8 +153,6 @@ CONCEPTOS BÁSICOS PARA EL SISTEMA DE COMPRAS Y CONTRATACIÓN PÚBLICA
 SUBSECCIÓN 1
 
 OBJETIVOS
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.1.1 — Objetivos del Sistema de Compras y Contratación Pública
 
@@ -207,8 +189,6 @@ En los términos de la ley, las Entidades Estatales pueden asociarse para la adq
 SUBSECCIÓN 3
 
 DEFINICIONES
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.3.1 — Definiciones
 
@@ -284,8 +264,6 @@ SUBSECCIÓN 4
 
 PLAN ANUAL DE ADQUISICIONES
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.4.1 — Plan Anual de Adquisiciones
 
 Las entidades estatales deben elaborar un Plan Anual de Adquisiciones, el cual debe contener la lista de bienes, obras y servicios que pretenden adquirir durante el año. En el Plan Anual de Adquisiciones, la Entidad Estatal debe señalar como mínimo la necesidad y cuando conoce el bien, obra o servicio que satisface esa necesidad debe identificarlo utilizando el Clasificador de Bienes y Servicios, e indicar el valor estimado del contrato, el tipo de recursos con cargo a los cuales la· entidad estatal pagará el bien, obra o servicio, la modalidad de selección del contratista, y la fecha aproximada en la cual la entidad estatal iniciará el Proceso de Contratación.
@@ -298,23 +276,17 @@ Las asociaciones conformadas por sujetos de especial protección constitucional,
 
 (Modificado por el Artículo 2 del Decreto 142 de 2023)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.4.2 — No obligatoriedad de adquirir los bienes, obras y servicios contenidos en el Plan Anual de Adquisiciones
 
 El Plan Anual de Adquisiciones no obliga a las Entidades Estatales a efectuar los procesos de adquisición que en él se enumeran.
 
 (Decreto 1510 de 2013, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.4.3 — Publicación del Plan Anual de Adquisiciones
 
 La Entidad Estatal debe publicar su Plan Anual de Adquisiciones y las actualizaciones del mismo en su página web y en el SECOP, en la forma que para el efecto disponga Colombia Compra Eficiente.
 
 (Decreto 1510 de 2013, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.4.4 — Actualización del Plan Anual de Adquisiciones
 
@@ -328,8 +300,6 @@ SUBSECCIÓN 5
 
 REGISTRO ÚNICO DE PROPONENTES (RUP)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5.1 — Inscripción, renovación, actualización y cancelación del RUP
 
 Las personas naturales y jurídicas, nacionales o extranjeras, con domicilio en Colombia, interesadas en participar en Procesos de Contratación convocados por las Entidades Estatales, deben estar inscritas en el RUP, salvo las excepciones previstas de forma taxativa en la ley.
@@ -339,8 +309,6 @@ La persona inscrita en el RUP debe presentar la información para renovar su reg
 Los inscritos en el RUP pueden en cualquier momento solicitar a la cámara de comercio cancelar su inscripción.
 
 (Decreto 1510 de 2013, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.5.2 — Información para inscripción, renovación o actualización
 
@@ -412,8 +380,6 @@ El proponente que tenga o haya tenido inscrita en la cámara de comercio la info
 
 (Adicionado por el Art. 1 del Decreto 1041 de 2022).
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5.3 — Requisitos habilitantes contenidos en el RUP
 
 Las cámaras de comercio, con base en la información a la que hace referencia el artículo anterior, deben verificar y certificar los siguientes requisitos habilitantes:
@@ -440,8 +406,6 @@ Los contratos celebrados por consorcios, uniones temporales y sociedades en las 
 
 (Decreto 1510de 2013, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5.4 — Función de verificación de las cámaras de comercio
 
 Las cámaras de comercio deben verificar que la información del formulario de inscripción, renovación o actualización coincida con la información contenida en los documentos enumerados en el artículo 2.2.1.1.1.5.2 del presente decreto y proceder al registro. Las cámaras de comercio pueden utilizar la información de los registros que administran para adelantar esta verificación. Contra el registro procederá el recurso de reposición en los términos del numeral 6.3 del artículo 6 de la Ley 1150 de 2007.
@@ -450,15 +414,11 @@ El trámite de la impugnación de inscripciones en el RUP debe adelantarse de ac
 
 (Decreto 1510 de 2013, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5.5 — Formulario
 
 La Superintendencia de Industria y Comercio autorizará el formulario de solicitud de registro en el RUP y el esquema gráfico del certificado que para el efecto le presenten las cámaras de comercio.
 
 (Decreto 1510 de 2013, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.5.6 — Certificado del RUP
 
@@ -472,8 +432,6 @@ PARÁGRAFO TRANSITORIO 2. El proponente que cuente con inscripción activa y vig
 
 (Decreto 1510 de 2013, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.5.7 — Información de multas, sanciones, inhabilidades y actividad contractual
 
 Las Entidades Estatales deben enviar mensualmente a las cámaras de comercio de su domicilio, copia de los actos administrativos en firme, por medio de los cuales impusieron multas y sanciones y de las inhabilidades resultantes de los contratos que hayan suscrito, y de la información de los Procesos de Contratación en los términos del artículo 6 de la Ley 1150 de 2007. Para el efecto las cámaras de comercio pueden establecer mecanismos electrónicos para recibir la información mencionada. El registro de las sanciones e inhabilidades debe permanecer en el certificado del RUP por el término de la sanción o de la inhabilidad. La información relativa a multas debe permanecer en el certificado del RUP por un año, contado a partir de la publicación de la misma.
@@ -486,15 +444,11 @@ SUBSECCIÓN 6
 
 ANÁLISIS DEL SECTOR ECONÓMICO Y DE LOS OFERENTES POR PARTE DE LAS ENTIDADES ESTATALES
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.6.1 — Deber de análisis de las Entidades Estatales
 
 La Entidad Estatal debe hacer, durante la etapa de planeación, el análisis necesario para conocer el sector relativo al objeto del Proceso de Contratación desde la perspectiva legal, comercial, financiera, organizacional, técnica, y de análisis de Riesgo. La Entidad Estatal debe dejar constancia de este análisis en los Documentos del Proceso.
 
 (Decreto 1510 de 2013, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.6.2 — Determinación de los Requisitos Habilitantes
 
@@ -510,15 +464,11 @@ Para ello, atendiendo a las condiciones aludidas, en relación con los indicador
 
 (Decreto 1510 de 2013, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.6.3 — Evaluación del Riesgo
 
 La Entidad Estatal debe evaluar el Riesgo que el Proceso de Contratación representa para el cumplimiento de sus metas y objetivos, de acuerdo con los manuales y guías que para el efecto expida Colombia Compra Eficiente.
 
 (Decreto 1510 de 2013, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.6.4 — Capacidad Residual
 
@@ -648,8 +598,6 @@ SUBSECCIÓN 7
 
 PUBLICIDAD
 
-ARTÍCULO
-
 ## art:2.2.1.1.1.7.1 — Publicidad en el SECOP
 
 La Entidad Estatal está obligada a publicar en el SECOP los Documentos del Proceso y los actos administrativos del Proceso de Contratación, dentro de los tres (3) días siguientes a su expedición. La oferta que debe ser publicada es la del adjudicatario del Proceso de Contratación. Los documentos de las operaciones que se realicen en bolsa de productos no tienen que ser publicados en el SECOP.
@@ -657,8 +605,6 @@ La Entidad Estatal está obligada a publicar en el SECOP los Documentos del Proc
 La Entidad Estatal está obligada a publicar oportunamente el aviso de convocatoria o la invitación en los Procesos de Contratación de mínima cuantía y el proyecto de pliegos de condiciones en el SECOP para que los interesados en el Proceso de Contratación puedan presentar observaciones o solicitar aclaraciones en el término previsto para el efecto en el artículo 2.2.1.1.2.1.4 del presente decreto.
 
 (Decreto 1510 de 2013, artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.1.1.1.7.2 — Estampillas Electrónicas
 
@@ -684,8 +630,6 @@ SUBSECCIÓN 1
 
 PLANEACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.1.1 — Estudios y documentos previos
 
 Los estudios y documentos previos son el soporte para elaborar el proyecto de pliegos, los pliegos de condiciones y el contrato. Estos deben permanecer a disposición del público durante el desarrollo del Proceso de Contratación y contener los siguientes elementos, además de los indicados para cada modalidad de selección:
@@ -707,8 +651,6 @@ Los estudios y documentos previos son el soporte para elaborar el proyecto de pl
 8. La indicación de sí el proceso de contratación está cobijado por un acuerdo comercial. El presente artículo no es aplicable a la contratación por mínima cuantía".
 
 (Modificado por el Art. 1 del Decreto 399 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.1.2 — Aviso de convocatoria
 
@@ -744,8 +686,6 @@ En los Procesos de Contratación adelantados bajo las modalidades de selección 
 
 (Decreto 1510 de 2013, artículo 21)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.1.3 — Pliegos de condiciones
 
 Los pliegos de condiciones deben contener por lo menos la siguiente información:
@@ -780,15 +720,11 @@ Los pliegos de condiciones deben contener por lo menos la siguiente información
 
 (Decreto 1510 de 2013, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.1.4 — Observaciones al proyecto de pliegos de condiciones
 
 Los interesados pueden hacer comentarios al proyecto de pliegos de condiciones a partir de la fecha de publicación de los mismos: (a) durante un término de diez (10) días hábiles en la licitación pública; y (b) durante un término de cinco (5) días hábiles en la selección abreviada y el concurso de méritos.
 
 (Decreto 1510 de 2013, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.1.5 — Acto administrativo de apertura del proceso de selección
 
@@ -816,8 +752,6 @@ SUBSECCIÓN 2
 
 SELECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.1 — Modificación de los pliegos de condiciones
 
 La Entidad Estatal puede modificar los pliegos de condiciones a través de Adendas expedidas antes del vencimiento del plazo para presentar ofertas.
@@ -827,8 +761,6 @@ La Entidad Estatal puede expedir Adendas para modificar el Cronograma una vez ve
 La Entidad Estatal debe publicar las Adendas en los días hábiles, entre las 7:00 a. m. y las 7:00 p. m., a más tardar el día hábil anterior al vencimiento del plazo para presentar ofertas a la hora fijada para tal presentación, salvo en la licitación pública pues de conformidad con la ley la publicación debe hacerse con tres (3) días de anticipación.
 
 (Decreto 1510 de 2013, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.2 — Ofrecimiento más favorable
 
@@ -864,8 +796,6 @@ En el marco de las competencias atribuidas por el Decreto Ley 4170 de 2011, la A
 
 (Modificado por el Artículo 4 del Decreto 142 de 2023)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.3 — Comité evaluador
 
 La Entidad Estatal puede designar un comité evaluador conformado por servidores públicos o por particulares contratados para el efecto para evaluar las ofertas y las manifestaciones de interés para cada Proceso de Contratación por licitación, selección abreviada y concurso de méritos. El comité evaluador debe realizar su labor de manera objetiva, ciñéndose exclusivamente a las reglas contenidas en los pliegos de condiciones. El carácter asesor del comité no lo exime de la responsabilidad del ejercicio de la labor encomendada. En el evento en el cual la Entidad Estatal no acoja la recomendación efectuada por el comité evaluador, debe justificar su decisión.
@@ -875,8 +805,6 @@ Los miembros del comité evaluador están sujetos al régimen de inhabilidades e
 La verificación y la evaluación de las ofertas para la mínima cuantía será adelantada por quien sea designado por el ordenador del gasto sin que se requiera un comité plural.
 
 (Decreto 1510de 2013, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.4 — Oferta con valor artificialmente bajo
 
@@ -888,15 +816,11 @@ En la subasta inversa esta disposición es aplicable sobre el precio obtenido al
 
 (Decreto 1510 de 2013, artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.5 — Inhabilidades con ocasión de la presentación de otras ofertas
 
 Para efectos de establecer el oferente que debe ser inhabilitado cuando en un mismo Proceso de Contratación se presentan oferentes en la situación descrita por los literales (g) y (h) del numeral 1 del artículo 8 de la Ley 80 de 1993 y poder establecer la primera oferta en el tiempo, la Entidad Estatal debe dejar constancia de la fecha y hora de recibo de las ofertas, indicando el nombre o razón social de los oferentes y sus representantes legales.
 
 (Decreto 1510 de 2013, artículo 29)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.6 — Adjudicación con oferta única
 
@@ -904,23 +828,17 @@ La Entidad Estatal puede adjudicar el contrato cuando solo se haya presentado un
 
 (Decreto 1510 de 2013, artículo 30)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.7 — De la celebración de contratos en desarrollo de encargos fiduciarios o contratos de fiducia
 
 La Entidad Estatal no puede delegar en las sociedades fiduciarias la adjudicación de los contratos que celebren en desarrollo del encargo fiduciario o de la fiducia pública pero sí pueden encomendar a la fiduciaria la suscripción de tales contratos y la ejecución de todos los trámites inherentes al Proceso de Contratación.
 
 (Decreto 1510 de 2013, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.2.8 — Inhabilidades de las sociedades anónimas abiertas
 
 En la etapa de selección, la Entidad Estatal debe tener en cuenta el régimen de inhabilidades e incompatibilidades y conflictos de interés previsto en la ley para lo cual debe tener en cuenta que las sociedades anónimas abiertas son las inscritas en el Registro Nacional de Valores y Emisores, a menos que la autoridad competente disponga algo contrario o complementario.
 
 (Decreto 1510 de 2013, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.2.9 — Factores de desempate
 
@@ -950,8 +868,6 @@ SUBSECCIÓN 3
 
 CONTRATACIÓN
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.3.1 — De los requisitos de perfeccionamiento, ejecución y pago
 
 En el Cronograma, la Entidad Estatal debe señalar el plazo para la celebración del contrato, para el registro presupuestal, la publicación en el SECOP y para el cumplimiento de los requisitos establecidos en el pliego de condiciones para el perfeccionamiento, la ejecución y el pago del contrato.
@@ -961,8 +877,6 @@ En el Cronograma, la Entidad Estatal debe señalar el plazo para la celebración
 SUBSECCIÓN 4
 
 EJECUCIÓN
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.4.1 — Patrimonio autónomo para el manejo de anticipos
 
@@ -976,15 +890,11 @@ En este caso, la sociedad fiduciaria debe pagar a los proveedores, con base en l
 
 (Decreto 1510 de 2013, artículo 35)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2.4.2 — De la determinación de los intereses moratorios
 
 Para determinar el valor histórico actualizado a que se refiere el artículo 4, numeral 8 de la Ley 80 de 1993, se aplicará a la suma debida por cada año de mora el incremento del índice de precios al consumidor entre el 1 de enero y el 31 de diciembre del año anterior. En el evento de que no haya transcurrido un año completo o se trate de fracciones de año, la actualización se hará en proporción a los días transcurridos.
 
 (Decreto 1510 de 2013, artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.1.1.2.4.3 — Obligaciones posteriores a la liquidación
 
@@ -1003,8 +913,6 @@ MODALIDADES DE SELECCIÓN
 SUBSECCIÓN 1
 
 LICITACIÓN PÚBLICA
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.1.1 — Presentación de la oferta de manera dinámica mediante subasta inversa en los procesos de licitación pública
 
@@ -1025,8 +933,6 @@ La herramienta electrónica usada para la subasta debe permitir que el oferente 
 De lo acontecido en la subasta, se levantará un acta donde se dejarán todas las constancias del caso.
 
 (Decreto 1510 de 2013, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.1.2 — Audiencias en la licitación
 
@@ -1054,8 +960,6 @@ SELECCIÓN ABREVIADA
 
 DISPOSICIONES COMUNES PARA LA SELECCIÓN ABREVIADA PARA LA ADQUISICIÓN DE BIENES Y SERVICIOS DE CARACTERÍSTICAS TÉCNICAS UNIFORMES
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.1 — Pliegos de condiciones
 
 En los pliegos de condiciones para contratar Bienes y Servicios de Características Técnicas Uniformes, la Entidad Estatal debe indicar:
@@ -1069,8 +973,6 @@ En los pliegos de condiciones para contratar Bienes y Servicios de Característi
 (Decreto 1510 de 2013, artículo 40)
 
 Selección Abreviada para la adquisición de Bienes y Servicios de Características Técnicas Uniformes por Subasta Inversa
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.2 — Procedimiento para la subasta inversa
 
@@ -1098,23 +1000,17 @@ Además de las reglas generales previstas en la ley y en el presente título, la
 
 (Decreto 1510 de 2013, artículo 41)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.3 — Información de los participantes en la subasta inversa
 
 La Entidad Estatal debe estructurar la subasta inversa de manera que antes de la adjudicación, los participantes en la subasta no identifiquen las ofertas y los Lances con el oferente que los presenta.
 
 (Decreto 1510 de 2013, artículo 42)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.4 — Terminación de la subasta y adjudicación
 
 La subasta termina cuando los oferentes no hagan Lances adicionales durante un período para la presentación de Lances. La Entidad Estatal debe adjudicar el contrato al oferente que haya presentado el Lance más bajo. En el acto de adjudicación, la Entidad Estatal indicará el nombre de los oferentes y el precio del último Lance presentado por cada uno de ellos.
 
 (Decreto 1510 de 2013, artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.5 — Subasta inversa electrónica o presencial
 
@@ -1123,8 +1019,6 @@ La Entidad Estatal puede escoger si adelanta la subasta inversa electrónica o p
 Si la Entidad Estatal decide adelantar la subasta electrónicamente debe fijar en los pliegos de condiciones el sistema que utilizará para la subasta inversa y los mecanismos de seguridad para el intercambio de mensajes de datos.
 
 (Decreto 1510 de 2013, artículo 44)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.6 — Fallas técnicas durante la subasta inversa electrónica
 
@@ -1137,8 +1031,6 @@ Si por causas imputables al oferente o a su proveedor de soluciones de tecnolog�
 "Selección Abreviada para la adquisición de Bienes y Servicios Uniformes de Común Utilización, así como aquellos de Características Técnicas no Uniformes de Común Utilización, por compra por catálogo derivado de la celebración de Acuerdos Marco de Precios e Instrumentos de Agregación de Demanda"
 
 (Moodificado por el Artículo 7 del Decreto 142 de 2023)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.7 — Procedencia del Acuerdo Marco de Precios
 
@@ -1168,8 +1060,6 @@ PARÁGRAFO 2. De conformidad con lo establecido en los literales a), b) y c) del
 
 Nota: (Ver Sentencia del Consejo de Estado 00015 de 2018)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.8 — Identificación de bienes y servicios objeto de un Acuerdo Marco de Precios o de un Instrumento de Agregación de Demanda
 
 La Agencia Nacional de Contratación Pública -Colombia Compra Eficiente- periódicamente deberá efectuar Procesos de Contratación para suscribir Acuerdos Marco de Precios, teniendo en cuenta los Bienes y Servicios de Características Técnicas Uniformes o No Uniformes de Común utilización, contenidos en los Planes Anuales de Adquisiciones de las entidades estatales y la información disponible en el sistema de compras y contratación pública.
@@ -1180,8 +1070,6 @@ En este evento, la Agencia deberá estudiar la solicitud, revisar su pertinencia
 
 (Modificado por el Artículo 9 del Decreto 142 de 2023)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.9 — Utilización del Acuerdo Marco de Precios
 
 Colombia Compra Eficiente debe publicar el Catálogo para Acuerdos Marco de Precios, y la Entidad Estatal en la etapa de planeación del Proceso de Contratación está obligada a verificar si existe un Acuerdo Marco de Precios vigente con el cual la Entidad Estatal pueda satisfacer la necesidad identificada.
@@ -1189,8 +1077,6 @@ Colombia Compra Eficiente debe publicar el Catálogo para Acuerdos Marco de Prec
 Si el Catálogo para Acuerdos Marco de Precios contiene el bien o servicio requerido, la Entidad Estatal de que trata el inciso 1 del artículo 2.2.1.2.1.2. 7 del presente decreto está obligada a suscribir el Acuerdo Marco de Precios, en la forma que Colombia Compra Eficiente disponga, y luego puede colocar la orden de compra correspondiente en los términos establecidos en el Acuerdo Marco de Precios. Las Entidades Estatales no deben exigir las garantías de que trata la Sección 3 del presente capítulo, que comprende los artículos 2.2.1.2.3.1.1 al 2.2.1.2.3.5.1 del presente decreto, en las órdenes de compra derivadas de los Acuerdos Marco de Precios, a menos que el Acuerdo Marco de Precios respectivo disponga lo contrario.
 
 (Decreto 1510 de 2013, artículo 48)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.10 — Proceso de Contratación para Acuerdos Marco de Precios e Instrumentos de Agregación de Demanda
 
@@ -1204,15 +1090,11 @@ PARÁGRAFO 1. En los Documentos del Proceso del Acuerdo Marco de Precios o Instr
 
 Selección abreviada para la adquisición de Bienes y Servicios de Características Técnicas Uniformes en bolsas de productos
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.11 — Régimen aplicable
 
 Además de lo previsto en el Decreto 2555 de 2010 y las normas que lo modifiquen, aclaren, adicionen o sustituyan y los reglamentos internos de las bolsas de productos, las siguientes disposiciones son aplicables a la adquisición de Bienes y Servicios de Características Técnicas Uniformes en bolsas de productos.
 
 (Decreto 1510 de 2013, artículo 50)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.12 — Planeación de una adquisición en la bolsa de productos
 
@@ -1234,15 +1116,11 @@ PARÁGRAFO 3. Lo previsto en el parágrafo 1 de este artículo no será aplicabl
 
 (Decreto 1510 de 2013, artículo 51)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.13 — Requisitos para actuar como comisionista de Entidad Estatal
 
 La Entidad Estatal puede exigir a los comisionistas interesados en participar en el procedimiento de selección a través de las bolsas de productos, el cumplimiento de requisitos habilitantes adicionales a su condición de tales, siempre y cuando estos sean adecuados y proporcionales al objeto a contratar y a su valor.
 
 (Decreto 1510 de 2013, artículo 52)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.14 — Selección del comisionista
 
@@ -1252,15 +1130,11 @@ La Entidad Estatal debe publicar el contrato suscrito con el comisionista selecc
 
 (Decreto 1510 de 2013, artículo 53)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.15 — Disponibilidad presupuestal
 
 Para celebrar el contrato de comisión, la Entidad Estatal debe acreditar que cuenta con la disponibilidad presupuestal para el contrato de comisión, para la operación que por cuenta suya adelanta el comisionista en la bolsa de productos, para las garantías y los demás pagos que deba hacer como consecuencia de la adquisición en bolsa de productos, de acuerdo con el reglamento de la bolsa en la cual la Entidad Estatal haga la negociación.
 
 (Decreto 1510 de 2013, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.16 — Lista de Bienes y Servicios de Características Técnicas Uniformes
 
@@ -1270,15 +1144,11 @@ Las bolsas de productos deben mantener esta lista a disposición de las Entidade
 
 (Decreto 1510 de 2013, artículo 55)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.17 — Garantía única a favor de la Entidad Estatal
 
 Como requisito para la ejecución del contrato de comisión, el comisionista seleccionado debe constituir a favor de la entidad estatal comitente la garantía única de cumplimiento, en relación con el valor de la comisión que la Entidad Estatal pagará al comisionista por sus servicios.
 
 (Decreto 1510 de 2013, artículo 56)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.18 — Garantías de cumplimiento a favor del organismo de compensación de la bolsa de productos
 
@@ -1288,8 +1158,6 @@ Las Entidades Estatales pueden exigir al comitente vendedor garantías adicional
 
 (Decreto 1510 de 2013, artículo 57)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.19 — Supervisión del cumplimiento de la operación
 
 Las Entidades Estatales deben designar un supervisor de la ejecución de las operaciones que por su cuenta realizan las bolsas de productos y del contrato de comisión. Si la Entidad Estatal verifica inconsistencias en la ejecución, debe poner en conocimiento de la bolsa tal situación para que esta la examine y adopte las medidas necesarias para dirimir la controversia de conformidad con sus reglamentos y, de ser el caso, notifique del incumplimiento a su organismo de compensación.
@@ -1297,8 +1165,6 @@ Las Entidades Estatales deben designar un supervisor de la ejecución de las ope
 (Decreto 1510 de 2013, artículo 58)
 
 Contratación de Menor Cuantía
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.20 — Procedimiento para la selección abreviada de menor cuantía
 
@@ -1316,15 +1182,11 @@ Además de las normas generales establecidas en el presente título, las siguien
 
 Otros procesos de selección abreviada
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.21 — Contratos de prestación de servicios de salud
 
 La Entidad Estatal que requiera la prestación de servicios de salud debe utilizar el procedimiento de selección abreviada de menor cuantía. Las personas naturales o jurídicas que presten estos servicios deben estar inscritas en el registro que para el efecto lleve el Ministerio de Salud y Protección Social o quien haga sus veces.
 
 (Decreto 1510 de 2013, artículo 60)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.22 — Contratación cuyo proceso de licitación pública haya sido declarado desierto
 
@@ -1332,15 +1194,11 @@ La Entidad Estatal que haya declarado desierta una licitación puede adelantar e
 
 (Decreto 1510 de 2013, artículo 61)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.23 — Adquisición de productos de origen o destinación agropecuaria
 
 La Entidad Estatal debe aplicar el proceso de adquisición en bolsa de productos de que tratan los artículos 2.2.1.2.1.2.11 a 2.2.1.2.1.2.19 del presente decreto para adquirir productos de origen o destinación agropecuaria ofrecidos en las bolsas de productos. La Entidad Estatal puede adquirir tales productos fuera de bolsa si lo hace en mejores condiciones. En este caso la Entidad Estatal debe expresar en los Documentos del Proceso esta situación.
 
 (Decreto 1510 de 2013, artículo 62)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.24 — Contratación de empresas industriales y comerciales del Estado
 
@@ -1348,15 +1206,11 @@ Las empresas industriales y comerciales del Estado y las sociedades de economía
 
 (Decreto 1510 de 2013, artículo 63)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.2.25 — .25
 
 Contratación de Entidades Estatales dedicadas a la protección de derechos humanos y población con alto grado de vulnerabilidad. Las Entidades Estatales que tengan a su cargo la ejecución de los programas a los que se refiere el literal h) del numeral 2 del artículo 2 de la Ley 1150 de 2007 deben aplicar el procedimiento establecido para la selección abreviada de menor cuantía.
 
 (Decreto 1510 de 2013, artículo 64)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.2.26 — Selección Abreviada para la adquisición de Bienes y Servicios para la Defensa y Seguridad Nacional
 
@@ -1374,8 +1228,6 @@ SUBSECCIÓN 3
 
 CONCURSO DE MÉRITOS
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.1 — Procedencia del concurso de méritos
 
 Las Entidades Estatales deben seleccionar sus contratistas a través del concurso de méritos para la prestación de servicios de consultoría de que trata el numeral 2 del artículo 32 de la Ley 80 de 1993 y para los proyectos de arquitectura.
@@ -1383,8 +1235,6 @@ Las Entidades Estatales deben seleccionar sus contratistas a través del concurs
 El procedimiento para la selección de proyectos de arquitectura es el establecido en los artículos 2.2.1.2.1.3.8 al 2.2.1.2.1.3.25 del presente decreto.
 
 (Decreto 1510 de 2013, artículo 66)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.2 — Procedimiento del concurso de méritos
 
@@ -1400,15 +1250,11 @@ Además de las reglas generales previstas en la ley y en el presente título, la
 
 Nota: (Ver Sentencia del Consejo de Estado 00015 de 2018)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.3 — Precalificación para el concurso de méritos
 
 En la etapa de planeación del concurso de méritos, la Entidad Estatal puede hacer una precalificación de los oferentes cuando dada la complejidad de la consultoría lo considere pertinente.
 
 (Decreto 1510 de 2013, artículo 68)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.4 — Aviso de convocatoria para la precalificación en el concurso de méritos
 
@@ -1426,15 +1272,11 @@ Si la Entidad Estatal decide adelantar el concurso de méritos con precalificaci
 
 (Decreto 1510 de 2013, artículo 69)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.5 — Informe de precalificación
 
 Luego de recibir las manifestaciones de interés y los documentos con los cuales los interesados acrediten la experiencia, formación, publicaciones y la capacidad de organización, la Entidad Estatal debe adelantar la precalificación de acuerdo con lo dispuesto en el aviso de convocatoria para la precalificación. La Entidad Estatal debe elaborar un informe de precalificación y publicarlo en el SECOP por el término establecido en el aviso de convocatoria para la precalificación. Los interesados pueden hacer comentarios al informe de precalificación durante los dos (2) días hábiles siguientes a la publicación del mismo.
 
 (Decreto 1510 de 2013, artículo 70)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.6 — Audiencia de precalificación
 
@@ -1444,8 +1286,6 @@ Si la Entidad Estatal no puede conformar la lista de precalificados, puede conti
 
 (Decreto 1510 de 2013, artículo 71)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.7 — Efectos de la precalificación
 
 La conformación de la lista de precalificados no obliga a la Entidad Estatal a abrir el Proceso de Contratación.
@@ -1454,8 +1294,6 @@ La conformación de la lista de precalificados no obliga a la Entidad Estatal a 
 
 Concurso para la selección de consultores de diseño, planos, anteproyectos y proyectos arquitectónicos
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.8 — Definición de Concurso de Arquitectura
 
 El concurso de arquitectura es el procedimiento mediante el cual la Entidad Estatal, previa invitación pública y en igualdad de oportunidades, selecciona un consultor entre los proponentes interesados en elaborar diseños, planos, anteproyectos y proyectos arquitectónicos.
@@ -1463,8 +1301,6 @@ El concurso de arquitectura es el procedimiento mediante el cual la Entidad Esta
 La convocatoria para la elaboración de estudios o trabajos técnicos relacionados con el desarrollo de la profesión de arquitectura puede conllevar labores técnicas y/o profesionales complementarias de la propuesta, pero siempre su objeto principal será el diseño integral. En estos eventos, los proponentes definirán las labores fundamentales que complementan la propuesta, las cuales no podrán separarse de la misma.
 
 (Decreto 2326 de 1995, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.9 — Partes que intervienen en el concurso de arquitectura
 
@@ -1480,8 +1316,6 @@ En el proceso de selección del concurso de arquitectura intervienen cuatro (4) 
 
 (Decreto 2326 de 1995, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.10 — Modalidades de Concurso de Arquitectura
 
 Según las características y nivel de desarrollo del concurso de arquitectura, se establecen las siguientes modalidades:
@@ -1491,8 +1325,6 @@ Según las características y nivel de desarrollo del concurso de arquitectura, 
 2. De anteproyecto. Es el acto mediante el cual la Entidad Estatal promotora solicita al organismo asesor elaborar las bases del concurso con el fin de obtener soluciones a nivel de anteproyecto de un tema arquitectónico y/o de diseño urbano, tales como edificación nueva, restauración, remodelación, proyectos urbanos, elementos del espacio público.
 
 (Decreto 2326 de 1995, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.11 — Obligaciones de la Entidad Estatal promotora
 
@@ -1532,8 +1364,6 @@ Las siguientes son las obligaciones de la Entidad Estatal promotora:
 
 (Decreto 2326 de 1995, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.12 — Obligaciones del organismo asesor
 
 Las siguientes son las obligaciones del organismo asesor:
@@ -1557,8 +1387,6 @@ Las siguientes son las obligaciones del organismo asesor:
 9. En acto público donde se efectúe la proclamación del fallo, apoyar a la Entidad Estatal promotora. En éste acto se abrirán los sobres que contiene la identificación de los ganadores en los términos de las bases del concurso. Así mismo, se procederá a la adjudicación tal como lo estipula el numeral 10 del artículo 30 de la Ley 80 de 1993.
 
 (Decreto 2326 de 1995, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.13 — Obligaciones del jurado calificador
 
@@ -1584,15 +1412,11 @@ Las siguientes son las obligaciones del jurado calificador:
 
 (Decreto 2326 de 1995, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.14 — .14
 
 Incumplimiento de las Obligaciones del jurado calificador En caso que los miembros del jurado calificador incumplan cualquiera de las obligaciones definidas en los artículos 2.2.1.2.1.3.13 y 2.2.1.2.1.3.20 del presente decreto, será causal para ser removido inmediatamente de su cargo por parte del organismo que representa. Una vez sea removido se procederá a nombrar su remplazo en coordinación con la Entidad Estatal promotora.
 
 (Decreto 2326 de 1995, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.15 — Requisitos y obligaciones de los proponentes
 
@@ -1610,15 +1434,11 @@ Las siguientes son las obligaciones de los proponentes:
 
 (Decreto 2326 de 1995, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.16 — Del organismo asesor
 
 La Entidad Estatal promotora celebrará un contrato de prestación de servicios profesionales con el organismo asesor al iniciar el proceso de selección de concurso público de arquitectura. El organismo asesor podrá ser la Sociedad Colombiana de Arquitectos como cuerpo consultivo del Gobierno Nacional y único organismo idóneo que adelanta en cada una de las regiones del país este tipo de gestiones.
 
 (Decreto 2326 de 1995, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.17 — Composición del jurado calificador
 
@@ -1636,23 +1456,17 @@ Los miembros del jurado calificador deben ser arquitectos matriculados. La compo
 
 (Decreto 2326 de 1995, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.18 — Requisitos de los miembros del jurado calificador
 
 Para ser miembro del jurado calificador se debe ser arquitecto matriculado, y con experiencia profesional de cinco (5) años en el tema o materia afines del concurso de arquitectura en el cual se va a ser parte de este jurado calificador.
 
 (Decreto 2326 de 1995, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.19 — Selección del jurado calificador
 
 El jurado calificador debe ser nombrado y conformado antes de la apertura de concurso de arquitectura y su aceptación implica el cumplimiento de las obligaciones consagradas en artículo 2.2.1.2.1.3.13 del presente decreto.
 
 (Decreto 2326 de 1995, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.20 — Funciones del jurado calificador
 
@@ -1666,15 +1480,11 @@ El jurado calificador puede otorgar menciones honoríficas, las cuales no compro
 
 (Decreto 2326 de 1995, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.21 — De las Personas que intervienen en el concurso de arquitectura
 
 Los miembros del jurado calificador, así como el asesor del concurso de arquitectura nombrado por el organismo asesor, se tendrán como servidores públicos para efectos de las inhabilidades e incompatibilidades para contratar de qué trata el literal f del numeral 1 del artículo 8 de la Ley 80 de 1993.
 
 (Decreto 2326 de 1995, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.22 — Términos de referencia o bases del concurso
 
@@ -1706,23 +1516,17 @@ Los pliegos de condiciones o términos de referencia de que trata la Ley 80 de 1
 
 (Decreto 2326 de 1995, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.23 — Del presupuesto
 
 La Entidad Estatal promotora debe garantizar el cubrimiento de los costos que se generen en el proceso de selección con la respectiva disponibilidad y reserva presupuestal, tal como lo consagran los numerales 6, 13 y 14 del artículo 25 de la Ley 80 de 1993.
 
 (Decreto 2326 de 1995, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.3.24 — De las garantías
 
 El producto final de la convocatoria materia de la presente subsección deberá ser un proyecto en el nivel que se solicite en las bases del concurso. Por lo tanto no deberán presentar la garantía de seriedad de los ofrecimientos hechos.
 
 (Decreto 2326 de 1995, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.3.25 — De la cuantía de los Trabajos Relacionados con el Ejercicio Profesional de la Arquitectura
 
@@ -1733,8 +1537,6 @@ El valor de la cuantía de los contratos de consultoría que resulten del proces
 SUBSECCIÓN 4
 
 CONTRATACIÓN DIRECTA
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4.1 — Acto administrativo de justificación de la contratación directa
 
@@ -1750,23 +1552,17 @@ La Entidad Estatal debe señalar en un acto administrativo la justificación par
 
 (Decreto 1510 de 2013, artículo 73)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4.2 — Declaración de urgencia manifiesta
 
 Si la causal de contratación directa es la urgencia manifiesta, el acto administrativo que la declare hará las veces del acto administrativo de justificación, y en este caso la Entidad Estatal no está obligada a elaborar estudios y documentos previos.
 
 (Decreto 1510 de 2013, artículo 74)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4.3 — No publicidad de estudios y documentos previos
 
 Los estudios y documentos previos elaborados para los siguientes Procesos de Contratación no son públicos: a) la contratación de empréstitos; b) los contratos interadministrativos que celebre el Ministerio de Hacienda y Crédito Público con el Banco de la República, y c) los contratos a los que se refiere el 2.2.1.2.1.4.6 del presente decreto.
 
 (Decreto 1510 de 2013, artículo 75)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4.4 — Convenios o contratos interadministrativos
 
@@ -1776,15 +1572,11 @@ Cuando la totalidad del presupuesto de una Entidad Estatal hace parte del presup
 
 (Decreto 1510 de 2013, artículo 76)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4.5 — No obligatoriedad de garantías
 
 En la contratación directa la exigencia de garantías establecidas en la Sección 3, que comprende los artículos 2.2.1.2.3.1.1 al 2.2.1.2.3.5.1.del presente decreto no es obligatoria y la justificación para exigirlas o no debe estar en los estudios y documentos previos.
 
 (Decreto 1510 de 2013, artículo 77)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4.6 — 4.6
 
@@ -1792,23 +1584,17 @@ Contratación de Bienes y Servicios en el Sector Defensa, la Dirección Nacional
 
 (Decreto 1510 de 2013, artículo 78)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4.7 — Contratación para el desarrollo de actividades científicas y tecnológicas
 
 La contratación directa para el desarrollo de actividades científicas y tecnológicas debe tener en cuenta la definición contenida en el Decreto-Ley 591 de 1991 y las demás normas que lo modifiquen, aclaren, adicionen o sustituyan.
 
 (Decreto 1510 de 2013, artículo 79)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.4.8 — Contratación directa cuando no exista pluralidad de oferentes
 
 Se considera que no existe pluralidad de oferentes cuando existe solamente una persona que puede proveer el bien o el servicio por ser titular de los derechos de propiedad industrial o de los derechos de autor, o por ser proveedor exclusivo en el territorio nacional. Estas circunstancias deben constar en el estudio previo que soporta la contratación.
 
 (Decreto 1510 de 2013, artículo 80)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4.9 — 4.9
 
@@ -1819,8 +1605,6 @@ Los servicios profesionales y de apoyo a la gestión corresponden a aquellos de 
 La Entidad Estatal, para la contratación de trabajos artísticos que solamente puedan encomendarse a determinadas personas naturales, debe justificar esta situación en los estudios y documentos previos.
 
 (Decreto 1510 de 2013, artículo 81)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4.10 — Adquisición de bienes inmuebles
 
@@ -1833,8 +1617,6 @@ Las Entidades Estatales pueden adquirir bienes inmuebles mediante contratación 
 3. La Entidad Estatal puede hacer parte de un proyecto inmobiliario para adquirir el bien inmueble que satisfaga la necesidad que ha identificado, caso en el cual no requiere el avalúo de que trata el numeral 1 anterior.
 
 (Decreto 1510 de 2013, artículo 82)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.4.11 — Arrendamiento de bienes inmuebles
 
@@ -1851,8 +1633,6 @@ Las Entidades Estatales pueden alquilar o arrendar inmuebles mediante contrataci
 (Subsección, Modificada por el Art. 2 del Decreto 1860 de 2021)
 
 MINIMA CUANTIA
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.5.1 — Estudios previos para la contratación de mínima cuantía
 
@@ -1873,8 +1653,6 @@ La Entidad Estatal debe elaborar unos estudios previos que deben contener, como 
 PARÁGRAFO. Dentro de las condiciones técnicas exigidas se podrán incluir aspectos ambientales y sociales en los términos establecidos en el parágrafo del artículo 2.2.1.1.2.2.2. del presente Decreto."
 
 (Modificado por el Artículo 5 del Decreto 142 de 2023)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.5.2 — Procedimiento para la contratación de mínima cuantía
 
@@ -1902,8 +1680,6 @@ PARÁGRAFO . De conformidad con el parágrafo 1 del artículo 30 y el artículo 
 
 (Modificado por el Art. 2 del Decreto 1860 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.5.3 — Adquisiciones en grandes almacenes cuando se trate de mínima cuantía
 
 Las Entidades Estatales deben aplicar las siguientes reglas cuando decidan adquirir bienes hasta por el monto de su mínima cuantía en establecimientos que correspondan a la definición de "gran almacén" señalada por la Superintendencia de Industria y Comercio:
@@ -1918,8 +1694,6 @@ Las Entidades Estatales deben aplicar las siguientes reglas cuando decidan adqui
 
 (Modificado por el Art. 2 del Decreto 1860 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.1.5.4 — 5.4
 
 Instrumentos de Agregación de Demanda en la Tienda Virtual del Estado Colombiano para adquisiciones hasta el monto de la mínima cuantía con Mipymes y Grandes Almacenes. La Agencia Nacional de Contratación Pública-Colombia Compra Eficiente definirá las reglas para la creación y utilización de los catálogos de bienes o servicios derivados de Instrumentos de Agregación de Demanda con Mipymes y Grandes Almacenes en la Tienda Virtual del Estado Colombiano, a los cuales podrán acudir las entidades estatales para celebrar contratos hasta por el monto de la mínima cuantía.
@@ -1931,8 +1705,6 @@ Así mismo, se podrán incorporar criterios sociales y ambientales que determina
 PARÁGRAFO . Las Entidades Estatales con régimen especial de contratación podrán realizar compras en los catálogos de la Tienda Virtual del Estado Colombiano, de acuerdo con lo que establezcan en su Manual de Contratación.
 
 (Modificado por el Artículo. 12 del Decreto 142 de 2023)
-
-ARTÍCULO
 
 ## art:2.2.1.2.1.5.5 — Garantías
 
@@ -1960,15 +1732,11 @@ SUBSECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.1 — Aplicación
 
 La selección abreviada es la modalidad para la enajenación de bienes del Estado, la cual se rige por las disposiciones contenidas en el presente capítulo, salvo por las normas aplicables a la enajenación de los bienes a cargo del Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado y la enajenación de que tratan la Ley 226 de 1995, el Decreto-Ley 254 de 2000 y la Ley 1105 de 2006.
 
 (Decreto 1510 de 2013, artículo 88)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.1.2 — FRISCO
 
@@ -1978,23 +1746,17 @@ PARÁGRAFO TRANSITORIO. Mientras este reglamento se expide, la enajenación de l
 
 (Decreto 1510 de 2013, artículo 89; Decreto 3054 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.3 — Transferencia de bienes a CISA
 
 La enajenación de bienes de las entidades estatales del orden nacional a la Central de Inversiones CISA S. A., de que trata el artículo 238 de la Ley 1450 de 2011 y el Decreto 047 de 2014 y las normas que los modifiquen, adicionen o sustituyan, debe hacerse de conformidad con las reglas establecidas en tales normas.
 
 (Decreto 1510 de 2013, artículo 90)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.4 — Enajenación directa o a través de intermediario idóneo
 
 Las Entidades Estatales que no están obligadas a cumplir con lo establecido en el artículo anterior, pueden realizar directamente la enajenación, o contratar para ello promotores, bancas de inversión, martillos, comisionistas de bolsas de bienes y productos, o cualquier otro intermediario idóneo, según corresponda al tipo de bien a enajenar.
 
 (Decreto 1510 de 2013, artículo 91)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.1.5 — Selección del intermediario idóneo para la enajenación de bienes
 
@@ -2006,23 +1768,17 @@ Las causales de inhabilidad e incompatibilidad y el régimen de conflicto de int
 
 (Decreto 1510 de 2013, artículo 92)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.6 — Objeto del contrato con el intermediario idóneo
 
 El objeto del contrato es la intermediación comercial tendiente al logro y perfeccionamiento de la venta. En el caso de inmuebles y muebles sujetos a registro, el intermediario debe acompañar el proceso de venta hasta el registro y la entrega física del bien, incluyendo la posibilidad de desempeñarse en calidad de mandatario para estos efectos.
 
 (Decreto 1510 de 2013, artículo 93)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.7 — Estudios previos
 
 Los estudios y documentos previos deben contener además de lo señalado en el artículo 2.2.1.1.2.1.1 del presente decreto, el avalúo comercial del bien y el precio mínimo de venta, obtenido de conformidad con lo señalado en el presente título.
 
 (Decreto 1510 de 2013, artículo 94)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.1.8 — Aviso de Convocatoria
 
@@ -2033,8 +1789,6 @@ En el caso de bienes muebles el aviso debe señalar: a) el municipio o distrito 
 Si las condiciones de los bienes requieren información adicional a la indicada en el presente artículo, la Entidad Estatal debe publicarla en el aviso de convocatoria o indicar el lugar en el cual los interesados pueden obtenerla.
 
 (Decreto 1510 de 2013, artículo 95)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.1.9 — Contenido de los pliegos de condiciones
 
@@ -2056,8 +1810,6 @@ La Entidad Estatal puede enajenar el activo a pesar de que tenga cargas derivada
 
 (Decreto 1510 de 2013, artículo 96)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.1.10 — Requisito para la presentación de oferta o postura
 
 Para participar en los procesos de enajenación de bienes del Estado, el oferente debe consignar a favor de la Entidad Estatal un valor no inferior al veinte por ciento (20%) del precio mínimo de venta, como requisito habilitante para participar en el Proceso de Contratación, valor que se imputará al precio cuando el interesado es el adjudicatario.
@@ -2073,8 +1825,6 @@ El oferente que no resulte adjudicatario puede solicitar a la Entidad Estatal ma
 SUBSECCIÓN 2
 
 MECANISMO DE ENAJENACIÓN
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2.1 — Enajenación directa por oferta en sobre cerrado
 
@@ -2096,15 +1846,11 @@ La Entidad Estatal que enajene bienes con el mecanismo de oferta en sobre cerrad
 
 (Decreto 1510 de 2013, artículo 98)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.2.2 — Enajenación directa a través de subasta pública
 
 La Entidad Estatal que enajene bienes con el mecanismo de subasta pública debe seguir el procedimiento establecido en el artículo 2.2.1.2.1.2.2 del presente decreto, teniendo en cuenta que el bien debe ser adjudicado al oferente que haya ofrecido el mayor valor a pagar por los bienes objeto de enajenación y en consecuencia, el Margen Mínimo debe ser al alza.
 
 (Decreto 1510 de 2013, artículo 99)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.2.3 — Enajenación a través de intermediarios idóneos
 
@@ -2116,15 +1862,11 @@ SUBSECCIÓN 3
 
 BIENES INMUEBLES
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3.1 — Avalúo comercial del bien
 
 La Entidad Estatal o su intermediario idóneo, debe avaluar el bien objeto de enajenación. El avalúo puede estar a cargo del Instituto Geográfico Agustín Codazzi o a cargo de una persona especializada inscrita en el Registro Nacional de Avaluadores que lleva la Superintendencia de Industria y Comercio. Los avalúes tienen vigencia de un año.
 
 (Decreto 1510 de 2013, artículo 101)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.3.2 — Precio mínimo de venta
 
@@ -2186,8 +1928,6 @@ La Entidad Estatal debe establecer el precio mínimo de venta con base en las si
 
 (Decreto 1510 de 2013, artículo 102)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3.3 — Otorgamiento de la escritura pública
 
 La escritura pública debe otorgarse en la notaría de reparto correspondiente, dentro de los cuarenta y cinco (45) días calendario siguientes a la fecha en la cual el adjudicatario acredite el pago total del precio de venta. Solamente puede otorgarse la escritura pública antes del pago total del saldo del inmueble cuando esto sea necesario para cumplir condiciones para el desembolso del precio de venta.
@@ -2198,15 +1938,11 @@ En el evento de presentarse alguna circunstancia de caso fortuito o fuerza mayor
 
 (Decreto 1510 de 2013, artículo 103)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.3.4 — Gastos de registro y derechos notariales
 
 Los derechos notariales, los gastos de fotocopias, autenticaciones y los impuestos de venta y registro se liquidarán y pagarán de conformidad con las normas legales vigentes sobre la materia.
 
 (Decreto 1510de 2013, artículo 104)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.3.5 — Entrega material del bien inmueble
 
@@ -2220,15 +1956,11 @@ SUBSECCIÓN 4
 
 BIENES MUEBLES
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4.1 — Precio mínimo de venta de bienes muebles no sujetos a registro
 
 La Entidad Estatal debe tener en cuenta el resultado del estudio de las condiciones de mercado, el estado de los bienes muebles y el valor registrado en los libros contables de la misma.
 
 (Decreto 1510 de 2013, artículo 106)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.4.2 — Precio mínimo de venta de bienes muebles sujetos a registro
 
@@ -2240,8 +1972,6 @@ La Entidad Estatal debe tener en cuenta lo siguiente:
 
 (Decreto 1510 de 2013, artículo 107)
 
-ARTÍCULO
-
 ## art:2.2.1.2.2.4.3 — Enajenación de bienes muebles a título gratuito entre Entidades Estatales
 
 Las Entidades Estatales deben hacer un inventario de los bienes muebles que no utilizan y ofrecerlos a título gratuito a las Entidades Estatales a través de un acto administrativo motivado que deben publicar en su página web.
@@ -2251,8 +1981,6 @@ La Entidad Estatal interesada en adquirir estos bienes a título gratuito, debe 
 Si hay dos o más manifestaciones de interés de Entidades Estatales para el mismo bien, la Entidad Estatal que primero haya manifestado su interés debe tener preferencia. Los representantes legales de la Entidad Estatal titular del bien y la interesada en recibirlo, deben suscribir un acta de entrega en la cual deben establecer la fecha de la entrega material del bien, la cual no debe ser mayor a treinta (30) días calendario, contados a partir de la suscripción del acta de entrega.
 
 (Decreto 1510 de 2013, artículo 108)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2.4.4 — Enajenación de otros bienes
 
@@ -2282,15 +2010,11 @@ SUBSECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.1 — Riesgos que deben cubrir las garantías en la contratación
 
 El cumplimiento de las obligaciones surgidas en favor de las Entidades Estatales con ocasión de: (i) la presentación de las ofertas; (ii) los contratos y su liquidación; y (iii) los riesgos a los que se encuentran expuestas las Entidades Estatales, derivados de la responsabilidad extracontractual que pueda surgir por las actuaciones, hechos u omisiones de sus contratistas y subcontratistas, deben estar garantizadas en los términos de la ley y del presente título.
 
 (Decreto 1510 de 2013, artículo 110)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.2 — Clases de garantías
 
@@ -2303,8 +2027,6 @@ Las garantías que los oferentes o contratistas pueden otorgar para asegurar el 
 3. Garantía Bancaria.
 
 (Decreto 1510 de 2013, artículo 111)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.3 — Indivisibilidad de la garantía
 
@@ -2322,23 +2044,17 @@ Si el garante de una Etapa del Contrato o un Periodo Contractual decide no conti
 
 (Decreto 1510 de 2013, artículo 112)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.4 — Garantía del oferente plural
 
 Cuando la oferta es presentada por un proponente plural, como unión temporal, consorcio o promesa de sociedad futura, la garantía debe ser otorgada por todos sus integrantes.
 
 (Decreto 1510 de 2013, artículo 113)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.5 — Cobertura del Riesgo de responsabilidad civil extracontractual
 
 La responsabilidad extracontractual de la administración derivada de las actuaciones, hechos u omisiones de sus contratistas o subcontratistas solamente puede ser amparada con un contrato de seguro.
 
 (Decreto 1510 de 2013, artículo 114)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.6 — Garantía de los Riesgos derivados del incumplimiento de la oferta
 
@@ -2353,8 +2069,6 @@ La garantía de seriedad de la oferta debe cubrir la sanción derivada del incum
 4. La falta de otorgamiento por parte del proponente seleccionado de la garantía de cumplimiento del contrato.
 
 (Decreto 1510 de 2013, artículo 115)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.7 — Garantía de cumplimiento
 
@@ -2388,8 +2102,6 @@ La Entidad Estatal no debe exigir una garantía para cubrir este Riesgo en los c
 
 (Decreto 1510 de 2013, artículo 116)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.8 — Cubrimiento de la responsabilidad civil extracontractual
 
 La Entidad Estatal debe exigir en los contratos de obra, y en aquellos en que por su objeto o naturaleza lo considere necesario con ocasión de los Riesgos del contrato, el otorgamiento de una póliza de responsabilidad civil extracontractual que la proteja de eventuales reclamaciones de terceros derivadas de la responsabilidad extracontractual que surja de las actuaciones, hechos u omisiones de su contratista.
@@ -2397,8 +2109,6 @@ La Entidad Estatal debe exigir en los contratos de obra, y en aquellos en que po
 La Entidad Estatal debe exigir que la póliza de responsabilidad extracontractual cubra también los perjuicios ocasionados por eventuales reclamaciones de terceros derivadas de la responsabilidad extracontractual que surjan de las actuaciones, hechos u omisiones de los subcontratistas autorizados o en su defecto, que acredite que el subcontratista cuenta con un seguro propio con el mismo objeto y que la Entidad Estatal sea el asegurado.
 
 (Decreto 1510 de 2013, artículo 117)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.9 — Suficiencia de la garantía de seriedad de la oferta
 
@@ -2422,23 +2132,17 @@ PARÁGRAFO . Colombia Compra Eficiente podrá definir un valor de suficiencia di
 
 (Decreto 1510 de 2013, artículo 118)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.10 — Suficiencia de la garantía de buen manejo y correcta inversión del anticipo
 
 La Garantía de buen manejo y correcta inversión del anticipo debe estar vigente hasta la liquidación del contrato o hasta la amortización del anticipo, de acuerdo con lo que determine la Entidad Estatal. El valor de esta garantía debe ser el ciento por ciento (100%) de la suma establecida como anticipo, ya sea este en dinero o en especie.
 
 (Decreto 1510 de 2013, artículo 119)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.11 — Suficiencia de la garantía de pago anticipado
 
 La garantía de pago anticipado debe estar vigente hasta la liquidación del contrato o hasta que la Entidad Estatal verifique el cumplimiento de todas las actividades o la entrega de todos los bienes o servicios asociados al pago anticipado, de acuerdo con lo que determine la Entidad Estatal. El valor de esta garantía debe ser el ciento por ciento (100%) del monto pagado de forma anticipada, ya sea este en dinero o en especie.
 
 (Decreto 1510 de 2013, artículo 120)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.12 — Suficiencia de la garantía de cumplimiento
 
@@ -2454,15 +2158,11 @@ La garantía de cumplimiento del contrato debe tener una vigencia mínima hasta 
 
 (Decreto 1510 de 2013, artículo 121)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.13 — Suficiencia de la garantía de pago de salarios, prestaciones sociales legales e indemnizaciones laborales
 
 Esta garantía debe estar vigente por el plazo del contrato y tres (3) años más. El valor de la garantía no puede ser inferior al cinco por ciento (5%) del valor total del contrato.
 
 (Decreto 1510 de 2013, artículo 122)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.14 — Suficiencia de la garantía de estabilidad y calidad de la obra
 
@@ -2474,23 +2174,17 @@ Para establecer la complejidad técnica del proyecto, y por ende la vigencia de 
 
 (Modificado por el Art. 3 del Decreto 399 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.15 — Suficiencia de la garantía de calidad del servicio
 
 La Entidad Estatal debe determinar el valor y el plazo de la garantía de acuerdo con el objeto, el valor, la naturaleza y las obligaciones contenidas en el contrato. En los contratos de interventoría, la vigencia de este amparo debe ser igual al plazo de la garantía de estabilidad del contrato principal en cumplimiento del parágrafo del artículo 85 de la Ley 1474 de 2011.
 
 (Decreto 1510 de 2013, artículo 124)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.16 — Suficiencia de la garantía de calidad de bienes
 
 La Entidad Estatal debe determinar el valor y el plazo de la garantía de acuerdo con el objeto, el valor, la naturaleza, las obligaciones contenidas en el contrato, la garantía mínima presunta y los vicios ocultos.
 
 (Decreto 1510 de 2013, artículo 125)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.17 — Suficiencia del seguro de responsabilidad civil extracontractual
 
@@ -2510,8 +2204,6 @@ La vigencia de esta garantía deberá ser igual al período de ejecución del co
 
 (Decreto 1510 de 2013, artículo 126)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.1.18 — Restablecimiento o ampliación de la garantía
 
 Cuando con ocasión de las reclamaciones efectuadas por la Entidad Estatal, el valor de la garantía se reduce, la Entidad Estatal debe solicitar al contratista restablecer el valor inicial de la garantía.
@@ -2521,8 +2213,6 @@ Cuando el contrato es modificado para incrementar su valor o prorrogar su plazo,
 La Entidad Estatal debe prever en los pliegos de condiciones para la Contratación, el mecanismo que proceda para restablecer la garantía, cuando el contratista incumpla su obligación de obtenerla, ampliarla o adicionarla.
 
 (Decreto 1510 de 2013, artículo 127)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.1.19 — Efectividad de las garantías
 
@@ -2540,8 +2230,6 @@ SUBSECCIÓN 2
 
 CONTRATO DE SEGURO
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2.1 — Amparos
 
 El objeto de cada uno de los amparos debe corresponder al definido en los artículos 2.2.1.2.3.1.6, 2.2.1.2.3.1. 7 y 2.2.1.2.3.1.8 del presente decreto.
@@ -2550,15 +2238,11 @@ Los amparos deben ser independientes unos de otros respecto de sus Riesgos y de 
 
 (Decreto 1510 de 2013, artículo 129)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2.2 — Cesión del contrato
 
 Si hay lugar a cesión del contrato a favor del garante, este está obligado a constituir las garantías previstas en el contrato.
 
 (Decreto 1510 de 2013, artículo 130)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2.3 — Exclusiones
 
@@ -2574,15 +2258,11 @@ La Entidad Estatal solamente admitirá las siguientes exclusiones, en el contrat
 
 (Decreto 1510 de 2013, artículo 131)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2.4 — Inaplicabilidad de la cláusula de proporcionalidad
 
 En el contrato de seguro que ampara el cumplimiento, la compañía de seguros no puede incluir la cláusula de proporcionalidad y tampoco otra cláusula similar en el sentido de que el valor asegurado ampara los perjuicios derivados del incumplimiento total del contrato garantizado pero frente a un incumplimiento parcial, la compañía de seguros solamente paga los perjuicios causados en proporción al incumplimiento parcial de la obligación garantizada. La inclusión de una cláusula en ese sentido no producirá efecto alguno.
 
 (Decreto 1510 de 2013, artículo 132)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2.5 — Improcedencia de la terminación automática y de la facultad de revocación del seguro
 
@@ -2590,15 +2270,11 @@ La garantía única de cumplimiento expedida a favor de Entidades Estatales no e
 
 (Decreto 1510 de 2013, artículo 133)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3.2.6 — Inoponibilidad de excepciones de la compañía de seguros
 
 La compañía de seguros no puede oponerse o defenderse de las reclamaciones que presente la Entidad Estatal alegando la conducta del tomador del seguro, en especial las inexactitudes o reticencias en que este hubiere incurrido con ocasión de la contratación del seguro o cualquier otra excepción que tenga el asegurador en contra del contratista.
 
 (Decreto 1510 de 2013, artículo 134)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2.7 — Prohibición a las compañías de seguros
 
@@ -2606,15 +2282,11 @@ Para la venta de alguno de los amparos de que trata la presente subsección, las
 
 (Decreto 1510 de 2013, artículo 135)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.2.8 — Sanción por incumplimiento de la seriedad de la oferta
 
 En caso de siniestro en la garantía de la seriedad de la oferta, la compañía de seguros debe responder por el total del valor asegurado a título de sanción.
 
 (Decreto 1510 de 2013, artículo 136)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2.9 — Requisitos del seguro de responsabilidad civil extracontractual
 
@@ -2638,15 +2310,11 @@ El amparo de responsabilidad civil extracontractual debe cumplir los siguientes 
 
 (Decreto 1510 de 2013, artículo 137)
 
-ARTÍCULO
-
 ## art:2.2.1.3.3.2.10 — Mecanismos de participación en la pérdida por parte de la Entidad Estatal asegurada
 
 En el contrato de seguro que ampara la responsabilidad civil extracontractual solamente se pueden pactar deducibles hasta del diez por ciento (10%) del valor de cada pérdida y en ningún caso pueden ser superiores a dos mil (2.000) SMML V. No serán admisibles las franquicias, coaseguros obligatorios y demás formas de estipulación que impliquen la asunción de parte de la pérdida por la entidad asegurada.
 
 (Decreto 1510 de 2013, artículo 138)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.2.11 — Protección de los bienes
 
@@ -2657,8 +2325,6 @@ La Entidad Estatal debe exigir a su contratista un contrato de seguro que ampare
 SUBSECCIÓN 3
 
 PATRIMONIO AUTÓNOMO
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.3.1 — Patrimonio autónomo como garantía
 
@@ -2686,8 +2352,6 @@ El contrato de fiducia mercantil por medio del cual se crea el patrimonio autón
 
 (Decreto 1510 de 2013, artículo 140)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3.2 — Admisibilidad de bienes para conformar el patrimonio autónomo
 
 Los bienes o derechos fideicomitidos para crear el patrimonio autónomo que sirve de garantía en los términos de los artículos 2.2.1.2.3.1.6 y 2.2.1.2.3.1. 7 del presente decreto, deben ofrecer a la Entidad Estatal un respaldo idóneo y suficiente para el pago de las obligaciones garantizadas.
@@ -2700,8 +2364,6 @@ La Entidad Estatal solamente puede aceptar como garantía el patrimonio autónom
 
 (Decreto 1510 de 2013, artículo 141)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3.3 — Avalúo de los bienes inmuebles fideicomitidos
 
 La sociedad fiduciaria debe ordenar el avalúo de los bienes inmuebles, el cual debe hacerse bajo el criterio de valor de realización a corto plazo para efectos de determinar la suficiencia de la garantía. La sociedad fiduciaria debe actualizar el avalúo con la frecuencia establecida en las normas aplicables. Si el avalúo disminuye en más de diez por ciento (10%) de año a año, el fideicomitente debe aportar nuevos bienes para que la garantía sea suficiente.
@@ -2709,8 +2371,6 @@ La sociedad fiduciaria debe ordenar el avalúo de los bienes inmuebles, el cual 
 El avalúo debe estar a cargo de una institución especializada inscrita en el Registro Nacional de Avaluadores que lleva la Superintendencia de Industria y Comercio. La remuneración de los Avaluadores y de los costos del avalúo debe ser cubierta por la sociedad fiduciaria con cargo a los recursos del fideicomiso.
 
 (Decreto 1510 de 2013, artículo 142)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.3.4 — Certificado de Garantía
 
@@ -2730,15 +2390,11 @@ La sociedad fiduciaria debe expedir a nombre de la Entidad Estatal un certificad
 
 (Decreto 1510de 2013, artículo 143)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3.3.5 — Excepción de contrato no cumplido
 
 La sociedad fiduciaria no puede proponer la excepción de contrato no cumplido frente a la Entidad Estatal.
 
 (Decreto 1510 de 2013, artículo 144)
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.3.6 — Retención
 
@@ -2749,8 +2405,6 @@ De las rentas periódicas que produzcan los bienes o derechos que conforman el p
 SUBSECCIÓN 4
 
 GARANTÍAS BANCARIAS
-
-ARTÍCULO
 
 ## art:2.2.1.2.3.4.1 — Garantías bancarias
 
@@ -2786,8 +2440,6 @@ SUBSECCIÓN 1
 
 ACUERDOS COMERCIALES Y TRATO NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.1.1 — Aplicación de los Acuerdos Comerciales en Procesos de Contratación
 
 Las Entidades Estatales deben adelantar los Procesos de Contratación de acuerdo con lo previsto en los Acuerdos Comerciales, cuando estos les sean aplicables.
@@ -2796,15 +2448,11 @@ Las Entidades Estatales deben adelantar los Procesos de Contratación de acuerdo
 
 (Decreto 1510 de 2013, artículo 148)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.1.2 — Concurrencia de varios Acuerdos Comerciales
 
 Si un mismo Proceso de Contratación está sometido a varios Acuerdos Comerciales, la Entidad Estatal debe adoptar las medidas necesarias para el cumplimiento de la totalidad de los compromisos previstos en los Acuerdos Comerciales.
 
 (Decreto 1510 de 2013, artículo 149)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.1.3 — 1.3
 
@@ -2820,8 +2468,6 @@ SUBSECCIÓN 2
 
 INCENTIVOS EN LA CONTRATACIÓN PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.1 — Incentivos en la contratación pública
 
 La Entidad Estatal debe establecer en los pliegos de condiciones para la contratación, dentro de los criterios de calificación de las propuestas, los incentivos para los bienes, servicios y oferentes nacionales o aquellos considerados nacionales con ocasión de la existencia de trato nacional.
@@ -2829,8 +2475,6 @@ La Entidad Estatal debe establecer en los pliegos de condiciones para la contrat
 Este incentivo no es aplicable en los procesos para la adquisición de Bienes y Servicios de Características Técnicas Uniformes.
 
 (Decreto 1510 de 2013, artículo 151)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.2 — Convocatorias limitadas a Mípyme
 
@@ -2846,15 +2490,11 @@ PARÁGRAFO . Las cooperativas y demás entidades de economía solidaria, siempre
 
 (Modificado por el Art. 5 del Decreto 1860 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.3 — Limitaciones territoriales
 
 De conformidad con el parágrafo 1 del artículo 12 de la Ley 1150 de 2007, las Entidades Estatales, independientemente de su régimen de contratación, los patrimonios autónomos constituidos por Entidades Estatales y los particulares que ejecuten recursos públicos, pueden realizar convocatorias limitadas a Mipyme colombianas que tengan domicilio en los departamentos o municipios en donde se va a ejecutar el contrato. Cada Mipyme deberá acreditar su domicilio con los documentos a los que se refiere el siguiente artículo.
 
 (Modificado por el Art. 5 del Decreto 1860 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.4 — Acreditación de requisitos para participar en convocatorias limitadas
 
@@ -2877,8 +2517,6 @@ PARÁGRAFO 4. Los incentivos previstos en los artículos 2.2.1.2.4.2.2 y 2.2.1.2
 (Modificado por el Art. 5 del Decreto 1860 de 2021)
 
  (Decreto 1510 de 2013, artículo 154)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.5 — Desagregación tecnológica
 
@@ -2919,8 +2557,6 @@ PARÁGRAFO. Respecto de los incentivos contractuales para los emprendimientos y 
  Vigencia
  
  Antes de la modicación
-
- ARTÍCULO
 
 ## art:2.2.1.2.4.2.7 — Seguimiento durante la ejecución del contrato
 
@@ -3082,8 +2718,6 @@ PARÁGRAFO 1. La Agencia Nacional de Contratación Pública - Colombia Compra Ef
  
  Antes de la modicación
 
- ARTÍCULO
-
 ## art:2.2.1.2.4.2.7.9 — ACCESO Y ACCESIBILIDAD DEL SISTEMA ELECTRÓNICO DE CONTRATACIÓN PÚBLICA - SECOP
 
 Con el fin de materializar el pleno ejercicio de los derechos de las personas con discapacidad en las compras y contratación Pública, el SECOP deberá ser configurado para que esta población pueda consultar información sobre los procesos de contratación de las entidades, y utilizar el usuario proveedor para presentar ofertas a aquellos que sean de su interés, así come las otras funcionalidades dentro de la plataforma, propendiendo por las interoperabilidades necesarias con sistemas públicos para evitar la solicitud de documentación que pueda ser consultada en bases de dates Públicas. Esto deberá tener en cuenta las categorías de discapacidad definidas por el Ministerio de Salud y Protección Social, los ajustes razonables para cada categoría y la normativa sobre la accesibilidad a la información Pública en ambientes electrónicos.
@@ -3093,8 +2727,6 @@ PARÁGRAFO. La Agencia Nacional de Contratación Pública - Colombia Compra Efic
 Con el propósito de ejercer el correcto monitoreo, evaluación y desempeño de las contrataciones realizadas bajo el enfoque de compras Públicas socialmente responsables, las Entidades Públicas deberán diligenciar de forma correcta los marcadores que dispondrá la Agencia en el SECOP para identificar los contratos en los cuales fueron incluidos criterios sociales en favor de la población con discapacidad.
 
 (Modificado por el Art.1 del Decreto 0287 de 2026)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.9 — Puntaje para la promoción de la industria nacional en los Procesos de Contratación de servicios
 
@@ -3113,8 +2745,6 @@ En aquellos casos en que, de acuerdo con el objeto contractual, no existan biene
 La Entidad Estatal documentará este análisis y dejará constancia en los Documentos del Proceso.
 
 (Adicionado por el Art. 2 del Decreto 680 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.10 — .10
 
@@ -3176,8 +2806,6 @@ PARÁGRAFO 2. Si la oferta es presentada por un consorcio o unión temporal, se 
 
 (Adicionado por el Art. 2 del Decreto 1279 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.11 — Definiciones
 
 Para efectos de la aplicación del incentivo contenido en el artículo 2.2.1.2.4.2.10. del presente Decreto se tendrán en cuenta las siguientes definiciones:
@@ -3202,8 +2830,6 @@ Cooperativa de Vigilancia y Seguridad Privada: Es la empresa asociativa sin áni
 
 (Adicionado por el Art. 2 del Decreto 1279 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.12 — Seguimiento durante la ejecución del contrato
 
 Las Entidades Estatales, a través del interventor o supervisor, deberán verificar durante la ejecución del contrato, que los proponentes que resultaron adjudicatarios mantienen las condiciones de la oferta con el número de trabajadores (mujeres, personas con discapacidad y personas mayores de cuarenta y cinco años) con las cuales obtuvieron el puntaje adicional. Para estos efectos, el contratista deberá aportar a la entidad estatal contratante en cada pago, la documentación que así lo demuestre.
@@ -3212,8 +2838,6 @@ PARÁGRAFO . En el evento en que los porcentajes acreditados por el proponente p
 
 (Adicionado por el Art. 2 del Decreto 1279 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.13 — Mecanismo de seguimiento al porcentaje de puntaje adicional
 
 La Agencia Nacional de Contratación Pública - Colombia Compra Eficiente, a través de la metodología que defina la Subdirección de Estudios de Mercado y Abastecimiento Estratégico, realizará un reporte donde conste la relación de una muestra aleatoria de los contratos publicados en el SECOP II que, en la modalidad de licitación pública, suscriban las empresas o cooperativas de vigilancia y seguridad privada a partir del año 2021.
@@ -3221,8 +2845,6 @@ La Agencia Nacional de Contratación Pública - Colombia Compra Eficiente, a tra
 El mencionado reporte se publicará en la página web de Colombia Compra Eficiente en el mes de enero de cada año a partir del año 2022 y en él se adjuntará el detalle del porcentaje de la diferencia entre el puntaje del adjudicatario y el puntaje del proponente ubicado de segundo en el orden de elegibilidad en los contratos que celebren las empresas o cooperativas de vigilancia y seguridad privada en la modalidad descrita, así como también una revisión estadística del incentivo otorgado en el artículo 2.2.1.2.4.2.10 del presente Decreto.
 
 (Adicionado por el Art. 2 del Decreto 1279 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.14 — Definición de emprendimientos y empresas de mujeres
 
@@ -3245,8 +2867,6 @@ La certificación deberá relacionar el nombre completo y el número de document
 PARÁGRAFO . Respecto a los incentivos contractuales para los emprendimientos y empresas de mujeres, las certificaciones de trata el presente artículo deben expedirse bajo la gravedad de juramento con una fecha de máximo treinta (30) días calendario anteriores a la prevista para el cierre del procedimiento de selección.
 
 (Adicionado por el Art. 3 del Decreto 1860 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.15 — Criterios diferenciales para emprendimientos y empresas de mujeres en el sistema de compras públicas
 
@@ -3274,8 +2894,6 @@ PARÁGRAFO 2. Los incentivos contractuales para las empresas y emprendimientos d
 
 (Adicionado por el Art. 3 del Decreto 1860 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.16 — .16
 
 Fomento a la ejecución de contratos estatales por parte de población en pobreza extrema, desplazados por la violencia, personas en proceso de reintegración o reincorporación y sujetos de especial protección constitucional. En los Procesos de Contratación, las Entidades Estatales indistintamente de su régimen de contratación, los patrimonios autónomos constituidos por Entidades Estatales y los particulares que ejecuten recursos públicos fomentarán en los pliegos de condiciones o documento equivalente que los contratistas destinen al cumplimiento del objeto contractual la provisión de bienes o servicios por parte de población en pobreza extrema, desplazados por la violencia, personas en proceso de reintegración o reincorporación y sujetos de especial protección constitucional, garantizando las condiciones de calidad y sin perjuicio de los Acuerdos Comerciales vigentes.
@@ -3295,8 +2913,6 @@ Estas circunstancias se acreditarán en las condiciones que disponga la ley o el
 PARÁGRAFO 2. Para efectos de los Procesos de Contratación regidos por documentos tipo, con sujeción a la potestad prevista en este artículo, la Agencia Nacional de Contratación Pública - Colombia Compra Eficiente regulará el porcentaje de sujetos de especial protección constitucional que el contratista destinará al cumplimiento de las obligaciones, las condiciones para incorporarlos a la ejecución del contrato y las sanciones pecuniarias producto del incumplimiento injustificado de la obligación.
 
 (Adicionado por el Art. 3 del Decreto 1860 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.2.17 — Factores de desempate y acreditación
 
@@ -3404,8 +3020,6 @@ En armonía con lo anterior, en la plataforma del SECOP no se publicará para co
 
 (Adicionado por el Art. 3 del Decreto 1860 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.18 — Criterios diferenciales para Mipyme en el sistema de compras públicas
 
 De acuerdo con el numeral 1 del artículo 12 de la Ley 590 de 2000, según los resultados del análisis del sector, las Entidades Estatales indistintamente de su régimen de contratación, los patrimonios autónomos constituidos por Entidades Estatales y los particulares que ejecuten recursos públicos establecerán condiciones habilitantes diferenciales que promuevan y faciliten la participación en los procedimientos de selección competitivos de las Mipyme domiciliadas en Colombia. Para el efecto, en función de los criterios de clasificación empresarial, los Documentos del Proceso deberán incorporar requisitos habilitantes diferenciales relacionados con alguno o algunos de los siguientes aspectos:
@@ -3450,8 +3064,6 @@ SUBSECCIÓN 3
 
 CONTRATOS EJECUTADOS FUERA DEL TERRITORIO NACIONAL
 
-ARTÍCULO
-
 ## art:2.2.1.2.4.3.1 — Régimen aplicable a los contratos ejecutados en el exterior
 
 Los Procesos de Contratación adelantados por las Entidades Estatales en el exterior para los contratos que deban ejecutarse fuera del territorio nacional pueden someterse a la ley extranjera.
@@ -3459,8 +3071,6 @@ Los Procesos de Contratación adelantados por las Entidades Estatales en el exte
 SUBSECCIÓN 4
 
 CONTRATOS O CONVENIOS CON ORGANISMOS INTERNACIONALES
-
-ARTÍCULO
 
 ## art:2.2.1.2.4.4.1 — Régimen aplicable a los contratos o convenios de cooperación Internacional
 
@@ -3482,8 +3092,6 @@ SECCIÓN 5
 
 COLOMBIA COMPRA EFICIENTE
 
-ARTÍCULO
-
 ## art:2.2.1.2.5.1 — Implementación del modelo de Plan Anual de Adquisiciones
 
 Colombia Compra Eficiente debe establecer los lineamientos y diseñará e implementará el formato que debe ser utilizado por las Entidades Estatales para elaborar el Plan Anual de Adquisiciones.
@@ -3491,8 +3099,6 @@ Colombia Compra Eficiente debe establecer los lineamientos y diseñará e implem
 (Decreto 1510 de 2013, artículo 158)
 
 Artículo declarado NULO por el Consejo de Estado, Sección Tercera, Expediente No. 11001-03-26-000-2014-00029-00(50199) de 03/04/2020, Consejero Ponente Dr. Alberto Montaña Plata.
-
-ARTÍCULO
 
 ## art:2.2.1.2.5.2 — Estándares y documentos tipo
 
@@ -3507,8 +3113,6 @@ Sin perjuicio de la función permanente que el Decreto-Ley 4170 de 2011 le asign
 4. Minutas tipo de contratos.
 
 (Decreto 1510 de 2013, artículo 159)
-
-ARTÍCULO
 
 ## art:2.2.1.2.5.3 — Manual de contratación
 
@@ -3526,13 +3130,9 @@ SUBSECCIÓN 1
 
 DOCUMENTOS TIPO PARA LICITACIÓN DE OBRA PÚBLICA DE INFRAESTRUCTURA DE TRANSPORTE
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.1.1 — Objeto
 
 La presente subsección tiene por objeto adoptar los Documentos Tipo para los pliegos de condiciones de los procesos de selección de licitación de obra pública de infraestructura de transporte.
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.1.2 — Alcance
 
@@ -3586,8 +3186,6 @@ E. FORMULARIOS
 
 PARÁGRAFO . Cuando la entidad estatal utilice SECOP II, o el sistema que haga sus veces, debe adaptar el contenido de los Documentos Tipo a esta plataforma.
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.1.3 — Desarrollo e implementación de los Documentos Tipo
 
 La Agencia Nacional de Contratación Pública - Colombia Compra Eficiente, en coordinación con el Departamento Nacional de Planeación (DNP) y el Ministerio de Transporte, desarrollará e implementará los Documentos Tipo. Para ello, deberá tener en cuenta los siguientes parámetros:
@@ -3616,13 +3214,9 @@ Las disposiciones definidas por la Agencia Nacional de Contratación Pública - 
 
 PARÁGRAFO . La Agencia Nacional de Contratación Pública - Colombia Compra Eficiente, en coordinación con el Departamento Nacional de Planeación n (DNP) y el Ministerio de Transporte revisará periódicamente el contenido de los Documentos Tipo, con el fin de adaptarlos a la realidad de la contratación del país.
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.1.4 — Inalterabilidad de los Documentos Tipo
 
 Las entidades estatales contratantes no podrán incluir o modificar dentro de los Documentos del Proceso las condiciones habilitantes, los factores técnicos y económicos de escogencia y los sistemas de ponderación distintos a los señalados en los Documentos Tipo.
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.1.5 — Bienes o servicios adicionales a la obra pública
 
@@ -3635,8 +3229,6 @@ Cuando el objeto contractual incluya bienes o servicios ajenos a la obra públic
 3. Abstenerse de pedir experiencia exclusiva con entidades estatales, experiencia previa en un territorio específico, limitada en el tiempo o que incluya volúmenes o cantidades de obra específica.
 
 4. Clasificar la experiencia requerida solo hasta el tercer nivel del Clasificador de Bienes y Servicios e incluir exclusivamente los códigos que estén relacionados directamente con el objeto a contratar.
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.1.6 — Declaratoria desierta del proceso de licitación
 
@@ -3654,13 +3246,9 @@ SUBSECCIÓN 2
 
 Documentos Tipo para selección abreviada de menor cuantía de obra pública de infraestructura de transporte
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.2.1 — Objeto
 
 La presente subsección tiene por objeto adoptar los Documentos Tipo para los pliegos de condiciones de los procesos de obra pública de infraestructura de transporte que se adelanten por la modalidad de selección abreviada de menor cuantía.
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.2.2 — Alcance
 
@@ -3716,8 +3304,6 @@ E. FORMULARIOS
 
 PARÁGRAFO . Cuando la Entidad Estatal utilice SECOP II, o el sistema que haga sus veces, debe adaptar el contenido de los Documentos Tipo a esta plataforma.
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.2.3 — Criterios para selección abreviada de menor cuantía
 
 La Agencia Nacional de Contratación Pública - Colombia Compra Eficiente - en coordinación con el Departamento Nacional de Planeación (DNP) y el Ministerio de Transporte, deberán tener en cuenta los parámetros definidos en el artículo 2.2.1.2.6.1.3. del presente Decreto para el desarrollo e implementación de Documentos Tipo en la modalidad de selección abreviada de menor cuantía de obra pública de infraestructura de transporte, salvo lo referente al puntaje adicional para proponentes con trabajadores con discapacidad de que tratan los artículos 2.2.1.2.4.2.6, 2.2.1.2.4.2.7, y 2.2.1.2.4.2.8 del presente Decreto.
@@ -3731,8 +3317,6 @@ SUBSECCIÓN 3
 (Subsección Adicionada por el Art. 1 del Decreto 594 de 2020)
 
 DOCUMENTOS TIPO PARA MÍNIMA CUANTÍA DE OBRA PÚBLICA DE INFRAESTRUCTURA DE TRANSPORTE
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.3.1 — Objeto
 
@@ -3778,8 +3362,6 @@ E. FORMULARIOS
 
 PARÁGRAFO . Cuando la Entidad Estatal utilice SECOP II, o el sistema que haga sus veces, debe adaptar el contenido de los Documentos Tipo a esta plataforma.
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.3.3 — Desarrollo e implementación de los Documentos Tipo de mínima cuantía
 
 La Agencia Nacional de Contratación Pública Colombia Compra Eficiente, en coordinación con el Departamento Nacional de Planeación (DNP) y el Ministerio de Transporte, desarrollará e implementará los Documentos Tipo para la modalidad de mínima cuantía de obra pública de infraestructura de transporte. Para ello deberá tener en cuenta los siguientes parámetros:
@@ -3804,13 +3386,9 @@ Las disposiciones definidas por la Agencia Nacional de Contratación Pública Co
 
 PARÁGRAFO . La Agencia Nacional de Contratación Pública Colombia Compra Eficiente , en coordinación con el Departamento Nacional de Planeación (DNP) y el Ministerio de Transporte revisará periódicamente el contenido de los Documentos Tipo, con el fin de adaptarlos a la realidad de la contratación del país.
 
-ARTÍCULO
-
 ## art:2.2.1.2.6.3.4 — Inalterabilidad de los Documentos Tipo
 
 Las entidades estatales contratantes no podrán incluir o modificar dentro de los Documentos del Proceso, condiciones habilitantes y factores económicos de escogencia distintos a los señalados en los Documentos Tipo.
-
-ARTÍCULO
 
 ## art:2.2.1.2.6.3.5 — Bienes o servicios adicionales a la obra pública
 
@@ -3834,15 +3412,11 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.1 — Objeto
 
 El presente título reglamenta la estructuración y ejecución de los proyectos de Asociación Público Privada tanto de iniciativa pública como privada a los que se refiere la Ley 1508 de 2012.
 
 (Decreto 1467 de 2012, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.1.2 — Definiciones
 
@@ -3864,8 +3438,6 @@ Fondos Públicos: Son aquellos que comportan procesos de programación, aprobaci
 
 (Decreto 1467 de 2012, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.1.3 — Oferentes en proyectos de Asociación Público Privada
 
 Pueden presentar propuestas para ejecutar proyectos de Asociación Público Privada con las entidades estatales competentes, las personas naturales y jurídicas.
@@ -3880,15 +3452,11 @@ SECCIÓN 2
 
 DISPONIBILIDAD, NIVELES DE SERVICIO Y ESTÁNDARES DE CALIDAD
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.1 — Disponibilidad de la infraestructura
 
 Para efectos del presente título, la infraestructura está disponible cuando está en uso y cumple con los Niveles de Servicio y los Estándares de Calidad establecidos en el respectivo contrato.
 
 (Decreto 1467 de 2012, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.2 — Derecho a retribuciones en proyectos de Asociación Público Privada con unidades funcionales
 
@@ -3916,8 +3484,6 @@ PARÁGRAFO TRANSITORIO. Las iniciativas privadas que a la fecha de entrada en vi
 
 (Parágrafo Transitorio, adicionado por el Art. 2 del Decreto 655 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.3 — Niveles de Servicio y Estándares de Calidad
 
 Los niveles de servicio y los estándares de calidad definidos en los contratos para la ejecución de proyectos bajo esquemas de Asociación Público Privada deberán responder a las características de cada proyecto y ser:
@@ -3934,15 +3500,11 @@ Los niveles de servicio y los estándares de calidad definidos en los contratos 
 
 (Decreto 1467 de 2012, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.4 — Actualización de la retribución
 
 En los contratos para la ejecución de proyectos bajo esquemas de Asociación Público Privada, se deberá establecer de manera expresa el mecanismo de actualización del monto de los recursos públicos a desembolsar y demás retribuciones establecidas en la Ley 1508 de 2012, según corresponda.
 
 (Decreto 1467 de 2012, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.2.1.2.5 — Mecanismos de deducciones graduales por Niveles de Servicio y Estándares de Calidad
 
@@ -3960,8 +3522,6 @@ La entidad estatal competente exigirá la adopción de medidas, por parte del co
 
 (Decreto 1467 de 2012, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2.6 — Estadísticas, mediciones y controles
 
 El contrato podrá establecer la obligación del contratista de proveer, diseñar y operar un sistema de control de gestión para el adecuado monitoreo de disponibilidad de la infraestructura, Estándares de Calidad y Niveles de Servicio. Si el contrato establece esta obligación, el contratista estará obligado a permitir su libre acceso a la entidad estatal competente y a la interventoría. La entidad estatal competente determinará los parámetros y especificaciones mínimos que deberá cubrir el sistema de control de gestión para verificar el cumplimiento de los Niveles de Servicio y Estándares de Calidad.
@@ -3971,8 +3531,6 @@ El contrato podrá establecer la obligación del contratista de proveer, diseña
 SECCIÓN 3
 
 APORTES PÚBLICOS
-
-ARTÍCULO
 
 ## art:2.2.2.1.3.1 — Desembolso de recursos públicos
 
@@ -3988,8 +3546,6 @@ PARÁGRAFO . En proyectos de Asociación Público Privadas de Iniciativa Privada
 
 (Modificado por el Art. 2 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3.2 — Aportes del Estado diferentes a los desembolsos de recursos públicos
 
 Los aportes del Estado que no constituyen erogaciones del Tesoro Nacional provenientes del Presupuesto General de la Nación, del Presupuesto de las entidades territoriales o entidades descentralizadas, de otros Fondos Públicos o cualquier Fondo Público utilizado para la atención de riesgos y obligaciones contingentes a cargo de la entidad estatal, incluido el Fondo de Contingencias de las Entidades Estatales creado bajo la Ley 448 de 1998 no son desembolsos de recursos públicos.
@@ -4002,15 +3558,11 @@ SECCIÓN 4
 
 DE LOS PROYECTOS DE ASOCIACIÓN PÚBLICO PRIVADA DE INICIATIVA PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.1 — Procedimiento de selección en proyectos de Asociación Público Privada de iniciativa pública
 
 El procedimiento de selección para los proyectos de Asociación Público Privada de iniciativa pública será el de licitación pública, señalado en el artículo 30 de la Ley 80 de 1993 y en sus normas reglamentarias, salvo lo previsto en la Ley 1508 de 2012 y en el presente título, o las normas que lo sustituyan, modifiquen o adicionen.
 
 (Decreto 1467 de 2012, artículo 12)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.2 — Factores de selección en proyectos de Asociación Público Privada de iniciativa pública
 
@@ -4044,8 +3596,6 @@ Podrá acreditar la experiencia del gestor profesional o del comité de inversio
 
 (Decreto 1467 de 2012, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.3 — Valor del contrato en proyectos de Asociación Público Privada de iniciativa pública
 
 El valor de los contratos de los proyectos de Asociación Público Privada de iniciativa pública comprende el presupuesto estimado de inversión que corresponde al valor de la construcción, reparación, mejoramiento, equipamiento, operación y mantenimiento del proyecto y demás actividades técnicas necesarias para el cumplimiento del contrato.
@@ -4056,8 +3606,6 @@ Dentro de los límites establecidos en el artículo 13 de la Ley 1508 de 2012, s
 
 (Modificado por el Art. 4 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.4 — 4.4
 
 Estudios para abrir procesos de selección para la ejecución de proyectos de Asociación Público Privada de iniciativa pública. La entidad estatal competente deberá contar con los estudios de que trata el numeral 5.1 del artículo 2.2.2.1.5.5 del presente decreto, de conformidad con lo previsto en el numeral 11.1 del artículo 11 de la Ley 1508 de 2012. Sin embargo, si la naturaleza y el alcance del proyecto hace que alguno de los estudios de que trata el numeral 5.1 del artículo 2.2.2.1.5.5 del presente decreto no sea requerido, la entidad estatal competente determinará los estudios con los cuales deberá contar para abrir el respectivo proceso de selección.
@@ -4065,8 +3613,6 @@ Estudios para abrir procesos de selección para la ejecución de proyectos de As
 El cumplimiento de los requisitos a los que se refiere el artículo 11 de la Ley 1508 de 2012 y la autorización para asumir compromisos con cargo a vigencias futuras, si es procedente, es suficiente para la apertura de la licitación. No será necesaria la elaboración de los estudios previos a los que se refiere el artículo 2.2.1.1.2.1.1 del presente decreto.
 
 (Decreto 1467 de 2012, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.5 — Sistemas de precalificación
 
@@ -4084,8 +3630,6 @@ PARÁGRAFO . El alcance de los estudios adicionales o complementarios, el valor 
 
 (Decreto 1467 de 2012, artículo 16; Decreto 1553 de 2014, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.4.6 — Precalificación
 
 La invitación a participar en la precalificación incluirá como mínimo la siguiente información:
@@ -4099,8 +3643,6 @@ La invitación a participar en la precalificación incluirá como mínimo la sig
 La invitación deberá ser publicada en el SECOP y contemplar un plazo mínimo de quince (15) días calendario contados a partir de su publicación, para que los interesados presenten las respectivas manifestaciones de interés.
 
 (Decreto 1467 de 2012, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4.7 — Conformación de la lista de precalificados
 
@@ -4117,8 +3659,6 @@ En caso de no conformar la lista de precalificados de conformidad con lo señala
 SECCIÓN 5
 
 DE LOS PROYECTOS DE ASOCIACIÓN PÚBLICO PRIVADA DE INICIATIVA PRIVADA
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.1 — Condiciones para la presentación de iniciativas privadas
 
@@ -4141,8 +3681,6 @@ Transcurridos dos (2) años a partir de la finalización del contrato de estruct
 7. En cumplimiento de lo previsto en el artículo 34 de la Ley 1508 de 2012, por lo menos dos (2) años antes de la finalización del respectivo contrato de concesión o de Asociación Público Privada, la entidad pública competente deberá preparar un estudio o análisis que le permita tomar la decisión de celebrar un nuevo contrato o de dejar que el proyecto revierta a la entidad pública. En el evento en el cual se presente una iniciativa privada antes del plazo anteriormente mencionado sin que entidad pública hubiera dado cumplimiento a la mencionada obligación, tal circunstancia, no exime a la entidad pública de realizarlo en la oportunidad anteriormente mencionada y en todo caso, antes de aceptar o rechazar la iniciativa privada, sí fuere el caso. Dicho estudio o análisis deberá considerar y evaluar la conveniencia de aceptar iniciativas privadas, así como la oportunidad en la cual resulte óptima su presentación, tomando como referente el momento en el cual la infraestructura deberá revertirse.
 
 (Modificado por el Art. 5 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.2 — Etapa de prefactibilidad
 
@@ -4210,8 +3748,6 @@ La entidad estatal competente podrá solicitar información adicional cuando lo 
 
 (Modificado por el Art. 6 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.3 — Registro Único de Asociaciones Público Privadas (RUAPP)
 
 El originador de los proyectos de Asociación Público Privada de iniciativa privada deberá radicarlos a través de los medios electrónicos diseñados para el efecto en el Sistema Electrónico para la Contratación Pública (SECOP). La constancia que expida el medio electrónico será constancia suficiente de su radicación. La Entidad Estatal deberá estudiar la primera iniciativa radicada sobre un proyecto en particular, las demás iniciativas sobre el mismo proyecto solo serán estudiadas en el orden de su radicación, si la primera iniciativa es rechazada o se considera fallida. Una iniciativa privada versa sobre un mismo proyecto cuando comparte infraestructura física, estructura de ingresos u otros elementos, que hagan inviable su implementación simultánea o coexistencia con el proyecto que se compara.
@@ -4223,8 +3759,6 @@ PARÁGRAFO 1. El Departamento Nacional de Planeación utilizará la plataforma d
 PARÁGRAFO 2. Mientras entra en operación el Registro Único de Asociaciones Público Privadas en el SECOP, el registro en el RUAPP deberá hacerse a través del medio electrónico establecido por el Departamento Nacional de Planeación y la entidad estatal continuará encargada de registrar los proyectos de Asociación Público Privada de iniciativa privada en el RUAPP dentro de los cinco (5) días hábiles siguientes al recibo del proyecto".
 
 (Modificado por el Art. 7 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.4 — Evaluación de la etapa de prefactibilidad y respuesta
 
@@ -4251,8 +3785,6 @@ Se considera o no de interés público el proyecto, en caso afirmativo se inclui
 5. Plazo máximo para la entrega del proyecto en etapa de factibilidad, el cual en ningún caso será superior a dos (2) años, incluidas prórrogas. Este plazo no podrá suspenderse."
 
 (Modificado por el Art. 8 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.5 — Etapa de Factibilidad
 
@@ -4354,8 +3886,6 @@ En las iniciativas privadas que no requieran desembolsos de recursos públicos, 
 
 (Modificado por el Art. 9 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.6 — Evaluación de la etapa de factibilidad y respuesta
 
 Entregada la iniciativa en etapa de factibilidad, la entidad estatal competente deberá efectuar la revisión y análisis de la iniciativa presentada y solicitar, si fuera el caso, al originador los estudios adicionales o complementarios y ajustes o precisiones al proyecto, evento en el cual, se podrá prorrogar el plazo establecido para dicha evaluación en los términos del primer inciso del artículo 16 de la Ley 1508 de 2012.
@@ -4390,8 +3920,6 @@ Las entidades del orden territorial deberán conformar un comité o consejo ases
 
 (Modificado por el Art. 10 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.7 — Adquisición de estudios
 
 De ser rechazada la iniciativa privada, la entidad pública competente podrá adquirir aquellos insumos o estudios que le sean útiles para el cumplimiento de sus funciones, valorados de conformidad con los costos soportados por el originador durante el trámite y evaluación de la iniciativa privada. La entidad estatal, en todo caso, deberá verificar que dichos valores se fundamenten en costos demostrados en tarifas de mercado.
@@ -4402,23 +3930,17 @@ PARÁGRAFO . La entidad competente deberá evaluar posibles situaciones de confl
 
 (Modificado por el Art. 11 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.8 — Presupuesto estimado de inversión en proyectos de Asociación Público Privada de iniciativa privada
 
 Corresponde al valor de la construcción, reparación, mejoramiento, equipamiento, operación y mantenimiento del proyecto.
 
 (Decreto 1467 de 2012, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.9 — Plazo para iniciación del proceso de selección
 
 Dentro de los 6 meses siguientes a la expedición del concepto previo favorable del Departamento Nacional de Planeación de que trata el artículo 2.2.2.1.6.2 del presente decreto, la entidad estatal competente dará apertura a la licitación pública cuando se trate de iniciativas privadas que requieran desembolsos de recursos públicos, o realizará la publicación en el SECOP de la información establecida en el artículo 19 de la Ley 1508 de 2012, cuando se trate de iniciativas privadas que no requieren desembolsos de recursos públicos.
 
 (Decreto 1467 de 2012, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.10 — Bonificación en las iniciativas privadas que requieren desembolsos de recursos públicos
 
@@ -4450,15 +3972,11 @@ Mayor a 120.000
 
 (Decreto 1467 de 2012, artículo 28)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5.11 — Tiempo mínimo de duración de la publicación
 
 En caso de ser aprobada por parte de la entidad estatal competente una iniciativa privada que no requiere desembolsos de recursos públicos a las que se refiere el artículo 19 de la Ley 1508 de 2012, dicha entidad estatal publicará en la página web del Sistema Electrónico para la Contratación Pública (SECOP) el acuerdo de la iniciativa privada, los estudios y la minuta del contrato y sus anexos por el término de cuatro (4) meses, el cual podrá prorrogarse a solicitud de los interesados, si la entidad estatal competente lo estima conveniente hasta por dos (2) meses más."
 
 (Modificado por el Art. 12 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.5.12 — Manifestación de Interés por terceros
 
@@ -4486,8 +4004,6 @@ SECCIÓN 6
 
 APROBACIONES DE LOS PROYECTOS DE ASOCIACIÓN PÚBLICO PRIVADA
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.1 — Valoración de obligaciones contingentes
 
 Una vez la entidad estatal competente haya realizado las consultas a terceros y autoridades competentes de las que trata el artículo 16 de la Ley 1508 de 2012 y previo a la evaluación de viabilidad de la propuesta en etapa de factibilidad, la entidad estatal competente presentará para aprobación de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público o quien haga sus veces en el orden territorial acorde con lo estipulado en la Ley 448 de 1998, el análisis de obligaciones contingentes junto con su respectiva valoración, de acuerdo con el procedimiento de que trata el presente Título y con base en los lineamientos estipulados por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público o quien haga sus veces en el orden territorial, y en los términos definidos en la Ley 448 de 1998. En cualquier caso, la entidad competente deberá velar por presentar la documentación completa, realizar las respectivas justificaciones, siendo responsable por la veracidad de la información presentada.
@@ -4499,8 +4015,6 @@ En el evento en el cual la valoración de obligaciones contingentes no fuere apr
 PARÁGRAFO . En el caso en el cual el proyecto de Asociación Público Privada cuente con cofinanciación por parte de la Nación, la aprobación de obligaciones contingentes estará a cargo de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público."
 
 (Modificado por el Art. 14 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.2 — Justificación de utilizar el mecanismo de Asociación Público Privada
 
@@ -4530,15 +4044,11 @@ PARÁGRAFO 4. El Departamento Nacional de Planeación establecerá los paramento
 
 (Modificado por el Art. 15 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.6.3 — Autorización de vigencias futuras
 
 Previo a la apertura de la licitación pública, se deberá contar con la autorización de vigencias futuras para amparar proyectos de Asociación Público Privada, en los términos establecidos en el artículo 26 de la Ley 1508 de 2012.
 
 (Decreto 1467 de 2012, artículo 33)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6.4 — Vigencias futuras para amparar proyectos de Asociación Público Privada
 
@@ -4550,15 +4060,11 @@ SECCIÓN 7
 
 DE LOS RIESGOS EN LOS PROYECTOS DE ASOCIACIÓN PÚBLICO PRIVADA
 
-ARTÍCULO
-
 ## art:2.2.2.1.7.1 — Identificación, tipificación, estimación y asignación de riesgos
 
 La entidad estatal competente es la responsable de la identificación, tipificación, estimación y asignación de los riesgos que se puedan generar en los proyectos de Asociación Público Privada. En el proceso de identificación, tipificación, estimación y asignación de los riesgos, las entidades deben realizar el análisis de acuerdo con los criterios establecidos en la ley, demás normas que regulen la materia y la política de riesgo contractual del Estado para proyectos de infraestructura."
 
 (Modificado por el Art. 16 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.7.2 — De las metodologías de estimación de obligaciones contingentes
 
@@ -4567,8 +4073,6 @@ La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de H
 Si no existen metodologías de valoración desarrolladas por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público o quien haga sus veces a nivel territorial conforme a lo dispuesto en la Ley 448 de 1998, la entidad estatal competente deberá diseñar sus propias metodologías y someterlas a aprobación conforme con lo establecido en el Decreto 1068 de 2015 y sus modificaciones.
 
 (Modificado por el Art. 17 del Decreto 438 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.7.3 — Procedimiento de aprobación de la valoración de obligaciones contingentes en proyectos de Asociación Público Privada
 
@@ -4590,8 +4094,6 @@ PARÁGRAFO 2. La Dirección General de Crédito Público y Tesoro Nacional del M
 
 (Modificado por el Art. 18 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.7.4 — Análisis de amenazas y vulnerabilidad
 
 La entidad estatal competente deberá contar con los documentos que soporten el diligenciamiento de la información de análisis de riesgos de amenazas y vulnerabilidad, de acuerdo con la metodología de evaluación de proyectos establecida por el Departamento Nacional de Planeación.
@@ -4602,8 +4104,6 @@ SECCIÓN 8
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.2.1.8.1 — Reducción de la tasa por adición o prórroga
 
 Para efectos de lo previsto en el artículo 29 de la Ley 1508 de 2012, el Consejo Nacional de Política Económica y Social (CONPES), podrá incorporar en los documentos de política que expida sobre los distintos proyectos de desarrollo económico y social, la aplicación si fuere el caso, de la reducción de la tasa por adición establecida en la citada norma.
@@ -4611,8 +4111,6 @@ Para efectos de lo previsto en el artículo 29 de la Ley 1508 de 2012, el Consej
 Constituye requisito indispensable para aplicar la reducción de la tasa por adición o prórroga, que el Consejo Nacional de Política Económica y Social (CONPES) se haya pronunciada de forma previa a la solicitud de la adición.
 
 (Decreto 1467 de 2012, artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.2.1.8.2 — Contratos para la elaboración de estudios, la evaluación de proyectos de iniciativa privada y las interventorías
 
@@ -4622,8 +4120,6 @@ Los factores de selección del contratista serán los establecidos en el artícu
 
 (Decreto 1467 de 2012, artículo 40)
 
-ARTÍCULO
-
 ## art:2.2.2.1.8.3 — De la publicidad
 
 La entidad contratante deberá garantizar la publicidad de los procedimientos, documentos y actos asociados a los procesos de contratación y precalificación de los proyectos de Asociación Público Privada, salvo el modelo financiero estatal que está sometido a reserva legal.
@@ -4631,8 +4127,6 @@ La entidad contratante deberá garantizar la publicidad de los procedimientos, d
 La publicidad a que se refiere este artículo se hará en la página web de la entidad estatal competente correspondiente y en el Sistema Electrónico para la Contratación Pública SECOP.
 
 (Decreto 1467 de 2012, artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.2.1.8.4 — Reversión de la infraestructura de proyectos de Asociación Público Privada
 
@@ -4642,15 +4136,11 @@ Los bienes objeto de aporte del Estado diferentes a los desembolsos de recursos 
 
 (Modificado por el Art. 19 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.8.5 — De los acuerdos y tratados internacionales en materia de contratación pública
 
 Las entidades estatales competentes, en desarrollo de los procesos de selección para proyectos de Asociación Público Privada, deberán observar las obligaciones que en materia de Acuerdos Internacionales y Tratados de Libre Comercio (TLC) vinculen al Estado colombiano.
 
 (Decreto 1467 de 2012, artículo 43)
-
-ARTÍCULO
 
 ## art:2.2.2.1.8.6 — Elaboración y custodia del expediente del proyecto
 
@@ -4670,23 +4160,17 @@ SECCIÓN 9
 
 IMPLEMENTACIÓN DE ASOCIACIONES PÚBLICO PRIVADAS EN EL SECTOR DE AGUA POTABLE Y SANEAMIENTO BÁSICO
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.1 — Objeto
 
 La presente sección regula aspectos relacionados con la implementación de esquemas de Asociaciones Público Privadas, de iniciativa pública o privada, que se desarrollen bajo la Ley 1508 de 2012 en el sector de Agua Potable y Saneamiento Básico.
 
 (Decreto 63 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.2 — Ámbito de aplicación
 
 La presente sección aplica a las entidades estatales, inversionistas privados y prestadores de los servicios públicos domiciliarios de acueducto, alcantarillado y/o aseo.
 
 (Decreto 63 de 2015, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.9.3 — 9.3
 
@@ -4699,8 +4183,6 @@ La verificación del cumplimiento del requisito establecido en el presente artí
 PARÁGRAFO 2. El prestador de los servicios públicos domiciliarios se encargará de la prestación del respectivo servicio, de conformidad con los requisitos previstos en el contrato de Asociación Público Privada suscrito y será responsable ante la Superintendencia de Servicios Públicos Domiciliarios por la prestación del servicio con el pleno cumplimiento de la normativa exigible para tal fin.
 
 (Decreto 63 de 2015, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.9.4 — Retribución en proyectos de Agua Potable y Saneamiento Básico, bajo el esquema de Asociaciones Público Privadas
 
@@ -4718,8 +4200,6 @@ PARÁGRAFO 3. Dentro de los esquemas de Asociación Público Privada, se podrá 
 
 (Decreto 63 de 2015, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.5 — 9.5
 
 Niveles de Servicio y Estándares de Calidad en proyectos de Agua Potable y Saneamiento Básico bajo el esquema de Asociaciones Público Privadas. Los Niveles de Servicio y Estándares de Calidad en proyectos de Agua Potable y Saneamiento Básico, deberán estar establecidos en el contrato de Asociación Público Privada y cumplir con los indicadores de gestión y metas que defina la Comisión de Regulación de Agua Potable y Saneamiento Básico, sin perjuicio que las partes puedan pactar estándares mayores a los exigidos por dicha regulación.
@@ -4729,8 +4209,6 @@ Las metas definidas en el contrato de Asociación Público Privada para los Nive
 Corresponderá a la Comisión de Regulación de Agua Potable y Saneamiento Básico, en el marco de sus competencias, realizar el desarrollo y las modificaciones regulatorias necesarias para garantizar la aplicabilidad y operatividad de las Asociaciones Público Privadas, a la luz de lo dispuesto en la Ley 1508 de 2012.
 
 (Decreto 63 de 2015, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.9.6 — 9.6
 
@@ -4746,8 +4224,6 @@ PARÁGRAFO 2. El plazo que se adopte para la emisión del concepto de viabilidad
 
 (Decreto 63 de 2015, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.9.7 — 9.7
 
 Áreas de Servicio Exclusivo en proyectos de Agua Potable y Saneamiento Básico bajo esquema de Asociaciones Público Privadas. En los proyectos de Asociaciones Público Privadas para el sector de Agua Potable y Saneamiento Básico, se podrá solicitar el establecimiento de un Área de Servicio Exclusivo, conforme lo establecido en la normativa vigente.
@@ -4759,8 +4235,6 @@ SECCIÓN 10
 REGLAMENTACIÓN DE LA FORMA EN QUE PODRÁN ESTABLECERSE EN PROYECTOS DE ASOCIACIÓN PÚBLICO PRIVADA, UNIDADES FUNCIONALES
 
 DE TRAMOS DE TÚNELES, DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 71 DE LA LEY 1682 DE 2013
-
-ARTÍCULO
 
 ## art:2.2.2.1.10.1 — Definición de Unidad Funcional de Tramos de Túneles
 
@@ -4774,8 +4248,6 @@ Para la incorporación de una Unidad Funcional de Tramo de Túnel en un contrato
 
 (Decreto 1026 de 2014, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.10.2 — Derecho a la retribución
 
 El derecho a la retribución en la Unidad Funcional de Tramo de Túnel que está contemplada dentro de un proyecto de Asociación Público Privada, estará condicionado a la verificación de la disponibilidad parcial de infraestructura y al cumplimiento de los Estándares de Calidad establecidos en el respectivo contrato.
@@ -4783,8 +4255,6 @@ El derecho a la retribución en la Unidad Funcional de Tramo de Túnel que está
 Una vez finalizada la totalidad de las unidades funcionales a las que se refiere el artículo 2.2.2.1.10.1 del presente decreto, correspondientes a un túnel, dicha infraestructura se considerará como una unidad funcional de las establecidas en el artículo 2.2.2.1.1.2 del presente decreto, por lo que el derecho a la retribución estará condicionado a la disponibilidad de la infraestructura, al cumplimiento de Niveles de Servicio y Estándares de Calidad, de conformidad con lo señalado en los artículos 2.2.2.1.2.1 y 2.2.2.1.2.2 del presente decreto, exceptuándose lo dispuesto en el numeral 2 del artículo 2.2.2.1.2.2 antes mencionado.
 
 (Decreto 1026 de 2014, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.2.1.10.3 — Disponibilidad parcial y estándares de calidad
 
@@ -4796,15 +4266,11 @@ SECCIÓN 11
 
 REGLAMENTACIÓN DEL ARTÍCULO 26 DE LA LEY 1508 DE 2012
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.1 — Ámbito de aplicación
 
 La presente sección rige para los órganos que conforman el Presupuesto General de la Nación y las entidades estatales del orden nacional a las que se aplica la Ley 1508 de 2012, que requieran la asunción de obligaciones con cargo a apropiaciones de vigencias futuras del presupuesto de la Nación y presupuestos de otras entidades de orden nacional, para la ejecución de los proyectos bajo el esquema de Asociación Público Privada.
 
 (Decreto 1610 de 2013, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.2.1.11.2 — 1.2
 
@@ -4818,15 +4284,11 @@ Las entidades cobijadas bajo el régimen previsto en la Ley 448 de 1998, deberá
 
 (Modificado por el Art. 21 del Decreto 438 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.3 — 1.3
 
 Priorización en el Marco de Gasto de Mediano Plazo del cupo de vigencias futuras para la ejecución de los proyectos bajo el esquema de asociación público privada. Los cupos de vigencias futuras, autorizados de acuerdo con el artículo anterior para la ejecución de los proyectos bajo el esquema de Asociación Público Privada, así como los planes de aportes aprobados por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público al Fondo de Contingencias para el desarrollo de los proyectos bajo el esquema de Asociación Público Privada, harán parte del Marco de Gasto de Mediano Plazo (MGMP), por lo que en el proceso de programación del mismo deben ser priorizados por el ministerio u órgano cabeza del sector.
 
 (Decreto 1610 de 2013, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.11.4 — 1.4
 
@@ -4835,8 +4297,6 @@ Modificación a la distribución sectorial del límite anual de autorizaciones p
 PARÁGRAFO . El Consejo Superior de Política Fiscal (Confis), podrá reasignar hasta el 20% del monto límite anual de cada sector, sin que se requiera de autorización previa por parte del Consejo Nacional de Política Económica y Social (CONPES).
 
 (Decreto 1610 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.2.1.11.5 — Concepto previo de disponibilidad en el cupo sectorial
 
@@ -4858,8 +4318,6 @@ PARÁGRAFO 5. El concepto favorable de disponibilidad es un mecanismo de seguimi
 
 (Decreto 1610 de 2013, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.6 — Requisitos de la solicitud de Aval Fiscal y Autorización de vigencias futuras
 
 Para solicitar aval fiscal y la aprobación de autorizaciones de vigencias futuras de los proyectos bajo el esquema de asociación público privada ante el Consejo Superior de Política Fiscal (Confis), la entidad competente deberá acompañar la petición con los siguientes documentos:
@@ -4876,8 +4334,6 @@ Para solicitar aval fiscal y la aprobación de autorizaciones de vigencias futur
 
 (Decreto 1610 de 2013, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.7 — Otorgamiento de aval fiscal y autorización de vigencias futuras
 
 El Consejo Superior de Política Fiscal (Confis), podrá otorgar aval fiscal y autorización de vigencias futuras, consultando la naturaleza de los proyectos bajo el esquema de asociación público privada, su consistencia fiscal y la evaluación de la solicitud del aporte presupuestal y disposición de recursos públicos. De acuerdo con lo dispuesto en el artículo 26 de la Ley 1508 de 2012, en la sesión de estudio de aval fiscal y autorización de vigencias futuras se considerará, cuando haya lugar, lo dispuesto por el artículo 2.2.2.1.2.2 del presente decreto, sobre el derecho a retribución por unidades funcionales de infraestructura.
@@ -4886,8 +4342,6 @@ PARÁGRAFO . El Consejo Superior de Política Fiscal (Confis), podrá modificar 
 
 (Decreto 1610 de 2013, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.2.1.11.8 — Reprogramaciones y modificaciones a las vigencias futuras de los proyectos bajo el esquema de asociación público privada
 
 Las entidades u órganos podrán solicitar al Consejo Superior de Política Fiscal (Confis) la reprogramación de vigencias futuras aprobadas, únicamente cuando se requiera variar el plazo inicialmente aprobado y ello no implique cambios al monto total ni a la distribución anual autorizados.
@@ -4895,8 +4349,6 @@ Las entidades u órganos podrán solicitar al Consejo Superior de Política Fisc
 En los demás eventos, la entidad u órgano ejecutor debe solicitar al Consejo Superior de Política Fiscal (Confis), una nueva autorización de vigencias futuras de proyectos bajo el esquema de asociación público privada que ampare las modificaciones requeridas, de manera previa a la asunción de la respectiva obligación o a la modificación de las condiciones de la obligación existente, observando los límites establecidos en la Ley 1508 de 2012 y lo dispuesto en la presente sección.
 
 (Decreto 1610 de 2013, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.2.1.11.9 — Temporalidad para comprometer vigencias futuras para los proyectos bajó el esquema de asociación público privada
 
@@ -4910,13 +4362,9 @@ Sección adicionada por el Art. 1 del Decreto 1974 de 2019
 
 IMPLEMENTACIÓN DE ASOCIACIONES PÚBLICO PRIVADAS DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.1 — Objeto
 
 La presente sección reglamenta las condiciones para la celebración de contratos de Asociaciones Público Privadas (APP) relacionados con Tecnologías de la Información y las Comunicaciones.
-
-ARTÍCULO
 
 ## art:2.2.2.1.12.2 — Ámbito de aplicación
 
@@ -4924,19 +4372,13 @@ La presente sección, aplica a las entidades estatales que desarrollen proyectos
 
 Lo no previsto en la presente sección, se regirá por lo dispuesto en las demás disposiciones aplicables de la Ley 1508 de 2012 y del Decreto 1082 de 2015.
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.3 — Asociaciones Público Privadas de Tecnologías de la Información y las Comunicaciones
 
 Para efectos de lo dispuesto en la presente sección, las Asociaciones Público Privadas de Tecnologías de la Información y las Comunicaciones, recaerán sobre proyectos en los que, conforme lo definido en el artículo 3 de la Ley 1508 de 2012, se encargue a un inversionista privado el diseño y construcción de una infraestructura y sus servicios asociados, o su construcción, reparación, mejoramiento o equipamiento, actividades todas estas que deberán involucrar la operación y mantenimiento de dicha infraestructura. Para la aplicación de las reglas especiales dispuestas en la presente sección, el concepto de infraestructura será definido como el conjunto de estructuras de ingeniería y sus respectivas instalaciones que constituyen la base sobre la cual se produce la prestación de sus servicios asociados.
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.4 — Niveles de servicio y estándares de calidad
 
 Los Niveles de Servicio y Estándares de Calidad en proyectos de Asociación Público Privada de Tecnologías de la Información y las Comunicaciones, deberán estar definidos en el contrato y contemplar la progresividad de los mismos en la medida en que se desarrollen nuevas infraestructuras, equipos y tecnologías que permitan el cumplimiento de niveles de servicio y estándares de calidad superiores a los inicialmente previstos. Estos niveles de servicio y estándares de calidad no podrán ser inferiores a los que sean definidos por las normas aplicables ni por los lineamientos fijados por el Ministerio de Tecnologías de la Información y las Comunicaciones.
-
-ARTÍCULO
 
 ## art:2.2.2.1.12.5 — Tipificación, estimación, asignación y mitigación de riesgos
 
@@ -4946,19 +4388,13 @@ Tratándose de aquellos riesgos asignados a la entidad estatal, no serán admisi
 
 Los procedimientos relacionados con la aprobación de la valoración de obligaciones contingentes se regirán por lo dispuesto en las demás secciones aplicables del Decreto 1082 de 2015.
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.6 — Condiciones para la presentación de iniciativas privadas
 
 Los particulares interesados en estructurar proyectos de Asociación Público Privada de iniciativa privada en el sector de Tecnologías de la Información y las Comunicaciones deberán tener en cuenta que no podrán presentar iniciativas privadas que versen sobre contratos ya adjudicados o en ejecución, o cuando la entidad estatal haya adelantado la estructuración del proyecto. De presentarse dicha propuesta, no será tomada en cuenta para su evaluación.
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.7 — Tiempo mínimo de la publicación
 
 En caso de ser aprobada por la entidad estatal una iniciativa privada que no requiera desembolso de recursos públicos a las que se refiere el artículo 19 de la Ley 1508 de 2012, dicha entidad publicará en la página web del Sistema Electrónico para la Contratación Pública (SECOP) el acuerdo de la iniciativa privada, los estudios y la minuta del contrato y sus anexos por un término de seis (6) meses.
-
-ARTÍCULO
 
 ## art:2.2.2.1.12.8 — Obsolescencia tecnológica
 
@@ -4968,25 +4404,17 @@ Durante la estructuración del proyecto, la entidad pública competente deberá 
 
 Anualmente, la entidad competente deberá evaluar el cumplimiento de los niveles de servicios y estándares de calidad pactados frente a la existencia de nuevas tecnologías, equipos o actualizaciones que permitan contar con niveles de servicios o estándares de calidad superiores o a menores costos y por ende verificar si la infraestructura o los activos utilizados para la prestación del servicio se ven afectados de obsolescencia, que dará lugar a la reposición o actualización de la infraestructura o del respectivo activo, según lo dispuesto en el primer inciso del presente artículo.
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.9 — Entrega de bienes
 
 En aplicación del artículo 31 de la Ley 1508 de 2012, en los contratos de Asociaciones Público Privadas de Tecnologías de la Información y las Comunicaciones se indicarán los bienes afectos a la prestación del servicio que se revertirán al Estado.
-
-ARTÍCULO
 
 ## art:2.2.2.1.12.10 — Tratamiento de información
 
 En los contratos de Asociaciones Público Privadas de Tecnologías de la Información y las Comunicaciones que involucren la captura, procesamiento y aprovechamiento de datos, deberán incorporarse las medidas necesarias para garantizar el cumplimiento de todas las exigencias legales y reglamentarias de tratamiento de datos e información, incluyendo el protocolo que será definido por el Ministerio de Tecnologías de la Información y las Comunicaciones, dentro de los cuatro (4) meses siguientes a la expedición del presente Decreto, para la entrega de la información a la finalización del contrato y la estipulación expresa de la extinción del derecho de explotación de los datos por parte del contratista, si hubiere lugar a ello.
 
-ARTÍCULO
-
 ## art:2.2.2.1.12.11 — Justificación de la utilización del mecanismo de Asociación Público Privada
 
 Sin perjuicio de la aplicación de las metodologías expedidas por el Departamento Nacional de Planeación en desarrollo de lo previsto en el artículo 11 de la Ley 1508 de 2012 y el Decreto 1082 de 2015, la entidad pública competente, previa a la aceptación de la pre factibilidad en el caso de iniciativas privadas y/o en una etapa similar en el caso de iniciativas públicas, deberá aplicar la metodología prevista en la Resolución 3656 de 2012 expedida por el Departamento Nacional de Planeación o la norma que la sustituya o complemente, a fin de justificar en una etapa temprana la utilización del mecanismo de Asociación Público Privada como una modalidad eficiente para el desarrollo del proyecto.
-
-ARTÍCULO
 
 ## art:2.2.2.1.12.12 — Lineamientos y requisitos de viabilidad
 
@@ -4997,8 +4425,6 @@ SECCIÓN 13
 (Sección 13, Adicionada por el Art. 1 del Decreto 1278 de 2021)
 
 UNIDADES FUNCIONALES PARA PROYECTOS DE ASOCIACIONES PÚBLICO PRIVADAS EN MATERIA DE INFRAESTRUCTURA FÉRREA
-
-ARTÍCULO
 
 ## art:2.2.2.1.13.1 — Definiciones
 
@@ -5016,8 +4442,6 @@ Cuando una UFVF esté compuesta por elementos y componentes que pertenezcan a di
 
 (Adicionado por el Art. 1 del Decreto 1278 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.13.2 — Integración de Unidades Funcionales de Vía Férrea
 
 Un contrato de Asociación Público Privada cuyo objeto sea el desarrollo de un proyecto ferroviario, podrá incluir tanto unidades funcionales de infraestructura de las definidas en el artículo 2.2.2. 1.1.2, como UFVF definidas en el artículo 2.2.2.1.13.1 del presente Decreto.
@@ -5026,15 +4450,11 @@ Una vez finalizadas las UFVF, los respectivos componentes y elementos desarrolla
 
 (Adicionado por el Art. 1 del Decreto 1278 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.2.1.13.3 — Disponibilidad Parcial
 
 Se entenderá que hay disponibilidad parcial de la UFVF, una vez finalizado el Subsistema Ferroviario, o el conjunto de Subsistemas Ferroviarios, o una o varias partes de uno o más Subsistemas Ferroviarios que se contemple(n) en el respectivo contrato de Asociación Público Privada para la UFVF y este(os) cumpla(n) con lo previsto en el mismo, incluyendo los Estándares de Calidad.
 
 (Adicionado por el Art. 1 del Decreto 1278 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.13.4 — Presupuesto Mínimo de Inversión para UFVF
 
@@ -5043,8 +4463,6 @@ Cada UFVF deberá tener un presupuesto mínimo estimado de inversión igual o su
 Para la incorporación de UFVF en un contrato cuyo objeto sea la ejecución de un proyecto de Asociación Público Privada, se requiere de la aprobación del Ministerio u órgano cabeza del sector o quien haga sus veces a nivel territorial, siempre y cuando el proyecto se encuentre totalmente estructurado y cumpla con las condiciones previstas en el presente Decreto.
 
 (Adicionado por el Art. 1 del Decreto 1278 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.2.1.13.5 — Derecho a la retribución
 
@@ -5072,15 +4490,11 @@ DE LOS PROYECTOS DEL FONDO NACIONAL DE REGALÍAS - EN LIQUIDACIÓN, RECURSOS DEL
 
 (FAEP) Y RECURSOS DE REASIGNACIÓN DE REGALÍAS Y COMPENSACIONES -ESCALONAMIENTO
 
-ARTÍCULO
-
 ## art:2.2.3.1.1.1 — Ajustes en los proyectos
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Los proyectos financiados o cofinanciados con los recursos de que trata la presente sección, podrán ser ajustados con posterioridad a su aprobación en caso de presentar o requerir modificaciones de carácter técnico, manteniendo el alcance inicialmente previsto, ajustes que deberán ser comunicados oportunamente a la Dirección de Vigilancia de las Regalías, previo concepto favorable del ministerio respectivo quien deberá consultar el análisis de la interventoría administrativa y financiera.
 
 (Decreto 416 de 2007, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.2 — Rendimientos financieros generados con recursos del Fondo Nacional de Regalías - En Liquidación y Saldos no Ejecutados
 
@@ -5089,8 +4503,6 @@ Derogado por el Art 2. del Decreto 1042 de 2022. De conformidad con lo previsto 
 Una vez girados los recursos y la entidad beneficiaria y/o ejecutora omite reintegrar los rendimientos financieros en el plazo establecido en el inciso anterior, así como los saldos no ejecutados dentro de los dos meses siguientes a la finalización del proyecto, los proyectos presentados por la misma entidad no serán elegibles para la priorización o financiación hasta que sean reintegrados, sin perjuicio de las demás consecuencias que por tal omisión estén previstas en las normas vigentes.
 
 (Decreto 416 de 2007, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.3.1.1.3 — 1.3
 
@@ -5104,8 +4516,6 @@ SECCIÓN 2
 
 DE LOS MECANISMOS DE CONTROL Y VIGILANCIA
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.1 — Control y vigilancia de los recursos de regalías
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Corresponde al Departamento Nacional de Planeación ejercer la vigilancia y el control financiero y administrativo de la correcta utilización de los recursos provenientes de regalías y compensaciones causadas por la explotación de los recursos naturales no renovables, y de las asignaciones del Fondo Nacional de Regalías - En Liquidación, con el objeto de constatar que tales recursos se utilicen en las finalidades y porcentajes previstos en la ley.
@@ -5115,8 +4525,6 @@ En cumplimiento del control y vigilancia a que se refiere el presente artículo,
 El Departamento Nacional de Planeación dará traslado a las autoridades competentes de las informaciones que reciba, o de los hechos que por causa o con ocasión de su actividad de control y vigilancia llegare a conocer.
 
 (Decreto 416 de 2007, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.2 — Atribuciones inherentes al control y vigilancia sobre la correcta utilización de los recursos
 
@@ -5137,8 +4545,6 @@ La comisión de visita podrá solicitar la información que requiera para el cum
 5. Las demás previstas en las normas vigentes.
 
 (Decreto 416 de 2007, artículo 22)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.3 — Interventorías administrativas y financieras
 
@@ -5165,8 +4571,6 @@ PARÁGRAFO 1. Las interventorías administrativas y financieras no podrán trasl
 PARÁGRAFO 2. Los recursos destinados por la normatividad vigente a cubrir el costo de las interventorías administrativas y financieras, se destinarán a sufragar los costos de las interventorías así como los asociados al cumplimiento de funciones de control y vigilancia, indistintamente del año en que se causen y perciban los ingresos con cargo a los cuales se deben contratar.
 
 (Decreto 416 de 2007, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.3.1.2.4 — Suministro de información de los recursos de regalías y compensaciones
 
@@ -5222,8 +4626,6 @@ Sin perjuicio de lo anterior, las entidades beneficiarias de los recursos de reg
 
 (Decreto 416 de 2007, artículo 24; Decreto 2810 de 2010, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.1.2.5 — 2.5
 
 Suministro de información de los recursos del Fondo Nacional de Regalías - En Liquidación, del Fondo de Estabilización Petrolera (FAEP), de que trata el numeral 7 del artículo 13 la Ley 781 de 2002 y de los recursos de reasignación de regalías y compensaciones - escalonamiento. Derogado por el Art 2. del Decreto 1042 de 2022. Para el cumplimiento de las funciones de control y vigilancia de la inversión de los recursos del Fondo Nacional de Regalías - En Liquidación, del Fondo de Estabilización Petrolera (FAEP), de que trata el numeral 7 del artículo 13 la Ley 781 de 2002 y de los recursos de reasignación de regalías y compensaciones - escalonamiento, el Departamento Nacional de Planeación, podrá exigir en cualquier momento a las entidades beneficiarias o ejecutoras o a los terceros contratados por estas para ejecutar proyectos financiados o cofinanciados con los recursos a que se refiere el presente artículo, toda aquella información general o particular que considere conveniente, con sus respectivos soportes, a efectos de realizar adecuadamente el control y vigilancia del manejo, utilización y ejecución de los recursos. Para estos efectos, el Departamento Nacional de Planeación podrá establecer mediante acto administrativo los términos y condiciones para la remisión de la información solicitada.
@@ -5235,8 +4637,6 @@ Para los mismos efectos, el responsable de la práctica de la visita de inspecci
 (Decreto 416 de 2007, artículo 25)
 
 SECCIÓN 3
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.1 — Suspensión preventiva de giros y desembolsos
 
@@ -5256,15 +4656,11 @@ Derogado por el Art 2. del Decreto 1042 de 2022. El Director de Vigilancia de la
 
 (Decreto 416 de 2007, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.3.1.3.2 — Levantamiento de la suspensión preventiva
 
 Derogado por el Art 2. del Decreto 1042 de 2022. La suspensión preventiva de giros se mantendrá vigente hasta tanto la entidad afectada entregue o allegue la información faltante, o subsane la causal de suspensión preventiva.
 
 (Decreto 416 de 2007, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.3 — Aplazamiento de apropiaciones
 
@@ -5275,8 +4671,6 @@ Para efectos de la suspensión de giros, la medida de aplazamiento de las apropi
 Igualmente, la medida de aplazamiento de las apropiaciones no surtirá efectos, para aquellas apropiaciones presupuestales que se encuentren amparando licitaciones, concursos o cualquier proceso de contratación, que se haya iniciado formalmente con anterioridad a la fecha de expedición del decreto de aplazamiento de las apropiaciones. En el evento en que estos procesos se declaren desiertos o por cualquier motivo no se perfeccionen los compromisos, la apropiación presupuestal respectiva se entenderá aplazada.
 
 (Decreto 416 de 2007, artículo 28; Decreto 4192 de 2007, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.4 — Levantamiento de la medida de suspensión correctiva del desembolso de los recursos de regalías y compensaciones
 
@@ -5295,8 +4689,6 @@ Se entiende que la situación de ineficiente o inadecuada administración y ejec
 5. Que las inversiones de los excedentes de liquidez de recursos de regalías y compensaciones sin sujeción a la ley, hayan sido redimidas y que los recursos provenientes de las mismas se hubiesen reintegrado a la entidad y se hayan ajustado a la normativa vigente.
 
 (Adicionado - Decreto 2810 de 2010, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.1.3.5 — De los efectos de la suspensión de giros de regalías
 
@@ -5326,8 +4718,6 @@ SECCIÓN 4
 
 DE LAS IRREGULARIDADES, LAS MEDIDAS CORRECTIVAS Y LOS PROCEDIMIENTOS ADMINISTRATIVOS CORRECTIVOS
 
-ARTÍCULO
-
 ## art:2.2.3.1.4.1 — 4.1
 
 Irregularidades en la administración y ejecución de las regalías y compensaciones de las asignaciones del Fondo Nacional de Regalías - En Liquidación, de los recursos del Fondo de Ahorro y Estabilización Petrolera (FAEP), de los recursos de reasignación de regalías y compensaciones - escalonamiento y de los Fondos de Córdoba y Sucre. Derogado por el Art 2. del Decreto 1042 de 2022. Sin perjuicio de lo previsto en los artículos precedentes, se considerarán irregularidades en la administración y ejecución de los recursos de que trata el presente artículo, las siguientes conductas:
@@ -5351,8 +4741,6 @@ Irregularidades en la administración y ejecución de las regalías y compensaci
 PARÁGRAFO . Los reportes de presuntas irregularidades o traslados de información que se realicen a los órganos de control y a la Fiscalía General de la Nación, deberán estar soportados.
 
 (Decreto 416 de 2007, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.3.1.4.2 — Del procedimiento correctivo
 
@@ -5386,8 +4774,6 @@ SECCIÓN 5
 
 MANEJO DE RECURSOS Y SUMINISTRO DE INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.1 — Del manejo de los recursos de regalías y compensaciones a los que se refiere el artículo 360 de la Constitución Política
 
 Las entidades territoriales y demás beneficiarios que recibieron recursos de regalías y compensaciones causados a 31 de diciembre de 2011, que respalden proyectos de inversión aprobados, deberán administrarlos en una cuenta separada y autorizada por el Departamento Nacional de Planeación.
@@ -5404,8 +4790,6 @@ PARÁGRAFO. Para el caso de los proyectos de inversión prioritarios definidos e
 
 (Modificado por el Art. 7 del Decreto 1042 de 2022).
 
-ARTÍCULO
-
 ## art:2.2.3.1.5.2 — 5.2
 
 Administración de los recursos de las asignaciones del Fondo Nacional de Regalías - En Liquidación, del Fondo de Ahorro y Estabilización Petrolera (FAEP) de que trata el numeral 7 del artículo 13 la Ley 781 de 2002, de los recursos de reasignación de regalías y compensaciones - escalonamiento y de los Fondos de Córdoba y Sucre. Las entidades territoriales que reciban los recursos a que se refiere este artículo, deberán tener una sola cuenta bancaria o producto financiero para cada proyecto de inversión a través de la cual se manejen en forma exclusiva los recursos, una vez sean girados por el Departamento Nacional de Planeación, de acuerdo con la reglamentación que para el efecto expida dicho Departamento.
@@ -5420,23 +4804,17 @@ ESCALONAMIENTO
 
 REASIGNACIÓN DE REGALÍAS Y COMPENSACIONES
 
-ARTÍCULO
-
 ## art:2.2.3.2.1 — Ámbito de aplicación
 
 Derogado por el Art 2. del Decreto 1042 de 2022. El presente capítulo se aplicará a la reasignación de regalías y compensaciones - escalonamiento pactadas a favor de los departamentos no productores y municipios a que se refiere el artículo 54 de la Ley 141 de 1994, modificado por el artículo 40 de la Ley 756 de 2002.
 
 (Decreto 2010 de 2005, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.2.2 — 2.2
 
 Mecanismos de control para la correcta utilización de los recursos de reasignación de regalías y compensaciones - escalonamiento. Derogado por el Art 2. del Decreto 1042 de 2022. El Departamento Nacional de Planeación - Subdirección de Proyectos de la Dirección de Vigilancia de las Regalías aplicará los mecanismos de control para la correcta utilización de los recursos por reasignación y compensaciones pactadas a favor de las entidades territoriales beneficiarias establecidos en la Resolución 1067 de 2004 o en las normas que la modifiquen o adicionen.
 
 (Decreto 2010 de 2005, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.3.2.3 — Interventorías administrativas y financieras
 
@@ -5450,23 +4828,17 @@ REGLAMENTACIÓN DE LA DISTRIBUCIÓN DE LOS RECURSOS DE REASIGNACIÓN DE REGALÍA
 
 PROVENIENTES DE LA EXPLOTACIÓN DE CARBÓN
 
-ARTÍCULO
-
 ## art:2.2.3.3.1 — Criterio para la definición de Departamento Productor de Carbón
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Para efectos de la distribución de los recursos de reasignación de regalías y compensaciones - escalonamiento provenientes de la explotación de Carbón, pactadas a favor de los departamentos, de que trata el artículo 54 de la Ley 141 de 1994, modificado por el artículo 40 de la Ley 756 de 2002, un departamento productor es aquel en cuya jurisdicción existen explotaciones de dicho mineral, siempre y cuando sus ingresos por concepto de regalías y compensaciones, incluyendo las de sus municipios productores, sean iguales o superiores al tres por ciento (3%) del total de regalías y compensaciones que por explotación de Carbón se generen en el país durante cada año.
 
 (Decreto 2245 de 2005, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.3.3.2 — Criterio para la definición de Municipio Productor de Carbón
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Para efectos de la distribución de los recursos de reasignación de regalías y compensaciones - escalonamiento provenientes de la explotación de Carbón, pactadas a favor de los municipios, de que trata el artículo 55 de la Ley 141 de 1994, un municipio productor es aquel en cuya jurisdicción existan explotaciones de dicho mineral siempre y cuando sus ingresos por concepto de regalías y compensaciones sean iguales o superiores al tres (3%) por ciento del total de las regalías y compensaciones que por explotación de Carbón se generen en el Departamento durante cada año.
 
 (Decreto 2245 de 2005, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.3.3.3 — 3.3
 
@@ -5480,23 +4852,17 @@ PARÁGRAFO . Para efectos de la aplicación del criterio señalado en el numeral
 
 (Decreto 2245 de 2005, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.3.4 — Derogado por el Art 2
 
 del Decreto 1042 de 2022. Distribución de los recursos de reasignación de regalías y compensaciones - escalonamiento provenientes de la explotación de Carbón, entre municipios no productores. Los recursos de reasignación de regalías y compensaciones - escalonamiento, provenientes de la explotación de carbón que corresponden a los municipios no productores, se distribuirán de manera igualitaria, de conformidad con lo dispuesto en el artículo 55 de la Ley 141 de 1994.
 
 (Decreto 2245 de 2005, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.3.3.5 — Derogado por el Art 2
 
 del Decreto 1042 de 2022. lnterventorías administrativas y financieras. El Departamento Nacional de Planeación con el objeto de controlar y vigilar la correcta utilización de los recursos de reasignación de regalías y compensaciones - escalonamiento provenientes de la explotación de Carbón, podrá disponer la contratación de interventorías financieras y administrativas con entidades públicas o con firmas o entidades privadas, con cargo a las respectivas entidades territoriales. El valor de estos contratos no podrá superar el uno por ciento (1 %) de estos recursos de conformidad con lo establecido en el artículo 25 de la Ley 756 de 2002 por el cual se adiciona el parágrafo 4 del artículo 3 de la Ley 141 e 1994.
 
 (Decreto 2245 de 2005, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.3.3.6 — 3.6
 
@@ -5508,8 +4874,6 @@ CAPÍTULO 4
 
 INTERVENTORÍA DE LOS PROYECTOS FINANCIADOS CON RECURSOS DEL FONDO NACIONAL DE REGALÍAS EN LIQUIDACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.4.1 — Interventorías técnicas a las asignaciones del Fondo Nacional de Regalías - En Liquidación
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Las entidades ejecutoras de proyectos financiados con recursos del Fondo Nacional de Regalías - En Liquidación podrán disponer hasta de un diez por ciento (10%) de estos recursos para contratar interventorías técnicas. En el proceso de viabilización de los proyectos de inversión, el órgano competente verificará que exista financiación para la interventoría técnica.
@@ -5517,8 +4881,6 @@ Derogado por el Art 2. del Decreto 1042 de 2022. Las entidades ejecutoras de pro
 PARÁGRAFO . En todo caso, si el valor de las interventorías técnicas es mayor al porcentaje antes indicado, la diferencia será financiada con recursos propios de las entidades beneficiarias de las asignaciones.
 
 (Decreto 851 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.4.2 — De las lnterventorías técnicas designadas por las Entidades Ejecutoras
 
@@ -5532,15 +4894,11 @@ CAPÍTULO 5
 
 MANEJO DE LOS RECURSOS DE EXCEDENTES DE LIQUIDEZ DEL FONDO NACIONAL DE REGALÍAS EN LIQUIDACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.5.1 — Recaudo, manejo y administración de recursos
 
 Derogado por el Art 2. del Decreto 1042 de 2022. La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, de conformidad con lo dispuesto en el parágrafo del artículo 1 de la Ley 756 de 2002 recaudará, manejará y administrará los recursos del Fondo Nacional de Regalías - En Liquidación.
 
 (Decreto 2550 de 2004, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.3.5.2 — Cuentas Corrientes
 
@@ -5558,23 +4916,17 @@ PARÁGRAFO 2. Además de lo previsto en el parágrafo anterior, los entes recaud
 
 (Decreto 2550 de 2004, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.3.5.3 — Giros a cuentas corrientes
 
 Derogado por el Art 2. del Decreto 1042 de 2022. La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Créditos Público, efectuará los giros de los recursos de que trata el inciso primero del artículo 2.2.3.5.2 del presente decreto a las cuentas corrientes autorizadas al Departamento Nacional de Planeación por cada objeto de gasto, con sujeción a las políticas y procedimientos establecidos por la citada Dirección a los órganos ejecutores del Presupuesto Nacional.
 
 (Decreto 2550 de 2004, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.3.5.4 — Excedentes de liquidez
 
 Derogado por el Art 2. del Decreto 1042 de 2022. La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, manejará los excedentes de liquidez derivados de los recursos de que trata el inciso primero del artículo 2.2.3.5.2 del presente decreto, en un portafolio independiente. Con dichos recursos la citada Dirección podrá realizar las inversiones y operaciones financieras que le hayan sido autorizadas por las normas legales vigentes.
 
 (Decreto 2550 de 2004, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.3.5.5 — Préstamo de excedentes de liquidez
 
@@ -5588,8 +4940,6 @@ CAPÍTULO 6
 
 CIERRE DE PROYECTOS DE INVERSIÓN FINANCIADOS CON ASIGNACIONES DEL FONDO NACIONAL DE REGALÍAS EN LIQUIDACIÓN
 
-ARTÍCULO
-
 ## art:2.2.3.6.1 — Cierre de proyectos de inversión
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Los proyectos de inversión financiados con recursos del Fondo Nacional de Regalías - En Liquidación o administrados por este que a la fecha de expedición del presente decreto, hayan sido ajustados en cumplimiento de lo previsto en el Capítulo 1, Título 3, Parte 2 Libro 2 del presente decreto y el Decreto 4972 de 2011, y cuya ejecución se hubiere normalizado por haberse superado al menos uno de los dos supuestos de que trata el inciso 1 del artículo 142 de la Ley 1530 de 2012, pueden continuar recibiendo el giro de recursos, hasta tres (3) meses antes de la fecha prevista para la terminación de la labor de control y vigilancia a la inversión de los recursos del citado Fondo, tal como lo señala el inciso 2 del artículo 142 de la Ley 1530 de 2012.
@@ -5602,8 +4952,6 @@ CAPÍTULO 7
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.3.7.1 — Pérdida de fuerza ejecutoria
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Para efectos de la aplicación de la pérdida de fuerza ejecutoria de las asignaciones del Fondo Nacional de Regalías - En Liquidación o en depósito en el mismo, a que se refiere el artículo 142 de la Ley 1530 de 2012, las entidades ejecutoras deben suministrar la información necesaria, dentro de los 60 días siguientes a la solicitud efectuada por el Departamento Nacional de Planeación (DNP). Vencido dicho plazo, se procederá de conformidad con el parágrafo del citado artículo y el liquidador del Fondo Nacional de Regalías - En Liquidación expedirá el acto administrativo correspondiente, con base en la información disponible.
@@ -5611,8 +4959,6 @@ Derogado por el Art 2. del Decreto 1042 de 2022. Para efectos de la aplicación 
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 35)
-
-ARTÍCULO
 
 ## art:2.2.3.7.2 — Suspensión y terminación de los procedimientos administrativos correctivos
 
@@ -5625,8 +4971,6 @@ Todo lo anterior sin perjuicio de la obligación de reportar a órganos de contr
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.3.7.3 — Costo-beneficio de los procesos judiciales
 
@@ -5654,8 +4998,6 @@ SUBSECCIÓN 1
 
 DESTINACIONES DE GASTO DEL SISTEMA GENERAL DE REGALÍAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.1.1 — Recursos del Sistema General de Regalías
 
 Los recursos del Sistema General de Regalías sólo se podrán destinar al financiamiento de las funciones de los órganos encargados de la fiscalización de la exploración y explotación de los yacimientos, el conocimiento y cartografía geológica del subsuelo; el funcionamiento del Sistema de Monitoreo, Seguimiento, Control y Evaluación; y el funcionamiento del Sistema General de Regalías.
@@ -5669,8 +5011,6 @@ PARÁGRAFO . Los recursos de asignaciones directas también se podrán destinar 
 (Modificado por el Art. 2 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.1.2 — Pago de compromisos adquiridos a 31 de diciembre de 2011
 
@@ -5692,8 +5032,6 @@ SUBSECCIÓN 2
 
 DE LOS BANCOS DE PROGRAMAS Y PROYECTOS DE INVERSIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.2.1 — Banco de programas y proyectos de inversión del Sistema General de Regalías
 
 El Banco de Programas y Proyectos de Inversión del Sistema General de Regalías constituye la herramienta para el registro y disposición de proyectos de inversión considerados como viables para su financiamiento con cargo a los recursos de los Fondos de Ciencia, Tecnología e Innovación, de Desarrollo Regional, de Compensación Regional y demás beneficiarios, con excepción de los proyectos de impacto local financiables con cargo a los recursos a que se refiere el numeral 2 del artículo 34 de la Ley 1530 de 2012, que para efectos del presente capítulo se asimilan a asignaciones directas.
@@ -5703,8 +5041,6 @@ El Banco de Programas y Proyectos de Inversión del Sistema General de Regalías
 (Ver Ley 2056 del 2020)
 
 (Decreto 1949 de 2012, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.2.2 — Banco de programas y proyectos de inversión de las entidades territoriales para el Sistema General de Regalías
 
@@ -5717,8 +5053,6 @@ En cada entidad receptora de asignaciones directas o de recursos para el financi
 (Ver Ley 2056 del 2020)
 
 (Decreto 1949 de 2012, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.2.3 — Integración de los bancos de programas y proyectos del Sistema General de Regalías
 
@@ -5734,8 +5068,6 @@ SUBSECCIÓN 3
 
 DE LOS PROYECTOS DE INVERSIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.3.1 — Proyectos de inversión pública
 
 Para los efectos de los Fondos de Ciencia, Tecnología e Innovación, de Desarrollo Regional, de Compensación Regional, demás beneficiarios y las asignaciones directas, los proyectos de inversión pública son aquellas iniciativas que contemplan actividades limitadas en el tiempo, que utilizan total o parcialmente recursos públicos, con el fin de crear, ampliar, mejorar o recuperar la capacidad de producción o de provisión de bienes o servicios por parte del Estado.
@@ -5745,8 +5077,6 @@ Los proyectos de inversión se formularán con observancia de los lineamientos y
 Los proyectos deberán registrarse, para el caso de los Fondos de Ciencia Tecnología e Innovación, de Desarrollo Regional, de Compensación Regional y beneficiarios, en el Banco de Programas y Proyectos de Inversión del Sistema General de Regalías que administra el Departamento Nacional de Planeación, y para el caso de las asignaciones directas y asimiladas, en el Banco de Programas y Proyectos de Inversión de la respectiva entidad receptora de asignaciones directas o de recursos para el financiamiento de proyectos de impacto local, administrado por la secretaría de planeación departamental o municipal respectiva o quien haga sus veces.
 
 (Decreto 1949 de 2012, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.3.2 — Fases de los proyectos de inversión
 
@@ -5764,8 +5094,6 @@ PARÁGRAFO . Toda iniciativa que busque ser financiada con cargo a los recursos 
 
 (Decreto 1949 de 2012, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.3.3 — Ciclo de los proyectos de inversión pública
 
 El ciclo de los proyectos de inversión abarca tres etapas. La primera, correspondiente a la viabilización y registro en el Banco de Programas y Proyectos de inversión; la segunda, correspondiente a la priorización y aprobación; y la tercera etapa, correspondiente a la de ejecución, Monitoreo, Seguimiento, Control y Evaluación.
@@ -5780,15 +5108,11 @@ SUBSECCIÓN 4
 
 ETAPA DE VIABILIZACIÓN Y REGISTRO DE PROYECTOS DE INVERSIÓN PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.1 — Etapa de viabilización y registro de proyectos de inversión pública
 
 La etapa de viabilización y registro de proyectos de inversión pública se surte a través de la formulación de proyectos de inversión; presentación; verificación de requisitos; concepto de oportunidad, conveniencia o solidez técnica, financiera y ambiental; viabilización; y registro en el Banco de Programas y Proyectos de inversión respectivo.
 
 (Decreto 1949 de 2012, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.4.2 — Formulación de proyectos de inversión pública
 
@@ -5799,8 +5123,6 @@ Siguiendo la metodología, lineamientos y requisitos señalados en el inciso ant
 PARÁGRAFO . Para la estructuración de proyectos estratégicos en los términos del artículo 141 de la Ley 1753 de 2015, además de lo previsto en el presente artículo y los artículos 2.2.4.1.1.4.3, 2.2.4.1.1.5.5, 2.2.4.1.1.5.6 y 2.2.4.1.1.5.7 del presente decreto, se deberá atender lo dispuesto en la Sección 1 del Capítulo 3 del Título 6 del Libro 2 de la Parle 2 del presente decreto
 
 (Decreto 1949 de 2012, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.4.3 — Revisión y presentación
 
@@ -5824,8 +5146,6 @@ PARÁGRAFO 1. Cuando el Gobierno Nacional presente proyectos ante el OCAD Region
 
 (Modificado por el Decreto 1544 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.4 — Verificación de requisitos
 
 Una vez recibido un proyecto de inversión por la secretaría técnica del órgano colegiado de administración y decisión ésta lo remitirá a la instancia encargada de adelantar la verificación de requisitos dentro de los cinco (5) días hábiles siguientes a su recepción, observando las siguientes reglas:
@@ -5846,8 +5166,6 @@ PARÁGRAFO 2. Corresponde a la oficina de planeación de la corporación autóno
 
 (Decreto 1949 de 2012, artículo 12; Decreto 817 de 2014, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.5 — Instancia competente para realizar la verificación de requisitos en proyectos cofinanciados
 
 La verificación integral de requisitos de que trata el artículo 26 de la Ley 1530 de 2012 la realizará la instancia correspondiente de acuerdo con las siguientes reglas:
@@ -5866,8 +5184,6 @@ PARÁGRAFO . La instancia competente deberá remitir el certificado de verificac
 
 (Decreto 1467 de 2018, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.6 — Concepto de oportunidad, conveniencia o solidez técnica, financiera y ambiental
 
 Dentro del término de cinco (5) días señalado en el artículo anterior, la secretaría técnica del órgano colegiado de administración y decisión, remitirá el proyecto de inversión al comité consultivo determinado por este para que emita su concepto sobre la conveniencia, oportunidad o solidez técnica, financiera y ambiental de los proyectos de inversión.
@@ -5877,8 +5193,6 @@ Tanto las instancias de verificación como los comités consultivos dispondrán 
 Cumplido el término anterior sin que el comité consultivo se haya pronunciado, se entenderá surtido el mencionado requisito.
 
 (Decreto 1949 de 2012, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.4.7 — Órgano colegiado de administración y decisión competente para la viabilización
 
@@ -5892,8 +5206,6 @@ Cuando un proyecto de inversión disponga de diversas fuentes de financiamiento,
 
 (Decreto 1949 de 2012, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.8 — Viabilización de proyectos de inversión
 
 Una vez recibido por parte de la secretaría técnica del órgano colegiado de administración y decisión el concepto de verificación de requisitos, esta instancia procederá a convocar a sus miembros e invitados, remitiendo los documentos soporte del proyecto con una antelación no inferior al término de citación para la respectiva sesión.
@@ -5906,8 +5218,6 @@ PARÁGRAFO . Cuando la instancia viabilizadora requiera apoyarse en el dictamen 
 
 (Decreto 1048 de 2017, art. 1) (Modificado por el Decreto 1544 de 2017, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.9 — Registro de proyectos de inversión
 
 Cuando el órgano colegiado de administración y decisión determine que un proyecto es viable, la respectiva secretaría técnica procederá a registrarlo en el Banco de Programas y Proyectos de Inversión correspondiente, dentro de los cinco (5) días hábiles siguientes, de conformidad con lo establecido en los artículos 2.2.4.1.1.2.1 y 2.2.4.1.1.2.2 del presente decreto.
@@ -5916,17 +5226,13 @@ El proyecto de inversión registrado en el Banco de Programas y Proyectos manten
 
 (Decreto 1949 de 2012, artículo 16)
 
-## art:2 — ,2.4.1.1.4.10
-
-Viabilización y registro de proyectos de inversión por parte del Departamento Nacional de Planeación El Departamento Nacional de Planeación será la instancia viabilizadora de los proyectos de inversión que requieran cofinanciación con cargo al gasto de inversión del Presupuesto General de la Nación.
+2,2.4.1.1.4.10. Viabilización y registro de proyectos de inversión por parte del Departamento Nacional de Planeación El Departamento Nacional de Planeación será la instancia viabilizadora de los proyectos de inversión que requieran cofinanciación con cargo al gasto de inversión del Presupuesto General de la Nación.
 
 Cuando esta característica se evidencie, la secretaria técnica del órgano colegiado de administración y decisión debe remitirlo al citado departamento administrativo con los conceptos de verificación de requisitos: de oportunidad, conveniencia o solidez técnica, financiera y ambiental, o cuando se haya cumplido el plazo para su emisión. El Departamento Nacional de Planeación dispondrá de un término de siete (7) días hábiles para definir la viabilidad del proyecto y realizar su registro.
 
 La viabilización de proyectos adelantada por el Departamento Nacional de Planeación se adelantará en los términos definidos por el Título 6, Parte 2, Libro 2 del presente decreto para la instancia de control posterior de viabilidad.
 
 (Modificado por el Decreto 1544 de 2017, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.4.11 — Viabilización de proyectos por parte de los miembros del OCAD
 
@@ -5938,15 +5244,11 @@ El Departamento Nacional de Planeación realizará la verificación de requisito
 
 (Decreto 1252 de 2013, artículo 5).
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.12 — Remisión de proyectos a las instancias formuladoras
 
 Cuando las instancias encargadas de adelantar el estudio de viabilidad de los proyectos de inversión determinen que alguno de ellos no es viable, ordenarán a través de la secretaría técnica del órgano colegiado de administración y decisión, su remisión a la instancia formuladora dentro de los cinco (5) días hábiles siguientes a su decisión informando la misma.
 
 (Decreto 1949 de 2012, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.4.13 — Ajustes a los proyectos de inversión
 
@@ -5954,15 +5256,11 @@ Con posterioridad a su registro, los proyectos de inversión podrán ser suscept
 
 (Decreto 1949 de 2012, artículo 19)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.4.14 — Requerimientos para la ejecución de las fases de los proyectos
 
 Los proyectos de inversión viabilizados y registrados en Fase 1 o 2 requerirán para la implementación de sus fases posteriores, el ajuste del proyecto para la fase respectiva. El proyecto de inversión ajustado deberá volver a aprobación por parte del órgano colegiado de administración y decisión, si implica modificaciones a los montos aprobados por el mismo inicialmente, o si solicita vigencias futuras. En todo caso, se deberá verificar los requisitos señalados para cada fase.
 
 (Decreto 1949 de 2012, artículo 20)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.4.15 — Verificación de requisitos de proyectos de inversión que se presenten al OCAD Paz
 
@@ -5978,8 +5276,6 @@ SUBSECCIÓN 5
 
 ETAPA DE PRIORIZACIÓN Y APROBACIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.5.1 — Órgano colegiado de administración y decisión competente para la priorización y aprobación de proyectos
 
 Los proyectos de inversión previamente registrados en los Bancos de Programas y Proyectos según lo dispuesto por los artículos 2.2.4.1.1.2.1 y 2.2.4.1.1.2.2 del presente decreto, serán priorizados y aprobados por los órganos colegiados de administración y decisión en el marco de sus respectivas competencias.
@@ -5987,8 +5283,6 @@ Los proyectos de inversión previamente registrados en los Bancos de Programas y
 Cuando un proyecto de inversión busque ser financiado con diversas asignaciones del Sistema General de Regalías, o con cargo a los cupos departamentales de entidades territoriales que integren diferentes regiones, el proyecto deberá priorizarse y aprobarse por cada uno de los órganos colegiados de administración y decisión.
 
 (Decreto 1949 de 2012, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.5.2 — Priorización de proyectos para la programación del presupuesto del sistema general de regalías
 
@@ -6006,8 +5300,6 @@ PARÁGRAFO . Las cuotas indicativas que sean informadas por el Ministerio de Hac
 
 (Decreto 1949 de 2012, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.5.3 — Aprobación de proyectos
 
 Corresponderá a los órganos colegiados de administración y decisión aprobar los proyectos a ser ejecutados según los criterios establecidos por la Ley 1530 de 2012, para lo cual tendrán como insumo el Plan Bienal de Caja y el cronograma de flujos por ellos definido, la identificación de proyectos de inversión susceptibles de financiamiento con cargo a los recursos del Sistema General de Regalías contenida en los documentos anexos del Presupuesto Bienal del Sistema y la aplicación de las herramientas de apoyo a la priorización de proyectos que diseñe el Departamento Nacional de Planeación.
@@ -6022,8 +5314,6 @@ PARÁGRAFO . Los proyectos de inversión podrán ser viabilizados, aprobados y d
 
 (Decreto 1949 de 2012, artículo 23)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.5.4 — 5.4
 
 Apoyo a la supervisión e interventoría contractual Para efectos de lo dispuesto en el artículo 83 de la Ley 1474 de 2011 y concordante con el principio de programación integral señalado en el artículo 64 de la Ley 1530 de 2012, las labores de apoyo a la supervisión e interventoría contractual harán parte de los componentes del proyecto y se contratarán con cargo al mismo.
@@ -6031,8 +5321,6 @@ Apoyo a la supervisión e interventoría contractual Para efectos de lo dispuest
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.5.5 — Reconocimiento de costos de estructuración
 
@@ -6068,8 +5356,6 @@ PARÁGRAFO 2. Parágrafo 2. En los proyectos presentados a los OCAD por el Gobie
 
 (Adicionado por el Decreto 1544 de 2017, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.5.6 — Reinversión de los recursos reconocidos por el SGR por la estructuración de proyectos de inversión
 
 En cumplimiento de lo previsto en el inciso final del artículo 197 de la Ley 1753 de 2015, las entidades financieras del orden nacional con participación estatal e instituciones de educación superior acreditadas institucionalmente deberán reinvertir el valor de los costos de estructuración reconocidos por los OCAD, sin incluir aquellos que corresponden a la contraprestación por el servicio prestado, según detalle de costos previsto en el numeral 2.1 del artículo 2.2.4.1.1.5.5 y de conformidad con las condiciones del mercado.
@@ -6080,8 +5366,6 @@ En el evento en que las recursos hayan sido canalizados a través de un fondo es
 
 PARÁGRAFO . En cumplimiento de la obligación de reinversión prevista en el presente artículo, la entidad que reciba el reconocimiento debe iniciar la estructuración integral de un nuevo proyecto dentro del ario siguiente a la recepción del reconocimiento correspondiente. Asimismo debe publicar en su página web, a más tardar el 31 de diciembre de cada ano, informes anuales que den cuenta de los recursos que ha reinvertido.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.5.7 — 5.7
 
 Cese de la obligación de reinversión de los recursos reconocidos por el SGR por la estructuración de proyectos de inversión. La obligación de reinversión de que trata el artículo 2.2.4.1.1.5.6 del presente decreto cesara:
@@ -6089,8 +5373,6 @@ Cese de la obligación de reinversión de los recursos reconocidos por el SGR po
 1. Cuando por las estructuraciones efectuadas con los recursos reconocidos por los OCAD no se realice un nuevo reconocimiento de los costos en que incurrió la entidad financiera del orden nacional con participación estatal o la institución de educación superior para realizarlas.
 
 2. Cuando la entidad estructuradora renuncie o no pretenda el reembolso de los costos, siempre que haya reinvertido la totalidad de recursos que le fueron reconocidos por el SGR y entregue a las entidades territoriales previstas como beneficiarias los documentos que conforman la estructuración integral del proyecto con sus componentes técnico, financiero, ambiental, social y legal, acompañada de lo previsto en los numerales 2 y 3 del artículo 2.2.4.1.1.5.5 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.5.8 — Modificaciones a los proyectos de inversión
 
@@ -6103,8 +5385,6 @@ PARÁGRAFO . Las modificaciones antes señaladas no requerirán verificación de
 SUBSECCIÓN 6
 
 ETAPA DE EJECUCIÓN
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.6.1 — Requisitos previos al inicio de la ejecución de proyectos de inversión
 
@@ -6124,8 +5404,6 @@ SUBSECCIÓN 7
 
 DEL PAGO DE DEUDAS DEL RÉGIMEN SUBSIDIADO POR CONTRATOS DE ASEGURAMIENTO SUSCRITOS HASTA 31 DE MARZO DE 2011
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.7.1 — 7.1
 
 Uso de los recursos del Sistema General de Regalías (SGR) para atender deudas reconocidas por contratos del régimen subsidiado. Únicamente las entidades territoriales, que en el marco de los Decretos 1080 de 2012 y 58 de 2015, compilados en el Decreto 780 de 2016, hayan reconocido deudas por contratos de aseguramiento suscritos hasta marzo 31 de 2011 con las entidades promotoras de salud (EPS), que administran o administraban el régimen subsidiado, podrán utilizar los recursos del SGR, en los siguientes casos:
@@ -6138,8 +5416,6 @@ PARÁGRAFO . Una vez agotadas las fuentes señaladas por la Ley 1450 de 2011 y l
 
 (Modificado por el Art. 1 del Decreto 1824 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.7.2 — 7.2
 
 Certificación del Ministerio de Salud y Protección Social de las obligaciones por deudas reconocidas de contratos del régimen subsidiado. A solicitud de las entidades territoriales, el Ministerio de Salud y Protección Social certificará:
@@ -6149,8 +5425,6 @@ Certificación del Ministerio de Salud y Protección Social de las obligaciones 
 2. El monto de los recursos pendientes por restituir que no tienen fuente de financiación, en el marco de lo establecido en el artículo 5 de la Ley 1608 de 2013.
 
 (Decreto 744 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.7.3 — Pago de deudas reconocidas por contratos del régimen subsidiado aprobados por el OCAD
 
@@ -6166,8 +5440,6 @@ PARÁGRAFO . En el evento en que el órgano colegiado de administración y decis
 
 (Decreto 744 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.7.4 — Pago con recursos del SGR de deudas reconocidas pendientes de pago suscritas hasta marzo 31 de 2011
 
 Previo al pago con recursos del SGR de las deudas reconocidas por contratos del régimen subsidiado suscritos hasta marzo 31 de 2011, la entidad territorial debe informar a la EPS el monto de los recursos aprobados, con el fin de que esta mediante una certificación, señale el valor y las instituciones prestadoras de servicios de salud a las que se les realizará el desembolso. Para lo anterior, la EPS debe priorizar las deudas de mayor antigüedad y certificar que dichas obligaciones no están siendo respaldadas con otra fuente de financiación.
@@ -6177,8 +5449,6 @@ Una vez se cuente con la señalada certificación, la entidad territorial debe r
 PARÁGRAFO En ningún caso el valor pagado con recursos del SGR podrá ser superior al valor aprobado por el OCAD.
 
 (Decreto 744 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.7.5 — Pago con recursos del SGR para la restitución de los recursos a que hace referencia el artículo 5 de la Ley 1608 de 2013
 
@@ -6192,8 +5462,6 @@ SUBSECCIÓN 8
 
 TECNOLOGÍAS EN SALUD NO INCLUIDAS EN EL PLAN DE BENEFICIOS
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.8.1 — 8.1
 
 Destinación de recursos del SGR para la financiación de proyectos de inversión para tecnologías en salud no cubiertas por el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación (UPC). Los departamentos podrán utilizar los recursos del SGR para la financiación de proyectos de inversión que tengan por objeto la adquisición de tecnologías en salud no cubiertas por el Plan de Beneficios en Salud con cargo a la UPC, suministrados a los afiliados del régimen subsidiado.
@@ -6203,8 +5471,6 @@ PARÁGRAFO 1. No se financiarán las exclusiones contenidas en el artículo 15 d
 PARÁGRAFO 2. Las tecnologías en salud no cubiertas por el Plan de Beneficios en Salud, de que trata el presente artículo, corresponde a los medicamentos no cubiertos en el Plan de Beneficios con cargo a la UPC.
 
 (Decreto 744 de 2018, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.8.2 — 8.2
 
@@ -6216,8 +5482,6 @@ SUBSECCIÓN 9
 
 CAPITALIZACIÓN Y SANEAMIENTO DE LAS ENTIDADES PROMOTORAS DE SALUD
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.9.1 — 9.1
 
 Destinación de los recursos del SGR para la financiación de proyectos de inversión que tengan por objeto la capitalización y saneamiento de las EPS en las cuales tenga participación las entidades territoriales. Las entidades territoriales podrán hacer uso de los recursos del SGR, por una única vez, para la financiación de proyectos de inversión que tengan por objeto la capitalización y saneamiento de las entidades promotoras de salud en las cuales tengan participación.
@@ -6225,8 +5489,6 @@ Destinación de los recursos del SGR para la financiación de proyectos de inver
 PARÁGRAFO . Con el fin de presentar ante el correspondiente OCAD el proyecto de inversión de que trata el presente artículo, la entidad territorial debe contar con la totalidad de los recursos que determine la Superintendencia Nacional de Salud para asegurar las condiciones financieras y de solvencia de la entidad, definidas en los Decretos 2702 de 2014 y 2117 de 2016 compilados en el Decreto 780 de 2016 o en las normas que lo modifiquen o sustituyan.
 
 (Modificado por el Art. 2 del Decreto 1824 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.9.2 — 9.2
 
@@ -6240,8 +5502,6 @@ Además de los requisitos señalados por la Comisión Rectora del SGR, se debe p
 
 (Decreto 744 de 2018, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.9.3 — 9.3
 
 Pago de las deudas reconocidas para la capitalización y saneamiento de las entidades promotoras de servicios de salud en las cuales tengan participación las entidades territoriales con los recursos del SGR. El pago con recursos del SGR de las deudas reconocidas para la capitalización y saneamiento de las entidades promotoras de salud. en las cuales tengan participación las entidades territoriales, debe realizarse priorizando la red pública y las deudas de mayor antigüedad, de conformidad con lo señalado en el numeral 2 del artículo 2.2.4.1.1.9.2 del presente decreto.
@@ -6254,13 +5514,9 @@ SUBSECCIÓN 10
 
 CONVOCATORIAS PARA LA FINANCIACIÓN DE PROYECTOS DE INVERSIÓN CON RECURSOS DEL FONDO DE CIENCIA TECNOLOGÍA E INNOVACIÓN.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.10.1 — Convocatorias públicas, abiertas y competitivas
 
 Se entiende por convocatoria pública, abierta y competitiva el proceso a través del cual la Secretaría Técnica del órgano colegiado de administración y decisión (OCAD) del Fondo de Ciencia, Tecnología e Innovación (Fondo de CTel) realiza la invitación a través de la página web de Colciencias, a todas las entidades que hacen parte del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI), para que se conforme un listado de proyectos elegibles, que deberán ser presentados a consideración del OCAD para ser viabilizados, priorizados y aprobados, en cumplimiento de la normativa del Sistema General de Regalías (SGR).
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.10.2 — Entidades del Sistema Nacional de Ciencia, Tecnología e Innovación
 
@@ -6277,8 +5533,6 @@ PARÁGRAFO 1. Colciencias habilitará, a través de su portal Web, un servicio d
 En todo caso, para efectos de la presentación del proyecto 'de inversión a consideración del OCAD de CTel, Colciencias certificará que la entidad pertenece al SNCTI, identificando el literal por el cual la entidad hace parte del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI).
 
 PARÁGRAFO 2. Las entidades a las que hace referencia el literal c) del presente artículo se entenderán como parte del SNCTI únicamente para efectos de la convocatoria específica en las que participen y para la ejecución del programa o proyecto que resulte seleccionado de dicha convocatoria.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.10.3 — Alianzas
 
@@ -6334,8 +5588,6 @@ e. Las demás mencionadas en los términos de referencia.
 
 PARÁGRAFO . Los términos de referencia deben fijar una fecha límite para que los proyectos cumplan con el trámite de verificación de requisitos, a fin de que el OCAD pueda tomar decisiones sobre cada convocatoria.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.10.4 — Propuestas elegibles
 
 Las propuestas de proyectos que cuenten con la calificación igual o superior a la establecida en los términos de referencia se incorporarán al listado de elegibles de la respectiva convocatoria, el cual será publicado en la página web de la entidad.
@@ -6345,8 +5597,6 @@ Las propuestas de proyectos incluidas en la lista de elegibles, una vez cumplan 
 PARÁGRAFO 1. Las propuestas de proyectos que contemplen alianzas para su ejecución y que se incluyan en dicho listado, deben formalizar su conformación antes de iniciar el trámite de verificación de requisitos.
 
 PARÁGRAFO 2. La inclusión de propuestas de proyectos en el listado de elegibles no implica la obligatoriedad de su financiación. En caso de no agotar los recursos disponibles para la respectiva convocatoria y existiendo propuestas de proyectos que no completaron el trámite de verificación de requisitos durante el plazo inicial, el OCAD podrá establecer un nuevo plazo.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.10.5 — Vigilancia de los proyectos de inversión
 
@@ -6358,13 +5608,9 @@ PARÁGRAFO . En los eventos en los cuales Colciencias ejerza la vigilancia de lo
 
 (Ver Ley 2056 del 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.10.6 — Requisitos Proyectos de CTel
 
 Colciencias en coordinación con el Departamento Nacional de Planeación propondrá a la Comisión Rectora del SGR, los requisitos generales y sectoriales para la viabilización de los proyectos que se presenten a consideración del OCAD del Fondo de CTel en marco de las convocatorias públicas, abiertas y competitivas.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.10.7 — Régimen Transitorio
 
@@ -6380,15 +5626,11 @@ SUBSECCIÓN 11
 
 PLANEACIÓN DE LAS CONVOCATORIAS PÚBLICAS, ABIERTAS Y COMPETITIVAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.11.1 — 1.1
 
 Retos del desarrollo regional Para efectos de la planeación de las convocatorias públicas, abiertas y competitivas los Consejos Departamentales de Ciencia, Tecnología e Innovación (Codecti) definirán los retos del desarrollo regional, entendidos estos como las oportunidades más promisorias o los problemas más relevantes que se deben aprovechar o resolver.
 
 La definición de los retos del desarrollo regional debe enmarcarse en los focos y líneas programáticas establecidas en el Manual de Clasificación de la Inversión Pública para el sector de ciencia, tecnología e innovación, priorizados en los Planes y Acuerdos Estratégicos Departamentales en Ciencia, Tecnología e Innovación (PAED) vigentes y considerar los procesos de planeación local y regional, el Plan Nacional de Desarrollo, las políticas públicas en materia de CTel, las agendas integradas de competitividad, ciencia, tecnología e innovación, el Plan Estratégico de Ciencia, Tecnología e Innovación del Sector Agropecuario (PECTIA) y demás planes o agendas sectoriales de CTel.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.11.2 — Recomendaciones para la inversión
 
@@ -6400,13 +5642,9 @@ PARÁGRAFO 1. Esta información debe ser remitida a la Secretaría Técnica del 
 
 PARÁGRAFO 2. De no ser remitida la información por parte del Codecti dentro del plazo señalado, corresponde a la Secretaría Técnica elaborar y presentar para aprobación del OCAD del Fondo de CTel los retos de desarrollo regional y el porcentaje del saldo de recursos disponibles para la aprobación de proyectos.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.11.3 — Plan Bienal de Convocatorias
 
 El Plan Bienal de Convocatorias es el instrumento a través del cual el OCAD del Fondo de CTel, a través de la Secretaría Técnica, dará a conocer, entre otros aspectos, el cronograma de las convocatorias, los montos de financiación y los territorios de influencia de los proyectos, que se realizarán para responder a los retos del desarrollo regional que deben ser abordados desde la ciencia, la tecnología y la innovación.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.11.4 — Elaboración y aprobación del Plan Bienal de Convocatorias
 
@@ -6420,8 +5658,6 @@ SUBSECCIÓN 12
 
 GENERALIDADES Y CONDICIONES DE LAS CONVOCATORIAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.12.1 — Modalidades de las convocatorias
 
 Las convocatorias públicas, abiertas y competitivas para proyectos a ser financiados con recursos del Fondo de CTel podrán realizarse bajo las siguientes modalidades:
@@ -6432,8 +5668,6 @@ b) Convocatoria con cortes parciales: La presentación a la convocatoria se mant
 
 Los términos de referencia de cada convocatoria determinarán su modalidad.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.12.2 — Realización de las convocatorias públicas, abiertas y competitivas
 
 La Secretaría Técnica del OCAD del Fondo de CTel realizará la invitación a través de la página Web de Colciencias, a todas las entidades que hacen parte del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) para la participación en la convocatoria pública, abierta y competitiva, y elaborará los términos de referencia de las mismas, atendiendo al Plan Bienal de Convocatorias el recaudo de recursos y las condiciones para las convocatorias propuestas por los departamentos y el Distrito Capital, y conformará el listado de proyectos elegibles.
@@ -6443,8 +5677,6 @@ La Secretaría Técnica del OCAD del Fondo de CTel establecerá el procedimiento
 PARÁGRAFO . Las convocatorias podrán ser estructuradas para más de un departamento a partir de la planeación de las convocatorias públicas, abiertas y competitivas, consolidando retos afines y líneas programáticas comunes a dichos departamentos, así como los recursos informados por los Codecti.
 
 En estos casos, la Secretaría Técnica debe establecer en los términos de referencia las directrices necesarias para que los resultados, beneficios y efectos esperados, así como la contribución al cumplimiento de las metas y retos locales de los proyectos sean proporcionales a los recursos dispuestos por cada departamento y el impacto regional esperado.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.12.3 — Términos de referencia
 
@@ -6496,8 +5728,6 @@ e) Las demás mencionadas en los términos de referencia.
 
 PARÁGRAFO . Los términos de referencia deben fijar una fecha límite para que los proyectos cumplan con el trámite de verificación de requisitos, a fin de que el OCAD pueda tomar decisiones sobre cada convocatoria.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.12.4 — Propuestas elegibles
 
 Las propuestas de proyectos que cuenten con la calificación igual o superior a la establecida en los términos de referencia se incorporarán al listado de elegibles de la respectiva convocatoria, el cual será publicado en la página web de la entidad.
@@ -6508,8 +5738,6 @@ PARÁGRAFO 1. Las propuestas de proyectos que contemplen alianzas para su ejecuc
 
 PARÁGRAFO 2. La inclusión de propuestas de proyectos en el listado de elegibles no implica la obligatoriedad de su financiación. En caso de. no agotar los recursos disponibles para la respectiva convocatoria y existiendo propuestas de proyectos que no completaron el trámite de verificación de requisitos durante el plazo inicial, el OCAD podrá establecer un nuevo plazo.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.12.5 — Vigilancia de los proyectos de inversión
 
 En los casos en que el ejecutor sea de naturaleza jurídica privada, Colciencias vigilará la correcta ejecución del proyecto en los términos del artículo 83 de la Ley 1474 de 2011, con cargo a los recursos del proyecto. Por lo anterior, los términos de referencia de la convocatoria definirán los criterios para establecer el valor de dicho componente y se establecerá si procede realizar interventoría o supervisión, de conformidad con el objeto del proyecto de inversión.
@@ -6518,13 +5746,9 @@ El ejecutor deberá seguir las normas establecidas sobre la incorporación, ejec
 
 PARÁGRAFO . En los eventos en los cuales Colciencias ejerza la vigilancia de los proyectos de inversión ejecutados por entidades de naturaleza jurídica privada, debe realizar la incorporación, ejecución y giro de los recursos de conformidad con lo señalado en la Ley 1530 de 2012 y el Decreto 1082 de 2015, y utilizar el Sistema de Presupuesto y Giro de Regalías (SPGR)."
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.12.6 — Requisitos Proyectos de CTel
 
 Colciencias en coordinación con el Departamento Nacional de Planeación propondrá a la Comisión Rectora del SGR, los requisitos generales y sectoriales para la viabilización de los proyectos que se presenten a consideración del OCAD del Fondo de CTel en marco de las convocatorias públicas, abiertas y competitivas.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.12.7 — Régimen Transitorio
 
@@ -6538,8 +5762,6 @@ SUBSECCIÓN 13.
 
 PRIORIZACIÓN DE LA ASIGNACIÓN PARA LA PAZ DE ACUERDO CON LOS ARTÍCULOS 119 Y 281 DE LA LEY 1955 DE 2019.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.13.1 — 3.1
 
 Proyectos susceptibles de financiación con cargo a los recursos de la Asignación para la Paz del Sistema General de Regalías. Serán susceptibles de financiación con los recursos de la asignación para la Paz y del 70% de los ingresos que por rendimientos financieros que se generen en la cuenta única del Sistema General de Regalías, con la excepción de los generados por las asignaciones directas, durante los 20 años siguientes a la entrada en vigencia del Acto Legislativo No. 04 de 2017: i) los proyectos de inversión viabilizados por el OCAD Paz previo a la entrada en vigencia de la Ley 1955 de 2019; y ii) aquellos que contemplen dentro su alcance el desarrollo de las iniciativas relacionadas en la Hoja de Ruta, cuya población objetivo se encuentre en cualquiera de las 16 subregiones en las que se adelantarán los Programas de Desarrollo con Enfoque Territorial -PDET-, relacionados en el artículo 3 del Decreto Ley 893 de 2017 o la norma que lo modifique, sustituya o adicione.
@@ -6551,8 +5773,6 @@ PARÁGRAFO . A partir de la entrada en vigencia de esta subsección, sólo se po
 PARÁGRAFO 1 TRANSITORIO. Los proyectos de inversión que, al momento de la entrada en vigencia de esta subsección, se encuentren transferidos en el SUIFP SGR con cargo a la Asignación para la Paz, podrán someterse a consideración del OCAD Paz siempre y cuando cumplan con los requisitos mencionados en los incisos primero y/o segundo de este artículo.
 
 PARÁGRAFO 2 TRANSITORIO. Los proyectos viabilizados por el OCAD PAZ con anterioridad a la entrada en vigencia de la Ley 1955 de 2019 continuarán su trámite con cargo a los recursos a los que hace referencia el inciso primero del presente artículo, a más tardar hasta el 31 de diciembre de 2019.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.13.2 — Priorización de la Asignación para la Paz de acuerdo con los artículos 119 y 281 de la Ley 1955 de 2019
 
@@ -6566,8 +5786,6 @@ Los recursos restantes, correspondientes a las partidas del presupuesto bienal d
 
 Los proyectos de inversión que busquen financiación con cargo a los recursos del Sistema General de Regalías, correspondientes a los saldos no aprobados del Fondo de Ciencia, Tecnología e Innovación a 31 de diciembre de 2016; excedentes del ahorro pensional territorial y el 30% de los ingresos que por rendimientos financieros haya generado el SGR; serán aprobados atendiendo a las destinaciones y criterios de priorización definidos en el Acto Legislativo No. 04 de 2017.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.13.3 — Definición de montos para la aprobación de proyectos de inversión por subregiones PDET
 
 El OCAD Paz podrá adelantar un ejercicio de definición de montos de recursos en las 16 subregiones PDET, teniendo en cuenta los siguientes criterios: i) Hectáreas de cultivos ilícitos, tomando en cuenta la reducción de cultivos y la producción del último año para el que se cuente con cifras fuente SIMCI;
@@ -6578,21 +5796,15 @@ iii) Medición de desempeño municipal - definido por el DNP y que se encuentre 
 
 La aprobación de proyectos de inversión atenderá a los montos de recursos que defina el OCAD Paz para cada subregión, los cuales podrán ajustarse por dicho órgano en cualquier momento, propendiendo por la asignación de recursos a los proyectos que cumplan con los requisitos de verificación.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.13.4 — Priorización de proyectos
 
 Las entidades territoriales potenciales beneficiarias de los recursos de la asignación para la Paz y del 70% de los ingresos que por rendimientos financieros que se generen en la cuenta única del Sistema General de Regalías con la excepción de los generados por las asignaciones directas, se priorizarán teniendo en cuenta: i) el puntaje obtenido con la medición de criterios de priorización territorial de que trata el artículo 3 del Decreto Ley 413 de 2018, o la norma que lo modifique, sustituya o derogue y ii) el puntaje obtenido en aplicación del Sistema de Evaluación por Puntajes que para el efecto defina el Departamento Nacional de Planeación -DNP.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.13.5 — Aprobación de proyectos de inversión previstos en la Hoja de Ruta Única
 
 La Consejería Presidencial para la Estabilización y la Consolidación con el apoyo del DNP coordinará el ejercicio de construcción de la Hoja de Ruta Única, la cual será adoptada mediante acto administrativo que expida la Agencia para la Renovación del Territorio ART, el cual se publicará en los términos del artículo 65 de la Ley 1437 de 2011 y adicionalmente en la página WEB de dicha Agencia.
 
 PARÁGRAFO TRANSITORIO. Hasta tanto se adopte la Hoja de Ruta Única, corresponderá a la ART certificar la concordancia de los proyectos que se sometan a consideración del OCAD PAZ con las iniciativas de los Planes de Acción para la Transformación Regional-PATR; lo cual constituirá requisito de viabilización de estos proyectos.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.13.6 — Instructivos para la presentación y viabilización de proyectos en el OCAD Paz
 
@@ -6606,8 +5818,6 @@ SUBSECCIÓN 14
 
 OBRAS POR REGALÍAS PARA EL DESARROLLO DE LAS ENTIDADES TERRITORIALES, ÁMBITO DE APLICACIÓN Y MODALIDAD DE PAGO
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.1 — Ámbito de Aplicación
 
 Lo dispuesto en la presente subsección aplica para la formulación, presentación y ejecución de proyectos de inversión a ser financiados bajo la modalidad de obras por regalías para el desarrollo de las entidades territoriales, por la(s) persona(s) jurídica(s) que realicen actividades de explotación de recursos naturales no renovables, que hayan obtenido ingresos brutos superiores a 33.610 Unidades de Valor Tributario (UVT), durante la vigencia fiscal anterior.
@@ -6619,8 +5829,6 @@ PARÁGRAFO 1. Entiéndase por vigencia fiscal el período comprendido entre el 1
 Para certificar los ingresos brutos superiores a 33.610 UVT bastará la declaración de renta de la vigencia fiscal del año inmediatamente anterior. Si para el momento en el que se opta por la modalidad de obras por regalías, la persona jurídica aún no ha presentado la declaración de renta correspondiente, será necesaria la entrega de un certificado firmado por el revisor fiscal o quien haga sus veces, que acredite el cumplimiento del requisito referido.
 
 PARÁGRAFO 2. Se podrán presentar proyectos de inversión a ser financiados bajo la modalidad de obras por regalías, entre dos o más personas jurídicas que exploten recursos naturales no renovables, siempre que cada uno cumpla con lo señalado en la presente subsección y se surta el proceso de acuerdo con la entidad territorial beneficiaria.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.2 — Proyectos financiables a través de obras por regalías para el desarrollo de las entidades territoriales
 
@@ -6638,29 +5846,21 @@ PARÁGRAFO 3. En el caso de aquellos municipios productores que formen parte de 
 
 (Ver Ley 2056 del 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.3 — 4.3
 
 Selección de los proyectos a ser financiados bajo la modalidad de obras por regalías para el desarrollo de las entidades territoriales. La entidad territorial beneficiaria de asignaciones directas publicará en su página web un listado de proyectos de inversión que podrán ser seleccionados por la(s) persona(s) jurídica(s), para ser financiados bajo la modalidad de obras por regalías.
 
 Corresponde a la(s) persona(s) jurídica(s) que desarrollen actividades de explotación de recursos naturales no renovables que cumplan con las condiciones señaladas en el artículo 2.2.4.1.1.14.1. del presente Decreto, establecer si optan por el desarrollo de uno de los proyectos publicados o si presentan a consideración de la entidad territorial una propuesta de proyecto.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.4 — 4.4
 
 Acuerdo sobre los proyectos a ser financiados bajo la modalidad de obras por regalías para el desarrollo de las entidades territoriales. Las entidades territoriales y la(s) persona(s) jurídica(s) interesada(s) en optar por la modalidad de pago de obras por regalías deberán llegar a un acuerdo en relación con el proyecto de inversión a financiarse, el cual debe quedar consignado en un documento. El Ministerio de Minas y Energía determinará el contenido mínimo de este, el cual debe ser suscrito por el(los) representante(s) legal(es) de la(s) persona(s) jurídica(s) y el representante legal de la entidad territorial. Las partes podrán acordar términos y condiciones adicionales, de conformidad con la Ley 1942 de 2018, el presente Decreto y las demás normas que lo modifiquen, adicionen o sustituyan.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.5 — 4.5
 
 Estructuración de Proyectos para ser financiados bajo la modalidad de obras por regalías para el desarrollo de las entidades territoriales. Los proyectos de inversión para ser financiados bajo la modalidad de obras por regalías deben ser formulados, estructurados y presentados de conformidad con lo señalado en la normativa del Sistema General de Regalías.
 
 Los gastos administrativos y fiduciarios no harán parte del valor del proyecto, ni contarán como pago de las regalías. Dichos costos serán asumidos por la(s) persona(s) jurídica(s).
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.6 — Presentación y aprobación del proyecto ante el Órgano Colegiado de Administración y Decisión
 
@@ -6678,21 +5878,15 @@ PARÁGRAFO 1. Para la presentación del proyecto ante el Órgano Colegiado de Ad
 
 PARÁGRAFO 2. Cuando la(s) persona(s) jurídica(s) requiera(n) un ajuste al proyecto de inversión deberá(n) realizar el procedimiento conforme con lo establecido en la normativa del Sistema General de Regalías.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.7 — Cupo de afectación
 
 Para la aprobación del proyecto, se tendrá en cuenta el artículo 97 de la Ley 1530 de 2012 o la norma que lo modifique o sustituya, cuando aplique.
 
 (Ver Ley 2056 del 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.8 — Incorporación presupuestal
 
 Una vez aprobado el proyecto por el Órgano Colegiado de Administración y Decisión (OCAD), de conformidad con la programación del proyecto y previo cumplimiento de los requisitos establecidos en el artículo anterior cuando aplique, la entidad territorial lo incorporará sin situación de fondos en su presupuesto, en el capítulo presupuestal independiente.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.9 — Constitución de la fiducia
 
@@ -6714,8 +5908,6 @@ Para efectos de la aplicación de lo previsto en el presente artículo, se entie
 
 5. Saldos: el resultado obtenido de la diferencia entre los recursos depositados en la fiduciaria y lo ejecutado y son propiedad de la(s) persona(s) jurídica(s), teniendo en cuenta que siguen la suerte de lo principal.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.10 — Depósito en la fiducia mercantil y pagos al Sistema General de Regalías
 
 La(s) persona(s) jurídica(s) deberá(n) depositar en la fiducia el valor que corresponda al proyecto aprobado por el Órgano Colegiado de Administración y Decisión (OCAD) bajo la modalidad de obras por regalías.
@@ -6726,13 +5918,9 @@ Sin perjuicio de lo anterior, la(s) persona(s) jurídica(s) continuará(n) efect
 
 PARÁGRAFO . La Agencia Nacional de Hidrocarburos o la Agencia Nacional de Minería, según corresponda, informará al Departamento Nacional de Planeación (Dl\IP) en la determinación mensual de las asignaciones directas, el monto por beneficiario que será provisto para ser ejecutado bajo la modalidad de obras por regalías, a efectos de adelantar la identificación y comunicación en la instrucción de abono a cuenta al Ministerio de Hacienda y Crédito Público.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.11 — Manejo separado de los recursos depositados en la fiducia
 
 Los recursos provenientes de diferentes aportantes o fuentes de financiación se manejarán en cuentas y contabilidad separadas al interior de la fiducia mercantil.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.12 — Contratos derivados
 
@@ -6740,37 +5928,25 @@ La(s) persona(s) jurídica(s), emitirá(n) los lineamientos técnicos para la se
 
 Los contratos que deba suscribir la fiduciaria para la ejecución del proyecto, así como los bienes y servicios que incorpore serán valorados y realizados a precios de mercado y no vincularán a las entidades territoriales beneficiarias.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.13 — Garantías
 
 La entidad fiduciaria debe solicitar la constitución de garantías que amparen el cumplimiento de cada uno de los riesgos y contratos derivados, en particular las garantías a que haya lugar de conformidad con lo establecido en la Sección 3, Capítulo 2, Título 1 de la Parte 2 del Libro 2 del Decreto 1082 de 2015. La(s) persona(s) jurídica(s) remitirá(n) copia de las pólizas constituidas a la entidad territorial.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.14 — Permisos y licencias
 
 Los trámites de licencias, permisos y certificaciones estarán a cargo de la(s) persona(s) jurídica(s). No obstante, la entidad territorial deberá priorizar los trámites que sean de su competencia, en aras de garantizar oportunidad en los mismos.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.15 — Ejecución del proyecto
 
 La(s) persona(s) jurídica(s) asumirá(n) a su cuenta y riesgo la ejecución del proyecto seleccionado a través de la modalidad obras por regalías.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.16 — Inicio de ejecución del proyecto
 
 La ejecución del proyecto iniciará con la suscripción del acta de inicio correspondiente, previa presentación de las licencias definitivas y permisos previstos en la normativa vigente y aplicable, si a ellas hubiere lugar.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.17 — Incumplimiento en la ejecución del proyecto
 
 Si el proyecto no se ejecuta en las condiciones aprobadas por el Órgano Colegiado de Administración y Decisión (OCAD), no habrá lugar al reconocimiento pactado.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.18 — Cesión del proyecto
 
@@ -6796,25 +5972,17 @@ De la misma manera deberán remitir los siguientes documentos:
 
 3. Copia del acuerdo de la sesión del Órgano Colegiado de Administración y Decisión (OCAD) en la que conste la aprobación del proyecto y de la respectiva cesión.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.19 — Responsabilidad de la entidad territorial
 
 La entidad territorial beneficiaria no será responsable directa, solidaria ni subsidiaria por el incumplimiento de lo pactado entre la(s) persona(s) jurídica(s), la fiducia y los contratistas.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.20 — Sistema Monitoreo, Seguimiento, Control y Evaluación del Sistema General de Regalías
 
 Una vez recibido el proyecto de inversión a satisfacción por la entidad territorial, este podrá ser objeto del componente de evaluación, así como de reparte a las Órganos de Control y de la Fiscalía General de la Nación por el componente de control, si ello fuera pertinente.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.21 — interventoría en los proyectos de pago de regalías en la modalidad de obras por regalías
 
 El Departamento Nacional de Planeación (DNP), en coordinación con el Ministerio de Hacienda y Crédito Pública y el Ministerio de Minas y Energía, determinarán la entidad del arden nacional que emitirá los lineamientos técnicos para la contratación de la interventoría, según el tipo de proyecta, para la cual, mediante acto administrativo definirán la metodología para la correspondiente selección.
-
-ARTÍCULO
 
 ## art:2.2.4.1.1.14.22 — Contratación de la interventoría en los proyectos de pago de Regalías en la modalidad de obras por regalías
 
@@ -6832,8 +6000,6 @@ La fiduciaria deberá dar inicio al proceso de selección de la interventoría, 
 
 La entidad del orden nacional encargada, dará visto bueno a los informes de este, previo al desembolso de los pagos pactados.
 
-ARTÍCULO
-
 ## art:2.2.4.1.1.14.23 — Aplicación de las normas del Sistema General de Regalías
 
 Todo lo relacionado con la formulación, presentación y ejecución de proyectos de inversión a ser financiados bajo la modalidad de obras por regalías para el desarrollo de las entidades territoriales que no esté reglamentado mediante disposiciones especiales en esta subsección, debe remitirse a las normas generales del Sistema General de Regalías, en lo que sea aplicable.
@@ -6847,8 +6013,6 @@ SUBSECCIÓN 1
 DEL PLAN DE RECURSOS, EL PRESUPUESTO BIENAL Y LA HERRAMIENTA PARA LA DETERMINACIÓN DE LOS FLUJOS DE RECURSOS DEL
 
 SISTEMA GENERAL DE REGALÍAS
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.1.1 — Plan de recursos
 
@@ -6878,15 +6042,11 @@ PARÁGRAFO . En el evento en que el Departamento Administrativo Nacional de Esta
 
 (Decreto 1949 de 2012, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.1.2 — Variables para la distribución y ejecución entre fondos y beneficiarios
 
 Las variables utilizadas para la distribución del plan de recursos entre fondos y beneficiarios, se mantendrán durante la ejecución del respectivo presupuesto bienal del Sistema General de Regalías.
 
 (Decreto 1949 de 2012, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.1.3 — Elaboración del proyecto de presupuesto del Sistema General de Regalías
 
@@ -6895,8 +6055,6 @@ En concordancia con el Plan de Recursos y la priorización de proyectos para la 
 El proyecto a que hace referencia el inciso anterior será presentado a la Comisión Rectora a más tardar el veinticinco (25) de septiembre del año en que se esté programando el presupuesto bienal del Sistema, quien emitirá concepto del mismo, antes de la presentación al Congreso de la República. Con posterioridad a la emisión de concepto por parte de la Comisión Rectora del Sistema General de Regalías, el Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional, adelantará los ajustes pertinentes en los términos de las normas que regulan la elaboración del presupuesto del sistema.
 
 (Decreto 1949 de 2012, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.1.4 — Ajustes al anexo de proyectos del proyecto de presupuesto del sistema general de regalías
 
@@ -6908,8 +6066,6 @@ El otorgamiento de dicho aval, no podrá modificar los proyectos priorizados por
 
 (Decreto 1949 de 2012, artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.1.5 — Elaboración de los anexos para la ley de presupuesto bienal del sistema general de regalías
 
 Previo a la sanción de la Ley de Presupuesto del Sistema General de Regalías, el Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional, elaborará los anexos definitivos que contendrán el detalle señalado en la Ley 1530 de 2012 para cada uno de los capítulos del presupuesto del sistema. Para tal efecto, tomará como base los anexos presentados con el proyecto de ley de presupuesto e incorporará las modificaciones que se hayan aprobado por el Congreso de la República durante su trámite.
@@ -6917,8 +6073,6 @@ Previo a la sanción de la Ley de Presupuesto del Sistema General de Regalías, 
 (Ver Ley 2056 del 2020)
 
 (Decreto 1949 de 2012, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.1.6 — Cierre del Presupuesto Bienal del Sistema General de Regalías
 
@@ -6932,8 +6086,6 @@ PARÁGRAFO . Para el ejercicio de cierre, el insumo valido para determinar los r
 
 (Decreto 1949 de 2012, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.1.7 — Rendimientos Financieros de la Cuenta Única del Sistema General de Regalías
 
 Los rendimientos financieros diferentes de asignaciones directas que generen los recursos del SGR en la Cuenta Única, son propiedad del sistema y serán incorporados en el presupuesto en la vigencia siguiente a aquella que les dio origen, conforme a la distribución establecida en la normatividad vigente.
@@ -6943,8 +6095,6 @@ Los rendimientos financieros que generen los recursos de asignaciones directas e
 (Modificado por el Art. 4 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.1.8 — Plan bienal de caja del presupuesto del Sistema General de Regalías
 
@@ -6960,8 +6110,6 @@ Para efectos de que el Plan Bienal de Caja contenga los insumos necesarios y se 
 
 (Decreto 1949 de 2012, artículo 33)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.1.9 — Cronograma de flujos
 
 En concordancia con el Plan Bienal de Caja comunicado por el Ministerio de Hacienda y Crédito Público, cada órgano que conforman el sistema y los ejecutores designados por los órganos colegiados de administración y decisión o por las entidades habilitadas, deberán registrar en el Sistema de Presupuesto y Giro de Regalías (SPGR) su cronograma de flujos, con base en el cual establecerán los pagos para la ejecución presupuestal de los recursos de regalías asignados.
@@ -6971,8 +6119,6 @@ Los cronogramas de flujos registrados por parte de los ejecutores designados por
 (Modificado por el Art. 5 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 34)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.1.10 — Información para estimar las tasas de crecimiento total anuales de los ingresos del Sistema General de Regalías
 
@@ -6996,8 +6142,6 @@ SUBSECCIÓN 2
 
 DEL PRESUPUESTO DEL SISTEMA GENERAL DE REGALÍAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.1 — Información del recaudo y transferencia
 
 La Agencia Nacional de Hidrocarburos y la Agencia Nacional de Minería, según el recurso natural de que se trate, comunicarán, dentro de los dos (2) primeros días hábiles de cada mes, al Ministerio de Hacienda y Crédito Público y al Departamento Nacional de Planeación, el recaudo efectivo de regalías adelantado en el mes inmediatamente anterior, y el valor transferido por este concepto a la cuenta única del Sistema General de Regalías.
@@ -7008,15 +6152,13 @@ La Agencia Nacional de Hidrocarburos y la Agencia Nacional de Minería informar�
 
 (Decreto 1949 de 2012, artículo 35; Decreto 817 de 2014, artículo 3)
 
-## art:2.2.4.1.2.2.2 — Instrucción de abono a cuenta
+## art:2.2.4.1.2.2.2i — nstrucción de abono a cuenta
 
 Con fundamento en la información comunicada por el Ministerio de Minas y Energía o la entidad delegada a que hace referencia el artículo anterior, los respectivos actos administrativos de distribución y las demás apropiaciones incluidas en la ley bienal de presupuesto, el Departamento Nacional de Planeación calculará e informará al Ministerio de Hacienda y Crédito Público la Instrucción de Abono a Cuenta de los recursos de regalías, en los términos definidos por la Constitución y la ley.
 
 (Modificado por el Art. 6 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.3 — Asignaciones y giro de recursos
 
@@ -7034,8 +6176,6 @@ PARÁGRAFO . Una vez expedido el acto administrativo que corresponda, la Direcci
 
 (Decreto 1949 de 2012, artículo 35; Decreto 817 de 2014, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.4 — Cumplimiento del Giro
 
 El Ministerio de Hacienda y Crédito Público - Dirección General de Crédito Público y Tesoro Nacional, dará cumplimiento a la Instrucción de Abono a Cuenta comunicada por el Departamento Nacional de Planeación y adelantará las asignaciones y giros en los términos dispuestos por el artículo anterior, siempre y cuando exista la disponibilidad de recursos recaudados para tal fin, y no medien medidas de suspensión de giro impuestas por el Departamento Nacional de Planeación.
@@ -7045,8 +6185,6 @@ Los giros con cargo a los recursos de los Fondos de Ciencia Tecnología e Innova
 (Derogado por el Art. 23 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.5 — Sistema de Presupuesto y Giro de Regalías
 
@@ -7058,8 +6196,6 @@ En desarrollo de lo establecido en el artículo 92 de la Ley 1530 de 2012, el Si
 
 (Decreto 817 de 2014, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.6 — Giro de segundo nivel y reintegro de rendimientos financieros
 
 De conformidad con el artículo 28 de la Ley 1530 de 2012, las entidades beneficiarias de asignaciones directas o del 40% del Fondo de Compensación Regional - Específicas podrán girar los recursos aprobados por el órgano colegiado de administración y decisión para financiar determinado proyecto de inversión a la entidad de naturaleza pública designada como ejecutora, en aquellos casos en que la entidad beneficiaria no sea quien ejecuta directamente dichos recursos, o a la instancia de naturaleza pública designada para adelantar la contratación de la interventoría, según lo decidido por el órgano colegiado de administración y decisión. Los rendimientos financieros que se generen, una vez la entidad beneficiaria de asignaciones directas realice el giro de los recursos aprobados por el órgano colegiado de administración y decisión al ejecutor del proyecto de inversión, son de la entidad beneficiaria y deben ser reintegrados de conformidad con la normatividad vigente en la materia.
@@ -7069,8 +6205,6 @@ La entidad ejecutora y la designada para realizar la contratación de la interve
 (Ver Ley 2056 del 2020)
 
 (Decreto 817 de 2014, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.7 — Responsabilidades
 
@@ -7082,8 +6216,6 @@ Los órganos del sistema, las entidades a las que se les asigne recursos de func
 
 (Decreto 1949 de 2012, artículo 39)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.8 — Procedimiento
 
 El Ministerio de Hacienda y Crédito Público Dirección General de Crédito Público y Tesoro Nacional, fijará los procedimientos y requisitos generales para la transferencia de los recursos recaudados por concepto de regalías a la Cuenta Única del Sistema General de Regalías.
@@ -7091,8 +6223,6 @@ El Ministerio de Hacienda y Crédito Público Dirección General de Crédito Pú
 (Modificado por el Art. 10 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 40)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.9 — De la Ejecución del Presupuesto de Gastos
 
@@ -7104,8 +6234,6 @@ Las apropiaciones que en su capítulo presupuestal independiente incorporen las 
 
 (Decreto 1949 de 2012, artículo 41)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.10 — Estados Financieros del Sistema General de Regalías
 
 Los Estados Financieros del Sistema General de Regalías registrarán y revelarán la información contable desde el registro de los ingresos hasta el giro de los recursos de la Cuenta Única del Sistema General de Regalías.
@@ -7115,8 +6243,6 @@ Cada una de las entidades que participan en las transacciones y hechos económic
 (Modificado por el Art. 12 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 42)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.11 — Autorizaciones de vigencias futuras para órganos, fondos y beneficiarios del Sistema General De Regalías
 
@@ -7132,8 +6258,6 @@ Las autorizaciones de vigencias futuras para la asunción de compromisos en los 
 
 (Decreto 1949 de 2012, artículo 43)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.12 — .12
 
 Autorización de vigencias futuras para proyectos financiados con cargo al 40% del Fondo de Compensación Regional de que trata el numeral 2 del artículo 34 de la Ley 1530 de 2012. Para la autorización de vigencias futuras para proyectos de inversión que se financiarán con cargo al 40% del Fondo de Compensación Regional de que trata el numeral 2 del artículo 34 de la Ley 1530 de 2012, se requerirá únicamente la autorización del órgano colegiado de administración y decisión del respectivo municipio que apruebe el proyecto de inversión que se financiará con cargo al 40% a que se refiere este inciso, observando los requisitos que se encuentran en el artículo 97 de la Ley 1530 de 2012, y los demás requisitos del artículo 12 de la Ley 819 de 2003 que le sean aplicables y que no le sean contrarios a las normas que regulan el Sistema General de Regalías, y las demás normas sobre vigencias futuras.
@@ -7141,8 +6265,6 @@ Autorización de vigencias futuras para proyectos financiados con cargo al 40% d
 (Ver Ley 2056 del 2020)
 
 (Decreto 905 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.13 — Incorporación en los Presupuestos de las Entidades Ejecutoras de Recursos del Sistema General de Regalías
 
@@ -7158,15 +6280,11 @@ PARÁGRAFO TRANSITORIO. El proceso de afectación de las apropiaciones incorpora
 
 (Decreto 1949 de 2012, artículo 44)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.14 — Ordenación de gasto de las apropiaciones
 
 Corresponde al jefe del órgano respectivo o a su delegado del nivel directivo de la entidad ejecutora designada por el órgano colegiado de administración y decisión, ordenar el gasto sobre las apropiaciones que se incorporan al presupuesto de la entidad en desarrollo de los artículos anteriores, en consecuencia, serán responsables fiscal, penal y disciplinariamente por el manejo de tales apropiaciones, en los términos de las normas que regulan la materia.
 
 (Decreto 1949 de 2012, artículo 45)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.15 — Del respaldo de los recursos del sistema general de regalías
 
@@ -7176,15 +6294,11 @@ Las operaciones de crédito público que se adelanten en los términos descritos
 
 (Decreto 1949 de 2012, artículo 46)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.16 — Saldos negativos
 
 Si con posterioridad al giro de los recursos el recaudo de la entidad beneficiaria disminuye y, por lo tanto, la distribución mensual siguiente presenta saldos negativos, la Agencia Nacional de Hidrocarburos o la Agencia Nacional Minera deberán hacer los ajustes correspondientes, deduciendo el excedente de la distribución que por concepto de asignaciones directas y compensaciones, comunica al Departamento Nacional de Planeación. Las respectivas agencias llevarán el control y comunicarán las cuentas a las entidades beneficiarias y al Departamento Nacional de Planeación.
 
 (Decreto 1399 de 2013, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.17 — Giros mayores a los valores liquidados según recaudo o presupuestados
 
@@ -7194,8 +6308,6 @@ En el evento en que los descuentos realizados no sean suficientes para cubrir la
 
 (Decreto 1399 de 2013, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.18 — Compromisos y obligaciones pendientes de pago de la vigencia 2012
 
 Los órganos, entidades y beneficiarios del Sistema General de Regalías, atenderán los compromisos no pagados de la vigencia fiscal 2012, con cargo al presupuesto ajustado del bienio 2013-2014.
@@ -7204,15 +6316,11 @@ En concordancia con el artículo 2.2.4.1.2.4.2 del presente decreto, los órgano
 
 (Decreto 1399 de 2013, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.19 — Compromisos y obligaciones pendientes de pago del bienio 2013-2014
 
 los órganos, entidades y beneficiarios del Sistema General de Regalías, atenderán los compromisos no pagados del bienio 2013 - 2014, con cargo al presupuesto ajustado del bienio 2015 - 2016.
 
 (Decreto 722 de 2015, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.20 — Diferencias por ajustes a liquidaciones definitivas
 
@@ -7226,8 +6334,6 @@ En el evento en que las agencias evidencien que los ajustes efectuados en virtud
 
 (Decreto 722 de 2015, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.21 — Ajustes al cierre presupuestal del capítulo de regalías dentro del presupuesto de los beneficiarios y ejecutores
 
 Con ocasión al cierre de que tratan los artículos 1 a 12 y 18 del Decreto 722 de 2015, en caso de existir diferencias que afecten las decisiones de los órganos colegiados de administración y decisión (OCAD) sobre la viabilización, priorización o aprobación de proyectos o la financiación de inflexibilidades de que trata el artículo 144 de la ley 1530 de 2012, la secretaría técnica respectiva debe informar a las entidades beneficiarias o ejecutoras para que se tramiten los ajustes pertinentes ante el OCAD.
@@ -7237,8 +6343,6 @@ Una vez aprobados los ajustes por el órgano colegiado, los beneficiarios y ejec
 (Ver Ley 2056 del 2020)
 
 (Decreto 722 de 2015, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.22 — .22
 
@@ -7256,8 +6360,6 @@ PARÁGRAFO 2. El acuerdo del OCAD que se registre y cargue en el Banco de Progra
 
 (Derogado por el Art. 23 del Decreto 826 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.23 — .23
 
 Giro de Recursos para Pago de Compromisos adquiridos a 31 de diciembre de 2011.El giro de los recursos para la financiación de compromisos adquiridos a 31 de diciembre de 2011 de que trata el artículo 144 de la Ley 1530 de 2012, aprobados por el OCAD, se efectuará haciendo uso del Sistema de Presupuesto y Giro de Regalías (SPGR) para realizar la gestión de ejecución de estos recursos y ordenar el giro de las obligaciones legalmente adquiridas, directamente desde la Cuenta Única del Sistema General de Regalías a las cuentas bancarias de los destinatarios finales.
@@ -7265,8 +6367,6 @@ Giro de Recursos para Pago de Compromisos adquiridos a 31 de diciembre de 2011.E
 (Ver Ley 2056 del 2020)
 
 (Modificado por el Art. 14 del Decreto 826 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.24 — Giro de recursos de diferendos limítrofes
 
@@ -7280,13 +6380,9 @@ PARÁGRAFO . En concordancia con el artículo 2.2.4.1.1.5.1 del presente decreto
 
 (Ver Ley 2056 del 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.25 — Información oportuna para el giro de los recursos
 
 Previo a la solicitud de giro, las secretarías técnicas de los OCAD y de las entidades solicitantes, deberán actualizar la información que sobre los proyectos de inversión aprobados les corresponda diligenciar en los aplicativos dispuestos por el Departamento Nacional de Planeación para la administración del Banco de Programas y Proyectos del SGR y del Sistema de Monitoreo, Seguimiento, Control y Evaluación del SGR.
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.26 — Reintegro de Recursos a la Cuenta Única del Sistema General de Regalías
 
@@ -7295,8 +6391,6 @@ Los reintegros a la Cuenta Única del Sistema General de Regalías deben realiza
 Los rendimientos financieros generados con recursos del Sistema General de Regalías, entregados en administración por concepto de anticipos a las entidades fiduciarias deberán reintegrarse a la Cuenta Única del SGR, atendiendo los lineamientos definidos por la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público. Las entidades fiduciarias que reintegren rendimientos financieros deberán informar la fuente del Sistema General de Regalías que les dio origen
 
 (Modificado por el Art. 15 del Decreto 826 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.27 — Del Pago y la Ordenación del Gasto
 
@@ -7318,8 +6412,6 @@ PARÁGRAFO 2 TRANSITORIO. Los proyectos de investigación con cargo al Fondo de 
 
 (Adicionado por el Art. 1 del Decreto 826 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.28 — Catálogo de Clasificación Presupuestal
 
 El Ministerio de Hacienda y Crédito Público de conformidad con lo establecido por el artículo 92 de la Ley 1530 de 2012 y demás normas que lo modifiquen o sustituyan, definirá el catálogo de clasificación presupuestal.
@@ -7330,8 +6422,6 @@ A partir del 1 de enero del año 2021 dicho catálogo deberá ser implementado p
 
 (Adicionado por el Art. 1 del Decreto 826 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.2.29 — Usuarios y campo de aplicación
 
 Son usuarios del Sistema de Presupuesto y Giro de Regalías (SPGR) los órganos del SGR y demás entidades ejecutoras de recursos del Sistema General de Regalías, quienes deberán hacer uso del SPGR para realizar la gestión de ejecución de los recursos
@@ -7339,8 +6429,6 @@ Son usuarios del Sistema de Presupuesto y Giro de Regalías (SPGR) los órganos 
 Las entidades ejecutoras de recursos ordenarán el pago de las obligaciones legalmente adquiridas directamente desde la Cuenta Única del SGR a las cuentas bancarias de los destinatarios 'finales, debidamente registradas en el SPGR.
 
 (Adicionado por el Art. 1 del Decreto 826 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.2.30 — Registro de Información en el Sistema de Presupuesto y Giro de Regalías
 
@@ -7380,8 +6468,6 @@ SUBSECCIÓN 3
 
 EJECUCIÓN DEL PRESUPUESTO DE GASTOS DE LOS ÓRGANOS DEL SISTEMA GENERAL DE REGALÍAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.3.1 — Manejo Presupuestal
 
 Los órganos del Sistema General de Regalías dispondrán de los recursos en los porcentajes definidos por la Constitución y la ley para el ejercicio de las funciones a ellos asignadas en el marco del SGR.
@@ -7394,8 +6480,6 @@ El Departamento Nacional de Planeación en su calidad de Secretaría Técnica de
 
 (Decreto 1949 de 2012, artículo 47)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.3.2 — Plantas de personal de carácter temporal para los órganos del Sistema General De Regalías
 
 El Departamento Nacional de Planeación, el Departamento Administrativo de Ciencia Tecnología e Innovación (Colciencias), los Ministerios de Hacienda y Crédito Público, y de Minas y Energía, así como sus entidades adscritas y vinculadas que cumplan funciones en el marco del Sistema General de Regalías, podrán disponer de plantas de personal de carácter temporal para el ejercicio de dichas funciones. La creación de las plantas de personal se sujetará a lo dispuesto por las normas que le sean aplicables.
@@ -7406,8 +6490,6 @@ SUBSECCIÓN 4
 
 EJECUCIÓN DEL PRESUPUESTO DE GASTOS DE FONDOS Y BENEFICIARIOS
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.4.1 — Aprobación de proyectos y designación de ejecutor
 
 La aprobación de proyectos y designación de ejecutor se adelantará en los términos establecidos en el artículo 2.2.4.1.1.5.3 del presente decreto.
@@ -7416,15 +6498,11 @@ Aprobado un proyecto de inversión por parte del órgano colegiado de administra
 
 (Decreto 1949 de 2012, artículo 49)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.4.2 — Límites para la aprobación de proyectos
 
 Expedido el Presupuesto del Sistema General de Regalías, los órganos colegiados de administración y decisión podrán aprobar proyectos hasta por el 80% del monto de las apropiaciones por entidad territorial beneficiaria de regalías directas y por fondos. El 20% restante podrá ser utilizado una vez la Comisión Rectora determine que la proyección de recursos contenida en el presupuesto será compatible con el comportamiento de los recaudos, en el tercer semestre de la bienalidad.
 
 (Decreto 1949 de 2012, artículo 50)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.4.3 — Rendimientos financieros diferentes de los de las asignaciones directas y compensaciones
 
@@ -7433,8 +6511,6 @@ En desarrollo de lo previsto en el artículo 16 de la Ley 1744 de 2014 y el art�
 Para tal fin, la entidad beneficiaria o ejecutora impartirá autorización a la entidad bancaria, en el marco del convenio de cuenta maestra suscrito para el manejo de los recursos del Sistema General de Regalías, para que trimestralmente realice el débito y giro automático de dichos rendimientos conforme a las instrucciones que para tal efecto imparta el Ministerio de Hacienda y Crédito Público.
 
 (Decreto 722 de 2015, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.4.4 — Recursos de los municipios ribereños del río grande de la magdalena y canal del dique
 
@@ -7448,8 +6524,6 @@ SUBSECCIÓN 5
 
 EJECUCIÓN DEL PRESUPUESTO DE GASTOS DE LAS ENTIDADES RECEPTORAS DE ASIGNACIONES DIRECTAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.5.1 — Ajustes al anexo de regalías directas y compensaciones
 
 Para garantizar el cumplimiento de los giros a las entidades receptoras de asignaciones directas, el Gobierno Nacional podrá mediante decreto, adelantar ajustes al anexo de regalías directas y compensaciones del presupuesto del Sistema, cuando el Ministerio de Minas y Energía o la entidad delegada evidencie cambios en la proyección de asignaciones, entendidas como la proyección de recursos por entidad beneficiaria.
@@ -7459,8 +6533,6 @@ Dicho ajuste procederá, siempre y cuando, no se modifique el monto de ingresos 
 (Ver Ley 2056 del 2020)
 
 (Decreto 1949 de 2012, artículo 51)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.5.2 — Límite de giro
 
@@ -7473,8 +6545,6 @@ Los giros a las entidades beneficiarias de asignaciones directas y a los municip
 SUBSECCIÓN 6
 
 MANEJO PRESUPUESTAL DE LAS REGALÍAS EN LOS ÓRGANOS DEL SISTEMA, Y LAS ENTIDADES EJECUTORAS DE PROYECTOS
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.6.1 — Capítulo Presupuestal Independiente del Sistema General de Regalías
 
@@ -7490,8 +6560,6 @@ El manejo presupuestal de estos recursos estará sujeto a las reglas presupuesta
 
 (Decreto 1949 de 2012, artículo 53)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.6.2 — Vigencia del capítulo de presupuesto independiente del Sistema General de Regalías
 
 Tanto los ingresos como las apropiaciones incorporadas en el capítulo independiente del Sistema General de Regalías dispondrán de la misma vigencia que los contenidos en el Presupuesto del Sistema General de Regalías aprobado por el Congreso de la República.
@@ -7499,8 +6567,6 @@ Tanto los ingresos como las apropiaciones incorporadas en el capítulo independi
 Los órganos del Sistema General de Regalías y las entidades que reciban recursos de funcionamiento del sistema o sean designadas como ejecutoras de proyectos, podrán adquirir compromisos contra la totalidad de recursos aprobados por el órgano colegiado de administración y decisión para los proyectos de inversión, para lo cual se expedirá certificado de disponibilidad presupuestal por el órgano o la entidad correspondiente, que garantiza la existencia de la apropiación en el presupuesto para atender el compromiso que se pretende adquirir.
 
 (Decreto 1949 de 2012, artículo 54)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.6.3 — Cierre presupuestal
 
@@ -7512,8 +6578,6 @@ SUBSECCIÓN 7
 
 MANEJO PRESUPUESTAL DE LAS REGALÍAS EN LAS ENTIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.7.1 — Ámbito de aplicación
 
 Las normas contenidas en la presente subsección aplican para las entidades territoriales que sean receptoras de asignaciones directas, 40% del Fondo de Compensación Regional, ejecutoras de proyectos aprobados por el OCAD o por entidades habilitadas y aquellas que perciban recursos para el fortalecimiento de las oficinas de planeación y/o las secretarías técnicas de los órganos colegiados de administración y decisión y gastos de administración del SGR.
@@ -7522,8 +6586,6 @@ Las normas contenidas en la presente subsección aplican para las entidades terr
 
 (Decreto 1949 de 2012, artículo 56)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.7.2 — Capítulo de regalías dentro del presupuesto de las entidades territoriales
 
 Dentro del presupuesto de las entidades territoriales, se creará un capítulo independiente, en el que se incorporarán los recursos provenientes del Sistema General de Regalías. El manejo presupuestal de estos recursos estará sujeto a las reglas presupuestales del sistema contenidas en la ley 1530 de 2012, en la ley bienal del presupuesto, en los decretos reglamentarios que para el efecto se expidan y en las normas que los modifiquen, adicionen o sustituyan. La vigencia de los ingresos y gastos incorporados en dicho capítulo será bienal, concordante con la vigencia del presupuesto del Sistema General de Regalías.
@@ -7531,8 +6593,6 @@ Dentro del presupuesto de las entidades territoriales, se creará un capítulo i
 (Ver Ley 2056 del 2020)
 
 (Decreto 1949 de 2012, artículo 57)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.7.3 — Capitulo Presupuestal Independiente del Sistema General de Regalías para Entidades Territoriales
 
@@ -7576,8 +6636,6 @@ PARÁGRAFO . La clasificación prevista en este artículo regirá, hasta que ent
 
 (Decreto 1949 de 2012, artículo 58; Decreto 817 de 2014, artículo 5))
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.7.4 — Ejecución del capítulo de regalías del presupuesto de las entidades territoriales
 
 En aplicación del artículo 96 de la Ley 1530 de 2012, las entidades territoriales beneficiarias de asignaciones directas, 40% del Fondo de Compensación Regional y recursos excedentes del FONPET y las entidades territoriales designadas como ejecutoras de un proyecto, incorporarán al presupuesto bienal que se encuentre en ejecución, mediante decreto expedido por el alcalde o gobernador, el monto de los recursos de los proyectos de inversión aprobados por el OCAD o la entidad habilitada, que correspondan a la bienalidad del Sistema General de Regalías. Igualmente, las entidades territoriales a quienes se les asignen recursos para el fortalecimiento de las oficinas de planeación o las secretarías técnicas de los órganos colegiados de administración y decisión incorporarán estos recursos al presupuesto que se encuentre en ejecución, mediante decreto expedido por el alcalde o gobernador.
@@ -7593,8 +6651,6 @@ El anterior inciso aplica también para las entidades que son designadas como ej
 (Modificado por el Art. 20 del Decreto 826 de 2020)
 
 (Decreto 1949 de 2012, artículo 59)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.7.5 — Cierre presupuestal del capítulo de regalías
 
@@ -7616,8 +6672,6 @@ Los rendimientos financieros generados con recursos de los Fondos de Compensaci�
 
 (Decreto 1949 de 2012, artículo 60)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.7.6 — Autorización de vigencias futuras para proyectos financiados con asignaciones directas
 
 Para efectos de lo dispuesto por el artículo 97 de la Ley 1530 de 2012, se entiende que el órgano colegiado de administración y decisión competente, es el órgano colegiado de administración y decisión para asignaciones directas del nivel departamental, municipal o distrital, respectivo.
@@ -7628,15 +6682,13 @@ Para efectos de lo dispuesto por el artículo 97 de la Ley 1530 de 2012, se enti
 
 (Decreto 1949 de 2012, artículo 61)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.7.7 — Manejo de recursos destinados al fortalecimiento de las secretarias de planeación
 
 Los recursos destinados al fortalecimiento de las secretarías de planeación y de las secretarías técnicas de los órganos colegiados de administración y decisión no tendrán que ser aprobados por los órganos colegiados de administración y decisión para su incorporación y ejecución.
 
 (Decreto 1949 de 2012, artículo 62)
 
-## art:2.2.4.1.2.7.8 — Rendimientos financieros de las asignaciones directas y compensaciones
+## art:2.2.4.1.2.7.8r — endimientos financieros de las asignaciones directas y compensaciones
 
 Los rendimientos financieros generados por las asignaciones directas y compensaciones y por los recursos excedentes del FONPET del Sistema General de Regalías, son de propiedad de las entidades beneficiarías. A estos rendimientos, se les debe dar la misma destinación prevista en las disposiciones vigentes para estas asignaciones, surtir los trámites ante el OCAD o la entidad habilitada y, para su ejecución, se deberán incorporar al capítulo de regalías del presupuesto de la entidad territorial.
 
@@ -7648,8 +6700,6 @@ SUBSECCIÓN 8
 
 CAPACIDAD DE PAGO DE LAS ENTIDADES TERRITORIALES
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.8.1 — Cómputo de las asignaciones en la capacidad de pago
 
 De acuerdo con los artículos 40 y 133 de la ley 1530 de 2012, los ingresos por asignaciones directas y recursos asignados por los fondos del Sistema General de Regalías computan en la capacidad de pago de las entidades territoriales, solamente para contratar operaciones de crédito público destinadas a financiar proyectos de inversión previamente aprobados por los órganos colegiados de administración y decisión.
@@ -7658,8 +6708,6 @@ De acuerdo con los artículos 40 y 133 de la ley 1530 de 2012, los ingresos por 
 
 (Decreto 1949 de 2012, artículo 63)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.8.2 — 8.2
 
 Cálculo de la capacidad de pago de las entidades territoriales receptoras de asignaciones directas y entidades territoriales designadas como ejecutoras. Para efectuar el cálculo de los indicadores de capacidad de pago de las entidades territoriales receptoras de asignaciones directas y entidades territoriales ejecutoras, a los que se refiere la Ley 358 de 1997, se deben incluir dentro de los ingresos corrientes por regalías los ingresos por concepto de asignaciones directas y los asignados por los fondos del Sistema General de Regalías, previamente aprobados por el órgano colegiado de administración y decisión correspondiente, conforme a las normas pertinentes fijadas en la Ley 1530 de 2012. Lo anterior sin perjuicio de lo establecido en el artículo 44 de la Ley 1530 de 2012.
@@ -7667,8 +6715,6 @@ Cálculo de la capacidad de pago de las entidades territoriales receptoras de as
 (Ver Ley 2056 del 2020)
 
 (Decreto 1949 de 2012, artículo 64)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.8.3 — Indicadores de capacidad de pago y normas de responsabilidad fiscal
 
@@ -7684,15 +6730,11 @@ De acuerdo con los artículos 40 y 133 de la Ley 1530 de 2012, para realizar ope
 
 (Decreto 1949 de 2012, artículo 65)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.8.4 — Autorización de los cupos de endeudamiento
 
 Para autorizar los cupos de endeudamiento, las asambleas y los concejos pueden incluir créditos apalancados con asignaciones del Sistema General de Regalías únicamente cuando este tipo de recursos se destine a financiar proyectos de inversión previamente aprobados por los órganos colegiados de administración y decisión.
 
 (Decreto 1949 de 2012, artículo 66)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.8.5 — Excedentes de liquidez de los recursos del sistema general de regalías
 
@@ -7708,8 +6750,6 @@ SUBSECCIÓN 9
 
 PLATAFORMA INTEGRADA DEL SISTEMA GENERAL DE REGALÍAS
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.9.1 — Plataforma integrada de información del Sistema General de Regalías
 
 De acuerdo con lo dispuesto en la Ley 1530 de 2012, adóptese un sistema de información de largo alcance, interactivo, que permita visualizar en tiempo real el ciclo del recurso y los resultados de los proyectos de inversión que se financiarán con cargo a los recursos del Sistema General de Regalías. El sistema mostrará los resultados utilizando mecanismos de última tecnología en mapeo digital para evidenciar e indagar de forma profunda la información del Sistema General de Regalías que se cargue. El sistema deberá permitir ubicar los recursos y proyectos de forma geo referencial.
@@ -7724,8 +6764,6 @@ Esta herramienta debe permitir hacer un seguimiento adecuado y completo a los re
 
 (Decreto 1949 de 2012, artículo 68; Decreto 817 de 2014, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.9.2 — Definición de la plataforma integrada del sistema
 
 La plataforma integrada del Sistema General de Regalías es un sistema que integra la información sobre los recursos naturales no renovables, las contraprestaciones económicas originadas por la explotación de éstos, su destinación con énfasis en los proyectos de inversión que se financian con cargo al sistema, con el fin de brindar mayor transparencia en el manejo de los recursos mediante la publicación de información recogida a partir de sistemas ya existentes sin que se intervengan bases de datos.
@@ -7734,15 +6772,11 @@ La plataforma permitirá acceso libre a las entidades territoriales, a los órga
 
 (Decreto 1949 de 2012, artículo 69)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.9.3 — Administración de la plataforma integrada del sistema
 
 La plataforma integrada del Sistema General de Regalías será administrada por la Comisión Rectora, quien fijará las condiciones, características y estándares de calidad de la plataforma.
 
 La Comisión Rectora expedirá un acuerdo en el que establecerá el método mediante el cual se unificará la información que presenten los diferentes actores que alimenten la plataforma. (Decreto 1949 de 2012, artículo 70)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.9.4 — Componentes de la plataforma integrada del sistema
 
@@ -7780,23 +6814,17 @@ La plataforma integrada del Sistema General de Regalías será transversal y deb
 
 (Decreto 1949 de 2012, artículo 71)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.9.5 — Registro de información
 
 Las entidades territoriales, los ejecutores de los proyectos, los órganos del Sistema General de Regalías, el Fonpet, el Banco de la República, el Instituto Geográfico Agustín Codazzi y el Departamento Administrativo Nacional de Estadística deberán registrar la información en forma estandarizada, teniendo en cuenta los parámetros que para el efecto disponga la Comisión Rectora.
 
 (Decreto 1949 de 2012, artículo 72)
 
-ARTÍCULO
-
 ## art:2.2.4.1.2.9.6 — Procedimiento para registro de información
 
 La Comisión Rectora mediante acuerdo establecerá el procedimiento para registrar la información.
 
 (Decreto 1949 de 2012, artículo 73)
-
-ARTÍCULO
 
 ## art:2.2.4.1.2.9.7 — Información del banco de programas y proyectos de inversión del sistema general de regalías
 
@@ -7812,8 +6840,6 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.1 — Alcance del Sistema de Monitoreo, Seguimiento, Control y Evaluación
 
 El Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE), desarrollará procesos de recolección, consolidación, verificación, análisis de la información, imposición de medidas de control y retro alimentación de los resultados de las inversiones ejecutadas con recursos del Sistema General de Regalías (SGR), con el fin de velar por el uso eficaz, y eficiente de los mismos.
@@ -7828,8 +6854,6 @@ PARÁGRAFO transitorio. En el ejercicio de las funciones a que hacen referencia 
 
 (Decreto 414 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.2 — Naturaleza de la labor del Sistema de Monitoreo, Seguimiento, Control y Evaluación
 
 Las labores del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE) son de naturaleza administrativa, de acuerdo con lo establecido en el parágrafo tercero del artículo 361 de la Constitución Política.
@@ -7837,8 +6861,6 @@ Las labores del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE)
 Esta labor es diferente de la del control fiscal, disciplinario y penal que corresponde a los órganos de control y a la Fiscalía General de la Nación y para su ejecución no ejerce funciones de policía judicial o de investigación.
 
 (Decreto 414 de 2013, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.3 — Ámbito de aplicación
 
@@ -7880,8 +6902,6 @@ PARÁGRAFO . Todos los actores del sistema definidos en el presente artículo es
 
 (Decreto 1467 de 2018, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.4 — Responsabilidad de los órganos y actores del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE)
 
 En concordancia con la Sección 4, Gestión de Información, del presente capítulo, los órganos y actores del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE) son responsables del reporte de la información que demande el sistema en el marco de sus funciones, dentro de los 15 primeros días de cada mes y en las condiciones que defina el Departamento Nacional de Planeación (DNP), en su calidad de administrador del SMSCE, conforme a lo previsto en el artículo 100 de la Ley 1530 de 2012.
@@ -7896,15 +6916,11 @@ PARÁGRAFO 2. Las entidades designadas por los órganos colegiados de administra
 
 (Decreto 414 de 2013, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.2.1.5 — Verificación, consolidación, análisis y evaluación de información
 
 El Departamento Nacional de Planeación de forma trimestral efectuará la consolidación, análisis, evaluación y retroalimentación de la información reportada por los órganos y actores del Sistema señalados en el artículo 2.2.4.2.1.3 del presente decreto, necesaria para el adecuado funcionamiento del Sistema General de Regalías (SGR).
 
 (Decreto 414 de 2013, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.2.1.6 — Control Social
 
@@ -7926,8 +6942,6 @@ MONITOREO, SEGUIMIENTO, CONTROL Y EVALUACIÓN
 
 SUBSECCIÓN 1
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1.1 — Alcance del monitoreo
 
 En virtud de lo dispuesto en el numeral 1 del artículo 102 de la Ley 1530 de 2012, el monitoreo se llevará a cabo a través de indicadores definidos por el Departamento Nacional de Planeación respecto del manejo de los recursos del Sistema General de Regalías (SGR) que incluye: la presentación de las iniciativas a consideración de las instancias colegiadas, su aprobación y ejecución; los recursos orientados al funcionamiento del Sistema General de Regalías (SGR), Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE), Ahorro Pensiona! Territorial, Fondo de Ahorro y Estabilización (FAE) y actividades relacionadas con la fiscalización de la exploración y explotación de los yacimientos, y el conocimiento y cartografía del subsuelo; así como las inversiones financieras realizadas con los mismos, Se realizará de manera periódica sobre cada uno de los actores del Sistema General de Regalías (SGR), a través de las siguientes actividades:
@@ -7945,8 +6959,6 @@ En virtud de lo dispuesto en el numeral 1 del artículo 102 de la Ley 1530 de 20
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.1.2 — Metodologías del Monitoreo
 
@@ -7974,8 +6986,6 @@ PARÁGRAFO 3. El sistema de monitoreo podrá tener en cuenta los conceptos emiti
 
 (Decreto 414 de 2013, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.1.3 — Cuentas maestras
 
 En las cuentas maestras sólo se podrá realizar operaciones débito que se destinen al pago de obligaciones generadas en la ejecución de dichos recursos o de la inversión financiera de los mismos. Toda transacción que se efectúe con cargo a éstas se debe hacer por transferencia electrónica.
@@ -7988,8 +6998,6 @@ PARÁGRAFO . Las cuentas autorizadas por el Departamento Nacional de Planeación
 
 SUBSECCIÓN 2
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.2.1 — Alcance del seguimiento
 
 El seguimiento está orientado a la verificación de la ejecución física y financiera de los proyectos de inversión financiados con recursos del Sistema General de Regalías (SGR) seleccionados como resultado del monitoreo, en términos de eficacia, eficiencia y calidad en la gestión de los bienes o servicios objeto de los mismos, respecto de la información suministrada por los ejecutores y la recopilada por el Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE), de acuerdo con los siguientes conceptos:
@@ -8001,8 +7009,6 @@ El seguimiento está orientado a la verificación de la ejecución física y fin
 3. Calidad: Cumplimiento de los estándares técnicos de los bienes o servicios logrados en el desarrollo del proyecto de conformidad con la formulación del mismo.
 
 (Decreto 414 de 2013, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.2.2 — Instrumentos del seguimiento
 
@@ -8022,8 +7028,6 @@ PARÁGRAFO . En los proyectos financiados con recursos del Fondo de Ciencia, Tec
 
 (Decreto 414 de 2013, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.2.3 — Selección de proyectos para seguimiento
 
 Con base en los resultados del monitoreo se determinará periódicamente la muestra de los proyectos objeto de seguimiento, atendiendo los criterios de selección y la metodología definida para tal fin.
@@ -8034,15 +7038,11 @@ SUBSECCIÓN 3
 
 EVALUACIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.1 — Alcance de la evaluación
 
 La evaluación se realizará sobre los proyectos de inversión seleccionados y se orientará a la verificación de la gestión, productos y resultados del proyecto definidos en la formulación del mismo, en términos de eficacia, eficiencia y calidad. Periódicamente se efectuarán evaluaciones del impacto generado por la inversión de recursos del Sistema General de Regalías (SGR).
 
 (Decreto 414 de 2013, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.3.2 — Tipos de evaluación
 
@@ -8060,8 +7060,6 @@ PARÁGRAFO . En los proyectos financiados con recursos del Fondo de Ciencia, Tec
 
 (Decreto 414 de 2013, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.3.3 — Selección de proyectos para evaluación
 
 Periódicamente, se determinará la muestra de los proyectos objeto de evaluación atendiendo criterios estratégicos definidos en la metodología que será utilizada para tal fin.
@@ -8071,8 +7069,6 @@ Periódicamente, se determinará la muestra de los proyectos objeto de evaluaci�
 SUBSECCIÓN 4
 
 CONTROL
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4.1 — Alcance
 
@@ -8084,8 +7080,6 @@ Para la aplicación de las medidas de control se debe surtir el procedimiento pr
 
 (Decreto 414 de 2013, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.4.2 — Información en el procedimiento preventivo
 
 El Departamento Nacional de Planeación dictará los lineamientos que se tendrán en cuenta para la aplicación de la causal establecida en el literal a) del artículo 109 de la Ley 1530 de 2012, especificando tipo de información y plazos para su entrega.
@@ -8094,8 +7088,6 @@ El Departamento Nacional de Planeación dictará los lineamientos que se tendrá
 
 (Decreto 414 de 2013, artículo 17)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.4.3 — Peligro inminente
 
 Para efectos de la causal del literal c) del artículo 109 de la Ley 1530 de 2012, el peligro inminente se entenderá como el inicio de la ejecución de acciones u omisiones que generen una amenaza cierta y cercana de destinar o invertir los recursos del Sistema General de Regalías (SGR) en gastos diferentes a los establecidos en la ley o el proyecto aprobado por el respectivo órgano colegiado de administración y decisión (OCAD), o la inexistencia de requisitos legales. Lo anterior, sin perjuicio de lo dispuesto en el artículo 127 de la Ley 1530 de 2012.
@@ -8103,8 +7095,6 @@ Para efectos de la causal del literal c) del artículo 109 de la Ley 1530 de 201
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 18)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4.4 — Tasación de las multas
 
@@ -8123,8 +7113,6 @@ En el evento que concurran más de dos criterios de graduación de esta medida, 
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4.5 — Sobre la medida de suspensión de giros
 
@@ -8150,8 +7138,6 @@ PARÁGRAFO . Cuando proceda la medida de suspensión de giros sobre un proyecto 
 
 (Decreto 414 de 2013, artículo 20)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.4.6 — Levantamiento de la medida preventiva
 
 Para el levantamiento de la medida de suspensión preventiva corresponde a la entidad demostrar ante el Departamento Nacional de Planeación:
@@ -8165,8 +7151,6 @@ Para el levantamiento de la medida de suspensión preventiva corresponde a la en
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4.7 — Levantamiento de las medidas correctivas y sancionatorias
 
@@ -8186,8 +7170,6 @@ Se ordenará el levantamiento de las medidas correctivas y sancionatorias, como 
 
 (Decreto 414 de 2013, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.4.2.2.4.8 — Condiciones especiales de seguimiento y giro
 
 Cuando la entidad beneficiaría o ejecutora de recursos del Sistema General de Regalías (SGR) se someta a condiciones especiales de seguimiento y giro, estará sujeta a seguimiento permanente por el Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE) durante el tiempo que se mantenga esta condición. El Departamento Nacional de Planeación, en calidad de administrador del SMSCE, expedirá los actos administrativos correspondientes para la aprobación de esta condición y el consecuente giro de los recursos.
@@ -8195,8 +7177,6 @@ Cuando la entidad beneficiaría o ejecutora de recursos del Sistema General de R
 PARÁGRAFO . Para atender las situaciones de desastre o calamidad pública, las entidades beneficiarías de regalías y compensaciones que se encuentren suspendidas en el giro de las mismas o en condiciones especiales de seguimiento y giro, podrán hacer uso de estos recursos para asumir compromisos estrictamente relacionados con la atención de la misma con cargo a los recursos del Sistema General de Regalías (SGR), previa solicitud al Departamento Nacional de Planeación, sustentada en la declaratoria de emergencia de acuerdo con la Ley 1523 de 2012, quien procederá con base en esta a gestionar la autorización de giro correspondiente. Lo anterior, en concordancia con los lineamientos de la Comisión Rectora del SGR.
 
 (Decreto 414 de 2013, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.4.2.2.4.9 — Gestor Temporal
 
@@ -8222,15 +7202,11 @@ SECCIÓN 3
 
 INFORMES DEL SISTEMA DE MONITOREO, SEGUIMIENTO, CONTROL Y EVALUACIÓN (SMSCE)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.1 — Informes
 
 Periódicamente el Departamento Nacional de Planeación (DNP), en su calidad de administrador del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE), generará informes consolidados con los resultados obtenidos en el ejercicio del monitoreo, seguimiento, control y evaluación, los cuales serán objeto de divulgación en la Plataforma Integrada del Sistema General de Regalías (SGR) y en la página web del Sistema. Dichos reportes serán remitidos a los órganos colegiados de administración y decisión (OCAD) a través de sus secretarías técnicas para efectos de la definición, viabilización, priorización y aprobación de proyectos, así como para la designación de los respectivos ejecutores.
 
 (Decreto 414 de 2013, artículo 25)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.2 — Socialización y divulgación de información
 
@@ -8248,15 +7224,11 @@ Las entidades públicas designadas por los órganos colegiados de administració
 
 (Decreto 414 de 2013, artículo 26)
 
-ARTÍCULO
-
 ## art:2.2.4.2.3.3 — Reportes a organismos de control
 
 Cuando en el ejercicio de la labor de monitoreo, seguimiento, control y evaluación se evidencien hechos que afecten el uso eficaz y eficiente de los recursos del Sistema General de Regalías (SGR), o contraríen la normatividad de este, se debe proceder con el registro y documentación de los mismos para adelantar los procedimientos preventivos, correctivos y sancionatorios a que haya lugar y su posterior envío a los respectivos organismos de control y a la Fiscalía General de la Nación, según corresponda y cuando ello fuere procedente.
 
 (Decreto 414 de 2013, artículo 27)
-
-ARTÍCULO
 
 ## art:2.2.4.2.3.4 — Otros reportes a organismos de control
 
@@ -8268,8 +7240,6 @@ SECCIÓN 4
 
 GESTIÓN DE INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.1 — Información para el Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE)
 
 La gestión de la información requerida para el desarrollo de las labores derivadas del monitoreo, seguimiento, control y evaluación será efectuada a través de la Plataforma Integrada del Sistema General de Regalías (SGR), de conformidad con lo dispuesto en los artículos 2.2.4.1.2.9.1 a 2.2.4.1.2.9.7 del presente decreto.
@@ -8280,8 +7250,6 @@ Hasta que entre en operación la Plataforma Integrada del Sistema General de Reg
 
 (Decreto 414 de 2013, artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.2 — Responsabilidad de la Información
 
 En el marco de la normativa vigente, los sujetos del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE) deben establecer los procedimientos de control interno, administrativo y contable que garanticen el registro de la información requerida, bajo criterios de oportunidad, veracidad, confiabilidad e integridad. Igualmente, son responsables por la información registrada, los usuarios autorizados para tal fin.
@@ -8291,8 +7259,6 @@ Las irregularidades en el registro de la información serán reportadas a las au
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.4.2.4.3 — Alcance de la información Registrada en la Plataforma Integrada del Sistema General de Regalías (SGR)
 
@@ -8312,8 +7278,6 @@ La información registrada en la Plataforma Integrada de Información del Sistem
 
 (Decreto 414 de 2013, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.4.2.4.4 — Soportes documentales para el registro en la Plataforma Integrada del Sistema General de Regalías (SGR)
 
 Todo registro de información que realicen los usuarios en la Plataforma Integrada del Sistema General de Regalías (SGR), debe estar soportado en documentos legalmente expedidos. Para efectos del artículo 2.2.4.1.2.9.5 del presente decreto, el Departamento Nacional de Planeación (DNP), en su calidad de administrador del Sistema de Monitoreo, Seguimiento, Control y Evaluación (SMSCE) señalará a la Comisión Rectora los documentos mínimos que se deben considerar en cada una de las etapas de la gestión de los proyectos e inversiones financieras.
@@ -8328,8 +7292,6 @@ SECCIÓN 5
 
 DISPOSICIONES COMUNES AL FORTALECIMIENTO INSTITUCIONAL
 
-ARTÍCULO
-
 ## art:2.2.4.2.5.1 — Instrumentos de apoyo a la gestión
 
 En desarrollo del artículo 104 de la Ley 1530 de 2012, el Departamento Nacional de Planeación (DNP) promoverá la implementación de instrumentos de gestión para la obtención de resultados, el control de riesgos y el uso eficaz y eficiente de los recursos del Sistema General de Regalías (SGR); prestará asistencia técnica en áreas relacionadas con la formulación y gestión de proyectos de inversión, capacitación en las herramientas dispuestas para garantizar la administración, gestión y monitoreo de estos recursos; rendición pública de cuentas; y control social, en armonía con la normatividad vigente.
@@ -8337,8 +7299,6 @@ En desarrollo del artículo 104 de la Ley 1530 de 2012, el Departamento Nacional
 (Ver Ley 2056 del 2020)
 
 (Decreto 414 de 2013, artículo 33)
-
-ARTÍCULO
 
 ## art:2.2.4.2.5.2 — Incentivos
 
@@ -8354,15 +7314,11 @@ SECCIÓN 6
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.2.4.2.6.1 — Cierre de proyectos financiados con recursos del Sistema General de Regalías (SGR)
 
 Corresponde a las entidades ejecutoras de proyectos de inversión financiados con recursos del Sistema General de Regalías (SGR) realizar su cierre dentro de los seis (6) meses siguientes a la finalización de los mismos, expedir el acto administrativo correspondiente y reportarlo en el mes siguiente al respectivo órgano colegiado de administración y decisión (OCAD) y al Sistema de Monitoreo. Seguimiento, Control y Evaluación (SMSCE).
 
 (Decreto 414 de 2013, artículo 39)
-
-ARTÍCULO
 
 ## art:2.2.4.2.6.2 — Comunicación electrónica
 
@@ -8382,8 +7338,6 @@ SECCIÓN 1
 
 NATURALEZA, FUNCIONES, DESIGNACIÓN Y ELECCIÓN
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.1 — Conformación
 
 Los órganos colegiados de administración y decisión (OCAD) de conformidad con lo establecido en la Constitución Política y la ley están conformados por representantes del Gobierno Nacional, Departamental y Municipal o Distrital. Para el caso del Fondo de Ciencia, Tecnología e Innovación contarán además con representantes de universidades públicas y privadas. Los OCAD son órganos sin personería jurídica que desempeñan funciones públicas en los términos establecidos en la ley y en el presente decreto.
@@ -8391,8 +7345,6 @@ Los órganos colegiados de administración y decisión (OCAD) de conformidad con
 Los órganos colegiados de administración y decisión (OCAD) contarán con una secretaría técnica, un presidente designado por los miembros del respectivo órgano colegiado, y se regirán por el reglamento que expida la Comisión Rectora.
 
 (Decreto 1075 de 2012, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.2 — Funciones
 
@@ -8420,8 +7372,6 @@ PARÁGRAFO TRANSITORIO. Para los efectos previstos en el parágrafo transitorio 
 
 (Decreto 1075 de 2012, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.3 — Designación de los representantes del Gobierno Nacional
 
 El Presidente de la República, designará a los representantes del Gobierno Nacional que integrarán cada uno de los órganos colegiados de administración y decisión.
@@ -8429,8 +7379,6 @@ El Presidente de la República, designará a los representantes del Gobierno Nac
 Para el caso específico de los órganos colegiados de administración y decisión de asignaciones directas municipales, el Presidente de la República mediante el presente inciso, delega el ejercicio de su función en los cargos de la planta global del Departamento Nacional de Planeación, en los términos del artículo 9 de la Ley 489 de 1998.
 
 (Decreto 1075 de 2012, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.4 — Elección de representantes de las entidades territoriales
 
@@ -8446,8 +7394,6 @@ De la elección a que se refiere el presente artículo, la secretaría técnica 
 
 (Decreto 1075 de 2012, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.3.1.5 — Quórum decisorio
 
 Cada nivel de gobierno, así como el conjunto de universidades en el caso del Órgano Colegiado de Administración y Decisión del Fondo de Ciencia, Tecnología e Innovación, tendrá derecho a un (1) voto, para un total de tres (3) votos. Las decisiones se adoptarán por mayoría calificada de dos (2) votos. Cada nivel debe entregar por escrito el sentido del voto.
@@ -8455,8 +7401,6 @@ Cada nivel de gobierno, así como el conjunto de universidades en el caso del Ó
 Para la toma de decisiones es obligatoria la presencia de al menos uno de los miembros de cada nivel de gobierno, y de al menos uno de los miembros de las universidades en el caso del Órgano Colegiado de Administración y Decisión del Fondo de Ciencia, Tecnología e Innovación.
 
 (Decreto 1075 de 2012, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.3.1.6 — Asistencia de invitados permanentes
 
@@ -8478,8 +7422,6 @@ SECCIÓN 2
 
 ORGANIZACIÓN Y FUNCIONAMIENTO
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.1 — La secretaría técnica
 
 La secretaría técnica de los órganos colegiados de administración y decisión será la encargada de proporcionar infraestructura logística, técnica y humana requerida para su funcionamiento.
@@ -8487,8 +7429,6 @@ La secretaría técnica de los órganos colegiados de administración y decisió
 Una vez designada la secretaría técnica, esta tendrá un período anual y deberá comunicar a todas las entidades territoriales que hagan parte del ámbito territorial de competencia del órgano colegiado de administración y decisión, que adelantará las funciones de secretaría técnica, para que los municipios, distritos y departamentos presenten los proyectos de inversión susceptibles de ser financiados con los recursos del Sistema General de Regalías (SGR).
 
 (Decreto 1075 de 2012, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.2 — Funciones de la secretaría técnica de los órganos colegiados de administración y decisión
 
@@ -8532,15 +7472,11 @@ PARÁGRAFO . La Secretaría Técnica del OCAD PAZ podrá presentar a consideraci
 
 (Parágrafo adicionado por el Decreto 1426 de 2019. Art. 1)
 
-ARTÍCULO
-
 ## art:2.2.4.3.2.3 — Fortalecimiento de las secretarías técnicas
 
 El Departamento Nacional de Planeación, con cargo a los recursos de funcionamiento del Sistema General de Regalías que le sean asignados, podrá, entre otros gastos, suministrar apoyo para el fortalecimiento de las secretarías técnicas de los órganos colegiados de administración y decisión (OCAD) de acuerdo con lo establecido por la Comisión Rectora.
 
 (Decreto 1075 de 2012, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.3.2.4 — Citación a sesión de los órganos colegiados de administración y decisión (OCAD)
 
@@ -8553,8 +7489,6 @@ PARÁGRAFO TRANSITORIO. Mientras la Comisión Rectora del Sistema General de Reg
 SECCIÓN 3
 
 ÓRGANO COLEGIADO DE ADMINISTRACIÓN Y DECISIÓN DEL FONDO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
-
-ARTÍCULO
 
 ## art:2.2.4.3.3.1 — Conformación
 
@@ -8582,15 +7516,11 @@ El representante de la universidad pública a que se refiere el parágrafo prime
 
 (Decreto 1075 de 2012, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.4.3.3.2 — Impedimentos
 
 Si durante el período en que una universidad haga parte del órgano colegiado, se llegare a presentar un programa o proyecto en el cual la universidad tiene interés ya sea en su formulación o en su ejecución, el representante de esta deberá declararse impedido para votar y abandonará la sesión del órgano colegiado hasta que sea tomada una decisión respecto de ese asunto.
 
 (Decreto 1075 de 2012, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.4.3.3.3 — Periodo
 
@@ -8601,8 +7531,6 @@ El periodo de los gobernadores será de un (1) año. El período de designación
 SECCIÓN 4
 
 ÓRGANO COLEGIADO DE ADMINISTRACIÓN Y DECISIÓN DE LOS FONDOS DE COMPENSACIÓN REGIONAL Y DE DESARROLLO REGIONAL
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.1 — Conformación
 
@@ -8628,8 +7556,6 @@ PARÁGRAFO . Para efectos de convocar e integrar a los miembros del órgano cole
 
 (Decreto 1075 de 2012, artículo 13)
 
-ARTÍCULO
-
 ## art:2.2.4.3.4.2 — 4.2
 
 Conformación del Órgano Colegiado de Administración y Decisión para el 40% del Fondo de Compensación Regional destinado a proyectos de impacto local. Los proyectos de inversión que se financien con cargo al 40% del Fondo de Compensación Regional podrán ser definidos, evaluados, viabilizados, priorizados y aprobados por los órganos colegiados de administración y decisión municipales, cuya conformación será igual a la prevista para los OCAD de asignaciones directas municipales.
@@ -8637,8 +7563,6 @@ Conformación del Órgano Colegiado de Administración y Decisión para el 40% d
 En el evento en que el alcalde municipal así lo decida, los proyectos de inversión podrán ser definidos, evaluados, viabilizados, priorizados y aprobados por los órganos colegiados de administración y decisión departamentales, cuya conformación será igual a la prevista para los OCAD de asignaciones directas departamentales.
 
 (Decreto 1075 de 2012, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.4.3.4.3 — Participación regional en los órganos colegiados de administración y decisión
 
@@ -8655,8 +7579,6 @@ En el órgano colegiado de administración y decisión del Fondo de Ciencia, Tec
 SECCIÓN 5
 
 ÓRGANO COLEGIADO DE ADMINISTRACIÓN Y DECISIÓN PARA ASIGNACIONES DIRECTAS
-
-ARTÍCULO
 
 ## art:2.2.4.3.5.1 — Conformación
 
@@ -8698,8 +7620,6 @@ La secretaría técnica de este órgano colegiado de administración y decisión
 
 (Decreto 1075 de 2012, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.4.3.5.2 — Presentación de proyectos ante el Órgano Colegiado de Administración y Decisión Departamental
 
 En concordancia con el artículo 2.2.4.3.4.2 del presente decreto, los proyectos de inversión de impacto local podrán ser definidos, evaluados, viabilizados, priorizados y aprobados por los órganos colegiados de administración y decisión departamentales en caso que así lo considere la administración municipal.
@@ -8709,8 +7629,6 @@ En concordancia con el artículo 2.2.4.3.4.2 del presente decreto, los proyectos
 SECCIÓN 6
 
 ÓRGANO COLEGIADO DE ADMINISTRACIÓN Y DECISIÓN PARA LOS MUNICIPIOS RIBEREÑOS DEL RÍO GRANDE DE LA MAGDALENA Y DEL CANAL
-
-ARTÍCULO
 
 ## art:2.2.4.3.6.1 — Conformación
 
@@ -8738,15 +7656,11 @@ PARTICIPACIÓN DE LOS DELEGADOS DEL GOBIERNO NACIONAL EN LOS ÓRGANOS COLEGIADOS
 
 CONFORMACIÓN PARTICIPAN DOS O MÁS MINISTROS Y/O DIRECTORES DE DEPARTAMENTOS ADMINISTRATIVOS
 
-ARTÍCULO
-
 ## art:2.2.4.4.1 — Objeto
 
 El presente capítulo tiene por objeto reglamentar dentro de los órganos colegiados de administración y decisión (OCAD) departamentales, de los Fondos de Ciencia, Tecnología e Innovación, de Desarrollo Regional, y del 60% de Compensación Regional, de las corporaciones autónomas regionales y de los municipios ribereños del Río Grande de La Magdalena y del Canal del Dique, la figura del líder para el nivel de Gobierno Nacional, así como dictar disposiciones relacionadas con las funciones de los miembros de los OCAD.
 
 (Decreto 1252 de 2013, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.4.2 — Designación del líder y funciones
 
@@ -8761,8 +7675,6 @@ El Presidente de la República, de conformidad con el artículo 22.4.3.1 del pre
 PARÁGRAFO . El pronunciamiento a que se refiere el numeral 3 del presente artículo debe ser integral, es decir, incluir los componentes jurídico, técnico y financiero. El pronunciamiento debe remitirse al ministerio líder dentro de los cinco (5) días hábiles siguientes a la recepción de la solicitud del mismo y por lo menos un (1) día hábil antes de la sesión del OCAD. La definición del voto del Gobierno nacional no está condicionado a la expedición de dicho pronunciamiento.
 
 (Decreto 1252 de 2013, art. 2) (Modificado por el Decreto 1544 de 2017, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.4.4.3 — Soporte de las posiciones de los ministerios y departamentos administrativos diferentes al líder
 
@@ -8780,8 +7692,6 @@ Los ministerios y departamentos administrativos, cuya posición sea distinta de 
 
 (Decreto 1252 de 2013, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.4.4 — Responsabilidad de los miembros de los órganos colegiados de administración y decisión
 
 De conformidad con lo establecido en el artículo 24 de la Ley 1744 de 2014, los miembros de los órganos colegiados de administración y decisión solamente son responsables de viabilizar, priorizar y aprobar los proyectos de inversión teniendo en cuenta su pertinencia, relevancia, impacto y coherencia con el Plan Nacional de Desarrollo o los planes de desarrollo de las entidades territoriales. En ningún caso son responsables por la ejecución de los proyectos de inversión.
@@ -8795,8 +7705,6 @@ CAPÍTULO 5
 CRITERIOS Y CONDICIONES DE DISTRIBUCIÓN DE LOS RECURSOS DEL 10% DEL FONDO DE COMPENSACIÓN REGIONAL, DEL AHORRO PENSIONAL
 
 TERRITORIAL Y DE LOS QUE TRATA EL INCISO SEGUNDO DEL PARÁGRAFO 2 TRANSITORIO DEL ARTÍCULO 361 DE LA CONSTITUCIÓN POLÍTICA
-
-ARTÍCULO
 
 ## art:2.2.4.5.1 — Criterios de distribución del 10% de los recursos del Fondo de Compensación Regional
 
@@ -8815,8 +7723,6 @@ ii. El NBI de cada municipio dividido por el NBI nacional se elevará al exponen
 iii. Se multiplicarán para cada municipio el factor de población y el factor de pobreza. El porcentaje del 10% del Fondo de Compensación Regional que le corresponderá a cada municipio será igual al producto de su factor de población y su factor de pobreza, dividido por la suma de estos productos para todos los municipios de categorías cuarta, quinta y sexta cuyo indicador de necesidades básicas insatisfechas sea inferior o igual a 35%.
 
 (Decreto 1073 de 2012, artículo 1).
-
-ARTÍCULO
 
 ## art:2.2.4.5.2 — Criterios de distribución de los recursos del Sistema General de Regalías destinados al ahorro pensional territorial
 
@@ -8840,8 +7746,6 @@ Los criterios señalados en los numerales 1 y 2 de este artículo se aplicarán 
 
 (Decreto 1073 de 2012, artículo 2).
 
-ARTÍCULO
-
 ## art:2.2.4.5.3 — Recursos del Fondo de Desarrollo Regional
 
 Los recursos del Fondo de Desarrollo Regional que las entidades territoriales podrán destinar para alcanzar los porcentajes señalados en el inciso segundo del parágrafo 2 transitorio del Acto Legislativo 05 de 2011, se distribuirán en proporción al faltante que cada entidad territorial tenga con respecto al faltante consolidado de los municipios y departamento en el respectivo departamento, de la siguiente manera:
@@ -8858,15 +7762,11 @@ CAPÍTULO 6
 
 CONSTITUCIÓN Y FUNCIONAMIENTO DE LAS CAJAS MENORES DE LOS ÓRGANOS DEL SISTEMA GENERAL DE REGALÍAS
 
-ARTÍCULO
-
 ## art:2.2.4.6.1 — Del campo de aplicación
 
 Quedan sujetos a las disposiciones del presente decreto el Departamento Nacional de Planeación, los Ministerios de Hacienda y Crédito Público, y de Minas y Energía, así como sus entidades adscritas y vinculadas que cumplan funciones en el ciclo de las regalías, el Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias), la Contraloría General de la República, así como los órganos encargados de la fiscalización de la exploración y explotación de los yacimientos, el conocimiento y cartografía geológica del subsuelo, del funcionamiento del Sistema de Monitoreo, Seguimiento, Control y Evaluación y del Sistema General de Regalías.
 
 (Decreto 146 de 2013, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.6.2 — De la constitución
 
@@ -8878,15 +7778,11 @@ Las cajas menores deberán ajustarse a las necesidades de cada órgano, siendo r
 
 (Decreto 146 de 2013, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.4.6.3 — Del número de cajas menores
 
 El jefe del órgano respectivo o su delegado del nivel directivo, de acuerdo con los requerimientos, deberá establecer el número de cajas menores y autorizar su creación con base en las reglas aquí establecidas. La justificación técnica y económica deberá quedar anexa a la respectiva resolución de constitución de caja menor.
 
 (Decreto 146 de 2013, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.6.4 — Cuantía
 
@@ -8896,8 +7792,6 @@ Los órganos que requieran una mayor cuantía deberán justificarlo mediante esc
 
 (Decreto 146 de 2013, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.6.5 — Destinación
 
 El dinero que se entregue para la constitución de cajas menores debe ser utilizado para sufragar los gastos previstos en Gastos Generales del Plan de Cuentas del Sistema General de Regalías que tengan carácter de urgente. De igual forma los recursos podrán ser utilizados para el pago de viáticos y gastos de viaje, los cuales sólo requerirán autorización del Jefe del órgano respectivo o su delegado del nivel directivo.
@@ -8906,15 +7800,11 @@ PARÁGRAFO . Los dineros entregados para viáticos y gastos de viaje se legaliza
 
 (Decreto 146 de 2013, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.6.6 — Fianzas y garantías
 
 El jefe del órgano respectivo o su delegado del nivel directivo deberá constituir las fianzas y garantías que considere necesarias para proteger los recursos del Sistema General de Regalías con cargo a los cuales se constituye la caja menor.
 
 (Decreto 146 de 2013, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.6.7 — Legalización de gasto
 
@@ -8923,8 +7813,6 @@ La legalización de los gastos de la caja menor deberá efectuarse durante los d
 No se podrán entregar nuevos recursos, hasta tanto no se haya legalizado el gasto anterior.
 
 (Decreto 146 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.6.8 — De las prohibiciones
 
@@ -8950,8 +7838,6 @@ PARÁGRAFO . Cuando por cualquier circunstancia una caja menor quede inoperante,
 
 (Decreto 146 de 2013, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.6.9 — Del manejo del dinero
 
 El manejo del dinero de caja menor se hará a través de una cuenta corriente de acuerdo con las normas legales vigentes. No obstante, se podrá manejar en efectivo un monto equivalente de hasta cinco (5) salarios mínimos legales mensuales vigentes.
@@ -8962,15 +7848,11 @@ PARÁGRAFO . Cuando el responsable de la caja menor se encuentre en vacaciones, 
 
 (Decreto 146 de 2013, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.4.6.10 — Registro en libros
 
 Una vez suscrita la resolución de constitución de la caja menor, previa expedición del certificado de disponibilidad presupuestal, el órgano ejecutor procederá al registro de creación de la caja menor, así como el registro de la gestión financiera que se realice a través de las mismas, en el libro que para tal fin se establezca.
 
 (Decreto 146 de 2013, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.4.6.11 — Del primer giro
 
@@ -8982,8 +7864,6 @@ Se efectuará con base en los siguientes requisitos:
 
 (Decreto 146 de 2013, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.4.6.12 — De la apertura de los libros
 
 Los órganos procederán a la apertura de los libros en donde se contabilicen diariamente las operaciones que afecten la Caja Menor indicando: fecha, imputación presupuestal del gasto, concepto y valor, según los comprobantes que respalden cada operación.
@@ -8992,15 +7872,11 @@ Con el fin de garantizar que las operaciones estén debidamente sustentadas, que
 
 (Decreto 146 de 2013, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.4.6.13 — Pagos de caja menor
 
 Cada vez que se realiza un pago con cargo a la Caja Menor, el titular registra: a) el rubro presupuestal al que corresponde imputarlo y la cuenta contable respectiva, b) su monto bruto, c) las deducciones practicadas -concepto y monto-, d) el monto líquido pagado, e) la fecha del pago, f) el número del documento de identidad o el NIT del beneficiario, y g) los demás datos que se consideren necesarios.
 
 (Decreto 146 de 2013, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.4.6.14 — De la legalización para el reembolso
 
@@ -9020,8 +7896,6 @@ La legalización definitiva de las cajas menores, se hará antes del 29 de dicie
 
 (Decreto 146 de 2013, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.4.6.15 — Del reembolso
 
 Los reembolsos se harán en la cuantía de los gastos realizados, sin exceder el monto previsto en el respectivo rubro presupuestal, en forma mensual o cuando se haya consumido más de un setenta por ciento (70%), lo que ocurra primero, de algunos o todos los valores de los rubros presupuestales afectados.
@@ -9030,23 +7904,17 @@ En el reembolso se deberán reportar los gastos realizados en todos los rubros p
 
 (Decreto 146 de 2013, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.4.6.16 — Cambio de responsable
 
 Cuando se cambie el responsable de la caja menor, deberá hacerse una legalización efectuando el reembolso total de los gastos realizados con corte a la fecha.
 
 (Decreto 146 de 2013, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.4.6.17 — Cancelación de la caja menor
 
 Cuando se decida la cancelación de una caja menor, su titular la legalizará en forma definitiva, reintegrando el saldo de los fondos que recibió. En este caso, se debe saldar la cuenta corriente.
 
 (Decreto 146 de 2013, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.4.6.18 — Responsabilidad
 
@@ -9062,8 +7930,6 @@ COFINANCIACIÓN DE LA NACIÓN EN LA COBERTURA DEL RÉGIMEN SUBSIDIADO DE ENTIDAD
 
 REGALÍAS PARA DICHO RÉGIMEN
 
-ARTÍCULO
-
 ## art:2.2.4.7.1 — Objeto
 
 El presente capítulo tiene por objeto establecer la metodología, criterios y lineamientos para dar cumplimiento a lo previsto en el artículo 145 del Decreto- Ley 4923 de 2011 y el artículo 145 de la Ley 1530 de 2012.
@@ -9072,8 +7938,6 @@ El presente capítulo tiene por objeto establecer la metodología, criterios y l
 
 (Decreto 2710 de 2012, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.7.2 — Definición de cobertura en el régimen subsidiado de salud
 
 El Ministerio de Salud y Protección Social determinará y certificará la cobertura media nacional y la cobertura en cada una de las entidades territoriales del régimen subsidiado de salud, así como la población total beneficiaria para lograr la cobertura universal, a partir de los afiliados estimados en la Base de Datos Única de Afiliados (BDUA) y del Sistema de Identificación de Potenciales Beneficiarios (Sisbén).
@@ -9081,8 +7945,6 @@ El Ministerio de Salud y Protección Social determinará y certificará la cober
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 2710 de 2012, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.7.3 — Metodología para la determinación de los cupos a cofinanciar por parte de la nación
 
@@ -9124,8 +7986,6 @@ PARÁGRAFO 2. Para el año 2012, el Ministerio de Salud y Protección Social, co
 
 (Decreto 2710 de 2012, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.4.7.4 — Montos a cofinanciar por parte de la nación
 
 Para determinar el monto de la cofinanciación anual para cada entidad territorial, el Ministerio de Salud y Protección Social deberá multiplicar los cupos estimados, de acuerdo con la metodología descrita en el artículo anterior, por la Unidad de Pago por Capitación del régimen subsidiado de cada entidad territorial, de la vigencia para la cual se realiza la cofinanciación.
@@ -9140,8 +8000,6 @@ Los recursos apropiados se girarán al Ministerio de Salud y Protección Social,
 
 (Decreto 2710 de 2012, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.7.5 — Fuentes de Información
 
 El Servicio Geológico Colombiano y la Agencia Nacional de Hidrocarburos, deberán certificar al Ministerio de Salud y Protección Social la información para identificar las entidades territoriales productoras de recursos naturales no renovables, según corresponda.
@@ -9151,8 +8009,6 @@ Para identificar los departamentos, distritos y municipios que realizaron efecti
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 2710 de 2012, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.7.6 — Reconocimiento a las entidades territoriales
 
@@ -9174,8 +8030,6 @@ COFINANCIACIÓN DE LA NACIÓN EN LAS COBERTURAS DE ALIMENTACIÓN ESCOLAR DE LAS 
 
 DESTINARON REGALÍAS PARA DICHO PROGRAMA
 
-ARTÍCULO
-
 ## art:2.2.4.8.1 — Objeto
 
 El presente capítulo tiene por objeto establecer la metodología, criterios y lineamientos para dar cumplimiento a lo previsto en el artículo 145 de la Ley 1530 de 2012.
@@ -9186,8 +8040,6 @@ El presente capítulo tiene por objeto establecer la metodología, criterios y l
 
 (Decreto 185 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.8.2 — Definición de la cobertura media Nacional y Territorial para Alimentación Escolar
 
 El Ministerio de Educación Nacional determinará la cobertura media nacional y territorial, a través de los recursos destinados para alimentación escolar por fuentes de financiación reportados y consolidados por los municipios, distritos y departamentos en el Formato Único Territorial (FUT) en la vigencia 2011.
@@ -9195,8 +8047,6 @@ El Ministerio de Educación Nacional determinará la cobertura media nacional y 
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 185 de 2013, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.8.3 — Metodología para la estimación de la cobertura media nacional y territorial para alimentación escolar
 
@@ -9242,8 +8092,6 @@ CACi = Cupos a cofinanciar para cada entidad territorial 2011
 
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
-ARTÍCULO
-
 ## art:2.2.4.8.4 — Montos a cofinanciar por parte de la nación
 
 Para determinar el monto de la cofinanciación anual para cada entidad territorial beneficiaria, se multiplican los cupos estimados anteriormente para 2011 por modalidad por el costo anual (180 días) de la modalidad correspondiente a la jornada (reportado por el ICBF para 2011). El costo para el cual se realiza la cofinanciación se indexa por el Índice de Precios de Alimentos de la vigencia anterior, certificado por el Departamento Administrativo Nacional de Estadística (DANE).
@@ -9260,8 +8108,6 @@ Para efectos de la cofinanciación a aplicar en la vigencia 2012, se tendrán en
 
 (Decreto 185 de 2013, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.8.5 — Fuentes de información
 
 La información para identificar las entidades territoriales productoras de recursos naturales no renovables será certificada, por parte del Servicio Geológico Colombiano y la Agencia Nacional de Hidrocarburos, según corresponda. La información que permite identificar los departamentos, distritos y municipios que realizaron inversiones en alimentación escolar con recursos de regalías y compensaciones provendrá del Formulario Único Territorial (FUT) para la vigencia 2011.
@@ -9269,8 +8115,6 @@ La información para identificar las entidades territoriales productoras de recu
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 185 de 2013, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.4.8.6 — Reconocimiento a las entidades
 
@@ -9281,8 +8125,6 @@ De acuerdo con la entrada en vigencia del Decreto 4923 de 2011 y de la Ley 1530 
 (Ver Ley 2056 del 2020)
 
 (Decreto 185 de 2013, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.8.7 — Uso de los recursos de alimentación escolar
 
@@ -9312,8 +8154,6 @@ PARÁGRAFO 2. Los mencionados usos podrán ser modificados de acuerdo a los line
 
 (Decreto 185 de 2013, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.4.8.8 — Asignación de los recursos
 
 Las entidades territoriales que sean beneficiarias de los recursos de que trata el presente capítulo serán aquellas resultantes del cruce del universo de las entidades territoriales productoras de recursos naturales no renovables, con la información de los departamentos, distritos y municipios que financiaron los programas de alimentación escolar con recursos de regalías en la vigencia 2011.
@@ -9321,8 +8161,6 @@ Las entidades territoriales que sean beneficiarias de los recursos de que trata 
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 185 de 2013, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.4.8.9 — Seguimiento a los recursos
 
@@ -9335,8 +8173,6 @@ Eventualmente en los casos que se estime pertinente, el ministerio solicitará i
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 185 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.8.10 — Eventos del riesgo
 
@@ -9372,8 +8208,6 @@ SECCIÓN 1
 
 ADMINISTRACIÓN DEL FONDO DE AHORRO Y ESTABILIZACIÓN PETROLERA (FAEP)
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.1 — Reuniones del Comité Directivo
 
 El Comité Directivo del Fondo de Ahorro y Estabilización Petrolera deberá convocarse por el Ministro de Hacienda y Crédito Público, mediante escrito dirigido a cada uno de los miembros con, por lo menos, cinco días hábiles de anticipación a la respectiva reunión, salvo que en el reglamento interno del comité directivo se prevea otro mecanismo.
@@ -9383,8 +8217,6 @@ Las reuniones del Comité Directivo se efectuarán en la ciudad de Bogotá D.C. 
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 609 de 1996, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.2 — Número de unidades que corresponde a cada una de las entidades partícipes
 
@@ -9398,8 +8230,6 @@ El Banco de la República fijará el valor inicial de la unidad, previa aprobaci
 
 (Decreto 845 de 1996, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.3 — Certificación
 
 El Banco de la República certificará trimestralmente el número y valor de las unidades que correspondan a las entidades partícipes del Fondo de Ahorro y Estabilización Petrolera.
@@ -9407,8 +8237,6 @@ El Banco de la República certificará trimestralmente el número y valor de las
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 845 de 1996, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.4 — Giro de utilidades
 
@@ -9419,8 +8247,6 @@ La Agencia Nacional de Hidrocarburos girará en moneda nacional, las sumas corre
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 845 de 1996, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.5 — De las utilidades
 
@@ -9434,8 +8260,6 @@ El valor de costo será el que corresponda a la unidad a 1 de enero de cada año
 
 (Decreto 845 de 1996, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.6 — De la afectación por las sumas retiradas del FAEP
 
 Las sumas retiradas del Fondo de Ahorro y Estabilización Petrolera, por concepto de utilidades o reintegros, afectarán el número de unidades que corresponden a cada partícipe y no el valor de las mismas.
@@ -9443,8 +8267,6 @@ Las sumas retiradas del Fondo de Ahorro y Estabilización Petrolera, por concept
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 845 de 1996, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.7 — Normas contables aplicables
 
@@ -9454,8 +8276,6 @@ El Banco de la República, en el manejo del Fondo de Ahorro y Estabilización Pe
 
 (Decreto 845 de 1996, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.9.1.8 — Presentación de estados financieros
 
 El Banco de la República deberá presentar los estados financieros del Fondo de Ahorro y Estabilización Petrolera, para aprobación del comité directivo, dentro del primer trimestre del año, de acuerdo con lo previsto por el comité directivo.
@@ -9463,8 +8283,6 @@ El Banco de la República deberá presentar los estados financieros del Fondo de
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 845 de 1996, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.9.1.9 — Ajustes por parte del administrador del FAEP
 
@@ -9482,8 +8300,6 @@ SECCIÓN 2
 
 PROCEDIMIENTO DE GIRO DE LOS RECURSOS DEL FONDO DE AHORRO Y ESTABILIZACIÓN PETROLERA (FAEP)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.1 — Objeto
 
 La presente sección tiene por objeto establecer los criterios para la realización de los descuentos y el procedimiento para el giro de los recursos del Fondo de Ahorro y Estabilización Petrolera (FAEP) a las entidades partícipes en él, conforme a lo dispuesto en los artículos 118 y 275 de la Ley 1450 de 2011, el Decreto-Ley 4972 de 2011, los artículos 137, 144 y 150 de la Ley 1530 de 2012 y el artículo 6 de la Ley 1608 de 2013.
@@ -9493,8 +8309,6 @@ La presente sección tiene por objeto establecer los criterios para la realizaci
 (Ver Ley 2056 del 2020)
 
 (Decreto 1849 de 2013, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.2 — Vigencia y destinación del desahorro de los recursos del FAEP
 
@@ -9516,8 +8330,6 @@ Atendidos estos compromisos, cada entidad territorial podrá destinar el saldo r
 
 (Decreto 1849 de 2013, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.3 — 2.3
 
 Agotamiento de los Recursos del Fondo de Ahorro y Estabilización Petrolera (FAEP) para las deudas reconocidas del régimen subsidiado de salud con las Entidades Promotoras de Salud. Según lo establecido en el artículo 275 de la Ley 1450 de 2011, en el evento en que las entidades partícipes en el Fondo de Ahorro y Estabilización Petrolera (FAEP) tengan deudas reconocidas del régimen subsidiado de salud con las Entidades Promotoras de Salud por contratos realizados hasta el 31 de marzo de 2011, podrán adelantar la solicitud de desahorro hasta en un periodo de doce (12) meses. De conformidad con lo anterior, para el pago de dichas deudas se descontará el valor de la deuda reconocida del régimen subsidiado de salud del saldo de capital disponible al 31 de diciembre de 2011 por la entidad ahorradora en el FAEP. Una vez descontados estos recursos la Agencia Nacional de Hidrocarburos comunicará a los partícipes su saldo disponible.
@@ -9525,8 +8337,6 @@ Agotamiento de los Recursos del Fondo de Ahorro y Estabilización Petrolera (FAE
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1849 de 2013, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.4 — Determinación del saldo de capital disponible al 31 de diciembre de 2011
 
@@ -9537,8 +8347,6 @@ En caso de que se presenten desahorros para el pago de deudas reconocidas del r�
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1849 de 2013, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.5 — Agotamiento de los Recursos del Fondo de Ahorro y Estabilización Petrolera (FAEP)
 
@@ -9588,8 +8396,6 @@ Anualmente la Agencia Nacional de Hidrocarburos (ANH) comunicará a los partíci
 
 (Decreto 1849 de 2013, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.6 — 2.6
 
 Término de los recursos ahorrados por el Fondo Nacional de Regalías - En Liquidación en el Fondo de Ahorro y Estabilización Petrolera (FAEP). En desarrollo de lo previsto en el artículo primero del Decreto-Ley 4972 de 2011, los recursos ahorrados por el Fondo Nacional de Regalías - En Liquidación en el Fondo de Ahorro y Estabilización Petrolera (FAEP), se someterán al término previsto en dicha norma.
@@ -9597,8 +8403,6 @@ Término de los recursos ahorrados por el Fondo Nacional de Regalías - En Liqui
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1849 de 2013, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.7 — Utilidades en el Fondo de Ahorro y Estabilización Petrolera (FAEP)
 
@@ -9609,8 +8413,6 @@ Las entidades partícipes en el Fondo de Ahorro y Estabilización Petrolera (FAE
 (Ver Ley 2056 del 2020)
 
 (Decreto 1849 de 2013, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.8 — Vigencia del Fondo de Ahorro y Estabilización Petrolera (FAEP)
 
@@ -9626,8 +8428,6 @@ PARÁGRAFO . La Agencia Nacional de Hidrocarburos (ANH), o la entidad que haga s
 
 (Decreto 1849 de 2013, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.9 — Giro de los Recursos
 
 La Agencia Nacional de Hidrocarburos (ANH), girará los recursos correspondientes a los desahorros a los que tengan derecho las entidades partícipes previstos en los artículos 118 y 275 de la Ley 1450 de 2011 y los artículos 137 y 144 de la Ley 1530 de 2012, directamente a las entidades partícipes o al mecanismo único de recaudo y giro implementado según lo dispuesto en el artículo 31 de la Ley 1438 de 2011, en el marco de la Ley 1608 de 2013, para que desde este mecanismo se giren a las Instituciones Prestadoras de Servicios de Salud, de conformidad con las reglas establecidas en el presente capítulo.
@@ -9637,8 +8437,6 @@ La Agencia Nacional de Hidrocarburos (ANH), girará los recursos correspondiente
 (Ver Ley 2056 del 2020)
 
 (Decreto 1849 de 2013, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.4.9.2.10 — Procedimiento de Giro
 
@@ -9678,8 +8476,6 @@ PARÁGRAFO 2. Los recursos previstos para el pago de cartera hospitalaria, cuya 
 
 (Decreto 1849 de 2013, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.4.9.2.11 — Manejo de los recursos generados por diferencia cambiaria
 
 Los recursos generados por diferencia cambiaria antes de la entrada en vigencia del Decreto 1074 de 2012, como consecuencia del trámite de desahorros solicitados por partícipes del Fondo de Ahorro y Estabilización Petrolera (FAEP), serán reintegrados por parte de la Agencia Nacional de Hidrocarburos a sus correspondientes beneficiarios, cuyos rendimientos financieros serán distribuidos en forma proporcional al margen cambiario reconocido.
@@ -9693,8 +8489,6 @@ CAPÍTULO 10
 (Derogado por el 3.2.1 del Decreto Único Reglamentario 1821 de 2020)
 
 ADMINISTRACIÓN DEL FONDO DE AHORRO Y ESTABILIZACIÓN (FAE) DEL SISTEMA GENERAL DE REGALÍAS
-
-ARTÍCULO
 
 ## art:2.2.4.10.1 — Fideicomiso Fondo de Ahorro y Estabilización
 
@@ -9714,8 +8508,6 @@ PARÁGRAFO . Mientras se determina y recibe por parte del Departamento Nacional 
 
 (Decreto 1076 de 2012, artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.4.10.2 — Definición de Participe
 
 Para efectos del presente capítulo, se entiende por partícipe los departamentos, municipios y distritos que conforme a los artículos 360 y 361 de la Constitución Política, sean definidos e informados por el Departamento Nacional de Planeación a la Dirección General de Crédito Público y Tesoro Nacional. Así mismo, la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público informará al Banco de la República los partícipes respectivos.
@@ -9723,8 +8515,6 @@ Para efectos del presente capítulo, se entiende por partícipe los departamento
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1076 de 2012, artículo 2).
-
-ARTÍCULO
 
 ## art:2.2.4.10.3 — Administración del Fideicomiso
 
@@ -9735,8 +8525,6 @@ El Banco de la República deberá enviar a los miembros del Comité de Inversion
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1076 de 2012, artículo 3).
-
-ARTÍCULO
 
 ## art:2.2.4.10.4 — Desahorro
 
@@ -9760,8 +8548,6 @@ Mientras se determina la distribución de los recursos entre los partícipes en 
 
 (Decreto 1076 de 2012, artículo 4).
 
-ARTÍCULO
-
 ## art:2.2.4.10.5 — Comité de Inversiones
 
 El Fideicomiso FAE contará con un Comité de Inversiones, que estará constituido de la siguiente manera: El Ministro de Hacienda y Crédito Público o su delegado, quien lo presidirá; el Ministro de Minas y Energía o su delegado, y el Director General del Departamento Nacional de Planeación o su delegado. El Gerente General del Banco de la República o su delegado y quien ejerza la auditoría del Fideicomiso FAE asistirán a las sesiones del Comité de Inversiones con voz, pero sin voto.
@@ -9775,8 +8561,6 @@ PARÁGRAFO 2. Al Comité de Inversiones establecido en el artículo 52 de la Ley
 (Ver Ley 2056 del 2020)
 
 (Decreto 1541 de 2012, artículo 7 y Decreto 1076 de 2012, artículo 5).
-
-ARTÍCULO
 
 ## art:2.2.4.10.6 — Facultades y Funcionamiento del Comité de Inversiones
 
@@ -9836,8 +8620,6 @@ PARÁGRAFO 5. El Comité de Inversiones no responderá por la valorización o de
 
 (Decreto 1076 de 2012, artículo 6, Decreto 1293 de 2013 artículo 1).
 
-ARTÍCULO
-
 ## art:2.2.4.10.7 — Valoración y Manejo Contable del Fideicomiso FAE
 
 El Fideicomiso FAE será valorado de acuerdo con el método que refleje los objetivos y características de los instrumentos financieros que conforman el fideicomiso.
@@ -9859,8 +8641,6 @@ PARÁGRAFO TRANSITORIO. Mientras el Banco de la República prepara y ajusta los 
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1076 de 2012, artículo 7).
-
-ARTÍCULO
 
 ## art:2.2.4.10.8 — Auditoría del Fideicomiso FAE
 
@@ -9884,8 +8664,6 @@ El Gobierno Nacional delega la auditoría del Fideicomiso FAE en la Auditoría d
 
 (Decreto 1076 de 2012, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.4.10.9 — Contrato para la Administración del Fideicomiso FAE
 
 El contrato para la administración del Fideicomiso FAE será suscrito por el Representante Legal del Banco de la República y por el Ministro de Hacienda y Crédito Público en nombre de la Nación.
@@ -9897,8 +8675,6 @@ PARÁGRAFO . Los costos y gastos derivados de la comisión de administración y 
 (Derogado por Artículo 3.2.1. del Decreto 1821 de 2020)
 
 (Decreto 1076 de 2012, artículo 9).
-
-ARTÍCULO
 
 ## art:2.2.4.10.10 — Comunicaciones
 
@@ -9915,8 +8691,6 @@ SISTEMA GENERAL DE PARTICIPACIONES
 CAPÍTULO 1
 
 RECURSOS DEL SGP PARA SALUD
-
-ARTÍCULO
 
 ## art:2.2.5.1.1 — Información para la aplicación de los criterios y mecanismos de distribución
 
@@ -9954,8 +8728,6 @@ PARÁGRAFO 2. Derogado por el Artículo 2 del Decreto 762 de 2017. Para aquellas
 
 (Decreto 159 de 2002, artículo 7; Decreto 360 de 2011, artículo 1; Decreto 320 de 2012, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.5.1.2 — Fuentes y términos para el suministro de la información
 
 Además de lo establecido en los artículos 48, 52 y 66 de la Ley 715 de 2001, se debe tener en cuenta lo siguiente:
@@ -9972,8 +8744,6 @@ PARÁGRAFO TRANSITORIO. Para efectos de la distribución de la vigencia 2020, el
 
 (Decreto 159 de 2002, artículo 9; Decreto 360 de 2011, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.1.3 — De los recursos destinados a la población pobre en lo no cubierto con subsidios de demanda
 
 Para efectos de la aplicación del artículo 69 de la Ley 715 de 2001, se entiende como recursos destinados a la población pobre en lo no cubierto con subsidios de demanda en el año 2001 aquellos que resultan de sumar los recursos del situado fiscal y de las participaciones municipales destinadas a la oferta en esa vigencia, incluyendo en el cálculo lo señalado en el parágrafo 1 del artículo 70 de la misma ley.
@@ -9988,8 +8758,6 @@ PARÁGRAFO 2. De conformidad con lo establecido en el artículo 45 de la Ley 715
 
 (Decreto 159 de 2002, artículo 10; Decreto 102 de 2003, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4 — De los recursos para el pago de aportes patronales
 
 Si una vez efectuada la distribución de qué trata el artículo 49 de la Ley 715 de 2001, se estableciere que los recursos que se asignen para aportes patronales a que se refiere el parágrafo 2 del artículo 49 y el artículo 58 de la citada ley, éstos deberán ser asumidos directamente por cada institución prestadora de servicios de salud pública con cargo a sus ingresos corrientes, dándoles prioridad sobre cualquier otro gasto.
@@ -10002,8 +8770,6 @@ En ningún caso la Nación asumirá el valor de dichos aportes con recursos del 
 
 (Decreto 159 de 2002, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.5.1.5 — Ajuste a distribución
 
 Cuando para ajustar la distribución debido a deficiencias de información, y conforme al artículo 86 de la Ley 715 de 2001, no existan en la vigencia en la cual corresponda realizar el ajuste recursos suficientes del Sistema General de Participaciones para la prestación de servicios de salud a la población pobre en lo no cubierto con subsidios a la demanda, correspondientes a aquellas entidades que recibieron recursos de más, el ajuste a la distribución se hará hasta por el monto que los recursos de la respectiva vigencia lo permitan, en forma proporcional.
@@ -10013,8 +8779,6 @@ Cuando para ajustar la distribución debido a deficiencias de información, y co
 CAPÍTULO 2
 
 RECURSOS DEL SGP PARA AGUA POTABLE Y SANEAMIENTO BÁSICO
-
-ARTÍCULO
 
 ## art:2.2.5.2.1 — 2.1
 
@@ -10027,8 +8791,6 @@ Información para la distribución de los recursos por el criterio de déficit d
 3. El diferencial de los costos de provisión entre los servicios de acueducto y alcantarillado y entre la zona urbana y rural, disponible para el nivel nacional, el cual será informado por la Dirección de Desarrollo Urbano del Departamento Nacional de Planeación, a más tardar el 30 de septiembre de cada año para la distribución de la siguiente vigencia.
 
 (Decreto 313 de 2008, artículo 1; Decreto 276 de 2009, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.2 — 2.2
 
@@ -10048,8 +8810,6 @@ PARÁGRAFO TRANSITORIO. Derogado por el Art 5. del Decreto 1042 de 2022. Para ef
 
 (Decreto 313 de 2008, artículo 2; Decreto 155 de 2013, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.5.2.3 — 2.3
 
 Información para la distribución de los recursos por el criterio de esfuerzo de la entidad territorial en la ampliación de coberturas de los recursos de la participación para Agua Potable y Saneamiento Básico del Sistema General de Participaciones. Para la distribución de los recursos del criterio de Esfuerzo de la entidad territorial en la ampliación de coberturas se tomarán en cuenta los porcentajes de cobertura de Acueducto y Alcantarillado por municipios y distritos, incluyendo a las áreas no municipalizadas de los departamentos del Amazonas, Guainía y Vaupés, certificados por la Superintendencia de Servicios Públicos Domiciliarios, en cumplimiento del numeral 2 del artículo 2.2.5.2.1 de este decreto, en lo relacionado con el período inmediatamente anterior.
@@ -10066,15 +8826,11 @@ La Superintendencia de Servicios Públicos Domiciliarios certificará el porcent
 
 (Modificado por el Art. 9 del Decreto 1042 de 2022).
 
-ARTÍCULO
-
 ## art:2.2.5.2.4 — 2.4
 
 Información para la distribución de los recursos por el criterio de Nivel de pobreza de los recursos de la participación para Agua Potable y Saneamiento Básico del Sistema General de Participaciones. Para la distribución de los recursos del criterio de Nivel de pobreza se tomará en cuenta el Índice de Necesidades Básicas Insatisfechas de cada municipio y distrito, incluyendo a las áreas no municipalizadas de los departamentos del Amazonas, Guainía y Vaupés. El Departamento Administrativo Nacional de Estadística (DANE) enviará esta información debidamente certificada al Departamento Nacional de Planeación, a más tardar el 30 de junio de cada año para la distribución de la siguiente vigencia.
 
 (Decreto 313 de 2008, artículo 4)
-
-ARTÍCULO
 
 ## art:2.2.5.2.5 — 2.5
 
@@ -10090,8 +8846,6 @@ PARÁGRAFO 1. La Superintendencia de Servicios Públicos Domiciliarios certifica
 
 (Decreto 313 de 2008, artículo 5; Decreto 155, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.5.2.6 — 2.6
 
 Efectos de los cambios metodológicos y de información sobre la distribución de los recursos del Sistema General de Participaciones para Agua Potable y Saneamiento Básico. A partir de 2016, cuando se realicen modificaciones metodológicas a la fórmula de distribución de la participación para Agua Potable y Saneamiento Básico relacionadas con cambios de fuente de información, actualización de la vigencia de las fuentes de información o de la vigencia de las variables, definidas para los criterios 1, 2, 3 y 4 del artículo 7 de la Ley 1176 de 2007, frente a las usadas en el año inmediatamente anterior, la asignación por el criterio ajustado de los municipios y/o departamentos solo podrá disminuir en máximo un diez por ciento (10%) nominal frente a la asignación para dicho criterio en la vigencia inmediatamente anterior.
@@ -10101,8 +8855,6 @@ Efectos de los cambios metodológicos y de información sobre la distribución d
 CAPÍTULO 3
 
 RECURSOS DEL SGP PARA PROPÓSITO GENERAL Y DE LA ASIGNACIÓN ESPECIAL PARA LOS PROGRAMAS DE ALIMENTACIÓN ESCOLAR
-
-ARTÍCULO
 
 ## art:2.2.5.3.1 — Certificación de información
 
@@ -10132,8 +8884,6 @@ PARÁGRAFO 3. A partir de la entrega de la información en los términos del pre
 
 (Decreto 159 de 2002, artículo 1; Decreto 72 de 2005, artículo 1; Decreto 777 de 2011, artículos 2 y 3)
 
-ARTÍCULO
-
 ## art:2.2.5.3.2 — Información para la distribución de los recursos de la asignación especial para alimentación escolar
 
 Para efectos de la distribución de los recursos de la asignación especial de Alimentación Escolar del Sistema General de Participaciones, el Ministerio de Educación Nacional deberá enviar debidamente certificada al Departamento Nacional de Planeación la siguiente información a más tardar el 30 de noviembre de cada año para la distribución de la siguiente vigencia.
@@ -10143,8 +8893,6 @@ Para efectos de la distribución de los recursos de la asignación especial de A
 2. Tasa de deserción oficial interanual por municipio y distrito, incluyendo a las áreas no municipalizadas de los departamentos de Amazonas, Guainía y Vaupés de la vigencia anterior.
 
 (Decreto 313 de 2008, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.5.3.3 — 3.3
 
@@ -10170,8 +8918,6 @@ CAPÍTULO 4
 
 RECURSOS DEL SGP DE LA ASIGNACIÓN ESPECIAL PARA LA ATENCIÓN INTEGRAL DE LA PRIMERA INFANCIA
 
-ARTÍCULO
-
 ## art:2.2.5.4.1 — 4.1
 
 Información para la distribución de los recursos adicionales destinados a la atención integral de la primera infancia del Sistema General de Participaciones. Derogado por el Art 2. del Decreto 1042 de 2022. Para efectos de la distribución de los recursos adicionales destinados a la atención integral de la primera infancia del Sistema General de Participaciones, el Departamento Administrativo Nacional de Estadística (DANE) deberá enviar debidamente certificada al Departamento Nacional de Planeación la información correspondiente a la población de 0 a 6 años y el Índice de Necesidades Básicas Insatisfechas por municipios, distritos, incluyendo a las áreas no municipalizadas de los departamentos de Amazonas, Guainía y Vaupés, a más tardar el 30 de junio de cada año para la distribución de la siguiente vigencia.
@@ -10181,8 +8927,6 @@ Información para la distribución de los recursos adicionales destinados a la a
 CAPÍTULO 5
 
 RECURSOS DEL SGP DE LA ASIGNACIÓN ESPECIAL PARA LOS DISTRITOS Y MUNICIPIOS RIBEREÑOS DEL RÍO GRANDE DE LA MAGDALENA
-
-ARTÍCULO
 
 ## art:2.2.5.5.1 — Certificación de información
 
@@ -10195,8 +8939,6 @@ PARÁGRAFO 1. Si entre el 1 de julio y el 31 de diciembre del año en el cual se
 CAPÍTULO 6
 
 RECURSOS DE LA ASIGNACIÓN ESPECIAL DEL SISTEMA GENERAL DE PARTICIPACIONES PARA LOS RESGUARDOS INDÍGENAS
-
-ARTÍCULO
 
 ## art:2.2.5.6.1 — Certificación de información
 
@@ -10216,15 +8958,11 @@ PARÁMETROS Y PROCEDIMIENTO PARA ACREDITAR LA EXPERIENCIA Y/O BUENAS PRÁCTICAS 
 
 REQUISITO PARA LA EJECUCIÓN DIRECTA DE LOS RECURSOS DE LA ASIGNACIÓN ESPECIAL DEL SISTEMA GENERAL DE PARTICIPACIONES
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.1 — Objeto
 
 La presente sección tiene por objeto definir los parámetros y el procedimiento que los Resguardos Indígenas o las asociaciones de resguardos deberán cumplir para acreditar la experiencia y/o buenas prácticas como requisito para la ejecución directa de los recursos de la Asignación Especial del Sistema General de Participaciones, de conformidad de conformidad con lo establecido en el numeral 2 del artículo 29 del Decreto 1953 de 2014.
 
 (Decreto 2719 de 2014, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.2 — Definición de experiencia
 
@@ -10238,8 +8976,6 @@ PARÁGRAFO . Para los efectos de esta sección entiéndase por fuente de financi
 
 (Decreto 2719 de 2014, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.3 — Definición de buenas prácticas
 
 Son aquellas actividades desarrolladas por los Resguardos Indígenas o por la Asociación de Resguardos, relacionadas con el manejo e inversión de recursos financieros para el desarrollo de proyectos de inversión en pro del mejoramiento de las condiciones de vida de la comunidad, orientadas según la Ley de Origen, Derecho Mayor o el Derecho Propio.
@@ -10247,8 +8983,6 @@ Son aquellas actividades desarrolladas por los Resguardos Indígenas o por la As
 Las actividades deberán corresponder a uno o varios sectores de inversión, y serán acreditadas conforme a lo que establecido en el artículo 2.2.5.6.1.5 de este decreto.
 
 (Decreto 2719 de 2014, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.4 — Soportes de acreditación de experiencia
 
@@ -10264,8 +8998,6 @@ Los Resguardos Indígenas y las asociaciones de resguardos demostrarán la exper
 
 (Decreto 2719 de 2014, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.5 — Soportes de acreditación de buenas prácticas
 
 Los Resguardos Indígenas y las asociaciones de Resguardos demostrarán las buenas prácticas con los siguientes soportes:
@@ -10279,8 +9011,6 @@ Los Resguardos Indígenas y las asociaciones de Resguardos demostrarán las buen
 4. Informe financiero del Resguardo o la asociación de Resguardos firmado por el respectivo representante legal, correspondiente a cada vigencia fiscal de los tres años anteriores a la presentación de la solicitud.
 
 (Decreto 2719 de 2014, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.6 — Rangos presupuestales
 
@@ -10300,8 +9030,6 @@ PARÁGRAFO . Cuando se trate de una Asociación de Resguardos, para la determina
 
 (Decreto 2719 de 2014, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.7 — Asociación de Resguardos
 
 Cuando se trate de la Asociación de Resguardos se deberán acreditar los requisitos a que se refiere el artículo 4 del Decreto 1953 de 2014, a través de su representante legal.
@@ -10309,8 +9037,6 @@ Cuando se trate de la Asociación de Resguardos se deberán acreditar los requis
 Para efectos de la verificación de los requisitos para la administración y ejecución de recursos de la asignación especial del SGP, de que trata el artículo 29 del Decreto 1953 de 2014, se tendrá en cuenta el conjunto de la información aportada por la asociación que corresponde a cada uno de los Resguardos que hacen parte de la misma. En este sentido, la información aportada por uno de los resguardos se entenderá como aportada por la asociación.
 
 (Decreto 2719 de 2014, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.5.6.1.8 — Radicación de la solicitud
 
@@ -10322,8 +9048,6 @@ PARÁGRAFO TRANSITORIO. Los Resguardos Indígenas que decidan presentar la solic
 
 (Decreto 2719 de 2014, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.5.6.1.9 — Comunicación al representante legal del Resguardo o de la asociación de resguardos
 
 Una vez expedida la resolución con la decisión sobre la solicitud de la administración directa de los recursos, el Departamento Nacional de Planeación (DNP) comunicará al representante legal del Resguardo o de la asociación de resguardos, al Ministerio de Hacienda y Crédito Público y al alcalde del municipio en que se encuentre ubicado el Resguardo, para que se adelanten los trámites correspondientes para el giro de los recursos de la respectiva vigencia.
@@ -10333,8 +9057,6 @@ Una vez expedida la resolución con la decisión sobre la solicitud de la admini
 CAPÍTULO 7
 
 RECURSOS DEL SGP DE LA ASIGNACIÓN PARA LOS NUEVOS MUNICIPIOS
-
-ARTÍCULO
 
 ## art:2.2.5.7.1 — Cálculo de variables para los nuevos municipios con información insuficiente
 
@@ -10352,23 +9074,17 @@ CAPÍTULO 8
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.5.8.1 — Pérdida de calidad de beneficiario del Sistema General de Participaciones
 
 Cuando una entidad territorial o un resguardo indígena pierda la calidad de beneficiario del Sistema General de Participaciones los recursos pendientes de giro serán redistribuidos entre los demás beneficiarios.
 
 (Decreto 159 de 2002, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.5.8.2 — Giro de los recursos
 
 La transferencia de los recursos del Sistema General de Participaciones se hará de conformidad con lo dispuesto por el artículo 81 de la Ley 715 de 2001.
 
 (Decreto 159 de 2002, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.5.8.3 — Deficiencias de Información
 
@@ -10380,8 +9096,6 @@ PARÁGRAFO . Entiéndase por fuente de información la base de información gene
 
 (Decreto 4053 de 2004, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.5.8.4 — Distribuciones parciales de los recursos del Sistema General de Participaciones
 
 Con el propósito de mejorar la eficiencia y la equidad en la asignación de los recursos del Sistema General de Participaciones mediante la disponibilidad y verificación de la información necesaria, el Departamento Nacional de Planeación (DNP), podrá realizar distribuciones parciales de estos recursos durante la vigencia fiscal atendiendo los criterios de las Leyes 715 de 2001, 1122 de 2007 y 1176 de 2007.
@@ -10392,15 +9106,11 @@ Estas distribuciones serán aprobadas por el CONPES para la Política Social y l
 
 (Decreto 313 de 2008, artículo 10)
 
-ARTÍCULO
-
 ## art:2.2.5.8.5 — Ajustes por cambio en certificaciones
 
 Los ajustes a la distribución de los recursos del Sistema General de Participaciones a que haya lugar por efecto de las modificaciones a las variables de distribución reportadas por las entidades competentes después del 15 de septiembre de la vigencia para la cual se distribuyen los recursos, se efectuarán con cargo a los recursos del Sistema General de Participaciones de la vigencia siguiente. Para el efecto, la entidad que reporte un cambio de la información certificada, deberá explicar en la certificación las razones que motivan la expedición de nuevos datos.
 
 (Decreto 313 de 2008, artículo 11)
-
-ARTÍCULO
 
 ## art:2.2.5.8.6 — Certificación de municipios en educación
 
@@ -10408,15 +9118,11 @@ Para efectos de lo dispuesto en el artículo 41 de la Ley 715 de 2001, los munic
 
 (Decreto 159 de 2002, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.5.8.7 — 8.7
 
 Competencias del Departamento Nacional de Planeación en la distribución de los recursos del Sistema General de Participaciones. De conformidad con lo establecido en el artículo 165 de la Ley 1753 de 2015, en los procedimientos descritos en las disposiciones reglamentarias sobre la distribución de los recursos del Sistema General de Participaciones, donde se señale el CONPES entiéndase que la competencia corresponderá al Departamento Nacional de Planeación
 
 (Adicionado por el Art. 4 del Decreto 213 de 2016)
-
-ARTÍCULO
 
 ## art:2.2.5.8.8 — 8.8
 
@@ -10436,19 +9142,13 @@ CAPÍTULO 9
 
 RECURSOS DEL SGP PARA EL FONDO NACIONAL DE PENSIONES DE LAS ENTIDADES TERRITORIALES (FONPET)
 
-ARTÍCULO
-
 ## art:2.2.5.9.1 — 9.1
 
 Beneficiarios de los recursos de la Asignación Especial del 2.9% del Sistema General de Participaciones para el Fondo Nacional de Pensiones de las Entidades Territoriales (FONPET). Serán beneficiarios de los recursos de la Asignación Especial del 2.9% del Sistema General de Participaciones (SGP) para el Fondo Nacional de Pensiones de las Entidades Territoriales (FONPET) los departamentos, distritos y municipios, existentes a 31 de diciembre del año inmediatamente anterior al cual se realiza la distribución.
 
-ARTÍCULO
-
 ## art:2.2.5.9.2 — Distribución de los recursos
 
 Le corresponde al Departamento Nacional de Planeación (DNP) realizar la distribución de los recursos de la Asignación Especial del 2.9% del Sistema General de Participaciones para el FONPET, de acuerdo con las reglas y criterios establecidos en el presente Decreto.
-
-ARTÍCULO
 
 ## art:2.2.5.9.3 — Criterios de distribución de los recursos
 
@@ -10467,8 +9167,6 @@ Los recursos de cada grupo, se distribuirán entre las entidades territoriales, 
 3. Un 30% en proporción al Índice de Necesidades Básicas Insatisfechas (NBI) de cada entidad territorial en relación con el NBI nacional, para lo cual se tomará el NBI certificado por el Departamento Administrativo Nacional de Estadística (DANE) para cada vigencia en la que se realiza la distribución.
 
 4. Un 10% en proporción a su participación en el total de población del Grupo respectivo, para lo cual se tomarán las proyecciones de población de las entidades territoriales certificadas por el DANE para cada vigencia en que se realiza la distribución.
-
-ARTÍCULO
 
 ## art:2.2.5.9.4 — Certificación de la información
 
@@ -10504,13 +9202,9 @@ e) El valor requerido para alcanzar el cubrimiento del 125% del pasivo pensional
 
 PARÁGRAFO TRANSITORIO. Derogado por el Art 5. del Decreto 1042 de 2022. Para la distribución de los recursos de las doce doceavas de la vigencia 2015 de la Asignación Especial del 2.9% del SGP para el FONPET, el Ministerio de Hacienda y Crédito Público certificará la información prevista en el numeral 1 del presente artículo, conforme a la actualización de las variables del sistema de información del FONPET, con corte a 31 de octubre del año 2015.
 
-ARTÍCULO
-
 ## art:2.2.5.9.5 — Comunicación de la distribución
 
 El Departamento Nacional de Planeación comunicará los resultados de la distribución de los recursos de la Asignación Especial del 2.9% del Sistema General de Participaciones para el FONPET al Ministerio de Hacienda y Crédito Público y a las entidades territoriales beneficiarias. Los recursos se abonarán a la cuenta individual del departamento, distrito o municipio en el FONPET desagregando los destinados al cubrimiento del pasivo pensional y el saldo de recursos no requeridos a la fecha de distribución para el cubrimiento del pasivo pensional, desagregados previamente por el Departamento Nacional de Planeación, en función de la composición sectorial de los recursos del Sistema General de Participaciones, prevista en el artículo 4 de la Ley 715 de 2001, modificado por el artículo 2 de la Ley 1176 de 2007, según destinatarios de dichas asignaciones.
-
-ARTÍCULO
 
 ## art:2.2.5.9.6 — Uso de los recursos no requeridos por haber alcanzado la cobertura de su pasivo pensional registrado en el FONPET
 
@@ -10524,15 +9218,11 @@ CAPITULO 10
 
 COMPLEMENTO A LA POBLACIÓN ATENDIDA
 
-ARTÍCULO
-
 ## art:2.2.5.10.1 — Definición del complemento a la población atendida
 
 Corresponde a la asignación adicional de recursos de la participación de Educación por el criterio de población atendida de que trata el artículo 16 de la Ley 715 de 2001, que se distribuye a las Entidades Territoriales Certificadas en las que se identifique insuficiencia de recursos para garantizar el costo mínimo de la prestación del servicio educativo.
 
 PARÁGRAFO . Los costos de la prestación del servicio educativo en los territorios de las Entidades Territoriales No Certificadas se tendrán en cuenta en la asignación prevista para el respectivo departamento, de conformidad con los términos del artículo 16 de la Ley 715 de 2001.
-
-ARTÍCULO
 
 ## art:2.2.5.10.2 — Fórmula de cálculo del complemento a la población atendida
 
@@ -10549,8 +9239,6 @@ MENOS (-)
 PARÁGRAFO. El cálculo de la asignación por población atendida incluye todas las asignaciones destinadas a reconocer los costos derivados de la prestación del servicio educativo oficial para necesidades educativas especiales, internados, capacidades excepcionales, sistema de responsabilidad penal adolescente, jornada única, cancelaciones de prestaciones sociales del magisterio en los términos del parágrafo 3 del artículo 18 de la Ley 715 de 2001 y asignaciones de conectividad.
 
 (Modificado por el Art. 10 del Decreto 1042 de 2022).
-
-ARTÍCULO
 
 ## art:2.2.5.10.3 — Certificación de la información para el cálculo de complemento a la población atendida
 
@@ -10582,13 +9270,9 @@ Para la distribución de la asignación complementaria se tendrá en cuenta la s
 
 (Modificado por el Art. 11 del Decreto 1042 de 2022).
 
-ARTÍCULO
-
 ## art:2.2.5.10.4 — Reglas para la determinación del costo derivado del mejoramiento de calidad
 
 Derogado por el Art 6. del Decreto 1042 de 2022. Este costo se calculará siguiendo las reglas señaladas en los artículos 2.3.8.8.2.4.1 y 2.3.8.8.2.4.2 del Decreto 1075 de 2015. El Ministerio de Educación Nacional certificará al Departamento Nacional de Planeación las variables necesarias para este cálculo.
-
-ARTÍCULO
 
 ## art:2.2.5.10.5 — Balance y distribución de recursos disponibles de cada vigencia
 
@@ -11038,8 +9722,6 @@ CAPÍTULO 3
 
 DE LA FORMULACIÓN, EVALUACIÓN PREVIA Y REGISTRO DE LOS PROYECTOS DE INVERSIÓN PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.6.3.6 — Viabilización de los proyectos de inversión
 
 Surtida la verificación del cumplimiento de requisitos para la formulación del proyecto de inversión, este continuara para análisis de la oficina de planeación o quien haga sus veces en el respectivo ministerio o departamento administrativo al cual se encuentre adscrita o vinculada la entidad ejecutora, o de la instancia designada para el efecto en aquellas entidades que no hagan parte de la rama ejecutiva del poder público.
@@ -11061,8 +9743,6 @@ De igual forma el responsable de la viabilización deberá rechazar aquellos pro
 Los ministerios y departamentos administrativos, en aquellos proyectos de inversión en los cuales sean ejecutores, podrán cumplir lo dispuesto en este artículo a través de quien sea designado por el jefe de la entidad para tal propósito.
 
 (Decreto 2844 de 2010, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.6.3.7 — Control posterior a la viabilidad de los proyectos de inversión
 
@@ -11086,8 +9766,6 @@ PARÁGRAFO. En el marco del proceso de programación y ejecución presupuestal l
 
 (Modificado por el Art. 13 del Decreto 1042 de 2022).
 
-ARTÍCULO
-
 ## art:2.2.6.3.8 — Registro de los proyectos de inversión
 
 Se registrarán en el Banco Nacional de Programas y Proyectos todos aquellos proyectos de inversión en los cuales se haya verificado el cumplimiento de los requisitos señalados previamente, y que cuenten con el concepto de control posterior favorable por parte del Departamento Nacional de Planeación.
@@ -11100,8 +9778,6 @@ En todo caso, los proyectos de inversión pública que se incorporen en el proye
 
 (Decreto 2844 de 2010, artículo 15)
 
-ARTÍCULO
-
 ## art:2.2.6.3.9 — Oportunidad del registro
 
 Durante el transcurso del año se podrán registrar proyectos de inversión en el Banco Nacional de Programas y Proyectos. Para la elaboración del Plan Operativo Anual de Inversiones sólo se tendrán en cuenta aquellos proyectos de inversión que hayan sido registrados a más tardar el 1 de junio del año anterior al que se está programando.
@@ -11109,8 +9785,6 @@ Durante el transcurso del año se podrán registrar proyectos de inversión en e
 Las instancias responsables de otorgar concepto de viabilidad a los proyectos de inversión deberán remitirlos a Departamento Nacional de Planeación a más tardar el 30 de abril del año anterior al que se está programando. A partir de esa fecha y hasta el 1 de junio el Departamento Nacional de Planeación, a través de las direcciones técnicas respectivas, cumplirá con el control posterior de viabilidad y registro de los proyectos en los términos previstos en este título.
 
 (Decreto 2844 de 2010, artículo 16)
-
-ARTÍCULO
 
 ## art:2.2.6.3.10 — Cancelación del registro de proyectos en el Banco Nacional de Programas y Proyectos
 
@@ -11130,8 +9804,6 @@ SECCION 1
 
 ESTRUCTURACIÓN INTEGRAL DE PROYECTOS ESTRATÉGICOS
 
-ARTÍCULO
-
 ## art:2.2.6.3.1.1 — Estructuración de Proyectos
 
 Para efectos de la presente sección la estructuración integral comprende la formulación del proyecto de inversión.
@@ -11147,8 +9819,6 @@ Se asumirá que la formulación y estructuración son dos acciones inherentes a 
 PARÁGRAFO . Siempre que el Departamento Nacional de Planeación disponga de proyectos tipo, las entidades públicas deberán utilizarlos en la etapa de preinversión, incluyendo los pliegos de condiciones y contratos tipo diseñados por Colombia Compra Eficiente para tal efecto. En el evento en que esto no sea viable deberá justificarse y en todo caso tenerse en cuenta dichos insumos para la estructuración integral de los proyectos de inversión:
 
 Cuando se presenten proyectos ante los órganos colegiados de administración y decisión haciendo uso de los proyectos tipo, se solicitara el pronunciamiento técnico al Departamento Nacional de Planeación y no habrá lugar al pronunciamiento de que trata el numeral 3 del artículo 2.2.4.4.2 del presente decreto. El Departamento Nacional de Planeación emitirá el respectivo pronunciamiento dentro de los cinco (5) días hábiles siguientes al recibo de la solicitud."
-
-ARTÍCULO
 
 ## art:2.2.6.3.1.2 — Destinación y asignación de recursos
 
@@ -11170,8 +9840,6 @@ PARÁGRAFO , El Departamento Nacional de Planea clon definirá mediante resoluci
 
 3. Ser vigiladas por la Superintendencia Financiera de Colombia."
 
-ARTÍCULO
-
 ## art:2.2.6.3.1.3 — Canalización de recursos a través de las entidades financieras
 
 Para que la Nación o una entidad descentralizada .del orden nacional puedan destinar y asignar recursos, a título de financiación o cofinanciación, para la estructuración integral de proyectos, deben acordar con la entidad pública de carácter financiero del orden nacional, por lo menos los siguientes aspectos:
@@ -11192,8 +9860,6 @@ El acuerdo suscrito constituirá el título con fundamento en el cual se efectua
 
 Cuando las estructuraciones se vayan a realizar con recursos de un fondo especializado para la estructuración de los proyectos con que cuente una entidad pública de carácter financiero del orden nacional, para que la Nación o sus entidades descentralizadas puedan efectuar los desembolsos que correspondan, suscribirán únicamente las contratos establecidos para la incorporación de recursos al respectivo fondo."
 
-ARTÍCULO
-
 ## art:2.2.6.3.1.4 — Portafolio de iniciativas
 
 Las entidades financieras conformaran portafolios de iniciativas, con las siguientes características:
@@ -11208,13 +9874,9 @@ Las entidades financieras conformaran portafolios de iniciativas, con las siguie
 
 PARÁGRAFO . Las entidades financieras establecerán formatos con la información mínima que deben aportar los interesados para incluir nuevas iniciativas en sus portafolios."
 
-ARTÍCULO
-
 ## art:2.2.6.3.1.5 — Entrega de las estructuraciones
 
 Cuando la entidad pública de carácter financiero del orden nacional culmine la estructuración integral, entregara el producto debidamente documentado y soportado a las entidades públicas que destinaron y asignaron recursos para tal fin o que se hayan previsto coma beneficiarias de la estructuración, según lo pactado, y de manera informativa, al Departamento Nacional de Planeación."
-
-ARTÍCULO
 
 ## art:2.2.6.3.1.6 — Recursos complementarios
 
@@ -11225,8 +9887,6 @@ PARÁGRAFO . Los aportantes de recursos y las entidades públicas de carácter f
 CAPÍTULO 4
 
 DE LA PROGRAMACIÓN PRESUPUESTAL DE LOS PROYECTOS DE INVERSIÓN PÚBLICA
-
-ARTÍCULO
 
 ## art:2.2.6.4.6 — Modificaciones al proyecto de presupuesto de inversión
 
@@ -11240,8 +9900,6 @@ CAPÍTULO 5
 
 DE LA EJECUCIÓN DE LOS PROYECTOS DE INVERSIÓN PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.6.6.2 — Reportes de seguimiento a los proyectos de inversión
 
 Las entidades ejecutoras deberán reportar mensualmente al sistema que administra el Departamento Nacional de Planeación el avance logrado por el proyecto durante ese período.
@@ -11254,8 +9912,6 @@ CAPÍTULO 7
 
 DE LA EVALUACIÓN POSTERIOR A LOS PROYECTOS DE INVERSIÓN PÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.7.1.1.1 — Objeto
 
 El Sistema Nacional de Evaluación de Gestión y Resultados (Sinergia) tiene como objetivo generar información de calidad para la toma de decisiones que permitan mejorar la efectividad de la formulación y ejecución de las políticas del Plan Nacional de Desarrollo (PND), específicamente a través del seguimiento a los avances de este y los principales programas de Gobierno, así como la evaluación de las políticas consignadas en el Plan Nacional de Desarrollo (PND) y las estrategias que lo complementen.
@@ -11263,8 +9919,6 @@ El Sistema Nacional de Evaluación de Gestión y Resultados (Sinergia) tiene com
 El sistema integra un conjunto de lineamientos de política, instancias, herramientas, procedimientos y metodologías de seguimiento y evaluación para orientar la gestión del Estado al logro de resultados.
 
 (Decreto 1290 de 2014, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.7.1.1.2 — Cobertura del Sistema
 
@@ -11281,8 +9935,6 @@ De conformidad con lo establecido en el Decreto 1784 de 2019, las referencias a 
 SECCIÓN 2
 
 PRINCIPIOS
-
-ARTÍCULO
 
 ## art:2.2.7.1.2.1 — Principios
 
@@ -11302,15 +9954,11 @@ SECCIÓN 3
 
 COMPONENTES E INTEGRANTES DEL SISTEMA
 
-ARTÍCULO
-
 ## art:2.2.7.1.3.1 — Componentes del Sistema
 
 El Sistema Nacional de Evaluación de Gestión y Resultados (Sinergia) se estructurará en torno a dos componentes misionales y complementarios entre sí: i) Seguimiento a Metas de Gobierno; y ii) Evaluación de Políticas Públicas.
 
 (Modificado por el Art. 14 del Decreto 1042 de 2022).
-
-ARTÍCULO
 
 ## art:2.2.7.1.3.2 — Integrantes del Sistema
 
@@ -11336,15 +9984,11 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.7.2.1.1 — Definición
 
 Es un proceso continuo y sistemático de recolección y análisis de información que permite determinar el grado de avance de las políticas públicas frente a las metas establecidas.
 
 (Decreto 1290 de 2014, artículo 6)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.2 — Actores
 
@@ -11359,8 +10003,6 @@ Los actores del proceso de Seguimiento a Metas de Gobierno son:
 4. Ciudadanía.
 
 (Decreto 1290 de 2014, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.7.2.1.3 — Función de los actores
 
@@ -11380,8 +10022,6 @@ SECCIÓN 2
 
 CONSTRUCCIÓN DEL SISTEMA DE SEGUIMIENTO A METAS DE GOBIERNO
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.1 — Pasos para la construcción del sistema de seguimiento
 
 Se deberán realizar los siguientes pasos para la construcción del Sistema de Seguimiento a Metas de Gobierno:
@@ -11400,15 +10040,11 @@ Se deberán realizar los siguientes pasos para la construcción del Sistema de S
 
 (Decreto 1290 de 2014, artículo 9)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.2 — Paso 1
 
 Formulación estratégica con base en la cadena de valor. Las metas de gobierno deberán construirse por las diferentes entidades con base en la Formulación Estratégica, entendida esta como el proceso en el cual se identifican y relacionan los resultados con los productos, así como los medios y acciones necesarias para alcanzarlos. Este proceso será parte de la construcción del Plan Nacional de Desarrollo.
 
 (Decreto 1290 de 2014, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.7.2.2.3 — Paso 2
 
@@ -11416,23 +10052,17 @@ Selección de indicadores para el seguimiento. Tomando como referencia los objet
 
 (Decreto 1290 de 2014, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.4 — Paso 3
 
 Definición de tipos de acumulación, líneas base y metas. Todos los indicadores seleccionados deberán contar con identificación y medición del tipo de acumulación, línea base y meta a nivel nacional: si el indicador puede ser territorializado deberá tener las metas a nivel territorial. Esta información deberá ser entregada por las entidades responsables al Departamento Nacional de Planeación (DNP), aprobada por las direcciones técnicas del Departamento Nacional de Planeación (DNP) y avalada por la Dirección de Seguimiento y Evaluación de Políticas Públicas {DSEPP) del Departamento Nacional de Planeación (DNP).
 
 (Decreto 1290 de 2014, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.5 — Paso 4
 
 Definición de la estructura del Sistema de Seguimiento a Metas de Gobierno. La estructura del Sistema de Seguimiento a Metas de Gobierno debe estar acorde con la estructura y escalabilidad que se defina en el Plan Nacional de Desarrollo (PND).
 
 (Decreto 1290 de 2014, artículo 14)
-
-ARTÍCULO
 
 ## art:2.2.7.2.2.6 — Paso 5
 
@@ -11454,8 +10084,6 @@ Definición de roles en el Sistema de Seguimiento a Metas de Gobierno. Los actor
 
 (Decreto 1290 de 2014, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.7.2.2.7 — Paso 6
 
 Elaboración de fichas técnicas de programas e indicadores. Las fichas técnicas de los programas estratégicos y los indicadores requieren la aplicación de los estándares establecidos por la Dirección de Seguimiento y Evaluación de Políticas Públicas (DSEPP) del Departamento Nacional de Planeación (DNP) así como la revisión y aprobación de las direcciones técnicas del Departamento Nacional de Planeación (DNP).
@@ -11467,8 +10095,6 @@ PARÁGRAFO . Las fichas técnicas de los indicadores que son territorializables 
 SECCIÓN 3
 
 ACTIVIDADES DEL SEGUIMIENTO A METAS DE GOBIERNO
-
-ARTÍCULO
 
 ## art:2.2.7.2.3.1 — Pasos para el seguimiento a metas de gobierno
 
@@ -11484,15 +10110,11 @@ Se deberán realizar las siguientes tareas para el seguimiento a metas de gobier
 
 (Decreto 1290 de 2014, artículo 16)
 
-ARTÍCULO
-
 ## art:2.2.7.2.3.2 — Paso 1
 
 Registrar la información en el Sistema de Seguimiento a Metas del Gobierno y realizar capacitaciones. Cada profesional encargado del seguimiento sectorial de la Dirección de Seguimiento y Evaluación de Políticas Públicas (DSEPP) deberá cargar los indicadores, metas anuales y de cuatrienio, fichas técnicas y responsables de programas, metas e indicadores. Así mismo, la Dirección de Seguimiento y Evaluación de Políticas Públicas (DSEPP) realizará capacitaciones a los gerentes de programa, meta y jefes de las oficinas de planeación, para instruirlos en la tarea de reporte tanto de la información cualitativa y cuantitativa como del comportamiento de cada programa, meta e indicador al Sistema de Seguimiento a Metas de Gobierno.
 
 (Decreto 1290 de 2014, artículo 17)
-
-ARTÍCULO
 
 ## art:2.2.7.2.3.3 — Paso 2
 
@@ -11500,15 +10122,11 @@ Establecer rutinas de Seguimiento a Metas de Gobierno. Las oficinas de planeaci�
 
 (Decreto 1290 de 2014, artículo 18)
 
-ARTÍCULO
-
 ## art:2.2.7.2.3.4 — Paso 3
 
 Generar información complementaria de indicadores y programas. Las oficinas de planeación de los ministerios y departamentos administrativos así como los gerentes de programa y gerentes de meta tienen la responsabilidad de incluir documentos o archivos soporte que contribuyan a explicar los resultados alcanzados en el corte para cada programa o indicador.
 
 (Decreto 1290 de 2014, artículo 19)
-
-ARTÍCULO
 
 ## art:2.2.7.2.3.5 — Paso 4
 
@@ -11524,15 +10142,11 @@ SECCIÓN 1
 
 EVALUACIONES ESTRATÉGICAS DE POLÍTICAS PÚBLICAS
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.1 — Definición del proceso de evaluaciones estratégicas
 
 Es un proceso estandarizado y participativo, a través del cual se evalúan las políticas consignadas en el Plan Nacional de Desarrollo (PND) y las estratégicas que lo complementen, mediante la aplicación de herramientas y técnicas que permitan generar información que sirva como insumo para el mejoramiento de las intervenciones públicas.
 
 (Decreto 1290 de 2014, artículo 21)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.2 — Definición de evaluación
 
@@ -11540,15 +10154,11 @@ Es una investigación sistemática y objetiva aplicada en alguno de los diferent
 
 (Decreto 1290 de 2014, artículo 22)
 
-ARTÍCULO
-
 ## art:2.2.7.3.1.3 — Actores
 
 Los actores del proceso de evaluaciones estratégicas de intervenciones públicas son: Los ministerios, departamentos administrativos, sus entidades vinculadas y adscritas.
 
 (Decreto 1290 de 2014, artículo 23)
-
-ARTÍCULO
 
 ## art:2.2.7.3.1.4 — Funciones de los actores
 
@@ -11564,23 +10174,17 @@ SECCIÓN 2
 
 PROCESO DE EVALUACIONES ESTRATÉGICAS
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.1 — Agenda Anual de Evaluaciones
 
 Es la relación de las intervenciones públicas de carácter estratégico que podrían iniciar el proceso de evaluación, bajo los protocolos de priorización establecidos por el Departamento Nacional de Planeación (DNP), en una vigencia fiscal determinada.
 
 (Decreto 1290 de 2014, artículo 25)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.2 — Fases del proceso de evaluaciones estratégicas
 
 El proceso de evaluaciones de las intervenciones públicas de carácter estratégico tiene las siguientes fases: selección, diseño, ejecución, socialización y uso de las mismas.
 
 (Decreto 1290 de 2014, artículo 26)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.3 — Selección de la intervención pública a evaluar
 
@@ -11598,15 +10202,11 @@ Esta fase comprende la construcción y definición de la Agenda Anual de Evaluac
 
 (Decreto 1290de 2014, artículo 27)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.4 — Diseño de la evaluación
 
 Esta fase se desarrolla para las intervenciones públicas incluidas en la Agenda Anual de Evaluaciones y tiene como fin especificar el alcance de la evaluación, a través del uso de herramientas y técnicas que garanticen la pertinencia, oportunidad y la eficacia del proceso de evaluaciones estratégicas.
 
 (Decreto 1290 de 2014, artículo 28)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.5 — Comité de Diseño de la evaluación
 
@@ -11614,15 +10214,11 @@ El Departamento Nacional de Planeación (DNP) conformará un Comité de Diseño 
 
 (Decreto 1290 de 2014, artículo 29)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.6 — Funciones del Comité de Diseño de la evaluación
 
 El Comité diseñará la evaluación de la intervención pública de acuerdo con el proceso de evaluaciones estratégicas consignado en el Sistema de Gestión de Calidad del Departamento Nacional de Planeación (DNP).
 
 (Decreto 1290 de 2014, artículo 30)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.7 — Ejecución de la evaluación
 
@@ -11630,15 +10226,11 @@ Durante el desarrollo de la evaluación, el Departamento Nacional de Planeación
 
 (Decreto 1290 de 2014, artículo 31)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.8 — Comité Técnico de Seguimiento de la Evaluación
 
 El Departamento Nacional de Planeación (DNP), cuando lo considere, podrá conformar un Comité Técnico de Seguimiento (CTS) de la Evaluación, integrado, como mínimo, por una persona designada de cada una de las siguientes instancias: i) La Dirección de Seguimiento y Evaluación de Políticas Públicas (DSEPP), ii) direcciones técnicas del DNP; y iii) entidad ejecutora de la intervención pública a evaluar.
 
 (Decreto 1290 de 2014, artículo 32)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.9 — Funciones del Comité Técnico de Seguimiento
 
@@ -11651,8 +10243,6 @@ El Comité Técnico de Seguimiento tendrá las siguientes funciones:
 3. Recomendar parámetros de calidad para la ejecución efectiva de las evaluaciones.
 
 (Decreto 1290 de 2014, artículo 33)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.10 — Secretaría Técnica del Comité Técnico de Seguimiento
 
@@ -11670,8 +10260,6 @@ La secretaría técnica del Comité Técnico de Seguimiento será ejercida por l
 
 (Decreto 1290 de 2014, artículo 34)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.11 — Socialización de los resultados de la evaluación
 
 Una vez se haya aprobado por parte del Departamento Nacional de Planeación (DNP) el producto con los resultados y recomendaciones de la evaluación, se deberá coordinar su presentación a las direcciones técnicas del Departamento Nacional de Planeación (DNP) y las entidades involucradas que sean definidas por el Comité Técnico de Seguimiento y la entidad ejecutora de la intervención evaluada.
@@ -11680,15 +10268,11 @@ PARÁGRAFO . El Departamento Nacional de Planeación (DNP) enviará los resultad
 
 (Decreto 1290 de 2014, artículo 35)
 
-ARTÍCULO
-
 ## art:2.2.7.3.2.12 — Uso de resultados
 
 Las direcciones técnicas del Departamento Nacional de Planeación (DNP) deberán realizar las gestiones necesarias a efectos de que las entidades ejecutoras de las intervenciones públicas que fueron evaluadas utilicen los resultados e incorporen las recomendaciones en sus procesos de toma de decisiones.
 
 (Decreto 1290 de 2014, artículo 36)
-
-ARTÍCULO
 
 ## art:2.2.7.3.2.13 — Acompañamiento a evaluaciones estratégicas
 
@@ -11704,15 +10288,11 @@ SECCIÓN 1
 
 GENERALIDADES
 
-ARTÍCULO
-
 ## art:2.2.7.4.1.1 — Definición
 
 Sinergia territorial es una estrategia institucional, liderada por el Departamento Nacional de Planeación (DNP), cuyo objetivo es brindar asistencia técnica a municipios y departamentos en el diseño, implementación y puesta en marcha de sistemas de seguimiento a sus planes de desarrollo, con el fin de mejorar los ejercicios de rendición de cuentas y la toma de decisiones con base en información cualificada, así como fomentar la transparencia y el buen gobierno.
 
 (Decreto 1290 de 2014, artículo 38)
-
-ARTÍCULO
 
 ## art:2.2.7.4.1.2 — Actores
 
@@ -11726,8 +10306,6 @@ Los actores de Sinergia Territorial son:
 
 (Decreto 1290 de 2014, artículo 39)
 
-ARTÍCULO
-
 ## art:2.2.7.4.1.3 — Metodología
 
 La metodología de trabajo de la estrategia es:
@@ -11740,8 +10318,6 @@ La metodología de trabajo de la estrategia es:
 
 (Decreto 1290 de 2014, artículo 40)
 
-ARTÍCULO
-
 ## art:2.2.7.4.1.4 — Procesos
 
 La estrategia se compone de los siguientes procesos:
@@ -11753,8 +10329,6 @@ La estrategia se compone de los siguientes procesos:
 3. Seguimiento a los planes de desarrollo: Abarca la labor periódica y sistemática de hacer seguimiento al plan de desarrollo.
 
 (Decreto 1290 de 2014, artículo 41)
-
-ARTÍCULO
 
 ## art:2.2.7.4.1.5 — Fases
 
@@ -11784,23 +10358,17 @@ SISTEMA DE IDENTIFICACIÓN DE POTENCIALES BENEFICIARIOS DE PROGRAMAS SOCIALES (S
 
 El Sistema de Identificación de Potenciales Beneficiarios de Programas Sociales (Sisbén), es un instrumento de la política social, para la focalización del gasto social, el cual utiliza herramientas estadísticas y técnicas que permiten identificar y ordenar a la población, para la selección y asignación de subsidios y beneficios por parte de las entidades y programas con base en las condiciones socioeconómicas en él registradas.
 
-ARTÍCULO
-
 ## art:2.2.8.1.2 — Sisbén y programas sociales
 
 El Sisbén opera a través de un sistema de información y es neutral frente a los programas sociales. En consecuencia, el ingreso al Sisbén por sí mismo no otorga el acceso a los programas sociales.
 
 Las entidades y los programas son los responsables de la selección de los beneficiarios o de la asignación de subsidios y beneficios.
 
-ARTÍCULO
-
 ## art:2.2.8.1.3 — Criterios orientadores y derechos
 
 La administración del Sisbén y la información recolectada por este se sujetará a los derechos fundamentales a la igualdad, intimidad, protección de datos personales y a los principios de transparencia, moralidad, eficiencia, calidad y publicidad de la información, así como los demás que rigen la función administrativa.
 
 Toda persona natural tiene derecho a ser encuestada, a que sus datos sean recolectados, procesados, actualizados y a recibir información de forma cierta y oportuna mediante canales de comunicación regulares y públicos.
-
-ARTÍCULO
 
 ## art:2.2.8.1.4 — Definiciones
 
@@ -11838,8 +10406,6 @@ Corte de información: Corresponde a cada uno de los periodos de actualización 
 
 Informante calificado: Es cualquier persona mayor de edad que integrante del hogar y que conozca las condiciones socioeconómicas, tales como, características de la vivienda, relaciones de parentesco y condiciones de salud, educación y trabajo de todos los miembros que lo conforman.
 
-ARTÍCULO
-
 ## art:2.2.8.1.5 — Implementación y uso del Sisbén
 
 De acuerdo con lo establecido en el artículo 94 de la Ley 715 de 2001, modificado por el artículo 24 de la Ley 1176 de 2007, el Sisbén es de obligatoria aplicación y uso para las entidades públicas del orden nacional y las entidades territoriales, al realizar gasto social.
@@ -11847,8 +10413,6 @@ De acuerdo con lo establecido en el artículo 94 de la Ley 715 de 2001, modifica
 Las entidades señaladas en el inciso anterior, y aquellas que la ley determine, definirán la forma en que utilizarán la información registrada en el Sisbén para el manejo de sus programas sociales, en función de los objetivos e impactos perseguidos, la naturaleza de los mismos, los criterios de ingreso, permanencia y salida de cada programa, así como de la información requerida.
 
 PARÁGRAFO . En el proceso de selección y asignación de beneficiarios de programas sociales, las entidades responsables de estos harán uso únicamente de los registros validados de la base de datos nacional certificada.
-
-ARTÍCULO
 
 ## art:2.2.8.1.6 — Custodia y reserva de la información registrada en el Sisbén
 
@@ -11859,8 +10423,6 @@ La información contenida en la base datos nacional certificada del Sisbén perm
 CAPÍTULO 2
 
 ADMINISTRACIÓN DEL SISBÉN
-
-ARTÍCULO
 
 ## art:2.2.8.2.1 — Actividades del DNP
 
@@ -11890,13 +10452,9 @@ Para la implementación, actualización, administración y operación del Sisbé
 
 PARÁGRAFO . El diseño de las bases de datos, los aplicativos, la imagen del Sisbén (logo y elementos del manual de imagen), y demás herramientas tecnológicas y metodológicas que adopte el DNP para la actualización, depuración, consolidación, certificación, validación y publicación de la base certificada son de, uso obligatorio por las entidades territoriales.
 
-ARTÍCULO
-
 ## art:2.2.8.2.2 — Metodología para la actualización del Sisbén
 
 El DNP determinará las condiciones para la actualización de la metodología del Sisbén por parte de las entidades territoriales teniendo en cuenta las necesidades del instrumento y las condiciones socioeconómicas que se pretenden identificar, así como los ajustes metodológicos, operativos y las condiciones tecnológicas requeridas para la captura, procesamiento y validación de la información.
-
-ARTÍCULO
 
 ## art:2.2.8.2.3 — 2.3
 
@@ -11907,8 +10465,6 @@ Con fundamento en esta información, el DNP consolidará la base de datos bruta 
 El DNP sólo incorporará a la base bruta nacional la información que se reciba dentro de los plazos y de acuerdo con las condiciones establecidas en la resolución a que se refiere el presente artículo.
 
 En tal sentido, el DNP no realizará procesos de validación ni publicará en la base nacional certificada la información o registros reportados de manera extemporánea o que no cumplan con las condiciones para tal fin. Tampoco realizará publicaciones extemporáneas o extraordinarias de la base nacional certificada.
-
-ARTÍCULO
 
 ## art:2.2.8.2.4 — Actividades de los municipios y distritos
 
@@ -11936,8 +10492,6 @@ Lo establecido en este artículo, se desarrollará de acuerdo con los lineamient
 
 PARÁGRAFO . El administrador municipal o distrital del Sisbén será responsable de la calidad de la información que se registre en la base de datos. Cuando el DNP evidencie la aplicación indebida de encuestas, presuntas falsedades o deficiencias en el seguimiento de los lineamientos técnicos respectivos, podrá recomendar a la entidad territorial el cambio del administrador, sin perjuicio de las acciones legales a que haya lugar.
 
-ARTÍCULO
-
 ## art:2.2.8.2.5 — Actividades de los departamentos
 
 Para la implementación, actualización, administración y operación del Sisbén, los departamentos apoyarán a los municipios. Para el efecto, acorde con su autonomía administrativa y financiera, determinarán la implementación de un coordinador, el cual desarrollará las siguientes actividades:
@@ -11964,8 +10518,6 @@ Lo establecido en este artículo, se desarrollará de acuerdo con los lineamient
 
 PARÁGRAFO . Cuando el DNP evidencie presuntas falsedades o deficiencias en el seguimiento de los lineamientos técnicos respectivos, podrá recomendar a la entidad territorial el cambio del administrador, sin perjuicio de las acciones legales a que haya lugar.
 
-ARTÍCULO
-
 ## art:2.2.8.2.6 — Suspensión de entidades territoriales para la actualización de las bases de datos
 
 En cumplimiento de la facultad prevista por el inciso tercero del artículo 24 de la Ley 1176 de 2007, para garantizar la efectividad del Sisbén, el DNP podrá ordenar la suspensión preventiva de la actualización de las bases de datos en aquellas entidades territoriales en las que existan circunstancias que afectan los criterios orientadores del Sisbén. La decisión se adoptará mediante acto administrativo motivado en el cual se indicarán las razones que justifican la suspensión y el periodo de duración de la misma, así como las acciones que se encaminen a superar esta situación.
@@ -11975,8 +10527,6 @@ La actuación se adelantará atendiendo a lo señalado en el Código de Procedim
 CAPÍTULO 3
 
 INCLUSIÓN, VALIDACIÓN, CONTROL DE CALIDAD Y EXCLUSIÓN DE REGISTROS
-
-ARTÍCULO
 
 ## art:2.2.8.3.1 — Inclusión en el Sisbén
 
@@ -11988,23 +10538,17 @@ En caso de presentarse inconformidad con la información registrada en la base d
 
 PARÁGRAFO . Las personas registradas en el Sisbén pueden solicitar en cualquier momento el retiro de su información ante el municipio o distrito en el que residen. Si la solicitud de retiro se hace a nombre de terceros se allegará la documentación que acredite la capacidad para actuar y la información que para el efecto determine el DNP.
 
-ARTÍCULO
-
 ## art:2.2.8.3.2 — Obligación de actualización de la información
 
 Las personas registradas en el Sisbén deben mantener actualizada su información, En caso de cambio del lugar de residencia se deberá solicitar la aplicación de una nueva encuesta ante la entidad territorial donde se ubique su nueva residencia.
 
 En virtud el principio de calidad de la información, el DNP podrá actualizar la información registrada en el Sisbén, como producto del cotejo de información con bases de datos oficiales.
 
-ARTÍCULO
-
 ## art:2.2.8.3.3 — Procesos de validación y controles de calidad
 
 Con el propósito de garantizar la calidad de la información de las personas registradas en el Sisbén, la misma estará sujeta a procesos de validación y controles de calidad aplicados por el DNP, que incluyen el cruce con bases de datos internas o externas, la obtención directa de información por el DNP o la entidad territorial, el cotejo de información con diferentes fuentes, y ejercicios de seguimiento aleatorio.
 
 El DNP podrá realizar estos procesos mediante visitas en sitio, especialmente en los eventos en los cuales mediante peticiones, quejas, reclamos o solicitudes (PQRS), procesos de validación y controles de calidad, se evidencie inexactitud o incongruencia de la información registrada. En estos casos se aplicará una nueva encuesta, la cual se sujetará a los términos de envío de la información por parte de la administración municipal para surtir un nuevo proceso de validación.
-
-ARTÍCULO
 
 ## art:2.2.8.3.4 — Eventos que dan lugar a registros "en verificación"
 
@@ -12028,8 +10572,6 @@ El DNP marcará "en verificación" los registros del Sisbén, en los siguientes 
 
 9. Cualquier otro tipo de inconsistencia que se identifique por parte de la entidad territorial o el DNP.
 
-ARTÍCULO
-
 ## art:2.2.8.3.5 — Validación o exclusión de los registros "en verificación"
 
 Corresponde a la entidad territorial decidir sobre la exclusión de los registros "en verificación" mediante acto administrativo o, en su lugar, solicitar la validación al DNP
@@ -12046,8 +10588,6 @@ La actuación se adelantará atendiendo a lo señalado en el Código de Procedim
 
 PARÁGRAFO . En caso de incumplimiento de lo señalado en el presente artículo por parte de las autoridades administrativas territoriales o sus agentes, el DNP lo informará a las autoridades competentes.
 
-ARTÍCULO
-
 ## art:2.2.8.3.6 — Exclusión de registros del Sisbén por el DNP
 
 Sin perjuicio señalado en el artículo anterior, el DNP podrá excluir directamente registros del Sisbén en los siguientes casos:
@@ -12060,13 +10600,9 @@ Sin perjuicio señalado en el artículo anterior, el DNP podrá excluir directam
 
 Efectuada la exclusión, el DNP lo comunicará a la entidad territorial respectiva, a las entidades que coordinan los programas sociales y a los organismos de control pertinentes.
 
-ARTÍCULO
-
 ## art:2.2.8.3.7 — Acceso y permanencia en programas sociales
 
 De conformidad con lo señalado en el artículo 2.2.8.1.5. del presente Decreto, las entidades que administran los programas sociales evaluarán y determinarán si las personas que han sido excluidas de la base de datos del Sisbén pueden acceder o continuar en un determinado programa.
-
-ARTÍCULO
 
 ## art:2.2.8.3.8 — Deber de denunciar
 
@@ -12076,15 +10612,11 @@ CAPÍTULO 4
 
 INTERCAMBIO DE INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.2.8.4.1 — Intercambio de información entre entidades públicas y particulares que ejercen funciones públicas
 
 En cumplimiento de lo establecido en los artículos 94 de la Ley 715 de 2001 y el artículo 159 de la Ley 1753 de 2015, las entidades públicas y los particulares que ejerzan funciones públicas, pondrán a disposición del DNP la información que generen, obtengan: adquieran, controlen y/o administren, con el fin de realizar la actualización y aplicar los procesos de validación y controles de calidad a que se refiere el presente Título. Para la entrega e intercambio de esta información no será necesario la suscripción de convenios, contratos o acuerdos de confidencialidad.
 
 El DNP establecerá mediante resolución los lineamientos técnicos y el protocolo para la entrega, suministro o puesta a disposición de dicha información, atendiendo a los principios y normas de protección de datos personales, de conformidad con lo dispuesto en las Leyes 1437 de 2011, 1581 de 2012 y 1712 de 2014 y demás normas que regulan la materia.
-
-ARTÍCULO
 
 ## art:2.2.8.4.2 — Convenios o acuerdos
 
@@ -12249,9 +10781,9 @@ SISBÉN: el Sistema de Identificación de Potenciales Beneficiarios de Programas
 
 Unidad de Gasto: es la persona o grupo de personas que forman parte de un hogar, que comparten la vivienda y tienen un presupuesto común para atender sus gastos de alimentación, servicios de la vivienda, equipamiento y otros gastos del hogar. La unidad de gasto principal la conforman el (la) jefe del hogar, sus parientes y no parientes. Los empleados del servicio doméstico de un hogar, los parientes de los empleados del servicio doméstico, los pensionados y parientes de pensionados, conforman unidades de gasto diferentes. De esta forma, en cada hogar hay por lo menos una unidad de gasto.
 
-## art:2.2..8.6.1.1.2 — Condiciones para la autodeclaración de información
+## art:2.2 — .8.6.1.1.2
 
-En aquellos eventos en que la persona de un hogar no cuente con información completa y/o actualizada en los registros administrativos que alimentan el Registro Social de Hogares -RSH, relacionada con datos socioeconómicos requeridos para definir el ordenamiento y la clasificación en el Registro Universal de Ingresos - RUI, éstas deberán realizar una autodeclaración por lo menos una (1) vez al año, de acuerdo con los canales, mecanismos, parámetros y periodicidad que establezca el Departamento Nacional de Planeación - DNP.
+Condiciones para la autodeclaración de información. En aquellos eventos en que la persona de un hogar no cuente con información completa y/o actualizada en los registros administrativos que alimentan el Registro Social de Hogares -RSH, relacionada con datos socioeconómicos requeridos para definir el ordenamiento y la clasificación en el Registro Universal de Ingresos - RUI, éstas deberán realizar una autodeclaración por lo menos una (1) vez al año, de acuerdo con los canales, mecanismos, parámetros y periodicidad que establezca el Departamento Nacional de Planeación - DNP.
 
 La autodeclaración se entenderá realizada por un informante calificado bajo la gravedad del juramento en los términos del artículo 7 del Decreto Ley 019 de 2012 y estará sujeta a verificación por parte del Departamento Nacional de Planeación — DNP a través de la información consignada en los registros administrativos. La información correspondiente a mercado laboral, ingresos y gastos deberá ser declarada de forma individual por cada uno de los integrantes del hogar mayores de 18 años.
 
@@ -12347,15 +10879,11 @@ CAPÍTULO 1
 
 PRESTACIÓN DE SERVICIOS PÚBLICOS DOMICILIARIOS POR LOS MUNICIPIOS
 
-ARTÍCULO
-
 ## art:2.2.9.1.1 — Campo de aplicación
 
 El presente capítulo se aplica a los municipios prestadores directos de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, de acuerdo con lo establecido en el inciso 3 del numeral 6.4 del artículo 6 de la Ley 142 de 1994.
 
 (Decreto 398 de 2002, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.9.1.2 — Diagnóstico de la situación de la prestación del servicio
 
@@ -12375,8 +10903,6 @@ PARÁGRAFO 2. Si no existiere Comité de Desarrollo y Control Social en el munic
 
 (Decreto 398 de 2002, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.9.1.3 — Invitación para seleccionar a una empresa
 
 Una vez emitido el concepto por el Comité de Desarrollo y Control Social, si a ello hubiere lugar, o transcurrido el término indicado en el artículo anterior, el Superintendente de Servicios Públicos Domiciliarios mediante resolución motivada adoptará la decisión de llevar a cabo una invitación para seleccionar a una empresa que preste el servicio público domiciliario de acueducto, alcantarillado o aseo. En acto separado ordenará la apertura de investigación para determinar la eventual responsabilidad de los Alcaldes y Administradores de los servicios públicos domiciliarios de acueducto, alcantarillado o aseo. Estos actos administrativos, serán notificados al alcalde del municipio.
@@ -12390,8 +10916,6 @@ El Superintendente de Servicios Públicos Domiciliarios fijará un plazo para la
 Las propuestas deberán ser entregadas, debidamente soportadas y dentro del término señalado por el acto de convocatoria, en sobre cerrado, en la Secretaría General de la Superintendencia de Servicios Públicos Domiciliarios.
 
 (Decreto 398 de 2002, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.9.1.4 — Comité Evaluador
 
@@ -12407,8 +10931,6 @@ PARÁGRAFO . Cuando de la evaluación de las condiciones futuras de la prestaci�
 
 (Decreto 398 de 2002, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.9.1.5 — Selección de la empresa y servidumbre
 
 En el acto administrativo de selección, el Superintendente de Servicios Públicos Domiciliarios impondrá al municipio, en virtud del inciso 3 del numeral 6.4 del artículo 6 de la Ley 142 de 1994, servidumbre sobre los bienes municipales necesarios para que la empresa pueda operar.
@@ -12416,8 +10938,6 @@ En el acto administrativo de selección, el Superintendente de Servicios Públic
 Así mismo, en dicho acto administrativo se indicarán las responsabilidades de la empresa prestadora de servicios públicos domiciliarios frente a la conservación y el mantenimiento de los aludidos bienes e instalaciones.
 
 (Decreto 398 de 2002, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.9.1.6 — Plazo
 
@@ -12427,23 +10947,17 @@ La empresa de servicios públicos seleccionada informará al alcalde, con seis (
 
 (Decreto 398 de 2002, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.9.1.7 — Tarifas
 
 Las tarifas serán las que resulten del estudio de las condiciones futuras de prestación del servicio respectivo, de acuerdo con las posibilidades financieras, los requerimientos de inversión y las posibilidades de obtención de recursos para mejoras en la eficiencia, de conformidad con la regulación vigente. Estas tarifas se presentarán a la Comisión de Regulación de Agua Potable y Saneamiento Básico, de requerirse modificaciones a las fórmulas tarifarias vigentes en el municipio o distrito respectivo.
 
 (Decreto 398 de 2002, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.9.1.8 — Remuneración
 
 La remuneración de la empresa seleccionada provendrá del cobro de las tarifas dentro de los límites establecidos en la regulación para la tasa de descuento o remuneración del capital y para los gastos de operación y administración.
 
 (Decreto 398 de 2002, artículo 8)
-
-ARTÍCULO
 
 ## art:2.2.9.1.9 — Recursos para la financiación
 
@@ -12453,15 +10967,11 @@ PARÁGRAFO . Los recursos que se obtengan para el financiamiento de los concepto
 
 La Superintendencia de Servicios Públicos Domiciliarios, en el acto administrativo mediante el cual seleccione al operador especializado para la prestación del servicio público de acueducto, alcantarillado y aseo, definirá los términos y las condiciones bajo las cuales se constituirán las fiducias necesarias para el manejo de los recursos de que trata este artículo. (Decreto 398 de 2002, artículo 9; Decreto 1248 de 2004, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.9.1.10 — Reversión de bienes a favor del municipio
 
 Vencido el plazo para la prestación del servicio, señalado por el Superintendente de Servicios Públicos Domiciliarios en la invitación, la empresa operadora entregará el servicio y los bienes al municipio o a la empresa que éste indique, para que garantice la continuidad en la prestación del servicio público domiciliario.
 
 (Decreto 398 de 2002, artículo 10)
-
-ARTÍCULO
 
 ## art:2.2.9.1.11 — Coordinación y colaboración
 
@@ -12469,23 +10979,17 @@ Las autoridades territoriales adoptarán las medidas administrativas correspondi
 
 (Decreto 398 de 2002, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.9.1.12 — Autoridades municipales
 
 De conformidad con el artículo 178 de la Ley 142 de 1994, para los efectos de este capítulo, siempre que se hable de municipios y de sus autoridades, se considerarán incluidos también los distritos, los territorios indígenas que se constituyan como entidades territoriales, y el departamento de San Andrés y Providencia; y aquellas autoridades suyas que puedan asimilarse con más facilidad a las correspondientes autoridades municipales.
 
 (Decreto 398 de 2002, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.9.1.13 — Responsabilidad del municipio
 
 Independientemente del prestador del servicio público domiciliario, el municipio continuará con sus responsabilidades constitucionales y legales en la materia.
 
 (Decreto 398 de 2002, artículo 13)
-
-ARTÍCULO
 
 ## art:2.2.9.1.14 — Creación de empresas de servicios públicos de carácter regional
 
@@ -12500,8 +11004,6 @@ PARÁGRAFO . Para la designación del supervisor del Contrato, la Superintendenc
 CAPÍTULO 2
 
 ESTRATIFICACIONES URBANAS Y RURALES
-
-ARTÍCULO
 
 ## art:2.2.9.2.1 — Causales de renuencia de las autoridades a realizar o adoptar las estratificaciones
 
@@ -12523,23 +11025,17 @@ Son causales de renuencia de las autoridades a realizar o adoptar las estratific
 
 (Decreto 1538 de 1996, artículo 4)
 
-ARTÍCULO
-
 ## art:2.2.9.2.2 — Renuencia
 
 Derogado por el Art 4. del Decreto 1042 de 2022. Establecida la renuncia de las autoridades municipales y distritales, los gobernadores deberán comunicar dicha situación, en forma inmediata, a la Procuraduría General de la Nación, con copias a la Fiscalía General de la Nación, a la Contraloría General de la República, a la Superintendencia de Servicios Públicos Domiciliarios y al Departamento Nacional de Planeación, con el objeto de que se tomen las medidas correspondientes.
 
 (Decreto 1538 de 1996, artículo 6)
 
-ARTÍCULO
-
 ## art:2.2.9.2.3 — Gastos de estratificación
 
 Derogado por el Art 4. del Decreto 1042 de 2022. Cuando en el presupuesto del departamento no exista rubro presupuesta! o éste sea insuficiente para atender los gastos que demande el proceso de estratificación de un municipio o distrito en las causales de renuencia descritas en el artículo 2.2.9.2.1 de este decreto, el gobernador deberá adelantar el procedimiento contemplado en el artículo 101.11 de la ley 142 de 1994.
 
 (Decreto 1538 de 1996, artículo 7)
-
-ARTÍCULO
 
 ## art:2.2.9.2.4 — Responsabilidades
 
@@ -12551,8 +11047,6 @@ Los alcaldes que por razones diferentes a lo dispuesto en este parágrafo hayan 
 
 (Decreto 1538 de 1996, artículo 11)
 
-ARTÍCULO
-
 ## art:2.2.9.2.5 — Perjuicios
 
 Las entidades prestadoras de los servicios públicos domiciliarios serán responsables por los perjuicios que ocasionen a los usuarios por la aplicación incorrecta de los decretos de adopción de las estratificaciones.
@@ -12563,23 +11057,17 @@ Cuando la facturación al usuario se haga en un estrato inferior al que le corre
 
 (Decreto 1538 de 1996, artículo 12)
 
-ARTÍCULO
-
 ## art:2.2.9.2.6 — Certificación
 
 La Nación podrá solicitar a la Superintendencia de Servicios Públicos Domiciliarios, la certificación de que trata el artículo 101.9 de la Ley 142 de 1994, para otorgar subsidios con recursos del Presupuesto Nacional.
 
 (Decreto 1538 de 1996, artículo 14)
 
-ARTÍCULO
-
 ## art:2.2.9.2.7 — Normas aplicables a Bogotá D.C
 
 Los artículos 2.2.9.2.4 a 2.2.9.2.6 del presente decreto se aplicarán al Distrito Capital de Bogotá.
 
 (Decreto 1538 de 1996, artículo 15)
-
-ARTÍCULO
 
 ## art:2.2.9.2.8 — Corrección de inconsistencias
 
@@ -12591,8 +11079,6 @@ CAPÍTULO 3
 
 IMPEDIMENTOS Y RECUSACIONES ANTE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS
 
-ARTÍCULO
-
 ## art:2.2.9.3.1 — Designación funcionario ad-hoc - Impedimentos miembros de las Comisión de Regulación
 
 En los eventos en que la Superintendencia de Servicios Públicos Domiciliarios, o la persona que tenga la competencia de conformidad con lo establecido en la ley, separe del conocimiento a uno o más miembros de las Comisiones de Regulación por la existencia de causales constitutivas de impedimento o recusación, en virtud de lo dispuesto en el artículo 110 de la Ley 142 de 1994, se deberá expedir, además del acto administrativo en el que se decida el impedimento o la recusación, un acto administrativo designando el funcionario ad hoc, y si el designado es un particular además se señalará sus honorarios. Los plazos y condiciones para la posesión deberán ser aquellos previstos en las normas legales vigentes para los funcionarios públicos.
@@ -12603,8 +11089,6 @@ PARÁGRAFO . Cuando el designado no se desempeñe como servidor público, se deb
 
 (Decreto 3243 de 2004, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.9.3.2 — Honorarios funcionario ad-hoc
 
 Para efectos de determinar el monto de los honorarios de los particulares designados como funcionarios ad hoc por la Superintendencia de Servicios Públicos Domiciliarios, esta tendrá en cuenta lo que el designado ad hoc demuestre que gana en actividades similares, sin que se supere la remuneración asignada al experto titular.
@@ -12612,8 +11096,6 @@ Para efectos de determinar el monto de los honorarios de los particulares design
 PARÁGRAFO . El pago de los honorarios por la labor encomendada a los designados ad hoc señalados en este artículo podrá establecerse por la Superintendencia de Servicios Públicos Domiciliarios para periodos quincenales, mensuales o al finalizar el objeto de la designación. Los gastos que se ocasionen para el cumplimiento de estas funciones estarán a cargo del presupuesto de la Comisión de Regulación respectiva.
 
 (Decreto 3243 de 2004, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.9.3.3 — No remuneración adicional por designación de servidores públicos como funcionario ad-hoc
 
@@ -12625,15 +11107,11 @@ CAPÍTULO 4
 
 FONDO EMPRESARIAL
 
-ARTÍCULO
-
 ## art:2.2.9.4.1 — Fondo Empresarial
 
 El Fondo Empresarial es un patrimonio autónomo sujeto a lo dispuesto por el artículo 247 de la Ley 1450 del 2011, o la norma que to modifique, adicione o sustituya, a este capítulo y a las demás normas aplicables a su funcionamiento.
 
 (Modificado por el Art. 17 del Decreto 1042 de 2022).
-
-ARTÍCULO
 
 ## art:2.2.9.4.2 — Objeto y uso de los recursos
 
@@ -12642,8 +11120,6 @@ Con el objeto de garantizar la viabilidad y la continuidad en la prestación del
 El financiamiento por parte del Fondo Empresarial a las empresas intervenidas podrá instrumentarse a través de contratos de mutuo, otorgamiento de garantías a favor de terceros, o cualquier otro mecanismo de carácter financiero que permita o facilite el cumplimiento del objeto del Fondo Empresarial.
 
 El Fondo Empresarial podrá igualmente contratar y/o apoyar el pago de las actividades profesionales requeridas en áreas financieras, técnicas, legales y logísticas a la Superintendencia de Servicios Públicos Domiciliarios y a la empresa objeto de toma de posesión, así como los estudios necesarios para determinar la procedencia de la medida de toma de posesión y las medidas preventivas de acuerdo con lo establecido en la Ley 142 de 1994.
-
-ARTÍCULO
 
 ## art:2.2.9.4.3 — Recursos del Fondo Empresarial
 
@@ -12661,8 +11137,6 @@ e). Los demás que obtenga a cualquier título.
 
 PARÁGRAFO . Además de los recursos del Fondo Empresarial derivados de las fuentes señaladas en el presente artículo, el patrimonio del Fondo Empresarial estará integrado por todos los bienes, derechos y recursos de su propiedad, necesarios para el cumplimiento de su objeto y funciones.
 
-ARTÍCULO
-
 ## art:2.2.9.4.4 — Operaciones pasivas de crédito del Fondo Empresarial
 
 Las operaciones pasivas de crédito interno o externo de que trata el literal d) del artículo 247 de la Ley 1450 de 2011, o la norma que lo modifique, adicione o sustituya, que celebre el Fondo Empresarial a su nombre, requerirán de la autorización del Ministerio de Hacienda y Crédito Público, previa aprobación de la operación por parte de la Dirección General de Crédito Público y Tesoro Nacional.
@@ -12674,8 +11148,6 @@ PARÁGRAFO. El Ministerio de Hacienda y Crédito Público podrá autorizar la ce
 La mencionada autorización se otorgará mediante oficio suscrito por el Ministro de Hacienda y Crédito Público, en el que consten las condiciones financieras indicativas de la operación. Para tal efecto, el Fondo Empresarial deberá encontrarse a paz y salvo por concepto de operaciones de crédito. y presentar al menos dos (2) ofertas financieras indicativas.
 
 (Modificado por el Art. 18 del Decreto 1042 de 2022).
-
-ARTÍCULO
 
 ## art:2.2.9.4.5 — 4.5
 
@@ -12691,13 +11163,9 @@ PARÁGRAFO . Cuando alguna obligación de pago del Fondo Empresarial sea garanti
 
 Cuando alguna obligación de pago del Fondo Empresarial sea garantizada por la Nación, éste deberá aportar al Fondo de Contingencias de las Entidades Estatales, de acuerdo con lo establecido por el Título 2 de la Parte 4 del Libro 2 del Decreto 1068 de 2015 o las normas que lo modifiquen, sustituyan o adicionen. Para efectos del cálculo de4 plan de aportes al mencionado fondo por parte del Fondo Empresarial, se deberá tener en cuenta que su riesgo de crédito es el mismo de la Nación, en atención a que el fideicomitente del patrimonio autónomo es la Superintendencia de Servicios Públicos Domiciliarios.
 
-ARTÍCULO
-
 ## art:2.2.9.4.6 — 4.6
 
 Aplicación subsidiaria de las normas de crédito público, Las disposiciones relativas a la celebración de operaciones de crédito público previstas en el Decreto 1068 de 2015, se aplicarán al Fondo Empresarial en lo no reglamentado en este capítulo, en cuanto sean compatibles.
-
-ARTÍCULO
 
 ## art:2.2.9.4.7 — Medidas de sostenibilidad financiera del Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios
 
@@ -12707,8 +11175,6 @@ Las medidas de sostenibilidad financiera incluirán operaciones de crédito púb
 
 (Adicionado por el Art. 1 del Decreto 2223 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.9.4.8 — Operaciones de crédito público
 
 Las operaciones de crédito público interno o externo, de corto o largo plazo, las operaciones asimiladas, las operaciones propias del manejo de deuda pública, y las conexas con las anteriores, con excepción de los sobregiros que celebre el Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios como medidas de sostenibilidad financiera tendientes a garantizar la prestación del servicio público de energía en la Costa Caribe, requerirán la autorización por parte del Ministerio de Hacienda y Crédito Público, previa aprobación del Comité de Tesorería del Ministerio de Hacienda y Crédito Público.
@@ -12716,8 +11182,6 @@ Las operaciones de crédito público interno o externo, de corto o largo plazo, 
 El Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios deberá informar a la Dirección General de Crédito Público y Tesoro Nacional la adquisición de sobregiros bancarios, dentro de los cinco (5) días siguientes a la recepción de tales recursos.
 
 (Adicionado por el Art. 1 del Decreto 2223 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.9.4.9 — Créditos de Tesorería otorgados por la Nación
 
@@ -12749,8 +11213,6 @@ PARÁGRAFO 4. Para efectos de seguimiento por parte del Ministerio de Hacienda y
 
 (Adicionado por el Art. 1 del Decreto 2223 de 2019)
 
-ARTÍCULO
-
 ## art:2.2.9.4.10 — Garantías de la Nación
 
 La Nación - Ministerio de Hacienda y Crédito Público podrá otorgar garantías a las operaciones de crédito público que pretenda celebrar el Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios con terceros, como medidas de sostenibilidad financiera de la que trata los artículos 2.2.9.4.7. y 2.2.9.4.8, una vez se cumpla con lo siguiente:
@@ -12762,8 +11224,6 @@ La Nación - Ministerio de Hacienda y Crédito Público podrá otorgar garantía
 3. Autorización del Ministerio de Hacienda y Crédito Público para celebrar la operación de financiamiento que va a ser garantizada por la Nación. La autorización incluye la aprobación de las minutas de contrato de crédito por parte de la Dirección de Crédito Público y Tesoro Nacional.
 
 (Adicionado por el Art. 1 del Decreto 2223 de 2019)
-
-ARTÍCULO
 
 ## art:2.2.9.4.11 — Garantías, Contragarantías y Aportes al Fondo de Contingencias
 
@@ -12778,8 +11238,6 @@ Derogado por el Art 6. del Decreto 1042 de 2022.
 (Capítulo, Adicionado por el Art. 1 del Decreto 281 de 2017)
 
 CRITERIOS Y METODOLOGÍA PARA GRADUAR Y CALCULAR LAS MULTAS POR PARTE DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS POR INFRACCIONES RELACIONADAS CON EL SERVICIO DE ENERGÍA ELÉCTRICA
-
-ARTÍCULO
 
 ## art:2.2.9.5.1 — 5.1
 
@@ -12808,8 +11266,6 @@ Corresponde al costo de oportunidad del agente infractor y los recursos que ést
 f) Efectos en los usuarios u otros agentes de la cadena de valor.
 
 Corresponde a la afectación de los derechos del suscriptor o usuario, así como a los efectos económicos negativos que la conducta infractora haya ocasionado en otros agentes de la respectiva cadena de prestación del servicio.
-
-ARTÍCULO
 
 ## art:2.2.9.5.2 — 5.2
 
@@ -12843,8 +11299,6 @@ Para definir en cada caso el valor a que hace referencia el presente numeral, la
 
 (iii) En tercer lugar, para determinar el valor final de la multa, el valor de referencia se podrá disminuir o aumentar de manera motivada, cuando a ello haya lugar, atendiendo a las circunstancias de atenuación y agravación descritas en el artículo 2.2.9.5.3 del presente decreto y dentro de los límites señalados en el artículo 2.2.9.5.4 del mismo.
 
-ARTÍCULO
-
 ## art:2.2.9.5.3 — 5.3
 
 Circunstancias de atenuación y de agravación de la multa por infracciones relacionadas con el servicio de energía eléctrica. La Superintendencia de Servicios Públicos Domiciliarios evaluará las siguientes circunstancias de atenuación y agravación de la multa, por infracciones relacionadas con el servicio de energía eléctrica, según resulten procedentes:
@@ -12867,8 +11321,6 @@ Otras causales de agravación o atenuación.
 
 (vi) Las demás establecidas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
-ARTÍCULO
-
 ## art:2.2.9.5.4 — 5.4
 
 Proporcionalidad y razonabilidad de la sanción por infracciones relacionadas con el servicio de energía eléctrica en atención a la capacidad económica del infractor. Con el propósito de no poner en riesgo la prestación, calidad, continuidad y eficiencia en la prestación del servicio público de energía eléctrica, la Superintendencia de Servicios Públicos Domiciliarios graduará y calculará la multa atendiendo la capacidad económica del infractor.
@@ -12881,15 +11333,11 @@ De acuerdo con el artículo 81.2 de la Ley 142 de 1994, el valor final de la mul
 
 La Superintendencia de Servicios Públicos Domiciliarios motivará y justificará, en cada caso, el cálculo del monto de la multa conforme a los criterios establecidos en el presente decreto, ateniendo a los principios de proporcionalidad y razonabilidad, especialmente cuando se aparte de decisiones previas sobre casos similares.
 
-ARTÍCULO
-
 ## art:2.2.9.5.5 — Multas para personas naturales
 
 La Superintendencia de Servicios Públicos Domiciliarios aplicará en lo pertinente la metodología establecida en el presente decreto para determinar el monto de la multa imponible a las personas naturales que infrinjan las normas a las que están sujetos quienes presten servicios públicos, por infracciones relacionadas con el servicio de energía eléctrica, previo análisis de la culpa en la comisión de la infracción.
 
 PARÁGRAFO . Para establecer la capacidad económica de las personas naturales se tendrá en cuenta el patrimonio del infractor y sus ingresos.
-
-ARTÍCULO
 
 ## art:2.2.9.5.6 — Concordancias
 
@@ -12904,8 +11352,6 @@ Derogado por el Art 6. del Decreto 1042 de 2022.
 (Adicionado por el Decreto 1158 de 2017,art.1)
 
 CRITERIOS Y METODOLOGÍA PARA GRADUAR Y CALCULAR LAS MULTAS POR PARTE DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS POR INFRACCIONES RELACIONADAS CON LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO.
-
-ARTÍCULO
 
 ## art:2.2.9.6.1 — 6.1
 
@@ -12934,8 +11380,6 @@ Corresponde a los recursos que el agente infractor obtuvo de los usuarios finale
 f) Efectos en los usuarios u otros agentes de la cadena de valor
 
 Corresponde a la afectación de los derechos del suscriptor o usuario, así como a los efectos económicos negativos que la conducta infractora haya ocasionado en otros agentes de la respectiva cadena de prestación del servicio.
-
-ARTÍCULO
 
 ## art:2.2.9.6.2 — 6.2
 
@@ -12967,8 +11411,6 @@ Para definir en cada caso el valor a que hace referencia el presente numeral, la
 
 (iii) En tercer lugar, para determinar el valor final de la multa, el valor de referencia se disminuirá o aumentará de manera motivada, atendiendo a las circunstancias de atenuación y agravación descritas en el artículo 2.2.9.6.3 del presente decreto y dentro de los límites señalados en el artículo 2.2.9.6.4. del mismo.
 
-ARTÍCULO
-
 ## art:2.2.9.6.3 — 6.3
 
 Circunstancias de atenuación y de agravación de las multas por infracciones relacionadas con los servicios públicos domiciliarios de acueducto, alcantarillado y aseo. La Superintendencia de Servicios Públicos Domiciliarios evaluará las siguientes circunstancias de atenuación y agravación de las multas por infracciones relacionadas con los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, según resulten procedentes:
@@ -12991,8 +11433,6 @@ Otras Causales de agravación o atenuación.
 
 (vi) Las demás establecidas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
-ARTÍCULO
-
 ## art:2.2.9.6.4 — 6.4
 
 Proporcionalidad de la sanción por infracciones relacionadas con los servicios públicos domiciliarios de acueducto, alcantarillado y aseo. Con el propósito de no poner en riesgo la prestación eficiente de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, la Superintendencia de Servicios Públicos Domiciliarios graduará la multa atendiendo la capacidad económica del infractor.
@@ -13003,15 +11443,11 @@ El valor final de la multa, no podrá ser inferior a los beneficios económicos 
 
 De acuerdo con el artículo 81.2 de la Ley 142 de 1994, el valor final de la multa no podrá superar el monto de cien mil (100.000) salarios mínimos mensuales legales vigentes, para personas jurídicas. Igualmente, la multa no podrá poner al infractor injustificadamente en causal de toma de posesión, de disolución, o de la toma de la prestación del servicio regulada en el artículo 6 de la misma ley, ni poner en riesgo la prestación de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo.
 
-ARTÍCULO
-
 ## art:2.2.9.6.5 — Multas para personas naturales
 
 La Superintendencia de Servicios Públicos Domiciliarios aplicará en lo pertinente la metodología establecida en el presente decreto para determinar el monto de la multa por infracciones relacionadas con los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, imponible a las personas naturales que infrinjan las normas a las que están sujetos quienes presten servicios públicos, previo análisis de la culpa, relativa a su participación en la comisión de la infracción.
 
 PARÁGRAFO . Para establecer la capacidad económica de las personas naturales se tendrá en cuenta el patrimonio del infractor o sus ingresos.
-
-ARTÍCULO
 
 ## art:2.2.9.6.6 — Concordancias
 
@@ -13025,13 +11461,9 @@ Derogado por el Art 6. del Decreto 1042 de 2022.
 
 CRITERIOS Y METODOLOGÍA PARA GRADUAR Y CALCULAR LAS MULTAS POR PARTE DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS POR INFRACCIONES RELACIONADAS CON EL SERVICIO DE GAS COMBUSTIBLE
 
-ARTÍCULO
-
 ## art:2.2.9.7.1 — Servicio de Gas Combustible
 
 Para efectos de este decreto entiéndase por servicio de. Gas Combustible, el conjunto de actividades comprendidas en el artículo 14.28 de la Ley 142 de 1994 o la norma que la modifique, sustituya o complemente.
-
-ARTÍCULO
 
 ## art:2.2.9.7.2 — 7.2
 
@@ -13060,8 +11492,6 @@ Corresponde al costo de oportunidad del agente infractor y los recursos que este
 f) Efectos en los usuarios u otros agentes de la cadena de valor.
 
 Corresponde a la afectación de los derechos del suscriptor o usuario, así como a los efectos económicos negativos que la conducta infractora haya ocasionado en otros agentes de la respectiva cadena de prestación del servicio.
-
-ARTÍCULO
 
 ## art:2.2.9.7.3 — 7.3
 
@@ -13095,8 +11525,6 @@ Para definir en cada caso el valor a que hace referencia el presente numeral, la
 
 (iii) En tercer lugar, para determinar el valor final de la multa, el valor de referencia se podrá disminuir o aumentar de manera motivada, atendiendo a las circunstancias de atenuación y agravación descritas en el artículo 2.2.9.7.4 del presente decreto y dentro de los limites señalados en el artículo 2.2.9.7.5 del mismo.
 
-ARTÍCULO
-
 ## art:2.2.9.7.4 — Circunstancias de atenuación y de agravación de la multa por infracciones relacionadas con el servicio Gas Combustible
 
 La Superintendencia de Servicios Públicos Domiciliarios evaluara las siguientes circunstancias de atenuación y agravación de la multa, por infracciones relacionadas con el servicio de Gas Combustible, según resulten procedentes:
@@ -13119,8 +11547,6 @@ Otras causales de agravación o atenuación.
 
 (vi) Las demás establecidas en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
-ARTÍCULO
-
 ## art:2.2.9.7.5 — 7.5
 
 Proporcionalidad y razonabilidad de la sanción por infracciones relacionadas con el servicio de Gas Combustible en atención a la capacidad económica del infractor. Con el propósito de no poner en riesgo la prestación, calidad, continuidad y eficiencia en la prestación del servicio público de Gas Combustible, la Superintendencia de Servicios Públicos Domiciliarios graduara y calculara la multa atendiendo la capacidad económica del infractor.
@@ -13133,15 +11559,11 @@ De acuerdo con el artículo 81.2 de la Ley 142 de 1994, el valor final de la mul
 
 La Superintendencia de Servicios Públicos Domiciliarios motivara y justificara, en cada caso, el cálculo del monto de la multa conforme a los criterios establecidos en el presente decreto, ateniendo a los principios de proporcionalidad y razonabilidad, especialmente cuando se aparte de decisiones previas sabré casos similares.
 
-ARTÍCULO
-
 ## art:2.2.9.7.6 — Multas para personas naturales
 
 La Superintendencia de Servicios Públicos Domiciliarios aplicará en lo pertinente la metodología establecida en el presente decreto para determinar el monto de la multa imponible a las personas naturales que infrinjan las normas a las que están sujetos quienes presten servicios públicos, por infracciones relacionadas con el servicio de Gas Combustible, previo análisis de la culpa en la comisión de la infracción.
 
 PARÁGRAFO . Para establecer la capacidad económica de las personas naturales se tendrá en cuenta el patrimonio del infractor y sus ingresos.
-
-ARTÍCULO
 
 ## art:2.2.9.7.7 — Concordancias
 
@@ -13155,8 +11577,6 @@ Las disposiciones previstas en el presente decreto se sujetaran a los principios
 
 Sección 1: CONDICIONES DE ASUNCIÓN POR LA NACIÓN DEL PASIVO PENSIONAL Y PRESTACIONAL A CARGO DE ELECTRIFICADORA DEL CARIBE S.A. E.S.P.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.1 — Asunción del Pasivo Pensional y Prestacional
 
 La Nación asumirá, a partir del 01 de febrero de 2020 y a través del Fondo Nacional del Pasivo Pensional y Prestacional de la Electrificadora del Caribe S.A. E.S.P. - FONECA de que trata la presente sección, las pensiones ciertas o contingentes y las obligaciones convencionales ciertas o contingentes adquiridas por la causación del derecho de pensión convencional de jubilación y/o legal de vejez, a cargo de Electrificadora del Caribe S.A. E.S.P.
@@ -13164,8 +11584,6 @@ La Nación asumirá, a partir del 01 de febrero de 2020 y a través del Fondo Na
 PARÁGRAFO 1. Asumido el pasivo en los términos previstos en el presente artículo y de conformidad con lo dispuesto en el artículo 316 de la Ley 1955 de 2019, el FONECA será el único deudor frente a los acreedores de las obligaciones respectivas, sin perjuicio de la responsabilidad subsidiaria de la Nación prevista en dicha Ley. En ningún caso las sociedades que lleguen a constituirse para continuar, de manera total o parcial, con la prestación del servicio a cargo de Electrificadora del Caribe S.A. E.S.P. como resultado o con ocasión de la solución empresarial adoptada serán responsables por el pasivo pensional y prestacional.
 
 PARÁGRAFO 2. La asunción por la Nación del pasivo pensional y prestacional a cargo de Electrificadora del Caribe S.A. E.S.P., no hace al Ministerio de Hacienda y Crédito Público un sujeto con interés jurídico, sucesor procesal o parte interesada en las actuaciones administrativas y/o en las acciones judiciales de cualquier naturaleza, que tengan por propósito la reclamación de derechos pensionales o prestacionales asociados, de carácter particular y concreto.
-
-ARTÍCULO
 
 ## art:2.2.9.8.1.2 — Cálculos Actuariales y Proyecciones Financieras
 
@@ -13181,27 +11599,19 @@ El cálculo actuarial y sus proyecciones financieras deberán ser objeto de modi
 
 La determinación del cálculo actuarial o cualquier modificación posterior no afectará la asunción prevista en el Artículo 2.2.9.8.1.1 del presente decreto para efectos de la adopción de la solución empresarial ni los derechos de los pensionados, presentes y futuros de Electrificadora del Caribe S.A. E.S.P.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.3 — Personas No Incluidas en el Cálculo Actuarial
 
 Para que proceda el pago de otras obligaciones pensionales no previstas en el cálculo actuarial, será necesario que el interesado acredite su derecho ante el FONECA, cumpliendo con la normativa vigente, de modo que se elabore el cálculo actuarial correspondiente y se obtenga su aprobación por parte de la Superintendencia de Servicios Públicos Domiciliarios. Lo anterior, sin perjuicio de las responsabilidades a que haya lugar por errores u omisiones en la elaboración del cálculo actuarial.
 
 PARÁGRAFO . Cada vez que la Superintendencia de Servicios Públicos Domiciliarios apruebe modificaciones al cálculo actuarial, ésta procederá a remitir la información respectiva a la Dirección General de Regulación Económica de la Seguridad Social del Ministerio de Hacienda y Crédito Público.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.4 — Derechos Pensionales y Prestacionales Asumidos
 
 De conformidad con lo previsto en el parágrafo segundo del artículo 316 de la Ley 1955 de 2019, el reconocimiento y pago de los derechos pensionales y prestacionales asumidos en virtud del artículo 2.2.9.8.1.1. del presente Decreto, seguirán rigiéndose por las normas vigentes sobre la materia y la jurisdicción competente continuará siendo la justicia laboral ordinaria.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.5 — Monto de las Cuentas por Cobrar que se Generen
 
 El monto de las cuentas por cobrar a cargo de Electrificadora del Caribe S.A. E.S.P., que la Nación recibirá como contraprestación por la asunción del pasivo descrito en el presente Decreto, será determinado por el CONPES con base en el cálculo actuarial del pasivo pensional de que trata el artículo 2.2.9.8.1.2 del presente decreto.
-
-ARTÍCULO
 
 ## art:2.2.9.8.1.6 — Fondo Nacional del Pasivo Pensional y Prestacional de la Electrificadora del Caribe S.A
 
@@ -13231,8 +11641,6 @@ PARÁGRAFO 2. El contrato de fiducia mercantil deberá contemplar todas las atri
 
 PARÁGRAFO 3. En el comité fiduciario que se constituya para el efecto, que tendrá funciones exclusivas de seguimiento, participarán al menos un delegado del Ministerio de Minas y Energía, un delegado del Ministerio de Hacienda y Crédito Público y un delegado de la Superintendencia de Servicios Públicos Domiciliarios.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.7 — Recursos del Fondo Nacional del Pasivo Pensional y Prestacional de la Electrificadora del Caribe S.A
 
 E.S.P. - FONECA. En los términos del parágrafo segundo del artículo 315 de la Ley 1955 de 2019, para el cumplimiento de su objeto, el FONECA contará con los siguientes recursos:
@@ -13253,25 +11661,17 @@ E.S.P. - FONECA. En los términos del parágrafo segundo del artículo 315 de la
 
 PARÁGRAFO . Los recursos del Presupuesto General de la Nación que se destinen para atender los pasivos de que trata el presente decreto estarán sujetos a la disponibilidad de recursos del Marco Fiscal de Mediano Plazo y el Marco de Gasto Mediano Plazo de los sectores afectados.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.8 — Gestión Temporal del Pasivo Pensional y Prestacional a Cargo de Electrificadora del Caribe S.A
 
 E.S.P. Derogado por el Art 5. del Decreto 1042 de 2022. A partir de la fecha de la efectiva asunción por la Nación del pasivo de que trata esta sección y durante el tiempo que sea necesario para que FONECA inicie la actividad de gestión del pasivo, el cual en todo caso no podrá ser posterior al 31 de diciembre de 2020, Electrificadora del Caribe S.A. E.S.P., llevará a cabo las citadas actividades, para lo cual, mensualmente elaborará las proyecciones de la nómina y la de los demás pagos que legalmente deban efectuarse, para que dichas obligaciones sean atendidas con cargo a los recursos del FONECA. Durante este periodo, Electrificadora del Caribe S.A. E.S.P hará los pagos correspondientes y expedirá las cuentas por cobrar al FONECA.
-
-ARTÍCULO
 
 ## art:2.2.9.8.1.9 — Alistamiento de Información, Expedientes y Soportes Magnéticos
 
 A partir de la fecha de entrada en vigencia de este decreto, la Electrificadora del Caribe S.A. E.S.P., procederá a establecer un plan de acción que garantice en condiciones óptimas de seguridad, el alistamiento de toda la información contenida en cualquier soporte, relacionada con los expedientes pensionales, memorias institucionales, líneas estratégicas de defensa judicial, expedientes de reclamaciones administrativas, de procesos judiciales activos y terminados, así como de la información financiera y contable relacionada con la gestión del pasivo asumido por la Nación en los términos del presente capítulo, tomando en consideración los estándares previstos para el efecto por el Archivo General de la Nación.
 
-ARTÍCULO
-
 ## art:2.2.9.8.1.10 — Defensa Judicial
 
 Para asegurar que en todo momento se cuente con la defensa técnica de la posición procesal de Electrificadora del Caribe S.A. E.S.P., en los procesos judiciales relativos al pasivo asumido mediante el presente Decreto, antes de que FONECA asuma la defensa respectiva se efectuarán en forma coordinada, entre los sujetos comprendidos en la transición de la defensa judicial, las acciones que aseguren que en los respectivos procesos se reconozca la situación sobreviniente por la asunción de la posición procesal por parte de Fiduprevisora S.A. en su calidad de vocera del Patrimonio Autónomo FONECA.
-
-ARTÍCULO
 
 ## art:2.2.9.8.1.11 — Certificaciones Laborales
 
@@ -13280,8 +11680,6 @@ Las certificaciones laborales de los trabajadores retirados de Electrificadora d
 SECCIÓN 2:
 
 CONDICIONES PARA LA ASUNCIÓN DEL PASIVO ASOCIADO AL FONDO EMPRESARIAL A CARGO DE ELECTRIFICADORA DEL CARIBE S.A. E.S.P.
-
-ARTÍCULO
 
 ## art:2.2.9.8.2 — Asunción del Pasivo Asociado al Fondo Empresarial
 
@@ -13299,13 +11697,9 @@ La Nación Ministerio de Hacienda y Crédito Público asumirá a través del ser
 
 6. Las obligaciones de la Electrificadora del Caribe S.A. E.S.P. con el Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios, que tengan su origen en recursos propios de dicho Fondo continuarán a cargo de la Electrificadora del Caribe S.A. E.S.P. y no se predicará solidaridad sobre las mismas con las sociedades que se constituyan en el marco de una solución empresarial de largo plazo.
 
-ARTÍCULO
-
 ## art:2.2.9.8.2.2 — Garantías para la Compra de Energía
 
 Los recursos que se liberen como consecuencia de la cancelación de las garantías otorgadas por el Fondo Empresarial de la Superintendencia de Servicios Públicos a Electrificadora del Caribe S.A. E.S.P. para la compra de energía serán destinados a prepagar las obligaciones financieras que el Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios haya contraído para la constitución de las mencionadas garantías.
-
-ARTÍCULO
 
 ## art:2.2.9.8.2.3 — Cuentas por Cobrar
 
@@ -13319,21 +11713,15 @@ Derogado por el Art 6. del Decreto 1042 de 2022.
 
 PROCEDIMIENTO DE LIQUIDACIÓN Y COBRO DE LAS CONTRIBUCIONES ESPECIALES A FAVOR DE LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS, DE LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS Y DE LA CONTRIBUCIÓN ADICIONAL A FAVOR DEL FONDO EMPRESARIAL DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS
 
-ARTÍCULO
-
 ## art:2.2.9.9.1 — 9.1
 
 Objeto.- presente capítulo establece las características y condiciones particulares aplicables a las contribuciones especiales de que trata el artículo 85 de la Ley 142 de 1994, así como el procedimiento para la liquidación y cobro para la contribución adicional prevista en el artículo 314 de la Ley 1955 de 2019.
-
-ARTÍCULO
 
 ## art:2.2.9.9.2 — Sujetos Pasivos.- Los sujetos pasivos son los señalados en el numeral 4 del artículo 85 de la Ley 142 de 1994
 
 PARÁGRAFO . Para efectos de la liquidación y pago de las contribuciones especiales de que trata el artículo 85 de la Ley 142 de 1994, se tendrán en cuenta los prestadores que se encuentren en proceso de liquidación, fusión, escisión, o en toma de posesión para administrar, con fines liquidatarios - etapa de administración temporal o liquidación, o en proceso de reestructuración; de conformidad con lo previsto en la Ley 550 de 1999 o en la Ley 1116 de 2006, según corresponda, o que suspendan la prestación del servicio público. En este caso, el monto de la contribución será proporcional al tiempo en que hayan prestado el servicio público objeto de regulación o inspección, vigilancia y control; para lo cual, deberán certificar la información financiera para tal fin.
 
 El hecho de encontrarse en cualquiera de las situaciones descritas en el inciso anterior, deberá efectuarse el reporte respectivo en el Registro Único de Prestadores -RUPS, en la fecha en la cual cesó la prestación del servicio.
-
-ARTÍCULO
 
 ## art:2.2.9.9.3 — 9.3
 
@@ -13343,8 +11731,6 @@ No obstante, a partir de la vigencia del presente artículo, el único medio vá
 
 PARÁGRAFO . Para el caso de los combustibles líquidos y los prestadores del servicio de alumbrado público, la Comisión de Regulación de Energía y Gas (CREG) determinará el número de prestadores obligados de la cadena para este concepto, establecerá los mecanismos para el reporte de información contable y financiera y efectuará una liquidación independiente.
 
-ARTÍCULO
-
 ## art:2.2.9.9.4 — 9.4
 
 Procedimientos para la liquidación y cobro.- Las contribuciones especiales del artículo 85 de la Ley 142 de 1994 y la contribución adicional de que trata el artículo 314 de la Ley 1955 de 2019, se sujetaran a los procedimientos señalados a continuación, así:
@@ -13353,21 +11739,15 @@ Procedimientos para la liquidación y cobro.- Las contribuciones especiales del 
 
 2. Las actuaciones administrativas tendientes al cobro serán las previstas en el Estatuto Tributario en concordancia con la Ley 1437 de 2011.
 
-ARTÍCULO
-
 ## art:2.2.9.9.5 — 9.5
 
 Mérito ejecutivo.- De conformidad con el artículo 99 de la Ley 1437 de 2011, las liquidaciones de las contribuciones especiales y la contribución adicional prestarán mérito ejecutivo una vez se encuentre ejecutoriadas.
-
-ARTÍCULO
 
 ## art:2.2.9.9.6 — 9.6
 
 Plazos aplicables a las contribuciones especiales y a la contribución adicional.- Las contribuciones especiales del artículo 85 de la Ley 142 de 1994 modificado por el artículo 18 de la Ley 1955 de 2019 y la contribución adicional de que trata el artículo 314 de la Ley 1955 de 2019, deberán ser pagadas dentro de los cinco (5) días hábiles siguientes a la firmeza del acto administrativo que las liquida, de conformidad con lo establecido en el artículo 87 de la Ley 1437 de 2011.
 
 La aplicación del pago del anticipo por parte de los sujetos activos podrá efectuarse hasta el último día hábil del mes de enero, y será exclusivo de las contribuciones especiales.
-
-ARTÍCULO
 
 ## art:2.2.9.9.7 — 9.7
 
@@ -13379,13 +11759,9 @@ PARÁGRAFO 1. Para la vigencia 2020 la CREG podrá liquidar la contribución esp
 
 PARÁGRAFO 2. Los pagos que efectúen los prestadores se realizarán en las entidades financieras señaladas por cada uno de los sujetos activos de las contribuciones especiales, o a través de la plataforma de pagos virtuales o banca electrónica que disponga cada sujeto activo.
 
-ARTÍCULO
-
 ## art:2.2.9.9.8 — Marcos normativos de información
 
 Para la identificación de los componentes de la base gravable definidos en el artículo 85 de la Ley 142 de 1994, se tendrán en cuenta los marcos normativos de información financiera aplicables a cada sujeto pasivo de las contribuciones especiales.
-
-ARTÍCULO
 
 ## art:2.2.9.9.9 — 9.9
 
@@ -13397,8 +11773,6 @@ PARÁGRAFO 1. De acuerdo con las obligaciones previstas en el inciso 2 del artí
 
 PARÁGRAFO 2. Los sujetos pasivos de la cadena de combustibles líquidos y los prestadores del servicio de alumbrado público, certificarán la información financiera en los formatos y mecanismos que establezca la Comisión de Regulación de Energía y Gas (CREG) para tal fin.
 
-ARTÍCULO
-
 ## art:2.2.9.9.10 — .10
 
 Tarifa de las contribuciones especiales.- Una vez finalice el término para que los sujetos pasivos reporten la información financiera en el SUI, o en los formatos y mecanismos que establezca para el efecto la Comisión de Regulación de Energía y Gas (CREG) para los sujetos pasivos de la cadena de combustibles líquidos, los sujetos activos fijarán la tarifa de las contribuciones especiales de acuerdo con los criterios establecidos en numeral 2 del artículo 85 de la Ley 142 de 1994 y con base en la información financiera certificada a la fecha del respectivo reporte de la información. La tarifa será de hasta el 1% de la base gravable.
@@ -13407,29 +11781,21 @@ PARÁGRAFO 1. Cuando los prestadores de servicios públicos domiciliarios o los 
 
 PARÁGRAFO 2. Cuando la última información financiera reportada sea anterior a la vigencia 2018, la base gravable se determinará con la información disponible certificada.
 
-ARTÍCULO
-
 ## art:2.2.9.9.11 — .11
 
 Intereses moratorios.- Para las contribuciones especiales de que trata el artículo 85 de la Ley 142 de 1994 y la contribución adicional del artículo 314 de la Ley 1955 de 2019, por cada día de retardo en el pago de la contribución, se causarán intereses moratorias automáticamente de conformidad con lo previsto en el artículo 635 del Estatuto Tributario y las normas que lo modifiquen o sustituyan. El valor a pagar por concepto de intereses moratorias por cada día de retardo se liquidará a los responsables del pago de las contribuciones, por parte de los sujetos activos.
 
 La gestión de cartera de estas obligaciones se realizará de acuerdo con los procedimientos contemplados en la Ley 1066 de 2006, aquellas que la sustituyan o modifiquen y la normativa interna de cada sujeto activo. Para tal efecto, los sujetos activos reportarán en el Boletín de Deudores Morosos del Estado a los sujetos pasivos que presenten morosidad en el pago de las respectivas contribuciones especiales, en las fechas de corte establecidas para tal fin.
 
-ARTÍCULO
-
 ## art:2.2.9.9.12 — Inconsistencias en la presentación de información financiera
 
 - Cuando la Superintendencia de Servicios Públicos Domiciliarios advierta inconsistencias en la información financiera, dará aviso a la Comisión de Regulación, según corresponda, para que efectúe la reliquidación que sea del caso.
-
-ARTÍCULO
 
 ## art:2.2.9.9.13 — .13
 
 Excedentes de las contribuciones especiales.- Los excedentes durante la vigencia fiscal por recaudos de las contribuciones derivados de la actuación de la Comisión de Regulación de Energía y Gas (CREG), de la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) y de la Superintendencia de Servicios Públicos Domiciliarios (SSPD), se destinarán al Fondo Empresarial de la Superintendencia de Servicios Públicos Domiciliarios, con excepción de los recursos de la contribución especial a cargo de los sujetos pasivos que forman parte de la cadena de combustibles líquidos; los cuales, serán aplicados al pago de la contribución especial del sector de combustibles líquidos en la siguiente vigencia fiscal. Lo anterior, a prorrata de la participación presupuestal de la cadena de combustibles líquidos en el total del presupuesto a financiar para la respectiva vigencia.
 
 Los excedentes del recaudo de la contribución de los prestadores del servicio de alumbrado público tendrán el mismo tratamiento aplicable a los excedentes del recaudo de la contribución de los sujetos pasivos de la cadena de combustibles líquidos; salvo que se solicite la devolución, en cuyo caso, se aplicará el artículo siguiente.
-
-ARTÍCULO
 
 ## art:2.2.9.9.14 — .14
 
@@ -13487,8 +11853,6 @@ CONSEJO NACIONAL DE PLANEACIÓN EN LOS PLANES DE DESARROLLO
 
 (Nombre de capitulo Modificado por el Art 2 del decreto 1229 de 2025)
 
-ARTÍCULO
-
 ## art:2.2.11.1.1 — Representación de las entidades territoriales
 
 La representación en el Consejo Nacional de Planeación de los municipios y distritos, las provincias y departamentos, a que se refiere el parágrafo del numeral primero del artículo 9 de la Ley 152 de 1994, corresponderá a la jurisdicción territorial que se agrupa así:
@@ -13504,8 +11868,6 @@ Grupo cuatro. Compuesto por los departamentos de Antioquia, Cauca, Caldas, Choc�
 Grupo cinco. Compuesto por los departamentos de Arauca, Casanare, Guainía, Guaviare, Meta, Vaupés y Vichada.
 
 (Decreto 2250 de 2002, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.11.1.2 — Representación de los sectores
 
@@ -13527,15 +11889,11 @@ PARÁGRAFO 1. Para los efectos de los dispuesto en este artículo, se tendrán e
 
 (Decreto 2284 de 1994, artículo 5)
 
-ARTÍCULO
-
 ## art:2.2.11.1.3 — Coordinación conformación ternas
 
 Corresponde al Departamento Nacional de Planeación, coordinar con las entidades territoriales, el proceso de conformación de las ternas de que trata el numeral primero del artículo 9 de la Ley 152 de 1994, de acuerdo con la agrupación territorial establecida en el artículo 2.2.11.1.1 del presente decreto.
 
 (Decreto 2250 de 2002, artículo 2)
-
-ARTÍCULO
 
 ## art:2.2.11.1.4 — Presentación de ternas
 
@@ -13561,8 +11919,6 @@ El Distrito Capital de Bogotá, participará en el proceso de conformación de l
 
 (Decreto 2250 de 2002, artículo 3)
 
-ARTÍCULO
-
 ## art:2.2.11.1.5 — Documentos anexos
 
 A las ternas presentadas por personas jurídicas distintas a las entidades territoriales, debe anexarse la siguiente documentación:
@@ -13583,15 +11939,11 @@ A las ternas presentadas por personas jurídicas distintas a las entidades terri
 
 (Decreto 2284 de 1994, artículo 7)
 
-ARTÍCULO
-
 ## art:2.2.11.1.6 — Designación de representantes de las entidades territoriales
 
 La designación por parte del Presidente de la República de cinco (5) departamentos y de cuatro (4) municipios y distritos que actuarán en el Consejo Nacional de Planeación, se hará con independencia de la persona que ejerza el cargo de gobernador o alcalde. Los gobernadores y alcaldes podrán invitar a participar en el Consejo Nacional de Planeación a los gobernadores o alcaldes que hayan sido declarados electos.
 
 (Decreto 2284 de 1994, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.11.1.7 — Designación de representantes de los sectores
 
@@ -13601,15 +11953,11 @@ PARÁGRAFO . Estos Representantes al Consejo Nacional de Planeación no podrán 
 
 (Decreto 2284 de 1994, artículo 8)
 
-ARTÍCULO
-
 ## art:2.2.11.1.8 — Plazo
 
 Transcurrido un mes a partir de la fecha de la convocatoria a conformarse el Consejo Nacional de Planeación, el Presidente de la República hará las designaciones de sus integrantes aunque no se hayan recibido ternas para el nombramiento de representantes de las entidades territoriales, sectores o comunidades, ciñéndose al régimen previsto en la Constitución, la Ley y este capítulo.
 
 (Decreto 2284 de 1994, artículo 9)
-
-ARTÍCULO
 
 ## art:2.2.11.1.9 — Organización y funcionamiento
 
@@ -13637,8 +11985,6 @@ CAPÍTULO 2
 
 PLAN DE DESARROLLO DE LAS COMUNIDADES NEGRAS
 
-ARTÍCULO
-
 ## art:2.2.11.2.1 — Conformación de la Comisión de Estudios para la Formulación del Plan de Desarrollo de las Comunidades Negras
 
 Corresponde al Departamento Nacional de Planeación coordinar la conformación de la comisión de estudios para la formulación del plan de desarrollo de las comunidades negras de que trata el artículo 57 de la Ley 70 de 1993.
@@ -13647,15 +11993,11 @@ Dicha comisión se conformará por una (1) sola vez cada cuatro (4) años y su d
 
 (Decreto 3050 de 2002, artículo 1)
 
-ARTÍCULO
-
 ## art:2.2.11.2.2 — Integración
 
 La Comisión de Estudios para la Formulación del Plan de Desarrollo de las Comunidades Negras es una comisión técnica con un amplio conocimiento de las realidades de las comunidades negras. Su integración se definirá de acuerdo con el procedimiento especial que para el efecto adopten mediante acta en forma conjunta el Departamento Nacional de Planeación, el Ministerio del Interior y de Justicia y los representantes de las Comunidades Negras ante la Subcomisión de Planeación y Desarrollo de la Comisión Consultiva de Alto Nivel, en cumplimiento de la Ley 70 de 1993.
 
 (Decreto 3050 de 2002, artículo 2; Decreto 4007 de 2006, artículo 1)
-
-ARTÍCULO
 
 ## art:2.2.11.2.3 — Sesiones
 
@@ -13665,15 +12007,11 @@ La comisión podrá realizar invitaciones a funcionarios gubernamentales, expert
 
 (Decreto 3050 de 2002, artículo 3; Decreto 4007 de 2006, artículo 2)
 
-ARTÍCULO
-
 ## art:2.2.11.2.4 — Reglamento
 
 Cada comisión de estudios para la formulación del plan de desarrollo de las comunidades negras podrá adoptar su programa de trabajo y reglamento de funcionamiento.
 
 (Decreto 3050 de 2002, artículo 5)
-
-ARTÍCULO
 
 ## art:2.2.11.2.5 — Función
 
@@ -13682,8 +12020,6 @@ La Comisión de Estudios para la Formulación del Plan de Desarrollo de las Comu
 El Plan de Desarrollo de las Comunidades Negras deberá ser entregado al Departamento Nacional de Planeación al menos un mes antes de la presentación del Plan Nacional de Desarrollo al CONPES, de manera que sea factible presentar sus propuestas como insumo para el Plan Nacional de Desarrollo.
 
 (Decreto 3050 de 2002, artículo 6; Decreto 4007 de 2006, artículo 3)
-
-ARTÍCULO
 
 ## art:2.2.11.2.6 — Sede
 
@@ -13984,13 +12320,9 @@ CAPÍTULO 1
 
 INTEGRACION Y FUNCIONES DEL CONPES
 
-ARTÍCULO
-
 ## art:2.2.12.1.1 — Definición CONPES
 
 El Consejo Nacional de Política Económica y Social (CONPES) es un organismo colegiado, sin personería jurídica, que asesora al Gobierno nacional en todos aquellos aspectos que se relacionan con el desarrollo económico y social del país.
-
-ARTÍCULO
 
 ## art:2.2.12.1.2 — Integración del CONPES
 
@@ -13999,8 +12331,6 @@ De conformidad con el artículo 164 de la Ley 1753 de 2015, serán miembros perm
 Así mismo, serán miembros con voz y voto los directores de Departamentos Administrativos que se requieran para su adecuado funcionamiento, siempre que se trate de asuntos directamente relacionados con las funciones o competencias institucionales, discreción del Gobierno nacional se establecerán los invitados con voz y sin voto.
 
 PARÁGRAFO . La participación de los miembros del CONPES es indelegable.
-
-ARTÍCULO
 
 ## art:2.2.12.1.3 — Funciones del CONPES
 
@@ -14042,13 +12372,9 @@ CAPÍTULO 2
 
 FUNCIONAMIENTO DEL CONPES
 
-ARTÍCULO
-
 ## art:2.2.12.2.1 — Secretaría Técnica del CONPES
 
 La Secretaría Técnica del CONPES es ejercida por el director del Departamento Nacional de Planeación.
-
-ARTÍCULO
 
 ## art:2.2.12.2.2 — Funciones de la Secretaría Técnica del CONPES
 
@@ -14070,23 +12396,17 @@ Sin perjuicio de lo dispuesto en el Decreto 1893 de 2021, o la norma que lo modi
 
 (Modificado por el Art. 19 del Decreto 1042 de 2022).
 
-ARTÍCULO
-
 ## art:2.2.12.2.3 — Convocatoria para la sesión de aprobación
 
 La Secretaría Técnica convocara la sesión del CONPES una vez se cuente con la versión del documento para aprobación con sus respectivos soportes. Para el efecto, los integrantes del CONPES podrán solicitar a la Secretaría Técnica la realización de la sesión por lo menos con tres (3) días calendario de antelación a la misma.
 
 La Secretaría Técnica convocara a los miembros del CONPES mediante su correo electrónico institucional, indicando día, hora, tipo de sesión y el correspondiente orden del día. Con antelación a la sesión, remitirá los documentos, y demás material, que se someterán a consideración. Así mismo, la convocatoria señalará las personas que asistirán en calidad de invitados.
 
-ARTÍCULO
-
 ## art:2.2.12.2.4 — Sesiones
 
 El CONPES sesionara previa convocatoria de la Secretaría Técnica. Las sesiones se llevaran a cabo, por regla general, de manera presencial; sin embargo, se podrán celebrar reuniones no presenciales cuando así se requiera.
 
 Las sesiones que hayan sido convocadas de manera presencial podrán llevarse a cabo de forma no presencial, cuando a juicio de la Secretaría Técnica las circunstancias así lo requieran.
-
-ARTÍCULO
 
 ## art:2.2.12.2.5 — Reglas especiales para las sesiones no presenciales
 
@@ -14098,8 +12418,6 @@ Los miembros del CONPES podrán manifestar su intención de voto frente a los as
 
 Adoptadas las decisiones correspondientes, la Secretaría Técnica informara el cierre de la sesión y las determinaciones aprobadas mediante su correo electrónico institucional.
 
-ARTÍCULO
-
 ## art:2.2.12.2.6 — Decisiones
 
 Las decisiones del CONPES serán adoptadas por la mitad más uno de los miembros con voz y voto.
@@ -14107,8 +12425,6 @@ Las decisiones del CONPES serán adoptadas por la mitad más uno de los miembros
 CAPÍTULO 3
 
 DOCUMENTOS CONPES
-
-ARTÍCULO
 
 ## art:2.2.12.3.1 — Elaboración
 
@@ -14124,13 +12440,9 @@ PARÁGRAFO 2. Cuando el documento CONPES sea de iniciativa de órganos constituc
 
 (Parágrafo adicionado por el Decreto 988 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.12.3.2 — Plan de Acción y Seguimiento (PAS)
 
 Los documentos CONPES de política incluirán un plan de acción y seguimiento (PAS) que dispondrá, entre otras cosas, las acciones, entidades responsables de su ejecución, los recursos indicativos asociados, el periodo de cumplimiento y las variables para el seguimiento.
-
-ARTÍCULO
 
 ## art:2.2.12.3.3 — Ajuste documentos CONPES
 
@@ -14139,8 +12451,6 @@ La Secretaría Técnica podrá, mediante adendas, ajustar los documentos CONPES 
 La modificación de los objetivos, alcances, recomendaciones o metas de los documentos CONPES procederá mediante la aprobación de un nuevo documento.
 
 La Secretaría Técnica podrá expedir fe de erratas por imprecisiones o errores de forma, de redacción o aritméticas en los documentos CONPES aprobados.
-
-ARTÍCULO
 
 ## art:2.2.12.3.4 — Expedición o modificación a documentos CONPES de Importancia Estratégica
 
@@ -14153,8 +12463,6 @@ En los eventos en que se presente alguna de las siguientes circunstancias se req
 2. Cuando se modifique el monto de la contraprestación a cargo de la entidad siempre que dicha modificación este asociada a la provisión de bienes y servicios adicionales a los previstos inicialmente.
 
 3. Cuando se trate de nuevas vigencias futuras que sobrepasen el periodo de Gobierno y que impliquen una modificación al monto total autorizado por el CONFIS.
-
-ARTÍCULO
 
 ## art:2.2.12.3.5 — Excepción para documentos CONPES de operaciones de crédito público
 
@@ -14170,13 +12478,9 @@ CAPÍTULO 4
 
 SEGUIMIENTO A DOCUMENTOS CONPES
 
-ARTÍCULO
-
 ## art:2.2.12.4.1 — Seguimiento a Documentos CONPES
 
 El seguimiento tiene por objeto el registro, a través del Sistema de Gestión de Documentos CONPES (SISCONPES), del avance de los compromisos adquiridos por los ministerios y demás entidades respecto de los documentos CONPES que hayan sido aprobados.
-
-ARTÍCULO
 
 ## art:2.2.12.4.2 — Alcance y periodicidad del seguimiento
 
@@ -14188,8 +12492,6 @@ CAPÍTULO 5
 
 SISTEMA DE GESTION DE DOCUMENTOS CONPES (SISCONPES)
 
-ARTÍCULO
-
 ## art:2.2.12.5.1 — Sistema de Gestión de Documentos CONPES (SISCONPES)
 
 El Sistema de Gestión de Documentos CONPES (SISCONPES) es el conjunto de actores, lineamientos, herramientas, procedimientos, metodologías y actividades que tienen como finalidad coordinar los procesos de elaboración, aprobación y seguimiento de documentos CONPES, según lo definido en este título.
@@ -14198,8 +12500,6 @@ A través del sistema se generara información de calidad para la rendición de 
 
 El Departamento Nacional de Planeación, con la infraestructura tecnológica que tenga disponible, será responsable del funcionamiento y mantenimiento del sistema.
 
-ARTÍCULO
-
 ## art:2.2.12.5.2 — Actores de SISCONPES
 
 Serán actores de SisCONPES, según corresponda:
@@ -14207,8 +12507,6 @@ Serán actores de SisCONPES, según corresponda:
 1. El Departamento Nacional de Planeación, quien como Secretaría Técnica será el coordinador técnico, operativo, tecnológico y administrador del sistema.
 
 2. Los ministerios, departamentos administrativos y demás entidades que participen en la elaboración, aprobación y seguimiento de los documentos CONPES, en los términos del presente título.
-
-ARTÍCULO
 
 ## art:2.2.12.5.3 — Integración y articulación de SisCONPES
 
@@ -14230,13 +12528,9 @@ SECCIÓN 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.2.13.1.1.1 — Ámbito de aplicación
 
 Las disposiciones previstas en el presente capítulo regulan los Contratos Plan que se suscriban en desarrollo de lo dispuesto en el artículo 18 de la Ley 1454 de 2011 y los artículos 198 y 199 de la Ley 1753 de 2015.
-
-ARTÍCULO
 
 ## art:2.2.13.1.1.2 — Naturaleza y régimen de los Contratos Plan
 
@@ -14264,8 +12558,6 @@ En los Contratos Paz se definirán los arreglos programáticos y de desempeño i
 
 Dentro de los seis (6) meses siguientes a la suscripción del Contrato Paz se adoptará el documento CONPES de que trata el numeral 4) de este artículo, el cual contendrá el plan de inversiones concertado con cada una de las entidades que participen del Contrato Paz, que incluirá tanto los proyectos o programas priorizados inicialmente como aquellos que se incorporen por los demás sectores y actores que participen en el mismo, en los términos previstos en el numeral 3) de este artículo. Como resultado de este proceso, se revisará y actualizará el contenido del Contrato Paz a fin de armonizarlo con los lineamientos que se adopten y con el contenido del documento CONPES que se adopte para el respectivo Contrato Paz.
 
-ARTÍCULO
-
 ## art:2.2.13.1.1.3 — Contenido y alcance de los Contratos Plan
 
 Los Contratos Plan contendrán el enfoque estratégico de desarrollo que orientará en el territorio la focalización indicativa de los recursos cuya inversión podrá ser definida por el ámbito de aplicación de los proyectos, la concurrencia de las diversas fuentes de financiación, la priorización indicativa de los proyectos, así como la medición de resultados, conforme con los lineamientos establecidos en el reglamento operativo y los indicadores previstos en el documento CONPES 3822 de 2014 y el documento CONPES que se adopte en cada Contrato Plan.
@@ -14274,13 +12566,9 @@ El Contrato Plan que involucre entidades y organismos del nivel nacional y terri
 
 PARÁGRAFO . Los proyectos incluidos en los Contratos Plan que se encuentren en fase de estructuración, deberán ser priorizados para su viabilidad técnica y financiera por las entidades que sean responsables en cada sector administrativo de emitir el respectivo concepto, en los términos del artículo 199 de la Ley 1753 de 2015.
 
-ARTÍCULO
-
 ## art:2.2.13.1.1.4 — Condiciones de elegibilidad de los Contratos Plan
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Los criterios generales de priorización y selección de un Contrato Plan, son los definidos en el CONPES 3822 de 2014 o aquel que lo modifique o sustituya, sin perjuicio de aquellos incorporados en el reglamento operativo expedido por el Departamento Nacional de Planeación.
-
-ARTÍCULO
 
 ## art:2.2.13.1.1.5 — Lineamientos de operación institucional
 
@@ -14295,8 +12583,6 @@ Las entidades públicas de cada sector en los distintos niveles de gobierno que 
 Así mismo, las entidades que generen, obtengan, adquieran, transformen o controlen información de los Contratos Plan, deberán promover la administración, divulgación o suministro, conforme con la normatividad vigente.
 
 PARÁGRAFO . El Departamento Nacional de Planeación como coordinador y orientador de los Contratos Plan, establecerá los mecanismos de seguimiento y evaluación en el reglamento operativo teniendo en cuenta que estos recaen sobre esta herramienta y no sobre los contratos específicos que se deriven de las mismas. Las labores de supervisión e interventoría de los contratos específicos son responsabilidad de las entidades encargadas de la ejecución presupuestal
-
-ARTÍCULO
 
 ## art:2.2.13.1.1.6 — Contratos específicos para la ejecución de los Contratos Plan
 
@@ -14588,15 +12874,11 @@ CAPÍTULO 2
 
 CONTRATOS PLAN PARA LA ASOCIATIVIDAD TERRITORIAL Y LA DELEGACIÓN DE COMPETENCIAS
 
-ARTÍCULO
-
 ## art:2.2.13.2.1 — Ámbito de aplicación
 
 Las disposiciones previstas en el presente capítulo regulan los Contratos Plan suscritos para la asociatividad territorial de que tratan los artículos 12, 13, 14, 15, 18 y 20 de la Ley 1454 de
 
 2011.
-
-ARTÍCULO
 
 ## art:2.2.13.2.2 — Concepto y finalidad de los esquemas asociativos dentro de los Contratos Plan
 
@@ -14604,13 +12886,9 @@ Los esquemas asociativos son instrumentos que posibilitan la unión libre y volu
 
 Los esquemas asociativos que puedan conformarse mediante la suscripción de Contratos Plan tendrán como fin promover el desarrollo social, económico y cultural de sus territorios. Mediante estos acuerdos, las entidades territoriales podrán prestar conjuntamente servicios públicos, funciones administrativas propias o asignadas al ente territorial por el nivel nacional, ejecutar obras de interés común o cumplir funciones de planificación, así como procurar el desarrollo integral de sus territorios.
 
-ARTÍCULO
-
 ## art:2.2.13.2.3 — Esquemas asociativos territoriales a través de Contrato Plan
 
 Derogado por el Art 2. del Decreto 1042 de 2022. Mediante la suscripción de un Contrato Plan de asociatividad territorial, las entidades territoriales podrán constituir los siguientes esquemas asociativos territoriales: asociaciones de departamentos, áreas metropolitanas, asociaciones de distritos especiales y las asociaciones de municipios.
-
-ARTÍCULO
 
 ## art:2.2.13.2.4 — Lineamientos básicos para la creación de un esquema asociativo
 
@@ -14626,27 +12904,19 @@ Derogado por el Art 2. del Decreto 1042 de 2022. Previo a la constitución de un
 
 PARÁGRAFO . El Ministerio del Interior en virtud de sus competencias brindará la asesoría técnica y jurídica necesaria a las entidades territoriales en la promoción y divulgación para constituir un esquema asociativo y suscribir un Contrato Plan de asociatividad territorial.
 
-ARTÍCULO
-
 ## art:2.2.13.2.5 — Contratos Plan de asociatividad territorial con la Nación
 
 El Gobierno Nacional a través del Departamento Nacional de Planeación podrá suscribir Contratos Plan con los esquemas asociativos para la ejecución de programas del Plan Nacional de Desarrollo, cuando lo considere pertinente y el objeto para el cual fueron creadas dichas asociaciones lo permita; previa aprobación de su órgano máximo de administración atendiendo los principios consagrados en la Ley de Ordenamiento Territorial.
 
 Las asociaciones de municipios, asociaciones de departamentos, las áreas metropolitanas, las asociaciones de distritos especiales podrán constituir el esquema asociativo y unir esfuerzos con la Nación para la ejecución de programas del Plan Nacional de Desarrollo en un mismo Contrato Plan, siempre y cuando se observen los requisitos previstos en los artículos 2.2.13.1.1.2 y 2.2.13.1.2.4 de este título.
 
-ARTÍCULO
-
 ## art:2.2.13.2.6 — Delegación de Competencias a través de Contratos Plan
 
 Las entidades del orden nacional y sus descentralizadas podrán delegar competencias y funciones a las entidades territoriales, los esquemas asociativos territoriales y las áreas metropolitanas, a través del Contrato Plan, especificando las funciones y los recursos para su adecuado cumplimiento, así como la duración de la delegación, entre otros aspectos. Previamente el delegante deberá verificar la capacidad del delegado, con el fin de velar por el adecuado cumplimiento de las funciones delegadas. Cuando se deleguen competencias a través del Contrato Plan, no serán necesarios actos o convenios de delegación posteriores a la celebración del Contrato Plan.
 
-ARTÍCULO
-
 ## art:2.2.13.2.7 — Principio de Subsidiariedad
 
 Para desarrollar los Contratos Plan, en aplicación del principio de subsidiariedad, consagrado en el numeral 3) del artículo 27 de la Ley 1454 de 2011, la Nación, las entidades territoriales y los esquemas asociativos territoriales, podrán apoyar en forma transitoria y parcial en el ejercicio de sus competencias a entidades de menor categoría fiscal y desarrollo económico y social, cuando se demuestre la imposibilidad para que estas entidades las ejerzan. Lo anterior, sin perjuicio de las condiciones particulares que se reglamenten para la delegación de competencias.
-
-ARTÍCULO
 
 ## art:2.2.13.2.8 — Complementariedad e integración de Contratos Plan
 
@@ -14662,8 +12932,6 @@ CAPÍTULO 1
 
 EQUIVALENCIA DE COBROS, SANCIONES, MULTAS, TASAS, TARIFAS Y ESTAMPILLAS
 
-ARTÍCULO
-
 ## art:2.2.14.1.1 — Valores expresados en Unidades de Valor Tributario UVT
 
 Para los efectos dispuestos en el artículo 49 de la Ley 1955 de 2019, al realizar la conversión de valores expresados en Salarios Mínimos Legales Mensuales Vigentes (SMLMV) a Unidades de Valor Tributario (UVT), se empleará por una única vez el procedimiento de aproximaciones que se señala a continuación:
@@ -14675,8 +12943,6 @@ Aplicando la presente regla, una tarifa fijada en 3 SMLMV al convertirse a UVT p
 PARÁGRAFO : Cuando el valor a convertir resulte inferior a una (1) UVT, se deberá aproximar a la cifra con tres (3) decimales más cercana.
 
 Aplicando la presente regla, una tarifa fijada en 1 Salario Mínimo Legal Diario Vigente (SMLDV) al convertirse a UVT para el año 2020, corresponderá inicialmente a 0,821751 UVT. Acto seguido, para dar aplicación al presente artículo, se aproximará a la cifra con tres decimales más cercana para establecer la tarifa, es decir, finalmente quedará convertida en 0,822 UVT.
-
-ARTÍCULO
 
 ## art:2.2.14.1.2 — Valores de obligaciones tributarlas
 
@@ -14692,8 +12958,6 @@ SECCIÓN 1
 
 GENERALIDADES DEL SIIPO
 
-ARTÍCULO
-
 ## art:2.2.14.2.1.1 — Objeto
 
 El objeto del Sistema Integrado de Información para el Posconflicto (SII PO) es facilitar el seguimiento y monitoreo del cumplimiento del Acuerdo Final, basado en el Plan Marco para la Implementación, los Planes Nacionales Sectoriales y otros planes, programas, proyectos y recursos para la consolidación de la paz y la estabilización, contribuyendo a la transparencia, previniendo cualquier forma de corrupción y dando garantías a la ciudadanía para facilitar el control social y la veeduría ciudadana.
@@ -14701,8 +12965,6 @@ El objeto del Sistema Integrado de Información para el Posconflicto (SII PO) es
 El Sistema velará por la armonización de los sistemas de información existentes que realizan el seguimiento a las políticas, programas, planes, proyectos y recursos de diversas fuentes de financiación para la consolidación de la paz y la estabilización.
 
 La información del SIIPO servirá como insumo de información para la Comisión de Seguimiento, Impulso y Verificación a la Implementación del Acuerdo Final (CSIVI), así como para otros órganos y actores encargados o interesados en el seguimiento a la implementación del Acuerdo Final y de la política de paz y estabilización.
-
-ARTÍCULO
 
 ## art:2.2.14.2.1.2 — Administrador del SIIPO
 
@@ -14712,19 +12974,13 @@ SECCIÓN 2
 
 ESTRUCTURA DEL SISTEMA
 
-ARTÍCULO
-
 ## art:2.214.2.2.1 — Estructura
 
 Para el seguimiento a los instrumentos derivados del Acuerdo Final de paz, el SIIPO tendrá los siguientes componentes: i) avances físicos, ii) avances financieros y iii) seguimiento.
 
-ARTÍCULO
-
 ## art:2.2.14.2.2.2 — 2.2
 
 Reportes El SIIPO proveerá información pública al Gobierno nacional y a la CSIVI para la consolidación y elaboración de informes relacionados con el avance en el cumplimiento del Acuerdo Final, según la información reportada por las entidades.
-
-ARTÍCULO
 
 ## art:2.2.14.2.2.3 — Actualizaciones del SIIPO
 
@@ -14734,13 +12990,9 @@ SUBSECCIÓN 1
 
 SEGUIMIENTO A AVANCES FÍSICOS
 
-ARTÍCULO
-
 ## art:2.2.14.2.2.1.1 — Seguimiento a avances físicos
 
 El seguimiento a las metas físicas se hará a nivel de los compromisos del Plan Marco de Implementación, guardando coherencia con los pilares, estrategias, productos, metas trazadas, indicadores, tiempos y responsables establecidos.
-
-ARTÍCULO
 
 ## art:2.2.14.2.2.1.2 — Definición de metas
 
@@ -14748,13 +13000,9 @@ La definición de metas físicas para el cumplimiento de los indicadores del PMI
 
 Las metas se revisarán por lo menos cada periodo de gobierno, considerando los respectivos Planes Nacionales de Desarrollo y los Planes Nacionales Sectoriales, manteniendo el horizonte temporal de la implementación del Acuerdo Final y preservando la coherencia con los objetivos definidos en el Acuerdo y en el marco estratégico del PMI.
 
-ARTÍCULO
-
 ## art:2.2.14.2.2.1.3 — Reporte de seguimiento a metas
 
 Las respectivas oficinas asesoras de planeación, o quien haga sus veces, son las encargadas del reporte de avance cualitativo y cuantitativo sobre el cumplimiento de las metas físicas de los indicadores del PMI, con sus respectivos soportes. Los avances cualitativos deberán reportarse trimestralmente, y los avances cuantitativos deberán reportarse conforme a la periodicidad del indicador establecida en la respectiva ficha técnica. Para el caso que aplique, dichos reportes tendrán que contener la respectiva desagregación a nivel territorial o poblacional según los bienes y/o servicios entregados.
-
-ARTÍCULO
 
 ## art:2.2.14.2.2.1.4 — Seguimiento a Planes Nacionales Sectoriales
 
@@ -14766,13 +13014,9 @@ SUBSECCIÓN 2
 
 SEGUIMIENTO A AVANCES FINANCIEROS
 
-ARTÍCULO
-
 ## art:2.2.14.2.2.2.1 — Seguimiento a avances financieros
 
 El seguimiento a los recursos financieros se hará a nivel de proyectos o rubros que se estén programando y/o ejecutando por parte de los diferentes actores y fuentes de financiación. Un referente de seguimiento es el componente específico para la paz del Plan Plurianual de Inversiones del Plan Nacional de Desarrollo en coherencia con el Plan Marco de Implementación.
-
-ARTÍCULO
 
 ## art:2.2.14.2.2.2.2 — Generación de información para el seguimiento a los recursos de paz
 
@@ -14784,8 +13028,6 @@ El Departamento Nacional de Planeación, el Ministerio de Hacienda y Crédito P�
 
 3. Agencia Presidencial de Cooperación Internacional de Colombia, -Colombia. Identificará los recursos de cooperación internacional no reembolsable reportados a esta Agencia, a través de un marcador en la plataforma o instrumentos existentes, guardando coherencia con la estructura del Plan Marco de Implementación.
 
-ARTÍCULO
-
 ## art:2.2.14.2.2.2.3 — Complementariedad de los sistemas de información de seguimiento a los recursos financieros
 
 El seguimiento a los recursos financieros del Acuerdo Final se desarrollará a partir de las plataformas vigentes que realizan el seguimiento a la programación y/o ejecución del Presupuesto General de la Nación, el Sistema General de Regalías, el Sistema General de Participaciones, otros recursos delas entidades territoriales; y la identificación delos recursos de cooperación internacional no reembolsable.
@@ -14793,8 +13035,6 @@ El seguimiento a los recursos financieros del Acuerdo Final se desarrollará a p
 SECCIÓN 3
 
 ACTORES, ROLES Y RESPONSABILIDADES
-
-ARTÍCULO
 
 ## art:2.2.14.2.3.1 — Actores
 
@@ -14811,8 +13051,6 @@ Los actores del Sistema Integrado de Información para el Posconflicto son:
 5. Los ministerios, departamentos administrativos y otras entidades responsables de la implementación del Acuerdo de Paz.
 
 6. Las entidades territoriales.
-
-ARTÍCULO
 
 ## art:2.2.14.2.3.2 — Roles
 
@@ -14834,8 +13072,6 @@ Las entidades, identificarán los recursos destinados para la implementación de
 
 6. Las entidades territoriales: Contribuyen en la implementación del Plan Marco de Implementación conforme con sus competencias y registrarán la información sobre el avance y cumplimiento de sus metas físicas y financieras, en los instrumentos o en los sistemas de información para seguimiento a los proyectos de inversión y planes de desarrollo territorial, que disponga el Departamento Nacional de Planeación.
 
-ARTÍCULO
-
 ## art:2.2.14.2.3.3 — Responsabilidad de las entidades de proveer la información
 
 Los ministerios, departamentos administrativos y demás entidades públicas son los responsables de garantizar la veracidad y calidad de los datos y la oportunidad en el registro de la información. La entrega de los datos que se suministren será responsabilidad exclusiva de la entidad que los provea y se regirá bajo los principios establecidos en la Ley 1712 de 2014.
@@ -14846,15 +13082,11 @@ Los ministerios, departamentos administrativos y demás entidades públicas son 
 
 MISIÓN DE DESCENTRALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.2.14.3.1 — Creación y Objetivo
 
 Créase la Misión de Descentralización que tendrá como objetivo elaborar los estudios técnicos e insumos en materia de descentralización que permitan evaluar el modelo actual y presentar iniciativas constitucionales y legislativas para definir y ordenar la distribución de competencias entre la Nación y las entidades territoriales señaladas en el artículo 286 de la Constitución Política.
 
 (Adicionado por el Art. 1 del Decreto 1665 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.14.3.2 — Objetivos específicos de la Misión de Descentralización
 
@@ -14877,8 +13109,6 @@ PARÁGRAFO 2. El objetivo específico "Descentralización y territorios indígen
 PARÁGRAFO 3. El experto encargado de liderar el objetivo específico contemplado en el numeral 5 de la presente disposición, que trata sobre la "Descentralización y territorios indígenas", deberá trabajar de manera articulada con la mesa de trabajo de qué trata el parágrafo 2 de este artículo. A partir de este trabajo articulado se formularán los insumos requeridos para presentar recomendaciones e iniciativas que den cumplimiento al acuerdo CB del eje "Pacto por y para las regiones: pacto por la región Caribe y pacto por la Amazonia, con sus respectivos componentes, estrategias y acuerdos" del "Capítulo de grupos indígenas" del "Pacto por la equidad de oportunidades para grupos étnicos: indígenas, negros, afrocolombianos, raizales, palenqueros y Rrom" de las Bases del Plan Nacional de Desarrollo 2018 - 2022.
 
 (Adicionado por el Art. 1 del Decreto 1665 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.14.3.3 — Conformación de la Misión
 
@@ -14918,8 +13148,6 @@ Dentro del mismo término, la Federación Nacional de Departamentos, la Asociaci
 
 (Modificado por el Art. 21 del Decreto 1042 de 2022.)
 
-ARTÍCULO
-
 ## art:2.2.14.3.4 — Instalación de la Misión
 
 El Departamento Nacional de Planeación instalará de manera formal la Misión de Descentralización dentro de los diez (10) días hábiles siguientes al recibo de la comunicación de la designación de todos los miembros que conformarán la Misión.
@@ -14927,8 +13155,6 @@ El Departamento Nacional de Planeación instalará de manera formal la Misión d
 PARÁGRAFO . Si dentro del plazo establecido en el parágrafo 4 del artículo anterior no se comunica a la Secretaría Técnica la decisión de designación de alguno de los miembros, el Departamento Nacional de Planeación podrá instalar la Misión de Descentralización, siempre que se cuente con por lo menos ocho (8) de los miembros designados.
 
 (Adicionado por el Art. 1 del Decreto 1665 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.14.3.5 — Reglamento para el funcionamiento de la Misión
 
@@ -14938,15 +13164,11 @@ El Reglamento deberá incluir como mínimo las funciones de la Secretaría Técn
 
 (Adicionado por el Art. 1 del Decreto 1665 de 2021)
 
-ARTÍCULO
-
 ## art:2.2.14.3.6 — Recursos para el funcionamiento de la Misión
 
 El Departamento Nacional de Planeación dispondrá los recursos financieros para el funcionamiento y el cumplimiento del objetivo de la Misión de Descentralización, con sujeción a las disponibilidades presupuestales del Marco de Gasto de Mediano Plazo del sector.
 
 (Adicionado por el Art. 1 del Decreto 1665 de 2021)
-
-ARTÍCULO
 
 ## art:2.2.14.3.7 — Clausura de la Misión de Descentralización
 
@@ -15052,8 +13274,6 @@ PARTE I
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el art. 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al Sector Administrativo de Planeación Nacional que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -15068,8 +13288,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
 
-ARTÍCULO
-
 ## art:3.1.2 — Vigencia
 
 El presente decreto rige a partir de su publicación en el Diario Oficial.
@@ -15081,91 +13299,3 @@ Dado en Bogotá, D.C., a los 26 días del mes de mayo del año 2015
 SIMÓN GAVIRIA MUÑOZ
 
 EL DIRECTOR DEL DEPARTAMENTO NACIONAL DE PLANEACIÓN
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

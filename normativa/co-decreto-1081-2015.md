@@ -7,7 +7,7 @@ ramas: [administrativo, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=73593
-verificado: 2026-09-11
+verificado: 2026-09-23
 ---
 
 ## art:1.1.1.1 — Cabeza del sector
@@ -21,8 +21,6 @@ El Departamento Administrativo de la Presidencia de la República tendrá como d
 TÍTULO 2
 
 FONDO DE PROGRAMAS ESPECIALES PARA LA PAZ
-
-ARTÍCULO
 
 ## art:1.1.2.1 — Fondo Paz
 
@@ -38,8 +36,6 @@ TÍTULO 1.
 
 ENTIDADES ADSCRITAS
 
-ARTÍCULO
-
 ## art:1.2.1.1 — Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas -ACR-
 
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas tiene como objeto gestionar, implementar, coordinar y evaluar, de forma articulada con las instancias competentes, los planes, programas y proyectos de la Política de Reintegración, con el fin de propender por la paz, la seguridad y la convivencia.
@@ -48,23 +44,17 @@ La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Arm
 
 (Decreto 4138 de 2011, art. 4 y Decreto 1649 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:1.2.1.2 — Unidad Nacional para la Gestión del Riesgo de Desastres
 
 La Unidad Nacional para la Gestión del Riesgo de Desastres tiene como objetivo dirigir la implementación de la gestión del riesgo de desastres, atendiendo las políticas de desarrollo sostenible, y coordinar el funcionamiento y el desarrollo continuo del Sistema Nacional para la Prevención y Atención de Desastres SNPAD.
 
 (Decreto Ley 4147 de 2011, art. 3 y Decreto 1649 de 2014, art. 4)
 
-ARTÍCULO
-
 ## art:1.2.1.3 — Agencia Presidencial de Cooperación Internacional de Colombia, (APC)
 
 La Agencia Presidencial de Cooperación Internacional de Colombia, APC - Colombia tiene por objetivo gestionar, orientar y coordinar técnicamente la Cooperación Internacional pública, privada, técnica y financiera no reembolsable que reciba y otorgue el país; así como ejecutar, administrar y apoyar la canalización y ejecución de recursos, programas y proyectos de Cooperación Internacional, atendiendo los objetivos de política exterior y el Plan Nacional de Desarrollo.
 
 (Decreto 4152 de 2011 art. 5 y Decreto 1649 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:1.2.1.4 — Agencia Nacional Inmobiliaria Virgilio Barco Vargas
 
@@ -78,8 +68,6 @@ TÍTULO 2.
 
 ENTIDADES VINCULADAS
 
-ARTÍCULO
-
 ## art:1.2.2.1 — (Suprimido
 
 Decreto 1275 de 2015, art 8)
@@ -87,8 +75,6 @@ Decreto 1275 de 2015, art 8)
 PARTE 3
 
 ÓRGANOS DE ASESORIA Y COORDINACIÓN
-
-ARTÍCULO
 
 ## art:1.3.1 — Órganos de asesoría y coordinación
 
@@ -146,8 +132,6 @@ LIBRO 2.
 
 RÉGIMEN REGLAMENTARIO DEL SECTOR DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ARTÍCULO
-
 ## art:2.1 — 
 
 2.1. Objeto del Libro 2: El Libro 2 del Decreto Reglamentario Único del Sector de la Presidencia de la República compila los Decretos Reglamentarios expedidos por el señor Presidente de la República en ejercicio del numeral 11 del artículo 189 de la Constitución Política que regulan, en lo pertinente, la actividad de las entidades que componen el sector administrativo.
@@ -155,8 +139,6 @@ ARTÍCULO
 PARTE 1.
 
 DISPOSICIONES REGLAMENTARIAS GENERALES
-
-ARTÍCULO
 
 ## art:2.1.1 — 1.1
 
@@ -170,15 +152,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.1.1.1.1 — Objeto
 
 Este Título tiene por objeto reglamentar la Ley 1712 de 2014, en lo relativo a la gestión de la información pública.
 
 (Decreto 103 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.1.1.2 — Ámbito de aplicación
 
@@ -196,8 +174,6 @@ SECCIÓN 1
 
 DIRECTRICES GENERALES PARA LA PUBLICACIÓN DE INFORMACIÓN PÚBLICA
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.1 — Estándares para publicar la información
 
 El Ministerio de Tecnologías de la Información y las Comunicaciones a través de la estrategia de Gobierno en Línea expedirá los lineamientos que deben atender los sujetos obligados para cumplir con la publicación y divulgación de la información señalada en la Ley 1712 de 2014, con el objeto de que sean dispuestos de manera estandarizada.
@@ -208,9 +184,9 @@ El Ministerio de Tecnologías de la Información y las Comunicaciones a través 
 
 Artículo no incluido dentro del texto original.
 
-## art:2.1.1.2.1.3 — Artículo no incluido dentro del texto original
+## art:2.1.1.2.1.3 — 
 
-ARTÍCULO
+Artículo no incluido dentro del texto original.
 
 ## art:2.1.1.2.1.4 — Publicación de información en sección particular del sitio web oficial
 
@@ -237,8 +213,6 @@ PARÁGRAFO 1. Entiéndase por Tabla de Retención Documental la lista de series 
 PARÁGRAFO 2. Para efectos del cumplimiento de la Ley 1712 de 2014 y del presente decreto, los términos ventanilla electrónica, sitio web oficial y medio electrónico institucional se entenderán como equivalentes.
 
 (Decreto 103 de 2015, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.5 — Directorio de Información de servidores públicos, empleados y contratistas
 
@@ -274,8 +248,6 @@ PARÁGRAFO 2. La publicación de la información de los contratos de prestación
 
 (Decreto 103 de 2015, art. 5)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.6 — Publicación de los trámites y servicios que se adelantan ante los sujetos obligados
 
 Los sujetos obligados deben publicar en su sitio web oficial los trámites que se adelanten ante los mismos, señalando la norma que los sustenta, procedimientos, costos, formatos y formularios requeridos.
@@ -283,8 +255,6 @@ Los sujetos obligados deben publicar en su sitio web oficial los trámites que s
 Para los sujetos obligados a inscribir sus trámites en el Sistema Único de Información de Trámites y Procedimientos Administrativos (SUIT), de que trata la Ley 962 de 2005 y el Decreto ley 019 de 2012, dicho requisito se entenderá cumplido con la inscripción de los trámites en dicho sistema y la relación de los nombres de los mismos en el respectivo sitio web oficial del sujeto obligado con un enlace al Portal del Estado Colombiano o el que haga sus veces.
 
 (Decreto 103 de 2015, art. 6)
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.7 — Publicación de la información contractual
 
@@ -296,23 +266,17 @@ Los sujetos obligados que contratan con recursos públicos y recursos privados, 
 
 (Decreto 103 de 2015, art. 7)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.8 — Publicación de la ejecución de contratos
 
 Para efectos del cumplimiento de la obligación contenida en el literal g) del artículo 11 de la Ley 1712 de 2014, relativa a la información sobre la ejecución de contratos, el sujeto obligado debe publicar las aprobaciones, autorizaciones, requerimientos o informes del supervisor o del interventor, que prueben la ejecución del contrato.
 
 (Decreto 103 de 2015, art. 8)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.9 — Publicación de procedimientos, lineamientos y políticas en materia de adquisición y compras
 
 Para los sujetos obligados que contratan con cargo a recursos públicos, los procedimientos, lineamientos y políticas en materia de adquisición y compras de los que trata el literal g) del artículo 11 de la Ley 1712 de 2014 son los previstos en el manual de contratación expedido conforme a las directrices señaladas por la Agencia Nacional de Contratación Pública - Colombia Compra Eficiente -, el cual debe estar publicado en el sitio web oficial del sujeto obligado.
 
 (Decreto 103 de 2015, art. 9)
-
-ARTÍCULO
 
 ## art:2.1.1.2.1.10 — Publicación del Plan Anual de Adquisiciones
 
@@ -326,8 +290,6 @@ Se entenderá como definición de Plan Anual de Adquisiciones respecto a todos l
 
 (Decreto 103 de 2015, art. 10)
 
-ARTÍCULO
-
 ## art:2.1.1.2.1.11 — Publicación de Datos Abiertos
 
 Las condiciones técnicas de que trata el literal k) del artículo 11 de la Ley 1712 de 2014 para la publicación de datos abiertos, serán elaboradas por el Ministerio de Tecnologías de la Información y las Comunicaciones y publicadas en el Portal de Datos Abiertos del Estado colombiano o la herramienta que lo sustituya.
@@ -338,15 +300,11 @@ SECCIÓN 2
 
 ACCESIBILIDAD Y OTRAS DIRECTRICES
 
-ARTÍCULO
-
 ## art:2.1.1.2.2.1 — Formato alternativo
 
 Para efectos de lo previsto en el artículo 8 de la Ley 1712 de 2014, se entenderá por formato alternativo, la forma, tamaño o modo en la que se presenta la información pública o se permite su visualización o consulta para los grupos étnicos y culturales del país, y para las personas en situación de discapacidad, en aplicación del criterio diferencial de accesibilidad.
 
 (Decreto 103 de 2015, art. 12)
-
-ARTÍCULO
 
 ## art:2.1.1.2.2.2 — Accesibilidad en medios electrónicos para población en situación de discapacidad
 
@@ -354,15 +312,11 @@ Todos los medios de comunicación electrónica dispuestos para divulgar la infor
 
 (Decreto 103 de 2015, art. 13)
 
-ARTÍCULO
-
 ## art:2.1.1.2.2.3 — Accesibilidad a espacios físicos para población en situación de discapacidad
 
 Los sujetos obligados deben cumplir con los criterios y requisitos generales de accesibilidad y señalización de todos los espacios físicos destinados para la atención de solicitudes de información pública y/o divulgación de la misma, conforme a los lineamientos de la Norma Técnica Colombiana 6047, “Accesibilidad al medio físico. Espacios de servicio al ciudadano en la Administración Pública. Requisitos”, o la que la modifique o sustituya, atendiendo al principio de ajustes razonables establecido en dicha norma.
 
 (Decreto 103 de 2015, art. 14)
-
-ARTÍCULO
 
 ## art:2.1.1.2.2.4 — 2.4
 
@@ -377,8 +331,6 @@ GESTIÓN DE SOLICITUDES DE INFORMACIÓN PÚBLICA TRANSPARENCIA PASIVA
 SECCIÓN 1
 
 RECEPCIÓN Y RESPUESTA A SOLICITUDES DE INFORMACIÓN PÚBLICA Y OTRAS DIRECTRICES.
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.1 — Medios idóneos para recibir solicitudes de información pública
 
@@ -400,23 +352,17 @@ PARÁGRAFO 2. Las condiciones de seguridad que deben atender los medios electró
 
 (Decreto 103 de 2015, art. 16)
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.2 — Seguimiento a las solicitudes de información pública
 
 En la recepción de solicitudes de información pública los sujetos obligados deben indicar al solicitante un número o código que permita hacer seguimiento al estado de su solicitud, la fecha de recepción y los medios por los cuales se puede hacer seguimiento a la misma.
 
 (Decreto 103 de 2015, art. 17)
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.3 — Solicitudes de acceso a información con identificación reservada
 
 Para el registro de la recepción y trámite de solicitudes de información pública bajo el procedimiento especial con identificación reservada, previsto en el parágrafo del artículo 4 de la Ley 1712 de 2014, el Ministerio Público dispondrá un formulario electrónico. Este mecanismo electrónico es adicional a los medios ordinarios de recepción de solicitudes de acceso a información pública dispuestos por las entidades que conforman el Ministerio Público.
 
 (Decreto 103 de 2015, art. 18)
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.4 — Contenido y oportunidad de las respuestas a solicitudes de acceso a información pública
 
@@ -435,8 +381,6 @@ PARÁGRAFO 1. En los casos de respuestas a solicitudes de información clasifica
 PARÁGRAFO 2. Cuando las solicitudes se refieran a consulta de documentos que están disponibles en medio físico y no se solicite su reproducción, los sujetos obligados dispondrán de un sitio físico para la consulta.
 
 (Decreto 103 de 2015, art. 19)
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.5 — Principio de gratuidad y costos de reproducción
 
@@ -458,8 +402,6 @@ Cuando la información solicitada repose en un formato electrónico o digital, y
 
 (Decreto 103 de 2015, art. 20)
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.6 — Motivación de los costos de reproducción de información pública
 
 Los sujetos obligados deben determinar, motivadamente, mediante acto administrativo o documento equivalente según el régimen legal aplicable, los costos de reproducción de la información pública, individualizando el costo unitario de los diferentes tipos de formato a través de los cuales se puede reproducir la información en posesión, control o custodia del mismo, y teniendo como referencia los precios del lugar o zona de domicilio del sujeto obligado, de tal forma que estos se encuentren dentro de parámetros del mercado.
@@ -472,15 +414,11 @@ PARÁGRAFO 2. Cuando se trate de solicitudes de información relacionadas con la
 
 (Decreto 103 de 2015, art. 21)
 
-ARTÍCULO
-
 ## art:2.1.1.3.1.7 — Creación o producción de información pública
 
 La solicitud de acceso a la información pública no implica el deber de los sujetos obligados de generar o producir información no disponible. En este caso, el sujeto obligado comunicará por escrito que la denegación de la solicitud se debe a la inexistencia de datos en su poder, y en el evento en que dicha información esté en poder o control de otro sujeto obligado, remitirá a este la solicitud de información.
 
 (Decreto 103 de 2015, art. 22)
-
-ARTÍCULO
 
 ## art:2.1.1.3.1.8 — Supervigilancia al derecho de acceso a la información pública
 
@@ -492,8 +430,6 @@ CAPÍTULO 4
 
 GESTIÓN DE LA INFORMACIÓN CLASIFICADA Y RESERVADA
 
-ARTÍCULO
-
 ## art:2.1.1.4.1 — Excepciones al Derecho fundamental de acceso a la información pública
 
 Los sujetos obligados garantizarán la eficacia del ejercicio del derecho fundamental de acceso a la información pública, sin perjuicio de su facultad de restringirlo en los casos autorizados por la Constitución o la ley, y conforme a lo previsto en los artículos 18 y 19 la Ley 1712 de 2014, en consonancia con las definiciones previstas en los literales c) y d) del artículo 6, de la misma.
@@ -504,15 +440,11 @@ SECCIÓN 1
 
 INFORMACIÓN PÚBLICA CLASIFICADA
 
-ARTÍCULO
-
 ## art:2.1.1.4.1.1 — Acceso general a datos semiprivados, privados o sensibles
 
 La información pública que contiene datos semiprivados o privados, definidos en los literales g) y h) del artículo 3 de la Ley 1266 de 2008, o datos personales o sensibles, según lo previsto en los artículos 3 y 5 de la Ley 1581 de 2012 y en el numeral 3 del artículo 3 del Decreto 1377 de 2013, solo podrá divulgarse según las reglas establecidas en dichas normas.
 
 (Decreto 103 de 2015, art. 25)
-
-ARTÍCULO
 
 ## art:2.1.1.4.1.2 — Acceso a datos personales en posesión de los sujetos obligados
 
@@ -530,15 +462,11 @@ SECCIÓN 2
 
 INFORMACIÓN PÚBLICA RESERVADA
 
-ARTÍCULO
-
 ## art:2.1.1.4.2.1 — 2.1
 
 Responsable de la calificación de Reserva de la información pública por razones de defensa y seguridad nacional, seguridad pública o relaciones internacionales. La calificación de reservada de la información prevista en los literales a), b) y c) del artículo 19 de la Ley 1712 de 2014, corresponderá exclusivamente al jefe de la dependencia o área responsable de la generación, posesión, control o custodia de la información, o funcionario o empleado del nivel directivo que, por su completo e integral conocimiento de la información pública, pueda garantizar que la calificación sea razonable y proporcionada.
 
 (Decreto 103 de 2015, art. 27)
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.2 — Reserva de la información pública por razones de estabilidad macroeconómica y financiera
 
@@ -549,8 +477,6 @@ La excepción prevista en el literal h) del artículo 19 de la Ley 1712 de 2014 
 (2) Esté relacionada con las labores de supervisión necesarias para garantizar la estabilidad del sistema financiero y la confianza del público en el mismo.
 
 (Decreto 103 de 2015, art. 28)
-
-ARTÍCULO
 
 ## art:2.1.1.4.2.3 — Temporalidad de la reserva
 
@@ -564,15 +490,11 @@ SECCIÓN 3
 
 DIRECTRICES PARA LA CALIFICACIÓN DE INFORMACIÓN PÚBLICA COMO CLASIFICADA O RESERVADA
 
-ARTÍCULO
-
 ## art:2.1.1.4.3.1 — Identificación de la norma que dispone que la información sea clasificada o reservada
 
 Para asignar el carácter de clasificada o reservada a la información pública que se encuentra bajo su posesión, control o custodia, los sujetos obligados deben identificar las disposiciones constitucionales o legales que expresamente así lo dispongan.
 
 (Decreto 103 de 2015, art. 30)
-
-ARTÍCULO
 
 ## art:2.1.1.4.3.2 — Existencia y divulgación integral o parcial de la información
 
@@ -581,8 +503,6 @@ Si un mismo acto o documento contiene información que puede ser divulgada e inf
 Los sujetos obligados podrán tachar los apartes clasificados o reservados del documento, anonimizar, transliterar o editar el documento para suprimir la información que no puede difundirse; abrir un nuevo expediente con la información pública que puede ser divulgada; o acudir a las acciones que sean adecuadas para cumplir con su deber de permitir el acceso a toda aquella información que no esté clasificada o reservada, teniendo en cuenta el formato y medio de conservación de la información.
 
 (Decreto 103 de 2015, art. 31)
-
-ARTÍCULO
 
 ## art:2.1.1.4.3.3 — Coordinación interinstitucional
 
@@ -593,8 +513,6 @@ Si un sujeto obligado remite o entrega información pública calificada como cla
 SECCIÓN 4
 
 DENEGACIÓN O RECHAZO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA POR CLASIFICACIÓN O RESERVA
-
-ARTÍCULO
 
 ## art:2.1.1.4.4.1 — 4.1
 
@@ -614,8 +532,6 @@ Las solicitudes de información sobre contratación con recursos públicos no po
 
 (Decreto 103 de 2015, art. 33)
 
-ARTÍCULO
-
 ## art:2.1.1.4.4.2 — Definición de daño presente, probable y específico
 
 Se entenderá que el daño es presente siempre que no sea remoto ni eventual; probable cuando existan las circunstancias que harían posible su materialización; y específico solo si pueden individualizarse y no se trate de una afectación genérica.
@@ -625,8 +541,6 @@ Se entenderá que el daño es presente siempre que no sea remoto ni eventual; pr
 CAPÍTULO 5
 
 INSTRUMENTOS DE LA GESTIÓN DE INFORMACIÓN PÚBLICA
-
-ARTÍCULO
 
 ## art:2.1.1.5.1 — Instrumentos de gestión de la información pública
 
@@ -644,8 +558,6 @@ Los sujetos obligados deben articular dichos instrumentos mediante el uso eficie
 
 (Decreto 103 de 2015, art. 35)
 
-ARTÍCULO
-
 ## art:2.1.1.5.2 — Mecanismo de adopción y actualización de los Instrumentos de Gestión de la Información Pública
 
 El Registro de Activos de Información, el Índice de Información Clasificada y Reservada, el Esquema de Publicación de Información y el Programa de Gestión Documental, deben ser adoptados y actualizados por medio de acto administrativo o documento equivalente de acuerdo con el régimen legal al sujeto obligado.
@@ -655,8 +567,6 @@ El Registro de Activos de Información, el Índice de Información Clasificada y
 SECCIÓN 1
 
 DE ACTIVOS DE INFORMACIÓN
-
-ARTÍCULO
 
 ## art:2.1.1.5.1.1 — Concepto del Registro de Activos de Información
 
@@ -702,15 +612,11 @@ SECCIÓN 2
 
 ÍNDICE DE INFORMACIÓN CLASIFICADA Y RESERVADA
 
-ARTÍCULO
-
 ## art:2.1.1.5.2.1 — Concepto del índice de Información Clasificada y Reservada
 
 El Índice de Información Clasificada y Reservada es el inventario de la información pública generada, obtenida, adquirida o controlada por el sujeto obligado, en calidad de tal, que ha sido calificada como clasificada o reservada.
 
 (Decreto 103 de 2015, art. 39)
-
-ARTÍCULO
 
 ## art:2.1.1.5.2.2 — Contenido del Índice de Información Clasificada y Reservada
 
@@ -752,15 +658,11 @@ SECCIÓN 3
 
 ESQUEMA DE PUBLICACIÓN DE INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.5.3.1 — Concepto
 
 El Esquema de Publicación de Información es el instrumento del que disponen los sujetos obligados para informar, de forma ordenada, a la ciudadanía, interesados y usuarios, sobre la información publicada y que publicará, conforme al principio de divulgación proactiva de la información previsto en el artículo 3 de la Ley 1712 de 2014, y sobre los medios a través de los cuales se puede acceder a la misma.
 
 (Decreto 103 de 2015, art. 41)
-
-ARTÍCULO
 
 ## art:2.1.1.5.3.2 — Componentes del Esquema de Publicación de Información
 
@@ -800,8 +702,6 @@ De acuerdo con lo estipulado en el literal c) del artículo 12 de la Ley 1712 de
 
 (Decreto 103 de 2015, art. 42)
 
-ARTÍCULO
-
 ## art:2.1.1.5.3.3 — Procedimiento participativo para la adopción y actualización del Esquema de Publicación
 
 Los sujetos obligados, de acuerdo con el régimen legal aplicable, implementarán mecanismos de consulta a ciudadanos, interesados o usuarios en los procesos de adopción y actualización del Esquema de Publicación de Información, con el fin de identificar información que pueda publicarse de manera proactiva y de establecer los formatos alternativos que faciliten la accesibilidad a poblaciones específicas.
@@ -812,15 +712,11 @@ SECCIÓN 4
 
 PROGRAMA DE GESTIÓN DOCUMENTAL
 
-ARTÍCULO
-
 ## art:2.1.1.5.4.1 — Concepto del Programa de Gestión Documental
 
 En desarrollo de la Ley 1712 de 2014 se entenderá por Programa de Gestión Documental el plan elaborado por cada sujeto obligado para facilitar la identificación, gestión, clasificación, organización, conservación y disposición de la información pública, desde su creación hasta su disposición final, con fines de conservación permanente o eliminación.
 
 (Decreto 103 de 2015, art. 44)
-
-ARTÍCULO
 
 ## art:2.1.1.5.4.2 — Articulación y/o integración del Programa de Gestión Documental con los instrumentos de gestión de información
 
@@ -830,15 +726,11 @@ El sujeto obligado debe contar con políticas de eliminación segura y permanent
 
 (Decreto 103 de 2015, art. 45)
 
-ARTÍCULO
-
 ## art:2.1.1.5.4.3 — Aplicación de lineamientos generales sobre el Programa de Gestión Documental
 
 Los sujetos obligados aplicarán en la elaboración del Programa de Gestión Documental los lineamientos contenidos en Decreto 2609 de 2012 o las normas que lo sustituyan o modifiquen.
 
 (Decreto 103 de 2015, art. 46)
-
-ARTÍCULO
 
 ## art:2.1.1.5.4.4 — Lineamientos sobre el Programa de Gestión Documental para los sujetos obligados de naturaleza privada
 
@@ -856,8 +748,6 @@ Los sujetos obligados de naturaleza privada que no están cobijados por el Decre
 
 (Decreto 103 de 2015, art. 47)
 
-ARTÍCULO
-
 ## art:2.1.1.5.4.5 — Conservación de la información publicada con anterioridad
 
 Para efectos de lo previsto en el artículo 14 de la Ley 1712 de 2014, los sujetos obligados deben garantizar la conservación de los documentos divulgados en su sitio web o en sistemas de información que contengan o produzcan información pública, para lo cual seguirán los procedimientos de valoración documental y delimitarán los medios, formatos y plazos para la conservación de la información publicada con anterioridad, con el fin de permitir su fácil acceso luego de retirada la publicación.
@@ -866,15 +756,11 @@ Los sujetos obligados deben definir un procedimiento para retirar la informació
 
 (Decreto 103 de 2015, art. 48)
 
-ARTÍCULO
-
 ## art:2.1.1.5.4.6 — Gestión de información en los casos de liquidaciones, supresiones, fusiones o escisiones de sujetos obligados
 
 En los casos de liquidaciones, supresiones, fusiones o escisiones de sujetos obligados, estos deben asegurar que los instrumentos de gestión de información se mantengan, sin que se obstaculice el acceso a la información pública. La entrega de la información al sujeto obligado que asuma las responsabilidades del cesante se garantizará mediante inventarios debidamente ordenados, y de conformidad con las normas que se expidan al respecto.
 
 (Decreto 103 de 2015, art. 49)
-
-ARTÍCULO
 
 ## art:2.1.1.5.4.7 — Documentos y archivos de derechos humanos
 
@@ -898,15 +784,11 @@ CAPÍTULO 6
 
 SEGUIMIENTO A LA GESTIÓN DE LA INFORMACIÓN
 
-ARTÍCULO
-
 ## art:2.1.1.6.1 — Seguimiento a la gestión de la información pública
 
 Los sujetos obligados deben adelantar las acciones pertinentes para hacer seguimiento a la gestión de la información pública. El Ministerio Público y las entidades líderes de la política de transparencia y de acceso a la información pública definidas en el artículo 32 de la Ley 1712 de 2014, de acuerdo con su ámbito de competencia, adelantarán acciones que permitan medir el avance en la implementación de la ley de transparencia por parte de los sujetos obligados, quienes deben colaborar armónicamente en el suministro de la información que se requiera.
 
 (Decreto 103 de 2015, art. 51)
-
-ARTÍCULO
 
 ## art:2.1.1.6.2 — Informes de solicitudes de acceso a información
 
@@ -928,27 +810,9 @@ PARÁGRAFO 2. El primer informe de solicitudes de acceso a la información deber
 
 (Decreto 103 de 2015, art. 52)
 
-ARTÍCULO
-
-SIC.ES 2.1.1.6.3. Vigencia. Las disposiciones contenidas en este título empezaron a regir en la fecha publicación del Decreto 103 de 2015, sin perjuicio de lo previsto en el artículo 33 de la Ley 1712 de 2014, respecto de la entrada en vigencia para los entes territoriales.
-
-(Decreto 103 de 2015, art. 53)
-
-CAPÍTULO 7
-
-(Capítulo 7, Adicionado por el Art. 1 del Decreto 1829 de 2017)
-
-SECCIÓN 1
-
-DISPOSICIONES GENERALES
-
-ARTÍCULO
-
 ## art:2.1.1.7.1.1 — Creación del sistema
 
 Créase el Sistema Integrado de Información para el Posconflicto (SIIPO), el cual contribuirá a la transparencia, seguimiento, veeduría, control ciudadano y verificación de la implementación de las acciones para el posconflicto.
-
-ARTÍCULO
 
 ## art:2.1.1.7.1.2 — Principios y definiciones
 
@@ -960,15 +824,11 @@ SECCIÓN 2
 
 SISTEMA INTEGRADO DE INFORMACIÓN PARA EL POSCONFLICTO (SIIPO)
 
-ARTÍCULO
-
 ## art:2.1.1.7.2.1 — Objeto del SIIPO
 
 El objeto del Sistema Integrado de Información para el Posconflicto es contribuir a la transparencia, facilitar el seguimiento y verificación del Plan Marco para la Implementación del Acuerdo Final, así como las iniciativas adicionales del Gobierno nacional tales como políticas, planes, programas, proyectos y recursos para el posconflicto, previniendo cualquier forma de corrupción y dando garantías a la ciudadanía para facilitar el control social y la veeduría ciudadana. En particular, el SIIPO servirá como fuente de información para la Comisión de Seguimiento, Impulso y Verificación a la Implementación del Acuerdo Final (CSIVI).
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.1.7.2.2 — Administrador del SIIPO
 
@@ -976,21 +836,15 @@ Corresponde a la Alta Consejería Presidencial para el Posconflicto del Departam
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.7.2.3 — Seguimiento
 
 El SIIPO tendrá un componente de seguimiento, frente al estado efectivo del proceso de implementación del Acuerdo Final y de las demás acciones para el posconflicto reportadas en el sistema, así como de los indicadores, las metas, las políticas, planes, programas, proyectos, recursos y demás medidas que contribuyan a la implementación. De igual manera permitirá hacer seguimiento a la suscripción de convenios y contratos para la implementación del Acuerdo Final y el desarrollo de otras acciones para el posconflicto.
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.7.2.4 — Ventana de visibilización
 
 El SIIPO tendrá una ventana de visibilización que se denominará Portal para la Paz, la cual permitirá el acceso a la información pública relacionada con la implementación del Acuerdo Final y otras acciones para el posconflicto, en lo relacionado con políticas, planes, programas, proyectos, recursos y las estrategias establecidas. El portal se constituirá en un medio de diálogo, divulgación y comunicación que facilite la participación ciudadana, control social y la lucha contra la corrupción.
-
-ARTÍCULO
 
 ## art:2.1.1.7.2.5 — Modificaciones
 
@@ -1002,25 +856,17 @@ SECCIÓN 3
 
 SEGUIMIENTO
 
-ARTÍCULO
-
 ## art:2.1.1.7.3.1 — Planificación y gestión
 
 El SIIPO contendrá la base de información recolectada y procesada dirigida a la ejecución y gestión de las políticas, planes, programas, proyectos y recursos para la implementación del Acuerdo Final y las otras acciones para el Posconflicto. Así mismo, facilitará el registro, articulación y gestión de las organizaciones cooperantes, donantes, operadores, contratistas y otros actores para el cumplimiento de su objeto.
-
-ARTÍCULO
 
 ## art:2.1.1.7.3.2 — Objetivos, indicadores y metas
 
 El SIIPO hará seguimiento del estado efectivo de los objetivos, indicadores y metas del Plan Marco de Implementación que permitan además del monitoreo, seguimiento, el ejercicio del control ciudadano sobre la ejecución de las políticas, planes, programas, proyectos y recursos destinados a la implementación del acuerdo final y el desarrollo de las acciones para el posconflicto.
 
-ARTÍCULO
-
 ## art:2.1.1.7.3.3 — Reportes
 
 El SIIPO proveerá información pública al Gobierno nacional y a la Comisión de Seguimiento, Impulso y Verificación a la Implementación del Acuerdo Final (CSIVI) para la consolidación y elaboración de informes relacionados con el avance en el cumplimiento del Acuerdo Final.
-
-ARTÍCULO
 
 ## art:2.1.1.7.3.4 — Integración y articulación
 
@@ -1032,25 +878,17 @@ SECCIÓN 4
 
 VENTANA DE VISIBILIZACIÓN: PORTAL PARA LA PAZ
 
-ARTÍCULO
-
 ## art:2.1.1.7.4.1 — Objeto del Portal para la Paz
 
 El Portal para la Paz será el portal web que permita la visualización y convergencia de la información pública asociada con el avance al proceso de implementación del Acuerdo Final, con la observancia de las disposiciones contenidas en la Ley 1712 de 2014.
-
-ARTÍCULO
 
 ## art:2.1.1.7.4.2 — Administración del Portal para la Paz
 
 La Consejería Presidencial para la Estabilización y la Consolidación del Departamento Administrativo de la Presidencia de la República, o quien haga sus veces, será la encargada de la administración del portal, así como del diseño de los lineamientos que allí se divulguen.
 
-ARTÍCULO
-
 ## art:2.1.1.7.4.3 — Contenidos
 
 El Portal contendrá información pública relacionada con los avances del Acuerdo Final, en particular los relacionados con las políticas, planes, programas y proyectos que se deriven tanto del cumplimiento del Plan Marco de Implementación, como del avance en 1a ejecución de recursos a través del SIIPO.
-
-ARTÍCULO
 
 ## art:2.1.1.7.4.4 — Información sobre la implementación del Acuerdo Final
 
@@ -1072,8 +910,6 @@ El Portal para la Paz contendrá como mínimo la siguiente información:
 
 PARÁGRAFO . El Portal para la Paz, según las necesidades se podrá articular con otros sistemas de información, plataformas o portales de las entidades que manejen o produzcan información relacionada con la implementación del Acuerdo Final.
 
-ARTÍCULO
-
 ## art:2.1.1.7.4.5 — Propiedad de la información y licencia de uso
 
 Los datos y la información publicados en el Portal son públicos, por esta razón, conforme con las disposiciones de la Ley 1712 de 2014, se podrá hacer uso, aprovechamiento y/o transformación de forma libre y sin restricciones, para hacer aplicaciones por parte de terceros y contenidos de su propia creación.
@@ -1081,8 +917,6 @@ Los datos y la información publicados en el Portal son públicos, por esta raz�
 Para efectos de las presentes condiciones, se entiende por uso, aprovechamiento y/o transformación autorizada de los datos, las actividades tales como: redistribución, compilación, extracción, copia, difusión y adaptación de los datos.
 
 El usuario que haga uso, aprovechamiento y/o transformación de los datos y/o de la información publicada en este sitio web deberá hacer la cita: "Fuente: Portal para la Paz - Paz con Legalidad", y mencionar la fecha de la última actualización de los datos objeto del uso y/o la transformación.
-
-ARTÍCULO
 
 ## art:2.1.1.7.4.6 — Responsabilidad de los usuarios
 
@@ -1092,15 +926,11 @@ SECCIÓN 5
 
 DISPOSICIONES COMPLEMENTARIAS
 
-ARTÍCULO
-
 ## art:2.1.1.7.5.1 — Reporte de la información
 
 La Alta Consejería Presidencial para el Posconflicto del Departamento Administrativo la Presidencia de la República, o quien haga sus veces determinará las entidades y condiciones del reporte obligatorio de la información que permita el análisis, seguimiento, monitoreo y visibilidad del proceso de implementación del Acuerdo Final y otras de las acciones para el posconflicto. La veracidad, exactitud y entrega de los datos que se suministren será responsabilidad exclusiva de la entidad competente y se regirá bajo los principios establecidos en la Ley 1712 de 2014.
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.1.7.5.2 — Publicidad de datos abiertos
 
@@ -1108,21 +938,15 @@ La información generada y producida por el Portal para la Paz deberá ser publi
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.7.5.3 — Articulación con la Secretaría de Transparencia de la Presidencia de la República
 
 La Secretaría de Transparencia de la Presidencia de la República podrá solicitar al administrador del SIIPO la vinculación e inclusión de información relevante en el SIIPO relacionada con la gestión de los recursos públicos y la implementación de las acciones para el posconflicto.
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
 
-ARTÍCULO
-
 ## art:2.1.1.7.5.4 — Articulación con el Sistema de Rendición de Cuentas para la implementación del Acuerdo de Paz
 
 La información dispuesta en el Portal para la Paz, hará parte de los procesos de información y diálogo para la rendición de cuentas que se integrarán en el Sistema de Rendición de Cuentas para la implementación del Acuerdo de Paz, cuyos lineamientos serán expedidos por el Departamento Administrativo de la Función Pública y serán atendidos por las entidades y organismos que conforman la administración pública y por aquellas instancias o cuerpos colegiados que contribuyan en la implementación del Acuerdo Final.
-
-ARTÍCULO
 
 ## art:2.1.1.7.5.5 — Requisitos del Sistema Integrado de Información para el Posconflicto SIIPO
 
@@ -1131,8 +955,6 @@ Para garantizar la consulta y acceso a los documentos electrónicos y la informa
 PARÁGRAFO . Se garantizará el intercambio de información entre los diferentes sectores, mediante esquemas de interoperabilidad que estandaricen y faciliten la gestión de la información contenida en los Sistemas de Información, bajo los lineamientos de la estrategia de Gobierno en Línea del Ministerio de Tecnologías de la Información y las Comunicaciones. Para tales efectos se atenderán las directrices del Decreto número 2280 de 2010.
 
 (Derogado por el Art. 4 del Decreto 1778 de 2020)
-
-ARTÍCULO
 
 ## art:2.1.1.7.5.6 — Directrices técnicas y operativas
 
@@ -1162,23 +984,17 @@ CAPÍTULO 1
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.1.2.1.1 — Objeto
 
 El presente título establece directrices generales de técnica normativa para la elaboración de proyectos de decretos y resoluciones para la firma del Presidente de la República.
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.2 — Finalidad
 
 Las directrices generales de técnica normativa previstas en el presente título tienen como finalidad racionalizar la expedición de decretos y resoluciones, dotar de seguridad jurídica a los destinatarios de la norma, evitar la dispersión y proliferación normativa, así como optimizar los recursos físicos y humanos utilizados en esta actividad, con el propósito de construir un ordenamiento jurídico eficaz, coherente y estructurado a partir de preceptos normativos correctamente formulados.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.3 — Ámbito de aplicación
 
@@ -1190,8 +1006,6 @@ PARÁGRAFO . La coordinación y verificación del cumplimiento de las directrice
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.4 — Supremacía constitucional, reserva legal y jerarquía normativa
 
 En la elaboración de decretos y resoluciones de carácter general que sean sometidos a consideración del Presidente de la República se deberá observar la Constitución y la ley, así como los principios que rigen la función administrativa.
@@ -1200,15 +1014,11 @@ Las dependencias encargadas de elaborar los respectivos proyectos deberán verif
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.5 — Prohibición de crear faltas, sanciones, multas, tasas o contribuciones
 
 En desarrollo del principio de legalidad, ningún decreto o resolución podrá crear faltas administrativas o disciplinarias, ni establecer sanciones, multas, tasas o contribuciones de cualquier naturaleza.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.6 — Memoria justificativa
 
@@ -1248,8 +1058,6 @@ PARÁGRAFO . El Departamento Administrativo de la Función Pública elaborará e
 
 (Decreto 270 de 2017, artículo 3)
 
-ARTÍCULO
-
 ## art:2.1.2.1.7 — Contenido de la memoria justificativa en lo relativo a la viabilidad jurídica
 
 El estudio de viabilidad jurídica deberá incluir los siguientes aspectos:
@@ -1266,8 +1074,6 @@ El estudio de viabilidad jurídica deberá incluir los siguientes aspectos:
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.8 — Deber de coordinación
 
 Cuando el respectivo proyecto tenga impacto o comprenda materias propias de ministerios o departamentos administrativos diferentes al que ha tomado la iniciativa de elaboración, este deberá ponerlo en conocimiento de aquellos y coordinar lo pertinente para que el texto remitido a la firma del Presidente de la República se encuentre debidamente conciliado y refleje una visión integral y coherente del asunto.
@@ -1276,15 +1082,11 @@ Si el proyecto no logra ser conciliado entre las respectivas entidades y organis
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.9 — Abogacía de la competencia
 
 De conformidad con lo previsto en el artículo 7 de la Ley 1340 de 2009, el ministerio o departamento administrativo responsable deberá informar a la Superintendencia de Industria y Comercio de todos aquellos proyectos normativos que puedan tener incidencia en la libre competencia en los mercados, como por ejemplo, aquellos que tengan por objeto o puedan tener como efecto limitar el número o variedad de competidores en uno o varios mercados relevantes, la capacidad de las empresas para competir o la libre elección o información disponible para los consumidores en un mercado relevante determinado. En caso de que la Superintendencia de Industria y Comercio haya proferido concepto y se considere necesario apartarse del mismo, se dejará constancia de esa circunstancia en la memoria justificativa.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.10 — Reglamentos técnicos y de procedimientos de evaluación de la conformidad
 
@@ -1296,8 +1098,6 @@ PARÁGRAFO 2. Conforme con lo establecido en el artículo 72 de la Ley 1480 de 2
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.11 — Impacto normativo en los proyectos que establezcan trámites autorizados por la ley
 
 Al tenor de lo dispuesto en el artículo 1 de la Ley 962 de 2005, modificado por el artículo 39 del Decreto-Ley 019 de 2012, cuando un proyecto normativo establezca un nuevo trámite, la entidad que ha tomado la iniciativa de su estructuración deberá someterlo a consideración previa del Departamento Administrativo de la Función Pública. En la memoria justificativa del proyecto y en la parte motiva del respectivo decreto o resolución se dejará constancia de cumplimiento de ese trámite.
@@ -1305,8 +1105,6 @@ Al tenor de lo dispuesto en el artículo 1 de la Ley 962 de 2005, modificado por
 Para ello, acreditará su justificación, eficacia, eficiencia y los costos de implementación para los obligados a cumplirlo; asimismo, deberá demostrar la existencia de recursos presupuestales y administrativos necesarios para su aplicación. En caso de encontrarlo razonable y adecuado con la política de simplificación, racionalización y estandarización de trámites, el Departamento Administrativo de la Función Pública autorizará su adopción e implementación.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.12 — Racionalización, regulación integral y seguridad jurídica
 
@@ -1316,15 +1114,11 @@ En caso de que dentro del año inmediatamente anterior a la fecha probable de ex
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.13 — Deber de consultar
 
 Cuando la Constitución y la ley así lo ordenen, deberán realizarse las consultas en ellas señaladas, caso en el cual a la memoria justificativa deberá anexarse la constancia que acredite que se ha cumplido dicho trámite.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.14 — .14
 
@@ -1342,15 +1136,11 @@ PARÁGRAFO 1. El Departamento Administrativo de la Función Pública elaborará 
 
 (Decreto 270 de 2017, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.15 — Deber de calidad formal
 
 La redacción del proyecto deberá caracterizarse por su claridad, precisión, sencillez y coherencia, en forma tal que el texto no presente ambigüedad ni contradicciones.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.16 — Estructura del proyecto
 
@@ -1376,15 +1166,11 @@ Los proyectos de decreto o resolución deberán tener la siguiente estructura fo
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.17 — Devolución de proyecto
 
 Salvo casos de urgencia o necesidad debidamente justificados, o en los eventos de estados de excepción, el proyecto que no cumpla las directrices de técnica normativa previstas en este título será devuelto por la Secretaría Jurídica del Departamento Administrativo de la Presidencia de la República a la dependencia que lo elaboró, para que se hagan los ajustes o adicione la información requerida.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.18 — Archivo
 
@@ -1392,15 +1178,11 @@ De acuerdo con lo dispuesto en el artículo 4 de la Ley 594 de 2000 y demás nor
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.19 — Parámetros documentales
 
 Los proyectos de decreto y resolución deberán seguir la numeración, tipología, formatos y demás parámetros documentales que se establecen en el Anexo No. 1 - Manual para la elaboración de textos normativos.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.20 — Agenda regulatoria
 
@@ -1426,8 +1208,6 @@ Nota (Ver Directiva Presidencial No. 07 de 2018.)
 
 Nota (Ver Circular 01 de 2020, Presidencia de la República)
 
-ARTÍCULO
-
 ## art:2.1.2.1.21 — .21
 
 Aplicación del presente título para la expedición de resoluciones que no requieren firma del Presidente de la República y por las demás entidades de la rama ejecutiva del orden nacional. La expedición de resoluciones que no requieran firma del Presidente de la República deberán sujetarse a lo previsto en este título, en relación con:
@@ -1448,15 +1228,11 @@ Aplicación del presente título para la expedición de resoluciones que no requ
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.1.22 — Proyectos que puedan afectar la organización, competencia o funcionamiento del Consejo de Estado
 
 De conformidad con lo dispuesto en el numeral 1 del artículo 113 de la Ley 1437 de 2011, en la elaboración de proyectos de decreto o resolución que puedan afectar la organización, competencia o funcionamiento del Consejo de Estado, deberá escucharse previamente a la Sala de Consulta y Servicio Civil de esa corporación. Del cumplimiento de este trámite se dejará constancia en la memoria justificativa, así como en el epígrafe del correspondiente acto.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.1.23 — Plazo para la publicación de los proyectos de regulación que no lleven la firma del Presidente de la República
 
@@ -1465,8 +1241,6 @@ Los proyectos específicos de regulación que no sean suscritos por el President
 PARÁGRAFO . Las autoridades públicas del orden nacional competentes para proferir actos administrativos de contenido general y abstracto que no sean suscritos por el Presidente de la República reglamentarán estos plazos en un término no superior a los dos (2) meses, contados a partir del 15 de febrero de 2016
 
 (Decreto 270 de 2017, artículo 5)
-
-ARTÍCULO
 
 ## art:2.1.2.1.24 — Excepciones al deber de publicar proyectos de regulación
 
@@ -1490,8 +1264,6 @@ La publicación a que se refieren los artículos 2.1.2.1.14, 2.1.2.1.20 y 2.1.2.
 
 (Decreto 270 de 2017, artículo 6)
 
-ARTÍCULO
-
 ## art:2.1.2.1.25 — Promoción de la participación ciudadana
 
 Con el fin de que los ciudadanos y grupos de interés participen en la elaboración de los proyectos específicos de regulación de carácter general, la entidad que lidere la elaboración realizará, entre otras, las siguientes acciones:
@@ -1510,8 +1282,6 @@ CAPÍTULO 2
 
 REGLAS ESPECÍFICAS PARA LA ELABORACIÓN DE NORMAS MODIFICATORIAS DE LOS DECRETOS ÚNICOS REGLAMENTARIOS
 
-ARTÍCULO
-
 ## art:2.1.2.2.1 — Facultades reglamentarias
 
 Todo decreto reglamentario que se expida a partir de la fecha deberá incorporarse al decreto único reglamentario del sector al cual corresponda.
@@ -1519,8 +1289,6 @@ Todo decreto reglamentario que se expida a partir de la fecha deberá incorporar
 Adicionalmente, todo decreto deberá expresar la circunstancia de ser expedido en ejercicio de la facultad del Presidente de la República consignada en el numeral 11 del artículo 189 de la Constitución, y señalar la ley o leyes que reglamenta, así como los artículos en concreto.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.2.2 — Adición de disposiciones a los decretos únicos reglamentarios
 
@@ -1530,8 +1298,6 @@ En este sentido, todo decreto deberá señalar el libro, la parte, el título, e
 
 (Decreto 1609 de 2015, artículo 1)
 
-ARTÍCULO
-
 ## art:2.1.2.2.3 — Modificación de disposiciones de los decretos únicos reglamentarios
 
 En caso de que el decreto reglamentario pretenda modificar normas específicas de un decreto único reglamentario, deberá indicarse con exactitud la norma que se modifica.
@@ -1539,8 +1305,6 @@ En caso de que el decreto reglamentario pretenda modificar normas específicas d
 En este sentido, el nuevo decreto debe precisar de manera inequívoca el (los) artículo(s) que desea modificar.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.2.4 — Derogatoria de disposiciones de los decretos únicos reglamentarios
 
@@ -1553,8 +1317,6 @@ En este sentido, el nuevo decreto debe precisar de manera inequívoca el artícu
 CAPÍTULO 3
 
 PUBLICACIÓN EN SITIO WEB
-
-ARTÍCULO
 
 ## art:2.1.2.3.1 — Publicación en sitios Web
 
@@ -1575,8 +1337,6 @@ Dentro de los treinta (30) días siguientes a la publicación del presente Decre
 PARÁGRAFO . Los decretos no compilados en el decreto único reglamentario, como los de estructura, salarios, decretos que desarrollan leyes marco, entre otros, deberán aparecer de manera diferenciada en el sitio Web de la entidad respectiva.
 
 (Decreto 1609 de 2015, artículo 1)
-
-ARTÍCULO
 
 ## art:2.1.2.3.2 — Parámetros documentales
 
@@ -2202,9 +1962,7 @@ Las demás que le asigne la comisión y que sean de la naturaleza de su función
 
 Las funciones asignadas a la Comisión se desarrollarán con cargo a los recurses de las entidades que la conforman, y se sujetaran a las disponibilidades presupuestales, al Marco Fiscal de Mediano Plaza y al Marco de Gasto de Mediano Plaza.
 
-## art:2 — ACTOS DE IMPLEMENTACIÓN
-
-El Ministerio de Justicia y del Derecho y el Departamento Nacional de Planeación expedirán los actos administrativos que incorporen los formatos y guías establecidos en el presente decreto.
+ARTÍCULO 2. ACTOS DE IMPLEMENTACIÓN. El Ministerio de Justicia y del Derecho y el Departamento Nacional de Planeación expedirán los actos administrativos que incorporen los formatos y guías establecidos en el presente decreto.
 
 PARÁGRAFO TRANSITORIO. Hasta tanto no se expidan los formatos y guías establecidos en el presente decreto, se continuarán implementando, en lo que sea correspondiente, los formatos y guías vigentes establecidos por las respectivas autoridades públicas, conforme al Decreto 1345 de 2010 compilado en el Decreto 1081 de 2015 y modificado por los Decretos 1609 de 2015, 270 de 2017 y 1273 de 2020.
 
@@ -2226,8 +1984,6 @@ CAPÍTULO 1
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.1.3.1 — Actas
 
 Las actas que se levanten en cada una de las sesiones del Consejo de Ministros serán aprobadas por el Presidente de la República y el Director del Departamento Administrativo de la Presidencia de la República.
@@ -2242,8 +1998,6 @@ DISPOSICIONES ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN"
 
 (Título sustituido por el Art. 1 del Decreto 124 de 2016)
 
-ARTÍCULO
-
 ## art:2.1.4.1 — Estrategias de lucha contra la corrupción y de Atención al Ciudadano
 
 Señálense como metodología para diseñar y hacer seguimiento a la estrategia de lucha contra la corrupción y de atención al ciudadano de que trata el artículo 73 de la Ley 1474 de 2011, la establecida en el Plan Anticorrupción y de Atención al Ciudadano contenida en el documento “Estrategias para la Construcción del Plan Anticorrupción y de Atención al Ciudadano- Versión 2”.
@@ -2251,8 +2005,6 @@ Señálense como metodología para diseñar y hacer seguimiento a la estrategia 
 (Derogado por el Art. 4 del Decreto 1122 de 2024) 
 
 (Decreto 124 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.4.2 — Mapa de Riesgos de Corrupción
 
@@ -2262,8 +2014,6 @@ Señálense como metodología para diseñar y hacer seguimiento al Mapa de Riesg
 
 (Decreto 124 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.4.3 — Estándares para las entidades públicas
 
 Señálense como estándares que las entidades públicas deben seguir para dar cumplimiento a lo establecido en el artículo 76 de la Ley 1474 de 2011, los contenidos en el documento de “Estrategias para la Construcción del Plan Anticorrupción y de Atención al Ciudadano - Versión 2”.
@@ -2272,17 +2022,13 @@ Señálense como estándares que las entidades públicas deben seguir para dar c
 
 (Decreto 124 de 2016, art. 1)
 
-ARTÍCULO
-
-## art:2.1.4.4 — Anexo
+## art:2.1.4.4 — .Anexo
 
 Los documentos “Estrategias para la Construcción del Plan Anticorrupción y de Atención al Ciudadano - Versión 2” y “Guía para la Gestión del Riesgo de Corrupción.” hacen parte integral del presente decreto.
 
 (Derogado por el Art. 4 del Decreto 1122 de 2024)
 
 (Decreto 124 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.4.5 — Verificación del cumplimiento
 
@@ -2291,8 +2037,6 @@ La máxima autoridad de la entidad u organismo velará de forma directa porque s
 (Derogado por el Art. 4 del Decreto 1122 de 2024)
 
 (Decreto 124 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.4.6 — Mecanismos de seguimiento al cumplimiento y monitoreo
 
@@ -2304,8 +2048,6 @@ Por su parte, el monitoreo estará a cargo del Jefe de Planeación o quien haga 
 
 (Decreto 124 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.4.7 — Publicación de los anexos
 
 Los documentos de “Estrategias para la Construcción del Plan Anticorrupción y de Atención al Ciudadano - Versión 2” y de “Guía para la Gestión del Riesgo de Corrupción” serán publicados para su consulta en las páginas web del Departamento Administrativo de la Presidencia de la República, del Departamento Nacional de Planeación y del Departamento Administrativo de la Función Pública”.
@@ -2313,8 +2055,6 @@ Los documentos de “Estrategias para la Construcción del Plan Anticorrupción 
 (Derogado por el Art. 4 del Decreto 1122 de 2024)
 
 (Decreto 124 de 2016, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.4.8 — Publicación del Plan Anticorrupción y de Atención al Ciudadano y Mapa de riesgos de corrupción
 
@@ -2330,8 +2070,6 @@ Las entidades de la Rama Ejecutiva del orden nacional deberán integrar el Plan 
 
 (Decreto 124 de 2016, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.4.9 — Actualización
 
 La Secretaría de Transparencia del Departamento Administrativo de la Presidencia de República actualizará las metodologías y estándares de que tratan los artículos 73 y 76 de la Ley 1474 de 2011, cuando a ello hubiere lugar”.
@@ -2346,15 +2084,11 @@ Capítulo Adicionado por el Art. 1 del Decreto 958 de 2016
 
 CONFORMACIÓN Y REMISIÓN DE LAS TERNAS DE LOS COMISIONADOS CIUDADANOS ASPIRANTES A INTEGRAR LA COMISIÓN NACIONAL CIUDADANA PARA LA LUCHA CONTRA LA CORRUPCIÓN
 
-ARTÍCULO
-
 ## art:2.1.4.1.1 — 1.1
 
 Difusión del proceso de designación de tos comisionados ciudadanos aspirantes a integrar la Comisión Nacional Ciudadana para la Lucha contra la Corrupción. El Ministerio del Interior y la Secretaría de Transparencia de la Presidencia de la República apoyarán a los organismos, asociaciones y agremiaciones a que se refiere el artículo 2.1.4.1.2. de este decreto en la difusión del proceso de convocatoria para la conformación de las ternas de los aspirantes a comisionados de la Comisión Nacional Ciudadana para la Lucha contra la Corrupción.
 
 Dicho apoyo propenderá a garantizar la transparencia, democratización y efectiva participación de todos los integrantes de los sectores a que se refiere el artículo 66 de la Ley 1474 de 2011.
-
-ARTÍCULO
 
 ## art:2.1.4.1.2 — Convocatoria y conformación de la terna para la designación de los comisionados ciudadanos
 
@@ -2396,23 +2130,17 @@ La convocatoria deberá estar abierta durante, por lo menos, quince (15) días c
 
 La difusión de la convocatoria se hará, además de la publicación a que hace referencia el inciso anterior, en un medio de amplia circulación nacional.
 
-ARTÍCULO
-
 ## art:2.1.4.1.3 — Término para remitir la terna al Presidente de la República
 
 Las ternas a que se refiere el artículo anterior deberán ser remitidas a la Secretaría de Transparencia de la Presidencia de la República con una antelación no mayor a un (1) mes, contado a partir de la fecha del vencimiento de cada uno de los periodos de los respectivos representantes.
 
 PARÁGRAFO TRANSITORIO. Las ternas de los Gremios Económicos, Organizaciones No Gubernamentales dedicadas a la lucha contra la corrupción, Medios de Comunicación, Veedurías Ciudadanas, Consejo Nacional de Planeación y Organizaciones Sindicales, deberán ser enviadas a la Secretaría de Transparencia de la Presidencia de la República. por una primera vez, a más tardar, dentro de los sesenta (60) días calendario, contados a partir del día siguiente a la vigencia de este decreto.
 
-ARTÍCULO
-
 ## art:2.1.4.1.4 — Publicidad de las ternas
 
 Las hojas de vida de los integrantes de las ternas de cada sector se publicarán en la página web de la Presidencia de la República por un lapso de diez (10) días calendario, contados a partir del día siguiente a la recepción de la terna, con el fin de que cualquier ciudadano presente sus observaciones sobre los candidatos.
 
 La Secretaría de Transparencia evaluará las observaciones que se envíen sobre dichas hojas de vida.
-
-ARTÍCULO
 
 ## art:2.1.4.1.5 — Provisión de vacantes
 
@@ -2426,21 +2154,15 @@ CAPÍTULO 2
 
 DEL RÉGIMEN DE LAS PERSONAS EXPUESTAS POLÍTICAMENTE - PEP-, A QUE SE REFIERE EL ARTÍCULO 52 DE LA CONVENCIÓN DE LAS NACIONES UNIDAS CONTRA LA CORRUPCIÓN, APROBADA POR LA LEY 970 DE 2005
 
-ARTÍCULO
-
 ## art:2.1.4.2.1 — Objeto
 
 El presente capitulo tiene por objeto definir quiénes son las Personas Expuestas Políticamente - PEP- y en qué consiste su obligación con el sistema financiero en razón de dicha condición.
-
-ARTÍCULO
 
 ## art:2.1.4.2.2 — Ámbito de aplicación
 
 El presente capitulo aplicará a las Personas Expuestas Políticamente (PEP), a los sujetos obligados a implementar medidas y sistemas de administración de prevención de riesgo de lavado de activos y financiación del terrorismo, y a los sujetos de reporte de la Unidad de Información y Análisis Financiero (UIAF); quienes deberán aplicar las medidas de debida diligencia del cliente de acuerdo con la normatividad vigente y las adicionales que se definen en el presente Capítulo, en desarrollo de los procesos de vinculación y monitoreo de la relación comercial con las Personas Expuestas Políticamente (PEP)".
 
 (Modificado por el Art. 1 del Decreto 830 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.4.2.3 — Personas Expuestas Políticamente
 
@@ -2488,8 +2210,6 @@ PARÁGRAFO . La calidad de Personas Expuestas Políticamente (PEP) se mantendrá
 
 (Modificado por el Art. 2 del Decreto 830 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.4.2.4 — Obligación de las Personas Expuestas Políticamente y de las entidades
 
 Personas consideradas como Personas Expuestas Políticamente (PEP) informarán su cargo, fecha de vinculación y fecha de desvinculación durante la debida diligencia realizada en los procesos de vinculación, monitoreo y actualización de los datos del cliente, a los sujetos obligados del artículo 2.1.4.2.2.
@@ -2504,31 +2224,21 @@ Para el caso de los servidores públicos relacionados de los numerales 1 al 14 d
 
 (Modificado por el Art. 3 del Decreto 830 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.4.2.5 — Escrutinio y colaboración sobre productos y servicios financieros de PEP
 
 Los sujetos obligados al cumplimiento de la regulación vigente sobre el riesgo de lavado de activos y financiación del terrorismo y los sujetos de reporte de la Unidad de Información y Análisis Financiero (UIAF) brindarán toda la colaboración y asistencia necesaria para facilitar la obtención de información, evidencias y el escrutinio de productos y servicios financieros de PEP, por parte de los entes de vigilancia y control, la Fiscalía General de la Nación, la Dirección Nacional de Inteligencia y la Unidad de Información y Análisis Financiero, de conformidad con las estrictas competencias atribuidas por la ley y con respeto del debido proceso.
-
-ARTÍCULO
 
 ## art:2.1.4.2.6 — Cooperación y asistencia internacional
 
 De conformidad con lo establecido en los acuerdos y tratados de cooperación y asistencia en materia de lucha contra el lavado de activos} financiación del terrorismo, enriquecimiento ilícito, contrabando y lucha contra la corrupción, suscritos y ratificados por Colombia, las autoridades colombianas competentes podrán compartir la información a la que se refiere el artículo 2.1.4.2 5. de este Decreto con las agencias de investigación penal, fiscal o administrativa de otros países, con estricta sujeción a los procedimientos previstos en las normas internacionales y de acuerdo a lo señalado en el ordenamiento jurídico interno.
 
-ARTÍCULO
-
 ## art:2.1.4.2.7 — 2.7
 
 Respeto de las garantías del habeas data Ninguna de las disposiciones de este decreto podrá interpretarse en contra de las garantías consagradas en las leyes de protección de habeas data.
 
-ARTÍCULO
-
 ## art:2.1.4.2.8 — Instrucciones de las entidades de supervisión
 
 Las disposiciones de este Capítulo se aplicarán sin perjuicio de las instrucciones especiales impartidas por las entidades de supervisión sobre el riesgo de lavado de activos y financiación del terrorismo.
-
-ARTÍCULO
 
 ## art:2.1.4.2.9 — Personas Expuestas Políticamente Extranjeras
 
@@ -2542,15 +2252,11 @@ PARÁGRAFO . La calidad de Personas Expuestas Políticamente Extranjeras se mant
 
 (Adicionado por el Art. 4 del Decreto 830 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.4.2.10 — Asociados cercanos
 
 Se entenderá por asociados cercanos a las personas jurídicas que tengan como administradores, accionistas, controlantes o gestores alguno de los PEP enlistados en el artículo 2.1.4.2.3., o que hayan constituido patrimonios autónomos o fiducias en beneficio de éstos, o con quienes se mantengan relaciones comerciales, a quienes se les aplicará la debida diligencia de acuerdo con la normatividad vigente".
 
 (Adicionado por el Art. 5 del Decreto 830 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.4.2.11 — Lista de Personas Expuestas Políticamente (PEP)
 
@@ -2561,8 +2267,6 @@ A la lista de las Personas Expuestas Políticamente (PEP) se le aplicará lo dis
 PARÁGRAFO . Los sujetos obligados a implementar medidas de prevención de riesgo de lavado de activos y financiación del terrorismo y sistemas de administración de riesgos y los sujetos de reporte a la Unidad de Información y Análisis Financiero (UIAF), tendrán un plazo de tres (3) meses contados a partir de la publicación de la lista de Personas Expuestas Políticamente (PEP) para implementar lo dispuesto en el presente decreto".
 
 (Adicionado por el Art. 6 del Decreto 830 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.4.2.12 — Acceso a la información de las Personas Expuestas Políticamente (PEP)
 
@@ -2578,13 +2282,9 @@ CAPÍTULO 3.
 
 COMISIONES REGIONALES DE MORALIZACIÓN
 
-ARTÍCULO
-
 ## art:2.1.4.3.1 — Objeto
 
 Definir y reglamentar la organización y el funcionamiento de las Comisiones Regionales de Moralización.
-
-ARTÍCULO
 
 ## art:2.1.4.3.2 — 
 
@@ -2605,8 +2305,6 @@ PARÁGRAFO 1: La Comisión designará un presidente y un secretario técnico por
 PARÁGRAFO 2: La Comisión podrá convocar para ser parte de la Comisión Regional de Moralización, con voz y voto, cuando considere necesario, a las siguientes autoridades: la Defensoría del Pueblo, las personerías municipales, los cuerpos especializados de policía técnica, el Gobernador y el Presidente de la Asamblea Departamental.
 
 PARÁGRAFO 3. La Comisión podrá invitar, con derecho a voz y sin voto según la naturaleza del asunto, las siguientes autoridades: las Procuradurías Provinciales, Gerente Seccional de la Auditoría General de la República, los Alcaldes y los Presidentes de los Concejos de los Municipios del Departamento respectivo, sin perjuicio de que sean invitadas otras personas y/o entidades.
-
-ARTÍCULO
 
 ## art:2.1.4.3.3 — Funciones de la Comisión
 
@@ -2644,8 +2342,6 @@ El Departamento Administrativo de la Función Pública deberá establecer el for
 
 PARÁGRAFO 3. Si de las reuniones con la ciudadanía se identifican riesgos en el manejo y en la ejecución de los recursos públicos, estos deberán comunicarse a la Secretaría de Transparencia del Departamento Administrativo de la Presidencia de la República durante el mes siguiente a la reunión e incluirse en los casos atendidos por la Comisión para su respectivo seguimiento.
 
-ARTÍCULO
-
 ## art:2.1.4.3.4 — 3.4
 
 Funciones de la Secretaría Técnica: La Secretaría Técnica tendrá las siguientes funciones:
@@ -2666,19 +2362,13 @@ g) Preparar los informes de gestión de la Comisión mencionados en el artículo
 
 h) Someter a consideración de la Comisión la información que ésta requiera para la coordinación de políticas de prevención y lucha contra la corrupción.
 
-ARTÍCULO
-
 ## art:2.1.4.3.5 — Reuniones
 
 Las Comisiones Regionales de Moralización se reunirán mensualmente. La asistencia será de carácter obligatorio tanto para los representantes regionales de las entidades que las conforman como para los representantes regionales de las entidades convocadas.
 
-ARTÍCULO
-
 ## art:2.1.4.3.6 — Promoción de la participación ciudadana y el ejercicio de control social a la gestión pública
 
 Con el fin de promover la participación ciudadana y apoyar a las veedurías ciudadanas en su ejercicio de control social a la gestión pública, las Comisiones Regionales de Moralización se articularán con la Red Institucional de Apoyo a las Veedurías Ciudadanas en cada Departamento, mediante la formulación concertada de actividades y metas en sus respectivos planes de acción.
-
-ARTÍCULO
 
 ## art:2.1.4.3.7 — Seguimiento
 
@@ -2700,8 +2390,6 @@ g) Coordinar la articulación de Comisiones Regionales con la Comisión Nacional
 
 h) Realizar los traslados a los entes de control de los resultados del seguimiento efectuado a la gestión de las Comisiones Regionales.
 
-ARTÍCULO
-
 ## art:2.1.4.3.8 — Priorización de casos
 
 Para la priorización de los casos que serán analizados por las Comisiones Regionales de Moralización, se tendrán en cuenta los parámetros establecidos por la Fiscalía en la Directiva 001 de 4 de octubre de 2012 y 002 del 9 de diciembre de 2015, o las que la sustituya o modifique:
@@ -2721,8 +2409,6 @@ f) La riqueza probatoria y viabilidad del caso;
 g) El examen de organismos internacionales del acto de corrupción;
 
 h) La probabilidad de reiteración del acto de corrupción.
-
-ARTÍCULO
 
 ## art:2.1.4.3.9 — Tratamiento de casos conjuntos
 
@@ -2812,8 +2498,6 @@ TÍTULO 5
 
 POLÍTICA PÚBLICA NACIONAL DE EQUIDAD DE GÉNERO
 
-ARTÍCULO
-
 ## art:2.1.5.1 — De la Política Pública Nacional de Equidad De Género
 
 Adóptese la Política Pública Nacional de Equidad de Género, la cual estará compuesta por el conjunto de políticas, lineamientos, procesos, planes indicativos, instituciones, instancias y el Plan integral para garantizar una vida libre de violencias contenidas en el documento CONPES Social 161 de 2013 y las normas que los modifiquen o adicionen.
@@ -2824,23 +2508,17 @@ La Política Pública Nacional de Equidad de Género adoptada mediante el presen
 
 (Decreto 1930 de 2013, Art. 1)
 
-ARTÍCULO
-
 ## art:2.1.5.2 — Comisión intersectorial de coordinación para la implementación de la política pública nacional de equidad de género
 
 Créase la Comisión Intersectorial de la Política Pública Nacional de Equidad de Género, que en adelante se denominará “la Comisión”.
 
 (Decreto 1930 de 2013, Art. 2)
 
-ARTÍCULO
-
 ## art:2.1.5.3 — Objeto
 
 La Comisión tendrá por objeto coordinar, armonizar e impulsar la ejecución del Plan Indicativo por parte de las entidades involucradas, acorde a sus competencias en la Política Pública Nacional de Equidad de Género siendo ésta la instancia de concertación entre los diferentes sectores involucrados.
 
 (Decreto 1930 de 2013, Art. 3)
-
-ARTÍCULO
 
 ## art:2.1.5.4 — Integración
 
@@ -2880,8 +2558,6 @@ PARÁGRAFO 3. La Comisión podrá invitar a las sesiones a los funcionarios y re
 
 (Decreto 1930 de 2013, Art. 4)
 
-ARTÍCULO
-
 ## art:2.1.5.5 — Funciones de la Comisión
 
 La Comisión tendrá las siguientes funciones:
@@ -2904,8 +2580,6 @@ La Comisión tendrá las siguientes funciones:
 
 (Decreto 1930 de 2013, Art. 5)
 
-ARTÍCULO
-
 ## art:2.1.5.6 — Sesiones
 
 La Comisión Intersectorial se reunirá por derecho propio cada tres (3) meses, previa convocatoria realizada por la Secretaría Técnica y extraordinariamente a solicitud de cualquiera de los miembros de la misma.
@@ -2916,8 +2590,6 @@ De cada una de las sesiones se levantará un acta, la cual será firmada por la 
 
 (Decreto 1930 de 2013, Art. 6)
 
-ARTÍCULO
-
 ## art:2.1.5.7 — Quórum
 
 La Comisión podrá deliberar con la mitad más uno de los miembros que la integran. El quórum decisorio corresponderá al voto favorable de los asistentes a la sesión de la Comisión.
@@ -2926,15 +2598,11 @@ Las decisiones serán comunicadas por la Secretaría Técnica para que cada enti
 
 (Decreto 1930 de 2013, Art. 7)
 
-ARTÍCULO
-
 ## art:2.1.5.8 — Secretaría técnica
 
 La Secretaría Técnica será ejercida por la Consejería Presidencial para la Equidad de la Mujer.
 
 (Decreto 1930 de 2013, Art. 8)
-
-ARTÍCULO
 
 ## art:2.1.5.9 — Funciones de la Secretaría Técnica
 
@@ -2964,8 +2632,6 @@ La Secretaría Técnica de la Comisión tendrá las siguientes funciones:
 
 (Decreto 1930 de 2013, Art. 9)
 
-ARTÍCULO
-
 ## art:2.1.6.10 — Comité Técnico
 
 La Comisión contará con un Comité Técnico cuya convocatoria estará a cargo de la Secretaría Técnica de la Comisión.
@@ -2978,15 +2644,11 @@ TÍTULO 6
 
 MEDIDAS PARA FACILITAR EL DIÁLOGO Y LA SUSCRIPCIÓN DE ACUERDOS CON GRUPOS ARMADOS ORGANIZADOS AL MARGEN DE LA LEY PARA SU DESMOVILIZACIÓN, RECONCILIACIÓN ENTRE LOS COLOMBIANOS Y LA CONVIVENCIA PACÍFICA
 
-ARTÍCULO
-
 ## art:2.1.6.1 — Suspensión de órdenes de captura como medida provisional para facilitar los diálogos
 
 De acuerdo con la Ley 1421 de 2010, una vez iniciado un proceso de diálogo, negociación o firma de acuerdos, y con el fin de facilitar el desarrollo de los mismos, la autoridad correspondiente suspenderá las órdenes de captura que se hayan dictado o se dicten en contra de los miembros representantes de las organizaciones armadas al margen de la ley con los cuales se adelanten diálogos, negociaciones o acuerdos de paz.
 
 (Decreto 1980 de 2012, art. 1)
-
-ARTÍCULO
 
 ## art:2.1.6.2 — Notificación del inicio, terminación o suspensión de los diálogos
 
@@ -2996,23 +2658,17 @@ También se suspenderán las órdenes de captura que se emitan con posterioridad
 
 (Decreto 1980 de 2012, art. 2)
 
-ARTÍCULO
-
 ## art:2.1.6.3 — Facultades del Fiscal General de la Nación
 
 El Fiscal General de la Nación, actuando como autoridad competente, suspenderá de plano las órdenes de captura que se hayan dictado o que se dicten en contra de los miembros representantes de las organizaciones armadas al margen de la ley con los cuales se adelanten diálogos, negociaciones o acuerdos de paz, por el estricto término solicitado por el Gobierno Nacional.
 
 (Decreto 1980 de 2012, art. 3)
 
-ARTÍCULO
-
 ## art:2.1.6.4 — Comunicaciones y registros
 
 El Fiscal General de la Nación o el Fiscal Delegado que asigne para el efecto, notificará a las autoridades de policía judicial correspondientes sobre la suspensión de las órdenes de captura de que trata el artículo 2.1.6.1 del presente decreto y verificará que las órdenes de suspensión reposen en los registros correspondientes.
 
 (Decreto 1980 de 2012, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.6.5 — Miembros representantes
 
@@ -3028,8 +2684,6 @@ CAPÍTULO 1
 
 SISTEMA NACIONAL DE DERECHOS HUMANOS Y DERECHO INTERNACIONAL HUMANITARIO
 
-ARTÍCULO
-
 ## art:2.1.7.1.1 — Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario
 
 Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario. Créase y organízase el Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario, con el fin de articular a las entidades e instancias del orden nacional y territorial, y coordinar sus acciones para promover el respeto y garantía de los Derechos Humanos y la aplicación del Derecho Internacional Humanitario, mediante el diseño, implementación, seguimiento y evaluación de la Política Integral de Derechos Humanos y Derecho Internacional Humanitario, y el diseño y consolidación de las políticas públicas sectoriales con enfoque de derechos y enfoque diferencial.
@@ -3038,23 +2692,17 @@ El Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario se e
 
 (Decreto 4100 de 2011, art. 1)
 
-ARTÍCULO
-
 ## art:2.1.7.1.2 — Definición del Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario
 
 Es el conjunto de principios, normas, políticas, programas, instancias e instituciones públicas del orden nacional y territorial, con competencia en el diseño, implementación, seguimiento y evaluación de la Política Integral de Derechos Humanos y Derecho Internacional Humanitario y en la promoción de un enfoque de derechos y un enfoque diferencial en las políticas públicas sectoriales.
 
 (Decreto 4100 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.1.7.1.3 — Subsistemas
 
 Son parte de la estructura del Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario y están integrados por las entidades públicas e instancias competentes en materia de respeto y garantía de los derechos civiles, políticos, económicos, sociales, culturales, colectivos y del ambiente y la aplicación del Derecho Internacional Humanitario.
 
 (Decreto 4100 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:2.1.7.1.4 — Principios
 
@@ -3077,8 +2725,6 @@ El funcionamiento del Sistema Nacional de Derechos Humanos y Derecho Internacion
 8. Corresponsabilidad. Las acciones en materia de respeto y garantía de los Derechos Humanos y aplicación del Derecho Internacional Humanitario son de responsabilidad de todas las entidades públicas, de los órdenes nacional y territorial, y de los particulares que ejercen funciones públicas o prestan servicios públicos. Este principio es complementario a la correlación de deberes y derechos de toda persona.
 
 (Decreto 4100 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.1.7.1.5 — Objetivos
 
@@ -3120,15 +2766,11 @@ Forman parte del Sistema Nacional de Derechos Humanos y Derecho Internacional Hu
  
  Antes de la modicación
 
- ARTÍCULO
-
 ## art:2.1.7.2.1 — Objeto de la Comisión Intersectorial de Derechos Humanos y Derecho Internacional Humanitario
 
 La Comisión Intersectorial de Derechos Humanos y Derecho Internacional Humanitario estará encargada de coordinar y orientar el Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario y será la instancia de definición, promoción, orientación, articulación, seguimiento y evaluación de la Política Integral de Derechos Humanos y Derecho Internacional Humanitario, y de respuesta e impulso al cumplimiento de los compromisos internacionales en esas materias.
 
 (Decreto 4100 de 2011, art. 7)
-
-ARTÍCULO
 
 ## art:2.1.7.2.2 — Composición
 
@@ -3190,8 +2832,6 @@ Los ministros y directores que sean invitados solo podrán delegar su asistencia
 
 (Modificado por el Art. 3 del Decreto 1216 de 2016)
 
-ARTÍCULO
-
 ## art:2.1.7.2.3 — Funciones
 
 La Comisión Intersectorial tendrá a su cargo las siguientes funciones:
@@ -3236,8 +2876,6 @@ PARÁGRAFO 2. Cuando ninguno de los criterios anteriormente establecidos pueda a
 
 (Modificado por el Art. 4 del Decreto 1216 de 2016)
 
-ARTÍCULO
-
 ## art:2.1.7.2.4 — Sesiones y decisiones
 
 La Comisión Intersectorial sesionará de forma ordinaria por lo menos una vez cada seis meses, y de forma extraordinaria, cuando las circunstancias lo ameriten, por solicitud de alguno de sus miembros.
@@ -3250,8 +2888,6 @@ PARÁGRAFO . El Presidente de la Comisión, por intermedio de la Secretaría Té
 
 (Decreto 4100 de 2011, art. 10)
 
-ARTÍCULO
-
 ## art:2.1.7.2.5 — Actas
 
 Las decisiones adoptadas por la Comisión Intersectorial se harán constar en actas, que llevarán la firma del Presidente y del Secretario Técnico de la Comisión.
@@ -3262,15 +2898,11 @@ CAPÍTULO 3
 
 SECRETARÍA TÉCNICA
 
-ARTÍCULO
-
 ## art:2.1.7.3.1 — Secretaría Técnica
 
 Será la instancia asesora encargada de brindar el acompañamiento y soporte técnico, logístico y operativo a la Comisión Intersectorial de Derechos Humanos y Derecho Internacional Humanitario e impulsar el ejercicio de articulación institucional. La Secretaría Técnica estará a cargo y bajo la responsabilidad de la Consejería Presidencial para los Derechos Humanos.
 
 (Modificado por el Art. 5 del Decreto 1216 de 2016)
-
-ARTÍCULO
 
 ## art:2.1.7.3.2 — Funciones de la Secretaría Técnica
 
@@ -3320,15 +2952,11 @@ CAPÍTULO 4
 
 SUBSISTEMAS
 
-ARTÍCULO
-
 ## art:2.1.7.4.1 — Subsistemas
 
 Cada Subsistema, coordinará a partir de las orientaciones de la Comisión Intersectorial de Derechos Humanos y Derecho Internacional Humanitario, el diseño, implementación, seguimiento y evaluación de cada eje temático de la Política Integral de Derechos Humanos y Derecho Internacional Humanitario "Estrategia Nacional para la Garantía de los Derechos Humanos 2014-2034", de acuerdo con las competencias de las instituciones que los conforman.
 
 (Decreto 4100 de 2011, art. 14)
-
-ARTÍCULO
 
 ## art:2.1.7.4.2 — Composición
 
@@ -3342,8 +2970,6 @@ PARÁGRAFO 3. Los subsistemas, de manera concertada entre las entidades parte po
 
 (Modificado por el Art. 8 del Decreto 1216 de 2016)
 
-ARTÍCULO
-
 ## art:2.1.7.4.3 — Sesiones de trabajo
 
 Los Subsistemas se reunirán con la periodicidad que establezcan sus integrantes de conformidad a la agenda y plan de acción que desarrollen.
@@ -3351,8 +2977,6 @@ Los Subsistemas se reunirán con la periodicidad que establezcan sus integrantes
 PARÁGRAFO . El contenido de las sesiones de los Subsistemas se hará constar en actas, que llevarán la firma del responsable de la dependencia coordinadora del respectivo Subsistema y de la Secretaría Técnica.
 
 (Modificado por el Art. 9 del Decreto 1216 de 2016)
-
-ARTÍCULO
 
 ## art:2.1.7.4.4 — Funciones
 
@@ -3380,8 +3004,6 @@ CAPÍTULO 5
 
 ESTRUCTURA TERRITORIAL
 
-ARTÍCULO
-
 ## art:2.1.7.5.1 — Instancias Territoriales
 
 El Sistema Nacional de Derechos Humanos y Derecho Internacional Humanitario contará con una instancia en cada una de las entidades territoriales, en el ámbito de sus competencias y autonomía y, en todo caso, a partir de las orientaciones contenidas en las normas vigentes, especialmente en el capítulo 4 del título 1, parte 2, libro 2 del Decreto 1066 de 2015, por el cual se expidió el Decreto Único Reglamentario del Sector Administrativo del Interior.
@@ -3391,8 +3013,6 @@ Esta instancia será la responsable de diseñar, implementar, hacer seguimiento 
 PARÁGRAFO 1. El Gobierno Nacional, bajo la coordinación del Ministerio del Interior y la Secretaría Técnica del Sistema Nacional de DDHH, impulsará, asesorará y apoyará el diseño y organización de las instancias territoriales del Sistema Nacional de Derechos Humanos y Derecho internacional Humanitario.
 
 (Modificado por el Art. 11 del Decreto 1216 de 2016)
-
-ARTÍCULO
 
 ## art:2.1.7.5.2 — Mecanismo de Coordinación Nación-Territorio
 
@@ -3405,8 +3025,6 @@ Los subsistemas contribuirán en el diseño e implementación del Mecanismo de C
 CAPÍTULO 6
 
 DEROGATORIA
-
-ARTÍCULO
 
 ## art:2.1.7.6.1 — Derogatoria
 
@@ -4258,8 +3876,6 @@ CAPÍTULO 1
 
 ALCANCE Y ORGANIZACIÓN DEL SISTEMA NACIONAL DE COMPETITIVIDAD E INNOVACIÓN - SNCI-
 
-ARTÍCULO
-
 ## art:2.1.8.1.1 — Alcance del SNCI
 
 El Sistema Nacional de Competitividad e Innovación de que trata el artículo 172 de la Ley 1955 de 2019, se encargará de coordinar y orientar las actividades que realizan las instancias públicas, privadas y académicas relacionadas con la formulación, implementación y seguimiento de las políticas que promuevan la competitividad e innovación del país bajo una visión de mediano y largo plazo, con el fin de promover el desarrollo económico, la productividad y mejorar el bienestar de la población.
@@ -4267,8 +3883,6 @@ El Sistema Nacional de Competitividad e Innovación de que trata el artículo 17
 El Sistema Nacional de Competitividad e Innovación por medio de la “Comisión Nacional de competitividad, ciencia, tecnología, innovación y emprendimiento articulará los distintos sistemas, subsistemas e instancias que desarrollan actividades en materia de competitividad e innovación.
 
 (Ver Art. 16 del Decreto 1517 de 2021)
-
-ARTÍCULO
 
 ## art:2.1.8.1.2 — Componentes
 
@@ -4283,8 +3897,6 @@ El Sistema Nacional de Competitividad e Innovación estará integrado por:
 4. Las fuentes y recursos económicos para el manejo del Sistema Nacional de Competitividad e Innovación.
 
 5. Los mecanismos para la alineación, gestión, promoción y financiación de los instrumentos de política pública relacionados con la competitividad e innovación.
-
-ARTÍCULO
 
 ## art:2.1.8.1.3 — Organización del SNCI
 
@@ -4323,8 +3935,6 @@ iii. Plan Regional de Competitividad. El Plan Regional de Competitividad es el i
 CAPÍTULO 2
 
 COMPOSICIÓN Y FUNCIONAMIENTO DE LAS INSTANCIAS DEL SISTEMA NACIONAL DE COMPETITIVIDAD E INNOVACIÓN
-
-ARTÍCULO
 
 ## art:2.1.8.2.1 — Composición de la Comisión Nacional de Competitividad, Ciencia, Tecnología, Innovación y Emprendimiento
 
@@ -4412,13 +4022,9 @@ PARÁGRAFO 2. La participación de los ministros directores de departamento admi
 
 (Modificado por el Art. 18 del Decreto 1517 de 2021)
 
-ARTÍCULO
-
 ## art:2.1.8.2.2 — Sesiones
 
 La Comisión sesionará de manera ordinaria dos (2) veces al año y de manera extraordinaria cuando sea citada por la Secretaría Técnica.
-
-ARTÍCULO
 
 ## art:2.1.8.2.3 — Funciones de la Comisión
 
@@ -4434,15 +4040,11 @@ Las funciones de la Comisión Nacional de Competitividad e Innovación son las s
 
 5. Las demás funciones que sean necesarias para dar cumplimiento a los objetivos del SNCI.
 
-ARTÍCULO
-
 ## art:2.1.8.2.4 — Informes al Presidente de la República
 
 Las entidades que lideran cada sistema, subsistema e instancia que hacen parte o se articulan con el Sistema Nacional de Competitividad e Innovación deberán reportar sus avances en la implementación de la Agenda Nacional de Competitividad e Innovación ante el Presidente de la República, en el marco de cada sesión de la Comisión Nacional de Competitividad e Innovación, así como del desempeño del país en los indicadores de competitividad e innovación.
 
 De igual forma, el Consejero Presidencial para la Competitividad y la Gestión Público - Privada comunicará periódicamente al Consejo de Ministros los avances en la Agenda Nacional de Competitividad e Innovación, cuando sea invitado para estos fines.
-
-ARTÍCULO
 
 ## art:2.1.8.2.5 — Composición del Comité Ejecutivo del SNCI
 
@@ -4476,13 +4078,9 @@ PARÁGRAFO 2. La Consejería Presidencial para la Competitividad y la Gestión P
 
 PARÁGRAFO 3. La participación de los ministros y directores será indelegable. Podrán ser invitados otras entidades públicas y privadas a las sesiones del Comité Ejecutivo, cuando se vayan a tratar temas de su competencia.
 
-ARTÍCULO
-
 ## art:2.1.8.2.6 — Sesiones del Comité Ejecutivo del SNCI
 
 El Comité Ejecutivo sesionará de manera ordinaria una vez al mes y de manera extraordinaria cuando sea citado por la Secretaría Técnica. Dicho Comité establecerá su propio reglamento para su funcionamiento.
-
-ARTÍCULO
 
 ## art:2.1.8.2.7 — Funciones del Comité Ejecutivo del SNCI
 
@@ -4501,8 +4099,6 @@ Las funciones del Comité Ejecutivo son las siguientes:
 6. Impartir lineamientos para la optimización y articulación de la oferta institucional de las entidades del Gobierno nacional e instancias territoriales en materia de competitividad e innovación, en coordinación con el sector privado, teniendo en consideración los diferentes instrumentos priorizados en la Agenda Nacional de Competitividad e Innovación y en las Agendas Departamentales de Competitividad e Innovación.
 
 7. Adoptar las acciones para implementar las recomendaciones y solicitudes de la Comisión Nacional de Competitividad e Innovación.
-
-ARTÍCULO
 
 ## art:2.1.8.2.8 — Comités Técnicos del SNCI
 
@@ -4526,8 +4122,6 @@ Las instancias que se articularán bajo el SNCI en calidad de comités técnicos
 
 PARÁGRAFO 2. Los Comités Técnicos deberán ajustar sus reglamentos internos de conformidad con las disposiciones generales establecidas en el Reglamento Marco expedido por el Comité Ejecutivo del SNCI.
 
-ARTÍCULO
-
 ## art:2.1.8.2.9 — Creación de los Comités Técnicos del SNCI
 
 Los Comités Técnicos podrán ser creados, modificados o suprimidos por parte del Comité Ejecutivo del SNCI, de conformidad con las necesidades definidas en la Agenda Nacional de Competitividad e Innovación, siempre y cuando no tengan disposición normativa específica sobre su organización y funcionamiento.
@@ -4540,21 +4134,15 @@ PARÁGRAFO 2 Los Comités Técnicos podrán invitar a sus sesiones a los represe
 
 PARÁGRAFO 3. La Consejería Presidencial para la Competitividad y la Gestión Público-Privada participará como miembro de cada uno de los Comités Técnicos que hace parte del SNCI, con el fin de hacer seguimiento a sus planes de acción.
 
-ARTÍCULO
-
 ## art:2.1.8.2.10 — Alcance de los Comités Técnicos del SNCI
 
 Los Comités Técnicos atenderán aquellas temáticas de carácter transversal y no sectorial específica que impacten la competitividad e innovación del país.
-
-ARTÍCULO
 
 ## art:2.1.8.2.11 — Formulación y publicación de la Agenda Nacional de Competitividad e Innovación
 
 La Consejería Presidencial para la Competitividad y la Gestión público - Privada liderará la formulación de la Agenda Nacional de Competitividad e Innovación en los primeros seis (6) meses de inicio de cada Gobierno en el marco del SNCI, y la presentará a consideración del Comité Ejecutivo del SNCI para su adopción. Igualmente, la Consejería realizará seguimiento detallado de la implementación de la Agenda Nacional de Competitividad e Innovación.
 
 La Consejería Presidencial para la Competitividad y la Gestión Público Privada se encargará de publicar el contenido de la Agenda Nacional de Competitividad e Innovación y los informes de su respectivo seguimiento en la página web del SNCI.
-
-ARTÍCULO
 
 ## art:2.1.8.2.12 — Composición del Comité de Regionalización
 
@@ -4600,13 +4188,9 @@ PARÁGRAFO 1. El Comité de Regionalización establecerá su propio reglamento p
 
 PARÁGRAFO 2. Los representantes de lnnpulsa y del programa Colombia Productiva serán invitados permanentes al Comité de Regionalización. Además, podrán ser invitadas otras entidades públicas y privadas, cuando se vayan a tratar temas de su competencia.
 
-ARTÍCULO
-
 ## art:2.1.8.2.13 — Sesiones del Comité de Regionalización
 
 El Comité de Regionalización sesionará de manera ordinaria al menos cada dos (2) meses, y de manera extraordinaria cuando sea citado por la Secretarla Técnica.
-
-ARTÍCULO
 
 ## art:2.1.8.2.14 — Funciones del Comité de Regionalización
 
@@ -4632,7 +4216,7 @@ CAPÍTULO 3
 
 INSTITUCIONALIDAD REGIONAL DEL SISTEMA NACIONAL DE COMPETITIVIDAD E INNOVACIÓN
 
-## art:2.1.8.3 — 1. Articulación de las instancias en las Comisiones Regionales de Competitividad e Innovación (CRCI)
+## art:2.1.8.3.1 — Articulación de las instancias en las Comisiones Regionales de Competitividad e Innovación (CRCI)
 
 En el marco de las CRCI se articularán las instancias regionales, departamentales y subregionales tales como, los Consejos Departamentales de Ciencia, Tecnología e Innovación (CODECTI), Comités Universidad-Estado-Empresa (CUEE), Redes Regionales de Emprendimiento (RRE), Consejos Regionales de MIPYME, Consejos Ambientales Regionales, Comités de Biodiversidad, Consejos Seccionales de Desarrollo Agropecuario (CONSEA); así como las que se creen de acuerdo con las apuestas sectoriales o cadenas productivas priorizadas por el Departamento.
 
@@ -4641,8 +4225,6 @@ PARÁGRAFO 1. La Consejería Presidencial para la Competitividad y la Gestión P
 PARÁGRAFO 2. Las CRCI articularán las instancias subregionales existentes o las nuevas que se creen para promover la competitividad, la innovación y el desarrollo productivo a nivel territorial.
 
 PARÁGRAFO 3. La CRCI, a partir de sus prioridades y capacidad institucional, podrá articular a las distintas instancias que traten temas de competitividad e innovación, mediante la conformación de Comités Técnicos, que permitan la unificación de temáticas y simplifiquen la operatividad.
-
-ARTÍCULO
 
 ## art:2.1.8.3.2 — Composición de las Comisiones Regionales de Competitividad e Innovación (CRCI)
 
@@ -4680,13 +4262,9 @@ PARÁGRAFO 2. La composición y modelo de gestión de las CRCI podrá ajustarse 
 
 PARÁGRAFO 3. La CRCI establecerá el reglamento interno para su funcionamiento, así como la designación de los representantes del sector público, privado y universidades.
 
-ARTÍCULO
-
 ## art:2.1.8.3.3 — Sesiones de las CRCI
 
 La CRCI sesionará de manera ordinaria dos (2) veces al año y, de manera extraordinaria, cuando sea citada por el presidente de la CRCI o la Secretaría Técnica.
-
-ARTÍCULO
 
 ## art:2.1.8.3.4 — Funciones de las Comisiones Regionales de Competitividad e Innovación (CRCI)
 
@@ -4710,13 +4288,9 @@ Las funciones de las CRCI son:
 
 9. Las demás que se definan en el marco del SNCI.
 
-ARTÍCULO
-
 ## art:2.1.8.3.5 — Comité Ejecutivo de la CRCI
 
 El Comité Ejecutivo es la instancia de decisión y articulación de la Comisión Regional de Competitividad e Innovación para la formulación, concertación, implementación y seguimiento de la Agenda Departamental de Competitividad e Innovación.
-
-ARTÍCULO
 
 ## art:2.1.8.3.6 — Composición del Comité Ejecutivo de las CRCI
 
@@ -4746,13 +4320,9 @@ PARÁGRAFO 5. El equipo técnico de base que integra la Secretaría Técnica par
 
 PARÁGRAFO 6. El Comité Ejecutivo establecerá el reglamento interno para su funcionamiento, así como para la designación de los representantes del sector público, privado y universidades.
 
-ARTÍCULO
-
 ## art:2.1.8.3.7 — Sesiones del Comité Ejecutivo de las CRCI
 
 Este Comité debe reunirse trimestralmente de manera ordinaria, y de forma extraordinaria cuando así lo considere el presidente del Comité Ejecutivo.
-
-ARTÍCULO
 
 ## art:2.1.8.3.8 — Funciones del Comité Ejecutivo de las CRCI
 
@@ -4788,8 +4358,6 @@ Dentro de sus funciones están:
 
 15. Las demás que se definan en el marco de la CRCI y del SNGI.
 
-ARTÍCULO
-
 ## art:2.1.8.3.9 — Secretaría Técnica de las CRCI
 
 La Secretaría Técnica, como unidad de apoyo de la CRCI, será ejercida por la Cámara de Comercio con jurisdicción en el Municipio o distrito capital del respectivo Departamento. Para ello, dicha cámara de comercio pondrá a disposición un equipo técnico de base dedicado a las funciones tácticas y de apoyo administrativo de las CRCI. La estructura de ese equipo técnico será acordada entre Ministerio de Comercio, Industria y Turismo, Confecámaras, y la Cámara de Comercio con jurisdicción en el municipio o distrito capital del respectivo Departamento.
@@ -4797,8 +4365,6 @@ La Secretaría Técnica, como unidad de apoyo de la CRCI, será ejercida por la 
 PARÁGRAFO 1. Cuando el Comité Ejecutivo lo defina, la Secretaría Técnica podrá ser ejercida de manera colegiada entre el sector público y la cámara de comercio con jurisdicción en el Municipio o distrito capital del respectivo Departamento. Para tales efectos, el presidente de la CRCI podrá designar un delegado quien se encargará de apoyar las funciones del equipo base de la Secretaría Técnica.
 
 PARÁGRAFO 2. El Comité Ejecutivo podrá hacer recomendaciones para el proceso de selección de las personas que integran el equipo de la unidad de apoyo.
-
-ARTÍCULO
 
 ## art:2.1.8.3.10 — Funciones de la Secretaría Técnica de las CRCI
 
@@ -4850,23 +4416,17 @@ b) Funciones de apoyo administrativo:
 
 11. Participar en el Encuentro Nacional de las CRCI.
 
-ARTÍCULO
-
 ## art:2.1.8.3.11 — Comités Técnicos de las CRCI
 
 Con el fin de coordinar la formulación, gestión e implementación de los programas, proyectos e iniciativas de la Agenda Departamental de Competitividad e Innovación, el Comité Ejecutivo podrá crear Comités Técnicos de trabajo conformados por otros delegados de las entidades que conforman la CRCI o las otras instancias que están relacionadas con los temas de competitividad e innovación en el Departamento, tales como CODECTI, CUEE, CONSEA, RRE/Consejo MIPYMES, entre otras, así como representantes del sector privado y la academia.
 
 PARÁGRAFO . La Secretarla Técnica de la CRCI apoyará la gestión de los Comités Técnicos.
 
-ARTÍCULO
-
 ## art:2.1.8.3.12 — Sostenibilidad de la CRCI
 
 El equipo base de la Secretaría Técnica, estará vinculado a la Cámara de Comercio con jurisdicción en el municipio o Distrito capital del respectivo Departamento.
 
 Como complemento, la Gobernación, las alcaldías y otras entidades de conformidad con las normas legales que rigen a la entidad, podrán aportar capital humano, recursos financieros, administrativos y logísticos para garantizar la sostenibilidad de las CRCI. Cada Comité Ejecutivo definirá el mecanismo para la administración de dichos recursos.
-
-ARTÍCULO
 
 ## art:2.1.8.3.13 — Alcance de la Agenda Departamental de Competitividad e Innovación - ADCI
 
@@ -4876,15 +4436,11 @@ En el proceso de gestión e implementación de la ADCI deben participar actores 
 
 PARÁGRAFO . Los programas, proyectos e iniciativas priorizados de las ADCI podrán ser presentados a convocatorias y otras fuentes de financiación del Gobierno nacional y las entidades territoriales, corno los recursos orientados al desarrollo empresarial y los fondos del Sistema General de Regalías.
 
-ARTÍCULO
-
 ## art:2.1.8.3.14 — Coordinación nacional de las CRCI
 
 El Ministerio de Comercio, Industria y Turismo ejercerá la coordinación y seguimiento al conjunto de las CRCI, con el apoyo de Confecárnaras corno representante del sector privado.
 
 El Ministerio de Comercio, Industria y Turismo informará periódicamente al Comité de Regionalización del Sistema Nacional de Competitividad e Innovación sobre el avance de las actividades desarrolladas por las Comisiones Regionales de Competitividad e Innovación.
-
-ARTÍCULO
 
 ## art:2.1.8.3.15 — Planes de trabajo de las CRCI
 
@@ -4894,21 +4450,15 @@ CAPÍTULO 4
 
 DE LA ARTÍCULACIÓN DEL SISTEMA Y OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.1.8.4.1 — Articulación de las instancias de competitividad e innovación
 
 Los sistemas, subsistemas y demás instancias que se articulan bajo el SNCI alinearán y articularán sus actividades y acciones, para la implementación y cumplimiento de la Agenda Nacional de Competitividad e Innovación y las Agendas Departamentales de Competitividad e Innovación bajo los lineamientos que se definan en el marco del Sistema Nacional de Competitividad e Innovación.
 
 PARÁGRAFO . La Consejería Presidencial para la Competitividad y la Gestión Público-Privada, en su calidad de Secretaría Técnica de la Comisión Nacional de Competitividad e Innovación, asistirá en calidad de invitado permanente a los consejos, comisiones, comités y demás instancias existentes de los sistemas o subsistemas que hacen parte o se articulan bajo el Sistema Nacional de Competitividad e Innovación.
 
-ARTÍCULO
-
 ## art:2.1.8.4.2 — Articulación de la oferta de Competitividad e Innovación
 
 Con la finalidad de optimizar la oferta institucional de los instrumentos de política en materia de competitividad e innovación, las entidades del Gobierno nacional, previo a la formulación y desarrollo de los instrumentos de política, proyectos, programas, servicios y acciones encaminados a temas de competitividad e innovación, deberán acoger los lineamientos generales, procedimientos, criterios técnicos y herramientas que se definan para estos efectos por parte del Comité Ejecutivo del SNCI.
-
-ARTÍCULO
 
 ## art:2.1.8.4.3 — Trazabilidad de la oferta de instrumentos de Competitividad e innovación
 
@@ -4917,8 +4467,6 @@ Las entidades del Gobierno nacional que desarrollen instrumentos de política y 
 En el portal www.innovamos.gov.co se sistematizará y consolidará la información sobre diseño, publicación, implementación, seguimiento y monitoreo de los instrumentos de política. Lo anterior, sin desconocer que la operación de los instrumentos será realizada por cada una de las entidades responsables de las intervenciones.
 
 La implementación de dicho portal será gradual y progresiva de conformidad con los términos y condiciones establecidos por parte del Departamento Nacional de Planeación, en cumplimiento de los lineamientos previstos por el Ministerio de Tecnología, Información y Comunicaciones para estos fines.
-
-ARTÍCULO
 
 ## art:2.1.8.4.4 — Articulación con otras entidades del Gobierno Nacional
 
@@ -5224,8 +4772,6 @@ PARTE 2.
 
 DISPOSICIONES REGLAMENTARIAS ALUSIVAS AL FUNCIONAMIENTO DEL DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ARTÍCULO
-
 ## art:2.2.1 — 2.1
 
 La Parte 2 del Libro 2 del presente Decreto Reglamentario Único compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política, que reglamentan el funcionamiento del Departamento Administrativo de la Presidencia de la República, según los temas y ámbitos de aplicación señalados en cada caso.
@@ -5237,8 +4783,6 @@ RÉGIMEN ESPECÍFICO DE CARRERA DEL DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCI
 CAPÍTULO 1
 
 PROVISIÓN DE LOS EMPLEOS DE CARRERA
-
-ARTÍCULO
 
 ## art:2.2.1.1.1 — Orden para la provisión de empleos
 
@@ -5254,8 +4798,6 @@ Si agotadas las anteriores opciones no fuere posible la provisión del empleo, d
 
 (Decreto 4080 de 2006, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.1.1.2 — Provisión temporal
 
 Mientras se realiza el proceso de selección, los cargos de carrera podrán proveerse temporalmente mediante encargo efectuado a empleados con derechos de carrera que acrediten los requisitos para su ejercicio, posean las competencias laborales requeridas, no hayan sido sancionados disciplinariamente en el año inmediatamente anterior y la última evaluación del desempeño laboral sea sobresaliente.
@@ -5266,15 +4808,11 @@ El nombramiento provisional deberá recaer en personas que no ostenten derechos 
 
 (Decreto 4080 de 2006, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.1.1.3 — Órganos encargados del proceso
 
 Los procesos de selección serán realizados por la Comisión Nacional del Servicio Civil, a través del Instituto Colombiano para la Evaluación de la Educación - ICFES, o de las universidades públicas o privadas y demás Instituciones de Educación Superior acreditadas ante aquella, para lo cual se suscribirán los respectivos convenios o contratos.
 
 (Decreto 4080 de 2006, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.1.1.4 — Convocatoria
 
@@ -5308,8 +4846,6 @@ PARÁGRAFO . Además de los términos establecidos en este decreto para cada una
 
 (Decreto 4080 de 2006, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.1.1.5 — Divulgación
 
 La divulgación de la convocatoria será responsabilidad de la Comisión Nacional del Servicio Civil. Para el efecto utilizará, como mínimo, uno de los siguientes medios:
@@ -5323,8 +4859,6 @@ PARÁGRAFO 1. En los avisos de prensa y de radio se dará la información básic
 PARÁGRAFO 2. El aviso de convocatoria, en su totalidad, se publicará con una antelación no inferior a cinco (5) días a la fecha de iniciación de las inscripciones en las páginas web de la Comisión Nacional del Servicio Civil, de la entidad contratada para la realización del concurso y del DAPRE, así como en un lugar de fácil acceso al público de esta última entidad. En estos mismos medios se publicarán las modificaciones que se efectúen a la convocatoria.
 
 (Decreto 4080 de 2006, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.1.1.6 — Formulario único de inscripción
 
@@ -5340,15 +4874,11 @@ La comprobación del incumplimiento de los requisitos será causal de no admisi�
 
 (Decreto 4080 de 2006, art. 6)
 
-ARTÍCULO
-
 ## art:2.2.1.1.7 — Concurso sin inscritos
 
 Cuando en los concursos no se inscriban candidatos o ninguno de los inscritos acredite los requisitos, deberá ampliarse el plazo de inscripciones por un término igual al inicialmente previsto y el correspondiente aviso deberá publicarse de acuerdo con lo establecido en el presente Decreto. Si agotado el procedimiento anterior no se inscribiere ningún aspirante, el concurso se declarará desierto por la Comisión Nacional del Servicio Civil, conforme lo señala el Artículo 2.2.1.1.16 del presente Título.
 
 (Decreto 4080 de 2006, art. 7)
-
-ARTÍCULO
 
 ## art:2.2.1.1.8 — Lista de admitidos
 
@@ -5358,15 +4888,11 @@ La lista deberá ser publicada en la página web de la entidad que realiza el co
 
 (Decreto 4080 de 2006, art. 8)
 
-ARTÍCULO
-
 ## art:2.2.1.1.9 — Reclamaciones
 
 Las reclamaciones que formulen los aspirantes no admitidos al concurso serán resueltas por la Comisión Nacional del Servicio Civil o por la entidad delegada, según lo señale la convocatoria, en los términos previstos en el Decreto ley 760 de 2005 o en las normas que lo modifiquen o sustituyan.
 
 (Decreto 4080 de 2006, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.1.10 — Objetividad e imparcialidad
 
@@ -5378,8 +4904,6 @@ PARÁGRAFO . Las pruebas aplicadas o a aplicarse en los procesos de selección t
 
 (Decreto 4080 de 2006, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.1.11 — Entrevistas
 
 Cuando en un concurso se programe entrevista, esta tendrá carácter clasificatorio y no podrá tener un valor superior al quince por ciento (15%) respecto del puntaje máximo total del concurso. El jurado calificador, designado por la entidad que realice el concurso, será integrado por tres (3) personas, como mínimo, cuyos nombres deberán darse a conocer al menos con tres (3) días de antelación a su realización.
@@ -5388,15 +4912,11 @@ La entrevista deberá grabarse en medio magnetofónico, que se conservará en el
 
 (Decreto 4080 de 2006, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.1.12 — Empleos provistos en provisionalidad con anterioridad al concurso
 
 En los concursos que se realicen para proveer los empleos que se encontraban provistos mediante nombramiento provisional a la fecha de vigencia del Decreto ley 780 de 2005, la prueba de análisis de antecedentes será obligatoria y se valorará en igualdad de condiciones para todos los participantes, de conformidad con el instrumento que para el efecto expida la Comisión Nacional del Servicio Civil.
 
 (Decreto 4080 de 2006, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.1.13 — Resultados de las pruebas
 
@@ -5404,15 +4924,11 @@ Los resultados de cada prueba se consignarán en informes firmados por el respon
 
 (Decreto 4080 de 2006, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.1.14 — Reclamaciones
 
 Las reclamaciones de los participantes por inconformidad con los puntajes obtenidos en las pruebas serán tramitadas y resueltas por la Comisión Nacional del Servicio Civil o por la entidad delegada, según sea el caso, de conformidad con el Decreto ley 760 de 2005 y de las normas que lo modifiquen o sustituyan.
 
 (Decreto 4080 de 2006, art. 14)
-
-ARTÍCULO
 
 ## art:2.2.1.1.15 — Informe final del proceso
 
@@ -5420,15 +4936,11 @@ La entidad que realice el proceso de selección presentará un informe final sob
 
 (Decreto 4080 de 2006, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.1.16 — Declaratoria de desierta
 
 Los concursos deberán ser declarados desiertos por la Comisión Nacional del Servicio Civil, mediante resolución motivada, cuando no se hubiere inscrito ningún aspirante o ninguno hubiere acreditado los requisitos, cuando ningún concursante hubiere alcanzado el puntaje total aprobatorio del 70%. En estos se convocará de nuevo dentro de los dos (2) meses siguientes, de no darse ninguna de las situaciones previstas en el artículo 1 de este decreto.
 
 (Decreto 4080 de 2006, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.1.17 — Lista de elegibles
 
@@ -5440,8 +4952,6 @@ De no ser posible aplicar estos criterios para efectuar el nombramiento, este re
 
 (Decreto 4080 de 2006, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.1.18 — Vigencia de la lista de elegibles
 
 La lista de elegibles tendrá vigencia de dos (2) años y podrá prorrogarse hasta por un término igual por la Comisión Nacional del Servicio Civil a solicitud del DAPRE.
@@ -5449,8 +4959,6 @@ La lista de elegibles tendrá vigencia de dos (2) años y podrá prorrogarse has
 Durante este término podrá ser utilizada para proveer vacantes en el mismo cargo o en otros iguales, similares o de inferior jerarquía, siempre y cuando en el concurso se hubieren evaluado las competencias laborales requeridas para el ejercicio de dichos empleos y deberá recomponerse cada vez que sea utilizada o excluido alguno de los integrantes.
 
 (Decreto 4080 de 2006, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.1.1.19 — Periodo de prueba
 
@@ -5462,8 +4970,6 @@ PARÁGRAFO TRANSITORIO . Los nombramientos en período de prueba para proveer lo
 
 (Decreto 4080 de 2006, art. 19)
 
-ARTÍCULO
-
 ## art:2.2.1.1.20 — Competencia para resolver reclamaciones
 
 Las decisiones en relación con las reclamaciones que se formulen por las presuntas irregularidades que se presenten en desarrollo de los procesos de selección que puedan dar lugar a dejarlos parcial o totalmente sin efectos serán de competencia de la Comisión Nacional del Servicio Civil en los términos previstos en el Decreto ley 760 de 2005 o en las normas que lo modifiquen o sustituyan.
@@ -5474,15 +4980,11 @@ CAPÍTULO 2
 
 VALORACIÓN DEL DESEMPEÑO LABORAL
 
-ARTÍCULO
-
 ## art:2.2.1.2.1 — Finalidad de la valoración
 
 La valoración del desempeño laboral es un proceso estratégico dentro de la gestión integral del talento humano, orientado al conocimiento objetivo de los logros, aportes, competencias, potencialidades, limitaciones y debilidades de los empleados de carrera, con el objeto de realizar las acciones que fueren necesarias para favorecer la efectividad organizacional y el desarrollo personal y profesional del empleado, así como para determinar la permanencia del empleado en el servicio.
 
 (Decreto 4080 de 2006, art. 21)
-
-ARTÍCULO
 
 ## art:2.2.1.2.2 — Características de la valoración de desempeño
 
@@ -5498,15 +5000,11 @@ Para estos efectos el DAPRE desarrollará un marco conceptual integrado por los 
 
 (Decreto 4080 de 2006, art. 22)
 
-ARTÍCULO
-
 ## art:2.2.1.2.3 — Componentes del proceso
 
 La valoración del desempeño laboral y la calificación de servicios del empleado de carrera son dos aspectos de un mismo proceso. La primera implica un juicio cualitativo para identificar fortalezas y limitaciones en el desempeño del cargo, con miras a decisiones de desarrollo de personal, mientras que la segunda se concreta en la asignación de un puntaje para la toma de decisiones de carácter administrativo.
 
 (Decreto 4080 de 2006, art. 23)
-
-ARTÍCULO
 
 ## art:2.2.1.2.4 — Componentes de la valoración
 
@@ -5522,8 +5020,6 @@ La valoración del desempeño laboral de los empleados de carrera del DAPRE debe
 
 (Decreto 4080 de 2006, art. 24)
 
-ARTÍCULO
-
 ## art:2.2.1.2.5 — Evaluación de competencias laborales
 
 De conformidad con lo establecido en el Decreto 2539 de 2005, la evaluación de las competencias laborales hará parte de la valoración del desempeño laboral de los empleados de carrera y en período de prueba. Dicha valoración tendrá un valor del treinta por ciento (30%) de la calificación definitiva.
@@ -5531,8 +5027,6 @@ De conformidad con lo establecido en el Decreto 2539 de 2005, la evaluación de 
 La calificación satisfactoria se establecerá, como mínimo, en el 70% de la escala utilizada en el instrumento de evaluación que se adopte.
 
 (Decreto 4080 de 2006, art. 25)
-
-ARTÍCULO
 
 ## art:2.2.1.2.6 — Casos de valoración y calificación obligatorios
 
@@ -5547,8 +5041,6 @@ Cuando el empleado no haya servido la totalidad del año, se calificarán los se
 Esta calificación deberá producirse inmediatamente sea ordenada.
 
 (Decreto 4080 de 2006, art. 26)
-
-ARTÍCULO
 
 ## art:2.2.1.2.7 — Casos de evaluaciones parciales
 
@@ -5568,15 +5060,11 @@ PARÁGRAFO . El empleado no será evaluado durante el término de duración de l
 
 (Decreto 4080 de 2006, art. 27)
 
-ARTÍCULO
-
 ## art:2.2.1.2.8 — Evaluación en caso de ascenso
 
 Cuando el empleado cambie de cargo como resultado de ascenso dentro de la carrera, su desempeño laboral en el empleo anterior no será evaluado.
 
 (Decreto 4080 de 2006, art. 28)
-
-ARTÍCULO
 
 ## art:2.2.1.2.9 — Funcionarios competentes para la evaluación
 
@@ -5586,8 +5074,6 @@ El recurso de reposición será resuelto por los evaluadores que intervinieron e
 
 (Decreto 4080 de 2006, art. 29)
 
-ARTÍCULO
-
 ## art:2.2.1.2.10 — Evaluación en caso de ausencia del evaluador inicial
 
 Sin perjuicio de la sanción disciplinaria prevista en el Código Único Disciplinario para quienes incumplan el deber de calificar a los empleados en la oportunidad y en las condiciones previstas por la ley o el reglamento, cuando los responsables de evaluar se retiren de la Entidad sin efectuar las evaluaciones que les correspondían, estas deberán ser realizadas por su superior inmediato o por el empleado que para el efecto sea designado por el Jefe de la entidad. Cuando el evaluador cambie de empleo dentro de la entidad conserva la obligación de efectuar las evaluaciones que le correspondían en el anterior empleo.
@@ -5596,15 +5082,11 @@ Sin perjuicio de la sanción disciplinaria prevista en el Código Único Discipl
 
 (Decreto 4080 de 2006, art. 30)
 
-ARTÍCULO
-
 ## art:2.2.1.2.11 — Evaluación al cumplimiento del periodo de prueba
 
 Dentro de los quince (15) días siguientes al vencimiento del período de prueba o en cualquier momento, a juicio del superior inmediato, el desempeño laboral del empleado será valorado en el instrumento que rija para la entidad. Harán parte de la calificación definitiva las evaluaciones parciales que se le hayan efectuado durante este período.
 
 (Decreto 4080 de 2006, art. 31)
-
-ARTÍCULO
 
 ## art:2.2.1.2.12 — Evaluaciones parciales durante el periodo de prueba
 
@@ -5620,15 +5102,11 @@ PARÁGRAFO . Estas evaluaciones deberán producirse dentro de los cinco (5) día
 
 (Decreto 4080 de 2006, art. 32)
 
-ARTÍCULO
-
 ## art:2.2.1.2.13 — Comunicación de resultados de las evaluaciones
 
 El resultado de las evaluaciones parciales será comunicado por escrito y contra él no procede recurso alguno; el de las calificaciones definitivas será notificado conforme lo prevé el artículo 26 del Decreto ley 780 de 2005 y contra él solo procede el recurso de reposición, el cual se interpondrá, tramitará y resolverá de acuerdo con lo dispuesto en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
 
 (Decreto 4080 de 2006, art. 33)
-
-ARTÍCULO
 
 ## art:2.2.1.2.14 — Competente para diseñar el instrumento de valoración
 
@@ -5637,8 +5115,6 @@ El instrumento de valoración del desempeño laboral será diseñado por el Áre
 Harán parte del instrumento de valoración del desempeño laboral el marco conceptual, el instructivo de aplicación y los formularios para cada uno de los niveles de empleo objeto de la valoración.
 
 (Decreto 4080 de 2006, art. 34)
-
-ARTÍCULO
 
 ## art:2.2.1.2.15 — Funciones del jefe de talento humano
 
@@ -5652,8 +5128,6 @@ Corresponde al jefe de Talento Humano en relación con el proceso de valoración
 
 (Decreto 4080 de 2006, art. 35)
 
-ARTÍCULO
-
 ## art:2.2.1.2.16 — Otras utilidades de los resultados de evaluación
 
 Los resultados de la evaluación del desempeño laboral de los empleados de carrera deberán ser tenidos en cuenta como insumo para el diagnóstico de las necesidades de capacitación, la asignación de incentivos y otras decisiones relacionadas con la administración del talento humano, con el fin de implementar estrategias de mejoramiento a nivel personal e institucional.
@@ -5663,8 +5137,6 @@ Los resultados de la evaluación del desempeño laboral de los empleados de carr
 CAPÍTULO 3
 
 SISTEMA DE INFORMACIÓN Y MONITOREO DE LA CARRERA
-
-ARTÍCULO
 
 ## art:2.2.1.3.1 — Plan de previsión de recursos humanos
 
@@ -5680,15 +5152,11 @@ El Área de Recursos Humanos o la que haga sus veces diseñará anualmente un pl
 
 (Decreto 4080 de 2006, art. 37)
 
-ARTÍCULO
-
 ## art:2.2.1.3.2 — Inventario del personal al servicio
 
 Es función del Área de Recursos Humanos o de la que haga sus veces en el DAPRE organizar y administrar un inventario del personal al servicio de la Entidad que contenga información sobre su formación académica y capacitación específica, sus competencias laborales, los resultados de la valoración de su desempeño laboral, los estímulos e incentivos de que ha sido objeto. De igual manera, el inventario contendrá, en relación con los empleados de carrera, información acerca de los ascensos, encargos y traslados que se les haya efectuado.
 
 (Decreto 4080 de 2006, art. 38)
-
-ARTÍCULO
 
 ## art:2.2.1.3.4 — Envío de información a la Comisión Nacional de Servicio Civil
 
@@ -5699,8 +5167,6 @@ El área de Recursos Humanos o la que haga sus veces en el DAPRE enviará a la C
 CAPÍTULO 4
 
 CAUSALES DE RETIRO DEL SERVICIO
-
-ARTÍCULO
 
 ## art:2.2.1.4.1 — Causales de retiro
 
@@ -5734,23 +5200,17 @@ El retiro del servicio de los empleados de carrera del Departamento Administrati
 
 (Decreto 4080 de 2006, art. 41)
 
-ARTÍCULO
-
 ## art:2.2.1.4.2 — Insubsistencia por calificación no satisfactoria
 
 El nombramiento del empleado de carrera o en período de prueba deberá declararse insubsistente por la autoridad nominadora, por acto motivado, dentro de los tres (3) días siguientes a la fecha en la que quede en firme la calificación no satisfactoria como resultado de la valoración del desempeño laboral. Contra dicho acto no procederá recurso alguno.
 
 (Decreto 4080 de 2006, art. 42)
 
-ARTÍCULO
-
 ## art:2.2.1.4.3 — Insubsistencia de empelada embarazada
 
 La declaratoria de insubsistencia del nombramiento de una empleada de carrera en estado de embarazo, por calificación no satisfactoria en la valoración del desempeño laboral, solo podrá producirse dentro de los ocho (8) días siguientes al vencimiento de la licencia por maternidad biológica o por adopción o de la licencia correspondiente, en el caso de aborto o parto prematuro no viable.
 
 (Decreto 4080 de 2006, art. 43)
-
-ARTÍCULO
 
 ## art:2.2.1.4.4 — Preferencia en caso de supresión de cargo
 
@@ -5759,8 +5219,6 @@ El empleado de carrera, titular de un cargo de carrera que sea suprimido, tiene 
 PARÁGRAFO . Se entiende que un cargo es equivalente a otro cuando tenga asignadas funciones iguales o similares, para su desempeño se exijan requisitos de estudio, experiencia y competencias laborales iguales o similares y tenga una asignación básica salarial igual o superior, sin que en ningún caso la diferencia salarial supere los dos grados siguientes de la respectiva escala.
 
 (Decreto 4080 de 2006, art. 44)
-
-ARTÍCULO
 
 ## art:2.2.1.4.5 — Reclamaciones sobre el derecho de preferencia
 
@@ -5778,8 +5236,6 @@ SECCIÓN 1
 
 CONFORMACIÓN DE LA COMISIÓN DE PERSONAL
 
-ARTÍCULO
-
 ## art:2.2.1.5.1.1 — Conformación de la Comisión de Personal
 
 La Comisión de Personal del Departamento Administrativo de la Presidencia de la República, DAPRE, estará conformada por un representante designado por el Director de la Entidad, quien deberá tener la calidad de empleado de libre nombramiento y remoción; por el Jefe del Área de Recursos Humanos o quien haga sus veces, quien actuará como Secretario; y por un representante de los empleados de carrera; todos con voz y voto.
@@ -5787,8 +5243,6 @@ La Comisión de Personal del Departamento Administrativo de la Presidencia de la
 El representante de los empleados de carrera y su suplente serán elegidos por votación directa de los empleados de carrera del DAPRE para un período de dos (2) años, conforme con el procedimiento que se establece en el presente decreto.
 
 (Decreto 4446 de 2006, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.1.5.1.2 — Requisitos de los aspirantes
 
@@ -5805,8 +5259,6 @@ SECCIÓN 2
 PROCEDIMIENTO PARA LA ELECCIÓN DE LOS REPRESENTANTES DE LOS EMPLEADOS
 
 DE CARRERA EN LA COMISIÓN DE PERSONAL
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.1 — Elección del representante y su suplente
 
@@ -5830,15 +5282,11 @@ Para la elección del representante de los empleados de carrera y su suplente en
 
 (Decreto 4446 de 2006, art. 3)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.2 — Divulgación
 
 La convocatoria a elecciones será divulgada a través del correo electrónico institucional y de las carteleras de fácil acceso a los empleados de la entidad.
 
 (Decreto 4446 de 2006, art. 4)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.3 — Inscripción de aspirantes
 
@@ -5852,15 +5300,11 @@ Las inscripciones de los aspirantes se hará por fórmula que incluya los nombre
 
 (Decreto 4446 de 2006, art. 5)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.4 — Presentación de solicitudes
 
 Las solicitudes de inscripción deben presentarse personalmente ante el Jefe del Área de Recursos Humanos o ante quien haga sus veces, empleado que certificará el cumplimiento de los requisitos por parte de los candidatos y su calidad de candidatos inscritos.
 
 (Decreto 4446 de 2006, art. 6)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.5 — Procedimiento para la inscripción
 
@@ -5876,15 +5320,11 @@ Si una vez vencido el plazo inicial de inscripción y el de su prórroga no se l
 
 (Decreto 4446 de 2006, art. 7)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.6 — Publicación de la lista de inscritos
 
 El Jefe del Área de Recursos Humanos o quien haga sus veces, en los dos (2) días siguientes al vencimiento del término previsto para las inscripciones, divulgará a través del correo electrónico institucional, la lista de las fórmulas inscritas.
 
 (Decreto 4446 de 2006, art. 8)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.7 — Vigilancia de la votación
 
@@ -5901,8 +5341,6 @@ La designación de los jurados se comunicará a través de medio electrónico o 
 3. Citación para instrucción sobre sus funciones.
 
 (Decreto 4446 de 2006, art. 9)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.8 — Funciones de los jurados
 
@@ -5924,8 +5362,6 @@ Son funciones de los jurados de votación las siguientes:
 
 (Decreto 4446 de 2006, art. 10)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.9 — Lista de electores
 
 El Jefe del Área de Recursos Humanos o quien haga sus veces publicará, durante los dos (2) días anteriores a la fecha de las elecciones, la lista general de los electores con indicación del documento de identidad y del número y ubicación de la mesa en la que les corresponderá votar.
@@ -5936,15 +5372,11 @@ PARÁGRAFO . El voto será secreto y el derecho a elegir no podrá ser objeto de
 
 (Decreto 4446 de 2006, art. 11)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.10 — Duración de la votación
 
 Las votaciones se efectuarán en un solo día y se abrirán y se cerrarán en las horas previstas en la convocatoria.
 
 (Decreto 4446 de 2006, art. 12)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.11 — Escrutinio parcial
 
@@ -5960,8 +5392,6 @@ Para los escrutinios parciales, los jurados de votación procederán de la sigui
 
 (Decreto 4446 de 2006, art. 13)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.12 — Escrutinio General
 
 El escrutinio general se realizará públicamente el día hábil siguiente al de la votación, en el lugar y hora señalados en la convocatoria, por una Comisión Escrutadora integrada por el Director de la Entidad o su delegado y por dos empleados de carrera designados de común acuerdo por los candidatos que participaron en las elecciones. Como Secretario actuará el Jefe del Área de Recursos Humanos o quien haga sus veces.
@@ -5970,23 +5400,17 @@ La Comisión escrutará con base en los resultados de las actas de escrutinio.
 
 (Decreto 4446 de 2006, art. 14)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.13 — Reclamaciones sobre el escrutinio
 
 Los candidatos en el acto mismo del escrutinio general podrán formular, por escrito, reclamaciones sustentadas, las cuales deben ser resueltas de inmediato por la Comisión Escrutadora. Seguidamente esta declarará la elección de los representantes. De todo lo anterior se levantará un acta, la cual será publicada en el correo electrónico institucional.
 
 (Decreto 4446 de 2006, art. 15)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.14 — Fórmula ganadora
 
 Cuando se inscriba más de una fórmula, se declararán elegidos como representantes, principal y suplente, a quienes hagan parte de aquella que obtenga el mayor número de votos. Si el número de votos a favor de dos o más fórmulas fuere igual, la elección se decidirá a la suerte conforme con el mecanismo que establezca el Director de la Entidad o su delegado en la Comisión Escrutadora.
 
 (Decreto 4446 de 2006, art. 16)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.15 — Faltas temporales del representante
 
@@ -5996,15 +5420,11 @@ PARÁGRAFO . Falta absoluta del representante y su suplente. En caso de falta ab
 
 (Decreto 4446 de 2006, art. 17)
 
-ARTÍCULO
-
 ## art:2.2.1.5.2.16 — Reglamento de la Comisión
 
 En la primera sesión, la Comisión de Personal expedirá el reglamento de funcionamiento.
 
 (Decreto 4446 de 2006, art. 18)
-
-ARTÍCULO
 
 ## art:2.2.1.5.2.17 — Transitorio
 
@@ -6019,8 +5439,6 @@ FONDO DE PROGRAMAS ESPECIALES PARA LA PAZ -FONDO PAZ-.
 CAPÍTULO 1
 
 FUNCIONAMIENTO DEL FONDO DE PROGRAMAS ESPECIALES PARA LA PAZ.
-
-ARTÍCULO
 
 ## art:2.2.2.1.1 — Funciones Específicas
 
@@ -6044,8 +5462,6 @@ En desarrollo de su objeto, el Fondo de Programas Especiales para la Paz, tendr�
 
 (Decreto 2429 de 1997, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.2.1.2 — Funciones del Director
 
 Para el cumplimiento de los objetivos del Fondo de Programas Especiales para la Paz, el Director tendrá las siguientes funciones:
@@ -6064,15 +5480,11 @@ Para el cumplimiento de los objetivos del Fondo de Programas Especiales para la 
 
 (Decreto 2429 de 1997, art. 2)
 
-ARTÍCULO
-
 ## art:2.2.2.1.3 — Régimen jurídico de sus operaciones, actos y contratos
 
 Los actos, operaciones, contratos y convenios que celebre el Director del Fondo de Programas Especiales para la Paz, en virtud de la delegación conferida por el Director del Departamento Administrativo de la Presidencia de la República, de conformidad con lo dispuesto en el Decreto 716 de 1994, así como en desarrollo de su objeto, sólo se someterán a las normas que rigen la contratación entre particulares, sin perjuicio de la inclusión de las cláusulas excepcionales contempladas en la Ley 80 de 1993 y las que las modifiquen y adicionen.
 
 (Decreto 2429 de 1997, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.2.1.4 — Pagos
 
@@ -6080,15 +5492,11 @@ A partir de la vigencia del presente decreto, el Fondo de Programas Especiales p
 
 (Decreto 2429 de 1997, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.2.1.5 — Transferencia de derechos y obligaciones contractuales
 
 Los contratos o convenios que hayan sido perfeccionados con cargo al presupuesto de la Red de Solidaridad Social, que no correspondan a los objetivos y funciones de la Red de Solidaridad Social, de acuerdo a la Ley 368 de 1997 y al Decreto 1225 de 1997, serán cedidos al Departamento Administrativo de la Presidencia de la República, para lo cual se hará la nota de cesión en el texto de los contratos o convenios.
 
 (Decreto 2429 de 1997, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.2.1.6 — Gastos
 
@@ -6102,19 +5510,13 @@ Capítulo Adicionado por el Decreto 1438 de 2019, Art. 1
 
 Reglamentación Subcuenta Zonas Estratégicas de Intervención Integral (ZEII).
 
-ARTÍCULO
-
 ## art:2.2.2.2.1 — Objeto de la Subcuenta del Fondo Programas Especiales para la Paz
 
 El objeto de la subcuenta Zonas Estratégicas de Intervención Integral (ZEll) del Fondo de Programas Especiales para la Paz, será la financiación de planes, programas y estrategias que se implementarán en los territorios que se establezcan como Zonas Estratégicas de Intervención Integral (ZEII).
 
-ARTÍCULO
-
 ## art:2.2.2.2.2 — Fuente de los recursos
 
 Los recursos destinados a la financiación de las Zonas Estratégicas de Intervención Integral (ZEII), provendrán de recursos adicionales del Presupuesto General de la Nación, recursos de cooperación internacional, aportes del sector privado.
-
-ARTÍCULO
 
 ## art:2.2.2.2.3 — Financiación de los planes especiales de Intervención Integral de las Zonas Estratégicas de Intervención Integral (ZEII)
 
@@ -6122,19 +5524,13 @@ Con los recursos destinados a la Subcuenta a la que se refiere este Capítulo, s
 
 PARÁGRAFO . La elaboración de los Planes Especiales de Intervención Integral (PEII) de las ZEII se hará bajo la coordinación del Consejo de Seguridad Nacional.
 
-ARTÍCULO
-
 ## art:2.2.2.2.4 — Régimen jurídico aplicable
 
 La Subcuenta Zonas Estratégicas de Intervención Integral, se regirá con sujeción a lo establecido en el artículo 2.2.2.1.3 del presente Decreto.
 
-ARTÍCULO
-
 ## art:2.2.2.2.5 — Temporalidad y cuantía
 
 La duración y cuantía del apoyo a la financiación de los planes, programas y estrategias que se implementarán, estarán definidas por las necesidades de las Zonas Estratégicas de Intervención Integral, hasta los límites presupuestales de cada vigencia.
-
-ARTÍCULO
 
 ## art:2.2.2.2.6 — Ordenación del gasto
 
@@ -6146,15 +5542,11 @@ TÍTULO 3
 
 TRÁMITE PARA LA INTEGRACIÓN DE LAS CORRESPONDIENTES TERNAS DE CANDIDATOS A MAGISTRADOS DE LA CORTE CONSTITUCIONAL POR PARTE DEL PRESIDENTE DE LA REPÚBLICA.
 
-ARTÍCULO
-
 ## art:2.2.3.1 — Objeto
 
 El presente Título tiene por objeto establecer el trámite para la integración de las ternas que corresponde conformar al Presidente de la República, con fundamento en lo dispuesto en los artículos 239 de la Constitución Política, 318 de la Ley 5ª de 1992 y 44 de la Ley 270 de 1996.
 
 (Decreto 537 de 2015, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.3.2 — Calidades de los ternados
 
@@ -6163,8 +5555,6 @@ Las ternas de candidatos a magistrados de la Corte Constitucional que presente e
 En la conformación de las ternas se observará que los candidatos aseguren probidad, independencia, idoneidad, carácter y solvencia académica y profesional.
 
 (Decreto 537 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.2.3.3 — Invitación pública
 
@@ -6175,8 +5565,6 @@ Una vez vencido el término señalado, el Ministro de la Presidencia de la Repú
 PARÁGRAFO . En los casos de vacancia del cargo por razones distintas al cumplimiento del periodo respectivo y que le sean comunicadas al Presidente de la República, el tiempo de la publicación se reducirá a cinco (5) días, con el propósito de cumplir el término previsto en el artículo 44 de la Ley 270 de 1996.
 
 (Decreto 537 de 2015, art. 3)
-
-ARTÍCULO
 
 ## art:2.2.3.4 — Publicación de la lista definitiva
 
@@ -6190,15 +5578,11 @@ Una vez vencido el término anterior, el Ministro de la Presidencia remitirá in
 
 (Decreto 537 de 2015, art. 4)
 
-ARTÍCULO
-
 ## art:2.2.3.5 — Entrevista
 
 Recibidas las observaciones y apreciaciones de los ciudadanos, el Presidente de la República podrá realizar entrevistas a los candidatos, caso en el cual se deberá establecer y divulgar previamente un mecanismo para la realización de las mismas que garantice equidad y transparencia.
 
 (Decreto 537 de 2015, art. 5)
-
-ARTÍCULO
 
 ## art:2.2.3.6 — Divulgación de la terna
 
@@ -6314,8 +5698,6 @@ CAPÍTULO 1.
 
 COMPOSICIÓN Y FUNCIONES DE LAS INSTANCIAS DE EJECUCIÓN DEL PNIS.
 
-ARTÍCULO
-
 ## art:2.2.5.1.1 — Objeto e integración de la Junta de Direccionamiento Estratégico
 
 Como escenario de diálogo, orientación, evaluación y monitoreo de la gestión e implementación del Programa Nacional Integral de Sustitución PNIS, en concordancia con el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, se constituirá una Junta de Direccionamiento Estratégico que tomará sus decisiones por consenso y estará integrada así:
@@ -6329,8 +5711,6 @@ A título de invitados, cuando los miembros lo consideren pertinente, participar
 PARÁGRAFO . La Secretaría Técnica de la Junta de Direccionamiento Estratégico la ejercerá la Dirección para la Sustitución de Cultivos Ilícitos de la Alta Consejería Presidencial para el Posconflicto del Departamento Administrativo de la Presidencia de la República.
 
 (Decreto 362 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.2 — Funciones de la Junta de Direccionamiento Estratégico
 
@@ -6369,8 +5749,6 @@ La Junta de Direccionamiento Estratégico cumplirá las siguientes funciones:
 16. Darse su propio reglamento de funcionamiento.
 
 (Decreto 362 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.3 — Dirección General del PNIS
 
@@ -6436,8 +5814,6 @@ e. A los actores nacionales e internacionales, públicos y privados, para fortal
 
 (Decreto 362 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.1.4 — Objeto e integración del Consejo Permanente de Dirección
 
 El Consejo Permanente de Dirección es una instancia de apoyo a la Dirección General del PNIS y estará integrada por:
@@ -6451,8 +5827,6 @@ El Consejo Permanente de Dirección es una instancia de apoyo a la Dirección Ge
 PARÁGRAFO . Con el fin de garantizar la incorporación de los enfoques diferenciales, de género, étnico y territorial en las diferentes etapas de elaboración, ejecución, seguimiento y evaluación del PNIS, el Consejo Permanente de Dirección podrá consultar e invitar a este escenario a la Instancia Especial para el Seguimiento al Enfoque de Género y Garantía de los Derechos de la Mujeres y a la Instancia Especial de Alto Nivel de los Pueblos Étnicos, que hacen parte de la Comisión de Seguimiento, Impulso y Verificación a la Implementación del Acuerdo Final (CSIVI) o a los demás que estime conveniente.
 
 (Decreto 362 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.1.5 — Funciones del Consejo Permanente de Dirección
 
@@ -6482,8 +5856,6 @@ CAPÍTULO 2.
 
 COMPOSICIÓN Y FUNCIONES DE LAS INSTANCIAS TERRITORIALES DE COORDINACIÓN Y GESTIÓN DEL PNIS.
 
-ARTÍCULO
-
 ## art:2.2.5.2.1 — Consejos Asesores Territoriales
 
 La Dirección del PNIS, previa orientación y aprobación de la Junta de Direccionamiento Estratégico, sin perjuicio de las funciones y competencias asignadas a las diferentes autoridades públicas, y en función de las necesidades, podrá convocar a los Consejos Asesores Territoriales que serán instancias de articulación entre los niveles nacional y territorial del PNIS.
@@ -6496,8 +5868,6 @@ Los Consejos Asesores Territoriales serán conformados sin que éstos necesariam
 
 (Decreto 362 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.2.2 — Funciones de los Consejos Asesores Territoriales
 
 Son funciones de los Consejos Asesores Territoriales las siguientes:
@@ -6509,8 +5879,6 @@ Son funciones de los Consejos Asesores Territoriales las siguientes:
 3. Promover la integración de los PISDA a los Planes de Acción para la Transformación Regional (PATR) como visión del territorio.
 
 (Decreto 362 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.3 — Comisiones Municipales de Planeación Participativa
 
@@ -6529,8 +5897,6 @@ En cada municipio donde se desarrolle el Programa, la Comisión Municipal de Pla
 6. Delegados, residentes en la zona, de las organizaciones sociales con presencia en el territorio.
 
 (Decreto 362 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.2.5.2.4 — Funciones de las Comisiones Municipales de Planeación Participativa
 
@@ -6556,8 +5922,6 @@ Son funciones de las Comisiones Municipales de Planeación Participativa las sig
 
 (Decreto 362 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.2.5.2.5 — Objeto, funciones e integración de los Consejos Municipales de Evaluación y Seguimiento
 
 El Consejo Municipal de Evaluación y Seguimiento es la instancia encargada de realizar el seguimiento y la evaluación de la ejecución y cumplimiento de los planes comunitarios y planes municipales de sustitución y desarrollo alternativo -PISDA y los Planes de Atención Inmediata (PAI), y presentar informes a las Asambleas Comunitarias, a las Comisiones Municipales de Planeación Participativa y al Consejo Asesor Territorial. Lo anterior sin perjuicio de las funciones y competencias atribuidas a las diferentes autoridades públicas.
@@ -6569,8 +5933,6 @@ Estarán conformados por delegados de las Asambleas comunitarias, delegados de l
 CAPÍTULO 3
 
 COORDINACIÓN INTERINSTITUCIONAL DEL PNIS
-
-ARTÍCULO
 
 ## art:2.2.5.3.1 — Coordinación interinstitucional del PNIS
 
@@ -6588,8 +5950,6 @@ PARTE 3.
 
 DISPOSICIONES REGLAMENTARIAS ALUSIVAS A LAS ENTIDADES ADSCRITAS AL DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA -SECTOR DESCENTRALIZADO-
 
-ARTÍCULO
-
 ## art:2.3.1 — 
 
 2.3.1 Objeto: La Parte 3 de Libro 2 del presente Decreto compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política, que regulan, en lo pertinente, la actividad de las entidades del sector descentralizado que se encuentran adscritas al Departamento Administrativo de la Presidencia de la República.
@@ -6606,23 +5966,17 @@ SECCIÓN 1
 
 ASPECTOS GENERALES
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.1 — Seguro contra Accidentes
 
 El Director General de la Unidad Nacional para la Gestión del Riesgo de Desastres adelantará, anualmente, los trámites legales para la selección del contratista y el perfeccionamiento y legalización de un contrato de seguro contra accidentes que ampare a los Miembros Voluntarios de los Organismos de Socorro que formen parte del Sistema Nacional de Gestión del Riesgo de Desastres, hasta el monto de los recursos que le hayan sido transferidos por el Fondo Nacional de Seguridad y Convivencia Ciudadana, FONSECON, para tal fin.
 
 (Decreto 2012 de 2003, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.1.1.2 — Organismos de socorro del Sistema Nacional de Gestión del Riesgo de Desastres
 
 Son Organismos de Socorro del Sistema Nacional de Gestión del Riesgo de Desastres, la Cruz Roja Colombiana, la Defensa Civil Colombiana, los Cuerpos de Bomberos de Colombia y las demás organizaciones que estén registradas como miembros del Sistema en la Unidad Nacional para la Gestión del Riesgo de Desastres.
 
 (Decreto 2012 de 2003, art. 2)
-
-ARTÍCULO
 
 ## art:2.3.1.1.1.3 — Cobertura del seguro
 
@@ -6633,8 +5987,6 @@ El seguro de accidentes cubrirá como mínimo las siguientes contingencias, orig
 SECCIÓN 2
 
 ASPECTOS INSTITUCIONALES
-
-ARTÍCULO
 
 ## art:2.3.1.1.2.1 — Recursos
 
@@ -6647,8 +5999,6 @@ Para efectos del traslado de los recursos del Fondo Nacional de Seguridad y Conv
 PARÁGRAFO . La cuantía del traslado será calculada por el Director General de la Unidad Nacional para la Gestión del Riesgo de Desastres teniendo en cuenta los estudios efectuados con los Organismos de Socorro del Sistema Nacional de Gestión del Riesgo de Desastres, las estadísticas y proyecciones de accidentalidad y el valor comercial promedio de la póliza en el mercado.
 
 (Decreto 2012 de 2003, art. 4)
-
-ARTÍCULO
 
 ## art:2.3.1.1.2.2 — Contratistas
 
@@ -6668,23 +6018,17 @@ SUBSECCIÓN 1
 
 OBJETO Y ALCANCE, ÁMBITO DE APLICACIÓN Y PRINCIPIOS
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.1.1 — Objeto y alcance
 
 El presente Capítulo tiene por objeto establecer el procedimiento para la expedición y actualización del Plan Nacional de Gestión del Riesgo, el cual será de obligatorio cumplimiento por parte de las entidades que integran el sistema nacional de gestión del riesgo de desastres, con el propósito de precisar en detalle las instancias que se deben considerar en la formulación, aprobación, adopción, ejecución, seguimiento y evaluación del Plan.
 
 (Decreto 1974 de 2013, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.2.1.1.2 — Ámbito de aplicación
 
 El presente Capítulo se aplica a los integrantes del Sistema Nacional de Gestión del Riesgo de Desastres e instancias de dirección, orientación y coordinación que hacen parte del Sistema Nacional de Gestión del Riesgo de Desastres, contempladas en los artículos 8, 9 y 15 de la Ley 1523 de 2012.
 
 (Decreto 1974 de 2013, art. 2)
-
-ARTÍCULO
 
 ## art:2.3.1.2.1.1.3 — Principios generales y definiciones
 
@@ -6700,8 +6044,6 @@ SUBSECCIÓN 1
 
 EL PLAN, PROCESOS Y ESTRUCTURA
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.1 — El Plan Nacional de Gestión del Riesgo
 
 Contendrá los objetivos, programas, acciones, responsables y presupuestos, mediante las cuales se ejecutarán los procesos de conocimiento del riesgo, reducción del riesgo y de manejo de desastres, en el marco de la planificación del desarrollo nacional.
@@ -6710,15 +6052,11 @@ PARÁGRAFO . El Plan Nacional de Gestión del Riesgo se formulará con una proye
 
 (Decreto 1974 de 2013, art. 4)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.2 — Estructura del Plan
 
 El Plan Nacional de Gestión del Riesgo contará con dos componentes: un componente general y un componente programático y de inversiones.
 
 (Decreto 1974 de 2013, art. 5)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.3 — Componente general
 
@@ -6734,8 +6072,6 @@ d) Las directrices que orientarán la asignación y ejecución de los recursos d
 
 (Decreto 1974 de 2013, art. 6)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.1.4 — El componente programático y de inversiones
 
 Definirá para cada una de las estrategias formuladas, los programas y los proyectos de inversión con indicación de sus objetivos y metas nacionales, sectoriales y territoriales, los responsables de su implementación, las fuentes de financiación y los recursos de inversión previstos para tal fin en el corto, mediano y largo plazo.
@@ -6743,8 +6079,6 @@ Definirá para cada una de las estrategias formuladas, los programas y los proye
 PARÁGRAFO . Se incluirán presupuestos plurianuales cuando la proyección de los costos y fuentes de financiación de los principales programas y proyectos de inversión requieran para su ejecución más de una vigencia fiscal.
 
 (Decreto 1974 de 2013, art. 7)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.1.5 — Contenido del Plan
 
@@ -6772,8 +6106,6 @@ SUBSECCIÓN 2
 
 FORMULACIÓN DEL PLAN NACIONAL DE GESTIÓN DEL RIESGO
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.2.1 — Formulación
 
 Consiste en el proceso secuencial y participativo por el cual se llevará a cabo la elaboración del Plan Nacional de Gestión del Riesgo.
@@ -6782,15 +6114,11 @@ La Unidad Nacional para la Gestión del Riesgo de Desastres es la instancia enca
 
 (Decreto 1974 de 2013, art. 9)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.2.2 — Direccionamiento del Plan
 
 La Unidad Nacional para la Gestión del Riesgo de Desastres será la encargada de elaborar un documento que contendrá las orientaciones para su formulación y la definición del tipo de plan que se requiere para el país, a partir de la articulación y sistematización de la información consolidada de la participación de los comités nacionales y ministerios.
 
 (Decreto 1974 de 2013, art. 10)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.2.3 — Consulta
 
@@ -6800,15 +6128,11 @@ La consulta estará orientada al diseño y realización de talleres y reuniones 
 
 (Decreto 1974 de 2013, art. 11)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.2.4 — Sistematización y análisis
 
 Consiste en el procesamiento y análisis de las etapas de formulación del Plan Nacional de Gestión del Riesgo y los resultados de su implementación que se articulará con el sistema integrado de gestión de la Unidad Nacional para la Gestión del Riesgo de Desastres.
 
 (Decreto 1974 de 2013, art. 12)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.2.5 — Validación de la propuesta
 
@@ -6822,8 +6146,6 @@ SUBSECCIÓN 3
 
 APROBACIÓN, ADOPCIÓN Y TÉRMINOS DEL PLAN NACIONAL DE GESTIÓN DEL RIESGO
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.3.1 — Aprobación del Plan
 
 El Director General de la Unidad Nacional para la Gestión del Riesgo de Desastres enviará la propuesta del Plan Nacional de Gestión del Riesgo a cada uno de los integrantes del Consejo Nacional de Gestión del Riesgo, para que en un plazo no mayor a treinta (30) días calendario, realicen la respectiva revisión, análisis y sugerencias.
@@ -6831,8 +6153,6 @@ El Director General de la Unidad Nacional para la Gestión del Riesgo de Desastr
 La propuesta ajustada del Plan, será presentada al Consejo Nacional de Gestión del Riesgo de Desastres, en un término no superior a treinta (30) días, por el Director General de la Unidad Nacional para la Gestión del Riesgo de Desastres, para su aprobación.
 
 (Decreto 1974 de 2013, art. 14)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.3.2 — Término para la adopción del Plan Nacional de Gestión del Riesgo
 
@@ -6844,15 +6164,11 @@ SUBSECCIÓN 4
 
 EJECUCIÓN, SEGUIMIENTO Y EVALUACIÓN
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.4.1 — Ejecución
 
 El Plan Nacional de Gestión del Riesgo se ejecutará a través del desarrollo de los programas y proyectos definidos en el componente programático y de inversiones, los cuales deberán ser incorporados, para su ejecución, en los respectivos planes de acción y presupuestos institucionales de las entidades responsables.
 
 (Decreto 1974 de 2013, art. 16)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.4.2 — Seguimiento y evaluación
 
@@ -6872,8 +6188,6 @@ Copia de estos informes serán remitidos al Departamento Nacional de Planeación
 
 (Modificado por el Decreto 1478 de 2022)
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.4.4 — Evaluación del Plan
 
 Este proceso tendrá en cuenta los resultados del cumplimiento de los objetivos, las metas y la ejecución presupuestal de los diferentes proyectos con base en los indicadores diseñados para el efecto y se medirá el impacto en función de los programas y de los objetivos de los procesos de la gestión del riesgo.
@@ -6884,8 +6198,6 @@ SUBSECCIÓN 5
 
 ACTUALIZACIÓN DEL PLAN NACIONAL DE GESTIÓN DEL RIESGO
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.5.1 — Actualización
 
 El Plan Nacional de Gestión del Riesgo podrá ajustarse de acuerdo a las necesidades y nuevos contextos en materia de gestión del riesgo de desastres y seguirá el mismo procedimiento establecido para su formulación y aprobación.
@@ -6893,8 +6205,6 @@ El Plan Nacional de Gestión del Riesgo podrá ajustarse de acuerdo a las necesi
 Las actualizaciones permitirán ajustes y cambios en el componente programático y se realizarán cada cuatro (4) años conforme al plan nacional de desarrollo vigente.
 
 (Decreto 1974 de 2013, art. 20)
-
-ARTÍCULO
 
 ## art:2.3.1.2.2.5.2 — Actualización extraordinaria
 
@@ -6912,8 +6222,6 @@ SUBSECCIÓN 6
 
 FINANCIAMIENTO DEL PLAN NACIONAL DE GESTIÓN DEL RIESGO
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.6.1 — Financiamiento del Plan
 
 El Plan Nacional de Gestión del Riesgo contará con los recursos de financiación mediante los cuales se dará ejecución y cumplimiento a sus componentes general y programático con el fin de lograr una incidencia sectorial en la ejecución de proyectos del orden nacional y territorial.
@@ -6928,8 +6236,6 @@ SECCIÓN 7
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.3.1.2.2.7.1 — Apoyo y asesoría técnica
 
 Para la elaboración del Plan Nacional de Gestión del Riesgo contará con la asesoría técnica, apoyo y la participación de las entidades del Sistema Nacional para la Gestión del Riesgo de Desastres.
@@ -6940,15 +6246,11 @@ CAPÍTULO 3
 
 ELIMINACIÓN DE LA COMISIÓN INTERSECTORIAL PARA LA ZONA DE INFLUENCIA DEL VOLCÁN GALERAS
 
-ARTÍCULO
-
 ## art:2.3.1.3.1 — Derogatoria
 
 Deróguese el Decreto número 4046 de 2005, “por el cual se crea la Comisión Intersectorial para la Zona de Influencia del Volcán Galeras”.
 
 (Decreto 1027 de 2014, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.3.2 — Coordinación
 
@@ -6956,23 +6258,17 @@ La Unidad Nacional para la Gestión del Riesgo de Desastres, en ejercicio de sus
 
 (Decreto 1027 de 2014, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.1.3.3 — Comunicación
 
 Comuníquese el presente decreto al Instituto Geográfico Agustín Codazzi, al Servicio Geológico Colombiano y a la Unidad Nacional para la Gestión del Riesgo de Desastres.
 
 (Decreto 1027 de 2014, art. 3)
 
-ARTÍCULO
-
 ## art:2.3.1.3.4 — Entrega de documentos
 
 El Ministerio de Vivienda, Ciudad y Territorio, escindido del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, que ejercía la Secretaría Técnica de la Comisión Intersectorial para la Zona de Influencia del Volcán Galeras, remitirá las actas y demás documentos que reposen en sus archivos relacionados con la mencionada Comisión Intersectorial, a la Unidad Nacional para la Gestión del Riesgo de Desastres.
 
 (Decreto 1027 de 2014, art. 4)
-
-ARTÍCULO
 
 ## art:2.3.1.3.5 — Vigencia
 
@@ -6988,23 +6284,17 @@ SECCIÓN 1
 
 REGLAMENTACIÓN DE LA SUBCUENTA DEPARTAMENTO ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.1 — Financiación de programas estratégicos y proyectos de inversión
 
 De conformidad con el artículo 98 de la Ley 1737 de 2014, podrán financiarse, con cargo a la Subcuenta Departamento Archipiélago de San Andrés, Providencia y Santa Catalina del Fondo Nacional para la Gestión del Riesgo de Desastres, los programas estratégicos para el mejoramiento de las condiciones de transporte, comercio, industria y turismo del archipiélago; el desarrollo de la agricultura, pesca y acuicultura; apoyo al desarrollo social de las poblaciones ubicadas en este departamento fronterizo, en especial para el fortalecimiento de los sectores de educación, cultura, deporte y el desarrollo psico-social de los niños, niñas y adolescentes del departamento; apoyo a la producción de insumos para la elaboración de un plan de ordenamiento territorial de carácter diferencial; mejoramiento de las condiciones en materia de habitabilidad, agua potable y saneamiento básico; desarrollo de la capacidad de generación de empleo e ingresos; implementación de líneas especiales de crédito para los habitantes; otorgamiento de apoyos destinados a incentivar la demanda con el fin de fomentar el desarrollo económico y turístico y de mejorar las condiciones de seguridad en el Departamento, y; financiamiento de proyectos de inversión para el desarrollo económico y social en el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina, de conformidad con lo establecido por el Gobierno Nacional.
 
 (Decreto 282 de 2015, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.4.1.2 — Gestión del Riesgo
 
 La Subcuenta Departamento Archipiélago de San Andrés, Providencia y Santa Catalina del Fondo Nacional de Gestión del Riesgo de Desastres se regirá con sujeción a las disposiciones de la Ley 1523 de 2012.
 
 (Decreto 282 de 2015, art. 2)
-
-ARTÍCULO
 
 ## art:2.3.1.4.1.3 — Temporalidad y cuantía
 
@@ -7512,8 +6802,6 @@ SECCIÓN 2
 
 PROYECTOS ESTRATÉGICOS
 
-ARTÍCULO
-
 ## art:2.3.1.4.2.1 — Adopción de Proyectos Estratégicos
 
 De conformidad con lo establecido en el artículo 98 de la Ley 1737 de 2014, adóptense los siguientes proyectos estratégicos por realizarse en el Departamento Archipiélago de San Andrés, Providencia y Santa Catalina, en los sectores de transporte, turismo y pesca:
@@ -7529,8 +6817,6 @@ c) Amparo, mediante contratos de seguro, tanto las embarcaciones de pesca indust
 SECCIÓN 3
 
 PLAN ESTRATÉGICO PARA EL ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA
-
-ARTÍCULO
 
 ## art:2.3.1.4.3.1 — Adopción del Plan Estratégico
 
@@ -7550,23 +6836,17 @@ DISPOSICIONES GENERALES
 
 OBJETO, ALCANCE, DEFINICIONES Y RESPONSABLES
 
-ARTÍCULO
-
 ## art:2.3.1.6.1.1 — Objeto
 
 Reglamentar las actividades directivas, administrativas y operacionales del Fondo Nacional de Gestión del Riesgo de Desastres, como mecanismo de financiación de la política de gestión del riesgo de desastres en Colombia.
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.1.2 — Alcance
 
 Las disposiciones contenidas en el presente reglamento aplican a todas las entidades del Sistema Nacional de Gestión del Riesgo de Desastres, que ejecuten actividades con recursos del Fondo Nacional, relativas a los procesos de conocimiento del riesgo, reducción del riesgo y manejo de desastres; a Fiduprevisora S.A., en su calidad de vocera y administradora del patrimonio autónomo del Fondo Nacional y, al Director de la Unidad Nacional para la Gestión del Riesgo de Desastres, en su calidad de Ordenador del Gasto de los recursos del Fondo Nacional de Gestión del Riesgo de Desastres y sus subcuentas, respectivamente.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.1.3 — Definiciones
 
@@ -7592,8 +6872,6 @@ Nacional o Fondo.
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.1.4 — Responsables
 
 Son responsables del adecuado manejo de los recursos económicos, los integrantes del Sistema Nacional de Gestión del Riesgo de Desastres que manejen, administren o ejecuten actividades financiadas con recursos del Fondo Nacional de Gestión del Riesgo de Desastres.
@@ -7604,15 +6882,11 @@ SUBSECCIÓN 2.
 
 NATURALEZA, DIRECCIÓN Y MANEJO DE RECURSOS DEL FONDO NACIONAL DE GESTIÓN DEL RIESGO DE DESASTRES.
 
-ARTÍCULO
-
 ## art:2.3.1.6.1.2.1 — Fondo Nacional para la Gestión del Riesgo de Desastres
 
 Los recursos del Fondo Nacional están destinados a la implementación y continuidad de la política nacional de gestión del riesgo de desastres, en el marco de la Ley 1523 de 2012 y sus normas reglamentarias.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.1.2.2 — La Junta Directiva
 
@@ -7627,8 +6901,6 @@ Para efecto de lo consagrado en el en el artículo 52 de la Ley 1523 de 2012, la
 4. Expedir y adoptar su propio reglamento.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.1.2.3 — Secretaria Técnica de la Junta Directiva del fondo nacional
 
@@ -7658,8 +6930,6 @@ La Dirección de la Unidad Nacional para la Gestión del Riesgo de Desastres eje
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.1.2.4 — Manejo de recursos
 
 La sociedad Fiduciaria La Previsora S.A. como representante legal y administradora del Fondo Nacional, tendrá a cargo la recepción, administración, inversión y pago de los recursos del Fondo.
@@ -7667,8 +6937,6 @@ La sociedad Fiduciaria La Previsora S.A. como representante legal y administrado
 SECCIÓN 2
 
 Aspectos operativos y de funcionamiento del Fondo Nacional de Gestión del Riesgo De Desastres.
-
-ARTÍCULO
 
 ## art:2.3.1.6.2.1 — Operación
 
@@ -7678,15 +6946,11 @@ El Fondo Nacional operará con esquemas interinstitucionales de manera directa e
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.2.2 — Inversiones forzosas
 
 El Fondo se encuentra libre de inversiones forzosas y obligatorias, y deberá garantizar la disponibilidad inmediata de recursos para cumplir con sus objetivos.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.2.3 — Transferencias de recursos para proyectos específicos
 
@@ -7694,15 +6958,11 @@ Los recursos provenientes del presupuesto general de la nación transferidos al 
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.2.4 — Aspectos presupuestales
 
 La Unidad Nacional para la Gestión del Riesgo de Desastres, adelantará las gestiones necesarias ante el Ministerio de Hacienda y Crédito Público para definir la programación presupuestal y las adiciones necesarias, así como el traslado de los recursos, que permitan la operatividad y financiamiento del Fondo.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.2.5 — Rendimientos financieros
 
@@ -7710,15 +6970,11 @@ Los rendimientos financieros del Fondo, serán utilizados en la implementación 
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.2.6 — Creación de subcuentas
 
 La creación de nuevas subcuentas del Fondo Nacional de Gestión del Riesgo de Desastres, se realizará bajo la consideración y aprobación de la Junta Directiva o por disposición legal.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.2.7 — Recursos subcuenta de protección financiera
 
@@ -7726,23 +6982,17 @@ La gestión, negociación, adquisición o celebración de instrumentos, contrato
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.2.8 — Distribución de recursos entre subcuentas
 
 Los recursos que ingresen bajo cualquier título al Fondo, serán distribuidos entre las subcuentas para apoyar el financiamiento de la gestión del riesgo.
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.2.9 — Traslado de recursos entre subcuentas
 
 La Junta Directiva del Fondo autorizará el traslado de recursos entre subcuentas, con excepción de la subcuenta para la protección financiera. Los recursos a trasladar, bajo ninguna circunstancia o condición, deben encontrarse asignados o comprometidos.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.2.10 — Control de recursos
 
@@ -7756,8 +7006,6 @@ SECCIÓN 3.
 
 TRANSFERENCIA, GIROS, DESTINACIÓN DE RECURSOS DEL FONDO NACIONAL DE GESTIÓN DEL RIESGO DE DESASTRES Y FINANCIACIÓN DE PROYECTOS.
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.1 — Transferencias
 
 Las transferencias que realice el Fondo, estarán especialmente destinadas a actividades correspondientes a procesos de gestión del riesgo de desastres. Quienes las reciban, deberán administrarlas y responder por su correcta y debida ejecución.
@@ -7765,8 +7013,6 @@ Las transferencias que realice el Fondo, estarán especialmente destinadas a act
 La entidad receptora de los recursos deberá realizar la respectiva operación presupuestal, salvo lo dispuesto en el artículo 80 de la ley 1523 de 2012.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.2 — Administración de los recursos transferidos
 
@@ -7776,15 +7022,11 @@ La obligación de realizar los correspondientes registros contables de los recur
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.3 — Regulación de las transferencias
 
 La Junta Directiva del Fondo fijará los procedimientos administrativos y operativos que se requieran para la ejecución, control administrativo, legalización, disminución o prohibiciones de las transferencias.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.4 — Legalización de las transferencias
 
@@ -7794,15 +7036,11 @@ PARÁGRAFO . La Fiduprevisora S.A. comunicará a la Unidad Nacional los incumpli
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.5 — Contenido de las legalizaciones
 
 Los entes receptores de los recursos transferidos, deberán reportar la relación detallada de todos y cada uno de los contratos suscritos, facturas, cuentas de cobro, acta de recibo de los bienes adquiridos, certificaciones, formatos diligenciados, informes, actas de liquidación y todos los demás documentos que acrediten las inversiones o destinaciones de los recursos provenientes de las transferencias efectuadas por el Fondo Nacional.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.6 — Plazo para la legalización de los recursos
 
@@ -7812,15 +7050,11 @@ PARÁGRAFO . En todo caso, los plazos previstos podrán ser prorrogados, previa 
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.7 — Limitación a las transferencias
 
 En el evento que la entidad receptora no haya efectuado la legalización total de la transferencia dentro del plazo establecido, no se podrán autorizar transferencias adicionales a la entidad, salvo en casos excepcionales que serán evaluados por el Director de la Unidad e informados posteriormente a Fiduprevisora S.A. y la Junta Directiva del Fondo.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.8 — Suspensión, disminución y prohibiciones de las transferencias
 
@@ -7852,15 +7086,11 @@ Se procederá conforme lo dispuesto en este artículo, cuando:
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.9 — No legalización de los recursos
 
 El representante legal de la entidad receptora está en la obligación de justificar la no legalización de los recursos girados dentro de los términos establecidos, conforme al procedimiento administrativo y operativo, expedidos por la Junta Directiva del Fondo Nacional, so pena de aplicarse lo dispuesto el numeral 1 del artículo 2.3.1.6.3.8.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.10 — Duración de la Suspensión
 
@@ -7868,15 +7098,11 @@ La suspensión de los giros por las causas contempladas en el numeral 1 del art�
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.11 — Transferencia de recursos a otras entidades del Sistema
 
 La transferencia de los recursos a las entidades del Sistema Nacional, distintas a los Entes Territoriales, se hará, previo convenio o contrato suscrito a través de Fiduprevisora S.A.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.12 — Solicitud de recursos y aprobación
 
@@ -7886,8 +7112,6 @@ Las solicitudes debidamente soportadas, serán evaluadas por la Unidad Nacional 
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.13 — Convenios y contratos
 
 El representante legal de la entidad solicitante, para efectos del adecuado ejercicio de la gestión pública, deberá diligenciar los correspondientes formatos, allegar las certificaciones que acrediten su calidad, firmar el convenio o contrato y demás documentos que solicite la Unidad Nacional o Fiduprevisora S.A.
@@ -7896,15 +7120,11 @@ Cumplido lo anterior, los recursos serán transferidos con destino al Fondo Terr
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.14 — Administración de los recursos
 
 La administración de los recursos transferidos será responsabilidad del representante legal de la entidad receptora, constituyéndose en ordenador del gasto de los montos transferidos.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.15 — Alcance, objeto y justificación de los proyectos
 
@@ -7912,15 +7132,11 @@ Los recursos del Fondo serán transferidos para la financiación de proyectos qu
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.16 — Análisis costo beneficio
 
 La Junta Directiva del Fondo, establecerá lineamientos para la ejecución de los recursos, criterios de selección, indicadores de vulnerabilidad y amenaza o condiciones de pobreza y desigualdad, entre otros, que permitan reflejar los beneficios y costos evitados en las solicitudes y proyectos presentados, siendo los proyectos y programas de mayor eficiencia, los prioritarios.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.17 — Impuestos y otros gravámenes
 
@@ -7930,23 +7146,17 @@ PARÁGRAFO . Los recursos que transfiera el Fondo Nacional con ocasión de un co
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.18 — Criterios de priorización de proyectos financiados con recursos del Fondo
 
 La Dirección General de la Unidad, presentará a consideración de la Junta Directiva. para su aprobación, los criterios técnicos conforme al procedimiento administrativo y operativo para la priorización de proyectos financiados con recursos del Fondo, los cuales incluirán, entre otros, indicadores de. vulnerabilidad y amenaza de desastres, cofinanciación, condiciones de pobreza y desigualdad de la zona afectada.
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.19 — .19
 
 Las entidades receptoras de los recursos del Fondo Nacional presentarán informes mensuales o cuando la Unidad Nacional lo requiera, sobre el avance de los proyectos o actividades desarrolladas. Estos informes darán cuenta, entre otros aspectos, sobre la legalización de los recursos y el avance físico y financiero en la ejecución.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.20 — Destinación de los recursos
 
@@ -7955,8 +7165,6 @@ Los recursos del Fondo Nacional, solo podrán ser destinados a las actividades u
 La entidad receptora, una vez transferidos los recursos, deberá iniciar inmediatamente las gestiones y acciones necesarias para su ejecución, las cuales se ceñirán a lo señalado en el acto administrativo expedido por la Unidad Nacional o lo pactado en el contrato o convenio suscrito con Fiduprevisora S.A.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.21 — Cambio de destino de los recursos
 
@@ -7967,8 +7175,6 @@ Esta solicitud contendrá lo dispuesto en el artículo 2.3.1.6.3.13.
 PARÁGRAFO . El Consejo Territorial de Gestión del Riesgo respectivo, emitirá un concepto técnico que contendrá la correspondencia entre la nueva destinación de los recursos, con las necesidades prioritarias en materia de gestión del riesgo de su jurisdicción.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.22 — Reintegro de los recursos transferidos
 
@@ -7986,8 +7192,6 @@ PARÁGRAFO . La no devolución de los recursos, bajo estas circunstancias, impli
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.23 — Plazo límite para la ejecución de las transferencias del Fondo
 
 Una vez realizada la transferencia de los recursos, las entidades receptoras deberán iniciar inmediatamente las gestiones y acciones necesarias para su ejecución. Si transcurridos cuatro (4) meses después de la aprobación y transferencia de los recursos sin haberse adjudicado el contrato o celebrado el convenio por parte de las entidades receptoras, la Unidad Nacional, solicitará a la entidad las explicaciones de su falta de ejecución y, si no fueren satisfactorias, solicitará la devolución de los recursos.
@@ -8000,15 +7204,11 @@ PARÁGRAFO 2. Los plazos previstos podrán ser prorrogados, previa solicitud, de
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.24 — .24
 
 Cuando no se ejecuten o se ejecuten parcialmente los recursos asignados y, sin perjuicio de las acciones legales a que haya lugar, los valores no ejecutados deben ser reintegrados de al Fondo Nacional a la cuenta bancaria indicada por Fiduprevisora S.A. dentro de los diez (10) días hábiles siguientes a la solicitud de la Unidad Nacional.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.25 — Responsabilidad en el manejo de los recursos girados
 
@@ -8016,15 +7216,11 @@ Los responsables del manejo de los recursos del Fondo Nacional, adoptarán mecan
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.3.26 — Transferencias Directas
 
 El Director de la Unidad Nacional, podrá mediante acto administrativo, ordenar la transferencia de recursos del Fondo Nacional, para el cumplimiento de los objetivos del Sistema Nacional y del Fondo, sin que medie una declaratoria previa de calamidad pública o desastre.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.3.27 — Propiedad de los bienes adquiridos
 
@@ -8040,8 +7236,6 @@ SECCION 4
 
 FONDOS TERRITORIALES DE GESTIÓN DEL RIESGO DE DESASTRES
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.1 — Financiación
 
 Los recursos de los Fondos Territoriales, puede provenir de fuentes distintas a las del Fondo Nacional, entre otras, de partidas propias con origen en el presupuesto anual del ente territorial o ingresos corrientes tributarios y no tributarios, de capital, intereses, así como aportes que puedan efectuar las entidades públicas y privadas de cualquier naturaleza constituidas legalmente, o de recursos provenientes de las estrategias de protección financiera frente al riesgo de desastres y los rendimientos financieros que se generen.
@@ -8050,15 +7244,11 @@ Las administraciones departamentales, distritales y municipales podrán autoriza
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.2 — Operatividad
 
 Los alcaldes y gobernadores expedirán un reglamento administrativo y operativo que determine las condiciones específicas que permitan una definición clara de roles y responsabilidades entre Junta Directiva, ordenador del gasto, administrador y representante legal. Para tales efectos, deberán tener presente que los fondos territoriales se constituyen bajo el mismo esquema del Fondo Nacional en virtud del artículo 54 de la Ley 1523 de 2012.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.4.3 — Término para la reglamentación
 
@@ -8066,13 +7256,9 @@ Los Fondos Territoriales para la Gestión del Riesgo de Desastres, cuentan con u
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.4 — Sarlaft y registro de firmas
 
 Para la ejecución de los recursos situados en los Fondos Territoriales provenientes del Fondo Nacional, los responsables deberán velar por el cumplimiento de la normatividad expedida por la Superintendencia Financiera y el Manual Sarlaft (Sistema de Administración de Riesgos de Lavado de Activos y Financiación al Terrorismo) de Fiduprevisora S.A.
-
-ARTÍCULO
 
 ## art:2.3.1.6.4.5 — Obligaciones generales de la entidad territorial
 
@@ -8094,8 +7280,6 @@ Son obligaciones a cargo de las entidades territoriales receptoras de los recurs
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.4.6 — Clausula Resolutoria
 
 EÍ acto jurídico de transferencia de la propiedad de los bienes que se adquieran con los recursos del Fondo Nacional de Gestión del Riesgo de Desastres incluirá cláusula resolutoria por incumplimiento de cualquiera de las obligaciones pactadas y, la titularidad del bien será restituida al Fondo Nacional, sin perjuicio de las demás acciones a que haya lugar.
@@ -8105,8 +7289,6 @@ EÍ acto jurídico de transferencia de la propiedad de los bienes que se adquier
 SECCIÓN 5
 
 FINANCIACIÓN EN SITUACIONES DE DESASTRE O CALAMIDAD PÚBLICA.
-
-ARTÍCULO
 
 ## art:2.3.1.6.5.1 — Situaciones de desastre o calamidad pública
 
@@ -8124,8 +7306,6 @@ PARÁGRAFO 1. De acuerdo con lo establecido en el artículo 51 de la Ley 1523 de
 
 (Decreto 1289 de 2018, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.1.6.5.2 — Ahorro
 
 Sin perjuicio de lo dispuesto en el numeral 5 del artículo 51 de la Ley 1523 de 2012, el Fondo Nacional con sujeción a la ley podrá ahorrar recursos que le permitan obtener liquidez inmediata ante la declaratoria de desastres o calamidad pública. La fuente de estos recursos, será prioritariamente, los rendimientos financieros.
@@ -8136,8 +7316,6 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.1.6.6.1 — Apoyo a la Cooperación Internacional
 
 El Director General de la Unidad Nacional, previa aprobación de la Junta Directiva del Fondo, en el marco del Planes Estratégicos de Cooperación Internacional y, con el fin de promover la diplomacia humanitaria, podrá apoyar con recursos u otorgar apoyo humanitario en especie, ante el acaecimiento de eventos relacionados con desastres internacionales, requerimientos oficiales, participaciones del país ante organismos internacionales o la participación de la Nación en acuerdos de orden internacional cuyo objetivo sea la gestión del riesgo de desastres.
@@ -8145,8 +7323,6 @@ El Director General de la Unidad Nacional, previa aprobación de la Junta Direct
 PARÁGRAFO . La Unidad Nacional para la Gestión del Riesgo de Desastres coordinará con la Agencia Presidencial para la Cooperación Internacional de Colombia y el Ministerio de Relaciones Exteriores, la identificación de las necesidades según el evento, el país o territorio afectado y. las líneas de apoyo que se señalen o requieran.
 
 (Decreto 1289 de 2018, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.1.6.6.2 — Rendición de cuentas
 
@@ -8162,23 +7338,17 @@ A su vez, el ordenador del gasto presentará informes trimestrales a la Junta Di
 
 PLAN NACIONAL DE CONTINGENCIA FRENTE A PÉRDIDAS DE CONTENCIÓN DE HIDROCARBUROS Y OTRAS SUSTANCIAS PELIGROSAS
 
-ARTÍCULO
-
 ## art:2.3.1.7.1.1 — 
 
 2.3.1.7.1.1 Adopción del Plan Nacional de Contingencia frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas. Adóptese el Plan Nacional de Contingencia frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas, en adelante Plan Nacional de Contingencia, como un documento técnico, operativo y administrativo que establece el marco de actuación de respuesta nacional para la atención de un evento o incidente por pérdida de contención de hidrocarburos u otras sustancias peligrosas, cuyo texto es parte integral del presente decreto y se incorpora como anexo.
 
 (Adicionado por el Art. 1 del Decreto 1868 de 2021)
 
-ARTÍCULO
-
 ## art:2.3.1.7.1.2 — Objetivo del Plan Nacional de Contingencia
 
 El Plan Nacional de Contingencia tiene como objetivo general servir de instrumento rector de las entidades públicas y privadas del Sistema Nacional de Gestión del Riesgo de Desastres para el diseño y realización de acciones dirigidas a la preparación y la respuesta integral frente a incidentes por pérdida de contención de hidrocarburos y otras sustancias peligrosas en áreas marítimas, continentales, insulares y fluviales del país.
 
 (Adicionado por el Art. 1 del Decreto 1868 de 2021)
-
-ARTÍCULO
 
 ## art:2.3.1.7.1.3 — Actualización del Plan Nacional de Contingencia
 
@@ -8198,15 +7368,11 @@ SECCIÓN 1
 
 GENERALIDADES Y DEFINICIONES
 
-ARTÍCULO
-
 ## art:2.3.2.1.1.1 — Política de reincorporación a la vida civil
 
 La política conducente a desarrollar el programa de reincorporación a la sociedad y los beneficios socioeconómicos reconocidos será fijada por la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas en coordinación con el Ministerio de Defensa Nacional.
 
 (Decreto 128 de 2003, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.2.1.1.2 — Definiciones
 
@@ -8228,8 +7394,6 @@ Certificación del CODA: Es el documento que expide el Comité Operativo para la
 
 (Decreto 128 de 2003, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.1.1.3 — Reintegrado
 
 Para todos los efectos legales se entenderá como reintegrados a todas aquellas personas que se encuentren adelantando procesos de reincorporación a la vida civil.
@@ -8240,15 +7404,11 @@ SECCIÓN 2
 
 PROCESO DE DESMOVILIZACIÓN
 
-ARTÍCULO
-
 ## art:2.3.2.1.2.1 — Desmovilización
 
 Las personas que pretendan acceder a los beneficios previstos en este Decreto deberán presentarse ante jueces, fiscales, autoridades militares o de policía, representantes del Procurador, representantes del Defensor del Pueblo o autoridades territoriales, quienes informarán inmediatamente a la Fiscalía General de la Nación y a la guarnición militar más cercana al lugar de la entrega.
 
 (Decreto 128 de 2003, art. 3)
-
-ARTÍCULO
 
 ## art:2.3.2.1.2.2 — Recepción
 
@@ -8266,15 +7426,11 @@ PARÁGRAFO 2. La Defensoría del Pueblo promoverá la designación de abogados d
 
 (Decreto 128 de 2003, art. 4; Modificado por el Decreto 395 de 2007, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.1.2.3 — Garantía de los derechos humanos
 
 En armonía con el ejercicio de sus funciones, la Consejería Presidencial para los Derechos Humanos velará por el respeto de los derechos humanos de las personas que abandonen voluntariamente las armas y el correcto cumplimiento de los procesos de desmovilización y reincorporación a la vida civil, para lo cual podrá adelantar visitas a las instalaciones de seguridad, o de educación en que se encuentren los desmovilizados, y solicitar a los órganos y entidades que hacen parte de los procesos de desmovilización y reincorporación, toda la documentación e información que requiera, lo mismo que adelantar las demás acciones que considere pertinentes para el cabal desarrollo de su función.
 
 (Decreto 128 de 2003, art. 5)
-
-ARTÍCULO
 
 ## art:2.3.2.1.2.4 — Presentación de las listas por parte del grupo armado al margen de la ley
 
@@ -8284,15 +7440,11 @@ Con relación a los niños, niñas y adolescentes que fueron utilizados o partic
 
 (Modificado por el Art. 1 del Decreto 1753 de 2016)
 
-ARTÍCULO
-
 ## art:2.3.2.1.2.5 — Aceptación de la Lista
 
 Las listas de que trata el artículo anterior serán recibidas y aceptadas por el Alto Comisionado para la Paz de buena fe, sin perjuicio de las verificaciones correspondientes, mediante un acto administrativo formal que hará las veces de certificación de pertenencia al grupo armado organizado al margen de la ley de que se trate.
 
 (Adicionado por el Art. 2 del Decreto 1753 de 2016)
-
-ARTÍCULO
 
 ## art:2.3.2.1.2.6 — Acceso al proceso de reintegración social, política y económica
 
@@ -8303,8 +7455,6 @@ La lista de qué trata el inciso 1 del artículo 2.3.2.1.2.4 habilita al desmovi
 SECCIÓN 3
 
 COMITÉ OPERATIVO PARA LA DEJACIÓN DE LAS ARMAS -CODA-
-
-ARTÍCULO
 
 ## art:2.3.2.1.3.1 — Comité Operativo para la Dejación de las Armas, CODA
 
@@ -8323,8 +7473,6 @@ Estará conformado por:
 6. Un delegado del Defensor del Pueblo.
 
 (Decreto 128 de 2003, art. 11)
-
-ARTÍCULO
 
 ## art:2.3.2.1.3.2 — Funciones del Comité Operativo para la Dejación de las Armas, CODA
 
@@ -8354,23 +7502,17 @@ SECCIÓN 4
 
 BENEFICIOS
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.1 — Beneficios en caso de desmovilización individual y voluntaria
 
 Los beneficios previstos en el presente decreto se aplicarán a los nacionales que, individualmente y por decisión voluntaria, abandonen sus actividades como miembros de los grupos armados organizados al margen de la ley, y hayan además demostrado, a criterio del Gobierno Nacional, su voluntad de reincorporarse a la vida civil. Los menores de edad, están excluidos de cualquier forma de colaboración o cooperación con la Fuerza Pública.
 
 (Decreto 2767 de 2004, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.2 — Beneficios de Documentación
 
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en armas realizará los trámites para entregar al desmovilizado la libreta militar y la cédula de ciudadanía y el certificado de antecedentes judiciales, para lo cual las entidades pertinentes dispondrán lo necesario para asumir los costos que la expedición de tales documentos demande.
 
 (Decreto 128 de 2003, art. 6)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.3 — Beneficio en salud
 
@@ -8382,15 +7524,11 @@ PARÁGRAFO . Las entidades competentes mantendrán cupos permanentes para la afi
 
 (Decreto 128 de 2003, art. 7)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.4 — Beneficios de protección y seguridad
 
 El Ministerio de Defensa Nacional o la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en armas, según corresponda, coordinarán con la Unidad Nacional de Protección y la Policía Nacional, las medidas necesarias para brindar seguridad tanto al desmovilizado o reincorporado como a su grupo familiar, en los casos en que esto último fuese necesario.
 
 (Decreto 128 de 2003, art. 8)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.5 — Beneficios por colaboración
 
@@ -8398,15 +7536,11 @@ El desmovilizado que voluntariamente desee hacer un aporte eficaz a la justicia 
 
 (Decreto 2767 de 2004, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.6 — Beneficios por entrega de material
 
 El desmovilizado o reincorporado que haga entrega de material de guerra, intendencia, comunicaciones o de cualquier otro elemento que facilite a los grupos armados al margen de la ley el desarrollo de actividades ilícitas, así como de sustancias o drogas estupefacientes y los insumos y la maquinaria para su elaboración, recibirá del Ministerio de Defensa Nacional, una vez haya sido certificado por el Comité Operativo para la Dejación de las Armas, CODA, una bonificación económica, conforme al procedimiento que expida este Ministerio.
 
 (Decreto 2767 de 2004, art. 3)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.7 — Bonificación Económica por Cooperación
 
@@ -8414,15 +7548,11 @@ Los desmovilizados o reincorporados que voluntariamente deseen desarrollar activ
 
 (Decreto 2767 de 2004, art. 4)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.8 — Beneficios jurídicos
 
 De conformidad con la ley, tendrán derecho al indulto, suspensión condicional de la ejecución de la pena, la cesación de procedimiento, la preclusión de la instrucción o la resolución inhibitoria, según el estado del proceso, los desmovilizados que hubieren formado parte de organizaciones armadas al margen de la ley, respecto de los cuales el Comité Operativo para la Dejación de las Armas, CODA, expida la certificación de que trata el numeral 4 del artículo 2.3.2.1.3.2 del presente Título.
 
 (Decreto 128 de 2003, art. 13)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.9 — Beneficio educativo
 
@@ -8432,23 +7562,17 @@ PARÁGRAFO . El Ministerio de Educación Nacional y el Instituto Colombiano para
 
 (Decreto 128 de 2003, art. 15)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.10 — Beneficios socioeconómicos
 
 Una vez expedida la certificación del Comité Operativo para la Dejación de las Armas, CODA, la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en armas realizará una valoración integral del reincorporado con el fin de determinar su programa de beneficios socioeconómicos.
 
 (Decreto 128 de 2003, art. 14)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.11 — Fijación de los beneficios socioeconómicos del proceso de reintegración
 
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en armas, fijará mediante resolución de carácter general los requisitos, características, condiciones y obligaciones necesarios para el acceso a los beneficios socioeconómicos reconocidos a la población desmovilizada, así como los montos de conformidad con los límites establecidos en este decreto.
 
 (Decreto 1391 de 2011, art. 2)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.12 — Apoyo económico a la reintegración
 
@@ -8464,8 +7588,6 @@ PARÁGRAFO 3. No será procedente el apoyo económico a la reintegración, para 
 
 (Decreto 1391 de 2011, art. 3)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.13 — Beneficio económico
 
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas, previa evaluación de factibilidad, podrá autorizar que el programa aporte de recursos para el desarrollo de proyectos de inserción económica para los reincorporados. Para tal efecto, esta entidad reglamentará y fijará las características, condiciones y montos de los aportes que se reconozcan. Este proyecto no podrá ser refinanciado en ningún caso.
@@ -8475,8 +7597,6 @@ Para quienes hayan optado por educación superior dentro de los programas adopta
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas podrá fijar como condición para la aprobación del beneficio económico, que el desmovilizado reciba capacitación en oficios semicalificados o educación técnica o tecnológica, con cargo al programa, en el área a la cual se dirige el proyecto, cuando el caso lo amerite.
 
 (Decreto 128 de 2003, art. 16)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.14 — Beneficio de inserción económica
 
@@ -8494,8 +7614,6 @@ PARÁGRAFO 4. A la persona en proceso de reintegración que culmine su ruta de r
 
 (Decreto 1391 de 2011, art. 4)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.15 — Estímulo económico a la empleabilidad
 
 El estímulo económico a la empleabilidad es un incentivo a la permanencia de la persona en proceso de reintegración en una actividad productiva, autogestionada o gestionada por la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas.
@@ -8509,8 +7627,6 @@ Para las personas desmovilizadas individualmente, de conformidad con el procedim
 PARÁGRAFO . En ningún caso el estímulo económico a la empleabilidad será desembolsado directamente a la persona en proceso de reintegración; este será consignado a los vendedores o proveedores, operadores, entidad financiera o la figura de administración de recursos que se determine para cada una de las opciones de vivienda descritas en el presente artículo, conforme a carta de instrucciones de desembolso suscrita por la persona en proceso de reintegración.
 
 (Decreto 1391 de 2011, art. 5)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.16 — Estímulo económico para planes de negocio o capital semilla
 
@@ -8528,8 +7644,6 @@ PARÁGRAFO 3. El desembolso del capital semilla de los planes de negocio que hay
 
 (Decreto 1391 de 2011, art. 6)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.17 — Póliza de seguro de vida
 
 De conformidad con el parágrafo 3 del artículo 50 de la Ley 418 de 1997, modificado por el artículo 11 de la Ley 1421 de 2010, la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en armas, adquirirá previa disponibilidad presupuestal, un seguro de vida para la persona en proceso de reintegración con una cobertura de quince (15) salarios mínimos legales mensuales vigentes, por el término de un (1) año contado a partir de la fecha en que la persona desmovilizada sea certificada por el Comité Operativo para la Dejación de las Armas - CODA, o la aceptación de la lista de desmovilizados de que trata el artículo 2.3.2.1.2.4 de este título.
@@ -8537,8 +7651,6 @@ De conformidad con el parágrafo 3 del artículo 50 de la Ley 418 de 1997, modif
 En el caso de la ocurrencia del siniestro, corresponderá a la familia del desmovilizado fallecido adelantar ante la compañía de seguros los trámites pertinentes para hacer efectiva la póliza.
 
 (Decreto 1391 de 2011, art. 7)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.18 — Apoyo económico para traslado por nivel de riesgo extraordinario
 
@@ -8548,15 +7660,11 @@ Se otorgará cuando la autoridad competente, acredite la existencia de un nivel 
 
 (Decreto 1391 de 2011, art. 8)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.19 — FOMIPYME
 
 Los beneficios económicos que reconozca la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas para estimular la reincorporación a la vida civil podrán ser utilizados para proyectos que permitan el acceso a los incentivos del Fondo Colombiano de Modernización y Desarrollo Tecnológico de las Micro, Pequeñas y Medianas Empresas, FOMIPYME, para programas, proyectos y actividades de desarrollo tecnológico y de fomento y promoción de las micro, pequeñas y medianas empresas, con lo cual se pueda proyectar una mayor viabilidad de éxito en el proyecto.
 
 (Decreto 128 de 2003, art. 17)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.20 — Servicios especiales
 
@@ -8564,15 +7672,11 @@ A los discapacitados reincorporados se les suministrará soportes mecánicos y t
 
 (Decreto 128 de 2003, art. 19)
 
-ARTÍCULO
-
 ## art:2.3.2.1.4.21 — Empleo
 
 El Servicio Nacional de Aprendizaje, SENA, en coordinación con la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas, creará una bolsa de empleo y contratación que vincule al mercado laboral a los reincorporados que se acojan al presente Título. Para este efecto, entrará en relación con los gremios económicos y las distintas empresas del sector productivo o de servicios de la economía.
 
 (Decreto 128 de 2003, art. 20)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.22 — Condiciones
 
@@ -8581,8 +7685,6 @@ Los beneficios socioeconómicos de que trata este Título están condicionados a
 No gozarán de ninguno de los beneficios señalados quienes estén siendo procesados o hayan sido condenados por delitos que de acuerdo con la Constitución Política, o la ley o los tratados internacionales suscritos y ratificados por Colombia no puedan recibir esta clase de beneficios.
 
 (Decreto 128 de 2003, art. 21; Modificado por el Decreto 395 de 2007, artículo 3)
-
-ARTÍCULO
 
 ## art:2.3.2.1.4.23 — Pérdida de beneficios
 
@@ -8600,8 +7702,6 @@ SECCIÓN 5
 
 PROTECCIÓN Y ATENCIÓN DE LOS MENORES DE EDAD DESVINCULADOS
 
-ARTÍCULO
-
 ## art:2.3.2.1.5.1 — Entrega de los menores
 
 Los menores de edad que se desvinculen de organizaciones armadas al margen de la ley de conformidad con las disposiciones legales vigentes, deberán ser entregados al Instituto Colombiano de Bienestar Familiar, ICBF, por la autoridad civil, militar o judicial que constate su desvinculación del grupo armado respectivo, a más tardar dentro de las treinta y seis (36) horas ordinarias siguientes a su desvinculación o en el término de la distancia, para que reciba la protección y atención integral especializada pertinente.
@@ -8616,15 +7716,11 @@ De conformidad con la Constitución Política, la ley y los tratados públicos i
 
 (Decreto 128 de 2003, art. 22)
 
-ARTÍCULO
-
 ## art:2.3.2.1.5.2 — Verificación de las condiciones
 
 El Juez de Menores o Promiscuo de Familia competente, según el caso, pedirá cuando lo estime conveniente, las explicaciones necesarias al Instituto Colombiano de Bienestar Familiar, ICBF, a efecto de verificar el estado, las condiciones del menor y la respuesta institucional para su protección integral, ratificando o modificando las medidas adoptadas y atendiendo siempre el interés superior del menor.
 
 (Decreto 128 de 2003, art. 23)
-
-ARTÍCULO
 
 ## art:2.3.2.1.5.3 — Competencia institucional
 
@@ -8633,8 +7729,6 @@ El Instituto Colombiano de Bienestar Familiar, ICBF, desarrollará los trámites
 En todas las medidas concernientes a los niños desvinculados del conflicto armado interno que tomen las autoridades administrativas o los jueces competentes, se atenderá primordialmente el interés superior del niño y se le dará un tratamiento personalizado, en la medida de lo posible.
 
 (Decreto 128 de 2003, art. 24)
-
-ARTÍCULO
 
 ## art:2.3.2.1.5.4 — Derecho a beneficios sociales y económicos
 
@@ -8648,8 +7742,6 @@ SECCIÓN 6
 
 DISPOSICIONES FINALES
 
-ARTÍCULO
-
 ## art:2.3.2.1.6.1 — Aplicación y condicionamiento
 
 Los beneficios, que en el marco de la reintegración, reciban las personas desmovilizadas, a partir del 24 de enero de 2003, de grupos armados organizados al margen de la ley en forma individual o colectiva, podrán concederse a cada persona, de acuerdo con los criterios que previamente determine la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas, y terminarán cuando culmine el proceso de reintegración social y económica, el cual se fijará a partir del progreso de cada persona.
@@ -8660,15 +7752,9 @@ PARÁGRAFO 2. Las personas desmovilizadas individual y colectivamente que no hub
 
 (Decreto 395 de 2007, art. 1)
 
-ARTÍCULO
-
-## art:28 — Campo de aplicación
-
-Los beneficios económicos a que se refiere el presente Título no cobijarán a los desmovilizados o beneficiarios por acuerdos de paz, ni a quienes ya los hayan recibido con anterioridad a la vigencia del mismo.
+28. Campo de aplicación. Los beneficios económicos a que se refiere el presente Título no cobijarán a los desmovilizados o beneficiarios por acuerdos de paz, ni a quienes ya los hayan recibido con anterioridad a la vigencia del mismo.
 
 (Decreto 128 de 2003, art. 28)
-
-ARTÍCULO
 
 ## art:2.3.2.1.6.3 — Recursos
 
@@ -8676,15 +7762,11 @@ El Ministerio de Hacienda y Crédito Público girará directamente a las entidad
 
 (Decreto 128 de 2003, art. 29)
 
-ARTÍCULO
-
 ## art:2.3.2.1.6.4 — Otros recursos
 
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas y el Instituto Colombiano de Bienestar Familiar, ICBF, convocarán la participación de entidades del sector privado o público de orden nacional o internacional con el fin de obtener cooperación para otorgar beneficios adicionales con miras a la reincorporación a la vida civil de quienes abandonan voluntariamente los grupos armados ilegales.
 
 (Decreto 128 de 2003, art. 30)
-
-ARTÍCULO
 
 ## art:2.3.2.1.6.5 — Difusión
 
@@ -8700,15 +7782,11 @@ SECCIÓN 1
 
 ACUERDO DE CONTRIBUCIÓN A LA VERDAD HISTÓRICA Y LA REPARACIÓN
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.1 — Objeto
 
 El presente Capítulo tiene por objeto crear y reglamentar el procedimiento para la suscripción del “Acuerdo de Contribución a la Verdad Histórica y la Reparación”, así como la verificación de requisitos para efectos de la solicitud y otorgamiento de los beneficios jurídicos de que trata la Ley 1424 de 2010.
 
 (Decreto 2601 de 2011, art. 1)
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.2 — Ámbito de aplicación
 
@@ -8716,15 +7794,11 @@ Los desmovilizados que como consecuencia de su pertenencia a grupos armados al m
 
 (Decreto 2601 de 2011, art. 2)
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.3 — Delegación
 
 Para efectos de lo dispuesto en el artículo 3 de la Ley 1424 de 2010, deléguese al director de la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas, la suscripción del “Acuerdo de Contribución a la Verdad Histórica y la Reparación”.
 
 (Decreto 2601 de 2011, art. 3)
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.4 — 1.4
 
@@ -8741,8 +7815,6 @@ La manifestación de la voluntad de compromiso con el proceso de reintegración 
 PARÁGRAFO . El desmovilizado debidamente certificado de conformidad con la ley, que se encuentre privado de la libertad por delitos cometidos con anterioridad a la desmovilización, podrá acceder al formato de que trata el presente artículo a través de las oficinas asesoras jurídicas de los respectivos establecimientos de reclusión.
 
 (Decreto 2601 de 2011, art. 4)
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.5 — Verificación previa de requisitos
 
@@ -8762,15 +7834,11 @@ PARÁGRAFO 3. Para el desmovilizado que se encuentre privado de la libertad por 
 
 (Decreto 2601 de 2011, art. 5)
 
-ARTÍCULO
-
 ## art:2.3.2.2.1.6 — Anexo del Acuerdo de Contribución a la Verdad Histórica y la Reparación
 
 Para la firma del “Acuerdo de Contribución a la Verdad Histórica y la Reparación”, la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas distribuirá un aplicativo a través del cual el desmovilizado deberá aportar la siguiente información: nombre completo y alias; número de cédula; nombre del bloque o bloques a los que perteneció de manera secuencial; fecha y motivación del reclutamiento o la vinculación al grupo armado; lugar donde operó y zona de influencia; tipo de actividad o actividades que realizó; y fecha de desmovilización como miembro del grupo. Esta información constituirá el Anexo del Acuerdo de Contribución a la Verdad Histórica y la Reparación y hará parte integral del mismo.
 
 (Decreto 2601 de 2011, art. 6)
-
-ARTÍCULO
 
 ## art:2.3.2.2.1.7 — Trámite y perfeccionamiento del Acuerdo de Contribución a la Verdad Histórica y la Reparación
 
@@ -8785,8 +7853,6 @@ PARÁGRAFO . El Anexo del Acuerdo de Contribución a la Verdad Histórica y la R
 SECCIÓN 2
 
 BENEFICIOS JURÍDICOS
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.1 — Procedimiento para la solicitud de la medida especial respecto de la libertad
 
@@ -8805,8 +7871,6 @@ La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Arm
 PARÁGRAFO . Para el desmovilizado que se encuentre privado de la libertad por delitos cometidos con anterioridad a la desmovilización, la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas verificará el cumplimiento del requisito contemplado en el numeral 3 del presente artículo hasta el momento de la captura, según la etapa en que se encontrara en el proceso de reintegración.
 
 (Decreto 2601 de 2011, art. 8)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.2 — Procedimiento para la solicitud de la suspensión condicional de la ejecución de la pena
 
@@ -8834,8 +7898,6 @@ PARÁGRAFO 2. Para efectos del tratamiento penal especial dispuesto en la Ley 14
 
 (Decreto 2601 de 2011, art. 9; Adicionado por el Decreto 2637 de 2014, art. 1)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.3 — Verificación del requisito de reparación
 
 Cuando el desmovilizado demuestre que está en imposibilidad económica de indemnizar los daños ocasionados con los delitos por los cuales haya sido condenado en el marco de la Ley 1424 de 2010, las autoridades judiciales ordenarán a las autoridades administrativas correspondientes la evaluación del registro de las víctimas que se acrediten como partes o intervinientes dentro del proceso en el Registro Único de Víctimas de conformidad con los artículos 155 y 156 de la Ley 1448 de 2011.
@@ -8852,15 +7914,11 @@ PARÁGRAFO 3. Los beneficios económicos que el desmovilizado haya recibido en e
 
 (Decreto 2601 de 2011, art. 10)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.4 — Monitoreo al cumplimiento de los requisitos respecto de la libertad
 
 La Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas monitoreará el cumplimiento por parte de los desmovilizados de los requisitos establecidos en los artículos 6, 7 y 8 de la Ley 1424 de 2010 con posterioridad a la concesión del beneficio respectivo.
 
 (Decreto 2601 de 2011, art. 11)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.5 — Revocatoria de los beneficios contemplados en el artículo 2.3.2.2.2.1 del presente Título
 
@@ -8877,8 +7935,6 @@ Cuando el desmovilizado haya sido beneficiario de la decisión judicial de suspe
 PARÁGRAFO . Para efectos de la solicitud de revocatoria ante la autoridad judicial, el Centro de Memoria Histórica certificará ante la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas la circunstancia de que trata el numeral 4 del presente artículo.
 
 (Decreto 2601 de 2011, art. 12)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.6 — Revocatoria de la suspensión de la ejecución de la pena
 
@@ -8902,15 +7958,11 @@ PARÁGRAFO . Para efectos de la solicitud de revocatoria ante la autoridad judic
 
 (Decreto 2601 de 2011, art. 13)
 
-ARTÍCULO
-
 ## art:2.3.2.2.2.7 — Revocatoria de oficio
 
 En cualquier caso, la autoridad judicial podrá, de oficio, revocar los beneficios concedidos, de hallar probado que el desmovilizado incumplió cualquiera de los requisitos exigidos en los artículos 6 y 7 de la Ley 1424 de 2010.
 
 (Decreto 2601 de 2011, art. 14)
-
-ARTÍCULO
 
 ## art:2.3.2.2.2.8 — Suspensión de los beneficios
 
@@ -8928,15 +7980,11 @@ SECCIÓN 3
 
 OTRAS DISPOSICIONES
 
-ARTÍCULO
-
 ## art:2.3.2.2.3.1 — Deber de información sobre la resolución de situación jurídica y las condenas
 
 Las autoridades judiciales que resuelvan la concesión de los beneficios contemplados en los artículos 6 y 7 de la Ley 1424 de 2010, comunicarán a la Agencia Colombiana para la Reintegración de Personas y Grupos Alzados en Armas, el contenido de las respectivas providencias en un término razonable.
 
 (Decreto 2601 de 2011, art. 16)
-
-ARTÍCULO
 
 ## art:2.3.2.2.3.2 — Trámite prioritario de solicitudes
 
@@ -8949,8 +7997,6 @@ CAPÍTULO 3.
 (Capítulo Adicionado por el Art. 1 del Decreto 2199 de 2017)
 
 INGRESO AL PROCESO DE REINTEGRACION DE LAS PERSONAS DESMOVILIZADAS POSTULADAS A LA LEY 975 DE 2005 QUE OBTENGAN LA LIBERTAD EN EL MARCO DE LAS MEDIDAS ESTABLECIDAS EN LA LEY 1820 DE 2016"
-
-ARTÍCULO
 
 ## art:2.3.2.3.1 — Ingreso al proceso de reintegración
 
@@ -8968,13 +8014,9 @@ CAPÍTULO 4
 
 BENEFICIOS DE LA REINCORPORACIÓN DE LAS FARC-EP A LA VIDA CIVIL EN LO ECONÓMICO Y LO SOCIAL
 
-ARTÍCULO
-
 ## art:2.3.2.4.1 — Beneficios de la reincorporación de las FARC-EP a la vida civil en lo económico y lo social
 
 La Agencia para la Reincorporación y la Normalización (ARN), atendiendo las recomendaciones del Consejo Nacional de Reincorporación (CNR), mediante acto administrativo señalará las características y condiciones necesarias para el acceso a los beneficios económicos establecidos en el Decreto Ley 899 de 2017, de conformidad con los límites allí señalados y lo dispuesto en el presente capítulo.
-
-ARTÍCULO
 
 ## art:2.3.2.4.2 — Condiciones
 
@@ -10025,8 +9067,6 @@ PARTE 4.
 
 DISPOSICIONES ESPECÍFICAS ALUSIVAS A LA AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS
 
-ARTÍCULO
-
 ## art:2.4.1 — 
 
 2.4.1 Objeto: La Parte 4 de Libro 2 del presente Decreto compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política que regulan, en lo pertinente, la actividad de la Agencia Nacional Inmobiliaria Virgilio Barco Vargas.
@@ -10041,15 +9081,11 @@ CAPÍTULO 1
 
 PROYECTO DE DESARROLLO Y RENOVACIÓN URBANA DEL CENTRO ADMINISTRATIVO NACIONAL (CAN)
 
-ARTÍCULO
-
 ## art:2.4.1.1.1 — Objeto
 
 El presente capítulo tiene como objeto establecer el alcance y los grados de intervención en el área del proyecto de desarrollo y renovación urbana del Centro Administrativo Nacional (CAN), con observancia de las competencias de Bogotá, D. C.
 
 (Decreto 488 de 2013, art. 1)
-
-ARTÍCULO
 
 ## art:2.4.1.1.2 — Alcance y grados de intervención
 
@@ -10065,23 +9101,17 @@ CAPÍTULO 2
 
 VINCULACIÓN GESTIÓN Y EJECUCIÓN DE LOS PROYECTOS A CARGO DE LA EVB S.A.S.
 
-ARTÍCULO
-
 ## art:2.4.1.2.1 — Objeto
 
 El presente capítulo tiene como objeto reglamentar los mecanismos de participación de las entidades públicas en la gestión y ejecución de los proyectos a cargo de la Agencia Nacional Inmobiliaria Virgilio Barco Vargas.
 
 (Decreto 727 de 2013, art. 1; Decreto 1275 de 2015, art. 3)
 
-ARTÍCULO
-
 ## art:2.4.1.2.2 — Alcance
 
 Las entidades públicas están facultadas, para aportar recursos y bienes para adquirir derechos de participación patrimonial en proyectos que adelante la Agencia Nacional Inmobiliaria Virgilio Barco Vargas.
 
 (Decreto 727 de 2013, art. 2; Decreto 1275 de 2015, art. 4)
-
-ARTÍCULO
 
 ## art:2.4.1.2.3 — Mecanismos de participación en los proyectos
 
@@ -10099,8 +9129,6 @@ PARÁGRAFO 2. La Agencia Nacional Inmobiliaria Virgilio Barco Vargas determinar�
 
 (Decreto 727 de 2013, art. 3; Decreto 1275 de 2015, art. 5)
 
-ARTÍCULO
-
 ## art:2.4.1.2.4 — Control y seguimiento
 
 El Departamento Nacional de Planeación exigirá a los órganos y entidades del orden Nacional, para la aprobación y registro de los proyectos de inversión en el Banco de Proyectos, el concepto previo favorable de la Agencia Nacional Inmobiliaria Virgilio Barco Vargas, cuando se trate de proyectos situados en la ciudad de Bogotá, relacionados con la adquisición de terrenos o la construcción o adquisición de edificaciones para sedes administrativas.
@@ -10110,8 +9138,6 @@ El Departamento Nacional de Planeación exigirá a los órganos y entidades del 
 CAPÍTULO 3
 
 RÉGIMEN DE TRANSICIÓN DE LA AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS
-
-ARTÍCULO
 
 ## art:2.4.1.3.1 — Transición
 
@@ -10129,13 +9155,9 @@ TITULO 1
 
 RECEPCIÓN, ADMINISTRACIÓN, MECANISMOS Y TÉRMINOS PARA PERMITIR LA TRANSFERENCIA DE LOS BIENES AL PATRIMONIO AUTONOMO DE ACUERDO CON LO ESTABLECIDO EN EL DECRETO LEY 903 DE 2017 Y EL DECRETO 1407 DE 2017
 
-ARTÍCULO
-
 ## art:2.5.1.1 — Objeto
 
 El presente Decreto tiene como objeto reglamentar en conjunto con el Decreto 1407 de 2017 los mecanismos de administración que permitan a la Sociedad de Activos Especiales (SAE) S.A.S. la gestión de los bienes incluidos en el inventario previsto en el Decreto Ley 903 de 2017, que hayan sido entregados voluntariamente y sin oposición y sobre los cuales no pesen limitaciones al derecho de dominio ni gravámenes.
-
-ARTÍCULO
 
 ## art:2.5.1.2 — Transferencia de los bienes monetizados y no monetizados al patrimonio autónomo
 
@@ -10143,13 +9165,9 @@ Una vez se cree el Patrimonio Autónomo de que trata el Decreto Ley 903 de 2017,
 
 Aquellos bienes que no sean entregados voluntariamente por sus propietarios y/o poseedores y/o tenedores y/u ocupantes, o sobre los cuales pesen limitaciones al derecho de dominio o gravámenes, o frente a los cuales se presenten oposiciones, se sujetarán para su transferencia al patrimonio autónomo al procedimiento que establezca la ley.
 
-ARTÍCULO
-
 ## art:2.5.1.3 — Presupuesto de administración
 
 Para el cumplimiento de las funciones asignadas a la (SAE) S.A.S. en virtud del Decreto Ley 903 y sus decretos reglamentarios, la (SAE) S.A.S. podrá sufragar todos los gastos necesarios para la recepción, administración, saneamiento y alistamiento, sostenimiento y disposición de los bienes inventariados por las FARC EP, incluyendo los gastos necesarios para la constitución y funcionamiento del Patrimonio Autónomo de que trata el artículo 3 del Decreto Ley 903 de 2017 con cargo a los recursos del FRISCO, para lo cual SAE, previa aprobación del Consejo nacional de Estupefacientes deberá modificar su presupuesto.
-
-ARTÍCULO
 
 ## art:2.5.1.4 — Exclusión del Patrimonio Autónomo
 
@@ -10169,8 +9187,6 @@ PARÁGRAFO 3. Los bienes excluidos de que trata este artículo, aunque no ingres
 
 PARÁGRAFO 4. En el caso de que alguno de los bienes incluidos en el inventario esté vinculado a un proceso judicial de extinción de dominio, de Justicia y Paz, o de restitución de tierras, y haya sido entregado voluntariamente y sin oposiciones, no será susceptible de ingresar al patrimonio autónomo hasta que la ley disponga el procedimiento pertinente y disponga sobre la operación del fuero de atracción. Sin embargo, la SAE S.A.S. lo recibirá y registrará en el sistema de control adoptado con la anotación pertinente, manteniendo la potestad de administrarlo sin enajenarlo. En cualquier caso, la SAE S.A.S., como administrador, informará inmediatamente del hecho al juez competente, para que adopte en el marco de sus competencias las medidas pertinentes a la recepción del bien, o a la adopción de una medida cautelar, si fuere el caso. La SAE S.A.S. hará entrega del bien a dicho juez junto con sus frutos y previo descuento de los gastos de administración, mientras la ley dispone sobre la operación del fuero de atracción.
 
-ARTÍCULO
-
 ## art:2.5.1.5 — Mecanismos de administración
 
 La SAE S.AS. administrará los bienes de acuerdo con los distintos mecanismos establecidos en la Metodología de Administración de los Bienes del FRISCO con el fin de procurar que los bienes sean o continúen siendo productivos y evitar que su conservación y custodia genere erogaciones para el presupuesto público. Dentro de los mecanismos, la SAE S.A.S. podrá celebrar cualquier acto y/o contrato que permita una eficiente administración de los bienes y recursos.
@@ -10179,19 +9195,13 @@ PARÁGRAFO 1. La Metodología de Administración es el conjunto de procedimiento
 
 PARÁGRAFO 2. En la Metodología de Administración se podrá adicionar un capítulo de administración especial relativo a los bienes a los cuales este Decreto hace referencia o se efectuarán los ajustes e inclusiones a los procedimientos existentes,
 
-ARTÍCULO
-
 ## art:2.5.1.6 — Medida de administración
 
 Para los bienes inventariados sujetos a registro, la SAE S.A.S, expedirá acto administrativo mediante el cual asume la administración de los mismos, el cual deberá ser inscrito ante las autoridades de registro competentes. La inscripción del acto administrativo tiene como finalidad darle publicidad a la vinculación del bien en el inventario de las FARC-EP.
 
-ARTÍCULO
-
 ## art:2.5.1.7 — Enajenación de bienes
 
 La SAE S.A.S. podrá enajenar los bienes de que trata este decreto. La enajenación se realizará mediante los mecanismos de comercialización dispuestos para los bienes del FRISCO en el Decreto 2136 de 2015 y en las hipótesis y bajo las condiciones del Decreto 1407 de 2017, en lo aplicable.
-
-ARTÍCULO
 
 ## art:2.5.1.8 — Transferencia de dominio al Patrimonio Autónomo
 
@@ -10209,8 +9219,6 @@ PARÁGRAFO 2. Cuando no haya entrega voluntaria del bien o se presenten oposicio
 
 En estos eventos, la SAE S.A.S. efectuará la anotación correspondiente en el sistema de control adoptado, con el fin de garantizar la administración y seguimiento hasta tanto se defina su situación por la autoridad competente.
 
-ARTÍCULO
-
 ## art:2.5.1.9 — Gestiones necesarias de la Superintendencia de Notariado y Registro y las Oficinas de Registro de Instrumentos Públicos
 
 La Superintendencia de Notariado y Registro deberá:
@@ -10221,8 +9229,6 @@ La Superintendencia de Notariado y Registro deberá:
 
 3. Adoptar todas las demás medidas que estime necesarias, observando prioritariamente las que solicite la SAE S.A.S.
 
-ARTÍCULO
-
 ## art:2.5.1.10 — Divisas, oro, plata, platino, joyas y piedras preciosas
 
 La SAE S.AS, en su condición de administrador de divisas, podrá enajenarlas a los intermediarios del mercado cambiario o entregarlas al Banco de la República para su depósito en custodia o enajenación. La SAE S.AS., en su condición de administrador de oro, plata, platino, joyas y piedras preciosas podrá constituir depósitos en custodia en el Banco de la República de estos activos.
@@ -10231,13 +9237,9 @@ A estos efectos la SAE S.AS. suscribirá con el Banco de la República convenio 
 
 (Decreto 1787 de 2017, art. 2)
 
-ARTÍCULO
-
 ## art:2.5.1.11 — Delegación
 
 Autorícese al Departamento Administrativo de Presidencia de la República para que delegue las funciones asignadas en el artículo 3 del Decreto Ley 903 de 2017.
-
-ARTÍCULO
 
 ## art:2.5.1.12 — Vigencia y derogatorias
 
@@ -10253,37 +9255,25 @@ CAPÍTULO I
 
 DEFINICIONES
 
-ARTÍCULO
-
 ## art:2.6.1.1.1 — Planes Especiales de Intervención Integral (PEII)
 
 Los Planes Especiales de Intervención Integral son instrumentos de acción unificada, interagencial, coordinada, sostenida e integral del Estado.
-
-ARTÍCULO
 
 ## art:2.6.1.1.2 — Acción Unificada
 
 Es la acción de las entidades y organismos estatales bajo una sola estrategia, definida en cada PEII.
 
-ARTÍCULO
-
 ## art:2.6.1.1.3 — Acción Coordinada
 
 Es la unidad de esfuerzo de las instituciones públicas, el sector privado, - la cooperación internacional, las autoridades regionales y locales y las comunidades para la realización de los objetivos de cada PEII.
-
-ARTÍCULO
 
 ## art:2.6.1.1.4 — Acción lnteragencial
 
 Es la articulación y cooperación de todas las instituciones públicas en el ámbito de sus competencias, para asegurar el cumplimiento de los objetivos de cada PEII.
 
-ARTÍCULO
-
 ## art:2.6.1.1.5 — Acción Sostenida
 
 Es la gestión permanente de las instituciones públicas en el territorio para el cumplimiento de los objetivos de cada PEII.
-
-ARTÍCULO
 
 ## art:2.6.1.1.6 — Acción Integral
 
@@ -10292,8 +9282,6 @@ Es la intervención en el ámbito económico, social, cultural, ambiental, y en 
 CAPÍTULO II
 
 DE LAS ZONAS ESTRATEGICAS DE INTERVENCIÓN INTEGRAL
-
-ARTÍCULO
 
 ## art:2.6.1.2.1 — Declaración de las Zonas Estratégicas de Intervención Integral (ZEII)
 
@@ -10319,8 +9307,6 @@ El Consejo de Seguridad Nacional podrá declarar Zonas Estratégicas de Interven
 
 Una Zona Estratégica de Intervención Integral se activará con la aprobación del respectivo Plan Especial de Intervención Integral (PEll), por parte del Consejo de Seguridad Nacion.
 
-ARTÍCULO
-
 ## art:2.6.1.2.2 — Integración de los Planes Especiales de Intervención Integral
 
 Cada PEII estará integrado por:
@@ -10334,8 +9320,6 @@ Cada PEII estará integrado por:
 En caso de que se identifique la necesidad de una intervención no contemplada en el PDET, ésta hará parte del respectivo PEII pero no podrá financiarse con cargo a los recursos destinados para la financiación del PDET.
 
 En los casos de impacto directo en comunidades étnicas y de conformidad con la jurisprudencia de la Corte Constitucional, se llevará a cabo la consulta previa que se requiera para la ejecución de los componentes de los planes que correspondan.
-
-ARTÍCULO
 
 ## art:2.6.1.2.3 — Planes de Respuesta Inmediata
 
@@ -10359,13 +9343,9 @@ PARÁGRAFO . En todo caso, se garantizarán los principios de coordinación, con
 
 (Modificado por el Art. 1 del Decreto 762 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.2.4 — Financiación de la prestación de servicios sociales
 
 El Fondo de Programas Especiales para la Paz podrá, de manera excepcional y transitoria, financiar la prestación de servicios sociales de salud o educación de manera directa mientras los municipios o entidades del orden nacional destinan los recursos para garantizar su prestación o están en capacidad de hacerlo.
-
-ARTÍCULO
 
 ## art:2.6.1.2.5 — Elaboración de los Planes Especiales de Intervención Integral (PEII)
 
@@ -10383,8 +9363,6 @@ Lo anterior sin perjuicio del cumplimiento del programa de reparación administr
 
 A nivel departamental y municipal, las gobernaciones, alcaldías y las autoridades étnicas, en el marco de su autonomía, contribuirán a la materialización de los PEll.
 
-ARTÍCULO
-
 ## art:2.6.1.2.6 — Seguimiento a la implementación de los PEII
 
 El seguimiento a la implementación de los Planes Especiales de Intervención Integral, PEII, estará a cargo del delegado presidencial ante el Comité Territorial ZEII.
@@ -10398,8 +9376,6 @@ La Consejería Presidencial para la Seguridad Nacional, en el componente de segu
 CAPÍTULO III
 
 ARTICULACIÓN INSTITUCIONAL PARA LAS ZONAS ESTRATÉGICAS DE INTERVENCIÓN INTEGRAL (ZEII)
-
-ARTÍCULO
 
 ## art:2.6.1.3.1 — Comité Estratégico ZEII
 
@@ -10461,8 +9437,6 @@ PARÁGRAFO 2. La Consejería Presidencial para la Seguridad Nacional o quien hag
 
 (Parágrafo 2, modificado por el Art. 3 del Decreto 762 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.3.2 — Funciones del Comité Estratégico de las ZEII
 
 Son funciones del Comité Estratégico de las ZEII:
@@ -10484,8 +9458,6 @@ PARÁGRAFO 1. La Secretaría Técnica elaborará y presentará un informe ejecut
 PARÁGRAFO 2. El Comité Estratégico de las ZEII sesionará de manera extraordinaria las veces que sea necesario por citación de la Secretaría Técnica.
 
 PARÁGRAFO 3. La participación de los miembros del Comité Estratégico de las ZEII es indelegable.
-
-ARTÍCULO
 
 ## art:2.6.1.3.3 — Comité Ejecutivo ZEII
 
@@ -10513,8 +9485,6 @@ PARÁGRAFO 2. El Comité Ejecutivo de las ZEII contará con una Secretaría Téc
 
 (Modificado por el Art. 2 del Decreto 2242 de 2022)
 
-ARTÍCULO
-
 ## art:2.6.1.3.4 — Funciones del Comité Ejecutivo de las ZEII
 
 Son funciones del Comité Ejecutivo de las ZEII:
@@ -10534,8 +9504,6 @@ Son funciones del Comité Ejecutivo de las ZEII:
 7. Las demás inherentes al cumplimiento de sus funciones.
 
 PARÁGRAFO . Para efecto del cumplimiento de las funciones descritas, por conducto de la Secretaría Técnica se podrá requerir a las entidades que participan en la ejecución de los PEII, los informes oficiales de cumplimiento pertinentes, que deberán ser entregados dentro de los cinco (5) días hábiles siguientes a su solicitud.
-
-ARTÍCULO
 
 ## art:2.6.1.3.5 — Comité Territorial de las ZEII
 
@@ -10565,8 +9533,6 @@ PARÁGRAFO 2. Cada Comité Territorial de las ZEII contará con una Secretaría 
 
 (Modificado por el Art. 5 del Decreto 762 de 2021)
 
-ARTÍCULO
-
 ## art:2.6.1.3.6 — Funciones del Comité Territorial de las ZEII
 
 Son funciones de cada Comité Territorial de las ZEII:
@@ -10593,21 +9559,15 @@ CAPÍTULO IV
 
 DISPOSICIONES VARIAS
 
-ARTÍCULO
-
 ## art:2.6.1.4.1 — Priorización de los Planes Especiales de Intervención Integral
 
 En el marco de las obligaciones de fortalecimiento del Estado social de derecho, la prioridad en la prestación de los servicios sociales y de medidas reforzadas de protección a la población en las Zonas Estratégicas de Intervención Integral (ZEII), el Gobierno nacional focalizará la gestión de sus planes y la ejecución de sus recursos de manera prioritaria y prevalente, en los territorios declarados como ZEII, para dar cumplimiento a los objetivos de los Planes Especiales de Intervención integral.
 
 En todo caso, los recursos que se destinen a la financiación de las ZEII, no podrán comprometer los recursos definidos por el Plan Marco de Implementación para los PDET.
 
-ARTÍCULO
-
 ## art:2.6.1.4.2 — Herramientas para la Planeación y la Articulación
 
 Para cada vigencia fiscal, durante el primer mes del año, las entidades del nivel nacional informarán al Departamento Administrativo para la Prosperidad Social y a la Consejería Presidencial para la Seguridad Nacional, los componentes de la intervención y los recursos destinados al cumplimiento de los Planes Especiales de Intervención Integral. De igual manera, deberán informar qué otras intervenciones llevarán a cabo durante el año en las zonas ZEII.
-
-ARTÍCULO
 
 ## art:2.6.1.4.3 — Articulación con la Cooperación Internacional
 
@@ -10617,27 +9577,19 @@ El Ministerio de Relaciones Exteriores, con el acompañamiento de la Agencia par
 
 2. Señalará las prioridades de cooperación internacional en el marco de la ejecución de los PEII.
 
-ARTÍCULO
-
 ## art:2.6.1.4.5 — Priorización de proyectos en las Zonas Estratégicas de Intervención Integral
 
 Teniendo en cuenta que las zonas ZEII son prioridad para la prestación de servicios sociales, los proyectos que hagan parte de los PEII, una vez presentados por los municipios a las entidades del Gobierno nacional, deberán ser objeto de evaluación, aprobación y ejecución inmediata. Dichos proyectos sólo requerirán el cumplimiento de los requisitos exigidos para su aprobación, y en ningún caso deberán someterse a concurso con proyectos de los demás municipios del país.
 
 La prioridad para la prestación de los servicios sociales en las zonas ZEII, obliga a las entidades del orden nacional a dar prelación a la inversión y ejecución de los proyectos que hagan parte de los PEII.
 
-ARTÍCULO
-
 ## art:2.6.1.4.6 — Priorización de inversión del Fondo Nacional de Seguridad y Convivencia Ciudadana
 
 El Fondo Nacional de Seguridad y Convivencia Ciudadana, (FONSECON) priorizará la inversión de sus recursos en las Zonas Estratégicas de Intervención Integral.
 
-ARTÍCULO
-
 ## art:2.6.1.4.7 — Articulación con el Sector Privado
 
 La Consejería Presidencial para la Competitividad y la Gestión Pública - Privada será la responsable de la coordinación con el sector privado para el cumplimiento de los PEII.
-
-ARTÍCULO
 
 ## art:2.6.1.4.8 — Asignación de bienes
 
@@ -10657,15 +9609,11 @@ CAPÍTULO 1
 
 DISPOSICIONES GENERALES
 
-ARTÍCULO
-
 ## art:2.7.1.1.1 — Creación
 
 Créase el Observatorio Nacional de Inclusión Social y Productiva para Personas con Discapacidad.
 
 (Adicionado por el Art. 1 del Decreto 1263 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.1.1.2 — Objeto
 
@@ -10673,15 +9621,11 @@ El Observatorio Nacional de Inclusión Social y Productiva para Personas con Dis
 
 (Adicionado por el Art. 1 del Decreto 1263 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.1.1.3 — Administración y funcionamiento
 
 El Observatorio Nacional de Inclusión Social y Productiva para Personas con Discapacidad será administrado por la Consejería Presidencial para la Participación de las Personas con Discapacidad, o por la entidad que haga sus veces como ente rector del Sistema Nacional de Discapacidad, atendiendo a lo dispuesto por el artículo 155 de la Ley 1955 de 2019 y el Decreto 1170 de 2015.
 
 (Adicionado por el Art. 1 del Decreto 1263 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.1.1.4 — Funciones del Observatorio Nacional de Inclusión Social y Productiva para Personas con Discapacidad
 
@@ -10707,8 +9651,6 @@ Son funciones del Observatorio Nacional de Inclusión Social y Productiva para P
 
 (Adicionado por el Art. 1 del Decreto 1263 de 2021)
 
-ARTÍCULO
-
 ## art:2.7.1.1.5 — 1.5
 
 Suministro de información por parte de las entidades públicas para el Observatorio Nacional de Inclusión Social y Productiva para Personas con Discapacidad. El Observatorio Nacional de Inclusión Social y Productiva para Personas con Discapacidad se estructurará inicialmente con los siguientes registros: Sisbén, Registro de Localización y Caracterización de las Personas con Discapacidad (RLCPD), bases de beneficiarios del Programa Familias en Acción y de Jóvenes en Acción del Departamento Administrativo para la Prosperidad Social-DPS, el Sistema Integrado de Matrículas (SIMAT) y la información de los buscadores(as) de empleo que ingresaron a la ruta de empleabilidad a través de la red de prestadores del Servicio Público de Empleo.
@@ -10726,8 +9668,6 @@ Las condiciones de intercambio a nivel tecnológico deberán ceñirse al marco p
 PARÁGRAFO 3. Protección de datos personales: Toda información que repose en el Observatorio Nacional de Inclusión Social y Productiva para Personas con Discapacidad, suministrada por las entidades públicas cumplirá con los principios de protección de datos en caso de que recopile, reciba, utilice, transfiera o almacene cualquier dato personal, de acuerdo con la Ley 1581 del año 2012, y demás normas que la complementen.
 
 (Adicionado por el Art. 1 del Decreto 1263 de 2021)
-
-ARTÍCULO
 
 ## art:2.7.1.1.6 — Acceso a la información
 
@@ -11139,8 +10079,6 @@ PARTE 1
 
 DEROGATORIA Y VIGENCIA
 
-ARTÍCULO
-
 ## art:3.1.1 — Derogatoria Integral
 
 Este decreto regula íntegramente las materias contempladas en él. Por consiguiente, de conformidad con el artículo 3 de la Ley 153 de 1887, quedan derogadas todas las disposiciones de naturaleza reglamentaria relativas al sector Presidencia de la República que versan sobre las mismas materias, con excepción, exclusivamente, de los siguientes asuntos:
@@ -11152,8 +10090,6 @@ Este decreto regula íntegramente las materias contempladas en él. Por consigui
 3) Igualmente, quedan excluidas de esta derogatoria las normas de naturaleza reglamentaria de este sector administrativo que, a la fecha de expedición del presente decreto, se encuentren suspendidas por la Jurisdicción Contencioso Administrativa, las cuales serán compiladas en este decreto, en caso de recuperar su eficacia jurídica.
 
 Los actos administrativos expedidos con fundamento en las disposiciones compiladas en el presente decreto mantendrán su vigencia y ejecutoriedad bajo el entendido de que sus fundamentos jurídicos permanecen en el presente decreto compilatorio.
-
-ARTÍCULO
 
 ## art:3.1.2 — Vigencia
 
@@ -11170,91 +10106,3 @@ EL PRESIDENTE DE LA REPÚBLICA
 EL DIRECTOR DEL DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA,
 
 NÉSTOR HUMBERTO MARTÍNEZ NEIRA
-
- Volver Atrás
-
- Presidencia -->
- Vicepresidencia
- MinJusticia
- MinDefensa
- MinTrabajo
- MinInterior
- MinCiencias
-
- MinRelaciones
- MinHacienda
- MinSalud
- MinEnergía
- MinComercio
- MinDeporte
-
- MinTIC
- MinEducacion
- MinCultura
- MinAgricultura
- MinAmbiente
-
- MinTransporte
- MinVivienda
- Urna de Cristal
-
- entidad del sector
-
- función publica
-
- Carrera 6 # 12-62,
-
- Bogotá D.C.
-
- Código Postal: 111711
-
- Teléfono Conmutador:: (+57) 601 5956600 
-
- Línea gratuita nacional: 018000931186 
-
- www.funcionpublica.gov.co 
-
- Correo de Contacto: eva@funcionpublica.gov.co
-
- Notificaciones judiciales:
-
- notificacionesjudiciales@funcionpublica.gov.co 
-
- contacto
-
- Horario de atención presencial grupo de Servicio al ciudadano:
-
- Lunes a Viernes, 7:30 a.m a 6:00 p.m
-
- Recepción de correspondencia:
-
- Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua
-
- Línea gratuita nacional: 018000917770
--->
-
- servicios al ciudadano
-
- Notificaciones judiciales
-
- Notificación de actos administrativos
-
- Notificaciones a terceros
-
- Denuncias por actos de corrupción
-
- Participación ciudadana
-
- Preguntas frecuentes
-
- Formule su petición PQRS
-
- Mapa del sitio
-
- Ingreso correo institucional
-
- Estadísticas del sitio
-
- Acceder
-
- Política de Privacidad | Términos y condiciones de uso

@@ -10,9 +10,32 @@ RAIZ = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(RAIZ, "index.db")
 
 # Relaciones que matan / afectan la vigencia (esquema.md §6)
-MATA = ("deroga", "deroga_tacitamente", "subroga", "declara_inexequible")
+# `subroga` reemplaza el texto: el artículo sigue existiendo con otro contenido.
+# `declara_inexequible` mata solo con evidencia de que fue total (ver vista vigencia).
+MATA = ("deroga", "deroga_tacitamente")
 CONDICIONA = ("declara_exequible_condicionado", "declara_inexequible_parcial")
-REFORMA = ("modifica", "adiciona")
+REFORMA = ("modifica", "adiciona", "subroga")
+PARCIAL = "INEXEQUIBLE EN PARTE — alcance no registrado; verificar en la sentencia qué apartes cayeron"
+
+# Nota de vigencia que la fuente (Senado/SUIN) pone al inicio del propio texto:
+# «<Artículo derogado por…>», «<Artículo INEXEQUIBLE>». Si no está al inicio (p. ej.
+# «PARÁGRAFO. <Artículo INEXEQUIBLE>») o es parcial («salvo…», «en lo referente…»), no cuenta.
+RE_MARCA = re.compile(r"<Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)[^>]{0,300}>?", re.I)
+RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto", re.I)
+RE_EMBEBIDO = re.compile(r"A?RT[ÍI]CULO \d")  # artículo siguiente pegado por el parser
+# Tipos que comparten numeración: un destino con uno se resuelve al doc cargado con el otro.
+ALIAS = {"ley": "ley-estatutaria", "ley-estatutaria": "ley",
+         "decreto": "decreto-ley", "decreto-ley": "decreto"}
+# Fecha de efecto: vacía o mal formada cuenta como ya surtida (no como futura).
+EF = "(r.fecha <= date('now') OR r.fecha NOT GLOB '[0-9][0-9][0-9][0-9]-*')"
+TOTAL = "(lower(COALESCE(r.nota,'')) LIKE '%total%' OR COALESCE(f.marca,'') LIKE '%inexequible%')"
+
+
+def marca(texto):
+    """Marcador de muerte total al inicio del texto del artículo, o None."""
+    e = RE_EMBEBIDO.search(texto, 1)
+    m = RE_MARCA.search(texto[:e.start()] if e else texto)
+    return m.group(0)[:200] if m and m.start() < 100 and not RE_PARCIAL.search(m.group(0)) else None
 
 
 def frontmatter(texto):
@@ -56,7 +79,7 @@ CREATE TABLE documentos (
   afectaciones TEXT, ruta TEXT);
 
 CREATE TABLE fragmentos (
-  id TEXT PRIMARY KEY, doc_id TEXT, clave TEXT, titulo TEXT, ubicacion TEXT, texto TEXT);
+  id TEXT PRIMARY KEY, doc_id TEXT, clave TEXT, titulo TEXT, ubicacion TEXT, texto TEXT, marca TEXT);
 CREATE INDEX ix_frag_doc ON fragmentos(doc_id);
 
 CREATE TABLE relaciones (
@@ -66,28 +89,31 @@ CREATE INDEX ix_rel_origen ON relaciones(origen);
 
 CREATE VIRTUAL TABLE busqueda USING fts5(id UNINDEXED, titulo, texto, tokenize='unicode61 remove_diacritics 2');
 
--- Afectaciones agrupadas por destino. group_concat ignora los NULL.
-CREATE VIEW afectaciones AS SELECT destino,
-  group_concat(CASE WHEN tipo IN {MATA} AND fecha <= date('now') THEN origen||' ('||tipo||')' END, ' | ') AS mata,
-  group_concat(CASE WHEN tipo = 'suspende'  AND fecha <= date('now') THEN origen END, ' | ') AS suspendido,
-  group_concat(CASE WHEN tipo IN {CONDICIONA} THEN origen||': '||COALESCE(nota,'SIN NOTA') END, ' | ') AS condicion,
-  group_concat(CASE WHEN tipo IN {REFORMA}    THEN origen||' ('||tipo||')' END, ' | ') AS reformas
-FROM relaciones GROUP BY destino;
-
--- Vigencia derivada, nunca almacenada (esquema.md §2.2 y §7).
-CREATE VIEW vigencia AS SELECT
-  f.id AS articulo, f.doc_id, d.titulo_corto, f.titulo AS epigrafe,
-  CASE WHEN a.mata IS NOT NULL THEN 'MUERTO'
-       WHEN a.suspendido IS NOT NULL THEN 'SUSPENDIDO'
-       WHEN a.condicion IS NOT NULL THEN 'VIGENTE_CONDICIONADO'
-       WHEN a.reformas IS NOT NULL THEN 'VIGENTE_REFORMADO'
+-- Vigencia derivada, nunca almacenada (esquema.md §2.2 y §7). Subconsultas por
+-- artículo (destino = artículo o su norma): una fila por artículo, sin duplicados.
+CREATE VIEW vigencia AS SELECT articulo, doc_id, titulo_corto, epigrafe,
+  CASE WHEN mata IS NOT NULL THEN 'MUERTO'
+       WHEN suspendido IS NOT NULL THEN 'SUSPENDIDO'
+       WHEN condicion IS NOT NULL THEN 'VIGENTE_CONDICIONADO'
+       WHEN reformas IS NOT NULL THEN 'VIGENTE_REFORMADO'
        ELSE 'VIGENTE' END AS estado,
-  a.mata, a.suspendido, a.condicion, a.reformas, d.verificado
-FROM fragmentos f
-JOIN documentos d ON d.id = f.doc_id
-LEFT JOIN afectaciones a ON a.destino = f.id OR a.destino = f.doc_id
-WHERE f.clave LIKE 'art:%';
-""".format(MATA=str(MATA), CONDICIONA=str(CONDICIONA), REFORMA=str(REFORMA))
+  mata, suspendido, condicion, reformas, verificado
+FROM (SELECT f.id AS articulo, f.doc_id, d.titulo_corto, f.titulo AS epigrafe, d.verificado,
+  NULLIF(rtrim(COALESCE((SELECT group_concat(r.origen||' ('||r.tipo||')', ' | ') FROM relaciones r
+      WHERE r.destino IN (f.id, f.doc_id) AND {EF} AND (r.tipo IN {MATA}
+        OR (r.tipo = 'declara_inexequible' AND {TOTAL}))) || ' | ', '')
+    || COALESCE('marcador en texto: ' || f.marca, ''), ' |'), '') AS mata,
+  (SELECT group_concat(r.origen, ' | ') FROM relaciones r
+      WHERE r.destino IN (f.id, f.doc_id) AND r.tipo = 'suspende' AND {EF}) AS suspendido,
+  (SELECT group_concat(r.origen||': '||CASE WHEN r.tipo = 'declara_inexequible' THEN '{PARCIAL}'
+        ELSE COALESCE(NULLIF(r.nota,''),'SIN NOTA') END, ' | ') FROM relaciones r
+      WHERE r.destino IN (f.id, f.doc_id) AND (r.tipo IN {CONDICIONA}
+        OR (r.tipo = 'declara_inexequible' AND {EF} AND NOT {TOTAL}))) AS condicion,
+  (SELECT group_concat(r.origen||' ('||r.tipo||')', ' | ') FROM relaciones r
+      WHERE r.destino IN (f.id, f.doc_id) AND r.tipo IN {REFORMA}) AS reformas
+FROM fragmentos f JOIN documentos d ON d.id = f.doc_id WHERE f.clave LIKE 'art:%');
+""".format(MATA=str(MATA), CONDICIONA=str(CONDICIONA), REFORMA=str(REFORMA),
+           EF=EF, TOTAL=TOTAL, PARCIAL=PARCIAL)
 
 COLS = ("id clase tipo titulo titulo_corto fecha ramas estado_general corporacion "
         "sala ponente decision hito fuente verificado afectaciones ruta").split()
@@ -116,11 +142,30 @@ def construir(db_path=DB, raiz=RAIZ):
                 meta["ramas"] = ",".join(meta["ramas"])
             con.execute("INSERT OR REPLACE INTO documentos VALUES (%s)" % ",".join("?" * len(COLS)),
                         [meta.get(c) for c in COLS])
-            for clave, titulo, ubicacion, texto in fragmentos(cuerpo):
+            frags = fragmentos(cuerpo)
+            for clave, titulo, ubicacion, texto in frags:
+                # esquema §4: de una sentencia se guarda la ficha, no el texto completo.
+                # Solo si no hay nada más se deja un extracto, marcado como tal.
+                if clase == "jurisprudencia" and clave == "texto":
+                    if len(frags) > 1:
+                        continue
+                    if len(texto) > 4000:
+                        texto = texto[:4000] + "\n\n[… extracto; texto completo en la fuente]"
                 fid = meta["id"] + ":" + clave
-                con.execute("INSERT OR REPLACE INTO fragmentos VALUES (?,?,?,?,?,?)",
-                            (fid, meta["id"], clave, titulo, ubicacion, texto))
+                con.execute("INSERT OR REPLACE INTO fragmentos VALUES (?,?,?,?,?,?,?)",
+                            (fid, meta["id"], clave, titulo, ubicacion, texto,
+                             marca(texto) if clave.startswith("art:") else None))
                 con.execute("INSERT INTO busqueda VALUES (?,?,?)", (fid, titulo, texto))
+
+    docs = {r[0] for r in con.execute("SELECT id FROM documentos")}
+
+    def destino(d):
+        p = d.split(":")
+        if len(p) >= 4 and ":".join(p[:4]) not in docs and p[1] in ALIAS:
+            alt = [p[0], ALIAS[p[1]]] + p[2:]
+            if ":".join(alt[:4]) in docs:
+                return ":".join(alt)
+        return d
 
     csv_path = os.path.join(raiz, "relaciones.csv")
     if os.path.exists(csv_path):
@@ -128,9 +173,10 @@ def construir(db_path=DB, raiz=RAIZ):
             for fila in csv.DictReader(fh):
                 if not fila.get("origen", "").strip():
                     continue
-                con.execute("INSERT INTO relaciones VALUES (?,?,?,?,?,?)",
-                            [fila.get(c, "").strip() for c in
-                             ("origen", "tipo", "destino", "fecha", "nota", "fuente")])
+                v = [fila.get(c, "").strip() for c in
+                     ("origen", "tipo", "destino", "fecha", "nota", "fuente")]
+                v[2] = destino(v[2])
+                con.execute("INSERT INTO relaciones VALUES (?,?,?,?,?,?)", v)
     con.commit()
 
     # Aristas que apuntan a algo que no está cargado: no es error, es cola de trabajo.
@@ -144,6 +190,12 @@ def construir(db_path=DB, raiz=RAIZ):
     if perdidos:
         avisos.append("%d aristas apuntan a artículos INEXISTENTES de normas cargadas "
                       "— la extracción perdió texto" % perdidos)
+
+    malas = con.execute("""SELECT COUNT(*) FROM relaciones WHERE fecha <> ''
+        AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'""").fetchone()[0]
+    if malas:
+        avisos.append("%d relaciones con fecha mal formada (no AAAA-MM-DD) — se tratan "
+                      "como ya surtidas; corregir en relaciones.csv" % malas)
 
     n = lambda t: con.execute("SELECT COUNT(*) FROM " + t).fetchone()[0]
     print("documentos=%d articulos/fichas=%d relaciones=%d destinos_sin_cargar=%d"
@@ -164,13 +216,30 @@ def check():
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n"
                  "## art:1 — Uno\nTexto uno sobre hipoteca.\n\n"
                  "## art:2 — Dos\nTexto dos.\n\n## art:3 — Tres\nTexto tres.\n"
-                 "\n## art:4 — Cuatro\nTexto cuatro.\n")
+                 "\n## art:4 — Cuatro\nTexto cuatro.\n"
+                 "\n## art:5 — Cinco\nTexto cinco.\n\n## art:6 — Seis\nTexto seis.\n"
+                 "\n## art:7 —\n<Artículo INEXEQUIBLE>\n\n## art:8 —\n<Artículo derogado por la Ley 9 de 2001>\n"
+                 "\n## art:9 —\n<Artículo derogado en lo referente a X, por la Ley 9 de 2001> Texto.\n"
+                 "\n## art:10 — Diez\nTexto diez. ARTÍCULO 10A. <Artículo derogado por la Ley 9 de 2001>\n"
+                 "\n## art:11 — Once\nTexto once.\n")
+    with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
+        fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nramas: [civil]\n"
+                 "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n")
+    with open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8") as fh:
+        fh.write("---\nid: co:csj:sc-1:2020\ntipo: sentencia\nramas: [civil]\n"
+                 "fuente: http://x\nverificado: 2026-01-01\n---\n\n## resuelve\nCasa.\n\n## texto\nTodo.\n")
     with open(tmp + "/relaciones.csv", "w", encoding="utf-8") as fh:
         fh.write("origen,tipo,destino,fecha,nota,fuente\n"
                  "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
                  "co:cc:c-1:2030,declara_inexequible,co:ley:1:2000:art:2,2030-01-01,,x\n"
                  "co:cc:c-2:2005,declara_exequible_condicionado,co:ley:1:2000:art:3,2005-01-01,solo si se lee asi,x\n"
-                 "co:ley:3:2002:art:1,modifica,co:ley:1:2000:art:4,2002-01-01,,x\n")
+                 "co:ley:3:2002:art:1,modifica,co:ley:1:2000:art:4,2002-01-01,,x\n"
+                 "co:ley:3:2002:art:2,subroga,co:ley:1:2000:art:5,2002-01-01,,x\n"
+                 "co:cc:c-3:2010,declara_inexequible,co:ley:1:2000:art:6,2010-01-01,,x\n"
+                 "co:cc:c-4:1993,declara_inexequible,co:ley:1:2000:art:7,93-12-31,,x\n"
+                 "co:ley:4:2003,deroga,co:ley-estatutaria:1:2000:art:11,2003-01-01,,x\n"
+                 "co:ley:6:2006,modifica,co:ley:5:2005,2006-01-01,,x\n"
+                 "co:ley:6:2006:art:1,modifica,co:ley:5:2005:art:1,2006-01-01,,x\n")
     construir(tmp + "/i.db", tmp)
     con = sqlite3.connect(tmp + "/i.db")
     est = dict(con.execute("SELECT articulo, estado FROM vigencia"))
@@ -181,6 +250,16 @@ def check():
     cond = con.execute("SELECT condicion FROM vigencia WHERE articulo=?",
                        ("co:ley:1:2000:art:3",)).fetchone()[0]
     assert "solo si se lee asi" in cond, "la nota del condicionamiento debe salir siempre"
+    assert est["co:ley:1:2000:art:5"] == "VIGENTE_REFORMADO", "subrogar reemplaza el texto, no mata"
+    assert est["co:ley:1:2000:art:6"] == "VIGENTE_CONDICIONADO", "inexequible sin prueba de total no mata"
+    assert est["co:ley:1:2000:art:7"] == "MUERTO", "marcador + fecha de 2 dígitos no es futura"
+    assert est["co:ley:1:2000:art:8"] == "MUERTO", "marcador de derogatoria en el texto"
+    assert est["co:ley:1:2000:art:9"] == "VIGENTE", "derogatoria parcial no mata"
+    assert est["co:ley:1:2000:art:10"] == "VIGENTE", "el marcador de un artículo pegado no cuenta"
+    assert est["co:ley:1:2000:art:11"] == "MUERTO", "alias ley-estatutaria -> ley"
+    assert "c-4:1993" in con.execute("SELECT mata FROM vigencia WHERE articulo='co:ley:1:2000:art:7'").fetchone()[0]
+    assert con.execute("SELECT count(*) FROM vigencia WHERE articulo='co:ley:5:2005:art:1'").fetchone()[0] == 1
+    assert con.execute("SELECT count(*) FROM fragmentos WHERE clave='texto'").fetchone()[0] == 0
     # FTS5 sin tildes: buscar "hipoteca" debe pegar aunque se escriba con acento raro
     assert con.execute("SELECT count(*) FROM busqueda WHERE busqueda MATCH 'hipoteca'").fetchone()[0] == 1
     con.close(); shutil.rmtree(tmp)
